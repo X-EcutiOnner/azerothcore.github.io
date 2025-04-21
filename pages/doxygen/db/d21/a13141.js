@@ -1,10 +1,8 @@
 var a13141 =
 [
-    [ "MoveDelayed", "db/d21/a13141.html#a3bf695ce31bb531b134c6c7018f4f197", null ],
-    [ "Execute", "db/d21/a13141.html#aa0db97475196b58bbed1f6bff1440fc6", null ],
-    [ "_o", "db/d21/a13141.html#ad0d76a04b7e85ea8667b05ec438316a0", null ],
-    [ "_owner", "db/d21/a13141.html#a2f7baa4bc22adeac8136df7269eb2895", null ],
-    [ "_x", "db/d21/a13141.html#aa490d19022c27932e76af38281fe158b", null ],
-    [ "_y", "db/d21/a13141.html#a195fc5719683ad645f36b06fd4f60d9f", null ],
-    [ "_z", "db/d21/a13141.html#a6aafdee829472bf22102645e1ff5e7a6", null ]
+    [ "npc_madrigosa", "db/d21/a13141.html#a7624e25e00c1e7505ba171d0be40beb3", null ],
+    [ "DoAction", "db/d21/a13141.html#aaf481ec840e679a9633bd3ecdb4eb3df", null ],
+    [ "UpdateAI", "db/d21/a13141.html#a3431d13ea4ebd97d3fc6e542f89e033d", null ],
+    [ "events", "db/d21/a13141.html#a5859e4c8454371eb71740616d4763c0e", null ],
+    [ "instance", "db/d21/a13141.html#a09525d3bb35d1da4246bd84bbadea304", null ]
 ];

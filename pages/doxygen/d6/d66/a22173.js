@@ -1,7 +1,6 @@
 var a22173 =
 [
-    [ "boss_yoggsaron_keeperAI", "d6/d66/a22173.html#aef31baac3859c3aa04178f1382be5b58", null ],
-    [ "DoAction", "d6/d66/a22173.html#a1da790aca13aaafd84b18df820a5bc1e", null ],
-    [ "UpdateAI", "d6/d66/a22173.html#aca9a6c32575b0b42ef222c2bc5252104", null ],
-    [ "_checkTimer", "d6/d66/a22173.html#a1c51cf5ac92f64bba4b015a8511fe5eb", null ]
+    [ "npc_wild_wyrmAI", "d2/d33/a22177.html", "d2/d33/a22177" ],
+    [ "npc_wild_wyrm", "d6/d66/a22173.html#abce8c3a368e75b4be5e05381f9eb722b", null ],
+    [ "GetAI", "d6/d66/a22173.html#aedba91446fe12997047070f123d925d2", null ]
 ];

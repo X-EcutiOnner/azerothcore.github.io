@@ -1,6 +1,7 @@
 var a13061 =
 [
-    [ "boss_kalecgosAI", "d9/d5a/a13065.html", "d9/d5a/a13065" ],
-    [ "boss_kalecgos", "da/d73/a13061.html#a7e65f80e4dbee9dbb2e891884abaa196", null ],
-    [ "GetAI", "da/d73/a13061.html#a1eab7d3ee459cb88a21efd8da834fc0e", null ]
+    [ "HandleScript", "da/d73/a13061.html#acbff60b24bd0239880378b48cb97b6a4", null ],
+    [ "PrepareSpellScript", "da/d73/a13061.html#a2f72b76ced4443a8eb1dfcf7bf6a4ac5", null ],
+    [ "Register", "da/d73/a13061.html#a132d35555f1d589caa65ecd3728976d5", null ],
+    [ "Validate", "da/d73/a13061.html#a503ce41357f8195837c9b14f2468fb5b", null ]
 ];

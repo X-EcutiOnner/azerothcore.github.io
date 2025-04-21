@@ -1,7 +1,6 @@
 var a26405 =
 [
-    [ "CalcDamage", "d6/d3a/a26405.html#a5e06d1aa2864c296b2680a83a9f2187f", null ],
-    [ "PrepareSpellScript", "d6/d3a/a26405.html#a80a748b6a18d26004b04a4486df1ebe3", null ],
-    [ "Register", "d6/d3a/a26405.html#a857a010e6426e931ca872f66803b99b9", null ],
-    [ "Validate", "d6/d3a/a26405.html#ab64625ce305efb9dc92780c945b4fd62", null ]
+    [ "PrepareSpellScript", "d6/d3a/a26405.html#ac0322966abdb57fbe19c3e2117caa56b", null ],
+    [ "Register", "d6/d3a/a26405.html#a7ddfa827654b6bb0a11aaddf41dc62f9", null ],
+    [ "SetDest", "d6/d3a/a26405.html#ad1012e0f8ae1cf2ff18d886e10d6fca6", null ]
 ];

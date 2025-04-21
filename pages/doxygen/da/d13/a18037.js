@@ -1,20 +1,15 @@
 var a18037 =
 [
-    [ "npc_muradin_bronzebeard_igbAI", "da/d13/a18037.html#aa29123d2482962c17a48e66db205207b", null ],
-    [ "AttackStart", "da/d13/a18037.html#a7b5de4a7fd5fd49847a749a82d3dbb3e", null ],
-    [ "CanAIAttack", "da/d13/a18037.html#a2e0d4d678cf315ac1d58e6bab290479f", null ],
-    [ "DamageTaken", "da/d13/a18037.html#afd7e3b65e8091e5f24367c8de65df200", null ],
-    [ "DoAction", "da/d13/a18037.html#ae57b20a747ec0421f28f6d12a55d48d3", null ],
-    [ "EnterEvadeMode", "da/d13/a18037.html#ac3ab7ebfd6ae536743d557bb26434d28", null ],
-    [ "JustEngagedWith", "da/d13/a18037.html#ad2693aba63dec87b5d57aeac7969819a", null ],
-    [ "SetData", "da/d13/a18037.html#a5416f116eb1a8707d546c99af157642d", null ],
-    [ "sGossipSelect", "da/d13/a18037.html#ad6362193938539f78d3726687f03badc", null ],
-    [ "UpdateAI", "da/d13/a18037.html#a7fe22201514986bc20fbe9e7f27d410a", null ],
-    [ "_controller", "da/d13/a18037.html#aec8a2a424ff10099437cbc7e7ca03ae3", null ],
-    [ "_events", "da/d13/a18037.html#ab72a5bf5b6313b51002ff96ca8ee4971", null ],
-    [ "_firstMageCooldown", "da/d13/a18037.html#a7cb5e81a09283c1ca915ec4419363af4", null ],
-    [ "_instance", "da/d13/a18037.html#a5d6a8a6c7b0469de2151c9363d63c0ce", null ],
-    [ "_mortarYellCooldown", "da/d13/a18037.html#af13f2f59692b16ad24d17442efe9f834", null ],
-    [ "_riflemanYellCooldown", "da/d13/a18037.html#ac7f039bb890fdd08dc616f23680d37e4", null ],
-    [ "checkTimer", "da/d13/a18037.html#a0416f980547177f722cdd4305823d99e", null ]
+    [ "npc_sindragosa_trashAI", "da/d13/a18037.html#a7401a422bc4c2140c631bc118f396f25", null ],
+    [ "GetData", "da/d13/a18037.html#a701b8189869bf20d2b3da31b73aed9da", null ],
+    [ "InitializeAI", "da/d13/a18037.html#a3a8b341c7304faa2c238305f9dde29b0", null ],
+    [ "JustEngagedWith", "da/d13/a18037.html#a0a7a0012105dea55fe4c8b51d9df5fc7", null ],
+    [ "JustRespawned", "da/d13/a18037.html#a6438b9f864f178dc4e35e24a48066980", null ],
+    [ "Reset", "da/d13/a18037.html#a823df6bb8b36ab38aa059e6d1313f2c0", null ],
+    [ "SetData", "da/d13/a18037.html#a4aaa7f3963b24ac03e2fb8aaea7b62b2", null ],
+    [ "UpdateAI", "da/d13/a18037.html#a12b995cc8c836efbf0eecc6591c85ff4", null ],
+    [ "_events", "da/d13/a18037.html#ab789c21e742fe261f9f8aa63509a7d45", null ],
+    [ "_frostwyrmId", "da/d13/a18037.html#ac2853246532bd913211fc743f4723ce0", null ],
+    [ "_instance", "da/d13/a18037.html#aa2199507fdabe850b6af9a5ae0283fdc", null ],
+    [ "_isTaunted", "da/d13/a18037.html#a50632ee1a85936748aabc5fb10f5e982", null ]
 ];

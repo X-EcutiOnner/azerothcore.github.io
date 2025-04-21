@@ -1,5 +1,6 @@
 var a24097 =
 [
-    [ "OutdoorPvP_grizzly_hills", "d9/d80/a24097.html#aa020d8120c62874fb15b4623bbb714d9", null ],
-    [ "GetOutdoorPvP", "d9/d80/a24097.html#add8a0c81bcc55c7b382c25fa077b80ce", null ]
+    [ "npcs_flanis_swiftwing_and_kagrosh", "d9/d80/a24097.html#aa95eceea94521947bd443805c8ddb52d", null ],
+    [ "OnGossipHello", "d9/d80/a24097.html#a7f331c38ec82d2c69bce4b1f861527a0", null ],
+    [ "OnGossipSelect", "d9/d80/a24097.html#aff34165955ba93e1fcd2b9731894d871", null ]
 ];

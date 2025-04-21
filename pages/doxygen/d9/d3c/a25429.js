@@ -1,5 +1,7 @@
 var a25429 =
 [
-    [ "modelId", "d9/d3c/a25429.html#a6a7f030a6445a46fe55640356e9c5124", null ],
-    [ "spellId", "d9/d3c/a25429.html#a6cfbffba97934cc420964f9b6d7645a3", null ]
+    [ "HandleScriptEffect", "d9/d3c/a25429.html#acbcc05fa433f5bf75998b15e4e25fdad", null ],
+    [ "PrepareSpellScript", "d9/d3c/a25429.html#adf5a3b94012ac871c70f5782d57ae1cd", null ],
+    [ "Register", "d9/d3c/a25429.html#a00596a3f8f0699c25e52a5778d59a2b2", null ],
+    [ "SelectTarget", "d9/d3c/a25429.html#a6a59b7ce696f959b2026cf8088079e89", null ]
 ];

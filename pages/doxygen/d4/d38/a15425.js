@@ -1,11 +1,9 @@
 var a15425 =
 [
-    [ "npc_kerlonianAI", "d4/d38/a15425.html#a0f7a4566ca93a174c92fe10e904af480", null ],
-    [ "ClearSleeping", "d4/d38/a15425.html#aea2815d79da4fa006ea150f052255b9d", null ],
-    [ "MoveInLineOfSight", "d4/d38/a15425.html#a8b0a606510d278f26099a125d583377a", null ],
-    [ "Reset", "d4/d38/a15425.html#a20fac33bf3322ad0caf72ea883680b8d", null ],
-    [ "SetSleeping", "d4/d38/a15425.html#a0e1e6beaa98090d8bf8a17d28a9ee733", null ],
-    [ "SpellHit", "d4/d38/a15425.html#a1df028085cf1cb9e8152cdb70a3d28b1", null ],
-    [ "UpdateFollowerAI", "d4/d38/a15425.html#aa86dc8b3e934ff3297f7316de5420fe6", null ],
-    [ "FallAsleepTimer", "d4/d38/a15425.html#a8cfd8d869f8a313d041d89f8d0daa1bb", null ]
+    [ "npc_thrall_warchiefAI", "d3/da6/a15429.html", "d3/da6/a15429" ],
+    [ "npc_thrall_warchief", "d4/d38/a15425.html#a3958f0b444537ac8a5ebf55de44e3590", null ],
+    [ "GetAI", "d4/d38/a15425.html#a4fc3d5410b959b4289f1ced17d412c03", null ],
+    [ "OnGossipHello", "d4/d38/a15425.html#a5cd40c062fb07d2ddfffdc159f2935d3", null ],
+    [ "OnGossipSelect", "d4/d38/a15425.html#a63367ca0b252c148f625b305575fd768", null ],
+    [ "OnQuestReward", "d4/d38/a15425.html#aea53462e94121ad44e366d2743807c3c", null ]
 ];

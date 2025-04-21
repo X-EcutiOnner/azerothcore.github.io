@@ -1,8 +1,10 @@
 var a11625 =
 [
-    [ "CheckProc", "d0/ddc/a11625.html#a08e84f2b2ff25ed7e260e61251f9cdb9", null ],
-    [ "HandleProc", "d0/ddc/a11625.html#afd3d4786f739566056b69390553d9c71", null ],
-    [ "PrepareAuraScript", "d0/ddc/a11625.html#a3ba84d4fd311a91efa685980ffec8d77", null ],
-    [ "Register", "d0/ddc/a11625.html#aa36a2e10a6fd67fa74d08e20dc806744", null ],
-    [ "Validate", "d0/ddc/a11625.html#aeff8b89300bb5d3589a46a4f66cfd77d", null ]
+    [ "item_commandscript", "d0/ddc/a11625.html#a22f9cb46f2c3701fc5c9136c87c09435", null ],
+    [ "GetCommands", "d0/ddc/a11625.html#aab60aa980ef0f86938cfcb51e7ee20a8", null ],
+    [ "HandleItemMoveCommand", "d0/ddc/a11625.html#a6adae7cb08c0e69ac0a20c107f818a57", null ],
+    [ "HandleItemRefundCommand", "d0/ddc/a11625.html#af914e33be05148062abd89c754d939c9", null ],
+    [ "HandleItemRestoreCommand", "d0/ddc/a11625.html#a84c67a46c513c1aac2b9d2563d693929", null ],
+    [ "HandleItemRestoreListCommand", "d0/ddc/a11625.html#a40181310f4187a71a6f5f5f600a8f468", null ],
+    [ "HasItemDeletionConfig", "d0/ddc/a11625.html#a28d0b4083bf3352f80b6210f9ac00692", null ]
 ];

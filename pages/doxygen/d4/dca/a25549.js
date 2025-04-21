@@ -1,6 +1,7 @@
 var a25549 =
 [
-    [ "spell_kaelthas_remote_toy_AuraScript", "de/dbc/a25553.html", "de/dbc/a25553" ],
-    [ "spell_kaelthas_remote_toy", "d4/dca/a25549.html#acea6eaf85a3a1c1231fd2059aac9796e", null ],
-    [ "GetAuraScript", "d4/dca/a25549.html#a96ffccb019408d11523f1ce9e39bd8f0", null ]
+    [ "OnRemove", "d4/dca/a25549.html#a1f4f852ef6d5b2313df20af540eee7da", null ],
+    [ "PrepareAuraScript", "d4/dca/a25549.html#a8abf8084dd8bb1ac74b3884380cda809", null ],
+    [ "Register", "d4/dca/a25549.html#a35a8adc4944fc2333488e72498f6d252", null ],
+    [ "Validate", "d4/dca/a25549.html#aa312f28f03cc0929eb9ea8ba526ebb54", null ]
 ];

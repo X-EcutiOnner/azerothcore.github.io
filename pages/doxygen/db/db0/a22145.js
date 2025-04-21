@@ -1,6 +1,6 @@
 var a22145 =
 [
-    [ "boss_yoggsaron_crusher_tentacleAI", "dc/dcb/a22149.html", "dc/dcb/a22149" ],
-    [ "boss_yoggsaron_crusher_tentacle", "db/db0/a22145.html#a9bb0c5535bf98e186d39f235f5786ff0", null ],
-    [ "GetAI", "db/db0/a22145.html#a82b6a328197ec81223c1d00dabb79a66", null ]
+    [ "HandleScriptEffect", "db/db0/a22145.html#a1dac2806b74471332aec0595118005a3", null ],
+    [ "PrepareSpellScript", "db/db0/a22145.html#adb1efd90b7ffa23887ca4aa3afb6d99e", null ],
+    [ "Register", "db/db0/a22145.html#a2ff0986c88dcbd9aac263f62b772c992", null ]
 ];

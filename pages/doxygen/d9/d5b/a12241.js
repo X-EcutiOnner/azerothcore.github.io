@@ -1,9 +1,8 @@
 var a12241 =
 [
-    [ "boss_curator", "d9/d5b/a12241.html#a41b65078d0822ba87f3e40fc7bb10a40", null ],
-    [ "JustDied", "d9/d5b/a12241.html#a5617f51f51304682d48af11fdb0c6b8b", null ],
-    [ "JustEngagedWith", "d9/d5b/a12241.html#a848f477a101956662389cab5ffcc0727", null ],
-    [ "JustSummoned", "d9/d5b/a12241.html#ac779d275e03e6ba190617d215b217ce5", null ],
-    [ "KilledUnit", "d9/d5b/a12241.html#a9bfb89a8747251e4a84eb2f94a547f0d", null ],
-    [ "Reset", "d9/d5b/a12241.html#af6fbf3c3d77f9f052f11974f7b54feab", null ]
+    [ "FilterTargets", "d9/d5b/a12241.html#a03acb7fb2734d9c8e8e623600bc16859", null ],
+    [ "FilterTargetsEff", "d9/d5b/a12241.html#a8aeffd2a01c805246c33d22a59274c6f", null ],
+    [ "PrepareSpellScript", "d9/d5b/a12241.html#ae00bc9956c9971d62d9185c72d3bd8b5", null ],
+    [ "Register", "d9/d5b/a12241.html#aba646a238c3b4b7343f3eec8c6445eb5", null ],
+    [ "targetList", "d9/d5b/a12241.html#a874dc7877ecfae332c9f826f01afce0f", null ]
 ];

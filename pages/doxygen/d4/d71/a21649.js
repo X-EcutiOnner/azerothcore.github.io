@@ -1,6 +1,8 @@
 var a21649 =
 [
-    [ "HandleInstaKill", "d4/d71/a21649.html#ae6b11e9ce62f2463e78a0676319fecf6", null ],
-    [ "PrepareSpellScript", "d4/d71/a21649.html#a346bec845e3fcee36a48a8524c7e1a05", null ],
-    [ "Register", "d4/d71/a21649.html#a9bcd402df2fa54c304afdbd80aeb812e", null ]
+    [ "npc_future_youAI", "d4/d71/a21649.html#a7608c050dd198e3133050e222b42f62b", null ],
+    [ "EnterEvadeMode", "d4/d71/a21649.html#a0b15c8af6075e323e56b2170ce4eefc0", null ],
+    [ "MoveInLineOfSight", "d4/d71/a21649.html#a35b67f9e948f5ffbde8a423190ece603", null ],
+    [ "Reset", "d4/d71/a21649.html#a01a8cd8f94dd614de2ffefdb19cd9f29", null ],
+    [ "UpdateAI", "d4/d71/a21649.html#ac110daa6b4cf6bf26d9e9f9829577fa6", null ]
 ];

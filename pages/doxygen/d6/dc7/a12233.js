@@ -1,5 +1,7 @@
 var a12233 =
 [
-    [ "npc_chess_move_trigger", "d6/dc7/a12233.html#a6c0c37677db45ee11ebe158893d99632", null ],
-    [ "DamageTaken", "d6/dc7/a12233.html#af413c7af2254c1cc06462b2a62ac88db", null ]
+    [ "HandlePeriodic", "d6/dc7/a12233.html#a72e043202c587e6c12d0b36d679cd071", null ],
+    [ "PrepareAuraScript", "d6/dc7/a12233.html#a7ca007283e34855ee825ae160653f4a3", null ],
+    [ "Register", "d6/dc7/a12233.html#aebad39c65167042be8db3c3a1811a235", null ],
+    [ "Validate", "d6/dc7/a12233.html#aaf87c4052fd5408f7e34e2e14500e813", null ]
 ];

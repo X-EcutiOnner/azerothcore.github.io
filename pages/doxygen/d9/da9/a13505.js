@@ -1,17 +1,16 @@
 var a13505 =
 [
-    [ "pyrewood_ambushAI", "d9/da9/a13505.html#a29af91205e33cdde314edf35a44223a0", null ],
-    [ "JustDied", "d9/da9/a13505.html#a27edb00452f9d43fc25c21b4f2e70ba3", null ],
-    [ "JustEngagedWith", "d9/da9/a13505.html#a22f4ee8582e1f99ffa49664088ca10d2", null ],
-    [ "JustSummoned", "d9/da9/a13505.html#abbf652df1707f706be1507122f852040", null ],
-    [ "Reset", "d9/da9/a13505.html#a65b370d028a2d47c4c6aeec737769d08", null ],
-    [ "SummonCreatureWithRandomTarget", "d9/da9/a13505.html#a32dfe2544ad6af64f1c4a4de0fe2acc2", null ],
-    [ "SummonedCreatureDespawn", "d9/da9/a13505.html#aaf23bf0a443a21db123b39625cc1b3fc", null ],
-    [ "UpdateAI", "d9/da9/a13505.html#a7bc951934bfdb04f1bdc00719c567cae", null ],
-    [ "KillCount", "d9/da9/a13505.html#a18887d364811047446ad77525cea7386", null ],
-    [ "Phase", "d9/da9/a13505.html#aec1fc4163f3fb2d4a6047f8849c22fae", null ],
-    [ "PlayerGUID", "d9/da9/a13505.html#aac20edbf41d884daee88a7dc0a9fefb8", null ],
-    [ "QuestInProgress", "d9/da9/a13505.html#a8ad845d7389f7b430c9e6878234aae82", null ],
-    [ "Summons", "d9/da9/a13505.html#ab07bf154dfff45075900fbb4a6372623", null ],
-    [ "WaitTimer", "d9/da9/a13505.html#a1d6ca4989cf7360a18655198ccdb5459", null ]
+    [ "npc_bh_thalorien_dawnseekerAI", "d9/da9/a13505.html#aa0fc35194d16d63854926d4266569d77", null ],
+    [ "DamageTaken", "d9/da9/a13505.html#a46f47c937db63c2cd12331bce4e251cf", null ],
+    [ "EnterEvadeMode", "d9/da9/a13505.html#a55b6176ee579f5f320ce36b63f83d314", null ],
+    [ "JustSummoned", "d9/da9/a13505.html#aa23391bbed38571a86508b4c87e5c66c", null ],
+    [ "MovementInform", "d9/da9/a13505.html#a5f47c72447c197642a0081e544095489", null ],
+    [ "Reset", "d9/da9/a13505.html#a6a9beaf984d954bc11a5f7dff17ca442", null ],
+    [ "SetData", "d9/da9/a13505.html#a24293b807b8999acbb6fbe59e3c06232", null ],
+    [ "SummonedCreatureDespawn", "d9/da9/a13505.html#a095587a925d6054da2e2fdc9de2b415e", null ],
+    [ "UpdateAI", "d9/da9/a13505.html#aa432d9d89eed150f0b3cf0beaef144d2", null ],
+    [ "events", "d9/da9/a13505.html#a5b98f3bcba320cbec0116d3f4a8e4d05", null ],
+    [ "morlenGUID", "d9/da9/a13505.html#aefe243dea75b1aac366fae1395e0e398", null ],
+    [ "playerGUID", "d9/da9/a13505.html#ab93ca177abc21647a1162006ed50a551", null ],
+    [ "summons", "d9/da9/a13505.html#af36ccbeaec6bc0157cb8cac6d705c3c3", null ]
 ];

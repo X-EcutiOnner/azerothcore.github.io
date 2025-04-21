@@ -1,7 +1,7 @@
 var a15297 =
 [
-    [ "npc_anubisath_warder", "d5/d08/a15297.html#aebe14673e5c31000a9626e39d87c6775", null ],
-    [ "JustEngagedWith", "d5/d08/a15297.html#a579318fa519eb669573b2cea78c2fee3", null ],
-    [ "Reset", "d5/d08/a15297.html#aea0fac8f1eb28591b141ace55c49beeb", null ],
-    [ "UpdateAI", "d5/d08/a15297.html#aba428f1f1a016191aa4f168c616c3a29", null ]
+    [ "npc_tharnarianAI", "da/dd4/a15301.html", "da/dd4/a15301" ],
+    [ "npc_tharnarian", "d5/d08/a15297.html#a39d9d9842a7a42c5381e38d10285aa15", null ],
+    [ "GetAI", "d5/d08/a15297.html#aaff8dad5d2bdb1571ed2e7a14c64899f", null ],
+    [ "OnQuestReward", "d5/d08/a15297.html#aedf88edfd99292a68b8e08f9f05d8f00", null ]
 ];

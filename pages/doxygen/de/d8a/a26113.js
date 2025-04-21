@@ -1,6 +1,6 @@
 var a26113 =
 [
-    [ "PrepareSpellScript", "de/d8a/a26113.html#a73b5759f25e80073b9196d14db80d8dc", null ],
-    [ "Register", "de/d8a/a26113.html#a26d056e7cc507f35f8ca680edbecf320", null ],
-    [ "SetDest", "de/d8a/a26113.html#a770b5ad526d3a55d04cc281c2c2e2168", null ]
+    [ "HandleAfterHit", "de/d8a/a26113.html#a6f0ec02c8b1429a6be76465dd9badd1c", null ],
+    [ "PrepareSpellScript", "de/d8a/a26113.html#af2e6c3bfc233ee86fa2c9186cdd6b5a4", null ],
+    [ "Register", "de/d8a/a26113.html#a2a780069022e62b14992a7b69626ac3d", null ]
 ];

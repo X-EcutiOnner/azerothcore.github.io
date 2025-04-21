@@ -1,10 +1,14 @@
 var a13789 =
 [
-    [ "npc_janalai_firebombAI", "d6/d45/a13789.html#a82d0bb69a9e2b0dca40fd2a586bfb44b", null ],
-    [ "AttackStart", "d6/d45/a13789.html#a3109ec5b72bf481f4b4cee8aabc9e877", null ],
-    [ "JustEngagedWith", "d6/d45/a13789.html#ab82415e3306fe41922566ded0a33a678", null ],
-    [ "MoveInLineOfSight", "d6/d45/a13789.html#a53d1063c3c321a09c174f4c456380096", null ],
-    [ "Reset", "d6/d45/a13789.html#af13197a0cdb42b5c0feb15a425dde547", null ],
-    [ "SpellHit", "d6/d45/a13789.html#ad5a722460b77700bb567201962c4959f", null ],
-    [ "UpdateAI", "d6/d45/a13789.html#adf9c1a779979c439c26afe7872259c9b", null ]
+    [ "npc_harrison_jones", "d6/d45/a13789.html#ae408c9533166f8919c121053a3efff6c", null ],
+    [ "DoAction", "d6/d45/a13789.html#a2ecf8a9f807e879530ee6a094475e67b", null ],
+    [ "JustEngagedWith", "d6/d45/a13789.html#a884e5973ed597eeeb606f5b8a2b1c028", null ],
+    [ "MovementInform", "d6/d45/a13789.html#a5ee27ccc1aea33ecc8aee5b703e05174", null ],
+    [ "OpenMassiveGateAndCallGuards", "d6/d45/a13789.html#a8f15098ad66e2d13ddfababc2ad2e33b", null ],
+    [ "Reset", "d6/d45/a13789.html#a11b1b2da283ddaa475f3f42534702f5b", null ],
+    [ "sGossipSelect", "d6/d45/a13789.html#ae56b80041fa198063a9ce87729142420", null ],
+    [ "SpellHit", "d6/d45/a13789.html#ad3ead59986b9340529bb6c6f42dbc137", null ],
+    [ "UpdateAI", "d6/d45/a13789.html#a0c64f294257e98522e0f32171aee6080", null ],
+    [ "_instance", "d6/d45/a13789.html#adb995a4b18607a5bd7555ce6989c2525", null ],
+    [ "_phase", "d6/d45/a13789.html#a1620b4f7407aa49c3e16876148c49ba7", null ]
 ];

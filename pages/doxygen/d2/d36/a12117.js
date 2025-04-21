@@ -1,6 +1,6 @@
 var a12117 =
 [
-    [ "boss_shazzrahAI", "dc/dda/a12121.html", "dc/dda/a12121" ],
-    [ "boss_shazzrah", "d2/d36/a12117.html#a99a162d6eac5c9046a27f53ec05af7e4", null ],
-    [ "GetAI", "d2/d36/a12117.html#a8135f6ab246dbce4c2ebebe0e7f137d5", null ]
+    [ "near_scarshield_infiltrator", "d2/d36/a12117.html#a38d2e75946c429b4d80b007f190406bc", null ],
+    [ "OnTrigger", "d2/d36/a12117.html#aeb761433e3210ce85c1de4dab653a87c", null ],
+    [ "whisperedTargets", "d2/d36/a12117.html#a5655e241d2551798a960cb6375c7df23", null ]
 ];

@@ -1,7 +1,8 @@
 var a18101 =
 [
-    [ "npc_gunship_rocketeerAI", "d7/dba/a18101.html#aa9e722f32cd95fff8c72db5a41d0e84c", null ],
-    [ "CanAIAttack", "d7/dba/a18101.html#a4b4e2839e426bdb752beea09394f13dc", null ],
-    [ "MovementInform", "d7/dba/a18101.html#a7dd7f3625b177a96bcfdc5e46d944562", null ],
-    [ "UpdateAI", "d7/dba/a18101.html#af73d71750f116fb90be1c2acba75ca70", null ]
+    [ "HeightDifferenceCheck", "d7/dba/a18101.html#aa8b61811e435cce456e5cb1d798be66e", null ],
+    [ "operator()", "d7/dba/a18101.html#a1db203642683f85176f2a35eb3d10c34", null ],
+    [ "_baseObject", "d7/dba/a18101.html#a7c274be02ca58429dffaee2ea34153c6", null ],
+    [ "_difference", "d7/dba/a18101.html#af95e2bf67c8316dda982896978c45a68", null ],
+    [ "_reverse", "d7/dba/a18101.html#a89074844d5fd8b02ed99c09ac4cc5b85", null ]
 ];

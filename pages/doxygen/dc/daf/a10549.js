@@ -1,5 +1,5 @@
 var a10549 =
 [
-    [ "PacketHandler", "dc/daf/a10549.html#ae28d6ea18799c4dc90be8225fd2fad66", null ],
-    [ "Call", "dc/daf/a10549.html#a9468be560aba807419fb7e28bf0d6a41", null ]
+    [ "GuildDeclineInvitation", "dc/daf/a10549.html#a11a70a9974bb139e53f76c8b78944fe7", null ],
+    [ "Read", "dc/daf/a10549.html#ad034438e18a7feddbac376a599c1e01a", null ]
 ];

@@ -1,6 +1,7 @@
 var a18201 =
 [
-    [ "spell_igb_incinerating_blast_SpellScript", "d9/da1/a18205.html", "d9/da1/a18205" ],
-    [ "spell_igb_incinerating_blast", "d8/d88/a18201.html#ab0ae038b07a574d79248d40c1d5a2f09", null ],
-    [ "GetSpellScript", "d8/d88/a18201.html#aa7668dddef0d2c9178e0c66501a94159", null ]
+    [ "OnPeriodic", "d8/d88/a18201.html#a9635bf496ee3098e412ba7de633250b3", null ],
+    [ "PrepareAuraScript", "d8/d88/a18201.html#accb775d3a9c4ae40f5d8644c366ec39e", null ],
+    [ "Register", "d8/d88/a18201.html#aa44bb97a0d3af32b90a133582f064b0e", null ],
+    [ "Validate", "d8/d88/a18201.html#a5675fef373315edd34d096bb91c733b0", null ]
 ];

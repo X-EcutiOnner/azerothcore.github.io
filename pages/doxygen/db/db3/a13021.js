@@ -1,6 +1,7 @@
 var a13021 =
 [
-    [ "npc_demonic_vaporAI", "db/db3/a13021.html#a2ba962b2bd049d563d7788bb4cfa5be3", null ],
-    [ "Reset", "db/db3/a13021.html#a37841718d3da8dfa245fd9a9a055b2e8", null ],
-    [ "UpdateAI", "db/db3/a13021.html#ace430e1419edf2542fd0c9d5cfc925f1", null ]
+    [ "OnApply", "db/db3/a13021.html#a278a1eb6d5f856a620f5a33de294b0ec", null ],
+    [ "OnRemove", "db/db3/a13021.html#a8300f726a41882e3d3f54adc0e5bfb29", null ],
+    [ "PrepareAuraScript", "db/db3/a13021.html#a46ba800f3a3512951b83e428bc5373b9", null ],
+    [ "Register", "db/db3/a13021.html#a4a59d431c7d7607e614c4ec035e3acf7", null ]
 ];

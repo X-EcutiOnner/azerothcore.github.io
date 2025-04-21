@@ -1,6 +1,7 @@
 var a15565 =
 [
-    [ "npc_silva_filnaveth", "d4/dbb/a15565.html#a5998381865214a7b3af7823bd2557cb0", null ],
-    [ "OnGossipHello", "d4/dbb/a15565.html#a32019c17271a3f504d86cd694262fd53", null ],
-    [ "OnGossipSelect", "d4/dbb/a15565.html#a10f81dce3dbc3ef0a84c8c33c2cb2e29", null ]
+    [ "npc_lakota_windsongAI", "d4/dbb/a15565.html#a922172a38ca75adef66a2653eda7fa98", null ],
+    [ "DoSpawnBandits", "d4/dbb/a15565.html#aa63601ac87b674cb5d0594213d1e7ea9", null ],
+    [ "Reset", "d4/dbb/a15565.html#aee7a86275f93021e0e5db249b636bcd4", null ],
+    [ "WaypointReached", "d4/dbb/a15565.html#a6435c8b1521206789131889e5fa527a6", null ]
 ];

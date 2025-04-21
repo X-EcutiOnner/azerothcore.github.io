@@ -1,7 +1,6 @@
 var a10617 =
 [
-    [ "MapSessionFilter", "d4/d28/a10617.html#ad11a700c36f8f45640402e96edc74b49", null ],
-    [ "~MapSessionFilter", "d4/d28/a10617.html#a82960e741c8f64d24a764a915f14e2b8", null ],
-    [ "Process", "d4/d28/a10617.html#a54483596fe2a5a0d30fab9a13506b375", null ],
-    [ "ProcessUnsafe", "d4/d28/a10617.html#a8e3a7dd5affb24305435aea2c57718fa", null ]
+    [ "GuildPromoteMember", "d4/d28/a10617.html#af623a381aa80e827c2c29987501626ae", null ],
+    [ "Read", "d4/d28/a10617.html#a3350c1a8c81aa1368a254288849b462b", null ],
+    [ "Promotee", "d4/d28/a10617.html#af8addf6e9bc45364f595582e8f285cde", null ]
 ];

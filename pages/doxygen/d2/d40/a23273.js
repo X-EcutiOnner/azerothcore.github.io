@@ -1,6 +1,7 @@
 var a23273 =
 [
-    [ "npc_q24545_lich_kingAI", "d5/d77/a23277.html", "d5/d77/a23277" ],
-    [ "npc_q24545_lich_king", "d2/d40/a23273.html#a1864564dee4f66f1b29850b8b0f6fa29", null ],
-    [ "GetAI", "d2/d40/a23273.html#aade5ad8ba215d0571185596aa40cf9b2", null ]
+    [ "boss_hydromancer_thespia", "d2/d40/a23273.html#a5747c2da9914dcf4118ee0fb37a3a3fd", null ],
+    [ "JustDied", "d2/d40/a23273.html#ad0662daabd636bbf544a6791187d71fa", null ],
+    [ "JustEngagedWith", "d2/d40/a23273.html#af230e57ec259e5c92c4034a674d1b6a5", null ],
+    [ "KilledUnit", "d2/d40/a23273.html#ae1bb4819867ef5718cb5d9130d62fa20", null ]
 ];

@@ -1,11 +1,9 @@
 var a17425 =
 [
-    [ "npc_pos_leader_secondAI", "d0/d44/a17425.html#a2ded8591da2548921cd016d592d1f1c8", null ],
-    [ "DoAction", "d0/d44/a17425.html#a941d3b42d6a0e58496b724af56fee44a", null ],
-    [ "MovementInform", "d0/d44/a17425.html#a32f4c5c48f1a63ded0ac9b8ee763090b", null ],
-    [ "SpellHitTarget", "d0/d44/a17425.html#ae630b7b225379831d15a11f66507bc6a", null ],
-    [ "UpdateAI", "d0/d44/a17425.html#a640aea9ce4a47dd13d417748e533fc33", null ],
-    [ "barrierGUID", "d0/d44/a17425.html#a452c096475581c12bf2f4ccb12448026", null ],
-    [ "events", "d0/d44/a17425.html#a1e1ab6c1d349a9543815a29ae185feec", null ],
-    [ "pInstance", "d0/d44/a17425.html#aee9dac9efee94db3d84eb9c5fb8c88a2", null ]
+    [ "BattleExperienceEvent", "d0/d44/a17425.html#a3091b403089533ce2ebbb40fa38f28c9", null ],
+    [ "Execute", "d0/d44/a17425.html#a3971962ec90f682baeae96fe6098fa97", null ],
+    [ "_creature", "d0/d44/a17425.html#a0155536d5c2be329a1f3b57c4d852098", null ],
+    [ "_level", "d0/d44/a17425.html#a22f0d7e59f579362be4576180d0977b8", null ],
+    [ "ExperiencedSpells", "d0/d44/a17425.html#a5e2e06a386059ba2d9aff676648fa56b", null ],
+    [ "ExperiencedTimes", "d0/d44/a17425.html#a4daf5818472ebe7c8d3938e2189d8e02", null ]
 ];

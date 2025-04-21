@@ -1,12 +1,17 @@
 var a12637 =
 [
-    [ "npc_high_inquisitor_valrothAI", "d2/d76/a12637.html#afd15d7c3b64c9c84094234b1c369c6d6", null ],
-    [ "JustDied", "d2/d76/a12637.html#ac8f4f8594bbd5d984a330d52ef2fde74", null ],
-    [ "JustEngagedWith", "d2/d76/a12637.html#a9cf989be7062743685b2357309889585", null ],
-    [ "Reset", "d2/d76/a12637.html#a833adc603d6d0b2eb03ea34b925f88b0", null ],
-    [ "Shout", "d2/d76/a12637.html#aa80f070da5ad92297a5f5b7b6983085c", null ],
-    [ "UpdateAI", "d2/d76/a12637.html#abe6becc3a10e0195bd75bf1de2d6bcc6", null ],
-    [ "uiInquisitor_Penance_timer", "d2/d76/a12637.html#a765ef78cf5c30b1c46da303f4bbeb4d9", null ],
-    [ "uiRenew_timer", "d2/d76/a12637.html#a1fe70428102a0319031179c97f02cbab", null ],
-    [ "uiValroth_Smite_timer", "d2/d76/a12637.html#a527628708354414caea85b6bec3d0f1d", null ]
+    [ "boss_dorothee", "d2/d76/a12637.html#a8bd5b4753c2d8f8aced0c036912f10f1", null ],
+    [ "DoAction", "d2/d76/a12637.html#a1b9cf1e58d68d249249a8b0d082b725a", null ],
+    [ "EnterEvadeMode", "d2/d76/a12637.html#a6dfc4109370d4e932e7376a443bd64ad", null ],
+    [ "JustDied", "d2/d76/a12637.html#a289dfa1f257ca25acba9487908e6223c", null ],
+    [ "JustEngagedWith", "d2/d76/a12637.html#aa35dafeb9faf8eeea55caa0eeb669db3", null ],
+    [ "JustReachedHome", "d2/d76/a12637.html#a762209d2bf78cc21c48a426732f2354e", null ],
+    [ "Reset", "d2/d76/a12637.html#ae3f123a6a9223b7928295812326b0cb4", null ],
+    [ "SummonedCreatureDies", "d2/d76/a12637.html#a0e76c828a1c7c49741963b6e98003a66", null ],
+    [ "SummonTito", "d2/d76/a12637.html#a5c04074aab40ecaeeb84b33205b40144", null ],
+    [ "UpdateAI", "d2/d76/a12637.html#a30fbcc5e7ca4ed74b9d2895b94a9a19e", null ],
+    [ "_scheduler", "d2/d76/a12637.html#a840bcbad78ff881ef3a803ffa23d3c6e", null ],
+    [ "_startIntro", "d2/d76/a12637.html#a20e6555e2117a62fce3af7f7fb7167cc", null ],
+    [ "instance", "d2/d76/a12637.html#ac6a6f1c9074697f761e4e09550cfea71", null ],
+    [ "titoDied", "d2/d76/a12637.html#a258cc9ce32f314e723d5345ac18336bf", null ]
 ];

@@ -1,5 +1,7 @@
 var a10245 =
 [
-    [ "GuildPermissionsQuery", "d6/d81/a10245.html#a6ab30e173d26362db0065f4f9f8fa5f8", null ],
-    [ "Read", "d6/d81/a10245.html#aec20af8c3c8236627353287fe2eaa0a7", null ]
+    [ "DatabaseScript", "d6/d81/a10245.html#aab34b85df1a5ccdf17fede64baca4994", null ],
+    [ "IsDatabaseBound", "d6/d81/a10245.html#af4321bb95ed9bb3bb0e5a8a93c89c235", null ],
+    [ "OnAfterDatabaseLoadCreatureTemplates", "d6/d81/a10245.html#a2f4e91e2b1192c0ceb399cd93eb33ee3", null ],
+    [ "OnAfterDatabasesLoaded", "d6/d81/a10245.html#ab52afc833cb462693f5e0d79cff6bb3f", null ]
 ];

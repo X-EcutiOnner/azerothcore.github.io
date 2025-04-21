@@ -1,6 +1,6 @@
 var a16733 =
 [
-    [ "npc_mistress_of_painAI", "d6/d8f/a16737.html", "d6/d8f/a16737" ],
-    [ "npc_mistress_of_pain", "da/d46/a16733.html#a0261ed835454725e0e5629c295be4330", null ],
-    [ "GetAI", "da/d46/a16733.html#ae32e9b907e2e31556e72d7feb4e24e8a", null ]
+    [ "boss_marwynAI", "d6/d8f/a16737.html", "d6/d8f/a16737" ],
+    [ "boss_marwyn", "da/d46/a16733.html#a4be337e1a6b4ab6d48aa1380f3956ad4", null ],
+    [ "GetAI", "da/d46/a16733.html#af1c83878d2121163994bc327ae8e04f7", null ]
 ];

@@ -1,9 +1,7 @@
 var a05345 =
 [
-    [ "IteratorPair", "de/d6f/a05345.html#ad2e586dfd291c34c82ec71d66e59f36c", null ],
-    [ "IteratorPair", "de/d6f/a05345.html#a446d4e8dd1146b053987d48d0dcef59d", null ],
-    [ "IteratorPair", "de/d6f/a05345.html#ae8b79501762f0c0ba6e2d769c56e9f8f", null ],
-    [ "begin", "de/d6f/a05345.html#a59ff07f1663a3f98f2e10a895ab37ae4", null ],
-    [ "end", "de/d6f/a05345.html#aa515ca48852213fb51a4d83e9d5c91d2", null ],
-    [ "_iterators", "de/d6f/a05345.html#a9b08728bc90076dd1db392982840c31e", null ]
+    [ "MetricStopWatch", "de/d6f/a05345.html#a2007207e0985949f478fdeee300ea0d5", null ],
+    [ "~MetricStopWatch", "de/d6f/a05345.html#a712b660e090531e69455096afeb60c4c", null ],
+    [ "_logger", "de/d6f/a05345.html#a3af6d8a1a621f5e39b2d691ffbe2375c", null ],
+    [ "_startTime", "de/d6f/a05345.html#a74ad62e26a4f6598c76ca5c2d928d3a2", null ]
 ];

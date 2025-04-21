@@ -1,6 +1,6 @@
 var a14229 =
 [
-    [ "PeriodicTick", "dd/dec/a14229.html#a0832c36a9497674374b2998398bfc3a4", null ],
-    [ "PrepareAuraScript", "dd/dec/a14229.html#a89acb64235da1ff59da90a509fbeec9d", null ],
-    [ "Register", "dd/dec/a14229.html#aab689a2cb84dcd064736171035640584", null ]
+    [ "gameobjectId", "dd/dec/a14229.html#a5cebf652fccc66cb5f98968036405d14", null ],
+    [ "spawnIndex", "dd/dec/a14229.html#a5e8b95d6ecf69db8736941b67e2478d8", null ],
+    [ "timestamp", "dd/dec/a14229.html#a0c49f62b35e906637890fee896c74951", null ]
 ];

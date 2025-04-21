@@ -1,5 +1,7 @@
 var a19837 =
 [
-    [ "at_frozen_throne_teleport", "d4/d45/a19837.html#a8065b9f9b55b267be1757775f84de349", null ],
-    [ "OnTrigger", "d4/d45/a19837.html#ae1f9476b7f47320f545e702e9317bd03", null ]
+    [ "npc_storm_beacon_spawnAI", "d4/d45/a19837.html#a031c1941f177a18af58efcf4a1270654", null ],
+    [ "UpdateAI", "d4/d45/a19837.html#a249bf56b905ef0c8b34c737d95518c91", null ],
+    [ "_amount", "d4/d45/a19837.html#a3d2286247853cb04b9cc23cd8c0bfdd6", null ],
+    [ "_checkTimer", "d4/d45/a19837.html#a7fd6d449b6a20ba9463896244c513a67", null ]
 ];

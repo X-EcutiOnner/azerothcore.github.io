@@ -1,7 +1,6 @@
 var a10705 =
 [
-    [ "DynObjAura", "d3/d4e/a10705.html#aef75bb5d60c10ac63821b0e9baf6eb7a", null ],
-    [ "FillTargetMap", "d3/d4e/a10705.html#af8e36643ed675ff5652e4665bee9b0c3", null ],
-    [ "Remove", "d3/d4e/a10705.html#ada3f65b4a817e2337da43da437b93a3b", null ],
-    [ "Aura::Create", "d3/d4e/a10705.html#ae2c0fdfb409846fec5e861de60797112", null ]
+    [ "GuildSetGuildMaster", "d3/d4e/a10705.html#ae6ca07252de719cc506042c8d3e8285e", null ],
+    [ "Read", "d3/d4e/a10705.html#a94f16e55a840c7cba991a119af5d8263", null ],
+    [ "NewMasterName", "d3/d4e/a10705.html#a02f37610492c75373266bb93000adcbf", null ]
 ];

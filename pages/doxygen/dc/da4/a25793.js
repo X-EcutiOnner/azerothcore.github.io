@@ -1,9 +1,9 @@
 var a25793 =
 [
-    [ "npc_wounded_blood_elfAI", "dc/da4/a25793.html#a2dfcd5fa17b56c44f4056ecf4861af6e", null ],
-    [ "JustEngagedWith", "dc/da4/a25793.html#aba950ba77ff71508263cc54b28c7725b", null ],
-    [ "JustSummoned", "dc/da4/a25793.html#aa97f5294981c44b530efca1411458a97", null ],
-    [ "Reset", "dc/da4/a25793.html#a8e6be35a3079998f3bab829f5d963c71", null ],
-    [ "sQuestAccept", "dc/da4/a25793.html#a56c157928c24daae6edacd5a126ef171", null ],
-    [ "WaypointReached", "dc/da4/a25793.html#a5affcb00e28a582f8926ab2226001cd0", null ]
+    [ "OnEffectHitTargetDisarm", "dc/da4/a25793.html#ae8ce5a315886ede30eda7d3682e4ef06", null ],
+    [ "OnEffectHitTargetStun", "dc/da4/a25793.html#a5a5253b6d152b1af78de663c09451536", null ],
+    [ "OnEffectLaunchTargetDisarm", "dc/da4/a25793.html#a2bbcf5ee2d41362c80a4649a4cf7e260", null ],
+    [ "OnEffectLaunchTargetStun", "dc/da4/a25793.html#ac3d5052bf045082fb8bc02c72a0dba39", null ],
+    [ "PrepareSpellScript", "dc/da4/a25793.html#a113219d3376a23f8889f26f10744e7cb", null ],
+    [ "Register", "dc/da4/a25793.html#a12ef13dbc3e9cd95fb1d57bf393735e3", null ]
 ];

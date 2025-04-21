@@ -1,10 +1,12 @@
 var a07061 =
 [
-    [ "OwnerId", "dc/db3/a07061.html#ae6203d7a867838b279825925841a99df", null ],
-    [ "PrevOwnerId", "dc/db3/a07061.html#a8357cc41fe125545d473c1f14c3ffa05", null ],
-    [ "PrevState", "dc/db3/a07061.html#ab97cde6dcd3c3e91bb94bf39d104bf77", null ],
-    [ "State", "dc/db3/a07061.html#a6e2b1f8c232c27ab24e3ca8bca8f6b03", null ],
-    [ "Timer", "dc/db3/a07061.html#a945afa538fc0dd1a4be11f5b5ac74bcb", null ],
-    [ "TotalOwnerId", "dc/db3/a07061.html#aec31f39eb98a3686ead3b1b99c7abfde", null ],
-    [ "Tower", "dc/db3/a07061.html#a222db96ad937e31986c0c39a5a371dd7", null ]
+    [ "Type", "dc/db3/a07061.html#abfb75b18c4a43f1818cd78212c668109", [
+      [ "LIST", "dc/db3/a07061.html#abfb75b18c4a43f1818cd78212c668109a298cb25408234de02baf2085803a464a", null ],
+      [ "OWNER_LIST", "dc/db3/a07061.html#abfb75b18c4a43f1818cd78212c668109a425771069bf1ccc5efbffddcdd382f5e", null ],
+      [ "BIDDER_LIST", "dc/db3/a07061.html#abfb75b18c4a43f1818cd78212c668109a3db79062131239cf3a1812bf18377fab", null ]
+    ] ],
+    [ "AuctionSearcherRequest", "dc/db3/a07061.html#afadcce053f82ae124263a501671f35e3", null ],
+    [ "~AuctionSearcherRequest", "dc/db3/a07061.html#a8122177f0ca9b5c2393e87998a15e950", null ],
+    [ "listFaction", "dc/db3/a07061.html#a1847f75715da2de1098d0f767163f62d", null ],
+    [ "requestType", "dc/db3/a07061.html#ad7006f42aafadfa07024e1d2a278be3d", null ]
 ];

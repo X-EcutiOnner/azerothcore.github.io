@@ -1,6 +1,6 @@
 var a13269 =
 [
-    [ "spell_muru_darkness_AuraScript", "df/d70/a13273.html", "df/d70/a13273" ],
-    [ "spell_muru_darkness", "d1/d98/a13269.html#a6b6c6d9189d28bbb54cff4bee90a75b2", null ],
-    [ "GetAuraScript", "d1/d98/a13269.html#a6403321f79158cdb2834c16cb7d7c7a8", null ]
+    [ "FixOrientation", "d1/d98/a13269.html#ac4a9654d37a73f9d5ddc73ff90ce145b", null ],
+    [ "Execute", "d1/d98/a13269.html#a7af72679731c9b86b9ae36d19d1621e5", null ],
+    [ "_owner", "d1/d98/a13269.html#a5f12db3774bdeef25a300780c00db1fb", null ]
 ];

@@ -1,7 +1,7 @@
 var a17825 =
 [
-    [ "OnProc", "d8/d16/a17825.html#a72fc0de8eb90c221f17b5c1a5da02203", null ],
-    [ "PrepareAuraScript", "d8/d16/a17825.html#a09b296953c1fa3154a20ac48adaefd98", null ],
-    [ "Register", "d8/d16/a17825.html#a49759fc0dbfdd7b631e9c6419b98e8cc", null ],
-    [ "Validate", "d8/d16/a17825.html#ab2b5120cc85243ce6e34c073ae4bbbd6", null ]
+    [ "HandleSummon", "d8/d16/a17825.html#a8a96bd3a1b3cfaff09e05535eca927a9", null ],
+    [ "PrepareSpellScript", "d8/d16/a17825.html#a0213cd8e5e79aba8ba80583ceda88b95", null ],
+    [ "Register", "d8/d16/a17825.html#a01281869dc98a0af5027695391f1221f", null ],
+    [ "Validate", "d8/d16/a17825.html#a26675411e5f86e6d31f62762a3fdcd70", null ]
 ];

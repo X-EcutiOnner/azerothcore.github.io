@@ -1,5 +1,6 @@
 var a22569 =
 [
-    [ "go_palehoof_sphere", "d8/d3e/a22569.html#a9e31fe7531980a5f75af95e24cbc272d", null ],
-    [ "OnGossipHello", "d8/d3e/a22569.html#ad939fd46f8bdf32d4e158f32f2bcd8da", null ]
+    [ "instance_sethekk_halls_InstanceMapScript", "d8/d46/a22573.html", "d8/d46/a22573" ],
+    [ "instance_sethekk_halls", "d8/d3e/a22569.html#ab50d296266cf377bfb34750ec36963ef", null ],
+    [ "GetInstanceScript", "d8/d3e/a22569.html#adc07afe1aa8132f70474f9a534ecb76c", null ]
 ];

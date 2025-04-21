@@ -1,11 +1,8 @@
 var a22221 =
 [
-    [ "boss_yoggsaron_neltharionAI", "db/d6e/a22221.html#aacefe32de32513bdf46c0dd526768e25", null ],
-    [ "NextStep", "db/d6e/a22221.html#a4770948240ac56ec151c262c8996e4e4", null ],
-    [ "Reset", "db/d6e/a22221.html#a03841acfd21e920bc6589203448709a0", null ],
-    [ "Say", "db/d6e/a22221.html#ae45f051ab64ce1f96f32e5b8d073356e", null ],
-    [ "UpdateAI", "db/d6e/a22221.html#a80c174a8ffa15550627ed27ab0d8925d", null ],
-    [ "_checkTimer", "db/d6e/a22221.html#a7eef651198e09cf25c2f039bcb4a1876", null ],
-    [ "_running", "db/d6e/a22221.html#a6b2f01ed2ffe8113cbddd4a033886059", null ],
-    [ "_step", "db/d6e/a22221.html#a0ac37717e940b094d322a7e492202718", null ]
+    [ "npc_hyldsmeet_protodrakeAI", "db/d6e/a22221.html#a30794392a32b1323fb0a86615b341741", null ],
+    [ "PassengerBoarded", "db/d6e/a22221.html#acb699d519bf79702a34b7d9910fe7c9e", null ],
+    [ "UpdateAI", "db/d6e/a22221.html#afd2168f8dc7328898f5e769c31c6da5a", null ],
+    [ "_accessoryRespawnTimer", "db/d6e/a22221.html#a4c6b4236bf35278d05c4b78f1eda6b75", null ],
+    [ "_vehicleKit", "db/d6e/a22221.html#aba68a138ef44af7d012c8c7dd4c06c6d", null ]
 ];

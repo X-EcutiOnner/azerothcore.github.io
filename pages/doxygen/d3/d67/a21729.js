@@ -1,8 +1,12 @@
 var a21729 =
 [
-    [ "npc_ulduar_magnetic_coreAI", "d3/d67/a21729.html#a585437dff0c49ac1a6bf7929ab266ff5", null ],
-    [ "SetData", "d3/d67/a21729.html#a27c31856d2bfe3228ae3b0b361064d7a", null ],
-    [ "UpdateAI", "d3/d67/a21729.html#ab9113a021844aa7ea8ac46df9c50b205", null ],
-    [ "despawnTimer", "d3/d67/a21729.html#ad244ccbaeda814b9e56fad93f06f12fe", null ],
-    [ "pInstance", "d3/d67/a21729.html#a3e01c612a689d89bdbe3529c429a413d", null ]
+    [ "npc_q24545_wretched_ghoulAI", "d3/d67/a21729.html#a0e4d9b3acd1de2cd44d0a6a22007e026", null ],
+    [ "Activate", "d3/d67/a21729.html#a52f64cef6159a3bfe29a6ac551b5bbe2", null ],
+    [ "AttackStart", "d3/d67/a21729.html#a9453e2fe00c656ded0bad4d9036dbd2a", null ],
+    [ "CanAIAttack", "d3/d67/a21729.html#a9cf57308ea588cc2febb0bb2666c2afe", null ],
+    [ "Deactivate", "d3/d67/a21729.html#af7dd65b8c0a1b5b55752d7f6b85f21cc", null ],
+    [ "DoAction", "d3/d67/a21729.html#a77aad4a0446fac68a5d1785acbe825eb", null ],
+    [ "JustDied", "d3/d67/a21729.html#a2fc9b40d72eea88b2245e6b01b17384a", null ],
+    [ "JustRespawned", "d3/d67/a21729.html#ab30068f7082176c279e0667f72d750a3", null ],
+    [ "Reset", "d3/d67/a21729.html#ad94a4789b5ba019d021682f15df13589", null ]
 ];

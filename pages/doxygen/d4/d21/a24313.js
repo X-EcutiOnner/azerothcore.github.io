@@ -1,6 +1,7 @@
 var a24313 =
 [
-    [ "spell_gurtogg_eject_SpellScript", "d8/db4/a24317.html", "d8/db4/a24317" ],
-    [ "spell_gurtogg_eject", "d4/d21/a24313.html#a47643f50a74587d3912e2690e505c5af", null ],
-    [ "GetSpellScript", "d4/d21/a24313.html#a2f5fed0293e09b18b9adb8617475f46c", null ]
+    [ "npc_pet_gen_target_following_bomb", "d4/d21/a24313.html#a447c2cd258d784ca1d79c79412a1a426", null ],
+    [ "UpdateAI", "d4/d21/a24313.html#ac68f18d68a313623c04e885f9506f287", null ],
+    [ "bombSpellId", "d4/d21/a24313.html#a3c72bd26c66d3e7a85f3152557e399c4", null ],
+    [ "checkTimer", "d4/d21/a24313.html#a694ee5f884f1bd404f0ef3d3030a212f", null ]
 ];

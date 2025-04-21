@@ -1,6 +1,6 @@
 var a11061 =
 [
-    [ "FieldGuidType", "db/d13/a11061.html#a88e763ed9715ad76a0eb1c1a9ad7a59b", null ],
-    [ "FieldName", "db/d13/a11061.html#a669f1ecf12148799e59e7b3e3124d681", null ],
-    [ "IsDependentField", "db/d13/a11061.html#a241b9e8f5672e30732f0b938b02046d4", null ]
+    [ "ChannelTargetData", "db/d13/a11061.html#a26f2a2037750712d8718d9537603e3a1", null ],
+    [ "channelGUID", "db/d13/a11061.html#afad1c896d6a137ebb224fd636ba4d7f2", null ],
+    [ "spellDst", "db/d13/a11061.html#aa5cfec093a599f4bf33ebf0c73a2f4ac", null ]
 ];

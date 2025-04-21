@@ -1,12 +1,7 @@
 var a20265 =
 [
-    [ "npc_hover_diskAI", "d7/d1f/a20265.html#a1ee618b8e6393437f0e4193fc57725f3", null ],
-    [ "AttackStart", "d7/d1f/a20265.html#aec7920845132af74ecf83bbbcf221f06", null ],
-    [ "DoAction", "d7/d1f/a20265.html#a802681ba91854eec0a5d9ac1c2df761c", null ],
-    [ "MoveInLineOfSight", "d7/d1f/a20265.html#a770bbfc63a3aef7801b6ba9a542c459c", null ],
-    [ "MovementInform", "d7/d1f/a20265.html#a97c5039553d267fc3d955cb6e5eafb47", null ],
-    [ "PassengerBoarded", "d7/d1f/a20265.html#a130a40916bb42945531b02d2f3385ece", null ],
-    [ "UpdateAI", "d7/d1f/a20265.html#a5213e9b9a750e53b83621cd981741773", null ],
-    [ "events", "d7/d1f/a20265.html#adeed5599c5416f3a5d171f70b53d0023", null ],
-    [ "pInstance", "d7/d1f/a20265.html#a5141cd8297bf3dc67ce9195867a4152c", null ]
+    [ "boss_kologarn_pit_kill_bunny", "d7/d1f/a20265.html#a0ecbc2ae8850d4cfb84f40d2a13f4976", null ],
+    [ "Reset", "d7/d1f/a20265.html#afd7482896b66f040b8d57b9b6ac37059", null ],
+    [ "UpdateAI", "d7/d1f/a20265.html#ad863666aec3db81f73165148ffc98033", null ],
+    [ "_boundaryIntersect", "d7/d1f/a20265.html#abc0560637830e70d54ce1fb6b6881ca6", null ]
 ];

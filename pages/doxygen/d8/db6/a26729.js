@@ -1,6 +1,8 @@
 var a26729 =
 [
-    [ "HandleScriptEffect", "d8/db6/a26729.html#a142d6a512ba6e937985a9c21725d8d33", null ],
-    [ "PrepareSpellScript", "d8/db6/a26729.html#af46fd8adaf8fef92984376ad6aa4f9a2", null ],
-    [ "Register", "d8/db6/a26729.html#a9cbf1c0678bd0775a452aa3270dff6a0", null ]
+    [ "CheckProc", "d8/db6/a26729.html#afcda3b112699e108e2db6270836fce1b", null ],
+    [ "OnProc", "d8/db6/a26729.html#ab953f817368120933828d6b3e5e200c0", null ],
+    [ "PrepareAuraScript", "d8/db6/a26729.html#a33381b811abcd52f7a57e0f62fa73e5f", null ],
+    [ "Register", "d8/db6/a26729.html#abfdd5179215432a3e89ea7b498d49867", null ],
+    [ "Validate", "d8/db6/a26729.html#a19e8f1b9aab5ee4e718b304c87303627", null ]
 ];

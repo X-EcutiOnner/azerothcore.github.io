@@ -1,10 +1,9 @@
 var a26493 =
 [
-    [ "CalculateAPAmount", "d3/db7/a26493.html#af1d4558f6132d3c2abc71ec1dabee2e8", null ],
-    [ "CalculateResistanceAmount", "d3/db7/a26493.html#a5d6e7b92f4335176388a877e72c0e92c", null ],
-    [ "CalculateSPAmount", "d3/db7/a26493.html#a40c96996d19b9f7eeed3fda4271b9f87", null ],
-    [ "CalculateStatAmount", "d3/db7/a26493.html#ae4f96de2c558a4b0fd7659442aa3d92b", null ],
-    [ "HandleEffectApply", "d3/db7/a26493.html#aeebb14424a6ae336edd4b66d824d648a", null ],
-    [ "PrepareAuraScript", "d3/db7/a26493.html#a7e3dc351574f6d6ad3424eb7df7092df", null ],
-    [ "Register", "d3/db7/a26493.html#ab5713a34ced4d2e2a67b43e98d7a55c0", null ]
+    [ "Absorb", "d3/db7/a26493.html#a22b175a7a07f950b5be1aad60e096e4f", null ],
+    [ "CalculateAmount", "d3/db7/a26493.html#a9aa29ca1e77a2ef060d94d4d07a7c0e6", null ],
+    [ "Load", "d3/db7/a26493.html#acf7851d34fa2368c9e711e8b3943c09b", null ],
+    [ "PrepareAuraScript", "d3/db7/a26493.html#ac273b669dc396561d9ec8b523659363f", null ],
+    [ "Register", "d3/db7/a26493.html#a656f4770b0f7099f5926a8063f7d740c", null ],
+    [ "absorbPct", "d3/db7/a26493.html#a31d7ca52ace4e22652403292969baf55", null ]
 ];

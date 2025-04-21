@@ -1,10 +1,12 @@
 var a21257 =
 [
-    [ "boss_freya_elder_ironbranchAI", "d9/dfa/a21257.html#a4a7350a2bf7c813b1b18fe32566e4d56", null ],
-    [ "JustDied", "d9/dfa/a21257.html#aab878773508fcbb437661d316266b942", null ],
-    [ "JustEngagedWith", "d9/dfa/a21257.html#ab7b5df914ee5b22c25098c188306d123", null ],
-    [ "KilledUnit", "d9/dfa/a21257.html#a7dc8d3b497c2297b35f6aec70cc5447b", null ],
-    [ "Reset", "d9/dfa/a21257.html#afd87a8fc3ca55d1a91f4cc08b34095c8", null ],
-    [ "UpdateAI", "d9/dfa/a21257.html#a711cd2788bff7fbc648c039921297eac", null ],
-    [ "events", "d9/dfa/a21257.html#a88193ba77c8a0269a5b8bdc4f3dc96d2", null ]
+    [ "boss_moraggAI", "d9/dfa/a21257.html#a3ae881c9adca20a2cb894af85297d53e", null ],
+    [ "EnterEvadeMode", "d9/dfa/a21257.html#a4e70e42407f452c4685c732949fd2b52", null ],
+    [ "JustDied", "d9/dfa/a21257.html#a97516e6ad5f7f35d0329674130e76dd3", null ],
+    [ "JustEngagedWith", "d9/dfa/a21257.html#ab1d4d863a537a3c567eeda6f95f385ca", null ],
+    [ "MoveInLineOfSight", "d9/dfa/a21257.html#a52a99d72dfa017baacb76717e6db931b", null ],
+    [ "Reset", "d9/dfa/a21257.html#a8b7419c94e36b4b2292cf110a2eccb01", null ],
+    [ "UpdateAI", "d9/dfa/a21257.html#aec7645eaae190d1e7982aae181ff9224", null ],
+    [ "events", "d9/dfa/a21257.html#acd021e4216e3920f0534da95d69ba5eb", null ],
+    [ "pInstance", "d9/dfa/a21257.html#a9f179ea9b180095a1e6df11b4842c5e5", null ]
 ];

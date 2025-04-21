@@ -1,5 +1,6 @@
 var a11765 =
 [
-    [ "go_father_flame", "de/d23/a11765.html#aa992bd7029a56faca4b92637688fe845", null ],
-    [ "OnLootStateChanged", "de/d23/a11765.html#a84c7055e791a3dac66b75d327c7662c3", null ]
+    [ "boss_vanndarAI", "da/dab/a11769.html", "da/dab/a11769" ],
+    [ "boss_vanndar", "de/d23/a11765.html#a66d190d1b48fd2259a95d88235ffb7d2", null ],
+    [ "GetAI", "de/d23/a11765.html#ad1879cc6123a323ada04c49a2c691349", null ]
 ];

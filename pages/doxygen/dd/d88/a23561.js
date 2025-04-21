@@ -1,8 +1,7 @@
 var a23561 =
 [
-    [ "npc_llod_genericAI", "dd/d88/a23561.html#ac75d85ae4b59416952788102cd1db132", null ],
-    [ "Reset", "dd/d88/a23561.html#a15bd7442fef36a551cc8797f7919f57c", null ],
-    [ "UpdateAI", "dd/d88/a23561.html#aa7dce553fb699127f63281b2c47a2f02", null ],
-    [ "attackTimer", "dd/d88/a23561.html#a28a6e700d24995e477e7e7c4cc8b5d68", null ],
-    [ "summonTimer", "dd/d88/a23561.html#aeeeef545aee565c14d86d8587923c677", null ]
+    [ "FilterTargets", "dd/d88/a23561.html#a834163302ff10875227806d7d4945988", null ],
+    [ "HandleScriptEffect", "dd/d88/a23561.html#a5dd125da7dd46e2d81ab5e0f10bc00c3", null ],
+    [ "PrepareSpellScript", "dd/d88/a23561.html#a079e72d57550e03956088b4be1d11422", null ],
+    [ "Register", "dd/d88/a23561.html#abd4e0f268652652d3828ba8d350de849", null ]
 ];

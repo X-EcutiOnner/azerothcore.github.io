@@ -1,6 +1,6 @@
 var a19401 =
 [
-    [ "HandleScript", "df/df1/a19401.html#ad9b92597b3d0c1ebc7ede90c9cc7e8d7", null ],
-    [ "PrepareSpellScript", "df/df1/a19401.html#a0d328e700b06fc801d626c4563ecd46a", null ],
-    [ "Register", "df/df1/a19401.html#adb8198c2a723e2f44135dc8c72a48858", null ]
+    [ "boss_ionarAI", "d8/d52/a19405.html", "d8/d52/a19405" ],
+    [ "boss_ionar", "df/df1/a19401.html#a284da7d86f0b386e352587e0321bf465", null ],
+    [ "GetAI", "df/df1/a19401.html#a0c0f28f832458df7326842f04413af5d", null ]
 ];

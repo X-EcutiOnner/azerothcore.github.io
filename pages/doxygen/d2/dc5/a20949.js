@@ -1,6 +1,13 @@
 var a20949 =
 [
-    [ "achievement_assembly_of_iron", "d2/dc5/a20949.html#ae90d193b039d88ce38108b6617b5b8e9", null ],
-    [ "OnCheck", "d2/dc5/a20949.html#ae66b3e708b38bfe685f9d28c14c2d3f5", null ],
-    [ "_targetEntry", "d2/dc5/a20949.html#a20e8938ff30b18737fb96cf0277b5680", null ]
+    [ "npc_ulduar_arachnopod_destroyerAI", "d2/dc5/a20949.html#a52bbedf267aaa3cea68e8a5960cbc34b", null ],
+    [ "AttackStart", "d2/dc5/a20949.html#aed91dafbc50a785875b8b41c5e328d73", null ],
+    [ "DamageTaken", "d2/dc5/a20949.html#a4c2ec3cf0c5561b1b9f309bb8f180f8c", null ],
+    [ "EnterEvadeMode", "d2/dc5/a20949.html#a671a27f00e279e0a4c0827999ce26d8b", null ],
+    [ "OnCharmed", "d2/dc5/a20949.html#ae268a425326efbea1282ce116ff76e3f", null ],
+    [ "PassengerBoarded", "d2/dc5/a20949.html#a83409607638100fddd229829ee2bea40", null ],
+    [ "Reset", "d2/dc5/a20949.html#a2a7bda0ee585a7aa652081ce7ede3fa6", null ],
+    [ "UpdateAI", "d2/dc5/a20949.html#ac10669fddd193d583ecead8ed37879b3", null ],
+    [ "_spawnedMechanic", "d2/dc5/a20949.html#a2db3016e32b4e77724fea98d605eaa59", null ],
+    [ "events", "d2/dc5/a20949.html#ac61064ee3e22b476a35dce4564f65882", null ]
 ];

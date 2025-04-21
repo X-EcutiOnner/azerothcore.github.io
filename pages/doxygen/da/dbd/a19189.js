@@ -1,12 +1,8 @@
 var a19189 =
 [
-    [ "npc_strangulate_vehicleAI", "da/dbd/a19189.html#a58e79834ed3f463ad51eca703d1c99ef", null ],
-    [ "DoAction", "da/dbd/a19189.html#acf9d5a9e2f8b07f5ceb5ca75634e58fb", null ],
-    [ "IsHeroic", "da/dbd/a19189.html#adb6ae2cefeec245196d21dc1112b2d5c", null ],
-    [ "IsSummonedBy", "da/dbd/a19189.html#a381aec40cdcdf546d70b57a43978dbe9", null ],
-    [ "OnCharmed", "da/dbd/a19189.html#a40e5537897c452d35093920ddd3669b0", null ],
-    [ "PassengerBoarded", "da/dbd/a19189.html#a819746e13af95fa964c6da3d765a7c21", null ],
-    [ "UpdateAI", "da/dbd/a19189.html#a53f567b77b7dfd0ccb5a0d98c0f5ef26", null ],
-    [ "_events", "da/dbd/a19189.html#a19b493e994d246128f63d9109e87737a", null ],
-    [ "_instance", "da/dbd/a19189.html#a7a16fbe4723a95293db01d3a2d80b569", null ]
+    [ "FilterTargets", "da/dbd/a19189.html#af6700817fd92dbe495e20d5c43b5d6b5", null ],
+    [ "Load", "da/dbd/a19189.html#a639105c26214d9887b84a482ca93eb26", null ],
+    [ "PrepareSpellScript", "da/dbd/a19189.html#a354ae20be436528b16095d4cd8d37859", null ],
+    [ "Register", "da/dbd/a19189.html#a5fcc9cc654d6495f535600a6eef4c968", null ],
+    [ "DrakeGUID", "da/dbd/a19189.html#ad4bbd7d559cdcc21ae5fafae75cd8eb3", null ]
 ];

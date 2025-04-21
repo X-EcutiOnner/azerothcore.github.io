@@ -1,9 +1,17 @@
 var a05793 =
 [
-    [ "TurretAI", "db/d00/a05793.html#a0aaa1ee5eb1b2e83657ef24479d9a91e", null ],
-    [ "AttackStart", "db/d00/a05793.html#ab6eb7cf777595a4b196373123da19bea", null ],
-    [ "CanAIAttack", "db/d00/a05793.html#a47c1c38ddcc1f473104fb698fe338684", null ],
-    [ "Permissible", "db/d00/a05793.html#aac81fb574d70369fb006fb7ba22a0784", null ],
-    [ "UpdateAI", "db/d00/a05793.html#aa2d308443a31d8a06bbc63517695dfef", null ],
-    [ "m_minRange", "db/d00/a05793.html#a4cffbf9bcb29468dad6a6583c905b99a", null ]
+    [ "QueryCallbackData", "db/d00/a05793.html#a43aa5b63c21480a9a02e5b1705f5e46a", null ],
+    [ "QueryCallbackData", "db/d00/a05793.html#af3d8b55a1a392e1f471bcf7ce16d8f45", null ],
+    [ "QueryCallbackData", "db/d00/a05793.html#a81f06a2940c72077d0f8bbe0d6292c5e", null ],
+    [ "~QueryCallbackData", "db/d00/a05793.html#a7a748ec0f04555caf696be1792701134", null ],
+    [ "QueryCallbackData", "db/d00/a05793.html#aea307606758c54a99e020421acaa5697", null ],
+    [ "operator=", "db/d00/a05793.html#a135161ac21cd4f11f2178acc8316afea", null ],
+    [ "operator=", "db/d00/a05793.html#a5b4baade8dd78ab3dc00e1003f679fb3", null ],
+    [ "ConstructActiveMember", "db/d00/a05793.html#a63276ee687270e668e7c51876ced5fb1", null ],
+    [ "DestroyActiveMember", "db/d00/a05793.html#aac0ba6a0017441eb25c4b294fde99186", null ],
+    [ "MoveFrom", "db/d00/a05793.html#a4ef783bc4f06f2cbaec3f4b6ca2c49aa", null ],
+    [ "QueryCallback", "db/d00/a05793.html#a3bf0675bb0e337d06f1e7ef31d7622fe", null ],
+    [ "_isPrepared", "db/d00/a05793.html#ad4e5dcd8f5648dfa36116b9944813ec6", null ],
+    [ "_prepared", "db/d00/a05793.html#ab87a39965f1ca9d48d6e5a88fde51976", null ],
+    [ "_string", "db/d00/a05793.html#a384db60c65e7823fdbc0ff430ac8dfe1", null ]
 ];

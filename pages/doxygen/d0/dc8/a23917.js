@@ -1,6 +1,7 @@
 var a23917 =
 [
-    [ "npc_wg_siege_machineAI", "d0/d84/a23921.html", "d0/d84/a23921" ],
-    [ "npc_wg_siege_machine", "d0/dc8/a23917.html#a23dc1bbeaa396cad781ec177881e7d2a", null ],
-    [ "GetAI", "d0/dc8/a23917.html#ae8b2a71378565ad5428f1ae582cacca1", null ]
+    [ "HandleEffect", "d0/dc8/a23917.html#acb353dbdd050bfc6aa4b4b5f6433dc03", null ],
+    [ "PrepareSpellScript", "d0/dc8/a23917.html#ad95bc33917e1aa968eedc636f6e3ddcb", null ],
+    [ "Register", "d0/dc8/a23917.html#ac2b2bd2581a638553167d5c8099a70cd", null ],
+    [ "Validate", "d0/dc8/a23917.html#a7702b0e876ab5ccd750d1072ee70ed69", null ]
 ];

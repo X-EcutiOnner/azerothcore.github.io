@@ -1,6 +1,5 @@
 var a16865 =
 [
-    [ "npc_announcer_toc10", "d3/d17/a16865.html#ae495b19328c6a743dfd8f1cbf37a0bd6", null ],
-    [ "OnGossipHello", "d3/d17/a16865.html#afcc5262e7c49b7456af146de14805a06", null ],
-    [ "OnGossipSelect", "d3/d17/a16865.html#a9a2bf1d3a215332744ca473041cc0520", null ]
+    [ "at_hor_battered_hilt_start", "d3/d17/a16865.html#a1b9e6d892525cf28d71757f7861e1d1a", null ],
+    [ "OnTrigger", "d3/d17/a16865.html#a5d2d0a05b17dafe7ebb5447cfd168f69", null ]
 ];

@@ -1,22 +1,12 @@
 var a09501 =
 [
-    [ "TransportMgr", "d4/d19/a09501.html#a864650522d61689f4915228165849d38", null ],
-    [ "~TransportMgr", "d4/d19/a09501.html#a3804895a34944bf7971b27f6069e4e33", null ],
-    [ "TransportMgr", "d4/d19/a09501.html#a6aff0c119db7cd54732955f684acfab4", null ],
-    [ "AddPathNodeToTransport", "d4/d19/a09501.html#aac45c48421abd6a85bddf4b2570807dc", null ],
-    [ "AddPathRotationToTransport", "d4/d19/a09501.html#ab2fc9ffddd2c6acb4f6b8db4629a11d8", null ],
-    [ "CreateInstanceTransports", "d4/d19/a09501.html#a818028f54e44fd23ca0afecccf44ccba", null ],
-    [ "CreateTransport", "d4/d19/a09501.html#a7e0ba6cf10e10a6aeca1f683bbf7e755", null ],
-    [ "GeneratePath", "d4/d19/a09501.html#afd703e2da6667f5499e75eb6c85c4fec", null ],
-    [ "GetTransportAnimInfo", "d4/d19/a09501.html#a205be05963bc790f64ed5bfac58a87e2", null ],
-    [ "GetTransportTemplate", "d4/d19/a09501.html#a93ea26ec255ff5be114b3c0779ae894f", null ],
-    [ "instance", "d4/d19/a09501.html#a843726202931931587280fefd703cff8", null ],
-    [ "LoadTransportTemplates", "d4/d19/a09501.html#a0b3e4e63bc4194c40f5dba6ced1ed205", null ],
-    [ "operator=", "d4/d19/a09501.html#accb329967e8129ddcf857ecb6269c4d5", null ],
-    [ "SpawnContinentTransports", "d4/d19/a09501.html#afff76c3893f5a76d83d48f0074e77349", null ],
-    [ "Unload", "d4/d19/a09501.html#a99b8ff087e7d32428b8463f3ff229dee", null ],
-    [ "LoadDBCStores", "d4/d19/a09501.html#a0bbf145faec5eed353431235243dbcbf", null ],
-    [ "_instanceTransports", "d4/d19/a09501.html#a97799b68a08a24beb14abd4fae1468d1", null ],
-    [ "_transportAnimations", "d4/d19/a09501.html#a4dc2def28c51bfa78fdf01aaa25e40ae", null ],
-    [ "_transportTemplates", "d4/d19/a09501.html#a0b89cc26375f14eb4bb5f8b0d1722f8f", null ]
+    [ "LogEntry", "d4/d19/a09501.html#af61604a7dc0cc4da315a09fa5b207f37", null ],
+    [ "LogEntry", "d4/d19/a09501.html#aba3f6f501c59e356166abe71082c421b", null ],
+    [ "~LogEntry", "d4/d19/a09501.html#a3c66b8a7be1800c5a9e1dc15aab6d3e9", null ],
+    [ "GetGUID", "d4/d19/a09501.html#a7af4eac577f8da07540f81e185b2ad49", null ],
+    [ "GetTimestamp", "d4/d19/a09501.html#a643c92439463707671bb08b72bf3a447", null ],
+    [ "SaveToDB", "d4/d19/a09501.html#a1c00aa88973423a1c112c2776a14e78f", null ],
+    [ "m_guid", "d4/d19/a09501.html#a75754f42f8a202a9a319c86515a3f0dd", null ],
+    [ "m_guildId", "d4/d19/a09501.html#a89e0192732a43dc44aff3730bc5ad445", null ],
+    [ "m_timestamp", "d4/d19/a09501.html#ad19e7364e1beba61c9b7a4383b6d42c6", null ]
 ];

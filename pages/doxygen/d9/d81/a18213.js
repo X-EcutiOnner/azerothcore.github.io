@@ -1,6 +1,6 @@
 var a18213 =
 [
-    [ "spell_igb_burning_pitch_selector_SpellScript", "d6/db5/a18217.html", "d6/db5/a18217" ],
-    [ "spell_igb_burning_pitch_selector", "d9/d81/a18213.html#a439f6e41232a84b88683a9603f5854c0", null ],
-    [ "GetSpellScript", "d9/d81/a18213.html#aa95c1a9da3c4c5135cbe989d6b24dd9b", null ]
+    [ "ModDestHeight", "d9/d81/a18213.html#acd31e130e72cd93bee3544ecd2dc38ad", null ],
+    [ "PrepareSpellScript", "d9/d81/a18213.html#a288f8917d73be30234e465778b1f6544", null ],
+    [ "Register", "d9/d81/a18213.html#a69f9cdbfc33ec39f629f08f20484b29e", null ]
 ];

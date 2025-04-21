@@ -1,7 +1,10 @@
 var a15429 =
 [
-    [ "npc_prospector_remtravelAI", "da/d46/a15433.html", "da/d46/a15433" ],
-    [ "npc_prospector_remtravel", "d3/da6/a15429.html#aa213161fc60e615682252125f6c58f7f", null ],
-    [ "GetAI", "d3/da6/a15429.html#aa8e1bb551036684b05c1b3bea4c66b1d", null ],
-    [ "OnQuestAccept", "d3/da6/a15429.html#a5e11149b6359927a71c98242d979e65b", null ]
+    [ "npc_thrall_warchiefAI", "d3/da6/a15429.html#ada9c79c1591a8bd28c66329dc7c5d3dc", null ],
+    [ "DoAction", "d3/da6/a15429.html#a511da19703e30f6e82e59c5223bf2770", null ],
+    [ "JustEngagedWith", "d3/da6/a15429.html#a994a9030e2d8c5afaa66c21897e54f82", null ],
+    [ "Reset", "d3/da6/a15429.html#a920a29258228c9c2e7e0791d38b648e1", null ],
+    [ "UpdateAI", "d3/da6/a15429.html#a537ed9f2d0a638d01e877d9ca1e7fdf0", null ],
+    [ "ChainLightningTimer", "d3/da6/a15429.html#ab30df9277fc84f098e0bdd70a2ab3795", null ],
+    [ "ShockTimer", "d3/da6/a15429.html#aa8609f8824f68ce7259465284c01dd35", null ]
 ];

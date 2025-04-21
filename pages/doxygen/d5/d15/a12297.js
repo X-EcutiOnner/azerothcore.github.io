@@ -1,7 +1,5 @@
 var a12297 =
 [
-    [ "FilterTargets", "d5/d15/a12297.html#ab00f1a67df39f01aa0ead3459c3c3183", null ],
-    [ "Load", "d5/d15/a12297.html#a5bb1cb64090e1ebb3f6f7bcd1fa1ec21", null ],
-    [ "PrepareSpellScript", "d5/d15/a12297.html#a17bebef0c4c59c3fd0ccfb28e103ee3e", null ],
-    [ "Register", "d5/d15/a12297.html#ae366530ddacf45a92eaa36be7e706a84", null ]
+    [ "at_orb_of_command", "d5/d15/a12297.html#a1f0b196362b76e050eba66d3ce612623", null ],
+    [ "OnTrigger", "d5/d15/a12297.html#a8d30d303c72d5eaf59222c890ab13ca3", null ]
 ];

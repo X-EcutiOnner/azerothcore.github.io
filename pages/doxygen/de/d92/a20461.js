@@ -1,6 +1,5 @@
 var a20461 =
 [
-    [ "npc_oculus_drakeAI", "d7/d42/a20465.html", "d7/d42/a20465" ],
-    [ "npc_oculus_drake", "de/d92/a20461.html#ad2897dd72e9337af53ef2f043cd07d55", null ],
-    [ "GetAI", "de/d92/a20461.html#afd2f1678a7faef76a231e4c16bd015e5", null ]
+    [ "go_ulduar_working_harpoon", "de/d92/a20461.html#a9aaaa16f23f07e402f20a048fd69d347", null ],
+    [ "OnGossipHello", "de/d92/a20461.html#a164bdd0a9538293699665a821c4f25f3", null ]
 ];

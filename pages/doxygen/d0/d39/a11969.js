@@ -1,6 +1,11 @@
 var a11969 =
 [
-    [ "spell_geddon_inferno_AuraScript", "dd/d5c/a11973.html", "dd/d5c/a11973" ],
-    [ "spell_geddon_inferno", "d0/d39/a11969.html#a483ff441a0922389671b874ce0fb661b", null ],
-    [ "GetAuraScript", "d0/d39/a11969.html#a808ed79cda78cc61f90caa88f07a1ec4", null ]
+    [ "boss_gythAI", "d0/d39/a11969.html#aeec049af24b3a6f94051f1008ce107e6", null ],
+    [ "EnterEvadeMode", "d0/d39/a11969.html#a20296c618ad366d7ac956f16671cc408", null ],
+    [ "IsSummonedBy", "d0/d39/a11969.html#a6800421a2e9e889e649e792ee642d8ac", null ],
+    [ "JustDied", "d0/d39/a11969.html#a979da1f3922d9575b6c237b85952fb6c", null ],
+    [ "JustEngagedWith", "d0/d39/a11969.html#a6c0ca15d87851c205d94679ea65e5193", null ],
+    [ "JustSummoned", "d0/d39/a11969.html#ab9024ce261129c82d4304d2a13834a5f", null ],
+    [ "Reset", "d0/d39/a11969.html#aa3c86b403af5394a4e4cb30781bcb46b", null ],
+    [ "UpdateAI", "d0/d39/a11969.html#a66f27f6d49b40dcc2894f177b281570f", null ]
 ];

@@ -1,6 +1,7 @@
 var a25709 =
 [
-    [ "spell_npc22275_crystal_prison_AuraScript", "d3/dfb/a25713.html", "d3/dfb/a25713" ],
-    [ "spell_npc22275_crystal_prison", "d3/d25/a25709.html#ae6efa7a80701f4c98b22f0c0fef75334", null ],
-    [ "GetAuraScript", "d3/d25/a25709.html#a23b8e65fd247e1dec0faa62299c47aec", null ]
+    [ "HandleDummy", "d3/d25/a25709.html#ad6d449ac393851166d8be653639c7d05", null ],
+    [ "PrepareSpellScript", "d3/d25/a25709.html#acb0b66631c0b3df227ee371e2e4000ac", null ],
+    [ "Register", "d3/d25/a25709.html#a8dcd509be4d9034e8c0262bdcb2cf189", null ],
+    [ "Validate", "d3/d25/a25709.html#af8f4e6bb32120c8113ddddcda17ae51d", null ]
 ];

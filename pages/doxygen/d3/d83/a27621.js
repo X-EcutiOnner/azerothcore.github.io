@@ -1,6 +1,6 @@
 var a27621 =
 [
-    [ "HandleDummy", "d3/d83/a27621.html#a9530db7f75987879285d224fb8381c2b", null ],
-    [ "PrepareSpellScript", "d3/d83/a27621.html#ad1c1bdb577739f769802127960aaf9e5", null ],
-    [ "Register", "d3/d83/a27621.html#ae3a340132caf3f8839631c92015d47a0", null ]
+    [ "X", "d3/d83/a27621.html#a55bda49b2eb919415afaf780ca1977de", null ],
+    [ "Y", "d3/d83/a27621.html#a0bf22799258050a9b12ddc14bb2b4b11", null ],
+    [ "Z", "d3/d83/a27621.html#a7f0ceece775146d825d19a3cd22e5da3", null ]
 ];

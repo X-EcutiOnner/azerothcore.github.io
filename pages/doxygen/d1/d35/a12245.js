@@ -1,7 +1,7 @@
 var a12245 =
 [
-    [ "boss_maiden_of_virtue", "d1/d35/a12245.html#a4cd0c7a566e23e5c3a43466214f35dd3", null ],
-    [ "JustDied", "d1/d35/a12245.html#a6eded246318f6b47b46f45168e4a8069", null ],
-    [ "JustEngagedWith", "d1/d35/a12245.html#a6ff1b9e0a17218ad4871bc5fc3748671", null ],
-    [ "KilledUnit", "d1/d35/a12245.html#a32dd66a297d11f5ffac1841bae15727a", null ]
+    [ "HandleDummy", "d1/d35/a12245.html#a7fca477ef5c86d543cd59571ad8dc7de", null ],
+    [ "PrepareSpellScript", "d1/d35/a12245.html#a6ec124990f202af0c6063c285bf04d88", null ],
+    [ "Register", "d1/d35/a12245.html#a5adf9f0bbe5b72c4c22f569086582f0f", null ],
+    [ "Validate", "d1/d35/a12245.html#ae35efa08f507aac5b72166a216d01870", null ]
 ];

@@ -1,6 +1,7 @@
 var a21133 =
 [
-    [ "spell_pursue_SpellScript", "d3/dcc/a21137.html", "d3/dcc/a21137" ],
-    [ "spell_pursue", "d7/d3f/a21133.html#a1ba1ed11405b137a92e74a4932df3d70", null ],
-    [ "GetSpellScript", "d7/d3f/a21133.html#afbf6fce8a3c9d4d1406585367c7f6b02", null ]
+    [ "HandleScript", "d7/d3f/a21133.html#a47b991c20c523d151893fefd9d487714", null ],
+    [ "PrepareSpellScript", "d7/d3f/a21133.html#ab2db47d0a2694c0734db600e810e190d", null ],
+    [ "Register", "d7/d3f/a21133.html#a3c2e7eb24506b43730f2e971fab81c75", null ],
+    [ "Validate", "d7/d3f/a21133.html#a89d601f6036fe38238767281f3427e54", null ]
 ];

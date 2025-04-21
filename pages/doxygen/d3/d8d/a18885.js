@@ -1,6 +1,6 @@
 var a18885 =
 [
-    [ "HandleScript", "d3/d8d/a18885.html#a4dfc1f9742a7ffc3e4b06483f0fd0740", null ],
-    [ "PrepareSpellScript", "d3/d8d/a18885.html#a508472cefd1cd2d1a2bb85b885bbea4b", null ],
-    [ "Register", "d3/d8d/a18885.html#a919b1141c1c58450a73aa6aafcc24bc5", null ]
+    [ "boss_gluthAI", "d3/de1/a18889.html", "d3/de1/a18889" ],
+    [ "boss_gluth", "d3/d8d/a18885.html#a3ff6e361cd6799f41d00fa75784c4f76", null ],
+    [ "GetAI", "d3/d8d/a18885.html#a3b19c938aaecc897d6552715064be7f8", null ]
 ];

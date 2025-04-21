@@ -1,6 +1,5 @@
 var a17125 =
 [
-    [ "boss_falricAI", "db/d96/a17129.html", "db/d96/a17129" ],
-    [ "boss_falric", "dc/d41/a17125.html#aa64253f502f79db5947c09788fb66deb", null ],
-    [ "GetAI", "dc/d41/a17125.html#a95249877208d19bb54edd8de18616158", null ]
+    [ "achievement_less_rabi", "dc/d41/a17125.html#aee43dd7623f7fecc20a0acb15f342a99", null ],
+    [ "OnCheck", "dc/d41/a17125.html#a16b200bf93fa2571c8b31359ad7ca151", null ]
 ];

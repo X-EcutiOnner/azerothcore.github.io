@@ -1,5 +1,8 @@
 var a08041 =
 [
-    [ "Description", "db/d5e/a08041.html#a4187f2b02014c83bc4f1b3d65d229311", null ],
-    [ "Name", "db/d5e/a08041.html#a787ca2c05ddac7ee5c3a5c28a02b8494", null ]
+    [ "TrainerSpellData", "db/d5e/a08041.html#ab58a8a4ca9d8b609131e7f8b3ec507c9", null ],
+    [ "~TrainerSpellData", "db/d5e/a08041.html#a9bd25177856f54fa2eda882627b21644", null ],
+    [ "Find", "db/d5e/a08041.html#acee027787f06b4186b781bbd0d7db781", null ],
+    [ "spellList", "db/d5e/a08041.html#a0e157dbcebbbea5704270f182d313568", null ],
+    [ "trainerType", "db/d5e/a08041.html#a6ea889f294b37bfe1a7a40dffd1b2159", null ]
 ];

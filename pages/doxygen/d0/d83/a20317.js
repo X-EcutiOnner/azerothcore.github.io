@@ -1,14 +1,18 @@
 var a20317 =
 [
-    [ "boss_anomalusAI", "d0/d83/a20317.html#a5f7d1b7b4d7c4d298b22dbf4c8d2e6a6", null ],
-    [ "CheckEvadeIfOutOfCombatArea", "d0/d83/a20317.html#a68c052fcb1a9bc96d82a4284eec0d132", null ],
-    [ "GetData", "d0/d83/a20317.html#a561ad0c1bfc31e9c9d04e07492a96bb2", null ],
-    [ "JustDied", "d0/d83/a20317.html#ae079850413f8f0e87a8d3677a475ba95", null ],
-    [ "JustEngagedWith", "d0/d83/a20317.html#a85da2f5caadf2d38b710a731f4ffe957", null ],
-    [ "JustSummoned", "d0/d83/a20317.html#a2e5306347151100436907dc8ea6b7c86", null ],
-    [ "Reset", "d0/d83/a20317.html#a3e2711ea84cc728716c9e207d8b35ccc", null ],
-    [ "SetData", "d0/d83/a20317.html#a26500dd41960a99400606ceca91bf3e9", null ],
-    [ "UpdateAI", "d0/d83/a20317.html#a5429e5d51739b00f92b00460335f6830", null ],
-    [ "achievement", "d0/d83/a20317.html#a40fa36e5c5fc131e7c063e90ea2468a6", null ],
-    [ "activeRifts", "d0/d83/a20317.html#a66e477fb306404cc544e13417c835138", null ]
+    [ "npc_ulduar_leviathan_mkiiAI", "d0/d83/a20317.html#a5502ef972b889513a3d3d9b85d256af4", null ],
+    [ "DamageTaken", "d0/d83/a20317.html#a773f86b23d373bae4e57d4d67b270b6d", null ],
+    [ "EnterEvadeMode", "d0/d83/a20317.html#ab6d02d90b4fe5f6bda0eed4f8f05c001", null ],
+    [ "GetS3", "d0/d83/a20317.html#af76019911ce9bb993ebb7c658d30188d", null ],
+    [ "KilledUnit", "d0/d83/a20317.html#a53acdf5b1703a3feca814184a018cc3d", null ],
+    [ "MoveInLineOfSight", "d0/d83/a20317.html#a0f4f1b5876d608b01376430444e472e3", null ],
+    [ "PassengerBoarded", "d0/d83/a20317.html#a55f76a830084d7aaa3df0d6bf0630121", null ],
+    [ "Reset", "d0/d83/a20317.html#a63174d9dcdf5a0d433f9694bda6d7086", null ],
+    [ "SetData", "d0/d83/a20317.html#a214491b36ca047f666d5931365649c4c", null ],
+    [ "SpellHit", "d0/d83/a20317.html#ad9c47de936a986e6698a1b8ed6caf68f", null ],
+    [ "UpdateAI", "d0/d83/a20317.html#a4267062c75d3bee348c946be6f8d5878", null ],
+    [ "bIsEvading", "d0/d83/a20317.html#ac142b9abf799b944cd5e20cc0e9979c8", null ],
+    [ "events", "d0/d83/a20317.html#a6f12f0d68459399cf85ce030cb633d4f", null ],
+    [ "Phase", "d0/d83/a20317.html#ad9e8d511cbd34ff024799f6ec61fe1ff", null ],
+    [ "pInstance", "d0/d83/a20317.html#aa991c7f1cf64ca7e0963323222ffc1dd", null ]
 ];

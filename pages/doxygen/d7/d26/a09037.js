@@ -1,8 +1,10 @@
 var a09037 =
 [
-    [ "AllDeadCreaturesInRange", "d7/d26/a09037.html#a31b4976c3ea6203b9a1e7f7970a97977", null ],
-    [ "operator()", "d7/d26/a09037.html#a3638a8d3c5791b590ec717e4f1ba9cef", null ],
-    [ "_obj", "d7/d26/a09037.html#a4ca7fcf9945e698a790d01d3fadae98e", null ],
-    [ "_range", "d7/d26/a09037.html#a431ada86a2b864d53773a85b05d8da4f", null ],
-    [ "_reqAlive", "d7/d26/a09037.html#aefd0d77b69b5df9b99c148e0254fda09", null ]
+    [ "~GridCell", "d7/d26/a09037.html#ab6ca5fbc81f184597445b7aef70bb2ad", null ],
+    [ "AddGridObject", "d7/d26/a09037.html#a22ac43b185d6a34c04fb5a36970d7df2", null ],
+    [ "AddWorldObject", "d7/d26/a09037.html#a039ebb29cf4bd2eeb7fca43eba302542", null ],
+    [ "Visit", "d7/d26/a09037.html#a6409c692a1f6ddfee1b3c2806d161d44", null ],
+    [ "Visit", "d7/d26/a09037.html#a2d13e0178010836f05280c1b5b11ad57", null ],
+    [ "_gridObjects", "d7/d26/a09037.html#a1a3fdbe9e3b937c05f82572d6f757e87", null ],
+    [ "_worldObjects", "d7/d26/a09037.html#a29d0551bee2df852e262846d82e90dba", null ]
 ];

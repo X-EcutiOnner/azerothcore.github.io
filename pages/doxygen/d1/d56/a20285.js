@@ -1,5 +1,6 @@
 var a20285 =
 [
-    [ "go_the_focusing_iris", "d1/d56/a20285.html#a9c2fa1e739ff98ebdd9b9fdcc2ab5ece", null ],
-    [ "OnGossipHello", "d1/d56/a20285.html#a7f3f1170713d63f912ca5732453a7e33", null ]
+    [ "FilterTargets", "d1/d56/a20285.html#ae8d940a89be9b63286911bd55dcd3844", null ],
+    [ "PrepareSpellScript", "d1/d56/a20285.html#a8f4b4d82e53c8f820b620896478681a9", null ],
+    [ "Register", "d1/d56/a20285.html#a744d5cb8de927410ab1bf72008fff8b3", null ]
 ];

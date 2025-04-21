@@ -1,11 +1,17 @@
 var a09865 =
 [
-    [ "AllMapScript", "dd/d92/a09865.html#abaf4ffb766b2e5780a9c15c8136d8e26", null ],
-    [ "OnBeforeCreateInstanceScript", "dd/d92/a09865.html#ad398177177c6b436cc9279f5e49818b4", null ],
-    [ "OnCreateMap", "dd/d92/a09865.html#a56aa53bfb0a1cb7ad7cb677771739b46", null ],
-    [ "OnDestroyInstance", "dd/d92/a09865.html#a990130b4cd594c1cd04368aea300a49e", null ],
-    [ "OnDestroyMap", "dd/d92/a09865.html#a6bebd1e6e36b5714598439a6c6dfaad6", null ],
-    [ "OnMapUpdate", "dd/d92/a09865.html#a6edbb719d998c57caba09eef7ad559e0", null ],
-    [ "OnPlayerEnterAll", "dd/d92/a09865.html#a42e4af596effb07a00b353164f32cec9", null ],
-    [ "OnPlayerLeaveAll", "dd/d92/a09865.html#adcfd501bee055317bff2a63ef28c3eab", null ]
+    [ "GraveyardContainer", "dd/d92/a09865.html#a21ce8ad954d37b385e339c5247f17ffd", null ],
+    [ "AddGraveyardLink", "dd/d92/a09865.html#ab4884f2b2b4f00dd9ea65c1ceb2af1bb", null ],
+    [ "FindGraveyardData", "dd/d92/a09865.html#a54a4461db550d5383fded30a6ecd0408", null ],
+    [ "GetClosestGraveyard", "dd/d92/a09865.html#af989ee1a2f802a0cb5addf50a0586d63", null ],
+    [ "GetDefaultGraveyard", "dd/d92/a09865.html#ab6ef1306db71eb2f2d72167314d5e1c2", null ],
+    [ "GetGraveyard", "dd/d92/a09865.html#addd1a184b9791c8c6a74fb228545741b", null ],
+    [ "GetGraveyard", "dd/d92/a09865.html#aeb72f07dd677dfe31d0e4b45f2f9ddd6", null ],
+    [ "GetGraveyardData", "dd/d92/a09865.html#ab9ebb6afa55d30e64d460b81f9297f09", null ],
+    [ "instance", "dd/d92/a09865.html#aaaf39d71af738cac8dd427ca94a5689b", null ],
+    [ "LoadGraveyardFromDB", "dd/d92/a09865.html#aff7880b8c557fac494e3b8213a048f32", null ],
+    [ "LoadGraveyardZones", "dd/d92/a09865.html#ac398379a421eabea55729e867d57383f", null ],
+    [ "RemoveGraveyardLink", "dd/d92/a09865.html#af957c28b4ccfc7b1853280b7441c958d", null ],
+    [ "_graveyardStore", "dd/d92/a09865.html#a77fb8dad0ae4ea7af0823c0bcafba787", null ],
+    [ "GraveyardStore", "dd/d92/a09865.html#afe83a8248fa6617b868cadd0699af96e", null ]
 ];

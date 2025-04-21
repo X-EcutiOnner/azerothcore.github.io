@@ -1,6 +1,14 @@
 var a22473 =
 [
-    [ "spell_frost_tombAuraScript", "d1/d58/a22477.html", "d1/d58/a22477" ],
-    [ "spell_frost_tomb", "d2/ddf/a22473.html#a32d5aacd94d226df0a8462a8221ed426", null ],
-    [ "GetAuraScript", "d2/ddf/a22473.html#a408b6f7b23af5caa33000b16914faefc", null ]
+    [ "OPvPCapturePointTF", "d2/ddf/a22473.html#af71fd9e2b7cdfa8c4a352bb5f4ce3d33", null ],
+    [ "ChangeState", "d2/ddf/a22473.html#aa1e2611ef1b260ab363fd2645de142b0", null ],
+    [ "FillInitialWorldStates", "d2/ddf/a22473.html#a8f8588000b515e0c33449f9d7c1357a3", null ],
+    [ "HandlePlayerEnter", "d2/ddf/a22473.html#ae73763b63f5c1522c9b9c5950a6e5dfe", null ],
+    [ "HandlePlayerLeave", "d2/ddf/a22473.html#ace20d19311478a136ae0b75016c36ea8", null ],
+    [ "ResetToTeamControlled", "d2/ddf/a22473.html#a7ad637f6a4005da3166601dafda52d1b", null ],
+    [ "SendChangePhase", "d2/ddf/a22473.html#a16efee78249e510e211b18694ea868f2", null ],
+    [ "Update", "d2/ddf/a22473.html#a15b0758d901bf98f65fa2ee87bb4b401", null ],
+    [ "UpdateTowerState", "d2/ddf/a22473.html#a3f6cbfddd3322e3d948a1330cfa0e4d8", null ],
+    [ "m_TowerState", "d2/ddf/a22473.html#a74e1c07d3186fb6ba54b65efa9700989", null ],
+    [ "m_TowerType", "d2/ddf/a22473.html#ace7e183b6dd438b9649e9ee60c6d00e2", null ]
 ];

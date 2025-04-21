@@ -1,7 +1,6 @@
 var a19205 =
 [
-    [ "CalculateBonus", "d1/d53/a19205.html#a7e01b2217f6d2b875f744b366fdd2373", null ],
-    [ "OnPeriodic", "d1/d53/a19205.html#a5af46e99b9c66a8f6442fa4d657fcb2b", null ],
-    [ "PrepareAuraScript", "d1/d53/a19205.html#a8990d80f14a4a0b4cfe15f99ba699883", null ],
-    [ "Register", "d1/d53/a19205.html#aa104f352e770292e2de741e0311b4105", null ]
+    [ "ChargeRifts", "d1/d53/a19205.html#aec98a12dec1f2ad98e00d399b0e2a1d5", null ],
+    [ "Execute", "d1/d53/a19205.html#a8d01bf861d37c25413dc14eee16a2939", null ],
+    [ "_caster", "d1/d53/a19205.html#a3cbf5f7e26de337dadd9d96a43d728b0", null ]
 ];

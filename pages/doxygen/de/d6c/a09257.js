@@ -1,8 +1,10 @@
 var a09257 =
 [
-    [ "BossInfo", "de/d6c/a09257.html#a455f533d647927d182176c3cceb21f42", null ],
-    [ "boundary", "de/d6c/a09257.html#aa4fb2bc78efb3393004c0f827000e4f1", null ],
-    [ "door", "de/d6c/a09257.html#a858af8825ed4fe183ee19b6f10239304", null ],
-    [ "minion", "de/d6c/a09257.html#abec1469d41f286d02c34223171373cd3", null ],
-    [ "state", "de/d6c/a09257.html#a1e4413b3a8bac20ed9e7ac878e3066f7", null ]
+    [ "AnyDeadUnitObjectInRangeCheck", "de/d6c/a09257.html#ad51c7d9c256d8d769e7e5df2a618f233", null ],
+    [ "operator()", "de/d6c/a09257.html#a71355418a935e1e4c4f5294c0e6a244f", null ],
+    [ "operator()", "de/d6c/a09257.html#ae885f49537043421a92b44c201bec358", null ],
+    [ "operator()", "de/d6c/a09257.html#a92b2dcfedf97677e84f46ee0e3affb91", null ],
+    [ "operator()", "de/d6c/a09257.html#ae7a76a9bcc28c6e4705a2885b02be20d", null ],
+    [ "i_range", "de/d6c/a09257.html#a1a95cfd469f27284e6ff35e9856bddcb", null ],
+    [ "i_searchObj", "de/d6c/a09257.html#acf10f61f95961ff4b9fd4a8c162fa029", null ]
 ];

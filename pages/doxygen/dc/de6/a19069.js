@@ -1,6 +1,6 @@
 var a19069 =
 [
-    [ "npc_raging_spiritAI", "d7/dc0/a19073.html", "d7/dc0/a19073" ],
-    [ "npc_raging_spirit", "dc/de6/a19069.html#ad1a580bd394adc8c58575b600c16f9db", null ],
-    [ "GetAI", "dc/de6/a19069.html#ab572a667f6ddd0d4051fe424c8d9e21c", null ]
+    [ "boss_thaddius_summonAI", "d7/dc0/a19073.html", "d7/dc0/a19073" ],
+    [ "boss_thaddius_summon", "dc/de6/a19069.html#a0fd6c83b5ff6d62b1649f9a13de05c73", null ],
+    [ "GetAI", "dc/de6/a19069.html#aaab5973012f9ac55e8b29cc90f5ec98e", null ]
 ];

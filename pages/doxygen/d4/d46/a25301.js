@@ -1,17 +1,10 @@
 var a25301 =
 [
-    [ "boss_grand_warlock_nethekurse", "d4/d46/a25301.html#a4eefeb639cf5f0753feb6cfd99cda187", null ],
-    [ "DoAction", "d4/d46/a25301.html#a8288f8c28b61dac574254435534b5e3f", null ],
-    [ "IntroRP", "d4/d46/a25301.html#ae071f8cc7ef44e6c6cf205295debea5f", null ],
-    [ "JustDied", "d4/d46/a25301.html#a48a2ec7beeb5c9685fc627317acea949", null ],
-    [ "JustEngagedWith", "d4/d46/a25301.html#a117d2d737433ea89b37ea1ee58e6c237", null ],
-    [ "JustReachedHome", "d4/d46/a25301.html#afe62561de66fbe7fa92c365a51f01adc", null ],
-    [ "KilledUnit", "d4/d46/a25301.html#ac29fa30bfa8377a07cbfdd1f0964ebfb", null ],
-    [ "Reset", "d4/d46/a25301.html#aceef7aace38f5246ad67a1591b7f301c", null ],
-    [ "SetData", "d4/d46/a25301.html#a6c647262ce7df78c46af6b725cbcc250", null ],
-    [ "UpdateAI", "d4/d46/a25301.html#aca0bd4c71aafd2d1c54e2ca87d538e9a", null ],
-    [ "_canAggro", "d4/d46/a25301.html#a9c577798d5bc87654e6984af02d95c34", null ],
-    [ "_introStarted", "d4/d46/a25301.html#ac7d0737aa28c51cc63d93b8774e536f0", null ],
-    [ "PeonEngagedCount", "d4/d46/a25301.html#a886a0e792cf5ac6afa9670703cb568ff", null ],
-    [ "PeonKilledCount", "d4/d46/a25301.html#a8837d810df1d8b8a505d2d6c98ac8be8", null ]
+    [ "CheckProc", "d4/d46/a25301.html#a8a7a0ac560eecc3777087622fb3f3951", null ],
+    [ "HandleProc", "d4/d46/a25301.html#a90eee01f380f97f033c82d7c6ec48d00", null ],
+    [ "OnApply", "d4/d46/a25301.html#a93818ec97cfd47da1dee454bb0a9318c", null ],
+    [ "OnRemove", "d4/d46/a25301.html#a5e978d4d46f42ba5098eaecd9473fccb", null ],
+    [ "PrepareAuraScript", "d4/d46/a25301.html#a73ae8e378b906a420955fd33d02ba6b7", null ],
+    [ "Register", "d4/d46/a25301.html#a7070f64c9c47c8c1bc26e49b2b60a110", null ],
+    [ "Validate", "d4/d46/a25301.html#a91c5a0e10c308332e18dc40033049996", null ]
 ];

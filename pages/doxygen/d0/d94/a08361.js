@@ -1,9 +1,11 @@
 var a08361 =
 [
-    [ "AuraMunchingQueue", "d0/d94/a08361.html#a87178d02796b02360137f1f1ca3ce867", null ],
-    [ "Execute", "d0/d94/a08361.html#a8f025a0ea1db81fb283db563402d1c40", null ],
-    [ "_basePoints", "d0/d94/a08361.html#a9cf03046c9595e81bf119b7aacb1a81a", null ],
-    [ "_owner", "d0/d94/a08361.html#a472aaf46c2f167a10ce38267ace0b8bb", null ],
-    [ "_spellId", "d0/d94/a08361.html#a6674c43b906e45e2ad29100a7ff06f44", null ],
-    [ "_targetGUID", "d0/d94/a08361.html#a441b328296f0b7a75bdaee06d2cb94f1", null ]
+    [ "MovableMapObject", "d0/d94/a08361.html#ad9f4cb74c55993cfdfc5895aefc33cfb", null ],
+    [ "GetCurrentCell", "d0/d94/a08361.html#a6d7d87cff5f00f3b370584675caf7870", null ],
+    [ "SetCurrentCell", "d0/d94/a08361.html#a4caa8c9e50452bff413dec06bf80b84c", null ],
+    [ "Map", "d0/d94/a08361.html#ad2f32e921244459f7cc6d50355429cc6", null ],
+    [ "ObjectGridLoader", "d0/d94/a08361.html#a9551c85ae0e43e4d212225c643da2262", null ],
+    [ "RandomMovementGenerator", "d0/d94/a08361.html#a260ebfc53c9406bc0356c553822d8ab2", null ],
+    [ "_currentCell", "d0/d94/a08361.html#a529db8859c0c9713bcc2f62459bbcc9f", null ],
+    [ "_moveState", "d0/d94/a08361.html#a6782d8e3dc7de58ef83a83cf0a355e43", null ]
 ];

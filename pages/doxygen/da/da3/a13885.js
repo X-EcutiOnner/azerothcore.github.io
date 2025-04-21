@@ -1,6 +1,5 @@
 var a13885 =
 [
-    [ "boss_arlokkAI", "d6/d79/a13889.html", "d6/d79/a13889" ],
-    [ "boss_arlokk", "da/da3/a13885.html#a55bb21239e05acff18d2fb147449800e", null ],
-    [ "GetAI", "da/da3/a13885.html#a58b8cc7a198784b48faaab1b069d397c", null ]
+    [ "at_zulgurub_bloodfire_pit_speech", "da/da3/a13885.html#a880058a08d7da3b8d3062a8bc17367a4", null ],
+    [ "_OnTrigger", "da/da3/a13885.html#a8f1e477942ba9a5f653077632a98930f", null ]
 ];

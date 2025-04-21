@@ -1,8 +1,6 @@
 var a23869 =
 [
-    [ "npc_hyldsmeet_protodrakeAI", "d5/dbd/a23869.html#a30794392a32b1323fb0a86615b341741", null ],
-    [ "PassengerBoarded", "d5/dbd/a23869.html#acb699d519bf79702a34b7d9910fe7c9e", null ],
-    [ "UpdateAI", "d5/dbd/a23869.html#afd2168f8dc7328898f5e769c31c6da5a", null ],
-    [ "_accessoryRespawnTimer", "d5/dbd/a23869.html#a4c6b4236bf35278d05c4b78f1eda6b75", null ],
-    [ "_vehicleKit", "d5/dbd/a23869.html#aba68a138ef44af7d012c8c7dd4c06c6d", null ]
+    [ "npc_deaths_fel_cannonAI", "d5/dbd/a23869.html#a29d298bd85c78e2fbf0a4019aa7fbce7", null ],
+    [ "Reset", "d5/dbd/a23869.html#a4096d75a98dc8a1c95920710fb48d6ff", null ],
+    [ "UpdateAI", "d5/dbd/a23869.html#a942a8b1153b4ae6fde3b474cc909daad", null ]
 ];

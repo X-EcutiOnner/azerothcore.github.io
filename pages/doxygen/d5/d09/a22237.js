@@ -1,7 +1,6 @@
 var a22237 =
 [
-    [ "OnApply", "d5/d09/a22237.html#a2e6222a6a68358b33698126f56855106", null ],
-    [ "OnRemove", "d5/d09/a22237.html#a3c66ced821817c5234b1c5e9270f0b85", null ],
-    [ "PrepareAuraScript", "d5/d09/a22237.html#ac7ff17cd4c73144c06e7479e9b41b080", null ],
-    [ "Register", "d5/d09/a22237.html#a84e06d4e2acf8c7cf7661ed6352fb9c6", null ]
+    [ "npc_vehicle_d16_propelled_deliveryAI", "d5/d09/a22237.html#afd54b130725aa724b80f150f968ce09d", null ],
+    [ "MovementInform", "d5/d09/a22237.html#a37800436af47a8f6fbc6f6eb25eab9f9", null ],
+    [ "PassengerBoarded", "d5/d09/a22237.html#a588ed86f5b8316feafd938d85ac65aa0", null ]
 ];

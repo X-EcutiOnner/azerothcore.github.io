@@ -1,6 +1,6 @@
 var a23941 =
 [
-    [ "spell_wintergrasp_create_vehicle_SpellScript", "d7/d58/a23945.html", "d7/d58/a23945" ],
-    [ "spell_wintergrasp_create_vehicle", "de/d43/a23941.html#a44c73389a55fba82dee732ffc7a637ce", null ],
-    [ "GetSpellScript", "de/d43/a23941.html#a024245eac0ebec6eb3b1098a28111483", null ]
+    [ "npc_wounded_blood_elfAI", "d7/d58/a23945.html", "d7/d58/a23945" ],
+    [ "npc_wounded_blood_elf", "de/d43/a23941.html#a40e79d1412f5f399869a4d2c6fbb4260", null ],
+    [ "GetAI", "de/d43/a23941.html#a39d4bd877bdf6596c65e3cb834f124aa", null ]
 ];

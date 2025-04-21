@@ -1,6 +1,6 @@
 var a21973 =
 [
-    [ "OnPeriodic", "dd/d2d/a21973.html#a644a6795189f2c7de6229f1f80a0f50b", null ],
-    [ "PrepareAuraScript", "dd/d2d/a21973.html#a267127801385dd43239256a94badf9b3", null ],
-    [ "Register", "dd/d2d/a21973.html#a581f74bc8639206a060bce55bea3dac0", null ]
+    [ "npc_boneguard_footmanAI", "dd/d2d/a21973.html#a04eff1976824724b321f0c0d95e0940a", null ],
+    [ "UpdateAI", "dd/d2d/a21973.html#a9cba65867824daeb50cb2b39d68ad84b", null ],
+    [ "checkTimer", "dd/d2d/a21973.html#a46dd1fa8d111dca0584a8e6fb7a6a566", null ]
 ];

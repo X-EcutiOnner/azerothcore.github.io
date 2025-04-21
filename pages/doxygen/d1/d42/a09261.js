@@ -1,6 +1,10 @@
 var a09261 =
 [
-    [ "DoorInfo", "d1/d42/a09261.html#a26f4849a1d68df466e6db0ccbb8d001b", null ],
-    [ "bossInfo", "d1/d42/a09261.html#a14f7742a1b272d0cd76dda6ce28cde26", null ],
-    [ "type", "d1/d42/a09261.html#ad77a91752ea10a11c8e73655e63dd5c1", null ]
+    [ "AnyDeadUnitSpellTargetInRangeCheck", "d1/d42/a09261.html#a212c308a02716ff382e820e86e233ed3", null ],
+    [ "operator()", "d1/d42/a09261.html#af328df880d17a62e2dbed0ff4231fc39", null ],
+    [ "operator()", "d1/d42/a09261.html#adcc69b9ef03a68aa235e40449a80b701", null ],
+    [ "operator()", "d1/d42/a09261.html#a2f2483cf7078681cb3acf28560e61184", null ],
+    [ "operator()", "d1/d42/a09261.html#aba0bf4c320a684b68743a06e724a369e", null ],
+    [ "i_check", "d1/d42/a09261.html#aa2223ad31acf47a1608ded6b5cbc2f03", null ],
+    [ "i_spellInfo", "d1/d42/a09261.html#afeb889f6cee596b2c2229f86e0a8a3f1", null ]
 ];

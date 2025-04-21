@@ -1,7 +1,6 @@
 var a14165 =
 [
-    [ "GetEmptyEntry", "d2/dd9/a14165.html#a46dfe7b2f8598d24f17868266d1571c6", null ],
-    [ "HandleAfterHit", "d2/dd9/a14165.html#a4f8ab6e42ddf2188ccca2640363b9925", null ],
-    [ "PrepareSpellScript", "d2/dd9/a14165.html#a35f0ab4b36df3d9ec1191cbd9ba88c9e", null ],
-    [ "Register", "d2/dd9/a14165.html#a25e1858e1f81891443f4b7de50a5d495", null ]
+    [ "PeriodicTick", "d2/dd9/a14165.html#a0832c36a9497674374b2998398bfc3a4", null ],
+    [ "PrepareAuraScript", "d2/dd9/a14165.html#a89acb64235da1ff59da90a509fbeec9d", null ],
+    [ "Register", "d2/dd9/a14165.html#aab689a2cb84dcd064736171035640584", null ]
 ];

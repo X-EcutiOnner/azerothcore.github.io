@@ -1,6 +1,6 @@
 var a18549 =
 [
-    [ "OnRemove", "d9/dc1/a18549.html#a5d1b5d08ee3e6fbb6ba8c75ea2129834", null ],
-    [ "PrepareAuraScript", "d9/dc1/a18549.html#aa921b2cc9ac1b1411ade1377c12a7375", null ],
-    [ "Register", "d9/dc1/a18549.html#af15aa75c0a29f7755b39c8702d1ff705", null ]
+    [ "npc_captain_grondelAI", "d9/dc1/a18549.html#afbc971fc03584b87229318309d51a2f5", null ],
+    [ "Reset", "d9/dc1/a18549.html#a7d3878822e77fba66891e87e23bd3740", null ],
+    [ "UpdateAI", "d9/dc1/a18549.html#a4af8548092b49653805224bd4c0ac0a2", null ]
 ];

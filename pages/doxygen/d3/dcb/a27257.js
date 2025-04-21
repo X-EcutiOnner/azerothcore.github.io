@@ -1,5 +1,5 @@
 var a27257 =
 [
-    [ "PrepareSpellScript", "d3/dcb/a27257.html#a999d5173e12b643e0bdcefcd099f65d1", null ],
-    [ "Register", "d3/dcb/a27257.html#afd92511fb578c1df33248dba5055315e", null ]
+    [ "go_dragonflayer_cage", "d3/dcb/a27257.html#a9f36ba678a1e3954f21b96b227fb999e", null ],
+    [ "OnGossipHello", "d3/dcb/a27257.html#a542530a0b84879b21a4b9982cf4300d0", null ]
 ];

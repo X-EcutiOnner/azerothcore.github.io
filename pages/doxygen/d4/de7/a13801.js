@@ -1,6 +1,6 @@
 var a13801 =
 [
-    [ "npc_janalai_hatchlingAI", "dd/dc4/a13805.html", "dd/dc4/a13805" ],
-    [ "npc_janalai_hatchling", "d4/de7/a13801.html#af43b70de3e8f7d92918566a3eb332266", null ],
-    [ "GetAI", "d4/de7/a13801.html#a1139647e6f8533c50a8df257a8c9fbac", null ]
+    [ "npc_eagle_trash_aggro_trigger", "d4/de7/a13801.html#a9d41e8abe764fd0f8cedd888418aafb2", null ],
+    [ "MoveInLineOfSight", "d4/de7/a13801.html#aa8892e7f2bec9f26320cd9749e648ebd", null ],
+    [ "_instance", "d4/de7/a13801.html#a39a222e1eb0a3378c8fcaf1da5629547", null ]
 ];

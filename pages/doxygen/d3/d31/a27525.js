@@ -1,7 +1,7 @@
 var a27525 =
 [
-    [ "HandleDummy", "d3/d31/a27525.html#a02bb860f6d077d4c295ad8b82179174d", null ],
-    [ "PrepareSpellScript", "d3/d31/a27525.html#ad9eeff5aa428dabff7f2181d2819681d", null ],
-    [ "Register", "d3/d31/a27525.html#a2c699d4d848a01a80143d6fcc01b64a8", null ],
-    [ "Validate", "d3/d31/a27525.html#a9fd765b2c48f11837dbeb4caeedc0ae1", null ]
+    [ "npc_wormholeAI", "d3/d31/a27525.html#a75c28ce9bcbb5ef6fb4213d000d5596a", null ],
+    [ "GetData", "d3/d31/a27525.html#ad4c9f2265f126c7f2b5538bab6b75cb3", null ],
+    [ "InitializeAI", "d3/d31/a27525.html#aa0a903014ec7243036604ffcc67e0a36", null ],
+    [ "_showUnderground", "d3/d31/a27525.html#a6a2fbf623b8fc55cfd48a12e2c515134", null ]
 ];

@@ -1,6 +1,6 @@
 var a17257 =
 [
-    [ "npc_hor_lumbering_abominationAI", "dc/ded/a17261.html", "dc/ded/a17261" ],
-    [ "npc_hor_lumbering_abomination", "d2/dc3/a17257.html#a0d394d1ba52a05a6db0ae983daea7123", null ],
-    [ "GetAI", "d2/dc3/a17257.html#a0601ac0af85e545617013846c48de29a", null ]
+    [ "PrepareSpellScript", "d2/dc3/a17257.html#a86609d6cd708de9ead02c6134cbb6f64", null ],
+    [ "Register", "d2/dc3/a17257.html#aceb3da4aec68cb44bcbee36f599afd62", null ],
+    [ "SetDest", "d2/dc3/a17257.html#a9ed93e44df4e759fda72a63474e01b3b", null ]
 ];

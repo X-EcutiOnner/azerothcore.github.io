@@ -1,8 +1,9 @@
 var a28397 =
 [
-    [ "Apply", "d3/d81/a28397.html#ac3145df90b6b179fece1c76da114e395", null ],
-    [ "HandleEffectPeriodic", "d3/d81/a28397.html#a480dd240981f91666e25ea2f1f73e4d7", null ],
-    [ "PrepareAuraScript", "d3/d81/a28397.html#aa911ba0b5a13a933bf50a072799a040f", null ],
-    [ "Register", "d3/d81/a28397.html#ae0dff9b5002d3d3361d794a75645057f", null ],
-    [ "Validate", "d3/d81/a28397.html#ad81184b508474a89fbafc63594ef0ab1", null ]
+    [ "flags", "d3/d81/a28397.html#a064de2e88c563121bbb78549a7bab868", null ],
+    [ "_flags", "d3/d81/a28397.html#a16f1b30a57eb6703e8073ef55d988391", null ],
+    [ "bits", "d3/d81/a28397.html#a529f1856635132646457c57f3546f4ec", null ],
+    [ "configKey", "d3/d81/a28397.html#af14d118016b9e01612769c00f13aa2d6", null ],
+    [ "oldKey", "d3/d81/a28397.html#a29605b536523f6d022bbac0e12d1d8dc", null ],
+    [ "owner", "d3/d81/a28397.html#a24aaa1c473c3932c83dd49aad84f8361", null ]
 ];

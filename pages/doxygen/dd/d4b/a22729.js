@@ -1,8 +1,10 @@
 var a22729 =
 [
-    [ "npc_frozen_orbAI", "dd/d4b/a22729.html#aa7456d1d876690e3723ee0a36866348b", null ],
-    [ "JustEngagedWith", "dd/d4b/a22729.html#afd9686dbb8503d7f756b670269aed33d", null ],
-    [ "Reset", "dd/d4b/a22729.html#a376dc1fcef9752e235008c4ba66e2463", null ],
-    [ "UpdateAI", "dd/d4b/a22729.html#a37d7cf81197fe4344c8b847753997e93", null ],
-    [ "switchTimer", "dd/d4b/a22729.html#afc63a3cf6b814df81a35b53278d722c9", null ]
+    [ "boss_gathios_the_shatterer", "dd/d4b/a22729.html#a34708f52c610e567c5acf62962e90d4e", null ],
+    [ "JustEngagedWith", "dd/d4b/a22729.html#a98ad625cf2ac9b1d8d9b41001ba4fb34", null ],
+    [ "SelectCouncilMember", "dd/d4b/a22729.html#a3d33c1a29b7ba2feb22ea9d3941b39ed", null ],
+    [ "UpdateAI", "dd/d4b/a22729.html#a1541f1efd3978a4c91b80e411aec6442", null ],
+    [ "_toggleAura", "dd/d4b/a22729.html#aa983e2d9018a9e53ee29840781f47c33", null ],
+    [ "_toggleBlessing", "dd/d4b/a22729.html#a52e9b7d3b1af46d3ecb6ca9432ee3957", null ],
+    [ "_toggleSeal", "dd/d4b/a22729.html#ad7e6f9e03968e2abac570d0c7a5de9e2", null ]
 ];

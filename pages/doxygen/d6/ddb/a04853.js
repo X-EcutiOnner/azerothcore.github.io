@@ -1,9 +1,11 @@
 var a04853 =
 [
-    [ "ManagedModel", "d6/ddb/a04853.html#ab641724be7e7791c2c95982acc13f3b0", null ],
-    [ "decRefCount", "d6/ddb/a04853.html#a5a104acbc0661b19ba2a662dc669b73d", null ],
-    [ "getModel", "d6/ddb/a04853.html#a053fc6647a16746fba19a0795610fea2", null ],
-    [ "setModel", "d6/ddb/a04853.html#aa450ae6be22d507c36a746850629831d", null ],
-    [ "iModel", "d6/ddb/a04853.html#a5e20d0157691bd6036247a83eea8d19b", null ],
-    [ "iRefCount", "d6/ddb/a04853.html#afb30ad900a5979f98276324a1ab1c328", null ]
+    [ "IoContext", "d6/ddb/a04853.html#a6ba4b629a3704fcb5d110a71f09900be", null ],
+    [ "IoContext", "d6/ddb/a04853.html#a8dc945d02df9d28f3dda6c17f1c91502", null ],
+    [ "get_executor", "d6/ddb/a04853.html#aa642c9d6e49d2396c267c6fc404b2a6b", null ],
+    [ "operator IoContextBaseNamespace::IoContextBase &", "d6/ddb/a04853.html#a51e3067d9ba9b0b4a557a7e586b1ef91", null ],
+    [ "operator IoContextBaseNamespace::IoContextBase const &", "d6/ddb/a04853.html#af4aa281948ab71b76bc8f66b735425b3", null ],
+    [ "run", "d6/ddb/a04853.html#a086cd2ed56d61cf1ec0dbfdec16c50fe", null ],
+    [ "stop", "d6/ddb/a04853.html#a1165b11f60d138d56eba43657fc299cd", null ],
+    [ "_impl", "d6/ddb/a04853.html#a22cdb3c45a6dbacb13f90f654bc0c65d", null ]
 ];

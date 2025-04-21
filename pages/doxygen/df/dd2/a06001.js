@@ -1,7 +1,9 @@
 var a06001 =
 [
-    [ "NonTankTargetSelector", "df/dd2/a06001.html#ac8d9ecc1fa9a29dc54e33eae9c1fb8ce", null ],
-    [ "operator()", "df/dd2/a06001.html#a3a4cf85033650b1d31e9f93ec8e74b22", null ],
-    [ "_playerOnly", "df/dd2/a06001.html#a59a14629522e0a3850991b1852d368ee", null ],
-    [ "_source", "df/dd2/a06001.html#a314c5cb35708814844a5c8f72d91511f", null ]
+    [ "itemId", "df/dd2/a06001.html#adc6041f4426ca3d377644b18a0ba22f9", null ],
+    [ "mailTemplate", "df/dd2/a06001.html#adc59ba563519ed9e673b734c4e40e7b8", null ],
+    [ "sender", "df/dd2/a06001.html#a9a4e0b2063f2c03f8783681cca41b5d7", null ],
+    [ "subject", "df/dd2/a06001.html#a45644f308278529f822080f8274180d8", null ],
+    [ "text", "df/dd2/a06001.html#a4d57dcb4d130552f5bf756308d79307c", null ],
+    [ "titleId", "df/dd2/a06001.html#a94440f7e5c023d929e0e7f7d821bb309", null ]
 ];

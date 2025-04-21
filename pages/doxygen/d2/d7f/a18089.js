@@ -1,6 +1,6 @@
 var a18089 =
 [
-    [ "npc_gunship_gunnerAI", "df/db6/a18093.html", "df/db6/a18093" ],
-    [ "npc_gunship_gunner", "d2/d7f/a18089.html#a409711f22b35eae0c0d48bc23545e592", null ],
-    [ "GetAI", "d2/d7f/a18089.html#a2b28f5edfddf7a8c94a2a5475ec575dc", null ]
+    [ "LichKingDeathEvent", "d2/d7f/a18089.html#a9aa328b60358034355b1eed5caacb9f8", null ],
+    [ "Execute", "d2/d7f/a18089.html#a06b9a77d3c5efb228368a1e423a620ae", null ],
+    [ "_owner", "d2/d7f/a18089.html#a75ccb1b2bd5a8149aff85404b5e0ce21", null ]
 ];

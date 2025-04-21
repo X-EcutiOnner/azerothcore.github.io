@@ -1,10 +1,6 @@
 var a16953 =
 [
-    [ "GetUnitOwner", "d5/da3/a16953.html#a2f3f4dd345378c21c25c7ba4cfc27866", null ],
-    [ "GetUnitOwner", "d5/da3/a16953.html#a4210b833dab228644e17e7659ff9f569", null ],
-    [ "GetUnitOwner", "d5/da3/a16953.html#a2ebc939238715f585fa0d0024456bbd4", null ],
-    [ "HandleEffectRemove", "d5/da3/a16953.html#af66124c4482c7e9a3199743b6be0bfb9", null ],
-    [ "PrepareAuraScript", "d5/da3/a16953.html#aca16b144ad6cef7cdaeff05098331066", null ],
-    [ "Register", "d5/da3/a16953.html#a95ca3de9c3739a1cccfbfcb200a635cb", null ],
-    [ "AuraEffectHandleModes", "d5/da3/a16953.html#a4f9ec1d8a854ca25212acc8073ed614b", null ]
+    [ "npc_pos_after_first_bossAI", "d8/dca/a16957.html", "d8/dca/a16957" ],
+    [ "npc_pos_after_first_boss", "d5/da3/a16953.html#a76ae57195ceca454928245f2db12f68c", null ],
+    [ "GetAI", "d5/da3/a16953.html#a3f807335f79218ecc70c32f5496267a6", null ]
 ];

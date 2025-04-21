@@ -1,7 +1,12 @@
 var a08077 =
 [
-    [ "AddToGrid", "d7/d51/a08077.html#a178e3cc30d983d739e1f3f98d9eefbf0", null ],
-    [ "IsInGrid", "d7/d51/a08077.html#a996724d21d62e478f50031faa7637cd5", null ],
-    [ "RemoveFromGrid", "d7/d51/a08077.html#a29740a98fea7db66cdffd824940a2ec2", null ],
-    [ "_gridRef", "d7/d51/a08077.html#aa44ba47734267ac07b733f218623f3c5", null ]
+    [ "QuestMenu", "d7/d51/a08077.html#a60ba5b35499c6a9ed510300d3300421e", null ],
+    [ "~QuestMenu", "d7/d51/a08077.html#a14df9b6699c327853121ae032704db8d", null ],
+    [ "AddMenuItem", "d7/d51/a08077.html#ac8735756bbf9f2fa799c505bd740e070", null ],
+    [ "ClearMenu", "d7/d51/a08077.html#ab3d3881aabe000694acab37a3774507e", null ],
+    [ "Empty", "d7/d51/a08077.html#a1a850cb70956f299ea91cb0d732ad202", null ],
+    [ "GetItem", "d7/d51/a08077.html#a08240a8d18dce0cb96db19f54c67dd2c", null ],
+    [ "GetMenuItemCount", "d7/d51/a08077.html#a2338a6fb88c32bfb66fe524a8ffaa0d7", null ],
+    [ "HasItem", "d7/d51/a08077.html#a7fe36e4a4acfc66a00f08034c470b5e3", null ],
+    [ "_questMenuItems", "d7/d51/a08077.html#a49279a3943009f2d1475d792c2c3d21a", null ]
 ];

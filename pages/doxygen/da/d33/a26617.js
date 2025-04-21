@@ -1,10 +1,7 @@
 var a26617 =
 [
-    [ "FilterTargets", "da/d33/a26617.html#a033c63470d406ad2249c5aa223c00b2f", null ],
-    [ "HandleFinish", "da/d33/a26617.html#a3b5760ed61d0b2789ddcaef998303d38", null ],
-    [ "HandleScript", "da/d33/a26617.html#a2c26838015f1b21715fc1438537e15d3", null ],
-    [ "Load", "da/d33/a26617.html#a669aefa81d57358ef452f4c247b2ceff", null ],
-    [ "PrepareSpellScript", "da/d33/a26617.html#a3b65dbff73258b45f9e345bffc7a63a8", null ],
-    [ "Register", "da/d33/a26617.html#ac9b8d46cc77b06c427b5b3cbc1135072", null ],
-    [ "haveTarget", "da/d33/a26617.html#a7f5a4e68fb7d948f0df35824272cbdb0", null ]
+    [ "HandleProc", "da/d33/a26617.html#a46726e3e05e386892ea86d74d161e8d0", null ],
+    [ "PrepareAuraScript", "da/d33/a26617.html#acda7b1b6e91a433b72c2a5dd0e165685", null ],
+    [ "Register", "da/d33/a26617.html#a33cd336a6ca68e66e6046cfdac776fee", null ],
+    [ "Validate", "da/d33/a26617.html#a5f2c7d754a37e6ae02d4aaec758841e5", null ]
 ];

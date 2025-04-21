@@ -1,7 +1,10 @@
 var a27977 =
 [
-    [ "HandleApplyEffect", "d8/da6/a27977.html#af95120b26a165196e0310956c245f36f", null ],
-    [ "HandleRemoveEffect", "d8/da6/a27977.html#a59e7d23c969b03aa75ef1da3bf42f6e9", null ],
-    [ "PrepareAuraScript", "d8/da6/a27977.html#ae19e002407db1466f0655db3d14fe0d7", null ],
-    [ "Register", "d8/da6/a27977.html#ae776a5e913fcf1553b7e2a00374a1ee6", null ]
+    [ "HasFlag", "d8/da6/a27977.html#abe23ca5437589a38ea57bc93a6197911", null ],
+    [ "CollisionHeight", "d8/da6/a27977.html#afd7385ab3dd949ebe230e0a01cec7158", null ],
+    [ "CollisionWidth", "d8/da6/a27977.html#ab79497759cf169348b8922301fc43b2f", null ],
+    [ "Flags", "d8/da6/a27977.html#a3bb96e232124771e78f8b5db53405106", null ],
+    [ "Id", "d8/da6/a27977.html#aa19fec147703c7542be260c8ec5a0446", null ],
+    [ "MountHeight", "d8/da6/a27977.html#a5300334ce02dd5a3b9ea6796eddb7ced", null ],
+    [ "Scale", "d8/da6/a27977.html#a08d8be1d2dbc9eb67e1f631650ea74da", null ]
 ];

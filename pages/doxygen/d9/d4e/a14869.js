@@ -1,10 +1,9 @@
 var a14869 =
 [
-    [ "boss_aeonus", "d9/d4e/a14869.html#af823ef2187b852dc72d2f63020e1701b", null ],
-    [ "IsSummonedBy", "d9/d4e/a14869.html#a5f95e19dfec210d4da1f1f48145ff047", null ],
-    [ "JustDied", "d9/d4e/a14869.html#a649275c31e61f542a13fd791ee85277b", null ],
-    [ "JustEngagedWith", "d9/d4e/a14869.html#a5f193144e36a889630d5dbadb4aa665f", null ],
-    [ "JustReachedHome", "d9/d4e/a14869.html#a62df4db3ead6f9be5c3ead974613c8d5", null ],
-    [ "KilledUnit", "d9/d4e/a14869.html#a4aa2f3d82aaaf5cd3a938ad92aad059d", null ],
-    [ "MoveInLineOfSight", "d9/d4e/a14869.html#a3147774fa5bff34d01947fdcf254ba7b", null ]
+    [ "spell_gen_ayamiss_swarmer_loop", "d9/d4e/a14869.html#ad910e172ef6866f102fa3407f676169a", null ],
+    [ "HandleScript", "d9/d4e/a14869.html#acd0dffad436cb414deb546b192957783", null ],
+    [ "Load", "d9/d4e/a14869.html#aa2b338da6aa545e588be3d3a72b1a747", null ],
+    [ "PrepareSpellScript", "d9/d4e/a14869.html#aa64e3d5a98804e2a05d3af1fdc5b2d30", null ],
+    [ "Register", "d9/d4e/a14869.html#ae1b7f1ab58bcdc526ff05b9b66b9c9f8", null ],
+    [ "_pathId", "d9/d4e/a14869.html#ad179773bdfe73f7926d41d30726f0ac9", null ]
 ];

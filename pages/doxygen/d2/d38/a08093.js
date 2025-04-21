@@ -1,7 +1,15 @@
 var a08093 =
 [
-    [ "ObjectDistanceOrderPred", "d2/d38/a08093.html#adced3fdc6d99b7506361eb7700fa4cec", null ],
-    [ "operator()", "d2/d38/a08093.html#aaa5023735568f6df28a177fbd9ed866e", null ],
-    [ "m_ascending", "d2/d38/a08093.html#a313cd0450096e49716bfb52f8f238bfc", null ],
-    [ "m_refObj", "d2/d38/a08093.html#aec421fd45a60545bf92b7236e0d0b360", null ]
+    [ "Minion", "d2/d38/a08093.html#a4a560a702e9f655615797ee4dcd7fbb4", null ],
+    [ "GetDebugInfo", "d2/d38/a08093.html#a1f9800abdfa2126e593a6ae169f20024", null ],
+    [ "GetFollowAngle", "d2/d38/a08093.html#a6b4a4409bd7a8ff455bb13f8c4e5560a", null ],
+    [ "GetOwner", "d2/d38/a08093.html#a4610f459936e40b530dae8429f139cfe", null ],
+    [ "InitStats", "d2/d38/a08093.html#ad11b2900e990e2b5ba7d10b811cd1e5d", null ],
+    [ "IsGuardianPet", "d2/d38/a08093.html#a63335ad34731e8a26ab027bf690f9d4d", null ],
+    [ "IsPetGhoul", "d2/d38/a08093.html#ae56acaeea6d1cf9735345cb784f3dcd3", null ],
+    [ "RemoveFromWorld", "d2/d38/a08093.html#a35f8314d0a4bafeba1987eb0b1ececf3", null ],
+    [ "setDeathState", "d2/d38/a08093.html#ab954627fc409e08616cf080974d30a82", null ],
+    [ "SetFollowAngle", "d2/d38/a08093.html#a3b7be3e8dc649b939056ee6a5a66c506", null ],
+    [ "m_followAngle", "d2/d38/a08093.html#a02806f2eae429a33e0d2b0c115892c77", null ],
+    [ "m_owner", "d2/d38/a08093.html#a135c4341d5f617d1f69ee9f7deeea755", null ]
 ];

@@ -1,6 +1,7 @@
 var a15253 =
 [
-    [ "HandleOnHit", "db/d9d/a15253.html#abf5a21f1c88241024e6d3b3c5bffe449", null ],
-    [ "PrepareSpellScript", "db/d9d/a15253.html#aa78fc03dacb373c5108e6a5d92e035c6", null ],
-    [ "Register", "db/d9d/a15253.html#a1e608d67914c0071a913d96d70c625d6", null ]
+    [ "HandleEffectRemove", "db/d9d/a15253.html#aa07e0bdaac9cad239bae1b24d16b433c", null ],
+    [ "PrepareAuraScript", "db/d9d/a15253.html#a8ab8433afb22bbca79e028e8f082da2b", null ],
+    [ "Register", "db/d9d/a15253.html#a2ee3afd6fdcb0991e419396ed65e6d4a", null ],
+    [ "AuraEffectHandleModes", "db/d9d/a15253.html#af8a46c99290ce700e765c7ad5e8c866c", null ]
 ];

@@ -1,6 +1,6 @@
 var a22889 =
 [
-    [ "npc_azure_raiderAI", "d3/d11/a22893.html", "d3/d11/a22893" ],
-    [ "npc_azure_raider", "da/d30/a22889.html#a249abee0df263e183341193b828a310c", null ],
-    [ "GetAI", "da/d30/a22889.html#a88a45e3b117c5105f7541d640dda8470", null ]
+    [ "npc_supremus_punch_invisible_stalker", "da/d30/a22889.html#add7d0e711ef02a16ef58d90cfc8ee733", null ],
+    [ "IsSummonedBy", "da/d30/a22889.html#a467d5a43bb6d2349ad859a0ef7de4c00", null ],
+    [ "UpdateAI", "da/d30/a22889.html#a90ecfe4257ef77a6d6a200a2f017c51a", null ]
 ];

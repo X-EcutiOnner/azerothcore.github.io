@@ -1,11 +1,7 @@
 var a21897 =
 [
-    [ "boss_thorim_lightning_orbAI", "dc/d88/a21897.html#a14d4b9f445abfaba77bcfc52173ff705", null ],
-    [ "AttackStart", "dc/d88/a21897.html#a88a885b96016788f8011dd1d3d44d992", null ],
-    [ "EnterEvadeMode", "dc/d88/a21897.html#a04bc99d1bd16f8297e7da8902e4bcaab", null ],
-    [ "InitWaypoint", "dc/d88/a21897.html#a420217dd9e482edc24a87dead2753321", null ],
-    [ "MoveInLineOfSight", "dc/d88/a21897.html#a0ee02cdd5cedf8a6565493b9812e88ae", null ],
-    [ "Reset", "dc/d88/a21897.html#a4e410303d287a4c827c279a4e7c3ca99", null ],
-    [ "WaypointReached", "dc/d88/a21897.html#a141659a0ebbcc097f0f03dec30dad2ca", null ],
-    [ "Timer", "dc/d88/a21897.html#ac251df35736ae44e08f82ae7bbe8fc15", null ]
+    [ "HandleScript", "dc/d88/a21897.html#a7fec959237546201ea94d5f87068e1c5", null ],
+    [ "PrepareSpellScript", "dc/d88/a21897.html#ae0c3eafc8b227078a2dcaccf1c0a278b", null ],
+    [ "Register", "dc/d88/a21897.html#a0aab07a4950f60a290491aa13103b332", null ],
+    [ "Validate", "dc/d88/a21897.html#a92d5493a43fca5c54ef89cb19ce00aa2", null ]
 ];

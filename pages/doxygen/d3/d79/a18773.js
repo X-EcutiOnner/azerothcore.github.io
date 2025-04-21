@@ -1,6 +1,9 @@
 var a18773 =
 [
-    [ "HandleSpecial", "d3/d79/a18773.html#a1fcf2a7737a8151b6c99376987ee55ec", null ],
-    [ "PrepareSpellScript", "d3/d79/a18773.html#a9b1b98ffd8cad5b23b76f9f3a5fd72da", null ],
-    [ "Register", "d3/d79/a18773.html#aedc5f9180a96c9c071f97c3cc9468f5a", null ]
+    [ "spell_trigger_spell_from_caster", "d3/d79/a18773.html#a0dc389ab8bd51fcfd839250a3bbc2dcd", null ],
+    [ "HandleTrigger", "d3/d79/a18773.html#afc11c9408ea11cb04e476999a9bdf522", null ],
+    [ "PrepareSpellScript", "d3/d79/a18773.html#a24a9bd70a58f051cd6c4ceaff5d7fffe", null ],
+    [ "Register", "d3/d79/a18773.html#ae44cc1a87267c1d08603d1aff2384957", null ],
+    [ "Validate", "d3/d79/a18773.html#a3aace9a309bc848b887b03c949c921bd", null ],
+    [ "_triggerId", "d3/d79/a18773.html#a29af52a9035f18936515a464889fefe5", null ]
 ];

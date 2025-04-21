@@ -1,11 +1,15 @@
 var a22409 =
 [
-    [ "npc_ulduar_storm_tempered_keeperAI", "d6/d5c/a22409.html#a97ffe70fab090c7182b2a8dce3c7c54f", null ],
-    [ "JustDied", "d6/d5c/a22409.html#a4778b4c1d7afedc4c8ea3a0b2c2509e1", null ],
-    [ "JustEngagedWith", "d6/d5c/a22409.html#a5ae632ba4da1e78dfa6980fce492ec8e", null ],
-    [ "JustSummoned", "d6/d5c/a22409.html#a7962e2148fb55d96cde4e2fed48e71f4", null ],
-    [ "Reset", "d6/d5c/a22409.html#a521fd2c3f8fb1319daaecfb203d9ebb8", null ],
-    [ "UpdateAI", "d6/d5c/a22409.html#a9d5bc84572934b4fba19d2996e1c89f0", null ],
-    [ "events", "d6/d5c/a22409.html#a0281fd23155c73768a09f60b3a04ce9d", null ],
-    [ "otherGUID", "d6/d5c/a22409.html#a627aa7ff4ffe264d4ea3e78469954170", null ]
+    [ "OutdoorPvPEP", "d6/d5c/a22409.html#ab4915dfc03de08cad83eb48c4c789cb8", null ],
+    [ "BuffTeams", "d6/d5c/a22409.html#ac6a61c19ba96ca843eb12952d0c09078", null ],
+    [ "FillInitialWorldStates", "d6/d5c/a22409.html#ac1b185125fa1f8864d1062b65be24bdc", null ],
+    [ "HandlePlayerEnterZone", "d6/d5c/a22409.html#a9e7404160b1220dc3cc2766a07f42ad2", null ],
+    [ "HandlePlayerLeaveZone", "d6/d5c/a22409.html#a251b154abfaec9cbfb1a56e657ac5214", null ],
+    [ "SendRemoveWorldStates", "d6/d5c/a22409.html#afad47628bb4cfcc6060ce35396e33d9d", null ],
+    [ "SetControlledState", "d6/d5c/a22409.html#abef30d5cbe7c2cd52cd32ae29da1c9ce", null ],
+    [ "SetupOutdoorPvP", "d6/d5c/a22409.html#acecc8126180c027cb3d685231e55d873", null ],
+    [ "Update", "d6/d5c/a22409.html#a974910b2f7f2d8cfaf43b6694bf4c2c7", null ],
+    [ "EP_ControlsId", "d6/d5c/a22409.html#a7e8fcf50f88bdb56b189877721a1f006", null ],
+    [ "m_AllianceTowersControlled", "d6/d5c/a22409.html#a09e5cf029656af3fc740b236596d42ee", null ],
+    [ "m_HordeTowersControlled", "d6/d5c/a22409.html#a325c16f6b5f40bd5dd5f63a9d93a8cd1", null ]
 ];

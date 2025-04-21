@@ -1,7 +1,7 @@
 var a09573 =
 [
-    [ "Finalize", "dc/ddc/a09573.html#a90c8b42ef67968bf58acae5678dc7496", null ],
-    [ "Initialize", "dc/ddc/a09573.html#ad6b97c3e2884dfbe3f17e2579b31ac66", null ],
-    [ "Reset", "dc/ddc/a09573.html#a6db99ea9863dc60d032bacda37afa078", null ],
-    [ "Update", "dc/ddc/a09573.html#af044c8725ef11e8a152987225521ef8b", null ]
+    [ "InstancePlayerBind", "dc/ddc/a09573.html#abc20bba094d04eb724d03b8290102981", null ],
+    [ "extended", "dc/ddc/a09573.html#a9327f62b74eea3a1a525b2fec6d90b69", null ],
+    [ "perm", "dc/ddc/a09573.html#ab35249eb791941b484ecc321b1102b24", null ],
+    [ "save", "dc/ddc/a09573.html#a24ef1e0e0a38033a16b697c32e3d8234", null ]
 ];

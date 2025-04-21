@@ -1,5 +1,6 @@
 var a22085 =
 [
-    [ "achievement_xt002_nerf_engineering", "d3/d36/a22085.html#a5be8c0a8a51d81c4014ec0ab92c21f79", null ],
-    [ "OnCheck", "d3/d36/a22085.html#a2b401f51d1ba7ed817f95d81d1048adf", null ]
+    [ "npc_vekjik", "d3/d36/a22085.html#a7439c6038237b77ba8623ae92d6cf708", null ],
+    [ "OnGossipHello", "d3/d36/a22085.html#acdbba5b4970049e72477eccf6672b0e8", null ],
+    [ "OnGossipSelect", "d3/d36/a22085.html#a0bcdcb6cd57264e664c449e261d3580b", null ]
 ];

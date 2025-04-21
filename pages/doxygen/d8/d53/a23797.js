@@ -1,6 +1,6 @@
 var a23797 =
 [
-    [ "npc_iron_watcherAI", "d3/dbb/a23801.html", "d3/dbb/a23801" ],
-    [ "npc_iron_watcher", "d8/d53/a23797.html#a174e19241ca6cd1619fbae074d11c8ba", null ],
-    [ "GetAI", "d8/d53/a23797.html#af3b80b838e192737762ceed599b0be9a", null ]
+    [ "instance_the_eye_InstanceMapScript", "d3/dbb/a23801.html", "d3/dbb/a23801" ],
+    [ "instance_the_eye", "d8/d53/a23797.html#a685064ba70095a3fc27ae1a8b33d3c88", null ],
+    [ "GetInstanceScript", "d8/d53/a23797.html#a811c7d161469f33ce4fb7d792ce30a4e", null ]
 ];

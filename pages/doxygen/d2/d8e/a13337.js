@@ -1,6 +1,7 @@
 var a13337 =
 [
-    [ "HandleSendEvent", "d2/d8e/a13337.html#ac3e5c8ce6dcceaf601f0f5a8c5727291", null ],
-    [ "PrepareSpellScript", "d2/d8e/a13337.html#a5705ee1863434039b1143db0817d60a7", null ],
-    [ "Register", "d2/d8e/a13337.html#a442e4aad6ed971119a147fdf87f90aa3", null ]
+    [ "OnPeriodic", "d2/d8e/a13337.html#a25e7a59384f262a36c74696a1befa01d", null ],
+    [ "PrepareAuraScript", "d2/d8e/a13337.html#a9b82fde3e38054b686f9b2a110cfaa1e", null ],
+    [ "Register", "d2/d8e/a13337.html#a65e469ba04d8cd2aa23d934bf2915721", null ],
+    [ "Validate", "d2/d8e/a13337.html#a6843deda5be8b684c06a86920714f255", null ]
 ];

@@ -1,10 +1,6 @@
 var a09821 =
 [
-    [ "QuestStatusData", "dc/d01/a09821.html#ae71725a7f75e10aacb6f4a9ca4b72f27", null ],
-    [ "CreatureOrGOCount", "dc/d01/a09821.html#aa5892dc0744a41ac565568307f12ad35", null ],
-    [ "Explored", "dc/d01/a09821.html#a734f6a61aa35c77689d33031e88f0c0b", null ],
-    [ "ItemCount", "dc/d01/a09821.html#a466999cea52f65bf58916bc34750bf95", null ],
-    [ "PlayerCount", "dc/d01/a09821.html#a170a1e54fe45b7fd0c7934f1309f7969", null ],
-    [ "Status", "dc/d01/a09821.html#a4ce7af3a64737d7961b6dfa19189c932", null ],
-    [ "Timer", "dc/d01/a09821.html#a16343f7a162e5b7b6a1a18345420c77a", null ]
+    [ "SplineRawInitializer", "dc/d01/a09821.html#a2aba4b3ca8e2312cc9e910ef4b3a5a26", null ],
+    [ "operator()", "dc/d01/a09821.html#a878f8d8b2bc4b7c0e5c92d3055a437af", null ],
+    [ "_points", "dc/d01/a09821.html#a3cea33c8d33407f7d2d8ea96a85a58c5", null ]
 ];

@@ -1,8 +1,13 @@
 var a08429 =
 [
-    [ "AttackPosition", "d6/d80/a08429.html#a6681bcab6c497d2c7fc6e5585f422744", null ],
-    [ "operator=", "d6/d80/a08429.html#a019fe5d4c053c1d6980789b7f97f6e54", null ],
-    [ "operator==", "d6/d80/a08429.html#a320adced006c0f70456492c9e9dc99c2", null ],
-    [ "_pos", "d6/d80/a08429.html#a77783e0e6e83836ad6e5903535ad9370", null ],
-    [ "_taken", "d6/d80/a08429.html#a113512b8ab66c879fd85c43263c3b7f1", null ]
+    [ "UpdateData", "d6/d80/a08429.html#a7164bb9338d6362f427d75025c9026b6", null ],
+    [ "AddOutOfRangeGUID", "d6/d80/a08429.html#a4c68f187e2f6e65da3bdb6a443ebcacf", null ],
+    [ "AddUpdateBlock", "d6/d80/a08429.html#a620f0036078833a3b5ce1245274595f8", null ],
+    [ "AddUpdateBlock", "d6/d80/a08429.html#af770dbf9bc4e4da1b97aba73b152b23b", null ],
+    [ "BuildPacket", "d6/d80/a08429.html#a3bea592b01b6c9e41b863c26fd602d45", null ],
+    [ "Clear", "d6/d80/a08429.html#adc0750db190d94fed3bfef72da75066c", null ],
+    [ "HasData", "d6/d80/a08429.html#a067577372028ad59aea7942f0cd4a5c2", null ],
+    [ "m_blockCount", "d6/d80/a08429.html#a791f9606867a40d018f67600e338a08e", null ],
+    [ "m_data", "d6/d80/a08429.html#ac21a3bda51f8d1d2b71be6d00d760e38", null ],
+    [ "m_outOfRangeGUIDs", "d6/d80/a08429.html#a60f7b1745f84b24b25c94625145dd5a2", null ]
 ];

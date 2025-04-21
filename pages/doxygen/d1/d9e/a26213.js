@@ -1,10 +1,7 @@
 var a26213 =
 [
-    [ "npc_pet_gen_imp_in_a_bottle", "d1/d9e/a26213.html#aa32b7770c2719d77d46fcf6d22989284", null ],
-    [ "InitializeAI", "d1/d9e/a26213.html#a9fde3fd30d48068a3ad1a19f65c61bf2", null ],
-    [ "UpdateAI", "d1/d9e/a26213.html#a453ec855bb21a30cb72b540ff8f77035", null ],
-    [ "_data", "d1/d9e/a26213.html#a982ec923536c2c33353a3673aa425b6a", null ],
-    [ "_hasParty", "d1/d9e/a26213.html#a192d9e2ba340040cb6ba5c0f324ffb2d", null ],
-    [ "_ownerGUID", "d1/d9e/a26213.html#a5452226bbe4f65a9bd7ce103a7648a2f", null ],
-    [ "_talkTimer", "d1/d9e/a26213.html#a07eba859ad2d5db4f6d91734c04020cf", null ]
+    [ "CheckRequirement", "d1/d9e/a26213.html#afc9206b1d92834943c9825dfd97439c9", null ],
+    [ "HandleScriptEffect", "d1/d9e/a26213.html#acef8bf4c93226e1b4c95f8b8cdd80f40", null ],
+    [ "PrepareSpellScript", "d1/d9e/a26213.html#a0223c05b5832c64b248e82eba770f7fa", null ],
+    [ "Register", "d1/d9e/a26213.html#aef93e3c5a60633f69871bbd49d40caf5", null ]
 ];

@@ -1,8 +1,6 @@
 var a12065 =
 [
-    [ "MajordomoAddData", "d6/d42/a12065.html#aa068ada34e1275cbf97b21f74dfd2881", null ],
-    [ "MajordomoAddData", "d6/d42/a12065.html#a9b8cc2b43ffbf268e470169e00e66671", null ],
-    [ "creatureEntry", "d6/d42/a12065.html#ae3a0444e88158123f4d6359328e89a1d", null ],
-    [ "guid", "d6/d42/a12065.html#a2f2b0aaace557361a21d1072f36933dc", null ],
-    [ "spawnPos", "d6/d42/a12065.html#a31f8d24efb19c2d0e697f35b911e3237", null ]
+    [ "boss_thebeastAI", "d2/d4e/a12069.html", "d2/d4e/a12069" ],
+    [ "boss_the_beast", "d6/d42/a12065.html#a131344b5fada63f4a8f0b3692ecba9eb", null ],
+    [ "GetAI", "d6/d42/a12065.html#a0b40497c665c571247cb8ad8b85ac63f", null ]
 ];

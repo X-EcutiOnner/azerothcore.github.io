@@ -1,6 +1,7 @@
 var a15353 =
 [
-    [ "npc_draenei_survivorAI", "d2/df2/a15357.html", "d2/df2/a15357" ],
-    [ "npc_draenei_survivor", "de/ddb/a15353.html#a1dca668a7c3f868677a9bf306288430c", null ],
-    [ "GetAI", "de/ddb/a15353.html#aa8dde30279bb898a4412491faca79267", null ]
+    [ "HandleDummy", "de/ddb/a15353.html#a38dafff805471b19ca3cca4ff5273a87", null ],
+    [ "PrepareSpellScript", "de/ddb/a15353.html#a40db5a46491aa22b5347f99b0251f1b8", null ],
+    [ "Register", "de/ddb/a15353.html#a2f297ab67d5e2e990658706f7c508bd4", null ],
+    [ "Validate", "de/ddb/a15353.html#abb7946f53e6271ae69d34caacef61f47", null ]
 ];

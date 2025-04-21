@@ -1,6 +1,7 @@
 var a18841 =
 [
-    [ "npc_rimefangAI", "d0/dea/a18845.html", "d0/dea/a18845" ],
-    [ "npc_rimefang", "da/dae/a18841.html#af8ab4e318726b5250de56e3c6d09fcd2", null ],
-    [ "GetAI", "da/dae/a18841.html#a2fce9c36b7ef1861c9dcb5db2cacf438", null ]
+    [ "HandleGameObjectDamage", "da/dae/a18841.html#a811edfe01c1784664b5b4253d2305b4e", null ],
+    [ "PrepareSpellScript", "da/dae/a18841.html#a0cfedeba2a747777de292b8f30b6752b", null ],
+    [ "Register", "da/dae/a18841.html#a2d3b99dfe386777cf71ccb2ccac9f3a7", null ],
+    [ "Validate", "da/dae/a18841.html#ab74d5c88a910fe191b071db3ac2c0381", null ]
 ];

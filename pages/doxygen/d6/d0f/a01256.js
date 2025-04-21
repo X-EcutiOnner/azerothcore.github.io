@@ -1,4 +1,4 @@
 var a01256 =
 [
-    [ "GridReference< OBJECT >", "d0/d7c/a09058.html", "d0/d7c/a09058" ]
+    [ "GridReference< OBJECT >", "dc/d04/a09061.html", "dc/d04/a09061" ]
 ];

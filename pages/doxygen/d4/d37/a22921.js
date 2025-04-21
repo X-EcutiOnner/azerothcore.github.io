@@ -1,6 +1,7 @@
 var a22921 =
 [
-    [ "npc_azure_sorcerorAI", "d2/d75/a22925.html", "d2/d75/a22925" ],
-    [ "npc_azure_sorceror", "d4/d37/a22921.html#ab81ec144680a37312b0a5e0110365a1a", null ],
-    [ "GetAI", "d4/d37/a22921.html#a647ac2853586e380fdf0e0ffa43abaca", null ]
+    [ "HandleOnHit", "d4/d37/a22921.html#a9f368396cef39ba3bd70480f11c44700", null ],
+    [ "PrepareSpellScript", "d4/d37/a22921.html#a3240b42a9122e61b57ea91486cb3c97b", null ],
+    [ "Register", "d4/d37/a22921.html#a99f80adcebdd9726a8df51f99d415651", null ],
+    [ "Validate", "d4/d37/a22921.html#a25e3078f0b2d71ea0e6802aae0a6c7a4", null ]
 ];

@@ -1,22 +1,14 @@
 var a19993 =
 [
-    [ "boss_gothikAI", "df/d15/a19993.html#a18ae481969ed0885122058b0ebf98cc8", null ],
-    [ "CheckGroupSplitted", "df/d15/a19993.html#a1efec7ad0793812f83e808b961059875", null ],
-    [ "DamageTaken", "df/d15/a19993.html#a40e40340002d05d97aa944c14af4030c", null ],
-    [ "IsInRoom", "df/d15/a19993.html#a73b20994a1949731b83a3a28b70ad9d1", null ],
-    [ "JustDied", "df/d15/a19993.html#a9c4e6647c05785664cd23fce73d8ca87", null ],
-    [ "JustEngagedWith", "df/d15/a19993.html#aa2e622be4faa605aa7b13af333bd1a91", null ],
-    [ "JustSummoned", "df/d15/a19993.html#a9bbe9412721e4173ef37a1dbd494c262", null ],
-    [ "KilledUnit", "df/d15/a19993.html#adde94c95fcfe2cacee16b06f73528651", null ],
-    [ "Reset", "df/d15/a19993.html#a31f3993b01755f45f3fe997d599a52d4", null ],
-    [ "SpellHit", "df/d15/a19993.html#a2e6e20dc518ba4fc5a5f1fd616c77cb2", null ],
-    [ "SummonedCreatureDespawn", "df/d15/a19993.html#a2223b2c287b2b21a7377ed49b2a65628", null ],
-    [ "SummonHelpers", "df/d15/a19993.html#aaa751f216763deba29fde2d0aba09567", null ],
-    [ "UpdateAI", "df/d15/a19993.html#ada9b63a61fc4c8abb60fdff30fb9487d", null ],
-    [ "events", "df/d15/a19993.html#a756a5816615e02be0fc8308cc5088e49", null ],
-    [ "gateOpened", "df/d15/a19993.html#ad2de325f3fde87679503664de81a911e", null ],
-    [ "pInstance", "df/d15/a19993.html#ad4c7722be225a16f12abbb2207dc4101", null ],
-    [ "secondPhase", "df/d15/a19993.html#a1e4526d104670d4899ef6dd5760c2437", null ],
-    [ "summons", "df/d15/a19993.html#aa1786f68bc52722dead6d9a6c131d6cb", null ],
-    [ "waveCount", "df/d15/a19993.html#a4ed9dfac7e4d22fcb1f8396ca1318073", null ]
+    [ "boss_freya_summonsAI", "df/d15/a19993.html#acbba11d918cc6368612cbd3d95310fe2", null ],
+    [ "DoAction", "df/d15/a19993.html#ad9dd522e33ffd42bff75f7dd5f1bdc45", null ],
+    [ "JustDied", "df/d15/a19993.html#af7668e0cb4be7d49af8be697b8fa3299", null ],
+    [ "JustEngagedWith", "df/d15/a19993.html#a3163e12dd184dc5b8981c356e601a05a", null ],
+    [ "Reset", "df/d15/a19993.html#a44f1ac940625fdd0cdb84454082e7ab6", null ],
+    [ "UpdateAI", "df/d15/a19993.html#afdd17576728872509ec31188fa68505b", null ],
+    [ "_freyaGUID", "df/d15/a19993.html#adcdf01b496a52b1d0aa2f1b3bf6a7a0a", null ],
+    [ "_hasDied", "df/d15/a19993.html#a86f421141d31ac70e58cf63fe707ba27", null ],
+    [ "_isTrio", "df/d15/a19993.html#ab31e8c73c3e22b031e5efe89ae95ce0e", null ],
+    [ "_stackCount", "df/d15/a19993.html#ab7fc673ad22c1dd3bd41fa185ee03abb", null ],
+    [ "events", "df/d15/a19993.html#a79403b4a24b92f89252db603d8ea2210", null ]
 ];

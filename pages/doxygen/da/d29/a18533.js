@@ -1,6 +1,7 @@
 var a18533 =
 [
-    [ "spell_putricide_clear_aura_effect_value_SpellScript", "dd/d00/a18537.html", "dd/d00/a18537" ],
-    [ "spell_putricide_clear_aura_effect_value", "da/d29/a18533.html#a06d51493609b692096847ab918463d64", null ],
-    [ "GetSpellScript", "da/d29/a18533.html#af1991205cb1d8a92bdf57449bde9fcb9", null ]
+    [ "npc_captain_arnathAI", "da/d29/a18533.html#a34e3d17b89010569bf7e9cb28361c2af", null ],
+    [ "FindFriendlyCreature", "da/d29/a18533.html#ad6411d2a87d2552bea2051f80ca16e14", null ],
+    [ "Reset", "da/d29/a18533.html#a016fbe51f31e1c5ec1636e8d20d8cb30", null ],
+    [ "UpdateAI", "da/d29/a18533.html#a020efd7adc0d60152007906e3229988d", null ]
 ];

@@ -1,6 +1,5 @@
 var a23289 =
 [
-    [ "SACDeactivateEvent", "dd/dbf/a23289.html#a14f1db2f3bf7e82d0e5c5b5135d46cf9", null ],
-    [ "Execute", "dd/dbf/a23289.html#a12179c55d1999b3cd0cfc5d51d039a31", null ],
-    [ "_owner", "dd/dbf/a23289.html#acc87b2f689bf2e6a3f19440dceb6ea6d", null ]
+    [ "go_main_chambers_access_panel", "dd/dbf/a23289.html#a30c3c20be1892b5107ef53683d593b75", null ],
+    [ "OnGossipHello", "dd/dbf/a23289.html#af4b3a4a0260de68dcfac7202e0a728ee", null ]
 ];

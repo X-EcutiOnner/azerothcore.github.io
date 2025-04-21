@@ -1,6 +1,6 @@
 var a18701 =
 [
-    [ "LastPhaseIceTombTargetSelector", "df/dd9/a18701.html#ac01f20b199bb0ee63b9c8f8206321057", null ],
-    [ "operator()", "df/dd9/a18701.html#a92a846ff557334b1f30d8e062a2c64e9", null ],
-    [ "_source", "df/dd9/a18701.html#ab10d10dd0de7717078d31ac026d4c933", null ]
+    [ "npc_icc_valkyr_heraldAI", "d6/d9d/a18705.html", "d6/d9d/a18705" ],
+    [ "npc_icc_valkyr_herald", "df/dd9/a18701.html#a9d06e0dec8cb960d34c2089c1c0d8ccb", null ],
+    [ "GetAI", "df/dd9/a18701.html#a7537269841d0380d2dc9e4641705acf9", null ]
 ];

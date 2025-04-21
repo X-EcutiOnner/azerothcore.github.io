@@ -1,8 +1,6 @@
 var a20809 =
 [
-    [ "npc_algalon_worm_holeAI", "d8/d99/a20809.html#a07b36b40972bebea6b17890aa8fee50c", null ],
-    [ "JustSummoned", "d8/d99/a20809.html#a148de5da4502813e369ec6c52b1671a0", null ],
-    [ "Reset", "d8/d99/a20809.html#a915a8e5e23062cb10da9a3dbe387cf51", null ],
-    [ "UpdateAI", "d8/d99/a20809.html#a9df88d81aa4f4dd7e1dcdf6209832c32", null ],
-    [ "_summonTimer", "d8/d99/a20809.html#a73a55560e5ff7957d883f732bc0d2a82", null ]
+    [ "boss_yoggsaron_neltharionAI", "db/d15/a20813.html", "db/d15/a20813" ],
+    [ "boss_yoggsaron_neltharion", "d8/d99/a20809.html#a9910e0d6043e7738cba0fe9ae7e92898", null ],
+    [ "GetAI", "d8/d99/a20809.html#abce5f59c35f7af3e1d5b30cc55ff48e6", null ]
 ];

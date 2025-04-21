@@ -1,8 +1,6 @@
 var a27225 =
 [
-    [ "HandleFinish", "d5/d16/a27225.html#aac1981a16cbb61bfaf20c865bcfaf6a8", null ],
-    [ "PrepareSpellScript", "d5/d16/a27225.html#a73865997890d4f58cc09d54c2c4e5243", null ],
-    [ "Register", "d5/d16/a27225.html#a106cf5d53956b66f8f548caceda41dc8", null ],
-    [ "SelectTarget", "d5/d16/a27225.html#ab33513df20e942ba354932df5082efa8", null ],
-    [ "_target", "d5/d16/a27225.html#af25d11fc93423ee6e1678ebb5dcf1276", null ]
+    [ "go_fel_crystalforge", "d5/d16/a27225.html#aa44708a617edd51651da49918ab776e5", null ],
+    [ "OnGossipHello", "d5/d16/a27225.html#aae9f4beff251efb7b29e1988ddd51eaf", null ],
+    [ "OnGossipSelect", "d5/d16/a27225.html#a97450cce5f547e28ea84fa6a6f8ab79e", null ]
 ];

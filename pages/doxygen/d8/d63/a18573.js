@@ -1,6 +1,7 @@
 var a18573 =
 [
-    [ "FilterTargetsInitial", "d8/d63/a18573.html#a4cf4f0c9c2fabe550eef5fc6cbb3ffbf", null ],
-    [ "PrepareSpellScript", "d8/d63/a18573.html#a5a8694b9f5d08f073ec96e74c62e9f6f", null ],
-    [ "Register", "d8/d63/a18573.html#afde5f7c3b8ffe1c51157c105059c5ad7", null ]
+    [ "npc_impaling_spearAI", "d8/d63/a18573.html#ae8fbc36a15324b210a24a0e98357adc3", null ],
+    [ "Reset", "d8/d63/a18573.html#a43fa8bf8f22f0635261decd8b15ed6f5", null ],
+    [ "UpdateAI", "d8/d63/a18573.html#acb187a58b0ba256b4e003655ac36db34", null ],
+    [ "_vehicleCheckTimer", "d8/d63/a18573.html#a264874b9f6f0609792d4b3a325e54f59", null ]
 ];

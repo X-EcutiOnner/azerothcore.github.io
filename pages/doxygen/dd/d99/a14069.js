@@ -1,6 +1,11 @@
 var a14069 =
 [
-    [ "boss_renatakiAI", "dd/d48/a14073.html", "dd/d48/a14073" ],
-    [ "boss_renataki", "dd/d99/a14069.html#a8504ed2df8c8f8a85fc9d0e99cc24ec6", null ],
-    [ "GetAI", "dd/d99/a14069.html#a386b7ef3d1fc4070eb300cf4fdaa4d9a", null ]
+    [ "npc_dark_iron_attack_mole_machine", "dd/d99/a14069.html#a473a8fb4905e5d1333196797d7d0f371", null ],
+    [ "AttackStart", "dd/d99/a14069.html#a999dd932fbaf22a8275dfdba150c3291", null ],
+    [ "JustEngagedWith", "dd/d99/a14069.html#a50e0657f33f15bf2ffe83ca4041eb483", null ],
+    [ "MoveInLineOfSight", "dd/d99/a14069.html#a2be5de913ca9d472a31cd44c07bcde57", null ],
+    [ "Reset", "dd/d99/a14069.html#a0727aab751ddfbd94ae070e60e47e768", null ],
+    [ "UpdateAI", "dd/d99/a14069.html#a1217ed510a846d011143ae0a386c6236", null ],
+    [ "goTimer", "dd/d99/a14069.html#a8686845ebef564c9fcaa115866c99749", null ],
+    [ "summonTimer", "dd/d99/a14069.html#a4713da02f4a86547a0f796167e24d8bb", null ]
 ];

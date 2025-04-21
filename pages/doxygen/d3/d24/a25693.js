@@ -1,6 +1,7 @@
 var a25693 =
 [
-    [ "npc_deaths_door_fell_cannon_target_bunnyAI", "d8/db3/a25697.html", "d8/db3/a25697" ],
-    [ "npc_deaths_door_fell_cannon_target_bunny", "d3/d24/a25693.html#a1385e50777282fae0c8f8ca2f9f8a3e6", null ],
-    [ "GetAI", "d3/d24/a25693.html#a250707096229da28024960beeb7725bf", null ]
+    [ "Load", "d3/d24/a25693.html#a8be944ae201f4f8406948aff78f982d9", null ],
+    [ "OnDummyEffect", "d3/d24/a25693.html#adcb707400963e549a295e115d6f3583b", null ],
+    [ "PrepareSpellScript", "d3/d24/a25693.html#a5b2175a933df10d775bc3381f515aa96", null ],
+    [ "Register", "d3/d24/a25693.html#a6e41bf15401c540887dd321e4b2cc7d3", null ]
 ];

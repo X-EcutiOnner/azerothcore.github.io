@@ -1,15 +1,12 @@
 var a10061 =
 [
-    [ "MapScript", "d2/d44/a10061.html#a1932ac48acf7c937c060ee35804e79da", null ],
-    [ "checkMap", "d2/d44/a10061.html#abf3fbb90119e1ac5d13455217ac95a2f", null ],
-    [ "GetEntry", "d2/d44/a10061.html#aa2da3eeec627cb67719d774d35f03488", null ],
-    [ "OnCreate", "d2/d44/a10061.html#a8132edffb918e8b3b1131ae29a8d9e9b", null ],
-    [ "OnDestroy", "d2/d44/a10061.html#a4631768d457c2804f057c565d6e8fb7a", null ],
-    [ "OnLoadGridMap", "d2/d44/a10061.html#ad8c32f3761a83f24b092cf4ab43d416c", null ],
-    [ "OnPlayerEnter", "d2/d44/a10061.html#a9cef8253d591e729b4119312ec0b670a", null ],
-    [ "OnPlayerLeave", "d2/d44/a10061.html#a3d74ae0f2535cda31cf2d4125600f3e2", null ],
-    [ "OnUnloadGridMap", "d2/d44/a10061.html#a3b2e87c4a0ffdbf848c988a5d688d626", null ],
-    [ "OnUpdate", "d2/d44/a10061.html#a4e447511780a0c561e16b9e118361f63", null ],
-    [ "_mapEntry", "d2/d44/a10061.html#a280ca8d9bfa672c10d34a99db53d2959", null ],
-    [ "_mapId", "d2/d44/a10061.html#a1cbe9ae08f6e1c129df8d2277366eb1a", null ]
+    [ "delay", "d2/d44/a10061.html#aa05ef99c3e04589501362a07d0dd032a", null ],
+    [ "event_chance", "d2/d44/a10061.html#af54f2d38ca1a11664f516799f3bb80c8", null ],
+    [ "event_id", "d2/d44/a10061.html#a083020691278af836e48f0a0c2feff96", null ],
+    [ "id", "d2/d44/a10061.html#af7248c313ceefedb5b7ff6ed4c2ffd6b", null ],
+    [ "move_type", "d2/d44/a10061.html#afb1a57b423a258e99c6921727a27e2e7", null ],
+    [ "orientation", "d2/d44/a10061.html#a971411811b0e60839538f82cd55dcfb7", null ],
+    [ "x", "d2/d44/a10061.html#a2dfd7f1f946ebef0b67d8f1542198b4b", null ],
+    [ "y", "d2/d44/a10061.html#a574c5ba7eb5e6bd55f6c55bb511c03f7", null ],
+    [ "z", "d2/d44/a10061.html#a013fa650f43e790e652016fbce2e1bd5", null ]
 ];

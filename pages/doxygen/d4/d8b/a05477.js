@@ -1,7 +1,7 @@
 var a05477 =
 [
-    [ "Finder", "d4/d8b/a05477.html#a22ed3a876495c05e8db99b7cd752d898", null ],
-    [ "operator()", "d4/d8b/a05477.html#a0c5997e97a65f9a59b9e9f7be8eb84c9", null ],
-    [ "idMember_", "d4/d8b/a05477.html#a8f8d606fdd53a2af6d20cf30d1660686", null ],
-    [ "val_", "d4/d8b/a05477.html#a89d852a64429ad8ad78872ad32173a14", null ]
+    [ "Count", "d4/d8b/a05477.html#aeeb13e953eff5fde8c9edff41ee17806", null ],
+    [ "FromIndex", "d4/d8b/a05477.html#a8c6cb9f0a8d3488956904e2141405cf7", null ],
+    [ "ToIndex", "d4/d8b/a05477.html#a25cc4ea08020adcf6deac42e2912b1f9", null ],
+    [ "ToString", "d4/d8b/a05477.html#a8d3379c79f103655dd49d993402b741d", null ]
 ];

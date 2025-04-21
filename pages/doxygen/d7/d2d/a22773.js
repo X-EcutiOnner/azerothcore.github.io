@@ -1,6 +1,9 @@
 var a22773 =
 [
-    [ "boss_ichoronAI", "d9/d6f/a22777.html", "d9/d6f/a22777" ],
-    [ "boss_ichoron", "d7/d2d/a22773.html#ad4390da77a130edaf050d0bef3926882", null ],
-    [ "GetAI", "d7/d2d/a22773.html#a68051088dc2d2c738b042e2df0436b28", null ]
+    [ "boss_mother_shahraz", "d7/d2d/a22773.html#adba94363f74975301472d79f24894df8", null ],
+    [ "JustDied", "d7/d2d/a22773.html#ab69d81acde4e6e2a3f6adb032090b958", null ],
+    [ "JustEngagedWith", "d7/d2d/a22773.html#a021c702e7eff266308fee8a4220a6ec7", null ],
+    [ "KilledUnit", "d7/d2d/a22773.html#a81ed314ae9737c0989b62c27c9ce4cc9", null ],
+    [ "Reset", "d7/d2d/a22773.html#ab9e4162ac92e786b84b6497c37251386", null ],
+    [ "_canTalk", "d7/d2d/a22773.html#a821d91439c60a60ffcff07b6bdbbc070", null ]
 ];

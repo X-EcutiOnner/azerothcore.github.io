@@ -1,10 +1,11 @@
 var a08029 =
 [
-    [ "SpellCategory", "db/d93/a08029.html#ad170ffceb499879a4b0d638e9c922703", null ],
-    [ "SpellCategoryCooldown", "db/d93/a08029.html#a8a33274d71b410f24f110e9a5921ff18", null ],
-    [ "SpellCharges", "db/d93/a08029.html#a16909465a3a20dbab6e3ca2e3c807f17", null ],
-    [ "SpellCooldown", "db/d93/a08029.html#a8ef7106595ed25ce23ca2163258d769a", null ],
-    [ "SpellId", "db/d93/a08029.html#af6973a8a9a258a87a916bcd431c33d8d", null ],
-    [ "SpellPPMRate", "db/d93/a08029.html#a5b208a667802e4c3766619c96d267287", null ],
-    [ "SpellTrigger", "db/d93/a08029.html#a39657ff9e561a3c86a671f7b3c78ef98", null ]
+    [ "AddItem", "db/d93/a08029.html#a46f6533323fd15632c3f9a8b96ef6f3f", null ],
+    [ "Clear", "db/d93/a08029.html#a70c7400c4bc60923fd538890774445de", null ],
+    [ "Empty", "db/d93/a08029.html#ab55fa73ab327294de2c5f6906fc1fbdb", null ],
+    [ "FindItemCostPair", "db/d93/a08029.html#a61dc4394afdd3a360559ffec1655c343", null ],
+    [ "GetItem", "db/d93/a08029.html#aa764da5b4647c84813e3aa6b46de7593", null ],
+    [ "GetItemCount", "db/d93/a08029.html#ae80634592ce705c77c5aa53960f89c24", null ],
+    [ "RemoveItem", "db/d93/a08029.html#a974925f2979910348a0af795893b310b", null ],
+    [ "m_items", "db/d93/a08029.html#aa16668e54fce8fffe8651644cdef4335", null ]
 ];

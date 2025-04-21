@@ -1,6 +1,8 @@
 var a24693 =
 [
-    [ "spell_illidari_council_empyreal_balance_SpellScript", "d0/d08/a24697.html", "d0/d08/a24697" ],
-    [ "spell_illidari_council_empyreal_balance", "dd/dd4/a24693.html#aac4c429dd2f58cc0e9340ba11a40e2b3", null ],
-    [ "GetSpellScript", "dd/dd4/a24693.html#aafb006b22ead0fd497a681c73e29187c", null ]
+    [ "AfterApply", "dd/dd4/a24693.html#a9c2591beacd941893338109719c03e3f", null ],
+    [ "AfterRemove", "dd/dd4/a24693.html#a0be2a66b615dd926de7073392a8e5062", null ],
+    [ "PrepareAuraScript", "dd/dd4/a24693.html#a4763d0c69c12611244f68ba5a5b1ccce", null ],
+    [ "Register", "dd/dd4/a24693.html#a36fb81d0bf4cf92773db60a70de52dda", null ],
+    [ "Validate", "dd/dd4/a24693.html#a86b51ec85105b0396972f0c3d7b770c1", null ]
 ];

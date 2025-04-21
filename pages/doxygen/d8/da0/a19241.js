@@ -1,6 +1,5 @@
 var a19241 =
 [
-    [ "npc_icc_lk_checktargetAI", "dc/d87/a19245.html", "dc/d87/a19245" ],
-    [ "npc_icc_lk_checktarget", "d8/da0/a19241.html#a3a2cc943e731e472694dcb13417090da", null ],
-    [ "GetAI", "d8/da0/a19241.html#a2cd9a5c7fec791ba8786cf1bb5b7c8bd", null ]
+    [ "achievement_split_personality", "d8/da0/a19241.html#aac29ae7c321306a663e55493987af45d", null ],
+    [ "OnCheck", "d8/da0/a19241.html#ab5379f3c1191eeb747cb6762fc42ce01", null ]
 ];

@@ -1,7 +1,6 @@
 var a13093 =
 [
-    [ "FilterTargets", "de/db4/a13093.html#a3d825420d6e2c02e5e0bb07240c2efbc", null ],
-    [ "HandleDummy", "de/db4/a13093.html#aa63bfb989205495f69eafe739989e8d7", null ],
-    [ "PrepareSpellScript", "de/db4/a13093.html#acf853f6383951b47feca881f971189cc", null ],
-    [ "Register", "de/db4/a13093.html#a121a9c4945c93b1709ccb336ca2bc53e", null ]
+    [ "boss_baroness_anastariAI", "dc/dd8/a13097.html", "dc/dd8/a13097" ],
+    [ "boss_baroness_anastari", "de/db4/a13093.html#a60f04c10d9b942cacf74a1dc8364dbbe", null ],
+    [ "GetAI", "de/db4/a13093.html#a38073f80afbceb5535cc18ab524378a6", null ]
 ];

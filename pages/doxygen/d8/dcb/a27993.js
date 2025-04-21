@@ -1,6 +1,8 @@
 var a27993 =
 [
-    [ "HandleDummyEffect", "d8/dcb/a27993.html#ad5421ca3dd5bf802952f98e6d1170003", null ],
-    [ "PrepareSpellScript", "d8/dcb/a27993.html#a9489556e1e16cd2e0d5c43b38d7ea5ee", null ],
-    [ "Register", "d8/dcb/a27993.html#a2ad2c00807d07aeb55a8fd848a69f9d1", null ]
+    [ "DamagedDisplayId", "d8/dcb/a27993.html#a84d606d69c51f5e1fdecf9bc0f5705be", null ],
+    [ "DestroyedDisplayId", "d8/dcb/a27993.html#afc891df0c9491a34f784e8f141434be5", null ],
+    [ "Id", "d8/dcb/a27993.html#a65d7e0933cb53864413781cdeb56b6c2", null ],
+    [ "RebuildingDisplayId", "d8/dcb/a27993.html#aa4e1e6be7b5b1d15872fb310c1c299af", null ],
+    [ "SmokeDisplayId", "d8/dcb/a27993.html#a1a06c3e04bc2bb7d5bc29592d40b9239", null ]
 ];

@@ -1,6 +1,6 @@
 var a20709 =
 [
-    [ "boss_sjonnir_malformed_oozeAI", "db/d97/a20713.html", "db/d97/a20713" ],
-    [ "boss_sjonnir_malformed_ooze", "d7/d97/a20709.html#ad151bc07b032b6cceed046d1b25ecc08", null ],
-    [ "GetAI", "d7/d97/a20709.html#a22807bb07692511c5ec87073d98c2604", null ]
+    [ "boss_yoggsaron_guardian_of_ysAI", "db/d97/a20713.html", "db/d97/a20713" ],
+    [ "boss_yoggsaron_guardian_of_ys", "d7/d97/a20709.html#a299b346a4e9ac5190d554702dcf00faf", null ],
+    [ "GetAI", "d7/d97/a20709.html#a86380b3ad87e0070541d22d3fb74058f", null ]
 ];

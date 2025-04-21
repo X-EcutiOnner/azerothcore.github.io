@@ -1,6 +1,6 @@
 var a18445 =
 [
-    [ "spell_putricide_slime_puddle_spawn_SpellScript", "db/d42/a18449.html", "db/d42/a18449" ],
-    [ "spell_putricide_slime_puddle_spawn", "d9/d2c/a18445.html#ac86115785a2187706face0e9e041e06e", null ],
-    [ "GetSpellScript", "d9/d2c/a18445.html#a1d42f4fc70d72aae7a8588e4c55c0428", null ]
+    [ "PeriodicTick", "d9/d2c/a18445.html#ac0b2cf06027c2f658745d6a90dfc76a1", null ],
+    [ "PrepareAuraScript", "d9/d2c/a18445.html#a0767ac60151517b803e871a0fcb25967", null ],
+    [ "Register", "d9/d2c/a18445.html#afd1e28b224035aef5ac109f38d7e118d", null ]
 ];

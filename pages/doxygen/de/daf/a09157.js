@@ -1,15 +1,16 @@
 var a09157 =
 [
-    [ "LogHolder", "de/daf/a09157.html#a3432ee2f32857bd02e75fdb5ba922bd1", null ],
-    [ "AddEvent", "de/daf/a09157.html#a5f6d81d9048290815053bb4aa3531d73", null ],
-    [ "CanInsert", "de/daf/a09157.html#aefdb4e57b5bf35b00564491547e6e2a9", null ],
-    [ "GetGuildId", "de/daf/a09157.html#ada98449548b389a1cd8177087e3aa5e8", null ],
-    [ "GetGuildLog", "de/daf/a09157.html#a17593c12663e8c4251f94636e511c73a", null ],
-    [ "GetGuildLog", "de/daf/a09157.html#ae43929001324d6bece4e45bc95115535", null ],
-    [ "GetNextGUID", "de/daf/a09157.html#aed00250b6a1036a91dd971af510f7750", null ],
-    [ "LoadEvent", "de/daf/a09157.html#a22e87750252d1c4f62f2e5686a2e008d", null ],
-    [ "m_guildId", "de/daf/a09157.html#a3827f9fb3fc13300f60d9f7dd27154c7", null ],
-    [ "m_log", "de/daf/a09157.html#aca25adbc1c1e9397c837a53793568b64", null ],
-    [ "m_maxRecords", "de/daf/a09157.html#a755788eaede72a131f74ae7de88c37b4", null ],
-    [ "m_nextGUID", "de/daf/a09157.html#a267cecce9b2f244235800c93a086e8e2", null ]
+    [ "MessageDistDeliverer", "de/daf/a09157.html#a8f8c9fb2dadaa8c521b5036a94a4c9a4", null ],
+    [ "SendPacket", "de/daf/a09157.html#af085a9490dfd5a1e577bda6d8333fe1d", null ],
+    [ "Visit", "de/daf/a09157.html#af44878b494b1412f0d08248f6a88fff6", null ],
+    [ "Visit", "de/daf/a09157.html#a2e8d0ad4bdc5fc8961d9f67b6a93b69d", null ],
+    [ "Visit", "de/daf/a09157.html#a8c56d33ec988bfb6ba078fce00beab1a", null ],
+    [ "Visit", "de/daf/a09157.html#a09171ca5e494d7cc4b19340e95367a64", null ],
+    [ "i_distSq", "de/daf/a09157.html#a871dda581863f0919f1d5b2f60c2fcd9", null ],
+    [ "i_message", "de/daf/a09157.html#ac49c2d8b9120edbafd6b04656a6d2909", null ],
+    [ "i_phaseMask", "de/daf/a09157.html#abca07d041f9b45b4002f15dfff6e1c9e", null ],
+    [ "i_source", "de/daf/a09157.html#aa65c4e298a1302647fdaad1b1227a3a2", null ],
+    [ "required3dDist", "de/daf/a09157.html#abdce98d93c98513a434df80b97c096c6", null ],
+    [ "skipped_receiver", "de/daf/a09157.html#a7f92e1c65cdc8346dd4bac47f1ba8b5b", null ],
+    [ "teamId", "de/daf/a09157.html#acfda3713bbde51a110cb160f0325f848", null ]
 ];

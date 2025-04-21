@@ -1,12 +1,11 @@
 var a21241 =
 [
-    [ "boss_freya_elder_stonebarkAI", "db/d5e/a21241.html#a492329e296aaf29861d76e12e2b94631", null ],
-    [ "DamageTaken", "db/d5e/a21241.html#af25c675f46f5ca0d0da170f367cc8bdc", null ],
-    [ "JustDied", "db/d5e/a21241.html#a8dcdf4a1c8df10fc8ca419de924fe136", null ],
-    [ "JustEngagedWith", "db/d5e/a21241.html#a77a231b75bbbbb56638e1e5535827150", null ],
-    [ "KilledUnit", "db/d5e/a21241.html#ad1ce26306c2ea2102183b0679d46efd3", null ],
-    [ "Reset", "db/d5e/a21241.html#a0d17571be8905c4c33ed4591e963d680", null ],
-    [ "UpdateAI", "db/d5e/a21241.html#acd21050c265f6703060f95f2e3c725f3", null ],
-    [ "_chargesCount", "db/d5e/a21241.html#a294714a547bbc7a7364c7477bdc0422c", null ],
-    [ "events", "db/d5e/a21241.html#a07bcbf839c3b0b3924ec1915b47af0f2", null ]
+    [ "npc_ichor_globuleAI", "db/d5e/a21241.html#a4d581f89c8385276fd407c000af9e569", null ],
+    [ "AttackStart", "db/d5e/a21241.html#aa4e1fc88a26d6ef41f1ca96c93abbc1a", null ],
+    [ "JustDied", "db/d5e/a21241.html#ad29c7659590933b0749e8e1c2c2e4c46", null ],
+    [ "MoveInLineOfSight", "db/d5e/a21241.html#af8ef8296512d57d934a171f1a5060e73", null ],
+    [ "SpellHit", "db/d5e/a21241.html#a1396538a446545408e3c304f3e56400f", null ],
+    [ "UpdateAI", "db/d5e/a21241.html#a6ff13c853583e5178fb3a690e17303de", null ],
+    [ "pInstance", "db/d5e/a21241.html#a94cbe93a69a28171fc3d91d71b6ec419", null ],
+    [ "uiRangeCheck_Timer", "db/d5e/a21241.html#a99914a55d2dc0b36a623dc7d6248e953", null ]
 ];

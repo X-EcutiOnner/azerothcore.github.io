@@ -1,6 +1,6 @@
 var a21237 =
 [
-    [ "boss_freya_elder_stonebarkAI", "db/d5e/a21241.html", "db/d5e/a21241" ],
-    [ "boss_freya_elder_stonebark", "d6/d58/a21237.html#a9c90c504d78456580ae657a42fac4075", null ],
-    [ "GetAI", "d6/d58/a21237.html#a0b529bb8755c56046c40b620ef4b7448", null ]
+    [ "npc_ichor_globuleAI", "db/d5e/a21241.html", "db/d5e/a21241" ],
+    [ "npc_ichor_globule", "d6/d58/a21237.html#a4dbd3b057e319ba83e0e1c94b99cd2ab", null ],
+    [ "GetAI", "d6/d58/a21237.html#a4fed5ebd2e1b6ff6867a9488a6e1aef2", null ]
 ];

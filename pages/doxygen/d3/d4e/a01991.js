@@ -1,6 +1,6 @@
 var a01991 =
 [
-    [ "PetAI", "d2/d6d/a06086.html", "d2/d6d/a06086" ],
+    [ "PetAI", "d5/d15/a06089.html", "d5/d15/a06089" ],
     [ "SpecialPets", "d3/d4e/a01991.html#a22fe79e956db2d74e141a56fef6d1cff", [
       [ "ENTRY_IMP", "d3/d4e/a01991.html#a22fe79e956db2d74e141a56fef6d1cffab9abb8f92c8fdad08f49606aafda6896", null ],
       [ "ENTRY_WATER_ELEMENTAL", "d3/d4e/a01991.html#a22fe79e956db2d74e141a56fef6d1cffa8ef9e2169f6035568dc57b89cb823cd5", null ],

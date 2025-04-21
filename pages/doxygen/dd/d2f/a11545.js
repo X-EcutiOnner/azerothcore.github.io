@@ -1,6 +1,10 @@
 var a11545 =
 [
-    [ "boss_high_interrogator_gerstahnAI", "d5/d74/a11549.html", "d5/d74/a11549" ],
-    [ "boss_high_interrogator_gerstahn", "dd/d2f/a11545.html#a700eb542c041e9ca540f2676fc42aff9", null ],
-    [ "GetAI", "dd/d2f/a11545.html#ab4e92847a1ce6bf50f0ae460c1a7108f", null ]
+    [ "bf_commandscript", "dd/d2f/a11545.html#a806ca440ae1b51fffefee9d298dab3df", null ],
+    [ "GetCommands", "dd/d2f/a11545.html#a97f0192d7ccd3532cfceaebff9f242be", null ],
+    [ "HandleBattlefieldEnable", "dd/d2f/a11545.html#a08dd3bdd279c760fe0f126200a01619e", null ],
+    [ "HandleBattlefieldEnd", "dd/d2f/a11545.html#af7100032ad26a66fbc9d9b37d1da98e1", null ],
+    [ "HandleBattlefieldStart", "dd/d2f/a11545.html#a55102cc3b29a3ded0832ec82be1e3a5e", null ],
+    [ "HandleBattlefieldSwitch", "dd/d2f/a11545.html#ac12cac377007d90b25b9797f2b2cc8de", null ],
+    [ "HandleBattlefieldTimer", "dd/d2f/a11545.html#a7168b3db9435d70e2c5ca5eb41fc8ef2", null ]
 ];

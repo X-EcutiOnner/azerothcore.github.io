@@ -1,7 +1,5 @@
 var a13741 =
 [
-    [ "boss_darkheartAI", "de/d86/a13741.html#ad6d9bfca9061cfeba364c573a9121ca8", null ],
-    [ "Reset", "de/d86/a13741.html#ab1a7a8d509c332088b169b755afd81de", null ],
-    [ "UpdateAI", "de/d86/a13741.html#a69eea4895a3f93382e57409c409ce797", null ],
-    [ "psychicwail_timer", "de/d86/a13741.html#a3ef8d1d7b5dd4283d2281ca067c25b98", null ]
+    [ "entry", "de/d86/a13741.html#ad7431eb64907aed0a03205a37c65a735", null ],
+    [ "pos", "de/d86/a13741.html#ab60283e91e81c141f3b31218aa4442a3", null ]
 ];

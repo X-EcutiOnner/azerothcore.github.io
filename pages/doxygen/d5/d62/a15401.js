@@ -1,7 +1,6 @@
 var a15401 =
 [
-    [ "HandleEffectRemove", "d5/d62/a15401.html#aa07e0bdaac9cad239bae1b24d16b433c", null ],
-    [ "PrepareAuraScript", "d5/d62/a15401.html#a8ab8433afb22bbca79e028e8f082da2b", null ],
-    [ "Register", "d5/d62/a15401.html#a2ee3afd6fdcb0991e419396ed65e6d4a", null ],
-    [ "AuraEffectHandleModes", "d5/d62/a15401.html#af8a46c99290ce700e765c7ad5e8c866c", null ]
+    [ "npc_omenAI", "d1/d9b/a15405.html", "d1/d9b/a15405" ],
+    [ "npc_omen", "d5/d62/a15401.html#aff955303a8b9741838779a59dd496f62", null ],
+    [ "GetAI", "d5/d62/a15401.html#a8023ad3298000d9819c46f46a93166d4", null ]
 ];

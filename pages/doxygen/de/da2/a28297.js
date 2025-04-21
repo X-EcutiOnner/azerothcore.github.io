@@ -1,10 +1,13 @@
 var a28297 =
 [
-    [ "Absorb", "de/da2/a28297.html#aedee311aa77597674b3665eaf74e98c8", null ],
-    [ "CalculateAmount", "de/da2/a28297.html#a5fdabb367ab86589d733d1da906446ab", null ],
-    [ "Load", "de/da2/a28297.html#a7418b17f23b9eeacceb0970df3cb1d99", null ],
-    [ "PrepareAuraScript", "de/da2/a28297.html#a1de52fae7a5ed3eeeb46be11eb2eac21", null ],
-    [ "Register", "de/da2/a28297.html#abfc540163e9eb34cbf8a48d39bede840", null ],
-    [ "Validate", "de/da2/a28297.html#a6cca564b6d13063ce7cd72ed8b6adf67", null ],
-    [ "absorbChance", "de/da2/a28297.html#a293be81af42d810126eda35b1d27e3bc", null ]
+    [ "actionFlag", "de/da2/a28297.html#a6257ae486eff937cf12be64f0e850ca6", null ],
+    [ "arrivalEventID", "de/da2/a28297.html#a1ffe17f529066091b18451a1121ce6ac", null ],
+    [ "delay", "de/da2/a28297.html#aef005db912b0a57ecc5d62c66d838826", null ],
+    [ "departureEventID", "de/da2/a28297.html#a670a033aaf0ff48676373baf9235d670", null ],
+    [ "index", "de/da2/a28297.html#af9f8e03c2d9c1bdf266b3d62f1174224", null ],
+    [ "mapid", "de/da2/a28297.html#aa2c6fb8a785e297c72384043698dd401", null ],
+    [ "path", "de/da2/a28297.html#aa0692acbae0d4639c89ece77265d7858", null ],
+    [ "x", "de/da2/a28297.html#a9acd2aad6b8820c04f6749bd2944b54f", null ],
+    [ "y", "de/da2/a28297.html#a08778d3ef9a9a87fd731b54d5501daab", null ],
+    [ "z", "de/da2/a28297.html#af48d85940d7f204091e8438427a72e2d", null ]
 ];

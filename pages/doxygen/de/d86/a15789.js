@@ -1,6 +1,6 @@
 var a15789 =
 [
-    [ "npc_rivern_frostwind", "de/d86/a15789.html#a0675c120fc28b26c7ea3c35f8d3f2a64", null ],
-    [ "OnGossipHello", "de/d86/a15789.html#a90a6582633336de422c9f98973562b32", null ],
-    [ "OnGossipSelect", "de/d86/a15789.html#a067ff91179f551633594d488eda269ed", null ]
+    [ "PrepareSpellScript", "de/d86/a15789.html#a2a3602af522bb8658c1bfdede1234efd", null ],
+    [ "Register", "de/d86/a15789.html#aba235111ea4e186064a85295466f2a3f", null ],
+    [ "SetDest", "de/d86/a15789.html#a89827e4db37bea4847c79265d95386c6", null ]
 ];

@@ -1,6 +1,13 @@
 var a22405 =
 [
-    [ "npc_ulduar_storm_tempered_keeperAI", "d6/d5c/a22409.html", "d6/d5c/a22409" ],
-    [ "npc_ulduar_storm_tempered_keeper", "dd/da7/a22405.html#aaf2ef154cad4f2ba5796e410dabf02fc", null ],
-    [ "GetAI", "dd/da7/a22405.html#aa0860236d2abedba1e521ee1610c89e8", null ]
+    [ "OPvPCapturePointEP_PWT", "dd/da7/a22405.html#a17e3d11c9b282f203bb0e1511fb5af02", null ],
+    [ "ChangeState", "dd/da7/a22405.html#a1e26a3ed8d700533df0a51d8db510a4f", null ],
+    [ "FillInitialWorldStates", "dd/da7/a22405.html#ab5faf124f53394a4a54a86a7bf5d0626", null ],
+    [ "HandlePlayerEnter", "dd/da7/a22405.html#ab9bf289c0814e60fd75902b4e87d1e46", null ],
+    [ "HandlePlayerLeave", "dd/da7/a22405.html#a5772e54263c613eee365856def5e74e6", null ],
+    [ "SendChangePhase", "dd/da7/a22405.html#af1cffc64adac5b64c04175ad1685d0b8", null ],
+    [ "SummonFlightMaster", "dd/da7/a22405.html#ab3808f8d756cc5f0b48db9375ae2fa1c", null ],
+    [ "UpdateTowerState", "dd/da7/a22405.html#af30325b43d2861eb667b33dcb23ffc1e", null ],
+    [ "m_FlightMasterSpawnedId", "dd/da7/a22405.html#afeefd804849b925e6d0a880d8efb5319", null ],
+    [ "m_TowerState", "dd/da7/a22405.html#a914dcbb37baf457750cfe9829d95d88c", null ]
 ];

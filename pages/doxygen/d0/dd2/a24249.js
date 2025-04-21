@@ -1,5 +1,8 @@
 var a24249 =
 [
-    [ "instance_sethekk_halls_InstanceMapScript", "d0/dd2/a24249.html#a037ee225b626b64436570680ae4e9ea0", null ],
-    [ "OnCreatureCreate", "d0/dd2/a24249.html#ad3555bd5d5f1d72c3bd6494339016214", null ]
+    [ "go_skull_pile", "d0/dd2/a24249.html#a9cf8dfef432c4967c60f66e645585770", null ],
+    [ "OnGossipHello", "d0/dd2/a24249.html#ac95d39ea03e78fee2a10603d8c7f8840", null ],
+    [ "OnGossipSelect", "d0/dd2/a24249.html#afb8e8db2705355e975fa48c98e09f20b", null ],
+    [ "SendActionMenu", "d0/dd2/a24249.html#a048dd224b46ead864958ad524d76167f", null ],
+    [ "_result", "d0/dd2/a24249.html#af74fcd75404c0886128401d661067394", null ]
 ];

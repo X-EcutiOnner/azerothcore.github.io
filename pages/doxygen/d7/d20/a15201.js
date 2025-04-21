@@ -1,13 +1,11 @@
 var a15201 =
 [
-    [ "npc_dirt_mound", "d7/d20/a15201.html#add7daefa1c96fb9d843248f8ca4796f6", null ],
-    [ "ChaseNewTarget", "d7/d20/a15201.html#a16656fb7ad8cda5916e8da0002cf0292", null ],
-    [ "EnterEvadeMode", "d7/d20/a15201.html#ac5fdeea9dc5553b689d3a8a9b0b73d34", null ],
-    [ "JustEngagedWith", "d7/d20/a15201.html#abf39fb8d63325eea7928b88b2b486ad2", null ],
-    [ "JustSummoned", "d7/d20/a15201.html#a5da17256d0cd4f6cb0e1256afe4b6539", null ],
-    [ "Reset", "d7/d20/a15201.html#ae1662eb73f21351e07d00a717421de68", null ],
-    [ "SetData", "d7/d20/a15201.html#a4faa65dd3260104202e4bdd34bc0b67d", null ],
-    [ "UpdateAI", "d7/d20/a15201.html#a88447191070cf8b84df96db565eef48d", null ],
-    [ "_instance", "d7/d20/a15201.html#ac9f138567a4367aeb5d7b1f6caea90c6", null ],
-    [ "_ouroHealth", "d7/d20/a15201.html#ac83391fa5069ae4574748f82d15e833d", null ]
+    [ "npc_depth_chargeAI", "d7/d20/a15201.html#a088848c16418964973107e125c20f508", null ],
+    [ "AttackStart", "d7/d20/a15201.html#a1ec6e2ea0cc61262932f63f764273cdb", null ],
+    [ "JustEngagedWith", "d7/d20/a15201.html#a90cc6eab8b63588f2567f59941eafc59", null ],
+    [ "MoveInLineOfSight", "d7/d20/a15201.html#a8342b7fc7677ac94757c725ec4063e9e", null ],
+    [ "Reset", "d7/d20/a15201.html#aaccf632a50749c0f6d6f29bb1b1bf5a4", null ],
+    [ "UpdateAI", "d7/d20/a15201.html#af34e55c3aee40f840edf695adc06495e", null ],
+    [ "WeMustDie", "d7/d20/a15201.html#a7b25b1228cf5029f1ebe653c76cf9843", null ],
+    [ "WeMustDieTimer", "d7/d20/a15201.html#a23e4f1f7079d12e78c74c21171d95cc7", null ]
 ];

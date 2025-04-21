@@ -1,6 +1,7 @@
 var a25029 =
 [
-    [ "instance_the_slave_pens_InstanceMapScript", "d9/d49/a25033.html", "d9/d49/a25033" ],
-    [ "instance_the_slave_pens", "de/dcd/a25029.html#a765f7b66ad3bed1828524ecb143742f2", null ],
-    [ "GetInstanceScript", "de/dcd/a25029.html#a0eedcecf1ddc27e139898cacf6f48965", null ]
+    [ "HandleDummy", "de/dcd/a25029.html#a582208e608c9fdca7464b817c76c13b3", null ],
+    [ "PrepareSpellScript", "de/dcd/a25029.html#ac7abb7e01362a3333c0d73cd19dcee30", null ],
+    [ "Register", "de/dcd/a25029.html#a3882606b9e9201163cf76cb20b8e6364", null ],
+    [ "Validate", "de/dcd/a25029.html#a12a1cb4b6131d5959f6f541da5e8fc00", null ]
 ];

@@ -1,6 +1,7 @@
 var a16001 =
 [
-    [ "spell_hadronox_leech_poison_AuraScript", "d3/d48/a16005.html", "d3/d48/a16005" ],
-    [ "spell_hadronox_leech_poison", "d8/d6a/a16001.html#ac728cdca360c47e36de9aa6144914083", null ],
-    [ "GetAuraScript", "d8/d6a/a16001.html#a4d6b18d6c1055d314bc4d6f6d62b4345", null ]
+    [ "npc_orb_carrierAI", "d8/d6a/a16001.html#a2011c247d2157f5f2a06db6e149743e0", null ],
+    [ "DoAction", "d8/d6a/a16001.html#a501d0bdb9d77be1229dadf60d5f8af8c", null ],
+    [ "TriggerCutter", "d8/d6a/a16001.html#a6b6b127db878ca3b79ac8d7aeff4156e", null ],
+    [ "UpdateAI", "d8/d6a/a16001.html#a99a08390fcf2b0a058aee161932392d0", null ]
 ];

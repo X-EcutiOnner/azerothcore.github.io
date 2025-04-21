@@ -1,6 +1,6 @@
 var a20829 =
 [
-    [ "spell_algalon_collapse_AuraScript", "d2/d2e/a20833.html", "d2/d2e/a20833" ],
-    [ "spell_algalon_collapse", "d6/d52/a20829.html#ade7d608518e6f7871d327141ec176333", null ],
-    [ "GetAuraScript", "d6/d52/a20829.html#a031c717feba0d0d1b6adf4d9886739d5", null ]
+    [ "FilterTargets", "d6/d52/a20829.html#adaeee235184ddc36e90e532091183056", null ],
+    [ "PrepareSpellScript", "d6/d52/a20829.html#a599f604e872d3a5a4ed2b155caefdc9f", null ],
+    [ "Register", "d6/d52/a20829.html#ab79041a2536878498744555475bce5c8", null ]
 ];

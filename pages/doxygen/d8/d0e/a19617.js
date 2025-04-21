@@ -1,7 +1,8 @@
 var a19617 =
 [
-    [ "HandleQuestComplete", "d8/d0e/a19617.html#a285380743a283caa73bf4f3a5ee2f86a", null ],
-    [ "HandleScript", "d8/d0e/a19617.html#a7b15569bce865a09fb3953eb77b13d62", null ],
-    [ "PrepareSpellScript", "d8/d0e/a19617.html#a23bf8b265f574ebd9dd516d49dd396c5", null ],
-    [ "Register", "d8/d0e/a19617.html#ad335433ca2f7399c2325b47c6bc562e9", null ]
+    [ "go_celestial_planetarium_accessAI", "d8/d0e/a19617.html#aca4d0e9babd6eefe84edc281f8a44cf2", null ],
+    [ "GossipHello", "d8/d0e/a19617.html#af159df46fecf2cd74ac4ec9fa006dc03", null ],
+    [ "UpdateAI", "d8/d0e/a19617.html#a9b2bfb74a12e3258476387fc78cde574", null ],
+    [ "_locked", "d8/d0e/a19617.html#a37f83dbbb05e461d613a4c38001f785c", null ],
+    [ "events", "d8/d0e/a19617.html#aa03b8d270054f2b71c1d625abe322fb8", null ]
 ];

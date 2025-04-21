@@ -1,6 +1,7 @@
 var a25305 =
 [
-    [ "PrepareSpellScript", "dc/dda/a25305.html#a5b17110b189b7134939aea9dbf2d724b", null ],
-    [ "Register", "dc/dda/a25305.html#aab0cdddfc5c8188ff246a04035b8b552", null ],
-    [ "SelectRandomPlayer", "dc/dda/a25305.html#a8a2229c61fb2eaaac3b0694008ec3ae1", null ]
+    [ "HandleScriptEffect", "dc/dda/a25305.html#ab1d476e7a07da5db80908fb669b6fa6b", null ],
+    [ "PrepareSpellScript", "dc/dda/a25305.html#acf30d245bab2e7a1ee1121008345e667", null ],
+    [ "Register", "dc/dda/a25305.html#a303a38a41f3d9be6e3083690b234e51f", null ],
+    [ "Validate", "dc/dda/a25305.html#a77a3256cdea185ce0ea95d88283c55d7", null ]
 ];

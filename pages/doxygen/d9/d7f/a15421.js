@@ -1,7 +1,13 @@
 var a15421 =
 [
-    [ "npc_kerlonianAI", "d4/d38/a15425.html", "d4/d38/a15425" ],
-    [ "npc_kerlonian", "d9/d7f/a15421.html#a8a5ab1fde9f21ac256d5168ef3f17f87", null ],
-    [ "GetAI", "d9/d7f/a15421.html#a93d93ba13d8521fee39801473b7c4b6a", null ],
-    [ "OnQuestAccept", "d9/d7f/a15421.html#a257d24295318605ac2fd5554315dfd63", null ]
+    [ "npc_shenthulAI", "d9/d7f/a15421.html#ae056474022c27be5565bf018a1b56f0b", null ],
+    [ "JustEngagedWith", "d9/d7f/a15421.html#acb202ef530bc11ea807f580ff5dfc621", null ],
+    [ "ReceiveEmote", "d9/d7f/a15421.html#ab2ddc3e447b36cb0fceffdaff0fca592", null ],
+    [ "Reset", "d9/d7f/a15421.html#af077e96eb8bf89af2d6eb79907444a17", null ],
+    [ "UpdateAI", "d9/d7f/a15421.html#a2ae643c11c6ea3808be922de96a24e8f", null ],
+    [ "CanEmote", "d9/d7f/a15421.html#a920209c374e611e96347d209337c044f", null ],
+    [ "CanTalk", "d9/d7f/a15421.html#a82ea8d2ee50538135add120be7616f86", null ],
+    [ "PlayerGUID", "d9/d7f/a15421.html#a4b262388aca789d19231426a8cb73379", null ],
+    [ "ResetTimer", "d9/d7f/a15421.html#a475a141d639f0136ac943e6afb1ecd15", null ],
+    [ "SaluteTimer", "d9/d7f/a15421.html#ae76b4bbde77b6029a788abfbbbe84df8", null ]
 ];

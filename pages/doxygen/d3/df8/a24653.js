@@ -1,6 +1,6 @@
 var a24653 =
 [
-    [ "boss_gathios_the_shattererAI", "dd/d1f/a24657.html", "dd/d1f/a24657" ],
-    [ "boss_gathios_the_shatterer", "d3/df8/a24653.html#a536e763140afebeb790cc48959e161d8", null ],
-    [ "GetAI", "d3/df8/a24653.html#a5ef6550172a21c0389b77510fbc4520e", null ]
+    [ "CalculateAmount", "d3/df8/a24653.html#a60d451e6b359501b138564085c87a99f", null ],
+    [ "PrepareAuraScript", "d3/df8/a24653.html#a22059b71bcfdfb9a3be59feaf8005d3f", null ],
+    [ "Register", "d3/df8/a24653.html#ab33586608d444404c07edc4ffbb717ee", null ]
 ];

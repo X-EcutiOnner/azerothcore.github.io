@@ -1,11 +1,12 @@
 var a11469 =
 [
-    [ "npc_rocknotAI", "d1/ddf/a11469.html#a4daa5104eabb6d38c22274b48a8514be", null ],
-    [ "DoGo", "d1/ddf/a11469.html#a7591520e06782feddb98a86107fbcb27", null ],
-    [ "Reset", "d1/ddf/a11469.html#a4d855a23c638e835de6f1c4644350166", null ],
-    [ "UpdateAI", "d1/ddf/a11469.html#a1d3bce3248766393be5f84c5ca5030b1", null ],
-    [ "WaypointReached", "d1/ddf/a11469.html#ae7d6f0b1e52767c61ad014accb1cec7a", null ],
-    [ "BreakDoor_Timer", "d1/ddf/a11469.html#a3ae6edef4812fd3161c3b8ad5aa5cac2", null ],
-    [ "BreakKeg_Timer", "d1/ddf/a11469.html#a6f380ad58cf55fe2ea9fc1f56118b454", null ],
-    [ "instance", "d1/ddf/a11469.html#a4328c25f12f562cfdf41740e908cb3bd", null ]
+    [ "WardenMac", "d1/ddf/a11469.html#a576c0cf7a819e95c97cc0ac4e5962d6d", null ],
+    [ "~WardenMac", "d1/ddf/a11469.html#a5f3832580c73a0af34fa83669a92ceab", null ],
+    [ "GetModuleForClient", "d1/ddf/a11469.html#a7a31b72ea7362c70f0fc9ff6e316d80b", null ],
+    [ "HandleData", "d1/ddf/a11469.html#a024be47d39641cb0e7654b0e0999e444", null ],
+    [ "HandleHashResult", "d1/ddf/a11469.html#a7feb3f82b2e0efd8427d6d8bcabaf17c", null ],
+    [ "Init", "d1/ddf/a11469.html#ae329d60e41b9f5af2a2c7e4983936eac", null ],
+    [ "InitializeModule", "d1/ddf/a11469.html#a4fceef34e83db1a357d9eadce35efdef", null ],
+    [ "RequestChecks", "d1/ddf/a11469.html#a2437a3a5650305b05fc22d312d0006da", null ],
+    [ "RequestHash", "d1/ddf/a11469.html#af031f18554c5a96b4eb39371a92b9c51", null ]
 ];

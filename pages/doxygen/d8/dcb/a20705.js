@@ -1,9 +1,14 @@
 var a20705 =
 [
-    [ "boss_sjonnir_iron_sludgeAI", "d8/dcb/a20705.html#aac57ae32188c47ca97b7331d62986e66", null ],
-    [ "JustDied", "d8/dcb/a20705.html#a6cfebecaaf673e40f97a46a09947a1f0", null ],
-    [ "JustEngagedWith", "d8/dcb/a20705.html#a772d279407d724477560898559710433", null ],
-    [ "Reset", "d8/dcb/a20705.html#a5b4a726aa496923d81c41b038e5f7449", null ],
-    [ "UpdateAI", "d8/dcb/a20705.html#a2745ff26c165851c367e080d28652984", null ],
-    [ "events", "d8/dcb/a20705.html#a468d45f9b9c2172f326068d59a74121a", null ]
+    [ "boss_yoggsaron_cloudAI", "d8/dcb/a20705.html#a6a13c31fb0649387ac411ed7ec2fb66a", null ],
+    [ "AttackStart", "d8/dcb/a20705.html#a3ecf6a1c74780aa250be3f4e2dd04ea1", null ],
+    [ "DoAction", "d8/dcb/a20705.html#a68caf08c015a0048be7858e435bbc84d", null ],
+    [ "InitWaypoint", "d8/dcb/a20705.html#ae68d5d5f5c1edb74596761dccecb614d", null ],
+    [ "JustSummoned", "d8/dcb/a20705.html#a70e74c2a1c19468e25edcc3d0e41df06", null ],
+    [ "MoveInLineOfSight", "d8/dcb/a20705.html#a48fb6de45d47ab4fbe02da835056f4ce", null ],
+    [ "Reset", "d8/dcb/a20705.html#adffbc99bb2fff0ce2082cd9e2d3608d7", null ],
+    [ "UpdateEscortAI", "d8/dcb/a20705.html#a3661ecf52a93c7d769eaa9dcfa2ac202", null ],
+    [ "WaypointReached", "d8/dcb/a20705.html#a3933d6c39c060db0da18d174e5b2e01a", null ],
+    [ "_checkTimer", "d8/dcb/a20705.html#a883307a4134b269fb2bbe6efa371b945", null ],
+    [ "_isSummoning", "d8/dcb/a20705.html#a118ccef4158c49bddf2b503f3a3090d0", null ]
 ];

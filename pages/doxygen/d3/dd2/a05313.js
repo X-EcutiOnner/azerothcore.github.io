@@ -1,9 +1,12 @@
 var a05313 =
 [
-    [ "Base", "d9/d96/a05317.html", "d9/d96/a05317" ],
-    [ "Erase", "d3/dd2/a05313.html#a2c7b450c8781824135765e5d82b0272e", null ],
-    [ "Get", "d3/dd2/a05313.html#aa8f56bb08a6245792a75305ba2fcce82", null ],
-    [ "GetDefault", "d3/dd2/a05313.html#ad53ddbe486c994277adbb96e1c644112", null ],
-    [ "Set", "d3/dd2/a05313.html#a93bf2535b14236df9703e485ef816b36", null ],
-    [ "Container", "d3/dd2/a05313.html#a3a559027ba0a64e4af2f02218ce1c910", null ]
+    [ "AppenderConsole", "d3/dd2/a05313.html#aaf770a87f2151a7e6f92087751528c68", null ],
+    [ "_write", "d3/dd2/a05313.html#a94e529229bd707fa2bad0a0206a386d5", null ],
+    [ "getType", "d3/dd2/a05313.html#a4ae7f47c76b19eb269b26fdf13f14e48", null ],
+    [ "InitColors", "d3/dd2/a05313.html#a1a4deceeafc9a111a519ea55dc646266", null ],
+    [ "ResetColor", "d3/dd2/a05313.html#a4a3e55c9229947a25d4191bbfa348bf5", null ],
+    [ "SetColor", "d3/dd2/a05313.html#a9303f9408e1cbfc086fba15bf9a4ce59", null ],
+    [ "_colored", "d3/dd2/a05313.html#a172563f34a7277f7afb05354c8fbeb1f", null ],
+    [ "_colors", "d3/dd2/a05313.html#acdf277241cd25715e48500a15ab6bd30", null ],
+    [ "type", "d3/dd2/a05313.html#ab5cbc074f7d9306838974863913c8a5b", null ]
 ];

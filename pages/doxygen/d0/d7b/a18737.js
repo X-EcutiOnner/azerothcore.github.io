@@ -1,6 +1,6 @@
 var a18737 =
 [
-    [ "FilterTargets", "d0/d7b/a18737.html#a67190c6d0f65184c43e064b001eeb4fb", null ],
-    [ "PrepareSpellScript", "d0/d7b/a18737.html#a7e41795dc658c8745fd3956822f3f755", null ],
-    [ "Register", "d0/d7b/a18737.html#aef94fefc34e9b5ce6ddece8393aa0945", null ]
+    [ "npc_icc_nerubar_broodkeeperAI", "d1/d60/a18741.html", "d1/d60/a18741" ],
+    [ "npc_icc_nerubar_broodkeeper", "d0/d7b/a18737.html#adf9c3bfb444fed50420c2e780b373f34", null ],
+    [ "GetAI", "d0/d7b/a18737.html#ad12186da36f7bbf99275a746bc874bfc", null ]
 ];

@@ -1,6 +1,5 @@
 var a24285 =
 [
-    [ "instance_shadow_labyrinth_InstanceMapScript", "d1/dff/a24289.html", "d1/dff/a24289" ],
-    [ "instance_shadow_labyrinth", "d4/d1d/a24285.html#a16a3acdfd9b1053374dfa5f27e5f3c19", null ],
-    [ "GetInstanceScript", "d4/d1d/a24285.html#af9edf624413593a5cdf025dd9a1c3631", null ]
+    [ "npc_pet_dk_army_of_the_deadAI", "d4/d1d/a24285.html#a2d934ed807d225f6b9f2206f0556f26d", null ],
+    [ "InitializeAI", "d4/d1d/a24285.html#af3ecec126ed3d902acd4bfe979382307", null ]
 ];

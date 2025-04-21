@@ -1,6 +1,6 @@
 var a20281 =
 [
-    [ "npc_eoe_wyrmrest_skytalonAI", "df/d7a/a20281.html#a0878695bc4179e3b6e92dde9f2b5cf19", null ],
-    [ "JustDied", "df/d7a/a20281.html#aaa88ff236fd49a9c672ab29feb7377b8", null ],
-    [ "PassengerBoarded", "df/d7a/a20281.html#aa3352276e87d805cc8722eb97d10ca46", null ]
+    [ "HandleInstaKill", "df/d7a/a20281.html#a593786eb89bf77e05dad4b502ffc1925", null ],
+    [ "PrepareSpellScript", "df/d7a/a20281.html#aa89401a4c6b1c85e4242bda45933b0ad", null ],
+    [ "Register", "df/d7a/a20281.html#a46f2c2658e6b55f091bf8894f06a787c", null ]
 ];

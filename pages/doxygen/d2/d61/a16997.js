@@ -1,5 +1,6 @@
 var a16997 =
 [
-    [ "achievement_consumption_junction", "d2/d61/a16997.html#aab08732c13f41e0e8d27e9f482bd7351", null ],
-    [ "OnCheck", "d2/d61/a16997.html#a14dae1bf9d4d7c79f11de40b372f353e", null ]
+    [ "npc_pos_freed_slaveAI", "d2/d61/a16997.html#ad5728e427f9f4a65cea13ec2c5a01453", null ],
+    [ "CanAIAttack", "d2/d61/a16997.html#a76818ee5fcfcc5678fa9d0957a424d9b", null ],
+    [ "EnterEvadeMode", "d2/d61/a16997.html#a234135e6bea0d91611fbdbae4dec2ea1", null ]
 ];

@@ -1,8 +1,25 @@
 var a05169 =
 [
-    [ "Decode", "d1/da1/a05169.html#aacf2a55e180aa5ee475ac76c6af4d47a", null ],
-    [ "Encode", "d1/da1/a05169.html#a51c8847dc9b75161f4d2d366324dc50f", null ],
-    [ "BITS_PER_CHAR", "d1/da1/a05169.html#a10f3736ee2ed8e79e1236798e2b1d2be", null ],
-    [ "DECODE_ERROR", "d1/da1/a05169.html#ace6b211be8a36043942f0a1aaee063b1", null ],
-    [ "PADDING", "d1/da1/a05169.html#af099d69cc636a7ad298ec9e38b2f20d2", null ]
+    [ "Record", "d6/d5f/a05173.html", "d6/d5f/a05173" ],
+    [ "DBCFileLoader", "d1/da1/a05169.html#a99ba418c63c49cf9a028626b8e282a01", null ],
+    [ "~DBCFileLoader", "d1/da1/a05169.html#a2e8dd3e5d88b870ea01e0c8dbfa55acd", null ],
+    [ "DBCFileLoader", "d1/da1/a05169.html#a2e75536e8df1449449b4b6fe5585074d", null ],
+    [ "AutoProduceData", "d1/da1/a05169.html#af8810dd9cef9ed82036bbebb4c938521", null ],
+    [ "AutoProduceStrings", "d1/da1/a05169.html#a12054e13d90636076ce04587aacf8ff6", null ],
+    [ "GetCols", "d1/da1/a05169.html#a3c536a9333a06213a37c95087eaaf8e3", null ],
+    [ "GetFormatRecordSize", "d1/da1/a05169.html#a990308cf88d2772db090c37a66e9f9e5", null ],
+    [ "GetNumRows", "d1/da1/a05169.html#aeedb51dd9b316063a58a989b175d0bc5", null ],
+    [ "GetOffset", "d1/da1/a05169.html#ae624604ad0cdae8d3eb7212630a33613", null ],
+    [ "getRecord", "d1/da1/a05169.html#ac4b1c79585f63f53f6d48db235732e20", null ],
+    [ "GetRowSize", "d1/da1/a05169.html#af322bc9e92472463998ca8082c5da3d6", null ],
+    [ "IsLoaded", "d1/da1/a05169.html#a28bf265dafc284e9edb55fc1ed261694", null ],
+    [ "Load", "d1/da1/a05169.html#a32c6a04567395f66270858c5feb57f5f", null ],
+    [ "operator=", "d1/da1/a05169.html#ac2b0f30fb125b8dae385ca8330d02e8b", null ],
+    [ "data", "d1/da1/a05169.html#a137152d873bfa3cb2d3860fe6001f404", null ],
+    [ "fieldCount", "d1/da1/a05169.html#a920472d71232fa759bce768fdca9a1c4", null ],
+    [ "fieldsOffset", "d1/da1/a05169.html#a7aa68d259f6295df3029456bde143862", null ],
+    [ "recordCount", "d1/da1/a05169.html#a1a17426b679598ee27363e897b40f2bf", null ],
+    [ "recordSize", "d1/da1/a05169.html#ab4f28de7c57a6e25c715bb009ed5f701", null ],
+    [ "stringSize", "d1/da1/a05169.html#a0761727ba38d899f337c733873742d69", null ],
+    [ "stringTable", "d1/da1/a05169.html#a5961bf01316cc14a075c1b874000e8a2", null ]
 ];

@@ -1,6 +1,6 @@
 var a20773 =
 [
-    [ "boss_algalon_the_observerAI", "d6/d34/a20777.html", "d6/d34/a20777" ],
-    [ "boss_algalon_the_observer", "d8/dbb/a20773.html#a0691b47a116401da58b246203ecba2cb", null ],
-    [ "GetAI", "d8/dbb/a20773.html#a4c30c6ddf8dcbc7c478250846f27a261", null ]
+    [ "boss_yoggsaron_descend_portalAI", "d8/dbb/a20773.html#a50ddd1d7b1d4a2e729657e53dfee43f2", null ],
+    [ "OnSpellClick", "d8/dbb/a20773.html#aba032a7347230db028d1e939944d3f46", null ],
+    [ "_instance", "d8/dbb/a20773.html#a477abf19a0b5bf9865550541877a29d7", null ]
 ];

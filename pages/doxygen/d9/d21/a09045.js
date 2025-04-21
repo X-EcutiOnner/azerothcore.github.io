@@ -1,10 +1,10 @@
 var a09045 =
 [
-    [ "GameObjectInRangeCheck", "d9/d21/a09045.html#a62075fc1b342fe6e40998dad928da71a", null ],
-    [ "operator()", "d9/d21/a09045.html#aa49818fa638dbd3909e5f563383346f2", null ],
-    [ "entry", "d9/d21/a09045.html#a9223c931b791ad689451f7f0c874b6a9", null ],
-    [ "range", "d9/d21/a09045.html#addf45c48385df26aa544957d7d24f1ec", null ],
-    [ "x", "d9/d21/a09045.html#af52ee33b2324eb80f4ad47f2eee1dbb5", null ],
-    [ "y", "d9/d21/a09045.html#a98acab0031dbf8b0a3943c3a6522c9d3", null ],
-    [ "z", "d9/d21/a09045.html#a814909bb047b8b0e0dd4f7ba0c479c64", null ]
+    [ "GridObjectLoader", "d9/d21/a09045.html#a57cd46fee6f747221761aa3114c40ba6", null ],
+    [ "AddObjectHelper", "d9/d21/a09045.html#a4e857363f544e91918b22df7fb6b1fe8", null ],
+    [ "LoadAllCellsInGrid", "d9/d21/a09045.html#a2f4aac240f93354a4a1cd22a7144fb91", null ],
+    [ "LoadCreatures", "d9/d21/a09045.html#a000e7ba83cc08e6c5b34a9bff222a809", null ],
+    [ "LoadGameObjects", "d9/d21/a09045.html#ad577dbb6544e806d25b496796651ba5b", null ],
+    [ "_grid", "d9/d21/a09045.html#abe551354634514fa3998eccb10fcbefe", null ],
+    [ "_map", "d9/d21/a09045.html#a1d3ca2b103b23a95fb208ee64fe4037b", null ]
 ];

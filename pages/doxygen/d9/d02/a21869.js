@@ -1,5 +1,7 @@
 var a21869 =
 [
-    [ "achievement_quick_shave", "d9/d02/a21869.html#a6c2f1e60d2311922abbaf7e22e1e9e4b", null ],
-    [ "OnCheck", "d9/d02/a21869.html#a151c479da3d4cec05999ad8a249b100c", null ]
+    [ "HandleAfterEffectApply", "d9/d02/a21869.html#ab54795dc49ca453db40494a694158a98", null ],
+    [ "PrepareAuraScript", "d9/d02/a21869.html#a3e5902a79b9d2c5cad69ad2ece8592ec", null ],
+    [ "Register", "d9/d02/a21869.html#addd4fac4cc8a93d800abacb144e3303c", null ],
+    [ "Validate", "d9/d02/a21869.html#a3ee65a1391c340e471adfc7ac653dd50", null ]
 ];

@@ -1,6 +1,6 @@
 var a16173 =
 [
-    [ "boss_halionAI", "df/d75/a16177.html", "df/d75/a16177" ],
-    [ "boss_halion", "d1/db1/a16173.html#a94b35248cedbf08b0a1f219c4c28c269", null ],
-    [ "GetAI", "d1/db1/a16173.html#a142314efb4f45ec146ab0225271d29b1", null ]
+    [ "npc_black_knight_ghoulAI", "df/d75/a16177.html", "df/d75/a16177" ],
+    [ "npc_black_knight_ghoul", "d1/db1/a16173.html#a8e62b1070f0ed4e5b917fcaaeb2da8d0", null ],
+    [ "GetAI", "d1/db1/a16173.html#a52308f8d168e1ccea22de653813b7f6f", null ]
 ];

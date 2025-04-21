@@ -1,5 +1,8 @@
 var a09265 =
 [
-    [ "MinionInfo", "d5/dbc/a09265.html#a537dd49ffb504aeab8b2b1734d5f44d7", null ],
-    [ "bossInfo", "d5/dbc/a09265.html#a04750e14ecb53ce6e3fac35844a713cd", null ]
+    [ "RespawnDo", "d5/dbc/a09265.html#a79f6424f2849c4c05998fe29a8510aeb", null ],
+    [ "operator()", "d5/dbc/a09265.html#ac15ff63f29e313556b8f66e0cd80514f", null ],
+    [ "operator()", "d5/dbc/a09265.html#a23408bf4da497d1007e4e88e0d9c0e19", null ],
+    [ "operator()", "d5/dbc/a09265.html#a66335f45bb1f3c770887b263e9d84236", null ],
+    [ "operator()", "d5/dbc/a09265.html#a4551ca2e0fdb6540a724c9c2b43484c6", null ]
 ];

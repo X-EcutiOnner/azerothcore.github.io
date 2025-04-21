@@ -1,6 +1,6 @@
 var a21901 =
 [
-    [ "boss_thorim_trapAI", "d6/d97/a21905.html", "d6/d97/a21905" ],
-    [ "boss_thorim_trap", "d6/d93/a21901.html#af529112badd88f9ebe4cec216d9edaeb", null ],
-    [ "GetAI", "d6/d93/a21901.html#afd4ee85d73354b790c0d55abbfad75fd", null ]
+    [ "npc_attracted_reef_bullAI", "d6/d97/a21905.html", "d6/d97/a21905" ],
+    [ "npc_attracted_reef_bull", "d6/d93/a21901.html#acd0ade9e7ce5492c11be0b3f2696418e", null ],
+    [ "GetAI", "d6/d93/a21901.html#af705e2768cd41c955af7f944c670ac85", null ]
 ];

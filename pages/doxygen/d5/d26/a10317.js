@@ -1,5 +1,5 @@
 var a10317 =
 [
-    [ "GuildBankRemainingWithdrawMoneyQuery", "d5/d26/a10317.html#afb45f29d4a280c4cc02ee2ab3c055824", null ],
-    [ "Read", "d5/d26/a10317.html#a3e03f6f23a989d6f105c397f8ecfeb87", null ]
+    [ "MovementHandlerScript", "d5/d26/a10317.html#aeeeb5fe81eebc04fc317e726782be3ab", null ],
+    [ "OnPlayerMove", "d5/d26/a10317.html#ac1604e58c8ecab26ce4159fb43a86a68", null ]
 ];

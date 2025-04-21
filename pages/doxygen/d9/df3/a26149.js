@@ -1,6 +1,6 @@
 var a26149 =
 [
-    [ "npc_pet_dk_ghoulAI", "de/d5b/a26153.html", "de/d5b/a26153" ],
-    [ "npc_pet_dk_ghoul", "d9/df3/a26149.html#ac8af6ae753151a08e80d434a04ef58db", null ],
-    [ "GetAI", "d9/df3/a26149.html#a74b068bdccf5d9b25b4ef3bff0a193ef", null ]
+    [ "HandleDamage", "d9/df3/a26149.html#ae34b85a4830066e21069e5ab8373e5c4", null ],
+    [ "PrepareSpellScript", "d9/df3/a26149.html#a86fd53d1f9a2ecf22c4969e2f8506acf", null ],
+    [ "Register", "d9/df3/a26149.html#a1a679fb0be26228f5fcdb45da2b994ff", null ]
 ];

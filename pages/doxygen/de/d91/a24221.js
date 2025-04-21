@@ -1,4 +1,7 @@
 var a24221 =
 [
-    [ "instance_mana_tombs_InstanceMapScript", "de/d91/a24221.html#a1523ad04993ce4ddf5b503355f7c856a", null ]
+    [ "HandlePeriodic", "de/d91/a24221.html#a56dd6ce5acad6c8a10eabfc3f35879fe", null ],
+    [ "PrepareAuraScript", "de/d91/a24221.html#a58dc6668172d046cef3046649928c124", null ],
+    [ "Register", "de/d91/a24221.html#a5700d7cc8b52ec0351e3d7bf851274b7", null ],
+    [ "Validate", "de/d91/a24221.html#afa6d5fe15882f33ae1a1d137db9caf8c", null ]
 ];

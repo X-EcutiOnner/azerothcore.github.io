@@ -1,7 +1,6 @@
 var a25133 =
 [
-    [ "CalcPeriodic", "dd/d63/a25133.html#aeae100fb3ab86b9064c3923472fbd45d", null ],
-    [ "PrepareAuraScript", "dd/d63/a25133.html#a290913502dfe3dfb42b44a964468b97c", null ],
-    [ "Register", "dd/d63/a25133.html#aea7a6e4bcbc97d19393d790a28a4483a", null ],
-    [ "Update", "dd/d63/a25133.html#ab3bdb3a14c6d130d295553e635acb47c", null ]
+    [ "CalculateAmount", "dd/d63/a25133.html#a0522f4bf54b4a71df4e09f97a28fda45", null ],
+    [ "PrepareAuraScript", "dd/d63/a25133.html#acf699e467734499dd992f401da38cf88", null ],
+    [ "Register", "dd/d63/a25133.html#a6e6396a162a532ff25b9bd7c551f05d8", null ]
 ];

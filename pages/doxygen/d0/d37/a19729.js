@@ -1,6 +1,9 @@
 var a19729 =
 [
-    [ "npc_icc_skybreaker_marksmanAI", "d8/de4/a19733.html", "d8/de4/a19733" ],
-    [ "npc_icc_skybreaker_marksman", "d0/d37/a19729.html#a1d870b78e1acf2d17782265e28698d1c", null ],
-    [ "GetAI", "d0/d37/a19729.html#a374017d37da15705d51ab8edc75683ff", null ]
+    [ "npc_auriaya_sanctum_sentryAI", "d0/d37/a19729.html#afffb62c4db56bb4e7baa095ae75cd7e3", null ],
+    [ "JustEngagedWith", "d0/d37/a19729.html#aeeb0aa4667a110dabcc70d422ebd6de5", null ],
+    [ "Reset", "d0/d37/a19729.html#a5ab87ac858782cd7f05d9778ca3a6214", null ],
+    [ "UpdateAI", "d0/d37/a19729.html#ab1862b4bd4b4fdfaeac8ad9c52cc5ed6", null ],
+    [ "_ripFleshTimer", "d0/d37/a19729.html#a83920afb7f6930d780abd2d6fba2aa4c", null ],
+    [ "_savagePounceTimer", "d0/d37/a19729.html#a9a6b14ece9a0bf812a04ea765b546735", null ]
 ];

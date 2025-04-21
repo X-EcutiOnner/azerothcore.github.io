@@ -1,6 +1,7 @@
 var a18245 =
 [
-    [ "DamageGunship", "d0/d24/a18245.html#a9db5651f7a17e92a873c4885c91c7912", null ],
-    [ "PrepareSpellScript", "d0/d24/a18245.html#a381219ba066f0103dd1d8923e12a18e9", null ],
-    [ "Register", "d0/d24/a18245.html#abdd321aa50f558b6a2a3edc08f01ac3f", null ]
+    [ "CheckTargetCount", "d0/d24/a18245.html#a44f558248f944464c773105728cffbca", null ],
+    [ "PrepareSpellScript", "d0/d24/a18245.html#a2ae927358c2480aecd18c1f3c2e6c1c7", null ],
+    [ "Register", "d0/d24/a18245.html#aeda833ca8483d337311086b9d0a14081", null ],
+    [ "Validate", "d0/d24/a18245.html#aee84751e352dbfc12472fc15924c48fa", null ]
 ];

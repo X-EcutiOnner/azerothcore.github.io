@@ -1,6 +1,6 @@
 var a18053 =
 [
-    [ "npc_igb_ship_crewAI", "d0/dac/a18053.html#a3ca741b305e3235b0521f094d7abe732", null ],
-    [ "CanAIAttack", "d0/dac/a18053.html#a2c834dc151493957fc116865699ae7f5", null ],
-    [ "_instance", "d0/dac/a18053.html#a288bd5f8b4eaed7b1a960ed738330ae4", null ]
+    [ "PeriodicTick", "d0/dac/a18053.html#af47c7ea07ee3dbe824b1c294024d0c29", null ],
+    [ "PrepareAuraScript", "d0/dac/a18053.html#aa2649c760e362cc7aa22cd770b15f7df", null ],
+    [ "Register", "d0/dac/a18053.html#ad4290158ee9af93df11d1a46a5bd26a2", null ]
 ];

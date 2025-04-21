@@ -1,7 +1,7 @@
 var a27149 =
 [
-    [ "HandleOnEffectApply", "d6/d57/a27149.html#a90359e3dbb5c2c8caf275f21c107ee0a", null ],
-    [ "HandleOnEffectRemove", "d6/d57/a27149.html#a094d788d157474a9683387d5c340538f", null ],
-    [ "PrepareAuraScript", "d6/d57/a27149.html#aad378b8c45f11af51faf9128878c01df", null ],
-    [ "Register", "d6/d57/a27149.html#a8fcc385f504b3b357e9ceab76f11ca46", null ]
+    [ "go_bear_trapAI", "d6/d57/a27149.html#ad97484d73bcea6a84909004c099eec34", null ],
+    [ "Initialize", "d6/d57/a27149.html#a89c76f1563f541c572c48f8cf633aa6a", null ],
+    [ "UpdateAI", "d6/d57/a27149.html#a8901922d736bb0391da5618593ced5c5", null ],
+    [ "_events", "d6/d57/a27149.html#a59f37a130326818dd922763ae9058fe7", null ]
 ];

@@ -1,11 +1,9 @@
 var a24301 =
 [
-    [ "boss_gurtogg_bloodboilAI", "dd/dd9/a24301.html#abe60cf5e28400b45a06bde7cd0f2df27", null ],
-    [ "CheckEvadeIfOutOfCombatArea", "dd/dd9/a24301.html#ac0edb2e78a0e6fb6cfe2fda943da4d64", null ],
-    [ "JustDied", "dd/dd9/a24301.html#aa8c5ad8cd9975bd253287be55844b650", null ],
-    [ "JustEngagedWith", "dd/dd9/a24301.html#ab010180f6428ee21c73a2bfe6c769df9", null ],
-    [ "JustSummoned", "dd/dd9/a24301.html#ac2191fb316b2f4473d46f024de7b542a", null ],
-    [ "KilledUnit", "dd/dd9/a24301.html#a08dc356c04325166e04dc16ec772d7ae", null ],
-    [ "Reset", "dd/dd9/a24301.html#a5dd09a338aff7b2b98abae02de3f5019", null ],
-    [ "UpdateAI", "dd/dd9/a24301.html#a3df99692a9e97657dd5304ed63738708", null ]
+    [ "npc_pet_gen_soul_trader_beacon", "dd/dd9/a24301.html#a58ef19b8c08aee764bdd55e480d9d750", null ],
+    [ "GetOwner", "dd/dd9/a24301.html#a72bfd4cf6c734d1f1070a1560131667d", null ],
+    [ "SpellHitTarget", "dd/dd9/a24301.html#a6c0d3181b913c5022325f66586f66bfa", null ],
+    [ "UpdateAI", "dd/dd9/a24301.html#a18c06958e6b3d4306a6fdb5f9924d7ff", null ],
+    [ "events", "dd/dd9/a24301.html#ae0a6d4850a0a0da4bd04227b11bae9e4", null ],
+    [ "ownerGUID", "dd/dd9/a24301.html#a3a42e83216c0111a740a0c89e57c6f62", null ]
 ];

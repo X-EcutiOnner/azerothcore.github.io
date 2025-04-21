@@ -1,6 +1,6 @@
 var a11985 =
 [
-    [ "boss_garrAI", "d5/d0b/a11989.html", "d5/d0b/a11989" ],
-    [ "boss_garr", "de/ddf/a11985.html#ab489eb068430a6aaa83c93104dd54d65", null ],
-    [ "GetAI", "de/ddf/a11985.html#abc673a3db7fce0101a0b95d5efbdefa3", null ]
+    [ "boss_highlordomokkAI", "d5/d0b/a11989.html", "d5/d0b/a11989" ],
+    [ "boss_highlord_omokk", "de/ddf/a11985.html#af5174587ed3cd1c46f604183a75de99e", null ],
+    [ "GetAI", "de/ddf/a11985.html#afb8efb012791c6a2fc18975a1ec7f984", null ]
 ];

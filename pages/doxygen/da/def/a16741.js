@@ -1,6 +1,7 @@
 var a16741 =
 [
-    [ "spell_toc25_mistress_kiss_AuraScript", "dd/d7b/a16745.html", "dd/d7b/a16745" ],
-    [ "spell_toc25_mistress_kiss", "da/def/a16741.html#a5e6df0da2d89b2ca71c6fc49790b3314", null ],
-    [ "GetAuraScript", "da/def/a16741.html#ae4fbeb690e0fceb92fa565e2b7358592", null ]
+    [ "OnRemove", "da/def/a16741.html#a4b95717cb19116b81f3eec798089abad", null ],
+    [ "PrepareAuraScript", "da/def/a16741.html#a581645fa151531aaf7b562a8739d5616", null ],
+    [ "Register", "da/def/a16741.html#a01304c556d79001e290707551bee7622", null ],
+    [ "Validate", "da/def/a16741.html#a96e4b9cae1f016bf87c9a09ceb6da561", null ]
 ];

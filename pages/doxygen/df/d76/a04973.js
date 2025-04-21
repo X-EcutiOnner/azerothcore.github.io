@@ -1,6 +1,9 @@
 var a04973 =
 [
-    [ "NodeArray", "df/d76/a04973.html#ad14de28828d5dd9c425e47a261125423", null ],
-    [ "AddNode", "df/d76/a04973.html#a370b6e8633c2c739ff68c0399e315a7e", null ],
-    [ "_nodes", "df/d76/a04973.html#a581a71d15d245efc585297c218313134", null ]
+    [ "MapRayCallback", "df/d76/a04973.html#a1a4a654bc929dab5b5a2804c4b88389d", null ],
+    [ "didHit", "df/d76/a04973.html#a9d9abb0a5ffff131d2c19e88c3c8b836", null ],
+    [ "operator()", "df/d76/a04973.html#a0f218465b321da5f8289dfa815acbfd4", null ],
+    [ "flags", "df/d76/a04973.html#a88d1e6d6fa43608bcee21a822488f061", null ],
+    [ "hit", "df/d76/a04973.html#a6fc14ac7ae20effec9d2657a46b838fc", null ],
+    [ "prims", "df/d76/a04973.html#a389d8ee31e0cb665bfd9084d786750c5", null ]
 ];

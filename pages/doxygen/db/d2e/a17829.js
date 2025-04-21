@@ -1,6 +1,6 @@
 var a17829 =
 [
-    [ "spell_blood_queen_vampiric_bite_SpellScript", "d3/d4b/a17833.html", "d3/d4b/a17833" ],
-    [ "spell_blood_queen_vampiric_bite", "db/d2e/a17829.html#ae324b618e1ffca96853070c0e288af23", null ],
-    [ "GetSpellScript", "db/d2e/a17829.html#ad4fe256640f5a0ae0b5f530653b41290", null ]
+    [ "OnRemove", "db/d2e/a17829.html#a5b9f23b815b1c85ecf2e56c626ce5077", null ],
+    [ "PrepareAuraScript", "db/d2e/a17829.html#a9207d9f59026e1beb7c266ee3a1ef884", null ],
+    [ "Register", "db/d2e/a17829.html#ad9eb03a09fc13f6b2b30e9f6cc1990bc", null ]
 ];

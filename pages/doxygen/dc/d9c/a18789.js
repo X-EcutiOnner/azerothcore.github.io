@@ -1,6 +1,6 @@
 var a18789 =
 [
-    [ "spell_sindragosa_ice_tomb_filter_SpellScript", "d9/d98/a18793.html", "d9/d98/a18793" ],
-    [ "spell_sindragosa_ice_tomb_filter", "dc/d9c/a18789.html#a363c2d6614220dc6bf218c7c4eef5251", null ],
-    [ "GetSpellScript", "dc/d9c/a18789.html#af06952eacb4068618f184b9828146041", null ]
+    [ "RespawnEvent", "dc/d9c/a18789.html#accc0d5638ff7a493fa116ac2e8f2e58b", null ],
+    [ "Execute", "dc/d9c/a18789.html#a2e58f4e472fb72cf5401f11be6e5e136", null ],
+    [ "_owner", "dc/d9c/a18789.html#adb0835b4a2e7a2795bb81f0a1e3c911a", null ]
 ];

@@ -1,6 +1,6 @@
 var a27541 =
 [
-    [ "CheckSinkholes", "df/d2f/a27541.html#a5c363144cde9e809d97730f54873fe85", null ],
-    [ "PrepareSpellScript", "df/d2f/a27541.html#a0cd1fc05ee319b04299fcebe3a405bb4", null ],
-    [ "Register", "df/d2f/a27541.html#a6694fbf58b776b74df0a54cd96141688", null ]
+    [ "npc_experience", "df/d2f/a27541.html#a48ea13099fd32bcae1543a152de0bdf4", null ],
+    [ "OnGossipHello", "df/d2f/a27541.html#a78fccaa36d1c42e33774a9b23f867a72", null ],
+    [ "OnGossipSelect", "df/d2f/a27541.html#a140ece91c8b6d91bd91d64d6e9b625e8", null ]
 ];

@@ -1,5 +1,5 @@
 var a15249 =
 [
-    [ "npc_toxic_slime", "d4/d18/a15249.html#a4c3a03916280342ec9aec07049de161f", null ],
-    [ "InitializeAI", "d4/d18/a15249.html#ae69f228040aaa5bc4df40a652f551992", null ]
+    [ "go_bristlelimb_cage", "d4/d18/a15249.html#ab965b9c529577a5e58639285fa35d3d7", null ],
+    [ "OnGossipHello", "d4/d18/a15249.html#a6f29e07550767c1c0610f46e4921503f", null ]
 ];

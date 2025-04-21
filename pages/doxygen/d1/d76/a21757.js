@@ -1,5 +1,6 @@
 var a21757 =
 [
-    [ "go_ulduar_do_not_push_this_button", "d1/d76/a21757.html#aa204af213a643c001161e0c2f173ee6b", null ],
-    [ "OnGossipHello", "d1/d76/a21757.html#ae11efa54b496ab21600a9c62e50b5fbe", null ]
+    [ "npc_spiritual_insightAI", "de/d8a/a21761.html", "de/d8a/a21761" ],
+    [ "npc_spiritual_insight", "d1/d76/a21757.html#afe7b9d5953462719407f03b33b8de564", null ],
+    [ "GetAI", "d1/d76/a21757.html#ab2884e1160ccad9adb8e3ae69db55bc4", null ]
 ];

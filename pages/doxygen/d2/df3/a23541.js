@@ -1,6 +1,6 @@
 var a23541 =
 [
-    [ "npc_black_knight_graveyardAI", "d4/d8f/a23545.html", "d4/d8f/a23545" ],
-    [ "npc_black_knight_graveyard", "d2/df3/a23541.html#a2ce61ba254916f1f8b7a7658f96b67d5", null ],
-    [ "GetAI", "d2/df3/a23541.html#aab382cd1b7561c0db9c9f4c81247e540", null ]
+    [ "PrepareSpellScript", "d2/df3/a23541.html#a5b17110b189b7134939aea9dbf2d724b", null ],
+    [ "Register", "d2/df3/a23541.html#aab0cdddfc5c8188ff246a04035b8b552", null ],
+    [ "SelectRandomPlayer", "d2/df3/a23541.html#a8a2229c61fb2eaaac3b0694008ec3ae1", null ]
 ];

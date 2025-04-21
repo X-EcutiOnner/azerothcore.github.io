@@ -1,11 +1,20 @@
 var a18905 =
 [
-    [ "NonTankLKTargetSelector", "db/dfb/a18905.html#a41c5372505c0c74e93f2c583a0259777", null ],
-    [ "operator()", "db/dfb/a18905.html#a2e496088092b9885f8e2391c2df91993", null ],
-    [ "_exclude1", "db/dfb/a18905.html#abe4e56597fa2918b15a003413887ac71", null ],
-    [ "_exclude2", "db/dfb/a18905.html#a6aa63c93c4e68998f621349760d9ab43", null ],
-    [ "_maxDist", "db/dfb/a18905.html#ac7e28c908079fbd2e1ca5374731d521e", null ],
-    [ "_playerOnly", "db/dfb/a18905.html#a5ab89af79aa4840c9a024996a848540c", null ],
-    [ "_reqLOS", "db/dfb/a18905.html#a61966d6b825f25b6bbf589676cef19f9", null ],
-    [ "_source", "db/dfb/a18905.html#a86e3ebd2425b76103df7413b5ed4af70", null ]
+    [ "boss_gothikAI", "db/dfb/a18905.html#a18ae481969ed0885122058b0ebf98cc8", null ],
+    [ "CheckGroupSplitted", "db/dfb/a18905.html#a1efec7ad0793812f83e808b961059875", null ],
+    [ "DamageTaken", "db/dfb/a18905.html#a40e40340002d05d97aa944c14af4030c", null ],
+    [ "IsInRoom", "db/dfb/a18905.html#a73b20994a1949731b83a3a28b70ad9d1", null ],
+    [ "JustDied", "db/dfb/a18905.html#a9c4e6647c05785664cd23fce73d8ca87", null ],
+    [ "JustEngagedWith", "db/dfb/a18905.html#aa2e622be4faa605aa7b13af333bd1a91", null ],
+    [ "JustSummoned", "db/dfb/a18905.html#a9bbe9412721e4173ef37a1dbd494c262", null ],
+    [ "KilledUnit", "db/dfb/a18905.html#adde94c95fcfe2cacee16b06f73528651", null ],
+    [ "Reset", "db/dfb/a18905.html#a31f3993b01755f45f3fe997d599a52d4", null ],
+    [ "SummonedCreatureDespawn", "db/dfb/a18905.html#a2223b2c287b2b21a7377ed49b2a65628", null ],
+    [ "SummonHelpers", "db/dfb/a18905.html#aaa751f216763deba29fde2d0aba09567", null ],
+    [ "UpdateAI", "db/dfb/a18905.html#ada9b63a61fc4c8abb60fdff30fb9487d", null ],
+    [ "events", "db/dfb/a18905.html#a756a5816615e02be0fc8308cc5088e49", null ],
+    [ "gateOpened", "db/dfb/a18905.html#ad2de325f3fde87679503664de81a911e", null ],
+    [ "secondPhase", "db/dfb/a18905.html#a1e4526d104670d4899ef6dd5760c2437", null ],
+    [ "summons", "db/dfb/a18905.html#aa1786f68bc52722dead6d9a6c131d6cb", null ],
+    [ "waveCount", "db/dfb/a18905.html#a4ed9dfac7e4d22fcb1f8396ca1318073", null ]
 ];

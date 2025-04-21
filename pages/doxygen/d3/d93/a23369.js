@@ -1,8 +1,11 @@
 var a23369 =
 [
-    [ "AfterApply", "d3/d93/a23369.html#a57279552b867251e9d2ee6a4ff5d7914", null ],
-    [ "PeriodicTick", "d3/d93/a23369.html#a2e86aa6efe6ab137926c1dfd1bd26a95", null ],
-    [ "PrepareAuraScript", "d3/d93/a23369.html#a9e1b74bf2d28a367caefdc90c34743c8", null ],
-    [ "Register", "d3/d93/a23369.html#a69eb0ca43a15d4995ad219459c2b39d6", null ],
-    [ "Validate", "d3/d93/a23369.html#a946248656cb755f85dd93fd4d607c9a7", null ]
+    [ "boss_gruul", "d3/d93/a23369.html#a9a14e75144c79d7ad4f65192edd385f9", null ],
+    [ "JustDied", "d3/d93/a23369.html#a92d9e524dfaa0e4a22daf9b7bc6ac10d", null ],
+    [ "JustEngagedWith", "d3/d93/a23369.html#afb0cc9bb5acad80cea8d3e572d45da94", null ],
+    [ "KilledUnit", "d3/d93/a23369.html#afec4bb1b631cab0b167afb7cc2578b7d", null ],
+    [ "Reset", "d3/d93/a23369.html#ace9cf892fc1cc345d6f82d6e9816e301", null ],
+    [ "UpdateAI", "d3/d93/a23369.html#a3503b84f4fb896d439ccd49a997e4087", null ],
+    [ "_caveInTimer", "d3/d93/a23369.html#a66766f93a5ff543bbb0c9b805aaf253c", null ],
+    [ "_recentlySpoken", "d3/d93/a23369.html#a411ec67153dd4715eb397a420c45bb12", null ]
 ];

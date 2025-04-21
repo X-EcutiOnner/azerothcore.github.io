@@ -1,6 +1,6 @@
 var a21833 =
 [
-    [ "npc_ulduar_expedition_engineerAI", "d4/d56/a21837.html", "d4/d56/a21837" ],
-    [ "npc_ulduar_expedition_engineer", "dd/d09/a21833.html#a1ff99e62b9c2222d8c08e71bfda600ea", null ],
-    [ "GetAI", "dd/d09/a21833.html#a6f1beaab42e42981e152db920e516616", null ]
+    [ "npc_amberpine_woodsmanAI", "d4/d56/a21837.html", "d4/d56/a21837" ],
+    [ "npc_amberpine_woodsman", "dd/d09/a21833.html#a33bbec50a360b724bfe9cb8612cbb47d", null ],
+    [ "GetAI", "dd/d09/a21833.html#a9c1df6c01c163ca68712d72b14c46139", null ]
 ];

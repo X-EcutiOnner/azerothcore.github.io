@@ -1,5 +1,6 @@
 var a21521 =
 [
-    [ "achievement_getting_cold_in_here", "db/da4/a21521.html#a57fe7262a09036ffa88e985cb7e2f123", null ],
-    [ "OnCheck", "db/da4/a21521.html#aeafd382d378381f754da6ee04d382276", null ]
+    [ "npc_thassarianAI", "d4/d85/a21525.html", "d4/d85/a21525" ],
+    [ "npc_thassarian", "db/da4/a21521.html#a82bde4555821f84a6d07a69669528313", null ],
+    [ "GetAI", "db/da4/a21521.html#af4bbf5f6a63c3765355d6b70c2bda55b", null ]
 ];

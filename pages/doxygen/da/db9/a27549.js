@@ -1,7 +1,9 @@
 var a27549 =
 [
-    [ "Load", "da/db9/a27549.html#a8be944ae201f4f8406948aff78f982d9", null ],
-    [ "OnDummyEffect", "da/db9/a27549.html#adcb707400963e549a295e115d6f3583b", null ],
-    [ "PrepareSpellScript", "da/db9/a27549.html#a5b2175a933df10d775bc3381f515aa96", null ],
-    [ "Register", "da/db9/a27549.html#a6e41bf15401c540887dd321e4b2cc7d3", null ]
+    [ "npc_fireworkAI", "da/db9/a27549.html#a8fad089d1edc09edbaf215f07722e9e6", null ],
+    [ "FindNearestLauncher", "da/db9/a27549.html#a156e63c90f9b64cfd71c0262d28f1383", null ],
+    [ "GetFireworkGameObjectId", "da/db9/a27549.html#ae17b4abbbb2088799cec188457677d44", null ],
+    [ "GetFireworkSpell", "da/db9/a27549.html#a6270e753ab81062a7c39ca6c6b46c993", null ],
+    [ "isCluster", "da/db9/a27549.html#a4b3cdedaa2a57d23bf9f509cabdaff0c", null ],
+    [ "Reset", "da/db9/a27549.html#a3e2ce8787cd08b8bb900c009bd7e8af0", null ]
 ];

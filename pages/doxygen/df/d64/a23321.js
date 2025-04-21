@@ -1,6 +1,6 @@
 var a23321 =
 [
-    [ "npc_q24545_vegardAI", "db/d5a/a23325.html", "db/d5a/a23325" ],
-    [ "npc_q24545_vegard", "df/d64/a23321.html#ac12e2f143fab6b93950eaea06f5f7d85", null ],
-    [ "GetAI", "df/d64/a23321.html#a9a7accfb3eea9f08efbb82fbd4bd7e76", null ]
+    [ "HandleScript", "df/d64/a23321.html#ae45f8a366c1594d3723b83ee6e006957", null ],
+    [ "PrepareSpellScript", "df/d64/a23321.html#a217953fda43e2c3abdd0d24ddbabc75d", null ],
+    [ "Register", "df/d64/a23321.html#a6b9e449a64747f0a5715424295b1c30f", null ]
 ];

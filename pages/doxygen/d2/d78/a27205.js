@@ -1,6 +1,5 @@
 var a27205 =
 [
-    [ "OnRemove", "d2/d78/a27205.html#ac3a6d7bdc95605e3c73f8115b4a68da0", null ],
-    [ "PrepareAuraScript", "d2/d78/a27205.html#ab1e3a55a35dbbb4bd781ac8c51608e6a", null ],
-    [ "Register", "d2/d78/a27205.html#aecd068248e174c4b676ff9f43dd0856f", null ]
+    [ "go_jump_a_tron", "d2/d78/a27205.html#a23306caf54a4282d290eec5daa3bfbc5", null ],
+    [ "OnGossipHello", "d2/d78/a27205.html#ae45085de26fc6ad4c3fa2bddf0bf20ec", null ]
 ];

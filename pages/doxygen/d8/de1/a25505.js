@@ -1,6 +1,7 @@
 var a25505 =
 [
-    [ "spell_alar_dive_bomb_AuraScript", "d0/db4/a25509.html", "d0/db4/a25509" ],
-    [ "spell_alar_dive_bomb", "d8/de1/a25505.html#a5064643ca9a59b81a2ae6ac3490ef45e", null ],
-    [ "GetAuraScript", "d8/de1/a25505.html#a12bca51d46a181ec547a609f31195a99", null ]
+    [ "CheckProc", "d8/de1/a25505.html#afbd6d4a64b7da0d0dc15c62eb81746c9", null ],
+    [ "HandleProc", "d8/de1/a25505.html#a27569fe686e50246768fca4a7625fe0d", null ],
+    [ "PrepareAuraScript", "d8/de1/a25505.html#a4f4eaa4aeeac9257804957671c16233f", null ],
+    [ "Register", "d8/de1/a25505.html#ab9a662bebdb5e03c5c10a807b892a9bf", null ]
 ];

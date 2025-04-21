@@ -1,9 +1,8 @@
 var a28517 =
 [
-    [ "CheckCast", "d2/db7/a28517.html#a441927e0d8d7304030440c19458eb34d", null ],
-    [ "HandleScriptEffect", "d2/db7/a28517.html#a10e9691aa15869c82fba79072a314d7e", null ],
-    [ "PrepareSpellScript", "d2/db7/a28517.html#a90b8ae945aeb85ad6e8a120501288979", null ],
-    [ "Register", "d2/db7/a28517.html#aac95bd6f7409e1ae9d3f9cf0c7212990", null ],
-    [ "Validate", "d2/db7/a28517.html#a00c67b65bcfdeaf56295da6a64689d58", null ],
-    [ "iTypes", "d2/db7/a28517.html#ae852b9df34612c074eab23b025c86870", null ]
+    [ "ADT_file", "d2/db7/a28517.html#ac7d3b65a1377d0c7358fe5e2d20dbe5e", null ],
+    [ "~ADT_file", "d2/db7/a28517.html#a79fe542f34b0e7bf668e7e5ff94a7ded", null ],
+    [ "free", "d2/db7/a28517.html#a8fc207b8cc83596577166a0008965dc6", null ],
+    [ "prepareLoadedData", "d2/db7/a28517.html#ac9f498cb9c8e21a1947be87904e3760b", null ],
+    [ "a_grid", "d2/db7/a28517.html#aad5263c4df4ab9d072f217ec8c19441c", null ]
 ];

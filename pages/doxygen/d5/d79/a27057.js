@@ -1,7 +1,10 @@
 var a27057 =
 [
-    [ "OnApply", "d5/d79/a27057.html#afda219a18001505ae7a2d01b1d5b25c0", null ],
-    [ "OnRemove", "d5/d79/a27057.html#a54bcd84599d6e5a6d7f538e2b40b890b", null ],
-    [ "PrepareAuraScript", "d5/d79/a27057.html#a9a7b549e059b6bd2d22802f60e952658", null ],
-    [ "Register", "d5/d79/a27057.html#aae603735281daf02ceca157e218d5c9f", null ]
+    [ "boss_emerissAI", "d5/d79/a27057.html#ad94b3b097d9987e365f91b7e57d0f208", null ],
+    [ "DamageTaken", "d5/d79/a27057.html#abb80c49c166f31cd7e2d24392fbf60e1", null ],
+    [ "ExecuteEvent", "d5/d79/a27057.html#ad3839ad4b0a930bc96154b5b0aab17fe", null ],
+    [ "JustEngagedWith", "d5/d79/a27057.html#a5a51b97216a27637f6bd3020ba05e0f7", null ],
+    [ "KilledUnit", "d5/d79/a27057.html#ad851169bc09a362137e211dd10d30a1b", null ],
+    [ "Reset", "d5/d79/a27057.html#a44dfb325c4e8413662052137edc710ef", null ],
+    [ "_stage", "d5/d79/a27057.html#ae2c8c5c2d2054af41c5dbe938b3eb79a", null ]
 ];

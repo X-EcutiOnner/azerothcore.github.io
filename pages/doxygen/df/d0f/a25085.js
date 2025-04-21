@@ -1,6 +1,6 @@
 var a25085 =
 [
-    [ "HandlePeriodic", "df/d0f/a25085.html#af6c30bb292a69d5eaaaf75c8a76111ea", null ],
-    [ "PrepareAuraScript", "df/d0f/a25085.html#a75515896f3d94d227963a3c5258e2d0d", null ],
-    [ "Register", "df/d0f/a25085.html#aeacb1ffc287cc7128366ee0484c2994b", null ]
+    [ "HandleScript", "df/d0f/a25085.html#af6d3dd97d3254dbfcd6b611b26e0e61d", null ],
+    [ "PrepareSpellScript", "df/d0f/a25085.html#a59b5637aa8a29611463fbaabc6db2bb8", null ],
+    [ "Register", "df/d0f/a25085.html#a54bb0fe145f99ea484724052c8bb1227", null ]
 ];

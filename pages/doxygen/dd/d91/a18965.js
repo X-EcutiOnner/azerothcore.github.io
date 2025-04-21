@@ -1,8 +1,17 @@
 var a18965 =
 [
-    [ "FilterTargets", "dd/d91/a18965.html#a5e73a038ebc7cb0171c8b0a5e36191ef", null ],
-    [ "HandleSendEvent", "dd/d91/a18965.html#aeeb136d46f072466a6b147cfbec07ae5", null ],
-    [ "Load", "dd/d91/a18965.html#a7f94239d748fad103ca30d10a3ee3bcd", null ],
-    [ "PrepareSpellScript", "dd/d91/a18965.html#ac3afff3be4f07eaa9c467e5ef061c90f", null ],
-    [ "Register", "dd/d91/a18965.html#abaa206e6ad3cff3f7b3c43fe625af6b6", null ]
+    [ "boss_kelthuzadAI", "dd/d91/a18965.html#a3fa1e67bf942824cd40c5591f4e63a08", null ],
+    [ "EnterEvadeMode", "dd/d91/a18965.html#ac99064d95afff73680df1fe96749665a", null ],
+    [ "JustDied", "dd/d91/a18965.html#a49066a2fa1dc424a27262706c8af046a", null ],
+    [ "JustEngagedWith", "dd/d91/a18965.html#a8fd3938c0e91a0773eacba9fbdb4a60e", null ],
+    [ "JustSummoned", "dd/d91/a18965.html#a0b305ec3029d149c3ca273cb7ba52e1b", null ],
+    [ "KilledUnit", "dd/d91/a18965.html#ad2fa9b4d11b158e3fadf0c304be6b431", null ],
+    [ "MoveInLineOfSight", "dd/d91/a18965.html#a440b758486cd95b7884fe2ce9bdfb28f", null ],
+    [ "NormalizeOrientation", "dd/d91/a18965.html#a21ac290b79119d47b7509b04b34ea16e", null ],
+    [ "Reset", "dd/d91/a18965.html#a5df92ebc5bd4ee8d06b17e31381be8c4", null ],
+    [ "SpawnHelpers", "dd/d91/a18965.html#ad81fa9c3449ba347de09b1519be6d408", null ],
+    [ "SummonHelper", "dd/d91/a18965.html#a3a21a45072144b6f0421733466770267", null ],
+    [ "UpdateAI", "dd/d91/a18965.html#a3004d23e6eaa3f2ef5942e96e0c17308", null ],
+    [ "events", "dd/d91/a18965.html#a1ac1341c022c65f46b30a9c70b3f37ba", null ],
+    [ "summons", "dd/d91/a18965.html#a4b8a2fcda2e9f4e3944c3527dd6afb1e", null ]
 ];

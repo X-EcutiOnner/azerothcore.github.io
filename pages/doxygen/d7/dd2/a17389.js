@@ -1,6 +1,6 @@
 var a17389 =
 [
-    [ "npc_pos_icicle_triggerAI", "d8/d2c/a17393.html", "d8/d2c/a17393" ],
-    [ "npc_pos_icicle_trigger", "d7/dd2/a17389.html#ae38155ce579f50ff7de0fa5ca50a1c3e", null ],
-    [ "GetAI", "d7/dd2/a17389.html#ad2f984f5b2b713b8307efdf4bcbcf8da", null ]
+    [ "boss_festergutAI", "d8/d2c/a17393.html", "d8/d2c/a17393" ],
+    [ "boss_festergut", "d7/dd2/a17389.html#a07ac6be688118cc57e6fdc1d8e961953", null ],
+    [ "GetAI", "d7/dd2/a17389.html#ab2624e1908bb376f1b195a88e4b9b146", null ]
 ];

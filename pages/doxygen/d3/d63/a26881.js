@@ -1,8 +1,7 @@
 var a26881 =
 [
-    [ "AchievementCredit", "d3/d63/a26881.html#ab0ec836feb53875de355330e05367fe8", null ],
-    [ "Load", "d3/d63/a26881.html#ae48c67f363e399f076122cb6eee10ffb", null ],
-    [ "PrepareSpellScript", "d3/d63/a26881.html#af0bb22c618af5dca7f534bea32e7ee7f", null ],
-    [ "Register", "d3/d63/a26881.html#a793921687c96a39f7dd872b9721096ca", null ],
-    [ "Validate", "d3/d63/a26881.html#a5be222c322714ec62f8beaf69faab257", null ]
+    [ "HandleScript", "d3/d63/a26881.html#ab3f88b7443eb4f32339c3b687431fda2", null ],
+    [ "PrepareSpellScript", "d3/d63/a26881.html#ab363d596d2d1e030f0cc07126b40e921", null ],
+    [ "Register", "d3/d63/a26881.html#ab9041b811e80e220828d5db59b724682", null ],
+    [ "Validate", "d3/d63/a26881.html#a1b9a4c78a43cf406f1db75c518a343ea", null ]
 ];

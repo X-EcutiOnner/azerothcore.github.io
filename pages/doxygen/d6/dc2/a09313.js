@@ -1,10 +1,8 @@
 var a09313 =
 [
-    [ "iterator", "d6/dc2/a09313.html#a9fada63aa17222fc5e216f3904affafd", null ],
-    [ "begin", "d6/dc2/a09313.html#aee3a4701c5bc51f4028fe53f18675989", null ],
-    [ "end", "d6/dc2/a09313.html#ad61defd77296790a6c5d0a43bacbbe4b", null ],
-    [ "getFirst", "d6/dc2/a09313.html#ae47bba95a17db31a42231da948245387", null ],
-    [ "getLast", "d6/dc2/a09313.html#ac03e93ac8ad6fc91ec9d2961b8904217", null ],
-    [ "rbegin", "d6/dc2/a09313.html#af68f1d93a80e13976798dfed0063a1e4", null ],
-    [ "rend", "d6/dc2/a09313.html#a92c30fb269bc99820b6964a99ee86d98", null ]
+    [ "NearestAttackableNoTotemUnitInObjectRangeCheck", "d6/dc2/a09313.html#a1f0bf90a7b9c57d05c54e3db6827aec1", null ],
+    [ "operator()", "d6/dc2/a09313.html#a08f8e473914c8a7bddbf26568294c18b", null ],
+    [ "i_obj", "d6/dc2/a09313.html#a949ff3bcc3530206d83512d293647a2b", null ],
+    [ "i_owner", "d6/dc2/a09313.html#a64f58427bbab3276bdc53450b33eca12", null ],
+    [ "i_range", "d6/dc2/a09313.html#af52388830cec17e32b1d368739b4555a", null ]
 ];

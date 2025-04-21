@@ -4,8 +4,8 @@ var searchData=
   ['random_2eh_1',['Random.h',['../dc/d50/a00332.html',1,'']]],
   ['randommovementgenerator_2ecpp_2',['RandomMovementGenerator.cpp',['../d2/d94/a00716.html',1,'']]],
   ['randommovementgenerator_2eh_3',['RandomMovementGenerator.h',['../df/dbb/a00698.html',1,'']]],
-  ['rasession_2ecpp_4',['RASession.cpp',['../db/dcc/a04712.html',1,'']]],
-  ['rasession_2eh_5',['RASession.h',['../d7/de9/a04715.html',1,'']]],
+  ['rasession_2ecpp_4',['RASession.cpp',['../d7/de9/a04715.html',1,'']]],
+  ['rasession_2eh_5',['RASession.h',['../d9/d82/a04718.html',1,'']]],
   ['razorfen_5fdowns_2ecpp_6',['razorfen_downs.cpp',['../d4/dff/a02723.html',1,'']]],
   ['razorfen_5fdowns_2eh_7',['razorfen_downs.h',['../d5/d95/a02720.html',1,'']]],
   ['reactorai_2ecpp_8',['ReactorAI.cpp',['../d7/d98/a02003.html',1,'']]],
@@ -21,8 +21,8 @@ var searchData=
   ['reputationmgr_2ecpp_18',['ReputationMgr.cpp',['../d8/d7a/a01292.html',1,'']]],
   ['reputationmgr_2eh_19',['ReputationMgr.h',['../d2/d68/a01295.html',1,'']]],
   ['resolver_2eh_20',['Resolver.h',['../d6/d22/a00245.html',1,'']]],
-  ['resource_2eh_21',['resource.h',['../db/de3/a29497.html',1,'(Global Namespace)'],['../d8/d79/a29494.html',1,'(Global Namespace)']]],
-  ['ruby_5fsanctum_2eh_22',['ruby_sanctum.h',['../dd/dde/a03944.html',1,'']]],
+  ['resource_2eh_21',['resource.h',['../d4/d02/a29500.html',1,'(Global Namespace)'],['../db/de3/a29497.html',1,'(Global Namespace)']]],
+  ['ruby_5fsanctum_2eh_22',['ruby_sanctum.h',['../da/d1d/a03947.html',1,'']]],
   ['ruins_5fof_5fahnqiraj_2ecpp_23',['ruins_of_ahnqiraj.cpp',['../de/db4/a02684.html',1,'']]],
   ['ruins_5fof_5fahnqiraj_2eh_24',['ruins_of_ahnqiraj.h',['../d8/da6/a02696.html',1,'']]]
 ];

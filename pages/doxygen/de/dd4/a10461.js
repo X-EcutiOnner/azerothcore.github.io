@@ -1,4 +1,5 @@
 var a10461 =
 [
-    [ "Validate", "de/dd4/a10461.html#a25f2d2033711c905ed702d844416c250", null ]
+    [ "LogoutCancelAck", "de/dd4/a10461.html#a2c261c1cdd4c29658c5160e8fe44ac58", null ],
+    [ "Write", "de/dd4/a10461.html#a12f9e56c2ee59f5a084e8aef3fdfad97", null ]
 ];

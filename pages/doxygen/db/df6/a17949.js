@@ -1,7 +1,6 @@
 var a17949 =
 [
-    [ "npc_icc_blood_beastAI", "db/df6/a17949.html#af52eff9f66451444c5acba6930c1bff6", null ],
-    [ "DoAction", "db/df6/a17949.html#a5de6e46fd21fd073fde2f0aaa5dc947a", null ],
-    [ "UpdateAI", "db/df6/a17949.html#ac9da073c33dd33097f03ca35d36ea15e", null ],
-    [ "timer1", "db/df6/a17949.html#a1074059162f818088808795119f081be", null ]
+    [ "UnchainedMagicTargetSelector", "db/df6/a17949.html#ae412c72884e6cfb1ceef8ed9fb347fbf", null ],
+    [ "operator()", "db/df6/a17949.html#af28ce8f46154ae6152e9025775a7f84f", null ],
+    [ "_removeHealers", "db/df6/a17949.html#a35a7981ce5495cba8b3a5391e4031431", null ]
 ];

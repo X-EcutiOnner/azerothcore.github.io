@@ -1,5 +1,7 @@
 var a11425 =
 [
-    [ "go_shadowforge_brazier", "dd/d54/a11425.html#aafc1d2e865294bb102c918d6016aab4b", null ],
-    [ "OnGossipHello", "dd/d54/a11425.html#a83b188cd2ee68e1ebfe75060465f8f38", null ]
+    [ "Command", "dd/d54/a11425.html#a6042a93c52d18e3a74d3cd46ac3d940f", null ],
+    [ "ModuleId", "dd/d54/a11425.html#aa2e1c1cee71fc1eb887511c655de0516", null ],
+    [ "ModuleKey", "dd/d54/a11425.html#aba0f236c39186022816bd86f8e8e9093", null ],
+    [ "Size", "dd/d54/a11425.html#a6912224c1ef6fd117a5ed02d394254d9", null ]
 ];

@@ -1,9 +1,7 @@
 var a07093 =
 [
-    [ "BattlegroundEYScore", "d9/d3d/a07093.html#a91c17f1ff1924439b05840cd11ede36f", null ],
-    [ "BuildObjectivesBlock", "d9/d3d/a07093.html#a8a915f38f28ee3929c7922b9fa8f38d6", null ],
-    [ "GetAttr1", "d9/d3d/a07093.html#a43d4b01a1f3c8325795d90f2a97c230c", null ],
-    [ "UpdateScore", "d9/d3d/a07093.html#afad034f453c54587b86532a37335ab18", null ],
-    [ "BattlegroundEY", "d9/d3d/a07093.html#a5d809f1fdf1bb7a29d7504e432e10b8f", null ],
-    [ "FlagCaptures", "d9/d3d/a07093.html#a057a335c7491c1031666e6d10cf314b2", null ]
+    [ "AuctionSearchUpdateBid", "d9/d3d/a07093.html#ad7ecaf272e5cc8fe61e0b448d05b6d27", null ],
+    [ "auctionId", "d9/d3d/a07093.html#a6ebbff1fcebe77ed4735483ad481fd00", null ],
+    [ "bid", "d9/d3d/a07093.html#a14b7f79b2aa0b020c8c940d6b01c4efc", null ],
+    [ "bidderGuid", "d9/d3d/a07093.html#a843bcff41f694075ea056d9a3c71467f", null ]
 ];

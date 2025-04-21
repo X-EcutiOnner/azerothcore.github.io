@@ -1,7 +1,7 @@
 var a15937 =
 [
-    [ "HandleScript", "d6/d19/a15937.html#ae9939f2795b8ba428277c7d658af715c", null ],
-    [ "PrepareSpellScript", "d6/d19/a15937.html#aabe244008103ff317e3fc1e26b04115a", null ],
-    [ "Register", "d6/d19/a15937.html#a4f492bdd96ef190354f37c95217bb696", null ],
-    [ "Validate", "d6/d19/a15937.html#a4a3a5e83b66d0ae3f6f95bcead932f55", null ]
+    [ "CheckDistance", "d6/d19/a15937.html#ac10f4cebab4966a220cd931afd0e0a30", null ],
+    [ "PrepareSpellScript", "d6/d19/a15937.html#adb14940f47dc509d75a4e81bb90fc40d", null ],
+    [ "Register", "d6/d19/a15937.html#a3a64ffc872e4650b1d226d20d9bedc65", null ],
+    [ "Validate", "d6/d19/a15937.html#aa5d7a420154b156ca24e73de2faf912a", null ]
 ];

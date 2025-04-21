@@ -1,7 +1,8 @@
 var a15237 =
 [
-    [ "FilterTargets", "d1/da2/a15237.html#a76e8285baf1d14d560ad764eeab86cd5", null ],
-    [ "HandleOnHit", "d1/da2/a15237.html#a587db6fa1dc5788e0cc9ec5e486e9393", null ],
-    [ "PrepareSpellScript", "d1/da2/a15237.html#ad7372e543391a23c003b4121e0dd8a09", null ],
-    [ "Register", "d1/da2/a15237.html#a9749c72e2c7964cd4a2b2f9a77da69ec", null ]
+    [ "npc_death_ravagerAI", "d1/da2/a15237.html#ad18242b078db0883029537562a41cc20", null ],
+    [ "Reset", "d1/da2/a15237.html#ac0fdbfe2f324785569fa742e0b244b83", null ],
+    [ "UpdateAI", "d1/da2/a15237.html#ac3dce7d79e67f20d7a8fe161da9d5279", null ],
+    [ "EnragingBiteTimer", "d1/da2/a15237.html#af33898ebd9bea6b1a58b673373de3c64", null ],
+    [ "RendTimer", "d1/da2/a15237.html#ad7ff02fe6e11a0fb0d8a3ae869ed5f6d", null ]
 ];

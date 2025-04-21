@@ -1,10 +1,8 @@
 var a15285 =
 [
-    [ "npc_anubisath_defender", "d2/dca/a15285.html#ae24a21ad3ebcaa4b8312a1fea66131ba", null ],
-    [ "DamageTaken", "d2/dca/a15285.html#a032714b16d3d77a19bec0f918d8ef8df", null ],
-    [ "JustDied", "d2/dca/a15285.html#a225ca1b3144953bcc5890caf0d32b606", null ],
-    [ "JustEngagedWith", "d2/dca/a15285.html#a6505fcae0e99cae44750f16daddc3309", null ],
-    [ "Reset", "d2/dca/a15285.html#ab10d9ac93aab97172f630e1d7d8faca0", null ],
-    [ "UpdateAI", "d2/dca/a15285.html#a1f190f45ffbaf20f5565221780dc5cc6", null ],
-    [ "_enraged", "d2/dca/a15285.html#a4adef63a5093e3c0ecb8b57283e94ff8", null ]
+    [ "npc_prospector_remtravelAI", "d2/dca/a15285.html#a61f26115382f16f3d65c3d4e1c720f02", null ],
+    [ "JustEngagedWith", "d2/dca/a15285.html#adf388d36c17b69f881e3cb92d9b78b9b", null ],
+    [ "JustSummoned", "d2/dca/a15285.html#a6b3dd1552b5313dd04d07dc80eef06fe", null ],
+    [ "Reset", "d2/dca/a15285.html#ac145a4a4a24be227c31fcc5aefd922eb", null ],
+    [ "WaypointReached", "d2/dca/a15285.html#a7b02b22e9dc63e1fad6b15a44b2ff9b6", null ]
 ];

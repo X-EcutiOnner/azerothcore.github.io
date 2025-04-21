@@ -1,6 +1,6 @@
 var a12833 =
 [
-    [ "instance_shadowfang_keep_InstanceMapScript", "d8/dc1/a12837.html", "d8/dc1/a12837" ],
-    [ "instance_shadowfang_keep", "d8/d68/a12833.html#aa6817df7270fbf9397c6b66b28d0f6f8", null ],
-    [ "GetInstanceScript", "d8/d68/a12833.html#a5c076ed86470247de5b4e3733b70fa25", null ]
+    [ "npc_scarlet_cannonAI", "d8/dc1/a12837.html", "d8/dc1/a12837" ],
+    [ "npc_scarlet_cannon", "d8/d68/a12833.html#a10bb35cbbdae3508a2300ba3dacc1ea3", null ],
+    [ "GetAI", "d8/d68/a12833.html#ae2b74a4dab4b34f026fd17d5ed381c99", null ]
 ];

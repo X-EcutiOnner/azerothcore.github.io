@@ -1,6 +1,6 @@
 var a17749 =
 [
-    [ "KnockIntoAir", "da/de3/a17749.html#aeb2bfb1fa66c4b02f7e8b7f1fd81f222", null ],
-    [ "PrepareSpellScript", "da/de3/a17749.html#a93c3d35b67718c68be025e8c3cbe563f", null ],
-    [ "Register", "da/de3/a17749.html#ae7bc2ffa730a8d70a1c88f6e4e479ad0", null ]
+    [ "npc_volatile_oozeAI", "db/d25/a17753.html", "db/d25/a17753" ],
+    [ "npc_volatile_ooze", "da/de3/a17749.html#a22847e44812a0b13b92cfcca3a70204e", null ],
+    [ "GetAI", "da/de3/a17749.html#a66b4918c14d90d5550ddc8dbe90c2e01", null ]
 ];

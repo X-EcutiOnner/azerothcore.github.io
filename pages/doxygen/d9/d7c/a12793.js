@@ -1,14 +1,9 @@
 var a12793 =
 [
-    [ "boss_apothecary_hummelAI", "d9/d7c/a12793.html#a75796eb8dc83729f2f726ff51317bd66", null ],
-    [ "DamageTaken", "d9/d7c/a12793.html#a2af77fbe7f089b5da20d2ff693cfcedf", null ],
-    [ "DoAction", "d9/d7c/a12793.html#a03fb543ba20f92d5528bf4667c457631", null ],
-    [ "JustDied", "d9/d7c/a12793.html#a3c7bc5f9aa04f155debbdacafed6163d", null ],
-    [ "Reset", "d9/d7c/a12793.html#a31381343d2533af670941baf872b3635", null ],
-    [ "sGossipSelect", "d9/d7c/a12793.html#a1a9953c37286fd40c0aa0eebfec3eb86", null ],
-    [ "SummonedCreatureDies", "d9/d7c/a12793.html#a8947cbd1c2856334a0d6529bc664f71b", null ],
-    [ "UpdateAI", "d9/d7c/a12793.html#a61e4d85ecd592142ba07588512505990", null ],
-    [ "_deadCount", "d9/d7c/a12793.html#aaac2018e16b80997f884745732605559", null ],
-    [ "_isDead", "d9/d7c/a12793.html#aa3c37a38b95c6b3bec4e3b787d2155df", null ],
-    [ "_phase", "d9/d7c/a12793.html#a951d68d4e645860cdb5c5e348bf1fff4", null ]
+    [ "npc_eye_of_acherus", "d9/d7c/a12793.html#a1e0ed0eb0e32cb2e8a5d86869359db6c", null ],
+    [ "InitializeAI", "d9/d7c/a12793.html#aea655b94bcd590835882793d916d7865", null ],
+    [ "MovementInform", "d9/d7c/a12793.html#a5e0a360015fdfb1c6a277ba13583a584", null ],
+    [ "OnCharmed", "d9/d7c/a12793.html#a9a9d274a503ebe06fa503f433f53b0e6", null ],
+    [ "UpdateAI", "d9/d7c/a12793.html#a092592d0c9ec0f5a95fe550bed559f0e", null ],
+    [ "_events", "d9/d7c/a12793.html#a08b2eb3aff837408decaa5fa087f5054", null ]
 ];

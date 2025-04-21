@@ -1,7 +1,6 @@
 var a16633 =
 [
-    [ "npc_toc_mageAI", "db/d64/a16633.html#a188831088c892f68cef7498468b24899", null ],
-    [ "myCanCast", "db/d64/a16633.html#aaf7fd7b143a4eb410465c7cb34c32d2f", null ],
-    [ "UpdateAI", "db/d64/a16633.html#a0f4393341a6c565aef2c0b79a39c0699", null ],
-    [ "events", "db/d64/a16633.html#ab1910ce98f3d1b14e45acba22782d536", null ]
+    [ "instance_drak_tharon_keep_InstanceScript", "dc/d6d/a16637.html", "dc/d6d/a16637" ],
+    [ "instance_drak_tharon_keep", "db/d64/a16633.html#a1f375185dba1619fee36160549eb91f4", null ],
+    [ "GetInstanceScript", "db/d64/a16633.html#aca6364452dc39e747af152695d479bf8", null ]
 ];

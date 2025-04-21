@@ -1,6 +1,6 @@
 var a15329 =
 [
-    [ "npc_muglashAI", "d2/df1/a15333.html", "d2/df1/a15333" ],
-    [ "npc_muglash", "d8/d27/a15329.html#a5df1b1cff0acf8be4db77b66f8a0b5f4", null ],
-    [ "GetAI", "d8/d27/a15329.html#a7cfeaf756de85b1bd2fff9163e4bd5e3", null ]
+    [ "npc_tiger_matriarchAI", "d2/df1/a15333.html", "d2/df1/a15333" ],
+    [ "npc_tiger_matriarch", "d8/d27/a15329.html#a05a08bfa64c428213a4b534a982afb71", null ],
+    [ "GetAI", "d8/d27/a15329.html#a6d5664ca125a775c2d71f322f5a57655", null ]
 ];

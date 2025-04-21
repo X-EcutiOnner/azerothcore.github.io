@@ -1,6 +1,6 @@
 var a14825 =
 [
-    [ "instance_culling_of_stratholme_InstanceMapScript", "de/dff/a14829.html", "de/dff/a14829" ],
-    [ "instance_culling_of_stratholme", "df/db3/a14825.html#a0b07e751032e15e7fcf2f86bf29a39be", null ],
-    [ "GetInstanceScript", "df/db3/a14825.html#ad8cbcb198666d44d79d6255d066c8315", null ]
+    [ "npc_idol_room_spawnerAI", "de/dff/a14829.html", "de/dff/a14829" ],
+    [ "npc_idol_room_spawner", "df/db3/a14825.html#ac51fed89c27ebf6ae3cf65ca8909eab1", null ],
+    [ "GetAI", "df/db3/a14825.html#a3017caa645e98a7647ec42a43c025624", null ]
 ];

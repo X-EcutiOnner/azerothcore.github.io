@@ -1,6 +1,7 @@
 var a17605 =
 [
-    [ "HandlePeriodic", "d7/df3/a17605.html#a74e6f96e79e0e71cf1d2e4806f536f68", null ],
-    [ "PrepareAuraScript", "d7/df3/a17605.html#aa349faeddfe4c24d6e6157dc66c80df1", null ],
-    [ "Register", "d7/df3/a17605.html#a7e78137ee84916828862c818bfd082fd", null ]
+    [ "DamageGunship", "d7/df3/a17605.html#a1dc0145cfff777b18b9241dfc0966f32", null ],
+    [ "PrepareSpellScript", "d7/df3/a17605.html#aa698d016ae58d665c081976f20ec0385", null ],
+    [ "Register", "d7/df3/a17605.html#ab8836babdea1fd963fdd53415db0a3ba", null ],
+    [ "Validate", "d7/df3/a17605.html#ae80cd93b2f01ddb83493f9f818fc0ea1", null ]
 ];

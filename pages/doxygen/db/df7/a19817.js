@@ -1,5 +1,6 @@
 var a19817 =
 [
-    [ "at_icc_putricide_trap", "db/df7/a19817.html#a9d4183629deada9c22750b8a34e94583", null ],
-    [ "OnTrigger", "db/df7/a19817.html#ad59c2f694c50fabf1946d2c7ae726413", null ]
+    [ "npc_pool_of_tarAI", "dd/da6/a19821.html", "dd/da6/a19821" ],
+    [ "npc_pool_of_tar", "db/df7/a19817.html#a9c585318b4507babe77b3ba758b06a87", null ],
+    [ "GetAI", "db/df7/a19817.html#ae77bf48a72ce49f821085f32127e91dc", null ]
 ];

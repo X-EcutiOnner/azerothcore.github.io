@@ -1,6 +1,7 @@
 var a18589 =
 [
-    [ "ExtraEffect", "da/db1/a18589.html#a77d8f094cc148888e460e271b2051e2e", null ],
-    [ "PrepareSpellScript", "da/db1/a18589.html#a445f4fca7ea225d40118f53a1259fdf9", null ],
-    [ "Register", "da/db1/a18589.html#aea7e7111d8f35714e78461e4b50c6fee", null ]
+    [ "OnApply", "da/db1/a18589.html#a5f62c11ef96edbf6f2906bd5f41109d5", null ],
+    [ "OnRemove", "da/db1/a18589.html#a697a7c76f944b5df956a9de07746b7a9", null ],
+    [ "PrepareAuraScript", "da/db1/a18589.html#a338d0fa22368d01fe7523b7cc1acea4b", null ],
+    [ "Register", "da/db1/a18589.html#ab915b3ede10526b3e7ccbe33f2568fae", null ]
 ];

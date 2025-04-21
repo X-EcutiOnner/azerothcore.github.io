@@ -1,6 +1,6 @@
 var a19473 =
 [
-    [ "CaptainSurviveTalk", "d7/da0/a19473.html#a43a1b1da17ed41ae765aabc47c858f80", null ],
-    [ "Execute", "d7/da0/a19473.html#a871cf08e8c7fced2971cae8abbc20454", null ],
-    [ "_owner", "d7/da0/a19473.html#ac8de506afb4688560ea637918d07b01e", null ]
+    [ "CalculateDamage", "d7/da0/a19473.html#a3b9afc712f9091273e9abc5079a90eb8", null ],
+    [ "PrepareSpellScript", "d7/da0/a19473.html#a59e56fb107cca4952c5e94ed371f73dd", null ],
+    [ "Register", "d7/da0/a19473.html#a02851f0b94687512a8e016bfb9b826e3", null ]
 ];

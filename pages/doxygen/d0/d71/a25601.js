@@ -1,6 +1,7 @@
 var a25601 =
 [
-    [ "spell_kaelthas_gravity_lapse_SpellScript", "d7/ddc/a25605.html", "d7/ddc/a25605" ],
-    [ "spell_kaelthas_gravity_lapse", "d0/d71/a25601.html#a28147e82cd72283834585227f26e9905", null ],
-    [ "GetSpellScript", "d0/d71/a25601.html#ab953ec1bffae888dc13109a2bee22ea1", null ]
+    [ "HandleProc", "d0/d71/a25601.html#aee71de2c7f718a443dd48ed649c72a2f", null ],
+    [ "PrepareAuraScript", "d0/d71/a25601.html#a7ba07407ce43ea4bfb03bc232ed409e3", null ],
+    [ "Register", "d0/d71/a25601.html#ad907078d049340da77dcfd25a312e32b", null ],
+    [ "Validate", "d0/d71/a25601.html#ad9987f6b17c9522be954a1b75aed1fc5", null ]
 ];

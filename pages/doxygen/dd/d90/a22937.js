@@ -1,6 +1,6 @@
 var a22937 =
 [
-    [ "spell_destroy_door_sealAuraScript", "de/dad/a22941.html", "de/dad/a22941" ],
-    [ "spell_destroy_door_seal", "dd/d90/a22937.html#ac764f6a9f5374cc2aef0390364408578", null ],
-    [ "GetAuraScript", "dd/d90/a22937.html#a982384b8a0ec1a865c0f2bc083dcff55", null ]
+    [ "PrepareSpellScript", "dd/d90/a22937.html#a7e03b63174511ed4c3e78c99b781f8f2", null ],
+    [ "Register", "dd/d90/a22937.html#aaed4b5d67dbd06cb0a1adc91aa873247", null ],
+    [ "RemoveSpines", "dd/d90/a22937.html#a076b056328ba6181a6ec907f21258f9d", null ]
 ];

@@ -1,7 +1,10 @@
 var a24069 =
 [
-    [ "npc_storm_cloudAI", "d9/d78/a24069.html#aa4dd9409cd74f3c2c878974715e43394", null ],
-    [ "JustRespawned", "d9/d78/a24069.html#ad0f99362f7ab506b322b6d75890881c1", null ],
-    [ "Reset", "d9/d78/a24069.html#a99654ac86502e3ac2f899082269ccb01", null ],
-    [ "SpellHit", "d9/d78/a24069.html#ac51313cec4d76216f3c716d988fc4857", null ]
+    [ "npc_infernal_attackerAI", "d9/d78/a24069.html#ae04c4e026f22bd650bb33940b923df9a", null ],
+    [ "IsSummonedBy", "d9/d78/a24069.html#a926e6cd6772784872a905de7245007ac", null ],
+    [ "JustDied", "d9/d78/a24069.html#a1822131520f98dd5f1dd637282f20ae3", null ],
+    [ "Reset", "d9/d78/a24069.html#a6c871d05d4fd0a6f72f409285f012f9c", null ],
+    [ "SpellHit", "d9/d78/a24069.html#a956f3fb1e341519817599df08afc2589", null ],
+    [ "UpdateAI", "d9/d78/a24069.html#a458ba4c884a95080e1088a07a04a9cb9", null ],
+    [ "casterGUID", "d9/d78/a24069.html#ab2e791cc0a67012bc56c3b07e3f327e9", null ]
 ];

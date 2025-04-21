@@ -1,7 +1,12 @@
 var a28633 =
 [
-    [ "HandleDummy", "db/df2/a28633.html#a3af91500357eb127f813334bdf538dbd", null ],
-    [ "PrepareSpellScript", "db/df2/a28633.html#ae34ff5e6027efecc34fa770690df5887", null ],
-    [ "Register", "db/df2/a28633.html#add4e4d484008d1e1cf63e36c6b6e9757", null ],
-    [ "Validate", "db/df2/a28633.html#a0b107442c0b76a018cc019f776c0b785", null ]
+    [ "Bounds", "db/df2/a28633.html#a1e982b341ac3859fad38b2efc81ab8ea", null ],
+    [ "DoodadSet", "db/df2/a28633.html#abbf6e50e76b120be17215cfcf227a524", null ],
+    [ "Flags", "db/df2/a28633.html#a06f5e96119239356eea45b9acdadf6e1", null ],
+    [ "Id", "db/df2/a28633.html#a952442c180e8d3710af31272b54eb6ec", null ],
+    [ "NameSet", "db/df2/a28633.html#a55df9aed38d8cf1503b21f5fd9d5e5d0", null ],
+    [ "Position", "db/df2/a28633.html#a7e6463db89eaf53bc20832afb1842a5b", null ],
+    [ "Rotation", "db/df2/a28633.html#a2c04715e800b9f375c287cced96643d1", null ],
+    [ "Scale", "db/df2/a28633.html#a142716fecae07abc013c7f3bd053c0ea", null ],
+    [ "UniqueId", "db/df2/a28633.html#a749e920740b9e91547fe1f87933d1c7d", null ]
 ];

@@ -1,6 +1,6 @@
 var a16289 =
 [
-    [ "spell_halion_leave_twilight_realm_AuraScript", "d9/dd4/a16293.html", "d9/dd4/a16293" ],
-    [ "spell_halion_leave_twilight_realm", "d6/d56/a16289.html#a52386565c87af25bb94ce00f16a8454c", null ],
-    [ "GetAuraScript", "d6/d56/a16289.html#ae45002e73c2c549ab070f2e4d0215329", null ]
+    [ "npc_toc_shamanAI", "d9/dd4/a16293.html", "d9/dd4/a16293" ],
+    [ "npc_toc_shaman", "d6/d56/a16289.html#a26e3a539d8d918057e9f81b9ee83f17d", null ],
+    [ "GetAI", "d6/d56/a16289.html#a7102a3aec6c229a04b617c562512bf29", null ]
 ];

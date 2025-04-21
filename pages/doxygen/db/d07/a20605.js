@@ -1,6 +1,6 @@
 var a20605 =
 [
-    [ "boss_lokenAI", "d2/dee/a20609.html", "d2/dee/a20609" ],
-    [ "boss_loken", "db/d07/a20605.html#a44ba0ee009dcdfca6ff8739e297ec786", null ],
-    [ "GetAI", "db/d07/a20605.html#affb73db8ecdc2d035f8076ecca0c9a99", null ]
+    [ "boss_xt002AI", "d2/dee/a20609.html", "d2/dee/a20609" ],
+    [ "boss_xt002", "db/d07/a20605.html#aebd7e513b3bef6a25ad0f9766d18174e", null ],
+    [ "GetAI", "db/d07/a20605.html#a146e4a10da7d81213e7f63d6e86c79f2", null ]
 ];

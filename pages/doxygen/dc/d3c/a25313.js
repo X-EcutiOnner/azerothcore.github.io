@@ -1,5 +1,7 @@
 var a25313 =
 [
-    [ "at_rp_nethekurse", "dc/d3c/a25313.html#ac0a1891f90b674ad0ccbeb27f170e643", null ],
-    [ "_OnTrigger", "dc/d3c/a25313.html#a93001d6dda7b2711f1efe100ffab5879", null ]
+    [ "HandleScriptEffect", "dc/d3c/a25313.html#ae3c2900d98c2fd51ff0888ea5d1072c4", null ],
+    [ "PrepareSpellScript", "dc/d3c/a25313.html#a29ac1789b8023ef3339a7b40ee9c31ab", null ],
+    [ "Register", "dc/d3c/a25313.html#a321098d2325bfb9cea674d1137348350", null ],
+    [ "Validate", "dc/d3c/a25313.html#aa16a67bf42f51b838d22dcbe4b5b6f7b", null ]
 ];

@@ -1,6 +1,8 @@
 var a16661 =
 [
-    [ "npc_toc_dkAI", "d2/dc1/a16665.html", "d2/dc1/a16665" ],
-    [ "npc_toc_dk", "d0/d46/a16661.html#ac8b2c11f64f9cc6f4be91be1e3184b8a", null ],
-    [ "GetAI", "d0/d46/a16661.html#ac5252f0f7ab993c8187aff17dac7a795", null ]
+    [ "npc_fos_corrupted_soul_fragmentAI", "d0/d46/a16661.html#a61797329ecddde6da2e23e951fa92ca2", null ],
+    [ "Reset", "d0/d46/a16661.html#a5bb03371b24593ca2de995bf85857782", null ],
+    [ "UpdateAI", "d0/d46/a16661.html#ac6e651186c5edfd8e5279ddd38a15eb9", null ],
+    [ "pInstance", "d0/d46/a16661.html#a6ced23b3b4150b31020a636559d6eec6", null ],
+    [ "timer", "d0/d46/a16661.html#aa19c9928e3979bb01d89dc81b8feb4fc", null ]
 ];

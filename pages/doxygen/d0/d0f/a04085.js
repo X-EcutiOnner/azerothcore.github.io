@@ -1,75 +1,42 @@
 var a04085 =
 [
-    [ "NPCStaveQuestAI", "d6/d8d/a27406.html", "d6/d8d/a27406" ],
-    [ "Common", "d0/d0f/a04085.html#a2898ea5b5bdc6f6ebd68c36327a6cecd", [
-      [ "GOSSIP_EVENT_START_OPTION_ID", "d0/d0f/a04085.html#a2898ea5b5bdc6f6ebd68c36327a6cecdaf2a660132a0a17288b1831007b938936", null ],
-      [ "EVENT_ENCOUNTER_START", "d0/d0f/a04085.html#a2898ea5b5bdc6f6ebd68c36327a6cecda0f5bec07177a7a6bdbdf76abcbadf05a", null ],
-      [ "EVENT_REVEAL", "d0/d0f/a04085.html#a2898ea5b5bdc6f6ebd68c36327a6cecdab1074563852eb0de868ad858b218823c", null ],
-      [ "EVENT_FOOLS_PLIGHT", "d0/d0f/a04085.html#a2898ea5b5bdc6f6ebd68c36327a6cecda2ec763aa4426d90ec616777639d20d1c", null ],
-      [ "EVENT_RANGE_CHECK", "d0/d0f/a04085.html#a2898ea5b5bdc6f6ebd68c36327a6cecda7fcd9a3142a87856248cbc51a25268ee", null ],
-      [ "EVENT_UNFAIR_FIGHT", "d0/d0f/a04085.html#a2898ea5b5bdc6f6ebd68c36327a6cecda1d894628cbd27d1bcf490577a9ae22f0", null ],
-      [ "QUEST_STAVE_OF_THE_ANCIENTS", "d0/d0f/a04085.html#a2898ea5b5bdc6f6ebd68c36327a6cecdaf1e382929ce37d0beeb97fd31eaed5e2", null ],
-      [ "SPELL_FEIGN_DEATH", "d0/d0f/a04085.html#a2898ea5b5bdc6f6ebd68c36327a6cecda882c4c20d663e5bbdb81fc74aacf77c8", null ],
-      [ "SPELL_DEMONIC_ENRAGE", "d0/d0f/a04085.html#a2898ea5b5bdc6f6ebd68c36327a6cecda607e929a10d88ac2761d12fef6cab706", null ],
-      [ "SPELL_FOOLS_PLIGHT", "d0/d0f/a04085.html#a2898ea5b5bdc6f6ebd68c36327a6cecdaf781ca12c0d42795eae352e22e9f89ee", null ]
+    [ "tf_tower_world_state", "db/d3a/a22469.html", "db/d3a/a22469" ],
+    [ "OPvPCapturePointTF", "d2/ddf/a22473.html", "d2/ddf/a22473" ],
+    [ "OutdoorPvPTF", "d1/d58/a22477.html", "d1/d58/a22477" ],
+    [ "TF_CAPTURE_BUFF", "d0/d0f/a04085.html#a82bc235ec6d43b48511d1b3d903a934b", null ],
+    [ "OutdoorPvPTF_TowerType", "d0/d0f/a04085.html#a7a4347e10a530d56e3c3ae66a5eae999", [
+      [ "TF_TOWER_NW", "d0/d0f/a04085.html#a7a4347e10a530d56e3c3ae66a5eae999ac95ea754e0befd303c7912671ff54b16", null ],
+      [ "TF_TOWER_N", "d0/d0f/a04085.html#a7a4347e10a530d56e3c3ae66a5eae999a034d81c6a66a32fef95c75235cb39d2b", null ],
+      [ "TF_TOWER_NE", "d0/d0f/a04085.html#a7a4347e10a530d56e3c3ae66a5eae999a210d598966bbca14ece80eb1e00bae97", null ],
+      [ "TF_TOWER_SE", "d0/d0f/a04085.html#a7a4347e10a530d56e3c3ae66a5eae999a01f2c2e0a883f8355bf433a96b52bd65", null ],
+      [ "TF_TOWER_S", "d0/d0f/a04085.html#a7a4347e10a530d56e3c3ae66a5eae999af3a17ac5cc35927939c90503027342f0", null ],
+      [ "TF_TOWER_NUM", "d0/d0f/a04085.html#a7a4347e10a530d56e3c3ae66a5eae999ad6085f7af14a95c2f7331b50721ff5a3", null ]
     ] ],
-    [ "NPCArtorius", "d0/d0f/a04085.html#abe201f9ef5f58feb36b74aed845c1ede", [
-      [ "ARTORIUS_EVENT_DEMONIC_DOOM", "d0/d0f/a04085.html#abe201f9ef5f58feb36b74aed845c1edea5630fafdd2954b2520ba2b721872555f", null ],
-      [ "ARTORIUS_EVENT_DEMONIC_ENRAGE", "d0/d0f/a04085.html#abe201f9ef5f58feb36b74aed845c1edea45adb6c2214dbf19fde4a3273ca3ad24", null ],
-      [ "ARTORIUS_WEAKNESS_EMOTE", "d0/d0f/a04085.html#abe201f9ef5f58feb36b74aed845c1edea07c2a58a57c5aaac815f93d435707ba8", null ],
-      [ "ARTORIUS_SAY", "d0/d0f/a04085.html#abe201f9ef5f58feb36b74aed845c1edea980b15e2a702653cf8a1d03ffb34d236", null ],
-      [ "ARTORIUS_NORMAL_ENTRY", "d0/d0f/a04085.html#abe201f9ef5f58feb36b74aed845c1edea8aff1ec4cbd2e1493b173f0d079e6015", null ],
-      [ "ARTORIUS_EVIL_ENTRY", "d0/d0f/a04085.html#abe201f9ef5f58feb36b74aed845c1edea5bd83368acfd9f2af012a6f80d9fc84e", null ],
-      [ "ARTORIUS_HEAD", "d0/d0f/a04085.html#abe201f9ef5f58feb36b74aed845c1edea7dfe6305ba551298a4074c2aba0cdd62", null ],
-      [ "ARTORIUS_SPELL_DEMONIC_DOOM", "d0/d0f/a04085.html#abe201f9ef5f58feb36b74aed845c1edeadc3e9c5249b4da7a9f2e1c97caaa900e", null ],
-      [ "ARTORIUS_SPELL_STINGING_TRAUMA", "d0/d0f/a04085.html#abe201f9ef5f58feb36b74aed845c1edeaf78c2ad18353df6ab6937f7e48ee8363", null ]
+    [ "TFTowerStates", "d0/d0f/a04085.html#a5815248809b8fd06bd664886846a7126", [
+      [ "TF_TOWERSTATE_N", "d0/d0f/a04085.html#a5815248809b8fd06bd664886846a7126a1bf771ad2a93c40a6d0d5312167a046f", null ],
+      [ "TF_TOWERSTATE_H", "d0/d0f/a04085.html#a5815248809b8fd06bd664886846a7126a133214fb55c09ba0030cc76b1d2082c1", null ],
+      [ "TF_TOWERSTATE_A", "d0/d0f/a04085.html#a5815248809b8fd06bd664886846a7126acde31be20bbd32d3bf71bd3352e7e43d", null ]
     ] ],
-    [ "NPCFranklin", "d0/d0f/a04085.html#a16be495faad2ebc93bc68267328d78c0", [
-      [ "FRANKLIN_EVENT_DEMONIC_ENRAGE", "d0/d0f/a04085.html#a16be495faad2ebc93bc68267328d78c0ae616cb7a6f91a45be7c3a8d19650b774", null ],
-      [ "FRANKLIN_SAY", "d0/d0f/a04085.html#a16be495faad2ebc93bc68267328d78c0a550bafc03ddc74e0ecf73a9f4cba3a2e", null ],
-      [ "FRANKLIN_ENRAGE_EMOTE", "d0/d0f/a04085.html#a16be495faad2ebc93bc68267328d78c0ab16e542061d6af16958045076a03ba67", null ],
-      [ "FRANKLIN_DESPAWN_SAY", "d0/d0f/a04085.html#a16be495faad2ebc93bc68267328d78c0a844b5a83e900c9c660276a0ad26d2842", null ],
-      [ "FRANKLIN_NORMAL_ENTRY", "d0/d0f/a04085.html#a16be495faad2ebc93bc68267328d78c0af9bbce82aff6a6472a73ef14ecef5a5c", null ],
-      [ "FRANKLIN_EVIL_ENTRY", "d0/d0f/a04085.html#a16be495faad2ebc93bc68267328d78c0a5cf966dad889c919847929436971f40d", null ],
-      [ "FRANKLIN_HEAD", "d0/d0f/a04085.html#a16be495faad2ebc93bc68267328d78c0a895e6fec3b7df29b1c8e98b1b5f5dfe0", null ],
-      [ "FRANKLIN_WEAKNESS_SCORPID_STING", "d0/d0f/a04085.html#a16be495faad2ebc93bc68267328d78c0a4c2dde25de7b18cdde01eddb47a39601", null ],
-      [ "FRANKLIN_SPELL_ENTROPIC_STING", "d0/d0f/a04085.html#a16be495faad2ebc93bc68267328d78c0aee0f260a794aacbd8616fa9970c47589", null ]
+    [ "TFWorldStates", "d0/d0f/a04085.html#a4134a455195e5cc1be9288227500b258", [
+      [ "TF_UI_TOWER_SLIDER_POS", "d0/d0f/a04085.html#a4134a455195e5cc1be9288227500b258a01fef84454cee087b39e06f40fa95336", null ],
+      [ "TF_UI_TOWER_SLIDER_N", "d0/d0f/a04085.html#a4134a455195e5cc1be9288227500b258a789327b4fc1d2e623b1a0a18d70328dd", null ],
+      [ "TF_UI_TOWER_SLIDER_DISPLAY", "d0/d0f/a04085.html#a4134a455195e5cc1be9288227500b258a0137c97cdf1617d73e09085174a9842b", null ],
+      [ "TF_UI_TOWER_COUNT_H", "d0/d0f/a04085.html#a4134a455195e5cc1be9288227500b258a9f05bf2230c06a169b0a884bb33a94cc", null ],
+      [ "TF_UI_TOWER_COUNT_A", "d0/d0f/a04085.html#a4134a455195e5cc1be9288227500b258ae98ffdfa2845c1411a02a1e8afba6b30", null ],
+      [ "TF_UI_TOWERS_CONTROLLED_DISPLAY", "d0/d0f/a04085.html#a4134a455195e5cc1be9288227500b258abb0bd82d464ffe5f0ab6ab68c71f8219", null ],
+      [ "TF_UI_LOCKED_TIME_MINUTES_FIRST_DIGIT", "d0/d0f/a04085.html#a4134a455195e5cc1be9288227500b258a09a446e5fb19482131f119d4ffe75ec3", null ],
+      [ "TF_UI_LOCKED_TIME_MINUTES_SECOND_DIGIT", "d0/d0f/a04085.html#a4134a455195e5cc1be9288227500b258a6e71bc9f10b277d16c6ba22b6f4cb381", null ],
+      [ "TF_UI_LOCKED_TIME_HOURS", "d0/d0f/a04085.html#a4134a455195e5cc1be9288227500b258af4e7d7c6926dae8b9f55258bd66c4b6b", null ],
+      [ "TF_UI_LOCKED_DISPLAY_NEUTRAL", "d0/d0f/a04085.html#a4134a455195e5cc1be9288227500b258a75d5f388814344dcdaafdb7cc434532d", null ],
+      [ "TF_UI_LOCKED_DISPLAY_HORDE", "d0/d0f/a04085.html#a4134a455195e5cc1be9288227500b258a7b43f99b2120863099d31e07029b5dd2", null ],
+      [ "TF_UI_LOCKED_DISPLAY_ALLIANCE", "d0/d0f/a04085.html#a4134a455195e5cc1be9288227500b258a3ad3af0875c04da341c52ec43710eee0", null ]
     ] ],
-    [ "NPCNelson", "d0/d0f/a04085.html#ad8c06f7bd08693fefc384a9896581248", [
-      [ "NELSON_EVENT_DREADFUL_FRIGHT", "d0/d0f/a04085.html#ad8c06f7bd08693fefc384a9896581248a0110a6743a2be1f6b1686e1c80a1ab9f", null ],
-      [ "NELSON_EVENT_CREEPING_DOOM", "d0/d0f/a04085.html#ad8c06f7bd08693fefc384a9896581248a570c75d31f474e305588b313cb74fa2a", null ],
-      [ "NELSON_SAY", "d0/d0f/a04085.html#ad8c06f7bd08693fefc384a9896581248a3a8074ec57e11c8646aa853eb0fc574d", null ],
-      [ "NELSON_WEAKNESS_EMOTE", "d0/d0f/a04085.html#ad8c06f7bd08693fefc384a9896581248abb3404c3907acebfdbf1102d6dc34041", null ],
-      [ "NELSON_DESPAWN_SAY", "d0/d0f/a04085.html#ad8c06f7bd08693fefc384a9896581248a5df97a8c38be38427c8dea2f63034605", null ],
-      [ "NELSON_NORMAL_ENTRY", "d0/d0f/a04085.html#ad8c06f7bd08693fefc384a9896581248a0fe2e60baa947b6fcd3d0a6736a9a7ff", null ],
-      [ "NELSON_EVIL_ENTRY", "d0/d0f/a04085.html#ad8c06f7bd08693fefc384a9896581248aea664410af0966c75d8c81ca790c1463", null ],
-      [ "CREEPING_DOOM_ENTRY", "d0/d0f/a04085.html#ad8c06f7bd08693fefc384a9896581248a9300940a11d265d7b0c4f85422830a50", null ],
-      [ "NELSON_HEAD", "d0/d0f/a04085.html#ad8c06f7bd08693fefc384a9896581248a32250a2a128ab64840b48aa2e45594fb", null ],
-      [ "NELSON_WEAKNESS_WING_CLIP", "d0/d0f/a04085.html#ad8c06f7bd08693fefc384a9896581248a74f08862597370408b33e568ea6a173a", null ],
-      [ "NELSON_WEAKNESS_FROST_TRAP", "d0/d0f/a04085.html#ad8c06f7bd08693fefc384a9896581248a67cc21ff77c5f4888e7be11fe8b76de1", null ],
-      [ "NELSON_SPELL_SOUL_FLAME", "d0/d0f/a04085.html#ad8c06f7bd08693fefc384a9896581248a90773794bb36fe4afd1df8465b4476ae", null ],
-      [ "NELSON_SPELL_DREADFUL_FRIGHT", "d0/d0f/a04085.html#ad8c06f7bd08693fefc384a9896581248ab5e17fcc103d5693704ebb772ced41c8", null ],
-      [ "NELSON_SPELL_CRIPPLING_CLIP", "d0/d0f/a04085.html#ad8c06f7bd08693fefc384a9896581248af258b492afa6684ce60918ec506e0474", null ],
-      [ "NELSON_SPELL_CREEPING_DOOM", "d0/d0f/a04085.html#ad8c06f7bd08693fefc384a9896581248a2b343ce324b5fb0ffc7109e79ce0ec80", null ]
-    ] ],
-    [ "NPCPrecious", "d0/d0f/a04085.html#aa5ed2f1543f33f7119a73d663739cb5a", [
-      [ "PRECIOUS_NORMAL_ENTRY", "d0/d0f/a04085.html#aa5ed2f1543f33f7119a73d663739cb5aa01a00ad67f65745c45300c65fb85a329", null ],
-      [ "PRECIOUS_EVIL_ENTRY", "d0/d0f/a04085.html#aa5ed2f1543f33f7119a73d663739cb5aa537440d3949e818014bd5962f1faab81", null ]
-    ] ],
-    [ "NPCSimone", "d0/d0f/a04085.html#ac2bd4827fd0d6efa51d00cda84192699", [
-      [ "SIMONE_EVENT_TALK", "d0/d0f/a04085.html#ac2bd4827fd0d6efa51d00cda84192699a816e796693162a325889759fec978faf", null ],
-      [ "SIMONE_EVENT_CHECK_PET_STATE", "d0/d0f/a04085.html#ac2bd4827fd0d6efa51d00cda84192699aaaf2d11bfd889a617e21d7d27c4a147d", null ],
-      [ "SIMONE_EVENT_CHAIN_LIGHTNING", "d0/d0f/a04085.html#ac2bd4827fd0d6efa51d00cda84192699a1479d23f092d0513368359e90ef569c2", null ],
-      [ "SIMONE_EVENT_TEMPTRESS_KISS", "d0/d0f/a04085.html#ac2bd4827fd0d6efa51d00cda84192699af60fa3aee8dd197cc23ec263218d2757", null ],
-      [ "SIMONE_EMOTE", "d0/d0f/a04085.html#ac2bd4827fd0d6efa51d00cda84192699a5fe44bebd8a62f2d15aff79bddeb5786", null ],
-      [ "SIMONE_SAY", "d0/d0f/a04085.html#ac2bd4827fd0d6efa51d00cda84192699a5a37bd0ac82d9ed49b7cf13b0921293d", null ],
-      [ "SIMONE_WEAKNESS_EMOTE", "d0/d0f/a04085.html#ac2bd4827fd0d6efa51d00cda84192699a1efe1796dc81c4cc729abeaf3bebdf45", null ],
-      [ "SIMONE_NORMAL_ENTRY", "d0/d0f/a04085.html#ac2bd4827fd0d6efa51d00cda84192699a7b49323d8ed43bd879d95e4798eadbd0", null ],
-      [ "SIMONE_EVIL_ENTRY", "d0/d0f/a04085.html#ac2bd4827fd0d6efa51d00cda84192699a782c849344053aef075d44e2a306fd80", null ],
-      [ "SIMONE_HEAD", "d0/d0f/a04085.html#ac2bd4827fd0d6efa51d00cda84192699a3e7f38d02528648ac55edd93db080e9f", null ],
-      [ "SIMONE_SPELL_WEAKNESS_VIPER_STING", "d0/d0f/a04085.html#ac2bd4827fd0d6efa51d00cda84192699ad4d7fe972b6e280e7b144da8d2ebefd8", null ],
-      [ "SIMONE_SPELL_TEMPTRESS_KISS", "d0/d0f/a04085.html#ac2bd4827fd0d6efa51d00cda84192699abb9f754a03ddaddc3e1f21615562d1b6", null ],
-      [ "SIMONE_SPELL_CHAIN_LIGHTNING", "d0/d0f/a04085.html#ac2bd4827fd0d6efa51d00cda84192699a98bccf366154d8dbc5a65b4c1e9a466d", null ],
-      [ "SIMONE_SPELL_SILENCE", "d0/d0f/a04085.html#ac2bd4827fd0d6efa51d00cda84192699a06f4aa887fa7256bf35a2f460bce1b76", null ]
-    ] ]
+    [ "OutdoorPvPTFBuffZones", "d0/d0f/a04085.html#a6b09030102f8c0dbb4b0e6bbfdee9b24", null ],
+    [ "OutdoorPvPTFBuffZonesNum", "d0/d0f/a04085.html#acde5c9331776adb4ed27c2319476e550", null ],
+    [ "TF_ALLY_QUEST", "d0/d0f/a04085.html#a3967b7bb2df0e330fbd21a68d557b19a", null ],
+    [ "TF_HORDE_QUEST", "d0/d0f/a04085.html#a1bbe00a4cf0ae9f6750d23ef10539c0a", null ],
+    [ "TF_LOCK_TIME", "d0/d0f/a04085.html#a925c2f6bf9c7a6d1b694382b888fa85f", null ],
+    [ "TF_LOCK_TIME_UPDATE", "d0/d0f/a04085.html#a9ef7be226d98726081fd3cb435d223b5", null ],
+    [ "TFCapturePoints", "d0/d0f/a04085.html#a19e9cf9859a7578f154dcdcfa0670620", null ],
+    [ "TFTowerWorldStates", "d0/d0f/a04085.html#ac5dbb8989285178cfea88af6f03dd6a6", null ]
 ];

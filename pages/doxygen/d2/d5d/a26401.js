@@ -1,8 +1,7 @@
 var a26401 =
 [
-    [ "HandleDamage", "d2/d5d/a26401.html#a2c5149eb0b6698240c25b63e71af0854", null ],
-    [ "PrepareSpellScript", "d2/d5d/a26401.html#a8a19b594de9ba23a59e22db7d05eb60d", null ],
-    [ "Register", "d2/d5d/a26401.html#ad29179d9159700b52b0c21a779cd060b", null ],
-    [ "Suicide", "d2/d5d/a26401.html#a981f8547eae9b317111bf9a7016510ab", null ],
-    [ "Validate", "d2/d5d/a26401.html#aa2c3399146b15f754e073e4fa08f3d5a", null ]
+    [ "HandleDummy", "d2/d5d/a26401.html#a2ea424e6c740305340001b1c09bfec91", null ],
+    [ "PrepareSpellScript", "d2/d5d/a26401.html#afe722c970155b47eac94bb9861a4eb46", null ],
+    [ "Register", "d2/d5d/a26401.html#a2c2b96f1c00da9884ec9d01fe897c8c1", null ],
+    [ "Validate", "d2/d5d/a26401.html#ac5f782da8b5e387c31e048759baf3e16", null ]
 ];

@@ -1,6 +1,6 @@
 var a12481 =
 [
-    [ "boss_zelfan", "dd/dfe/a12481.html#a169e72dfe50c5199bf0053828888095b", null ],
-    [ "JustEngagedWith", "dd/dfe/a12481.html#a4e83c11ad95ea4dbea893a08671f17af", null ],
-    [ "UpdateAI", "dd/dfe/a12481.html#aa3f6175b0ac234ee990f476ebbf2ab67", null ]
+    [ "boss_mr_smiteAI", "df/d5b/a12485.html", "df/d5b/a12485" ],
+    [ "boss_mr_smite", "dd/dfe/a12481.html#a011d41112ef7376b71d2959f806be262", null ],
+    [ "GetAI", "dd/dfe/a12481.html#a619ca0aede1eb33f992328048319c4f0", null ]
 ];

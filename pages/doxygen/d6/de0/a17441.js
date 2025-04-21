@@ -1,6 +1,6 @@
 var a17441 =
 [
-    [ "spell_pos_slave_trigger_closestSpellScript", "d3/d17/a17445.html", "d3/d17/a17445" ],
-    [ "spell_pos_slave_trigger_closest", "d6/de0/a17441.html#a3982ff2508b7f82e19bfa4534dd558e4", null ],
-    [ "GetSpellScript", "d6/de0/a17441.html#a6535e26e2b006213cd9d6c2a54d3b961", null ]
+    [ "npc_gunshipAI", "d3/d17/a17445.html", "d3/d17/a17445" ],
+    [ "npc_gunship", "d6/de0/a17441.html#a86b3ba622bd6e606cd21f7c7d8dddd1b", null ],
+    [ "GetAI", "d6/de0/a17441.html#adcd37802a2850f4ec8892f3495d5dc16", null ]
 ];

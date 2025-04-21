@@ -1,6 +1,6 @@
 var a17645 =
 [
-    [ "boss_prince_valanarAI", "dc/d37/a17649.html", "dc/d37/a17649" ],
-    [ "boss_prince_valanar_icc", "d0/dde/a17645.html#a7bfa4e13fa5cc19313c7ce9877d1c631", null ],
-    [ "GetAI", "d0/dde/a17645.html#a2f7f58d57f5ed107d1f972d061105fd4", null ]
+    [ "npc_cult_adherentAI", "dc/d37/a17649.html", "dc/d37/a17649" ],
+    [ "npc_cult_adherent", "d0/dde/a17645.html#a74496518cf30674044a4a8a166e4c345", null ],
+    [ "GetAI", "d0/dde/a17645.html#a2bfe464c738c983b9539f9216cabd63a", null ]
 ];

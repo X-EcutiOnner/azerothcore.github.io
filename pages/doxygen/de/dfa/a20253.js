@@ -1,6 +1,6 @@
 var a20253 =
 [
-    [ "npc_scion_of_eternityAI", "d7/df4/a20257.html", "d7/df4/a20257" ],
-    [ "npc_scion_of_eternity", "de/dfa/a20253.html#ac1d66d65b5d4468b908443a64dc2de1c", null ],
-    [ "GetAI", "de/dfa/a20253.html#a7c27a55f177fb9e31f73fa1cb227fa27", null ]
+    [ "boss_kologarn_eyebeamAI", "d7/df4/a20257.html", "d7/df4/a20257" ],
+    [ "boss_kologarn_eyebeam", "de/dfa/a20253.html#af28ff60e3b42f7316cc3d63624a91ee9", null ],
+    [ "GetAI", "de/dfa/a20253.html#a34f5533a6bfe84c52fe0b0e854e694f8", null ]
 ];

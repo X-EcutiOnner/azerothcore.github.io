@@ -1,6 +1,6 @@
 var a11821 =
 [
-    [ "go_chromaggus_leverAI", "da/d36/a11821.html#a51406a7e313702282cebfbf067c9ce4e", null ],
-    [ "GossipHello", "da/d36/a11821.html#a44ece597fcfcf290234cc1ef073fbf18", null ],
-    [ "_instance", "da/d36/a11821.html#a364f66c7cf0a7bc4a3ea97b87ebe9f90", null ]
+    [ "boss_ambassador_flamelashAI", "d2/d61/a11825.html", "d2/d61/a11825" ],
+    [ "boss_ambassador_flamelash", "da/d36/a11821.html#a53d24a240e48033b0474970e8acac1f4", null ],
+    [ "GetAI", "da/d36/a11821.html#a332e347d803a58989445ec57d75361ab", null ]
 ];

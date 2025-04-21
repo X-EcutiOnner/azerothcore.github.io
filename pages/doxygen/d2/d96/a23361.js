@@ -1,6 +1,7 @@
 var a23361 =
 [
-    [ "npc_torturer_lecraftAI", "d6/dc9/a23365.html", "d6/dc9/a23365" ],
-    [ "npc_torturer_lecraft", "d2/d96/a23361.html#a789f8bdafe96d5cb01225b940a80c651", null ],
-    [ "GetAI", "d2/d96/a23361.html#abdc8b33cd820c5cd14c999e7407897fe", null ]
+    [ "OnApply", "d2/d96/a23361.html#a6189a5ea90b1951b21a7e9ef36700ed9", null ],
+    [ "PeriodicTick", "d2/d96/a23361.html#a1c79b1016361eabb5cef57a893bccfcf", null ],
+    [ "PrepareAuraScript", "d2/d96/a23361.html#acfa6b5217a0e0e2654b7fa9c4092abd5", null ],
+    [ "Register", "d2/d96/a23361.html#adddddd0689f4686a40b1db142b5d6ce2", null ]
 ];

@@ -1,6 +1,6 @@
 var a20173 =
 [
-    [ "spell_thaddius_pos_neg_charge_SpellScript", "d7/d09/a20177.html", "d7/d09/a20177" ],
-    [ "spell_thaddius_pos_neg_charge", "da/d12/a20173.html#aecf627540c5e863b9c7187829482cb3b", null ],
-    [ "GetSpellScript", "da/d12/a20173.html#a548cd99333f6cbddd91ca8173451ecbf", null ]
+    [ "HandleAfterEffectApply", "da/d12/a20173.html#ac8b5cddcf66c1f43c4ab0461354e97f1", null ],
+    [ "PrepareAuraScript", "da/d12/a20173.html#a439799df0d6ca43e6a81930e3e4b5334", null ],
+    [ "Register", "da/d12/a20173.html#adce13201dd11c6ba83883b12ad32d1f6", null ]
 ];

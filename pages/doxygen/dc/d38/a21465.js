@@ -1,5 +1,10 @@
 var a21465 =
 [
-    [ "PrepareAuraScript", "dc/d38/a21465.html#a00cd12fa222594d14fedfb3b46048a4d", null ],
-    [ "Register", "dc/d38/a21465.html#ae1dfee5d81880091d7e0d78af0a3417a", null ]
+    [ "npc_imprisoned_beryl_sorcererAI", "dc/d38/a21465.html#a0a8159a84689dbfd8c69ed523ce03817", null ],
+    [ "GotStinged", "dc/d38/a21465.html#a0729c584c3b65e5f25f4445de378f0ea", null ],
+    [ "JustEngagedWith", "dc/d38/a21465.html#a2f3e45b3f762ede62aa94a6ae3f2909f", null ],
+    [ "Reset", "dc/d38/a21465.html#aedc82ee3bfa193a838d5af62533e19b4", null ],
+    [ "SpellHit", "dc/d38/a21465.html#a2010b53b3a8ad1e0aa6ecb5a26c8b6c9", null ],
+    [ "UpdateAI", "dc/d38/a21465.html#a21def23073eeec051c1c97a813e0ea84", null ],
+    [ "rebuff", "dc/d38/a21465.html#ac83c25091fdd3c7876a88927b758261f", null ]
 ];

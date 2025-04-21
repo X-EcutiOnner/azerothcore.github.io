@@ -1,5 +1,5 @@
 var a04901 =
 [
-    [ "TileEntries", "db/d24/a04901.html#ac982af8210389fe769d161a12d4cdb5f", null ],
-    [ "UniqueEntries", "db/d24/a04901.html#a5ba6c948eedc6c070a7eb6aa3816d85c", null ]
+    [ "GetBounds", "db/d24/a04901.html#aad63d9f5960111e34b0a3005e2c51d0f", null ],
+    [ "GetBounds2", "db/d24/a04901.html#adcedbb1fa73310dff07fb945793fb23e", null ]
 ];

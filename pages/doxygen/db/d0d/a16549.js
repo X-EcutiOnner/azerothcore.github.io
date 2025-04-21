@@ -1,11 +1,10 @@
 var a16549 =
 [
-    [ "npc_anubarak_spikeAI", "db/d0d/a16549.html#a1982ce33ce76e15d33bfcc222f5ad734", null ],
-    [ "DamageTaken", "db/d0d/a16549.html#a3b548e629d2c6217f21644136ca7ba4b", null ],
-    [ "DoAction", "db/d0d/a16549.html#ab583d97745ea69e95a1ecc0b68ac9878", null ],
-    [ "Reset", "db/d0d/a16549.html#af5b4a1227467d86d9dbba57362fdf360", null ],
-    [ "SelectNewTarget", "db/d0d/a16549.html#ab9ed5d53703464c488267f578a214fb8", null ],
-    [ "UpdateAI", "db/d0d/a16549.html#af8d6d840785c718d963c7b150cd12d9c", null ],
-    [ "events", "db/d0d/a16549.html#a52ff0006b5194edcb55f49e970a15ab8", null ],
-    [ "TargetGUID", "db/d0d/a16549.html#a2f7cbaf81e159035476ee9576a0e3990", null ]
+    [ "boss_dredAI", "db/d0d/a16549.html#a4ad04fe31990a37fd6d3a23329350248", null ],
+    [ "GetData", "db/d0d/a16549.html#a7a93506d77eaf40c6f7be9e433f211e1", null ],
+    [ "JustEngagedWith", "db/d0d/a16549.html#ae6e1181dcdea763460ca72148abfcb3f", null ],
+    [ "Reset", "db/d0d/a16549.html#a5fe153ab58b1feedce5afa6b10a0d3de", null ],
+    [ "SetData", "db/d0d/a16549.html#a884f48aabc26b054dcd303a91cb88301", null ],
+    [ "UpdateAI", "db/d0d/a16549.html#afc12ced9b5026fe3b297560c30e129ed", null ],
+    [ "_raptorCount", "db/d0d/a16549.html#a95aa63c18d7e1f2dec2491ac4649a378", null ]
 ];

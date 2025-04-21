@@ -1,6 +1,6 @@
 var a17813 =
 [
-    [ "spell_blood_queen_frenzied_bloodthirst_AuraScript", "d2/dbd/a17817.html", "d2/dbd/a17817" ],
-    [ "spell_blood_queen_frenzied_bloodthirst", "d0/d2d/a17813.html#a468e5849715964f02f7e35edeafdd7d3", null ],
-    [ "GetAuraScript", "d0/d2d/a17813.html#a41029f9f92bc8c25467190bf7e7d2f43", null ]
+    [ "HandleScript", "d0/d2d/a17813.html#abd766c298f8aa363d28198b6a5d7e374", null ],
+    [ "PrepareSpellScript", "d0/d2d/a17813.html#a5a4e7d674c09ebbbc9d918cf877418a3", null ],
+    [ "Register", "d0/d2d/a17813.html#ae9bd26c97b3dc9c1af96304e3c67d532", null ]
 ];

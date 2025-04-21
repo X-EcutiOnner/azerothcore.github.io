@@ -1,7 +1,7 @@
 var a10741 =
 [
-    [ "effectMask", "d4/d37/a10741.html#a07d70f3c2425f07a36db90e9fd5b3c97", null ],
-    [ "processed", "d4/d37/a10741.html#aedfa36678be863a558ecd0ecc07cc544", null ],
-    [ "targetGUID", "d4/d37/a10741.html#a619f98bf094d2667048204f733d64d0c", null ],
-    [ "timeDelay", "d4/d37/a10741.html#ab552326c0780fe62ff95b02249458492", null ]
+    [ "Playsound", "d4/d37/a10741.html#a955f91d0d65c64f154f99b3b9472e273", null ],
+    [ "Playsound", "d4/d37/a10741.html#aa242d4ca729d67d7fd58dc81985f22f9", null ],
+    [ "Write", "d4/d37/a10741.html#acb4bdd9a1613a158832115e4c18bfcd9", null ],
+    [ "SoundKitID", "d4/d37/a10741.html#a922cb6d06285bdf9f3d89ff990c40b0a", null ]
 ];

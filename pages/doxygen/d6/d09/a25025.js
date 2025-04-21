@@ -1,6 +1,8 @@
 var a25025 =
 [
-    [ "boss_rokmar_the_crackler", "d6/d09/a25025.html#a0aca6a30d045bbea6f434979f4f1d2e9", null ],
-    [ "JustEngagedWith", "d6/d09/a25025.html#ae376e6a96fa07136790f3ed04ee1023b", null ],
-    [ "Reset", "d6/d09/a25025.html#aed9cf4a866d5e70647125a08885fb809", null ]
+    [ "OnApply", "d6/d09/a25025.html#a9ea247d39fa51d9722c17e6ea83a0e55", null ],
+    [ "OnRemove", "d6/d09/a25025.html#abd45d59ecd41274bd02c17fb066a521e", null ],
+    [ "PrepareAuraScript", "d6/d09/a25025.html#af30811301599459bf2a99a68608a053f", null ],
+    [ "Register", "d6/d09/a25025.html#a0eb56dc80c02932a0d7cf4cca7079c75", null ],
+    [ "Validate", "d6/d09/a25025.html#a29c5049e4455737ff96596a18af118d0", null ]
 ];

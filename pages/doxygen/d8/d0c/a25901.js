@@ -1,6 +1,6 @@
 var a25901 =
 [
-    [ "HandleScriptEffect", "d8/d0c/a25901.html#a826a1179ae1c6a4167642d7cf7f5f820", null ],
-    [ "PrepareSpellScript", "d8/d0c/a25901.html#a5aa11ad35603e8248de4f6c336ed41cb", null ],
-    [ "Register", "d8/d0c/a25901.html#a698c28a17f6e6add601a0c7f4c076d8b", null ]
+    [ "OnRemove", "d8/d0c/a25901.html#ae1f257e43effcb396d57d42db3063afd", null ],
+    [ "PrepareAuraScript", "d8/d0c/a25901.html#a5b13e46dc228ffe594ce2ce06a7d6799", null ],
+    [ "Register", "d8/d0c/a25901.html#a4a94d5c8efdd7f6e0dd655ebeb8c4614", null ]
 ];

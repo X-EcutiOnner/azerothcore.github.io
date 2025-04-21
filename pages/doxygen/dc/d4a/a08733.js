@@ -1,10 +1,14 @@
 var a08733 =
 [
-    [ "PlayerListSearcherWithSharedVision", "dc/d4a/a08733.html#aace01efe09c3190b81651d237e2e9a8a", null ],
-    [ "Visit", "dc/d4a/a08733.html#a5348d9887ebfd9c0a0016b31d3db8ffb", null ],
-    [ "Visit", "dc/d4a/a08733.html#a34c24d8e219b8dbbdf27c1d36489f3fa", null ],
-    [ "Visit", "dc/d4a/a08733.html#ac45ae498dc7f74426b66344d9367046a", null ],
-    [ "i_check", "dc/d4a/a08733.html#a7261e79c2980cfb61686c01254d70c8b", null ],
-    [ "i_objects", "dc/d4a/a08733.html#ac8e5495912121d8d3baac9d02e947815", null ],
-    [ "i_phaseMask", "dc/d4a/a08733.html#a9bd8d6c842ac2f4cf1f10441216f906c", null ]
+    [ "SafeUnitPointer", "dc/d4a/a08733.html#a05ee5199683b1e68189a7d122bf3f5f4", null ],
+    [ "SafeUnitPointer", "dc/d4a/a08733.html#a9ac4023d6ec32f96c757206dd4aa3fd6", null ],
+    [ "~SafeUnitPointer", "dc/d4a/a08733.html#ad9c2be82f67eb4e825a9ffd07307983a", null ],
+    [ "Initialize", "dc/d4a/a08733.html#a40f6e04585ca487c457d17ce10cc7b8c", null ],
+    [ "operator Unit *", "dc/d4a/a08733.html#afee1d290f436472dd719ff83f41721f5", null ],
+    [ "operator->", "dc/d4a/a08733.html#af63a04a7c6e6cb3002f5a99f90f70328", null ],
+    [ "operator=", "dc/d4a/a08733.html#a44f522d9c22861f853df0286a3764d3e", null ],
+    [ "SetPointedTo", "dc/d4a/a08733.html#a6603c67b736224a8e6559340afa8b275", null ],
+    [ "UnitDeleted", "dc/d4a/a08733.html#a872b0a86328fb03e5feccdf364ea5cce", null ],
+    [ "defaultValue", "dc/d4a/a08733.html#a38dce117cb135c9b84918a9bbc884f28", null ],
+    [ "ptr", "dc/d4a/a08733.html#aa8bf5e4728aeb1ca7a8de1a727a84884", null ]
 ];

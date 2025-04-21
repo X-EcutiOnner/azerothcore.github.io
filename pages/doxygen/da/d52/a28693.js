@@ -1,7 +1,6 @@
 var a28693 =
 [
-    [ "CheckProc", "da/d52/a28693.html#a957f8837b5613a3bfd8200ded3529c54", null ],
-    [ "HandleEffectProc", "da/d52/a28693.html#a54810a897e535558d060119e3de6537b", null ],
-    [ "PrepareAuraScript", "da/d52/a28693.html#a37950bfd846e1c2c550a108461941a26", null ],
-    [ "Register", "da/d52/a28693.html#a16c273043e81fd163fb7c3f517ee6f4c", null ]
+    [ "height", "da/d52/a28693.html#a7638f586a055c48a46e36471543ff72f", null ],
+    [ "unk1", "da/d52/a28693.html#a6c08b6fa33e12a9900218d0d0b8b78d5", null ],
+    [ "unk2", "da/d52/a28693.html#a394a04f6e985824aa259a42b11b97136", null ]
 ];

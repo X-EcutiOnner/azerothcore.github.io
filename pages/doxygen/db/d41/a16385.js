@@ -1,6 +1,6 @@
 var a16385 =
 [
-    [ "CountAllies", "db/d41/a16385.html#ad14f84bc6a7aeb6684189867101d538a", null ],
-    [ "PrepareSpellScript", "db/d41/a16385.html#ae8eded8275900a3ddb32111947a1f7b2", null ],
-    [ "Register", "db/d41/a16385.html#a6a53f0ba882c65dc608697578e1b97e2", null ]
+    [ "npc_toc_retro_paladinAI", "d5/dc2/a16389.html", "d5/dc2/a16389" ],
+    [ "npc_toc_retro_paladin", "db/d41/a16385.html#abfb15148aefe186447cfdb3a2c8749c4", null ],
+    [ "GetAI", "db/d41/a16385.html#a1213c99792aa4362275bc827aa2f037e", null ]
 ];

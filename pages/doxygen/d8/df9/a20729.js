@@ -1,6 +1,18 @@
 var a20729 =
 [
-    [ "dark_rune_protectorsAI", "d6/d37/a20733.html", "d6/d37/a20733" ],
-    [ "dark_rune_protectors", "d8/df9/a20729.html#a14225a2369a8deea416fc640a2d7b075", null ],
-    [ "GetAI", "d8/df9/a20729.html#a359e4049b7ec828177d9a36d23e9b4ef", null ]
+    [ "boss_yoggsaron_brainAI", "d8/df9/a20729.html#a556f89a88f4af04c09bec268661d4dae", null ],
+    [ "DamageTaken", "d8/df9/a20729.html#abc6d2996727b22b2fd178c348f2dc7db", null ],
+    [ "DoAction", "d8/df9/a20729.html#a902318367cf4d8fdb7abfc1d48d1a935", null ],
+    [ "GetData", "d8/df9/a20729.html#a0ea15cc63073ebf36d15967a87b542d5", null ],
+    [ "JustSummoned", "d8/df9/a20729.html#ae93711e3607a60105ee8005b27b93506", null ],
+    [ "PrepareChamberIllusion", "d8/df9/a20729.html#af9abd21e8fad7949362c0830c14a9d0c", null ],
+    [ "PrepareIceCrownIllusion", "d8/df9/a20729.html#ab361073608a293347fa82e829eb7c8cb", null ],
+    [ "PrepareStormwindIllusion", "d8/df9/a20729.html#a641ebeadcf257d1eddf61cef9bcdc913", null ],
+    [ "Reset", "d8/df9/a20729.html#a309cca56ff6b853b21c910c1b4c99681", null ],
+    [ "UpdateAI", "d8/df9/a20729.html#a6c8fe143ff212f32cf284b749f55857d", null ],
+    [ "_activeIllusion", "d8/df9/a20729.html#a47524945c021303a5dd791d38dc0543c", null ],
+    [ "_brainDamaged", "d8/df9/a20729.html#a4c784f57e0f29673583529e1e8fb157b", null ],
+    [ "_induceTimer", "d8/df9/a20729.html#ab532ef181da9fa4267c987e4aa173b69", null ],
+    [ "_tentacleCount", "d8/df9/a20729.html#adef4e382bc15a03c432f46880bb076d6", null ],
+    [ "summons", "d8/df9/a20729.html#a090dfe58a5629733a425591b3de48413", null ]
 ];

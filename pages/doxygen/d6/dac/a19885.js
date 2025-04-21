@@ -1,6 +1,6 @@
 var a19885 =
 [
-    [ "boss_isle_of_conquestAI", "d7/d5d/a19889.html", "d7/d5d/a19889" ],
-    [ "boss_isle_of_conquest", "d6/dac/a19885.html#ad4052d1b6865585d32016e1240449659", null ],
-    [ "GetAI", "d6/dac/a19885.html#ae14201c4f8654bf2c0cd9ac8a82f3800", null ]
+    [ "OnPeriodic", "d6/dac/a19885.html#a379c55df994c58932fef7e7a59fd8426", null ],
+    [ "PrepareAuraScript", "d6/dac/a19885.html#ab180f54264f0c90376587d1b4c4dfd40", null ],
+    [ "Register", "d6/dac/a19885.html#aacfaa385ca4cbe64217ef191a32936e2", null ]
 ];

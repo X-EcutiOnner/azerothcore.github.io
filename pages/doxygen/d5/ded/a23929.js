@@ -1,8 +1,9 @@
 var a23929 =
 [
-    [ "go_wg_vehicle_teleporterAI", "d5/ded/a23929.html#af84e73765b1a4d810b41613824999186", null ],
-    [ "IsFriendly", "d5/ded/a23929.html#adca817c8919958db888d5e9c759ad545", null ],
-    [ "IsValidVehicle", "d5/ded/a23929.html#a3f790a651d5f0c67c5d528828a6bb398", null ],
-    [ "UpdateAI", "d5/ded/a23929.html#a8d8197cbfa6ab36d269f18020acbc565", null ],
-    [ "_checkTimer", "d5/ded/a23929.html#a9cbb42b4f29f94e41e80caccd87d95f4", null ]
+    [ "npc_aeranasAI", "d5/ded/a23929.html#a2142cebc84e64919fa5c2ef630453282", null ],
+    [ "Reset", "d5/ded/a23929.html#a2c1bbe079c065745782adfa13b030515", null ],
+    [ "UpdateAI", "d5/ded/a23929.html#ae192a3b38c0ec65cddfce3b95d15555a", null ],
+    [ "envelopingWinds_Timer", "d5/ded/a23929.html#a566b5d648abe630efc191f9d6d4938a2", null ],
+    [ "faction_Timer", "d5/ded/a23929.html#aac071887c100f91cc7ffc545ea6439d9", null ],
+    [ "shock_Timer", "d5/ded/a23929.html#aba8ad016f0e470b07163fef07b603380", null ]
 ];

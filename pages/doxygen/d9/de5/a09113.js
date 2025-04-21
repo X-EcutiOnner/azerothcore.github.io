@@ -1,8 +1,9 @@
 var a09113 =
 [
-    [ "flags", "d9/de5/a09113.html#a7ecce103d428ed7f91aa12fa5547561c", null ],
-    [ "group", "d9/de5/a09113.html#a0902606d44c8baa1a20b5b2cdd9b4787", null ],
-    [ "guid", "d9/de5/a09113.html#a97a20b4ccf1978165a5f5c7ff4ffb2b4", null ],
-    [ "name", "d9/de5/a09113.html#ab0719bb9805048b58a3e4c75e09d1ee7", null ],
-    [ "roles", "d9/de5/a09113.html#a2109aae0b3ebf74b065b97cc929c2954", null ]
+    [ "LiquidData", "d9/de5/a09113.html#ac2435178323f480d2dae449b49b39146", null ],
+    [ "DepthLevel", "d9/de5/a09113.html#ad84c7763a6253db7ae6117ecc7144f1d", null ],
+    [ "Entry", "d9/de5/a09113.html#abfed22cb0e920067c0f86a0083ef4ab6", null ],
+    [ "Flags", "d9/de5/a09113.html#aa0903ec4233bcfa34494cea5068cd19c", null ],
+    [ "Level", "d9/de5/a09113.html#a7c596e921e383bbdbdacbcd4307fe380", null ],
+    [ "Status", "d9/de5/a09113.html#acb79cdfb4221f158ce9b29127591a8a9", null ]
 ];

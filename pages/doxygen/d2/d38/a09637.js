@@ -1,10 +1,7 @@
 var a09637 =
 [
-    [ "EffectMovementGenerator", "d2/d38/a09637.html#a4b574eb9865cffe1277d9012db653d98", null ],
-    [ "Finalize", "d2/d38/a09637.html#a50cad77c4261bea67428b9dcd5a37ea1", null ],
-    [ "GetMovementGeneratorType", "d2/d38/a09637.html#a42c56bc35cf3d752e24ccc36adcd2e82", null ],
-    [ "Initialize", "d2/d38/a09637.html#a376f554231bc5dc4c95790e6c85dcb01", null ],
-    [ "Reset", "d2/d38/a09637.html#a9627573a7206e12ff469e8e6e076862b", null ],
-    [ "Update", "d2/d38/a09637.html#adff45ee4ce3cc72b6cc88e626c3bd0a5", null ],
-    [ "m_Id", "d2/d38/a09637.html#a56f483336fe5c86c6d186ec4d7772d4b", null ]
+    [ "LootGroupInvalidSelector", "d2/d38/a09637.html#abea815e8ee0d31cc64b3fd7f46033cca", null ],
+    [ "operator()", "d2/d38/a09637.html#a2ea426fdeced03324c4a63184c2c1fc4", null ],
+    [ "_loot", "d2/d38/a09637.html#a67b9d223426512af79bbf5b035c18a6d", null ],
+    [ "_lootMode", "d2/d38/a09637.html#a10e307846a0731aa812388c29c0d4bc8", null ]
 ];

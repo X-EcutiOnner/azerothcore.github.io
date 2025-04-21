@@ -1,6 +1,7 @@
 var a26269 =
 [
-    [ "FilterTargets", "db/d2e/a26269.html#adab73c94c659d7421c9c6887d956cd83", null ],
-    [ "PrepareSpellScript", "db/d2e/a26269.html#a8cf5e4224f46b6f836d517f90fd135d4", null ],
-    [ "Register", "db/d2e/a26269.html#a3aaf93f3746b36d5bfa4fc475aabe43b", null ]
+    [ "HandleEffectPeriodic", "db/d2e/a26269.html#a9347200565cb858cf0cc9cdb897fe1dc", null ],
+    [ "PrepareAuraScript", "db/d2e/a26269.html#a5fc89b09fb226d0d9315081d64f4103e", null ],
+    [ "Register", "db/d2e/a26269.html#ac3741617faacf83a707f1359aab1886e", null ],
+    [ "Validate", "db/d2e/a26269.html#a9378252b6711cc0bec3e63efce026495", null ]
 ];

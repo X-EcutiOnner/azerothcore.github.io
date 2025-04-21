@@ -1,10 +1,7 @@
 var a28293 =
 [
-    [ "CheckProc", "dd/dd5/a28293.html#a5971c42af47d1cc8045a130deb218a04", null ],
-    [ "HandleProc", "dd/dd5/a28293.html#a45aaf5afebc2fa533240fcf8233430ed", null ],
-    [ "Load", "dd/dd5/a28293.html#a7664b0f67c9e3b14841ed9e30447544d", null ],
-    [ "PrepareAuraScript", "dd/dd5/a28293.html#a291fcf1af497d1e83a31209cd01a360d", null ],
-    [ "Register", "dd/dd5/a28293.html#af16d0517ad07a454145da0b92c051740", null ],
-    [ "Validate", "dd/dd5/a28293.html#ac768a5f4738dee9ad7d885fa6136785e", null ],
-    [ "_procTargetGUID", "dd/dd5/a28293.html#a13976d069846f29d2f744f3f03502787", null ]
+    [ "from", "dd/dd5/a28293.html#a8e87b02059c2c1e4b1dd2760c99cb004", null ],
+    [ "ID", "dd/dd5/a28293.html#a4375feed48ce5ac7291dced992c9bbf4", null ],
+    [ "price", "dd/dd5/a28293.html#a44fc4c13d3426fcbc7b1108e513973de", null ],
+    [ "to", "dd/dd5/a28293.html#a6b24cdac137b2b8d9472b5d1aca4178f", null ]
 ];

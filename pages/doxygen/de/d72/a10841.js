@@ -1,8 +1,6 @@
 var a10841 =
 [
-    [ "first", "de/d72/a10841.html#a49aea8bfed353c2c552f6195b8e9f60a", null ],
-    [ "last", "de/d72/a10841.html#a05a8077c7ec39bcca66fe84aa1da7040", null ],
-    [ "next", "de/d72/a10841.html#a0a7791b7069912a013299e7afaf4142f", null ],
-    [ "prev", "de/d72/a10841.html#ae27b7d0aa5a2ae5cb75a7f0d397c849f", null ],
-    [ "rank", "de/d72/a10841.html#a0b58cef8fc18f91fa59b8c7d7b9f9872", null ]
+    [ "PetStopAttack", "de/d72/a10841.html#a4a68127f3290d4f2e288600757dd3282", null ],
+    [ "Read", "de/d72/a10841.html#a22dd8d9fcbadbec5ba046812f5cdac51", null ],
+    [ "PetGUID", "de/d72/a10841.html#af7b95e5b976af2fa7bb4c61319f7eb97", null ]
 ];

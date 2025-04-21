@@ -1,7 +1,6 @@
 var a07741 =
 [
-    [ "bounding_radius", "d8/d38/a07741.html#a9f4a794b06bcbe31fc0a104cc97b91a4", null ],
-    [ "combat_reach", "d8/d38/a07741.html#ac271edb10093db19e4df1396053f820d", null ],
-    [ "gender", "d8/d38/a07741.html#aa5c8134851ff4f7ab6ad2af3b6e1dc1e", null ],
-    [ "modelid_other_gender", "d8/d38/a07741.html#a222b3c513a64b385954ea549e67f4255", null ]
+    [ "value_type", "d8/d38/a07741.html#a6ffbf1b2887c79b97a1804a601ea585e", null ],
+    [ "StoreTo", "d8/d38/a07741.html#a872daea2854f6243884ec35734f94d2e", null ],
+    [ "tag", "d8/d38/a07741.html#acbb2b3fc4989e4bb51e3440dcb753719", null ]
 ];

@@ -1,7 +1,6 @@
 var a28565 =
 [
-    [ "HandleDispel", "d9/d01/a28565.html#aaf6920cb0fec741f3cff1d3f6e6d2c0f", null ],
-    [ "PrepareAuraScript", "d9/d01/a28565.html#ace0ce4b85311893e1e6df403a6387cd9", null ],
-    [ "Register", "d9/d01/a28565.html#a2c67e4327fdd034978d4822311632980", null ],
-    [ "Validate", "d9/d01/a28565.html#ad8b5c381904c359ed608c808d5bbd9bd", null ]
+    [ "id", "d9/d01/a28565.html#a5acc1b246a76073e1c97513251a4143d", null ],
+    [ "id", "d9/d01/a28565.html#aaf844f570afdf7439ae7fbe0bbdc39e7", null ],
+    [ "name", "d9/d01/a28565.html#ae5d1244981224aed1b7477caedd70175", null ]
 ];

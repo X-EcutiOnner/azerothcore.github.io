@@ -1,8 +1,9 @@
 var a19377 =
 [
-    [ "npc_blistering_zombieAI", "d7/db3/a19377.html#acf278cd2249ac45a4b043427ba36b3ce", null ],
-    [ "DamageTaken", "d7/db3/a19377.html#adf031992078214f90d859df2b54aac91", null ],
-    [ "UpdateAI", "d7/db3/a19377.html#ae081898b8dcaf45cd3069e79021de452", null ],
-    [ "casted", "d7/db3/a19377.html#a0f70f5d58ef0bb20f64b0aec4df04905", null ],
-    [ "timer", "d7/db3/a19377.html#a8b865c2a87b1fc020d8250767febab0a", null ]
+    [ "HandleOnEffectApply", "d7/db3/a19377.html#a6ab047004cc901331d747641f218cf6a", null ],
+    [ "HandleOnEffectRemove", "d7/db3/a19377.html#a9f66217f4785c8240c4b074bbf04b96e", null ],
+    [ "PrepareAuraScript", "d7/db3/a19377.html#aa94b30468b2c853c0d8b86658a43dee4", null ],
+    [ "Register", "d7/db3/a19377.html#a83b0d414a6e97b434f82492fa01ac385", null ],
+    [ "Validate", "d7/db3/a19377.html#a88af7f269f56e474434d51c7ac0eb0a0", null ],
+    [ "_drakeGUID", "d7/db3/a19377.html#a2e0c7df73cc7246524f6d745ff1fbeb1", null ]
 ];

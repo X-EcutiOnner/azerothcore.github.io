@@ -1,6 +1,9 @@
 var a23945 =
 [
-    [ "HandleSummon", "d7/d58/a23945.html#a3490f2145ba100aff85894a698476eaa", null ],
-    [ "PrepareSpellScript", "d7/d58/a23945.html#ac23c78653aa51ff66d374a876d77cd47", null ],
-    [ "Register", "d7/d58/a23945.html#ae2962ddcb25cc68ab6ec7966514743bf", null ]
+    [ "npc_wounded_blood_elfAI", "d7/d58/a23945.html#a2dfcd5fa17b56c44f4056ecf4861af6e", null ],
+    [ "JustEngagedWith", "d7/d58/a23945.html#aba950ba77ff71508263cc54b28c7725b", null ],
+    [ "JustSummoned", "d7/d58/a23945.html#aa97f5294981c44b530efca1411458a97", null ],
+    [ "Reset", "d7/d58/a23945.html#a8e6be35a3079998f3bab829f5d963c71", null ],
+    [ "sQuestAccept", "d7/d58/a23945.html#a56c157928c24daae6edacd5a126ef171", null ],
+    [ "WaypointReached", "d7/d58/a23945.html#a5affcb00e28a582f8926ab2226001cd0", null ]
 ];

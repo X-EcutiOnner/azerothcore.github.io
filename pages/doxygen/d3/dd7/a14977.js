@@ -1,5 +1,6 @@
 var a14977 =
 [
-    [ "npc_idol_room_spawnerAI", "d3/dd7/a14977.html#a77c4aa88d213271166158c8e75d41a69", null ],
-    [ "SetData", "d3/dd7/a14977.html#aa0626c837086b4a275f4d51d1659a242", null ]
+    [ "HandleScriptEffect", "d3/dd7/a14977.html#a0f03a3e09e80ae50a5ddedcea1f9f30e", null ],
+    [ "PrepareSpellScript", "d3/dd7/a14977.html#aa109d61baba87acf5bce5d44bff55214", null ],
+    [ "Register", "d3/dd7/a14977.html#ac8412777c84abfe56262d6d83163e9a1", null ]
 ];

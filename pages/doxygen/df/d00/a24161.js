@@ -1,14 +1,9 @@
 var a24161 =
 [
-    [ "event_enter", "df/d00/a24161.html#ac80d575f14dca1c901be55e34cc690e1", null ],
-    [ "event_leave", "df/d00/a24161.html#a3dc0a11a5c06079026d27852e7561b74", null ],
-    [ "map_tower_a", "df/d00/a24161.html#a9a65209caac3791b835c1920f5a667cf", null ],
-    [ "map_tower_h", "df/d00/a24161.html#aa30ae484db7c69137abb13adb1b3c505", null ],
-    [ "map_tower_n", "df/d00/a24161.html#a0453edceab2132e900bec183e360e210", null ],
-    [ "slider_disp", "df/d00/a24161.html#aec3c8dde769675e3f436515c7a3bcf24", null ],
-    [ "slider_n", "df/d00/a24161.html#a65015a3a24a5554643ecb5da47e24eea", null ],
-    [ "slider_pos", "df/d00/a24161.html#acc63481f7613242ac06c6bee6c136a30", null ],
-    [ "ui_tower_a", "df/d00/a24161.html#a0107bfd3b1df99568e02d6ca80042c86", null ],
-    [ "ui_tower_h", "df/d00/a24161.html#a94a5fa0517fd0713b74f50a3d1d627cc", null ],
-    [ "ui_tower_n", "df/d00/a24161.html#ae0fd99db88e6c60b829a18ff8e4be9a0", null ]
+    [ "npc_korkron_or_wildhammer", "df/d00/a24161.html#a3d2252865e0e540dd76aaf87ff62a83c", null ],
+    [ "IsSummonedBy", "df/d00/a24161.html#aa63e935c2d64716f22f4e74e43e6b639", null ],
+    [ "JustDied", "df/d00/a24161.html#a2b216f372b3681b4c96a711568c2a93b", null ],
+    [ "MovementInform", "df/d00/a24161.html#a598dada110aff99a3c36f3037dcf8bf4", null ],
+    [ "Reset", "df/d00/a24161.html#a67d5cf4a8418ab3f07a387f1021080df", null ],
+    [ "_playerGUID", "df/d00/a24161.html#a5f1a79c10b5363ee24b3941c54ff10d7", null ]
 ];

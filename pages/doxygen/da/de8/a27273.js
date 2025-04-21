@@ -1,6 +1,5 @@
 var a27273 =
 [
-    [ "HandlePreventAura", "da/de8/a27273.html#a62b9a62f5379f4ca98921c7fe4278b58", null ],
-    [ "PrepareSpellScript", "da/de8/a27273.html#a61b2f1d5634219f9c48a9ea75e90d423", null ],
-    [ "Register", "da/de8/a27273.html#ab1a90b7939c146b40badfd6424c35cf7", null ]
+    [ "go_veil_skith_cage", "da/de8/a27273.html#ac3fe1fdf2f12571fafc56e71a932994e", null ],
+    [ "OnGossipHello", "da/de8/a27273.html#a6724dc73ecf83305e5234eb0a2ad1d3c", null ]
 ];

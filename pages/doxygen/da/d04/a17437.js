@@ -1,6 +1,8 @@
 var a17437 =
 [
-    [ "SlaveRunEvent", "da/d04/a17437.html#a4560b275b0870cdbd192b2610893b47c", null ],
-    [ "Execute", "da/d04/a17437.html#a81db67be136525dea5a9cd84180be165", null ],
-    [ "_owner", "da/d04/a17437.html#a33e2ce4cea1edf2e0967696c41667f15", null ]
+    [ "ResetEncounterEvent", "da/d04/a17437.html#aaa1bc6d3d529524df6b0ed6be6e0966f", null ],
+    [ "Execute", "da/d04/a17437.html#ae8d52fc7c0689620bcef8c04643191f5", null ],
+    [ "_caster", "da/d04/a17437.html#abb37778222749b27791baa329e268c32", null ],
+    [ "_otherTransport", "da/d04/a17437.html#a7f2d0aaade5833381e3e7624745fc504", null ],
+    [ "_spellId", "da/d04/a17437.html#ad4c57e519201e15e23e0f56f4fbe70cb", null ]
 ];

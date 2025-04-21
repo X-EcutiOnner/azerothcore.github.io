@@ -1,6 +1,7 @@
 var a26289 =
 [
-    [ "HandlePeriodic", "dc/df3/a26289.html#a9d94b55656848d5b9f943b9b3bbfd889", null ],
-    [ "PrepareAuraScript", "dc/df3/a26289.html#a6b76add02d3a1eeddd845c4f97d0632a", null ],
-    [ "Register", "dc/df3/a26289.html#aa8c6fc66e1483370681ae6f7fdf5b676", null ]
+    [ "HandleDummy", "dc/df3/a26289.html#a367bd26543382ad71668fbe4f524d823", null ],
+    [ "PrepareSpellScript", "dc/df3/a26289.html#a71cde3f81fdb253d8e93a19be104e9db", null ],
+    [ "Register", "dc/df3/a26289.html#a7c73e3381592bef44d2265aff296b301", null ],
+    [ "Validate", "dc/df3/a26289.html#a03d59b6859286dbe460b348df6de63d7", null ]
 ];

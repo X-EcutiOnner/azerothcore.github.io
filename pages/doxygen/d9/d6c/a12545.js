@@ -1,11 +1,17 @@
 var a12545 =
 [
-    [ "npc_scarlet_ghoulAI", "d9/d6c/a12545.html#a194795143717de5aa8f0ca4c4e516136", null ],
-    [ "InitializeAI", "d9/d6c/a12545.html#ad0fd204d15350332508b0c9d9decefb1", null ],
-    [ "MovementInform", "d9/d6c/a12545.html#a9836c91a7dede1fabd1e0a9523ebd26a", null ],
-    [ "OwnerAttackedBy", "d9/d6c/a12545.html#a5b0afc1f2ee57a1cc5e30b8e997ba218", null ],
-    [ "SetGUID", "d9/d6c/a12545.html#a832602498643a03087efbc0a5a2f81c3", null ],
-    [ "UpdateAI", "d9/d6c/a12545.html#adbe4d539552e7954c7bdb8e520cb9783", null ],
-    [ "events", "d9/d6c/a12545.html#a105ac0982d28be590d514d2e452109c0", null ],
-    [ "gothikGUID", "d9/d6c/a12545.html#ab5efaf2e030f92d7ab45de8b5d19804d", null ]
+    [ "boss_attumen", "d9/d6c/a12545.html#a394925c2a44b0bfe8931ae88dd9868ae", null ],
+    [ "CanMeleeHit", "d9/d6c/a12545.html#ae685929086090928802854cc93f9934a", null ],
+    [ "DamageTaken", "d9/d6c/a12545.html#a0b426b760d9ace05211c3383e7628022", null ],
+    [ "EnterEvadeMode", "d9/d6c/a12545.html#af00f91294c04d0fe932c922fd270c5dc", null ],
+    [ "Initialize", "d9/d6c/a12545.html#ac89445e6a04c2d8cd04e53f4aea30c58", null ],
+    [ "IsSummonedBy", "d9/d6c/a12545.html#a1fa6827c323cbda15e2a438bc376e74c", null ],
+    [ "JustDied", "d9/d6c/a12545.html#a375a95d46f8db8a53ea6420dd557855e", null ],
+    [ "JustSummoned", "d9/d6c/a12545.html#af91018e54244864ca4cd1b9d40c569df", null ],
+    [ "KilledUnit", "d9/d6c/a12545.html#ad167a1ec5ff737ad77b0c492efc022f0", null ],
+    [ "Reset", "d9/d6c/a12545.html#ab8815ed9b1068e748e43346725cd9281", null ],
+    [ "ScheduleTasks", "d9/d6c/a12545.html#ae63d0a3c7ae4ad755f091f2d31342a57", null ],
+    [ "SpellHit", "d9/d6c/a12545.html#a1181ae1d50d6c52483b0d90423997c90", null ],
+    [ "UpdateAI", "d9/d6c/a12545.html#aac982f13b35e7c37b49a4e76ace5fccd", null ],
+    [ "_phase", "d9/d6c/a12545.html#a8a668537dc5b7c01e6d9d91c67d6da72", null ]
 ];

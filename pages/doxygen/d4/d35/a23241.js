@@ -1,7 +1,6 @@
 var a23241 =
 [
-    [ "CheckRequirement", "d4/d35/a23241.html#a41beb2c890137328734d6adb14e08302", null ],
-    [ "PrepareSpellScript", "d4/d35/a23241.html#aa0b9873dbd8c75a14fa88094d91eeeaa", null ],
-    [ "Register", "d4/d35/a23241.html#aa0fad5e5a68131ebab5717ad0ce69669", null ],
-    [ "SetDest", "d4/d35/a23241.html#a431a556ab73f91ed63f5983e537834a5", null ]
+    [ "HandleScript", "d4/d35/a23241.html#a9451ed26358c77ab4d35781fd8fb4b55", null ],
+    [ "PrepareSpellScript", "d4/d35/a23241.html#ad24e7fa45f35f2cd6071328c60cb2732", null ],
+    [ "Register", "d4/d35/a23241.html#a1bd01e1103d4959a5b3116e178a16a8f", null ]
 ];

@@ -1,5 +1,6 @@
 var a12317 =
 [
-    [ "at_karazhan_atiesh_aran", "d2/df5/a12317.html#ac84f5848b8a26cbfdd2544108567a6cc", null ],
-    [ "OnTrigger", "d2/df5/a12317.html#a5a6646c573b6e0bab0cbc288e594979e", null ]
+    [ "boss_garrAI", "da/d32/a12321.html", "da/d32/a12321" ],
+    [ "boss_garr", "d2/df5/a12317.html#ab489eb068430a6aaa83c93104dd54d65", null ],
+    [ "GetAI", "d2/df5/a12317.html#abc673a3db7fce0101a0b95d5efbdefa3", null ]
 ];

@@ -1,15 +1,18 @@
 var a08785 =
 [
-    [ "MessageDistDeliverer", "d1/dca/a08785.html#aa6225d1c67760d2c50a0e6c02ec6c1af", null ],
-    [ "SendPacket", "d1/dca/a08785.html#af085a9490dfd5a1e577bda6d8333fe1d", null ],
-    [ "Visit", "d1/dca/a08785.html#af44878b494b1412f0d08248f6a88fff6", null ],
-    [ "Visit", "d1/dca/a08785.html#a2e8d0ad4bdc5fc8961d9f67b6a93b69d", null ],
-    [ "Visit", "d1/dca/a08785.html#a8c56d33ec988bfb6ba078fce00beab1a", null ],
-    [ "Visit", "d1/dca/a08785.html#a09171ca5e494d7cc4b19340e95367a64", null ],
-    [ "i_distSq", "d1/dca/a08785.html#a871dda581863f0919f1d5b2f60c2fcd9", null ],
-    [ "i_message", "d1/dca/a08785.html#ac49c2d8b9120edbafd6b04656a6d2909", null ],
-    [ "i_phaseMask", "d1/dca/a08785.html#abca07d041f9b45b4002f15dfff6e1c9e", null ],
-    [ "i_source", "d1/dca/a08785.html#aa65c4e298a1302647fdaad1b1227a3a2", null ],
-    [ "skipped_receiver", "d1/dca/a08785.html#a7f92e1c65cdc8346dd4bac47f1ba8b5b", null ],
-    [ "teamId", "d1/dca/a08785.html#acfda3713bbde51a110cb160f0325f848", null ]
+    [ "GameEventData", "d1/dca/a08785.html#ab7963b01d9e138d79f06274ea57b9590", null ],
+    [ "isValid", "d1/dca/a08785.html#a7a91c9c9cc68593812b13f6efd2ea4ff", null ],
+    [ "Announce", "d1/dca/a08785.html#ae055378db69064ad4338ec2ddf6c7c75", null ],
+    [ "Conditions", "d1/dca/a08785.html#a0915a0321c4c26bfb61824587a309cde", null ],
+    [ "Description", "d1/dca/a08785.html#a5ab9afbc209e319839fd68de0cbc2207", null ],
+    [ "End", "d1/dca/a08785.html#a4bae1cf480ee64f190e2f09640e8a8cd", null ],
+    [ "EventId", "d1/dca/a08785.html#a6fe6513946fc98803fb816d2aabd8dcc", null ],
+    [ "HolidayId", "d1/dca/a08785.html#a9c9979bdece8534af216b693a2a58a80", null ],
+    [ "HolidayStage", "d1/dca/a08785.html#a44c52795eed59abdff72cdebdccc50ca", null ],
+    [ "Length", "d1/dca/a08785.html#a72bff4c3a62db350460993d804a461ea", null ],
+    [ "NextStart", "d1/dca/a08785.html#aafe5f4d5b9122f26442266c651ebd77e", null ],
+    [ "Occurence", "d1/dca/a08785.html#ab4e80a88f30560a3af0c6381e974687d", null ],
+    [ "PrerequisiteEvents", "d1/dca/a08785.html#aa4ecb9c9ce012aad0c1cb0d90a3eb4e0", null ],
+    [ "Start", "d1/dca/a08785.html#a3be91b7e00641ca6cb853104190845dc", null ],
+    [ "State", "d1/dca/a08785.html#a6288a7c28aba2927c3e91f5d2f517a60", null ]
 ];

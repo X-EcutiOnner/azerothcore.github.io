@@ -1,7 +1,12 @@
 var a15593 =
 [
-    [ "npc_shenthulAI", "de/d79/a15597.html", "de/d79/a15597" ],
-    [ "npc_shenthul", "d1/db6/a15593.html#a77815503c7d9c811fe3821232e308714", null ],
-    [ "GetAI", "d1/db6/a15593.html#a1683f8c89add6270277c59951c74027e", null ],
-    [ "OnQuestAccept", "d1/db6/a15593.html#a3a63fec338dca74eb7d071dfcc9c95b5", null ]
+    [ "npc_cairne_bloodhoofAI", "d1/db6/a15593.html#ac87f0d10b1886ffa24ae201fdb614441", null ],
+    [ "Reset", "d1/db6/a15593.html#ab58f32a6bd1659b1a54fb056526c121a", null ],
+    [ "sGossipSelect", "d1/db6/a15593.html#aa95b820eb4d3c6c5f1898a67c319b1a6", null ],
+    [ "UpdateAI", "d1/db6/a15593.html#aefcbb7b2da6d1039055c27feeb1f5f9e", null ],
+    [ "_berserkerChargeTimer", "d1/db6/a15593.html#a2efb1949abe83dadf62b5c868ae57fe2", null ],
+    [ "_cleaveTimer", "d1/db6/a15593.html#ab1ed741e998cd7ed088cab3af378b3ca", null ],
+    [ "_mortalStrikeTimer", "d1/db6/a15593.html#a9f33790662ce229669e5d1d6f2aac8b0", null ],
+    [ "_thunderclapTimer", "d1/db6/a15593.html#a6bdca667875353db2badc40fd95a1ce4", null ],
+    [ "_uppercutTimer", "d1/db6/a15593.html#a9f13acd7df900d9bdac64898b183c67d", null ]
 ];

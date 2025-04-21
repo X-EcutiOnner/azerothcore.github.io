@@ -1,14 +1,11 @@
 var a16193 =
 [
-    [ "npc_halion_controllerAI", "d4/dc0/a16193.html#aabe03dbe5652db6687e7f2857ea33a20", null ],
-    [ "DoAction", "d4/dc0/a16193.html#a8d295797e21c03e7d2c3d504c40ba128", null ],
-    [ "Reset", "d4/dc0/a16193.html#a3004aecb50815287d5f832f2a8a0d250", null ],
-    [ "SetData", "d4/dc0/a16193.html#a3ce9a62d3e44b3ccc279803d5ef87a47", null ],
-    [ "UpdateAI", "d4/dc0/a16193.html#ac3ad9df40560ba8acfcd7fbabd303fde", null ],
-    [ "UpdateCorporeality", "d4/dc0/a16193.html#ac82987f2b2b069b90c509c477004bae6", null ],
-    [ "_corporeality", "d4/dc0/a16193.html#a4c23df1bb774ac724bdf537453592671", null ],
-    [ "_events", "d4/dc0/a16193.html#a92e3f116260265a2d0dbeef769eee03e", null ],
-    [ "_instance", "d4/dc0/a16193.html#a5cce2f56e6ef0b4baeb6f2f7dbfd2f73", null ],
-    [ "_materialDamage", "d4/dc0/a16193.html#afcc510b0d4be10ed057d1a304b803b69", null ],
-    [ "_twilightDamage", "d4/dc0/a16193.html#a13a9efcb11ed31725c45011508407287", null ]
+    [ "npc_toc5_grand_champion_minionAI", "d4/dc0/a16193.html#a06ff16fe0076de4e34ba20e0bbc49009", null ],
+    [ "JustDied", "d4/dc0/a16193.html#a23e5001255c6d49a6b217b9606aa53c5", null ],
+    [ "JustEngagedWith", "d4/dc0/a16193.html#a37a04ac2d6f30e415410f3806abaabb8", null ],
+    [ "Reset", "d4/dc0/a16193.html#ad35a26c28485b1976c55d49fcd32fb19", null ],
+    [ "UpdateAI", "d4/dc0/a16193.html#a2b9fdd3daa725921819ae2acee418d51", null ],
+    [ "events", "d4/dc0/a16193.html#a1b405c2acd53a4e5f1179f52c8c2261b", null ],
+    [ "pInstance", "d4/dc0/a16193.html#a6edd3dc8070edd031143e7a750f4d7a8", null ],
+    [ "ShieldTimer", "d4/dc0/a16193.html#a080916d385f4157afbe4c455033b88ba", null ]
 ];

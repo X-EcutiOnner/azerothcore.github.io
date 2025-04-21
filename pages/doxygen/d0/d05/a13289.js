@@ -1,7 +1,7 @@
 var a13289 =
 [
-    [ "HandleApply", "d0/d05/a13289.html#a173361f5cb4ae9f4d0595339662ee2dd", null ],
-    [ "HandleRemove", "d0/d05/a13289.html#a589dae6926b7b04cfb8d723cfbc52f1a", null ],
-    [ "PrepareAuraScript", "d0/d05/a13289.html#ab464f859fd95cf2e5d2f568d4049b2be", null ],
-    [ "Register", "d0/d05/a13289.html#a30336ae89a687c350d88da2b8ffe3aa4", null ]
+    [ "HandleSchoolDamage", "d0/d05/a13289.html#a4fee3e37f347d1dcfa84c1dc0454c9fa", null ],
+    [ "PrepareSpellScript", "d0/d05/a13289.html#a8063f3d669e07dc0768607feb9a2f763", null ],
+    [ "Register", "d0/d05/a13289.html#a83aad24c7111d1f68196fcb9765dcd97", null ],
+    [ "Validate", "d0/d05/a13289.html#af90ae09274b0082bd8bd674ca43596f6", null ]
 ];

@@ -1,6 +1,7 @@
 var a21977 =
 [
-    [ "spell_thorim_trash_impale_AuraScript", "da/dc9/a21981.html", "da/dc9/a21981" ],
-    [ "spell_thorim_trash_impale", "da/d85/a21977.html#a96a89fcae5925d48a186421cce427815", null ],
-    [ "GetAuraScript", "da/d85/a21977.html#a47a3ad2eb322bb2e19acb42ff89caf25", null ]
+    [ "npc_tirions_gambit_tirionAI", "da/dc9/a21981.html", "da/dc9/a21981" ],
+    [ "npc_tirions_gambit_tirion", "da/d85/a21977.html#ad52abd46ccdd3b4409671679434c193c", null ],
+    [ "GetAI", "da/d85/a21977.html#a222c092c2e2136dbd7057a3f7ad7b5f4", null ],
+    [ "OnGossipSelect", "da/d85/a21977.html#a5af904a3394de9b3eedb52009bd6b0a9", null ]
 ];

@@ -1,6 +1,10 @@
 var a24329 =
 [
-    [ "npc_akama_illidanAI", "dc/dc7/a24333.html", "dc/dc7/a24333" ],
-    [ "npc_akama_illidan", "dc/dc0/a24329.html#a85a312a767fb181f0bd626eb48e8e891", null ],
-    [ "GetAI", "dc/dc0/a24329.html#a75648fc8291574b7bf16cd0c8e015384", null ]
+    [ "npc_pet_gen_imp_in_a_bottle", "dc/dc0/a24329.html#aa32b7770c2719d77d46fcf6d22989284", null ],
+    [ "InitializeAI", "dc/dc0/a24329.html#a9fde3fd30d48068a3ad1a19f65c61bf2", null ],
+    [ "UpdateAI", "dc/dc0/a24329.html#a453ec855bb21a30cb72b540ff8f77035", null ],
+    [ "_data", "dc/dc0/a24329.html#a982ec923536c2c33353a3673aa425b6a", null ],
+    [ "_hasParty", "dc/dc0/a24329.html#a192d9e2ba340040cb6ba5c0f324ffb2d", null ],
+    [ "_ownerGUID", "dc/dc0/a24329.html#a5452226bbe4f65a9bd7ce103a7648a2f", null ],
+    [ "_talkTimer", "dc/dc0/a24329.html#a07eba859ad2d5db4f6d91734c04020cf", null ]
 ];

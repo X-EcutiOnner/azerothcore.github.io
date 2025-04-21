@@ -1,6 +1,6 @@
 var a18529 =
 [
-    [ "HandleScript", "d2/d06/a18529.html#aafb60666ec1789faa1cc3094d61115fd", null ],
-    [ "PrepareSpellScript", "d2/d06/a18529.html#a22a3a44be2abb772a092e7ae5cee6eca", null ],
-    [ "Register", "d2/d06/a18529.html#ada32e7d992484f5263b674a7f82f8257", null ]
+    [ "npc_captain_arnathAI", "da/d29/a18533.html", "da/d29/a18533" ],
+    [ "npc_captain_arnath", "d2/d06/a18529.html#ab96afce64a7714ea84bab932f80c9302", null ],
+    [ "GetAI", "d2/d06/a18529.html#a302ec007389e677011334d78f410207b", null ]
 ];

@@ -1,8 +1,6 @@
 var a23905 =
 [
-    [ "npc_wg_queueAI", "d4/d9a/a23909.html", "d4/d9a/a23909" ],
-    [ "npc_wg_queue", "d2/de3/a23905.html#a2cc9825e08e982ef195f117a4512c4ae", null ],
-    [ "GetAI", "d2/de3/a23905.html#ad2d7746a32b520d37ea826b03627de4e", null ],
-    [ "OnGossipHello", "d2/de3/a23905.html#a20fc6ae4e4377f237a620b7f5b1de8ee", null ],
-    [ "OnGossipSelect", "d2/de3/a23905.html#afb707da5d85affc65f7ab5a0fc018c93", null ]
+    [ "go_apexis_relic", "d2/de3/a23905.html#a91ff5a986ee62b628456e9f5c75f6bc9", null ],
+    [ "OnGossipHello", "d2/de3/a23905.html#ae8f7167ba5b973881e32d604691dc15a", null ],
+    [ "OnGossipSelect", "d2/de3/a23905.html#a025cc7cc9c69f0eb461445170972ab52", null ]
 ];

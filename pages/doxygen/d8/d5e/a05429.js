@@ -1,13 +1,15 @@
 var a05429 =
 [
-    [ "IntervalTimer", "d8/d5e/a05429.html#a2538976b639e25e63a8ab5927663ade1", null ],
-    [ "GetCurrent", "d8/d5e/a05429.html#a93a456d6ff6d74cc889517fc585626e8", null ],
-    [ "GetInterval", "d8/d5e/a05429.html#a986bec1dcb7325088517f6721636abcc", null ],
-    [ "Passed", "d8/d5e/a05429.html#a9b3ac2407baf9763fa899e35a5c55fbe", null ],
-    [ "Reset", "d8/d5e/a05429.html#ae243f18c4c3174b91fa01f6d08b04d4d", null ],
-    [ "SetCurrent", "d8/d5e/a05429.html#ab315f686c2777dc21c824d8674479f9f", null ],
-    [ "SetInterval", "d8/d5e/a05429.html#a28d95330f971d3a37aaf53e4f16aad4a", null ],
-    [ "Update", "d8/d5e/a05429.html#aa1f5b922ea2d95c49924a506ca37a676", null ],
-    [ "_current", "d8/d5e/a05429.html#a99c5aec27af00ffbbd83c5adbd2e2016", null ],
-    [ "_interval", "d8/d5e/a05429.html#a179584ce91f62ba5e74ae3f34ee32fbc", null ]
+    [ "EnumFlag", "d8/d5e/a05429.html#a877aa23dfde6aa91cff6d8c0eb9a4732", null ],
+    [ "AsUnderlyingType", "d8/d5e/a05429.html#af9468dd952e12d2da9c0120d0ce9feb4", null ],
+    [ "HasAllFlags", "d8/d5e/a05429.html#adb5b65ab4a3d827882634d94774a912b", null ],
+    [ "HasFlag", "d8/d5e/a05429.html#a311985d41e79365bf9fd5bcb7c8fbf0c", null ],
+    [ "operator T", "d8/d5e/a05429.html#a13022712c9634c84907b906e55aebe28", null ],
+    [ "operator&=", "d8/d5e/a05429.html#afb2c7428dd07e4f427b0b0ca5ac0f7c3", null ],
+    [ "operator|=", "d8/d5e/a05429.html#ab49498ed668ee324702c4beadf4de999", null ],
+    [ "operator~", "d8/d5e/a05429.html#a3001eac7546c03530d1e51d5c1e6abfd", null ],
+    [ "RemoveFlag", "d8/d5e/a05429.html#a106a00ee4112382aa0120489551bf50a", null ],
+    [ "operator&", "d8/d5e/a05429.html#aa91d02e5d8b6d9ef507f47720ac6d9e6", null ],
+    [ "operator|", "d8/d5e/a05429.html#add07cc2598afc632e84ffdc0bf60cd81", null ],
+    [ "_value", "d8/d5e/a05429.html#a55353d720942d68d0dea86837aaca7c5", null ]
 ];

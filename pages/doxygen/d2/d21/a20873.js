@@ -1,6 +1,6 @@
 var a20873 =
 [
-    [ "spell_algalon_supermassive_fail_SpellScript", "dc/d28/a20877.html", "dc/d28/a20877" ],
-    [ "spell_algalon_supermassive_fail", "d2/d21/a20873.html#ad3db59aaf22127755eb5f14703126081", null ],
-    [ "GetSpellScript", "d2/d21/a20873.html#a4d0a91be908398e49399f51ee1473422", null ]
+    [ "OnEffect", "d2/d21/a20873.html#aa24cfd6feec65f466e74c68484815c1e", null ],
+    [ "PrepareSpellScript", "d2/d21/a20873.html#a648fb610fb1914efac7f2cb6e1bb4290", null ],
+    [ "Register", "d2/d21/a20873.html#ac1c0076665edc6a2b3a0228340020a1e", null ]
 ];

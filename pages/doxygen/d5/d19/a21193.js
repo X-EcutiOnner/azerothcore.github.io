@@ -1,7 +1,6 @@
 var a21193 =
 [
-    [ "HandleOnEffectApply", "d5/d19/a21193.html#a5ce7afa2edfd04632ead87a82e280bcf", null ],
-    [ "HandleOnEffectRemove", "d5/d19/a21193.html#a85a3e5acf6e4a64f3263e7bdab74b326", null ],
-    [ "PrepareAuraScript", "d5/d19/a21193.html#ae4c804cf4b9612db645372339738da12", null ],
-    [ "Register", "d5/d19/a21193.html#a783e89d9fab3a5738c08fd9104f74271", null ]
+    [ "npc_frozen_orb_stalkerAI", "d5/d19/a21193.html#afd8d187ecbf508d02824d1ff8f3cb5cf", null ],
+    [ "JustSummoned", "d5/d19/a21193.html#a73d7d5e55d2a00c9aee6f595e2678b17", null ],
+    [ "Reset", "d5/d19/a21193.html#a064ccb90afeb9b36d501850482c60bc4", null ]
 ];

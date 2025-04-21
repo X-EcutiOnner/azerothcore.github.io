@@ -1,7 +1,6 @@
 var a10301 =
 [
-    [ "GuildBankBuyTab", "df/dad/a10301.html#af2195db72eeaefea13c958e5ef62c411", null ],
-    [ "Read", "df/dad/a10301.html#a502153232a314d099ed43e1101bdfc1f", null ],
-    [ "Banker", "df/dad/a10301.html#a46f3b910aa6d69f4a82c7a603f9f0fb3", null ],
-    [ "BankTab", "df/dad/a10301.html#a5df7be995a177706fa364e31a6f8df1e", null ]
+    [ "LootScript", "df/dad/a10301.html#a57fd5dffc97f62a595f0ff4c2856dbd4", null ],
+    [ "IsDatabaseBound", "df/dad/a10301.html#ad60b605eac89be48efd339127e9cb9cd", null ],
+    [ "OnLootMoney", "df/dad/a10301.html#a56a57baead49f6815a9979b181a55375", null ]
 ];

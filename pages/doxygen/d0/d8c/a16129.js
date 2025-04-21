@@ -1,7 +1,6 @@
 var a16129 =
 [
-    [ "npc_baltharus_the_warborn_cloneAI", "d0/d8c/a16129.html#aed531e61508d4d404827f47c6348a5e6", null ],
-    [ "JustEngagedWith", "d0/d8c/a16129.html#ad906b7602a34abcfaede92cba6f0a6d7", null ],
-    [ "UpdateAI", "d0/d8c/a16129.html#ab0c1cf041146a3e16a33986e3e824a2d", null ],
-    [ "_events", "d0/d8c/a16129.html#a6e2819f73f0fccd02b7188f0e6f1ffa9", null ]
+    [ "npc_memoryAI", "d8/dd7/a16133.html", "d8/dd7/a16133" ],
+    [ "npc_memory", "d0/d8c/a16129.html#acebf31813025d323f9486d6575a60483", null ],
+    [ "GetAI", "d0/d8c/a16129.html#ad8e532d029217a06d11ae39810498976", null ]
 ];

@@ -1,6 +1,8 @@
 var a21397 =
 [
-    [ "npc_ulduar_icicleAI", "dc/d6f/a21401.html", "dc/d6f/a21401" ],
-    [ "npc_ulduar_icicle", "d5/d50/a21397.html#a1ab79b2fa3e64779f62b96c195222683", null ],
-    [ "GetAI", "d5/d50/a21397.html#a71dd83d544307b11bcde58f9aeea097c", null ]
+    [ "HandleEffectRemove", "d5/d50/a21397.html#aa2b05befb775244423264f6b5e2387c1", null ],
+    [ "Load", "d5/d50/a21397.html#a02ea4c29f2c7e15a5039b93d7a0d3c5e", null ],
+    [ "PrepareAuraScript", "d5/d50/a21397.html#a632e81cc39bdcd0f5adcc684231d1171", null ],
+    [ "Register", "d5/d50/a21397.html#aba5483b1d35c1b58841fad2b1086f07c", null ],
+    [ "Validate", "d5/d50/a21397.html#ada90e1f06ced8f4e353fe2bda3d31637", null ]
 ];

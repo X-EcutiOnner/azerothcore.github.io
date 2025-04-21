@@ -1,10 +1,8 @@
 var a08533 =
 [
-    [ "creatureRate", "d8/dae/a08533.html#aa9c27c19179b8a7bdfdc11d906cd1c06", null ],
-    [ "questDailyRate", "d8/dae/a08533.html#a1798044bdf25ce774191b00e261add1e", null ],
-    [ "questMonthlyRate", "d8/dae/a08533.html#a0db34ed7420bc376cfe64a0d12434fea", null ],
-    [ "questRate", "d8/dae/a08533.html#a914118aa28b3736ff4e6c5b61d738834", null ],
-    [ "questRepeatableRate", "d8/dae/a08533.html#a2b050d4cf6555e824d59a3ffc0558b21", null ],
-    [ "questWeeklyRate", "d8/dae/a08533.html#a0fb31ebc33d0ce11f392be845907e043", null ],
-    [ "spellRate", "d8/dae/a08533.html#a508485f1e6833c58a11706667a2c24fd", null ]
+    [ "BaseRune", "d8/dae/a08533.html#ad5a4b3afd246f5a4c071e3c4f350f132", null ],
+    [ "ConvertAura", "d8/dae/a08533.html#a41c55cb4c1b3f69c6a424359f60e34e1", null ],
+    [ "Cooldown", "d8/dae/a08533.html#a8eeb0f5208c29d43ab493a22f73eb0a6", null ],
+    [ "CurrentRune", "d8/dae/a08533.html#a2cebb551231f0364a1751e5d1a37fcda", null ],
+    [ "GracePeriod", "d8/dae/a08533.html#a3fa13f205dbaaca5bdcc7406f73b4e6a", null ]
 ];

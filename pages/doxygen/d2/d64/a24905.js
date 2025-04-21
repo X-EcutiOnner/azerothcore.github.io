@@ -1,6 +1,8 @@
 var a24905 =
 [
-    [ "HandleScriptEffect", "d2/d64/a24905.html#a6489e3a58421da7c448a24d6673564c5", null ],
-    [ "PrepareSpellScript", "d2/d64/a24905.html#a5afd50fdc8393a12cd39a56c342f9179", null ],
-    [ "Register", "d2/d64/a24905.html#a274d65aa393a65e19bbb67a5d07c7428", null ]
+    [ "CheckIfCorpseNear", "d2/d64/a24905.html#afdf1bca2e23057d99962fb1000e9245e", null ],
+    [ "HandleDummy", "d2/d64/a24905.html#a9e1bf4884a32e515d8e6b3edf7f5d462", null ],
+    [ "PrepareSpellScript", "d2/d64/a24905.html#af4a1aa22ed9ccf4df29d05d3f7fb0214", null ],
+    [ "Register", "d2/d64/a24905.html#a22f4c5321769384b2b708f19edea1a66", null ],
+    [ "Validate", "d2/d64/a24905.html#a855fdba79c4fa087253505ed419b9966", null ]
 ];

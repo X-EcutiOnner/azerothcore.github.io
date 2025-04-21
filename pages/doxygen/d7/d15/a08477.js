@@ -1,9 +1,8 @@
 var a08477 =
 [
-    [ "VehicleAccessory", "d7/d15/a08477.html#a70576b3cfa29bb6a31fdc61588b6d3c4", null ],
-    [ "AccessoryEntry", "d7/d15/a08477.html#a6e3cd6b20680974235c146d34b16295a", null ],
-    [ "IsMinion", "d7/d15/a08477.html#ace3fd27311370e4db4103f2c3ac70410", null ],
-    [ "SeatId", "d7/d15/a08477.html#a73b54fbbfe8e18f7129acc65dadec447", null ],
-    [ "SummonedType", "d7/d15/a08477.html#afc843c62c580c860471b0e49f5901363", null ],
-    [ "SummonTime", "d7/d15/a08477.html#a13a024b3ceacf38ce4907b079d732420", null ]
+    [ "IsInSpec", "d7/d15/a08477.html#a77968b5562467f85bda04b6f2f41ca29", null ],
+    [ "inSpellBook", "d7/d15/a08477.html#a650926fa9d1bbab336ee7ed3dd0b0b7d", null ],
+    [ "specMask", "d7/d15/a08477.html#acc1913a90ca2bd23298d3590843cfbd5", null ],
+    [ "State", "d7/d15/a08477.html#a062758af7e92f7e2263ca0a0fd329151", null ],
+    [ "talentID", "d7/d15/a08477.html#aca9b191361652002f5178179a939e41b", null ]
 ];

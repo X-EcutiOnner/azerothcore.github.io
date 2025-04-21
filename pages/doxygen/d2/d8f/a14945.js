@@ -1,12 +1,23 @@
 var a14945 =
 [
-    [ "instance_onyxias_lair_InstanceMapScript", "d2/d8f/a14945.html#a15c6f3f16f9cfa1f9fc1b7a2c62bcc64", null ],
-    [ "CheckAchievementCriteriaMeet", "d2/d8f/a14945.html#a20761aa41e0f70836c4525f17faf064f", null ],
-    [ "Initialize", "d2/d8f/a14945.html#a5d109b5acfa2e21e3c50e35dcdf119dd", null ],
-    [ "OnGameObjectCreate", "d2/d8f/a14945.html#a1e99600992673d165382d99236e0c59f", null ],
-    [ "SetBossState", "d2/d8f/a14945.html#a2a28e42ec49fce2ef47288c1ad4b6e61", null ],
-    [ "SetData", "d2/d8f/a14945.html#ac5df2ecb9f88dbedbb1f59ad2bdc8b96", null ],
-    [ "bDeepBreath", "d2/d8f/a14945.html#a96211e4e0e033e16d4de57b6e40f2023", null ],
-    [ "ManyWhelpsCounter", "d2/d8f/a14945.html#aea148b562a4f2cd752ac73240f902993", null ],
-    [ "str_data", "d2/d8f/a14945.html#ad0b65a3cfccdf07d017757751f4e15fa", null ]
+    [ "instance_ruins_of_ahnqiraj_InstanceMapScript", "d2/d8f/a14945.html#a1dfadd96c9cc420bb7c90ec8a2d0a1a2", null ],
+    [ "CallNextRajaxxLeader", "d2/d8f/a14945.html#a12de9882d8e71f68e7b52e4b3972dca4", null ],
+    [ "GetData", "d2/d8f/a14945.html#abe72d94186f5d5b9b97c82ac65f71fd6", null ],
+    [ "GetGuidData", "d2/d8f/a14945.html#a8a2c4b3677d8da475d1e5ea035becf15", null ],
+    [ "OnCreatureCreate", "d2/d8f/a14945.html#ac2b2bfb3ae426a82affbf363a49049ef", null ],
+    [ "OnCreatureEvade", "d2/d8f/a14945.html#af59d38b0842a962b94efcbf9af8e56ca", null ],
+    [ "OnPlayerEnter", "d2/d8f/a14945.html#aca8fbf17f8d583c1568a965bdf2b22f4", null ],
+    [ "OnUnitDeath", "d2/d8f/a14945.html#afc601fed830c0d8fe63cbf7741ff1c55", null ],
+    [ "ResetRajaxxWaves", "d2/d8f/a14945.html#a3a6aa2cc867de4842b10632ea761fb1e", null ],
+    [ "SetData", "d2/d8f/a14945.html#a4a9acbb13d81d88674b62aa49ac8a2e3", null ],
+    [ "SetGuidData", "d2/d8f/a14945.html#ac8f2440e439654e977d4a9a4b2b50b52", null ],
+    [ "_andorovGUID", "d2/d8f/a14945.html#a52168c9369fe1e691378577ea700115c", null ],
+    [ "_buruGUID", "d2/d8f/a14945.html#afbf08e65630819d5c60ecaa3d4d5bc42", null ],
+    [ "_buruPhase", "d2/d8f/a14945.html#ab8192edc41599ce20cc66efaaba5479a", null ],
+    [ "_kurinnaxxGUID", "d2/d8f/a14945.html#af1077bb8af7e756d9d548a4fe3fbd17b", null ],
+    [ "_moamGUID", "d2/d8f/a14945.html#a1025fdcd1b84e5d2c4eaa79d918ecd78", null ],
+    [ "_ossirianGUID", "d2/d8f/a14945.html#a254a550649a8f806f98d6eb90f593b54", null ],
+    [ "_paralyzedGUID", "d2/d8f/a14945.html#abc537534538f78cabf6534371ab090e9", null ],
+    [ "_rajaxWaveCounter", "d2/d8f/a14945.html#a010079e135c41de850419149ec2857f3", null ],
+    [ "_rajaxxGUID", "d2/d8f/a14945.html#aa92f25482c7c6d2bf7944a080beb858c", null ]
 ];

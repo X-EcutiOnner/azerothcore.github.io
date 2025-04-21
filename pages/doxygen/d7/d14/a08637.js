@@ -1,7 +1,9 @@
 var a08637 =
 [
-    [ "IsFitToRequirements", "d7/d14/a08637.html#ac175634ed2eab2911c3749fa208a073a", null ],
-    [ "castFlags", "d7/d14/a08637.html#a03cd65a460ea252818de9230cb656c1c", null ],
-    [ "spellId", "d7/d14/a08637.html#a34641755a5267b7a907d320cc5b4ddb4", null ],
-    [ "userType", "d7/d14/a08637.html#adcf285572403481cb418bddebc5f4bfa", null ]
+    [ "GlobalCooldownMgr", "d7/d14/a08637.html#a116f4af13a4e10dc5eb3c3c6a17ad863", null ],
+    [ "AddGlobalCooldown", "d7/d14/a08637.html#acc0291e56fe4d3594d079e357f6ea3ed", null ],
+    [ "CancelGlobalCooldown", "d7/d14/a08637.html#aed6b479416104dc536116fdb1e24fcf3", null ],
+    [ "GetGlobalCooldown", "d7/d14/a08637.html#ae44caed35e93f834ff68394c1ab6434b", null ],
+    [ "HasGlobalCooldown", "d7/d14/a08637.html#a7487d19ae8c59e5c5e871b2e1afabfba", null ],
+    [ "m_GlobalCooldowns", "d7/d14/a08637.html#a80d03691d36758733f326b65992f266e", null ]
 ];

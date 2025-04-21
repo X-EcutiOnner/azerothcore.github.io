@@ -1,7 +1,7 @@
 var a15097 =
 [
-    [ "npc_hivezara_stinger", "d9/d96/a15097.html#ac9438c9dd260a41d6248f2adcc14b555", null ],
-    [ "JustEngagedWith", "d9/d96/a15097.html#a433d31057f1732ef7ef15d2023e18b8a", null ],
-    [ "Reset", "d9/d96/a15097.html#ae8e893c90942a469628c393d5b5380cc", null ],
-    [ "UpdateAI", "d9/d96/a15097.html#a35a6511ebc0301ae0bb22aafc91c8524", null ]
+    [ "boss_glob_of_viscidus", "d9/d96/a15097.html#a1ba72393766110382dc4ce4122dfd1ee", null ],
+    [ "InitializeAI", "d9/d96/a15097.html#a0247055fc4f3a60c880ffb78e96edcb9", null ],
+    [ "MovementInform", "d9/d96/a15097.html#abe0cd95930fe52fdb5a40c704d092b90", null ],
+    [ "UpdateAI", "d9/d96/a15097.html#a2e8e38ccdf4ab5e32bd750d73daf1605", null ]
 ];

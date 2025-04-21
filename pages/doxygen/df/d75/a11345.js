@@ -1,9 +1,15 @@
 var a11345 =
 [
-    [ "quest_commandscript", "df/d75/a11345.html#a98804583ded14bc50d252475289dda4f", null ],
-    [ "GetCommands", "df/d75/a11345.html#afaf8c4b169a2bc7457b8ab97d13a367c", null ],
-    [ "HandleQuestAdd", "df/d75/a11345.html#acd1410f224a1d69bba1321999ebf25bc", null ],
-    [ "HandleQuestComplete", "df/d75/a11345.html#a044c30fdaedd07060284bd37fd2e226c", null ],
-    [ "HandleQuestRemove", "df/d75/a11345.html#ac0a87854f99c510c8309e9e337d1e71f", null ],
-    [ "HandleQuestReward", "df/d75/a11345.html#ab8d38057b3630b75cf21c8e88c1ebaf0", null ]
+    [ "BroadcastTextId", "df/d75/a11345.html#a12ff00d59ce642d3c27978e919f6ca17", null ],
+    [ "duration", "df/d75/a11345.html#a00b6d7cbf9ff377d30cd9e6cfab084b7", null ],
+    [ "emote", "df/d75/a11345.html#aad433a0bc12717103936e6f89b5b31ea", null ],
+    [ "entry", "df/d75/a11345.html#a3d1c888b73edee2474004de9d8714903", null ],
+    [ "group", "df/d75/a11345.html#ae2161d1dc874efacd0131baa74b4e44a", null ],
+    [ "id", "df/d75/a11345.html#ab80181d53770a2f64bd6898498b3e76e", null ],
+    [ "lang", "df/d75/a11345.html#a8405ab49781ba0cbcd8680ff6715b675", null ],
+    [ "probability", "df/d75/a11345.html#a9bec9c2053f2efbac076831d4e928045", null ],
+    [ "sound", "df/d75/a11345.html#af312efff61026445caeb4be4b52c4e66", null ],
+    [ "text", "df/d75/a11345.html#a82b3db36b60a343d340677e8df6c7925", null ],
+    [ "TextRange", "df/d75/a11345.html#a2bb58a07abc9eb7ffeb4db131de03924", null ],
+    [ "type", "df/d75/a11345.html#a5675f6bcf159e1da503029771557e2a6", null ]
 ];

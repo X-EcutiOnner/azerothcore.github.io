@@ -1,10 +1,13 @@
 var a10157 =
 [
-    [ "EnvironmentalDamageLog", "de/d6a/a10157.html#ab4311f6516d9b7491abf5cb2ba9a0ee0", null ],
-    [ "Write", "de/d6a/a10157.html#af7d49b8d57100cf2c3048d5415a4edc7", null ],
-    [ "Absorbed", "de/d6a/a10157.html#a443df04be3afe2021532716140ffb099", null ],
-    [ "Amount", "de/d6a/a10157.html#a073e22176d44f5806313c2a4bd3e263a", null ],
-    [ "Resisted", "de/d6a/a10157.html#ad20a9730af3088d93ac56d89b6f66b12", null ],
-    [ "Type", "de/d6a/a10157.html#a51df177d9ce6a8459bc8fa41f80cdb7a", null ],
-    [ "Victim", "de/d6a/a10157.html#a020fffe9517d30e965a4d6f6602dd05f", null ]
+    [ "AccountScript", "de/d6a/a10157.html#a3720bf412499a13ba4b41fc5c9f96b7c", null ],
+    [ "CanAccountCreateCharacter", "de/d6a/a10157.html#a6b5b94c1ac64bf8d926928d8401cd533", null ],
+    [ "OnAccountLogin", "de/d6a/a10157.html#afbebc7186ba77b0fefe0a6d32a774601", null ],
+    [ "OnBeforeAccountDelete", "de/d6a/a10157.html#a631f7deca08644da2613142c667618a8", null ],
+    [ "OnEmailChange", "de/d6a/a10157.html#adf20bd20cdc97b91db664dca95f82670", null ],
+    [ "OnFailedAccountLogin", "de/d6a/a10157.html#aae3401d74bdc9e8328a5f084462ae740", null ],
+    [ "OnFailedEmailChange", "de/d6a/a10157.html#a23261a238db9ddd618ebb6a45aaabcbf", null ],
+    [ "OnFailedPasswordChange", "de/d6a/a10157.html#a45d58c0f669f37b24e3dabf0ac4b2423", null ],
+    [ "OnLastIpUpdate", "de/d6a/a10157.html#a3de6453c132bb3d76b6888b87f988d2d", null ],
+    [ "OnPasswordChange", "de/d6a/a10157.html#aefa30b298f52d7c1a44e7648d088c3f0", null ]
 ];

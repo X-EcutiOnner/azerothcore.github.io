@@ -1,6 +1,6 @@
 var a24305 =
 [
-    [ "spell_gurtogg_bloodboil_SpellScript", "d5/d3b/a24309.html", "d5/d3b/a24309" ],
-    [ "spell_gurtogg_bloodboil", "d1/d22/a24305.html#ade32d06dd037e71916244a924e49fa4c", null ],
-    [ "GetSpellScript", "d1/d22/a24305.html#a3b7de5528a364e25acbdec234f6ccd65", null ]
+    [ "achievement", "d1/d22/a24305.html#abb6071e172abbcbc65020a0ad9554a03", null ],
+    [ "spell", "d1/d22/a24305.html#a740f9162b10d31d1677a4ac4f5926db6", null ],
+    [ "text", "d1/d22/a24305.html#aa92e42bc2c54c3b4b1022d5767fcf10c", null ]
 ];

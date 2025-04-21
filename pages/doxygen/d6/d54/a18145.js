@@ -1,6 +1,7 @@
 var a18145 =
 [
-    [ "spell_igb_explosion_main_AuraScript", "d2/d88/a18149.html", "d2/d88/a18149" ],
-    [ "spell_igb_explosion_main", "d6/d54/a18145.html#a900769f4d9041f100c3f3d2bcb0cb837", null ],
-    [ "GetAuraScript", "d6/d54/a18145.html#a709ce8e73a5258907b9b9f1c466bf8a1", null ]
+    [ "OnPeriodic", "d6/d54/a18145.html#accd12b06341f3168c74cb18926614f7f", null ],
+    [ "OnUpdate", "d6/d54/a18145.html#abd725d08f2ef14cd375b6b94e9c1dcf0", null ],
+    [ "PrepareAuraScript", "d6/d54/a18145.html#aa7dea3d079ae88aafd145ce949a6eb02", null ],
+    [ "Register", "d6/d54/a18145.html#aa4a548a222dd79554e3e4e8f837c1d49", null ]
 ];

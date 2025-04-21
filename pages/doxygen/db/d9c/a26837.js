@@ -1,7 +1,7 @@
 var a26837 =
 [
-    [ "HandleEffectApply", "db/d9c/a26837.html#a2854357f92b1faac6e7840f1576138e0", null ],
-    [ "HandleEffectRemove", "db/d9c/a26837.html#a7960ca4deb4ff61d04ea7fe7ec0f0471", null ],
-    [ "PrepareAuraScript", "db/d9c/a26837.html#a2120cecbca61e4c7380892fe8d43772a", null ],
-    [ "Register", "db/d9c/a26837.html#a98c71c0d4c4b0503e66ed2033946cb2e", null ]
+    [ "OnProc", "db/d9c/a26837.html#a7ab183d734c543be2866c57f1e5cc508", null ],
+    [ "PrepareAuraScript", "db/d9c/a26837.html#a31118cda9f29318f4620caf38c09522a", null ],
+    [ "Register", "db/d9c/a26837.html#ac27f99aafa92ae85a247c6f25ece8c7b", null ],
+    [ "Validate", "db/d9c/a26837.html#aa193bddd2ba9efe70343c5501d737fa4", null ]
 ];

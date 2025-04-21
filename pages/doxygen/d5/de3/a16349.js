@@ -1,6 +1,8 @@
 var a16349 =
 [
-    [ "boss_saviana_ragefireAI", "da/dcf/a16353.html", "da/dcf/a16353" ],
-    [ "boss_saviana_ragefire", "d5/de3/a16349.html#a5964bbc510355a8b1fd08bd5f9f5f8c0", null ],
-    [ "GetAI", "d5/de3/a16349.html#a0a0073d8710af066d9711636f4d5b01e", null ]
+    [ "npc_toc_boomkinAI", "d5/de3/a16349.html#a12c586d57aa6dd3893889f103dbfee20", null ],
+    [ "JustSummoned", "d5/de3/a16349.html#a0d049885773b7f1abd7e03f9200852f4", null ],
+    [ "myCanCast", "d5/de3/a16349.html#a691a0250db77cc4def2bf67b25a1298c", null ],
+    [ "UpdateAI", "d5/de3/a16349.html#a64b0451537c0d27bc01d1c1ec3b5b88d", null ],
+    [ "events", "d5/de3/a16349.html#a0b367855092884b2ce30834e89fced87", null ]
 ];

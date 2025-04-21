@@ -1,6 +1,7 @@
 var a19977 =
 [
-    [ "spell_gluth_decimate_SpellScript", "d6/d64/a19981.html", "d6/d64/a19981" ],
-    [ "spell_gluth_decimate", "d0/d19/a19977.html#a5236e7fe2dcd07287f607437226afd47", null ],
-    [ "GetSpellScript", "d0/d19/a19977.html#a5bf2e062641d7dab612033666dd1db47", null ]
+    [ "boss_freya_lifebinderAI", "d0/d19/a19977.html#ae421aa209690e4a2908995b6b7d322cd", null ],
+    [ "Reset", "d0/d19/a19977.html#a972bd7d390d444e0ea2bc513d5d3816a", null ],
+    [ "UpdateAI", "d0/d19/a19977.html#afb06c217c1012d6463e44689359eada9", null ],
+    [ "_healTimer", "d0/d19/a19977.html#a7021d13dceb9af343f0e820cf086046e", null ]
 ];

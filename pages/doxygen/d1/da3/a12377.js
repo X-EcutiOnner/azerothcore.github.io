@@ -1,6 +1,6 @@
 var a12377 =
 [
-    [ "instance_karazhan_InstanceMapScript", "dd/dea/a12381.html", "dd/dea/a12381" ],
-    [ "instance_karazhan", "d1/da3/a12377.html#a219fa0f5d691c2ae06a45d167c89d419", null ],
-    [ "GetInstanceScript", "d1/da3/a12377.html#a4ce148ba13d0541ad2aaecdd1ed2f3a5", null ]
+    [ "boss_magmadarAI", "d1/da3/a12377.html#a47207fdd6eb94fb08791da06cd4160f6", null ],
+    [ "ExecuteEvent", "d1/da3/a12377.html#a7d4c1807cb320fdc331057209a4ce166", null ],
+    [ "JustEngagedWith", "d1/da3/a12377.html#a5ce1495d01f28e0a38f00127e7137a4f", null ]
 ];

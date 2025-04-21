@@ -1,6 +1,7 @@
 var a22653 =
 [
-    [ "spell_archavon_rock_shards_SpellScript", "da/d56/a22657.html", "da/d56/a22657" ],
-    [ "spell_archavon_rock_shards", "d1/d72/a22653.html#a777b5bb8eb939f331f204cef2781201f", null ],
-    [ "GetSpellScript", "d1/d72/a22653.html#a60a3f5142f2f0d01ef48f5c8c64958f9", null ]
+    [ "npc_blade_of_azzinoth", "d1/d72/a22653.html#a55afe56313c237afe8080662b2ed2dba", null ],
+    [ "DoAction", "d1/d72/a22653.html#a8e746da7672c0177c4b6c91b1e9d2eb5", null ],
+    [ "IsSummonedBy", "d1/d72/a22653.html#af2925da1235b809ee81469fe32ab0f92", null ],
+    [ "JustSummoned", "d1/d72/a22653.html#a501e2d1ae9af813fd9c30395e7774983", null ]
 ];

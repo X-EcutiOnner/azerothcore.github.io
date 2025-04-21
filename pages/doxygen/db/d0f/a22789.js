@@ -1,6 +1,9 @@
 var a22789 =
 [
-    [ "boss_lavanthorAI", "df/dc5/a22793.html", "df/dc5/a22793" ],
-    [ "boss_lavanthor", "db/d0f/a22789.html#aa935ffe07f59db59b9b8484f22927026", null ],
-    [ "GetAI", "db/d0f/a22789.html#aae09ecbe56efac6538bdfb6120e0be40", null ]
+    [ "FilterTargets", "db/d0f/a22789.html#aa8f0401dd004e816b8071381289116fa", null ],
+    [ "HandleTeleportUnits", "db/d0f/a22789.html#a4333f10a29ef3e5643f637899a0ab5c5", null ],
+    [ "PrepareSpellScript", "db/d0f/a22789.html#a47898c213cdd125714c80d327bf42d8c", null ],
+    [ "Register", "db/d0f/a22789.html#a6036577cd7b4fbbc55e90e9ab067f13a", null ],
+    [ "SetDest", "db/d0f/a22789.html#a4cf75d96a0d1de62bc989826204b04c9", null ],
+    [ "Validate", "db/d0f/a22789.html#a814083360970284a325621f45e109b5b", null ]
 ];

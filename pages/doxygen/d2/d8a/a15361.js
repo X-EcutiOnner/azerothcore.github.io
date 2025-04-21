@@ -1,6 +1,7 @@
 var a15361 =
 [
-    [ "npc_injured_draeneiAI", "de/d58/a15365.html", "de/d58/a15365" ],
-    [ "npc_injured_draenei", "d2/d8a/a15361.html#a660c0f0c4ed41d70ad0a50cde25c1d14", null ],
-    [ "GetAI", "d2/d8a/a15361.html#a753bd4a5bb1ddc9feb540a3bedc7d7bb", null ]
+    [ "HandleDummy", "d2/d8a/a15361.html#a30a87266b89021caf7d05c45397f70d1", null ],
+    [ "PrepareSpellScript", "d2/d8a/a15361.html#a43a92b346088d710719722e8feed9634", null ],
+    [ "Register", "d2/d8a/a15361.html#ad7a53cc6a24197c050ed8577f6c6cc12", null ],
+    [ "Validate", "d2/d8a/a15361.html#a8b5097b623adbc1d8a10d7b1c4c248ab", null ]
 ];

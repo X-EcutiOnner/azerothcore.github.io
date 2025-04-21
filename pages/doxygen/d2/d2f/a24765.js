@@ -1,6 +1,7 @@
 var a24765 =
 [
-    [ "spell_black_temple_wyvern_sting_AuraScript", "d3/d79/a24769.html", "d3/d79/a24769" ],
-    [ "spell_black_temple_wyvern_sting", "d2/d2f/a24765.html#aa0f34f9a399ecfcab30daf5e53145db1", null ],
-    [ "GetAuraScript", "d2/d2f/a24765.html#ab243fab46d7af73604b012701f1dd0d3", null ]
+    [ "CheckRequirement", "d2/d2f/a24765.html#a6be5f335a15226db87a04548490f488d", null ],
+    [ "PrepareSpellScript", "d2/d2f/a24765.html#a25463eda0ce51a124e8715baf305c8f6", null ],
+    [ "Register", "d2/d2f/a24765.html#a8db5a5597d8f6fe4064799766fb61502", null ],
+    [ "_level", "d2/d2f/a24765.html#a3d6867e8eae9afde2b03acc2e6ebe961", null ]
 ];

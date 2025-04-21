@@ -1,6 +1,8 @@
 var a24981 =
 [
-    [ "instance_serpentshrine_cavern_InstanceMapScript", "d0/d2f/a24985.html", "d0/d2f/a24985" ],
-    [ "instance_serpent_shrine", "d6/db7/a24981.html#aac4fc7113307805138ba4ce4a9adff09", null ],
-    [ "GetInstanceScript", "d6/db7/a24981.html#aa81add2f4aeb8b2084bcc81c05b606c7", null ]
+    [ "CheckRequirement", "d6/db7/a24981.html#ad967ae7e2affa312fa4adbca6e86dd7c", null ],
+    [ "HandleScript", "d6/db7/a24981.html#aa89b60b2d757ef1ceacebae38aa5d9d9", null ],
+    [ "Load", "d6/db7/a24981.html#a9dfb5501ad6324a25966af44f233b5fb", null ],
+    [ "PrepareSpellScript", "d6/db7/a24981.html#ace75db8a6e5628df6e2edba91cd2852f", null ],
+    [ "Register", "d6/db7/a24981.html#a89d053e0ee793017c74188aac32d99d5", null ]
 ];

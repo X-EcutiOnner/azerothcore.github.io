@@ -1,6 +1,9 @@
 var a10349 =
 [
-    [ "GuildBankLogQuery", "d0/d6d/a10349.html#ab094e91a48d0259b4247157b92997bb2", null ],
-    [ "Read", "d0/d6d/a10349.html#a5eed269e9285a33ffc61fcfa7d639083", null ],
-    [ "Tab", "d0/d6d/a10349.html#ae966e3ac144b86e20f65b742ff3be9e3", null ]
+    [ "TransportScript", "d0/d6d/a10349.html#a4b83123b122fa98831d304670a3de50a", null ],
+    [ "IsDatabaseBound", "d0/d6d/a10349.html#a956f0d757e5d974566fa8fac0df731e5", null ],
+    [ "OnAddCreaturePassenger", "d0/d6d/a10349.html#a5afb1f1dca2264089238ddd68b38a86d", null ],
+    [ "OnAddPassenger", "d0/d6d/a10349.html#a806f4829b47429900271f6dde7eaa625", null ],
+    [ "OnRelocate", "d0/d6d/a10349.html#a10334c1929c80fc80c76791cbd52f6dd", null ],
+    [ "OnRemovePassenger", "d0/d6d/a10349.html#a6d6a3af4fcde46101b78cfdb787a2248", null ]
 ];

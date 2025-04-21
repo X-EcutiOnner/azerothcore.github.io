@@ -1,6 +1,11 @@
 var a28689 =
 [
-    [ "HandleEffectCalcSpellMod", "d3/d57/a28689.html#a38c2a5daeda4b366518026638e6a8e1b", null ],
-    [ "PrepareAuraScript", "d3/d57/a28689.html#a767c3c52e917b56dbf2368b5dbbf1610", null ],
-    [ "Register", "d3/d57/a28689.html#af60592a9f1e595f31814eae405d03d5a", null ]
+    [ "material", "d3/d57/a28689.html#a7079e8817a9684602084eb224f2540fc", null ],
+    [ "pos_x", "d3/d57/a28689.html#ac4d971cc46506be14716124afbb5ad9c", null ],
+    [ "pos_y", "d3/d57/a28689.html#a6cd85f2a674d732e88371ffce5e46077", null ],
+    [ "pos_z", "d3/d57/a28689.html#a183ec8ec2d8d30726494c6b3d3b8606a", null ],
+    [ "xtiles", "d3/d57/a28689.html#aca34dfa64624cfe04c314c13bbed0062", null ],
+    [ "xverts", "d3/d57/a28689.html#aa5ad7ff660f7f0b5ddfd2d186496d928", null ],
+    [ "ytiles", "d3/d57/a28689.html#a9901a7e9828ac840bc290b0768831d66", null ],
+    [ "yverts", "d3/d57/a28689.html#abf24042b85692cd0df05d65d734dd99e", null ]
 ];

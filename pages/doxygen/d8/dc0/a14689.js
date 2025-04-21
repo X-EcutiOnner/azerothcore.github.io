@@ -1,6 +1,7 @@
 var a14689 =
 [
-    [ "npc_fel_stalkerAI", "d4/d06/a14693.html", "d4/d06/a14693" ],
-    [ "npc_fel_stalker", "d8/dc0/a14689.html#af761ceff017a17061c22b61ef0fe4a6d", null ],
-    [ "GetAI", "d8/dc0/a14689.html#a4b49f284f8f9b20843d2841bd8e8b7a8", null ]
+    [ "boss_epoch_hunter", "d8/dc0/a14689.html#a652d14ebfced39b8164687a713780600", null ],
+    [ "JustDied", "d8/dc0/a14689.html#a38d3cbed2ce8f810fd169e0004fd91dc", null ],
+    [ "JustEngagedWith", "d8/dc0/a14689.html#a2571f98f36d1271f3911617e0fdfba54", null ],
+    [ "KilledUnit", "d8/dc0/a14689.html#a61456e680e9108dd841e83d97536ef1b", null ]
 ];

@@ -1,9 +1,5 @@
 var a19749 =
 [
-    [ "npc_icc_skybreaker_luminaryAI", "d8/d2a/a19749.html#a91868021309239f5582bb7ee89baec13", null ],
-    [ "AttackStart", "d8/d2a/a19749.html#acf8d1eaebdc68cb53866155d8aad6e48", null ],
-    [ "JustEngagedWith", "d8/d2a/a19749.html#a12927240144022174e3d190be6b34976", null ],
-    [ "Reset", "d8/d2a/a19749.html#ac925b84b81ec1d1e118f3e62edfbdd15", null ],
-    [ "UpdateAI", "d8/d2a/a19749.html#a969a36e147006971a93711349f90c193", null ],
-    [ "events", "d8/d2a/a19749.html#a8521aef674b9a295c27f7e5725af4ffe", null ]
+    [ "achievement_auriaya_nine_lives", "d8/d2a/a19749.html#a750304bc946a7ecefec29dc18c429d3b", null ],
+    [ "OnCheck", "d8/d2a/a19749.html#ae1b7ee75a3e7343c3f5f8043b4e39362", null ]
 ];

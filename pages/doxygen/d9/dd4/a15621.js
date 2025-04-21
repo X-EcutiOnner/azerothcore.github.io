@@ -1,6 +1,12 @@
 var a15621 =
 [
-    [ "npc_anachronos_the_ancientAI", "dc/d5c/a15625.html", "dc/d5c/a15625" ],
-    [ "npc_anachronos_the_ancient", "d9/dd4/a15621.html#a720884359886e6f881190471005f4cfc", null ],
-    [ "GetAI", "d9/dd4/a15621.html#a345c801231907d98f2ab2425b1d35cbc", null ]
+    [ "DialogueHelper", "d9/dd4/a15621.html#a3566655e8781bf5f9dff514fcd659421", null ],
+    [ "DialogueUpdate", "d9/dd4/a15621.html#aaac3463d91a0cdbe2622b4fd85b34ed0", null ],
+    [ "DoNextDialogueStep", "d9/dd4/a15621.html#a6e23a56ba5c5e4d4ab3b4c6be5cb09af", null ],
+    [ "GetSpeakerByEntry", "d9/dd4/a15621.html#a50e652ca2cff035d8c79517fdbcfc67a", null ],
+    [ "JustDidDialogueStep", "d9/dd4/a15621.html#a79e80634f1780895669f5c810958fd4f", null ],
+    [ "StartNextDialogueText", "d9/dd4/a15621.html#ac16b8b9b50e8b35980d21f161bf33340", null ],
+    [ "_actionTimer", "d9/dd4/a15621.html#a33b8551c136bcbc896b29d935c155a75", null ],
+    [ "_currentEntry", "d9/dd4/a15621.html#a89ca5e8d25372bd8ab32322a0a9999f2", null ],
+    [ "_dialogueArray", "d9/dd4/a15621.html#a489b8cd1c75ced0ec8e34b8051899dd7", null ]
 ];

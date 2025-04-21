@@ -1,6 +1,7 @@
 var a26029 =
 [
-    [ "npc_shattrathflaskvendors", "d6/dca/a26029.html#ab74b234406c2022bf519242a7842458a", null ],
-    [ "OnGossipHello", "d6/dca/a26029.html#af165d6f4640b41a92b36d77c1f1c1161", null ],
-    [ "OnGossipSelect", "d6/dca/a26029.html#ad9eb60422dfc663e6d020a630c09ee05", null ]
+    [ "HandleScriptEffect", "d6/dca/a26029.html#a6c1ac025fa93caa08737387a18003612", null ],
+    [ "PrepareSpellScript", "d6/dca/a26029.html#acb5ad05212399b06ed9bb64bb9203069", null ],
+    [ "Register", "d6/dca/a26029.html#afbf989d514c308f466ecfd9957d2d177", null ],
+    [ "Validate", "d6/dca/a26029.html#a2f48b1903edef1a5bb8beeddc8879aa4", null ]
 ];

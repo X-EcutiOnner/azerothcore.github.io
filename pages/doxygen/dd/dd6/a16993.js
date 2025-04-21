@@ -1,6 +1,6 @@
 var a16993 =
 [
-    [ "HandleScriptEffect", "dd/dd6/a16993.html#a8cd52966303f937fd5e6d6557bb41655", null ],
-    [ "PrepareSpellScript", "dd/dd6/a16993.html#a9f5f01b2d47a32de620b3e04b36b6eb7", null ],
-    [ "Register", "dd/dd6/a16993.html#aa25db7ff3db04b06c48417c6f4665526", null ]
+    [ "npc_pos_freed_slaveAI", "d2/d61/a16997.html", "d2/d61/a16997" ],
+    [ "npc_pos_freed_slave", "dd/dd6/a16993.html#a19fd79279646cb1c49c04056636615fc", null ],
+    [ "GetAI", "dd/dd6/a16993.html#ac798c2584d48892162cc2bc779701e16", null ]
 ];

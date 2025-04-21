@@ -1,6 +1,10 @@
 var a15437 =
 [
-    [ "npc_rabid_thistle_bearAI", "d4/d0f/a15441.html", "d4/d0f/a15441" ],
-    [ "npc_rabid_thistle_bear", "d6/d51/a15437.html#a34b20a4ea22d74352712dee105247d56", null ],
-    [ "GetAI", "d6/d51/a15437.html#ab5c21cd3afa0bd13c937e6acf1912af4", null ]
+    [ "CreatureId", "d6/d51/a15437.html#a09f696e37f96e7da259fc026a7c4fd83", null ],
+    [ "DespTimer", "d6/d51/a15437.html#a0dfec745982b346ac1cd0af672be31fb", null ],
+    [ "SpawnCount", "d6/d51/a15437.html#ad5347ee83eaa00fe0721279099c48433", null ],
+    [ "SpawnTimer", "d6/d51/a15437.html#ab1720ffe0aeeb5669ab49fc32cb24750", null ],
+    [ "UsedSpawnPoint", "d6/d51/a15437.html#a7db57df5da62ebb3b52ecd70ec3d45f2", null ],
+    [ "WaveTextId", "d6/d51/a15437.html#a0a9807e31c2d5c769bc0a020941b234c", null ],
+    [ "YellTimer", "d6/d51/a15437.html#ac3f9997775f34babc79d4321fd1a6d6d", null ]
 ];

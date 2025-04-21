@@ -1,9 +1,8 @@
 var a20861 =
 [
-    [ "CheckTargets", "d2/daf/a20861.html#a11bb71bcb73938c76bcd436f99263680", null ],
-    [ "CountTargets", "d2/daf/a20861.html#a9e75d0238debec79126c3427670be4b7", null ],
-    [ "Load", "d2/daf/a20861.html#a88ef4ef7569236c2cf4f8fb91ecbf7e7", null ],
-    [ "PrepareSpellScript", "d2/daf/a20861.html#a90393b22fae00168e25d900fadf55674", null ],
-    [ "Register", "d2/daf/a20861.html#a916c28c397e68e08f77733bf6726fd72", null ],
-    [ "_targetCount", "d2/daf/a20861.html#af839a5ff12000a0979fa7b7caa72fa14", null ]
+    [ "FilterTargets", "d2/daf/a20861.html#a45d300e8cb6fbc499345b3bb2fb0d34f", null ],
+    [ "HandleDummyEffect", "d2/daf/a20861.html#ab1f662fa107d176386067ffc6467d90f", null ],
+    [ "PrepareSpellScript", "d2/daf/a20861.html#a069cc54bf009830ad781c790b4fcedad", null ],
+    [ "Register", "d2/daf/a20861.html#ac91532151b689bde35d7120b1e9aec5b", null ],
+    [ "Validate", "d2/daf/a20861.html#ad225dcdb1325a855f1909a8c66ca577b", null ]
 ];

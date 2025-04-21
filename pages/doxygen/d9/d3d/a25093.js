@@ -1,12 +1,7 @@
 var a25093 =
 [
-    [ "boss_swamplord_muselek", "d9/d3d/a25093.html#a94ca982b8b9c1785a59040d23e72fc0e", null ],
-    [ "AttackStart", "d9/d3d/a25093.html#a0732fdf14c972ae955eb43417a6d86a1", null ],
-    [ "CanShootVictim", "d9/d3d/a25093.html#af84af5e4b344fc5f5da9f2047519710a", null ],
-    [ "JustDied", "d9/d3d/a25093.html#a4020748c43bf03cb338e3d64a1dfd840", null ],
-    [ "JustEngagedWith", "d9/d3d/a25093.html#a7b22bff5b78dcd1e5e1cc42858735655", null ],
-    [ "KilledUnit", "d9/d3d/a25093.html#a9f2afd6aacb9befa956079a42fbace37", null ],
-    [ "Reset", "d9/d3d/a25093.html#a6e03d7feca2de668c82d8f056d95fc6a", null ],
-    [ "_canChase", "d9/d3d/a25093.html#aca3298f0e9bbbd7366f4e6456cfff621", null ],
-    [ "_markTarget", "d9/d3d/a25093.html#a957d3f9ad935dbfa0537c75e39316ce3", null ]
+    [ "HandleDummy", "d9/d3d/a25093.html#a9037eddf4c9ce96c15c57e8906bd9a5f", null ],
+    [ "Load", "d9/d3d/a25093.html#a738318535196b3d55e8f1b3da4f76c95", null ],
+    [ "PrepareSpellScript", "d9/d3d/a25093.html#a941a097124ed9b4917faa18ff23fc366", null ],
+    [ "Register", "d9/d3d/a25093.html#aaf9d269e7d052515f31b463999e92cf4", null ]
 ];

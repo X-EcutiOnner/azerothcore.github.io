@@ -1,6 +1,6 @@
 var a23097 =
 [
-    [ "npc_leryssaAI", "de/dc8/a23101.html", "de/dc8/a23101" ],
-    [ "npc_leryssa", "d6/d5f/a23097.html#a549bed4476f88c313e6b42c0fe1fffb8", null ],
-    [ "GetAI", "d6/d5f/a23097.html#a4725831580b206d91dbd8c21a703893f", null ]
+    [ "HandleScriptEffect", "d6/d5f/a23097.html#a18fb2e73a00f1de7c62049eadfcbc658", null ],
+    [ "PrepareSpellScript", "d6/d5f/a23097.html#ae80b4ca96692035c399d1621b632fe66", null ],
+    [ "Register", "d6/d5f/a23097.html#ac655157c74104a51f045e114fc63a42d", null ]
 ];

@@ -1,6 +1,7 @@
 var a17357 =
 [
-    [ "npc_pos_leaderAI", "d6/da0/a17361.html", "d6/da0/a17361" ],
-    [ "npc_pos_leader", "d9/df6/a17357.html#a690956ba5c822f4cbea9c27c95d5924c", null ],
-    [ "GetAI", "d9/df6/a17357.html#a0c0b85bef0b04989dc80d861fa70f463", null ]
+    [ "HandleDummy", "d9/df6/a17357.html#a89c0706f21fe92fd443c3638181044ec", null ],
+    [ "PrepareSpellScript", "d9/df6/a17357.html#a957e29d2458fd90228ef9c53e997c642", null ],
+    [ "Register", "d9/df6/a17357.html#a250c95310503cd59d73e45a9b9372268", null ],
+    [ "Validate", "d9/df6/a17357.html#a1c67a262eb95def51661919a3bad3437", null ]
 ];

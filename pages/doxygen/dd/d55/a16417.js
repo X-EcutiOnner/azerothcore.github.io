@@ -1,15 +1,16 @@
 var a16417 =
 [
-    [ "npc_argent_soldierAI", "dd/d55/a16417.html#abbfbb5a1e116c6deb3db23f12ff8994f", null ],
-    [ "DamageTaken", "dd/d55/a16417.html#afb48cc1c2e254c292c33eade74b6fad7", null ],
-    [ "JustDied", "dd/d55/a16417.html#aedf4dcd909c1009fedfde593522454ec", null ],
-    [ "JustEngagedWith", "dd/d55/a16417.html#a0aa59fdf0668d64f3b670c595579ba81", null ],
-    [ "Reset", "dd/d55/a16417.html#a1a0c00c09c348f746730c9743d4b7b6b", null ],
-    [ "SetData", "dd/d55/a16417.html#a20b62b48f5cf92106fcd1860d9e91956", null ],
-    [ "UpdateAI", "dd/d55/a16417.html#aed2921c1f6bc0507bf9e6f02f224ab44", null ],
-    [ "WaypointReached", "dd/d55/a16417.html#af70fb91477dbeaa7e6e409f3381f0770", null ],
-    [ "bCheck", "dd/d55/a16417.html#af570597c33add7ac5ebf3d01e8c9b2df", null ],
-    [ "events", "dd/d55/a16417.html#ac458fc9a331dc7edfdc764215b1926e8", null ],
-    [ "pInstance", "dd/d55/a16417.html#ac9951514f27f343ae96e856f484e7baf", null ],
-    [ "uiWaypoint", "dd/d55/a16417.html#a87382571221c608017fd2d4cb99193dc", null ]
+    [ "boss_jaraxxusAI", "dd/d55/a16417.html#af05dd6ee301cfe4fdfbc511b07f21b48", null ],
+    [ "EnterEvadeMode", "dd/d55/a16417.html#a45fc8cbc3b1e59be8f13f1ebae73bfa1", null ],
+    [ "JustDied", "dd/d55/a16417.html#a5fce156ec839c4799e3585e9674636c1", null ],
+    [ "JustEngagedWith", "dd/d55/a16417.html#a59f21f25fbe83c9710ac6377753ce8d3", null ],
+    [ "JustReachedHome", "dd/d55/a16417.html#a5961b5563c1d140f31a348a1ea8dc4ba", null ],
+    [ "JustSummoned", "dd/d55/a16417.html#a6efea02e03c4d7e97c357afbc320b5bf", null ],
+    [ "MoveInLineOfSight", "dd/d55/a16417.html#aee8b894518e9091f4e52c4048562d08a", null ],
+    [ "Reset", "dd/d55/a16417.html#ad4a2bce95988f030387d74b5cf90f223", null ],
+    [ "SpellHit", "dd/d55/a16417.html#a5103f7808134a67f06af4be1d848aa91", null ],
+    [ "UpdateAI", "dd/d55/a16417.html#a5e733b9e5b63801a1ca2778e58fedb61", null ],
+    [ "events", "dd/d55/a16417.html#a6aff4c78989d99d49d697e9900375e28", null ],
+    [ "pInstance", "dd/d55/a16417.html#aa9d9cb25b827c48e1fd5cd8e75ac92a0", null ],
+    [ "summons", "dd/d55/a16417.html#abeddfd1bb9b5391da578f794d6c618b7", null ]
 ];

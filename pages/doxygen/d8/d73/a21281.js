@@ -1,7 +1,6 @@
 var a21281 =
 [
-    [ "boss_freya_healthy_sporeAI", "d8/d73/a21281.html#a1f72bc2b113f3b909d44fd54fff87e31", null ],
-    [ "Reset", "d8/d73/a21281.html#ad6d6562b5cc9f8232bdda99ec2204052", null ],
-    [ "UpdateAI", "d8/d73/a21281.html#ace79c59d62e597ae31425b4006e1363f", null ],
-    [ "_despawnTimer", "d8/d73/a21281.html#aaf65ef07480e5c634cc42dac0c7c734c", null ]
+    [ "npc_vh_void_sentryAI", "d1/d59/a21285.html", "d1/d59/a21285" ],
+    [ "npc_vh_void_sentry", "d8/d73/a21281.html#a6d4995d112a3fe6b59c3c3c417d98c45", null ],
+    [ "GetAI", "d8/d73/a21281.html#ab3bcb8f8e9084e2ab588f80929a5d5ce", null ]
 ];

@@ -1,6 +1,5 @@
 var a19713 =
 [
-    [ "spell_icc_shattered_bones_SpellScript", "de/d23/a19717.html", "de/d23/a19717" ],
-    [ "spell_icc_shattered_bones", "d1/dc9/a19713.html#a99a48b82a1753d8923ae0ae76a1eea58", null ],
-    [ "GetSpellScript", "d1/dc9/a19713.html#af7d897c510d318d43fe4443222931980", null ]
+    [ "achievement_cant_do_that_while_stunned", "d1/dc9/a19713.html#a4d474b36f61631688ea723d2e4033574", null ],
+    [ "OnCheck", "d1/dc9/a19713.html#a0b108bdcab0bc412975e61247f226bf8", null ]
 ];

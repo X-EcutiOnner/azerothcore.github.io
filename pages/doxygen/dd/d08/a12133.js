@@ -1,6 +1,9 @@
 var a12133 =
 [
-    [ "boss_sulfuronAI", "d1/d9f/a12137.html", "d1/d9f/a12137" ],
-    [ "boss_sulfuron", "dd/d08/a12133.html#aed72791db02009136592b905cc4f4df3", null ],
-    [ "GetAI", "dd/d08/a12133.html#aced001845e4a9bb9f517d45a36f474c7", null ]
+    [ "npc_vaelastrasz_the_redAI", "dd/d08/a12133.html#aa800617f887a21d8a61cac099c86faed", null ],
+    [ "IsSummonedBy", "dd/d08/a12133.html#ab0eb414e7c9385e4831c4fbc6ba1de49", null ],
+    [ "UpdateAI", "dd/d08/a12133.html#a4dd74c81dc67291ed04861cf542b0d24", null ],
+    [ "_combatEnabled", "dd/d08/a12133.html#ae82e9f70dbfd6a4a75206d358de4504e", null ],
+    [ "_events2", "dd/d08/a12133.html#aa31a968cb89f2c4bb4fde836fd600ab9", null ],
+    [ "_victorGUID", "dd/d08/a12133.html#a8a4af969b8d340d5492f89499e3e90c2", null ]
 ];

@@ -1,7 +1,8 @@
 var a26133 =
 [
-    [ "go_skull_pile", "d5/dd6/a26133.html#a9cf8dfef432c4967c60f66e645585770", null ],
-    [ "OnGossipHello", "d5/dd6/a26133.html#ac95d39ea03e78fee2a10603d8c7f8840", null ],
-    [ "OnGossipSelect", "d5/dd6/a26133.html#afb8e8db2705355e975fa48c98e09f20b", null ],
-    [ "SendActionMenu", "d5/dd6/a26133.html#a9287eb499a93b8095a92bd2d7e8cb597", null ]
+    [ "CalculateAmount", "d5/dd6/a26133.html#aa1810db9a7b8fbc3572621ff35e0eeb1", null ],
+    [ "PrepareAuraScript", "d5/dd6/a26133.html#ad40d44271840b8e2bd1dc22b6a04290e", null ],
+    [ "ReflectDamage", "d5/dd6/a26133.html#ad8b5f9a7952fc33d7e1fee28e4872212", null ],
+    [ "Register", "d5/dd6/a26133.html#a18b19ee8823e2d1747caeefaf457ad8d", null ],
+    [ "Validate", "d5/dd6/a26133.html#af2936ba4a29fc8735a3cabe805c77355", null ]
 ];

@@ -1,7 +1,7 @@
 var a02993 =
 [
-    [ "boss_grizzle", "d0/d8d/a11874.html", "d0/d8d/a11874" ],
-    [ "boss_grizzle::boss_grizzleAI", "da/d27/a11878.html", "da/d27/a11878" ],
+    [ "boss_grizzle", "dc/d24/a11877.html", "dc/d24/a11877" ],
+    [ "boss_grizzle::boss_grizzleAI", "dc/d4d/a11881.html", "dc/d4d/a11881" ],
     [ "Grizzle", "d6/d58/a02993.html#acfff5d4b983e4db1d5efb6bd5da7e7aa", [
       [ "SPELL_GROUNDTREMOR", "d6/d58/a02993.html#acfff5d4b983e4db1d5efb6bd5da7e7aaa4426ae7fabf4ddb0d8355b0049b5a6bb", null ],
       [ "SPELL_FRENZY", "d6/d58/a02993.html#acfff5d4b983e4db1d5efb6bd5da7e7aaab54f261ba282273bed875abe6642a293", null ],

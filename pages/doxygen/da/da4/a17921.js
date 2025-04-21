@@ -1,7 +1,7 @@
 var a17921 =
 [
-    [ "Load", "da/da4/a17921.html#ac5166beda0b7773af95b745d962de5b5", null ],
-    [ "PrepareAuraScript", "da/da4/a17921.html#a5fbf823a98a081adcbc0bf50abef3a53", null ],
-    [ "RecalculateHook", "da/da4/a17921.html#a70d2874c599f6d0ce088a633928ee908", null ],
-    [ "Register", "da/da4/a17921.html#a83f88b0aa326667b7c1f28c50c3d88d5", null ]
+    [ "IceTombSummonEvent", "da/da4/a17921.html#a2ead0e5f6eb0c32f5c11f38e667b65d3", null ],
+    [ "Execute", "da/da4/a17921.html#aa708b67e60ba0b4fe2334c43aaaca5c7", null ],
+    [ "_owner", "da/da4/a17921.html#a1b95617b511dfa7868c59dbdf7e6c4c7", null ],
+    [ "_sindragosaGUID", "da/da4/a17921.html#abe61867b29cd4fe3d02268f18b3618ee", null ]
 ];

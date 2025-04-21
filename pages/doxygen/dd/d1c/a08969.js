@@ -1,10 +1,6 @@
 var a08969 =
 [
-    [ "AnyAoETargetUnitInObjectRangeCheck", "dd/d1c/a08969.html#a93d850e2d5f094b97ca5c09bf1d236a9", null ],
-    [ "operator()", "dd/d1c/a08969.html#af9a0c32593544a73aae22cd397eef63a", null ],
-    [ "_spellInfo", "dd/d1c/a08969.html#a1317c9df0d5792ad3122ff1ed1a31458", null ],
-    [ "i_funit", "dd/d1c/a08969.html#aa00b184a24ea73293114f92126f58f24", null ],
-    [ "i_obj", "dd/d1c/a08969.html#aa4acf0089c978408e30b08d539f2512f", null ],
-    [ "i_range", "dd/d1c/a08969.html#ad386efa8206906fd99816694a6a8d69b", null ],
-    [ "i_targetForPlayer", "dd/d1c/a08969.html#af5ce329f3493b97f59c61c3e87af48b1", null ]
+    [ "faction", "dd/d1c/a08969.html#aaad6e04ef66264f040ddd91ae7f4e04b", null ],
+    [ "faction_rank", "dd/d1c/a08969.html#a1ffb9cddf950edfb17e9779691b09f07", null ],
+    [ "faction_rate", "dd/d1c/a08969.html#ab86cdfcd03a47f0c48e0661c5e9c8fd4", null ]
 ];

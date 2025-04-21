@@ -1,6 +1,5 @@
 var a28005 =
 [
-    [ "HandleScriptEffect", "dc/db1/a28005.html#a8b60ae77f13045a582548fe5d1186d54", null ],
-    [ "PrepareSpellScript", "dc/db1/a28005.html#ad68619783c4a1aad5a24826bf5d89858", null ],
-    [ "Register", "dc/db1/a28005.html#a929c49d6dd30b6a0dedfbc23c877eb36", null ]
+    [ "Id", "dc/db1/a28005.html#a79e4b857b811a044aed0ce33422df801", null ],
+    [ "quality_mod", "dc/db1/a28005.html#a756e7b316cc365f15f24e5e4637303a6", null ]
 ];

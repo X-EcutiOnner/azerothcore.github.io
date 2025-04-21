@@ -1,6 +1,6 @@
 var a23485 =
 [
-    [ "spell_z_check_AuraScript", "d5/d2a/a23489.html", "d5/d2a/a23489" ],
-    [ "spell_z_check", "de/d72/a23485.html#a7b1db80530bec8666a67536d4d30226c", null ],
-    [ "GetAuraScript", "de/d72/a23485.html#a0b6501eab91f2e823a9893da12335d76", null ]
+    [ "instance_hellfire_ramparts_InstanceMapScript", "d5/d2a/a23489.html", "d5/d2a/a23489" ],
+    [ "instance_hellfire_ramparts", "de/d72/a23485.html#ab6ee671123dd0d736e9745e45e04b8da", null ],
+    [ "GetInstanceScript", "de/d72/a23485.html#a6f2dc361984b33c1d14d62d67a563e8d", null ]
 ];

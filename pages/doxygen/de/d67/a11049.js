@@ -1,7 +1,12 @@
 var a11049 =
 [
-    [ "PlayerGuid", "de/d67/a11049.html#a629a600c48376d04293c225390f747ff", null ],
-    [ "PrimaryKey", "de/d67/a11049.html#a7c1ef4d19fb49e5813868ff2ccfe12fc", null ],
-    [ "StoredType", "de/d67/a11049.html#a9bea7cf549813010b55c23417d65edc6", null ],
-    [ "TableName", "de/d67/a11049.html#a0f308af88812c110c490c94368bda482", null ]
+    [ "SpellDestination", "de/d67/a11049.html#aa91f31101de3139b2e2d2976dac94686", null ],
+    [ "SpellDestination", "de/d67/a11049.html#aa27cefe3e93fedd557174a3cc8f49fe1", null ],
+    [ "SpellDestination", "de/d67/a11049.html#a12f65757f20436b02b7aa00bb1682c8e", null ],
+    [ "SpellDestination", "de/d67/a11049.html#a7b8949fa80249aee8bebc56620ec746c", null ],
+    [ "Relocate", "de/d67/a11049.html#ab565861d5013130639013e3c4d22d712", null ],
+    [ "RelocateOffset", "de/d67/a11049.html#a0bf1d731787bfed47b593d8cb4943f2a", null ],
+    [ "_position", "de/d67/a11049.html#a6c4587b85e295d86f3479e4feeb662e5", null ],
+    [ "_transportGUID", "de/d67/a11049.html#ad3456cf591eb32a5dd390ffbb7b27387", null ],
+    [ "_transportOffset", "de/d67/a11049.html#a52f0f9f741985bb4d78289145fe66ba0", null ]
 ];

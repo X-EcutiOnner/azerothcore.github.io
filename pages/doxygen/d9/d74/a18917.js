@@ -1,7 +1,6 @@
 var a18917 =
 [
-    [ "StartMovementEvent", "d9/d74/a18917.html#a4f0fd5e835f742c876f37f31bf03c56f", null ],
-    [ "Execute", "d9/d74/a18917.html#af1a043d953bcffe9341292e85cae2f55", null ],
-    [ "_owner", "d9/d74/a18917.html#ac2f4166af128a161c471b243144856ba", null ],
-    [ "_summoner", "d9/d74/a18917.html#afe1f7bcb3569758bc075380a24527067", null ]
+    [ "npc_gothik_triggerAI", "da/d86/a18921.html", "da/d86/a18921" ],
+    [ "npc_gothik_trigger", "d9/d74/a18917.html#a6975122d49b0d76fb2b33b310a7ccb71", null ],
+    [ "GetAI", "d9/d74/a18917.html#a9b3b47e95d2c41c109a9ccd3915b89ff", null ]
 ];

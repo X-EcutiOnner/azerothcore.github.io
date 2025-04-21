@@ -1,6 +1,7 @@
 var a20261 =
 [
-    [ "npc_hover_diskAI", "d7/d1f/a20265.html", "d7/d1f/a20265" ],
-    [ "npc_hover_disk", "d4/dc5/a20261.html#af0ab534387a2af4e168915801ee855e5", null ],
-    [ "GetAI", "d4/dc5/a20261.html#adbe9285126089ca998e9b6360f42c553", null ]
+    [ "FilterTargetsInitial", "d4/dc5/a20261.html#a5632307d9a1a89d530a63e71c8abad1c", null ],
+    [ "Load", "d4/dc5/a20261.html#a5467818535c6c7239e185d7c6c3bbd27", null ],
+    [ "PrepareSpellScript", "d4/dc5/a20261.html#a4d1e588557fa3fa432d4015fda930877", null ],
+    [ "Register", "d4/dc5/a20261.html#a0428375ddb89907e7f1728757d55d052", null ]
 ];

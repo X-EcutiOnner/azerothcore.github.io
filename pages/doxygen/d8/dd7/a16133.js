@@ -1,6 +1,9 @@
 var a16133 =
 [
-    [ "spell_baltharus_enervating_brand_trigger_SpellScript", "d8/d5e/a16137.html", "d8/d5e/a16137" ],
-    [ "spell_baltharus_enervating_brand_trigger", "d8/dd7/a16133.html#a710babc09feeab1d93fd95cc64aa3bc9", null ],
-    [ "GetSpellScript", "d8/dd7/a16133.html#af8127eed9df58ae6a8f10619ea0f0ae9", null ]
+    [ "npc_memoryAI", "d8/dd7/a16133.html#ad927d377d60b44f43808469042f5feb9", null ],
+    [ "JustDied", "d8/dd7/a16133.html#a7b0484919d671877f29dfa05ca1265d9", null ],
+    [ "Reset", "d8/dd7/a16133.html#a985c51bbfa2cceeb7601432491253aaf", null ],
+    [ "UpdateAI", "d8/dd7/a16133.html#a6cb74389f5aea91d2062e007ea08acd7", null ],
+    [ "events", "d8/dd7/a16133.html#a2ed2993e89728a3723456a67e13581f7", null ],
+    [ "pInstance", "d8/dd7/a16133.html#a31bcb5041844ea5e3a076ad1366897e1", null ]
 ];

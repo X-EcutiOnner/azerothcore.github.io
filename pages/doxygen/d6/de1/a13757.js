@@ -1,7 +1,7 @@
 var a13757 =
 [
-    [ "boss_fenstalkerAI", "d6/de1/a13757.html#a971234c97e2769a2fbf36b7a954198df", null ],
-    [ "Reset", "d6/de1/a13757.html#a91865286d096bcd5bc89a2b69addb422", null ],
-    [ "UpdateAI", "d6/de1/a13757.html#a6f1f861ff540f54eb99a30909feb922b", null ],
-    [ "volatileinf_timer", "d6/de1/a13757.html#ae18ae9cf7bcaff73bb341593b8d8b816", null ]
+    [ "OnPeriodic", "d6/de1/a13757.html#aa541a8bc034517d1f5d034ac51bd8dac", null ],
+    [ "PrepareAuraScript", "d6/de1/a13757.html#abc166e4dc33e7bffd1d53c2ef8272efa", null ],
+    [ "Register", "d6/de1/a13757.html#a60313d4ba992b1dc81e7cdae942f1b3d", null ],
+    [ "Validate", "d6/de1/a13757.html#a7ed214de6769314a45540e9afdb82949", null ]
 ];

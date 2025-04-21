@@ -1,6 +1,7 @@
 var a13365 =
 [
-    [ "spell_razelikh_teleport_group_SpellScript", "d4/d6d/a13369.html", "d4/d6d/a13369" ],
-    [ "spell_razelikh_teleport_group", "dd/dd0/a13365.html#a8be75a9e2fc340768e1e2210f5e2252a", null ],
-    [ "GetSpellScript", "dd/dd0/a13365.html#a2f1813321d166984df9efacfc4a04ce4", null ]
+    [ "HandleAfterCast", "dd/dd0/a13365.html#a251ddadd9d26039da542c402e4ee254f", null ],
+    [ "PrepareSpellScript", "dd/dd0/a13365.html#a91114aeb4f917ec5138a0c7b20688174", null ],
+    [ "Register", "dd/dd0/a13365.html#a42960206e2444d8e6fb8fdc4d80a534b", null ],
+    [ "Validate", "dd/dd0/a13365.html#ad4012436a41537fc5ae854c0c48f09b1", null ]
 ];

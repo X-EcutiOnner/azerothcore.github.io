@@ -1,5 +1,6 @@
 var a14901 =
 [
-    [ "npc_black_morass_summoned_add", "d0/da1/a14901.html#ab1551fc3e746dc724ea433f7a3daa786", null ],
-    [ "EnterEvadeMode", "d0/da1/a14901.html#a437e7b72b985713d22883f3e33f30942", null ]
+    [ "HandleScript", "d0/da1/a14901.html#a7e6ec873a252106ba865bdef05f757f5", null ],
+    [ "PrepareSpellScript", "d0/da1/a14901.html#a98e80c8726c350aca850b6c87c5861da", null ],
+    [ "Register", "d0/da1/a14901.html#a994bb1f4670d16f6797b9e0df1d8c36c", null ]
 ];

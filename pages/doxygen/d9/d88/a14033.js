@@ -1,6 +1,6 @@
 var a14033 =
 [
-    [ "spell_threatening_gaze_AuraScript", "d8/dc2/a14037.html", "d8/dc2/a14037" ],
-    [ "spell_threatening_gaze", "d9/d88/a14033.html#a20ec140807d12fd521a4c8b8ea7a741a", null ],
-    [ "GetAuraScript", "d9/d88/a14033.html#a51aae442dabc59728c3ff8983b6db818", null ]
+    [ "boss_wushoolayAI", "d9/d88/a14033.html#a2ea62154c0932e5cd34bd4b858829ffe", null ],
+    [ "JustEngagedWith", "d9/d88/a14033.html#af519da543fff63a39a6fbe48f90f2f22", null ],
+    [ "UpdateAI", "d9/d88/a14033.html#acfaacee2a97212eb15056c1552b9e06b", null ]
 ];

@@ -1,11 +1,9 @@
 var a15481 =
 [
-    [ "npc_tiger_matriarchAI", "d2/d01/a15481.html#accbe5feed1eb7363575f297d1b50f6ab", null ],
-    [ "DamageTaken", "d2/d01/a15481.html#ab41c4275fe4f42b36615f746a100ccda", null ],
-    [ "IsSummonedBy", "d2/d01/a15481.html#a8b02683be93944a65b38658bba0af4d8", null ],
-    [ "JustEngagedWith", "d2/d01/a15481.html#a9a9295008552f5330f778dd3a0c591ea", null ],
-    [ "KilledUnit", "d2/d01/a15481.html#aabde7633ac07966ee1cd2d9817582189", null ],
-    [ "UpdateAI", "d2/d01/a15481.html#af8ed5b16a3f1ed04d439bc1ce1a07ede", null ],
-    [ "_events", "d2/d01/a15481.html#a44632ddc3c4e57bee1791cda4027bc93", null ],
-    [ "_tigerGuid", "d2/d01/a15481.html#ad557591ddebd4cece99b0e5793be3eb5", null ]
+    [ "go_wind_stoneAI", "d2/d01/a15481.html#a4370be2b59ea50bf5ea2285bfbf4e242", null ],
+    [ "GossipHello", "d2/d01/a15481.html#a73f129b7b636a1178fe3402cf1e6c50d", null ],
+    [ "GossipSelect", "d2/d01/a15481.html#aff4dedbf3a6fea405722f7064633edb1", null ],
+    [ "InitializeAI", "d2/d01/a15481.html#a33f98d1de05b539a66c4103b4c61de1f", null ],
+    [ "SummonNPC", "d2/d01/a15481.html#ab44f563b8f117a19ac78508c3cba72e9", null ],
+    [ "_creatureGuid", "d2/d01/a15481.html#a50ad8b248381a6d9fac7a291796966d6", null ]
 ];

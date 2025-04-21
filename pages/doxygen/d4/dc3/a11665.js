@@ -1,6 +1,5 @@
 var a11665 =
 [
-    [ "boss_pyroguard_emberseerAI", "d4/de0/a11669.html", "d4/de0/a11669" ],
-    [ "boss_pyroguard_emberseer", "d4/dc3/a11665.html#af9f55c012880404e2e6f8278763af194", null ],
-    [ "GetAI", "d4/dc3/a11665.html#a060c52f53760e60a022a7034dd785b1d", null ]
+    [ "flag", "d4/dc3/a11665.html#a4ea67fc10eedfaa2e5e029e242e1c32f", null ],
+    [ "text", "d4/dc3/a11665.html#a492e5e3c2373adba005034514b0a5a1e", null ]
 ];

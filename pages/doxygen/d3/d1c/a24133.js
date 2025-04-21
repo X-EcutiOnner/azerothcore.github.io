@@ -1,5 +1,6 @@
 var a24133 =
 [
-    [ "OutdoorPvP_silithus", "d3/d1c/a24133.html#a8b53dd86c265d277ad1cb49bd6a795bc", null ],
-    [ "GetOutdoorPvP", "d3/d1c/a24133.html#a126d6acc77218addd10072199ccd2470", null ]
+    [ "npc_illidari_spawnAI", "de/d44/a24137.html", "de/d44/a24137" ],
+    [ "npc_illidari_spawn", "d3/d1c/a24133.html#ac8dbb30fe7f40d29a3434c8a888ace60", null ],
+    [ "GetAI", "d3/d1c/a24133.html#a7198f506b0d4fd55d22fc72a90f42a09", null ]
 ];

@@ -1,6 +1,7 @@
 var a24641 =
 [
-    [ "boss_illidari_councilAI", "d1/d44/a24645.html", "d1/d44/a24645" ],
-    [ "boss_illidari_council", "d0/d7f/a24641.html#ad9fc03c7adce1493fe8cb5272824d82b", null ],
-    [ "GetAI", "d0/d7f/a24641.html#aefa944e6eee2dd9670f5c39b8ea0c7e7", null ]
+    [ "HandleProc", "d0/d7f/a24641.html#a2d38c32b4eb2ba91c657801b21a3b90d", null ],
+    [ "PrepareAuraScript", "d0/d7f/a24641.html#ac5988a79ab42ec1bbcc9b69bb649fc29", null ],
+    [ "Register", "d0/d7f/a24641.html#affd88326ea293f82055700ec7183d194", null ],
+    [ "Validate", "d0/d7f/a24641.html#acc8797afece569e68c6d754ca09e206d", null ]
 ];

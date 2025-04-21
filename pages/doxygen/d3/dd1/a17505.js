@@ -1,6 +1,6 @@
 var a17505 =
 [
-    [ "npc_living_mojoAI", "d1/d95/a17509.html", "d1/d95/a17509" ],
-    [ "npc_living_mojo", "d3/dd1/a17505.html#af24190023549b4ec5fa47b5959618a8a", null ],
-    [ "GetAI", "d3/dd1/a17505.html#a2b8ca6e1b26debfafd74e022825c889e", null ]
+    [ "npc_gunship_mageAI", "d1/d95/a17509.html", "d1/d95/a17509" ],
+    [ "npc_gunship_mage", "d3/dd1/a17505.html#a52c7a072bd1426a1c22da84aa0640bca", null ],
+    [ "GetAI", "d3/dd1/a17505.html#a9a0bc091a6cf8bbc7d17cf3d3172e6ff", null ]
 ];

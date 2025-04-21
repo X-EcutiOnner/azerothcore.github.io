@@ -1,9 +1,20 @@
 var a28393 =
 [
-    [ "CalculateAmount", "dd/db0/a28393.html#a55d778b049e26c28bfa9d2e08d7920a8", null ],
-    [ "CheckProc", "dd/db0/a28393.html#aa0144f9a0260a74010ced913dd8cadbd", null ],
-    [ "HandleProc", "dd/db0/a28393.html#a741570ba77f70d90b437198f63e565f3", null ],
-    [ "PrepareAuraScript", "dd/db0/a28393.html#af4e49e2362994f247c119c16c013e4b3", null ],
-    [ "Register", "dd/db0/a28393.html#a06a3c11618cbdf15427bbaa6ac8a4273", null ],
-    [ "Validate", "dd/db0/a28393.html#a939d6815bcaee9b9d2b062313aac912a", null ]
+    [ "RealmMap", "dd/db0/a28393.html#a6031c19ec935fbe535f60a1014483dbd", null ],
+    [ "RealmList", "dd/db0/a28393.html#abe7dfad5160a08a5852cb1436a06eaa9", null ],
+    [ "~RealmList", "dd/db0/a28393.html#a64bea5f38384143cc960840a8e84ef00", null ],
+    [ "Close", "dd/db0/a28393.html#a14a4d9b5383da24bc1ad9754cdfa2183", null ],
+    [ "GetBuildInfo", "dd/db0/a28393.html#a0f7136cb280d2461b1ec0d080645c6e0", null ],
+    [ "GetRealm", "dd/db0/a28393.html#a3e25e63168bcff88d021294559ccf0c5", null ],
+    [ "GetRealms", "dd/db0/a28393.html#afc2cbe2a4ee4d9870821dbe8d96e8fa4", null ],
+    [ "Initialize", "dd/db0/a28393.html#a70954d518dc4559e0aca0388f13db411", null ],
+    [ "Instance", "dd/db0/a28393.html#aea053134fe293fbd4a8801b25fbb44ca", null ],
+    [ "LoadBuildInfo", "dd/db0/a28393.html#a1f8866e57557beb7d69037a63e34428d", null ],
+    [ "UpdateRealm", "dd/db0/a28393.html#ae15cf59b00e8e8e561f266d5dd3e11ae", null ],
+    [ "UpdateRealms", "dd/db0/a28393.html#a0b4559e5538a02ccf5247839005d602e", null ],
+    [ "_builds", "dd/db0/a28393.html#a7c38c3c8b4fe6554c66dbc5ada26a3e0", null ],
+    [ "_realms", "dd/db0/a28393.html#a41693a01cd88ea99b54dd9ca8fe6b445", null ],
+    [ "_resolver", "dd/db0/a28393.html#a1beee0fdd1a9e61f68db925f53d373a9", null ],
+    [ "_updateInterval", "dd/db0/a28393.html#ac07fe3cd4fc18169af4f63b207902e95", null ],
+    [ "_updateTimer", "dd/db0/a28393.html#a5619be8a2649680901cfd7a3608e984a", null ]
 ];

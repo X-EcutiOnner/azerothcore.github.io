@@ -1,7 +1,15 @@
 var a09041 =
 [
-    [ "PlayerAtMinimumRangeAway", "da/d68/a09041.html#a12eb5ff486232f88c7303741ebd8e65e", null ],
-    [ "operator()", "da/d68/a09041.html#a1cfda97a0590e033f9b6043c8de2d0a0", null ],
-    [ "fRange", "da/d68/a09041.html#a0c58929de429694f24877525287f15a6", null ],
-    [ "unit", "da/d68/a09041.html#a4ea0f83c3287079cff40fac15272fa94", null ]
+    [ "CoordPair", "da/d68/a09041.html#a53b5f24cfdf13b246549a0c1543924c9", null ],
+    [ "CoordPair", "da/d68/a09041.html#aab92ece0f01ebc00cdac4966e02fa8fd", null ],
+    [ "dec_x", "da/d68/a09041.html#a69be5b72b710722120104f0c502fbb70", null ],
+    [ "dec_y", "da/d68/a09041.html#aefa33f8766212bb71e5fd19a318142cc", null ],
+    [ "GetId", "da/d68/a09041.html#ae4f7f304faf2c2363cffe2170b4c5c97", null ],
+    [ "inc_x", "da/d68/a09041.html#aa6a4942253e87ae57e2d69a2563ddef1", null ],
+    [ "inc_y", "da/d68/a09041.html#a120946c5a8c8b49bbdf9a1ee54ded9ec", null ],
+    [ "IsCoordValid", "da/d68/a09041.html#a082960c54e2077df370f891c0534b44f", null ],
+    [ "normalize", "da/d68/a09041.html#afac8086374bfc499e3a8d74d6afc58db", null ],
+    [ "operator=", "da/d68/a09041.html#a27f81c359c4ae278d663e85eccbeebb9", null ],
+    [ "x_coord", "da/d68/a09041.html#a101dd71af6a2cba18140aea2e502ef8b", null ],
+    [ "y_coord", "da/d68/a09041.html#aacae12844cc0c0d70e26b137ad28f700", null ]
 ];

@@ -1,8 +1,10 @@
 var a18141 =
 [
-    [ "Load", "d8/d2b/a18141.html#a28df32c3bae8cc46bedd949b0fc0463d", null ],
-    [ "PrepareSpellScript", "d8/d2b/a18141.html#aab7460be248cddc37e634cf1e1b505fd", null ],
-    [ "Register", "d8/d2b/a18141.html#a9fbfe5687cd9d4ef12d7d8b89ff49cbf", null ],
-    [ "RelocateDest", "d8/d2b/a18141.html#a933794f0e99e63c27cf0da61d2686a03", null ],
-    [ "SelectTransport", "d8/d2b/a18141.html#aa020ce5e5c172a32ee13b0b715e4a461", null ]
+    [ "npc_shambling_horror_iccAI", "d8/d2b/a18141.html#a0d15c62bead7a4da3c8a8abd0b2ee612", null ],
+    [ "CanAIAttack", "d8/d2b/a18141.html#a6d77fdd16c4b089049ade7f7b081b4e9", null ],
+    [ "DamageTaken", "d8/d2b/a18141.html#aed90f2c487c28190c7af630f4ea2fa13", null ],
+    [ "Reset", "d8/d2b/a18141.html#ac5bab3d9f360e4e00dcab9abc3799865", null ],
+    [ "UpdateAI", "d8/d2b/a18141.html#abae6058591022057e93d48da3db1b8bc", null ],
+    [ "_events", "d8/d2b/a18141.html#af12b65fe4f77e8b2d3f5c87379dd69d2", null ],
+    [ "_frenzied", "d8/d2b/a18141.html#a34347cbecea4c6f538345b7285e8f1c0", null ]
 ];

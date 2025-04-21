@@ -1,7 +1,7 @@
 var a27173 =
 [
-    [ "HandleDummy", "de/d62/a27173.html#a84430c269e419acd94a2d0520b9ca639", null ],
-    [ "PrepareSpellScript", "de/d62/a27173.html#a8ec4e9cea213739825126111d038d1a5", null ],
-    [ "Register", "de/d62/a27173.html#a1abee3e5f324875aab8dd666ac417308", null ],
-    [ "Validate", "de/d62/a27173.html#a393043b94f50d9379a987f9b49b8abde", null ]
+    [ "go_pirate_day_musicAI", "de/d62/a27173.html#a1abe263949b7a07e5143779efcddc7eb", null ],
+    [ "UpdateAI", "de/d62/a27173.html#a5373bb46c866df31a3827ceb8ee4ef9b", null ],
+    [ "_events", "de/d62/a27173.html#a233ae55a05876c665455b106ef50d57e", null ],
+    [ "rnd", "de/d62/a27173.html#ad0ced4b4f569b91b5dde4ad93a298568", null ]
 ];

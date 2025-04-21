@@ -1,7 +1,5 @@
 var a09013 =
 [
-    [ "AnyPlayerExactPositionInGameObjectRangeCheck", "de/d68/a09013.html#a51100c20d5b7f795f062dfaa5aa65017", null ],
-    [ "operator()", "de/d68/a09013.html#a0dd7216a026b7f90b293b2adf20a0191", null ],
-    [ "_go", "de/d68/a09013.html#a70e0b15948cf34a7c759885949560dcd", null ],
-    [ "_range", "de/d68/a09013.html#ad91342e50833e3b9d75c5e548248941f", null ]
+    [ "MaxAllowedCount", "de/d68/a09013.html#afb0dcc50d8e9aa85fe2904050d646042", null ],
+    [ "Policy", "de/d68/a09013.html#a8b2bbd3d9f52166c1235b0d306042609", null ]
 ];

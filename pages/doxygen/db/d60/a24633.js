@@ -1,6 +1,6 @@
 var a24633 =
 [
-    [ "HammerOfJusticeSelector", "db/d60/a24633.html#a5faf5b8fa541ca02b6a2e72662674b2d", null ],
-    [ "operator()", "db/d60/a24633.html#af98812fc9f9d517a8390940566928112", null ],
-    [ "_me", "db/d60/a24633.html#a445ee445f0c0a3ff3837b33a2eeda4ea", null ]
+    [ "CalculateAmount", "db/d60/a24633.html#a66fd870eff0f2a225630e26047d36225", null ],
+    [ "PrepareAuraScript", "db/d60/a24633.html#afde8a1734c57e01094077af3d3bdf757", null ],
+    [ "Register", "db/d60/a24633.html#a8e5b9dd71dfccb224e92784725f2a8a9", null ]
 ];

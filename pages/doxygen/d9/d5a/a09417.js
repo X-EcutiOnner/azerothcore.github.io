@@ -1,8 +1,10 @@
 var a09417 =
 [
-    [ "PositionFullTerrainStatus", "d9/d5a/a09417.html#ae0349ed89530b35af91b7b1862acaffe", null ],
-    [ "areaId", "d9/d5a/a09417.html#ac04966fa31b30f341a937906223463d4", null ],
-    [ "floorZ", "d9/d5a/a09417.html#abbd186ca681e532d567b5a221a62c02b", null ],
-    [ "liquidInfo", "d9/d5a/a09417.html#ac96230ad8521342ec97cf4f94013d0b4", null ],
-    [ "outdoors", "d9/d5a/a09417.html#ae531eb0a4abc029f82d699c98d6aa565", null ]
+    [ "GameObjectInRangeCheck", "d9/d5a/a09417.html#a62075fc1b342fe6e40998dad928da71a", null ],
+    [ "operator()", "d9/d5a/a09417.html#aa49818fa638dbd3909e5f563383346f2", null ],
+    [ "entry", "d9/d5a/a09417.html#a9223c931b791ad689451f7f0c874b6a9", null ],
+    [ "range", "d9/d5a/a09417.html#addf45c48385df26aa544957d7d24f1ec", null ],
+    [ "x", "d9/d5a/a09417.html#af52ee33b2324eb80f4ad47f2eee1dbb5", null ],
+    [ "y", "d9/d5a/a09417.html#a98acab0031dbf8b0a3943c3a6522c9d3", null ],
+    [ "z", "d9/d5a/a09417.html#a814909bb047b8b0e0dd4f7ba0c479c64", null ]
 ];

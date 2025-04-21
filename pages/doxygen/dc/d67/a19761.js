@@ -1,8 +1,6 @@
 var a19761 =
 [
-    [ "Class", "dc/d67/a19761.html#a095390e9023609f5836c4481ed79e1af", null ],
-    [ "cooldown_ms", "dc/d67/a19761.html#a6f1fdab250e8557d16066c03a54fb2a4", null ],
-    [ "id", "dc/d67/a19761.html#ae9fdf89271339b93f306c4aa0871f844", null ],
-    [ "range", "dc/d67/a19761.html#aad126da206abceb6a66dcda1cbd3b28b", null ],
-    [ "targetType", "dc/d67/a19761.html#ae5fc8cb423536f631591d3b72bfd06dd", null ]
+    [ "boss_flame_leviathan_seatAI", "d7/d05/a19765.html", "d7/d05/a19765" ],
+    [ "boss_flame_leviathan_seat", "dc/d67/a19761.html#a0fc90640a5142d889f1c043270582a16", null ],
+    [ "GetAI", "dc/d67/a19761.html#a0e17225aeb93e0a5f5442c4ac2362af8", null ]
 ];

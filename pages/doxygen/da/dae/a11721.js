@@ -1,12 +1,9 @@
 var a11721 =
 [
-    [ "boss_thebeastAI", "da/dae/a11721.html#a51b7d4ec10d2616d99fb21e680ff17b4", null ],
-    [ "FindNearbyOrcs", "da/dae/a11721.html#ad832a878880ac32e05d360262546422a", null ],
-    [ "JustEngagedWith", "da/dae/a11721.html#ab107354f10d0af4b840ab5ff8d3d0eaf", null ],
-    [ "Reset", "da/dae/a11721.html#abfa1bca308a02ef0e80d2baf11670305", null ],
-    [ "SetData", "da/dae/a11721.html#a6f30ed7c0451613998660b258145f801", null ],
-    [ "UpdateAI", "da/dae/a11721.html#a0f490e907ce632e1fb921a6eb46b49c0", null ],
-    [ "_beastReached", "da/dae/a11721.html#a01271598b4b3c85a7066e66d8150e522", null ],
-    [ "_nearbyOrcsGUIDs", "da/dae/a11721.html#af32fb34f4c76cfe292da9bc84a5d6372", null ],
-    [ "_orcYelled", "da/dae/a11721.html#a16df847475ea220b8ac4ea944e8d1ca4", null ]
+    [ "titles_commandscript", "da/dae/a11721.html#ac088fd907013150a0508b79c99f6c2f3", null ],
+    [ "GetCommands", "da/dae/a11721.html#af7d00111b3190f8bc9c46cedda3621d6", null ],
+    [ "HandleTitlesAddCommand", "da/dae/a11721.html#a2a44d6f83bc5617a25a53b18fbd35e32", null ],
+    [ "HandleTitlesCurrentCommand", "da/dae/a11721.html#a9a9b503e9ee65aa0d92cc7ff2e38a09d", null ],
+    [ "HandleTitlesRemoveCommand", "da/dae/a11721.html#a2001bcc2eddc5688d57154f9906218e4", null ],
+    [ "HandleTitlesSetMaskCommand", "da/dae/a11721.html#a9517b10295b856779cdd067234f640c8", null ]
 ];

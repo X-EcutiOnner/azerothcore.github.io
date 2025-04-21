@@ -1,6 +1,7 @@
 var a24405 =
 [
-    [ "spell_illidan_flame_burst_SpellScript", "db/dc9/a24409.html", "db/dc9/a24409" ],
-    [ "spell_illidan_flame_burst", "db/da5/a24405.html#a8275945762e5991d82233d27e550c661", null ],
-    [ "GetSpellScript", "db/da5/a24405.html#a9796deff45f8f6563c5bb25bab3e3005", null ]
+    [ "HandleEffectApply", "db/da5/a24405.html#a9923e38a2b5999d932d85be17a50ac83", null ],
+    [ "HandleEffectRemove", "db/da5/a24405.html#a4c1f611b4fd0cf33f654d59e783db32a", null ],
+    [ "PrepareAuraScript", "db/da5/a24405.html#a105df22901477c34757e62a0305006d4", null ],
+    [ "Register", "db/da5/a24405.html#a16f2daff28dc07f2cac8d53f4813909f", null ]
 ];

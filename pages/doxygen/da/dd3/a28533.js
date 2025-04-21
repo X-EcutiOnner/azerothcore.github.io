@@ -1,7 +1,20 @@
 var a28533 =
 [
-    [ "HandleDummy", "da/dd3/a28533.html#ab8916b5c232d7b55f4a6bb3e9f9ab122", null ],
-    [ "PrepareSpellScript", "da/dd3/a28533.html#ac8cfa0b54c585f12682602a678d7bf2d", null ],
-    [ "Register", "da/dd3/a28533.html#aee02661fa8845afd666ca27163b4a761", null ],
-    [ "Validate", "da/dd3/a28533.html#aba9079e2418281315029c839b22df1c5", null ]
+    [ "Record", "da/dd3/a28533.html#a51a9cc006bb8530fe76452c1bbe7985c", null ],
+    [ "Record", "da/dd3/a28533.html#a51a9cc006bb8530fe76452c1bbe7985c", null ],
+    [ "getByte", "da/dd3/a28533.html#ab1897952fa01e930caffa262519645c5", null ],
+    [ "getFloat", "da/dd3/a28533.html#a3e6402dcebb5adc1becccdc2bbf39758", null ],
+    [ "getFloat", "da/dd3/a28533.html#a3e6402dcebb5adc1becccdc2bbf39758", null ],
+    [ "getInt", "da/dd3/a28533.html#a80c4d8d3ae4a5a42ed1dc9a9edcd6747", null ],
+    [ "getInt", "da/dd3/a28533.html#a80c4d8d3ae4a5a42ed1dc9a9edcd6747", null ],
+    [ "getString", "da/dd3/a28533.html#a3e330e9888e740bc16d4ba173c90c8d9", null ],
+    [ "getString", "da/dd3/a28533.html#a3e330e9888e740bc16d4ba173c90c8d9", null ],
+    [ "getUInt", "da/dd3/a28533.html#ace0215b88ffbaf83c69a82cde51cd45f", null ],
+    [ "getUInt", "da/dd3/a28533.html#ace0215b88ffbaf83c69a82cde51cd45f", null ],
+    [ "operator=", "da/dd3/a28533.html#a25c6e7d3b28aade82eb52d41515f0427", null ],
+    [ "DBCFile", "da/dd3/a28533.html#a6c4f02b14caa99337bbe77b30e5615ab", null ],
+    [ "DBCFile::Iterator", "da/dd3/a28533.html#a56d48f82a62e25038bf9cf339e608083", null ],
+    [ "Iterator", "da/dd3/a28533.html#a9830fc407400559db7e7783cc10a9394", null ],
+    [ "file", "da/dd3/a28533.html#adffc3b9545883356dd9bed0a0613a1fe", null ],
+    [ "offset", "da/dd3/a28533.html#ae76eb8b329fb6d580aa42484de46c95e", null ]
 ];

@@ -1,6 +1,6 @@
 var a25637 =
 [
-    [ "spell_the_eye_counterchargeScript", "d9/dd1/a25641.html", "d9/dd1/a25641" ],
-    [ "spell_the_eye_countercharge", "d5/d45/a25637.html#a6e2db367be6755ba4a044bedf711bfa4", null ],
-    [ "GetAuraScript", "d5/d45/a25637.html#ac0ac3dd562a2264a19203bb201398551", null ]
+    [ "HandleScript", "d5/d45/a25637.html#a382dd0eb5ebc2f5da70561eaaf1f8d3d", null ],
+    [ "PrepareSpellScript", "d5/d45/a25637.html#a4f0f4d29231ef1976d726b66f6277ca8", null ],
+    [ "Register", "d5/d45/a25637.html#ad75843039e582b64da28b4818f48aeb3", null ]
 ];

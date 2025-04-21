@@ -1,6 +1,9 @@
 var a26009 =
 [
-    [ "npc_shadowmoon_tuber_nodeAI", "d6/dd7/a26013.html", "d6/dd7/a26013" ],
-    [ "npc_shadowmoon_tuber_node", "d9/db0/a26009.html#a98e8c7a84789457900fa342cca209d41", null ],
-    [ "GetAI", "d9/db0/a26009.html#a5f641af77e2fd78fe67b34fa18bf6b73", null ]
+    [ "Load", "d9/db0/a26009.html#ae8329a18e94b3830e19bcbcbdf055dd2", null ],
+    [ "PrepareSpellScript", "d9/db0/a26009.html#a7a082f577937bf9f794bfb21bbc416f1", null ],
+    [ "Register", "d9/db0/a26009.html#a7b8f209bff9c2f1dff96f3d90c66cad4", null ],
+    [ "TriggerHeal", "d9/db0/a26009.html#acad9295c5c6b46bd969a4fb528a8ec25", null ],
+    [ "Validate", "d9/db0/a26009.html#a5f53a97e97f7959c51e1b5947f7c4418", null ],
+    [ "healPct", "d9/db0/a26009.html#a33b4d26c34903e45b7274e369f096ce1", null ]
 ];

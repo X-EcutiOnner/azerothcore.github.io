@@ -1,6 +1,10 @@
 var a21437 =
 [
-    [ "npc_ulduar_hodir_shamanAI", "d8/dd8/a21441.html", "d8/dd8/a21441" ],
-    [ "npc_ulduar_hodir_shaman", "d4/d45/a21437.html#ae73a416c72441ab531d8a5db88183d47", null ],
-    [ "GetAI", "d4/d45/a21437.html#ab06a67b72a3954c65792a478ac90672c", null ]
+    [ "npc_jenny", "d4/d45/a21437.html#ab845ba4551900a03c5a995d348a1be55", null ],
+    [ "DamageTaken", "d4/d45/a21437.html#a8700091c82bfff473f3d5563deb69e0b", null ],
+    [ "Initialize", "d4/d45/a21437.html#aab8c540ebb90ebbaef961b1feb3013a3", null ],
+    [ "MoveInLineOfSight", "d4/d45/a21437.html#acd0939cee3ecb9d961d09815d9c50f71", null ],
+    [ "UpdateFollowerAI", "d4/d45/a21437.html#afbd142855602bcf7a8cd8e4cc4760cf0", null ],
+    [ "_events", "d4/d45/a21437.html#aa98caf8b706551470c943b4b722a85ae", null ],
+    [ "_fezzix", "d4/d45/a21437.html#ac2115c122c2eac2d5a36d1795d1e6bf0", null ]
 ];

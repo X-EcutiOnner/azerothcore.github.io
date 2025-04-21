@@ -1,6 +1,7 @@
 var a24817 =
 [
-    [ "OnPeriodic", "d7/d74/a24817.html#a82cfa3eda267234601d84607a93b0fb5", null ],
-    [ "PrepareAuraScript", "d7/d74/a24817.html#a32abf466794d0a4d4a0fb15e3b9daeb8", null ],
-    [ "Register", "d7/d74/a24817.html#ac0200ad5dabcec850d9d52b8a9fb0ba6", null ]
+    [ "CheckProc", "d7/d74/a24817.html#ab376febda606dba5e9f7f5639f867859", null ],
+    [ "HandleProc", "d7/d74/a24817.html#aa8dac7f0a238f6f131553cbc7a142594", null ],
+    [ "PrepareAuraScript", "d7/d74/a24817.html#a7693a86824050ff5615996d0d03d0292", null ],
+    [ "Register", "d7/d74/a24817.html#a458745913288889f687bb19a147cb0fb", null ]
 ];

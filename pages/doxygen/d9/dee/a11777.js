@@ -1,6 +1,6 @@
 var a11777 =
 [
-    [ "OnEffect", "d9/dee/a11777.html#a1b5999f392cec9fea4431c3f746ee034", null ],
-    [ "PrepareSpellScript", "d9/dee/a11777.html#a4748a82fcc7b3794850461092ee6b2e4", null ],
-    [ "Register", "d9/dee/a11777.html#acfa32dfc22778576d0dd3096c456ebe0", null ]
+    [ "ironhand_guardianAI", "de/df0/a11781.html", "de/df0/a11781" ],
+    [ "ironhand_guardian", "d9/dee/a11777.html#a2363002ce096937ecbb4b62af806ee42", null ],
+    [ "GetAI", "d9/dee/a11777.html#a0bf140618a45a6a4398cfe51b8a03488", null ]
 ];

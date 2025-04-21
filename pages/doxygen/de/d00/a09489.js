@@ -1,20 +1,16 @@
 var a09489 =
 [
-    [ "KeyFrame", "de/d00/a09489.html#a29de8ef0d2ba8671a00557782b5b3ba0", null ],
-    [ "IsStopFrame", "de/d00/a09489.html#a5e5b3e61a5734a8cfcba1c8e9cfb6e33", null ],
-    [ "IsTeleportFrame", "de/d00/a09489.html#a4197d8450563a6abd2826be37a2d0c0e", null ],
-    [ "ArriveTime", "de/d00/a09489.html#afc5d26078e42a2170d43c864542f676f", null ],
-    [ "DepartureTime", "de/d00/a09489.html#ac243e42c49063db26557d96b5fdf8a8f", null ],
-    [ "DistFromPrev", "de/d00/a09489.html#a4271d37fac21d8c41758fc5edbf793e2", null ],
-    [ "DistSinceStop", "de/d00/a09489.html#a60502cefa4387ffd815ba88530123ac6", null ],
-    [ "DistUntilStop", "de/d00/a09489.html#a03f76647aa0c383bcd4b26ae93abe465", null ],
-    [ "Index", "de/d00/a09489.html#a1176b2e4067a4e330db280514ca66d43", null ],
-    [ "InitialOrientation", "de/d00/a09489.html#a9af26b07943f22473526463f7a0f7c6b", null ],
-    [ "NextArriveTime", "de/d00/a09489.html#a51fb15713126d4890bfe99dc00e421f7", null ],
-    [ "NextDistFromPrev", "de/d00/a09489.html#a23823648385abc72ffd8372468b98915", null ],
-    [ "Node", "de/d00/a09489.html#ac628c537d5854ddf54d516eaf4471d7f", null ],
-    [ "Spline", "de/d00/a09489.html#aee298cdd32a7593baf6ad00234120781", null ],
-    [ "Teleport", "de/d00/a09489.html#ad57abe67a7e4771a35621b4204bfe347", null ],
-    [ "TimeFrom", "de/d00/a09489.html#ae12ac1910a4aa13557e69bd5e066214b", null ],
-    [ "TimeTo", "de/d00/a09489.html#ae4e0c37d26edb99017bf0042b3e0bad4", null ]
+    [ "GuildBankRightsAndSlots", "de/d00/a09489.html#ae00a8b8f227d7afdcf08847e3787ee0d", null ],
+    [ "GuildBankRightsAndSlots", "de/d00/a09489.html#af5f0087090a7145a22baa1396822318b", null ],
+    [ "GuildBankRightsAndSlots", "de/d00/a09489.html#a4bdf40d99704211b9e80b554ebade54f", null ],
+    [ "GetRights", "de/d00/a09489.html#a19b76bebdb62434191189ba789c2810f", null ],
+    [ "GetSlots", "de/d00/a09489.html#a51780060b5699bed6b78cc9ba4e95371", null ],
+    [ "GetTabId", "de/d00/a09489.html#a6ba7c49480a1c5325d3702fb61d397cc", null ],
+    [ "SetGuildMasterValues", "de/d00/a09489.html#a1399f191b3b0a44dc1e76fc49adc1412", null ],
+    [ "SetRights", "de/d00/a09489.html#abf4e1f1556554e7f756dc566fbdd7f40", null ],
+    [ "SetSlots", "de/d00/a09489.html#a8ed33a4e1d2a957d61c5f7556533f225", null ],
+    [ "SetTabId", "de/d00/a09489.html#abe84f6bcdfd48d70b894470d025f3aae", null ],
+    [ "rights", "de/d00/a09489.html#a2a8f5acf21828bfa15d0b3dd6874b5cb", null ],
+    [ "slots", "de/d00/a09489.html#a5a327399d94704bc290199baa21ff8d7", null ],
+    [ "tabId", "de/d00/a09489.html#ab09825a02a7a21a4915595230d2a5839", null ]
 ];

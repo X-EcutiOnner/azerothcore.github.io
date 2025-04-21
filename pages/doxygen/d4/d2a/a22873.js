@@ -1,6 +1,7 @@
 var a22873 =
 [
-    [ "npc_azure_binderAI", "db/d71/a22877.html", "db/d71/a22877" ],
-    [ "npc_azure_binder", "d4/d2a/a22873.html#a25b8b19b6ccdae92418c47fe68537c42", null ],
-    [ "GetAI", "d4/d2a/a22873.html#aad091206a8bd06a1064b68b81510eb56", null ]
+    [ "npc_ashtongue_channeler", "d4/d2a/a22873.html#af7217d00f87e56e5cdb411fcad161b51", null ],
+    [ "Reset", "d4/d2a/a22873.html#ab935559c19b18f9c94dd36c85be5b3b2", null ],
+    [ "UpdateAI", "d4/d2a/a22873.html#af855dfa521404c4e6127a9bf12a75604", null ],
+    [ "scheduler", "d4/d2a/a22873.html#a4f58bbd2c44f7a3f9835fd55408ffaf4", null ]
 ];

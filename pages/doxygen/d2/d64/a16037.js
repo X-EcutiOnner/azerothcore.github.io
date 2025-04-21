@@ -1,6 +1,8 @@
 var a16037 =
 [
-    [ "HandleScriptEffect", "d2/d64/a16037.html#a00b7ec2b596ffac803dac4b5bcd3af75", null ],
-    [ "PrepareSpellScript", "d2/d64/a16037.html#af800b520c55f279803272c816ef97ebd", null ],
-    [ "Register", "d2/d64/a16037.html#a389d152e7f806b8320d59fa2c110d6f4", null ]
+    [ "Load", "d2/d64/a16037.html#a55dc086667f0fe23e513608e951276ed", null ],
+    [ "Phase", "d2/d64/a16037.html#af66a6bff13803e54b6ed1447d1285ad4", null ],
+    [ "PrepareSpellScript", "d2/d64/a16037.html#ae2c7cbd68ccf893144e38581a6f86f04", null ],
+    [ "Register", "d2/d64/a16037.html#a8ab7e05e98771abcf9bed9995875b71d", null ],
+    [ "Validate", "d2/d64/a16037.html#a87192df547adaf3cb060155d9cf4da79", null ]
 ];

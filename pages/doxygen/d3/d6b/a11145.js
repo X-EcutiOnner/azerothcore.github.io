@@ -1,18 +1,15 @@
 var a11145 =
 [
-    [ "WardenWin", "d3/d6b/a11145.html#ace17ee6e11a0c88478dc9f24c1c7db8f", null ],
-    [ "~WardenWin", "d3/d6b/a11145.html#ac1264c71c1e6f80fa70bf1794aa41368", null ],
-    [ "ForceChecks", "d3/d6b/a11145.html#a2a0e780572b1870f692803caa1ef673d", null ],
-    [ "GetModuleForClient", "d3/d6b/a11145.html#ad5dbc585ebb22eda2e1265f14129aa5c", null ],
-    [ "HandleData", "d3/d6b/a11145.html#a9860f6b2c0beb6d730b02c99e6172690", null ],
-    [ "HandleHashResult", "d3/d6b/a11145.html#a05ab06f2a7928affab20fd1b795a2d3f", null ],
-    [ "Init", "d3/d6b/a11145.html#a3222620148b84a4d95593800a83ba3fa", null ],
-    [ "InitializeModule", "d3/d6b/a11145.html#a2082c6a634c5b1f6cb63d376ff9a9695", null ],
-    [ "IsCheckInProgress", "d3/d6b/a11145.html#aee57f10f6f4f676908c54f305210b6bc", null ],
-    [ "RequestChecks", "d3/d6b/a11145.html#a9a3e9b53f66e97a615c288058b9adcf3", null ],
-    [ "RequestHash", "d3/d6b/a11145.html#abb53eb2b1d9dc95f8e77d12d4086c6c1", null ],
-    [ "_ChecksTodo", "d3/d6b/a11145.html#a61d85f3e94cb64aedbc977c74a64e0be", null ],
-    [ "_CurrentChecks", "d3/d6b/a11145.html#a9cb49a2629d08e0f54d363f81c284425", null ],
-    [ "_PendingChecks", "d3/d6b/a11145.html#a463e1f12600b12ddf54f762093ae57f0", null ],
-    [ "_serverTicks", "d3/d6b/a11145.html#a79e969e649fa057cd3a1a835837188c6", null ]
+    [ "AttributesMask", "d3/d6b/a11145.html#a7cc9dfa91e034f5052ebd3bf8eaea42a", null ],
+    [ "Chance", "d3/d6b/a11145.html#aea5ca609c75ea7b314aec8ae0246297e", null ],
+    [ "Charges", "d3/d6b/a11145.html#a75f0484dad60eec59b399a188fd9908f", null ],
+    [ "Cooldown", "d3/d6b/a11145.html#a4e6185aea35599a3efc2e806145cb1d2", null ],
+    [ "HitMask", "d3/d6b/a11145.html#a8ac3331576b4eb761157fa3d0d622bea", null ],
+    [ "ProcFlags", "d3/d6b/a11145.html#a9e5de790c4f61537397a1ce2bce8a9b0", null ],
+    [ "ProcsPerMinute", "d3/d6b/a11145.html#a3815765c08f6b95cae6efb93fa98623b", null ],
+    [ "SchoolMask", "d3/d6b/a11145.html#acf72c4a783235770bbff952bdc002324", null ],
+    [ "SpellFamilyMask", "d3/d6b/a11145.html#a8688e9282cb78d4f24b310cc2521c22b", null ],
+    [ "SpellFamilyName", "d3/d6b/a11145.html#a2cb738b0d4579503fcb9bca7988f7e36", null ],
+    [ "SpellPhaseMask", "d3/d6b/a11145.html#ab4c4bfa1493a7a5924d3cd094127f973", null ],
+    [ "SpellTypeMask", "d3/d6b/a11145.html#a99e20d3979a532e1ca90ee83edcff3eb", null ]
 ];

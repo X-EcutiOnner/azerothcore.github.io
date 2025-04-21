@@ -1,6 +1,9 @@
 var a17989 =
 [
-    [ "npc_stinky_iccAI", "d4/daa/a17993.html", "d4/daa/a17993" ],
-    [ "npc_stinky_icc", "d6/dce/a17989.html#a8f6a3687d4b330f532a0d892dbf429a0", null ],
-    [ "GetAI", "d6/dce/a17989.html#aaf6b7b1a7469d1e353617f63f11f7781", null ]
+    [ "AfterApply", "d6/dce/a17989.html#a0ee1a701f75e9f0a70dc21528ffea683", null ],
+    [ "ExtraRemoveEffect", "d6/dce/a17989.html#a9f427761fcca9029eb75d586e5876fcd", null ],
+    [ "PeriodicTick", "d6/dce/a17989.html#a82430399e44001343f322b2c3b7769a5", null ],
+    [ "PrepareAuraScript", "d6/dce/a17989.html#a9c8e0ed8fde28588e11ebf5e8abd02dc", null ],
+    [ "Register", "d6/dce/a17989.html#a68be7f7edecd1bae8c962aaa9d556c3e", null ],
+    [ "Validate", "d6/dce/a17989.html#ae20873e93fbace6272a793993fb45349", null ]
 ];

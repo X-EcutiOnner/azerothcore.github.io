@@ -1,5 +1,6 @@
 var a19785 =
 [
-    [ "npc_icc_buff_switcher", "d0/dc0/a19785.html#aeabc3d97c88bf12177b824524af3ae1d", null ],
-    [ "OnGossipSelect", "d0/dc0/a19785.html#abb3310d3eb5cf4f1c2a0a3ac46ddd7ba", null ]
+    [ "npc_freya_wardAI", "d6/db6/a19789.html", "d6/db6/a19789" ],
+    [ "npc_freya_ward", "d0/dc0/a19785.html#aebaadcc001922c78e8ec43084a827ac9", null ],
+    [ "GetAI", "d0/dc0/a19785.html#a90c0e7a0be1717bf1793415b6fcafbed", null ]
 ];

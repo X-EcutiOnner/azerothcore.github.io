@@ -1,7 +1,6 @@
 var a27545 =
 [
-    [ "HandleDummy", "d2/d8d/a27545.html#ab9c732cc91f926331dea6b94c1021801", null ],
-    [ "PrepareSpellScript", "d2/d8d/a27545.html#a80799c42f9f31f49d20d880dd377e3b4", null ],
-    [ "Register", "d2/d8d/a27545.html#ae012e6852f079682fbafc776dec3455b", null ],
-    [ "Validate", "d2/d8d/a27545.html#afc10f1989ae4b9cff7527f2d73180cde", null ]
+    [ "npc_fireworkAI", "da/db9/a27549.html", "da/db9/a27549" ],
+    [ "npc_firework", "d2/d8d/a27545.html#a9efb6ed098e4eb3e24c30393cb5cb45d", null ],
+    [ "GetAI", "d2/d8d/a27545.html#a9732f7b6eb8b3638bb6280ff7a71bcf7", null ]
 ];

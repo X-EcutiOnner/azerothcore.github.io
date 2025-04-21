@@ -1,6 +1,5 @@
 var a27329 =
 [
-    [ "HandleDummy", "db/d5d/a27329.html#ad086618ff3caadcf5126e12a1359503f", null ],
-    [ "PrepareSpellScript", "db/d5d/a27329.html#a4b3a79a9ba01226038a1da886f6a2f7c", null ],
-    [ "Register", "db/d5d/a27329.html#a214526ddc986ee829daf9090678e3a7b", null ]
+    [ "item_generic_limit_chance_above_60", "db/d5d/a27329.html#abc18809810f0a7668020d01c482be84b", null ],
+    [ "OnCastItemCombatSpell", "db/d5d/a27329.html#aa34809cfd53edb6a77d3fa415a079d72", null ]
 ];

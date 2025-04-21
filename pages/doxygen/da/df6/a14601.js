@@ -1,6 +1,6 @@
 var a14601 =
 [
-    [ "boss_kazrogalAI", "d3/d5a/a14605.html", "d3/d5a/a14605" ],
-    [ "boss_kazrogal", "da/df6/a14601.html#a42a0e9451e8c7cec88840313237025a9", null ],
-    [ "GetAI", "da/df6/a14601.html#ab9ce602587c480a6ae24ae2b1741639f", null ]
+    [ "boss_epochAI", "d3/d5a/a14605.html", "d3/d5a/a14605" ],
+    [ "boss_epoch", "da/df6/a14601.html#a78b7d775bc3fc44496e41c58f2ed534d", null ],
+    [ "GetAI", "da/df6/a14601.html#a2673a4fb8c70d62009dfdc6daf23aee2", null ]
 ];

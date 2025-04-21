@@ -1,6 +1,5 @@
 var a24773 =
 [
-    [ "spell_black_temple_charge_rage_AuraScript", "d5/d20/a24777.html", "d5/d20/a24777" ],
-    [ "spell_black_temple_charge_rage", "d7/d3f/a24773.html#ae19d5195cdad1792c40b7c3f0efff8bf", null ],
-    [ "GetAuraScript", "d7/d3f/a24773.html#aa18d5571095a83ad5d8eece3972cd730", null ]
+    [ "PrepareSpellScript", "d7/d3f/a24773.html#a41169895bb29fe136e3fb0c2dd50d9fb", null ],
+    [ "Register", "d7/d3f/a24773.html#ab6a32b26cc0277f71a71b9fd1d567bf1", null ]
 ];

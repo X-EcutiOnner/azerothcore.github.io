@@ -1,9 +1,7 @@
 var a23109 =
 [
-    [ "npc_counselor_talbotAI", "d5/dc9/a23109.html#acf1865ab4225128b8edbc619f7d8fa93", null ],
-    [ "JustDied", "d5/dc9/a23109.html#a4dbb0c9b91be5fa182bcc5c63ac9307b", null ],
-    [ "JustEngagedWith", "d5/dc9/a23109.html#acacec95c5e74c4b71cf2345bbae2eacb", null ],
-    [ "Reset", "d5/dc9/a23109.html#a03bfaedb136c3e107a4df8e4a1646ae2", null ],
-    [ "UpdateAI", "d5/dc9/a23109.html#a7b5c739d7c85d5205a04f3c6adf367ef", null ],
-    [ "_events", "d5/dc9/a23109.html#a094ce9839bb51b73e6b5826c24cda3b6", null ]
+    [ "HandleEffectApply", "d5/dc9/a23109.html#a3893fffea480b47d06c4903deb051aa9", null ],
+    [ "HandleEffectRemove", "d5/dc9/a23109.html#a8f120ed0d8cbce6dd0640f02ea488669", null ],
+    [ "PrepareAuraScript", "d5/dc9/a23109.html#a246c20ab26d1490fe38afd558a7ae406", null ],
+    [ "Register", "d5/dc9/a23109.html#aea639a3ae0f003c6213143427f3b1d23", null ]
 ];

@@ -1,7 +1,7 @@
 var a18505 =
 [
-    [ "HandleTriggerSpell", "d2/d5c/a18505.html#a7d357e24034ebbbc9c4b4c8060eca2d7", null ],
-    [ "OnRemove", "d2/d5c/a18505.html#a0c5be5949555f4c5c0c0c5d63abdaad5", null ],
-    [ "PrepareAuraScript", "d2/d5c/a18505.html#a642e606b79f3e0337d7d17534d2a2020", null ],
-    [ "Register", "d2/d5c/a18505.html#ad436ecac38cc69ba3bde6a1c56042149", null ]
+    [ "npc_frost_freeze_trapAI", "d2/d5c/a18505.html#a95c64fbbc97f55e4d0cd0b239939fdc6", null ],
+    [ "DoAction", "d2/d5c/a18505.html#a8dbe0fc5c84f49363254562166c8c0a7", null ],
+    [ "UpdateAI", "d2/d5c/a18505.html#ae8efccb090f38968f3c0ca51f022013b", null ],
+    [ "_events", "d2/d5c/a18505.html#ae0abd3d7fcb51ac02f8d325efa93b2f2", null ]
 ];

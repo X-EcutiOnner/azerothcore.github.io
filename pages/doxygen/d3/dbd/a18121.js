@@ -1,6 +1,8 @@
 var a18121 =
 [
-    [ "spell_igb_teleport_to_enemy_ship_SpellScript", "d0/dbf/a18125.html", "d0/dbf/a18125" ],
-    [ "spell_igb_teleport_to_enemy_ship", "d3/dbd/a18121.html#a3c2d810158acc7421064f1298c6fda13", null ],
-    [ "GetSpellScript", "d3/dbd/a18121.html#a0d6d08f3f133edd8fd184275e161e057", null ]
+    [ "FilterTargets", "d3/dbd/a18121.html#a242fa53c2da9ac557623281bccf2af92", null ],
+    [ "HandleSendEvent", "d3/dbd/a18121.html#a6120e057e2ee39d34eaeab79782add8d", null ],
+    [ "Load", "d3/dbd/a18121.html#af48cdbf87d61cf6d8392f65ae4c9b18a", null ],
+    [ "PrepareSpellScript", "d3/dbd/a18121.html#a0846e73f467d9c3a63b5e9a5d795aa37", null ],
+    [ "Register", "d3/dbd/a18121.html#ae83950dfc35f7c1e64806d6ec273083c", null ]
 ];

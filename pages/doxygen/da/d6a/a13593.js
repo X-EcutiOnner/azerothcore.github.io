@@ -1,6 +1,6 @@
 var a13593 =
 [
-    [ "boss_blight_wormAI", "d6/deb/a13597.html", "d6/deb/a13597" ],
-    [ "boss_blight_worm", "da/d6a/a13593.html#a6dea51baebc6b44ef94342565136e56d", null ],
-    [ "GetAI", "da/d6a/a13593.html#a1cb9043482e9b3c3eff3fd75057a2fb2", null ]
+    [ "npc_highborne_lamenterAI", "d6/deb/a13597.html", "d6/deb/a13597" ],
+    [ "npc_highborne_lamenter", "da/d6a/a13593.html#a40316cf73a688e34e95dd41feef8612a", null ],
+    [ "GetAI", "da/d6a/a13593.html#aad8ccb43b325b797f60a16e338458a1e", null ]
 ];

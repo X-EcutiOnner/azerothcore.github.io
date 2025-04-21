@@ -1,13 +1,12 @@
 var a09121 =
 [
-    [ "GroupReference", "d6/d5d/a09121.html#ab1a008e85d413c67696d4d568a98bde7", null ],
-    [ "~GroupReference", "d6/d5d/a09121.html#ab586405a850b0985e6b9f08cc6bdf32e", null ],
-    [ "getSubGroup", "d6/d5d/a09121.html#a8217ca810bc251005dfe8a2e3b810e1e", null ],
-    [ "next", "d6/d5d/a09121.html#a6f8f406f1209dd7060904d40f5424b41", null ],
-    [ "next", "d6/d5d/a09121.html#ac913ec0703c28cda068375d01c9cd72d", null ],
-    [ "setSubGroup", "d6/d5d/a09121.html#a303caf55ea463398237e6a825f30b143", null ],
-    [ "sourceObjectDestroyLink", "d6/d5d/a09121.html#a458157654c27def9b36b68ae099ca7b3", null ],
-    [ "targetObjectBuildLink", "d6/d5d/a09121.html#aa7c8acd113fefc7b6d2b9dff94bb047c", null ],
-    [ "targetObjectDestroyLink", "d6/d5d/a09121.html#a4c15e8dbb9f990f9ab66c5e1466d0616", null ],
-    [ "iSubGroup", "d6/d5d/a09121.html#a528073b16a119cfa81e6f37c6e72cc03", null ]
+    [ "GridTerrainLoader", "d6/d5d/a09121.html#a9f5094ad19163dc8ac3f3c4bada48ee9", null ],
+    [ "ExistMap", "d6/d5d/a09121.html#a980cb9f6537642db8ae0825d14b6bb68", null ],
+    [ "ExistVMap", "d6/d5d/a09121.html#a17bdde445c48738ade280bd1cdda0619", null ],
+    [ "LoadMap", "d6/d5d/a09121.html#ac220ce61dd0c3e514dcff2465c61af0f", null ],
+    [ "LoadMMap", "d6/d5d/a09121.html#a8b3be4eb509393af8a2a927bc15947c9", null ],
+    [ "LoadTerrain", "d6/d5d/a09121.html#a097556a8a778efa22ab9d50cbda2649a", null ],
+    [ "LoadVMap", "d6/d5d/a09121.html#ac4e66140ef37fb3dc0f990cc196d106f", null ],
+    [ "_grid", "d6/d5d/a09121.html#a1ec8202457f9df4fdc3b356e30f1a15d", null ],
+    [ "_map", "d6/d5d/a09121.html#a2547ac0b9ee6ae7b760227d5051dea85", null ]
 ];

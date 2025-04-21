@@ -1,13 +1,21 @@
 var a07117 =
 [
-    [ "banners", "d2/dd5/a07117.html#a07c98125c64d119232fec9cc80050537", null ],
-    [ "faction", "d2/dd5/a07117.html#ab3758f67da3dcb507bb1acab575e2836", null ],
-    [ "gameobject_entry", "d2/dd5/a07117.html#ae80024986e048e05dca174d6b14964d3", null ],
-    [ "gameobject_type", "d2/dd5/a07117.html#ac4760cba40ba8916d66cae3712f7c641", null ],
-    [ "last_entry", "d2/dd5/a07117.html#a968d6f412ba88b9577429910ffa511a5", null ],
-    [ "needChange", "d2/dd5/a07117.html#acecd97e26d19c82e934817ecbc2afce9", null ],
-    [ "nodeState", "d2/dd5/a07117.html#a214e160c6fd94cefb4d080a94a12ba56", null ],
-    [ "nodeType", "d2/dd5/a07117.html#a3b303a427c4a2248dade5eada6774dc9", null ],
-    [ "timer", "d2/dd5/a07117.html#a434605ed0efcc262057a65d7cd8d0128", null ],
-    [ "worldStates", "d2/dd5/a07117.html#ae5d3b4b37fc5b7983c08b54d94d6c3d2", null ]
+    [ "BfGraveyard", "d2/dd5/a07117.html#a2e10ab7e731167473f5bbf194163660d", null ],
+    [ "AddPlayer", "d2/dd5/a07117.html#acce3c0eade3e8e8afe08359de4dd7c88", null ],
+    [ "GetControlTeamId", "d2/dd5/a07117.html#ac417eb4b9ff8f7c6f19e2148eb81131c", null ],
+    [ "GetDistance", "d2/dd5/a07117.html#ae290db2a83278c27803d62267aebfb71", null ],
+    [ "GetGraveyardId", "d2/dd5/a07117.html#ac7944db0403c37282ca90550f8ca4118", null ],
+    [ "GiveControlTo", "d2/dd5/a07117.html#a9fe22d9ebbe1b652322b9a8e5f18ee91", null ],
+    [ "HasNpc", "d2/dd5/a07117.html#a5f02be27972ae3f9aa8213ddb8c8b8d2", null ],
+    [ "HasPlayer", "d2/dd5/a07117.html#ae85731d5d7d184749be9ec8704dde5e5", null ],
+    [ "Initialize", "d2/dd5/a07117.html#ac81acd9801591e13c9f26d625d004b2f", null ],
+    [ "RelocateDeadPlayers", "d2/dd5/a07117.html#ae0c6607ccfd39a3bf6806d437ce114ae", null ],
+    [ "RemovePlayer", "d2/dd5/a07117.html#af21ac9d3e58cfedc9c12316e77eb875c", null ],
+    [ "Resurrect", "d2/dd5/a07117.html#a94569ad820914c1f467aeaf30f977c3e", null ],
+    [ "SetSpirit", "d2/dd5/a07117.html#ab4385a55321e8cf90e91bd10a04f1ddf", null ],
+    [ "m_Bf", "d2/dd5/a07117.html#aa8e80e3722d725b02bfb5d450998f01a", null ],
+    [ "m_ControlTeam", "d2/dd5/a07117.html#ab008468a642fb2fa450fb881704c4fbb", null ],
+    [ "m_GraveyardId", "d2/dd5/a07117.html#a88e2a83e4aa220da8bc6036c2eb3fde0", null ],
+    [ "m_ResurrectQueue", "d2/dd5/a07117.html#aa70f427dfa7ddd551c3880a8cc3ce445", null ],
+    [ "m_SpiritGuide", "d2/dd5/a07117.html#aa8a700b633c79c7887cccebffceb772b", null ]
 ];

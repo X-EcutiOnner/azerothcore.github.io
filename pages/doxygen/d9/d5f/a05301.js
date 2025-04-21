@@ -1,10 +1,9 @@
 var a05301 =
 [
-    [ "AsyncCallbackProcessor", "d9/d5f/a05301.html#aee6f273ab86fad749de85cd12ea32a98", null ],
-    [ "~AsyncCallbackProcessor", "d9/d5f/a05301.html#a0a1b8fb7112485c9461387b6effcd56b", null ],
-    [ "AsyncCallbackProcessor", "d9/d5f/a05301.html#af575ef04d5b2440ad3a787348e5baf9a", null ],
-    [ "AddCallback", "d9/d5f/a05301.html#a47ef165fe4c31f46998f69e8e16625f1", null ],
-    [ "operator=", "d9/d5f/a05301.html#ae95508c8bd67d6246279f37cbe6ca8d3", null ],
-    [ "ProcessReadyCallbacks", "d9/d5f/a05301.html#a4fce127f587a9da913a9e9061ba538e7", null ],
-    [ "_callbacks", "d9/d5f/a05301.html#a372d9496b9a1b3e3f718cefe50164209", null ]
+    [ "IpLocationStore", "d9/d5f/a05301.html#a1b3a38bbd932ae50d55ff15374aa2f37", null ],
+    [ "~IpLocationStore", "d9/d5f/a05301.html#a82360c1ce130670fde23d42135f91324", null ],
+    [ "GetLocationRecord", "d9/d5f/a05301.html#a06384169031d2417a7f6bac54d3187a9", null ],
+    [ "instance", "d9/d5f/a05301.html#ad740adf9b81b37cf147dc00e220b29db", null ],
+    [ "Load", "d9/d5f/a05301.html#a411302e6bf5e5e82e5cd59e78e66bd0b", null ],
+    [ "_ipLocationStore", "d9/d5f/a05301.html#af7b7a5a4fc65c6af966be27f7bf7e07d", null ]
 ];

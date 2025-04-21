@@ -1,6 +1,6 @@
 var a01130 =
 [
-    [ "WorldPackets::WorldState::InitWorldStates", "db/d3b/a10866.html", "db/d3b/a10866" ],
-    [ "WorldPackets::WorldState::InitWorldStates::WorldStateInfo", "d8/d8c/a10870.html", "d8/d8c/a10870" ],
-    [ "WorldPackets::WorldState::UpdateWorldState", "d2/d74/a10874.html", "d2/d74/a10874" ]
+    [ "WorldPackets::WorldState::InitWorldStates", "d9/d8d/a10869.html", "d9/d8d/a10869" ],
+    [ "WorldPackets::WorldState::InitWorldStates::WorldStateInfo", "d9/d31/a10873.html", "d9/d31/a10873" ],
+    [ "WorldPackets::WorldState::UpdateWorldState", "db/d3b/a10877.html", "db/d3b/a10877" ]
 ];

@@ -1,7 +1,6 @@
 var a10853 =
 [
-    [ "CategoryRecoveryTime", "db/dcd/a10853.html#a5a089aa55b5db1f3e3d3fa0ff61bbfdd", null ],
-    [ "RecoveryTime", "db/dcd/a10853.html#ac0e514cfe760baf23f4f05d871e6779a", null ],
-    [ "StartRecoveryCategory", "db/dcd/a10853.html#abb7ca704f04612ddcec3e2e52470ca77", null ],
-    [ "StartRecoveryTime", "db/dcd/a10853.html#a3155069a4ef8d87d4c952f92df2ec42d", null ]
+    [ "PetUnlearnedSpell", "db/dcd/a10853.html#aa2b125a271228aee0d942a207de170b7", null ],
+    [ "Write", "db/dcd/a10853.html#a11cf7780eba530026a0898bfafd27109", null ],
+    [ "SpellID", "db/dcd/a10853.html#adfca5feb5be2408e489edc44e9cd215b", null ]
 ];

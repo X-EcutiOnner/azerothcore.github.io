@@ -1,5 +1,5 @@
 var a24141 =
 [
-    [ "OutdoorPvP_terokkar_forest", "dc/dbd/a24141.html#ac98a2b4c1dae9a8b75249eedeb7d8cb8", null ],
-    [ "GetOutdoorPvP", "dc/dbd/a24141.html#acf268293812d7a1a233e7f1fcba1e733", null ]
+    [ "go_crystal_prison", "dc/dbd/a24141.html#a0faca8b76f9650ee5cc7825b90463365", null ],
+    [ "OnQuestAccept", "dc/dbd/a24141.html#ad19d8bdf8361d5d7fca2917a6bf0977a", null ]
 ];

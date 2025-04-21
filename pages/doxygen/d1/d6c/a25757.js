@@ -1,6 +1,7 @@
 var a25757 =
 [
-    [ "spell_oscillating_field_SpellScript", "da/df3/a25761.html", "da/df3/a25761" ],
-    [ "spell_oscillating_field", "d1/d6c/a25757.html#aec4ec59c132067e31a009068964111af", null ],
-    [ "GetSpellScript", "d1/d6c/a25757.html#aa71cf93201e30f6ff648ac23df0e3488", null ]
+    [ "HandleEnergize", "d1/d6c/a25757.html#a283e713252166a863aa96530d6e7608b", null ],
+    [ "Load", "d1/d6c/a25757.html#a89847e0e9435a708c5722ff928f7033f", null ],
+    [ "PrepareSpellScript", "d1/d6c/a25757.html#a8847e05e6eeafd801fca5423d0689432", null ],
+    [ "Register", "d1/d6c/a25757.html#ae0778ffd8cf203e22510ee91b0394303", null ]
 ];

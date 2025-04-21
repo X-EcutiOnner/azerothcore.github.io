@@ -1,6 +1,7 @@
 var a25789 =
 [
-    [ "npc_wounded_blood_elfAI", "dc/da4/a25793.html", "dc/da4/a25793" ],
-    [ "npc_wounded_blood_elf", "db/dc3/a25789.html#a40e79d1412f5f399869a4d2c6fbb4260", null ],
-    [ "GetAI", "db/dc3/a25789.html#a39d4bd877bdf6596c65e3cb834f124aa", null ]
+    [ "HandleDummy", "db/dc3/a25789.html#a884ab3487725dbdd5b069f3a45b7164b", null ],
+    [ "PrepareSpellScript", "db/dc3/a25789.html#a6ad225a1bcd7bdad7ee1751766e7c129", null ],
+    [ "Register", "db/dc3/a25789.html#a0877a96dde66adb988628ebb93fe15b6", null ],
+    [ "Validate", "db/dc3/a25789.html#ad784bb6b5d3588965492b102f2b2898e", null ]
 ];

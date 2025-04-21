@@ -1,6 +1,6 @@
 var a25277 =
 [
-    [ "HandleHit", "d0/dcd/a25277.html#ab948b958955c2413ad6e15dfa09fd3cd", null ],
-    [ "PrepareSpellScript", "d0/dcd/a25277.html#a37ff09e6b82d69c85b5bd98e84968569", null ],
-    [ "Register", "d0/dcd/a25277.html#acb1b681f587817614c2b3684585369db", null ]
+    [ "CalculateAmount", "d0/dcd/a25277.html#a83bf0327aade6f6a33293a442ad10911", null ],
+    [ "PrepareAuraScript", "d0/dcd/a25277.html#aa964f4eb7391dab54ff744fc94306de1", null ],
+    [ "Register", "d0/dcd/a25277.html#a37d29d87bec2fe2908b7d3e47f5e1caa", null ]
 ];

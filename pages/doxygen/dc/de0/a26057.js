@@ -1,8 +1,10 @@
 var a26057 =
 [
-    [ "spell_q10929_fumping_AuraScript", "de/d1b/a26065.html", "de/d1b/a26065" ],
-    [ "spell_q10929_fumping_SpellScript", "d1/dc5/a26061.html", "d1/dc5/a26061" ],
-    [ "spell_q10929_fumping", "dc/de0/a26057.html#ae7061535890eb5569897bcfa853cc2ea", null ],
-    [ "GetAuraScript", "dc/de0/a26057.html#a04117c33975d66738a325064821dad16", null ],
-    [ "GetSpellScript", "dc/de0/a26057.html#a7de6de9ce85fead50a34739148b61e11", null ]
+    [ "CheckCast", "dc/de0/a26057.html#a49676a65c99a9a2d99ad78fee54d2302", null ],
+    [ "HandleScript", "dc/de0/a26057.html#a35b9d69b8147ef06527b8533ef376e72", null ],
+    [ "Load", "dc/de0/a26057.html#a25c373762375f207e6c3ba0a18d4a6e7", null ],
+    [ "PrepareSpellScript", "dc/de0/a26057.html#a31d3339531f75dfa0ca3a339d34d3012", null ],
+    [ "Register", "dc/de0/a26057.html#afd716f555ac73287bd268c6124b15b1c", null ],
+    [ "Validate", "dc/de0/a26057.html#a0938262e1f45821b9fbef42f5c96cc56", null ],
+    [ "_manaAmount", "dc/de0/a26057.html#add7d1cdf3abca0ada57cd719ad22602a", null ]
 ];

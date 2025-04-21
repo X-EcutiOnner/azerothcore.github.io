@@ -1,6 +1,8 @@
 var a15721 =
 [
-    [ "npc_twiggy_flatheadAI", "d3/d8b/a15725.html", "d3/d8b/a15725" ],
-    [ "npc_twiggy_flathead", "dc/ddf/a15721.html#a36e8ae89c9138e1a88c84ecbfd694963", null ],
-    [ "GetAI", "dc/ddf/a15721.html#a48c48994c199502bc3cfb96bf713bc5f", null ]
+    [ "HandleAfterCast", "dc/ddf/a15721.html#aa85852ff5e5d03637d1dcc43a446843e", null ],
+    [ "HandleDummyEffect", "dc/ddf/a15721.html#a539c233fc820248930e1988c4074b9c8", null ],
+    [ "Load", "dc/ddf/a15721.html#a4fc295b4d8775dce16d913fe4a8ce8cb", null ],
+    [ "PrepareSpellScript", "dc/ddf/a15721.html#aad6f7f1d29414475b5e678e7bd94737f", null ],
+    [ "Register", "dc/ddf/a15721.html#ae90184fd34636b33755b732ec82fd52f", null ]
 ];

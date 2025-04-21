@@ -1,7 +1,8 @@
 var a23641 =
 [
-    [ "HandleScriptEffect", "d2/d46/a23641.html#ad20cf97a7dd442d5670a22095b487a01", null ],
-    [ "PrepareSpellScript", "d2/d46/a23641.html#ab0f6da0cb3115e54dbb59f0e6f823d02", null ],
-    [ "Register", "d2/d46/a23641.html#a996ea344ea2a3312cb8886565b80972d", null ],
-    [ "Validate", "d2/d46/a23641.html#a29bf5a9615e02281f426bf521a045567", null ]
+    [ "boss_commander_sarannis", "d2/d46/a23641.html#ace0957feb37f864798008849be25f607", null ],
+    [ "JustDied", "d2/d46/a23641.html#a7796429f04c049549a4a02a1eb8d35fc", null ],
+    [ "JustEngagedWith", "d2/d46/a23641.html#ad4273db7c169c6cfa9917dd3b76c9c95", null ],
+    [ "KilledUnit", "d2/d46/a23641.html#a64e77321adc5eea9d3494a3e1030f9de", null ],
+    [ "ScheduleReinforcements", "d2/d46/a23641.html#a293f0b860a66396a30c6d255eef85309", null ]
 ];

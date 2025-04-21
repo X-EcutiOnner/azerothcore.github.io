@@ -1,6 +1,8 @@
 var a13085 =
 [
-    [ "SpectralBlastCheck", "d2/d2f/a13085.html#ada2eda8781891a4049ee30c5ecb81c3c", null ],
-    [ "operator()", "d2/d2f/a13085.html#afbe13a5f90a5b95832e14fe9d7affc9f", null ],
-    [ "_victim", "d2/d2f/a13085.html#ab96456159d61e781aa8d691dd0b1fec1", null ]
+    [ "CalcPeriodic", "d2/d2f/a13085.html#a9aaca3bb1d762c9bddf3b91205f48d00", null ],
+    [ "HandleDummyTick", "d2/d2f/a13085.html#acd3616df94f888ad5fb1c5b0607f6f25", null ],
+    [ "HandleUpdatePeriodic", "d2/d2f/a13085.html#a70ef86fd58eec1422bac6b61a4123842", null ],
+    [ "PrepareAuraScript", "d2/d2f/a13085.html#a9a97a6ab249728dbad4d3603640a7963", null ],
+    [ "Register", "d2/d2f/a13085.html#ab6b223ed68a521ea9a3cbc2a6e21ac49", null ]
 ];

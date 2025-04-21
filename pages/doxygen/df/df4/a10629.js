@@ -1,6 +1,7 @@
 var a10629 =
 [
-    [ "WorldSession", "df/df4/a10629.html#a65b5c30bf4f5f118a199e378d903aaf6", null ],
-    [ "Guid", "df/df4/a10629.html#a46a89b6904e59f39f4e1460a9bb45765", null ],
-    [ "Name", "df/df4/a10629.html#a4e747a555bde74f97a5fc78287e5e29d", null ]
+    [ "GuildBankActivate", "df/df4/a10629.html#a5b27541a26ada694d9635f6d6873ef20", null ],
+    [ "Read", "df/df4/a10629.html#a8dbde75aaa3102024aa0ff3a8f3625da", null ],
+    [ "Banker", "df/df4/a10629.html#a9b79075c6ee6a4f73ae18c6956eead7c", null ],
+    [ "FullUpdate", "df/df4/a10629.html#a50b9a5333e2296e654c90fc6394bdbd3", null ]
 ];

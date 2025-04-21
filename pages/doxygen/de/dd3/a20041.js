@@ -1,7 +1,7 @@
 var a20041 =
 [
-    [ "HandleRemove", "de/dd3/a20041.html#aed1b2fdaf286dabfc16010f7f02eef49", null ],
-    [ "PrepareAuraScript", "de/dd3/a20041.html#a44a3719318b902639911d30a92c201e7", null ],
-    [ "Register", "de/dd3/a20041.html#a74ca2d97bb200943b38f1fdbc110c9d8", null ],
-    [ "Validate", "de/dd3/a20041.html#a9abd375d341f924f4a3d20dfaa2f7bea", null ]
+    [ "HandleEffectPeriodic", "de/dd3/a20041.html#ae1c6062123fb62a48f542e43b34c7bcd", null ],
+    [ "PrepareAuraScript", "de/dd3/a20041.html#a1c54b6c86fc39d96d601b24c5b30fbdd", null ],
+    [ "Register", "de/dd3/a20041.html#af7a5a98b5cf784d2de8b57a183c19142", null ],
+    [ "Validate", "de/dd3/a20041.html#a16c536c913d003826ef4b86c7a497fec", null ]
 ];

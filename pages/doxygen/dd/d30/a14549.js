@@ -1,11 +1,10 @@
 var a14549 =
 [
-    [ "npc_doomfire_targettingAI", "dd/d30/a14549.html#a07ece54edee7bcf83c0807f73b821403", null ],
-    [ "DamageTaken", "dd/d30/a14549.html#aedb9b9cc650e648a69e5e45d1821b64a", null ],
-    [ "JustEngagedWith", "dd/d30/a14549.html#aa28b612931636dc18ad1c498d9b0dd45", null ],
-    [ "MoveInLineOfSight", "dd/d30/a14549.html#a1bf5c9024b607d5734e10be114cc7e65", null ],
-    [ "Reset", "dd/d30/a14549.html#a0dc4f7aa069fd077b90799bc2a0c9627", null ],
-    [ "UpdateAI", "dd/d30/a14549.html#abf01058da8dab586dc2f910bc17296c5", null ],
-    [ "ChangeTargetTimer", "dd/d30/a14549.html#a5fa8995bc43274706361e8f929a5bc50", null ],
-    [ "TargetGUID", "dd/d30/a14549.html#a9c96a59db9123dec192e0868bd775321", null ]
+    [ "boss_rage_winterchill", "dd/d30/a14549.html#a66fed2a7cc6135d41a2c40bdf4ffe02e", null ],
+    [ "DoAction", "dd/d30/a14549.html#a45333aea6d6a180473ca4823ea83920a", null ],
+    [ "JustDied", "dd/d30/a14549.html#ab10c7df81a9e71b2c114465c30e40a9b", null ],
+    [ "JustEngagedWith", "dd/d30/a14549.html#ad36a840c65949c54d5ee3ae8cb6f1f7b", null ],
+    [ "KilledUnit", "dd/d30/a14549.html#a69d69530a080379add7be73c552f4937", null ],
+    [ "PathEndReached", "dd/d30/a14549.html#aec47befdf3246710a5158780fa797fa7", null ],
+    [ "_recentlySpoken", "dd/d30/a14549.html#ae2141b4ea1d10cb74146aec63d65214c", null ]
 ];

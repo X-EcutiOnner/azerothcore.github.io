@@ -1,6 +1,7 @@
 var a21557 =
 [
-    [ "npc_ulduar_iron_constructAI", "d8/de1/a21561.html", "d8/de1/a21561" ],
-    [ "npc_ulduar_iron_construct", "d9/de0/a21557.html#a56ddf4d4d290dbb15303419c1dab18da", null ],
-    [ "GetAI", "d9/de0/a21557.html#a7d46ba96b6f1968e35721d45c17b1a49", null ]
+    [ "npc_warmage_violetstand", "d9/de0/a21557.html#a1f67c9521cc3bd63886a8936b28e6622", null ],
+    [ "Reset", "d9/de0/a21557.html#a99015610597f43f184cc686c9fab2fa9", null ],
+    [ "UpdateAI", "d9/de0/a21557.html#aa0eac837ab697c3e0cd5ab753f0bd0b4", null ],
+    [ "targetGUID", "d9/de0/a21557.html#a46560aa7aa90778967a79c931a81721b", null ]
 ];

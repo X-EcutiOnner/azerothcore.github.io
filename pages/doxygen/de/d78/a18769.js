@@ -1,6 +1,5 @@
 var a18769 =
 [
-    [ "spell_sindragosa_icy_grip_jump_SpellScript", "d3/d79/a18773.html", "d3/d79/a18773" ],
-    [ "spell_sindragosa_icy_grip_jump", "de/d78/a18769.html#a4bcdb417ebdb65fa0e7865acac881220", null ],
-    [ "GetSpellScript", "de/d78/a18769.html#af78cf133504cae252225d7470d882a94", null ]
+    [ "at_icc_spire_frostwyrm", "de/d78/a18769.html#ac3da2c0bc3e8b1c31832fcbb4e8ceae8", null ],
+    [ "_OnTrigger", "de/d78/a18769.html#a67e320fb8ada7cb2c87f5944395fa174", null ]
 ];

@@ -1,6 +1,6 @@
 var a16421 =
 [
-    [ "spell_eadric_radiance_SpellScript", "d9/dbf/a16425.html", "d9/dbf/a16425" ],
-    [ "spell_eadric_radiance", "d5/d80/a16421.html#a72ca7ace293940036db1f66d6ae92832", null ],
-    [ "GetSpellScript", "d5/d80/a16421.html#a90970e60f664eaa436e9a941c3c775a8", null ]
+    [ "npc_fel_infernalAI", "d9/dbf/a16425.html", "d9/dbf/a16425" ],
+    [ "npc_fel_infernal", "d5/d80/a16421.html#a2d2ed8cf09c97d30b6c79dcdf9153ed9", null ],
+    [ "GetAI", "d5/d80/a16421.html#a768201a7516c9972800c941cf2079a11", null ]
 ];

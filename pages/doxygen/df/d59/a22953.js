@@ -1,6 +1,6 @@
 var a22953 =
 [
-    [ "HandleEffectRemove", "df/d59/a22953.html#ad38968a5bec7ddbd6fef9e7035f9b440", null ],
-    [ "PrepareAuraScript", "df/d59/a22953.html#a0563ab5ce08c910d788874081424e55f", null ],
-    [ "Register", "df/d59/a22953.html#a511e9c4f92ab480d5d3063ee4a912b74", null ]
+    [ "HandleScriptEffect", "df/d59/a22953.html#a0810dd4ad4d324c1a53e192fc99d1d35", null ],
+    [ "PrepareSpellScript", "df/d59/a22953.html#a0ece61d7bed3e19ee6f6175a55c0733d", null ],
+    [ "Register", "df/d59/a22953.html#a827cefe322562f0e8ea7cfa58b9a776b", null ]
 ];

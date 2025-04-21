@@ -1,6 +1,7 @@
 var a22993 =
 [
-    [ "npc_beryl_sorcererAI", "dc/d75/a22997.html", "dc/d75/a22997" ],
-    [ "npc_beryl_sorcerer", "d7/d66/a22993.html#a4f74ee45ee0730fcfd044418771a9ee1", null ],
-    [ "GetAI", "d7/d66/a22993.html#a963646eed9f121f87efe480312957286", null ]
+    [ "OnPeriodic", "d7/d66/a22993.html#ad64b9ba13ef7d77cd778afb8e412ad04", null ],
+    [ "PrepareAuraScript", "d7/d66/a22993.html#a40faff90cb247203d3afafad9c44bfd7", null ],
+    [ "Register", "d7/d66/a22993.html#a8b2d4235784396b8c29b8e7de51e5708", null ],
+    [ "Validate", "d7/d66/a22993.html#a57b481cf462f53ec76f2db326b48c9b6", null ]
 ];

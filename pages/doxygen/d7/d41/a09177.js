@@ -1,16 +1,14 @@
 var a09177 =
 [
-    [ "BankMoveItemData", "d7/d41/a09177.html#a9edb987f4866e8bc473fe853597bebae", null ],
-    [ "_ReserveSpace", "d7/d41/a09177.html#a109e8d55108b005426110626815ba866", null ],
-    [ "_StoreItem", "d7/d41/a09177.html#aa11267f5d6202753310da567c0be0e57", null ],
-    [ "CanStore", "d7/d41/a09177.html#ade47c73460329ca1af752921173ca75e", null ],
-    [ "CanStoreItemInTab", "d7/d41/a09177.html#a5ca7975887e5583466d066c86b3a205f", null ],
-    [ "HasStoreRights", "d7/d41/a09177.html#acd684824cab9ccb4d8fd9cbb1f1782e1", null ],
-    [ "HasWithdrawRights", "d7/d41/a09177.html#ae9d8f497b4459c982ac73ee8b5742aad", null ],
-    [ "InitItem", "d7/d41/a09177.html#a69d6b28ccdda7790f821f5181da0db96", null ],
-    [ "IsBank", "d7/d41/a09177.html#a6f1787e15918092ba000ee8bd0852b09", null ],
-    [ "LogAction", "d7/d41/a09177.html#a4f23cdffba39ffa78c38851ff7aa7d0c", null ],
-    [ "LogBankEvent", "d7/d41/a09177.html#a054ca0f7eecfd404651c11b886d106bf", null ],
-    [ "RemoveItem", "d7/d41/a09177.html#abd15e25136ec2a00bcddbc0e81978a78", null ],
-    [ "StoreItem", "d7/d41/a09177.html#a9367b938768eefcaf5bb88e74dde9aa3", null ]
+    [ "WorldObjectLastSearcher", "d7/d41/a09177.html#af8baf5ff23a3167a963ade43faec09fc", null ],
+    [ "Visit", "d7/d41/a09177.html#ac011f150695eb1f3a83536175fd2a016", null ],
+    [ "Visit", "d7/d41/a09177.html#af5c5a533084c436e0d7de828e1ef82ad", null ],
+    [ "Visit", "d7/d41/a09177.html#a962a050f568dab037a9a48879eae0f86", null ],
+    [ "Visit", "d7/d41/a09177.html#a98967233e04c6223361897c02bc0edc5", null ],
+    [ "Visit", "d7/d41/a09177.html#a94d30e81eb509ff4fd3dac7c207c819b", null ],
+    [ "Visit", "d7/d41/a09177.html#a39a9d66014df641c0cb08f619f9d8434", null ],
+    [ "i_check", "d7/d41/a09177.html#a66afc21dd0fd740c2723516b8c33a319", null ],
+    [ "i_mapTypeMask", "d7/d41/a09177.html#a5689c8aa9120bc545c98ec0916d78d56", null ],
+    [ "i_object", "d7/d41/a09177.html#a765d65a90639b34a8cf9f42fdd6ae653", null ],
+    [ "i_phaseMask", "d7/d41/a09177.html#a966213d495a613f33aebaa8ebda7c380", null ]
 ];

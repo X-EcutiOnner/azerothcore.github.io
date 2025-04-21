@@ -1,6 +1,7 @@
 var a10261 =
 [
-    [ "GuildAddRank", "d9/dfa/a10261.html#a59c75f3e40e57b5e64f6fa9753a7e0b9", null ],
-    [ "Read", "d9/dfa/a10261.html#a23636e4b8bd37ea85a282fb1630a969e", null ],
-    [ "Name", "d9/dfa/a10261.html#a25969282befa638dfb08cf12f14bce53", null ]
+    [ "GameEventScript", "d9/dfa/a10261.html#ac43a9c70638ad56b69b5841ee8410374", null ],
+    [ "OnEventCheck", "d9/dfa/a10261.html#aadab9593da561e9b19202d09b53cba36", null ],
+    [ "OnStart", "d9/dfa/a10261.html#a0e61a9e1379aef55af93a593af84a3cc", null ],
+    [ "OnStop", "d9/dfa/a10261.html#a4813f26f03e5ba79a740bf30558e604c", null ]
 ];

@@ -1,7 +1,5 @@
 var a27593 =
 [
-    [ "HandleDummy", "de/db4/a27593.html#ac3486a646322ef1b6098eeeedaec7d4b", null ],
-    [ "PrepareSpellScript", "de/db4/a27593.html#a455bdb8fb98431d47b3e414dc3b59b13", null ],
-    [ "Register", "de/db4/a27593.html#acdade97c38a75439b3da751a0c348e37", null ],
-    [ "Validate", "de/db4/a27593.html#a2081334e6b7a4191801bc0556e26198c", null ]
+    [ "ServerMailReward", "de/db4/a27593.html#aba48b4c171e8e8a40fca2d3bed6b7f63", null ],
+    [ "OnPlayerLogin", "de/db4/a27593.html#ada945e805278d54746b6fabaf48b4546", null ]
 ];

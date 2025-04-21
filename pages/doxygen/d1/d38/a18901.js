@@ -1,9 +1,6 @@
 var a18901 =
 [
-    [ "ShadowTrapLKTargetSelector", "d1/d38/a18901.html#a33561775948e07ac6ade2037f237441d", null ],
-    [ "operator()", "d1/d38/a18901.html#a3770329509c6ab2f16ae369ea8d72645", null ],
-    [ "_maxDist", "d1/d38/a18901.html#a6ee78b1ca184a05d01aa053afe499a95", null ],
-    [ "_playerOnly", "d1/d38/a18901.html#acfb3a657e430bc2ca26680bef6cf0159", null ],
-    [ "_reqLOS", "d1/d38/a18901.html#a7911be23196f59d55028affc3be23c20", null ],
-    [ "_source", "d1/d38/a18901.html#af416013aabf3b217b07228072076603d", null ]
+    [ "boss_gothikAI", "db/dfb/a18905.html", "db/dfb/a18905" ],
+    [ "boss_gothik", "d1/d38/a18901.html#a0c3ee990a1caf020e9a4be000f0b77e0", null ],
+    [ "GetAI", "d1/d38/a18901.html#aea7aec86c4132521fb7b9b6e87baf289", null ]
 ];

@@ -1,13 +1,16 @@
 var a24089 =
 [
-    [ "OPvPCapturePointEP_PWT", "dc/d7a/a24089.html#a17e3d11c9b282f203bb0e1511fb5af02", null ],
-    [ "ChangeState", "dc/d7a/a24089.html#a1e26a3ed8d700533df0a51d8db510a4f", null ],
-    [ "FillInitialWorldStates", "dc/d7a/a24089.html#a823b74c3f4e2dac7e02b060ccfb93c89", null ],
-    [ "HandlePlayerEnter", "dc/d7a/a24089.html#ab9bf289c0814e60fd75902b4e87d1e46", null ],
-    [ "HandlePlayerLeave", "dc/d7a/a24089.html#a5772e54263c613eee365856def5e74e6", null ],
-    [ "SendChangePhase", "dc/d7a/a24089.html#af1cffc64adac5b64c04175ad1685d0b8", null ],
-    [ "SummonFlightMaster", "dc/d7a/a24089.html#ab3808f8d756cc5f0b48db9375ae2fa1c", null ],
-    [ "UpdateTowerState", "dc/d7a/a24089.html#af30325b43d2861eb667b33dcb23ffc1e", null ],
-    [ "m_FlightMasterSpawnedId", "dc/d7a/a24089.html#afeefd804849b925e6d0a880d8efb5319", null ],
-    [ "m_TowerState", "dc/d7a/a24089.html#a914dcbb37baf457750cfe9829d95d88c", null ]
+    [ "npc_dragonmaw_peonAI", "dc/d7a/a24089.html#a6f1255fead5357001ec85fdaa6980249", null ],
+    [ "CreditPlayer", "dc/d7a/a24089.html#a5cf28e156cab2e2066bb94bc99233a2b", null ],
+    [ "JustEngagedWith", "dc/d7a/a24089.html#abd5b37793aa2fb150c808b7dc7270763", null ],
+    [ "MovementInform", "dc/d7a/a24089.html#a0ee4038f90d54c75c48b2448dacb5724", null ],
+    [ "Reset", "dc/d7a/a24089.html#a9d876ec76b51f743c71e67749c21d939", null ],
+    [ "SpellHit", "dc/d7a/a24089.html#abe5162608ba0acd7360a630562ff5935", null ],
+    [ "UpdateAI", "dc/d7a/a24089.html#a98a045606d9e689ef25a5068b81b1ebf", null ],
+    [ "events", "dc/d7a/a24089.html#a7d6fb37d1953630aa79f8665eca0db61", null ],
+    [ "PlayerGUID", "dc/d7a/a24089.html#ad6838d98e34a32cbed42c77cdf096070", null ],
+    [ "Tapped", "dc/d7a/a24089.html#ae393f8d3cb47f38a4c4314a262826d03", null ],
+    [ "x", "dc/d7a/a24089.html#acebbfa8da88d8d683ba5ea6463f6b5f7", null ],
+    [ "y", "dc/d7a/a24089.html#ae5a1d416c712803ec0b80ae7ccf29e2d", null ],
+    [ "z", "dc/d7a/a24089.html#a7722420716c030b5abe7b760199df14d", null ]
 ];

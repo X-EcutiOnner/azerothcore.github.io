@@ -1,6 +1,9 @@
 var a08773 =
 [
-    [ "PlayerRelocationNotifier", "d5/d80/a08773.html#a01cbecc2a9727d822b94a90b0c3035aa", null ],
-    [ "Visit", "d5/d80/a08773.html#ab9b3ad469216db3a7a49176b41b0b1ea", null ],
-    [ "Visit", "d5/d80/a08773.html#acffc7490cb9b0cf171a1cfc6e1dbdc79", null ]
+    [ "GameEventAIHookWorker", "d5/d80/a08773.html#ad72640a18d2d32a9201c965089ee49cf", null ],
+    [ "Visit", "d5/d80/a08773.html#a23d979ee43838e7d58e9123e36474a5a", null ],
+    [ "Visit", "d5/d80/a08773.html#a79106ec550d072d690bbf3496d76cb0a", null ],
+    [ "Visit", "d5/d80/a08773.html#a165476edd8b252bbb90b8b78fae963a6", null ],
+    [ "_activate", "d5/d80/a08773.html#a756665eafa08f3c8c51ccef69bdd619f", null ],
+    [ "_eventId", "d5/d80/a08773.html#ab1ee68bb7134e84780772eba2cfac766", null ]
 ];

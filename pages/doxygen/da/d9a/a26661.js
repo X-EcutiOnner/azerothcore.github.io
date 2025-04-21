@@ -1,6 +1,6 @@
 var a26661 =
 [
-    [ "PrepareSpellScript", "da/d9a/a26661.html#acfa320b33c00883a78c3696bbbeb7eb0", null ],
-    [ "Register", "da/d9a/a26661.html#a6d251ba1e88d4349dcffa96978389a7f", null ],
-    [ "SelectTarget", "da/d9a/a26661.html#a0d95f8ad8d05d2c0b100dc10988d00c9", null ]
+    [ "HandleSchoolDMG", "da/d9a/a26661.html#a8f3ff0a48d5de4dcd33831400de0ba28", null ],
+    [ "PrepareSpellScript", "da/d9a/a26661.html#a42bb397aa53fb43ba1b1799a7f162d9b", null ],
+    [ "Register", "da/d9a/a26661.html#ac1271959fe8de3c11403b1e76acdbf15", null ]
 ];

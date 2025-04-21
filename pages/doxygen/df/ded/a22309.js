@@ -1,6 +1,5 @@
 var a22309 =
 [
-    [ "spell_yogg_saron_insane_AuraScript", "dc/d93/a22313.html", "dc/d93/a22313" ],
-    [ "spell_yogg_saron_insane", "df/ded/a22309.html#ab34ed9de34999f6673588258fbc0fb10", null ],
-    [ "GetAuraScript", "df/ded/a22309.html#a42ff92cce4e4ae398fcab4d39853407b", null ]
+    [ "achievement_wg_didnt_stand_a_chance", "df/ded/a22309.html#afb397c74f00d1f5c59a24ef74b0cd1cd", null ],
+    [ "OnCheck", "df/ded/a22309.html#ae575bae454689e05c161e8480a13fa18", null ]
 ];

@@ -1,7 +1,6 @@
 var a19361 =
 [
-    [ "npc_blazing_skeletonAI", "dd/dd9/a19361.html#ad4f997a7a4cc0fa96594da35434fd921", null ],
-    [ "Reset", "dd/dd9/a19361.html#a3bbc4cf7b6dbe11d6768a0fb0626e84a", null ],
-    [ "UpdateAI", "dd/dd9/a19361.html#a0010c4befd13ec6beada0de1607f3f7a", null ],
-    [ "_events", "dd/dd9/a19361.html#aab1b04989d5e3fc289f00bc121df193d", null ]
+    [ "PrepareSpellScript", "dd/dd9/a19361.html#a65c3b2c9a416b7d1bbd3c14057e5f8fc", null ],
+    [ "Register", "dd/dd9/a19361.html#ad8470ed0d09c2b7e79fa4ecb1867e9bf", null ],
+    [ "SetDest", "dd/dd9/a19361.html#a24341aae14ed77101d4c31f2fbe11463", null ]
 ];

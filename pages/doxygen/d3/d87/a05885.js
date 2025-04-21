@@ -1,10 +1,11 @@
 var a05885 =
 [
-    [ "Storage", "d3/d87/a05885.html#a49a70316b169e50ad64ff51d6a568bbc", null ],
-    [ "AchievementCriteriaDataSet", "d3/d87/a05885.html#a5055f8710c48379035e132e8f20577dc", null ],
-    [ "Add", "d3/d87/a05885.html#a297f02665679b19961998fb529d064e4", null ],
-    [ "Meets", "d3/d87/a05885.html#a8edbe32d695308633fa7abfc91d2a1a1", null ],
-    [ "SetCriteriaId", "d3/d87/a05885.html#addedfd39d9948923a2704b51eaacecbc", null ],
-    [ "_criteria_id", "d3/d87/a05885.html#a0abc37729d2f3c400bb7cfde212f51c0", null ],
-    [ "_storage", "d3/d87/a05885.html#a6abf189d95226b370cfcfe7b628ed7c0", null ]
+    [ "AppliedFileEntry", "d3/d87/a05885.html#ac925dd4c2f889ae84e8be8cba9a0ef06", null ],
+    [ "GetStateAsString", "d3/d87/a05885.html#a803f0ee67f0d3944b0933cf97723b5d3", null ],
+    [ "StateConvert", "d3/d87/a05885.html#a16274f0e9e6669be265ba75f79c4b10f", null ],
+    [ "StateConvert", "d3/d87/a05885.html#ac35fc4abcc60015c56765ceebc6fdb8f", null ],
+    [ "hash", "d3/d87/a05885.html#af39f798a10c2675e870d4d62f1d0a10c", null ],
+    [ "name", "d3/d87/a05885.html#a8fc429eae6816054b5828952a5698a4c", null ],
+    [ "state", "d3/d87/a05885.html#a7899f60d95db04e776b7ccfbc1003cfb", null ],
+    [ "timestamp", "d3/d87/a05885.html#a13703e88b76f26858696b33a8bc8f862", null ]
 ];

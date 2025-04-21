@@ -1,6 +1,6 @@
 var a15637 =
 [
-    [ "npc_anachronos_quest_triggerAI", "de/df0/a15641.html", "de/df0/a15641" ],
-    [ "npc_anachronos_quest_trigger", "dc/d64/a15637.html#ad39871952acd3152b51820fe360f4ebd", null ],
-    [ "GetAI", "dc/d64/a15637.html#a2e0e6a69ed1cbed76db9c4bd64d51330", null ]
+    [ "creatureID", "dc/d64/a15637.html#a44a9f5e58bfa58e2e2325e116e988f07", null ],
+    [ "pos", "dc/d64/a15637.html#a9705a858cc2c3867e104514d3a0a1866", null ],
+    [ "waveID", "dc/d64/a15637.html#a09b48f7f6da7e203ed50a8abc7f24e56", null ]
 ];

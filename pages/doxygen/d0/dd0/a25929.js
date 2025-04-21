@@ -1,6 +1,7 @@
 var a25929 =
 [
-    [ "npc_mature_netherwing_drakeAI", "d9/db3/a25933.html", "d9/db3/a25933" ],
-    [ "npc_mature_netherwing_drake", "d0/dd0/a25929.html#a3369bd143ff9e46a4ad4c44b6d8c0ec5", null ],
-    [ "GetAI", "d0/dd0/a25929.html#ac5a1dad24920396156f22ab02bfab84b", null ]
+    [ "CalculateAmount", "d0/dd0/a25929.html#a0934aa8eaf442314aa6050d85304c15b", null ],
+    [ "CalculateSpellAmount", "d0/dd0/a25929.html#ab765b87350bd3e73ac43879abef72d98", null ],
+    [ "PrepareAuraScript", "d0/dd0/a25929.html#a627c6a88ed6ce051b0d6a06d94288498", null ],
+    [ "Register", "d0/dd0/a25929.html#ae1b5265f817f1f4ec011d4e2607686eb", null ]
 ];

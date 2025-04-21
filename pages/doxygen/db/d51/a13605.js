@@ -1,7 +1,7 @@
 var a13605 =
 [
-    [ "HandleScript", "db/d51/a13605.html#ad85959388a639a4eff41de6f86b993e7", null ],
-    [ "PrepareSpellScript", "db/d51/a13605.html#ab566be9bb39b22e6ac3fb3f9fe925480", null ],
-    [ "Register", "db/d51/a13605.html#aafefe99f81605c6f55f072deb2306385", null ],
-    [ "Validate", "db/d51/a13605.html#a63958630c37002d989cd32a8fc37dd37", null ]
+    [ "o", "db/d51/a13605.html#a455ab33d372dd2aeac9d591f3cce1013", null ],
+    [ "x", "db/d51/a13605.html#a49ad07d6ecb902ae4818923a6414f3c1", null ],
+    [ "y", "db/d51/a13605.html#a45ec9c234e9d909eb8fcc0db6e0d641e", null ],
+    [ "z", "db/d51/a13605.html#abf42d988d416ebe409100c4b860d26db", null ]
 ];

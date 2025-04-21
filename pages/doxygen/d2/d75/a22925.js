@@ -1,9 +1,9 @@
 var a22925 =
 [
-    [ "npc_azure_sorcerorAI", "d2/d75/a22925.html#a474a7144908d4820341dc56f77436b90", null ],
-    [ "Reset", "d2/d75/a22925.html#a4c637288f79e1da4bdace6516cd887b1", null ],
-    [ "UpdateAI", "d2/d75/a22925.html#a928d789e2cbd35b228857a23c4204ea1", null ],
-    [ "uiArcaneStreamTimer", "d2/d75/a22925.html#ad238fe8fed4dcefd923d901e4f73ed05", null ],
-    [ "uiArcaneStreamTimerStartingValueHolder", "d2/d75/a22925.html#af044879e8e064e28a491c87d0c6cde74", null ],
-    [ "uiManaDetonationTimer", "d2/d75/a22925.html#a3ebe4eb452296f3c45db5c1b6cdaa243", null ]
+    [ "boss_najentus", "d2/d75/a22925.html#ac5d3d54a49524892fe844925d483c244", null ],
+    [ "JustDied", "d2/d75/a22925.html#afee32dd32033c7a45068ce12e961797c", null ],
+    [ "JustEngagedWith", "d2/d75/a22925.html#a46e3aab64c21b24ac6457acd598679ec", null ],
+    [ "KilledUnit", "d2/d75/a22925.html#ad55e1de3aa7a636b3d30b0d61a17dab9", null ],
+    [ "Reset", "d2/d75/a22925.html#ab7e0bdb8954722c9080146a88a3c5aa2", null ],
+    [ "_canTalk", "d2/d75/a22925.html#a25ac29a79cdcfb4ebc48de13d677f1d4", null ]
 ];

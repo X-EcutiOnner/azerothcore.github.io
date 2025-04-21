@@ -1,7 +1,6 @@
 var a20497 =
 [
-    [ "CalcDamage", "df/d56/a20497.html#ab676119d2120f53a9d9d7a14725a2c6d", null ],
-    [ "PrepareSpellScript", "df/d56/a20497.html#aa76051d7076f64013fde65d1e2747c0b", null ],
-    [ "Register", "df/d56/a20497.html#a93eaa58abef2da183f9ad9273623690a", null ],
-    [ "Validate", "df/d56/a20497.html#aa76bff752ba0ebbc81d634508de8db2c", null ]
+    [ "boss_thorimAI", "da/db7/a20501.html", "da/db7/a20501" ],
+    [ "boss_thorim", "df/d56/a20497.html#a23a52a05aea5092cef8fe47be28b4bfb", null ],
+    [ "GetAI", "df/d56/a20497.html#a70895451317569f50adc11474e653515", null ]
 ];

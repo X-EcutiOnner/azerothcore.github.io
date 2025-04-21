@@ -1,12 +1,14 @@
 var a14841 =
 [
-    [ "boss_lieutenant_drake", "d2/d4e/a14841.html#a67e00ef68d5b07023cc9dc7bd6a2289b", null ],
-    [ "InitializeAI", "d2/d4e/a14841.html#a2b3eb857c0711b89b6e7a6f3f5f05441", null ],
-    [ "JustDied", "d2/d4e/a14841.html#aca7654e30aac96fa509f99f3447121ec", null ],
-    [ "JustEngagedWith", "d2/d4e/a14841.html#ae31ac13106d09b8b447aa8fd9d864e41", null ],
-    [ "KilledUnit", "d2/d4e/a14841.html#a833c889c28ea35a6198fe753b604a8ed", null ],
-    [ "MovementInform", "d2/d4e/a14841.html#aec6e332bc5739552cbbec27569c55759", null ],
-    [ "UpdateAI", "d2/d4e/a14841.html#ad898722dfe01c2e4f814fc5af9f057b8", null ],
-    [ "pathId", "d2/d4e/a14841.html#ac63f9c885296a797799c0cd83b0ade64", null ],
-    [ "runSecondPath", "d2/d4e/a14841.html#a3ea53e2048224ac3bbc4dceda316d7c4", null ]
+    [ "boss_ayamiss", "d2/d4e/a14841.html#a0e923d4fa8bd6623ec58d7f64b5ea261", null ],
+    [ "DoAction", "d2/d4e/a14841.html#a0114a79274c34fe3dfbc8a34f39920bc", null ],
+    [ "EnterEvadeMode", "d2/d4e/a14841.html#a52f584da6d3d1b87fe91528dc25b8c5e", null ],
+    [ "JustDied", "d2/d4e/a14841.html#acddcbb06b7d5980e199ef11103fabf7c", null ],
+    [ "JustEngagedWith", "d2/d4e/a14841.html#aaaf1b765256f4a6342d16bd7767f92cf", null ],
+    [ "JustSummoned", "d2/d4e/a14841.html#a4281f761256cd93c19aea0a76239512d", null ],
+    [ "MovementInform", "d2/d4e/a14841.html#a6bc1f0767785efb5a5fb005b49338032", null ],
+    [ "Reset", "d2/d4e/a14841.html#a10111f97236c2846181aa20f7d9b64fd", null ],
+    [ "ScheduleTasks", "d2/d4e/a14841.html#a166238b9395a426a7333cf71a38c6c5c", null ],
+    [ "_swarmers", "d2/d4e/a14841.html#aa6dd99f8085d1424acf07cc124ac210c", null ],
+    [ "homePos", "d2/d4e/a14841.html#ab098ee0f8872d1cf9d34993c01971921", null ]
 ];

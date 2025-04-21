@@ -1,6 +1,6 @@
 var a21893 =
 [
-    [ "boss_thorim_lightning_orbAI", "dc/d88/a21897.html", "dc/d88/a21897" ],
-    [ "boss_thorim_lightning_orb", "d4/d84/a21893.html#a2aa29e8d2b3fb10e8be39d8fc3112ac2", null ],
-    [ "GetAI", "d4/d84/a21893.html#ad24d28866145c4fccf7a3971856fa87f", null ]
+    [ "HandleOnEffectRemove", "d4/d84/a21893.html#a5aeae7d8fc2fb8c8a1ce446ba1887c51", null ],
+    [ "PrepareAuraScript", "d4/d84/a21893.html#af415e4d7ea0b4b881af94eb7ea0c3f4c", null ],
+    [ "Register", "d4/d84/a21893.html#a242faa8822f9cdb7762d8ec3b6245b30", null ]
 ];

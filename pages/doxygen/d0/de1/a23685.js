@@ -1,6 +1,10 @@
 var a23685 =
 [
-    [ "npc_artruis_the_hearthlessAI", "d4/d07/a23689.html", "d4/d07/a23689" ],
-    [ "npc_artruis_the_hearthless", "d0/de1/a23685.html#abeed70f4306113bd5df242eae91bfdb0", null ],
-    [ "GetAI", "d0/de1/a23685.html#a1a7674c5e3e9e0de848bfb0d906ac06c", null ]
+    [ "CheckProc", "d0/de1/a23685.html#ac176c59497cc2196c19dc8a1b9f8056d", null ],
+    [ "Load", "d0/de1/a23685.html#aad39e53d6b3fc673c115f79ca0bc9b68", null ],
+    [ "PrepareAuraScript", "d0/de1/a23685.html#a990cab2c1d9fb544bf11c9fd4e5495ac", null ],
+    [ "Register", "d0/de1/a23685.html#ae2cf612df18cf249bc4a90ce9332fc9b", null ],
+    [ "_lastForm", "d0/de1/a23685.html#ad392a897546cb64e550dd8b0709ba0ab", null ],
+    [ "_lastSchool", "d0/de1/a23685.html#afc2e3e388615ed5cf0f4dd672f26de85", null ],
+    [ "_swapTime", "d0/de1/a23685.html#af832dc200e928df3849ab7d7f93cb412", null ]
 ];

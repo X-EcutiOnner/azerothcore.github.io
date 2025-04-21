@@ -1,9 +1,7 @@
 var a21737 =
 [
-    [ "npc_ulduar_bot_summon_triggerAI", "d7/d75/a21737.html#a60e0706b9285cdf4b25b6f399cad18e9", null ],
-    [ "DoAction", "d7/d75/a21737.html#ac5d0e28ee330741da3b287d965537f39", null ],
-    [ "Reset", "d7/d75/a21737.html#a91207c04ecee6fc0e906133e054bf51b", null ],
-    [ "UpdateAI", "d7/d75/a21737.html#aebec433e806d4f63f5593db0301612b4", null ],
-    [ "option", "d7/d75/a21737.html#a98bb19fea19a05127b4b32df039acf05", null ],
-    [ "timer", "d7/d75/a21737.html#a118d048557b0ed314180299c3cd2bcbc", null ]
+    [ "FilterTargets", "d7/d75/a21737.html#af62588a225f0b701a0f9321677ae22b8", null ],
+    [ "HandleScript", "d7/d75/a21737.html#ad68fad08b2613de096e504bb7dea61cd", null ],
+    [ "PrepareSpellScript", "d7/d75/a21737.html#a76ac3fe280585a4e2b2d599b4bcc7846", null ],
+    [ "Register", "d7/d75/a21737.html#a8fdbf1c7ab67c0ef094d738ec9a169d8", null ]
 ];

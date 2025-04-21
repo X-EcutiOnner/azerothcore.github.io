@@ -1,6 +1,7 @@
 var a17705 =
 [
-    [ "HandleScript", "d6/d7a/a17705.html#aeb2e64c1615e6c247ea5e5c2470af26a", null ],
-    [ "PrepareSpellScript", "d6/d7a/a17705.html#aa929b29db99096a20ba28e6db035506a", null ],
-    [ "Register", "d6/d7a/a17705.html#a1fc0bce3eed1f7b3c7ad2c41f9010998", null ]
+    [ "HandleScriptEffect", "d6/d7a/a17705.html#abeb703f8f050677bafb8f5ce4173751a", null ],
+    [ "PrepareSpellScript", "d6/d7a/a17705.html#a19dec2c1cbe72d90fa86960d7bb21277", null ],
+    [ "Register", "d6/d7a/a17705.html#aa2c6c9de775ecce9f84485e0ac64a651", null ],
+    [ "SelectTarget", "d6/d7a/a17705.html#ae8eb94536a9f08138b42cfe8ea711eaa", null ]
 ];

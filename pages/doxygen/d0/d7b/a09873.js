@@ -1,6 +1,6 @@
 var a09873 =
 [
-    [ "AreaTriggerScript", "d0/d7b/a09873.html#a478e4dee0f4211af9be6ea448d4e6c89", null ],
-    [ "IsDatabaseBound", "d0/d7b/a09873.html#ac5234a2cd020cd8f90b6d19c28ad46ae", null ],
-    [ "OnTrigger", "d0/d7b/a09873.html#abb6cdada718e9fad7da98fbb667c6d53", null ]
+    [ "sourceObjectDestroyLink", "d0/d7b/a09873.html#a575a5bac090f5bc5b3f2a721aa64ef42", null ],
+    [ "targetObjectBuildLink", "d0/d7b/a09873.html#abf8c86604c3ef4349567c736090402f6", null ],
+    [ "targetObjectDestroyLink", "d0/d7b/a09873.html#a5cb0bab8be8116b9a489a4922c44c5c8", null ]
 ];

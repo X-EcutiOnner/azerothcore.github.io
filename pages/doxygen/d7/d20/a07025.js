@@ -1,10 +1,16 @@
 var a07025 =
 [
-    [ "SelectionPool", "d7/d20/a07025.html#a9ddcca26fb3f4c635d7bcbb045542885", null ],
-    [ "AddGroup", "d7/d20/a07025.html#a87fe4747536355ad7affda76640a082e", null ],
-    [ "GetPlayerCount", "d7/d20/a07025.html#af344a6e6bb42609887ee8a3022e9d8e5", null ],
-    [ "Init", "d7/d20/a07025.html#a84c3fe684033e8744ce6d6bc50526ee7", null ],
-    [ "KickGroup", "d7/d20/a07025.html#a74fb708546a8612ca52b24b8472b71ef", null ],
-    [ "PlayerCount", "d7/d20/a07025.html#a0c08c47f68dbb45175efc524f4553e16", null ],
-    [ "SelectedGroups", "d7/d20/a07025.html#a4387ef77c341f90758d6c64c4ef2c475", null ]
+    [ "AuctionEntryMap", "d7/d20/a07025.html#ab05cddc8805f4f6745a620aaf78490e6", null ],
+    [ "AuctionHouseObject", "d7/d20/a07025.html#ae980b3dc0cb776fa77810d488c0144aa", null ],
+    [ "~AuctionHouseObject", "d7/d20/a07025.html#abc1f401b8f18c6d5003fa337ed1e76bc", null ],
+    [ "AddAuction", "d7/d20/a07025.html#a9c61fcf5d92ad6cea5af36b1bd5cff5b", null ],
+    [ "GetAuction", "d7/d20/a07025.html#a8f549a3623e3f1c3b0b3a21dfdc24d85", null ],
+    [ "GetAuctions", "d7/d20/a07025.html#ac22a84a7e3f2c6baf5e40a1a43bbf098", null ],
+    [ "GetAuctionsBegin", "d7/d20/a07025.html#ae769fbe419c78c580fc0c6d6b91a6e28", null ],
+    [ "GetAuctionsEnd", "d7/d20/a07025.html#a9526b361608b03716918540116bc6d4d", null ],
+    [ "Getcount", "d7/d20/a07025.html#a49aa833a0d8fd698f116ebdf2544040f", null ],
+    [ "RemoveAuction", "d7/d20/a07025.html#af760e3c74242ab2bbc0cfb03a9224aff", null ],
+    [ "Update", "d7/d20/a07025.html#ae9a2bed6b57af310230134cdf2cfd46a", null ],
+    [ "_auctionsMap", "d7/d20/a07025.html#a92e8694ba6d22e26bedb19b2d0619a9f", null ],
+    [ "_next", "d7/d20/a07025.html#aa8780a803119c4350d367f39daff32a1", null ]
 ];

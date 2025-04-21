@@ -1,6 +1,8 @@
 var a22513 =
 [
-    [ "npc_enslaved_proto_drakeAI", "dc/d14/a22517.html", "dc/d14/a22517" ],
-    [ "npc_enslaved_proto_drake", "d5/d05/a22513.html#a9179481566337bd785b089fb726a255e", null ],
-    [ "GetAI", "d5/d05/a22513.html#a2879ad42d2ec8c04c52d6c370c3e5bf6", null ]
+    [ "CalcPeriodic", "d5/d05/a22513.html#a7a34b9bd77cd1f15a1cd7954d76d80d0", null ],
+    [ "OnRemove", "d5/d05/a22513.html#af120bb9d6a0c3d338706613540849412", null ],
+    [ "PrepareAuraScript", "d5/d05/a22513.html#ad413f14193013058e1775f80b457a81d", null ],
+    [ "Register", "d5/d05/a22513.html#aa35fc5865f108712e450661e67c384ce", null ],
+    [ "Update", "d5/d05/a22513.html#aebc61b57ed8038488ec06c14483b2099", null ]
 ];

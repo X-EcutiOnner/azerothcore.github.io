@@ -1,6 +1,6 @@
 var a18225 =
 [
-    [ "HandleDummy", "d6/dca/a18225.html#a0cbade5e48c3805952e726c9d3d3b1e4", null ],
-    [ "PrepareSpellScript", "d6/dca/a18225.html#a211cd8e76872ee3c5599346c5d04dfc6", null ],
-    [ "Register", "d6/dca/a18225.html#af02bd276839f3588be337e1f6516de5f", null ]
+    [ "HandleScript", "d6/dca/a18225.html#a9489c3454830d3826cb077c95947bf2d", null ],
+    [ "PrepareSpellScript", "d6/dca/a18225.html#a19492e616ac6e69187bca4499175071e", null ],
+    [ "Register", "d6/dca/a18225.html#a3446174d3308f535c27581b63ade9e8a", null ]
 ];

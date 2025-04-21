@@ -1,14 +1,9 @@
 var a22753 =
 [
-    [ "boss_cyanigosaAI", "d5/de0/a22753.html#a4b24132889b17b3e682a15009a1ae910", null ],
-    [ "EnterEvadeMode", "d5/de0/a22753.html#a8da6ddc9b1c9f7b145920205046ce095", null ],
-    [ "JustDied", "d5/de0/a22753.html#a805117db567dd3d529a1c862bc24179c", null ],
-    [ "JustEngagedWith", "d5/de0/a22753.html#a4ef85c0178120f14f2a7b29efb7a9abf", null ],
-    [ "KilledUnit", "d5/de0/a22753.html#a5e69b631ab6844160b1e53fd1d731bae", null ],
-    [ "MoveInLineOfSight", "d5/de0/a22753.html#adb699a22dbf1c14cb80f8fdcca9c6f82", null ],
-    [ "Reset", "d5/de0/a22753.html#a7b0fdaa4f2603db8fd2d0c1ee6975817", null ],
-    [ "SpellHitTarget", "d5/de0/a22753.html#ae8218b69e6dc7489e65d891048d84da1", null ],
-    [ "UpdateAI", "d5/de0/a22753.html#ae69afba77636c962045160b610177bd9", null ],
-    [ "events", "d5/de0/a22753.html#ab5fe766d46e9445b9e7cfc605073983f", null ],
-    [ "pInstance", "d5/de0/a22753.html#a075f4a592202dc73d9b5d63ca5178093", null ]
+    [ "HandleAfterCast", "d5/de0/a22753.html#a32928b579ef42f377e911ef27197ed61", null ],
+    [ "HandleDummy", "d5/de0/a22753.html#a2adec08f0cc42cb21e97007b5f1214bc", null ],
+    [ "Load", "d5/de0/a22753.html#ac870bd626367bdc704e63d2f3b061b1f", null ],
+    [ "PrepareSpellScript", "d5/de0/a22753.html#a1f51d5562d5caac8d7d0f71de0051989", null ],
+    [ "Register", "d5/de0/a22753.html#adf8c87e9f6a3fb36bf26ed1c8dbb722f", null ],
+    [ "_targetCount", "d5/de0/a22753.html#a84d46608f7141d68b1a67fffc3493cbb", null ]
 ];

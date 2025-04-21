@@ -1,6 +1,10 @@
 var a23837 =
 [
-    [ "npc_roxi_ramrocket", "d9/de5/a23837.html#af7f6bf6d5f8fc468abe62605f205571b", null ],
-    [ "OnGossipHello", "d9/de5/a23837.html#adec28f778921246c56f11d09753e566e", null ],
-    [ "OnGossipSelect", "d9/de5/a23837.html#a46a9898cb4b29808f9e911c03b5759cb", null ]
+    [ "npc_raging_flames", "d9/de5/a23837.html#aa2cc5c8af07c202a7f0fab1af259a0db", null ],
+    [ "EnterEvadeMode", "d9/de5/a23837.html#a24a878560153dcf9cf5282c6d0a8f7f0", null ],
+    [ "FixateRandomTarget", "d9/de5/a23837.html#a0e015aa73efdafb1bb9683b2f3c1ba34", null ],
+    [ "InitializeAI", "d9/de5/a23837.html#a96d3a8ef364dc6bc3f15ffc82b14c4c0", null ],
+    [ "IsSummonedBy", "d9/de5/a23837.html#ae42c4329be355807af92c1c803e61500", null ],
+    [ "Reset", "d9/de5/a23837.html#a34ac2249e507784d81c4040e87a646e0", null ],
+    [ "UpdateAI", "d9/de5/a23837.html#a3e4feafe10e59ad9cb1d2275dc7954b0", null ]
 ];

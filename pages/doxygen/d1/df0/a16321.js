@@ -1,6 +1,6 @@
 var a16321 =
 [
-    [ "OnSummon", "d1/df0/a16321.html#a357fe0fdfd739525e0a03bb5e7882730", null ],
-    [ "PrepareSpellScript", "d1/df0/a16321.html#a08e6f2d704a0b2091ac8693b52dd239d", null ],
-    [ "Register", "d1/df0/a16321.html#af65eb2921ecfdd0a92b8e9c7b6cde5f3", null ]
+    [ "npc_toc_warlockAI", "d2/d5f/a16325.html", "d2/d5f/a16325" ],
+    [ "npc_toc_warlock", "d1/df0/a16321.html#a75ac1d6f6835860fed8a9197fa1cf3c2", null ],
+    [ "GetAI", "d1/df0/a16321.html#ad3162c9414be83d53d9513c7aa6b75d7", null ]
 ];

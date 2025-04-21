@@ -1,12 +1,12 @@
 var a15733 =
 [
-    [ "npc_wizzlecrank_shredderAI", "d5/df8/a15733.html#a055c4b426219aa3372a83d2e2021d916", null ],
-    [ "JustSummoned", "d5/df8/a15733.html#a7cad21f0b3286ed75256a49c315069ce", null ],
-    [ "Reset", "d5/df8/a15733.html#a86929e8a2f3433f37e4dda03e3011193", null ],
-    [ "UpdateEscortAI", "d5/df8/a15733.html#acb95eeebd0317f1d95bc48d6b9e7e962", null ],
-    [ "WaypointReached", "d5/df8/a15733.html#a369ae3d62d1289a1c840bdc3184b463d", null ],
-    [ "WaypointStart", "d5/df8/a15733.html#a00857e372e53950338ed71d672edb780", null ],
-    [ "IsPostEvent", "d5/df8/a15733.html#a9207ffdb39627b1262ec209fe41d6d0a", null ],
-    [ "PostEventCount", "d5/df8/a15733.html#aa5284a284c074f32cee85d29aea00f2f", null ],
-    [ "PostEventTimer", "d5/df8/a15733.html#a3c43ede2df7b1ea61b0f1625e2e1461c", null ]
+    [ "npc_twilight_volunteer", "d5/df8/a15733.html#a3062041fcabf972e0a3d4753363c37b3", null ],
+    [ "AttackStart", "d5/df8/a15733.html#abc2e12fb7be5b1a7dabc4c2211e7de13", null ],
+    [ "DoAction", "d5/df8/a15733.html#ae95bcb02ee4f0ead76e249de0cba2d88", null ],
+    [ "EnterEvadeMode", "d5/df8/a15733.html#abd88e6fe0565babb92ccae17df0421d6", null ],
+    [ "MovementInform", "d5/df8/a15733.html#a4f27ae97ccf2c349a6352a0f5ba1681a", null ],
+    [ "UpdateAI", "d5/df8/a15733.html#a93288a45982b172c201e2442a4c91114", null ],
+    [ "events", "d5/df8/a15733.html#ad8cc52c1462d7adbfbe566c55c0ed244", null ],
+    [ "isSacraficeTarget", "d5/df8/a15733.html#a8350dba2c41754a2e5d15c94731ef27d", null ],
+    [ "pInstance", "d5/df8/a15733.html#ad58453e078520fa23238a96115e5f38f", null ]
 ];

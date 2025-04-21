@@ -1,8 +1,8 @@
 var a20357 =
 [
-    [ "HandleApply", "db/d29/a20357.html#a0207562098dbe5b5990e46e1d79a30b7", null ],
-    [ "HandleRemove", "db/d29/a20357.html#afa25e3ac2d13fc6aefbb158b92ffd1ff", null ],
-    [ "Load", "db/d29/a20357.html#ab9e52af28611eab8b7ef4f4206302208", null ],
-    [ "PrepareAuraScript", "db/d29/a20357.html#a401f6a2171bad359bb796b04c9e783d9", null ],
-    [ "Register", "db/d29/a20357.html#a9572846d57f852d555d10cd985de656e", null ]
+    [ "npc_ulduar_magnetic_coreAI", "db/d29/a20357.html#a585437dff0c49ac1a6bf7929ab266ff5", null ],
+    [ "SetData", "db/d29/a20357.html#a27c31856d2bfe3228ae3b0b361064d7a", null ],
+    [ "UpdateAI", "db/d29/a20357.html#ab9113a021844aa7ea8ac46df9c50b205", null ],
+    [ "despawnTimer", "db/d29/a20357.html#ad244ccbaeda814b9e56fad93f06f12fe", null ],
+    [ "pInstance", "db/d29/a20357.html#a3e01c612a689d89bdbe3529c429a413d", null ]
 ];

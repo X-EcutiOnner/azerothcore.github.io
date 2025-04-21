@@ -1,6 +1,7 @@
 var a16317 =
 [
-    [ "spell_halion_summon_exit_portals_SpellScript", "d1/df0/a16321.html", "d1/df0/a16321" ],
-    [ "spell_halion_summon_exit_portals", "d3/d3f/a16317.html#a2bd029e03ab6dc6fed56fdf5b419ccaa", null ],
-    [ "GetSpellScript", "d3/d3f/a16317.html#a8c35951be453fb8a95e33ab938e07a84", null ]
+    [ "npc_toc_shadow_priestAI", "d3/d3f/a16317.html#af13a18be542fb314c19af52f89d216b8", null ],
+    [ "myCanCast", "d3/d3f/a16317.html#a83422ff3e140b57a484d98876a9a8070", null ],
+    [ "UpdateAI", "d3/d3f/a16317.html#afc23ba15d3ee925212e77b5211504c2b", null ],
+    [ "events", "d3/d3f/a16317.html#a31665a22920b416d7423958a3e2928ec", null ]
 ];

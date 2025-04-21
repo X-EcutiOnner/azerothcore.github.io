@@ -1,6 +1,5 @@
 var a27325 =
 [
-    [ "HandleDummy", "da/d09/a27325.html#aafc9efb0f8070566579724853a88ab03", null ],
-    [ "PrepareSpellScript", "da/d09/a27325.html#a248c1203a4f15b2cd60afed9fa33cb59", null ],
-    [ "Register", "da/d09/a27325.html#a362e2ab6921aaa0c10b70795a5eda0de", null ]
+    [ "item_captured_frog", "da/d09/a27325.html#ad41b743c98c9534453eca8cf1f367366", null ],
+    [ "OnUse", "da/d09/a27325.html#a1156467ca046a077ea494f92c488bf54", null ]
 ];

@@ -1,9 +1,6 @@
 var a11241 =
 [
-    [ "event_commandscript", "d7/dbf/a11241.html#a160db0ad8874b0834ef863043b1796ae", null ],
-    [ "GetCommands", "d7/dbf/a11241.html#aac32a7f3d2d11dc73dfa3e9f8224560e", null ],
-    [ "HandleEventActiveListCommand", "d7/dbf/a11241.html#a6752be35103bb585984083a449c85714", null ],
-    [ "HandleEventInfoCommand", "d7/dbf/a11241.html#a1f0815bccd6cef61826ada4e349708d9", null ],
-    [ "HandleEventStartCommand", "d7/dbf/a11241.html#ad46dbd8892db3548d889d4127461c8e3", null ],
-    [ "HandleEventStopCommand", "d7/dbf/a11241.html#a1322b3206a1846dc0404a3fb5c74e025", null ]
+    [ "ObjectAreaTargetSelectHandler", "d7/dbf/a11241.html#a89b86436bb1de38223165e7ef60f2b61", null ],
+    [ "Call", "d7/dbf/a11241.html#a11d2070610d178006231bac274d1f311", null ],
+    [ "pObjectAreaTargetSelectHandlerScript", "d7/dbf/a11241.html#a118ca963c6319802806913762c4d1fec", null ]
 ];

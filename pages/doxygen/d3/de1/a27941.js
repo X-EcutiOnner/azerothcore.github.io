@@ -1,6 +1,7 @@
 var a27941 =
 [
-    [ "FilterTargets", "d3/de1/a27941.html#a23c7b977f7e213322b3702367d6a28c7", null ],
-    [ "PrepareSpellScript", "d3/de1/a27941.html#a7000b2fd940c914933c486e847932b62", null ],
-    [ "Register", "d3/de1/a27941.html#a870ee08d0341f6640710a87c97a6b98b", null ]
+    [ "bit_index", "d3/de1/a27941.html#a1e5cb3fc001169a204507a084435a211", null ],
+    [ "ID", "d3/de1/a27941.html#a63fe7a87e019780d20e86e48efb02eac", null ],
+    [ "nameFemale", "d3/de1/a27941.html#ad0380caf2526715faaddc9330062d90a", null ],
+    [ "nameMale", "d3/de1/a27941.html#a74a767731c96d3d815ddde5a06f68599", null ]
 ];

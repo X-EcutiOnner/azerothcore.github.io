@@ -1,9 +1,9 @@
 var a26353 =
 [
-    [ "Absorb", "d6/d82/a26353.html#ade7f8805491a627cf3e8accdee178f3e", null ],
-    [ "CalculateAmount", "d6/d82/a26353.html#a1194d2bd96632cbc3eab58300a5f9a46", null ],
-    [ "Load", "d6/d82/a26353.html#a49277dbcc2d7cc79f29226e9b242120b", null ],
-    [ "PrepareAuraScript", "d6/d82/a26353.html#a9eb3dc519bd595b7c0193ae3519c136e", null ],
-    [ "Register", "d6/d82/a26353.html#a730528baddf2087fb1c0898ac7ad76c5", null ],
-    [ "absorbPct", "d6/d82/a26353.html#a58c03a57bdfcba203159ae38683fdf14", null ]
+    [ "CheckCast", "d6/d82/a26353.html#ae99a2b4b582c8a2c8921b8921400ffbe", null ],
+    [ "HandleActiveObject", "d6/d82/a26353.html#a79a51387f0a515ed07fcc1ac9e428290", null ],
+    [ "HandleDummy", "d6/d82/a26353.html#a39dd06ae92d04060ee41897318a701fd", null ],
+    [ "Load", "d6/d82/a26353.html#a76fff3a9d20f48e4814ee0f258be07b8", null ],
+    [ "PrepareSpellScript", "d6/d82/a26353.html#a016e480d7b2267c9bf824c9cb029f134", null ],
+    [ "Register", "d6/d82/a26353.html#aa05d48c35f748d93f5d8ff1defe2d3c9", null ]
 ];

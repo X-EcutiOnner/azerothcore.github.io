@@ -1,8 +1,8 @@
 var a25653 =
 [
-    [ "boss_mechano_lord_capacitus", "d8/d1b/a25653.html#ab5867184d4e50a89a1afe25eb40e6bc3", null ],
-    [ "JustDied", "d8/d1b/a25653.html#a596314e7aebcc9e2e7311b4e0850b817", null ],
-    [ "JustEngagedWith", "d8/d1b/a25653.html#a4aa9ee50a942fe123acfdeee0350fa2d", null ],
-    [ "JustSummoned", "d8/d1b/a25653.html#a9a0b2cac08002db63162f95b9476c251", null ],
-    [ "KilledUnit", "d8/d1b/a25653.html#a6a408c654f91a44a40b3df52c0f2b093", null ]
+    [ "CheckProc", "d8/d1b/a25653.html#a8b3f8cf17dda2322d0e9f8f4211cbd20", null ],
+    [ "HandleProc", "d8/d1b/a25653.html#ae034bd626880858c9701ed963de993c9", null ],
+    [ "isException", "d8/d1b/a25653.html#aa5f4fcd1b9b710e2931460207cfc6dea", null ],
+    [ "PrepareAuraScript", "d8/d1b/a25653.html#a50348fd27947f67df03bf4ddbec89cca", null ],
+    [ "Register", "d8/d1b/a25653.html#aaa14b34ac54b4caee76ff72d07dd5c2d", null ]
 ];

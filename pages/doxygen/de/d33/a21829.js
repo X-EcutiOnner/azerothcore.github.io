@@ -1,10 +1,7 @@
 var a21829 =
 [
-    [ "npc_ulduar_harpoonfirestateAI", "de/d33/a21829.html#acc6853671f37e35c746ffa3807ae10b2", null ],
-    [ "GetData", "de/d33/a21829.html#ac23f2c901ef8c2160ceea43a0a15e185", null ],
-    [ "GetHarpoonGunIdForThisHFS", "de/d33/a21829.html#af21c4d50febac02eb0572efe564a19b1", null ],
-    [ "Reset", "de/d33/a21829.html#af300a8271762fe1b5582384114902ee8", null ],
-    [ "SetData", "de/d33/a21829.html#abf485123f0a73aa84ad5178e23c4192e", null ],
-    [ "pInstance", "de/d33/a21829.html#af576864ded6610daad973ac420d2fdb8", null ],
-    [ "repairPoints", "de/d33/a21829.html#a5e9bcd384285b9046da93bd18804d07b", null ]
+    [ "npc_tallhorn_stagAI", "de/d33/a21829.html#a50947c450eece979193b45728e5e1f82", null ],
+    [ "Reset", "de/d33/a21829.html#a67dce7ad60ddea63fcba5e1e2079fa7c", null ],
+    [ "UpdateAI", "de/d33/a21829.html#adf60f62fa92238cb315c42e0179c3f17", null ],
+    [ "_phase", "de/d33/a21829.html#ace2ac6f418876393d2f6d3457b1bc4c0", null ]
 ];

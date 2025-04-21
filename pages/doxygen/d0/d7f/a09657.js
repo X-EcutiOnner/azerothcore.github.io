@@ -1,9 +1,27 @@
 var a09657 =
 [
-    [ "PathMovementBase", "d0/d7f/a09657.html#a6b76e1527ed69ff631d7a72c309f264a", null ],
-    [ "PathMovementBase", "d0/d7f/a09657.html#a953fcda0cf7764f659fc5a4a19408550", null ],
-    [ "~PathMovementBase", "d0/d7f/a09657.html#a33b2b53993fe897712a196bc4ad86bd1", null ],
-    [ "GetCurrentNode", "d0/d7f/a09657.html#a7ceb52928f2198392980c3926516fd82", null ],
-    [ "i_currentNode", "d0/d7f/a09657.html#a5420aef90d3529881ef41362ebb29934", null ],
-    [ "i_path", "d0/d7f/a09657.html#a3dbc5e41e0c6245f369afc7a24081c83", null ]
+    [ "LootStore", "d0/d7f/a09657.html#a99896ddfc04c20e2f7088a2ad8403e35", null ],
+    [ "~LootStore", "d0/d7f/a09657.html#a5ed3ef2d00fdcb8edc3c4ddb9cb5a9ca", null ],
+    [ "CheckLootRefs", "d0/d7f/a09657.html#a6506931ec5ce351687bc0c44ef74b435", null ],
+    [ "Clear", "d0/d7f/a09657.html#abd9b51ff3aa4452ff5f5cc82267bac48", null ],
+    [ "GetEntryName", "d0/d7f/a09657.html#a6adbdbba33f3c6d55d02f8f94de2e3ab", null ],
+    [ "GetLootFor", "d0/d7f/a09657.html#a541edad9042f950ba2545c6e1126c419", null ],
+    [ "GetLootForConditionFill", "d0/d7f/a09657.html#a46e8a8ed43a1e885ade1d5b74d79bb4b", null ],
+    [ "GetName", "d0/d7f/a09657.html#acecb88522c97b74f87e0ed40fa009a04", null ],
+    [ "HaveLootFor", "d0/d7f/a09657.html#abd45358d22bbb44f54743792a7fd0039", null ],
+    [ "HaveQuestLootFor", "d0/d7f/a09657.html#a82a84ddb5051cf3e9ee508c2f0642d1e", null ],
+    [ "HaveQuestLootForPlayer", "d0/d7f/a09657.html#ad800486cf5afb5842073b8ca1a43aad8", null ],
+    [ "IsRatesAllowed", "d0/d7f/a09657.html#aa64da1c4756d94e30c552b17795b1da0", null ],
+    [ "LoadAndCollectLootIds", "d0/d7f/a09657.html#a172a485f55b00f97248779c3f9f996dd", null ],
+    [ "LoadLootTable", "d0/d7f/a09657.html#a131a846a8bce5b792a06a130bb1d1599", null ],
+    [ "ReportInvalidCount", "d0/d7f/a09657.html#aa03234f502990184089e66778674c474", null ],
+    [ "ReportNonExistingId", "d0/d7f/a09657.html#ab34193850f17f42ec65a466eefe4ff76", null ],
+    [ "ReportNonExistingId", "d0/d7f/a09657.html#a85d0955deaa4332a977a131fbb93eb87", null ],
+    [ "ReportUnusedIds", "d0/d7f/a09657.html#af0fe6608310a123d70cc8221e65e4556", null ],
+    [ "ResetConditions", "d0/d7f/a09657.html#a4f258b3698a2a0a77a28b3b8a885e579", null ],
+    [ "Verify", "d0/d7f/a09657.html#afd0762a7391f530009b44bf6b4a3a3be", null ],
+    [ "m_entryName", "d0/d7f/a09657.html#a2dc4594b3aa9d4737a785a3b47c559c5", null ],
+    [ "m_LootTemplates", "d0/d7f/a09657.html#a58cf63357ad373aaf5866f5f2dcb23a8", null ],
+    [ "m_name", "d0/d7f/a09657.html#aaae57f6cacb66f1024fa572cd6ba8003", null ],
+    [ "m_ratesAllowed", "d0/d7f/a09657.html#a9edc9a356084a1395ca5367db91981bd", null ]
 ];

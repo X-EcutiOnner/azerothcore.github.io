@@ -1,6 +1,5 @@
 var a22389 =
 [
-    [ "npc_ulduar_keeper", "dc/d1b/a22389.html#a252b781061a2e21dc961ea94f7120d59", null ],
-    [ "OnGossipHello", "dc/d1b/a22389.html#a4db12efd22c7d2a5f18144fd16543230", null ],
-    [ "OnGossipSelect", "dc/d1b/a22389.html#acf8681577117107d16d45705e4b8463f", null ]
+    [ "OutdoorPvP_eastern_plaguelands", "dc/d1b/a22389.html#a5178152ee493eb90b1c1c0f611c6cd92", null ],
+    [ "GetOutdoorPvP", "dc/d1b/a22389.html#abc4e99dfa8a600ef578b77ffc3956ada", null ]
 ];

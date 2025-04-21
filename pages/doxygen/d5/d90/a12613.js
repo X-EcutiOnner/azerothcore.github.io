@@ -1,11 +1,9 @@
 var a12613 =
 [
-    [ "npc_crusade_persuadedAI", "d5/d90/a12613.html#a9a6a762384bb8ca74a34d30472fa8e3c", null ],
-    [ "JustEngagedWith", "d5/d90/a12613.html#a6266a91324717feee94727a0578e9584", null ],
-    [ "Reset", "d5/d90/a12613.html#a127c36f01e2ddfeb26f3192a1db8ffaf", null ],
-    [ "SpellHit", "d5/d90/a12613.html#a72476d0e2c63d629c2200824cd3cb5a1", null ],
-    [ "UpdateAI", "d5/d90/a12613.html#a078facb2a0e5ba27f44999e7bb1e55f7", null ],
-    [ "playerGUID", "d5/d90/a12613.html#a3076964de32f12d70d41677fb626719b", null ],
-    [ "speechCounter", "d5/d90/a12613.html#a4b0c5d69a7563b2f4f399a60010378a9", null ],
-    [ "speechTimer", "d5/d90/a12613.html#aada4f1277fc1f000c27cefcd6011c24d", null ]
+    [ "FilterTargets", "d5/d90/a12613.html#a88b91e40b330d39bd04a7873128fb858", null ],
+    [ "HandleFinish", "d5/d90/a12613.html#a762ea4cc1cd0a50a65daf22cbbf4ce9c", null ],
+    [ "PrepareSpellScript", "d5/d90/a12613.html#ab4ef82283e4d651d2e5304e49970efa8", null ],
+    [ "Register", "d5/d90/a12613.html#ab2008e585589cbf313170064d37c4aa9", null ],
+    [ "Validate", "d5/d90/a12613.html#af4963be6c544a1706a6dc30dcbf18309", null ],
+    [ "_targets", "d5/d90/a12613.html#a2f75199a90e52cff770f46bce76d5149", null ]
 ];

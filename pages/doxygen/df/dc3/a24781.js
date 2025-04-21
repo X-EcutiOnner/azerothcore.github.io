@@ -1,6 +1,6 @@
 var a24781 =
 [
-    [ "spell_black_temple_shadow_inferno_AuraScript", "d0/dcb/a24785.html", "d0/dcb/a24785" ],
-    [ "spell_black_temple_shadow_inferno", "df/dc3/a24781.html#ae3ac4ac8ef2128f93c2da22826f8f38b", null ],
-    [ "GetAuraScript", "df/dc3/a24781.html#a0b083fc283e0aeabae694348dd0916ec", null ]
+    [ "CalculateAmount", "df/dc3/a24781.html#a9e54ae3e90ee8bf0fab966a497f761b3", null ],
+    [ "PrepareAuraScript", "df/dc3/a24781.html#a51f9c0f92100c02e1fe7d127fecd902f", null ],
+    [ "Register", "df/dc3/a24781.html#a5c89e7e53a7f41665ff25d57df8f7afb", null ]
 ];

@@ -1,6 +1,7 @@
 var a24053 =
 [
-    [ "npc_crusade_recruitAI", "d3/dbe/a24057.html", "d3/dbe/a24057" ],
-    [ "npc_crusade_recruit", "d5/d0d/a24053.html#a6e130f153c506255ef5ece1baf006028", null ],
-    [ "GetAI", "d5/d0d/a24053.html#a412f0d153676758fda8c1f7f1e9dda44", null ]
+    [ "HandleEffectApply", "d5/d0d/a24053.html#a362b5b818ab0029956fd22bd10b4b9ac", null ],
+    [ "HandleEffectRemove", "d5/d0d/a24053.html#a96769390468dc132df62b5a0ec3a2da4", null ],
+    [ "PrepareAuraScript", "d5/d0d/a24053.html#a7bad0d577281829e60c0fb577d6a7d6e", null ],
+    [ "Register", "d5/d0d/a24053.html#a95905ec163c42463314a5f5bb023b4d6", null ]
 ];

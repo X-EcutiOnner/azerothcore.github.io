@@ -1,6 +1,9 @@
 var a12985 =
 [
-    [ "spell_eredar_twins_handle_touch_SpellScript", "d8/d78/a12989.html", "d8/d78/a12989" ],
-    [ "spell_eredar_twins_handle_touch", "d9/d00/a12985.html#aa3456286afd4cbc2321581368baa3ba1", null ],
-    [ "GetSpellScript", "d9/d00/a12985.html#a6aaa98b245ab7a407aac1b3f3cbc7128", null ]
+    [ "npc_risen_guardianAI", "d9/d00/a12985.html#a50eb3de52205fc1bbc6936f0708c68a6", null ],
+    [ "IsSummonedBy", "d9/d00/a12985.html#ad9f45b9007c1ff74d0f725fbf7f00abe", null ],
+    [ "KilledUnit", "d9/d00/a12985.html#abc7afaa685a436b34ff76edcc6c25e54", null ],
+    [ "Gandling", "d9/d00/a12985.html#a93013b905260aa51341b22d1627cc986", null ],
+    [ "instance", "d9/d00/a12985.html#a96f1835989f646c708b8ef0cc9999e63", null ],
+    [ "room", "d9/d00/a12985.html#a5862a184b6daa92da133cc6c360a993d", null ]
 ];

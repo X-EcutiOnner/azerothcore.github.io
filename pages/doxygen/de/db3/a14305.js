@@ -1,6 +1,7 @@
 var a14305 =
 [
-    [ "HandleScript", "de/db3/a14305.html#a4077b809530d28bed0a9419b5a745f42", null ],
-    [ "PrepareSpellScript", "de/db3/a14305.html#a97eb6d1fcdcf0628433e5bec68785932", null ],
-    [ "Register", "de/db3/a14305.html#ac09b1c86655eef0febaccff86533b28f", null ]
+    [ "go_loosely_turned_soilAI", "d8/dc6/a14309.html", "d8/dc6/a14309" ],
+    [ "go_loosely_turned_soil", "de/db3/a14305.html#a3b4d51e2b3a604e030962127269236f1", null ],
+    [ "GetAI", "de/db3/a14305.html#acead5810a848f8837fa65af1f2ac00bd", null ],
+    [ "OnQuestReward", "de/db3/a14305.html#a1ac57b34c5b3e21c033330eaeefaa6a8", null ]
 ];

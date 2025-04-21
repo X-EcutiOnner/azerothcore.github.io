@@ -1,12 +1,6 @@
 var a17169 =
 [
-    [ "npc_phantom_mageAI", "d3/df9/a17169.html#ac919dc1ba167cc68714320f9351b99d0", null ],
-    [ "AttackStart", "d3/df9/a17169.html#ade9ba7071cff655f2c0133481cb9c2bc", null ],
-    [ "DoAction", "d3/df9/a17169.html#a6c66df8b8e59a9dc62f1f944da2afc2c", null ],
-    [ "EnterEvadeMode", "d3/df9/a17169.html#a6ca0be233e8866b6154fa6e7164b856d", null ],
-    [ "JustDied", "d3/df9/a17169.html#a3a522e4c741bc321469ed87c10cf7904", null ],
-    [ "JustEngagedWith", "d3/df9/a17169.html#a5a1bf4aaf716674a63e31d24ae4a5d7c", null ],
-    [ "Reset", "d3/df9/a17169.html#a5c29c8d54956a0917df3997118348590", null ],
-    [ "UpdateAI", "d3/df9/a17169.html#a7135acfbc36212306a68fc8b758e2881", null ],
-    [ "events", "d3/df9/a17169.html#afa0f0b5cac0759db324cea7c64463f75", null ]
+    [ "boss_prince_taldaramAI", "d2/d0a/a17173.html", "d2/d0a/a17173" ],
+    [ "boss_prince_taldaram_icc", "d3/df9/a17169.html#abe14f754e1daf597aa2b7d401f337c8d", null ],
+    [ "GetAI", "d3/df9/a17169.html#a2a8c89206ab72afc68260f41a246da3b", null ]
 ];

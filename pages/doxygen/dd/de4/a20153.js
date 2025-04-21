@@ -1,6 +1,5 @@
 var a20153 =
 [
-    [ "FilterTargets", "dd/de4/a20153.html#a2c9dda062ee1eb6ec94c638ffd424ab0", null ],
-    [ "PrepareSpellScript", "dd/de4/a20153.html#aa453c3198e36c7da67327a188c86d4d3", null ],
-    [ "Register", "dd/de4/a20153.html#a5b4163334e905e4ca6fa07ee88b4397f", null ]
+    [ "FlashFreezeCheck", "dd/de4/a20153.html#a47d07a686a7c74dc8914a98762b16fe3", null ],
+    [ "operator()", "dd/de4/a20153.html#a87475dc9e2f1b0eb508e9f56aa5c1e2f", null ]
 ];

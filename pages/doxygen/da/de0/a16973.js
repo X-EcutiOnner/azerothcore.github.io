@@ -1,6 +1,7 @@
 var a16973 =
 [
-    [ "spell_trollgore_consume_SpellScript", "d9/d6e/a16977.html", "d9/d6e/a16977" ],
-    [ "spell_trollgore_consume", "da/de0/a16973.html#ac27153ccbd14c269851b088aa9381e2d", null ],
-    [ "GetSpellScript", "da/de0/a16973.html#a61ca9ff1503e61d4708e881a74724cde", null ]
+    [ "npc_pos_icicle_triggerAI", "da/de0/a16973.html#a28477c5f88b5ec77dc3e021ec01401ce", null ],
+    [ "UpdateAI", "da/de0/a16973.html#a32d9b6bd2f0b994adb33e2bd99dd34ce", null ],
+    [ "pInstance", "da/de0/a16973.html#ad4ed0e2380c62cc6dd7d309edfd34ac1", null ],
+    [ "timer", "da/de0/a16973.html#a91277c41ddebffed7e9dac7098cd78bd", null ]
 ];

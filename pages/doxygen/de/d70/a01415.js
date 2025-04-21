@@ -1,7 +1,7 @@
 var a01415 =
 [
-    [ "GameObjectValue", "df/de9/a08114.html", "df/de9/a08114" ],
-    [ "GameObject", "d3/d3a/a08134.html", "d3/d3a/a08134" ],
+    [ "GameObjectValue", "d8/d48/a08117.html", "d8/d48/a08117" ],
+    [ "GameObject", "da/d55/a08137.html", "da/d55/a08137" ],
     [ "FISHING_BOBBER_READY_TIME", "de/d70/a01415.html#aa7242bc5664b993aa0dfe458bf845b13", null ],
     [ "GameObjectAddonContainer", "de/d70/a01415.html#a7c5d40f7f9665e8525be2f1e94b0af47", null ],
     [ "GameObjectQuestItemList", "de/d70/a01415.html#a85906ca8ea219640b7ed904559623a4a", null ],

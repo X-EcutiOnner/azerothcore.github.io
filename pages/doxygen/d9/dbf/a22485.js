@@ -1,12 +1,14 @@
 var a22485 =
 [
-    [ "boss_skarvald_the_constructorAI", "d9/dbf/a22485.html#a90b669521db89c8c71fe72d17b620694", null ],
-    [ "DoAction", "d9/dbf/a22485.html#ac12c072b23e89e0282e45373e4c03cd9", null ],
-    [ "JustDied", "d9/dbf/a22485.html#aa10a8a1bd53804f2c0be6dd68b2b1f68", null ],
-    [ "JustEngagedWith", "d9/dbf/a22485.html#a02ee99b1b5c3a6a053532dbb59b541a2", null ],
-    [ "KilledUnit", "d9/dbf/a22485.html#a897415c1e9d4759d9c8b6d9346516f46", null ],
-    [ "Reset", "d9/dbf/a22485.html#a55c1c9b1a3370741d97355569f11e9d4", null ],
-    [ "UpdateAI", "d9/dbf/a22485.html#a5ee0df3039c5fc069c90ef06e6ae9604", null ],
-    [ "events", "d9/dbf/a22485.html#aac3e019ac655ffcb0aea7f9ae9592795", null ],
-    [ "pInstance", "d9/dbf/a22485.html#a7418a8541a8264a260495f8b19ef8699", null ]
+    [ "event_enter", "d9/dbf/a22485.html#ac80d575f14dca1c901be55e34cc690e1", null ],
+    [ "event_leave", "d9/dbf/a22485.html#a3dc0a11a5c06079026d27852e7561b74", null ],
+    [ "map_tower_a", "d9/dbf/a22485.html#a9a65209caac3791b835c1920f5a667cf", null ],
+    [ "map_tower_h", "d9/dbf/a22485.html#aa30ae484db7c69137abb13adb1b3c505", null ],
+    [ "map_tower_n", "d9/dbf/a22485.html#a0453edceab2132e900bec183e360e210", null ],
+    [ "slider_disp", "d9/dbf/a22485.html#aec3c8dde769675e3f436515c7a3bcf24", null ],
+    [ "slider_n", "d9/dbf/a22485.html#a65015a3a24a5554643ecb5da47e24eea", null ],
+    [ "slider_pos", "d9/dbf/a22485.html#acc63481f7613242ac06c6bee6c136a30", null ],
+    [ "ui_tower_a", "d9/dbf/a22485.html#a0107bfd3b1df99568e02d6ca80042c86", null ],
+    [ "ui_tower_h", "d9/dbf/a22485.html#a94a5fa0517fd0713b74f50a3d1d627cc", null ],
+    [ "ui_tower_n", "d9/dbf/a22485.html#ae0fd99db88e6c60b829a18ff8e4be9a0", null ]
 ];

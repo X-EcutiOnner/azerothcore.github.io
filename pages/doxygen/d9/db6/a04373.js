@@ -1,11 +1,8 @@
 var a04373 =
 [
-    [ "instance_the_eye", "db/dbd/a23790.html", "db/dbd/a23790" ],
-    [ "instance_the_eye::instance_the_eye_InstanceMapScript", "dd/dd4/a23794.html", "dd/dd4/a23794" ],
-    [ "spell_the_eye_countercharge_aura", "dd/dc3/a23798.html", "dd/dc3/a23798" ],
-    [ "AddSC_instance_the_eye", "d9/db6/a04373.html#a2edbd129d024cabd379cca055dd3e341", null ],
-    [ "boundaries", "d9/db6/a04373.html#aa75d7d0ffe0cef214f982966c33db1c1", null ],
+    [ "instance_arcatraz", "d0/d8c/a23633.html", "d0/d8c/a23633" ],
+    [ "instance_arcatraz::instance_arcatraz_InstanceMapScript", "d6/d2a/a23637.html", "d6/d2a/a23637" ],
+    [ "AddSC_instance_arcatraz", "d9/db6/a04373.html#a80dfeb7f0ba2aa2c6cde3f26e3c50be4", null ],
     [ "creatureData", "d9/db6/a04373.html#a412286b689bd324fedd65ddd8dde8afb", null ],
-    [ "doorData", "d9/db6/a04373.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
-    [ "gameObjectData", "d9/db6/a04373.html#a1461582839e3b7fdbb7397e5d2086e31", null ]
+    [ "doorData", "d9/db6/a04373.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ]
 ];

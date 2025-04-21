@@ -1,10 +1,9 @@
 var a20633 =
 [
-    [ "npc_molten_golemAI", "df/dfb/a20633.html#a5172d70649be5030fd91e1adbcad4f06", null ],
-    [ "DamageTaken", "df/dfb/a20633.html#a0dd2ca5b83f5d75c51dfa358544c018a", null ],
-    [ "DoAction", "df/dfb/a20633.html#ada2e9c39ce16f00b47df2f52971d99b1", null ],
-    [ "Reset", "df/dfb/a20633.html#a9f90e791c77377c02c66e5d809c555cc", null ],
-    [ "UpdateAI", "df/dfb/a20633.html#ade3cfd0deb27508f5f084b1b49caf13f", null ],
-    [ "events", "df/dfb/a20633.html#ad97142df8344df59eddfb92471d1a737", null ],
-    [ "m_pInstance", "df/dfb/a20633.html#ad1a300c13e98965b935c1e3fc26b9606", null ]
+    [ "npc_xt002_pummellerAI", "df/dfb/a20633.html#a2942c05c93036c2e02b9a72c784441b1", null ],
+    [ "Reset", "df/dfb/a20633.html#a6542fb3e585f100f06f6be14a1346306", null ],
+    [ "UpdateAI", "df/dfb/a20633.html#a959990310303ff2102f1c03852b4ab8e", null ],
+    [ "_arcingSmashTimer", "df/dfb/a20633.html#a830fda66756dc3f34a530939116e7556", null ],
+    [ "_trampleTimer", "df/dfb/a20633.html#ae5e450601861f83b20419405bb92ef6d", null ],
+    [ "_uppercutTimer", "df/dfb/a20633.html#a5a1bdb380438070effc091ec37db6aec", null ]
 ];

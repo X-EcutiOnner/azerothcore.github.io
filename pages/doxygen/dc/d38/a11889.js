@@ -1,7 +1,6 @@
 var a11889 =
 [
-    [ "HandlePeriodic", "dc/d38/a11889.html#ac2196cc9de34e286581d44d147fe9d04", null ],
-    [ "PrepareAuraScript", "dc/d38/a11889.html#a149c974371f23268d2d929b483637b14", null ],
-    [ "Register", "dc/d38/a11889.html#a6a2f42867a7082d2b8406c651d5dc484", null ],
-    [ "Validate", "dc/d38/a11889.html#ab77b8a7dca3dc9bbd20cdb498d1d317e", null ]
+    [ "boss_hedrumAI", "dc/d38/a11889.html#a95e4af51a8e24fa7b36b924c6cdfb86c", null ],
+    [ "JustEngagedWith", "dc/d38/a11889.html#a1cf03b06598f2b36814062d47a73ed82", null ],
+    [ "UpdateAI", "dc/d38/a11889.html#aa515ed081aaabdad751c1bbba56d3d96", null ]
 ];

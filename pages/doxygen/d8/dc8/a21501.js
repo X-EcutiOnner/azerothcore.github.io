@@ -1,6 +1,6 @@
 var a21501 =
 [
-    [ "spell_hodir_storm_power_AuraScript", "d5/d71/a21505.html", "d5/d71/a21505" ],
-    [ "spell_hodir_storm_power", "d8/dc8/a21501.html#a70994976d36b72b069bd383cbd1e5365", null ],
-    [ "GetAuraScript", "d8/dc8/a21501.html#a880331bf7f10002c0516ffa05413b333", null ]
+    [ "npc_hidden_cultistAI", "d5/d71/a21505.html", "d5/d71/a21505" ],
+    [ "npc_hidden_cultist", "d8/dc8/a21501.html#ab455b35fea966360e01fb8975adad989", null ],
+    [ "GetAI", "d8/dc8/a21501.html#a4897006d9416f1177b0bc0e41df60293", null ]
 ];

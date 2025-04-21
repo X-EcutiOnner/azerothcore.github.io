@@ -1,14 +1,12 @@
 var a05357 =
 [
-    [ "SFMTRand", "df/d8b/a05357.html#aa40843ec8c3162e4be6cbf8067f93c9b", null ],
-    [ "operator delete", "df/d8b/a05357.html#a20ef76641899ebf23ecfdfa03933d1d9", null ],
-    [ "operator delete", "df/d8b/a05357.html#ac6267ac04c03814f574a155a4a0cffcb", null ],
-    [ "operator delete[]", "df/d8b/a05357.html#a5051cdb95e18230b7fee753beb621603", null ],
-    [ "operator delete[]", "df/d8b/a05357.html#a7cfe99d3c100b6ba124b82fce756960f", null ],
-    [ "operator new", "df/d8b/a05357.html#a2aeb7be6e4330872312d025c20f38cde", null ],
-    [ "operator new", "df/d8b/a05357.html#aca05c084eb681e29c2e6d94004d2211d", null ],
-    [ "operator new[]", "df/d8b/a05357.html#a8ec91b566c3b1defe53ea094c31e9aac", null ],
-    [ "operator new[]", "df/d8b/a05357.html#a7fc8af93666391048ac284fb21838d00", null ],
-    [ "RandomUInt32", "df/d8b/a05357.html#a8d129952ad2916419cdf54aa474c23c0", null ],
-    [ "_state", "df/d8b/a05357.html#a9bc20836138e5dd4db93f7d03a9e856b", null ]
+    [ "Node", "d9/d1e/a05361.html", "d9/d1e/a05361" ],
+    [ "MPSCQueueNonIntrusive", "df/d8b/a05357.html#a962c10fff5c86b00cc2e847ae758b9ce", null ],
+    [ "~MPSCQueueNonIntrusive", "df/d8b/a05357.html#a599e2093215f70dc4f2f7db08965d816", null ],
+    [ "MPSCQueueNonIntrusive", "df/d8b/a05357.html#a2d543ed2b5d1ab7f23ad82ee156e42ea", null ],
+    [ "Dequeue", "df/d8b/a05357.html#abadcc4a4ff97f4fa132978fbd0f37e1d", null ],
+    [ "Enqueue", "df/d8b/a05357.html#a63d8a4e4c085467d33d56fd3adf0f751", null ],
+    [ "operator=", "df/d8b/a05357.html#a75063e89049903fb5305d67ea1a02034", null ],
+    [ "_head", "df/d8b/a05357.html#a2fb1ef015f7b9a790ba1af73dc80ba35", null ],
+    [ "_tail", "df/d8b/a05357.html#a8a568d842fc8da8e39b325b459cdb44d", null ]
 ];

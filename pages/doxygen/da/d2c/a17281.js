@@ -1,7 +1,6 @@
 var a17281 =
 [
-    [ "UtherBatteredHiltEvent", "da/d2c/a17281.html#a7bb34b75a3e371260a231aea72f75b40", null ],
-    [ "Execute", "da/d2c/a17281.html#ad2eb37877155b6dbc9916338e30d0306", null ],
-    [ "_eventId", "da/d2c/a17281.html#a5045e057b2c5d468aa579751d2c799b8", null ],
-    [ "_owner", "da/d2c/a17281.html#a588974708f4a48f5a7b097a63a0c0899", null ]
+    [ "FilterTargets", "da/d2c/a17281.html#aede4900c9b71bf60ca61e03dd0b63aa8", null ],
+    [ "PrepareSpellScript", "da/d2c/a17281.html#a2ddc1dc9c04297a80f6708e546fe5a58", null ],
+    [ "Register", "da/d2c/a17281.html#add40d7731b07b30b595f76f7d4e983f4", null ]
 ];

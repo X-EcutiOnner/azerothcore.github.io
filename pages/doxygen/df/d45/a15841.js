@@ -1,6 +1,6 @@
 var a15841 =
 [
-    [ "npc_sergeant_blyAI", "d6/d3f/a15845.html", "d6/d3f/a15845" ],
-    [ "npc_sergeant_bly", "df/d45/a15841.html#afd5c6129098e4939e2b9f3d12b8c7058", null ],
-    [ "GetAI", "df/d45/a15841.html#ad54ff5aabbc30de759c8f31b7ef9f46e", null ]
+    [ "HandleScriptEffect", "df/d45/a15841.html#aaa650972803d14e4d74be977430b04f6", null ],
+    [ "PrepareSpellScript", "df/d45/a15841.html#a1e166c53e2051f3fae1b085a76a08c3f", null ],
+    [ "Register", "df/d45/a15841.html#a3405c1b04f2e623662c7acaa6810278c", null ]
 ];

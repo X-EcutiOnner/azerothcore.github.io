@@ -1,6 +1,6 @@
 var a13601 =
 [
-    [ "spell_blight_worm_ingest_SpellScript", "db/d51/a13605.html", "db/d51/a13605" ],
-    [ "spell_blight_worm_ingest", "d5/d78/a13601.html#a5b3596196d4eebbd0c6f3d09399c0f40", null ],
-    [ "GetSpellScript", "d5/d78/a13601.html#ae52f5b5c8624e5dc378bae755713cbfe", null ]
+    [ "npc_parqual_fintallas", "d5/d78/a13601.html#a9edaf1f7cf4e81ce24c54faa4aed6cf6", null ],
+    [ "OnGossipHello", "d5/d78/a13601.html#af7c1f119d91aa63ee96765f2092b0a6c", null ],
+    [ "OnGossipSelect", "d5/d78/a13601.html#a39276ef82ec5214a1727ebd60235a506", null ]
 ];

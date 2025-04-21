@@ -1,10 +1,12 @@
 var a23021 =
 [
-    [ "npc_imprisoned_beryl_sorcererAI", "df/db1/a23021.html#a0a8159a84689dbfd8c69ed523ce03817", null ],
-    [ "GotStinged", "df/db1/a23021.html#a0729c584c3b65e5f25f4445de378f0ea", null ],
-    [ "JustEngagedWith", "df/db1/a23021.html#a2f3e45b3f762ede62aa94a6ae3f2909f", null ],
-    [ "Reset", "df/db1/a23021.html#aedc82ee3bfa193a838d5af62533e19b4", null ],
-    [ "SpellHit", "df/db1/a23021.html#a2010b53b3a8ad1e0aa6ecb5a26c8b6c9", null ],
-    [ "UpdateAI", "df/db1/a23021.html#a21def23073eeec051c1c97a813e0ea84", null ],
-    [ "rebuff", "df/db1/a23021.html#ac83c25091fdd3c7876a88927b758261f", null ]
+    [ "boss_fathomlord_karathress", "df/db1/a23021.html#a05c483ea61011926c260b43f6c01cac3", null ],
+    [ "DoAction", "df/db1/a23021.html#adc5685244341e353c6dac67b0191d877", null ],
+    [ "JustDied", "df/db1/a23021.html#a4c356359be50b626a28fab4a803386f8", null ],
+    [ "JustEngagedWith", "df/db1/a23021.html#ae221d994f2ebb0a298288233727ea1ba", null ],
+    [ "JustReachedHome", "df/db1/a23021.html#a1e03da049ad75a464de5dd15ac5e6d88", null ],
+    [ "JustSummoned", "df/db1/a23021.html#a3a692ef94d555e991a7cd34dee9812d9", null ],
+    [ "KilledUnit", "df/db1/a23021.html#a02812a3cc7de22348058dedd107bb6d0", null ],
+    [ "Reset", "df/db1/a23021.html#a52f76cb43a32c5f59cbc7476f0df8646", null ],
+    [ "_recentlySpoken", "df/db1/a23021.html#a81f52ead90284ca3598cd64eb9fb88ee", null ]
 ];

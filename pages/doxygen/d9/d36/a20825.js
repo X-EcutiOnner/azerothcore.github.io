@@ -1,7 +1,8 @@
 var a20825 =
 [
-    [ "HandlePeriodic", "d9/d36/a20825.html#aa6100b91667b1d3744bb51d15bfd0fac", null ],
-    [ "OnRemove", "d9/d36/a20825.html#a6d04dfc479da278f740269e533c56425", null ],
-    [ "PrepareAuraScript", "d9/d36/a20825.html#a5fbd2babce20515a9957aac7639df227", null ],
-    [ "Register", "d9/d36/a20825.html#a0c6dd191107eecbcf4de77b68d92578f", null ]
+    [ "OnApply", "d9/d36/a20825.html#a3046fa845b6763c5602ca7b50aefd68f", null ],
+    [ "OnRemove", "d9/d36/a20825.html#ad3f482f9fff9798cc6e7a06183344742", null ],
+    [ "PrepareAuraScript", "d9/d36/a20825.html#ab830a7a6c5ed432f8718071345c99b57", null ],
+    [ "Register", "d9/d36/a20825.html#ac83a8d085d02feec64b6012cacb60dce", null ],
+    [ "Validate", "d9/d36/a20825.html#a69a3e0a6c06e3c4085bf0ad25e40edf9", null ]
 ];

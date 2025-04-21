@@ -1,7 +1,12 @@
 var a11745 =
 [
-    [ "boss_warmastervooneAI", "d7/d23/a11745.html#aa22519c8d3037cf07c275080b9bedcaf", null ],
-    [ "DamageTaken", "d7/d23/a11745.html#adce28de25fa74557000d60188346e2d2", null ],
-    [ "ExecuteEvent", "d7/d23/a11745.html#ac9dc6ef78503a87ea68d0e232b0376da", null ],
-    [ "JustEngagedWith", "d7/d23/a11745.html#ac419c5118a45264e24e391f7575d90fb", null ]
+    [ "boss_balinda", "d7/d23/a11745.html#a2f3ce696dbc66843cddc13196800866b", null ],
+    [ "DamageTaken", "d7/d23/a11745.html#a826ad90ac15b3421e16fc3faa96784e7", null ],
+    [ "JustDied", "d7/d23/a11745.html#aeb10053198b9b4c43e963d23957ba9ba", null ],
+    [ "JustEngagedWith", "d7/d23/a11745.html#aa0b78302a92bf39ffee51ce3a71fb534", null ],
+    [ "JustSummoned", "d7/d23/a11745.html#a3c2306326d2f85fbb6766352117a1f91", null ],
+    [ "Reset", "d7/d23/a11745.html#a1ecfa5d743682997076a47cce44b19f5", null ],
+    [ "UpdateAI", "d7/d23/a11745.html#af3506dd75baef12fd0328aed21636978", null ],
+    [ "_hasCastIceBlock", "d7/d23/a11745.html#a05c24746060d7c9a3712d9f269b4af8e", null ],
+    [ "summons", "d7/d23/a11745.html#a83df5856391f0ba62dcb0538b7f44e2d", null ]
 ];

@@ -1,7 +1,10 @@
 var a08961 =
 [
-    [ "AnyUnitInObjectRangeCheck", "d5/da8/a08961.html#ab96cd47c1a4c585e52590b94cf8ff021", null ],
-    [ "operator()", "d5/da8/a08961.html#a0906cdad65a5b11dc6a8829ace8f135b", null ],
-    [ "i_obj", "d5/da8/a08961.html#a834214b260576a0fe01908a163428757", null ],
-    [ "i_range", "d5/da8/a08961.html#acc546656dbe9a405023ba56b028c8420", null ]
+    [ "creatureRate", "d5/da8/a08961.html#aa9c27c19179b8a7bdfdc11d906cd1c06", null ],
+    [ "questDailyRate", "d5/da8/a08961.html#a1798044bdf25ce774191b00e261add1e", null ],
+    [ "questMonthlyRate", "d5/da8/a08961.html#a0db34ed7420bc376cfe64a0d12434fea", null ],
+    [ "questRate", "d5/da8/a08961.html#a914118aa28b3736ff4e6c5b61d738834", null ],
+    [ "questRepeatableRate", "d5/da8/a08961.html#a2b050d4cf6555e824d59a3ffc0558b21", null ],
+    [ "questWeeklyRate", "d5/da8/a08961.html#a0fb31ebc33d0ce11f392be845907e043", null ],
+    [ "spellRate", "d5/da8/a08961.html#a508485f1e6833c58a11706667a2c24fd", null ]
 ];

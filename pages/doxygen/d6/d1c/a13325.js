@@ -1,6 +1,9 @@
 var a13325 =
 [
-    [ "instance_uldaman_InstanceMapScript", "dd/d7c/a13329.html", "dd/d7c/a13329" ],
-    [ "instance_uldaman", "d6/d1c/a13325.html#a854807db729d15aa4a09aad051fe3bda", null ],
-    [ "GetInstanceScript", "d6/d1c/a13325.html#a672bb8b5a16d29d25a191ab90d8007b4", null ]
+    [ "npc_dark_fiend", "d6/d1c/a13325.html#a8c4ebf7ba2f991df7053d40108330609", null ],
+    [ "DamageTaken", "d6/d1c/a13325.html#a39daa01688ec4ddadf9f1d185faa3f48", null ],
+    [ "Reset", "d6/d1c/a13325.html#a5622d14f84ad8e47da773852f1778d56", null ],
+    [ "UpdateAI", "d6/d1c/a13325.html#ab4a7cbc09f4b830039cf4c6f59b2b30e", null ],
+    [ "_lastVictimGUID", "d6/d1c/a13325.html#abcccb35701f21d417e3c13709cc24281", null ],
+    [ "_spellCast", "d6/d1c/a13325.html#a4cde5fbbeedfc7ed2907a2b797f6aafa", null ]
 ];

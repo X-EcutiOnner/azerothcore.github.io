@@ -1,6 +1,10 @@
 var a16025 =
 [
-    [ "instance_azjol_nerub_InstanceScript", "d2/d39/a16029.html", "d2/d39/a16029" ],
-    [ "instance_azjol_nerub", "df/d86/a16025.html#a61476a0d15136d2bdb3a65eca72963da", null ],
-    [ "GetInstanceScript", "df/d86/a16025.html#a8bb8477669c6369afe508a400bd4d489", null ]
+    [ "spell_halion_marks_aura", "df/d86/a16025.html#a3351eb9a4b497e1d92bd0021c0fa01f8", null ],
+    [ "BeforeDispel", "df/d86/a16025.html#a48fb48567091c8fd9d365ea3ff8730cc", null ],
+    [ "OnRemove", "df/d86/a16025.html#a1c9fefecd33db13e06f267c41e6b0375", null ],
+    [ "PrepareAuraScript", "df/d86/a16025.html#acd5285ea5c378b31526440d263c54770", null ],
+    [ "Register", "df/d86/a16025.html#ac84d4ab83e56314ff15ee363cafd2feb", null ],
+    [ "_removeSpellId", "df/d86/a16025.html#aeef9d928c6a8739337251e144558b169", null ],
+    [ "_summonSpellId", "df/d86/a16025.html#a01e8677e4f55dbb55cca1bf16dec48b2", null ]
 ];

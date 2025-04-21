@@ -1,11 +1,16 @@
 var a13689 =
 [
-    [ "npc_halazzi_lynxAI", "d9/d6f/a13689.html#a0edc81cce7d6ef466a14c32ea5b90a5d", null ],
-    [ "AttackStart", "d9/d6f/a13689.html#a0654eae250e5e51aa3d293840c22c2f0", null ],
-    [ "DamageTaken", "d9/d6f/a13689.html#a1353ffc9d2c912fdd023dbed1e9c498c", null ],
-    [ "JustEngagedWith", "d9/d6f/a13689.html#a37840e3db1595a5efb2ee6c7f7cc3a16", null ],
-    [ "Reset", "d9/d6f/a13689.html#ac4b9968cd5fce38953f02d92b408f865", null ],
-    [ "UpdateAI", "d9/d6f/a13689.html#a31f3e54784189fa46bccf485e7a78bc9", null ],
-    [ "FrenzyTimer", "d9/d6f/a13689.html#aa6805b4adfa9854fb3d228acb0ccd6c1", null ],
-    [ "shredder_timer", "d9/d6f/a13689.html#aca456062ee20737b8403cb243b1a3578", null ]
+    [ "boss_akilzon", "d9/d6f/a13689.html#a8c56c6920488ac507e24db384782e2ab", null ],
+    [ "DoAction", "d9/d6f/a13689.html#a691625a18583d58b1be4d2caeb21b1e0", null ],
+    [ "HandleStormSequence", "d9/d6f/a13689.html#a54d2f18adf59dc89553dd1778e5ea0b1", null ],
+    [ "JustDied", "d9/d6f/a13689.html#a93b34ed1f80dc138e54f77eb4f64b1bc", null ],
+    [ "JustEngagedWith", "d9/d6f/a13689.html#a2783ec5db681651f8c43c238e9ed25f3", null ],
+    [ "KilledUnit", "d9/d6f/a13689.html#a1a5ffe4c6aabeaa39971f2376761a7d7", null ],
+    [ "Reset", "d9/d6f/a13689.html#a69302e4ac8f349e884f0745fe66edce2", null ],
+    [ "SetWeather", "d9/d6f/a13689.html#a9c8eeed625f33153819df19b6c2c5670", null ],
+    [ "SummonEagles", "d9/d6f/a13689.html#acde7c47a3ebee988753cd2af93fe16d4", null ],
+    [ "_birdGUIDs", "d9/d6f/a13689.html#ad5c56493e1e6331ae09bb70b920282fc", null ],
+    [ "_cycloneGUID", "d9/d6f/a13689.html#aaa712019eb5d17684d7f048f81e36270", null ],
+    [ "_isRaining", "d9/d6f/a13689.html#af61142c59ca9c5868afe7bc94ca40dcf", null ],
+    [ "_targetGUID", "d9/d6f/a13689.html#a4e8349e5ea281a40b9623b14e235bf41", null ]
 ];

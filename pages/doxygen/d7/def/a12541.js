@@ -1,6 +1,7 @@
 var a12541 =
 [
-    [ "npc_scarlet_ghoulAI", "d9/d6c/a12545.html", "d9/d6c/a12545" ],
-    [ "npc_scarlet_ghoul", "d7/def/a12541.html#aa58b0d1c3fb411cac184bc1fc50f4fb3", null ],
-    [ "GetAI", "d7/def/a12541.html#a88d2639b1a4f087d3e1b95475a094d21", null ]
+    [ "boss_maiden_of_virtue", "d7/def/a12541.html#a4cd0c7a566e23e5c3a43466214f35dd3", null ],
+    [ "JustDied", "d7/def/a12541.html#a6eded246318f6b47b46f45168e4a8069", null ],
+    [ "JustEngagedWith", "d7/def/a12541.html#a6ff1b9e0a17218ad4871bc5fc3748671", null ],
+    [ "KilledUnit", "d7/def/a12541.html#a32dd66a297d11f5ffac1841bae15727a", null ]
 ];

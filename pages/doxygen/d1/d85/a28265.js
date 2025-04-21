@@ -1,6 +1,8 @@
 var a28265 =
 [
-    [ "PrepareAuraScript", "d1/d85/a28265.html#a059fe9aa1ea5ea4d0fa797e70a146fc5", null ],
-    [ "Register", "d1/d85/a28265.html#a91f4b2b8796c7efab2f622893a393619", null ],
-    [ "AuraEffectHandleModes", "d1/d85/a28265.html#ab93d08a85de86b0efdec59006ebbdf97", null ]
+    [ "Color", "d1/d85/a28265.html#a670fb4e2a31958f81d46047f74d9916f", null ],
+    [ "Comparator", "d1/d85/a28265.html#ace0bdad11edd9db12e45d374da623793", null ],
+    [ "CompareColor", "d1/d85/a28265.html#a801e2221bbb1b6aab67a57381901cf08", null ],
+    [ "ID", "d1/d85/a28265.html#aae73769db40326d298bb1d04eef38871", null ],
+    [ "Value", "d1/d85/a28265.html#ac314a9a6b447d386e31a286811f66538", null ]
 ];

@@ -1,6 +1,7 @@
 var a14481 =
 [
-    [ "HandleScriptEffect", "db/d94/a14481.html#a3d22cc828a2aa59d45e5d648161926fd", null ],
-    [ "PrepareSpellScript", "db/d94/a14481.html#a0ecf5662d9cc1296ebdac82233f1fe7c", null ],
-    [ "Register", "db/d94/a14481.html#aee5d9189b6df318b57e919511a185a99", null ]
+    [ "boss_azuregosAI", "da/d31/a14485.html", "da/d31/a14485" ],
+    [ "boss_azuregos", "db/d94/a14481.html#a48590db0037870ca5c9425a468e5ea3a", null ],
+    [ "GetAI", "db/d94/a14481.html#a3ea1fd967b8ab158a9b2bb5cdd7dcf83", null ],
+    [ "OnGossipSelect", "db/d94/a14481.html#a73220e54a3a53931e740f3c53c3bf20c", null ]
 ];

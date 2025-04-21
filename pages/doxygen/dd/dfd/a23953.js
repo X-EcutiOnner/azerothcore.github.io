@@ -1,8 +1,9 @@
 var a23953 =
 [
-    [ "HandleFinish", "dd/dfd/a23953.html#a27600802c43f97721184bb901432fd20", null ],
-    [ "Load", "dd/dfd/a23953.html#afeb43e1459b808bac842306a78009c0d", null ],
-    [ "PrepareSpellScript", "dd/dfd/a23953.html#ac24cdef45940877cff1b5b2da7863d8b", null ],
-    [ "Register", "dd/dfd/a23953.html#affadd3fb72dadaa734616a858c752e25", null ],
-    [ "handled", "dd/dfd/a23953.html#ab060d9944bc88938b24645760b2b9c16", null ]
+    [ "npc_fel_guard_houndAI", "dd/dfd/a23953.html#af8b3a9b56e4bdf8d8b654ecccd096651", null ],
+    [ "MovementInform", "dd/dfd/a23953.html#a127a0d7b61fde64c0ced52192f438f12", null ],
+    [ "Reset", "dd/dfd/a23953.html#ab979c3602897b1148ffd5d4a81941197", null ],
+    [ "UpdateAI", "dd/dfd/a23953.html#a97a59eec672d7dfe36264d34b922d0c8", null ],
+    [ "checkTimer", "dd/dfd/a23953.html#ad22bb6efafb4396cd0137c1384240029", null ],
+    [ "helboarGUID", "dd/dfd/a23953.html#aadcf9b51dbcaa1e62b6619b89d865814", null ]
 ];

@@ -1,7 +1,9 @@
 var a10637 =
 [
-    [ "Player", "d6/d99/a10637.html#a7f4241aa9ecc051c75f779af132a52ed", null ],
-    [ "WorldSession", "d6/d99/a10637.html#a65b5c30bf4f5f118a199e378d903aaf6", null ],
-    [ "FactionChange", "d6/d99/a10637.html#adff657ead29df26ead5e20a8ecf44e87", null ],
-    [ "Race", "d6/d99/a10637.html#a98d5fd43205a0c9e2d3be75d384ce00c", null ]
+    [ "GuildBankUpdateTab", "d6/d99/a10637.html#a2950da8bfc40df57a3f5a66eee47a7ef", null ],
+    [ "Read", "d6/d99/a10637.html#ac261ff0102489efb4d69bd866ffc9283", null ],
+    [ "Banker", "d6/d99/a10637.html#a7ab950cee095221f9114224a624d46db", null ],
+    [ "BankTab", "d6/d99/a10637.html#a66284a4d9cb40b025ef265d443e6e62f", null ],
+    [ "Icon", "d6/d99/a10637.html#a75a219a9e2ab677a41920f39a1613a1b", null ],
+    [ "Name", "d6/d99/a10637.html#a44261fbc379b3137548922faf4b5cbda", null ]
 ];

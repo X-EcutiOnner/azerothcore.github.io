@@ -1,6 +1,6 @@
 var a19997 =
 [
-    [ "npc_boss_gothik_minionAI", "d1/de4/a20001.html", "d1/de4/a20001" ],
-    [ "npc_boss_gothik_minion", "db/d18/a19997.html#a6cabeae812639ac179133245d85a0e15", null ],
-    [ "GetAI", "db/d18/a19997.html#a8abb1ec265f9eeb646a858bee06cfb92", null ]
+    [ "boss_freya_nature_bombAI", "d1/de4/a20001.html", "d1/de4/a20001" ],
+    [ "boss_freya_nature_bomb", "db/d18/a19997.html#a18fa6ff862a1b367ac23eb1b7bda0ed4", null ],
+    [ "GetAI", "db/d18/a19997.html#a73e24282c6bb29cf3f6a7da14a4de582", null ]
 ];

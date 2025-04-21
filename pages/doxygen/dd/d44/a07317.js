@@ -1,7 +1,9 @@
 var a07317 =
 [
-    [ "V", "dd/d44/a07317.html#aab662b1ba92ab8eb76558f97191142cc", null ],
-    [ "TryAtIndex", "dd/d44/a07317.html#aeff1865d7499b0b112cc39c44fd07112", null ],
-    [ "TryConsume", "dd/d44/a07317.html#ae2a889829917ed0dd76194194efc9b13", null ],
-    [ "N", "dd/d44/a07317.html#aee9ad1ea0e153765fbdd6f7b21abb20e", null ]
+    [ "CapturePointInfo", "dd/d44/a07317.html#a47ba3bbadd15909726e87dc5adc67686", null ],
+    [ "_captured", "dd/d44/a07317.html#aac26833d9951853183095b3985254e03", null ],
+    [ "_iconCapture", "dd/d44/a07317.html#a58adc22a7246dd7362efcf9d9a1891ad", null ],
+    [ "_iconNone", "dd/d44/a07317.html#a43228afe59b8fa004d2c740dd6262f8e", null ],
+    [ "_ownerTeamId", "dd/d44/a07317.html#aad378d1b07f1ef8c45b0bb1bcce7a028", null ],
+    [ "_state", "dd/d44/a07317.html#a98cb154218423e295b8007c62222831c", null ]
 ];

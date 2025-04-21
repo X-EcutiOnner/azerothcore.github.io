@@ -1,12 +1,12 @@
 var a17869 =
 [
-    [ "npc_high_overlord_saurfangAI", "da/d71/a17869.html#a5c31259d9eb26e09d2b645d826e75328", null ],
-    [ "DoAction", "da/d71/a17869.html#a4a372a14c960c48c51a1c8e34ebffc53", null ],
-    [ "MovementInform", "da/d71/a17869.html#a6a46f99ffb67a699ef9adb2a1afcbe13", null ],
-    [ "Reset", "da/d71/a17869.html#a28899c61f9b4d3612535d1a01dc05f4a", null ],
-    [ "SpellHit", "da/d71/a17869.html#a6399e9c9ecdb8c01fbd2bcd1b081811f", null ],
-    [ "UpdateAI", "da/d71/a17869.html#a92124e7490a066bf63836397a3bdc71b", null ],
-    [ "_events", "da/d71/a17869.html#a12bbe13cf8fd1eda0cb8aa75ecafddc4", null ],
-    [ "_guardList", "da/d71/a17869.html#a1d8ccb93c5c8d13767fa8a1429adb262", null ],
-    [ "_instance", "da/d71/a17869.html#a4181022e52fc10e2d5d98dcffe9ced62", null ]
+    [ "npc_big_oozeAI", "da/d71/a17869.html#a3564ffec1ac0ac2c7e29b3c7a6b60958", null ],
+    [ "DoAction", "da/d71/a17869.html#a6d39eb1f177e8670169f18fcfa2e3c4e", null ],
+    [ "EnterEvadeMode", "da/d71/a17869.html#ad7251cda20f3e2821077d2327528fd2d", null ],
+    [ "IsSummonedBy", "da/d71/a17869.html#a85d27ac9fb0b9dbb92b2b17a99eaa612", null ],
+    [ "JustDied", "da/d71/a17869.html#a2372053a84715990fc7fce3d8e269265", null ],
+    [ "UpdateAI", "da/d71/a17869.html#a2e1f52ca84363703d95da99ca93d3503", null ],
+    [ "events", "da/d71/a17869.html#a54f3baa4767f8336ff4699de426aae61", null ],
+    [ "firstUpdate", "da/d71/a17869.html#af5c34c976137e456d1779ca944f88639", null ],
+    [ "instance", "da/d71/a17869.html#a788141bf9be03161741d01d0aa4fe227", null ]
 ];

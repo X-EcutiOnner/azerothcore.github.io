@@ -1,6 +1,8 @@
 var a13341 =
 [
-    [ "spell_uldaman_stoned_AuraScript", "d0/d72/a13345.html", "d0/d72/a13345" ],
-    [ "spell_uldaman_stoned", "d1/dc4/a13341.html#a9200bb1fa352ba0b19d35169ac7cb479", null ],
-    [ "GetAuraScript", "d1/dc4/a13341.html#a89680bd42fb16974cf366706cc0fa867", null ]
+    [ "HandleApply", "d1/dc4/a13341.html#a717e3428afd59fa3a5e9916887d88273", null ],
+    [ "HandleRemove", "d1/dc4/a13341.html#ae389028340dc25ee0260ed3e9f1d5ceb", null ],
+    [ "PrepareAuraScript", "d1/dc4/a13341.html#a58e6bae0c4c203c704cfa6cfdd6d560f", null ],
+    [ "Register", "d1/dc4/a13341.html#ac2ba66696c791d47c7c485aec6028f0b", null ],
+    [ "Validate", "d1/dc4/a13341.html#a393a46618a4e1928b8149e04b4823726", null ]
 ];

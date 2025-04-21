@@ -1,10 +1,6 @@
 var a10901 =
 [
-    [ "TargetHook", "d1/d7c/a10901.html#afcada203ddd8752107c74bbf0e7c24eb", null ],
-    [ "CheckEffect", "d1/d7c/a10901.html#af02ad1f1fb914aac52095d7e41f12c94", null ],
-    [ "GetTarget", "d1/d7c/a10901.html#a238979ffaaa644bd65ffd4e7cb20d797", null ],
-    [ "ToString", "d1/d7c/a10901.html#a424e03e457dc15a2689f344e614a882f", null ],
-    [ "area", "d1/d7c/a10901.html#aceec6f0ea91d45a11233122c3bc843ed", null ],
-    [ "dest", "d1/d7c/a10901.html#a28f2f6f3338a2c261ee754508ee48e60", null ],
-    [ "targetType", "d1/d7c/a10901.html#aed2e0e651bdd5453d716db464ac0ab55", null ]
+    [ "ClientOpcodeHandler", "d9/d71/a04749.html#ga975b7c1e941b9ad11164cc5b0cf3f557", null ],
+    [ "Call", "d9/d71/a04749.html#gae6c5104e6c75c2e88a3d8dfcf9e63678", null ],
+    [ "ProcessingPlace", "d9/d71/a04749.html#gaccb7f451536a1a56ba072a82202e5a53", null ]
 ];

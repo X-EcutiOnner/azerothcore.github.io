@@ -1,6 +1,6 @@
 var a22341 =
 [
-    [ "spell_yogg_saron_in_the_maws_of_the_old_god_SpellScript", "dc/dc7/a22345.html", "dc/dc7/a22345" ],
-    [ "spell_yogg_saron_in_the_maws_of_the_old_god", "d5/d01/a22341.html#aecbc6fe44dabfb8322cd7548d0356fd7", null ],
-    [ "GetSpellScript", "d5/d01/a22341.html#af1ab217237c521a6fba6ede76526869a", null ]
+    [ "npc_drakuru_shacklesAI", "dc/dc7/a22345.html", "dc/dc7/a22345" ],
+    [ "npc_drakuru_shackles", "d5/d01/a22341.html#a2b15a214b34d86597cba09b17654e4ff", null ],
+    [ "GetAI", "d5/d01/a22341.html#a90ce98de4630771858cd3b79264a28f9", null ]
 ];

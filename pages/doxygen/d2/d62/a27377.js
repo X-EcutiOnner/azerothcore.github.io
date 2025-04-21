@@ -1,6 +1,6 @@
 var a27377 =
 [
-    [ "HandlePeriodicTick", "d2/d62/a27377.html#a1bd15727da421fdbfc3a60136bfa9bc9", null ],
-    [ "PrepareAuraScript", "d2/d62/a27377.html#a1c4f592511c8886d0b9a5e64eb19cda7", null ],
-    [ "Register", "d2/d62/a27377.html#ac019a52a6f62f1251d20efcfadba1e78", null ]
+    [ "npc_preciousAI", "d5/d4c/a27381.html", "d5/d4c/a27381" ],
+    [ "npc_precious", "d2/d62/a27377.html#a3c3ad9da13de64498cabc8e252e99ab2", null ],
+    [ "GetAI", "d2/d62/a27377.html#a754ad85c8b1942b400a47c28297bad62", null ]
 ];

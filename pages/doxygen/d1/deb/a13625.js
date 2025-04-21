@@ -1,6 +1,6 @@
 var a13625 =
 [
-    [ "npc_the_scourge_cauldronAI", "db/ded/a13629.html", "db/ded/a13629" ],
-    [ "npc_the_scourge_cauldron", "d1/deb/a13625.html#a7ff5315293c4917dec3b0fe0aade2016", null ],
-    [ "GetAI", "d1/deb/a13625.html#ae4e35f1cac0c0f35333ba6113d3c1ad0", null ]
+    [ "boss_blight_wormAI", "db/ded/a13629.html", "db/ded/a13629" ],
+    [ "boss_blight_worm", "d1/deb/a13625.html#a6dea51baebc6b44ef94342565136e56d", null ],
+    [ "GetAI", "d1/deb/a13625.html#a1cb9043482e9b3c3eff3fd75057a2fb2", null ]
 ];

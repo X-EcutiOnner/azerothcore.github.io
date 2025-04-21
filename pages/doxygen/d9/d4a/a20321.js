@@ -1,5 +1,6 @@
 var a20321 =
 [
-    [ "achievement_chaos_theory", "d9/d4a/a20321.html#a3068009fa1fb400439a2c72f00296484", null ],
-    [ "OnCheck", "d9/d4a/a20321.html#a68d9a577cb7e005d81f52077707e3555", null ]
+    [ "npc_ulduar_vx001AI", "dd/d10/a20325.html", "dd/d10/a20325" ],
+    [ "npc_ulduar_vx001", "d9/d4a/a20321.html#ae8393c02c94a94b0847e0c7837bc5469", null ],
+    [ "GetAI", "d9/d4a/a20321.html#acdab817141b851deb09861230323ee58", null ]
 ];

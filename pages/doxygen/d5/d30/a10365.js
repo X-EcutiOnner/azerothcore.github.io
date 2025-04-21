@@ -1,7 +1,6 @@
 var a10365 =
 [
-    [ "GuildBankTextQueryResult", "d5/d30/a10365.html#aa1e25895e246c3a688d7850e517858d3", null ],
-    [ "Write", "d5/d30/a10365.html#acb6b28dcf56b821e3c0d5b58f6baa2dd", null ],
-    [ "Tab", "d5/d30/a10365.html#abfc5522a0f94086474493db85ed1ef73", null ],
-    [ "Text", "d5/d30/a10365.html#ae78c1d1b802e12efd058987117158ec3", null ]
+    [ "WorldMapScript", "d5/d30/a10365.html#a49300e796ceb6ab1a40ed9cbb89a9e4d", null ],
+    [ "checkValidity", "d5/d30/a10365.html#aa212e582764d2cfbc5e7e600a54f2cb4", null ],
+    [ "isAfterLoadScript", "d5/d30/a10365.html#a6aeda6e4c8328d7334527cbe69311ddc", null ]
 ];

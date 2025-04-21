@@ -1,6 +1,6 @@
 var a17769 =
 [
-    [ "boss_blood_queen_lana_thelAI", "df/d74/a17773.html", "df/d74/a17773" ],
-    [ "boss_blood_queen_lana_thel", "dc/d35/a17769.html#a9f8fa906f01082caacd106abc2707b07", null ],
-    [ "GetAI", "dc/d35/a17769.html#a7873efd945bdb24228866f639e32879b", null ]
+    [ "PrepareSpellScript", "dc/d35/a17769.html#a16eadb50b6038f16ea28464d00df3381", null ],
+    [ "Register", "dc/d35/a17769.html#ac6e304d391011863b8eff8105fab5191", null ],
+    [ "SelectDest", "dc/d35/a17769.html#a8ff5d684c0b91d0f068d03698c1ee92c", null ]
 ];

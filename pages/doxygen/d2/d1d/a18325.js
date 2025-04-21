@@ -1,7 +1,5 @@
 var a18325 =
 [
-    [ "OnPeriodic", "d2/d1d/a18325.html#a402e6c1a23070e3cef9b66ca0992d1af", null ],
-    [ "PrepareAuraScript", "d2/d1d/a18325.html#a0e87dae1be4f69e6412129f14056eb79", null ],
-    [ "Register", "d2/d1d/a18325.html#a1b26d102252bf7e0fd480076820d343f", null ],
-    [ "Validate", "d2/d1d/a18325.html#a211d52aa385a874730abc43b083f2d22", null ]
+    [ "achievement_been_waiting_long_time", "d2/d1d/a18325.html#a839ec8cb50512bbae7125ead3ed35aec", null ],
+    [ "OnCheck", "d2/d1d/a18325.html#a5e72304220d3a649d2182cb287215da6", null ]
 ];

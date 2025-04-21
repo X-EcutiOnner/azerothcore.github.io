@@ -1,7 +1,7 @@
 var a23921 =
 [
-    [ "npc_wg_siege_machineAI", "d0/d84/a23921.html#aaeca9e73520701ce28f2cc9d1483cc6b", null ],
-    [ "CanControlVehicle", "d0/d84/a23921.html#a7ce79406da48e245a0baa2fdd23622b9", null ],
-    [ "UpdateAI", "d0/d84/a23921.html#a8ddd21047a857facc767a9edc0ec5408", null ],
-    [ "checkTimer", "d0/d84/a23921.html#abf4b06eae50adeefedba02e2186ea48a", null ]
+    [ "HandleDummy", "d0/d84/a23921.html#a08f2f0aef00ce075572ff84643905a0a", null ],
+    [ "PrepareSpellScript", "d0/d84/a23921.html#ac1aacfbd71224d80eaed0b9a76ff673f", null ],
+    [ "Register", "d0/d84/a23921.html#a2046ac7f24989ff0bf50a3ee66dda104", null ],
+    [ "Validate", "d0/d84/a23921.html#aded9f2e46cc3bf46f5699ce6fdf154ba", null ]
 ];

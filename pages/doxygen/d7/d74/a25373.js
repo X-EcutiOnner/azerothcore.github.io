@@ -1,14 +1,10 @@
 var a25373 =
 [
-    [ "npc_warden_mellicharAI", "d7/d74/a25373.html#a3486b015ccb8fecfe5e215f45e45f15e", null ],
-    [ "AttackStart", "d7/d74/a25373.html#a2b16dc3ad358e4179fe20e2066ba5c64", null ],
-    [ "DamageTaken", "d7/d74/a25373.html#a07e7b215ed7653fe7e1ee44d34a74bbd", null ],
-    [ "JustDied", "d7/d74/a25373.html#a867404a125aeb4ee3332a4e2b5a8f547", null ],
-    [ "JustEngagedWith", "d7/d74/a25373.html#ad584a3c2dd8f108cc9b4e66a6917f97b", null ],
-    [ "JustSummoned", "d7/d74/a25373.html#a3fe95a64b640fb61459da2c8621fbc9c", null ],
-    [ "MoveInLineOfSight", "d7/d74/a25373.html#aa4edaf9534e7232526fd9c7bd097b7c4", null ],
-    [ "Reset", "d7/d74/a25373.html#aebd55a8e6e618e4dc37cf253c60c3a94", null ],
-    [ "SetData", "d7/d74/a25373.html#a0d0e8d1af5179aea73aa60e060ba751a", null ],
-    [ "SummonedCreatureDies", "d7/d74/a25373.html#a58e1011986be65725d4db3d782bc72ac", null ],
-    [ "UpdateAI", "d7/d74/a25373.html#a944cff5367213d561a7e6df5faf2a216", null ]
+    [ "ApplyMarker", "d7/d74/a25373.html#aae1bd2f5f21a389e8d110cabecc9d94d", null ],
+    [ "CheckTrapProc", "d7/d74/a25373.html#a00f06f18b6874302f88c3af193d8e4ed", null ],
+    [ "HandleProcs", "d7/d74/a25373.html#a81abe76c24a6a6320811d99ce8f5fb4f", null ],
+    [ "IsTargetValid", "d7/d74/a25373.html#a02590da9b97a4d6bc7a6cbd0e670480f", null ],
+    [ "PrepareAuraScript", "d7/d74/a25373.html#a475320d20875b2d710ed3734b78f4645", null ],
+    [ "Register", "d7/d74/a25373.html#aca7649a87ace4e22793ca33705b1500c", null ],
+    [ "Validate", "d7/d74/a25373.html#a45630b6dc703996321286ff16a17e3e3", null ]
 ];

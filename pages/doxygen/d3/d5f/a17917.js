@@ -1,6 +1,7 @@
 var a17917 =
 [
-    [ "ModAuraValue", "d3/d5f/a17917.html#aebb85353c7ae5af78a725074015b422d", null ],
-    [ "PrepareSpellScript", "d3/d5f/a17917.html#a58dc6a33d2aa9765c143c25428d37342", null ],
-    [ "Register", "d3/d5f/a17917.html#a8d296579faa0edcb4e5c119ccc4edab3", null ]
+    [ "FrostBombExplosion", "d3/d5f/a17917.html#ac7d318e241e6442e8aa084b27ea50236", null ],
+    [ "Execute", "d3/d5f/a17917.html#a0b6521266f18b621260286c530ff3f36", null ],
+    [ "_owner", "d3/d5f/a17917.html#aa9ff39ce43c351e8815f895896fa759b", null ],
+    [ "_sindragosaGUID", "d3/d5f/a17917.html#a5afc3d543c8fa457c90735f841aa161c", null ]
 ];

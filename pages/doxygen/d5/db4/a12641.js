@@ -1,6 +1,8 @@
 var a12641 =
 [
-    [ "npc_a_special_surpriseAI", "dd/dd7/a12645.html", "dd/dd7/a12645" ],
-    [ "npc_a_special_surprise", "d5/db4/a12641.html#ab88d74a86049c53b1569bdcc263f3dd4", null ],
-    [ "GetAI", "d5/db4/a12641.html#a930c7ba67a20fbfc55b40117ccd52c98", null ]
+    [ "npc_tito", "d5/db4/a12641.html#a0b3b1750e8b8840e50d27d22ebddb7c8", null ],
+    [ "JustEngagedWith", "d5/db4/a12641.html#a71335c1474e8a29edf76addacb737fa9", null ],
+    [ "UpdateAI", "d5/db4/a12641.html#ac357c29e68d8480d94349da844efd3ad", null ],
+    [ "_scheduler", "d5/db4/a12641.html#a96c47ca2e66bb984dfd2cfefa6bde643", null ],
+    [ "instance", "d5/db4/a12641.html#a9eecd226486e52d559ae1a30687bf0eb", null ]
 ];

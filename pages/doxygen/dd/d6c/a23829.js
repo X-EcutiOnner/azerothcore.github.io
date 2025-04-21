@@ -1,6 +1,6 @@
 var a23829 =
 [
-    [ "spell_q13007_iron_colossus_SpellScript", "d0/d32/a23833.html", "d0/d32/a23833" ],
-    [ "spell_q13007_iron_colossus", "dd/d6c/a23829.html#a19b605d209d83a1bc9cb21785137d8fd", null ],
-    [ "GetSpellScript", "dd/d6c/a23829.html#afce28bbe317f6aca823b3b34e6117ddf", null ]
+    [ "HandleDummy", "dd/d6c/a23829.html#a4c1177fc89310598b6ba7cddf7f47cd1", null ],
+    [ "PrepareSpellScript", "dd/d6c/a23829.html#af511bcad63ff423bf04a430f56959f40", null ],
+    [ "Register", "dd/d6c/a23829.html#adaa4fc5294e2b0cb5bcb42f1a93a6f29", null ]
 ];

@@ -1,6 +1,6 @@
 var a19429 =
 [
-    [ "spell_dreamwalker_summoner_SpellScript", "da/da6/a19433.html", "da/da6/a19433" ],
-    [ "spell_dreamwalker_summoner", "d2/d8c/a19429.html#ad10a4e75d8b22561630e33aac1165fa0", null ],
-    [ "GetSpellScript", "d2/d8c/a19429.html#a9abc579bbdb01a26cae788bb58f6bbc9", null ]
+    [ "boss_volkhanAI", "da/da6/a19433.html", "da/da6/a19433" ],
+    [ "boss_volkhan", "d2/d8c/a19429.html#a9dcb6026fbf3116df9abf5acaf1bfcc2", null ],
+    [ "GetAI", "d2/d8c/a19429.html#aa0f76b387f9f74e0eb6dedd1b44ce34a", null ]
 ];

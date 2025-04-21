@@ -1,6 +1,6 @@
 var a20389 =
 [
-    [ "instance_nexus_InstanceMapScript", "d1/d32/a20393.html", "d1/d32/a20393" ],
-    [ "instance_nexus", "d0/df7/a20389.html#ad2d28baeef8323ae97f19ec9272c7e97", null ],
-    [ "GetInstanceScript", "d0/df7/a20389.html#a156210ba08caa0572c775dbd5851b250", null ]
+    [ "npc_ulduar_flames_spreadAI", "d1/d32/a20393.html", "d1/d32/a20393" ],
+    [ "npc_ulduar_flames_spread", "d0/df7/a20389.html#aca9713b28d6d0c7b13b85a00c8a53ab0", null ],
+    [ "GetAI", "d0/df7/a20389.html#af492a5bc9304a05f8475a39458c6abdb", null ]
 ];

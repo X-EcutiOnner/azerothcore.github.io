@@ -1,6 +1,7 @@
 var a27353 =
 [
-    [ "PrepareSpellScript", "d4/d06/a27353.html#a72e57e8a4bdb9a4fcd73e3519b6025ea", null ],
-    [ "Register", "d4/d06/a27353.html#aac4d3c8ecde3652c65c05abad5c8eaeb", null ],
-    [ "SelectTarget", "d4/d06/a27353.html#a3153b6c6814922cd7220e19b06f2a602", null ]
+    [ "npc_engineering_tele_trinket", "d4/d06/a27353.html#ab891a8378a7b1b63151d05801b8b2fd1", null ],
+    [ "CanLearn", "d4/d06/a27353.html#a8a35f1c09a9df609561e76f4ed578647", null ],
+    [ "OnGossipHello", "d4/d06/a27353.html#ad11f576fb7efad0f6ea4cf22d3bc4e59", null ],
+    [ "OnGossipSelect", "d4/d06/a27353.html#a4d7125cf0333d4e5ebc299019c8feb1a", null ]
 ];

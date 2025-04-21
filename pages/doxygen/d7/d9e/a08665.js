@@ -1,8 +1,8 @@
 var a08665 =
 [
-    [ "MailLevelReward", "d7/d9e/a08665.html#accd52642cbbab457b69dba54a6ffa23b", null ],
-    [ "MailLevelReward", "d7/d9e/a08665.html#a3e98aa5c30b0b5648784f9aaf5349a76", null ],
-    [ "mailTemplateId", "d7/d9e/a08665.html#afdf6684bcd2751822bd00ba1509ef933", null ],
-    [ "raceMask", "d7/d9e/a08665.html#a341088acd89b79161d932367f4f1798d", null ],
-    [ "senderEntry", "d7/d9e/a08665.html#a2b678ac953209691b38d583cffab55b5", null ]
+    [ "DiminishingReturn", "d7/d9e/a08665.html#acd4828637710636d0164fced285c854d", null ],
+    [ "DRGroup", "d7/d9e/a08665.html#add3ab95d65e283a326e1922129941ae4", null ],
+    [ "hitCount", "d7/d9e/a08665.html#a94b1fdc8e8d51b1c6f5e723e697ed323", null ],
+    [ "hitTime", "d7/d9e/a08665.html#ae3f5eecc2bc88fe236fe4c7c297b68c5", null ],
+    [ "stack", "d7/d9e/a08665.html#aeb40601df7e6507c7fd83e3152541ba5", null ]
 ];

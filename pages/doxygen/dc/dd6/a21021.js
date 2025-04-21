@@ -1,6 +1,6 @@
 var a21021 =
 [
-    [ "boss_flame_leviathan_overload_deviceAI", "d2/db7/a21025.html", "d2/db7/a21025" ],
-    [ "boss_flame_leviathan_overload_device", "dc/dd6/a21021.html#ad00f601170c1af833aadb17eab5d19a8", null ],
-    [ "GetAI", "dc/dd6/a21021.html#a73988d2b1cfe61d0356ec1f317d90162", null ]
+    [ "npc_massive_jormungarAI", "d2/db7/a21025.html", "d2/db7/a21025" ],
+    [ "npc_massive_jormungar", "dc/dd6/a21021.html#ad17b632fcfe78019dcb9e6b58fa1ac01", null ],
+    [ "GetAI", "dc/dd6/a21021.html#a68e3557e967ef633ba59fa81e661b80c", null ]
 ];

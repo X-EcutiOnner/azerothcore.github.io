@@ -1,21 +1,14 @@
 var a13393 =
 [
-    [ "npc_eris_hevenfireAI", "d5/dbd/a13393.html#a07d91015d64f5d6ac5b78a6082e0280d", null ],
-    [ "CanBeSeen", "d5/dbd/a13393.html#a16293cab0ff15d13675dcadc3050365f", null ],
-    [ "DoAction", "d5/dbd/a13393.html#a982f2efef39ac47d2df6579676b25862", null ],
-    [ "JustSummoned", "d5/dbd/a13393.html#a21f91de064bec6943aae5d710e6ec485", null ],
-    [ "Reset", "d5/dbd/a13393.html#a0b328182914ca26786808b6fd2491619", null ],
-    [ "SetData", "d5/dbd/a13393.html#a8c012a9c083921770980fb8c037d6ccc", null ],
-    [ "SetGUID", "d5/dbd/a13393.html#ac637ff6ea69427f8120be1cf5bf353e3", null ],
-    [ "SummonArchers", "d5/dbd/a13393.html#aa415baa9bff7c93c57f327b661689ac3", null ],
-    [ "SummonPeasants", "d5/dbd/a13393.html#ab5a69679bad85ed42b2f408231781da9", null ],
-    [ "UpdateAI", "d5/dbd/a13393.html#a3f3da888c1076f4f728157f7ba9edf1c", null ],
-    [ "_counter", "d5/dbd/a13393.html#aa5f1374bbf98a613db266994b6640031", null ],
-    [ "_deathCount", "d5/dbd/a13393.html#a258d870137c02dd74ff23b94cb3f90d1", null ],
-    [ "_faction", "d5/dbd/a13393.html#a2b11d54ff39f568cf26845251a38a612", null ],
-    [ "_playerGUID", "d5/dbd/a13393.html#a8ba92ce2b32b70e1275f551871d640fe", null ],
-    [ "_savedCount", "d5/dbd/a13393.html#aef83dfb3c6c737af77b63b650fdf5749", null ],
-    [ "_spoken", "d5/dbd/a13393.html#abe9dbd5111b73ac6c7bf336da98d06d1", null ],
-    [ "events", "d5/dbd/a13393.html#a62dee89eca10f43af3051800e4a69c74", null ],
-    [ "summons", "d5/dbd/a13393.html#a8d30f6f513ee7e195dbef56071f136fc", null ]
+    [ "instance_uldaman_InstanceMapScript", "d5/dbd/a13393.html#ab2607f229d1e34852c82139ddb597712", null ],
+    [ "GetData", "d5/dbd/a13393.html#adef5f6d2dcaa50dbb615c4c134e7ecfb", null ],
+    [ "Initialize", "d5/dbd/a13393.html#a2424bcb1aec0ffc6235a8e8b384f0ed1", null ],
+    [ "OnCreatureCreate", "d5/dbd/a13393.html#a49b5562743910dc1b6b55efa8c44b6a0", null ],
+    [ "OnGameObjectCreate", "d5/dbd/a13393.html#aacb9db5f66f1f9be0d993aacc3cf4348", null ],
+    [ "ReadSaveDataMore", "d5/dbd/a13393.html#a8e0e03189463039dd31d883ad9c40e51", null ],
+    [ "SetData", "d5/dbd/a13393.html#ab24fc2db74ef83f2b3be9603d4728385", null ],
+    [ "WriteSaveDataMore", "d5/dbd/a13393.html#a3345c117f5e2ceca773843c3f51cb76f", null ],
+    [ "_encounters", "d5/dbd/a13393.html#a6840bd04d25fd1f365e0c28c725cde97", null ],
+    [ "ancientVaultDoorGUID", "d5/dbd/a13393.html#adf83ba0b0a1650462dbc3bc56182bed9", null ],
+    [ "archaedasTempleDoorGUID", "d5/dbd/a13393.html#a6bad33c43ceaa23990544e4a8feefb34", null ]
 ];

@@ -1,7 +1,7 @@
 var a18345 =
 [
-    [ "npc_coldflameAI", "db/d9c/a18345.html#a2a8420b79357f7a2167dddbd68ec8bc0", null ],
-    [ "IsSummonedBy", "db/d9c/a18345.html#a1a330428ac8f17dc673fb1ae4d57035a", null ],
-    [ "UpdateAI", "db/d9c/a18345.html#a5a847ae7c15b309cb1393b6d16a6e220", null ],
-    [ "events", "db/d9c/a18345.html#af3b7d4ca1b268fe0d786eee83c0a3596", null ]
+    [ "AuraRemoveEvent", "db/d9c/a18345.html#a094b9437c7cadb465738daf5684c9725", null ],
+    [ "Execute", "db/d9c/a18345.html#a14ac906a0fcff86f61983c570b0bd6ad", null ],
+    [ "_spellId", "db/d9c/a18345.html#a6fad41839e07e9545859be7c3afcfc36", null ],
+    [ "_trigger", "db/d9c/a18345.html#aad8c27befc102dae6823d5d74fed50b4", null ]
 ];

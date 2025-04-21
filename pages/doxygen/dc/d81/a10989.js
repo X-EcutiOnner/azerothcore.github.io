@@ -1,12 +1,9 @@
 var a10989 =
 [
-    [ "BroadcastTextBuilder", "dc/d81/a10989.html#adafc60b68bed31fdd87f5c71244c96f2", null ],
-    [ "operator()", "dc/d81/a10989.html#a16f9719278e00013c25902846fa1be5b", null ],
-    [ "operator()", "dc/d81/a10989.html#a721cfad6078bb74dbb06aaec750bc0a4", null ],
-    [ "_achievementId", "dc/d81/a10989.html#a82de25331657b17ce0de33f2b374abda", null ],
-    [ "_gender", "dc/d81/a10989.html#a71032b0749dd75f552107503528e8166", null ],
-    [ "_msgType", "dc/d81/a10989.html#a232325cefa217843da5cc6db7e5d80fe", null ],
-    [ "_source", "dc/d81/a10989.html#ab73315225b3aa36a309f45596f7089f4", null ],
-    [ "_target", "dc/d81/a10989.html#a958b154f3c82188e9684be0f0b7dae56", null ],
-    [ "_textId", "dc/d81/a10989.html#a0bbe45b38a92967f145fb1d608d647b1", null ]
+    [ "EncryptableAndCompressiblePacket", "dc/d81/a10989.html#a64eb3fa6b02a6aff486aa2d9a4d09fc6", null ],
+    [ "CompressIfNeeded", "dc/d81/a10989.html#a113d89a8f2832c5db01611ff71d2bc73", null ],
+    [ "NeedsCompression", "dc/d81/a10989.html#ad376b973f02c1b0cd2afbb43cc081917", null ],
+    [ "NeedsEncryption", "dc/d81/a10989.html#a114e5d6da2e81a26e478f7aea287d08a", null ],
+    [ "_encrypt", "dc/d81/a10989.html#a37a68eddad23001a85a4a2f77e237810", null ],
+    [ "SocketQueueLink", "dc/d81/a10989.html#a88f11ce75f439fd290bdc09156d559c2", null ]
 ];

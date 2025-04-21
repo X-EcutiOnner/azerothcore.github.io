@@ -1,6 +1,6 @@
 var a16877 =
 [
-    [ "spell_dred_grievious_bite_AuraScript", "d3/d4a/a16881.html", "d3/d4a/a16881" ],
-    [ "spell_dred_grievious_bite", "db/dd5/a16877.html#ad24f70f1aff2fdf7a87e1a839b0c718a", null ],
-    [ "GetAuraScript", "db/dd5/a16877.html#a5ab85c63e2537c621dde39e4f3d147e9", null ]
+    [ "instance_halls_of_reflection_InstanceMapScript", "d3/d4a/a16881.html", "d3/d4a/a16881" ],
+    [ "instance_halls_of_reflection", "db/dd5/a16877.html#a8872b51ceec25dbf4831f45b27206ed1", null ],
+    [ "GetInstanceScript", "db/dd5/a16877.html#aca27a4f654f41fe6f238c905b48285b7", null ]
 ];

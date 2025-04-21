@@ -1,6 +1,6 @@
 var a21389 =
 [
-    [ "boss_hodirAI", "d0/d46/a21393.html", "d0/d46/a21393" ],
-    [ "boss_hodir", "d8/dcf/a21389.html#a5740f489f57380d2633a8ee5a18de339", null ],
-    [ "GetAI", "d8/dcf/a21389.html#a8d6ce019e9c383d2eb9ac0d211f4bc4c", null ]
+    [ "HandleEffectPeriodic", "d8/dcf/a21389.html#affa7fb949d4b1a05813df0da17fef3bb", null ],
+    [ "PrepareAuraScript", "d8/dcf/a21389.html#a79dbb866c06cd1c031cae2f1370146d5", null ],
+    [ "Register", "d8/dcf/a21389.html#a1fb46036f0860440f3a9201e0d86cdc4", null ]
 ];

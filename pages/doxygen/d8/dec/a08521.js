@@ -1,8 +1,10 @@
 var a08521 =
 [
-    [ "TempSummonGroupKey", "d8/dec/a08521.html#ae1bd752c8fc7d037d6942b32859ce1ad", null ],
-    [ "operator<", "d8/dec/a08521.html#ae92c7712bd58b9b773ddaac3d2b8a345", null ],
-    [ "_summonerEntry", "d8/dec/a08521.html#a0ecac0e82ce63c9e64f2e17d941df447", null ],
-    [ "_summonerType", "d8/dec/a08521.html#ac6bf8fb36092134f63409f3cddc5f810", null ],
-    [ "_summonGroup", "d8/dec/a08521.html#a1a90f3bf90363f88828cc217dd7ceda6", null ]
+    [ "PvPInfo", "d8/dec/a08521.html#ad956667bc89b49e5a520ee5a4f19f22e", null ],
+    [ "EndTimer", "d8/dec/a08521.html#ae06b5030552c02f30fe8386633a753df", null ],
+    [ "FFAPvPEndTimer", "d8/dec/a08521.html#a739dfc63dfe39429a44ea682d9120522", null ],
+    [ "IsHostile", "d8/dec/a08521.html#a22a1c8f0e8c51f4a27cb8ab362028d61", null ],
+    [ "IsInFFAPvPArea", "d8/dec/a08521.html#a8a654926248b3974587af1eb9c064d15", null ],
+    [ "IsInHostileArea", "d8/dec/a08521.html#a92d3c8991f7e3c5d683b414d18cbbd64", null ],
+    [ "IsInNoPvPArea", "d8/dec/a08521.html#a6858b8db9a441bf950f7d9fdca1587b5", null ]
 ];

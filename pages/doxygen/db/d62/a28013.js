@@ -1,7 +1,5 @@
 var a28013 =
 [
-    [ "if", "db/d62/a28013.html#aefedb14e99d2e60abfd58f7778deb39b", null ],
-    [ "PrepareAuraScript", "db/d62/a28013.html#ad61e8c804e59ca0623748acde69aeddb", null ],
-    [ "Register", "db/d62/a28013.html#af917d32bc0d7f825a52c0a916a3a2357", null ],
-    [ "AuraEffectHandleModes", "db/d62/a28013.html#accfab0bada4faf21178e3f67a79c6dfe", null ]
+    [ "Id", "db/d62/a28013.html#a2c41c957524b31ad9f7fa361ec0e9d01", null ],
+    [ "textid", "db/d62/a28013.html#a7e50690fa335b759dba5ac265c9a0dd0", null ]
 ];

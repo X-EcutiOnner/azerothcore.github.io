@@ -1,6 +1,6 @@
 var a15485 =
 [
-    [ "npc_troll_volunteerAI", "d1/d6c/a15489.html", "d1/d6c/a15489" ],
-    [ "npc_troll_volunteer", "d2/dcf/a15485.html#a3c5eb7108dc0480e07b77eceb01cd18a", null ],
-    [ "GetAI", "d2/dcf/a15485.html#aba0208b0910ace75686941c462ecca56", null ]
+    [ "npc_braug_dimspirit", "d2/dcf/a15485.html#ade08e9ad549d80c2f7918dbfcfbf41dc", null ],
+    [ "OnGossipHello", "d2/dcf/a15485.html#aeaed026edf5a1fa82c941f667c05815b", null ],
+    [ "OnGossipSelect", "d2/dcf/a15485.html#a87ea1ba3e247c9b14c1f6c72b3addea0", null ]
 ];

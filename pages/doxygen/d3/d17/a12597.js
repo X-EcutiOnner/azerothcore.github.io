@@ -1,12 +1,7 @@
 var a12597 =
 [
-    [ "npc_scarlet_minerAI", "d3/d17/a12597.html#a7f5ca173103eb4498ce41912bda5da66", null ],
-    [ "InitCartQuest", "d3/d17/a12597.html#a5d3ece8f2f02a2bae4550a41f55348b0", null ],
-    [ "InitWaypoint", "d3/d17/a12597.html#a7fe048368b6e0a43b5be501a24773b8c", null ],
-    [ "Reset", "d3/d17/a12597.html#a2a8660173dc32c38de917049eb33fff8", null ],
-    [ "UpdateAI", "d3/d17/a12597.html#a48d2c92a4d45d5e59252f9455b82cbbd", null ],
-    [ "WaypointReached", "d3/d17/a12597.html#a31f4363e269b51d3a002a132b5516dd0", null ],
-    [ "carGUID", "d3/d17/a12597.html#a963f9c0ca58ce160b43f36f5a9f7dee7", null ],
-    [ "IntroPhase", "d3/d17/a12597.html#a094c2ee20d13c88805c3de7f9f94b86e", null ],
-    [ "IntroTimer", "d3/d17/a12597.html#adae2103753dd62699359ff01ac3ba865", null ]
+    [ "npc_malchezaar_axe", "d3/d17/a12597.html#a1a5615f2def10add30e7917b770ebc74", null ],
+    [ "Initialize", "d3/d17/a12597.html#a078e7f0997c026b73a4e0ab8a1c209b8", null ],
+    [ "JustEngagedWith", "d3/d17/a12597.html#a4a9f90e66359b304622d4f79653f9fd0", null ],
+    [ "UpdateAI", "d3/d17/a12597.html#a202ba6922a426f87909eefbccd070175", null ]
 ];

@@ -1,8 +1,6 @@
 var a17245 =
 [
-    [ "npc_hor_raging_ghoulAI", "dd/d8e/a17245.html#ac4b2b3acf8a7acda73c7158f1565a274", null ],
-    [ "JustDied", "dd/d8e/a17245.html#a70e581c9b3f7d88d497c1540ac9ca04c", null ],
-    [ "Reset", "dd/d8e/a17245.html#aa52576d94e230797209dfc938d62187f", null ],
-    [ "UpdateAI", "dd/d8e/a17245.html#ac7c8571eac32f722a5fb0c28092b7e8f", null ],
-    [ "leaped", "dd/d8e/a17245.html#a12f6e6d5911b2b8b9caa01a9a83570bc", null ]
+    [ "OnAbsorb", "dd/d8e/a17245.html#aa6582457cd0502ca263433d04b40b64f", null ],
+    [ "PrepareAuraScript", "dd/d8e/a17245.html#a0b6916dd3f6172e59edf477f203c85b1", null ],
+    [ "Register", "dd/d8e/a17245.html#a945ec4037120992e8a2986e7fd2e2c96", null ]
 ];

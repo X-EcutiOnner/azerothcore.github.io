@@ -1,7 +1,8 @@
 var a24977 =
 [
-    [ "FilterTargets", "d5/dad/a24977.html#adb8581b4b92aa49eda8f531e6d6de1ea", null ],
-    [ "HandleDummy", "d5/dad/a24977.html#a2fe7441bd9753cb912d11f8d36632f44", null ],
-    [ "PrepareSpellScript", "d5/dad/a24977.html#ae7714acbe0a08781e3bc297847c47870", null ],
-    [ "Register", "d5/dad/a24977.html#ade51d4cb00b63c46582c7a5e6e031e9d", null ]
+    [ "HandleScript", "d5/dad/a24977.html#af7330c1b586b809c78e0bc080cb92c65", null ],
+    [ "Load", "d5/dad/a24977.html#a262fc7f4bc3f1fae07f69dde765d8228", null ],
+    [ "PrepareSpellScript", "d5/dad/a24977.html#af0fda52cff0361cf6c4a69957459ddf3", null ],
+    [ "Register", "d5/dad/a24977.html#a41225a9f5d9304df4a02a681e8b73ff6", null ],
+    [ "Validate", "d5/dad/a24977.html#a520341dc41dcce5fd9346e3f5ed6ee51", null ]
 ];

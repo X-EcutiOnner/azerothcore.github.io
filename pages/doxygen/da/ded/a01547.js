@@ -1,6 +1,6 @@
 var a01547 =
 [
-    [ "BanMgr", "d6/dc0/a09842.html", "d6/dc0/a09842" ],
+    [ "BanMgr", "d3/dfe/a09845.html", "d3/dfe/a09845" ],
     [ "sBan", "da/ded/a01547.html#a7d5e9b6aab3c8157bcf25fa0f070bb17", null ],
     [ "BanReturn", "da/ded/a01547.html#a4dd4670ead55e2780d09a66ab39943a7", [
       [ "BAN_SUCCESS", "da/ded/a01547.html#a4dd4670ead55e2780d09a66ab39943a7ab48bdf9afe21b115b7550bf103d1dc28", null ],

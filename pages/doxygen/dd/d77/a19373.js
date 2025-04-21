@@ -1,6 +1,8 @@
 var a19373 =
 [
-    [ "npc_blistering_zombieAI", "d7/db3/a19377.html", "d7/db3/a19377" ],
-    [ "npc_blistering_zombie", "dd/d77/a19373.html#aade4afec51e5ee77df8a39cff83e1f44", null ],
-    [ "GetAI", "dd/d77/a19373.html#a08ef7c13b1755ac665507cd8397a2f93", null ]
+    [ "HandleEffectPeriodic", "dd/d77/a19373.html#abb453e3d38677be7082f2cd4e43134cc", null ],
+    [ "HandleOnEffectApply", "dd/d77/a19373.html#a3ec47d5d9fdbdcfe671e02c3b0f55980", null ],
+    [ "PrepareAuraScript", "dd/d77/a19373.html#ac00c6d9b1cccb38b5d87b3139295614c", null ],
+    [ "Register", "dd/d77/a19373.html#ae4de4f0f2f4dc4ac98706ddd898df7c5", null ],
+    [ "Validate", "dd/d77/a19373.html#a09481646f8ec90b0135d93d83cc18929", null ]
 ];

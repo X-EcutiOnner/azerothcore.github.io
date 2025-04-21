@@ -1,8 +1,6 @@
 var a25265 =
 [
-    [ "npc_target_trigger", "d2/d8f/a25265.html#a238058ba80130c6239b7267db3247196", null ],
-    [ "Reset", "d2/d8f/a25265.html#ad23d465bfd78ede0a1556f2ce1742349", null ],
-    [ "UpdateAI", "d2/d8f/a25265.html#ab5f482e209d2d8aa5c27666d3e1934f3", null ],
-    [ "_cast", "d2/d8f/a25265.html#a4ec89ca960323f7ad135d5a425a82416", null ],
-    [ "_scheduler", "d2/d8f/a25265.html#a9b418b09e25c8f96692b4e2626339c96", null ]
+    [ "OnProc", "d2/d8f/a25265.html#ac7f0a86f2d0c5dcb945eb7ccb9cd5c88", null ],
+    [ "PrepareAuraScript", "d2/d8f/a25265.html#a6a7b011f151ff81672221b84eb4456b8", null ],
+    [ "Register", "d2/d8f/a25265.html#a15b05d352f94d2aabeb75a6bfd996fc6", null ]
 ];

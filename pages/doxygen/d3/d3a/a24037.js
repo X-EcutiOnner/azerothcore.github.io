@@ -1,6 +1,6 @@
 var a24037 =
 [
-    [ "npc_captured_rageclawAI", "dc/d77/a24041.html", "dc/d77/a24041" ],
-    [ "npc_captured_rageclaw", "d3/d3a/a24037.html#ad49176279e9d16a6a24c0649c576c0be", null ],
-    [ "GetAI", "d3/d3a/a24037.html#aa39b6c518fe22d91b8673cfd576866a4", null ]
+    [ "CheckCast", "d3/d3a/a24037.html#ae13cc2d3da1c9911c88402d05679d447", null ],
+    [ "PrepareSpellScript", "d3/d3a/a24037.html#afbed81273aa23d355c64579c71e9761d", null ],
+    [ "Register", "d3/d3a/a24037.html#a7157d04dfc534aa3cb88e8dff169c676", null ]
 ];

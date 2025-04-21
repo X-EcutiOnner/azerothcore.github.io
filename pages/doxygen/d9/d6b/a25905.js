@@ -1,6 +1,7 @@
 var a25905 =
 [
-    [ "spell_q10563_q10596_to_legion_hold_AuraScript", "dc/d1e/a25909.html", "dc/d1e/a25909" ],
-    [ "spell_q10563_q10596_to_legion_hold", "d9/d6b/a25905.html#a7f9e5880271f51bb12636ca15e53d810", null ],
-    [ "GetAuraScript", "d9/d6b/a25905.html#af8ddce319534951924b919b319a64f76", null ]
+    [ "OnRemove", "d9/d6b/a25905.html#a8c39ba2fbd8c9c96de622afd8d04281e", null ],
+    [ "PrepareAuraScript", "d9/d6b/a25905.html#a9e13b76ceb256dec1a6c9dccd5c6c537", null ],
+    [ "Register", "d9/d6b/a25905.html#a9fbaec43bae2f4d6f4b94b18da0144fe", null ],
+    [ "Validate", "d9/d6b/a25905.html#a8f111779a3a0e68fe5a313e6eae716b3", null ]
 ];

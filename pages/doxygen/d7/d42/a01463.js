@@ -1,14 +1,14 @@
 var a01463 =
 [
-    [ "Object", "db/d14/a08330.html", "db/d14/a08330" ],
-    [ "MovementInfo", "de/d8f/a08338.html", "de/d8f/a08338" ],
-    [ "MovementInfo::TransportInfo", "d2/df9/a08342.html", "d2/df9/a08342" ],
-    [ "MovementInfo::JumpInfo", "de/db4/a08346.html", "de/db4/a08346" ],
-    [ "GridObject< T >", "d5/d43/a08350.html", "d5/d43/a08350" ],
-    [ "FlaggedValuesArray32< T_VALUES, T_FLAGS, FLAG_TYPE, ARRAY_SIZE >", "d2/d37/a08354.html", "d2/d37/a08354" ],
-    [ "MovableMapObject", "dd/d4f/a08358.html", "dd/d4f/a08358" ],
-    [ "WorldObject", "d3/d25/a08362.html", "d3/d25/a08362" ],
-    [ "Acore::ObjectDistanceOrderPred", "db/de7/a08366.html", "db/de7/a08366" ],
+    [ "Object", "d3/d65/a08333.html", "d3/d65/a08333" ],
+    [ "MovementInfo", "d9/de9/a08341.html", "d9/de9/a08341" ],
+    [ "MovementInfo::TransportInfo", "de/d91/a08345.html", "de/d91/a08345" ],
+    [ "MovementInfo::JumpInfo", "de/df0/a08349.html", "de/df0/a08349" ],
+    [ "GridObject< T >", "de/dcd/a08353.html", "de/dcd/a08353" ],
+    [ "FlaggedValuesArray32< T_VALUES, T_FLAGS, FLAG_TYPE, ARRAY_SIZE >", "df/d98/a08357.html", "df/d98/a08357" ],
+    [ "MovableMapObject", "d0/d94/a08361.html", "d0/d94/a08361" ],
+    [ "WorldObject", "d9/de0/a08365.html", "d9/de0/a08365" ],
+    [ "Acore::ObjectDistanceOrderPred", "d7/d25/a08369.html", "d7/d25/a08369" ],
     [ "UpdateDataMapType", "d7/d42/a01463.html#ac58dd2c514e262c6b68700fb72c69231", null ],
     [ "UpdatePlayerSet", "d7/d42/a01463.html#abc4c822bd43dd0c1ea669b791c856405", null ],
     [ "GOSummonType", "d7/d42/a01463.html#a3f5846dbc17f13c4c2b88a15593bbfba", [

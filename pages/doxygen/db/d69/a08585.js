@@ -1,6 +1,10 @@
 var a08585 =
 [
-    [ "m_guid", "db/d69/a08585.html#afa8383c81a2d75f9ead2e8f3daa29086", null ],
-    [ "m_instance", "db/d69/a08585.html#a8bc0c5e1cf45073f054c5154c21b3d72", null ],
-    [ "m_state", "db/d69/a08585.html#a3ac18fb8f5d386e3245a2435e31e45e1", null ]
+    [ "Index", "db/d69/a08585.html#a28b25d822326a1b7d5ec7f95ce084bac", [
+      [ "REGULAR", "db/d69/a08585.html#a28b25d822326a1b7d5ec7f95ce084bacaff2524a88b92db0ec25cc1f17b28cf68", null ],
+      [ "ADDON", "db/d69/a08585.html#a28b25d822326a1b7d5ec7f95ce084baca0d74e752005cb5fe12644048433ea5cb", null ],
+      [ "MAX", "db/d69/a08585.html#a28b25d822326a1b7d5ec7f95ce084baca6ca77c7f76d3ccd18db1d4c0f4e070a5", null ]
+    ] ],
+    [ "Count", "db/d69/a08585.html#a0dc1d4dc63d5289fde92bbb2c28a7e2e", null ],
+    [ "Time", "db/d69/a08585.html#a20b83dcc96256f2ab16326b2b8ec925e", null ]
 ];

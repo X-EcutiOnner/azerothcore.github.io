@@ -1,6 +1,6 @@
 var a18777 =
 [
-    [ "spell_sindragosa_frost_beacon_AuraScript", "d1/dcf/a18781.html", "d1/dcf/a18781" ],
-    [ "spell_sindragosa_frost_beacon", "d0/d99/a18777.html#a97170a49f2ce10d062a3ee7b73e44410", null ],
-    [ "GetAuraScript", "d0/d99/a18777.html#a89430f3425caed9de509951cf29f54a0", null ]
+    [ "icecrown_citadel_teleport", "d0/d99/a18777.html#ab74d5962073dcf3b4488c33aaa935377", null ],
+    [ "OnGossipHello", "d0/d99/a18777.html#a97b0d94a5c7388a5dfce76f3bd3be24f", null ],
+    [ "OnGossipSelect", "d0/d99/a18777.html#a0b160bd86341542ddb1c80f3d4bd691f", null ]
 ];

@@ -1,8 +1,8 @@
 var a21753 =
 [
-    [ "HandleEffectPeriodic", "d7/dfc/a21753.html#ade51556206853c273950937e52447f41", null ],
-    [ "Load", "d7/dfc/a21753.html#a81f9c53e3052932fbdc93ef74e4b8df3", null ],
-    [ "PrepareAuraScript", "d7/dfc/a21753.html#abacc5a8478bb665fe406fdf8ff0a7543", null ],
-    [ "Register", "d7/dfc/a21753.html#a7ee06daf1f6f0716588025880a4a3931", null ],
-    [ "lastOrientation", "d7/dfc/a21753.html#a349426d5f23a7da8fbc645b72a234479", null ]
+    [ "npc_q24545_vegardAI", "d7/dfc/a21753.html#a6a86b56508a86bf32ab5fb2bd46248c9", null ],
+    [ "JustDied", "d7/dfc/a21753.html#a1f7784242bbaf39d0fb105d2930da37c", null ],
+    [ "KilledUnit", "d7/dfc/a21753.html#a2d78117a6c2a29f52f1905595425964a", null ],
+    [ "UpdateAI", "d7/dfc/a21753.html#a79cc34760b58ad4b29c6a0a496971f0a", null ],
+    [ "events", "d7/dfc/a21753.html#a68f48d92cc5559025e635d599c2882e3", null ]
 ];

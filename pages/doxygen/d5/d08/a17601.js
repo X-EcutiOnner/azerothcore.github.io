@@ -1,6 +1,7 @@
 var a17601 =
 [
-    [ "spell_sladran_grip_of_sladran_AuraScript", "d7/df3/a17605.html", "d7/df3/a17605" ],
-    [ "spell_sladran_grip_of_sladran", "d5/d08/a17601.html#afebeb00658802c5789bbf71064a82aac", null ],
-    [ "GetAuraScript", "d5/d08/a17601.html#aec734e122914c3ad42f8980957d1da71", null ]
+    [ "HandleScript", "d5/d08/a17601.html#ae3e8d811d3ad6561768dfff3a16ec9bd", null ],
+    [ "PrepareSpellScript", "d5/d08/a17601.html#ab69926839f72ee76eba2b225aba9690c", null ],
+    [ "Register", "d5/d08/a17601.html#aad8925e891d7537993f02f3bc2552fea", null ],
+    [ "SelectRandomTarget", "d5/d08/a17601.html#aae77f6693a3e5d01e3d05cb990fd1fe5", null ]
 ];

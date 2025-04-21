@@ -1,17 +1,12 @@
 var a10041 =
 [
-    [ "WorldScript", "d6/d80/a10041.html#a72532dbc70eecd66ea8916e165616fbd", null ],
-    [ "OnAfterConfigLoad", "d6/d80/a10041.html#affadabcae325631b2683ef458c6d13ee", null ],
-    [ "OnAfterUnloadAllMaps", "d6/d80/a10041.html#a15bc203d07dd2fef96c2a6d13d3ddd44", null ],
-    [ "OnBeforeConfigLoad", "d6/d80/a10041.html#a78baa1285b6495d7beace131dfba8400", null ],
-    [ "OnBeforeFinalizePlayerWorldSession", "d6/d80/a10041.html#a480e411f6178e5128bc5e760d9f36d99", null ],
-    [ "OnBeforeWorldInitialized", "d6/d80/a10041.html#a8ec0a2cc97986db07698392e5c503571", null ],
-    [ "OnLoadCustomDatabaseTable", "d6/d80/a10041.html#af9c5296102d7ef0f716796788650ec4d", null ],
-    [ "OnMotdChange", "d6/d80/a10041.html#ad0a3e20b5732613f5f11da3c97328a8c", null ],
-    [ "OnOpenStateChange", "d6/d80/a10041.html#a7eab4282e8be8ef2a643478f9fe6e0e2", null ],
-    [ "OnShutdown", "d6/d80/a10041.html#a3578707d9be5da90530633a93b4b2bf8", null ],
-    [ "OnShutdownCancel", "d6/d80/a10041.html#a322bd84359ac77369d9aa84bc8bf9649", null ],
-    [ "OnShutdownInitiate", "d6/d80/a10041.html#a83c76efd3de10b0a35c4a311c44d13c1", null ],
-    [ "OnStartup", "d6/d80/a10041.html#a117234aac087ec653c83cfe01a6dce7a", null ],
-    [ "OnUpdate", "d6/d80/a10041.html#ad28857965a9f6f993a47c95af6d9c5ad", null ]
+    [ "FacingInfo", "d6/d80/a10041.html#a1ac825c359704924c66e46eada64e34e", null ],
+    [ "FacingInfo", "d6/d80/a10041.html#a7820b3ce134dcca05b9b15299eb3b33f", null ],
+    [ "FacingInfo", "d6/d80/a10041.html#add6411db27c1d313d2f133adf0c35755", null ],
+    [ "angle", "d6/d80/a10041.html#ac56b304c2c5df7ab72c6fcbd2f845b02", null ],
+    [ "f", "d6/d80/a10041.html#a39ca5030b1ff932ae3606a07a9fe4377", null ],
+    [ "target", "d6/d80/a10041.html#a064b5265b4bb2a0053908bf6031b8f65", null ],
+    [ "x", "d6/d80/a10041.html#ac08687158cc0bcfbc9814b1cbbe95684", null ],
+    [ "y", "d6/d80/a10041.html#ad7fcfb6b1c5402a0570748d343eadfcc", null ],
+    [ "z", "d6/d80/a10041.html#a5ff017b732d47684f675041e44227754", null ]
 ];

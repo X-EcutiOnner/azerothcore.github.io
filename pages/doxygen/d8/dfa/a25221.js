@@ -1,12 +1,7 @@
 var a25221 =
 [
-    [ "boss_omor_the_unscarred", "d8/dfa/a25221.html#aeef6af0274425d9af5b5ada0d6aa7a2b", null ],
-    [ "JustDied", "d8/dfa/a25221.html#a9ddae483a0f8cefd8a19975b60002660", null ],
-    [ "JustEngagedWith", "d8/dfa/a25221.html#aa874d266d9a5ced45ea2ceb750370b1a", null ],
-    [ "JustSummoned", "d8/dfa/a25221.html#a3503f9d13a5191c71013d77b79a8a4a3", null ],
-    [ "KilledUnit", "d8/dfa/a25221.html#afc5c12a69d51638b67fcdf8098ff7da6", null ],
-    [ "Reset", "d8/dfa/a25221.html#a0ec22c50cd096677a20299ab45a3c344", null ],
-    [ "UpdateAI", "d8/dfa/a25221.html#aeb478325ea00f996b4c3c1584fe3965d", null ],
-    [ "_hasSpoken", "d8/dfa/a25221.html#a3fe7684742f783cb1e68fcc7cfc0de7a", null ],
-    [ "_targetGUID", "d8/dfa/a25221.html#a5ea9161b949e99f0a61498ed05d66d27", null ]
+    [ "HandleScript", "d8/dfa/a25221.html#a12f4c4a85f19ceb55d274428cf2b25a4", null ],
+    [ "PrepareSpellScript", "d8/dfa/a25221.html#acf1173670c35c84ae7aba29be00d31cf", null ],
+    [ "Register", "d8/dfa/a25221.html#a5a2c59463a0546b6f5cd375b3671b86b", null ],
+    [ "Validate", "d8/dfa/a25221.html#a437a018fd6917bee51bdbba7cf29e53d", null ]
 ];

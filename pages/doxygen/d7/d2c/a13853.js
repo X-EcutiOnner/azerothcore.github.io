@@ -1,6 +1,6 @@
 var a13853 =
 [
-    [ "instance_zulaman_InstanceMapScript", "d2/dfe/a13857.html", "d2/dfe/a13857" ],
-    [ "instance_zulaman", "d7/d2c/a13853.html#a5a81dddc07dea599e2a197737206427b", null ],
-    [ "GetInstanceScript", "d7/d2c/a13853.html#a2144a517b22c5d6e7f6cc31d344669fc", null ]
+    [ "OnEffect", "d7/d2c/a13853.html#a50c7e1c65315b5d46749b335e85e15e4", null ],
+    [ "PrepareSpellScript", "d7/d2c/a13853.html#ab99c723bb71c5fdd844898eaf21cc520", null ],
+    [ "Register", "d7/d2c/a13853.html#a892faa83f748d36c9c8638a12ac7f2aa", null ]
 ];

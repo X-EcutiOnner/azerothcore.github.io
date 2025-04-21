@@ -1,12 +1,19 @@
 var a05205 =
 [
-    [ "AppenderConsole", "d6/d88/a05205.html#aaf770a87f2151a7e6f92087751528c68", null ],
-    [ "_write", "d6/d88/a05205.html#a94e529229bd707fa2bad0a0206a386d5", null ],
-    [ "getType", "d6/d88/a05205.html#a4ae7f47c76b19eb269b26fdf13f14e48", null ],
-    [ "InitColors", "d6/d88/a05205.html#a1a4deceeafc9a111a519ea55dc646266", null ],
-    [ "ResetColor", "d6/d88/a05205.html#a4a3e55c9229947a25d4191bbfa348bf5", null ],
-    [ "SetColor", "d6/d88/a05205.html#a9303f9408e1cbfc086fba15bf9a4ce59", null ],
-    [ "_colored", "d6/d88/a05205.html#a172563f34a7277f7afb05354c8fbeb1f", null ],
-    [ "_colors", "d6/d88/a05205.html#acdf277241cd25715e48500a15ab6bd30", null ],
-    [ "type", "d6/d88/a05205.html#ab5cbc074f7d9306838974863913c8a5b", null ]
+    [ "Iterator", "d7/dd9/a05209.html", "d7/dd9/a05209" ],
+    [ "iterator", "d6/d88/a05205.html#a57ec2565e503df8ef86e1df2889c8ee3", null ],
+    [ "LinkedListHead", "d6/d88/a05205.html#ab9a10897505b9315f7abef37ca53ae3d", null ],
+    [ "decSize", "d6/d88/a05205.html#ada0bbfaadb9944b904fd023291d7454e", null ],
+    [ "getFirst", "d6/d88/a05205.html#a3bdb6df345043767ce9b319593102371", null ],
+    [ "getFirst", "d6/d88/a05205.html#a2b67ea8030683685e442b534f6ac14ae", null ],
+    [ "getLast", "d6/d88/a05205.html#a523c918451eb358014e821b11f000b9b", null ],
+    [ "getLast", "d6/d88/a05205.html#a4f858b06a17f5bc17db10aebd3493142", null ],
+    [ "getSize", "d6/d88/a05205.html#aa9c03e05aa61c1fc9fad84efd8f82db7", null ],
+    [ "incSize", "d6/d88/a05205.html#a46d97d5710de2958555d37687df58fcb", null ],
+    [ "insertFirst", "d6/d88/a05205.html#af28714c2195a3609871f42fa7a9dc74b", null ],
+    [ "insertLast", "d6/d88/a05205.html#a20c91c0ace1d4404b55802fbc7704bb5", null ],
+    [ "IsEmpty", "d6/d88/a05205.html#a5f450b83a615d010bedc7b0c6aa18d70", null ],
+    [ "iFirst", "d6/d88/a05205.html#aee68918c2ddc42306a60a6858a2994f1", null ],
+    [ "iLast", "d6/d88/a05205.html#a6b9e8b60fdabf4780567265f5e1ba9fa", null ],
+    [ "iSize", "d6/d88/a05205.html#a7ebab224bc9412426c18fa3a8a9ea345", null ]
 ];

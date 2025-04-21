@@ -1,11 +1,12 @@
 var a11593 =
 [
-    [ "boss_doomrelAI", "d0/d78/a11593.html#a231cc3989d1c575af941a5462ad94cbd", null ],
-    [ "EnterEvadeMode", "d0/d78/a11593.html#ae633f4cc1747f291a3911ca50ee39370", null ],
-    [ "JustEngagedWith", "d0/d78/a11593.html#a622f673548b0a6f1db2a59ef69f31ac7", null ],
-    [ "Reset", "d0/d78/a11593.html#aec30616ad3c84ee4b6dd92f6ac8b4fbc", null ],
-    [ "UpdateAI", "d0/d78/a11593.html#a3d851f7bd5a78858fd228cac78c05f27", null ],
-    [ "_events", "d0/d78/a11593.html#aaf800dd1d20dc8288cad5aa21cd602b0", null ],
-    [ "instance", "d0/d78/a11593.html#aa0fc44bb955e83c2ef7b7373751fc2c2", null ],
-    [ "Voidwalkers", "d0/d78/a11593.html#af29d871a370a534f508f225d49c3dc9f", null ]
+    [ "gm_commandscript", "d0/d78/a11593.html#a1b24112b70818778755ef9b5b062b2e8", null ],
+    [ "GetCommands", "d0/d78/a11593.html#a17c725e18324de7aadff260c77d75c45", null ],
+    [ "HandleGMChatCommand", "d0/d78/a11593.html#a15a18b1179a602da3eeba7e8247fbbac", null ],
+    [ "HandleGMFlyCommand", "d0/d78/a11593.html#a29829660f39c9bfa4190bbb118f482ba", null ],
+    [ "HandleGMListFullCommand", "d0/d78/a11593.html#add9bd1e64f98964e68cd1be3df6295e7", null ],
+    [ "HandleGMListIngameCommand", "d0/d78/a11593.html#ab6d59a1c29bd66b699ae597351b969d9", null ],
+    [ "HandleGMOffCommand", "d0/d78/a11593.html#a66de9b1d6abaad56419a43d65861b5b3", null ],
+    [ "HandleGMOnCommand", "d0/d78/a11593.html#afb0f18226aac1f581d09f3b7fe9d0ce7", null ],
+    [ "HandleGMVisibleCommand", "d0/d78/a11593.html#a7af08caf6d3fba1b6ee29ea90b20fef8", null ]
 ];

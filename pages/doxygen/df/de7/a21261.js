@@ -1,6 +1,6 @@
 var a21261 =
 [
-    [ "boss_freya_iron_rootAI", "d6/db6/a21265.html", "d6/db6/a21265" ],
-    [ "boss_freya_iron_root", "df/de7/a21261.html#a9478144d6cb72d08698cbfc50893935b", null ],
-    [ "GetAI", "df/de7/a21261.html#acdda736e9259d59a30a40d989e70f95c", null ]
+    [ "HandleEffectPeriodic", "df/de7/a21261.html#a508ff9e362d586497839aa29ceae1227", null ],
+    [ "PrepareAuraScript", "df/de7/a21261.html#a4e7d5317d28207136b1fd3477a51ae06", null ],
+    [ "Register", "df/de7/a21261.html#a4b08cefe7d334635b70d389cc9df4901", null ]
 ];

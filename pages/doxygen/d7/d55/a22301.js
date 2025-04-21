@@ -1,6 +1,6 @@
 var a22301 =
 [
-    [ "spell_yogg_saron_insane_periodic_trigger_SpellScript", "de/d54/a22305.html", "de/d54/a22305" ],
-    [ "spell_yogg_saron_insane_periodic_trigger", "d7/d55/a22301.html#aba43c27ed8507069e3b8504d1c24fd83", null ],
-    [ "GetSpellScript", "d7/d55/a22301.html#a76032d7dbaf107e43d978c8bddbf0414", null ]
+    [ "HandlePeriodicDummy", "d7/d55/a22301.html#a0096e0521c37a4f7f9ab1f2173a807d4", null ],
+    [ "PrepareAuraScript", "d7/d55/a22301.html#ad55ab81c39e8bf53d1e2066bbeefa712", null ],
+    [ "Register", "d7/d55/a22301.html#afeccfe29a0e0f192a4242217f9d4b7e5", null ]
 ];

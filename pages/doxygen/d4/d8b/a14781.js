@@ -1,13 +1,10 @@
 var a14781 =
 [
-    [ "boss_salrammAI", "d4/d8b/a14781.html#ae1055878b3919e29d44ee26efcbe044f", null ],
-    [ "ExplodeGhoul", "d4/d8b/a14781.html#adc64d8b10b28b98254c528732fff0516", null ],
-    [ "JustDied", "d4/d8b/a14781.html#a59bc42afcbb0ed2c2629bd0280836194", null ],
-    [ "JustEngagedWith", "d4/d8b/a14781.html#a8d3287cc74cc9d756a879c4ac796f860", null ],
-    [ "JustSummoned", "d4/d8b/a14781.html#afd70403a8644f310f37335c6c9bf5b55", null ],
-    [ "KilledUnit", "d4/d8b/a14781.html#ad3f4161c0e18c911a931d65e25693cdd", null ],
-    [ "Reset", "d4/d8b/a14781.html#a9ddecc950cac3fc392078df2810ec2a2", null ],
-    [ "UpdateAI", "d4/d8b/a14781.html#aa2350dc05884593b1361f9f09b8d9392", null ],
-    [ "events", "d4/d8b/a14781.html#a55c0bba93a90b5a3770c81b9c4d2fe5b", null ],
-    [ "summons", "d4/d8b/a14781.html#a813c09e121730d4ae2e623ac3c37d570", null ]
+    [ "CurrId", "d4/d8b/a14781.html#a126d1c0e7d475a07acd91de471cb7cab", null ],
+    [ "DestId", "d4/d8b/a14781.html#a7b12c520ee50ab29e5047a1c71b22729", null ],
+    [ "o", "d4/d8b/a14781.html#a94c284d63e66765c4d484c8edea8fdb8", null ],
+    [ "spellId", "d4/d8b/a14781.html#a7240ecd6f50a6db0e2be4eb4e55b3a48", null ],
+    [ "x", "d4/d8b/a14781.html#a41c7bdb057d984f552a41835651d84f5", null ],
+    [ "y", "d4/d8b/a14781.html#abe083129d7a4e514e97eeae7cff40af5", null ],
+    [ "z", "d4/d8b/a14781.html#ac49d886d09e2ebf8ccf8abd59a9649ec", null ]
 ];

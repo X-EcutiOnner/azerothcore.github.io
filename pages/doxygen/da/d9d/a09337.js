@@ -1,5 +1,9 @@
 var a09337 =
 [
-    [ "item_guid", "da/d9d/a09337.html#a4033ef7b03b28881e28434ae796fb6ed", null ],
-    [ "item_template", "da/d9d/a09337.html#ac7e05ac4dcc5d4f94b3291d819c7c86b", null ]
+    [ "NearestAttackableUnitInObjectRangeCheck", "da/d9d/a09337.html#ae2f43e2036047622ec88de3db08ea668", null ],
+    [ "NearestAttackableUnitInObjectRangeCheck", "da/d9d/a09337.html#a8deef14a2c11f9ccd9613614124a7d8e", null ],
+    [ "operator()", "da/d9d/a09337.html#a2f966e38682e6a02a120ad90ba19f7a4", null ],
+    [ "i_funit", "da/d9d/a09337.html#a88be7342d10008fc394f21b9a5e14162", null ],
+    [ "i_obj", "da/d9d/a09337.html#a6c1c4e5b85f6f7958578afb6c6f2af98", null ],
+    [ "i_range", "da/d9d/a09337.html#a26242657d6f2eb61d6f8fcac30357381", null ]
 ];

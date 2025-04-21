@@ -1,6 +1,6 @@
 var a19989 =
 [
-    [ "boss_gothikAI", "df/d15/a19993.html", "df/d15/a19993" ],
-    [ "boss_gothik", "d6/d69/a19989.html#a0c3ee990a1caf020e9a4be000f0b77e0", null ],
-    [ "GetAI", "d6/d69/a19989.html#aea7aec86c4132521fb7b9b6e87baf289", null ]
+    [ "boss_freya_summonsAI", "df/d15/a19993.html", "df/d15/a19993" ],
+    [ "boss_freya_summons", "d6/d69/a19989.html#a3445ed89967cc9a610472f18e862ecd4", null ],
+    [ "GetAI", "d6/d69/a19989.html#ac68f231c37c61d262d6c16bc87a0f1c7", null ]
 ];

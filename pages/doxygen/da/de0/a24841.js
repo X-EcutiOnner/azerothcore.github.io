@@ -1,8 +1,6 @@
 var a24841 =
 [
-    [ "CalculateAmount", "da/de0/a24841.html#a9e60693b75da7f63a8e985525adfe157", null ],
-    [ "OnPeriodic", "da/de0/a24841.html#a0c6d3dfabaf498f3abe8972ff6d7d4a7", null ],
-    [ "PrepareAuraScript", "da/de0/a24841.html#a410f2ff0bb6deabbb4d590d7d9d81bc8", null ],
-    [ "Register", "da/de0/a24841.html#abefc89d971a029ac9618b496264fa144", null ],
-    [ "Validate", "da/de0/a24841.html#a638d5d5f26a9d316a2e0980474835214", null ]
+    [ "OnPeriodic", "da/de0/a24841.html#a3bcef6bd4501489320ef1242a66c50e8", null ],
+    [ "PrepareAuraScript", "da/de0/a24841.html#ab18f839ab70cc61e52c5e9ddb4847140", null ],
+    [ "Register", "da/de0/a24841.html#afbc707f30b7db0329f24b9ab8e8134e0", null ]
 ];

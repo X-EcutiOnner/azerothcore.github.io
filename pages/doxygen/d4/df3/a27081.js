@@ -1,7 +1,8 @@
 var a27081 =
 [
-    [ "ModDest", "d4/df3/a27081.html#afe0fb68de61a657ce6900e71973e4d77", null ],
-    [ "ModifyCookingSkill", "d4/df3/a27081.html#a42dea7b58aed704a6aacd5d0aa0028d4", null ],
-    [ "PrepareSpellScript", "d4/df3/a27081.html#a7b0446133750fce7eda19dbde5abb3b1", null ],
-    [ "Register", "d4/df3/a27081.html#a6919079b43a816eb601a68c51ad39794", null ]
+    [ "FilterTargets", "d4/df3/a27081.html#a53c6d73f3588e50c2be7ce68595a704c", null ],
+    [ "HandleEffect", "d4/df3/a27081.html#a2edac19abf8aa765ada369e00cd7ea69", null ],
+    [ "PrepareSpellScript", "d4/df3/a27081.html#ae1e1ff5456cb7c558ff4fe415de6a691", null ],
+    [ "Register", "d4/df3/a27081.html#acb4d6abeb0e293728ae3dd0d248e0844", null ],
+    [ "Validate", "d4/df3/a27081.html#aabc063155fad404ffd044c9f79b88051", null ]
 ];

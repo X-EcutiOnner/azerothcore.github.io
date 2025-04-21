@@ -1,24 +1,10 @@
 var a09293 =
 [
-    [ "LootItem", "dd/d2c/a09293.html#a35e11d01d30ca234c533f6bb0bdb6748", null ],
-    [ "LootItem", "dd/d2c/a09293.html#a6c7ebacba676e5e109eab812546c91c2", null ],
-    [ "AddAllowedLooter", "dd/d2c/a09293.html#a1912ff0623715b0e5266379fcf8d7170", null ],
-    [ "AllowedForPlayer", "dd/d2c/a09293.html#a594fbfb2bdf1506dc9aa4433f1c83202", null ],
-    [ "GetAllowedLooters", "dd/d2c/a09293.html#ab84a909c705155c4e9aa1b59fd38ae52", null ],
-    [ "allowedGUIDs", "dd/d2c/a09293.html#a04c38e7bde56fff42ed3fdd59fa2ec3c", null ],
-    [ "conditions", "dd/d2c/a09293.html#ac89b265105cce50b87fae1e75cf23b4f", null ],
-    [ "count", "dd/d2c/a09293.html#a8b08275cd4e1ebabc389fc2e933b1be5", null ],
-    [ "follow_loot_rules", "dd/d2c/a09293.html#a3dfa14b4a36b8750892b9cf6f3814ec9", null ],
-    [ "freeforall", "dd/d2c/a09293.html#ae9f49e27fd81c235fdc2c754918f55c4", null ],
-    [ "groupid", "dd/d2c/a09293.html#a25903e281fe742404fd8ddef6c3c53bd", null ],
-    [ "is_blocked", "dd/d2c/a09293.html#a0e1dbe84cef1c5f3111b08f25dbb859d", null ],
-    [ "is_counted", "dd/d2c/a09293.html#af50758cf8e8ad77e42197b13d849ae08", null ],
-    [ "is_looted", "dd/d2c/a09293.html#a9021fa353f7538706349702498a4e778", null ],
-    [ "is_underthreshold", "dd/d2c/a09293.html#a4d18c53f68ff454b7521e8afcab85b24", null ],
-    [ "itemid", "dd/d2c/a09293.html#a03aad2576badecebacfb0f4658fdbf4c", null ],
-    [ "itemIndex", "dd/d2c/a09293.html#a688e1b5f1a3ae5b4215b330bc2969777", null ],
-    [ "needs_quest", "dd/d2c/a09293.html#a37ee3823a2144ed57f754d826fcbc093", null ],
-    [ "randomPropertyId", "dd/d2c/a09293.html#a665a75643f49ee93f469b7b7bc52a928", null ],
-    [ "randomSuffix", "dd/d2c/a09293.html#aec6043508b50b16f04e9b4fbf8742677", null ],
-    [ "rollWinnerGUID", "dd/d2c/a09293.html#a2d10d36b949b8adc0c463912b3f04768", null ]
+    [ "MostHPPercentMissingInRange", "dd/d2c/a09293.html#aaef0deb21e2470b45cafc22a8c4d18a5", null ],
+    [ "operator()", "dd/d2c/a09293.html#ab1734490a3db95ad715756e85ecfaf77", null ],
+    [ "i_hpPct", "dd/d2c/a09293.html#a41a3b1c4d1f27a2d727e7a18e2e30a7d", null ],
+    [ "i_maxHpPct", "dd/d2c/a09293.html#afd12795ef0cd99e05e4e21f869582416", null ],
+    [ "i_minHpPct", "dd/d2c/a09293.html#a11c197d3eea1a8ded0b20f707e6ed5d0", null ],
+    [ "i_obj", "dd/d2c/a09293.html#a724cf058a6bcf02864a49bb288e32ce6", null ],
+    [ "i_range", "dd/d2c/a09293.html#a021acff6bdb6aef9ab24c19d8798884f", null ]
 ];

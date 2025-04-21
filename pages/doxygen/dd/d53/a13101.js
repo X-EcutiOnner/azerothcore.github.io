@@ -1,7 +1,14 @@
 var a13101 =
 [
-    [ "OnPeriodic", "dd/d53/a13101.html#a9261d2331ef250ba394db80f58500c70", null ],
-    [ "OnRemove", "dd/d53/a13101.html#a2363ffec26af0879f9cefcea4c4ba226", null ],
-    [ "PrepareAuraScript", "dd/d53/a13101.html#a4563b88ec817cbcb1f7a3519dfdb17f4", null ],
-    [ "Register", "dd/d53/a13101.html#a29c27342dea8fedd91741a74f2482782", null ]
+    [ "boss_jarien", "dd/d53/a13101.html#a19e07a3da93e487b5984a8de0c7f26c9", null ],
+    [ "DoAction", "dd/d53/a13101.html#a8b9f1f2e7e45adf8df436b5c71555272", null ],
+    [ "IsSummonedBy", "dd/d53/a13101.html#a2e54c5ae404be944eeff3a57c96aa8ca", null ],
+    [ "JustDied", "dd/d53/a13101.html#a418380b56f3432b5aec84737012f4693", null ],
+    [ "JustEngagedWith", "dd/d53/a13101.html#ab6590cf6626a12e804520b2cde84a93e", null ],
+    [ "Reset", "dd/d53/a13101.html#ac85ca96b42aa5115500bd24454f84209", null ],
+    [ "UpdateAI", "dd/d53/a13101.html#acf7157ec7af7356beddc8a2429177b95", null ],
+    [ "_phase", "dd/d53/a13101.html#aa88435f313dc2b7880bca8f4cdb7a537", null ],
+    [ "_scheduler", "dd/d53/a13101.html#abce9540798dbae1026d1c74bfeb111a6", null ],
+    [ "_sothosDied", "dd/d53/a13101.html#a06b02c7f7dff885a86609e0116f2fd96", null ],
+    [ "_talked", "dd/d53/a13101.html#ae0c943c970990b055ebc8c31d81a7198", null ]
 ];

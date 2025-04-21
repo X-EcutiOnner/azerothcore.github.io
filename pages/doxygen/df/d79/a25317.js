@@ -1,6 +1,7 @@
 var a25317 =
 [
-    [ "boss_porung", "df/d79/a25317.html#acef31010461bbf716ac9b13d950807ee", null ],
-    [ "JustDied", "df/d79/a25317.html#ac5c36f875692f49d1d0195694d85e5c1", null ],
-    [ "JustEngagedWith", "df/d79/a25317.html#a9d44f51e4710e01bdc7d345ff3bba9dc", null ]
+    [ "HandleDummy", "df/d79/a25317.html#a84430c269e419acd94a2d0520b9ca639", null ],
+    [ "PrepareSpellScript", "df/d79/a25317.html#a8ec4e9cea213739825126111d038d1a5", null ],
+    [ "Register", "df/d79/a25317.html#a1abee3e5f324875aab8dd666ac417308", null ],
+    [ "Validate", "df/d79/a25317.html#a393043b94f50d9379a987f9b49b8abde", null ]
 ];

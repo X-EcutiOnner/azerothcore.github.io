@@ -1,6 +1,8 @@
 var a20973 =
 [
-    [ "npc_auriaya_feral_defenderAI", "d1/df2/a20977.html", "d1/df2/a20977" ],
-    [ "npc_auriaya_feral_defender", "d5/d30/a20973.html#ae1afc396a1d9e6c9c2042ee0f58fb270", null ],
-    [ "GetAI", "d5/d30/a20973.html#abec35e280e42154af82f3e7e4fcec48d", null ]
+    [ "boss_keleseth", "d5/d30/a20973.html#ad2f0f020b0c92852dedadea5730e4e80", null ],
+    [ "AttackStart", "d5/d30/a20973.html#a731ebf8e9ff4f64582a8f9373ce08a39", null ],
+    [ "JustDied", "d5/d30/a20973.html#ad23ede5c869ab12dc1c2f6a783e9b539", null ],
+    [ "JustEngagedWith", "d5/d30/a20973.html#a8d5cba1dd481bdfaf93f6e2427880b2e", null ],
+    [ "KilledUnit", "d5/d30/a20973.html#a64d14f1b8f169128bbbc507730f4f1eb", null ]
 ];

@@ -1,6 +1,10 @@
 var a16433 =
 [
-    [ "FilterTargets", "d6/d0c/a16433.html#af91f5b55ad2d99c093a37577e3ea0f1d", null ],
-    [ "PrepareSpellScript", "d6/d0c/a16433.html#a7b2ff141fa56d1732717f4a60315afbe", null ],
-    [ "Register", "d6/d0c/a16433.html#a8886d293ebdc1cd7e135cd6031f2e2f1", null ]
+    [ "npc_mistress_of_painAI", "d6/d0c/a16433.html#ae5fd3c974a3f32540b2dee6b92cd4f7c", null ],
+    [ "EnterEvadeMode", "d6/d0c/a16433.html#a31ea8955ad44ea2db0a5a208fd2efc61", null ],
+    [ "JustDied", "d6/d0c/a16433.html#ae60f294f902a2f687446f7599d071e42", null ],
+    [ "Reset", "d6/d0c/a16433.html#ab3c1c19817576cc4348fd2020a6aad14", null ],
+    [ "SpellHit", "d6/d0c/a16433.html#a077843a7ead2034da695be816de42f9e", null ],
+    [ "UpdateAI", "d6/d0c/a16433.html#a1976a80f37a0935926508f9ad6cc7bbb", null ],
+    [ "events", "d6/d0c/a16433.html#a941ae1faab010551db6a8e6749993357", null ]
 ];

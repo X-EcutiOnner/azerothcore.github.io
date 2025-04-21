@@ -1,11 +1,10 @@
 var a24033 =
 [
-    [ "npc_drakuru_shacklesAI", "d1/d9b/a24033.html#aeb55bf23d97e963b0fb9a18596bb58b1", null ],
-    [ "LockRageclaw", "d1/d9b/a24033.html#aa58fff9ee8e6cbe4d2dd0d391215f1f4", null ],
-    [ "Reset", "d1/d9b/a24033.html#a566fba51edcddab8c5b0bf5688571f80", null ],
-    [ "SpellHit", "d1/d9b/a24033.html#a04a9f0cc28cd8cab89120e66972b74cf", null ],
-    [ "UnlockRageclaw", "d1/d9b/a24033.html#a65a4b408ac09ffa3155b955dc054d971", null ],
-    [ "UpdateAI", "d1/d9b/a24033.html#a8a04ac89e5ec9ce841445913765a1a73", null ],
-    [ "_rageclawGUID", "d1/d9b/a24033.html#a1c991305f4ef30146930747881e57de4", null ],
-    [ "timer", "d1/d9b/a24033.html#a2a6484216abd731ad016284a79575e1c", null ]
+    [ "npc_maxx_a_million_escortAI", "d1/d9b/a24033.html#ab827933527ed7b4a04b162034876ced8", null ],
+    [ "JustDied", "d1/d9b/a24033.html#a2106ab4d32d0f221f62eeffd93f71380", null ],
+    [ "Reset", "d1/d9b/a24033.html#a6b9b2ed76e26f908ff2272ad8744a59e", null ],
+    [ "UpdateAI", "d1/d9b/a24033.html#a3b022feb2303875d32ad981e84f66854", null ],
+    [ "WaypointReached", "d1/d9b/a24033.html#acd6f45abb93f3f043cd85647405a50f6", null ],
+    [ "bTake", "d1/d9b/a24033.html#ac697fc6cbc20c7f316845ed26436049b", null ],
+    [ "uiTakeTimer", "d1/d9b/a24033.html#a5d4826dcf893f444a42dedba57460110", null ]
 ];

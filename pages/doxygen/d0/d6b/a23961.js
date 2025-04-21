@@ -1,6 +1,6 @@
 var a23961 =
 [
-    [ "HandleScript", "d0/d6b/a23961.html#a0f30b19580213f373d98e554ad5531fb", null ],
-    [ "PrepareSpellScript", "d0/d6b/a23961.html#aae448100dc84e3b526e721673cf8d3e3", null ],
-    [ "Register", "d0/d6b/a23961.html#a579688d36a44557fe43e9f3f1d2bb2af", null ]
+    [ "go_beaconAI", "d6/d44/a23965.html", "d6/d44/a23965" ],
+    [ "go_beacon", "d0/d6b/a23961.html#ad4224cabdc7210d9a0a46fb1eed1a23b", null ],
+    [ "GetAI", "d0/d6b/a23961.html#abd168f0c1ac9a64cece280758f3120d4", null ]
 ];

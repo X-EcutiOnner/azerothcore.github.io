@@ -1,9 +1,7 @@
 var a23053 =
 [
-    [ "npc_warmage_coldarraAI", "d1/d11/a23053.html#a9a8c2afff61ad8457aab8a9c23a4b755", null ],
-    [ "AttackStart", "d1/d11/a23053.html#a41277824ae3f6bd9a099894b6dfc7537", null ],
-    [ "JustEngagedWith", "d1/d11/a23053.html#a23a8999e34142201c6ceadc64a3df6c2", null ],
-    [ "Reset", "d1/d11/a23053.html#adf5094ba2bee34ec793124e798d5af8f", null ],
-    [ "UpdateAI", "d1/d11/a23053.html#a14b221265cc38b4061c52b687274a398", null ],
-    [ "m_uiTimer", "d1/d11/a23053.html#a338ad26d40d395dfc6ed7e8fedcc6d60", null ]
+    [ "HandleEffectApply", "d1/d11/a23053.html#acc7aeb8a002db3a846cbac29053af441", null ],
+    [ "HandleEffectRemove", "d1/d11/a23053.html#a11de5d496bc1265ceb01c2bb91da4a57", null ],
+    [ "PrepareAuraScript", "d1/d11/a23053.html#a7203f8808f6afc5bdaf49a26ae8b0c20", null ],
+    [ "Register", "d1/d11/a23053.html#a7b62d651a57e2dc9d8e461f7a5c9d500", null ]
 ];

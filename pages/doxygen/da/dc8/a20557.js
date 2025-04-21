@@ -1,6 +1,9 @@
 var a20557 =
 [
-    [ "spell_oculus_rider_auraAuraScript", "d3/df1/a20561.html", "d3/df1/a20561" ],
-    [ "spell_oculus_rider_aura", "da/dc8/a20557.html#a1b5d9cf803d837c1422229f2b6c4d114", null ],
-    [ "GetAuraScript", "da/dc8/a20557.html#a0bbacb6e44fb8950a21b89561c7ea01b", null ]
+    [ "boss_thorim_gauntlet_npcsAI", "da/dc8/a20557.html#aaa7e94f653a1db001cd0c962fb855098", null ],
+    [ "JustEngagedWith", "da/dc8/a20557.html#afaf0a05b1fd2fc2187b52328340b65bb", null ],
+    [ "Reset", "da/dc8/a20557.html#a9e4c25742785809d788f2e910f7840bc", null ],
+    [ "UpdateAI", "da/dc8/a20557.html#a4dd5a9cbbb10d514a0473dfd7cdd3c29", null ],
+    [ "_isCaster", "da/dc8/a20557.html#a104f447cc52c285d59653a8ebff20fef", null ],
+    [ "events", "da/dc8/a20557.html#a650508e05b6fa1af538a0b34e04c8bf5", null ]
 ];

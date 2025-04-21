@@ -1,8 +1,6 @@
 var a25257 =
 [
-    [ "instance_hellfire_ramparts_InstanceMapScript", "d8/dbc/a25257.html#aebc047b45cb4560a38df89db75f8efab", null ],
-    [ "Initialize", "d8/dbc/a25257.html#a115a36ec26e15e23be4d78250d86d814", null ],
-    [ "OnGameObjectCreate", "d8/dbc/a25257.html#a0639fcd867616d1f04aacde44020bb30", null ],
-    [ "SetBossState", "d8/dbc/a25257.html#a7a38526ca7b9a7c7c04231f8f8efd2f7", null ],
-    [ "felIronChestGUID", "d8/dbc/a25257.html#a7cfcac5dbe4562268679ddceaf8ec8ea", null ]
+    [ "HandleScript", "d8/dbc/a25257.html#a3f63c080d2a74def0920cceaea18e1e2", null ],
+    [ "PrepareSpellScript", "d8/dbc/a25257.html#a438c4c1763688210384b24305aeebe52", null ],
+    [ "Register", "d8/dbc/a25257.html#a27b25fbbdd912505738728414b79380c", null ]
 ];

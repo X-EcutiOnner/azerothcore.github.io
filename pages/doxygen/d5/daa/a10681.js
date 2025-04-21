@@ -1,8 +1,6 @@
 var a10681 =
 [
-    [ "SkillExtraItemEntry", "d5/daa/a10681.html#a3f7a8bc0b81407e7d5567c7da3e65ec5", null ],
-    [ "SkillExtraItemEntry", "d5/daa/a10681.html#a39a44cb09912cb0a15a5dd3b18787d16", null ],
-    [ "additionalCreateChance", "d5/daa/a10681.html#a299d886468e9caf22f9d6ce80a64c247", null ],
-    [ "newMaxOrEntry", "d5/daa/a10681.html#adfda967d36154b039495f0b289a5c9d1", null ],
-    [ "requiredSpecialization", "d5/daa/a10681.html#a0ba0ba6f012a10b717ca4e6c2f46cf26", null ]
+    [ "GuildBankLogQuery", "d5/daa/a10681.html#ab094e91a48d0259b4247157b92997bb2", null ],
+    [ "Read", "d5/daa/a10681.html#a5eed269e9285a33ffc61fcfa7d639083", null ],
+    [ "Tab", "d5/daa/a10681.html#ae966e3ac144b86e20f65b742ff3be9e3", null ]
 ];

@@ -1,19 +1,10 @@
 var a07521 =
 [
-    [ "HostileRefMgr", "d7/dc5/a07521.html#a892bb42b0068242eb73723924a47d299", null ],
-    [ "~HostileRefMgr", "d7/dc5/a07521.html#aa241f443839e2eba8dded66bd67438a5", null ],
-    [ "addTempThreat", "d7/dc5/a07521.html#a2c74a35806e10917a5d619dcf785f5a5", null ],
-    [ "addThreatPercent", "d7/dc5/a07521.html#af19a7681493ed53a3a8bafbed2c80f76", null ],
-    [ "deleteReference", "d7/dc5/a07521.html#aa610d9538496658d47323b96cf6d8111", null ],
-    [ "deleteReferences", "d7/dc5/a07521.html#a0327a7238535a3d0961da1cca2102b0e", null ],
-    [ "deleteReferencesForFaction", "d7/dc5/a07521.html#ab3c2d4ed0629b7e68c265f96280ebb5d", null ],
-    [ "deleteReferencesOutOfRange", "d7/dc5/a07521.html#adda97e72581a9cf804abb5483ca82e8a", null ],
-    [ "getFirst", "d7/dc5/a07521.html#a9ca4a2de820859825701e3b9c2b93492", null ],
-    [ "GetOwner", "d7/dc5/a07521.html#aced75674dcdcdd8f5bb07a442fb6340a", null ],
-    [ "setOnlineOfflineState", "d7/dc5/a07521.html#a49753f69707cf223046784397c58d8c4", null ],
-    [ "setOnlineOfflineState", "d7/dc5/a07521.html#ac89f12ca41476ffaaa60b11cc8093642", null ],
-    [ "threatAssist", "d7/dc5/a07521.html#a69c355d1c078cfba9927c8c752912b48", null ],
-    [ "updateThreatTables", "d7/dc5/a07521.html#a7b34a7b9af4cae7e177f130a61e27a5b", null ],
-    [ "UpdateVisibility", "d7/dc5/a07521.html#a04a74a1a4cf017f6ead3334804d2d862", null ],
-    [ "iOwner", "d7/dc5/a07521.html#a5e0cb3a2053af2a738ba3efc0f6e5d21", null ]
+    [ "InvokerEntry", "d7/dc5/a07521.html#aa195cc806a02e56a8125bfc039b83c37", null ],
+    [ "InvokerEntry", "d7/dc5/a07521.html#ab0ae915bcd0b6cb738f66398ba06bd63", null ],
+    [ "InvokerEntry", "d7/dc5/a07521.html#ae0b19dcb745635a783d52bae6f237b47", null ],
+    [ "operator*", "d7/dc5/a07521.html#ae42d24aad13fe622f6d5ec35d72c1c96", null ],
+    [ "_help", "d7/dc5/a07521.html#a107ccda1e3b21600fd133a243a8d2c9c", null ],
+    [ "_invoker", "d7/dc5/a07521.html#a1f9da7b4e2a968b1cf51b227c79f0d1d", null ],
+    [ "_permissions", "d7/dc5/a07521.html#a9567278ccb4896bcb2e8293df0ab909f", null ]
 ];

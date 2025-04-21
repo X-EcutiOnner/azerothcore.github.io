@@ -1,8 +1,7 @@
 var a12177 =
 [
-    [ "npc_lava_spawn", "d5/d34/a12177.html#aff97441b2cfbcd68e0788be022ee6236", null ],
-    [ "JustEngagedWith", "d5/d34/a12177.html#a3b93df8de3c0f8a50768b860cfa11b72", null ],
-    [ "Reset", "d5/d34/a12177.html#ab774d354991c90b1421e6783c0513e59", null ],
-    [ "UpdateAI", "d5/d34/a12177.html#a6a17c8c40b0110b688ff5faef5585185", null ],
-    [ "_scheduler", "d5/d34/a12177.html#ab7a6b2beec095f3f903ad4443813cfce", null ]
+    [ "HandleScript", "d5/d34/a12177.html#ac6ef94a03f602b44a5c7c22b7e41d116", null ],
+    [ "PrepareSpellScript", "d5/d34/a12177.html#ad92a56c23b9f15e36766fe64d1d0dd17", null ],
+    [ "Register", "d5/d34/a12177.html#aa8ad85cbf0403d79e55bbe0ae184407b", null ],
+    [ "Validate", "d5/d34/a12177.html#a3ad038e7bf43dceedb0fceebd4070bfa", null ]
 ];

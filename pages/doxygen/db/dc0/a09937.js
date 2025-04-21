@@ -1,7 +1,12 @@
 var a09937 =
 [
-    [ "GameEventScript", "db/dc0/a09937.html#a002972b8742b5c01f31a9aed096cf4a1", null ],
-    [ "OnEventCheck", "db/dc0/a09937.html#aadab9593da561e9b19202d09b53cba36", null ],
-    [ "OnStart", "db/dc0/a09937.html#a0e61a9e1379aef55af93a593af84a3cc", null ],
-    [ "OnStop", "db/dc0/a09937.html#a4813f26f03e5ba79a740bf30558e604c", null ]
+    [ "RotateMovementGenerator", "db/dc0/a09937.html#a89a6559b4380210972e82c6ca6d5a9db", null ],
+    [ "Finalize", "db/dc0/a09937.html#afd7588c7877b116cc9626a774b89d584", null ],
+    [ "GetMovementGeneratorType", "db/dc0/a09937.html#a20677803edf5d93ceae3bf76ef426a81", null ],
+    [ "Initialize", "db/dc0/a09937.html#a18fea8760bb24912af9349a06ff7b596", null ],
+    [ "Reset", "db/dc0/a09937.html#a3e177762fcfc11ac47aa820b46b93ed0", null ],
+    [ "Update", "db/dc0/a09937.html#a0dc8600e3aa862a81735dfb927232e53", null ],
+    [ "m_direction", "db/dc0/a09937.html#a8717e890670d9f4e2ff66c0981d14aa6", null ],
+    [ "m_duration", "db/dc0/a09937.html#a2cb8d5fc3d26c24e62c7373f1ce49b13", null ],
+    [ "m_maxDuration", "db/dc0/a09937.html#a7cf10886bdd50ccbc5900b9229958e01", null ]
 ];

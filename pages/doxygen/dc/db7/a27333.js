@@ -1,6 +1,6 @@
 var a27333 =
 [
-    [ "HandleDummy", "dc/db7/a27333.html#ade4c16273ebefaeefac3bfb51c61d19a", null ],
-    [ "PrepareSpellScript", "dc/db7/a27333.html#adfa89e065aa18b3e11998331c426151a", null ],
-    [ "Register", "dc/db7/a27333.html#ab37569c6b2362220cbce92eb184cc6db", null ]
+    [ "trigger_periodicAI", "d7/df5/a27337.html", "d7/df5/a27337" ],
+    [ "trigger_periodic", "dc/db7/a27333.html#a3c947c5a3092eecb7288a8a50c76bd14", null ],
+    [ "GetAI", "dc/db7/a27333.html#a179f3aa69fcd0b145f4ede9f830c1f38", null ]
 ];

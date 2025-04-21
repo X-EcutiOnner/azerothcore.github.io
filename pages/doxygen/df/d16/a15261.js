@@ -1,6 +1,7 @@
 var a15261 =
 [
-    [ "instance_temple_of_ahnqiraj_InstanceMapScript", "d0/dff/a15265.html", "d0/dff/a15265" ],
-    [ "instance_temple_of_ahnqiraj", "df/d16/a15261.html#a316c5e2cac59f2ee2520fba1b97407e3", null ],
-    [ "GetInstanceScript", "df/d16/a15261.html#a9e3060d9f2188f410da8aa3e9526e79d", null ]
+    [ "npc_webbed_creatureAI", "df/d16/a15261.html#a6b7507eda84c29d6bd557b1b424ee10a", null ],
+    [ "JustDied", "df/d16/a15261.html#a153d461124ec9266ffcac147a217f6d9", null ],
+    [ "JustEngagedWith", "df/d16/a15261.html#ac52ad6512bcaee35932f856abdac80d4", null ],
+    [ "Reset", "df/d16/a15261.html#a459eaadd7f0145b7a1a6caf99d1e8a5d", null ]
 ];

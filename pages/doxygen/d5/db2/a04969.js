@@ -1,16 +1,10 @@
 var a04969 =
 [
-    [ "WorldModel", "d5/db2/a04969.html#a42116d73362e248de40a88f49d95a0f4", null ],
-    [ "GetGroupModels", "d5/db2/a04969.html#ae739dd33c5fcfdf4129ec0f9292eb885", null ],
-    [ "GetLocationInfo", "d5/db2/a04969.html#a3a198d0cbd607e574cb53a08d6b7457a", null ],
-    [ "IntersectPoint", "d5/db2/a04969.html#ab049f44af8c65d8c41309157473a8b01", null ],
-    [ "IntersectRay", "d5/db2/a04969.html#a63c3d4e85d0924d6c46d8b6c6f70a593", null ],
-    [ "readFile", "d5/db2/a04969.html#a8e33038d14961c4f28b36d2bd2237df6", null ],
-    [ "setGroupModels", "d5/db2/a04969.html#aadf13de73aee68848ea6082418e625b0", null ],
-    [ "setRootWmoID", "d5/db2/a04969.html#a5d6daa757304ceb69e578a6b9ae519d4", null ],
-    [ "writeFile", "d5/db2/a04969.html#ae449aaa575e98eac6838b0f18660697a", null ],
-    [ "Flags", "d5/db2/a04969.html#aea4d1e085733b0bbfbb389d7c4ac9bd1", null ],
-    [ "groupModels", "d5/db2/a04969.html#ae44c57520cea5da5a5f082167e9f818d", null ],
-    [ "groupTree", "d5/db2/a04969.html#a101692f46ae752cbde7b264b02e23168", null ],
-    [ "RootWMOID", "d5/db2/a04969.html#a5a8745b313b1417e9dbb1d571fb173dd", null ]
+    [ "MmapTileHeader", "d5/db2/a04969.html#a0165f9a4caee4e4759ea261dfbac08a7", null ],
+    [ "dtVersion", "d5/db2/a04969.html#a34d3ed8c617139653176454d7fa7934e", null ],
+    [ "mmapMagic", "d5/db2/a04969.html#ace0ec88460c97f1438de2d0e6a9d7774", null ],
+    [ "mmapVersion", "d5/db2/a04969.html#a5cc3cd873419fe8aeb479d3187584410", null ],
+    [ "padding", "d5/db2/a04969.html#a6ca977b85a993eb6721e3bfe9fd3abfd", null ],
+    [ "size", "d5/db2/a04969.html#a69f3284a4a56b1108792ba56c250bf97", null ],
+    [ "usesLiquids", "d5/db2/a04969.html#aeb4e622161a4bb42cff42d37542f0254", null ]
 ];

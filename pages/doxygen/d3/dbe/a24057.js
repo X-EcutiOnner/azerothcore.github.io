@@ -1,9 +1,6 @@
 var a24057 =
 [
-    [ "npc_crusade_recruitAI", "d3/dbe/a24057.html#aa5d5e8cc4fe612fda84d971d9cee987f", null ],
-    [ "Reset", "d3/dbe/a24057.html#a183360b99ecbd784b4dabbf5158f59d1", null ],
-    [ "sGossipSelect", "d3/dbe/a24057.html#ab7bfdc4cc8c86645174ac154ee5db541", null ],
-    [ "UpdateAI", "d3/dbe/a24057.html#a0b4dad62e1adf04013d8fbcefe310400", null ],
-    [ "_events", "d3/dbe/a24057.html#a32060a04ba73fbf9ae2df8417e826ce9", null ],
-    [ "_heading", "d3/dbe/a24057.html#a6e260a6e085962d54b765bff4cb17963", null ]
+    [ "npc_invis_infernal_casterAI", "d1/db9/a24061.html", "d1/db9/a24061" ],
+    [ "npc_invis_infernal_caster", "d3/dbe/a24057.html#a9aed081ef904075830428bbc76f53874", null ],
+    [ "GetAI", "d3/dbe/a24057.html#aede0c5cc390ea423169b1cba66d929cd", null ]
 ];

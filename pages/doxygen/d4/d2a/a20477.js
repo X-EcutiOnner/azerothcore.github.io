@@ -1,6 +1,9 @@
 var a20477 =
 [
-    [ "spell_oculus_stop_time_AuraScript", "df/d91/a20481.html", "df/d91/a20481" ],
-    [ "spell_oculus_stop_time", "d4/d2a/a20477.html#a82a5cdd50fbd6c07e65d4a9d1552181e", null ],
-    [ "GetAuraScript", "d4/d2a/a20477.html#ae8214fd12fdb6559c7db15df559e0829", null ]
+    [ "npc_ulduar_dark_rune_watcherAI", "d4/d2a/a20477.html#a2239253c2c4760b130ace4a07ef1e8c4", null ],
+    [ "CanAIAttack", "d4/d2a/a20477.html#a891e354dc27f0d53e06a0cf2eea46970", null ],
+    [ "Reset", "d4/d2a/a20477.html#a79a1081a50ded7afc5f81ed4234be59d", null ],
+    [ "UpdateAI", "d4/d2a/a20477.html#a58c5f53f74055b89c11ed27ffe908732", null ],
+    [ "timer1", "d4/d2a/a20477.html#aab38ff79ca8fc867a3d6c6512d0376c8", null ],
+    [ "timer2", "d4/d2a/a20477.html#a7b4eb188939c15f11a6b2532853ad798", null ]
 ];

@@ -1,6 +1,6 @@
 var a21677 =
 [
-    [ "boss_mimironAI", "d2/d8b/a21681.html", "d2/d8b/a21681" ],
-    [ "boss_mimiron", "d6/d61/a21677.html#a72904837bd85e9f711fcf3da04c459c3", null ],
-    [ "GetAI", "d6/d61/a21677.html#a1d4f38ecee62a2c2a608afc158fad7f2", null ]
+    [ "CheckCast", "d6/d61/a21677.html#a9c7e08a8a9b1c1b44ae290818826d43a", null ],
+    [ "PrepareSpellScript", "d6/d61/a21677.html#abff433d61c798d17882292b6b0956a58", null ],
+    [ "Register", "d6/d61/a21677.html#a1034967a4bf633f160cc40ae6e0fc567", null ]
 ];

@@ -1,8 +1,11 @@
 var a19149 =
 [
-    [ "Load", "d5/de0/a19149.html#aab174da140072f6d4f79c6a1d1d923b4", null ],
-    [ "OnPeriodic", "d5/de0/a19149.html#a7bac29a8b91c23eb809bb3ca10b1bee3", null ],
-    [ "PrepareAuraScript", "d5/de0/a19149.html#a63951f220ddd20092d80fb531c16c823", null ],
-    [ "Register", "d5/de0/a19149.html#a6546adc7491d5e1f2f1456c8da0f440e", null ],
-    [ "_is25Man", "d5/de0/a19149.html#af6ef75b24251d2a57dab1542da257fab", null ]
+    [ "npc_nexus_lordAI", "d5/de0/a19149.html#a8d26337fdcd055027a20ea91faf7e01b", null ],
+    [ "AttackStart", "d5/de0/a19149.html#a2f56dcac815431c887b95e9c09aec361", null ],
+    [ "JustDied", "d5/de0/a19149.html#a828007757a618affad71b955681945cf", null ],
+    [ "JustEngagedWith", "d5/de0/a19149.html#acfcf227557b1e212eda385e22ccdb981", null ],
+    [ "UpdateAI", "d5/de0/a19149.html#ad7ddb98d2daaed386e713e423de4cac9", null ],
+    [ "events", "d5/de0/a19149.html#ad20a56e52b22306ca31406d8defa4aa5", null ],
+    [ "pInstance", "d5/de0/a19149.html#a81fae70688bcd8c733ea90b06900503d", null ],
+    [ "timer", "d5/de0/a19149.html#a8edb133f7ca01a4aa75345c572a505c7", null ]
 ];

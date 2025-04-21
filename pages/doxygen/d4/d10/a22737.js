@@ -1,6 +1,7 @@
 var a22737 =
 [
-    [ "npc_frozen_orb_stalkerAI", "d4/d10/a22737.html#afd8d187ecbf508d02824d1ff8f3cb5cf", null ],
-    [ "JustSummoned", "d4/d10/a22737.html#a73d7d5e55d2a00c9aee6f595e2678b17", null ],
-    [ "Reset", "d4/d10/a22737.html#a064ccb90afeb9b36d501850482c60bc4", null ]
+    [ "boss_lady_malande", "d4/d10/a22737.html#a8cb693d203463dcba809e7ffc23c6868", null ],
+    [ "AttackStart", "d4/d10/a22737.html#ad5cf6e7b0000c7f96d8606088fb13d31", null ],
+    [ "JustEngagedWith", "d4/d10/a22737.html#af4b5f376e387851e15517de03636acde", null ],
+    [ "UpdateAI", "d4/d10/a22737.html#a6d9d09a49fc87bbbda02387f78bb3739", null ]
 ];

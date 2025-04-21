@@ -1,7 +1,9 @@
 var a28629 =
 [
-    [ "HandleDummy", "d7/d93/a28629.html#a436ed0843e0035308c69f0854decd7f2", null ],
-    [ "PrepareSpellScript", "d7/d93/a28629.html#a42ff645d6c8e94353ae118327af5f4e6", null ],
-    [ "Register", "d7/d93/a28629.html#a0b69f667ea83dee61206bbc723020cbc", null ],
-    [ "Validate", "d7/d93/a28629.html#a93e68d77227297883aae472ef08fb67c", null ]
+    [ "Flags", "d7/d93/a28629.html#a4471edebd870d3dfaaf34292341e5f60", null ],
+    [ "Id", "d7/d93/a28629.html#a6a25126338a8c3aa7d36c02c979639dd", null ],
+    [ "Position", "d7/d93/a28629.html#a8fa9a49b3195ffe74dcf1872d0fb05c1", null ],
+    [ "Rotation", "d7/d93/a28629.html#a986c3ea05d510db03ec969f0d116fb34", null ],
+    [ "Scale", "d7/d93/a28629.html#af8bcb02c541b9261dbf879353ba6893a", null ],
+    [ "UniqueId", "d7/d93/a28629.html#a374c9893af515badc54b22b2a4d5e024", null ]
 ];

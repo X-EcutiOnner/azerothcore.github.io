@@ -1,6 +1,11 @@
 var a15277 =
 [
-    [ "OnPeriodic", "d1/d4e/a15277.html#a5945e24db52c6bacae7221b085dc877b", null ],
-    [ "PrepareAuraScript", "d1/d4e/a15277.html#acc987aa864a8333de7bd0b770eb9018d", null ],
-    [ "Register", "d1/d4e/a15277.html#a3c5a192302ec6d531037f8b5da1565f2", null ]
+    [ "npc_kerlonianAI", "d1/d4e/a15277.html#a0f7a4566ca93a174c92fe10e904af480", null ],
+    [ "ClearSleeping", "d1/d4e/a15277.html#aea2815d79da4fa006ea150f052255b9d", null ],
+    [ "MoveInLineOfSight", "d1/d4e/a15277.html#a8b0a606510d278f26099a125d583377a", null ],
+    [ "Reset", "d1/d4e/a15277.html#a20fac33bf3322ad0caf72ea883680b8d", null ],
+    [ "SetSleeping", "d1/d4e/a15277.html#a0e1e6beaa98090d8bf8a17d28a9ee733", null ],
+    [ "SpellHit", "d1/d4e/a15277.html#a1df028085cf1cb9e8152cdb70a3d28b1", null ],
+    [ "UpdateFollowerAI", "d1/d4e/a15277.html#aa86dc8b3e934ff3297f7316de5420fe6", null ],
+    [ "FallAsleepTimer", "d1/d4e/a15277.html#a8cfd8d869f8a313d041d89f8d0daa1bb", null ]
 ];

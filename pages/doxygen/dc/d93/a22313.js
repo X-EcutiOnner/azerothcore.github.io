@@ -1,6 +1,5 @@
 var a22313 =
 [
-    [ "OnRemove", "dc/d93/a22313.html#a3bae0f9d95248f659c5e11fa1d76bfc0", null ],
-    [ "PrepareAuraScript", "dc/d93/a22313.html#a6a3b368cfa649c0083393ab804bacafd", null ],
-    [ "Register", "dc/d93/a22313.html#a6826efde60ad8466aa7bee6680681806", null ]
+    [ "achievement_wg_vehicular_gnomeslaughter", "dc/d93/a22313.html#a441b8db113ef4843f433c1ea3f3052b5", null ],
+    [ "OnCheck", "dc/d93/a22313.html#ab23a2d90e536a3a9ecbb3b64c5b0e18f", null ]
 ];

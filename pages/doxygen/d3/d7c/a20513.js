@@ -1,6 +1,6 @@
 var a20513 =
 [
-    [ "HandleDamageCalc", "d3/d7c/a20513.html#a39e5c4207b9f4650ea3f9a9cfc27c5b1", null ],
-    [ "PrepareSpellScript", "d3/d7c/a20513.html#a90ea2aaf4255fcacbdcfcc7f26a46fb4", null ],
-    [ "Register", "d3/d7c/a20513.html#a8e5f581cf15be75dba3920af8b3ef8d1", null ]
+    [ "boss_thorim_lightning_orbAI", "dd/db1/a20517.html", "dd/db1/a20517" ],
+    [ "boss_thorim_lightning_orb", "d3/d7c/a20513.html#a2aa29e8d2b3fb10e8be39d8fc3112ac2", null ],
+    [ "GetAI", "d3/d7c/a20513.html#ad24d28866145c4fccf7a3971856fa87f", null ]
 ];

@@ -1,6 +1,7 @@
 var a24049 =
 [
-    [ "npc_released_offspring_harkoaAI", "db/de2/a24049.html#ab1002f002987b6ea2366129afd48d65c", null ],
-    [ "MovementInform", "db/de2/a24049.html#a56d52be3fdbc2e4176efe09ba58f55c7", null ],
-    [ "Reset", "db/de2/a24049.html#a3ddc30ce39acef3bb5e6f8400a084393", null ]
+    [ "HandleScriptEffect", "db/de2/a24049.html#ad018d907a85ee31d3194823a4c02a1a5", null ],
+    [ "PrepareSpellScript", "db/de2/a24049.html#a50b6bc43eaeee0ec760c02ac1685454e", null ],
+    [ "Register", "db/de2/a24049.html#a2096673a3f57cc224aeb7d3ce84526cb", null ],
+    [ "Validate", "db/de2/a24049.html#a5209de3456c374010502a94f67ff4544", null ]
 ];

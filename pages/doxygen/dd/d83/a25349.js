@@ -1,6 +1,6 @@
 var a25349 =
 [
-    [ "instance_shattered_halls_InstanceMapScript", "d8/da3/a25353.html", "d8/da3/a25353" ],
-    [ "instance_shattered_halls", "dd/d83/a25349.html#a9d0d3b6baec34c679151791610cff3a7", null ],
-    [ "GetInstanceScript", "dd/d83/a25349.html#a82388466811b022a725ba721845cadf3", null ]
+    [ "OnRemove", "dd/d83/a25349.html#ac3a6d7bdc95605e3c73f8115b4a68da0", null ],
+    [ "PrepareAuraScript", "dd/d83/a25349.html#ab1e3a55a35dbbb4bd781ac8c51608e6a", null ],
+    [ "Register", "dd/d83/a25349.html#aecd068248e174c4b676ff9f43dd0856f", null ]
 ];

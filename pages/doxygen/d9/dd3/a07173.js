@@ -1,13 +1,11 @@
 var a07173 =
 [
-    [ "WhoListCacheMgr", "d9/dd3/a07173.html#a2190c113c3d38bd316b17a4400c113e6", null ],
-    [ "~WhoListCacheMgr", "d9/dd3/a07173.html#ae32706d7786014e142dc1cb9ccd29d70", null ],
-    [ "WhoListCacheMgr", "d9/dd3/a07173.html#a366e452317179d647042c24c56faafa1", null ],
-    [ "WhoListCacheMgr", "d9/dd3/a07173.html#ae0358ae9260f929410f6518f89135161", null ],
-    [ "GetWhoList", "d9/dd3/a07173.html#a4dec6544342fdc5052b69dcc61148453", null ],
-    [ "instance", "d9/dd3/a07173.html#a1e8ce970e3213cd0361af303df98b387", null ],
-    [ "operator=", "d9/dd3/a07173.html#a80615aa0a66ac29765f27598e605c712", null ],
-    [ "operator=", "d9/dd3/a07173.html#ab8aff37f9e66aef40ccb794928bc001c", null ],
-    [ "Update", "d9/dd3/a07173.html#a3db2ef832cf1413fb2e565ca0d922a80", null ],
-    [ "_whoListStorage", "d9/dd3/a07173.html#a75495cb910c6de65d60a5080248e1e25", null ]
+    [ "WGWorkshop", "d9/dd3/a07173.html#a2d2d7b24ec77275f24efa54d31e98bbb", null ],
+    [ "GiveControlTo", "d9/dd3/a07173.html#a6b69312f4ffa562b0e8fdcf5da3568d3", null ],
+    [ "Save", "d9/dd3/a07173.html#adede1c780178f20dc8339320a021e4b6", null ],
+    [ "UpdateGraveyardAndWorkshop", "d9/dd3/a07173.html#a2ff11801fb50cd3a463c44fafbddaed4", null ],
+    [ "bf", "d9/dd3/a07173.html#ae2b7e050289ad5922ddcd73c6da9f5a5", null ],
+    [ "state", "d9/dd3/a07173.html#a279d47c85843e884edef1f82b9654cd8", null ],
+    [ "teamControl", "d9/dd3/a07173.html#a196c8d0094a34c18835840e046fd39ef", null ],
+    [ "workshopId", "d9/dd3/a07173.html#a42d7337c67e4f19886b0ec86f0e60596", null ]
 ];

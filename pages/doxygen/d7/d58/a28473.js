@@ -1,7 +1,7 @@
 var a28473 =
 [
-    [ "HandleAuraApply", "d7/d58/a28473.html#afb8eb7fcc0797c3e19a9bfc5eebb5fb2", null ],
-    [ "HandleAuraRemove", "d7/d58/a28473.html#a9029865b5e06c4a9aa7f155f371c9125", null ],
-    [ "PrepareAuraScript", "d7/d58/a28473.html#a5c7d7c0b8880128121d66d39094f1965", null ],
-    [ "Register", "d7/d58/a28473.html#ae15d5175671c60a55e4a77848bc9fe1b", null ]
+    [ "asyncId", "d7/d58/a28473.html#afd18849875b4562e4a532903676ce25d", null ],
+    [ "flags", "d7/d58/a28473.html#a9b9c3cec4acbd87911aa047dd52ae443", null ],
+    [ "offsMCNK", "d7/d58/a28473.html#a063c5dc62c44038e882340221bf8228a", null ],
+    [ "size", "d7/d58/a28473.html#a47a5eeb595d53de009651ae02d2b416d", null ]
 ];

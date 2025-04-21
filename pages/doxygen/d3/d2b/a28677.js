@@ -1,10 +1,8 @@
 var a28677 =
 [
-    [ "CheckProc", "d3/d2b/a28677.html#a68a559c46266fc7337f7d56bb66af542", null ],
-    [ "HandleProc", "d3/d2b/a28677.html#a69cdd92cea54ec5bf11f6011578b2338", null ],
-    [ "Load", "d3/d2b/a28677.html#ad571b0d2f47cff037030d7a8184f60fd", null ],
-    [ "PrepareAuraScript", "d3/d2b/a28677.html#aa20e2911e60f3ae7a9dcceee8f96b6ef", null ],
-    [ "Register", "d3/d2b/a28677.html#a8af18925b317c717fcd6b2fae14a16e4", null ],
-    [ "Validate", "d3/d2b/a28677.html#ac0cf25901d70e37bb887b3baa38790b5", null ],
-    [ "_procTarget", "d3/d2b/a28677.html#ad48f21d3a45e97857265e6047f253910", null ]
+    [ "Color", "d3/d2b/a28677.html#a379e4cf61345dbb4d93da5a8603138c0", null ],
+    [ "NameIndex", "d3/d2b/a28677.html#add893e045d13a3633fd7346457a10477", null ],
+    [ "Position", "d3/d2b/a28677.html#afae9056582e71160c151de2c172bc60a", null ],
+    [ "Rotation", "d3/d2b/a28677.html#a48d372bc1371fa5f94db9aa39669942a", null ],
+    [ "Scale", "d3/d2b/a28677.html#aefacaaf0be0745c95ffc53f410da6e8d", null ]
 ];

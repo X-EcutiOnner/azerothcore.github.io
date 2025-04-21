@@ -1,8 +1,6 @@
 var a28033 =
 [
-    [ "HandleEffectRemove", "d3/d41/a28033.html#a770b7ad0bb00114400a73f50c4aa6c81", null ],
-    [ "if", "d3/d41/a28033.html#a7123c451bce0f95ad75e5acfbe58a135", null ],
-    [ "PrepareAuraScript", "d3/d41/a28033.html#a531f51626ae4527282ad1e628911a9ea", null ],
-    [ "Register", "d3/d41/a28033.html#ae68bd9a92239a4796f9d8040787a68b3", null ],
-    [ "AuraEffectHandleModes", "d3/d41/a28033.html#a8af86c58f438e78d8bf878f79d4a27e2", null ]
+    [ "color", "d3/d41/a28033.html#a2e4ee1d687af07445684907d1bcec4f4", null ],
+    [ "ID", "d3/d41/a28033.html#ac125147c2dc5546a0116f48e08f36e59", null ],
+    [ "spellitemenchantement", "d3/d41/a28033.html#a3a6329c8f5caa3cd6e61138339f37f4d", null ]
 ];

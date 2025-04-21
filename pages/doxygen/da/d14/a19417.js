@@ -1,6 +1,6 @@
 var a19417 =
 [
-    [ "PeriodicTick", "da/d14/a19417.html#aa664b55d83a9ba57e6a59a3493ca9c02", null ],
-    [ "PrepareAuraScript", "da/d14/a19417.html#a46bbd2f80ef2648c5a9870f700af8553", null ],
-    [ "Register", "da/d14/a19417.html#ab13ebd46f485b15f007836f7eedd8d78", null ]
+    [ "boss_lokenAI", "d1/d21/a19421.html", "d1/d21/a19421" ],
+    [ "boss_loken", "da/d14/a19417.html#a44ba0ee009dcdfca6ff8739e297ec786", null ],
+    [ "GetAI", "da/d14/a19417.html#affb73db8ecdc2d035f8076ecca0c9a99", null ]
 ];

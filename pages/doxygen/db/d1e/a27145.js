@@ -1,11 +1,6 @@
 var a27145 =
 [
-    [ "CalcPeriodic", "db/d1e/a27145.html#ab5feede17fa79c9d02fa459586eaca41", null ],
-    [ "CalculateAPAmount", "db/d1e/a27145.html#af2b1da799f1b3c0373dc6782dabbf89c", null ],
-    [ "CalculateResistanceAmount", "db/d1e/a27145.html#a51828f07b0e099c5931161f7aeebaab7", null ],
-    [ "CalculateSPAmount", "db/d1e/a27145.html#a255ed8f5158e715313e44b13f30b099f", null ],
-    [ "CalculateStatAmount", "db/d1e/a27145.html#ade1b7256d19b526a7f4b1520f6b2f663", null ],
-    [ "HandlePeriodic", "db/d1e/a27145.html#a136c8cedca7630543b8937e77571ead1", null ],
-    [ "PrepareAuraScript", "db/d1e/a27145.html#a638a2544d9216bec90c433100c0663a0", null ],
-    [ "Register", "db/d1e/a27145.html#a55605257006d8218250932357f325bb8", null ]
+    [ "go_bear_trapAI", "d6/d57/a27149.html", "d6/d57/a27149" ],
+    [ "go_bear_trap", "db/d1e/a27145.html#a6301aa23009ac2599fc37b81bb3a0750", null ],
+    [ "GetAI", "db/d1e/a27145.html#afb882fd4cc2e4379bb8d5afff210a679", null ]
 ];

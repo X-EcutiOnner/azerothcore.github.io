@@ -1,10 +1,9 @@
 var a10005 =
 [
-    [ "ServerScript", "d3/d2f/a10005.html#a6d5ce71ec2930f585d70ede84a8fdeb4", null ],
-    [ "CanPacketReceive", "d3/d2f/a10005.html#a9c817a6f922029c9c58f783c4ebc18ff", null ],
-    [ "CanPacketSend", "d3/d2f/a10005.html#a6682dfb556d137feb5fc95a66ccd6917", null ],
-    [ "OnNetworkStart", "d3/d2f/a10005.html#ab51ce520816236687820d1f72bae0ed6", null ],
-    [ "OnNetworkStop", "d3/d2f/a10005.html#a1f2e87caed202bbcde98e2cb0c8f19c6", null ],
-    [ "OnSocketClose", "d3/d2f/a10005.html#a27ecdfc9c6d737d02705adcd13be9d13", null ],
-    [ "OnSocketOpen", "d3/d2f/a10005.html#a656f1c0dc191b8f91e0705748d286454", null ]
+    [ "counter", "d3/d2f/a10005.html#a0efb94229f4a9370dc5b256ba623385b", null ],
+    [ "getCurrent", "d3/d2f/a10005.html#afff6411c2b7f1c07d72ad26dc77d4780", null ],
+    [ "Increase", "d3/d2f/a10005.html#a463e0ba077c8398a6125e715afcd8860", null ],
+    [ "init", "d3/d2f/a10005.html#a0369662be009b781174021a2eb6b3202", null ],
+    [ "NewId", "d3/d2f/a10005.html#a06d5bc4ea248173316ed4d1ce96d6281", null ],
+    [ "m_counter", "d3/d2f/a10005.html#a297f1ba5e072e4c90b62c7242ee1b01c", null ]
 ];

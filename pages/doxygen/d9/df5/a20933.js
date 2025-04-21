@@ -1,6 +1,10 @@
 var a20933 =
 [
-    [ "spell_assembly_meltdown_SpellScript", "d1/d84/a20937.html", "d1/d84/a20937" ],
-    [ "spell_assembly_meltdown", "d9/df5/a20933.html#a4a29a9a6204468b58af685db3fd22d82", null ],
-    [ "GetSpellScript", "d9/df5/a20933.html#aaad39858e3c6d2720a3ed97eaced4c3f", null ]
+    [ "npc_ulduar_snow_mound", "d9/df5/a20933.html#a3f66ad92d616050bb67cb1a5e33ffa74", null ],
+    [ "MoveInLineOfSight", "d9/df5/a20933.html#ae5a09062d87aa1c0d446310df2ddd621", null ],
+    [ "UpdateAI", "d9/df5/a20933.html#a9d18fdaf83a2cfeea9b3ac6adbbd2687", null ],
+    [ "_activated", "d9/df5/a20933.html#ac48f6985d857276e0e59c2a429f5b359", null ],
+    [ "_count", "d9/df5/a20933.html#a1856c3bba24842f33720a83e1de40421", null ],
+    [ "_counter", "d9/df5/a20933.html#aca94a744c23b7f9771c728997ba4b8f3", null ],
+    [ "_scheduler", "d9/df5/a20933.html#aafe42af9ba1402cad91326eb1037e476", null ]
 ];

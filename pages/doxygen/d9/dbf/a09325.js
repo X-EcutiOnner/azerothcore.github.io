@@ -1,15 +1,9 @@
 var a09325 =
 [
-    [ "MailSender", "d9/dbf/a09325.html#a16466924bf75ea8203ba27c0f3e6188b", null ],
-    [ "MailSender", "d9/dbf/a09325.html#a735cfef6950357644d6965978dde0309", null ],
-    [ "MailSender", "d9/dbf/a09325.html#a145000f5ef63627ee26a5699846e06cf", null ],
-    [ "MailSender", "d9/dbf/a09325.html#a9ddda06cf5ecc55efdc4525353471c5b", null ],
-    [ "MailSender", "d9/dbf/a09325.html#a7d5a5e40aa20de720f310b739f159225", null ],
-    [ "MailSender", "d9/dbf/a09325.html#a12c87bb414a3e8889c95091f3b51716b", null ],
-    [ "GetMailMessageType", "d9/dbf/a09325.html#a64c99a49ec01d2226b6bf740edb380fb", null ],
-    [ "GetSenderId", "d9/dbf/a09325.html#a03145c3fdc5bbabc64019e63e121132b", null ],
-    [ "GetStationery", "d9/dbf/a09325.html#a6a4446e52e20ad7ab4817bf024b38631", null ],
-    [ "m_messageType", "d9/dbf/a09325.html#a45a312eda342d2197f15d73b47d7787b", null ],
-    [ "m_senderId", "d9/dbf/a09325.html#a0954b3514cfcba4258b1b266dfd71ddb", null ],
-    [ "m_stationery", "d9/dbf/a09325.html#a1bbced35b4600f9a45a421d28a33393b", null ]
+    [ "AnyFriendlyNotSelfUnitInObjectRangeCheck", "d9/dbf/a09325.html#a213e07e67eefd1454be655e154380202", null ],
+    [ "operator()", "d9/dbf/a09325.html#a8b3547500300e3b9d8de88c0b12b268e", null ],
+    [ "i_funit", "d9/dbf/a09325.html#a43b531ac740cb263d347ece24ff675fc", null ],
+    [ "i_obj", "d9/dbf/a09325.html#a5fe4b376f00d33554a9a263abc743e68", null ],
+    [ "i_playerOnly", "d9/dbf/a09325.html#a16cd07545542916e0f49250c77fad304", null ],
+    [ "i_range", "d9/dbf/a09325.html#ac087254cf99c5f845918998f369c176a", null ]
 ];

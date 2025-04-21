@@ -1,8 +1,10 @@
 var a28637 =
 [
-    [ "HandleDummy", "db/d51/a28637.html#ad2eec86cff225cc0bd806e31596fb127", null ],
-    [ "PrepareSpellScript", "db/d51/a28637.html#a59a04dcfee911c70e13ea8d27b4a49c4", null ],
-    [ "Register", "db/d51/a28637.html#a6c72b4c813368774283ae94036a43ee2", null ],
-    [ "SendMiss", "db/d51/a28637.html#a7c6d300e60ed492c82d5c017d3e73ed1", null ],
-    [ "Validate", "db/d51/a28637.html#a9a5014de08f73ad5dad29354812030ac", null ]
+    [ "ADTFile", "db/d51/a28637.html#a763f0f9c1106700987797864b2fdb006", null ],
+    [ "~ADTFile", "db/d51/a28637.html#ad1533f5b630a70b6ff95861e64960de0", null ],
+    [ "init", "db/d51/a28637.html#ab9ba3b1a2aac611bec5bfe4a454e4042", null ],
+    [ "_file", "db/d51/a28637.html#a7f3071e63be08fe3288d5ab03b5b8acf", null ],
+    [ "Adtfilename", "db/d51/a28637.html#a07c82112e26b96a87e22f1c7bec9c72e", null ],
+    [ "ModelInstanceNames", "db/d51/a28637.html#a6601e20fed78c54bb281ad3bd0ce7800", null ],
+    [ "WmoInstanceNames", "db/d51/a28637.html#acd96c287a01828bf3e49fb599a3b5d81", null ]
 ];

@@ -1,6 +1,8 @@
 var a27393 =
 [
-    [ "HandlePeriodicTick", "db/dfe/a27393.html#a058eeb1e0489340763a58d92d4bed832", null ],
-    [ "PrepareAuraScript", "db/dfe/a27393.html#a3d71859b7e7f914a395f131dd4a6b4ab", null ],
-    [ "Register", "db/dfe/a27393.html#ae5a8adc3fe7cc5c5d7dd715449d3442f", null ]
+    [ "npc_nelsonAI", "da/d17/a27397.html", "da/d17/a27397" ],
+    [ "npc_nelson", "db/dfe/a27393.html#ada597926a6db1aa7823ddabc19945b11", null ],
+    [ "GetAI", "db/dfe/a27393.html#a75fea281fb49249345c48236bf44b1c8", null ],
+    [ "OnGossipHello", "db/dfe/a27393.html#aa693b365a15d4617f214f9c3c229bf89", null ],
+    [ "OnGossipSelect", "db/dfe/a27393.html#aff8e412cfcabd7b653cd30d29878be6a", null ]
 ];

@@ -1,6 +1,6 @@
 var a20537 =
 [
-    [ "HandlePeriodic", "db/ddb/a20537.html#ab4e35ae632057471dde8f945a642bf41", null ],
-    [ "PrepareAuraScript", "db/ddb/a20537.html#a3dbf487f7f17fe7f67558da1fee533d6", null ],
-    [ "Register", "db/ddb/a20537.html#a758d8f38dd0ee563a65e1028b709cae7", null ]
+    [ "boss_thorim_pillarAI", "df/d7c/a20541.html", "df/d7c/a20541" ],
+    [ "boss_thorim_pillar", "db/ddb/a20537.html#a7a2cbafc1d359d7b33bb735342cdfe2d", null ],
+    [ "GetAI", "db/ddb/a20537.html#af95d5e819292af9b54a022674b74af70", null ]
 ];

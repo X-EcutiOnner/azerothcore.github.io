@@ -1,6 +1,7 @@
 var a22661 =
 [
-    [ "boss_emalonAI", "d2/d2b/a22665.html", "d2/d2b/a22665" ],
-    [ "boss_emalon", "d1/d3c/a22661.html#a2dd481292e02337bebd450f5c9821886", null ],
-    [ "GetAI", "d1/d3c/a22661.html#a345b0663ba89de5e37b87a436c48e446", null ]
+    [ "HandleScriptEffect", "d1/d3c/a22661.html#a6ec6e79849c618d009eae3551e16ff0a", null ],
+    [ "PrepareSpellScript", "d1/d3c/a22661.html#a4f00eca7c78a785780be4379c1a56a6b", null ],
+    [ "Register", "d1/d3c/a22661.html#adb676b9d6f36c30efbb8286b1e5edf6d", null ],
+    [ "Validate", "d1/d3c/a22661.html#a9ce122d497e72e3a46b1857d722af48d", null ]
 ];

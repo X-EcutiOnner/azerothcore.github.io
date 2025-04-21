@@ -1,12 +1,10 @@
 var a09717 =
 [
-    [ "FacingInfo", "d4/dbc/a09717.html#a1ac825c359704924c66e46eada64e34e", null ],
-    [ "FacingInfo", "d4/dbc/a09717.html#a7820b3ce134dcca05b9b15299eb3b33f", null ],
-    [ "FacingInfo", "d4/dbc/a09717.html#add6411db27c1d313d2f133adf0c35755", null ],
-    [ "angle", "d4/dbc/a09717.html#ac56b304c2c5df7ab72c6fcbd2f845b02", null ],
-    [ "f", "d4/dbc/a09717.html#a17e55ba985b85927a0fc14d103ec4be5", null ],
-    [ "target", "d4/dbc/a09717.html#a064b5265b4bb2a0053908bf6031b8f65", null ],
-    [ "x", "d4/dbc/a09717.html#ac08687158cc0bcfbc9814b1cbbe95684", null ],
-    [ "y", "d4/dbc/a09717.html#ad7fcfb6b1c5402a0570748d343eadfcc", null ],
-    [ "z", "d4/dbc/a09717.html#a5ff017b732d47684f675041e44227754", null ]
+    [ "DoublePosition", "d2/df8/a09721.html", "d2/df8/a09721" ],
+    [ "~AreaBoundary", "d4/dbc/a09717.html#a6050e91b3d485e75186a2df9a56e8d38", null ],
+    [ "AreaBoundary", "d4/dbc/a09717.html#adf670910c492c08d3384c2dd1824e7ce", null ],
+    [ "IsWithinBoundary", "d4/dbc/a09717.html#aac0ce1e801f3de8f3bb83b98ecd6e5c1", null ],
+    [ "IsWithinBoundary", "d4/dbc/a09717.html#a1d407f77ce0388263fc0ee6224734213", null ],
+    [ "IsWithinBoundaryArea", "d4/dbc/a09717.html#ae5580b0044dba24d100831fe51ee1abc", null ],
+    [ "_isInvertedBoundary", "d4/dbc/a09717.html#ad416f29594688ce670549d6fdcce4314", null ]
 ];

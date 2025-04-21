@@ -1,6 +1,5 @@
 var a19117 =
 [
-    [ "ModDest", "d0/d0d/a19117.html#abea9a7a54610d72c87d05e2ad1a806ca", null ],
-    [ "PrepareSpellScript", "d0/d0d/a19117.html#a4164b92f03eed302f77bbd51f65df599", null ],
-    [ "Register", "d0/d0d/a19117.html#a16048cb0eacd5486db5fdcd96422d13c", null ]
+    [ "at_naxxramas_hub_portal", "d0/d0d/a19117.html#a946086e8a4651240b84526a1b2d54065", null ],
+    [ "OnTrigger", "d0/d0d/a19117.html#af967b0f61b3257c8b8d802d4ed3af1da", null ]
 ];

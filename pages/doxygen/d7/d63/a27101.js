@@ -1,7 +1,6 @@
 var a27101 =
 [
-    [ "HandleScript", "d7/d63/a27101.html#a1097b1548b2785ac7ffd916ee5531fe9", null ],
-    [ "PrepareSpellScript", "d7/d63/a27101.html#a47dc9761bf10b1290963ff7eebe0121a", null ],
-    [ "Register", "d7/d63/a27101.html#a984b2af5268fbf294a0292502b8ddb44", null ],
-    [ "Validate", "d7/d63/a27101.html#a0cfbc2dcb836e7c37dd03cb3d0728621", null ]
+    [ "go_witherbark_totem_bundleAI", "d7/d63/a27101.html#a955625e2315008a2e36936d44f825060", null ],
+    [ "UpdateAI", "d7/d63/a27101.html#af688bab2dc3d938951adb303e8b8d88b", null ],
+    [ "_timer", "d7/d63/a27101.html#a509e6d8401380c326a0f565a6b903d7a", null ]
 ];

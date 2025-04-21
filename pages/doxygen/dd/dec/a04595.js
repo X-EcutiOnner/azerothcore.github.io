@@ -1,7 +1,6 @@
 var a04595 =
 [
-    [ "GetCleanAliasName", "dd/dec/a04595.html#ae187308862c39923e2b843bc9d4c989c", null ],
-    [ "GetDefaultValue", "dd/dec/a04595.html#a2ea1ae2c2289bdc9068ec9c886d124c8", null ],
-    [ "IsCorrectAlias", "dd/dec/a04595.html#a56e834d391c0eb5187d3c7dd0dad88b7", null ],
-    [ "IsCorrectFieldType", "dd/dec/a04595.html#a61bef7957f008e8cd937746ba03feb73", null ]
+    [ "DatabaseWorkerPool< T >", "d2/d57/a05665.html", "d2/d57/a05665" ],
+    [ "MIN_MYSQL_CLIENT_VERSION", "dd/dec/a04595.html#abfde8cf59610848eff4ea61d09bb8ca7", null ],
+    [ "MIN_MYSQL_SERVER_VERSION", "dd/dec/a04595.html#acd4a83e86313ca0bb35cb66497bc79b2", null ]
 ];

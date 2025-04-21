@@ -1,5 +1,6 @@
 var a22809 =
 [
-    [ "PrepareAuraScript", "d0/d76/a22809.html#ac24cb5396d2405a88a11d517c69b6e3a", null ],
-    [ "Register", "d0/d76/a22809.html#aa4a90a8a0ae8cdbfbf202a4d1228f291", null ]
+    [ "boss_essence_of_sufferingAI", "d9/d1b/a22813.html", "d9/d1b/a22813" ],
+    [ "boss_essence_of_suffering", "d0/d76/a22809.html#a1237f428657f0e9a0218695264358384", null ],
+    [ "GetAI", "d0/d76/a22809.html#adb54519bdf220cb3e30c81627c1ba11a", null ]
 ];

@@ -1,13 +1,9 @@
 var a20401 =
 [
-    [ "npc_crystalline_frayerAI", "d8/dab/a20401.html#a3e40823e8b0b498d150a3ebe3d1dbc41", null ],
-    [ "DamageTaken", "d8/dab/a20401.html#ab899f99852e72e14a85df6c4642ecd75", null ],
-    [ "EnterEvadeMode", "d8/dab/a20401.html#ae2e904f098a1290da4a413642a08bdd6", null ],
-    [ "JustEngagedWith", "d8/dab/a20401.html#a4228d6d142219f2bc0e856bd0cd29456", null ],
-    [ "Reset", "d8/dab/a20401.html#a3c40960117bff0c943bbec58eb1c187e", null ],
-    [ "UpdateAI", "d8/dab/a20401.html#a0f28d1c6eed3d155aaf3f28494a865aa", null ],
-    [ "_allowDeath", "d8/dab/a20401.html#a5070b825c1ffced4d8b0f864f11ba07d", null ],
-    [ "abilityTimer1", "d8/dab/a20401.html#a4120d65ba18ff16dfb291523c8f52970", null ],
-    [ "abilityTimer2", "d8/dab/a20401.html#ab1934b20e57e6df649b3044230b70943", null ],
-    [ "restoreTimer", "d8/dab/a20401.html#aea508af2b17a40b1a5ecb3815d85dd4f", null ]
+    [ "npc_ulduar_emergency_fire_botAI", "d8/dab/a20401.html#a98ad3308b0fa56847ce6f5583bdfaba9", null ],
+    [ "AttackStart", "d8/dab/a20401.html#aa18e89f63e98112efeb69328f8fdc296", null ],
+    [ "MoveInLineOfSight", "d8/dab/a20401.html#a6384437fff9349df0cfa5053b37313ea", null ],
+    [ "MovementInform", "d8/dab/a20401.html#a2f7d5b821ea4bf80bd01d469859f6fb6", null ],
+    [ "UpdateAI", "d8/dab/a20401.html#a71d24eb5cea764011249b8ff78c3ed6c", null ],
+    [ "events", "d8/dab/a20401.html#a5099c03b3ab1eb437ea11a0c4e8650f1", null ]
 ];

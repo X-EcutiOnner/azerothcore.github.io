@@ -1,5 +1,5 @@
 var a10237 =
 [
-    [ "GuildEventLogQuery", "db/d22/a10237.html#af66d667a4b722745fa4f855870ef332c", null ],
-    [ "Read", "db/d22/a10237.html#a48881f116070d5a7c03e7cace86656f6", null ]
+    [ "GenericCreatureScript", "db/d22/a10237.html#a52157430320e253a5897612623eb796c", null ],
+    [ "GetAI", "db/d22/a10237.html#a9e8eb28ece41af0c4159710c6eb51395", null ]
 ];

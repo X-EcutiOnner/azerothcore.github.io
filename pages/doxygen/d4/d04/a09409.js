@@ -1,12 +1,8 @@
 var a09409 =
 [
-    [ "flags", "d4/d04/a09409.html#ab1c2612a57fcfce78e10de45dfc1c28d", null ],
-    [ "fourcc", "d4/d04/a09409.html#a5e7b1d32e42afbeb6898ee02014847cd", null ],
-    [ "height", "d4/d04/a09409.html#ab064dde684394c3aa84f9b151749d524", null ],
-    [ "liquidFlags", "d4/d04/a09409.html#a90f22c454f03ecee6aa1b9f9392e10a0", null ],
-    [ "liquidLevel", "d4/d04/a09409.html#ae4f34f9b8139b18416862bcd413f4aaa", null ],
-    [ "liquidType", "d4/d04/a09409.html#ab2ce1920efaec0a4fc0a81df9d6539e3", null ],
-    [ "offsetX", "d4/d04/a09409.html#a2ddee980eda8b7321b55ba44697688b5", null ],
-    [ "offsetY", "d4/d04/a09409.html#abc57f9e6c2f9fae58f575d8e1309f420", null ],
-    [ "width", "d4/d04/a09409.html#aabcbad9f4c0cae9d2e1b015a93f2a0ed", null ]
+    [ "AllDeadCreaturesInRange", "d4/d04/a09409.html#a31b4976c3ea6203b9a1e7f7970a97977", null ],
+    [ "operator()", "d4/d04/a09409.html#a3638a8d3c5791b590ec717e4f1ba9cef", null ],
+    [ "_obj", "d4/d04/a09409.html#a4ca7fcf9945e698a790d01d3fadae98e", null ],
+    [ "_range", "d4/d04/a09409.html#a431ada86a2b864d53773a85b05d8da4f", null ],
+    [ "_reqAlive", "d4/d04/a09409.html#aefd0d77b69b5df9b99c148e0254fda09", null ]
 ];

@@ -1,6 +1,6 @@
 var a14733 =
 [
-    [ "Cooldown", "dc/d2c/a14733.html#ad25399079776c4c78f6215f3189195ec", null ],
-    [ "SpellId", "dc/d2c/a14733.html#afe38fa1cb5ac67dd90c9b08fc2475a2e", null ],
-    [ "TargetType", "dc/d2c/a14733.html#a4fbad9e6a60f80d129fe7aedaba83cca", null ]
+    [ "instance_the_black_morass_InstanceMapScript", "d4/d84/a14737.html", "d4/d84/a14737" ],
+    [ "instance_the_black_morass", "dc/d2c/a14733.html#aa59c960a89dbd66a4c0ad2105792efb4", null ],
+    [ "GetInstanceScript", "dc/d2c/a14733.html#a44b01fc7ab23c8f4ecfa1e375a237463", null ]
 ];

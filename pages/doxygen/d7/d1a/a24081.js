@@ -1,13 +1,12 @@
 var a24081 =
 [
-    [ "OPvPCapturePointEP_NPT", "d7/d1a/a24081.html#a2cb0929c3acb81530a0bd7ea57bcc298", null ],
-    [ "ChangeState", "d7/d1a/a24081.html#a9e046ace6129ce67568ed7c15130b617", null ],
-    [ "FillInitialWorldStates", "d7/d1a/a24081.html#a92ab3651e036895f664c33d79a6ec747", null ],
-    [ "HandlePlayerEnter", "d7/d1a/a24081.html#ace643b7f7bc793934972c61c618045eb", null ],
-    [ "HandlePlayerLeave", "d7/d1a/a24081.html#a950cd355c808f40ca95c0e5a46bac0a2", null ],
-    [ "SendChangePhase", "d7/d1a/a24081.html#aef84a9917d5f40cfff48acb45ffdf0aa", null ],
-    [ "SummonGO", "d7/d1a/a24081.html#a08a54abf3668074b5878c165bd2f8ddd", null ],
-    [ "UpdateTowerState", "d7/d1a/a24081.html#ad8cfefcc567346273914e8039b039835", null ],
-    [ "m_SummonedGOSideId", "d7/d1a/a24081.html#aa034240d169c9ab7276786bb188abc70", null ],
-    [ "m_TowerState", "d7/d1a/a24081.html#a703b68024362d13ceaf9012202b72e7d", null ]
+    [ "npc_enslaved_netherwing_drake", "d7/d1a/a24081.html#a9f848fa3c68b8a269f0b6016058ec364", null ],
+    [ "_GetPlayer", "d7/d1a/a24081.html#af02a965e98f35134a3c40ed9cdfb723e", null ],
+    [ "JustDied", "d7/d1a/a24081.html#acde70c9d8c675a9a9dd14695dc752184", null ],
+    [ "MovementInform", "d7/d1a/a24081.html#afa030a380365daa33c156a0d6be6a6d9", null ],
+    [ "Reset", "d7/d1a/a24081.html#aec02b19d27a09f16ef06adb694c2e65e", null ],
+    [ "SpellHit", "d7/d1a/a24081.html#a195794e88870a0b1ca35473f5f0378a7", null ],
+    [ "UpdateAI", "d7/d1a/a24081.html#aa7ac2dd17bdf4939d74fe5af85c649b9", null ],
+    [ "_playerGUID", "d7/d1a/a24081.html#a2f9a6a6cbaa9cab0e6014f6fd1c54346", null ],
+    [ "_tapped", "d7/d1a/a24081.html#a9cbafd9536ff7eca33b0b44295aaec92", null ]
 ];

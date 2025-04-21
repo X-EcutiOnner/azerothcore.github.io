@@ -1,9 +1,6 @@
 var a24441 =
 [
-    [ "boss_shahrazAI", "d3/ddf/a24441.html#a5429ea8d63c9e3d867f4975c36c7cdcc", null ],
-    [ "JustDied", "d3/ddf/a24441.html#a66a98bc67718c2be488cf3e725f1737b", null ],
-    [ "JustEngagedWith", "d3/ddf/a24441.html#afd3fbf43c7f1a7bdc7af6e940585e3bd", null ],
-    [ "KilledUnit", "d3/ddf/a24441.html#aef6a60e2e8d89f2bffb226b09c6e8c64", null ],
-    [ "Reset", "d3/ddf/a24441.html#a46dc2b15486bc266e1e8df6442d4c2c7", null ],
-    [ "UpdateAI", "d3/ddf/a24441.html#a0052747798b2c0cdf5e065e36dd5bcf9", null ]
+    [ "HandleProc", "d3/ddf/a24441.html#a8fb0e7e5e50fcb201e8e55ee9621034e", null ],
+    [ "PrepareAuraScript", "d3/ddf/a24441.html#a2f42e70482f71a4c275f70897b90ed72", null ],
+    [ "Register", "d3/ddf/a24441.html#a048f59b6b0d52232e3a953f173324fc2", null ]
 ];

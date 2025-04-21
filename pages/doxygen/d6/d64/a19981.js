@@ -1,6 +1,6 @@
 var a19981 =
 [
-    [ "HandleScriptEffect", "d6/d64/a19981.html#a2e63c9a4029fb45f3c90d84c6cb03a72", null ],
-    [ "PrepareSpellScript", "d6/d64/a19981.html#a0e22831d3d4945607f6d39e73ba8fd11", null ],
-    [ "Register", "d6/d64/a19981.html#a2d125ddff9280f9e032109140c8b24ef", null ]
+    [ "boss_freya_healthy_sporeAI", "d9/d2d/a19985.html", "d9/d2d/a19985" ],
+    [ "boss_freya_healthy_spore", "d6/d64/a19981.html#a16633136393061aa98c7a98f535d421e", null ],
+    [ "GetAI", "d6/d64/a19981.html#ae76eb3b334f82c536f71fdcfc86e4382", null ]
 ];

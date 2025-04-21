@@ -1,5 +1,6 @@
 var a17477 =
 [
-    [ "endPosition", "d5/d2d/a17477.html#a8a88b0191d28ef6af8f41db627552602", null ],
-    [ "entry", "d5/d2d/a17477.html#ac4e55af666e269440953ced038c1a8de", null ]
+    [ "npc_igb_ship_crewAI", "d5/d2d/a17477.html#a3ca741b305e3235b0521f094d7abe732", null ],
+    [ "CanAIAttack", "d5/d2d/a17477.html#a2c834dc151493957fc116865699ae7f5", null ],
+    [ "_instance", "d5/d2d/a17477.html#a288bd5f8b4eaed7b1a960ed738330ae4", null ]
 ];

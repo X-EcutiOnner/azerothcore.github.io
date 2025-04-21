@@ -1,6 +1,6 @@
 var a21545 =
 [
-    [ "HandleAfterEffectApply", "da/df9/a21545.html#aaab71c999a3fab33903d60ae186e6ad9", null ],
-    [ "PrepareAuraScript", "da/df9/a21545.html#af3cd9ae6f191069b3ab64e72a257caaf", null ],
-    [ "Register", "da/df9/a21545.html#a2df0da8c7b4dedfcf3dcae8361ab8c48", null ]
+    [ "npc_counselor_talbotAI", "d4/d6d/a21549.html", "d4/d6d/a21549" ],
+    [ "npc_counselor_talbot", "da/df9/a21545.html#a9223380bb78afeda617482bea0a3110c", null ],
+    [ "GetAI", "da/df9/a21545.html#a3debd13352146a247d635042ecbfa155", null ]
 ];

@@ -1,7 +1,7 @@
 var a16293 =
 [
-    [ "OnApply", "d9/dd4/a16293.html#ae0ab8c526985e5a688e862ee7208b2db", null ],
-    [ "OnRemove", "d9/dd4/a16293.html#a19fc3e0f3a8045c7428411d41186a880", null ],
-    [ "PrepareAuraScript", "d9/dd4/a16293.html#a692bff5559658e3076d56a0fc3c7c878", null ],
-    [ "Register", "d9/dd4/a16293.html#adee13380d5777691257ba3f817807285", null ]
+    [ "npc_toc_shamanAI", "d9/dd4/a16293.html#abd0b0e503c1bbc48aebb5923ec3f4291", null ],
+    [ "myCanCast", "d9/dd4/a16293.html#a993739662d2687c27219853669b8a485", null ],
+    [ "UpdateAI", "d9/dd4/a16293.html#a2ad17245685feb3f085ef9a669459c61", null ],
+    [ "events", "d9/dd4/a16293.html#ab573ab0ee616348ccdb28b71255ac35d", null ]
 ];

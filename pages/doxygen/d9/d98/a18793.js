@@ -1,6 +1,7 @@
 var a18793 =
 [
-    [ "FilterTargets", "d9/d98/a18793.html#ad044eb9e63eb147e5ea64408a611489e", null ],
-    [ "PrepareSpellScript", "d9/d98/a18793.html#addf06ce8b29374b925985e0656c8d73a", null ],
-    [ "Register", "d9/d98/a18793.html#ae8351cd6f679b9ca7ee763ceebef5f7e", null ]
+    [ "DelayedCastMincharEvent", "d9/d98/a18793.html#a76d8a08ca273eec5b2e083d136336a15", null ],
+    [ "Execute", "d9/d98/a18793.html#a12aeff246d07e541ed192974320842cb", null ],
+    [ "_spellId", "d9/d98/a18793.html#af4ea90407b2c8a283f137d213ffe97be", null ],
+    [ "_trigger", "d9/d98/a18793.html#a9f3cd02e77ad35b98a6753b792383548", null ]
 ];

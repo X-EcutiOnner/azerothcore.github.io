@@ -1,5 +1,6 @@
 var a23545 =
 [
-    [ "npc_black_knight_graveyardAI", "d4/d8f/a23545.html#a908ccf6763240ba0c0ebdf2dec6e1b36", null ],
-    [ "MoveInLineOfSight", "d4/d8f/a23545.html#aa5c80b5759656e3865d6721161f9f005", null ]
+    [ "HandleEffect", "d4/d8f/a23545.html#a47c4b4da3b06d063fd2a6a612cea29da", null ],
+    [ "PrepareSpellScript", "d4/d8f/a23545.html#a37ef368735fa2879871bc3ce8a52c8b1", null ],
+    [ "Register", "d4/d8f/a23545.html#abc6d5b845d9b76ed7abdf4132640824e", null ]
 ];

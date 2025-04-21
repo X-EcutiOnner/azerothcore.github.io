@@ -1,5 +1,6 @@
 var a25037 =
 [
-    [ "at_quagmirran_lair", "d1/da9/a25037.html#a1f8cb1f59e7a179d9e4a987f716ab26f", null ],
-    [ "OnTrigger", "d1/da9/a25037.html#aa0aab42516efaf842923b8a820942ac4", null ]
+    [ "HandleDummy", "d1/da9/a25037.html#a63bc85e32a1478d03b381c61a33d0dff", null ],
+    [ "PrepareSpellScript", "d1/da9/a25037.html#adae41617f38a71ccec183f419d677cfd", null ],
+    [ "Register", "d1/da9/a25037.html#a820e8b506de36a24411ae4a1c5930417", null ]
 ];

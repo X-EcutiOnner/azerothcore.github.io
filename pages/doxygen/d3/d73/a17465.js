@@ -1,6 +1,6 @@
 var a17465 =
 [
-    [ "spell_pos_glacial_strikeAuraScript", "d1/d04/a17469.html", "d1/d04/a17469" ],
-    [ "spell_pos_glacial_strike", "d3/d73/a17465.html#a359a8215d419ac98af82226fcc89879f", null ],
-    [ "GetAuraScript", "d3/d73/a17465.html#a76f93c3b958d40a413a28382ce9a69de", null ]
+    [ "npc_zafod_boomboxAI", "d1/d04/a17469.html", "d1/d04/a17469" ],
+    [ "npc_zafod_boombox", "d3/d73/a17465.html#a7124746ed3f25ae6d96a2fa1910d98d0", null ],
+    [ "GetAI", "d3/d73/a17465.html#af80f6913cef53d39cafdcd47b2cd07f0", null ]
 ];

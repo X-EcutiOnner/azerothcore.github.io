@@ -1,6 +1,6 @@
 var a19597 =
 [
-    [ "spell_icc_geist_alarm_SpellScript", "d8/d31/a19601.html", "d8/d31/a19601" ],
-    [ "spell_icc_geist_alarm", "d2/deb/a19597.html#ad82b3d7baa02b01f53815083351a4767", null ],
-    [ "GetSpellScript", "d2/deb/a19597.html#af9d0263b31b6c711de87593911e9d6b3", null ]
+    [ "npc_living_constellationAI", "d8/d31/a19601.html", "d8/d31/a19601" ],
+    [ "npc_living_constellation", "d2/deb/a19597.html#a6ee651a525498cb5715ccfedaa26e05d", null ],
+    [ "GetAI", "d2/deb/a19597.html#a4533812a4da72c0d9eff6d6c9eaf772a", null ]
 ];

@@ -1,6 +1,6 @@
 var a27053 =
 [
-    [ "OnApply", "d8/dd6/a27053.html#a476bf6fc1a91784dbc8534c0e57005d6", null ],
-    [ "PrepareAuraScript", "d8/dd6/a27053.html#a159ee8a9b0af729ed01f7632adb58863", null ],
-    [ "Register", "d8/dd6/a27053.html#a0f33043317402119aa14e50a1eb6c227", null ]
+    [ "boss_emerissAI", "d5/d79/a27057.html", "d5/d79/a27057" ],
+    [ "boss_emeriss", "d8/dd6/a27053.html#a2d373e5add3f007cf214ad9763039aa2", null ],
+    [ "GetAI", "d8/dd6/a27053.html#a88a0696a12f12e612cce53c14f6b1f92", null ]
 ];

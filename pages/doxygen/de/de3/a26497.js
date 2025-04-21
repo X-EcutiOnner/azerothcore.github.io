@@ -1,6 +1,8 @@
 var a26497 =
 [
-    [ "CheckCast", "de/de3/a26497.html#a583e19667a83ada4cd793fbf391f9e93", null ],
-    [ "PrepareSpellScript", "de/de3/a26497.html#ac6adda0dbe544cf2457060647c01de0f", null ],
-    [ "Register", "de/de3/a26497.html#a50d1284f1113bfdd0b39690efabe6b9b", null ]
+    [ "HandleDummy", "de/de3/a26497.html#a308880cf9c61c76de0fdee05fff2b463", null ],
+    [ "Load", "de/de3/a26497.html#acafb9d6ac4fde694dc44cbf13b7f97ad", null ],
+    [ "PrepareSpellScript", "de/de3/a26497.html#a3a2672c39f36229c0dd6cdea0fad3299", null ],
+    [ "Register", "de/de3/a26497.html#a1857b342ae34a57f079f45019645c688", null ],
+    [ "Validate", "de/de3/a26497.html#a121c30045281eab5fee4f65d38d1dfc3", null ]
 ];

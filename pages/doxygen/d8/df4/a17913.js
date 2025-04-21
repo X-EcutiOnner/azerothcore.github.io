@@ -1,8 +1,7 @@
 var a17913 =
 [
-    [ "spell_deathbringer_blood_power_AuraScript", "da/da4/a17921.html", "da/da4/a17921" ],
-    [ "spell_deathbringer_blood_power_SpellScript", "d3/d5f/a17917.html", "d3/d5f/a17917" ],
-    [ "spell_deathbringer_blood_power", "d8/df4/a17913.html#a0be251537dd187ac98568cddaadd1e7f", null ],
-    [ "GetAuraScript", "d8/df4/a17913.html#a93a671cf74ef42034563ca72014332ab", null ],
-    [ "GetSpellScript", "d8/df4/a17913.html#a7090e832100545c04dd6417e5e801afb", null ]
+    [ "FrostwyrmLandEvent", "d8/df4/a17913.html#a6b6a467c474a5b03be40e4d9a86eddc8", null ],
+    [ "Execute", "d8/df4/a17913.html#a4da77796a223e6233ac6d908f7700623", null ],
+    [ "_dest", "d8/df4/a17913.html#a7f5b4c41c459b65e30dea66f7459a7e9", null ],
+    [ "_owner", "d8/df4/a17913.html#a6336050092606ebb27a180abff55dfa2", null ]
 ];

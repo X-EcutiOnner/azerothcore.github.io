@@ -1,6 +1,6 @@
 var a20621 =
 [
-    [ "boss_volkhanAI", "de/d96/a20625.html", "de/d96/a20625" ],
-    [ "boss_volkhan", "d0/d56/a20621.html#a9dcb6026fbf3116df9abf5acaf1bfcc2", null ],
-    [ "GetAI", "d0/d56/a20621.html#aa0f76b387f9f74e0eb6dedd1b44ce34a", null ]
+    [ "npc_xt002_scrapbotAI", "de/d96/a20625.html", "de/d96/a20625" ],
+    [ "npc_xt002_scrapbot", "d0/d56/a20621.html#accfd75266d058af3856bdb625728c18d", null ],
+    [ "GetAI", "d0/d56/a20621.html#aa3639c32c94f0e031ba774e4eed659cd", null ]
 ];

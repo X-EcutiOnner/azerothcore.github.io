@@ -1,6 +1,7 @@
 var a13297 =
 [
-    [ "HandlePull", "d0/d0a/a13297.html#ae854764446010d6c781c1569df0972d9", null ],
-    [ "PrepareSpellScript", "d0/d0a/a13297.html#a02e8286ade771a3d69245cfbaf2ddd44", null ],
-    [ "Register", "d0/d0a/a13297.html#af690014c0f89bc8cfb50c758dbc095f8", null ]
+    [ "HandleScriptEffect", "d0/d0a/a13297.html#ae631c634c77cc207338e3549a664969b", null ],
+    [ "PrepareSpellScript", "d0/d0a/a13297.html#ac9f825f10512be5849c46460e9cdbec8", null ],
+    [ "Register", "d0/d0a/a13297.html#ac8a4d26de8c78942efc5cfbf78c64633", null ],
+    [ "Validate", "d0/d0a/a13297.html#ab05236bc29c00cfc7a5dfb88a8c2ee98", null ]
 ];

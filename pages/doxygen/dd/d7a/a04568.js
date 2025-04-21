@@ -1,9 +1,8 @@
 var a04568 =
 [
-    [ "MySQLHandle", "d4/d00/a05710.html", null ],
-    [ "MySQLResult", "d1/d9f/a05714.html", null ],
-    [ "MySQLField", "dd/d08/a05718.html", null ],
-    [ "MySQLBind", "d6/dcf/a05722.html", null ],
-    [ "MySQLStmt", "d5/d7c/a05726.html", null ],
-    [ "MySQLBool", "dd/d7a/a04568.html#a9962b927652e90357369e67230dbc127", null ]
+    [ "TransactionBase", "d7/d3b/a05841.html", "d7/d3b/a05841" ],
+    [ "Transaction< T >", "db/dbf/a05657.html", "db/dbf/a05657" ],
+    [ "TransactionTask", "dd/d98/a05845.html", "dd/d98/a05845" ],
+    [ "TransactionWithResultTask", "d1/d9d/a05849.html", "d1/d9d/a05849" ],
+    [ "TransactionCallback", "dd/d6b/a05853.html", "dd/d6b/a05853" ]
 ];

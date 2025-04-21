@@ -1,19 +1,15 @@
 var a09513 =
 [
-    [ "AuctionListItemsDelayEvent", "d8/d6a/a09513.html#ae495f47cdcf2db992d6f5c599c969274", null ],
-    [ "Execute", "d8/d6a/a09513.html#ac14c369351fe9cd6dcb063d7b8fd6448", null ],
-    [ "_auctionMainCategory", "d8/d6a/a09513.html#a828416051f1e84bef716afb20f3d1e60", null ],
-    [ "_auctionSlotID", "d8/d6a/a09513.html#a64c54082878561e1587715396953fd75", null ],
-    [ "_auctionSubCategory", "d8/d6a/a09513.html#aa76028f94d492f2508d755e74810ac90", null ],
-    [ "_creatureguid", "d8/d6a/a09513.html#a5280785705b920d5a4592b11675d4da1", null ],
-    [ "_getAll", "d8/d6a/a09513.html#accbc5a8c1e0c1de696b0884d22eebeb8", null ],
-    [ "_levelmax", "d8/d6a/a09513.html#a3ca2d402112451de3c09f559954f5ff6", null ],
-    [ "_levelmin", "d8/d6a/a09513.html#a787db3b49334d2efb6b7f812bf6ad954", null ],
-    [ "_listfrom", "d8/d6a/a09513.html#a01813c762107e6e0e43a53f7ffade16b", null ],
-    [ "_pickupTimer", "d8/d6a/a09513.html#a5f3d52f0afb2e277dd3fb03e9f32103f", null ],
-    [ "_playerguid", "d8/d6a/a09513.html#a3eaa2f344de186e746908627c9523b4a", null ],
-    [ "_quality", "d8/d6a/a09513.html#a5b71f78b81c11f1a9ebbe58f17aeedde", null ],
-    [ "_searchedname", "d8/d6a/a09513.html#a59ad8e5c53e85faec91d9bda903aad47", null ],
-    [ "_sortOrder", "d8/d6a/a09513.html#a87c6f59bdf36fb858aa3a56af87f69d8", null ],
-    [ "_usable", "d8/d6a/a09513.html#a0fa068377683cb71807bfa700b8c688d", null ]
+    [ "LogHolder", "d8/d6a/a09513.html#a3432ee2f32857bd02e75fdb5ba922bd1", null ],
+    [ "AddEvent", "d8/d6a/a09513.html#a5f6d81d9048290815053bb4aa3531d73", null ],
+    [ "CanInsert", "d8/d6a/a09513.html#aefdb4e57b5bf35b00564491547e6e2a9", null ],
+    [ "GetGuildId", "d8/d6a/a09513.html#ada98449548b389a1cd8177087e3aa5e8", null ],
+    [ "GetGuildLog", "d8/d6a/a09513.html#a17593c12663e8c4251f94636e511c73a", null ],
+    [ "GetGuildLog", "d8/d6a/a09513.html#ae43929001324d6bece4e45bc95115535", null ],
+    [ "GetNextGUID", "d8/d6a/a09513.html#aed00250b6a1036a91dd971af510f7750", null ],
+    [ "LoadEvent", "d8/d6a/a09513.html#a22e87750252d1c4f62f2e5686a2e008d", null ],
+    [ "m_guildId", "d8/d6a/a09513.html#a3827f9fb3fc13300f60d9f7dd27154c7", null ],
+    [ "m_log", "d8/d6a/a09513.html#aca25adbc1c1e9397c837a53793568b64", null ],
+    [ "m_maxRecords", "d8/d6a/a09513.html#a755788eaede72a131f74ae7de88c37b4", null ],
+    [ "m_nextGUID", "d8/d6a/a09513.html#a267cecce9b2f244235800c93a086e8e2", null ]
 ];

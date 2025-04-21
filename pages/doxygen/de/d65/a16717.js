@@ -1,6 +1,6 @@
 var a16717 =
 [
-    [ "boss_jaraxxusAI", "d8/dd9/a16721.html", "d8/dd9/a16721" ],
-    [ "boss_jaraxxus", "de/d65/a16717.html#a82cf0601aa16893d88d9b669a6d1fc72", null ],
-    [ "GetAI", "de/d65/a16717.html#a518f7af9f86ab995e5195175b5a34bc6", null ]
+    [ "instance_forge_of_souls_InstanceScript", "d8/dd9/a16721.html", "d8/dd9/a16721" ],
+    [ "instance_forge_of_souls", "de/d65/a16717.html#a504896f6e191c87ce77231c4ef267b27", null ],
+    [ "GetInstanceScript", "de/d65/a16717.html#a64982b527cfa6057315b8e628549480b", null ]
 ];

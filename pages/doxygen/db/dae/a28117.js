@@ -1,7 +1,7 @@
 var a28117 =
 [
-    [ "HandleDummy", "db/dae/a28117.html#aa9b579a8a7a23b94d9a2c8c7f932ff78", null ],
-    [ "PrepareSpellScript", "db/dae/a28117.html#ae1dfa086c89a4180d42d231064d88602", null ],
-    [ "Register", "db/dae/a28117.html#a256c152beadbfce6bf245779295b8758", null ],
-    [ "Validate", "db/dae/a28117.html#acb4144be3326bcaae9c559d8e7b9d7ec", null ]
+    [ "AllocationPct", "db/dae/a28117.html#a45d752dfd00a75f69d919a88573ba4fc", null ],
+    [ "Enchantment", "db/dae/a28117.html#a45e694082c1dbdeef5229561f617d584", null ],
+    [ "ID", "db/dae/a28117.html#a66d78860d81c497765b5e68b5fd2ae18", null ],
+    [ "Name", "db/dae/a28117.html#a3ee4d8152817e10b873de5ec36ba062b", null ]
 ];

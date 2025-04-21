@@ -1,6 +1,10 @@
 var a27349 =
 [
-    [ "HandleActivateObject", "d3/dee/a27349.html#a0d14ca0b21716855a04a0a9267f3e019", null ],
-    [ "PrepareSpellScript", "d3/dee/a27349.html#a684079434128bacd3d8b8b71c14dc56a", null ],
-    [ "Register", "d3/dee/a27349.html#a266301f59c809c03d0ccfc48a2ace302", null ]
+    [ "npc_prof_blacksmith", "d3/dee/a27349.html#af9bd62c4c2514d79daf467e4d6d7a92e", null ],
+    [ "HasWeaponSub", "d3/dee/a27349.html#a7ee47d061de5e2f482406469b4eaac3b", null ],
+    [ "OnGossipHello", "d3/dee/a27349.html#a9a432c1ec33578949110c877fc6a686d", null ],
+    [ "OnGossipSelect", "d3/dee/a27349.html#ab1edaf3dc0a8dddf064368d26930a2af", null ],
+    [ "SendActionMenu", "d3/dee/a27349.html#af2ac8f9bfa212c34be3e45cc358dd773", null ],
+    [ "SendConfirmLearn", "d3/dee/a27349.html#acbec7fe3eebf7eaed09e5755c6775eaa", null ],
+    [ "SendConfirmUnlearn", "d3/dee/a27349.html#a851dc241d944bc888a00df85bff17e3a", null ]
 ];

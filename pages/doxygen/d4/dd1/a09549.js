@@ -1,6 +1,9 @@
 var a09549 =
 [
-    [ "sourceObjectDestroyLink", "d4/dd1/a09549.html#a575a5bac090f5bc5b3f2a721aa64ef42", null ],
-    [ "targetObjectBuildLink", "d4/dd1/a09549.html#abf8c86604c3ef4349567c736090402f6", null ],
-    [ "targetObjectDestroyLink", "d4/dd1/a09549.html#a5cb0bab8be8116b9a489a4922c44c5c8", null ]
+    [ "EmoteChatBuilder", "d4/dd1/a09549.html#ae1aeb36aad24d5ef28074edfbf2f9e7e", null ],
+    [ "operator()", "d4/dd1/a09549.html#a133a7bb35e86cf40425910c4f19a3337", null ],
+    [ "i_emote_num", "d4/dd1/a09549.html#a966b8afcbf5afca3a3466d8e075a9437", null ],
+    [ "i_player", "d4/dd1/a09549.html#ae09dbfe01b2a24e57b63b2b1df5ad232", null ],
+    [ "i_target", "d4/dd1/a09549.html#abc538e056d91ea1ee8d6203c96174b1d", null ],
+    [ "i_text_emote", "d4/dd1/a09549.html#add0630dc3fc76fb4fdb79095e13b2fc0", null ]
 ];

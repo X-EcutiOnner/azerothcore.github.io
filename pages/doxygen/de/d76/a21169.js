@@ -1,6 +1,7 @@
 var a21169 =
 [
-    [ "OnPeriodic", "de/d76/a21169.html#abc1ff049ebd71372a105d08e82a5cd4e", null ],
-    [ "PrepareAuraScript", "de/d76/a21169.html#a55ff9d9bf90253b0f2d9510bc00e3127", null ],
-    [ "Register", "de/d76/a21169.html#ad4d26e672db9b8ed11368ab5143094db", null ]
+    [ "PrepareAuraScript", "de/d76/a21169.html#adedc1cb8b42e9cd3c2e68415bca59c6b", null ],
+    [ "Register", "de/d76/a21169.html#a7225d1f83921e4de06516c1db5a5038a", null ],
+    [ "TriggerFists", "de/d76/a21169.html#af5d91d679f6bed5afc675b8a5fd90210", null ],
+    [ "Validate", "de/d76/a21169.html#a977897c569245148eb94892bb42d4ca5", null ]
 ];

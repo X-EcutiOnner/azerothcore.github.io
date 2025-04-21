@@ -1,5 +1,6 @@
 var a11957 =
 [
-    [ "at_orb_of_command", "d7/d43/a11957.html#a1f0b196362b76e050eba66d3ce612623", null ],
-    [ "OnTrigger", "d7/d43/a11957.html#a8d30d303c72d5eaf59222c890ab13ca3", null ]
+    [ "boss_drakkisathAI", "d5/dcd/a11961.html", "d5/dcd/a11961" ],
+    [ "boss_drakkisath", "d7/d43/a11957.html#a73f21cbd7b81fc045ae129d7d650b455", null ],
+    [ "GetAI", "d7/d43/a11957.html#ad27999ba129b2e3617c1aba1c4b9772b", null ]
 ];

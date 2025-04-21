@@ -1,5 +1,6 @@
 var a26169 =
 [
-    [ "npc_pet_dk_army_of_the_deadAI", "d2/db3/a26169.html#a2d934ed807d225f6b9f2206f0556f26d", null ],
-    [ "InitializeAI", "d2/db3/a26169.html#af3ecec126ed3d902acd4bfe979382307", null ]
+    [ "CheckCast", "d2/db3/a26169.html#ada9b1c9e159956cb2a79610dbdb3eaf9", null ],
+    [ "PrepareSpellScript", "d2/db3/a26169.html#aa9cc041f2e0dae1eb322713d4f140ce8", null ],
+    [ "Register", "d2/db3/a26169.html#a5f0b69ffebb256d5ee2c0f9d4615c4e6", null ]
 ];

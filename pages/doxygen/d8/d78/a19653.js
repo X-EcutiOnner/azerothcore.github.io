@@ -1,5 +1,5 @@
 var a19653 =
 [
-    [ "at_icc_shutdown_traps", "d8/d78/a19653.html#aa13f5d78d3032e8114e9978f42468f64", null ],
-    [ "OnTrigger", "d8/d78/a19653.html#abb31b3f6d0b159b625d731ac47127005", null ]
+    [ "achievement_algalon_he_feeds_on_your_tears", "d8/d78/a19653.html#a91f4ddbce55a50e563df701eb0bcfff7", null ],
+    [ "OnCheck", "d8/d78/a19653.html#affea33614581545c65513bfe533d7246", null ]
 ];

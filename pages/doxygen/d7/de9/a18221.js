@@ -1,6 +1,10 @@
 var a18221 =
 [
-    [ "spell_igb_burning_pitch_SpellScript", "d6/dca/a18225.html", "d6/dca/a18225" ],
-    [ "spell_igb_burning_pitch", "d7/de9/a18221.html#a73e4a64db38a04b60d818904b3ef6481", null ],
-    [ "GetSpellScript", "d7/de9/a18221.html#a43a5b545b37586586d9a1e3f9914f317", null ]
+    [ "HandleScript", "d7/de9/a18221.html#a18c80010b9e8803b3c225acf2dd0b605", null ],
+    [ "Load", "d7/de9/a18221.html#af31fd5b1f9cdc67650eec5e305f095bf", null ],
+    [ "PrepareSpellScript", "d7/de9/a18221.html#afcc1efc69d73086a9ab686855911e516", null ],
+    [ "Register", "d7/de9/a18221.html#a061e110b9a032a9bbd0a48f686d16a84", null ],
+    [ "ReplaceTarget", "d7/de9/a18221.html#a01cb7d25bef14a2266d81594544f6283", null ],
+    [ "SelectTarget", "d7/de9/a18221.html#aa06b7505ff483bc5e534cc37d909b28c", null ],
+    [ "_target", "d7/de9/a18221.html#a3a84a9d7109845d201b395f05f66d109", null ]
 ];

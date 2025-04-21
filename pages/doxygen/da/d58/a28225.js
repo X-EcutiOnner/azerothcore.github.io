@@ -1,6 +1,5 @@
 var a28225 =
 [
-    [ "PrepareSpellScript", "da/d58/a28225.html#ac0322966abdb57fbe19c3e2117caa56b", null ],
-    [ "Register", "da/d58/a28225.html#a7ddfa827654b6bb0a11aaddf41dc62f9", null ],
-    [ "SetDest", "da/d58/a28225.html#ad1012e0f8ae1cf2ff18d886e10d6fca6", null ]
+    [ "CastTime", "da/d58/a28225.html#af0bf895b1a5d61974cb63230b786c55e", null ],
+    [ "ID", "da/d58/a28225.html#a41b1059fc4059bd198925861a9414497", null ]
 ];

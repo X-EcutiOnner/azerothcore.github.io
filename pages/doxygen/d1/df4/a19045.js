@@ -1,6 +1,10 @@
 var a19045 =
 [
-    [ "spell_the_lich_king_ice_burst_target_search_SpellScript", "d2/da5/a19049.html", "d2/da5/a19049" ],
-    [ "spell_the_lich_king_ice_burst_target_search", "d1/df4/a19045.html#a8c6249f30c1e52b50abc31878937408b", null ],
-    [ "GetSpellScript", "d1/df4/a19045.html#aea42a18910c4455cf70a9c7c95cf3cb9", null ]
+    [ "boss_razuvious_minionAI", "d1/df4/a19045.html#a6f9fc7dad68f35846ee76d4bff564407", null ],
+    [ "DoAction", "d1/df4/a19045.html#a93cfa3f706ffadd94ad4dbe0585eebf1", null ],
+    [ "JustEngagedWith", "d1/df4/a19045.html#ada2e7a5ac1f129572a0689afce49d310", null ],
+    [ "KilledUnit", "d1/df4/a19045.html#ab1a6f582098c9d1218551af0aae1815d", null ],
+    [ "Reset", "d1/df4/a19045.html#a170de8517a03a0e78b1e67652869fd9a", null ],
+    [ "ScheduleAttackDummy", "d1/df4/a19045.html#abed82c71605d7c57bf29cedc21fc6b24", null ],
+    [ "UpdateAI", "d1/df4/a19045.html#ad56fca0ae00fba6e575baefd72c7a8d0", null ]
 ];

@@ -1,7 +1,6 @@
 var a21137 =
 [
-    [ "FilterTargets", "d3/dcc/a21137.html#aaa09aae6311b55ee0edac614dbd609bb", null ],
-    [ "HandleScript", "d3/dcc/a21137.html#ad109d7d335cbc9bf81066d88900bf327", null ],
-    [ "PrepareSpellScript", "d3/dcc/a21137.html#a719f295c0a80fad908714c23140a039e", null ],
-    [ "Register", "d3/dcc/a21137.html#a9d90f3f63de5a2c0b30f1250956a505b", null ]
+    [ "boss_emalonAI", "da/d22/a21141.html", "da/d22/a21141" ],
+    [ "boss_emalon", "d3/dcc/a21137.html#a2dd481292e02337bebd450f5c9821886", null ],
+    [ "GetAI", "d3/dcc/a21137.html#a345b0663ba89de5e37b87a436c48e446", null ]
 ];

@@ -1,6 +1,6 @@
 var a21777 =
 [
-    [ "npc_ulduar_emergency_fire_botAI", "d3/d1e/a21781.html", "d3/d1e/a21781" ],
-    [ "npc_ulduar_emergency_fire_bot", "d0/d12/a21777.html#a1adc05ac4602ab2b297b18f605bfd2cd", null ],
-    [ "GetAI", "d0/d12/a21777.html#afb3ab952495175c5f571d4e39a5acea4", null ]
+    [ "HandleDummy", "d0/d12/a21777.html#afe86744c6ab901750731fca486ff2e6c", null ],
+    [ "PrepareSpellScript", "d0/d12/a21777.html#a47e8a3187fa523c61842885f1cbd041d", null ],
+    [ "Register", "d0/d12/a21777.html#a61b1b63167b3dc562b9916ffce1e4eee", null ]
 ];

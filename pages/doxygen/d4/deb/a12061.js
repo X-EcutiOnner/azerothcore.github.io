@@ -1,7 +1,6 @@
 var a12061 =
 [
-    [ "HandleDummy", "d4/deb/a12061.html#ac499362a4d1fe40ec4659d85e97634ce", null ],
-    [ "PrepareSpellScript", "d4/deb/a12061.html#abff8316378d0d886836cc3dae1ebb630", null ],
-    [ "Register", "d4/deb/a12061.html#a29f86b3ad673963d1820821d08e7dd42", null ],
-    [ "Validate", "d4/deb/a12061.html#aa7889ac8c36c782c8f75591799cf21b5", null ]
+    [ "OrcDeathEvent", "d4/deb/a12061.html#ae4088ee95c3c0de9ae524a82803b0ea2", null ],
+    [ "Execute", "d4/deb/a12061.html#a293ec6667da669a27fe75965f919cd68", null ],
+    [ "_me", "d4/deb/a12061.html#a56cdf23ed08cbb800ba6fe7fb5e284b7", null ]
 ];

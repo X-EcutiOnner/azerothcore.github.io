@@ -1,7 +1,7 @@
 var a07881 =
 [
-    [ "EnchStoreItem", "d5/daa/a07881.html#a89019e156774c5b978251479264e5463", null ],
-    [ "EnchStoreItem", "d5/daa/a07881.html#aca83bb20eb6153faeaf599b07b97e357", null ],
-    [ "chance", "d5/daa/a07881.html#a2d3d0cd28c79402b3625694d4676ed8b", null ],
-    [ "ench", "d5/daa/a07881.html#ac2346b6c6c5c09bb63676d72c798d848", null ]
+    [ "RBEntryInfo", "d5/daa/a07881.html#aa720dd6cae9ee7163bb9b84918249644", null ],
+    [ "RBEntryInfo", "d5/daa/a07881.html#a3df17ed1c70ed9b755843308d5ff6336", null ],
+    [ "comment", "d5/daa/a07881.html#a7284eac7208dba21a52b79257aad7dbc", null ],
+    [ "roles", "d5/daa/a07881.html#ab891dec65b0070ede1233080eadd0190", null ]
 ];

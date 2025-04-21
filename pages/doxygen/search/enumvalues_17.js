@@ -1,10 +1,10 @@
 var searchData=
 [
-  ['xfer_5faccept_0',['XFER_ACCEPT',['../df/d72/a04688.html#a345cff35e97e1d164879db077b96607ba0faa0d818c7cac462c3b31df8adcbf01',1,'AuthSession.cpp']]],
-  ['xfer_5fcancel_1',['XFER_CANCEL',['../df/d72/a04688.html#a345cff35e97e1d164879db077b96607ba178f53b59478d4e635be98a41873c5e1',1,'AuthSession.cpp']]],
-  ['xfer_5fdata_2',['XFER_DATA',['../df/d72/a04688.html#a345cff35e97e1d164879db077b96607bac4bf4cd27a0fa1424639c5d11cac02f7',1,'AuthSession.cpp']]],
-  ['xfer_5finitiate_3',['XFER_INITIATE',['../df/d72/a04688.html#a345cff35e97e1d164879db077b96607ba0152ea9553a4a08a9568de879167adb5',1,'AuthSession.cpp']]],
-  ['xfer_5fresume_4',['XFER_RESUME',['../df/d72/a04688.html#a345cff35e97e1d164879db077b96607bae1d058bb15829274dff5133c8c041aa5',1,'AuthSession.cpp']]],
+  ['xfer_5faccept_0',['XFER_ACCEPT',['../d6/d12/a04691.html#a345cff35e97e1d164879db077b96607ba0faa0d818c7cac462c3b31df8adcbf01',1,'AuthSession.cpp']]],
+  ['xfer_5fcancel_1',['XFER_CANCEL',['../d6/d12/a04691.html#a345cff35e97e1d164879db077b96607ba178f53b59478d4e635be98a41873c5e1',1,'AuthSession.cpp']]],
+  ['xfer_5fdata_2',['XFER_DATA',['../d6/d12/a04691.html#a345cff35e97e1d164879db077b96607bac4bf4cd27a0fa1424639c5d11cac02f7',1,'AuthSession.cpp']]],
+  ['xfer_5finitiate_3',['XFER_INITIATE',['../d6/d12/a04691.html#a345cff35e97e1d164879db077b96607ba0152ea9553a4a08a9568de879167adb5',1,'AuthSession.cpp']]],
+  ['xfer_5fresume_4',['XFER_RESUME',['../d6/d12/a04691.html#a345cff35e97e1d164879db077b96607bae1d058bb15829274dff5133c8c041aa5',1,'AuthSession.cpp']]],
   ['xp_5fgray_5',['XP_GRAY',['../dc/d2b/a02486.html#a4730a8cb3b5ba4caf0c78c978dcf4458a36cf0227da3b3aa6cbc972f5df549e92',1,'SharedDefines.h']]],
   ['xp_5fgreen_6',['XP_GREEN',['../dc/d2b/a02486.html#a4730a8cb3b5ba4caf0c78c978dcf4458a31efade814abd9f4cdcf258bbbe94b6e',1,'SharedDefines.h']]],
   ['xp_5forange_7',['XP_ORANGE',['../dc/d2b/a02486.html#a4730a8cb3b5ba4caf0c78c978dcf4458aaf9065b4a6308f6fec4f2a74aeea4db7',1,'SharedDefines.h']]],

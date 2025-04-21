@@ -1,6 +1,6 @@
 var a18253 =
 [
-    [ "PrepareSpellScript", "d1/d96/a18253.html#a99466ed86503b431fbff1a054304557e", null ],
-    [ "Register", "d1/d96/a18253.html#a798d91f8f479099f53f8b28e76710a70", null ],
-    [ "RemovePassengers", "d1/d96/a18253.html#ae3207b849f8c4d05bee37b0be448bb24", null ]
+    [ "npc_strangulate_vehicleAI", "d0/d8e/a18257.html", "d0/d8e/a18257" ],
+    [ "npc_strangulate_vehicle", "d1/d96/a18253.html#a04532bc5902af45b1e9c76cf1cec9add", null ],
+    [ "GetAI", "d1/d96/a18253.html#aa5813442234d7b18fc4e7ed44a0b30bc", null ]
 ];

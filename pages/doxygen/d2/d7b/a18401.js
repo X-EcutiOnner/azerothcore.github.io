@@ -1,6 +1,6 @@
 var a18401 =
 [
-    [ "UnboundPlagueTargetSelector", "d2/d7b/a18401.html#aedde7e013418bf6ff54cf3d3b8a70206", null ],
-    [ "operator()", "d2/d7b/a18401.html#ae5fc2623d4eb0b0a82b3eaa464c92458", null ],
-    [ "_source", "d2/d7b/a18401.html#a87eb77615e443ccec373d571708a156a", null ]
+    [ "npc_blazing_skeletonAI", "d9/df6/a18405.html", "d9/df6/a18405" ],
+    [ "npc_blazing_skeleton", "d2/d7b/a18401.html#a158720704479946048472ffe0beec492", null ],
+    [ "GetAI", "d2/d7b/a18401.html#af29ea4620ebafaa4d47ec9f37758af77", null ]
 ];

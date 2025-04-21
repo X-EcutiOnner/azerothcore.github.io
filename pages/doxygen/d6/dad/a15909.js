@@ -1,8 +1,14 @@
 var a15909 =
 [
-    [ "HandleScriptEffect", "d6/dad/a15909.html#af3e18fa5befc7124f2a3dbcd36259e6b", null ],
-    [ "Load", "d6/dad/a15909.html#ab293f8b536957558fa8886e1f4a23e74", null ],
-    [ "PrepareSpellScript", "d6/dad/a15909.html#ae4a1abf2e39c6806d804dea9ce5808ef", null ],
-    [ "Register", "d6/dad/a15909.html#a9fb54f0662982dec90c2e6f8568421ed", null ],
-    [ "Validate", "d6/dad/a15909.html#a2bee81d684c4739bb6247bfbdb74a21b", null ]
+    [ "instance_obsidian_sanctum_InstanceMapScript", "d6/dad/a15909.html#a17e64475b7433b3dc0d87028c11c9c7f", null ],
+    [ "CheckAchievementCriteriaMeet", "d6/dad/a15909.html#a62a5603b9063b4cbb773eb177aa2d0bc", null ],
+    [ "DoAction", "d6/dad/a15909.html#abc08b37f23721ff2ce7a6662605a66ab", null ],
+    [ "GetGuidData", "d6/dad/a15909.html#a01da8216f57e19b5bf8697700089118c", null ],
+    [ "OnCreatureCreate", "d6/dad/a15909.html#aa0fd6fae9a274e483765c0b5c1ff7ba3", null ],
+    [ "m_uiPortalGUID", "d6/dad/a15909.html#a166db22fd409d0387085053852e5ad30", null ],
+    [ "m_uiSartharionGUID", "d6/dad/a15909.html#a17b8e9a050eb6302258119c3b4f5f1bf", null ],
+    [ "m_uiShadronGUID", "d6/dad/a15909.html#a5c6a46069a87340f9e8d5e4830b8a2ed", null ],
+    [ "m_uiTenebronGUID", "d6/dad/a15909.html#afc7daf2b0eb18fa999ff3dae42fc4da2", null ],
+    [ "m_uiVesperonGUID", "d6/dad/a15909.html#a7408fc1c0d61c7db01bdd4f517080139", null ],
+    [ "portalCount", "d6/dad/a15909.html#ab7cec8a8a80713e436e4e4e80c5c1383", null ]
 ];

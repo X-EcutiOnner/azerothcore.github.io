@@ -1,6 +1,5 @@
 var a18633 =
 [
-    [ "spell_rotface_little_ooze_combine_SpellScript", "dd/d0a/a18637.html", "dd/d0a/a18637" ],
-    [ "spell_rotface_little_ooze_combine", "d5/d36/a18633.html#a7f921989dbcdd404ce3f8665893348b1", null ],
-    [ "GetSpellScript", "d5/d36/a18633.html#a0752081822d2ef1760755a73687a5abd", null ]
+    [ "at_icc_start_blood_quickening", "d5/d36/a18633.html#a544b0591b19a62e5c8a6efcfffd98326", null ],
+    [ "OnTrigger", "d5/d36/a18633.html#a814670e127b1eace6068a553b23d00f7", null ]
 ];

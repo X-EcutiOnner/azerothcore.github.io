@@ -1,6 +1,6 @@
 var a18517 =
 [
-    [ "spell_putricide_unbound_plague_dmg_AuraScript", "dc/da0/a18521.html", "dc/da0/a18521" ],
-    [ "spell_putricide_unbound_plague_dmg", "de/ddc/a18517.html#a4335943600e1b5956fae27a01d545ab6", null ],
-    [ "GetAuraScript", "de/ddc/a18517.html#a162ffa548448cc6495133d589ca6d244", null ]
+    [ "boss_sister_svalnaAI", "dc/da0/a18521.html", "dc/da0/a18521" ],
+    [ "boss_sister_svalna", "de/ddc/a18517.html#a233a9606db61f6ab945350e98a0929ff", null ],
+    [ "GetAI", "de/ddc/a18517.html#a5eb89badd75104dfe1dc3e03d372adc0", null ]
 ];

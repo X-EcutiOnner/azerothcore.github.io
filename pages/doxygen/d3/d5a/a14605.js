@@ -1,15 +1,12 @@
 var a14605 =
 [
-    [ "boss_kazrogalAI", "d3/d5a/a14605.html#a6091209996e5d65c5e3af9d7a3da4678", null ],
-    [ "JustDied", "d3/d5a/a14605.html#aec35fbcda13990427cb402b0d9c6be2f", null ],
-    [ "JustEngagedWith", "d3/d5a/a14605.html#a24dc8b1fb3824ee0574dd7338cd7922f", null ],
-    [ "KilledUnit", "d3/d5a/a14605.html#a86d5f14b4f0bc8e32e86de0fbc59c84b", null ],
-    [ "Reset", "d3/d5a/a14605.html#a37a9ee2fe3dd74c71c603fc1701e02ac", null ],
-    [ "UpdateAI", "d3/d5a/a14605.html#a03709a01a0d6612c8650ce86fabb27c8", null ],
-    [ "WaypointReached", "d3/d5a/a14605.html#ad5675d7f0b15d01e33082e7ca077d74a", null ],
-    [ "CleaveTimer", "d3/d5a/a14605.html#a6226c0839c5e3e01702cd2ad78b5cdeb", null ],
-    [ "go", "d3/d5a/a14605.html#a4738bf0a5b36e56c21d34d0164bc2069", null ],
-    [ "MarkTimer", "d3/d5a/a14605.html#a5b14127fab5e9d90a7a60d0734a27d65", null ],
-    [ "MarkTimerBase", "d3/d5a/a14605.html#a35a315b1ac2d0df6e4ee45831e2f7d83", null ],
-    [ "WarStompTimer", "d3/d5a/a14605.html#abe63d98c723902e9a23505276496421d", null ]
+    [ "boss_epochAI", "d3/d5a/a14605.html#a2986db39b7db92b1fa9d64cef5f8c08b", null ],
+    [ "JustDied", "d3/d5a/a14605.html#a780aa5bc86c80aaeeffad441b2873121", null ],
+    [ "JustEngagedWith", "d3/d5a/a14605.html#ae742dceac5979faebb58a133e9bd91f0", null ],
+    [ "KilledUnit", "d3/d5a/a14605.html#af41946feab7b86d812f706bd7abbf1bd", null ],
+    [ "Reset", "d3/d5a/a14605.html#a98cf5d8aded78694117af64ccdb6cd83", null ],
+    [ "SpellHitTarget", "d3/d5a/a14605.html#ab87dfcf635a65b02be29186d2990fef3", null ],
+    [ "UpdateAI", "d3/d5a/a14605.html#a651b11c4cc5f92881b4dd5b7f22c9d85", null ],
+    [ "events", "d3/d5a/a14605.html#af0c1477b3d9fb48cfcf55f32e21591f4", null ],
+    [ "warps", "d3/d5a/a14605.html#a478113af1ce565c729604c6039f55551", null ]
 ];

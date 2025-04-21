@@ -1,6 +1,7 @@
 var a22381 =
 [
-    [ "instance_ulduar_InstanceMapScript", "d0/d66/a22385.html", "d0/d66/a22385" ],
-    [ "instance_ulduar", "dc/d15/a22381.html#a32c2a76d1cd20f2ad1ab441eafe1b682", null ],
-    [ "GetInstanceScript", "dc/d15/a22381.html#ad15f003a90e656910fc32d661ca9baba", null ]
+    [ "npc_storm_cloudAI", "dc/d15/a22381.html#aa4dd9409cd74f3c2c878974715e43394", null ],
+    [ "JustRespawned", "dc/d15/a22381.html#ad0f99362f7ab506b322b6d75890881c1", null ],
+    [ "Reset", "dc/d15/a22381.html#a99654ac86502e3ac2f899082269ccb01", null ],
+    [ "SpellHit", "dc/d15/a22381.html#ac51313cec4d76216f3c716d988fc4857", null ]
 ];

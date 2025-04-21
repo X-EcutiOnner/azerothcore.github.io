@@ -1,9 +1,9 @@
 var a08485 =
 [
-    [ "GameEventAIHookWorker", "da/de9/a08485.html#ad72640a18d2d32a9201c965089ee49cf", null ],
-    [ "Visit", "da/de9/a08485.html#a23d979ee43838e7d58e9123e36474a5a", null ],
-    [ "Visit", "da/de9/a08485.html#a79106ec550d072d690bbf3496d76cb0a", null ],
-    [ "Visit", "da/de9/a08485.html#a165476edd8b252bbb90b8b78fae963a6", null ],
-    [ "_activate", "da/de9/a08485.html#a756665eafa08f3c8c51ccef69bdd619f", null ],
-    [ "_eventId", "da/de9/a08485.html#ab1ee68bb7134e84780772eba2cfac766", null ]
+    [ "category", "da/de9/a08485.html#af3cd722cf59d844dcaba2d20f20d2933", null ],
+    [ "end", "da/de9/a08485.html#a8cc857ef51745900398765164a450a50", null ],
+    [ "itemid", "da/de9/a08485.html#a42ef844fdd55e8bf67eb5cd90c627817", null ],
+    [ "maxduration", "da/de9/a08485.html#a94b98afb7651e2c6b99ee79f85702259", null ],
+    [ "needSendToClient", "da/de9/a08485.html#a678f56b6723567f984a0188b85a6f9df", null ],
+    [ "sendToSpectator", "da/de9/a08485.html#a4b5bc2c63587dd8ce5d4971ad51895cd", null ]
 ];

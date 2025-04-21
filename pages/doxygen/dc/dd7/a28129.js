@@ -1,7 +1,8 @@
 var a28129 =
 [
-    [ "HandleDummy", "dc/dd7/a28129.html#ad2367c1fd551187b6f19f795abb15ea6", null ],
-    [ "PrepareSpellScript", "dc/dd7/a28129.html#a125f7550ce826f74ac14902bc82d5021", null ],
-    [ "Register", "dc/dd7/a28129.html#a35e9132e2414383caafbde699de6061d", null ],
-    [ "Validate", "dc/dd7/a28129.html#a530489a10287a6dd281d518683b1a3f3", null ]
+    [ "Id", "dc/dd7/a28129.html#a6943bf760d15b3f8af4109d131652d72", null ],
+    [ "MapId", "dc/dd7/a28129.html#ab0cccd760636a3b42af693d6c483bed9", null ],
+    [ "X", "dc/dd7/a28129.html#a91183890254546efeb3162173cc60dad", null ],
+    [ "Y", "dc/dd7/a28129.html#a19ab4d026b45d74f006479641afbc4d3", null ],
+    [ "Z", "dc/dd7/a28129.html#aaa23c59f20fc96aec148b82516f30036", null ]
 ];

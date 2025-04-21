@@ -1,6 +1,7 @@
 var a17009 =
 [
-    [ "spell_dtk_raise_dead_AuraScript", "d2/dda/a17013.html", "d2/dda/a17013" ],
-    [ "spell_dtk_raise_dead", "df/d33/a17009.html#a57f825ba0dcc65666f133c9e6cf10356", null ],
-    [ "GetAuraScript", "df/d33/a17009.html#a2f6c7d8bf3893747e67915b1e0f3a9e3", null ]
+    [ "HandleEffectPeriodic", "df/d33/a17009.html#a370e2cbf796c1bc0a891243b61c057e1", null ],
+    [ "PrepareAuraScript", "df/d33/a17009.html#ac0cb90fe9bfa7f371cc5469626ce2467", null ],
+    [ "Register", "df/d33/a17009.html#a5a44978cec95fef30c9ea4308bda2508", null ],
+    [ "Validate", "df/d33/a17009.html#a8b9f7d76f86f1a5abffdead3ebee694a", null ]
 ];

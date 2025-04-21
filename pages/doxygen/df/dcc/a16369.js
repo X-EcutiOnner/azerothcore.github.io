@@ -1,6 +1,6 @@
 var a16369 =
 [
-    [ "HandleScript", "df/dcc/a16369.html#ae206ef80cf9e2c68a627107c06c1cdfe", null ],
-    [ "PrepareSpellScript", "df/dcc/a16369.html#a091e035d5d15822538d49633bb0f6786", null ],
-    [ "Register", "df/dcc/a16369.html#ad627d55e3cfc06e1c5064c70cbef109e", null ]
+    [ "npc_toc_rogueAI", "d6/d1c/a16373.html", "d6/d1c/a16373" ],
+    [ "npc_toc_rogue", "df/dcc/a16369.html#a925840be9698e381358235a827c20b8a", null ],
+    [ "GetAI", "df/dcc/a16369.html#a6f0246b284ffd800e3870d70e9c52aac", null ]
 ];

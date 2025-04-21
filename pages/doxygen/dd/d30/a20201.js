@@ -1,6 +1,5 @@
 var a20201 =
 [
-    [ "instance_naxxramas_InstanceMapScript", "d5/d35/a20205.html", "d5/d35/a20205" ],
-    [ "instance_naxxramas", "dd/d30/a20201.html#a9d4b57f9f0f7a44565bb8d9bd3aa24a1", null ],
-    [ "GetInstanceScript", "dd/d30/a20201.html#ac5dd8d591af2239faab17727eb1ef66e", null ]
+    [ "achievement_staying_buffed_all_winter_25", "dd/d30/a20201.html#a91f0ab3bada837cff6414350b98a27a3", null ],
+    [ "OnCheck", "dd/d30/a20201.html#a36591082184bc8466e124bad9a910545", null ]
 ];

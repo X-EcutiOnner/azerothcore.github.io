@@ -1,10 +1,13 @@
 var a11169 =
 [
-    [ "WorldPacketList", "d6/d4d/a11169.html#ac02e770af167d14f978954cf5ac74487", null ],
-    [ "WorldWorldTextBuilder", "d6/d4d/a11169.html#ad5e85ced19572dcd5ae75caa7e50cbf6", null ],
-    [ "do_helper", "d6/d4d/a11169.html#ae8b58ec72a6c87aee46e9fe693deab32", null ],
-    [ "lineFromMessage", "d6/d4d/a11169.html#a3a71edb992528d81471d370ba3d8d211", null ],
-    [ "operator()", "d6/d4d/a11169.html#ae08f4d73e048b351ae4326cc63278ae6", null ],
-    [ "i_args", "d6/d4d/a11169.html#ac2ae2ce8dc49ce7469142383e6e097d4", null ],
-    [ "i_textId", "d6/d4d/a11169.html#ab246baa9a8ce259d8190ac1c8318c75d", null ]
+    [ "PetAuraMap", "d6/d4d/a11169.html#a6c020340ff467b5f2d00c3b5f9fee817", null ],
+    [ "PetAura", "d6/d4d/a11169.html#a8cd7e3284837b30a8a3c6739ab5cb9b3", null ],
+    [ "PetAura", "d6/d4d/a11169.html#a79a2f086e2d8dbe1af47716b53df0524", null ],
+    [ "AddAura", "d6/d4d/a11169.html#ae33bb99ab341f66fb2f296ccd6617e63", null ],
+    [ "GetAura", "d6/d4d/a11169.html#a6f8318410229a89e0b3aa2af28d6cb2b", null ],
+    [ "GetDamage", "d6/d4d/a11169.html#a38087712cef92ad55dc84f96e2b9e300", null ],
+    [ "IsRemovedOnChangePet", "d6/d4d/a11169.html#adc1b329e1f303b5ad3f353abb4343cdf", null ],
+    [ "auras", "d6/d4d/a11169.html#abacd738dfb04687810b981297b1a1567", null ],
+    [ "damage", "d6/d4d/a11169.html#a216021a7ad893ae6ca65ea068dd6eedb", null ],
+    [ "removeOnChangePet", "d6/d4d/a11169.html#aa5b3219cd2021341ce0910dce81d8b56", null ]
 ];

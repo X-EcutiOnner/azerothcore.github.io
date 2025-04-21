@@ -1,6 +1,6 @@
 var a16205 =
 [
-    [ "spell_halion_meteor_strike_targeting_SpellScript", "d0/daf/a16209.html", "d0/daf/a16209" ],
-    [ "spell_halion_meteor_strike_targeting", "d5/d2b/a16205.html#a97b362ac2b99446dbea87823ad3c6569", null ],
-    [ "GetSpellScript", "d5/d2b/a16205.html#a730a4d20554fcb07599ebec997d3c2e7", null ]
+    [ "instance_trial_of_the_champion_InstanceMapScript", "d0/daf/a16209.html", "d0/daf/a16209" ],
+    [ "instance_trial_of_the_champion", "d5/d2b/a16205.html#a7b97e3da119a7ad33a87c74647407bd8", null ],
+    [ "GetInstanceScript", "d5/d2b/a16205.html#a9227119fc47f38cd82a1fc07c04b0c86", null ]
 ];

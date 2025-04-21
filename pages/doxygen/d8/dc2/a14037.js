@@ -1,6 +1,6 @@
 var a14037 =
 [
-    [ "OnRemove", "d8/dc2/a14037.html#abc6d916a2bebd7995cbdb4a603d9831a", null ],
-    [ "PrepareAuraScript", "d8/dc2/a14037.html#ac90c6f7806a24f21cac4cbf2a64d0b57", null ],
-    [ "Register", "d8/dc2/a14037.html#a7457949331552492cf6df83737729a08", null ]
+    [ "instance_zulgurub_InstanceMapScript", "dc/da3/a14041.html", "dc/da3/a14041" ],
+    [ "instance_zulgurub", "d8/dc2/a14037.html#aedc8c70e880ed9ccaf58b7154f9ba341", null ],
+    [ "GetInstanceScript", "d8/dc2/a14037.html#a51f17d1135c7e97ff082d0d95ec3ffa4", null ]
 ];

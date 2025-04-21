@@ -1,6 +1,11 @@
 var a12633 =
 [
-    [ "npc_high_inquisitor_valrothAI", "d2/d76/a12637.html", "d2/d76/a12637" ],
-    [ "npc_high_inquisitor_valroth", "d5/d52/a12633.html#a6e244a411249667a84f0d34ca1b1f17b", null ],
-    [ "GetAI", "d5/d52/a12633.html#a6374b80425da8bc41d9d076e6e7d7bef", null ]
+    [ "boss_terestian_illhoof", "d5/d52/a12633.html#a5750bf4f12ac01216335a926f885e136", null ],
+    [ "JustDied", "d5/d52/a12633.html#a9039c0fb905e72e659ce62f9d36593ce", null ],
+    [ "JustEngagedWith", "d5/d52/a12633.html#adc1f9195954eda7ec406ac9a084b7508", null ],
+    [ "JustSummoned", "d5/d52/a12633.html#a8b156654dbd75a4a7626edf30a8aae78", null ],
+    [ "KilledUnit", "d5/d52/a12633.html#ab7de8b406de200eec981fab79a56dcd7", null ],
+    [ "Reset", "d5/d52/a12633.html#a685b00f0e3317740412adfc48df1c3fb", null ],
+    [ "SpellHit", "d5/d52/a12633.html#a2f25021cfbc9e466d73c13de8116d8f1", null ],
+    [ "SummonKilrek", "d5/d52/a12633.html#a0007e35a38efce5edada2f47a9bb89c6", null ]
 ];

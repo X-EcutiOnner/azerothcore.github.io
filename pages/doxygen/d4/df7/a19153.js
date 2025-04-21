@@ -1,6 +1,6 @@
 var a19153 =
 [
-    [ "spell_the_lich_king_vile_spirits_visual_SpellScript", "db/ddc/a19157.html", "db/ddc/a19157" ],
-    [ "spell_the_lich_king_vile_spirits_visual", "d4/df7/a19153.html#acce941b27ab3d10ca259f9bbcf1c7eba", null ],
-    [ "GetSpellScript", "d4/df7/a19153.html#a30ed7c6a8ac7a5b7a320ff993579d626", null ]
+    [ "npc_scion_of_eternityAI", "db/ddc/a19157.html", "db/ddc/a19157" ],
+    [ "npc_scion_of_eternity", "d4/df7/a19153.html#ac1d66d65b5d4468b908443a64dc2de1c", null ],
+    [ "GetAI", "d4/df7/a19153.html#a7c27a55f177fb9e31f73fa1cb227fa27", null ]
 ];

@@ -1,6 +1,6 @@
 var a17285 =
 [
-    [ "instance_halls_of_reflection_InstanceMapScript", "dd/df9/a17289.html", "dd/df9/a17289" ],
-    [ "instance_halls_of_reflection", "de/d7d/a17285.html#a8872b51ceec25dbf4831f45b27206ed1", null ],
-    [ "GetInstanceScript", "de/d7d/a17285.html#aca27a4f654f41fe6f238c905b48285b7", null ]
+    [ "BloodboltHitCheck", "de/d7d/a17285.html#a84873f1ec2c1e214e35d32954622e9af", null ],
+    [ "operator()", "de/d7d/a17285.html#a1eddfd7bbea8def20dcc080413af6364", null ],
+    [ "_ai", "de/d7d/a17285.html#a0a5d115c464b6e88bc1158cd858bcbec", null ]
 ];

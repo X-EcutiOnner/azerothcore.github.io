@@ -1,5 +1,5 @@
 var a18329 =
 [
-    [ "at_lady_deathwhisper_entrance", "d3/dea/a18329.html#a3c16844f4ff97fd0699edb1d1aca2f60", null ],
-    [ "OnTrigger", "d3/dea/a18329.html#a769c838c94a88af5492057909d88f3de", null ]
+    [ "achievement_neck_deep_in_vile", "d3/dea/a18329.html#af0e54c236e7637d8c1a8cf7dbed5a195", null ],
+    [ "OnCheck", "d3/dea/a18329.html#a9861c008f302279a4ac5f4ddc14ca2d0", null ]
 ];

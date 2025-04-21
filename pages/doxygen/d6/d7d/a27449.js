@@ -1,6 +1,6 @@
 var a27449 =
 [
-    [ "HandleEffectApply", "d6/d7d/a27449.html#a9e8b226f3ebb33c47de584850643994f", null ],
-    [ "PrepareAuraScript", "d6/d7d/a27449.html#a30b74d44bb81a04ea1cfe1b6d5f926c7", null ],
-    [ "Register", "d6/d7d/a27449.html#a1d3d32c057877b5cf00f5970e583c25e", null ]
+    [ "spawnedCreatureEntry", "d6/d7d/a27449.html#a32b390dfff99d5fd3c49359779718af4", null ],
+    [ "spawnType", "d6/d7d/a27449.html#a056dabf4092da4ef3155a661607ca772", null ],
+    [ "thisCreatureEntry", "d6/d7d/a27449.html#a97d3cd7c2751fe85d9724ff1f808ba98", null ]
 ];

@@ -1,6 +1,7 @@
 var a15813 =
 [
-    [ "creatureID", "d1/dc7/a15813.html#a44a9f5e58bfa58e2e2325e116e988f07", null ],
-    [ "pos", "d1/dc7/a15813.html#a9705a858cc2c3867e104514d3a0a1866", null ],
-    [ "waveID", "d1/dc7/a15813.html#a09b48f7f6da7e203ed50a8abc7f24e56", null ]
+    [ "HandleEffectRemove", "d1/dc7/a15813.html#a45ed6d3f1c80dcef3ee6c59e744f13c6", null ],
+    [ "PrepareAuraScript", "d1/dc7/a15813.html#a34b88963dd81e6a8855daaedb9c238d4", null ],
+    [ "Register", "d1/dc7/a15813.html#a7c0533650e772713233ea45b0264cbff", null ],
+    [ "Validate", "d1/dc7/a15813.html#a7690603bd7b01ca6da2a73ac8ed36114", null ]
 ];

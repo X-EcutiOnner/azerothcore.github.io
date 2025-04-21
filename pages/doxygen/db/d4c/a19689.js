@@ -1,6 +1,6 @@
 var a19689 =
 [
-    [ "spell_icc_yf_frozen_orb_AuraScript", "d5/d09/a19693.html", "d5/d09/a19693" ],
-    [ "spell_icc_yf_frozen_orb", "db/d4c/a19689.html#a209173c8bfdf6b7068c11eb23e48d9c3", null ],
-    [ "GetAuraScript", "db/d4c/a19689.html#ad4ae8d0c8bd19dbe14ccbb0be743a7ba", null ]
+    [ "boss_stormcaller_brundirAI", "d5/d09/a19693.html", "d5/d09/a19693" ],
+    [ "boss_stormcaller_brundir", "db/d4c/a19689.html#aa966d1534a58e3832c46772043956533", null ],
+    [ "GetAI", "db/d4c/a19689.html#a399b1b7cf2ee74c1e672231e922ff4fa", null ]
 ];

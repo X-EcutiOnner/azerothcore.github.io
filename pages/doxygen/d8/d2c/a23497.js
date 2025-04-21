@@ -1,6 +1,8 @@
 var a23497 =
 [
-    [ "HandleOnEffectRemove", "d8/d2c/a23497.html#a357b66dff588fcdaeb0e686b0c86887d", null ],
-    [ "PrepareAuraScript", "d8/d2c/a23497.html#ab0cd0962be49f50a7ec18008a1817ccd", null ],
-    [ "Register", "d8/d2c/a23497.html#a7a70dc2eea7b2392d2b86ea5b3e85ab3", null ]
+    [ "npc_target_trigger", "d8/d2c/a23497.html#a238058ba80130c6239b7267db3247196", null ],
+    [ "Reset", "d8/d2c/a23497.html#ad23d465bfd78ede0a1556f2ce1742349", null ],
+    [ "UpdateAI", "d8/d2c/a23497.html#ab5f482e209d2d8aa5c27666d3e1934f3", null ],
+    [ "_cast", "d8/d2c/a23497.html#a4ec89ca960323f7ad135d5a425a82416", null ],
+    [ "_scheduler", "d8/d2c/a23497.html#a9b418b09e25c8f96692b4e2626339c96", null ]
 ];

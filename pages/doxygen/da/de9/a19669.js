@@ -1,6 +1,6 @@
 var a19669 =
 [
-    [ "OnRemove", "da/de9/a19669.html#a59d58c84fdef6c3820888dfcd8cf5e66", null ],
-    [ "PrepareAuraScript", "da/de9/a19669.html#ac88019099c563cf39d85a74efb6512fc", null ],
-    [ "Register", "da/de9/a19669.html#ac2cea1779d15f304c32f2dc23410cd09", null ]
+    [ "CastRunesEvent", "da/de9/a19669.html#aa3c5912362a4ce8a5b463da626f277b0", null ],
+    [ "Execute", "da/de9/a19669.html#ad86f17817c8a5accb1cc90e0e5d362f3", null ],
+    [ "_owner", "da/de9/a19669.html#a308c679c6e427e89734b5f506ad9d0d6", null ]
 ];

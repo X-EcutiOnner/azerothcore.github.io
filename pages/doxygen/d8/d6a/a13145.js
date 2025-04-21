@@ -1,6 +1,6 @@
 var a13145 =
 [
-    [ "FixOrientation", "d8/d6a/a13145.html#ac4a9654d37a73f9d5ddc73ff90ce145b", null ],
-    [ "Execute", "d8/d6a/a13145.html#a7af72679731c9b86b9ae36d19d1621e5", null ],
-    [ "_owner", "d8/d6a/a13145.html#a5f12db3774bdeef25a300780c00db1fb", null ]
+    [ "HandleActivateObject", "d8/d6a/a13145.html#afd73a7f5ec26c9ecb0424ee09ce638fe", null ],
+    [ "PrepareSpellScript", "d8/d6a/a13145.html#ad55914fdc6771e09a508572d59ad30ed", null ],
+    [ "Register", "d8/d6a/a13145.html#a6a0fe507ca7a382122d55e04d3c021d9", null ]
 ];

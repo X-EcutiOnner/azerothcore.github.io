@@ -1,18 +1,15 @@
 var a24173 =
 [
-    [ "OutdoorPvPZM", "d4/d2c/a24173.html#a8351867658985b66dd97f39e68c16b94", null ],
-    [ "FillInitialWorldStates", "d4/d2c/a24173.html#a25624d1acd33ea71007aa8073e01a132", null ],
-    [ "GetAllianceTowersControlled", "d4/d2c/a24173.html#a58320dcfca7519ab2a7160bb1f875a9b", null ],
-    [ "GetHordeTowersControlled", "d4/d2c/a24173.html#a98bfdd944bc51f9ed30b74e1cf3217b5", null ],
-    [ "HandleKillImpl", "d4/d2c/a24173.html#a6cd61b99305a2838261e36652fda42b1", null ],
-    [ "HandlePlayerEnterZone", "d4/d2c/a24173.html#a8c0eb1c295f389273cf2b2c7b35c9538", null ],
-    [ "HandlePlayerLeaveZone", "d4/d2c/a24173.html#a93105e3229db7798ad882fc7e538b250", null ],
-    [ "SendRemoveWorldStates", "d4/d2c/a24173.html#aba24e6285ac45dd0594f557d5830ba7c", null ],
-    [ "SetAllianceTowersControlled", "d4/d2c/a24173.html#ab7e230cfa2f06fa450ca40c381491c85", null ],
-    [ "SetHordeTowersControlled", "d4/d2c/a24173.html#a27239875476bbce8ff18b30cdfe6815b", null ],
-    [ "SetupOutdoorPvP", "d4/d2c/a24173.html#a7e71d2c2480da1a2d155981999201b99", null ],
-    [ "Update", "d4/d2c/a24173.html#acd93bd13cf330ec86dde30ff9c6306de", null ],
-    [ "m_AllianceTowersControlled", "d4/d2c/a24173.html#aff4124f54572e0812c39562fbc6390c3", null ],
-    [ "m_GraveYard", "d4/d2c/a24173.html#ae0c3a1c02e364d63f1579c368fe7df8e", null ],
-    [ "m_HordeTowersControlled", "d4/d2c/a24173.html#ad5609bc0c13d193d16560045aa4b0c71", null ]
+    [ "dragonmaw_race_npc", "d4/d2c/a24173.html#ad93bcd14a4fd05c9e8a1aee4dd53d4aa", null ],
+    [ "FailQuest", "d4/d2c/a24173.html#a15a1223f9dc5d3979485a753687f169e", null ],
+    [ "FinishRace", "d4/d2c/a24173.html#a2439f54aca4ff28c23d351245099a4fc", null ],
+    [ "MovementInform", "d4/d2c/a24173.html#ad0b4ef357605a44a4188c29292303dcf", null ],
+    [ "PathEndReached", "d4/d2c/a24173.html#a6b93a5fb6beb8e8b886f6bf8bb58d3d2", null ],
+    [ "Reset", "d4/d2c/a24173.html#a0edde2bdb8d4d2204551ebc7a7c41fe9", null ],
+    [ "sQuestAccept", "d4/d2c/a24173.html#a539fcaf1dc25a34531d032032c19182e", null ],
+    [ "StartRace", "d4/d2c/a24173.html#ac7d20cb0f2a997d2306195da5c9004e8", null ],
+    [ "StartRaceAttacks", "d4/d2c/a24173.html#a341528843b89a29711f60a1b932da616", null ],
+    [ "TakeOff", "d4/d2c/a24173.html#a8b14aeb1e67059a159f42aad578ccbfb", null ],
+    [ "UpdateAI", "d4/d2c/a24173.html#a5d84467b3fa0c3eefcf7054d0dde472c", null ],
+    [ "_playerGUID", "d4/d2c/a24173.html#a8a172511afed700d5c0fa1d5de4cb379", null ]
 ];

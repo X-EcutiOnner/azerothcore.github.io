@@ -1,6 +1,11 @@
 var a07505 =
 [
-    [ "value_type", "da/d0a/a07505.html#a39c517c76f9109f1bccd27cd04ec88cd", null ],
-    [ "StoreTo", "da/d0a/a07505.html#a5658d34ee9af224a3d19ba5d5123535e", null ],
-    [ "tag", "da/d0a/a07505.html#a3538ae91cb7d37c3d0a6a4964f4baaf9", null ]
+    [ "wrapper_func", "da/d0a/a07505.html#a4ebb895343c2cfae053a605aafe0e461", null ],
+    [ "CommandInvoker", "da/d0a/a07505.html#a6541779cccd36a87d65acc1b6a9725e2", null ],
+    [ "CommandInvoker", "da/d0a/a07505.html#ad941d54b994fbfe0f572348d18a790be", null ],
+    [ "CommandInvoker", "da/d0a/a07505.html#a6b693468375cc6b92870194e10eb4140", null ],
+    [ "operator bool", "da/d0a/a07505.html#aa00bfcf3938781f5e454f7acddb12e7e", null ],
+    [ "operator()", "da/d0a/a07505.html#a611756a2205ffb2bccabb53929a4644b", null ],
+    [ "_handler", "da/d0a/a07505.html#af9bece7be346ed85c5b45cc07c7b176a", null ],
+    [ "_wrapper", "da/d0a/a07505.html#a1605d492889200f2d18d6759882913aa", null ]
 ];

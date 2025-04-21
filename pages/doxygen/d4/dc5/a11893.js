@@ -1,8 +1,6 @@
 var a11893 =
 [
-    [ "FilterTargets", "d4/dc5/a11893.html#a03acb7fb2734d9c8e8e623600bc16859", null ],
-    [ "FilterTargetsEff", "d4/dc5/a11893.html#a8aeffd2a01c805246c33d22a59274c6f", null ],
-    [ "PrepareSpellScript", "d4/dc5/a11893.html#ae00bc9956c9971d62d9185c72d3bd8b5", null ],
-    [ "Register", "d4/dc5/a11893.html#aba646a238c3b4b7343f3eec8c6445eb5", null ],
-    [ "targetList", "d4/dc5/a11893.html#a874dc7877ecfae332c9f826f01afce0f", null ]
+    [ "boss_high_interrogator_gerstahnAI", "da/dde/a11897.html", "da/dde/a11897" ],
+    [ "boss_high_interrogator_gerstahn", "d4/dc5/a11893.html#a700eb542c041e9ca540f2676fc42aff9", null ],
+    [ "GetAI", "d4/dc5/a11893.html#ab4e92847a1ce6bf50f0ae460c1a7108f", null ]
 ];

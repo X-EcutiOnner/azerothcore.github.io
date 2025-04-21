@@ -1,6 +1,6 @@
 var a21693 =
 [
-    [ "npc_ulduar_vx001AI", "d2/d2b/a21697.html", "d2/d2b/a21697" ],
-    [ "npc_ulduar_vx001", "da/df7/a21693.html#ae8393c02c94a94b0847e0c7837bc5469", null ],
-    [ "GetAI", "da/df7/a21693.html#acdab817141b851deb09861230323ee58", null ]
+    [ "HandleSendEvent", "da/df7/a21693.html#a8b8276833404f3f69c3b7f97d95b6982", null ],
+    [ "PrepareSpellScript", "da/df7/a21693.html#aa632d381ac415feaf226f55fc2cd8520", null ],
+    [ "Register", "da/df7/a21693.html#a72673f5054cf269cc8da511441f7bd66", null ]
 ];

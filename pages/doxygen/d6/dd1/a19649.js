@@ -1,5 +1,6 @@
 var a19649 =
 [
-    [ "at_icc_saurfang_portal", "d6/dd1/a19649.html#a7f30058251c520634a0b7bad08380e5d", null ],
-    [ "OnTrigger", "d6/dd1/a19649.html#a8980fe0e67aa33335f0fdb947a294213", null ]
+    [ "PrepareSpellScript", "d6/dd1/a19649.html#af280f3880e2e567188ba8ca3e45c00c0", null ],
+    [ "RecalculateDamage", "d6/dd1/a19649.html#a54c26d24f62c36108f9fceb7a0c53e37", null ],
+    [ "Register", "d6/dd1/a19649.html#aac131aa2d2e5342cf0303b918a077b45", null ]
 ];

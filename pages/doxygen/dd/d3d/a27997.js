@@ -1,6 +1,8 @@
 var a27997 =
 [
-    [ "HandleFinish", "dd/d3d/a27997.html#a53263ce51581f36c2df80b49c93fa9d3", null ],
-    [ "PrepareSpellScript", "dd/d3d/a27997.html#a8113f61816473399f0ceab18b104d058", null ],
-    [ "Register", "dd/d3d/a27997.html#a36bf50cdb7be7ba03eafd4848c6ceced", null ]
+    [ "difficulty", "dd/d3d/a27997.html#a2a04df701c13dc49053b09a9587a72a8", null ],
+    [ "encounterIndex", "dd/d3d/a27997.html#a3d35560824a3aaeecb8db4bf8628ebfd", null ],
+    [ "encounterName", "dd/d3d/a27997.html#af4f26f56526b945e392ddaf6b2d43fa1", null ],
+    [ "id", "dd/d3d/a27997.html#aa9828ccc644a11f9cb35fbcc7d31a827", null ],
+    [ "mapId", "dd/d3d/a27997.html#a61c1ac724c8eb96907d2ea9402a8f9ce", null ]
 ];

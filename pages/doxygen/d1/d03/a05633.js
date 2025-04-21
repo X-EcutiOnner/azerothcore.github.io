@@ -1,11 +1,8 @@
 var a05633 =
 [
-    [ "AppliedFileEntry", "d1/d03/a05633.html#ac925dd4c2f889ae84e8be8cba9a0ef06", null ],
-    [ "GetStateAsString", "d1/d03/a05633.html#a803f0ee67f0d3944b0933cf97723b5d3", null ],
-    [ "StateConvert", "d1/d03/a05633.html#a16274f0e9e6669be265ba75f79c4b10f", null ],
-    [ "StateConvert", "d1/d03/a05633.html#ac35fc4abcc60015c56765ceebc6fdb8f", null ],
-    [ "hash", "d1/d03/a05633.html#af39f798a10c2675e870d4d62f1d0a10c", null ],
-    [ "name", "d1/d03/a05633.html#a8fc429eae6816054b5828952a5698a4c", null ],
-    [ "state", "d1/d03/a05633.html#a7899f60d95db04e776b7ccfbc1003cfb", null ],
-    [ "timestamp", "d1/d03/a05633.html#a13703e88b76f26858696b33a8bc8f862", null ]
+    [ "BaseSocketMgr", "d1/d03/a05633.html#a55ca5c800a783d89fbe05bd945374b84", null ],
+    [ "CreateThreads", "d1/d03/a05633.html#a98a0866ae616017010f639f0ad9fc72d", null ],
+    [ "Instance", "d1/d03/a05633.html#a9c56ed247f209709221a3e592f4d010f", null ],
+    [ "OnSocketAccept", "d1/d03/a05633.html#ac8169c9c11a33336d08acb0532e917bc", null ],
+    [ "StartNetwork", "d1/d03/a05633.html#a345e4f8cc1c216ed7eb9c3e96748170f", null ]
 ];

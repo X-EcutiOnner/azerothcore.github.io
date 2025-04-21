@@ -1,6 +1,7 @@
 var a26297 =
 [
-    [ "HandleAfterCast", "d5/d59/a26297.html#aaa65e67362ded5318e89272acf073bf3", null ],
-    [ "PrepareSpellScript", "d5/d59/a26297.html#a7d0dd936965845c14e7b54846facdb89", null ],
-    [ "Register", "d5/d59/a26297.html#ab7b767743d62d9763bea710b7552a8cf", null ]
+    [ "HandleDummy", "d5/d59/a26297.html#aa9b579a8a7a23b94d9a2c8c7f932ff78", null ],
+    [ "PrepareSpellScript", "d5/d59/a26297.html#ae1dfa086c89a4180d42d231064d88602", null ],
+    [ "Register", "d5/d59/a26297.html#a256c152beadbfce6bf245779295b8758", null ],
+    [ "Validate", "d5/d59/a26297.html#acb4144be3326bcaae9c559d8e7b9d7ec", null ]
 ];

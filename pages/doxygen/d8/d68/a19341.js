@@ -1,6 +1,7 @@
 var a19341 =
 [
-    [ "npc_valithria_portalAI", "d6/d71/a19345.html", "d6/d71/a19345" ],
-    [ "npc_valithria_portal", "d8/d68/a19341.html#a6014d7a57dfe5d21f63c03b3efcbdfc8", null ],
-    [ "GetAI", "d8/d68/a19341.html#a9770ad0bc3732f2271876bbc84885dc0", null ]
+    [ "HandleProc", "d8/d68/a19341.html#adb7714eca4c317ab76db0ecbc813669e", null ],
+    [ "PrepareAuraScript", "d8/d68/a19341.html#a70f2c5c4656abb4798ad39b015fc2a9a", null ],
+    [ "Register", "d8/d68/a19341.html#a445ce7331c36e507aa24466ff9a67781", null ],
+    [ "Validate", "d8/d68/a19341.html#ad0e44f34d7bd1671ef7dcc2165abaa66", null ]
 ];

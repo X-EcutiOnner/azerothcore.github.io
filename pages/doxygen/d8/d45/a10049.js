@@ -1,14 +1,17 @@
 var a10049 =
 [
-    [ "ScriptMap", "d8/d45/a10049.html#a0f8009ac0cd91574f0bf4ac92ef90ce0", null ],
-    [ "ScriptMapIterator", "d8/d45/a10049.html#ad1fcde41ec854314c5e1cc50b916ac5d", null ],
-    [ "ScriptVector", "d8/d45/a10049.html#a5876f034e4de24505e751d56f335331d", null ],
-    [ "ScriptVectorIterator", "d8/d45/a10049.html#ac0554c5200368592f5d0bfb1025935fe", null ],
-    [ "_checkMemory", "d8/d45/a10049.html#a8d784f25a47c9ca4be72fca0215bf1c8", null ],
-    [ "AddALScripts", "d8/d45/a10049.html#aa86b74a2560deae81f5c2a38cf1f72c8", null ],
-    [ "AddScript", "d8/d45/a10049.html#aec80d2fe317ee906bafab2efc75e752c", null ],
-    [ "GetScriptById", "d8/d45/a10049.html#a22226c545e7975d4c612e7adcc766d05", null ],
-    [ "_scriptIdCounter", "d8/d45/a10049.html#aa66e44e9291be980d12f4167f699c680", null ],
-    [ "ALScripts", "d8/d45/a10049.html#ad682a00d81d0418574a02a0020f4a80a", null ],
-    [ "ScriptPointerList", "d8/d45/a10049.html#a57e93b2fa2db2a29fa4c12714e217d43", null ]
+    [ "MoveSplineInitArgs", "d8/d45/a10049.html#aa2b6c8940e7dc8bdd4ea6047a5ff1a68", null ],
+    [ "_checkPathBounds", "d8/d45/a10049.html#a984db18cdbd061605a9d486b061dc7c0", null ],
+    [ "Validate", "d8/d45/a10049.html#a17beca23a7a7eaa298debb5e9638daca", null ],
+    [ "facing", "d8/d45/a10049.html#a8800fca5b50ab5123e92b28e921ec8b0", null ],
+    [ "flags", "d8/d45/a10049.html#ac4271ed0434fc8e7f7a70e8869d81a0e", null ],
+    [ "HasVelocity", "d8/d45/a10049.html#acad05815ff039fe1fea3d7cf56afb4f2", null ],
+    [ "initialOrientation", "d8/d45/a10049.html#ab0b66cba791fc206be5b64310480cb88", null ],
+    [ "parabolic_amplitude", "d8/d45/a10049.html#a133d1d0172fde0564a58a004cb354ed0", null ],
+    [ "path", "d8/d45/a10049.html#a3857df1ab2d6dafef4a6d796e6593341", null ],
+    [ "path_Idx_offset", "d8/d45/a10049.html#a6b6aaf43685649798db46d7b409d3e32", null ],
+    [ "splineId", "d8/d45/a10049.html#ac8c84e828c23801a68524c9811f0336b", null ],
+    [ "time_perc", "d8/d45/a10049.html#afe51d24d71b71e87015eeb4851418503", null ],
+    [ "TransformForTransport", "d8/d45/a10049.html#ad9e8518e61b2f5f6ff8380518a6ad0cc", null ],
+    [ "velocity", "d8/d45/a10049.html#af042454593bfd4dc888c1700af437933", null ]
 ];

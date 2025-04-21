@@ -1,10 +1,10 @@
 var a07257 =
 [
-    [ "InvokerEntry", "d4/d49/a07257.html#aa195cc806a02e56a8125bfc039b83c37", null ],
-    [ "InvokerEntry", "d4/d49/a07257.html#ab0ae915bcd0b6cb738f66398ba06bd63", null ],
-    [ "InvokerEntry", "d4/d49/a07257.html#ae0b19dcb745635a783d52bae6f237b47", null ],
-    [ "operator*", "d4/d49/a07257.html#ae42d24aad13fe622f6d5ec35d72c1c96", null ],
-    [ "_help", "d4/d49/a07257.html#a107ccda1e3b21600fd133a243a8d2c9c", null ],
-    [ "_invoker", "d4/d49/a07257.html#a1f9da7b4e2a968b1cf51b227c79f0d1d", null ],
-    [ "_permissions", "d4/d49/a07257.html#a9567278ccb4896bcb2e8293df0ab909f", null ]
+    [ "ArenaLogEntryData", "d4/d49/a07257.html#a8f3ec057dd930d2f2acd7961e0cf4e5e", null ],
+    [ "Fill", "d4/d49/a07257.html#aa3cca4521431bf152550611549bf4bbe", null ],
+    [ "Acc", "d4/d49/a07257.html#aa8983930063298c86f4635d2ae3078fe", null ],
+    [ "ArenaTeamId", "d4/d49/a07257.html#ac764620c3c8a986286fd74062dac4645", null ],
+    [ "Guid", "d4/d49/a07257.html#a03b32cd44c655dcc9104aead3b76454e", null ],
+    [ "IP", "d4/d49/a07257.html#ab9f80eacfe24025a2d4947085d3f6dd7", null ],
+    [ "Name", "d4/d49/a07257.html#a5c18d554adb9e38ab10baf36c9b3fdd7", null ]
 ];

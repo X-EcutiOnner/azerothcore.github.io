@@ -1,11 +1,12 @@
 var a22213 =
 [
-    [ "boss_yoggsaron_llaneAI", "d3/d14/a22213.html#a8524834b7dff49844d96b7dc49fd265d", null ],
-    [ "NextStep", "d3/d14/a22213.html#a6587e7873455950bda97b2a7d78e6fc5", null ],
-    [ "Reset", "d3/d14/a22213.html#a86f9d594562f842d478b63de18e52455", null ],
-    [ "Say", "d3/d14/a22213.html#ab619684f15f5325383a413dced7c930e", null ],
-    [ "UpdateAI", "d3/d14/a22213.html#a545378189f85968ac925baa06ad608b5", null ],
-    [ "_checkTimer", "d3/d14/a22213.html#aa4956f6943adce94a9ed4fec951317d6", null ],
-    [ "_running", "d3/d14/a22213.html#a6d6d186febc408ecb830bf7eea3c72bd", null ],
-    [ "_step", "d3/d14/a22213.html#a718c0bf307934b9ee9cbb933899c6324", null ]
+    [ "npc_icefangAI", "d3/d14/a22213.html#ab74b58a77e3c1349ed308f7febef794a", null ],
+    [ "AttackStart", "d3/d14/a22213.html#a56615ecdb45389aa793374d26a636d45", null ],
+    [ "EnterEvadeMode", "d3/d14/a22213.html#a1465c4779ea8b080f934163c8db6c99c", null ],
+    [ "JustDied", "d3/d14/a22213.html#a3140c8306a384833cca1580ad964d73a", null ],
+    [ "JustEngagedWith", "d3/d14/a22213.html#a8455dd4afb5ef5a694ca9237848df907", null ],
+    [ "OnCharmed", "d3/d14/a22213.html#ad7f3465f5730cd9ebd42bb4092ec8e68", null ],
+    [ "PassengerBoarded", "d3/d14/a22213.html#acf6e8e273830d022eaca3a28a4bd5320", null ],
+    [ "UpdateAI", "d3/d14/a22213.html#ab4d752f2273062c48339b53e611e617c", null ],
+    [ "WaypointReached", "d3/d14/a22213.html#ae315a1d22317edb2864e4d796f808ffb", null ]
 ];

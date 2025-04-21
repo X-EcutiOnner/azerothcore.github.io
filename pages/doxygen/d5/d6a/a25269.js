@@ -1,6 +1,9 @@
 var a25269 =
 [
-    [ "HandleScriptEffect", "d5/d6a/a25269.html#af0841e5c67c981b792a8d8f0d0d18edc", null ],
-    [ "PrepareSpellScript", "d5/d6a/a25269.html#a287bff28e57a86f0176921500de78fa9", null ],
-    [ "Register", "d5/d6a/a25269.html#ad5fb101794dfdef0c08551dd9397b965", null ]
+    [ "spell_gen_translocate", "d5/d6a/a25269.html#a56a3df0eba3e1521aa2898194c39e919", null ],
+    [ "HandleScript", "d5/d6a/a25269.html#a67684fb76da60fdc13dbece055dae157", null ],
+    [ "PrepareSpellScript", "d5/d6a/a25269.html#a6f0986e54ad410c2f42a7935645485ed", null ],
+    [ "Register", "d5/d6a/a25269.html#abbbcd1fdefbbd1778667ee69d449d63b", null ],
+    [ "Validate", "d5/d6a/a25269.html#a0ae40ad6153a98dcd98cdfebeb515faf", null ],
+    [ "_spellId", "d5/d6a/a25269.html#a01e4c84404734b7da1bf5f31cb097e58", null ]
 ];

@@ -1,7 +1,6 @@
 var a25381 =
 [
-    [ "HandleEffectRemove", "d1/d15/a25381.html#ae7c54bffb68953164c5ebaae6a80ff64", null ],
-    [ "PrepareAuraScript", "d1/d15/a25381.html#a410743e08d41ccfdd7cf964a91487949", null ],
-    [ "Register", "d1/d15/a25381.html#a75caf14574a9146a8ea5e123f706fc73", null ],
-    [ "AuraEffectHandleModes", "d1/d15/a25381.html#a3abc12e53e7fdf0f031aad9f3b41a399", null ]
+    [ "CheckCast", "d1/d15/a25381.html#ac1bc3f881c31c5ab90785a62a5f5b5ae", null ],
+    [ "PrepareSpellScript", "d1/d15/a25381.html#a2a9c657ccffbacfc661c6bb1dc41d9de", null ],
+    [ "Register", "d1/d15/a25381.html#a4b34bd5ce9d3e948d6c712d71ed71b2d", null ]
 ];

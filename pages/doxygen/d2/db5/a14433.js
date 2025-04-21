@@ -1,5 +1,6 @@
 var a14433 =
 [
-    [ "npc_pilgrims_bounty_plate", "d2/db5/a14433.html#ac0217b8fb3a0fbf418ce2d3ca286f2eb", null ],
-    [ "SpellHit", "d2/db5/a14433.html#a7797b7a532336542ef37f0643df8dec0", null ]
+    [ "OnAuraRemove", "d2/db5/a14433.html#ad16e8b64999771154360afad71454c07", null ],
+    [ "PrepareAuraScript", "d2/db5/a14433.html#a70963be80861e10ecd093e40b77e7078", null ],
+    [ "Register", "d2/db5/a14433.html#a7381cbea873fb57485e4539aa478d236", null ]
 ];

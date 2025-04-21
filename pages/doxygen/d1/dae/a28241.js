@@ -1,6 +1,7 @@
 var a28241 =
 [
-    [ "ModDest", "d1/dae/a28241.html#ab03387aec0a02a6b3bac1014443554b6", null ],
-    [ "PrepareSpellScript", "d1/dae/a28241.html#a53f7da301759fb18686bc73281c4a321", null ],
-    [ "Register", "d1/dae/a28241.html#a266198fbc6203517f9845ef6212ddf13", null ]
+    [ "ID", "d1/dae/a28241.html#aa5db020808990dc98fc143e4a5e0d2b2", null ],
+    [ "RadiusMax", "d1/dae/a28241.html#ab82c1acb9309b17104958182d80b01d1", null ],
+    [ "RadiusMin", "d1/dae/a28241.html#acaee7da373b94a262e01d4bd3bea4f08", null ],
+    [ "RadiusPerLevel", "d1/dae/a28241.html#a74bb59afb808af45ceff6367468fca1e", null ]
 ];

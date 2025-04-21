@@ -1,19 +1,13 @@
 var a23093 =
 [
-    [ "npc_thassarian2AI", "de/d6d/a23093.html#ab1faae7ecc94a8781d5759de775ff9ba", null ],
-    [ "Cleanup", "de/d6d/a23093.html#a26730ec8ec6180a0dd7798797ba8dcd6", null ],
-    [ "Initialize", "de/d6d/a23093.html#aba9c197fb4ab9bb3fc63cf36e36747f5", null ],
-    [ "JustDied", "de/d6d/a23093.html#aa6b70b2bc438ff98a0c1da7898dc4b9b", null ],
-    [ "MovementInform", "de/d6d/a23093.html#abedd9b40189426c907473c5fb47d3a0d", null ],
-    [ "Reset", "de/d6d/a23093.html#a1bee1fb354dbf4a08c5a8f3a88bbf044", null ],
-    [ "SetData", "de/d6d/a23093.html#a7481081c44c4e092b700c449677da01f", null ],
-    [ "sGossipHello", "de/d6d/a23093.html#a12cfc66cb8ac02dbc088110576ee2460", null ],
-    [ "sGossipSelect", "de/d6d/a23093.html#a680dfc7280a3ef425de8b62eb38e6e21", null ],
-    [ "UpdateAI", "de/d6d/a23093.html#a9a1e96659da31040d41a9898d7e59db5", null ],
-    [ "_arlosGUID", "de/d6d/a23093.html#a6142b1e8045123a7eef1e546bda09943", null ],
-    [ "_arthasGUID", "de/d6d/a23093.html#a0e9aff1cc0c5cb9c266916536782332f", null ],
-    [ "_events", "de/d6d/a23093.html#a6b277a2de46cdeada7045b2b3826fd03", null ],
-    [ "_leryssaGUID", "de/d6d/a23093.html#a489159972b4e0cce65d12477e1031fcd", null ],
-    [ "_playerGUID", "de/d6d/a23093.html#af73af26991dcd12173a50883fe82627e", null ],
-    [ "_talbotGUID", "de/d6d/a23093.html#af148fd3e767999c8ebd4aa3b6eff0d3b", null ]
+    [ "npc_inner_demon", "de/d6d/a23093.html#a12063a0125e0e9b5ba5a73f669bfcd84", null ],
+    [ "CanAIAttack", "de/d6d/a23093.html#a7498fd32b0ace832b38dc624d07478ed", null ],
+    [ "CanBeSeen", "de/d6d/a23093.html#a5e61d5fc45bf95efaa06f81df58b5fab", null ],
+    [ "CanReceiveDamage", "de/d6d/a23093.html#a7b0bc55f8dfbba2dc3a3b7d314083bc2", null ],
+    [ "IsSummonedBy", "de/d6d/a23093.html#a5ed405dd9315cb255d14d3e5f808dc9d", null ],
+    [ "JustDied", "de/d6d/a23093.html#a15ab3cd6576055ec7ba29a5ed44e73db", null ],
+    [ "OnCalculateMeleeDamageReceived", "de/d6d/a23093.html#ae95022548b44b23ef93fae24729b5af5", null ],
+    [ "OnCalculatePeriodicTickReceived", "de/d6d/a23093.html#a546281a2257d0407d294fba1f7d3426f", null ],
+    [ "OnCalculateSpellDamageReceived", "de/d6d/a23093.html#aa40ee81a4456e1a1f7254d2169f50e88", null ],
+    [ "UpdateAI", "de/d6d/a23093.html#a977a76b54c4eae6461559d7b15cfc4b2", null ]
 ];

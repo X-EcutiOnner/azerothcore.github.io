@@ -1,13 +1,15 @@
 var a05217 =
 [
-    [ "Logger", "d9/d28/a05217.html#a79033d763c69dbfb95b1c591f1cc680b", null ],
-    [ "addAppender", "d9/d28/a05217.html#aabacae0a84994e5567f9c87829909fdd", null ],
-    [ "delAppender", "d9/d28/a05217.html#a1fb8747bf7b652b9dfbf9ee830a82c8b", null ],
-    [ "getLogLevel", "d9/d28/a05217.html#aba945b0f037b7de27976d3a6e1a0fbbd", null ],
-    [ "getName", "d9/d28/a05217.html#ae95167d7bb330ecc0a49779a5635d1e2", null ],
-    [ "setLogLevel", "d9/d28/a05217.html#a00fdcdbeb39a2d5d4fb27cc36c35c101", null ],
-    [ "write", "d9/d28/a05217.html#a3627f98e8676ee7b68a34a4d9439082e", null ],
-    [ "appenders", "d9/d28/a05217.html#aa93931f2386ebc6dbf2464f536ed54f9", null ],
-    [ "level", "d9/d28/a05217.html#a3b1d9dd7bd391ac7bed560918f82a03b", null ],
-    [ "name", "d9/d28/a05217.html#ada299a7dd268085371557213e36695a9", null ]
+    [ "iterator", "d9/d28/a05217.html#a301cf316e15e5f55046c1c25ef2a4f5b", null ],
+    [ "RefMgr", "d9/d28/a05217.html#a72110d71a275f564d31d2e6c84c331c3", null ],
+    [ "~RefMgr", "d9/d28/a05217.html#ab386dd35fa62dbf7f1ba2131e6e99f7c", null ],
+    [ "begin", "d9/d28/a05217.html#aacaf11c49931c87bd52b8382065447d3", null ],
+    [ "clearReferences", "d9/d28/a05217.html#a912750f6257a33cd1f85079448b45928", null ],
+    [ "end", "d9/d28/a05217.html#aab6573a792b9b24c3dc4a690c6ff77d9", null ],
+    [ "getFirst", "d9/d28/a05217.html#a67de35d375c34c38db2b87481a141ebf", null ],
+    [ "getFirst", "d9/d28/a05217.html#a2636030fdcd2312e7c2556c2da3ef948", null ],
+    [ "getLast", "d9/d28/a05217.html#a6695bac4fd79bb428fd1f6a72ad6c3e3", null ],
+    [ "getLast", "d9/d28/a05217.html#afab4e70c39d83e38048c5fe80166e5fa", null ],
+    [ "rbegin", "d9/d28/a05217.html#a4c64b9aad3611aff0d1c419b5d5fa8f0", null ],
+    [ "rend", "d9/d28/a05217.html#ae5ef045c8e3bbce625ffdc2c075b90c2", null ]
 ];

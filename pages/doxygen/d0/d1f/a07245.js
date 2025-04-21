@@ -1,7 +1,10 @@
 var a07245 =
 [
-    [ "CommandPermissions", "d0/d1f/a07245.html#ad1242d9067778298c44501b5d5a962f8", null ],
-    [ "CommandPermissions", "d0/d1f/a07245.html#a47f284c63f10b6c3479624845b696aa6", null ],
-    [ "AllowConsole", "d0/d1f/a07245.html#a8b419033e8dff0307a22a32bc57a1dc8", null ],
-    [ "RequiredLevel", "d0/d1f/a07245.html#a4918f2c3b1913eb76d09d859479ebbae", null ]
+    [ "BattlegroundChatBuilder", "d0/d1f/a07245.html#ad5ae3b91e81f816ca49f9358222c8b06", null ],
+    [ "do_helper", "d0/d1f/a07245.html#aaeb91b7fa2efe1dd36802851e204c9c8", null ],
+    [ "operator()", "d0/d1f/a07245.html#ab84296c320b09a387de6e6e6a2326b83", null ],
+    [ "_args", "d0/d1f/a07245.html#a32a72bf1110179cc58dcf2df914c7389", null ],
+    [ "_msgtype", "d0/d1f/a07245.html#ae73b69d72ddee4e05bb8b634a91e13b7", null ],
+    [ "_source", "d0/d1f/a07245.html#aaed8a84ac72a01824d7d7fc2ea17c9af", null ],
+    [ "_textId", "d0/d1f/a07245.html#a218d6cc2e99a6170b1a548fc1531e2e7", null ]
 ];

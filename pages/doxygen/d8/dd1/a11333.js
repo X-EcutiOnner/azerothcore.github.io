@@ -1,8 +1,10 @@
 var a11333 =
 [
-    [ "pet_commandscript", "d8/dd1/a11333.html#a84595dcb908398e80deee0b0aa47e335", null ],
-    [ "GetCommands", "d8/dd1/a11333.html#a01026a4936774d2225d10e0f6e27b08c", null ],
-    [ "HandlePetCreateCommand", "d8/dd1/a11333.html#a993d06169aa0b0c4bbda38e124b6eea9", null ],
-    [ "HandlePetLearnCommand", "d8/dd1/a11333.html#a59a2a6bd9af23fe3a775319216337bda", null ],
-    [ "HandlePetUnlearnCommand", "d8/dd1/a11333.html#ae6d785cdde773b107ba5e619b039f7b8", null ]
+    [ "AcoreStringChatBuilder", "d8/dd1/a11333.html#a7e280083c80fd119d365649fd4578fc9", null ],
+    [ "operator()", "d8/dd1/a11333.html#a09a2a03dca2b8470cd1d1f7c8273868b", null ],
+    [ "_args", "d8/dd1/a11333.html#aa92a28b7d6a7dd59ea7da3a76c1fb4cc", null ],
+    [ "_msgType", "d8/dd1/a11333.html#adbabf871f33692b0ecddc8cc0fb75586", null ],
+    [ "_source", "d8/dd1/a11333.html#ac5222737ea1b95b6d75afc532838f8be", null ],
+    [ "_target", "d8/dd1/a11333.html#ab659b7c7bd6426a023cf8668322327b8", null ],
+    [ "_textId", "d8/dd1/a11333.html#a3d29de9c5d80c3df488aa01fa380a84a", null ]
 ];

@@ -1,5 +1,7 @@
 var a23989 =
 [
-    [ "achievement_wg_didnt_stand_a_chance", "de/d44/a23989.html#afb397c74f00d1f5c59a24ef74b0cd1cd", null ],
-    [ "OnCheck", "de/d44/a23989.html#ae575bae454689e05c161e8480a13fa18", null ]
+    [ "npc_kurenai_captiveAI", "d0/d13/a23993.html", "d0/d13/a23993" ],
+    [ "npc_kurenai_captive", "de/d44/a23989.html#ae0e283bfc476f2d9e602158fa8720cdc", null ],
+    [ "GetAI", "de/d44/a23989.html#ad6f9abf280ca7c3a1b16f7e4815fb979", null ],
+    [ "OnQuestAccept", "de/d44/a23989.html#a7ecdb782bf084f3fd0f9dc3e2e10bf4a", null ]
 ];

@@ -1,6 +1,6 @@
 var a13133 =
 [
-    [ "boss_kiljaedenAI", "d3/d95/a13137.html", "d3/d95/a13137" ],
-    [ "boss_kiljaeden", "d0/d5f/a13133.html#a39d7df3ec03957037cf506561ba01edf", null ],
-    [ "GetAI", "d0/d5f/a13133.html#ada2fb5c89ef8d27b07f131a828aae276", null ]
+    [ "HandleSendEvent", "d0/d5f/a13133.html#ad245a7dcf129774b8ef3e3653b3e3026", null ],
+    [ "PrepareSpellScript", "d0/d5f/a13133.html#ad9dfe5b2702540eb119ec86cfbd0ff30", null ],
+    [ "Register", "d0/d5f/a13133.html#a0b5ac8cfc4eb4adadb653a81a59a8287", null ]
 ];

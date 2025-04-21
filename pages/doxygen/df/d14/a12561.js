@@ -1,7 +1,6 @@
 var a12561 =
 [
-    [ "npc_scarlet_cannonAI", "df/d14/a12561.html#a26720b34088b8063544f8c5db3b8d67c", null ],
-    [ "PassengerBoarded", "df/d14/a12561.html#a71241dfc9b3ebe1f664d0adf03439c41", null ],
-    [ "UpdateAI", "df/d14/a12561.html#a18ebb585e9b83f3781d3c49de5dc73b5", null ],
-    [ "summonAttackers", "df/d14/a12561.html#a9e8eeb6995dae9a9d9ec3cb0ca6a07f5", null ]
+    [ "HandleDummy", "df/d14/a12561.html#a9551867737eea27a9acf2d3d475e9b3c", null ],
+    [ "PrepareSpellScript", "df/d14/a12561.html#a3e14dd6a6f26a163282846f714e2ffb5", null ],
+    [ "Register", "df/d14/a12561.html#a7be884a657889e1b18d1499c8a053c18", null ]
 ];

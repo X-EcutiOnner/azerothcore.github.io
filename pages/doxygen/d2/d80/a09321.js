@@ -1,7 +1,9 @@
 var a09321 =
 [
-    [ "LootView", "d2/d80/a09321.html#a4cfc8ca1034e941a85d2955f38b2e894", null ],
-    [ "loot", "d2/d80/a09321.html#ac95fa4805c79923b292e8984b00de929", null ],
-    [ "permission", "d2/d80/a09321.html#a33d7eeebd6fbc854300275a4138d9030", null ],
-    [ "viewer", "d2/d80/a09321.html#af9a6926c6c871dee245f876038e49995", null ]
+    [ "AnyFriendlyUnitInObjectRangeCheck", "d2/d80/a09321.html#a4ed3a469f35cb7b64ad5f144281b7910", null ],
+    [ "operator()", "d2/d80/a09321.html#a6e1026191fd4b1b45696a60f45b1b7b8", null ],
+    [ "i_funit", "d2/d80/a09321.html#a9ebd1a1d9716dfda55509396947c1a83", null ],
+    [ "i_obj", "d2/d80/a09321.html#adacade7450b0af19540ea705e1bd438b", null ],
+    [ "i_playerOnly", "d2/d80/a09321.html#a6b0d852333ee74a20281ce7de5a45b98", null ],
+    [ "i_range", "d2/d80/a09321.html#a2af638499152888a698b0fc1570e46ed", null ]
 ];

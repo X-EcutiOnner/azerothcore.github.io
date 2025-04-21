@@ -1,7 +1,12 @@
 var a19449 =
 [
-    [ "HandleForceCast", "d0/d4d/a19449.html#a662dc95948eebbccd5fa310d0438503e", null ],
-    [ "Load", "d0/d4d/a19449.html#a31c4c5d7107a31f9e8c581f8d3c04f73", null ],
-    [ "PrepareSpellScript", "d0/d4d/a19449.html#a6255f0adcb0ee7642f8e58ee1527dad4", null ],
-    [ "Register", "d0/d4d/a19449.html#a7744a18d51f12b259ce5c649af8a8d95", null ]
+    [ "npc_hol_monumentAI", "d0/d4d/a19449.html#a4a59b95e32acf8920082e4159b7e384c", null ],
+    [ "AttackStart", "d0/d4d/a19449.html#a6db6528cf3d53bc6de9caf55fb18a28b", null ],
+    [ "JustEngagedWith", "d0/d4d/a19449.html#a105f8e66ba3cf752af455c787df7568e", null ],
+    [ "MoveInLineOfSight", "d0/d4d/a19449.html#ab37c5c22456c06f78b53505ae7973658", null ],
+    [ "Reset", "d0/d4d/a19449.html#a03dd56d6801194333288a2edc7ae4eaa", null ],
+    [ "UpdateAI", "d0/d4d/a19449.html#a7c911cf24b21c959ee5c62d664e1879a", null ],
+    [ "_attackGUID", "d0/d4d/a19449.html#a0421f258f2cd871ad1f87decf5e23bc8", null ],
+    [ "_isActive", "d0/d4d/a19449.html#a0993cfde30a492ae8dfeeda2e01a1124", null ],
+    [ "events", "d0/d4d/a19449.html#aeff0f7526f12f0e09e53c0e43a423799", null ]
 ];

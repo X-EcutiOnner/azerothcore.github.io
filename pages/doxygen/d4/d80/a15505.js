@@ -1,6 +1,6 @@
 var a15505 =
 [
-    [ "HandleDummy", "d4/d80/a15505.html#ae5a42e1b5327d86dd8fd6180a6067301", null ],
-    [ "PrepareSpellScript", "d4/d80/a15505.html#a895bdaafa904c7c20217446792044cab", null ],
-    [ "Register", "d4/d80/a15505.html#a064a83ca2e32684ceb006b756afb9310", null ]
+    [ "npc_custodian_of_timeAI", "d6/dc3/a15509.html", "d6/dc3/a15509" ],
+    [ "npc_custodian_of_time", "d4/d80/a15505.html#a6018b30119ce819853a3c662b3d5347e", null ],
+    [ "GetAI", "d4/d80/a15505.html#a57217b2dab1cab110f1c59526ca13c86", null ]
 ];

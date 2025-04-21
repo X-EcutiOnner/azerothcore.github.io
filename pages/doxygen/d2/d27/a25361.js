@@ -1,6 +1,8 @@
 var a25361 =
 [
-    [ "npc_millhouse_manastormAI", "dd/d98/a25365.html", "dd/d98/a25365" ],
-    [ "npc_millhouse_manastorm", "d2/d27/a25361.html#aebc8efc48d207ad7f1105fa636b9c104", null ],
-    [ "GetAI", "d2/d27/a25361.html#ac4516785f7daf544718fc201197ba977", null ]
+    [ "OnApply", "d2/d27/a25361.html#aeec705e572ce6aa870bb5cc048e02e75", null ],
+    [ "OnRemove", "d2/d27/a25361.html#a38399457b6cb8ebf4c5e457e0590cb1a", null ],
+    [ "PrepareAuraScript", "d2/d27/a25361.html#a8d0f2113c0212a24e94054f3f1db0ad3", null ],
+    [ "Register", "d2/d27/a25361.html#a673dc5619a33632ba3d3f1793c5cfdb4", null ],
+    [ "Validate", "d2/d27/a25361.html#a65722a9826b14dc90cc6df47655d3d6b", null ]
 ];

@@ -1,6 +1,6 @@
 var a15617 =
 [
-    [ "SpellId", "dc/d5a/a15617.html#a2c430be201c1fd866ee96224f1803a20", null ],
-    [ "Timer1", "dc/d5a/a15617.html#a9a35c148286e88f48b174be8b74fc5d0", null ],
-    [ "Timer2", "dc/d5a/a15617.html#a108dee679b1f5d9fb8351f7b4b4f3a56", null ]
+    [ "SayerEntry", "dc/d5a/a15617.html#a3f9e374ec2a49823d942c29572ac2fa0", null ],
+    [ "SayTimer", "dc/d5a/a15617.html#a942073f24fd12da712184243d9f098f2", null ],
+    [ "TextEntry", "dc/d5a/a15617.html#a360822e4c069be6019c0a465cb2499cf", null ]
 ];

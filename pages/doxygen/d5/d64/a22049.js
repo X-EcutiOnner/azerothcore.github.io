@@ -1,7 +1,9 @@
 var a22049 =
 [
-    [ "FilterTargets", "d5/d64/a22049.html#a9d09504e7ac08791d1ed9823e34fa78c", null ],
-    [ "PrepareSpellScript", "d5/d64/a22049.html#a99daa4a1f43a13f62ffa8d670b2ae07f", null ],
-    [ "RecalculateDamage", "d5/d64/a22049.html#a21c2ac73f4abaf4c8efb1096e97ee120", null ],
-    [ "Register", "d5/d64/a22049.html#a8325393c08a7550101b43bc60cfa6b4c", null ]
+    [ "npc_frostbrood_skytalonAI", "d5/d64/a22049.html#afc14c60466f9f0f1b20062758f18c00d", null ],
+    [ "IsSummonedBy", "d5/d64/a22049.html#a2c5729ee3371e562869878ff3a7b84bd", null ],
+    [ "MovementInform", "d5/d64/a22049.html#ae763333503176eb7e8ce407868243958", null ],
+    [ "SpellHit", "d5/d64/a22049.html#a24bb49f47dcf85c95039d0495a89e126", null ],
+    [ "UpdateAI", "d5/d64/a22049.html#a0ffc4cd2e9b61ad17c516f062d161feb", null ],
+    [ "events", "d5/d64/a22049.html#a8575d258d63e28626cffd7fc2160bee6", null ]
 ];

@@ -1,6 +1,7 @@
 var a19985 =
 [
-    [ "NotOnSameSide", "d9/d2d/a19985.html#ac3189b202a8c0ca4c8f52799ed54e284", null ],
-    [ "operator()", "d9/d2d/a19985.html#a59ea48b9633049180ec62d3616fe4dea", null ],
-    [ "m_inLiveSide", "d9/d2d/a19985.html#a77c1d18f54609a5f4da2e9c13f62293d", null ]
+    [ "boss_freya_healthy_sporeAI", "d9/d2d/a19985.html#a1f72bc2b113f3b909d44fd54fff87e31", null ],
+    [ "Reset", "d9/d2d/a19985.html#ad6d6562b5cc9f8232bdda99ec2204052", null ],
+    [ "UpdateAI", "d9/d2d/a19985.html#ace79c59d62e597ae31425b4006e1363f", null ],
+    [ "_despawnTimer", "d9/d2d/a19985.html#aaf65ef07480e5c634cc42dac0c7c734c", null ]
 ];

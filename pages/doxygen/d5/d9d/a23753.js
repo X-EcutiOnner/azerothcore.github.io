@@ -1,6 +1,7 @@
 var a23753 =
 [
-    [ "spell_q12620_the_lifewarden_wrath_SpellScript", "d2/d1e/a23757.html", "d2/d1e/a23757" ],
-    [ "spell_q12620_the_lifewarden_wrath", "d5/d9d/a23753.html#a21cf48eb5f37ca943dd768288b6bd836", null ],
-    [ "GetSpellScript", "d5/d9d/a23753.html#ac156cee7f59bc828a86db481874a9d10", null ]
+    [ "HandleEffect", "d5/d9d/a23753.html#ac0fb38f62cc9a41eb70b2ca951f9d1dc", null ],
+    [ "PrepareSpellScript", "d5/d9d/a23753.html#abbbffa0a53dc2a55df5e7b17a7f4d38f", null ],
+    [ "Register", "d5/d9d/a23753.html#ac406946bb793125d49006e3a877c9638", null ],
+    [ "SelectTarget", "d5/d9d/a23753.html#ac36f3d88a0ef8ccaee5bac17bffcaf49", null ]
 ];

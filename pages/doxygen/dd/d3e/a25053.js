@@ -1,6 +1,6 @@
 var a25053 =
 [
-    [ "HandleAfterRemove", "dd/d3e/a25053.html#a74610b06095572aa2c898cd84e0fb229", null ],
-    [ "PrepareAuraScript", "dd/d3e/a25053.html#ac0d686490ff37810e0116dea4d0b6077", null ],
-    [ "Register", "dd/d3e/a25053.html#aad72f4aaa19f92f7a71241311f5d0582", null ]
+    [ "HandleScriptEffect", "dd/d3e/a25053.html#a884d0f5f8bf0f3515b4fedd54dd20ebf", null ],
+    [ "PrepareSpellScript", "dd/d3e/a25053.html#a45151bb2eacdd642e8f11564d4ef0d65", null ],
+    [ "Register", "dd/d3e/a25053.html#ae01695fd336fca36a7d2569ca741fba5", null ]
 ];

@@ -1,9 +1,8 @@
 var a10017 =
 [
-    [ "TransportScript", "d7/d5b/a10017.html#a4b83123b122fa98831d304670a3de50a", null ],
-    [ "IsDatabaseBound", "d7/d5b/a10017.html#a956f0d757e5d974566fa8fac0df731e5", null ],
-    [ "OnAddCreaturePassenger", "d7/d5b/a10017.html#a5afb1f1dca2264089238ddd68b38a86d", null ],
-    [ "OnAddPassenger", "d7/d5b/a10017.html#a806f4829b47429900271f6dde7eaa625", null ],
-    [ "OnRelocate", "d7/d5b/a10017.html#a10334c1929c80fc80c76791cbd52f6dd", null ],
-    [ "OnRemovePassenger", "d7/d5b/a10017.html#a6d6a3af4fcde46101b78cfdb787a2248", null ]
+    [ "Location", "d7/d5b/a10017.html#a0c601d413eeb398eb75d386c264ef5ab", null ],
+    [ "Location", "d7/d5b/a10017.html#ae013ab2bf44bb250644573625bf93265", null ],
+    [ "Location", "d7/d5b/a10017.html#a0d50c28ba40b409a0c5a9776bfe8ef42", null ],
+    [ "Location", "d7/d5b/a10017.html#a1270aec177f47a607cb5a1472819c738", null ],
+    [ "orientation", "d7/d5b/a10017.html#a9fc2637d4441d90c528eaef0f0414b98", null ]
 ];

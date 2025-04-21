@@ -1,7 +1,7 @@
 var a09297 =
 [
-    [ "QuestItem", "d4/d21/a09297.html#a1d6e1d5de83a397b17115dbeba2a58b3", null ],
-    [ "QuestItem", "d4/d21/a09297.html#a51b978ee64ec979ebe097f3b3f4c3cd0", null ],
-    [ "index", "d4/d21/a09297.html#a0e48289882a1eabb6c8ff30032193bd2", null ],
-    [ "is_looted", "d4/d21/a09297.html#a48f2baabd2d5a07313dc38a27c6f4713", null ]
+    [ "FriendlyCCedInRange", "d4/d21/a09297.html#ae8dcff3f285f208b0db8aa3efed202a1", null ],
+    [ "operator()", "d4/d21/a09297.html#a0e241f930cee855664aeac3604d5c023", null ],
+    [ "i_obj", "d4/d21/a09297.html#a73d3e29bbdc7fd4aa162be3cb7ecbe08", null ],
+    [ "i_range", "d4/d21/a09297.html#a49e79f3aea0c7e8c321c9f297b71a9b2", null ]
 ];

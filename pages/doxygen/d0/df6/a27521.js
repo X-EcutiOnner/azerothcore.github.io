@@ -1,8 +1,8 @@
 var a27521 =
 [
-    [ "OnRemove", "d0/df6/a27521.html#a645e869079e711a87f1a957b42a35e98", null ],
-    [ "OnStackChange", "d0/df6/a27521.html#adea8a4a7140e2f9fd4a44ef2a7b4d85b", null ],
-    [ "PrepareAuraScript", "d0/df6/a27521.html#a5f9e9d07879705917e1cd261808f0a8f", null ],
-    [ "Register", "d0/df6/a27521.html#ac86068a892255e38244c487a7456cd9f", null ],
-    [ "Validate", "d0/df6/a27521.html#a74cb62725d939000a1c4ab32b4f4335f", null ]
+    [ "npc_wormholeAI", "d3/d31/a27525.html", "d3/d31/a27525" ],
+    [ "npc_wormhole", "d0/df6/a27521.html#aeace4cbf665409786b86140709191cb0", null ],
+    [ "GetAI", "d0/df6/a27521.html#af43ec809ce2efe2cd7127029f3c3ec45", null ],
+    [ "OnGossipHello", "d0/df6/a27521.html#a6ae1a84557f8dc0f0631b9cc7e88d78e", null ],
+    [ "OnGossipSelect", "d0/df6/a27521.html#a73e441bf05f8a4ea7f57d767945e2d5d", null ]
 ];

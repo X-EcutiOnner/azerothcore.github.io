@@ -1,7 +1,6 @@
 var a24681 =
 [
-    [ "boss_veras_darkshadowAI", "d2/da6/a24681.html#aa37f7798341b07a7f4ab911b3542fc30", null ],
-    [ "JustEngagedWith", "d2/da6/a24681.html#a76a263ad81bc9dcf9d21074d7e87cb09", null ],
-    [ "JustSummoned", "d2/da6/a24681.html#aa30e981d5e5914ba5c7568037ff45dc1", null ],
-    [ "UpdateAI", "d2/da6/a24681.html#a93e0115b1592a2c14dbaa9304682da82", null ]
+    [ "FilterTargets", "d2/da6/a24681.html#ac01bb4bac4f041318937cfc09ed603cd", null ],
+    [ "PrepareSpellScript", "d2/da6/a24681.html#a3eb1d8c26653477bed5b7ae0c69b34e9", null ],
+    [ "Register", "d2/da6/a24681.html#a658a476f5c2229715a8949aa6ba4f99c", null ]
 ];

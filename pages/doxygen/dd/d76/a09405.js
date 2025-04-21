@@ -1,7 +1,8 @@
 var a09405 =
 [
-    [ "flags", "dd/d76/a09405.html#a2faab5766bd3cbc09ed4e541be7e7f94", null ],
-    [ "fourcc", "dd/d76/a09405.html#a93b48dd741d13ff036eac8a77df9f916", null ],
-    [ "gridHeight", "dd/d76/a09405.html#a3fbdc02ff4769b6f2eacbdc02ba4d370", null ],
-    [ "gridMaxHeight", "dd/d76/a09405.html#a1146dfae7dc4f89dddc94cda5deb7a4c", null ]
+    [ "MostHPMissingGroupInRange", "dd/d76/a09405.html#ab7cd80daa30d8a39289c704cc0a2064f", null ],
+    [ "operator()", "dd/d76/a09405.html#ad1b4a4894dd652237a7a789ef5619f4b", null ],
+    [ "i_hp", "dd/d76/a09405.html#ae61cafc52cb6d33cd78422c41bd3bb08", null ],
+    [ "i_obj", "dd/d76/a09405.html#ae0d85f9738301b40c3e950b02ee20026", null ],
+    [ "i_range", "dd/d76/a09405.html#a712e9b1ff341ccde4a6d6962ba6002a4", null ]
 ];

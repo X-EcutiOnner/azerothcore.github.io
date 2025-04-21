@@ -1,6 +1,6 @@
 var a19625 =
 [
-    [ "spell_svalna_revive_champion_SpellScript", "df/d67/a19629.html", "df/d67/a19629" ],
-    [ "spell_svalna_revive_champion", "dd/d4a/a19625.html#a6df50e6469f0eea1d574952e5b296e86", null ],
-    [ "GetSpellScript", "dd/d4a/a19625.html#aae683e747013a0b308c91eb8a4f14547", null ]
+    [ "HandlePeriodic", "dd/d4a/a19625.html#a0a77c0b232e24e5cb8b3392ac8adbd3a", null ],
+    [ "PrepareAuraScript", "dd/d4a/a19625.html#a7c6b6839da4a93f656800c9ae174c832", null ],
+    [ "Register", "dd/d4a/a19625.html#ae28e67baa12488e248efd46ef5a7cb11", null ]
 ];

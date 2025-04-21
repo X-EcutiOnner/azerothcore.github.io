@@ -1,5 +1,6 @@
 var a17569 =
 [
-    [ "achievement_share_the_love", "d9/df7/a17569.html#a3eaa89eaa356b0e2f8b5c688439baf9c", null ],
-    [ "OnCheck", "d9/df7/a17569.html#a9d6b6d19611d1482111692de9f2b1cc8", null ]
+    [ "HandlePeriodicTick", "d9/df7/a17569.html#accfe8a0cea8af9c9474d25fc3e7c7e22", null ],
+    [ "PrepareAuraScript", "d9/df7/a17569.html#a9962029ce4a5223d7aa05068e8d83326", null ],
+    [ "Register", "d9/df7/a17569.html#a64cf56299c8ab5292dbc9cddcee5f841", null ]
 ];

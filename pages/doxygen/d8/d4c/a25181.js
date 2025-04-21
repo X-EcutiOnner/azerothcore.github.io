@@ -1,11 +1,6 @@
 var a25181 =
 [
-    [ "boss_krosh_firehand", "d8/d4c/a25181.html#a1ef3618844f086de7875f26e7e6190f9", null ],
-    [ "AttackStart", "d8/d4c/a25181.html#a74bd2c93ac45efcd163a904b9a52827b", null ],
-    [ "JustDied", "d8/d4c/a25181.html#ad20c86b4a3d0cccddf91982c26f56c09", null ],
-    [ "JustEngagedWith", "d8/d4c/a25181.html#ad6389c357fb6c09fdf4f3f3ef7095395", null ],
-    [ "Reset", "d8/d4c/a25181.html#a989c4b762a7cdb228b245e91881d97a2", null ],
-    [ "UpdateAI", "d8/d4c/a25181.html#a3d26a6f544e9d00514ca5b0ef7d4bf4f", null ],
-    [ "_scheduler", "d8/d4c/a25181.html#a261ced01dc1305ab7c2d2f3322022fe5", null ],
-    [ "instance", "d8/d4c/a25181.html#a876bb040d78cafa9aa22e818f60dce7f", null ]
+    [ "CheckRequirement", "d8/d4c/a25181.html#adb3212ff52b5ad9ae2ce824dd1cf018a", null ],
+    [ "PrepareSpellScript", "d8/d4c/a25181.html#aebb88f5ea803a590a099e4e6427d8276", null ],
+    [ "Register", "d8/d4c/a25181.html#a18406f867561f9baf5a4cee8ce8ea59a", null ]
 ];

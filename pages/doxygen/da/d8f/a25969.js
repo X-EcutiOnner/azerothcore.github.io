@@ -1,8 +1,7 @@
 var a25969 =
 [
-    [ "CreatureId", "da/d8f/a25969.html#a127341c70f8785ceb556b1c11b23f477", null ],
-    [ "SpawnCount", "da/d8f/a25969.html#ad51fb68e41e04490f658a4c4f62612bd", null ],
-    [ "SpawnTimer", "da/d8f/a25969.html#aa57ff686c5fde12269e231333d8a8bef", null ],
-    [ "UsedSpawnPoint", "da/d8f/a25969.html#a2d5f42a6b1a309c8db74febcedf457eb", null ],
-    [ "YellTimer", "da/d8f/a25969.html#a6346259269af7f2936f959f87288dd69", null ]
+    [ "CheckProc", "da/d8f/a25969.html#a2052750b91de67b330a2ae6a190a5d4e", null ],
+    [ "HandleProc", "da/d8f/a25969.html#a5b404a07ccb13cabf5fa6ab90db92129", null ],
+    [ "PrepareAuraScript", "da/d8f/a25969.html#af16eec48ab0f469ca3cefd149bb0d925", null ],
+    [ "Register", "da/d8f/a25969.html#a4f31c76184e4ae5bc03763e04cdac72e", null ]
 ];

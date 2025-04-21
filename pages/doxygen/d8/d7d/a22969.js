@@ -1,5 +1,6 @@
 var a22969 =
 [
-    [ "npc_khunok_the_behemothAI", "d8/d7d/a22969.html#a435ac0418fe4bba1d2877ce6bea6451c", null ],
-    [ "MoveInLineOfSight", "d8/d7d/a22969.html#a5d54954a159da764aa7b83579e03688c", null ]
+    [ "PrepareAuraScript", "d8/d7d/a22969.html#a0dca39c324a5431d4861c1f20a34355e", null ],
+    [ "Register", "d8/d7d/a22969.html#a8f52092f25bdbf453d4126c56ff69f0a", null ],
+    [ "Update", "d8/d7d/a22969.html#a6201eaa3b961e838a535b80679996ada", null ]
 ];

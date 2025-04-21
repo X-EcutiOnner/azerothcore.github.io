@@ -1,9 +1,9 @@
 var a05193 =
 [
-    [ "IpLocationStore", "d4/d9d/a05193.html#a1b3a38bbd932ae50d55ff15374aa2f37", null ],
-    [ "~IpLocationStore", "d4/d9d/a05193.html#a82360c1ce130670fde23d42135f91324", null ],
-    [ "GetLocationRecord", "d4/d9d/a05193.html#a06384169031d2417a7f6bac54d3187a9", null ],
-    [ "instance", "d4/d9d/a05193.html#ad740adf9b81b37cf147dc00e220b29db", null ],
-    [ "Load", "d4/d9d/a05193.html#a411302e6bf5e5e82e5cd59e78e66bd0b", null ],
-    [ "_ipLocationStore", "d4/d9d/a05193.html#af7b7a5a4fc65c6af966be27f7bf7e07d", null ]
+    [ "FactoryHolderRegistry", "d4/d9d/a05193.html#a5384598eca62a35bc617a4c395353ecd", null ],
+    [ "FactoryHolder", "d4/d9d/a05193.html#a5e7097c2a475378023f33ec430f4ca85", null ],
+    [ "~FactoryHolder", "d4/d9d/a05193.html#a78673bd2f3d857127c1a91c49e3cd62f", null ],
+    [ "Create", "d4/d9d/a05193.html#a7072fb7dfe99890dea89b1ba661eb3ce", null ],
+    [ "RegisterSelf", "d4/d9d/a05193.html#a9e173f9daaf5c2de36bb8b46da4249e1", null ],
+    [ "_key", "d4/d9d/a05193.html#a98c0e66f8caaa207771efd82b2c2f9aa", null ]
 ];

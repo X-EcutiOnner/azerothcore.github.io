@@ -1,12 +1,10 @@
 var a08053 =
 [
-    [ "WorldObjectChangeAccumulator", "d8/d92/a08053.html#a853a5c84dec75f115eddd3e1b7ff0b78", null ],
-    [ "BuildPacket", "d8/d92/a08053.html#ab4b9da3effe2a4f6e2cb6ecf268f429c", null ],
-    [ "Visit", "d8/d92/a08053.html#ae18ca5886c95a6c4c00bdbc1920a5655", null ],
-    [ "Visit", "d8/d92/a08053.html#a9afa50ac9e36cd357706e8e838df56a0", null ],
-    [ "Visit", "d8/d92/a08053.html#aec62fc91f4b364e72a3d5afd5a1a7276", null ],
-    [ "Visit", "d8/d92/a08053.html#a9815c06dbd29710cac2c99301c17b01c", null ],
-    [ "i_object", "d8/d92/a08053.html#ab94d7f943107060caf742f9b6cca92e4", null ],
-    [ "i_playerSet", "d8/d92/a08053.html#a0e17c2bf7a78cf5ef68e6fc7b29f0262", null ],
-    [ "i_updateDatas", "d8/d92/a08053.html#a1446b9dae0dfc0325228870c815da23a", null ]
+    [ "FormationMgr", "d8/d92/a08053.html#ade1aa22473c112aed65d537929b07908", null ],
+    [ "~FormationMgr", "d8/d92/a08053.html#a8f3ee00e25ebacfb71b71b9e7d63f6e0", null ],
+    [ "AddCreatureToGroup", "d8/d92/a08053.html#aef758bdbc8f93c8981aedd51d7e10a07", null ],
+    [ "instance", "d8/d92/a08053.html#a871fec234a94e4adae07315a008acec3", null ],
+    [ "LoadCreatureFormations", "d8/d92/a08053.html#af0ecde62fc5c4a3a2b3be16c58f51fde", null ],
+    [ "RemoveCreatureFromGroup", "d8/d92/a08053.html#a6ecac2b9dcdc8db2cd7a0bd1be0fd364", null ],
+    [ "CreatureGroupMap", "d8/d92/a08053.html#ac11a3dfbe6a4f7df01d966f14b0aecd9", null ]
 ];

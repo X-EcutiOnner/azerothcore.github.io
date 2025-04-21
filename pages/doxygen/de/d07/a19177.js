@@ -1,6 +1,6 @@
 var a19177 =
 [
-    [ "spell_the_lich_king_harvest_soul_AuraScript", "d8/d3f/a19181.html", "d8/d3f/a19181" ],
-    [ "spell_the_lich_king_harvest_soul", "de/d07/a19177.html#a727aef374356d6a97df6c5aa5f8e6315", null ],
-    [ "GetAuraScript", "de/d07/a19177.html#a6caec170f418be2920560c91dc39fe33", null ]
+    [ "npc_eoe_wyrmrest_skytalonAI", "d8/d3f/a19181.html", "d8/d3f/a19181" ],
+    [ "npc_eoe_wyrmrest_skytalon", "de/d07/a19177.html#a55685de624b277840f8fc0c397b8aebf", null ],
+    [ "GetAI", "de/d07/a19177.html#a01a384ab10cfccbd159f116e0bef52e8", null ]
 ];

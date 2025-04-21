@@ -1,6 +1,7 @@
 var a08721 =
 [
-    [ "m_guid", "d1/ddc/a08721.html#afa8383c81a2d75f9ead2e8f3daa29086", null ],
-    [ "m_instance", "d1/ddc/a08721.html#a8bc0c5e1cf45073f054c5154c21b3d72", null ],
-    [ "m_state", "d1/ddc/a08721.html#a3ac18fb8f5d386e3245a2435e31e45e1", null ]
+    [ "HealthPctOrderPred", "d1/ddc/a08721.html#a5c83c0ba35b9febbe6a62dae63995f97", null ],
+    [ "operator()", "d1/ddc/a08721.html#a2c7f4043e5268b13bf0d9f46e9709a9b", null ],
+    [ "operator()", "d1/ddc/a08721.html#a23f2dc594fd531d02cd6eae0faa7f6b7", null ],
+    [ "_ascending", "d1/ddc/a08721.html#a4c34feefafc014b50ba2869a9bdb9959", null ]
 ];

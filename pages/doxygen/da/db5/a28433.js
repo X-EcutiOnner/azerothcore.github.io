@@ -1,7 +1,9 @@
 var a28433 =
 [
-    [ "HandleProc", "da/db5/a28433.html#a7e358f231f3ee72fcb95432a4705312a", null ],
-    [ "PrepareAuraScript", "da/db5/a28433.html#acda7b1b6e91a433b72c2a5dd0e165685", null ],
-    [ "Register", "da/db5/a28433.html#a33cd336a6ca68e66e6046cfdac776fee", null ],
-    [ "Validate", "da/db5/a28433.html#a5f2c7d754a37e6ae02d4aaec758841e5", null ]
+    [ "SetUp", "da/db5/a28433.html#abb28ef64461635a540dad471b7b12ebc", null ],
+    [ "TearDown", "da/db5/a28433.html#ace0b9a0c578a6b8ec1d33ad584aaf911", null ],
+    [ "arenaTeams", "da/db5/a28433.html#ab40dacafdb3c5de73cf66426d014a4fe", null ],
+    [ "team1", "da/db5/a28433.html#a325d8058950e53d17e16fd90cd105776", null ],
+    [ "team2", "da/db5/a28433.html#ac6336ffa31e59a5d3acc227c674e9ea8", null ],
+    [ "team3", "da/db5/a28433.html#af3c2e86874e53ae812debbe1abfbcf05", null ]
 ];

@@ -1,6 +1,6 @@
 var a20029 =
 [
-    [ "spell_grobbulus_poison_SpellScript", "d6/d14/a20033.html", "d6/d14/a20033" ],
-    [ "spell_grobbulus_poison", "db/dc4/a20029.html#afafc55d2d4b4b56f551587639539b161", null ],
-    [ "GetSpellScript", "db/dc4/a20029.html#a1e48cf49cf7996854994d243f92eddc8", null ]
+    [ "npc_ulduar_saronite_animusAI", "d6/d14/a20033.html", "d6/d14/a20033" ],
+    [ "npc_ulduar_saronite_animus", "db/dc4/a20029.html#a22d552adc9db3f7d2a533ab7f58a2470", null ],
+    [ "GetAI", "db/dc4/a20029.html#a1fdd851e9d6e399f8f57d063a7dbd6d9", null ]
 ];

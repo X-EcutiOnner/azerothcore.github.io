@@ -1,6 +1,6 @@
 var a21969 =
 [
-    [ "spell_thorim_lightning_pillar_P2_AuraScript", "dd/d2d/a21973.html", "dd/d2d/a21973" ],
-    [ "spell_thorim_lightning_pillar_P2", "db/d43/a21969.html#a5358c7a5b6f6e195e4d24ec889757072", null ],
-    [ "GetAuraScript", "db/d43/a21969.html#a406b1249c304c8aebe975f38591f5a63", null ]
+    [ "npc_boneguard_footmanAI", "dd/d2d/a21973.html", "dd/d2d/a21973" ],
+    [ "npc_boneguard_footman", "db/d43/a21969.html#aba17f89b9546deff5401ad33224b2b3e", null ],
+    [ "GetAI", "db/d43/a21969.html#ab0b28f61e26f701db17a0d19bbde4492", null ]
 ];

@@ -1,6 +1,6 @@
 var a16793 =
 [
-    [ "boss_icehowlAI", "d1/d6b/a16797.html", "d1/d6b/a16797" ],
-    [ "boss_icehowl", "d8/de2/a16793.html#ab3c9711fa6af17be9dc7331b42c408be", null ],
-    [ "GetAI", "d8/de2/a16793.html#ac77bf3b9d954b8c6be01d0209a80cc6a", null ]
+    [ "npc_tortured_riflemanAI", "d1/d6b/a16797.html", "d1/d6b/a16797" ],
+    [ "npc_tortured_rifleman", "d8/de2/a16793.html#a32e4164864c3873b3684ad531a2e924a", null ],
+    [ "GetAI", "d8/de2/a16793.html#aaef71feb7077c561eb2bcf7d4fc411c7", null ]
 ];

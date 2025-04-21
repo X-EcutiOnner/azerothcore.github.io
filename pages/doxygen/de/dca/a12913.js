@@ -1,11 +1,10 @@
 var a12913 =
 [
-    [ "boss_brutallusAI", "de/dca/a12913.html#af459f8e102817c370f63555734930477", null ],
-    [ "AttackStart", "de/dca/a12913.html#a32695b529405d622fe61cd916f46dc65", null ],
-    [ "DamageTaken", "de/dca/a12913.html#a0cf6c7f64b4872b72e3976e232d1cda0", null ],
-    [ "JustDied", "de/dca/a12913.html#a6920f6ec9504245fa97119e1dceb4a52", null ],
-    [ "JustEngagedWith", "de/dca/a12913.html#a28d35428c502d249244985b971e35ce3", null ],
-    [ "KilledUnit", "de/dca/a12913.html#a7a0097ad95db267d227d512104bc6884", null ],
-    [ "Reset", "de/dca/a12913.html#acf072997c47d25c7b1608664d1e0fa72", null ],
-    [ "UpdateAI", "de/dca/a12913.html#a74214632a57228887c514340b5ba0e19", null ]
+    [ "npc_scarlet_courierAI", "de/dca/a12913.html#a83c5e32659d38a513790322e46dcc283", null ],
+    [ "JustEngagedWith", "de/dca/a12913.html#aa470197f0949a413c421bda8c7c09279", null ],
+    [ "MovementInform", "de/dca/a12913.html#add19812d92d62b602f96ffc5fb513d6c", null ],
+    [ "Reset", "de/dca/a12913.html#ab642188631b67ae5ff5fd312eaf37ff0", null ],
+    [ "UpdateAI", "de/dca/a12913.html#ac37287a77e37785b606c742ff8d6eeeb", null ],
+    [ "uiStage", "de/dca/a12913.html#a2f920922f8c6f1a878d0e4978e081257", null ],
+    [ "uiStage_timer", "de/dca/a12913.html#a8ee22a276535a3a9c2f12a62e984d55b", null ]
 ];

@@ -1,7 +1,8 @@
 var a10565 =
 [
-    [ "OpcodeHandler", "d5/d6d/a04635.html#gad7dc8101b537abe699b18ae8de444a81", null ],
-    [ "~OpcodeHandler", "d5/d6d/a04635.html#ga5400057a3d849035aedda259828a5af5", null ],
-    [ "Name", "d5/d6d/a04635.html#ga0f1d1acde7c65e2b5c29357b232a7061", null ],
-    [ "Status", "d5/d6d/a04635.html#gace7959058ad5b5e617c7b043f5c63b7c", null ]
+    [ "OtherGUID", "d1/dfe/a10565.html#a3f7486a2e4e07fef318414eaaa9037da", null ],
+    [ "PlayerGUID", "d1/dfe/a10565.html#ae3d1217ddbfccd601fcbc57b78739a94", null ],
+    [ "RankID", "d1/dfe/a10565.html#a1aebcb39f85c2b44101a311a6ccefdfd", null ],
+    [ "TransactionDate", "d1/dfe/a10565.html#a4a8054876b35134e5dfe2cf84887e66f", null ],
+    [ "TransactionType", "d1/dfe/a10565.html#aa48b69aa9078fb150470d66201b34786", null ]
 ];

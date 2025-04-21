@@ -1,14 +1,17 @@
 var a12741 =
 [
-    [ "boss_kirtonos_the_heraldAI", "dc/d41/a12741.html#af68c553db0889c22b7b4b76c868d38e7", null ],
-    [ "DoAction", "dc/d41/a12741.html#ade11c2ff67c93f09f34b7b0e59766cc3", null ],
-    [ "EnterEvadeMode", "dc/d41/a12741.html#a92ee25d349cc1ae3e46e4696a01697c3", null ],
-    [ "JustDied", "dc/d41/a12741.html#a7ecf7396ebcb6f541586435996094f56", null ],
-    [ "JustEngagedWith", "dc/d41/a12741.html#abcf09a75bed393e5fc03ef184e5c2918", null ],
-    [ "MovementInform", "dc/d41/a12741.html#a16379320eebb8223a79cf3927bdc507e", null ],
-    [ "UpdateAI", "dc/d41/a12741.html#a7eedcb1416d05b95f6110751119aea02", null ],
-    [ "events", "dc/d41/a12741.html#a5dd38f68ce8745484cbc00dadde439dc", null ],
-    [ "events2", "dc/d41/a12741.html#aaf9216da4f5394953d0316be8d8e8c4f", null ],
-    [ "instance", "dc/d41/a12741.html#acae39cf7bc9a6d68834d3916fa75a006", null ],
-    [ "TransformsCount", "dc/d41/a12741.html#aa0834b23d00463ae36bb0ec6a2067257", null ]
+    [ "boss_priestess_lackey_commonAI", "dc/d41/a12741.html#acf122076823631cef5d66e03a9f607aa", null ],
+    [ "AttackStart", "dc/d41/a12741.html#a6056ef3425f39208e5731b25fc94a335", null ],
+    [ "EnterEvadeMode", "dc/d41/a12741.html#a6935410d7a4ce8e9dec9feed9f5351d7", null ],
+    [ "GetThreatMod", "dc/d41/a12741.html#a2e0e387ae4645c9bbd4625d1469403a8", null ],
+    [ "JustDied", "dc/d41/a12741.html#a8b06ee0a3e22d495a41ccf4c7009ad2d", null ],
+    [ "JustEngagedWith", "dc/d41/a12741.html#a4d47aacc653ab0e4b74fa3bcbcfdbbc7", null ],
+    [ "JustSummoned", "dc/d41/a12741.html#a9a7bcf641bae31827872faf7666635d5", null ],
+    [ "KilledUnit", "dc/d41/a12741.html#a23aaa0a619470898dd617a18130ca17b", null ],
+    [ "RecalculateThreat", "dc/d41/a12741.html#a7daa8f2b2ddfbbd0d0f267dac7e0c2c2", null ],
+    [ "Reset", "dc/d41/a12741.html#aa2ef03d73c43668c97205fa72414e71b", null ],
+    [ "UpdateAI", "dc/d41/a12741.html#adf87bd797da345e49700265319d808cc", null ],
+    [ "aiType", "dc/d41/a12741.html#a2b7ccbf195658e402ba6f276b18e3551", null ],
+    [ "instance", "dc/d41/a12741.html#ac71aa86c97fe11d934f09d62c4ed8eab", null ],
+    [ "summons", "dc/d41/a12741.html#a498ef73fcc7995113318c5f0b6efa23e", null ]
 ];

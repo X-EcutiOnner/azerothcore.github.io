@@ -1,6 +1,6 @@
 var a18897 =
 [
-    [ "HandleInfusion", "de/da6/a18897.html#a55dcadcfeaa8f740d974576ee2a0f268", null ],
-    [ "PrepareSpellScript", "de/da6/a18897.html#a972750817e3da3f32df03063f4efcbf4", null ],
-    [ "Register", "de/da6/a18897.html#a2b43eefb8d7774bb3b5cfe35785ed062", null ]
+    [ "NotOnSameSide", "de/da6/a18897.html#ac3189b202a8c0ca4c8f52799ed54e284", null ],
+    [ "operator()", "de/da6/a18897.html#a59ea48b9633049180ec62d3616fe4dea", null ],
+    [ "m_inLiveSide", "de/da6/a18897.html#a77c1d18f54609a5f4da2e9c13f62293d", null ]
 ];

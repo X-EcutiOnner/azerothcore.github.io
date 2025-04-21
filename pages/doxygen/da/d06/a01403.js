@@ -1,11 +1,11 @@
 var a01403 =
 [
-    [ "GossipMenuItem", "df/d07/a08058.html", "df/d07/a08058" ],
-    [ "GossipMenuItemData", "d1/d21/a08062.html", "d1/d21/a08062" ],
-    [ "QuestMenuItem", "d4/d5b/a08066.html", "d4/d5b/a08066" ],
-    [ "GossipMenu", "d0/dc2/a08070.html", "d0/dc2/a08070" ],
-    [ "QuestMenu", "d4/d98/a08074.html", "d4/d98/a08074" ],
-    [ "PlayerMenu", "dc/d37/a08078.html", "dc/d37/a08078" ],
+    [ "GossipMenuItem", "d9/d19/a08061.html", "d9/d19/a08061" ],
+    [ "GossipMenuItemData", "d6/dea/a08065.html", "d6/dea/a08065" ],
+    [ "QuestMenuItem", "d1/d1d/a08069.html", "d1/d1d/a08069" ],
+    [ "GossipMenu", "d6/d23/a08073.html", "d6/d23/a08073" ],
+    [ "QuestMenu", "d7/d51/a08077.html", "d7/d51/a08077" ],
+    [ "PlayerMenu", "de/d02/a08081.html", "de/d02/a08081" ],
     [ "DEFAULT_GOSSIP_MESSAGE", "da/d06/a01403.html#a0ad94ed86a661b882f5355053941279d", null ],
     [ "GOSSIP_MAX_MENU_ITEMS", "da/d06/a01403.html#a20e0466b2da25ea6a8d7d65264162e22", null ],
     [ "GossipMenuItemContainer", "da/d06/a01403.html#a77f54e2cb578197cf3c47df8c07b4f84", null ],

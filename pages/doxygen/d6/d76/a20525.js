@@ -1,6 +1,7 @@
 var a20525 =
 [
-    [ "spell_oculus_call_ruby_emerald_amber_drake_SpellScript", "d7/de1/a20529.html", "d7/de1/a20529" ],
-    [ "spell_oculus_call_ruby_emerald_amber_drake", "d6/d76/a20525.html#adb754a4d99cbdfb9435f0107c61c4f56", null ],
-    [ "GetSpellScript", "d6/d76/a20525.html#a860812e9abceb6b61723e22984476832", null ]
+    [ "boss_thorim_trapAI", "d6/d76/a20525.html#aaab278dc6557a49624099b0064b8d6f3", null ],
+    [ "Reset", "d6/d76/a20525.html#ab0715e75a475409ffb6c623bf363a65d", null ],
+    [ "UpdateAI", "d6/d76/a20525.html#a40078609a67aa029f71df7971449b056", null ],
+    [ "_checkTimer", "d6/d76/a20525.html#ad3ed8edb4d06e5b98a5afc82170f3233", null ]
 ];

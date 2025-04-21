@@ -1,6 +1,6 @@
 var a16605 =
 [
-    [ "npc_toc_priestAI", "dd/d90/a16609.html", "dd/d90/a16609" ],
-    [ "npc_toc_priest", "d7/d27/a16605.html#a0e360a2cc053434d2f76826683da8eee", null ],
-    [ "GetAI", "d7/d27/a16605.html#a6056a81bef962a02537d525f07d1c302", null ]
+    [ "HandleScript", "d7/d27/a16605.html#a4786e0c38f03f7e671174d0641526681", null ],
+    [ "PrepareSpellScript", "d7/d27/a16605.html#a7d260468f409a7fb41a39f80db5f9d63", null ],
+    [ "Register", "d7/d27/a16605.html#a943117bfb56b846e99d04bd9a348af8d", null ]
 ];

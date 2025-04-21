@@ -1,7 +1,6 @@
 var a07609 =
 [
-    [ "RBEntryInfo", "d5/dba/a07609.html#aa720dd6cae9ee7163bb9b84918249644", null ],
-    [ "RBEntryInfo", "d5/dba/a07609.html#a3df17ed1c70ed9b755843308d5ff6336", null ],
-    [ "comment", "d5/dba/a07609.html#a7284eac7208dba21a52b79257aad7dbc", null ],
-    [ "roles", "d5/dba/a07609.html#ab891dec65b0070ede1233080eadd0190", null ]
+    [ "operator bool", "d5/dba/a07609.html#a02878c282dfcfd2b9f4eddf99a805fa3", null ],
+    [ "tail", "d5/dba/a07609.html#a0bd839d0c7a8b7ce84612c80f3ca84e7", null ],
+    [ "token", "d5/dba/a07609.html#a55e214db8a01ac3c427874d03f1bda54", null ]
 ];

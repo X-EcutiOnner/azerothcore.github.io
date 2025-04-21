@@ -1,5 +1,6 @@
 var a21513 =
 [
-    [ "PrepareAuraScript", "db/ddd/a21513.html#a42d20c228c3082cf3a7b80dfebee232d", null ],
-    [ "Register", "db/ddd/a21513.html#a2eac056e9ccad15a9ba231dd635f41d3", null ]
+    [ "npc_bloodmage_laurithAI", "d2/de9/a21517.html", "d2/de9/a21517" ],
+    [ "npc_bloodmage_laurith", "db/ddd/a21513.html#a40ab80342ddc86afca3b1bd37b1ca6b5", null ],
+    [ "GetAI", "db/ddd/a21513.html#a5a5151a56de3ad1012d9a795dbfb5bd5", null ]
 ];

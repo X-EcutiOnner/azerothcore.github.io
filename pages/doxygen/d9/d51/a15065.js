@@ -1,12 +1,15 @@
 var a15065 =
 [
-    [ "npc_anubisath_guardian", "d9/d51/a15065.html#a7db1771f9083e14c177e37d7bf6690c5", null ],
-    [ "DamageTaken", "d9/d51/a15065.html#a2b7f307b5af7c50c86a68c4834f08ed4", null ],
-    [ "JustDied", "d9/d51/a15065.html#a9f40c43ded16ad5934a5d5499f16ca76", null ],
-    [ "JustEngagedWith", "d9/d51/a15065.html#a16d1e70f0ca0fcef972ac45f82e885e6", null ],
-    [ "Reset", "d9/d51/a15065.html#af87cc86141964c48f9c57ed5bade36a5", null ],
-    [ "UpdateAI", "d9/d51/a15065.html#a9a9c805c92a3e8e96914d01accb01051", null ],
-    [ "_enraged", "d9/d51/a15065.html#a69b3b2cee4c84cd6dccd3465b555ad12", null ],
-    [ "_scheduler", "d9/d51/a15065.html#ad44455c43d53426a152547d5b0770bbe", null ],
-    [ "_spells", "d9/d51/a15065.html#aee75f952ed14f5f6fab1f5117f6b8b9e", null ]
+    [ "boss_skeram", "d9/d51/a15065.html#a293710a88c91a181ee1000939386e176", null ],
+    [ "DoTeleport", "d9/d51/a15065.html#a96166ddebd5906868b872c39a6755a70", null ],
+    [ "EnterEvadeMode", "d9/d51/a15065.html#ab050e31d661c8c089d175de231b0eeb2", null ],
+    [ "JustDied", "d9/d51/a15065.html#a6b30a6ca5167aae41ad70bd502265d2b", null ],
+    [ "JustEngagedWith", "d9/d51/a15065.html#a07bba9a1a62ad9ad15b9cd42b5d5b3d3", null ],
+    [ "JustSummoned", "d9/d51/a15065.html#a3e3d74bc646a96e20a88d3541f806c62", null ],
+    [ "KilledUnit", "d9/d51/a15065.html#a185cb6686d37e064278260ebe5fae13a", null ],
+    [ "Reset", "d9/d51/a15065.html#a08c9c2c577ef4b713594ca67f4c87a68", null ],
+    [ "UpdateAI", "d9/d51/a15065.html#aaf29331e0fac71479747d62fd9f1e301", null ],
+    [ "_copiesGUIDs", "d9/d51/a15065.html#a28f1465938dc2141779d5171ea09ecd0", null ],
+    [ "_flag", "d9/d51/a15065.html#a0abcf1e8721aa972be70774d5be7b53b", null ],
+    [ "_hpct", "d9/d51/a15065.html#a5c8760788264a9a04a28c05a0247676c", null ]
 ];

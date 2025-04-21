@@ -1,9 +1,6 @@
 var a19769 =
 [
-    [ "npc_icc_severed_essenceAI", "d6/dfb/a19769.html#a76366c33ab9ec7aa291c0df657fbef68", null ],
-    [ "CanAIAttack", "d6/dfb/a19769.html#a2cc2cfc967f9ad966d76571eb0eb630f", null ],
-    [ "DoAction", "d6/dfb/a19769.html#a938af3a7de5b26432e1ad515a326a032", null ],
-    [ "UpdateAI", "d6/dfb/a19769.html#a66e3324baa87ba109dd968a517ee82a5", null ],
-    [ "Class", "d6/dfb/a19769.html#aa627713be3a2ac01336d158d96aaccc7", null ],
-    [ "events", "d6/dfb/a19769.html#a1bab216925c4123d633d9613bb80365c", null ]
+    [ "boss_flame_leviathan_defense_turretAI", "da/d21/a19773.html", "da/d21/a19773" ],
+    [ "boss_flame_leviathan_defense_turret", "d6/dfb/a19769.html#a939c66ff6c1eb6dfdb3d93b3d0292e40", null ],
+    [ "GetAI", "d6/dfb/a19769.html#a1c3726e2b753cda18bd11d8f4ff154db", null ]
 ];

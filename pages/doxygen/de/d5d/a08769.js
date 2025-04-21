@@ -1,9 +1,9 @@
 var a08769 =
 [
-    [ "VisibleChangesNotifier", "de/d5d/a08769.html#aacb0239ed44c9705eeeebf5ab198f7e0", null ],
-    [ "Visit", "de/d5d/a08769.html#abfc60c91aaa823cb99cdfc17a287e23e", null ],
-    [ "Visit", "de/d5d/a08769.html#aaf1dab341f34f75e56da63370af0ecd3", null ],
-    [ "Visit", "de/d5d/a08769.html#a103a8ef30ce4c0753913b6ecb6cf4e92", null ],
-    [ "Visit", "de/d5d/a08769.html#a6e856249a08d0a90b9d19f2449f30fba", null ],
-    [ "i_object", "de/d5d/a08769.html#a496b982d081957cfc288f29b99b8739d", null ]
+    [ "TransportBase", "de/d5d/a08769.html#a6dba8e37217dae4e5da8f52780e63f70", null ],
+    [ "~TransportBase", "de/d5d/a08769.html#a81dca3435a1a1666a90acd8e154e3287", null ],
+    [ "CalculatePassengerOffset", "de/d5d/a08769.html#ae8c9eb64027f8e7c781f0af192e3f6c1", null ],
+    [ "CalculatePassengerOffset", "de/d5d/a08769.html#aa4d00f15dc0e6c53b4a175b0ca53021b", null ],
+    [ "CalculatePassengerPosition", "de/d5d/a08769.html#a7cb7586a6935ca4e08aa3e658982abec", null ],
+    [ "CalculatePassengerPosition", "de/d5d/a08769.html#a328fbc464c56eca89138380182a0108c", null ]
 ];

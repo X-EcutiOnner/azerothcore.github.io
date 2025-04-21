@@ -1,6 +1,6 @@
 var a23757 =
 [
-    [ "HandleSendEvent", "d2/d1e/a23757.html#a6c0aa5181434f52fa3e8ef9ff9cd367b", null ],
-    [ "PrepareSpellScript", "d2/d1e/a23757.html#ad3af77370a624cdf8c34795516b273a8", null ],
-    [ "Register", "d2/d1e/a23757.html#ac9db07ec48110b4d5d6b1cb7024aad35", null ]
+    [ "HandlePeriodic", "d2/d1e/a23757.html#a0a6da7aad8b7fcc92092f7a3c5bc0768", null ],
+    [ "PrepareAuraScript", "d2/d1e/a23757.html#a75d72d196ded2ee109d0231d4342890a", null ],
+    [ "Register", "d2/d1e/a23757.html#a148013ea68bbc573bddc1c3639dba019", null ]
 ];

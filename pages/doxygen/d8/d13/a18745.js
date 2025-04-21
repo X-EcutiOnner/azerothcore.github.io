@@ -1,6 +1,6 @@
 var a18745 =
 [
-    [ "spell_sindragosa_permeating_chill_AuraScript", "dc/d09/a18749.html", "dc/d09/a18749" ],
-    [ "spell_sindragosa_permeating_chill", "d8/d13/a18745.html#a65e91f85fa3aafbfceeb84fcf7658a7b", null ],
-    [ "GetAuraScript", "d8/d13/a18745.html#a205bf9e8d20d3b3b8f958a9b2374c80a", null ]
+    [ "npc_icc_gauntlet_controllerAI", "dc/d09/a18749.html", "dc/d09/a18749" ],
+    [ "npc_icc_gauntlet_controller", "d8/d13/a18745.html#a5fc4c941842e25bc3da93686e588627b", null ],
+    [ "GetAI", "d8/d13/a18745.html#a4ed1a69fb537e7ce547a3a57253990c4", null ]
 ];

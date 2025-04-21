@@ -1,10 +1,7 @@
 var a19889 =
 [
-    [ "boss_isle_of_conquestAI", "d7/d5d/a19889.html#a7880ea86e7a03f5b14875065a83a206a", null ],
-    [ "CheckRageBuff", "d7/d5d/a19889.html#a6d60480e39fa89dbcc0facce9f0b69a3", null ],
-    [ "JustEngagedWith", "d7/d5d/a19889.html#a878635ef0673325943e6026ad76c2b06", null ],
-    [ "Reset", "d7/d5d/a19889.html#add59669e5f6c3c882ac008c720349573", null ],
-    [ "UpdateAI", "d7/d5d/a19889.html#ab33aa7e735c5837428a4cf2b76e4275e", null ],
-    [ "events", "d7/d5d/a19889.html#a38e308b66b0f35d3efe6916b03e4391c", null ],
-    [ "rage", "d7/d5d/a19889.html#aa16ebdd6e2f486d3a6e4b58f4cb5e696", null ]
+    [ "HandleScript", "d7/d5d/a19889.html#a9580f04e1543262026818f0944bb96c3", null ],
+    [ "PrepareSpellScript", "d7/d5d/a19889.html#a924ae640d448da777ce3ecb059c1c9b6", null ],
+    [ "Register", "d7/d5d/a19889.html#ac05e58e9b5618b1f079bd1c4924a0f9f", null ],
+    [ "Validate", "d7/d5d/a19889.html#a8fc8712a76939dea6831a9eb5b95f946", null ]
 ];

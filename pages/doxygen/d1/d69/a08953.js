@@ -1,9 +1,10 @@
 var a08953 =
 [
-    [ "AnyFriendlyNotSelfUnitInObjectRangeCheck", "d1/d69/a08953.html#a213e07e67eefd1454be655e154380202", null ],
-    [ "operator()", "d1/d69/a08953.html#a8b3547500300e3b9d8de88c0b12b268e", null ],
-    [ "i_funit", "d1/d69/a08953.html#a43b531ac740cb263d347ece24ff675fc", null ],
-    [ "i_obj", "d1/d69/a08953.html#a5fe4b376f00d33554a9a263abc743e68", null ],
-    [ "i_playerOnly", "d1/d69/a08953.html#a16cd07545542916e0f49250c77fad304", null ],
-    [ "i_range", "d1/d69/a08953.html#ac087254cf99c5f845918998f369c176a", null ]
+    [ "PetLevelInfo", "d1/d69/a08953.html#ad8e757abeae500063e963ffef5469809", null ],
+    [ "armor", "d1/d69/a08953.html#ab7097f75cf86bd6f135f21dace61a89e", null ],
+    [ "health", "d1/d69/a08953.html#a322dcab3af8f98726aa6addf38e8891b", null ],
+    [ "mana", "d1/d69/a08953.html#a27352e73d6ed3945e398e0634dee1e96", null ],
+    [ "max_dmg", "d1/d69/a08953.html#a092f2600f64f2af885142b2e96d1fe64", null ],
+    [ "min_dmg", "d1/d69/a08953.html#a299d1c7f4c28893e09de79cd816afa95", null ],
+    [ "stats", "d1/d69/a08953.html#a897aabacdbe9cbc4afcc40ab059c12be", null ]
 ];

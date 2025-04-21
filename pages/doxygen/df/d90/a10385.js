@@ -1,11 +1,13 @@
 var a10385 =
 [
-    [ "LFGJoin", "df/d90/a10385.html#a50c79bdef7393907673a328bc36ff8ae", null ],
-    [ "Read", "df/d90/a10385.html#a5eca5c5a528cf00f1e6aad99ce5386ed", null ],
-    [ "Achievements", "df/d90/a10385.html#a587e98d4a1c8ff0cacd459298a4193c8", null ],
-    [ "Comment", "df/d90/a10385.html#a3e12e650a1fa573aafd7c03abd970aff", null ],
-    [ "Needs", "df/d90/a10385.html#a313c16e84e2cd0b55551d16273e95917", null ],
-    [ "NoPartialClear", "df/d90/a10385.html#aad54be871d0978034fb69a464fd5b9df", null ],
-    [ "Roles", "df/d90/a10385.html#a5eaccbeb4fc8b21f5398e216589cb99b", null ],
-    [ "Slots", "df/d90/a10385.html#aa14a07716504723283ad80c6357cf53f", null ]
+    [ "ScriptObject", "df/d90/a10385.html#ae4ca97cf587379c94354e4889ff8c0c2", null ],
+    [ "~ScriptObject", "df/d90/a10385.html#a80c704c939f54eee6655d68509598c42", null ],
+    [ "checkValidity", "df/d90/a10385.html#a585e75e34aed7aa32205daad85f8fe08", null ],
+    [ "GetName", "df/d90/a10385.html#a79588d839860d2f5caab60c5f1368f10", null ],
+    [ "GetTotalAvailableHooks", "df/d90/a10385.html#a69ee35ec7d54226264efef558022c1c0", null ],
+    [ "isAfterLoadScript", "df/d90/a10385.html#a2f66339b1cdf1fde795c61cd24c8b0a2", null ],
+    [ "IsDatabaseBound", "df/d90/a10385.html#a37da453729d5c8fbe2d06f905563f47c", null ],
+    [ "ScriptMgr", "df/d90/a10385.html#a7a753f61d57353451e90f3f23fec4851", null ],
+    [ "_name", "df/d90/a10385.html#a90b63e382cac17922ae57fe22b84718c", null ],
+    [ "_totalAvailableHooks", "df/d90/a10385.html#ab9ecac7620b4319c634d7e5f30c30f49", null ]
 ];

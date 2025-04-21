@@ -1,7 +1,9 @@
 var a22321 =
 [
-    [ "HandleEffectCalcPeriodic", "d9/dc0/a22321.html#aeb74b415b958635ba1d8b55dac734702", null ],
-    [ "HandleEffectPeriodic", "d9/dc0/a22321.html#ab92b48c2a43fb4b205d219d6a90b16d5", null ],
-    [ "PrepareAuraScript", "d9/dc0/a22321.html#ae8a68fb64eee79351412854ab7d14036", null ],
-    [ "Register", "d9/dc0/a22321.html#a287cb216db4efe6976e3bcebbb868e52", null ]
+    [ "npc_finklesteinAI", "d5/de5/a22325.html", "d5/de5/a22325" ],
+    [ "npc_finklestein", "d9/dc0/a22321.html#aa719b4bb95012c22ef8123e255e32edd", null ],
+    [ "GetAI", "d9/dc0/a22321.html#a1f0d91d2a50aca9d0496b6bd03986c8e", null ],
+    [ "OnGossipHello", "d9/dc0/a22321.html#ac82d5e5dc2e0539c90dfcfe17430548c", null ],
+    [ "OnGossipSelect", "d9/dc0/a22321.html#a7a744207e8f43672f0e6bf2354186ec4", null ],
+    [ "OnQuestAccept", "d9/dc0/a22321.html#a94291aa98e35552bc7d722ddf2a83af2", null ]
 ];

@@ -1,6 +1,6 @@
 var a20073 =
 [
-    [ "FilterTargets", "da/dab/a20073.html#a776e40c38103f85a423da217b0db1028", null ],
-    [ "PrepareSpellScript", "da/dab/a20073.html#a16ebca472cdfb69b4619dff6ba3bd263", null ],
-    [ "Register", "da/dab/a20073.html#ac533b76dfa8b01f0943ce35fa4a7eadd", null ]
+    [ "boss_hodirAI", "db/d19/a20077.html", "db/d19/a20077" ],
+    [ "boss_hodir", "da/dab/a20073.html#a5740f489f57380d2633a8ee5a18de339", null ],
+    [ "GetAI", "da/dab/a20073.html#a8d6ce019e9c383d2eb9ac0d211f4bc4c", null ]
 ];

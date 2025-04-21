@@ -1,7 +1,10 @@
 var a10145 =
 [
-    [ "Emote", "da/d2d/a10145.html#acb1620d125ffb11fe43caf4ebf27d1be", null ],
-    [ "Write", "da/d2d/a10145.html#a3f5532f40b59f47423d2b4e3749da88e", null ],
-    [ "EmoteID", "da/d2d/a10145.html#a7f4d3ee4353b408f8c795e6fdc552e76", null ],
-    [ "Guid", "da/d2d/a10145.html#ab96a1c0933e90872f54eb0995098274a", null ]
+    [ "QuestStatusData", "da/d2d/a10145.html#ae71725a7f75e10aacb6f4a9ca4b72f27", null ],
+    [ "CreatureOrGOCount", "da/d2d/a10145.html#aa5892dc0744a41ac565568307f12ad35", null ],
+    [ "Explored", "da/d2d/a10145.html#a734f6a61aa35c77689d33031e88f0c0b", null ],
+    [ "ItemCount", "da/d2d/a10145.html#a466999cea52f65bf58916bc34750bf95", null ],
+    [ "PlayerCount", "da/d2d/a10145.html#a170a1e54fe45b7fd0c7934f1309f7969", null ],
+    [ "Status", "da/d2d/a10145.html#a4ce7af3a64737d7961b6dfa19189c932", null ],
+    [ "Timer", "da/d2d/a10145.html#a16343f7a162e5b7b6a1a18345420c77a", null ]
 ];

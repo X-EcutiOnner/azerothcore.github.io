@@ -1,8 +1,6 @@
 var a20749 =
 [
-    [ "iron_golem_custodianAI", "d9/d25/a20749.html#aeeeed1383f5d221eb7b5cd5d3a6ea4fb", null ],
-    [ "JustEngagedWith", "d9/d25/a20749.html#acd67b8d4df95eb8b0d0365184e47a29c", null ],
-    [ "Reset", "d9/d25/a20749.html#af3193696d665746eecd9c62128d8684d", null ],
-    [ "UpdateAI", "d9/d25/a20749.html#ab1d3910b07a6c5c53f5388a10dc48775", null ],
-    [ "events", "d9/d25/a20749.html#a9e0bcc9ae6918f9fa40cbf8085d4ec42", null ]
+    [ "boss_yoggsaron_corruptor_tentacleAI", "d9/d5a/a20753.html", "d9/d5a/a20753" ],
+    [ "boss_yoggsaron_corruptor_tentacle", "d9/d25/a20749.html#a86fbf881f0a861124dda085347bb03bd", null ],
+    [ "GetAI", "d9/d25/a20749.html#a7325d6feaa12d74c030152ba3a0ab756", null ]
 ];

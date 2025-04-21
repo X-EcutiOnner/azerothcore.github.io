@@ -1,7 +1,9 @@
 var a28325 =
 [
-    [ "HandleEffectPeriodic", "d4/d53/a28325.html#abb9ec1dd08954e80cf6dbcacbe44e2ba", null ],
-    [ "PrepareAuraScript", "d4/d53/a28325.html#ae151331af09510cc91b63b65a30bdcbf", null ],
-    [ "Register", "d4/d53/a28325.html#ac2e23fa8c9cfec9b9689512f3363a56e", null ],
-    [ "Validate", "d4/d53/a28325.html#ad5cc7a5aa1164092f267071c82752bb5", null ]
+    [ "adtId", "d4/d53/a28325.html#a9bf7e7dd9dd55e5b1ffeffb0ad3e92e0", null ],
+    [ "areaId", "d4/d53/a28325.html#a7f652c68036429350543fc5a2cc6861e", null ],
+    [ "Flags", "d4/d53/a28325.html#a60f9a61948d1e28587c9d1a338730f37", null ],
+    [ "groupId", "d4/d53/a28325.html#a09052bad3028899580ffedd556672b64", null ],
+    [ "Id", "d4/d53/a28325.html#a70e3e94df9d0b0b1c114ed1001768066", null ],
+    [ "rootId", "d4/d53/a28325.html#a7997c7ac31abdb40f2e7f0e0a7e04403", null ]
 ];

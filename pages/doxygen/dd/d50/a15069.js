@@ -1,6 +1,6 @@
 var a15069 =
 [
-    [ "FilterTargets", "dd/d50/a15069.html#ac4f353ac54e7a461d5411fd8eae33cc1", null ],
-    [ "PrepareSpellScript", "dd/d50/a15069.html#a8cb8041b71dd3175b627fe7ec5b2c2f3", null ],
-    [ "Register", "dd/d50/a15069.html#a07d56d19b95c8d24f6908815e4ceb13f", null ]
+    [ "FilterTargets", "dd/d50/a15069.html#a1ceb8f97a19b7c0434c430b388d0f76b", null ],
+    [ "PrepareSpellScript", "dd/d50/a15069.html#a4a376e2a30c79ee2819c695e72535c0a", null ],
+    [ "Register", "dd/d50/a15069.html#aaf7b4fba94d94331f6b35add2b836061", null ]
 ];

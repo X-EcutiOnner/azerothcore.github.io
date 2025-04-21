@@ -1,6 +1,7 @@
 var a23509 =
 [
-    [ "npc_attracted_reef_bullAI", "dd/d7c/a23509.html#aa8917a912fb31a5987332e53e8d268e7", null ],
-    [ "MovementInform", "dd/d7c/a23509.html#a79d9539243f178a2989f017c5f9ebc8c", null ],
-    [ "SpellHit", "dd/d7c/a23509.html#ab06ee7ef84d881262ae682b69fae3135", null ]
+    [ "HandleDummyApply", "dd/d7c/a23509.html#a8a982bbbda94a2cf981c845161f05bdc", null ],
+    [ "HandleDummyRemove", "dd/d7c/a23509.html#a5d68d9e15600119deca7179ffe00acda", null ],
+    [ "PrepareAuraScript", "dd/d7c/a23509.html#a34d09e48b69d32dae6c127fa0837be4b", null ],
+    [ "Register", "dd/d7c/a23509.html#a094004ccf6b4cae4d27bca639b76b899", null ]
 ];

@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/database/Updater/DBUpdater.cpp File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/database/Database/PreparedStatement.h File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,84 +105,59 @@ $(document).ready(function(){initNavTree('d1/d62/a04664.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#var-members">Variables</a>  </div>
-  <div class="headertitle"><div class="title">DBUpdater.cpp File Reference</div></div>
+<a href="#nested-classes">Classes</a> &#124;
+<a href="#namespaces">Namespaces</a> &#124;
+<a href="#typedef-members">Typedefs</a>  </div>
+  <div class="headertitle"><div class="title">PreparedStatement.h File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">DBUpdater.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">BuiltInConfig.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Config.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">DatabaseEnv.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">DatabaseLoader.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Log.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">StartProcess.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">UpdateFetcher.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">QueryResult.h</a>&quot;</code><br />
-<code>#include &lt;filesystem&gt;</code><br />
-<code>#include &lt;fstream&gt;</code><br />
-<code>#include &lt;iostream&gt;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">Define.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Duration.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">SQLOperation.h</a>&quot;</code><br />
+<code>#include &lt;future&gt;</code><br />
+<code>#include &lt;tuple&gt;</code><br />
+<code>#include &lt;variant&gt;</code><br />
+<code>#include &lt;vector&gt;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
-Variables</h2></td></tr>
-<tr class="memitem:a16a33693c8570aff221401b100547fb7"><td class="memItemLeft" align="right" valign="top">template class <a class="el" href="../../d5/d35/a00266.html#a4239bd747d930d5084e8f6e489980585">AC_DATABASE_API</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d62/a04664.html#a16a33693c8570aff221401b100547fb7">DBUpdater&lt; LoginDatabaseConnection &gt;</a></td></tr>
-<tr class="separator:a16a33693c8570aff221401b100547fb7"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ace05c45d1df6cb7f16487ef1aa8bc9f7"><td class="memItemLeft" align="right" valign="top">template class <a class="el" href="../../d5/d35/a00266.html#a4239bd747d930d5084e8f6e489980585">AC_DATABASE_API</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d62/a04664.html#ace05c45d1df6cb7f16487ef1aa8bc9f7">DBUpdater&lt; WorldDatabaseConnection &gt;</a></td></tr>
-<tr class="separator:ace05c45d1df6cb7f16487ef1aa8bc9f7"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a753e207671f7af3815a056247f2de3ce"><td class="memItemLeft" align="right" valign="top">template class <a class="el" href="../../d5/d35/a00266.html#a4239bd747d930d5084e8f6e489980585">AC_DATABASE_API</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d62/a04664.html#a753e207671f7af3815a056247f2de3ce">DBUpdater&lt; CharacterDatabaseConnection &gt;</a></td></tr>
-<tr class="separator:a753e207671f7af3815a056247f2de3ce"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
+Classes</h2></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dfb/a05781.html">PreparedStatementData</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/dfe/a05785.html">PreparedStatementBase</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d56/a05653.html">PreparedStatement&lt; T &gt;</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d30/a05789.html">PreparedStatementTask</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="namespaces" name="namespaces"></a>
+Namespaces</h2></td></tr>
+<tr class="memitem:df/d9b/a04755"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d9b/a04755.html">Acore</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:d0/d9d/a04783"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d9d/a04783.html">Acore::Types</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="typedef-members" name="typedef-members"></a>
+Typedefs</h2></td></tr>
+<tr class="memitem:a6d4fe40146df0d52c6917d8cc920ac84"><td class="memTemplParams" colspan="2">template&lt;typename T &gt; </td></tr>
+<tr class="memitem:a6d4fe40146df0d52c6917d8cc920ac84"><td class="memTemplItemLeft" align="right" valign="top">using&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d0/d9d/a04783.html#a6d4fe40146df0d52c6917d8cc920ac84">Acore::Types::is_default</a> = std::enable_if_t&lt; std::is_arithmetic_v&lt; T &gt;||std::is_same_v&lt; std::vector&lt; <a class="el" href="../../d5/d35/a00266.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> &gt;, T &gt; &gt;</td></tr>
+<tr class="separator:a6d4fe40146df0d52c6917d8cc920ac84"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae544e1b7f5a34959b1b48592f67dd4e7"><td class="memTemplParams" colspan="2">template&lt;typename T &gt; </td></tr>
+<tr class="memitem:ae544e1b7f5a34959b1b48592f67dd4e7"><td class="memTemplItemLeft" align="right" valign="top">using&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d0/d9d/a04783.html#ae544e1b7f5a34959b1b48592f67dd4e7">Acore::Types::is_enum_v</a> = std::enable_if_t&lt; std::is_enum_v&lt; T &gt; &gt;</td></tr>
+<tr class="separator:ae544e1b7f5a34959b1b48592f67dd4e7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a67eb68c20f5616b2ea2a16a87784360a"><td class="memTemplParams" colspan="2">template&lt;typename T &gt; </td></tr>
+<tr class="memitem:a67eb68c20f5616b2ea2a16a87784360a"><td class="memTemplItemLeft" align="right" valign="top">using&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d0/d9d/a04783.html#a67eb68c20f5616b2ea2a16a87784360a">Acore::Types::is_non_string_view_v</a> = std::enable_if_t&lt;!std::is_base_of_v&lt; std::string_view, T &gt; &gt;</td></tr>
+<tr class="separator:a67eb68c20f5616b2ea2a16a87784360a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Variable Documentation</h2>
-<a id="a753e207671f7af3815a056247f2de3ce" name="a753e207671f7af3815a056247f2de3ce"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a753e207671f7af3815a056247f2de3ce">&#9670;&#160;</a></span>DBUpdater&lt; CharacterDatabaseConnection &gt;</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">template class <a class="el" href="../../d5/d35/a00266.html#a4239bd747d930d5084e8f6e489980585">AC_DATABASE_API</a> <a class="el" href="../../d1/d9a/a05866.html">DBUpdater</a>&lt; <a class="el" href="../../d3/d04/a05690.html">CharacterDatabaseConnection</a> &gt;</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a16a33693c8570aff221401b100547fb7" name="a16a33693c8570aff221401b100547fb7"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a16a33693c8570aff221401b100547fb7">&#9670;&#160;</a></span>DBUpdater&lt; LoginDatabaseConnection &gt;</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">template class <a class="el" href="../../d5/d35/a00266.html#a4239bd747d930d5084e8f6e489980585">AC_DATABASE_API</a> <a class="el" href="../../d1/d9a/a05866.html">DBUpdater</a>&lt; <a class="el" href="../../d7/d70/a05694.html">LoginDatabaseConnection</a> &gt;</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="ace05c45d1df6cb7f16487ef1aa8bc9f7" name="ace05c45d1df6cb7f16487ef1aa8bc9f7"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ace05c45d1df6cb7f16487ef1aa8bc9f7">&#9670;&#160;</a></span>DBUpdater&lt; WorldDatabaseConnection &gt;</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">template class <a class="el" href="../../d5/d35/a00266.html#a4239bd747d930d5084e8f6e489980585">AC_DATABASE_API</a> <a class="el" href="../../d1/d9a/a05866.html">DBUpdater</a>&lt; <a class="el" href="../../db/d48/a05698.html">WorldDatabaseConnection</a> &gt;</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_3906e801b468713a6f5b1f193c7ea10d.html">database</a></li><li class="navelem"><a class="el" href="../../dir_ac632e0cb7d565e729369f2b018d776c.html">Updater</a></li><li class="navelem"><a class="el" href="../../d1/d62/a04664.html">DBUpdater.cpp</a></li>
-    <li class="footer">Generated on Mon Apr 14 2025 20:44:33 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_3906e801b468713a6f5b1f193c7ea10d.html">database</a></li><li class="navelem"><a class="el" href="../../dir_4135abd5956581eb408665f16b5c495d.html">Database</a></li><li class="navelem"><a class="el" href="../../d1/d62/a04664.html">PreparedStatement.h</a></li>
+    <li class="footer">Generated on Mon Apr 21 2025 20:44:17 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

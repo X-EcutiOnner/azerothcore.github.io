@@ -1,8 +1,11 @@
 var a25189 =
 [
-    [ "instance_gruuls_lair_InstanceMapScript", "de/db5/a25189.html#a1ad656ccd4d41c756c4f525d079fd9b6", null ],
-    [ "GetData", "de/db5/a25189.html#a410630dbbe00acf0b69603cfc357d503", null ],
-    [ "SetBossState", "de/db5/a25189.html#a9f0752eb0ec1d9ca0681ddc5fc8d3752", null ],
-    [ "SetData", "de/db5/a25189.html#a4cbe09489797fa0076d976f9a717a2bd", null ],
-    [ "_addsKilled", "de/db5/a25189.html#a7a003811fcf620f3c2d11ff3498cb298", null ]
+    [ "spell_gen_consume", "de/db5/a25189.html#a839f5e891cfbd0f83937f06c7fd049d4", null ],
+    [ "AfterRemove", "de/db5/a25189.html#ac521cc1524ddb9dd298145f23cc8fcd1", null ],
+    [ "HandleProc", "de/db5/a25189.html#af69251aa0415a2148162f32dd9113917", null ],
+    [ "PrepareAuraScript", "de/db5/a25189.html#a43860e5dcb2d2cb49e52c280d4f3c7e9", null ],
+    [ "Register", "de/db5/a25189.html#a043362a08bcf9cfe253dd23c722a60bc", null ],
+    [ "Validate", "de/db5/a25189.html#ae9b7c2f4a1b8f26a20b5ca6d90d3c5e9", null ],
+    [ "_spellId1", "de/db5/a25189.html#a9763527e0a95c52888847b84d8f1dd8d", null ],
+    [ "_spellId2", "de/db5/a25189.html#aa9b47c361eaad7dac4725e0be1bfe254", null ]
 ];

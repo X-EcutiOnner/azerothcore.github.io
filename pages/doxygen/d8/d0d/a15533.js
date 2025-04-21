@@ -1,6 +1,7 @@
 var a15533 =
 [
-    [ "spell_energize_aoe_SpellScript", "d4/d77/a15537.html", "d4/d77/a15537" ],
-    [ "spell_energize_aoe", "d8/d0d/a15533.html#a44593a785b223ccdd048f7dd9653e5da", null ],
-    [ "GetSpellScript", "d8/d0d/a15533.html#a1d2a8ad40aa534c525cef1425ca6946a", null ]
+    [ "npc_giltharesAI", "d8/d0d/a15533.html#af22e42b2180987febd964784b6d49b5e", null ],
+    [ "JustEngagedWith", "d8/d0d/a15533.html#ae9ba65652db3d2d32920d1a98594727a", null ],
+    [ "Reset", "d8/d0d/a15533.html#a34d57ef71b60fe71c749f790cecf70b2", null ],
+    [ "WaypointReached", "d8/d0d/a15533.html#a9308c73760e50e0f3d04031b508526d1", null ]
 ];

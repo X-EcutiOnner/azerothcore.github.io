@@ -1,6 +1,9 @@
 var a15881 =
 [
-    [ "HandleApply", "d2/dc0/a15881.html#aee4d5908035d06be2f1469a50db02e26", null ],
-    [ "PrepareAuraScript", "d2/dc0/a15881.html#ac8349deb2e9c8861194e80132bd72fc5", null ],
-    [ "Register", "d2/dc0/a15881.html#ac83962bef84b68cef6d7937769730598", null ]
+    [ "boss_sartharion_vesperonAI", "d2/dc0/a15881.html#afd67bf2c7a479771976673b05b0fc29e", null ],
+    [ "ClearInstance", "d2/dc0/a15881.html#aad9556374e26cbea7641461510fef9ba", null ],
+    [ "ExecuteEvent", "d2/dc0/a15881.html#aaf88a9e57c0d35f9e5d3fbcd4e2f5d09", null ],
+    [ "HandleExtraEvent", "d2/dc0/a15881.html#ab2080a14c105aeb6a9c155cf6f4ec17d", null ],
+    [ "Reset", "d2/dc0/a15881.html#aacf26c52f77ef4eb084814934f00aab1", null ],
+    [ "SummonedCreatureDies", "d2/dc0/a15881.html#a1e6fc9b1c734e73e5e27f6a17cf65d0b", null ]
 ];

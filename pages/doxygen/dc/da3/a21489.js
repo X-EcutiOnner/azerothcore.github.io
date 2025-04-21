@@ -1,8 +1,7 @@
 var a21489 =
 [
-    [ "spell_hodir_flash_freeze_AuraScript", "d8/d92/a21497.html", "d8/d92/a21497" ],
-    [ "spell_hodir_flash_freeze_SpellScript", "d4/de3/a21493.html", "d4/de3/a21493" ],
-    [ "spell_hodir_flash_freeze", "dc/da3/a21489.html#abb362d8432bb2bf816ae6023b7c75ee0", null ],
-    [ "GetAuraScript", "dc/da3/a21489.html#a420ea1393b3fff373fa7b925961379f7", null ],
-    [ "GetSpellScript", "dc/da3/a21489.html#aa187674132434f282445cc391cdb5dc0", null ]
+    [ "npc_valiance_keep_cannoneerAI", "dc/da3/a21489.html#a0769e975c5c7ff1cfbfa6089e3e55e3f", null ],
+    [ "Reset", "dc/da3/a21489.html#a65718076e65b68cae0a54ff4112fdb4b", null ],
+    [ "UpdateAI", "dc/da3/a21489.html#a75f16f2b028ca341db6e08536be06bfa", null ],
+    [ "uiTimer", "dc/da3/a21489.html#a0cf5f0413b1cded835252a38e272f835", null ]
 ];

@@ -1,6 +1,7 @@
 var a20753 =
 [
-    [ "spell_hos_dark_matter_AuraScript", "d3/dca/a20757.html", "d3/dca/a20757" ],
-    [ "spell_hos_dark_matter", "d9/d5a/a20753.html#af170db9adc5adb20f8d6a3e95cd60124", null ],
-    [ "GetAuraScript", "d9/d5a/a20753.html#a2277580897f7533440713157d9cd863f", null ]
+    [ "boss_yoggsaron_corruptor_tentacleAI", "d9/d5a/a20753.html#a5f8fbd8ac772fad79f809de4d3128574", null ],
+    [ "DoAction", "d9/d5a/a20753.html#abac26b3be775eea734403be36cbed4d2", null ],
+    [ "SelectCorruptionTarget", "d9/d5a/a20753.html#a1d61b34d31794cd2bdcddfe91dc1103e", null ],
+    [ "UpdateAI", "d9/d5a/a20753.html#a0269d1dc655af5680d7074cb093740b8", null ]
 ];

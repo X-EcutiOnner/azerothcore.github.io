@@ -1,6 +1,6 @@
 var a20637 =
 [
-    [ "npc_hol_monumentAI", "de/d5a/a20641.html", "de/d5a/a20641" ],
-    [ "npc_hol_monument", "d1/dd8/a20637.html#ae70329e600ba869891e04b31d7452fc0", null ],
-    [ "GetAI", "d1/dd8/a20637.html#a8e025a4c67d3a04a231f4effe0ef3746", null ]
+    [ "BoomEvent", "d1/dd8/a20637.html#aa9b7a8785f382068bb4510ffc0b43004", null ],
+    [ "Execute", "d1/dd8/a20637.html#a1a870bea5c8e0a24a8ecd347a862ee75", null ],
+    [ "_me", "d1/dd8/a20637.html#a30de77ee751f1c10231088cb84942342", null ]
 ];

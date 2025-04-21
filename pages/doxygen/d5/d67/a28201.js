@@ -1,6 +1,8 @@
 var a28201 =
 [
-    [ "HandleEffectPeriodic", "d5/d67/a28201.html#ab283b40ceb6dcd0a835550531321ce92", null ],
-    [ "PrepareAuraScript", "d5/d67/a28201.html#a6d6efe0be7cefeb20c386c83dee561d4", null ],
-    [ "Register", "d5/d67/a28201.html#a4c69f350a68c1f4dd429ab52a791f3cd", null ]
+    [ "ClassMask", "d5/d67/a28201.html#a563ba1618ffefa5470696e37f65c70d4", null ],
+    [ "Flags", "d5/d67/a28201.html#af89c32a22f018557fe016e0784a82384", null ],
+    [ "RaceMask", "d5/d67/a28201.html#acff47bf5c075d669f95b0d229674f9bc", null ],
+    [ "SkillID", "d5/d67/a28201.html#ab9237a8776aa854e0f81cf228a247ef0", null ],
+    [ "SkillTierID", "d5/d67/a28201.html#ab6153043461b71336e12b00957499075", null ]
 ];

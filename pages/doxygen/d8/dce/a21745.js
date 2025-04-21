@@ -1,5 +1,6 @@
 var a21745 =
 [
-    [ "PrepareAuraScript", "d8/dce/a21745.html#a554aed7557e3c00f1c6de9b9872ee70b", null ],
-    [ "Register", "d8/dce/a21745.html#a0cf02d4c43b83ba5d86eaeab024f9012", null ]
+    [ "npc_q24545_vegard_dummyAI", "d8/dce/a21745.html#ad354ccbe97b12f8df1186de4bf52bfcc", null ],
+    [ "UpdateAI", "d8/dce/a21745.html#aa31baac9ce3c4c951f93917b88390797", null ],
+    [ "done", "d8/dce/a21745.html#a0208fbae8e6c46d0671107530279c50c", null ]
 ];

@@ -1,7 +1,5 @@
 var a27961 =
 [
-    [ "HandleHeal", "d5/d3b/a27961.html#a22e3dd3ac57c7cb95162ee56ab43bc93", null ],
-    [ "PrepareSpellScript", "d5/d3b/a27961.html#a9de9260bc1e2582138c58a708e5d899c", null ],
-    [ "Register", "d5/d3b/a27961.html#ab613ce86521f1381b79f6f9f3eaea3cc", null ],
-    [ "Validate", "d5/d3b/a27961.html#aa300822cf5455404482124a6853fb314", null ]
+    [ "cinematicCamera", "d5/d3b/a27961.html#a87e5f6de255dc0c75423eace2768a1dc", null ],
+    [ "Id", "d5/d3b/a27961.html#a9c3dc0e60728c1c76594385d6860f265", null ]
 ];

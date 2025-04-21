@@ -1,9 +1,7 @@
 var a11085 =
 [
-    [ "bytes", "d3/d0d/a11085.html#a3a2997d203c186bc3cd54a9ba4235319", null ],
-    [ "bytes", "d3/d0d/a11085.html#a8484412ccb13cf396a4dc28b86f65b4e", null ],
-    [ "bytes", "d3/d0d/a11085.html#abcb6aeaf899df3e3f6386628ab95f1d9", null ],
-    [ "ints", "d3/d0d/a11085.html#a0518eb4b0a91697500a5a370068425a8", null ],
-    [ "ints", "d3/d0d/a11085.html#a08efba5e78b64fef020453f689bcc5f0", null ],
-    [ "ints", "d3/d0d/a11085.html#a9d3aaefdb90cf7d5193a4c8f25c0393b", null ]
+    [ "chance", "d3/d0d/a11085.html#a3326edd1fa36b85b9ab7a84a6f6f9d1b", null ],
+    [ "triggeredByAura", "d3/d0d/a11085.html#abb48d6093570ba9c5488f200544a1e83", null ],
+    [ "triggeredByEffIdx", "d3/d0d/a11085.html#a82d752dedab39f417af225add6af1403", null ],
+    [ "triggeredSpell", "d3/d0d/a11085.html#a02ac12119655f9ab82347d21cc68803a", null ]
 ];

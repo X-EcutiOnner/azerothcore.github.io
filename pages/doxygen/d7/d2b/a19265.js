@@ -1,6 +1,6 @@
 var a19265 =
 [
-    [ "spell_the_lich_king_trigger_vile_spirit_SpellScript", "d3/d9f/a19269.html", "d3/d9f/a19269" ],
-    [ "spell_the_lich_king_trigger_vile_spirit", "d7/d2b/a19265.html#a875bb4a5e6bad99f06e2c04485cbda4d", null ],
-    [ "GetSpellScript", "d7/d2b/a19265.html#a89f29a493a7be4bd17c59f46e3909404", null ]
+    [ "boss_drakosAI", "d3/d9f/a19269.html", "d3/d9f/a19269" ],
+    [ "boss_drakos", "d7/d2b/a19265.html#aa70ae2809af4f24eea0b83b42d695448", null ],
+    [ "GetAI", "d7/d2b/a19265.html#a16dcc7f9da254d0bddc19394a1cd4ab0", null ]
 ];

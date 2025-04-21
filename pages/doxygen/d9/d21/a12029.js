@@ -1,10 +1,11 @@
 var a12029 =
 [
-    [ "boss_golemaggAI", "d9/d21/a12029.html#a79e2416a55a1531316d891ebff4e5575", null ],
-    [ "DamageTaken", "d9/d21/a12029.html#a5f9191609c7ff0715ba186f8ae28262b", null ],
-    [ "Reset", "d9/d21/a12029.html#aeed4cda9fae3e0b46832ec1bfecb97b0", null ],
-    [ "UpdateAI", "d9/d21/a12029.html#af7b322731241dbb08041a92cd355f273", null ],
-    [ "earthquakeTimer", "d9/d21/a12029.html#a6bfd75b1d57d8002cab075bbd5a12612", null ],
-    [ "enraged", "d9/d21/a12029.html#a52e6d8bcf979d216aff536e8fae3bf01", null ],
-    [ "pyroblastTimer", "d9/d21/a12029.html#a142ededff85d517c08744bdafd644c34", null ]
+    [ "boss_quartermaster_zigris", "d9/d21/a12029.html#a1d2f68327cc9b88fdd82d44ac8446d57", null ],
+    [ "DamageTaken", "d9/d21/a12029.html#a61d7f1c4e5a2901812f1175ccce69ab2", null ],
+    [ "JustDied", "d9/d21/a12029.html#a9295bbcffd7968051a789e8dfb634e23", null ],
+    [ "JustEngagedWith", "d9/d21/a12029.html#af482c06e00e7f6c15b290115998a27a9", null ],
+    [ "Reset", "d9/d21/a12029.html#a71e911bb91b7447e8aed28cdccfda8db", null ],
+    [ "SpellHitTarget", "d9/d21/a12029.html#a38197746cc73ada1378e6e1a5555ef79", null ],
+    [ "UpdateAI", "d9/d21/a12029.html#a400f7ace05cd5c4d127aecf5d771c616", null ],
+    [ "_hasDrunkPotion", "d9/d21/a12029.html#a25335533bc43171687e03f1ed22d4fb3", null ]
 ];

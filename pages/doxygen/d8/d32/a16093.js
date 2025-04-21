@@ -1,6 +1,7 @@
 var a16093 =
 [
-    [ "spell_sartharion_lava_strike_SpellScript", "d8/dcb/a16097.html", "d8/dcb/a16097" ],
-    [ "spell_sartharion_lava_strike", "d8/d32/a16093.html#a26ce932a1cd3d1833971f2c2cff422c8", null ],
-    [ "GetSpellScript", "d8/d32/a16093.html#ab4820863d87a4ca3353fd21f66b5ec0c", null ]
+    [ "HandleDummy", "d8/d32/a16093.html#a687cff5dcfcd7d9253182eb604d7a780", null ],
+    [ "PrepareSpellScript", "d8/d32/a16093.html#ab8544e2c9e3bea229abd270c108bfa14", null ],
+    [ "Register", "d8/d32/a16093.html#a144224b42aabc0402b729dcc808d779d", null ],
+    [ "Validate", "d8/d32/a16093.html#a985e843e856a7322bccf8544c45df48c", null ]
 ];

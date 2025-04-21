@@ -1,6 +1,8 @@
 var a25769 =
 [
-    [ "HandleDummy", "db/dec/a25769.html#af4c8b1e6de383bb1f45a20e4d7b8d345", null ],
-    [ "PrepareSpellScript", "db/dec/a25769.html#acf127f181c25cdbb1f72a92d9b9cf92d", null ],
-    [ "Register", "db/dec/a25769.html#a9d6e22dc7afeb8a4be2d67aa14765571", null ]
+    [ "HandleDummy", "db/dec/a25769.html#a13b4ea32e03dec26d0cdaa9537abb3b0", null ],
+    [ "Load", "db/dec/a25769.html#a78506404ba25b054a9ab3f7176a5d4fc", null ],
+    [ "PrepareSpellScript", "db/dec/a25769.html#a070e83b84feb418f02327240daebede7", null ],
+    [ "Register", "db/dec/a25769.html#a0c2965e62feb26ca764636fcd3a1f885", null ],
+    [ "Validate", "db/dec/a25769.html#a48934cde38c6f3b18087267b616ff338", null ]
 ];

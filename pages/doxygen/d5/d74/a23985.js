@@ -1,6 +1,7 @@
 var a23985 =
 [
-    [ "PrepareSpellScript", "d5/d74/a23985.html#ad80665c68b78f5ae8bf54520f2a2cffb", null ],
-    [ "RecalculateDamage", "d5/d74/a23985.html#ac9c02759adc50dab119bbad191a9562e", null ],
-    [ "Register", "d5/d74/a23985.html#a584245a0e511f5d419177aaccf37a501", null ]
+    [ "npc_creditmarker_visit_with_ancestorsAI", "d5/d74/a23985.html#a483e8fb0d73561e34a1078fdde1a1b5b", null ],
+    [ "JustEngagedWith", "d5/d74/a23985.html#a4038d707731f64f588e307c22c859902", null ],
+    [ "MoveInLineOfSight", "d5/d74/a23985.html#a40d92122cd4f879f52ff78a4f172c3b8", null ],
+    [ "Reset", "d5/d74/a23985.html#a29132346f117ba785039057619edb9e7", null ]
 ];

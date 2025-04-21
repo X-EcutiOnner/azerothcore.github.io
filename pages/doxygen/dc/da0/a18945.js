@@ -1,6 +1,6 @@
 var a18945 =
 [
-    [ "boss_the_lich_kingAI", "d1/d93/a18949.html", "d1/d93/a18949" ],
-    [ "boss_the_lich_king", "dc/da0/a18945.html#a10e2789a98a85907d24eabae6d7655f4", null ],
-    [ "GetAI", "dc/da0/a18945.html#ab12d8cdfdb1c5428423f6db9dda6c97e", null ]
+    [ "FilterTargets", "dc/da0/a18945.html#a2df81e30554809a0d5b45d2f471bb71f", null ],
+    [ "PrepareSpellScript", "dc/da0/a18945.html#aa51d9c578b782fbe0e7e3cf13789b702", null ],
+    [ "Register", "dc/da0/a18945.html#a4c1eab348e54011f1a2f827fc251ca13", null ]
 ];

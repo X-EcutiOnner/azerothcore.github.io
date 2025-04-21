@@ -1,9 +1,8 @@
 var a15157 =
 [
-    [ "npc_giant_eye_tentacle", "d0/d2b/a15157.html#a1adebf586a8a4413bb048936b90ddd3c", null ],
-    [ "JustDied", "d0/d2b/a15157.html#a72cac50a711868256a41c543d0cef3da", null ],
-    [ "JustEngagedWith", "d0/d2b/a15157.html#ac26b16e709e62c429b7ca88815bbc4cd", null ],
-    [ "Reset", "d0/d2b/a15157.html#a4e605a585099d136d8f6bd42b6450f1d", null ],
-    [ "UpdateAI", "d0/d2b/a15157.html#aacae6ea2616af2ad9515167fc1bab61d", null ],
-    [ "_portalGUID", "d0/d2b/a15157.html#af9784b6d00e50ec28ed27361aaf3442f", null ]
+    [ "npc_ahnqiraji_critter", "d0/d2b/a15157.html#a60e2dc1c52579a410d3435126bf39684", null ],
+    [ "JustDied", "d0/d2b/a15157.html#a71d3d5262bde847a18932fea89cb6648", null ],
+    [ "JustEngagedWith", "d0/d2b/a15157.html#aca1df706306f9181db26cd77e5b66452", null ],
+    [ "Reset", "d0/d2b/a15157.html#a645e16e9da29f6579320394201d0ada7", null ],
+    [ "UpdateAI", "d0/d2b/a15157.html#a68c5ded8563c2de9429a13cdb7d38f89", null ]
 ];

@@ -1,6 +1,7 @@
 var a14561 =
 [
-    [ "spell_red_sky_effect_SpellScript", "d2/daf/a14565.html", "d2/daf/a14565" ],
-    [ "spell_red_sky_effect", "d9/dfd/a14561.html#ab7c4a9fc6ef6606435dc29612858a681", null ],
-    [ "GetSpellScript", "d9/dfd/a14561.html#a94107e2cb59b9b4b7410bebf70a94eee", null ]
+    [ "hyjalThrallAI", "d2/daf/a14565.html", "d2/daf/a14565" ],
+    [ "npc_hyjal_thrall", "d9/dfd/a14561.html#a232f085f208a47f7fae08128de1d06b8", null ],
+    [ "GetAI", "d9/dfd/a14561.html#a699b5df19e4e84166348ecfba2dd0172", null ],
+    [ "OnGossipSelect", "d9/dfd/a14561.html#af833f26d79d34655c010aa04f984a94a", null ]
 ];

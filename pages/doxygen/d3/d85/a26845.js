@@ -1,7 +1,6 @@
 var a26845 =
 [
-    [ "HandleScript", "d3/d85/a26845.html#a8ec57aed0788f58e2c50fc08793a5749", null ],
-    [ "PrepareSpellScript", "d3/d85/a26845.html#a56c9ab120239252982cab8b96ac8c5fe", null ],
-    [ "Register", "d3/d85/a26845.html#a8c727b2b00858abcce058b16d66ca62a", null ],
-    [ "Validate", "d3/d85/a26845.html#af3ffb9930eaba8703065719bbcf02f56", null ]
+    [ "HandleDummy", "d3/d85/a26845.html#a68a86f7f86324336dc837622e01fa6af", null ],
+    [ "PrepareSpellScript", "d3/d85/a26845.html#a8c0a4b3b96a93b6977c2d3077fdfff1d", null ],
+    [ "Register", "d3/d85/a26845.html#ad168c9164d1edd23abfbf05141b96de4", null ]
 ];

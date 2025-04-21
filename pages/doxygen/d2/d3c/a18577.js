@@ -1,6 +1,5 @@
 var a18577 =
 [
-    [ "spell_putricide_eat_ooze_SpellScript", "d5/dd6/a18581.html", "d5/dd6/a18581" ],
-    [ "spell_putricide_eat_ooze", "d2/d3c/a18577.html#a1825fc77bc233990450ab33b806f3cba", null ],
-    [ "GetSpellScript", "d2/d3c/a18577.html#aedcb8def1f2f99d7564ba518b3aebedf", null ]
+    [ "npc_alchemist_adrianna", "d2/d3c/a18577.html#a310d375bc73c51e407580b063a6543fa", null ],
+    [ "OnGossipHello", "d2/d3c/a18577.html#a02ec6a66037d72e30bbe821ceee38691", null ]
 ];

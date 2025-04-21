@@ -1,6 +1,7 @@
 var a18389 =
 [
-    [ "spell_marrowgar_bone_slice_SpellScript", "d5/d05/a18393.html", "d5/d05/a18393" ],
-    [ "spell_marrowgar_bone_slice", "da/d1b/a18389.html#a2f0c9172704a0e91da617f55afef43ba", null ],
-    [ "GetSpellScript", "da/d1b/a18389.html#a3185d10f1770b2eb0abe0122085906be", null ]
+    [ "npc_valithria_portalAI", "da/d1b/a18389.html#a18c1b9d2b149fbc34a17c9e87a8c70b6", null ],
+    [ "GetData", "da/d1b/a18389.html#a598ba7930900aa211bb7e7dc12f366c0", null ],
+    [ "OnSpellClick", "da/d1b/a18389.html#a457f2725e6580d7e6f3bb0445ba796a8", null ],
+    [ "_used", "da/d1b/a18389.html#a92cc0c2aaa6add0c6c641719d6846bb3", null ]
 ];

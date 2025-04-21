@@ -1,9 +1,5 @@
 var a26997 =
 [
-    [ "spell_gen_lifebloom", "d8/dc5/a26997.html#a5cb52a4dda841d9d31fd00a31ddc3350", null ],
-    [ "AfterRemove", "d8/dc5/a26997.html#aea962f603e56c1bd33fccaef0c89d917", null ],
-    [ "PrepareAuraScript", "d8/dc5/a26997.html#ac11134bdc3588795ce6e256c5b02055f", null ],
-    [ "Register", "d8/dc5/a26997.html#ab4a552402ee9f90834320d6fc668cff3", null ],
-    [ "Validate", "d8/dc5/a26997.html#a599634d92b92a5635b89733b7bb3c3c8", null ],
-    [ "_spellId", "d8/dc5/a26997.html#a196484d01d2dc07163e18fdca9f60ca9", null ]
+    [ "AreaTrigger_at_last_rites", "d8/dc5/a26997.html#a30d1930c76920ab12cf4f9b04fd5f0e4", null ],
+    [ "OnTrigger", "d8/dc5/a26997.html#a48f6e2041cda24812a165fa0fb62f1b6", null ]
 ];

@@ -1,5 +1,5 @@
 var a27113 =
 [
-    [ "PrepareSpellScript", "d6/d10/a27113.html#a5e100554f868649d4edea011fe767b8b", null ],
-    [ "Register", "d6/d10/a27113.html#a0ffb1cb313060770227621edb16c3a0d", null ]
+    [ "go_ethereum_stasis", "d6/d10/a27113.html#aaa8fc5733678a17a37c60c9853f91e62", null ],
+    [ "OnGossipHello", "d6/d10/a27113.html#ac36da8dccbebcaee605a878df3904c60", null ]
 ];

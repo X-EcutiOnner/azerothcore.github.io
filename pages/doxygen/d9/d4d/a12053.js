@@ -1,6 +1,11 @@
 var a12053 =
 [
-    [ "boss_magmadarAI", "d9/d4d/a12053.html#a47207fdd6eb94fb08791da06cd4160f6", null ],
-    [ "ExecuteEvent", "d9/d4d/a12053.html#a7d4c1807cb320fdc331057209a4ce166", null ],
-    [ "JustEngagedWith", "d9/d4d/a12053.html#a5ce1495d01f28e0a38f00127e7137a4f", null ]
+    [ "boss_solakar_flamewreathAI", "d9/d4d/a12053.html#ada12a91bedec9be8923f9dc74fce07d0", null ],
+    [ "ExecuteEvent", "d9/d4d/a12053.html#aa1fca22d30b15ee93cc02084ebab0c2c", null ],
+    [ "InitializeAI", "d9/d4d/a12053.html#a7a8a5d3c453e29ec746422e1ba8e4d34", null ],
+    [ "JustDied", "d9/d4d/a12053.html#aceb580afa2329ada3236dc759f3a3c20", null ],
+    [ "JustEngagedWith", "d9/d4d/a12053.html#a47f8a133b6f8c0de11a66b712bb8e266", null ],
+    [ "Reset", "d9/d4d/a12053.html#a25ae2943a7ce9a1f459cfd1313c84c49", null ],
+    [ "UpdateAI", "d9/d4d/a12053.html#ac5f908584251455c720ce3f25ed07dae", null ],
+    [ "resetTimer", "d9/d4d/a12053.html#acd7fdd30767a7863f265eb96e29c221e", null ]
 ];

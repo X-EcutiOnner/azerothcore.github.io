@@ -1,8 +1,6 @@
 var a26769 =
 [
-    [ "HandleEffectCalcPeriodic", "de/d0a/a26769.html#a78c46695cab8da2280686ea49d88f036", null ],
-    [ "HandleEffectPeriodic", "de/d0a/a26769.html#a65b8a9dcd836cb538d5d2bec3d03d4a2", null ],
-    [ "HandleOnEffectRemove", "de/d0a/a26769.html#af722cf30e478802784178a9346bd1bdd", null ],
-    [ "PrepareAuraScript", "de/d0a/a26769.html#a6352d1ab3dd67efd9be171f7db20a62d", null ],
-    [ "Register", "de/d0a/a26769.html#ae6c2b365463345c71ed1a4acdee04a15", null ]
+    [ "CalculateAmount", "de/d0a/a26769.html#aa27de1a2fc517a4b796a10e780239880", null ],
+    [ "PrepareAuraScript", "de/d0a/a26769.html#a72e68ff46f2049809f3e3b2c1814bd87", null ],
+    [ "Register", "de/d0a/a26769.html#a5ee969ad0916a9337849c75c18f13c29", null ]
 ];

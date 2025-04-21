@@ -1,6 +1,6 @@
 var a16197 =
 [
-    [ "npc_orb_carrierAI", "d6/d4d/a16201.html", "d6/d4d/a16201" ],
-    [ "npc_orb_carrier", "d1/d18/a16197.html#a69fdd8cb2f0cdf7cf6cf0bdabbc0cd03", null ],
-    [ "GetAI", "d1/d18/a16197.html#ab5b7bbffc43b840c686dc889805ea401", null ]
+    [ "boss_grand_championAI", "d6/d4d/a16201.html", "d6/d4d/a16201" ],
+    [ "boss_grand_champion", "d1/d18/a16197.html#a9577f8af5e234b3aebd7567841b867e2", null ],
+    [ "GetAI", "d1/d18/a16197.html#aa60972482ef16329d7ffc0a7ccf2d03e", null ]
 ];

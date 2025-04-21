@@ -1,8 +1,6 @@
 var a18541 =
 [
-    [ "spell_putricide_mutation_init_AuraScript", "d9/dc1/a18549.html", "d9/dc1/a18549" ],
-    [ "spell_putricide_mutation_init_SpellScript", "d9/d48/a18545.html", "d9/d48/a18545" ],
-    [ "spell_putricide_mutation_init", "dc/df9/a18541.html#a0113370be118144e657efa83507adb6b", null ],
-    [ "GetAuraScript", "dc/df9/a18541.html#a11fc02f6923da04518ae1355c0068c9c", null ],
-    [ "GetSpellScript", "dc/df9/a18541.html#aeb39117181835a570763babfdcf0c3ed", null ]
+    [ "npc_captain_brandonAI", "dc/df9/a18541.html#a1fe09b93be658660ba3c127c142e2ee6", null ],
+    [ "Reset", "dc/df9/a18541.html#a13226b321707eee9faf5f073c81403e4", null ],
+    [ "UpdateAI", "dc/df9/a18541.html#a721f8f7395cd57d4dba74f66ae40169f", null ]
 ];

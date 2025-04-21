@@ -1,6 +1,6 @@
 var a21657 =
 [
-    [ "OnPeriodic", "d0/d76/a21657.html#a714badb5b695e610823edbf3024b6a4a", null ],
-    [ "PrepareAuraScript", "d0/d76/a21657.html#a686fb8a0c2524bf4294dea521a40caca", null ],
-    [ "Register", "d0/d76/a21657.html#ad33099cc043d5204304673f363b5cf8e", null ]
+    [ "npc_mindless_ghoulAI", "d0/d76/a21657.html#a4cc0dbd4aa2366115348bc1db273a5e2", null ],
+    [ "CanAIAttack", "d0/d76/a21657.html#a18fbc44ad760a69d952d003622ec75b2", null ],
+    [ "JustDied", "d0/d76/a21657.html#a272067bef6dbab24024f7de990c10b64", null ]
 ];

@@ -1,6 +1,6 @@
 var a21645 =
 [
-    [ "spell_ulduar_squeezed_lifeless_SpellScript", "d4/d71/a21649.html", "d4/d71/a21649" ],
-    [ "spell_ulduar_squeezed_lifeless", "d8/d35/a21645.html#adaf276bdb06cf21ab9be22f5d1a09843", null ],
-    [ "GetSpellScript", "d8/d35/a21645.html#a4540a7e6f57a8b33cb8c527fa5b81c81", null ]
+    [ "npc_future_youAI", "d4/d71/a21649.html", "d4/d71/a21649" ],
+    [ "npc_future_you", "d8/d35/a21645.html#a36e363156bcb32fee468989062817bd5", null ],
+    [ "GetAI", "d8/d35/a21645.html#a2e1529fef3ce307d98057dc93ce5e5fe", null ]
 ];

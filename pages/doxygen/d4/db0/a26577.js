@@ -1,8 +1,9 @@
 var a26577 =
 [
-    [ "AfterApply", "d4/db0/a26577.html#a9c2591beacd941893338109719c03e3f", null ],
-    [ "AfterRemove", "d4/db0/a26577.html#a0be2a66b615dd926de7073392a8e5062", null ],
-    [ "PrepareAuraScript", "d4/db0/a26577.html#a4763d0c69c12611244f68ba5a5b1ccce", null ],
-    [ "Register", "d4/db0/a26577.html#a36fb81d0bf4cf92773db60a70de52dda", null ],
-    [ "Validate", "d4/db0/a26577.html#a86b51ec85105b0396972f0c3d7b770c1", null ]
+    [ "CalculateAmount", "d4/db0/a26577.html#a55d778b049e26c28bfa9d2e08d7920a8", null ],
+    [ "CheckProc", "d4/db0/a26577.html#aa0144f9a0260a74010ced913dd8cadbd", null ],
+    [ "HandleProc", "d4/db0/a26577.html#a741570ba77f70d90b437198f63e565f3", null ],
+    [ "PrepareAuraScript", "d4/db0/a26577.html#af4e49e2362994f247c119c16c013e4b3", null ],
+    [ "Register", "d4/db0/a26577.html#a06a3c11618cbdf15427bbaa6ac8a4273", null ],
+    [ "Validate", "d4/db0/a26577.html#a939d6815bcaee9b9d2b062313aac912a", null ]
 ];

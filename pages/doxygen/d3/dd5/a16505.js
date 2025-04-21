@@ -1,8 +1,5 @@
 var a16505 =
 [
-    [ "npc_announcer_toc5AI", "d3/dd5/a16505.html#a96e1bd089dfd21fa252bc6422d20bada", null ],
-    [ "DamageTaken", "d3/dd5/a16505.html#a53458483699ac026ff2cd36b5f061571", null ],
-    [ "MovementInform", "d3/dd5/a16505.html#acdcf4110b3815635ad173a70e7a1e603", null ],
-    [ "Reset", "d3/dd5/a16505.html#ab3dca17e0350d6d46a9069f97f2d12ef", null ],
-    [ "UpdateAI", "d3/dd5/a16505.html#ad2c596253d67d051f497a8d77859846d", null ]
+    [ "boss_fjolaAI", "d3/dd5/a16505.html#aa46fdff841d01f28ef50aa5363082f71", null ],
+    [ "JustSummoned", "d3/dd5/a16505.html#a59a3f2453f923d4f19c63e88402d1a76", null ]
 ];

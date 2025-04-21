@@ -1,6 +1,9 @@
 var a23617 =
 [
-    [ "spell_anti_air_rocket_bomber_SpellScript", "de/da5/a23621.html", "de/da5/a23621" ],
-    [ "spell_anti_air_rocket_bomber", "d6/d86/a23617.html#a8b94d9fe0c61c7238f31fd2c11e7beee", null ],
-    [ "GetSpellScript", "d6/d86/a23617.html#a928a4174f5465f83bb020572fc96085f", null ]
+    [ "boss_dalliah_the_doomsayer", "d6/d86/a23617.html#ad6edf9623942297b28bc7420ec0cc733", null ],
+    [ "InitializeAI", "d6/d86/a23617.html#a85342ef80a64ce05f87cf7d90a8bfe79", null ],
+    [ "JustDied", "d6/d86/a23617.html#a431edc9c25fb125d7d267073eb1c1423", null ],
+    [ "JustEngagedWith", "d6/d86/a23617.html#a6d3d8d027ddb08417dd11f1606a1418f", null ],
+    [ "KilledUnit", "d6/d86/a23617.html#af28bfc1166ad45bf7bc046f5906a8b11", null ],
+    [ "Reset", "d6/d86/a23617.html#a5b4f186225a55afdf1de80b7126d10eb", null ]
 ];

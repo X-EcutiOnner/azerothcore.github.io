@@ -1,6 +1,6 @@
 var a18113 =
 [
-    [ "spell_igb_rocket_pack_useable_AuraScript", "d0/da4/a18117.html", "d0/da4/a18117" ],
-    [ "spell_igb_rocket_pack_useable", "d9/db5/a18113.html#a6efe5e406f6bc45fdad32bf5acc21c65", null ],
-    [ "GetAuraScript", "d9/db5/a18113.html#a4dec7454b8e096f72faaaa38773477e2", null ]
+    [ "npc_tirion_fordringAI", "d0/da4/a18117.html", "d0/da4/a18117" ],
+    [ "npc_tirion_fordring_tft", "d9/db5/a18113.html#a04036d958e7ac643c9ba8d9073bca404", null ],
+    [ "GetAI", "d9/db5/a18113.html#a41dcfa415831091531cbf46e946f442d", null ]
 ];

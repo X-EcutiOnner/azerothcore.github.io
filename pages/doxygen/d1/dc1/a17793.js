@@ -1,6 +1,7 @@
 var a17793 =
 [
-    [ "spell_blood_queen_pact_of_the_darkfallen_dmg_SpellScript", "d6/d06/a17797.html", "d6/d06/a17797" ],
-    [ "spell_blood_queen_pact_of_the_darkfallen_dmg_target", "d1/dc1/a17793.html#ab875565f15fda6494f5862f11b8a5e93", null ],
-    [ "GetSpellScript", "d1/dc1/a17793.html#ae084f448d7c9b5b2a4c7583e8ff3c537", null ]
+    [ "HandleDummy", "d1/dc1/a17793.html#aa61db53d7395fd45b8569e12978fed0b", null ],
+    [ "PrepareSpellScript", "d1/dc1/a17793.html#ab63054debe6763027ab52ad122277719", null ],
+    [ "Register", "d1/dc1/a17793.html#a6dee5fc9fafd7faa3eadbf9431568dcc", null ],
+    [ "Validate", "d1/dc1/a17793.html#adb7e30d10c2071de5d5070b64a10af30", null ]
 ];

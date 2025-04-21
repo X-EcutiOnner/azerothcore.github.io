@@ -1,7 +1,6 @@
 var a17901 =
 [
-    [ "CheckProc", "d3/df0/a17901.html#a0d64439e4de0c84017a072825d09a238", null ],
-    [ "HandleProc", "d3/df0/a17901.html#a71154e5c54212595071fe0ab00c0b843", null ],
-    [ "PrepareAuraScript", "d3/df0/a17901.html#a6d26243e6f6bd2b1fa33952fa654f1ee", null ],
-    [ "Register", "d3/df0/a17901.html#af373e98d828b9f0fa3f2107d0ec4b604", null ]
+    [ "DespawnSelf", "d3/df0/a17901.html#a7009dd0e842898d03caa89e92447749d", null ],
+    [ "PrepareAuraScript", "d3/df0/a17901.html#a00f0379b4e4fadf73bed7d483e406ac5", null ],
+    [ "Register", "d3/df0/a17901.html#a8f21cb8ab1145fe32a78a682445cfc2d", null ]
 ];

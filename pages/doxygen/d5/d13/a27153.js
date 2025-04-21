@@ -1,10 +1,6 @@
 var a27153 =
 [
-    [ "Load", "d5/d13/a27153.html#a04526f30ad35af3f629cdd0c8312e33c", null ],
-    [ "OnApply", "d5/d13/a27153.html#a83d922c434442e22482410d61aa0198f", null ],
-    [ "OnPetApply", "d5/d13/a27153.html#a6df5e59e29cb89310a1c78bf93029545", null ],
-    [ "OnRemove", "d5/d13/a27153.html#aa4efa4ed7d98c63989353c398bb2b128", null ],
-    [ "PrepareAuraScript", "d5/d13/a27153.html#a1b4d8f636c01f01bc9380c290de91a0e", null ],
-    [ "Register", "d5/d13/a27153.html#a265726c9bfa180c3b8f470eb1eee837b", null ],
-    [ "Validate", "d5/d13/a27153.html#ab318472ea9f4aaa79e45f18783586eed", null ]
+    [ "go_l70_etc_musicAI", "df/da3/a27157.html", "df/da3/a27157" ],
+    [ "go_l70_etc_music", "d5/d13/a27153.html#a766dccca12fc7959273ba1e3a278564f", null ],
+    [ "GetAI", "d5/d13/a27153.html#a5231ffc778830f8a49ae85a8c1173deb", null ]
 ];

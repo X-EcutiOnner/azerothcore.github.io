@@ -1,11 +1,7 @@
 var a08085 =
 [
-    [ "MovableMapObject", "de/da2/a08085.html#ad9f4cb74c55993cfdfc5895aefc33cfb", null ],
-    [ "GetCurrentCell", "de/da2/a08085.html#a6d7d87cff5f00f3b370584675caf7870", null ],
-    [ "SetCurrentCell", "de/da2/a08085.html#a4caa8c9e50452bff413dec06bf80b84c", null ],
-    [ "Map", "de/da2/a08085.html#ad2f32e921244459f7cc6d50355429cc6", null ],
-    [ "ObjectGridLoader", "de/da2/a08085.html#a9551c85ae0e43e4d212225c643da2262", null ],
-    [ "RandomMovementGenerator", "de/da2/a08085.html#a260ebfc53c9406bc0356c553822d8ab2", null ],
-    [ "_currentCell", "de/da2/a08085.html#a529db8859c0c9713bcc2f62459bbcc9f", null ],
-    [ "_moveState", "de/da2/a08085.html#a6782d8e3dc7de58ef83a83cf0a355e43", null ]
+    [ "entry", "de/da2/a08085.html#aabf7002fbd171e7f1832be5f066dbe44", null ],
+    [ "pos", "de/da2/a08085.html#aad6aa76796625075e4fcfb7d1a3eb88c", null ],
+    [ "time", "de/da2/a08085.html#a8a38eed04cdb2efb89e98f869e0d800d", null ],
+    [ "type", "de/da2/a08085.html#a40927a435b557e4c1e5c5eedbb5d5e5b", null ]
 ];

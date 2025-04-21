@@ -1,6 +1,10 @@
 var a13717 =
 [
-    [ "boss_alyson_antilleAI", "d6/d95/a13721.html", "d6/d95/a13721" ],
-    [ "boss_alyson_antille", "d8/dfa/a13717.html#a0a67ddb176935e76ce9894e268b97d12", null ],
-    [ "GetAI", "d8/dfa/a13717.html#abd00892521ed17c9a5f5a35c0535548e", null ]
+    [ "boss_alyson_antille", "d8/dfa/a13717.html#a8b95891ced3f17f67470d1ec7b1a9a3e", null ],
+    [ "GetNearbyFriendlies", "d8/dfa/a13717.html#ab99596d5c2eafac8c678378d509bf585", null ],
+    [ "JustEngagedWith", "d8/dfa/a13717.html#a7a7d62c52a403ac1d8e5d275a74cad6e", null ],
+    [ "RandomReverseFriendlyList", "d8/dfa/a13717.html#afef27de229ba2c3b8beb30809a313237", null ],
+    [ "Reset", "d8/dfa/a13717.html#a40d901bde9f8419a1c73aa073f6fb334", null ],
+    [ "UpdateAI", "d8/dfa/a13717.html#a15157be42d166a239ab658fc04292e44", null ],
+    [ "_friendlyList", "d8/dfa/a13717.html#a0168c4a0f1e9862fe0d83ffac89aa634", null ]
 ];

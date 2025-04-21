@@ -1,5 +1,7 @@
 var a25057 =
 [
-    [ "go_main_chambers_access_panel", "da/d41/a25057.html#a30c3c20be1892b5107ef53683d593b75", null ],
-    [ "OnGossipHello", "da/d41/a25057.html#af4b3a4a0260de68dcfac7202e0a728ee", null ]
+    [ "HandleChargeEffect", "da/d41/a25057.html#ad8d2871e6277dd982653fa864010d084", null ],
+    [ "HandleScriptEffect", "da/d41/a25057.html#a2c0a734c9e8cc1bd7ae4baa168bda7fc", null ],
+    [ "PrepareSpellScript", "da/d41/a25057.html#a1f8722308e1a5bef546dcb939d73dca7", null ],
+    [ "Register", "da/d41/a25057.html#a2cdda449ab11438347e7dd32fd058e6d", null ]
 ];

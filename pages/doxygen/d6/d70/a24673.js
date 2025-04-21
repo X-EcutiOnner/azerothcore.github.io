@@ -1,7 +1,6 @@
 var a24673 =
 [
-    [ "boss_lady_malandeAI", "d6/d70/a24673.html#a03513a150eba610edf97c00303e26213", null ],
-    [ "AttackStart", "d6/d70/a24673.html#ab176d8313c9d28bf6d9814438f23f188", null ],
-    [ "JustEngagedWith", "d6/d70/a24673.html#a9d2fc7ca2c6a2fbbbd84e082e8ef93af", null ],
-    [ "UpdateAI", "d6/d70/a24673.html#a2aa5723eba0e8f42fe269e56070dcf80", null ]
+    [ "CheckCast", "d6/d70/a24673.html#a8ab8394c56201264ac4f2d859dd52092", null ],
+    [ "PrepareSpellScript", "d6/d70/a24673.html#acc6d27c8d869ec80ee5794405f6c238a", null ],
+    [ "Register", "d6/d70/a24673.html#a191085bc21ce6f5ce1d5b43d6d70f069", null ]
 ];

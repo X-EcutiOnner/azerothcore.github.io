@@ -1,4 +1,4 @@
 var a00488 =
 [
-    [ "VMAP::VMapFactory", "d2/d68/a04954.html", "d2/d68/a04954" ]
+    [ "VMAP::VMapFactory", "d1/d34/a04957.html", "d1/d34/a04957" ]
 ];

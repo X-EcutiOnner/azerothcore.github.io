@@ -1,6 +1,6 @@
 var a18481 =
 [
-    [ "HandleExtraEffect", "dc/d9d/a18481.html#a1aaa3754eb3a616b2108578c28923760", null ],
-    [ "PrepareAuraScript", "dc/d9d/a18481.html#a07d6acd47c15234dd75dadfef1f2df3f", null ],
-    [ "Register", "dc/d9d/a18481.html#a92b6fc7677eae79638fb5db6b643b622", null ]
+    [ "CaptainSurviveTalk", "dc/d9d/a18481.html#a43a1b1da17ed41ae765aabc47c858f80", null ],
+    [ "Execute", "dc/d9d/a18481.html#a871cf08e8c7fced2971cae8abbc20454", null ],
+    [ "_owner", "dc/d9d/a18481.html#ac8de506afb4688560ea637918d07b01e", null ]
 ];

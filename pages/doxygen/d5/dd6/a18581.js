@@ -1,7 +1,6 @@
 var a18581 =
 [
-    [ "HandleScript", "d5/dd6/a18581.html#a039143cf28bd9c37e27cdd465fc55171", null ],
-    [ "PrepareSpellScript", "d5/dd6/a18581.html#a1c12ef1ad77d485d1dcfe488f8273d6e", null ],
-    [ "Register", "d5/dd6/a18581.html#aae23fe522533a7b5f5b7db42d708ed45", null ],
-    [ "SelectTarget", "d5/dd6/a18581.html#a0b6be9742e192ece3e1a94c129ce0f53", null ]
+    [ "npc_arthas_teleport_visualAI", "df/d77/a18585.html", "df/d77/a18585" ],
+    [ "npc_arthas_teleport_visual", "d5/dd6/a18581.html#a62d2caed6b12355f6d7aeceabba2ddaf", null ],
+    [ "GetAI", "d5/dd6/a18581.html#a393d5ef960b9ee0cf8feeeeb5d81045d", null ]
 ];

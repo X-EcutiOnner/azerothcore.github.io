@@ -1,4 +1,5 @@
 var a04770 =
 [
-    [ "GetBounds", "d6/df5/a04770.html#a01ceb11072dfedbd099c2461f817c895", null ]
+    [ "Base32", "d0/d83/a05281.html", "d0/d83/a05281" ],
+    [ "Base64", "da/d4c/a05289.html", "da/d4c/a05289" ]
 ];

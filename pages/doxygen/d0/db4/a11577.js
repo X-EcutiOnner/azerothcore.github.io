@@ -1,6 +1,14 @@
 var a11577 =
 [
-    [ "boss_okthorAI", "d0/d65/a11581.html", "d0/d65/a11581" ],
-    [ "boss_okthor", "d0/db4/a11577.html#a9e75c1da85a6db6692dfabfbb3ee3e87", null ],
-    [ "GetAI", "d0/db4/a11577.html#a15d13a6c879ae260c0676fd4a4aff645", null ]
+    [ "deserter_commandscript", "d0/db4/a11577.html#aebaaf99b9c5959f3f3418e13e252fb95", null ],
+    [ "GetCommands", "d0/db4/a11577.html#ab5b48b9dde89c9215c51560f26324649", null ],
+    [ "HandleDeserterAdd", "d0/db4/a11577.html#abe8c428ec09d341bb9f49882b7c071e2", null ],
+    [ "HandleDeserterBGAdd", "d0/db4/a11577.html#a11fba09d369e7244244887947a91369e", null ],
+    [ "HandleDeserterBGRemove", "d0/db4/a11577.html#a9bf4e146ef0f4f0cb2508c4953f8a647", null ],
+    [ "HandleDeserterBGRemoveAll", "d0/db4/a11577.html#a419d404315e91b6cac1bfd3ac225a8fd", null ],
+    [ "HandleDeserterInstanceAdd", "d0/db4/a11577.html#aabd2b23e2dc61fac10890077b41d8179", null ],
+    [ "HandleDeserterInstanceRemove", "d0/db4/a11577.html#a3197e5228284ba50da7f3a31b3e76060", null ],
+    [ "HandleDeserterInstanceRemoveAll", "d0/db4/a11577.html#adc6ad2f406fcb58ba64d2b6fd47281e2", null ],
+    [ "HandleDeserterRemove", "d0/db4/a11577.html#a210dc9a7eddede6fe976157d6b22b683", null ],
+    [ "HandleDeserterRemoveAll", "d0/db4/a11577.html#a6274f79b9884586069f94137b44d89e9", null ]
 ];

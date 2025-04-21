@@ -1,6 +1,7 @@
 var a22797 =
 [
-    [ "boss_moraggAI", "d3/d0f/a22801.html", "d3/d0f/a22801" ],
-    [ "boss_moragg", "d8/d71/a22797.html#aeb43f9cc4c41f049fd0a13e79cadfcd1", null ],
-    [ "GetAI", "d8/d71/a22797.html#a5ea2f210038b3e44bf2cb9c402e1b761", null ]
+    [ "SuckBackEvent", "d8/d71/a22797.html#a6525e2aefec2680fde20e27ebf962f4c", null ],
+    [ "Execute", "d8/d71/a22797.html#aae1664e6ef9d90ec8a0e12554b991bf0", null ],
+    [ "_action", "d8/d71/a22797.html#abc54669df2dba0238723a40ababe4c0a", null ],
+    [ "_owner", "d8/d71/a22797.html#a4d8bc09803f7786022c1836457ded488", null ]
 ];

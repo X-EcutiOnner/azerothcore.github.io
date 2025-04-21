@@ -1,6 +1,7 @@
 var a14569 =
 [
-    [ "spell_finger_of_death_SpellScript", "dc/df9/a14573.html", "dc/df9/a14573" ],
-    [ "spell_finger_of_death", "d0/d47/a14569.html#a8b20a8c0e9b036d9afa47b7e74f38e35", null ],
-    [ "GetSpellScript", "d0/d47/a14569.html#a2bd179cc767ccbc4b09891cb15b1cec3", null ]
+    [ "hyjalTyrandeAI", "dc/df9/a14573.html", "dc/df9/a14573" ],
+    [ "npc_hyjal_tyrande", "d0/d47/a14569.html#abd2ba500d8e2bbf20c00905012d47d12", null ],
+    [ "GetAI", "d0/d47/a14569.html#a2f863e616352a98763eef9a717d73388", null ],
+    [ "OnGossipSelect", "d0/d47/a14569.html#a014a63098e18b08b6f5cd33a0cba2072", null ]
 ];

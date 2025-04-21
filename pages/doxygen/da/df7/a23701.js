@@ -1,6 +1,6 @@
 var a23701 =
 [
-    [ "npc_mcmanus", "da/df7/a23701.html#a4e9da3fa22b74f51f72c58cbf22dc683", null ],
-    [ "OnGossipHello", "da/df7/a23701.html#acb8f8b9c10387c0bb45b7d68f7f9821f", null ],
-    [ "OnGossipSelect", "da/df7/a23701.html#a5e8c37ebcfa737ee3066ab8df3e453f8", null ]
+    [ "HandleCast", "da/df7/a23701.html#a912dc3b17ab7d0818089c32610d82a16", null ],
+    [ "PrepareSpellScript", "da/df7/a23701.html#a6590aab70049aa5e94ed48aeb99ab1d0", null ],
+    [ "Register", "da/df7/a23701.html#a09d4af96e2d5a69b1b61a6055bcb04d4", null ]
 ];

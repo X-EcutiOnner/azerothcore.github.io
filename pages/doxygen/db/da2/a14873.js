@@ -1,9 +1,14 @@
 var a14873 =
 [
-    [ "boss_chrono_lord_deja", "db/da2/a14873.html#a85f82d4bde99b7e1d05fba82177916e6", null ],
-    [ "JustDied", "db/da2/a14873.html#a68eb4941364f9fac121aa3d610d45f48", null ],
-    [ "JustEngagedWith", "db/da2/a14873.html#ab5324b2993f2fd1ec3290eb962ef6065", null ],
-    [ "KilledUnit", "db/da2/a14873.html#a02c279fb1cfccd38dc60ba7c610cf859", null ],
-    [ "MoveInLineOfSight", "db/da2/a14873.html#a535c0c157c60804188ad8c4413c277dd", null ],
-    [ "OwnTalk", "db/da2/a14873.html#acdef53bd447c30d87bd15af3bf4200bc", null ]
+    [ "boss_buru", "db/da2/a14873.html#a586dfec9d3b0cb9497e616afb1c0b86d", null ],
+    [ "ChaseNewVictim", "db/da2/a14873.html#a177ec0ac9dcfbd9de51088bf50c5785c", null ],
+    [ "DamageTaken", "db/da2/a14873.html#a5ec0141994aac2b8e1fdce12b30c13b0", null ],
+    [ "EnterEvadeMode", "db/da2/a14873.html#aa534cca1e46299e8db917cc8aa5d5b51", null ],
+    [ "JustDied", "db/da2/a14873.html#a6d8f3265dca889bc49e747471da8597f", null ],
+    [ "JustEngagedWith", "db/da2/a14873.html#a61eeeb3eb1684943e94367a9318b3035", null ],
+    [ "KilledUnit", "db/da2/a14873.html#a7c780a29ea9f7b3d2f72eaa11bf7e19c", null ],
+    [ "ManipulateEggs", "db/da2/a14873.html#a4f8a92eab729c975443579560edb03a3", null ],
+    [ "SpellHit", "db/da2/a14873.html#ac3bc641c6bb67e585541c4e5d93dd7fa", null ],
+    [ "UpdateAI", "db/da2/a14873.html#af65d0026b2ea78edb6d48e3c48b6b37b", null ],
+    [ "_phase", "db/da2/a14873.html#aa395967af50f2a422bf1e81a087efc43", null ]
 ];

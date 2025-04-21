@@ -1,6 +1,10 @@
 var a19157 =
 [
-    [ "ModDestHeight", "db/ddc/a19157.html#a8922316b0861e1a8303e5edfead02383", null ],
-    [ "PrepareSpellScript", "db/ddc/a19157.html#af19cbcb30f808366dc4887e8314be05d", null ],
-    [ "Register", "db/ddc/a19157.html#a335ec486683303a8c91b43a6d7979e40", null ]
+    [ "npc_scion_of_eternityAI", "db/ddc/a19157.html#a2893db70b6a1ffa14d02dd5cea7f7c0a", null ],
+    [ "AttackStart", "db/ddc/a19157.html#a1335f9e34ff73d5501455062be025ada", null ],
+    [ "JustDied", "db/ddc/a19157.html#a81dcae5ef2bbd28b891e46c377fbe153", null ],
+    [ "MoveInLineOfSight", "db/ddc/a19157.html#a74a69fa532f0921285ef678bbd2fa761", null ],
+    [ "UpdateAI", "db/ddc/a19157.html#adb16afb6ea1583a7156b80a8d833951a", null ],
+    [ "events", "db/ddc/a19157.html#ae0e194a24a14033a499e68524da1699d", null ],
+    [ "pInstance", "db/ddc/a19157.html#aa828ca4a75696645d7aa350f1f981f40", null ]
 ];

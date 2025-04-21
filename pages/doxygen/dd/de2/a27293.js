@@ -1,8 +1,10 @@
 var a27293 =
 [
-    [ "OnApply", "dd/de2/a27293.html#a75b45732648d5ba90b49725a48609a89", null ],
-    [ "OnBaseRemove", "dd/de2/a27293.html#aa6d10399bba721ff7a3651508fcdf449", null ],
-    [ "OnRemove", "dd/de2/a27293.html#a0331b3860691db793c5a7bcf53550c6f", null ],
-    [ "PrepareAuraScript", "dd/de2/a27293.html#a34ad4890c7ce30427537e36980057e57", null ],
-    [ "Register", "dd/de2/a27293.html#a713e694cad6f1cf533d45f5d633da36e", null ]
+    [ "guard_shattrath_scryerAI", "dd/de2/a27293.html#a97accbf467ca1190f8a05512b3857164", null ],
+    [ "Reset", "dd/de2/a27293.html#adfcd8bce42148d303fe6ec9b615ffdb1", null ],
+    [ "UpdateAI", "dd/de2/a27293.html#ad759cca08b0093522e190ddc038e2c73", null ],
+    [ "banishTimer", "dd/de2/a27293.html#aa9aa3c2e7e69df5899c84ebde1e357bd", null ],
+    [ "canTeleport", "dd/de2/a27293.html#a84188b40b44deae5714466bb23bf2f0d", null ],
+    [ "exileTimer", "dd/de2/a27293.html#a97fbc3f54c23049fd91ad432cd560698", null ],
+    [ "playerGUID", "dd/de2/a27293.html#adb40d8bbc97a6a1fa0f4e303db470db2", null ]
 ];

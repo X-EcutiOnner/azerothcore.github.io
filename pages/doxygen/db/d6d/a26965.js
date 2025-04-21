@@ -1,7 +1,11 @@
 var a26965 =
 [
-    [ "HandleApplyEffect", "db/d6d/a26965.html#a4e2f6d414aea8ed1339ef3caa24fc17b", null ],
-    [ "Load", "db/d6d/a26965.html#a47a4f15ab02ba3c6ac4dbfd7c4552900", null ],
-    [ "PrepareAuraScript", "db/d6d/a26965.html#a101d38f5ffb34f90ba9af4f787445f2e", null ],
-    [ "Register", "db/d6d/a26965.html#aed57fbbf473b8f15fa177261e4678e96", null ]
+    [ "AccountActionIpLogger", "db/d6d/a26965.html#a73cad77bd83243cb10c4a1b4d7081e0b", null ],
+    [ "AccountIPLogAction", "db/d6d/a26965.html#a9c978dafb71e67b8b278806df507e34b", null ],
+    [ "OnAccountLogin", "db/d6d/a26965.html#a2952adcd73d775b924671e5a69adaccb", null ],
+    [ "OnEmailChange", "db/d6d/a26965.html#aa15d0cc4e6ed3818fa18a927074f5f0c", null ],
+    [ "OnFailedAccountLogin", "db/d6d/a26965.html#a8225c45bcb83e1ddd91a8dcd0f7da9cd", null ],
+    [ "OnFailedEmailChange", "db/d6d/a26965.html#a9fd73dc7b6954dfb4fc94a1f1288ccd2", null ],
+    [ "OnFailedPasswordChange", "db/d6d/a26965.html#a0663e15ea1a29b3daa672c8b6a25548f", null ],
+    [ "OnPasswordChange", "db/d6d/a26965.html#a4b71aa9c1790e6d4033d884a17ce0a2f", null ]
 ];

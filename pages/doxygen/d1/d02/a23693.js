@@ -1,6 +1,7 @@
 var a23693 =
 [
-    [ "npc_still_at_it_triggerAI", "d2/d9f/a23697.html", "d2/d9f/a23697" ],
-    [ "npc_still_at_it_trigger", "d1/d02/a23693.html#a23366d00bd3b8217bdca7f0fca05d9bd", null ],
-    [ "GetAI", "d1/d02/a23693.html#ae273ea6295f50248d303983d4b4137df", null ]
+    [ "CastQuill", "d1/d02/a23693.html#a923234809186bcbdf02457f4be095519", null ],
+    [ "Execute", "d1/d02/a23693.html#a26a971a575e4b9503cd1da73d43ebd1e", null ],
+    [ "_caster", "d1/d02/a23693.html#af809b9279aff141ce4007c8d1fbcc331", null ],
+    [ "_spellId", "d1/d02/a23693.html#ad6f7d8eaf69873b0ba57be4189c145cf", null ]
 ];

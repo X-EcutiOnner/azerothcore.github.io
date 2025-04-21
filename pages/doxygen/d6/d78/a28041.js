@@ -1,6 +1,6 @@
 var a28041 =
 [
-    [ "HandleDummy", "d6/d78/a28041.html#a42f48b9d7d657da75c8a4f5b6468011e", null ],
-    [ "PrepareSpellScript", "d6/d78/a28041.html#a5efc666af2cb73c376706c20e41ace68", null ],
-    [ "Register", "d6/d78/a28041.html#a46e61697212a43532e148ccb12a7d8e5", null ]
+    [ "Id", "d6/d78/a28041.html#a5d7f2d5a2890593554ea841deb38abb2", null ],
+    [ "Order", "d6/d78/a28041.html#a16fca42d9a0a98e034a93984c4362b53", null ],
+    [ "TypeFlags", "d6/d78/a28041.html#ac7246adc7c6c3217de8ac093983b7553", null ]
 ];

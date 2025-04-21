@@ -1,10 +1,7 @@
 var a11289 =
 [
-    [ "lfg_commandscript", "da/d11/a11289.html#a90faaca821e4162e0aea40a4d98af62c", null ],
-    [ "GetCommands", "da/d11/a11289.html#a324310f9b04675c277ceae44ea09fbaf", null ],
-    [ "HandleLfgCleanCommand", "da/d11/a11289.html#a93db689dbdb97a0318d62409a863767e", null ],
-    [ "HandleLfgGroupInfoCommand", "da/d11/a11289.html#a2376288a2ef82d8a19602cd66ff880f2", null ],
-    [ "HandleLfgOptionsCommand", "da/d11/a11289.html#a73187a97c883d8d1bb3765943dd98c39", null ],
-    [ "HandleLfgPlayerInfoCommand", "da/d11/a11289.html#acdf12aff45f16904df5724ab158e3b97", null ],
-    [ "HandleLfgQueueInfoCommand", "da/d11/a11289.html#a54dcdf133cc5b22961c34eda62a4f2fc", null ]
+    [ "EffectApplyHandler", "da/d11/a11289.html#a7ab5f0786000c217e2fc71201a8990b6", null ],
+    [ "Call", "da/d11/a11289.html#a4c02a1b42d7b3a02633dc9600b0e09bb", null ],
+    [ "mode", "da/d11/a11289.html#ac776375c5a5de321edc572c87e983193", null ],
+    [ "pEffectHandlerScript", "da/d11/a11289.html#acd715556a7661f688ce0de9afe62250a", null ]
 ];

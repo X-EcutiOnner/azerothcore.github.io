@@ -1,6 +1,6 @@
 var a13453 =
 [
-    [ "npc_bh_thalorien_dawnseekerAI", "dc/dea/a13457.html", "dc/dea/a13457" ],
-    [ "npc_bh_thalorien_dawnseeker", "dc/dac/a13453.html#a1fbee838cbbf1ada476f3dd7a82fc6e6", null ],
-    [ "GetAI", "dc/dac/a13453.html#ac5d551d5d4d05ee1006d074908599a3a", null ]
+    [ "npc_augustus_the_touched", "dc/dac/a13453.html#abc84c884345f44cf780410569cdee10c", null ],
+    [ "OnGossipHello", "dc/dac/a13453.html#a81e0d4f2aaa685cd5231ea430c86e7b4", null ],
+    [ "OnGossipSelect", "dc/dac/a13453.html#a992da9b22693c1fac1148b4ba545b819", null ]
 ];

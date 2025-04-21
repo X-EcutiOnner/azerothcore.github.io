@@ -1,6 +1,6 @@
 var a17621 =
 [
-    [ "StandUpEvent", "d8/de0/a17621.html#a2f68b19898c65b9229159d9133b3d7cf", null ],
-    [ "Execute", "d8/de0/a17621.html#a56bc1071300ff8f81e62839685e8f53a", null ],
-    [ "_owner", "d8/de0/a17621.html#a456a494140657d81b203834f7b88d5d1", null ]
+    [ "CheckProc", "d8/de0/a17621.html#a86e62fa26606a77284c80583e7b35d27", null ],
+    [ "PrepareAuraScript", "d8/de0/a17621.html#a2c10a09e9e5015eb4f3c66d5086dbe1a", null ],
+    [ "Register", "d8/de0/a17621.html#a6214f78c5c7eb3f60371fa12530d5991", null ]
 ];

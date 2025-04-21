@@ -1,6 +1,8 @@
 var a23425 =
 [
-    [ "CheckRequirement", "d9/de3/a23425.html#ad58d71b5c2bc10d9ffbfe472bd5b1a32", null ],
-    [ "PrepareSpellScript", "d9/de3/a23425.html#ae621e95feb69b54f9aef5d77577a15ae", null ],
-    [ "Register", "d9/de3/a23425.html#ab0b03fd2d1a0ed6720acc45221a582f6", null ]
+    [ "boss_broggok", "d9/de3/a23425.html#ae20c04793116d3e8eab62d2ee27010df", null ],
+    [ "DoAction", "d9/de3/a23425.html#af5de5a1747c502f72af015c09d050354", null ],
+    [ "JustEngagedWith", "d9/de3/a23425.html#a084e3c37a0218d47c8e39b196fc6746a", null ],
+    [ "JustSummoned", "d9/de3/a23425.html#a0bf2d75f7889542a9e48689b8d080a1e", null ],
+    [ "Reset", "d9/de3/a23425.html#af11b4dc2aee8064a1eaad334d93e6de0", null ]
 ];

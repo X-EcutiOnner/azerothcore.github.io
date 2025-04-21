@@ -1,6 +1,7 @@
 var a18653 =
 [
-    [ "HandleScript", "d4/d34/a18653.html#a403a1053b57ce4c27fa659d8d9855888", null ],
-    [ "PrepareSpellScript", "d4/d34/a18653.html#a5b40955d9d5680cbda2991a5f0c55437", null ],
-    [ "Register", "d4/d34/a18653.html#a5b1549485e34e66bcdb51f08f3e25252", null ]
+    [ "HandleEffectPeriodic", "d4/d34/a18653.html#a208c4d59e20cd802cf2f4643fa0d6253", null ],
+    [ "PrepareAuraScript", "d4/d34/a18653.html#af1d284c4686f739b02b350a6c0a166c2", null ],
+    [ "Register", "d4/d34/a18653.html#a006a97823ac07346771ec4ab61bd0763", null ],
+    [ "Validate", "d4/d34/a18653.html#ae1f5555dcadb48ba59bf9571073f4a99", null ]
 ];

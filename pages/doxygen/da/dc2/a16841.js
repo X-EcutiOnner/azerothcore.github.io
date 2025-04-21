@@ -1,6 +1,8 @@
 var a16841 =
 [
-    [ "spell_valkyr_touchAuraScript", "d5/d42/a16845.html", "d5/d42/a16845" ],
-    [ "spell_valkyr_touch", "da/dc2/a16841.html#a13ab6fdfe33659448a4598feed1db0a6", null ],
-    [ "GetAuraScript", "da/dc2/a16841.html#af8205cf431f034e4b678e1396fbe40a8", null ]
+    [ "npc_hor_raging_ghoulAI", "da/dc2/a16841.html#ac4b2b3acf8a7acda73c7158f1565a274", null ],
+    [ "JustDied", "da/dc2/a16841.html#a70e581c9b3f7d88d497c1540ac9ca04c", null ],
+    [ "Reset", "da/dc2/a16841.html#aa52576d94e230797209dfc938d62187f", null ],
+    [ "UpdateAI", "da/dc2/a16841.html#ac7c8571eac32f722a5fb0c28092b7e8f", null ],
+    [ "leaped", "da/dc2/a16841.html#a12f6e6d5911b2b8b9caa01a9a83570bc", null ]
 ];

@@ -1,6 +1,6 @@
 var a17057 =
 [
-    [ "spell_bronjahm_soulstorm_visual_AuraScript", "df/dc3/a17061.html", "df/dc3/a17061" ],
-    [ "spell_bronjahm_soulstorm_visual", "d3/d27/a17057.html#afffed2d4148cbc9015408d8e6b3a3f8e", null ],
-    [ "GetAuraScript", "d3/d27/a17057.html#ae6f1e3f54f1b0c833263685f25e3395d", null ]
+    [ "boss_drakkari_elementalAI", "df/dc3/a17061.html", "df/dc3/a17061" ],
+    [ "boss_drakkari_elemental", "d3/d27/a17057.html#a143dd5d52ea7bb3c3c1d96da45af81ee", null ],
+    [ "GetAI", "d3/d27/a17057.html#aab2f9c71ddb77164bd644d18b9e88313", null ]
 ];

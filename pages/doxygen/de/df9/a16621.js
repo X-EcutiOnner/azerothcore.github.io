@@ -1,6 +1,8 @@
 var a16621 =
 [
-    [ "npc_toc_warlockAI", "d8/dfe/a16625.html", "d8/dfe/a16625" ],
-    [ "npc_toc_warlock", "de/df9/a16621.html#a75ac1d6f6835860fed8a9197fa1cf3c2", null ],
-    [ "GetAI", "de/df9/a16621.html#ad3162c9414be83d53d9513c7aa6b75d7", null ]
+    [ "HandleRemove", "de/df9/a16621.html#a362b16f69a19adae6b673bd9ead55a83", null ],
+    [ "PeriodicTick", "de/df9/a16621.html#aa432052d61dc48066433b41b84ffbe5f", null ],
+    [ "PrepareAuraScript", "de/df9/a16621.html#a3ffbd618820adf77b2c64a29816f5204", null ],
+    [ "Register", "de/df9/a16621.html#ac2ac207d2e193a9c2f9904b394113c4d", null ],
+    [ "Validate", "de/df9/a16621.html#abed6574398a7d005e95feba6b54243a1", null ]
 ];

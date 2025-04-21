@@ -1,6 +1,7 @@
 var a20269 =
 [
-    [ "npc_alexstraszaAI", "d2/d6f/a20273.html", "d2/d6f/a20273" ],
-    [ "npc_alexstrasza", "da/df3/a20269.html#aa28858e8368031c2882e7e3c1c5968dd", null ],
-    [ "GetAI", "da/df3/a20269.html#ad155ccc4f7bca786229ee015d365e3ce", null ]
+    [ "StoneGripTargetSelector", "da/df3/a20269.html#a74fc772e2bc0694dee05fe82de4463e2", null ],
+    [ "operator()", "da/df3/a20269.html#ae40653def55e656f2347029a97605395", null ],
+    [ "_me", "da/df3/a20269.html#ae5781d6b553491a1e3e8bfde2b965c3a", null ],
+    [ "_victim", "da/df3/a20269.html#a09c3c6f832c20776f11b72a468a4b0bb", null ]
 ];

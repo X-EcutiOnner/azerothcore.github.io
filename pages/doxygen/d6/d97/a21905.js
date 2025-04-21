@@ -1,7 +1,6 @@
 var a21905 =
 [
-    [ "boss_thorim_trapAI", "d6/d97/a21905.html#aaab278dc6557a49624099b0064b8d6f3", null ],
-    [ "Reset", "d6/d97/a21905.html#ab0715e75a475409ffb6c623bf363a65d", null ],
-    [ "UpdateAI", "d6/d97/a21905.html#a40078609a67aa029f71df7971449b056", null ],
-    [ "_checkTimer", "d6/d97/a21905.html#ad3ed8edb4d06e5b98a5afc82170f3233", null ]
+    [ "npc_attracted_reef_bullAI", "d6/d97/a21905.html#aa8917a912fb31a5987332e53e8d268e7", null ],
+    [ "MovementInform", "d6/d97/a21905.html#a79d9539243f178a2989f017c5f9ebc8c", null ],
+    [ "SpellHit", "d6/d97/a21905.html#ab06ee7ef84d881262ae682b69fae3135", null ]
 ];

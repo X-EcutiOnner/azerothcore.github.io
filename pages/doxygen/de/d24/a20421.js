@@ -1,6 +1,5 @@
 var a20421 =
 [
-    [ "boss_eregosAI", "d4/d47/a20425.html", "d4/d47/a20425" ],
-    [ "boss_eregos", "de/d24/a20421.html#a105820f29aa1391d77a56e024c4b5637", null ],
-    [ "GetAI", "de/d24/a20421.html#aee43f0dfee70ab9618c560a27504cb02", null ]
+    [ "achievement_mimiron_set_up_us_the_bomb_12", "de/d24/a20421.html#adc7f5769894c59710fa70604878b1e2c", null ],
+    [ "OnCheck", "de/d24/a20421.html#ad604fa41b8c8d34b996dbdc709faac66", null ]
 ];

@@ -1,6 +1,8 @@
 var a09469 =
 [
-    [ "UpdateRequest", "dc/d31/a09469.html#a23b3dbcff54691b2710109a822a486a0", null ],
-    [ "~UpdateRequest", "dc/d31/a09469.html#a240bdc56685c270c597588231c3bf8f8", null ],
-    [ "call", "dc/d31/a09469.html#a8221fa415f828a4866f85f3983f7dab9", null ]
+    [ "flags", "dc/d31/a09469.html#a7ecce103d428ed7f91aa12fa5547561c", null ],
+    [ "group", "dc/d31/a09469.html#a0902606d44c8baa1a20b5b2cdd9b4787", null ],
+    [ "guid", "dc/d31/a09469.html#a97a20b4ccf1978165a5f5c7ff4ffb2b4", null ],
+    [ "name", "dc/d31/a09469.html#ab0719bb9805048b58a3e4c75e09d1ee7", null ],
+    [ "roles", "dc/d31/a09469.html#a2109aae0b3ebf74b065b97cc929c2954", null ]
 ];

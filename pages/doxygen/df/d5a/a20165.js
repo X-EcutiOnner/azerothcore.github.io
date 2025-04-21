@@ -1,6 +1,7 @@
 var a20165 =
 [
-    [ "boss_thaddius_summonAI", "d5/d7c/a20169.html", "d5/d7c/a20169" ],
-    [ "boss_thaddius_summon", "df/d5a/a20165.html#a0fd6c83b5ff6d62b1649f9a13de05c73", null ],
-    [ "GetAI", "df/d5a/a20165.html#aaab5973012f9ac55e8b29cc90f5ec98e", null ]
+    [ "HandleAfterEffectApply", "df/d5a/a20165.html#adab765d78094eec673abce5140145267", null ],
+    [ "OnApply", "df/d5a/a20165.html#aab4331a7a55dc6f713db02726ec22e3a", null ],
+    [ "PrepareAuraScript", "df/d5a/a20165.html#acb827ae4299ae482d9b7f3fb09bbcc52", null ],
+    [ "Register", "df/d5a/a20165.html#ac1007ce2ee5e046639829558855f0188", null ]
 ];

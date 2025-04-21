@@ -1,7 +1,7 @@
 var a25881 =
 [
-    [ "npc_maxx_a_million_escortAI", "da/dc5/a25885.html", "da/dc5/a25885" ],
-    [ "npc_maxx_a_million_escort", "d1/d7a/a25881.html#a958a88b495594dd8e14919d950ac917a", null ],
-    [ "GetAI", "d1/d7a/a25881.html#af79619087908d442f503e0b0d633937d", null ],
-    [ "OnQuestAccept", "d1/d7a/a25881.html#af3c2f2708702f7d25e712c63a45e69e0", null ]
+    [ "CalcPeriodic", "d1/d7a/a25881.html#a404e5309016cfcaa3071c0216978699e", null ],
+    [ "PrepareAuraScript", "d1/d7a/a25881.html#a9675e5c417e5e9a5a358a3ffb371073e", null ],
+    [ "Register", "d1/d7a/a25881.html#a60ffc059d00fd58abe7e758f06bbf35c", null ],
+    [ "AuraEffectHandleModes", "d1/d7a/a25881.html#aa66ee788b7e09815b827a0f4ac954e1f", null ]
 ];

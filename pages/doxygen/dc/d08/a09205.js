@@ -1,4 +1,10 @@
 var a09205 =
 [
-    [ "Options", "dc/d08/a09205.html#a30882f3f0415185ec12ef4d316a0b428", null ]
+    [ "UnitSearcher", "dc/d08/a09205.html#a4c50b4594650d9f3f83a40ac02f1a954", null ],
+    [ "Visit", "dc/d08/a09205.html#a5e419d2cb0de5ae58373e521d3a84ac6", null ],
+    [ "Visit", "dc/d08/a09205.html#a4bf8a315ab9464bbc5b0c8cae5c27fed", null ],
+    [ "Visit", "dc/d08/a09205.html#ac65516ed337b509ff5c316fb29727854", null ],
+    [ "i_check", "dc/d08/a09205.html#a3618df5a6ae33e76b802eae9cac1e1bd", null ],
+    [ "i_object", "dc/d08/a09205.html#a3029760131a6f50883246afe2533c062", null ],
+    [ "i_phaseMask", "dc/d08/a09205.html#ab94911f3f275de6a9ce9f15f1169c81c", null ]
 ];

@@ -1,7 +1,10 @@
 var a15033 =
 [
-    [ "boss_kurinnaxx", "d8/dd2/a15033.html#aa8b471e6239080b2a5f70e50e07a9621", null ],
-    [ "InitializeAI", "d8/dd2/a15033.html#a0e249007d5bf29eb0cff307045ef9eb3", null ],
-    [ "JustDied", "d8/dd2/a15033.html#adb749c8737888a099ad7a3d58292a612", null ],
-    [ "JustEngagedWith", "d8/dd2/a15033.html#a451cd7ee80b0428a199c33012562bdb3", null ]
+    [ "boss_huhuran", "d8/dd2/a15033.html#a64e0b20891992764c708cbb661c18196", null ],
+    [ "DamageTaken", "d8/dd2/a15033.html#adb47086f29b41f4168ad5d1b2728547d", null ],
+    [ "JustEngagedWith", "d8/dd2/a15033.html#a08f1d6550680d5bcf07332eade115730", null ],
+    [ "Reset", "d8/dd2/a15033.html#a45571aa6bd0c7915fb666cae1c5c4544", null ],
+    [ "UpdateAI", "d8/dd2/a15033.html#a23962e668f046b373f94ea6a2d75574a", null ],
+    [ "_berserk", "d8/dd2/a15033.html#a5f3f17d0b239f95ed4eb0bfac85c4463", null ],
+    [ "_hardEnrage", "d8/dd2/a15033.html#a5612bf8b1eedec159b316b28e6f4c915", null ]
 ];

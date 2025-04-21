@@ -1,6 +1,5 @@
 var a15469 =
 [
-    [ "npc_tiger_matriarch_creditAI", "d6/d27/a15473.html", "d6/d27/a15473" ],
-    [ "npc_tiger_matriarch_credit", "de/d91/a15469.html#a9d76e8e808c828da501551025eecd8ea", null ],
-    [ "GetAI", "de/d91/a15469.html#ac4966a8ae43688204f97f9a1a7b4542d", null ]
+    [ "go_crystalline_tear", "de/d91/a15469.html#a9e19c6538ecd1a758f2639171321d965", null ],
+    [ "OnQuestAccept", "de/d91/a15469.html#a4efd6b2b8ca37462ba3a26d05f01ec2d", null ]
 ];

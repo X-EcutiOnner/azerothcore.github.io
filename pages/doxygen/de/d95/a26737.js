@@ -1,6 +1,8 @@
 var a26737 =
 [
-    [ "CheckProc", "de/d95/a26737.html#a21cda631d861161c370a44a2fd2fd2f7", null ],
-    [ "PrepareAuraScript", "de/d95/a26737.html#a861caa47c502c42fa84d9f9de74df024", null ],
-    [ "Register", "de/d95/a26737.html#ab4275de186b6841a1f424863cb6c128c", null ]
+    [ "HandleDummyTick", "de/d95/a26737.html#ad35d90e5cdd68f4c1d3172a0860274bd", null ],
+    [ "HandleRemove", "de/d95/a26737.html#a92f2bb73ec58832eaada3c7140f7868d", null ],
+    [ "PrepareAuraScript", "de/d95/a26737.html#a06e45d5f63ef1395b5949482e8393098", null ],
+    [ "Register", "de/d95/a26737.html#abf1d49720ae43d4ed2fb1c2920387ace", null ],
+    [ "Validate", "de/d95/a26737.html#a9a2da4d163a96526e14f5de76798a784", null ]
 ];

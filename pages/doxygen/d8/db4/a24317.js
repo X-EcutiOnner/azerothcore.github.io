@@ -1,6 +1,8 @@
 var a24317 =
 [
-    [ "HandleScriptEffect", "d8/db4/a24317.html#a1a7f6baeb886bf24ee12c73dcde571ab", null ],
-    [ "PrepareSpellScript", "d8/db4/a24317.html#a7cb1bd61d83bd443941564e986f35003", null ],
-    [ "Register", "d8/db4/a24317.html#a910559f44b503a281d8aea0d4f9e4a98", null ]
+    [ "npc_pet_gen_gnomish_flame_turret", "d8/db4/a24317.html#a6e79c0ad6219d0beb23cfb086e6d3eaf", null ],
+    [ "AttackStart", "d8/db4/a24317.html#a2aab464c099e8e5e760a9ae4f28ac33f", null ],
+    [ "Reset", "d8/db4/a24317.html#a46fe5703a5859d5583e7df3a57b3910a", null ],
+    [ "UpdateAI", "d8/db4/a24317.html#ae3db08323af4b82009ffd660b3e78474", null ],
+    [ "checkTimer", "d8/db4/a24317.html#ac6705f4980ca561a5fd33c2917488439", null ]
 ];

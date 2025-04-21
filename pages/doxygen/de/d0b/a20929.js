@@ -1,6 +1,7 @@
 var a20929 =
 [
-    [ "OnRemove", "de/d0b/a20929.html#a226165f61f8be02abe828ba827f55541", null ],
-    [ "PrepareAuraScript", "de/d0b/a20929.html#ad52d5d146f82008d3989f72a7dadd08c", null ],
-    [ "Register", "de/d0b/a20929.html#ad05da83a1f14597358970910970acf50", null ]
+    [ "HandleEffectPeriodic", "de/d0b/a20929.html#a2b9426d0a2ce9251632acebb30d0e2b5", null ],
+    [ "PrepareAuraScript", "de/d0b/a20929.html#a7dca0398e78278c78dd80e9e6ca874e1", null ],
+    [ "Register", "de/d0b/a20929.html#a74052d7da1523b3c4010465510e5fe04", null ],
+    [ "Validate", "de/d0b/a20929.html#a587a469c649877f80e8fe80062e8b5d4", null ]
 ];

@@ -1,6 +1,6 @@
 var a21761 =
 [
-    [ "npc_ulduar_flames_initialAI", "df/d73/a21765.html", "df/d73/a21765" ],
-    [ "npc_ulduar_flames_initial", "de/d8a/a21761.html#aee0c62a38e3e0958e015faef2c434273", null ],
-    [ "GetAI", "de/d8a/a21761.html#ac0db78c361324a594220ad644001f4eb", null ]
+    [ "npc_spiritual_insightAI", "de/d8a/a21761.html#ab173cd8b623fcf8c36406155c91bc4db", null ],
+    [ "GetSpeachId", "de/d8a/a21761.html#ad2dd22651470f47e7a7ba6f687ba54e9", null ],
+    [ "IsSummonedBy", "de/d8a/a21761.html#ab6b39190d1195915ea0b4b191d864da6", null ]
 ];

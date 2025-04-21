@@ -1,6 +1,6 @@
 var a25185 =
 [
-    [ "instance_gruuls_lair_InstanceMapScript", "de/db5/a25189.html", "de/db5/a25189" ],
-    [ "instance_gruuls_lair", "dd/d77/a25185.html#ae091404d09e614fe893c20e8ed90d2c4", null ],
-    [ "GetInstanceScript", "dd/d77/a25185.html#ab8b5b000f6099111244b4ea48f0ab029", null ]
+    [ "HandleScriptEffect", "dd/d77/a25185.html#a78a131bdf6a1406604edd130c28d664b", null ],
+    [ "PrepareSpellScript", "dd/d77/a25185.html#a3b2d739227e57667a284ae4600ec1bb6", null ],
+    [ "Register", "dd/d77/a25185.html#a8a70913369aa733160366f37ff1c3470", null ]
 ];

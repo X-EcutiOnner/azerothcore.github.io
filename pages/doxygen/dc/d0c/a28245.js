@@ -1,7 +1,7 @@
 var a28245 =
 [
-    [ "HandleDummy", "dc/d0c/a28245.html#ab046ef0adc63c32a153ba4ea866f8dcd", null ],
-    [ "PrepareSpellScript", "dc/d0c/a28245.html#ac293d1c1aac41808f81cad2974424c2e", null ],
-    [ "Register", "dc/d0c/a28245.html#ab145e1826eb63d0b6b1ea39a6c3c4d36", null ],
-    [ "Validate", "dc/d0c/a28245.html#aa725a6ee483dfac46724d291de4ee54b", null ]
+    [ "Flags", "dc/d0c/a28245.html#a12b3cb0e28ed0f47ff5ccea09fc8b860", null ],
+    [ "ID", "dc/d0c/a28245.html#ab6ccf4a64672a6ade01f59cdeeeb85cb", null ],
+    [ "RangeMax", "dc/d0c/a28245.html#a9691134e5cb1e15e3c93ea05a653975d", null ],
+    [ "RangeMin", "dc/d0c/a28245.html#a127a46f2382edea750ca567d5ea3d304", null ]
 ];

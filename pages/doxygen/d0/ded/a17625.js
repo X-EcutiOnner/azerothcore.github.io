@@ -1,6 +1,6 @@
 var a17625 =
 [
-    [ "ShockVortexExplodeEvent", "d0/ded/a17625.html#ad972aed372822e10a476d1592192f3ea", null ],
-    [ "Execute", "d0/ded/a17625.html#a601f777052b8a142db49e9b0ab1fa81a", null ],
-    [ "_owner", "d0/ded/a17625.html#a76b1887e486969fcd7a236a8eb7a9a2a", null ]
+    [ "DaranavanMoveEvent", "d0/ded/a17625.html#add38d87b9108c09aa9b9fd60f12abcde", null ],
+    [ "Execute", "d0/ded/a17625.html#ada0ebc4a9c9f949dd0155a554a553543", null ],
+    [ "_darnavan", "d0/ded/a17625.html#a7585edb957755efbc6064f232d50ea4e", null ]
 ];

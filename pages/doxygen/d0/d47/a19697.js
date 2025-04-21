@@ -1,6 +1,7 @@
 var a19697 =
 [
-    [ "spell_icc_yh_volley_AuraScript", "d3/dfa/a19701.html", "d3/dfa/a19701" ],
-    [ "spell_icc_yh_volley", "d0/d47/a19697.html#a91e419cb0324ebfe7b7b51e74859a7bb", null ],
-    [ "GetAuraScript", "d0/d47/a19697.html#a36374288acafc649d4fd7d83d0515bdc", null ]
+    [ "OnRemove", "d0/d47/a19697.html#a4d7ec990112b4ed602bcacf5a6de6722", null ],
+    [ "PrepareAuraScript", "d0/d47/a19697.html#a7cc9f0d6882b713c7b0a2585d6008437", null ],
+    [ "Register", "d0/d47/a19697.html#ad3a66fdfb2a159461bb3deeab6f71c13", null ],
+    [ "Validate", "d0/d47/a19697.html#a8bd121743d1153ae3fd8eb124e475d0f", null ]
 ];

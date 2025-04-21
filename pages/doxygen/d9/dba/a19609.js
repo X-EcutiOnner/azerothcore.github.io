@@ -1,7 +1,8 @@
 var a19609 =
 [
-    [ "CountTargets", "d9/dba/a19609.html#aaf1312cc6981c3c3b472a57552f4f5f1", null ],
-    [ "HandleScript", "d9/dba/a19609.html#a90728aa9269ce808ffb26d13ac770f12", null ],
-    [ "PrepareSpellScript", "d9/dba/a19609.html#abbdc05c6984bc698c5c9a195c4d35f49", null ],
-    [ "Register", "d9/dba/a19609.html#a1c9762e115a598642625326dbdd424c8", null ]
+    [ "npc_algalon_worm_holeAI", "d9/dba/a19609.html#a07b36b40972bebea6b17890aa8fee50c", null ],
+    [ "JustSummoned", "d9/dba/a19609.html#a148de5da4502813e369ec6c52b1671a0", null ],
+    [ "Reset", "d9/dba/a19609.html#a915a8e5e23062cb10da9a3dbe387cf51", null ],
+    [ "UpdateAI", "d9/dba/a19609.html#a9df88d81aa4f4dd7e1dcdf6209832c32", null ],
+    [ "_summonTimer", "d9/dba/a19609.html#a73a55560e5ff7957d883f732bc0d2a82", null ]
 ];

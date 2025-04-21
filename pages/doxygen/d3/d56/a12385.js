@@ -1,6 +1,8 @@
 var a12385 =
 [
-    [ "spell_karazhan_brittle_bones_AuraScript", "d5/d58/a12389.html", "d5/d58/a12389" ],
-    [ "spell_karazhan_brittle_bones", "d3/d56/a12385.html#ac2a297effa7b989f0246e7dfb46f59a0", null ],
-    [ "GetAuraScript", "d3/d56/a12385.html#a93deae224ff5112621e2fb852641db42", null ]
+    [ "MajordomoAddData", "d3/d56/a12385.html#aa068ada34e1275cbf97b21f74dfd2881", null ],
+    [ "MajordomoAddData", "d3/d56/a12385.html#a9b8cc2b43ffbf268e470169e00e66671", null ],
+    [ "creatureEntry", "d3/d56/a12385.html#ae3a0444e88158123f4d6359328e89a1d", null ],
+    [ "guid", "d3/d56/a12385.html#a2f2b0aaace557361a21d1072f36933dc", null ],
+    [ "spawnPos", "d3/d56/a12385.html#a31f8d24efb19c2d0e697f35b911e3237", null ]
 ];

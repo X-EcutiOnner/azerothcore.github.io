@@ -1,6 +1,6 @@
 var a12457 =
 [
-    [ "boss_ellris_duskhallow", "d4/dd0/a12457.html#a85dc1f923c8211180cc5b250fb509ba7", null ],
-    [ "JustEngagedWith", "d4/dd0/a12457.html#a5bb5bc51b62ad371bf086c6ced2eee89", null ],
-    [ "UpdateAI", "d4/dd0/a12457.html#a7a461632a0b608a34bc8c3e2aa1df0ab", null ]
+    [ "instance_molten_core_InstanceMapScript", "db/d1c/a12461.html", "db/d1c/a12461" ],
+    [ "instance_molten_core", "d4/dd0/a12457.html#ad83dac834feb2fcae872dfe09b833950", null ],
+    [ "GetInstanceScript", "d4/dd0/a12457.html#ab7c794f1503f0ecad8d41ace72737a5d", null ]
 ];

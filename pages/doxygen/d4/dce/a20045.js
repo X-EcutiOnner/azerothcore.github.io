@@ -1,6 +1,6 @@
 var a20045 =
 [
-    [ "boss_heiganAI", "d8/de9/a20049.html", "d8/de9/a20049" ],
-    [ "boss_heigan", "d4/dce/a20045.html#aefa3a6d870bde0d33504c5f2b56572be", null ],
-    [ "GetAI", "d4/dce/a20045.html#ad9edf8eade874c1ecc2cecdac17700a1", null ]
+    [ "FilterTargets", "d4/dce/a20045.html#adb438b9bcf4be347aeabf6608fbfb8a4", null ],
+    [ "PrepareSpellScript", "d4/dce/a20045.html#a88f5ca3aaa575cff0ba778f9b575d656", null ],
+    [ "Register", "d4/dce/a20045.html#ac7337b4ee8511f72b129fccc83b3241e", null ]
 ];

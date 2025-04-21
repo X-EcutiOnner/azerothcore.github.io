@@ -1,6 +1,11 @@
 var a22561 =
 [
-    [ "npc_frenzied_worgenAI", "d0/d50/a22565.html", "d0/d50/a22565" ],
-    [ "npc_frenzied_worgen", "da/d0c/a22561.html#ad46eb89ab86876950652f6dd6b7dc91a", null ],
-    [ "GetAI", "da/d0c/a22561.html#a1ed46e8e6bd001f8f35492f340ab1d56", null ]
+    [ "boss_talon_king_ikiss", "da/d0c/a22561.html#acf8cbda5f7a33c026bfc0d6e7b31f43c", null ],
+    [ "CanAIAttack", "da/d0c/a22561.html#ab4858d845f149b6333941d8f8ab59afb", null ],
+    [ "JustDied", "da/d0c/a22561.html#ada1d993842d04453d6afad91e186a3fe", null ],
+    [ "JustEngagedWith", "da/d0c/a22561.html#a325312ce6695435fcca701720434c64f", null ],
+    [ "KilledUnit", "da/d0c/a22561.html#ae8d94f89a67f3a321c88327c076ddd77", null ],
+    [ "MoveInLineOfSight", "da/d0c/a22561.html#ab13808b75b1ca79b856e5b2e64e67d89", null ],
+    [ "Reset", "da/d0c/a22561.html#adcb1dca375ec548499da5a7690babc21", null ],
+    [ "_spoken", "da/d0c/a22561.html#a3e9e3a8575dbf21262ba2b4226182373", null ]
 ];

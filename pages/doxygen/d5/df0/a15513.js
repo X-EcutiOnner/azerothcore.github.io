@@ -1,6 +1,7 @@
 var a15513 =
 [
-    [ "HandleDummy", "d5/df0/a15513.html#a0e7616fe86078218834422e1fcd3ffe7", null ],
-    [ "PrepareSpellScript", "d5/df0/a15513.html#aed9b0f5790ad5391c089d2d938706772", null ],
-    [ "Register", "d5/df0/a15513.html#ad267119f77c0623c9f3eb1f7808858a6", null ]
+    [ "npc_steward_of_time", "d5/df0/a15513.html#ad49973464c96f44506033b73a85f6360", null ],
+    [ "OnGossipHello", "d5/df0/a15513.html#a3b61038393c3addbbfa6643438164db3", null ],
+    [ "OnGossipSelect", "d5/df0/a15513.html#af4fe13e266a98129b92e5a25188d947c", null ],
+    [ "OnQuestAccept", "d5/df0/a15513.html#a53d552282da49e8246089b2799fff9ca", null ]
 ];

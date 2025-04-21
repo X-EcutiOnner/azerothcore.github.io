@@ -1,5 +1,6 @@
 var a17221 =
 [
-    [ "at_hor_shadow_throne", "dc/d51/a17221.html#a342808808be75079acf6a2f930afe930", null ],
-    [ "OnTrigger", "dc/d51/a17221.html#a0166b1a58f4171c4d9893010df5831c4", null ]
+    [ "AddExtraDamage", "dc/d51/a17221.html#adeedfdd7555dfd009c99db6f002f7488", null ],
+    [ "PrepareSpellScript", "dc/d51/a17221.html#a5d5c32f102c525f6c25d12281a58f5f4", null ],
+    [ "Register", "dc/d51/a17221.html#affe1d9a5e9c4776d1651fdb95283caf4", null ]
 ];

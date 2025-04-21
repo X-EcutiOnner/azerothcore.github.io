@@ -1,6 +1,7 @@
 var a26757 =
 [
-    [ "OnPeriodic", "df/d8f/a26757.html#a5fdf44f34765d0386d5c5490620c944a", null ],
-    [ "PrepareAuraScript", "df/d8f/a26757.html#a3c3044795e183eef2c801781100b11c7", null ],
-    [ "Register", "df/d8f/a26757.html#a1221c3287c3fd7add356e84430508684", null ]
+    [ "HandleDispel", "df/d8f/a26757.html#aaf6920cb0fec741f3cff1d3f6e6d2c0f", null ],
+    [ "PrepareAuraScript", "df/d8f/a26757.html#ace0ce4b85311893e1e6df403a6387cd9", null ],
+    [ "Register", "df/d8f/a26757.html#a2c67e4327fdd034978d4822311632980", null ],
+    [ "Validate", "df/d8f/a26757.html#ad8b5c381904c359ed608c808d5bbd9bd", null ]
 ];

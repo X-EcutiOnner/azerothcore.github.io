@@ -1,10 +1,6 @@
 var a15441 =
 [
-    [ "npc_rabid_thistle_bearAI", "d4/d0f/a15441.html#a7fb4b6e26dd2fe66fb3e444c260999a6", null ],
-    [ "Initialize", "d4/d0f/a15441.html#a466ec20c65535777c60b5c4aac4e45bd", null ],
-    [ "Reset", "d4/d0f/a15441.html#aedc6834fef78ad7a0e5ab99bb844ace1", null ],
-    [ "SpellHit", "d4/d0f/a15441.html#a62bde5a122748564cc806046bf9dcbaa", null ],
-    [ "UpdateAI", "d4/d0f/a15441.html#a8f6c5b873756a58760b2861bc8b86804", null ],
-    [ "_events", "d4/d0f/a15441.html#ad3852bf4588c453642e75fcdc544767b", null ],
-    [ "_playerGUID", "d4/d0f/a15441.html#ac4df0c9b8be03ce4e45fbb4efcad6892", null ]
+    [ "SpellId", "d4/d0f/a15441.html#a2c430be201c1fd866ee96224f1803a20", null ],
+    [ "Timer1", "d4/d0f/a15441.html#a9a35c148286e88f48b174be8b74fc5d0", null ],
+    [ "Timer2", "d4/d0f/a15441.html#a108dee679b1f5d9fb8351f7b4b4f3a56", null ]
 ];

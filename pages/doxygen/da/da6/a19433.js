@@ -1,8 +1,25 @@
 var a19433 =
 [
-    [ "FilterTargets", "da/da6/a19433.html#a91a5cc1b4ccde48df0828343bf2202f7", null ],
-    [ "HandleForceCast", "da/da6/a19433.html#a16cf66fbbe4b15c91553da654e405247", null ],
-    [ "Load", "da/da6/a19433.html#a5d5bd913bd4594d3ff942763db04261b", null ],
-    [ "PrepareSpellScript", "da/da6/a19433.html#a48d9bc469d8c523ec83ea8bd4c765ad7", null ],
-    [ "Register", "da/da6/a19433.html#a5af39e4c71e88f47cebf7e322034b911", null ]
+    [ "boss_volkhanAI", "da/da6/a19433.html#afbab5656887a3983b70bf21452c71f0e", null ],
+    [ "DoAction", "da/da6/a19433.html#a94dd9afca122baa34b6ee5a63e8d6330", null ],
+    [ "GetNextPos", "da/da6/a19433.html#ab333773a0f12ec5d4981669ef0e747b3", null ],
+    [ "GoToAnvil", "da/da6/a19433.html#aea7d66919650969e6d1edfebd976eea6", null ],
+    [ "JustDied", "da/da6/a19433.html#ae6e1bf5e0d86b6999b0357d022e80154", null ],
+    [ "JustEngagedWith", "da/da6/a19433.html#a5f4eaa7215fde5dec0106975981e2276", null ],
+    [ "JustSummoned", "da/da6/a19433.html#a648f8f7b9bcec6d677dbea1888a59c83", null ],
+    [ "KilledUnit", "da/da6/a19433.html#aa227eecb791e12559015ee07a398d251", null ],
+    [ "MovementInform", "da/da6/a19433.html#abe35a1a132a9f2ce22cedf1f10b503d8", null ],
+    [ "Reset", "da/da6/a19433.html#a5e92fd793b6eedc8d1102b89aabecc68", null ],
+    [ "ScheduleEvents", "da/da6/a19433.html#afc94fccc9d761714a4cc8e1b3fceaf13", null ],
+    [ "SpellHitTarget", "da/da6/a19433.html#a4704b32d29a4465fcc2a3f638deb37a9", null ],
+    [ "UpdateAI", "da/da6/a19433.html#a927ab90fe3e1a4951052934d77094530", null ],
+    [ "events", "da/da6/a19433.html#a3305529d3a25a929c4c6c5128773a4b6", null ],
+    [ "HealthCheck", "da/da6/a19433.html#a14c65e87caf2f0e815955946357aebf2", null ],
+    [ "m_pInstance", "da/da6/a19433.html#ab128bbb66f0311b10e2589c5b00ba6bb", null ],
+    [ "PointID", "da/da6/a19433.html#acfe0e8fabd539e3d3a9953db94824e51", null ],
+    [ "ShatteredCount", "da/da6/a19433.html#a5ee620ae4a5570bef0746eb3a57d96b7", null ],
+    [ "summons", "da/da6/a19433.html#a86be695fda3975efa15f2ce2373ec158", null ],
+    [ "x", "da/da6/a19433.html#a76e407ff3cd8194c9ebc8845a579055f", null ],
+    [ "y", "da/da6/a19433.html#ab5a5b9979882dd06a0fa1c0e86a768dc", null ],
+    [ "z", "da/da6/a19433.html#a3a3617b13a66c38695551a5814868f40", null ]
 ];

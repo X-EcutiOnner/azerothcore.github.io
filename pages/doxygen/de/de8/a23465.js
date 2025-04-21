@@ -1,11 +1,14 @@
 var a23465 =
 [
-    [ "npc_rocket_propelled_warheadAI", "de/de8/a23465.html#aab27045dff817457d5858c48c174f3a2", null ],
-    [ "DoAction", "de/de8/a23465.html#abfd9618bd029ae56d846cac9cf5b7e80", null ],
-    [ "FinishQuest", "de/de8/a23465.html#a1ccb00801fbfc87cbe04f19dc15e4a10", null ],
-    [ "JustReachedHome", "de/de8/a23465.html#a680f46b5d7c88bafc5d3af669e9886ef", null ],
-    [ "PassengerBoarded", "de/de8/a23465.html#aba8121b207be2c7be161d9ea0c903d6e", null ],
-    [ "SpellHit", "de/de8/a23465.html#ae347c0817e145ec333bd5b1c87dd01ef", null ],
-    [ "_faction", "de/de8/a23465.html#a423bead0525222a132e22531f640c461", null ],
-    [ "_finished", "de/de8/a23465.html#ad676c377ea08cbb33f1ff226f864849c", null ]
+    [ "boss_vazruden", "de/de8/a23465.html#a9908d6082a09d55dd0d8bb801784a151", null ],
+    [ "DamageTaken", "de/de8/a23465.html#a44b1e4d43bbf0d7faec7f4ee277db811", null ],
+    [ "EnterEvadeMode", "de/de8/a23465.html#aba006e8e9aefe522ea5c36c638bb5c3b", null ],
+    [ "JustDied", "de/de8/a23465.html#a525025b41b53a577bdff1eb818191ed7", null ],
+    [ "JustEngagedWith", "de/de8/a23465.html#a5dbbe80fcfe191ac5ae03f943496ad02", null ],
+    [ "KilledUnit", "de/de8/a23465.html#a8f430a0d7edb0285156c6bf68ba0aa07", null ],
+    [ "Reset", "de/de8/a23465.html#a11b5091dafe2f0de9afd81de7b6fde90", null ],
+    [ "UpdateAI", "de/de8/a23465.html#aebaf147a1a2e723cb0cb8e46f3d01e68", null ],
+    [ "_hasSpoken", "de/de8/a23465.html#af5b9aa9c7a343486b4dc05819e8d3ccf", null ],
+    [ "_nazanCalled", "de/de8/a23465.html#a44d53934c743e9beb539681719997852", null ],
+    [ "_scheduler", "de/de8/a23465.html#a60382206e378c2f2c493d1ee25c4ff8c", null ]
 ];

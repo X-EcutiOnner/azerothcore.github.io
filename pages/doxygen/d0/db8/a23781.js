@@ -1,6 +1,6 @@
 var a23781 =
 [
-    [ "HandleScript", "d0/db8/a23781.html#afa7e36019c483f0502de9b2e6cab313f", null ],
-    [ "PrepareSpellScript", "d0/db8/a23781.html#ab6febb60aba3af1002b99f67c77942a6", null ],
-    [ "Register", "d0/db8/a23781.html#a402c1955264328777d813c4aa9eeaf11", null ]
+    [ "FilterTargets", "d0/db8/a23781.html#a0b0a4e033a1410a5b0def33cf87c853c", null ],
+    [ "PrepareSpellScript", "d0/db8/a23781.html#afa186c0b0728e3462f8984189613f9a7", null ],
+    [ "Register", "d0/db8/a23781.html#a14aafc65b554c0ada5684c46ae1f57c8", null ]
 ];

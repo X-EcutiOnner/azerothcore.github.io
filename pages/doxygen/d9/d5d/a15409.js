@@ -1,7 +1,6 @@
 var a15409 =
 [
-    [ "npc_webbed_creatureAI", "d9/d5d/a15409.html#a6b7507eda84c29d6bd557b1b424ee10a", null ],
-    [ "JustDied", "d9/d5d/a15409.html#a153d461124ec9266ffcac147a217f6d9", null ],
-    [ "JustEngagedWith", "d9/d5d/a15409.html#ac52ad6512bcaee35932f856abdac80d4", null ],
-    [ "Reset", "d9/d5d/a15409.html#a459eaadd7f0145b7a1a6caf99d1e8a5d", null ]
+    [ "npc_giant_spotlightAI", "d7/dc0/a15413.html", "d7/dc0/a15413" ],
+    [ "npc_giant_spotlight", "d9/d5d/a15409.html#a9d1c47de758c74a89c751b675d5cc4c0", null ],
+    [ "GetAI", "d9/d5d/a15409.html#af002a3d0194c991c1f78c720de63cfea", null ]
 ];

@@ -1,6 +1,6 @@
 var a18817 =
 [
-    [ "FilterTargets", "d5/df8/a18817.html#acb649b1e4c6dea2fe6863f64071c0f59", null ],
-    [ "PrepareSpellScript", "d5/df8/a18817.html#a9e940edd47c10176c877ffb290b140b4", null ],
-    [ "Register", "d5/df8/a18817.html#a0ad462c2f25fcdca4cfb2cc2930dc286", null ]
+    [ "npc_four_car_garageAI", "d5/df8/a18817.html#a2eedf5934e12d33cda0ac173d82220d5", null ],
+    [ "JustDied", "d5/df8/a18817.html#a1fba9f03dca2db37b5cb969079b25d22", null ],
+    [ "PassengerBoarded", "d5/df8/a18817.html#a144bc36a5c4ff227c8a7dc146d4167b6", null ]
 ];

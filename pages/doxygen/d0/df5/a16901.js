@@ -1,19 +1,16 @@
 var a16901 =
 [
-    [ "boss_novosAI", "d0/df5/a16901.html#adb1ddbf486ee7690d25c00db3902e408", null ],
-    [ "CheckEvadeIfOutOfCombatArea", "d0/df5/a16901.html#ab1e9ef1780d53447e3e39c69de2111f8", null ],
-    [ "GetData", "d0/df5/a16901.html#ab4c51470b6e1492922fa507566cfb01b", null ],
-    [ "JustDied", "d0/df5/a16901.html#a7fc57c7b0fe7befc5e3466e929bf8e40", null ],
-    [ "JustEngagedWith", "d0/df5/a16901.html#ab0d05b5f01943a2a1a4b9942b7af6a4f", null ],
-    [ "JustSummoned", "d0/df5/a16901.html#a67340b4d1b140b018a91c28cb649ce6f", null ],
-    [ "KilledUnit", "d0/df5/a16901.html#ae2a48f1b01018307d9d08b36a4b15401", null ],
-    [ "MoveInLineOfSight", "d0/df5/a16901.html#acd01b87b1f481de8f3327c3a958dd12d", null ],
-    [ "Reset", "d0/df5/a16901.html#ac62d82368e71dcb58cbac04d90731d35", null ],
-    [ "SetData", "d0/df5/a16901.html#a86825eabbf3411443ffd8f458defb0b0", null ],
-    [ "UpdateAI", "d0/df5/a16901.html#acba9623bd90132a4042c2fb9923a1c3c", null ],
-    [ "_achievement", "d0/df5/a16901.html#a00e5942a5c4c05dc168b80d60cb10d0f", null ],
-    [ "_crystalCounter", "d0/df5/a16901.html#afc81805776138a9075aac36cf268c6eb", null ],
-    [ "_stage", "d0/df5/a16901.html#a88013d55c74c4d3c86a5e254ca77e892", null ],
-    [ "_summonTargetLeftGUID", "d0/df5/a16901.html#a9c79a08d0f1814e265dc7dad59946c02", null ],
-    [ "_summonTargetRightGUID", "d0/df5/a16901.html#aeb5b0d02c11bd3e4299e05c498c8cfd8", null ]
+    [ "boss_ickAI", "d0/df5/a16901.html#a72c90af745b63202edc36b84b3f4df12", null ],
+    [ "CanAIAttack", "d0/df5/a16901.html#afa3a7ef19f014ed9c46be4a3adc83aa3", null ],
+    [ "DamageTaken", "d0/df5/a16901.html#a96d39b533a96503d59c41c9e7cdd4ac4", null ],
+    [ "GetKrick", "d0/df5/a16901.html#a2d6192f314e76886204c7248d141260a", null ],
+    [ "JustDied", "d0/df5/a16901.html#afd7752ee19dcc6be0b28181bb4485146", null ],
+    [ "JustEngagedWith", "d0/df5/a16901.html#a27598604e65417225acd41d6f05cc717", null ],
+    [ "JustSummoned", "d0/df5/a16901.html#abf700d993e1cfaa0cc64d90903bfa842", null ],
+    [ "KilledUnit", "d0/df5/a16901.html#a618c4e704d9a90d8bf4fac2d22bda6b3", null ],
+    [ "Reset", "d0/df5/a16901.html#a9ba668208cda4dd33fd4eacb04476e2e", null ],
+    [ "SpellHitTarget", "d0/df5/a16901.html#a5d90395d45509f8aeb244f4a4743d07d", null ],
+    [ "UpdateAI", "d0/df5/a16901.html#a74bd63ac9558ecec52affaa7440360a1", null ],
+    [ "events", "d0/df5/a16901.html#aab514bb5f930d9eb545a279181632796", null ],
+    [ "pInstance", "d0/df5/a16901.html#a1ad5a6809ffe750a5538dc650a437b81", null ]
 ];

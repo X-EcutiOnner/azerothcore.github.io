@@ -1,6 +1,5 @@
 var a20493 =
 [
-    [ "spell_oculus_shock_lance_SpellScript", "df/d56/a20497.html", "df/d56/a20497" ],
-    [ "spell_oculus_shock_lance", "d5/d2d/a20493.html#a7d40306d45551b818b05ea9e88cafdf0", null ],
-    [ "GetSpellScript", "d5/d2d/a20493.html#adb77427369fca4301701bffcdb57cc6f", null ]
+    [ "achievement_iron_dwarf_medium_rare", "d5/d2d/a20493.html#afb3716aab7693ba0493db24999e4b1ee", null ],
+    [ "OnCheck", "d5/d2d/a20493.html#aabef3a345057265ac70c6cc0c98d552d", null ]
 ];

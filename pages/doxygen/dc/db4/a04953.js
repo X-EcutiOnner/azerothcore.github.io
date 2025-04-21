@@ -1,10 +1,20 @@
 var a04953 =
 [
-    [ "WModelAreaCallback", "dc/db4/a04953.html#ad59e5b281d60d2489d0100e728612e65", null ],
-    [ "operator()", "dc/db4/a04953.html#a4c0bb86ba4d8238e8f7740c4699dfa0f", null ],
-    [ "hit", "dc/db4/a04953.html#a136cf475a8246611c52b3af41707fe83", null ],
-    [ "minVol", "dc/db4/a04953.html#a169a35e4d1b33b28014ad753993a1c27", null ],
-    [ "prims", "dc/db4/a04953.html#a7a45b1c8e16c7840a45b96b15ca200b4", null ],
-    [ "zDist", "dc/db4/a04953.html#ade19ec7931454c375bf8564f05556c8e", null ],
-    [ "zVec", "dc/db4/a04953.html#a423995c8ce4c4846da978cc49aeee2b9", null ]
+    [ "MMapMgr", "dc/db4/a04953.html#abd4bd2ef84d57be5000ab37ed36ded8c", null ],
+    [ "~MMapMgr", "dc/db4/a04953.html#a09b83a0d5246838d42a49c5103957480", null ],
+    [ "getLoadedMapsCount", "dc/db4/a04953.html#a8b087a39387a10c17dca364b9db537f9", null ],
+    [ "getLoadedTilesCount", "dc/db4/a04953.html#a14fe8d762bac4d5d179af1acf8bfe84e", null ],
+    [ "GetMMapData", "dc/db4/a04953.html#a755d34666349eba1d7665e510afa3453", null ],
+    [ "GetNavMesh", "dc/db4/a04953.html#aeae84fe910639b71a40949de59e41c91", null ],
+    [ "GetNavMeshQuery", "dc/db4/a04953.html#af9b97f1e32233fef4e4828a4c8907abc", null ],
+    [ "InitializeThreadUnsafe", "dc/db4/a04953.html#a88c7145d0475a2e5d9be5baa72a2ca7e", null ],
+    [ "loadMap", "dc/db4/a04953.html#aa27722de47fd0f5ea0d0afac8b08e161", null ],
+    [ "loadMapData", "dc/db4/a04953.html#ac677ea014721d0631195ba64b05c66a0", null ],
+    [ "packTileID", "dc/db4/a04953.html#ace3265c248ccf2a34ca4b7c43f294e43", null ],
+    [ "unloadMap", "dc/db4/a04953.html#a83acf8ce1357052ccb8aa6b63f6860ca", null ],
+    [ "unloadMap", "dc/db4/a04953.html#a2d933fd783126e48423d81d1c06fb3f9", null ],
+    [ "unloadMapInstance", "dc/db4/a04953.html#aa97a8352cad200ea1243e968dc1629a6", null ],
+    [ "loadedMMaps", "dc/db4/a04953.html#a98a7d0bf952eb80340863f2336ae84d1", null ],
+    [ "loadedTiles", "dc/db4/a04953.html#a9e2154958fcfa78d8906ccb5ccf2597c", null ],
+    [ "thread_safe_environment", "dc/db4/a04953.html#a89c7b087891d313e69437504dc0e449f", null ]
 ];

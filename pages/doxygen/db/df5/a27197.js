@@ -1,9 +1,9 @@
 var a27197 =
 [
-    [ "CheckIfCorpseNear", "db/df5/a27197.html#a9b512f84f1d728e24845b6aaa28bdd6b", null ],
-    [ "HandleDummy", "db/df5/a27197.html#a913c0137d2a13c810bbae869cc6cf734", null ],
-    [ "Load", "db/df5/a27197.html#a3f36968d10bde12c7e2eda8db4145252", null ],
-    [ "PrepareSpellScript", "db/df5/a27197.html#acc7d6f489c34c3cc26f37bc94f8727e8", null ],
-    [ "Register", "db/df5/a27197.html#a736c4fe39e947ad98df19b3b001bdc29", null ],
-    [ "Validate", "db/df5/a27197.html#a51b075f95211025b2a7719a3ee70a6be", null ]
+    [ "go_gilded_brazierAI", "db/df5/a27197.html#aaacf408b0f42b593a8a2897cb27886fb", null ],
+    [ "GossipHello", "db/df5/a27197.html#afac9e217c294e72ff5f2526422e6321e", null ],
+    [ "Initialize", "db/df5/a27197.html#a72d2dd8f7ecdf173e5a3847c94255786", null ],
+    [ "UpdateAI", "db/df5/a27197.html#a0965f0a6f3f1c75e85f184319a1f9cef", null ],
+    [ "_events", "db/df5/a27197.html#a35e62a272b790d6e858cc48c92e55b7b", null ],
+    [ "_playerGUID", "db/df5/a27197.html#a506eccb2c3ebcc126d486638fb07ae3c", null ]
 ];

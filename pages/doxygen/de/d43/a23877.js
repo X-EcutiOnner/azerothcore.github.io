@@ -1,9 +1,6 @@
 var a23877 =
 [
-    [ "HandlePeriodic", "de/d43/a23877.html#a774e4515085287681c7bf04588806754", null ],
-    [ "Load", "de/d43/a23877.html#af8a220667ef482c2740b6296e33cd647", null ],
-    [ "PrepareAuraScript", "de/d43/a23877.html#ab5e10153424e0a8f7f6554f291a3c063", null ],
-    [ "Register", "de/d43/a23877.html#a8aa3e613f18b1a246b20faa2b00f0e4d", null ],
-    [ "Validate", "de/d43/a23877.html#a719db1ff1b08b3549042928dc688a5a7", null ],
-    [ "_counter", "de/d43/a23877.html#aa4063fd51d028d343156affd87fa0336", null ]
+    [ "npc_nether_drakeAI", "d0/d92/a23881.html", "d0/d92/a23881" ],
+    [ "npc_nether_drake", "de/d43/a23877.html#a253ec3c91857b899ea9e2c824870b760", null ],
+    [ "GetAI", "de/d43/a23877.html#a58d269e2c73cae07bb507162b742fe8f", null ]
 ];

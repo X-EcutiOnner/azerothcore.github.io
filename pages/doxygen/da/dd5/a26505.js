@@ -1,9 +1,7 @@
 var a26505 =
 [
-    [ "HandleApply", "da/dd5/a26505.html#a1a612d0b35ed6e67042b4d038f8927ca", null ],
-    [ "HandleRemove", "da/dd5/a26505.html#a54b5ffcf247f7385b50b401bc82f43ce", null ],
-    [ "PrepareAuraScript", "da/dd5/a26505.html#af2b8e669737cd4282beb6a5035f496fc", null ],
-    [ "RecalculateBaseArmor", "da/dd5/a26505.html#a693720558c7b2b22c41a49a402522014", null ],
-    [ "Register", "da/dd5/a26505.html#aff9bc58342383afe5a08be696cddedf6", null ],
-    [ "Validate", "da/dd5/a26505.html#ad712e1e05d94372defdfa4fe67e65716", null ]
+    [ "CalculateAmount", "da/dd5/a26505.html#aefeab4e58c1b5c1be87f583256d366f5", null ],
+    [ "Load", "da/dd5/a26505.html#ae2ef0eae77137c120ec61af8698677db", null ],
+    [ "PrepareAuraScript", "da/dd5/a26505.html#acaecc78c031aa436f432fd7145478de4", null ],
+    [ "Register", "da/dd5/a26505.html#afd27c8bc5fd1628b7e32bf464bfe3d48", null ]
 ];

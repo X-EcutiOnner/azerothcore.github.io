@@ -1,8 +1,19 @@
 var a27625 =
 [
-    [ "HandleDummy", "d6/d04/a27625.html#a13b4ea32e03dec26d0cdaa9537abb3b0", null ],
-    [ "Load", "d6/d04/a27625.html#a78506404ba25b054a9ab3f7176a5d4fc", null ],
-    [ "PrepareSpellScript", "d6/d04/a27625.html#a070e83b84feb418f02327240daebede7", null ],
-    [ "Register", "d6/d04/a27625.html#a0c2965e62feb26ca764636fcd3a1f885", null ],
-    [ "Validate", "d6/d04/a27625.html#a48934cde38c6f3b18087267b616ff338", null ]
+    [ "difference_type", "d6/d04/a27625.html#ae4b37510a14d178636d2caeb518152d8", null ],
+    [ "iterator_category", "d6/d04/a27625.html#a1b18e314fae6548a7b7a2a9bb1eff74d", null ],
+    [ "pointer", "d6/d04/a27625.html#a734ca6242c1ab2c6ac1b3126f6ee81f0", null ],
+    [ "reference", "d6/d04/a27625.html#a17541a5d418dd9835eab783fc5c50b4e", null ],
+    [ "value_type", "d6/d04/a27625.html#a5f84eca02dd9a1a3003cd6cf748c4be7", null ],
+    [ "DBCStorageIterator", "d6/d04/a27625.html#a5d579fb01742b5b7bbd92de4d44b0ca4", null ],
+    [ "DBCStorageIterator", "d6/d04/a27625.html#a76f99de60a6ff7306b0e585b0a49def9", null ],
+    [ "operator!=", "d6/d04/a27625.html#afc1a89496edd42c09ef4d4c11a384d81", null ],
+    [ "operator*", "d6/d04/a27625.html#a3b70157f0d4ebfb0d3df49e1c528767b", null ],
+    [ "operator++", "d6/d04/a27625.html#a88bf008d6f2d553a22f41a2bc1777a7d", null ],
+    [ "operator++", "d6/d04/a27625.html#a10439a8b58f835bd5bbda9af42536eea", null ],
+    [ "operator->", "d6/d04/a27625.html#adb031d50b1a6e19300fdd713101d7cfc", null ],
+    [ "operator==", "d6/d04/a27625.html#a4d25ca9a7f276d71a39fc8f05ac2ec8f", null ],
+    [ "_end", "d6/d04/a27625.html#aa6463048b19614ca3703bd840bee5060", null ],
+    [ "_index", "d6/d04/a27625.html#a93c4239222a0dcac3051bd97f4e60b24", null ],
+    [ "_pos", "d6/d04/a27625.html#a3b7fdda5aed3be63b253912d25f3a02a", null ]
 ];

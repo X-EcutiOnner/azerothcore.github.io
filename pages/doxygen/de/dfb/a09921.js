@@ -1,7 +1,8 @@
 var a09921 =
 [
-    [ "DatabaseScript", "de/dfb/a09921.html#acbfa43170e2efdb1304cee30ffe5e770", null ],
-    [ "IsDatabaseBound", "de/dfb/a09921.html#af4321bb95ed9bb3bb0e5a8a93c89c235", null ],
-    [ "OnAfterDatabaseLoadCreatureTemplates", "de/dfb/a09921.html#a2f4e91e2b1192c0ceb399cd93eb33ee3", null ],
-    [ "OnAfterDatabasesLoaded", "de/dfb/a09921.html#ab52afc833cb462693f5e0d79cff6bb3f", null ]
+    [ "TimedFleeingMovementGenerator", "de/dfb/a09921.html#ae3eed5f4b5a8d11ad4eed67ce5329742", null ],
+    [ "Finalize", "de/dfb/a09921.html#a1a18f033663fa93ef0b9885aae21f766", null ],
+    [ "GetMovementGeneratorType", "de/dfb/a09921.html#a1533d13f4e786e498353805a2a2daf85", null ],
+    [ "Update", "de/dfb/a09921.html#a53688aae55bfdd3a33eb24484fcc157e", null ],
+    [ "i_totalFleeTime", "de/dfb/a09921.html#a2858047459ff675383e7b86805702369", null ]
 ];

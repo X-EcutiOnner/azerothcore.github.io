@@ -1,6 +1,6 @@
 var a20769 =
 [
-    [ "CosmicSmashDamageEvent", "de/dbe/a20769.html#a5c9606791b560d8be1825a9c73f2393e", null ],
-    [ "Execute", "de/dbe/a20769.html#a2d4b301e1b7e0852ec47280ad97871f2", null ],
-    [ "_caster", "de/dbe/a20769.html#ab7af2459d3962831812ee2362ee9de2b", null ]
+    [ "boss_yoggsaron_descend_portalAI", "d8/dbb/a20773.html", "d8/dbb/a20773" ],
+    [ "boss_yoggsaron_descend_portal", "de/dbe/a20769.html#aaf546e4e546d87818bd501b4934e8ab2", null ],
+    [ "GetAI", "de/dbe/a20769.html#aceb50c808eed17ca468a80b823af1907", null ]
 ];

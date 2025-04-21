@@ -1,6 +1,12 @@
 var a17329 =
 [
-    [ "HandlePeriodicTick", "d0/d2b/a17329.html#ad3fef74a1a5904ab3fd45b214e03a929", null ],
-    [ "PrepareAuraScript", "d0/d2b/a17329.html#aa76a8f089f03ee777f3bd83654c39ca3", null ],
-    [ "Register", "d0/d2b/a17329.html#ac6cd5ac810da71fa5ade26197f70c4e0", null ]
+    [ "npc_high_overlord_saurfangAI", "d0/d2b/a17329.html#a5c31259d9eb26e09d2b645d826e75328", null ],
+    [ "DoAction", "d0/d2b/a17329.html#a4a372a14c960c48c51a1c8e34ebffc53", null ],
+    [ "MovementInform", "d0/d2b/a17329.html#a6a46f99ffb67a699ef9adb2a1afcbe13", null ],
+    [ "Reset", "d0/d2b/a17329.html#a28899c61f9b4d3612535d1a01dc05f4a", null ],
+    [ "SpellHit", "d0/d2b/a17329.html#a6399e9c9ecdb8c01fbd2bcd1b081811f", null ],
+    [ "UpdateAI", "d0/d2b/a17329.html#a92124e7490a066bf63836397a3bdc71b", null ],
+    [ "_events", "d0/d2b/a17329.html#a12bbe13cf8fd1eda0cb8aa75ecafddc4", null ],
+    [ "_guardList", "d0/d2b/a17329.html#a1d8ccb93c5c8d13767fa8a1429adb262", null ],
+    [ "_instance", "d0/d2b/a17329.html#a4181022e52fc10e2d5d98dcffe9ced62", null ]
 ];

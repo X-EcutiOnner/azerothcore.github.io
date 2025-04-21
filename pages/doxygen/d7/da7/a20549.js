@@ -1,6 +1,12 @@
 var a20549 =
 [
-    [ "spell_oculus_soarAuraScript", "d8/d96/a20553.html", "d8/d96/a20553" ],
-    [ "spell_oculus_soar", "d7/da7/a20549.html#a87ffbeaba4f2df4fe4af249c01b3ae52", null ],
-    [ "GetAuraScript", "d7/da7/a20549.html#a36dc01588cf38a73f1faab1e9521d094", null ]
+    [ "boss_thorim_start_npcsAI", "d7/da7/a20549.html#a9602af25cbe9d4b3fe8534093c237a20", null ],
+    [ "DamageTaken", "d7/da7/a20549.html#a9a848662671380a726eb7288c6507f68", null ],
+    [ "JustDied", "d7/da7/a20549.html#a3c4b8928e1e0264e88eb49d930529c41", null ],
+    [ "JustEngagedWith", "d7/da7/a20549.html#ab6c0a8ae05a408cafb8ffe359d4d0d4e", null ],
+    [ "Reset", "d7/da7/a20549.html#aedf26a4b5baaf464d70316ce79ec32b3", null ],
+    [ "UpdateAI", "d7/da7/a20549.html#a5a84827d8d85e3a9b8e374da68d2c7ed", null ],
+    [ "_isCaster", "d7/da7/a20549.html#a6b2729ab9bce244da0a7d7fe6a4280f7", null ],
+    [ "_playerAttack", "d7/da7/a20549.html#adb868f1910859c79625cfb7f9a2b4101", null ],
+    [ "events", "d7/da7/a20549.html#a8dc5693814c49003727204623cef29b7", null ]
 ];

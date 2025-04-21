@@ -1,6 +1,7 @@
 var a23217 =
 [
-    [ "npc_mindless_ghoulAI", "dd/d7e/a23217.html#a4cc0dbd4aa2366115348bc1db273a5e2", null ],
-    [ "CanAIAttack", "dd/d7e/a23217.html#a18fbc44ad760a69d952d003622ec75b2", null ],
-    [ "JustDied", "dd/d7e/a23217.html#a272067bef6dbab24024f7de990c10b64", null ]
+    [ "PeriodicTick", "dd/d7e/a23217.html#a789d2d4d2bc75e412abe80a33102fa06", null ],
+    [ "PrepareAuraScript", "dd/d7e/a23217.html#a49db8ade3bc3a3da9e043e8b9ad1759d", null ],
+    [ "Register", "dd/d7e/a23217.html#aec2d7f564107f5b294a5d5c3dd3f9b25", null ],
+    [ "Validate", "dd/d7e/a23217.html#a7c2309d3192b2a18d8035c8067849d6d", null ]
 ];

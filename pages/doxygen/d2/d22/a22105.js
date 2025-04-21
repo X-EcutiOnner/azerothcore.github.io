@@ -1,6 +1,9 @@
 var a22105 =
 [
-    [ "boss_yoggsaron_cloudAI", "d2/d3f/a22109.html", "d2/d3f/a22109" ],
-    [ "boss_yoggsaron_cloud", "d2/d22/a22105.html#ab52cc1fa8b45b70dde340b9f463ef2f1", null ],
-    [ "GetAI", "d2/d22/a22105.html#a2005f062eb9d78c7b09b045eba570b98", null ]
+    [ "npc_engineer_heliceAI", "d2/d22/a22105.html#ab9d82a7d2886a0cc4edbc2f4c4c81341", null ],
+    [ "JustDied", "d2/d22/a22105.html#aba224727b86a2bfc39a47b70b424ccef", null ],
+    [ "Reset", "d2/d22/a22105.html#ade3f7f526dd8973c155aafb939db3778", null ],
+    [ "UpdateAI", "d2/d22/a22105.html#a1c333511dd6e82cd22af111e12a701c4", null ],
+    [ "WaypointReached", "d2/d22/a22105.html#a065698e61f0b7769ad2f58614c02ad5b", null ],
+    [ "m_uiChatTimer", "d2/d22/a22105.html#aa305bc2b5711d0745650f80275204ea8", null ]
 ];

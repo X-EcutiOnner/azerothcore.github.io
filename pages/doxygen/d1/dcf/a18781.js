@@ -1,7 +1,5 @@
 var a18781 =
 [
-    [ "PeriodicTick", "d1/dcf/a18781.html#af80e23c4110cd7376ad94a3d88b306c9", null ],
-    [ "PrepareAuraScript", "d1/dcf/a18781.html#aeed215110b2dddcbb82279fdc462659a", null ],
-    [ "Register", "d1/dcf/a18781.html#aed12ea0a44f43174b42cf3282ffc81ac", null ],
-    [ "Validate", "d1/dcf/a18781.html#a30851c533d098a7c0d4cdae9650140d3", null ]
+    [ "at_frozen_throne_teleport", "d1/dcf/a18781.html#a8065b9f9b55b267be1757775f84de349", null ],
+    [ "OnTrigger", "d1/dcf/a18781.html#ae1f9476b7f47320f545e702e9317bd03", null ]
 ];

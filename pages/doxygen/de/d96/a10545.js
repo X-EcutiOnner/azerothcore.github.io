@@ -1,7 +1,5 @@
 var a10545 =
 [
-    [ "UpdateWorldState", "de/d96/a10545.html#a1ccdf24be9a20c824b479af014f4fcb0", null ],
-    [ "Write", "de/d96/a10545.html#a76a4c5d6a06ce8d86a2d3f04f68e838d", null ],
-    [ "Value", "de/d96/a10545.html#a51fa2401d8af4c1c7848b423cb6f056f", null ],
-    [ "VariableID", "de/d96/a10545.html#aa73278b324822f509f48e6edcdaed457", null ]
+    [ "AcceptGuildInvite", "de/d96/a10545.html#a4453fc550871082f6295d9229eef265a", null ],
+    [ "Read", "de/d96/a10545.html#a3d39b917ca2650f645ccce12cdc1a1e0", null ]
 ];

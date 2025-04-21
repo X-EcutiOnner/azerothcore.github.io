@@ -1,9 +1,7 @@
 var a13721 =
 [
-    [ "boss_alyson_antilleAI", "d6/d95/a13721.html#a31fadb4f3cd15deda115274f7b7be3d6", null ],
-    [ "AttackStart", "d6/d95/a13721.html#a77ddba446344f1ec4c70dd09c61f22e7", null ],
-    [ "Reset", "d6/d95/a13721.html#aaddce1da826fd4a228bf8bc96468e47c", null ],
-    [ "UpdateAI", "d6/d95/a13721.html#a035bff3662b703d6e7d3789ccc78b584", null ],
-    [ "dispelmagic_timer", "d6/d95/a13721.html#a7d12e5664422861a93329896eea6e9ec", null ],
-    [ "flashheal_timer", "d6/d95/a13721.html#a74a1d280c02f4fa8bca30524e447da9e", null ]
+    [ "HandleDispel", "d6/d95/a13721.html#a415977576283972ce4a1050c70826d7c", null ],
+    [ "PrepareAuraScript", "d6/d95/a13721.html#a95dfbfe631e8ec9213a32c6f52d3feb1", null ],
+    [ "Register", "d6/d95/a13721.html#a1bbb71eeb2273c2ecd0eb774b68735dc", null ],
+    [ "Validate", "d6/d95/a13721.html#ac496e7bef875ca46660217e74fc3bc74", null ]
 ];

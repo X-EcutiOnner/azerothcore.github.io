@@ -1,8 +1,7 @@
 var a15305 =
 [
-    [ "npc_ahnqiraji_critter", "d7/d7c/a15305.html#a60e2dc1c52579a410d3435126bf39684", null ],
-    [ "JustDied", "d7/d7c/a15305.html#a71d3d5262bde847a18932fea89cb6648", null ],
-    [ "JustEngagedWith", "d7/d7c/a15305.html#aca1df706306f9181db26cd77e5b66452", null ],
-    [ "Reset", "d7/d7c/a15305.html#a645e16e9da29f6579320394201d0ada7", null ],
-    [ "UpdateAI", "d7/d7c/a15305.html#a68c5ded8563c2de9429a13cdb7d38f89", null ]
+    [ "npc_cork_gizeltonAI", "dd/de5/a15309.html", "dd/de5/a15309" ],
+    [ "npc_cork_gizelton", "d7/d7c/a15305.html#a915aa2abc18109e7d0197863f59536f2", null ],
+    [ "GetAI", "d7/d7c/a15305.html#a8a5fe5c46767aa37fd6e5b10e1bfc372", null ],
+    [ "OnQuestAccept", "d7/d7c/a15305.html#a11dc1fea0a24add451272b537298fc13", null ]
 ];

@@ -1,6 +1,8 @@
 var a13301 =
 [
-    [ "instance_sunwell_plateau_InstanceMapScript", "d9/d34/a13305.html", "d9/d34/a13305" ],
-    [ "instance_sunwell_plateau", "d1/dec/a13301.html#a31d2245a9237c8dc4480b9d26ff3557c", null ],
-    [ "GetInstanceScript", "d1/dec/a13301.html#a5960785a845c87e2e1730cfd865b44b4", null ]
+    [ "HandleApply", "d1/dec/a13301.html#a2c64240e8675fc76598600ae2632570f", null ],
+    [ "HandleRemove", "d1/dec/a13301.html#a2a6e32bbc9b722ad7e872c6a26daa6bb", null ],
+    [ "PrepareAuraScript", "d1/dec/a13301.html#a6ff74fbaf3a6ef84024d55528fd6f8e2", null ],
+    [ "Register", "d1/dec/a13301.html#aebfb4b20a9b0ebefff652a0ae1727994", null ],
+    [ "Validate", "d1/dec/a13301.html#abdad49fe5e0a72799847fdfcfe22eec0", null ]
 ];

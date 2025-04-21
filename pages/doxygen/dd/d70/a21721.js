@@ -1,8 +1,6 @@
 var a21721 =
 [
-    [ "npc_ulduar_mimiron_rocketAI", "dd/d70/a21721.html#ad758070aaeadc4d7b2b7ff4108b76c89", null ],
-    [ "InitializeAI", "dd/d70/a21721.html#aba3bf48434dca79f56f4b9aac707d48c", null ],
-    [ "Reset", "dd/d70/a21721.html#a60fbcbae9205bfd1c63b5bef7924b3ee", null ],
-    [ "SetData", "dd/d70/a21721.html#a8e547ba872c9bc2ec95ae2f60b011fce", null ],
-    [ "UpdateAI", "dd/d70/a21721.html#a28106e303d5e7c1bce9ceaa571129dca", null ]
+    [ "SACDeactivateEvent", "dd/d70/a21721.html#a14f1db2f3bf7e82d0e5c5b5135d46cf9", null ],
+    [ "Execute", "dd/d70/a21721.html#a12179c55d1999b3cd0cfc5d51d039a31", null ],
+    [ "_owner", "dd/d70/a21721.html#acc87b2f689bf2e6a3f19440dceb6ea6d", null ]
 ];

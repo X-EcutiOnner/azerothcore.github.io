@@ -1,9 +1,7 @@
 var a08293 =
 [
-    [ "EntryPointData", "d9/d95/a08293.html#a1852523ba9ca889cdd6731c63de759e2", null ],
-    [ "ClearTaxiPath", "d9/d95/a08293.html#a4aee0d4ef3850fb486987ae6fe78ee91", null ],
-    [ "HasTaxiPath", "d9/d95/a08293.html#afd310b2f367ec7df76f01689ea120e6e", null ],
-    [ "joinPos", "d9/d95/a08293.html#abfdc0ccd945f60e0a3ec37d278c96940", null ],
-    [ "mountSpell", "d9/d95/a08293.html#a06e1cadac24a2ab90e57373692f829dc", null ],
-    [ "taxiPath", "d9/d95/a08293.html#a5af670fa420b250c22e0f3237e753a6f", null ]
+    [ "EnchStoreItem", "d9/d95/a08293.html#a89019e156774c5b978251479264e5463", null ],
+    [ "EnchStoreItem", "d9/d95/a08293.html#aca83bb20eb6153faeaf599b07b97e357", null ],
+    [ "chance", "d9/d95/a08293.html#a2d3d0cd28c79402b3625694d4676ed8b", null ],
+    [ "ench", "d9/d95/a08293.html#ac2346b6c6c5c09bb63676d72c798d848", null ]
 ];

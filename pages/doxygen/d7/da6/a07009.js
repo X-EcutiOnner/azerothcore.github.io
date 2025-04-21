@@ -1,14 +1,9 @@
 var a07009 =
 [
-    [ "IsArena", "d7/da6/a07009.html#a8a99bf73debf5835e58537bee33fe2ad", null ],
-    [ "BattlemasterEntry", "d7/da6/a07009.html#a51ce3b9fdb2f51f439fee7c8b48e3918", null ],
-    [ "Id", "d7/da6/a07009.html#a0fca37318585903f68695452a95011a9", null ],
-    [ "MaxLevel", "d7/da6/a07009.html#a790f55d480d1454a5f6e5713c04314b7", null ],
-    [ "MaxPlayersPerTeam", "d7/da6/a07009.html#a324a4e557ce66089ec1111a9dae6e1de", null ],
-    [ "MaxStartDistSq", "d7/da6/a07009.html#a5fbb1a76221e9d15bd7cca13581f7b14", null ],
-    [ "MinLevel", "d7/da6/a07009.html#a49fdf96a08376830a06956fd501cfa78", null ],
-    [ "MinPlayersPerTeam", "d7/da6/a07009.html#ac1bea263b53de8573cdb8eb890175495", null ],
-    [ "ScriptId", "d7/da6/a07009.html#a968dd626dba22925be3d8f1a3bdc51aa", null ],
-    [ "StartLocation", "d7/da6/a07009.html#a8477d2156c8aa5bb89da038d1a779698", null ],
-    [ "Weight", "d7/da6/a07009.html#aa7a051e8453599a7e82da763a6f91da2", null ]
+    [ "ObjectGuidVector", "d7/da6/a07009.html#aa49ab82006c390e7110013b44c018c0f", null ],
+    [ "~ObjectGuidVector", "d7/da6/a07009.html#a07fe3304a0edffa1f17a0ce5f97d01e6", null ],
+    [ "GetObjectVector", "d7/da6/a07009.html#a94ee201dcf0750edb84cedb151e9ff22", null ],
+    [ "UpdateObjects", "d7/da6/a07009.html#a8b6dad1739f51bba936257410a968c6e", null ],
+    [ "_guidVector", "d7/da6/a07009.html#aefce0edc7881ca01ba8c8c98067e165d", null ],
+    [ "_objectVector", "d7/da6/a07009.html#a78137cb1ae9930c11f87a4a8ed5e7e26", null ]
 ];

@@ -1,6 +1,6 @@
 var a23469 =
 [
-    [ "spell_vehicle_warhead_fuse_SpellScript", "d8/d94/a23473.html", "d8/d94/a23473" ],
-    [ "spell_vehicle_warhead_fuse", "d1/d2f/a23469.html#a8ec3c62373c7fc49297c556a377a44e7", null ],
-    [ "GetSpellScript", "d1/d2f/a23469.html#a763249b19d07e5d520ccb7e09f276c73", null ]
+    [ "HandleScriptEffect", "d1/d2f/a23469.html#adf350bccc5862252f6928faa4ae3a001", null ],
+    [ "PrepareSpellScript", "d1/d2f/a23469.html#a0d1ff479da3b8f50ed698da9f9029589", null ],
+    [ "Register", "d1/d2f/a23469.html#afaf23967ede6e120caa7758ff2d3c974", null ]
 ];

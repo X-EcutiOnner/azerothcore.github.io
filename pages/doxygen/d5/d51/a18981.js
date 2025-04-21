@@ -1,6 +1,7 @@
 var a18981 =
 [
-    [ "HandleScript", "d5/d51/a18981.html#a38dc97d8a7ac2bee7b8aceb0354c4248", null ],
-    [ "PrepareSpellScript", "d5/d51/a18981.html#aab97d2050622083d63067378683071a6", null ],
-    [ "Register", "d5/d51/a18981.html#ae73654c56526c52a82e5a7cbb72a1767", null ]
+    [ "HandleScript", "d5/d51/a18981.html#a66db3976fe6ec7ee8712c5788ce5f3ec", null ],
+    [ "PrepareAuraScript", "d5/d51/a18981.html#aa3053519be0101f55450d76b1291f0f7", null ],
+    [ "Register", "d5/d51/a18981.html#ada596a7f19115c7178fd07fb9e956f58", null ],
+    [ "Validate", "d5/d51/a18981.html#a768dec18bc0e879c457a64135ec27ad9", null ]
 ];

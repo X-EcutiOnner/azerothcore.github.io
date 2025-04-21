@@ -1,4 +1,5 @@
 var a10465 =
 [
-    [ "Validate", "d9/db1/a10465.html#a4512047d5f150789a00428a8431fd55f", null ]
+    [ "PlayerLogout", "d9/db1/a10465.html#afacee5b02c2adc4bec608b6f280fbcf1", null ],
+    [ "Read", "d9/db1/a10465.html#accbe1ced6a10ea2fa699df5e74575795", null ]
 ];

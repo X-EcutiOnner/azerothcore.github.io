@@ -1,6 +1,8 @@
 var a21957 =
 [
-    [ "boss_thorim_arena_npcsAI", "de/d1f/a21961.html", "de/d1f/a21961" ],
-    [ "boss_thorim_arena_npcs", "d7/d8d/a21957.html#a60d22280bb1eb3c9da92deb08e887942", null ],
-    [ "GetAI", "d7/d8d/a21957.html#a3709e1c9df32755f5932398ba3535f2f", null ]
+    [ "npc_llod_genericAI", "d7/d8d/a21957.html#ac75d85ae4b59416952788102cd1db132", null ],
+    [ "Reset", "d7/d8d/a21957.html#a15bd7442fef36a551cc8797f7919f57c", null ],
+    [ "UpdateAI", "d7/d8d/a21957.html#aa7dce553fb699127f63281b2c47a2f02", null ],
+    [ "attackTimer", "d7/d8d/a21957.html#a28a6e700d24995e477e7e7c4cc8b5d68", null ],
+    [ "summonTimer", "d7/d8d/a21957.html#aeeeef545aee565c14d86d8587923c677", null ]
 ];

@@ -1,6 +1,6 @@
 var a11277 =
 [
-    [ "inventory_commandscript", "d7/dd9/a11277.html#a765d3606093dd3e15bb59c058333dca7", null ],
-    [ "GetCommands", "d7/dd9/a11277.html#ac002b65cbe2e5dafc7614c7afa4a20e6", null ],
-    [ "HandleInventoryCountCommand", "d7/dd9/a11277.html#a60d05e2fd4e23fdb6bc6513a1dc67ba3", null ]
+    [ "EffectCalcAmountHandler", "d7/dd9/a11277.html#a4fe66bbf0433e80b602683a278e3a709", null ],
+    [ "Call", "d7/dd9/a11277.html#a4b5af2593dcb80930c6a45b7035767ca", null ],
+    [ "pEffectHandlerScript", "d7/dd9/a11277.html#aa52c8c780dcc157e16d11f8222706f7a", null ]
 ];

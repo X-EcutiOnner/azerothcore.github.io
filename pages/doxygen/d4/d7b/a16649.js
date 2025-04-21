@@ -1,8 +1,6 @@
 var a16649 =
 [
-    [ "npc_toc_boomkinAI", "d4/d7b/a16649.html#a12c586d57aa6dd3893889f103dbfee20", null ],
-    [ "JustSummoned", "d4/d7b/a16649.html#a0d049885773b7f1abd7e03f9200852f4", null ],
-    [ "myCanCast", "d4/d7b/a16649.html#a691a0250db77cc4def2bf67b25a1298c", null ],
-    [ "UpdateAI", "d4/d7b/a16649.html#a64b0451537c0d27bc01d1c1ec3b5b88d", null ],
-    [ "events", "d4/d7b/a16649.html#a0b367855092884b2ce30834e89fced87", null ]
+    [ "boss_bronjahmAI", "dd/df4/a16653.html", "dd/df4/a16653" ],
+    [ "boss_bronjahm", "d4/d7b/a16649.html#a699e1be5273979c76cd5d06b60f0ee05", null ],
+    [ "GetAI", "d4/d7b/a16649.html#a04676028f1f324b6eecea625122794ed", null ]
 ];

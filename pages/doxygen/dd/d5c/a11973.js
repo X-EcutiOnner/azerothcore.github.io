@@ -1,9 +1,8 @@
 var a11973 =
 [
-    [ "HandleAfterApply", "dd/d5c/a11973.html#ab80597d0abbcaed5465f6f19237686fa", null ],
-    [ "HandleAfterRemove", "dd/d5c/a11973.html#a494f0771972399f49540c6efeee7ac0f", null ],
-    [ "PeriodicTick", "dd/d5c/a11973.html#a805353ecd4e7fa25f8e9910741edb698", null ],
-    [ "PrepareAuraScript", "dd/d5c/a11973.html#a2ed03dd9173b20fe7f2dff21cd474378", null ],
-    [ "Register", "dd/d5c/a11973.html#a15d22ae5f2f9ba89fa3e9a6f096937a4", null ],
-    [ "Validate", "dd/d5c/a11973.html#ae45681f93285a7baa5f8a7ba9f1ca00a", null ]
+    [ "CheckProc", "dd/d5c/a11973.html#a08e84f2b2ff25ed7e260e61251f9cdb9", null ],
+    [ "HandleProc", "dd/d5c/a11973.html#afd3d4786f739566056b69390553d9c71", null ],
+    [ "PrepareAuraScript", "dd/d5c/a11973.html#a3ba84d4fd311a91efa685980ffec8d77", null ],
+    [ "Register", "dd/d5c/a11973.html#aa36a2e10a6fd67fa74d08e20dc806744", null ],
+    [ "Validate", "dd/d5c/a11973.html#aeff8b89300bb5d3589a46a4f66cfd77d", null ]
 ];

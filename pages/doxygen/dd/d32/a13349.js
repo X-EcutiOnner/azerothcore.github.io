@@ -1,6 +1,7 @@
 var a13349 =
 [
-    [ "spell_uldaman_boss_agro_archaedas_SpellScript", "dc/dcb/a13353.html", "dc/dcb/a13353" ],
-    [ "spell_uldaman_boss_agro_archaedas", "dd/d32/a13349.html#ae269234d4a671bb20f9b525c037dd120", null ],
-    [ "GetSpellScript", "dd/d32/a13349.html#ac95cc338ef9ecf9f858d6eaf78c5eb49", null ]
+    [ "PeriodicTick", "dd/d32/a13349.html#acca46d585d06d461f735cddb6075b3b1", null ],
+    [ "PrepareAuraScript", "dd/d32/a13349.html#abd7382ab22efd3d82c4f00745255d024", null ],
+    [ "Register", "dd/d32/a13349.html#a7020dbe7c61f877d0ecd0d7542f6f270", null ],
+    [ "Validate", "dd/d32/a13349.html#acb31ba162452a30ff0c208829560f9fd", null ]
 ];

@@ -1,7 +1,7 @@
 var a09677 =
 [
-    [ "WriteCommonMonsterMovePart", "d5/ddd/a09677.html#a5dcdbeb513f6da51b0af20d9acd2ac58", null ],
-    [ "WriteCreate", "d5/ddd/a09677.html#ae5682d7012cca35bd8643b01ce558eb5", null ],
-    [ "WriteMonsterMove", "d5/ddd/a09677.html#a4c4294e3fed32aca35078dd4975b057d", null ],
-    [ "WriteStopMovement", "d5/ddd/a09677.html#a1b960c1141ab9b4dca932e0eddaee204", null ]
+    [ "LootView", "d5/ddd/a09677.html#a4cfc8ca1034e941a85d2955f38b2e894", null ],
+    [ "loot", "d5/ddd/a09677.html#ac95fa4805c79923b292e8984b00de929", null ],
+    [ "permission", "d5/ddd/a09677.html#a33d7eeebd6fbc854300275a4138d9030", null ],
+    [ "viewer", "d5/ddd/a09677.html#af9a6926c6c871dee245f876038e49995", null ]
 ];

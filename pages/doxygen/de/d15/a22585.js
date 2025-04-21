@@ -1,20 +1,15 @@
 var a22585 =
 [
-    [ "boss_skadi_graufAI", "de/d15/a22585.html#ad5266bee9f90bc7c5622bd30825820eb", null ],
-    [ "CheckPlayers", "de/d15/a22585.html#ac240eae79545ab4dc0b5cbc0f5592e8e", null ],
-    [ "DoAction", "de/d15/a22585.html#a51a189e6f1f6c9c6948194d3181a7426", null ],
-    [ "JustEngagedWith", "de/d15/a22585.html#a6e9c8012479fac7873567acf1e5476a2", null ],
-    [ "MovementInform", "de/d15/a22585.html#a2b8fc3e54c0a1970510eabd74b4cee5b", null ],
-    [ "RemoveSkadi", "de/d15/a22585.html#a11c732dff2d71bce71c0077e1bda57cf", null ],
-    [ "Reset", "de/d15/a22585.html#ab04a1a98da7d318ee54c4af9aaabcfae", null ],
-    [ "SelectNextPos", "de/d15/a22585.html#aa01ac1cbc1866628c0953b22cca0b114", null ],
-    [ "SpawnFlameTriggers", "de/d15/a22585.html#ae7e2383327566d74af8839a4b0e0303f", null ],
-    [ "SpawnHelpers", "de/d15/a22585.html#a1ee67c3814a6ab406b7ca304c28314d3", null ],
-    [ "SpellHitTarget", "de/d15/a22585.html#a218c5df55286c143711a7f2023ada012", null ],
-    [ "UpdateAI", "de/d15/a22585.html#add5671b1f9e20590e1121f8c18d064cc", null ],
-    [ "AchievementHitCount", "de/d15/a22585.html#ae233171c66fb042f57156adfafb8e4fb", null ],
-    [ "currentPos", "de/d15/a22585.html#a486d9d7998015bb922addf92791cbe8f", null ],
-    [ "events", "de/d15/a22585.html#ab1cffcaa77006c54f8c948bc2a8d661a", null ],
-    [ "m_pInstance", "de/d15/a22585.html#a4cff3d8e4c1be9a2b5e9b501e455f2be", null ],
-    [ "summons", "de/d15/a22585.html#aac4eb6351a0fe1cf7423d277d9375f8a", null ]
+    [ "boss_grandmaster_vorpil", "de/d15/a22585.html#a0196ae46acba9c640b6fdfe30ac63f31", null ],
+    [ "counterVoidSpawns", "de/d15/a22585.html#a7a7c5679fe784025423119dd31d0e6ef", null ],
+    [ "JustDied", "de/d15/a22585.html#ab492fff8a9a275c662b44eeff3300b90", null ],
+    [ "JustEngagedWith", "de/d15/a22585.html#af1e6da02cd33742efad568424cf32c4f", null ],
+    [ "JustSummoned", "de/d15/a22585.html#a8a661b495d7fca340f3bd291d34ab3fc", null ],
+    [ "KilledUnit", "de/d15/a22585.html#af7779029f926e6d1c805b2f6c78cfd06", null ],
+    [ "MoveInLineOfSight", "de/d15/a22585.html#adb24a3d337b64f37759a3a39802d7e27", null ],
+    [ "Reset", "de/d15/a22585.html#a6471121ee02a834591b36d03fae28672", null ],
+    [ "spawnVoidTraveler", "de/d15/a22585.html#aa842bc3d88d0a3a411dcba3711809956", null ],
+    [ "summonPortals", "de/d15/a22585.html#a7cbdb7e7652dcac799b6f59424c8e9fd", null ],
+    [ "sayHelp", "de/d15/a22585.html#a3c83e1f9305fc17aebb4ec5f16225e17", null ],
+    [ "sayIntro", "de/d15/a22585.html#a5dd0edce19b33a1dd87d5b6e4458949f", null ]
 ];

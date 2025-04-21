@@ -1,8 +1,10 @@
 var a21329 =
 [
-    [ "npc_ulduar_saronite_animusAI", "df/d88/a21329.html#a2b94427feb24a7bda075b6a8f403433a", null ],
-    [ "JustDied", "df/d88/a21329.html#a30abcab01de3732bc5525864576615b0", null ],
-    [ "UpdateAI", "df/d88/a21329.html#a1490961adc8fc03ab28a992aff55b43b", null ],
-    [ "pInstance", "df/d88/a21329.html#a5d3b297355f286b0ad08ed38dbd5b0d2", null ],
-    [ "timer", "df/d88/a21329.html#a3d0345d4c503eb3f0e4acbe346f1c5e5", null ]
+    [ "npc_azure_binderAI", "df/d88/a21329.html#ad532d350493a35804660f90a9f00f3cf", null ],
+    [ "Reset", "df/d88/a21329.html#aa317ce32f3439286e9a4ac0928d48b3a", null ],
+    [ "UpdateAI", "df/d88/a21329.html#a322ae0210ccb24206aee49c4fa7fe2bc", null ],
+    [ "uiArcainBarrageTimer", "df/d88/a21329.html#a0e577611e3e11209cc175cd71cd86bc9", null ],
+    [ "uiArcaneExplosionTimer", "df/d88/a21329.html#aa5cc777f777166e88a21e98a4ce2b8d3", null ],
+    [ "uiFrostboltTimer", "df/d88/a21329.html#a405ec0f2d92e4a1f5f7901e725465604", null ],
+    [ "uiFrostNovaTimer", "df/d88/a21329.html#a0f6396376e14711f87f1a046728ce386", null ]
 ];

@@ -1,6 +1,9 @@
 var a21549 =
 [
-    [ "spell_hodir_starlight_AuraScript", "d3/d32/a21553.html", "d3/d32/a21553" ],
-    [ "spell_hodir_starlight", "d4/d6d/a21549.html#a804c2664d2d0e1e68d94d338075c5721", null ],
-    [ "GetAuraScript", "d4/d6d/a21549.html#aac7f9f737cd5146cc70902b856fa8581", null ]
+    [ "npc_counselor_talbotAI", "d4/d6d/a21549.html#acf1865ab4225128b8edbc619f7d8fa93", null ],
+    [ "JustDied", "d4/d6d/a21549.html#a4dbb0c9b91be5fa182bcc5c63ac9307b", null ],
+    [ "JustEngagedWith", "d4/d6d/a21549.html#acacec95c5e74c4b71cf2345bbae2eacb", null ],
+    [ "Reset", "d4/d6d/a21549.html#a03bfaedb136c3e107a4df8e4a1646ae2", null ],
+    [ "UpdateAI", "d4/d6d/a21549.html#a7b5c739d7c85d5205a04f3c6adf367ef", null ],
+    [ "_events", "d4/d6d/a21549.html#a094ce9839bb51b73e6b5826c24cda3b6", null ]
 ];

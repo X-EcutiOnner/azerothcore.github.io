@@ -1,6 +1,7 @@
 var a14521 =
 [
-    [ "npc_towering_infernalAI", "d7/d0c/a14525.html", "d7/d0c/a14525" ],
-    [ "npc_towering_infernal", "df/d94/a14521.html#acb32884e62741925966eba7cb95bbf08", null ],
-    [ "GetAI", "df/d94/a14521.html#a311e0cfed290ed848c5ba1bf7d8a8b9d", null ]
+    [ "PeriodicTick", "df/d94/a14521.html#aa94e4d6a31a08959a5287b863737c2e2", null ],
+    [ "PrepareAuraScript", "df/d94/a14521.html#a59a9c4dfe06859daac5bb69fa5d20e95", null ],
+    [ "Register", "df/d94/a14521.html#a24058b120f4fa06b89f6d582c53a365a", null ],
+    [ "Validate", "df/d94/a14521.html#a093b09be5abde91a1487d67a7a554d30", null ]
 ];

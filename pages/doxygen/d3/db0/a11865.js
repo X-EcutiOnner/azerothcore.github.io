@@ -1,18 +1,14 @@
 var a11865 =
 [
-    [ "boss_victor_nefariusAI", "d3/db0/a11865.html#a640261332db1736e27d93067fb83c959", null ],
-    [ "BeginEvent", "d3/db0/a11865.html#a53b0953667a42290ed4ab7e71f2dd509", null ],
-    [ "DoAction", "d3/db0/a11865.html#ac30157884fa02dce34051d2f76f94d0a", null ],
-    [ "Initialize", "d3/db0/a11865.html#a68a5a2c9f0b603a52c2e69ef9559d278", null ],
-    [ "JustDied", "d3/db0/a11865.html#a4104a8f6b91f568d537447cf9a9339b5", null ],
-    [ "JustReachedHome", "d3/db0/a11865.html#a4e5e6b636918dcf4cc93cd2ce3c53192", null ],
-    [ "JustSummoned", "d3/db0/a11865.html#a8ca86c4fee920d07cfafad3227e2203a", null ],
-    [ "Reset", "d3/db0/a11865.html#a4374199f776618afaf00934c93e6e0f4", null ],
-    [ "SetData", "d3/db0/a11865.html#af9dbc9026fe7baa41c6cf41b59ed81dc", null ],
-    [ "sGossipSelect", "d3/db0/a11865.html#ad3d7333e624c70c9c635073a1909c67d", null ],
-    [ "SummonedCreatureDies", "d3/db0/a11865.html#a704489a361ac2034ac65c95e9517772f", null ],
-    [ "UpdateAI", "d3/db0/a11865.html#a5a043856458c34b47a1dc16e27eac4c9", null ],
-    [ "_nefarianLeftTunnel", "d3/db0/a11865.html#a2b6132a6a89ed8f9fc215b1342642fed", null ],
-    [ "_nefarianRightTunnel", "d3/db0/a11865.html#ad7e3b70d671080294811e9fb191e880a", null ],
-    [ "KilledAdds", "d3/db0/a11865.html#a88f7040db2bf60fb165a406571471fbb", null ]
+    [ "boss_general_angerforgeAI", "d3/db0/a11865.html#af5537ccebc7ac6af49f9b6612d3a6138", null ],
+    [ "JustEngagedWith", "d3/db0/a11865.html#ae99e11630596c62c4155a18f5a0a3dd5", null ],
+    [ "Reset", "d3/db0/a11865.html#aff55a804bdca840016e0f6b1d11f7106", null ],
+    [ "SummonAdds", "d3/db0/a11865.html#a218f4de2d057505f60b2977835e5fd91", null ],
+    [ "SummonMedics", "d3/db0/a11865.html#aeabe71bde9b03a944beedeac68cffd19", null ],
+    [ "UpdateAI", "d3/db0/a11865.html#a751c0d0015c235c8716a2a8ff18500ba", null ],
+    [ "Adds_Timer", "d3/db0/a11865.html#a069f0008735b38c249ddfe5246025438", null ],
+    [ "Cleave_Timer", "d3/db0/a11865.html#af80ac4df7aaab1469ee62ac8b054a0b9", null ],
+    [ "HamString_Timer", "d3/db0/a11865.html#a04c51b1400d17454ca529d6aa257697b", null ],
+    [ "Medics", "d3/db0/a11865.html#a06fc801b89c53430603f1a33bb3e7bd8", null ],
+    [ "MightyBlow_Timer", "d3/db0/a11865.html#aeea6bb264e2d175d1906d8606eced529", null ]
 ];

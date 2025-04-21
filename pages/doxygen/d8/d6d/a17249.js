@@ -1,6 +1,6 @@
 var a17249 =
 [
-    [ "npc_hor_risen_witch_doctorAI", "de/db1/a17253.html", "de/db1/a17253" ],
-    [ "npc_hor_risen_witch_doctor", "d8/d6d/a17249.html#add06a10c9b4342b136b5cab49338b095", null ],
-    [ "GetAI", "d8/d6d/a17249.html#a055a8d29d8e6a58b92968ed1c39c1b1d", null ]
+    [ "KnockIntoAir", "d8/d6d/a17249.html#a1f9fb1f258613ca6657abba26969961f", null ],
+    [ "PrepareSpellScript", "d8/d6d/a17249.html#acf66a4b14ffce76b6c8dc7cc5906f229", null ],
+    [ "Register", "d8/d6d/a17249.html#a35a7758630c1769228fedff84ad929e8", null ]
 ];

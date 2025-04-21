@@ -1,8 +1,5 @@
 var a27217 =
 [
-    [ "OnApply", "d9/df3/a27217.html#aeec705e572ce6aa870bb5cc048e02e75", null ],
-    [ "OnRemove", "d9/df3/a27217.html#a38399457b6cb8ebf4c5e457e0590cb1a", null ],
-    [ "PrepareAuraScript", "d9/df3/a27217.html#a8d0f2113c0212a24e94054f3f1db0ad3", null ],
-    [ "Register", "d9/df3/a27217.html#a673dc5619a33632ba3d3f1793c5cfdb4", null ],
-    [ "Validate", "d9/df3/a27217.html#a65722a9826b14dc90cc6df47655d3d6b", null ]
+    [ "go_tele_to_dalaran_crystal", "d9/df3/a27217.html#ab41268b7d568e8f189338f27cd90a62c", null ],
+    [ "OnGossipHello", "d9/df3/a27217.html#a7f754a29249653ca7848494310ef1a8d", null ]
 ];

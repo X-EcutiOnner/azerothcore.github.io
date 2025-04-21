@@ -1,7 +1,8 @@
 var a18197 =
 [
-    [ "CheckEnergy", "d2/dce/a18197.html#a6107013d997e2399b1fac88e2fb1b38e", null ],
-    [ "Load", "d2/dce/a18197.html#ac492a91b228e3b547ddab18d35e3a017", null ],
-    [ "PrepareSpellScript", "d2/dce/a18197.html#a1dccae0471095b95176b2c46ed9cccba", null ],
-    [ "Register", "d2/dce/a18197.html#a6e8d05a1d7528f7c66c2e9e8daada9ec", null ]
+    [ "ChangeDamageAndGrow", "d2/dce/a18197.html#a017ade08eca93f326d2e5115c4d88c33", null ],
+    [ "CorrectRange", "d2/dce/a18197.html#a9022b9efab89bc562428520b3551ff37", null ],
+    [ "PrepareSpellScript", "d2/dce/a18197.html#a3e1d1764add95728428cbf25f9b66dc4", null ],
+    [ "Register", "d2/dce/a18197.html#a998b810cdbecbca2bf65f18cee14d286", null ],
+    [ "Validate", "d2/dce/a18197.html#afe0910e903f6f8f466b272ce9ddc7a6b", null ]
 ];

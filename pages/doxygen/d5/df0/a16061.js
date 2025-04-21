@@ -1,6 +1,6 @@
 var a16061 =
 [
-    [ "boss_sartharion_tenebronAI", "d8/d9d/a16065.html", "d8/d9d/a16065" ],
-    [ "boss_sartharion_tenebron", "d5/df0/a16061.html#ada445771d2d3d01fb586f15d62e21755", null ],
-    [ "GetAI", "d5/df0/a16061.html#a2eb4555506167a4aee7b844e305d7107", null ]
+    [ "PrepareSpellScript", "d5/df0/a16061.html#a743f910c3854e2c4e726e97c55fa7038", null ],
+    [ "Register", "d5/df0/a16061.html#a3b9b2ffa90f58a5da93fd369e11c6216", null ],
+    [ "RemoveNotBetween", "d5/df0/a16061.html#aba462e5b8e9336a508d19606f98750b5", null ]
 ];

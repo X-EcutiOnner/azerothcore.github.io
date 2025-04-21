@@ -1,6 +1,6 @@
 var a16493 =
 [
-    [ "instance_trial_of_the_champion_InstanceMapScript", "d4/d59/a16497.html", "d4/d59/a16497" ],
-    [ "instance_trial_of_the_champion", "df/d7b/a16493.html#a7b97e3da119a7ad33a87c74647407bd8", null ],
-    [ "GetInstanceScript", "df/d7b/a16493.html#a9227119fc47f38cd82a1fc07c04b0c86", null ]
+    [ "boss_eydisAI", "d4/d59/a16497.html", "d4/d59/a16497" ],
+    [ "boss_eydis", "df/d7b/a16493.html#aa555f80882499bc4627e622fbb48b2a4", null ],
+    [ "GetAI", "df/d7b/a16493.html#ad49a673431c479fa2f5d9b6da42bbf55", null ]
 ];

@@ -1,11 +1,8 @@
 var a11549 =
 [
-    [ "boss_high_interrogator_gerstahnAI", "d5/d74/a11549.html#a557fda67d1d1de268ba661350ba915dc", null ],
-    [ "JustEngagedWith", "d5/d74/a11549.html#a80e01faa471f9e83e85c3c47fd815dea", null ],
-    [ "Reset", "d5/d74/a11549.html#ab63099f83037b3716d1e2b9c21d7d607", null ],
-    [ "UpdateAI", "d5/d74/a11549.html#a67b34f7cf4c62a57bc9fb556f5fb0b81", null ],
-    [ "ManaBurn_Timer", "d5/d74/a11549.html#aede307f972942c15c4b2bfa90e75856d", null ],
-    [ "PsychicScream_Timer", "d5/d74/a11549.html#a291f3484e4d125fefe437d96b12153f1", null ],
-    [ "ShadowShield_Timer", "d5/d74/a11549.html#a7ba151c46b097825dca9b8e3ac2cdee9", null ],
-    [ "ShadowWordPain_Timer", "d5/d74/a11549.html#aec0eab93e8494bc1abc87d81460fac31", null ]
+    [ "cache_commandscript", "d5/d74/a11549.html#a709e1d02632aed18113c1adb52e962b5", null ],
+    [ "GetCommands", "d5/d74/a11549.html#ae62aed5b701a408460d8fedcd08bb3a4", null ],
+    [ "HandleCacheDeleteCommand", "d5/d74/a11549.html#a9ee0f4aceb031ad1c6b1870320fca88b", null ],
+    [ "HandleCacheInfoCommand", "d5/d74/a11549.html#aa9bce5578450a35909a4e481bc21867f", null ],
+    [ "HandleCacheRefreshCommand", "d5/d74/a11549.html#abf02cad15dabdcc5ed3df1fab0e87b6f", null ]
 ];

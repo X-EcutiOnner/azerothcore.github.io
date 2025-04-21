@@ -1,8 +1,10 @@
 var a08549 =
 [
-    [ "QuestGreeting", "db/db6/a08549.html#ad995d7b1d677b272b94df642857d1ab7", null ],
-    [ "QuestGreeting", "db/db6/a08549.html#a72150eda92e13e2bfbceaeacd517a657", null ],
-    [ "EmoteDelay", "db/db6/a08549.html#a053adbedc95026b192360e13d32c9401", null ],
-    [ "EmoteType", "db/db6/a08549.html#aa5189cb250b3f46086ecd69dee23414b", null ],
-    [ "Text", "db/db6/a08549.html#afa2ca931d771e3bf77f91bc9c223bc89", null ]
+    [ "EquipmentSet", "db/db6/a08549.html#acd3085c12c795daceae86e94448109e2", null ],
+    [ "Guid", "db/db6/a08549.html#aae529ea61a2ad4f114b6a108564f5474", null ],
+    [ "IconName", "db/db6/a08549.html#a40233dfcc23f125ff88693d6c7d7fab5", null ],
+    [ "IgnoreMask", "db/db6/a08549.html#af116e824d23f000f424f3b261618e827", null ],
+    [ "Items", "db/db6/a08549.html#a113e6e5883afe38d446a6d435cd34a01", null ],
+    [ "Name", "db/db6/a08549.html#a2b4691a1b44ae47e7d3c2e63f88d78ba", null ],
+    [ "state", "db/db6/a08549.html#a7e2270a6041dda26f8bc7f8c82597e7f", null ]
 ];

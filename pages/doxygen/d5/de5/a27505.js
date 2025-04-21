@@ -1,7 +1,7 @@
 var a27505 =
 [
-    [ "HandleScript", "d5/de5/a27505.html#a7c7f92d21898322c501f582a524f4052", null ],
-    [ "Load", "d5/de5/a27505.html#a600eb87e8bbedd3504e3d259f89e3785", null ],
-    [ "PrepareSpellScript", "d5/de5/a27505.html#a8ae826705bd1a1f1da3160be73926d7b", null ],
-    [ "Register", "d5/de5/a27505.html#abda715e38cf19fa7276ec4f4a12d3b63", null ]
+    [ "npc_guardianAI", "d5/de5/a27505.html#acc5d29a79e57fc023369c0dcd4b0d2a3", null ],
+    [ "JustEngagedWith", "d5/de5/a27505.html#a50257f80245bc59437e53083badcb056", null ],
+    [ "Reset", "d5/de5/a27505.html#a217df9bae079f56ffd70d27958fb2756", null ],
+    [ "UpdateAI", "d5/de5/a27505.html#ab42c39f088ef819a5ffb5f9f4ba2c3a3", null ]
 ];

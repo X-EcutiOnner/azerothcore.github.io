@@ -1,5 +1,7 @@
 var a12601 =
 [
-    [ "go_inconspicuous_mine_car", "d7/d5b/a12601.html#a34e941a813079b55f66bea15cffe8f42", null ],
-    [ "OnGossipHello", "d7/d5b/a12601.html#a256a8f766dd045613c0c7159db9f74e0", null ]
+    [ "FilterTargets", "d7/d5b/a12601.html#ab00f1a67df39f01aa0ead3459c3c3183", null ],
+    [ "Load", "d7/d5b/a12601.html#a5bb1cb64090e1ebb3f6f7bcd1fa1ec21", null ],
+    [ "PrepareSpellScript", "d7/d5b/a12601.html#a17bebef0c4c59c3fd0ccfb28e103ee3e", null ],
+    [ "Register", "d7/d5b/a12601.html#ae366530ddacf45a92eaa36be7e706a84", null ]
 ];

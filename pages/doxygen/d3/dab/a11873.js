@@ -1,11 +1,7 @@
 var a11873 =
 [
-    [ "npc_corrupted_totem", "d3/dab/a11873.html#a5e0c58b341fe25a5d682b68e9eee207f", null ],
-    [ "IsSummonedBy", "d3/dab/a11873.html#ae8314903c9006b7bca94a47115a0d05b", null ],
-    [ "JustDied", "d3/dab/a11873.html#aa3c6b1a3df61c9e98c62efadff637578", null ],
-    [ "Reset", "d3/dab/a11873.html#a0bc8df2b8266b7b3a5f40f1ede0e10b4", null ],
-    [ "SetAura", "d3/dab/a11873.html#a509688befda49f789f77ee0e4170a74e", null ],
-    [ "UpdateAI", "d3/dab/a11873.html#ac128625268820d2e9b1f0ef5ead975e9", null ],
-    [ "_auraAdded", "d3/dab/a11873.html#a953cf5af625b9b5a4ab6704d5b1b664c", null ],
-    [ "_scheduler", "d3/dab/a11873.html#a4f3d47478cc41b24999d0051d1a7a624", null ]
+    [ "boss_gorosh_the_dervishAI", "d3/dab/a11873.html#adac003c51a2d1d0a8daa6ba552114c25", null ],
+    [ "JustEngagedWith", "d3/dab/a11873.html#a52bc5f76baff626b8834aa604fdd8e6a", null ],
+    [ "UpdateAI", "d3/dab/a11873.html#aa17e26419a8e3f7cd99c5e9b44be8ed8", null ],
+    [ "nextWhirlwindTime", "d3/dab/a11873.html#a07f1af63bc54d1b4c8d8e1cd87a787a1", null ]
 ];

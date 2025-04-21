@@ -1,15 +1,17 @@
 var a09909 =
 [
-    [ "CreatureScript", "d4/ddf/a09909.html#afa0053e299f9125cc288ea38652edecb", null ],
-    [ "GetAI", "d4/ddf/a09909.html#a24ba3529655943afdf6598450d14e6c2", null ],
-    [ "GetDialogStatus", "d4/ddf/a09909.html#a41562245c4a44843363d6b0ce32ce48d", null ],
-    [ "IsDatabaseBound", "d4/ddf/a09909.html#af19c64d23391f8b835f79bc6cf315caa", null ],
-    [ "OnFfaPvpStateUpdate", "d4/ddf/a09909.html#a316efb5c026588eb4bce8a0ce6b5cc0f", null ],
-    [ "OnGossipHello", "d4/ddf/a09909.html#a6268b132444845302ada504f48629a4f", null ],
-    [ "OnGossipSelect", "d4/ddf/a09909.html#a30f160576b4cb97d940ecf3468834667", null ],
-    [ "OnGossipSelectCode", "d4/ddf/a09909.html#ad99f4a96106b9dc5cf9c29304d781d6a", null ],
-    [ "OnQuestAccept", "d4/ddf/a09909.html#a6b106a237886f49e523ae7b07e9c5979", null ],
-    [ "OnQuestComplete", "d4/ddf/a09909.html#a4d39c9b2edbbbc2ae08b5cdcc95b4d7b", null ],
-    [ "OnQuestReward", "d4/ddf/a09909.html#aba2be0f342cb9811bd0ebee954d7d36e", null ],
-    [ "OnQuestSelect", "d4/ddf/a09909.html#a1e054fb61dd560aa7718d59127ad4b51", null ]
+    [ "ConfusedMovementGenerator", "d4/ddf/a09909.html#a694dd083a1c01378e4877939f78309b8", null ],
+    [ "_InitSpecific", "d4/ddf/a09909.html#aea922e45838ab8a9cfe1787f0f7c169c", null ],
+    [ "_InitSpecific", "d4/ddf/a09909.html#a212665e4306ca335181c255573d30a06", null ],
+    [ "_InitSpecific", "d4/ddf/a09909.html#af597e5c544e56c255b179a08290f4ccb", null ],
+    [ "DoFinalize", "d4/ddf/a09909.html#a9e2a3f0e1a99436b33a883a1ac797f43", null ],
+    [ "DoFinalize", "d4/ddf/a09909.html#a82c2458b43334f06cae1a91224753fd3", null ],
+    [ "DoFinalize", "d4/ddf/a09909.html#ab18018803d8e194e9d2220eb8c6450ac", null ],
+    [ "DoInitialize", "d4/ddf/a09909.html#a8f1e9d0e00517b0d7f88b4213fd25104", null ],
+    [ "DoReset", "d4/ddf/a09909.html#a734a73ffa4008898a170b913aafce899", null ],
+    [ "DoUpdate", "d4/ddf/a09909.html#a8703ba139d90194a481388a543a14de6", null ],
+    [ "GetMovementGeneratorType", "d4/ddf/a09909.html#a3f0760b38745b9e065e069d6ad984d51", null ],
+    [ "i_nextMove", "d4/ddf/a09909.html#ad36fe1fd2d07af01691a319c425dc92c", null ],
+    [ "i_nextMoveTime", "d4/ddf/a09909.html#ad7b5bb65d55f6149e8df8cb4e2cdda50", null ],
+    [ "i_waypoints", "d4/ddf/a09909.html#a02b83b879cc31fb1a0e2f90e97556ba1", null ]
 ];

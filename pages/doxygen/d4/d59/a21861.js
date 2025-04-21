@@ -1,6 +1,11 @@
 var a21861 =
 [
-    [ "npc_ulduar_dark_rune_sentinelAI", "de/dbf/a21865.html", "de/dbf/a21865" ],
-    [ "npc_ulduar_dark_rune_sentinel", "d4/d59/a21861.html#ac59aa042fd188eaf1eb6a04eb7d545a9", null ],
-    [ "GetAI", "d4/d59/a21861.html#a3884f50f894770ff94ad6977f62c45f3", null ]
+    [ "npc_lake_frogAI", "d4/d59/a21861.html#ac08eeed39d046ce35d7d6aa65d53cab5", null ],
+    [ "ReceiveEmote", "d4/d59/a21861.html#abd58e65b6829c70818c578ed615a980b", null ],
+    [ "Reset", "d4/d59/a21861.html#a3773b3a21ea25db316481f1da5e6dd3c", null ],
+    [ "sGossipSelect", "d4/d59/a21861.html#a95906677ff65e004408ae65df3f49b5c", null ],
+    [ "UpdateAI", "d4/d59/a21861.html#aed8368ec27fed5cd14e4a54091aa9584", null ],
+    [ "_events", "d4/d59/a21861.html#a314d7d7891c05bda288ea0d590f0cfa4", null ],
+    [ "_following", "d4/d59/a21861.html#a0078f9134a61f0ec2465ce103523e341", null ],
+    [ "_runningScript", "d4/d59/a21861.html#af76102ba6c9ffd80baa95623b7312980", null ]
 ];

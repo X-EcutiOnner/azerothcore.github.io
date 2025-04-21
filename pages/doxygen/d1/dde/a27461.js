@@ -1,7 +1,8 @@
 var a27461 =
 [
-    [ "HandleDummy", "d1/dde/a27461.html#a3f9d43d11b344e3eb02fdc088506008e", null ],
-    [ "PrepareSpellScript", "d1/dde/a27461.html#a1fb13b562c5d4f905739e193bc5292dd", null ],
-    [ "Register", "d1/dde/a27461.html#a581e04721eb9564d1300ddd78c805368", null ],
-    [ "Validate", "d1/dde/a27461.html#a18a648ebf1dbc9a11d09e457a33d0e33", null ]
+    [ "npc_chicken_cluckAI", "d9/d5a/a27465.html", "d9/d5a/a27465" ],
+    [ "npc_chicken_cluck", "d1/dde/a27461.html#a7bc08c81fca730886c47e0f3a3d8062c", null ],
+    [ "GetAI", "d1/dde/a27461.html#abf986f555672823477c3c17e0f59bdbe", null ],
+    [ "OnQuestAccept", "d1/dde/a27461.html#acca62c027b5b0cdff107e04cf2c276ea", null ],
+    [ "OnQuestComplete", "d1/dde/a27461.html#a8f22520166a557e066502eb16bdae774", null ]
 ];

@@ -1,10 +1,11 @@
 var a08669 =
 [
-    [ "creatureRate", "d2/dfa/a08669.html#aa9c27c19179b8a7bdfdc11d906cd1c06", null ],
-    [ "questDailyRate", "d2/dfa/a08669.html#a1798044bdf25ce774191b00e261add1e", null ],
-    [ "questMonthlyRate", "d2/dfa/a08669.html#a0db34ed7420bc376cfe64a0d12434fea", null ],
-    [ "questRate", "d2/dfa/a08669.html#a914118aa28b3736ff4e6c5b61d738834", null ],
-    [ "questRepeatableRate", "d2/dfa/a08669.html#a2b050d4cf6555e824d59a3ffc0558b21", null ],
-    [ "questWeeklyRate", "d2/dfa/a08669.html#a0fb31ebc33d0ce11f392be845907e043", null ],
-    [ "spellRate", "d2/dfa/a08669.html#a508485f1e6833c58a11706667a2c24fd", null ]
+    [ "DispelInfo", "d2/dfa/a08669.html#ab6e88e6fc168d22a8b31754a9b1bf2e5", null ],
+    [ "GetDispeller", "d2/dfa/a08669.html#a1c6f02de66ffa847c09d19922b02bc20", null ],
+    [ "GetDispellerSpellId", "d2/dfa/a08669.html#a0d09f205ff9374fddc694a66ccf0c31d", null ],
+    [ "GetRemovedCharges", "d2/dfa/a08669.html#a9c0bd34ebe7d0a0839b7bdee31ef3f3d", null ],
+    [ "SetRemovedCharges", "d2/dfa/a08669.html#a3c249e2b70b9f4d8bb3bd9fed07a1bd7", null ],
+    [ "_chargesRemoved", "d2/dfa/a08669.html#a5b6105f37470acb57bbda3e14ee664be", null ],
+    [ "_dispellerSpell", "d2/dfa/a08669.html#a484e6d516c5de30413e97f2c4abb5515", null ],
+    [ "_dispellerUnit", "d2/dfa/a08669.html#ab14d6e0df8bbb89ef0d3550724209040", null ]
 ];

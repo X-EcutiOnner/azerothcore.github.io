@@ -1,7 +1,6 @@
 var a16681 =
 [
-    [ "npc_toc_enh_shamanAI", "db/d55/a16681.html#ae1ef5395722e42660c1856d6faf52cbb", null ],
-    [ "myCanCast", "db/d55/a16681.html#a8a38da4063a22361b25835a67f14ff52", null ],
-    [ "UpdateAI", "db/d55/a16681.html#a4aa59b136b97859d15b39fd2fbbdf53d", null ],
-    [ "events", "db/d55/a16681.html#adec973540bf3b046f54547fb845c06b1", null ]
+    [ "boss_devourer_of_soulsAI", "dc/de2/a16685.html", "dc/de2/a16685" ],
+    [ "boss_devourer_of_souls", "db/d55/a16681.html#a95b3a33be3b85a4c7ecfb4370a9ddc60", null ],
+    [ "GetAI", "db/d55/a16681.html#a3de68fa630c5b74104c461f88edd1d36", null ]
 ];

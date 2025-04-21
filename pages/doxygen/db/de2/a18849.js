@@ -1,6 +1,7 @@
 var a18849 =
 [
-    [ "spell_rimefang_icy_blast_SpellScript", "d0/d9a/a18853.html", "d0/d9a/a18853" ],
-    [ "spell_rimefang_icy_blast", "db/de2/a18849.html#a0c5452b73607a2682263bd6412630115", null ],
-    [ "GetSpellScript", "db/de2/a18849.html#abe273826d6c7c713ef5120254fb3efec", null ]
+    [ "HandleTriggerSpell", "db/de2/a18849.html#a0e75076c2aed1544c544b976ee9cfbcd", null ],
+    [ "PrepareAuraScript", "db/de2/a18849.html#a6ce4c5c2b6797b38225ac3348aad5892", null ],
+    [ "Register", "db/de2/a18849.html#af87272995f6eeb3bc53cf472f5c3e9d3", null ],
+    [ "Validate", "db/de2/a18849.html#a813bad39641956fff697580f271416d2", null ]
 ];

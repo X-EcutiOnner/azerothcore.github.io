@@ -1,7 +1,10 @@
 var a28329 =
 [
-    [ "CalculateAmount", "dd/d60/a28329.html#aefeab4e58c1b5c1be87f583256d366f5", null ],
-    [ "Load", "dd/d60/a28329.html#ae2ef0eae77137c120ec61af8698677db", null ],
-    [ "PrepareAuraScript", "dd/d60/a28329.html#acaecc78c031aa436f432fd7145478de4", null ],
-    [ "Register", "dd/d60/a28329.html#afd27c8bc5fd1628b7e32bf464bfe3d48", null ]
+    [ "area_id", "dd/d60/a28329.html#acbd77950bf9548d266e568640cf38458", null ],
+    [ "map_id", "dd/d60/a28329.html#abeabdc3d225dcd6626a641d6792d7ff8", null ],
+    [ "virtual_map_id", "dd/d60/a28329.html#afe75f114a3aa74a0589cc575e372f1b1", null ],
+    [ "x1", "dd/d60/a28329.html#a78967fef40841f705c2564a177cb36f3", null ],
+    [ "x2", "dd/d60/a28329.html#a037dca812715df0b4f2551f8684b537c", null ],
+    [ "y1", "dd/d60/a28329.html#a7f90073656e1cd00a88add9f8d881d11", null ],
+    [ "y2", "dd/d60/a28329.html#ad8e0164952e5565488d5443f269ec79e", null ]
 ];

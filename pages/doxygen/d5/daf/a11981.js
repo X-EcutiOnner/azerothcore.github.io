@@ -1,7 +1,8 @@
 var a11981 =
 [
-    [ "HandleAfterApply", "d5/daf/a11981.html#a02f1f322b50465b73e25cb19b7066337", null ],
-    [ "HandleAfterRemove", "d5/daf/a11981.html#a722eef4dd5a5ebad3d63800882c2cbcb", null ],
-    [ "PrepareAuraScript", "d5/daf/a11981.html#a224aaed790d1f3b811f6083849f5e3c0", null ],
-    [ "Register", "d5/daf/a11981.html#a99b820487dc92d401709122d12f8a135", null ]
+    [ "boss_halyconAI", "d5/daf/a11981.html#acc110d5d802fc0da3ea630f667167748", null ],
+    [ "JustDied", "d5/daf/a11981.html#a7d71e135a8edf3d3b99ccfcb3b071eaa", null ],
+    [ "JustEngagedWith", "d5/daf/a11981.html#a5735567462167fffa4d01800d696296e", null ],
+    [ "Reset", "d5/daf/a11981.html#ac5622260b0b40cb584cf3037521cc5b8", null ],
+    [ "UpdateAI", "d5/daf/a11981.html#a6e72949b63de3d32d8369c7122b6060d", null ]
 ];

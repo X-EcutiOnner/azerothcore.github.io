@@ -1,8 +1,8 @@
 var a26217 =
 [
-    [ "npc_pet_gen_wind_rider_cub", "d2/df2/a26217.html#a17e1f3155b9a9864459e48d1cd11c6a6", null ],
-    [ "UpdateAI", "d2/df2/a26217.html#a534d122522d553e106e6c7729d6c55db", null ],
-    [ "checkTimer", "d2/df2/a26217.html#a39fcfc5f5d9a630180713512db778b32", null ],
-    [ "checkTimer2", "d2/df2/a26217.html#aabeaf7a9b5b77df540e1111950860e98", null ],
-    [ "isFlying", "d2/df2/a26217.html#a57124f8172bd15a5e6c708edff41dc2f", null ]
+    [ "HandleEffectRemove", "d2/df2/a26217.html#a770b7ad0bb00114400a73f50c4aa6c81", null ],
+    [ "if", "d2/df2/a26217.html#a7123c451bce0f95ad75e5acfbe58a135", null ],
+    [ "PrepareAuraScript", "d2/df2/a26217.html#a531f51626ae4527282ad1e628911a9ea", null ],
+    [ "Register", "d2/df2/a26217.html#ae68bd9a92239a4796f9d8040787a68b3", null ],
+    [ "AuraEffectHandleModes", "d2/df2/a26217.html#a8af86c58f438e78d8bf878f79d4a27e2", null ]
 ];

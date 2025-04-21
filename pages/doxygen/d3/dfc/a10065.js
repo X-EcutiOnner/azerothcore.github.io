@@ -1,9 +1,10 @@
 var a10065 =
 [
-    [ "fX", "d3/dfc/a10065.html#a53aeb6e82eea1dc4a4e5d8e99dfd3fc5", null ],
-    [ "fY", "d3/dfc/a10065.html#a9b158e247014eec0d35e465ab9469ac7", null ],
-    [ "fZ", "d3/dfc/a10065.html#a2e02f9738393aeb8cd62ac26dda8fc10", null ],
-    [ "uiCreatureEntry", "d3/dfc/a10065.html#ac31436c40bd0bf375635e2ea604fbf61", null ],
-    [ "uiPointId", "d3/dfc/a10065.html#acb4d9697a24d5c29deacdefe8eb0e267", null ],
-    [ "uiWaitTime", "d3/dfc/a10065.html#a305620aad71152c1139a88dea05a1887", null ]
+    [ "WaypointMgr", "d3/dfc/a10065.html#a2f038884959f10348bd5b7af3abee7db", null ],
+    [ "~WaypointMgr", "d3/dfc/a10065.html#a7b0fed55791df7ab040a46984700d18e", null ],
+    [ "GetPath", "d3/dfc/a10065.html#a8492dcbb35f4bdb563f861c521eb5317", null ],
+    [ "instance", "d3/dfc/a10065.html#aacd2ed943503288057b3fb9a935a56e9", null ],
+    [ "Load", "d3/dfc/a10065.html#a69ae451ce07f2e68be81b1a86649115d", null ],
+    [ "ReloadPath", "d3/dfc/a10065.html#ac1364780d1ab0c91ca95d366419ca3df", null ],
+    [ "_waypointStore", "d3/dfc/a10065.html#af70ce7663d7f132339ea8d163311c248", null ]
 ];

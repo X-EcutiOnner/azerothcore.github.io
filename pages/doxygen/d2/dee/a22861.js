@@ -1,18 +1,17 @@
 var a22861 =
 [
-    [ "violet_hold_trashAI", "d2/dee/a22861.html#a87011739810f39291655bc835f9995bd", null ],
-    [ "AttackStart", "d2/dee/a22861.html#ab2d2157977ae2482217fa8ac344b30af", null ],
-    [ "ClearDoorSealAura", "d2/dee/a22861.html#ad0c756eb5bef8036cb47ebcc9e6915df", null ],
-    [ "CreatureStartAttackDoor", "d2/dee/a22861.html#a1e64a9f7c82275969e099b5012a32924", null ],
-    [ "EnterEvadeMode", "d2/dee/a22861.html#ab189607a468514d6c472ac40e6f3d85b", null ],
-    [ "JustDied", "d2/dee/a22861.html#acd512cd3722a2edf0ca539272ded3c79", null ],
-    [ "JustEngagedWith", "d2/dee/a22861.html#a16e7677aa9597dda938a67c51febde6c", null ],
-    [ "JustReachedHome", "d2/dee/a22861.html#ae98d0cd977d59cbfe567fa6e294cde7e", null ],
-    [ "MoveInLineOfSight", "d2/dee/a22861.html#ab0e73a03d6e36a35eb393127bce3dad3", null ],
-    [ "UpdateAI", "d2/dee/a22861.html#a8647797343650fcd4f6304bce3742883", null ],
-    [ "WaypointReached", "d2/dee/a22861.html#ac218e3761b79d4d8186ad8d12e0d0b57", null ],
-    [ "bAddedWP", "d2/dee/a22861.html#ad2e8841054cece73bdc7c2e7782c96a8", null ],
-    [ "bAlt", "d2/dee/a22861.html#ad84ecad1a57f0af44af2795a252d2214", null ],
-    [ "pInstance", "d2/dee/a22861.html#a0a5f5b86cd54c28a828db2ac3e83126b", null ],
-    [ "PLoc", "d2/dee/a22861.html#a9e9ca535b9d2fa1b246975f984c96998", null ]
+    [ "npc_akama_shade", "d2/dee/a22861.html#a95e956e162cb88d2814622bc10166ca5", null ],
+    [ "DamageTaken", "d2/dee/a22861.html#a962723ebc58a2b1f813fcc0715f9f2d2", null ],
+    [ "DoAction", "d2/dee/a22861.html#a59619f193d51e3bad05044aad2d96d9a", null ],
+    [ "EnterEvadeMode", "d2/dee/a22861.html#ae2441741caf0b91196469f67a38823bc", null ],
+    [ "JustEngagedWith", "d2/dee/a22861.html#a87df13ee30423c51e50670c535fdf99d", null ],
+    [ "JustSummoned", "d2/dee/a22861.html#a2372d2e64fb36b64f638583409cf9fa8", null ],
+    [ "MovementInform", "d2/dee/a22861.html#a4f1900d16dd36fbb9e573d59cf2176a1", null ],
+    [ "Reset", "d2/dee/a22861.html#a2d8161405dbb97cc1784e3cf49679d25", null ],
+    [ "sGossipSelect", "d2/dee/a22861.html#a8a18c7195f04caed0cf93655f556ad9a", null ],
+    [ "UpdateAI", "d2/dee/a22861.html#af9091eaa02a0967cbc2acb7d0160e5f1", null ],
+    [ "_died", "d2/dee/a22861.html#a1295073fb0f2dc19baeb16ad73ceb1df", null ],
+    [ "_generators", "d2/dee/a22861.html#a84d8d87d9bb92ba20e357d5854410a5e", null ],
+    [ "_sayLowHealth", "d2/dee/a22861.html#ae068b44aff8c9e4e1b75afab7959fda8", null ],
+    [ "instance", "d2/dee/a22861.html#a590f6a445bcda767c2197da05fc3cb15", null ]
 ];

@@ -1,6 +1,7 @@
 var a11909 =
 [
-    [ "boss_razorgoreAI", "da/d42/a11913.html", "da/d42/a11913" ],
-    [ "boss_razorgore", "d5/d2a/a11909.html#aee534a04797c5938e6da00f2ab119943", null ],
-    [ "GetAI", "d5/d2a/a11909.html#a4683a5deefdb9d3219638189e9a99c2a", null ]
+    [ "boss_moira_bronzebeardAI", "d5/d2a/a11909.html#a11265b6aad76574c2c76253128c79165", null ],
+    [ "CastOnEmperorIfPossible", "d5/d2a/a11909.html#a3f42c37e9f4cc14974106bf67ee4e583", null ],
+    [ "JustEngagedWith", "d5/d2a/a11909.html#a40ae00eb86e2bec048a9394d4deef106", null ],
+    [ "UpdateAI", "d5/d2a/a11909.html#ae3f22a059330fb564cd30e581fc0198d", null ]
 ];

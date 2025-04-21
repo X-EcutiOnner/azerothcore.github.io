@@ -1,6 +1,6 @@
 var a12441 =
 [
-    [ "HandleAfterCast", "d8/d2c/a12441.html#a5ca38a2828359e4f373323d1d6cc91cf", null ],
-    [ "PrepareSpellScript", "d8/d2c/a12441.html#aa0956db2d03405a54893bc30516f5839", null ],
-    [ "Register", "d8/d2c/a12441.html#a45726adacf1d30b5488df54f57447c0c", null ]
+    [ "boss_sulfuronAI", "d8/d2c/a12441.html#a63c76fb94131830924e2bf77477261ba", null ],
+    [ "ExecuteEvent", "d8/d2c/a12441.html#ae038aa8140f5b4128c39c592966321f1", null ],
+    [ "JustEngagedWith", "d8/d2c/a12441.html#a35394690b8d25529c91c147025f6ad92", null ]
 ];

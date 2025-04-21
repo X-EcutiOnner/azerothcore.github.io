@@ -1,7 +1,14 @@
 var a23085 =
 [
-    [ "npc_thassarianAI", "db/d4b/a23085.html#a92e873dc3aa97f81919225ce75a5f894", null ],
-    [ "Reset", "db/d4b/a23085.html#a8611ef17700c739dbd5e7a70660f1379", null ],
-    [ "UpdateAI", "db/d4b/a23085.html#ad09a3a063d716bc43e23b5aad5e46a7b", null ],
-    [ "_events", "db/d4b/a23085.html#aaecb5a402e4ffca1e819303dbb94f5b5", null ]
+    [ "SpellIds", "db/d4b/a23085.html#a2d0e9022edc8a9f6fc0e34330fda114a", [
+      [ "SPELL_SUMMON_WAVE_A_MOB", "db/d4b/a23085.html#a2d0e9022edc8a9f6fc0e34330fda114aa19ea6e555692392677c74fccd206380b", null ],
+      [ "SPELL_SUMMON_WAVE_B_MOB", "db/d4b/a23085.html#a2d0e9022edc8a9f6fc0e34330fda114aa938130293fb55c96d06462e407a24a89", null ],
+      [ "SPELL_SUMMON_WAVE_C_MOB", "db/d4b/a23085.html#a2d0e9022edc8a9f6fc0e34330fda114aadc855654104e4ec0a09540e9b51cb098", null ],
+      [ "SPELL_SUMMON_WAVE_D_MOB", "db/d4b/a23085.html#a2d0e9022edc8a9f6fc0e34330fda114aa3bbb32a8c4da3b06e9bf5da83f39970d", null ]
+    ] ],
+    [ "FilterTargets", "db/d4b/a23085.html#a2a1a2e5069587f52ae968c84cd702eaf", null ],
+    [ "HandleHit", "db/d4b/a23085.html#aa670812f42c3082f42e0f232ee6bee16", null ],
+    [ "PrepareSpellScript", "db/d4b/a23085.html#a7fe65229c64c27909868f02439c1ef66", null ],
+    [ "Register", "db/d4b/a23085.html#a0a8f29b524391ff257aba5cbdc355115", null ],
+    [ "Validate", "db/d4b/a23085.html#ab8bcdcfcad2a9998d95567006817711e", null ]
 ];

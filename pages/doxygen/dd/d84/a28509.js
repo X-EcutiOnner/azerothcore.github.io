@@ -1,6 +1,26 @@
 var a28509 =
 [
-    [ "HandleBanish", "dd/d84/a28509.html#ab8dd3ab2fd7b9aff3556e6284c515474", null ],
-    [ "PrepareSpellScript", "dd/d84/a28509.html#a56118e3ed7525cdf575531a4c2f2d93f", null ],
-    [ "Register", "dd/d84/a28509.html#ad6c066c9d6a64a5d89d3c347600559a9", null ]
+    [ "getMCIN", "dd/d84/a28509.html#a5014297529c070757b1a3672f679b83f", null ],
+    [ "getMFBO", "dd/d84/a28509.html#a28a247f0addfd93d3eeed190516e515a", null ],
+    [ "getMH2O", "dd/d84/a28509.html#a6672516f9b82b4dc33e28a5b9fda7000", null ],
+    [ "prepareLoadedData", "dd/d84/a28509.html#aeae95bb7dbb0d46e68db52fb2e212a80", null ],
+    [ "data1", "dd/d84/a28509.html#aeb0dacd46404505504aa4c9cd868838a", null ],
+    [ "data2", "dd/d84/a28509.html#a1996770c42791100aa0cbef91c78fcd2", null ],
+    [ "data3", "dd/d84/a28509.html#a4936a7d0e5ad64f4f75f6550418f80e6", null ],
+    [ "data4", "dd/d84/a28509.html#a6842806c1317e9be2a2cb5cbeeb0580d", null ],
+    [ "data5", "dd/d84/a28509.html#ac5bf3376c3e870ee129acc562588e4d5", null ],
+    [ "fcc", "dd/d84/a28509.html#a5d1b23b9a55361516d4dedbef5886d52", null ],
+    [ "fcc_txt", "dd/d84/a28509.html#a73087fbf3b4ff49036f3d3091c6125bc", null ],
+    [ "flags", "dd/d84/a28509.html#a04fe5874241fd7b868f1d3f5caf7d257", null ],
+    [ "offsDoodsDef", "dd/d84/a28509.html#a62270e73c2fd69dcfd38a4073de20fbc", null ],
+    [ "offsMapObejcts", "dd/d84/a28509.html#ad80da67bf16b98bba014d487da757492", null ],
+    [ "offsMapObejctsIds", "dd/d84/a28509.html#ab1c6fc91e4ac6954f959cb26502b88ce", null ],
+    [ "offsMCIN", "dd/d84/a28509.html#aa89f72d475714b226ed737b43eb8f6fc", null ],
+    [ "offsMFBO", "dd/d84/a28509.html#adc0706b41b60a36a26fea083d0eec379", null ],
+    [ "offsMH2O", "dd/d84/a28509.html#a677d2fc59ea16c6be991d2f1a9365de6", null ],
+    [ "offsModels", "dd/d84/a28509.html#a91801010d9fd98048e02a6dca36eefed", null ],
+    [ "offsModelsIds", "dd/d84/a28509.html#a0e5716fc4586c41f07103baa84c67388", null ],
+    [ "offsObjectsDef", "dd/d84/a28509.html#af3204f96aaab52969f97c56fc8207e1f", null ],
+    [ "offsTex", "dd/d84/a28509.html#abb5f6d7851880d74c6a645fe797cb355", null ],
+    [ "size", "dd/d84/a28509.html#a23b9fac4ccbdcae862135fa3cbe3061d", null ]
 ];

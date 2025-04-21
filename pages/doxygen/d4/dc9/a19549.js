@@ -1,6 +1,8 @@
 var a19549 =
 [
-    [ "npc_captain_rupertAI", "d4/dc9/a19549.html#ae91de64c440e71e612f34e37b90076d5", null ],
-    [ "Reset", "d4/dc9/a19549.html#a8ebaca725aba2c3aed8856fb23228ae1", null ],
-    [ "UpdateAI", "d4/dc9/a19549.html#a2edf4e51c9a5bde61a1875c067e963f2", null ]
+    [ "iron_golem_custodianAI", "d4/dc9/a19549.html#aeeeed1383f5d221eb7b5cd5d3a6ea4fb", null ],
+    [ "JustEngagedWith", "d4/dc9/a19549.html#acd67b8d4df95eb8b0d0365184e47a29c", null ],
+    [ "Reset", "d4/dc9/a19549.html#af3193696d665746eecd9c62128d8684d", null ],
+    [ "UpdateAI", "d4/dc9/a19549.html#ab1d3910b07a6c5c53f5388a10dc48775", null ],
+    [ "events", "d4/dc9/a19549.html#a9e0bcc9ae6918f9fa40cbf8085d4ec42", null ]
 ];

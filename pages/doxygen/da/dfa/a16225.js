@@ -1,6 +1,6 @@
 var a16225 =
 [
-    [ "HandlePeriodic", "da/dfa/a16225.html#a78357674b106685548ae1cf002ad4c98", null ],
-    [ "PrepareAuraScript", "da/dfa/a16225.html#a98b2eb3b23ae4ab913350fd7376e043e", null ],
-    [ "Register", "da/dfa/a16225.html#a3af7e0e5519d4defb6029fb2de22ec11", null ]
+    [ "boss_anubarak_trialAI", "d9/df6/a16229.html", "d9/df6/a16229" ],
+    [ "boss_anubarak_trial", "da/dfa/a16225.html#a5204e33a412608b53cc155a043356d58", null ],
+    [ "GetAI", "da/dfa/a16225.html#a9b8fe9ed3370434612cbd46e7649213d", null ]
 ];

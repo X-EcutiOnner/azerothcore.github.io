@@ -1,6 +1,6 @@
 var a22285 =
 [
-    [ "spell_yogg_saron_protective_gaze_AuraScript", "de/dc1/a22289.html", "de/dc1/a22289" ],
-    [ "spell_yogg_saron_protective_gaze", "da/dfa/a22285.html#a2be1ba1b8f3ece1026247b940389e21d", null ],
-    [ "GetAuraScript", "da/dfa/a22285.html#a80c8c5faca46119e79ea128dba168bda", null ]
+    [ "HandleSummon", "da/dfa/a22285.html#ac2f7b0d0772d72d69d58bb4b66616e21", null ],
+    [ "PrepareSpellScript", "da/dfa/a22285.html#ae7f071e9d9a82892be31090385679c9f", null ],
+    [ "Register", "da/dfa/a22285.html#a516ab0801cc93f15da434a0f0952c7e4", null ]
 ];

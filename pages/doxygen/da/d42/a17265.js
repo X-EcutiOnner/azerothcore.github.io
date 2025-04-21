@@ -1,6 +1,6 @@
 var a17265 =
 [
-    [ "spell_hor_gunship_cannon_fireAuraScript", "d4/dcb/a17269.html", "d4/dcb/a17269" ],
-    [ "spell_hor_gunship_cannon_fire", "da/d42/a17265.html#a1df8d0312a08979df38e8cae7f405017", null ],
-    [ "GetAuraScript", "da/d42/a17265.html#ad6087baf8342d88812fdd39c54f139ab", null ]
+    [ "boss_blood_queen_lana_thelAI", "d4/dcb/a17269.html", "d4/dcb/a17269" ],
+    [ "boss_blood_queen_lana_thel", "da/d42/a17265.html#a9f8fa906f01082caacd106abc2707b07", null ],
+    [ "GetAI", "da/d42/a17265.html#a7873efd945bdb24228866f639e32879b", null ]
 ];

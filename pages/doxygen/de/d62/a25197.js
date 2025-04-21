@@ -1,5 +1,7 @@
 var a25197 =
 [
-    [ "go_broggok_lever", "de/d62/a25197.html#af91c2e283c357d2f38c9932dcfb5c375", null ],
-    [ "OnGossipHello", "de/d62/a25197.html#af00fe1da1cfa40dc3ece286cef45090c", null ]
+    [ "ModDest", "de/d62/a25197.html#afe0fb68de61a657ce6900e71973e4d77", null ],
+    [ "ModifyCookingSkill", "de/d62/a25197.html#a42dea7b58aed704a6aacd5d0aa0028d4", null ],
+    [ "PrepareSpellScript", "de/d62/a25197.html#a7b0446133750fce7eda19dbde5abb3b1", null ],
+    [ "Register", "de/d62/a25197.html#a6919079b43a816eb601a68c51ad39794", null ]
 ];

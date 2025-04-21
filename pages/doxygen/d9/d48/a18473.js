@@ -1,6 +1,7 @@
 var a18473 =
 [
-    [ "FilterTargets", "d9/d48/a18473.html#a07eaa43c909f9d4afca2c90987b6be57", null ],
-    [ "PrepareSpellScript", "d9/d48/a18473.html#a60ab39b8f4bfe0903faf1a8fd1210b22", null ],
-    [ "Register", "d9/d48/a18473.html#ac55d048657610abb413698d73f42f423", null ]
+    [ "FrostwingVrykulSearcher", "d9/d48/a18473.html#a10aa54184b42a0538dc4f325204399e9", null ],
+    [ "operator()", "d9/d48/a18473.html#afbf32ce600cee12930fefcf9b5e87f16", null ],
+    [ "_range", "d9/d48/a18473.html#a04b2913aae7fbf6547a960d0876d4d02", null ],
+    [ "_source", "d9/d48/a18473.html#af5d3c93f41698e71c867336d0453d40a", null ]
 ];

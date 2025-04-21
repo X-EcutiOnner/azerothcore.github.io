@@ -1,9 +1,8 @@
 var a15145 =
 [
-    [ "npc_eye_tentacle", "de/d1b/a15145.html#a106deeb95d74597377d32e81695dc3c9", null ],
-    [ "JustDied", "de/d1b/a15145.html#aac965d97034f4f623172297e4f82647e", null ],
-    [ "JustEngagedWith", "de/d1b/a15145.html#a5f89f08634eeb79f0f9ac726cdf1841b", null ],
-    [ "Reset", "de/d1b/a15145.html#a715439dfa31b4cf9df7ddd678d912108", null ],
-    [ "UpdateAI", "de/d1b/a15145.html#a48f9067f27d61e609a014669c1daedb9", null ],
-    [ "_portalGUID", "de/d1b/a15145.html#aeaa4ec0553480b9490d5e52820c2b77f", null ]
+    [ "npc_obsidian_eradicator", "de/d1b/a15145.html#a84a6c414b3d74468143984e57f83e383", null ],
+    [ "JustEngagedWith", "de/d1b/a15145.html#ab03b7138306a04a00938bf1cdb9a7966", null ],
+    [ "Reset", "de/d1b/a15145.html#a7c76c7d3a69e464c0dcb6a96226baa61", null ],
+    [ "UpdateAI", "de/d1b/a15145.html#a1697d83e89559f047d5bab652007bb61", null ],
+    [ "_targetGUIDs", "de/d1b/a15145.html#abd83775d1eab5ab2a3aadd7fd925c3ae", null ]
 ];

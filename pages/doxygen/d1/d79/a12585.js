@@ -1,6 +1,6 @@
 var a12585 =
 [
-    [ "npc_scarlet_miner_cartAI", "dc/dad/a12589.html", "dc/dad/a12589" ],
-    [ "npc_scarlet_miner_cart", "d1/d79/a12585.html#a987247939c6fd576d4b8d541175ecb6b", null ],
-    [ "GetAI", "d1/d79/a12585.html#a0f1436f0f6784af5ab62bf91df355731", null ]
+    [ "FilterTargets", "d1/d79/a12585.html#adae7a812a222a60f9c89cac4ea327011", null ],
+    [ "PrepareSpellScript", "d1/d79/a12585.html#a9576a48a3aa761c103f72586cd93970c", null ],
+    [ "Register", "d1/d79/a12585.html#aaadad68c322eac268ea7a45f9c369c59", null ]
 ];

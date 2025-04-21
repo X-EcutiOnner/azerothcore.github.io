@@ -1,6 +1,7 @@
 var a20653 =
 [
-    [ "boss_krystallusAI", "d7/db7/a20657.html", "d7/db7/a20657" ],
-    [ "boss_krystallus", "dc/d3e/a20653.html#a1d7453c9d67594bfdbd650fea897666a", null ],
-    [ "GetAI", "dc/d3e/a20653.html#aba14bcfa00a5d997959abd94af647bf4", null ]
+    [ "npc_xt002_life_sparkAI", "dc/d3e/a20653.html#a763ec1834d3b71c88bfa80bc0e34966a", null ],
+    [ "Reset", "dc/d3e/a20653.html#a596e2ed45b9221915781b03bf2d18e5b", null ],
+    [ "UpdateAI", "dc/d3e/a20653.html#af0a1e717b08b2fa35dd4ff83778a87c1", null ],
+    [ "_attackTimer", "dc/d3e/a20653.html#a79bf005de95aa1fee60dfc73b8920dad", null ]
 ];

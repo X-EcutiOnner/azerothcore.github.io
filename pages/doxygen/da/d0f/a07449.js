@@ -1,10 +1,10 @@
 var a07449 =
 [
-    [ "Achievement", "da/d0f/a07449.html#a03caf33cfc9f75dfdbba2dedc747e0ce", null ],
-    [ "CharacterId", "da/d0f/a07449.html#a0ec541a4e11d9e19f7cced7e839b1ebb", null ],
-    [ "Criteria", "da/d0f/a07449.html#a4eae1ba9b211d8c8307000ddae428348", null ],
-    [ "Day", "da/d0f/a07449.html#a216aaf4eed90eeb05662631e8f89b4ab", null ],
-    [ "IsFinished", "da/d0f/a07449.html#a1aff3d0a28a12f0e4ee10bca376f335c", null ],
-    [ "Month", "da/d0f/a07449.html#a9be9cfb6a40c527e8f6b6ad381ed5b42", null ],
-    [ "Year", "da/d0f/a07449.html#a85612eac22d3233e620eb11e6e1b48b0", null ]
+    [ "ChannelRights", "da/d0f/a07449.html#a7fbfd84470bf1b4bf564eec0315f6c8d", null ],
+    [ "ChannelRights", "da/d0f/a07449.html#ac689ce079b171bbbdbc062ad7521f21c", null ],
+    [ "flags", "da/d0f/a07449.html#ad7fdc943a5a97c3c812108243192f6ae", null ],
+    [ "joinMessage", "da/d0f/a07449.html#af8797ef8c642f3a954b1581fb54ed545", null ],
+    [ "moderators", "da/d0f/a07449.html#ac80f92b9e633bf309970179b32e29cee", null ],
+    [ "speakDelay", "da/d0f/a07449.html#a9883582d36b8cc67ab5d649670441000", null ],
+    [ "speakMessage", "da/d0f/a07449.html#a4b7dc06e8839da5a6d50b5d4dae76c1b", null ]
 ];

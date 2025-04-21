@@ -1,6 +1,6 @@
 var a21733 =
 [
-    [ "npc_ulduar_bot_summon_triggerAI", "d7/d75/a21737.html", "d7/d75/a21737" ],
-    [ "npc_ulduar_bot_summon_trigger", "d4/d3c/a21733.html#a7a369b4826c6c2a86704088f5dcf1ce7", null ],
-    [ "GetAI", "d4/d3c/a21733.html#a0d7f74fc910c5adcaaa46a9d2ea10ea3", null ]
+    [ "GhoulTargetCheck", "d4/d3c/a21733.html#acd743b2b1407c5171fbf410a02ff07bf", null ],
+    [ "operator()", "d4/d3c/a21733.html#a6722cfe5a1ceecccf2c07924b2975f46", null ],
+    [ "_alive", "d4/d3c/a21733.html#ab44092ca1cd6d7c17d7c63e0a8333453", null ]
 ];

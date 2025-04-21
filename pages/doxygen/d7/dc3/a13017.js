@@ -1,6 +1,7 @@
 var a13017 =
 [
-    [ "npc_demonic_vaporAI", "db/db3/a13021.html", "db/db3/a13021" ],
-    [ "npc_demonic_vapor", "d7/dc3/a13017.html#a2cfec998b5d2a23670c4f5143c330652", null ],
-    [ "GetAI", "d7/dc3/a13017.html#a53635886eaed04eab0b8c7c0b6d6e67e", null ]
+    [ "HandleEffectApply", "d7/dc3/a13017.html#a710536e0a3bacf173d037041e755bd82", null ],
+    [ "HandleEffectRemove", "d7/dc3/a13017.html#a16623b3187e98fc50f5a3b8e0297b0ea", null ],
+    [ "PrepareAuraScript", "d7/dc3/a13017.html#ab1d5eb39b503f7e08a404cf172b8de96", null ],
+    [ "Register", "d7/dc3/a13017.html#a9092818bdb15a12163aae633049cb7f6", null ]
 ];

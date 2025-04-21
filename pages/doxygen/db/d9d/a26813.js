@@ -1,8 +1,7 @@
 var a26813 =
 [
-    [ "CheckProc", "db/d9d/a26813.html#a1ba43a41ca6909f2bd377290b1b0b12b", null ],
-    [ "OnProc", "db/d9d/a26813.html#a6ffad33ef5c8433705c65a2c693d5527", null ],
-    [ "PrepareAuraScript", "db/d9d/a26813.html#af474a768c441fb666163f4ebd5068393", null ],
-    [ "Register", "db/d9d/a26813.html#ae533e87550b1aedc67b67c217495286d", null ],
-    [ "Validate", "db/d9d/a26813.html#ab6e36f24dea949c8cedaaed0d5fa9517", null ]
+    [ "FilterTargets", "db/d9d/a26813.html#aeebe9395cefab1b87196a7ef466aa2c8", null ],
+    [ "PrepareSpellScript", "db/d9d/a26813.html#a954f00317eab544dd57e657368aab7fb", null ],
+    [ "Register", "db/d9d/a26813.html#a1804684c8685372faf2e88e56b48f5be", null ],
+    [ "Validate", "db/d9d/a26813.html#ab08386023ed3b3c8e51178da8973ef1a", null ]
 ];

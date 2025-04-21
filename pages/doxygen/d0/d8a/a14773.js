@@ -1,10 +1,6 @@
 var a14773 =
 [
-    [ "boss_meathookAI", "d0/d8a/a14773.html#abb35c98da760db634545b81d740cd51a", null ],
-    [ "JustDied", "d0/d8a/a14773.html#a44ebee45de335ff6f653e9d60a364458", null ],
-    [ "JustEngagedWith", "d0/d8a/a14773.html#adf199bf96bbf342caaa74b7dd6b8013c", null ],
-    [ "KilledUnit", "d0/d8a/a14773.html#a54deac512294bb0901d072faef3166b1", null ],
-    [ "Reset", "d0/d8a/a14773.html#ab4dbdedb1ae114fe4aff1fbe0e8adec1", null ],
-    [ "UpdateAI", "d0/d8a/a14773.html#afeaee24a9b6484e8a0e6509b973ed74d", null ],
-    [ "events", "d0/d8a/a14773.html#a6cf32d8601a1d07a3a445fa7d9a1ccbc", null ]
+    [ "instance_maraudon_InstanceMapScript", "d4/d34/a14777.html", "d4/d34/a14777" ],
+    [ "instance_maraudon", "d0/d8a/a14773.html#aaae11d2569d04b42840b101a5702cf24", null ],
+    [ "GetInstanceScript", "d0/d8a/a14773.html#ac4f5c7c3ee755226449c96b3e351f12d", null ]
 ];

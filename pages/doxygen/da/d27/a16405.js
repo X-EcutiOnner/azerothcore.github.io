@@ -1,6 +1,8 @@
 var a16405 =
 [
-    [ "npc_memoryAI", "d4/d5a/a16409.html", "d4/d5a/a16409" ],
-    [ "npc_memory", "da/d27/a16405.html#acebf31813025d323f9486d6575a60483", null ],
-    [ "GetAI", "da/d27/a16405.html#ad8e532d029217a06d11ae39810498976", null ]
+    [ "npc_toc_pet_hunterAI", "da/d27/a16405.html#a751e37388df10abf4bf9df5d3f373fa3", null ],
+    [ "EnterEvadeMode", "da/d27/a16405.html#a7f60ea2596fa4af2209333696dbe00e0", null ],
+    [ "myCanCast", "da/d27/a16405.html#aefaa41a92000d8915853988ce3fd5bc4", null ],
+    [ "UpdateAI", "da/d27/a16405.html#aec1d16cdcb7d86d7de4de10ca34f491d", null ],
+    [ "events", "da/d27/a16405.html#ade038312363f976b34868ed2cbebb58d", null ]
 ];

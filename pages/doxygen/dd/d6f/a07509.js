@@ -1,9 +1,7 @@
 var a07509 =
 [
-    [ "HyperlinkColor", "dd/d6f/a07509.html#a4b246814aa2e2ac930e1e9e4e79345f0", null ],
-    [ "operator==", "dd/d6f/a07509.html#aad186f06a8d61834ec94d29d305fa0f2", null ],
-    [ "a", "dd/d6f/a07509.html#a57d68da0bcaec609d89efb18185b7f03", null ],
-    [ "b", "dd/d6f/a07509.html#a5ef7a2aab07e2e9a5097a27a466adeca", null ],
-    [ "g", "dd/d6f/a07509.html#a4570365880f14c7f7c5e7d96332ae150", null ],
-    [ "r", "dd/d6f/a07509.html#a1b4e0f604b95a773d28b93601af8ffe0", null ]
+    [ "CommandPermissions", "dd/d6f/a07509.html#ad1242d9067778298c44501b5d5a962f8", null ],
+    [ "CommandPermissions", "dd/d6f/a07509.html#a47f284c63f10b6c3479624845b696aa6", null ],
+    [ "AllowConsole", "dd/d6f/a07509.html#a8b419033e8dff0307a22a32bc57a1dc8", null ],
+    [ "RequiredLevel", "dd/d6f/a07509.html#a4918f2c3b1913eb76d09d859479ebbae", null ]
 ];

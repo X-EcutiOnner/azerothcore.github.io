@@ -1,9 +1,8 @@
 var a25209 =
 [
-    [ "boss_the_maker", "d2/d8d/a25209.html#a478c48f225e8fdf14cde5b1f144cb6c4", null ],
-    [ "JustDied", "d2/d8d/a25209.html#a564abd0a8f52c8c58a305f9c47d8475c", null ],
-    [ "JustEngagedWith", "d2/d8d/a25209.html#a6b0a4442dbabde69ca9352017ee23675", null ],
-    [ "KilledUnit", "d2/d8d/a25209.html#a40643ca00fe7d7029a291335e47c722a", null ],
-    [ "Reset", "d2/d8d/a25209.html#a9d115e5e1ef585348937b9d6c1cd2cb1", null ],
-    [ "UpdateAI", "d2/d8d/a25209.html#a24cd8e9a97410ab290592b586962fffd", null ]
+    [ "HandleApply", "d2/d8d/a25209.html#af20f30fe2bfc7a370b166a6200b44ca9", null ],
+    [ "OnPeriodic", "d2/d8d/a25209.html#a6b3223ef23854f22b9a3baba0d42cb11", null ],
+    [ "PrepareAuraScript", "d2/d8d/a25209.html#a344d1a92623865876174c0e88ce8ab4b", null ],
+    [ "Register", "d2/d8d/a25209.html#a352ff0e85eee6e51e9f2eea5cdd9108c", null ],
+    [ "Validate", "d2/d8d/a25209.html#ac4fd8fdde53f947082b23852ce149ea9", null ]
 ];

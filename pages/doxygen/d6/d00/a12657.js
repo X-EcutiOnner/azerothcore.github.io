@@ -1,8 +1,13 @@
 var a12657 =
 [
-    [ "npc_highlord_darion_mograineAI", "d8/d16/a12661.html", "d8/d16/a12661" ],
-    [ "npc_highlord_darion_mograine", "d6/d00/a12657.html#a86680b1a140c706b10fd48befc572286", null ],
-    [ "GetAI", "d6/d00/a12657.html#a350539ed741fa372ffff92ffbc6e6260", null ],
-    [ "OnGossipHello", "d6/d00/a12657.html#a35afc9d80b4570163af9f6013949a70c", null ],
-    [ "OnGossipSelect", "d6/d00/a12657.html#a0539d24556c16a1a72be8258c752f5f5", null ]
+    [ "boss_crone", "d6/d00/a12657.html#a710bdf6fac05be54cf10e40cd661c837", null ],
+    [ "EnterEvadeMode", "d6/d00/a12657.html#a4dcdde0b699f445cfa6be7e0c7dbb8d0", null ],
+    [ "JustDied", "d6/d00/a12657.html#a545de2a25b48590d11896c41b6e94df0", null ],
+    [ "JustEngagedWith", "d6/d00/a12657.html#a9801cd39667d1a08770820bd17beac00", null ],
+    [ "JustReachedHome", "d6/d00/a12657.html#a59d40cda923cb8b72413b9d5f267f52a", null ],
+    [ "KilledUnit", "d6/d00/a12657.html#ae4d343636955589d740d1df4e21fba99", null ],
+    [ "Reset", "d6/d00/a12657.html#a247db7fc1329ef00e48fd9bd09fb27a1", null ],
+    [ "UpdateAI", "d6/d00/a12657.html#a8bd505acd55ca5292d29c96916a461e5", null ],
+    [ "_scheduler", "d6/d00/a12657.html#a7f9e2e45c0bbb60fc19dd54bc380f814", null ],
+    [ "instance", "d6/d00/a12657.html#a3795fe3185005693ed9bba49177bb35a", null ]
 ];

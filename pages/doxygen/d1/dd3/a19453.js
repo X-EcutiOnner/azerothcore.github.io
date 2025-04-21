@@ -1,6 +1,6 @@
 var a19453 =
 [
-    [ "spell_valithria_suppression_AuraScript", "d3/dd3/a19457.html", "d3/dd3/a19457" ],
-    [ "spell_valithria_suppression", "d1/dd3/a19453.html#a140ec1f4218fc4d6b10ff69d5b9a0039", null ],
-    [ "GetAuraScript", "d1/dd3/a19453.html#a6c37b9d6dda06b5a039bab9ef265c0cb", null ]
+    [ "instance_halls_of_lightning_InstanceMapScript", "d3/dd3/a19457.html", "d3/dd3/a19457" ],
+    [ "instance_halls_of_lightning", "d1/dd3/a19453.html#a24395866efe2c7d1f7727be2557a8b46", null ],
+    [ "GetInstanceScript", "d1/dd3/a19453.html#a5ce157aeaf2ed78e98e864059a599b36", null ]
 ];

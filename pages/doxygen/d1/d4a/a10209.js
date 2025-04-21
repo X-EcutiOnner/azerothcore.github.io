@@ -1,8 +1,10 @@
 var a10209 =
 [
-    [ "GuildCommandResult", "d1/d4a/a10209.html#a9b82d7f9fe8f9b42fb4ed74c14cba03d", null ],
-    [ "Write", "d1/d4a/a10209.html#a621e211342b3bf9b5de01a9a3b66291b", null ],
-    [ "Command", "d1/d4a/a10209.html#a099cf9f39c403f76971d006245b03f29", null ],
-    [ "Name", "d1/d4a/a10209.html#a122ee78cb5fc38aa7ecd7a2cad8a33cc", null ],
-    [ "Result", "d1/d4a/a10209.html#a8b6b2127aa39807a61bf0cc3cce15921", null ]
+    [ "ArenaTeamScript", "d1/d4a/a10209.html#ab86543c6ce76ff21e4306c799b99c896", null ],
+    [ "IsDatabaseBound", "d1/d4a/a10209.html#a4d30f94084ae63eadd952c05b13f3ff4", null ],
+    [ "OnGetArenaPoints", "d1/d4a/a10209.html#aa4b2d40921443cefee2775da6ca31b3e", null ],
+    [ "OnGetSlotByType", "d1/d4a/a10209.html#a1ff67b327073bb8ebf10e7fddce92835", null ],
+    [ "OnQueueIdToArenaType", "d1/d4a/a10209.html#a2a26e8c87c5fa7e85eb2f0517ced29e8", null ],
+    [ "OnSetArenaMaxPlayersPerTeam", "d1/d4a/a10209.html#a776548946a09dcb3e76bd97f3c425e7f", null ],
+    [ "OnTypeIDToQueueID", "d1/d4a/a10209.html#abcdd905b695f926e503db610d80ada3c", null ]
 ];

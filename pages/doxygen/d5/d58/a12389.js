@@ -1,7 +1,8 @@
 var a12389 =
 [
-    [ "CalcPeriodic", "d5/d58/a12389.html#a1a1bd909c873d5b9f8d7771eceb87c1d", null ],
-    [ "PrepareAuraScript", "d5/d58/a12389.html#a2ffea4361a750fe9e64fc4beab36e287", null ],
-    [ "Register", "d5/d58/a12389.html#a389395358cf0991e90a452c34fcb394e", null ],
-    [ "Update", "d5/d58/a12389.html#a965b9030423114eaf99ee1f1400fdc45", null ]
+    [ "boss_majordomoAI", "d2/dd5/a12393.html", "d2/dd5/a12393" ],
+    [ "boss_majordomo", "d5/d58/a12389.html#a77a1ff3d2c7aafecad9f78fcd87536b1", null ],
+    [ "GetAI", "d5/d58/a12389.html#aceae0dc662e93bf68556073e8b324964", null ],
+    [ "OnGossipHello", "d5/d58/a12389.html#a8d1b625df61b27fef0bfe6f635a3b7ae", null ],
+    [ "OnGossipSelect", "d5/d58/a12389.html#a69c2c5fc557b02c9a0b26bdb7b57443c", null ]
 ];

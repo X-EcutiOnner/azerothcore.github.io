@@ -1,5 +1,6 @@
 var a24073 =
 [
-    [ "OutdoorPvP_eastern_plaguelands", "d9/dff/a24073.html#a5178152ee493eb90b1c1c0f611c6cd92", null ],
-    [ "GetOutdoorPvP", "d9/dff/a24073.html#abc4e99dfa8a600ef578b77ffc3956ada", null ]
+    [ "npc_mature_netherwing_drakeAI", "d5/de8/a24077.html", "d5/de8/a24077" ],
+    [ "npc_mature_netherwing_drake", "d9/dff/a24073.html#a3369bd143ff9e46a4ad4c44b6d8c0ec5", null ],
+    [ "GetAI", "d9/dff/a24073.html#ac5a1dad24920396156f22ab02bfab84b", null ]
 ];

@@ -1,8 +1,9 @@
 var a25341 =
 [
-    [ "npc_warchief_portal", "d6/dbb/a25341.html#a1a52395a5ae66f5cc5f92c6d4ce81893", null ],
-    [ "JustSummoned", "d6/dbb/a25341.html#ad90c834dc059040f3922f58dc3bcf4a2", null ],
-    [ "SetData", "d6/dbb/a25341.html#a538ab8c6e7683aa02e8c75f9dd900be8", null ],
-    [ "UpdateAI", "d6/dbb/a25341.html#a8c400cf1b9f41696807e11f1f135c0ad", null ],
-    [ "_scheduler", "d6/dbb/a25341.html#a76bb6a89f0922ed0bc0289ee4e0f20d4", null ]
+    [ "CheckIfCorpseNear", "d6/dbb/a25341.html#a9b512f84f1d728e24845b6aaa28bdd6b", null ],
+    [ "HandleDummy", "d6/dbb/a25341.html#a913c0137d2a13c810bbae869cc6cf734", null ],
+    [ "Load", "d6/dbb/a25341.html#a3f36968d10bde12c7e2eda8db4145252", null ],
+    [ "PrepareSpellScript", "d6/dbb/a25341.html#acc7d6f489c34c3cc26f37bc94f8727e8", null ],
+    [ "Register", "d6/dbb/a25341.html#a736c4fe39e947ad98df19b3b001bdc29", null ],
+    [ "Validate", "d6/dbb/a25341.html#a51b075f95211025b2a7719a3ee70a6be", null ]
 ];

@@ -1,6 +1,7 @@
 var a16033 =
 [
-    [ "spell_azjol_nerub_fixate_SpellScript", "d2/d64/a16037.html", "d2/d64/a16037" ],
-    [ "spell_azjol_nerub_fixate", "da/d67/a16033.html#ae5685db227b0d26b8708e923bbaaaddb", null ],
-    [ "GetSpellScript", "da/d67/a16033.html#a0898550220c03823962873a7a153734b", null ]
+    [ "HandleScriptEffect", "da/d67/a16033.html#a9582a8faa1b8ba973a76d651a7479348", null ],
+    [ "PrepareSpellScript", "da/d67/a16033.html#a681102507df3aa365ee2e2f064be5e54", null ],
+    [ "Register", "da/d67/a16033.html#aebfea5eb3339ede812b43a08a8cb82b9", null ],
+    [ "Validate", "da/d67/a16033.html#ae4a5c7952856caf2a2d3919b24b61949", null ]
 ];

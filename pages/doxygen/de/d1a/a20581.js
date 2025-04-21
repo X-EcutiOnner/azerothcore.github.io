@@ -1,6 +1,11 @@
 var a20581 =
 [
-    [ "npc_stormforged_lieutenantAI", "dd/d3a/a20585.html", "dd/d3a/a20585" ],
-    [ "npc_stormforged_lieutenant", "de/d1a/a20581.html#ab58a73d33c6545815511c5c4f0ecfd9e", null ],
-    [ "GetAI", "de/d1a/a20581.html#ae3aba4b53e73097c261eaaed19f17950", null ]
+    [ "boss_thorim_arena_npcsAI", "de/d1a/a20581.html#aab66eff737c803f6680ca5f93baaa6ca", null ],
+    [ "CanAIAttack", "de/d1a/a20581.html#ae214fabcc4db1f40a15be3369e66b030", null ],
+    [ "JustEngagedWith", "de/d1a/a20581.html#a60530453c2cbf5f22fb0d45088f90706", null ],
+    [ "Reset", "de/d1a/a20581.html#a83cb4bdb14a757733333f94d02fbf8db", null ],
+    [ "SelectT", "de/d1a/a20581.html#a84f22d142aad0ed7354784192bd5df3b", null ],
+    [ "UpdateAI", "de/d1a/a20581.html#acf09c7b12bce41c38980905457d4dbb4", null ],
+    [ "_isCaster", "de/d1a/a20581.html#a2c55eacc7b16be459935b586a0654500", null ],
+    [ "events", "de/d1a/a20581.html#aea5a9f9c915a7827316c48a504bc992e", null ]
 ];

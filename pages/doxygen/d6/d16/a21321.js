@@ -1,7 +1,10 @@
 var a21321 =
 [
-    [ "npc_ulduar_saronite_vaporsAI", "d6/d16/a21321.html#a8f811c588aeca2cd4a12d4d345907bd2", null ],
-    [ "IsSummonedBy", "d6/d16/a21321.html#a4692bb5c3ffadcfd133db665566c66e5", null ],
-    [ "JustDied", "d6/d16/a21321.html#a5be637500e7b5735d90e19fa40fde467", null ],
-    [ "pInstance", "d6/d16/a21321.html#a25cf8dd22f05566ae99b14a596039f5e", null ]
+    [ "npc_azure_invaderAI", "d6/d16/a21321.html#a85f164a6ba24d7a14d77264441a78f46", null ],
+    [ "Reset", "d6/d16/a21321.html#ada44600272b19d9416d957bc52bc3be4", null ],
+    [ "UpdateAI", "d6/d16/a21321.html#a7dfdcb2a88930c6b4150f7f7c825a2df", null ],
+    [ "uiBrutalStrikeTimer", "d6/d16/a21321.html#a4b88a85f3344edbdadde0104668509aa", null ],
+    [ "uiCleaveTimer", "d6/d16/a21321.html#a8b1792a8a405651d602d9ed634f52689", null ],
+    [ "uiImpaleTimer", "d6/d16/a21321.html#aa709ee8919a2d0317d563259c7630c99", null ],
+    [ "uiSunderArmorTimer", "d6/d16/a21321.html#ab2e6d01df033985ac29e963cf2895466", null ]
 ];

@@ -1,6 +1,6 @@
 var a19537 =
 [
-    [ "npc_captain_grondelAI", "d2/dc8/a19541.html", "d2/dc8/a19541" ],
-    [ "npc_captain_grondel", "db/dda/a19537.html#a54a53f8e3cde87405219c815a56d523c", null ],
-    [ "GetAI", "db/dda/a19537.html#a2a7725e81294e80701b7742d2605ec00", null ]
+    [ "dark_rune_stormcallerAI", "d2/dc8/a19541.html", "d2/dc8/a19541" ],
+    [ "dark_rune_stormcaller", "db/dda/a19537.html#ab31774011fc3e1e8ffa1a3b7c5cbfbcc", null ],
+    [ "GetAI", "db/dda/a19537.html#a9072aaf482106cfae0d3901507b47f60", null ]
 ];

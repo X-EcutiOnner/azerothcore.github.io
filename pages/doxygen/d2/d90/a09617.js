@@ -1,10 +1,6 @@
 var a09617 =
 [
-    [ "DistractMovementGenerator", "d2/d90/a09617.html#a55879290b06f4fc86a1da791c07b7afb", null ],
-    [ "Finalize", "d2/d90/a09617.html#aa4a2b943ecde8750bd764290d65872df", null ],
-    [ "GetMovementGeneratorType", "d2/d90/a09617.html#a0b30745bf1cd7b5a264e970273595592", null ],
-    [ "Initialize", "d2/d90/a09617.html#a71410ddbda2be6b34bb2276a83fea5c9", null ],
-    [ "Reset", "d2/d90/a09617.html#ad544709b2873b63b28d27ab414c280ba", null ],
-    [ "Update", "d2/d90/a09617.html#ad5a15c1507b8ab315b658351077629b3", null ],
-    [ "m_timer", "d2/d90/a09617.html#a8b520d8e97704ac39ce28c2256557b42", null ]
+    [ "DoorInfo", "d2/d90/a09617.html#a26f4849a1d68df466e6db0ccbb8d001b", null ],
+    [ "bossInfo", "d2/d90/a09617.html#a14f7742a1b272d0cd76dda6ce28cde26", null ],
+    [ "type", "d2/d90/a09617.html#ad77a91752ea10a11c8e73655e63dd5c1", null ]
 ];

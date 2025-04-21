@@ -1,7 +1,6 @@
 var a23117 =
 [
-    [ "npc_warmage_violetstand", "de/d9a/a23117.html#a1f67c9521cc3bd63886a8936b28e6622", null ],
-    [ "Reset", "de/d9a/a23117.html#a99015610597f43f184cc686c9fab2fa9", null ],
-    [ "UpdateAI", "de/d9a/a23117.html#aa0eac837ab697c3e0cd5ab753f0bd0b4", null ],
-    [ "targetGUID", "de/d9a/a23117.html#a46560aa7aa90778967a79c931a81721b", null ]
+    [ "HandleScriptEffect", "de/d9a/a23117.html#a9e42f1af6fabb7df066cc2488a831418", null ],
+    [ "PrepareSpellScript", "de/d9a/a23117.html#a866496b087288a3cb8f00d4dbdb5d2ec", null ],
+    [ "Register", "de/d9a/a23117.html#a0fdb5d866d714d1d3bc71c4439a7f593", null ]
 ];

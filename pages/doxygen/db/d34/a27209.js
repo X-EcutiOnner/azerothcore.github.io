@@ -1,6 +1,5 @@
 var a27209 =
 [
-    [ "CheckCast", "db/d34/a27209.html#a849de7a9bc8d22ca1556e4e798807eaa", null ],
-    [ "PrepareSpellScript", "db/d34/a27209.html#aadbfe7c69dac7cbc76aee2bfb790b612", null ],
-    [ "Register", "db/d34/a27209.html#a2ca1fd7353e69d1028b8a9b2882d7931", null ]
+    [ "go_sacred_fire_of_life", "db/d34/a27209.html#a7f14c8397803f8b21e492ec52c6d81e8", null ],
+    [ "OnGossipHello", "db/d34/a27209.html#aaa078fffe5570fa532d27d1c4ea831a7", null ]
 ];

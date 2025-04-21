@@ -1,6 +1,10 @@
 var a14585 =
 [
-    [ "boss_azgalorAI", "df/d82/a14589.html", "df/d82/a14589" ],
-    [ "boss_azgalor", "dc/ddd/a14585.html#a7c30c26c3e4a872399a2279db30df315", null ],
-    [ "GetAI", "dc/ddd/a14585.html#aa0036bd00230937d7345762ef3f6084b", null ]
+    [ "npc_hyjal_gargoyle", "dc/ddd/a14585.html#a35b17d008d96116b2e3cf09cceacd6fb", null ],
+    [ "AttackStart", "dc/ddd/a14585.html#a0301be4d3e34f1248708fdcd3f0d5ea8", null ],
+    [ "DoAction", "dc/ddd/a14585.html#ae213c71426f438dd2b27699d7de23664", null ],
+    [ "JustEngagedWith", "dc/ddd/a14585.html#ae10a90c817a7df8d0d6ed18c9cdf6387", null ],
+    [ "PathEndReached", "dc/ddd/a14585.html#a9ae52d3f7176045ef28713f3e1a16153", null ],
+    [ "Reset", "dc/ddd/a14585.html#af314bb183bde44680eeb136d2a08c142", null ],
+    [ "UpdateAI", "dc/ddd/a14585.html#ac1ca0648b08430a8bcbf99980222b684", null ]
 ];

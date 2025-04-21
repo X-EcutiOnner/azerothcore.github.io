@@ -1,6 +1,8 @@
 var a20853 =
 [
-    [ "PrepareSpellScript", "d0/d58/a20853.html#a785e9ba4ae1be5f22eb1327c50069d5f", null ],
-    [ "RecalculateDamage", "d0/d58/a20853.html#ad9f415d78bee61fca3fd23db935d9690", null ],
-    [ "Register", "d0/d58/a20853.html#a48da048186e1b6abfed7fde4e5d60a6b", null ]
+    [ "Absorb", "d0/d58/a20853.html#a36a7237d7bcd50626e7a07a32c91cfb4", null ],
+    [ "CalculateAmount", "d0/d58/a20853.html#afe50bf22d07e68757caffb056ad55811", null ],
+    [ "PrepareAuraScript", "d0/d58/a20853.html#afa4ef1f7faa36a521c208dde10d09437", null ],
+    [ "Register", "d0/d58/a20853.html#aae020936d42da81c445f7d296660987b", null ],
+    [ "Validate", "d0/d58/a20853.html#a5852135c5214ee3938603632b0f21917", null ]
 ];

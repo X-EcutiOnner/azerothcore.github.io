@@ -1,8 +1,9 @@
 var a08265 =
 [
-    [ "EnchantDuration", "df/dab/a08265.html#a1ce5f81deaa60494c247673c113632d8", null ],
-    [ "EnchantDuration", "df/dab/a08265.html#a52448f2bb8b788193a69fe9a2d8729f3", null ],
-    [ "item", "df/dab/a08265.html#ae803f6a9ce9cdb0dbb133bc85b6613ab", null ],
-    [ "leftduration", "df/dab/a08265.html#a3f4edafbc9b09cb5ab660bc68af435f3", null ],
-    [ "slot", "df/dab/a08265.html#a3de1a8d64aea4c5c1f984a74c6bb017d", null ]
+    [ "artKits", "df/dab/a08265.html#a7ae038f7051f3da177d3cdc95ef608d2", null ],
+    [ "entry", "df/dab/a08265.html#ae1378dcb4327a4d000c3299a32f9d23f", null ],
+    [ "faction", "df/dab/a08265.html#a77e0b2613b7a1cda1bd306f066e63a39", null ],
+    [ "flags", "df/dab/a08265.html#a4120c9184b4cfab7afada48ccf8e713e", null ],
+    [ "maxgold", "df/dab/a08265.html#ae80fd304ee4d02d5e0d13ec6136ec736", null ],
+    [ "mingold", "df/dab/a08265.html#a3b1c3dd6f223bd93cda6e993a64b61d1", null ]
 ];

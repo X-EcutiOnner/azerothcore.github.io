@@ -1,6 +1,5 @@
 var a23253 =
 [
-    [ "spell_q12478_frostmourne_cavern_SpellScript", "d4/de7/a23257.html", "d4/de7/a23257" ],
-    [ "spell_q12478_frostmourne_cavern", "d6/d3c/a23253.html#aba049da0ba27cf6ca216197d4ca19d32", null ],
-    [ "GetSpellScript", "d6/d3c/a23253.html#a606f946bc4a7dad3aa83f7f6997b17d7", null ]
+    [ "boss_quagmirran", "d6/d3c/a23253.html#a7f6289b86216b052f434a1417023e22c", null ],
+    [ "JustEngagedWith", "d6/d3c/a23253.html#a28253b6653bd2e26e7f246c71a88b625", null ]
 ];

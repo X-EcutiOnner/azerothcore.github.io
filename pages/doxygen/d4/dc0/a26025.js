@@ -1,6 +1,6 @@
 var a26025 =
 [
-    [ "CheckRequirement", "d4/dc0/a26025.html#aa53bdc1b4b57150dbebce61ac87d2b88", null ],
-    [ "PrepareSpellScript", "d4/dc0/a26025.html#a8e3d6659174d4c920e65f85afb9308b1", null ],
-    [ "Register", "d4/dc0/a26025.html#aa4f62292b32347179a5534e4bc0417f8", null ]
+    [ "FilterTargets", "d4/dc0/a26025.html#a9ee58cd4e7a0fa59bfb6ef1270d51f21", null ],
+    [ "PrepareSpellScript", "d4/dc0/a26025.html#a5992d94317d3da7400d5a9ab115e621e", null ],
+    [ "Register", "d4/dc0/a26025.html#a125ce6c8dfdc6419b4409c72f74fcf85", null ]
 ];

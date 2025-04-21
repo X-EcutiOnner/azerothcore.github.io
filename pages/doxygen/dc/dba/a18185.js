@@ -1,6 +1,6 @@
 var a18185 =
 [
-    [ "spell_igb_overheat_AuraScript", "dd/d36/a18189.html", "dd/d36/a18189" ],
-    [ "spell_igb_overheat", "dc/dba/a18185.html#a1c1e037f57b113b0bcede90e281ebf2d", null ],
-    [ "GetAuraScript", "dc/dba/a18185.html#a2936669905a6c9a014f13988ae97a9ca", null ]
+    [ "npc_raging_spiritAI", "dd/d36/a18189.html", "dd/d36/a18189" ],
+    [ "npc_raging_spirit", "dc/dba/a18185.html#ad1a580bd394adc8c58575b600c16f9db", null ],
+    [ "GetAI", "dc/dba/a18185.html#ab572a667f6ddd0d4051fe424c8d9e21c", null ]
 ];

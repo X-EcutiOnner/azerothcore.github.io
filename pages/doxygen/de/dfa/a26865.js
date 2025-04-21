@@ -1,8 +1,6 @@
 var a26865 =
 [
-    [ "CheckRequirement", "de/dfa/a26865.html#ad967ae7e2affa312fa4adbca6e86dd7c", null ],
-    [ "HandleScript", "de/dfa/a26865.html#aa89b60b2d757ef1ceacebae38aa5d9d9", null ],
-    [ "Load", "de/dfa/a26865.html#a9dfb5501ad6324a25966af44f233b5fb", null ],
-    [ "PrepareSpellScript", "de/dfa/a26865.html#ace75db8a6e5628df6e2edba91cd2852f", null ],
-    [ "Register", "de/dfa/a26865.html#a89d053e0ee793017c74188aac32d99d5", null ]
+    [ "CalculateAmount", "de/dfa/a26865.html#a94b6fab25e8cb298650f2a1e2d0b4347", null ],
+    [ "PrepareAuraScript", "de/dfa/a26865.html#a845476e27b3751fd5aab505d41d8696d", null ],
+    [ "Register", "de/dfa/a26865.html#aa5141f11bcd97cc501297a5309df1079", null ]
 ];

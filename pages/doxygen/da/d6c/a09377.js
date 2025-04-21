@@ -1,7 +1,10 @@
 var a09377 =
 [
-    [ "ZRangeBoundary", "da/d6c/a09377.html#ab9c77783e059de4478625f7c97713c49", null ],
-    [ "IsWithinBoundaryArea", "da/d6c/a09377.html#af1410b3eeb9e7096b1cc53caa7edd68f", null ],
-    [ "_maxZ", "da/d6c/a09377.html#a7226d6a69b9fb922a2ac06300ab060d8", null ],
-    [ "_minZ", "da/d6c/a09377.html#aee142d5bc4cfae80584b84ae451da05c", null ]
+    [ "NearestCreatureEntryWithLiveStateInObjectRangeCheck", "da/d6c/a09377.html#aa9f15d071efe7ca7bb975489fec2afbd", null ],
+    [ "NearestCreatureEntryWithLiveStateInObjectRangeCheck", "da/d6c/a09377.html#a1e25384d08beeee84d83e401f5a5a565", null ],
+    [ "operator()", "da/d6c/a09377.html#abc2ab6f33a6a58a6e692cc32e8139839", null ],
+    [ "i_alive", "da/d6c/a09377.html#a7a01388f86d25fa0728d94c6e1a7f752", null ],
+    [ "i_entry", "da/d6c/a09377.html#ae2bf2c0a0f431f5de445fbee26b60a57", null ],
+    [ "i_obj", "da/d6c/a09377.html#aa0340c79c37f3494b01c52f034705aa4", null ],
+    [ "i_range", "da/d6c/a09377.html#a695af00612b17e0182ad76a5c3be2356", null ]
 ];

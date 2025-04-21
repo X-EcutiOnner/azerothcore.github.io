@@ -1,8 +1,10 @@
 var a23137 =
 [
-    [ "npc_shandy_dalaranAI", "d6/dcd/a23141.html", "d6/dcd/a23141" ],
-    [ "npc_shandy_dalaran", "db/d86/a23137.html#a7077c769a252af8ba37b5ff5d524463e", null ],
-    [ "GetAI", "db/d86/a23137.html#a641551a2aef739e1679912ae27ddb888", null ],
-    [ "OnGossipHello", "db/d86/a23137.html#a91287aaba09fce091c9d826e75208f84", null ],
-    [ "OnGossipSelect", "db/d86/a23137.html#ad005a17da187e0cfd03d2faf0099c448", null ]
+    [ "boss_morogrim_tidewalker", "db/d86/a23137.html#a138a200da298f64697e2e47fb8004ccb", null ],
+    [ "JustDied", "db/d86/a23137.html#a139d87e7cffe03183538eb493e063195", null ],
+    [ "JustEngagedWith", "db/d86/a23137.html#a3244672aeb994673e1f46708699bcc2c", null ],
+    [ "JustSummoned", "db/d86/a23137.html#a2b669007520094948138c95468b77f9f", null ],
+    [ "KilledUnit", "db/d86/a23137.html#a2db94919e6d6f3d4eda4addc4248976e", null ],
+    [ "Reset", "db/d86/a23137.html#a78ed1d1f8c55407497a4fb679587975d", null ],
+    [ "_recentlySpoken", "db/d86/a23137.html#a63edb4b20baa9e1cf5238c3db5974c56", null ]
 ];

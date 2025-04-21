@@ -1,10 +1,13 @@
 var a05013 =
 [
-    [ "ARC4", "de/dbd/a05013.html#ac05d4f85233abfc5cbcb87cd2a87bc5a", null ],
-    [ "~ARC4", "de/dbd/a05013.html#af3a8b63c2073120026c262a685eef8f2", null ],
-    [ "Init", "de/dbd/a05013.html#a68993c30cafb864abd5ae0c49ee8296e", null ],
-    [ "Init", "de/dbd/a05013.html#a13bd9c79d4535d115831303b14b5f89d", null ],
-    [ "UpdateData", "de/dbd/a05013.html#ae350945f2713305e977e4a3e4fc3d5b5", null ],
-    [ "UpdateData", "de/dbd/a05013.html#afeb8a273bac5a73417e8026421c6ea70", null ],
-    [ "_ctx", "de/dbd/a05013.html#a8539413b1e0344abe9545f742cc8e6df", null ]
+    [ "GroupModel_Raw", "de/dbd/a05013.html#a8decfdc365b823f8f147ee9bfa3613b0", null ],
+    [ "~GroupModel_Raw", "de/dbd/a05013.html#a1381249a1bbe9c1cf383097ef94c6eb7", null ],
+    [ "Read", "de/dbd/a05013.html#ad3bcd782124868cd1df0efea2b500ba5", null ],
+    [ "bounds", "de/dbd/a05013.html#a830d79fdd2f21164bd805051352a3aa8", null ],
+    [ "GroupWMOID", "de/dbd/a05013.html#ab9e9650c5ebf5a81b92cff27dd23a25a", null ],
+    [ "liquid", "de/dbd/a05013.html#ac801d04ca4c643d2b8eba5199a8d0fac", null ],
+    [ "liquidflags", "de/dbd/a05013.html#ac379f459d0fff6b1848dc52bd21ef393", null ],
+    [ "mogpflags", "de/dbd/a05013.html#a339767ed24a9f0ecf426e47d3bf6e4b5", null ],
+    [ "triangles", "de/dbd/a05013.html#af692734697f525672027f251addebe6d", null ],
+    [ "vertexArray", "de/dbd/a05013.html#ad73c215408218900973df4dbdd8fcd18", null ]
 ];

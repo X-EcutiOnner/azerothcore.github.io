@@ -1,6 +1,6 @@
 var a20445 =
 [
-    [ "instance_oculus_InstanceMapScript", "d9/d86/a20449.html", "d9/d86/a20449" ],
-    [ "instance_oculus", "d7/de6/a20445.html#a404205ea7106531ea57307c40b9589bb", null ],
-    [ "GetInstanceScript", "d7/de6/a20445.html#ae6d28dfd615e79d4308e4384b7c8857f", null ]
+    [ "npc_ulduar_harpoonfirestateAI", "d9/d86/a20449.html", "d9/d86/a20449" ],
+    [ "npc_ulduar_harpoonfirestate", "d7/de6/a20445.html#a85043e64606ba7c9ce2da7a37bbf0e8e", null ],
+    [ "GetAI", "d7/de6/a20445.html#a8c9e1882c0706cb0b576c24b62215238", null ]
 ];

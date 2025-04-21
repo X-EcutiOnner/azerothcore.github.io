@@ -1,6 +1,5 @@
 var a08269 =
 [
-    [ "SkillStatusData", "d7/d90/a08269.html#a7594ceb20110da34f3aa68ac69996b94", null ],
-    [ "pos", "d7/d90/a08269.html#a51ccb328b807f2c7fd275d843218f466", null ],
-    [ "uState", "d7/d90/a08269.html#a232801ad25897a82739916d5be4fdc22", null ]
+    [ "CastBarCaption", "d7/d90/a08269.html#ae78195bdc8edd6f4996c617e7a541e12", null ],
+    [ "Name", "d7/d90/a08269.html#a462917eda1e095c99054495abf70cd67", null ]
 ];

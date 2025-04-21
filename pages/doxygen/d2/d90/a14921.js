@@ -1,6 +1,6 @@
 var a14921 =
 [
-    [ "instance_maraudon_InstanceMapScript", "d3/db0/a14925.html", "d3/db0/a14925" ],
-    [ "instance_maraudon", "d2/d90/a14921.html#aaae11d2569d04b42840b101a5702cf24", null ],
-    [ "GetInstanceScript", "d2/d90/a14921.html#ac4f5c7c3ee755226449c96b3e351f12d", null ]
+    [ "FilterTargets", "d2/d90/a14921.html#ac4f353ac54e7a461d5411fd8eae33cc1", null ],
+    [ "PrepareSpellScript", "d2/d90/a14921.html#a8cb8041b71dd3175b627fe7ec5b2c2f3", null ],
+    [ "Register", "d2/d90/a14921.html#a07d56d19b95c8d24f6908815e4ceb13f", null ]
 ];

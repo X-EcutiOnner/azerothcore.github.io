@@ -1,12 +1,7 @@
 var a23517 =
 [
-    [ "npc_your_inner_turmoilAI", "d0/d71/a23517.html#a95e8039b174f6db267197e04b6bd2dd2", null ],
-    [ "DamageTaken", "d0/d71/a23517.html#a0e14a306db46e817e6d8f7a358519f83", null ],
-    [ "JustDied", "d0/d71/a23517.html#a142359bf1661542d044a7d27b764832b", null ],
-    [ "Reset", "d0/d71/a23517.html#a4e17e9642ec11712652f41495974b716", null ],
-    [ "setphase", "d0/d71/a23517.html#a17c00619bcf5818e49f67d4d8b8b35b0", null ],
-    [ "UpdateAI", "d0/d71/a23517.html#a2a4b20fccb4b5ef0f590f0a7ee92e4d2", null ],
-    [ "health50", "d0/d71/a23517.html#af5a9e355c2a5a927d38ea22fe96d89f0", null ],
-    [ "phase", "d0/d71/a23517.html#a60212e1504bcb6f7db05ba5ed09df71f", null ],
-    [ "timer", "d0/d71/a23517.html#af2c272de51aa15a41af9837f99256a62", null ]
+    [ "FilterTargets", "d0/d71/a23517.html#a921450a09e51585beb9dd2ce9b00bac9", null ],
+    [ "HandleHit", "d0/d71/a23517.html#adb30857a5a320bb24b8cc0bcb9d60040", null ],
+    [ "PrepareSpellScript", "d0/d71/a23517.html#a376618b9811b2e1ec18697431094e22f", null ],
+    [ "Register", "d0/d71/a23517.html#ae7f4f54446d5a1ebb20d49ab9deaed81", null ]
 ];

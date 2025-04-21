@@ -1,6 +1,6 @@
 var a16329 =
 [
-    [ "HandleDummy", "d4/d01/a16329.html#a7256bc5b2bcb056db8b0d43c3e413f84", null ],
-    [ "PrepareSpellScript", "d4/d01/a16329.html#a3d487f436e0d69dcbe8378f4ec82e7b2", null ],
-    [ "Register", "d4/d01/a16329.html#a54f2aa30b6c05f85fd40ee26a6008c51", null ]
+    [ "npc_toc_mageAI", "de/dd1/a16333.html", "de/dd1/a16333" ],
+    [ "npc_toc_mage", "d4/d01/a16329.html#a8270875c1da3e2e96f767362ef90cdc6", null ],
+    [ "GetAI", "d4/d01/a16329.html#a64b5b8b3a5933a0264537f2187e81e15", null ]
 ];

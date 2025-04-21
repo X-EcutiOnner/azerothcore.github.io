@@ -1,6 +1,7 @@
 var a22905 =
 [
-    [ "npc_azure_spellbreakerAI", "d1/d39/a22909.html", "d1/d39/a22909" ],
-    [ "npc_azure_spellbreaker", "d8/d9e/a22905.html#a36f09ff7a60a04e6dd99bc37146000f8", null ],
-    [ "GetAI", "d8/d9e/a22905.html#a7b2e89c33deef7fb5237b271dd5b0d12", null ]
+    [ "Absorb", "d8/d9e/a22905.html#a227cf7329d7dee564c3f8f9f67378ffe", null ],
+    [ "HandleEffectRemove", "d8/d9e/a22905.html#a3d4026e5208acb948c089a4bedba0de8", null ],
+    [ "PrepareAuraScript", "d8/d9e/a22905.html#af66dc1cba6aa7511c11a071ea9a381bb", null ],
+    [ "Register", "d8/d9e/a22905.html#a983cf678001efcbccc4b34a9ad919881", null ]
 ];

@@ -1,8 +1,11 @@
 var a08641 =
 [
-    [ "target_mapId", "d2/d43/a08641.html#af6d7558707c026a6d64f2d7b65a344be", null ],
-    [ "target_Orientation", "d2/d43/a08641.html#a5f6bf883e167b683e048ce9eeebb7cb0", null ],
-    [ "target_X", "d2/d43/a08641.html#a3ef5faea7a6fd9b173ea35036b3390b2", null ],
-    [ "target_Y", "d2/d43/a08641.html#a6660d360eaa47098506f246927130e32", null ],
-    [ "target_Z", "d2/d43/a08641.html#a32fee5f497804089feb738be84548dc1", null ]
+    [ "UnitActionBarEntry", "d2/d43/a08641.html#a41f9020c4811b14fc543ddece6af86d7", null ],
+    [ "GetAction", "d2/d43/a08641.html#afd77e2f64ec856059759d05ddf77876e", null ],
+    [ "GetType", "d2/d43/a08641.html#a0615e6ad9cf5523d6dc85bd529e65f32", null ],
+    [ "IsActionBarForSpell", "d2/d43/a08641.html#a2af43ec77fcd077b2fe9ca3a6d80123b", null ],
+    [ "SetAction", "d2/d43/a08641.html#aa00953783b0b3de3beb755a054c77730", null ],
+    [ "SetActionAndType", "d2/d43/a08641.html#a110840d38445795957ee0425175b4fb6", null ],
+    [ "SetType", "d2/d43/a08641.html#a38e0dcad391d09e475f90be5a5382f78", null ],
+    [ "packedData", "d2/d43/a08641.html#aa50957a4c707ce3dbdfd62a75e3cb8eb", null ]
 ];

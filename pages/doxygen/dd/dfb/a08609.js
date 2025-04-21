@@ -1,11 +1,14 @@
 var a08609 =
 [
-    [ "~Grid", "dd/dfb/a08609.html#a86be65dc86f104566acd41078429e4c4", null ],
-    [ "AddGridObject", "dd/dfb/a08609.html#ad78b74974ec1f4a361096c8f4d7500d7", null ],
-    [ "AddWorldObject", "dd/dfb/a08609.html#aac7dc4f1c3024b2286fed2ae51688a99", null ],
-    [ "Visit", "dd/dfb/a08609.html#aa69a55ee52da73b9ec3c62406cb4a595", null ],
-    [ "Visit", "dd/dfb/a08609.html#aebdcac90d763779775dbc0f0492e5279", null ],
-    [ "GridLoader", "dd/dfb/a08609.html#a06e47216bdac43edea86c507c93a6ed4", null ],
-    [ "i_container", "dd/dfb/a08609.html#a510723553d7206edb25792856c6c369b", null ],
-    [ "i_objects", "dd/dfb/a08609.html#a3bf441ec395e8e4cecdb8d63b6600bef", null ]
+    [ "SocialMap", "dd/dfb/a08609.html#a2b80fa18a6f1ed54fda7719867f45ebd", null ],
+    [ "SocialMgr", "dd/dfb/a08609.html#a3cff8262ce10d2e8c8c38dc834230545", null ],
+    [ "~SocialMgr", "dd/dfb/a08609.html#aef859e6c923a6ba4bb7ac0049f17463d", null ],
+    [ "BroadcastToFriendListers", "dd/dfb/a08609.html#a55b35ea17ebfea4ff31710186b87865f", null ],
+    [ "GetFriendInfo", "dd/dfb/a08609.html#a24344515cc4e656b98afcf760181b070", null ],
+    [ "instance", "dd/dfb/a08609.html#a223f3d7811d8c360da7f467b70af808f", null ],
+    [ "LoadFromDB", "dd/dfb/a08609.html#a6f10d7d75b0ddc5c2ec5c0e978f0e7b9", null ],
+    [ "MakeFriendStatusPacket", "dd/dfb/a08609.html#a9acd86505e66f2e6de9f8d30b36b94e6", null ],
+    [ "RemovePlayerSocial", "dd/dfb/a08609.html#a6b4968dc0a09a48c2b58e40d47da665d", null ],
+    [ "SendFriendStatus", "dd/dfb/a08609.html#a8824263f601c107ef84e487ca1b71bff", null ],
+    [ "m_socialMap", "dd/dfb/a08609.html#a2f8a276598ad01d350aa245fcef82a7a", null ]
 ];

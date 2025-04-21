@@ -1,6 +1,8 @@
 var a16341 =
 [
-    [ "npc_living_infernoAI", "dc/dea/a16345.html", "dc/dea/a16345" ],
-    [ "npc_living_inferno", "d3/dd6/a16341.html#a7df2bb522e67b6f1864604c7b0182078", null ],
-    [ "GetAI", "d3/dd6/a16341.html#a53f0bbd0a502374664cfa54140f4b8c0", null ]
+    [ "npc_toc_hunterAI", "d3/dd6/a16341.html#a80f80231bfe5b71bf415da3202c2e6fb", null ],
+    [ "JustSummoned", "d3/dd6/a16341.html#aa270248ad9e0c319234ff0741270b465", null ],
+    [ "myCanCast", "d3/dd6/a16341.html#a4e599ae2ee4e892795889bd57dd29e27", null ],
+    [ "UpdateAI", "d3/dd6/a16341.html#a81f384607ab7e8c4ed7385bdcddfd7a5", null ],
+    [ "events", "d3/dd6/a16341.html#a0cf5ecd9d7b3c92e2da836983323f378", null ]
 ];

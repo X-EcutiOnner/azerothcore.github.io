@@ -1,5 +1,9 @@
 var a17985 =
 [
-    [ "achievement_flu_shot_shortage", "d7/dc5/a17985.html#af448c773bcdf31cec7ae9d7c85e9e595", null ],
-    [ "OnCheck", "d7/dc5/a17985.html#a3195af1d4504ffc200c99bef84eaaa5a", null ]
+    [ "FilterTargets", "d7/dc5/a17985.html#ae0c0320b523076e03c01f69b9d0df4bd", null ],
+    [ "FilterTargetsSubseq", "d7/dc5/a17985.html#a88a53a855e01b550fbd106ac318a891e", null ],
+    [ "PrepareSpellScript", "d7/dc5/a17985.html#ae5c08d71d0e1d30f0b126ca593763697", null ],
+    [ "Register", "d7/dc5/a17985.html#a27e8768422b311f6db16757e167f4102", null ],
+    [ "Validate", "d7/dc5/a17985.html#a96ef76527449a138685830b52fa95146", null ],
+    [ "_targetList", "d7/dc5/a17985.html#afcfbcf16c29b3bda1d7b85f79c624db1", null ]
 ];

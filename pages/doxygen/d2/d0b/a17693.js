@@ -1,6 +1,7 @@
 var a17693 =
 [
-    [ "spell_blood_council_shadow_prison_SpellScript", "db/d9b/a17697.html", "db/d9b/a17697" ],
-    [ "spell_blood_council_shadow_prison_damage", "d2/d0b/a17693.html#a6f490fcdb70071532ffccbc26710ec80", null ],
-    [ "GetSpellScript", "d2/d0b/a17693.html#aaafbdbd70e86d16c053e70276f6bd80e", null ]
+    [ "npc_coldflameAI", "d2/d0b/a17693.html#a2a8420b79357f7a2167dddbd68ec8bc0", null ],
+    [ "IsSummonedBy", "d2/d0b/a17693.html#a1a330428ac8f17dc673fb1ae4d57035a", null ],
+    [ "UpdateAI", "d2/d0b/a17693.html#a5a847ae7c15b309cb1393b6d16a6e220", null ],
+    [ "events", "d2/d0b/a17693.html#af3b7d4ca1b268fe0d786eee83c0a3596", null ]
 ];

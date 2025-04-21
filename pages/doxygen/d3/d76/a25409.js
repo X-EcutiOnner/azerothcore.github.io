@@ -1,10 +1,7 @@
 var a25409 =
 [
-    [ "instance_arcatraz_InstanceMapScript", "d3/d76/a25409.html#a4c6594eb7fa1f7213c89ea5af6c70ae0", null ],
-    [ "GetGuidData", "d3/d76/a25409.html#aa4bedf168359eaf5332476a6de99c830", null ],
-    [ "OnGameObjectCreate", "d3/d76/a25409.html#ad8c84d90b85db5717b6a37fc2343e0aa", null ],
-    [ "SetBossState", "d3/d76/a25409.html#a2937e4ea47af542a476bd3399ecc7233", null ],
-    [ "SetData", "d3/d76/a25409.html#aca09d4856d5c3e1831ea8753a50a3b71", null ],
-    [ "StasisPodGUIDs", "d3/d76/a25409.html#a1fb9824baee2d8d83e030da307f21fc3", null ],
-    [ "WardensShieldGUID", "d3/d76/a25409.html#a3cbff5742e05f6cf0544807bce64b1d0", null ]
+    [ "CalcPeriodic", "d3/d76/a25409.html#a5847ba4daad49dca2527513055fa4429", null ],
+    [ "PrepareAuraScript", "d3/d76/a25409.html#a8753419b2fa1b1bb96a08bf54995e82c", null ],
+    [ "Register", "d3/d76/a25409.html#a08f851e5582831d5dd05878c4a55db67", null ],
+    [ "Update", "d3/d76/a25409.html#a3ab2716cbccc1311992de44e6591d966", null ]
 ];

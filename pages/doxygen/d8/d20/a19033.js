@@ -1,6 +1,6 @@
 var a19033 =
 [
-    [ "OnRemove", "d8/d20/a19033.html#ab66d040befddda8dbba0ce79f81a51e8", null ],
-    [ "PrepareAuraScript", "d8/d20/a19033.html#ae1fe747bb956e6220d259b26a0ced79f", null ],
-    [ "Register", "d8/d20/a19033.html#ac81dfb7309cf00dfe2088d649eef46fc", null ]
+    [ "boss_razuviousAI", "d4/d9d/a19037.html", "d4/d9d/a19037" ],
+    [ "boss_razuvious", "d8/d20/a19033.html#ac1a2942f4a7957c671b075df7bf20215", null ],
+    [ "GetAI", "d8/d20/a19033.html#a350a7cf0c3e21e29c3c28155d63dcb87", null ]
 ];

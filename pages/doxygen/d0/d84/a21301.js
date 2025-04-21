@@ -1,5 +1,6 @@
 var a21301 =
 [
-    [ "achievement_freya_getting_back_to_nature", "d0/d84/a21301.html#aa4078b573a9335fc52c9b9609590b12f", null ],
-    [ "OnCheck", "d0/d84/a21301.html#a850a32450379284784f019a5eb5ff0ff", null ]
+    [ "npc_vh_sinclari", "d0/d84/a21301.html#ad0235f207a3031420532174c04e0c348", null ],
+    [ "OnGossipHello", "d0/d84/a21301.html#a95f0d094d417d9d6ce99d7c8aa83496f", null ],
+    [ "OnGossipSelect", "d0/d84/a21301.html#af0a260d7868f601ae239c226b10d4de3", null ]
 ];

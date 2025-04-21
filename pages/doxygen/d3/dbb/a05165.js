@@ -1,5 +1,7 @@
 var a05165 =
 [
-    [ "Head", "d3/dbb/a05165.html#ac5c6d38e71241055f58984e88368494a", null ],
-    [ "Tail", "d3/dbb/a05165.html#a8b16ba737e930ebc023b8cea8231f678", null ]
+    [ "Secret", "d3/dbb/a05165.html#aae38427994c1f4ddf3838c4e1f3f7e03", null ],
+    [ "GenerateToken", "d3/dbb/a05165.html#a44829d44e78247991d9c3dde270cab5c", null ],
+    [ "ValidateToken", "d3/dbb/a05165.html#ab6b27542814e577106ad587a5807d663", null ],
+    [ "RECOMMENDED_SECRET_LENGTH", "d3/dbb/a05165.html#a885fc6c1a5bda166416f161ea202eb72", null ]
 ];

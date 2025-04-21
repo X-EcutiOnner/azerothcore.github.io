@@ -1,6 +1,7 @@
 var a18285 =
 [
-    [ "npc_cult_fanaticAI", "d7/dac/a18289.html", "d7/dac/a18289" ],
-    [ "npc_cult_fanatic", "d6/d67/a18285.html#af29ab8f7628b96b0f192bccab74ca02e", null ],
-    [ "GetAI", "d6/d67/a18285.html#ae4d22bac12d17d79669d3fccd4029952", null ]
+    [ "HandleProc", "d6/d67/a18285.html#af06730a865009127c7d3e5423afd4d44", null ],
+    [ "PrepareAuraScript", "d6/d67/a18285.html#a71a81a19a0c543a4aa43d6bf002b7bb9", null ],
+    [ "Register", "d6/d67/a18285.html#a6c97b787ce00491a259c575d26189f8c", null ],
+    [ "Validate", "d6/d67/a18285.html#aed9c98e20d916359629e119d6dd2a94f", null ]
 ];

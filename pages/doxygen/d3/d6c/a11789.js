@@ -1,6 +1,5 @@
 var a11789 =
 [
-    [ "boss_broodlordAI", "d3/df2/a11793.html", "d3/df2/a11793" ],
-    [ "boss_broodlord", "d3/d6c/a11789.html#a936f7eb723111877e2a5e3a85cb95b2b", null ],
-    [ "GetAI", "d3/d6c/a11789.html#a5bd506c6f397608ce84496fa0fea2679", null ]
+    [ "at_ring_of_law", "d3/d6c/a11789.html#ad9bb44e898f90fb489b50cad0a711976", null ],
+    [ "OnTrigger", "d3/d6c/a11789.html#a613471caae75ab3d82ce915101a20108", null ]
 ];

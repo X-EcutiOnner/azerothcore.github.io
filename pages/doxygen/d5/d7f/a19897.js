@@ -1,6 +1,6 @@
 var a19897 =
 [
-    [ "OnRemove", "d5/d7f/a19897.html#afe9e16e484e457610a782d4fe9a85f64", null ],
-    [ "PrepareAuraScript", "d5/d7f/a19897.html#addb34c019547d4aa5d1ff33b8c0a6524", null ],
-    [ "Register", "d5/d7f/a19897.html#ac806ad4edbd83b05feee0fbc7608470b", null ]
+    [ "CheckAreaTarget", "d5/d7f/a19897.html#ad1930e308f450cb84dba4f4b28b19f58", null ],
+    [ "PrepareAuraScript", "d5/d7f/a19897.html#a921b2f67c417244310398bd93061d61c", null ],
+    [ "Register", "d5/d7f/a19897.html#ab21972706bae9fdc3fc6859da2f3f63e", null ]
 ];

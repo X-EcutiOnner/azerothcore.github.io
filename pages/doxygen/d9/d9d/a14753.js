@@ -1,6 +1,5 @@
 var a14753 =
 [
-    [ "boss_infinite_corruptorAI", "db/dac/a14757.html", "db/dac/a14757" ],
-    [ "boss_infinite_corruptor", "d9/d9d/a14753.html#a78a939073ab44b818cefdb25419f92be", null ],
-    [ "GetAI", "d9/d9d/a14753.html#ab6eaf2f9d1928817e45b092a3a87bda4", null ]
+    [ "npc_black_morass_summoned_add", "d9/d9d/a14753.html#ab1551fc3e746dc724ea433f7a3daa786", null ],
+    [ "EnterEvadeMode", "d9/d9d/a14753.html#a437e7b72b985713d22883f3e33f30942", null ]
 ];

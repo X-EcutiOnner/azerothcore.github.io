@@ -1,6 +1,8 @@
 var a22129 =
 [
-    [ "boss_yoggsaron_brainAI", "d1/dbd/a22133.html", "d1/dbd/a22133" ],
-    [ "boss_yoggsaron_brain", "d5/dd0/a22129.html#a8094e2a062f06c5a954c1d3401ca18d4", null ],
-    [ "GetAI", "d5/dd0/a22129.html#a02e6b07087765d75d0f49b864e2f323f", null ]
+    [ "CheckCast", "d5/dd0/a22129.html#ab1584c391ac81b8338387acc6187001f", null ],
+    [ "HandleDummy", "d5/dd0/a22129.html#abe856e2c3b986eeac0c1a62aa301eb6d", null ],
+    [ "PrepareSpellScript", "d5/dd0/a22129.html#a08d9ffb7dcbe786071979166e0489336", null ],
+    [ "Register", "d5/dd0/a22129.html#a5f0bbd57f3cbc0d0de3d8830dd4e6f2b", null ],
+    [ "Validate", "d5/dd0/a22129.html#a82d931b4a15f6a60c27d932e8188ef78", null ]
 ];

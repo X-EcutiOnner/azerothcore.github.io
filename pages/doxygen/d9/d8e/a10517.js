@@ -1,6 +1,9 @@
 var a10517 =
 [
-    [ "PetLearnedSpell", "d9/d8e/a10517.html#a5d105cca08515b9550998f2c86b13a1a", null ],
-    [ "Write", "d9/d8e/a10517.html#a6fd7d4bc907b0bb78c438e6a9159dc69", null ],
-    [ "SpellID", "d9/d8e/a10517.html#a6ab11b614f13d518a2a007adfbe00ab7", null ]
+    [ "GuildInfoResponse", "d9/d8e/a10517.html#a256cb81ad2e08050be99c9e1061c2009", null ],
+    [ "Write", "d9/d8e/a10517.html#a3222d0018c9593400d3d01258b82371e", null ],
+    [ "CreateDate", "d9/d8e/a10517.html#a1a0acf334d88751e94257ff76c9e3fd8", null ],
+    [ "GuildName", "d9/d8e/a10517.html#ad8efc926197e955ed0cf8df6a74b41e8", null ],
+    [ "NumAccounts", "d9/d8e/a10517.html#a21b42f1654aa10f7872d87635fea66ac", null ],
+    [ "NumMembers", "d9/d8e/a10517.html#a7e748a70029e867ba8c90eaba85bf8c9", null ]
 ];

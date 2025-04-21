@@ -1,7 +1,8 @@
 var a26273 =
 [
-    [ "CheckCast", "d6/d85/a26273.html#a0e4e62a9b1763619170b6da8487e7ee1", null ],
-    [ "HandleDummy", "d6/d85/a26273.html#ac7084a563e98760d58dfbcafdd7cde11", null ],
-    [ "PrepareSpellScript", "d6/d85/a26273.html#a465da282630352a289d5daae7ccb1d01", null ],
-    [ "Register", "d6/d85/a26273.html#ae668f0c45a74d56d1be5be29309c9f6d", null ]
+    [ "HandleDummy", "d6/d85/a26273.html#a1afcd9c6ab96c87db8aa4899d0830899", null ],
+    [ "Load", "d6/d85/a26273.html#a11d3cd0eccd4895f5cd9d2721bd3fd0c", null ],
+    [ "PrepareSpellScript", "d6/d85/a26273.html#a252784bb4b438750db5ef7f905477140", null ],
+    [ "Register", "d6/d85/a26273.html#ab93554e82cbed0c78452846c95247584", null ],
+    [ "Validate", "d6/d85/a26273.html#a33404726f5e5986b263eb0a0beba9443", null ]
 ];

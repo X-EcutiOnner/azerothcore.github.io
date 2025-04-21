@@ -1,5 +1,6 @@
 var a15545 =
 [
-    [ "at_ancient_leaf", "d0/d05/a15545.html#a7c1913b5ac00659697d0b361f1a7a2fd", null ],
-    [ "OnTrigger", "d0/d05/a15545.html#a6d3a2775216cb0c864dc21f5bb5dbc79", null ]
+    [ "npc_twiggy_flatheadAI", "dc/d02/a15549.html", "dc/d02/a15549" ],
+    [ "npc_twiggy_flathead", "d0/d05/a15545.html#a36e8ae89c9138e1a88c84ecbfd694963", null ],
+    [ "GetAI", "d0/d05/a15545.html#a48c48994c199502bc3cfb96bf713bc5f", null ]
 ];

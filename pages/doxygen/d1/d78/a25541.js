@@ -1,6 +1,7 @@
 var a25541 =
 [
-    [ "spell_kaelthas_kael_phase_two_SpellScript", "d6/d99/a25545.html", "d6/d99/a25545" ],
-    [ "spell_kaelthas_kael_phase_two", "d1/d78/a25541.html#a422501ce9aabdddea3f41e6c2f80986f", null ],
-    [ "GetSpellScript", "d1/d78/a25541.html#a183a27193ca41d3944fedd94810e2854", null ]
+    [ "HandleProc", "d1/d78/a25541.html#a8a844ca9970584aa4bcbc0107e923ff5", null ],
+    [ "PrepareAuraScript", "d1/d78/a25541.html#a0097e8c7603bf705115958dd5d96f6ad", null ],
+    [ "Register", "d1/d78/a25541.html#aca3cd3a1f4738e3e78c879239a80e9cc", null ],
+    [ "Validate", "d1/d78/a25541.html#a8df8750f53a7c618eb534f40fb17875e", null ]
 ];

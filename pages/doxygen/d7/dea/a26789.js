@@ -1,8 +1,7 @@
 var a26789 =
 [
-    [ "CheckIfCorpseNear", "d7/dea/a26789.html#afdf1bca2e23057d99962fb1000e9245e", null ],
-    [ "HandleDummy", "d7/dea/a26789.html#a9e1bf4884a32e515d8e6b3edf7f5d462", null ],
-    [ "PrepareSpellScript", "d7/dea/a26789.html#af4a1aa22ed9ccf4df29d05d3f7fb0214", null ],
-    [ "Register", "d7/dea/a26789.html#a22f4c5321769384b2b708f19edea1a66", null ],
-    [ "Validate", "d7/dea/a26789.html#a855fdba79c4fa087253505ed419b9966", null ]
+    [ "HandleApply", "d7/dea/a26789.html#aa35fa107aee605a8583150901a75ad72", null ],
+    [ "HandleRemove", "d7/dea/a26789.html#a60b6e438ff67d9db41d160020b54da40", null ],
+    [ "PrepareAuraScript", "d7/dea/a26789.html#a1da44046f2cb9fb68b18f712111c38ea", null ],
+    [ "Register", "d7/dea/a26789.html#ac7c9e15a796e91e0ac68791d24e3d4bf", null ]
 ];

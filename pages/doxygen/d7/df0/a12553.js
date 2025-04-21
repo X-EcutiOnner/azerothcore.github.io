@@ -1,8 +1,8 @@
 var a12553 =
 [
-    [ "npc_dkc1_gothikAI", "d7/df0/a12553.html#a35e65bd943f86ba3a1d6841569289df6", null ],
-    [ "DoAction", "d7/df0/a12553.html#a3193c562973bbf995ab5e0173a93d01f", null ],
-    [ "MoveInLineOfSight", "d7/df0/a12553.html#ac2ee224af001a78aa00013f6c8c9ad3d", null ],
-    [ "UpdateAI", "d7/df0/a12553.html#a346d32c9831babe6fb5f675b70b7a897", null ],
-    [ "spoken", "d7/df0/a12553.html#ac6f32e953a66f9e96ddc99b663014b0c", null ]
+    [ "HandleEffectRemove", "d7/df0/a12553.html#a5e5a218cb491b830ec8d50609a3d54ae", null ],
+    [ "if", "d7/df0/a12553.html#a8596fc98402bf952484c9567f61c7820", null ],
+    [ "PrepareAuraScript", "d7/df0/a12553.html#a4055f781a914de631187b00ba7aefeef", null ],
+    [ "Register", "d7/df0/a12553.html#aefb4bbae43558abde871548088784613", null ],
+    [ "AuraEffectHandleModes", "d7/df0/a12553.html#a7d419ba41e68b70740a867a2265824bd", null ]
 ];

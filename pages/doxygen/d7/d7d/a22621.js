@@ -1,13 +1,12 @@
 var a22621 =
 [
-    [ "MoveX", "d7/d7d/a22621.html#aaae6e8ea168850a934b887ec006d7d8b", null ],
-    [ "MoveY", "d7/d7d/a22621.html#a62cd7f778cea049a1a6a4c34d21545a7", null ],
-    [ "MoveZ", "d7/d7d/a22621.html#a80b842f55108fec58fe04cf02e8e0b35", null ],
-    [ "npc", "d7/d7d/a22621.html#a4bdccc14156f7e5822c9a8eefc29adaa", null ],
-    [ "say", "d7/d7d/a22621.html#adcd8647fc0ee9799e24173780209f2d9", null ],
-    [ "SpawnO", "d7/d7d/a22621.html#a3b6b89143c8a875cda01b000cea6a7c7", null ],
-    [ "SpawnX", "d7/d7d/a22621.html#af3ae27adaecafe9a09802bc202973d68", null ],
-    [ "SpawnY", "d7/d7d/a22621.html#a749e9c6edcc87f258f250344d652145c", null ],
-    [ "SpawnZ", "d7/d7d/a22621.html#a06a0f8e5a7d63204d57992dc9623f83b", null ],
-    [ "trigger", "d7/d7d/a22621.html#ad2291d89a874c79859b3140754594ed7", null ]
+    [ "boss_gurtogg_bloodboil", "d7/d7d/a22621.html#af6abec4e4db5ce939e4c9593656d16fb", null ],
+    [ "CanAIAttack", "d7/d7d/a22621.html#a60e6439bab689eb88a18612b6b46c713", null ],
+    [ "CheckEvadeIfOutOfCombatArea", "d7/d7d/a22621.html#a42db4d9fab6edfc392e1886c7d2770cb", null ],
+    [ "JustDied", "d7/d7d/a22621.html#a10456695efc6ea0b8eace24b94c37cc3", null ],
+    [ "JustEngagedWith", "d7/d7d/a22621.html#a0847173efbae252c2fbbaf1be17097cb", null ],
+    [ "JustSummoned", "d7/d7d/a22621.html#ae718666a1da0e93cb0965c42c40b51df", null ],
+    [ "KilledUnit", "d7/d7d/a22621.html#ab2b8131fc06f0ff6dd9e3ac7799e72db", null ],
+    [ "Reset", "d7/d7d/a22621.html#add25677d422b8bddcb753465451f0584", null ],
+    [ "_recentlySpoken", "d7/d7d/a22621.html#a74af813b84f7787a5b764cfe574c087b", null ]
 ];

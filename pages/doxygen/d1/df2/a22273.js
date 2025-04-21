@@ -1,7 +1,6 @@
 var a22273 =
 [
-    [ "FilterTargets", "d1/df2/a22273.html#a4d96c113cd60d9949e8c70ac23865ca0", null ],
-    [ "HandleDummyEffect", "d1/df2/a22273.html#a98a2ee1f10a7755e20cecb89ee384a8d", null ],
-    [ "PrepareSpellScript", "d1/df2/a22273.html#a2e8af177d9ac1a4b361b9bc6e0320226", null ],
-    [ "Register", "d1/df2/a22273.html#a07e8f3d396b56765c5b57fd32bffd636", null ]
+    [ "go_wg_vehicle_teleporterAI", "dd/d16/a22277.html", "dd/d16/a22277" ],
+    [ "go_wg_vehicle_teleporter", "d1/df2/a22273.html#a074ead770a3da6e9ffa4180a3525f4c8", null ],
+    [ "GetAI", "d1/df2/a22273.html#a113aaf42c095000c1a016bfe60df11e7", null ]
 ];

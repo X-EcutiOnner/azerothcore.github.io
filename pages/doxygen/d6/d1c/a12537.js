@@ -1,6 +1,9 @@
 var a12537 =
 [
-    [ "HandleScriptEffect", "d6/d1c/a12537.html#a7cf04c61085396f886ff7b9c80ed7c7f", null ],
-    [ "PrepareSpellScript", "d6/d1c/a12537.html#a9bf6f10616ef03a70639d2d0d4503c2e", null ],
-    [ "Register", "d6/d1c/a12537.html#aa8c07d4d88480b16993ca87d746978e1", null ]
+    [ "boss_curator", "d6/d1c/a12537.html#a41b65078d0822ba87f3e40fc7bb10a40", null ],
+    [ "JustDied", "d6/d1c/a12537.html#a5617f51f51304682d48af11fdb0c6b8b", null ],
+    [ "JustEngagedWith", "d6/d1c/a12537.html#a848f477a101956662389cab5ffcc0727", null ],
+    [ "JustSummoned", "d6/d1c/a12537.html#ac779d275e03e6ba190617d215b217ce5", null ],
+    [ "KilledUnit", "d6/d1c/a12537.html#a9bfb89a8747251e4a84eb2f94a547f0d", null ],
+    [ "Reset", "d6/d1c/a12537.html#af6fbf3c3d77f9f052f11974f7b54feab", null ]
 ];

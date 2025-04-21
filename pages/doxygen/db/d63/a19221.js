@@ -1,9 +1,14 @@
 var a19221 =
 [
-    [ "npc_spirit_wardenAI", "db/d63/a19221.html#a3391168478345d8b5c1fee151f6e9f04", null ],
-    [ "JustDied", "db/d63/a19221.html#aa762c0bea6361107312e8231508dc655", null ],
-    [ "Reset", "db/d63/a19221.html#ad6076663f65f43874feb0ecfc57718a4", null ],
-    [ "UpdateAI", "db/d63/a19221.html#af845e3e2c38af5baa84c94f6074c0caf", null ],
-    [ "_events", "db/d63/a19221.html#a1bc5cfdee62efdd622e0fe1aa503c260", null ],
-    [ "_instance", "db/d63/a19221.html#a58ebb8e42e77add79fc888248013eb24", null ]
+    [ "boss_keristrasza", "db/d63/a19221.html#a5f83fee9a5616751601f0c1155afab36", null ],
+    [ "CanRemovePrison", "db/d63/a19221.html#a900a4a8428a04b880462b20196e94858", null ],
+    [ "GetData", "db/d63/a19221.html#aa1e7f5b0c0fe89d0e67ccfd198d235ba", null ],
+    [ "JustDied", "db/d63/a19221.html#a3f962a6c7a65d458f1b05a15e6f53951", null ],
+    [ "JustEngagedWith", "db/d63/a19221.html#a26d6559cc92841f8f76544cdbbf2cbaf", null ],
+    [ "KilledUnit", "db/d63/a19221.html#a67b50805b9e01cd1d0fb7966b3288b9f", null ],
+    [ "RemovePrison", "db/d63/a19221.html#a97b6fe26a5bbc4a7c528939e82cd0ca5", null ],
+    [ "Reset", "db/d63/a19221.html#a13dce974fa83577397a80ff52de5d835", null ],
+    [ "SetData", "db/d63/a19221.html#ac32f3e8f568535d4d197d383f9e51c5f", null ],
+    [ "UpdateAI", "db/d63/a19221.html#a46a2e61e27cc72710c7aa14212673eae", null ],
+    [ "aGuids", "db/d63/a19221.html#aa4c06ad8d599192c2f4ecb52f92e3a31", null ]
 ];

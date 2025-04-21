@@ -1,6 +1,6 @@
 var a25797 =
 [
-    [ "npc_fel_guard_houndAI", "d6/dd6/a25801.html", "d6/dd6/a25801" ],
-    [ "npc_fel_guard_hound", "d5/d29/a25797.html#a324179695f04a31b233b0ce94a46634c", null ],
-    [ "GetAI", "d5/d29/a25797.html#a5f5c20ec379994e7d0b65133d772e18f", null ]
+    [ "PrepareSpellScript", "d5/d29/a25797.html#a738e105a48f6c603f3d9a690f44b8745", null ],
+    [ "Register", "d5/d29/a25797.html#a6bc9791d0f08440e19b89daa9b65892c", null ],
+    [ "SetDest", "d5/d29/a25797.html#a59641895cead08de4a4503262505ee73", null ]
 ];

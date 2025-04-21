@@ -1,7 +1,5 @@
 var a27265 =
 [
-    [ "CalcPeriodic", "de/d11/a27265.html#a5847ba4daad49dca2527513055fa4429", null ],
-    [ "PrepareAuraScript", "de/d11/a27265.html#a8753419b2fa1b1bb96a08bf54995e82c", null ],
-    [ "Register", "de/d11/a27265.html#a08f851e5582831d5dd05878c4a55db67", null ],
-    [ "Update", "de/d11/a27265.html#a3ab2716cbccc1311992de44e6591d966", null ]
+    [ "go_hive_pod", "de/d11/a27265.html#a7ec01a399e75ff2e64746166d1aa3539", null ],
+    [ "OnGossipHello", "de/d11/a27265.html#a4cfb09789edf6699444a7d817e4ccc70", null ]
 ];

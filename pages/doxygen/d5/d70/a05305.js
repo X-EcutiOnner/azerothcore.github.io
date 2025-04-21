@@ -1,17 +1,19 @@
 var a05305 =
 [
-    [ "CircularBuffer", "d5/d70/a05305.html#aed928fe071a15c367bbdf0c551249438", null ],
-    [ "capacity", "d5/d70/a05305.html#ae1addc6782f9a3e4d66461223f496619", null ],
-    [ "content", "d5/d70/a05305.html#ad364f8ee7c9176b912ea053e2f3c928f", null ],
-    [ "empty", "d5/d70/a05305.html#a7509cc5ef0dd0a9f731c47b05929580c", null ],
-    [ "full", "d5/d70/a05305.html#a2a2f13f00dca028142c250b5f2183097", null ],
-    [ "peak_back", "d5/d70/a05305.html#ad4bb17889033526da4605ebddd60f3c7", null ],
-    [ "put", "d5/d70/a05305.html#a2a5e093804731b69969c18e49a206572", null ],
-    [ "size", "d5/d70/a05305.html#a73d5df7a33d545554fffeaaf843f36d9", null ],
-    [ "buf_", "d5/d70/a05305.html#aa2b9389da6cd912b4dd54d89ca1d69ee", null ],
-    [ "full_", "d5/d70/a05305.html#a1dfcbf9f9d2760d7d82144c57ff8a60e", null ],
-    [ "head_", "d5/d70/a05305.html#abd7fa51c466136b2ed4a3ed40dc72201", null ],
-    [ "max_size_", "d5/d70/a05305.html#a588c4166b7abe2cf38e58c63026fe511", null ],
-    [ "mutex_", "d5/d70/a05305.html#aa4762ba2167d8b9560ff39328b4b3afa", null ],
-    [ "tail_", "d5/d70/a05305.html#ad6b796b58f9b528479e5caf45713027b", null ]
+    [ "Appender", "d5/d70/a05305.html#aed555d5a182fefce9bb570201e9f005f", null ],
+    [ "~Appender", "d5/d70/a05305.html#a7194b4ff5130399352c356852023004d", null ],
+    [ "_write", "d5/d70/a05305.html#a04e6bf8aca909a3fbadcd053dda85b83", null ],
+    [ "getFlags", "d5/d70/a05305.html#a57fad2f7bd4da733633051f47efd6555", null ],
+    [ "getId", "d5/d70/a05305.html#a643046505390b3988572c53051d7d4c1", null ],
+    [ "getLogLevel", "d5/d70/a05305.html#a0013fabdf34579153a2d145fdbd8009b", null ],
+    [ "getLogLevelString", "d5/d70/a05305.html#aa0ec99ab59463bfe249b64e5f9a7645d", null ],
+    [ "getName", "d5/d70/a05305.html#a8414d7de4187a3deb55024278734836f", null ],
+    [ "getType", "d5/d70/a05305.html#a0efa3e131b7c130a9ece375135682ea4", null ],
+    [ "setLogLevel", "d5/d70/a05305.html#ae6c4e7120a54b7069e157fe9a397d455", null ],
+    [ "setRealmId", "d5/d70/a05305.html#ae13f18ba2b26260f64aedc1ce1806fef", null ],
+    [ "write", "d5/d70/a05305.html#a33d9f53e1853633d15c78f4edc33e5d3", null ],
+    [ "flags", "d5/d70/a05305.html#aa8bf6d0a30b1b7ec7acd95e73234e5bd", null ],
+    [ "id", "d5/d70/a05305.html#a2cf4849307b65727645d3caf4205064f", null ],
+    [ "level", "d5/d70/a05305.html#a2dd9209b754c6676ef86f1a6f7f2295f", null ],
+    [ "name", "d5/d70/a05305.html#a0d47660ee41c8816342001825f626a8b", null ]
 ];

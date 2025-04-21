@@ -1,6 +1,6 @@
 var a26037 =
 [
-    [ "npc_kservantAI", "dd/d6e/a26041.html", "dd/d6e/a26041" ],
-    [ "npc_kservant", "df/d13/a26037.html#af04c8a87516e41f7d35071664034af9d", null ],
-    [ "GetAI", "df/d13/a26037.html#a3ae7327ec2ead5a2d3ffb043f18ccc09", null ]
+    [ "CheckTarget", "df/d13/a26037.html#af1dae4f351ccaa7bc9b2ea315f0752c5", null ],
+    [ "PrepareSpellScript", "df/d13/a26037.html#a8f4075c80c7dcaa16f71bc1b396d005f", null ],
+    [ "Register", "df/d13/a26037.html#af4a27df3090a45ebd5db29c58e9ea47f", null ]
 ];

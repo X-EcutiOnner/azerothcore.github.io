@@ -1,6 +1,6 @@
 var a21585 =
 [
-    [ "HandleScript", "d0/d71/a21585.html#a4ada0292071501626c82145a9af95223", null ],
-    [ "PrepareSpellScript", "d0/d71/a21585.html#a1fee32a9441d630940fb14da3c4eb98c", null ],
-    [ "Register", "d0/d71/a21585.html#a584ab85a82281207e14fbd32ddddfbf1", null ]
+    [ "npc_archmage_landalockAI", "d5/df1/a21589.html", "d5/df1/a21589" ],
+    [ "npc_archmage_landalock", "d0/d71/a21585.html#ac7379ff07740123312af66ead64df4c6", null ],
+    [ "GetAI", "d0/d71/a21585.html#a92cfa8c2660413681297bfe12815c938", null ]
 ];

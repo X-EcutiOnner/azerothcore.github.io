@@ -1,6 +1,6 @@
 var a25545 =
 [
-    [ "Load", "d6/d99/a25545.html#ad83a9545284ad7076dbc23a264d51a2a", null ],
-    [ "PrepareSpellScript", "d6/d99/a25545.html#a23d183690772e6d3999369ea34b14795", null ],
-    [ "Register", "d6/d99/a25545.html#afaf214060884d9a3f8c17736b7540c20", null ]
+    [ "HandleOnEffectHit", "d6/d99/a25545.html#a07157e7255d52acf6eb5d5e5c17e2190", null ],
+    [ "PrepareSpellScript", "d6/d99/a25545.html#a0b2fd34dda3b23b574f6a5a0c4435006", null ],
+    [ "Register", "d6/d99/a25545.html#a59c6a1618faa5a44e1c37337b39a3cba", null ]
 ];

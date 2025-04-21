@@ -1,8 +1,8 @@
 var a04985 =
 [
-    [ "ComputeCell", "da/da3/a04985.html#a32a8b5ab15a28fb06672fcf62ac63d1e", null ],
-    [ "isValid", "da/da3/a04985.html#afe64d87e738675f1c8cb0fa6d440029c", null ],
-    [ "operator==", "da/da3/a04985.html#a13e8b2fcda561f185777e4d8b48da3f5", null ],
-    [ "x", "da/da3/a04985.html#a8435f7d7b8f529dfe397ada59e3405a1", null ],
-    [ "y", "da/da3/a04985.html#af3d5ae020727d58286ef7725958063a9", null ]
+    [ "LocationInfo", "da/da3/a04985.html#ae2e70dc65cd3b0379600a67dce7de6ba", null ],
+    [ "ground_Z", "da/da3/a04985.html#a0ffbfcfc677809dda6250855d9594ca5", null ],
+    [ "hitInstance", "da/da3/a04985.html#a5e3fc81a2b7353808dc0c95eebe570be", null ],
+    [ "hitModel", "da/da3/a04985.html#a2a7e0be8d8e43b055dd1d43cd5331738", null ],
+    [ "rootId", "da/da3/a04985.html#aae82d7d8518db5e131d6a327927c75a2", null ]
 ];

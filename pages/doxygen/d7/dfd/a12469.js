@@ -1,6 +1,9 @@
 var a12469 =
 [
-    [ "boss_warlord_salaris", "d7/dfd/a12469.html#afe9ace28dcd302e9b9a9ebe806e2ada5", null ],
-    [ "JustEngagedWith", "d7/dfd/a12469.html#a77b3b531466810ee17f9fd6eadf5872a", null ],
-    [ "UpdateAI", "d7/dfd/a12469.html#a265aab47f95d952125c98773b53a67bf", null ]
+    [ "npc_mc_core_houndAI", "d7/dfd/a12469.html#a9b07d662e32a342419a848ecd59d6391", null ],
+    [ "DamageTaken", "d7/dfd/a12469.html#aaf2b0ac9b723bb16bfaf8481165e6b4f", null ],
+    [ "Reset", "d7/dfd/a12469.html#a9f4b06230ae2e4fc2fe150eb9e9d1f12", null ],
+    [ "UpdateAI", "d7/dfd/a12469.html#aaba8ef0b33b9bb9acf74223ef0e9aaad", null ],
+    [ "instance", "d7/dfd/a12469.html#ab47451dfeff84c8467be2b76554df897", null ],
+    [ "serratedBiteTimer", "d7/dfd/a12469.html#a3a49df32c788497d3e82912d423683b7", null ]
 ];

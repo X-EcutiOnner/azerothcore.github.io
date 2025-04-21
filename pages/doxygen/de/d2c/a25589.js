@@ -1,6 +1,6 @@
 var a25589 =
 [
-    [ "spell_kaelthas_flame_strike_AuraScript", "d2/d3e/a25593.html", "d2/d3e/a25593" ],
-    [ "spell_kaelthas_flame_strike", "de/d2c/a25589.html#a5c5ded6724be16d04a1e346fff579801", null ],
-    [ "GetAuraScript", "de/d2c/a25589.html#a7d107277d866e65cec6ad55fa8750bf0", null ]
+    [ "PartyTimeEmoteEvent", "de/d2c/a25589.html#a525efd58fc8465658208058e6dc5d31c", null ],
+    [ "Execute", "de/d2c/a25589.html#a65a796ff4efece46c519f7bdf1524bb8", null ],
+    [ "_player", "de/d2c/a25589.html#a61ecb44828c6e4c868def8899791feb3", null ]
 ];

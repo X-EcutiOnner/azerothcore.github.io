@@ -1,11 +1,7 @@
 var a24697 =
 [
-    [ "HandleAfterCast", "d0/d08/a24697.html#a7b9c0c3cb95aee9cc8f56451104c099b", null ],
-    [ "HandleDummy", "d0/d08/a24697.html#a692d938d91266d3625befe13258a1970", null ],
-    [ "Load", "d0/d08/a24697.html#a67d93727b216e42499db94e1683eb828", null ],
-    [ "PrepareSpellScript", "d0/d08/a24697.html#a89e99c5a0c13c42b9ba2f35e956a4ce8", null ],
-    [ "Register", "d0/d08/a24697.html#a9d9d0dd7e9616214961d5f5171883893", null ],
-    [ "_sharedHealth", "d0/d08/a24697.html#ad4be082c15cce7c7b3fca5a81845bd74", null ],
-    [ "_sharedHealthMax", "d0/d08/a24697.html#a2f91c55b768070fcfc2e81ffbbe9aa80", null ],
-    [ "_targetCount", "d0/d08/a24697.html#aeedd3347c2ec21a9ef9ad77f090c9b86", null ]
+    [ "CalculateAmount", "d0/d08/a24697.html#ab705e67f7abb72a13dfd32e7a6da4561", null ],
+    [ "Load", "d0/d08/a24697.html#ac87f1c7ccb9aa9985d538c9d8611c850", null ],
+    [ "PrepareAuraScript", "d0/d08/a24697.html#ae4a75ef8bc755c8220b768d5ac87a728", null ],
+    [ "Register", "d0/d08/a24697.html#a636331452bc95a4434f1b85e85ea6e7b", null ]
 ];

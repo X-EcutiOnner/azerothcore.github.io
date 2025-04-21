@@ -1,6 +1,11 @@
 var a15693 =
 [
-    [ "npc_stone_watcher_of_norgannon", "d3/d97/a15693.html#aa838e060c8ef6d7d85981c718328d9ef", null ],
-    [ "OnGossipHello", "d3/d97/a15693.html#a00f526b1b17b68f31a86e892e0997856", null ],
-    [ "OnGossipSelect", "d3/d97/a15693.html#a5b79ebae097266ec4e1a0e3dfaa87da5", null ]
+    [ "npc_amanitar_mushrooms", "d3/d97/a15693.html#ad5603426c71c107ff439cea2efeea3f9", null ],
+    [ "AttackStart", "d3/d97/a15693.html#a0cc90c924a12a8be32c78e76ca798943", null ],
+    [ "DamageTaken", "d3/d97/a15693.html#a4c21a448535e1fc0f0116257194b9732", null ],
+    [ "EnterEvadeMode", "d3/d97/a15693.html#ae17ee367c9d206868c7dfc64d438806a", null ],
+    [ "JustEngagedWith", "d3/d97/a15693.html#ac50bf479e8c891af432cfccdf9d49c55", null ],
+    [ "Reset", "d3/d97/a15693.html#ae597d5a64765f5304773f9a38e9c719a", null ],
+    [ "UpdateAI", "d3/d97/a15693.html#ae71058353be43935aa45eb28eb41170f", null ],
+    [ "events", "d3/d97/a15693.html#a0be93d15582a5511963721510652e76d", null ]
 ];

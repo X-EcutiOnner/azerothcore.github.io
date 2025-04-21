@@ -1,17 +1,14 @@
 var a16449 =
 [
-    [ "boss_black_knightAI", "dd/d22/a16449.html#a46c906dfeb367134885dc5248b50dbd0", null ],
-    [ "DamageTaken", "dd/d22/a16449.html#a8a9b3f248f3d889b1804c387396d3054", null ],
-    [ "DoAction", "dd/d22/a16449.html#a1b16dda892b2e6c94352cf13e6b961f4", null ],
-    [ "EnterEvadeMode", "dd/d22/a16449.html#a77d1dc632828691fa07a543544bd266c", null ],
-    [ "JustDied", "dd/d22/a16449.html#a3bb0698d0d66e4a26e25569f97ea720d", null ],
-    [ "JustSummoned", "dd/d22/a16449.html#a58c32a4802a93755d7c8129c01901cdf", null ],
-    [ "KilledUnit", "dd/d22/a16449.html#a01121270bc30a75630e5da96c9f61519", null ],
-    [ "Reset", "dd/d22/a16449.html#ae67498247b9d631c4ca6af0acb1c76af", null ],
-    [ "SpellHitTarget", "dd/d22/a16449.html#a718a51ec39cb9a10225a7bc76a069a3b", null ],
-    [ "UpdateAI", "dd/d22/a16449.html#af8600ff24856d079df7e9c59f49850b2", null ],
-    [ "events", "dd/d22/a16449.html#a189de3b3ef51c7870399a7a31503ae24", null ],
-    [ "Phase", "dd/d22/a16449.html#ac25e3299bc9787d5bbad22263ebab235", null ],
-    [ "pInstance", "dd/d22/a16449.html#acde711225a78e54d4bc1e0fde41e951d", null ],
-    [ "summons", "dd/d22/a16449.html#a73e1c3688a853b70527e862efe05bc11", null ]
+    [ "npc_snobold_vassalAI", "dd/d22/a16449.html#a2ecc5e8289252b2936f36de9921294e0", null ],
+    [ "AttackStart", "dd/d22/a16449.html#a50afc82c80cede8dcf3240a116463411", null ],
+    [ "DoAction", "dd/d22/a16449.html#a8beac97ea5f7c797d2ae52e2f3c3be50", null ],
+    [ "JustDied", "dd/d22/a16449.html#aef408460584a17f15a84e8a6435c6348", null ],
+    [ "JustEngagedWith", "dd/d22/a16449.html#a60c1704617e99239d60d24d6b7513c1a", null ],
+    [ "MoveInLineOfSight", "dd/d22/a16449.html#aae75a4e69e27c1e4778a7f76caff04ba", null ],
+    [ "Reset", "dd/d22/a16449.html#af794f46b1a7af97b52683954b556c27d", null ],
+    [ "UpdateAI", "dd/d22/a16449.html#ac1d282da6f2d9133619a212a349c777f", null ],
+    [ "events", "dd/d22/a16449.html#adfb6df0ee8ab19b58de24da8d4e6d9df", null ],
+    [ "pInstance", "dd/d22/a16449.html#afc140e6f9fc1ec78914aecc5150345b0", null ],
+    [ "TargetGUID", "dd/d22/a16449.html#a0d36e4903448c5a03115df0dff3480c8", null ]
 ];

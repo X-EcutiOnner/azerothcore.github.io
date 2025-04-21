@@ -1,7 +1,6 @@
 var a27061 =
 [
-    [ "PrepareAuraScript", "d8/d14/a27061.html#afeac0a8393b7d7bf787fca59988d0e14", null ],
-    [ "Register", "d8/d14/a27061.html#a7cbcf46dbdddea12fd6ce04bcbcea097", null ],
-    [ "TriggerFoodBuff", "d8/d14/a27061.html#a5d125413491dd377d61b8e30c4979fdd", null ],
-    [ "Validate", "d8/d14/a27061.html#a6b69d7358eb8cfe6a8f9efd47882eb80", null ]
+    [ "boss_taerarAI", "d7/da8/a27065.html", "d7/da8/a27065" ],
+    [ "boss_taerar", "d8/d14/a27061.html#a100c1b80a50faf93088db870faa21b58", null ],
+    [ "GetAI", "d8/d14/a27061.html#ae6615da6ee14c4f7cb3087b4ee5d6246", null ]
 ];

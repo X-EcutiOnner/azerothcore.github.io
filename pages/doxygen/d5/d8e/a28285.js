@@ -1,7 +1,7 @@
 var a28285 =
 [
-    [ "CalcPeriodic", "d5/d8e/a28285.html#af787d0c8738284e757f808e7d138bdc6", null ],
-    [ "PrepareAuraScript", "d5/d8e/a28285.html#a383db196133bbecee06fe443fdb1bc24", null ],
-    [ "Register", "d5/d8e/a28285.html#a1c617b5b26805b0feb468c55337f9d4c", null ],
-    [ "Update", "d5/d8e/a28285.html#af3f4a7b82e099313d609df7f85f02d00", null ]
+    [ "ClassMask", "d5/d8e/a28285.html#acae4582c147b5fd95780ae7b55d36fdc", null ],
+    [ "petTalentMask", "d5/d8e/a28285.html#a22ab1cf8ad05e57d91a63e3876ae2b77", null ],
+    [ "tabpage", "d5/d8e/a28285.html#aa6389276582adeb4cae76c257734795c", null ],
+    [ "TalentTabID", "d5/d8e/a28285.html#ae3a71c61223b59185365819164715dc2", null ]
 ];

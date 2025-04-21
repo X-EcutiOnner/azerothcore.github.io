@@ -1,6 +1,6 @@
 var a25597 =
 [
-    [ "lapseTeleport", "dd/d3d/a25597.html#a55c4330397214bf3a43628b3067d4634", null ],
-    [ "Execute", "dd/d3d/a25597.html#a122023ed13fce2f5bb3721e459964443", null ],
-    [ "_owner", "dd/d3d/a25597.html#a0e678c5cdb862390ea50c8d6057b7093", null ]
+    [ "FilterTargets", "dd/d3d/a25597.html#abe299fbad07f800e90b1614ec661c185", null ],
+    [ "PrepareSpellScript", "dd/d3d/a25597.html#a53bae2b6575436705adff74caf9225b7", null ],
+    [ "Register", "dd/d3d/a25597.html#a35fd5a1c8ab2400940da2d9f8f3ce9c2", null ]
 ];

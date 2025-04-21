@@ -1,7 +1,7 @@
 var a08777 =
 [
-    [ "CreatureRelocationNotifier", "d9/d3e/a08777.html#aa144cd2c5b69351afd312084c0e97f0d", null ],
-    [ "Visit", "d9/d3e/a08777.html#aa69e9bd551895ca3497d1bfbe5fa79ba", null ],
-    [ "Visit", "d9/d3e/a08777.html#a8b346c55d80a8ed92afa2e1f591f5807", null ],
-    [ "i_creature", "d9/d3e/a08777.html#a3116f6245816ba8fb9edb5995faa9927", null ]
+    [ "Done", "d9/d3e/a08777.html#abc88850d392fb4b62e778d09445de0be", null ],
+    [ "DoneWorldState", "d9/d3e/a08777.html#a380755d90c958b6532bae7f8a4d70b44", null ],
+    [ "MaxWorldState", "d9/d3e/a08777.html#a8c144531f876b6def613c0011e0efe47", null ],
+    [ "ReqNum", "d9/d3e/a08777.html#ae1d182aef449388993e4965de447d971", null ]
 ];

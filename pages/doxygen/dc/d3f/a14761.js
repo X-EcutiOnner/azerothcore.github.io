@@ -1,6 +1,12 @@
 var a14761 =
 [
-    [ "boss_mal_ganisAI", "d4/d5c/a14765.html", "d4/d5c/a14765" ],
-    [ "boss_mal_ganis", "dc/d3f/a14761.html#a604becb65e766f4fb71d2ae168d1be4e", null ],
-    [ "GetAI", "dc/d3f/a14761.html#aa747abd11310c3535ea2ea37e4aac28b", null ]
+    [ "boss_isalien", "dc/d3f/a14761.html#a736a25e60ae367a45c7d6451be96126d", null ],
+    [ "DamageTaken", "dc/d3f/a14761.html#a95d461e099193b5e2c1363acb1b5939a", null ],
+    [ "JustDied", "dc/d3f/a14761.html#a6544b5eb398eb2fc9cae05709e4a5cc1", null ],
+    [ "JustEngagedWith", "dc/d3f/a14761.html#ad6714da515db77c7299ee80b3268433e", null ],
+    [ "JustSummoned", "dc/d3f/a14761.html#a84a94a1a8889b48cd02d5cb6a205a487", null ],
+    [ "Reset", "dc/d3f/a14761.html#a4995c18e2baa62d05717617d0b1e3529", null ],
+    [ "UpdateAI", "dc/d3f/a14761.html#aa067bea34557a4b2fe840ef305852bc0", null ],
+    [ "_phase", "dc/d3f/a14761.html#a954bbd32948e6c416197199d96142056", null ],
+    [ "_scheduler", "dc/d3f/a14761.html#a8eb56a907e3395b9e81588aab7c07ca6", null ]
 ];

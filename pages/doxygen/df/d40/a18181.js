@@ -1,6 +1,6 @@
 var a18181 =
 [
-    [ "HandlePeriodicTick", "df/d40/a18181.html#a6604da6d3f20a03d33ed87eb3d1f9d6f", null ],
-    [ "PrepareAuraScript", "df/d40/a18181.html#af8c146d092873169283f6c15510b16d8", null ],
-    [ "Register", "df/d40/a18181.html#adae30afe7c6948fcfbe516c291d08c52", null ]
+    [ "HandleScript", "df/d40/a18181.html#aa05c6e510e933a71a6bce8d653632ebd", null ],
+    [ "PrepareSpellScript", "df/d40/a18181.html#add6b78f0396a34c36e0dff1928889e43", null ],
+    [ "Register", "df/d40/a18181.html#a587247f7417cefa2b8aa5a8edb8e2616", null ]
 ];

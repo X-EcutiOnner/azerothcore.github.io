@@ -1,6 +1,5 @@
 var a26937 =
 [
-    [ "HandleScriptEffect", "d8/d24/a26937.html#a884d0f5f8bf0f3515b4fedd54dd20ebf", null ],
-    [ "PrepareSpellScript", "d8/d24/a26937.html#a45151bb2eacdd642e8f11564d4ef0d65", null ],
-    [ "Register", "d8/d24/a26937.html#ae01695fd336fca36a7d2569ca741fba5", null ]
+    [ "achievement_everything_counts", "d8/d24/a26937.html#af18e6b3128a9d722c98f33f7ec6430b3", null ],
+    [ "OnCheck", "d8/d24/a26937.html#a81741a8df4d10b37314ec8ef09eb888b", null ]
 ];

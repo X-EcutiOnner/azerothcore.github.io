@@ -1,7 +1,10 @@
 var a09281 =
 [
-    [ "LootGroupInvalidSelector", "db/dd1/a09281.html#abea815e8ee0d31cc64b3fd7f46033cca", null ],
-    [ "operator()", "db/dd1/a09281.html#a2ea426fdeced03324c4a63184c2c1fc4", null ],
-    [ "_loot", "db/dd1/a09281.html#a67b9d223426512af79bbf5b035c18a6d", null ],
-    [ "_lootMode", "db/dd1/a09281.html#a10e307846a0731aa812388c29c0d4bc8", null ]
+    [ "NearestGameObjectEntryInObjectRangeCheck", "db/dd1/a09281.html#a7d57ae865868d4848caf088c4520b2a7", null ],
+    [ "NearestGameObjectEntryInObjectRangeCheck", "db/dd1/a09281.html#a28d97af524c2bab39e1bd2e5508e434b", null ],
+    [ "operator()", "db/dd1/a09281.html#ad0c6798e28784ed547102414f4c6a31f", null ],
+    [ "i_entry", "db/dd1/a09281.html#a5d19a23e7da2e5e5ed417d0a9623ffbb", null ],
+    [ "i_obj", "db/dd1/a09281.html#a104b8bece6ea78ba049dc592e54311be", null ],
+    [ "i_onlySpawned", "db/dd1/a09281.html#a2a58a6bcff73142e21c082bf2c11eff2", null ],
+    [ "i_range", "db/dd1/a09281.html#a94fc995a14f84060f3bfe5827f17b95e", null ]
 ];

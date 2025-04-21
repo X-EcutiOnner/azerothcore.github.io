@@ -1,6 +1,6 @@
 var a24789 =
 [
-    [ "spell_black_temple_spell_absorption_AuraScript", "d7/db5/a24793.html", "d7/db5/a24793" ],
-    [ "spell_black_temple_spell_absorption", "df/d7c/a24789.html#ae8aba7c7971bf775c11abdcc7d3e16c1", null ],
-    [ "GetAuraScript", "df/d7c/a24789.html#a66ba42a97ce67c08e7245f4b6d2c836c", null ]
+    [ "CheckAreaTarget", "df/d7c/a24789.html#a545323b9964ee4cb3c8d054fac4e2d55", null ],
+    [ "PrepareAuraScript", "df/d7c/a24789.html#a2b6dbd33e34357917f662000a1cd932f", null ],
+    [ "Register", "df/d7c/a24789.html#a7b4a2301b3a608ea5b2dd2504e02741d", null ]
 ];

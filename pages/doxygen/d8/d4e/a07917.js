@@ -1,12 +1,9 @@
 var a07917 =
 [
-    [ "WorldObjectChangeAccumulator", "d8/d4e/a07917.html#a853a5c84dec75f115eddd3e1b7ff0b78", null ],
-    [ "BuildPacket", "d8/d4e/a07917.html#ab4b9da3effe2a4f6e2cb6ecf268f429c", null ],
-    [ "Visit", "d8/d4e/a07917.html#ae18ca5886c95a6c4c00bdbc1920a5655", null ],
-    [ "Visit", "d8/d4e/a07917.html#a9afa50ac9e36cd357706e8e838df56a0", null ],
-    [ "Visit", "d8/d4e/a07917.html#aec62fc91f4b364e72a3d5afd5a1a7276", null ],
-    [ "Visit", "d8/d4e/a07917.html#a9815c06dbd29710cac2c99301c17b01c", null ],
-    [ "i_object", "d8/d4e/a07917.html#ab94d7f943107060caf742f9b6cca92e4", null ],
-    [ "i_playerSet", "d8/d4e/a07917.html#a0e17c2bf7a78cf5ef68e6fc7b29f0262", null ],
-    [ "i_updateDatas", "d8/d4e/a07917.html#a1446b9dae0dfc0325228870c815da23a", null ]
+    [ "cancelTime", "d8/d4e/a07917.html#ac1d5edf075556c488aff36799ee6cb96", null ],
+    [ "dungeons", "d8/d4e/a07917.html#a1e6c1deaf47dc835bbab7a1741a57fe2", null ],
+    [ "leader", "d8/d4e/a07917.html#ad92b0bd391dae5f934b7d6f8a39351d8", null ],
+    [ "rDungeonId", "d8/d4e/a07917.html#af07fdfed0b56211af723db06959013f6", null ],
+    [ "roles", "d8/d4e/a07917.html#a3759dc8140194b09be842365dc0053d7", null ],
+    [ "state", "d8/d4e/a07917.html#aa70ef2d83084359af7bcc9e2de60ce77", null ]
 ];

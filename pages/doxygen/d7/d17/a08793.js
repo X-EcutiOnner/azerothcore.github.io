@@ -1,9 +1,8 @@
 var a08793 =
 [
-    [ "ObjectUpdater", "d7/d17/a08793.html#ad907a266bcf4c059a49195eae4758541", null ],
-    [ "Visit", "d7/d17/a08793.html#a7dc639f90a38e6156a436ef6ff1204ec", null ],
-    [ "Visit", "d7/d17/a08793.html#a2ca08c1a3f3f23111bffbd423ca47b1c", null ],
-    [ "Visit", "d7/d17/a08793.html#a283b656ac784e64b98929eca83326027", null ],
-    [ "i_largeOnly", "d7/d17/a08793.html#a8f3e4ed206f6793edf9bf358d1bdf2c2", null ],
-    [ "i_timeDiff", "d7/d17/a08793.html#a4f1acae57c44d33449a8f040b02fa5e4", null ]
+    [ "Entry", "d7/d17/a08793.html#ac9fa29db15e06513805124a56cd073e8", null ],
+    [ "ExtendedCost", "d7/d17/a08793.html#ac826dc078ef456ed93bf23175bce243d", null ],
+    [ "Incrtime", "d7/d17/a08793.html#a95ce707d0a2b00e65c2cd4c5ddda1ea5", null ],
+    [ "Item", "d7/d17/a08793.html#aa500da847d94a9b70cb3a26b782059b3", null ],
+    [ "MaxCount", "d7/d17/a08793.html#a04534ff42e5889995b5203a3257bc864", null ]
 ];

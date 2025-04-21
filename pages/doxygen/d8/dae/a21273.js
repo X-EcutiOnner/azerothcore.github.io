@@ -1,7 +1,6 @@
 var a21273 =
 [
-    [ "boss_freya_lifebinderAI", "d8/dae/a21273.html#ae421aa209690e4a2908995b6b7d322cd", null ],
-    [ "Reset", "d8/dae/a21273.html#a972bd7d390d444e0ea2bc513d5d3816a", null ],
-    [ "UpdateAI", "d8/dae/a21273.html#afb06c217c1012d6463e44689359eada9", null ],
-    [ "_healTimer", "d8/dae/a21273.html#a7021d13dceb9af343f0e820cf086046e", null ]
+    [ "boss_zuramatAI", "da/d85/a21277.html", "da/d85/a21277" ],
+    [ "boss_zuramat", "d8/dae/a21273.html#a1d169e786dcf846026b48d9be389f9ab", null ],
+    [ "GetAI", "d8/dae/a21273.html#a1008c053a2c9ad14cf9ce994db931670", null ]
 ];

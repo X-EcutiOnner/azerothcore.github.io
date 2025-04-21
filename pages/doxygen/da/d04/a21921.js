@@ -1,8 +1,9 @@
 var a21921 =
 [
-    [ "boss_thorim_pillarAI", "da/d04/a21921.html#ae00c9e72f14e3f2c94da118a1fe27130", null ],
-    [ "Reset", "da/d04/a21921.html#ae9043ed9b72cc0eda6fb7c859355da57", null ],
-    [ "SpellHit", "da/d04/a21921.html#a1cb3ef9fdfc9e375d15e14b9230dd51e", null ],
-    [ "UpdateAI", "da/d04/a21921.html#afd8e05444eeea620a7ef21e97c345d41", null ],
-    [ "_resetTimer", "da/d04/a21921.html#a6ef7c9e23280564aec1b82eb670bc4f9", null ]
+    [ "npc_Apothecary_HanesAI", "da/d04/a21921.html#a8e209b142a58b3b3c0d84c430a086ade", null ],
+    [ "JustDied", "da/d04/a21921.html#a4c681936d8e7053ace5cdeeaa1ee5ca9", null ],
+    [ "Reset", "da/d04/a21921.html#a23d54542e6debf39798c2a2d6e2a255d", null ],
+    [ "UpdateEscortAI", "da/d04/a21921.html#ab54eb5115b9c41b39f0de0f8f4412ef9", null ],
+    [ "WaypointReached", "da/d04/a21921.html#a7105ea4c83ddd0fd08c96a0b0ff40bd2", null ],
+    [ "PotTimer", "da/d04/a21921.html#a252858818b61cf15e2e031ceaaadc6b8", null ]
 ];

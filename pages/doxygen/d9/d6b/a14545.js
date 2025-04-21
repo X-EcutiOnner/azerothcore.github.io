@@ -1,6 +1,7 @@
 var a14545 =
 [
-    [ "npc_doomfire_targettingAI", "dd/d30/a14549.html", "dd/d30/a14549" ],
-    [ "npc_doomfire_targetting", "d9/d6b/a14545.html#abf2cbdcd525177dd521189eaf13d9d49", null ],
-    [ "GetAI", "d9/d6b/a14545.html#a949a1135bb08d51aea38355bc7b4c0d2", null ]
+    [ "OnPeriodic", "d9/d6b/a14545.html#a4ed63f32afe3831d7fb08333ff1d379f", null ],
+    [ "PrepareAuraScript", "d9/d6b/a14545.html#a74be4e2b0f9c6254a87a7cfb8159fc9b", null ],
+    [ "Register", "d9/d6b/a14545.html#aeb388d608830aeb3b30f707304403b41", null ],
+    [ "Validate", "d9/d6b/a14545.html#af27768000c5c3232a1264f4f1f2bd7b3", null ]
 ];

@@ -1,9 +1,8 @@
 var a23421 =
 [
-    [ "npc_wounded_skirmisher", "d9/ddb/a23421.html#a30fe2d901df0cfd9b66f3dbd6a1e6aea", null ],
-    [ "Initialize", "d9/ddb/a23421.html#ae5fab920fcb16b57e0ed53a1177d319b", null ],
-    [ "JustEngagedWith", "d9/ddb/a23421.html#a80357b71a1eccdcdce8c8bea87de1b66", null ],
-    [ "Reset", "d9/ddb/a23421.html#acca266640c099718d2a0fd4f6a3c47ab", null ],
-    [ "SpellHit", "d9/ddb/a23421.html#a891e879af5da1f181c94e528c59a81f1", null ],
-    [ "UpdateAI", "d9/ddb/a23421.html#a52f8e7f8df05504cad4b4438c50814a4", null ]
+    [ "instance_gruuls_lair_InstanceMapScript", "d9/ddb/a23421.html#a1ad656ccd4d41c756c4f525d079fd9b6", null ],
+    [ "GetData", "d9/ddb/a23421.html#a410630dbbe00acf0b69603cfc357d503", null ],
+    [ "SetBossState", "d9/ddb/a23421.html#a9f0752eb0ec1d9ca0681ddc5fc8d3752", null ],
+    [ "SetData", "d9/ddb/a23421.html#a4cbe09489797fa0076d976f9a717a2bd", null ],
+    [ "_addsKilled", "d9/ddb/a23421.html#a7a003811fcf620f3c2d11ff3498cb298", null ]
 ];

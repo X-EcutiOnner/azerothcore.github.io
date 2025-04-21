@@ -1,6 +1,7 @@
 var a15569 =
 [
-    [ "npc_clintar_spiritAI", "da/d24/a15573.html", "da/d24/a15573" ],
-    [ "npc_clintar_spirit", "dc/d2e/a15569.html#a416f5eea882f2c13c4c0f7dd81d36a2b", null ],
-    [ "GetAI", "dc/d2e/a15569.html#a118198504f6f93c86302275a11582d60", null ]
+    [ "npc_paoka_swiftmountainAI", "da/d24/a15573.html", "da/d24/a15573" ],
+    [ "npc_paoka_swiftmountain", "dc/d2e/a15569.html#abb3f6fab7cca158c2e139159430f880a", null ],
+    [ "GetAI", "dc/d2e/a15569.html#a3f41d2caae5acb4b79bcc75780db03d2", null ],
+    [ "OnQuestAccept", "dc/d2e/a15569.html#a5bd4442350daf5a19bee1037a1b4d7b3", null ]
 ];

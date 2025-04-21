@@ -1,10 +1,10 @@
 var a25925 =
 [
-    [ "npc_infernal_attackerAI", "d5/dd7/a25925.html#ae04c4e026f22bd650bb33940b923df9a", null ],
-    [ "IsSummonedBy", "d5/dd7/a25925.html#a926e6cd6772784872a905de7245007ac", null ],
-    [ "JustDied", "d5/dd7/a25925.html#a1822131520f98dd5f1dd637282f20ae3", null ],
-    [ "Reset", "d5/dd7/a25925.html#a6c871d05d4fd0a6f72f409285f012f9c", null ],
-    [ "SpellHit", "d5/dd7/a25925.html#a956f3fb1e341519817599df08afc2589", null ],
-    [ "UpdateAI", "d5/dd7/a25925.html#a458ba4c884a95080e1088a07a04a9cb9", null ],
-    [ "casterGUID", "d5/dd7/a25925.html#ab2e791cc0a67012bc56c3b07e3f327e9", null ]
+    [ "CheckProc", "d5/dd7/a25925.html#a787008462dce35eb27deda41301b146d", null ],
+    [ "HandleProc", "d5/dd7/a25925.html#a5b791c7cb8dae574fef801ce42dc6aa1", null ],
+    [ "Load", "d5/dd7/a25925.html#a9760351c28f5f9948f0b64ae2ca91c24", null ],
+    [ "PrepareAuraScript", "d5/dd7/a25925.html#ab3d5e71597c67ec0aed70f7e5d2319ac", null ],
+    [ "Register", "d5/dd7/a25925.html#aa4ef731870355dc386fcd07c5f19d090", null ],
+    [ "Validate", "d5/dd7/a25925.html#ad04864f0710262364cf40e071446d87c", null ],
+    [ "_procTarget", "d5/dd7/a25925.html#a9383231fc71c6239507fdf8765d63f3d", null ]
 ];

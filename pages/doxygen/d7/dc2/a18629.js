@@ -1,6 +1,5 @@
 var a18629 =
 [
-    [ "ExtraRemoveEffect", "d7/dc2/a18629.html#addfecd826c293cacad0e5881726dca2e", null ],
-    [ "PrepareAuraScript", "d7/dc2/a18629.html#a53b7c14925d95c667bcef18a2e49b63d", null ],
-    [ "Register", "d7/dc2/a18629.html#a8930ecab6f6a2c7b2fa3ebfad2839117", null ]
+    [ "at_icc_shutdown_traps", "d7/dc2/a18629.html#aa13f5d78d3032e8114e9978f42468f64", null ],
+    [ "OnTrigger", "d7/dc2/a18629.html#abb31b3f6d0b159b625d731ac47127005", null ]
 ];

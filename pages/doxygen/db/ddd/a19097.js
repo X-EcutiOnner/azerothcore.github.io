@@ -1,6 +1,6 @@
 var a19097 =
 [
-    [ "npc_valkyr_shadowguardAI", "d1/db2/a19101.html", "d1/db2/a19101" ],
-    [ "npc_valkyr_shadowguard", "db/ddd/a19097.html#a8ee90e21499eebf240c57419454c3829", null ],
-    [ "GetAI", "db/ddd/a19097.html#ad84cb094a17e4fb88d3e883c98ce7f5a", null ]
+    [ "DespawnTime", "db/ddd/a19097.html#ae14c357137f16666c74e5f7e3f77aed5", null ],
+    [ "End", "db/ddd/a19097.html#ac87ea314ccf946eb1fa35985e35c81fd", null ],
+    [ "Start", "db/ddd/a19097.html#a985271de503fa704a58abe3e64c3b268", null ]
 ];

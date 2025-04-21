@@ -1,15 +1,13 @@
 var a21049 =
 [
-    [ "npc_mimirons_infernoAI", "d3/d3f/a21049.html#ae412b49c76e76b322e779665d895080f", null ],
-    [ "AttackStart", "d3/d3f/a21049.html#a5676eb2a790be80e539dd71a3b8e140a", null ],
-    [ "DoAction", "d3/d3f/a21049.html#a499301a57e57a54aa8f1249c12247be7", null ],
-    [ "JustSummoned", "d3/d3f/a21049.html#a586f15a02d77ed6831eb787e2bdf477c", null ],
-    [ "MoveInLineOfSight", "d3/d3f/a21049.html#a6ae48c92d9fec13d66c445a2176b58eb", null ],
-    [ "Reset", "d3/d3f/a21049.html#adf35df754ce212e9937f4b7833b81bf6", null ],
-    [ "SummonedCreatureDespawn", "d3/d3f/a21049.html#a8019ef0c505c6b71a44da13ed0dd081b", null ],
-    [ "UpdateAI", "d3/d3f/a21049.html#a661199c38d5bce921632191132767c32", null ],
-    [ "WaypointReached", "d3/d3f/a21049.html#a9619ab9bb68a3da71a6c78e4092632f4", null ],
-    [ "_recastTimer", "d3/d3f/a21049.html#ad6f7e7f6a745ba9b7b860030a9a22e9a", null ],
-    [ "_spellTimer", "d3/d3f/a21049.html#adc8ed31e1d0d2aac5bd75391b21b7bfb", null ],
-    [ "summons", "d3/d3f/a21049.html#ad3a5853ee86922f5854ddf757dada8e9", null ]
+    [ "npc_frenzied_worgenAI", "d3/d3f/a21049.html#a3a87e1285fb40a4fe31e7e9c2916f2a8", null ],
+    [ "DoAction", "d3/d3f/a21049.html#a7b7b34c2206cd1003c2abff3fb839c34", null ],
+    [ "JustDied", "d3/d3f/a21049.html#a33b723baef468ef79e67aaadba1b2691", null ],
+    [ "JustEngagedWith", "d3/d3f/a21049.html#a902bb6f89a2a210f2e0d18ebad7613f9", null ],
+    [ "JustReachedHome", "d3/d3f/a21049.html#a9b50182cd407811d0f0aeeba378a37ee", null ],
+    [ "MoveInLineOfSight", "d3/d3f/a21049.html#a3c2b76ccb6e00a24619f769f0d44ba2b", null ],
+    [ "Reset", "d3/d3f/a21049.html#adccac21b6eff18db096eb79dab4a27a0", null ],
+    [ "UpdateAI", "d3/d3f/a21049.html#ad83478b5946fd93e1b4fe7916342b1ee", null ],
+    [ "events", "d3/d3f/a21049.html#a8619650ae4396aafbdc1533f8b174ab8", null ],
+    [ "m_pInstance", "d3/d3f/a21049.html#a425720ce11714b145685f6d9c78a3dc1", null ]
 ];

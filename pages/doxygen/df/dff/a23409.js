@@ -1,7 +1,10 @@
 var a23409 =
 [
-    [ "npc_tallhorn_stagAI", "df/dff/a23409.html#a50947c450eece979193b45728e5e1f82", null ],
-    [ "Reset", "df/dff/a23409.html#a67dce7ad60ddea63fcba5e1e2079fa7c", null ],
-    [ "UpdateAI", "df/dff/a23409.html#adf60f62fa92238cb315c42e0179c3f17", null ],
-    [ "_phase", "df/dff/a23409.html#ace2ac6f418876393d2f6d3457b1bc4c0", null ]
+    [ "boss_blindeye_the_seer", "df/dff/a23409.html#a8b95c6f0a822adf018c5aefe59ecef5b", null ],
+    [ "JustDied", "df/dff/a23409.html#ad70a72b18587da82d26bde8f10d63700", null ],
+    [ "JustEngagedWith", "df/dff/a23409.html#a0cf082eefe75eac19cc09d2f714d5ff1", null ],
+    [ "Reset", "df/dff/a23409.html#aabbda75266615f64ce88ce092e68bfa4", null ],
+    [ "UpdateAI", "df/dff/a23409.html#a8ff8ae03cc528b9a2c71cfc2c7ff3f88", null ],
+    [ "_scheduler", "df/dff/a23409.html#a0c5ec6cf114a289e22d890c61d4bdc93", null ],
+    [ "instance", "df/dff/a23409.html#a74462f26d66da3ca370825858060b1c2", null ]
 ];

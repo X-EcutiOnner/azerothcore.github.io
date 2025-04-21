@@ -1,9 +1,5 @@
 var a26261 =
 [
-    [ "npc_pet_shaman_earth_elemental", "d3/d25/a26261.html#a07f3792cb3b5264d209f1b4726867773", null ],
-    [ "InitializeAI", "d3/d25/a26261.html#a8bbca6686ae324a50cd1598125280446", null ],
-    [ "JustEngagedWith", "d3/d25/a26261.html#ad9b48901b1d96e59ce60af6411a8baaf", null ],
-    [ "UpdateAI", "d3/d25/a26261.html#ab28951b483cab31bf5672fc74e7323e1", null ],
-    [ "_events", "d3/d25/a26261.html#ab7f72d0d574322965f1d0b23f144f1be", null ],
-    [ "_initAttack", "d3/d25/a26261.html#a2af73c97ef60b5b0ade26c9760b8b379", null ]
+    [ "spell_q55_sacred_cleansing", "d3/d25/a26261.html#a4aa8a16350a7a55706841471fd985ca2", null ],
+    [ "GetSpellScript", "d3/d25/a26261.html#a50a8f2d777169aaeef88533b66b88fb2", null ]
 ];

@@ -1,5 +1,6 @@
 var a14005 =
 [
-    [ "npc_brain_wash_totem", "d6/d25/a14005.html#acdecde614ba82d60ee4a10ace8545fdf", null ],
-    [ "EnterEvadeMode", "d6/d25/a14005.html#abd32e3210cc384c0c365826ca1fbae1e", null ]
+    [ "boss_renatakiAI", "d1/d23/a14009.html", "d1/d23/a14009" ],
+    [ "boss_renataki", "d6/d25/a14005.html#a8504ed2df8c8f8a85fc9d0e99cc24ec6", null ],
+    [ "GetAI", "d6/d25/a14005.html#a386b7ef3d1fc4070eb300cf4fdaa4d9a", null ]
 ];

@@ -1,8 +1,28 @@
 var a18109 =
 [
-    [ "HandlePeriodic", "dd/dfd/a18109.html#ab0abc8c294f1afe6b8082a70494b641f", null ],
-    [ "HandleRemove", "dd/dfd/a18109.html#a1e57ad32c03b581b4eee022217460a4f", null ],
-    [ "PrepareAuraScript", "dd/dfd/a18109.html#a848a6284ebc71aa0530098ad5200450a", null ],
-    [ "Register", "dd/dfd/a18109.html#a89fe18ad5dba2d04c4d920f7ba032434", null ],
-    [ "Validate", "dd/dfd/a18109.html#a5ecfd56f0c0a08ce12d36f26df9e56b0", null ]
+    [ "boss_the_lich_kingAI", "dd/dfd/a18109.html#ab8b78326fe92f51a9fe21943a3bb980c", null ],
+    [ "CanAIAttack", "dd/dfd/a18109.html#ae4ebbccc403bcc3621437a36f8678b93", null ],
+    [ "DamageTaken", "dd/dfd/a18109.html#a787f4d84930767b71b4af9e5092734c4", null ],
+    [ "DoAction", "dd/dfd/a18109.html#a179ff0d1381abc320efc88a4da0e1c2a", null ],
+    [ "EnterEvadeMode", "dd/dfd/a18109.html#a1d71569f5da22dd4046a76525bff6452", null ],
+    [ "GetData", "dd/dfd/a18109.html#a5b289363b4ac0b2be62a8df7deae8ed7", null ],
+    [ "JustDied", "dd/dfd/a18109.html#a80cfbecffa68f9fc42028ebdac0975c4", null ],
+    [ "JustEngagedWith", "dd/dfd/a18109.html#a401e1c529438c1ce08943ba2da8f1347", null ],
+    [ "JustSummoned", "dd/dfd/a18109.html#a0e1ab5732b70522e47036f067866eef3", null ],
+    [ "KilledUnit", "dd/dfd/a18109.html#acb8e6c03bbace5d66166c98c13a98290", null ],
+    [ "MovementInform", "dd/dfd/a18109.html#a4d66d60d0e129b3a873d0c91c03e02f4", null ],
+    [ "Reset", "dd/dfd/a18109.html#ad6653183f1dda6bfe3659a94993772ab", null ],
+    [ "SetData", "dd/dfd/a18109.html#a13f8561d1d131b7e57904678a64ae1de", null ],
+    [ "SpellHit", "dd/dfd/a18109.html#ac756adaba702219440fee3bfc2548f3c", null ],
+    [ "SpellHitTarget", "dd/dfd/a18109.html#a43ba267fd91585541e69e3911c0291d7", null ],
+    [ "SummonedCreatureDies", "dd/dfd/a18109.html#af81105d937124f49bd722ca787d31d58", null ],
+    [ "UpdateAI", "dd/dfd/a18109.html#a06c2609a2cff0d6b684dc197e6a29e9b", null ],
+    [ "_bFordringMustFallYell", "dd/dfd/a18109.html#a0e932a7e98d4e5d5fce8c35926acc185", null ],
+    [ "_bFrostmournePhase", "dd/dfd/a18109.html#af867d86aa20366bfbbfaf8083fe35271", null ],
+    [ "_lastTalkTimeBuff", "dd/dfd/a18109.html#af948b1ee8415f61e3d4fb8841c1ff9e3", null ],
+    [ "_lastTalkTimeKill", "dd/dfd/a18109.html#a9b94bb5efd74560dd8d653e0abfdbcf0", null ],
+    [ "_necroticPlagueStack", "dd/dfd/a18109.html#ad8a8a978402cc32046b67a42621d8d42", null ],
+    [ "_phase", "dd/dfd/a18109.html#ae069cec361b187a657a707d6613f32b7", null ],
+    [ "_positionCheckTimer", "dd/dfd/a18109.html#a94896994f59ab4c38479a5c97742128a", null ],
+    [ "_vileSpiritExplosions", "dd/dfd/a18109.html#a94f291e9cf428fe2912c666fa49360d8", null ]
 ];

@@ -1,5 +1,6 @@
 var a11757 =
 [
-    [ "at_dragonspire_hall", "dd/d6a/a11757.html#a6adb22f328a7324b2ecf70204ab26a6d", null ],
-    [ "OnTrigger", "dd/d6a/a11757.html#a0433930ec050a9dbeb60e1b1122772e3", null ]
+    [ "boss_galvangarAI", "d3/d95/a11761.html", "d3/d95/a11761" ],
+    [ "boss_galvangar", "dd/d6a/a11757.html#a3949cfd3c987bdf52d313568de9379ba", null ],
+    [ "GetAI", "dd/d6a/a11757.html#a9fd978eb38ae3e2d8d65cf4214e673e3", null ]
 ];

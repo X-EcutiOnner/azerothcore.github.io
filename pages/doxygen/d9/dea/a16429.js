@@ -1,6 +1,6 @@
 var a16429 =
 [
-    [ "spell_toc5_light_rain_SpellScript", "d6/d0c/a16433.html", "d6/d0c/a16433" ],
-    [ "spell_toc5_light_rain", "d9/dea/a16429.html#a35b12e09e6360712d9cb3ba237cb67e5", null ],
-    [ "GetSpellScript", "d9/dea/a16429.html#a5753899f6a9ef6b8840e67aa50df817a", null ]
+    [ "npc_mistress_of_painAI", "d6/d0c/a16433.html", "d6/d0c/a16433" ],
+    [ "npc_mistress_of_pain", "d9/dea/a16429.html#a0261ed835454725e0e5629c295be4330", null ],
+    [ "GetAI", "d9/dea/a16429.html#ae32e9b907e2e31556e72d7feb4e24e8a", null ]
 ];

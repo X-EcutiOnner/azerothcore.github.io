@@ -1,6 +1,6 @@
 var a12713 =
 [
-    [ "npc_fairbanksAI", "d9/d1d/a12717.html", "d9/d1d/a12717" ],
-    [ "npc_fairbanks", "d4/d2e/a12713.html#a7f4740bb99ce2ccc059bcb5b02057082", null ],
-    [ "GetAI", "d4/d2e/a12713.html#a58f4c8c8ca0a2d9696bf443aeeb00f95", null ]
+    [ "npc_image_of_medivhAI", "d9/d1d/a12717.html", "d9/d1d/a12717" ],
+    [ "npc_image_of_medivh", "d4/d2e/a12713.html#a55ee6f97bc7f144209927a2813cab6a9", null ],
+    [ "GetAI", "d4/d2e/a12713.html#a11769c47fda3f1c4d8d80329f70d1957", null ]
 ];

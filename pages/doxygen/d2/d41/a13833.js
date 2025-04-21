@@ -1,6 +1,6 @@
 var a13833 =
 [
-    [ "boss_zuljinAI", "d3/d0d/a13837.html", "d3/d0d/a13837" ],
-    [ "boss_zuljin", "d2/d41/a13833.html#ab8897eaa13c21ca4169bc54b5d9270f4", null ],
-    [ "GetAI", "d2/d41/a13833.html#a92eb91c259fe70f3eb6876941cb3406a", null ]
+    [ "npc_zulian_prowlerAI", "d3/d0d/a13837.html", "d3/d0d/a13837" ],
+    [ "npc_zulian_prowler", "d2/d41/a13833.html#a27ae990985976d02bb221b6d669fa849", null ],
+    [ "GetAI", "d2/d41/a13833.html#a7e7d4f8164bbb728a1b83244c1e356f9", null ]
 ];

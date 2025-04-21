@@ -1,8 +1,8 @@
 var a08929 =
 [
-    [ "FriendlyMissingBuffInRange", "dc/d04/a08929.html#a628fe94ce054a868977ef2a981bc5d6c", null ],
-    [ "operator()", "dc/d04/a08929.html#a6dce8a1248ebb4f3e57cd12a3d94b7b9", null ],
-    [ "i_obj", "dc/d04/a08929.html#aba43edf48b2b0184b52143707c3531f4", null ],
-    [ "i_range", "dc/d04/a08929.html#a54ba98f393a8bdf710f6bd65abee526c", null ],
-    [ "i_spell", "dc/d04/a08929.html#a7f34521e8789a1e1dabb867ed82ff438", null ]
+    [ "target_mapId", "dc/d04/a08929.html#af6d7558707c026a6d64f2d7b65a344be", null ],
+    [ "target_Orientation", "dc/d04/a08929.html#a5f6bf883e167b683e048ce9eeebb7cb0", null ],
+    [ "target_X", "dc/d04/a08929.html#a3ef5faea7a6fd9b173ea35036b3390b2", null ],
+    [ "target_Y", "dc/d04/a08929.html#a6660d360eaa47098506f246927130e32", null ],
+    [ "target_Z", "dc/d04/a08929.html#a32fee5f497804089feb738be84548dc1", null ]
 ];

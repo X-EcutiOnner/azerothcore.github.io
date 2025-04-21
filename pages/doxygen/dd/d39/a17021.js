@@ -1,6 +1,6 @@
 var a17021 =
 [
-    [ "HandleScriptEffect", "dd/d39/a17021.html#a9bc21e7cd5daa655b20fc457a9b7ae55", null ],
-    [ "PrepareSpellScript", "dd/d39/a17021.html#a85552d12187dcd8c27b50b558e5c6368", null ],
-    [ "Register", "dd/d39/a17021.html#a3e1a9426652c4dc3fc866cbc676945a0", null ]
+    [ "HandleDummy", "dd/d39/a17021.html#a5b56eabdba4e6c9e23fe5a40b20417fe", null ],
+    [ "PrepareSpellScript", "dd/d39/a17021.html#a6c53fed364a1a31cd170102d4d6878b1", null ],
+    [ "Register", "dd/d39/a17021.html#ac49eaa96ebb95a38f54a9bb6321f5585", null ]
 ];

@@ -1,6 +1,11 @@
 var a13461 =
 [
-    [ "spell_bh_cleanse_quel_delar_SpellScript", "d4/d63/a13465.html", "d4/d63/a13465" ],
-    [ "spell_bh_cleanse_quel_delar", "de/dd2/a13461.html#a21b51e14bd4b542dbdae318728f53a77", null ],
-    [ "GetSpellScript", "de/dd2/a13461.html#abb9f1e8a561c566732853332a6da6e13", null ]
+    [ "npc_supervisor_raelen", "de/dd2/a13461.html#a2059d41f6df3a44406ab69a0dca501a4", null ],
+    [ "CallPeasent", "de/dd2/a13461.html#a0b8d661a86ec334adeb502d6936135ee", null ],
+    [ "Reset", "de/dd2/a13461.html#a656029c56da84d2d3cee7380d6032e3d", null ],
+    [ "SetData", "de/dd2/a13461.html#ab709a5a975c22556dfe71dce52a3ec2c", null ],
+    [ "UpdateAI", "de/dd2/a13461.html#a623a95d4f3ca483d1bf3dff5e06c1958", null ],
+    [ "_events", "de/dd2/a13461.html#a1ed36b07ff83a6a8a202f4a451d90190", null ],
+    [ "_PeasentId", "de/dd2/a13461.html#ae3e44b8f29f05c771137c5b9afd5da56", null ],
+    [ "peasentGUIDs", "de/dd2/a13461.html#a6e290a29c8205b22bd668f0516e8904a", null ]
 ];

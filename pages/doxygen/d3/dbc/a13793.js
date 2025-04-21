@@ -1,6 +1,6 @@
 var a13793 =
 [
-    [ "npc_janalai_hatcherAI", "de/d23/a13797.html", "de/d23/a13797" ],
-    [ "npc_janalai_hatcher", "d3/dbc/a13793.html#a627d4bace66c009b63bada6616761769", null ],
-    [ "GetAI", "d3/dbc/a13793.html#a34d15764beb7365a6ae6b3e5b9d5520d", null ]
+    [ "OnEffect", "d3/dbc/a13793.html#ab87d53faac04ced3c11088e260782068", null ],
+    [ "PrepareSpellScript", "d3/dbc/a13793.html#af618e8d84029dda5e48b699cbcf671be", null ],
+    [ "Register", "d3/dbc/a13793.html#abcfe54b8901ec3c5e070b3c528ade26e", null ]
 ];

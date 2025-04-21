@@ -1,6 +1,6 @@
 var a24757 =
 [
-    [ "spell_black_temple_skeleton_shot_AuraScript", "d8/dd9/a24761.html", "d8/dd9/a24761" ],
-    [ "spell_black_temple_skeleton_shot", "d1/d70/a24757.html#adc55422435509706ce398f3fe5a3ba69", null ],
-    [ "GetAuraScript", "d1/d70/a24757.html#a1ea2a404c45076f9f3127b95dbe21091", null ]
+    [ "CheckProc", "d1/d70/a24757.html#a68d2d8168e405ea4250e2e43a1a350fa", null ],
+    [ "PrepareAuraScript", "d1/d70/a24757.html#a9d797e7bc7133f4a626f4352b2fe7141", null ],
+    [ "Register", "d1/d70/a24757.html#a5b96bb8c2ff456b63bbd200f54294251", null ]
 ];

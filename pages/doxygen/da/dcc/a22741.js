@@ -1,6 +1,7 @@
 var a22741 =
 [
-    [ "instance_vault_of_archavon_InstanceMapScript", "dc/ddd/a22745.html", "dc/ddd/a22745" ],
-    [ "instance_vault_of_archavon", "da/dcc/a22741.html#a0be8d95ff0f3b751e6f833689e436310", null ],
-    [ "GetInstanceScript", "da/dcc/a22741.html#abb955a8873a3a3021e164225dd1f857a", null ]
+    [ "boss_veras_darkshadow", "da/dcc/a22741.html#a7b33a5c8257954951ed19a2f8ce17b95", null ],
+    [ "JustEngagedWith", "da/dcc/a22741.html#a5eec3e70a7950073eced60d680ff6298", null ],
+    [ "JustSummoned", "da/dcc/a22741.html#afd6cb716cfdebccde99d71e1eb797d33", null ],
+    [ "UpdateAI", "da/dcc/a22741.html#a21f23998e3c3ecb79cbfa3c0d778f2d5", null ]
 ];

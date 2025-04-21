@@ -1,6 +1,6 @@
 var a19933 =
 [
-    [ "boss_anubrekhanAI", "d9/d46/a19937.html", "d9/d46/a19937" ],
-    [ "boss_anubrekhan", "db/d0d/a19933.html#a6ff866300f8b0b58d4b7467def9747c0", null ],
-    [ "GetAI", "db/d0d/a19933.html#aba5c31f182d6f600302f84ed21e9f7e9", null ]
+    [ "boss_freyaAI", "d9/d46/a19937.html", "d9/d46/a19937" ],
+    [ "boss_freya", "db/d0d/a19933.html#ae366f60526e7c948dee148cdd12f0752", null ],
+    [ "GetAI", "db/d0d/a19933.html#a6a2f5b402e99208a535fc3f23c2a0eb3", null ]
 ];

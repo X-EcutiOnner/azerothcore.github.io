@@ -1,6 +1,6 @@
 var a15761 =
 [
-    [ "HandleDummy", "de/d0a/a15761.html#a2750ae788168e7496ea2345c5535509c", null ],
-    [ "PrepareSpellScript", "de/d0a/a15761.html#a66b4187decbfb0b5623ce5630a8fa9d3", null ],
-    [ "Register", "de/d0a/a15761.html#ab6c961d89d22761402eb4f5881cbd318", null ]
+    [ "instance_ahnkahet_InstanceScript", "de/d98/a15765.html", "de/d98/a15765" ],
+    [ "instance_ahnkahet", "de/d0a/a15761.html#afbe11bc040019231878cf31cc357830b", null ],
+    [ "GetInstanceScript", "de/d0a/a15761.html#a8847099c88f11de363c45e27998f10b7", null ]
 ];

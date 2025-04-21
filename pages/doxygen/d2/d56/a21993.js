@@ -1,6 +1,7 @@
 var a21993 =
 [
-    [ "boss_xt002AI", "d5/dd2/a21997.html", "d5/dd2/a21997" ],
-    [ "boss_xt002", "d2/d56/a21993.html#aebd7e513b3bef6a25ad0f9766d18174e", null ],
-    [ "GetAI", "d2/d56/a21993.html#a146e4a10da7d81213e7f63d6e86c79f2", null ]
+    [ "Absorb", "d2/d56/a21993.html#a784b48553696734abac77545df2fc045", null ],
+    [ "CalculateAmount", "d2/d56/a21993.html#a456ee99a71062f6217bda7561e4e7766", null ],
+    [ "PrepareAuraScript", "d2/d56/a21993.html#a456b1b70fd6d9b6642ec959677fe08ff", null ],
+    [ "Register", "d2/d56/a21993.html#aa3260fa9a1a918e13ccfc9cd57f59d19", null ]
 ];

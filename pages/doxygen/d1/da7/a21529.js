@@ -1,5 +1,6 @@
 var a21529 =
 [
-    [ "achievement_i_have_the_coolest_friends", "d1/da7/a21529.html#a87fd2d5702fe33ee8b09042c66897636", null ],
-    [ "OnCheck", "d1/da7/a21529.html#aa77aa6129967601ede2f3fc44b2ee1aa", null ]
+    [ "npc_thassarian2AI", "d0/d13/a21533.html", "d0/d13/a21533" ],
+    [ "npc_thassarian2", "d1/da7/a21529.html#a8a2f1e1595349e4fa9968e85f17d0468", null ],
+    [ "GetAI", "d1/da7/a21529.html#adb87c99f3375f88eca55b39e1cd0bbd5", null ]
 ];

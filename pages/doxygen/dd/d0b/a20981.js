@@ -1,6 +1,7 @@
 var a20981 =
 [
-    [ "spell_auriaya_sentinel_blast_SpellScript", "df/d35/a20985.html", "df/d35/a20985" ],
-    [ "spell_auriaya_sentinel_blast", "dd/d0b/a20981.html#a03b5b4462bcefc0601625ee9d9ae0f06", null ],
-    [ "GetSpellScript", "dd/d0b/a20981.html#a4bf3a6db96d9424bc6383ce92f2b6782", null ]
+    [ "HandleEffectPeriodic", "dd/d0b/a20981.html#a5741a78ba0cc8c723e80b1847b3eb1bc", null ],
+    [ "PrepareAuraScript", "dd/d0b/a20981.html#a748cd347867557b5048d9ba0c112cd80", null ],
+    [ "Register", "dd/d0b/a20981.html#a3c24d37ab4a6e16a577983c3f6bc2722", null ],
+    [ "Validate", "dd/d0b/a20981.html#afa86789ef14b1d06094705ba6cfb9205", null ]
 ];

@@ -1,6 +1,7 @@
 var a17889 =
 [
-    [ "spell_deathbringer_blood_link_AuraScript", "d7/d6d/a17893.html", "d7/d6d/a17893" ],
-    [ "spell_deathbringer_blood_link_aura", "da/d2f/a17889.html#ad1d80299ef39a896b4fa5937f69952ab", null ],
-    [ "GetAuraScript", "da/d2f/a17889.html#a0224c55dd7b310be3f503897a40bd29a", null ]
+    [ "HandleScript", "da/d2f/a17889.html#aa579f99f704f4db50b38b5f9b87259d7", null ],
+    [ "PrepareSpellScript", "da/d2f/a17889.html#a92a6f2b0d5a0845e35c07d0b5cefe053", null ],
+    [ "Register", "da/d2f/a17889.html#a2278ecef3dc60082ccb8964a34e55587", null ],
+    [ "Validate", "da/d2f/a17889.html#aeee94330ee7ea9b4fd7447e642404119", null ]
 ];

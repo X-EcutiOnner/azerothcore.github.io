@@ -1,5 +1,6 @@
 var a19281 =
 [
-    [ "achievement_been_waiting_long_time", "dc/d86/a19281.html#a839ec8cb50512bbae7125ead3ed35aec", null ],
-    [ "OnCheck", "dc/d86/a19281.html#a5e72304220d3a649d2182cb287215da6", null ]
+    [ "boss_eregosAI", "d6/d4a/a19285.html", "d6/d4a/a19285" ],
+    [ "boss_eregos", "dc/d86/a19281.html#a105820f29aa1391d77a56e024c4b5637", null ],
+    [ "GetAI", "dc/d86/a19281.html#aee43f0dfee70ab9618c560a27504cb02", null ]
 ];

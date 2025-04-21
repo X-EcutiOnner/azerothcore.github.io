@@ -1,6 +1,8 @@
 var a27401 =
 [
-    [ "HandleOnEffectHit", "de/d85/a27401.html#a07157e7255d52acf6eb5d5e5c17e2190", null ],
-    [ "PrepareSpellScript", "de/d85/a27401.html#a0b2fd34dda3b23b574f6a5a0c4435006", null ],
-    [ "Register", "de/d85/a27401.html#a59c6a1618faa5a44e1c37337b39a3cba", null ]
+    [ "npc_franklinAI", "de/db8/a27405.html", "de/db8/a27405" ],
+    [ "npc_franklin", "de/d85/a27401.html#aab059dfa69e52083892e3170c8838e0a", null ],
+    [ "GetAI", "de/d85/a27401.html#a10933878afe9d0cc78fa1113341fd522", null ],
+    [ "OnGossipHello", "de/d85/a27401.html#a318d512914b135800caabe0efbb1c467", null ],
+    [ "OnGossipSelect", "de/d85/a27401.html#a8c37ff7ff15cc9ac49dadabd1650964d", null ]
 ];

@@ -1,6 +1,9 @@
 var a10725 =
 [
-    [ "ChannelTargetData", "d6/da1/a10725.html#a26f2a2037750712d8718d9537603e3a1", null ],
-    [ "channelGUID", "d6/da1/a10725.html#afad1c896d6a137ebb224fd636ba4d7f2", null ],
-    [ "spellDst", "d6/da1/a10725.html#aa5cfec093a599f4bf33ebf0c73a2f4ac", null ]
+    [ "Weather", "d6/da1/a10725.html#aa404c94fec05b825454a7309827767c6", null ],
+    [ "Weather", "d6/da1/a10725.html#a28f45d81441d2dde6917380978dfb4d0", null ],
+    [ "Write", "d6/da1/a10725.html#a641c7de3e527dcdff07b3f602880b5c8", null ],
+    [ "Abrupt", "d6/da1/a10725.html#a0abe1fcb36d21ac246174cdc98c0e261", null ],
+    [ "Intensity", "d6/da1/a10725.html#ac37cee2364921a50e2b1ec1b19ed69b7", null ],
+    [ "WeatherID", "d6/da1/a10725.html#a32e56458b1e562c124cfc0288a578134", null ]
 ];

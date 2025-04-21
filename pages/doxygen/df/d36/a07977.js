@@ -1,10 +1,8 @@
 var a07977 =
 [
-    [ "ObjectGuidGeneratorBase", "df/d36/a07977.html#a8af6741cc884915ee86b489fc970fed1", null ],
-    [ "~ObjectGuidGeneratorBase", "df/d36/a07977.html#aaa4430614e899fb1186f52875cf8d2ea", null ],
-    [ "Generate", "df/d36/a07977.html#a7a6d9e5a78eef31007a46c10805c3fbe", null ],
-    [ "GetNextAfterMaxUsed", "df/d36/a07977.html#abf1f20b97af8071459bd850e7106a442", null ],
-    [ "HandleCounterOverflow", "df/d36/a07977.html#ada7a44ac47b112491c575c38465740fc", null ],
-    [ "Set", "df/d36/a07977.html#a18b016edddec211c9cc4b0ff8682cb30", null ],
-    [ "_nextGuid", "df/d36/a07977.html#a4a14102e019aa10f41b050054cacca22", null ]
+    [ "TemporaryThreatModifierEvent", "df/d36/a07977.html#afd58a1128ac6629d7541ba1bfd4ef886", null ],
+    [ "Execute", "df/d36/a07977.html#a2bbd75ad5e293e78e4bffe880f371d1e", null ],
+    [ "m_owner", "df/d36/a07977.html#ab786c99d73f0048a993ce7cee8c3b875", null ],
+    [ "m_threatValue", "df/d36/a07977.html#aacb0f6e66d22a93ff074b4cbcf12b788", null ],
+    [ "m_threatVictimGUID", "df/d36/a07977.html#aeae82bd80c9b8b08573c6e3baf359f55", null ]
 ];

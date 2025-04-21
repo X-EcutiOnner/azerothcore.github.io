@@ -1,6 +1,10 @@
 var a10149 =
 [
-    [ "EmoteClient", "d9/db6/a10149.html#af98c098cb1019057d8027f39c168e1a9", null ],
-    [ "Read", "d9/db6/a10149.html#abad5fca865b7b99e595ce95137e8105c", null ],
-    [ "EmoteID", "d9/db6/a10149.html#a24503de36535106220984ffbf6ba0338", null ]
+    [ "Flags", "d9/db6/a10149.html#abf9c2701e766951e5a211bf6bf85b175", null ],
+    [ "ID", "d9/db6/a10149.html#a946b8f7244fd22c4afcb26373ee61a13", null ],
+    [ "needSave", "d9/db6/a10149.html#aae888b1bf10f654ee212f3d687c111e9", null ],
+    [ "needSend", "d9/db6/a10149.html#ab8692e4433db81f9d3e0f96f8f930a8f", null ],
+    [ "ReputationListID", "d9/db6/a10149.html#a052caeeae1ecdca831097591e0fddaf6", null ],
+    [ "roundedUp", "d9/db6/a10149.html#a287fe9e8ec5da58ae3f5096045eebf31", null ],
+    [ "Standing", "d9/db6/a10149.html#ae87da6cada559e11a9607e194013d671", null ]
 ];

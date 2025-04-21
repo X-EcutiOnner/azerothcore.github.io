@@ -1,13 +1,10 @@
 var a10341 =
 [
-    [ "GuildBankQueryResults", "d1/d0c/a10341.html#a8203a35b76fdc674794c5bd3c1acb9ed", null ],
-    [ "SetWithdrawalsRemaining", "d1/d0c/a10341.html#a52af0d2b4e092daf0719bdf325c51652", null ],
-    [ "Write", "d1/d0c/a10341.html#a4598c0c9d1f94c5aa0671f210e1597d4", null ],
-    [ "_withdrawalsRemainingPos", "d1/d0c/a10341.html#abe711cd2da225fdc73eabe2ad6bd3f5d", null ],
-    [ "FullUpdate", "d1/d0c/a10341.html#a42ca9b48981d7d338aecb7840c248f0f", null ],
-    [ "ItemInfo", "d1/d0c/a10341.html#ad799195b259f92aa4e71e1ee8fd99741", null ],
-    [ "Money", "d1/d0c/a10341.html#ad401eb3444f5ae50781e634e1f55eba1", null ],
-    [ "Tab", "d1/d0c/a10341.html#a72ac06ace5e7974d666e3fc3d626e3c0", null ],
-    [ "TabInfo", "d1/d0c/a10341.html#ad36f0ae1d897ef504ad9761c00db77ca", null ],
-    [ "WithdrawalsRemaining", "d1/d0c/a10341.html#a211288bde5a15f2d21df65acf087c7d0", null ]
+    [ "ArgsType", "d1/d0c/a10341.html#a4ea4d3b165a196482ebe96af9c462658", null ],
+    [ "AuraScriptType", "d1/d0c/a10341.html#a7b2a19d6c7c75c0df22eae17b0c8e90a", null ],
+    [ "SpellScriptType", "d1/d0c/a10341.html#a790a8ef2b59bfe6298486648858506ed", null ],
+    [ "GenericSpellAndAuraScriptLoader", "d1/d0c/a10341.html#ab1bd69d57c6e2322044b8f7cf46cedb6", null ],
+    [ "GetAuraScript", "d1/d0c/a10341.html#a5f3c898a0dc6d9085589b88eb5571528", null ],
+    [ "GetSpellScript", "d1/d0c/a10341.html#a913fa28d2a2cf100ce73cf641e333e01", null ],
+    [ "_args", "d1/d0c/a10341.html#aad6527f64ede0d896880ffa90d05a378", null ]
 ];

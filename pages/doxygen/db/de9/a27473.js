@@ -1,6 +1,10 @@
 var a27473 =
 [
-    [ "HandleScript", "db/de9/a27473.html#ab923050ce4613538ee4837daba09dd33", null ],
-    [ "PrepareSpellScript", "db/de9/a27473.html#a9fa37b95f9c3788764922f4414c383f5", null ],
-    [ "Register", "db/de9/a27473.html#a4bacedda40b04934e7473f7a92f6a314", null ]
+    [ "npc_dancing_flamesAI", "db/de9/a27473.html#a3d597b2ee826c86b5a8feb3aa144a459", null ],
+    [ "JustEngagedWith", "db/de9/a27473.html#ae0d71d4f9074c05ea76951ede6c7702a", null ],
+    [ "ReceiveEmote", "db/de9/a27473.html#a13aae489e8b03121c8fbae12e83bdfaa", null ],
+    [ "Reset", "db/de9/a27473.html#a53b49dadc70e3e134ca49cd239b569d6", null ],
+    [ "UpdateAI", "db/de9/a27473.html#a555f2ed0d762c5c183ec87580bae46b1", null ],
+    [ "Active", "db/de9/a27473.html#aa79036bed206327847bf5ad2e768e8f6", null ],
+    [ "CanIteract", "db/de9/a27473.html#a866bfc106fc33433b4eb13fabd9c39c6", null ]
 ];

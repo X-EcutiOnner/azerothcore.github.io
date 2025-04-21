@@ -1,6 +1,5 @@
 var a12121 =
 [
-    [ "boss_shazzrahAI", "dc/dda/a12121.html#a984b3d32d5f231a019f2c0f1bb027907", null ],
-    [ "ExecuteEvent", "dc/dda/a12121.html#a0f6e3e6876b9b769ea53db5c9028c6ff", null ],
-    [ "JustEngagedWith", "dc/dda/a12121.html#aaa8111d42cacd58f767513026976668c", null ]
+    [ "at_scarshield_infiltrator", "dc/dda/a12121.html#a2d1df47353c9a7e0d506b7c54e7be58e", null ],
+    [ "OnTrigger", "dc/dda/a12121.html#a607c3ee2bd4716cf1e0499e202d379fc", null ]
 ];

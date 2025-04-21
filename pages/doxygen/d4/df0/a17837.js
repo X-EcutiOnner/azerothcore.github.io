@@ -1,6 +1,8 @@
 var a17837 =
 [
-    [ "spell_blood_queen_swarming_shadows_floor_dmg_SpellScript", "d6/de2/a17841.html", "d6/de2/a17841" ],
-    [ "spell_blood_queen_swarming_shadows_floor_dmg", "d4/df0/a17837.html#ab9b959e1efc7d42622f6216d787a8bb6", null ],
-    [ "GetSpellScript", "d4/df0/a17837.html#aa9f8a29b7f593ff8b87b589dedbe0b4d", null ]
+    [ "HandleScript", "d4/df0/a17837.html#a9f3cef57312626ae1884c36ad4bfdca6", null ],
+    [ "PrepareSpellScript", "d4/df0/a17837.html#a2ba03324afacf8da8e5fe6bc725e4d2f", null ],
+    [ "Register", "d4/df0/a17837.html#a9b0e0427b7f8abbd0e9d556ccc581aeb", null ],
+    [ "SelectTarget", "d4/df0/a17837.html#a36d575c6a63e94905bf435bc9d39e588", null ],
+    [ "Validate", "d4/df0/a17837.html#afc4a6277e3a7419b6a4aaa99f6697b91", null ]
 ];

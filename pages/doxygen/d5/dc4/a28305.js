@@ -1,8 +1,6 @@
 var a28305 =
 [
-    [ "spell_rog_killing_spree_AuraScript", "dc/dfd/a28313.html", "dc/dfd/a28313" ],
-    [ "spell_rog_killing_spree_SpellScript", "db/d41/a28309.html", "db/d41/a28309" ],
-    [ "spell_rog_killing_spree", "d5/dc4/a28305.html#a5ccbad5a5401df5eb6124506a6f555e3", null ],
-    [ "GetAuraScript", "d5/dc4/a28305.html#acf9cb243d57d47dfd416484242d5b45d", null ],
-    [ "GetSpellScript", "d5/dc4/a28305.html#ac1079a78cad04c762a9a8e77680a5bae", null ]
+    [ "categoryMask", "d5/dc4/a28305.html#abd8816e5dda7bda455ccd6932647c4be", null ],
+    [ "categoryType", "d5/dc4/a28305.html#a954f9fca8d0d84d5aec66f4a3f642f96", null ],
+    [ "ID", "d5/dc4/a28305.html#a2e0f0cb7a05da77dee49bd7221c01d60", null ]
 ];

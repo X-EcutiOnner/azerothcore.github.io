@@ -1,5 +1,5 @@
 var a01238 =
 [
-    [ "CellArea", "d4/d8e/a09018.html", "d4/d8e/a09018" ],
-    [ "Cell", "da/d11/a09022.html", "da/d11/a09022" ]
+    [ "CellArea", "da/d15/a09021.html", "da/d15/a09021" ],
+    [ "Cell", "de/d81/a09025.html", "de/d81/a09025" ]
 ];

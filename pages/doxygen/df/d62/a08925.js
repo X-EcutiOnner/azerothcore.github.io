@@ -1,7 +1,7 @@
 var a08925 =
 [
-    [ "FriendlyCCedInRange", "df/d62/a08925.html#ae8dcff3f285f208b0db8aa3efed202a1", null ],
-    [ "operator()", "df/d62/a08925.html#a0e241f930cee855664aeac3604d5c023", null ],
-    [ "i_obj", "df/d62/a08925.html#a73d3e29bbdc7fd4aa162be3cb7ecbe08", null ],
-    [ "i_range", "df/d62/a08925.html#a49e79f3aea0c7e8c321c9f297b71a9b2", null ]
+    [ "IsFitToRequirements", "df/d62/a08925.html#ac175634ed2eab2911c3749fa208a073a", null ],
+    [ "castFlags", "df/d62/a08925.html#a03cd65a460ea252818de9230cb656c1c", null ],
+    [ "spellId", "df/d62/a08925.html#a34641755a5267b7a907d320cc5b4ddb4", null ],
+    [ "userType", "df/d62/a08925.html#adcf285572403481cb418bddebc5f4bfa", null ]
 ];

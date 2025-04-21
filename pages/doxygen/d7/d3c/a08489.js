@@ -1,7 +1,9 @@
 var a08489 =
 [
-    [ "done", "d7/d3c/a08489.html#a498ebc454773a2c4c8d9452ed5bd3015", null ],
-    [ "done_world_state", "d7/d3c/a08489.html#a679379a2b44542e74d103ba851811b52", null ],
-    [ "max_world_state", "d7/d3c/a08489.html#a819dcff56a5795a63146aca64b46811b", null ],
-    [ "reqNum", "d7/d3c/a08489.html#ae74eb755e1a6f5d8800790351f662d21", null ]
+    [ "ActionButton", "d7/d3c/a08489.html#a78f4e95d921fb997647f89c67c2a66b7", null ],
+    [ "GetAction", "d7/d3c/a08489.html#a7c10f6089fab30179cfe8175b740477a", null ],
+    [ "GetType", "d7/d3c/a08489.html#abe5bc143770d411cff0d8c8c425b1253", null ],
+    [ "SetActionAndType", "d7/d3c/a08489.html#a29d804ed78d79f64e868e9741b37d7be", null ],
+    [ "packedData", "d7/d3c/a08489.html#a2a34a116c4890a12255f9ebe24c1cba8", null ],
+    [ "uState", "d7/d3c/a08489.html#a6384e73650da93c96d3b4cc42b151b63", null ]
 ];

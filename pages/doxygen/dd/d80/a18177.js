@@ -1,6 +1,9 @@
 var a18177 =
 [
-    [ "spell_igb_periodic_trigger_with_power_cost_AuraScript", "df/d40/a18181.html", "df/d40/a18181" ],
-    [ "spell_igb_periodic_trigger_with_power_cost", "dd/d80/a18177.html#a98148d3002ff8c3615b77bbdde33618a", null ],
-    [ "GetAuraScript", "dd/d80/a18177.html#a3d6b6f45db80521f2a59fa6044e419e0", null ]
+    [ "npc_icc_ice_sphereAI", "dd/d80/a18177.html#a685f45e5cd15b005646e596ff61088e8", null ],
+    [ "DoAction", "dd/d80/a18177.html#ac056ecdd93bc716964054f38ab81014e", null ],
+    [ "SelectNewTarget", "dd/d80/a18177.html#a9274e05e45c07d14c7df5c623e2769d4", null ],
+    [ "UpdateAI", "dd/d80/a18177.html#a5a4117de9e45cea9e9086b3b4daed404", null ],
+    [ "targetGUID", "dd/d80/a18177.html#a3e202f9bde2a202d329066f7aab8897c", null ],
+    [ "timer", "dd/d80/a18177.html#a42842e92926e18ef2589687d81a7d0d4", null ]
 ];

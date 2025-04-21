@@ -1,6 +1,6 @@
 var a02015 =
 [
-    [ "AISpellInfoType", "dc/d71/a06146.html", "dc/d71/a06146" ],
+    [ "AISpellInfoType", "d9/d6f/a06149.html", "d9/d6f/a06149" ],
     [ "AI_DEFAULT_COOLDOWN", "de/d0a/a02015.html#a41c947edd84b4f2bb45133dc7aa00cad", null ],
     [ "AICondition", "de/d0a/a02015.html#ac43b18581ae7a7b66984b1003502d5af", [
       [ "AICOND_AGGRO", "de/d0a/a02015.html#ac43b18581ae7a7b66984b1003502d5afac41d9d90387a55a0b5be34e13683f9c8", null ],

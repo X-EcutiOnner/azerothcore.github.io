@@ -1,7 +1,8 @@
 var a23309 =
 [
-    [ "FilterTargets", "d1/dde/a23309.html#a70f2e6e1c7b6b41baa6f50ea7372042b", null ],
-    [ "HandleScript", "d1/dde/a23309.html#a38ac1b5d9534b30988c236b64eaa85a6", null ],
-    [ "PrepareSpellScript", "d1/dde/a23309.html#a41119290cf8893f887143575ce2bcf08", null ],
-    [ "Register", "d1/dde/a23309.html#a505f0d3ed2f11134fb90af04a68005fc", null ]
+    [ "boss_hungarfen", "d1/dde/a23309.html#a009b8d34731d2310a53195024b434935", null ],
+    [ "JustEngagedWith", "d1/dde/a23309.html#a3612bb373ecdba4245587fd94257ba62", null ],
+    [ "Reset", "d1/dde/a23309.html#a4b310eff8af9a33c50ae8f2035ba76ad", null ],
+    [ "UpdateAI", "d1/dde/a23309.html#a1765bd54c04a3479e837b3d0e241300e", null ],
+    [ "_scheduler", "d1/dde/a23309.html#a702185681abb6cfc4add7078ff5bbb52", null ]
 ];

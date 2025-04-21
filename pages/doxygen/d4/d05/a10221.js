@@ -1,6 +1,6 @@
 var a10221 =
 [
-    [ "GuildInviteByName", "d4/d05/a10221.html#a5e0bab98d87000ad796ebb2753cd566b", null ],
-    [ "Read", "d4/d05/a10221.html#a91f3fba33e265cbb119f1d3e69d4a8ca", null ],
-    [ "Name", "d4/d05/a10221.html#a048c7ed9de19bcb57c0cdb10e2cf3bef", null ]
+    [ "BattlegroundScript", "d4/d05/a10221.html#a306231f1c7346a00a3f877c7cef3897b", null ],
+    [ "GetBattleground", "d4/d05/a10221.html#a782c6e81f4ed9a63f9276dcc4f0f9116", null ],
+    [ "IsDatabaseBound", "d4/d05/a10221.html#a35b571d570c85a861af6f949b51453cb", null ]
 ];

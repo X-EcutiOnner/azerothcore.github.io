@@ -1,6 +1,6 @@
 var a23713 =
 [
-    [ "npc_vekjik", "d7/df9/a23713.html#a7439c6038237b77ba8623ae92d6cf708", null ],
-    [ "OnGossipHello", "d7/df9/a23713.html#acdbba5b4970049e72477eccf6672b0e8", null ],
-    [ "OnGossipSelect", "d7/df9/a23713.html#a0bcdcb6cd57264e664c449e261d3580b", null ]
+    [ "AfterRemove", "d7/df9/a23713.html#a1794dcf8ebca0bd0c4fce5acb8b45de0", null ],
+    [ "PrepareAuraScript", "d7/df9/a23713.html#ad5871ce865820456177362c6b790778f", null ],
+    [ "Register", "d7/df9/a23713.html#a41e19fb2509051bbd2d9e43c59f16486", null ]
 ];

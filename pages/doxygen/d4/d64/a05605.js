@@ -1,11 +1,9 @@
 var a05605 =
 [
-    [ "AppenderDB", "d4/d64/a05605.html#af8e48076d47a06c73f6b8ae054955a83", null ],
-    [ "~AppenderDB", "d4/d64/a05605.html#a7da848083d02833acc632051a2d938bf", null ],
-    [ "_write", "d4/d64/a05605.html#af38ab76e4d3ea9ebe864582c0030c49a", null ],
-    [ "getType", "d4/d64/a05605.html#a96221ceed23435556df03c5f7ffab61e", null ],
-    [ "setRealmId", "d4/d64/a05605.html#a769ff59f4dbbff1b77398dd20c016ace", null ],
-    [ "enabled", "d4/d64/a05605.html#a55e70394d0a7f321e0cf75a9b822b482", null ],
-    [ "realmId", "d4/d64/a05605.html#a5c9bf2ae429c0903cffe9a01c03b6028", null ],
-    [ "type", "d4/d64/a05605.html#a8d9968c073ee16a8fe082254ec232ebb", null ]
+    [ "A", "d4/d64/a05605.html#ab94666c9208b481061cd81382ce94a5a", null ],
+    [ "clientM", "d4/d64/a05605.html#a65b25700c577d338e902dc47b4712433", null ],
+    [ "cmd", "d4/d64/a05605.html#a51b29f49e940bffa67988d9bc2b16aa4", null ],
+    [ "crc_hash", "d4/d64/a05605.html#af2ce94f814a0008c953229fb9cdff454", null ],
+    [ "number_of_keys", "d4/d64/a05605.html#ad8f9f53d462f1abd5c81413e0ed8b0a7", null ],
+    [ "securityFlags", "d4/d64/a05605.html#ae2ab466af9513c15cbcea7a20e97ddc5", null ]
 ];

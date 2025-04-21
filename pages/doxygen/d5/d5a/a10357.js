@@ -1,7 +1,10 @@
 var a10357 =
 [
-    [ "GuildBankLogQueryResults", "d5/d5a/a10357.html#a878f9545b3141a327de85771de4f1779", null ],
-    [ "Write", "d5/d5a/a10357.html#aafdb5114c7d0e8a2d18a848f3c94aa38", null ],
-    [ "Entry", "d5/d5a/a10357.html#a5f3704df5311f06833c3243201d35930", null ],
-    [ "Tab", "d5/d5a/a10357.html#a214db612bb08e557dd41d3962c827dca", null ]
+    [ "VehicleScript", "d5/d5a/a10357.html#a9f708a7e432fcb4abe15dcabb0e5a035", null ],
+    [ "OnAddPassenger", "d5/d5a/a10357.html#a4495f8900ecb85546ac23ebe4783ae7c", null ],
+    [ "OnInstall", "d5/d5a/a10357.html#abbb42dcbc5fad97ed1df45ea7b3afe54", null ],
+    [ "OnInstallAccessory", "d5/d5a/a10357.html#ad59ae4c47404abb86e05ae983704f6ea", null ],
+    [ "OnRemovePassenger", "d5/d5a/a10357.html#ad4094366aba1fb6a1ff19361d1be9210", null ],
+    [ "OnReset", "d5/d5a/a10357.html#a38fca3fec8785f015084b832f9e3b08c", null ],
+    [ "OnUninstall", "d5/d5a/a10357.html#a7d4bafe42756ee73b5ce79783842c243", null ]
 ];

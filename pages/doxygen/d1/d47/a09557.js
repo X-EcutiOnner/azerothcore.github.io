@@ -1,10 +1,9 @@
 var a09557 =
 [
-    [ "ChaseRange", "d1/d47/a09557.html#acd43ed01c9e4845d82e4d240b5c35167", null ],
-    [ "ChaseRange", "d1/d47/a09557.html#aaf19c63398d31699ed1703ae1ba5f1b6", null ],
-    [ "ChaseRange", "d1/d47/a09557.html#a397b3789449b1c178f11f64313498c4d", null ],
-    [ "MaxRange", "d1/d47/a09557.html#ae2a846630e79f3a15a5d93b18c68c915", null ],
-    [ "MaxTolerance", "d1/d47/a09557.html#a7909b18028d43c84eca5feee3e41469c", null ],
-    [ "MinRange", "d1/d47/a09557.html#a0e2c69e20d6a38d056505c3b5b0d9fd6", null ],
-    [ "MinTolerance", "d1/d47/a09557.html#a7b640ecfc0e80921ab36c2c33f0b10fd", null ]
+    [ "BroadcastTextID", "d1/d47/a09557.html#a756f24dbee852a7fbe152c0cb082c412", null ],
+    [ "Emotes", "d1/d47/a09557.html#a0f67a651fdb3f3217279015c9e3fb292", null ],
+    [ "Language", "d1/d47/a09557.html#a33bc5a0c156918b00380710aeb275d3d", null ],
+    [ "Probability", "d1/d47/a09557.html#a5c743df7a7ad634c5b3f3376547fda00", null ],
+    [ "Text_0", "d1/d47/a09557.html#a046d637b91807db067c6e7050184322d", null ],
+    [ "Text_1", "d1/d47/a09557.html#a8d64d7b8fcdbd995cc11e22adde8c0de", null ]
 ];

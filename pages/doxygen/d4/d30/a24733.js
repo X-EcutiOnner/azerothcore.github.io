@@ -1,6 +1,10 @@
 var a24733 =
 [
-    [ "spell_black_template_harpooners_mark_AuraScript", "d3/d35/a24737.html", "d3/d35/a24737" ],
-    [ "spell_black_template_harpooners_mark", "d4/d30/a24733.html#a5e602b8335163bef06e8f0aaad76ea01", null ],
-    [ "GetAuraScript", "d4/d30/a24733.html#a9d54051ee57b1f62a0ededb6a4915052", null ]
+    [ "FilterTargets", "d4/d30/a24733.html#a033c63470d406ad2249c5aa223c00b2f", null ],
+    [ "HandleFinish", "d4/d30/a24733.html#a3b5760ed61d0b2789ddcaef998303d38", null ],
+    [ "HandleScript", "d4/d30/a24733.html#a2c26838015f1b21715fc1438537e15d3", null ],
+    [ "Load", "d4/d30/a24733.html#a669aefa81d57358ef452f4c247b2ceff", null ],
+    [ "PrepareSpellScript", "d4/d30/a24733.html#a3b65dbff73258b45f9e345bffc7a63a8", null ],
+    [ "Register", "d4/d30/a24733.html#ac9b8d46cc77b06c427b5b3cbc1135072", null ],
+    [ "haveTarget", "d4/d30/a24733.html#a7f5a4e68fb7d948f0df35824272cbdb0", null ]
 ];

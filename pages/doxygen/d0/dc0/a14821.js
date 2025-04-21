@@ -1,14 +1,16 @@
 var a14821 =
 [
-    [ "npc_cos_stratholme_citizienAI", "d0/dc0/a14821.html#a591aaf16ef5befada12378acfbef9465", null ],
-    [ "DoAction", "d0/dc0/a14821.html#af9d6fa1dfa83a75194797e99ee80ae0e", null ],
-    [ "InfectMe", "d0/dc0/a14821.html#a9517132eeaf1a0ffd5cb8b5879ed5d5b", null ],
-    [ "MoveInLineOfSight", "d0/dc0/a14821.html#ab7a8f6423e12ca0ea9bcb085594013a2", null ],
-    [ "Reset", "d0/dc0/a14821.html#a0dbb5f295aa9061fa3457c9590ea9b10", null ],
-    [ "SpellHit", "d0/dc0/a14821.html#aa8b9a05d3c7d89aa054af919672a69ec", null ],
-    [ "UpdateAI", "d0/dc0/a14821.html#a81a1382493091a99cae1c2bb580a7f32", null ],
-    [ "allowTimer", "d0/dc0/a14821.html#ae92384763b3cfe4a4bc4180d1c404456", null ],
-    [ "changeTimer", "d0/dc0/a14821.html#aa757ab2eef813dceaaad65d84681099b", null ],
-    [ "locked", "d0/dc0/a14821.html#aa644050a5fc0b3cd04573e8b3def87ee", null ],
-    [ "pInstance", "d0/dc0/a14821.html#aadae06c487a7755114f856a835d48c7e", null ]
+    [ "npc_belnistraszAI", "d0/dc0/a14821.html#ac57c5de9140d8d37b15b4a30f4ffc0a1", null ],
+    [ "JustDied", "d0/dc0/a14821.html#aece63cabcfb2bcf54992dc2b4832ca92", null ],
+    [ "JustEngagedWith", "d0/dc0/a14821.html#ab03f29b1f76b7d67e7d7bb3407e2cd41", null ],
+    [ "MovementInform", "d0/dc0/a14821.html#ae64e10d0cc860bf033b76538455b9f8e", null ],
+    [ "Reset", "d0/dc0/a14821.html#aecf1ef9b7f6eecec9489d27ce41deea2", null ],
+    [ "sQuestAccept", "d0/dc0/a14821.html#aa18258b7f80c040d6a5fb9fbbb321efe", null ],
+    [ "UpdateAI", "d0/dc0/a14821.html#a45481c2ef18ab3fec727813de96eb1b6", null ],
+    [ "channeling", "d0/dc0/a14821.html#a88ff13ec705d11475de5a2080998c905", null ],
+    [ "eventInProgress", "d0/dc0/a14821.html#ae9ce796b17c7791d83e949fa406a2b80", null ],
+    [ "eventProgress", "d0/dc0/a14821.html#ad32a0387dbf95b6aa40b3311d6ba8348", null ],
+    [ "events", "d0/dc0/a14821.html#af9c1f14a7a7b7380e9fb99ecdaf80126", null ],
+    [ "instance", "d0/dc0/a14821.html#a61f3bcbf36e630bbb455405eb89ccf00", null ],
+    [ "spawnerCount", "d0/dc0/a14821.html#aa5124160ecba044a3752f68945068776", null ]
 ];

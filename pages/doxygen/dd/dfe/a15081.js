@@ -1,6 +1,8 @@
 var a15081 =
 [
-    [ "HandleDamageCalc", "dd/dfe/a15081.html#a03eb92eff300872cd5fca452a99375ab", null ],
-    [ "PrepareSpellScript", "dd/dfe/a15081.html#ac07421b62bb6044dad89431839a70bd8", null ],
-    [ "Register", "dd/dfe/a15081.html#a70cbf764ab475e2358fa6630798cab9d", null ]
+    [ "boss_veklor", "dd/dfe/a15081.html#acbbe1a2e6ffcb00a28f7ae5413cd02c1", null ],
+    [ "AttackStart", "dd/dfe/a15081.html#a7ecfff13457bf177c1ec250bbee75cbf", null ],
+    [ "IAmVeklor", "dd/dfe/a15081.html#a4c43713c24b5537f292be1e0fcaee703", null ],
+    [ "JustEngagedWith", "dd/dfe/a15081.html#a05913da666b1715eac68441195dd9df4", null ],
+    [ "SpellHit", "dd/dfe/a15081.html#ab5d9ec12c18e360ce2c8749dd97f2ab0", null ]
 ];

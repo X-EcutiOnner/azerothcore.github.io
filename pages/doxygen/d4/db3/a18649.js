@@ -1,6 +1,6 @@
 var a18649 =
 [
-    [ "spell_rotface_large_ooze_buff_combine_SpellScript", "d4/d34/a18653.html", "d4/d34/a18653" ],
-    [ "spell_rotface_large_ooze_buff_combine", "d4/db3/a18649.html#afa7a0e9e17f1e9f97eaee6770b8f5aaa", null ],
-    [ "GetSpellScript", "d4/db3/a18649.html#a80ffba9a603890ce04f2814b6b853832", null ]
+    [ "HandleScript", "d4/db3/a18649.html#a33f15ecf0c0ff013d03742cb2130f372", null ],
+    [ "PrepareSpellScript", "d4/db3/a18649.html#ab3a832cf53f4438db0d9e58b89c0ef7f", null ],
+    [ "Register", "d4/db3/a18649.html#ad0c6d34103244cded41481c745dafe58", null ]
 ];

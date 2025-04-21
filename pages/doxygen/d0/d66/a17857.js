@@ -1,6 +1,6 @@
 var a17857 =
 [
-    [ "boss_deathbringer_saurfangAI", "d7/d37/a17861.html", "d7/d37/a17861" ],
-    [ "boss_deathbringer_saurfang", "d0/d66/a17857.html#ad19893be7dc3b4290d9b1ed3bb992e08", null ],
-    [ "GetAI", "d0/d66/a17857.html#a6bc1ef44b3ea9e860d62bf78cfa38c92", null ]
+    [ "npc_little_oozeAI", "d7/d37/a17861.html", "d7/d37/a17861" ],
+    [ "npc_little_ooze", "d0/d66/a17857.html#a9b0849057c1d3dd9f6507b9c80e67a66", null ],
+    [ "GetAI", "d0/d66/a17857.html#a3e56c6dbad6239485897655a4bfbbe07", null ]
 ];

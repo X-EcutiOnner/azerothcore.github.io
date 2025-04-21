@@ -1,11 +1,7 @@
 var a25917 =
 [
-    [ "npc_invis_infernal_casterAI", "d7/dbe/a25917.html#a1188ecc4752d5ab1c2f81602187282f2", null ],
-    [ "Reset", "d7/dbe/a25917.html#a05a8d5fd4828d7b1edb3b29ff8a6e61c", null ],
-    [ "SetData", "d7/dbe/a25917.html#aee88dc141757384f96da969fcdc20671", null ],
-    [ "SummonInfernal", "d7/dbe/a25917.html#a78d53d09e5544b3fe8301da4415d297b", null ],
-    [ "UpdateAI", "d7/dbe/a25917.html#a80be204b493768ceb5f5d99d1e81f1b1", null ],
-    [ "events", "d7/dbe/a25917.html#aab7aca330ae36dd2de7761984dd2a0a3", null ],
-    [ "ground", "d7/dbe/a25917.html#a4c943d67b25d7c9f4ac6f16d96bbbc4f", null ],
-    [ "infernalGUID", "d7/dbe/a25917.html#a5619136f90c181ecf3e4389bc2fcdafc", null ]
+    [ "HandleDummy", "d7/dbe/a25917.html#a870b9834d0860a2d017b74fbf33ae668", null ],
+    [ "Load", "d7/dbe/a25917.html#ae971bd1dccc9280620b6ea44dd552bd4", null ],
+    [ "PrepareSpellScript", "d7/dbe/a25917.html#aac68e0f75f39ab25cf490dc381414b96", null ],
+    [ "Register", "d7/dbe/a25917.html#ad2840c719abd010c629747da138e9e32", null ]
 ];

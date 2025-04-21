@@ -1,9 +1,9 @@
 var a14877 =
 [
-    [ "boss_temporus", "d8/de2/a14877.html#ab9f1495b18fe2c0ee33e9c238483ce0d", null ],
-    [ "JustDied", "d8/de2/a14877.html#a9186e51d240aff2ffaab99e3b423ded9", null ],
-    [ "JustEngagedWith", "d8/de2/a14877.html#abe7f18497c1c8b31693980e98b1d1859", null ],
-    [ "KilledUnit", "d8/de2/a14877.html#a89c2a229b56b3a7dcb9e5a495ac6dbd7", null ],
-    [ "MoveInLineOfSight", "d8/de2/a14877.html#a18a0279036324498a9daf8c7d0296ffc", null ],
-    [ "OwnTalk", "d8/de2/a14877.html#a99356589a048debbc308b8431259da5c", null ]
+    [ "npc_buru_egg", "d8/de2/a14877.html#a6aa2896342b802caecde1c1dffcf4907", null ],
+    [ "JustDied", "d8/de2/a14877.html#a3de169b252374f0b2daed3ecb5a11502", null ],
+    [ "JustEngagedWith", "d8/de2/a14877.html#a8cde6848569671876a17b00d75228ebe", null ],
+    [ "JustSummoned", "d8/de2/a14877.html#abebb96dcb3d653bddd4210da6567fb87", null ],
+    [ "UpdateAI", "d8/de2/a14877.html#a4d77f8b40ea8e936c9388aeff4927420", null ],
+    [ "_instance", "d8/de2/a14877.html#a5b168226755a57368f17827e3457a0ca", null ]
 ];

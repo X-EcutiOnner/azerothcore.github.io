@@ -1,8 +1,10 @@
 var a05265 =
 [
-    [ "~Runnable", "de/daf/a05265.html#add1dc9a377ee89c32cc40c42907e5bd8", null ],
-    [ "decReference", "de/daf/a05265.html#a69bf63c7f684de6e278de0468ed8fa06", null ],
-    [ "incReference", "de/daf/a05265.html#a062323e141fa33ae094adbef16caf3d6", null ],
-    [ "run", "de/daf/a05265.html#ad92d9c0459fbcc59d2b0d8fe2ed620c9", null ],
-    [ "m_refs", "de/daf/a05265.html#ae047c0949843835f0b240484df01b7f8", null ]
+    [ "Find", "de/daf/a05265.html#a1d6a7cd1596aa03a8e53609c7d7b6e33", null ],
+    [ "GetElements", "de/daf/a05265.html#a653b00a9d570ae9d9276a061beda3f35", null ],
+    [ "GetElements", "de/daf/a05265.html#a209cbb9e5ba70b9f5f66e64e2c36411d", null ],
+    [ "Insert", "de/daf/a05265.html#ad61d9aa314133d8eba934fe56cff48e0", null ],
+    [ "Remove", "de/daf/a05265.html#a5a9666fc5f0136a778d8c542a386d4bf", null ],
+    [ "Size", "de/daf/a05265.html#a289258c9015016a70d2867df7e113def", null ],
+    [ "_elements", "de/daf/a05265.html#adda6657e9a0fd08b105cd4d6b2baa9d3", null ]
 ];

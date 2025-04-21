@@ -1,6 +1,5 @@
 var a12757 =
 [
-    [ "instance_scholomance_InstanceMapScript", "d8/db5/a12761.html", "d8/db5/a12761" ],
-    [ "instance_scholomance", "d3/d44/a12757.html#ace7a781c45623419daad6143480d8fe2", null ],
-    [ "GetInstanceScript", "d3/d44/a12757.html#a9e2030e41154c92dbe45d7895ddf37b8", null ]
+    [ "boss_yazzai", "d3/d44/a12757.html#a6c92ffeff3e56f98cb1bd08f1835fe10", null ],
+    [ "JustEngagedWith", "d3/d44/a12757.html#ab504de0e51a3715485eb65e006352a6f", null ]
 ];

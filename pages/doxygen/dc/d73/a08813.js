@@ -1,13 +1,10 @@
 var a08813 =
 [
-    [ "WorldObjectWorker", "dc/d73/a08813.html#a15dd68579f1a92f015cfac8577db7422", null ],
-    [ "Visit", "dc/d73/a08813.html#ae264461e49602fd0b8a17e30ed554c64", null ],
-    [ "Visit", "dc/d73/a08813.html#a3021825347d132f1368a77d29a8318df", null ],
-    [ "Visit", "dc/d73/a08813.html#a7b7869c7d151e8abc924f517ecfdef82", null ],
-    [ "Visit", "dc/d73/a08813.html#a7de6ea339a8113d242dd099ca4d36927", null ],
-    [ "Visit", "dc/d73/a08813.html#a29196fa36ce32a0cec68d0d67372a400", null ],
-    [ "Visit", "dc/d73/a08813.html#a17097541c49264c15ebfe474f54aeca2", null ],
-    [ "i_do", "dc/d73/a08813.html#aa16ce8cce21d4590ef6612e14fb48919", null ],
-    [ "i_mapTypeMask", "dc/d73/a08813.html#a6f8e447b9693154f56ce010869acadb9", null ],
-    [ "i_phaseMask", "dc/d73/a08813.html#affa6245985c5d271900be12104ab6bb6", null ]
+    [ "mapId", "dc/d73/a08813.html#a828d8b93918ea8ba695e0c5e597c855d", null ],
+    [ "name", "dc/d73/a08813.html#a9dd0dacb5825cf3afd117c22ac5ebf21", null ],
+    [ "orientation", "dc/d73/a08813.html#a49b4a83290dbe39ab0be79a8ae2f03a6", null ],
+    [ "position_x", "dc/d73/a08813.html#a65e7390a1dbb615a155c4f163b830e11", null ],
+    [ "position_y", "dc/d73/a08813.html#a3d3f398cd23566dce721fefeae7af33c", null ],
+    [ "position_z", "dc/d73/a08813.html#a9ff9a74b00016df6df7c27ebce8ff3fb", null ],
+    [ "wnameLow", "dc/d73/a08813.html#ac63cbb609eadc584fe61d33fb709c4d6", null ]
 ];

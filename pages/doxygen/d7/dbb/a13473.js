@@ -1,10 +1,9 @@
 var a13473 =
 [
-    [ "npc_grand_magister_rommathAI", "d7/dbb/a13473.html#a5e9404dd8bf4b513e05daac53c076314", null ],
-    [ "DoAction", "d7/dbb/a13473.html#a138bc8cd6f1312d83fefdf5499a479b7", null ],
-    [ "MoveInLineOfSight", "d7/dbb/a13473.html#ad35b64b37915484b133bcd185a832011", null ],
-    [ "UpdateAI", "d7/dbb/a13473.html#ac687bd20f0ae66b21ce52c21561af417", null ],
-    [ "announced", "d7/dbb/a13473.html#a4c9107ef5d4a85d7487ff4cf7bf6464a", null ],
-    [ "events", "d7/dbb/a13473.html#a4c1b6616bc88a9ad5074670843315bc6", null ],
-    [ "playerGUID", "d7/dbb/a13473.html#ad0ac0647feb998e837a44b0a688694e9", null ]
+    [ "npc_partygoer", "d7/dbb/a13473.html#af053caedfd1fa8173b875f521d279418", null ],
+    [ "Initialize", "d7/dbb/a13473.html#a9012ff95e5cead3c02f9eeb30f29a9f6", null ],
+    [ "Reset", "d7/dbb/a13473.html#ad1936099ec5696a2a593e5041b0360c6", null ],
+    [ "UpdateAI", "d7/dbb/a13473.html#a423df8a3de7d23221ea4d62a0c65fefc", null ],
+    [ "_events", "d7/dbb/a13473.html#ad5095ee005ecb89ca54b0663d41e20ac", null ],
+    [ "_facing", "d7/dbb/a13473.html#a9e934091894987ec091b03090bf733e5", null ]
 ];

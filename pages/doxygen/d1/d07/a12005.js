@@ -1,7 +1,6 @@
 var a12005 =
 [
-    [ "HandlePeriodic", "d1/d07/a12005.html#a3b2521ff80066e6a2f4ae794bfce4d3c", null ],
-    [ "PrepareAuraScript", "d1/d07/a12005.html#a65a16186e6af907305a0f2051b0a12bd", null ],
-    [ "Register", "d1/d07/a12005.html#aaad3a7a9ca7a730d12a056bd7d14cf77", null ],
-    [ "Validate", "d1/d07/a12005.html#a6121609dcaa61f2ac7904077aca61a07", null ]
+    [ "boss_overlordwyrmthalakAI", "da/d65/a12009.html", "da/d65/a12009" ],
+    [ "boss_overlord_wyrmthalak", "d1/d07/a12005.html#a2af6edf776c189d43cb82cc35bb838fe", null ],
+    [ "GetAI", "d1/d07/a12005.html#a56de538f25cbabc9346b987dbfe680a1", null ]
 ];

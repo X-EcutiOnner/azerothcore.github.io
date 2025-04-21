@@ -1,6 +1,8 @@
 var a28605 =
 [
-    [ "PrepareSpellScript", "d8/d89/a28605.html#aa784c7af6fe38069fca4dcff9a09a22b", null ],
-    [ "Register", "d8/d89/a28605.html#a81bc86c83ffc70602410912870e61700", null ],
-    [ "VictoryRushHit", "d8/d89/a28605.html#a89387a25e67af1d47ef7f5b95344ccb0", null ]
+    [ "TileConfig", "d8/d89/a28605.html#a67b10c747fb0d2bc2a263e5009d42e1b", null ],
+    [ "BASE_UNIT_DIM", "d8/d89/a28605.html#a5a882b0595456ab3fcca85c80af3b6f8", null ],
+    [ "TILES_PER_MAP", "d8/d89/a28605.html#ae3443f89a8a698823c91096abe51a6a9", null ],
+    [ "VERTEX_PER_MAP", "d8/d89/a28605.html#a46640a80428b1ab93d65d593c03d13ed", null ],
+    [ "VERTEX_PER_TILE", "d8/d89/a28605.html#ae0331739074e5546818e13527a76524a", null ]
 ];

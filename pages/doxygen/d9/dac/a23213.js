@@ -1,6 +1,6 @@
 var a23213 =
 [
-    [ "npc_mindless_ghoulAI", "dd/d7e/a23217.html", "dd/d7e/a23217" ],
-    [ "npc_mindless_ghoul", "d9/dac/a23213.html#ac5bf71e719c0df04687f426a022fd65e", null ],
-    [ "GetAI", "d9/dac/a23213.html#ac5a087aa742827dc8eb0f3dc195920ec", null ]
+    [ "HandleScript", "d9/dac/a23213.html#ad81007cd08ee18bfc7cda4221cbc8482", null ],
+    [ "PrepareSpellScript", "d9/dac/a23213.html#a60f0bb4882d3f75f0839cd0d8ab2707d", null ],
+    [ "Register", "d9/dac/a23213.html#ac06f4246c5cecc4875bc93811eaeb839", null ]
 ];

@@ -1,5 +1,6 @@
 var a15113 =
 [
-    [ "boss_kri", "d1/d6f/a15113.html#a0a95f8d2a380ab48ffd5a034e012cc2c", null ],
-    [ "JustEngagedWith", "d1/d6f/a15113.html#ab2169ec49ecbff2ee1460e38bd1a163e", null ]
+    [ "instance_temple_of_ahnqiraj_InstanceMapScript", "d8/d0b/a15117.html", "d8/d0b/a15117" ],
+    [ "instance_temple_of_ahnqiraj", "d1/d6f/a15113.html#a316c5e2cac59f2ee2520fba1b97407e3", null ],
+    [ "GetInstanceScript", "d1/d6f/a15113.html#a9e3060d9f2188f410da8aa3e9526e79d", null ]
 ];

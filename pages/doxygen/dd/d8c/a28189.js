@@ -1,6 +1,7 @@
 var a28189 =
 [
-    [ "HandleScript", "dd/d8c/a28189.html#a8866d650b96c4cae3201a2829cbeff3d", null ],
-    [ "PrepareSpellScript", "dd/d8c/a28189.html#aa16f51aa8a4fea2a84cadbb01d18b635", null ],
-    [ "Register", "dd/d8c/a28189.html#aeaa094c8d1f3407bf56d58d88c2238a1", null ]
+    [ "EpicPropertiesPoints", "dd/d8c/a28189.html#a35dc60a15091357e03032226621340f7", null ],
+    [ "itemLevel", "dd/d8c/a28189.html#a35506e3235c2c24230058dc2fb9abc4f", null ],
+    [ "RarePropertiesPoints", "dd/d8c/a28189.html#a9359171635ef3e9a0029820fad286368", null ],
+    [ "UncommonPropertiesPoints", "dd/d8c/a28189.html#a74acb6861a84d5d193038eaa5ac9b12f", null ]
 ];

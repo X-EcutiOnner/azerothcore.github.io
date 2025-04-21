@@ -1,6 +1,6 @@
 var a22001 =
 [
-    [ "npc_xt002_heartAI", "d6/d05/a22005.html", "d6/d05/a22005" ],
-    [ "npc_xt002_heart", "d7/d18/a22001.html#ab914ce1e945080b873cf6f93e3a6a32c", null ],
-    [ "GetAI", "d7/d18/a22001.html#af59c6623b97d1adff765e8ba4958d482", null ]
+    [ "HandleDummy", "d7/d18/a22001.html#a05a38c1b8e3b674f3c6e79c59c7caddd", null ],
+    [ "PrepareSpellScript", "d7/d18/a22001.html#a0bfebaf099ef573b51bec0a511ceeb39", null ],
+    [ "Register", "d7/d18/a22001.html#a9c71b084ce6b86ccaeb9a94d1f8de2b1", null ]
 ];

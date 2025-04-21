@@ -1,6 +1,5 @@
 var a24193 =
 [
-    [ "instance_auchenai_crypts_InstanceMapScript", "df/df0/a24197.html", "df/df0/a24197" ],
-    [ "instance_auchenai_crypts", "d7/d7a/a24193.html#a8b16924167c54a9d8120bac67bc10fed", null ],
-    [ "GetInstanceScript", "d7/d7a/a24193.html#a99e47df95fde07d4a6e7687634805b93", null ]
+    [ "npc_shattrath_daily_quest", "d7/d7a/a24193.html#ab6aa71e4738fdce1b59d379249a868d5", null ],
+    [ "DoAction", "d7/d7a/a24193.html#ac3e8c6de30ad7567fe5e52cd1ddfeb2c", null ]
 ];

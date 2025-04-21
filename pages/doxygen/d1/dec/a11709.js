@@ -1,6 +1,11 @@
 var a11709 =
 [
-    [ "OrcMoveEvent", "d1/dec/a11709.html#a71f7fe243741a1629bdd846fc97f0112", null ],
-    [ "Execute", "d1/dec/a11709.html#a58a3c88ed3c6b534016179949b85ff9e", null ],
-    [ "_me", "d1/dec/a11709.html#ad8d09bbb659d44e9f4b9171cea7ef7e8", null ]
+    [ "spectator_commandscript", "d1/dec/a11709.html#a1bf79d739a6af02405bc268c9bb50c26", null ],
+    [ "GetCommands", "d1/dec/a11709.html#a3451bcda07b51a33fd8368cf00ac190f", null ],
+    [ "HandleSpectatorCommand", "d1/dec/a11709.html#aaf331e54c3c19b5d16d9d5f5c9d28721", null ],
+    [ "HandleSpectatorLeaveCommand", "d1/dec/a11709.html#a15e661891f4e08c3efa0bd844c3954aa", null ],
+    [ "HandleSpectatorResetCommand", "d1/dec/a11709.html#a23a1a3740609a6d0caa6e0f10c7e8653", null ],
+    [ "HandleSpectatorSpectateCommand", "d1/dec/a11709.html#ad1f117a77c0154fc25e937dfe21870a2", null ],
+    [ "HandleSpectatorVersionCommand", "d1/dec/a11709.html#aaf7c57603d263f7ab919f12d9680f058", null ],
+    [ "HandleSpectatorWatchCommand", "d1/dec/a11709.html#a1ee822e332374b375962d1ae87adbc61", null ]
 ];

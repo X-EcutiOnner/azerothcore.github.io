@@ -1,6 +1,19 @@
 var a20617 =
 [
-    [ "CalculateDamage", "de/d25/a20617.html#a857e907dcf40f0e630b8c05c5e549672", null ],
-    [ "PrepareSpellScript", "de/d25/a20617.html#aaa6c420d13dc3c88e9c1e5a053c932aa", null ],
-    [ "Register", "de/d25/a20617.html#ae142275e06fe6381304137f637e641ca", null ]
+    [ "npc_xt002_heartAI", "de/d25/a20617.html#a4bdfd8574fb343c800934d53424596bc", null ],
+    [ "AttackStart", "de/d25/a20617.html#ac55f7e4215a7ae03f096778f71a952ef", null ],
+    [ "DamageTaken", "de/d25/a20617.html#a97bc8a5934b9ed345416c1295813edd0", null ],
+    [ "DoAction", "de/d25/a20617.html#a31476950c38e83b7436eab555d5cc7ff", null ],
+    [ "JustDied", "de/d25/a20617.html#ac385cce7c349417a28f1d6673d9ae6cd", null ],
+    [ "JustSummoned", "de/d25/a20617.html#aeae848dbb84417f563342b05e9339680", null ],
+    [ "MoveInLineOfSight", "de/d25/a20617.html#ad077207bb0ae0498b208312ddbd7ed91", null ],
+    [ "SendEnergyToCorner", "de/d25/a20617.html#a80204c6952b40770c0816f1895d70119", null ],
+    [ "SpellHitTarget", "de/d25/a20617.html#aeb37afc22d7f77ce84e983e63fe7e78f", null ],
+    [ "SummonPiles", "de/d25/a20617.html#a6180aaee9aaca9d2744cc6bef4265640", null ],
+    [ "UpdateAI", "de/d25/a20617.html#ac58b8690136ed260020e76a0dc4f3432", null ],
+    [ "_damageDone", "de/d25/a20617.html#aaa9f701197998f2cba942cc4f292a8f9", null ],
+    [ "_pummelerCount", "de/d25/a20617.html#a8179da94f961897085289568468d2bba", null ],
+    [ "_spawnSelection", "de/d25/a20617.html#a62187aab1a7fabedb1adaad33d422506", null ],
+    [ "_timerSpawn", "de/d25/a20617.html#ad4f2db86cd841b96c20cea4469f4aed4", null ],
+    [ "summons", "de/d25/a20617.html#a50869f121bf9d7aa790efb6c74799c83", null ]
 ];

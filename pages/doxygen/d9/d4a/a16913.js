@@ -1,6 +1,7 @@
 var a16913 =
 [
-    [ "spell_novos_crystal_handler_death_AuraScript", "d3/dd8/a16917.html", "d3/dd8/a16917" ],
-    [ "spell_novos_crystal_handler_death", "d9/d4a/a16913.html#a65593cebb22a85b9381693bccbd1d8fe", null ],
-    [ "GetAuraScript", "d9/d4a/a16913.html#adf4b7fe72615236141b1d7757ef921e4", null ]
+    [ "HandlePeriodicTick", "d9/d4a/a16913.html#ac8b3f1a826e3491d4315983a89d23d2e", null ],
+    [ "PrepareAuraScript", "d9/d4a/a16913.html#ad54c3014195c5b848ab1f9cc978f72b3", null ],
+    [ "Register", "d9/d4a/a16913.html#af8e1ee8ddf7ed8290eb71fb7697428fb", null ],
+    [ "Validate", "d9/d4a/a16913.html#a6de2140f17790b63314f653b7dd0ddd3", null ]
 ];

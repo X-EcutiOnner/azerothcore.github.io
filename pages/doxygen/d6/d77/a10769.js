@@ -1,5 +1,8 @@
 var a10769 =
 [
-    [ "WorldObjectSpellTrajTargetCheck", "d6/d77/a10769.html#a0c08b6b4c7878678eb419a556f718be0", null ],
-    [ "operator()", "d6/d77/a10769.html#aa1f7772cdb19914cc365a325f801b5d5", null ]
+    [ "CrossedInebriationThreshold", "d6/d77/a10769.html#a8983b7b88a76955d9a0e2241ffb1e472", null ],
+    [ "Write", "d6/d77/a10769.html#a127dcfcc7e960d24e56d1b17bf9be992", null ],
+    [ "Guid", "d6/d77/a10769.html#a422afb45b6c5e9c4fef58fb1801bd0ad", null ],
+    [ "ItemID", "d6/d77/a10769.html#a9e48a650bf21872099cdb0626e875fd7", null ],
+    [ "Threshold", "d6/d77/a10769.html#a87b756b64cbfb8f292f46cce38308095", null ]
 ];

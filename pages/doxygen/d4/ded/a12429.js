@@ -1,5 +1,6 @@
 var a12429 =
 [
-    [ "at_karazhan_side_entrance", "d4/ded/a12429.html#abdaa7339a53941e2e89c4fcd439395fc", null ],
-    [ "_OnTrigger", "d4/ded/a12429.html#a80d0018a9442ef7f0834dc329047e135", null ]
+    [ "boss_shazzrahAI", "d4/ded/a12429.html#a984b3d32d5f231a019f2c0f1bb027907", null ],
+    [ "ExecuteEvent", "d4/ded/a12429.html#a0f6e3e6876b9b769ea53db5c9028c6ff", null ],
+    [ "JustEngagedWith", "d4/ded/a12429.html#aaa8111d42cacd58f767513026976668c", null ]
 ];

@@ -1,5 +1,6 @@
 var a17277 =
 [
-    [ "at_hor_battered_hilt_throw", "d5/d16/a17277.html#a857812bd67ee2e62c5e450fae591cd9d", null ],
-    [ "OnTrigger", "d5/d16/a17277.html#a30c72b4dc7e48fc87374cbfc2cdf0f50", null ]
+    [ "FilterTargets", "d5/d16/a17277.html#a7abb4397b5fcf956bf31fa4dc9960ece", null ],
+    [ "PrepareSpellScript", "d5/d16/a17277.html#a8e9d81b34e05506569f4b910c1958de3", null ],
+    [ "Register", "d5/d16/a17277.html#aa80980c3f68abcb0fac7a41172f70012", null ]
 ];

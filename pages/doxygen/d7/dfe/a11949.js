@@ -1,6 +1,6 @@
 var a11949 =
 [
-    [ "spell_bwl_shadowflame_SpellScript", "d4/dcc/a11953.html", "d4/dcc/a11953" ],
-    [ "spell_bwl_shadowflame", "d7/dfe/a11949.html#a06fd9b779ea7e819cd3b4ffb200244ed", null ],
-    [ "GetSpellScript", "d7/dfe/a11949.html#a6b534c397f21b63c238cadc17586b641", null ]
+    [ "instance_blackrock_depths_InstanceMapScript", "d4/dcc/a11953.html", "d4/dcc/a11953" ],
+    [ "instance_blackrock_depths", "d7/dfe/a11949.html#a8d906bdb520b2c7907b94b0e22b5cdf4", null ],
+    [ "GetInstanceScript", "d7/dfe/a11949.html#af8f8c9929cae50c098efc5a0dbdd727a", null ]
 ];

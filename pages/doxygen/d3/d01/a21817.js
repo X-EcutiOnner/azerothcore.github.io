@@ -1,8 +1,7 @@
 var a21817 =
 [
-    [ "npc_ulduar_expedition_commanderAI", "d4/d44/a21821.html", "d4/d44/a21821" ],
-    [ "npc_ulduar_expedition_commander", "d3/d01/a21817.html#a8513554f686b75c29524fa5b2fa93ee4", null ],
-    [ "GetAI", "d3/d01/a21817.html#aa888a3634a643a103075d44c8f52d28a", null ],
-    [ "OnGossipHello", "d3/d01/a21817.html#a6b52abae7ec1be10fcb5385ec928b785", null ],
-    [ "OnGossipSelect", "d3/d01/a21817.html#a5d212e5e21d9ffb8c60e883e065c1801", null ]
+    [ "HandleScriptEffect", "d3/d01/a21817.html#ad3f1231ac90b96650b5c8c3403d69195", null ],
+    [ "PrepareSpellScript", "d3/d01/a21817.html#a1fdd85c5833bf6f17395f56e2ea11fed", null ],
+    [ "Register", "d3/d01/a21817.html#a278206630f9f45f2dba50b259a6115c1", null ],
+    [ "Validate", "d3/d01/a21817.html#a8f6332b2d4e7ac7ba6a68331b1d4512f", null ]
 ];

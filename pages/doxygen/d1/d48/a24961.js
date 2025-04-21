@@ -1,6 +1,7 @@
 var a24961 =
 [
-    [ "HasInLineCheck", "d1/d48/a24961.html#a903334d6794b89cb5ba86ee91ee93a35", null ],
-    [ "operator()", "d1/d48/a24961.html#a9b14892c745faf37134af7b1d74b8265", null ],
-    [ "_caster", "d1/d48/a24961.html#a6b45f3887bcc64df3842b445b5f789bf", null ]
+    [ "HandleScript", "d1/d48/a24961.html#a8ec57aed0788f58e2c50fc08793a5749", null ],
+    [ "PrepareSpellScript", "d1/d48/a24961.html#a56c9ab120239252982cab8b96ac8c5fe", null ],
+    [ "Register", "d1/d48/a24961.html#a8c727b2b00858abcce058b16d66ca62a", null ],
+    [ "Validate", "d1/d48/a24961.html#af3ffb9930eaba8703065719bbcf02f56", null ]
 ];

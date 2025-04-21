@@ -1,8 +1,10 @@
 var a16253 =
 [
-    [ "spell_halion_damage_aoe_summon_SpellScript", "dc/d97/a16257.html", "dc/d97/a16257" ],
-    [ "spell_halion_damage_aoe_summon", "d8/d56/a16253.html#a4d7efd1593e08eb095355360ce3b603f", null ],
-    [ "GetSpellScript", "d8/d56/a16253.html#a6d7cd2796769d85df92e02a946aad927", null ],
-    [ "_auraSpell", "d8/d56/a16253.html#a497a74eca703470964157639a6f372e2", null ],
-    [ "_explosionSpell", "d8/d56/a16253.html#ad1ad3a6f143bc84bad61070755752b2f", null ]
+    [ "npc_nerubian_burrowerAI", "d8/d56/a16253.html#a7673709e7b16a6573d9c7392ba556313", null ],
+    [ "CanAIAttack", "d8/d56/a16253.html#a82e4a5ca23ae2a94212b214aad1c69df", null ],
+    [ "JustDied", "d8/d56/a16253.html#ab5182ad65187c472b306e2177530d7b6", null ],
+    [ "Reset", "d8/d56/a16253.html#a4491965d9c08ed1d888cad6f7b06352d", null ],
+    [ "SpellHitTarget", "d8/d56/a16253.html#a64fa2c8276f7418542190e833dd72c51", null ],
+    [ "UpdateAI", "d8/d56/a16253.html#abd2c7333625ded502a00848b09ee9a40", null ],
+    [ "events", "d8/d56/a16253.html#ab45e8c6dd9ea3552fed4b926136f80e6", null ]
 ];

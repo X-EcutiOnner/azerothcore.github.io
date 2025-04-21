@@ -1,7 +1,6 @@
 var a09705 =
 [
-    [ "TransportPathTransform", "de/d5e/a09705.html#af73e0369a2f0e4c2aabfde5b47b7520d", null ],
-    [ "operator()", "de/d5e/a09705.html#ac86e405f0d39698c400d7a8d2ab10607", null ],
-    [ "_owner", "de/d5e/a09705.html#a15428c0b9a8b11f7f63845a7d65620e8", null ],
-    [ "_transformForTransport", "de/d5e/a09705.html#afad44bc388b7d224f7a87aed7ba2e120", null ]
+    [ "ServerMailItems", "de/d5e/a09705.html#a95cb2278da300c6b0385241f5a3950c1", null ],
+    [ "item", "de/d5e/a09705.html#ae03738595a87a47e831bcbeea6f97d34", null ],
+    [ "itemCount", "de/d5e/a09705.html#a4475d65dd5721d4af323ae93d15f4170", null ]
 ];

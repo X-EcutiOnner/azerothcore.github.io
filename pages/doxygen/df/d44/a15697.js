@@ -1,7 +1,6 @@
 var a15697 =
 [
-    [ "npc_toogaAI", "da/d86/a15701.html", "da/d86/a15701" ],
-    [ "npc_tooga", "df/d44/a15697.html#a6ea6a9e4dea1ab98475dae13680ceeaf", null ],
-    [ "GetAI", "df/d44/a15697.html#a7847577589f3bdc1c3ea5ee0f1f9232f", null ],
-    [ "OnQuestAccept", "df/d44/a15697.html#ac0fdcb3959c239d614b1cc7c66623c5d", null ]
+    [ "HandleApply", "df/d44/a15697.html#aee4d5908035d06be2f1469a50db02e26", null ],
+    [ "PrepareAuraScript", "df/d44/a15697.html#ac8349deb2e9c8861194e80132bd72fc5", null ],
+    [ "Register", "df/d44/a15697.html#ac83962bef84b68cef6d7937769730598", null ]
 ];

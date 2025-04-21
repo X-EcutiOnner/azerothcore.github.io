@@ -1,10 +1,11 @@
 var a12629 =
 [
-    [ "npc_scarlet_courierAI", "d9/dd0/a12629.html#a83c5e32659d38a513790322e46dcc283", null ],
-    [ "JustEngagedWith", "d9/dd0/a12629.html#aa470197f0949a413c421bda8c7c09279", null ],
-    [ "MovementInform", "d9/dd0/a12629.html#add19812d92d62b602f96ffc5fb513d6c", null ],
-    [ "Reset", "d9/dd0/a12629.html#ab642188631b67ae5ff5fd312eaf37ff0", null ],
-    [ "UpdateAI", "d9/dd0/a12629.html#ac37287a77e37785b606c742ff8d6eeeb", null ],
-    [ "uiStage", "d9/dd0/a12629.html#a2f920922f8c6f1a878d0e4978e081257", null ],
-    [ "uiStage_timer", "d9/dd0/a12629.html#a8ee22a276535a3a9c2f12a62e984d55b", null ]
+    [ "npc_demon_chain", "d9/dd0/a12629.html#ac234e729422925bd773bcdbc45f9e1b5", null ],
+    [ "AttackStart", "d9/dd0/a12629.html#a745fa194ca5ad30c96e85b3f9daad2ad", null ],
+    [ "IsSummonedBy", "d9/dd0/a12629.html#a27007fdff0d685b0a38a0b98820b95fb", null ],
+    [ "JustDied", "d9/dd0/a12629.html#a35d1b7de8612f11cdf61b9d663990686", null ],
+    [ "JustEngagedWith", "d9/dd0/a12629.html#a9743ebc31c5159a03889bfd40b09d749", null ],
+    [ "MoveInLineOfSight", "d9/dd0/a12629.html#a9ffa6ed6faa21c9596f7a0c2ceb1cc05", null ],
+    [ "Reset", "d9/dd0/a12629.html#ad531f82511e5156d3b9891dd4095b0d5", null ],
+    [ "sacrificeGUID", "d9/dd0/a12629.html#a5572e39fcf3d807ef462f5c16ff703f1", null ]
 ];

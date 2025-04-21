@@ -1,6 +1,8 @@
 var a22137 =
 [
-    [ "boss_yoggsaron_death_orbAI", "d7/df6/a22141.html", "d7/df6/a22141" ],
-    [ "boss_yoggsaron_death_orb", "d0/d74/a22137.html#a862d01f012cee832b41bc7c584816b93", null ],
-    [ "GetAI", "d0/d74/a22137.html#a3169cd0e78642503f394a6cb74307871", null ]
+    [ "npc_vics_flying_machineAI", "d0/d74/a22137.html#a4464e0b1433c4ffb24ae7809b1a0eec5", null ],
+    [ "MovementInform", "d0/d74/a22137.html#ac4bbe0a3cccb6878d050b717b9efb320", null ],
+    [ "PassengerBoarded", "d0/d74/a22137.html#aa67dcbb4b43b047398fec2619ad61829", null ],
+    [ "SpellHit", "d0/d74/a22137.html#aa81229a104e1521d570abec4b6f7bca7", null ],
+    [ "pointId", "d0/d74/a22137.html#aa1412c23f0c3b964262e145c51aea974", null ]
 ];

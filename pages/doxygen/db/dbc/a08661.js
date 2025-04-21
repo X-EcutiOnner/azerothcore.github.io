@@ -1,10 +1,11 @@
 var a08661 =
 [
-    [ "PetLevelInfo", "db/dbc/a08661.html#ad8e757abeae500063e963ffef5469809", null ],
-    [ "armor", "db/dbc/a08661.html#ab7097f75cf86bd6f135f21dace61a89e", null ],
-    [ "health", "db/dbc/a08661.html#a322dcab3af8f98726aa6addf38e8891b", null ],
-    [ "mana", "db/dbc/a08661.html#a27352e73d6ed3945e398e0634dee1e96", null ],
-    [ "max_dmg", "db/dbc/a08661.html#a092f2600f64f2af885142b2e96d1fe64", null ],
-    [ "min_dmg", "db/dbc/a08661.html#a299d1c7f4c28893e09de79cd816afa95", null ],
-    [ "stats", "db/dbc/a08661.html#a897aabacdbe9cbc4afcc40ab059c12be", null ]
+    [ "AuraMunchingQueue", "db/dbc/a08661.html#abf9787bcfa9393619ffebe2ad7b5cd46", null ],
+    [ "Execute", "db/dbc/a08661.html#a8f025a0ea1db81fb283db563402d1c40", null ],
+    [ "_auraType", "db/dbc/a08661.html#add694e24c38d585784f236acf9118b76", null ],
+    [ "_aurEff", "db/dbc/a08661.html#a8ac00964608170d5375242c1b19c4be3", null ],
+    [ "_basePoints", "db/dbc/a08661.html#a9cf03046c9595e81bf119b7aacb1a81a", null ],
+    [ "_owner", "db/dbc/a08661.html#a472aaf46c2f167a10ce38267ace0b8bb", null ],
+    [ "_spellId", "db/dbc/a08661.html#a6674c43b906e45e2ad29100a7ff06f44", null ],
+    [ "_targetGUID", "db/dbc/a08661.html#a441b328296f0b7a75bdaee06d2cb94f1", null ]
 ];

@@ -1,7 +1,6 @@
 var a15589 =
 [
-    [ "npc_giant_spotlightAI", "d0/d6b/a15589.html#ae0f6686aaeacafce193e0d4590cf8c09", null ],
-    [ "Reset", "d0/d6b/a15589.html#a79f6703107eed52a3aeae30393507c0f", null ],
-    [ "UpdateAI", "d0/d6b/a15589.html#a8567f936dd15933300497d5abe80a272", null ],
-    [ "events", "d0/d6b/a15589.html#a20d1087e59daae9189d78f04ea2b2d05", null ]
+    [ "npc_cairne_bloodhoofAI", "d1/db6/a15593.html", "d1/db6/a15593" ],
+    [ "npc_cairne_bloodhoof", "d0/d6b/a15589.html#a3519d94c5fcdc3d55e31c49c7773e56c", null ],
+    [ "GetAI", "d0/d6b/a15589.html#a1c34470c46ae9e98684de0e786be28b7", null ]
 ];

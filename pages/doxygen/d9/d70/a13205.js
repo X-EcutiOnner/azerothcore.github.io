@@ -1,6 +1,7 @@
 var a13205 =
 [
-    [ "spell_kiljaeden_vengeance_of_the_blue_flight_AuraScript", "d4/df4/a13209.html", "d4/df4/a13209" ],
-    [ "spell_kiljaeden_vengeance_of_the_blue_flight", "d9/d70/a13205.html#a90b115a7207d642965bce4af35e9b3a0", null ],
-    [ "GetAuraScript", "d9/d70/a13205.html#aab08ee777a5ba1c41135ccffae63b288", null ]
+    [ "HandleScriptEffect", "d9/d70/a13205.html#a5ee63545a338e00bfcb8dcc2f3f67db3", null ],
+    [ "PrepareSpellScript", "d9/d70/a13205.html#af9deee89e837e07486a7555632008eb2", null ],
+    [ "Register", "d9/d70/a13205.html#aa4a7c699389a6e467b298cb4f9d3ed07", null ],
+    [ "Validate", "d9/d70/a13205.html#a043d135ea2c37f6e4352aa2fba2bb21c", null ]
 ];

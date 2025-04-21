@@ -1,13 +1,11 @@
 var a19481 =
 [
-    [ "npc_highlord_tirion_fordringAI", "d9/d69/a19481.html#a8852f9196a6609f317b6113ac2eee9ee", null ],
-    [ "Reset", "d9/d69/a19481.html#a80051b1b2a663997304b1754a3f9ff25", null ],
-    [ "SetData", "d9/d69/a19481.html#a5642aab7afc50a7494c43ae7a130d571", null ],
-    [ "UpdateAI", "d9/d69/a19481.html#ac3c8dc2e5bf6e0c3f380f395a785ad49", null ],
-    [ "_bolvarFordragon", "d9/d69/a19481.html#a8e8ae990a6e70a70ce6de3a13300261c", null ],
-    [ "_damnedKills", "d9/d69/a19481.html#a56e035884d2ab94629c133efc1fc8feb", null ],
-    [ "_events", "d9/d69/a19481.html#a8d8d6f1b8dc65b28a8117426e3767762", null ],
-    [ "_factionNPC", "d9/d69/a19481.html#acf9a436edcbfe3fcf47f56c5cf90cfb2", null ],
-    [ "_instance", "d9/d69/a19481.html#acd16d6200b08df23576aa9ccbb060d31", null ],
-    [ "_theLichKing", "d9/d69/a19481.html#afbe85d7002e34cfcb9414f2beda4e0a2", null ]
+    [ "boss_maiden_of_griefAI", "d9/d69/a19481.html#a521decece7a53165349ebcfb9fb8dfb5", null ],
+    [ "JustDied", "d9/d69/a19481.html#abd3977cca1cbbf4b64c278a641514fc8", null ],
+    [ "JustEngagedWith", "d9/d69/a19481.html#acf30049b09bbaf3e30f2dcb77bf1b4e0", null ],
+    [ "KilledUnit", "d9/d69/a19481.html#a3d2173db5a852a356c187b2d2771b75f", null ],
+    [ "Reset", "d9/d69/a19481.html#a46776004549b0dcfcf73351225adaad8", null ],
+    [ "UpdateAI", "d9/d69/a19481.html#a4e26fc785b3c72982f9d98e0b120e929", null ],
+    [ "events", "d9/d69/a19481.html#aa2d2ccea219b679594d8d8b4a38d70cc", null ],
+    [ "pInstance", "d9/d69/a19481.html#abc195718a208a926f978d7f0fe0e7925", null ]
 ];

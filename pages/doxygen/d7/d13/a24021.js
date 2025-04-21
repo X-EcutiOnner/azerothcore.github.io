@@ -1,6 +1,7 @@
 var a24021 =
 [
-    [ "npc_overlord_drakuru_betrayalAI", "d3/dcd/a24025.html", "d3/dcd/a24025" ],
-    [ "npc_overlord_drakuru_betrayal", "d7/d13/a24021.html#af4092356ea86c25d91c73af1310c2eb0", null ],
-    [ "GetAI", "d7/d13/a24021.html#a3bd893f08212dc94a321beb7a95eea08", null ]
+    [ "npc_bessyAI", "d3/dcd/a24025.html", "d3/dcd/a24025" ],
+    [ "npc_bessy", "d7/d13/a24021.html#a08278c1524445054ca158433044a0824", null ],
+    [ "GetAI", "d7/d13/a24021.html#af805bc5ee3de2fd6773158e51bf09d4a", null ],
+    [ "OnQuestAccept", "d7/d13/a24021.html#a98b8e816195b81bab12cc9906df79807", null ]
 ];

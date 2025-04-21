@@ -1,15 +1,8 @@
 var a04929 =
 [
-    [ "GetBounds", "dd/d0d/a04929.html#a4a112397e75fbaf5fd991a322a8a4ea4", null ],
-    [ "operator==", "dd/d0d/a04929.html#ab9713afd57c0bdf9f5ff8d5d12cd567f", null ],
-    [ "readFromFile", "dd/d0d/a04929.html#a35d7880eb3e295ed3148ca05a2f4520e", null ],
-    [ "writeToFile", "dd/d0d/a04929.html#ae8623dcb78a2af4c9aebd60f67649f34", null ],
-    [ "adtId", "dd/d0d/a04929.html#a4ebcfe8326eff028e722c9972a16200b", null ],
-    [ "flags", "dd/d0d/a04929.html#acfc7a76db09013abfad8e42aaae59f52", null ],
-    [ "iBound", "dd/d0d/a04929.html#ae1dac1aa360c4d49b61a0cd8af92399c", null ],
-    [ "ID", "dd/d0d/a04929.html#ab2fdb441870d6ac7ddc05640ec1d0598", null ],
-    [ "iPos", "dd/d0d/a04929.html#abb5966f87710bc6a1f5da766c99b3e12", null ],
-    [ "iRot", "dd/d0d/a04929.html#a6d0b4f6bde1a20b246e4b22cc43e25af", null ],
-    [ "iScale", "dd/d0d/a04929.html#aad355d0fb09ff0360ed19610bef92d8e", null ],
-    [ "name", "dd/d0d/a04929.html#a66e19a4a28f8fc0c537f1315d9bddcfb", null ]
+    [ "AreaInfo", "d0/d93/a04933.html", "d0/d93/a04933" ],
+    [ "LiquidInfo", "dc/da2/a04937.html", "dc/da2/a04937" ],
+    [ "areaInfo", "dd/d0d/a04929.html#a0d30ac3fa0cefd6eafc1690c75f46f0f", null ],
+    [ "floorZ", "dd/d0d/a04929.html#af7c8710b5d296c1d792b4fc34302278f", null ],
+    [ "liquidInfo", "dd/d0d/a04929.html#ae59e1e7fdf4913c48a0d82e1d19366a7", null ]
 ];

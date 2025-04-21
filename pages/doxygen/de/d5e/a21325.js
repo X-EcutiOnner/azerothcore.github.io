@@ -1,6 +1,6 @@
 var a21325 =
 [
-    [ "npc_ulduar_saronite_animusAI", "df/d88/a21329.html", "df/d88/a21329" ],
-    [ "npc_ulduar_saronite_animus", "de/d5e/a21325.html#a22d552adc9db3f7d2a533ab7f58a2470", null ],
-    [ "GetAI", "de/d5e/a21325.html#a1fdd851e9d6e399f8f57d063a7dbd6d9", null ]
+    [ "npc_azure_binderAI", "df/d88/a21329.html", "df/d88/a21329" ],
+    [ "npc_azure_binder", "de/d5e/a21325.html#a25b8b19b6ccdae92418c47fe68537c42", null ],
+    [ "GetAI", "de/d5e/a21325.html#aad091206a8bd06a1064b68b81510eb56", null ]
 ];

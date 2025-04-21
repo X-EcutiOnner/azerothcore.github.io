@@ -1,7 +1,7 @@
 var a26973 =
 [
-    [ "PrepareSpellScript", "d7/d17/a26973.html#aad8061898087fbf5eb6527cbaa70927d", null ],
-    [ "RecalculateDamage", "d7/d17/a26973.html#a6f03ccb77ce43c4e36996ae344780ee3", null ],
-    [ "Register", "d7/d17/a26973.html#abc7e406244a1a5ea9d7c3d8feb10b8ae", null ],
-    [ "_damagePct", "d7/d17/a26973.html#a3ab5f5ec279f30dda50fa3ca3f5e6715", null ]
+    [ "CharacterDeleteActionIpLogger", "d7/d17/a26973.html#a37481de65409cf375dcff45615463949", null ],
+    [ "DeleteIPLogAction", "d7/d17/a26973.html#a73a5ddacd8892d2300be313cfc12f534", null ],
+    [ "OnPlayerDelete", "d7/d17/a26973.html#adb16e45e425fa816b2572692349d0005", null ],
+    [ "OnPlayerFailedDelete", "d7/d17/a26973.html#a16bc6247d220c1b6c52808cb4a522c11", null ]
 ];

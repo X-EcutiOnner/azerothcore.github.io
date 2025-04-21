@@ -1,6 +1,6 @@
 var a20021 =
 [
-    [ "boss_grobbulus_poison_cloudAI", "df/d24/a20025.html", "df/d24/a20025" ],
-    [ "boss_grobbulus_poison_cloud", "de/dad/a20021.html#a2bb8ebec0ae79f20602e551f654e0761", null ],
-    [ "GetAI", "de/dad/a20021.html#a34c68dd3e58b83c52f270eb1b194f2ed", null ]
+    [ "npc_ulduar_saronite_vaporsAI", "df/d24/a20025.html", "df/d24/a20025" ],
+    [ "npc_ulduar_saronite_vapors", "de/dad/a20021.html#a567c3aca8c381167ca278c2c3562e6f6", null ],
+    [ "GetAI", "de/dad/a20021.html#a3c2e7b6263f8935da9291c736b14d139", null ]
 ];

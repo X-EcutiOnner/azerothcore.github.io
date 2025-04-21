@@ -1,6 +1,7 @@
 var a26105 =
 [
-    [ "PrepareSpellScript", "d8/d64/a26105.html#abe1dcd583e3d3d42d86c922037ad77e6", null ],
-    [ "Register", "d8/d64/a26105.html#a8a772b805bf6772276c5895f5ad444e6", null ],
-    [ "SetDest", "d8/d64/a26105.html#a309f452b52202c9f895745d0b993751e", null ]
+    [ "HandleScriptEffect", "d8/d64/a26105.html#ad3497a9c986f65978d4b2553b0c9958f", null ],
+    [ "Load", "d8/d64/a26105.html#a33d46e5ebd418ea0242d958345cb44d2", null ],
+    [ "PrepareSpellScript", "d8/d64/a26105.html#ade09cd376d00df8b5e709026e353f409", null ],
+    [ "Register", "d8/d64/a26105.html#ad04bf0d88a3e1fde3c11b91d5ef1c7ae", null ]
 ];

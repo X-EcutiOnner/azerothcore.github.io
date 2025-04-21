@@ -1,8 +1,10 @@
 var a09881 =
 [
-    [ "ArenaScript", "dd/d8e/a09881.html#a59c0fe07dd2bb677d98d422b4bcfcc7c", null ],
-    [ "CanAddMember", "dd/d8e/a09881.html#aa85728dd471c2f4d58ed1794e741d060", null ],
-    [ "CanSaveToDB", "dd/d8e/a09881.html#a164257b5ed4a0808d709870cdf73ed3b", null ],
-    [ "IsDatabaseBound", "dd/d8e/a09881.html#ab6c90bb55c238fada3e9ddc993333d0d", null ],
-    [ "OnGetPoints", "dd/d8e/a09881.html#a13b22ad00d3742589532e6e522258834", null ]
+    [ "ChaseRange", "dd/d8e/a09881.html#acd43ed01c9e4845d82e4d240b5c35167", null ],
+    [ "ChaseRange", "dd/d8e/a09881.html#aaf19c63398d31699ed1703ae1ba5f1b6", null ],
+    [ "ChaseRange", "dd/d8e/a09881.html#a397b3789449b1c178f11f64313498c4d", null ],
+    [ "MaxRange", "dd/d8e/a09881.html#ae2a846630e79f3a15a5d93b18c68c915", null ],
+    [ "MaxTolerance", "dd/d8e/a09881.html#a7909b18028d43c84eca5feee3e41469c", null ],
+    [ "MinRange", "dd/d8e/a09881.html#a0e2c69e20d6a38d056505c3b5b0d9fd6", null ],
+    [ "MinTolerance", "dd/d8e/a09881.html#a7b640ecfc0e80921ab36c2c33f0b10fd", null ]
 ];

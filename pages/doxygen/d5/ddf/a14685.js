@@ -1,10 +1,14 @@
 var a14685 =
 [
-    [ "npc_crypt_fiendAI", "d5/ddf/a14685.html#ab55c7ded06271b33197282877bb88d44", null ],
-    [ "JustEngagedWith", "d5/ddf/a14685.html#a69eb1076d9c33323be778059d6314442", null ],
-    [ "Reset", "d5/ddf/a14685.html#a10701ab17d3b786075975149319d21ca", null ],
-    [ "UpdateAI", "d5/ddf/a14685.html#aac22e3bcb2d60ba5c6db3e338599f5c5", null ],
-    [ "WaypointReached", "d5/ddf/a14685.html#a7727ba1dddc1f5fb8a2adf9938db9211", null ],
-    [ "go", "d5/ddf/a14685.html#ac4af50533195a007b6813f0386431526", null ],
-    [ "WebTimer", "d5/ddf/a14685.html#a3c01ad115cf22b90ba2e8b47ae145554", null ]
+    [ "boss_captain_skarloc", "d5/ddf/a14685.html#a196477160ab6d07dc644ddadf756a1e0", null ],
+    [ "InitializeAI", "d5/ddf/a14685.html#a1c67fb99984f666b63f8f79c6783341d", null ],
+    [ "JustDied", "d5/ddf/a14685.html#aca0d536010a53efdf9270146f15f9058", null ],
+    [ "JustEngagedWith", "d5/ddf/a14685.html#aaa516f26cdc0ccd88f5c529a0a4252d4", null ],
+    [ "JustSummoned", "d5/ddf/a14685.html#a5f5f08ab00d18bece28dde7490e52af8", null ],
+    [ "KilledUnit", "d5/ddf/a14685.html#a1ead95b7cf3c4fb5b36be083e852aa21", null ],
+    [ "MovementInform", "d5/ddf/a14685.html#a8e16d85ca8e41bc1cb7ac749dfaea075", null ],
+    [ "Reset", "d5/ddf/a14685.html#a73b728cd24c8cb124f93c0e637bc8a11", null ],
+    [ "UpdateAI", "d5/ddf/a14685.html#aa1a9d9e781f1bc2394e2ebf879fdf196", null ],
+    [ "_spawnedAdds", "d5/ddf/a14685.html#ad69432da4a5beb5fcc8bbac155608a87", null ],
+    [ "summons", "d5/ddf/a14685.html#a83a9e5971411de1c136cbad91f73f487", null ]
 ];

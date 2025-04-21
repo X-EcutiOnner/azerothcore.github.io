@@ -1,6 +1,7 @@
 var a17961 =
 [
-    [ "spell_festergut_pungent_blight_SpellScript", "d4/db3/a17965.html", "d4/db3/a17965" ],
-    [ "spell_festergut_pungent_blight", "d6/d45/a17961.html#a7c143c7abd4a7af50ad2363b42db67dd", null ],
-    [ "GetSpellScript", "d6/d45/a17961.html#a24ffde7ca1f880628580fe6617bbf211", null ]
+    [ "OnRemove", "d6/d45/a17961.html#aa096174465120bde1994c85f72682be1", null ],
+    [ "PrepareAuraScript", "d6/d45/a17961.html#a49ba4ed8ac0ee006c74a71e6779c1a3b", null ],
+    [ "Register", "d6/d45/a17961.html#a6e9c95b06f3ec9dc0739beaabc016d5f", null ],
+    [ "Validate", "d6/d45/a17961.html#a1b7ef2c14db8543a9128aa335548fa00", null ]
 ];

@@ -1,6 +1,6 @@
 var a23965 =
 [
-    [ "spell_wintergrasp_water_SpellScript", "d7/d45/a23969.html", "d7/d45/a23969" ],
-    [ "spell_wintergrasp_water", "d6/d44/a23965.html#a5d325e37681e7f7804223122632232f4", null ],
-    [ "GetSpellScript", "d6/d44/a23965.html#aa64f7089ec483e5763514b3fd9e5af77", null ]
+    [ "go_beaconAI", "d6/d44/a23965.html#a95f0f62d4e34da650c22a7ce796fc85f", null ],
+    [ "OnStateChanged", "d6/d44/a23965.html#a10bd78bf6c2451fe95163eb9083bdf44", null ],
+    [ "creatureList", "d6/d44/a23965.html#a8f406b85752e42cc26741aa5a13e69bc", null ]
 ];

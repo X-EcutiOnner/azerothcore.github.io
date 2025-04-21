@@ -1,11 +1,9 @@
 var a07949 =
 [
-    [ "MovableMapObject", "d0/d86/a07949.html#ad9f4cb74c55993cfdfc5895aefc33cfb", null ],
-    [ "GetCurrentCell", "d0/d86/a07949.html#a6d7d87cff5f00f3b370584675caf7870", null ],
-    [ "SetCurrentCell", "d0/d86/a07949.html#a4caa8c9e50452bff413dec06bf80b84c", null ],
-    [ "Map", "d0/d86/a07949.html#ad2f32e921244459f7cc6d50355429cc6", null ],
-    [ "ObjectGridLoader", "d0/d86/a07949.html#a9551c85ae0e43e4d212225c643da2262", null ],
-    [ "RandomMovementGenerator", "d0/d86/a07949.html#a260ebfc53c9406bc0356c553822d8ab2", null ],
-    [ "_currentCell", "d0/d86/a07949.html#a529db8859c0c9713bcc2f62459bbcc9f", null ],
-    [ "_moveState", "d0/d86/a07949.html#a6782d8e3dc7de58ef83a83cf0a355e43", null ]
+    [ "LFGPlayerScript", "d0/d86/a07949.html#ad27ca48d9e573ad0ba155a3f7eb1ae88", null ],
+    [ "OnPlayerBindToInstance", "d0/d86/a07949.html#aeb3fd4e39ed8ba345cf3c76a232f241d", null ],
+    [ "OnPlayerLevelChanged", "d0/d86/a07949.html#afd530a2823a7187b49645c9d0625c8ba", null ],
+    [ "OnPlayerLogin", "d0/d86/a07949.html#a3b4e8775787feb8266edc52fddc7ab3a", null ],
+    [ "OnPlayerLogout", "d0/d86/a07949.html#a13c365770c90d1a44f72ab4cb8c7f903", null ],
+    [ "OnPlayerMapChanged", "d0/d86/a07949.html#ab3022d19b8d32bf0f269b2e991150a1c", null ]
 ];

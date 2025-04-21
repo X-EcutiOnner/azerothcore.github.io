@@ -1,8 +1,9 @@
 var a27577 =
 [
-    [ "HandleDummy", "da/d37/a27577.html#ae5487bc9e4c7444468d076785af473ca", null ],
-    [ "Load", "da/d37/a27577.html#a3bf16100687a002a0d3b95bea11dc90f", null ],
-    [ "PrepareSpellScript", "da/d37/a27577.html#a8586b480a304f19741de62b606c9f456", null ],
-    [ "Register", "da/d37/a27577.html#a4698eab378b8cf6d4aeb595b53a9df13", null ],
-    [ "Validate", "da/d37/a27577.html#ab3e697ba71654bf9b67e1d1660b3a7ea", null ]
+    [ "npc_arcanite_dragonling", "da/d37/a27577.html#a9b7e4cefa312a16c90018d655ad94758", null ],
+    [ "CanAIAttack", "da/d37/a27577.html#a374e127ef749dc72ec70137bcd13a0b9", null ],
+    [ "IsSummonedBy", "da/d37/a27577.html#a921b35a91c4f21258efdb41fd87413db", null ],
+    [ "JustEngagedWith", "da/d37/a27577.html#a65f6d779681861117f750b70154b3e0d", null ],
+    [ "Reset", "da/d37/a27577.html#a4468d91430add821bf7a7ab11d8063da", null ],
+    [ "UpdateAI", "da/d37/a27577.html#aebe430b9a3079a5ccbfd979a74e532f3", null ]
 ];

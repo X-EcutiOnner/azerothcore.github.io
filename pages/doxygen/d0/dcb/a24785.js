@@ -1,6 +1,6 @@
 var a24785 =
 [
-    [ "PrepareAuraScript", "d0/dcb/a24785.html#a20d1c2a5d5087691f78e9580e3219062", null ],
-    [ "Register", "d0/dcb/a24785.html#a949581f3790a75147e9c8a9b91735975", null ],
-    [ "Update", "d0/dcb/a24785.html#a72cbe820e99125be363dd65fc8fbb20e", null ]
+    [ "CheckProc", "d0/dcb/a24785.html#afa477049b9a4fa18594b203a6066d205", null ],
+    [ "PrepareAuraScript", "d0/dcb/a24785.html#a9fff895957dfedb5d975e4a8e9588aa9", null ],
+    [ "Register", "d0/dcb/a24785.html#ab0746e7fa614f09708f89ed3ef93fca9", null ]
 ];

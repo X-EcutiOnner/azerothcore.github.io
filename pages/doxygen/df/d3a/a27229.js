@@ -1,10 +1,6 @@
 var a27229 =
 [
-    [ "ApplyMarker", "df/d3a/a27229.html#aae1bd2f5f21a389e8d110cabecc9d94d", null ],
-    [ "CheckTrapProc", "df/d3a/a27229.html#a00f06f18b6874302f88c3af193d8e4ed", null ],
-    [ "HandleProcs", "df/d3a/a27229.html#a81abe76c24a6a6320811d99ce8f5fb4f", null ],
-    [ "IsTargetValid", "df/d3a/a27229.html#a02590da9b97a4d6bc7a6cbd0e670480f", null ],
-    [ "PrepareAuraScript", "df/d3a/a27229.html#a475320d20875b2d710ed3734b78f4645", null ],
-    [ "Register", "df/d3a/a27229.html#aca7649a87ace4e22793ca33705b1500c", null ],
-    [ "Validate", "df/d3a/a27229.html#a45630b6dc703996321286ff16a17e3e3", null ]
+    [ "go_bashir_crystalforge", "df/d3a/a27229.html#a8b68a63933e14d82198580912fddc280", null ],
+    [ "OnGossipHello", "df/d3a/a27229.html#a4aa941ae78a17eecc5593d6ccd17ff63", null ],
+    [ "OnGossipSelect", "df/d3a/a27229.html#ac7e1b6db4ae2bee766b95049a8b0c320", null ]
 ];

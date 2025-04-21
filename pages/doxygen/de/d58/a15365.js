@@ -1,8 +1,8 @@
 var a15365 =
 [
-    [ "npc_injured_draeneiAI", "de/d58/a15365.html#a6832ec8b005e75ff66b0fd04e5ff3daa", null ],
-    [ "JustEngagedWith", "de/d58/a15365.html#adcc5750f0ab037a7ac38b9fa64b75a74", null ],
-    [ "MoveInLineOfSight", "de/d58/a15365.html#a514556f4a81c6f1f8b7caaa526c08662", null ],
-    [ "Reset", "de/d58/a15365.html#adcb601f739a91ce71926791885152471", null ],
-    [ "UpdateAI", "de/d58/a15365.html#af4d723ac0a95f9dad12e82d5bc987f50", null ]
+    [ "FilterTargets", "de/d58/a15365.html#a47b8055fa1b28968e8323ca98613aa83", null ],
+    [ "HandleScript", "de/d58/a15365.html#a8f7984e510d8947a2ae4b0734409866b", null ],
+    [ "PrepareSpellScript", "de/d58/a15365.html#a5c12caf56e95a9f7960ed9f4a3945c7c", null ],
+    [ "Register", "de/d58/a15365.html#adf76a5d9145f88aad5b3dd164fa4fcc4", null ],
+    [ "Validate", "de/d58/a15365.html#aa3f9c6418eb804a2ddf235beb8491a19", null ]
 ];

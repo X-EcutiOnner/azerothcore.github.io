@@ -1,10 +1,9 @@
 var a22197 =
 [
-    [ "boss_yoggsaron_immortal_guardianAI", "dc/dac/a22197.html#a84a3ffe43a4ce49cd543f770594cd683", null ],
-    [ "DamageTaken", "dc/dac/a22197.html#aec157bcf0628a7301bcb91dd62bcc484", null ],
-    [ "Reset", "dc/dac/a22197.html#a763f772414f00c0f83402e1a635b6bd0", null ],
-    [ "SpellHit", "dc/dac/a22197.html#a60721961f2eb5e91c15890252166b872", null ],
-    [ "UpdateAI", "dc/dac/a22197.html#a7fa550f683fcf16f5bd70a307bffcb2b", null ],
-    [ "_spellTimer", "dc/dac/a22197.html#a4ed360380707195e10753436020b67eb", null ],
-    [ "_visualTimer", "dc/dac/a22197.html#a8c382c37aaa3d20cfc0fe604af52bef4", null ]
+    [ "npc_brunnhildar_prisonerAI", "dc/dac/a22197.html#ad650885c7f615f8b27ba20203c9fbb6f", null ],
+    [ "JustRespawned", "dc/dac/a22197.html#a15843fcdc5d9eb34df7869b56a0b16ac", null ],
+    [ "Reset", "dc/dac/a22197.html#ac9ba0806b9702cebe9171d9ba8962b0f", null ],
+    [ "SpellHit", "dc/dac/a22197.html#af2835ec5b951e2f4bb176ebe6bb958fd", null ],
+    [ "UpdateAI", "dc/dac/a22197.html#a0702d4cf577ac00688a7b93bfe656952", null ],
+    [ "freed", "dc/dac/a22197.html#a46e03a19bac91a800154e3c873235800", null ]
 ];

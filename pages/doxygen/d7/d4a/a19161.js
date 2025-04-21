@@ -1,6 +1,6 @@
 var a19161 =
 [
-    [ "spell_the_lich_king_vile_spirit_move_target_search_SpellScript", "d3/d1e/a19165.html", "d3/d1e/a19165" ],
-    [ "spell_the_lich_king_vile_spirit_move_target_search", "d7/d4a/a19161.html#ad9eb4ae91a20569845885b7de4ff44d7", null ],
-    [ "GetSpellScript", "d7/d4a/a19161.html#a9da70060432d8203daa66ef0b9c7a677", null ]
+    [ "npc_hover_diskAI", "d3/d1e/a19165.html", "d3/d1e/a19165" ],
+    [ "npc_hover_disk", "d7/d4a/a19161.html#af0ab534387a2af4e168915801ee855e5", null ],
+    [ "GetAI", "d7/d4a/a19161.html#adbe9285126089ca998e9b6360f42c553", null ]
 ];

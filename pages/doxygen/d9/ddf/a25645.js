@@ -1,7 +1,7 @@
 var a25645 =
 [
-    [ "boss_gatewatcher_gyrokill", "d9/ddf/a25645.html#a82335081dd79f7a0aa1dc0c26bd878fb", null ],
-    [ "JustDied", "d9/ddf/a25645.html#a4bbfb59c2a687ebb3e88bde9784af38e", null ],
-    [ "JustEngagedWith", "d9/ddf/a25645.html#a95d3ae80f87be9d972ecb056e0b85412", null ],
-    [ "KilledUnit", "d9/ddf/a25645.html#a274355d0303d9bf5761758f175826bd1", null ]
+    [ "HandleScript", "d9/ddf/a25645.html#a5b35bbac405dc2b03f195cb29786d5a6", null ],
+    [ "Load", "d9/ddf/a25645.html#a61f1a4514e9900e4e14fded3c0b05593", null ],
+    [ "PrepareSpellScript", "d9/ddf/a25645.html#abfac1629b7724a3b17b94480c31867af", null ],
+    [ "Register", "d9/ddf/a25645.html#a62b9c194106e261245496441176c8d53", null ]
 ];

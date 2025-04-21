@@ -1,6 +1,7 @@
 var a17073 =
 [
-    [ "boss_devourer_of_soulsAI", "da/dac/a17077.html", "da/dac/a17077" ],
-    [ "boss_devourer_of_souls", "d1/de2/a17073.html#a95b3a33be3b85a4c7ecfb4370a9ddc60", null ],
-    [ "GetAI", "d1/de2/a17073.html#a3de68fa630c5b74104c461f88edd1d36", null ]
+    [ "HandleDummy", "d1/de2/a17073.html#ab614c27fbeb0fc6cac42c3e8f981e11d", null ],
+    [ "PrepareSpellScript", "d1/de2/a17073.html#a3ef0564565ea49265800422c835432b0", null ],
+    [ "Register", "d1/de2/a17073.html#a7b685926a8d511397889616e97bbd563", null ],
+    [ "Validate", "d1/de2/a17073.html#aecd40c136e44dfc9c5e4dd572d577578", null ]
 ];

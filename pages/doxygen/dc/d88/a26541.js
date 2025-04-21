@@ -1,6 +1,7 @@
 var a26541 =
 [
-    [ "PrepareAuraScript", "dc/d88/a26541.html#a31bde31b6db4f71ce65c6e1a862df771", null ],
-    [ "Register", "dc/d88/a26541.html#aebe64c4760d13d8afaebcf4a4b1196fa", null ],
-    [ "UpdateAmount", "dc/d88/a26541.html#a621e73a09438f3f9cbaa232125df3b87", null ]
+    [ "CheckProc", "dc/d88/a26541.html#aa03bd8b92debda29f0b236fdbef73f16", null ],
+    [ "HandleProc", "dc/d88/a26541.html#a91ee1b654a3a26e027407635a45b80b3", null ],
+    [ "PrepareAuraScript", "dc/d88/a26541.html#ad2796a924fbe36dc9cd1c9de60eb9b16", null ],
+    [ "Register", "dc/d88/a26541.html#ab06a732203303d5533bdc4b217640d2d", null ]
 ];

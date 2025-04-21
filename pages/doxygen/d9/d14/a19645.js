@@ -1,6 +1,7 @@
 var a19645 =
 [
-    [ "PrepareSpellScript", "d9/d14/a19645.html#ac699ce446f257197fbc4b0c46511ebf8", null ],
-    [ "Register", "d9/d14/a19645.html#ab9771f4a92bbbad067c8bfb41c537757", null ],
-    [ "RelocateDest", "d9/d14/a19645.html#a8c8937991e4a78b4380090bfe2f4ea67", null ]
+    [ "HandlePeriodic", "d9/d14/a19645.html#a14fd25f78c9e2bfbdaeb07f3233628b6", null ],
+    [ "PrepareAuraScript", "d9/d14/a19645.html#ad78b06733a8609dd39e885db2f23edba", null ],
+    [ "Register", "d9/d14/a19645.html#ac9ae9be546964752869163896c4045dd", null ],
+    [ "Validate", "d9/d14/a19645.html#afcca84d03b29ef7569c03f973a6c191b", null ]
 ];

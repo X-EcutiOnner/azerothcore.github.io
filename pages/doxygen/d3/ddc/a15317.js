@@ -1,5 +1,7 @@
 var a15317 =
 [
-    [ "at_battleguard_sartura", "d3/ddc/a15317.html#a9247cdebeb57d2ddbfa75f60da125d36", null ],
-    [ "OnTrigger", "d3/ddc/a15317.html#a6a7b9f210ce0c2844b4f2412c0fe440e", null ]
+    [ "npc_aged_dying_ancient_kodoAI", "d3/ddc/a15317.html#aaed19d0c915891d8afecda7df75a8a75", null ],
+    [ "JustRespawned", "d3/ddc/a15317.html#a9353ac81b0c209a56313b52f2257ddd2", null ],
+    [ "MoveInLineOfSight", "d3/ddc/a15317.html#a295d4bef97b97c7deb31a81274f0818d", null ],
+    [ "SpellHit", "d3/ddc/a15317.html#a021b82aa6bd2e118fe810f18349fda42", null ]
 ];

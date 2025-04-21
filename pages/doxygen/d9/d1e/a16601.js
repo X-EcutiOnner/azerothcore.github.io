@@ -1,7 +1,8 @@
 var a16601 =
 [
-    [ "npc_toc_paladinAI", "d9/d1e/a16601.html#a025d39c04e864ebd77f4f930ec20b1e5", null ],
-    [ "myCanCast", "d9/d1e/a16601.html#a06130e6e440d0b25d8b5566de6190cbc", null ],
-    [ "UpdateAI", "d9/d1e/a16601.html#a32943f1c3ffd0239c85ac1b81786f049", null ],
-    [ "events", "d9/d1e/a16601.html#ae47a32bbb05cf2f634ae18bc672ec004", null ]
+    [ "HandleEffectApply", "d9/d1e/a16601.html#a92b98d9b9be98c330b6efbe34dae235b", null ],
+    [ "HandleEffectRemove", "d9/d1e/a16601.html#a04504220319ec562b1b6691f471c1b8d", null ],
+    [ "PrepareAuraScript", "d9/d1e/a16601.html#a10fd29809373bcfaf38fd587fcdd1dee", null ],
+    [ "Register", "d9/d1e/a16601.html#a9160c940913e4829bd0a6fe269c3b5d3", null ],
+    [ "Validate", "d9/d1e/a16601.html#a7f7750933e122e8c672b6b93f4801cd7", null ]
 ];

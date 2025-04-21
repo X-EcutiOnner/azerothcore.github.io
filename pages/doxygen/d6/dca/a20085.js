@@ -1,6 +1,7 @@
 var a20085 =
 [
-    [ "boss_loathebAI", "d1/d16/a20089.html", "d1/d16/a20089" ],
-    [ "boss_loatheb", "d6/dca/a20085.html#a93bf8055a9ed900c880ef8b81b87bafd", null ],
-    [ "GetAI", "d6/dca/a20085.html#aca9b3a2515777f81b354c01a9727276e", null ]
+    [ "npc_ulduar_icicleAI", "d6/dca/a20085.html#a258376e257fbe3c8a6c70b2585d44df1", null ],
+    [ "UpdateAI", "d6/dca/a20085.html#a0edf734ae2dac7a5378b21b73e3714c8", null ],
+    [ "timer1", "d6/dca/a20085.html#aa912acbe225d9056e44bc22b8d9f7473", null ],
+    [ "timer2", "d6/dca/a20085.html#a82e034fc4ccb8eb92abeb72a222764c7", null ]
 ];

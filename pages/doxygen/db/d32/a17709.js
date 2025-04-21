@@ -1,6 +1,7 @@
 var a17709 =
 [
-    [ "spell_taldaram_summon_flame_ball_SpellScript", "d0/d1b/a17713.html", "d0/d1b/a17713" ],
-    [ "spell_taldaram_summon_flame_ball", "db/d32/a17709.html#ab0c0c31c4c27279d8000e0585482c854", null ],
-    [ "GetSpellScript", "db/d32/a17709.html#a8dd436e8f30163fd46a758c3d0a6d196", null ]
+    [ "HandleSpikes", "db/d32/a17709.html#a012d61aacf79b9b1f5b4b5c5c81b5ed4", null ],
+    [ "PrepareSpellScript", "db/d32/a17709.html#a6ffb6454eb4c58a1b66356814c13b659", null ],
+    [ "Register", "db/d32/a17709.html#a893345cf191d084a0f97a8464b7d381a", null ],
+    [ "Validate", "db/d32/a17709.html#aa6545760706d8695aefd4064c3c71c6b", null ]
 ];

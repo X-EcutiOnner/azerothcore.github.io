@@ -1,6 +1,6 @@
 var a12925 =
 [
-    [ "spell_madrigosa_activate_barrier_SpellScript", "d5/ddf/a12929.html", "d5/ddf/a12929" ],
-    [ "spell_madrigosa_activate_barrier", "dc/d2d/a12925.html#ac5d10ee2d946c5ddc7dd113fcd9ce2f2", null ],
-    [ "GetSpellScript", "dc/d2d/a12925.html#a8524f167af62a47cb720737551c14a23", null ]
+    [ "npc_a_special_surpriseAI", "d5/ddf/a12929.html", "d5/ddf/a12929" ],
+    [ "npc_a_special_surprise", "dc/d2d/a12925.html#ab88d74a86049c53b1569bdcc263f3dd4", null ],
+    [ "GetAI", "dc/d2d/a12925.html#a930c7ba67a20fbfc55b40117ccd52c98", null ]
 ];

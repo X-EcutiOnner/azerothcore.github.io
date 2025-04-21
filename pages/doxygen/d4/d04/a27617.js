@@ -1,7 +1,13 @@
 var a27617 =
 [
-    [ "HandleDummy", "d4/d04/a27617.html#addfcb17cbbb56bda88997b34ce3e3ddd", null ],
-    [ "PrepareSpellScript", "d4/d04/a27617.html#a22614b06c6f1853f02a992dcab027a60", null ],
-    [ "Register", "d4/d04/a27617.html#a9ad5691f6049078c45052d07513b35a2", null ],
-    [ "Validate", "d4/d04/a27617.html#a3fab2057be5de9e2f7703b8f43a99ed5", null ]
+    [ "DBCDatabaseLoader", "d4/d04/a27617.html#a2efbbd3799e5f72fecaeaf9365579482", null ],
+    [ "DBCDatabaseLoader", "d4/d04/a27617.html#a7d93e6d37796f341edcf25062743c5b5", null ],
+    [ "CloneStringToPool", "d4/d04/a27617.html#a68e5ae50c980aa81b051d0622575bb2d", null ],
+    [ "Load", "d4/d04/a27617.html#a1b116dca8b01e0462a2e6c08245a49a3", null ],
+    [ "operator=", "d4/d04/a27617.html#a46f7d5670840892f7a8714ce0b6cde13", null ],
+    [ "_dbcFormat", "d4/d04/a27617.html#aa749118514d0b784ac6df295bd820d8e", null ],
+    [ "_recordSize", "d4/d04/a27617.html#a6721538ebbcfe020fb195d44b3bdbd11", null ],
+    [ "_sqlIndexPos", "d4/d04/a27617.html#ac1b5b191615d3e3121ea70965b0d495a", null ],
+    [ "_sqlTableName", "d4/d04/a27617.html#ab6590071edf5311ccf484d48e4fd125e", null ],
+    [ "_stringPool", "d4/d04/a27617.html#a52b5b86f0efb8ad0716bc0171a3aa740", null ]
 ];

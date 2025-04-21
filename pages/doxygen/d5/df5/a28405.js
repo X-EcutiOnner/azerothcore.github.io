@@ -1,6 +1,11 @@
 var a28405 =
 [
-    [ "FilterTargets", "d5/df5/a28405.html#af7035627c3d6dd3fd8381ee258391a0b", null ],
-    [ "PrepareSpellScript", "d5/df5/a28405.html#a3211fda7263bc513d14a8f2fd1507ef8", null ],
-    [ "Register", "d5/df5/a28405.html#abe63ec69fe15fd8924fb63235489e088", null ]
+    [ "IsAvailable", "d5/df5/a28405.html#adfebd7a162ebae8396669de031c768a6", null ],
+    [ "operator bool", "d5/df5/a28405.html#ac25d4bb270c805b8ea2a6e0b4b6b2e74", null ],
+    [ "operator*", "d5/df5/a28405.html#a24733bf06b4a91abcf4945aa5303a275", null ],
+    [ "operator->", "d5/df5/a28405.html#ad0ddd6fe7451f2b968db3a7d7a93b342", null ],
+    [ "SecretMgr", "d5/df5/a28405.html#af098c138ad828545a3dfb1870ad4c2fb", null ],
+    [ "lock", "d5/df5/a28405.html#aff5ea87e5a7dbfdf5bd38400997f2c40", null ],
+    [ "state", "d5/df5/a28405.html#a01563e00123d442b82bd6389d838c23d", null ],
+    [ "value", "d5/df5/a28405.html#a16b48eb9b384f6ab8c6996b38f559825", null ]
 ];

@@ -1,5 +1,5 @@
 var a23997 =
 [
-    [ "achievement_wg_within_our_grasp", "d7/df7/a23997.html#a9edbd15bc6989c6948e21391a683d22d", null ],
-    [ "OnCheck", "d7/df7/a23997.html#a10b659c4b52322536333e3d191796c27", null ]
+    [ "go_warmaul_prison", "d7/df7/a23997.html#adffbb532d7ee3c5a67543fe15ce5b67b", null ],
+    [ "OnGossipHello", "d7/df7/a23997.html#ac9e66eeb30bf951d37f2d0917a295705", null ]
 ];

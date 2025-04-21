@@ -1,7 +1,9 @@
 var a25113 =
 [
-    [ "HandleScript", "dd/d86/a25113.html#a42052a416290a54d5479a402de578a73", null ],
-    [ "PrepareSpellScript", "dd/d86/a25113.html#a5f6aa972879b65c0207e47435d436a33", null ],
-    [ "Register", "dd/d86/a25113.html#a98efb2a9a68d7878af9d6f9d46db88c9", null ],
-    [ "Validate", "dd/d86/a25113.html#a0d10ed00f11ede2b63665e4cfe53a70c", null ]
+    [ "spell_gen_lifebloom", "dd/d86/a25113.html#a5cb52a4dda841d9d31fd00a31ddc3350", null ],
+    [ "AfterRemove", "dd/d86/a25113.html#aea962f603e56c1bd33fccaef0c89d917", null ],
+    [ "PrepareAuraScript", "dd/d86/a25113.html#ac11134bdc3588795ce6e256c5b02055f", null ],
+    [ "Register", "dd/d86/a25113.html#ab4a552402ee9f90834320d6fc668cff3", null ],
+    [ "Validate", "dd/d86/a25113.html#a599634d92b92a5635b89733b7bb3c3c8", null ],
+    [ "_spellId", "dd/d86/a25113.html#a196484d01d2dc07163e18fdca9f60ca9", null ]
 ];

@@ -1,10 +1,14 @@
 var a05821 =
 [
-    [ "NullCreatureAI", "d5/d9e/a05821.html#aa9969eeb9a79559c9f2d3bd907b3fd85", null ],
-    [ "AttackStart", "d5/d9e/a05821.html#a94d4594e1f39143ea41ce00aeecec4b4", null ],
-    [ "EnterEvadeMode", "d5/d9e/a05821.html#a726edd296c16ed2414fcc1827f88238f", null ],
-    [ "MoveInLineOfSight", "d5/d9e/a05821.html#a12c54c92a08e81751563ec9522236b28", null ],
-    [ "OnCharmed", "d5/d9e/a05821.html#a77b274955dcfdf2d10bbc43b64330f8d", null ],
-    [ "Permissible", "d5/d9e/a05821.html#a77595426da50819a0ff0744930d19b23", null ],
-    [ "UpdateAI", "d5/d9e/a05821.html#ab200fcf78dee74a2ec808c01f5855236", null ]
+    [ "difference_type", "d5/d9e/a05821.html#aa5abd2b7fa1dc64ac1eb085521b27d6f", null ],
+    [ "iterator_category", "d5/d9e/a05821.html#acaafbe30e2be9953852968b633d8237f", null ],
+    [ "pointer", "d5/d9e/a05821.html#a33215a042f7b7ddb243e8434a4c26346", null ],
+    [ "reference", "d5/d9e/a05821.html#a5618bd9b42f553be7feaf26fac8fe3ba", null ],
+    [ "value_type", "d5/d9e/a05821.html#aa4866b181d8cd3264394657a2dac99a8", null ],
+    [ "ResultIterator", "d5/d9e/a05821.html#a0a7d6ac1eee62492330353b15edb4fd0", null ],
+    [ "operator!=", "d5/d9e/a05821.html#a56f56c284c3001703ec4ee6ac705066f", null ],
+    [ "operator*", "d5/d9e/a05821.html#a4c7ba1d0e7251aeab6b255bf1c78defd", null ],
+    [ "operator++", "d5/d9e/a05821.html#ae66f3f0e1fd5af21ff0854826fb37075", null ],
+    [ "operator->", "d5/d9e/a05821.html#a0b6cee284fea4a4023cc688614432b69", null ],
+    [ "_ptr", "d5/d9e/a05821.html#a0be3611fcc2a6eb680a6f4aaba57068e", null ]
 ];

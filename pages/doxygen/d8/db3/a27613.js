@@ -1,7 +1,5 @@
 var a27613 =
 [
-    [ "HandleEnergize", "d8/db3/a27613.html#a283e713252166a863aa96530d6e7608b", null ],
-    [ "Load", "d8/db3/a27613.html#a89847e0e9435a708c5722ff928f7033f", null ],
-    [ "PrepareSpellScript", "d8/db3/a27613.html#a8847e05e6eeafd801fca5423d0689432", null ],
-    [ "Register", "d8/db3/a27613.html#ae0778ffd8cf203e22510ee91b0394303", null ]
+    [ "go_transport_the_purple_princess", "d8/db3/a27613.html#ab0c79197964857d578036693a2c18e8a", null ],
+    [ "EventInform", "d8/db3/a27613.html#ac5b73f1bea180797169138f8e9228783", null ]
 ];

@@ -1,6 +1,7 @@
 var a13189 =
 [
-    [ "spell_kiljaeden_darkness_AuraScript", "d3/d2c/a13193.html", "d3/d2c/a13193" ],
-    [ "spell_kiljaeden_darkness", "d7/d19/a13189.html#aae321af3a7ded7b686527908a2e8960c", null ],
-    [ "GetAuraScript", "d7/d19/a13189.html#a4f2e98c678cfea3e6f3311366daa7fb8", null ]
+    [ "CorruptTriggers", "d7/d19/a13189.html#a225cafcce56db7d4aefd3fb75ed2533f", null ],
+    [ "Execute", "d7/d19/a13189.html#a9929f3518f307e0b753782967f06c6c1", null ],
+    [ "_caster", "d7/d19/a13189.html#a2b9e4c3d292b7e3deea57e1542b3ba12", null ],
+    [ "_currentLane", "d7/d19/a13189.html#a53e4c60e29f59aa91e059d50e470a22a", null ]
 ];

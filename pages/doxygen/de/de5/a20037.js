@@ -1,6 +1,8 @@
 var a20037 =
 [
-    [ "spell_grobbulus_mutating_injection_AuraScript", "de/dd3/a20041.html", "de/dd3/a20041" ],
-    [ "spell_grobbulus_mutating_injection", "de/de5/a20037.html#abd78814e541570a4e058d180b94d0d36", null ],
-    [ "GetAuraScript", "de/de5/a20037.html#a5eade9348eae0ce6b36e9d6ee98bbca8", null ]
+    [ "OnApply", "de/de5/a20037.html#a101aab87e9f45ebab1cbe77ecca65c5a", null ],
+    [ "OnRemove", "de/de5/a20037.html#a4709f570f9014eb36bc8c65269470373", null ],
+    [ "PrepareAuraScript", "de/de5/a20037.html#a6ac96ce73f9983915a05686eb5d411e7", null ],
+    [ "Register", "de/de5/a20037.html#a7b4f44d86df652df78a10466bf64a2cf", null ],
+    [ "Validate", "de/de5/a20037.html#a3b98409fa1ed8d4e53e526686bc25987", null ]
 ];

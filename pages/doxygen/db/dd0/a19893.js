@@ -1,6 +1,7 @@
 var a19893 =
 [
-    [ "spell_ioc_repair_turret_AuraScript", "d5/d7f/a19897.html", "d5/d7f/a19897" ],
-    [ "spell_ioc_repair_turret", "db/dd0/a19893.html#a697e2de10638b4bb71bc7baa378b4971", null ],
-    [ "GetAuraScript", "db/dd0/a19893.html#a375ac83007c35f24f4dbe1f423e3c207", null ]
+    [ "OnPeriodic", "db/dd0/a19893.html#a9407d5477a40e36863e5fb5775dda122", null ],
+    [ "PrepareAuraScript", "db/dd0/a19893.html#a1ecb6e617976cdfbeb534849db41d57a", null ],
+    [ "Register", "db/dd0/a19893.html#a34a31e96b21de9b9320d8276f7beb45e", null ],
+    [ "Validate", "db/dd0/a19893.html#a2c2ca2c0425ab3b815d246b1caebf588", null ]
 ];

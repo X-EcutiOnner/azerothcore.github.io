@@ -1,5 +1,6 @@
 var a19461 =
 [
-    [ "achievement_portal_jockey", "d8/d8b/a19461.html#a6c6c4779072386ab7b64bad92762e2ac", null ],
-    [ "OnCheck", "d8/d8b/a19461.html#a2695b1fee353be7340f319c632a43efc", null ]
+    [ "boss_krystallusAI", "d0/d3b/a19465.html", "d0/d3b/a19465" ],
+    [ "boss_krystallus", "d8/d8b/a19461.html#a1d7453c9d67594bfdbd650fea897666a", null ],
+    [ "GetAI", "d8/d8b/a19461.html#aba14bcfa00a5d997959abd94af647bf4", null ]
 ];

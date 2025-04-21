@@ -1,6 +1,5 @@
 var a14201 =
 [
-    [ "npc_direbrew_antagonist", "dc/d50/a14201.html#a30fed4e6888d98af576dea8e13c510d3", null ],
-    [ "DoAction", "dc/d50/a14201.html#a924891e5d4e3f30d78186bedf76cf7d1", null ],
-    [ "JustEngagedWith", "dc/d50/a14201.html#aaf54b03d66d726901c289ff28d362787", null ]
+    [ "at_bring_your_orphan_to", "dc/d50/a14201.html#a160aae23dd3423dbc1afc8e3f8dbec7c", null ],
+    [ "OnTrigger", "dc/d50/a14201.html#af5cb73f6ba0657eff8809711a5dba84c", null ]
 ];

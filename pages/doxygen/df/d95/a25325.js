@@ -1,7 +1,7 @@
 var a25325 =
 [
-    [ "FilterTargets", "df/d95/a25325.html#a834163302ff10875227806d7d4945988", null ],
-    [ "HandleScriptEffect", "df/d95/a25325.html#a5dd125da7dd46e2d81ab5e0f10bc00c3", null ],
-    [ "PrepareSpellScript", "df/d95/a25325.html#a079e72d57550e03956088b4be1d11422", null ],
-    [ "Register", "df/d95/a25325.html#abd4e0f268652652d3828ba8d350de849", null ]
+    [ "HandleDummy", "df/d95/a25325.html#a4b23e39151d0bced8bb729435a56352d", null ],
+    [ "Load", "df/d95/a25325.html#aaa341815d71652a13f3ca449af6ac14f", null ],
+    [ "PrepareSpellScript", "df/d95/a25325.html#ac0e7d279312a59dd62d7d91eb3ef82b7", null ],
+    [ "Register", "df/d95/a25325.html#a19a2247cebd2af38a1bd30af213ad633", null ]
 ];

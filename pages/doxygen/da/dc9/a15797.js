@@ -1,12 +1,15 @@
 var a15797 =
 [
-    [ "DialogueHelper", "da/dc9/a15797.html#a3566655e8781bf5f9dff514fcd659421", null ],
-    [ "DialogueUpdate", "da/dc9/a15797.html#aaac3463d91a0cdbe2622b4fd85b34ed0", null ],
-    [ "DoNextDialogueStep", "da/dc9/a15797.html#a6e23a56ba5c5e4d4ab3b4c6be5cb09af", null ],
-    [ "GetSpeakerByEntry", "da/dc9/a15797.html#a50e652ca2cff035d8c79517fdbcfc67a", null ],
-    [ "JustDidDialogueStep", "da/dc9/a15797.html#a79e80634f1780895669f5c810958fd4f", null ],
-    [ "StartNextDialogueText", "da/dc9/a15797.html#ac16b8b9b50e8b35980d21f161bf33340", null ],
-    [ "_actionTimer", "da/dc9/a15797.html#a33b8551c136bcbc896b29d935c155a75", null ],
-    [ "_currentEntry", "da/dc9/a15797.html#a89ca5e8d25372bd8ab32322a0a9999f2", null ],
-    [ "_dialogueArray", "da/dc9/a15797.html#a489b8cd1c75ced0ec8e34b8051899dd7", null ]
+    [ "boss_hadronoxAI", "da/dc9/a15797.html#a75430465e2329252581c2522ff14d82b", null ],
+    [ "AnyPlayerValid", "da/dc9/a15797.html#a5b4dc381ff6df8a4badc61196e2687bd", null ],
+    [ "CheckEvadeIfOutOfCombatArea", "da/dc9/a15797.html#aa5c858b2702744f24ac1d22078df1d7b", null ],
+    [ "DamageTaken", "da/dc9/a15797.html#a31ddd8521366da9cb862334c659288b3", null ],
+    [ "DoAction", "da/dc9/a15797.html#ab3bf3ca6a2adcf4c50a9bf1ddc8bac0e", null ],
+    [ "GetData", "da/dc9/a15797.html#a6fdb9b9650382600086f5646a627af52", null ],
+    [ "JustDied", "da/dc9/a15797.html#a42ffdf5a3d2ee43ddf0fc0d29f580491", null ],
+    [ "JustEngagedWith", "da/dc9/a15797.html#af8bcc00fbf757e0a0129111cca0a0a5c", null ],
+    [ "JustSummoned", "da/dc9/a15797.html#a65b93a213a69edf864ca123b6560b0a8", null ],
+    [ "KilledUnit", "da/dc9/a15797.html#ac4b6a589939bdc8a23f182ebf955e242", null ],
+    [ "Reset", "da/dc9/a15797.html#a1063db2596a0d57381011c2a6ceeb34e", null ],
+    [ "UpdateAI", "da/dc9/a15797.html#a10aa0f67aeb12d3d9a34f6213fe3d28f", null ]
 ];

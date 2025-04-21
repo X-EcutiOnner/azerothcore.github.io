@@ -1,6 +1,6 @@
 var a10621 =
 [
-    [ "WorldSessionFilter", "da/d42/a10621.html#aba91eb2dfd56201534743b2d458fa111", null ],
-    [ "~WorldSessionFilter", "da/d42/a10621.html#a5de22e3a331e0ab17fe60f34c5b9b3fa", null ],
-    [ "Process", "da/d42/a10621.html#a0f0acf4ed9e61bf8aeb77ee7fb310660", null ]
+    [ "GuildOfficerRemoveMember", "da/d42/a10621.html#acd0f767ff61006c7b3c78f3dbb6da558", null ],
+    [ "Read", "da/d42/a10621.html#aa0c3cd629b73cb079cc3cf90bf6f8067", null ],
+    [ "Removee", "da/d42/a10621.html#a18ece7d865fa1b5da005c7c03397b4e2", null ]
 ];

@@ -1,5 +1,6 @@
 var a15233 =
 [
-    [ "at_twin_emperors", "d9/d28/a15233.html#a343d482857fa0a45c42f593e591f7754", null ],
-    [ "_OnTrigger", "d9/d28/a15233.html#adf3120b7bf611e0246abb2970711ada3", null ]
+    [ "npc_death_ravagerAI", "d1/da2/a15237.html", "d1/da2/a15237" ],
+    [ "npc_death_ravager", "d9/d28/a15233.html#a6aa04a28ce5aa0e467e638c8ffe11657", null ],
+    [ "GetAI", "d9/d28/a15233.html#a284d0b8ccf902d3f03ddfc6750fe0f1c", null ]
 ];

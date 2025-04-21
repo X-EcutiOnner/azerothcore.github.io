@@ -1,12 +1,16 @@
 var a07045 =
 [
-    [ "NodeId", "dc/df5/a07045.html#a039c468fa0b6110809f0617496c0146c", null ],
-    [ "TextAllianceAssaulted", "dc/df5/a07045.html#a345b2ce7c48e9d10d03ff484a0108389", null ],
-    [ "TextAllianceClaims", "dc/df5/a07045.html#a0671602a29f33e353a8a339540beae18", null ],
-    [ "TextAllianceDefended", "dc/df5/a07045.html#ac87cbc9c4ec307bd2f3b09f6cdcd0250", null ],
-    [ "TextAllianceTaken", "dc/df5/a07045.html#a281a0378999ed5966f5d28cc4310fbcd", null ],
-    [ "TextHordeAssaulted", "dc/df5/a07045.html#a7fb668b0b9563bb0779bf4a5daefded8", null ],
-    [ "TextHordeClaims", "dc/df5/a07045.html#acddac09017717cf5b2893ab83e1d10c8", null ],
-    [ "TextHordeDefended", "dc/df5/a07045.html#a00cea010cfe6fb9702e5cb00003e5bef", null ],
-    [ "TextHordeTaken", "dc/df5/a07045.html#a2bbd1b49b9b72784d07be9db2a27fe77", null ]
+    [ "BuildAuctionInfo", "dc/df5/a07045.html#ae220020b8cbb4e751bfa5798ea95d594", null ],
+    [ "CompareAuctionEntry", "dc/df5/a07045.html#a7daa9aa634bf2b589ef1906dfc0704d0", null ],
+    [ "SetItemNames", "dc/df5/a07045.html#a7d56d87bcd100bcb470bc7710c59bf9e", null ],
+    [ "bid", "dc/df5/a07045.html#a0b2c836d635d9a170b2d70b763c4907b", null ],
+    [ "bidderGuid", "dc/df5/a07045.html#ada14d168bde5da2b39c93a240941a80a", null ],
+    [ "buyout", "dc/df5/a07045.html#a978fea69d5c823f71e681903a432ec51", null ],
+    [ "expire_time", "dc/df5/a07045.html#aa3556fd353c58fda259c7dec52bb3b90", null ],
+    [ "Id", "dc/df5/a07045.html#aa52368fdef3baed1aed4af459f764b8b", null ],
+    [ "item", "dc/df5/a07045.html#a05df9a39681c0014a1c398b9bca1cbfe", null ],
+    [ "listFaction", "dc/df5/a07045.html#a988bdc1b8ae87c3797b24534e853213f", null ],
+    [ "ownerGuid", "dc/df5/a07045.html#a75e8c535be797d015ed970d896a56c29", null ],
+    [ "ownerName", "dc/df5/a07045.html#aaca6e4de9cfbc62eb1815c2cf79be123", null ],
+    [ "startbid", "dc/df5/a07045.html#ae3459d9794539591ae3727bdd6de3e2b", null ]
 ];

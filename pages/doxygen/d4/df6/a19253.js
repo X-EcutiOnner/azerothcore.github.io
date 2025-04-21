@@ -1,6 +1,6 @@
 var a19253 =
 [
-    [ "HandleScript", "d4/df6/a19253.html#a0cd837f93eecd04a4020ce1ce5728ff4", null ],
-    [ "PrepareSpellScript", "d4/df6/a19253.html#aef50146a16f7e3193c0dc1c25764df1b", null ],
-    [ "Register", "d4/df6/a19253.html#a96e0b79b950f8138bfccd0a063eb3742", null ]
+    [ "instance_nexus_InstanceMapScript", "df/d80/a19257.html", "df/d80/a19257" ],
+    [ "instance_nexus", "d4/df6/a19253.html#ad2d28baeef8323ae97f19ec9272c7e97", null ],
+    [ "GetInstanceScript", "d4/df6/a19253.html#a156210ba08caa0572c775dbd5851b250", null ]
 ];

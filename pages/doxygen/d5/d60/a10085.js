@@ -1,7 +1,5 @@
 var a10085 =
 [
-    [ "AutoBankItem", "d5/d60/a10085.html#a02d39ddc9eda90be709b2fa9c1f6023d", null ],
-    [ "Read", "d5/d60/a10085.html#a8651192c6040cdf5d257c134dde1208c", null ],
-    [ "Bag", "d5/d60/a10085.html#a69f9b65ecb778c94c6e9278e5f98d31b", null ],
-    [ "Slot", "d5/d60/a10085.html#a970f2ca85a76de1a25ad40a9ebf0029f", null ]
+    [ "ScriptId", "d5/d60/a10085.html#a6b17e959f80e7b3f2f3352a345eebcf9", null ],
+    [ "TypeId", "d5/d60/a10085.html#aaddf1f172211966f5d727e6238889223", null ]
 ];

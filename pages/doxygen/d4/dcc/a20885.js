@@ -1,5 +1,6 @@
 var a20885 =
 [
-    [ "achievement_algalon_herald_of_the_titans", "d4/dcc/a20885.html#a13c75b878f4669d212eeb09b55336384", null ],
-    [ "OnCheck", "d4/dcc/a20885.html#a20811d7bb453b1758967c11545e630e9", null ]
+    [ "CheckCast", "d4/dcc/a20885.html#a715a58956db4253c8adfed039833debd", null ],
+    [ "PrepareSpellScript", "d4/dcc/a20885.html#a3b03178d8ab54db36a19ba5a27444917", null ],
+    [ "Register", "d4/dcc/a20885.html#a6309c53b9e3828e76d34a77a8fe35df1", null ]
 ];

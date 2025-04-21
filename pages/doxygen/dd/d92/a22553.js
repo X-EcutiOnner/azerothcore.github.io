@@ -1,6 +1,8 @@
 var a22553 =
 [
-    [ "npc_ravenous_furbolgAI", "dc/d2f/a22557.html", "dc/d2f/a22557" ],
-    [ "npc_ravenous_furbolg", "dd/d92/a22553.html#a1d7adf8eb055cb6ba82db2f173256fe9", null ],
-    [ "GetAI", "dd/d92/a22553.html#a284c366e6f5bd024d9627a83dd966669", null ]
+    [ "npc_anzu_spirit", "dd/d92/a22553.html#adb1b66d6bf6ec1991465f85a504397d5", null ],
+    [ "IsSummonedBy", "dd/d92/a22553.html#a26f0928593f75d242c8bbcc541f7b59b", null ],
+    [ "Reset", "dd/d92/a22553.html#acef3f7093f93b6c227d145523cdc487a", null ],
+    [ "UpdateAI", "dd/d92/a22553.html#a9866d91ffc04548a96cfcdc3a5c7496a", null ],
+    [ "_scheduler", "dd/d92/a22553.html#ad14937df9ddddabcf96e2d1104ca153c", null ]
 ];

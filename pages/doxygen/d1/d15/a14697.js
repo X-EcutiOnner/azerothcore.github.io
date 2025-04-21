@@ -1,6 +1,6 @@
 var a14697 =
 [
-    [ "npc_frost_wyrmAI", "d5/dc3/a14701.html", "d5/dc3/a14701" ],
-    [ "npc_frost_wyrm", "d1/d15/a14697.html#aeb2e0596f4422242028e8488d62cda56", null ],
-    [ "GetAI", "d1/d15/a14697.html#af1e1bf4848c1cc289edff380f767f270", null ]
+    [ "instance_old_hillsbrad_InstanceMapScript", "d5/dc3/a14701.html", "d5/dc3/a14701" ],
+    [ "instance_old_hillsbrad", "d1/d15/a14697.html#a1ba2d39ae8f9209055de4b944cc535d8", null ],
+    [ "GetInstanceScript", "d1/d15/a14697.html#a1929c38b1c745b2df1ccaf462113e220", null ]
 ];

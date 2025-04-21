@@ -1,25 +1,10 @@
 var a09669 =
 [
-    [ "TaxiNodeChangeInfo", "d4/d96/a09673.html", "d4/d96/a09673" ],
-    [ "FlightPathMovementGenerator", "d9/dd2/a09669.html#a2f30b03536f0f88a4b9b541f08019af0", null ],
-    [ "DoEventIfAny", "d9/dd2/a09669.html#af7f2a72e9cf20bf105204b8de08400de", null ],
-    [ "DoFinalize", "d9/dd2/a09669.html#af4017ff6e47601f667587fb7dd6a721c", null ],
-    [ "DoInitialize", "d9/dd2/a09669.html#a4b0ab8a2be27b3640ff2155d734b467c", null ],
-    [ "DoReset", "d9/dd2/a09669.html#abd78eb2841908da8c3c18936d80f18e9", null ],
-    [ "DoUpdate", "d9/dd2/a09669.html#a1e4b3d248c0021a3e2a1c1446f6b7073", null ],
-    [ "GetMovementGeneratorType", "d9/dd2/a09669.html#a8ef0966524b238a617487bde185de6f7", null ],
-    [ "GetPath", "d9/dd2/a09669.html#a931a91b2e689d58098898f7b9533d632", null ],
-    [ "GetPathAtMapEnd", "d9/dd2/a09669.html#a0493824ba23608abcf98a156cf89bb5a", null ],
-    [ "GetResetPos", "d9/dd2/a09669.html#ae2cc924b7dd5252c1cb8fcf8679b7786", null ],
-    [ "HasArrived", "d9/dd2/a09669.html#ad4a14cf3b7497cf30e6305d52d94ecdb", null ],
-    [ "InitEndGridInfo", "d9/dd2/a09669.html#a6cf74faed9b8609fa74932148b6b4948", null ],
-    [ "LoadPath", "d9/dd2/a09669.html#ae21613bcea0003b186b08761aaf525aa", null ],
-    [ "PreloadEndGrid", "d9/dd2/a09669.html#ac7bb92b99dc57a2b53b0a55e0a797678", null ],
-    [ "SetCurrentNodeAfterTeleport", "d9/dd2/a09669.html#a7ed3028aa5d9d71cf0d889d4063fae2a", null ],
-    [ "SkipCurrentNode", "d9/dd2/a09669.html#a080a68e435698a14288f62ea6576a730", null ],
-    [ "_endGridX", "d9/dd2/a09669.html#a8dd2719a015fca9fe46c8b3586b0434c", null ],
-    [ "_endGridY", "d9/dd2/a09669.html#a1b0c069bcbcf3b13691b9ea80ac4c3a6", null ],
-    [ "_endMapId", "d9/dd2/a09669.html#aa83bc85f1b6cd6d5367d745ae31cc6fc", null ],
-    [ "_pointsForPathSwitch", "d9/dd2/a09669.html#a975eddf086fbd811fdebae405a62f2ea", null ],
-    [ "_preloadTargetNode", "d9/dd2/a09669.html#a3192e87bc06fa21ea01f99ba23fe6eb1", null ]
+    [ "iterator", "d9/dd2/a09669.html#a9fada63aa17222fc5e216f3904affafd", null ],
+    [ "begin", "d9/dd2/a09669.html#aee3a4701c5bc51f4028fe53f18675989", null ],
+    [ "end", "d9/dd2/a09669.html#ad61defd77296790a6c5d0a43bacbbe4b", null ],
+    [ "getFirst", "d9/dd2/a09669.html#ae47bba95a17db31a42231da948245387", null ],
+    [ "getLast", "d9/dd2/a09669.html#ac03e93ac8ad6fc91ec9d2961b8904217", null ],
+    [ "rbegin", "d9/dd2/a09669.html#af68f1d93a80e13976798dfed0063a1e4", null ],
+    [ "rend", "d9/dd2/a09669.html#a92c30fb269bc99820b6964a99ee86d98", null ]
 ];

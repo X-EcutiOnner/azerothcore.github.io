@@ -1,12 +1,12 @@
 var a22033 =
 [
-    [ "npc_xt002_boombotAI", "d4/df8/a22033.html#a9be3f9270a828946e2934aea24aa5549", null ],
-    [ "DamageTaken", "d4/df8/a22033.html#ad581fd228701d851c8d3bf0f3a1f854c", null ],
-    [ "Explode", "d4/df8/a22033.html#afe8c0408887b8cd0cb533475c221035b", null ],
-    [ "JustDied", "d4/df8/a22033.html#ad6d240b16aa8f7f297b1ad0982a8827e", null ],
-    [ "MovementInform", "d4/df8/a22033.html#a2cb53c683de44347b0448d8a1611300e", null ],
-    [ "Reset", "d4/df8/a22033.html#a5d4f4a4c6c098f440064caa37438a7ed", null ],
-    [ "UpdateAI", "d4/df8/a22033.html#a2bebdd97339b3b545331a494a51246eb", null ],
-    [ "_boomed", "d4/df8/a22033.html#acd75eb57db0043fbae633a2f63924c05", null ],
-    [ "_locked", "d4/df8/a22033.html#ada468c62b133ec1a9c043eec1c52c0d1", null ]
+    [ "npc_tournament_training_dummyAI", "d4/df8/a22033.html#ab84a35b5145c74f16dfbbe020dd9a73b", null ],
+    [ "DamageTaken", "d4/df8/a22033.html#a98c18794124922e6946a82a324410837", null ],
+    [ "EnterEvadeMode", "d4/df8/a22033.html#a3f31d705284b0fad2f00c9210ff06646", null ],
+    [ "MoveInLineOfSight", "d4/df8/a22033.html#a7a05c8682767f5a2d847e99eeed8e00f", null ],
+    [ "Reset", "d4/df8/a22033.html#a7339ffe52dc789f9480afca7141a169e", null ],
+    [ "SpellHit", "d4/df8/a22033.html#a5cd56075333fb59ddd8d4a48dc2eecdf", null ],
+    [ "UpdateAI", "d4/df8/a22033.html#a8bba917f0e0d67cd7a0121ab71d5a419", null ],
+    [ "events", "d4/df8/a22033.html#a77fa2ef2f15208ab8b284c71e0227fc4", null ],
+    [ "isVulnerable", "d4/df8/a22033.html#a4a4d3029a329e6eb253bc57c5f7b2a98", null ]
 ];

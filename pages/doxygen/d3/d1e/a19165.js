@@ -1,9 +1,12 @@
 var a19165 =
 [
-    [ "HandleScript", "d3/d1e/a19165.html#a98c80cdadb3f0e7d3a1830d15af2f82b", null ],
-    [ "Load", "d3/d1e/a19165.html#abee1ada02ae80855377dd6b35dd5e837", null ],
-    [ "PrepareSpellScript", "d3/d1e/a19165.html#acfa391f722af6de365e462442c407b15", null ],
-    [ "Register", "d3/d1e/a19165.html#a4f6a7c62428f2b927b62980cbcdb47ab", null ],
-    [ "SelectTarget", "d3/d1e/a19165.html#a231a1c2eec7aee19b9c56281ffe8f799", null ],
-    [ "_target", "d3/d1e/a19165.html#a86fab0af27b6fac77e35262c926e9770", null ]
+    [ "npc_hover_diskAI", "d3/d1e/a19165.html#a1ee618b8e6393437f0e4193fc57725f3", null ],
+    [ "AttackStart", "d3/d1e/a19165.html#aec7920845132af74ecf83bbbcf221f06", null ],
+    [ "DoAction", "d3/d1e/a19165.html#a802681ba91854eec0a5d9ac1c2df761c", null ],
+    [ "MoveInLineOfSight", "d3/d1e/a19165.html#a770bbfc63a3aef7801b6ba9a542c459c", null ],
+    [ "MovementInform", "d3/d1e/a19165.html#a97c5039553d267fc3d955cb6e5eafb47", null ],
+    [ "PassengerBoarded", "d3/d1e/a19165.html#a130a40916bb42945531b02d2f3385ece", null ],
+    [ "UpdateAI", "d3/d1e/a19165.html#a5213e9b9a750e53b83621cd981741773", null ],
+    [ "events", "d3/d1e/a19165.html#adeed5599c5416f3a5d171f70b53d0023", null ],
+    [ "pInstance", "d3/d1e/a19165.html#a5141cd8297bf3dc67ce9195867a4152c", null ]
 ];

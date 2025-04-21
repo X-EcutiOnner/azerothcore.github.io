@@ -1,7 +1,6 @@
 var a25417 =
 [
-    [ "AfterApply", "da/dde/a25417.html#a0ba88b8ed8cfd0afa1de500a7a8d74b5", null ],
-    [ "PrepareAuraScript", "da/dde/a25417.html#aa98346e5f5b23fe016148426a19a719f", null ],
-    [ "Register", "da/dde/a25417.html#ac0edcddf6c38b933c868dbe0535f143a", null ],
-    [ "Validate", "da/dde/a25417.html#a616d1758aa257140f4941fe12ef21e87", null ]
+    [ "HandlePreventAura", "da/dde/a25417.html#a62b9a62f5379f4ca98921c7fe4278b58", null ],
+    [ "PrepareSpellScript", "da/dde/a25417.html#a61b2f1d5634219f9c48a9ea75e90d423", null ],
+    [ "Register", "da/dde/a25417.html#ab1a90b7939c146b40badfd6424c35cf7", null ]
 ];

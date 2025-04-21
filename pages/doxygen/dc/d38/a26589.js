@@ -1,6 +1,6 @@
 var a26589 =
 [
-    [ "HandleKnockBack", "dc/d38/a26589.html#ae50d143953074b83183482770046e131", null ],
-    [ "PrepareSpellScript", "dc/d38/a26589.html#a73666b297ef8bbfd490fee6075b06b3a", null ],
-    [ "Register", "dc/d38/a26589.html#a035df6b2e29aa0d2b5558e1cfef96ead", null ]
+    [ "FilterTargets", "dc/d38/a26589.html#af7035627c3d6dd3fd8381ee258391a0b", null ],
+    [ "PrepareSpellScript", "dc/d38/a26589.html#a3211fda7263bc513d14a8f2fd1507ef8", null ],
+    [ "Register", "dc/d38/a26589.html#abe63ec69fe15fd8924fb63235489e088", null ]
 ];

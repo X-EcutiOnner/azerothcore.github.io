@@ -1,6 +1,11 @@
 var a21785 =
 [
-    [ "npc_ulduar_rocket_strike_triggerAI", "da/dc5/a21789.html", "da/dc5/a21789" ],
-    [ "npc_ulduar_rocket_strike_trigger", "da/dd2/a21785.html#a41cc84b04124bb47c24b39a48c9023b1", null ],
-    [ "GetAI", "da/dd2/a21785.html#a7715ce6646efa3728c28c4e11b25c2ed", null ]
+    [ "npc_torturer_lecraftAI", "da/dd2/a21785.html#a0886d83c8ab8b7db728928ecf922031b", null ],
+    [ "JustEngagedWith", "da/dd2/a21785.html#ac6fa83aa5673bd6c90e128f06e56049e", null ],
+    [ "Reset", "da/dd2/a21785.html#a13177e318e7777ecb13ba71c4f10f425", null ],
+    [ "SpellHit", "da/dd2/a21785.html#a837805efcb6c99de55646a232f151ae8", null ],
+    [ "UpdateAI", "da/dd2/a21785.html#a45919da006b0e767ec38810a6fcbac5d", null ],
+    [ "_events", "da/dd2/a21785.html#a7879e11a94c32266ed11dc352ae7e802", null ],
+    [ "_playerGUID", "da/dd2/a21785.html#ab792ceb52fe5c04851f69b9c2922822d", null ],
+    [ "_textCounter", "da/dd2/a21785.html#aa7560f419ca1486efb9d6c3bda3cedf1", null ]
 ];

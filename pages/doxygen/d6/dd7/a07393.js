@@ -1,12 +1,10 @@
 var a07393 =
 [
-    [ "value_type", "d6/dd7/a07393.html#ad430aafb433483e30d12567e7e8c2915", null ],
-    [ "GetID", "d6/dd7/a07393.html#a73dd0adf980c5c3d2e272f9709ece880", null ],
-    [ "GetName", "d6/dd7/a07393.html#aae4efee3e6e7d403b0c6f5d484814b81", null ],
-    [ "operator std::string const &", "d6/dd7/a07393.html#a3530d83607efda9b3f50a61959da3267", null ],
-    [ "operator std::string_view", "d6/dd7/a07393.html#a6b77a74762705e00d73b751a5f947e05", null ],
-    [ "operator uint32", "d6/dd7/a07393.html#abffff20cfe5d5b3936ac345c5082258f", null ],
-    [ "TryConsume", "d6/dd7/a07393.html#abc0041bef0d0171b54acbdcf6b18f611", null ],
-    [ "_id", "d6/dd7/a07393.html#a844e7f79db885f3076958b0e6d423b4e", null ],
-    [ "_name", "d6/dd7/a07393.html#a63bb52a0619ceef7b1af1b97d52a7373", null ]
+    [ "BattlegroundRL", "d6/dd7/a07393.html#ae2e0ccf2badc174b7f5c909f805fe669", null ],
+    [ "FillInitialWorldStates", "d6/dd7/a07393.html#a410a5dbfa6fccbe802058d60eb7393d9", null ],
+    [ "HandleAreaTrigger", "d6/dd7/a07393.html#ad1184e3e2f09a6665d40a75006e6f863", null ],
+    [ "HandlePlayerUnderMap", "d6/dd7/a07393.html#a2d03a49dee964bcaa3421a93d0735e63", null ],
+    [ "SetupBattleground", "d6/dd7/a07393.html#a3393353028ffd35eaad1d5e121654366", null ],
+    [ "StartingEventCloseDoors", "d6/dd7/a07393.html#aae633887d9689898c8b73efa8257eb34", null ],
+    [ "StartingEventOpenDoors", "d6/dd7/a07393.html#adb2ec6770c2b25b94f8f7dff7486d5cf", null ]
 ];

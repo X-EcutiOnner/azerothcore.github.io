@@ -1,6 +1,6 @@
 var a14577 =
 [
-    [ "spell_hand_of_death_SpellScript", "d1/d9b/a14581.html", "d1/d9b/a14581" ],
-    [ "spell_hand_of_death", "dd/d76/a14577.html#adc3db06762e020d54b5d3ff519cc0ac3", null ],
-    [ "GetSpellScript", "dd/d76/a14577.html#aa9e0331670cbadb6893e1c97881c08e3", null ]
+    [ "HandleHeal", "dd/d76/a14577.html#a953536a9a393af9472bdd89018449df0", null ],
+    [ "PrepareSpellScript", "dd/d76/a14577.html#a70503fc6042001a860d361f2597b7153", null ],
+    [ "Register", "dd/d76/a14577.html#a383479896e6deb96e50b827370ccfd4d", null ]
 ];

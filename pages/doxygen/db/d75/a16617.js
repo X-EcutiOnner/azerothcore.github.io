@@ -1,7 +1,7 @@
 var a16617 =
 [
-    [ "npc_toc_shadow_priestAI", "db/d75/a16617.html#af13a18be542fb314c19af52f89d216b8", null ],
-    [ "myCanCast", "db/d75/a16617.html#a83422ff3e140b57a484d98876a9a8070", null ],
-    [ "UpdateAI", "db/d75/a16617.html#afc23ba15d3ee925212e77b5211504c2b", null ],
-    [ "events", "db/d75/a16617.html#a31665a22920b416d7423958a3e2928ec", null ]
+    [ "HandleScriptEffect", "db/d75/a16617.html#a62cef31900cd61167823f3e66aa2d64b", null ],
+    [ "PrepareSpellScript", "db/d75/a16617.html#aff3fc5d7d6185bcb09d14f1408a67aad", null ],
+    [ "Register", "db/d75/a16617.html#ac73b3f568ce54f9b59b2b23f069da3c1", null ],
+    [ "Validate", "db/d75/a16617.html#aab4d84e896c8225d8d131558aaa71dbe", null ]
 ];

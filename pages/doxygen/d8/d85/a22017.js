@@ -1,6 +1,7 @@
 var a22017 =
 [
-    [ "npc_xt002_pummellerAI", "d4/d04/a22021.html", "d4/d04/a22021" ],
-    [ "npc_xt002_pummeller", "d8/d85/a22017.html#af620e31a231ca8fb812324521bad4673", null ],
-    [ "GetAI", "d8/d85/a22017.html#a9ec4e452a3763c3d03e581a17e5d7efe", null ]
+    [ "HandleScriptEffect", "d8/d85/a22017.html#ad20cf97a7dd442d5670a22095b487a01", null ],
+    [ "PrepareSpellScript", "d8/d85/a22017.html#ab0f6da0cb3115e54dbb59f0e6f823d02", null ],
+    [ "Register", "d8/d85/a22017.html#a996ea344ea2a3312cb8886565b80972d", null ],
+    [ "Validate", "d8/d85/a22017.html#a29bf5a9615e02281f426bf521a045567", null ]
 ];

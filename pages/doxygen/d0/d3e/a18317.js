@@ -1,6 +1,6 @@
 var a18317 =
 [
-    [ "spell_deathwhisper_mana_barrier_AuraScript", "d9/d0b/a18321.html", "d9/d0b/a18321" ],
-    [ "spell_deathwhisper_mana_barrier", "d0/d3e/a18317.html#afda99238148ea35750e1ee52b5d30d12", null ],
-    [ "GetAuraScript", "d0/d3e/a18317.html#acbf06aded3ebbbab5f529b420e4ba6f2", null ]
+    [ "npc_lk_wicked_spiritAI", "d9/d0b/a18321.html", "d9/d0b/a18321" ],
+    [ "npc_lk_wicked_spirit", "d0/d3e/a18317.html#adb5f0d5db260b3e5b4df3725c0b62827", null ],
+    [ "GetAI", "d0/d3e/a18317.html#ad75b36f2f7242dea685cd67dc72d0d30", null ]
 ];

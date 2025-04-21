@@ -1,6 +1,6 @@
 var a25981 =
 [
-    [ "npc_lord_illidan_stormrageAI", "d0/df5/a25985.html", "d0/df5/a25985" ],
-    [ "npc_lord_illidan_stormrage", "d3/d02/a25981.html#ad2f213749e170ec4f9903396d132f5f3", null ],
-    [ "GetAI", "d3/d02/a25981.html#a9aaedc4326b90621965dad522f4af897", null ]
+    [ "CheckProc", "d3/d02/a25981.html#a0f1461140b08deac3f044142067368e7", null ],
+    [ "PrepareAuraScript", "d3/d02/a25981.html#a04e0ebe416e94912d7f1ec529da7980d", null ],
+    [ "Register", "d3/d02/a25981.html#a05e31c2252c9054a18b4267be84895b9", null ]
 ];

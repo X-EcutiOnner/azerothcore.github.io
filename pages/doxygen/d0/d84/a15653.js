@@ -1,6 +1,6 @@
 var a15653 =
 [
-    [ "go_wind_stoneAI", "d6/d68/a15657.html", "d6/d68/a15657" ],
-    [ "go_wind_stone", "d0/d84/a15653.html#a70c4bcb743b0d587caad4b574c589e3e", null ],
-    [ "GetAI", "d0/d84/a15653.html#ab7add0fe4e58eec422e37ae04b9338df", null ]
+    [ "HandleOpenLock", "d0/d84/a15653.html#a32bfb203e9ecfbcfa75f6c3e7a17fade", null ],
+    [ "PrepareSpellScript", "d0/d84/a15653.html#a646a42455b6a46c9f7cbb4b0229122cd", null ],
+    [ "Register", "d0/d84/a15653.html#a5dcac6f609ec93074ec3ce195101f592", null ]
 ];

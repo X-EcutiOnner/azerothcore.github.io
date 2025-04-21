@@ -1,6 +1,6 @@
 var a15497 =
 [
-    [ "HandleEffectPeriodic", "d1/d74/a15497.html#a093a682bc5043b63af016aa130fdc0b8", null ],
-    [ "PrepareAuraScript", "d1/d74/a15497.html#a035cc2dfc78a0ee292ddab3633d44c10", null ],
-    [ "Register", "d1/d74/a15497.html#a74c29ca2047da995d6d6f89f17ecb52f", null ]
+    [ "npc_aquementasAI", "d9/d12/a15501.html", "d9/d12/a15501" ],
+    [ "npc_aquementas", "d1/d74/a15497.html#a81d0b010c2aef0ea329ff7656b76cbe5", null ],
+    [ "GetAI", "d1/d74/a15497.html#a8a071b3073d69306feb84aca347a22c8", null ]
 ];

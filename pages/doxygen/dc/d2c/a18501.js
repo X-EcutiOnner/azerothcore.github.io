@@ -1,6 +1,6 @@
 var a18501 =
 [
-    [ "spell_putricide_mutated_plague_AuraScript", "d2/d5c/a18505.html", "d2/d5c/a18505" ],
-    [ "spell_putricide_mutated_plague", "dc/d2c/a18501.html#a32d4b2fad2e9eea8b5fd1332b54c81c8", null ],
-    [ "GetAuraScript", "dc/d2c/a18501.html#ac8f1b4a72499b4a55111d8c56f3e5981", null ]
+    [ "npc_frost_freeze_trapAI", "d2/d5c/a18505.html", "d2/d5c/a18505" ],
+    [ "npc_frost_freeze_trap", "dc/d2c/a18501.html#ac58ed2598fd4250f220208a91343f9b8", null ],
+    [ "GetAI", "dc/d2c/a18501.html#a88ed9aeb0403b3b625c858cd1e44a99f", null ]
 ];

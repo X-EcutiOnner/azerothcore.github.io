@@ -1,6 +1,7 @@
 var a13041 =
 [
-    [ "spell_felmyst_fog_of_corruption_charm_AuraScript", "d9/d31/a13045.html", "d9/d31/a13045" ],
-    [ "spell_felmyst_fog_of_corruption_charm", "d4/d42/a13041.html#a5cfd4230c5cbbdf33c5ab54b99837084", null ],
-    [ "GetAuraScript", "d4/d42/a13041.html#a506e102e07c45442d908934862220838", null ]
+    [ "npc_apothecary_genericAI", "d4/d42/a13041.html#afb2b04b51e28d0795e7781effa68dffd", null ],
+    [ "DoAction", "d4/d42/a13041.html#a59074beefbd3d80104b64f8ecc2ef8e0", null ],
+    [ "MovementInform", "d4/d42/a13041.html#a63530bd7c3ebcd66521a268e11bf2f93", null ],
+    [ "_movePos", "d4/d42/a13041.html#a53d10ab64df212b043cc21e054f6528c", null ]
 ];

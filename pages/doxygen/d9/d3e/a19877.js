@@ -1,6 +1,7 @@
 var a19877 =
 [
-    [ "npc_ioc_gunship_captainAI", "da/dd9/a19881.html", "da/dd9/a19881" ],
-    [ "npc_ioc_gunship_captain", "d9/d3e/a19877.html#a6463d7bc12d5fe4fc8921ba5916ec906", null ],
-    [ "GetAI", "d9/d3e/a19877.html#a43f3ce178df31fbf693acbfa8c32a339", null ]
+    [ "FilterTargets", "d9/d3e/a19877.html#a3d864f0428b7e53774d06069037ca5b2", null ],
+    [ "HandleScript", "d9/d3e/a19877.html#aef8bfe18b42bcc9ad70378c0d78354e7", null ],
+    [ "PrepareSpellScript", "d9/d3e/a19877.html#aafbd4751a01b4ce62dc94eee2e47f64f", null ],
+    [ "Register", "d9/d3e/a19877.html#afabe09f8d9a9a10855d6469e8a3db30f", null ]
 ];

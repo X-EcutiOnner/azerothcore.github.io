@@ -1,8 +1,12 @@
 var a10405 =
 [
-    [ "PlayObjectSound", "da/df3/a10405.html#ab322044d36abddeb2fafbf99261bb70b", null ],
-    [ "PlayObjectSound", "da/df3/a10405.html#a2c4d15099e991a9c2ddc5295536aa28e", null ],
-    [ "Write", "da/df3/a10405.html#a1162715dd557a9f7b7c25a0331bc3b74", null ],
-    [ "SoundKitID", "da/df3/a10405.html#a5e794706b8793d164a1189e9a6918735", null ],
-    [ "SourceObjectGUID", "da/df3/a10405.html#a82b226eba66e569c1f377f529e511361", null ]
+    [ "Packet", "da/df3/a10405.html#a316af2b7ce1ac7189fb1e57f534bad11", null ],
+    [ "~Packet", "da/df3/a10405.html#a2ca1e6377bb2fb10bf042311e72eb5d4", null ],
+    [ "Packet", "da/df3/a10405.html#a00213b64110a99004b3d9a6b38876cd4", null ],
+    [ "GetRawPacket", "da/df3/a10405.html#a9d8649e1b035fe7387dcee3e0b062a5e", null ],
+    [ "GetSize", "da/df3/a10405.html#a08eb4c40f49c0d4e7f17a6dc1df2fe6a", null ],
+    [ "operator=", "da/df3/a10405.html#a6d2afd0d4b0d7daff11868854b7c4715", null ],
+    [ "Read", "da/df3/a10405.html#a94afc4d66c2b5bced3063bab5a666bfd", null ],
+    [ "Write", "da/df3/a10405.html#af7c79156d7b6cfe3142fc530f9ed262a", null ],
+    [ "_worldPacket", "da/df3/a10405.html#ab85f1c9f20117bc5015180165c7b458a", null ]
 ];

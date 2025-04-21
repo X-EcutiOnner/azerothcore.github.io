@@ -1,7 +1,7 @@
 var a17817 =
 [
-    [ "OnApply", "d2/dbd/a17817.html#ac8b9ba8782c26cf9db9f4e878e37a8ce", null ],
-    [ "OnRemove", "d2/dbd/a17817.html#abbadaa94095ce6ab9626227950f4377f", null ],
-    [ "PrepareAuraScript", "d2/dbd/a17817.html#a51ba62ba76b53667559114fd19fedc46", null ],
-    [ "Register", "d2/dbd/a17817.html#a7711deedd0b4b0ee4db4a75959089186", null ]
+    [ "CheckRequirement", "d2/dbd/a17817.html#a1568599758bdc757ae448ab5a77c1cc7", null ],
+    [ "CheckRequirementInternal", "d2/dbd/a17817.html#ac2559b4a925fc0960a902fa2b306dc54", null ],
+    [ "PrepareSpellScript", "d2/dbd/a17817.html#a0d6745dab09cdd228fc802e482c3d15c", null ],
+    [ "Register", "d2/dbd/a17817.html#a95a250aeb3a41922c529f476d39f18e4", null ]
 ];

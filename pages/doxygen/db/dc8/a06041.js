@@ -1,6 +1,9 @@
 var a06041 =
 [
-    [ "PermissibleOrderPred", "db/dc8/a06041.html#a0f99979c533fb388a2086f419c110f2b", null ],
-    [ "operator()", "db/dc8/a06041.html#a42027be1e7cb7a3589caeafea25d2f75", null ],
-    [ "_obj", "db/dc8/a06041.html#a5872cf90e79107749c4900cb471b2f16", null ]
+    [ "CasterAI", "db/dc8/a06041.html#ad91d5c64cbc4d56d9a84aaeb2f64b35e", null ],
+    [ "AttackStart", "db/dc8/a06041.html#a28386fd1a275c002445e5eaf90314a3d", null ],
+    [ "InitializeAI", "db/dc8/a06041.html#a2a24cdc24b665c52363dae587572fc4d", null ],
+    [ "JustEngagedWith", "db/dc8/a06041.html#ad436decd8b3da4323cf3fdb4a9e5a849", null ],
+    [ "UpdateAI", "db/dc8/a06041.html#a0fa50ac9bd99ff0c2c7e78f03a737090", null ],
+    [ "m_attackDist", "db/dc8/a06041.html#a561dbc6713a8ec58ef6b23ae4d04d81b", null ]
 ];

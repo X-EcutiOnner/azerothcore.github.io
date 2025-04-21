@@ -1,6 +1,6 @@
 var a23949 =
 [
-    [ "spell_wintergrasp_rp_gg_SpellScript", "dd/dfd/a23953.html", "dd/dfd/a23953" ],
-    [ "spell_wintergrasp_rp_gg", "db/ddd/a23949.html#ad9ced2bd23f77fa1768d79c8fe9ad117", null ],
-    [ "GetSpellScript", "db/ddd/a23949.html#a182cb46f0e7b1f080c213f36af06dad7", null ]
+    [ "npc_fel_guard_houndAI", "dd/dfd/a23953.html", "dd/dfd/a23953" ],
+    [ "npc_fel_guard_hound", "db/ddd/a23949.html#a324179695f04a31b233b0ce94a46634c", null ],
+    [ "GetAI", "db/ddd/a23949.html#a5f5c20ec379994e7d0b65133d772e18f", null ]
 ];

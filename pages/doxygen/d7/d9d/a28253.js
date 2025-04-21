@@ -1,6 +1,10 @@
 var a28253 =
 [
-    [ "HandleScript", "d7/d9d/a28253.html#ad0885113f3bd8eea8ff3db30b55cc240", null ],
-    [ "PrepareSpellScript", "d7/d9d/a28253.html#a8410b746f810eaeb7f71c3a7de607a84", null ],
-    [ "Register", "d7/d9d/a28253.html#ab8f5c857ee42a6767d10277b52a7da01", null ]
+    [ "attackSpeed", "d7/d9d/a28253.html#ab5242f7367e8799a556176178c72fc88", null ],
+    [ "creatureType", "d7/d9d/a28253.html#a3dff9074b85261932ed8a8a550c5395b", null ],
+    [ "flags1", "d7/d9d/a28253.html#a026745f2ce754d754858d69ee219b518", null ],
+    [ "ID", "d7/d9d/a28253.html#a72853ed36016e05e4cd14a9d89e9d6a8", null ],
+    [ "modelID_A", "d7/d9d/a28253.html#a86dfa61342583d920b7d8496bce4b49d", null ],
+    [ "modelID_H", "d7/d9d/a28253.html#a1ee597d6fd02507b682874929645e01d", null ],
+    [ "stanceSpell", "d7/d9d/a28253.html#a08f54b905e905fb5a59e449f8c613c08", null ]
 ];

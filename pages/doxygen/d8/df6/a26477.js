@@ -1,7 +1,10 @@
 var a26477 =
 [
-    [ "AfterApply", "d8/df6/a26477.html#adae232af9445638b3d54e81d414483b7", null ],
-    [ "AfterRemove", "d8/df6/a26477.html#abf458f1f1dd5abfbba88325cad044ab1", null ],
-    [ "PrepareAuraScript", "d8/df6/a26477.html#a305c532aa0e8740e8c8a87a6ba0abcff", null ],
-    [ "Register", "d8/df6/a26477.html#abff75ea597dcc017a359a5ef3ada4314", null ]
+    [ "Absorb", "d8/df6/a26477.html#aedee311aa77597674b3665eaf74e98c8", null ],
+    [ "CalculateAmount", "d8/df6/a26477.html#a5fdabb367ab86589d733d1da906446ab", null ],
+    [ "Load", "d8/df6/a26477.html#a7418b17f23b9eeacceb0970df3cb1d99", null ],
+    [ "PrepareAuraScript", "d8/df6/a26477.html#a1de52fae7a5ed3eeeb46be11eb2eac21", null ],
+    [ "Register", "d8/df6/a26477.html#abfc540163e9eb34cbf8a48d39bede840", null ],
+    [ "Validate", "d8/df6/a26477.html#a6cca564b6d13063ce7cd72ed8b6adf67", null ],
+    [ "absorbChance", "d8/df6/a26477.html#a293be81af42d810126eda35b1d27e3bc", null ]
 ];

@@ -1,8 +1,10 @@
 var a15293 =
 [
-    [ "npc_obsidian_eradicator", "d3/d12/a15293.html#a84a6c414b3d74468143984e57f83e383", null ],
-    [ "JustEngagedWith", "d3/d12/a15293.html#ab03b7138306a04a00938bf1cdb9a7966", null ],
-    [ "Reset", "d3/d12/a15293.html#a7c76c7d3a69e464c0dcb6a96226baa61", null ],
-    [ "UpdateAI", "d3/d12/a15293.html#a1697d83e89559f047d5bab652007bb61", null ],
-    [ "_targetGUIDs", "d3/d12/a15293.html#abd83775d1eab5ab2a3aadd7fd925c3ae", null ]
+    [ "npc_rabid_thistle_bearAI", "d3/d12/a15293.html#a7fb4b6e26dd2fe66fb3e444c260999a6", null ],
+    [ "Initialize", "d3/d12/a15293.html#a466ec20c65535777c60b5c4aac4e45bd", null ],
+    [ "Reset", "d3/d12/a15293.html#aedc6834fef78ad7a0e5ab99bb844ace1", null ],
+    [ "SpellHit", "d3/d12/a15293.html#a62bde5a122748564cc806046bf9dcbaa", null ],
+    [ "UpdateAI", "d3/d12/a15293.html#a8f6c5b873756a58760b2861bc8b86804", null ],
+    [ "_events", "d3/d12/a15293.html#ad3852bf4588c453642e75fcdc544767b", null ],
+    [ "_playerGUID", "d3/d12/a15293.html#ac4df0c9b8be03ce4e45fbb4efcad6892", null ]
 ];

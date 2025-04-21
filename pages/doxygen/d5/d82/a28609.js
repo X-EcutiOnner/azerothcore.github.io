@@ -1,7 +1,8 @@
 var a28609 =
 [
-    [ "HandleApplyAura", "d5/d82/a28609.html#ae364ff4048a2f59eadecd6934c7a0e13", null ],
-    [ "PrepareSpellScript", "d5/d82/a28609.html#adf09900347264bc341884092ea0fee40", null ],
-    [ "Register", "d5/d82/a28609.html#ac56484d4048817a164963e519a97d137", null ],
-    [ "Validate", "d5/d82/a28609.html#ac028c0faf659fb74b2ffa5f85f58f8d1", null ]
+    [ "TileInfo", "d5/d82/a28609.html#af1a25ded4212f141ab4f32db95709210", null ],
+    [ "m_mapId", "d5/d82/a28609.html#a41f4be7d3fce716754b9ac0310b9ecf9", null ],
+    [ "m_navMeshParams", "d5/d82/a28609.html#a9d7c909370359edafa8a9b6a91cef354", null ],
+    [ "m_tileX", "d5/d82/a28609.html#a54cc23d82dfe690e0d62b6156d440fc1", null ],
+    [ "m_tileY", "d5/d82/a28609.html#ab7fba310dd471fddcf2e7d6fba3205ed", null ]
 ];

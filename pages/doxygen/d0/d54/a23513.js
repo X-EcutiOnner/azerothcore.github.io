@@ -1,6 +1,6 @@
 var a23513 =
 [
-    [ "npc_your_inner_turmoilAI", "d0/d71/a23517.html", "d0/d71/a23517" ],
-    [ "npc_your_inner_turmoil", "d0/d54/a23513.html#a72856ef469bb8f6ff4a89a16159479af", null ],
-    [ "GetAI", "d0/d54/a23513.html#a29c8f76b072e891face1225770688ca6", null ]
+    [ "HandleHit", "d0/d54/a23513.html#ab948b958955c2413ad6e15dfa09fd3cd", null ],
+    [ "PrepareSpellScript", "d0/d54/a23513.html#a37ff09e6b82d69c85b5bd98e84968569", null ],
+    [ "Register", "d0/d54/a23513.html#acb1b681f587817614c2b3684585369db", null ]
 ];

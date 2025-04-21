@@ -1,8 +1,7 @@
 var a27165 =
 [
-    [ "CheckProc", "d6/def/a27165.html#a2b0ff2594877249d0bdb4656fa67b83f", null ],
-    [ "HandleProc", "d6/def/a27165.html#ac1aebc16e7944ac3f8305d9ff27bc998", null ],
-    [ "PrepareAuraScript", "d6/def/a27165.html#a19557020af9ca276f72c1d3e4ba8b27b", null ],
-    [ "Register", "d6/def/a27165.html#a43f7bb634cb165fab5e2187256f50c3f", null ],
-    [ "Validate", "d6/def/a27165.html#a7762ce25775b98dba14b4ac465cad711", null ]
+    [ "go_brewfest_musicAI", "d6/def/a27165.html#a832bd6353b3c466c197b8c90b5bee8a8", null ],
+    [ "UpdateAI", "d6/def/a27165.html#a47ea5bbcd9d01b9eaf839bc779809aec", null ],
+    [ "_currentMusicEvent", "d6/def/a27165.html#ad26a0309bdd4eafce4dfa310db929357", null ],
+    [ "_events", "d6/def/a27165.html#ae741239bbebae9f93ad2d04c7487c32f", null ]
 ];

@@ -1,6 +1,7 @@
 var a23821 =
 [
-    [ "spell_q13003_thursting_hodirs_spear_AuraScript", "de/d7f/a23825.html", "de/d7f/a23825" ],
-    [ "spell_q13003_thursting_hodirs_spear", "da/d23/a23821.html#a6466beac264ffad3ac9c19241acd980a", null ],
-    [ "GetAuraScript", "da/d23/a23821.html#aed39d3210086511a77fc408898a9d076", null ]
+    [ "HandleDamage", "da/d23/a23821.html#add7e78111217d00bfa3dfa5b3eb490f9", null ],
+    [ "HandleTargets", "da/d23/a23821.html#ac9e455d4ef5cc7b7ce424b70b4387c78", null ],
+    [ "PrepareSpellScript", "da/d23/a23821.html#a46b62a09ea23cb102b0e5cf075c727d4", null ],
+    [ "Register", "da/d23/a23821.html#a8873614ae22c908cb2cf49129fc53be2", null ]
 ];

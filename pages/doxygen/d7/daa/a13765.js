@@ -1,8 +1,6 @@
 var a13765 =
 [
-    [ "boss_koraggAI", "d7/daa/a13765.html#a775881915da438552ef2249cb08a10fc", null ],
-    [ "Reset", "d7/daa/a13765.html#aac902c569f9cb941daed858b67368fdf", null ],
-    [ "UpdateAI", "d7/daa/a13765.html#a9032ca8162a12af65007aabd52a8deb9", null ],
-    [ "coldstare_timer", "d7/daa/a13765.html#a41e14de5c2b6123962c10cb229589b2e", null ],
-    [ "mightyblow_timer", "d7/daa/a13765.html#a0370ce3226c5238c45bd433aa2a0543d", null ]
+    [ "go", "d7/daa/a13765.html#ac14168f8c25efe7fa22ec802259b3a11", null ],
+    [ "npc", "d7/daa/a13765.html#a04d6e67fa2fb208ca747798ccc53083d", null ],
+    [ "pos", "d7/daa/a13765.html#a51175880a326101b29879d7a6a62c48d", null ]
 ];

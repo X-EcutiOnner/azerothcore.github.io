@@ -1,9 +1,10 @@
 var a10185 =
 [
-    [ "GuildInfoResponse", "d0/de3/a10185.html#a256cb81ad2e08050be99c9e1061c2009", null ],
-    [ "Write", "d0/de3/a10185.html#a3222d0018c9593400d3d01258b82371e", null ],
-    [ "CreateDate", "d0/de3/a10185.html#a1a0acf334d88751e94257ff76c9e3fd8", null ],
-    [ "GuildName", "d0/de3/a10185.html#ad8efc926197e955ed0cf8df6a74b41e8", null ],
-    [ "NumAccounts", "d0/de3/a10185.html#a21b42f1654aa10f7872d87635fea66ac", null ],
-    [ "NumMembers", "d0/de3/a10185.html#a7e748a70029e867ba8c90eaba85bf8c9", null ]
+    [ "AllItemScript", "d0/de3/a10185.html#a7c0e310c69966e0eab6f2951dedcda63", null ],
+    [ "CanItemExpire", "d0/de3/a10185.html#aa2a9c691b4ba5d06f65555a7092fffc3", null ],
+    [ "CanItemQuestAccept", "d0/de3/a10185.html#a545e2bc7436a064146025954eaf5ae92", null ],
+    [ "CanItemRemove", "d0/de3/a10185.html#ad29a7f5d07d56127bc00846e1a7fb067", null ],
+    [ "CanItemUse", "d0/de3/a10185.html#a89d237f426840658e4423fb9cc7428db", null ],
+    [ "OnItemGossipSelect", "d0/de3/a10185.html#a7157f72c6d09988b60480d1671892cde", null ],
+    [ "OnItemGossipSelectCode", "d0/de3/a10185.html#a9e13f025e5cf10bf51c87a4dc1e7968d", null ]
 ];

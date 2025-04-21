@@ -1,6 +1,6 @@
 var a18597 =
 [
-    [ "boss_rotfaceAI", "db/da7/a18601.html", "db/da7/a18601" ],
-    [ "boss_rotface", "df/d39/a18597.html#a8896f5ed16c728d72a123b2e92a174fb", null ],
-    [ "GetAI", "df/d39/a18597.html#a8a3ff9ef99da7d72ce2f7827bfc2564b", null ]
+    [ "HandleEvent", "df/d39/a18597.html#a7936a64a1142a47b2addfd746dccfcef", null ],
+    [ "PrepareSpellScript", "df/d39/a18597.html#a00e2be07131c674558d0364df98849ab", null ],
+    [ "Register", "df/d39/a18597.html#a89364583504d2eaa75473586850bc3d5", null ]
 ];

@@ -1,8 +1,8 @@
 var a23853 =
 [
-    [ "npc_freed_protodrakeAI", "d7/d19/a23853.html#a9e80808035be749c87a1170f37ac3daf", null ],
-    [ "MovementInform", "d7/d19/a23853.html#af056f3c12a314acd8a7e8c6c381b9436", null ],
-    [ "Reset", "d7/d19/a23853.html#ab5781438300442bb7bcb4510aec9d233", null ],
-    [ "UpdateAI", "d7/d19/a23853.html#a9e83b133444e977c35e90b700149472c", null ],
-    [ "events", "d7/d19/a23853.html#ac2e34b9a53ff55d177327ec95dca5466", null ]
+    [ "instance_mechanar_InstanceMapScript", "d7/d19/a23853.html#a728d427162c0f56e7d229c55ff88bfbd", null ],
+    [ "OnCreatureCreate", "d7/d19/a23853.html#aa0c6a84a6ace9299b18f0cc54263b398", null ],
+    [ "OnGameObjectCreate", "d7/d19/a23853.html#a236a8c67ca57ffc7d2161c00e8acbd64", null ],
+    [ "OnGameObjectRemove", "d7/d19/a23853.html#ac79c4f1dad7f2caf1278e242ec8fadc9", null ],
+    [ "_pathaleonGUID", "d7/d19/a23853.html#aaf5c80af5ba2ba46b3c53ccffaaa1d3b", null ]
 ];

@@ -1,6 +1,8 @@
 var a25573 =
 [
-    [ "spell_kaelthas_mind_control_SpellScript", "d3/d26/a25577.html", "d3/d26/a25577" ],
-    [ "spell_kaelthas_mind_control", "dd/d19/a25573.html#a65011be71c8c982fbc8ef992870b9090", null ],
-    [ "GetSpellScript", "dd/d19/a25573.html#a7573a0abf6266e69bdf2354a9a304962", null ]
+    [ "CheckProc", "dd/d19/a25573.html#a06d76f258699bd4f78834ef33752a351", null ],
+    [ "HandleProc", "dd/d19/a25573.html#af22f22cbc38fabe4181b853727df83f8", null ],
+    [ "PrepareAuraScript", "dd/d19/a25573.html#adbc2bc54974837a9784cbf8b30ef2c1e", null ],
+    [ "Register", "dd/d19/a25573.html#a8db2cf628d44fa962bb3889b20f5dfb1", null ],
+    [ "Validate", "dd/d19/a25573.html#aa5604d45c0c11bef130d9242c4357163", null ]
 ];

@@ -1,7 +1,7 @@
 var a18853 =
 [
-    [ "HandleTriggerMissile", "d0/d9a/a18853.html#a29d71fda4503406ee0e6d740ef1584b0", null ],
-    [ "PrepareSpellScript", "d0/d9a/a18853.html#abc74d5755519ad503a83588aeb4a545b", null ],
-    [ "Register", "d0/d9a/a18853.html#abc24e4a66ebc6f6156966b8396b03f4d", null ],
-    [ "Validate", "d0/d9a/a18853.html#ac87555f88f921827b6baf54eecea1d3a", null ]
+    [ "HandleScript", "d0/d9a/a18853.html#a2e5311b631a4cbf6002e27e4a806280c", null ],
+    [ "Launch", "d0/d9a/a18853.html#a575a7bf98b629dd91e7ca96e388eb8fd", null ],
+    [ "PrepareSpellScript", "d0/d9a/a18853.html#ad65642fd7e8b7793f69d041d458fa33f", null ],
+    [ "Register", "d0/d9a/a18853.html#aa8800d8fc050f2914d63c24e555aad4b", null ]
 ];

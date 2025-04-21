@@ -1,11 +1,13 @@
 var a10257 =
 [
-    [ "GuildSetRankPermissions", "da/d1b/a10257.html#a8b3fd3e4da77c6fb70db28721ec46714", null ],
-    [ "Read", "da/d1b/a10257.html#a534550862a3c634697e8277f31ad4c25", null ],
-    [ "Flags", "da/d1b/a10257.html#adea48131efa7c05b84c4de596933bfbe", null ],
-    [ "RankID", "da/d1b/a10257.html#a0c4a8b29918d69580c749e3b48485515", null ],
-    [ "RankName", "da/d1b/a10257.html#a24dde2aa8dd0ae1b9e8b37317334e0d4", null ],
-    [ "TabFlags", "da/d1b/a10257.html#af19e6fd8ddfe980f8c1f1110e9332bad", null ],
-    [ "TabWithdrawItemLimit", "da/d1b/a10257.html#a9f5ddb30858ae9eca7fcd2ad9fa8ea0c", null ],
-    [ "WithdrawGoldLimit", "da/d1b/a10257.html#a1c02002facce05010028ac8dcae7fa3f", null ]
+    [ "FormulaScript", "da/d1b/a10257.html#a0c850c1a09bc78a4ceee5f27615d50d7", null ],
+    [ "OnAfterArenaRatingCalculation", "da/d1b/a10257.html#aa3510b1cfb4661cf6028e1b9f443c865", null ],
+    [ "OnBaseGainCalculation", "da/d1b/a10257.html#ab154eaf469d5fe3e86c364940816270a", null ],
+    [ "OnBeforeUpdatingPersonalRating", "da/d1b/a10257.html#a2208a5684c95b936aa9ca1ae863d9682", null ],
+    [ "OnColorCodeCalculation", "da/d1b/a10257.html#a83893099062d1fb7ce69fe38bf8c4699", null ],
+    [ "OnGainCalculation", "da/d1b/a10257.html#aa83fab65cc89bd03021da2805e935ffb", null ],
+    [ "OnGrayLevelCalculation", "da/d1b/a10257.html#affeb57234f961b9e01f5898c7738f38f", null ],
+    [ "OnGroupRateCalculation", "da/d1b/a10257.html#a1098d29595b4f9206cccf3c3c1dad5f3", null ],
+    [ "OnHonorCalculation", "da/d1b/a10257.html#a54a5e523ad5a9d3eb2dd061ced2d209f", null ],
+    [ "OnZeroDifferenceCalculation", "da/d1b/a10257.html#a7755c35bc56e6645e36de08c12a4847d", null ]
 ];

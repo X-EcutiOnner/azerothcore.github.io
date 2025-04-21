@@ -1,7 +1,7 @@
 var a15529 =
 [
-    [ "HandleDummy", "d9/db2/a15529.html#aae5fcdbdb664abf105f4399a818b42ee", null ],
-    [ "PrepareSpellScript", "d9/db2/a15529.html#a1a5d595bbb2813e8a2a659f24208e717", null ],
-    [ "Register", "d9/db2/a15529.html#aee8f48b8563060f3ce2edacac2636608", null ],
-    [ "Validate", "d9/db2/a15529.html#a531fad9a15d6578d25d6edfefdf0b5af", null ]
+    [ "npc_giltharesAI", "d8/d0d/a15533.html", "d8/d0d/a15533" ],
+    [ "npc_gilthares", "d9/db2/a15529.html#af1e0746350b32b68825710e1c3ed91a5", null ],
+    [ "GetAI", "d9/db2/a15529.html#a96293e28237a092c64f6a91d91bc7ff3", null ],
+    [ "OnQuestAccept", "d9/db2/a15529.html#a018cc6240a79216acb371241f63e3234", null ]
 ];

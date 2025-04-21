@@ -1,6 +1,6 @@
 var a16345 =
 [
-    [ "npc_living_infernoAI", "dc/dea/a16345.html#ab33eeac6aab8e18778fc7d4ffe5038f1", null ],
-    [ "IsSummonedBy", "dc/dea/a16345.html#a4b6986a392aee0741ba47651e809c76c", null ],
-    [ "JustDied", "dc/dea/a16345.html#a60b2e31d24e182e97d604d91223e2dc8", null ]
+    [ "npc_toc_boomkinAI", "d5/de3/a16349.html", "d5/de3/a16349" ],
+    [ "npc_toc_boomkin", "dc/dea/a16345.html#a17274ff748cd364592a551ad2c547eac", null ],
+    [ "GetAI", "dc/dea/a16345.html#a626fe854faade9bd96cd60b9e6e970bd", null ]
 ];

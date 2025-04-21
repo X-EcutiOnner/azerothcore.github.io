@@ -1,6 +1,6 @@
 var a27133 =
 [
-    [ "CalculateAmount", "db/ddf/a27133.html#a83bf0327aade6f6a33293a442ad10911", null ],
-    [ "PrepareAuraScript", "db/ddf/a27133.html#aa964f4eb7391dab54ff744fc94306de1", null ],
-    [ "Register", "db/ddf/a27133.html#a37d29d87bec2fe2908b7d3e47f5e1caa", null ]
+    [ "go_flamesAI", "db/ddf/a27133.html#a6473bff84b5c99cc616aa2d0912ed308", null ],
+    [ "UpdateAI", "db/ddf/a27133.html#a2d4c91f0bff924335881d1096c0af313", null ],
+    [ "timer", "db/ddf/a27133.html#ae53c7c6c669e982babf304f173b58b1a", null ]
 ];

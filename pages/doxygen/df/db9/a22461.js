@@ -1,12 +1,17 @@
 var a22461 =
 [
-    [ "boss_kelesethAI", "df/db9/a22461.html#a32c5c3745698cc8d546509c287bb75a8", null ],
-    [ "AttackStart", "df/db9/a22461.html#adcdedacd8308af95c2cd83f06e7defb7", null ],
-    [ "JustDied", "df/db9/a22461.html#ae9403839d9f7bcb3b746a96f923f5732", null ],
-    [ "JustEngagedWith", "df/db9/a22461.html#a93577fe11bbf913bcd9e8fc1673d0892", null ],
-    [ "KilledUnit", "df/db9/a22461.html#a04dd9045e4e6ebc9007a43753daba69f", null ],
-    [ "Reset", "df/db9/a22461.html#a5e15d439b3bb77228ab0126c0b74e956", null ],
-    [ "UpdateAI", "df/db9/a22461.html#a6c514fc76f1137e429a1250cf40b0842", null ],
-    [ "events", "df/db9/a22461.html#ac2791db07b1b6dc392ad76bea4e96e93", null ],
-    [ "pInstance", "df/db9/a22461.html#aeb63f88d6a5dbaa131f7b1d54ed0ab08", null ]
+    [ "OutdoorPvPSI", "df/db9/a22461.html#a89bf2d913b7d68ee921ef4b9aeea61e1", null ],
+    [ "FillInitialWorldStates", "df/db9/a22461.html#a7392eed60ec3307bdea4ed35cd859077", null ],
+    [ "HandleAreaTrigger", "df/db9/a22461.html#a7c6d70d7a611752456c55d13420ff840", null ],
+    [ "HandleCustomSpell", "df/db9/a22461.html#a10853a2f5766b6fc75044a20b281a198", null ],
+    [ "HandleDropFlag", "df/db9/a22461.html#a9238a5007253d84d66192bd340d8311a", null ],
+    [ "HandlePlayerEnterZone", "df/db9/a22461.html#ad2cabd461406a61e40411850b3d31c0c", null ],
+    [ "HandlePlayerLeaveZone", "df/db9/a22461.html#aa06088b1d80072577e6fc7653a214512", null ],
+    [ "SendRemoveWorldStates", "df/db9/a22461.html#aae7deda0662b28f6fc0e16115a65304b", null ],
+    [ "SetupOutdoorPvP", "df/db9/a22461.html#a401da5bef2350c4eb21b249b4f8b3e40", null ],
+    [ "Update", "df/db9/a22461.html#a56bda08a795a4b0cd1c52ec448920fac", null ],
+    [ "UpdateWorldState", "df/db9/a22461.html#a81f4362ece83f37f14471926e9a85fb3", null ],
+    [ "m_Gathered_A", "df/db9/a22461.html#ab532337ab7e66e1489221e3189e48bac", null ],
+    [ "m_Gathered_H", "df/db9/a22461.html#abcd36fe918edbbea387573bd5fab89e7", null ],
+    [ "m_LastController", "df/db9/a22461.html#a05c33cec2d0c1a9fe31cb3d9ba3f3c1c", null ]
 ];

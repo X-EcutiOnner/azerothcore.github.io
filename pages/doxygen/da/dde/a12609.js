@@ -1,6 +1,20 @@
 var a12609 =
 [
-    [ "npc_crusade_persuadedAI", "d5/d90/a12613.html", "d5/d90/a12613" ],
-    [ "npc_crusade_persuaded", "da/dde/a12609.html#a4048e164fc99b9dfff41fd168fb542b6", null ],
-    [ "GetAI", "da/dde/a12609.html#a004833d7e6312b23eb6a07c0a6e41db6", null ]
+    [ "boss_shade_of_aran", "da/dde/a12609.html#a581351036c7e09de447f065a4ef82e03", null ],
+    [ "AttackStart", "da/dde/a12609.html#a140ec9e0f968c42f9f003d9a52693884", null ],
+    [ "CheckAranInRoom", "da/dde/a12609.html#a64779949875ab0d812746adb78123f7a", null ],
+    [ "DamageTaken", "da/dde/a12609.html#a837e9284a2e2b3fe5467cca4fd09c60f", null ],
+    [ "JustDied", "da/dde/a12609.html#ac79c249652f1de37b0c7d31a86dd0e51", null ],
+    [ "JustEngagedWith", "da/dde/a12609.html#a11a9b1a8a24b9bc9965d655a6f856ef0", null ],
+    [ "KilledUnit", "da/dde/a12609.html#ad7470576e9dd08d5fc47259d8de943b2", null ],
+    [ "OnPowerUpdate", "da/dde/a12609.html#a3ac487d431bc444cd8c39bb813260737", null ],
+    [ "Reset", "da/dde/a12609.html#a03def93f3e3f33d4f760e9f7c7c85d86", null ],
+    [ "SetGUID", "da/dde/a12609.html#a92e6d82da2a865220432c919d8593d00", null ],
+    [ "UpdateAI", "da/dde/a12609.html#ae80c5bc869136e2ce2c5b4f6cfdc6ea4", null ],
+    [ "_atieshReaction", "da/dde/a12609.html#a88c6677edc8a37ac1e36fe6f1688d847", null ],
+    [ "_currentNormalSpell", "da/dde/a12609.html#a4384769fb6eb868c612ed34cbb6b2409", null ],
+    [ "_drinking", "da/dde/a12609.html#a84a6941826c6c2f1f70965e8909f796e", null ],
+    [ "_drinkScheduler", "da/dde/a12609.html#a47e88dcf0027bd197350df7f80bc42d3", null ],
+    [ "_hasDrunk", "da/dde/a12609.html#a93bec133a8a1ba41aa9eb86ff19e5eca", null ],
+    [ "_lastSuperSpell", "da/dde/a12609.html#afe99b96811ff1e61ea6bbdce42fe8d7d", null ]
 ];

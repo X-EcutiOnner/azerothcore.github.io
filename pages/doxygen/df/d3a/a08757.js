@@ -1,9 +1,11 @@
 var a08757 =
 [
-    [ "GridReference", "df/d3a/a08757.html#a9c27f99f74cd0cc99b39f9a6ec614e83", null ],
-    [ "~GridReference", "df/d3a/a08757.html#afd6a4f88eb066818afde1b752600bb12", null ],
-    [ "next", "df/d3a/a08757.html#a792323f4b0f66b58d1f9dd0f65f26f0c", null ],
-    [ "sourceObjectDestroyLink", "df/d3a/a08757.html#a96cb6e8287ceba4de31681bddb1e5838", null ],
-    [ "targetObjectBuildLink", "df/d3a/a08757.html#a16dc6dc9a5a7bfcd5de9691ad469f5f8", null ],
-    [ "targetObjectDestroyLink", "df/d3a/a08757.html#ac4c863d059b5c826e9597056dc7c887a", null ]
+    [ "VehicleSeatAddon", "df/d3a/a08757.html#a307b278917998116156e41f9189a582c", null ],
+    [ "VehicleSeatAddon", "df/d3a/a08757.html#adaec12df869a9ffc81174f5ef1f65606", null ],
+    [ "ExitParameter", "df/d3a/a08757.html#afbb8de193522f1182efff50064e5f83d", null ],
+    [ "ExitParameterO", "df/d3a/a08757.html#a06e385ea5cf0441721432925251a5a63", null ],
+    [ "ExitParameterX", "df/d3a/a08757.html#a521d7a5eda620d0ced0b1309f3c96e17", null ],
+    [ "ExitParameterY", "df/d3a/a08757.html#ad343c7149b12cffe3a3de48ad73685a2", null ],
+    [ "ExitParameterZ", "df/d3a/a08757.html#add1ea5a9e605a49d0ddbcea0f804bd3b", null ],
+    [ "SeatOrientationOffset", "df/d3a/a08757.html#a374c73b40f6e6dad103b172d1829a31d", null ]
 ];

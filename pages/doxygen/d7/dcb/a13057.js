@@ -1,6 +1,8 @@
 var a13057 =
 [
-    [ "FilterTargets", "d7/dcb/a13057.html#a79e1a9b7b364482f773884f311a17bca", null ],
-    [ "PrepareSpellScript", "d7/dcb/a13057.html#aaf7286389841b0fb298b024299ef2c7b", null ],
-    [ "Register", "d7/dcb/a13057.html#a7fabe070560f8ed165850a457ee5bfc2", null ]
+    [ "FilterTargets", "d7/dcb/a13057.html#a4c7627dc20c4dafcee4d6faf97d3914e", null ],
+    [ "HandleScript", "d7/dcb/a13057.html#aecb62c147905d0a4fe60086b8028df0b", null ],
+    [ "PrepareSpellScript", "d7/dcb/a13057.html#a84ed93d5235781d9d53a47fff39d3ad2", null ],
+    [ "Register", "d7/dcb/a13057.html#a2832f131d99608923ade8070e17da86d", null ],
+    [ "Validate", "d7/dcb/a13057.html#a1a510f9cf49df69c5904cb79c8cdc860", null ]
 ];

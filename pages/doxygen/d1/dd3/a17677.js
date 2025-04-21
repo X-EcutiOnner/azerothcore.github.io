@@ -1,6 +1,5 @@
 var a17677 =
 [
-    [ "npc_kinetic_bombAI", "d1/ddc/a17681.html", "d1/ddc/a17681" ],
-    [ "npc_kinetic_bomb", "d1/dd3/a17677.html#abca5a72d3ac0d50a27e604e8e1491957", null ],
-    [ "GetAI", "d1/dd3/a17677.html#ae00630d96dc7a93ea13841c1f9e9be3b", null ]
+    [ "at_lady_deathwhisper_entrance", "d1/dd3/a17677.html#a3c16844f4ff97fd0699edb1d1aca2f60", null ],
+    [ "OnTrigger", "d1/dd3/a17677.html#a769c838c94a88af5492057909d88f3de", null ]
 ];

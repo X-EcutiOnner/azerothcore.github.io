@@ -1,10 +1,9 @@
 var a05453 =
 [
-    [ "MySQLConnectionInfo", "d4/d04/a05453.html#ae60c54053d71eb9325df10701b1f42d3", null ],
-    [ "database", "d4/d04/a05453.html#a7e65a418ad668772e4ce1b298d92f10a", null ],
-    [ "host", "d4/d04/a05453.html#a2659372561aae5feb8da121984354ef3", null ],
-    [ "password", "d4/d04/a05453.html#af5a51bd38ce1d58f65444d69b0283966", null ],
-    [ "port_or_socket", "d4/d04/a05453.html#a37b89660afb3ee085e817836e9d1d01f", null ],
-    [ "ssl", "d4/d04/a05453.html#a90e5a934b4ec46e5783248a1a80a4830", null ],
-    [ "user", "d4/d04/a05453.html#a6bf4166ebb99ea30a3894e3d8833bde6", null ]
+    [ "IteratorPair", "d4/d04/a05453.html#ad2e586dfd291c34c82ec71d66e59f36c", null ],
+    [ "IteratorPair", "d4/d04/a05453.html#a446d4e8dd1146b053987d48d0dcef59d", null ],
+    [ "IteratorPair", "d4/d04/a05453.html#ae8b79501762f0c0ba6e2d769c56e9f8f", null ],
+    [ "begin", "d4/d04/a05453.html#a59ff07f1663a3f98f2e10a895ab37ae4", null ],
+    [ "end", "d4/d04/a05453.html#aa515ca48852213fb51a4d83e9d5c91d2", null ],
+    [ "_iterators", "d4/d04/a05453.html#a9b08728bc90076dd1db392982840c31e", null ]
 ];

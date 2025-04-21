@@ -1,8 +1,7 @@
 var a27429 =
 [
-    [ "CheckProc", "d8/d47/a27429.html#a06d76f258699bd4f78834ef33752a351", null ],
-    [ "HandleProc", "d8/d47/a27429.html#af22f22cbc38fabe4181b853727df83f8", null ],
-    [ "PrepareAuraScript", "d8/d47/a27429.html#adbc2bc54974837a9784cbf8b30ef2c1e", null ],
-    [ "Register", "d8/d47/a27429.html#a8db2cf628d44fa962bb3889b20f5dfb1", null ],
-    [ "Validate", "d8/d47/a27429.html#aa5604d45c0c11bef130d9242c4357163", null ]
+    [ "npc_riggle_bassbaitAI", "d8/d47/a27429.html#ad7a1a7a6f4c4ebb7ab93878ebb3a9a5b", null ],
+    [ "CheckTournamentState", "d8/d47/a27429.html#aa7b4393b93be92fbb595648cede832be", null ],
+    [ "UpdateAI", "d8/d47/a27429.html#ad0fca96e2c770ef179d98dcdd9aaca6e", null ],
+    [ "m_uiTimer", "d8/d47/a27429.html#aec45a971a5b7aa574e905e9a2338fe90", null ]
 ];

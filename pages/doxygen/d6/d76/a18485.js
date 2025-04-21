@@ -1,6 +1,6 @@
 var a18485 =
 [
-    [ "spell_putricide_ooze_channel_SpellScript", "d9/d0d/a18489.html", "d9/d0d/a18489" ],
-    [ "spell_putricide_ooze_channel", "d6/d76/a18485.html#a5f44a8bdaccc0c8af5b4a11e25623798", null ],
-    [ "GetSpellScript", "d6/d76/a18485.html#ad4e450e3a0feadb336e6e6f103d2e23e", null ]
+    [ "npc_highlord_tirion_fordringAI", "d9/d0d/a18489.html", "d9/d0d/a18489" ],
+    [ "npc_highlord_tirion_fordring_lh", "d6/d76/a18485.html#a96102a488330c54a3e3654c767e8e1a5", null ],
+    [ "GetAI", "d6/d76/a18485.html#aea42394c04c1763cffe10eb5eba09854", null ]
 ];

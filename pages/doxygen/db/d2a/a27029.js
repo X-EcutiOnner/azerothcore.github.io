@@ -1,5 +1,6 @@
 var a27029 =
 [
-    [ "PrepareSpellScript", "db/d2a/a27029.html#ae49ad5a4ad43099c4510e1666ff6415b", null ],
-    [ "Register", "db/d2a/a27029.html#ad31fa6c2099d984389c3fb12e53a5bd8", null ]
+    [ "boss_ysondreAI", "d6/d8c/a27033.html", "d6/d8c/a27033" ],
+    [ "boss_ysondre", "db/d2a/a27029.html#ad12dbb728f4f0cdf2f4c0ba9cd2a167d", null ],
+    [ "GetAI", "db/d2a/a27029.html#a0da215d7bc8ee86216887e682b9335c3", null ]
 ];

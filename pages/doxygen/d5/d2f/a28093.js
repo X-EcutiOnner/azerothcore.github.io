@@ -1,8 +1,11 @@
 var a28093 =
 [
-    [ "HandleDummy", "d5/d2f/a28093.html#a1afcd9c6ab96c87db8aa4899d0830899", null ],
-    [ "Load", "d5/d2f/a28093.html#a11d3cd0eccd4895f5cd9d2721bd3fd0c", null ],
-    [ "PrepareSpellScript", "d5/d2f/a28093.html#a252784bb4b438750db5ef7f905477140", null ],
-    [ "Register", "d5/d2f/a28093.html#ab93554e82cbed0c78452846c95247584", null ],
-    [ "Validate", "d5/d2f/a28093.html#a33404726f5e5986b263eb0a0beba9443", null ]
+    [ "ClassID", "d5/d2f/a28093.html#a8cc7d61907f8fd5c2b3429c21ccbcc05", null ],
+    [ "DisplayInfoID", "d5/d2f/a28093.html#a87657df2ad024245ccb2192303f76b7a", null ],
+    [ "ID", "d5/d2f/a28093.html#a8ee5b01112a6d01cf46b4e37fb2e6269", null ],
+    [ "InventoryType", "d5/d2f/a28093.html#a6dc33fc40a299b010c18a7009aff648b", null ],
+    [ "Material", "d5/d2f/a28093.html#ab07b947a5b8c2e7aee60ac96d979ad3c", null ],
+    [ "SheatheType", "d5/d2f/a28093.html#a63a6d7c2a8e2514384a5eb99cd890747", null ],
+    [ "SoundOverrideSubclassID", "d5/d2f/a28093.html#a6072ce88b5c93034418c590d8aba1ea3", null ],
+    [ "SubclassID", "d5/d2f/a28093.html#ac39254716573e335caf312f635353a2e", null ]
 ];

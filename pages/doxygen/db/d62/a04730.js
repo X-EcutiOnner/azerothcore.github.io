@@ -1,9 +1,10 @@
 var a04730 =
 [
-    [ "ArenaTeamTest", "db/d83/a28426.html", "db/d83/a28426" ],
-    [ "ArenaTeamFilterTest", "d8/dd0/a28430.html", "d8/dd0/a28430" ],
-    [ "ArenaTeamWithType", "db/d62/a04730.html#a9ce4d88bf97ee463db69de183769f18e", null ],
-    [ "TEST_F", "db/d62/a04730.html#a37c0d226ff50c702fc70274ea77f1f09", null ],
-    [ "TEST_F", "db/d62/a04730.html#a0f9cf98a51ec8c4db75724bf81ef8c7c", null ],
-    [ "TEST_F", "db/d62/a04730.html#a03a46ff29d075ef3207bb12d9a539b5b", null ]
+    [ "MockArenaSeasonTeamRewarder", "da/d92/a28421.html", "da/d92/a28421" ],
+    [ "ArenaSeasonRewardDistributorTest", "df/d9c/a28425.html", "df/d9c/a28425" ],
+    [ "ArenaTeamWithRating", "db/d62/a04730.html#a74bb31c469b2f6e9691219589ac41a12", null ],
+    [ "TEST_F", "db/d62/a04730.html#acd40406191e1dacb6e7400210157262a", null ],
+    [ "TEST_F", "db/d62/a04730.html#a7bfddbb1d9978546d0eff10b29942b32", null ],
+    [ "TEST_F", "db/d62/a04730.html#a5a69347e03ab5eeea43bfcbffb063d52", null ],
+    [ "TEST_F", "db/d62/a04730.html#a1ba0a1dda2222e2d5931f54c84ed5162", null ]
 ];

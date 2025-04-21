@@ -1,6 +1,8 @@
 var a13861 =
 [
-    [ "npc_forest_frogAI", "dd/d64/a13865.html", "dd/d64/a13865" ],
-    [ "npc_forest_frog", "d2/d9b/a13861.html#a31a1a10db8eaeca39a60e5dc3f028f8e", null ],
-    [ "GetAI", "d2/d9b/a13861.html#a51a83289e04ed9dfa587d448d4b5b1fe", null ]
+    [ "boss_grilekAI", "d2/d9b/a13861.html#aea4d151ce75bf2cdf6d6910c369daf17", null ],
+    [ "JustEngagedWith", "d2/d9b/a13861.html#a76d2cddd8ebfc4df400ef43f8c5aa936", null ],
+    [ "Reset", "d2/d9b/a13861.html#acd8ce07ab3ef576580df16c0176fcaf3", null ],
+    [ "UpdateAI", "d2/d9b/a13861.html#a19438103c9a582a7d36d805c80131e8c", null ],
+    [ "_pursuitTargetGUID", "d2/d9b/a13861.html#ad20779cdb8d82ae8a54c12a8d4b0bada", null ]
 ];

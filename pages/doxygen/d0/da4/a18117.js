@@ -1,9 +1,15 @@
 var a18117 =
 [
-    [ "CheckAreaTarget", "d0/da4/a18117.html#a3c63a80369c39fff14b49e2d75e3afdb", null ],
-    [ "HandleApply", "d0/da4/a18117.html#a041680de2214f9169b8f70082c07656c", null ],
-    [ "HandleRemove", "d0/da4/a18117.html#a2d19687e629843bce5691110592fc834", null ],
-    [ "Load", "d0/da4/a18117.html#a2e842d63103fa4495201fec7eab5c8d0", null ],
-    [ "PrepareAuraScript", "d0/da4/a18117.html#a50e0015cf2e2211511de80345b5ee1aa", null ],
-    [ "Register", "d0/da4/a18117.html#aa57f5e3327eadf73ee772427f67ad423", null ]
+    [ "npc_tirion_fordringAI", "d0/da4/a18117.html#aa0f94cef85e96cda4a2e280eaa7110de", null ],
+    [ "CanAIAttack", "d0/da4/a18117.html#a1bdef323e9c7364fab789abc39ef00a0", null ],
+    [ "DoAction", "d0/da4/a18117.html#a5fd5b3fde84ed04c794546d11fe946d7", null ],
+    [ "EnterEvadeMode", "d0/da4/a18117.html#a1275cee8f49c67920041ad8d50c62aa4", null ],
+    [ "JustReachedHome", "d0/da4/a18117.html#a6e6c7c2f4f8e60126fd4adc42fe3b4f4", null ],
+    [ "MovementInform", "d0/da4/a18117.html#a7284240c4eafbc80748d5e2867a64a9f", null ],
+    [ "Reset", "d0/da4/a18117.html#ac41e569535322bb5907fa4116bbac739", null ],
+    [ "sGossipSelect", "d0/da4/a18117.html#a56599a97f019121160b2f6ac43019772", null ],
+    [ "SpellHit", "d0/da4/a18117.html#ae68b900f87c646cfb3ece5518b59e687", null ],
+    [ "UpdateAI", "d0/da4/a18117.html#a3f729624820266f1cf1e5577c5047c3b", null ],
+    [ "_events", "d0/da4/a18117.html#a7bb0d243cc9b3e836dd99864f2a5e669", null ],
+    [ "_instance", "d0/da4/a18117.html#a223a7f09ae03971487bb55e770503f7e", null ]
 ];

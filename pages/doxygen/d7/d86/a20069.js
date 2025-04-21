@@ -1,6 +1,6 @@
 var a20069 =
 [
-    [ "spell_kelthuzad_frost_blast_SpellScript", "da/dab/a20073.html", "da/dab/a20073" ],
-    [ "spell_kelthuzad_frost_blast", "d7/d86/a20069.html#aa87916774ba22d2c350fbc3b18d0ac9e", null ],
-    [ "GetSpellScript", "d7/d86/a20069.html#a14a9ccdefc65e765d5b4a022179bf9c8", null ]
+    [ "id", "d7/d86/a20069.html#accc6fc59e13a0897ae168fae33ee4c7d", null ],
+    [ "x", "d7/d86/a20069.html#afb67a1dce0819e0da0ceb9b303f43eb9", null ],
+    [ "y", "d7/d86/a20069.html#aaf4fd9f1d5b020e102c0fec3863f7020", null ]
 ];

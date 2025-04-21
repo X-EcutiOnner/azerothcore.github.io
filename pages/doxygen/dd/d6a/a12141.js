@@ -1,6 +1,7 @@
 var a12141 =
 [
-    [ "npc_flamewaker_priestAI", "d2/db2/a12145.html", "d2/db2/a12145" ],
-    [ "npc_flamewaker_priest", "dd/d6a/a12141.html#a2ae4d75192f8ddc60d092b9a129e636e", null ],
-    [ "GetAI", "dd/d6a/a12141.html#a8a38c2c54ae8366496eb58145f75eac9", null ]
+    [ "boss_broodlordAI", "dd/d6a/a12141.html#aa7a5b16b22633439e5d20f9d47a91041", null ],
+    [ "JustDied", "dd/d6a/a12141.html#ab0c4dfdd5abc8edcf039d5207e8a63e8", null ],
+    [ "JustEngagedWith", "dd/d6a/a12141.html#ae6e26d9cd6e22426caf6ce031551f8a8", null ],
+    [ "UpdateAI", "dd/d6a/a12141.html#aea6fbbe31c96e94c2116733c3c66b59b", null ]
 ];

@@ -1,7 +1,7 @@
 var a25153 =
 [
-    [ "OnApply", "d9/de8/a25153.html#a301e47da9be4b4a449701c59c19bc62b", null ],
-    [ "PrepareAuraScript", "d9/de8/a25153.html#a623bf9442a4a2b046d1d89bc2523eb37", null ],
-    [ "Register", "d9/de8/a25153.html#aaf38547f7fa233b03429734dbe374f13", null ],
-    [ "Validate", "d9/de8/a25153.html#ac390e2e24d9a85635ced5eaa343b8e09", null ]
+    [ "HandleEffectPeriodic", "d9/de8/a25153.html#a76e5aea0f1a3698e8034a1cbb08f4196", null ],
+    [ "PrepareAuraScript", "d9/de8/a25153.html#affc698127fe0656df25bd094c02a7e50", null ],
+    [ "Register", "d9/de8/a25153.html#a4707bfaeb86b3540920a6772e1726e26", null ],
+    [ "Validate", "d9/de8/a25153.html#aef839f163d7e623a54b163e1c27542cd", null ]
 ];

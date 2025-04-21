@@ -1,6 +1,6 @@
 var a12513 =
 [
-    [ "HandleScriptEffect", "d5/d17/a12513.html#a7b8314c8833ba7160a8ee33c5136841c", null ],
-    [ "PrepareSpellScript", "d5/d17/a12513.html#ad75019d30081514a4ab3b6301177bb06", null ],
-    [ "Register", "d5/d17/a12513.html#a8aeba569703c51b96910952db7af2bda", null ]
+    [ "HandleTriggerSpell", "d5/d17/a12513.html#a5f30f2af73eae022b9596939b2f88c0b", null ],
+    [ "PrepareSpellScript", "d5/d17/a12513.html#a4fa2709a456e9e75f5c11b7f2e04912b", null ],
+    [ "Register", "d5/d17/a12513.html#a7e9c140aecea892ee6971bc97d385640", null ]
 ];

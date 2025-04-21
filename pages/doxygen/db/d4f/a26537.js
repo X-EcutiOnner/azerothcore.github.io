@@ -1,6 +1,6 @@
 var a26537 =
 [
-    [ "CalculateAmount", "db/d4f/a26537.html#a60d451e6b359501b138564085c87a99f", null ],
-    [ "PrepareAuraScript", "db/d4f/a26537.html#a22059b71bcfdfb9a3be59feaf8005d3f", null ],
-    [ "Register", "db/d4f/a26537.html#ab33586608d444404c07edc4ffbb717ee", null ]
+    [ "CheckCast", "db/d4f/a26537.html#aecbecbd753b8ed32d51971a090063ef4", null ],
+    [ "PrepareSpellScript", "db/d4f/a26537.html#a0efb319154edb2c798460de72d6a56ed", null ],
+    [ "Register", "db/d4f/a26537.html#acd6ecb0204dd369c410e465551328f56", null ]
 ];

@@ -1,11 +1,18 @@
 var a04921 =
 [
-    [ "~GameObjectModelOwnerBase", "d4/df2/a04921.html#a307c744710782fcb0d5c287b23c74d69", null ],
-    [ "DebugVisualizeCorner", "d4/df2/a04921.html#acf130fbdfb086a9c6d35d145116357c8", null ],
-    [ "GetDisplayId", "d4/df2/a04921.html#ae3eddc6c841c3644f50cb3300f80cee2", null ],
-    [ "GetOrientation", "d4/df2/a04921.html#a35c11d2346c5156b95558729d84b3fe8", null ],
-    [ "GetPhaseMask", "d4/df2/a04921.html#a6b55de1c8de5a50245d7e5a833766d0f", null ],
-    [ "GetPosition", "d4/df2/a04921.html#a82e89b7fac5f46a25519674930294ed8", null ],
-    [ "GetScale", "d4/df2/a04921.html#abf8e9a74f58ec34bc6f1f8d853100f69", null ],
-    [ "IsSpawned", "d4/df2/a04921.html#ad824da6970d512c344160714cd7ec434", null ]
+    [ "DynamicMapTree", "d4/df2/a04921.html#ae1abe2e5e0464f2cfc6b87338698983d", null ],
+    [ "~DynamicMapTree", "d4/df2/a04921.html#a6d33c22d53a1c2b8120e80c1f508cfb0", null ],
+    [ "balance", "d4/df2/a04921.html#a1af866551a1ea151551ebb856797528d", null ],
+    [ "contains", "d4/df2/a04921.html#a0d1cb7c5e805b637b392afe95ce0286a", null ],
+    [ "GetAreaAndLiquidData", "d4/df2/a04921.html#a9b8307e7b6d80932c584ca1764be9014", null ],
+    [ "GetAreaInfo", "d4/df2/a04921.html#ab250f8be8196cda7f6ba67c5b4388ce0", null ],
+    [ "getHeight", "d4/df2/a04921.html#ac10680b14e3849bd17926cef24765d9d", null ],
+    [ "GetIntersectionTime", "d4/df2/a04921.html#a06e7f683147b9487dad5ca70f28e5aa6", null ],
+    [ "GetObjectHitPos", "d4/df2/a04921.html#ab664ac39063402dea9f587e9808a358d", null ],
+    [ "insert", "d4/df2/a04921.html#a28ccab96fd4249f15485c89501da597b", null ],
+    [ "isInLineOfSight", "d4/df2/a04921.html#a0e585c88cf1f457ad7018ad9c6a4c542", null ],
+    [ "remove", "d4/df2/a04921.html#af75f1e6b52135ca8a9b4b7cd9fb6f42e", null ],
+    [ "size", "d4/df2/a04921.html#aa97347b2172f8f80e360d6fcc132dbd9", null ],
+    [ "update", "d4/df2/a04921.html#a97597eac8b03eccf1f61a6f2b0a9e562", null ],
+    [ "impl", "d4/df2/a04921.html#a7d3a6c5c88df501d6d89e917fb44b1d0", null ]
 ];

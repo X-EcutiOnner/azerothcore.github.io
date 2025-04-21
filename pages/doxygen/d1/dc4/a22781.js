@@ -1,6 +1,6 @@
 var a22781 =
 [
-    [ "npc_ichor_globuleAI", "d7/da8/a22785.html", "d7/da8/a22785" ],
-    [ "npc_ichor_globule", "d1/dc4/a22781.html#a4dbd3b057e319ba83e0e1c94b99cd2ab", null ],
-    [ "GetAI", "d1/dc4/a22781.html#a4fed5ebd2e1b6ff6867a9488a6e1aef2", null ]
+    [ "PrepareAuraScript", "d1/dc4/a22781.html#ac52a5dccc708f9ee63f3c6c92fbf15c1", null ],
+    [ "Register", "d1/dc4/a22781.html#acc4afbe7f2b23b67e8f7e3fe1eeb03b5", null ],
+    [ "Update", "d1/dc4/a22781.html#aa9f5924b3f12c666c53ddc2b9b80aeea", null ]
 ];

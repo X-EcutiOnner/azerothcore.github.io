@@ -1,25 +1,8 @@
 var a12661 =
 [
-    [ "npc_highlord_darion_mograineAI", "d8/d16/a12661.html#a04be4c12a255c082b2a00daf40e86d96", null ],
-    [ "DoAction", "d8/d16/a12661.html#a7103aa11bc2dff6942f4a4de5cd8d759", null ],
-    [ "FinishFight", "d8/d16/a12661.html#ab3fef458ca3180f49d78579f7485e76c", null ],
-    [ "GetData", "d8/d16/a12661.html#aa3eae106cf85eb7cb163f9780bf16b9f", null ],
-    [ "GetEntryFromSummons", "d8/d16/a12661.html#a2c9e336d14667aabc3e1a8f3a99fc1e7", null ],
-    [ "JustDied", "d8/d16/a12661.html#a2875789a251381677106f74e61efaa77", null ],
-    [ "JustEngagedWith", "d8/d16/a12661.html#ac6ca07a76351dfc5a82b0a57fdfa08d8", null ],
-    [ "JustRespawned", "d8/d16/a12661.html#a3116088116fe6b4a6b42014f7f5fb3a8", null ],
-    [ "JustSummoned", "d8/d16/a12661.html#a9ddc2350ffbbf6e3ae91410da55bd326", null ],
-    [ "MovementInform", "d8/d16/a12661.html#a205b7ebb74ca3be7a6a11fb2d8670288", null ],
-    [ "Reset", "d8/d16/a12661.html#a7dde645763bab79e34fa7421dbec518e", null ],
-    [ "SendInitialWorldStates", "d8/d16/a12661.html#ab49e38e481fcb263337f5224c1db7383", null ],
-    [ "SendUpdateWorldState", "d8/d16/a12661.html#a32fed806170c3664eeb1dd2a1bfdf278", null ],
-    [ "SummonedCreatureDies", "d8/d16/a12661.html#aa0935ab5c5a8a3ad41719e520703ff92", null ],
-    [ "UpdateAI", "d8/d16/a12661.html#a086efd646a7298ce17f7ead4688fa022", null ],
-    [ "battleStarted", "d8/d16/a12661.html#aecb7e1bdebf943e1793656f8a9c39917", null ],
-    [ "defendersRemaining", "d8/d16/a12661.html#a49b41a9719548bffd2020caea7a94a3d", null ],
-    [ "events", "d8/d16/a12661.html#a2155cbea373225904a3645a77738dea4", null ],
-    [ "resetExecuted", "d8/d16/a12661.html#ae1431b2f46cf2ae096e7ddfb22e54a28", null ],
-    [ "scourgeRemaining", "d8/d16/a12661.html#aabaa1fb49467d4dc5abf2a14ec833d15", null ],
-    [ "startTimeRemaining", "d8/d16/a12661.html#a503f8e5166ec08664085ae032611de61", null ],
-    [ "summons", "d8/d16/a12661.html#ae592eef844350ca8fa8415f343d8dffc", null ]
+    [ "npc_cyclone", "d8/d16/a12661.html#afdc4f98b031f832702929c6a7f192ab5", null ],
+    [ "JustEngagedWith", "d8/d16/a12661.html#a61d0710868c91f707643a436c0d79485", null ],
+    [ "Reset", "d8/d16/a12661.html#a60b74a96fccc12333b9dc3ed67a54637", null ],
+    [ "UpdateAI", "d8/d16/a12661.html#a224795b4ea46fc2c9346e361410f0c0f", null ],
+    [ "_scheduler", "d8/d16/a12661.html#a77f4d42ff45e0565f2d9ee5b27787ffd", null ]
 ];

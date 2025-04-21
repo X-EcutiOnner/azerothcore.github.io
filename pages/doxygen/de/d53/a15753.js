@@ -1,8 +1,7 @@
 var a15753 =
 [
-    [ "npc_pluckyAI", "dd/d5b/a15757.html", "dd/d5b/a15757" ],
-    [ "npc_plucky", "de/d53/a15753.html#a86bb2992b8af5893987145117aaf3608", null ],
-    [ "GetAI", "de/d53/a15753.html#a51e73f4e1f618aee5a000e31328efefc", null ],
-    [ "OnGossipHello", "de/d53/a15753.html#a3443f3e8c2b3fcc96955ab2e55e7fd61", null ],
-    [ "OnGossipSelect", "de/d53/a15753.html#a88fa465246b4c657b921ebdc96f7a112", null ]
+    [ "HandleScript", "de/d53/a15753.html#ae9939f2795b8ba428277c7d658af715c", null ],
+    [ "PrepareSpellScript", "de/d53/a15753.html#aabe244008103ff317e3fc1e26b04115a", null ],
+    [ "Register", "de/d53/a15753.html#a4f492bdd96ef190354f37c95217bb696", null ],
+    [ "Validate", "de/d53/a15753.html#a4a3a5e83b66d0ae3f6f95bcead932f55", null ]
 ];

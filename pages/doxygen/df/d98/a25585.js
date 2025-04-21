@@ -1,6 +1,8 @@
 var a25585 =
 [
-    [ "HandlePeriodic", "df/d98/a25585.html#a219848739338caf95f676f7bae548344", null ],
-    [ "PrepareAuraScript", "df/d98/a25585.html#acf8ae9088306adf997e3e93d6c0924e7", null ],
-    [ "Register", "df/d98/a25585.html#a905e3214b77e8af2fe73f78fd070bb76", null ]
+    [ "HandleDummy", "df/d98/a25585.html#a0604906219798bec87624f8179292317", null ],
+    [ "Load", "df/d98/a25585.html#a99d0d9dd5818a9252536879a3a1dab66", null ],
+    [ "PrepareSpellScript", "df/d98/a25585.html#a51602256218ee899b7391b2b7af0ee7b", null ],
+    [ "Register", "df/d98/a25585.html#a7b065390e95c9673a28d1c49158766ff", null ],
+    [ "Validate", "df/d98/a25585.html#a0bf9973fae74a700623805352908aa69", null ]
 ];

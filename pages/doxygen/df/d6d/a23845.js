@@ -1,9 +1,11 @@
 var a23845 =
 [
-    [ "npc_brunnhildar_prisonerAI", "df/d6d/a23845.html#ad650885c7f615f8b27ba20203c9fbb6f", null ],
-    [ "JustRespawned", "df/d6d/a23845.html#a15843fcdc5d9eb34df7869b56a0b16ac", null ],
-    [ "Reset", "df/d6d/a23845.html#ac9ba0806b9702cebe9171d9ba8962b0f", null ],
-    [ "SpellHit", "df/d6d/a23845.html#af2835ec5b951e2f4bb176ebe6bb958fd", null ],
-    [ "UpdateAI", "df/d6d/a23845.html#a0702d4cf577ac00688a7b93bfe656952", null ],
-    [ "freed", "df/d6d/a23845.html#a46e03a19bac91a800154e3c873235800", null ]
+    [ "boss_pathaleon_the_calculator", "df/d6d/a23845.html#a679dc3ccc23c6def44e0f0669822e146", null ],
+    [ "CanAIAttack", "df/d6d/a23845.html#abcbb5f1236ebfbec680241ae8c5cbb00", null ],
+    [ "DoAction", "df/d6d/a23845.html#a814cb56cc18277cb4adbd7dc8a82b06d", null ],
+    [ "JustDied", "df/d6d/a23845.html#a0224d47bc85fe54c0cfded69b55e57b3", null ],
+    [ "JustEngagedWith", "df/d6d/a23845.html#a3ba024e86ceb83ebb26afcc11a75791d", null ],
+    [ "KilledUnit", "df/d6d/a23845.html#a899fd2e1e01ac1347e43bcb290babc5b", null ],
+    [ "Reset", "df/d6d/a23845.html#adc48067c3656bf768c3013ff266565c0", null ],
+    [ "_isEnraged", "df/d6d/a23845.html#ab875fb787d71eaf008b7267c81a2a4df", null ]
 ];

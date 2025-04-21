@@ -1,6 +1,8 @@
 var a22181 =
 [
-    [ "boss_yoggsaron_descend_portalAI", "dd/d33/a22181.html#a50ddd1d7b1d4a2e729657e53dfee43f2", null ],
-    [ "OnSpellClick", "dd/d33/a22181.html#aba032a7347230db028d1e939944d3f46", null ],
-    [ "_instance", "dd/d33/a22181.html#a477abf19a0b5bf9865550541877a29d7", null ]
+    [ "AfterRemove", "dd/d33/a22181.html#a06fd72c7754f34dbc62a99a9ed839302", null ],
+    [ "HandlePeriodic", "dd/d33/a22181.html#a5aaadeed42e6a3cf1e2216a13c2d3ff9", null ],
+    [ "OnApply", "dd/d33/a22181.html#a6617555d302923e5e95e7b1c6d8d74d6", null ],
+    [ "PrepareAuraScript", "dd/d33/a22181.html#a47a6281c42dc9368357cc86912331c77", null ],
+    [ "Register", "dd/d33/a22181.html#a868c79cda98b97b27b74d46f86cb980a", null ]
 ];

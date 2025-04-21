@@ -1,6 +1,5 @@
 var a20957 =
 [
-    [ "boss_auriayaAI", "df/dff/a20961.html", "df/dff/a20961" ],
-    [ "boss_auriaya", "dc/d2c/a20957.html#a8acecf02a63e846d1a46633a6ade6083", null ],
-    [ "GetAI", "dc/d2c/a20957.html#a09c7cd124672eb12ec349dbbbd3c87ef", null ]
+    [ "AreaTrigger_at_celestial_planetarium_enterance", "dc/d2c/a20957.html#ae1503a754a05a77991d9955a2fb74265", null ],
+    [ "OnTrigger", "dc/d2c/a20957.html#aa7aa93e00170313de251af4e562c422c", null ]
 ];

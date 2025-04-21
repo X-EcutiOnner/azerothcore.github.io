@@ -1,9 +1,8 @@
 var a09749 =
 [
-    [ "entry", "d2/d25/a09749.html#a63e9b557b5e712d30580376ad811ff6c", null ],
-    [ "map", "d2/d25/a09749.html#a762951c4230f0b40a59071e20852bf77", null ],
-    [ "o", "d2/d25/a09749.html#a70e425f84949f6964a33250e6e9650ef", null ],
-    [ "x", "d2/d25/a09749.html#a46b691dd3a31a59f56a4a7b36a35a982", null ],
-    [ "y", "d2/d25/a09749.html#a38be6df7cf824ed47991c9fabb6fb06b", null ],
-    [ "z", "d2/d25/a09749.html#ade7151bc8f29d91e33e7c78790d7ea55", null ]
+    [ "BoundaryUnionBoundary", "d2/d25/a09749.html#a074536112fffc805dec44bd9cd602642", null ],
+    [ "~BoundaryUnionBoundary", "d2/d25/a09749.html#a96450fc020bfad7b9f1f7be64490ad46", null ],
+    [ "IsWithinBoundaryArea", "d2/d25/a09749.html#a8dc91861fa6641008236e5a83030e0d1", null ],
+    [ "_b1", "d2/d25/a09749.html#a40fcd847f38703dfe5174267fbfd81ee", null ],
+    [ "_b2", "d2/d25/a09749.html#ae70530673803bd2ee85bf722fe42718b", null ]
 ];

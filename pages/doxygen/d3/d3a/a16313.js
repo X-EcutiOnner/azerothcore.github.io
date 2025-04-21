@@ -1,6 +1,6 @@
 var a16313 =
 [
-    [ "PrepareSpellScript", "d3/d3a/a16313.html#af6c29040020a722684c130c6b2691df1", null ],
-    [ "Register", "d3/d3a/a16313.html#ad2cedb8a02e07c1edef0df450a999aa1", null ],
-    [ "RemoveNotBetween", "d3/d3a/a16313.html#a26059877ce9be38025c0f09833d7b14b", null ]
+    [ "npc_toc_shadow_priestAI", "d3/d3f/a16317.html", "d3/d3f/a16317" ],
+    [ "npc_toc_shadow_priest", "d3/d3a/a16313.html#a05020cd5c5363933dcea7a5901d1ac21", null ],
+    [ "GetAI", "d3/d3a/a16313.html#a93b38d23759da3b7417dbb94b4a951da", null ]
 ];

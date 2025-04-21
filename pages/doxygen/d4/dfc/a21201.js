@@ -1,9 +1,22 @@
 var a21201 =
 [
-    [ "Absorb", "d4/dfc/a21201.html#a3b52a917b2cfa7238de514590f9765d2", null ],
-    [ "CalculateAmount", "d4/dfc/a21201.html#a6923d1ab706487355688c46a7138e24c", null ],
-    [ "Load", "d4/dfc/a21201.html#a50de32f0781a713afa27f38b9f87f351", null ],
-    [ "PrepareAuraScript", "d4/dfc/a21201.html#ae093bb68ec776c0791f02e2f2f1e7e0f", null ],
-    [ "Register", "d4/dfc/a21201.html#abdb4511065e48994ff89a3c11f627af0", null ],
-    [ "absorbPct", "d4/dfc/a21201.html#a8220c184e7cc17517d06a2f9297f154c", null ]
+    [ "instance_vault_of_archavon_InstanceMapScript", "d4/dfc/a21201.html#ab0f9e62a516c2a572d438ee6b33ffe89", null ],
+    [ "CheckAchievementCriteriaMeet", "d4/dfc/a21201.html#afafb4c0c0e79b58094ea09068ebdf724", null ],
+    [ "GetData", "d4/dfc/a21201.html#aa3f41b9c79c7bcdd9ad330fa58376799", null ],
+    [ "GetGuidData", "d4/dfc/a21201.html#a371a688192e9c7c239fc4c1de8e45877", null ],
+    [ "Initialize", "d4/dfc/a21201.html#acc0816a05728b59ddf7aeb4077a7329d", null ],
+    [ "IsEncounterInProgress", "d4/dfc/a21201.html#ae2607badcd241cf6b0d4b3a224acc802", null ],
+    [ "OnCreatureCreate", "d4/dfc/a21201.html#ae16d97e5a2cfe7fce6ede12874cb9243", null ],
+    [ "OnPlayerEnter", "d4/dfc/a21201.html#a82fdae36261fa7d845e8d7fdf2428637", null ],
+    [ "ReadSaveDataMore", "d4/dfc/a21201.html#a07a9861d018a35cd295f65b7e68a5bd1", null ],
+    [ "SetData", "d4/dfc/a21201.html#a336bd80e5118d6b5cfa0f76f5d207fc5", null ],
+    [ "Update", "d4/dfc/a21201.html#ac22e9b215c1351f543289af2875491b4", null ],
+    [ "WriteSaveDataMore", "d4/dfc/a21201.html#a22e3c4bb29159588a96f13644218c427", null ],
+    [ "ArchavonDeath", "d4/dfc/a21201.html#a1259cf1ed03095fb3e93f6aab203aa99", null ],
+    [ "bossGUIDs", "d4/dfc/a21201.html#a6dc53f3e4385f09869d91f59520b79d4", null ],
+    [ "checkTimer", "d4/dfc/a21201.html#aabf39e7d3cef7951c861c194dfff9ecd", null ],
+    [ "EmalonDeath", "d4/dfc/a21201.html#ac9235ec40c6648bb2a7d252b0053bc47", null ],
+    [ "KoralonDeath", "d4/dfc/a21201.html#a544c022446c0ddb39797417271ec1259", null ],
+    [ "m_auiEncounter", "d4/dfc/a21201.html#a708d88ed26d8c00cd9fc8f1601c9358e", null ],
+    [ "stoned", "d4/dfc/a21201.html#acde4794f2e980d523e873c0e610f726a", null ]
 ];

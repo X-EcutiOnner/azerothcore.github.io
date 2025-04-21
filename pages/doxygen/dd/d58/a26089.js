@@ -1,6 +1,7 @@
 var a26089 =
 [
-    [ "HandleSendEvent", "dd/d58/a26089.html#abd94e05280805b6d7f5bb0039324fb49", null ],
-    [ "PrepareSpellScript", "dd/d58/a26089.html#a7abe63c4bdaf3b8d7928d6f656f11fea", null ],
-    [ "Register", "dd/d58/a26089.html#aa2094cf0ef08f37bdc4ebbdd4a4e32b6", null ]
+    [ "HandleProc", "dd/d58/a26089.html#a72463db57f87387aa3ff3175c45ca9df", null ],
+    [ "PrepareAuraScript", "dd/d58/a26089.html#ae158b4b624b50ad984b2c5e9c16d7670", null ],
+    [ "Register", "dd/d58/a26089.html#a2da64a27cfa5a68464f8f3a885e09751", null ],
+    [ "Validate", "dd/d58/a26089.html#a798f51ee6333d3ebb2bbb617ea88ea2b", null ]
 ];

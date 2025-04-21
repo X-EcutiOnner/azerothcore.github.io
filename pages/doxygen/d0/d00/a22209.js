@@ -1,6 +1,6 @@
 var a22209 =
 [
-    [ "boss_yoggsaron_llaneAI", "d3/d14/a22213.html", "d3/d14/a22213" ],
-    [ "boss_yoggsaron_llane", "d0/d00/a22209.html#a671df488222583aa12bc1c75695918b9", null ],
-    [ "GetAI", "d0/d00/a22209.html#a1e7d1b4bce0ca1dbfbbe8c044b451b92", null ]
+    [ "npc_icefangAI", "d3/d14/a22213.html", "d3/d14/a22213" ],
+    [ "npc_icefang", "d0/d00/a22209.html#a2e13be89b110abaa2509e597e4cf883a", null ],
+    [ "GetAI", "d0/d00/a22209.html#ad1a936b1eef30271912054a817e0c9f8", null ]
 ];

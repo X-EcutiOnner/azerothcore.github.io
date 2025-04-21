@@ -1,7 +1,8 @@
 var a23581 =
 [
-    [ "npc_tirions_gambit_tirionAI", "d0/d13/a23585.html", "d0/d13/a23585" ],
-    [ "npc_tirions_gambit_tirion", "d8/d8a/a23581.html#ad52abd46ccdd3b4409671679434c193c", null ],
-    [ "GetAI", "d8/d8a/a23581.html#a222c092c2e2136dbd7057a3f7ad7b5f4", null ],
-    [ "OnGossipSelect", "d8/d8a/a23581.html#a5af904a3394de9b3eedb52009bd6b0a9", null ]
+    [ "FilterTargets", "d8/d8a/a23581.html#ae366594b668331a19f384ceb48654c0c", null ],
+    [ "HandleOnHit", "d8/d8a/a23581.html#abe5665fde7f01fafdfb55c58d8edbcf1", null ],
+    [ "PrepareSpellScript", "d8/d8a/a23581.html#a71aa4018d293391a73d3317c1e80951d", null ],
+    [ "Register", "d8/d8a/a23581.html#a3da162fd2cafc2e1236db0c6d4f65440", null ],
+    [ "Validate", "d8/d8a/a23581.html#a3747ad271dc659436ae7a8203b964554", null ]
 ];

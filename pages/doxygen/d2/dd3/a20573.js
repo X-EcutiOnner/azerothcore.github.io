@@ -1,6 +1,11 @@
 var a20573 =
 [
-    [ "boss_bjarngrimAI", "d3/dd2/a20577.html", "d3/dd2/a20577" ],
-    [ "boss_bjarngrim", "d2/dd3/a20573.html#ab509688547d41ec1fd094fdc45291959", null ],
-    [ "GetAI", "d2/dd3/a20573.html#aff6455d2a327bbf3426d10a07f7b0e44", null ]
+    [ "boss_thorim_ancient_rune_giantAI", "d2/dd3/a20573.html#a75df92817fb5eafa28e5d9c33679dcf8", null ],
+    [ "DoAction", "d2/dd3/a20573.html#a1ee097badabf5264517bc0e9d9a45051", null ],
+    [ "JustDied", "d2/dd3/a20573.html#ac69a6187be136fa53c65a7eb13bf19d4", null ],
+    [ "JustEngagedWith", "d2/dd3/a20573.html#acbfd05bbbae2f5b8a6fa2ee8bc440498", null ],
+    [ "Reset", "d2/dd3/a20573.html#a280a68af0d6b65bc99bb9b7116b801ad", null ],
+    [ "UpdateAI", "d2/dd3/a20573.html#aef980c0fe0c50beca167ea0ef46ff0c7", null ],
+    [ "_isInCombat", "d2/dd3/a20573.html#ab015a6dc76067be1d51d3ce67b6a7aff", null ],
+    [ "events", "d2/dd3/a20573.html#afff251a2cc56b7ce686a5b58c196c16c", null ]
 ];

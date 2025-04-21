@@ -1,7 +1,5 @@
 var a27925 =
 [
-    [ "HandleScriptEffect", "d2/de7/a27925.html#ad3497a9c986f65978d4b2553b0c9958f", null ],
-    [ "Load", "d2/de7/a27925.html#a33d46e5ebd418ea0242d958345cb44d2", null ],
-    [ "PrepareSpellScript", "d2/de7/a27925.html#ade09cd376d00df8b5e709026e353f409", null ],
-    [ "Register", "d2/de7/a27925.html#ad04bf0d88a3e1fde3c11b91d5ef1c7ae", null ]
+    [ "ID", "d2/de7/a27925.html#a4f030d8b8b87aff67e0d8319c6b53310", null ],
+    [ "price", "d2/de7/a27925.html#a9b81ec4b4638763b738862d6c184e2a9", null ]
 ];

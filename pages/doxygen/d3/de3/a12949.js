@@ -1,5 +1,7 @@
 var a12949 =
 [
-    [ "AreaTrigger_at_sunwell_madrigosa", "d3/de3/a12949.html#a6202301b3ce2dd20df77e2fd3b2f6042", null ],
-    [ "OnTrigger", "d3/de3/a12949.html#a459fbbd650883aa69ea9a21cf61370f7", null ]
+    [ "OnApply", "d3/de3/a12949.html#a21450cd59487a927bbc0a5a5e1ffa72b", null ],
+    [ "OnRemove", "d3/de3/a12949.html#a810203874163cf04798c3edbe69b747e", null ],
+    [ "PrepareAuraScript", "d3/de3/a12949.html#a3c17a7366acd9bd1863bae0f9218930a", null ],
+    [ "Register", "d3/de3/a12949.html#af2ad52165de188897fdeb8d62646b7cc", null ]
 ];

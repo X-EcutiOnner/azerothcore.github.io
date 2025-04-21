@@ -1,6 +1,6 @@
 var a15849 =
 [
-    [ "go_troll_cageAI", "d8/da0/a15853.html", "d8/da0/a15853" ],
-    [ "go_troll_cage", "d9/d00/a15849.html#ac571df719edabd9e9ecf5c8bb0e153c2", null ],
-    [ "GetAI", "d9/d00/a15849.html#a807f526225dc9a6b27ac64a7f4a3d9b8", null ]
+    [ "boss_sartharionAI", "d8/da0/a15853.html", "d8/da0/a15853" ],
+    [ "boss_sartharion", "d9/d00/a15849.html#a6605aee69372d08fba8f4b4523896588", null ],
+    [ "GetAI", "d9/d00/a15849.html#aca5d66e0f5cdcafd6f9cd2c173f43839", null ]
 ];

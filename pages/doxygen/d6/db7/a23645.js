@@ -1,6 +1,7 @@
 var a23645 =
 [
-    [ "npc_guardian_pavilionAI", "dc/ddc/a23649.html", "dc/ddc/a23649" ],
-    [ "npc_guardian_pavilion", "d6/db7/a23645.html#aecc7e93f2b50351584049f031362e0f0", null ],
-    [ "GetAI", "d6/db7/a23645.html#a89e55b3267cd93ae688573678851c7b9", null ]
+    [ "AfterApply", "d6/db7/a23645.html#a0ba88b8ed8cfd0afa1de500a7a8d74b5", null ],
+    [ "PrepareAuraScript", "d6/db7/a23645.html#aa98346e5f5b23fe016148426a19a719f", null ],
+    [ "Register", "d6/db7/a23645.html#ac0edcddf6c38b933c868dbe0535f143a", null ],
+    [ "Validate", "d6/db7/a23645.html#a616d1758aa257140f4941fe12ef21e87", null ]
 ];

@@ -1,6 +1,6 @@
 var a12881 =
 [
-    [ "instance_sunken_temple_InstanceMapScript", "de/d69/a12885.html", "de/d69/a12885" ],
-    [ "instance_sunken_temple", "dc/d49/a12881.html#a123b052c1cd1487588c88bf2611bc53b", null ],
-    [ "GetInstanceScript", "dc/d49/a12881.html#a1a783056b681f1f3b90e2e33e6a4a86d", null ]
+    [ "HandleScriptEffect", "dc/d49/a12881.html#a430d6f41e8533cbade64ea46aaa9ec2e", null ],
+    [ "PrepareSpellScript", "dc/d49/a12881.html#ad110e0dba330acde845c47501256cf5d", null ],
+    [ "Register", "dc/d49/a12881.html#ab6971aa466055a1280cd258e26645157", null ]
 ];

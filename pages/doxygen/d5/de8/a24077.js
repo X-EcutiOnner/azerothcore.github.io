@@ -1,13 +1,14 @@
 var a24077 =
 [
-    [ "OPvPCapturePointEP_EWT", "d5/de8/a24077.html#a3740f069c46f9d3f0e11d97663bc0104", null ],
-    [ "ChangeState", "d5/de8/a24077.html#ac00c50b89e1218f87506778096a9d7cd", null ],
-    [ "FillInitialWorldStates", "d5/de8/a24077.html#ad051a1cc41632414eab071aef5cf2f99", null ],
-    [ "HandlePlayerEnter", "d5/de8/a24077.html#aed78ccf9ad517b4a94431e3355cba1dd", null ],
-    [ "HandlePlayerLeave", "d5/de8/a24077.html#a2638b24dca375420778845963e307db3", null ],
-    [ "SendChangePhase", "d5/de8/a24077.html#a6d45df918aea00e9cb85a8940cb5c1c9", null ],
-    [ "SummonSupportUnitAtNorthpassTower", "d5/de8/a24077.html#ad70a8cc485072cd9af892290584062d8", null ],
-    [ "UpdateTowerState", "d5/de8/a24077.html#ac0bcdfb9f2aeabc78b72c3cce674c479", null ],
-    [ "m_TowerState", "d5/de8/a24077.html#aa30e9cc01476eb20b188c7a13a405c3a", null ],
-    [ "m_UnitsSummonedSideId", "d5/de8/a24077.html#a0319f0d51624df44419976e7abd1b813", null ]
+    [ "npc_mature_netherwing_drakeAI", "d5/de8/a24077.html#a32281f8dfa1c8af8fe6bcac2a8be4220", null ],
+    [ "JustReachedHome", "d5/de8/a24077.html#a0de69b5fda6342217697ad264d64d4e6", null ],
+    [ "MovementInform", "d5/de8/a24077.html#a456b5de60672120f82506d177faf6b47", null ],
+    [ "Reset", "d5/de8/a24077.html#a72eb39e259aed0ab230d4d43722cba13", null ],
+    [ "SpellHit", "d5/de8/a24077.html#a749690b386c0c726d11b77bc705b9b01", null ],
+    [ "UpdateAI", "d5/de8/a24077.html#a624c256f29d3cefed0bb909da3841853", null ],
+    [ "bCanEat", "d5/de8/a24077.html#ad4c671be4f16f23ddf2f2f84b0bd4c94", null ],
+    [ "bIsEating", "d5/de8/a24077.html#a0519438fda724a06a0c6f8ed2d7d533d", null ],
+    [ "CastTimer", "d5/de8/a24077.html#a630312f70a2f22683311a66e5a4f9ec6", null ],
+    [ "EatTimer", "d5/de8/a24077.html#aa50d3a21103dc769d162b1c917100630", null ],
+    [ "uiPlayerGUID", "d5/de8/a24077.html#a6b9a435245ddce156d0657aa9e35175b", null ]
 ];

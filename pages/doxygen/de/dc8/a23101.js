@@ -1,5 +1,6 @@
 var a23101 =
 [
-    [ "npc_leryssaAI", "de/dc8/a23101.html#ad21a1e1572880ba8cbf6625e658989eb", null ],
-    [ "MovementInform", "de/dc8/a23101.html#a36180f7351ab11a9942ec59ee24ae6ad", null ]
+    [ "HandleDummy", "de/dc8/a23101.html#a3347413822ce083085bcf1418fbdbae2", null ],
+    [ "PrepareSpellScript", "de/dc8/a23101.html#ad7b15a8c5cf3e2d38a1ce54afb24b3e5", null ],
+    [ "Register", "de/dc8/a23101.html#af0c8bf6a5076a4171a9d70f6872a21d5", null ]
 ];

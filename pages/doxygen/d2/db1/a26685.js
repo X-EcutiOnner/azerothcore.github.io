@@ -1,5 +1,11 @@
 var a26685 =
 [
-    [ "PrepareSpellScript", "d2/db1/a26685.html#a2d0e411f3b4a9efed35ee34c7bf03252", null ],
-    [ "Register", "d2/db1/a26685.html#a560ff22e718e8a975a2e2dc2340da917", null ]
+    [ "CalcPeriodic", "d2/db1/a26685.html#aeb804ef41ec5600c18b5b1c9fcf37479", null ],
+    [ "CalculateAPAmount", "d2/db1/a26685.html#a72bd308dbeaa7eca5685f3e5055d7fad", null ],
+    [ "CalculateResistanceAmount", "d2/db1/a26685.html#a12a0f547198d150b0c51e481dd0ff6aa", null ],
+    [ "CalculateSPAmount", "d2/db1/a26685.html#a114c868f0dc31f3370588b1bd1f18894", null ],
+    [ "CalculateStatAmount", "d2/db1/a26685.html#ae7ba2e3eca6c93325ede8b100e32bd3c", null ],
+    [ "HandlePeriodic", "d2/db1/a26685.html#af5076795e8bf6abd45590a060f9e5b52", null ],
+    [ "PrepareAuraScript", "d2/db1/a26685.html#aa512873852c0eea9947472fcb60fbfc2", null ],
+    [ "Register", "d2/db1/a26685.html#a40ed4ca839b9783d9a8e9930f87a2eb8", null ]
 ];

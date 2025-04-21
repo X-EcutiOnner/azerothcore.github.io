@@ -1,12 +1,9 @@
 var a20001 =
 [
-    [ "npc_boss_gothik_minionAI", "d1/de4/a20001.html#aa719d87c65294fc483b424b125619a10", null ],
-    [ "IsOnSameSide", "d1/de4/a20001.html#a7d305be5e3d66c1317fa91e588223da0", null ],
-    [ "JustDied", "d1/de4/a20001.html#a752b6eab9cf1b016962c6f535586b59d", null ],
-    [ "JustEngagedWith", "d1/de4/a20001.html#ad86778d5a0e883a839b4a43425a57d7f", null ],
-    [ "KilledUnit", "d1/de4/a20001.html#a6a09440d623dcee51b7e0d4ed77d624e", null ],
-    [ "Reset", "d1/de4/a20001.html#a309401236c254cd850759a0cbb4004e0", null ],
-    [ "UpdateAI", "d1/de4/a20001.html#a43744e96be00d8bc0afc34a570e79947", null ],
-    [ "events", "d1/de4/a20001.html#ae2dde7b4fc655b1ae27410d299776c49", null ],
-    [ "livingSide", "d1/de4/a20001.html#a2545d00e04bae9ee0a1bf9f9d6162c74", null ]
+    [ "boss_freya_nature_bombAI", "d1/de4/a20001.html#acbf4d330bb5bf4a032732895e8f7e35b", null ],
+    [ "Reset", "d1/de4/a20001.html#a60738702870e2cacbcdf600e9e7073b5", null ],
+    [ "UpdateAI", "d1/de4/a20001.html#a4bfa9df3e3151743485f59c4d318d7f9", null ],
+    [ "_explodeTimer", "d1/de4/a20001.html#a2af9ed2067097eec2a647f17f8b1ef71", null ],
+    [ "_goGUID", "d1/de4/a20001.html#a1a7579cc6957a52d65a1d302d5ba1da0", null ],
+    [ "Timer", "d1/de4/a20001.html#a714a582c6ec552b969624244d709d14d", null ]
 ];

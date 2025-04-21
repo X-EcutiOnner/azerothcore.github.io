@@ -1,4 +1,4 @@
 var a04676 =
 [
-    [ "AppenderDB", "d7/d68/a05848.html", "d7/d68/a05848" ]
+    [ "UpdateFetcher::DirectoryEntry", "d4/d80/a05873.html", "d4/d80/a05873" ]
 ];

@@ -1,7 +1,6 @@
 var a25157 =
 [
-    [ "HandleScriptEffect", "d4/d4d/a25157.html#a534bf39998813f06c48bc920e4666692", null ],
-    [ "PrepareSpellScript", "d4/d4d/a25157.html#a5892f20a0704596cb70a995a73846368", null ],
-    [ "Register", "d4/d4d/a25157.html#a1176b4e4ad488a3b6b38ff4b8c955d64", null ],
-    [ "Validate", "d4/d4d/a25157.html#af618314a13013eaf9f36b30047de0878", null ]
+    [ "PrepareSpellScript", "d4/d4d/a25157.html#abb178100d4e5fa4032118f86aa34127d", null ],
+    [ "Register", "d4/d4d/a25157.html#a50e902cc281b909259097a8bed5651f2", null ],
+    [ "RemoveVehicleAuras", "d4/d4d/a25157.html#a4ec803f3164d6e38ddf10f4a0ca392e0", null ]
 ];

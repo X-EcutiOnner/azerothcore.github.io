@@ -1,7 +1,9 @@
 var a27085 =
 [
-    [ "HandleDamage", "df/d3a/a27085.html#a9c9bbe49388cf5d04650572fdf789e5e", null ],
-    [ "PrepareSpellScript", "df/d3a/a27085.html#ac89a628f1aba54aa2ade876a4f7911b8", null ],
-    [ "Register", "df/d3a/a27085.html#a627bffccdd78c00f0f5a4241f36aeec8", null ],
-    [ "Validate", "df/d3a/a27085.html#aed63b40f8e2cc6fd32dd536a2d56c7c3", null ]
+    [ "ChatLogScript", "df/d3a/a27085.html#ade8c407083cf094f0767412e7b6d7730", null ],
+    [ "OnPlayerChat", "df/d3a/a27085.html#a9dc39835aac01da34c57c420fc82790e", null ],
+    [ "OnPlayerChat", "df/d3a/a27085.html#a64e047261c3d3de22614950c6b6f6f79", null ],
+    [ "OnPlayerChat", "df/d3a/a27085.html#ac9a4dc6a35325a87c69f08f50a26750c", null ],
+    [ "OnPlayerChat", "df/d3a/a27085.html#af6e61405ba6642fa451465e27c4b47d8", null ],
+    [ "OnPlayerChat", "df/d3a/a27085.html#a9962307a0e073ee3f5e7139f059e01b8", null ]
 ];

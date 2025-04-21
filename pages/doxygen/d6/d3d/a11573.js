@@ -1,5 +1,8 @@
 var a11573 =
 [
-    [ "boss_high_priestess_thaurissan", "d6/d3d/a11573.html#a53d3fd78f6a1a3b5028c6fc2940dfbd0", null ],
-    [ "GetAI", "d6/d3d/a11573.html#a7d2bb83a766b8eaa9bdbbb0f45a4fe62", null ]
+    [ "CreatureCountWorker", "d6/d3d/a11573.html#ad01e947d97d03a10ea3a891d24cb05b7", null ],
+    [ "GetTopCreatureCount", "d6/d3d/a11573.html#a5d4d009b6685dd71703f96f9945a463e", null ],
+    [ "Visit", "d6/d3d/a11573.html#a786d95d42f7711235e60a4f54cc3b4be", null ],
+    [ "Visit", "d6/d3d/a11573.html#afa72c0c1f905f4277d650ad0cfef281d", null ],
+    [ "creatureIds", "d6/d3d/a11573.html#a3a6f946c40b1006164793dbaed2b3948", null ]
 ];

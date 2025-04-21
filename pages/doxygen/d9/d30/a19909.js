@@ -1,6 +1,9 @@
 var a19909 =
 [
-    [ "spell_ioc_gunship_portal_SpellScript", "d3/db7/a19913.html", "d3/db7/a19913" ],
-    [ "spell_ioc_gunship_portal", "d9/d30/a19909.html#ab4c871ebf951ef29f21189062f9339c4", null ],
-    [ "GetSpellScript", "d9/d30/a19909.html#a5ac5f523a79656a48d0acce6dd945d51", null ]
+    [ "Absorb", "d9/d30/a19909.html#a16c2e931950102fc0ae5c88ef14587c1", null ],
+    [ "CalculateAmount", "d9/d30/a19909.html#a9166627cbaa536405975444c4ef601de", null ],
+    [ "Load", "d9/d30/a19909.html#abe7c08d2f26cef3603cf1b1f243f9e38", null ],
+    [ "PrepareAuraScript", "d9/d30/a19909.html#aa5793741c2f8179db68a9fb1222a9085", null ],
+    [ "Register", "d9/d30/a19909.html#a17fed57aed8953c7a7e401d1ac925e67", null ],
+    [ "_absorbPct", "d9/d30/a19909.html#ad9e1dcfd8ce7038173ac5b71d448d80a", null ]
 ];

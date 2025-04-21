@@ -1,13 +1,9 @@
 var a10729 =
 [
-    [ "alive", "d4/d94/a10729.html#aebeb2f67bf8646770570e5564fb01d4d", null ],
-    [ "crit", "d4/d94/a10729.html#a908278bd46f9be3e1191f4883f9eb32f", null ],
-    [ "damage", "d4/d94/a10729.html#a5bdf23f41a4a748f96dd9fffa8e8a838", null ],
-    [ "effectMask", "d4/d94/a10729.html#afb839b2b409a61e4d63de03dbce2abcb", null ],
-    [ "missCondition", "d4/d94/a10729.html#a6c17740427f4f90c7c2e4fb4854ab4b3", null ],
-    [ "processed", "d4/d94/a10729.html#a2de96d62297ff614fc3702bec035ce5b", null ],
-    [ "reflectResult", "d4/d94/a10729.html#add2beb55eb3313e474d947fd3eb1fc65", null ],
-    [ "scaleAura", "d4/d94/a10729.html#a89bba366b26686d41288e9b2e725eb75", null ],
-    [ "targetGUID", "d4/d94/a10729.html#acf55c1dd6f00c94296c592d988f959cf", null ],
-    [ "timeDelay", "d4/d94/a10729.html#abcf1acd0c3d50c2264253dc9c052795a", null ]
+    [ "LevelUpInfo", "d4/d94/a10729.html#ae856bb717d6ae4b03775b7bfb026850d", null ],
+    [ "Write", "d4/d94/a10729.html#af09dd1c6470516ea9422d22ed22e6d10", null ],
+    [ "HealthDelta", "d4/d94/a10729.html#ab654fc42947c0c783d3a26e6df32b29d", null ],
+    [ "Level", "d4/d94/a10729.html#a1765f693918fdd1f51d7b8dc7b2494a2", null ],
+    [ "PowerDelta", "d4/d94/a10729.html#a697da64ac234c24fe73e68d408697ee6", null ],
+    [ "StatDelta", "d4/d94/a10729.html#a580e4a3cd77631e960b7753542375d6d", null ]
 ];

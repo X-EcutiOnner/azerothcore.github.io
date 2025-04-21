@@ -1,6 +1,6 @@
 var a25509 =
 [
-    [ "OnApply", "d0/db4/a25509.html#a36bae477f05e49093ff7486efb139662", null ],
-    [ "PrepareAuraScript", "d0/db4/a25509.html#a68fcadaefa5ed3df80e3e9ef09c5898c", null ],
-    [ "Register", "d0/db4/a25509.html#af1ab3aec88c75b88cb8cc78bb6249806", null ]
+    [ "HandleProc", "d0/db4/a25509.html#a9a38fab6b581e9f9b4e092d7a4ecaebd", null ],
+    [ "PrepareAuraScript", "d0/db4/a25509.html#a5299aaeacead013e00e81ec7960528f8", null ],
+    [ "Register", "d0/db4/a25509.html#a3b46c5dd891d856e08cbcb9a494f2dd2", null ]
 ];

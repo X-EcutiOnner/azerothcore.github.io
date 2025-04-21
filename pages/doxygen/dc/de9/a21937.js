@@ -1,9 +1,6 @@
 var a21937 =
 [
-    [ "boss_thorim_gauntlet_npcsAI", "dc/de9/a21937.html#aaa7e94f653a1db001cd0c962fb855098", null ],
-    [ "JustEngagedWith", "dc/de9/a21937.html#afaf0a05b1fd2fc2187b52328340b65bb", null ],
-    [ "Reset", "dc/de9/a21937.html#a9e4c25742785809d788f2e910f7840bc", null ],
-    [ "UpdateAI", "dc/de9/a21937.html#a4dd5a9cbbb10d514a0473dfd7cdd3c29", null ],
-    [ "_isCaster", "dc/de9/a21937.html#a104f447cc52c285d59653a8ebff20fef", null ],
-    [ "events", "dc/de9/a21937.html#a650508e05b6fa1af538a0b34e04c8bf5", null ]
+    [ "npc_black_knight_graveyardAI", "d2/db5/a21941.html", "d2/db5/a21941" ],
+    [ "npc_black_knight_graveyard", "dc/de9/a21937.html#a2ce61ba254916f1f8b7a7658f96b67d5", null ],
+    [ "GetAI", "dc/de9/a21937.html#aab382cd1b7561c0db9c9f4c81247e540", null ]
 ];

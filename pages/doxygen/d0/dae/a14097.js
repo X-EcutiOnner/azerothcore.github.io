@@ -1,6 +1,6 @@
 var a14097 =
 [
-    [ "boss_wushoolayAI", "d0/dae/a14097.html#a2ea62154c0932e5cd34bd4b858829ffe", null ],
-    [ "JustEngagedWith", "d0/dae/a14097.html#af519da543fff63a39a6fbe48f90f2f22", null ],
-    [ "UpdateAI", "d0/dae/a14097.html#acfaacee2a97212eb15056c1552b9e06b", null ]
+    [ "HandleAfterHit", "d0/dae/a14097.html#a4a3122d1b69baeae76f1ae3b6818bfb5", null ],
+    [ "PrepareSpellScript", "d0/dae/a14097.html#a284796ec70bdfaea9919f54da94f0021", null ],
+    [ "Register", "d0/dae/a14097.html#a30dcb608c20df17de9597ece1930d59d", null ]
 ];

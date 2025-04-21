@@ -1,6 +1,7 @@
 var a17785 =
 [
-    [ "spell_blood_queen_pact_of_the_darkfallen_SpellScript", "dc/ddb/a17789.html", "dc/ddb/a17789" ],
-    [ "spell_blood_queen_pact_of_the_darkfallen", "d9/d94/a17785.html#a282243aebc1aa6d14c7486d6b2487e7c", null ],
-    [ "GetSpellScript", "d9/d94/a17785.html#a6161550b33200f90bffc91b446878181", null ]
+    [ "HandleExtraEffect", "d9/d94/a17785.html#a8fbfac8e62d2534daf40194f7fe31945", null ],
+    [ "PrepareAuraScript", "d9/d94/a17785.html#a45e83b3bfa344391bb87c8088ae1c6a7", null ],
+    [ "Register", "d9/d94/a17785.html#a5ec23a02a4e617e6db8cf17d2bd36aff", null ],
+    [ "Validate", "d9/d94/a17785.html#a2e7253cfc18b66d663457c2fb7ab3302", null ]
 ];

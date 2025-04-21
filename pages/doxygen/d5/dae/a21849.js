@@ -1,8 +1,6 @@
 var a21849 =
 [
-    [ "npc_ulduar_dark_rune_guardianAI", "d5/dae/a21849.html#aedb43124c923621aadecb77511204fc6", null ],
-    [ "CanAIAttack", "d5/dae/a21849.html#af23cb4a19d28f5aa57ba96de95f87c87", null ],
-    [ "Reset", "d5/dae/a21849.html#a4c1f53fbbc6189ca9ee0420bc4198684", null ],
-    [ "UpdateAI", "d5/dae/a21849.html#ad21127654d5511b6b1d9b22cdd77bd08", null ],
-    [ "timer2", "d5/dae/a21849.html#aa66f1aa48cf928ac12751cb3ca2358f3", null ]
+    [ "npc_venture_co_stragglerAI", "df/d29/a21853.html", "df/d29/a21853" ],
+    [ "npc_venture_co_straggler", "d5/dae/a21849.html#a9d928b33dfcd3a6ccb7e1f7a1964762f", null ],
+    [ "GetAI", "d5/dae/a21849.html#a5f95d20c67553ae8a27f00ebb92e3627", null ]
 ];

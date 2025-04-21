@@ -1,6 +1,10 @@
 var a24357 =
 [
-    [ "PrepareAuraScript", "d0/d8b/a24357.html#a072bb705008099f6e6f49260d6ab21e4", null ],
-    [ "Register", "d0/d8b/a24357.html#a302e454c209cb545ae092f4d050a955d", null ],
-    [ "AuraEffectHandleModes", "d0/d8b/a24357.html#ad45984e2c33247b9a65d6ae04c9da619", null ]
+    [ "npc_pet_hunter_snake_trap", "d0/d8b/a24357.html#aaf5df574c4ac53661c0bb1968f84c6ea", null ],
+    [ "EnterEvadeMode", "d0/d8b/a24357.html#a819add0c7b968063403d10275fdc289f", null ],
+    [ "MoveInLineOfSight", "d0/d8b/a24357.html#a32d5ed7f4d436f2678b34f4a1d572721", null ],
+    [ "Reset", "d0/d8b/a24357.html#a831cf6eea8bd03247cd9877d3be6e1ee", null ],
+    [ "UpdateAI", "d0/d8b/a24357.html#a41a37efe6d39c6d97b3dcc5fabbcc812", null ],
+    [ "_init", "d0/d8b/a24357.html#a1b5c1301389749f82667c35f3daff847", null ],
+    [ "_spellTimer", "d0/d8b/a24357.html#ab9397451e2e8320ca77560a19baeee3f", null ]
 ];

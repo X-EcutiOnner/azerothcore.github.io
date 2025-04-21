@@ -1,5 +1,5 @@
 var a01223 =
 [
-    [ "CreatureTextBuilder", "de/d98/a11334.html", "de/d98/a11334" ],
-    [ "PlayerTextBuilder", "d9/d07/a11338.html", "d9/d07/a11338" ]
+    [ "CreatureTextBuilder", "d3/ddf/a11337.html", "d3/ddf/a11337" ],
+    [ "PlayerTextBuilder", "d4/db8/a11341.html", "d4/db8/a11341" ]
 ];

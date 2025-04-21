@@ -1,6 +1,6 @@
 var a15793 =
 [
-    [ "SayerEntry", "d3/d8b/a15793.html#a3f9e374ec2a49823d942c29572ac2fa0", null ],
-    [ "SayTimer", "d3/d8b/a15793.html#a942073f24fd12da712184243d9f098f2", null ],
-    [ "TextEntry", "d3/d8b/a15793.html#a360822e4c069be6019c0a465cb2499cf", null ]
+    [ "boss_hadronoxAI", "da/dc9/a15797.html", "da/dc9/a15797" ],
+    [ "boss_hadronox", "d3/d8b/a15793.html#ae3457fd6108cc350cf9eedab3178f781", null ],
+    [ "GetAI", "d3/d8b/a15793.html#a90bf0ecb218e30e61852baffeabc3dc1", null ]
 ];

@@ -1,14 +1,17 @@
 var a22493 =
 [
-    [ "boss_dalronn_the_controllerAI", "d5/d7b/a22493.html#a74acf12255e669ba9e081be72ec10f26", null ],
-    [ "DoAction", "d5/d7b/a22493.html#adce321ce3c7123db4520c83adeca4c70", null ],
-    [ "JustDied", "d5/d7b/a22493.html#a179583ec5fc4e472175ac928f0593584", null ],
-    [ "JustEngagedWith", "d5/d7b/a22493.html#af12427a7a194fecb51ab353176346b0f", null ],
-    [ "JustSummoned", "d5/d7b/a22493.html#ac5bfbb9d2d98f70d4bede908a1187c48", null ],
-    [ "KilledUnit", "d5/d7b/a22493.html#ab518322d3af739c546ee281a00c8b3f9", null ],
-    [ "Reset", "d5/d7b/a22493.html#a2ad24e213c8843b231e064dd453db976", null ],
-    [ "UpdateAI", "d5/d7b/a22493.html#a18b11c3046506d80f6295bcdb10957e9", null ],
-    [ "events", "d5/d7b/a22493.html#ac055e216fb58f0386d0f6784584f087c", null ],
-    [ "pInstance", "d5/d7b/a22493.html#a50970dde0b20e6219e755961671b741a", null ],
-    [ "summons", "d5/d7b/a22493.html#adf7ff910666145f0680f2e34e040c674", null ]
+    [ "OPvPCapturePointZM_Graveyard", "d5/d7b/a22493.html#a78fe433ee7f86e42d9b9c24d4c47f870", null ],
+    [ "CanTalkTo", "d5/d7b/a22493.html#ae16e1448e5c21daea0a56ede78b3174a", null ],
+    [ "ChangeState", "d5/d7b/a22493.html#a6a066c902c6e8ac58950037e6c4934b6", null ],
+    [ "FillInitialWorldStates", "d5/d7b/a22493.html#a8aea9e4a005f5c88e2c71cfd46d10058", null ],
+    [ "GetGraveyardState", "d5/d7b/a22493.html#ac10fc817ba6d3c68310a6b0d68e52342", null ],
+    [ "HandleDropFlag", "d5/d7b/a22493.html#a87fb109fcc88099406d9f189333aef7c", null ],
+    [ "HandleGossipOption", "d5/d7b/a22493.html#a132a6beb8a265dc614763a5f8e510173", null ],
+    [ "HandleOpenGo", "d5/d7b/a22493.html#abef3d9dfff4688e0c5a87cd7b2a847c4", null ],
+    [ "SetBeaconState", "d5/d7b/a22493.html#a7d7fc3041c753918c6e13e49a691674a", null ],
+    [ "Update", "d5/d7b/a22493.html#a19d09f296598b83079eb2545b3d2caff", null ],
+    [ "UpdateTowerState", "d5/d7b/a22493.html#ae907325621c0c0a40fc1e7761b81e832", null ],
+    [ "m_BothControllingFactionId", "d5/d7b/a22493.html#ad501fe77b1d678cb593be6a0a8afd0a8", null ],
+    [ "m_FlagCarrierGUID", "d5/d7b/a22493.html#acb0c4738c28d48f2f0ccec090e4b96d4", null ],
+    [ "m_GraveyardState", "d5/d7b/a22493.html#a20e5b236d87c0942d15a60d2eba1af83", null ]
 ];

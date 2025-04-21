@@ -1,10 +1,13 @@
 var a14993 =
 [
-    [ "npc_hive_zara_larva", "d0/d80/a14993.html#a50fb5738d7b0818689216fee0915a0de", null ],
-    [ "AttackStart", "d0/d80/a14993.html#aa21aee8b83f7331ecd2578b5eadaa054", null ],
-    [ "JustSummoned", "d0/d80/a14993.html#a2a1d80f70ae265b1db50e3a7165fa099", null ],
-    [ "MoveInLineOfSight", "d0/d80/a14993.html#acee981a1aaa092f77ee2613d0c5b8450", null ],
-    [ "MovementInform", "d0/d80/a14993.html#a6890c58106450d654062f548a80cb42f", null ],
-    [ "UpdateAI", "d0/d80/a14993.html#ab7452ec3ea8fa7caee7a45ae1ebbde9a", null ],
-    [ "_instance", "d0/d80/a14993.html#aa8333a25c0e184dd75db580b03ef9cb2", null ]
+    [ "boss_cthun", "d0/d80/a14993.html#a287ee7b65708971e4fdfa7b814486935", null ],
+    [ "DoAction", "d0/d80/a14993.html#a04ae38b67d358f1d34820b855aab3869", null ],
+    [ "JustDied", "d0/d80/a14993.html#a3c6478e7de0e5a6f20f693a788bf8c86", null ],
+    [ "JustEngagedWith", "d0/d80/a14993.html#a56fe3347ac41b67fb6912f372a5879ba", null ],
+    [ "Reset", "d0/d80/a14993.html#a05bab8427cd4b4bfa50aee450e423f98", null ],
+    [ "ScheduleTasks", "d0/d80/a14993.html#a5a0514e56217bb3b30b22b2681542adb", null ],
+    [ "SummonedCreatureDies", "d0/d80/a14993.html#a49d76bb4cf30ee66fae6114313394961", null ],
+    [ "UpdateAI", "d0/d80/a14993.html#a7d2685597f1eec2459fe509e5b97681f", null ],
+    [ "_fleshTentaclesKilled", "d0/d80/a14993.html#a139de83ae488c40d40a4587509cd197d", null ],
+    [ "WisperTimer", "d0/d80/a14993.html#abad23f1df9c6989e7a6d3d62143adb05", null ]
 ];

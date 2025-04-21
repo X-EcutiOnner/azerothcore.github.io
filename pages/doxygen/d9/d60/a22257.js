@@ -1,7 +1,6 @@
 var a22257 =
 [
-    [ "OnApply", "d9/d60/a22257.html#a9099b54faf29362622f80def67bdaa6b", null ],
-    [ "OnRemove", "d9/d60/a22257.html#a92706a5fa094ebbf2df479cf6a5b4336", null ],
-    [ "PrepareAuraScript", "d9/d60/a22257.html#a006321268388ea7beb13126f3050d7b6", null ],
-    [ "Register", "d9/d60/a22257.html#abfb4241cd1ddbbcb5e51b516e32032df", null ]
+    [ "npc_wg_queueAI", "d9/d60/a22257.html#a3760738d61b6148042fc30bd96b88fdc", null ],
+    [ "UpdateAI", "d9/d60/a22257.html#a2e5f19a0f01eeb3d1585c7b02f2073b2", null ],
+    [ "events", "d9/d60/a22257.html#ab0eb949272e48120cff1c3df27ad8e92", null ]
 ];

@@ -1,5 +1,6 @@
 var a26177 =
 [
-    [ "npc_pet_dk_dancing_rune_weaponAI", "d6/dc5/a26177.html#a6d57990a8ff05cc74356b0ed4d7d39b6", null ],
-    [ "InitializeAI", "d6/dc5/a26177.html#a620ebac7c7cd5f81af47ea2e35de128c", null ]
+    [ "HandleDummyEffect", "d6/dc5/a26177.html#ad5421ca3dd5bf802952f98e6d1170003", null ],
+    [ "PrepareSpellScript", "d6/dc5/a26177.html#a9489556e1e16cd2e0d5c43b38d7ea5ee", null ],
+    [ "Register", "d6/dc5/a26177.html#a2ad2c00807d07aeb55a8fd848a69f9d1", null ]
 ];

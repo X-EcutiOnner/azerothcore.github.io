@@ -1,6 +1,7 @@
 var a18605 =
 [
-    [ "npc_little_oozeAI", "d3/db3/a18609.html", "d3/db3/a18609" ],
-    [ "npc_little_ooze", "d1/d73/a18605.html#a9b0849057c1d3dd9f6507b9c80e67a66", null ],
-    [ "GetAI", "d1/d73/a18605.html#a3e56c6dbad6239485897655a4bfbbe07", null ]
+    [ "HandleQuestComplete", "d1/d73/a18605.html#a5f1e6c4358df4e0910b2227f90b39d24", null ],
+    [ "HandleScript", "d1/d73/a18605.html#a309052e9b7c3d3747d15ab5e9c0d25fd", null ],
+    [ "PrepareSpellScript", "d1/d73/a18605.html#ac9b2786ba2dbb8d1c74af05153bb0a6f", null ],
+    [ "Register", "d1/d73/a18605.html#a3258d4517cfc758080691bab429624d7", null ]
 ];

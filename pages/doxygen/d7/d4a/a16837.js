@@ -1,6 +1,6 @@
 var a16837 =
 [
-    [ "if", "d7/d4a/a16837.html#a05a4c1db7e7d6810209175a22db5a639", null ],
-    [ "PrepareAuraScript", "d7/d4a/a16837.html#ab918782945539513ae49cff3280fc352", null ],
-    [ "absorbAmount", "d7/d4a/a16837.html#a72d148ef61ff66cbc2afdb3defec15ce", null ]
+    [ "npc_hor_raging_ghoulAI", "da/dc2/a16841.html", "da/dc2/a16841" ],
+    [ "npc_hor_raging_ghoul", "d7/d4a/a16837.html#ad2130edf27295719c46dde14deefe5a4", null ],
+    [ "GetAI", "d7/d4a/a16837.html#ab29cebad1d54d14ecf21bbd215dc2f2d", null ]
 ];

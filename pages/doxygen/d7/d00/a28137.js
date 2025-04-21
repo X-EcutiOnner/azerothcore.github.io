@@ -1,6 +1,7 @@
 var a28137 =
 [
-    [ "HandleEffectApply", "d7/d00/a28137.html#a111ce5c9e70ed563bc7b9c2ec8e79b76", null ],
-    [ "PrepareAuraScript", "d7/d00/a28137.html#a707504eccf42af77f6e6e927d208bc8c", null ],
-    [ "Register", "d7/d00/a28137.html#a7aeaa28997bbe966274a738cf45323ed", null ]
+    [ "ID", "d7/d00/a28137.html#a3af48dd3f6b92ad7f5950d99ca6dd379", null ],
+    [ "Index", "d7/d00/a28137.html#aa58e046529aae0d1d6201c08ec8107e2", null ],
+    [ "Skill", "d7/d00/a28137.html#aed5e58cf605d3c28cd0d26015722be03", null ],
+    [ "Type", "d7/d00/a28137.html#a39b0b548efd795c162926bddcdd301b5", null ]
 ];

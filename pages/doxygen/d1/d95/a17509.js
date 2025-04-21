@@ -1,10 +1,8 @@
 var a17509 =
 [
-    [ "npc_living_mojoAI", "d1/d95/a17509.html#ab0e6dd5db0c358ff4fefc4797a622b8c", null ],
-    [ "AttackStart", "d1/d95/a17509.html#ad3f73a040176cd804f9715141063d176", null ],
-    [ "DoAction", "d1/d95/a17509.html#a9d942e99f358a7488d473969ab461d6f", null ],
-    [ "MoveInLineOfSight", "d1/d95/a17509.html#a7981568666269e25580ae839f1f97f09", null ],
-    [ "Reset", "d1/d95/a17509.html#a139df1207438dbd3793a2fbc58c2396c", null ],
-    [ "UpdateAI", "d1/d95/a17509.html#a418d7eee72f0a8506357eee3f1fbaf6c", null ],
-    [ "events", "d1/d95/a17509.html#acc7fd42cf4ea4b0203ad7ba4f775e3f2", null ]
+    [ "npc_gunship_mageAI", "d1/d95/a17509.html#ac79cb67f21820ef88ac9cd671ca9e4c7", null ],
+    [ "AttackStart", "d1/d95/a17509.html#a41bd517c360538f568fb56bc9d2f5e55", null ],
+    [ "CanAIAttack", "d1/d95/a17509.html#aadcb217a9df96bee02287d75a23e32c2", null ],
+    [ "MovementInform", "d1/d95/a17509.html#ac0f233fa5a34cd6e080f44c798b4fc62", null ],
+    [ "UpdateAI", "d1/d95/a17509.html#aa767fc4cb2f7eba37fedaec57c4bc175", null ]
 ];

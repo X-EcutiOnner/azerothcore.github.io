@@ -1,9 +1,8 @@
 var a08957 =
 [
-    [ "AnyGroupedUnitInObjectRangeCheck", "da/d76/a08957.html#a2c775f62eeabcb8af5306cbcedae322e", null ],
-    [ "operator()", "da/d76/a08957.html#a3c316eacdd1c74c69d8297871f84d7b9", null ],
-    [ "_raid", "da/d76/a08957.html#a6a9cffd02435913a5d7ee53cd1e8cc0b", null ],
-    [ "_range", "da/d76/a08957.html#a01b4592ac61d58ff39e5bb2eb1a1b997", null ],
-    [ "_refUnit", "da/d76/a08957.html#ad083243ef5487aa374b19e3c82b0457c", null ],
-    [ "_source", "da/d76/a08957.html#a91de967d2376ea96b1fc0838094915cf", null ]
+    [ "MailLevelReward", "da/d76/a08957.html#accd52642cbbab457b69dba54a6ffa23b", null ],
+    [ "MailLevelReward", "da/d76/a08957.html#a3e98aa5c30b0b5648784f9aaf5349a76", null ],
+    [ "mailTemplateId", "da/d76/a08957.html#afdf6684bcd2751822bd00ba1509ef933", null ],
+    [ "raceMask", "da/d76/a08957.html#a341088acd89b79161d932367f4f1798d", null ],
+    [ "senderEntry", "da/d76/a08957.html#a2b678ac953209691b38d583cffab55b5", null ]
 ];

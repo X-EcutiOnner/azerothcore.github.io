@@ -1,6 +1,7 @@
 var a19633 =
 [
-    [ "spell_svalna_remove_spear_SpellScript", "d9/de3/a19637.html", "d9/de3/a19637" ],
-    [ "spell_svalna_remove_spear", "d9/da8/a19633.html#a48fe35704276368cd9a55a00ccf30406", null ],
-    [ "GetSpellScript", "d9/da8/a19633.html#a213318ce2f0b19b0e35f7b963daf6caf", null ]
+    [ "HandleDummyEffect", "d9/da8/a19633.html#ae95c1ce60db79c360e9c1431f27705cb", null ],
+    [ "PrepareSpellScript", "d9/da8/a19633.html#a84a4f52928873e58b1fc49e783c5083a", null ],
+    [ "Register", "d9/da8/a19633.html#a90c00bcb1768d696addab407425e406a", null ],
+    [ "SelectTarget", "d9/da8/a19633.html#a2e7a7c05a30ae1e0c5aa14dc2af19345", null ]
 ];

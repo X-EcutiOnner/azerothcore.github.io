@@ -1,6 +1,6 @@
 var a20661 =
 [
-    [ "spell_krystallus_shatter_SpellScript", "dd/d40/a20665.html", "dd/d40/a20665" ],
-    [ "spell_krystallus_shatter", "d4/dbd/a20661.html#a3845e28e2e90252c04e5f8355cba748a", null ],
-    [ "GetSpellScript", "d4/dbd/a20661.html#a0d52e0904ed8a694adc2c40131f7c9e9", null ]
+    [ "PrepareSpellScript", "d4/dbd/a20661.html#a525025d429743f9d606289ca1a660796", null ],
+    [ "Register", "d4/dbd/a20661.html#a66f565c07d495f27aaba393fdcce9d24", null ],
+    [ "SelectTarget", "d4/dbd/a20661.html#a1c55fabe15cdccb073e109e1d0f6e6ad", null ]
 ];

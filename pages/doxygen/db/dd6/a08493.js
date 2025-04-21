@@ -1,6 +1,6 @@
 var a08493 =
 [
-    [ "condition", "db/dd6/a08493.html#aad28ca93ce5c4fc8194b3df8b63e2c3a", null ],
-    [ "event_id", "db/dd6/a08493.html#a9b29b2a432f6f39829de20397f864de0", null ],
-    [ "num", "db/dd6/a08493.html#a1907e263ef0facb4cf5145f1f0783ec1", null ]
+    [ "PlayerCreateInfoItem", "db/dd6/a08493.html#aba5495af3d4c463f7f65fa1851879d3b", null ],
+    [ "item_amount", "db/dd6/a08493.html#a2cc481d54ec0c8a58477803364f40b2a", null ],
+    [ "item_id", "db/dd6/a08493.html#a54e5593fe1a1e06b16963c96f1840a2a", null ]
 ];

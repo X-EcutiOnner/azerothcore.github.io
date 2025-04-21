@@ -1,6 +1,6 @@
 var a02417 =
 [
-    [ "AutobroadcastMgr", "dc/da2/a07106.html", "dc/da2/a07106" ],
+    [ "AutobroadcastMgr", "d2/da1/a07109.html", "d2/da1/a07109" ],
     [ "sAutobroadcastMgr", "de/d76/a02417.html#a34abff2dadcb74370b0749fe9fda3878", null ],
     [ "AnnounceType", "de/d76/a02417.html#a28a4ef2f64643c76d8be05bf9eafc731", [
       [ "World", "de/d76/a02417.html#a28a4ef2f64643c76d8be05bf9eafc731af5a7924e621e84c9280a9a27e1bcb7f6", null ],

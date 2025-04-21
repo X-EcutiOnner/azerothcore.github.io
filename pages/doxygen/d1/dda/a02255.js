@@ -1,7 +1,7 @@
 var a02255 =
 [
-    [ "CliCommandHolder", "d5/df1/a11494.html", "d5/df1/a11494" ],
-    [ "IWorld", "de/d9f/a11498.html", "de/d9f/a11498" ],
+    [ "CliCommandHolder", "d0/db7/a11497.html", "d0/db7/a11497" ],
+    [ "IWorld", "de/dda/a11501.html", "de/dda/a11501" ],
     [ "Rates", "d1/dda/a02255.html#a7ba5c3e6b385572c3bd751b6c9da9a20", [
       [ "RATE_HEALTH", "d1/dda/a02255.html#a7ba5c3e6b385572c3bd751b6c9da9a20a8bdee348b397c9fbaa19c38d23814cb2", null ],
       [ "RATE_POWER_MANA", "d1/dda/a02255.html#a7ba5c3e6b385572c3bd751b6c9da9a20a5f7f53b89eba684a78e954df438e9dcd", null ],

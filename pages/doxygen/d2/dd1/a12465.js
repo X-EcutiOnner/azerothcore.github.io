@@ -1,6 +1,6 @@
 var a12465 =
 [
-    [ "boss_yazzai", "d2/dd1/a12465.html#a6c92ffeff3e56f98cb1bd08f1835fe10", null ],
-    [ "JustEngagedWith", "d2/dd1/a12465.html#ab504de0e51a3715485eb65e006352a6f", null ],
-    [ "UpdateAI", "d2/dd1/a12465.html#a44e33c5012310bb4edb49ca6c0726bc0", null ]
+    [ "npc_mc_core_houndAI", "d7/dfd/a12469.html", "d7/dfd/a12469" ],
+    [ "npc_mc_core_hound", "d2/dd1/a12465.html#aee1ef71447dbd1494de5e0065bd5ae78", null ],
+    [ "GetAI", "d2/dd1/a12465.html#a3aa8c5332b509b4d5498cd726ab47e40", null ]
 ];

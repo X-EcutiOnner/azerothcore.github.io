@@ -1,8 +1,8 @@
 var a26201 =
 [
-    [ "npc_pet_gen_gnomish_flame_turret", "df/dda/a26201.html#a6e79c0ad6219d0beb23cfb086e6d3eaf", null ],
-    [ "AttackStart", "df/dda/a26201.html#a2aab464c099e8e5e760a9ae4f28ac33f", null ],
-    [ "Reset", "df/dda/a26201.html#a46fe5703a5859d5583e7df3a57b3910a", null ],
-    [ "UpdateAI", "df/dda/a26201.html#ae3db08323af4b82009ffd660b3e78474", null ],
-    [ "checkTimer", "df/dda/a26201.html#ac6705f4980ca561a5fd33c2917488439", null ]
+    [ "HandleDummy", "df/dda/a26201.html#ae396c96647e36da357bdc70e11e3145f", null ],
+    [ "Load", "df/dda/a26201.html#a2b4811bf7e60361e13bc382e62173cee", null ],
+    [ "PrepareSpellScript", "df/dda/a26201.html#ac97d07fb0d964bf3fb29d8bee57fc8e7", null ],
+    [ "Register", "df/dda/a26201.html#a7c6aa891b012a0e1820fbe67976d68fd", null ],
+    [ "count", "df/dda/a26201.html#a73358b2272ad12faef006b1ef633cac0", null ]
 ];

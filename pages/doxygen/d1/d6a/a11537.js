@@ -1,6 +1,6 @@
 var a11537 =
 [
-    [ "boss_hedrumAI", "db/db1/a11541.html", "db/db1/a11541" ],
-    [ "boss_hedrum", "d1/d6a/a11537.html#a655d348dec9ce9b585ea12f3629b0aa7", null ],
-    [ "GetAI", "d1/d6a/a11537.html#a7033d315852aa4905784e957679ee261", null ]
+    [ "bg_commandscript", "d1/d6a/a11537.html#a86ffdfaed58149f5036f5c1e1040507a", null ],
+    [ "GetCommands", "d1/d6a/a11537.html#a911ccd6445b08c05069f7f196556c891", null ],
+    [ "HandleBagsClearCommand", "d1/d6a/a11537.html#a92347e90c2f78d0dfeb41eb033366319", null ]
 ];

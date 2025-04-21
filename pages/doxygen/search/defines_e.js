@@ -1,7 +1,7 @@
 var searchData=
 [
-  ['obsidiansanctumscriptname_0',['ObsidianSanctumScriptName',['../de/dce/a03932.html#accb9d1f27143774736f13b6dd04325ed',1,'obsidian_sanctum.h']]],
-  ['oculusscriptname_1',['OculusScriptName',['../d9/def/a04004.html#aabbb0aa4243e9c2d0e6bd744f45e0dd1',1,'oculus.h']]],
+  ['obsidiansanctumscriptname_0',['ObsidianSanctumScriptName',['../d0/ddf/a03935.html#accb9d1f27143774736f13b6dd04325ed',1,'obsidian_sanctum.h']]],
+  ['oculusscriptname_1',['OculusScriptName',['../d2/dfc/a04007.html#aabbb0aa4243e9c2d0e6bd744f45e0dd1',1,'oculus.h']]],
   ['oldhillsbradscriptname_2',['OldHillsbradScriptName',['../d0/dbd/a02771.html#a1883d4e95c1f62c870979ea371f5d6f0',1,'old_hillsbrad.h']]],
   ['onyxiaslairscriptname_3',['OnyxiasLairScriptName',['../d3/d57/a02834.html#a411397a87d359be66de671f07dbefefe',1,'onyxias_lair.h']]],
   ['open_5fflags_4',['OPEN_FLAGS',['../d4/d3a/a00101.html#a57327627637248986aec56f3345e38b1',1,'System.cpp']]],
@@ -12,8 +12,8 @@ var searchData=
   ['out_5fsave_5finst_5fdata_9',['OUT_SAVE_INST_DATA',['../d5/d10/a02396.html#a65ed3183971093dcebed99d1ec6d6d63',1,'InstanceScript.h']]],
   ['out_5fsave_5finst_5fdata_5fcomplete_10',['OUT_SAVE_INST_DATA_COMPLETE',['../d5/d10/a02396.html#a3a93295e3500f757163145c03e90db3d',1,'InstanceScript.h']]],
   ['outdoorpvp_5fobjective_5fupdate_5finterval_11',['OUTDOORPVP_OBJECTIVE_UPDATE_INTERVAL',['../d6/dd2/a02243.html#af3942e94a2b618e59d9a607df883023b',1,'OutdoorPvPMgr.h']]],
-  ['outdoorpvphpbuffzonesnum_12',['OutdoorPvPHPBuffZonesNum',['../da/d33/a04079.html#a01aada98c8079ea71a361cba06e10640',1,'OutdoorPvPHP.h']]],
-  ['outer_5fportal_5fradius_13',['OUTER_PORTAL_RADIUS',['../d6/d5c/a04388.html#a5b808d9db4c602f4b0e048ed1ce4da66',1,'boss_astromancer.cpp']]],
+  ['outdoorpvphpbuffzonesnum_12',['OutdoorPvPHPBuffZonesNum',['../db/d64/a04082.html#a01aada98c8079ea71a361cba06e10640',1,'OutdoorPvPHP.h']]],
+  ['outer_5fportal_5fradius_13',['OUTER_PORTAL_RADIUS',['../d6/d98/a04391.html#a5b808d9db4c602f4b0e048ed1ce4da66',1,'boss_astromancer.cpp']]],
   ['oz_5fgm_5fgossip1_14',['OZ_GM_GOSSIP1',['../d1/dda/a03260.html#afa41a00475ad60c62a9d84218b49bf95',1,'karazhan.cpp']]],
   ['oz_5fgm_5fgossip2_15',['OZ_GM_GOSSIP2',['../d1/dda/a03260.html#a0b4823e93d8b170552e61eb307b5d073',1,'karazhan.cpp']]],
   ['oz_5fgm_5fgossip3_16',['OZ_GM_GOSSIP3',['../d1/dda/a03260.html#ab22c9b13e4d4e9b959b728c9c9825671',1,'karazhan.cpp']]]

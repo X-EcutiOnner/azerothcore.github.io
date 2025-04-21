@@ -1,8 +1,7 @@
 var a08989 =
 [
-    [ "NearestHostileUnitInAttackDistanceCheck", "d2/d67/a08989.html#a0b1d14f1347a3749a91ef6e888ccb23e", null ],
-    [ "NearestHostileUnitInAttackDistanceCheck", "d2/d67/a08989.html#a5645c9808db082b0301ec8b2ea93ce7f", null ],
-    [ "operator()", "d2/d67/a08989.html#adc28281742cd1f6a49152481b48f944e", null ],
-    [ "m_range", "d2/d67/a08989.html#ab79296a88ed07257edbe3449c2515b40", null ],
-    [ "me", "d2/d67/a08989.html#a298d2489b9bf30aa510407afca79a374", null ]
+    [ "QuestPOIPoint", "d2/d67/a08989.html#a99aaafe1fdae391c6fba20e0c623ff99", null ],
+    [ "QuestPOIPoint", "d2/d67/a08989.html#a2e80e5a83ab336a8b019f38297862efa", null ],
+    [ "x", "d2/d67/a08989.html#a5e9592283b28cd6ff0610ec0438b2a2d", null ],
+    [ "y", "d2/d67/a08989.html#a45211fd0fbeeb5d9fced2b2c31502851", null ]
 ];

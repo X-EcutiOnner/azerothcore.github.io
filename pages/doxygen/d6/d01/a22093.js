@@ -1,6 +1,6 @@
 var a22093 =
 [
-    [ "x", "d6/d01/a22093.html#ae4223168378b602a0a96dbb424a22be4", null ],
-    [ "y", "d6/d01/a22093.html#a30f361d8104e4de44541d75945105963", null ],
-    [ "z", "d6/d01/a22093.html#ae68a79519c35302b89976ac29bb77e26", null ]
+    [ "npc_bushwhackerAI", "d1/d9f/a22097.html", "d1/d9f/a22097" ],
+    [ "npc_bushwhacker", "d6/d01/a22093.html#ad87a9fdec3d5dbaef429c88905a5f6e8", null ],
+    [ "GetAI", "d6/d01/a22093.html#ab3190b66069e820abf3637bb877066a0", null ]
 ];

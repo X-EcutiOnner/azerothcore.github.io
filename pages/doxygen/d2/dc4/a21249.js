@@ -1,11 +1,12 @@
 var a21249 =
 [
-    [ "boss_freya_elder_brightleafAI", "d2/dc4/a21249.html#a53de463d34b808b4c5d459e1339f6f30", null ],
-    [ "JustDied", "d2/dc4/a21249.html#aeea7300081f645d3fa83df6841c5a497", null ],
-    [ "JustEngagedWith", "d2/dc4/a21249.html#a956adeb9b6ea0c8fa71bdcbd3735c79d", null ],
-    [ "KilledUnit", "d2/dc4/a21249.html#a47935d017a2d34a888acb4079d3ff9aa", null ],
-    [ "Reset", "d2/dc4/a21249.html#aee11d2e1fad8bc1b18c17b1527610914", null ],
-    [ "UpdateAI", "d2/dc4/a21249.html#af28f94f278d279513d7f72cdc36528d4", null ],
-    [ "events", "d2/dc4/a21249.html#a45b4f0d12497dd8e3ffc1cde429116f6", null ],
-    [ "summons", "d2/dc4/a21249.html#a456123135a7fb4595d611a9e3995f461", null ]
+    [ "boss_lavanthorAI", "d2/dc4/a21249.html#aa562ad1ee029a35adebf8eac8f8249f3", null ],
+    [ "EnterEvadeMode", "d2/dc4/a21249.html#a0334d92f1ddf30235efe298df622535b", null ],
+    [ "JustDied", "d2/dc4/a21249.html#a300dbedf5514998e7065a2ef44a65f1f", null ],
+    [ "JustEngagedWith", "d2/dc4/a21249.html#a9820ec47af72af19f00b172ee138f908", null ],
+    [ "MoveInLineOfSight", "d2/dc4/a21249.html#aa613f70d93be479aa701675dfdb2d3e3", null ],
+    [ "Reset", "d2/dc4/a21249.html#a55d5cc6906033b5c56daa3ed15fabf0f", null ],
+    [ "UpdateAI", "d2/dc4/a21249.html#ab77ac2c78e94fed437e8ccefba4e363c", null ],
+    [ "events", "d2/dc4/a21249.html#a273adc56adefe9810013bc80950f2624", null ],
+    [ "pInstance", "d2/dc4/a21249.html#ad6059577c5e131523f39316c2291b421", null ]
 ];

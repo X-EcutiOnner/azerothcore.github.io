@@ -1,6 +1,6 @@
 var a27513 =
 [
-    [ "HandleProc", "da/d7e/a27513.html#aa333d52d905e722554d8d61c4b9cb656", null ],
-    [ "PrepareAuraScript", "da/d7e/a27513.html#aac4320b061d627e4ffef737d2e858ef3", null ],
-    [ "Register", "da/d7e/a27513.html#ad58fea9afa6a3596437a324ec525982e", null ]
+    [ "npc_steam_tonkAI", "df/d24/a27517.html", "df/d24/a27517" ],
+    [ "npc_steam_tonk", "da/d7e/a27513.html#a19731e7f1bc6fe0220e8c28619ff7c50", null ],
+    [ "GetAI", "da/d7e/a27513.html#a38e51485a3610a204a45677fce15c943", null ]
 ];

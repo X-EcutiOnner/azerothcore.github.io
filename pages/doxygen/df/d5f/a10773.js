@@ -1,8 +1,6 @@
 var a10773 =
 [
-    [ "ReflectEvent", "df/d5f/a10773.html#a1669aec08a3a09143c57e4889c8fad08", null ],
-    [ "Execute", "df/d5f/a10773.html#a37fb766d70932e8a431dba363c603531", null ],
-    [ "_caster", "df/d5f/a10773.html#a67ec85597bb887e7b8cb31b818910d1a", null ],
-    [ "_spellInfo", "df/d5f/a10773.html#ae05fc2092226695fa22dd1e72d58bc7b", null ],
-    [ "_targetGUID", "df/d5f/a10773.html#aa9f8c7bf1e22c74f3d134df2cfc014b5", null ]
+    [ "UITime", "df/d5f/a10773.html#a24311ce7df9e9a0f40a3c5473cef34b3", null ],
+    [ "Write", "df/d5f/a10773.html#ab24cdd76abd5914c3a30ee42c7681855", null ],
+    [ "Time", "df/d5f/a10773.html#ac4ad6c7c425167e90fd2497f7ebaec4c", null ]
 ];

@@ -1,6 +1,6 @@
 var a16977 =
 [
-    [ "HandleScriptEffect", "d9/d6e/a16977.html#a3af2e19a6df09ff589a314ca37a70b0c", null ],
-    [ "PrepareSpellScript", "d9/d6e/a16977.html#a4da5f3469d01323e841e65452f263922", null ],
-    [ "Register", "d9/d6e/a16977.html#a8ab8b90b5da95f99caf94ca0f1ec3121", null ]
+    [ "npc_pos_collapsing_icicleAI", "d6/dea/a16981.html", "d6/dea/a16981" ],
+    [ "npc_pos_collapsing_icicle", "d9/d6e/a16977.html#a42b29fe5d4e106c1e5e5b866a0074664", null ],
+    [ "GetAI", "d9/d6e/a16977.html#a96969ebe749b49ceb38920c63ec6fce3", null ]
 ];

@@ -1,6 +1,7 @@
 var a23669 =
 [
-    [ "npc_frostbrood_skytalonAI", "d7/dd7/a23673.html", "d7/dd7/a23673" ],
-    [ "npc_frostbrood_skytalon", "dc/d31/a23669.html#a1bc95edf0e624709e3836bdcfb0c503c", null ],
-    [ "GetAI", "dc/d31/a23669.html#af5b1c3e52076fb84b83e785762ff6b6d", null ]
+    [ "boss_warp_splinter", "dc/d31/a23669.html#a1d0e8720baaadd1f6f4f6026597c9f63", null ],
+    [ "JustDied", "dc/d31/a23669.html#a7e7850cf545e57f9fcd8d1aff42f8eb3", null ],
+    [ "JustEngagedWith", "dc/d31/a23669.html#afc05b2f366e518d5e9ea3fbbfcba05cc", null ],
+    [ "KilledUnit", "dc/d31/a23669.html#a0e974eb2bfae50383040fe9c7ccf74c1", null ]
 ];

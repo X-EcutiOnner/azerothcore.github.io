@@ -1,6 +1,7 @@
 var a22849 =
 [
-    [ "npc_vh_sinclari", "db/d82/a22849.html#ad0235f207a3031420532174c04e0c348", null ],
-    [ "OnGossipHello", "db/d82/a22849.html#a95f0d094d417d9d6ce99d7c8aa83496f", null ],
-    [ "OnGossipSelect", "db/d82/a22849.html#af0a260d7868f601ae239c226b10d4de3", null ]
+    [ "CalculateAmount", "db/d82/a22849.html#adad1c8a513ce8a1badbd40c291363de1", null ],
+    [ "PrepareAuraScript", "db/d82/a22849.html#ac1a896ac1a751c8bdaee186dffd8c251", null ],
+    [ "Register", "db/d82/a22849.html#ae839fd19933a6fa9e55ce37e0633073e", null ],
+    [ "Update", "db/d82/a22849.html#aeb5a347ccac3c5ce6faef7641b5fca1c", null ]
 ];

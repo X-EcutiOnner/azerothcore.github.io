@@ -1,7 +1,7 @@
 var a15669 =
 [
-    [ "npc_kaya_flathoofAI", "d3/d8f/a15669.html#a3b43992dfeeb7b3b19e777b9629c55ce", null ],
-    [ "JustSummoned", "d3/d8f/a15669.html#ac365753a428009f4fc4d01ead8fe46fd", null ],
-    [ "Reset", "d3/d8f/a15669.html#af9be00be9867622a16103bd21311327f", null ],
-    [ "WaypointReached", "d3/d8f/a15669.html#a8fcbb19279b925138ba96d2a450fc404", null ]
+    [ "go_troll_cageAI", "d3/d8f/a15669.html#ae742afdb7a37d64bb852b7ecd076d007", null ],
+    [ "GossipHello", "d3/d8f/a15669.html#a5c91cb491021b15ba70cc8ef5f07d037", null ],
+    [ "initBlyCrewMember", "d3/d8f/a15669.html#a6bfb77ec97367d8704885acfef801b74", null ],
+    [ "instance", "d3/d8f/a15669.html#ad5d736dd6cbe7a23d03f21004cae530d", null ]
 ];

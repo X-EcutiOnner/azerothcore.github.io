@@ -1,7 +1,9 @@
 var a18689 =
 [
-    [ "FrostwyrmLandEvent", "d8/d76/a18689.html#a6b6a467c474a5b03be40e4d9a86eddc8", null ],
-    [ "Execute", "d8/d76/a18689.html#a4da77796a223e6233ac6d908f7700623", null ],
-    [ "_dest", "d8/d76/a18689.html#a7f5b4c41c459b65e30dea66f7459a7e9", null ],
-    [ "_owner", "d8/d76/a18689.html#a6336050092606ebb27a180abff55dfa2", null ]
+    [ "npc_icc_skybreaker_vicarAI", "d8/d76/a18689.html#ae74a306850b328f536b55e5c24c040ab", null ],
+    [ "AttackStart", "d8/d76/a18689.html#a52b753e1f599eb02385d980a78cd3c78", null ],
+    [ "JustEngagedWith", "d8/d76/a18689.html#afdb4215cd0578de7342b152783666ed6", null ],
+    [ "Reset", "d8/d76/a18689.html#aeb11687534fa7c1e76ea22cc07deb73d", null ],
+    [ "UpdateAI", "d8/d76/a18689.html#af1726169fe63eb3ff1ed95eb0e10d2f0", null ],
+    [ "events", "d8/d76/a18689.html#a711d9571b4edb87f77eeebbd12e248b3", null ]
 ];

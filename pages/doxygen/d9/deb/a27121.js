@@ -1,5 +1,6 @@
 var a27121 =
 [
-    [ "PrepareSpellScript", "d9/deb/a27121.html#a7478d96ac24bc4b70a10bc83335c9b76", null ],
-    [ "Register", "d9/deb/a27121.html#ab3ab9557cd1969fd977a3df6f2c59d7c", null ]
+    [ "go_tadpole_cageAI", "dd/dbb/a27125.html", "dd/dbb/a27125" ],
+    [ "go_tadpole_cage", "d9/deb/a27121.html#a1a9acacd0ebff33d402018d4205e415b", null ],
+    [ "GetAI", "d9/deb/a27121.html#a38990dc5edd725623b6c35dba7802612", null ]
 ];

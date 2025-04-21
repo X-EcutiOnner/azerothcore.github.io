@@ -1,19 +1,13 @@
 var a09181 =
 [
-    [ "GuildContainer", "d1/d6a/a09181.html#aa9afb05ecb2eb6ee427503a4ea76f7ca", null ],
-    [ "GuildMgr", "d1/d6a/a09181.html#a0d4a44461eb4c54ddb6646dfd1c11a68", null ],
-    [ "~GuildMgr", "d1/d6a/a09181.html#ae90afb785961e122afc419a61dfb20c1", null ],
-    [ "AddGuild", "d1/d6a/a09181.html#a5b63dae4f2252c452c797b83477d2280", null ],
-    [ "GenerateGuildId", "d1/d6a/a09181.html#a8ad7c4fc3e292e6cecd4964ad22cd135", null ],
-    [ "GetGuildById", "d1/d6a/a09181.html#a04f4586ea6461c6f7165efba2bf666a1", null ],
-    [ "GetGuildByLeader", "d1/d6a/a09181.html#a5198534a243b70104ce17a7871fcfb27", null ],
-    [ "GetGuildByName", "d1/d6a/a09181.html#af9ff736e84a18d8dfce3826c9459df37", null ],
-    [ "GetGuildNameById", "d1/d6a/a09181.html#ad32af675831da389755da5f3e4e47361", null ],
-    [ "instance", "d1/d6a/a09181.html#aef69fd59528ec594c76ae390a4ba05bd", null ],
-    [ "LoadGuilds", "d1/d6a/a09181.html#ac1eb56686e276e11838e9150696b5045", null ],
-    [ "RemoveGuild", "d1/d6a/a09181.html#a51728f1c2780cdb105cb35947739cbd7", null ],
-    [ "ResetTimes", "d1/d6a/a09181.html#ad2670ee42ff5252a879ccc5cbb730833", null ],
-    [ "SetNextGuildId", "d1/d6a/a09181.html#ae1ae88575b7fcb37d4ee1d76f79c0c45", null ],
-    [ "GuildStore", "d1/d6a/a09181.html#a174158d11bf6102462a094ff4a8fa402", null ],
-    [ "NextGuildId", "d1/d6a/a09181.html#a75e150f66ebccfc05824a4f7b66a9210", null ]
+    [ "WorldObjectListSearcher", "d1/d6a/a09181.html#aad6ee62da3f21c7838767dd3af871ad7", null ],
+    [ "Visit", "d1/d6a/a09181.html#a154998e616ba17d66cf4899debc92ca1", null ],
+    [ "Visit", "d1/d6a/a09181.html#a64e8d7854baa93e4390703fe986f6777", null ],
+    [ "Visit", "d1/d6a/a09181.html#a28ded6ec2d69f1a1bd298a9aa11206e1", null ],
+    [ "Visit", "d1/d6a/a09181.html#a18572bc1f4cfde19476ac9df393296b2", null ],
+    [ "Visit", "d1/d6a/a09181.html#a2a8a0d1f3fd10e5254a47ed99e7e9ce7", null ],
+    [ "Visit", "d1/d6a/a09181.html#a8cebd0149bfccc4fdeb30dda9505f0c0", null ],
+    [ "i_check", "d1/d6a/a09181.html#a6ae05d2ed15201356600cda7d0d5a6c3", null ],
+    [ "i_mapTypeMask", "d1/d6a/a09181.html#a1d6dc64937ae790d7414456e4644c13b", null ],
+    [ "i_phaseMask", "d1/d6a/a09181.html#a6b29bb94ed2ec6f508b25d45c11f72fd", null ]
 ];

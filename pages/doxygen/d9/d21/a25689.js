@@ -1,8 +1,7 @@
 var a25689 =
 [
-    [ "instance_mechanar_InstanceMapScript", "d9/d21/a25689.html#a728d427162c0f56e7d229c55ff88bfbd", null ],
-    [ "OnCreatureCreate", "d9/d21/a25689.html#aa0c6a84a6ace9299b18f0cc54263b398", null ],
-    [ "OnGameObjectCreate", "d9/d21/a25689.html#a236a8c67ca57ffc7d2161c00e8acbd64", null ],
-    [ "OnGameObjectRemove", "d9/d21/a25689.html#ac79c4f1dad7f2caf1278e242ec8fadc9", null ],
-    [ "_pathaleonGUID", "d9/d21/a25689.html#aaf5c80af5ba2ba46b3c53ccffaaa1d3b", null ]
+    [ "HandleDummy", "d9/d21/a25689.html#ab9c732cc91f926331dea6b94c1021801", null ],
+    [ "PrepareSpellScript", "d9/d21/a25689.html#a80799c42f9f31f49d20d880dd377e3b4", null ],
+    [ "Register", "d9/d21/a25689.html#ae012e6852f079682fbafc776dec3455b", null ],
+    [ "Validate", "d9/d21/a25689.html#afc10f1989ae4b9cff7527f2d73180cde", null ]
 ];

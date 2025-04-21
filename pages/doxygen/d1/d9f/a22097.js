@@ -1,6 +1,6 @@
 var a22097 =
 [
-    [ "boss_yoggsaron_saraAI", "d1/d2a/a22101.html", "d1/d2a/a22101" ],
-    [ "boss_yoggsaron_sara", "d1/d9f/a22097.html#aaf5bd5440122f6c97315b0e3b9d47586", null ],
-    [ "GetAI", "d1/d9f/a22097.html#abc83e0f3a7d12a84ea283e5b2a69826d", null ]
+    [ "npc_bushwhackerAI", "d1/d9f/a22097.html#a0cf480b75aa45a9f3572c4a65df2daee", null ],
+    [ "InitializeAI", "d1/d9f/a22097.html#a18db5870e62378ff49472f7a5881861c", null ],
+    [ "UpdateAI", "d1/d9f/a22097.html#aadc3384626d728942897fe93750f0c02", null ]
 ];

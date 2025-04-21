@@ -1,7 +1,7 @@
 var a25873 =
 [
-    [ "npc_bessyAI", "d1/d9b/a25877.html", "d1/d9b/a25877" ],
-    [ "npc_bessy", "d9/d47/a25873.html#a08278c1524445054ca158433044a0824", null ],
-    [ "GetAI", "d9/d47/a25873.html#af805bc5ee3de2fd6773158e51bf09d4a", null ],
-    [ "OnQuestAccept", "d9/d47/a25873.html#a98b8e816195b81bab12cc9906df79807", null ]
+    [ "CheckProc", "d9/d47/a25873.html#a325336c96dad74ec221c07817222fee1", null ],
+    [ "HandleProc", "d9/d47/a25873.html#a35a1ce56b84b2d8017dbaba626660d70", null ],
+    [ "PrepareAuraScript", "d9/d47/a25873.html#a30f6dd531d4316b4bbb3297af2c17e2e", null ],
+    [ "Register", "d9/d47/a25873.html#a6c86a4cf273d90086c4ebdbcaa6b6632", null ]
 ];

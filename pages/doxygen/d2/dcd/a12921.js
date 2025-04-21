@@ -1,8 +1,12 @@
 var a12921 =
 [
-    [ "npc_madrigosaAI", "d2/dcd/a12921.html#adadbaa53623774750e5e897e8be1fb39", null ],
-    [ "DoAction", "d2/dcd/a12921.html#a2ecaba614301d681cadf129ea58813cf", null ],
-    [ "UpdateAI", "d2/dcd/a12921.html#ab2a5f3c7ec1f94af2e1ffe34828b81cc", null ],
-    [ "events", "d2/dcd/a12921.html#ad8f4f69543c968a21253bd52da4d82ac", null ],
-    [ "instance", "d2/dcd/a12921.html#abe6708e5053490c70ed88799a762f08e", null ]
+    [ "npc_high_inquisitor_valrothAI", "d2/dcd/a12921.html#afd15d7c3b64c9c84094234b1c369c6d6", null ],
+    [ "JustDied", "d2/dcd/a12921.html#ac8f4f8594bbd5d984a330d52ef2fde74", null ],
+    [ "JustEngagedWith", "d2/dcd/a12921.html#a9cf989be7062743685b2357309889585", null ],
+    [ "Reset", "d2/dcd/a12921.html#a833adc603d6d0b2eb03ea34b925f88b0", null ],
+    [ "Shout", "d2/dcd/a12921.html#aa80f070da5ad92297a5f5b7b6983085c", null ],
+    [ "UpdateAI", "d2/dcd/a12921.html#abe6becc3a10e0195bd75bf1de2d6bcc6", null ],
+    [ "uiInquisitor_Penance_timer", "d2/dcd/a12921.html#a765ef78cf5c30b1c46da303f4bbeb4d9", null ],
+    [ "uiRenew_timer", "d2/dcd/a12921.html#a1fe70428102a0319031179c97f02cbab", null ],
+    [ "uiValroth_Smite_timer", "d2/dcd/a12921.html#a527628708354414caea85b6bec3d0f1d", null ]
 ];

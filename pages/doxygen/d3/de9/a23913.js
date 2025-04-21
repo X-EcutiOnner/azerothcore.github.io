@@ -1,7 +1,9 @@
 var a23913 =
 [
-    [ "npc_wg_quest_giver", "d3/de9/a23913.html#a68589ab4ce9f43247154f3c66d8107b8", null ],
-    [ "GetDialogStatus", "d3/de9/a23913.html#acd5c1462fe51a350c80af4f3ab46bac8", null ],
-    [ "OnGossipHello", "d3/de9/a23913.html#ad08debc749cbaea6fad9b7bcfb5548e0", null ],
-    [ "OnGossipSelect", "d3/de9/a23913.html#a9d42e558d68eee9f0f96ac1f8cd1a409", null ]
+    [ "npc_oscillating_frequency_scanner_master_bunnyAI", "d3/de9/a23913.html#a273d585416dc92d39d5ec3824c08504d", null ],
+    [ "IsSummonedBy", "d3/de9/a23913.html#a5f002d36c492ed2caf2290f4a073a7d0", null ],
+    [ "Reset", "d3/de9/a23913.html#a06fa50580efeab8d847a05f20956d175", null ],
+    [ "UpdateAI", "d3/de9/a23913.html#a8261a259cfbee0d3610ee441406fafcd", null ],
+    [ "playerGuid", "d3/de9/a23913.html#aab717dd49284c483759a6223dbd7e6ea", null ],
+    [ "timer", "d3/de9/a23913.html#afba1b71178c563a3db906057cd20de45", null ]
 ];

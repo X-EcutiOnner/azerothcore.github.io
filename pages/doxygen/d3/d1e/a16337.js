@@ -1,6 +1,6 @@
 var a16337 =
 [
-    [ "HandleHealPct", "d3/d1e/a16337.html#a7acd2500fe7f82272047b301812d1e8b", null ],
-    [ "PrepareSpellScript", "d3/d1e/a16337.html#a8a93787bef057e2c07257cfecf8bed67", null ],
-    [ "Register", "d3/d1e/a16337.html#a87be4145da5d5073994b1e3b66f39ab6", null ]
+    [ "npc_toc_hunterAI", "d3/dd6/a16341.html", "d3/dd6/a16341" ],
+    [ "npc_toc_hunter", "d3/d1e/a16337.html#a73d4113df71626af7b8294e08373965e", null ],
+    [ "GetAI", "d3/d1e/a16337.html#a8b9d2a8186aefb3e411bd20c006207d4", null ]
 ];

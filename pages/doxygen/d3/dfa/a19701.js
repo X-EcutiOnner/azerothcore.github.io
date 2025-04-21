@@ -1,5 +1,6 @@
 var a19701 =
 [
-    [ "PrepareAuraScript", "d3/dfa/a19701.html#a4148aaaa652895971f00c0c75c8d6581", null ],
-    [ "Register", "d3/dfa/a19701.html#a81eb93851fe05e9f316e268a0149c9ed", null ]
+    [ "HandleInstaKill", "d3/dfa/a19701.html#a9371a2cc86616fd04e47939d45f01cae", null ],
+    [ "PrepareSpellScript", "d3/dfa/a19701.html#a38eed301f1db3ea7ac15b626e5927500", null ],
+    [ "Register", "d3/dfa/a19701.html#a9aaf3e86a2c14ee79cc013b3978621ee", null ]
 ];

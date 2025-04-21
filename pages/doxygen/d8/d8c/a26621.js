@@ -1,7 +1,8 @@
 var a26621 =
 [
-    [ "if", "d8/d8c/a26621.html#a6b9c0d513b24e9a5c0eef8307b2eb3a8", null ],
-    [ "PrepareAuraScript", "d8/d8c/a26621.html#a01d974333043452a37ec3124d23b49f2", null ],
-    [ "Register", "d8/d8c/a26621.html#aeb6c695819e894aad8b210a237e6d315", null ],
-    [ "AuraEffectHandleModes", "d8/d8c/a26621.html#a9b235517305f9b2fcf2d31eb3a4edbd2", null ]
+    [ "CheckProc", "d8/d8c/a26621.html#a33412f2b5abb1ce2160408ef13e7f0cb", null ],
+    [ "HandleProc", "d8/d8c/a26621.html#ab24c3d3f697a7ebd146d6135305c7741", null ],
+    [ "PrepareAuraScript", "d8/d8c/a26621.html#a8eccfbb749b85bbb850874324f17bbde", null ],
+    [ "Register", "d8/d8c/a26621.html#a482dd09de6cba9f5a36a6cdad1b82a0a", null ],
+    [ "Validate", "d8/d8c/a26621.html#a0c3020d44608920a2820e73e0b9e4b42", null ]
 ];

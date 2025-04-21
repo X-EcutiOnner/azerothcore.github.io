@@ -1,10 +1,7 @@
 var a16873 =
 [
-    [ "boss_dredAI", "df/d9a/a16873.html#a4ad04fe31990a37fd6d3a23329350248", null ],
-    [ "GetData", "df/d9a/a16873.html#a7a93506d77eaf40c6f7be9e433f211e1", null ],
-    [ "JustEngagedWith", "df/d9a/a16873.html#ae6e1181dcdea763460ca72148abfcb3f", null ],
-    [ "Reset", "df/d9a/a16873.html#a5fe153ab58b1feedce5afa6b10a0d3de", null ],
-    [ "SetData", "df/d9a/a16873.html#a884f48aabc26b054dcd303a91cb88301", null ],
-    [ "UpdateAI", "df/d9a/a16873.html#afc12ced9b5026fe3b297560c30e129ed", null ],
-    [ "_raptorCount", "df/d9a/a16873.html#a95aa63c18d7e1f2dec2491ac4649a378", null ]
+    [ "UtherBatteredHiltEvent", "df/d9a/a16873.html#a7bb34b75a3e371260a231aea72f75b40", null ],
+    [ "Execute", "df/d9a/a16873.html#ad2eb37877155b6dbc9916338e30d0306", null ],
+    [ "_eventId", "df/d9a/a16873.html#a5045e057b2c5d468aa579751d2c799b8", null ],
+    [ "_owner", "df/d9a/a16873.html#a588974708f4a48f5a7b097a63a0c0899", null ]
 ];

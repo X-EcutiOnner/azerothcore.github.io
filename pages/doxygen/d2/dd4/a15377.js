@@ -1,5 +1,6 @@
 var a15377 =
 [
-    [ "go_ravager_cage", "d2/dd4/a15377.html#a632c767a4ab0075ee40d40e977fe7c18", null ],
-    [ "OnGossipHello", "d2/dd4/a15377.html#a83c9086cefea0d6d11a5de7a781d84db", null ]
+    [ "HandleDummy", "d2/dd4/a15377.html#af9c26a7e5f6cba4f1146cb626dbcf8ed", null ],
+    [ "PrepareSpellScript", "d2/dd4/a15377.html#adc581ed46587afcc8be3800ae79105f6", null ],
+    [ "Register", "d2/dd4/a15377.html#a7d09808ea2fdec450fcd129e996bd245", null ]
 ];

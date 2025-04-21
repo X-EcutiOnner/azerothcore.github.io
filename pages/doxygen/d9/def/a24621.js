@@ -1,8 +1,9 @@
 var a24621 =
 [
-    [ "boss_najentus", "d9/def/a24621.html#ac5d3d54a49524892fe844925d483c244", null ],
-    [ "JustDied", "d9/def/a24621.html#afee32dd32033c7a45068ce12e961797c", null ],
-    [ "JustEngagedWith", "d9/def/a24621.html#a46e3aab64c21b24ac6457acd598679ec", null ],
-    [ "KilledUnit", "d9/def/a24621.html#ad55e1de3aa7a636b3d30b0d61a17dab9", null ],
-    [ "_canTalk", "d9/def/a24621.html#a25ac29a79cdcfb4ebc48de13d677f1d4", null ]
+    [ "HandleApply", "d9/def/a24621.html#a1a612d0b35ed6e67042b4d038f8927ca", null ],
+    [ "HandleRemove", "d9/def/a24621.html#a54b5ffcf247f7385b50b401bc82f43ce", null ],
+    [ "PrepareAuraScript", "d9/def/a24621.html#af2b8e669737cd4282beb6a5035f496fc", null ],
+    [ "RecalculateBaseArmor", "d9/def/a24621.html#a693720558c7b2b22c41a49a402522014", null ],
+    [ "Register", "d9/def/a24621.html#aff9bc58342383afe5a08be696cddedf6", null ],
+    [ "Validate", "d9/def/a24621.html#ad712e1e05d94372defdfa4fe67e65716", null ]
 ];

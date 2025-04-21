@@ -1,6 +1,6 @@
 var a13353 =
 [
-    [ "HandleSendEvent", "dc/dcb/a13353.html#a57915ab912fb71fa9fb0aab774f7fb0e", null ],
-    [ "PrepareSpellScript", "dc/dcb/a13353.html#a2f934bdc7339e775fa3cbe636842bab9", null ],
-    [ "Register", "dc/dcb/a13353.html#ad985511c9d6576086b3a57990ed28cb6", null ]
+    [ "ChangeSummonPos", "dc/dcb/a13353.html#ae24a7c8279a92f1018748a0e930736ac", null ],
+    [ "PrepareSpellScript", "dc/dcb/a13353.html#a7b6cd9464f27676f0c74224ef1b1a9cc", null ],
+    [ "Register", "dc/dcb/a13353.html#a03a1a1e5501452eacaceadd9725f2287", null ]
 ];

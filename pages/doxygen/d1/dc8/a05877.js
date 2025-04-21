@@ -1,5 +1,8 @@
 var a05877 =
 [
-    [ "SimpleCharmedAI", "d1/dc8/a05877.html#ada8d12d7df75dca5c87c633348d1b27b", null ],
-    [ "UpdateAI", "d1/dc8/a05877.html#a5e2c8ae6b601b7fcc36f8c2c49bcd9a6", null ]
+    [ "UpdateResult", "d1/dc8/a05877.html#af32cdf09d32607955c98353fbfa7d392", null ],
+    [ "UpdateResult", "d1/dc8/a05877.html#a225eb6b9ff745dcd72d623ca79c007c6", null ],
+    [ "archived", "d1/dc8/a05877.html#adee274af5f5d6981e28b3587008d690c", null ],
+    [ "recent", "d1/dc8/a05877.html#aea54f4388b659def734957a47e9cca8c", null ],
+    [ "updated", "d1/dc8/a05877.html#a12b3fffe01639493fc405bd5a797f463", null ]
 ];

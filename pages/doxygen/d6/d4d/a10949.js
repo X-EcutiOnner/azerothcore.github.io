@@ -1,6 +1,7 @@
 var a10949 =
 [
-    [ "EffectCalcSpellModHandler", "d6/d4d/a10949.html#abe81396a3f1c1b3b07c10cf0e191546c", null ],
-    [ "Call", "d6/d4d/a10949.html#a5ca2a9c329a7dbbb7e835849ca4479aa", null ],
-    [ "pEffectHandlerScript", "d6/d4d/a10949.html#a15c0b24641cb04f31bb3d651dae59448", null ]
+    [ "MapSessionFilter", "d6/d4d/a10949.html#ad11a700c36f8f45640402e96edc74b49", null ],
+    [ "~MapSessionFilter", "d6/d4d/a10949.html#a82960e741c8f64d24a764a915f14e2b8", null ],
+    [ "Process", "d6/d4d/a10949.html#a54483596fe2a5a0d30fab9a13506b375", null ],
+    [ "ProcessUnsafe", "d6/d4d/a10949.html#a8e3a7dd5affb24305435aea2c57718fa", null ]
 ];

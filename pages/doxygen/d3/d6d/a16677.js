@@ -1,6 +1,6 @@
 var a16677 =
 [
-    [ "npc_toc_enh_shamanAI", "db/d55/a16681.html", "db/d55/a16681" ],
-    [ "npc_toc_enh_shaman", "d3/d6d/a16677.html#ac328b63a988d2cd8640237b250c338a8", null ],
-    [ "GetAI", "d3/d6d/a16677.html#a4501c9289a06750d8f153f89565b12f3", null ]
+    [ "FilterTargets", "d3/d6d/a16677.html#a36879a2920f43562bb0ff89c76d758e4", null ],
+    [ "PrepareSpellScript", "d3/d6d/a16677.html#afeb95c5fe970ebc147d509981b026e98", null ],
+    [ "Register", "d3/d6d/a16677.html#a800bd9ffab41ccf860844a129ec3b03c", null ]
 ];

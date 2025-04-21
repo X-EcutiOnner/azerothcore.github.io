@@ -1,7 +1,7 @@
 var a25129 =
 [
-    [ "OnApply", "dc/d7a/a25129.html#a6189a5ea90b1951b21a7e9ef36700ed9", null ],
-    [ "PeriodicTick", "dc/d7a/a25129.html#a1c79b1016361eabb5cef57a893bccfcf", null ],
-    [ "PrepareAuraScript", "dc/d7a/a25129.html#acfa6b5217a0e0e2654b7fa9c4092abd5", null ],
-    [ "Register", "dc/d7a/a25129.html#adddddd0689f4686a40b1db142b5d6ce2", null ]
+    [ "HandleScript", "dc/d7a/a25129.html#a466db5b8dc15a196d67dfcbef3d810e1", null ],
+    [ "PrepareSpellScript", "dc/d7a/a25129.html#a7909f23da8385abdabb62e5196d88d38", null ],
+    [ "Register", "dc/d7a/a25129.html#aa45c1c80f137dd90b5f0e06e19f09da6", null ],
+    [ "Validate", "dc/d7a/a25129.html#a04e81472bfefb794024e9c4cc0e4d70b", null ]
 ];

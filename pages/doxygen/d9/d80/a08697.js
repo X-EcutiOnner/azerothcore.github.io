@@ -1,6 +1,17 @@
 var a08697 =
 [
-    [ "Conditions", "d9/d80/a08697.html#a93edc2f0d71164b683c844b713befa85", null ],
-    [ "MenuID", "d9/d80/a08697.html#a732aa82f621c312745ddbd6fe2e3e906", null ],
-    [ "TextID", "d9/d80/a08697.html#a6ec8df5fcc5126bdee656ca08c0a5edc", null ]
+    [ "SpellNonMeleeDamage", "d9/d80/a08697.html#ad9d6b798f9ed159d847affc5c4b23715", null ],
+    [ "absorb", "d9/d80/a08697.html#a485ee28c6a8cf32a22578e02633df75b", null ],
+    [ "attacker", "d9/d80/a08697.html#a5248da0c1a8609479d681ae76a77d045", null ],
+    [ "blocked", "d9/d80/a08697.html#af0cb3d2801e51d9236a6ff5185a43790", null ],
+    [ "cleanDamage", "d9/d80/a08697.html#aa49cdb425fe9c8fb483dcc3c22ca6a72", null ],
+    [ "damage", "d9/d80/a08697.html#a47e66924ae869ce34bdf36a5ed50548b", null ],
+    [ "HitInfo", "d9/d80/a08697.html#a3f99854d163cd672f881f721d5bc8a39", null ],
+    [ "overkill", "d9/d80/a08697.html#a0d578181e933091f3ea1c88ce68e857a", null ],
+    [ "physicalLog", "d9/d80/a08697.html#a34318f4d92685c855972e6fd22089e03", null ],
+    [ "resist", "d9/d80/a08697.html#ade20f4aab4a1945ccd6754cd71101fe2", null ],
+    [ "schoolMask", "d9/d80/a08697.html#a52f5ae6091fe547ed7e282d52c626361", null ],
+    [ "spellInfo", "d9/d80/a08697.html#a9e37c164672dbcc81dd43bee9ec988cb", null ],
+    [ "target", "d9/d80/a08697.html#a324ea6c84e005487560de986dceffeba", null ],
+    [ "unused", "d9/d80/a08697.html#ae991311d8290996e1c0c49f33c29c6b3", null ]
 ];

@@ -1,5 +1,6 @@
 var a10553 =
 [
-    [ "PacketHandler", "d8/d89/a10553.html#a7ca20eda3de42ab35ef45c56f1d6d73e", null ],
-    [ "Call", "d8/d89/a10553.html#a42ac77b81d5280c7f1c54991649ab501", null ]
+    [ "GuildInviteByName", "d8/d89/a10553.html#a5e0bab98d87000ad796ebb2753cd566b", null ],
+    [ "Read", "d8/d89/a10553.html#a91f3fba33e265cbb119f1d3e69d4a8ca", null ],
+    [ "Name", "d8/d89/a10553.html#a048c7ed9de19bcb57c0cdb10e2cf3bef", null ]
 ];

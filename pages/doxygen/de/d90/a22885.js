@@ -1,8 +1,11 @@
 var a22885 =
 [
-    [ "npc_azure_mage_slayerAI", "de/d90/a22885.html#af1a57574d70a48b16d70d8a056f54018", null ],
-    [ "Reset", "de/d90/a22885.html#aabe921f0d4fd147c457779791a7af619", null ],
-    [ "UpdateAI", "de/d90/a22885.html#a7cc5ea88be6c9cf767a0cd433db7dd73", null ],
-    [ "uiArcaneEmpowermentTimer", "de/d90/a22885.html#ace0fdd5e4b57e7ce603d2355bfc838dd", null ],
-    [ "uiSpellLockTimer", "de/d90/a22885.html#ac3c4d2be0dd9ba42e40adccda7100947", null ]
+    [ "boss_supremus", "de/d90/a22885.html#af1f094534b0e2dec70422839a02327cd", null ],
+    [ "CheckEvadeIfOutOfCombatArea", "de/d90/a22885.html#a2654bf5b1d5b6da723d4968219e069a9", null ],
+    [ "FindHatefulStrikeTarget", "de/d90/a22885.html#af560466902d0d372662020e1a67b627c", null ],
+    [ "JustEngagedWith", "de/d90/a22885.html#a7d3a5e2c183db7639a7c25f309359ed1", null ],
+    [ "JustSummoned", "de/d90/a22885.html#a7265a01fa79213ab6d8b82a4c92b7661", null ],
+    [ "Reset", "de/d90/a22885.html#a0eaa29849a2571417d4826d238d72e25", null ],
+    [ "SchedulePhase", "de/d90/a22885.html#a87e3943d6c645138853aa97644f9df0e", null ],
+    [ "SummonedCreatureDespawn", "de/d90/a22885.html#a2ae72bfef577654e676a64eb2e4efa7a", null ]
 ];

@@ -1,6 +1,5 @@
 var a20181 =
 [
-    [ "spell_thaddius_polarity_shift_SpellScript", "dc/d22/a20185.html", "dc/d22/a20185" ],
-    [ "spell_thaddius_polarity_shift", "d4/d90/a20181.html#a57b92c1f63d064a1a79ccbb0b5689054", null ],
-    [ "GetSpellScript", "d4/d90/a20181.html#ad17905767229c0e5941b291f0d7f51b8", null ]
+    [ "achievement_cheese_the_freeze", "d4/d90/a20181.html#a5ec4c344a0ed203086be2661e4e24f0e", null ],
+    [ "OnCheck", "d4/d90/a20181.html#aaf3342fb3153a4d9223d880c0f2a277a", null ]
 ];

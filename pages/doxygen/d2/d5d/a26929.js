@@ -1,6 +1,6 @@
 var a26929 =
 [
-    [ "HandleEffectPeriodic", "d2/d5d/a26929.html#a248ba0e88498e36355491b2b89063e17", null ],
-    [ "PrepareAuraScript", "d2/d5d/a26929.html#ac9aed434fe7602ef846e9f052402620e", null ],
-    [ "Register", "d2/d5d/a26929.html#a039eec910c802276b9e979253141cdee", null ]
+    [ "achievement_arena_by_type", "d2/d5d/a26929.html#a2042c808304e8ddf1849820491b9f1a3", null ],
+    [ "OnCheck", "d2/d5d/a26929.html#abebdbf19fbf1b79c30114a9cf4ff98a4", null ],
+    [ "_arenaType", "d2/d5d/a26929.html#a5c38e5fef5eaf3d037864ba2aa80584a", null ]
 ];

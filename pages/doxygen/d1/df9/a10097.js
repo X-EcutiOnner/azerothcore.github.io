@@ -1,6 +1,5 @@
 var a10097 =
 [
-    [ "BuyBankSlotResult", "d1/df9/a10097.html#a93b60814becc451c38f06f9702a9e027", null ],
-    [ "Write", "d1/df9/a10097.html#a55a6609863b0d3ef966f222526268acb", null ],
-    [ "Result", "d1/df9/a10097.html#ad7bf499ad8d5f0a7e1a580dd02b84c68", null ]
+    [ "petitionGuid", "d1/df9/a10097.html#adafc1020d722bd3885429041ce9a292c", null ],
+    [ "signatureMap", "d1/df9/a10097.html#a70bd865a5b11ffc0ceed08b683548b42", null ]
 ];

@@ -1,8 +1,13 @@
 var a27497 =
 [
-    [ "HandleDummy", "da/d93/a27497.html#a57897df074b7766c022526e082b4a13b", null ],
-    [ "Load", "da/d93/a27497.html#a47cbade67be124496c6194391ab51794", null ],
-    [ "PrepareSpellScript", "da/d93/a27497.html#af5e5a22976adfa5588ca8e054e19a669", null ],
-    [ "Register", "da/d93/a27497.html#ab0c3be8436b79288bb45899448fd6c1b", null ],
-    [ "Validate", "da/d93/a27497.html#a97d037267e385e0d3fd80543a5ddb366", null ]
+    [ "npc_garments_of_questsAI", "da/d93/a27497.html#a079f719ca488ed6fde2783b5db4f328b", null ],
+    [ "JustEngagedWith", "da/d93/a27497.html#aa14c07eaaa8d6381e8a821eab7a3d421", null ],
+    [ "Reset", "da/d93/a27497.html#aaaaa3e41deae0057bd659be5c579d226", null ],
+    [ "SpellHit", "da/d93/a27497.html#ad22195dba70ced744b319bc1ad83c083", null ],
+    [ "UpdateAI", "da/d93/a27497.html#aadf1a807ff49bd83eb21fc38fb2ed81c", null ],
+    [ "WaypointReached", "da/d93/a27497.html#a9bd63db7774e77ce4af6cfa952bcfa6d", null ],
+    [ "CanRun", "da/d93/a27497.html#a93c41781e4cb037b56773bbbf36181b7", null ],
+    [ "CasterGUID", "da/d93/a27497.html#ad2656e6a080b6407b57a3a1afeed12a0", null ],
+    [ "IsHealed", "da/d93/a27497.html#a96db66704eabf028362d5f8b5c424712", null ],
+    [ "RunAwayTimer", "da/d93/a27497.html#ac0a898f8938ea9b3721cc7440fac2da0", null ]
 ];
