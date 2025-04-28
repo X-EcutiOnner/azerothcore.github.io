@@ -1,45 +1,14 @@
 var a01304 =
 [
-    [ "PassengerInfo", "d9/db4/a08753.html", "d9/db4/a08753" ],
-    [ "VehicleSeatAddon", "df/d3a/a08757.html", "df/d3a/a08757" ],
-    [ "VehicleSeat", "d9/df1/a08761.html", "d9/df1/a08761" ],
-    [ "VehicleAccessory", "d1/de9/a08765.html", "d1/de9/a08765" ],
-    [ "TransportBase", "de/d5d/a08769.html", "de/d5d/a08769" ],
-    [ "SeatMap", "d6/dae/a01304.html#a2dadb2596b27d20ebbc12696cb7b9a74", null ],
-    [ "VehicleAccessoryContainer", "d6/dae/a01304.html#a5b46179616c0e205a7c933e02f87160b", null ],
-    [ "VehicleAccessoryList", "d6/dae/a01304.html#af5d682a742080008bd21db9bba6e162f", null ],
-    [ "PowerType", "d6/dae/a01304.html#a0d0e3226055ad5266e487b58fd01cebd", [
-      [ "POWER_STEAM", "d6/dae/a01304.html#a0d0e3226055ad5266e487b58fd01cebda687679964e834b0ca1543e4dd62ad47f", null ],
-      [ "POWER_PYRITE", "d6/dae/a01304.html#a0d0e3226055ad5266e487b58fd01cebda80a2f688d9270400c0a412df595754d9", null ],
-      [ "POWER_HEAT", "d6/dae/a01304.html#a0d0e3226055ad5266e487b58fd01cebda84c681da1fcd67b223f97fd81f534434", null ],
-      [ "POWER_OOZE", "d6/dae/a01304.html#a0d0e3226055ad5266e487b58fd01cebda9bc45bf37416c880275746bf261a4097", null ],
-      [ "POWER_BLOOD", "d6/dae/a01304.html#a0d0e3226055ad5266e487b58fd01cebda73464121f88e583ed4c4f89280fd7d68", null ],
-      [ "POWER_WRATH", "d6/dae/a01304.html#a0d0e3226055ad5266e487b58fd01cebda94e6111f7ab9d0e57b77b1b3f70faab1", null ]
+    [ "npc_tapoke_slim_jahn", "db/d20/a13680.html", "db/d20/a13680" ],
+    [ "npc_tapoke_slim_jahn::npc_tapoke_slim_jahnAI", "db/de3/a13684.html", "db/de3/a13684" ],
+    [ "npc_mikhail", "da/d3b/a13688.html", "da/d3b/a13688" ],
+    [ "TapokeSlim", "d6/dae/a01304.html#ad5b3ef2d2393f509f0cbf4e70303fab9", [
+      [ "QUEST_MISSING_DIPLO_PT11", "d6/dae/a01304.html#ad5b3ef2d2393f509f0cbf4e70303fab9afdacf3720ad6627ab1c120619b4628a2", null ],
+      [ "SPELL_STEALTH", "d6/dae/a01304.html#ad5b3ef2d2393f509f0cbf4e70303fab9ab05b1ff486cc81800d4e40014eae5576", null ],
+      [ "SPELL_CALL_FRIENDS", "d6/dae/a01304.html#ad5b3ef2d2393f509f0cbf4e70303fab9a6cc72f5b401e64cbeb4986e9dc90c779", null ],
+      [ "NPC_SLIMS_FRIEND", "d6/dae/a01304.html#ad5b3ef2d2393f509f0cbf4e70303fab9afc7e4b6611738777f37002c70bb946c1", null ],
+      [ "NPC_TAPOKE_SLIM_JAHN", "d6/dae/a01304.html#ad5b3ef2d2393f509f0cbf4e70303fab9a2853dfe2482cee57da6a01e6bc030bda", null ]
     ] ],
-    [ "VehicleExitParameters", "d6/dae/a01304.html#a7f17d71c7e2664769a8e8a8b40cb5116", [
-      [ "VehicleExitParamNone", "d6/dae/a01304.html#a7f17d71c7e2664769a8e8a8b40cb5116aa81d7ce24590f0cf3b5de2218dc4b2eb", null ],
-      [ "VehicleExitParamOffset", "d6/dae/a01304.html#a7f17d71c7e2664769a8e8a8b40cb5116aa79483bd0c086e5f24b906b5e4b28427", null ],
-      [ "VehicleExitParamDest", "d6/dae/a01304.html#a7f17d71c7e2664769a8e8a8b40cb5116a0f2b1d49adc9bb508c54af39ddb0b99d", null ],
-      [ "VehicleExitParamMax", "d6/dae/a01304.html#a7f17d71c7e2664769a8e8a8b40cb5116a0d5345401371099713f87a738fca55c0", null ]
-    ] ],
-    [ "VehicleFlags", "d6/dae/a01304.html#a6f71ae83254cc7417ec04e6ac2a55f7a", [
-      [ "VEHICLE_FLAG_NO_STRAFE", "d6/dae/a01304.html#a6f71ae83254cc7417ec04e6ac2a55f7aa42ade3ec25a77cbf106f1da2cc732a6b", null ],
-      [ "VEHICLE_FLAG_NO_JUMPING", "d6/dae/a01304.html#a6f71ae83254cc7417ec04e6ac2a55f7aa283b85a441a9087bd98ed48a34707c6f", null ],
-      [ "VEHICLE_FLAG_FULLSPEEDTURNING", "d6/dae/a01304.html#a6f71ae83254cc7417ec04e6ac2a55f7aa8eb5fb073cde2366b27d7726b55593b1", null ],
-      [ "VEHICLE_FLAG_ALLOW_PITCHING", "d6/dae/a01304.html#a6f71ae83254cc7417ec04e6ac2a55f7aa929f5dba0c217566377740ffbde2195f", null ],
-      [ "VEHICLE_FLAG_FULLSPEEDPITCHING", "d6/dae/a01304.html#a6f71ae83254cc7417ec04e6ac2a55f7aaeeead2f047ca8fa51f9fb779867cd2c5", null ],
-      [ "VEHICLE_FLAG_CUSTOM_PITCH", "d6/dae/a01304.html#a6f71ae83254cc7417ec04e6ac2a55f7aaadfdb0e47bbca692a5cada5b07577a22", null ],
-      [ "VEHICLE_FLAG_ADJUST_AIM_ANGLE", "d6/dae/a01304.html#a6f71ae83254cc7417ec04e6ac2a55f7aa2cdd4b1bec19233a8162dc420ecde103", null ],
-      [ "VEHICLE_FLAG_ADJUST_AIM_POWER", "d6/dae/a01304.html#a6f71ae83254cc7417ec04e6ac2a55f7aadf965323e550d3307799178679544dd5", null ]
-    ] ],
-    [ "VehicleNPCs", "d6/dae/a01304.html#aecacfdf074f78c4655fc7b038cce5c06", [
-      [ "NPC_EIDOLON_WATCHER", "d6/dae/a01304.html#aecacfdf074f78c4655fc7b038cce5c06a1ad291a45a8ceaff91f636890e29dcb8", null ],
-      [ "NPC_LITHE_STALKER", "d6/dae/a01304.html#aecacfdf074f78c4655fc7b038cce5c06a5a7d35fc890662fca47daf84cc7c0612", null ]
-    ] ],
-    [ "VehicleSpells", "d6/dae/a01304.html#a5829b6d4bd25b5c2a56495142fa8ca54", [
-      [ "VEHICLE_SPELL_RIDE_HARDCODED", "d6/dae/a01304.html#a5829b6d4bd25b5c2a56495142fa8ca54adc19864d7c866905ca0c5bcec8b60119", null ],
-      [ "VEHICLE_SPELL_PARACHUTE", "d6/dae/a01304.html#a5829b6d4bd25b5c2a56495142fa8ca54a9d7d863fbfbc5b74e135ff1c825f2eae", null ],
-      [ "VEHICLE_SPELL_GEIST_CONTROL_END", "d6/dae/a01304.html#a5829b6d4bd25b5c2a56495142fa8ca54ac4b6447ce07cbd236c81e6cc097a42fe", null ],
-      [ "VEHICLE_SPELL_SHADE_CONTROL_END", "d6/dae/a01304.html#a5829b6d4bd25b5c2a56495142fa8ca54aa4ccb8c6147a5a23c813ae796ebe267b", null ]
-    ] ]
+    [ "AddSC_wetlands", "d6/dae/a01304.html#a96be3075a4a99658d93ffe3d69ba369a", null ]
 ];

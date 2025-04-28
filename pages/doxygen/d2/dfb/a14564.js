@@ -1,13 +1,7 @@
 var a14564 =
 [
-    [ "boss_infinite_corruptorAI", "d2/dfb/a14564.html#add36192941eaabf7f3d1d41c572783bd", null ],
-    [ "DoAction", "d2/dfb/a14564.html#a8ff0a9731ad7bc118a1014bdbb0e1daf", null ],
-    [ "JustDied", "d2/dfb/a14564.html#a6d2f445bf0819ac644d7de14d3b7034d", null ],
-    [ "JustEngagedWith", "d2/dfb/a14564.html#a644725505db4fc7a98c4255d0eb34616", null ],
-    [ "JustSummoned", "d2/dfb/a14564.html#a2b12c03184b169a56a0e6696a107dc35", null ],
-    [ "Reset", "d2/dfb/a14564.html#a4dbff495bfcda6fb715dec68616e1764", null ],
-    [ "UpdateAI", "d2/dfb/a14564.html#aaa0a45066ab7ad7d5a7543822d399947", null ],
-    [ "beamTimer", "d2/dfb/a14564.html#a2f8048e591a818f073a65bfcfa49e66c", null ],
-    [ "events", "d2/dfb/a14564.html#a5491db8f5e063ca84f18f1ca63c1e846", null ],
-    [ "summons", "d2/dfb/a14564.html#aa5de5f986f8a6d3ba5f3aad84422eab6", null ]
+    [ "hyjalThrallAI", "d0/da2/a14568.html", "d0/da2/a14568" ],
+    [ "npc_hyjal_thrall", "d2/dfb/a14564.html#a232f085f208a47f7fae08128de1d06b8", null ],
+    [ "GetAI", "d2/dfb/a14564.html#a699b5df19e4e84166348ecfba2dd0172", null ],
+    [ "OnGossipSelect", "d2/dfb/a14564.html#af833f26d79d34655c010aa04f984a94a", null ]
 ];

@@ -1,5 +1,6 @@
 var a23676 =
 [
-    [ "npc_telonicus", "d3/dab/a23676.html#af8ba6be2d39463725bbbaf7770319a93", null ],
-    [ "ScheduleEvents", "d3/dab/a23676.html#a49501a607aeb901aa99e94d9dd0e161b", null ]
+    [ "instance_the_botanica_InstanceMapScript", "d8/da2/a23680.html", "d8/da2/a23680" ],
+    [ "instance_the_botanica", "d3/dab/a23676.html#a8f8acda65f37e45e2439707f3979cf7c", null ],
+    [ "GetInstanceScript", "d3/dab/a23676.html#a335f671443ca0fb9db5956cefdf37182", null ]
 ];

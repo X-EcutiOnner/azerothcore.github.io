@@ -1,5 +1,5 @@
 var a26920 =
 [
-    [ "AreaTrigger_at_legion_teleporter", "d9/d65/a26920.html#a2b648bd038f41025c19338367c696d25", null ],
-    [ "OnTrigger", "d9/d65/a26920.html#ae8239e5ad56d93627102dbd02989353d", null ]
+    [ "achievement_bg_ic_glaive_grave", "d9/d65/a26920.html#a97e1cead0102a120b3bd14592ea26034", null ],
+    [ "OnCheck", "d9/d65/a26920.html#a0eacab5595969cfe5e3d083c984dfd77", null ]
 ];

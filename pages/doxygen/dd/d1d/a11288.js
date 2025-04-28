@@ -1,6 +1,6 @@
 var a11288 =
 [
-    [ "AfterCheckProcHandler", "dd/d1d/a11288.html#ac0a14950e90d064ffd7adc224b25f9d8", null ],
-    [ "Call", "dd/d1d/a11288.html#ab2da0d87413dd7317eeaf73df17f1aaf", null ],
-    [ "_HandlerScript", "dd/d1d/a11288.html#af5a393efc729e8588c0fc425fdfead99", null ]
+    [ "EffectCalcSpellModHandler", "dd/d1d/a11288.html#abe81396a3f1c1b3b07c10cf0e191546c", null ],
+    [ "Call", "dd/d1d/a11288.html#a5ca2a9c329a7dbbb7e835849ca4479aa", null ],
+    [ "pEffectHandlerScript", "dd/d1d/a11288.html#a15c0b24641cb04f31bb3d651dae59448", null ]
 ];

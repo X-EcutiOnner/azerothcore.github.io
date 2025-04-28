@@ -1,11 +1,25 @@
 var a04376 =
 [
-    [ "instance_the_eye", "d8/d53/a23797.html", "d8/d53/a23797" ],
-    [ "instance_the_eye::instance_the_eye_InstanceMapScript", "d3/dbb/a23801.html", "d3/dbb/a23801" ],
-    [ "spell_the_eye_countercharge_aura", "df/db2/a23805.html", "df/db2/a23805" ],
-    [ "AddSC_instance_the_eye", "d0/de0/a04376.html#a2edbd129d024cabd379cca055dd3e341", null ],
-    [ "boundaries", "d0/de0/a04376.html#aa75d7d0ffe0cef214f982966c33db1c1", null ],
-    [ "creatureData", "d0/de0/a04376.html#a412286b689bd324fedd65ddd8dde8afb", null ],
-    [ "doorData", "d0/de0/a04376.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
-    [ "gameObjectData", "d0/de0/a04376.html#a1461582839e3b7fdbb7397e5d2086e31", null ]
+    [ "AllBattlegroundScript", "db/d67/a10172.html", "db/d67/a10172" ],
+    [ "BGScript", "d0/de0/a04376.html#ae9cb670a445a9cb3089a66cdcc822d0e", null ],
+    [ "AllBattlegroundHook", "d0/de0/a04376.html#a17a6e2af65c8cf024623d584c7f3a11f", [
+      [ "ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_START", "d0/de0/a04376.html#a17a6e2af65c8cf024623d584c7f3a11fa6d4da13cd771a0027ee68bb5a41cbef2", null ],
+      [ "ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_END_REWARD", "d0/de0/a04376.html#a17a6e2af65c8cf024623d584c7f3a11fa6249f560935453a3230622aff4d12aeb", null ],
+      [ "ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_UPDATE", "d0/de0/a04376.html#a17a6e2af65c8cf024623d584c7f3a11faa835decdfe3bd71e3f36d57ea58f0957", null ],
+      [ "ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_ADD_PLAYER", "d0/de0/a04376.html#a17a6e2af65c8cf024623d584c7f3a11fa3be3eca5302bcf69ac7f102837ac7de0", null ],
+      [ "ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_BEFORE_ADD_PLAYER", "d0/de0/a04376.html#a17a6e2af65c8cf024623d584c7f3a11fa20256e46bc7531203cb3129b8b2f1d6a", null ],
+      [ "ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_REMOVE_PLAYER_AT_LEAVE", "d0/de0/a04376.html#a17a6e2af65c8cf024623d584c7f3a11fa1eb34bf20bb04e911b0fc231d34e9175", null ],
+      [ "ALLBATTLEGROUNDHOOK_ON_QUEUE_UPDATE", "d0/de0/a04376.html#a17a6e2af65c8cf024623d584c7f3a11fa2f7e966409796169c03f2a540adc37d7", null ],
+      [ "ALLBATTLEGROUNDHOOK_ON_QUEUE_UPDATE_VALIDITY", "d0/de0/a04376.html#a17a6e2af65c8cf024623d584c7f3a11faf57572cc73fbade9e6d25116230677d5", null ],
+      [ "ALLBATTLEGROUNDHOOK_ON_ADD_GROUP", "d0/de0/a04376.html#a17a6e2af65c8cf024623d584c7f3a11fa939f6d860e7bd28952f4f8027c23b95f", null ],
+      [ "ALLBATTLEGROUNDHOOK_CAN_FILL_PLAYERS_TO_BG", "d0/de0/a04376.html#a17a6e2af65c8cf024623d584c7f3a11fa85e775dbed655cf407e7ebf1a64636f7", null ],
+      [ "ALLBATTLEGROUNDHOOK_IS_CHECK_NORMAL_MATCH", "d0/de0/a04376.html#a17a6e2af65c8cf024623d584c7f3a11fadbabd96f7abb5df470101fc9df9d9323", null ],
+      [ "ALLBATTLEGROUNDHOOK_CAN_SEND_MESSAGE_BG_QUEUE", "d0/de0/a04376.html#a17a6e2af65c8cf024623d584c7f3a11faab250dae715543f6092538ecead24a53", null ],
+      [ "ALLBATTLEGROUNDHOOK_ON_BEFORE_SEND_JOIN_MESSAGE_ARENA_QUEUE", "d0/de0/a04376.html#a17a6e2af65c8cf024623d584c7f3a11faa1d8bc700124dc104e154886f3af51c5", null ],
+      [ "ALLBATTLEGROUNDHOOK_ON_BEFORE_SEND_EXIT_MESSAGE_ARENA_QUEUE", "d0/de0/a04376.html#a17a6e2af65c8cf024623d584c7f3a11fa7ff5cea511eefb352f3c13df830a9cd8", null ],
+      [ "ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_END", "d0/de0/a04376.html#a17a6e2af65c8cf024623d584c7f3a11fa9a98407eef4207a402bffde24660cc00", null ],
+      [ "ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_DESTROY", "d0/de0/a04376.html#a17a6e2af65c8cf024623d584c7f3a11faf70d3c3e04932aa21b33d497d3f30953", null ],
+      [ "ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_CREATE", "d0/de0/a04376.html#a17a6e2af65c8cf024623d584c7f3a11fa5cab42841def4696e241e31f655d4cd1", null ],
+      [ "ALLBATTLEGROUNDHOOK_END", "d0/de0/a04376.html#a17a6e2af65c8cf024623d584c7f3a11fa0e3bc87a05b030bbdb15eda213d5b6af", null ]
+    ] ]
 ];

@@ -1,8 +1,7 @@
 var a11592 =
 [
-    [ "honor_commandscript", "d7/d24/a11592.html#a7c1a6c172b970d1a35a4014d783dc783", null ],
-    [ "GetCommands", "d7/d24/a11592.html#a29a0068f9dd1e9b3f0adf80bddaadbbc", null ],
-    [ "HandleHonorAddCommand", "d7/d24/a11592.html#a03caa77b436e3d513e1325badf05df33", null ],
-    [ "HandleHonorAddKillCommand", "d7/d24/a11592.html#aec79f459796d821a032477827e16308a", null ],
-    [ "HandleHonorUpdateCommand", "d7/d24/a11592.html#a11831a3ea577f3f1e06fea3d0dbc0147", null ]
+    [ "gear_commandscript", "d7/d24/a11592.html#a2e37c7d761982f7185b2418ae5aa4315", null ],
+    [ "GetCommands", "d7/d24/a11592.html#a9212aa39f13c646b1b8cf8be78cc8a6a", null ],
+    [ "HandleGearRepairCommand", "d7/d24/a11592.html#a28cd5680f07f984326d79d91adbbfd70", null ],
+    [ "HandleGearStatsCommand", "d7/d24/a11592.html#acca4bc7e8cae51ee2a6172b32f87aa56", null ]
 ];

@@ -1,7 +1,9 @@
 var a16960 =
 [
-    [ "HandleEffectPeriodic", "d4/da9/a16960.html#a370e2cbf796c1bc0a891243b61c057e1", null ],
-    [ "PrepareAuraScript", "d4/da9/a16960.html#ac0cb90fe9bfa7f371cc5469626ce2467", null ],
-    [ "Register", "d4/da9/a16960.html#a5a44978cec95fef30c9ea4308bda2508", null ],
-    [ "Validate", "d4/da9/a16960.html#a8b9f7d76f86f1a5abffdead3ebee694a", null ]
+    [ "npc_pos_after_first_bossAI", "d4/da9/a16960.html#a622df71849da1e10e2b73068f0adea98", null ],
+    [ "MovementInform", "d4/da9/a16960.html#a1751506f27d4b2fc9ddb2f8a6a82dc9e", null ],
+    [ "Reset", "d4/da9/a16960.html#ad248aa4cbfbd24e4fe47b99b38c4dd8c", null ],
+    [ "UpdateAI", "d4/da9/a16960.html#ac45111887fd7833a041355658dd26158", null ],
+    [ "events", "d4/da9/a16960.html#a3aaf303ee389a10edc4feeec7c38a2a6", null ],
+    [ "pInstance", "d4/da9/a16960.html#a17a0e1e7a35f608a9ec86ce4e959b52e", null ]
 ];

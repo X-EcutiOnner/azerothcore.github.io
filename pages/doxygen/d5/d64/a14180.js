@@ -1,11 +1,11 @@
 var a14180 =
 [
-    [ "o", "d5/d64/a14180.html#af0a1551e7a1ced5413b6096ba15db8b2", null ],
-    [ "rot0", "d5/d64/a14180.html#a1cc2b7787c803a4e126e06ab5b5c0ee6", null ],
-    [ "rot1", "d5/d64/a14180.html#a71696fa3f95eb20d950b6ba2ada153f4", null ],
-    [ "rot2", "d5/d64/a14180.html#ac2e4113330ebc9d9db379fb87eb55c03", null ],
-    [ "rot3", "d5/d64/a14180.html#a3fc28475914b0ed4afe46fd4f4ff66b1", null ],
-    [ "x", "d5/d64/a14180.html#a6e527854cf0959995d6b0133dedc94c9", null ],
-    [ "y", "d5/d64/a14180.html#a7536047696bd4883237369976b503131", null ],
-    [ "z", "d5/d64/a14180.html#a33ba4ca8ce5f406aaa5f571ba7236eb5", null ]
+    [ "npc_snowfall_glade_playmate", "d5/d64/a14180.html#aa31b472ad55b240faff4bc2c1ee02ebc", null ],
+    [ "MoveInLineOfSight", "d5/d64/a14180.html#a92143d0bd0eb57b59069ca7a66e16195", null ],
+    [ "Reset", "d5/d64/a14180.html#a89040d9843852b01123e102b49509857", null ],
+    [ "UpdateAI", "d5/d64/a14180.html#a6dedc1cae1e568a792341842e8a922e8", null ],
+    [ "orphanGUID", "d5/d64/a14180.html#ad9bdbee8ec178b0a6c7ff125dc698279", null ],
+    [ "phase", "d5/d64/a14180.html#a9a5b2348313063bc389b99158fc72e3f", null ],
+    [ "playerGUID", "d5/d64/a14180.html#a4ca4198fdbf3c98291255916ee53c637", null ],
+    [ "timer", "d5/d64/a14180.html#ac3d736f2cd62289b88940e0a6ddcd957", null ]
 ];

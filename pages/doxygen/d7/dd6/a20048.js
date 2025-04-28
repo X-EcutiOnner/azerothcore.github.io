@@ -1,6 +1,6 @@
 var a20048 =
 [
-    [ "npc_ulduar_toasty_fireAI", "d9/d09/a20052.html", "d9/d09/a20052" ],
-    [ "npc_ulduar_toasty_fire", "d7/dd6/a20048.html#a5a5b77088b24f1c5743c58034190d5ab", null ],
-    [ "GetAI", "d7/dd6/a20048.html#a2518ec39c3cea2f3efc5000e0a7779d0", null ]
+    [ "FilterTargets", "d7/dd6/a20048.html#adb438b9bcf4be347aeabf6608fbfb8a4", null ],
+    [ "PrepareSpellScript", "d7/dd6/a20048.html#a88f5ca3aaa575cff0ba778f9b575d656", null ],
+    [ "Register", "d7/dd6/a20048.html#ac7337b4ee8511f72b129fccc83b3241e", null ]
 ];

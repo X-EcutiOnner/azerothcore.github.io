@@ -1,6 +1,6 @@
 var a16996 =
 [
-    [ "entry", "d8/d6e/a16996.html#af2cf5df64adf9ac1575a8217b103e738", null ],
-    [ "x", "d8/d6e/a16996.html#aad21475d521921ea30cc0ae5d260ce69", null ],
-    [ "y", "d8/d6e/a16996.html#abd69e1c28ad36466c82807ea0ffb0fb7", null ]
+    [ "npc_pos_freed_slaveAI", "da/d39/a17000.html", "da/d39/a17000" ],
+    [ "npc_pos_freed_slave", "d8/d6e/a16996.html#a19fd79279646cb1c49c04056636615fc", null ],
+    [ "GetAI", "d8/d6e/a16996.html#ac798c2584d48892162cc2bc779701e16", null ]
 ];

@@ -1,6 +1,6 @@
 var a17032 =
 [
-    [ "HandleScriptEffect", "d1/d59/a17032.html#ab9c289e946cfaf2b63f2526914d79812", null ],
-    [ "PrepareSpellScript", "d1/d59/a17032.html#a832f8ab737254760fe2b91f19d119781", null ],
-    [ "Register", "d1/d59/a17032.html#a86f620a16780cef2c09f45eefb6dad9c", null ]
+    [ "HandleEffectPeriodic", "d1/d59/a17032.html#a8a165d3931353fefc2e6a7c7f309150e", null ],
+    [ "PrepareAuraScript", "d1/d59/a17032.html#a2de3b6d4e32832ec7ce4548df23d3d5c", null ],
+    [ "Register", "d1/d59/a17032.html#a3593ab75583bb5b9b31b29ba2c3cdd76", null ]
 ];

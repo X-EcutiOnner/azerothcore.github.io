@@ -1,5 +1,6 @@
 var a17060 =
 [
-    [ "achievement_share_the_love", "d6/de0/a17060.html#a3eaa89eaa356b0e2f8b5c688439baf9c", null ],
-    [ "OnCheck", "d6/de0/a17060.html#a9d6b6d19611d1482111692de9f2b1cc8", null ]
+    [ "boss_drakkari_elementalAI", "da/dce/a17064.html", "da/dce/a17064" ],
+    [ "boss_drakkari_elemental", "d6/de0/a17060.html#a143dd5d52ea7bb3c3c1d96da45af81ee", null ],
+    [ "GetAI", "d6/de0/a17060.html#aab2f9c71ddb77164bd644d18b9e88313", null ]
 ];

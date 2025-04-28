@@ -1,7 +1,6 @@
 var a16388 =
 [
-    [ "HandleEffectPeriodic", "db/dac/a16388.html#ae5749a43f37f0eb3f049d8804845f61e", null ],
-    [ "PrepareAuraScript", "db/dac/a16388.html#a66dcb98f38ed6b040928543015f59c9b", null ],
-    [ "Register", "db/dac/a16388.html#abbebe9c5ad44db61e80ce3707e744ab6", null ],
-    [ "Validate", "db/dac/a16388.html#a1131f0014f298b87483412d960bc0221", null ]
+    [ "npc_toc_retro_paladinAI", "d9/d7a/a16392.html", "d9/d7a/a16392" ],
+    [ "npc_toc_retro_paladin", "db/dac/a16388.html#abfb15148aefe186447cfdb3a2c8749c4", null ],
+    [ "GetAI", "db/dac/a16388.html#a1213c99792aa4362275bc827aa2f037e", null ]
 ];

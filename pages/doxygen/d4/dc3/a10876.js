@@ -1,7 +1,6 @@
 var a10876 =
 [
-    [ "OpcodeHandler", "d9/dda/a04740.html#gad7dc8101b537abe699b18ae8de444a81", null ],
-    [ "~OpcodeHandler", "d9/dda/a04740.html#ga5400057a3d849035aedda259828a5af5", null ],
-    [ "Name", "d9/dda/a04740.html#ga0f1d1acde7c65e2b5c29357b232a7061", null ],
-    [ "Status", "d9/dda/a04740.html#gace7959058ad5b5e617c7b043f5c63b7c", null ]
+    [ "WorldStateInfo", "d4/dc3/a10876.html#a64fd2e4da7035ea6c01b8ab0819d2f86", null ],
+    [ "Value", "d4/dc3/a10876.html#afe5a0e98713c986a17f431795c488c6c", null ],
+    [ "VariableID", "d4/dc3/a10876.html#a627bba237bce23aff74fd2bf7a274657", null ]
 ];

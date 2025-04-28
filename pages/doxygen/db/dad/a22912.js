@@ -1,7 +1,7 @@
 var a22912 =
 [
-    [ "PrepareAuraScript", "db/dad/a22912.html#a30ec063aa1ddbc3a32066e1f868bf742", null ],
-    [ "Register", "db/dad/a22912.html#a1e62c60bfc2b72811950b627ce1202c3", null ],
-    [ "Update", "db/dad/a22912.html#a3f98767367564734c9877d1870aac31b", null ],
-    [ "Validate", "db/dad/a22912.html#a450460769e0e54e06f1b64b3c63ba0de", null ]
+    [ "CalculateAmount", "db/dad/a22912.html#af0db71393c0b4a7bd5f4e11bd0212d06", null ],
+    [ "PrepareAuraScript", "db/dad/a22912.html#a5af876b76d9239808ac72c5b6177cdcb", null ],
+    [ "Register", "db/dad/a22912.html#a6d0d47536e6ef74a88c97019843d478c", null ],
+    [ "Update", "db/dad/a22912.html#afd2ed6f36d1596a2de753f04c5563c5f", null ]
 ];

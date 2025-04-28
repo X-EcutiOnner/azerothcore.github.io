@@ -1,7 +1,6 @@
 var a14836 =
 [
-    [ "boss_kurinnaxx", "d9/d56/a14836.html#aa8b471e6239080b2a5f70e50e07a9621", null ],
-    [ "InitializeAI", "d9/d56/a14836.html#a0e249007d5bf29eb0cff307045ef9eb3", null ],
-    [ "JustDied", "d9/d56/a14836.html#adb749c8737888a099ad7a3d58292a612", null ],
-    [ "JustEngagedWith", "d9/d56/a14836.html#a451cd7ee80b0428a199c33012562bdb3", null ]
+    [ "instance_razorfen_kraul_InstanceMapScript", "d6/df4/a14840.html", "d6/df4/a14840" ],
+    [ "instance_razorfen_kraul", "d9/d56/a14836.html#aedd65b901c8131a7ac21e8576734f76f", null ],
+    [ "GetInstanceScript", "d9/d56/a14836.html#a78e77010ebb055b9530733ca25533110", null ]
 ];

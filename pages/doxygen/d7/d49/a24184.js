@@ -1,10 +1,6 @@
 var a24184 =
 [
-    [ "npc_isla_starmaneAI", "d7/d49/a24184.html#a0cb655d324ddde173dcfdee069c0f694", null ],
-    [ "JustDied", "d7/d49/a24184.html#ac7132ac84a64bccbcf8895cbc4a86f9c", null ],
-    [ "JustEngagedWith", "d7/d49/a24184.html#ab40287c6bfc67b09bf7336ea53116cab", null ],
-    [ "JustRespawned", "d7/d49/a24184.html#a69b395a9b9504737109870c5e8db74c8", null ],
-    [ "UpdateEscortAI", "d7/d49/a24184.html#af4b8c80e7443bb671be253238b124910", null ],
-    [ "WaypointReached", "d7/d49/a24184.html#a5d00583afa4e811e4f3cb8400787a990", null ],
-    [ "events", "d7/d49/a24184.html#a53cfabbe7cf85ceb19286d67bb23f2ec", null ]
+    [ "npc_zephyr", "d7/d49/a24184.html#a3bad7bf2bd3b193960f1f53cd7d8349d", null ],
+    [ "OnGossipHello", "d7/d49/a24184.html#a31e132e80a19bb6e63787fcdf7ffd466", null ],
+    [ "OnGossipSelect", "d7/d49/a24184.html#a9b1f5a0d4ba24e65dda521bc94574ad8", null ]
 ];

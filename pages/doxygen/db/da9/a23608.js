@@ -1,7 +1,6 @@
 var a23608 =
 [
-    [ "boss_warp_splinter", "db/da9/a23608.html#a1d0e8720baaadd1f6f4f6026597c9f63", null ],
-    [ "JustDied", "db/da9/a23608.html#a7e7850cf545e57f9fcd8d1aff42f8eb3", null ],
-    [ "JustEngagedWith", "db/da9/a23608.html#afc05b2f366e518d5e9ea3fbbfcba05cc", null ],
-    [ "KilledUnit", "db/da9/a23608.html#a0e974eb2bfae50383040fe9c7ccf74c1", null ]
+    [ "npc_warden_mellicharAI", "da/dd8/a23612.html", "da/dd8/a23612" ],
+    [ "npc_warden_mellichar", "db/da9/a23608.html#aba5c3d005097430941bd40bbbb0d3562", null ],
+    [ "GetAI", "db/da9/a23608.html#a7cb7437a61b49d8110c3b7fee43e495b", null ]
 ];

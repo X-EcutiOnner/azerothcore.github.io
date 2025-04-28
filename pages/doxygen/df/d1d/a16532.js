@@ -1,7 +1,7 @@
 var a16532 =
 [
-    [ "HandleScript", "df/d1d/a16532.html#a927cc2ab0e5bba58a2b49e3e4e52ebaa", null ],
-    [ "PrepareSpellScript", "df/d1d/a16532.html#a71b28156c628aacbc6cb481038c0e76c", null ],
-    [ "Register", "df/d1d/a16532.html#a6f036bb2d42f248e0c252158a5ecedf1", null ],
-    [ "Validate", "df/d1d/a16532.html#a7c8a5a7c47bd7a9624028f92b1d9cf9c", null ]
+    [ "HandleEffectPeriodic", "df/d1d/a16532.html#ae8121dcb796f3ee496c24bbd46651f81", null ],
+    [ "PrepareAuraScript", "df/d1d/a16532.html#af84222492b3209c97695895c4c991f4a", null ],
+    [ "Register", "df/d1d/a16532.html#a4d1741913631bb649508ef238e25a6c8", null ],
+    [ "Validate", "df/d1d/a16532.html#ac9b7fd3876620988cc74aa0a5202e599", null ]
 ];

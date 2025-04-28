@@ -1,7 +1,11 @@
 var a22736 =
 [
-    [ "SuckBackEvent", "de/d7c/a22736.html#a6525e2aefec2680fde20e27ebf962f4c", null ],
-    [ "Execute", "de/d7c/a22736.html#aae1664e6ef9d90ec8a0e12554b991bf0", null ],
-    [ "_action", "de/d7c/a22736.html#abc54669df2dba0238723a40ababe4c0a", null ],
-    [ "_owner", "de/d7c/a22736.html#a4d8bc09803f7786022c1836457ded488", null ]
+    [ "boss_high_nethermancer_zerevor", "de/d7c/a22736.html#a2d3ce1a6d972c0b58efe5aad31014c09", null ],
+    [ "AttackStart", "de/d7c/a22736.html#a270961bd3af6ce65eebc79130f4e3d47", null ],
+    [ "CastDampenMagicIfPossible", "de/d7c/a22736.html#ab0af23baf43d377935811c52a346c566", null ],
+    [ "JustEngagedWith", "de/d7c/a22736.html#a390f939ba01ee189fc55670eb4ff1a7e", null ],
+    [ "OnAuraRemove", "de/d7c/a22736.html#a7dd31808dbf00f77b59fce84249778fe", null ],
+    [ "Reset", "de/d7c/a22736.html#afd7a419de217b3d129f783ddc87780af", null ],
+    [ "UpdateAI", "de/d7c/a22736.html#ae1ec04a655525cbb2a6a3c7e382cf078", null ],
+    [ "_canCastDampenMagic", "de/d7c/a22736.html#a72c89454c2b0754690ae72fd7aacb0e8", null ]
 ];

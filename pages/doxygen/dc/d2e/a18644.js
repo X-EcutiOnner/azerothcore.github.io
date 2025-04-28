@@ -1,6 +1,7 @@
 var a18644 =
 [
-    [ "npc_icc_skybreaker_luminaryAI", "dc/d01/a18648.html", "dc/d01/a18648" ],
-    [ "npc_icc_skybreaker_luminary", "dc/d2e/a18644.html#aff97d0425cf86a8b411ef3e2bd0cc054", null ],
-    [ "GetAI", "dc/d2e/a18644.html#ad1378aaa7438758f8a796d8e74ae0ce8", null ]
+    [ "OnRemove", "dc/d2e/a18644.html#ac71e6f5a9e3a7c96b4e4bd1a296d0d8d", null ],
+    [ "PrepareAuraScript", "dc/d2e/a18644.html#acf654e563f47df9ad033d7080f47662b", null ],
+    [ "Register", "dc/d2e/a18644.html#aad4497ba7cad48b9547e8696714d8c23", null ],
+    [ "Validate", "dc/d2e/a18644.html#ae5e187cb481849343e777b0bf0ffdf24", null ]
 ];

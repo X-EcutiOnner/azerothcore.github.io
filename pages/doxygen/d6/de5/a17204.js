@@ -1,6 +1,6 @@
 var a17204 =
 [
-    [ "PrepareSpellScript", "d6/de5/a17204.html#a37899f12707930d038de38bae92c9aff", null ],
-    [ "Register", "d6/de5/a17204.html#a3677d2e7db842f899e6e2d2c8c9a3d42", null ],
-    [ "SelectDest", "d6/de5/a17204.html#a4caabf8afac621ef70bbbac1a2b5177e", null ]
+    [ "npc_ball_of_flameAI", "d3/daf/a17208.html", "d3/daf/a17208" ],
+    [ "npc_ball_of_flame", "d6/de5/a17204.html#a353bf8385dea6c2e4a489bd14c87e0fe", null ],
+    [ "GetAI", "d6/de5/a17204.html#ac0309668f9f0ca85a644d4928966e577", null ]
 ];

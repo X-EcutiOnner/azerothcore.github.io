@@ -1,6 +1,6 @@
 var a19388 =
 [
-    [ "npc_molten_golemAI", "d8/dd8/a19392.html", "d8/dd8/a19392" ],
-    [ "npc_molten_golem", "df/d6a/a19388.html#a63e16216a59b50524632b49599bd3bd1", null ],
-    [ "GetAI", "df/d6a/a19388.html#a22a723039267cb0901b78c6064a88d0c", null ]
+    [ "boss_bjarngrimAI", "d8/dd8/a19392.html", "d8/dd8/a19392" ],
+    [ "boss_bjarngrim", "df/d6a/a19388.html#ab509688547d41ec1fd094fdc45291959", null ],
+    [ "GetAI", "df/d6a/a19388.html#aff6455d2a327bbf3426d10a07f7b0e44", null ]
 ];

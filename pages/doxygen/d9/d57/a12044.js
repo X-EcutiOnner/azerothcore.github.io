@@ -1,6 +1,6 @@
 var a12044 =
 [
-    [ "boss_thebeastAI", "d6/dee/a12048.html", "d6/dee/a12048" ],
-    [ "boss_the_beast", "d9/d57/a12044.html#a131344b5fada63f4a8f0b3692ecba9eb", null ],
-    [ "GetAI", "d9/d57/a12044.html#a0b40497c665c571247cb8ad8b85ac63f", null ]
+    [ "npc_rookery_hatcherAI", "d6/dee/a12048.html", "d6/dee/a12048" ],
+    [ "npc_rookery_hatcher", "d9/d57/a12044.html#aa385f8a93384d4db9b92eecd1b152ce0", null ],
+    [ "GetAI", "d9/d57/a12044.html#a76e27f10dd58ec15a8e8f9d579f1c176", null ]
 ];

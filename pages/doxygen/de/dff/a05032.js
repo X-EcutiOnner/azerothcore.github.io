@@ -1,14 +1,11 @@
 var a05032 =
 [
-    [ "ModelInstance", "de/dff/a05032.html#a7a4efa321915b77801e9fc87924df572", null ],
-    [ "ModelInstance", "de/dff/a05032.html#a1d29459f4f79da938ae969509246fcf1", null ],
-    [ "GetLiquidLevel", "de/dff/a05032.html#a6150e52c7fdff3cba536e04e115d86ba", null ],
-    [ "GetLocationInfo", "de/dff/a05032.html#a2e756866245d8131d5fc040489a563e3", null ],
-    [ "getWorldModel", "de/dff/a05032.html#a464922875649215b0b60aafc1ff70c3c", null ],
-    [ "intersectPoint", "de/dff/a05032.html#a991622da72fe08d812f49f20f0a2df17", null ],
-    [ "intersectRay", "de/dff/a05032.html#aca8a2a07911eba5ec362080e2790453c", null ],
-    [ "setUnloaded", "de/dff/a05032.html#a1797ec305f365e58cd92c8cd3f3094ba", null ],
-    [ "iInvRot", "de/dff/a05032.html#a9ac1d8dbfc566a2b5e508cae92ef4019", null ],
-    [ "iInvScale", "de/dff/a05032.html#adc23d9c9a79ac7cfdb1f90b96485b089", null ],
-    [ "iModel", "de/dff/a05032.html#ac0b95c6fde838667e007781bde2f2917", null ]
+    [ "~GameObjectModelOwnerBase", "de/dff/a05032.html#a307c744710782fcb0d5c287b23c74d69", null ],
+    [ "DebugVisualizeCorner", "de/dff/a05032.html#acf130fbdfb086a9c6d35d145116357c8", null ],
+    [ "GetDisplayId", "de/dff/a05032.html#ae3eddc6c841c3644f50cb3300f80cee2", null ],
+    [ "GetOrientation", "de/dff/a05032.html#a35c11d2346c5156b95558729d84b3fe8", null ],
+    [ "GetPhaseMask", "de/dff/a05032.html#a6b55de1c8de5a50245d7e5a833766d0f", null ],
+    [ "GetPosition", "de/dff/a05032.html#a82e89b7fac5f46a25519674930294ed8", null ],
+    [ "GetScale", "de/dff/a05032.html#abf8e9a74f58ec34bc6f1f8d853100f69", null ],
+    [ "IsSpawned", "de/dff/a05032.html#ad824da6970d512c344160714cd7ec434", null ]
 ];

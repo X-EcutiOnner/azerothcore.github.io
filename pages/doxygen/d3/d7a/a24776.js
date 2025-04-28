@@ -1,6 +1,5 @@
 var a24776 =
 [
-    [ "CheckLevel", "d3/d7a/a24776.html#a9c0f4404275b274bd8af7be621eaa5b9", null ],
-    [ "PrepareSpellScript", "d3/d7a/a24776.html#abc2bcce83810661ab462f56594066df3", null ],
-    [ "Register", "d3/d7a/a24776.html#add6731563bd9a26d8f286bd29ffc8709", null ]
+    [ "PrepareSpellScript", "d3/d7a/a24776.html#a41169895bb29fe136e3fb0c2dd50d9fb", null ],
+    [ "Register", "d3/d7a/a24776.html#ab6a32b26cc0277f71a71b9fd1d567bf1", null ]
 ];

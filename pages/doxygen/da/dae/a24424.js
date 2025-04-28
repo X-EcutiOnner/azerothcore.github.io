@@ -1,7 +1,6 @@
 var a24424 =
 [
-    [ "CorpseExplosionCheck", "da/dae/a24424.html#aa8b7957705df1d878f5123ffa31a7fd7", null ],
-    [ "operator()", "da/dae/a24424.html#aeab379880a8d912d6d0f7b41639edbd4", null ],
-    [ "_allowGhoul", "da/dae/a24424.html#abd42a0731af969ceccdfceae722ba276", null ],
-    [ "_casterGUID", "da/dae/a24424.html#a497df87745f452716c652e9b1be6d46f", null ]
+    [ "PrepareSpellScript", "da/dae/a24424.html#ad6190cf9ab80ebfd982c1b166d950656", null ],
+    [ "Register", "da/dae/a24424.html#a4b349a325759517c35d04202e5df9cec", null ],
+    [ "SetDest", "da/dae/a24424.html#a951f733ab2452655a3b579f8ed190fb0", null ]
 ];

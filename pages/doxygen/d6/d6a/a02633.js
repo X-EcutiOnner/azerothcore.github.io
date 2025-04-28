@@ -1,5 +1,8 @@
 var a02633 =
 [
-    [ "pet_commandscript", "d4/d06/a11677.html", "d4/d06/a11677" ],
-    [ "AddSC_pet_commandscript", "d6/d6a/a02633.html#a9c7b2cae4f7afb6ae0c9ccc623877625", null ]
+    [ "QuestApprenticeAnglerPlayerScript", "df/de6/a27592.html", "df/de6/a27592" ],
+    [ "ApprenticeAnglerQuestEnum", "d6/d6a/a02633.html#a6d8279401bbf1ce28fa9c35fbcf1970c", [
+      [ "QUEST_APPRENTICE_ANGLER", "d6/d6a/a02633.html#a6d8279401bbf1ce28fa9c35fbcf1970cacdd3122055e667091697fd808a284aba", null ]
+    ] ],
+    [ "AddSC_player_scripts", "d6/d6a/a02633.html#a1f476a8466c12651b57fd55bf13b9617", null ]
 ];

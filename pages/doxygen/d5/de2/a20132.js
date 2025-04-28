@@ -1,5 +1,6 @@
 var a20132 =
 [
-    [ "achievement_cheese_the_freeze", "d5/de2/a20132.html#a5ec4c344a0ed203086be2661e4e24f0e", null ],
-    [ "OnCheck", "d5/de2/a20132.html#aaf3342fb3153a4d9223d880c0f2a277a", null ]
+    [ "npc_ulduar_hodir_mageAI", "d6/d0f/a20136.html", "d6/d0f/a20136" ],
+    [ "npc_ulduar_hodir_mage", "d5/de2/a20132.html#afebdd0f99f0c7eaaf0a2d5731335105d", null ],
+    [ "GetAI", "d5/de2/a20132.html#abcbe0337b2a83b6eb0a64f7465d7f79a", null ]
 ];

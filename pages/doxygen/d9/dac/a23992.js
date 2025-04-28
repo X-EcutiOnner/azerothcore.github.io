@@ -1,7 +1,7 @@
 var a23992 =
 [
-    [ "HandleEffectApply", "d9/dac/a23992.html#a362b5b818ab0029956fd22bd10b4b9ac", null ],
-    [ "HandleEffectRemove", "d9/dac/a23992.html#a96769390468dc132df62b5a0ec3a2da4", null ],
-    [ "PrepareAuraScript", "d9/dac/a23992.html#a7bad0d577281829e60c0fb577d6a7d6e", null ],
-    [ "Register", "d9/dac/a23992.html#a95905ec163c42463314a5f5bb023b4d6", null ]
+    [ "npc_kurenai_captiveAI", "d8/d14/a23996.html", "d8/d14/a23996" ],
+    [ "npc_kurenai_captive", "d9/dac/a23992.html#ae0e283bfc476f2d9e602158fa8720cdc", null ],
+    [ "GetAI", "d9/dac/a23992.html#ad6f9abf280ca7c3a1b16f7e4815fb979", null ],
+    [ "OnQuestAccept", "d9/dac/a23992.html#a7ecdb782bf084f3fd0f9dc3e2e10bf4a", null ]
 ];

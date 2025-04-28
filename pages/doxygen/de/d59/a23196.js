@@ -1,6 +1,13 @@
 var a23196 =
 [
-    [ "boss_rokmar_the_crackler", "de/d59/a23196.html#a0aca6a30d045bbea6f434979f4f1d2e9", null ],
-    [ "JustEngagedWith", "de/d59/a23196.html#ae376e6a96fa07136790f3ed04ee1023b", null ],
-    [ "Reset", "de/d59/a23196.html#aed9cf4a866d5e70647125a08885fb809", null ]
+    [ "npc_ahune_bunny", "de/d59/a23196.html#ae28e0d2dbaab082488d5582b75cd8482", null ],
+    [ "DoAction", "de/d59/a23196.html#ad071787c47254f603ba7692889733202", null ],
+    [ "JustDied", "de/d59/a23196.html#a8733a3e495ebf69df4f9d1213df50170", null ],
+    [ "JustSummoned", "de/d59/a23196.html#a2c5c97b497cd15a1453bbd21d279a29b", null ],
+    [ "ResetFlameCallers", "de/d59/a23196.html#a60a74aabbf42116079081134a332a100", null ],
+    [ "UpdateAI", "de/d59/a23196.html#aa8dff40dde7820b1ce4e06c8d27e4ecb", null ],
+    [ "_events", "de/d59/a23196.html#af84154fff16cbdb15586b3b07223e010", null ],
+    [ "_instance", "de/d59/a23196.html#a9be0d062379e5a3dfa19af1eb1a4243e", null ],
+    [ "_submerged", "de/d59/a23196.html#a15fdcc2fda18e118f398ccc055f52942", null ],
+    [ "_summons", "de/d59/a23196.html#a8f9e25f0d8a66b18e887b061592c6950", null ]
 ];

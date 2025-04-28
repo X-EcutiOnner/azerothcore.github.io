@@ -1,8 +1,6 @@
 var a19324 =
 [
-    [ "HandleEffectPeriodic", "da/d3c/a19324.html#abb453e3d38677be7082f2cd4e43134cc", null ],
-    [ "HandleOnEffectApply", "da/d3c/a19324.html#a3ec47d5d9fdbdcfe671e02c3b0f55980", null ],
-    [ "PrepareAuraScript", "da/d3c/a19324.html#ac00c6d9b1cccb38b5d87b3139295614c", null ],
-    [ "Register", "da/d3c/a19324.html#ae4de4f0f2f4dc4ac98706ddd898df7c5", null ],
-    [ "Validate", "da/d3c/a19324.html#a09481646f8ec90b0135d93d83cc18929", null ]
+    [ "npc_oculus_drakeAI", "d8/dec/a19328.html", "d8/dec/a19328" ],
+    [ "npc_oculus_drake", "da/d3c/a19324.html#ad2897dd72e9337af53ef2f043cd07d55", null ],
+    [ "GetAI", "da/d3c/a19324.html#afd2f1678a7faef76a231e4c16bd015e5", null ]
 ];

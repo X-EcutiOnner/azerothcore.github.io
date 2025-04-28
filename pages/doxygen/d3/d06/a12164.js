@@ -1,7 +1,14 @@
 var a12164 =
 [
-    [ "boss_ebonrocAI", "d3/d06/a12164.html#a73be20fda4e3f8cb7623796f3c32d741", null ],
-    [ "JustEngagedWith", "d3/d06/a12164.html#a2c74e0030b1093d79245978939043d53", null ],
-    [ "MovementInform", "d3/d06/a12164.html#ac1e16bb5ac18b55fbfb8af5078df270f", null ],
-    [ "UpdateAI", "d3/d06/a12164.html#aa2059c3834fbcfda3c8da5743bd2501f", null ]
+    [ "boss_chromaggusAI", "d3/d06/a12164.html#a06f811fb8aa0c15e07e8a771ac722056", null ],
+    [ "CanAIAttack", "d3/d06/a12164.html#a4643974601831ced1f6173965009ad20", null ],
+    [ "Initialize", "d3/d06/a12164.html#a0697edb4aa9fb60a0db2ccf54c32dc19", null ],
+    [ "JustEngagedWith", "d3/d06/a12164.html#a66b6f31ebcfdb2fe9adba85311e655bb", null ],
+    [ "PathEndReached", "d3/d06/a12164.html#a2805052cd90212ecb9b5f313f4ecc384", null ],
+    [ "Reset", "d3/d06/a12164.html#aaa72a25326e9c4e1936020a1e6e7b87a", null ],
+    [ "SetGUID", "d3/d06/a12164.html#a9b5889af178418a3750ae84707818cf7", null ],
+    [ "UpdateAI", "d3/d06/a12164.html#a4a120f99c6586fd06af6699bfe913d24", null ],
+    [ "_breathSpells", "d3/d06/a12164.html#a10e18592d163d4be586701de47da48c9", null ],
+    [ "_playerGUID", "d3/d06/a12164.html#a03a7fc87c67b04eb0b1289276023c1b4", null ],
+    [ "Enraged", "d3/d06/a12164.html#acc8b5cfbae8debb22a0493400ec310c4", null ]
 ];

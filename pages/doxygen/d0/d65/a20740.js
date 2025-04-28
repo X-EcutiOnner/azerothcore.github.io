@@ -1,6 +1,6 @@
 var a20740 =
 [
-    [ "boss_yoggsaron_lich_kingAI", "d0/dd1/a20744.html", "d0/dd1/a20744" ],
-    [ "boss_yoggsaron_lich_king", "d0/d65/a20740.html#a1655d608683e90ccafd350204eed2d31", null ],
-    [ "GetAI", "d0/d65/a20740.html#aa65cd9c9eafba12ae065903868ee5319", null ]
+    [ "boss_yoggsaron_death_orbAI", "d0/d65/a20740.html#a6e87b98e89748585a9f28c6f0e3a85e9", null ],
+    [ "UpdateAI", "d0/d65/a20740.html#afde5311434966ff0459dca8ce0d6b8b0", null ],
+    [ "_startTimer", "d0/d65/a20740.html#aebc8edef5f84219e1c50f2394d129443", null ]
 ];

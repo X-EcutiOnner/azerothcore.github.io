@@ -1,6 +1,7 @@
 var a24032 =
 [
-    [ "npc_drake_dealer_hurlunk", "db/d4b/a24032.html#ae6d095365d23c30d5b772b047b459ddb", null ],
-    [ "OnGossipHello", "db/d4b/a24032.html#ad04b7f906f029d9935e29c585b0de421", null ],
-    [ "OnGossipSelect", "db/d4b/a24032.html#aa23833dcdefb909899120c25d5376111", null ]
+    [ "npc_maxx_a_million_escortAI", "df/d27/a24036.html", "df/d27/a24036" ],
+    [ "npc_maxx_a_million_escort", "db/d4b/a24032.html#a958a88b495594dd8e14919d950ac917a", null ],
+    [ "GetAI", "db/d4b/a24032.html#af79619087908d442f503e0b0d633937d", null ],
+    [ "OnQuestAccept", "db/d4b/a24032.html#af3c2f2708702f7d25e712c63a45e69e0", null ]
 ];

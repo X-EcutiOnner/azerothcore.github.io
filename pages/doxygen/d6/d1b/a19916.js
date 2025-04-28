@@ -1,6 +1,6 @@
 var a19916 =
 [
-    [ "boss_freya_iron_rootAI", "d0/d59/a19920.html", "d0/d59/a19920" ],
-    [ "boss_freya_iron_root", "d6/d1b/a19916.html#a9478144d6cb72d08698cbfc50893935b", null ],
-    [ "GetAI", "d6/d1b/a19916.html#acdda736e9259d59a30a40d989e70f95c", null ]
+    [ "CheckCast", "d6/d1b/a19916.html#a866fd47d51b5fc4c07c3733739d07c02", null ],
+    [ "PrepareSpellScript", "d6/d1b/a19916.html#a09cbe962ae1f18811db8c1d32b856c0d", null ],
+    [ "Register", "d6/d1b/a19916.html#a240989af43e5ad6eb81d600a2f1d4769", null ]
 ];

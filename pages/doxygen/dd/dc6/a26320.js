@@ -1,6 +1,6 @@
 var a26320 =
 [
-    [ "HandleEffectPeriodic", "dd/dc6/a26320.html#ab283b40ceb6dcd0a835550531321ce92", null ],
-    [ "PrepareAuraScript", "dd/dc6/a26320.html#a6d6efe0be7cefeb20c386c83dee561d4", null ],
-    [ "Register", "dd/dc6/a26320.html#a4c69f350a68c1f4dd429ab52a791f3cd", null ]
+    [ "HandleEffectApply", "dd/dc6/a26320.html#a111ce5c9e70ed563bc7b9c2ec8e79b76", null ],
+    [ "PrepareAuraScript", "dd/dc6/a26320.html#a707504eccf42af77f6e6e927d208bc8c", null ],
+    [ "Register", "dd/dc6/a26320.html#a7aeaa28997bbe966274a738cf45323ed", null ]
 ];

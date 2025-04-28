@@ -1,8 +1,10 @@
 var a24576 =
 [
-    [ "AfterRemove", "d9/d7d/a24576.html#afdd1575bce3b34da6e3a101eaa695c41", null ],
-    [ "HandleDispel", "d9/d7d/a24576.html#a3c2ffe31074115f6cab5f4b18b05dbc3", null ],
-    [ "PrepareAuraScript", "d9/d7d/a24576.html#a44e66753516d693c31dba27c9d1ad250", null ],
-    [ "Register", "d9/d7d/a24576.html#aa21ecabbf52b457e163f17b3012b0f84", null ],
-    [ "Validate", "d9/d7d/a24576.html#a6af7e5aa16b3c84ed1388e2f62424701", null ]
+    [ "Absorb", "d9/d7d/a24576.html#a5ab2041dcc342b087d8c6fd9b8d2635f", null ],
+    [ "CalculateAmount", "d9/d7d/a24576.html#aed6e525b71f18dafb6f458bc255a6495", null ],
+    [ "Load", "d9/d7d/a24576.html#af73fcf4a73ba60e214c045471569f7b0", null ],
+    [ "PrepareAuraScript", "d9/d7d/a24576.html#a884927612b8ab2712a057da72f8180c6", null ],
+    [ "Register", "d9/d7d/a24576.html#a380b63aec7c567c8db60f4c69a4e6043", null ],
+    [ "Validate", "d9/d7d/a24576.html#af58ba552be9c91e8885ef1ccd567c96a", null ],
+    [ "absorbPct", "d9/d7d/a24576.html#a64e8bcde6ee27dd00e77d7bfa0864e81", null ]
 ];

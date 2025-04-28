@@ -1,13 +1,16 @@
 var a15452 =
 [
-    [ "npc_aquementasAI", "d8/d69/a15452.html#aad63986cdb8a65c528af3ccd114d2041", null ],
-    [ "JustEngagedWith", "d8/d69/a15452.html#a2c12ee9c0bb94a1fcfa23c4279aea72f", null ],
-    [ "Reset", "d8/d69/a15452.html#af71a196ba667c2a8f05940ec7ec43b5e", null ],
-    [ "SendItem", "d8/d69/a15452.html#a60bafbd70783411236dcf3d0bfe244de", null ],
-    [ "UpdateAI", "d8/d69/a15452.html#adc5936d7648e05c98a2cdc9998aa4c6a", null ],
-    [ "AquaJetTimer", "d8/d69/a15452.html#a8506acc69436af869d1404bd95109e68", null ],
-    [ "FrostShockTimer", "d8/d69/a15452.html#ad52c62a0fd8de98b194596dbc998c03d", null ],
-    [ "isFriendly", "d8/d69/a15452.html#a9ac02cfc998bda26a5c531a9f7dbf7c4", null ],
-    [ "SendItemTimer", "d8/d69/a15452.html#a3a0883b43056b176ef2ae55673adacf3", null ],
-    [ "SwitchFactionTimer", "d8/d69/a15452.html#a46f64b9883ae30c3f8d677a3b85a8c6f", null ]
+    [ "npc_anachronos_the_ancientAI", "d8/d69/a15452.html#aad6fbdc3cf33f2deb6dd3cc741e4aec4", null ],
+    [ "HandleAnimation", "d8/d69/a15452.html#a0bd43e2482a12cda79566f761d448109", null ],
+    [ "Reset", "d8/d69/a15452.html#a3bd2380cfd18b14aae1ae72a452299bb", null ],
+    [ "UpdateAI", "d8/d69/a15452.html#a5a55cfec1d204b6657779938e93b6be5", null ],
+    [ "AnachronosQuestTriggerGUID", "d8/d69/a15452.html#aa51b7cdfb2a37310196c81a01f89a7dd", null ],
+    [ "AnimationCount", "d8/d69/a15452.html#a504038880b7e837f63f99d477c8a0bba", null ],
+    [ "AnimationTimer", "d8/d69/a15452.html#a4ca3807429ffa2caca6199ecd66c4015", null ],
+    [ "ArygosGUID", "d8/d69/a15452.html#a4f2917c85d41d3b5015d6eed56fe9e12", null ],
+    [ "CaelestraszGUID", "d8/d69/a15452.html#adceafa1ad19ecb7df59f87b501d4622c", null ],
+    [ "eventEnd", "d8/d69/a15452.html#ad125b9eb7052449a6b75eebde7a192e0", null ],
+    [ "FandralGUID", "d8/d69/a15452.html#a157af7db82bf943c298b63d8294067ce", null ],
+    [ "MerithraGUID", "d8/d69/a15452.html#af7088f79687a4109f5701488e9019aeb", null ],
+    [ "PlayerGUID", "d8/d69/a15452.html#a7e1777ca319e4f6dafc1a035d05dabc0", null ]
 ];

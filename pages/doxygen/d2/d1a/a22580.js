@@ -1,18 +1,17 @@
 var a22580 =
 [
-    [ "npc_akama_illidan", "d2/d1a/a22580.html#ae300c0493c788863d69a7d9f5ab40ff5", null ],
-    [ "DamageTaken", "d2/d1a/a22580.html#a4b95cb3a3502805a915f7c6751ecf70c", null ],
-    [ "DoAction", "d2/d1a/a22580.html#af68f04faaf8a1893a82674cf1f2dd453", null ],
-    [ "JustEngagedWith", "d2/d1a/a22580.html#a8c78b3586673ee9e330272494ee74eab", null ],
-    [ "JustReachedHome", "d2/d1a/a22580.html#a8804c0e0b77673fee6beb3c0cd58be59", null ],
-    [ "JustSummoned", "d2/d1a/a22580.html#a54b185a813a4271eef06173b8109d6cf", null ],
-    [ "KilledUnit", "d2/d1a/a22580.html#a7838b6161a2ea9e0231f142a534de767", null ],
-    [ "MovementInform", "d2/d1a/a22580.html#a32116d23bd508d9791f31fbc257398d0", null ],
-    [ "PathEndReached", "d2/d1a/a22580.html#abd9dd31fe80a96d656c7dafd77564ad0", null ],
-    [ "Reset", "d2/d1a/a22580.html#ac3af6f0ddb0f07a6a254e2c0b3bd3ef0", null ],
-    [ "sGossipSelect", "d2/d1a/a22580.html#a6ab4ddfeaa2448e79577936d87d66398", null ],
-    [ "SummonedCreatureDies", "d2/d1a/a22580.html#a1b4a1bfec1034feccba676b35a3caf93", null ],
-    [ "UpdateAI", "d2/d1a/a22580.html#a3531d35b6d996bde197447e69e50a6fb", null ],
-    [ "instance", "d2/d1a/a22580.html#a752a22acf6eab1d1045cac099b22fe57", null ],
-    [ "summons", "d2/d1a/a22580.html#ab63791d4fd316a47af93a6f93118d331", null ]
+    [ "boss_ambassador_hellmaw", "d2/d1a/a22580.html#ae774dfa4379b7321ff194a796c9eb842", null ],
+    [ "AttackStart", "d2/d1a/a22580.html#aa072ff0e9ce6e68f3ba0b4e51fb92f04", null ],
+    [ "CanAIAttack", "d2/d1a/a22580.html#a35579b31dec1d0c110b459230ee129e4", null ],
+    [ "DoAction", "d2/d1a/a22580.html#a3cbd58fb11fe8d297907bb40d69e4ccb", null ],
+    [ "DoMeleeAttackIfReady", "d2/d1a/a22580.html#a8dd75d368f0f567561db45e1c53ad785", null ],
+    [ "InitializeAI", "d2/d1a/a22580.html#a9b0170a49751def614126265240bb87c", null ],
+    [ "JustDied", "d2/d1a/a22580.html#ae0e04500073a4c02c9656b4bcd63be9c", null ],
+    [ "JustEngagedWith", "d2/d1a/a22580.html#a9ea9d60b8fa90a228951a38fc2f59325", null ],
+    [ "KilledUnit", "d2/d1a/a22580.html#a5f7564ef25a36395cddf4e2c2dbc2dfc", null ],
+    [ "MoveInLineOfSight", "d2/d1a/a22580.html#af3949b46f82863af699396729e88928b", null ],
+    [ "PathEndReached", "d2/d1a/a22580.html#a46b9b96ec5e4c121d994560e85266dfe", null ],
+    [ "Reset", "d2/d1a/a22580.html#a4881f868ac11eb66f3d15b44c94938bf", null ],
+    [ "UpdateAI", "d2/d1a/a22580.html#a44dae5d6517e22dd2be399d08fa67a71", null ],
+    [ "isBanished", "d2/d1a/a22580.html#a4805244997c42f5791400c5b1f5e6204", null ]
 ];

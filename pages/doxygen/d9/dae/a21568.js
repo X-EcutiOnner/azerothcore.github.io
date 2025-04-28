@@ -1,6 +1,5 @@
 var a21568 =
 [
-    [ "npc_conversing_with_the_depths_triggerAI", "d7/d2f/a21572.html", "d7/d2f/a21572" ],
-    [ "npc_conversing_with_the_depths_trigger", "d9/dae/a21568.html#a55ba213da86650d44ea1493b26fdb7f2", null ],
-    [ "GetAI", "d9/dae/a21568.html#a61c337bfe1efb3589cf0df91d9082236", null ]
+    [ "npc_steam_powered_auctioneerAI", "d9/dae/a21568.html#a5ef3dfd385ee3e5a49bd5c0e165103fc", null ],
+    [ "CanBeSeen", "d9/dae/a21568.html#a3352588abda326f7c72d0764a3f53370", null ]
 ];

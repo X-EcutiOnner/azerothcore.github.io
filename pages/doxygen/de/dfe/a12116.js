@@ -1,6 +1,5 @@
 var a12116 =
 [
-    [ "boss_broodlordAI", "db/db7/a12120.html", "db/db7/a12120" ],
-    [ "boss_broodlord", "de/dfe/a12116.html#a936f7eb723111877e2a5e3a85cb95b2b", null ],
-    [ "GetAI", "de/dfe/a12116.html#a5bd506c6f397608ce84496fa0fea2679", null ]
+    [ "go_father_flame", "de/dfe/a12116.html#aa992bd7029a56faca4b92637688fe845", null ],
+    [ "OnLootStateChanged", "de/dfe/a12116.html#a84c7055e791a3dac66b75d327c7662c3", null ]
 ];

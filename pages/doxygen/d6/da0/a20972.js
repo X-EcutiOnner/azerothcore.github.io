@@ -1,14 +1,7 @@
 var a20972 =
 [
-    [ "npc_massive_jormungarAI", "d6/da0/a20972.html#aa0b9acaec1aab155f7e4442d12d40c3e", null ],
-    [ "DoAction", "d6/da0/a20972.html#a8084994ba056c907b2e487568fa7502a", null ],
-    [ "JustDied", "d6/da0/a20972.html#a02b4e75227811250e2210f754e6e04f2", null ],
-    [ "JustEngagedWith", "d6/da0/a20972.html#a93769dbb2f7d2136e5ab2603927a5f12", null ],
-    [ "JustReachedHome", "d6/da0/a20972.html#a8ea0fe40cb4b113abadc091ab8085636", null ],
-    [ "MoveInLineOfSight", "d6/da0/a20972.html#a55c817111fab479c3abcfca8942f16e8", null ],
-    [ "Reset", "d6/da0/a20972.html#aca0d8ebe3b47a075a8b87666c0207620", null ],
-    [ "UpdateAI", "d6/da0/a20972.html#a9201c4cdf74d55bb3cde52eb265aa3d9", null ],
-    [ "events", "d6/da0/a20972.html#a92334b8178317a91a7d4336096d75f33", null ],
-    [ "m_pInstance", "d6/da0/a20972.html#ad50a9852370798817fda318f71f27653", null ],
-    [ "summons", "d6/da0/a20972.html#acfa84efc38b994706015e6d82fe1f653", null ]
+    [ "npc_frost_tomb", "d6/da0/a20972.html#a9c7abe1dc25b807d34f1ed818ab639ef", null ],
+    [ "JustDied", "d6/da0/a20972.html#a40a14647eaf9f2c5bd11c094f0aadb79", null ],
+    [ "UpdateAI", "d6/da0/a20972.html#af2122e9c8cb206151f631659c7d167da", null ],
+    [ "PrisonerGUID", "d6/da0/a20972.html#a456fcd5dd3f504954a74fc068f253dc2", null ]
 ];

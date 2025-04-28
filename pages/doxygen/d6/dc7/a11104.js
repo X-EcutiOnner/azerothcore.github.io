@@ -1,8 +1,6 @@
 var a11104 =
 [
-    [ "DirectionType", "d6/dc7/a11104.html#a8491033c0286895c2d4d3280cfd529f0", null ],
-    [ "ObjectType", "d6/dc7/a11104.html#a20c29be1005aa52993d4ec0a13c36f4d", null ],
-    [ "ReferenceType", "d6/dc7/a11104.html#a44e310a789c4c5a288f07c9254ad389a", null ],
-    [ "SelectionCategory", "d6/dc7/a11104.html#a4a42ef329b6cfcfcd7fd4ce59e8f597c", null ],
-    [ "SelectionCheckType", "d6/dc7/a11104.html#a35c8d221b47de13408a0256598fa9d63", null ]
+    [ "WorldObjectSpellConeTargetCheck", "d6/dc7/a11104.html#a51fa6de40d065bd7ba52f4dc982f9a5e", null ],
+    [ "operator()", "d6/dc7/a11104.html#ac66207a4d1dbc9f59269127ee91f0657", null ],
+    [ "_coneAngle", "d6/dc7/a11104.html#a8f946789292320ea8b205dec5d1e1975", null ]
 ];

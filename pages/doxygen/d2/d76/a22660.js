@@ -1,10 +1,9 @@
 var a22660 =
 [
-    [ "boss_illidari_council", "d2/d76/a22660.html#a078c36be39b377f6d1cdbf061d70270d", null ],
-    [ "AttackStart", "d2/d76/a22660.html#a260b15ec58164f17543aa044a89875a8", null ],
-    [ "DamageTaken", "d2/d76/a22660.html#af8e88c307efaba392cc2a1d2f3862078", null ],
-    [ "DoAction", "d2/d76/a22660.html#a6c3c57523ed2775ba553af1171b46463", null ],
-    [ "EnterEvadeMode", "d2/d76/a22660.html#a7dd21784b8f9a0eac17d56215c24028e", null ],
-    [ "MoveInLineOfSight", "d2/d76/a22660.html#a19ed88ab049e1323f529e0880af0a9dd", null ],
-    [ "UpdateAI", "d2/d76/a22660.html#a8b30df956aa4ce1727756f1d19e151be", null ]
+    [ "npc_flame_of_azzinoth", "d2/d76/a22660.html#acdeb046c2214bd449257ba1b932c8a5c", null ],
+    [ "IsSummonedBy", "d2/d76/a22660.html#a5254057af0371a08ea01fe91502c2a20", null ],
+    [ "JustEngagedWith", "d2/d76/a22660.html#a24eba1a6cdea4971573a6f4b2dd34fb3", null ],
+    [ "JustSummoned", "d2/d76/a22660.html#ad2e7085fcd985a08cc2e317485a8fff1", null ],
+    [ "UpdateAI", "d2/d76/a22660.html#a7a1c9b967e6a79721dea8cbca44cbb5b", null ],
+    [ "_bladeGUID", "d2/d76/a22660.html#ae797d929b0e9c8953a4c9efd392a21f3", null ]
 ];

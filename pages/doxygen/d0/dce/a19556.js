@@ -1,6 +1,7 @@
 var a19556 =
 [
-    [ "npc_algalon_worm_holeAI", "d2/db3/a19560.html", "d2/db3/a19560" ],
-    [ "npc_algalon_worm_hole", "d0/dce/a19556.html#a72516a4824fa61a331caff46d2784c64", null ],
-    [ "GetAI", "d0/dce/a19556.html#aac6ff3a41f08f5a11baa78c0526a3556", null ]
+    [ "HandleEffectRemove", "d0/dce/a19556.html#af61220cb739baef9b33aecddb1cfe5ea", null ],
+    [ "PrepareAuraScript", "d0/dce/a19556.html#ad8035b1b676751fcc299e4ad8df62ed8", null ],
+    [ "Register", "d0/dce/a19556.html#abe52dbfdbd42c860e0a79873dd19e22d", null ],
+    [ "Validate", "d0/dce/a19556.html#a7c4f9df92b501720e30372fa9e9dbad7", null ]
 ];

@@ -1,9 +1,6 @@
 var a20348 =
 [
-    [ "npc_ulduar_emergency_fire_botAI", "d3/dc3/a20348.html#a98ad3308b0fa56847ce6f5583bdfaba9", null ],
-    [ "AttackStart", "d3/dc3/a20348.html#aa18e89f63e98112efeb69328f8fdc296", null ],
-    [ "MoveInLineOfSight", "d3/dc3/a20348.html#a6384437fff9349df0cfa5053b37313ea", null ],
-    [ "MovementInform", "d3/dc3/a20348.html#a2f7d5b821ea4bf80bd01d469859f6fb6", null ],
-    [ "UpdateAI", "d3/dc3/a20348.html#a71d24eb5cea764011249b8ff78c3ed6c", null ],
-    [ "events", "d3/dc3/a20348.html#a5099c03b3ab1eb437ea11a0c4e8650f1", null ]
+    [ "npc_ulduar_mimiron_rocketAI", "d7/d46/a20352.html", "d7/d46/a20352" ],
+    [ "npc_ulduar_mimiron_rocket", "d3/dc3/a20348.html#afcd90dbd893ec5e8424eb4197e7dec6d", null ],
+    [ "GetAI", "d3/dc3/a20348.html#ad1c6162db0f69a1a6b5016ae505e5535", null ]
 ];

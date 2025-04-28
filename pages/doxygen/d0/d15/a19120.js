@@ -1,6 +1,5 @@
 var a19120 =
 [
-    [ "npc_alexstraszaAI", "d9/d68/a19124.html", "d9/d68/a19124" ],
-    [ "npc_alexstrasza", "d0/d15/a19120.html#aa28858e8368031c2882e7e3c1c5968dd", null ],
-    [ "GetAI", "d0/d15/a19120.html#ad155ccc4f7bca786229ee015d365e3ce", null ]
+    [ "at_naxxramas_hub_portal", "d0/d15/a19120.html#a946086e8a4651240b84526a1b2d54065", null ],
+    [ "OnTrigger", "d0/d15/a19120.html#af967b0f61b3257c8b8d802d4ed3af1da", null ]
 ];

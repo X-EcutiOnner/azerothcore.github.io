@@ -1,7 +1,8 @@
 var a28132 =
 [
-    [ "Id", "d7/d23/a28132.html#a5e2447dd0f6b60e322105d8fcafd0010", null ],
-    [ "MaxLevel", "d7/d23/a28132.html#a0392e52a26bb4e1d1927fa7f76c674b8", null ],
-    [ "Modifier", "d7/d23/a28132.html#a5ce5b18749d3c75878b310bdc8427b1f", null ],
-    [ "StatMod", "d7/d23/a28132.html#ab639dd94c53707ca160e13f71342730d", null ]
+    [ "Id", "d7/d23/a28132.html#a6943bf760d15b3f8af4109d131652d72", null ],
+    [ "MapId", "d7/d23/a28132.html#ab0cccd760636a3b42af693d6c483bed9", null ],
+    [ "X", "d7/d23/a28132.html#a91183890254546efeb3162173cc60dad", null ],
+    [ "Y", "d7/d23/a28132.html#a19ab4d026b45d74f006479641afbc4d3", null ],
+    [ "Z", "d7/d23/a28132.html#aaa23c59f20fc96aec148b82516f30036", null ]
 ];

@@ -1,6 +1,6 @@
 var a25468 =
 [
-    [ "HandleSummon", "d5/d6c/a25468.html#ad1ee0eb347454d50216610a266226d68", null ],
-    [ "PrepareSpellScript", "d5/d6c/a25468.html#a15a545ee3ec4a926f1330ce0ad975d3e", null ],
-    [ "Register", "d5/d6c/a25468.html#aa145041af68291f107c3ff11ce15b85e", null ]
+    [ "HandleDummy", "d5/d6c/a25468.html#a8b9510efa5af25ef698fc6eb49b19b69", null ],
+    [ "PrepareSpellScript", "d5/d6c/a25468.html#a80b89fbd2506191b897dcf367ff11500", null ],
+    [ "Register", "d5/d6c/a25468.html#a522730e5ba844728c0b3d6f423cd123a", null ]
 ];

@@ -1,6 +1,6 @@
 var a15384 =
 [
-    [ "Creature", "d1/d75/a15384.html#a77b33f8998f85808b58052079b1cab54", null ],
-    [ "TextId", "d1/d75/a15384.html#ad691f3cd40035e96547adf7528229119", null ],
-    [ "Timer", "d1/d75/a15384.html#accfccceaedffb3ad4d02231fb0bfeee5", null ]
+    [ "npc_bunthen_plainswind", "d1/d75/a15384.html#ad9b789ad3e958dee4733b142813b6302", null ],
+    [ "OnGossipHello", "d1/d75/a15384.html#ae2fe8bfb957dd8ea84d2585293c3b6eb", null ],
+    [ "OnGossipSelect", "d1/d75/a15384.html#a117f28d513ac645b9d3d908d052d2146", null ]
 ];

@@ -1,6 +1,7 @@
 var a17604 =
 [
-    [ "npc_vengeful_shadeAI", "d3/d40/a17608.html", "d3/d40/a17608" ],
-    [ "npc_vengeful_shade", "d8/d90/a17604.html#a99c535efd94fbd5bded8fd9555bb6eaf", null ],
-    [ "GetAI", "d8/d90/a17604.html#afa2c672015b43d83bd55050ed020f7e5", null ]
+    [ "HandleScript", "d8/d90/a17604.html#ae3e8d811d3ad6561768dfff3a16ec9bd", null ],
+    [ "PrepareSpellScript", "d8/d90/a17604.html#ab69926839f72ee76eba2b225aba9690c", null ],
+    [ "Register", "d8/d90/a17604.html#aad8925e891d7537993f02f3bc2552fea", null ],
+    [ "SelectRandomTarget", "d8/d90/a17604.html#aae77f6693a3e5d01e3d05cb990fd1fe5", null ]
 ];

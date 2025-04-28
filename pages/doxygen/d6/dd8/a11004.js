@@ -1,5 +1,5 @@
 var a11004 =
 [
-    [ "AbsorbAuraOrderPred", "d6/dd8/a11004.html#a30283854715c90496e14d260f913f5fa", null ],
-    [ "operator()", "d6/dd8/a11004.html#a8f705a8b053ef6ff2e2827b4c7f9c643", null ]
+    [ "SocketAdded", "d6/dd8/a11004.html#a89b23aa46aca3772ad0c0f36f41db537", null ],
+    [ "SocketRemoved", "d6/dd8/a11004.html#a4f4ec084812a4191a477f7fa9223fa6e", null ]
 ];

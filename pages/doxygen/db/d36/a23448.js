@@ -1,7 +1,6 @@
 var a23448 =
 [
-    [ "HandleDummyApply", "db/d36/a23448.html#a8a982bbbda94a2cf981c845161f05bdc", null ],
-    [ "HandleDummyRemove", "db/d36/a23448.html#a5d68d9e15600119deca7179ffe00acda", null ],
-    [ "PrepareAuraScript", "db/d36/a23448.html#a34d09e48b69d32dae6c127fa0837be4b", null ],
-    [ "Register", "db/d36/a23448.html#a094004ccf6b4cae4d27bca639b76b899", null ]
+    [ "instance_blood_furnace_InstanceMapScript", "d3/d4d/a23452.html", "d3/d4d/a23452" ],
+    [ "instance_blood_furnace", "db/d36/a23448.html#a925a045fa518e72c1eff02fe3c66202b", null ],
+    [ "GetInstanceScript", "db/d36/a23448.html#a885ba94e1777dfd6586daca304622d3d", null ]
 ];

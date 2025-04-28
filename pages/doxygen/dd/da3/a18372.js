@@ -1,8 +1,6 @@
 var a18372 =
 [
-    [ "npc_blistering_zombieAI", "dd/da3/a18372.html#acf278cd2249ac45a4b043427ba36b3ce", null ],
-    [ "DamageTaken", "dd/da3/a18372.html#adf031992078214f90d859df2b54aac91", null ],
-    [ "UpdateAI", "dd/da3/a18372.html#ae081898b8dcaf45cd3069e79021de452", null ],
-    [ "casted", "dd/da3/a18372.html#a0f70f5d58ef0bb20f64b0aec4df04905", null ],
-    [ "timer", "dd/da3/a18372.html#a8b865c2a87b1fc020d8250767febab0a", null ]
+    [ "npc_the_lich_king_controllerAI", "dd/de2/a18376.html", "dd/de2/a18376" ],
+    [ "npc_the_lich_king_controller", "dd/da3/a18372.html#a32b14d699737497ba7c90d8ef17557d7", null ],
+    [ "GetAI", "dd/da3/a18372.html#ae9b6dacb0f4e8e6f12f187ab0dfd2165", null ]
 ];

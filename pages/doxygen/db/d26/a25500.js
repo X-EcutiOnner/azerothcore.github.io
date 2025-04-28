@@ -1,6 +1,6 @@
 var a25500 =
 [
-    [ "CalculateAmount", "db/d26/a25500.html#ad80edf403addb2d907d0d3d778b6745f", null ],
-    [ "PrepareAuraScript", "db/d26/a25500.html#a96c2e2cdd259d96bb7aa12eb42856cf4", null ],
-    [ "Register", "db/d26/a25500.html#a538ab0fdebbafa3c96183f639fe8968b", null ]
+    [ "PrepareSpellScript", "db/d26/a25500.html#a72e57e8a4bdb9a4fcd73e3519b6025ea", null ],
+    [ "Register", "db/d26/a25500.html#aac4d3c8ecde3652c65c05abad5c8eaeb", null ],
+    [ "SelectTarget", "db/d26/a25500.html#a3153b6c6814922cd7220e19b06f2a602", null ]
 ];

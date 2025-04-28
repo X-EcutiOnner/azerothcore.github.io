@@ -1,13 +1,12 @@
 var a16784 =
 [
-    [ "npc_hor_leader_secondAI", "d6/d6f/a16784.html#a54a5094dc533755efc249ebc96663b62", null ],
-    [ "DamageTaken", "d6/d6f/a16784.html#ae534779315b04b3dde495b13a1cb28e4", null ],
-    [ "DoAction", "d6/d6f/a16784.html#a4185259006017e85fade721796851dd0", null ],
-    [ "MovementInform", "d6/d6f/a16784.html#afe93165a3e96496b52a2be8de5022164", null ],
-    [ "MoveToNextStopPoint", "d6/d6f/a16784.html#a6d9f65386d6f40a5cf96b09ecaf54871", null ],
-    [ "Reset", "d6/d6f/a16784.html#ae5d125deab31e6425e94b4523d8251eb", null ],
-    [ "UpdateAI", "d6/d6f/a16784.html#ae991e18a6729a1b088c60060802c01c2", null ],
-    [ "currentStopPoint", "d6/d6f/a16784.html#ae4bf31530e701f9e0aa4f253452f9881", null ],
-    [ "events", "d6/d6f/a16784.html#a3510e246908f4e5b758e05ca06a29e47", null ],
-    [ "pInstance", "d6/d6f/a16784.html#a32cebea12e13c87b45dd2a4c6cf495e5", null ]
+    [ "npc_shadowy_mercenaryAI", "d6/d6f/a16784.html#ac631624615653a4f82ecfae2aa418455", null ],
+    [ "AttackStart", "d6/d6f/a16784.html#a001fa53e29cf8a20ed2e3312058ceb0a", null ],
+    [ "DoAction", "d6/d6f/a16784.html#a62f4e98e1dadfa0a2aeea43af9d26234", null ],
+    [ "EnterEvadeMode", "d6/d6f/a16784.html#a31a9ddf038046534fad1d41afcf76548", null ],
+    [ "JustDied", "d6/d6f/a16784.html#a33e576c92d1b10492cb6e65000ca8198", null ],
+    [ "JustEngagedWith", "d6/d6f/a16784.html#ae12ade5e863a0022ea99620f354ca51b", null ],
+    [ "Reset", "d6/d6f/a16784.html#afad174f812e2aadf6db86703a46f61d2", null ],
+    [ "UpdateAI", "d6/d6f/a16784.html#a7a0238f32aa0d608b9d883db5f170052", null ],
+    [ "events", "d6/d6f/a16784.html#a4c6e5a49dc4364477187a0189a166578", null ]
 ];

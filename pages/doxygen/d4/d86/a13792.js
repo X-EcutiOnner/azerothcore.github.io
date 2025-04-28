@@ -1,12 +1,14 @@
 var a13792 =
 [
-    [ "npc_zulian_prowlerAI", "d4/d86/a13792.html#a367613efead335b060173011267ddcff", null ],
-    [ "JustDied", "d4/d86/a13792.html#a31258aadddfbf6c6e9e1d729452dd8b2", null ],
-    [ "JustEngagedWith", "d4/d86/a13792.html#a207504b15ecd22b78088593b80433581", null ],
-    [ "Reset", "d4/d86/a13792.html#a62d14bae970d8a70a997c683e0e94259", null ],
-    [ "SpellHit", "d4/d86/a13792.html#a4051cd786d8c1974cf80c28f907cc02a", null ],
-    [ "UpdateAI", "d4/d86/a13792.html#a708df3a95395f99f6ba3eebcc90a22ab", null ],
-    [ "_events", "d4/d86/a13792.html#a994ae5b4e72429141155d1342830e5ad", null ],
-    [ "_instance", "d4/d86/a13792.html#ad37ba6b6ff7f52a88d2a96dc4ea00c34", null ],
-    [ "_sideData", "d4/d86/a13792.html#afa44e09c5677c2fc567be6a67b766bde", null ]
+    [ "npc_harrison_jones", "d4/d86/a13792.html#ae408c9533166f8919c121053a3efff6c", null ],
+    [ "DoAction", "d4/d86/a13792.html#a2ecf8a9f807e879530ee6a094475e67b", null ],
+    [ "JustEngagedWith", "d4/d86/a13792.html#a884e5973ed597eeeb606f5b8a2b1c028", null ],
+    [ "MovementInform", "d4/d86/a13792.html#a5ee27ccc1aea33ecc8aee5b703e05174", null ],
+    [ "OpenMassiveGateAndCallGuards", "d4/d86/a13792.html#a8f15098ad66e2d13ddfababc2ad2e33b", null ],
+    [ "Reset", "d4/d86/a13792.html#a11b1b2da283ddaa475f3f42534702f5b", null ],
+    [ "sGossipSelect", "d4/d86/a13792.html#ae56b80041fa198063a9ce87729142420", null ],
+    [ "SpellHit", "d4/d86/a13792.html#ad3ead59986b9340529bb6c6f42dbc137", null ],
+    [ "UpdateAI", "d4/d86/a13792.html#a0c64f294257e98522e0f32171aee6080", null ],
+    [ "_instance", "d4/d86/a13792.html#adb995a4b18607a5bd7555ce6989c2525", null ],
+    [ "_phase", "d4/d86/a13792.html#a1620b4f7407aa49c3e16876148c49ba7", null ]
 ];

@@ -1,8 +1,7 @@
 var a18536 =
 [
-    [ "npc_arthas_teleport_visualAI", "d4/d08/a18536.html#a9b9b2ba725cde9aec898244a9e50c394", null ],
-    [ "Reset", "d4/d08/a18536.html#a27155b8880a2a86b733bcd074e977b59", null ],
-    [ "UpdateAI", "d4/d08/a18536.html#a23c200f2c7b9f5d02bed7af37bc69c33", null ],
-    [ "_events", "d4/d08/a18536.html#a986f19145e46f5975f22a84a3e1b10ee", null ],
-    [ "_instance", "d4/d08/a18536.html#a25bc023e061a0845421a652b571a6e1e", null ]
+    [ "npc_captain_arnathAI", "d4/d08/a18536.html#a34e3d17b89010569bf7e9cb28361c2af", null ],
+    [ "FindFriendlyCreature", "d4/d08/a18536.html#ad6411d2a87d2552bea2051f80ca16e14", null ],
+    [ "Reset", "d4/d08/a18536.html#a016fbe51f31e1c5ec1636e8d20d8cb30", null ],
+    [ "UpdateAI", "d4/d08/a18536.html#a020efd7adc0d60152007906e3229988d", null ]
 ];

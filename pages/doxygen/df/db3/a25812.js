@@ -1,7 +1,6 @@
 var a25812 =
 [
-    [ "CheckProc", "df/db3/a25812.html#a325336c96dad74ec221c07817222fee1", null ],
-    [ "HandleProc", "df/db3/a25812.html#a35a1ce56b84b2d8017dbaba626660d70", null ],
-    [ "PrepareAuraScript", "df/db3/a25812.html#a30f6dd531d4316b4bbb3297af2c17e2e", null ],
-    [ "Register", "df/db3/a25812.html#a6c86a4cf273d90086c4ebdbcaa6b6632", null ]
+    [ "CheckCast", "df/db3/a25812.html#a14bd28450fb989b1deb1854e2118cb6b", null ],
+    [ "PrepareSpellScript", "df/db3/a25812.html#a2a53af0cc911e1a68b365d692df1f0af", null ],
+    [ "Register", "df/db3/a25812.html#a67c43c4dabfb72ca54c160228b4b21c0", null ]
 ];

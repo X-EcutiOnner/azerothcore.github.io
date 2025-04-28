@@ -1,6 +1,9 @@
 var a23796 =
 [
-    [ "npc_deaths_door_fell_cannon_target_bunnyAI", "d4/d88/a23800.html", "d4/d88/a23800" ],
-    [ "npc_deaths_door_fell_cannon_target_bunny", "db/d28/a23796.html#a1385e50777282fae0c8f8ca2f9f8a3e6", null ],
-    [ "GetAI", "db/d28/a23796.html#a250707096229da28024960beeb7725bf", null ]
+    [ "boss_void_reaver", "db/d28/a23796.html#aa6373ef5b27255eca4d85345ae5fa729", null ],
+    [ "JustDied", "db/d28/a23796.html#a49e6f52b11177bdac07adff92c2675f5", null ],
+    [ "JustEngagedWith", "db/d28/a23796.html#a9260d05e11f4dec6fc25432a0524706b", null ],
+    [ "KilledUnit", "db/d28/a23796.html#adc234fc43308771a42d99049876cad1b", null ],
+    [ "Reset", "db/d28/a23796.html#a02c36ea960de24991f879943991a93c6", null ],
+    [ "_recentlySpoken", "db/d28/a23796.html#adc1bb9a6a3340f157c3ffcbd7dcd71ac", null ]
 ];

@@ -1,6 +1,6 @@
 var a16796 =
 [
-    [ "npc_hor_risen_witch_doctorAI", "d1/dee/a16800.html", "d1/dee/a16800" ],
-    [ "npc_hor_risen_witch_doctor", "df/da4/a16796.html#add06a10c9b4342b136b5cab49338b095", null ],
-    [ "GetAI", "df/da4/a16796.html#a055a8d29d8e6a58b92968ed1c39c1b1d", null ]
+    [ "npc_tortured_riflemanAI", "d1/dee/a16800.html", "d1/dee/a16800" ],
+    [ "npc_tortured_rifleman", "df/da4/a16796.html#a32e4164864c3873b3684ad531a2e924a", null ],
+    [ "GetAI", "df/da4/a16796.html#aaef71feb7077c561eb2bcf7d4fc411c7", null ]
 ];

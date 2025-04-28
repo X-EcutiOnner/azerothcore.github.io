@@ -1,10 +1,6 @@
 var a14672 =
 [
-    [ "boss_aeonus", "db/d19/a14672.html#af823ef2187b852dc72d2f63020e1701b", null ],
-    [ "IsSummonedBy", "db/d19/a14672.html#a5f95e19dfec210d4da1f1f48145ff047", null ],
-    [ "JustDied", "db/d19/a14672.html#a649275c31e61f542a13fd791ee85277b", null ],
-    [ "JustEngagedWith", "db/d19/a14672.html#a5f193144e36a889630d5dbadb4aa665f", null ],
-    [ "JustReachedHome", "db/d19/a14672.html#a62df4db3ead6f9be5c3ead974613c8d5", null ],
-    [ "KilledUnit", "db/d19/a14672.html#a4aa2f3d82aaaf5cd3a938ad92aad059d", null ],
-    [ "MoveInLineOfSight", "db/d19/a14672.html#a3147774fa5bff34d01947fdcf254ba7b", null ]
+    [ "npc_cos_stratholme_citizienAI", "d3/df0/a14676.html", "d3/df0/a14676" ],
+    [ "npc_cos_stratholme_citizien", "db/d19/a14672.html#a92f8d88ecfa9cc47d6799107e5de0107", null ],
+    [ "GetAI", "db/d19/a14672.html#a4f5f132b903241021a4e53dd60c0f43b", null ]
 ];

@@ -1,6 +1,6 @@
 var a18860 =
 [
-    [ "npc_boss_gothik_minionAI", "df/d4f/a18864.html", "df/d4f/a18864" ],
-    [ "npc_boss_gothik_minion", "d0/db9/a18860.html#a6cabeae812639ac179133245d85a0e15", null ],
-    [ "GetAI", "d0/db9/a18860.html#a8abb1ec265f9eeb646a858bee06cfb92", null ]
+    [ "boss_anubrekhanAI", "df/d4f/a18864.html", "df/d4f/a18864" ],
+    [ "boss_anubrekhan", "d0/db9/a18860.html#a6ff866300f8b0b58d4b7467def9747c0", null ],
+    [ "GetAI", "d0/db9/a18860.html#aba5c31f182d6f600302f84ed21e9f7e9", null ]
 ];

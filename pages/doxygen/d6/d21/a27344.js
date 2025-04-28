@@ -1,11 +1,6 @@
 var a27344 =
 [
-    [ "npc_franklinAI", "d6/d21/a27344.html#a8385d2e39f2d051553cf84a54f3bc5ad", null ],
-    [ "DamageTaken", "d6/d21/a27344.html#afa494098126ce3291e234cfc2b36336f", null ],
-    [ "JustEngagedWith", "d6/d21/a27344.html#ab15fc7bcd912a6c583d4c219ba37c756", null ],
-    [ "Reset", "d6/d21/a27344.html#a51a260460facf06ec6bb1486f434d885", null ],
-    [ "ScheduleEncounterStart", "d6/d21/a27344.html#a2dcd6d0467eada6bd0d244e275c07d22", null ],
-    [ "SpellHit", "d6/d21/a27344.html#aed6b5cfccbbe258f501b2da5c9dadb40", null ],
-    [ "UpdateAI", "d6/d21/a27344.html#a8c3158b1e6c482dd82a6326954b8bbc5", null ],
-    [ "events", "d6/d21/a27344.html#a2f72f9659aa62f80c5d8159df0d14e9f", null ]
+    [ "npc_innkeeper", "d6/d21/a27344.html#a006f27d898ead8827d8b98d8b93d430d", null ],
+    [ "OnGossipHello", "d6/d21/a27344.html#ae65c5cd7d3e270b2e50f80c0e12a72ff", null ],
+    [ "OnGossipSelect", "d6/d21/a27344.html#ab6cf511f5b032050336a77d1e4598dda", null ]
 ];

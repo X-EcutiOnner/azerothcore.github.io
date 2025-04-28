@@ -1,5 +1,6 @@
 var a04061 =
 [
-    [ "OutdoorPvP_terokkar_forest", "dc/de7/a22465.html", "dc/de7/a22465" ],
-    [ "AddSC_outdoorpvp_tf", "d7/dfc/a04061.html#a6df553c8dd6e9b81e83110e7beab3646", null ]
+    [ "Acore::BroadcastTextBuilder", "d1/d5a/a11328.html", "d1/d5a/a11328" ],
+    [ "Acore::CustomChatTextBuilder", "d4/dc4/a11332.html", "d4/dc4/a11332" ],
+    [ "Acore::AcoreStringChatBuilder", "df/dd3/a11336.html", "df/dd3/a11336" ]
 ];

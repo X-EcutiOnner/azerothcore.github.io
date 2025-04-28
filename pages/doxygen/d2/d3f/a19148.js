@@ -1,6 +1,6 @@
 var a19148 =
 [
-    [ "instance_eye_of_eternity_InstanceMapScript", "dd/d0d/a19152.html", "dd/d0d/a19152" ],
-    [ "instance_eye_of_eternity", "d2/d3f/a19148.html#afcab4ba969d0423871a4e398627a323d", null ],
-    [ "GetInstanceScript", "d2/d3f/a19148.html#af51319609d355fe87a77a87eb697f434", null ]
+    [ "npc_nexus_lordAI", "dd/d0d/a19152.html", "dd/d0d/a19152" ],
+    [ "npc_nexus_lord", "d2/d3f/a19148.html#a6e58f0074451dfd04b95b3ecaa0201e3", null ],
+    [ "GetAI", "d2/d3f/a19148.html#a1cea0b189b2ef8e932b51caf3d70d6ba", null ]
 ];

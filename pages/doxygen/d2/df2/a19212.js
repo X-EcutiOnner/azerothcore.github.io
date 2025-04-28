@@ -1,13 +1,14 @@
 var a19212 =
 [
-    [ "npc_crystalline_frayer", "d2/df2/a19212.html#ade88d8f4d4fd32155b87dfba75084f4c", null ],
-    [ "DamageTaken", "d2/df2/a19212.html#a2580575a58353e8cb94561bafd74f502", null ],
-    [ "EnterEvadeMode", "d2/df2/a19212.html#a9240adcfe966f11c925db82add432aa5", null ],
-    [ "JustEngagedWith", "d2/df2/a19212.html#a91e8c4015b9b238fd2144999bcef9362", null ],
-    [ "Reset", "d2/df2/a19212.html#a5baa6491ee0205b2b2e7bc8e6cd9a163", null ],
-    [ "UpdateAI", "d2/df2/a19212.html#ab494a601b9a5dc3d4c3c303bc4de3a94", null ],
-    [ "_allowDeath", "d2/df2/a19212.html#adc85054030146067d2cff47db2886a07", null ],
-    [ "abilityTimer1", "d2/df2/a19212.html#ae4a140cd9fccecea24982d7aa90c6bf0", null ],
-    [ "abilityTimer2", "d2/df2/a19212.html#a6d2bf3e1cc05860eb6a7706102438f32", null ],
-    [ "restoreTimer", "d2/df2/a19212.html#a5ab2990b41f485417af6272194035fc3", null ]
+    [ "boss_anomalus", "d2/df2/a19212.html#aa4dd8fac7c360beb834382f624ed2246", null ],
+    [ "CheckEvadeIfOutOfCombatArea", "d2/df2/a19212.html#ada0735330bff29a8c04706c980e6bbfc", null ],
+    [ "GetData", "d2/df2/a19212.html#ad48aebb50cda7ee621f71803669f04c2", null ],
+    [ "JustDied", "d2/df2/a19212.html#a41e257481921a122dba30348559e05fb", null ],
+    [ "JustEngagedWith", "d2/df2/a19212.html#a7224e8cf6e849d7115f88c7198fdb023", null ],
+    [ "JustSummoned", "d2/df2/a19212.html#a3c0413f30d96268cab724856334e61ee", null ],
+    [ "Reset", "d2/df2/a19212.html#a80bec5060c1b6747f2b418b90bcc18eb", null ],
+    [ "SetData", "d2/df2/a19212.html#aa79ec9829862b573cd0f38f965d737e8", null ],
+    [ "UpdateAI", "d2/df2/a19212.html#a5d3d77b49e256e09bbb613e810dfc60b", null ],
+    [ "achievement", "d2/df2/a19212.html#a2db4d6d2d6a19642607560e93ae8bd77", null ],
+    [ "activeRifts", "d2/df2/a19212.html#ac7632bd47c4d64ac032fd066138f22cf", null ]
 ];

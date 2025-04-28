@@ -1,11 +1,6 @@
 var a23784 =
 [
-    [ "boss_pathaleon_the_calculator", "d9/d3f/a23784.html#a679dc3ccc23c6def44e0f0669822e146", null ],
-    [ "CanAIAttack", "d9/d3f/a23784.html#abcbb5f1236ebfbec680241ae8c5cbb00", null ],
-    [ "DoAction", "d9/d3f/a23784.html#a814cb56cc18277cb4adbd7dc8a82b06d", null ],
-    [ "JustDied", "d9/d3f/a23784.html#a0224d47bc85fe54c0cfded69b55e57b3", null ],
-    [ "JustEngagedWith", "d9/d3f/a23784.html#a3ba024e86ceb83ebb26afcc11a75791d", null ],
-    [ "KilledUnit", "d9/d3f/a23784.html#a899fd2e1e01ac1347e43bcb290babc5b", null ],
-    [ "Reset", "d9/d3f/a23784.html#adc48067c3656bf768c3013ff266565c0", null ],
-    [ "_isEnraged", "d9/d3f/a23784.html#ab875fb787d71eaf008b7267c81a2a4df", null ]
+    [ "FilterTargets", "d9/d3f/a23784.html#a0b0a4e033a1410a5b0def33cf87c853c", null ],
+    [ "PrepareSpellScript", "d9/d3f/a23784.html#afa186c0b0728e3462f8984189613f9a7", null ],
+    [ "Register", "d9/d3f/a23784.html#a14aafc65b554c0ada5684c46ae1f57c8", null ]
 ];

@@ -1,6 +1,7 @@
 var a14932 =
 [
-    [ "FilterTargets", "de/d84/a14932.html#a8fa6932a6cf291d8ab40140b171e1c17", null ],
-    [ "PrepareSpellScript", "de/d84/a14932.html#a5e93e2cb92db31be03703ab2e5d082cd", null ],
-    [ "Register", "de/d84/a14932.html#a0e3a6fd6f3de3d81f535d67451568c45", null ]
+    [ "boss_rajaxx", "de/d84/a14932.html#afca05f7afabb4c0e181ce3757acb3bcb", null ],
+    [ "JustDied", "de/d84/a14932.html#a9231a20150ed6eae0cbc79c8386f7371", null ],
+    [ "JustEngagedWith", "de/d84/a14932.html#a8dad79921559359b6aa7149641925fe5", null ],
+    [ "UpdateAI", "de/d84/a14932.html#a9b949bea61ceb45ec1b3e452f218c227", null ]
 ];

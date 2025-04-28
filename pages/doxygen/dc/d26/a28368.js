@@ -1,4 +1,5 @@
 var a28368 =
 [
-    [ "SetType", "dc/d26/a28368.html#ad2fd1d002f4a95b778a8d5ba819eba42", null ]
+    [ "ByteBufferPositionException", "dc/d26/a28368.html#a6c2e31012a8ccf20d52c6431e024a576", null ],
+    [ "~ByteBufferPositionException", "dc/d26/a28368.html#aba8b7764a5517fa3e4a26d7ced1ad38f", null ]
 ];

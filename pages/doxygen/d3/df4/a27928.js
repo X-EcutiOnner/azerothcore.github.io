@@ -1,5 +1,5 @@
 var a27928 =
 [
-    [ "BitIndex", "d3/df4/a27928.html#a55fdf966aec0ca687cd6074683af6e7f", null ],
-    [ "ItemId", "d3/df4/a27928.html#a998c1f6dadb823fbba56bb2154396635", null ]
+    [ "ID", "d3/df4/a27928.html#a4f030d8b8b87aff67e0d8319c6b53310", null ],
+    [ "price", "d3/df4/a27928.html#a9b81ec4b4638763b738862d6c184e2a9", null ]
 ];

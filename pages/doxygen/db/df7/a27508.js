@@ -1,7 +1,7 @@
 var a27508 =
 [
-    [ "npc_venomhide_hatchlingAI", "dd/d65/a27512.html", "dd/d65/a27512" ],
-    [ "npc_venomhide_hatchling", "db/df7/a27508.html#a4dc217dd5950db7b270b7cce3e594e4d", null ],
-    [ "GetAI", "db/df7/a27508.html#a96110b752965d751ab7b466c4f67e333", null ],
-    [ "OnGossipHello", "db/df7/a27508.html#a404d875592b847ddb9f3250c9d954bfc", null ]
+    [ "npc_guardianAI", "db/df7/a27508.html#acc5d29a79e57fc023369c0dcd4b0d2a3", null ],
+    [ "JustEngagedWith", "db/df7/a27508.html#a50257f80245bc59437e53083badcb056", null ],
+    [ "Reset", "db/df7/a27508.html#a217df9bae079f56ffd70d27958fb2756", null ],
+    [ "UpdateAI", "db/df7/a27508.html#ab42c39f088ef819a5ffb5f9f4ba2c3a3", null ]
 ];

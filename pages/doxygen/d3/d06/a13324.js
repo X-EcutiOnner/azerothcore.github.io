@@ -1,7 +1,9 @@
 var a13324 =
 [
-    [ "PeriodicTick", "d3/d06/a13324.html#acca46d585d06d461f735cddb6075b3b1", null ],
-    [ "PrepareAuraScript", "d3/d06/a13324.html#abd7382ab22efd3d82c4f00745255d024", null ],
-    [ "Register", "d3/d06/a13324.html#a7020dbe7c61f877d0ecd0d7542f6f270", null ],
-    [ "Validate", "d3/d06/a13324.html#acb31ba162452a30ff0c208829560f9fd", null ]
+    [ "boss_entropius", "d3/d06/a13324.html#a458deaa80c9694cd2608150bc5519c76", null ],
+    [ "EnterEvadeMode", "d3/d06/a13324.html#a01889b192525af082471d092bff28c88", null ],
+    [ "JustDied", "d3/d06/a13324.html#aed1313073a44bc15f87432a85e6c2d8e", null ],
+    [ "JustEngagedWith", "d3/d06/a13324.html#afb07fc44fd14b9f78fbc97b2670b8b5e", null ],
+    [ "Reset", "d3/d06/a13324.html#ad9da990a540703d38cb45dd2da72c179", null ],
+    [ "UpdateAI", "d3/d06/a13324.html#ab7fbeb67059c48b5f1aff071990ece5e", null ]
 ];

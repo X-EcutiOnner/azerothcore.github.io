@@ -1,6 +1,5 @@
 var a27092 =
 [
-    [ "go_l70_etc_musicAI", "da/d34/a27096.html", "da/d34/a27096" ],
-    [ "go_l70_etc_music", "da/dc4/a27092.html#a766dccca12fc7959273ba1e3a278564f", null ],
-    [ "GetAI", "da/dc4/a27092.html#a5231ffc778830f8a49ae85a8c1173deb", null ]
+    [ "go_seer_of_zebhalak", "da/dc4/a27092.html#a423f16e878d67f7dc6ec3860afabacf4", null ],
+    [ "OnGossipHello", "da/dc4/a27092.html#a84009789ce8e8d0d7c42996fde161135", null ]
 ];

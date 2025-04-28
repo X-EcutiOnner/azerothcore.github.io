@@ -1,7 +1,7 @@
 var a11096 =
 [
-    [ "SpellImmune", "d0/d7b/a11096.html#a70ebcde656db6c4d7c21fb03af44978a", null ],
-    [ "blockType", "d0/d7b/a11096.html#a13a353d02a7330820df170eb46e7a26d", null ],
-    [ "spellId", "d0/d7b/a11096.html#a6aeb1bebf2f079424ebfa5192c568adc", null ],
-    [ "type", "d0/d7b/a11096.html#ae1a414f35b2cce61cd4f5640c761f7ea", null ]
+    [ "WorldObjectSpellNearbyTargetCheck", "d0/d7b/a11096.html#afda548f6394c5d11a7ca229fe6b3d402", null ],
+    [ "operator()", "d0/d7b/a11096.html#a731ee07d028a5ee63ecd14321c83664d", null ],
+    [ "_position", "d0/d7b/a11096.html#a7b19899dd015a73bd1ae4c71fa9ae79d", null ],
+    [ "_range", "d0/d7b/a11096.html#abfec0df490876b2b83dcdee4da75a77f", null ]
 ];

@@ -1,44 +1,30 @@
 var a01415 =
 [
-    [ "GameObjectValue", "d8/d48/a08117.html", "d8/d48/a08117" ],
-    [ "GameObject", "da/d55/a08137.html", "da/d55/a08137" ],
-    [ "FISHING_BOBBER_READY_TIME", "de/d70/a01415.html#aa7242bc5664b993aa0dfe458bf845b13", null ],
-    [ "GameObjectAddonContainer", "de/d70/a01415.html#a7c5d40f7f9665e8525be2f1e94b0af47", null ],
-    [ "GameObjectQuestItemList", "de/d70/a01415.html#a85906ca8ea219640b7ed904559623a4a", null ],
-    [ "GameObjectQuestItemMap", "de/d70/a01415.html#a0695d839f891819d32d9cba1550e5ebb", null ],
-    [ "GameObjectTemplateAddonContainer", "de/d70/a01415.html#a43048463c1bc7ccdbb447dd3f791b2ba", null ],
-    [ "GameObjectTemplateContainer", "de/d70/a01415.html#a5997afee8ff417f22a5fc03453c0a3d8", null ],
-    [ "goEventFlag", "de/d70/a01415.html#a5d69fabbfa5abca4bb03fba46cd1bef0", null ],
-    [ "GameObjectActions", "de/d70/a01415.html#af16a38362829ad78e87eae277ce8b837", [
-      [ "None", "de/d70/a01415.html#af16a38362829ad78e87eae277ce8b837a6adf97f83acf6453d4a6a4b1070f3754", null ],
-      [ "AnimateCustom0", "de/d70/a01415.html#af16a38362829ad78e87eae277ce8b837a85821009c4561ff2dd394e76875f41e4", null ],
-      [ "AnimateCustom1", "de/d70/a01415.html#af16a38362829ad78e87eae277ce8b837a20097ab004d5809f0181ff76c095d00d", null ],
-      [ "AnimateCustom2", "de/d70/a01415.html#af16a38362829ad78e87eae277ce8b837a6bd3a49dc3c0acde22f7fb6d717c5ba6", null ],
-      [ "AnimateCustom3", "de/d70/a01415.html#af16a38362829ad78e87eae277ce8b837a96ccf53c55fa14a630d1ebf1814d5500", null ],
-      [ "Disturb", "de/d70/a01415.html#af16a38362829ad78e87eae277ce8b837ada8bbd8aa09878c8c831cfa4d16cb1e3", null ],
-      [ "Unlock", "de/d70/a01415.html#af16a38362829ad78e87eae277ce8b837a7e7123b0d269ad5d9ec8d12c52a8ed8a", null ],
-      [ "Lock", "de/d70/a01415.html#af16a38362829ad78e87eae277ce8b837ab485167c5b0e59d47009a16f90fe2659", null ],
-      [ "Open", "de/d70/a01415.html#af16a38362829ad78e87eae277ce8b837ac3bf447eabe632720a3aa1a7ce401274", null ],
-      [ "OpenAndUnlock", "de/d70/a01415.html#af16a38362829ad78e87eae277ce8b837a309e99e8adfb532df3ef87568ef7b4dd", null ],
-      [ "Close", "de/d70/a01415.html#af16a38362829ad78e87eae277ce8b837ad3d2e617335f08df83599665eef8a418", null ],
-      [ "ToggleOpen", "de/d70/a01415.html#af16a38362829ad78e87eae277ce8b837a4918a8673999bfdede87be4025674076", null ],
-      [ "Destroy", "de/d70/a01415.html#af16a38362829ad78e87eae277ce8b837a0e181f89f47654b86f3beb42f5cc08b8", null ],
-      [ "Rebuild", "de/d70/a01415.html#af16a38362829ad78e87eae277ce8b837a1c6aac0280240c97962b30423f1f852b", null ],
-      [ "Creation", "de/d70/a01415.html#af16a38362829ad78e87eae277ce8b837a67d5168b4f2b5424a3d118ea9ef99372", null ],
-      [ "Despawn", "de/d70/a01415.html#af16a38362829ad78e87eae277ce8b837a573a38c8ee30e1c0d6ad84ce4f965cf0", null ],
-      [ "MakeInert", "de/d70/a01415.html#af16a38362829ad78e87eae277ce8b837aabb80dcaf182e2078c504e15fee2a31f", null ],
-      [ "MakeActive", "de/d70/a01415.html#af16a38362829ad78e87eae277ce8b837a403b23a8bfa05cf441c3e9dd632d4974", null ],
-      [ "CloseAndLock", "de/d70/a01415.html#af16a38362829ad78e87eae277ce8b837a395c884e23324c8a881736508abb7d05", null ],
-      [ "UseArtKit0", "de/d70/a01415.html#af16a38362829ad78e87eae277ce8b837ae2a0fa972f9687e4bc206809d3398c8c", null ],
-      [ "UseArtKit1", "de/d70/a01415.html#af16a38362829ad78e87eae277ce8b837a77d0a472e8fb879ecb2cb0f5e95d66be", null ],
-      [ "UseArtKit2", "de/d70/a01415.html#af16a38362829ad78e87eae277ce8b837a7c616a85741d0083402758d77385cf12", null ],
-      [ "UseArtKit3", "de/d70/a01415.html#af16a38362829ad78e87eae277ce8b837ac0d4e2c0fde8b58757dadda7ae262ca8", null ],
-      [ "SetTapList", "de/d70/a01415.html#af16a38362829ad78e87eae277ce8b837ab98a44aedde3ad68a77221bb4ba8d8e0", null ]
+    [ "npc_shenthul", "db/d9f/a15420.html", "db/d9f/a15420" ],
+    [ "npc_shenthul::npc_shenthulAI", "d9/da7/a15424.html", "d9/da7/a15424" ],
+    [ "npc_thrall_warchief", "d5/dd1/a15428.html", "d5/dd1/a15428" ],
+    [ "npc_thrall_warchief::npc_thrall_warchiefAI", "d6/d10/a15432.html", "d6/d10/a15432" ],
+    [ "Shenthul", "de/d70/a01415.html#a032512bb2693fda342f4d77dba794fbe", [
+      [ "QUEST_SHATTERED_SALUTE", "de/d70/a01415.html#a032512bb2693fda342f4d77dba794fbea38993f500c01e7bc0ae8dd3a83848ff0", null ]
     ] ],
-    [ "LootState", "de/d70/a01415.html#a08733f20cea1f77cc9f1a549f8ce9f07", [
-      [ "GO_NOT_READY", "de/d70/a01415.html#a08733f20cea1f77cc9f1a549f8ce9f07aa7f58536a66a38d2bb42502424d69a79", null ],
-      [ "GO_READY", "de/d70/a01415.html#a08733f20cea1f77cc9f1a549f8ce9f07a8708de424ecaae41eb7271d399f1d5fc", null ],
-      [ "GO_ACTIVATED", "de/d70/a01415.html#a08733f20cea1f77cc9f1a549f8ce9f07a3e50ac5f6829b981fdff39a85a48959e", null ],
-      [ "GO_JUST_DEACTIVATED", "de/d70/a01415.html#a08733f20cea1f77cc9f1a549f8ce9f07af69d13b3580b3c24d26f66bcf0db43d5", null ]
-    ] ]
+    [ "ThrallWarchief", "de/d70/a01415.html#a1cdad3bda3b93500c342a64dce6d15d9", [
+      [ "SPELL_CHAIN_LIGHTNING", "de/d70/a01415.html#a1cdad3bda3b93500c342a64dce6d15d9ac0997e72929070d8e30cc0f49cc4539d", null ],
+      [ "SPELL_SHOCK", "de/d70/a01415.html#a1cdad3bda3b93500c342a64dce6d15d9a30aa4cac2f70a310466b3fb0f2d10eab", null ],
+      [ "QUEST_FOR_THE_HORDE", "de/d70/a01415.html#a1cdad3bda3b93500c342a64dce6d15d9aed442141280385194a0a8b73d7e489af", null ],
+      [ "SPELL_WARCHIEF_BLESSING", "de/d70/a01415.html#a1cdad3bda3b93500c342a64dce6d15d9a567e6044eaae260d8ab29c346613b225", null ],
+      [ "NPC_HERALD_OF_THRALL", "de/d70/a01415.html#a1cdad3bda3b93500c342a64dce6d15d9a3533aba0519168d4cfb3446a1bbde5bc", null ],
+      [ "ACTION_START_TALKING", "de/d70/a01415.html#a1cdad3bda3b93500c342a64dce6d15d9a322b9b49cd88bc70c039be2aa4e0c7fd", null ],
+      [ "SAY_THRALL_ON_QUEST_REWARD_0", "de/d70/a01415.html#a1cdad3bda3b93500c342a64dce6d15d9a64ac3588375f611524513fd4d4293a1b", null ],
+      [ "SAY_THRALL_ON_QUEST_REWARD_1", "de/d70/a01415.html#a1cdad3bda3b93500c342a64dce6d15d9a3a6a88801e0a276bd78e5299ffb76302", null ],
+      [ "AREA_ORGRIMMAR", "de/d70/a01415.html#a1cdad3bda3b93500c342a64dce6d15d9ad2dc06a1b56bb07677ef211cafd8a835", null ],
+      [ "AREA_RAZOR_HILL", "de/d70/a01415.html#a1cdad3bda3b93500c342a64dce6d15d9ae88321c626be966eda1d5aca34feda6e", null ],
+      [ "AREA_CAMP_TAURAJO", "de/d70/a01415.html#a1cdad3bda3b93500c342a64dce6d15d9a709f6c4a2cd059fc6e7da390a36546b9", null ],
+      [ "AREA_CROSSROADS", "de/d70/a01415.html#a1cdad3bda3b93500c342a64dce6d15d9ac472b1d2152c18bfc58b3ca21b3b64ec", null ],
+      [ "GO_UNADORNED_SPIKE", "de/d70/a01415.html#a1cdad3bda3b93500c342a64dce6d15d9a544ea295d906cebdf38aecb93e7ac153", null ],
+      [ "QUEST_WHAT_THE_WIND_CARRIES", "de/d70/a01415.html#a1cdad3bda3b93500c342a64dce6d15d9a5bc18876e7da8ddfc493ea155bb75287", null ],
+      [ "GOSSIP_MENU_THRALL", "de/d70/a01415.html#a1cdad3bda3b93500c342a64dce6d15d9a502d5aed1ed2917d36573a355656ce86", null ],
+      [ "GOSSIP_RESPONSE_THRALL_FIRST", "de/d70/a01415.html#a1cdad3bda3b93500c342a64dce6d15d9a710a8ed7a2d8ddb38e5e0f7db188132d", null ]
+    ] ],
+    [ "AddSC_orgrimmar", "de/d70/a01415.html#aec4388ea6d2e4bbc1d279b3a4687c4c6", null ],
+    [ "heraldOfThrallPos", "de/d70/a01415.html#a016aeee1d0eac9c78c522520663670f0", null ]
 ];

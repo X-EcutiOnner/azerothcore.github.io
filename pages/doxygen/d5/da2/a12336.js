@@ -1,6 +1,7 @@
 var a12336 =
 [
-    [ "npc_core_ragerAI", "d0/d21/a12340.html", "d0/d21/a12340" ],
-    [ "npc_core_rager", "d5/da2/a12336.html#ada4acfa2a1934d1609a8f9c78da6377d", null ],
-    [ "GetAI", "d5/da2/a12336.html#a0ace94ecc1ebfb0e880c50d9b68087db", null ]
+    [ "HandlePeriodic", "d5/da2/a12336.html#a758b588fb02e9cdf2544dd52ceee1055", null ],
+    [ "PrepareAuraScript", "d5/da2/a12336.html#aae9d31049889eea5c5f09dd5437de950", null ],
+    [ "Register", "d5/da2/a12336.html#a5de6428e3359c4498f5630f85ae3fcc8", null ],
+    [ "Validate", "d5/da2/a12336.html#a462b882e41932f99e3501f32368cf4de", null ]
 ];

@@ -1,7 +1,10 @@
 var a09532 =
 [
-    [ "AddonHandler", "dd/db9/a09532.html#a3e52b0fc5ca99a3f5d83ee6d34e16520", null ],
-    [ "~AddonHandler", "dd/db9/a09532.html#a8e4fc7c1cae505850a907e70a9febbf0", null ],
-    [ "BuildAddonPacket", "dd/db9/a09532.html#aca92dc80033c299daf8e3b42dd24ffea", null ],
-    [ "instance", "dd/db9/a09532.html#a2925b829b803dd07e96685086357ef85", null ]
+    [ "PlayerMoveItemData", "dd/db9/a09532.html#a2f707719b409975ddd3023d2239403d6", null ],
+    [ "CanStore", "dd/db9/a09532.html#a00680db86d45ad8e8652218fce05139d", null ],
+    [ "InitItem", "dd/db9/a09532.html#a34298fd6ac20ab0e02c6350dcc5a4d33", null ],
+    [ "IsBank", "dd/db9/a09532.html#ae4d45104dccf78581b4228a31fe192ad", null ],
+    [ "LogBankEvent", "dd/db9/a09532.html#a36516c5ca1aaa13afa9e61831a175068", null ],
+    [ "RemoveItem", "dd/db9/a09532.html#a482460f04b20349e909bac36f893a35a", null ],
+    [ "StoreItem", "dd/db9/a09532.html#a017e3bd414548e66f980587e81e598e5", null ]
 ];

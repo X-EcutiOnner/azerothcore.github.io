@@ -1,5 +1,6 @@
 var a13136 =
 [
-    [ "at_sunwell_madrigosa", "dd/d81/a13136.html#a489ddb537ef272f22bd69ced194762e7", null ],
-    [ "_OnTrigger", "dd/d81/a13136.html#a137c231ea66d3781080a5617a2ffcc9e", null ]
+    [ "HandleSendEvent", "dd/d81/a13136.html#ad245a7dcf129774b8ef3e3653b3e3026", null ],
+    [ "PrepareSpellScript", "dd/d81/a13136.html#ad9dfe5b2702540eb119ec86cfbd0ff30", null ],
+    [ "Register", "dd/d81/a13136.html#a0b5ac8cfc4eb4adadb653a81a59a8287", null ]
 ];

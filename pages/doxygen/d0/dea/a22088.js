@@ -1,6 +1,6 @@
 var a22088 =
 [
-    [ "HandleScriptEffect", "d0/dea/a22088.html#a1dac2806b74471332aec0595118005a3", null ],
-    [ "PrepareSpellScript", "d0/dea/a22088.html#adb1efd90b7ffa23887ca4aa3afb6d99e", null ],
-    [ "Register", "d0/dea/a22088.html#a2ff0986c88dcbd9aac263f62b772c992", null ]
+    [ "npc_vekjik", "d0/dea/a22088.html#a7439c6038237b77ba8623ae92d6cf708", null ],
+    [ "OnGossipHello", "d0/dea/a22088.html#acdbba5b4970049e72477eccf6672b0e8", null ],
+    [ "OnGossipSelect", "d0/dea/a22088.html#a0bcdcb6cd57264e664c449e261d3580b", null ]
 ];

@@ -1,6 +1,7 @@
 var a20860 =
 [
-    [ "instance_ulduar_InstanceMapScript", "d0/dad/a20864.html", "d0/dad/a20864" ],
-    [ "instance_ulduar", "dd/d93/a20860.html#a32c2a76d1cd20f2ad1ab441eafe1b682", null ],
-    [ "GetInstanceScript", "dd/d93/a20860.html#ad15f003a90e656910fc32d661ca9baba", null ]
+    [ "OnPeriodic", "dd/d93/a20860.html#a529e89c1ae0074370da174defc086719", null ],
+    [ "PrepareAuraScript", "dd/d93/a20860.html#a587652095a5dfae229787a0c0ceacfbe", null ],
+    [ "Register", "dd/d93/a20860.html#acd5551b09882d720608bdec6036dee9a", null ],
+    [ "Validate", "dd/d93/a20860.html#aaed6604e39dd977f4e7c671052d718e8", null ]
 ];

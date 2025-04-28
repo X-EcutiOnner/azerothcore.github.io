@@ -1,15 +1,18 @@
 var a11496 =
 [
-    [ "SunsReachReclamationData", "de/def/a11496.html#a840eb2024ae39f2f60f819e884db80b3", null ],
-    [ "GetData", "de/def/a11496.html#ae7ef124f28f2bc8230b4234652734994", null ],
-    [ "GetPhasePercentage", "de/def/a11496.html#a215cec505dd74695704ae7961161e195", null ],
-    [ "GetSubPhasePercentage", "de/def/a11496.html#aaee292336c57d967842d63f55e69bf0f", null ],
-    [ "GetSunwellGatePercentage", "de/def/a11496.html#a9b5de26596e174f9a94e019fcb998f9e", null ],
-    [ "m_gate", "de/def/a11496.html#a35755bcf3f67cfb2ebc77dcb36fa4dfb", null ],
-    [ "m_gateCounters", "de/def/a11496.html#a76b38d6f571386c1d818752e12a66f66", null ],
-    [ "m_phase", "de/def/a11496.html#a67711cd7d43f481161b8f98690d67fe3", null ],
-    [ "m_subphaseMask", "de/def/a11496.html#a0a94a3b69ac5ccfcfae35af007ed375c", null ],
-    [ "m_sunsReachReclamationCounters", "de/def/a11496.html#a14253084085c114aa2cfeefdebb0257d", null ],
-    [ "m_sunsReachReclamationMutex", "de/def/a11496.html#a0ef2835b702469482926ec4942d0f786", null ],
-    [ "m_sunsReachReclamationPlayers", "de/def/a11496.html#a72780ba8e17ccf5513d104eb228b3411", null ]
+    [ "Weather", "d0/d84/a04753.html#gaf4ec787c400c0e90101f00d022c2c9fd", null ],
+    [ "~Weather", "d0/d84/a04753.html#ga8db480edb9459ebf73a1363c6fea0b27", null ],
+    [ "GetScriptId", "d0/d84/a04753.html#ga07ff1c03b6fb225388d418496c18d3be", null ],
+    [ "GetWeatherState", "d0/d84/a04753.html#gaed38cecb6af95222638b2177fa48757c", null ],
+    [ "GetZone", "d0/d84/a04753.html#ga5cf53e440c7da53eb6524ea1d658b0e6", null ],
+    [ "ReGenerate", "d0/d84/a04753.html#gaea61d86d9a64dd5dbc8ea843aad97eb6", null ],
+    [ "SendWeatherUpdateToPlayer", "d0/d84/a04753.html#gaf9ff2442cc875af4b6ca4bec7f41c965", null ],
+    [ "SetWeather", "d0/d84/a04753.html#ga32e650a32fc1e01bdb6fbfd960fd022f", null ],
+    [ "Update", "d0/d84/a04753.html#gaf7a3484daa8221287a4c325fb3a8080c", null ],
+    [ "UpdateWeather", "d0/d84/a04753.html#gad4885daeab81309a42c2c1fdebcf33ad", null ],
+    [ "m_grade", "d0/d84/a04753.html#ga5638d204d5986f64eed9d343d086895e", null ],
+    [ "m_timer", "d0/d84/a04753.html#gadba1100bafe6db8a242bdad35663e909", null ],
+    [ "m_type", "d0/d84/a04753.html#ga19d9ed53043ba2b9eb3bdc27921501eb", null ],
+    [ "m_weatherChances", "d0/d84/a04753.html#gaeb74bbd4568c726a2443318aea6313d0", null ],
+    [ "m_zone", "d0/d84/a04753.html#ga1fd12588331e8f86399378b7bb12317b", null ]
 ];

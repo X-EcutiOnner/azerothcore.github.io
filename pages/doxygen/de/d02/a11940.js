@@ -1,8 +1,8 @@
 var a11940 =
 [
-    [ "boss_drakkisathAI", "de/d02/a11940.html#a7c347bcdb092afcd64b481b87d0895ea", null ],
-    [ "JustEngagedWith", "de/d02/a11940.html#a09f7c704579bdb8dad951ce63b5a54c9", null ],
-    [ "UpdateAI", "de/d02/a11940.html#a02ffab01744c0dbb8b5a60794e82bdb0", null ],
-    [ "_conflagrateTarget", "de/d02/a11940.html#a6a74b74e4e4b45aec86f70a5211ddd28", null ],
-    [ "_conflagrateThreat", "de/d02/a11940.html#aae3762b27c3d99b32f47293c544e4afe", null ]
+    [ "boss_doomrelAI", "d0/d4d/a11944.html", "d0/d4d/a11944" ],
+    [ "boss_doomrel", "de/d02/a11940.html#aee45a59f9a62f1d32a7dc344bd3c46c6", null ],
+    [ "GetAI", "de/d02/a11940.html#a1b8a95208506f79c00ed40be2d51eb38", null ],
+    [ "OnGossipHello", "de/d02/a11940.html#a3c544ae70c46a62ac7dd2fc5cca97c8b", null ],
+    [ "OnGossipSelect", "de/d02/a11940.html#ae430a8fef70bd46267482a70084049c1", null ]
 ];

@@ -1,8 +1,6 @@
 var a07612 =
 [
-    [ "ThreatMgrEvent", "da/d08/a07612.html#ad8d5d86b12e5c13f25f8598ef5670eb8", null ],
-    [ "ThreatMgrEvent", "da/d08/a07612.html#a332ae279dc4c243c148e07454611a057", null ],
-    [ "getThreatContainer", "da/d08/a07612.html#a15ab83dccbbae73cbd2ec0a376d57d28", null ],
-    [ "setThreatContainer", "da/d08/a07612.html#aaffdff7ac81e949adc076b113a824cbf", null ],
-    [ "iThreatContainer", "da/d08/a07612.html#a7f32669286852385312b86e0b70e177e", null ]
+    [ "operator bool", "da/d08/a07612.html#a02878c282dfcfd2b9f4eddf99a805fa3", null ],
+    [ "tail", "da/d08/a07612.html#a0bd839d0c7a8b7ce84612c80f3ca84e7", null ],
+    [ "token", "da/d08/a07612.html#a55e214db8a01ac3c427874d03f1bda54", null ]
 ];

@@ -1,7 +1,7 @@
 var a11416 =
 [
-    [ "CompressedData", "d3/def/a11416.html#a22e1d740e6c3094fea83eb1a44e40944", null ],
-    [ "CompressedSize", "d3/def/a11416.html#ab57879b41c825623a989db13a53f2f4e", null ],
-    [ "Id", "d3/def/a11416.html#af1e6a5cc01ee05432be5c41c88d84794", null ],
-    [ "Key", "d3/def/a11416.html#ad100540b5c6722a19c938b134a985aed", null ]
+    [ "PlayerDumpReader", "d3/def/a11416.html#ad630b61e298fb1ddf165481c9a14e077", null ],
+    [ "LoadDump", "d3/def/a11416.html#a62ca90cbcb0d03ec0da52651d8c5f783", null ],
+    [ "LoadDumpFromFile", "d3/def/a11416.html#ae1ed88a6f181cf6ad952edb1285e192e", null ],
+    [ "LoadDumpFromString", "d3/def/a11416.html#abd4ce2c50a74922792a7b00d803f03b2", null ]
 ];

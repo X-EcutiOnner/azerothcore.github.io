@@ -1,6 +1,9 @@
 var a21436 =
 [
-    [ "npc_warmage_coldarraAI", "dc/d6b/a21440.html", "dc/d6b/a21440" ],
-    [ "npc_warmage_coldarra", "dc/dbe/a21436.html#a358f8ab26991798ff076ac764cd7abe2", null ],
-    [ "GetAI", "dc/dbe/a21436.html#aa29181e0ad61b44eff685267f3231382", null ]
+    [ "npc_lurgglbrAI", "dc/dbe/a21436.html#a9239b85c65f9b405335d432f355637d5", null ],
+    [ "Reset", "dc/dbe/a21436.html#a13b8bd8e7d85c93b0ee88c6e9f6d09ca", null ],
+    [ "UpdateAI", "dc/dbe/a21436.html#aee019df9abe7ca3bf36a6de2321bedec", null ],
+    [ "WaypointReached", "dc/dbe/a21436.html#a09ac2f2f21eefedd0052f727546bafb5", null ],
+    [ "IntroPhase", "dc/dbe/a21436.html#a57e2c42cccf91765365e0b046446637a", null ],
+    [ "IntroTimer", "dc/dbe/a21436.html#ada9762806ae0132e37197e6fb1279866", null ]
 ];

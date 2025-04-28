@@ -1,13 +1,12 @@
 var a23032 =
 [
-    [ "npc_inner_demon", "db/df7/a23032.html#a12063a0125e0e9b5ba5a73f669bfcd84", null ],
-    [ "CanAIAttack", "db/df7/a23032.html#a7498fd32b0ace832b38dc624d07478ed", null ],
-    [ "CanBeSeen", "db/df7/a23032.html#a5e61d5fc45bf95efaa06f81df58b5fab", null ],
-    [ "CanReceiveDamage", "db/df7/a23032.html#a7b0bc55f8dfbba2dc3a3b7d314083bc2", null ],
-    [ "IsSummonedBy", "db/df7/a23032.html#a5ed405dd9315cb255d14d3e5f808dc9d", null ],
-    [ "JustDied", "db/df7/a23032.html#a15ab3cd6576055ec7ba29a5ed44e73db", null ],
-    [ "OnCalculateMeleeDamageReceived", "db/df7/a23032.html#ae95022548b44b23ef93fae24729b5af5", null ],
-    [ "OnCalculatePeriodicTickReceived", "db/df7/a23032.html#a546281a2257d0407d294fba1f7d3426f", null ],
-    [ "OnCalculateSpellDamageReceived", "db/df7/a23032.html#aa40ee81a4456e1a1f7254d2169f50e88", null ],
-    [ "UpdateAI", "db/df7/a23032.html#a977a76b54c4eae6461559d7b15cfc4b2", null ]
+    [ "boss_fathomguard_sharkkis", "db/df7/a23032.html#affc3a4422ce62311879bef6df104c9b9", null ],
+    [ "EnterEvadeMode", "db/df7/a23032.html#a344072e382566575168cdcf57d0f6481", null ],
+    [ "JustDied", "db/df7/a23032.html#a1a4fdf91f6d8d0e3e0672e174152a59d", null ],
+    [ "JustEngagedWith", "db/df7/a23032.html#a5724db6f55f1c5ed2e351603a1b26943", null ],
+    [ "JustSummoned", "db/df7/a23032.html#a31098d1e91412b797663fe677114af20", null ],
+    [ "Reset", "db/df7/a23032.html#a5d8b89e2d4a203df5ec574b96df0d489", null ],
+    [ "UpdateAI", "db/df7/a23032.html#ab71689fda10d6d31dd2bfc72026bd755", null ],
+    [ "_instance", "db/df7/a23032.html#ad3dc90987a8b01fcd55799f66d18906c", null ],
+    [ "_summons", "db/df7/a23032.html#a73f887b3f829027fc336a8e4a9c5b963", null ]
 ];

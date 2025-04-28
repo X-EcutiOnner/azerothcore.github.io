@@ -1,12 +1,9 @@
 var a22752 =
 [
-    [ "boss_essence_of_sufferingAI", "de/d26/a22752.html#a98de7f0b7d12d0981854129cbeab0d0d", null ],
-    [ "DamageTaken", "de/d26/a22752.html#a347ef26e4ecdc83ca80c9fd9a93bd97d", null ],
-    [ "DoAction", "de/d26/a22752.html#a08724d74523866969b12d13846eb4c1e", null ],
-    [ "JustEngagedWith", "de/d26/a22752.html#aa2fce36768ad6e23a955cd215ca759db", null ],
-    [ "KilledUnit", "de/d26/a22752.html#a3699b19f23cf15115ff8c92691a6d334", null ],
-    [ "MovementInform", "de/d26/a22752.html#a4ff66e57277bc3bc6e8d2fb8bc585cd7", null ],
-    [ "Reset", "de/d26/a22752.html#affa55b69784d8f881598189c361c986e", null ],
-    [ "UpdateAI", "de/d26/a22752.html#abb60432720b3720832ccc83d454a3808", null ],
-    [ "_recentlySpoken", "de/d26/a22752.html#a71a28a61e97f6278836649411493484f", null ]
+    [ "HandleAfterCast", "de/d26/a22752.html#ae83f0cd423597b1c1e2bc1619d24fb1e", null ],
+    [ "HandleDummy", "de/d26/a22752.html#ae94594e337c2e0e6864f3723df8349bf", null ],
+    [ "Load", "de/d26/a22752.html#a301008eff6b13a43070b3916925391ae", null ],
+    [ "PrepareSpellScript", "de/d26/a22752.html#a6068412ee3d78192cc0ff735fd4e93ed", null ],
+    [ "Register", "de/d26/a22752.html#a253f9b428351519cbd4ee5c2341ea0c4", null ],
+    [ "_targetCount", "de/d26/a22752.html#ac16cb2696c4e72195de7ebddd072b3c4", null ]
 ];

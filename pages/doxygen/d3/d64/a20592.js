@@ -1,12 +1,6 @@
 var a20592 =
 [
-    [ "npc_xt002_boombotAI", "d3/d64/a20592.html#a9be3f9270a828946e2934aea24aa5549", null ],
-    [ "DamageTaken", "d3/d64/a20592.html#ad581fd228701d851c8d3bf0f3a1f854c", null ],
-    [ "Explode", "d3/d64/a20592.html#afe8c0408887b8cd0cb533475c221035b", null ],
-    [ "JustDied", "d3/d64/a20592.html#ad6d240b16aa8f7f297b1ad0982a8827e", null ],
-    [ "MovementInform", "d3/d64/a20592.html#a2cb53c683de44347b0448d8a1611300e", null ],
-    [ "Reset", "d3/d64/a20592.html#a5d4f4a4c6c098f440064caa37438a7ed", null ],
-    [ "UpdateAI", "d3/d64/a20592.html#a2bebdd97339b3b545331a494a51246eb", null ],
-    [ "_boomed", "d3/d64/a20592.html#acd75eb57db0043fbae633a2f63924c05", null ],
-    [ "_locked", "d3/d64/a20592.html#ada468c62b133ec1a9c043eec1c52c0d1", null ]
+    [ "OnPeriodic", "d3/d64/a20592.html#a418b37f00a8a48d0a4362fd5381797bf", null ],
+    [ "PrepareAuraScript", "d3/d64/a20592.html#a60c0d5d67de6e3224cba34599acc3e69", null ],
+    [ "Register", "d3/d64/a20592.html#a92fb0160f7a16e6cb6b9c928b744f5e0", null ]
 ];

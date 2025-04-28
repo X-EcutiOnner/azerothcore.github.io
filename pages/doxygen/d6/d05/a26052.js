@@ -1,6 +1,10 @@
 var a26052 =
 [
-    [ "HandleAfterHit", "d6/d05/a26052.html#a6f0ec02c8b1429a6be76465dd9badd1c", null ],
-    [ "PrepareSpellScript", "d6/d05/a26052.html#af2e6c3bfc233ee86fa2c9186cdd6b5a4", null ],
-    [ "Register", "d6/d05/a26052.html#a2a780069022e62b14992a7b69626ac3d", null ]
+    [ "spell_pal_judgement", "d6/d05/a26052.html#a497aed8c1d8c6a2af22e9e8daae96e14", null ],
+    [ "HandleScriptEffect", "d6/d05/a26052.html#add419a824dbebdc168d2b6dc49d07913", null ],
+    [ "PrepareSpellScript", "d6/d05/a26052.html#a2cffed69c16a1a6189048ed52af35152", null ],
+    [ "Register", "d6/d05/a26052.html#ad8e65beb41a1bb41a2dd307f3b1da839", null ],
+    [ "SealApplication", "d6/d05/a26052.html#a0bb55f122d560c70f416e448d03d2184", null ],
+    [ "Validate", "d6/d05/a26052.html#a3971c195a279338253771675131b4802", null ],
+    [ "_spellId", "d6/d05/a26052.html#ad49ea02800078c672747f4fdbbab1d20", null ]
 ];

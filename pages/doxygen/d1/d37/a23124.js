@@ -1,11 +1,14 @@
 var a23124 =
 [
-    [ "boss_ahune", "d1/d37/a23124.html#aa3d15e1ab37843761d9f7c56d2e5a319", null ],
-    [ "DoAction", "d1/d37/a23124.html#a9e197e8a5ecbad8487c7bad7647e6d2c", null ],
-    [ "Emerge", "d1/d37/a23124.html#a6404a8255566f2eaa061a89025e2bdcd", null ],
-    [ "EnterEvadeMode", "d1/d37/a23124.html#a2b906881621e59143a916c588beb70e7", null ],
-    [ "ExecuteEvent", "d1/d37/a23124.html#a46b477aef635de1d3ec88baa2465089f", null ],
-    [ "JustDied", "d1/d37/a23124.html#af2fc7c071321653a644ee569ead67d63", null ],
-    [ "JustEngagedWith", "d1/d37/a23124.html#aaffc4f54544c8aa4529b249560ddeeec", null ],
-    [ "Submerge", "d1/d37/a23124.html#aad68758720cc1cb703f8f2dc72c09af2", null ]
+    [ "boss_the_lurker_below", "d1/d37/a23124.html#ac76c71b6a47e1a936256d9c5901c27ab", null ],
+    [ "AttackStart", "d1/d37/a23124.html#af0f6fbe31dbcd6df4e8f1b57730e093b", null ],
+    [ "DamageTaken", "d1/d37/a23124.html#ae7c05744013753b29072ec1b5d9f2570", null ],
+    [ "DoAction", "d1/d37/a23124.html#a30e07055aa632066a75ad48f3e8109e2", null ],
+    [ "EnterEvadeMode", "d1/d37/a23124.html#a522164e819db5062225f7d5704cdaa36", null ],
+    [ "JustEngagedWith", "d1/d37/a23124.html#aa31e26b77e0c2403a338f781bf14c94b", null ],
+    [ "Reset", "d1/d37/a23124.html#ae592707182d64689e6578813b3617ee3", null ],
+    [ "SchedulerPhaseOne", "d1/d37/a23124.html#a42dd2ed36209e7be61788d054e2754b5", null ],
+    [ "SchedulerPhaseTwo", "d1/d37/a23124.html#aa910c20d3ee26d6d2e71818008eb3b5c", null ],
+    [ "SummonedCreatureDies", "d1/d37/a23124.html#a5ec68a1bc5b22e03fe485448257ad7df", null ],
+    [ "UpdateAI", "d1/d37/a23124.html#a92d854cb21b272bd09674c724b1aa862", null ]
 ];

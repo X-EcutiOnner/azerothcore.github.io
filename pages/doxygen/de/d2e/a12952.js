@@ -1,6 +1,7 @@
 var a12952 =
 [
-    [ "boss_darkmaster_gandlingAI", "de/daa/a12956.html", "de/daa/a12956" ],
-    [ "boss_darkmaster_gandling", "de/d2e/a12952.html#a6db73fa3c8324f6bfdcb1ae6a72ee39b", null ],
-    [ "GetAI", "de/d2e/a12952.html#a21ea53862614303af31a517a53d1fbf6", null ]
+    [ "OnApply", "de/d2e/a12952.html#a21450cd59487a927bbc0a5a5e1ffa72b", null ],
+    [ "OnRemove", "de/d2e/a12952.html#a810203874163cf04798c3edbe69b747e", null ],
+    [ "PrepareAuraScript", "de/d2e/a12952.html#a3c17a7366acd9bd1863bae0f9218930a", null ],
+    [ "Register", "de/d2e/a12952.html#af2ad52165de188897fdeb8d62646b7cc", null ]
 ];

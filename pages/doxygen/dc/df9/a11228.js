@@ -1,6 +1,8 @@
 var a11228 =
 [
-    [ "DestinationTargetSelectHandler", "dc/df9/a11228.html#ab5ffcc89b7232afddd6bc47e7c347b79", null ],
-    [ "Call", "dc/df9/a11228.html#a81ae2eb856507ee22308ae2739854382", null ],
-    [ "DestinationTargetSelectHandlerScript", "dc/df9/a11228.html#a95e882b892a79b464a521a8367b2e9b7", null ]
+    [ "EffectHandler", "dc/df9/a11228.html#aebdff9758b3ec51a75220be43b0d7b44", null ],
+    [ "Call", "dc/df9/a11228.html#a7696d64688fa8b10cd58220fdd5fa5ba", null ],
+    [ "CheckEffect", "dc/df9/a11228.html#a8eeff14be65159b6f9a88b04abe14e8b", null ],
+    [ "ToString", "dc/df9/a11228.html#a5b583dc87f0146f06c9a38a5db92f4fb", null ],
+    [ "pEffectHandlerScript", "dc/df9/a11228.html#a88fbf00b2e35c462423ddeff55ac3dee", null ]
 ];

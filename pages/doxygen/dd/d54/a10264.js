@@ -1,17 +1,7 @@
 var a10264 =
 [
-    [ "GuildScript", "dd/d54/a10264.html#a9f2e849a2fb4a1cb901080f129692482", null ],
-    [ "CanGuildSendBankList", "dd/d54/a10264.html#a293f3d822ae075246f1a7552ce9b0424", null ],
-    [ "IsDatabaseBound", "dd/d54/a10264.html#aae0601f04ec90533bb7699c68f68fe8f", null ],
-    [ "OnAddMember", "dd/d54/a10264.html#a908df71c0d9be1258e624f4e977e8d75", null ],
-    [ "OnBankEvent", "dd/d54/a10264.html#a8f29c847a68fb41dd3bca4ac257ee159", null ],
-    [ "OnCreate", "dd/d54/a10264.html#acfc89fe841629beca8de15c23c48a6c7", null ],
-    [ "OnDisband", "dd/d54/a10264.html#a5c840084ca74af0556ac5d6256bfd75d", null ],
-    [ "OnEvent", "dd/d54/a10264.html#ad0733568cee8ded5c89d8404166201bb", null ],
-    [ "OnInfoChanged", "dd/d54/a10264.html#a3ce284c112b61c6077b509d55a52f388", null ],
-    [ "OnItemMove", "dd/d54/a10264.html#a2309a1ae2828cb7c758a5cf0329f1f5a", null ],
-    [ "OnMemberDepositMoney", "dd/d54/a10264.html#a64d676d964b408b6fde7ab9185951eb0", null ],
-    [ "OnMemberWitdrawMoney", "dd/d54/a10264.html#a503c5116512f8ac45506732674aa5635", null ],
-    [ "OnMOTDChanged", "dd/d54/a10264.html#ac5886f63fbc5da499843677339f4944b", null ],
-    [ "OnRemoveMember", "dd/d54/a10264.html#a0231be74a2625a91fc617980dfc41ca3", null ]
+    [ "GameEventScript", "dd/d54/a10264.html#ac43a9c70638ad56b69b5841ee8410374", null ],
+    [ "OnEventCheck", "dd/d54/a10264.html#aadab9593da561e9b19202d09b53cba36", null ],
+    [ "OnStart", "dd/d54/a10264.html#a0e61a9e1379aef55af93a593af84a3cc", null ],
+    [ "OnStop", "dd/d54/a10264.html#a4813f26f03e5ba79a740bf30558e604c", null ]
 ];

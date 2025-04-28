@@ -1,6 +1,9 @@
 var a22756 =
 [
-    [ "boss_essence_of_desireAI", "d2/d9c/a22760.html", "d2/d9c/a22760" ],
-    [ "boss_essence_of_desire", "d7/dae/a22756.html#a5006ce57dd19c2a80e961dedca8c503d", null ],
-    [ "GetAI", "d7/dae/a22756.html#a14b66470c508fa24e214062aeec0aae6", null ]
+    [ "HandleAfterCast", "d7/dae/a22756.html#a32928b579ef42f377e911ef27197ed61", null ],
+    [ "HandleDummy", "d7/dae/a22756.html#a2adec08f0cc42cb21e97007b5f1214bc", null ],
+    [ "Load", "d7/dae/a22756.html#ac870bd626367bdc704e63d2f3b061b1f", null ],
+    [ "PrepareSpellScript", "d7/dae/a22756.html#a1f51d5562d5caac8d7d0f71de0051989", null ],
+    [ "Register", "d7/dae/a22756.html#adf8c87e9f6a3fb36bf26ed1c8dbb722f", null ],
+    [ "_targetCount", "d7/dae/a22756.html#a84d46608f7141d68b1a67fffc3493cbb", null ]
 ];

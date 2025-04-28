@@ -1,9 +1,8 @@
 var a09156 =
 [
-    [ "ObjectUpdater", "d5/d0b/a09156.html#ad907a266bcf4c059a49195eae4758541", null ],
-    [ "Visit", "d5/d0b/a09156.html#a7dc639f90a38e6156a436ef6ff1204ec", null ],
-    [ "Visit", "d5/d0b/a09156.html#a2ca08c1a3f3f23111bffbd423ca47b1c", null ],
-    [ "Visit", "d5/d0b/a09156.html#a283b656ac784e64b98929eca83326027", null ],
-    [ "i_largeOnly", "d5/d0b/a09156.html#a8f3e4ed206f6793edf9bf358d1bdf2c2", null ],
-    [ "i_timeDiff", "d5/d0b/a09156.html#a4f1acae57c44d33449a8f040b02fa5e4", null ]
+    [ "AIRelocationNotifier", "d5/d0b/a09156.html#ab19dba99802231bc1ba7b3ae3cb4bdb3", null ],
+    [ "Visit", "d5/d0b/a09156.html#a06dd774a24d4a1da36a2a862c0ad97df", null ],
+    [ "Visit", "d5/d0b/a09156.html#a0ec9a2499d73516dd2d4a0319990924a", null ],
+    [ "i_unit", "d5/d0b/a09156.html#ab1dd814e4d94ed2989bb07012a24d40e", null ],
+    [ "isCreature", "d5/d0b/a09156.html#a199f4b91d00dd4db90855e5521d87a95", null ]
 ];

@@ -1,11 +1,13 @@
 var a13556 =
 [
-    [ "npc_highborne_lamenterAI", "d0/dcf/a13556.html#ad91cd657166a12d3c34adcf7b11d076f", null ],
-    [ "JustEngagedWith", "d0/dcf/a13556.html#a77a978fdb0ba0de506f66ec0b2906229", null ],
-    [ "Reset", "d0/dcf/a13556.html#a7cf9338767e8edf0a87a5552703de87a", null ],
-    [ "UpdateAI", "d0/dcf/a13556.html#a1048c558b825b58dbc7a3d97869a3e88", null ],
-    [ "EventCast", "d0/dcf/a13556.html#a02ed3216c8b71e3d2be695866dbc0089", null ],
-    [ "EventCastTimer", "d0/dcf/a13556.html#afc490ae2382fd7097b3877c7f9eadf6b", null ],
-    [ "EventMove", "d0/dcf/a13556.html#aca22c73db989f0393926067506794e43", null ],
-    [ "EventMoveTimer", "d0/dcf/a13556.html#a36d1993262eb0a7200e2bec625f5b4d1", null ]
+    [ "npc_ravenclaw_apparitionAI", "d0/dcf/a13556.html#a2a8a6cdb3d74e55cc3d6786ebcfb5328", null ],
+    [ "EmoteCrowd", "d0/dcf/a13556.html#a7a407c9b00bb24c4c3d057ec2a4b0fdc", null ],
+    [ "JustDied", "d0/dcf/a13556.html#a88f9d4e72273f8f835e809b27d5b52d8", null ],
+    [ "JustSummoned", "d0/dcf/a13556.html#a1ab2f2a6b0514d192a7962cf8315ee16", null ],
+    [ "SummonCrowd", "d0/dcf/a13556.html#af3f6ea6094b82e06ce7ef2d4432bd88a", null ],
+    [ "UpdateAI", "d0/dcf/a13556.html#ab3c6c27a31f12443efcad314cbfa1129", null ],
+    [ "events", "d0/dcf/a13556.html#a27522107b5e1f54909294f800f26663f", null ],
+    [ "HasEnded", "d0/dcf/a13556.html#a1b7a57b7204f51304ef05ee3d2265774", null ],
+    [ "summons", "d0/dcf/a13556.html#a85cde0a9d4903c89b29f68318730ab7f", null ],
+    [ "TalkRNG", "d0/dcf/a13556.html#a4b41f348e6756298d6a13b09fbf13fd0", null ]
 ];

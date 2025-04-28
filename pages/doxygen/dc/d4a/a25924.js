@@ -1,8 +1,8 @@
 var a25924 =
 [
-    [ "CalculateAmount", "dc/d4a/a25924.html#a8751483423726ffa8a33c70b7e55db23", null ],
-    [ "CheckProc", "dc/d4a/a25924.html#a046cd1087342cdcbd2e6b0f8ded7c03a", null ],
-    [ "HandleProc", "dc/d4a/a25924.html#abda070e7dfbb4ddc8d18cb3d180edc2e", null ],
-    [ "PrepareAuraScript", "dc/d4a/a25924.html#a6bb54cea419145875c4086a69e1e55e8", null ],
-    [ "Register", "dc/d4a/a25924.html#a8e92638bbdd786ef77b17f00dcf0f643", null ]
+    [ "Absorb", "dc/d4a/a25924.html#a9378cde1cc6daab0dc111b94aef4f6c8", null ],
+    [ "CalculateAmount", "dc/d4a/a25924.html#a20d5b4776ebeb859b0641af640e41d80", null ],
+    [ "PrepareAuraScript", "dc/d4a/a25924.html#ae1a70e11e89c4252e481ad737ad00ae0", null ],
+    [ "Register", "dc/d4a/a25924.html#a8c5399ba68554f4c2e842c5492ad715c", null ],
+    [ "Validate", "dc/d4a/a25924.html#aa6264e4dbff71b0d82e3403984c59c03", null ]
 ];

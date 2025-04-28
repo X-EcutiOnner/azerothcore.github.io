@@ -1,7 +1,9 @@
 var a22324 =
 [
-    [ "npc_storm_cloudAI", "db/deb/a22324.html#aa4dd9409cd74f3c2c878974715e43394", null ],
-    [ "JustRespawned", "db/deb/a22324.html#ad0f99362f7ab506b322b6d75890881c1", null ],
-    [ "Reset", "db/deb/a22324.html#a99654ac86502e3ac2f899082269ccb01", null ],
-    [ "SpellHit", "db/deb/a22324.html#ac51313cec4d76216f3c716d988fc4857", null ]
+    [ "npc_finklesteinAI", "d8/dd7/a22328.html", "d8/dd7/a22328" ],
+    [ "npc_finklestein", "db/deb/a22324.html#aa719b4bb95012c22ef8123e255e32edd", null ],
+    [ "GetAI", "db/deb/a22324.html#a1f0d91d2a50aca9d0496b6bd03986c8e", null ],
+    [ "OnGossipHello", "db/deb/a22324.html#ac82d5e5dc2e0539c90dfcfe17430548c", null ],
+    [ "OnGossipSelect", "db/deb/a22324.html#a7a744207e8f43672f0e6bf2354186ec4", null ],
+    [ "OnQuestAccept", "db/deb/a22324.html#a94291aa98e35552bc7d722ddf2a83af2", null ]
 ];

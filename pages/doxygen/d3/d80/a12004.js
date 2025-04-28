@@ -1,11 +1,14 @@
 var a12004 =
 [
-    [ "npc_blackhand_incarceratorAI", "d3/d80/a12004.html#adecfd5bcc6bf5fee0688459ebac03e18", null ],
-    [ "DamageTaken", "d3/d80/a12004.html#a3bc090518cba2bc64fb5c454bbb47b72", null ],
-    [ "JustEngagedWith", "d3/d80/a12004.html#a2026328f428c4e5c15551773255da21f", null ],
-    [ "Reset", "d3/d80/a12004.html#a3a98f2d5fd764c852a1d9418315cd56b", null ],
-    [ "SetData", "d3/d80/a12004.html#ae9d92237c6327abd78ada9a306ee8a09", null ],
-    [ "UpdateAI", "d3/d80/a12004.html#a1bc6aa88d7bc5163e2cc4e2cc1779076", null ],
-    [ "_events", "d3/d80/a12004.html#abcd817233c0cb85656856c4107d86793", null ],
-    [ "_fleedForAssistance", "d3/d80/a12004.html#ab4e59b91b47dffc19db6b49ecd4c9fd8", null ]
+    [ "boss_mor_grayhoof", "d3/d80/a12004.html#aef1001233a51ad3bb9963c540d39d79b", null ],
+    [ "CastRandomSpell", "d3/d80/a12004.html#a00756d64d24088ebf408153fcb59ff13", null ],
+    [ "DamageTaken", "d3/d80/a12004.html#a164a911eb9a86964a61866c05d44512f", null ],
+    [ "JustDied", "d3/d80/a12004.html#aa98fbfc5cc4ee94e0323d8586dae1e1c", null ],
+    [ "JustEngagedWith", "d3/d80/a12004.html#a043f6ee099efd0d49982b2966604e65a", null ],
+    [ "Reset", "d3/d80/a12004.html#af313bd8509a76cd6b6fbc197f15afbff", null ],
+    [ "UpdateAI", "d3/d80/a12004.html#aaa6a1a9b6e4259aea46d2f25bca3b809", null ],
+    [ "_phase", "d3/d80/a12004.html#a40bf6a66aefe7a605d94526b5a586ba6", null ],
+    [ "_scheduler", "d3/d80/a12004.html#ad2a897281d308475957e2636c6536fdd", null ],
+    [ "_sleepTargetGUID", "d3/d80/a12004.html#a8baa606696dc8acf532e8badfc6c624b", null ],
+    [ "_sleepTargetThreat", "d3/d80/a12004.html#ac62d7d30b12d0c2da9553b9689091e0e", null ]
 ];

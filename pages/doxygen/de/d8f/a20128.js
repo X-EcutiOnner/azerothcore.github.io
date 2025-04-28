@@ -1,6 +1,15 @@
 var a20128 =
 [
-    [ "HandleAfterEffectApply", "de/d8f/a20128.html#af655bb31dc24a3cede08ca371f784913", null ],
-    [ "PrepareAuraScript", "de/d8f/a20128.html#a1824853d0b369deac0745fabe2df657c", null ],
-    [ "Register", "de/d8f/a20128.html#a33e7c6cab2c99789661e6bb2d6b9a593", null ]
+    [ "npc_ulduar_hodir_shamanAI", "de/d8f/a20128.html#a4f18b06f254b57787b7ab31c9b422402", null ],
+    [ "AttackStart", "de/d8f/a20128.html#a022aabbc965872925698bd53fad2f84d", null ],
+    [ "CanAIAttack", "de/d8f/a20128.html#a21b3804fe0af15e59e9af30260552666", null ],
+    [ "EnterEvadeMode", "de/d8f/a20128.html#af9cfc1dc173e0a4d82f1dbc8eb1cbcba", null ],
+    [ "JustDied", "de/d8f/a20128.html#a5c06c412d38203bb10e9951e27d5760a", null ],
+    [ "MoveInLineOfSight", "de/d8f/a20128.html#a24d570f1c4a133c4f001032a1c915a27", null ],
+    [ "ScheduleAbilities", "de/d8f/a20128.html#ac197b53bc03fd8bdf44b8b2e2a64f568", null ],
+    [ "SpellHit", "de/d8f/a20128.html#a3c61b680a0d75a87bfaf4d8ae8072ea9", null ],
+    [ "SpellHitTarget", "de/d8f/a20128.html#ae829e62ec342c1e0d12a523506ea6b04", null ],
+    [ "UpdateAI", "de/d8f/a20128.html#af961f02169ab700716410e26114fd857", null ],
+    [ "events", "de/d8f/a20128.html#ad92f69d2a63313798e16cfbaf55301ca", null ],
+    [ "pInstance", "de/d8f/a20128.html#af4f0d720b9d9e4cbe4805cfc0c9a12c8", null ]
 ];

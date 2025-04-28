@@ -1,10 +1,8 @@
 var a01496 =
 [
-    [ "TradeData", "d8/dd0/a08613.html", "d8/dd0/a08613" ],
-    [ "TradeSlots", "d1/dde/a01496.html#ad8fd978c4198825d89a1f02643d20c62", [
-      [ "TRADE_SLOT_COUNT", "d1/dde/a01496.html#ad8fd978c4198825d89a1f02643d20c62a1e8d56a5a22d784c5d388fd8bd206488", null ],
-      [ "TRADE_SLOT_TRADED_COUNT", "d1/dde/a01496.html#ad8fd978c4198825d89a1f02643d20c62ab52f8b8c3be8445987c622e4dfacaa79", null ],
-      [ "TRADE_SLOT_NONTRADED", "d1/dde/a01496.html#ad8fd978c4198825d89a1f02643d20c62abdab7c30065c4b145dd2e6ce0e27c45f", null ],
-      [ "TRADE_SLOT_INVALID", "d1/dde/a01496.html#ad8fd978c4198825d89a1f02643d20c62ab98427dca4bc30e207c0433e5e307ad4", null ]
-    ] ]
+    [ "instance_the_black_morass", "d2/de9/a14736.html", "d2/de9/a14736" ],
+    [ "instance_the_black_morass::instance_the_black_morass_InstanceMapScript", "d2/d55/a14740.html", "d2/d55/a14740" ],
+    [ "AddSC_instance_the_black_morass", "d1/dde/a01496.html#a665f808519def7182fa25d9c0a4525f6", null ],
+    [ "creatureData", "d1/dde/a01496.html#a412286b689bd324fedd65ddd8dde8afb", null ],
+    [ "PortalLocation", "d1/dde/a01496.html#a744b7235a198467a51550de127971bb1", null ]
 ];

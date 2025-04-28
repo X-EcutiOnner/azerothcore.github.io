@@ -1,22 +1,7 @@
 var a16412 =
 [
-    [ "boss_jormungarAI", "dd/dae/a16412.html#ab5291ccd06b4a0601e3426a89a86d99d", null ],
-    [ "AttackStart", "dd/dae/a16412.html#acabeffd2f9978b25a0b27abfbb3f5220", null ],
-    [ "DoAction", "dd/dae/a16412.html#a5ce0f99d3889933633e1d88b4bacee88", null ],
-    [ "EnterEvadeMode", "dd/dae/a16412.html#aa3cd34a173b92dd2b54a28bb1b17fae7", null ],
-    [ "JustDied", "dd/dae/a16412.html#a2a9278b547776c84b756b6fb2fc89e67", null ],
-    [ "JustEngagedWith", "dd/dae/a16412.html#af5a266b577c5bb8ef8f7bbd7fddc163e", null ],
-    [ "JustReachedHome", "dd/dae/a16412.html#afd345729b079d2dacd8f37f4481968f1", null ],
-    [ "ScheduleEvents", "dd/dae/a16412.html#a6fd24ecd0be5692e9e389833a6134de5", null ],
-    [ "UpdateAI", "dd/dae/a16412.html#ad8e5bf4176dfa37c3af476f6f71e699e", null ],
-    [ "_MODEL_MOBILE", "dd/dae/a16412.html#a4be09bf0ae4c96d77edd5b1577b8aa28", null ],
-    [ "_MODEL_STATIONARY", "dd/dae/a16412.html#adb7d8c493523dadcd0168899621cd246", null ],
-    [ "_SPELL_BITE", "dd/dae/a16412.html#a604bcb56112044c4e437a9c447f0db51", null ],
-    [ "_SPELL_SPEW", "dd/dae/a16412.html#af8f47b7cbad0adb835c1bdcf40ca5288", null ],
-    [ "_SPELL_SPIT", "dd/dae/a16412.html#a4bdfcadfd0ebcc98b0a2c221b3a387b2", null ],
-    [ "_SPELL_SPRAY", "dd/dae/a16412.html#ac73edc1b85cd78b045657279335a7564", null ],
-    [ "_TYPE_OTHER", "dd/dae/a16412.html#a4c341523dfc63b6c9b73f9e3a49ce854", null ],
-    [ "bIsStationary", "dd/dae/a16412.html#a16e42748b51576e6acb7cb30794b47bf", null ],
-    [ "events", "dd/dae/a16412.html#a08cfa4cc7bf270926bf1d3fc8089318f", null ],
-    [ "pInstance", "dd/dae/a16412.html#a981495f258c2fdeec9d0139ab02cf044", null ]
+    [ "HandleDispel", "dd/dae/a16412.html#a7b24f38bbb7813826520f928b22d30aa", null ],
+    [ "PrepareAuraScript", "dd/dae/a16412.html#a0e0424bd590cfc4f85f40728bf6efd22", null ],
+    [ "Register", "dd/dae/a16412.html#a2bf6921550da3c13730fd98bded2c927", null ],
+    [ "Validate", "dd/dae/a16412.html#ad8b0bb389d232c74acf106b711414fa1", null ]
 ];

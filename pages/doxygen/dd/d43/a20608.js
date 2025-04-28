@@ -1,6 +1,6 @@
 var a20608 =
 [
-    [ "PrepareSpellScript", "dd/d43/a20608.html#a525025d429743f9d606289ca1a660796", null ],
-    [ "Register", "dd/d43/a20608.html#a66f565c07d495f27aaba393fdcce9d24", null ],
-    [ "SelectTarget", "dd/d43/a20608.html#a1c55fabe15cdccb073e109e1d0f6e6ad", null ]
+    [ "boss_xt002AI", "d9/dda/a20612.html", "d9/dda/a20612" ],
+    [ "boss_xt002", "dd/d43/a20608.html#aebd7e513b3bef6a25ad0f9766d18174e", null ],
+    [ "GetAI", "dd/d43/a20608.html#a146e4a10da7d81213e7f63d6e86c79f2", null ]
 ];

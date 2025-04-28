@@ -1,9 +1,5 @@
 var a04058 =
 [
-    [ "OutdoorPvP_hellfire_peninsula", "d9/d95/a22425.html", "d9/d95/a22425" ],
-    [ "AddSC_outdoorpvp_hp", "dc/d64/a04058.html#a69303ad6f661d8c009ee493dc4fd486c", null ],
-    [ "HP_LANG_CAPTURE_A", "dc/d64/a04058.html#a642fe1233b764402bae812604b684442", null ],
-    [ "HP_LANG_CAPTURE_H", "dc/d64/a04058.html#a3ae9bb2c949b7f3c852ce2e4552d8ccd", null ],
-    [ "HP_LANG_LOSE_A", "dc/d64/a04058.html#a1b9adf9c71e549e4545c2e4eabe58dd5", null ],
-    [ "HP_LANG_LOSE_H", "dc/d64/a04058.html#ad62cd8f07ac98311202494985c6ae9c8", null ]
+    [ "CreatureTextBuilder", "d3/dfb/a11340.html", "d3/dfb/a11340" ],
+    [ "PlayerTextBuilder", "d8/d12/a11344.html", "d8/d12/a11344" ]
 ];

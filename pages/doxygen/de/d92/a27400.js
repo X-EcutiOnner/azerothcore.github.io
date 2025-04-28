@@ -1,8 +1,13 @@
 var a27400 =
 [
-    [ "npc_chicken_cluckAI", "d0/d7e/a27404.html", "d0/d7e/a27404" ],
-    [ "npc_chicken_cluck", "de/d92/a27400.html#a7bc08c81fca730886c47e0f3a3d8062c", null ],
-    [ "GetAI", "de/d92/a27400.html#abf986f555672823477c3c17e0f59bdbe", null ],
-    [ "OnQuestAccept", "de/d92/a27400.html#acca62c027b5b0cdff107e04cf2c276ea", null ],
-    [ "OnQuestComplete", "de/d92/a27400.html#a8f22520166a557e066502eb16bdae774", null ]
+    [ "npc_nelsonAI", "de/d92/a27400.html#af6aada5c34048ce6bda6d5c1541e0bf3", null ],
+    [ "DoAction", "de/d92/a27400.html#a13ec2adee9d671f949139dbf94c75cc3", null ],
+    [ "JustEngagedWith", "de/d92/a27400.html#accb9aeb3b3f3fc2233598b7fef40c3ec", null ],
+    [ "JustSummoned", "de/d92/a27400.html#a31d622d73a2540e159720d4c8ddc7d00", null ],
+    [ "Reset", "de/d92/a27400.html#a05fcb98153f0a24f50004f465d8f3c72", null ],
+    [ "SpellHit", "de/d92/a27400.html#afab81d8a6077c755c186bb619944d78d", null ],
+    [ "SummonedCreatureDies", "de/d92/a27400.html#ab3753c9b6848c1567ac596a5f6b498a1", null ],
+    [ "UpdateAI", "de/d92/a27400.html#ac68749942f37de5f9105556fe7b904b7", null ],
+    [ "events", "de/d92/a27400.html#a25eb289b79de306bbdc0dd099b23a2a0", null ],
+    [ "shouldDespawn", "de/d92/a27400.html#a09a68f903854fcedd8a4b2ee4c2597e2", null ]
 ];

@@ -1,7 +1,5 @@
 var a00689 =
 [
-    [ "IdleMovementGenerator", "d7/d76/a09933.html", "d7/d76/a09933" ],
-    [ "RotateMovementGenerator", "db/dc0/a09937.html", "db/dc0/a09937" ],
-    [ "DistractMovementGenerator", "d6/dc8/a09941.html", "d6/dc8/a09941" ],
-    [ "AssistanceDistractMovementGenerator", "d4/d5d/a09945.html", "d4/d5d/a09945" ]
+    [ "tele_commandscript", "d1/d05/a11716.html", "d1/d05/a11716" ],
+    [ "AddSC_tele_commandscript", "d1/d87/a00689.html#a75673ffc02c68c43cefd69bb0648dd53", null ]
 ];

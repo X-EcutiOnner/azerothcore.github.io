@@ -1,13 +1,8 @@
 var a11616 =
 [
-    [ "list_commandscript", "df/d4b/a11616.html#a5a85953a46afe08fe05a11fe69c934dc", null ],
-    [ "GetCommands", "df/d4b/a11616.html#a949c6e6f372afb50e1116b6414acdd7c", null ],
-    [ "HandleListAllAurasCommand", "df/d4b/a11616.html#a93f1fe9131b917c813058899efede2a5", null ],
-    [ "HandleListAurasByIdCommand", "df/d4b/a11616.html#a3c59e8b85175ef056b07f566c231c221", null ],
-    [ "HandleListAurasByNameCommand", "df/d4b/a11616.html#a78d6be53ddae80068e2d9c04ea494e24", null ],
-    [ "HandleListCreatureCommand", "df/d4b/a11616.html#a48388f1c839cec6597c74740ec49fa68", null ],
-    [ "HandleListItemCommand", "df/d4b/a11616.html#a7d0aadb081f25c3d533951bd9841f103", null ],
-    [ "HandleListObjectCommand", "df/d4b/a11616.html#ac8b32be8650c9e54388320d650c9761b", null ],
-    [ "ListAurasCommand", "df/d4b/a11616.html#a98c9f6fb42e8030d76f234cdb02a72fb", null ],
-    [ "ShouldListAura", "df/d4b/a11616.html#afc42154ec5e978b366780fb600b17e8d", null ]
+    [ "honor_commandscript", "df/d4b/a11616.html#a7c1a6c172b970d1a35a4014d783dc783", null ],
+    [ "GetCommands", "df/d4b/a11616.html#a29a0068f9dd1e9b3f0adf80bddaadbbc", null ],
+    [ "HandleHonorAddCommand", "df/d4b/a11616.html#a03caa77b436e3d513e1325badf05df33", null ],
+    [ "HandleHonorAddKillCommand", "df/d4b/a11616.html#aec79f459796d821a032477827e16308a", null ],
+    [ "HandleHonorUpdateCommand", "df/d4b/a11616.html#a11831a3ea577f3f1e06fea3d0dbc0147", null ]
 ];

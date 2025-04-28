@@ -1,6 +1,6 @@
 var a13096 =
 [
-    [ "instance_sunken_temple_InstanceMapScript", "d0/d96/a13100.html", "d0/d96/a13100" ],
-    [ "instance_sunken_temple", "d1/d15/a13096.html#a123b052c1cd1487588c88bf2611bc53b", null ],
-    [ "GetInstanceScript", "d1/d15/a13096.html#a1a783056b681f1f3b90e2e33e6a4a86d", null ]
+    [ "boss_baroness_anastariAI", "d0/d96/a13100.html", "d0/d96/a13100" ],
+    [ "boss_baroness_anastari", "d1/d15/a13096.html#a60f04c10d9b942cacf74a1dc8364dbbe", null ],
+    [ "GetAI", "d1/d15/a13096.html#a38073f80afbceb5535cc18ab524378a6", null ]
 ];

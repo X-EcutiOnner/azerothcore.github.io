@@ -1,7 +1,9 @@
 var a15884 =
 [
-    [ "npc_baltharus_the_warborn_cloneAI", "d4/dfd/a15884.html#aed531e61508d4d404827f47c6348a5e6", null ],
-    [ "JustEngagedWith", "d4/dfd/a15884.html#ad906b7602a34abcfaede92cba6f0a6d7", null ],
-    [ "UpdateAI", "d4/dfd/a15884.html#ab0c1cf041146a3e16a33986e3e824a2d", null ],
-    [ "_events", "d4/dfd/a15884.html#a6e2819f73f0fccd02b7188f0e6f1ffa9", null ]
+    [ "boss_sartharion_vesperonAI", "d4/dfd/a15884.html#afd67bf2c7a479771976673b05b0fc29e", null ],
+    [ "ClearInstance", "d4/dfd/a15884.html#aad9556374e26cbea7641461510fef9ba", null ],
+    [ "ExecuteEvent", "d4/dfd/a15884.html#aaf88a9e57c0d35f9e5d3fbcd4e2f5d09", null ],
+    [ "HandleExtraEvent", "d4/dfd/a15884.html#ab2080a14c105aeb6a9c155cf6f4ec17d", null ],
+    [ "Reset", "d4/dfd/a15884.html#aacf26c52f77ef4eb084814934f00aab1", null ],
+    [ "SummonedCreatureDies", "d4/dfd/a15884.html#a1e6fc9b1c734e73e5e27f6a17cf65d0b", null ]
 ];

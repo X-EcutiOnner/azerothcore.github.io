@@ -1,6 +1,7 @@
 var a22244 =
 [
-    [ "HandlePeriodicDummy", "d2/d6f/a22244.html#a0096e0521c37a4f7f9ab1f2173a807d4", null ],
-    [ "PrepareAuraScript", "d2/d6f/a22244.html#ad55ab81c39e8bf53d1e2066bbeefa712", null ],
-    [ "Register", "d2/d6f/a22244.html#afeccfe29a0e0f192a4242217f9d4b7e5", null ]
+    [ "npc_wg_demolisher_engineer", "d2/d6f/a22244.html#a722ff6bac34730bfb5f36584d7a62ff8", null ],
+    [ "canBuild", "d2/d6f/a22244.html#a5dd51b0d0a05ebfb648faab570e27881", null ],
+    [ "OnGossipHello", "d2/d6f/a22244.html#ac3b0bbfd66bb94f29a6d733999b8c6ba", null ],
+    [ "OnGossipSelect", "d2/d6f/a22244.html#a3ecf69f45918bef0cb51023327ac9693", null ]
 ];

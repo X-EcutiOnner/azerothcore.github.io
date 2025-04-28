@@ -1,13 +1,9 @@
 var a24304 =
 [
-    [ "npc_pet_mage_mirror_image", "d8/d25/a24304.html#a2761cc9bf3a8bb7908d3db6d929721ba", null ],
-    [ "EnterEvadeMode", "d8/d25/a24304.html#a858b070fb53112dc78554f0b20cd876a", null ],
-    [ "InitializeAI", "d8/d25/a24304.html#a66d513908aa88504d0cbe4ce9bf222be", null ],
-    [ "MySelectNextTarget", "d8/d25/a24304.html#a49d57ba93cd88816f68c16d56d3b8cd2", null ],
-    [ "Reset", "d8/d25/a24304.html#a79a8c153ab61c619d928ec5535e67077", null ],
-    [ "UpdateAI", "d8/d25/a24304.html#aa219b3adc38b625c6885089895b941b4", null ],
-    [ "_ebonGargoyleGUID", "d8/d25/a24304.html#a8be57d06114f108e74b850ce66722bf3", null ],
-    [ "checktarget", "d8/d25/a24304.html#a074611355768dc2072da69ed9d72242b", null ],
-    [ "dist", "d8/d25/a24304.html#a7fcde453faf05a64e4c7099d840c0e2b", null ],
-    [ "selectionTimer", "d8/d25/a24304.html#a7d7a6ebd88afecd7ae7aaeda0cee6cf7", null ]
+    [ "npc_pet_gen_soul_trader_beacon", "d8/d25/a24304.html#a58ef19b8c08aee764bdd55e480d9d750", null ],
+    [ "GetOwner", "d8/d25/a24304.html#a72bfd4cf6c734d1f1070a1560131667d", null ],
+    [ "SpellHitTarget", "d8/d25/a24304.html#a6c0d3181b913c5022325f66586f66bfa", null ],
+    [ "UpdateAI", "d8/d25/a24304.html#a18c06958e6b3d4306a6fdb5f9924d7ff", null ],
+    [ "events", "d8/d25/a24304.html#ae0a6d4850a0a0da4bd04227b11bae9e4", null ],
+    [ "ownerGUID", "d8/d25/a24304.html#a3a42e83216c0111a740a0c89e57c6f62", null ]
 ];

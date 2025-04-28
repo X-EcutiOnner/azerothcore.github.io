@@ -1,8 +1,9 @@
 var a14324 =
 [
-    [ "OnApply", "d1/d35/a14324.html#a6bc23ff885f4fbc25d00fe35173bad3e", null ],
-    [ "OnRemove", "d1/d35/a14324.html#aed62006fe08bfaad0a8bb51d5e739c67", null ],
-    [ "PrepareAuraScript", "d1/d35/a14324.html#ac7388aa4c0746ce963cbbb97dbfb4765", null ],
-    [ "Register", "d1/d35/a14324.html#a95c3af6d3f1d510ad8a2d9be7e28b2dc", null ],
-    [ "Validate", "d1/d35/a14324.html#a0ed19bc16fa8e2da2332766bbc1110e5", null ]
+    [ "npc_love_in_air_snivel", "d1/d35/a14324.html#ab04596fb96292f54cf2a10f662dc94a3", null ],
+    [ "AllowAction", "d1/d35/a14324.html#af1097317f62bbb8f8456124001c73576", null ],
+    [ "MoveInLineOfSight", "d1/d35/a14324.html#ae6537707109b95fad20e521d07867cdd", null ],
+    [ "Reset", "d1/d35/a14324.html#a2385ea44d9f44735b193add4a0d0485b", null ],
+    [ "UpdateAI", "d1/d35/a14324.html#a9e712994663e3442359d2f574ebc812c", null ],
+    [ "delay", "d1/d35/a14324.html#a548db6245ef875ec47279246e437934c", null ]
 ];

@@ -1,5 +1,5 @@
 var a23292 =
 [
-    [ "instance_the_underbog_InstanceMapScript", "dc/d28/a23292.html#ae7668c7c4432b74caa3ea46a7c7364e3", null ],
-    [ "Initialize", "dc/d28/a23292.html#a9c7c10020eef3db4794283c0f946d086", null ]
+    [ "go_main_chambers_access_panel", "dc/d28/a23292.html#a30c3c20be1892b5107ef53683d593b75", null ],
+    [ "OnGossipHello", "dc/d28/a23292.html#af4b3a4a0260de68dcfac7202e0a728ee", null ]
 ];

@@ -1,6 +1,6 @@
 var a22152 =
 [
-    [ "npc_icefangAI", "d6/dda/a22156.html", "d6/dda/a22156" ],
-    [ "npc_icefang", "dd/d1c/a22152.html#a2e13be89b110abaa2509e597e4cf883a", null ],
-    [ "GetAI", "dd/d1c/a22152.html#ad1a936b1eef30271912054a817e0c9f8", null ]
+    [ "npc_frosthoundAI", "d6/dda/a22156.html", "d6/dda/a22156" ],
+    [ "npc_frosthound", "dd/d1c/a22152.html#a3266f5186d1db0c010f586d3272725a6", null ],
+    [ "GetAI", "dd/d1c/a22152.html#a49cd41753c715f166fc903df9dcfdd6b", null ]
 ];

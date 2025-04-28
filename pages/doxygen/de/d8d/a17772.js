@@ -1,6 +1,6 @@
 var a17772 =
 [
-    [ "OnRemove", "de/d8d/a17772.html#ab9c21998c71991ff74e6dfcf4d32f126", null ],
-    [ "PrepareAuraScript", "de/d8d/a17772.html#a8fb5803b07022f9bd3d246216bac5abb", null ],
-    [ "Register", "de/d8d/a17772.html#afa993cb14444989feac16c9fa2d7b8df", null ]
+    [ "PrepareSpellScript", "de/d8d/a17772.html#a16eadb50b6038f16ea28464d00df3381", null ],
+    [ "Register", "de/d8d/a17772.html#ac6e304d391011863b8eff8105fab5191", null ],
+    [ "SelectDest", "de/d8d/a17772.html#a8ff5d684c0b91d0f068d03698c1ee92c", null ]
 ];

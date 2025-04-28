@@ -1,10 +1,7 @@
 var a08792 =
 [
-    [ "MapType", "de/d2b/a08792.html#a8fa5f0aca9316901f42b2df8251c5a5d", null ],
-    [ "HashMapHolder", "de/d2b/a08792.html#ad10240097462af2a8a76c9429bd7cbca", null ],
-    [ "Find", "de/d2b/a08792.html#a314b4ce3265136fe326b909fe6ef6716", null ],
-    [ "GetContainer", "de/d2b/a08792.html#ad9dfe5d223496a379a4aec0fc12c42d9", null ],
-    [ "GetLock", "de/d2b/a08792.html#a52cc052c8d73d5b700c7f9253138942f", null ],
-    [ "Insert", "de/d2b/a08792.html#af5c618228c141e28ffa11468cfffb21a", null ],
-    [ "Remove", "de/d2b/a08792.html#a7b9c3761746641133d4a9837559c0bb0", null ]
+    [ "EquipementIdPrev", "de/d2b/a08792.html#a719c716f8914a200bfde4f5bb3275f26", null ],
+    [ "EquipmentId", "de/d2b/a08792.html#af7f6e5bbb8327e5abf4e17a8a164cc4d", null ],
+    [ "ModelId", "de/d2b/a08792.html#ade2b2413020be410428b9fee9aa284d6", null ],
+    [ "ModelIdPrev", "de/d2b/a08792.html#a9de7aa11788b22692738b72718193057", null ]
 ];

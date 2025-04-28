@@ -1,4 +1,5 @@
 var a14756 =
 [
-    [ "instance_ragefire_chasm_InstanceMapScript", "d3/d27/a14756.html#a4b55a59943c798b203a0a3c811588e7d", null ]
+    [ "npc_black_morass_summoned_add", "d3/d27/a14756.html#ab1551fc3e746dc724ea433f7a3daa786", null ],
+    [ "EnterEvadeMode", "d3/d27/a14756.html#a437e7b72b985713d22883f3e33f30942", null ]
 ];

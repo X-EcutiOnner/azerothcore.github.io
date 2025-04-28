@@ -1,7 +1,6 @@
 var a23588 =
 [
-    [ "HandleCast", "dc/d75/a23588.html#a0084e7f81fcd032c1e04b8f86d821993", null ],
-    [ "PrepareSpellScript", "dc/d75/a23588.html#acfd6b86e5afed08fd9cf43f64e948149", null ],
-    [ "Register", "dc/d75/a23588.html#a6ae0573ea69573df64cd57ba84f99918", null ],
-    [ "Validate", "dc/d75/a23588.html#ab5794ca5c0863ce40194ed40e156279a", null ]
+    [ "instance_shattered_halls_InstanceMapScript", "d6/d65/a23592.html", "d6/d65/a23592" ],
+    [ "instance_shattered_halls", "dc/d75/a23588.html#a9d0d3b6baec34c679151791610cff3a7", null ],
+    [ "GetInstanceScript", "dc/d75/a23588.html#a82388466811b022a725ba721845cadf3", null ]
 ];

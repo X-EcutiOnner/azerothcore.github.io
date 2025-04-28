@@ -1,6 +1,5 @@
 var a26964 =
 [
-    [ "boss_ysondreAI", "dc/d07/a26968.html", "dc/d07/a26968" ],
-    [ "boss_ysondre", "df/dff/a26964.html#ad12dbb728f4f0cdf2f4c0ba9cd2a167d", null ],
-    [ "GetAI", "df/dff/a26964.html#a0da215d7bc8ee86216887e682b9335c3", null ]
+    [ "achievement_flirt_with_disaster_perf_check", "df/dff/a26964.html#a8cb843ed26248ceff594ef552b0ae9ae", null ],
+    [ "OnCheck", "df/dff/a26964.html#a15e620be2f37f930477ba94293dbaf63", null ]
 ];

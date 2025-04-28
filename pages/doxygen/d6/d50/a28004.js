@@ -1,4 +1,5 @@
 var a28004 =
 [
-    [ "ratio", "d6/d50/a28004.html#a4d2880eb4c15dca8148ee5aa21920e6d", null ]
+    [ "Itemlvl", "d6/d50/a28004.html#a39d9dcee397a1f5984184c769f9b8b17", null ],
+    [ "multiplier", "d6/d50/a28004.html#a5c6c206a6185a546223de7501ff846f6", null ]
 ];

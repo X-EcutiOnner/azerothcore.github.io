@@ -1,7 +1,8 @@
 var a15368 =
 [
-    [ "npc_shenthulAI", "d5/d3e/a15372.html", "d5/d3e/a15372" ],
-    [ "npc_shenthul", "d3/d9a/a15368.html#a77815503c7d9c811fe3821232e308714", null ],
-    [ "GetAI", "d3/d9a/a15368.html#a1683f8c89add6270277c59951c74027e", null ],
-    [ "OnQuestAccept", "d3/d9a/a15368.html#a3a63fec338dca74eb7d071dfcc9c95b5", null ]
+    [ "FilterTargets", "d3/d9a/a15368.html#a47b8055fa1b28968e8323ca98613aa83", null ],
+    [ "HandleScript", "d3/d9a/a15368.html#a8f7984e510d8947a2ae4b0734409866b", null ],
+    [ "PrepareSpellScript", "d3/d9a/a15368.html#a5c12caf56e95a9f7960ed9f4a3945c7c", null ],
+    [ "Register", "d3/d9a/a15368.html#adf76a5d9145f88aad5b3dd164fa4fcc4", null ],
+    [ "Validate", "d3/d9a/a15368.html#aa3f9c6418eb804a2ddf235beb8491a19", null ]
 ];

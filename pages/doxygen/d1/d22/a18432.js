@@ -1,6 +1,9 @@
 var a18432 =
 [
-    [ "CaptainSurviveTalk", "d1/d22/a18432.html#a43a1b1da17ed41ae765aabc47c858f80", null ],
-    [ "Execute", "d1/d22/a18432.html#a871cf08e8c7fced2971cae8abbc20454", null ],
-    [ "_owner", "d1/d22/a18432.html#ac8de506afb4688560ea637918d07b01e", null ]
+    [ "npc_gluttonous_abominationAI", "d1/d22/a18432.html#a8b9b632e2e26ef8d0e8c122d28530e81", null ],
+    [ "JustDied", "d1/d22/a18432.html#abc0dd71bbaf85786f34367acc3a849e9", null ],
+    [ "JustSummoned", "d1/d22/a18432.html#a49ff3db7845167b9e98feab2a01b1ed1", null ],
+    [ "Reset", "d1/d22/a18432.html#a45588181429a74ac024e0390c76fa57a", null ],
+    [ "UpdateAI", "d1/d22/a18432.html#a33ef03a9f005ff187493275a9c2683a7", null ],
+    [ "_events", "d1/d22/a18432.html#a4a841c7d2565f4797bc893a9c1ee7acd", null ]
 ];

@@ -1,6 +1,6 @@
 var a14008 =
 [
-    [ "npc_brewfest_keg_thrower", "db/dc6/a14008.html#a29da1efd21fe6737684607e5b360ea84", null ],
-    [ "CanBeSeen", "db/dc6/a14008.html#a36212d0f17c0070d3ef3cc25577ff7b9", null ],
-    [ "MoveInLineOfSight", "db/dc6/a14008.html#a3938b0e63553e79302ba966c6cdcf9be", null ]
+    [ "boss_renatakiAI", "da/d46/a14012.html", "da/d46/a14012" ],
+    [ "boss_renataki", "db/dc6/a14008.html#a8504ed2df8c8f8a85fc9d0e99cc24ec6", null ],
+    [ "GetAI", "db/dc6/a14008.html#a386b7ef3d1fc4070eb300cf4fdaa4d9a", null ]
 ];

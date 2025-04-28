@@ -1,7 +1,6 @@
 var a26028 =
 [
-    [ "HandleProc", "d5/d3c/a26028.html#a72463db57f87387aa3ff3175c45ca9df", null ],
-    [ "PrepareAuraScript", "d5/d3c/a26028.html#ae158b4b624b50ad984b2c5e9c16d7670", null ],
-    [ "Register", "d5/d3c/a26028.html#a2da64a27cfa5a68464f8f3a885e09751", null ],
-    [ "Validate", "d5/d3c/a26028.html#a798f51ee6333d3ebb2bbb617ea88ea2b", null ]
+    [ "FilterTargets", "d5/d3c/a26028.html#a9ee58cd4e7a0fa59bfb6ef1270d51f21", null ],
+    [ "PrepareSpellScript", "d5/d3c/a26028.html#a5992d94317d3da7400d5a9ab115e621e", null ],
+    [ "Register", "d5/d3c/a26028.html#a125ce6c8dfdc6419b4409c72f74fcf85", null ]
 ];

@@ -1,7 +1,8 @@
 var a16216 =
 [
-    [ "HandleEffectPeriodic", "de/d9f/a16216.html#a7d6d15b8eecfcfb4c36d6504920bd119", null ],
-    [ "PrepareAuraScript", "de/d9f/a16216.html#a4506f7d723b85c7555296f5ade11cd29", null ],
-    [ "Register", "de/d9f/a16216.html#aeac7e6abc89209e14451439cdf1d416e", null ],
-    [ "Validate", "de/d9f/a16216.html#a9d6f9cd0495de03878ed5137542ea89d", null ]
+    [ "npc_announcer_toc5AI", "d1/d3c/a16220.html", "d1/d3c/a16220" ],
+    [ "npc_announcer_toc5", "de/d9f/a16216.html#abf50bb7deb9e0bb04d9ac802aff5fa41", null ],
+    [ "GetAI", "de/d9f/a16216.html#a06767a8fd1e940d4efee6dd752520e9e", null ],
+    [ "OnGossipHello", "de/d9f/a16216.html#ad2cc55ddc6696b9bfb22e68eab965fb0", null ],
+    [ "OnGossipSelect", "de/d9f/a16216.html#a9017488c652fd75882db75914f4a2db2", null ]
 ];

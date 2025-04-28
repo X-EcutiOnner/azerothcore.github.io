@@ -1,7 +1,6 @@
 var a09668 =
 [
-    [ "LootView", "d2/d51/a09668.html#a4cfc8ca1034e941a85d2955f38b2e894", null ],
-    [ "loot", "d2/d51/a09668.html#ac95fa4805c79923b292e8984b00de929", null ],
-    [ "permission", "d2/d51/a09668.html#a33d7eeebd6fbc854300275a4138d9030", null ],
-    [ "viewer", "d2/d51/a09668.html#af9a6926c6c871dee245f876038e49995", null ]
+    [ "LootValidatorRef", "d2/d51/a09668.html#acce3ced73583bf8dbf04232cddd6ebd8", null ],
+    [ "sourceObjectDestroyLink", "d2/d51/a09668.html#a8833022cf1acf786c06f1580fbe11c24", null ],
+    [ "targetObjectDestroyLink", "d2/d51/a09668.html#a93baac45dcb801215c28ac0dba097eba", null ]
 ];

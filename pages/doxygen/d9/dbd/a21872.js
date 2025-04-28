@@ -1,6 +1,7 @@
 var a21872 =
 [
-    [ "npc_plaguehound_trackerAI", "d9/dbd/a21872.html#a7530f500b42ad9bb38593193d3113da8", null ],
-    [ "Reset", "d9/dbd/a21872.html#a05c351ab3aca0cd18209405075bb0f47", null ],
-    [ "WaypointReached", "d9/dbd/a21872.html#a67c345f49572cde76d9109a1baff6788", null ]
+    [ "HandleAfterEffectApply", "d9/dbd/a21872.html#ab54795dc49ca453db40494a694158a98", null ],
+    [ "PrepareAuraScript", "d9/dbd/a21872.html#a3e5902a79b9d2c5cad69ad2ece8592ec", null ],
+    [ "Register", "d9/dbd/a21872.html#addd4fac4cc8a93d800abacb144e3303c", null ],
+    [ "Validate", "d9/dbd/a21872.html#a3ee65a1391c340e471adfc7ac653dd50", null ]
 ];

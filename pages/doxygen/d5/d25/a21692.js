@@ -1,6 +1,6 @@
 var a21692 =
 [
-    [ "npc_q24545_vegardAI", "d9/d2f/a21696.html", "d9/d2f/a21696" ],
-    [ "npc_q24545_vegard", "d5/d25/a21692.html#ac12e2f143fab6b93950eaea06f5f7d85", null ],
-    [ "GetAI", "d5/d25/a21692.html#a9a7accfb3eea9f08efbb82fbd4bd7e76", null ]
+    [ "npc_heated_battleAI", "d5/d25/a21692.html#a2b73957d7890549f4b02488c5527fcef", null ],
+    [ "DamageTaken", "d5/d25/a21692.html#a8422c157214195d7166ede35c9c05d19", null ],
+    [ "Reset", "d5/d25/a21692.html#a11a4f3270ff260e30da89017dad38433", null ]
 ];

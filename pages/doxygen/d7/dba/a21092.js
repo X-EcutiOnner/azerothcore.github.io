@@ -1,7 +1,5 @@
 var a21092 =
 [
-    [ "HandlePeriodicDummy", "d7/dba/a21092.html#a295f37cddccc696d450a0c4380d43c29", null ],
-    [ "PrepareAuraScript", "d7/dba/a21092.html#a9453aa189ba53de3d89bbab183927cfc", null ],
-    [ "Register", "d7/dba/a21092.html#a1ca87e8523c020a9e4e0970c68957c14", null ],
-    [ "Validate", "d7/dba/a21092.html#a475480c072aaccde7b00cf28aedff3ec", null ]
+    [ "npc_ritual_channelerAI", "d7/dba/a21092.html#aa770f8f2b9dd5fca86f9e63de7b4000f", null ],
+    [ "AttackStart", "d7/dba/a21092.html#aff09fbdc1e701853c9953882ca73ce2a", null ]
 ];

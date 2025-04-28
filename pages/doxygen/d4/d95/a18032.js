@@ -1,6 +1,5 @@
 var a18032 =
 [
-    [ "VileSpiritActivateEvent", "d4/d95/a18032.html#ac7d37d3b7b3173015a2af9ce93b8f2f9", null ],
-    [ "Execute", "d4/d95/a18032.html#a858892424e1f22fda9a7c519b6a7e0b6", null ],
-    [ "_owner", "d4/d95/a18032.html#a385fc75b5d77d8776d5a8e948fa69724", null ]
+    [ "at_sindragosa_lair", "d4/d95/a18032.html#a60ce46f248e66faa1f13a8b5c088bdc6", null ],
+    [ "OnTrigger", "d4/d95/a18032.html#a07074bff20272042ed05be83dd818ee9", null ]
 ];

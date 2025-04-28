@@ -1,10 +1,7 @@
 var a08540 =
 [
-    [ "EquipmentSet", "dc/dfb/a08540.html#acd3085c12c795daceae86e94448109e2", null ],
-    [ "Guid", "dc/dfb/a08540.html#aae529ea61a2ad4f114b6a108564f5474", null ],
-    [ "IconName", "dc/dfb/a08540.html#a40233dfcc23f125ff88693d6c7d7fab5", null ],
-    [ "IgnoreMask", "dc/dfb/a08540.html#af116e824d23f000f424f3b261618e827", null ],
-    [ "Items", "dc/dfb/a08540.html#a113e6e5883afe38d446a6d435cd34a01", null ],
-    [ "Name", "dc/dfb/a08540.html#a2b4691a1b44ae47e7d3c2e63f88d78ba", null ],
-    [ "state", "dc/dfb/a08540.html#a7e2270a6041dda26f8bc7f8c82597e7f", null ]
+    [ "SetRuneState", "dc/dfb/a08540.html#a920d32d04ec7e872680a89b0c0a9b0ef", null ],
+    [ "lastUsedRune", "dc/dfb/a08540.html#a88c702716eb3032c20ae5ed74922d923", null ],
+    [ "runes", "dc/dfb/a08540.html#aac485530bfa81d54d9da3213fe917c29", null ],
+    [ "runeState", "dc/dfb/a08540.html#ae58297e0766578b234604a97641501a1", null ]
 ];

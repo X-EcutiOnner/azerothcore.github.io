@@ -1,6 +1,6 @@
 var a23544 =
 [
-    [ "npc_warden_mellicharAI", "db/dd2/a23548.html", "db/dd2/a23548" ],
-    [ "npc_warden_mellichar", "d2/d1d/a23544.html#aba5c3d005097430941bd40bbbb0d3562", null ],
-    [ "GetAI", "d2/d1d/a23544.html#a7cb7437a61b49d8110c3b7fee43e495b", null ]
+    [ "PrepareSpellScript", "d2/d1d/a23544.html#a5b17110b189b7134939aea9dbf2d724b", null ],
+    [ "Register", "d2/d1d/a23544.html#aab0cdddfc5c8188ff246a04035b8b552", null ],
+    [ "SelectRandomPlayer", "d2/d1d/a23544.html#a8a2229c61fb2eaaac3b0694008ec3ae1", null ]
 ];

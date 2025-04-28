@@ -1,6 +1,9 @@
 var a12988 =
 [
-    [ "instance_scholomance_InstanceMapScript", "d9/da5/a12992.html", "d9/da5/a12992" ],
-    [ "instance_scholomance", "d3/db6/a12988.html#ace7a781c45623419daad6143480d8fe2", null ],
-    [ "GetInstanceScript", "d3/db6/a12988.html#a9e2030e41154c92dbe45d7895ddf37b8", null ]
+    [ "npc_risen_guardianAI", "d3/db6/a12988.html#a50eb3de52205fc1bbc6936f0708c68a6", null ],
+    [ "IsSummonedBy", "d3/db6/a12988.html#ad9f45b9007c1ff74d0f725fbf7f00abe", null ],
+    [ "KilledUnit", "d3/db6/a12988.html#abc7afaa685a436b34ff76edcc6c25e54", null ],
+    [ "Gandling", "d3/db6/a12988.html#a93013b905260aa51341b22d1627cc986", null ],
+    [ "instance", "d3/db6/a12988.html#a96f1835989f646c708b8ef0cc9999e63", null ],
+    [ "room", "d3/db6/a12988.html#a5862a184b6daa92da133cc6c360a993d", null ]
 ];

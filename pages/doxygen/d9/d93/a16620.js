@@ -1,7 +1,7 @@
 var a16620 =
 [
-    [ "HandlePeriodicTick", "d9/d93/a16620.html#a7fa0334a0a33b15758b6362aa0a9bd7d", null ],
-    [ "PrepareAuraScript", "d9/d93/a16620.html#aabaef31a3c699c322e24e064f357f82f", null ],
-    [ "Register", "d9/d93/a16620.html#ae9602bc623422c124dfc37a18c0dbfec", null ],
-    [ "Validate", "d9/d93/a16620.html#a18d92a82760992bc5d8503e3f774f208", null ]
+    [ "HandleScriptEffect", "d9/d93/a16620.html#a62cef31900cd61167823f3e66aa2d64b", null ],
+    [ "PrepareSpellScript", "d9/d93/a16620.html#aff3fc5d7d6185bcb09d14f1408a67aad", null ],
+    [ "Register", "d9/d93/a16620.html#ac73b3f568ce54f9b59b2b23f069da3c1", null ],
+    [ "Validate", "d9/d93/a16620.html#aab4d84e896c8225d8d131558aaa71dbe", null ]
 ];

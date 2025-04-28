@@ -1,6 +1,6 @@
 var a26804 =
 [
-    [ "CalculateAmount", "de/d37/a26804.html#a94b6fab25e8cb298650f2a1e2d0b4347", null ],
-    [ "PrepareAuraScript", "de/d37/a26804.html#a845476e27b3751fd5aab505d41d8696d", null ],
-    [ "Register", "de/d37/a26804.html#aa5141f11bcd97cc501297a5309df1079", null ]
+    [ "PrepareSpellScript", "de/d37/a26804.html#aa784c7af6fe38069fca4dcff9a09a22b", null ],
+    [ "Register", "de/d37/a26804.html#a81bc86c83ffc70602410912870e61700", null ],
+    [ "VictoryRushHit", "de/d37/a26804.html#a89387a25e67af1d47ef7f5b95344ccb0", null ]
 ];

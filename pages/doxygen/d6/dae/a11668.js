@@ -1,9 +1,5 @@
 var a11668 =
 [
-    [ "quest_commandscript", "d6/dae/a11668.html#a98804583ded14bc50d252475289dda4f", null ],
-    [ "GetCommands", "d6/dae/a11668.html#afaf8c4b169a2bc7457b8ab97d13a367c", null ],
-    [ "HandleQuestAdd", "d6/dae/a11668.html#acd1410f224a1d69bba1321999ebf25bc", null ],
-    [ "HandleQuestComplete", "d6/dae/a11668.html#a044c30fdaedd07060284bd37fd2e226c", null ],
-    [ "HandleQuestRemove", "d6/dae/a11668.html#ac0a87854f99c510c8309e9e337d1e71f", null ],
-    [ "HandleQuestReward", "d6/dae/a11668.html#ab8d38057b3630b75cf21c8e88c1ebaf0", null ]
+    [ "flag", "d6/dae/a11668.html#a4ea67fc10eedfaa2e5e029e242e1c32f", null ],
+    [ "text", "d6/dae/a11668.html#a492e5e3c2373adba005034514b0a5a1e", null ]
 ];

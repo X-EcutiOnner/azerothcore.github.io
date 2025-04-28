@@ -1,6 +1,6 @@
 var a11280 =
 [
-    [ "EffectSplitHandler", "d2/d50/a11280.html#a1e31c0f06961aba66f6737c4b4aca7f6", null ],
-    [ "Call", "d2/d50/a11280.html#ae0ef79af01cce82ed3cbe208d98b325a", null ],
-    [ "pEffectHandlerScript", "d2/d50/a11280.html#a181c0f987789f3725e7ba7e023cfc4e7", null ]
+    [ "EffectCalcAmountHandler", "d2/d50/a11280.html#a4fe66bbf0433e80b602683a278e3a709", null ],
+    [ "Call", "d2/d50/a11280.html#a4b5af2593dcb80930c6a45b7035767ca", null ],
+    [ "pEffectHandlerScript", "d2/d50/a11280.html#aa52c8c780dcc157e16d11f8222706f7a", null ]
 ];

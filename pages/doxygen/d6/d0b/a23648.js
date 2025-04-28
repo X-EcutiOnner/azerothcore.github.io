@@ -1,11 +1,7 @@
 var a23648 =
 [
-    [ "boss_high_astromancer_solarian", "d6/d0b/a23648.html#a2db48cc179539f81b55188de08a7e180", null ],
-    [ "AttackStart", "d6/d0b/a23648.html#acaf94134aef553447e766a5e431c8b83", null ],
-    [ "JustDied", "d6/d0b/a23648.html#a510eb2e4f0770670d6767bc2545375b7", null ],
-    [ "JustEngagedWith", "d6/d0b/a23648.html#a86cd2162187f1a81932000ca1cfb7f85", null ],
-    [ "JustSummoned", "d6/d0b/a23648.html#ac5b209a45a5a3ea2a8421706d181a827", null ],
-    [ "KilledUnit", "d6/d0b/a23648.html#a561a78193615575b7e43e0f21387f1b8", null ],
-    [ "Reset", "d6/d0b/a23648.html#a58cbb2c8a6c30855a0f9f2275338c1b5", null ],
-    [ "UpdateAI", "d6/d0b/a23648.html#a07a76c34a978c31212390cf10ed3e382", null ]
+    [ "AfterApply", "d6/d0b/a23648.html#a0ba88b8ed8cfd0afa1de500a7a8d74b5", null ],
+    [ "PrepareAuraScript", "d6/d0b/a23648.html#aa98346e5f5b23fe016148426a19a719f", null ],
+    [ "Register", "d6/d0b/a23648.html#ac0edcddf6c38b933c868dbe0535f143a", null ],
+    [ "Validate", "d6/d0b/a23648.html#a616d1758aa257140f4941fe12ef21e87", null ]
 ];

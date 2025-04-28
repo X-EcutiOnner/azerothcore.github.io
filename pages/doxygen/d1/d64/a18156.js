@@ -1,6 +1,11 @@
 var a18156 =
 [
-    [ "npc_valkyr_shadowguardAI", "db/d41/a18160.html", "db/d41/a18160" ],
-    [ "npc_valkyr_shadowguard", "d1/d64/a18156.html#a8ee90e21499eebf240c57419454c3829", null ],
-    [ "GetAI", "d1/d64/a18156.html#ad84cb094a17e4fb88d3e883c98ce7f5a", null ]
+    [ "AddMissingStack", "d1/d64/a18156.html#ae23dc772e58db8648a7ddbf5255bd917", null ],
+    [ "CheckAura", "d1/d64/a18156.html#a9d9e5620f61c92d35b08bec100b5a12a", null ],
+    [ "FilterTargets", "d1/d64/a18156.html#ab6c86c3680823329d5f3aad985aa316a", null ],
+    [ "Load", "d1/d64/a18156.html#a823e600ee1a350ab60ea69043e4fbef9", null ],
+    [ "PrepareSpellScript", "d1/d64/a18156.html#aff3b52df65504d7d4928b1ff69c1fa4b", null ],
+    [ "Register", "d1/d64/a18156.html#af0e6f1fc6687de1abcc1689116150088", null ],
+    [ "_hadInitialAura", "d1/d64/a18156.html#a1b553c0ad5fc4e86f02829b5284db709", null ],
+    [ "_hadJumpingAura", "d1/d64/a18156.html#ade3c2e5f78cbfbc34a3cbc8259e241db", null ]
 ];

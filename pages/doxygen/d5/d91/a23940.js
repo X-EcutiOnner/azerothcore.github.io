@@ -1,8 +1,8 @@
 var a23940 =
 [
-    [ "npc_captain_saeedAI", "de/db9/a23944.html", "de/db9/a23944" ],
-    [ "npc_captain_saeed", "d5/d91/a23940.html#a8a5bee9f908b10451b8d4720dff85670", null ],
-    [ "GetAI", "d5/d91/a23940.html#aa6a232f6c2dd39483273cac41af9a7d7", null ],
-    [ "OnGossipHello", "d5/d91/a23940.html#a7db9b76578743d4ee96b2c4f11dc265c", null ],
-    [ "OnGossipSelect", "d5/d91/a23940.html#a8ace4d924b6f33312d914fb6ce1e0ea6", null ]
+    [ "npc_ancestral_wolfAI", "d5/d91/a23940.html#a59ccca7093575f4bcac57a4751d977d4", null ],
+    [ "MoveInLineOfSight", "d5/d91/a23940.html#aec5788f0be3c1dcb63b3e61b50ae39c1", null ],
+    [ "Reset", "d5/d91/a23940.html#a9778a1648ca0007f7daf4ee98308d8d2", null ],
+    [ "WaypointReached", "d5/d91/a23940.html#a2b553c29823e5ef888ee02a3ed413386", null ],
+    [ "ryga", "d5/d91/a23940.html#ac238214604720e298124b58c35d58e05", null ]
 ];

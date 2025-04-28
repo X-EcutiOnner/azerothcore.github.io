@@ -1,6 +1,9 @@
 var a27200 =
 [
-    [ "go_amberpine_outhouse", "df/d7e/a27200.html#a953ea72b3954c89b6c391de5aca3b6ce", null ],
-    [ "OnGossipHello", "df/d7e/a27200.html#a7cbfc3a091ad2332fd46140a24ac4e37", null ],
-    [ "OnGossipSelect", "df/d7e/a27200.html#aa55fe049ba43dbd548ba55d982d89d51", null ]
+    [ "go_gilded_brazierAI", "df/d7e/a27200.html#aaacf408b0f42b593a8a2897cb27886fb", null ],
+    [ "GossipHello", "df/d7e/a27200.html#afac9e217c294e72ff5f2526422e6321e", null ],
+    [ "Initialize", "df/d7e/a27200.html#a72d2dd8f7ecdf173e5a3847c94255786", null ],
+    [ "UpdateAI", "df/d7e/a27200.html#a0965f0a6f3f1c75e85f184319a1f9cef", null ],
+    [ "_events", "df/d7e/a27200.html#a35e62a272b790d6e858cc48c92e55b7b", null ],
+    [ "_playerGUID", "df/d7e/a27200.html#a506eccb2c3ebcc126d486638fb07ae3c", null ]
 ];

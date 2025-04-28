@@ -1,8 +1,6 @@
 var a19572 =
 [
-    [ "HandlePeriodic", "dc/d47/a19572.html#a2724a85983561a14db8b06ae492ead55", null ],
-    [ "OnRemove", "dc/d47/a19572.html#a6d0f941f30d8c850e48396fffd13768d", null ],
-    [ "PrepareAuraScript", "dc/d47/a19572.html#aea9d38dc7fdff6d38d252bb5ded57d78", null ],
-    [ "Register", "dc/d47/a19572.html#a85270947972be9c299a642b31969ef68", null ],
-    [ "Validate", "dc/d47/a19572.html#a91ebb4e69d02deb5129965f543c474d1", null ]
+    [ "CosmicSmashDamageEvent", "dc/d47/a19572.html#a5c9606791b560d8be1825a9c73f2393e", null ],
+    [ "Execute", "dc/d47/a19572.html#a2d4b301e1b7e0852ec47280ad97871f2", null ],
+    [ "_caster", "dc/d47/a19572.html#ab7af2459d3962831812ee2362ee9de2b", null ]
 ];

@@ -1,8 +1,8 @@
 var a17296 =
 [
-    [ "npc_saurfang_eventAI", "d6/d9b/a17296.html#a8436a87576c92ecc0b45106683d20e93", null ],
-    [ "DoAction", "d6/d9b/a17296.html#a45201c4a5b94fad948efe1d08e63e262", null ],
-    [ "SetData", "d6/d9b/a17296.html#a7f012a54ebce5307940eb7957f028d52", null ],
-    [ "SpellHit", "d6/d9b/a17296.html#a2ed920f949c4d8dbc6d6ff5b9149e749", null ],
-    [ "_index", "d6/d9b/a17296.html#a793d72078bd68b34fcdb7cd6587295dd", null ]
+    [ "OnApply", "d6/d9b/a17296.html#a4741bfaaea8bc956fd1020aca13a51c2", null ],
+    [ "OnRemove", "d6/d9b/a17296.html#a21aad38fe91580d3b8e0cc71dce7b1ad", null ],
+    [ "PrepareAuraScript", "d6/d9b/a17296.html#a54b2ab23915e84b9c9728eb624dae47b", null ],
+    [ "Register", "d6/d9b/a17296.html#a6d552ff58f7bb267cf4d20f2f5aedc7a", null ],
+    [ "Validate", "d6/d9b/a17296.html#a5542dca73b5cc2ec1c724fe536e8a15f", null ]
 ];

@@ -1,10 +1,10 @@
 var a08964 =
 [
-    [ "Flags", "d6/d8d/a08964.html#a5292a64de662f608915844d58199542f", null ],
-    [ "Icon", "d6/d8d/a08964.html#ab7460f125e05509baf9331e424b8bacf", null ],
-    [ "ID", "d6/d8d/a08964.html#a94b184ecd7c82419fa6d59a59c1d95da", null ],
-    [ "Importance", "d6/d8d/a08964.html#a623d8bdc2bf5eea161466340ae8e3cd1", null ],
-    [ "Name", "d6/d8d/a08964.html#a45c6eb50f0d56bbdabd6c3b3469c607c", null ],
-    [ "PositionX", "d6/d8d/a08964.html#a561763556f1ac77e988c350c37a3a0a1", null ],
-    [ "PositionY", "d6/d8d/a08964.html#abec7b2b3e649263f0b963f3fedef60fe", null ]
+    [ "creatureRate", "d6/d8d/a08964.html#aa9c27c19179b8a7bdfdc11d906cd1c06", null ],
+    [ "questDailyRate", "d6/d8d/a08964.html#a1798044bdf25ce774191b00e261add1e", null ],
+    [ "questMonthlyRate", "d6/d8d/a08964.html#a0db34ed7420bc376cfe64a0d12434fea", null ],
+    [ "questRate", "d6/d8d/a08964.html#a914118aa28b3736ff4e6c5b61d738834", null ],
+    [ "questRepeatableRate", "d6/d8d/a08964.html#a2b050d4cf6555e824d59a3ffc0558b21", null ],
+    [ "questWeeklyRate", "d6/d8d/a08964.html#a0fb31ebc33d0ce11f392be845907e043", null ],
+    [ "spellRate", "d6/d8d/a08964.html#a508485f1e6833c58a11706667a2c24fd", null ]
 ];

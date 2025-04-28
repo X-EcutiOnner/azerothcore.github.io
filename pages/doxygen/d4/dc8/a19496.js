@@ -1,6 +1,6 @@
 var a19496 =
 [
-    [ "iron_golem_custodianAI", "d5/df0/a19500.html", "d5/df0/a19500" ],
-    [ "iron_golem_custodian", "d4/dc8/a19496.html#adc11b755e193adbad757c21e5b15e063", null ],
-    [ "GetAI", "d4/dc8/a19496.html#a272e0c9fe475a665aa80a95f1e1d8629", null ]
+    [ "boss_sjonnir_dwarfAI", "d5/df0/a19500.html", "d5/df0/a19500" ],
+    [ "boss_sjonnir_dwarf", "d4/dc8/a19496.html#a3589ae3bef1bbfe0fc5381e341c0995b", null ],
+    [ "GetAI", "d4/dc8/a19496.html#a945d8e753e1a54dc348848b9c2dd6cce", null ]
 ];

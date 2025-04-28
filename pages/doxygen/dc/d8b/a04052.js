@@ -1,23 +1,23 @@
 var a04052 =
 [
-    [ "OutdoorPvPSI", "df/db9/a22461.html", "df/db9/a22461" ],
-    [ "OutdoorPvPSISpells", "dc/d8b/a04052.html#a62a8c4b8a007cc2da63e91f039a9b0f5", [
-      [ "SI_SILITHYST_FLAG_GO_SPELL", "dc/d8b/a04052.html#a62a8c4b8a007cc2da63e91f039a9b0f5add71e365726ced6250de08c4c883f055", null ],
-      [ "SI_SILITHYST_FLAG", "dc/d8b/a04052.html#a62a8c4b8a007cc2da63e91f039a9b0f5a1bf0ed27bacc509ec19e1648e1a9ec74", null ],
-      [ "SI_TRACES_OF_SILITHYST", "dc/d8b/a04052.html#a62a8c4b8a007cc2da63e91f039a9b0f5a8f61c4e11367451aa4b95455a9086410", null ],
-      [ "SI_CENARION_FAVOR", "dc/d8b/a04052.html#a62a8c4b8a007cc2da63e91f039a9b0f5a113a47f651228b031a6d40c36d34d2fb", null ]
-    ] ],
-    [ "SI_WorldStates", "dc/d8b/a04052.html#acd596d6544f4ea939ed381e28a4bea8e", [
-      [ "SI_GATHERED_A", "dc/d8b/a04052.html#acd596d6544f4ea939ed381e28a4bea8ea93e8d5fa657d73d11f310f8d25f50eb7", null ],
-      [ "SI_GATHERED_H", "dc/d8b/a04052.html#acd596d6544f4ea939ed381e28a4bea8ea6aaa9a15233b5c148eb2742487727734", null ],
-      [ "SI_SILITHYST_MAX", "dc/d8b/a04052.html#acd596d6544f4ea939ed381e28a4bea8ea7ecead5dc8f4f2a091dcabd2f3c96b45", null ]
-    ] ],
-    [ "OutdoorPvPSIBuffZones", "dc/d8b/a04052.html#a155bfb73bcc562d8eaaa4d62d52e59bc", null ],
-    [ "OutdoorPvPSIBuffZonesNum", "dc/d8b/a04052.html#aaf633cff2fc1b3449acb7753f698c4d4", null ],
-    [ "SI_AREATRIGGER_A", "dc/d8b/a04052.html#aca1406dea9e721dc32c834e8b85b2d9a", null ],
-    [ "SI_AREATRIGGER_H", "dc/d8b/a04052.html#abb17804eb9913c298a5dae804e1c7206", null ],
-    [ "SI_MAX_RESOURCES", "dc/d8b/a04052.html#a9558d0ea12ff1048686daf5bf0ff999c", null ],
-    [ "SI_SILITHYST_MOUND", "dc/d8b/a04052.html#a5a6a1265e5e65971f8d86be718ea3bb3", null ],
-    [ "SI_TURNIN_QUEST_CM_A", "dc/d8b/a04052.html#a18c47c74867642b4bd8cc166d9fe1e79", null ],
-    [ "SI_TURNIN_QUEST_CM_H", "dc/d8b/a04052.html#ad1787da9136bc956357571149e1f6b60", null ]
+    [ "CreatureTextEntry", "d3/dd0/a11348.html", "d3/dd0/a11348" ],
+    [ "CreatureTextLocale", "de/deb/a11352.html", "de/deb/a11352" ],
+    [ "CreatureTextId", "d5/dac/a11356.html", "d5/dac/a11356" ],
+    [ "CreatureTextMgr", "d7/d67/a11360.html", "d7/d67/a11360" ],
+    [ "CreatureTextLocalizer< Builder >", "d1/d90/a11364.html", "d1/d90/a11364" ],
+    [ "sCreatureTextMgr", "dc/d8b/a04052.html#a2dc428da007cefe454220dcb355a1cde", null ],
+    [ "CreatureTextGroup", "dc/d8b/a04052.html#a9baeb5ff5e542c90d9058942cf0b4bbd", null ],
+    [ "CreatureTextHolder", "dc/d8b/a04052.html#aad09b58ddf486cb766cdeb242824cd2d", null ],
+    [ "CreatureTextMap", "dc/d8b/a04052.html#ac48698bcbe36b82577c41f42f3f23f09", null ],
+    [ "CreatureTextRepeatGroup", "dc/d8b/a04052.html#aa92b7ce1a721a3955751ae25cf01b22a", null ],
+    [ "CreatureTextRepeatIds", "dc/d8b/a04052.html#a4a74e5d0af63228e47e1f663570018ae", null ],
+    [ "CreatureTextRepeatMap", "dc/d8b/a04052.html#a919aeba9f103d29372eb10a72f3b1142", null ],
+    [ "LocaleCreatureTextMap", "dc/d8b/a04052.html#ab39b2d82775a84108d19ed009bd14747", null ],
+    [ "CreatureTextRange", "dc/d8b/a04052.html#adf847039afbebeda9e21210c1f4eb052", [
+      [ "TEXT_RANGE_NORMAL", "dc/d8b/a04052.html#adf847039afbebeda9e21210c1f4eb052a649e811a5e8853fa24088dbb708ce9ab", null ],
+      [ "TEXT_RANGE_AREA", "dc/d8b/a04052.html#adf847039afbebeda9e21210c1f4eb052a1982e7a678f4ba541ea6ecbfec493385", null ],
+      [ "TEXT_RANGE_ZONE", "dc/d8b/a04052.html#adf847039afbebeda9e21210c1f4eb052a182bd5362916ba67bcf6660ce37fae0a", null ],
+      [ "TEXT_RANGE_MAP", "dc/d8b/a04052.html#adf847039afbebeda9e21210c1f4eb052a90bf8cfe8ac6e4bac224bd3dd9fbc3a3", null ],
+      [ "TEXT_RANGE_WORLD", "dc/d8b/a04052.html#adf847039afbebeda9e21210c1f4eb052a3a88078985d9e80a4543acf0acde52d9", null ]
+    ] ]
 ];

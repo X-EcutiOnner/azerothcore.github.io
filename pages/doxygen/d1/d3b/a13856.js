@@ -1,6 +1,6 @@
 var a13856 =
 [
-    [ "HandleOnHit", "d1/d3b/a13856.html#a1f133ab9e85f80c225276bf744da6898", null ],
-    [ "PrepareSpellScript", "d1/d3b/a13856.html#ae554f8be36eabc6d23f823e6d153be2b", null ],
-    [ "Register", "d1/d3b/a13856.html#a1063358ed71ded8454f35f43442354ab", null ]
+    [ "OnEffect", "d1/d3b/a13856.html#a50c7e1c65315b5d46749b335e85e15e4", null ],
+    [ "PrepareSpellScript", "d1/d3b/a13856.html#ab99c723bb71c5fdd844898eaf21cc520", null ],
+    [ "Register", "d1/d3b/a13856.html#a892faa83f748d36c9c8638a12ac7f2aa", null ]
 ];

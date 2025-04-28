@@ -1,9 +1,12 @@
 var a16800 =
 [
-    [ "npc_hor_risen_witch_doctorAI", "d1/dee/a16800.html#acd33d4811521f6d41bce21270198db45", null ],
-    [ "JustDied", "d1/dee/a16800.html#a49eb1c20ef810d0e4aeea8f99fcabebb", null ],
-    [ "JustEngagedWith", "d1/dee/a16800.html#a54378daf294fcbee4ba1abf14927cc52", null ],
-    [ "Reset", "d1/dee/a16800.html#a20742bb0fe610367283cd5dc7e8b36ff", null ],
-    [ "UpdateAI", "d1/dee/a16800.html#af9baaf71fa53a42ab5d1507fdd6aa9fd", null ],
-    [ "events", "d1/dee/a16800.html#abb39744cdcdc8e1fbf8fd06508af35f9", null ]
+    [ "npc_tortured_riflemanAI", "d1/dee/a16800.html#a65dc1d2ba5769aed1a0b2487322ff2b1", null ],
+    [ "AttackStart", "d1/dee/a16800.html#aaf2b73d0b60791f887207842580d91dc", null ],
+    [ "DoAction", "d1/dee/a16800.html#acb941c20d911a567c93bb0f92105fdfd", null ],
+    [ "EnterEvadeMode", "d1/dee/a16800.html#aabd56fc4aaed247a9ac3ce5bcdc4cb50", null ],
+    [ "JustDied", "d1/dee/a16800.html#a5796a96626937e1026cc1fec0eba4e0b", null ],
+    [ "JustEngagedWith", "d1/dee/a16800.html#ac5d8f17c48269da06c14643e82c88567", null ],
+    [ "Reset", "d1/dee/a16800.html#a04f9c7056e063d436df66f079127d1a7", null ],
+    [ "UpdateAI", "d1/dee/a16800.html#a194a615eef3651cdc97d4e4ad57bf017", null ],
+    [ "events", "d1/dee/a16800.html#a958f27c1f917dc1ae0a9f84549481f93", null ]
 ];

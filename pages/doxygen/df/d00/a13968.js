@@ -1,19 +1,12 @@
 var a13968 =
 [
-    [ "boss_thekal", "df/d00/a13968.html#a91e8fd9ba169d5096fd06471f8bd16e9", null ],
-    [ "CheckPhaseTransition", "df/d00/a13968.html#a95aeb81565f5863eec67106ae1118ac4", null ],
-    [ "DamageTaken", "df/d00/a13968.html#a98be9a4d815f6fdc01acbfaa916b721c", null ],
-    [ "DoAction", "df/d00/a13968.html#aa3d81738fbb42d5575dd8e5b30d84563", null ],
-    [ "Initialize", "df/d00/a13968.html#aec365f330eed69513e988f895ec780e7", null ],
-    [ "JustDied", "df/d00/a13968.html#a79bc19df134cbeb17f0941865461bd0d", null ],
-    [ "JustEngagedWith", "df/d00/a13968.html#af5e2b2b5665270f29243921e51280190", null ],
-    [ "Reset", "df/d00/a13968.html#a684bf1fc087970a41cf79959ba57b31b", null ],
-    [ "ReviveZealot", "df/d00/a13968.html#aab84b3390cf8cc95dc8a2067ed38b4ab", null ],
-    [ "SetData", "df/d00/a13968.html#a586805c5f8d20a35055cf12a3c9f673f", null ],
-    [ "UpdateAI", "df/d00/a13968.html#a4b5e7dae10900a197d047b6ea32c33ed", null ],
-    [ "UpdateZealotStatus", "df/d00/a13968.html#ac69068240dfc1ecf30f37e36c3e51353", null ],
-    [ "_enraged", "df/d00/a13968.html#aba5ac2c4cdac1d4a0e37e9d6cd3b1422", null ],
-    [ "_lorkhanDied", "df/d00/a13968.html#a0f84ad2f224fe29fc4ddde3258200e10", null ],
-    [ "_wasDead", "df/d00/a13968.html#aec4eea1f0d8ebffb1bbc2646e986f300", null ],
-    [ "_zathDied", "df/d00/a13968.html#ae3df1561ee3dcb3887f6e646b6277b29", null ]
+    [ "npc_chained_spirit", "df/d00/a13968.html#a5f407e700a2086f971bed0e8c0def0db", null ],
+    [ "DoAction", "df/d00/a13968.html#a7205ef13ca0d164a9222c049bc582254", null ],
+    [ "JustDied", "df/d00/a13968.html#a3b405503231173e7ff7aa52e34f63da5", null ],
+    [ "MovementInform", "df/d00/a13968.html#a469a8fdc4a40857ff1dc0af9ead74d3c", null ],
+    [ "Reset", "df/d00/a13968.html#a2a8a8a429492511aac697878b5dc4cc3", null ],
+    [ "SetGUID", "df/d00/a13968.html#acbe42c0692e8c1d671f2745ff8c2f9bb", null ],
+    [ "UpdateAI", "df/d00/a13968.html#a38d14b69c71bf2902a916028580fbfad", null ],
+    [ "instance", "df/d00/a13968.html#ad5dd92208d6a23954fef6348f4abbd23", null ],
+    [ "revivePlayerGUID", "df/d00/a13968.html#a193fddae1d3eb84bc36842adbb1fe86a", null ]
 ];

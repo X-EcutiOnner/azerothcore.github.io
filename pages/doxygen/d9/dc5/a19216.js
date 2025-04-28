@@ -1,6 +1,5 @@
 var a19216 =
 [
-    [ "boss_drakosAI", "d0/dcb/a19220.html", "d0/dcb/a19220" ],
-    [ "boss_drakos", "d9/dc5/a19216.html#aa70ae2809af4f24eea0b83b42d695448", null ],
-    [ "GetAI", "d9/dc5/a19216.html#a16dcc7f9da254d0bddc19394a1cd4ab0", null ]
+    [ "achievement_chaos_theory", "d9/dc5/a19216.html#a3068009fa1fb400439a2c72f00296484", null ],
+    [ "OnCheck", "d9/dc5/a19216.html#a68d9a577cb7e005d81f52077707e3555", null ]
 ];

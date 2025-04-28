@@ -1,6 +1,6 @@
 var a24792 =
 [
-    [ "CheckProc", "df/de2/a24792.html#a21cda631d861161c370a44a2fd2fd2f7", null ],
-    [ "PrepareAuraScript", "df/de2/a24792.html#a861caa47c502c42fa84d9f9de74df024", null ],
-    [ "Register", "df/de2/a24792.html#ab4275de186b6841a1f424863cb6c128c", null ]
+    [ "CheckAreaTarget", "df/de2/a24792.html#a545323b9964ee4cb3c8d054fac4e2d55", null ],
+    [ "PrepareAuraScript", "df/de2/a24792.html#a2b6dbd33e34357917f662000a1cd932f", null ],
+    [ "Register", "df/de2/a24792.html#a7b4a2301b3a608ea5b2dd2504e02741d", null ]
 ];

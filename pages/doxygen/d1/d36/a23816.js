@@ -1,6 +1,7 @@
 var a23816 =
 [
-    [ "npc_nether_drakeAI", "d6/d0a/a23820.html", "d6/d0a/a23820" ],
-    [ "npc_nether_drake", "d1/d36/a23816.html#a253ec3c91857b899ea9e2c824870b760", null ],
-    [ "GetAI", "d1/d36/a23816.html#a58d269e2c73cae07bb507162b742fe8f", null ]
+    [ "boss_gatewatcher_iron_hand", "d1/d36/a23816.html#aef70e713007af38b510f0a3b8c082b24", null ],
+    [ "JustDied", "d1/d36/a23816.html#a36b10cd02b35b6e106687b08bc80bfa6", null ],
+    [ "JustEngagedWith", "d1/d36/a23816.html#aa6a9f456d158e4c0332816c7e65ec155", null ],
+    [ "KilledUnit", "d1/d36/a23816.html#a1973142412b4094dbd9fa51600741148", null ]
 ];

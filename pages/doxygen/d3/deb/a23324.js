@@ -1,7 +1,6 @@
 var a23324 =
 [
-    [ "OnApply", "d3/deb/a23324.html#a301e47da9be4b4a449701c59c19bc62b", null ],
-    [ "PrepareAuraScript", "d3/deb/a23324.html#a623bf9442a4a2b046d1d89bc2523eb37", null ],
-    [ "Register", "d3/deb/a23324.html#aaf38547f7fa233b03429734dbe374f13", null ],
-    [ "Validate", "d3/deb/a23324.html#ac390e2e24d9a85635ced5eaa343b8e09", null ]
+    [ "HandleScript", "d3/deb/a23324.html#ae45f8a366c1594d3723b83ee6e006957", null ],
+    [ "PrepareSpellScript", "d3/deb/a23324.html#a217953fda43e2c3abdd0d24ddbabc75d", null ],
+    [ "Register", "d3/deb/a23324.html#a6b9e449a64747f0a5715424295b1c30f", null ]
 ];

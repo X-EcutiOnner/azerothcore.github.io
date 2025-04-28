@@ -1,6 +1,8 @@
 var a22980 =
 [
-    [ "OnPeriodic", "d7/d88/a22980.html#a769d30c78e4feaa9cc0c581af5264c02", null ],
-    [ "PrepareAuraScript", "d7/d88/a22980.html#a076e4b548de5cad64b7d81ddd8c5194f", null ],
-    [ "Register", "d7/d88/a22980.html#af1c2b7baf0ff7164cafab8f1a53bbb18", null ]
+    [ "Absorb", "d7/d88/a22980.html#a1c054ce067a620e16611cbb9e784cee1", null ],
+    [ "CalculateAmount", "d7/d88/a22980.html#abd828dd3493339db9c0613e960792941", null ],
+    [ "PrepareAuraScript", "d7/d88/a22980.html#a1075139fc82cd8e1b30d4bc0f89fbfe0", null ],
+    [ "Register", "d7/d88/a22980.html#a85840e7d27a7ed256c45de87f4486d45", null ],
+    [ "Update", "d7/d88/a22980.html#afbf28fd4eb66899a424e0b542d561656", null ]
 ];

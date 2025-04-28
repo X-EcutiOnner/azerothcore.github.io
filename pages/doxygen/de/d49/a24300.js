@@ -1,6 +1,6 @@
 var a24300 =
 [
-    [ "DeathEvent", "de/d49/a24300.html#a2fb9a98c077d715c4648aede6597276e", null ],
-    [ "Execute", "de/d49/a24300.html#a497ac46ab1acf95816020fc6be8ce03a", null ],
-    [ "_owner", "de/d49/a24300.html#a099d0d5ae50126f00220b3ed90907617", null ]
+    [ "HandleDamageCalc", "de/d49/a24300.html#a9e0f6fe8bb10950c2130fb7d1f07017a", null ],
+    [ "PrepareSpellScript", "de/d49/a24300.html#a183477b6269dbc705a10e60ab36c13b1", null ],
+    [ "Register", "de/d49/a24300.html#ae93d958a3a439e3401685b0d2a570f0e", null ]
 ];

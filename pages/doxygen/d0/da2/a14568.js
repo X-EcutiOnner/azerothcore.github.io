@@ -1,6 +1,8 @@
 var a14568 =
 [
-    [ "boss_mal_ganisAI", "d5/db0/a14572.html", "d5/db0/a14572" ],
-    [ "boss_mal_ganis", "d0/da2/a14568.html#a604becb65e766f4fb71d2ae168d1be4e", null ],
-    [ "GetAI", "d0/da2/a14568.html#aa747abd11310c3535ea2ea37e4aac28b", null ]
+    [ "hyjalThrallAI", "d0/da2/a14568.html#a5bc01b52edeaac62e3a9c3e48f90feb2", null ],
+    [ "JustDied", "d0/da2/a14568.html#aa13cb18c91802ad402e5fd97ec78572a", null ],
+    [ "JustEngagedWith", "d0/da2/a14568.html#a96706138634275ae7639c14f53cdd842", null ],
+    [ "Reset", "d0/da2/a14568.html#a6a341bfcc9d697dde64584a5a0231d73", null ],
+    [ "UpdateAI", "d0/da2/a14568.html#a57046716d7c45a5fa4e203d73c4a7b87", null ]
 ];

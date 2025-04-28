@@ -1,7 +1,7 @@
 var a18408 =
 [
-    [ "PeriodicTick", "d5/dd9/a18408.html#ac1bace4fc66349364c84b5784967e9bf", null ],
-    [ "PrepareAuraScript", "d5/dd9/a18408.html#a358193e3340112c04f79c043548c3de0", null ],
-    [ "Register", "d5/dd9/a18408.html#a28f52bc253899aa407e67f9a089c815c", null ],
-    [ "Validate", "d5/dd9/a18408.html#a0dde3447e38e45cea94df44449a19a01", null ]
+    [ "npc_blazing_skeletonAI", "d5/dd9/a18408.html#ad4f997a7a4cc0fa96594da35434fd921", null ],
+    [ "Reset", "d5/dd9/a18408.html#a3bbc4cf7b6dbe11d6768a0fb0626e84a", null ],
+    [ "UpdateAI", "d5/dd9/a18408.html#a0010c4befd13ec6beada0de1607f3f7a", null ],
+    [ "_events", "d5/dd9/a18408.html#aab1b04989d5e3fc289f00bc121df193d", null ]
 ];

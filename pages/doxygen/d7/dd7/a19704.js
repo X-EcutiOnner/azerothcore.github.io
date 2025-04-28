@@ -1,6 +1,6 @@
 var a19704 =
 [
-    [ "boss_flame_leviathanAI", "d0/d14/a19708.html", "d0/d14/a19708" ],
-    [ "boss_flame_leviathan", "d7/dd7/a19704.html#af4fcd38fc7095701c6c31674d849aef4", null ],
-    [ "GetAI", "d7/dd7/a19704.html#a3a402b002472bfe4347b512f21654c50", null ]
+    [ "HandleInstaKill", "d7/dd7/a19704.html#a9371a2cc86616fd04e47939d45f01cae", null ],
+    [ "PrepareSpellScript", "d7/dd7/a19704.html#a38eed301f1db3ea7ac15b626e5927500", null ],
+    [ "Register", "d7/dd7/a19704.html#a9aaf3e86a2c14ee79cc013b3978621ee", null ]
 ];

@@ -1,6 +1,5 @@
 var a12076 =
 [
-    [ "instance_blackrock_spireMapScript", "d4/d1c/a12080.html", "d4/d1c/a12080" ],
-    [ "instance_blackrock_spire", "da/d97/a12076.html#a3238be88efcdc9669e7e6a1d725649b3", null ],
-    [ "GetInstanceScript", "da/d97/a12076.html#a5ee2cc38a36ce2cd8c1196ce9f687e2a", null ]
+    [ "at_trigger_the_beast_movement", "da/d97/a12076.html#a9534f4b71deab4a2a9a94a36e2946fc7", null ],
+    [ "OnTrigger", "da/d97/a12076.html#a333d685d765497a950fde35067d876a1", null ]
 ];

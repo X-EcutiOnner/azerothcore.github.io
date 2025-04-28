@@ -1,5 +1,5 @@
 var a26912 =
 [
-    [ "AreaTrigger_at_voltarus_middle", "d7/d2f/a26912.html#a45ca444350fe4cfde02ab33da4ce8466", null ],
-    [ "OnTrigger", "d7/d2f/a26912.html#a296b300feb6cf999e9e2c2625a911e9b", null ]
+    [ "achievement_save_the_day", "d7/d2f/a26912.html#a193e4060b6634a87b499b7c8a5e287a1", null ],
+    [ "OnCheck", "d7/d2f/a26912.html#a95cfea6cd9ff955ba6800ebdf3a30eb7", null ]
 ];

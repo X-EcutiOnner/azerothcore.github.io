@@ -1,6 +1,6 @@
 var a14612 =
 [
-    [ "npc_cos_chromie_start", "d5/d33/a14612.html#ae8f810af1e593ad16958049f6ad19616", null ],
-    [ "OnGossipSelect", "d5/d33/a14612.html#a35cba5a1b7865b07a4e843648cea50c8", null ],
-    [ "OnQuestAccept", "d5/d33/a14612.html#aa730cb17e6cfe917bc32f7e7ae52e8ef", null ]
+    [ "boss_infinite_corruptorAI", "d7/d98/a14616.html", "d7/d98/a14616" ],
+    [ "boss_infinite_corruptor", "d5/d33/a14612.html#a78a939073ab44b818cefdb25419f92be", null ],
+    [ "GetAI", "d5/d33/a14612.html#ab6eaf2f9d1928817e45b092a3a87bda4", null ]
 ];

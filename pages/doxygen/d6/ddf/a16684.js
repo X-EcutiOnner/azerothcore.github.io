@@ -1,6 +1,6 @@
 var a16684 =
 [
-    [ "boss_marwynAI", "df/dd9/a16688.html", "df/dd9/a16688" ],
-    [ "boss_marwyn", "d6/ddf/a16684.html#a4be337e1a6b4ab6d48aa1380f3956ad4", null ],
-    [ "GetAI", "d6/ddf/a16684.html#af1c83878d2121163994bc327ae8e04f7", null ]
+    [ "boss_devourer_of_soulsAI", "df/dd9/a16688.html", "df/dd9/a16688" ],
+    [ "boss_devourer_of_souls", "d6/ddf/a16684.html#a95b3a33be3b85a4c7ecfb4370a9ddc60", null ],
+    [ "GetAI", "d6/ddf/a16684.html#a3de68fa630c5b74104c461f88edd1d36", null ]
 ];

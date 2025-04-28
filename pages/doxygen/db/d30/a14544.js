@@ -1,6 +1,6 @@
 var a14544 =
 [
-    [ "instance_mount_hyjal_InstanceMapScript", "da/dea/a14548.html", "da/dea/a14548" ],
-    [ "instance_hyjal", "db/d30/a14544.html#ade946c0fcaa4bad790bfcb4b6ffb6420", null ],
-    [ "GetInstanceScript", "db/d30/a14544.html#ae6e39933d7cfd6563f6d37636f1c6f68", null ]
+    [ "FilterTargets", "db/d30/a14544.html#a45b0713b2942199bf0e19752fe765aac", null ],
+    [ "PrepareSpellScript", "db/d30/a14544.html#a7f7177d7754a99743202f69a0342f587", null ],
+    [ "Register", "db/d30/a14544.html#a27b432d8571d48c3f5fb025bbbd29271", null ]
 ];

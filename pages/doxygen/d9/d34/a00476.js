@@ -1,10 +1,16 @@
 var a00476 =
 [
-    [ "MMAP::MMapData", "d7/dca/a04949.html", "d7/dca/a04949" ],
-    [ "MMAP::MMapMgr", "dc/db4/a04953.html", "dc/db4/a04953" ],
-    [ "MMapDataSet", "d9/d34/a00476.html#a7c987e5b93af6a44b28948b66804ad88", null ],
-    [ "MMapTileSet", "d9/d34/a00476.html#a1e41f7222e3ee601b787809808325f2c", null ],
-    [ "NavMeshQuerySet", "d9/d34/a00476.html#a89710e07eb1c881e22b1b2bb7c8f671c", null ],
-    [ "dtCustomAlloc", "d9/d34/a00476.html#a8c3ce5a3a39694b1e2f88333bcf5b8c7", null ],
-    [ "dtCustomFree", "d9/d34/a00476.html#a2486cfb0dce2e78cd1bc4c379612e64b", null ]
+    [ "Acore::CheckedBufferOutputIterator< T >", "dd/d1f/a05420.html", "dd/d1f/a05420" ],
+    [ "AddressOrSelf", "d9/d34/a00476.html#a31c35cb4c5901c4bdb56be356d5ab9b3", null ],
+    [ "AddressOrSelf", "d9/d34/a00476.html#aa676a34e943f3ea366194be6f31da865", null ],
+    [ "EraseIf", "d9/d34/a00476.html#a7821713bb3723db62da8a4d0e3711407", null ],
+    [ "MapGetValuePtr", "d9/d34/a00476.html#a288324cfca487d8ecc2eab8a6014c513", null ],
+    [ "MultimapErasePair", "d9/d34/a00476.html#a965e5e257e71e0d1a8c708fbd00867a7", null ],
+    [ "RandomResize", "d9/d34/a00476.html#a356dc36492769fc1473e5f5214bd6a11", null ],
+    [ "RandomResize", "d9/d34/a00476.html#ad8b2c621f5a22f8ae253a1c9733794b9", null ],
+    [ "RandomShuffle", "d9/d34/a00476.html#a4585a27b1f592547062d7bc039cff3b4", null ],
+    [ "SelectRandomContainerElement", "d9/d34/a00476.html#a8ca673d18562735d4ed20a11519b3d46", null ],
+    [ "SelectRandomContainerElementIf", "d9/d34/a00476.html#a1a2b0eddd5cd5b91e5dc86ca27f0bb86", null ],
+    [ "SelectRandomWeightedContainerElement", "d9/d34/a00476.html#a4e1de71c76e525a6fdf4c76b0d09c94b", null ],
+    [ "SelectRandomWeightedContainerElement", "d9/d34/a00476.html#a220cb6c43559036273f478f15d047eb9", null ]
 ];

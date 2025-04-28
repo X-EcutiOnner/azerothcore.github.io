@@ -1,6 +1,6 @@
 var a16704 =
 [
-    [ "npc_ghostly_priestAI", "d0/dd5/a16708.html", "d0/dd5/a16708" ],
-    [ "npc_ghostly_priest", "da/d31/a16704.html#a7c03bb327cfc65f4df515969da482ddb", null ],
-    [ "GetAI", "da/d31/a16704.html#a0fab76345c5459efcedff02123e4fc8d", null ]
+    [ "npc_fos_leader_secondAI", "d0/dd5/a16708.html", "d0/dd5/a16708" ],
+    [ "npc_fos_leader_second", "da/d31/a16704.html#a0e24659ef6e834da5a3adc8d79f0db4e", null ],
+    [ "GetAI", "da/d31/a16704.html#a96082888ccbb1c81be8327e5e0d84e03", null ]
 ];

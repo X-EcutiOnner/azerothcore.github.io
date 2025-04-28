@@ -1,8 +1,10 @@
 var a11332 =
 [
-    [ "CreatureTextId", "d4/dc4/a11332.html#ae8058e922bafc69b718ca4be1be39688", null ],
-    [ "operator<", "d4/dc4/a11332.html#ae0c693f6cf1959c79e1b3773a2f54db9", null ],
-    [ "entry", "d4/dc4/a11332.html#ad69afcf7be87d1f96611fe925b68f26a", null ],
-    [ "textGroup", "d4/dc4/a11332.html#af1d1f3f310c219c32ca9b8917d8fb67d", null ],
-    [ "textId", "d4/dc4/a11332.html#a5d45808a0b84ca11c8d05c25d26341a2", null ]
+    [ "CustomChatTextBuilder", "d4/dc4/a11332.html#a47b3e24f7100d13180ad1946647999ae", null ],
+    [ "operator()", "d4/dc4/a11332.html#ad80555f063e7de15df3c434bc90d2ca9", null ],
+    [ "_language", "d4/dc4/a11332.html#a92d1c58d76d5d450892338d0e1856dc0", null ],
+    [ "_msgType", "d4/dc4/a11332.html#a0db1501da33fde77ab3c50943666b1fd", null ],
+    [ "_source", "d4/dc4/a11332.html#ad75f22d7eb6a62d59730918f4336768c", null ],
+    [ "_target", "d4/dc4/a11332.html#aa45be322836be588d8df2b253a22ee5c", null ],
+    [ "_text", "d4/dc4/a11332.html#ab59c9b938b564329483e38466169a92c", null ]
 ];

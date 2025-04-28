@@ -1,13 +1,6 @@
 var a14232 =
 [
-    [ "npc_costumed_orphan_matron", "d5/ddd/a14232.html#a0b913090588613ac00ea928f6273d56f", null ],
-    [ "DoAction", "d5/ddd/a14232.html#a7a7739f89604ffb5afc6bab75118340e", null ],
-    [ "GetInitXYZ", "d5/ddd/a14232.html#a3c6d0e6cecd1c4ef85b3d77c45ef6533", null ],
-    [ "Reset", "d5/ddd/a14232.html#a962de50b13079f3337c4e41eb2d98b55", null ],
-    [ "sGossipHello", "d5/ddd/a14232.html#a1a9c58c087b8addf8e482375737d6c49", null ],
-    [ "sQuestAccept", "d5/ddd/a14232.html#adac5d514261a210a701442da13ba1587", null ],
-    [ "UpdateAI", "d5/ddd/a14232.html#a4679d807df8749265ba0453c5b7588f1", null ],
-    [ "allowQuest", "d5/ddd/a14232.html#a722f4bfd0fb8b2665ff2b79d3208bc90", null ],
-    [ "eventStarted", "d5/ddd/a14232.html#a5292ab4e45fe3a858b3a59ef4a79bb34", null ],
-    [ "horseGUID", "d5/ddd/a14232.html#a92cfd09cefd26933ae322f2cc2716927", null ]
+    [ "gameobjectId", "d5/ddd/a14232.html#a5cebf652fccc66cb5f98968036405d14", null ],
+    [ "spawnIndex", "d5/ddd/a14232.html#a5e8b95d6ecf69db8736941b67e2478d8", null ],
+    [ "timestamp", "d5/ddd/a14232.html#a0c49f62b35e906637890fee896c74951", null ]
 ];

@@ -1,11 +1,8 @@
 var a19552 =
 [
-    [ "npc_living_constellationAI", "d8/db1/a19552.html#a54f4e946fad895bca07a59f4e00d10a5", null ],
-    [ "DoAction", "d8/db1/a19552.html#acdc93a7dc3019940d730fa20d115a929", null ],
-    [ "GetData", "d8/db1/a19552.html#acb5cc31d7a084e82d8bde3852f9668dd", null ],
-    [ "Reset", "d8/db1/a19552.html#a664b03bdaea184ab8dd8298ed9952790", null ],
-    [ "SpellHit", "d8/db1/a19552.html#a4c83ef2d5fe161a90d465a8fbd7eb4f8", null ],
-    [ "UpdateAI", "d8/db1/a19552.html#ad5b23c3db46b455c9321e7fb29b88572", null ],
-    [ "_isActive", "d8/db1/a19552.html#a786d2d05f83e59dd0da34f44037bdd35", null ],
-    [ "events", "d8/db1/a19552.html#a679c9fe1ed357b7c7e1ed1fac01ef8d3", null ]
+    [ "iron_golem_custodianAI", "d8/db1/a19552.html#aeeeed1383f5d221eb7b5cd5d3a6ea4fb", null ],
+    [ "JustEngagedWith", "d8/db1/a19552.html#acd67b8d4df95eb8b0d0365184e47a29c", null ],
+    [ "Reset", "d8/db1/a19552.html#af3193696d665746eecd9c62128d8684d", null ],
+    [ "UpdateAI", "d8/db1/a19552.html#ab1d3910b07a6c5c53f5388a10dc48775", null ],
+    [ "events", "d8/db1/a19552.html#a9e0bcc9ae6918f9fa40cbf8085d4ec42", null ]
 ];

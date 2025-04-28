@@ -1,6 +1,7 @@
 var a16444 =
 [
-    [ "boss_eydisAI", "dc/de6/a16448.html", "dc/de6/a16448" ],
-    [ "boss_eydis", "d5/d87/a16444.html#aa555f80882499bc4627e622fbb48b2a4", null ],
-    [ "GetAI", "d5/d87/a16444.html#ad49a673431c479fa2f5d9b6da42bbf55", null ]
+    [ "FilterTargets", "d5/d87/a16444.html#a304da18e36ff67c34b80ab39583f8c96", null ],
+    [ "HandleScript", "d5/d87/a16444.html#adf99670bcf862288f513d2a26cbc256a", null ],
+    [ "PrepareSpellScript", "d5/d87/a16444.html#a976cb3c956d37fc9870494b0a6b8d9ee", null ],
+    [ "Register", "d5/d87/a16444.html#a4513de251b2f3d52fe44b7f7e715007c", null ]
 ];

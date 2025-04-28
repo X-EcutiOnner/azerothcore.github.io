@@ -1,12 +1,13 @@
 var a11068 =
 [
-    [ "WorldObjectSpellTargetCheck", "df/d8e/a11068.html#a370a66c484d486ac6d2d3419a019c7cd", null ],
-    [ "~WorldObjectSpellTargetCheck", "df/d8e/a11068.html#a1d519b04f171d230b21da3cc637497cf", null ],
-    [ "operator()", "df/d8e/a11068.html#a2ae263977948d2195b22a737c36bad20", null ],
-    [ "_caster", "df/d8e/a11068.html#ac090f8e47bcdfccb85fb791856355827", null ],
-    [ "_condList", "df/d8e/a11068.html#a70b9331b5871e2e4d92d642715c8192a", null ],
-    [ "_condSrcInfo", "df/d8e/a11068.html#a288c53998aa7b744f6e3eaeba68fe6d8", null ],
-    [ "_referer", "df/d8e/a11068.html#a1a24eaafdf716de984a5943e049d10f7", null ],
-    [ "_spellInfo", "df/d8e/a11068.html#a66bd07338943ee307be19f22326b29b7", null ],
-    [ "_targetSelectionType", "df/d8e/a11068.html#a0e629a6fd0da179ea0c98c93d2337603", null ]
+    [ "alive", "df/d8e/a11068.html#aebeb2f67bf8646770570e5564fb01d4d", null ],
+    [ "crit", "df/d8e/a11068.html#a908278bd46f9be3e1191f4883f9eb32f", null ],
+    [ "damage", "df/d8e/a11068.html#a5bdf23f41a4a748f96dd9fffa8e8a838", null ],
+    [ "effectMask", "df/d8e/a11068.html#afb839b2b409a61e4d63de03dbce2abcb", null ],
+    [ "missCondition", "df/d8e/a11068.html#a6c17740427f4f90c7c2e4fb4854ab4b3", null ],
+    [ "processed", "df/d8e/a11068.html#a2de96d62297ff614fc3702bec035ce5b", null ],
+    [ "reflectResult", "df/d8e/a11068.html#add2beb55eb3313e474d947fd3eb1fc65", null ],
+    [ "scaleAura", "df/d8e/a11068.html#a89bba366b26686d41288e9b2e725eb75", null ],
+    [ "targetGUID", "df/d8e/a11068.html#acf55c1dd6f00c94296c592d988f959cf", null ],
+    [ "timeDelay", "df/d8e/a11068.html#abcf1acd0c3d50c2264253dc9c052795a", null ]
 ];

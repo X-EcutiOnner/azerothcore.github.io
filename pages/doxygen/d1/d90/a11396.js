@@ -1,9 +1,7 @@
 var a11396 =
 [
-    [ "ClientKeySeed", "d1/d90/a11396.html#a3e2df88e6fd716030d70a77850e96970", null ],
-    [ "ClientKeySeedHash", "d1/d90/a11396.html#ae2523827d6f9abae5eed0b463c00062f", null ],
-    [ "Module", "d1/d90/a11396.html#a1fcce28666a614c83d06729bc9c88bb4", null ],
-    [ "ModuleKey", "d1/d90/a11396.html#ac34f4c4997f5f64a9dcf4ad7d914a215", null ],
-    [ "Seed", "d1/d90/a11396.html#a3c8e1b5c642f12e29837800f0428f34e", null ],
-    [ "ServerKeySeed", "d1/d90/a11396.html#ad29fe1f9ba6ef32f1d35657683b0e11b", null ]
+    [ "StringTransaction", "d1/d90/a11396.html#aef82d603733e7cb0636d95abea9e6cdc", null ],
+    [ "Append", "d1/d90/a11396.html#a0d1d9db61a1b3658c3d0fde37e2a4c5e", null ],
+    [ "GetBuffer", "d1/d90/a11396.html#a7cb52c3e029cdb971dfbb4048ade25a0", null ],
+    [ "_buf", "d1/d90/a11396.html#a4ec7dd27d7a2321cd1cead11ca78c1ef", null ]
 ];

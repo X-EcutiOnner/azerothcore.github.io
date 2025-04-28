@@ -1,7 +1,6 @@
 var a21412 =
 [
-    [ "npc_mootoo_the_youngerAI", "d5/d86/a21416.html", "d5/d86/a21416" ],
-    [ "npc_mootoo_the_younger", "d7/d7c/a21412.html#a91e10489ed6a98cfa764fd4de8448317", null ],
-    [ "GetAI", "d7/d7c/a21412.html#ac49b3454afa4a3fbedd0887e3ff831b3", null ],
-    [ "OnQuestAccept", "d7/d7c/a21412.html#a5fce360ef989f5b2fe42cd04361e33bc", null ]
+    [ "npc_khunok_the_behemothAI", "d5/d86/a21416.html", "d5/d86/a21416" ],
+    [ "npc_khunok_the_behemoth", "d7/d7c/a21412.html#a0370959631c00581495dbd7c37263236", null ],
+    [ "GetAI", "d7/d7c/a21412.html#a201aa35dd119d23126b192a1e3786c09", null ]
 ];

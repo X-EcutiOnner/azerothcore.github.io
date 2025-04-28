@@ -1,6 +1,6 @@
 var a21836 =
 [
-    [ "HandleOnEffectRemove", "d4/d24/a21836.html#a5aeae7d8fc2fb8c8a1ce446ba1887c51", null ],
-    [ "PrepareAuraScript", "d4/d24/a21836.html#af415e4d7ea0b4b881af94eb7ea0c3f4c", null ],
-    [ "Register", "d4/d24/a21836.html#a242faa8822f9cdb7762d8ec3b6245b30", null ]
+    [ "npc_amberpine_woodsmanAI", "db/d4b/a21840.html", "db/d4b/a21840" ],
+    [ "npc_amberpine_woodsman", "d4/d24/a21836.html#a33bbec50a360b724bfe9cb8612cbb47d", null ],
+    [ "GetAI", "d4/d24/a21836.html#a9c1df6c01c163ca68712d72b14c46139", null ]
 ];

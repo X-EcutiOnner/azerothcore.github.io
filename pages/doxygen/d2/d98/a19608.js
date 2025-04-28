@@ -1,5 +1,6 @@
 var a19608 =
 [
-    [ "achievement_algalon_herald_of_the_titans", "d2/d98/a19608.html#a13c75b878f4669d212eeb09b55336384", null ],
-    [ "OnCheck", "d2/d98/a19608.html#a20811d7bb453b1758967c11545e630e9", null ]
+    [ "npc_algalon_worm_holeAI", "dd/d3f/a19612.html", "dd/d3f/a19612" ],
+    [ "npc_algalon_worm_hole", "d2/d98/a19608.html#a72516a4824fa61a331caff46d2784c64", null ],
+    [ "GetAI", "d2/d98/a19608.html#aac6ff3a41f08f5a11baa78c0526a3556", null ]
 ];

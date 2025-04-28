@@ -1,7 +1,8 @@
 var a23856 =
 [
-    [ "HandleEffect", "da/d4e/a23856.html#acb353dbdd050bfc6aa4b4b5f6433dc03", null ],
-    [ "PrepareSpellScript", "da/d4e/a23856.html#ad95bc33917e1aa968eedc636f6e3ddcb", null ],
-    [ "Register", "da/d4e/a23856.html#ac2b2bd2581a638553167d5c8099a70cd", null ],
-    [ "Validate", "da/d4e/a23856.html#a7702b0e876ab5ccd750d1072ee70ed69", null ]
+    [ "instance_mechanar_InstanceMapScript", "da/d4e/a23856.html#a728d427162c0f56e7d229c55ff88bfbd", null ],
+    [ "OnCreatureCreate", "da/d4e/a23856.html#aa0c6a84a6ace9299b18f0cc54263b398", null ],
+    [ "OnGameObjectCreate", "da/d4e/a23856.html#a236a8c67ca57ffc7d2161c00e8acbd64", null ],
+    [ "OnGameObjectRemove", "da/d4e/a23856.html#ac79c4f1dad7f2caf1278e242ec8fadc9", null ],
+    [ "_pathaleonGUID", "da/d4e/a23856.html#aaf5c80af5ba2ba46b3c53ccffaaa1d3b", null ]
 ];

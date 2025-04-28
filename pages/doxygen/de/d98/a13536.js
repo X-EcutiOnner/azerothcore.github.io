@@ -1,9 +1,12 @@
 var a13536 =
 [
-    [ "npc_tyrion_spybotAI", "de/d98/a13536.html#aedad685279012266637d29069ead9063", null ],
-    [ "Reset", "de/d98/a13536.html#a16f8f9fd368832aac7906c3fd8cb9698", null ],
-    [ "UpdateAI", "de/d98/a13536.html#ad8fc713bb9673e74bfd11bc653c71587", null ],
-    [ "WaypointReached", "de/d98/a13536.html#a819e987eeb8eb8d580a5ad22001a641d", null ],
-    [ "uiPhase", "de/d98/a13536.html#af5dbb99fe18d96665efd04bd53294636", null ],
-    [ "uiTimer", "de/d98/a13536.html#ab41fdff3612b29e7d0d94fb6aaa8c085", null ]
+    [ "npc_corporal_keeshanAI", "de/d98/a13536.html#aac5b72ede6e1496f80c4c2520e886efd", null ],
+    [ "Reset", "de/d98/a13536.html#a311488932a3de9153490d41e3fae92fb", null ],
+    [ "sQuestAccept", "de/d98/a13536.html#a52dd95c74b1457ad5b496b28fd183b06", null ],
+    [ "UpdateAI", "de/d98/a13536.html#a973cf65978e531dc8bd7db20fc2809b6", null ],
+    [ "WaypointReached", "de/d98/a13536.html#a3edc9ab54068e47f955116db70454f6c", null ],
+    [ "mockingBlowTimer", "de/d98/a13536.html#a21cd1ca86864b8507d43e5a1c4c13e0c", null ],
+    [ "phase", "de/d98/a13536.html#ae79dcfdb10738d673e8c1aebc6abdee6", null ],
+    [ "shieldBashTimer", "de/d98/a13536.html#abb5eaa25a77dd3e6dfff7aaa0aa6c375", null ],
+    [ "timer", "de/d98/a13536.html#a3107368f175aa7f4e8c405248ef917df", null ]
 ];

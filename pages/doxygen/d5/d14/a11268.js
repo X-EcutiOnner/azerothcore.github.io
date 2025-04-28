@@ -1,7 +1,6 @@
 var a11268 =
 [
-    [ "EffectApplyHandler", "d5/d14/a11268.html#a7ab5f0786000c217e2fc71201a8990b6", null ],
-    [ "Call", "d5/d14/a11268.html#a4c02a1b42d7b3a02633dc9600b0e09bb", null ],
-    [ "mode", "d5/d14/a11268.html#ac776375c5a5de321edc572c87e983193", null ],
-    [ "pEffectHandlerScript", "d5/d14/a11268.html#acd715556a7661f688ce0de9afe62250a", null ]
+    [ "EffectBase", "d5/d14/a11268.html#ab02f9f344e2f32ad59b35993d5c8f819", null ],
+    [ "CheckEffect", "d5/d14/a11268.html#a8c300ca68c3ff6f74b230835c566fd60", null ],
+    [ "ToString", "d5/d14/a11268.html#ab6f5b2a7ec1183206110eac9a21a7de5", null ]
 ];

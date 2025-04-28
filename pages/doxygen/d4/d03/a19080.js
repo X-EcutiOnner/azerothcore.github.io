@@ -1,6 +1,8 @@
 var a19080 =
 [
-    [ "npc_vortex_rideAI", "dd/de1/a19084.html", "dd/de1/a19084" ],
-    [ "npc_vortex_ride", "d4/d03/a19080.html#ad794cda407c9dfc35dd9bc2724f5014a", null ],
-    [ "GetAI", "d4/d03/a19080.html#a23ef53feb432127db2620810a55d02ff", null ]
+    [ "HandleDamage", "d4/d03/a19080.html#ab8948b09b685ad970f5292ca4c5d97ba", null ],
+    [ "HandleTargets", "d4/d03/a19080.html#ac36e689bad93aa17738f390680764a7e", null ],
+    [ "PrepareSpellScript", "d4/d03/a19080.html#a149db071722ce12cded16087c8eec1df", null ],
+    [ "Register", "d4/d03/a19080.html#abd073f34a414fab7ee23ee933863f1c7", null ],
+    [ "Validate", "d4/d03/a19080.html#a177320de9c3a2c2f29120fcaa413ab13", null ]
 ];

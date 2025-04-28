@@ -1,5 +1,6 @@
 var a13836 =
 [
-    [ "at_zulgurub_temple_speech", "db/d55/a13836.html#ab727ad7cb7f0a0e8309bbab233766cde", null ],
-    [ "_OnTrigger", "db/d55/a13836.html#afd42cd408df7562a9dcd91e33750f3d4", null ]
+    [ "npc_zulian_prowlerAI", "db/dde/a13840.html", "db/dde/a13840" ],
+    [ "npc_zulian_prowler", "db/d55/a13836.html#a27ae990985976d02bb221b6d669fa849", null ],
+    [ "GetAI", "db/d55/a13836.html#a7e7d4f8164bbb728a1b83244c1e356f9", null ]
 ];

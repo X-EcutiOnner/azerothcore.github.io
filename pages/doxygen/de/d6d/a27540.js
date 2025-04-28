@@ -1,5 +1,6 @@
 var a27540 =
 [
-    [ "npc_sunwell_gate", "de/d6d/a27540.html#a70643c475fe4aa6f47e0a47222b1faad", null ],
-    [ "OnQuestReward", "de/d6d/a27540.html#acfcf6b252cc7ebc594b22fffffa5930b", null ]
+    [ "npc_locksmith", "de/d6d/a27540.html#af959a6395ebc33109405f18f262e4ecb", null ],
+    [ "OnGossipHello", "de/d6d/a27540.html#aec977cf39f11a7bc2f13c2bde8e97351", null ],
+    [ "OnGossipSelect", "de/d6d/a27540.html#a62ec02e226255ff1f81895391a6494b8", null ]
 ];

@@ -1,18 +1,8 @@
 var a08596 =
 [
-    [ "PlayerSocialMap", "da/dd6/a08596.html#abfb2167fc86ea41b8cf66eebdaa95ceb", null ],
-    [ "PlayerSocial", "da/dd6/a08596.html#ad505f01fad548b70cf070a86dce40278", null ],
-    [ "_checkContact", "da/dd6/a08596.html#a56e7be93e0ed5e55e21c2b827e73f16b", null ],
-    [ "AddToSocialList", "da/dd6/a08596.html#ae21a947058622c611f8ffc1430f7f3c3", null ],
-    [ "GetNumberOfSocialsWithFlag", "da/dd6/a08596.html#ad4b6d7563aa448307c71fd01d0b748c3", null ],
-    [ "GetPlayerGUID", "da/dd6/a08596.html#aa14bba47d54e94391d494a6752d45949", null ],
-    [ "HasFriend", "da/dd6/a08596.html#a85c9c9320e8fa0c673e75d11d7e7b91c", null ],
-    [ "HasIgnore", "da/dd6/a08596.html#ab4a6c0eab682fbdfa98a0a71fa6aced8", null ],
-    [ "RemoveFromSocialList", "da/dd6/a08596.html#a8fb0fc85204ea32cc000a2d711f1245b", null ],
-    [ "SendSocialList", "da/dd6/a08596.html#aa31ca078f363c5d5f6cfabcc4126fa9b", null ],
-    [ "SetFriendNote", "da/dd6/a08596.html#a0ee1c5bebc234010f60f79618b541613", null ],
-    [ "SetPlayerGUID", "da/dd6/a08596.html#af913d007399dede4ddf59c2811fc3b8a", null ],
-    [ "SocialMgr", "da/dd6/a08596.html#ac90a13e772eca1f96d98f76cfc8bf396", null ],
-    [ "m_playerGUID", "da/dd6/a08596.html#accf6a40286cca75dd9d5eed8cc3c6790", null ],
-    [ "m_playerSocialMap", "da/dd6/a08596.html#a608444605a276e67a868b7ceac94a954", null ]
+    [ "AddFlag", "da/dd6/a08596.html#a1e81343732cd86cdf9974a1d96b73ba7", null ],
+    [ "HasFlag", "da/dd6/a08596.html#aba5227bee5d5e928e0fa171730f57385", null ],
+    [ "IsEnabled", "da/dd6/a08596.html#a115b220747f7b2d687ec81716dbad69f", null ],
+    [ "RemoveFlag", "da/dd6/a08596.html#a4ca3645233a466345d6be217d7a0df2b", null ],
+    [ "value", "da/dd6/a08596.html#a74592e45f8ae4c5f411a982227f809f3", null ]
 ];

@@ -1,14 +1,9 @@
 var a21924 =
 [
-    [ "npc_tirions_gambit_tirionAI", "d4/db5/a21924.html#a38959c7a5b502b5716a5c09b0f6ae8a4", null ],
-    [ "DoAction", "d4/db5/a21924.html#a495e0762614020ef6d7b741447099326", null ],
-    [ "DoSummonAction", "d4/db5/a21924.html#a891b31661705ed4df634059e6165d499", null ],
-    [ "JustSummoned", "d4/db5/a21924.html#ac62ec499aba734d36249f8c00b36e2d4", null ],
-    [ "Reset", "d4/db5/a21924.html#afb398bda1d6ee4d35527208e6c5bffee", null ],
-    [ "SetData", "d4/db5/a21924.html#a41f24de5f824d84edb69c6b2bdca6d4e", null ],
-    [ "SummonedCreatureDespawn", "d4/db5/a21924.html#aca05fee85997dffba6ec998b144b9495", null ],
-    [ "UpdateEscortAI", "d4/db5/a21924.html#a0b681d6cc1566e6193f7eb143ab2bd5e", null ],
-    [ "WaypointReached", "d4/db5/a21924.html#af5fd69b799c6227dba901f434e30c434", null ],
-    [ "events", "d4/db5/a21924.html#a711c55c26187ae695644b770a358766e", null ],
-    [ "summons", "d4/db5/a21924.html#af574a4b136ff42c597e30c83e4d463ca", null ]
+    [ "npc_Apothecary_HanesAI", "d4/db5/a21924.html#a8e209b142a58b3b3c0d84c430a086ade", null ],
+    [ "JustDied", "d4/db5/a21924.html#a4c681936d8e7053ace5cdeeaa1ee5ca9", null ],
+    [ "Reset", "d4/db5/a21924.html#a23d54542e6debf39798c2a2d6e2a255d", null ],
+    [ "UpdateEscortAI", "d4/db5/a21924.html#ab54eb5115b9c41b39f0de0f8f4412ef9", null ],
+    [ "WaypointReached", "d4/db5/a21924.html#a7105ea4c83ddd0fd08c96a0b0ff40bd2", null ],
+    [ "PotTimer", "d4/db5/a21924.html#a252858818b61cf15e2e031ceaaadc6b8", null ]
 ];

@@ -1,9 +1,7 @@
 var a22692 =
 [
-    [ "HandleAfterCast", "da/ddc/a22692.html#a32928b579ef42f377e911ef27197ed61", null ],
-    [ "HandleDummy", "da/ddc/a22692.html#a2adec08f0cc42cb21e97007b5f1214bc", null ],
-    [ "Load", "da/ddc/a22692.html#ac870bd626367bdc704e63d2f3b061b1f", null ],
-    [ "PrepareSpellScript", "da/ddc/a22692.html#a1f51d5562d5caac8d7d0f71de0051989", null ],
-    [ "Register", "da/ddc/a22692.html#adf8c87e9f6a3fb36bf26ed1c8dbb722f", null ],
-    [ "_targetCount", "da/ddc/a22692.html#a84d46608f7141d68b1a67fffc3493cbb", null ]
+    [ "HandleOnEffectApply", "da/ddc/a22692.html#a01d6ca6f8ec21ad42445b5e581c0f79b", null ],
+    [ "HandleOnEffectRemove", "da/ddc/a22692.html#a59952b33d7c4705a6bfe7f3443bbf005", null ],
+    [ "PrepareAuraScript", "da/ddc/a22692.html#a45df29f911b1232e306e04a182648904", null ],
+    [ "Register", "da/ddc/a22692.html#a71fbf189fc116eb7d14944ff4060a9a9", null ]
 ];

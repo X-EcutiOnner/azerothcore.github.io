@@ -1,6 +1,8 @@
 var a23424 =
 [
-    [ "instance_hellfire_ramparts_InstanceMapScript", "d4/d34/a23428.html", "d4/d34/a23428" ],
-    [ "instance_hellfire_ramparts", "d4/d84/a23424.html#ab6ee671123dd0d736e9745e45e04b8da", null ],
-    [ "GetInstanceScript", "d4/d84/a23424.html#a6f2dc361984b33c1d14d62d67a563e8d", null ]
+    [ "instance_gruuls_lair_InstanceMapScript", "d4/d84/a23424.html#a1ad656ccd4d41c756c4f525d079fd9b6", null ],
+    [ "GetData", "d4/d84/a23424.html#a410630dbbe00acf0b69603cfc357d503", null ],
+    [ "SetBossState", "d4/d84/a23424.html#a9f0752eb0ec1d9ca0681ddc5fc8d3752", null ],
+    [ "SetData", "d4/d84/a23424.html#a4cbe09489797fa0076d976f9a717a2bd", null ],
+    [ "_addsKilled", "d4/d84/a23424.html#a7a003811fcf620f3c2d11ff3498cb298", null ]
 ];

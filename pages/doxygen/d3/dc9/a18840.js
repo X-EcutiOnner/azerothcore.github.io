@@ -1,15 +1,7 @@
 var a18840 =
 [
-    [ "boss_gluthAI", "d3/dc9/a18840.html#a3ae0608d19cbc7ce5a561e0ae3e66d0d", null ],
-    [ "JustDied", "d3/dc9/a18840.html#ada2c5f6b7025f5f2fb67b8ebe3b2d56c", null ],
-    [ "JustEngagedWith", "d3/dc9/a18840.html#a25cf670d7254cc8331752987a854c63b", null ],
-    [ "JustSummoned", "d3/dc9/a18840.html#acc09328210fbf1a6e81999d548676ae4", null ],
-    [ "KilledUnit", "d3/dc9/a18840.html#a691d46055b922efc9d1ec93a8b0fb842", null ],
-    [ "MoveInLineOfSight", "d3/dc9/a18840.html#a2aaf43f7d1555a005ef263ceaad8304c", null ],
-    [ "Reset", "d3/dc9/a18840.html#acb9f68205a2a210737d43893a414ca52", null ],
-    [ "SelectPlayerInRoom", "d3/dc9/a18840.html#a1f8f87b00291d8164f607ac6262506cf", null ],
-    [ "SummonedCreatureDies", "d3/dc9/a18840.html#a115a1f1327a931067223734dbf414675", null ],
-    [ "UpdateAI", "d3/dc9/a18840.html#a2505f7ebda7b623edfedf96979a4a920", null ],
-    [ "events", "d3/dc9/a18840.html#adaf9581259a774087ce02725b42b6b47", null ],
-    [ "summons", "d3/dc9/a18840.html#a18f6aa3d949e68e9b38398780c017082", null ]
+    [ "OnRemove", "d3/dc9/a18840.html#a4e6a66934a01d01c50208459f6771353", null ],
+    [ "PrepareAuraScript", "d3/dc9/a18840.html#a2320044c6c81a89af0fefd4f90c05bd5", null ],
+    [ "Register", "d3/dc9/a18840.html#a4890d35f2b0889156a437c95e49f528c", null ],
+    [ "Validate", "d3/dc9/a18840.html#a1b90f1288b3b45267edd4da2b3418b21", null ]
 ];

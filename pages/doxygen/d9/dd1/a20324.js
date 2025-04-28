@@ -1,5 +1,6 @@
 var a20324 =
 [
-    [ "go_ulduar_do_not_push_this_button", "d9/dd1/a20324.html#aa204af213a643c001161e0c2f173ee6b", null ],
-    [ "OnGossipHello", "d9/dd1/a20324.html#ae11efa54b496ab21600a9c62e50b5fbe", null ]
+    [ "npc_ulduar_vx001AI", "d3/d5d/a20328.html", "d3/d5d/a20328" ],
+    [ "npc_ulduar_vx001", "d9/dd1/a20324.html#ae8393c02c94a94b0847e0c7837bc5469", null ],
+    [ "GetAI", "d9/dd1/a20324.html#acdab817141b851deb09861230323ee58", null ]
 ];

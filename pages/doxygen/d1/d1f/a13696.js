@@ -1,19 +1,12 @@
 var a13696 =
 [
-    [ "boss_nalorakk", "d1/d1f/a13696.html#a4dd18b28685e3dac2406c4e3d8be95aa", null ],
-    [ "CheckAnyEvadeGroup", "d1/d1f/a13696.html#a2ef7e2a115b8f2292580c88ff55bb797", null ],
-    [ "CheckFullyDeadGroup", "d1/d1f/a13696.html#a0754b8a39fd26f5fb026f9460faa17aa", null ],
-    [ "GroupedAttack", "d1/d1f/a13696.html#a249f35697e422a7e7e8a583f85cc97b1", null ],
-    [ "JustDied", "d1/d1f/a13696.html#a6f79e518e3a356e0f6093afa8c438fe5", null ],
-    [ "JustEngagedWith", "d1/d1f/a13696.html#a1d3c302161e8666c0343d449727c35a9", null ],
-    [ "MoveInLineOfSight", "d1/d1f/a13696.html#a3455e91061cfb9ea03712b8006d298df", null ],
-    [ "Reset", "d1/d1f/a13696.html#a85093d79b866ceff41357dde22e06867", null ],
-    [ "ShapeShift", "d1/d1f/a13696.html#a78b12658138455ccddd9c62b6c7e26dd", null ],
-    [ "UpdateAI", "d1/d1f/a13696.html#a4cf5656619dd9339000236ed6b006c90", null ],
-    [ "_active", "d1/d1f/a13696.html#a8825e186d58b8f6bbd39976e013ee114", null ],
-    [ "_bearForm", "d1/d1f/a13696.html#aa76da1d9912aaa97242f5d27e567e895", null ],
-    [ "_introScheduler", "d1/d1f/a13696.html#ac654307d732ac59155321008418f8c90", null ],
-    [ "_phase", "d1/d1f/a13696.html#a390142234210027d37f5e4ec7cea84ae", null ],
-    [ "_ranIntro", "d1/d1f/a13696.html#a78bd5a9970ab205d9553ed5746a42066", null ],
-    [ "_waveList", "d1/d1f/a13696.html#a6093dac3b1353a047174e5aae98c13d6", null ]
+    [ "npc_akilzon_eagle", "d1/d1f/a13696.html#ad70a735ce3a06f9c92ddb8ef7e5fd595", null ],
+    [ "JustEngagedWith", "d1/d1f/a13696.html#aa5c3d77a1086ad90397d47f081b25476", null ],
+    [ "MoveInLineOfSight", "d1/d1f/a13696.html#adefd384b8a273ca52343d836a399f3cb", null ],
+    [ "MovementInform", "d1/d1f/a13696.html#abf69be0c32356e65e6d451c33fb389f0", null ],
+    [ "Reset", "d1/d1f/a13696.html#a8ae0b8115d402671f94aaf27ff83eade", null ],
+    [ "UpdateAI", "d1/d1f/a13696.html#a59ef60c0d16eda1b4d78ef964b42211a", null ],
+    [ "arrived", "d1/d1f/a13696.html#a918dae0b34b43e10f066d32d5ebe6fcf", null ],
+    [ "EagleSwoop_Timer", "d1/d1f/a13696.html#a37a5861ef690729e2a8bfafddce168be", null ],
+    [ "TargetGUID", "d1/d1f/a13696.html#a14d4f82f932569d24f6014ad39640619", null ]
 ];

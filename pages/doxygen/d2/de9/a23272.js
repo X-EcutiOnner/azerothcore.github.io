@@ -1,7 +1,5 @@
 var a23272 =
 [
-    [ "HandleScript", "d2/de9/a23272.html#a7c1b4d0c8d2ad153cef62ce05fef814c", null ],
-    [ "PrepareSpellScript", "d2/de9/a23272.html#ab826f4f249679ffe87f9e6ccf6b9ecf0", null ],
-    [ "Register", "d2/de9/a23272.html#a82da72fd4eed6773c1f3a4288caa8963", null ],
-    [ "Validate", "d2/de9/a23272.html#a46aca18049e02d50f57579b3fdc705bd", null ]
+    [ "at_quagmirran_lair", "d2/de9/a23272.html#a1f8cb1f59e7a179d9e4a987f716ab26f", null ],
+    [ "OnTrigger", "d2/de9/a23272.html#aa0aab42516efaf842923b8a820942ac4", null ]
 ];

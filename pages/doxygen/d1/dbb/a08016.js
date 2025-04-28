@@ -1,9 +1,27 @@
 var a08016 =
 [
-    [ "VendorItem", "d1/dbb/a08016.html#ae79c26c304bee575a722f8a82fc79fd2", null ],
-    [ "IsGoldRequired", "d1/dbb/a08016.html#a5f335ffdb5d82418cdb4eb7a606692c1", null ],
-    [ "ExtendedCost", "d1/dbb/a08016.html#a18234f38ff242b8687265f9acf70dbe0", null ],
-    [ "incrtime", "d1/dbb/a08016.html#afe3bb3324faf1beae6ee17c223678e9b", null ],
-    [ "item", "d1/dbb/a08016.html#a6b26a96440c885684c173ee17d788896", null ],
-    [ "maxcount", "d1/dbb/a08016.html#a98be1e0499d9ae9cfb176063991f72ee", null ]
+    [ "CreatureData", "d1/dbb/a08016.html#aaee070f272fcfe84179d307a58a6deda", null ],
+    [ "curhealth", "d1/dbb/a08016.html#a8d792fe1be63517b89beeb7dc16bc59e", null ],
+    [ "curmana", "d1/dbb/a08016.html#a9282b4137e892574d3326273c19b7333", null ],
+    [ "currentwaypoint", "d1/dbb/a08016.html#ac58e514339c9c60ce78876a7c1ef50f1", null ],
+    [ "dbData", "d1/dbb/a08016.html#a4163a83f674432afc99799dd013f806a", null ],
+    [ "displayid", "d1/dbb/a08016.html#a51bd5a47d052accca3944095253d0d7a", null ],
+    [ "dynamicflags", "d1/dbb/a08016.html#a25d7752e9510c8019469b8a09ce1b059", null ],
+    [ "equipmentId", "d1/dbb/a08016.html#ac2d910ad95ea363dbe0a685d5db6cc79", null ],
+    [ "id1", "d1/dbb/a08016.html#af2a1092af24c3766e10554729061e2ff", null ],
+    [ "id2", "d1/dbb/a08016.html#a7632a7510b2a868b926a6ea21bf07e7f", null ],
+    [ "id3", "d1/dbb/a08016.html#a934d70093ff85a859a80f672c96888b2", null ],
+    [ "mapid", "d1/dbb/a08016.html#ad7b505ecbc54fd74d99d6d396b66ee84", null ],
+    [ "movementType", "d1/dbb/a08016.html#a5574b3c7c3976325c72f2d49a91d1ef3", null ],
+    [ "npcflag", "d1/dbb/a08016.html#a3de7f5eeb02d6c90c2ef4da7752ea87e", null ],
+    [ "orientation", "d1/dbb/a08016.html#a8e29f2f310f10644b21b86edce264cb6", null ],
+    [ "phaseMask", "d1/dbb/a08016.html#a116526b4b43aa76b5f739c0f498a3144", null ],
+    [ "posX", "d1/dbb/a08016.html#ab73d154a173a40973b8211e2bee4ecba", null ],
+    [ "posY", "d1/dbb/a08016.html#a98fbc00a0254cb68fbe796c2b54aef50", null ],
+    [ "posZ", "d1/dbb/a08016.html#aee7aae90ca299d8ac163bb068fed3f6a", null ],
+    [ "ScriptId", "d1/dbb/a08016.html#ad82bedfdb0ea59c9de4fd26887ae322a", null ],
+    [ "spawnMask", "d1/dbb/a08016.html#a63f086a033d91e31a78be1d5cd8c8dd5", null ],
+    [ "spawntimesecs", "d1/dbb/a08016.html#a1f0910de3138ea16397173c9821acf35", null ],
+    [ "unit_flags", "d1/dbb/a08016.html#a6dc0af68922ece07d5a0d86e361ce51e", null ],
+    [ "wander_distance", "d1/dbb/a08016.html#a05ac0d5358ba012c40155efee608772e", null ]
 ];

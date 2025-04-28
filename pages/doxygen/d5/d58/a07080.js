@@ -1,5 +1,5 @@
 var a07080 =
 [
-    [ "AuctionSearchRemove", "d5/d58/a07080.html#a5a93de23f32eb653e9df2df3e2d11bcb", null ],
-    [ "auctionId", "d5/d58/a07080.html#a6e18c3999d22c1972314b4a20ed8b62f", null ]
+    [ "packet", "d5/d58/a07080.html#ad266cc5bd8e3637534055a7564047f87", null ],
+    [ "playerGuid", "d5/d58/a07080.html#a824393dda7676d4a5268d2d7d2e9d17b", null ]
 ];

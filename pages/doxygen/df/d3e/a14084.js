@@ -1,10 +1,9 @@
 var a14084 =
 [
-    [ "npc_coren_direbrew_sisters", "df/d3e/a14084.html#a415ea0ebd044236f5f4c4d6c28896e00", null ],
-    [ "GetGUID", "df/d3e/a14084.html#a61863117e71ebfb7f1c4c83780ece7bc", null ],
-    [ "JustEngagedWith", "df/d3e/a14084.html#a34e0b6af032240c152c463c221d99335", null ],
-    [ "SetGUID", "df/d3e/a14084.html#ada2e446a929bbba088d3c7e09d117f93", null ],
-    [ "UpdateAI", "df/d3e/a14084.html#a7434b08d12d3f0902d1944b75323560c", null ],
-    [ "_scheduler", "df/d3e/a14084.html#a9d8ca85e7bbd3cc9c61c2bbb38b7d222", null ],
-    [ "_targetGUID", "df/d3e/a14084.html#a801a6811124a7db3a31ec492ef954b20", null ]
+    [ "HandleEffectPeriodic", "df/d3e/a14084.html#a798c8ddfc71e703bfe1e3c1f2d926cef", null ],
+    [ "HandleEffectRemove", "df/d3e/a14084.html#a96ed7366e568b70e82d622586740aa56", null ],
+    [ "Load", "df/d3e/a14084.html#a85cbc44e586330e2adfc0656a428bd7b", null ],
+    [ "PrepareAuraScript", "df/d3e/a14084.html#abd1f851112a50b79e815cdd894275bab", null ],
+    [ "Register", "df/d3e/a14084.html#aa3cd85aed063017c4737e7660fa81f37", null ],
+    [ "questTick", "df/d3e/a14084.html#ae2980e5f4934ce2ba5b755b7d45fab82", null ]
 ];

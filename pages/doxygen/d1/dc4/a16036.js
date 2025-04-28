@@ -1,6 +1,7 @@
 var a16036 =
 [
-    [ "boss_saviana_ragefireAI", "d8/dec/a16040.html", "d8/dec/a16040" ],
-    [ "boss_saviana_ragefire", "d1/dc4/a16036.html#a5964bbc510355a8b1fd08bd5f9f5f8c0", null ],
-    [ "GetAI", "d1/dc4/a16036.html#a0a0073d8710af066d9711636f4d5b01e", null ]
+    [ "HandleScriptEffect", "d1/dc4/a16036.html#a9582a8faa1b8ba973a76d651a7479348", null ],
+    [ "PrepareSpellScript", "d1/dc4/a16036.html#a681102507df3aa365ee2e2f064be5e54", null ],
+    [ "Register", "d1/dc4/a16036.html#aebfea5eb3339ede812b43a08a8cb82b9", null ],
+    [ "Validate", "d1/dc4/a16036.html#ae4a5c7952856caf2a2d3919b24b61949", null ]
 ];

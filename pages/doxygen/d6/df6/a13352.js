@@ -1,14 +1,7 @@
 var a13352 =
 [
-    [ "instance_uldaman_InstanceMapScript", "d6/df6/a13352.html#ab2607f229d1e34852c82139ddb597712", null ],
-    [ "GetData", "d6/df6/a13352.html#adef5f6d2dcaa50dbb615c4c134e7ecfb", null ],
-    [ "Initialize", "d6/df6/a13352.html#a2424bcb1aec0ffc6235a8e8b384f0ed1", null ],
-    [ "OnCreatureCreate", "d6/df6/a13352.html#a49b5562743910dc1b6b55efa8c44b6a0", null ],
-    [ "OnGameObjectCreate", "d6/df6/a13352.html#aacb9db5f66f1f9be0d993aacc3cf4348", null ],
-    [ "ReadSaveDataMore", "d6/df6/a13352.html#a8e0e03189463039dd31d883ad9c40e51", null ],
-    [ "SetData", "d6/df6/a13352.html#ab24fc2db74ef83f2b3be9603d4728385", null ],
-    [ "WriteSaveDataMore", "d6/df6/a13352.html#a3345c117f5e2ceca773843c3f51cb76f", null ],
-    [ "_encounters", "d6/df6/a13352.html#a6840bd04d25fd1f365e0c28c725cde97", null ],
-    [ "ancientVaultDoorGUID", "d6/df6/a13352.html#adf83ba0b0a1650462dbc3bc56182bed9", null ],
-    [ "archaedasTempleDoorGUID", "d6/df6/a13352.html#a6bad33c43ceaa23990544e4a8feefb34", null ]
+    [ "PeriodicTick", "d6/df6/a13352.html#acca46d585d06d461f735cddb6075b3b1", null ],
+    [ "PrepareAuraScript", "d6/df6/a13352.html#abd7382ab22efd3d82c4f00745255d024", null ],
+    [ "Register", "d6/df6/a13352.html#a7020dbe7c61f877d0ecd0d7542f6f270", null ],
+    [ "Validate", "d6/df6/a13352.html#acb31ba162452a30ff0c208829560f9fd", null ]
 ];

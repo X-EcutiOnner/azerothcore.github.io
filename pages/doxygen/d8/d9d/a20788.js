@@ -1,8 +1,6 @@
 var a20788 =
 [
-    [ "FilterTargets", "d8/d9d/a20788.html#a3d92ca79a15efaff3c4dd28f0c7ede2c", null ],
-    [ "HandleDummyEffect", "d8/d9d/a20788.html#afbf3aab6724d12426ab0197fb9459562", null ],
-    [ "PrepareSpellScript", "d8/d9d/a20788.html#a7ec441904bc100c6b15ee219617489ff", null ],
-    [ "Register", "d8/d9d/a20788.html#a2796cc02d7c029f3f99264162a19e1d2", null ],
-    [ "Validate", "d8/d9d/a20788.html#a85388adbc15d449e687f9f463cce3833", null ]
+    [ "boss_yoggsaron_immortal_guardianAI", "da/d59/a20792.html", "da/d59/a20792" ],
+    [ "boss_yoggsaron_immortal_guardian", "d8/d9d/a20788.html#a4009759d284b54cb958ee0bb80c45f14", null ],
+    [ "GetAI", "d8/d9d/a20788.html#ac532ca090d93ce6d11a0332329111f2b", null ]
 ];

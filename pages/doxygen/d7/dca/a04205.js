@@ -1,24 +1,19 @@
 var a04205 =
 [
-    [ "RegisterShadowLabyrinthCreatureAI", "d7/dca/a04205.html#afbd2592662281ddc8b6d11567efe9a50", null ],
-    [ "ShadowLabyrinthScriptName", "d7/dca/a04205.html#ab96ece1dcc827c0af968525da00da892", null ],
-    [ "slData", "d7/dca/a04205.html#a0bb87d52cf69de5a588288e14237b87d", [
-      [ "TYPE_RITUALISTS", "d7/dca/a04205.html#a0bb87d52cf69de5a588288e14237b87da2448fcd14abb165e775c665932a04948", null ],
-      [ "TYPE_HELLMAW", "d7/dca/a04205.html#a0bb87d52cf69de5a588288e14237b87da52ac1b40043222aff2cbe571a96bd05f", null ],
-      [ "DATA_BLACKHEARTTHEINCITEREVENT", "d7/dca/a04205.html#a0bb87d52cf69de5a588288e14237b87da5e5ecb7b6f8d204717412ca517a3aa26", null ],
-      [ "DATA_GRANDMASTER_VORPIL", "d7/dca/a04205.html#a0bb87d52cf69de5a588288e14237b87dabbbeb54dc0be17516ae2b37fd91b4748", null ],
-      [ "DATA_GRANDMASTER_VORPIL_EVENT", "d7/dca/a04205.html#a0bb87d52cf69de5a588288e14237b87dad90f8f395f905f5f55ca7b675b597f8b", null ],
-      [ "DATA_MURMUR", "d7/dca/a04205.html#a0bb87d52cf69de5a588288e14237b87da50ac08073863c86c5be25a661f884900", null ],
-      [ "DATA_MURMUREVENT", "d7/dca/a04205.html#a0bb87d52cf69de5a588288e14237b87da6d821b47b03599b8b3c294d32359c13f", null ],
-      [ "MAX_ENCOUNTER", "d7/dca/a04205.html#a0bb87d52cf69de5a588288e14237b87da7913656ef56deb3793c0c5f3d999d80d", null ]
-    ] ],
-    [ "slNPCandGO", "d7/dca/a04205.html#a5aeaf5f332ee73166572f5313be89bf1", [
-      [ "NPC_CABAL_RITUALIST", "d7/dca/a04205.html#a5aeaf5f332ee73166572f5313be89bf1a726fe6195260ca333078e65a64d24f7a", null ],
-      [ "NPC_HELLMAW", "d7/dca/a04205.html#a5aeaf5f332ee73166572f5313be89bf1ad42fe7f18144f0b2ff2949b85385db8b", null ],
-      [ "GO_REFECTORY_DOOR", "d7/dca/a04205.html#a5aeaf5f332ee73166572f5313be89bf1a84947de77bc0d365a3dbc4c222a80d7c", null ],
-      [ "GO_SCREAMING_HALL_DOOR", "d7/dca/a04205.html#a5aeaf5f332ee73166572f5313be89bf1a8dcc6b729c4258a8e241fa45bff0798a", null ]
-    ] ],
-    [ "GetShadowLabyrinthAI", "d7/dca/a04205.html#a04723307a726c0b79db08448db0704db", null ],
-    [ "EncounterCount", "d7/dca/a04205.html#ae1fbcd81e7256d27efa0288994753839", null ],
-    [ "PersistentDataCount", "d7/dca/a04205.html#aa38a92afffebaf4b33726515956b256b", null ]
+    [ "GuildScript", "de/dbf/a10288.html", "de/dbf/a10288" ],
+    [ "GuildHook", "d7/dca/a04205.html#a5cb9f5f21f7f7d0e793d70058163507e", [
+      [ "GUILDHOOK_ON_ADD_MEMBER", "d7/dca/a04205.html#a5cb9f5f21f7f7d0e793d70058163507eae55dad40010dcbf6c50672cae2f0106d", null ],
+      [ "GUILDHOOK_ON_REMOVE_MEMBER", "d7/dca/a04205.html#a5cb9f5f21f7f7d0e793d70058163507eac79cc93d3ab4677a9801e213686e2b51", null ],
+      [ "GUILDHOOK_ON_MOTD_CHANGED", "d7/dca/a04205.html#a5cb9f5f21f7f7d0e793d70058163507ea909770c2a1fe124c3fa21f83ff55c0d5", null ],
+      [ "GUILDHOOK_ON_INFO_CHANGED", "d7/dca/a04205.html#a5cb9f5f21f7f7d0e793d70058163507eaf9949399a22fa1e1ed088bfa6952d23f", null ],
+      [ "GUILDHOOK_ON_CREATE", "d7/dca/a04205.html#a5cb9f5f21f7f7d0e793d70058163507ea9d64b482c3d8be9681ab83722c84316e", null ],
+      [ "GUILDHOOK_ON_DISBAND", "d7/dca/a04205.html#a5cb9f5f21f7f7d0e793d70058163507eac23a3058a5a051613b6970bad9a38f58", null ],
+      [ "GUILDHOOK_ON_MEMBER_WITDRAW_MONEY", "d7/dca/a04205.html#a5cb9f5f21f7f7d0e793d70058163507ea3a78e5195fdbecb916d9f9510175381b", null ],
+      [ "GUILDHOOK_ON_MEMBER_DEPOSIT_MONEY", "d7/dca/a04205.html#a5cb9f5f21f7f7d0e793d70058163507ea2663578fa69784d19d4833584d1a1fdc", null ],
+      [ "GUILDHOOK_ON_ITEM_MOVE", "d7/dca/a04205.html#a5cb9f5f21f7f7d0e793d70058163507ea6ef9bfbc009fd877098120f95d6a3fa8", null ],
+      [ "GUILDHOOK_ON_EVENT", "d7/dca/a04205.html#a5cb9f5f21f7f7d0e793d70058163507eac20b467223e978c03559c967fec760a7", null ],
+      [ "GUILDHOOK_ON_BANK_EVENT", "d7/dca/a04205.html#a5cb9f5f21f7f7d0e793d70058163507eaa5be911ea4c307508ba407ac09cd82d9", null ],
+      [ "GUILDHOOK_CAN_GUILD_SEND_BANK_LIST", "d7/dca/a04205.html#a5cb9f5f21f7f7d0e793d70058163507eaec99ae82238d8260ba512b23abc70b5b", null ],
+      [ "GUILDHOOK_END", "d7/dca/a04205.html#a5cb9f5f21f7f7d0e793d70058163507ea85e0e175b03a5491dec2498ff4c415bb", null ]
+    ] ]
 ];

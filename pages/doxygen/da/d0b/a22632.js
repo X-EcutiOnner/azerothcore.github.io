@@ -1,8 +1,6 @@
 var a22632 =
 [
-    [ "Load", "da/d0b/a22632.html#a4ff26763f05b07d882cd8d209464910e", null ],
-    [ "OnPeriodic", "da/d0b/a22632.html#a3e3bb503a6b5f90741a4df668851accf", null ],
-    [ "PrepareAuraScript", "da/d0b/a22632.html#a4126d35669859963f10ed1425a054298", null ],
-    [ "Register", "da/d0b/a22632.html#adb6a44892d80aeaaf4c15c71a47f422e", null ],
-    [ "Validate", "da/d0b/a22632.html#a22d6c338ea1f2af9be0eb02aceba42bd", null ]
+    [ "HandleScriptEffect", "da/d0b/a22632.html#a21740b341acce23e284a3d4ceea9b6e0", null ],
+    [ "PrepareSpellScript", "da/d0b/a22632.html#addcd30a673390ca8b76eab5ccb5f4245", null ],
+    [ "Register", "da/d0b/a22632.html#aad6959f74932db219e991efd3b3af44a", null ]
 ];

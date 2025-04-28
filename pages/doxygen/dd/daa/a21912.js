@@ -1,6 +1,6 @@
 var a21912 =
 [
-    [ "npc_boneguard_footmanAI", "d0/d8c/a21916.html", "d0/d8c/a21916" ],
-    [ "npc_boneguard_footman", "dd/daa/a21912.html#aba17f89b9546deff5401ad33224b2b3e", null ],
-    [ "GetAI", "dd/daa/a21912.html#ab0b28f61e26f701db17a0d19bbde4492", null ]
+    [ "npc_your_inner_turmoilAI", "d0/d8c/a21916.html", "d0/d8c/a21916" ],
+    [ "npc_your_inner_turmoil", "dd/daa/a21912.html#a72856ef469bb8f6ff4a89a16159479af", null ],
+    [ "GetAI", "dd/daa/a21912.html#a29c8f76b072e891face1225770688ca6", null ]
 ];

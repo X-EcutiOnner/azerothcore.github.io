@@ -1,11 +1,7 @@
 var a13252 =
 [
-    [ "npc_kalecgos_kj", "d1/d0e/a13252.html#aae30bdf82ff333ef02a1981717c54ea4", null ],
-    [ "DoAction", "d1/d0e/a13252.html#a6b2743b9b6bfb4d687e54412fe66c17f", null ],
-    [ "JustSummoned", "d1/d0e/a13252.html#acf92559a2b06b8c9cce5c4887dd1316b", null ],
-    [ "Reset", "d1/d0e/a13252.html#ab3cd4229999bddc16fe8152acb187111", null ],
-    [ "UpdateAI", "d1/d0e/a13252.html#a8a029eb2cf7fd96ed324d93f4d66a30d", null ],
-    [ "events", "d1/d0e/a13252.html#ab5cc58e293e20172558e15fa28670633", null ],
-    [ "instance", "d1/d0e/a13252.html#a5a6f22c34578ccb7a5c1696d8ed342d6", null ],
-    [ "summons", "d1/d0e/a13252.html#a57af12b97c6e250a50283b224bc5cb6f", null ]
+    [ "OnRemove", "d1/d0e/a13252.html#a2438d8c85ff2a446572286b0d058ecf1", null ],
+    [ "PrepareAuraScript", "d1/d0e/a13252.html#ade353aafb960cabdb615718f41f485e8", null ],
+    [ "Register", "d1/d0e/a13252.html#af1c312778a13f7fe8d174247f69258ac", null ],
+    [ "Validate", "d1/d0e/a13252.html#afd75cdeb9430833fa6a59d7913c86a97", null ]
 ];

@@ -1,7 +1,7 @@
 var a26596 =
 [
-    [ "HandleAuraApply", "db/d2e/a26596.html#afb8eb7fcc0797c3e19a9bfc5eebb5fb2", null ],
-    [ "HandleAuraRemove", "db/d2e/a26596.html#a9029865b5e06c4a9aa7f155f371c9125", null ],
-    [ "PrepareAuraScript", "db/d2e/a26596.html#a5c7d7c0b8880128121d66d39094f1965", null ],
-    [ "Register", "db/d2e/a26596.html#ae15d5175671c60a55e4a77848bc9fe1b", null ]
+    [ "CheckProc", "db/d2e/a26596.html#a4efa486733390dea566e1169902db915", null ],
+    [ "PrepareAuraScript", "db/d2e/a26596.html#a241b65bdcb6aefa4e37b61c5007149f6", null ],
+    [ "Register", "db/d2e/a26596.html#a5c70bb3ff8d2c3d9a2ab8aad729917bb", null ],
+    [ "Validate", "db/d2e/a26596.html#a7c5d82eba0bba896294cffc94843414c", null ]
 ];

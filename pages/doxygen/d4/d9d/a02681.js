@@ -1,18 +1,43 @@
 var a02681 =
 [
-    [ "instance_ruins_of_ahnqiraj", "d0/dfe/a14941.html", "d0/dfe/a14941" ],
-    [ "instance_ruins_of_ahnqiraj::instance_ruins_of_ahnqiraj_InstanceMapScript", "d2/d8f/a14945.html", "d2/d8f/a14945" ],
-    [ "RajaxxWaveEvent", "d4/d9d/a02681.html#a4be5bd3adfc6d188ef97fd3885ddbeb8", [
-      [ "SAY_WAVE3", "d4/d9d/a02681.html#a4be5bd3adfc6d188ef97fd3885ddbeb8a2c4234c075da474e1859f08d620f20d3", null ],
-      [ "SAY_WAVE4", "d4/d9d/a02681.html#a4be5bd3adfc6d188ef97fd3885ddbeb8af13e872cbd347b8a5bc80c2e8666381d", null ],
-      [ "SAY_WAVE5", "d4/d9d/a02681.html#a4be5bd3adfc6d188ef97fd3885ddbeb8a3caa1ed6a429617e3127b0ee596a1538", null ],
-      [ "SAY_WAVE6", "d4/d9d/a02681.html#a4be5bd3adfc6d188ef97fd3885ddbeb8a36b35bf4fc7c3385646f3b75fd2eef4f", null ],
-      [ "SAY_WAVE7", "d4/d9d/a02681.html#a4be5bd3adfc6d188ef97fd3885ddbeb8afc3fb1faeaa852c362f467426a19905e", null ],
-      [ "SAY_ENGAGE", "d4/d9d/a02681.html#a4be5bd3adfc6d188ef97fd3885ddbeb8a60c202ec07ce9f93a9c0eff3a8a1fba9", null ],
-      [ "DATA_RAJAXX_WAVE_ENGAGED", "d4/d9d/a02681.html#a4be5bd3adfc6d188ef97fd3885ddbeb8a6e46287d316eb0a2009039db3c6ed592", null ],
-      [ "GROUP_RAJAXX_WAVE_TIMER", "d4/d9d/a02681.html#a4be5bd3adfc6d188ef97fd3885ddbeb8a002d2a7e164b95da570f1ee400495b15", null ]
+    [ "spell_rog_savage_combat", "d1/db2/a26468.html", "d1/db2/a26468" ],
+    [ "spell_rog_combat_potency", "da/d1b/a26472.html", "da/d1b/a26472" ],
+    [ "spell_rog_blade_flurry", "d3/dad/a26476.html", "d3/dad/a26476" ],
+    [ "spell_rog_cheat_death", "d4/d92/a26480.html", "d4/d92/a26480" ],
+    [ "spell_rog_deadly_poison", "df/dd9/a26484.html", "df/dd9/a26484" ],
+    [ "spell_rog_killing_spree_aura", "df/d43/a26488.html", "df/d43/a26488" ],
+    [ "spell_rog_killing_spree", "da/de9/a26492.html", "da/de9/a26492" ],
+    [ "spell_rog_nerves_of_steel", "d5/de2/a26496.html", "d5/de2/a26496" ],
+    [ "spell_rog_preparation", "d6/d26/a26500.html", "d6/d26/a26500" ],
+    [ "spell_rog_prey_on_the_weak", "d3/dd9/a26504.html", "d3/dd9/a26504" ],
+    [ "spell_rog_rupture", "d7/d9c/a26508.html", "d7/d9c/a26508" ],
+    [ "spell_rog_shiv", "d4/dd6/a26512.html", "d4/dd6/a26512" ],
+    [ "spell_rog_tricks_of_the_trade", "df/d41/a26516.html", "df/d41/a26516" ],
+    [ "spell_rog_tricks_of_the_trade_proc", "d8/d9d/a26520.html", "d8/d9d/a26520" ],
+    [ "spell_rog_pickpocket", "db/d10/a26524.html", "db/d10/a26524" ],
+    [ "spell_rog_vanish_purge", "dc/dde/a26528.html", "dc/dde/a26528" ],
+    [ "spell_rog_vanish", "dd/d48/a26532.html", "dd/d48/a26532" ],
+    [ "KillingSpreeScriptName", "d4/d9d/a02681.html#a3113dcef6ca918382eb15e4803d7bb42", null ],
+    [ "spell_rog_killing_spree_aura_script", "d4/d9d/a02681.html#a68df6411a1d33b37aed8e2cb7d35de0f", null ],
+    [ "RogueSpells", "d4/d9d/a02681.html#a8b34bf8ceba4b8c2efea84d90002d523", [
+      [ "SPELL_ROGUE_BLADE_FLURRY_EXTRA_ATTACK", "d4/d9d/a02681.html#a8b34bf8ceba4b8c2efea84d90002d523abd75ddb52a8c3be71d8856b3a34686b4", null ],
+      [ "SPELL_ROGUE_CHEAT_DEATH_COOLDOWN", "d4/d9d/a02681.html#a8b34bf8ceba4b8c2efea84d90002d523a75fb50ee3a9ea34c6f3cd9c9c69ef812", null ],
+      [ "SPELL_ROGUE_CHEATING_DEATH", "d4/d9d/a02681.html#a8b34bf8ceba4b8c2efea84d90002d523a6396f8908556e8d41d4588ad332ed220", null ],
+      [ "SPELL_ROGUE_GLYPH_OF_PREPARATION", "d4/d9d/a02681.html#a8b34bf8ceba4b8c2efea84d90002d523a7545fa0487a27a1ff5c4f46f11bd6e2d", null ],
+      [ "SPELL_ROGUE_KILLING_SPREE", "d4/d9d/a02681.html#a8b34bf8ceba4b8c2efea84d90002d523a8724d3e7643b075ffc53dc2b56a6d57e", null ],
+      [ "SPELL_ROGUE_KILLING_SPREE_TELEPORT", "d4/d9d/a02681.html#a8b34bf8ceba4b8c2efea84d90002d523ac79c792df274373bd828b858423bf788", null ],
+      [ "SPELL_ROGUE_KILLING_SPREE_WEAPON_DMG", "d4/d9d/a02681.html#a8b34bf8ceba4b8c2efea84d90002d523a43c37fb7f4397717d9d461979a347419", null ],
+      [ "SPELL_ROGUE_KILLING_SPREE_DMG_BUFF", "d4/d9d/a02681.html#a8b34bf8ceba4b8c2efea84d90002d523aa581c4f979f952b5ab2cd9c3fe4b48b3", null ],
+      [ "SPELL_ROGUE_PREY_ON_THE_WEAK", "d4/d9d/a02681.html#a8b34bf8ceba4b8c2efea84d90002d523a00ea9db72b7743f8aa77105b26052452", null ],
+      [ "SPELL_ROGUE_SHIV_TRIGGERED", "d4/d9d/a02681.html#a8b34bf8ceba4b8c2efea84d90002d523abbcae24b30508077d3d35d472fda1c1e", null ],
+      [ "SPELL_ROGUE_TRICKS_OF_THE_TRADE_DMG_BOOST", "d4/d9d/a02681.html#a8b34bf8ceba4b8c2efea84d90002d523a3e6468283bdb07074e12d6fa6a95de1a", null ],
+      [ "SPELL_ROGUE_TRICKS_OF_THE_TRADE_PROC", "d4/d9d/a02681.html#a8b34bf8ceba4b8c2efea84d90002d523a05c69acb7a8f501d078f7fda049926e1", null ]
     ] ],
-    [ "AddSC_instance_ruins_of_ahnqiraj", "d4/d9d/a02681.html#ad39c6347a486714f364a0a6e068595f6", null ],
-    [ "creatureData", "d4/d9d/a02681.html#a412286b689bd324fedd65ddd8dde8afb", null ],
-    [ "RajaxxWavesData", "d4/d9d/a02681.html#aef812d08d9553915de270214cf8bd837", null ]
+    [ "vanish", "d4/d9d/a02681.html#a47d2a2d375f5f93aeca232de9aa5ac52", [
+      [ "SPELL_STEALTH", "d4/d9d/a02681.html#a47d2a2d375f5f93aeca232de9aa5ac52ab05b1ff486cc81800d4e40014eae5576", null ],
+      [ "SPELL_PARALYZE", "d4/d9d/a02681.html#a47d2a2d375f5f93aeca232de9aa5ac52abdce16544ce0bef6f5399bbf640e6f01", null ],
+      [ "SPELL_CLEAN_ESCAPE_AURA", "d4/d9d/a02681.html#a47d2a2d375f5f93aeca232de9aa5ac52a8d6bf93ef29ba0ac643e6ae0fe2b3a58", null ],
+      [ "SPELL_CLEAN_ESCAPE_HEAL", "d4/d9d/a02681.html#a47d2a2d375f5f93aeca232de9aa5ac52a481fbba00ece37c94df1a980e2060c37", null ]
+    ] ],
+    [ "AddSC_rogue_spell_scripts", "d4/d9d/a02681.html#a540405afe3345e19487d2db693272b2a", null ]
 ];

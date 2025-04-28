@@ -1,13 +1,6 @@
 var a17084 =
 [
-    [ "boss_slad_ranAI", "dc/dd2/a17084.html#ad85e2fd51d67739026a96bc757bc7801", null ],
-    [ "GetData", "dc/dd2/a17084.html#a58e1188a418acdc1f327e7df90c5c122", null ],
-    [ "JustDied", "dc/dd2/a17084.html#a636ca76497c33a5175986e80bbcda44a", null ],
-    [ "JustEngagedWith", "dc/dd2/a17084.html#ac30b38805d0421b1be509c7d5609c648", null ],
-    [ "JustSummoned", "dc/dd2/a17084.html#a08e8d256c0f15011d1aacef8e22d4253", null ],
-    [ "KilledUnit", "dc/dd2/a17084.html#a4700f8c06e5fa43fc1719c19cfe79b24", null ],
-    [ "Reset", "dc/dd2/a17084.html#a8759163de40d04d53c5e5ed8d8192aa7", null ],
-    [ "SetData", "dc/dd2/a17084.html#a3b91eb7c2aa2aeb356c51e81f449b0a5", null ],
-    [ "UpdateAI", "dc/dd2/a17084.html#a9eeb3281456779edd9570119ba8a2105", null ],
-    [ "_achievement", "dc/dd2/a17084.html#a3ab4f94e13d414fd6c9eb0ba63941ca9", null ]
+    [ "HandleScriptEffect", "dc/dd2/a17084.html#ab9c289e946cfaf2b63f2526914d79812", null ],
+    [ "PrepareSpellScript", "dc/dd2/a17084.html#a832f8ab737254760fe2b91f19d119781", null ],
+    [ "Register", "dc/dd2/a17084.html#a86f620a16780cef2c09f45eefb6dad9c", null ]
 ];

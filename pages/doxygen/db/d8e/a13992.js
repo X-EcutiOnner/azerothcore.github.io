@@ -1,6 +1,8 @@
 var a13992 =
 [
-    [ "instance_zulgurub_InstanceMapScript", "d7/d07/a13996.html", "d7/d07/a13996" ],
-    [ "instance_zulgurub", "db/d8e/a13992.html#aedc8c70e880ed9ccaf58b7154f9ba341", null ],
-    [ "GetInstanceScript", "db/d8e/a13992.html#a51f17d1135c7e97ff082d0d95ec3ffa4", null ]
+    [ "npc_spawn_of_marli", "db/d8e/a13992.html#a1dcd5066de108203903f5767c4b375ea", null ],
+    [ "JustEngagedWith", "db/d8e/a13992.html#a1b8afff5d90df02d16b81785026b2ff0", null ],
+    [ "Reset", "db/d8e/a13992.html#a79ef192d41af75e0dad0494776c75189", null ],
+    [ "UpdateAI", "db/d8e/a13992.html#a1c456e7deb43d2e4dd1abc6f702c3f75", null ],
+    [ "_scheduler", "db/d8e/a13992.html#ae9d30ec62ff25a454824ff4334ad2d99", null ]
 ];

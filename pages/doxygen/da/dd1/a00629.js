@@ -1,15 +1,8 @@
 var a00629 =
 [
-    [ "MonsterMoveType", "da/dd1/a00629.html#afd3f02560404659d901713e1228d9339", [
-      [ "MonsterMoveNormal", "da/dd1/a00629.html#afd3f02560404659d901713e1228d9339aba693dab24bf78b0173914ecf339c558", null ],
-      [ "MonsterMoveStop", "da/dd1/a00629.html#afd3f02560404659d901713e1228d9339a6520302858321c3083951d598e05a167", null ],
-      [ "MonsterMoveFacingSpot", "da/dd1/a00629.html#afd3f02560404659d901713e1228d9339a395aabd5641c37343d08506cfc4e4323", null ],
-      [ "MonsterMoveFacingTarget", "da/dd1/a00629.html#afd3f02560404659d901713e1228d9339a61f5156f5db570fd9f5db194179ea7f9", null ],
-      [ "MonsterMoveFacingAngle", "da/dd1/a00629.html#afd3f02560404659d901713e1228d9339ac65e2c863bd6cadc1dc72c4720e61642", null ]
-    ] ],
-    [ "operator<<", "da/dd1/a00629.html#ac2e9418dfdb25149170911f2cd0dd948", null ],
-    [ "operator>>", "da/dd1/a00629.html#ae394b26156a3fa0d1d828d30cee475b1", null ],
-    [ "WriteCatmullRomCyclicPath", "da/dd1/a00629.html#ae740cc738fed507e64b3243ce62c5952", null ],
-    [ "WriteCatmullRomPath", "da/dd1/a00629.html#a92efeab3fe080f348fa91cb9bc5a1b05", null ],
-    [ "WriteLinearPath", "da/dd1/a00629.html#ad0db2c4fd496c84301b43d46fbffb460", null ]
+    [ "PingOperation", "d1/dcd/a05680.html", "d1/dcd/a05680" ],
+    [ "DatabaseIncompatibleVersion", "da/dd1/a00629.html#a31d71bc4748fa66e040eb20dc995e12e", null ],
+    [ "DatabaseWorkerPool< CharacterDatabaseConnection >", "da/dd1/a00629.html#aa3cb93fc2ebcb628d94ae0dd8ddf8a18", null ],
+    [ "DatabaseWorkerPool< LoginDatabaseConnection >", "da/dd1/a00629.html#a8751940b74a554bf0a86046325e0c5ed", null ],
+    [ "DatabaseWorkerPool< WorldDatabaseConnection >", "da/dd1/a00629.html#a25e66781580e4e7fcbd8e8ca6ef9f13a", null ]
 ];

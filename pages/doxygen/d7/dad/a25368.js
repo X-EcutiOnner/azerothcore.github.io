@@ -1,7 +1,8 @@
 var a25368 =
 [
-    [ "HandleScriptEffect", "d7/dad/a25368.html#acbcc05fa433f5bf75998b15e4e25fdad", null ],
-    [ "PrepareSpellScript", "d7/dad/a25368.html#adf5a3b94012ac871c70f5782d57ae1cd", null ],
-    [ "Register", "d7/dad/a25368.html#a00596a3f8f0699c25e52a5778d59a2b2", null ],
-    [ "SelectTarget", "d7/dad/a25368.html#a6a59b7ce696f959b2026cf8088079e89", null ]
+    [ "CheckProc", "d7/dad/a25368.html#ae0b0a45ddc782a523394e30414e0b2ba", null ],
+    [ "HandleProc", "d7/dad/a25368.html#a9cb849a8ea8afb45cc1df4d260542937", null ],
+    [ "PrepareAuraScript", "d7/dad/a25368.html#af65fc845e6625b1f0a4f4b88ba6db46e", null ],
+    [ "Register", "d7/dad/a25368.html#acc5c7607ea7a23b66d1db6cb1a38833e", null ],
+    [ "Validate", "d7/dad/a25368.html#a03621fd67cd9179ccc37a53c4d2056d9", null ]
 ];

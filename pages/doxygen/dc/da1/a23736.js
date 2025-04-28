@@ -1,6 +1,6 @@
 var a23736 =
 [
-    [ "instance_the_eye_InstanceMapScript", "df/d74/a23740.html", "df/d74/a23740" ],
-    [ "instance_the_eye", "dc/da1/a23736.html#a685064ba70095a3fc27ae1a8b33d3c88", null ],
-    [ "GetInstanceScript", "dc/da1/a23736.html#a811c7d161469f33ce4fb7d792ce30a4e", null ]
+    [ "npc_capernian", "dc/da1/a23736.html#a0acb568664c777797eeb7104f454699d", null ],
+    [ "AttackStart", "dc/da1/a23736.html#a81e89eacbae30a1229fda5e9fe924e2b", null ],
+    [ "ScheduleEvents", "dc/da1/a23736.html#a6bd26f5584a1c960b84b574abd723ad1", null ]
 ];

@@ -1,10 +1,13 @@
 var a05328 =
 [
-    [ "Category", "d5/db3/a05328.html#a6a7956fedac99271428968ba339f464f", null ],
-    [ "Tags", "d5/db3/a05328.html#ac22787b2dadd4d3991f72f6ccab5c225", null ],
-    [ "Text", "d5/db3/a05328.html#ab63598f64896186fde81048550767b28", null ],
-    [ "Timestamp", "d5/db3/a05328.html#a8248a27d920ca431493750e3f2dec48b", null ],
-    [ "Title", "d5/db3/a05328.html#a857d2d4843480b9967334f079351292a", null ],
-    [ "Type", "d5/db3/a05328.html#af9962592650ba24fd9b3c0ee9ce06f7f", null ],
-    [ "Value", "d5/db3/a05328.html#a09832a09e989c3851e72f4ec198f0e20", null ]
+    [ "Logger", "d5/db3/a05328.html#a79033d763c69dbfb95b1c591f1cc680b", null ],
+    [ "addAppender", "d5/db3/a05328.html#aabacae0a84994e5567f9c87829909fdd", null ],
+    [ "delAppender", "d5/db3/a05328.html#a1fb8747bf7b652b9dfbf9ee830a82c8b", null ],
+    [ "getLogLevel", "d5/db3/a05328.html#aba945b0f037b7de27976d3a6e1a0fbbd", null ],
+    [ "getName", "d5/db3/a05328.html#ae95167d7bb330ecc0a49779a5635d1e2", null ],
+    [ "setLogLevel", "d5/db3/a05328.html#a00fdcdbeb39a2d5d4fb27cc36c35c101", null ],
+    [ "write", "d5/db3/a05328.html#a3627f98e8676ee7b68a34a4d9439082e", null ],
+    [ "appenders", "d5/db3/a05328.html#aa93931f2386ebc6dbf2464f536ed54f9", null ],
+    [ "level", "d5/db3/a05328.html#a3b1d9dd7bd391ac7bed560918f82a03b", null ],
+    [ "name", "d5/db3/a05328.html#ada299a7dd268085371557213e36695a9", null ]
 ];

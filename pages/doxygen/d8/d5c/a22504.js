@@ -1,8 +1,12 @@
 var a22504 =
 [
-    [ "FilterTargets", "d8/d5c/a22504.html#a9e0a72530a8dc764269e8df6d9d1ed3d", null ],
-    [ "HandleDummyHitTarget", "d8/d5c/a22504.html#ae892090a9bd48aa447224c9f96801d37", null ],
-    [ "PrepareSpellScript", "d8/d5c/a22504.html#af08ab4fcc3705b07e89ed222794e70e9", null ],
-    [ "Register", "d8/d5c/a22504.html#aeb1aad59b6b4767a63660c5fe0277392", null ],
-    [ "Validate", "d8/d5c/a22504.html#a5a87a7c18a55caf5288b8ca8bbd2f361", null ]
+    [ "boss_exarch_maladaar", "d8/d5c/a22504.html#a5dac68e3dc6fc37736bf85b84eadd417", null ],
+    [ "JustDied", "d8/d5c/a22504.html#ab1179a19af8948d430559db4074c41ed", null ],
+    [ "JustEngagedWith", "d8/d5c/a22504.html#a69427e7a0ca70253ad8035b5e6b1e01e", null ],
+    [ "JustSummoned", "d8/d5c/a22504.html#a8f59e1b093af8c85da8c2fd38e01ca1b", null ],
+    [ "KilledUnit", "d8/d5c/a22504.html#adf35cb8b039676500d4040baa08b0d48", null ],
+    [ "MoveInLineOfSight", "d8/d5c/a22504.html#a14baacd30b9186c7492c981313421d5b", null ],
+    [ "Reset", "d8/d5c/a22504.html#accb21d3c4a6856d2de9641cf84c42ce9", null ],
+    [ "UpdateAI", "d8/d5c/a22504.html#a7646c4477135d3d3b8580432902babd4", null ],
+    [ "_talked", "d8/d5c/a22504.html#a15c4f122529b9f52823ea407c43433c5", null ]
 ];

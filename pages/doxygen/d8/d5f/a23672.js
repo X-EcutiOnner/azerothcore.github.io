@@ -1,6 +1,7 @@
 var a23672 =
 [
-    [ "npc_capernian", "d8/d5f/a23672.html#a0acb568664c777797eeb7104f454699d", null ],
-    [ "AttackStart", "d8/d5f/a23672.html#a81e89eacbae30a1229fda5e9fe924e2b", null ],
-    [ "ScheduleEvents", "d8/d5f/a23672.html#a6bd26f5584a1c960b84b574abd723ad1", null ]
+    [ "boss_warp_splinter", "d8/d5f/a23672.html#a1d0e8720baaadd1f6f4f6026597c9f63", null ],
+    [ "JustDied", "d8/d5f/a23672.html#a7e7850cf545e57f9fcd8d1aff42f8eb3", null ],
+    [ "JustEngagedWith", "d8/d5f/a23672.html#afc05b2f366e518d5e9ea3fbbfcba05cc", null ],
+    [ "KilledUnit", "d8/d5f/a23672.html#a0e974eb2bfae50383040fe9c7ccf74c1", null ]
 ];

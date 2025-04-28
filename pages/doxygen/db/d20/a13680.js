@@ -1,7 +1,6 @@
 var a13680 =
 [
-    [ "HandleDispel", "db/d20/a13680.html#a415977576283972ce4a1050c70826d7c", null ],
-    [ "PrepareAuraScript", "db/d20/a13680.html#a95dfbfe631e8ec9213a32c6f52d3feb1", null ],
-    [ "Register", "db/d20/a13680.html#a1bbb71eeb2273c2ecd0eb774b68735dc", null ],
-    [ "Validate", "db/d20/a13680.html#ac496e7bef875ca46660217e74fc3bc74", null ]
+    [ "npc_tapoke_slim_jahnAI", "db/de3/a13684.html", "db/de3/a13684" ],
+    [ "npc_tapoke_slim_jahn", "db/d20/a13680.html#a61e36b57f8ba78c371d454efb1512579", null ],
+    [ "GetAI", "db/d20/a13680.html#a397629742eace1b96dfd9d4a2e55cc32", null ]
 ];

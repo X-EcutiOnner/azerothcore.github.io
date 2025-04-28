@@ -1,6 +1,7 @@
 var a17316 =
 [
-    [ "PrepareAuraScript", "db/dba/a17316.html#abbcd0a9a63908a875bcdbc66fb5e1218", null ],
-    [ "RecalculateHook", "db/dba/a17316.html#a829e96cabbb565922f7183adb3edf13c", null ],
-    [ "Register", "db/dba/a17316.html#a7ded7cbe8c5cbffd6798bbb66d8a5d1a", null ]
+    [ "achievement_once_bitten_twice_shy", "db/dba/a17316.html#ac5799e847f8ee1e2b562e4a58a00df16", null ],
+    [ "OnCheck", "db/dba/a17316.html#aa2e3ac3e8a14b06446174e475ac18af3", null ],
+    [ "_spawnMode", "db/dba/a17316.html#a6f02f5ab07143ddff553279049714902", null ],
+    [ "_wasVampire", "db/dba/a17316.html#a297cf6da45b0cddb4dc9fc888919bdda", null ]
 ];

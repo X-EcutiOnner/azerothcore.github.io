@@ -1,7 +1,7 @@
 var a24048 =
 [
-    [ "o", "d8/d70/a24048.html#a3785e9b55ea3a7140086ce1f86232109", null ],
-    [ "x", "d8/d70/a24048.html#ac81cc1119b7ac8ac70ee635f2e3d4bb7", null ],
-    [ "y", "d8/d70/a24048.html#a10fbad67977d8dd3911eb629c1797684", null ],
-    [ "z", "d8/d70/a24048.html#a69fc2438e52f6c0de3af13900ff38166", null ]
+    [ "CheckRequirement", "d8/d70/a24048.html#a4ad521364c6156c0ecef818a23ce7aff", null ],
+    [ "PrepareSpellScript", "d8/d70/a24048.html#a0d995c6ae6d1da0014c053a62b37a7b7", null ],
+    [ "Register", "d8/d70/a24048.html#a25f275e84570f674071bfae03aeb0ddc", null ],
+    [ "Validate", "d8/d70/a24048.html#adc648151e2c61a61a0dc5883d9fa4ae0", null ]
 ];

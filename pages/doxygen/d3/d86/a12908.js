@@ -1,11 +1,15 @@
 var a12908 =
 [
-    [ "npc_a_special_surpriseAI", "d3/d86/a12908.html#acf062337317d98e491e40cf6ae9bb3ea", null ],
-    [ "MeetQuestCondition", "d3/d86/a12908.html#a35f4db17e0301ceaaab49727d1ca8289", null ],
-    [ "MoveInLineOfSight", "d3/d86/a12908.html#af0b183b951f1eba8114da1f7a1284d09", null ],
-    [ "Reset", "d3/d86/a12908.html#a9526f6b257eade275b828d2b30328533", null ],
-    [ "UpdateAI", "d3/d86/a12908.html#a8572ec4b4fdcaab93666f581edf1c852", null ],
-    [ "ExecuteSpeech_Counter", "d3/d86/a12908.html#ae1ff67fb743b4125b015c1ecce4bc9db", null ],
-    [ "ExecuteSpeech_Timer", "d3/d86/a12908.html#a8761840d6abdc0b195b5860b95f59b1c", null ],
-    [ "PlayerGUID", "d3/d86/a12908.html#a683cdbd0ef9d0562842aace5b440594f", null ]
+    [ "npc_koltira_deathweaverAI", "d3/d86/a12908.html#adbc46fce90170aec986faacf012bd2b2", null ],
+    [ "AttackStart", "d3/d86/a12908.html#aa219afbaedb108e7384479de3bbb4135", null ],
+    [ "EnterEvadeMode", "d3/d86/a12908.html#aaf9e9df5a7124b4fe6b9348d5c8931fa", null ],
+    [ "JustSummoned", "d3/d86/a12908.html#ae93b1dd675d2f2b8aca93e9ccff42a2e", null ],
+    [ "Reset", "d3/d86/a12908.html#ac07053d3798d57449c23bfff68e12f1b", null ],
+    [ "SummonAcolyte", "d3/d86/a12908.html#ac74e57e84fa6d1166fe950a46492cc2b", null ],
+    [ "UpdateAI", "d3/d86/a12908.html#a87e87ebfaaf7a633f799d2a0f9df18ba", null ],
+    [ "WaypointReached", "d3/d86/a12908.html#a5714e781a73cf2774aa21a083cd8301a", null ],
+    [ "m_uiValrothGUID", "d3/d86/a12908.html#acee9c0c42cc8a692526ef73b19292ceb", null ],
+    [ "m_uiWave", "d3/d86/a12908.html#a35ec3a0a78240966a0e06753873e5956", null ],
+    [ "m_uiWave_Timer", "d3/d86/a12908.html#a8e94cd2de591f06e395f2d116e3e533b", null ],
+    [ "summons", "d3/d86/a12908.html#a38fc03a63df38b02eab07f3bffd969da", null ]
 ];

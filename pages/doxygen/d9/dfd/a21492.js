@@ -1,9 +1,7 @@
 var a21492 =
 [
-    [ "npc_counselor_talbotAI", "d9/dfd/a21492.html#acf1865ab4225128b8edbc619f7d8fa93", null ],
-    [ "JustDied", "d9/dfd/a21492.html#a4dbb0c9b91be5fa182bcc5c63ac9307b", null ],
-    [ "JustEngagedWith", "d9/dfd/a21492.html#acacec95c5e74c4b71cf2345bbae2eacb", null ],
-    [ "Reset", "d9/dfd/a21492.html#a03bfaedb136c3e107a4df8e4a1646ae2", null ],
-    [ "UpdateAI", "d9/dfd/a21492.html#a7b5c739d7c85d5205a04f3c6adf367ef", null ],
-    [ "_events", "d9/dfd/a21492.html#a094ce9839bb51b73e6b5826c24cda3b6", null ]
+    [ "npc_valiance_keep_cannoneerAI", "d9/dfd/a21492.html#a0769e975c5c7ff1cfbfa6089e3e55e3f", null ],
+    [ "Reset", "d9/dfd/a21492.html#a65718076e65b68cae0a54ff4112fdb4b", null ],
+    [ "UpdateAI", "d9/dfd/a21492.html#a75f16f2b028ca341db6e08536be06bfa", null ],
+    [ "uiTimer", "d9/dfd/a21492.html#a0cf5f0413b1cded835252a38e272f835", null ]
 ];

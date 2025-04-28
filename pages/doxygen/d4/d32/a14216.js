@@ -1,7 +1,6 @@
 var a14216 =
 [
-    [ "HandleEffectApply", "d4/d32/a14216.html#a22f3143b10155635194abe22994a397c", null ],
-    [ "HandleEffectRemove", "d4/d32/a14216.html#a2ecc50fa3c14918b6eace63eac75eb96", null ],
-    [ "PrepareAuraScript", "d4/d32/a14216.html#abb4f53a42e701323b2fc66598ec3503c", null ],
-    [ "Register", "d4/d32/a14216.html#ad1ff6d29459d9a38fcdef3f6c7007f6b", null ]
+    [ "npc_grizzlemaw_cw_triggerAI", "d5/def/a14220.html", "d5/def/a14220" ],
+    [ "npc_grizzlemaw_cw_trigger", "d4/d32/a14216.html#a4514796784d974ba6de09b5a5d4e5f3b", null ],
+    [ "GetAI", "d4/d32/a14216.html#a1a834bda866033a3cca4fc4ece447313", null ]
 ];

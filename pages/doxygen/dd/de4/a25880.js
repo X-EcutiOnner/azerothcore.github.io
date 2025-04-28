@@ -1,7 +1,6 @@
 var a25880 =
 [
-    [ "AfterRemove", "dd/de4/a25880.html#a9dc5ef5c5545fc382e221ca9473ac3bd", null ],
-    [ "PrepareAuraScript", "dd/de4/a25880.html#a0fd3e297a66df888f6e30f93b9f60947", null ],
-    [ "Register", "dd/de4/a25880.html#a2b1872fa0342e0f530b61fc7a5bf876b", null ],
-    [ "Validate", "dd/de4/a25880.html#ae08f33e0271166afa87208faa30684c4", null ]
+    [ "CheckProc", "dd/de4/a25880.html#aa8a8c89cf55ab6796a81671d0312a481", null ],
+    [ "PrepareAuraScript", "dd/de4/a25880.html#a9c88f86a4edafda286725008ecfeab6c", null ],
+    [ "Register", "dd/de4/a25880.html#ad75f33c72dff282e4a8976c92e0b4e76", null ]
 ];

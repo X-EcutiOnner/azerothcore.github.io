@@ -1,5 +1,9 @@
 var a08492 =
 [
-    [ "PlayerClassInfo", "d8/dc4/a08492.html#a6a0a6db24e144593356e0505946e8f06", null ],
-    [ "levelInfo", "d8/dc4/a08492.html#aa234b353361ef0017ec974ca4c8e86f1", null ]
+    [ "ActionButton", "d8/dc4/a08492.html#a78f4e95d921fb997647f89c67c2a66b7", null ],
+    [ "GetAction", "d8/dc4/a08492.html#a7c10f6089fab30179cfe8175b740477a", null ],
+    [ "GetType", "d8/dc4/a08492.html#abe5bc143770d411cff0d8c8c425b1253", null ],
+    [ "SetActionAndType", "d8/dc4/a08492.html#a29d804ed78d79f64e868e9741b37d7be", null ],
+    [ "packedData", "d8/dc4/a08492.html#a2a34a116c4890a12255f9ebe24c1cba8", null ],
+    [ "uState", "d8/dc4/a08492.html#a6384e73650da93c96d3b4cc42b151b63", null ]
 ];

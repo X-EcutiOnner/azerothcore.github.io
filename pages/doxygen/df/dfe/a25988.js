@@ -1,10 +1,8 @@
 var a25988 =
 [
-    [ "spell_pal_judgement", "df/dfe/a25988.html#a497aed8c1d8c6a2af22e9e8daae96e14", null ],
-    [ "HandleScriptEffect", "df/dfe/a25988.html#add419a824dbebdc168d2b6dc49d07913", null ],
-    [ "PrepareSpellScript", "df/dfe/a25988.html#a2cffed69c16a1a6189048ed52af35152", null ],
-    [ "Register", "df/dfe/a25988.html#ad8e65beb41a1bb41a2dd307f3b1da839", null ],
-    [ "SealApplication", "df/dfe/a25988.html#a0bb55f122d560c70f416e448d03d2184", null ],
-    [ "Validate", "df/dfe/a25988.html#a3971c195a279338253771675131b4802", null ],
-    [ "_spellId", "df/dfe/a25988.html#ad49ea02800078c672747f4fdbbab1d20", null ]
+    [ "CalculateAmount", "df/dfe/a25988.html#a8751483423726ffa8a33c70b7e55db23", null ],
+    [ "CheckProc", "df/dfe/a25988.html#a046cd1087342cdcbd2e6b0f8ded7c03a", null ],
+    [ "HandleProc", "df/dfe/a25988.html#abda070e7dfbb4ddc8d18cb3d180edc2e", null ],
+    [ "PrepareAuraScript", "df/dfe/a25988.html#a6bb54cea419145875c4086a69e1e55e8", null ],
+    [ "Register", "df/dfe/a25988.html#a8e92638bbdd786ef77b17f00dcf0f643", null ]
 ];

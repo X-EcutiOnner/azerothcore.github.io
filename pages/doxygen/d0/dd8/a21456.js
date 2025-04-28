@@ -1,6 +1,9 @@
 var a21456 =
 [
-    [ "npc_bloodmage_laurithAI", "dc/d09/a21460.html", "dc/d09/a21460" ],
-    [ "npc_bloodmage_laurith", "d0/dd8/a21456.html#a40ab80342ddc86afca3b1bd37b1ca6b5", null ],
-    [ "GetAI", "d0/dd8/a21456.html#a5a5151a56de3ad1012d9a795dbfb5bd5", null ]
+    [ "npc_captured_beryl_sorcererAI", "d0/dd8/a21456.html#a3c3f47022aee418f228803a2504470a3", null ],
+    [ "Initialize", "d0/dd8/a21456.html#a98b2ff2f0e152a41106eaace5273aa69", null ],
+    [ "MoveInLineOfSight", "d0/dd8/a21456.html#a4f7edf7bc7480bf0c9f6aec113b2e058", null ],
+    [ "Reset", "d0/dd8/a21456.html#ac96af1fd018e88950d1c58562dffdb83", null ],
+    [ "UpdateAI", "d0/dd8/a21456.html#a1bbefa59abce0c7b3d7b343ddc467c98", null ],
+    [ "_events", "d0/dd8/a21456.html#a0ba1f7ffa792c93ccd4df8ec2c80fb42", null ]
 ];

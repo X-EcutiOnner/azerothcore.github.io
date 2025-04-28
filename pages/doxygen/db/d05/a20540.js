@@ -1,6 +1,6 @@
 var a20540 =
 [
-    [ "OnPeriodic", "db/d05/a20540.html#a5247db3b621d1d499b9e22e16c7a951a", null ],
-    [ "PrepareAuraScript", "db/d05/a20540.html#a6aa46e818199da206e6543005a7fe87f", null ],
-    [ "Register", "db/d05/a20540.html#ab64dfdda3c09e65cfaeb90d20a5212ed", null ]
+    [ "boss_thorim_pillarAI", "d9/df8/a20544.html", "d9/df8/a20544" ],
+    [ "boss_thorim_pillar", "db/d05/a20540.html#a7a2cbafc1d359d7b33bb735342cdfe2d", null ],
+    [ "GetAI", "db/d05/a20540.html#af95d5e819292af9b54a022674b74af70", null ]
 ];

@@ -1,7 +1,6 @@
 var a08980 =
 [
-    [ "QuestPOIPoint", "d9/ddb/a08980.html#a99aaafe1fdae391c6fba20e0c623ff99", null ],
-    [ "QuestPOIPoint", "d9/ddb/a08980.html#a2e80e5a83ab336a8b019f38297862efa", null ],
-    [ "x", "d9/ddb/a08980.html#a5e9592283b28cd6ff0610ec0438b2a2d", null ],
-    [ "y", "d9/ddb/a08980.html#a45211fd0fbeeb5d9fced2b2c31502851", null ]
+    [ "EmoteDelay", "d9/ddb/a08980.html#a053adbedc95026b192360e13d32c9401", null ],
+    [ "EmoteType", "d9/ddb/a08980.html#aa5189cb250b3f46086ecd69dee23414b", null ],
+    [ "Greeting", "d9/ddb/a08980.html#a84aa5fced9b8989487d1468c4eccb976", null ]
 ];

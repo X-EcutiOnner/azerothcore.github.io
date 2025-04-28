@@ -1,6 +1,6 @@
 var a11928 =
 [
-    [ "instance_blackrock_depths_InstanceMapScript", "da/d1e/a11932.html", "da/d1e/a11932" ],
-    [ "instance_blackrock_depths", "da/d6d/a11928.html#a8d906bdb520b2c7907b94b0e22b5cdf4", null ],
-    [ "GetInstanceScript", "da/d6d/a11928.html#af8f8c9929cae50c098efc5a0dbdd727a", null ]
+    [ "boss_okthorAI", "da/d1e/a11932.html", "da/d1e/a11932" ],
+    [ "boss_okthor", "da/d6d/a11928.html#a9e75c1da85a6db6692dfabfbb3ee3e87", null ],
+    [ "GetAI", "da/d6d/a11928.html#a15d13a6c879ae260c0676fd4a4aff645", null ]
 ];

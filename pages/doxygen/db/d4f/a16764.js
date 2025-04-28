@@ -1,10 +1,6 @@
 var a16764 =
 [
-    [ "npc_hor_spiritual_reflectionAI", "db/d4f/a16764.html#aac0a916bfa325284b354e7241fe857ab", null ],
-    [ "EnterEvadeMode", "db/d4f/a16764.html#a49f1c93206bfff53090c138a3dbf79e5", null ],
-    [ "JustDied", "db/d4f/a16764.html#a72073c44f881d4a78552de4119a716d7", null ],
-    [ "JustEngagedWith", "db/d4f/a16764.html#ac35e648b93bb39ca831390bf88f6a3e7", null ],
-    [ "Reset", "db/d4f/a16764.html#ad1f523fad45c34077e6d6ce7b9a4aefd", null ],
-    [ "UpdateAI", "db/d4f/a16764.html#af9613e9309b85317bc6e3a84013dcf89", null ],
-    [ "events", "db/d4f/a16764.html#a89a466917aa5634c4c86ecbce21280b7", null ]
+    [ "npc_phantom_mageAI", "d7/d7c/a16768.html", "d7/d7c/a16768" ],
+    [ "npc_phantom_mage", "db/d4f/a16764.html#ad57414231c40917bf55d6155fa9c05db", null ],
+    [ "GetAI", "db/d4f/a16764.html#ae2134b8be3052da659390bde7c2aac2e", null ]
 ];

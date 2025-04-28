@@ -1,7 +1,7 @@
 var a15524 =
 [
-    [ "npc_paoka_swiftmountainAI", "d0/de7/a15524.html#a92a229f76de3bc46ae14910439db0004", null ],
-    [ "DoSpawnWyvern", "d0/de7/a15524.html#a7997a3d398db82c205e3a8af77ac1684", null ],
-    [ "Reset", "d0/de7/a15524.html#acae0427957aba04a54e6001823bc7eb4", null ],
-    [ "WaypointReached", "d0/de7/a15524.html#a262781c90fe1b5a5af2c6f94e4cc52e2", null ]
+    [ "npc_toogaAI", "df/d70/a15528.html", "df/d70/a15528" ],
+    [ "npc_tooga", "d0/de7/a15524.html#a6ea6a9e4dea1ab98475dae13680ceeaf", null ],
+    [ "GetAI", "d0/de7/a15524.html#a7847577589f3bdc1c3ea5ee0f1f9232f", null ],
+    [ "OnQuestAccept", "d0/de7/a15524.html#ac0fdcb3959c239d614b1cc7c66623c5d", null ]
 ];

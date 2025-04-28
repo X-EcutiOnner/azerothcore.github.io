@@ -1,6 +1,6 @@
 var a15456 =
 [
-    [ "npc_custodian_of_timeAI", "de/d39/a15460.html", "de/d39/a15460" ],
-    [ "npc_custodian_of_time", "dc/dfc/a15456.html#a6018b30119ce819853a3c662b3d5347e", null ],
-    [ "GetAI", "dc/dfc/a15456.html#a57217b2dab1cab110f1c59526ca13c86", null ]
+    [ "npc_qiraj_war_spawnAI", "de/d39/a15460.html", "de/d39/a15460" ],
+    [ "npc_qiraj_war_spawn", "dc/dfc/a15456.html#a2afba33e9fd879ac3fea206768b14334", null ],
+    [ "GetAI", "dc/dfc/a15456.html#a32339f20251c188b895c02b6cc9217e9", null ]
 ];

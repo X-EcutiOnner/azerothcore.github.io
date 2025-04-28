@@ -1,9 +1,9 @@
 var a01964 =
 [
-    [ "FactorySelector::PermissibleOrderPred< T >", "d1/dc5/a06153.html", "d1/dc5/a06153" ],
-    [ "GetPermitFor", "d6/d90/a01964.html#aaf9c138ae6c123d03859db553a39892d", null ],
-    [ "SelectAI", "d6/d90/a01964.html#a10fef1ff3335f4642179ee423b1ff0d6", null ],
-    [ "SelectFactory", "d6/d90/a01964.html#ad553c2186f078e696768d40d217738f8", null ],
-    [ "SelectGameObjectAI", "d6/d90/a01964.html#a2ce404e9b85f551638d8783c01a19860", null ],
-    [ "SelectMovementGenerator", "d6/d90/a01964.html#a203d17bf72c42c0d3fdb77626b01b679", null ]
+    [ "instance_magtheridons_lair", "dd/d39/a23528.html", "dd/d39/a23528" ],
+    [ "instance_magtheridons_lair::instance_magtheridons_lair_InstanceMapScript", "d7/d65/a23532.html", "d7/d65/a23532" ],
+    [ "AddSC_instance_magtheridons_lair", "d6/d90/a01964.html#a77e256ce8ca932c8d162a30715dc7c6f", null ],
+    [ "boundaries", "d6/d90/a01964.html#aa75d7d0ffe0cef214f982966c33db1c1", null ],
+    [ "doorData", "d6/d90/a01964.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
+    [ "minionData", "d6/d90/a01964.html#a6720238df140a3c574a711042b7f5bd3", null ]
 ];

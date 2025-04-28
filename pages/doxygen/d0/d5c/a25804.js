@@ -1,7 +1,6 @@
 var a25804 =
 [
-    [ "OnApply", "d0/d5c/a25804.html#aa86d7b45f028773b8666c06d3a0e60b4", null ],
-    [ "OnRemove", "d0/d5c/a25804.html#a0fdd3c926bb1b2846579102e64e8e18c", null ],
-    [ "PrepareAuraScript", "d0/d5c/a25804.html#aa93b45e31c33caf3ea51a26846566b34", null ],
-    [ "Register", "d0/d5c/a25804.html#a56d819c88a4e70a89cef5183e3c5b728", null ]
+    [ "CalculateDamage", "d0/d5c/a25804.html#a05c6a249b32f41d8d33b40d07bd3c44d", null ],
+    [ "PrepareSpellScript", "d0/d5c/a25804.html#ace682a64f3ca32e4f4151034ad936ea6", null ],
+    [ "Register", "d0/d5c/a25804.html#a6dc3beb1f857c2c2a719bd882cc3568d", null ]
 ];

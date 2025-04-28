@@ -1,6 +1,5 @@
 var a21944 =
 [
-    [ "HandleDummy", "d9/dcf/a21944.html#a05a38c1b8e3b674f3c6e79c59c7caddd", null ],
-    [ "PrepareSpellScript", "d9/dcf/a21944.html#a0bfebaf099ef573b51bec0a511ceeb39", null ],
-    [ "Register", "d9/dcf/a21944.html#a9c71b084ce6b86ccaeb9a94d1f8de2b1", null ]
+    [ "npc_black_knight_graveyardAI", "d9/dcf/a21944.html#a908ccf6763240ba0c0ebdf2dec6e1b36", null ],
+    [ "MoveInLineOfSight", "d9/dcf/a21944.html#aa5c80b5759656e3865d6721161f9f005", null ]
 ];

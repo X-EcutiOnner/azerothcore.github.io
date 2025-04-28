@@ -1,17 +1,13 @@
 var a22400 =
 [
-    [ "OutdoorPvPSI", "d9/da7/a22400.html#a89bf2d913b7d68ee921ef4b9aeea61e1", null ],
-    [ "FillInitialWorldStates", "d9/da7/a22400.html#a7392eed60ec3307bdea4ed35cd859077", null ],
-    [ "HandleAreaTrigger", "d9/da7/a22400.html#a7c6d70d7a611752456c55d13420ff840", null ],
-    [ "HandleCustomSpell", "d9/da7/a22400.html#a10853a2f5766b6fc75044a20b281a198", null ],
-    [ "HandleDropFlag", "d9/da7/a22400.html#a9238a5007253d84d66192bd340d8311a", null ],
-    [ "HandlePlayerEnterZone", "d9/da7/a22400.html#ad2cabd461406a61e40411850b3d31c0c", null ],
-    [ "HandlePlayerLeaveZone", "d9/da7/a22400.html#aa06088b1d80072577e6fc7653a214512", null ],
-    [ "SendRemoveWorldStates", "d9/da7/a22400.html#aae7deda0662b28f6fc0e16115a65304b", null ],
-    [ "SetupOutdoorPvP", "d9/da7/a22400.html#a401da5bef2350c4eb21b249b4f8b3e40", null ],
-    [ "Update", "d9/da7/a22400.html#a56bda08a795a4b0cd1c52ec448920fac", null ],
-    [ "UpdateWorldState", "d9/da7/a22400.html#a81f4362ece83f37f14471926e9a85fb3", null ],
-    [ "m_Gathered_A", "d9/da7/a22400.html#ab532337ab7e66e1489221e3189e48bac", null ],
-    [ "m_Gathered_H", "d9/da7/a22400.html#abcd36fe918edbbea387573bd5fab89e7", null ],
-    [ "m_LastController", "d9/da7/a22400.html#a05c33cec2d0c1a9fe31cb3d9ba3f3c1c", null ]
+    [ "OPvPCapturePointEP_NPT", "d9/da7/a22400.html#a2cb0929c3acb81530a0bd7ea57bcc298", null ],
+    [ "ChangeState", "d9/da7/a22400.html#a9e046ace6129ce67568ed7c15130b617", null ],
+    [ "FillInitialWorldStates", "d9/da7/a22400.html#add8f3c1b1a1e5600a05a639520b0a1dc", null ],
+    [ "HandlePlayerEnter", "d9/da7/a22400.html#ace643b7f7bc793934972c61c618045eb", null ],
+    [ "HandlePlayerLeave", "d9/da7/a22400.html#a950cd355c808f40ca95c0e5a46bac0a2", null ],
+    [ "SendChangePhase", "d9/da7/a22400.html#aef84a9917d5f40cfff48acb45ffdf0aa", null ],
+    [ "SummonGO", "d9/da7/a22400.html#a08a54abf3668074b5878c165bd2f8ddd", null ],
+    [ "UpdateTowerState", "d9/da7/a22400.html#ad8cfefcc567346273914e8039b039835", null ],
+    [ "m_SummonedGOSideId", "d9/da7/a22400.html#aa034240d169c9ab7276786bb188abc70", null ],
+    [ "m_TowerState", "d9/da7/a22400.html#a703b68024362d13ceaf9012202b72e7d", null ]
 ];

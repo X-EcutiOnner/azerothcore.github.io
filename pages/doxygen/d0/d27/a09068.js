@@ -1,7 +1,5 @@
 var a09068 =
 [
-    [ "flags", "d0/d27/a09068.html#a2faab5766bd3cbc09ed4e541be7e7f94", null ],
-    [ "fourcc", "d0/d27/a09068.html#a93b48dd741d13ff036eac8a77df9f916", null ],
-    [ "gridHeight", "d0/d27/a09068.html#a3fbdc02ff4769b6f2eacbdc02ba4d370", null ],
-    [ "gridMaxHeight", "d0/d27/a09068.html#a1146dfae7dc4f89dddc94cda5deb7a4c", null ]
+    [ "asChar", "d0/d27/a09068.html#a3c1546425a9287498d23753f51e27de2", null ],
+    [ "asUInt", "d0/d27/a09068.html#a87b4e38a5c10dba382bd0761b70c2234", null ]
 ];

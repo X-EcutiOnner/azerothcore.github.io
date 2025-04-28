@@ -1,6 +1,6 @@
 var a28428 =
 [
-    [ "OffsetAttributes", "de/ded/a28428.html#a072918c298b316823e784c2e5779be2a", null ],
-    [ "OffsetInstances", "de/ded/a28428.html#abb618c81b9ee9de03c3d4cf8689f5cd4", null ],
-    [ "used", "de/ded/a28428.html#a20a458e613639ea26255dd772824a642", null ]
+    [ "SetUp", "de/ded/a28428.html#a5ee46555116eca62d3e8320dd5a5fbbb", null ],
+    [ "_distributor", "de/ded/a28428.html#a6c043c7543dec59e640b379aec1ad0d0", null ],
+    [ "_mockRewarder", "de/ded/a28428.html#ad466c2751d8e9739db56f9f82d15deff", null ]
 ];

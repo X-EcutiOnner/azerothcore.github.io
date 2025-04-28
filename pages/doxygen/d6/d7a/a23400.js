@@ -1,12 +1,11 @@
 var a23400 =
 [
-    [ "boss_nazan", "d6/d7a/a23400.html#a4390d3e181c4db46e364df3302612763", null ],
-    [ "AttackStart", "d6/d7a/a23400.html#a7acea69f908e7a004c2a78c103528975", null ],
-    [ "DoAction", "d6/d7a/a23400.html#abdb49e50dabda61c5d16b420ae69ae77", null ],
-    [ "EnterEvadeMode", "d6/d7a/a23400.html#ab6338a7d240014e548b22044b788ce8f", null ],
-    [ "JustEngagedWith", "d6/d7a/a23400.html#a4d44b759530f32207a46a608fb7d6209", null ],
-    [ "MovementInform", "d6/d7a/a23400.html#ad35866322ff55263b1f8b105d2cad952", null ],
-    [ "Reset", "d6/d7a/a23400.html#a5c10e932075130399a9127869f45ce1d", null ],
-    [ "UpdateAI", "d6/d7a/a23400.html#a17942f19444ad324058d7b8c8a9aa9de", null ],
-    [ "_scheduler", "d6/d7a/a23400.html#a8915d84ec4ffb8dade18041d5e910018", null ]
+    [ "boss_high_king_maulgar", "d6/d7a/a23400.html#a8a835570bd4ff5361b2025b2aaeec91f", null ],
+    [ "DoAction", "d6/d7a/a23400.html#a210e9c3d42e9201b9fbee0d7776cbcc5", null ],
+    [ "JustDied", "d6/d7a/a23400.html#ad235febd755745313b72394c633c3723", null ],
+    [ "JustEngagedWith", "d6/d7a/a23400.html#a6ad48aba60a01df62c1ae62e6480a14d", null ],
+    [ "KilledUnit", "d6/d7a/a23400.html#a2059016597039929103c053d6524ebf7", null ],
+    [ "Reset", "d6/d7a/a23400.html#adf1bf1c8c75fc9bbed871af157c6663c", null ],
+    [ "UpdateAI", "d6/d7a/a23400.html#ae540909dbbb3cf93e37503cd755c3001", null ],
+    [ "_recentlySpoken", "d6/d7a/a23400.html#a306f8492d83703b339a8fbe044e0cbbd", null ]
 ];

@@ -1,8 +1,10 @@
 var a11656 =
 [
-    [ "pet_commandscript", "df/d16/a11656.html#a84595dcb908398e80deee0b0aa47e335", null ],
-    [ "GetCommands", "df/d16/a11656.html#a01026a4936774d2225d10e0f6e27b08c", null ],
-    [ "HandlePetCreateCommand", "df/d16/a11656.html#a993d06169aa0b0c4bbda38e124b6eea9", null ],
-    [ "HandlePetLearnCommand", "df/d16/a11656.html#a59a2a6bd9af23fe3a775319216337bda", null ],
-    [ "HandlePetUnlearnCommand", "df/d16/a11656.html#ae6d785cdde773b107ba5e619b039f7b8", null ]
+    [ "mmaps_commandscript", "df/d16/a11656.html#a1dbdfd26bdb685315a3012453080a56f", null ],
+    [ "GetCommands", "df/d16/a11656.html#aec91072f9e651c9136bf1a405a9bb95a", null ],
+    [ "HandleMmapLoadedTilesCommand", "df/d16/a11656.html#a40d5b7e733298210c686fe89490b6f61", null ],
+    [ "HandleMmapLocCommand", "df/d16/a11656.html#aa3dc699456256d8b2ab9fdd97891bd96", null ],
+    [ "HandleMmapPathCommand", "df/d16/a11656.html#a2c876439ad6d9ff7523f140d97743dea", null ],
+    [ "HandleMmapStatsCommand", "df/d16/a11656.html#a823b56cdbb0c97176990bb01af9af9fc", null ],
+    [ "HandleMmapTestArea", "df/d16/a11656.html#aaae2e5548a6bd9c670db0721ea7508bd", null ]
 ];

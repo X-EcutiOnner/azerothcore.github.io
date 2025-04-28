@@ -1,5 +1,6 @@
 var a26856 =
 [
-    [ "achievement_bg_ic_mowed_down", "db/dc5/a26856.html#ab05387d1e14958e87123bd0fc2188445", null ],
-    [ "OnCheck", "db/dc5/a26856.html#a385e09c605084900f374090e5e19c24f", null ]
+    [ "HandleHeal", "db/dc5/a26856.html#a03afbdbdc8555fc2d558a5e48f7340a0", null ],
+    [ "PrepareSpellScript", "db/dc5/a26856.html#a61a601108cd59e5d87634c02b002e20d", null ],
+    [ "Register", "db/dc5/a26856.html#ae46c965fc77aa61aaa3c426c8ecc585c", null ]
 ];

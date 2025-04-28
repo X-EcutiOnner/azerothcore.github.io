@@ -1,6 +1,7 @@
 var a28244 =
 [
-    [ "categoryMask", "db/d43/a28244.html#abd8816e5dda7bda455ccd6932647c4be", null ],
-    [ "categoryType", "db/d43/a28244.html#a954f9fca8d0d84d5aec66f4a3f642f96", null ],
-    [ "ID", "db/d43/a28244.html#a2e0f0cb7a05da77dee49bd7221c01d60", null ]
+    [ "ID", "db/d43/a28244.html#aa5db020808990dc98fc143e4a5e0d2b2", null ],
+    [ "RadiusMax", "db/d43/a28244.html#ab82c1acb9309b17104958182d80b01d1", null ],
+    [ "RadiusMin", "db/d43/a28244.html#acaee7da373b94a262e01d4bd3bea4f08", null ],
+    [ "RadiusPerLevel", "db/d43/a28244.html#a74bb59afb808af45ceff6367468fca1e", null ]
 ];

@@ -1,7 +1,6 @@
 var a23828 =
 [
-    [ "npc_daranelleAI", "d2/d36/a23828.html#a49eeff6e0aea079a0375a92074227d12", null ],
-    [ "JustEngagedWith", "d2/d36/a23828.html#aeff39dfd84986186057cdaf7632eed4f", null ],
-    [ "MoveInLineOfSight", "d2/d36/a23828.html#a353e27c1485b88f0751a64260898d35b", null ],
-    [ "Reset", "d2/d36/a23828.html#a33b2fbec775257e3ba0bebe37fb86349", null ]
+    [ "HandleAfterRemove", "d2/d36/a23828.html#ac9756a8f206c114ff6443331ca266184", null ],
+    [ "PrepareAuraScript", "d2/d36/a23828.html#a2f67291e6e4291c9d01cdbcbe04a7db7", null ],
+    [ "Register", "d2/d36/a23828.html#ac36d76ad8a5ecb2e437dcb8f1248386d", null ]
 ];

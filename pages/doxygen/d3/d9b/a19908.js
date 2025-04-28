@@ -1,6 +1,8 @@
 var a19908 =
 [
-    [ "boss_freya_elder_ironbranchAI", "d0/d2a/a19912.html", "d0/d2a/a19912" ],
-    [ "boss_freya_elder_ironbranch", "d3/d9b/a19908.html#a066083e4d6fde6439f7dce80be209075", null ],
-    [ "GetAI", "d3/d9b/a19908.html#a67f483d12fe801c1d840dd0f74396564", null ]
+    [ "HandleOnEffectApply", "d3/d9b/a19908.html#a83ff54727e886161c5568a60833932d1", null ],
+    [ "HandleOnEffectRemove", "d3/d9b/a19908.html#a9e48d1c9dc26f882ee685a2cbf59667e", null ],
+    [ "PrepareAuraScript", "d3/d9b/a19908.html#a5ec8ffeceae335423dff10f54e096e8a", null ],
+    [ "Register", "d3/d9b/a19908.html#ae07af138c6f9c565799574b4f8343492", null ],
+    [ "Validate", "d3/d9b/a19908.html#a3a24a25c9b9b118d20ca2b14fbfc5869", null ]
 ];

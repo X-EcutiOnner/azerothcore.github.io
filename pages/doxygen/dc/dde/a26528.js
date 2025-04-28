@@ -1,6 +1,8 @@
 var a26528 =
 [
-    [ "FilterTargets", "dc/dde/a26528.html#af7035627c3d6dd3fd8381ee258391a0b", null ],
-    [ "PrepareSpellScript", "dc/dde/a26528.html#a3211fda7263bc513d14a8f2fd1507ef8", null ],
-    [ "Register", "dc/dde/a26528.html#abe63ec69fe15fd8924fb63235489e088", null ]
+    [ "HandleRootRemove", "dc/dde/a26528.html#a9678ce2254825b67eb7a16312e960ba9", null ],
+    [ "HandleSnareRemove", "dc/dde/a26528.html#a6a0716f500b3926e66c62a038a1e03d3", null ],
+    [ "PrepareSpellScript", "dc/dde/a26528.html#ab9dc5e2516e269b968cb995040bc00a0", null ],
+    [ "Register", "dc/dde/a26528.html#a119675dccea898932ca090577022b6ba", null ],
+    [ "Validate", "dc/dde/a26528.html#a1a90cf531ba1131952161ff9d10b2cb7", null ]
 ];

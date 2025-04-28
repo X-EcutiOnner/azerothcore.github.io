@@ -1,6 +1,5 @@
 var a00791 =
 [
-    [ "instance_vault_of_archavon", "d6/d25/a21140.html", "d6/d25/a21140" ],
-    [ "instance_vault_of_archavon::instance_vault_of_archavon_InstanceMapScript", "da/d9c/a21144.html", "da/d9c/a21144" ],
-    [ "AddSC_instance_vault_of_archavon", "d4/d45/a00791.html#af85fa677904908fe364917364696be77", null ]
+    [ "achievement_commandscript", "db/d70/a11532.html", "db/d70/a11532" ],
+    [ "AddSC_achievement_commandscript", "d4/d45/a00791.html#afeb482a8cffe8416071764bc4e78bff2", null ]
 ];

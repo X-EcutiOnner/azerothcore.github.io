@@ -1,21 +1,13 @@
 var a28624 =
 [
-    [ "WMORoot", "d0/d48/a28624.html#ac9b3d7cb0502bf612a9b780926364c2b", null ],
-    [ "ConvertToVMAPRootWmo", "d0/d48/a28624.html#a9e2bea32209471be360f964e7c6702ad", null ],
-    [ "open", "d0/d48/a28624.html#a3c10106f8ded86f5e889c99c93dc385a", null ],
-    [ "bbcorn1", "d0/d48/a28624.html#a119493cf0243952021d07d9328de68df", null ],
-    [ "bbcorn2", "d0/d48/a28624.html#a518adad011f480154a786503224aff0f", null ],
-    [ "color", "d0/d48/a28624.html#ab9f1ca906365d919dc8c03b04d3f7759", null ],
-    [ "DoodadData", "d0/d48/a28624.html#a193043738049583257b8c26494c97573", null ],
-    [ "filename", "d0/d48/a28624.html#a8ef5c36dfab76a6baf633a0f6dbe5449", null ],
-    [ "flags", "d0/d48/a28624.html#ac3e95eb0b51ef25289b2cdf617ac2585", null ],
-    [ "nDoodadDefs", "d0/d48/a28624.html#a1881c8d0ba9d435627a4cdeb3ec8bf77", null ],
-    [ "nDoodadNames", "d0/d48/a28624.html#ab51a28cda7db10964cfac9b13022dcd6", null ],
-    [ "nDoodadSets", "d0/d48/a28624.html#a17b88fd5067eb7d30e345726ad7d1f26", null ],
-    [ "nGroups", "d0/d48/a28624.html#a73a8d2c858db5e144f163ece74a9d295", null ],
-    [ "nLights", "d0/d48/a28624.html#a2442113c758362dd5b8da9ceb8d355ae", null ],
-    [ "nPortals", "d0/d48/a28624.html#a25b1d2531c61ae7cf883642f5c5f2ee7", null ],
-    [ "nTextures", "d0/d48/a28624.html#ac0b9bc8f8087878b2b51be8261f9928c", null ],
-    [ "RootWMOID", "d0/d48/a28624.html#aeb47cb44dc9b564782fb7b0ef5cc314c", null ],
-    [ "ValidDoodadNames", "d0/d48/a28624.html#a787748c52305b52fb65776df51b4c017", null ]
+    [ "liquidTris", "d0/d48/a28624.html#ad166656bfa449d3093cb23e7bef2cc76", null ],
+    [ "liquidType", "d0/d48/a28624.html#afbbb20fcb4e597c2addcc47893a33f92", null ],
+    [ "liquidVerts", "d0/d48/a28624.html#a52796933ab018f27d12f625673f7f8a9", null ],
+    [ "offMeshConnectionDirs", "d0/d48/a28624.html#a58350c36d5b88fe255880f6c217d4ef9", null ],
+    [ "offMeshConnectionRads", "d0/d48/a28624.html#a56bbdeb5028302de0c5eb5a02cffa44c", null ],
+    [ "offMeshConnections", "d0/d48/a28624.html#a706feac90bb398da61296bac9d0b7176", null ],
+    [ "offMeshConnectionsAreas", "d0/d48/a28624.html#af5af113433bb2776e6735195e57ab6f7", null ],
+    [ "offMeshConnectionsFlags", "d0/d48/a28624.html#a8c819b625f1bb0b21bb756144b2e1266", null ],
+    [ "solidTris", "d0/d48/a28624.html#adb04d376bfa182cf9666689e6c5a7c68", null ],
+    [ "solidVerts", "d0/d48/a28624.html#a915387c2cfa7111de4a957646a2aace4", null ]
 ];

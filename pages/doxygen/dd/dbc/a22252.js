@@ -1,5 +1,5 @@
 var a22252 =
 [
-    [ "achievement_wg_didnt_stand_a_chance", "dd/dbc/a22252.html#afb397c74f00d1f5c59a24ef74b0cd1cd", null ],
-    [ "OnCheck", "dd/dbc/a22252.html#ae575bae454689e05c161e8480a13fa18", null ]
+    [ "npc_wg_spirit_guideAI", "dd/dbc/a22252.html#a576d15b6acedb07bfe1555bdd0ee8f12", null ],
+    [ "UpdateAI", "dd/dbc/a22252.html#a32b28e8fe74db742d170bd754d11f4d7", null ]
 ];

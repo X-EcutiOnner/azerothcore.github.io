@@ -1,16 +1,18 @@
 var a28200 =
 [
-    [ "amount", "d5/dad/a28200.html#a3086819447f7ae23bf5697a45cbc6f93", null ],
-    [ "aura_id", "d5/dad/a28200.html#a5866d4e8ce373b6eb9af1d27e2db2c1b", null ],
-    [ "charges", "d5/dad/a28200.html#ade74be0906ef080347ac81ed48379cd1", null ],
-    [ "description", "d5/dad/a28200.html#a7dc66c82551a59750d6294f3503a3dbc", null ],
-    [ "EnchantmentCondition", "d5/dad/a28200.html#a2416afe9ae8371b9d284dd3c176c98d1", null ],
-    [ "GemID", "d5/dad/a28200.html#a324fd42b7184f5c626c33323a4d72b07", null ],
-    [ "ID", "d5/dad/a28200.html#af46fa8808024e75705b812b695bd1590", null ],
-    [ "requiredLevel", "d5/dad/a28200.html#a53bf562ea4dfccb14bfb627c831b477e", null ],
-    [ "requiredSkill", "d5/dad/a28200.html#a6ca7dac0e1f497b3c96887a6c09097bc", null ],
-    [ "requiredSkillValue", "d5/dad/a28200.html#a7a57764dad60c9369826638c1355127e", null ],
-    [ "slot", "d5/dad/a28200.html#af64b13ce2e81d5be7e73763cd5c5e4b8", null ],
-    [ "spellid", "d5/dad/a28200.html#a694edc79cf8ba571338bff2a3aad512d", null ],
-    [ "type", "d5/dad/a28200.html#adb693b7ada8d1a65c1d8091d1055c7bf", null ]
+    [ "getArmorMod", "d5/dad/a28200.html#a0e56e757faf660cabe0ba4316ee17f12", null ],
+    [ "getDPSMod", "d5/dad/a28200.html#aa0718862ebfeea92ad299e04c9c622c8", null ],
+    [ "getFeralBonus", "d5/dad/a28200.html#aa54c3d1add4a1b982c05138f876fd138", null ],
+    [ "getSpellBonus", "d5/dad/a28200.html#aba240e0c9f81ca7d5f17d3631410a7b3", null ],
+    [ "getssdMultiplier", "d5/dad/a28200.html#ab0fbc14e59c3a387b21d3f4a825d3b36", null ],
+    [ "IsTwoHand", "d5/dad/a28200.html#ac83356dba956bfb0aa0a0fb0d976b60e", null ],
+    [ "armorMod", "d5/dad/a28200.html#a742f8447dca5961fb39e50de8233fa86", null ],
+    [ "armorMod2", "d5/dad/a28200.html#a36dba32ea7febb8dab627fa992de878b", null ],
+    [ "dpsMod", "d5/dad/a28200.html#ace956cab0056bcf0e116ac0884ad3575", null ],
+    [ "Id", "d5/dad/a28200.html#aebc75b8f80cb210b6af081077bd88e85", null ],
+    [ "Level", "d5/dad/a28200.html#a5758f5152401efde26edf3110c0d11e2", null ],
+    [ "spellPower", "d5/dad/a28200.html#a03804cca02fd1146dffb762bcd1274f8", null ],
+    [ "ssdMultiplier", "d5/dad/a28200.html#a7559b9045268d8050372153c8c976946", null ],
+    [ "ssdMultiplier2", "d5/dad/a28200.html#a57cdfb5465ced673edeb8c35bd7a3535", null ],
+    [ "ssdMultiplier3", "d5/dad/a28200.html#ae78f00d5ed42704a4093b5df939498d7", null ]
 ];

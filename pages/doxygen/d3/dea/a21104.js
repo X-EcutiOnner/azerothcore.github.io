@@ -1,12 +1,13 @@
 var a21104 =
 [
-    [ "boss_koralonAI", "d3/dea/a21104.html#a3f5bc42a141011e543d1215eac09dc74", null ],
-    [ "AttackStart", "d3/dea/a21104.html#aa84e6e9a302172e134163cd07ca57864", null ],
-    [ "JustDied", "d3/dea/a21104.html#a102c10792d9e7df61d920b5a43f58e51", null ],
-    [ "JustEngagedWith", "d3/dea/a21104.html#aa7503618dd09e0aebac44394595f4715", null ],
-    [ "Reset", "d3/dea/a21104.html#a0e57ee42e45e55b1a69ac7cb0f1d2666", null ],
-    [ "UpdateAI", "d3/dea/a21104.html#aa944aad2eb68adc917cba743d1e530c7", null ],
-    [ "events", "d3/dea/a21104.html#abc8b9a8759b0e3e95d66c16615f621f5", null ],
-    [ "pInstance", "d3/dea/a21104.html#a4bdea1a9d7e46d4ef71cd43ce969e59c", null ],
-    [ "rotateTimer", "d3/dea/a21104.html#ad4b766094f28e940b0b7971d6dadc277", null ]
+    [ "MoveX", "d3/dea/a21104.html#aaae6e8ea168850a934b887ec006d7d8b", null ],
+    [ "MoveY", "d3/dea/a21104.html#a62cd7f778cea049a1a6a4c34d21545a7", null ],
+    [ "MoveZ", "d3/dea/a21104.html#a80b842f55108fec58fe04cf02e8e0b35", null ],
+    [ "npc", "d3/dea/a21104.html#a4bdccc14156f7e5822c9a8eefc29adaa", null ],
+    [ "say", "d3/dea/a21104.html#adcd8647fc0ee9799e24173780209f2d9", null ],
+    [ "SpawnO", "d3/dea/a21104.html#a3b6b89143c8a875cda01b000cea6a7c7", null ],
+    [ "SpawnX", "d3/dea/a21104.html#af3ae27adaecafe9a09802bc202973d68", null ],
+    [ "SpawnY", "d3/dea/a21104.html#a749e9c6edcc87f258f250344d652145c", null ],
+    [ "SpawnZ", "d3/dea/a21104.html#a06a0f8e5a7d63204d57992dc9623f83b", null ],
+    [ "trigger", "d3/dea/a21104.html#ad2291d89a874c79859b3140754594ed7", null ]
 ];

@@ -1,12 +1,8 @@
 var a22960 =
 [
-    [ "boss_fathomlord_karathress", "df/d0c/a22960.html#a05c483ea61011926c260b43f6c01cac3", null ],
-    [ "DoAction", "df/d0c/a22960.html#adc5685244341e353c6dac67b0191d877", null ],
-    [ "JustDied", "df/d0c/a22960.html#a4c356359be50b626a28fab4a803386f8", null ],
-    [ "JustEngagedWith", "df/d0c/a22960.html#ae221d994f2ebb0a298288233727ea1ba", null ],
-    [ "JustReachedHome", "df/d0c/a22960.html#a1e03da049ad75a464de5dd15ac5e6d88", null ],
-    [ "JustSummoned", "df/d0c/a22960.html#a3a692ef94d555e991a7cd34dee9812d9", null ],
-    [ "KilledUnit", "df/d0c/a22960.html#a02812a3cc7de22348058dedd107bb6d0", null ],
-    [ "Reset", "df/d0c/a22960.html#a52f76cb43a32c5f59cbc7476f0df8646", null ],
-    [ "_recentlySpoken", "df/d0c/a22960.html#a81f52ead90284ca3598cd64eb9fb88ee", null ]
+    [ "CalcPeriodic", "df/d0c/a22960.html#aad87c25b9b3255a4871bec39d9787299", null ],
+    [ "PrepareAuraScript", "df/d0c/a22960.html#a7494c41e41ffc55811c57208f80c7eb6", null ],
+    [ "Register", "df/d0c/a22960.html#acce25abc58a29dfe5a5287a8b00242ae", null ],
+    [ "Update", "df/d0c/a22960.html#a4e2a5a2d666419ccbb0ca71670332b8c", null ],
+    [ "Validate", "df/d0c/a22960.html#ae4f7bfb1cd95666acada217173876352", null ]
 ];

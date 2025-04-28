@@ -1,10 +1,14 @@
 var a14844 =
 [
-    [ "boss_moam", "d0/d9c/a14844.html#a9a7a9f410efc5a05e46fd05f331e96c9", null ],
-    [ "InitializeAI", "d0/d9c/a14844.html#a2c8bde24fb3811e29c91a57258a243e5", null ],
-    [ "JustDied", "d0/d9c/a14844.html#a06b843bddd8f2759fa733c5169e0a5e6", null ],
-    [ "JustEngagedWith", "d0/d9c/a14844.html#ad33ba2f2cf9c83f37856aa6f2212637b", null ],
-    [ "Reset", "d0/d9c/a14844.html#a4112940fbe1f8be8e7adee7dbc48a9ae", null ],
-    [ "SummonedCreatureDies", "d0/d9c/a14844.html#a8401c5e2bd216deee197617b78d85222", null ],
-    [ "UpdateAI", "d0/d9c/a14844.html#aadd8320c6194923b113967d3d6c49a5e", null ]
+    [ "boss_ayamiss", "d0/d9c/a14844.html#a0e923d4fa8bd6623ec58d7f64b5ea261", null ],
+    [ "DoAction", "d0/d9c/a14844.html#a0114a79274c34fe3dfbc8a34f39920bc", null ],
+    [ "EnterEvadeMode", "d0/d9c/a14844.html#a52f584da6d3d1b87fe91528dc25b8c5e", null ],
+    [ "JustDied", "d0/d9c/a14844.html#acddcbb06b7d5980e199ef11103fabf7c", null ],
+    [ "JustEngagedWith", "d0/d9c/a14844.html#aaaf1b765256f4a6342d16bd7767f92cf", null ],
+    [ "JustSummoned", "d0/d9c/a14844.html#a4281f761256cd93c19aea0a76239512d", null ],
+    [ "MovementInform", "d0/d9c/a14844.html#a6bc1f0767785efb5a5fb005b49338032", null ],
+    [ "Reset", "d0/d9c/a14844.html#a10111f97236c2846181aa20f7d9b64fd", null ],
+    [ "ScheduleTasks", "d0/d9c/a14844.html#a166238b9395a426a7333cf71a38c6c5c", null ],
+    [ "_swarmers", "d0/d9c/a14844.html#aa6dd99f8085d1424acf07cc124ac210c", null ],
+    [ "homePos", "d0/d9c/a14844.html#ab098ee0f8872d1cf9d34993c01971921", null ]
 ];

@@ -1,9 +1,9 @@
 var a24652 =
 [
-    [ "FilterTargets", "da/d97/a24652.html#ae7a54b8e27f91091b479293cc62ee1f4", null ],
-    [ "PrepareSpellScript", "da/d97/a24652.html#a215b412cfeae9f2763b1c5d3b8a4ca31", null ],
-    [ "Register", "da/d97/a24652.html#ae790485f5b27fe34a0a26c3d6fc7ed41", null ],
-    [ "SetTargets", "da/d97/a24652.html#ac77e95af9b08118e87e3329eab5515ea", null ],
-    [ "Validate", "da/d97/a24652.html#a8e4b1ff1577f25334b50e25bffc021cc", null ],
-    [ "_targets", "da/d97/a24652.html#acc66768f54c514552f0ab01274c24f17", null ]
+    [ "Absorb", "da/d97/a24652.html#a5d4b54569b16175ae84d3c94a1a6fcff", null ],
+    [ "CalculateAmount", "da/d97/a24652.html#a3800ed0d14eacf39a3930c1b5e139f85", null ],
+    [ "Load", "da/d97/a24652.html#a79e3012cb5c78851809d9f4c4d6c4487", null ],
+    [ "PrepareAuraScript", "da/d97/a24652.html#a1bdab939c229c466ce6b71a7e00dedf9", null ],
+    [ "Register", "da/d97/a24652.html#a47bd5ef93255a2d926874d6d70861374", null ],
+    [ "absorbPct", "da/d97/a24652.html#a0c067ba7bbfd5cde53f1323b5c2f47cb", null ]
 ];

@@ -1,6 +1,7 @@
 var a23056 =
 [
-    [ "HandleScriptEffect", "d8/def/a23056.html#a9e42f1af6fabb7df066cc2488a831418", null ],
-    [ "PrepareSpellScript", "d8/def/a23056.html#a866496b087288a3cb8f00d4dbdb5d2ec", null ],
-    [ "Register", "d8/def/a23056.html#a0fdb5d866d714d1d3bc71c4439a7f593", null ]
+    [ "HandleEffectApply", "d8/def/a23056.html#acc7aeb8a002db3a846cbac29053af441", null ],
+    [ "HandleEffectRemove", "d8/def/a23056.html#a11de5d496bc1265ceb01c2bb91da4a57", null ],
+    [ "PrepareAuraScript", "d8/def/a23056.html#a7203f8808f6afc5bdaf49a26ae8b0c20", null ],
+    [ "Register", "d8/def/a23056.html#a7b62d651a57e2dc9d8e461f7a5c9d500", null ]
 ];

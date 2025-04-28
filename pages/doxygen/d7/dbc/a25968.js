@@ -1,7 +1,6 @@
 var a25968 =
 [
-    [ "HandleScriptEffect", "d7/dbc/a25968.html#a6c1ac025fa93caa08737387a18003612", null ],
-    [ "PrepareSpellScript", "d7/dbc/a25968.html#acb5ad05212399b06ed9bb64bb9203069", null ],
-    [ "Register", "d7/dbc/a25968.html#afbf989d514c308f466ecfd9957d2d177", null ],
-    [ "Validate", "d7/dbc/a25968.html#a2f48b1903edef1a5bb8beeddc8879aa4", null ]
+    [ "CheckProc", "d7/dbc/a25968.html#a5b8ee53249a19954e4d46b17422207d5", null ],
+    [ "PrepareAuraScript", "d7/dbc/a25968.html#a2640f58f3e7442c37615b61ecf938a6f", null ],
+    [ "Register", "d7/dbc/a25968.html#a55be2362ac226caa615e07a2a3b5ea38", null ]
 ];

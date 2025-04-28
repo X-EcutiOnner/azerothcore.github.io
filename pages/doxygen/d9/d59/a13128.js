@@ -1,6 +1,5 @@
 var a13128 =
 [
-    [ "HandleActivateObject", "d9/d59/a13128.html#aedcb4513b7c53b9a9e972b9051da0e0f", null ],
-    [ "PrepareSpellScript", "d9/d59/a13128.html#afc844250ea7ba48330edfda305fa856c", null ],
-    [ "Register", "d9/d59/a13128.html#a6d77f6848397724e61c1db7a80de7139", null ]
+    [ "at_malfurion_stormrage", "d9/d59/a13128.html#ac5da3d1a7c2ccaffee68cfaee04fb63c", null ],
+    [ "OnTrigger", "d9/d59/a13128.html#a0aa7818bd09b8a456d1ebbaa7d5f5c1d", null ]
 ];

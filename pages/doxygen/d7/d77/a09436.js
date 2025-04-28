@@ -1,7 +1,9 @@
 var a09436 =
 [
-    [ "PowerCheck", "d7/d77/a09436.html#abb2fc6c6e83e1097a6bb40512fb50dfc", null ],
-    [ "operator()", "d7/d77/a09436.html#a16ad8e68d94742bc78b6f20734f58e99", null ],
-    [ "_equals", "d7/d77/a09436.html#ae7758da7775ff778bc5cd96e9a15649b", null ],
-    [ "_power", "d7/d77/a09436.html#a922a57b62b4289835b539a69b0f58fa1", null ]
+    [ "UnitAuraCheck", "d7/d77/a09436.html#acbc0c969db8b768720ab3b8235c28352", null ],
+    [ "operator()", "d7/d77/a09436.html#abc385cad226ac51c09a908864d360fd3", null ],
+    [ "operator()", "d7/d77/a09436.html#a1c85e9d5d517a852cf4c92063e6f3ed1", null ],
+    [ "_casterGUID", "d7/d77/a09436.html#ab2bdf4c05792dd83e4e9542fc3083cc3", null ],
+    [ "_present", "d7/d77/a09436.html#af553a0c4db5b11ec69ae7fbe9ce5ff78", null ],
+    [ "_spellId", "d7/d77/a09436.html#a0dd71c851f803fb70a4543c77b672889", null ]
 ];

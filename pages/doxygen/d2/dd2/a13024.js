@@ -1,5 +1,7 @@
 var a13024 =
 [
-    [ "npc_apothecary_frye", "d2/dd2/a13024.html#a5546099958a9a267d237e65720588456", null ],
-    [ "JustDied", "d2/dd2/a13024.html#ab1dc310e90c591b44ce4d5bcf1bac930", null ]
+    [ "OnApply", "d2/dd2/a13024.html#a278a1eb6d5f856a620f5a33de294b0ec", null ],
+    [ "OnRemove", "d2/dd2/a13024.html#a8300f726a41882e3d3f54adc0e5bfb29", null ],
+    [ "PrepareAuraScript", "d2/dd2/a13024.html#a46ba800f3a3512951b83e428bc5373b9", null ],
+    [ "Register", "d2/dd2/a13024.html#a4a59d431c7d7607e614c4ec035e3acf7", null ]
 ];

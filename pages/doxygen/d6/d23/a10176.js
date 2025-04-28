@@ -1,6 +1,8 @@
 var a10176 =
 [
-    [ "AreaTriggerScript", "d6/d23/a10176.html#a478e4dee0f4211af9be6ea448d4e6c89", null ],
-    [ "IsDatabaseBound", "d6/d23/a10176.html#ac5234a2cd020cd8f90b6d19c28ad46ae", null ],
-    [ "OnTrigger", "d6/d23/a10176.html#abb6cdada718e9fad7da98fbb667c6d53", null ]
+    [ "AllCommandScript", "d6/d23/a10176.html#a7ff235b904eecdd4d02d2025c4078980", null ],
+    [ "IsDatabaseBound", "d6/d23/a10176.html#a89430678d5c88c562f1b0ac2b294fea4", null ],
+    [ "OnBeforeIsInvokerVisible", "d6/d23/a10176.html#a6f85dc271c1b61244978aa4474e708b0", null ],
+    [ "OnHandleDevCommand", "d6/d23/a10176.html#aba983f0e052ece230617573f04a35c92", null ],
+    [ "OnTryExecuteCommand", "d6/d23/a10176.html#a3a116836453073e77bbd8ab974f36f47", null ]
 ];

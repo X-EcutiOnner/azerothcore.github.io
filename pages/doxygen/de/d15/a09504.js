@@ -1,15 +1,12 @@
 var a09504 =
 [
-    [ "LogHolder", "de/d15/a09504.html#a3432ee2f32857bd02e75fdb5ba922bd1", null ],
-    [ "AddEvent", "de/d15/a09504.html#a5f6d81d9048290815053bb4aa3531d73", null ],
-    [ "CanInsert", "de/d15/a09504.html#aefdb4e57b5bf35b00564491547e6e2a9", null ],
-    [ "GetGuildId", "de/d15/a09504.html#ada98449548b389a1cd8177087e3aa5e8", null ],
-    [ "GetGuildLog", "de/d15/a09504.html#a17593c12663e8c4251f94636e511c73a", null ],
-    [ "GetGuildLog", "de/d15/a09504.html#ae43929001324d6bece4e45bc95115535", null ],
-    [ "GetNextGUID", "de/d15/a09504.html#aed00250b6a1036a91dd971af510f7750", null ],
-    [ "LoadEvent", "de/d15/a09504.html#a22e87750252d1c4f62f2e5686a2e008d", null ],
-    [ "m_guildId", "de/d15/a09504.html#a3827f9fb3fc13300f60d9f7dd27154c7", null ],
-    [ "m_log", "de/d15/a09504.html#aca25adbc1c1e9397c837a53793568b64", null ],
-    [ "m_maxRecords", "de/d15/a09504.html#a755788eaede72a131f74ae7de88c37b4", null ],
-    [ "m_nextGUID", "de/d15/a09504.html#a267cecce9b2f244235800c93a086e8e2", null ]
+    [ "LogEntry", "de/d15/a09504.html#af61604a7dc0cc4da315a09fa5b207f37", null ],
+    [ "LogEntry", "de/d15/a09504.html#aba3f6f501c59e356166abe71082c421b", null ],
+    [ "~LogEntry", "de/d15/a09504.html#a3c66b8a7be1800c5a9e1dc15aab6d3e9", null ],
+    [ "GetGUID", "de/d15/a09504.html#a7af4eac577f8da07540f81e185b2ad49", null ],
+    [ "GetTimestamp", "de/d15/a09504.html#a643c92439463707671bb08b72bf3a447", null ],
+    [ "SaveToDB", "de/d15/a09504.html#a1c00aa88973423a1c112c2776a14e78f", null ],
+    [ "m_guid", "de/d15/a09504.html#a75754f42f8a202a9a319c86515a3f0dd", null ],
+    [ "m_guildId", "de/d15/a09504.html#a89e0192732a43dc44aff3730bc5ad445", null ],
+    [ "m_timestamp", "de/d15/a09504.html#ad19e7364e1beba61c9b7a4383b6d42c6", null ]
 ];

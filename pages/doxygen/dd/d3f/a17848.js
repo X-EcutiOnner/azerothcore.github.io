@@ -1,6 +1,5 @@
 var a17848 =
 [
-    [ "CheckTarget", "dd/d3f/a17848.html#afce64ba75f8370cab6b8f1e561b10587", null ],
-    [ "PrepareSpellScript", "dd/d3f/a17848.html#a6b6eaf3e761f2c173c2e72f46b25595a", null ],
-    [ "Register", "dd/d3f/a17848.html#a6964ca668f02a8b5b1c3015503a41eef", null ]
+    [ "RotfaceHeightCheck", "dd/d3f/a17848.html#aabdeaee465989c339fc7a3f186e20498", null ],
+    [ "operator()", "dd/d3f/a17848.html#a585743e0e76c64a5caa37acab46d04d5", null ]
 ];

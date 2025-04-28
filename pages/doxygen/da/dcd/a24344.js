@@ -1,7 +1,9 @@
 var a24344 =
 [
-    [ "HandleEffectApply", "da/dcd/a24344.html#a9923e38a2b5999d932d85be17a50ac83", null ],
-    [ "HandleEffectRemove", "da/dcd/a24344.html#a4c1f611b4fd0cf33f654d59e783db32a", null ],
-    [ "PrepareAuraScript", "da/dcd/a24344.html#a105df22901477c34757e62a0305006d4", null ],
-    [ "Register", "da/dcd/a24344.html#a16f2daff28dc07f2cac8d53f4813909f", null ]
+    [ "npc_pet_gen_toxic_wasteling", "da/dcd/a24344.html#a550a1a9324f605b1a9fd715571f819b7", null ],
+    [ "EnterEvadeMode", "da/dcd/a24344.html#abe25deca7fd1c319085995657d62f22a", null ],
+    [ "MovementInform", "da/dcd/a24344.html#aec73d567c3bd178ffee3bdece83a409e", null ],
+    [ "Reset", "da/dcd/a24344.html#a06a8be653c8685aaf28aee1d1d3ae114", null ],
+    [ "UpdateAI", "da/dcd/a24344.html#a22f96d995fcc722c0e95c4f5692cc128", null ],
+    [ "checkTimer", "da/dcd/a24344.html#aafe402e0443bd39a1b7aa274d95edad6", null ]
 ];

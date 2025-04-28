@@ -1,6 +1,6 @@
 var a21848 =
 [
-    [ "npc_attracted_reef_bullAI", "d5/df6/a21848.html#aa8917a912fb31a5987332e53e8d268e7", null ],
-    [ "MovementInform", "d5/df6/a21848.html#a79d9539243f178a2989f017c5f9ebc8c", null ],
-    [ "SpellHit", "d5/df6/a21848.html#ab06ee7ef84d881262ae682b69fae3135", null ]
+    [ "CheckRequirement", "d5/df6/a21848.html#ad58d71b5c2bc10d9ffbfe472bd5b1a32", null ],
+    [ "PrepareSpellScript", "d5/df6/a21848.html#ae621e95feb69b54f9aef5d77577a15ae", null ],
+    [ "Register", "d5/df6/a21848.html#ab0b03fd2d1a0ed6720acc45221a582f6", null ]
 ];

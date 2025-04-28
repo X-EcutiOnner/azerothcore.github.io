@@ -1,6 +1,9 @@
 var a20376 =
 [
-    [ "boss_razorscaleAI", "dd/dd6/a20380.html", "dd/dd6/a20380" ],
-    [ "boss_razorscale", "d0/dbd/a20376.html#ad8fe81f1b553414df3fa07c646029065", null ],
-    [ "GetAI", "d0/dbd/a20376.html#a01cf25d901a5eddae9ef3ea291020ba1", null ]
+    [ "HandleEffectPeriodic", "d0/dbd/a20376.html#ae3cb0f7a3da5a72eaa59350d7df13ffc", null ],
+    [ "Load", "d0/dbd/a20376.html#a60deabce505dd3993dca0e71402dc190", null ],
+    [ "PrepareAuraScript", "d0/dbd/a20376.html#a9a2fae625718f854ec5d2587a01a2da7", null ],
+    [ "Register", "d0/dbd/a20376.html#a524c071390365b7dab59bc7a79b50f15", null ],
+    [ "_lastMSTime", "d0/dbd/a20376.html#a013e9e0eef93583722f7d347c2ebbc49", null ],
+    [ "_lastOrientation", "d0/dbd/a20376.html#a2537b325ff57b867092f3d9a1bd0fa8b", null ]
 ];

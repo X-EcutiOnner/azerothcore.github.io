@@ -1,9 +1,6 @@
 var a10708 =
 [
-    [ "LevelUpInfo", "d0/d91/a10708.html#ae856bb717d6ae4b03775b7bfb026850d", null ],
-    [ "Write", "d0/d91/a10708.html#af09dd1c6470516ea9422d22ed22e6d10", null ],
-    [ "HealthDelta", "d0/d91/a10708.html#ab654fc42947c0c783d3a26e6df32b29d", null ],
-    [ "Level", "d0/d91/a10708.html#a1765f693918fdd1f51d7b8dc7b2494a2", null ],
-    [ "PowerDelta", "d0/d91/a10708.html#a697da64ac234c24fe73e68d408697ee6", null ],
-    [ "StatDelta", "d0/d91/a10708.html#a580e4a3cd77631e960b7753542375d6d", null ]
+    [ "GuildSetGuildMaster", "d0/d91/a10708.html#ae6ca07252de719cc506042c8d3e8285e", null ],
+    [ "Read", "d0/d91/a10708.html#a94f16e55a840c7cba991a119af5d8263", null ],
+    [ "NewMasterName", "d0/d91/a10708.html#a02f37610492c75373266bb93000adcbf", null ]
 ];

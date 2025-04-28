@@ -1,6 +1,6 @@
 var a18688 =
 [
-    [ "npc_icc_nerubar_broodkeeperAI", "d1/d7a/a18692.html", "d1/d7a/a18692" ],
-    [ "npc_icc_nerubar_broodkeeper", "d3/d43/a18688.html#adf9c3bfb444fed50420c2e780b373f34", null ],
-    [ "GetAI", "d3/d43/a18688.html#ad12186da36f7bbf99275a746bc874bfc", null ]
+    [ "npc_icc_skybreaker_vicarAI", "d1/d7a/a18692.html", "d1/d7a/a18692" ],
+    [ "npc_icc_skybreaker_vicar", "d3/d43/a18688.html#a40451cc6fba0cae59e47fa38e4fb79d3", null ],
+    [ "GetAI", "d3/d43/a18688.html#a6884bb7e54b78abee0cc995c4fbb501d", null ]
 ];

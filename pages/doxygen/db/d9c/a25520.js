@@ -1,8 +1,6 @@
 var a25520 =
 [
-    [ "HandleProc", "db/d9c/a25520.html#ad92c7804b26bd29d135e55c8adad9093", null ],
-    [ "OnRemove", "db/d9c/a25520.html#afa8e065ed835243f3ebb95c10792adf8", null ],
-    [ "PrepareAuraScript", "db/d9c/a25520.html#a5e986f77b23fd0402089ea36f0360c79", null ],
-    [ "Register", "db/d9c/a25520.html#a29d66b9790e3f7dfffb5dc398f26f9fb", null ],
-    [ "Validate", "db/d9c/a25520.html#a51f81afec6ff0918530208d9de9dae24", null ]
+    [ "PrepareSpellScript", "db/d9c/a25520.html#a3a77016a3a8314969ce41cc6483761ec", null ],
+    [ "Register", "db/d9c/a25520.html#ae1fa8b9e4a11c884d10b1f4cc0afd09e", null ],
+    [ "SetDest", "db/d9c/a25520.html#a724217c09faa57ec2e6dad034e8709ed", null ]
 ];

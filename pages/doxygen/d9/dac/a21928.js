@@ -1,7 +1,6 @@
 var a21928 =
 [
-    [ "GetSeatNumber", "d9/dac/a21928.html#a8e18a10196667fd3dfba58d16fa281b9", null ],
-    [ "HandleDummy", "d9/dac/a21928.html#ac5945381452559e1d5655f5345bdeff3", null ],
-    [ "PrepareSpellScript", "d9/dac/a21928.html#aad375c0d3d1f0352cbda6a23cfb61272", null ],
-    [ "Register", "d9/dac/a21928.html#aad1cb82fdcd170f5a43f5007ebaadf2e", null ]
+    [ "npc_plaguehound_trackerAI", "da/d4a/a21932.html", "da/d4a/a21932" ],
+    [ "npc_plaguehound_tracker", "d9/dac/a21928.html#a5c2803907cf06bc3e641bbb8171681d3", null ],
+    [ "GetAI", "d9/dac/a21928.html#a1ec8f190139b35837a0ce6c4c2f08709", null ]
 ];

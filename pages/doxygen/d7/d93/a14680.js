@@ -1,9 +1,6 @@
 var a14680 =
 [
-    [ "boss_temporus", "d7/d93/a14680.html#ab9f1495b18fe2c0ee33e9c238483ce0d", null ],
-    [ "JustDied", "d7/d93/a14680.html#a9186e51d240aff2ffaab99e3b423ded9", null ],
-    [ "JustEngagedWith", "d7/d93/a14680.html#abe7f18497c1c8b31693980e98b1d1859", null ],
-    [ "KilledUnit", "d7/d93/a14680.html#a89c2a229b56b3a7dcb9e5a495ac6dbd7", null ],
-    [ "MoveInLineOfSight", "d7/d93/a14680.html#a18a0279036324498a9daf8c7d0296ffc", null ],
-    [ "OwnTalk", "d7/d93/a14680.html#a99356589a048debbc308b8431259da5c", null ]
+    [ "instance_culling_of_stratholme_InstanceMapScript", "d1/d59/a14684.html", "d1/d59/a14684" ],
+    [ "instance_culling_of_stratholme", "d7/d93/a14680.html#a0b07e751032e15e7fcf2f86bf29a39be", null ],
+    [ "GetInstanceScript", "d7/d93/a14680.html#ad8cbcb198666d44d79d6255d066c8315", null ]
 ];

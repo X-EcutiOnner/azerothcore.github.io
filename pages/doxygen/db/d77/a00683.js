@@ -1,4 +1,5 @@
 var a00683 =
 [
-    [ "EscortMovementGenerator< T >", "d9/da0/a09913.html", "d9/da0/a09913" ]
+    [ "modify_commandscript", "d8/d1f/a11660.html", "d8/d1f/a11660" ],
+    [ "AddSC_modify_commandscript", "db/d77/a00683.html#a9cbb6ad3c630cbeb9ba39b4552f72e87", null ]
 ];

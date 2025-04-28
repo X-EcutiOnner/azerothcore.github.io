@@ -1,4 +1,5 @@
 var a06168 =
 [
-    [ "operator()", "d3/df8/a06168.html#a0df1b4334b4be5fabe6bf0061b24e8f6", null ]
+    [ "Effects", "d3/df8/a06168.html#a7ae062fbfacc6d848f5570a3bae3230f", null ],
+    [ "Targets", "d3/df8/a06168.html#a390ced58f1c1981c05cc2aec32a4d579", null ]
 ];

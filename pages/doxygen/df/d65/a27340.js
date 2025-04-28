@@ -1,8 +1,8 @@
 var a27340 =
 [
-    [ "npc_franklinAI", "d6/d21/a27344.html", "d6/d21/a27344" ],
-    [ "npc_franklin", "df/d65/a27340.html#aab059dfa69e52083892e3170c8838e0a", null ],
-    [ "GetAI", "df/d65/a27340.html#a10933878afe9d0cc78fa1113341fd522", null ],
-    [ "OnGossipHello", "df/d65/a27340.html#a318d512914b135800caabe0efbb1c467", null ],
-    [ "OnGossipSelect", "df/d65/a27340.html#a8c37ff7ff15cc9ac49dadabd1650964d", null ]
+    [ "trigger_periodicAI", "df/d65/a27340.html#a696d62fed28de9c67827dad111cf320b", null ],
+    [ "UpdateAI", "df/d65/a27340.html#aed31d60765eff7dd11790714e28e729e", null ],
+    [ "interval", "df/d65/a27340.html#a6e9dd149ce11dcc1c2adf039c73e8023", null ],
+    [ "spell", "df/d65/a27340.html#a618b707155edf6d9179bbedc0f0ecf1e", null ],
+    [ "timer", "df/d65/a27340.html#ac434f6a60065ae3b1adcb11d58af4299", null ]
 ];

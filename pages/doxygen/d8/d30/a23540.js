@@ -1,16 +1,17 @@
 var a23540 =
 [
-    [ "npc_millhouse_manastormAI", "d8/d30/a23540.html#ac86df4d5887c4c1b719ce47f00b32995", null ],
-    [ "AttackStart", "d8/d30/a23540.html#a032cc1ad7a07ead4ced3afe99601d94f", null ],
-    [ "DamageTaken", "d8/d30/a23540.html#a30ed336d552596211b3bfc316d223968", null ],
-    [ "InitializeAI", "d8/d30/a23540.html#a7e8f7483b7cf4ba5d87386940e632339", null ],
-    [ "JustDied", "d8/d30/a23540.html#aaa22ed7812600c1670d12d6887d316d6", null ],
-    [ "JustEngagedWith", "d8/d30/a23540.html#a5e643192572f29f954a31b7b949f6525", null ],
-    [ "KilledUnit", "d8/d30/a23540.html#ac3ba302f496d03c171d1d3f4dbf175da", null ],
-    [ "Reset", "d8/d30/a23540.html#a74076048ea382816fa9c98a0d759af46", null ],
-    [ "UpdateAI", "d8/d30/a23540.html#a7dad659c4ba1db0460c23a3dc573eff2", null ],
-    [ "_usedIceblock", "d8/d30/a23540.html#af0ce341df018dafdce89f75fcb9f0063", null ],
-    [ "events", "d8/d30/a23540.html#aa9aadd461e32cf8a65b185d77f62d838", null ],
-    [ "events2", "d8/d30/a23540.html#ac762ce5981457cbcf6ec73236bab2486", null ],
-    [ "instance", "d8/d30/a23540.html#aff28c68ed9575440f5732df855ab4372", null ]
+    [ "boss_grand_warlock_nethekurse", "d8/d30/a23540.html#a4eefeb639cf5f0753feb6cfd99cda187", null ],
+    [ "DoAction", "d8/d30/a23540.html#a8288f8c28b61dac574254435534b5e3f", null ],
+    [ "IntroRP", "d8/d30/a23540.html#ae071f8cc7ef44e6c6cf205295debea5f", null ],
+    [ "JustDied", "d8/d30/a23540.html#a48a2ec7beeb5c9685fc627317acea949", null ],
+    [ "JustEngagedWith", "d8/d30/a23540.html#a117d2d737433ea89b37ea1ee58e6c237", null ],
+    [ "JustReachedHome", "d8/d30/a23540.html#afe62561de66fbe7fa92c365a51f01adc", null ],
+    [ "KilledUnit", "d8/d30/a23540.html#ac29fa30bfa8377a07cbfdd1f0964ebfb", null ],
+    [ "Reset", "d8/d30/a23540.html#aceef7aace38f5246ad67a1591b7f301c", null ],
+    [ "SetData", "d8/d30/a23540.html#a6c647262ce7df78c46af6b725cbcc250", null ],
+    [ "UpdateAI", "d8/d30/a23540.html#aca0bd4c71aafd2d1c54e2ca87d538e9a", null ],
+    [ "_canAggro", "d8/d30/a23540.html#a9c577798d5bc87654e6984af02d95c34", null ],
+    [ "_introStarted", "d8/d30/a23540.html#ac7d0737aa28c51cc63d93b8774e536f0", null ],
+    [ "PeonEngagedCount", "d8/d30/a23540.html#a886a0e792cf5ac6afa9670703cb568ff", null ],
+    [ "PeonKilledCount", "d8/d30/a23540.html#a8837d810df1d8b8a505d2d6c98ac8be8", null ]
 ];

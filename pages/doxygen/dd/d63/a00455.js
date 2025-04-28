@@ -1,10 +1,9 @@
 var a00455 =
 [
-    [ "VMAP::ModelSpawn", "d7/de8/a05037.html", "d7/de8/a05037" ],
-    [ "VMAP::ModelInstance", "dd/d13/a05041.html", "dd/d13/a05041" ],
-    [ "ModelFlags", "dd/d63/a00455.html#ac540ff16efadcc07eeb9d8511b94ccce", [
-      [ "MOD_M2", "dd/d63/a00455.html#ac540ff16efadcc07eeb9d8511b94ccceadfad2b6f6278e720b00314cd5117b673", null ],
-      [ "MOD_WORLDSPAWN", "dd/d63/a00455.html#ac540ff16efadcc07eeb9d8511b94cccea3a6165ebc7b838e28ef59670dc84dc46", null ],
-      [ "MOD_HAS_BOUND", "dd/d63/a00455.html#ac540ff16efadcc07eeb9d8511b94ccceaa47940cd802c5225d2babb37d24c7f09", null ]
-    ] ]
+    [ "localtime_r", "dd/d63/a00455.html#a17fdb8f2104b98bad5d9fb343d0a043a", null ],
+    [ "DAYS", "dd/d63/a00455.html#ac9bde42940b2570f3865385200b56af8", null ],
+    [ "HOURS", "dd/d63/a00455.html#a18161a3aeba136aeffb54a07f08f08f6", null ],
+    [ "MILLISECONDS", "dd/d63/a00455.html#a2624e61008f0e89d91c7c55161f9bcd8", null ],
+    [ "MINUTES", "dd/d63/a00455.html#abbd89694b6a3e24a701ce6971b2cd37d", null ],
+    [ "SECONDS", "dd/d63/a00455.html#a5fb1c8d14d370751c6202fc87b27bf96", null ]
 ];

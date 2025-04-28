@@ -1,6 +1,8 @@
 var a19336 =
 [
-    [ "boss_bjarngrimAI", "d2/d03/a19340.html", "d2/d03/a19340" ],
-    [ "boss_bjarngrim", "d3/d48/a19336.html#ab509688547d41ec1fd094fdc45291959", null ],
-    [ "GetAI", "d3/d48/a19336.html#aff6455d2a327bbf3426d10a07f7b0e44", null ]
+    [ "npc_centrifuge_constructAI", "d3/d48/a19336.html#a9219f4955ae82ca7f401ea1c63f66b09", null ],
+    [ "DamageTaken", "d3/d48/a19336.html#aa568418de267a99108698e79baa1b3f4", null ],
+    [ "JustEngagedWith", "d3/d48/a19336.html#ac6ecbb17624c2747253c68a50b93c40f", null ],
+    [ "Reset", "d3/d48/a19336.html#a2f7750cea2f59d794c85e20b703370af", null ],
+    [ "UpdateAI", "d3/d48/a19336.html#a28316416ad6c56d83c9e878511256445", null ]
 ];

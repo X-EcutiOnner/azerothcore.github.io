@@ -1,5 +1,6 @@
 var a07832 =
 [
-    [ "flags", "d1/d8c/a07832.html#ac55cea8114883b0000fb9fd195910f65", null ],
-    [ "params", "d1/d8c/a07832.html#a5426d7accbe5734016fed99e632ea313", null ]
+    [ "ConditionSourceInfo", "d1/d8c/a07832.html#adc6441ec52fab3ab8d2b58a146a3fef3", null ],
+    [ "mConditionTargets", "d1/d8c/a07832.html#acb67deba44021698a447e8288bca0bd4", null ],
+    [ "mLastFailedCondition", "d1/d8c/a07832.html#a099d3457a0a15d8feeacc0dc8c32d439", null ]
 ];

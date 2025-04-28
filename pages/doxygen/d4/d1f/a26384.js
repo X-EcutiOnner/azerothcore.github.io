@@ -1,6 +1,6 @@
 var a26384 =
 [
-    [ "PrepareAuraScript", "d4/d1f/a26384.html#a059fe9aa1ea5ea4d0fa797e70a146fc5", null ],
-    [ "Register", "d4/d1f/a26384.html#a91f4b2b8796c7efab2f622893a393619", null ],
-    [ "AuraEffectHandleModes", "d4/d1f/a26384.html#ab93d08a85de86b0efdec59006ebbdf97", null ]
+    [ "HandleEffectPeriodic", "d4/d1f/a26384.html#ab283b40ceb6dcd0a835550531321ce92", null ],
+    [ "PrepareAuraScript", "d4/d1f/a26384.html#a6d6efe0be7cefeb20c386c83dee561d4", null ],
+    [ "Register", "d4/d1f/a26384.html#a4c69f350a68c1f4dd429ab52a791f3cd", null ]
 ];

@@ -1,8 +1,10 @@
 var a11204 =
 [
-    [ "EffectHandler", "d4/d63/a11204.html#aebdff9758b3ec51a75220be43b0d7b44", null ],
-    [ "Call", "d4/d63/a11204.html#a7696d64688fa8b10cd58220fdd5fa5ba", null ],
-    [ "CheckEffect", "d4/d63/a11204.html#a8eeff14be65159b6f9a88b04abe14e8b", null ],
-    [ "ToString", "d4/d63/a11204.html#a5b583dc87f0146f06c9a38a5db92f4fb", null ],
-    [ "pEffectHandlerScript", "d4/d63/a11204.html#a88fbf00b2e35c462423ddeff55ac3dee", null ]
+    [ "EffectHook", "d4/d63/a11204.html#a4a197e061d918dfba2bc486f3393b00d", null ],
+    [ "~EffectHook", "d4/d63/a11204.html#aa234f63b530764d12064acbe3f5c9299", null ],
+    [ "CheckEffect", "d4/d63/a11204.html#ae8823c5d649d182f572818bf3db72902", null ],
+    [ "EffIndexToString", "d4/d63/a11204.html#ab818ed274cfd66ecc565b8535b751517", null ],
+    [ "GetAffectedEffectsMask", "d4/d63/a11204.html#a31faa86590e22f5ab3ca518f4df02840", null ],
+    [ "IsEffectAffected", "d4/d63/a11204.html#a697041ffa562bb6fff792beb159c7af2", null ],
+    [ "effIndex", "d4/d63/a11204.html#ab5eb48ef7ac903938f92db0e856e0295", null ]
 ];

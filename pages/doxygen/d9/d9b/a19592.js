@@ -1,9 +1,6 @@
 var a19592 =
 [
-    [ "CheckTargets", "d9/d9b/a19592.html#a9340c167ef70508635092e273c23dcde", null ],
-    [ "CountTargets", "d9/d9b/a19592.html#a996db37b678143fbc0a392032d29fff5", null ],
-    [ "Load", "d9/d9b/a19592.html#a716bcf5bb0a24f9a57534c9dafb1a56f", null ],
-    [ "PrepareSpellScript", "d9/d9b/a19592.html#a0b68ca6bdfe0f7c84236e5fe509d8fd9", null ],
-    [ "Register", "d9/d9b/a19592.html#aed312a4408134589fd02bbcb844fd1b7", null ],
-    [ "_targetCount", "d9/d9b/a19592.html#ac780614674e748274081f9f99a5165fe", null ]
+    [ "npc_collapsing_starAI", "d4/df2/a19596.html", "d4/df2/a19596" ],
+    [ "npc_collapsing_star", "d9/d9b/a19592.html#a8d57987c9b4622746d4f42a2b4845b9e", null ],
+    [ "GetAI", "d9/d9b/a19592.html#a346af96d122e64c68defdeccb9183cd4", null ]
 ];

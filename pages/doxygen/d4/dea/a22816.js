@@ -1,7 +1,12 @@
 var a22816 =
 [
-    [ "HandleEffectApply", "d4/dea/a22816.html#a5857dbdb088de67cc15717dca0c5f7b5", null ],
-    [ "HandleEffectRemove", "d4/dea/a22816.html#aab0536f7f73d9e354a526f56f587fff0", null ],
-    [ "PrepareAuraScript", "d4/dea/a22816.html#a80a6b51bc6c1457edc0fb8a0089513d1", null ],
-    [ "Register", "d4/dea/a22816.html#a194ff31e6168bca23881f3804154d479", null ]
+    [ "boss_essence_of_sufferingAI", "d4/dea/a22816.html#a98de7f0b7d12d0981854129cbeab0d0d", null ],
+    [ "DamageTaken", "d4/dea/a22816.html#a347ef26e4ecdc83ca80c9fd9a93bd97d", null ],
+    [ "DoAction", "d4/dea/a22816.html#a08724d74523866969b12d13846eb4c1e", null ],
+    [ "JustEngagedWith", "d4/dea/a22816.html#aa2fce36768ad6e23a955cd215ca759db", null ],
+    [ "KilledUnit", "d4/dea/a22816.html#a3699b19f23cf15115ff8c92691a6d334", null ],
+    [ "MovementInform", "d4/dea/a22816.html#a4ff66e57277bc3bc6e8d2fb8bc585cd7", null ],
+    [ "Reset", "d4/dea/a22816.html#affa55b69784d8f881598189c361c986e", null ],
+    [ "UpdateAI", "d4/dea/a22816.html#abb60432720b3720832ccc83d454a3808", null ],
+    [ "_recentlySpoken", "d4/dea/a22816.html#a71a28a61e97f6278836649411493484f", null ]
 ];

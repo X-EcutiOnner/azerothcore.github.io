@@ -1,10 +1,7 @@
 var a21172 =
 [
-    [ "npc_erekem_guardAI", "d3/d71/a21172.html#a1ce40b70a35fc76e6ac0af449b7f4ded", null ],
-    [ "JustEngagedWith", "d3/d71/a21172.html#a93819c5c76821b1c9559be55359d677e", null ],
-    [ "MoveInLineOfSight", "d3/d71/a21172.html#aa1140892c13f4c070b1f3f1bf2230bb5", null ],
-    [ "Reset", "d3/d71/a21172.html#a079be6dd45e96184d66e95f031dc9c5f", null ],
-    [ "UpdateAI", "d3/d71/a21172.html#ab2c55e384f624b0f671e42e381aa3a37", null ],
-    [ "events", "d3/d71/a21172.html#a15afc8dd6d6e15fcd1a632728ad8d16e", null ],
-    [ "pInstance", "d3/d71/a21172.html#a81985b8522111f2aae540353cd5641fe", null ]
+    [ "PrepareAuraScript", "d3/d71/a21172.html#adedc1cb8b42e9cd3c2e68415bca59c6b", null ],
+    [ "Register", "d3/d71/a21172.html#a7225d1f83921e4de06516c1db5a5038a", null ],
+    [ "TriggerFists", "d3/d71/a21172.html#af5d91d679f6bed5afc675b8a5fd90210", null ],
+    [ "Validate", "d3/d71/a21172.html#a977897c569245148eb94892bb42d4ca5", null ]
 ];

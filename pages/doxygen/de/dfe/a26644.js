@@ -1,6 +1,7 @@
 var a26644 =
 [
-    [ "HandleScriptEffect", "de/dfe/a26644.html#a3f8988017d088d08df08ba8b696b552b", null ],
-    [ "PrepareSpellScript", "de/dfe/a26644.html#a56f5c59c7dc8d4f8117dc64d5a5a3a0b", null ],
-    [ "Register", "de/dfe/a26644.html#a4ebc3c83dd77134af2ee81a46b121d19", null ]
+    [ "AfterRemove", "de/dfe/a26644.html#ad0bad4a07d5a65a7834e7ab46e082b20", null ],
+    [ "PrepareAuraScript", "de/dfe/a26644.html#af338af238305f1872275e1e5e9fdee16", null ],
+    [ "Register", "de/dfe/a26644.html#aa266e794be35b51a399b13ee2d06199d", null ],
+    [ "Validate", "de/dfe/a26644.html#af58098eb7a904e20846cf728f5adc18b", null ]
 ];

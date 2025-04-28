@@ -1,7 +1,10 @@
 var a27368 =
 [
-    [ "npc_riggle_bassbaitAI", "db/df1/a27368.html#ad7a1a7a6f4c4ebb7ab93878ebb3a9a5b", null ],
-    [ "CheckTournamentState", "db/df1/a27368.html#aa7b4393b93be92fbb595648cede832be", null ],
-    [ "UpdateAI", "db/df1/a27368.html#ad0fca96e2c770ef179d98dcdd9aaca6e", null ],
-    [ "m_uiTimer", "db/df1/a27368.html#aec45a971a5b7aa574e905e9a2338fe90", null ]
+    [ "go_evil_book_for_dummies", "db/df1/a27368.html#a69f599910bce0070c6b1af547c459b72", null ],
+    [ "HasLeatherSpecialty", "db/df1/a27368.html#a3d755fa8777f33a318ffa6f004aecbed", null ],
+    [ "OnGossipHello", "db/df1/a27368.html#aeb29351e2faf135298419488eb16cc7e", null ],
+    [ "OnGossipSelect", "db/df1/a27368.html#ac4bc1c682b75c436a4d3fff118a20ca4", null ],
+    [ "SendActionMenu", "db/df1/a27368.html#a0aa21b4619ea5cc8229eb56e09d3233d", null ],
+    [ "SendConfirmLearn", "db/df1/a27368.html#a11a605c576a3c81b5ed96d413ec20f57", null ],
+    [ "SendConfirmUnlearn", "db/df1/a27368.html#af9c10b0423327d8644020e8f5e26a603", null ]
 ];

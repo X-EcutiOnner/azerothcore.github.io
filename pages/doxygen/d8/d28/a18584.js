@@ -1,5 +1,6 @@
 var a18584 =
 [
-    [ "at_icc_start_blood_quickening", "d8/d28/a18584.html#a544b0591b19a62e5c8a6efcfffd98326", null ],
-    [ "OnTrigger", "d8/d28/a18584.html#a814670e127b1eace6068a553b23d00f7", null ]
+    [ "npc_arthas_teleport_visualAI", "d7/d19/a18588.html", "d7/d19/a18588" ],
+    [ "npc_arthas_teleport_visual", "d8/d28/a18584.html#a62d2caed6b12355f6d7aeceabba2ddaf", null ],
+    [ "GetAI", "d8/d28/a18584.html#a393d5ef960b9ee0cf8feeeeb5d81045d", null ]
 ];

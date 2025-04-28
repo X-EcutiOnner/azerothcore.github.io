@@ -1,15 +1,8 @@
 var a08812 =
 [
-    [ "CoordPair", "da/d72/a08812.html#a53b5f24cfdf13b246549a0c1543924c9", null ],
-    [ "CoordPair", "da/d72/a08812.html#aab92ece0f01ebc00cdac4966e02fa8fd", null ],
-    [ "dec_x", "da/d72/a08812.html#a69be5b72b710722120104f0c502fbb70", null ],
-    [ "dec_y", "da/d72/a08812.html#aefa33f8766212bb71e5fd19a318142cc", null ],
-    [ "GetId", "da/d72/a08812.html#ae4f7f304faf2c2363cffe2170b4c5c97", null ],
-    [ "inc_x", "da/d72/a08812.html#aa6a4942253e87ae57e2d69a2563ddef1", null ],
-    [ "inc_y", "da/d72/a08812.html#a120946c5a8c8b49bbdf9a1ee54ded9ec", null ],
-    [ "IsCoordValid", "da/d72/a08812.html#a082960c54e2077df370f891c0534b44f", null ],
-    [ "normalize", "da/d72/a08812.html#afac8086374bfc499e3a8d74d6afc58db", null ],
-    [ "operator=", "da/d72/a08812.html#a27f81c359c4ae278d663e85eccbeebb9", null ],
-    [ "x_coord", "da/d72/a08812.html#a101dd71af6a2cba18140aea2e502ef8b", null ],
-    [ "y_coord", "da/d72/a08812.html#aacae12844cc0c0d70e26b137ad28f700", null ]
+    [ "TempSummonGroupKey", "da/d72/a08812.html#ae1bd752c8fc7d037d6942b32859ce1ad", null ],
+    [ "operator<", "da/d72/a08812.html#ae92c7712bd58b9b773ddaac3d2b8a345", null ],
+    [ "_summonerEntry", "da/d72/a08812.html#a0ecac0e82ce63c9e64f2e17d941df447", null ],
+    [ "_summonerType", "da/d72/a08812.html#ac6bf8fb36092134f63409f3cddc5f810", null ],
+    [ "_summonGroup", "da/d72/a08812.html#a1a90f3bf90363f88828cc217dd7ceda6", null ]
 ];

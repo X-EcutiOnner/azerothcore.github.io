@@ -1,5 +1,6 @@
 var a23936 =
 [
-    [ "go_warmaul_prison", "d3/d01/a23936.html#adffbb532d7ee3c5a67543fe15ce5b67b", null ],
-    [ "OnGossipHello", "d3/d01/a23936.html#ac9e66eeb30bf951d37f2d0917a295705", null ]
+    [ "npc_ancestral_wolfAI", "d5/d91/a23940.html", "d5/d91/a23940" ],
+    [ "npc_ancestral_wolf", "d3/d01/a23936.html#a7cadf2848a086db63792f8068ee9463d", null ],
+    [ "GetAI", "d3/d01/a23936.html#a201255a64d4e742ba8b118b4f2ec5cd5", null ]
 ];

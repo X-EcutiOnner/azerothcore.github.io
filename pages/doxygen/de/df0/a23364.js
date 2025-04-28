@@ -1,8 +1,7 @@
 var a23364 =
 [
-    [ "boss_broggok", "de/df0/a23364.html#ae20c04793116d3e8eab62d2ee27010df", null ],
-    [ "DoAction", "de/df0/a23364.html#af5de5a1747c502f72af015c09d050354", null ],
-    [ "JustEngagedWith", "de/df0/a23364.html#a084e3c37a0218d47c8e39b196fc6746a", null ],
-    [ "JustSummoned", "de/df0/a23364.html#a0bf2d75f7889542a9e48689b8d080a1e", null ],
-    [ "Reset", "de/df0/a23364.html#af11b4dc2aee8064a1eaad334d93e6de0", null ]
+    [ "OnApply", "de/df0/a23364.html#a6189a5ea90b1951b21a7e9ef36700ed9", null ],
+    [ "PeriodicTick", "de/df0/a23364.html#a1c79b1016361eabb5cef57a893bccfcf", null ],
+    [ "PrepareAuraScript", "de/df0/a23364.html#acfa6b5217a0e0e2654b7fa9c4092abd5", null ],
+    [ "Register", "de/df0/a23364.html#adddddd0689f4686a40b1db142b5d6ce2", null ]
 ];

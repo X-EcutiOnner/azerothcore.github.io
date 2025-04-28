@@ -1,7 +1,8 @@
 var a10948 =
 [
-    [ "Player", "d9/d74/a10948.html#a7f4241aa9ecc051c75f779af132a52ed", null ],
-    [ "WorldSession", "d9/d74/a10948.html#a65b5c30bf4f5f118a199e378d903aaf6", null ],
-    [ "FactionChange", "d9/d74/a10948.html#adff657ead29df26ead5e20a8ecf44e87", null ],
-    [ "Race", "d9/d74/a10948.html#a98d5fd43205a0c9e2d3be75d384ce00c", null ]
+    [ "PacketFilter", "d9/d74/a10948.html#accfa43359c62d2e9d6c38086c77374bd", null ],
+    [ "~PacketFilter", "d9/d74/a10948.html#a669531cfd9c06d5cf525986069117687", null ],
+    [ "Process", "d9/d74/a10948.html#a03679e3c241a535757608c63ca933ac9", null ],
+    [ "ProcessUnsafe", "d9/d74/a10948.html#a3e2bdc6d15cfd5cac1b9c130937599e3", null ],
+    [ "m_pSession", "d9/d74/a10948.html#ad3723289ea93f1095cf82584268335d9", null ]
 ];

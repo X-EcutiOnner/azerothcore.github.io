@@ -1,5 +1,6 @@
 var a18716 =
 [
-    [ "at_icc_putricide_trap", "d9/ddb/a18716.html#a9d4183629deada9c22750b8a34e94583", null ],
-    [ "OnTrigger", "d9/ddb/a18716.html#ad59c2f694c50fabf1946d2c7ae726413", null ]
+    [ "npc_icc_severed_essenceAI", "d0/d28/a18720.html", "d0/d28/a18720" ],
+    [ "npc_icc_severed_essence", "d9/ddb/a18716.html#ace5b55755ef1dff3bd08a67fe2f64f94", null ],
+    [ "GetAI", "d9/ddb/a18716.html#a74b8dbb95f3dc31b514a2d7ac1f18190", null ]
 ];

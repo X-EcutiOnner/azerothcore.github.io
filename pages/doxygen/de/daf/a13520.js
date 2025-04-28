@@ -1,13 +1,10 @@
 var a13520 =
 [
-    [ "npc_lord_gregor_lescovarAI", "de/daf/a13520.html#ab3ed8a9536fc6be948f280e319d4fec7", null ],
-    [ "DoGuardsDisappearAndDie", "de/daf/a13520.html#a8588cae3dc8aa3dd46c55439d355df9b", null ],
-    [ "EnterEvadeMode", "de/daf/a13520.html#a95e60614808191e4c1f909f5e38e4741", null ],
-    [ "JustEngagedWith", "de/daf/a13520.html#ad0ca7d80d68b9623b99c644daa8f4c57", null ],
-    [ "Reset", "de/daf/a13520.html#a06df695e9acd96b07f4e58c9461a708c", null ],
-    [ "UpdateAI", "de/daf/a13520.html#ab8cc7d7d56550e66497116e5b4233a02", null ],
-    [ "WaypointReached", "de/daf/a13520.html#ad91850dc72d0307e28b881717bfba6db", null ],
-    [ "MarzonGUID", "de/daf/a13520.html#a68779dfa5643ffbf0065964d72ba5ddc", null ],
-    [ "uiPhase", "de/daf/a13520.html#a3eaf47541cabaac9ce12f830d7d3ef41", null ],
-    [ "uiTimer", "de/daf/a13520.html#a70e6be2f5c0f88664c6bbe3f29e1d184", null ]
+    [ "npc_grand_magister_rommathAI", "de/daf/a13520.html#a5e9404dd8bf4b513e05daac53c076314", null ],
+    [ "DoAction", "de/daf/a13520.html#a138bc8cd6f1312d83fefdf5499a479b7", null ],
+    [ "MoveInLineOfSight", "de/daf/a13520.html#ad35b64b37915484b133bcd185a832011", null ],
+    [ "UpdateAI", "de/daf/a13520.html#ac687bd20f0ae66b21ce52c21561af417", null ],
+    [ "announced", "de/daf/a13520.html#a4c9107ef5d4a85d7487ff4cf7bf6464a", null ],
+    [ "events", "de/daf/a13520.html#a4c1b6616bc88a9ad5074670843315bc6", null ],
+    [ "playerGUID", "de/daf/a13520.html#ad0ac0647feb998e837a44b0a688694e9", null ]
 ];

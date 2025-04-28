@@ -1,6 +1,8 @@
 var a25956 =
 [
-    [ "HandleEffectCalcSpellMod", "d3/d65/a25956.html#a81395c735b9546632af71319067b575b", null ],
-    [ "PrepareAuraScript", "d3/d65/a25956.html#ad5a716f0644b1707aa6d179d564ceb80", null ],
-    [ "Register", "d3/d65/a25956.html#ae49a0ec525819981595c12839133a35b", null ]
+    [ "HandleDummy", "d3/d65/a25956.html#a04ff6beb930b65395ebc3df99bc53dfa", null ],
+    [ "PrepareSpellScript", "d3/d65/a25956.html#a73eabf1e68c966f31fe8d83c2fd925c1", null ],
+    [ "Register", "d3/d65/a25956.html#a6b03fbcf18612d9bb7361c3e4f022dc0", null ],
+    [ "Validate", "d3/d65/a25956.html#a9df13e3e8895854bc086fbfaccfb1b2c", null ],
+    [ "PolymorhForms", "d3/d65/a25956.html#a1443d2532a060514e697a8d5e0c21b20", null ]
 ];

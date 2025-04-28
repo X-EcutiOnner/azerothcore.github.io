@@ -1,8 +1,10 @@
 var a27364 =
 [
-    [ "npc_riggle_bassbaitAI", "db/df1/a27368.html", "db/df1/a27368" ],
-    [ "npc_riggle_bassbait", "d4/da8/a27364.html#afc4280099cda3c28c4634d649e636839", null ],
-    [ "GetAI", "d4/da8/a27364.html#ad5e3230dae9ac23aa83883e53b37234e", null ],
-    [ "OnGossipHello", "d4/da8/a27364.html#aeea1e5d4d59c72ce97e1f0eb8da5b6fe", null ],
-    [ "OnQuestReward", "d4/da8/a27364.html#aa3ef2b3ebd7542a4836983872c397e66", null ]
+    [ "npc_prof_tailor", "d4/da8/a27364.html#a481157e49fb1c09f62a3cb9de85c9da1", null ],
+    [ "HasTailorSpell", "d4/da8/a27364.html#a188c0ac66b1972bccd031aca26f7fecd", null ],
+    [ "OnGossipHello", "d4/da8/a27364.html#a686098ac43916ea2f82b7c321527863d", null ],
+    [ "OnGossipSelect", "d4/da8/a27364.html#a03545eaacf3bae0d407e0e20c32740dc", null ],
+    [ "SendActionMenu", "d4/da8/a27364.html#a03ced7d6541535097a5e4e3bd9f415f2", null ],
+    [ "SendConfirmLearn", "d4/da8/a27364.html#a93a8692cb2c0b30ee752ae3ecd5561e5", null ],
+    [ "SendConfirmUnlearn", "d4/da8/a27364.html#ada0be1dc79f72b7b033191c8e17a8baf", null ]
 ];

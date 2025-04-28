@@ -1,6 +1,8 @@
 var a16664 =
 [
-    [ "entry", "d5/da9/a16664.html#a80e1510436336f4ed17748a06b27178d", null ],
-    [ "pathId", "d5/da9/a16664.html#a0b7e499d633e11b314852fb1154ea8e6", null ],
-    [ "startPosition", "d5/da9/a16664.html#ac8c0dd74d76778aa2f5948b5c8c5ada4", null ]
+    [ "npc_fos_corrupted_soul_fragmentAI", "d5/da9/a16664.html#a61797329ecddde6da2e23e951fa92ca2", null ],
+    [ "Reset", "d5/da9/a16664.html#a5bb03371b24593ca2de995bf85857782", null ],
+    [ "UpdateAI", "d5/da9/a16664.html#ac6e651186c5edfd8e5279ddd38a15eb9", null ],
+    [ "pInstance", "d5/da9/a16664.html#a6ced23b3b4150b31020a636559d6eec6", null ],
+    [ "timer", "d5/da9/a16664.html#aa19c9928e3979bb01d89dc81b8feb4fc", null ]
 ];

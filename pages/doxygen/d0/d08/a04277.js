@@ -1,9 +1,12 @@
 var a04277 =
 [
-    [ "instance_magtheridons_lair", "d9/dcc/a23525.html", "d9/dcc/a23525" ],
-    [ "instance_magtheridons_lair::instance_magtheridons_lair_InstanceMapScript", "da/d70/a23529.html", "da/d70/a23529" ],
-    [ "AddSC_instance_magtheridons_lair", "d0/d08/a04277.html#a77e256ce8ca932c8d162a30715dc7c6f", null ],
-    [ "boundaries", "d0/d08/a04277.html#aa75d7d0ffe0cef214f982966c33db1c1", null ],
-    [ "doorData", "d0/d08/a04277.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
-    [ "minionData", "d0/d08/a04277.html#a6720238df140a3c574a711042b7f5bd3", null ]
+    [ "ArenaTeamScript", "d1/daa/a10212.html", "d1/daa/a10212" ],
+    [ "ArenaTeamHook", "d0/d08/a04277.html#adfb7077026efd17516d6b85637c2b218", [
+      [ "ARENATEAMHOOK_ON_GET_SLOT_BY_TYPE", "d0/d08/a04277.html#adfb7077026efd17516d6b85637c2b218a138fd48dae9a6b0db50dd8a442045adc", null ],
+      [ "ARENATEAMHOOK_ON_GET_ARENA_POINTS", "d0/d08/a04277.html#adfb7077026efd17516d6b85637c2b218a3b21f54389f578130e4874fd75c7e6a9", null ],
+      [ "ARENATEAMHOOK_ON_TYPEID_TO_QUEUEID", "d0/d08/a04277.html#adfb7077026efd17516d6b85637c2b218ae5c1d8d5548693d43fdd43339ef152a7", null ],
+      [ "ARENATEAMHOOK_ON_QUEUEID_TO_ARENA_TYPE", "d0/d08/a04277.html#adfb7077026efd17516d6b85637c2b218a957830b5a4fb9d7a53b977999068031b", null ],
+      [ "ARENATEAMHOOK_ON_SET_ARENA_MAX_PLAYERS_PER_TEAM", "d0/d08/a04277.html#adfb7077026efd17516d6b85637c2b218aaf39f25b1610466743d5d839986bf6b6", null ],
+      [ "ARENATEAMHOOK_END", "d0/d08/a04277.html#adfb7077026efd17516d6b85637c2b218a5fe29b394fe4fe74fffe7988b90ccaf7", null ]
+    ] ]
 ];

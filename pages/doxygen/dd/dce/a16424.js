@@ -1,6 +1,6 @@
 var a16424 =
 [
-    [ "boss_dreadscaleAI", "d3/d9e/a16428.html", "d3/d9e/a16428" ],
-    [ "boss_dreadscale", "dd/dce/a16424.html#ab3276e515419303358b0ee59bc92c12e", null ],
-    [ "GetAI", "dd/dce/a16424.html#ab8c8cebfa6843404338ea5bc3ac8f3f7", null ]
+    [ "npc_fel_infernalAI", "d3/d9e/a16428.html", "d3/d9e/a16428" ],
+    [ "npc_fel_infernal", "dd/dce/a16424.html#a2d2ed8cf09c97d30b6c79dcdf9153ed9", null ],
+    [ "GetAI", "dd/dce/a16424.html#a768201a7516c9972800c941cf2079a11", null ]
 ];

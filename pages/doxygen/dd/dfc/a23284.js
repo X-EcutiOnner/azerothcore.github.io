@@ -1,7 +1,10 @@
 var a23284 =
 [
-    [ "HandleScript", "dd/dfc/a23284.html#a42052a416290a54d5479a402de578a73", null ],
-    [ "PrepareSpellScript", "dd/dfc/a23284.html#a5f6aa972879b65c0207e47435d436a33", null ],
-    [ "Register", "dd/dfc/a23284.html#a98efb2a9a68d7878af9d6f9d46db88c9", null ],
-    [ "Validate", "dd/dfc/a23284.html#a0d10ed00f11ede2b63665e4cfe53a70c", null ]
+    [ "boss_warlord_kalithresh", "dd/dfc/a23284.html#afcf2288fbea2d5010c41344ce0247559", null ],
+    [ "JustDied", "dd/dfc/a23284.html#a1947562aa9dafea371e2f2da824a3f65", null ],
+    [ "JustEngagedWith", "dd/dfc/a23284.html#a2712f5c363c3929550b77ef2536b1385", null ],
+    [ "KilledUnit", "dd/dfc/a23284.html#a06855288497f5335a236867ef681d3f8", null ],
+    [ "MoveInLineOfSight", "dd/dfc/a23284.html#a544da19b6c3a6f159ed6b1639def1071", null ],
+    [ "Reset", "dd/dfc/a23284.html#a89e3bac7eeb3a77e0a7a22d8de9f1024", null ],
+    [ "_introDone", "dd/dfc/a23284.html#a8e07118bb6fa249178cc081e2b393d2d", null ]
 ];

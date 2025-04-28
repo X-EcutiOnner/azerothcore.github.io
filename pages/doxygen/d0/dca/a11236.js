@@ -1,6 +1,6 @@
 var a11236 =
 [
-    [ "CheckAreaTargetHandler", "d0/dca/a11236.html#a641b633e37079949c8b1b71a32f4222e", null ],
-    [ "Call", "d0/dca/a11236.html#ab434cb7ba8927c16e2b63c2ad8ae9a25", null ],
-    [ "pHandlerScript", "d0/dca/a11236.html#a7c1e677d10a89ea7f1ea06f8de10e0f9", null ]
+    [ "HitHandler", "d0/dca/a11236.html#a41c5a6853bf72c113388995dc3ebaba7", null ],
+    [ "Call", "d0/dca/a11236.html#a157baaa3ceba62a9910cba5377bd7699", null ],
+    [ "pHitHandlerScript", "d0/dca/a11236.html#ac24144e49930a01a3049740a4072f626", null ]
 ];

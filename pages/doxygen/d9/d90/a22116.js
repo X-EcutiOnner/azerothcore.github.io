@@ -1,6 +1,15 @@
 var a22116 =
 [
-    [ "npc_wild_wyrmAI", "d6/d2b/a22120.html", "d6/d2b/a22120" ],
-    [ "npc_wild_wyrm", "d9/d90/a22116.html#abce8c3a368e75b4be5e05381f9eb722b", null ],
-    [ "GetAI", "d9/d90/a22116.html#aedba91446fe12997047070f123d925d2", null ]
+    [ "npc_jungle_punch_targetAI", "d9/d90/a22116.html#a04f09361f6bc4bc752ca773878187f79", null ],
+    [ "MoveInLineOfSight", "d9/d90/a22116.html#adc08551a256220bab144ef26d89c4263", null ],
+    [ "proceedCwEvent", "d9/d90/a22116.html#a54f8a5c7414f4a9fd019e02fede1970d", null ],
+    [ "Reset", "d9/d90/a22116.html#a56faff3edbe0d13969e8d20e6c3e03a2", null ],
+    [ "SpellHit", "d9/d90/a22116.html#a3515e873adf5a097f66764887e3cc5a3", null ],
+    [ "UpdateAI", "d9/d90/a22116.html#afa2a1bcdeef51e9f984307f576a1ff6e", null ],
+    [ "orphanGUID", "d9/d90/a22116.html#a5947a4415b63f8bbda4d53c44ccebf74", null ],
+    [ "phase", "d9/d90/a22116.html#a737a9016c93d621bf8cfa29d6b66b345", null ],
+    [ "playerGUID", "d9/d90/a22116.html#afbb4e4c74c2634a442171f06bb2eff08", null ],
+    [ "sayStep", "d9/d90/a22116.html#a1b1757dd6e0775f1f4791b4feafd86fb", null ],
+    [ "sayTimer", "d9/d90/a22116.html#a4edf558dbc54ff1acab15d6daf0a5613", null ],
+    [ "timer", "d9/d90/a22116.html#a0fa884bf3003267501f048d3f1287d42", null ]
 ];

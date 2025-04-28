@@ -1,5 +1,15 @@
 var a09684 =
 [
-    [ "item_guid", "de/db2/a09684.html#a4033ef7b03b28881e28434ae796fb6ed", null ],
-    [ "item_template", "de/db2/a09684.html#ac7e05ac4dcc5d4f94b3291d819c7c86b", null ]
+    [ "MailSender", "de/db2/a09684.html#a16466924bf75ea8203ba27c0f3e6188b", null ],
+    [ "MailSender", "de/db2/a09684.html#a735cfef6950357644d6965978dde0309", null ],
+    [ "MailSender", "de/db2/a09684.html#a145000f5ef63627ee26a5699846e06cf", null ],
+    [ "MailSender", "de/db2/a09684.html#a9ddda06cf5ecc55efdc4525353471c5b", null ],
+    [ "MailSender", "de/db2/a09684.html#a7d5a5e40aa20de720f310b739f159225", null ],
+    [ "MailSender", "de/db2/a09684.html#a12c87bb414a3e8889c95091f3b51716b", null ],
+    [ "GetMailMessageType", "de/db2/a09684.html#a64c99a49ec01d2226b6bf740edb380fb", null ],
+    [ "GetSenderId", "de/db2/a09684.html#a03145c3fdc5bbabc64019e63e121132b", null ],
+    [ "GetStationery", "de/db2/a09684.html#a6a4446e52e20ad7ab4817bf024b38631", null ],
+    [ "m_messageType", "de/db2/a09684.html#a45a312eda342d2197f15d73b47d7787b", null ],
+    [ "m_senderId", "de/db2/a09684.html#a0954b3514cfcba4258b1b266dfd71ddb", null ],
+    [ "m_stationery", "de/db2/a09684.html#a1bbced35b4600f9a45a421d28a33393b", null ]
 ];

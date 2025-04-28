@@ -1,6 +1,6 @@
 var a21664 =
 [
-    [ "SACDeactivateEvent", "dc/dc4/a21664.html#a14f1db2f3bf7e82d0e5c5b5135d46cf9", null ],
-    [ "Execute", "dc/dc4/a21664.html#a12179c55d1999b3cd0cfc5d51d039a31", null ],
-    [ "_owner", "dc/dc4/a21664.html#acc87b2f689bf2e6a3f19440dceb6ea6d", null ]
+    [ "npc_injured_7th_legion_soldierAI", "d0/d2d/a21668.html", "d0/d2d/a21668" ],
+    [ "npc_injured_7th_legion_soldier", "dc/dc4/a21664.html#a9d3c647f485dbca5efeec8f784efba1b", null ],
+    [ "GetAI", "dc/dc4/a21664.html#a0feca7aedcf3c07253d4d402266189cc", null ]
 ];

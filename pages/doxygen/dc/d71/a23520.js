@@ -1,8 +1,7 @@
 var a23520 =
 [
-    [ "FilterTargets", "dc/d71/a23520.html#ae366594b668331a19f384ceb48654c0c", null ],
-    [ "HandleOnHit", "dc/d71/a23520.html#abe5665fde7f01fafdfb55c58d8edbcf1", null ],
-    [ "PrepareSpellScript", "dc/d71/a23520.html#a71aa4018d293391a73d3317c1e80951d", null ],
-    [ "Register", "dc/d71/a23520.html#a3da162fd2cafc2e1236db0c6d4f65440", null ],
-    [ "Validate", "dc/d71/a23520.html#a3747ad271dc659436ae7a8203b964554", null ]
+    [ "FilterTargets", "dc/d71/a23520.html#a921450a09e51585beb9dd2ce9b00bac9", null ],
+    [ "HandleHit", "dc/d71/a23520.html#adb30857a5a320bb24b8cc0bcb9d60040", null ],
+    [ "PrepareSpellScript", "dc/d71/a23520.html#a376618b9811b2e1ec18697431094e22f", null ],
+    [ "Register", "dc/d71/a23520.html#ae7f4f54446d5a1ebb20d49ab9deaed81", null ]
 ];

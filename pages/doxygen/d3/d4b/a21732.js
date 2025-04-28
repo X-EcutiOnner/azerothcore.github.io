@@ -1,8 +1,12 @@
 var a21732 =
 [
-    [ "AfterApply", "d3/d4b/a21732.html#a57279552b867251e9d2ee6a4ff5d7914", null ],
-    [ "PeriodicTick", "d3/d4b/a21732.html#a2e86aa6efe6ab137926c1dfd1bd26a95", null ],
-    [ "PrepareAuraScript", "d3/d4b/a21732.html#a9e1b74bf2d28a367caefdc90c34743c8", null ],
-    [ "Register", "d3/d4b/a21732.html#a69eb0ca43a15d4995ad219459c2b39d6", null ],
-    [ "Validate", "d3/d4b/a21732.html#a946248656cb755f85dd93fd4d607c9a7", null ]
+    [ "npc_q24545_wretched_ghoulAI", "d3/d4b/a21732.html#a0e4d9b3acd1de2cd44d0a6a22007e026", null ],
+    [ "Activate", "d3/d4b/a21732.html#a52f64cef6159a3bfe29a6ac551b5bbe2", null ],
+    [ "AttackStart", "d3/d4b/a21732.html#a9453e2fe00c656ded0bad4d9036dbd2a", null ],
+    [ "CanAIAttack", "d3/d4b/a21732.html#a9cf57308ea588cc2febb0bb2666c2afe", null ],
+    [ "Deactivate", "d3/d4b/a21732.html#af7dd65b8c0a1b5b55752d7f6b85f21cc", null ],
+    [ "DoAction", "d3/d4b/a21732.html#a77aad4a0446fac68a5d1785acbe825eb", null ],
+    [ "JustDied", "d3/d4b/a21732.html#a2fc9b40d72eea88b2245e6b01b17384a", null ],
+    [ "JustRespawned", "d3/d4b/a21732.html#ab30068f7082176c279e0667f72d750a3", null ],
+    [ "Reset", "d3/d4b/a21732.html#ad94a4789b5ba019d021682f15df13589", null ]
 ];

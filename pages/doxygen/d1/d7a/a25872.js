@@ -1,7 +1,9 @@
 var a25872 =
 [
-    [ "CalculateSpellAmount", "d1/d7a/a25872.html#a2f93ff69f30b243fe787d72f78a2d159", null ],
-    [ "CheckCast", "d1/d7a/a25872.html#af043f7ee0f80baf667e64225effd57d1", null ],
-    [ "PrepareSpellScript", "d1/d7a/a25872.html#a233ac4020722078d865cf980d7fa76cf", null ],
-    [ "Register", "d1/d7a/a25872.html#a3648ecd94430e21dd014795156c1eb98", null ]
+    [ "HandleAfterCast", "d1/d7a/a25872.html#afd2fbc51ac1e99789994021af36688f3", null ],
+    [ "HandleTriggerSpell", "d1/d7a/a25872.html#ae140ab00101f081454b55e12a7c54440", null ],
+    [ "Load", "d1/d7a/a25872.html#a3dbb3541f0ec3f614d1f18fd92f9bc03", null ],
+    [ "PrepareSpellScript", "d1/d7a/a25872.html#a7fd1a83dd49cee4f52913a40caf3ef88", null ],
+    [ "Register", "d1/d7a/a25872.html#a3e9d0ff0bd71ea6d87fb9a7edcfa9a1c", null ],
+    [ "_triggerSpellId", "d1/d7a/a25872.html#a9a3efd5cf45d15cf8112a82d33dca731", null ]
 ];

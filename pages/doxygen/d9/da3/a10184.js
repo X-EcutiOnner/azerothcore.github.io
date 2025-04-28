@@ -1,10 +1,19 @@
 var a10184 =
 [
-    [ "ArenaScript", "d9/da3/a10184.html#acba88d9008e08873f3f20b92d69e8912", null ],
-    [ "CanAddMember", "d9/da3/a10184.html#aa85728dd471c2f4d58ed1794e741d060", null ],
-    [ "CanSaveToDB", "d9/da3/a10184.html#a164257b5ed4a0808d709870cdf73ed3b", null ],
-    [ "IsDatabaseBound", "d9/da3/a10184.html#ab6c90bb55c238fada3e9ddc993333d0d", null ],
-    [ "OnArenaStart", "d9/da3/a10184.html#ae67b000b16f56309da56f672a9f2b423", null ],
-    [ "OnBeforeArenaCheckWinConditions", "d9/da3/a10184.html#a2b46190a3243f2306a74295975dca317", null ],
-    [ "OnGetPoints", "d9/da3/a10184.html#a13b22ad00d3742589532e6e522258834", null ]
+    [ "AllGameObjectScript", "d9/da3/a10184.html#ac6640c81043e19d7c73ed6208dd119dd", null ],
+    [ "CanGameObjectGossipHello", "d9/da3/a10184.html#a33efc883fe64cdc52aa9b03f9377da97", null ],
+    [ "CanGameObjectGossipSelect", "d9/da3/a10184.html#a317305c7dc81fede50d73f65fbc2bb42", null ],
+    [ "CanGameObjectGossipSelectCode", "d9/da3/a10184.html#ac0b0ce8b06f371a6adfb69b926797790", null ],
+    [ "CanGameObjectQuestAccept", "d9/da3/a10184.html#a0c99183b04355ecfb3460bc371b58805", null ],
+    [ "CanGameObjectQuestReward", "d9/da3/a10184.html#a55eb61a5e4386908db998ceff1dff359", null ],
+    [ "GetGameObjectAI", "d9/da3/a10184.html#afe0c610693bc883415952ba350596788", null ],
+    [ "OnGameObjectAddWorld", "d9/da3/a10184.html#ae07275a83e4e1ae65371739bdc342d7f", null ],
+    [ "OnGameObjectDamaged", "d9/da3/a10184.html#ab551bd870ab2e6513d95fcfb3e62d8c5", null ],
+    [ "OnGameObjectDestroyed", "d9/da3/a10184.html#a3861b881456c1af3e9231d90519367d6", null ],
+    [ "OnGameObjectLootStateChanged", "d9/da3/a10184.html#a599b35bb426d3c91c5457c838bfe910d", null ],
+    [ "OnGameObjectModifyHealth", "d9/da3/a10184.html#a4d5607d755f044fed3a23c122bceddff", null ],
+    [ "OnGameObjectRemoveWorld", "d9/da3/a10184.html#aca2171a8521195f06ea00c21f219d8f5", null ],
+    [ "OnGameObjectSaveToDB", "d9/da3/a10184.html#ae4bb28ae318f13a72109a3874f2ca12d", null ],
+    [ "OnGameObjectStateChanged", "d9/da3/a10184.html#ab0ab47240bdb815d404f8bd41fb3bdaa", null ],
+    [ "OnGameObjectUpdate", "d9/da3/a10184.html#ada8cc5373b75025199ca62856242d0ab", null ]
 ];

@@ -1,6 +1,10 @@
 var a16024 =
 [
-    [ "HandleHealPct", "d9/d26/a16024.html#ad13b3924815ac3da7902c8292a760943", null ],
-    [ "PrepareSpellScript", "d9/d26/a16024.html#aeea718bce7dd5aa4ac33bbd1a95a65c0", null ],
-    [ "Register", "d9/d26/a16024.html#a3016c31c072d6417bbe47c2891059718", null ]
+    [ "spell_halion_combustion_consumption_aura", "d9/d26/a16024.html#a8b67aee76c7288748757e6bec7f4cb78", null ],
+    [ "AddMarkStack", "d9/d26/a16024.html#a337776c42bd6c42ecdffb508808ed070", null ],
+    [ "OnApply", "d9/d26/a16024.html#afeea3e5026e6d8472440c9cffac9bce9", null ],
+    [ "OnRemove", "d9/d26/a16024.html#a3959dbe8bbdf2d3953daf14072614708", null ],
+    [ "PrepareAuraScript", "d9/d26/a16024.html#a334f2211429dde989b6beb6c10a71464", null ],
+    [ "Register", "d9/d26/a16024.html#affc66a03e9d1eaef30a54b8a044734b8", null ],
+    [ "_markSpell", "d9/d26/a16024.html#a8236d9d50f267a12216d90f8041da439", null ]
 ];

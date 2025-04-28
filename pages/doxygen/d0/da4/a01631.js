@@ -1,30 +1,24 @@
 var a01631 =
 [
-    [ "UnitScript", "da/d7b/a10353.html", "da/d7b/a10353" ],
-    [ "UnitHook", "d0/da4/a01631.html#a4eaefcbbd1058569f55194299c218c26", [
-      [ "UNITHOOK_ON_HEAL", "d0/da4/a01631.html#a4eaefcbbd1058569f55194299c218c26afb576f10646cffe0868efddf3e7aa256", null ],
-      [ "UNITHOOK_ON_DAMAGE", "d0/da4/a01631.html#a4eaefcbbd1058569f55194299c218c26a62c0eeb1f01d869aab444cfe76e2116b", null ],
-      [ "UNITHOOK_MODIFY_PERIODIC_DAMAGE_AURAS_TICK", "d0/da4/a01631.html#a4eaefcbbd1058569f55194299c218c26a022b3554d4b0bded731bb10590f7abde", null ],
-      [ "UNITHOOK_MODIFY_MELEE_DAMAGE", "d0/da4/a01631.html#a4eaefcbbd1058569f55194299c218c26a740266abae12f6909df18d7f112b8bca", null ],
-      [ "UNITHOOK_MODIFY_SPELL_DAMAGE_TAKEN", "d0/da4/a01631.html#a4eaefcbbd1058569f55194299c218c26a9d3c4b797fc29f1adc4751d2fc6f507e", null ],
-      [ "UNITHOOK_MODIFY_HEAL_RECEIVED", "d0/da4/a01631.html#a4eaefcbbd1058569f55194299c218c26a46fbfaf61c3d0c65a02d8450baaae5cd", null ],
-      [ "UNITHOOK_ON_BEFORE_ROLL_MELEE_OUTCOME_AGAINST", "d0/da4/a01631.html#a4eaefcbbd1058569f55194299c218c26a5d1637c534db2ba75c473d0b4c225f49", null ],
-      [ "UNITHOOK_ON_AURA_APPLY", "d0/da4/a01631.html#a4eaefcbbd1058569f55194299c218c26ac928edfab8c8b1fc13c8f8126f5440ae", null ],
-      [ "UNITHOOK_ON_AURA_REMOVE", "d0/da4/a01631.html#a4eaefcbbd1058569f55194299c218c26aa3501eebed0af3d2470808a30f9c1a5e", null ],
-      [ "UNITHOOK_IF_NORMAL_REACTION", "d0/da4/a01631.html#a4eaefcbbd1058569f55194299c218c26acf1161bacf692693081683ef22f09c5c", null ],
-      [ "UNITHOOK_IS_NEEDMOD_SPELL_DAMAGE_PERCENT", "d0/da4/a01631.html#a4eaefcbbd1058569f55194299c218c26afcdac3c6c72041d7c2bed9c71811f223", null ],
-      [ "UNITHOOK_IS_NEEDMOD_MELEE_DAMAGE_PERCENT", "d0/da4/a01631.html#a4eaefcbbd1058569f55194299c218c26ad8b8880b23c3e9ce4ab482cc2ee2375a", null ],
-      [ "UNITHOOK_IS_NEEDMOD_HEAL_PERCENT", "d0/da4/a01631.html#a4eaefcbbd1058569f55194299c218c26ae15a260476ff0ce2435be2ed12bd5c6e", null ],
-      [ "UNITHOOK_CAN_SET_PHASE_MASK", "d0/da4/a01631.html#a4eaefcbbd1058569f55194299c218c26a1a63709d3c29f7cbdd99a4307bf8ed93", null ],
-      [ "UNITHOOK_IS_CUSTOM_BUILD_VALUES_UPDATE", "d0/da4/a01631.html#a4eaefcbbd1058569f55194299c218c26ac14c60774f62f84baef5839831e875c7", null ],
-      [ "UNITHOOK_SHOULD_TRACK_VALUES_UPDATE_POS_BY_INDEX", "d0/da4/a01631.html#a4eaefcbbd1058569f55194299c218c26ab6257ae823fecbde4bcb0c9c1cdf4762", null ],
-      [ "UNITHOOK_ON_PATCH_VALUES_UPDATE", "d0/da4/a01631.html#a4eaefcbbd1058569f55194299c218c26a4ed2a82b73990b4ba2e1d0c317df5d82", null ],
-      [ "UNITHOOK_ON_UNIT_UPDATE", "d0/da4/a01631.html#a4eaefcbbd1058569f55194299c218c26a2bc86ad3742f6fbc38e6030215587e6f", null ],
-      [ "UNITHOOK_ON_DISPLAYID_CHANGE", "d0/da4/a01631.html#a4eaefcbbd1058569f55194299c218c26a1f0200b57821e6e6bad8ea268ff4a6d1", null ],
-      [ "UNITHOOK_ON_UNIT_ENTER_EVADE_MODE", "d0/da4/a01631.html#a4eaefcbbd1058569f55194299c218c26a3cc39d8a6535a3347ce91048c9c7f27e", null ],
-      [ "UNITHOOK_ON_UNIT_ENTER_COMBAT", "d0/da4/a01631.html#a4eaefcbbd1058569f55194299c218c26a0b91b88b22f4354b14b1864afb187957", null ],
-      [ "UNITHOOK_ON_UNIT_DEATH", "d0/da4/a01631.html#a4eaefcbbd1058569f55194299c218c26aa21248825ee1e2f7e9f3eac05561ab57", null ],
-      [ "UNITHOOK_ON_UNIT_SET_SHAPESHIFT_FORM", "d0/da4/a01631.html#a4eaefcbbd1058569f55194299c218c26a6ade1eeb61b044e91d50f1f91c14bcd6", null ],
-      [ "UNITHOOK_END", "d0/da4/a01631.html#a4eaefcbbd1058569f55194299c218c26af159e92a1ac42831ecbad7dbb708f352", null ]
-    ] ]
+    [ "npc_rizzle_sprysprocket", "df/d23/a15192.html", "df/d23/a15192" ],
+    [ "npc_rizzle_sprysprocket::npc_rizzle_sprysprocketAI", "d8/d58/a15196.html", "d8/d58/a15196" ],
+    [ "npc_depth_charge", "d0/d8e/a15200.html", "d0/d8e/a15200" ],
+    [ "npc_depth_charge::npc_depth_chargeAI", "d3/d97/a15204.html", "d3/d97/a15204" ],
+    [ "RizzleSprysprocketData", "d0/da4/a01631.html#ad694d8f9c4171422b48a06322c8bf5a3", [
+      [ "QUEST_CHASING_THE_MOONSTONE", "d0/da4/a01631.html#ad694d8f9c4171422b48a06322c8bf5a3a62167aa10a1e13501da60bbfd43df100", null ],
+      [ "NPC_DEPTH_CHARGE", "d0/da4/a01631.html#ad694d8f9c4171422b48a06322c8bf5a3a6238920533d94ea0caa141d736f110ac", null ],
+      [ "SPELL_RIZZLE_BLACKJACK", "d0/da4/a01631.html#ad694d8f9c4171422b48a06322c8bf5a3aa6c12ccbf9db4eb0ed767b4f07ddf62c", null ],
+      [ "SPELL_RIZZLE_ESCAPE", "d0/da4/a01631.html#ad694d8f9c4171422b48a06322c8bf5a3a045675473e0b088d783fd577efa8ad75", null ],
+      [ "SPELL_RIZZLE_FROST_GRENADE", "d0/da4/a01631.html#ad694d8f9c4171422b48a06322c8bf5a3a28994b7a8f42678d14a11b5a7078c0e1", null ],
+      [ "SPELL_DEPTH_CHARGE_TRAP", "d0/da4/a01631.html#ad694d8f9c4171422b48a06322c8bf5a3a685ae5385fd93ebf978ae918d8e88afe", null ],
+      [ "SPELL_PERIODIC_DEPTH_CHARGE", "d0/da4/a01631.html#ad694d8f9c4171422b48a06322c8bf5a3a46e20b8a4b722974fa1a48c334ad0965", null ],
+      [ "SPELL_GIVE_SOUTHFURY_MOONSTONE", "d0/da4/a01631.html#ad694d8f9c4171422b48a06322c8bf5a3a008357389ef71129c47d0af4c103f168", null ],
+      [ "SAY_RIZZLE_START", "d0/da4/a01631.html#ad694d8f9c4171422b48a06322c8bf5a3a4041141e3ffdb02858ab8e153b4bb80f", null ],
+      [ "SAY_RIZZLE_GRENADE", "d0/da4/a01631.html#ad694d8f9c4171422b48a06322c8bf5a3a62818d492b5281057628356574ada201", null ],
+      [ "SAY_RIZZLE_FINAL", "d0/da4/a01631.html#ad694d8f9c4171422b48a06322c8bf5a3a2171c54277d8aadbe7b633befacf4ab3", null ],
+      [ "MSG_ESCAPE_NOTICE", "d0/da4/a01631.html#ad694d8f9c4171422b48a06322c8bf5a3ac276316b4b9c389e1701165b3a1491c7", null ],
+      [ "GOSSIP_GET_MOONSTONE", "d0/da4/a01631.html#ad694d8f9c4171422b48a06322c8bf5a3a9ba89e15a5cf6168c5e38316ef46daa0", null ]
+    ] ],
+    [ "AddSC_azshara", "d0/da4/a01631.html#ad86bcd16e9f7f0d1b823153be725f9ce", null ],
+    [ "WPs", "d0/da4/a01631.html#a6963f0357cacc0d2bcf7d514cad45e73", null ]
 ];

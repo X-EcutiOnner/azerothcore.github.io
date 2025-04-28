@@ -1,8 +1,9 @@
 var a11836 =
 [
-    [ "boss_evisceratorAI", "db/dc8/a11836.html#a26bfcd3390e987a9fe13dd1a2bc2a7a4", null ],
-    [ "DamageTaken", "db/dc8/a11836.html#aab3e8290963ca6c312715f18727d3e82", null ],
-    [ "JustEngagedWith", "db/dc8/a11836.html#a60f3942b352206888569f60776041a28", null ],
-    [ "UpdateAI", "db/dc8/a11836.html#aa201d35455f2e6eb41df27e264c2c03c", null ],
-    [ "SpellShieldReady", "db/dc8/a11836.html#a3e5d8a40bfca16cc811f35b1293c19aa", null ]
+    [ "npc_burning_spiritAI", "db/dc8/a11836.html#a52f63423d09794446b0c01da2feb325d", null ],
+    [ "EnterEvadeMode", "db/dc8/a11836.html#a567a7a023bb83a1228bb458ea16ee2fc", null ],
+    [ "IsSummonedBy", "db/dc8/a11836.html#a65ee7b6dd6d4394cc04a6260fc75827e", null ],
+    [ "MovementInform", "db/dc8/a11836.html#a0a02ece5a3ff1eefa30fd27a9cc84d10", null ],
+    [ "_events", "db/dc8/a11836.html#a9af0f46710741bba3d8401d1a1fb0556", null ],
+    [ "_flamelasherGUID", "db/dc8/a11836.html#abfc34e3e45d1e74b328a91f6f8981191", null ]
 ];

@@ -1,6 +1,7 @@
 var a19980 =
 [
-    [ "npc_ulduar_saronite_animusAI", "d2/dab/a19984.html", "d2/dab/a19984" ],
-    [ "npc_ulduar_saronite_animus", "df/d0c/a19980.html#a22d552adc9db3f7d2a533ab7f58a2470", null ],
-    [ "GetAI", "df/d0c/a19980.html#a1fdd851e9d6e399f8f57d063a7dbd6d9", null ]
+    [ "boss_freya_lifebinderAI", "df/d0c/a19980.html#ae421aa209690e4a2908995b6b7d322cd", null ],
+    [ "Reset", "df/d0c/a19980.html#a972bd7d390d444e0ea2bc513d5d3816a", null ],
+    [ "UpdateAI", "df/d0c/a19980.html#afb06c217c1012d6463e44689359eada9", null ],
+    [ "_healTimer", "df/d0c/a19980.html#a7021d13dceb9af343f0e820cf086046e", null ]
 ];

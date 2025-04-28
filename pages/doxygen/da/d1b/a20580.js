@@ -1,9 +1,6 @@
 var a20580 =
 [
-    [ "npc_xt002_pummellerAI", "da/d1b/a20580.html#a2942c05c93036c2e02b9a72c784441b1", null ],
-    [ "Reset", "da/d1b/a20580.html#a6542fb3e585f100f06f6be14a1346306", null ],
-    [ "UpdateAI", "da/d1b/a20580.html#a959990310303ff2102f1c03852b4ab8e", null ],
-    [ "_arcingSmashTimer", "da/d1b/a20580.html#a830fda66756dc3f34a530939116e7556", null ],
-    [ "_trampleTimer", "da/d1b/a20580.html#ae5e450601861f83b20419405bb92ef6d", null ],
-    [ "_uppercutTimer", "da/d1b/a20580.html#a5a1bdb380438070effc091ec37db6aec", null ]
+    [ "boss_thorim_arena_npcsAI", "d0/d44/a20584.html", "d0/d44/a20584" ],
+    [ "boss_thorim_arena_npcs", "da/d1b/a20580.html#a60d22280bb1eb3c9da92deb08e887942", null ],
+    [ "GetAI", "da/d1b/a20580.html#a3709e1c9df32755f5932398ba3535f2f", null ]
 ];

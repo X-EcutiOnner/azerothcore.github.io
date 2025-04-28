@@ -1,6 +1,6 @@
 var a19576 =
 [
-    [ "HandlePeriodic", "d8/d5d/a19576.html#a0a77c0b232e24e5cb8b3392ac8adbd3a", null ],
-    [ "PrepareAuraScript", "d8/d5d/a19576.html#a7c6b6839da4a93f656800c9ae174c832", null ],
-    [ "Register", "d8/d5d/a19576.html#ae28e67baa12488e248efd46ef5a7cb11", null ]
+    [ "boss_algalon_the_observerAI", "de/ddf/a19580.html", "de/ddf/a19580" ],
+    [ "boss_algalon_the_observer", "d8/d5d/a19576.html#a0691b47a116401da58b246203ecba2cb", null ],
+    [ "GetAI", "d8/d5d/a19576.html#a4c30c6ddf8dcbc7c478250846f27a261", null ]
 ];

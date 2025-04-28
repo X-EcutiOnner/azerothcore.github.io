@@ -1,9 +1,7 @@
 var a23892 =
 [
-    [ "npc_fel_guard_houndAI", "da/de4/a23892.html#af8b3a9b56e4bdf8d8b654ecccd096651", null ],
-    [ "MovementInform", "da/de4/a23892.html#a127a0d7b61fde64c0ced52192f438f12", null ],
-    [ "Reset", "da/de4/a23892.html#ab979c3602897b1148ffd5d4a81941197", null ],
-    [ "UpdateAI", "da/de4/a23892.html#a97a59eec672d7dfe36264d34b922d0c8", null ],
-    [ "checkTimer", "da/de4/a23892.html#ad22bb6efafb4396cd0137c1384240029", null ],
-    [ "helboarGUID", "da/de4/a23892.html#aadcf9b51dbcaa1e62b6619b89d865814", null ]
+    [ "npc_daranelleAI", "da/de4/a23892.html#a49eeff6e0aea079a0375a92074227d12", null ],
+    [ "JustEngagedWith", "da/de4/a23892.html#aeff39dfd84986186057cdaf7632eed4f", null ],
+    [ "MoveInLineOfSight", "da/de4/a23892.html#a353e27c1485b88f0751a64260898d35b", null ],
+    [ "Reset", "da/de4/a23892.html#a33b2fbec775257e3ba0bebe37fb86349", null ]
 ];

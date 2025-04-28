@@ -1,19 +1,16 @@
 var a10960 =
 [
-    [ "PacketThrottlingMap", "db/de4/a10960.html#aa41dd21032403490c49a400651c98855", null ],
-    [ "Policy", "db/de4/a10960.html#abdee2870dbaa3341ecd6f682f87a63aa", [
-      [ "Process", "db/de4/a10960.html#abdee2870dbaa3341ecd6f682f87a63aaab6ec7abeb6ae29cc35a4b47475e12afe", null ],
-      [ "Kick", "db/de4/a10960.html#abdee2870dbaa3341ecd6f682f87a63aaa3e07960fcc45408894cf1402257bd9fd", null ],
-      [ "Ban", "db/de4/a10960.html#abdee2870dbaa3341ecd6f682f87a63aaa5c664f50adcaaf94d8c8d01b4eb754e9", null ],
-      [ "Log", "db/de4/a10960.html#abdee2870dbaa3341ecd6f682f87a63aaace0be71e33226e4c1db2bcea5959f16b", null ],
-      [ "BlockingThrottle", "db/de4/a10960.html#abdee2870dbaa3341ecd6f682f87a63aaa1974493f69f8fbf2eb0a63a852d132bb", null ],
-      [ "DropPacket", "db/de4/a10960.html#abdee2870dbaa3341ecd6f682f87a63aaa3bd03342168b3845d34fccaf6543c970", null ]
-    ] ],
-    [ "DosProtection", "db/de4/a10960.html#a8e43f21b9c729db604c9afd90f68dc20", null ],
-    [ "DosProtection", "db/de4/a10960.html#a8850d18ae254633f6bde5c85cbcef830", null ],
-    [ "EvaluateOpcode", "db/de4/a10960.html#a575c7bcb895ad0a3d0456f0a99ee5ec7", null ],
-    [ "operator=", "db/de4/a10960.html#a98394089b867ff6e8107b7975a67737d", null ],
-    [ "World", "db/de4/a10960.html#a7b4bcdf992c21ae83363f25df05b1d25", null ],
-    [ "_PacketThrottlingMap", "db/de4/a10960.html#ab74f0cf257d3db9076e3a8771de63eb3", null ],
-    [ "Session", "db/de4/a10960.html#a3f3f5397fb30cdf14141480659b18208", null ]
+    [ "Player", "db/de4/a10960.html#a7f4241aa9ecc051c75f779af132a52ed", null ],
+    [ "WorldSession", "db/de4/a10960.html#a65b5c30bf4f5f118a199e378d903aaf6", null ],
+    [ "CharCount", "db/de4/a10960.html#aad61b8ca0caf09d6b62ee9fffd78cceb", null ],
+    [ "Class", "db/de4/a10960.html#a41e354593f59bc8546688a37c2a5e504", null ],
+    [ "Face", "db/de4/a10960.html#aba49d87691e9d2b10d430450c3f66493", null ],
+    [ "FacialHair", "db/de4/a10960.html#a5a88b2c2556dd1239c417ea4fcc55287", null ],
+    [ "Gender", "db/de4/a10960.html#ac4ed75d1527549051a92cbb958fa8eb4", null ],
+    [ "HairColor", "db/de4/a10960.html#a0ded70bbcf30bba4de4ac0ee88fb6eb6", null ],
+    [ "HairStyle", "db/de4/a10960.html#aa4b2800384a89a5c30c2edb7ff567865", null ],
+    [ "Name", "db/de4/a10960.html#a4f81603fda1ae148e6d6174ea8d861fe", null ],
+    [ "OutfitId", "db/de4/a10960.html#a15baddc70b46d48bd9f128e73aaac606", null ],
+    [ "Race", "db/de4/a10960.html#aeee5ee1a2dc34e1b2ad1f8edd31679ff", null ],
+    [ "Skin", "db/de4/a10960.html#a0fbfb41f3fd0c9d0ba2bfc7f04df648e", null ]
 ];

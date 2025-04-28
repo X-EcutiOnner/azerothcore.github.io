@@ -1,8 +1,12 @@
 var a07364 =
 [
-    [ "NodeId", "d4/d99/a07364.html#a09d4904c622dd7810e154bc0f3bd7eaf", null ],
-    [ "TextAllianceTaken", "d4/d99/a07364.html#a20cb8eaefa0e45b45a57645c62409ba4", null ],
-    [ "TextAssaulted", "d4/d99/a07364.html#a2e49a6d7f8ca935800062d98f1c660de", null ],
-    [ "TextDefended", "d4/d99/a07364.html#a27ee2d5be23a110943438a8888b14202", null ],
-    [ "TextHordeTaken", "d4/d99/a07364.html#a835c00ebdc2fe61f7e7757b0ed26bd1d", null ]
+    [ "CapturePointInfo", "d4/d99/a07364.html#a8bd80d9a019a5579d32051c6c3f91c0b", null ],
+    [ "IsUncontrolled", "d4/d99/a07364.html#a4a4dbb61dd3ae83084ee518830fb7db0", null ],
+    [ "IsUnderControl", "d4/d99/a07364.html#a3f33897525f5104e2e7733dd6247c090", null ],
+    [ "IsUnderControl", "d4/d99/a07364.html#af6b021020b120b87c300981b8bb60992", null ],
+    [ "_areaTrigger", "d4/d99/a07364.html#aca64138e11e9e29a55bfedeee5b7e7ea", null ],
+    [ "_barStatus", "d4/d99/a07364.html#a02da5cc40ac6e97e63380d6f66e10d7e", null ],
+    [ "_ownerTeamId", "d4/d99/a07364.html#a5f0019635c5d05489f1ef97a95a7f01d", null ],
+    [ "_playersCount", "d4/d99/a07364.html#a7316d0eccaa25b9f30a39c48635e4c16", null ],
+    [ "player", "d4/d99/a07364.html#a97c5da6401e8423c1314ad1186e1dfeb", null ]
 ];

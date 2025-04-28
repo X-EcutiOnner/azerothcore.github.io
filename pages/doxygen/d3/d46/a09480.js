@@ -1,16 +1,13 @@
 var a09480 =
 [
-    [ "GuildBankRightsAndSlots", "d3/d46/a09480.html#ae00a8b8f227d7afdcf08847e3787ee0d", null ],
-    [ "GuildBankRightsAndSlots", "d3/d46/a09480.html#af5f0087090a7145a22baa1396822318b", null ],
-    [ "GuildBankRightsAndSlots", "d3/d46/a09480.html#a4bdf40d99704211b9e80b554ebade54f", null ],
-    [ "GetRights", "d3/d46/a09480.html#a19b76bebdb62434191189ba789c2810f", null ],
-    [ "GetSlots", "d3/d46/a09480.html#a51780060b5699bed6b78cc9ba4e95371", null ],
-    [ "GetTabId", "d3/d46/a09480.html#a6ba7c49480a1c5325d3702fb61d397cc", null ],
-    [ "SetGuildMasterValues", "d3/d46/a09480.html#a1399f191b3b0a44dc1e76fc49adc1412", null ],
-    [ "SetRights", "d3/d46/a09480.html#abf4e1f1556554e7f756dc566fbdd7f40", null ],
-    [ "SetSlots", "d3/d46/a09480.html#a8ed33a4e1d2a957d61c5f7556533f225", null ],
-    [ "SetTabId", "d3/d46/a09480.html#abe84f6bcdfd48d70b894470d025f3aae", null ],
-    [ "rights", "d3/d46/a09480.html#a2a8f5acf21828bfa15d0b3dd6874b5cb", null ],
-    [ "slots", "d3/d46/a09480.html#a5a327399d94704bc290199baa21ff8d7", null ],
-    [ "tabId", "d3/d46/a09480.html#ab09825a02a7a21a4915595230d2a5839", null ]
+    [ "GroupReference", "d3/d46/a09480.html#ab1a008e85d413c67696d4d568a98bde7", null ],
+    [ "~GroupReference", "d3/d46/a09480.html#ab586405a850b0985e6b9f08cc6bdf32e", null ],
+    [ "getSubGroup", "d3/d46/a09480.html#a8217ca810bc251005dfe8a2e3b810e1e", null ],
+    [ "next", "d3/d46/a09480.html#a6f8f406f1209dd7060904d40f5424b41", null ],
+    [ "next", "d3/d46/a09480.html#ac913ec0703c28cda068375d01c9cd72d", null ],
+    [ "setSubGroup", "d3/d46/a09480.html#a303caf55ea463398237e6a825f30b143", null ],
+    [ "sourceObjectDestroyLink", "d3/d46/a09480.html#a458157654c27def9b36b68ae099ca7b3", null ],
+    [ "targetObjectBuildLink", "d3/d46/a09480.html#aa7c8acd113fefc7b6d2b9dff94bb047c", null ],
+    [ "targetObjectDestroyLink", "d3/d46/a09480.html#a4c15e8dbb9f990f9ab66c5e1466d0616", null ],
+    [ "iSubGroup", "d3/d46/a09480.html#a528073b16a119cfa81e6f37c6e72cc03", null ]
 ];

@@ -1,8 +1,6 @@
 var a09396 =
 [
-    [ "MostHPMissingGroupInRange", "df/d28/a09396.html#ab7cd80daa30d8a39289c704cc0a2064f", null ],
-    [ "operator()", "df/d28/a09396.html#ad1b4a4894dd652237a7a789ef5619f4b", null ],
-    [ "i_hp", "df/d28/a09396.html#ae61cafc52cb6d33cd78422c41bd3bb08", null ],
-    [ "i_obj", "df/d28/a09396.html#ae0d85f9738301b40c3e950b02ee20026", null ],
-    [ "i_range", "df/d28/a09396.html#a712e9b1ff341ccde4a6d6962ba6002a4", null ]
+    [ "AllFriendlyCreaturesInGrid", "df/d28/a09396.html#a6ad66997d093ffa52e2d80337dcb5460", null ],
+    [ "operator()", "df/d28/a09396.html#aca2b8ed7de69c57bb270e0c663781f97", null ],
+    [ "unit", "df/d28/a09396.html#a3842fa1eceabaa2d40b2bab4393cb431", null ]
 ];

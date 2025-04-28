@@ -1,6 +1,6 @@
 var a21100 =
 [
-    [ "boss_koralonAI", "d3/dea/a21104.html", "d3/dea/a21104" ],
-    [ "boss_koralon", "d6/d6d/a21100.html#a43b9fb1224abeba44080fb02062451b0", null ],
-    [ "GetAI", "d6/d6d/a21100.html#a7afd462b2c43ee088c09fcb7ddcb141d", null ]
+    [ "CalculateAmount", "d6/d6d/a21100.html#a79019ef395c9b66f6a88759b0517005d", null ],
+    [ "PrepareAuraScript", "d6/d6d/a21100.html#a1336ab2b7f560deeeeaaf017578bd524", null ],
+    [ "Register", "d6/d6d/a21100.html#a9bce52699983fe798c903385faa42462", null ]
 ];

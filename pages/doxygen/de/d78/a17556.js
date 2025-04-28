@@ -1,7 +1,6 @@
 var a17556 =
 [
-    [ "DamageGunship", "de/d78/a17556.html#a1dc0145cfff777b18b9241dfc0966f32", null ],
-    [ "PrepareSpellScript", "de/d78/a17556.html#aa698d016ae58d665c081976f20ec0385", null ],
-    [ "Register", "de/d78/a17556.html#ab8836babdea1fd963fdd53415db0a3ba", null ],
-    [ "Validate", "de/d78/a17556.html#ae80cd93b2f01ddb83493f9f818fc0ea1", null ]
+    [ "IgbExplosionCheck", "de/d78/a17556.html#ae67cca111f26a275614810cbe053bcd8", null ],
+    [ "operator()", "de/d78/a17556.html#a28ce6685366e99db2aa1e4022012f943", null ],
+    [ "_source", "de/d78/a17556.html#a413ee8f2218621d274d118aea967dc9b", null ]
 ];

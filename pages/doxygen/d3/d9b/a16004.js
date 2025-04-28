@@ -1,6 +1,7 @@
 var a16004 =
 [
-    [ "HandlePeriodic", "d3/d9b/a16004.html#a7753587518171689f86f3f76269c1b8a", null ],
-    [ "PrepareAuraScript", "d3/d9b/a16004.html#aa73351e7200bee94b0068fb8dabfada5", null ],
-    [ "Register", "d3/d9b/a16004.html#ab126fe8d4387609e8834898c3b3a67ea", null ]
+    [ "npc_orb_carrierAI", "d3/d9b/a16004.html#a2011c247d2157f5f2a06db6e149743e0", null ],
+    [ "DoAction", "d3/d9b/a16004.html#a501d0bdb9d77be1229dadf60d5f8af8c", null ],
+    [ "TriggerCutter", "d3/d9b/a16004.html#a6b6b127db878ca3b79ac8d7aeff4156e", null ],
+    [ "UpdateAI", "d3/d9b/a16004.html#a99a08390fcf2b0a058aee161932392d0", null ]
 ];

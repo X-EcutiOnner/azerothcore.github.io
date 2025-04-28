@@ -1,14 +1,18 @@
 var a24016 =
 [
-    [ "npc_mature_netherwing_drakeAI", "d1/df4/a24016.html#a32281f8dfa1c8af8fe6bcac2a8be4220", null ],
-    [ "JustReachedHome", "d1/df4/a24016.html#a0de69b5fda6342217697ad264d64d4e6", null ],
-    [ "MovementInform", "d1/df4/a24016.html#a456b5de60672120f82506d177faf6b47", null ],
-    [ "Reset", "d1/df4/a24016.html#a72eb39e259aed0ab230d4d43722cba13", null ],
-    [ "SpellHit", "d1/df4/a24016.html#a749690b386c0c726d11b77bc705b9b01", null ],
-    [ "UpdateAI", "d1/df4/a24016.html#a624c256f29d3cefed0bb909da3841853", null ],
-    [ "bCanEat", "d1/df4/a24016.html#ad4c671be4f16f23ddf2f2f84b0bd4c94", null ],
-    [ "bIsEating", "d1/df4/a24016.html#a0519438fda724a06a0c6f8ed2d7d533d", null ],
-    [ "CastTimer", "d1/df4/a24016.html#a630312f70a2f22683311a66e5a4f9ec6", null ],
-    [ "EatTimer", "d1/df4/a24016.html#aa50d3a21103dc769d162b1c917100630", null ],
-    [ "uiPlayerGUID", "d1/df4/a24016.html#a6b9a435245ddce156d0657aa9e35175b", null ]
+    [ "npc_commander_dawnforgeAI", "d1/df4/a24016.html#a70ff1a69374b62bf6aadf1bfabe8bdb3", null ],
+    [ "CanStartEvent", "d1/df4/a24016.html#afb3eb981fe7e7cdcd0caca8f7d7c14f9", null ],
+    [ "JustEngagedWith", "d1/df4/a24016.html#affa24c62af088b4b216aaa4789f6a40e", null ],
+    [ "JustSummoned", "d1/df4/a24016.html#a76bfbed03ad9f83b953da5f53aa45b73", null ],
+    [ "Reset", "d1/df4/a24016.html#af57a218b98606c273ee3eba5d661d5d1", null ],
+    [ "Turn_to_eachother", "d1/df4/a24016.html#a7442d526cc09f98a3cd53749e09fb6f0", null ],
+    [ "Turn_to_Pathaleons_Image", "d1/df4/a24016.html#a88cca74225a0099c85bb661c7f2ad382", null ],
+    [ "UpdateAI", "d1/df4/a24016.html#ae4ca305e3067cbdb2771d6a9e858f191", null ],
+    [ "ardonisGUID", "d1/df4/a24016.html#ad0f1b869b85c8a94e84be5714a191cab", null ],
+    [ "isEvent", "d1/df4/a24016.html#a93cf7cfcf3197543c3878278d99ff980", null ],
+    [ "pathaleonGUID", "d1/df4/a24016.html#a9b20a0ad46dc0be2fe1a65072eb3477a", null ],
+    [ "Phase", "d1/df4/a24016.html#a1a440773676ab7e2cd416eba70c90d74", null ],
+    [ "Phase_Timer", "d1/df4/a24016.html#a798cf4bf43df377f764dac07c13bc676", null ],
+    [ "PhaseSubphase", "d1/df4/a24016.html#ae8f5216936ce3a3b5aa9d5b773521523", null ],
+    [ "PlayerGUID", "d1/df4/a24016.html#ab6c0afdc952c048efeea9d665075c54f", null ]
 ];

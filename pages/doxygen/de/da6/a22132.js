@@ -1,6 +1,8 @@
 var a22132 =
 [
-    [ "npc_roxi_ramrocket", "de/da6/a22132.html#af7f6bf6d5f8fc468abe62605f205571b", null ],
-    [ "OnGossipHello", "de/da6/a22132.html#adec28f778921246c56f11d09753e566e", null ],
-    [ "OnGossipSelect", "de/da6/a22132.html#a46a9898cb4b29808f9e911c03b5759cb", null ]
+    [ "CheckCast", "de/da6/a22132.html#ab1584c391ac81b8338387acc6187001f", null ],
+    [ "HandleDummy", "de/da6/a22132.html#abe856e2c3b986eeac0c1a62aa301eb6d", null ],
+    [ "PrepareSpellScript", "de/da6/a22132.html#a08d9ffb7dcbe786071979166e0489336", null ],
+    [ "Register", "de/da6/a22132.html#a5f0bbd57f3cbc0d0de3d8830dd4e6f2b", null ],
+    [ "Validate", "de/da6/a22132.html#a82d931b4a15f6a60c27d932e8188ef78", null ]
 ];

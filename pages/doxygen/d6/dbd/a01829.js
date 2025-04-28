@@ -1,19 +1,15 @@
 var a01829 =
 [
-    [ "GuildScript", "d0/d60/a10285.html", "d0/d60/a10285" ],
-    [ "GuildHook", "d6/dbd/a01829.html#a5cb9f5f21f7f7d0e793d70058163507e", [
-      [ "GUILDHOOK_ON_ADD_MEMBER", "d6/dbd/a01829.html#a5cb9f5f21f7f7d0e793d70058163507eae55dad40010dcbf6c50672cae2f0106d", null ],
-      [ "GUILDHOOK_ON_REMOVE_MEMBER", "d6/dbd/a01829.html#a5cb9f5f21f7f7d0e793d70058163507eac79cc93d3ab4677a9801e213686e2b51", null ],
-      [ "GUILDHOOK_ON_MOTD_CHANGED", "d6/dbd/a01829.html#a5cb9f5f21f7f7d0e793d70058163507ea909770c2a1fe124c3fa21f83ff55c0d5", null ],
-      [ "GUILDHOOK_ON_INFO_CHANGED", "d6/dbd/a01829.html#a5cb9f5f21f7f7d0e793d70058163507eaf9949399a22fa1e1ed088bfa6952d23f", null ],
-      [ "GUILDHOOK_ON_CREATE", "d6/dbd/a01829.html#a5cb9f5f21f7f7d0e793d70058163507ea9d64b482c3d8be9681ab83722c84316e", null ],
-      [ "GUILDHOOK_ON_DISBAND", "d6/dbd/a01829.html#a5cb9f5f21f7f7d0e793d70058163507eac23a3058a5a051613b6970bad9a38f58", null ],
-      [ "GUILDHOOK_ON_MEMBER_WITDRAW_MONEY", "d6/dbd/a01829.html#a5cb9f5f21f7f7d0e793d70058163507ea3a78e5195fdbecb916d9f9510175381b", null ],
-      [ "GUILDHOOK_ON_MEMBER_DEPOSIT_MONEY", "d6/dbd/a01829.html#a5cb9f5f21f7f7d0e793d70058163507ea2663578fa69784d19d4833584d1a1fdc", null ],
-      [ "GUILDHOOK_ON_ITEM_MOVE", "d6/dbd/a01829.html#a5cb9f5f21f7f7d0e793d70058163507ea6ef9bfbc009fd877098120f95d6a3fa8", null ],
-      [ "GUILDHOOK_ON_EVENT", "d6/dbd/a01829.html#a5cb9f5f21f7f7d0e793d70058163507eac20b467223e978c03559c967fec760a7", null ],
-      [ "GUILDHOOK_ON_BANK_EVENT", "d6/dbd/a01829.html#a5cb9f5f21f7f7d0e793d70058163507eaa5be911ea4c307508ba407ac09cd82d9", null ],
-      [ "GUILDHOOK_CAN_GUILD_SEND_BANK_LIST", "d6/dbd/a01829.html#a5cb9f5f21f7f7d0e793d70058163507eaec99ae82238d8260ba512b23abc70b5b", null ],
-      [ "GUILDHOOK_END", "d6/dbd/a01829.html#a5cb9f5f21f7f7d0e793d70058163507ea85e0e175b03a5491dec2498ff4c415bb", null ]
-    ] ]
+    [ "boss_hydromancer_thespia", "d2/d16/a23276.html", "d2/d16/a23276" ],
+    [ "HydromancerThespia", "d6/dbd/a01829.html#a3f4b673ff8add0ad1c96080f6252130d", [
+      [ "SAY_SUMMON", "d6/dbd/a01829.html#a3f4b673ff8add0ad1c96080f6252130dacebbfa1f13b8de4f039f5d550063c7bf", null ],
+      [ "SAY_AGGRO", "d6/dbd/a01829.html#a3f4b673ff8add0ad1c96080f6252130da47c752fff069f3e55065795eef2a9bfe", null ],
+      [ "SAY_SLAY", "d6/dbd/a01829.html#a3f4b673ff8add0ad1c96080f6252130da9e64f6e600dd42567d18006912811f75", null ],
+      [ "SAY_DEAD", "d6/dbd/a01829.html#a3f4b673ff8add0ad1c96080f6252130dafeeb59e6533ea7f2f818422052e0b671", null ],
+      [ "SAY_SPELL", "d6/dbd/a01829.html#a3f4b673ff8add0ad1c96080f6252130dad25383e2c00eeae2e4b15e33298d79a2", null ],
+      [ "SPELL_LIGHTNING_CLOUD", "d6/dbd/a01829.html#a3f4b673ff8add0ad1c96080f6252130dae91e1d3d8c305d3f37313774206628f2", null ],
+      [ "SPELL_LUNG_BURST", "d6/dbd/a01829.html#a3f4b673ff8add0ad1c96080f6252130da56e2d21d9894c6b11ae15da9572894c6", null ],
+      [ "SPELL_ENVELOPING_WINDS", "d6/dbd/a01829.html#a3f4b673ff8add0ad1c96080f6252130dacf98b779c795324d47e44b043eeacf92", null ]
+    ] ],
+    [ "AddSC_boss_hydromancer_thespia", "d6/dbd/a01829.html#a0a9bb9014bd5526d13141dcef207c234", null ]
 ];

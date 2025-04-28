@@ -1,10 +1,9 @@
 var a12472 =
 [
-    [ "instance_deadmines_InstanceMapScript", "d2/d6d/a12472.html#afa12491c1b276d0d643822da562320c3", null ],
-    [ "GetSaveData", "d2/d6d/a12472.html#a775c7d564b931e157a32b0909efed859", null ],
-    [ "Initialize", "d2/d6d/a12472.html#a8b8bca7a1d7880bc53b8002934ceeb7a", null ],
-    [ "Load", "d2/d6d/a12472.html#afff7e04cc632e2d4ddb438d03e561560", null ],
-    [ "OnGameObjectCreate", "d2/d6d/a12472.html#a095202af8915f8a1d8888c045e18d6c4", null ],
-    [ "SetData", "d2/d6d/a12472.html#a8cd5bf5302b1a7221c69dd9fdc9518dc", null ],
-    [ "_encounters", "d2/d6d/a12472.html#a01d69e135cbd2dd885dfc84c98ed8be1", null ]
+    [ "npc_mc_core_houndAI", "d2/d6d/a12472.html#a9b07d662e32a342419a848ecd59d6391", null ],
+    [ "DamageTaken", "d2/d6d/a12472.html#aaf2b0ac9b723bb16bfaf8481165e6b4f", null ],
+    [ "Reset", "d2/d6d/a12472.html#a9f4b06230ae2e4fc2fe150eb9e9d1f12", null ],
+    [ "UpdateAI", "d2/d6d/a12472.html#aaba8ef0b33b9bb9acf74223ef0e9aaad", null ],
+    [ "instance", "d2/d6d/a12472.html#ab47451dfeff84c8467be2b76554df897", null ],
+    [ "serratedBiteTimer", "d2/d6d/a12472.html#a3a49df32c788497d3e82912d423683b7", null ]
 ];

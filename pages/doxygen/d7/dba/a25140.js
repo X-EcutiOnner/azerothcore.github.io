@@ -1,7 +1,7 @@
 var a25140 =
 [
-    [ "HandleDamage", "d7/dba/a25140.html#a9c9bbe49388cf5d04650572fdf789e5e", null ],
-    [ "PrepareSpellScript", "d7/dba/a25140.html#ac89a628f1aba54aa2ade876a4f7911b8", null ],
-    [ "Register", "d7/dba/a25140.html#a627bffccdd78c00f0f5a4241f36aeec8", null ],
-    [ "Validate", "d7/dba/a25140.html#aed63b40f8e2cc6fd32dd536a2d56c7c3", null ]
+    [ "PrepareSpellScript", "d7/dba/a25140.html#a65d5717a25e371e09c44148c679dd390", null ],
+    [ "Register", "d7/dba/a25140.html#afb5f3560c022a8ef659d82cf24a46d8a", null ],
+    [ "RemoveInvalidTargets", "d7/dba/a25140.html#a53262865dfa222de1d020f8c7cbf15fd", null ],
+    [ "Validate", "d7/dba/a25140.html#a27ee4f0e6d14d15e5da2119c2bc49516", null ]
 ];

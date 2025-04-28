@@ -1,6 +1,6 @@
 var a22944 =
 [
-    [ "boss_doomlordkazzakAI", "d0/dde/a22948.html", "d0/dde/a22948" ],
-    [ "boss_doomlord_kazzak", "d5/d7d/a22944.html#ae4e4844d584ba71ebd3d8a341ba91462", null ],
-    [ "GetAI", "d5/d7d/a22944.html#a460a32ce37aae852b48f1990406da9a4", null ]
+    [ "instance_black_temple_InstanceMapScript", "d0/dde/a22948.html", "d0/dde/a22948" ],
+    [ "instance_black_temple", "d5/d7d/a22944.html#a2efd6c7fff15c8fd03652ef9a65088eb", null ],
+    [ "GetInstanceScript", "d5/d7d/a22944.html#a947a1279eabde75d9884b1ef84b295a3", null ]
 ];

@@ -1,5 +1,6 @@
 var a26868 =
 [
-    [ "achievement_sickly_gazelle", "d5/dcc/a26868.html#abb613cb222c727923c4c5ce843db3a5f", null ],
-    [ "OnCheck", "d5/dcc/a26868.html#a5a4fcd30c92c10a9c0fb8fc1372f3857", null ]
+    [ "CalculateAmount", "d5/dcc/a26868.html#a94b6fab25e8cb298650f2a1e2d0b4347", null ],
+    [ "PrepareAuraScript", "d5/dcc/a26868.html#a845476e27b3751fd5aab505d41d8696d", null ],
+    [ "Register", "d5/dcc/a26868.html#aa5141f11bcd97cc501297a5309df1079", null ]
 ];

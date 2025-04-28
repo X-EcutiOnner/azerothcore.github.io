@@ -1,12 +1,11 @@
 var a22584 =
 [
-    [ "npc_maiev_illidan", "d0/db8/a22584.html#a0d19d9bb58c44662cdfb66a8fe373a60", null ],
-    [ "DamageTaken", "d0/db8/a22584.html#a780cc558c483efa3293d798cc6048a33", null ],
-    [ "DoAction", "d0/db8/a22584.html#a53607a158edf8fd772908b5d7af6edf1", null ],
-    [ "IsSummonedBy", "d0/db8/a22584.html#a1bf4f2f29132c5132e7903d089ace6e2", null ],
-    [ "JustEngagedWith", "d0/db8/a22584.html#ad1728d7d8b1b5f9db8db4d811c2ba630", null ],
-    [ "Reset", "d0/db8/a22584.html#a100db757c89634a58b9382216e2791ec", null ],
-    [ "SpellHit", "d0/db8/a22584.html#aa4d6626d6130a88519f86cfe70d9fb95", null ],
-    [ "UpdateAI", "d0/db8/a22584.html#a269e4a8f79b508e2da61cd5e2dc34664", null ],
-    [ "instance", "d0/db8/a22584.html#ad41b6deb9406232629ad60ba66cfac6b", null ]
+    [ "boss_blackheart_the_inciter", "d0/db8/a22584.html#a772b2b4574fa6ccd445924193985859b", null ],
+    [ "EnterEvadeMode", "d0/db8/a22584.html#aaf2c9d37b0af1db1d35af01923eca45b", null ],
+    [ "JustDied", "d0/db8/a22584.html#a1e7ca1ade637766d4c6039c50e9c85f7", null ],
+    [ "JustEngagedWith", "d0/db8/a22584.html#abeb0cc4ff2543531f7a7c7993559f1cb", null ],
+    [ "KilledUnit", "d0/db8/a22584.html#ad7de71ea14e5be6e2b126edde1c78ab6", null ],
+    [ "Reset", "d0/db8/a22584.html#add75633d1c04d0be91e7e80f28213917", null ],
+    [ "UpdateAI", "d0/db8/a22584.html#a0648c4bbabf30efd706b973bf8028dbb", null ],
+    [ "InciteChaos", "d0/db8/a22584.html#a640c5301b22a0bfef2c4bcac4556a992", null ]
 ];

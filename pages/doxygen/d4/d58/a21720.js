@@ -1,6 +1,6 @@
 var a21720 =
 [
-    [ "HandleDummy", "d4/d58/a21720.html#afe86744c6ab901750731fca486ff2e6c", null ],
-    [ "PrepareSpellScript", "d4/d58/a21720.html#a47e8a3187fa523c61842885f1cbd041d", null ],
-    [ "Register", "d4/d58/a21720.html#a61b1b63167b3dc562b9916ffce1e4eee", null ]
+    [ "SACActivateEvent", "d4/d58/a21720.html#a7e5ba22c5500337f14ae067e2b404c5a", null ],
+    [ "Execute", "d4/d58/a21720.html#ad3e4092941e8cd8953fdc251e97c458a", null ],
+    [ "_owner", "d4/d58/a21720.html#ae930bd1f603ea296c5ccabd6fbd299f8", null ]
 ];

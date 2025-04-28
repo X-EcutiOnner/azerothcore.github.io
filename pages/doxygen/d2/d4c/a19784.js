@@ -1,6 +1,5 @@
 var a19784 =
 [
-    [ "npc_storm_beacon_spawnAI", "d6/d65/a19788.html", "d6/d65/a19788" ],
-    [ "npc_storm_beacon_spawn", "d2/d4c/a19784.html#a0316646f43fd0ed6fe4576bf691116a0", null ],
-    [ "GetAI", "d2/d4c/a19784.html#a780dd823962e259dbeda7089224aa23e", null ]
+    [ "boss_flame_leviathan_overload_deviceAI", "d2/d4c/a19784.html#ab28c1371c20672e717f92fbc3656fb99", null ],
+    [ "OnSpellClick", "d2/d4c/a19784.html#af432be27e1b91ecf5a5a53c7b6add39e", null ]
 ];

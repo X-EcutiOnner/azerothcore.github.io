@@ -1,9 +1,7 @@
 var a24316 =
 [
-    [ "npc_pet_shaman_fire_elemental", "d4/d1e/a24316.html#a3428642963fc9e7588ec92fd838f1af9", null ],
-    [ "InitializeAI", "d4/d1e/a24316.html#aef4865f83ce0c73efe0c47a11ac87594", null ],
-    [ "JustEngagedWith", "d4/d1e/a24316.html#ac274b9edb03ab13a8e95d8c4fe5055db", null ],
-    [ "UpdateAI", "d4/d1e/a24316.html#a2280e5cc5187a91917a1e517e80e960d", null ],
-    [ "_events", "d4/d1e/a24316.html#aa4578cdbe41d28e399247c84c9fe8049", null ],
-    [ "_initAttack", "d4/d1e/a24316.html#a2df79acc05dd8489e9e994e044b45404", null ]
+    [ "npc_pet_gen_target_following_bomb", "d4/d1e/a24316.html#a447c2cd258d784ca1d79c79412a1a426", null ],
+    [ "UpdateAI", "d4/d1e/a24316.html#ac68f18d68a313623c04e885f9506f287", null ],
+    [ "bombSpellId", "d4/d1e/a24316.html#a3c72bd26c66d3e7a85f3152557e399c4", null ],
+    [ "checkTimer", "d4/d1e/a24316.html#a694ee5f884f1bd404f0ef3d3030a212f", null ]
 ];

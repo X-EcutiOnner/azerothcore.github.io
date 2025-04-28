@@ -1,6 +1,6 @@
 var a21744 =
 [
-    [ "npc_mrfloppyAI", "d0/d0b/a21748.html", "d0/d0b/a21748" ],
-    [ "npc_mrfloppy", "dd/d2d/a21744.html#a0515ca75aba9b7f6f5577b53e7520f6e", null ],
-    [ "GetAI", "dd/d2d/a21744.html#a88590566309f3fc155eb6dc26055a161", null ]
+    [ "npc_q24545_vegard_dummyAI", "d0/d0b/a21748.html", "d0/d0b/a21748" ],
+    [ "npc_q24545_vegard_dummy", "dd/d2d/a21744.html#a12363e26a720ae33b6cde0f44aec3adf", null ],
+    [ "GetAI", "dd/d2d/a21744.html#a201d1dec206887c26e33f795a0fd0887", null ]
 ];

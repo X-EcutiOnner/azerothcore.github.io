@@ -1,8 +1,6 @@
 var a25984 =
 [
-    [ "CheckCast", "da/da3/a25984.html#a0d7910cd2b9d9f4174575532502d40f9", null ],
-    [ "HandleDummy", "da/da3/a25984.html#a1eac1eb5f39093ff48942e82728478dd", null ],
-    [ "PrepareSpellScript", "da/da3/a25984.html#adbb58b75232560d101b291c0d99a2a20", null ],
-    [ "Register", "da/da3/a25984.html#a6acb46e81171e13f50ac1f01bf83013b", null ],
-    [ "Validate", "da/da3/a25984.html#a4b67c348685a8094668e4ed2f0c78446", null ]
+    [ "CheckProc", "da/da3/a25984.html#a0f1461140b08deac3f044142067368e7", null ],
+    [ "PrepareAuraScript", "da/da3/a25984.html#a04e0ebe416e94912d7f1ec529da7980d", null ],
+    [ "Register", "da/da3/a25984.html#a05e31c2252c9054a18b4267be84895b9", null ]
 ];

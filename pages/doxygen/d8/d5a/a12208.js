@@ -1,9 +1,7 @@
 var a12208 =
 [
-    [ "FilterTargets", "d8/d5a/a12208.html#ae1029dd58a48c099e8bbd071898f1b12", null ],
-    [ "HandleOnHitRogue", "d8/d5a/a12208.html#a57cd6d2c45a9a73bb284272db21d1fce", null ],
-    [ "HandleOnHitWarlock", "d8/d5a/a12208.html#a76f9e5e11a6f2e25868dba567d798002", null ],
-    [ "PrepareSpellScript", "d8/d5a/a12208.html#a4792a25aa6fe6126a94900784798dbee", null ],
-    [ "Register", "d8/d5a/a12208.html#a0f6146c64a86e953c042f8404bbfe683", null ],
-    [ "Validate", "d8/d5a/a12208.html#af65d372cdbb365eff73edb8cf18734c8", null ]
+    [ "ClassCallSelector", "d8/d5a/a12208.html#a223895c97121b0727aac258c12c89e0b", null ],
+    [ "operator()", "d8/d5a/a12208.html#ab0d2ab1d94d72c6a202ed0cb2900dd2e", null ],
+    [ "_me", "d8/d5a/a12208.html#a5347a24609a21ae0a342682104b1dc14", null ],
+    [ "_targetClass", "d8/d5a/a12208.html#a7ce861956ec8d216d2f8cba82c69ea50", null ]
 ];

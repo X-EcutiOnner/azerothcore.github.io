@@ -1,15 +1,17 @@
 var a11124 =
 [
-    [ "AttributesMask", "d9/de5/a11124.html#a7cc9dfa91e034f5052ebd3bf8eaea42a", null ],
-    [ "Chance", "d9/de5/a11124.html#aea5ca609c75ea7b314aec8ae0246297e", null ],
-    [ "Charges", "d9/de5/a11124.html#a75f0484dad60eec59b399a188fd9908f", null ],
-    [ "Cooldown", "d9/de5/a11124.html#a4e6185aea35599a3efc2e806145cb1d2", null ],
-    [ "HitMask", "d9/de5/a11124.html#a8ac3331576b4eb761157fa3d0d622bea", null ],
-    [ "ProcFlags", "d9/de5/a11124.html#a9e5de790c4f61537397a1ce2bce8a9b0", null ],
-    [ "ProcsPerMinute", "d9/de5/a11124.html#a3815765c08f6b95cae6efb93fa98623b", null ],
-    [ "SchoolMask", "d9/de5/a11124.html#acf72c4a783235770bbff952bdc002324", null ],
-    [ "SpellFamilyMask", "d9/de5/a11124.html#a8688e9282cb78d4f24b310cc2521c22b", null ],
-    [ "SpellFamilyName", "d9/de5/a11124.html#a2cb738b0d4579503fcb9bca7988f7e36", null ],
-    [ "SpellPhaseMask", "d9/de5/a11124.html#ab4c4bfa1493a7a5924d3cd094127f973", null ],
-    [ "SpellTypeMask", "d9/de5/a11124.html#a99e20d3979a532e1ca90ee83edcff3eb", null ]
+    [ "StaticData", "d4/d4b/a11128.html", "d4/d4b/a11128" ],
+    [ "SpellImplicitTargetInfo", "d9/de5/a11124.html#a6eadac193f40d3a14db74d6e07552bdb", null ],
+    [ "SpellImplicitTargetInfo", "d9/de5/a11124.html#a8e746c8dd4956a1bedc78c932740dfca", null ],
+    [ "CalcDirectionAngle", "d9/de5/a11124.html#ac726d7df6103bc991e650c5d221ec4cc", null ],
+    [ "GetCheckType", "d9/de5/a11124.html#a1822c2908aff0701ab6e56ccf1c83a83", null ],
+    [ "GetDirectionType", "d9/de5/a11124.html#a094f5c6bc82196355aeded09cb469b7c", null ],
+    [ "GetExplicitTargetMask", "d9/de5/a11124.html#ad368870f99d85f27ae2a15ee75b4b5dd", null ],
+    [ "GetObjectType", "d9/de5/a11124.html#a964c185b1d3ed3563c6efa68e8bf9f42", null ],
+    [ "GetReferenceType", "d9/de5/a11124.html#a59769a12291673682e1b5c3650e8aff7", null ],
+    [ "GetSelectionCategory", "d9/de5/a11124.html#a5dd39484ccfed1e34b27d957614b45e6", null ],
+    [ "GetTarget", "d9/de5/a11124.html#ae5a138c973300efce4744ea260108097", null ],
+    [ "IsArea", "d9/de5/a11124.html#a263a4660dfdf8b77f69e5475048b414b", null ],
+    [ "_data", "d9/de5/a11124.html#a1a05bbd8400ec4451ca34b2754e056e9", null ],
+    [ "_target", "d9/de5/a11124.html#ab2cec29c53f0b9bc6a016ce177f97c1d", null ]
 ];

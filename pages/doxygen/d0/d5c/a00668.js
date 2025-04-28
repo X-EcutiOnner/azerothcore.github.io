@@ -1,6 +1,5 @@
 var a00668 =
 [
-    [ "MAX_QUIET_DISTANCE", "d0/d5c/a00668.html#a9738c927d0a0b9da431824ab69a5988a", null ],
-    [ "MIN_PATH_LENGTH", "d0/d5c/a00668.html#aa1f2b73706ddb69d07dbdc87257f010f", null ],
-    [ "MIN_QUIET_DISTANCE", "d0/d5c/a00668.html#ad1ba65a06a9ac4ab2293efde8be35403", null ]
+    [ "cache_commandscript", "dc/dca/a11552.html", "dc/dca/a11552" ],
+    [ "AddSC_cache_commandscript", "d0/d5c/a00668.html#a293f65606c1750692d4046d4fe4c4adc", null ]
 ];

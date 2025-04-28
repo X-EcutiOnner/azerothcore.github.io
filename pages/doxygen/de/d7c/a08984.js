@@ -1,13 +1,17 @@
 var a08984 =
 [
-    [ "QuestPOI", "de/d7c/a08984.html#af4ce75549d1fff2042e98683119214a6", null ],
-    [ "QuestPOI", "de/d7c/a08984.html#a4cf252fabc68cf11df5d44f192955a0b", null ],
-    [ "AreaId", "de/d7c/a08984.html#ad81f08fa2bc5fd0ccd81d0efc42ce804", null ],
-    [ "FloorId", "de/d7c/a08984.html#a1af6ed9fdb9ff429e18fb5d98a42ce45", null ],
-    [ "Id", "de/d7c/a08984.html#aace0de15249c756ba3cbd5763cbb3f98", null ],
-    [ "MapId", "de/d7c/a08984.html#a851f8e6e62373d2592173534754d757b", null ],
-    [ "ObjectiveIndex", "de/d7c/a08984.html#ad80f65110beacd44e667008387e6bb70", null ],
-    [ "points", "de/d7c/a08984.html#aeb505cb061a00ecaa2acc749e391f207", null ],
-    [ "Unk3", "de/d7c/a08984.html#a1f1d8fa843c856b54ec1ca85b08d78e1", null ],
-    [ "Unk4", "de/d7c/a08984.html#aa8089160bb8e93ea79df96b956050b70", null ]
+    [ "ActionMenuID", "de/d7c/a08984.html#a486f9af68a02ae52d51772a3421db377", null ],
+    [ "ActionPoiID", "de/d7c/a08984.html#a9a20a64e29d0464c40f57286b9c1804d", null ],
+    [ "BoxBroadcastTextID", "de/d7c/a08984.html#a12882942190a9a568b9dc30214ee6a88", null ],
+    [ "BoxCoded", "de/d7c/a08984.html#a4f7ba04e2d1078909d9587569504f4cd", null ],
+    [ "BoxMoney", "de/d7c/a08984.html#ab00c368181ccaba98e878d49de6138e2", null ],
+    [ "BoxText", "de/d7c/a08984.html#ad794b3c4e84dedce43ff2c80d3c38d4a", null ],
+    [ "Conditions", "de/d7c/a08984.html#aa1632404bbc869b17dab8833f660c52b", null ],
+    [ "MenuID", "de/d7c/a08984.html#a6e5b1b2c86bd05b81626a7230349be9a", null ],
+    [ "OptionBroadcastTextID", "de/d7c/a08984.html#af8af4b4c27405908482db73797cd2d49", null ],
+    [ "OptionIcon", "de/d7c/a08984.html#a0b73f7ce36e7703725e6b0d01c2a4564", null ],
+    [ "OptionID", "de/d7c/a08984.html#adf2a8d247a88a062a75eb726dd43d019", null ],
+    [ "OptionNpcFlag", "de/d7c/a08984.html#a6f41e9adfcb11adabdd79b55c1d47bfc", null ],
+    [ "OptionText", "de/d7c/a08984.html#a2606ac76a4f3607e45676ed3f1df3a83", null ],
+    [ "OptionType", "de/d7c/a08984.html#af53a42c8d4ec23be46dfdb16abc9c4ff", null ]
 ];

@@ -1,6 +1,5 @@
 var a18772 =
 [
-    [ "npc_ioc_gunship_captainAI", "d6/deb/a18776.html", "d6/deb/a18776" ],
-    [ "npc_ioc_gunship_captain", "d2/d5b/a18772.html#a6463d7bc12d5fe4fc8921ba5916ec906", null ],
-    [ "GetAI", "d2/d5b/a18772.html#a43f3ce178df31fbf693acbfa8c32a339", null ]
+    [ "at_icc_spire_frostwyrm", "d2/d5b/a18772.html#ac3da2c0bc3e8b1c31832fcbb4e8ceae8", null ],
+    [ "_OnTrigger", "d2/d5b/a18772.html#a67e320fb8ada7cb2c87f5944395fa174", null ]
 ];

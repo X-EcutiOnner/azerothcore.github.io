@@ -1,6 +1,7 @@
 var a20276 =
 [
-    [ "npc_ulduar_aerial_command_unitAI", "dc/da0/a20280.html", "dc/da0/a20280" ],
-    [ "npc_ulduar_aerial_command_unit", "d7/d49/a20276.html#ac0c1ecef78b92dd4ae072f6eeca9f733", null ],
-    [ "GetAI", "d7/d49/a20276.html#a406e828a902d75bb1946fd8f5090044f", null ]
+    [ "FilterTargetsInitial", "d7/d49/a20276.html#a2477349cffb8da02936545ba0bd03d0f", null ],
+    [ "Load", "d7/d49/a20276.html#a4606d10a2699e3fb5290cefdc0876505", null ],
+    [ "PrepareSpellScript", "d7/d49/a20276.html#aa28f3565bddf70b98c945be7a7a37bad", null ],
+    [ "Register", "d7/d49/a20276.html#ae9bbe2d4ce5413f040b8b5f73f985822", null ]
 ];

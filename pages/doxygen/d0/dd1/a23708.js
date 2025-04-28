@@ -1,8 +1,6 @@
 var a23708 =
 [
-    [ "HandleScriptEffect", "d0/dd1/a23708.html#a7cde39fc0844f19604c8026a853e8216", null ],
-    [ "Load", "d0/dd1/a23708.html#a5d3eb86208c4aa9c6592349d28c5df79", null ],
-    [ "PrepareSpellScript", "d0/dd1/a23708.html#a962de50d1fa35ca16b4753f55e5cbd47", null ],
-    [ "Register", "d0/dd1/a23708.html#aee6bd90e8b39132d4b53b67c22d6c331", null ],
-    [ "_currentSpellId", "d0/dd1/a23708.html#a0ad25535ba345fe9672150af67687305", null ]
+    [ "OnApply", "d0/dd1/a23708.html#a472220f22165c6d21eab5f4b5f75921e", null ],
+    [ "PrepareAuraScript", "d0/dd1/a23708.html#a12dba24d5aa3d41671980d8dd509d6f2", null ],
+    [ "Register", "d0/dd1/a23708.html#aa8530071a4053e6c6f8b194a9cc723e2", null ]
 ];

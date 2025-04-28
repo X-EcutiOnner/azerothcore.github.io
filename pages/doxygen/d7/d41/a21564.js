@@ -1,7 +1,6 @@
 var a21564 =
 [
-    [ "npc_cosmetic_toy_plane", "d7/d41/a21564.html#a71b7df4d5f78768d9e47f41ba78b93d2", null ],
-    [ "Reset", "d7/d41/a21564.html#aa66f2e16ce6c4e5dd7399b48bd5bc203", null ],
-    [ "UpdateAI", "d7/d41/a21564.html#a41d62b314510fbd6637d8eddbea16f96", null ],
-    [ "_movementArray", "d7/d41/a21564.html#a5a85278bc14a0e3158dc3fa8abcc8392", null ]
+    [ "npc_steam_powered_auctioneerAI", "d9/dae/a21568.html", "d9/dae/a21568" ],
+    [ "npc_steam_powered_auctioneer", "d7/d41/a21564.html#ae8c918c639ce0c3ddc14b8cf7f0ef855", null ],
+    [ "GetAI", "d7/d41/a21564.html#a39a2f0c187078c759bc4a391e0a81068", null ]
 ];

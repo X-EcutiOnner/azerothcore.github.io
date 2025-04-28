@@ -1,6 +1,10 @@
 var a14560 =
 [
-    [ "boss_infinite_corruptorAI", "d2/dfb/a14564.html", "d2/dfb/a14564" ],
-    [ "boss_infinite_corruptor", "d2/d4d/a14560.html#a78a939073ab44b818cefdb25419f92be", null ],
-    [ "GetAI", "d2/d4d/a14560.html#ab6eaf2f9d1928817e45b092a3a87bda4", null ]
+    [ "hyjalJainaAI", "d2/d4d/a14560.html#aa7532b691e85fd9bd467e20db39c59da", null ],
+    [ "IsSummonedBy", "d2/d4d/a14560.html#a5003e3a1ccb955b209c1ab91a49d217f", null ],
+    [ "JustDied", "d2/d4d/a14560.html#a605687080e5149b3f08ce8349ba9b336", null ],
+    [ "JustEngagedWith", "d2/d4d/a14560.html#a187efe775b1e2a35637638507e77352e", null ],
+    [ "PathEndReached", "d2/d4d/a14560.html#a0f7dd1512694d284c1f83b3403c421e6", null ],
+    [ "Reset", "d2/d4d/a14560.html#a585baff53f5d57ca0dc9002181e8d2bc", null ],
+    [ "UpdateAI", "d2/d4d/a14560.html#ac86fb8a5a55654ff7697abd9162135c1", null ]
 ];

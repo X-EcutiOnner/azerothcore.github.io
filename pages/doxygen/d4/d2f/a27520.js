@@ -1,7 +1,7 @@
 var a27520 =
 [
-    [ "npc_crashin_thrashin_robot", "d4/d2f/a27520.html#ad21336d212498b1c9ef5d46979d147ab", null ],
-    [ "IsSummonedBy", "d4/d2f/a27520.html#a0652cd455791461f613ab4ebf77d2c3c", null ],
-    [ "UpdateAI", "d4/d2f/a27520.html#a1d21cd2075f3aeba2c7f1e735a33dfec", null ],
-    [ "_scheduler", "d4/d2f/a27520.html#a55778501d154d0a9e77f76054e926f85", null ]
+    [ "npc_steam_tonkAI", "d4/d2f/a27520.html#a64bc74af412304d50526e5c93e01a333", null ],
+    [ "JustEngagedWith", "d4/d2f/a27520.html#a95b023adf0a2e62788e0d5646b17b319", null ],
+    [ "OnPossess", "d4/d2f/a27520.html#a954208c1a9826ae84a7402f59e1d7055", null ],
+    [ "Reset", "d4/d2f/a27520.html#a5c76625843b30302b2af0a4ae8b85bd2", null ]
 ];

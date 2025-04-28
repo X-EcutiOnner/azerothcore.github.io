@@ -1,9 +1,8 @@
 var a00392 =
 [
-    [ "localtime_r", "d4/d27/a00392.html#a17fdb8f2104b98bad5d9fb343d0a043a", null ],
-    [ "DAYS", "d4/d27/a00392.html#ac9bde42940b2570f3865385200b56af8", null ],
-    [ "HOURS", "d4/d27/a00392.html#a18161a3aeba136aeffb54a07f08f08f6", null ],
-    [ "MILLISECONDS", "d4/d27/a00392.html#a2624e61008f0e89d91c7c55161f9bcd8", null ],
-    [ "MINUTES", "d4/d27/a00392.html#abbd89694b6a3e24a701ce6971b2cd37d", null ],
-    [ "SECONDS", "d4/d27/a00392.html#a5fb1c8d14d370751c6202fc87b27bf96", null ]
+    [ "Acore::Asio::IoContext", "db/dde/a04856.html", "db/dde/a04856" ],
+    [ "IoContextBase", "d4/d27/a00392.html#a0ec391e3d78f246934f76abd937aecd8", null ],
+    [ "IoContextBaseNamespace", "d4/d27/a00392.html#ad5308134581a9f19bfac4d556ec345b9", null ],
+    [ "get_io_context", "d4/d27/a00392.html#a47f8fe35925492e3f01d723115279f2e", null ],
+    [ "post", "d4/d27/a00392.html#ac437e3511a92ead72c7d3c1f6004daaf", null ]
 ];

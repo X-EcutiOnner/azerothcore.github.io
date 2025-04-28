@@ -1,6 +1,9 @@
 var a14528 =
 [
-    [ "HandleHeal", "da/dde/a14528.html#a953536a9a393af9472bdd89018449df0", null ],
-    [ "PrepareSpellScript", "da/dde/a14528.html#a70503fc6042001a860d361f2597b7153", null ],
-    [ "Register", "da/dde/a14528.html#a383479896e6deb96e50b827370ccfd4d", null ]
+    [ "boss_azgalor", "da/dde/a14528.html#ac794e0eacc2d543fa62e4b521089f080", null ],
+    [ "DoAction", "da/dde/a14528.html#a43d7afa9da1375f431df871e2a1dfff2", null ],
+    [ "JustDied", "da/dde/a14528.html#a49cc8abf458f82ad7d46c9c1563f0e98", null ],
+    [ "JustEngagedWith", "da/dde/a14528.html#a4b067c3bccbd5f9c96c50d009250d3d0", null ],
+    [ "KilledUnit", "da/dde/a14528.html#a04df1058e89ccc6e7ef2d1dff38d47e7", null ],
+    [ "_recentlySpoken", "da/dde/a14528.html#abea34396ddde0aa02a073b2f3119fec9", null ]
 ];

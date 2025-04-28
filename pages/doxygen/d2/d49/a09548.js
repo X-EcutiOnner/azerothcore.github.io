@@ -1,9 +1,9 @@
 var a09548 =
 [
-    [ "BroadcastTextID", "d2/d49/a09548.html#a756f24dbee852a7fbe152c0cb082c412", null ],
-    [ "Emotes", "d2/d49/a09548.html#a0f67a651fdb3f3217279015c9e3fb292", null ],
-    [ "Language", "d2/d49/a09548.html#a33bc5a0c156918b00380710aeb275d3d", null ],
-    [ "Probability", "d2/d49/a09548.html#a5c743df7a7ad634c5b3f3376547fda00", null ],
-    [ "Text_0", "d2/d49/a09548.html#a046d637b91807db067c6e7050184322d", null ],
-    [ "Text_1", "d2/d49/a09548.html#a8d64d7b8fcdbd995cc11e22adde8c0de", null ]
+    [ "LoginQueryHolder", "d2/d49/a09548.html#a0e1a9e1b505ba40d08daee432eaa40c1", null ],
+    [ "GetAccountId", "d2/d49/a09548.html#ac44ea5d53fa90dae955bfaa3f472ecea", null ],
+    [ "GetGuid", "d2/d49/a09548.html#a8cdce5befc3b7f8727eef78ab1f768a2", null ],
+    [ "Initialize", "d2/d49/a09548.html#ae21aca0c9ccc627e084b4a535b3f5774", null ],
+    [ "m_accountId", "d2/d49/a09548.html#abc8056182803af44a062fe6153fdd009", null ],
+    [ "m_guid", "d2/d49/a09548.html#ab4696408b2e649dcdaae0bc4330c0b9e", null ]
 ];

@@ -1,7 +1,6 @@
 var a16924 =
 [
-    [ "npc_pos_icicle_triggerAI", "d2/d97/a16924.html#a28477c5f88b5ec77dc3e021ec01401ce", null ],
-    [ "UpdateAI", "d2/d97/a16924.html#a32d9b6bd2f0b994adb33e2bd99dd34ce", null ],
-    [ "pInstance", "d2/d97/a16924.html#ad4ed0e2380c62cc6dd7d309edfd34ac1", null ],
-    [ "timer", "d2/d97/a16924.html#a91277c41ddebffed7e9dac7098cd78bd", null ]
+    [ "boss_tyrannusAI", "de/d96/a16928.html", "de/d96/a16928" ],
+    [ "boss_tyrannus", "d2/d97/a16924.html#a81373192ffea8817cb72b80f4629da43", null ],
+    [ "GetAI", "d2/d97/a16924.html#ad107030de1427d070305f5dcef96c016", null ]
 ];

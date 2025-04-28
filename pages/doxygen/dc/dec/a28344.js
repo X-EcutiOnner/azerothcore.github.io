@@ -1,11 +1,7 @@
 var a28344 =
 [
-    [ "IsAvailable", "dc/dec/a28344.html#adfebd7a162ebae8396669de031c768a6", null ],
-    [ "operator bool", "dc/dec/a28344.html#ac25d4bb270c805b8ea2a6e0b4b6b2e74", null ],
-    [ "operator*", "dc/dec/a28344.html#a24733bf06b4a91abcf4945aa5303a275", null ],
-    [ "operator->", "dc/dec/a28344.html#ad0ddd6fe7451f2b968db3a7d7a93b342", null ],
-    [ "SecretMgr", "dc/dec/a28344.html#af098c138ad828545a3dfb1870ad4c2fb", null ],
-    [ "lock", "dc/dec/a28344.html#aff5ea87e5a7dbfdf5bd38400997f2c40", null ],
-    [ "state", "dc/dec/a28344.html#a01563e00123d442b82bd6389d838c23d", null ],
-    [ "value", "dc/dec/a28344.html#a16b48eb9b384f6ab8c6996b38f559825", null ]
+    [ "TalentSpellPos", "dc/dec/a28344.html#a1f28fdb07c5f3bc3a417a2d50d57481c", null ],
+    [ "TalentSpellPos", "dc/dec/a28344.html#afcdb60f43c619209f8c7d9d8d118a89d", null ],
+    [ "rank", "dc/dec/a28344.html#a46a495cd1d17302d074037ad5ea9c89e", null ],
+    [ "talent_id", "dc/dec/a28344.html#a06421cba633b9ea52cb4b95d4ce4527d", null ]
 ];

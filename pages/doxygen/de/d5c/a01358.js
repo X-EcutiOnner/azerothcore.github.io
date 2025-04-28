@@ -1,7 +1,6 @@
 var a01358 =
 [
-    [ "MMapTargetData", "db/d44/a08720.html", "db/d44/a08720" ],
-    [ "SafeUnitPointer", "d3/dc5/a08724.html", "d3/dc5/a08724" ],
-    [ "BuildValuesCachePosPointers", "da/d71/a08728.html", "da/d71/a08728" ],
-    [ "BuildValuesCachedBuffer", "dc/d0b/a08732.html", "dc/d0b/a08732" ]
+    [ "fireworkShowGameobjectThunderBluff", "de/d5c/a01358.html#ab3cf2de65fa26d7c56cf3a4e0f4a56e1", null ],
+    [ "fireworkShowScheduleThunderBluff", "de/d5c/a01358.html#ac35fd5df42f24906b21b6887860b96a5", null ],
+    [ "fireworkShowThunderBluff", "de/d5c/a01358.html#ae9cf9fa234ec7db55622bede66c21f78", null ]
 ];

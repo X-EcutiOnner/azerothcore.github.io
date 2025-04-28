@@ -1,7 +1,6 @@
 var a17180 =
 [
-    [ "HandleScript", "dd/dfa/a17180.html#a4b1e392acea30a9259e65a75667704c5", null ],
-    [ "Load", "dd/dfa/a17180.html#a9af7bb4defb7c590aaff1a709dad4573", null ],
-    [ "PrepareSpellScript", "dd/dfa/a17180.html#a17301c4ef9623ec04ec3c15dfd4e316f", null ],
-    [ "Register", "dd/dfa/a17180.html#a77632d11a172e5552c0c49de830a1639", null ]
+    [ "boss_prince_valanarAI", "d9/d06/a17184.html", "d9/d06/a17184" ],
+    [ "boss_prince_valanar_icc", "dd/dfa/a17180.html#a7bfa4e13fa5cc19313c7ce9877d1c631", null ],
+    [ "GetAI", "dd/dfa/a17180.html#a2f7f58d57f5ed107d1f972d061105fd4", null ]
 ];

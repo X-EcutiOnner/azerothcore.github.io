@@ -1,9 +1,7 @@
 var a24700 =
 [
-    [ "PrepareAuraScript", "df/d98/a24700.html#accf6cc89fed8dbf7c3cee201f1e9e806", null ],
-    [ "Register", "df/d98/a24700.html#a04efbc64bfa0312bc1f372e403803c32", null ],
-    [ "Update", "df/d98/a24700.html#aa463442b994b6275b2e12fe06ae7805c", null ],
-    [ "amplitude", "df/d98/a24700.html#aff726eef4dbd10dd71f1614ab6755ea1", null ],
-    [ "amplitude", "df/d98/a24700.html#ad96a6059cb2f4bdf8e2b341d0a6e294f", null ],
-    [ "isPeriodic", "df/d98/a24700.html#a0732bf60822bbb547be014566d0e092c", null ]
+    [ "CalculateAmount", "df/d98/a24700.html#ab705e67f7abb72a13dfd32e7a6da4561", null ],
+    [ "Load", "df/d98/a24700.html#ac87f1c7ccb9aa9985d538c9d8611c850", null ],
+    [ "PrepareAuraScript", "df/d98/a24700.html#ae4a75ef8bc755c8220b768d5ac87a728", null ],
+    [ "Register", "df/d98/a24700.html#a636331452bc95a4434f1b85e85ea6e7b", null ]
 ];

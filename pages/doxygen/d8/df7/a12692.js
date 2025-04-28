@@ -1,6 +1,8 @@
 var a12692 =
 [
-    [ "npc_image_of_medivhAI", "d6/de5/a12696.html", "d6/de5/a12696" ],
-    [ "npc_image_of_medivh", "d8/df7/a12692.html#a55ee6f97bc7f144209927a2813cab6a9", null ],
-    [ "GetAI", "d8/df7/a12692.html#a11769c47fda3f1c4d8d80329f70d1957", null ]
+    [ "CalcPeriodic", "d8/df7/a12692.html#a493609298c152df8216641ba2e5861cd", null ],
+    [ "PrepareAuraScript", "d8/df7/a12692.html#a30c2bac7e939cf7de2141f6cdfa51619", null ],
+    [ "Register", "d8/df7/a12692.html#a44002db5980dfc1db816cf61fd446491", null ],
+    [ "Update", "d8/df7/a12692.html#a7a1fc11cf4183c7202a929c72035d8e7", null ],
+    [ "Validate", "d8/df7/a12692.html#a060e189aaa4396681d42906b65c9196f", null ]
 ];

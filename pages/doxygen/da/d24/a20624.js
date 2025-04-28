@@ -1,6 +1,6 @@
 var a20624 =
 [
-    [ "OnRemove", "da/d24/a20624.html#a492bd9e9c82937e00897e19362b40901", null ],
-    [ "PrepareAuraScript", "da/d24/a20624.html#a1ae24bb18b5570ebe9b4b0698d3cc2f2", null ],
-    [ "Register", "da/d24/a20624.html#adfcaf82ff48225ea0e0314d421795644", null ]
+    [ "npc_xt002_scrapbotAI", "d1/dad/a20628.html", "d1/dad/a20628" ],
+    [ "npc_xt002_scrapbot", "da/d24/a20624.html#accfd75266d058af3856bdb625728c18d", null ],
+    [ "GetAI", "da/d24/a20624.html#aa3639c32c94f0e031ba774e4eed659cd", null ]
 ];

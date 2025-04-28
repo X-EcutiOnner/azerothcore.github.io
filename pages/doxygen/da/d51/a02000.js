@@ -1,8 +1,6 @@
 var a02000 =
 [
-    [ "PassiveAI", "d1/d65/a06060.html", "d1/d65/a06060" ],
-    [ "PossessedAI", "d1/da6/a06064.html", "d1/da6/a06064" ],
-    [ "NullCreatureAI", "d8/d17/a06068.html", "d8/d17/a06068" ],
-    [ "CritterAI", "d1/db6/a06072.html", "d1/db6/a06072" ],
-    [ "TriggerAI", "df/d45/a06076.html", "df/d45/a06076" ]
+    [ "instance_hellfire_ramparts", "dc/d2b/a23488.html", "dc/d2b/a23488" ],
+    [ "instance_hellfire_ramparts::instance_hellfire_ramparts_InstanceMapScript", "dd/d15/a23492.html", "dd/d15/a23492" ],
+    [ "AddSC_instance_hellfire_ramparts", "da/d51/a02000.html#a4172290a7e1e8ffcbf19519225978acf", null ]
 ];

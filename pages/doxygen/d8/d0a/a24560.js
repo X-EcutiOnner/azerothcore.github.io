@@ -1,9 +1,7 @@
 var a24560 =
 [
-    [ "HandleApply", "d8/d0a/a24560.html#a1a612d0b35ed6e67042b4d038f8927ca", null ],
-    [ "HandleRemove", "d8/d0a/a24560.html#a54b5ffcf247f7385b50b401bc82f43ce", null ],
-    [ "PrepareAuraScript", "d8/d0a/a24560.html#af2b8e669737cd4282beb6a5035f496fc", null ],
-    [ "RecalculateBaseArmor", "d8/d0a/a24560.html#a693720558c7b2b22c41a49a402522014", null ],
-    [ "Register", "d8/d0a/a24560.html#aff9bc58342383afe5a08be696cddedf6", null ],
-    [ "Validate", "d8/d0a/a24560.html#ad712e1e05d94372defdfa4fe67e65716", null ]
+    [ "HandleProc", "d8/d0a/a24560.html#a6bfa44b7adfff5aebbfe96bd7b983744", null ],
+    [ "PrepareAuraScript", "d8/d0a/a24560.html#adf8a9d15a105bb639ae240d6062a7041", null ],
+    [ "Register", "d8/d0a/a24560.html#a7e63aa6af08411ad8e75fc69bdb84de5", null ],
+    [ "Validate", "d8/d0a/a24560.html#a6a70833aaae84cbb512d3ebaa79fe301", null ]
 ];

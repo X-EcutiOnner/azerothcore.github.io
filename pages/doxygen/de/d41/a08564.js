@@ -1,9 +1,8 @@
 var a08564 =
 [
-    [ "EntryPointData", "de/d41/a08564.html#a1852523ba9ca889cdd6731c63de759e2", null ],
-    [ "ClearTaxiPath", "de/d41/a08564.html#a4aee0d4ef3850fb486987ae6fe78ee91", null ],
-    [ "HasTaxiPath", "de/d41/a08564.html#afd310b2f367ec7df76f01689ea120e6e", null ],
-    [ "joinPos", "de/d41/a08564.html#abfdc0ccd945f60e0a3ec37d278c96940", null ],
-    [ "mountSpell", "de/d41/a08564.html#a06e1cadac24a2ab90e57373692f829dc", null ],
-    [ "taxiPath", "de/d41/a08564.html#a5af670fa420b250c22e0f3237e753a6f", null ]
+    [ "checkLeaderOnly", "de/d41/a08564.html#ade8f2e22abe69a9a32085e4d901bc83b", null ],
+    [ "faction", "de/d41/a08564.html#a23c649e494795b27856b67225370a820", null ],
+    [ "id", "de/d41/a08564.html#a5d5b8f6fe0bfc5ae98c2fb10e3a18360", null ],
+    [ "note", "de/d41/a08564.html#a0e800dd8869fedbe71e5b14aa3c79d8a", null ],
+    [ "priority", "de/d41/a08564.html#a3a66018ae4e7a7e755962f1edae58d29", null ]
 ];

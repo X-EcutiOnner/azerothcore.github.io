@@ -1,8 +1,9 @@
 var a22952 =
 [
-    [ "CalculateAmount", "d7/d26/a22952.html#a13d44c0d5f9b0111ae3b0d3d089e3e13", null ],
-    [ "OnPeriodic", "d7/d26/a22952.html#ab4d3f69d50fa320886f454ddfe1076f4", null ],
-    [ "PrepareAuraScript", "d7/d26/a22952.html#a1278420b279449c1c6a53b1a7b53f539", null ],
-    [ "Register", "d7/d26/a22952.html#a4795011faa2f68b1068d37b81f8c1cf2", null ],
-    [ "Validate", "d7/d26/a22952.html#a601c2db3a8e47d48b956ed102cbca104", null ]
+    [ "HandleEffectApply", "d7/d26/a22952.html#aca8ff864832d30e45bccfca12256560a", null ],
+    [ "HandleEffectRemove", "d7/d26/a22952.html#a2e16e86ce6e3231cf3fabc1d5bb1a6e7", null ],
+    [ "Load", "d7/d26/a22952.html#a3b9838f26673ce344ca40f9f487ef878", null ],
+    [ "PrepareAuraScript", "d7/d26/a22952.html#a79b93c86a01d31d08cba15436856b794", null ],
+    [ "Register", "d7/d26/a22952.html#aa6c04279944abd31c42bb5dc4319aaf2", null ],
+    [ "_turtleSet", "d7/d26/a22952.html#a308b9e032576ae058e9f2469dcc8ff23", null ]
 ];

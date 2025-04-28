@@ -1,7 +1,6 @@
 var a17248 =
 [
-    [ "OnProc", "d0/dcf/a17248.html#a5b6e96abb900da33657cdbbd137138e3", null ],
-    [ "PrepareAuraScript", "d0/dcf/a17248.html#a5502476536a923e77af67c4bbcf005e3", null ],
-    [ "Register", "d0/dcf/a17248.html#aca08edf219504156d6157c95702bb815", null ],
-    [ "Validate", "d0/dcf/a17248.html#a52b1231f37e8b3d810614365659a98b6", null ]
+    [ "OnAbsorb", "d0/dcf/a17248.html#aa6582457cd0502ca263433d04b40b64f", null ],
+    [ "PrepareAuraScript", "d0/dcf/a17248.html#a0b6916dd3f6172e59edf477f203c85b1", null ],
+    [ "Register", "d0/dcf/a17248.html#a945ec4037120992e8a2986e7fd2e2c96", null ]
 ];

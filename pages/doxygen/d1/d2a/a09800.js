@@ -1,6 +1,12 @@
 var a09800 =
 [
-    [ "SplineRawInitializer", "d1/d2a/a09800.html#a2aba4b3ca8e2312cc9e910ef4b3a5a26", null ],
-    [ "operator()", "d1/d2a/a09800.html#a878f8d8b2bc4b7c0e5c92d3055a437af", null ],
-    [ "_points", "d1/d2a/a09800.html#a3cea33c8d33407f7d2d8ea96a85a58c5", null ]
+    [ "MapReference", "d1/d2a/a09800.html#abfbeb2ab5831f1f2a52bcb506318d85e", null ],
+    [ "~MapReference", "d1/d2a/a09800.html#a1e93b44871737991140718322fd1cd69", null ],
+    [ "next", "d1/d2a/a09800.html#a352ef695a8968a17e921861b7d6242c1", null ],
+    [ "next", "d1/d2a/a09800.html#ae0383c7748749a344bb2395fd6e8baa4", null ],
+    [ "nocheck_prev", "d1/d2a/a09800.html#a6cfff18295cf049ff554b0f140680890", null ],
+    [ "nockeck_prev", "d1/d2a/a09800.html#adcb903a8a67951fe3da8e99e270b5c91", null ],
+    [ "sourceObjectDestroyLink", "d1/d2a/a09800.html#ade5aa7b9b67ab49e523e4885460c3917", null ],
+    [ "targetObjectBuildLink", "d1/d2a/a09800.html#acc64fa182a97583a2d9b78d54ec07ca0", null ],
+    [ "targetObjectDestroyLink", "d1/d2a/a09800.html#aaa51bc8d8b47e0bbe5cfa828e4ae6604", null ]
 ];

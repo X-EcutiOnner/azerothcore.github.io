@@ -1,11 +1,8 @@
 var a08352 =
 [
-    [ "MovableMapObject", "d0/de8/a08352.html#ad9f4cb74c55993cfdfc5895aefc33cfb", null ],
-    [ "GetCurrentCell", "d0/de8/a08352.html#a6d7d87cff5f00f3b370584675caf7870", null ],
-    [ "SetCurrentCell", "d0/de8/a08352.html#a4caa8c9e50452bff413dec06bf80b84c", null ],
-    [ "Map", "d0/de8/a08352.html#ad2f32e921244459f7cc6d50355429cc6", null ],
-    [ "ObjectGridLoader", "d0/de8/a08352.html#a9551c85ae0e43e4d212225c643da2262", null ],
-    [ "RandomMovementGenerator", "d0/de8/a08352.html#a260ebfc53c9406bc0356c553822d8ab2", null ],
-    [ "_currentCell", "d0/de8/a08352.html#a529db8859c0c9713bcc2f62459bbcc9f", null ],
-    [ "_moveState", "d0/de8/a08352.html#a6782d8e3dc7de58ef83a83cf0a355e43", null ]
+    [ "Reset", "d0/de8/a08352.html#a28a5bd110553457c86d7f77e78041713", null ],
+    [ "cosAngle", "d0/de8/a08352.html#a37f49fc816f37dff8c1947f4de7f04d5", null ],
+    [ "sinAngle", "d0/de8/a08352.html#af2a184b7c8e7f324607a0b7468bcb8f6", null ],
+    [ "xyspeed", "d0/de8/a08352.html#a6fada60d677d89580c3a718d42a75d17", null ],
+    [ "zspeed", "d0/de8/a08352.html#ad0a5a36aeabc9b8d8ea27cecae30ae31", null ]
 ];

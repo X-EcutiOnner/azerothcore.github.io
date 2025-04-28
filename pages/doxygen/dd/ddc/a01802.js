@@ -1,13 +1,18 @@
 var a01802 =
 [
-    [ "PetScript", "df/d92/a10325.html", "df/d92/a10325" ],
-    [ "PetHook", "dd/ddc/a01802.html#a2e6398af59b176e045eece50b1a5d404", [
-      [ "PETHOOK_ON_INIT_STATS_FOR_LEVEL", "dd/ddc/a01802.html#a2e6398af59b176e045eece50b1a5d404a1aa219c404710f806516a47fb4a2c421", null ],
-      [ "PETHOOK_ON_CALCULATE_MAX_TALENT_POINTS_FOR_LEVEL", "dd/ddc/a01802.html#a2e6398af59b176e045eece50b1a5d404af4173fac4396520c8d5f664cb15cd09a", null ],
-      [ "PETHOOK_CAN_UNLEARN_SPELL_SET", "dd/ddc/a01802.html#a2e6398af59b176e045eece50b1a5d404a73a664bf8c79a8347a66639e7f4585ed", null ],
-      [ "PETHOOK_CAN_UNLEARN_SPELL_DEFAULT", "dd/ddc/a01802.html#a2e6398af59b176e045eece50b1a5d404afd7165a69bf431cabc9b485460fde1ce", null ],
-      [ "PETHOOK_CAN_RESET_TALENTS", "dd/ddc/a01802.html#a2e6398af59b176e045eece50b1a5d404a7c81bb255968b85119ef74e3124abe11", null ],
-      [ "PETHOOK_ON_PET_ADD_TO_WORLD", "dd/ddc/a01802.html#a2e6398af59b176e045eece50b1a5d404a34b989d3a1e33e5ab31d98bf4a36ee56", null ],
-      [ "PETHOOK_END", "dd/ddc/a01802.html#a2e6398af59b176e045eece50b1a5d404aa71e862274b6066ffe8af41bccdac911", null ]
-    ] ]
+    [ "instance_serpent_shrine", "d8/de6/a23152.html", "d8/de6/a23152" ],
+    [ "instance_serpent_shrine::instance_serpentshrine_cavern_InstanceMapScript", "df/d47/a23156.html", "df/d47/a23156" ],
+    [ "spell_serpentshrine_cavern_serpentshrine_parasite", "d3/dcc/a23160.html", "d3/dcc/a23160" ],
+    [ "spell_serpentshrine_cavern_serpentshrine_parasite_trigger_aura", "d5/d2d/a23164.html", "d5/d2d/a23164" ],
+    [ "spell_serpentshrine_cavern_serpentshrine_parasite_trigger", "d6/d20/a23168.html", "d6/d20/a23168" ],
+    [ "spell_serpentshrine_cavern_infection", "d2/d7a/a23172.html", "d2/d7a/a23172" ],
+    [ "spell_serpentshrine_cavern_coilfang_water", "d1/d6e/a23176.html", "d1/d6e/a23176" ],
+    [ "npc_rancid_mushroom", "dd/d3e/a23180.html", "dd/d3e/a23180" ],
+    [ "spell_rancid_spore_cloud", "d8/dae/a23184.html", "d8/dae/a23184" ],
+    [ "AddSC_instance_serpentshrine_cavern", "dd/ddc/a01802.html#accf317168271361913093466ba7f8f0e", null ],
+    [ "boundaries", "dd/ddc/a01802.html#aa75d7d0ffe0cef214f982966c33db1c1", null ],
+    [ "creatureData", "dd/ddc/a01802.html#a412286b689bd324fedd65ddd8dde8afb", null ],
+    [ "gameObjectData", "dd/ddc/a01802.html#a1461582839e3b7fdbb7397e5d2086e31", null ],
+    [ "minionData", "dd/ddc/a01802.html#a6720238df140a3c574a711042b7f5bd3", null ],
+    [ "summonData", "dd/ddc/a01802.html#af7ba92b4a76e9cb7835c84a49f9c2052", null ]
 ];

@@ -1,12 +1,9 @@
 var a28580 =
 [
-    [ "Model", "d6/dfc/a28580.html#ae102b5fc584185113e89fb7b39a72bd1", null ],
-    [ "~Model", "d6/dfc/a28580.html#ad6ebd2062a0b823db841a0b88baac4c0", null ],
-    [ "_unload", "d6/dfc/a28580.html#a9b02ed73fa006bc057157b636029ab6f", null ],
-    [ "ConvertToVMAPModel", "d6/dfc/a28580.html#ae6fd5d754d9a880359b8afaf50c5753e", null ],
-    [ "open", "d6/dfc/a28580.html#a6ed3a71ff468f5acaccc61f5c2c87a0e", null ],
-    [ "filename", "d6/dfc/a28580.html#a4c43746e9c460e29cabd1ba2db6ba222", null ],
-    [ "header", "d6/dfc/a28580.html#a2f6e66bbf4acc662d73e8fe8e5a0e085", null ],
-    [ "indices", "d6/dfc/a28580.html#a3b61d3316481e7b9c38bf50806ebded6", null ],
-    [ "vertices", "d6/dfc/a28580.html#a1af9857df4d0e16ab9940846300fa8fe", null ]
+    [ "adtData", "d3/d73/a28588.html", "d3/d73/a28588" ],
+    [ "prepareLoadedData", "d6/dfc/a28580.html#a6b755c9e341918d05105d993391429c6", null ],
+    [ "adt_list", "d6/dfc/a28580.html#abe28c39e8856412c4fb182baab3218f0", null ],
+    [ "fcc", "d6/dfc/a28580.html#ac8ee92a1747e31385cbfadaea16c267f", null ],
+    [ "fcc_txt", "d6/dfc/a28580.html#a0657c323732de8d83b9c360c1dd03b61", null ],
+    [ "size", "d6/dfc/a28580.html#a797c02773dd470a318474c7ef033ba7c", null ]
 ];

@@ -1,9 +1,7 @@
 var a22264 =
 [
-    [ "npc_finklesteinAI", "d1/df9/a22268.html", "d1/df9/a22268" ],
-    [ "npc_finklestein", "d9/d11/a22264.html#aa719b4bb95012c22ef8123e255e32edd", null ],
-    [ "GetAI", "d9/d11/a22264.html#a1f0d91d2a50aca9d0496b6bd03986c8e", null ],
-    [ "OnGossipHello", "d9/d11/a22264.html#ac82d5e5dc2e0539c90dfcfe17430548c", null ],
-    [ "OnGossipSelect", "d9/d11/a22264.html#a7a744207e8f43672f0e6bf2354186ec4", null ],
-    [ "OnQuestAccept", "d9/d11/a22264.html#a94291aa98e35552bc7d722ddf2a83af2", null ]
+    [ "npc_wg_quest_giver", "d9/d11/a22264.html#a68589ab4ce9f43247154f3c66d8107b8", null ],
+    [ "GetDialogStatus", "d9/d11/a22264.html#acd5c1462fe51a350c80af4f3ab46bac8", null ],
+    [ "OnGossipHello", "d9/d11/a22264.html#ad08debc749cbaea6fad9b7bcfb5548e0", null ],
+    [ "OnGossipSelect", "d9/d11/a22264.html#a9d42e558d68eee9f0f96ac1f8cd1a409", null ]
 ];

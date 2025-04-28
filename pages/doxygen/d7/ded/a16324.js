@@ -1,7 +1,6 @@
 var a16324 =
 [
-    [ "npc_toc_rogueAI", "d7/ded/a16324.html#a34027e7d10edbfba8e046f4785e37899", null ],
-    [ "myCanCast", "d7/ded/a16324.html#a85ed8e251dd8356e678536f1e3f3c93d", null ],
-    [ "UpdateAI", "d7/ded/a16324.html#a49b0655def227684f07bd60a3c1e0ce1", null ],
-    [ "events", "d7/ded/a16324.html#a1519bebb81b64d57b2b0b34a059b83f8", null ]
+    [ "npc_toc_warlockAI", "db/dd9/a16328.html", "db/dd9/a16328" ],
+    [ "npc_toc_warlock", "d7/ded/a16324.html#a75ac1d6f6835860fed8a9197fa1cf3c2", null ],
+    [ "GetAI", "d7/ded/a16324.html#ad3162c9414be83d53d9513c7aa6b75d7", null ]
 ];

@@ -1,5 +1,6 @@
 var a26888 =
 [
-    [ "achievement_not_even_a_scratch", "d5/dfe/a26888.html#a0d025c09d35c3640016ab42e11dd96eb", null ],
-    [ "OnCheck", "d5/dfe/a26888.html#a81f6c9bd36e5a3eea3fe0af24c9f1649", null ]
+    [ "HandleEffectCalcSpellMod", "d5/dfe/a26888.html#a38c2a5daeda4b366518026638e6a8e1b", null ],
+    [ "PrepareAuraScript", "d5/dfe/a26888.html#a767c3c52e917b56dbf2368b5dbbf1610", null ],
+    [ "Register", "d5/dfe/a26888.html#af60592a9f1e595f31814eae405d03d5a", null ]
 ];

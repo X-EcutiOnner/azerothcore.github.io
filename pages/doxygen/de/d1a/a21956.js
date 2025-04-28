@@ -1,6 +1,6 @@
 var a21956 =
 [
-    [ "ChangeSummonPos", "de/d1a/a21956.html#aeb2cf0a5d2e563e4983ddd237a2b1001", null ],
-    [ "PrepareSpellScript", "de/d1a/a21956.html#a1654fec971696e613b5102b3ca5030f1", null ],
-    [ "Register", "de/d1a/a21956.html#ab1e7d44914952dfb7f7ccf2de4da286f", null ]
+    [ "npc_llod_genericAI", "d3/d44/a21960.html", "d3/d44/a21960" ],
+    [ "npc_llod_generic", "de/d1a/a21956.html#a97a3957c4881808facf7910e4ae4ffd4", null ],
+    [ "GetAI", "de/d1a/a21956.html#aeb2e7d9de871686e436d1e55f47085a2", null ]
 ];

@@ -1,6 +1,6 @@
 var a21488 =
 [
-    [ "npc_counselor_talbotAI", "d9/dfd/a21492.html", "d9/dfd/a21492" ],
-    [ "npc_counselor_talbot", "db/d54/a21488.html#a9223380bb78afeda617482bea0a3110c", null ],
-    [ "GetAI", "db/d54/a21488.html#a3debd13352146a247d635042ecbfa155", null ]
+    [ "npc_valiance_keep_cannoneerAI", "d9/dfd/a21492.html", "d9/dfd/a21492" ],
+    [ "npc_valiance_keep_cannoneer", "db/d54/a21488.html#a11f6060a7c6cd7be60001f5c259c94d3", null ],
+    [ "GetAI", "db/d54/a21488.html#a8bfc1505dedee28d1517ba6a7738ffd5", null ]
 ];

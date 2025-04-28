@@ -1,6 +1,7 @@
 var a16048 =
 [
-    [ "HandleScript", "dd/d74/a16048.html#a647f39eb125537cd7545ab4115be1091", null ],
-    [ "PrepareSpellScript", "dd/d74/a16048.html#a55dec84643f9bd536c7c73b5909ab303", null ],
-    [ "Register", "dd/d74/a16048.html#a0077abbe11092b9636c3bb7b5c367946", null ]
+    [ "OnApply", "dd/d74/a16048.html#ad072d243dd148e1b34aea29a2e5d175e", null ],
+    [ "PrepareAuraScript", "dd/d74/a16048.html#ae657ceca517aa3f725ba72c18ddbaf1c", null ],
+    [ "Register", "dd/d74/a16048.html#a4eab0bd70eb884f7736e90f9001d3cc7", null ],
+    [ "Validate", "dd/d74/a16048.html#a2c9e4d82bd25f439e01a05700563b122", null ]
 ];

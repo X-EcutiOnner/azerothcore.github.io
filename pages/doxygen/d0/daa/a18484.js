@@ -1,7 +1,6 @@
 var a18484 =
 [
-    [ "npc_captain_arnathAI", "d0/daa/a18484.html#a34e3d17b89010569bf7e9cb28361c2af", null ],
-    [ "FindFriendlyCreature", "d0/daa/a18484.html#ad6411d2a87d2552bea2051f80ca16e14", null ],
-    [ "Reset", "d0/daa/a18484.html#a016fbe51f31e1c5ec1636e8d20d8cb30", null ],
-    [ "UpdateAI", "d0/daa/a18484.html#a020efd7adc0d60152007906e3229988d", null ]
+    [ "CaptainSurviveTalk", "d0/daa/a18484.html#a43a1b1da17ed41ae765aabc47c858f80", null ],
+    [ "Execute", "d0/daa/a18484.html#a871cf08e8c7fced2971cae8abbc20454", null ],
+    [ "_owner", "d0/daa/a18484.html#ac8de506afb4688560ea637918d07b01e", null ]
 ];

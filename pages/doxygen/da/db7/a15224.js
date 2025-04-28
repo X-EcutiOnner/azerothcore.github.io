@@ -1,7 +1,6 @@
 var a15224 =
 [
-    [ "npc_kerlonianAI", "dd/df9/a15228.html", "dd/df9/a15228" ],
-    [ "npc_kerlonian", "da/db7/a15224.html#a8a5ab1fde9f21ac256d5168ef3f17f87", null ],
-    [ "GetAI", "da/db7/a15224.html#a93d93ba13d8521fee39801473b7c4b6a", null ],
-    [ "OnQuestAccept", "da/db7/a15224.html#a257d24295318605ac2fd5554315dfd63", null ]
+    [ "npc_magwinAI", "dd/df9/a15228.html", "dd/df9/a15228" ],
+    [ "npc_magwin", "da/db7/a15224.html#a1a45602fd312a4c436b09fb7b90ac1d4", null ],
+    [ "GetAI", "da/db7/a15224.html#a83bee0fd5c1494f2bb732fe9e0ed1594", null ]
 ];

@@ -1,7 +1,6 @@
 var a24444 =
 [
-    [ "CheckCast", "d2/dcd/a24444.html#ab215bbeea333d250ecbff0482f4f0966", null ],
-    [ "FilterTargets", "d2/dcd/a24444.html#a6ee8387c7fed3fd3042852a2f542c5bd", null ],
-    [ "PrepareSpellScript", "d2/dcd/a24444.html#a83447d184bb2299987d0c54d5af4c910", null ],
-    [ "Register", "d2/dcd/a24444.html#a6107ba00471dd346c363db80fe81b698", null ]
+    [ "HandleProc", "d2/dcd/a24444.html#a8fb0e7e5e50fcb201e8e55ee9621034e", null ],
+    [ "PrepareAuraScript", "d2/dcd/a24444.html#a2f42e70482f71a4c275f70897b90ed72", null ],
+    [ "Register", "d2/dcd/a24444.html#a048f59b6b0d52232e3a953f173324fc2", null ]
 ];

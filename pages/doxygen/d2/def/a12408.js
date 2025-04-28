@@ -1,6 +1,6 @@
 var a12408 =
 [
-    [ "boss_shazzrahAI", "d2/def/a12408.html#a984b3d32d5f231a019f2c0f1bb027907", null ],
-    [ "ExecuteEvent", "d2/def/a12408.html#a0f6e3e6876b9b769ea53db5c9028c6ff", null ],
-    [ "JustEngagedWith", "d2/def/a12408.html#aaa8111d42cacd58f767513026976668c", null ]
+    [ "HandleHit", "d2/def/a12408.html#a5245f935c0cafd14e492214a51d85ad3", null ],
+    [ "PrepareSpellScript", "d2/def/a12408.html#a074b9e23de0a9b24776c7e361791c6ff", null ],
+    [ "Register", "d2/def/a12408.html#a12f7db2345ce0d19a18791a2e63e7450", null ]
 ];

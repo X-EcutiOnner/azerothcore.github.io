@@ -1,6 +1,7 @@
 var a12188 =
 [
-    [ "boss_victor_nefariusAI", "da/d54/a12192.html", "da/d54/a12192" ],
-    [ "boss_victor_nefarius", "dc/d74/a12188.html#a85c529c49a0373a553bc59818fb18f49", null ],
-    [ "GetAI", "dc/d74/a12188.html#a6ea19bde6980cbb4ca627d17cf57ae24", null ]
+    [ "boss_ebonrocAI", "dc/d74/a12188.html#a73be20fda4e3f8cb7623796f3c32d741", null ],
+    [ "JustEngagedWith", "dc/d74/a12188.html#a2c74e0030b1093d79245978939043d53", null ],
+    [ "MovementInform", "dc/d74/a12188.html#ac1e16bb5ac18b55fbfb8af5078df270f", null ],
+    [ "UpdateAI", "dc/d74/a12188.html#aa2059c3834fbcfda3c8da5743bd2501f", null ]
 ];

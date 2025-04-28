@@ -1,12 +1,7 @@
 var a19636 =
 [
-    [ "npc_assembly_lightningAI", "dc/d75/a19636.html#a4b778b6545e7c93e66a07160db793651", null ],
-    [ "AttackStart", "dc/d75/a19636.html#afd4657e8c6a2eb39346e99cb54a7ab1a", null ],
-    [ "EnterEvadeMode", "dc/d75/a19636.html#a4c0bb838053412a3945648ed1a5a13b9", null ],
-    [ "MoveInLineOfSight", "dc/d75/a19636.html#a077f788e67cdb67683ac13f3a3d1322b", null ],
-    [ "MovementInform", "dc/d75/a19636.html#a95227f93c5ac6871bfcea603ebb2188d", null ],
-    [ "OnCharmed", "dc/d75/a19636.html#aa08e4c286723c76251bd75aa54b24f5f", null ],
-    [ "Reset", "dc/d75/a19636.html#a1f03885bfd91d9b9cdde1d90b51d2c96", null ],
-    [ "UpdateAI", "dc/d75/a19636.html#a94edd1ea5278bd5ca8d5d64619e9c8b4", null ],
-    [ "_boomed", "dc/d75/a19636.html#aa6b4a46674a7d4106a49ef308ec27b9e", null ]
+    [ "HandleDummyEffect", "dc/d75/a19636.html#ae95c1ce60db79c360e9c1431f27705cb", null ],
+    [ "PrepareSpellScript", "dc/d75/a19636.html#a84a4f52928873e58b1fc49e783c5083a", null ],
+    [ "Register", "dc/d75/a19636.html#a90c00bcb1768d696addab407425e406a", null ],
+    [ "SelectTarget", "dc/d75/a19636.html#a2e7a7c05a30ae1e0c5aa14dc2af19345", null ]
 ];

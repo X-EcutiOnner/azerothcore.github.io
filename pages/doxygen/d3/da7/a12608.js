@@ -1,11 +1,10 @@
 var a12608 =
 [
-    [ "npc_demon_chain", "d3/da7/a12608.html#ac234e729422925bd773bcdbc45f9e1b5", null ],
-    [ "AttackStart", "d3/da7/a12608.html#a745fa194ca5ad30c96e85b3f9daad2ad", null ],
-    [ "IsSummonedBy", "d3/da7/a12608.html#a27007fdff0d685b0a38a0b98820b95fb", null ],
-    [ "JustDied", "d3/da7/a12608.html#a35d1b7de8612f11cdf61b9d663990686", null ],
-    [ "JustEngagedWith", "d3/da7/a12608.html#a9743ebc31c5159a03889bfd40b09d749", null ],
-    [ "MoveInLineOfSight", "d3/da7/a12608.html#a9ffa6ed6faa21c9596f7a0c2ceb1cc05", null ],
-    [ "Reset", "d3/da7/a12608.html#ad531f82511e5156d3b9891dd4095b0d5", null ],
-    [ "sacrificeGUID", "d3/da7/a12608.html#a5572e39fcf3d807ef462f5c16ff703f1", null ]
+    [ "boss_servant_quarters", "d3/da7/a12608.html#aedf2869e3fbc1ebd13caedffa60bbf5f", null ],
+    [ "JustDied", "d3/da7/a12608.html#a3b9df7ab573f22a9e15761cb662db404", null ],
+    [ "JustEngagedWith", "d3/da7/a12608.html#afe4a4a78824851f63ce560a60d55cee3", null ],
+    [ "MovementInform", "d3/da7/a12608.html#a00d31d9421903b6a92c03a3bd0382328", null ],
+    [ "Reset", "d3/da7/a12608.html#a273a09b1242968a5dd45ab9866fbe481", null ],
+    [ "UpdateAI", "d3/da7/a12608.html#a6a41cfd67310077803733190645050e4", null ],
+    [ "_scheduler", "d3/da7/a12608.html#a520142de5e8d2911684b18c85a3f37e2", null ]
 ];

@@ -1,5 +1,5 @@
 var a27204 =
 [
-    [ "go_hive_pod", "d0/ddf/a27204.html#a7ec01a399e75ff2e64746166d1aa3539", null ],
-    [ "OnGossipHello", "d0/ddf/a27204.html#a4cfb09789edf6699444a7d817e4ccc70", null ]
+    [ "go_tablet_of_the_seven", "d0/ddf/a27204.html#aa5bcd36c6d0250571f6721f71864ab59", null ],
+    [ "OnGossipHello", "d0/ddf/a27204.html#a54d27dc2a52d69d8fd9605c358a855fc", null ]
 ];

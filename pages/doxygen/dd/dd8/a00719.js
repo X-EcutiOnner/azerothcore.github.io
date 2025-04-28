@@ -1,7 +1,5 @@
 var a00719 =
 [
-    [ "GetChaseRange", "dd/dd8/a00719.html#a24fd9652d12d1ba9d62b8d6273664c55", null ],
-    [ "GetVelocity", "dd/dd8/a00719.html#a955c196fa9c96bf11e2d887d6cbac50c", null ],
-    [ "IsMutualChase", "dd/dd8/a00719.html#a53d496abdea10dead20c7e6a9cb09cd6", null ],
-    [ "PredictPosition", "dd/dd8/a00719.html#ada5b031ff95410ba84fd734c95c68099", null ]
+    [ "reload_commandscript", "db/d95/a11696.html", "db/d95/a11696" ],
+    [ "AddSC_reload_commandscript", "dd/dd8/a00719.html#ab72bc0a4ad4d6f90fa1e05f5591ed68f", null ]
 ];

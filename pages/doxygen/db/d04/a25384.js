@@ -1,7 +1,6 @@
 var a25384 =
 [
-    [ "HandleDummy", "db/d04/a25384.html#a5a82cbe58f57c94441cfda618e0eecca", null ],
-    [ "HandleScriptEffect", "db/d04/a25384.html#a30d760a8708b49a185eb000249a9a5eb", null ],
-    [ "PrepareSpellScript", "db/d04/a25384.html#a102d8493d285757c789cbba4a1bdc688", null ],
-    [ "Register", "db/d04/a25384.html#ab4031ddb745995128854c149f7706045", null ]
+    [ "CheckCast", "db/d04/a25384.html#ac1bc3f881c31c5ab90785a62a5f5b5ae", null ],
+    [ "PrepareSpellScript", "db/d04/a25384.html#a2a9c657ccffbacfc661c6bb1dc41d9de", null ],
+    [ "Register", "db/d04/a25384.html#a4b34bd5ce9d3e948d6c712d71ed71b2d", null ]
 ];

@@ -1,6 +1,6 @@
 var a21668 =
 [
-    [ "npc_q24545_wretched_ghoulAI", "d7/df2/a21672.html", "d7/df2/a21672" ],
-    [ "npc_q24545_wretched_ghoul", "d0/d2d/a21668.html#a3842b5bd89c911d29d561307113fb032", null ],
-    [ "GetAI", "d0/d2d/a21668.html#ada973de0ff7295f0441cbd6b6aaca9ac", null ]
+    [ "npc_injured_7th_legion_soldierAI", "d0/d2d/a21668.html#a6929ef42a003f1337d71f9b23fa37c6e", null ],
+    [ "MovementInform", "d0/d2d/a21668.html#a999bc868db485578fcc70ae7e056b778", null ],
+    [ "Reset", "d0/d2d/a21668.html#a3021c037acdb141fc3ca4d6f3b146bbf", null ]
 ];

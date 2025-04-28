@@ -1,8 +1,11 @@
 var a12488 =
 [
-    [ "npc_kernobeeAI", "da/da0/a12488.html#a9dfc478b7da1bf33463e3653aea3c4da", null ],
-    [ "SetGUID", "da/da0/a12488.html#a34999b470697ba0a27701facd63625f8", null ],
-    [ "UpdateAI", "da/da0/a12488.html#ae99836a836234ad441d6ac97c60d7fc6", null ],
-    [ "checkTimer", "da/da0/a12488.html#ae4731b5dd7b92d6989b0960d88e1dc35", null ],
-    [ "playerGUID", "da/da0/a12488.html#aca1009b03ee24200f5dbad788ec5c5c8", null ]
+    [ "boss_mr_smiteAI", "da/da0/a12488.html#a277e52b7086db7e6447c4ad07ff8c8a2", null ],
+    [ "JustEngagedWith", "da/da0/a12488.html#a3b2e5636b6c13bc243a067cacc7ab529", null ],
+    [ "MovementInform", "da/da0/a12488.html#ade54a8fa42cbbf9febecf1a3eee00fd3", null ],
+    [ "Reset", "da/da0/a12488.html#a8b90bbc2a0cdfdb09a3f8ddde2bf4108", null ],
+    [ "UpdateAI", "da/da0/a12488.html#aa1693c8cc5bcc60a256f5d61f81cce1a", null ],
+    [ "events", "da/da0/a12488.html#a3471692c39233f3c25cdc875c0078f2c", null ],
+    [ "health34", "da/da0/a12488.html#adc83683c2f6a7073469cd2f5aa325717", null ],
+    [ "health67", "da/da0/a12488.html#af30c26b46b14e9e16fe5d48d4dcf23de", null ]
 ];

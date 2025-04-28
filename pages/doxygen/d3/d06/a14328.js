@@ -1,17 +1,8 @@
 var a14328 =
 [
-    [ "npc_midsummer_ribbon_pole_target", "d3/d06/a14328.html#ac09222eff300a11e03e8a3a1c9a3fd5f", null ],
-    [ "DoCleanupChecks", "d3/d06/a14328.html#a5e5a67ed5492db34fd6c2e28a2cd7f74", null ],
-    [ "DoDancingFLameChecks", "d3/d06/a14328.html#af4e76d832c3fd47eb88c1a69d0cdf9ff", null ],
-    [ "DoFireworkChecks", "d3/d06/a14328.html#a19eb48c537d58ad8f2021e9eabe4fae2", null ],
-    [ "DoFlameCircleChecks", "d3/d06/a14328.html#af37e104b67dcf9a2c181c142d56cc708", null ],
-    [ "DoGroundFlowerChecks", "d3/d06/a14328.html#a0a9961eb0c2d5afde8f96bb0580d1974", null ],
-    [ "DoSpewLavaChecks", "d3/d06/a14328.html#a94086429fe5cf506c64ea79ebcf03317", null ],
-    [ "LocateRibbonPole", "d3/d06/a14328.html#a55f16f2ced0045ea373e9d0a239301d1", null ],
-    [ "SpawnFireSpiralBunny", "d3/d06/a14328.html#ae91d1899212fa391f6ae4ec3a1de6e85", null ],
-    [ "SpellHit", "d3/d06/a14328.html#ab732995946655894611eb1c12ce4e8a8", null ],
-    [ "UpdateAI", "d3/d06/a14328.html#affeb3025627dd5697f0c4dccab66d3b6", null ],
-    [ "_bunny", "d3/d06/a14328.html#a0161d569d4c1fb2e1bf69936312be8df", null ],
-    [ "_dancerList", "d3/d06/a14328.html#a41e453f742a06bc7485e290756dbc746", null ],
-    [ "_ribbonPole", "d3/d06/a14328.html#aeea38608ae98cd5597c104ea04e32523", null ]
+    [ "npc_love_in_air_snivel_real", "d3/d06/a14328.html#a9f5b36d35ced9eb27375ca13fcfbc55d", null ],
+    [ "Talk", "d3/d06/a14328.html#a0b5cc8dd6bdf7c4fbd7b7aa2ba02b028", null ],
+    [ "UpdateAI", "d3/d06/a14328.html#a22ed25da8fe3441ef0e4183390983f40", null ],
+    [ "actionCounter", "d3/d06/a14328.html#ab1685b1ee34c81c689af3c3466b185f0", null ],
+    [ "actionTimer", "d3/d06/a14328.html#a3bbee1ff355581772b337268775b8fbc", null ]
 ];

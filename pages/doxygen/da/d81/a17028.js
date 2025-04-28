@@ -1,7 +1,7 @@
 var a17028 =
 [
-    [ "HandleDummy", "da/d81/a17028.html#a367f4ebd296aa0fd54ff9ef6185a1c92", null ],
-    [ "PrepareSpellScript", "da/d81/a17028.html#ab6e33bf137a54c9cd792aefb0ecd2ef1", null ],
-    [ "Register", "da/d81/a17028.html#a371073fb37337719115242fc8758026f", null ],
-    [ "Validate", "da/d81/a17028.html#ad5df08da54defc89a7a552c39de089c3", null ]
+    [ "HandleEffectPeriodic", "da/d81/a17028.html#a4802c810efd7dd8a9954845366398e7f", null ],
+    [ "PrepareAuraScript", "da/d81/a17028.html#a008166d25e7a278507e953325f40ccd5", null ],
+    [ "Register", "da/d81/a17028.html#ac239d0f42eea59b63c3d31ed275846ea", null ],
+    [ "Validate", "da/d81/a17028.html#a3fc78060f881262c59151b6eb6a943f8", null ]
 ];

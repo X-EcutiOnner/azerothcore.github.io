@@ -1,13 +1,7 @@
 var a19220 =
 [
-    [ "boss_drakosAI", "d0/dcb/a19220.html#a75d771095897081457353be898b332c3", null ],
-    [ "JustDied", "d0/dcb/a19220.html#a7235760bd407f49802bc9e26e8f3f22c", null ],
-    [ "JustEngagedWith", "d0/dcb/a19220.html#a4bc15075d9e9a913783da482a7a167c7", null ],
-    [ "JustSummoned", "d0/dcb/a19220.html#a06e21c4e5bd1a882ada074b9595d4088", null ],
-    [ "KilledUnit", "d0/dcb/a19220.html#a4bd3e45b45660311d7510f58a1850648", null ],
-    [ "MoveInLineOfSight", "d0/dcb/a19220.html#a10b2ca39887e906e6e1e33df82afc1da", null ],
-    [ "Reset", "d0/dcb/a19220.html#a6fd78f4f45b9f2104acc481fb0f2763f", null ],
-    [ "UpdateAI", "d0/dcb/a19220.html#abf761c7cda4031c31354d8c8d42963e0", null ],
-    [ "events", "d0/dcb/a19220.html#ae86ad4fcc57cc1137411c881355f2f51", null ],
-    [ "pInstance", "d0/dcb/a19220.html#adc9461ae5334634a9140f338547688b4", null ]
+    [ "boss_commander_stoutbeard", "d0/dcb/a19220.html#a9489874e93ea9f425ff4e3748ba10ded", null ],
+    [ "JustDied", "d0/dcb/a19220.html#a2fd835408045715058ba476aa56cb4f7", null ],
+    [ "JustEngagedWith", "d0/dcb/a19220.html#af960c10b2b98d43b4b1311a0a7616aa8", null ],
+    [ "KilledUnit", "d0/dcb/a19220.html#acf7016c65f020dca9228bd2d2fd89299", null ]
 ];

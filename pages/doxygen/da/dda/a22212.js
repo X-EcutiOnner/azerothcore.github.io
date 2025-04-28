@@ -1,7 +1,6 @@
 var a22212 =
 [
-    [ "npc_wg_siege_machineAI", "da/dda/a22212.html#aaeca9e73520701ce28f2cc9d1483cc6b", null ],
-    [ "CanControlVehicle", "da/dda/a22212.html#a7ce79406da48e245a0baa2fdd23622b9", null ],
-    [ "UpdateAI", "da/dda/a22212.html#a8ddd21047a857facc767a9edc0ec5408", null ],
-    [ "checkTimer", "da/dda/a22212.html#abf4b06eae50adeefedba02e2186ea48a", null ]
+    [ "npc_icefangAI", "d3/d1f/a22216.html", "d3/d1f/a22216" ],
+    [ "npc_icefang", "da/dda/a22212.html#a2e13be89b110abaa2509e597e4cf883a", null ],
+    [ "GetAI", "da/dda/a22212.html#ad1a936b1eef30271912054a817e0c9f8", null ]
 ];

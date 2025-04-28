@@ -1,7 +1,10 @@
 var a26008 =
 [
-    [ "HandleScriptEffect", "db/db5/a26008.html#a8c7ede10a8f7d0c1ea04c21166807995", null ],
-    [ "PrepareSpellScript", "db/db5/a26008.html#af52663b01774372d3e6f695d2f395cb5", null ],
-    [ "Register", "db/db5/a26008.html#abcefab06ff481fad88be4d7ad9289808", null ],
-    [ "Validate", "db/db5/a26008.html#af269a7085412b5a889dfb802d1dc7fbe", null ]
+    [ "Load", "db/db5/a26008.html#a4330a13b4144aa0a2e299c5cb00b1aea", null ],
+    [ "PrepareAuraScript", "db/db5/a26008.html#ae04fa1b54e4b0219d1dcdf998e708c29", null ],
+    [ "Register", "db/db5/a26008.html#a3031d32b7366f7f707cbb69e3cb96fc8", null ],
+    [ "Split", "db/db5/a26008.html#aa28fe4ba6a8a501318b6d1d49a2fa9b9", null ],
+    [ "groupSize", "db/db5/a26008.html#aa1e61b128f63c802dc623be551657df1", null ],
+    [ "minHpPct", "db/db5/a26008.html#a279f1a2b232a7be981e4315c9e8595e4", null ],
+    [ "remainingAmount", "db/db5/a26008.html#ad00a550f82d6b3ae77c3112c753de60b", null ]
 ];

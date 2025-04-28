@@ -1,10 +1,15 @@
 var a23560 =
 [
-    [ "boss_harbinger_skyriss", "d0/d97/a23560.html#a245179f74d61c2671b397e8f2473b599", null ],
-    [ "EnterEvadeMode", "d0/d97/a23560.html#a873413da06569343225e6659f8277b2c", null ],
-    [ "JustDied", "d0/d97/a23560.html#a2b5152ddeb53d382294bd0fe7455a21e", null ],
-    [ "JustEngagedWith", "d0/d97/a23560.html#adb4cdec41f4b61f82efdb78fe995c313", null ],
-    [ "JustSummoned", "d0/d97/a23560.html#a97d84139a3e970e22d7d422f2f825f12", null ],
-    [ "KilledUnit", "d0/d97/a23560.html#a8f9e1bd87c80041e07b428ec300ceef8", null ],
-    [ "Reset", "d0/d97/a23560.html#a045ec2371ad99c3465b8f089eb604e0a", null ]
+    [ "npc_shattered_hand_scout", "d0/d97/a23560.html#a51a57eaaad75817a9b5a81210e01ed51", null ],
+    [ "DamageTaken", "d0/d97/a23560.html#ad37c34ae2dee082f1b4eed90bc4a3618", null ],
+    [ "FireArrows", "d0/d97/a23560.html#aa3043011d7d9e7b7c5826b9afc7581d1", null ],
+    [ "GetPorung", "d0/d97/a23560.html#a575b12c40aeccd6d0cdd63f71a3b93d6", null ],
+    [ "MoveInLineOfSight", "d0/d97/a23560.html#a2ddb6fd6aa6221768ff71257f4bdd81b", null ],
+    [ "MovementInform", "d0/d97/a23560.html#a6f6198c2faf68823b1d4c8237044784b", null ],
+    [ "Reset", "d0/d97/a23560.html#a1fcf0da2cc4a0554f04b3624b68de598", null ],
+    [ "SetData", "d0/d97/a23560.html#a9416dd89c4728538971abc5975c7080f", null ],
+    [ "UpdateAI", "d0/d97/a23560.html#a91c2c7eca064d6eaafe5ecaeca4344b4", null ],
+    [ "_firstZealots", "d0/d97/a23560.html#a2b5fd63b01e4ecb96b006e3870b37609", null ],
+    [ "_scheduler", "d0/d97/a23560.html#a376f6eab11f8399493d5d33b5c4ea35a", null ],
+    [ "_zealotGUIDs", "d0/d97/a23560.html#a26381a05bb007fdb4b7da97a19a878da", null ]
 ];

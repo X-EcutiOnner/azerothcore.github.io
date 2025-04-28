@@ -1,5 +1,8 @@
 var a20856 =
 [
-    [ "achievement_yogg_saron_kiss_and_make_up", "dc/d4f/a20856.html#a9f2e5fe9de59a9b5a00c0e73e8f9b376", null ],
-    [ "OnCheck", "dc/d4f/a20856.html#a8ce7df713b804d5bdd5f6f47d77fc1b8", null ]
+    [ "Absorb", "dc/d4f/a20856.html#a36a7237d7bcd50626e7a07a32c91cfb4", null ],
+    [ "CalculateAmount", "dc/d4f/a20856.html#afe50bf22d07e68757caffb056ad55811", null ],
+    [ "PrepareAuraScript", "dc/d4f/a20856.html#afa4ef1f7faa36a521c208dde10d09437", null ],
+    [ "Register", "dc/d4f/a20856.html#aae020936d42da81c445f7d296660987b", null ],
+    [ "Validate", "dc/d4f/a20856.html#a5852135c5214ee3938603632b0f21917", null ]
 ];

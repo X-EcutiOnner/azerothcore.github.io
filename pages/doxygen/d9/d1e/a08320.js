@@ -1,12 +1,5 @@
 var a08320 =
 [
-    [ "WorldObjectChangeAccumulator", "d9/d1e/a08320.html#a853a5c84dec75f115eddd3e1b7ff0b78", null ],
-    [ "BuildPacket", "d9/d1e/a08320.html#ab4b9da3effe2a4f6e2cb6ecf268f429c", null ],
-    [ "Visit", "d9/d1e/a08320.html#ae18ca5886c95a6c4c00bdbc1920a5655", null ],
-    [ "Visit", "d9/d1e/a08320.html#a9afa50ac9e36cd357706e8e838df56a0", null ],
-    [ "Visit", "d9/d1e/a08320.html#aec62fc91f4b364e72a3d5afd5a1a7276", null ],
-    [ "Visit", "d9/d1e/a08320.html#a9815c06dbd29710cac2c99301c17b01c", null ],
-    [ "i_object", "d9/d1e/a08320.html#ab94d7f943107060caf742f9b6cca92e4", null ],
-    [ "i_playerSet", "d9/d1e/a08320.html#a0e17c2bf7a78cf5ef68e6fc7b29f0262", null ],
-    [ "i_updateDatas", "d9/d1e/a08320.html#a1446b9dae0dfc0325228870c815da23a", null ]
+    [ "Description", "d9/d1e/a08320.html#a4187f2b02014c83bc4f1b3d65d229311", null ],
+    [ "Name", "d9/d1e/a08320.html#a787ca2c05ddac7ee5c3a5c28a02b8494", null ]
 ];

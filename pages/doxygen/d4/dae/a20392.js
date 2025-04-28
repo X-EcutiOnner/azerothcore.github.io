@@ -1,6 +1,6 @@
 var a20392 =
 [
-    [ "npc_ulduar_harpoonfirestateAI", "d4/d9d/a20396.html", "d4/d9d/a20396" ],
-    [ "npc_ulduar_harpoonfirestate", "d4/dae/a20392.html#a85043e64606ba7c9ce2da7a37bbf0e8e", null ],
-    [ "GetAI", "d4/dae/a20392.html#a8c9e1882c0706cb0b576c24b62215238", null ]
+    [ "npc_ulduar_flames_spreadAI", "d4/d9d/a20396.html", "d4/d9d/a20396" ],
+    [ "npc_ulduar_flames_spread", "d4/dae/a20392.html#aca9713b28d6d0c7b13b85a00c8a53ab0", null ],
+    [ "GetAI", "d4/dae/a20392.html#af492a5bc9304a05f8475a39458c6abdb", null ]
 ];

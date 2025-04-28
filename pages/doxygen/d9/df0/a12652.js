@@ -1,20 +1,14 @@
 var a12652 =
 [
-    [ "boss_julianne", "d9/df0/a12652.html#a6433d08be0d5562e876e00225ebf7398", null ],
-    [ "DamageTaken", "d9/df0/a12652.html#a8ff7675405322c2d55bd01cec340f6b8", null ],
-    [ "DoAction", "d9/df0/a12652.html#a985c9c1f77b2769461bf42ddaab302d3", null ],
-    [ "EnterEvadeMode", "d9/df0/a12652.html#af2499ba9d9c25555c82d8d7ae95c7249", null ],
-    [ "JustDied", "d9/df0/a12652.html#abdfaf6fa147c6b35bed28bb2e3ed3c14", null ],
-    [ "JustEngagedWith", "d9/df0/a12652.html#a6c5bd97ad402cc5f5dcda421c5d2bad1", null ],
-    [ "JustReachedHome", "d9/df0/a12652.html#a6bda02d5534b9087741ee7146ec314b5", null ],
-    [ "KilledUnit", "d9/df0/a12652.html#a7430fb4f315ee5dcf5f9c49b2daa66b0", null ],
-    [ "Reset", "d9/df0/a12652.html#a1047e28950098b35bd8a8fc5bec4ed26", null ],
-    [ "ScheduleCombat", "d9/df0/a12652.html#ab0939f8fe0fc34cafbe2dab4ef449895", null ],
-    [ "SpellHit", "d9/df0/a12652.html#a1e142c56a514640dab0d5d7711085f9d", null ],
-    [ "UpdateAI", "d9/df0/a12652.html#ad1e1d5bb27fed12a203c8b10f6ea92a6", null ],
-    [ "_scheduler", "d9/df0/a12652.html#aae4be9b1035626ecc9ad2f3e5b918cbe", null ],
-    [ "instance", "d9/df0/a12652.html#acdc787ba6908e716517683a8536ecf3e", null ],
-    [ "isFakingDeath", "d9/df0/a12652.html#a7a1b3b2ead47a49e80f9ba2b49144a91", null ],
-    [ "phase", "d9/df0/a12652.html#a5b0b680916cd38b2e20a6a1b1a530362", null ],
-    [ "summonedRomulo", "d9/df0/a12652.html#a6938adccd5c781df04dabe6d860f9357", null ]
+    [ "boss_strawman", "d9/df0/a12652.html#a1789cdafc2ce03e156ac686e6859e25f", null ],
+    [ "DoAction", "d9/df0/a12652.html#a57f9519f87bc8e7446632a49f56a02ca", null ],
+    [ "EnterEvadeMode", "d9/df0/a12652.html#a67fd9b85406512cef4f3ae581461f0c4", null ],
+    [ "JustDied", "d9/df0/a12652.html#ab175b0104d316b8929e32d9eb939780f", null ],
+    [ "JustEngagedWith", "d9/df0/a12652.html#a40657516c4f1b049dd0514a50e299a10", null ],
+    [ "JustReachedHome", "d9/df0/a12652.html#a4235b2de2540199f9570cbadb7326871", null ],
+    [ "KilledUnit", "d9/df0/a12652.html#a06b92dbb6907ace60df7e10893be7af0", null ],
+    [ "SpellHit", "d9/df0/a12652.html#a5bf558765b59a7950bd55ece14c07a4f", null ],
+    [ "UpdateAI", "d9/df0/a12652.html#adcb7db7cb3f938b492a28c3540251ea9", null ],
+    [ "_scheduler", "d9/df0/a12652.html#a409539c771b373c165bdbccac8a59e7f", null ],
+    [ "instance", "d9/df0/a12652.html#a157a6faacf83432b8227173f6b14a7d3", null ]
 ];

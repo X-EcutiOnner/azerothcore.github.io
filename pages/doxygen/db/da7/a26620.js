@@ -1,8 +1,7 @@
 var a26620 =
 [
-    [ "CalcPeriodic", "db/da7/a26620.html#a42770d7f7e5bd41cd3f0a283c544c642", null ],
-    [ "CalculateAmount", "db/da7/a26620.html#a525009acb345d6b0a9857c30cfce2230", null ],
-    [ "HandlePeriodic", "db/da7/a26620.html#a4c75f793388b533d00a52ad18f18bc6e", null ],
-    [ "PrepareAuraScript", "db/da7/a26620.html#a5627212e48a3044a9a7480851787a839", null ],
-    [ "Register", "db/da7/a26620.html#a09ea5265d7105a4bd487d383948901a0", null ]
+    [ "HandleProc", "db/da7/a26620.html#a46726e3e05e386892ea86d74d161e8d0", null ],
+    [ "PrepareAuraScript", "db/da7/a26620.html#acda7b1b6e91a433b72c2a5dd0e165685", null ],
+    [ "Register", "db/da7/a26620.html#a33cd336a6ca68e66e6046cfdac776fee", null ],
+    [ "Validate", "db/da7/a26620.html#a5f2c7d754a37e6ae02d4aaec758841e5", null ]
 ];

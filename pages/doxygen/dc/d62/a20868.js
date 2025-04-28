@@ -1,8 +1,6 @@
 var a20868 =
 [
-    [ "npc_ulduar_keeperAI", "d8/d99/a20872.html", "d8/d99/a20872" ],
-    [ "npc_ulduar_keeper", "dc/d62/a20868.html#a252b781061a2e21dc961ea94f7120d59", null ],
-    [ "GetAI", "dc/d62/a20868.html#ad0c0f5d3786e3f3b3394a599f3ee6256", null ],
-    [ "OnGossipHello", "dc/d62/a20868.html#a4db12efd22c7d2a5f18144fd16543230", null ],
-    [ "OnGossipSelect", "dc/d62/a20868.html#acf8681577117107d16d45705e4b8463f", null ]
+    [ "OnRemove", "dc/d62/a20868.html#a0e2113cd165f9f6ce88ba6eea9034806", null ],
+    [ "PrepareAuraScript", "dc/d62/a20868.html#a5fb0837417b915676549370cc76c477d", null ],
+    [ "Register", "dc/d62/a20868.html#a7f1844fded6ad112cc99d33f52e0799c", null ]
 ];

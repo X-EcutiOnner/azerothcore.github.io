@@ -1,12 +1,6 @@
 var a13492 =
 [
-    [ "npc_corporal_keeshanAI", "d4/d37/a13492.html#aac5b72ede6e1496f80c4c2520e886efd", null ],
-    [ "Reset", "d4/d37/a13492.html#a311488932a3de9153490d41e3fae92fb", null ],
-    [ "sQuestAccept", "d4/d37/a13492.html#a52dd95c74b1457ad5b496b28fd183b06", null ],
-    [ "UpdateAI", "d4/d37/a13492.html#a973cf65978e531dc8bd7db20fc2809b6", null ],
-    [ "WaypointReached", "d4/d37/a13492.html#a3edc9ab54068e47f955116db70454f6c", null ],
-    [ "mockingBlowTimer", "d4/d37/a13492.html#a21cd1ca86864b8507d43e5a1c4c13e0c", null ],
-    [ "phase", "d4/d37/a13492.html#ae79dcfdb10738d673e8c1aebc6abdee6", null ],
-    [ "shieldBashTimer", "d4/d37/a13492.html#abb5eaa25a77dd3e6dfff7aaa0aa6c375", null ],
-    [ "timer", "d4/d37/a13492.html#a3107368f175aa7f4e8c405248ef917df", null ]
+    [ "x", "d4/d37/a13492.html#afeb59642abc7d5114668b2c27e315228", null ],
+    [ "y", "d4/d37/a13492.html#a3e2454dd579de689289003a343e7f29c", null ],
+    [ "z", "d4/d37/a13492.html#a4fbcf991d732545b4f9c19689ff9d805", null ]
 ];

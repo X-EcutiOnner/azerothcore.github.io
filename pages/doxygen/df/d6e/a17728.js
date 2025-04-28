@@ -1,6 +1,6 @@
 var a17728 =
 [
-    [ "HandleScript", "df/d6e/a17728.html#aefdd306b81b44a0a5564eab5a0491e09", null ],
-    [ "PrepareSpellScript", "df/d6e/a17728.html#a68c0462bd108b04621f8288328f78b18", null ],
-    [ "Register", "df/d6e/a17728.html#aedaec0afc414800bc481a434592ffb5d", null ]
+    [ "AbominationDespawner", "df/d6e/a17728.html#a3bbf8c5d4e42569ffe993a3c3b8ff95e", null ],
+    [ "operator()", "df/d6e/a17728.html#a58b8faac1cdffa7230783a1d6439fcfb", null ],
+    [ "_owner", "df/d6e/a17728.html#af9089e566905b885887a5714ad5b0741", null ]
 ];

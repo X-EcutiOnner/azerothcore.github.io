@@ -1,7 +1,4 @@
 var a00386 =
 [
-    [ "Tokenize", "dd/df5/a00386.html#ac486e8c9cdad8809eacd83339cdb121d", null ],
-    [ "Tokenize", "dd/df5/a00386.html#a6d70d7cc315896984da481f843d6f95f", null ],
-    [ "Tokenize", "dd/df5/a00386.html#aafa458089884fd3ec682db1762ced09d", null ],
-    [ "Tokenize", "dd/df5/a00386.html#a6b121485ace4118b9006db1fb89f90f2", null ]
+    [ "address_to_uint", "dd/df5/a00386.html#abb8b9761e1df323f5c258c0a12da7bd4", null ]
 ];

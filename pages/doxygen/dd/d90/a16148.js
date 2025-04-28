@@ -1,6 +1,6 @@
 var a16148 =
 [
-    [ "boss_grand_championAI", "db/de3/a16152.html", "db/de3/a16152" ],
-    [ "boss_grand_champion", "dd/d90/a16148.html#a9577f8af5e234b3aebd7567841b867e2", null ],
-    [ "GetAI", "dd/d90/a16148.html#aa60972482ef16329d7ffc0a7ccf2d03e", null ]
+    [ "FilterTargets", "dd/d90/a16148.html#a79d34d7e517b27e44c6a91d6056dfec7", null ],
+    [ "PrepareSpellScript", "dd/d90/a16148.html#a5ede43deece629a38f5482280983b59a", null ],
+    [ "Register", "dd/d90/a16148.html#aec3d0ed996e9cbfed9fb78c5f16e254f", null ]
 ];

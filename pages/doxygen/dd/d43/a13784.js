@@ -1,15 +1,8 @@
 var a13784 =
 [
-    [ "boss_arlokkAI", "dd/d43/a13784.html#adb598bf47620cd077fb689fb8f9a4ad8", null ],
-    [ "EnterEvadeMode", "dd/d43/a13784.html#a8553c4d173e7c39315f022f69587c6c0", null ],
-    [ "JustDied", "dd/d43/a13784.html#ac03a6599a5b41e01bd4ed9ebd55cc0ba", null ],
-    [ "JustEngagedWith", "dd/d43/a13784.html#ac4ee55299a9389c4fee1ad96140b00d0", null ],
-    [ "JustReachedHome", "dd/d43/a13784.html#ab0499a80ea8406457e6bfaac96eae975", null ],
-    [ "Reset", "dd/d43/a13784.html#a3ea2c720ac5c4b1fa6ea4d2eb8bf163f", null ],
-    [ "SetData", "dd/d43/a13784.html#a7eedf1d1b55740698c314d4afbb2b0b2", null ],
-    [ "UpdateAI", "dd/d43/a13784.html#a3a2d07d42be88244c0c72b998792dd28", null ],
-    [ "_summonCountA", "dd/d43/a13784.html#a77f83909fca59d1c5d72dc583d7ec22e", null ],
-    [ "_summonCountB", "dd/d43/a13784.html#a7e7d091ea00fb42e7f97cb79168e0dc3", null ],
-    [ "_triggersSideAGUID", "dd/d43/a13784.html#aedc8dda728ed849f33dc83396da51bce", null ],
-    [ "_triggersSideBGUID", "dd/d43/a13784.html#a0fc797fd56c4f12272b647087492670a", null ]
+    [ "npc_zulaman_hostageAI", "d7/da3/a13788.html", "d7/da3/a13788" ],
+    [ "npc_zulaman_hostage", "dd/d43/a13784.html#a12f9ad1889cacb60103c1e921c2fa0e9", null ],
+    [ "GetAI", "dd/d43/a13784.html#a0ae144dc154dd028b409c9d2393f890c", null ],
+    [ "OnGossipHello", "dd/d43/a13784.html#a89d68a976f916a4de2196b57ec0026b0", null ],
+    [ "OnGossipSelect", "dd/d43/a13784.html#a114f6fbfab90944fd49babcba4b48a11", null ]
 ];

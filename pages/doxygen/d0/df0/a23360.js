@@ -1,8 +1,8 @@
 var a23360 =
 [
-    [ "instance_gruuls_lair_InstanceMapScript", "d0/df0/a23360.html#a1ad656ccd4d41c756c4f525d079fd9b6", null ],
-    [ "GetData", "d0/df0/a23360.html#a410630dbbe00acf0b69603cfc357d503", null ],
-    [ "SetBossState", "d0/df0/a23360.html#a9f0752eb0ec1d9ca0681ddc5fc8d3752", null ],
-    [ "SetData", "d0/df0/a23360.html#a4cbe09489797fa0076d976f9a717a2bd", null ],
-    [ "_addsKilled", "d0/df0/a23360.html#a7a003811fcf620f3c2d11ff3498cb298", null ]
+    [ "npc_underbat", "d0/df0/a23360.html#a710a010d3425b7171ee45d8465fd6b2b", null ],
+    [ "JustEngagedWith", "d0/df0/a23360.html#ae137b6b763b3df6096c3bfd4dd7ee676", null ],
+    [ "Reset", "d0/df0/a23360.html#aae771ad526e8f72a90fe70ebbd91b472", null ],
+    [ "UpdateAI", "d0/df0/a23360.html#ab3a9b97543aee3fdf22c17e94f768c0e", null ],
+    [ "_scheduler", "d0/df0/a23360.html#a7644a73c2a5bcbbe0a3db5c782169752", null ]
 ];

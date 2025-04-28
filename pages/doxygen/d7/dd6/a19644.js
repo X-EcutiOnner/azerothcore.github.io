@@ -1,21 +1,9 @@
 var a19644 =
 [
-    [ "boss_stormcaller_brundirAI", "d7/dd6/a19644.html#adc28dd5beed1a6e48c79d7cdcceec084", null ],
-    [ "GetData", "d7/dd6/a19644.html#a72b285d89d1bf55d85436718cf25c287", null ],
-    [ "JustDied", "d7/dd6/a19644.html#a8aa9383b97b23d71d598ae1e650d0195", null ],
-    [ "JustEngagedWith", "d7/dd6/a19644.html#a9f2c58c1ebf4ce1809d454c4bba8f758", null ],
-    [ "JustReachedHome", "d7/dd6/a19644.html#af7e52166fdeb9b77ffa7057444ee67ef", null ],
-    [ "KilledUnit", "d7/dd6/a19644.html#af26795d89f26a9d907e81ef16ab10762", null ],
-    [ "MovementInform", "d7/dd6/a19644.html#a396869cd37f7f66c38424d70fb87bb01", null ],
-    [ "Reset", "d7/dd6/a19644.html#a4e1d09a210b4991e2b97e04f7be8a2bf", null ],
-    [ "SpellHit", "d7/dd6/a19644.html#af6e9b985d9bb5f63b1163d8ef1299992", null ],
-    [ "SpellHitTarget", "d7/dd6/a19644.html#a5592b2f9e4ce9149fb77cdc5dcc27539", null ],
-    [ "UpdateAI", "d7/dd6/a19644.html#a483ea3ae6c95ab18cc5fa2f41b613690", null ],
-    [ "UpdatePhase", "d7/dd6/a19644.html#a6f018f955bf546a47c119328b33ef010", null ],
-    [ "_channelTimer", "d7/dd6/a19644.html#a19fe914b34ca1ac05714387f00e0d28d", null ],
-    [ "_flyTargetGUID", "d7/dd6/a19644.html#a30d4b48a08328fb497ff51e0fa260041", null ],
-    [ "_phase", "d7/dd6/a19644.html#afe01d10d1abf8a7ddfc1d3c1b238cd30", null ],
-    [ "_stunnedAchievement", "d7/dd6/a19644.html#a678cd6ce097dab459bbf162553ddd56b", null ],
-    [ "events", "d7/dd6/a19644.html#afe480aedba3a5772a98f694647c7ed50", null ],
-    [ "pInstance", "d7/dd6/a19644.html#ab528df844696fec44595e0878966e0c2", null ]
+    [ "CheckTargets", "d7/dd6/a19644.html#a9340c167ef70508635092e273c23dcde", null ],
+    [ "CountTargets", "d7/dd6/a19644.html#a996db37b678143fbc0a392032d29fff5", null ],
+    [ "Load", "d7/dd6/a19644.html#a716bcf5bb0a24f9a57534c9dafb1a56f", null ],
+    [ "PrepareSpellScript", "d7/dd6/a19644.html#a0b68ca6bdfe0f7c84236e5fe509d8fd9", null ],
+    [ "Register", "d7/dd6/a19644.html#aed312a4408134589fd02bbcb844fd1b7", null ],
+    [ "_targetCount", "d7/dd6/a19644.html#ac780614674e748274081f9f99a5165fe", null ]
 ];

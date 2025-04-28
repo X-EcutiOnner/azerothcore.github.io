@@ -1,5 +1,5 @@
 var a28172 =
 [
-    [ "ID", "d8/d74/a28172.html#a0272b3c1130508a2681035c91ee416e6", null ],
-    [ "SpellID", "d8/d74/a28172.html#a231d22a763ddcd9f1fbdab81521dcf67", null ]
+    [ "Id", "d8/d74/a28172.html#a44532f8af054ae5224f5e816c3c9a8a7", null ],
+    [ "PowerType", "d8/d74/a28172.html#ab6c17a5a3ba9f2f3a8fac125104703c4", null ]
 ];

@@ -1,5 +1,9 @@
 var a15584 =
 [
-    [ "go_elune_fire", "db/d1d/a15584.html#a84d1b8e5a10e57cf717e10e413cb6027", null ],
-    [ "OnGossipHello", "db/d1d/a15584.html#a31e3cad89090bb7d2933e8758dbb56c4", null ]
+    [ "npc_pluckyAI", "db/d1d/a15584.html#a490198dfcf06b04f7ee9a6a5354dec7e", null ],
+    [ "ReceiveEmote", "db/d1d/a15584.html#a4a4a09d6a462011154a8d871562dcaf5", null ],
+    [ "Reset", "db/d1d/a15584.html#a1a6c4a479bbbfced1ad17f2604bdba32", null ],
+    [ "UpdateAI", "db/d1d/a15584.html#a4775a736e3568940c1b92e0cdae4de4b", null ],
+    [ "NormFaction", "db/d1d/a15584.html#afd9c6fccf4c30b4fbc62bfa951665949", null ],
+    [ "ResetTimer", "db/d1d/a15584.html#ac9808c21666cd17b0603e7e67a61d015", null ]
 ];

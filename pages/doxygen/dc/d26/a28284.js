@@ -1,16 +1,11 @@
 var a28284 =
 [
-    [ "AcceptCallback", "dc/d26/a28284.html#a2cea1478f3e8feec141064f3281d422e", null ],
-    [ "AsyncAcceptor", "dc/d26/a28284.html#adcdbdbb26b47f71e74aeccbc0d96a6c4", null ],
-    [ "AsyncAccept", "dc/d26/a28284.html#a0d7a3371b14fa8eecbe30ff73e366398", null ],
-    [ "AsyncAcceptWithCallback", "dc/d26/a28284.html#ae2443c046b245262497e407c9a5b7b3f", null ],
-    [ "Bind", "dc/d26/a28284.html#a91c22b6aba05bc493cfaf28a9203ce84", null ],
-    [ "Close", "dc/d26/a28284.html#a0ed31d03f8cdb38b1e359f3085e7ee29", null ],
-    [ "DefaultSocketFactory", "dc/d26/a28284.html#a9820441474b6ced25625185cbbcda5bc", null ],
-    [ "SetSocketFactory", "dc/d26/a28284.html#a7bf97d3996651f3057fc0d88db5e4a69", null ],
-    [ "_acceptor", "dc/d26/a28284.html#af3d5ae4979b29b4fc72e78fc9de34b8e", null ],
-    [ "_closed", "dc/d26/a28284.html#a27230b467efdb08dbb9b0c0198db0936", null ],
-    [ "_endpoint", "dc/d26/a28284.html#a06a13b36a9e324bc0b4f4112dbdabebf", null ],
-    [ "_socket", "dc/d26/a28284.html#aef188268de7b2f7447a97aa73ac19ff3", null ],
-    [ "_socketFactory", "dc/d26/a28284.html#a8ab2ccd6b8cbb7bff0a9d38e0e5d8ad7", null ]
+    [ "addToSpellBook", "dc/d26/a28284.html#ad312934d24abcc78c02d50cc5cb5403f", null ],
+    [ "Col", "dc/d26/a28284.html#a0bc589c5b1425d5e889cd290b805169e", null ],
+    [ "DependsOn", "dc/d26/a28284.html#a7b1aa1384777b8d94dceed3c387bb628", null ],
+    [ "DependsOnRank", "dc/d26/a28284.html#a608f232669981da3423b959479ca8683", null ],
+    [ "RankID", "dc/d26/a28284.html#a96d0fd120ed3aa7fbd287d104fd87c26", null ],
+    [ "Row", "dc/d26/a28284.html#a136b889d2e8875b01fc7aa2be06847ac", null ],
+    [ "TalentID", "dc/d26/a28284.html#aa769574106b0e5afdbc7c71c51c3b9a2", null ],
+    [ "TalentTab", "dc/d26/a28284.html#acefe6f8c0a5b3893e2a9f828d500df68", null ]
 ];

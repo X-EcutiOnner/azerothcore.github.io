@@ -1,6 +1,6 @@
 var a26408 =
 [
-    [ "CheckProc", "d1/df2/a26408.html#a4e40a3472a7dde5aaa1d6d4cda54482a", null ],
-    [ "PrepareAuraScript", "d1/df2/a26408.html#af15109e926eb717c3f3cb2f7f617428c", null ],
-    [ "Register", "d1/df2/a26408.html#aee35ceec1ffcdebf5bd712310bdf9f1c", null ]
+    [ "PrepareSpellScript", "d1/df2/a26408.html#ac0322966abdb57fbe19c3e2117caa56b", null ],
+    [ "Register", "d1/df2/a26408.html#a7ddfa827654b6bb0a11aaddf41dc62f9", null ],
+    [ "SetDest", "d1/df2/a26408.html#ad1012e0f8ae1cf2ff18d886e10d6fca6", null ]
 ];

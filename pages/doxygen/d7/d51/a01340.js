@@ -1,9 +1,6 @@
 var a01340 =
 [
-    [ "DynamicObject", "df/d07/a08109.html", "df/d07/a08109" ],
-    [ "DynamicObjectType", "d7/d51/a01340.html#aee85c2f840289bcf773609333ee91131", [
-      [ "DYNAMIC_OBJECT_PORTAL", "d7/d51/a01340.html#aee85c2f840289bcf773609333ee91131a241a99bd67606cb106b003bab51e3a5b", null ],
-      [ "DYNAMIC_OBJECT_AREA_SPELL", "d7/d51/a01340.html#aee85c2f840289bcf773609333ee91131a7fb219efa9ce6ad8dc94e20c1feff546", null ],
-      [ "DYNAMIC_OBJECT_FARSIGHT_FOCUS", "d7/d51/a01340.html#aee85c2f840289bcf773609333ee91131a59fbc7f63f5d2715fbc29110f393168d", null ]
-    ] ]
+    [ "fireworkShowGameobjectUndercity", "d7/d51/a01340.html#a67896d1b367cdcfcbee837b12ee9451c", null ],
+    [ "fireworkShowScheduleUndercity", "d7/d51/a01340.html#ab00bea2179a021590447cb30da50fce1", null ],
+    [ "fireworkShowUndercity", "d7/d51/a01340.html#afd61e001f4ea31858964426d56d2b3cf", null ]
 ];

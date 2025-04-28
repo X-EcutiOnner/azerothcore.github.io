@@ -1,7 +1,6 @@
 var a19992 =
 [
-    [ "HandleEffectPeriodic", "dd/dbb/a19992.html#ae1c6062123fb62a48f542e43b34c7bcd", null ],
-    [ "PrepareAuraScript", "dd/dbb/a19992.html#a1c54b6c86fc39d96d601b24c5b30fbdd", null ],
-    [ "Register", "dd/dbb/a19992.html#af7a5a98b5cf784d2de8b57a183c19142", null ],
-    [ "Validate", "dd/dbb/a19992.html#a16c536c913d003826ef4b86c7a497fec", null ]
+    [ "boss_freya_summonsAI", "d9/d65/a19996.html", "d9/d65/a19996" ],
+    [ "boss_freya_summons", "dd/dbb/a19992.html#a3445ed89967cc9a610472f18e862ecd4", null ],
+    [ "GetAI", "dd/dbb/a19992.html#ac68f231c37c61d262d6c16bc87a0f1c7", null ]
 ];

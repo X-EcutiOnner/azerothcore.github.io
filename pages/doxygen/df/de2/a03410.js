@@ -1,43 +1,59 @@
 var a03410 =
 [
-    [ "DataHeader", "df/de2/a03410.html#a042491ef36459046f3866e90f15aae0d", null ],
-    [ "MTScriptName", "df/de2/a03410.html#a772413d8818d681e2261c99f58e1268c", null ],
-    [ "RegisterMagistersTerraceCreatureAI", "df/de2/a03410.html#a679c3c5e0520ffcbc6ca0827cddafeb0", null ],
-    [ "CreatureTexts", "df/de2/a03410.html#a98b0f0ed8e23c5a3936ff695705d37e9", [
-      [ "SAY_KALECGOS_SPAWN", "df/de2/a03410.html#a98b0f0ed8e23c5a3936ff695705d37e9afb263d1cd011b49bf7cda725281fa940", null ]
+    [ "u_map_magic", "d0/d27/a09068.html", "d0/d27/a09068" ],
+    [ "map_fileheader", "de/d1c/a09072.html", "de/d1c/a09072" ],
+    [ "map_areaHeader", "dd/d59/a09076.html", "dd/d59/a09076" ],
+    [ "map_heightHeader", "d1/da1/a09080.html", "d1/da1/a09080" ],
+    [ "map_liquidHeader", "d7/d29/a09084.html", "d7/d29/a09084" ],
+    [ "LoadedAreaData", "dd/dae/a09088.html", "dd/dae/a09088" ],
+    [ "LoadedHeightData", "d9/ddc/a09092.html", "d9/ddc/a09092" ],
+    [ "LoadedHeightData::Uint16HeightData", "d1/dc8/a09096.html", "d1/dc8/a09096" ],
+    [ "LoadedHeightData::Uint8HeightData", "d7/dc5/a09100.html", "d7/dc5/a09100" ],
+    [ "LoadedHeightData::FloatHeightData", "d7/ded/a09104.html", "d7/ded/a09104" ],
+    [ "LoadedLiquidData", "d2/d53/a09108.html", "d2/d53/a09108" ],
+    [ "LoadedHoleData", "d6/dc2/a09112.html", "d6/dc2/a09112" ],
+    [ "LiquidData", "d3/d9f/a09116.html", "d3/d9f/a09116" ],
+    [ "GridTerrainData", "d3/db5/a09120.html", "d3/db5/a09120" ],
+    [ "INVALID_HEIGHT", "df/de2/a03410.html#ac08ed03fa837b2e3d2624e0123f0897b", null ],
+    [ "MAP_ALL_LIQUIDS", "df/de2/a03410.html#ab120de38f25fcadb7db17ec59fcae4e3", null ],
+    [ "MAP_AREA_NO_AREA", "df/de2/a03410.html#a29bbacae053e66ee8b7fa97db3cbd127", null ],
+    [ "MAP_HEIGHT_AS_INT16", "df/de2/a03410.html#aefa74fa33f3eba2d39b407c2fd2e8aba", null ],
+    [ "MAP_HEIGHT_AS_INT8", "df/de2/a03410.html#a15a9245a53c00f1a8a89dd2d798cea9d", null ],
+    [ "MAP_HEIGHT_HAS_FLIGHT_BOUNDS", "df/de2/a03410.html#a0fc25db7841a9836359d1825ec78ca08", null ],
+    [ "MAP_HEIGHT_NO_HEIGHT", "df/de2/a03410.html#aa5c2437972b2be5c5ff23a7ac04e2680", null ],
+    [ "MAP_LIQUID_NO_HEIGHT", "df/de2/a03410.html#a59daadc7c96729526e05982ec6600bb1", null ],
+    [ "MAP_LIQUID_NO_TYPE", "df/de2/a03410.html#a42b8b790a3d284e7116bcad1c391b8f9", null ],
+    [ "MAP_LIQUID_STATUS_IN_CONTACT", "df/de2/a03410.html#a3f00601bc8d385b63e3e766209cd366b", null ],
+    [ "MAP_LIQUID_STATUS_SWIMMING", "df/de2/a03410.html#ac0e95b704f5fbe7f2c5a728ab9ced4be", null ],
+    [ "MAP_LIQUID_TYPE_DARK_WATER", "df/de2/a03410.html#a661f965d11d7da56890b64484d871441", null ],
+    [ "MAP_LIQUID_TYPE_MAGMA", "df/de2/a03410.html#a14e2a0a2291347b0ef877bc9d70f7384", null ],
+    [ "MAP_LIQUID_TYPE_NO_WATER", "df/de2/a03410.html#a17d4c5ea32412f0fbe04a27f63d50e13", null ],
+    [ "MAP_LIQUID_TYPE_OCEAN", "df/de2/a03410.html#a6d257e0effb928fba7534eeee5de602d", null ],
+    [ "MAP_LIQUID_TYPE_SLIME", "df/de2/a03410.html#aa56f76510545ed9c706b8fee3061b6cb", null ],
+    [ "MAP_LIQUID_TYPE_WATER", "df/de2/a03410.html#a5ec110bd30ec47fcd087aaf5d572de28", null ],
+    [ "MAX_FALL_DISTANCE", "df/de2/a03410.html#a91e57a946b1b9303401fd9140f3cd13e", null ],
+    [ "MAX_HEIGHT", "df/de2/a03410.html#a9059fa76eb5e8e86f870405d63e72c4c", null ],
+    [ "MIN_HEIGHT", "df/de2/a03410.html#a1610a21b358c3531db64b3208fa70e5b", null ],
+    [ "LiquidStatus", "df/de2/a03410.html#a230261924eebef09eab542c62d316cc4", [
+      [ "LIQUID_MAP_NO_WATER", "df/de2/a03410.html#a230261924eebef09eab542c62d316cc4ad816089af57f43b040885d5c01678825", null ],
+      [ "LIQUID_MAP_ABOVE_WATER", "df/de2/a03410.html#a230261924eebef09eab542c62d316cc4af6081f84e48299232ed52bb6a2c8df71", null ],
+      [ "LIQUID_MAP_WATER_WALK", "df/de2/a03410.html#a230261924eebef09eab542c62d316cc4af70ebc4891408116188de5f9bed2cf50", null ],
+      [ "LIQUID_MAP_IN_WATER", "df/de2/a03410.html#a230261924eebef09eab542c62d316cc4af4e67ea19276ef09ee06c196ee361e01", null ],
+      [ "LIQUID_MAP_UNDER_WATER", "df/de2/a03410.html#a230261924eebef09eab542c62d316cc4a05ec44d4ffd65817a9210a88d9f9b857", null ]
     ] ],
-    [ "InstanceEventIds", "df/de2/a03410.html#ab51342a4a8f5976e51b0074f9a5746f8", [
-      [ "EVENT_SPAWN_KALECGOS", "df/de2/a03410.html#ab51342a4a8f5976e51b0074f9a5746f8a2e000620a7210a65a43ee87d48b5d283", null ]
+    [ "TerrainMapDataReadResult", "df/de2/a03410.html#acc57f2f56e801a11d6614f1c85f2624c", [
+      [ "Success", "df/de2/a03410.html#acc57f2f56e801a11d6614f1c85f2624ca505a83f220c02df2f85c3810cd9ceb38", null ],
+      [ "NotFound", "df/de2/a03410.html#acc57f2f56e801a11d6614f1c85f2624ca38c300f4fc9ce8a77aad4a30de05cad8", null ],
+      [ "ReadError", "df/de2/a03410.html#acc57f2f56e801a11d6614f1c85f2624cadf9be6f7af7c3f7196c5c3e731de0a87", null ],
+      [ "InvalidMagic", "df/de2/a03410.html#acc57f2f56e801a11d6614f1c85f2624ca180818c6d53193ec0e26551c5eab121d", null ],
+      [ "InvalidAreaData", "df/de2/a03410.html#acc57f2f56e801a11d6614f1c85f2624cac596ede97e877d22556117b5bdd4633a", null ],
+      [ "InvalidHeightData", "df/de2/a03410.html#acc57f2f56e801a11d6614f1c85f2624ca54788e1cdd051e56eea54771f3bf62d9", null ],
+      [ "InvalidLiquidData", "df/de2/a03410.html#acc57f2f56e801a11d6614f1c85f2624ca4042a3edb61fea753b1db70d894ac4eb", null ],
+      [ "InvalidHoleData", "df/de2/a03410.html#acc57f2f56e801a11d6614f1c85f2624ca5e70882e3225a2c0cc991ee32af97a98", null ]
     ] ],
-    [ "MovementData", "df/de2/a03410.html#aed5999eedcf185b65654ded53dc601d3", [
-      [ "PATH_KALECGOS_FLIGHT", "df/de2/a03410.html#aed5999eedcf185b65654ded53dc601d3a6b4587e5a1bc789ca7ac972cd1e54222", null ]
-    ] ],
-    [ "MTCreatures", "df/de2/a03410.html#a402e3e622f03a1eed719db587960e18b", [
-      [ "NPC_DELRISSA", "df/de2/a03410.html#a402e3e622f03a1eed719db587960e18ba5d0ab26a56a5212e4bbd0d2bd26b7127", null ],
-      [ "NPC_FEL_CRYSTAL", "df/de2/a03410.html#a402e3e622f03a1eed719db587960e18bad5c5384a148b47a2c59d671014db6d35", null ],
-      [ "NPC_KAEL_THAS", "df/de2/a03410.html#a402e3e622f03a1eed719db587960e18ba1cc740bbad14c06e879fe922c561957c", null ],
-      [ "NPC_PHOENIX", "df/de2/a03410.html#a402e3e622f03a1eed719db587960e18ba93173f126c0dd252197a841ed9321048", null ],
-      [ "NPC_PHOENIX_EGG", "df/de2/a03410.html#a402e3e622f03a1eed719db587960e18ba37c8f15ed65139715f18d3d09d17a970", null ],
-      [ "NPC_KALECGOS", "df/de2/a03410.html#a402e3e622f03a1eed719db587960e18ba7434f1d158db88e1befb3cf56e801613", null ]
-    ] ],
-    [ "MTData", "df/de2/a03410.html#abdc560adf84eb5994b289f952995d059", [
-      [ "DATA_SELIN_FIREHEART", "df/de2/a03410.html#abdc560adf84eb5994b289f952995d059afd8c24b35ae0b3270c6446ed912864b8", null ],
-      [ "DATA_VEXALLUS", "df/de2/a03410.html#abdc560adf84eb5994b289f952995d059a7d511ceaf5f4b75dc6bf642fd4c002c3", null ],
-      [ "DATA_DELRISSA", "df/de2/a03410.html#abdc560adf84eb5994b289f952995d059af977a73eff024af1676aeb0fe6503c2f", null ],
-      [ "DATA_KAELTHAS", "df/de2/a03410.html#abdc560adf84eb5994b289f952995d059a9459cb9bb83f7a23115debb607cb25a3", null ],
-      [ "MAX_ENCOUNTER", "df/de2/a03410.html#abdc560adf84eb5994b289f952995d059a7913656ef56deb3793c0c5f3d999d80d", null ],
-      [ "DATA_KALECGOS", "df/de2/a03410.html#abdc560adf84eb5994b289f952995d059a053405afb85048224c161919aebd795d", null ],
-      [ "DATA_ESCAPE_ORB", "df/de2/a03410.html#abdc560adf84eb5994b289f952995d059a6c76e50a19d944f081dbe8c87034974f", null ],
-      [ "DATA_KAEL_INTRO", "df/de2/a03410.html#abdc560adf84eb5994b289f952995d059ad20d84b9105a6e9e87a44161e54c1d15", null ],
-      [ "MAX_PERSISTENT_DATA", "df/de2/a03410.html#abdc560adf84eb5994b289f952995d059ade8daf2d97d89b7bc637c9b5550e0449", null ]
-    ] ],
-    [ "MTGameObjects", "df/de2/a03410.html#a2b0621589774d4cc3afba085bc39867d", [
-      [ "GO_VEXALLUS_DOOR", "df/de2/a03410.html#a2b0621589774d4cc3afba085bc39867da660139f819500a248283735c336cf4e7", null ],
-      [ "GO_SELIN_DOOR", "df/de2/a03410.html#a2b0621589774d4cc3afba085bc39867da7ccc42cdb5402db90adb2298e29d4e64", null ],
-      [ "GO_SELIN_ENCOUNTER_DOOR", "df/de2/a03410.html#a2b0621589774d4cc3afba085bc39867da8b457fe7255a77748f94f13974791086", null ],
-      [ "GO_DELRISSA_DOOR", "df/de2/a03410.html#a2b0621589774d4cc3afba085bc39867da2ec22f0e669bef8a7bde879208fa8f6a", null ],
-      [ "GO_KAEL_DOOR", "df/de2/a03410.html#a2b0621589774d4cc3afba085bc39867dacafc1a0b7422ea5365367a4c964fee25", null ],
-      [ "GO_ESCAPE_ORB", "df/de2/a03410.html#a2b0621589774d4cc3afba085bc39867daf0d8c802b02ba5d48c9d4126534812fd", null ]
-    ] ],
-    [ "GetMagistersTerraceAI", "df/de2/a03410.html#ace003ea34649a460da4afbd65b38c987", null ]
+    [ "MapAreaMagic", "df/de2/a03410.html#a282d6b57d312c7299da392bbfa5c4167", null ],
+    [ "MapHeightMagic", "df/de2/a03410.html#a65782292e4a2b7a0891f1f1fada1c8e8", null ],
+    [ "MapLiquidMagic", "df/de2/a03410.html#a79c45da33fc6a30841fef644ecb7044f", null ],
+    [ "MapMagic", "df/de2/a03410.html#af2485144ba91e4d6202d195faaa192d3", null ],
+    [ "MapVersionMagic", "df/de2/a03410.html#abc01d27c4557068cbc748b21ff701539", null ]
 ];

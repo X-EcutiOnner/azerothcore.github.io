@@ -1,6 +1,6 @@
 var a22544 =
 [
-    [ "PrepareSpellScript", "d6/d2e/a22544.html#abd6b61e7efbed1427b7603640ac7d474", null ],
-    [ "RecalculateDamage", "d6/d2e/a22544.html#a02b59e5ac84c8556c9a9441ff6414461", null ],
-    [ "Register", "d6/d2e/a22544.html#ab6183bf9e49d3c11c256e54053c13aa2", null ]
+    [ "instance_mana_tombs_InstanceMapScript", "d4/dc8/a22548.html", "d4/dc8/a22548" ],
+    [ "instance_mana_tombs", "d6/d2e/a22544.html#a78ca8b378e4ab290f1eea2b2b5799630", null ],
+    [ "GetInstanceScript", "d6/d2e/a22544.html#a26e4dad0957df886bc446396ab48ceda", null ]
 ];

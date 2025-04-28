@@ -1,8 +1,7 @@
 var a16648 =
 [
-    [ "npc_fos_leaderAI", "dd/d91/a16648.html#ae6a80f77558e0f5a62efc3b5ef1f61d6", null ],
-    [ "DoAction", "dd/d91/a16648.html#a1fd8cea6f8a6d8f76ba3c484b15c4054", null ],
-    [ "Reset", "dd/d91/a16648.html#a33364da3af4681de9f9e21b9dcf7f16c", null ],
-    [ "UpdateAI", "dd/d91/a16648.html#ac6f2aedc40e415ac0f7e8c212d4deae5", null ],
-    [ "events", "dd/d91/a16648.html#ac02a0c34096086e7baf1dc004811f4c1", null ]
+    [ "HandleScriptEffect", "dd/d91/a16648.html#a667e50b01f431dba025f692484f6e7ba", null ],
+    [ "PrepareSpellScript", "dd/d91/a16648.html#a9a5ffd28102a519c06f3715d7f2b1039", null ],
+    [ "Register", "dd/d91/a16648.html#a7ffa6eb498e9ec06d5cb4f81cff44389", null ],
+    [ "Validate", "dd/d91/a16648.html#a0ab270193a95f9043afd40c9ffd2a46b", null ]
 ];

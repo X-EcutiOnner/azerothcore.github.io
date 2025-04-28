@@ -1,6 +1,7 @@
 var a18852 =
 [
-    [ "boss_gothikAI", "de/db7/a18856.html", "de/db7/a18856" ],
-    [ "boss_gothik", "d4/dab/a18852.html#a0c3ee990a1caf020e9a4be000f0b77e0", null ],
-    [ "GetAI", "d4/dab/a18852.html#aea7aec86c4132521fb7b9b6e87baf289", null ]
+    [ "HandleTriggerSpell", "d4/dab/a18852.html#a0e75076c2aed1544c544b976ee9cfbcd", null ],
+    [ "PrepareAuraScript", "d4/dab/a18852.html#a6ce4c5c2b6797b38225ac3348aad5892", null ],
+    [ "Register", "d4/dab/a18852.html#af87272995f6eeb3bc53cf472f5c3e9d3", null ],
+    [ "Validate", "d4/dab/a18852.html#a813bad39641956fff697580f271416d2", null ]
 ];

@@ -1,7 +1,6 @@
 var a20784 =
 [
-    [ "OnApply", "d3/d96/a20784.html#a7dd5b6217db77373dfba5958a2376ff1", null ],
-    [ "OnRemove", "d3/d96/a20784.html#a39510971a0e1dbd800efc37c2e09c74f", null ],
-    [ "PrepareAuraScript", "d3/d96/a20784.html#a35c1e8f81229565e5d333ec42aa2e92c", null ],
-    [ "Register", "d3/d96/a20784.html#a27fdfe00e5201b6472a282f4589a66cc", null ]
+    [ "boss_yoggsaron_influence_tentacleAI", "d3/d96/a20784.html#ae7457ed8084888b1074a44dd9a7ed0c7", null ],
+    [ "DamageTaken", "d3/d96/a20784.html#ad46e93ffb89c9c3ee9bfbe0f27c7117c", null ],
+    [ "JustDied", "d3/d96/a20784.html#ab09c96d167b9502098b9a7a2fa1b82ec", null ]
 ];

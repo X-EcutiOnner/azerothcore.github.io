@@ -1,9 +1,8 @@
 var a28252 =
 [
-    [ "TimeSeg", "d5/df9/a28252.html#a16782e722a5bada41691841fe594b7a6", null ],
-    [ "TransportEntry", "d5/df9/a28252.html#afcdb94a38d68d2ff8af225dc599db8a4", null ],
-    [ "W", "d5/df9/a28252.html#a4158a2babefbf4e148a64fe16bf113f6", null ],
-    [ "X", "d5/df9/a28252.html#a9c7cb1fd0463d1158d971db6f15431ff", null ],
-    [ "Y", "d5/df9/a28252.html#a7f0ff898e752e2e904ebee1412643df6", null ],
-    [ "Z", "d5/df9/a28252.html#a87647d71a965e80154ca36dc05421585", null ]
+    [ "NoRuneCost", "d5/df9/a28252.html#a599b2089d52bf4a009c5fbac3b0d3279", null ],
+    [ "NoRunicPowerGain", "d5/df9/a28252.html#a97da075ecd116ef27fd4265bb8380667", null ],
+    [ "ID", "d5/df9/a28252.html#aed245962cf1830cfa66e369b22a7ba6f", null ],
+    [ "RuneCost", "d5/df9/a28252.html#a18c2e6daaaefe1c8be4a83c55a3670ff", null ],
+    [ "runePowerGain", "d5/df9/a28252.html#ac5f9c69d83ff9cf230124b9dad10008b", null ]
 ];

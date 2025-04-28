@@ -1,6 +1,8 @@
 var a19376 =
 [
-    [ "CalculateDamage", "dd/d78/a19376.html#ae38f8cfb44de2798d7a284c942617678", null ],
-    [ "PrepareSpellScript", "dd/d78/a19376.html#a043955d56e0ae4c54d70e8fe6e417dd1", null ],
-    [ "Register", "dd/d78/a19376.html#ab4b32d2db39c8d9079a83c89d63ccd93", null ]
+    [ "HandleEffectPeriodic", "dd/d78/a19376.html#abb453e3d38677be7082f2cd4e43134cc", null ],
+    [ "HandleOnEffectApply", "dd/d78/a19376.html#a3ec47d5d9fdbdcfe671e02c3b0f55980", null ],
+    [ "PrepareAuraScript", "dd/d78/a19376.html#ac00c6d9b1cccb38b5d87b3139295614c", null ],
+    [ "Register", "dd/d78/a19376.html#ae4de4f0f2f4dc4ac98706ddd898df7c5", null ],
+    [ "Validate", "dd/d78/a19376.html#a09481646f8ec90b0135d93d83cc18929", null ]
 ];

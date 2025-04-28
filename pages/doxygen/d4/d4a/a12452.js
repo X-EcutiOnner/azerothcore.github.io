@@ -1,9 +1,9 @@
 var a12452 =
 [
-    [ "HandleEffectApply", "d4/d4a/a12452.html#ab1f4879fd9bd3982b9695bda886b0b99", null ],
-    [ "HandleEffectRemove", "d4/d4a/a12452.html#a8e38bc0ebf6b62982eee84e4c2722413", null ],
-    [ "Load", "d4/d4a/a12452.html#a8259745e21c561e4eedabc87ca8bdf73", null ],
-    [ "PrepareAuraScript", "d4/d4a/a12452.html#abec6d69d331e9952c129dc4cc24f0f13", null ],
-    [ "Register", "d4/d4a/a12452.html#a201bafab6c483b08a6ae27054392dea9", null ],
-    [ "Validate", "d4/d4a/a12452.html#a94aa1bd618035323b1fd4817fa7f9687", null ]
+    [ "npc_flamewaker_priestAI", "d4/d4a/a12452.html#aa0508dda5bc365896128f088b6de30f4", null ],
+    [ "JustDied", "d4/d4a/a12452.html#ad1f51c4589abe6ef5bcf513d70e34a4c", null ],
+    [ "JustEngagedWith", "d4/d4a/a12452.html#a15fefb756ad1ae20257d4ed9cb1d3eca", null ],
+    [ "Reset", "d4/d4a/a12452.html#a3c3629a6c6987e861e40a893363d2508", null ],
+    [ "UpdateAI", "d4/d4a/a12452.html#a28c0ed65521f3d2150874ddc1b913933", null ],
+    [ "events", "d4/d4a/a12452.html#a7d769cc852a69fdf719cb7958c3d890c", null ]
 ];

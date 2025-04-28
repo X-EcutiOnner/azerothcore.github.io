@@ -1,6 +1,7 @@
 var a16312 =
 [
-    [ "npc_toc_dkAI", "d2/d06/a16316.html", "d2/d06/a16316" ],
-    [ "npc_toc_dk", "d6/dd6/a16312.html#ac8b2c11f64f9cc6f4be91be1e3184b8a", null ],
-    [ "GetAI", "d6/dd6/a16312.html#ac5252f0f7ab993c8187aff17dac7a795", null ]
+    [ "npc_toc_priestAI", "d6/dd6/a16312.html#aa362d2136193a8738e311bba18b87c90", null ],
+    [ "myCanCast", "d6/dd6/a16312.html#ad2d4286d8f51a2d5a4901487e56506dc", null ],
+    [ "UpdateAI", "d6/dd6/a16312.html#ae51d2ac95320909150c673b76c9856c7", null ],
+    [ "events", "d6/dd6/a16312.html#aa5be20e87351424e0e4698540fc1fef4", null ]
 ];

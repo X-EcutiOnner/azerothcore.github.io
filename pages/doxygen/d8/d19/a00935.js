@@ -1,8 +1,12 @@
 var a00935 =
 [
-    [ "instance_trial_of_the_champion", "d8/de2/a16156.html", "d8/de2/a16156" ],
-    [ "instance_trial_of_the_champion::instance_trial_of_the_champion_InstanceMapScript", "d2/d83/a16160.html", "d2/d83/a16160" ],
-    [ "CLEANUP_CHECK_INTERVAL", "d8/d19/a00935.html#a736c9181af440341040d67d6b54e5700", null ],
-    [ "AddSC_instance_trial_of_the_champion", "d8/d19/a00935.html#a15e8163b6e8598d38b9f8c3b0ab9d5bd", null ],
-    [ "SpawnPosition", "d8/d19/a00935.html#a70438d12d4153aa7d510c89551abf7c9", null ]
+    [ "instance_stratholme", "da/d52/a13112.html", "da/d52/a13112" ],
+    [ "instance_stratholme::instance_stratholme_InstanceMapScript", "d6/d8e/a13116.html", "d6/d8e/a13116" ],
+    [ "AddSC_instance_stratholme", "d8/d19/a00935.html#add44fd9ad05267cc5db256b112db2585", null ],
+    [ "aGateTrap", "d8/d19/a00935.html#aa404f6799978911e2f0e4de3b4386c59", null ],
+    [ "aPlaguedCritters", "d8/d19/a00935.html#a4108af811b2731f9784942b89f333054", null ],
+    [ "BarthilasPos", "d8/d19/a00935.html#a3c5bc53064d7ed19146d61fbe2f25502", null ],
+    [ "BlackGuardPos", "d8/d19/a00935.html#a8ed1ccc03c022b129aa9bb9464fedd0a", null ],
+    [ "MindlessUndeadPos", "d8/d19/a00935.html#a1a89feed6c582c3bf3e51bf3a1027081", null ],
+    [ "SlaughterPos", "d8/d19/a00935.html#aec64d79cbf450b10fd485f2e559e0472", null ]
 ];

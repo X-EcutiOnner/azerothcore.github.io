@@ -1,8 +1,12 @@
 var a00257 =
 [
-    [ "Acore::Asio::IoContext", "d6/ddb/a04853.html", "d6/ddb/a04853" ],
-    [ "IoContextBase", "d9/d39/a00257.html#a0ec391e3d78f246934f76abd937aecd8", null ],
-    [ "IoContextBaseNamespace", "d9/d39/a00257.html#ad5308134581a9f19bfac4d556ec345b9", null ],
-    [ "get_io_context", "d9/d39/a00257.html#a47f8fe35925492e3f01d723115279f2e", null ],
-    [ "post", "d9/d39/a00257.html#ac437e3511a92ead72c7d3c1f6004daaf", null ]
+    [ "MMAP::IMMapMgr", "db/d15/a04928.html", "db/d15/a04928" ],
+    [ "MMAP_LOAD_RESULT", "d9/d39/a00257.html#a329271d76c3ed7ad6d255d45094b4868", [
+      [ "MMAP_LOAD_RESULT_ERROR", "d9/d39/a00257.html#a329271d76c3ed7ad6d255d45094b4868a66ec06574c26cbc0b14b939c3cb09f85", null ],
+      [ "MMAP_LOAD_RESULT_OK", "d9/d39/a00257.html#a329271d76c3ed7ad6d255d45094b4868ad7493681e0258dd1099139230f17df10", null ],
+      [ "MMAP_LOAD_RESULT_IGNORED", "d9/d39/a00257.html#a329271d76c3ed7ad6d255d45094b4868a87dfee65ac7d1c8acf69eea806a151c8", null ],
+      [ "MMAP_LOAD_RESULT_ERROR", "d9/d39/a00257.html#a329271d76c3ed7ad6d255d45094b4868a66ec06574c26cbc0b14b939c3cb09f85", null ],
+      [ "MMAP_LOAD_RESULT_OK", "d9/d39/a00257.html#a329271d76c3ed7ad6d255d45094b4868ad7493681e0258dd1099139230f17df10", null ],
+      [ "MMAP_LOAD_RESULT_IGNORED", "d9/d39/a00257.html#a329271d76c3ed7ad6d255d45094b4868a87dfee65ac7d1c8acf69eea806a151c8", null ]
+    ] ]
 ];

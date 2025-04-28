@@ -1,7 +1,7 @@
 var a28684 =
 [
-    [ "HandleDummy", "d0/d97/a28684.html#abd35c974f5ebec4c8845c05ab4f6d309", null ],
-    [ "PrepareSpellScript", "d0/d97/a28684.html#a99deca1c5c8631342be400cb863eefb2", null ],
-    [ "Register", "d0/d97/a28684.html#aa5ecc51b030fe7280e824ade641216d3", null ],
-    [ "Validate", "d0/d97/a28684.html#a731503d3769718695d109ad71160e67a", null ]
+    [ "Paths", "d0/d97/a28684.html#aff167c694a55441bcf5504f5d1933f41", null ],
+    [ "References", "d0/d97/a28684.html#a07f0d7daa9cd934768b8a603dc52bea3", null ],
+    [ "Sets", "d0/d97/a28684.html#a43774f8dd70e85e16aa8d49b5c6a25b6", null ],
+    [ "Spawns", "d0/d97/a28684.html#a51f24c059516683f0744b81819186c0e", null ]
 ];

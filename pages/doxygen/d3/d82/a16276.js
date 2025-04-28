@@ -1,8 +1,7 @@
 var a16276 =
 [
-    [ "npc_toc_warlockAI", "d3/d82/a16276.html#a4c4c2f502f00ca48bb7419434d88ea3a", null ],
-    [ "JustSummoned", "d3/d82/a16276.html#a203ef748afaa400aa1f8365b5d7bf6b1", null ],
-    [ "myCanCast", "d3/d82/a16276.html#a62b2df362bc07aa4a9c14cbc63a10e05", null ],
-    [ "UpdateAI", "d3/d82/a16276.html#a554849d02d923439bd810b7d8c242afa", null ],
-    [ "events", "d3/d82/a16276.html#a3b84c70d246bbf5b70ab4dec06c647b3", null ]
+    [ "HandleAfterHit", "d3/d82/a16276.html#a6fc446385881ddb4c94de73199649816", null ],
+    [ "PrepareSpellScript", "d3/d82/a16276.html#acaed5d5902194f8ba9d2b286cd47d8d0", null ],
+    [ "Register", "d3/d82/a16276.html#aaae368b2f647aa6a56827550e50dafe1", null ],
+    [ "Validate", "d3/d82/a16276.html#ad4c84071b538b657fa1302982f8799b4", null ]
 ];

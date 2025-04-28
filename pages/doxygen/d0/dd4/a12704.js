@@ -1,6 +1,5 @@
 var a12704 =
 [
-    [ "HandleProc", "d0/dd4/a12704.html#a945dad46d3c11ee4720c939390a9dc1b", null ],
-    [ "PrepareAuraScript", "d0/dd4/a12704.html#a43953f2950d9a92db66a2c65a045ff6e", null ],
-    [ "Register", "d0/dd4/a12704.html#a24df76ff0933685bade58deff98856d2", null ]
+    [ "textid", "d0/dd4/a12704.html#a7dac5c31d7df501f28eee3e1dec0523a", null ],
+    [ "timer", "d0/dd4/a12704.html#ab7851f383e7221c6ff2700ee345d9504", null ]
 ];

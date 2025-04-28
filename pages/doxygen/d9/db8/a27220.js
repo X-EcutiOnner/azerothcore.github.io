@@ -1,8 +1,5 @@
 var a27220 =
 [
-    [ "go_bellsAI", "d9/db8/a27220.html#a6f22847c66a3b5faded35da799359846", null ],
-    [ "UpdateAI", "d9/db8/a27220.html#ab466f67665577f22bfe6cdb94d0a008b", null ],
-    [ "_events", "d9/db8/a27220.html#a46c66442078cee28a76fc412746ca026", null ],
-    [ "_soundId", "d9/db8/a27220.html#ab2491e9d27266ea69a5a9163e8c1b35b", null ],
-    [ "once", "d9/db8/a27220.html#abf6ca2fc64f5764936a6d0179d40c2fa", null ]
+    [ "go_tele_to_dalaran_crystal", "d9/db8/a27220.html#ab41268b7d568e8f189338f27cd90a62c", null ],
+    [ "OnGossipHello", "d9/db8/a27220.html#a7f754a29249653ca7848494310ef1a8d", null ]
 ];

@@ -1,6 +1,6 @@
 var a17960 =
 [
-    [ "npc_spinestalkerAI", "de/dbb/a17964.html", "de/dbb/a17964" ],
-    [ "npc_spinestalker", "dd/d12/a17960.html#a477f951c79045d553901b1e6b6ad2d4f", null ],
-    [ "GetAI", "dd/d12/a17960.html#a725f1b1db90d700772bfb76e0f85f1f3", null ]
+    [ "CheckProc", "dd/d12/a17960.html#ad701d353f03eb5a1ccca28a6530555db", null ],
+    [ "PrepareAuraScript", "dd/d12/a17960.html#a51794aa0a42180d9a0f4e9f6d5febca4", null ],
+    [ "Register", "dd/d12/a17960.html#a4f787e29064c15f4dad9047ff618982a", null ]
 ];

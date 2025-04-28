@@ -1,6 +1,6 @@
 var a21184 =
 [
-    [ "npc_ichor_globuleAI", "d0/ddd/a21188.html", "d0/ddd/a21188" ],
-    [ "npc_ichor_globule", "d8/d6d/a21184.html#a4dbd3b057e319ba83e0e1c94b99cd2ab", null ],
-    [ "GetAI", "d8/d6d/a21184.html#a4fed5ebd2e1b6ff6867a9488a6e1aef2", null ]
+    [ "npc_frozen_orbAI", "d0/ddd/a21188.html", "d0/ddd/a21188" ],
+    [ "npc_frozen_orb", "d8/d6d/a21184.html#ac14966722e39b2b6b3a907756701ed98", null ],
+    [ "GetAI", "d8/d6d/a21184.html#a2f9e1a2cb14ee9e5f24e02aa97697116", null ]
 ];

@@ -1,6 +1,7 @@
 var a25296 =
 [
-    [ "CheckCast", "df/d36/a25296.html#a7fa12be149f0cb2202142d7f44cde0a6", null ],
-    [ "PrepareSpellScript", "df/d36/a25296.html#ad6867dad8bda358bd1479935c80b82e7", null ],
-    [ "Register", "df/d36/a25296.html#a0ab2f1f2a87db93e54dc883c4e53d7ba", null ]
+    [ "HandleOnEffectApply", "df/d36/a25296.html#a90359e3dbb5c2c8caf275f21c107ee0a", null ],
+    [ "HandleOnEffectRemove", "df/d36/a25296.html#a094d788d157474a9683387d5c340538f", null ],
+    [ "PrepareAuraScript", "df/d36/a25296.html#aad378b8c45f11af51faf9128878c01df", null ],
+    [ "Register", "df/d36/a25296.html#a8fcc385f504b3b357e9ceab76f11ca46", null ]
 ];

@@ -1,7 +1,10 @@
 var a20792 =
 [
-    [ "FilterTargets", "da/d59/a20792.html#a4e27a01b87e6f003ed52da45a4bda403", null ],
-    [ "HandleDummyEffect", "da/d59/a20792.html#abfe7ff12346d54fe3a0c1450897e58ee", null ],
-    [ "PrepareSpellScript", "da/d59/a20792.html#a0c31912e28eaa5922edb1ca4c7689883", null ],
-    [ "Register", "da/d59/a20792.html#a337cdb940a2001ac370768b02126d3c0", null ]
+    [ "boss_yoggsaron_immortal_guardianAI", "da/d59/a20792.html#a84a3ffe43a4ce49cd543f770594cd683", null ],
+    [ "DamageTaken", "da/d59/a20792.html#aec157bcf0628a7301bcb91dd62bcc484", null ],
+    [ "Reset", "da/d59/a20792.html#a763f772414f00c0f83402e1a635b6bd0", null ],
+    [ "SpellHit", "da/d59/a20792.html#a60721961f2eb5e91c15890252166b872", null ],
+    [ "UpdateAI", "da/d59/a20792.html#a7fa550f683fcf16f5bd70a307bffcb2b", null ],
+    [ "_spellTimer", "da/d59/a20792.html#a4ed360380707195e10753436020b67eb", null ],
+    [ "_visualTimer", "da/d59/a20792.html#a8c382c37aaa3d20cfc0fe604af52bef4", null ]
 ];

@@ -1,7 +1,8 @@
 var a14512 =
 [
-    [ "hyjalThrallAI", "d5/d12/a14516.html", "d5/d12/a14516" ],
-    [ "npc_hyjal_thrall", "d0/dbc/a14512.html#a232f085f208a47f7fae08128de1d06b8", null ],
-    [ "GetAI", "d0/dbc/a14512.html#a699b5df19e4e84166348ecfba2dd0172", null ],
-    [ "OnGossipSelect", "d0/dbc/a14512.html#af833f26d79d34655c010aa04f984a94a", null ]
+    [ "npc_doomfire_spirit", "d0/dbc/a14512.html#a3d16e8437c2e90ad1ab5de609f4fcff0", null ],
+    [ "Reset", "d0/dbc/a14512.html#a0600718fad91723eba74b903583c5942", null ],
+    [ "TryTeleportInDirection", "d0/dbc/a14512.html#a7fc48df636df66a006a8179fd63e2a65", null ],
+    [ "UpdateAI", "d0/dbc/a14512.html#aa0d953c28f25e2838f3b24364b51f10b", null ],
+    [ "turnConstant", "d0/dbc/a14512.html#afeab7c791c31457d86e98a0064fa6ad8", null ]
 ];

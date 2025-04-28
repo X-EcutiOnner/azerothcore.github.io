@@ -1,10 +1,7 @@
 var a09272 =
 [
-    [ "NearestGameObjectEntryInObjectRangeCheck", "de/d9c/a09272.html#a7d57ae865868d4848caf088c4520b2a7", null ],
-    [ "NearestGameObjectEntryInObjectRangeCheck", "de/d9c/a09272.html#a28d97af524c2bab39e1bd2e5508e434b", null ],
-    [ "operator()", "de/d9c/a09272.html#ad0c6798e28784ed547102414f4c6a31f", null ],
-    [ "i_entry", "de/d9c/a09272.html#a5d19a23e7da2e5e5ed417d0a9623ffbb", null ],
-    [ "i_obj", "de/d9c/a09272.html#a104b8bece6ea78ba049dc592e54311be", null ],
-    [ "i_onlySpawned", "de/d9c/a09272.html#a2a58a6bcff73142e21c082bf2c11eff2", null ],
-    [ "i_range", "de/d9c/a09272.html#a94fc995a14f84060f3bfe5827f17b95e", null ]
+    [ "GameObjectFocusCheck", "de/d9c/a09272.html#a06607ffa0ebf51c230f4584632a7444a", null ],
+    [ "operator()", "de/d9c/a09272.html#af5c0b63b8bfe112c9a8a43d7e49e1f7b", null ],
+    [ "i_focusId", "de/d9c/a09272.html#ace009546c2dcc6dac5de98b3c34152a5", null ],
+    [ "i_unit", "de/d9c/a09272.html#a0afc07e086f5aa3301c2b46a0004213e", null ]
 ];

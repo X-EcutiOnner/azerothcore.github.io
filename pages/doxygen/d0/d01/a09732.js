@@ -1,8 +1,8 @@
 var a09732 =
 [
-    [ "BoundaryIntersectBoundary", "d0/d01/a09732.html#ad92d938418434a1cb6a0eb68c88d281c", null ],
-    [ "~BoundaryIntersectBoundary", "d0/d01/a09732.html#ad8bbf96e48d18ef87ac31dea8bcb023b", null ],
-    [ "IsWithinBoundaryArea", "d0/d01/a09732.html#a09c8440d1ddb8264bff4065910b7e0a5", null ],
-    [ "_b1", "d0/d01/a09732.html#ab0239437fa92e39d144bf3856eb347c7", null ],
-    [ "_b2", "d0/d01/a09732.html#a41e100c17db99990981293399660824c", null ]
+    [ "CircleBoundary", "d0/d01/a09732.html#a1f58f718ac4e4f6de029a0d46954012e", null ],
+    [ "CircleBoundary", "d0/d01/a09732.html#a10387b9a70013ecc15ae4f31dd1f21f3", null ],
+    [ "IsWithinBoundaryArea", "d0/d01/a09732.html#ad8eef3c2c98ee71a7d28d1e5d93ee508", null ],
+    [ "_center", "d0/d01/a09732.html#a65edd0aef7b73b176e5e311bb0d63738", null ],
+    [ "_radiusSq", "d0/d01/a09732.html#acbb3cc0c546f0e557a48a45425355950", null ]
 ];

@@ -1,6 +1,7 @@
 var a25204 =
 [
-    [ "OnProc", "db/dfe/a25204.html#ac7f0a86f2d0c5dcb945eb7ccb9cd5c88", null ],
-    [ "PrepareAuraScript", "db/dfe/a25204.html#a6a7b011f151ff81672221b84eb4456b8", null ],
-    [ "Register", "db/dfe/a25204.html#a15b05d352f94d2aabeb75a6bfd996fc6", null ]
+    [ "HandleDamage", "db/dfe/a25204.html#a9c9bbe49388cf5d04650572fdf789e5e", null ],
+    [ "PrepareSpellScript", "db/dfe/a25204.html#ac89a628f1aba54aa2ade876a4f7911b8", null ],
+    [ "Register", "db/dfe/a25204.html#a627bffccdd78c00f0f5a4241f36aeec8", null ],
+    [ "Validate", "db/dfe/a25204.html#aed63b40f8e2cc6fd32dd536a2d56c7c3", null ]
 ];

@@ -1,11 +1,8 @@
 var a16040 =
 [
-    [ "boss_saviana_ragefireAI", "d8/dec/a16040.html#ab4fa6a2cc57c9d110bfd3cf16a016942", null ],
-    [ "JustDied", "d8/dec/a16040.html#a30331f9cdb141cd2dbc043888b48a6eb", null ],
-    [ "JustEngagedWith", "d8/dec/a16040.html#a458eb370872c20441b5ec6ecd2c97500", null ],
-    [ "JustReachedHome", "d8/dec/a16040.html#a74abf893a37874eb98aa5ba9883e8d62", null ],
-    [ "KilledUnit", "d8/dec/a16040.html#ac07513681c72d6748246cc7c349d117c", null ],
-    [ "MovementInform", "d8/dec/a16040.html#aed4c70f571586c8cbcc044c01bdc472d", null ],
-    [ "Reset", "d8/dec/a16040.html#a4b7f103331c566cbf007a075161505af", null ],
-    [ "UpdateAI", "d8/dec/a16040.html#af36ca2a359f950a10214d07aad240324", null ]
+    [ "Load", "d8/dec/a16040.html#a55dc086667f0fe23e513608e951276ed", null ],
+    [ "Phase", "d8/dec/a16040.html#af66a6bff13803e54b6ed1447d1285ad4", null ],
+    [ "PrepareSpellScript", "d8/dec/a16040.html#ae2c7cbd68ccf893144e38581a6f86f04", null ],
+    [ "Register", "d8/dec/a16040.html#a8ab7e05e98771abcf9bed9995875b71d", null ],
+    [ "Validate", "d8/dec/a16040.html#a87192df547adaf3cb060155d9cf4da79", null ]
 ];

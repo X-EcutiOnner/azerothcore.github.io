@@ -1,5 +1,6 @@
 var a23488 =
 [
-    [ "at_rp_nethekurse", "dc/d2b/a23488.html#ac0a1891f90b674ad0ccbeb27f170e643", null ],
-    [ "_OnTrigger", "dc/d2b/a23488.html#a93001d6dda7b2711f1efe100ffab5879", null ]
+    [ "instance_hellfire_ramparts_InstanceMapScript", "dd/d15/a23492.html", "dd/d15/a23492" ],
+    [ "instance_hellfire_ramparts", "dc/d2b/a23488.html#ab6ee671123dd0d736e9745e45e04b8da", null ],
+    [ "GetInstanceScript", "dc/d2b/a23488.html#a6f2dc361984b33c1d14d62d67a563e8d", null ]
 ];

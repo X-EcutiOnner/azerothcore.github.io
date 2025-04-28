@@ -1,6 +1,7 @@
 var a22720 =
 [
-    [ "PrepareAuraScript", "d3/d4a/a22720.html#ac52a5dccc708f9ee63f3c6c92fbf15c1", null ],
-    [ "Register", "d3/d4a/a22720.html#acc4afbe7f2b23b67e8f7e3fe1eeb03b5", null ],
-    [ "Update", "d3/d4a/a22720.html#aa9f5924b3f12c666c53ddc2b9b80aeea", null ]
+    [ "VerasEnvenom", "d3/d4a/a22720.html#ac8c5f4fcb63ea5141a71b56324de0b1f", null ],
+    [ "Execute", "d3/d4a/a22720.html#a4b7853bb835cf28aefe2d5b955372d70", null ],
+    [ "_owner", "d3/d4a/a22720.html#af9cf231119ab5592be9829784f20d2e0", null ],
+    [ "_targetGUID", "d3/d4a/a22720.html#a90d62907c775565765fa87903adb94ea", null ]
 ];

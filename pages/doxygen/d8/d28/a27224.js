@@ -1,5 +1,5 @@
 var a27224 =
 [
-    [ "go_duskwither_spire_power_source", "d8/d28/a27224.html#aab69de16e8b744af2671e2ed882ee94a", null ],
-    [ "OnGossipHello", "d8/d28/a27224.html#a2c7fd017e7985b99bff187119157a041", null ]
+    [ "go_tele_to_violet_stand", "d8/d28/a27224.html#a63350db1dfd400c565e30775378d48cc", null ],
+    [ "OnGossipHello", "d8/d28/a27224.html#a4d075584f065501a2c3be9ef82387f43", null ]
 ];

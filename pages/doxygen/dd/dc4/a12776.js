@@ -1,7 +1,5 @@
 var a12776 =
 [
-    [ "HandleScriptEffect", "dd/dc4/a12776.html#a1b196f3817c16fac48392981b58c1a05", null ],
-    [ "PrepareSpellScript", "dd/dc4/a12776.html#ad44566ff9a44057679e7ce8e1959776d", null ],
-    [ "Register", "dd/dc4/a12776.html#aef3bfdaff9f0b5080d83805a1a962a79", null ],
-    [ "Validate", "dd/dc4/a12776.html#a70a1f0d2666921ccbad62c1fd06fe4b6", null ]
+    [ "boss_zelfan", "dd/dc4/a12776.html#a169e72dfe50c5199bf0053828888095b", null ],
+    [ "JustEngagedWith", "dd/dc4/a12776.html#a4e83c11ad95ea4dbea893a08671f17af", null ]
 ];

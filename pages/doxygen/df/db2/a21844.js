@@ -1,6 +1,9 @@
 var a21844 =
 [
-    [ "npc_attracted_reef_bullAI", "d5/df6/a21848.html", "d5/df6/a21848" ],
-    [ "npc_attracted_reef_bull", "df/db2/a21844.html#acd0ade9e7ce5492c11be0b3f2696418e", null ],
-    [ "GetAI", "df/db2/a21844.html#af705e2768cd41c955af7f944c670ac85", null ]
+    [ "npc_wounded_skirmisher", "df/db2/a21844.html#a30fe2d901df0cfd9b66f3dbd6a1e6aea", null ],
+    [ "Initialize", "df/db2/a21844.html#ae5fab920fcb16b57e0ed53a1177d319b", null ],
+    [ "JustEngagedWith", "df/db2/a21844.html#a80357b71a1eccdcdce8c8bea87de1b66", null ],
+    [ "Reset", "df/db2/a21844.html#acca266640c099718d2a0fd4f6a3c47ab", null ],
+    [ "SpellHit", "df/db2/a21844.html#a891e879af5da1f181c94e528c59a81f1", null ],
+    [ "UpdateAI", "df/db2/a21844.html#a52f8e7f8df05504cad4b4438c50814a4", null ]
 ];

@@ -1,6 +1,8 @@
 var a14576 =
 [
-    [ "boss_meathookAI", "d7/dbe/a14580.html", "d7/dbe/a14580" ],
-    [ "boss_meathook", "d0/d09/a14576.html#a044c8ec4a419e5c5a8b290df9c0ad169", null ],
-    [ "GetAI", "d0/d09/a14576.html#ae8ee3631ff1f80f4fad99e4eca042ad8", null ]
+    [ "hyjalTyrandeAI", "d0/d09/a14576.html#ac2f5449b60cd137dbc1f6ddc8afe5309", null ],
+    [ "JustDied", "d0/d09/a14576.html#af5c7b843b8e1a7c0864b55853bc62097", null ],
+    [ "JustEngagedWith", "d0/d09/a14576.html#a158589b567d22c8f6e0be462bad8299d", null ],
+    [ "Reset", "d0/d09/a14576.html#a5ea52a1ee3730630d1efbdac4ad24c80", null ],
+    [ "UpdateAI", "d0/d09/a14576.html#a9e825f9d87df6227b73eb965488eff8a", null ]
 ];

@@ -1,4 +1,5 @@
 var a10228 =
 [
-    [ "DynamicObjectScript", "d5/d82/a10228.html#a8bbdc4e8f2da8ab49b817ca5d7f89f6f", null ]
+    [ "CommandScript", "d5/d82/a10228.html#afb9ef0145bb5eedee7fd61609868ba20", null ],
+    [ "GetCommands", "d5/d82/a10228.html#a97dc7d00b78e0030ba2a950d23b2ebd2", null ]
 ];

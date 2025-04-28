@@ -1,6 +1,6 @@
 var a21876 =
 [
-    [ "npc_razael_and_lyana", "d4/d07/a21876.html#aec7257a1136a3580e2b4542e032429d6", null ],
-    [ "OnGossipHello", "d4/d07/a21876.html#a9c9085db92853d5275c12e804a68b0fc", null ],
-    [ "OnGossipSelect", "d4/d07/a21876.html#a407d8344280e8e38efb3991fda1d52cd", null ]
+    [ "npc_rocket_propelled_warheadAI", "de/d37/a21880.html", "de/d37/a21880" ],
+    [ "npc_rocket_propelled_warhead", "d4/d07/a21876.html#a5c945efc6e3ca847363ac47abc5f51ca", null ],
+    [ "GetAI", "d4/d07/a21876.html#a803702c480107d197845a0ef447a5380", null ]
 ];

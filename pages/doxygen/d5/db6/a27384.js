@@ -1,9 +1,12 @@
 var a27384 =
 [
-    [ "npc_target_dummyAI", "d5/db6/a27384.html#a117e45559ea721877d73df4b3c18a259", null ],
-    [ "EnterEvadeMode", "d5/db6/a27384.html#a8f7f2e4decc676e378b4929516f8a147", null ],
-    [ "MoveInLineOfSight", "d5/db6/a27384.html#a05f5b1f2cb8f0926bf425e7c31d618e2", null ],
-    [ "Reset", "d5/db6/a27384.html#a4e8f8d1da604a80b60d61f72ed4ecbcf", null ],
-    [ "UpdateAI", "d5/db6/a27384.html#ae686aa48ab7e91988e5b71c71695ce47", null ],
-    [ "deathTimer", "d5/db6/a27384.html#abf5bd5122e79a62a03c19a18cd68498b", null ]
+    [ "npc_preciousAI", "d5/db6/a27384.html#ade66f3aa2ff9ac85c99a9d31591fcabf", null ],
+    [ "FlagForDespawn", "d5/db6/a27384.html#a934a5147c1cc9937189011fb061657da", null ],
+    [ "InitializeAI", "d5/db6/a27384.html#aa15843c4029f2df2ee04d21b5157602a", null ],
+    [ "JustEngagedWith", "d5/db6/a27384.html#a58bc4149111605850f070a77ee776313", null ],
+    [ "JustReachedHome", "d5/db6/a27384.html#a31893e9441b24398554370a58ef8bd78", null ],
+    [ "Reset", "d5/db6/a27384.html#aa1c39ce0110827d35ae2d5ea794e1744", null ],
+    [ "UpdateAI", "d5/db6/a27384.html#a2f3428807957bd60fdbe6f694bb6d3ef", null ],
+    [ "events", "d5/db6/a27384.html#a69a20e759b1bcb631cef0bf1e4dd8a1b", null ],
+    [ "flaggedForDespawn", "d5/db6/a27384.html#a48e891f8afce9408ed38c51a0e2d4005", null ]
 ];

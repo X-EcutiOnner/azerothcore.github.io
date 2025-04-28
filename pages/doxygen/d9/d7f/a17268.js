@@ -1,6 +1,6 @@
 var a17268 =
 [
-    [ "boss_deathbringer_saurfangAI", "df/d52/a17272.html", "df/d52/a17272" ],
-    [ "boss_deathbringer_saurfang", "d9/d7f/a17268.html#ad19893be7dc3b4290d9b1ed3bb992e08", null ],
-    [ "GetAI", "d9/d7f/a17268.html#a6bc1ef44b3ea9e860d62bf78cfa38c92", null ]
+    [ "boss_blood_queen_lana_thelAI", "df/d52/a17272.html", "df/d52/a17272" ],
+    [ "boss_blood_queen_lana_thel", "d9/d7f/a17268.html#a9f8fa906f01082caacd106abc2707b07", null ],
+    [ "GetAI", "d9/d7f/a17268.html#a7873efd945bdb24228866f639e32879b", null ]
 ];

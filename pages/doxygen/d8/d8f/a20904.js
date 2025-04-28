@@ -1,5 +1,6 @@
 var a20904 =
 [
-    [ "AreaTrigger_at_celestial_planetarium_enterance", "d8/d8f/a20904.html#ae1503a754a05a77991d9955a2fb74265", null ],
-    [ "OnTrigger", "d8/d8f/a20904.html#aa7aa93e00170313de251af4e562c422c", null ]
+    [ "achievement_yogg_saron_darkness", "d8/d8f/a20904.html#a536c7156305d47c41a062d3c1a1b16eb", null ],
+    [ "OnCheck", "d8/d8f/a20904.html#a809902fca87abaeb4334132763624ed6", null ],
+    [ "_keepersCount", "d8/d8f/a20904.html#a765ec4606bb489760ed1e15db10de1dc", null ]
 ];

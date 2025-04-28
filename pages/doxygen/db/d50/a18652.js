@@ -1,6 +1,6 @@
 var a18652 =
 [
-    [ "npc_icc_valkyr_heraldAI", "de/d99/a18656.html", "de/d99/a18656" ],
-    [ "npc_icc_valkyr_herald", "db/d50/a18652.html#a9d06e0dec8cb960d34c2089c1c0d8ccb", null ],
-    [ "GetAI", "db/d50/a18652.html#a7537269841d0380d2dc9e4641705acf9", null ]
+    [ "HandleScript", "db/d50/a18652.html#a33f15ecf0c0ff013d03742cb2130f372", null ],
+    [ "PrepareSpellScript", "db/d50/a18652.html#ab3a832cf53f4438db0d9e58b89c0ef7f", null ],
+    [ "Register", "db/d50/a18652.html#ad0c6d34103244cded41481c745dafe58", null ]
 ];

@@ -1,9 +1,5 @@
 var a19860 =
 [
-    [ "Absorb", "d2/d19/a19860.html#a16c2e931950102fc0ae5c88ef14587c1", null ],
-    [ "CalculateAmount", "d2/d19/a19860.html#a9166627cbaa536405975444c4ef601de", null ],
-    [ "Load", "d2/d19/a19860.html#abe7c08d2f26cef3603cf1b1f243f9e38", null ],
-    [ "PrepareAuraScript", "d2/d19/a19860.html#aa5793741c2f8179db68a9fb1222a9085", null ],
-    [ "Register", "d2/d19/a19860.html#a17fed57aed8953c7a7e401d1ac925e67", null ],
-    [ "_absorbPct", "d2/d19/a19860.html#ad9e1dcfd8ce7038173ac5b71d448d80a", null ]
+    [ "go_ulduar_tower", "d2/d19/a19860.html#afc1add1a0543921f52afe1eb907f5de3", null ],
+    [ "OnDestroyed", "d2/d19/a19860.html#aa72ebefe52d49e5b07fb36232efd7e95", null ]
 ];

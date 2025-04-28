@@ -1,5 +1,6 @@
 var a27180 =
 [
-    [ "go_jotunheim_cage", "d2/d84/a27180.html#a28c9312de97a822e34f05c7358b42df4", null ],
-    [ "OnGossipHello", "d2/d84/a27180.html#a5598fcb4df9c7d0a610ea064af8095d3", null ]
+    [ "go_darkmoon_faire_musicAI", "de/d9e/a27184.html", "de/d9e/a27184" ],
+    [ "go_darkmoon_faire_music", "d2/d84/a27180.html#ab8dd92213e1c2815ff9498267b09b5f2", null ],
+    [ "GetAI", "d2/d84/a27180.html#a03be3eddefe4eeba8a0af8ee02bf2839", null ]
 ];

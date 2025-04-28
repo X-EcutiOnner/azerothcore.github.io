@@ -1,6 +1,7 @@
 var a13480 =
 [
-    [ "npc_greengill_slaveAI", "d8/d3c/a13484.html", "d8/d3c/a13484" ],
-    [ "npc_greengill_slave", "da/dc7/a13480.html#a46fb36fadb5ed5fc94a563473edd8732", null ],
-    [ "GetAI", "da/dc7/a13480.html#ab2cb9adfeef75384becfbb3c5188b8d7", null ]
+    [ "npc_ranger_lilatha", "da/dc7/a13480.html#abd13a89b41a289edefb9bc21588f8d29", null ],
+    [ "Reset", "da/dc7/a13480.html#a3e804e483b51961193ee1079caba40be", null ],
+    [ "sQuestAccept", "da/dc7/a13480.html#acc38d4feacb5e7fa5ce9658b10447c4d", null ],
+    [ "WaypointReached", "da/dc7/a13480.html#a193bd47c7d7c4fb3d832a59bf55e8412", null ]
 ];

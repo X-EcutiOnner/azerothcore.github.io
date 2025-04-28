@@ -1,7 +1,13 @@
 var a24140 =
 [
-    [ "HandleEffectRemove", "dc/da2/a24140.html#a63c0fede080591df9ebf8b3de2cd2fc3", null ],
-    [ "PrepareAuraScript", "dc/da2/a24140.html#a19ce53b5731b0789896612fa55f38849", null ],
-    [ "Register", "dc/da2/a24140.html#a7d60c5b18bbf77a18ab683a101782ada", null ],
-    [ "Validate", "dc/da2/a24140.html#ae3c3c1bce38882cd5de32295813b1a47", null ]
+    [ "npc_illidari_spawnAI", "dc/da2/a24140.html#a704c1d3e07d028b04e2bddee37039941", null ],
+    [ "JustDied", "dc/da2/a24140.html#a27277d90d4a58a89386a39f4affbaee8", null ],
+    [ "JustEngagedWith", "dc/da2/a24140.html#add4ea6366614e9fb86e85613bfb910ba", null ],
+    [ "Reset", "dc/da2/a24140.html#a5347858d5da4f0718479b1d702125366", null ],
+    [ "UpdateAI", "dc/da2/a24140.html#af392a545b3dccb7a7c89780d2818a7a7", null ],
+    [ "LordIllidanGUID", "dc/da2/a24140.html#a11b411dd0b5a32a7bdd0c44242a42372", null ],
+    [ "SpellTimer1", "dc/da2/a24140.html#afbf1b352275c0fd16fdf252eac9e0c4a", null ],
+    [ "SpellTimer2", "dc/da2/a24140.html#a644616bab96e1bd9bbe2500bf1b14988", null ],
+    [ "SpellTimer3", "dc/da2/a24140.html#a9889f9673292613dc46387862f3e8849", null ],
+    [ "Timers", "dc/da2/a24140.html#a1e48e4dea7bc1ba0f3d6be2f03b6813e", null ]
 ];

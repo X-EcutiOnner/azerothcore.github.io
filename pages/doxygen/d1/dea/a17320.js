@@ -1,9 +1,6 @@
 var a17320 =
 [
-    [ "FilterTargetsInitial", "d1/dea/a17320.html#acebf4a9f8c4cdd6111ae816d7c24b00f", null ],
-    [ "FilterTargetsSubsequent", "d1/dea/a17320.html#a11732039155235c287757980129d5a8e", null ],
-    [ "Load", "d1/dea/a17320.html#a467272ccd10ec0aff7ad00a567c0049c", null ],
-    [ "PrepareSpellScript", "d1/dea/a17320.html#a6f97c9c1dc71a87d2a82de646809f063", null ],
-    [ "Register", "d1/dea/a17320.html#a56a4e65df08a95fddde75162358155c2", null ],
-    [ "_target", "d1/dea/a17320.html#abdd93e8e80826c71ead1d9e44aaf865a", null ]
+    [ "boss_deathbringer_saurfangAI", "d6/d28/a17324.html", "d6/d28/a17324" ],
+    [ "boss_deathbringer_saurfang", "d1/dea/a17320.html#ad19893be7dc3b4290d9b1ed3bb992e08", null ],
+    [ "GetAI", "d1/dea/a17320.html#a6bc1ef44b3ea9e860d62bf78cfa38c92", null ]
 ];

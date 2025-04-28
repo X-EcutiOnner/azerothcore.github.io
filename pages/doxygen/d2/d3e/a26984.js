@@ -1,7 +1,5 @@
 var a26984 =
 [
-    [ "npc_spirit_shadeAI", "d2/d3e/a26984.html#a8b7bf7c7cc541a47be79aad76a9bbcbc", null ],
-    [ "IsSummonedBy", "d2/d3e/a26984.html#a3a7fcb4af8e3b27e06b4665e8a864b38", null ],
-    [ "MovementInform", "d2/d3e/a26984.html#ab001fdc09efe9f8c03ad1b7610124e6d", null ],
-    [ "_summonerGuid", "d2/d3e/a26984.html#aa7c6abb848ab37f407a3553d04d0ad81", null ]
+    [ "AreaTrigger_at_coilfang_waterfall", "d2/d3e/a26984.html#aa2e9a01adad7e195860bbc6c55131024", null ],
+    [ "OnTrigger", "d2/d3e/a26984.html#aea1c4b45ae855d0cda81dbad102b8104", null ]
 ];

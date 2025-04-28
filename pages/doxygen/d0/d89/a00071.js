@@ -1,26 +1,6 @@
 var a00071 =
 [
-    [ "map_id", "d9/d01/a28565.html", "d9/d01/a28565" ],
-    [ "_CRT_SECURE_NO_DEPRECATE", "d0/d89/a00071.html#a411c46599e926f8cdf49c63957255359", null ],
-    [ "MPQ_BLOCK_SIZE", "d0/d89/a00071.html#a402d9c2814f85cee14f9bc8dbc999de8", null ],
-    [ "ExtractSingleWmo", "d0/d89/a00071.html#afc9839262206eb10094c1769141ae146", null ],
-    [ "FileExists", "d0/d89/a00071.html#aab524156a5705c5cd09f96106eaac92d", null ],
-    [ "fillArchiveNameVector", "d0/d89/a00071.html#a32b84e03161e7056f809d12d8b7b71b2", null ],
-    [ "GenerateUniqueObjectId", "d0/d89/a00071.html#a6a3d179f34597554b17a122f27cd6be5", null ],
-    [ "getGamePath", "d0/d89/a00071.html#a6bb580270fe96b7e6ccb585658850d17", null ],
-    [ "main", "d0/d89/a00071.html#a3c04138a5bfe5d72780bb7e82a18e627", null ],
-    [ "ParsMapFiles", "d0/d89/a00071.html#a50c73ad000da4df06ae438373eeaf60e", null ],
-    [ "processArgv", "d0/d89/a00071.html#a8f05dfc74cc4db726161d81ab714bfe1", null ],
-    [ "scan_patches", "d0/d89/a00071.html#a995d89b97dfb31a6a8c1c4e1c96d47f4", null ],
-    [ "strToLower", "d0/d89/a00071.html#ac9e88429cc2168db83793cb7074bc69f", null ],
-    [ "gOpenArchives", "d0/d89/a00071.html#a8ae40ebe73635e831bc65b70e7f97f3c", null ],
-    [ "hasInputPathParam", "d0/d89/a00071.html#a5ef7a611bb56bdaa370aaf1770059365", null ],
-    [ "input_path", "d0/d89/a00071.html#a773984b4a48966b7ea95d0586db0210b", null ],
-    [ "map_count", "d0/d89/a00071.html#a6fcdefd114e6ec71964d6539163fc055", null ],
-    [ "map_ids", "d0/d89/a00071.html#a12b965536bcabf2e2edd7db2196630cd", null ],
-    [ "output_path", "d0/d89/a00071.html#aeb9ec80db9cddb3d9ab2303f2a825d0b", null ],
-    [ "preciseVectorData", "d0/d89/a00071.html#a2191d2ffb8973cd0ddb269bcaa06a31d", null ],
-    [ "szWorkDirWmo", "d0/d89/a00071.html#ae79cb6c3493a63f0e1058be3bd5ba328", null ],
-    [ "uniqueObjectIds", "d0/d89/a00071.html#a78dd87d3ceb9a2d97c7a1d0caa8d4154", null ],
-    [ "WmoDoodads", "d0/d89/a00071.html#a17b22c7645963c9e5c277b72605a4966", null ]
+    [ "SetupLibrariesForWindows", "d0/d89/a00071.html#ab801d0877d7ea0652bb6f94fb17842e4", null ],
+    [ "DefaultProvider", "d0/d89/a00071.html#ab217c6bb86b0f962ea820f3ffe079708", null ],
+    [ "LegacyProvider", "d0/d89/a00071.html#a81b4206923925a193dca5c3acd946bc2", null ]
 ];

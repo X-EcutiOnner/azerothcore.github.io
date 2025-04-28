@@ -1,6 +1,7 @@
 var a24928 =
 [
-    [ "HandleScriptEffect", "db/df2/a24928.html#ab3f415ae783f2a778178cc3319b32773", null ],
-    [ "PrepareSpellScript", "db/df2/a24928.html#a4ba7f7935c4acda891190dc375086dee", null ],
-    [ "Register", "db/df2/a24928.html#ad9b1571b4faf7d0fc6df7f6a8eb05c8a", null ]
+    [ "HandleScript", "db/df2/a24928.html#af386e49e9020328f123c4da7d82d4b0c", null ],
+    [ "PrepareSpellScript", "db/df2/a24928.html#a5e4618514d33bbc18fcc26c83279e430", null ],
+    [ "Register", "db/df2/a24928.html#a3560275f387f7b0de34f9d1c255241fe", null ],
+    [ "Validate", "db/df2/a24928.html#a108e58cb90719b572f3578f0d44d0627", null ]
 ];

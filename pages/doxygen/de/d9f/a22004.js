@@ -1,13 +1,6 @@
 var a22004 =
 [
-    [ "npc_artruis_the_hearthlessAI", "de/d9f/a22004.html#ad64e86b038ea3c0cf119aa18493dceec", null ],
-    [ "JustDied", "de/d9f/a22004.html#a22baa7603ffb4a7b118f2a2f5de88633", null ],
-    [ "JustEngagedWith", "de/d9f/a22004.html#aafedd2a49c60923294a1e9de7012fb3a", null ],
-    [ "MoveInLineOfSight", "de/d9f/a22004.html#a1a592dd9f1834cc5efe63c227dcfe372", null ],
-    [ "Reset", "de/d9f/a22004.html#af24b77b5d154f5289105b67714f9d3a9", null ],
-    [ "SummonedCreatureDies", "de/d9f/a22004.html#a40041d3c1557effa4173eb660ca87a09", null ],
-    [ "SummonsAction", "de/d9f/a22004.html#aa34f581358c094d87a1c7259f4981b65", null ],
-    [ "UpdateAI", "de/d9f/a22004.html#a4795db544ac7e9702b2ac9094b969e7f", null ],
-    [ "events", "de/d9f/a22004.html#a151e92cb78e752e10896bd7586c539dc", null ],
-    [ "summons", "de/d9f/a22004.html#a24fd0452b154e7e4a2615691aa810d8d", null ]
+    [ "HandleDummy", "de/d9f/a22004.html#a05a38c1b8e3b674f3c6e79c59c7caddd", null ],
+    [ "PrepareSpellScript", "de/d9f/a22004.html#a0bfebaf099ef573b51bec0a511ceeb39", null ],
+    [ "Register", "de/d9f/a22004.html#a9c71b084ce6b86ccaeb9a94d1f8de2b1", null ]
 ];

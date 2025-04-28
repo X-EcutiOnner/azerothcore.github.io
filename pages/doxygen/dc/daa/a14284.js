@@ -1,7 +1,6 @@
 var a14284 =
 [
-    [ "HandleEffectApply", "dc/daa/a14284.html#ad48d832fef881bfb517fb8df694b7507", null ],
-    [ "HandleEffectRemove", "dc/daa/a14284.html#a1534b010301dbaff66d41443142c50b7", null ],
-    [ "PrepareAuraScript", "dc/daa/a14284.html#ab4bba02a5e2196ad65ccea94a4615a9d", null ],
-    [ "Register", "dc/daa/a14284.html#a97a0003cca808e5b03f720bb3be07419", null ]
+    [ "npc_soh_fire_trigger", "dc/daa/a14284.html#a8bddde264f4848c9a8ed83dcad190223", null ],
+    [ "Reset", "dc/daa/a14284.html#acbec442907a8b40ae04496c53f210aa2", null ],
+    [ "SpellHit", "dc/daa/a14284.html#a6b96cc998d38c9fbf0ce93e0529c0f4c", null ]
 ];

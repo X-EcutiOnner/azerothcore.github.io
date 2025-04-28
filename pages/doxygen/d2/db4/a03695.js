@@ -1,29 +1,25 @@
 var a03695 =
 [
-    [ "DataHeader", "d2/db4/a03695.html#a042491ef36459046f3866e90f15aae0d", null ],
-    [ "HallsOfLightningScriptName", "d2/db4/a03695.html#aba51f7e18d1bf5bcc9ac3cce40574989", null ],
-    [ "HoLEvents", "d2/db4/a03695.html#aefe92b165daab54a3444c2b628b30e3d", [
-      [ "TYPE_BJARNGRIM", "d2/db4/a03695.html#aefe92b165daab54a3444c2b628b30e3da608e0501ee5efb86eaa345e411780421", null ],
-      [ "TYPE_IONAR", "d2/db4/a03695.html#aefe92b165daab54a3444c2b628b30e3da59c88d60acb5b3ce493a62ec2c6b39a8", null ],
-      [ "TYPE_LOKEN", "d2/db4/a03695.html#aefe92b165daab54a3444c2b628b30e3daea98d03c17066d22bf4213faf6e7ce37", null ],
-      [ "TYPE_VOLKHAN", "d2/db4/a03695.html#aefe92b165daab54a3444c2b628b30e3dae4210212c84f56ef4d82bf8ea8827989", null ],
-      [ "TYPE_LOKEN_INTRO", "d2/db4/a03695.html#aefe92b165daab54a3444c2b628b30e3dad8aa4deed6efe52d7977576c5372bb6b", null ],
-      [ "MAX_ENCOUNTER", "d2/db4/a03695.html#aefe92b165daab54a3444c2b628b30e3da7913656ef56deb3793c0c5f3d999d80d", null ],
-      [ "DATA_BJARNGRIM_ACHIEVEMENT", "d2/db4/a03695.html#aefe92b165daab54a3444c2b628b30e3daa53ad80b7b459e535100197347853cd0", null ],
-      [ "DATA_VOLKHAN_ACHIEVEMENT", "d2/db4/a03695.html#aefe92b165daab54a3444c2b628b30e3da7e42579182aec175c25270808bec35b0", null ]
+    [ "UpdateData", "d5/d3e/a08432.html", "d5/d3e/a08432" ],
+    [ "OBJECT_UPDATE_FLAGS", "d2/db4/a03695.html#af1fc105a57ed0bc535d17509e4ad5e9e", [
+      [ "UPDATEFLAG_NONE", "d2/db4/a03695.html#af1fc105a57ed0bc535d17509e4ad5e9eab3f4d8eafca6e04f6b445bedda939799", null ],
+      [ "UPDATEFLAG_SELF", "d2/db4/a03695.html#af1fc105a57ed0bc535d17509e4ad5e9eacb59b2f7a20c57e2dc11ad4a4a74195f", null ],
+      [ "UPDATEFLAG_TRANSPORT", "d2/db4/a03695.html#af1fc105a57ed0bc535d17509e4ad5e9ea7b800b143915d7a9ea65020153cee3ca", null ],
+      [ "UPDATEFLAG_HAS_TARGET", "d2/db4/a03695.html#af1fc105a57ed0bc535d17509e4ad5e9eae67f7342d7c369d11cfb6d50bea094dd", null ],
+      [ "UPDATEFLAG_UNKNOWN", "d2/db4/a03695.html#af1fc105a57ed0bc535d17509e4ad5e9eab102319844f46e52393bb89975c591f7", null ],
+      [ "UPDATEFLAG_LOWGUID", "d2/db4/a03695.html#af1fc105a57ed0bc535d17509e4ad5e9ea65f9bb0b19a3ecbc46fbe3b4573cb15b", null ],
+      [ "UPDATEFLAG_LIVING", "d2/db4/a03695.html#af1fc105a57ed0bc535d17509e4ad5e9ea0eedb2f7b118804bb3fe89fde52d7632", null ],
+      [ "UPDATEFLAG_STATIONARY_POSITION", "d2/db4/a03695.html#af1fc105a57ed0bc535d17509e4ad5e9ead20e13b8389c2680af0a59dc557d4ee1", null ],
+      [ "UPDATEFLAG_VEHICLE", "d2/db4/a03695.html#af1fc105a57ed0bc535d17509e4ad5e9ea6dfc1770c97c7c1d8433e0e12ad47c51", null ],
+      [ "UPDATEFLAG_POSITION", "d2/db4/a03695.html#af1fc105a57ed0bc535d17509e4ad5e9ea2e4269d3be94ff8f1f715c41c060222b", null ],
+      [ "UPDATEFLAG_ROTATION", "d2/db4/a03695.html#af1fc105a57ed0bc535d17509e4ad5e9ea2a1fa785627688900bcc7bb221f1462a", null ]
     ] ],
-    [ "HoLGOs", "d2/db4/a03695.html#a32c56077197ba30bb4a0f7c7ed0e30ba", [
-      [ "GO_BJARNGRIM_DOOR", "d2/db4/a03695.html#a32c56077197ba30bb4a0f7c7ed0e30baac1bbf7a6b906762c973aacbe8d096a4f", null ],
-      [ "GO_VOLKHAN_DOOR", "d2/db4/a03695.html#a32c56077197ba30bb4a0f7c7ed0e30baa43791493fa131c96383129d276d9ebfc", null ],
-      [ "GO_IONAR_DOOR", "d2/db4/a03695.html#a32c56077197ba30bb4a0f7c7ed0e30baa98de6bec77b9ffcc83fbe12864534b5a", null ],
-      [ "GO_LOKEN_DOOR", "d2/db4/a03695.html#a32c56077197ba30bb4a0f7c7ed0e30baa8eab9585e6640e1543ecee2cfc2753c7", null ],
-      [ "GO_LOKEN_THRONE", "d2/db4/a03695.html#a32c56077197ba30bb4a0f7c7ed0e30baa34f7d3fb54b571aef3f476e267de512a", null ]
-    ] ],
-    [ "HoLNPCs", "d2/db4/a03695.html#a142cf2087e521648bd7ea9b7495afc85", [
-      [ "NPC_BJARNGRIM", "d2/db4/a03695.html#a142cf2087e521648bd7ea9b7495afc85a90b60cbba2fea788c3a7d279124aac96", null ],
-      [ "NPC_VOLKHAN", "d2/db4/a03695.html#a142cf2087e521648bd7ea9b7495afc85ad22174c12671fe5c85401bb03873d3f1", null ],
-      [ "NPC_IONAR", "d2/db4/a03695.html#a142cf2087e521648bd7ea9b7495afc85ac505a17c17ad621b6be0363e7c51fe22", null ],
-      [ "NPC_LOKEN", "d2/db4/a03695.html#a142cf2087e521648bd7ea9b7495afc85abf84dbe001b0bc7669edfe88687365f6", null ]
-    ] ],
-    [ "GetHallsOfLightningAI", "d2/db4/a03695.html#ae17388a1ba919f74b2068aafe1637537", null ]
+    [ "OBJECT_UPDATE_TYPE", "d2/db4/a03695.html#aa0f2952f4b375c0e91f5276ff267cbad", [
+      [ "UPDATETYPE_VALUES", "d2/db4/a03695.html#aa0f2952f4b375c0e91f5276ff267cbada1fc033f630eab16bbf5b7ce7938d7bef", null ],
+      [ "UPDATETYPE_MOVEMENT", "d2/db4/a03695.html#aa0f2952f4b375c0e91f5276ff267cbadac08838cdcba5218c53ea7745f5c0c370", null ],
+      [ "UPDATETYPE_CREATE_OBJECT", "d2/db4/a03695.html#aa0f2952f4b375c0e91f5276ff267cbada4dc60011a5f19dc6c7d8ef61f9b10e20", null ],
+      [ "UPDATETYPE_CREATE_OBJECT2", "d2/db4/a03695.html#aa0f2952f4b375c0e91f5276ff267cbadaf72ecfc1f4c6b5006f7985299cc2cd8f", null ],
+      [ "UPDATETYPE_OUT_OF_RANGE_OBJECTS", "d2/db4/a03695.html#aa0f2952f4b375c0e91f5276ff267cbada5e1317f5c975a9e3a19c37922f49e089", null ],
+      [ "UPDATETYPE_NEAR_OBJECTS", "d2/db4/a03695.html#aa0f2952f4b375c0e91f5276ff267cbada5017763e8c136985831c2ee1583795d5", null ]
+    ] ]
 ];

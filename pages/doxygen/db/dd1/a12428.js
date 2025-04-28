@@ -1,9 +1,6 @@
 var a12428 =
 [
-    [ "npc_flamewaker_priestAI", "db/dd1/a12428.html#aa0508dda5bc365896128f088b6de30f4", null ],
-    [ "JustDied", "db/dd1/a12428.html#ad1f51c4589abe6ef5bcf513d70e34a4c", null ],
-    [ "JustEngagedWith", "db/dd1/a12428.html#a15fefb756ad1ae20257d4ed9cb1d3eca", null ],
-    [ "Reset", "db/dd1/a12428.html#a3c3629a6c6987e861e40a893363d2508", null ],
-    [ "UpdateAI", "db/dd1/a12428.html#a28c0ed65521f3d2150874ddc1b913933", null ],
-    [ "events", "db/dd1/a12428.html#a7d769cc852a69fdf719cb7958c3d890c", null ]
+    [ "boss_shazzrahAI", "de/d33/a12432.html", "de/d33/a12432" ],
+    [ "boss_shazzrah", "db/dd1/a12428.html#a99a162d6eac5c9046a27f53ec05af7e4", null ],
+    [ "GetAI", "db/dd1/a12428.html#a8135f6ab246dbce4c2ebebe0e7f137d5", null ]
 ];

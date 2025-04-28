@@ -1,8 +1,8 @@
 var a09392 =
 [
-    [ "AllCreaturesOfEntryInRange", "dc/d96/a09392.html#a02aca6b65bd5ea49d510bb8d901e1322", null ],
-    [ "operator()", "dc/d96/a09392.html#a99f472f33c0e5a6a76d6ffc08af2783b", null ],
-    [ "m_fRange", "dc/d96/a09392.html#a0cb7d140b51d52e0db5b8d9f70250ced", null ],
-    [ "m_pObject", "dc/d96/a09392.html#ade8cc66e1cd421550d2674e3ad960f48", null ],
-    [ "m_uiEntry", "dc/d96/a09392.html#abf653360d2ee482728fb137a37fe0512", null ]
+    [ "NearestPlayerInObjectRangeCheck", "dc/d96/a09392.html#ae8e57c69baf8bdaf0448864d4afbb1a4", null ],
+    [ "NearestPlayerInObjectRangeCheck", "dc/d96/a09392.html#aac3d406d10a036b92a55bcd955411165", null ],
+    [ "operator()", "dc/d96/a09392.html#a5d7ed3141c03d2209d5a3b1a689d1668", null ],
+    [ "i_obj", "dc/d96/a09392.html#a9cd17091269bcfc2b48fefc12ac9b127", null ],
+    [ "i_range", "dc/d96/a09392.html#ab55f93d7c5d6ca3461bcbe49010fcb83", null ]
 ];

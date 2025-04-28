@@ -1,12 +1,9 @@
 var a13416 =
 [
-    [ "npc_cameron", "dc/df1/a13416.html#a45e47ec5c9dadc6f0899e83ac2e19cff", null ],
-    [ "MoveTheChildren", "dc/df1/a13416.html#a85ae436f19f69ffb853330f01ee152a0", null ],
-    [ "PathEndReached", "dc/df1/a13416.html#a0bf53f40eeb4fe3ed7d62988bee0a912", null ],
-    [ "sOnGameEvent", "dc/df1/a13416.html#ab22841871cfcdc926b28296a5b4e440c", null ],
-    [ "SoundPicker", "dc/df1/a13416.html#a2ad97aaac0bd759921e0b75cfc88d07d", null ],
-    [ "UpdateAI", "dc/df1/a13416.html#a32a2dd2be2c06700fb81f4072a364ce2", null ],
-    [ "_childrenGUIDs", "dc/df1/a13416.html#ad260466902e8fb1a2e02998cc4549695", null ],
-    [ "_events", "dc/df1/a13416.html#ad6c58f433520c4ed55f43ef3604dde28", null ],
-    [ "_started", "dc/df1/a13416.html#a985d0590eedde340a3923e299d4dffd8", null ]
+    [ "npc_professor_phizzlethorpeAI", "dc/df1/a13416.html#a92af4732575008c1a4f061cef0f23902", null ],
+    [ "JustEngagedWith", "dc/df1/a13416.html#a8864031e3c7a32cde57ca6efbf785d53", null ],
+    [ "JustSummoned", "dc/df1/a13416.html#af8e4e706925d8837cacdc0b5a6d1f10d", null ],
+    [ "sQuestAccept", "dc/df1/a13416.html#ad4a4bd9af581abe832933da69b18d76f", null ],
+    [ "UpdateAI", "dc/df1/a13416.html#a1c62cd07da5f0da91ef572bb00619d26", null ],
+    [ "WaypointReached", "dc/df1/a13416.html#a7be58c6ecc4e5ba23ec35cc1864f19e6", null ]
 ];

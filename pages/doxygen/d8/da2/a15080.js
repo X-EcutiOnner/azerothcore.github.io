@@ -1,6 +1,6 @@
 var a15080 =
 [
-    [ "OnPeriodic", "d8/da2/a15080.html#a5945e24db52c6bacae7221b085dc877b", null ],
-    [ "PrepareAuraScript", "d8/da2/a15080.html#acc987aa864a8333de7bd0b770eb9018d", null ],
-    [ "Register", "d8/da2/a15080.html#a3c5a192302ec6d531037f8b5da1565f2", null ]
+    [ "boss_veknilash", "d8/da2/a15080.html#a73a4095c3dd0ffbd9d7ef5a8a837f13f", null ],
+    [ "IAmVeklor", "d8/da2/a15080.html#a454027d829b962ee0feebb6fd5687714", null ],
+    [ "JustEngagedWith", "d8/da2/a15080.html#ace8de3d9a397d0571da1f5bdd2ba84d5", null ]
 ];

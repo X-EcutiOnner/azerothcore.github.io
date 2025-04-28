@@ -1,9 +1,10 @@
 var a18224 =
 [
-    [ "FilterTargets", "d0/daf/a18224.html#a2b669cd93ed96417e4a0a6d83e4095cd", null ],
-    [ "Load", "d0/daf/a18224.html#aaec66c1d360ffa4e25d86f331f3521dd", null ],
-    [ "PrepareSpellScript", "d0/daf/a18224.html#a34d702b1299e2ee27eb1c27bc49be9dc", null ],
-    [ "Register", "d0/daf/a18224.html#afad887fba0d97512a7a13a31977cf42d", null ],
-    [ "Validate", "d0/daf/a18224.html#a2ff2dcfa096bf237c9c4c442ec13fa4d", null ],
-    [ "_instance", "d0/daf/a18224.html#a96dde7a1b30682c6bb04c1ae5449bd7c", null ]
+    [ "HandleScript", "d0/daf/a18224.html#a18c80010b9e8803b3c225acf2dd0b605", null ],
+    [ "Load", "d0/daf/a18224.html#af31fd5b1f9cdc67650eec5e305f095bf", null ],
+    [ "PrepareSpellScript", "d0/daf/a18224.html#afcc1efc69d73086a9ab686855911e516", null ],
+    [ "Register", "d0/daf/a18224.html#a061e110b9a032a9bbd0a48f686d16a84", null ],
+    [ "ReplaceTarget", "d0/daf/a18224.html#a01cb7d25bef14a2266d81594544f6283", null ],
+    [ "SelectTarget", "d0/daf/a18224.html#aa06b7505ff483bc5e534cc37d909b28c", null ],
+    [ "_target", "d0/daf/a18224.html#a3a84a9d7109845d201b395f05f66d109", null ]
 ];

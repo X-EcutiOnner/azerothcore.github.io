@@ -1,6 +1,5 @@
 var a24144 =
 [
-    [ "PrepareSpellScript", "d0/db3/a24144.html#aba1979c98f7d0e162cb7aee36c57f568", null ],
-    [ "Register", "d0/db3/a24144.html#a07f75e1ad374118ab0195dd1a17376ed", null ],
-    [ "SetDest", "d0/db3/a24144.html#a23afed27143ca0b8e4cdc477d47ab6e0", null ]
+    [ "go_crystal_prison", "d0/db3/a24144.html#a0faca8b76f9650ee5cc7825b90463365", null ],
+    [ "OnQuestAccept", "d0/db3/a24144.html#ad19d8bdf8361d5d7fca2917a6bf0977a", null ]
 ];

@@ -1,6 +1,6 @@
 var a23716 =
 [
-    [ "HandleScriptEffect", "dc/d52/a23716.html#a724e857ad8604ef4546c8823bb7bd632", null ],
-    [ "PrepareSpellScript", "dc/d52/a23716.html#a7a67cdf9c3c8017fd065549a499831fc", null ],
-    [ "Register", "dc/d52/a23716.html#aadbf9ca8c4b5fa0f72b967f059ee22ab", null ]
+    [ "AfterRemove", "dc/d52/a23716.html#a1794dcf8ebca0bd0c4fce5acb8b45de0", null ],
+    [ "PrepareAuraScript", "dc/d52/a23716.html#ad5871ce865820456177362c6b790778f", null ],
+    [ "Register", "dc/d52/a23716.html#a41e19fb2509051bbd2d9e43c59f16486", null ]
 ];

@@ -1,5 +1,7 @@
 var a23228 =
 [
-    [ "go_main_chambers_access_panel", "df/db9/a23228.html#a30c3c20be1892b5107ef53683d593b75", null ],
-    [ "OnGossipHello", "df/db9/a23228.html#af4b3a4a0260de68dcfac7202e0a728ee", null ]
+    [ "PeriodicTick", "df/db9/a23228.html#a94bee50f214d0a61fa81c4cca1b38fb2", null ],
+    [ "PrepareAuraScript", "df/db9/a23228.html#a2c34fbc5c12be43b1c054cf4b23542cb", null ],
+    [ "Register", "df/db9/a23228.html#ae1479b53d8c0575947a7ce7cae4747c4", null ],
+    [ "Validate", "df/db9/a23228.html#ade8d57db324f02734e1752f49976dc9d", null ]
 ];

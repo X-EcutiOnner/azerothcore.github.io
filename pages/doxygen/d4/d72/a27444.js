@@ -1,7 +1,6 @@
 var a27444 =
 [
-    [ "npc_guardianAI", "d4/d72/a27444.html#acc5d29a79e57fc023369c0dcd4b0d2a3", null ],
-    [ "JustEngagedWith", "d4/d72/a27444.html#a50257f80245bc59437e53083badcb056", null ],
-    [ "Reset", "d4/d72/a27444.html#a217df9bae079f56ffd70d27958fb2756", null ],
-    [ "UpdateAI", "d4/d72/a27444.html#ab42c39f088ef819a5ffb5f9f4ba2c3a3", null ]
+    [ "npc_target_dummyAI", "d4/daf/a27448.html", "d4/daf/a27448" ],
+    [ "npc_target_dummy", "d4/d72/a27444.html#a04847f9893a40c0f1c1879f448cc228d", null ],
+    [ "GetAI", "d4/d72/a27444.html#a1aff9199c160e20f9e92ee9f90178d63", null ]
 ];

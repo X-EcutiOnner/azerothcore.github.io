@@ -1,13 +1,11 @@
 var a12636 =
 [
-    [ "boss_crone", "db/d10/a12636.html#a710bdf6fac05be54cf10e40cd661c837", null ],
-    [ "EnterEvadeMode", "db/d10/a12636.html#a4dcdde0b699f445cfa6be7e0c7dbb8d0", null ],
-    [ "JustDied", "db/d10/a12636.html#a545de2a25b48590d11896c41b6e94df0", null ],
-    [ "JustEngagedWith", "db/d10/a12636.html#a9801cd39667d1a08770820bd17beac00", null ],
-    [ "JustReachedHome", "db/d10/a12636.html#a59d40cda923cb8b72413b9d5f267f52a", null ],
-    [ "KilledUnit", "db/d10/a12636.html#ae4d343636955589d740d1df4e21fba99", null ],
-    [ "Reset", "db/d10/a12636.html#a247db7fc1329ef00e48fd9bd09fb27a1", null ],
-    [ "UpdateAI", "db/d10/a12636.html#a8bd505acd55ca5292d29c96916a461e5", null ],
-    [ "_scheduler", "db/d10/a12636.html#a7f9e2e45c0bbb60fc19dd54bc380f814", null ],
-    [ "instance", "db/d10/a12636.html#a3795fe3185005693ed9bba49177bb35a", null ]
+    [ "boss_terestian_illhoof", "db/d10/a12636.html#a5750bf4f12ac01216335a926f885e136", null ],
+    [ "JustDied", "db/d10/a12636.html#a9039c0fb905e72e659ce62f9d36593ce", null ],
+    [ "JustEngagedWith", "db/d10/a12636.html#adc1f9195954eda7ec406ac9a084b7508", null ],
+    [ "JustSummoned", "db/d10/a12636.html#a8b156654dbd75a4a7626edf30a8aae78", null ],
+    [ "KilledUnit", "db/d10/a12636.html#ab7de8b406de200eec981fab79a56dcd7", null ],
+    [ "Reset", "db/d10/a12636.html#a685b00f0e3317740412adfc48df1c3fb", null ],
+    [ "SpellHit", "db/d10/a12636.html#a2f25021cfbc9e466d73c13de8116d8f1", null ],
+    [ "SummonKilrek", "db/d10/a12636.html#a0007e35a38efce5edada2f47a9bb89c6", null ]
 ];

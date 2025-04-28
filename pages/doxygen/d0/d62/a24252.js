@@ -1,7 +1,8 @@
 var a24252 =
 [
-    [ "npc_pet_gen_target_following_bomb", "d0/d62/a24252.html#a447c2cd258d784ca1d79c79412a1a426", null ],
-    [ "UpdateAI", "d0/d62/a24252.html#ac68f18d68a313623c04e885f9506f287", null ],
-    [ "bombSpellId", "d0/d62/a24252.html#a3c72bd26c66d3e7a85f3152557e399c4", null ],
-    [ "checkTimer", "d0/d62/a24252.html#a694ee5f884f1bd404f0ef3d3030a212f", null ]
+    [ "go_skull_pile", "d0/d62/a24252.html#a9cf8dfef432c4967c60f66e645585770", null ],
+    [ "OnGossipHello", "d0/d62/a24252.html#ac95d39ea03e78fee2a10603d8c7f8840", null ],
+    [ "OnGossipSelect", "d0/d62/a24252.html#afb8e8db2705355e975fa48c98e09f20b", null ],
+    [ "SendActionMenu", "d0/d62/a24252.html#a048dd224b46ead864958ad524d76167f", null ],
+    [ "_result", "d0/d62/a24252.html#af74fcd75404c0886128401d661067394", null ]
 ];

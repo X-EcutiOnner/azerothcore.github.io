@@ -1,5 +1,7 @@
 var a25332 =
 [
-    [ "PrepareSpellScript", "dc/d11/a25332.html#a9137654c01f41c735f477b85e4ec6d73", null ],
-    [ "Register", "dc/d11/a25332.html#af1002e90bc0801c0759393d2d4af8778", null ]
+    [ "HandleDummy", "dc/d11/a25332.html#a5b25d03bb22995e1ba9deb7eec4ee35a", null ],
+    [ "Load", "dc/d11/a25332.html#a833d9abe12cb4fff1700b97bc7215c1d", null ],
+    [ "PrepareSpellScript", "dc/d11/a25332.html#a547b3f71f9fc502dc589ad7b9b6f3cc2", null ],
+    [ "Register", "dc/d11/a25332.html#ae7d502253b0c47921e40da4aa87b0eef", null ]
 ];

@@ -1,12 +1,13 @@
 var a12648 =
 [
-    [ "boss_bigbadwolf", "d0/d41/a12648.html#a1e4ad63c96d64f81e8b9ea82f118cdcc", null ],
-    [ "EnterEvadeMode", "d0/d41/a12648.html#a4f2d5307f5d05ed58bfc200f53bf2969", null ],
-    [ "JustDied", "d0/d41/a12648.html#a167083a43e00a60e9c3792cadaf6e80c", null ],
-    [ "JustEngagedWith", "d0/d41/a12648.html#a529fad938a0ef7261f1c2d589b6ff29c", null ],
-    [ "JustReachedHome", "d0/d41/a12648.html#a7755bf925d919c73075a41f8774280c0", null ],
-    [ "KilledUnit", "d0/d41/a12648.html#a8e004a1feac796ed467eba744f211827", null ],
-    [ "UpdateAI", "d0/d41/a12648.html#ab788a0155a3ffe6535d58263eea16dee", null ],
-    [ "_scheduler", "d0/d41/a12648.html#a661d9b619be30764ba5b89d71de870e9", null ],
-    [ "instance", "d0/d41/a12648.html#aed0e9edc52f13b7b0cfa5047849c26a9", null ]
+    [ "boss_roar", "d0/d41/a12648.html#a93e1d81bcff8b31841ae65628759ee7e", null ],
+    [ "DoAction", "d0/d41/a12648.html#a9a2778a803d6d41b256759b29452cc51", null ],
+    [ "EnterEvadeMode", "d0/d41/a12648.html#a198044653632b93838c0f79c06cb7640", null ],
+    [ "JustDied", "d0/d41/a12648.html#a3c79bea69740601ad89f0765f3af99f2", null ],
+    [ "JustEngagedWith", "d0/d41/a12648.html#a1db42b2b1a19ac4a959a51ce17c8ae32", null ],
+    [ "JustReachedHome", "d0/d41/a12648.html#a632929b026815a524bd79748e768e3fc", null ],
+    [ "KilledUnit", "d0/d41/a12648.html#aaaa0d33697fe1abc0df5bf9ecb249ffc", null ],
+    [ "UpdateAI", "d0/d41/a12648.html#a255d406f8bab62593a3eeda0e4e3d646", null ],
+    [ "_scheduler", "d0/d41/a12648.html#a54b45b1fdacc2b3982e21580b9b4d26a", null ],
+    [ "instance", "d0/d41/a12648.html#a67df04e89c877d565753ac077aa923c7", null ]
 ];

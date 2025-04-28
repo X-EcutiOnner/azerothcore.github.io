@@ -1,7 +1,6 @@
 var a25040 =
 [
-    [ "HandleStun", "d6/daf/a25040.html#aec7b18c9fe4d03e6e61dd2e43c842a93", null ],
-    [ "PrepareAuraScript", "d6/daf/a25040.html#a26bf4bfdbe5ccf890d75bc663f228639", null ],
-    [ "Register", "d6/daf/a25040.html#a660a0e41ac5918cd365f4c47fea9c230", null ],
-    [ "Validate", "d6/daf/a25040.html#a4e89cdbc719b32576f57dd6f7e5d3f2a", null ]
+    [ "HandleDummy", "d6/daf/a25040.html#a63bc85e32a1478d03b381c61a33d0dff", null ],
+    [ "PrepareSpellScript", "d6/daf/a25040.html#adae41617f38a71ccec183f419d677cfd", null ],
+    [ "Register", "d6/daf/a25040.html#a820e8b506de36a24411ae4a1c5930417", null ]
 ];

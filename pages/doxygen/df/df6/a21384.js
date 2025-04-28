@@ -1,6 +1,6 @@
 var a21384 =
 [
-    [ "npc_beryl_sorcererAI", "d4/d12/a21388.html", "d4/d12/a21388" ],
-    [ "npc_beryl_sorcerer", "df/df6/a21384.html#a4f74ee45ee0730fcfd044418771a9ee1", null ],
-    [ "GetAI", "df/df6/a21384.html#a963646eed9f121f87efe480312957286", null ]
+    [ "npc_azure_saboteurAI", "d4/d12/a21388.html", "d4/d12/a21388" ],
+    [ "npc_azure_saboteur", "df/df6/a21384.html#ae60362727a7a246b7c6c923ed96c7be7", null ],
+    [ "GetAI", "df/df6/a21384.html#a69b552fb6f725d00ac4b0303d36a7138", null ]
 ];

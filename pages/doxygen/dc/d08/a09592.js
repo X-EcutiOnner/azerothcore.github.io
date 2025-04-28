@@ -1,10 +1,8 @@
 var a09592 =
 [
-    [ "const_iterator", "dc/d08/a09592.html#ac52d3ebfa7eaeb9d6fd08f0089b13918", null ],
-    [ "StorageType", "dc/d08/a09592.html#a6825a379d1af4254b920c14ab0068e7b", null ],
-    [ "BossBoundaryData", "dc/d08/a09592.html#a3f80cd89e43eae1a74e2b0a6a674d0cb", null ],
-    [ "~BossBoundaryData", "dc/d08/a09592.html#a446a3ec16cdce76058761fce972f1e57", null ],
-    [ "begin", "dc/d08/a09592.html#a326930360d22d5fdf9a895991f2c4e49", null ],
-    [ "end", "dc/d08/a09592.html#ab3dc9905d861b62c4551f45ee8b08ba5", null ],
-    [ "_data", "dc/d08/a09592.html#af60e90664c434a8d36115ca5dec889b5", null ]
+    [ "InstResetEvent", "dc/d08/a09592.html#aefa8f2b1b2cf29ad3472712278741fa4", null ],
+    [ "InstResetEvent", "dc/d08/a09592.html#af6f80b924e52cd5296d21f4a5d1374c2", null ],
+    [ "difficulty", "dc/d08/a09592.html#a67afe513dd42370ac4bb385a7128a324", null ],
+    [ "mapid", "dc/d08/a09592.html#ad02e00b2782304fbd75973fe58eefd33", null ],
+    [ "type", "dc/d08/a09592.html#ad211513c7ed39269d464190398dabaed", null ]
 ];

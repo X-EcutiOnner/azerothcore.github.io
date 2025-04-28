@@ -1,7 +1,6 @@
 var a26376 =
 [
-    [ "HandleScript", "da/d26/a26376.html#ad22b87be8f47886650d7bf9e98eee495", null ],
-    [ "PrepareSpellScript", "da/d26/a26376.html#a806f934cd684039425ce3fca037b0e8c", null ],
-    [ "Register", "da/d26/a26376.html#a9bd3ea5aa5fb16aac87f6097db31e113", null ],
-    [ "Validate", "da/d26/a26376.html#a96d189c452a969850121323faef1d9c1", null ]
+    [ "HandleTriggerSpell", "da/d26/a26376.html#acd2d96959b0d8e9bf9968662218f36a1", null ],
+    [ "PrepareAuraScript", "da/d26/a26376.html#afea43ae4a9b9e64ed8e85627d5523a1e", null ],
+    [ "Register", "da/d26/a26376.html#ace951b4fcd48b7d4434a387d666bed9b", null ]
 ];

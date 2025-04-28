@@ -1,9 +1,16 @@
 var a28264 =
 [
-    [ "adtId", "d2/d83/a28264.html#a9bf7e7dd9dd55e5b1ffeffb0ad3e92e0", null ],
-    [ "areaId", "d2/d83/a28264.html#a7f652c68036429350543fc5a2cc6861e", null ],
-    [ "Flags", "d2/d83/a28264.html#a60f9a61948d1e28587c9d1a338730f37", null ],
-    [ "groupId", "d2/d83/a28264.html#a09052bad3028899580ffedd556672b64", null ],
-    [ "Id", "d2/d83/a28264.html#a70e3e94df9d0b0b1c114ed1001768066", null ],
-    [ "rootId", "d2/d83/a28264.html#a7997c7ac31abdb40f2e7f0e0a7e04403", null ]
+    [ "amount", "d2/d83/a28264.html#a3086819447f7ae23bf5697a45cbc6f93", null ],
+    [ "aura_id", "d2/d83/a28264.html#a5866d4e8ce373b6eb9af1d27e2db2c1b", null ],
+    [ "charges", "d2/d83/a28264.html#ade74be0906ef080347ac81ed48379cd1", null ],
+    [ "description", "d2/d83/a28264.html#a7dc66c82551a59750d6294f3503a3dbc", null ],
+    [ "EnchantmentCondition", "d2/d83/a28264.html#a2416afe9ae8371b9d284dd3c176c98d1", null ],
+    [ "GemID", "d2/d83/a28264.html#a324fd42b7184f5c626c33323a4d72b07", null ],
+    [ "ID", "d2/d83/a28264.html#af46fa8808024e75705b812b695bd1590", null ],
+    [ "requiredLevel", "d2/d83/a28264.html#a53bf562ea4dfccb14bfb627c831b477e", null ],
+    [ "requiredSkill", "d2/d83/a28264.html#a6ca7dac0e1f497b3c96887a6c09097bc", null ],
+    [ "requiredSkillValue", "d2/d83/a28264.html#a7a57764dad60c9369826638c1355127e", null ],
+    [ "slot", "d2/d83/a28264.html#af64b13ce2e81d5be7e73763cd5c5e4b8", null ],
+    [ "spellid", "d2/d83/a28264.html#a694edc79cf8ba571338bff2a3aad512d", null ],
+    [ "type", "d2/d83/a28264.html#adb693b7ada8d1a65c1d8091d1055c7bf", null ]
 ];

@@ -1,6 +1,10 @@
 var a18836 =
 [
-    [ "boss_gluthAI", "d3/dc9/a18840.html", "d3/dc9/a18840" ],
-    [ "boss_gluth", "de/d73/a18836.html#a3ff6e361cd6799f41d00fa75784c4f76", null ],
-    [ "GetAI", "de/d73/a18836.html#a3b19c938aaecc897d6552715064be7f8", null ]
+    [ "boss_isle_of_conquestAI", "de/d73/a18836.html#a7880ea86e7a03f5b14875065a83a206a", null ],
+    [ "CheckRageBuff", "de/d73/a18836.html#a6d60480e39fa89dbcc0facce9f0b69a3", null ],
+    [ "JustEngagedWith", "de/d73/a18836.html#a878635ef0673325943e6026ad76c2b06", null ],
+    [ "Reset", "de/d73/a18836.html#add59669e5f6c3c882ac008c720349573", null ],
+    [ "UpdateAI", "de/d73/a18836.html#ab33aa7e735c5837428a4cf2b76e4275e", null ],
+    [ "events", "de/d73/a18836.html#a38e308b66b0f35d3efe6916b03e4391c", null ],
+    [ "rage", "de/d73/a18836.html#aa16ebdd6e2f486d3a6e4b58f4cb5e696", null ]
 ];

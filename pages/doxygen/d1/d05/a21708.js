@@ -1,6 +1,6 @@
 var a21708 =
 [
-    [ "npc_commander_eligor_dawnbringerAI", "d0/dae/a21712.html", "d0/dae/a21712" ],
-    [ "npc_commander_eligor_dawnbringer", "d1/d05/a21708.html#a71d919af98464d6d63f948507f3ff08c", null ],
-    [ "GetAI", "d1/d05/a21708.html#a759b9b1aeb8cce983fe8b6d2f3d9c33d", null ]
+    [ "npc_q24545_lich_kingAI", "d0/dae/a21712.html", "d0/dae/a21712" ],
+    [ "npc_q24545_lich_king", "d1/d05/a21708.html#a1864564dee4f66f1b29850b8b0f6fa29", null ],
+    [ "GetAI", "d1/d05/a21708.html#aade5ad8ba215d0571185596aa40cf9b2", null ]
 ];

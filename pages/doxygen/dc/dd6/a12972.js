@@ -1,14 +1,16 @@
 var a12972 =
 [
-    [ "boss_kirtonos_the_heraldAI", "dc/dd6/a12972.html#af68c553db0889c22b7b4b76c868d38e7", null ],
-    [ "DoAction", "dc/dd6/a12972.html#ade11c2ff67c93f09f34b7b0e59766cc3", null ],
-    [ "EnterEvadeMode", "dc/dd6/a12972.html#a92ee25d349cc1ae3e46e4696a01697c3", null ],
-    [ "JustDied", "dc/dd6/a12972.html#a7ecf7396ebcb6f541586435996094f56", null ],
-    [ "JustEngagedWith", "dc/dd6/a12972.html#abcf09a75bed393e5fc03ef184e5c2918", null ],
-    [ "MovementInform", "dc/dd6/a12972.html#a16379320eebb8223a79cf3927bdc507e", null ],
-    [ "UpdateAI", "dc/dd6/a12972.html#a7eedcb1416d05b95f6110751119aea02", null ],
-    [ "events", "dc/dd6/a12972.html#a5dd38f68ce8745484cbc00dadde439dc", null ],
-    [ "events2", "dc/dd6/a12972.html#aaf9216da4f5394953d0316be8d8e8c4f", null ],
-    [ "instance", "dc/dd6/a12972.html#acae39cf7bc9a6d68834d3916fa75a006", null ],
-    [ "TransformsCount", "dc/dd6/a12972.html#aa0834b23d00463ae36bb0ec6a2067257", null ]
+    [ "instance_scarlet_monastery_InstanceMapScript", "dc/dd6/a12972.html#a4abdd53f735be815cb2d43497d1531e0", null ],
+    [ "GetData", "dc/dd6/a12972.html#a07d9bcc1b1daa29f31be146aaa85993c", null ],
+    [ "GetGuidData", "dc/dd6/a12972.html#a49ac1088399ef71b1fcd7c90c6a34fac", null ],
+    [ "OnCreatureCreate", "dc/dd6/a12972.html#a71fcfc166f945325a4ee149645a9ccef", null ],
+    [ "OnGameObjectCreate", "dc/dd6/a12972.html#a5e90e8cadff18b19c9a1d451dbe675c9", null ],
+    [ "SetData", "dc/dd6/a12972.html#aaf498d563d070d6250a182f583651777", null ],
+    [ "_ashbringerNpcGUID", "dc/dd6/a12972.html#a1abdafc284def7ab4069a17c0aeda535", null ],
+    [ "_ashencounter", "dc/dd6/a12972.html#ac6f544cf00bb6d987c9128cce9c1aa10", null ],
+    [ "_doorChapelGUID", "dc/dd6/a12972.html#a9f5070bfd7326ccaa1ebe697524a814b", null ],
+    [ "_doorHighInquisitorGUID", "dc/dd6/a12972.html#a1c9c74f06b2e1db77d5e6c75e720290c", null ],
+    [ "_encounter", "dc/dd6/a12972.html#a9d025f0d9740eaec42fe4f45971a6cf9", null ],
+    [ "_mograineGUID", "dc/dd6/a12972.html#ad34fc11ed5bd36a8f3a84f183627deb1", null ],
+    [ "_whitemaneGUID", "dc/dd6/a12972.html#af6c6214f8d506815afeeb2af4ad4a71b", null ]
 ];

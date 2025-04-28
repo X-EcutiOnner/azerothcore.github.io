@@ -1,6 +1,6 @@
 var a13952 =
 [
-    [ "HandleOnHit", "de/dab/a13952.html#a36909ef786940eb1a05539c968d78e80", null ],
-    [ "PrepareSpellScript", "de/dab/a13952.html#a4bc6792c99b40834ec1a8a9764589e24", null ],
-    [ "Register", "de/dab/a13952.html#ad1d60c5f747f8ec16cbf2402567cfebd", null ]
+    [ "boss_mandokirAI", "d8/dc9/a13956.html", "d8/dc9/a13956" ],
+    [ "boss_mandokir", "de/dab/a13952.html#aad13c8302cef7fb4981f0d2178630def", null ],
+    [ "GetAI", "de/dab/a13952.html#a215842d5ab23824ec20db64e2fa4407e", null ]
 ];

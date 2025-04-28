@@ -1,6 +1,6 @@
 var a22076 =
 [
-    [ "npc_vics_flying_machineAI", "d3/da2/a22080.html", "d3/da2/a22080" ],
-    [ "npc_vics_flying_machine", "d0/d68/a22076.html#ac0f1e83a9f53f1e38e81804f0332e3fd", null ],
-    [ "GetAI", "d0/d68/a22076.html#aac2a7cabd2e87705e9a1b3bfebb89eae", null ]
+    [ "npc_mcmanus", "d0/d68/a22076.html#a4e9da3fa22b74f51f72c58cbf22dc683", null ],
+    [ "OnGossipHello", "d0/d68/a22076.html#acb8f8b9c10387c0bb45b7d68f7f9821f", null ],
+    [ "OnGossipSelect", "d0/d68/a22076.html#a5e8c37ebcfa737ee3066ab8df3e453f8", null ]
 ];

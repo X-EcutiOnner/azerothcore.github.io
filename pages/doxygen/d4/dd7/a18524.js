@@ -1,7 +1,13 @@
 var a18524 =
 [
-    [ "npc_impaling_spearAI", "d4/dd7/a18524.html#ae8fbc36a15324b210a24a0e98357adc3", null ],
-    [ "Reset", "d4/dd7/a18524.html#a43fa8bf8f22f0635261decd8b15ed6f5", null ],
-    [ "UpdateAI", "d4/dd7/a18524.html#acb187a58b0ba256b4e003655ac36db34", null ],
-    [ "_vehicleCheckTimer", "d4/dd7/a18524.html#a264874b9f6f0609792d4b3a325e54f59", null ]
+    [ "boss_sister_svalnaAI", "d4/dd7/a18524.html#a8ffe7c40e6de53455caa86e1487c1234", null ],
+    [ "DoAction", "d4/dd7/a18524.html#a43c5be9641399b1fec35ef9b34d4fa7b", null ],
+    [ "JustDied", "d4/dd7/a18524.html#ab397adda97c8b21e9a53edccdadb8760", null ],
+    [ "JustEngagedWith", "d4/dd7/a18524.html#af930733e0f143c7fd0f214043b7fa9ef", null ],
+    [ "KilledUnit", "d4/dd7/a18524.html#a95c259d62cd4aab4a0b8a38ba98feb7a", null ],
+    [ "MovementInform", "d4/dd7/a18524.html#a4f1da0ead975b554704f4a068b1edb1d", null ],
+    [ "Reset", "d4/dd7/a18524.html#a4ba1ac914a7ae5c3b229d648b8fac9ee", null ],
+    [ "SpellHit", "d4/dd7/a18524.html#a9b5533f2f3a985f42bac098cc08e4cd1", null ],
+    [ "SpellHitTarget", "d4/dd7/a18524.html#a5236b715548c9c1b310a3227f8bf2bc8", null ],
+    [ "UpdateAI", "d4/dd7/a18524.html#a87e4f558db85e2c1ec192d35bde1eb8a", null ]
 ];

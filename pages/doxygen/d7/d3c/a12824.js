@@ -1,16 +1,11 @@
 var a12824 =
 [
-    [ "npc_unworthy_initiateAI", "d7/d3c/a12824.html#ae535d3335eb7865400f9e5c24b1dd3b5", null ],
-    [ "EventStart", "d7/d3c/a12824.html#a1973d5a14a1ac19be1d74cf57693cabe", null ],
-    [ "JustEngagedWith", "d7/d3c/a12824.html#aeedb0af23823ec5c7ff4f951c872552e", null ],
-    [ "MovementInform", "d7/d3c/a12824.html#afbf6d71b196067400256df98949ae963", null ],
-    [ "Reset", "d7/d3c/a12824.html#aba37cb6291a2e7436f8af796c50dead9", null ],
-    [ "UpdateAI", "d7/d3c/a12824.html#a485695877f48aea0bb191e8b312f9c99", null ],
-    [ "anchorGUID", "d7/d3c/a12824.html#acb1b338fae07b3ececfc8c15cc5ea80b", null ],
-    [ "anchorX", "d7/d3c/a12824.html#a69455d3e3f822c2f2a4f8c3f89e4586d", null ],
-    [ "anchorY", "d7/d3c/a12824.html#a67bbfac4014f2907cc9ad9caca80a4be", null ],
-    [ "events", "d7/d3c/a12824.html#a4eff6a50c098c3f851274ece860fb6fb", null ],
-    [ "phase", "d7/d3c/a12824.html#a299de7b4e1992edebd0a87c119d06d0a", null ],
-    [ "playerGUID", "d7/d3c/a12824.html#a02d1e6dd7a302e170b08f0c90f038ca9", null ],
-    [ "wait_timer", "d7/d3c/a12824.html#a9270c6e57cf77805769cfe692beefbe0", null ]
+    [ "npc_scarlet_ghoulAI", "d7/d3c/a12824.html#a194795143717de5aa8f0ca4c4e516136", null ],
+    [ "InitializeAI", "d7/d3c/a12824.html#ad0fd204d15350332508b0c9d9decefb1", null ],
+    [ "MovementInform", "d7/d3c/a12824.html#a9836c91a7dede1fabd1e0a9523ebd26a", null ],
+    [ "OwnerAttackedBy", "d7/d3c/a12824.html#a5b0afc1f2ee57a1cc5e30b8e997ba218", null ],
+    [ "SetGUID", "d7/d3c/a12824.html#a832602498643a03087efbc0a5a2f81c3", null ],
+    [ "UpdateAI", "d7/d3c/a12824.html#adbe4d539552e7954c7bdb8e520cb9783", null ],
+    [ "events", "d7/d3c/a12824.html#a105ac0982d28be590d514d2e452109c0", null ],
+    [ "gothikGUID", "d7/d3c/a12824.html#ab5efaf2e030f92d7ab45de8b5d19804d", null ]
 ];

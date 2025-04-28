@@ -1,13 +1,10 @@
 var a14588 =
 [
-    [ "boss_salrammAI", "d9/d64/a14588.html#ae1055878b3919e29d44ee26efcbe044f", null ],
-    [ "ExplodeGhoul", "d9/d64/a14588.html#adc64d8b10b28b98254c528732fff0516", null ],
-    [ "JustDied", "d9/d64/a14588.html#a59bc42afcbb0ed2c2629bd0280836194", null ],
-    [ "JustEngagedWith", "d9/d64/a14588.html#a8d3287cc74cc9d756a879c4ac796f860", null ],
-    [ "JustSummoned", "d9/d64/a14588.html#afd70403a8644f310f37335c6c9bf5b55", null ],
-    [ "KilledUnit", "d9/d64/a14588.html#ad3f4161c0e18c911a931d65e25693cdd", null ],
-    [ "Reset", "d9/d64/a14588.html#a9ddecc950cac3fc392078df2810ec2a2", null ],
-    [ "UpdateAI", "d9/d64/a14588.html#aa2350dc05884593b1361f9f09b8d9392", null ],
-    [ "events", "d9/d64/a14588.html#a55c0bba93a90b5a3770c81b9c4d2fe5b", null ],
-    [ "summons", "d9/d64/a14588.html#a813c09e121730d4ae2e623ac3c37d570", null ]
+    [ "npc_hyjal_gargoyle", "d9/d64/a14588.html#a35b17d008d96116b2e3cf09cceacd6fb", null ],
+    [ "AttackStart", "d9/d64/a14588.html#a0301be4d3e34f1248708fdcd3f0d5ea8", null ],
+    [ "DoAction", "d9/d64/a14588.html#ae213c71426f438dd2b27699d7de23664", null ],
+    [ "JustEngagedWith", "d9/d64/a14588.html#ae10a90c817a7df8d0d6ed18c9cdf6387", null ],
+    [ "PathEndReached", "d9/d64/a14588.html#a9ae52d3f7176045ef28713f3e1a16153", null ],
+    [ "Reset", "d9/d64/a14588.html#af314bb183bde44680eeb136d2a08c142", null ],
+    [ "UpdateAI", "d9/d64/a14588.html#ac1ca0648b08430a8bcbf99980222b684", null ]
 ];

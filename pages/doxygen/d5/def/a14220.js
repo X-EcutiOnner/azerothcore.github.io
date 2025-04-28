@@ -1,6 +1,5 @@
 var a14220 =
 [
-    [ "HandleScript", "d5/def/a14220.html#a4077b809530d28bed0a9419b5a745f42", null ],
-    [ "PrepareSpellScript", "d5/def/a14220.html#a97eb6d1fcdcf0628433e5bec68785932", null ],
-    [ "Register", "d5/def/a14220.html#ac09b1c86655eef0febaccff86533b28f", null ]
+    [ "npc_grizzlemaw_cw_triggerAI", "d5/def/a14220.html#a40207493c75d8a63284e08f1f75d56c4", null ],
+    [ "MoveInLineOfSight", "d5/def/a14220.html#aef49ccdae1aff20fc469f0aa2663d8af", null ]
 ];

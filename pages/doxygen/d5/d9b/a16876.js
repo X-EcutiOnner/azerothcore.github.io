@@ -1,13 +1,7 @@
 var a16876 =
 [
-    [ "boss_tyrannusAI", "d5/d9b/a16876.html#a753de14d2cecaaed2c7b24e09397b008", null ],
-    [ "CanAIAttack", "d5/d9b/a16876.html#a0cb60f308637cbd152faf274b3e5f636", null ],
-    [ "DoAction", "d5/d9b/a16876.html#ab4d899ab5da283c8d256df8cb0d4e312", null ],
-    [ "EnterEvadeMode", "d5/d9b/a16876.html#a9d18bab323c676020dede77a498a5b77", null ],
-    [ "JustDied", "d5/d9b/a16876.html#a249b7dc28dfc40c2a782ef32b88dbb48", null ],
-    [ "KilledUnit", "d5/d9b/a16876.html#abf7c8909143dac641c00cca160bef964", null ],
-    [ "Reset", "d5/d9b/a16876.html#aec686cffccd8d95a341e320ffc7d5b7e", null ],
-    [ "UpdateAI", "d5/d9b/a16876.html#a4357dc2e9b1d714d780db6ce3f60728b", null ],
-    [ "events", "d5/d9b/a16876.html#a2168a2e1b36607b76614bdef54b02bc3", null ],
-    [ "pInstance", "d5/d9b/a16876.html#ad4a8282849aaa1ce8b4702b5af55d35b", null ]
+    [ "UtherBatteredHiltEvent", "d5/d9b/a16876.html#a7bb34b75a3e371260a231aea72f75b40", null ],
+    [ "Execute", "d5/d9b/a16876.html#ad2eb37877155b6dbc9916338e30d0306", null ],
+    [ "_eventId", "d5/d9b/a16876.html#a5045e057b2c5d468aa579751d2c799b8", null ],
+    [ "_owner", "d5/d9b/a16876.html#a588974708f4a48f5a7b097a63a0c0899", null ]
 ];

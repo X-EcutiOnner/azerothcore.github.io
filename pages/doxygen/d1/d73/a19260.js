@@ -1,26 +1,10 @@
 var a19260 =
 [
-    [ "instance_oculus_InstanceMapScript", "d1/d73/a19260.html#a86c942751aee67ae10e2c77a1ace630e", null ],
-    [ "CheckAchievementCriteriaMeet", "d1/d73/a19260.html#a04ea989733a6ba1bed1990e1ea8baf1f", null ],
-    [ "GetData", "d1/d73/a19260.html#a44cf46153dd392758fa5c388e8c2ea84", null ],
-    [ "GetGuidData", "d1/d73/a19260.html#ac969f1faf18633ad54354015fb66f4f8", null ],
-    [ "Initialize", "d1/d73/a19260.html#a1c035ca450efdd89481715bd09c6c38c", null ],
-    [ "OnCreatureCreate", "d1/d73/a19260.html#a1b0553334dc2d00fd12512dae373039a", null ],
-    [ "OnGameObjectCreate", "d1/d73/a19260.html#a08abbb0430a43bb4841560b01e9fe26c", null ],
-    [ "OnPlayerEnter", "d1/d73/a19260.html#a7046a9b087300d0854bb1078c7bd1c9b", null ],
-    [ "OnUnitDeath", "d1/d73/a19260.html#a84fa94a97c62ba7b68130c7a5d8bb4dd", null ],
-    [ "ReadSaveDataMore", "d1/d73/a19260.html#aa5f838155be454aec552b99c42edfe99", null ],
-    [ "SetData", "d1/d73/a19260.html#a58b0b5142cbae350d6cc61c89a3792af", null ],
-    [ "WriteSaveDataMore", "d1/d73/a19260.html#a5043a99a4a3d1c86a4a7026757ebdc14", null ],
-    [ "bAmberVoid", "d1/d73/a19260.html#a9dfa8834bfea20a8f4a39c958e38bcbd", null ],
-    [ "bEmeraldVoid", "d1/d73/a19260.html#a45ce85a8a6c9362ad04194b0518066c9", null ],
-    [ "bRubyVoid", "d1/d73/a19260.html#ad93d6be40d07925d1eb485f864c72ace", null ],
-    [ "CentrifugeCount", "d1/d73/a19260.html#ae5a87cc8bfc153aee0f96978f39a1932", null ],
-    [ "DragonCageDoorGUID", "d1/d73/a19260.html#a402480035dfffd7c4c717229bd55b921", null ],
-    [ "EregosCacheGUID", "d1/d73/a19260.html#aad60cffd6c483bf4610884c3b99ad39c", null ],
-    [ "m_auiEncounter", "d1/d73/a19260.html#af4cca13b9039d7c88e7fad1e8f23eb3a", null ],
-    [ "uiDrakosGUID", "d1/d73/a19260.html#a1bc410826700bdfcefc5f60d0967a091", null ],
-    [ "uiEregosGUID", "d1/d73/a19260.html#a559b482989ee8f91f1ba412683856d89", null ],
-    [ "uiUromGUID", "d1/d73/a19260.html#accf640519e925eccf0230ca4a5dee3bb", null ],
-    [ "uiVarosGUID", "d1/d73/a19260.html#ab4a87ca38d203deacc377579e66e5bfb", null ]
+    [ "instance_nexus_InstanceMapScript", "d1/d73/a19260.html#a6803f233d730f33e5af7dc9d8ecd9775", null ],
+    [ "Initialize", "d1/d73/a19260.html#a2c6c42e73de2a155c04f80e37aa5d442", null ],
+    [ "OnCreatureCreate", "d1/d73/a19260.html#a04806dc42aa0b171fa99eb1d8492ff61", null ],
+    [ "OnGameObjectCreate", "d1/d73/a19260.html#a85c3ac915970d68a192414ca4ff8ad1f", null ],
+    [ "OnGameObjectRemove", "d1/d73/a19260.html#ac148c67823484eee38ab6646dfb68530", null ],
+    [ "SetBossState", "d1/d73/a19260.html#a11ac1fbc7c699084e7da5e4bf0595651", null ],
+    [ "SetData", "d1/d73/a19260.html#a351052b1d3ea4ddb5d36ce69818c7e67", null ]
 ];

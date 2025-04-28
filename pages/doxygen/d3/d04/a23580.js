@@ -1,8 +1,8 @@
 var a23580 =
 [
-    [ "boss_commander_sarannis", "d3/d04/a23580.html#ace0957feb37f864798008849be25f607", null ],
-    [ "JustDied", "d3/d04/a23580.html#a7796429f04c049549a4a02a1eb8d35fc", null ],
-    [ "JustEngagedWith", "d3/d04/a23580.html#ad4273db7c169c6cfa9917dd3b76c9c95", null ],
-    [ "KilledUnit", "d3/d04/a23580.html#a64e77321adc5eea9d3494a3e1030f9de", null ],
-    [ "ScheduleReinforcements", "d3/d04/a23580.html#a293f0b860a66396a30c6d255eef85309", null ]
+    [ "npc_warchief_portal", "d3/d04/a23580.html#a1a52395a5ae66f5cc5f92c6d4ce81893", null ],
+    [ "JustSummoned", "d3/d04/a23580.html#ad90c834dc059040f3922f58dc3bcf4a2", null ],
+    [ "SetData", "d3/d04/a23580.html#a538ab8c6e7683aa02e8c75f9dd900be8", null ],
+    [ "UpdateAI", "d3/d04/a23580.html#a8c400cf1b9f41696807e11f1f135c0ad", null ],
+    [ "_scheduler", "d3/d04/a23580.html#a76bb6a89f0922ed0bc0289ee4e0f20d4", null ]
 ];

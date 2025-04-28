@@ -1,6 +1,5 @@
 var a27108 =
 [
-    [ "go_pirate_day_musicAI", "db/dcd/a27112.html", "db/dcd/a27112" ],
-    [ "go_pirate_day_music", "d0/d32/a27108.html#aa8d19102357639bd160eae9e90a87505", null ],
-    [ "GetAI", "d0/d32/a27108.html#a3bce105696415c9a31c5cbeb9607fa95", null ]
+    [ "go_arena_ready_marker", "d0/d32/a27108.html#a614ee8efff31d928a9f4547d60b6a6a6", null ],
+    [ "OnGossipHello", "d0/d32/a27108.html#a9f51ead2b56d51427ff23be9688388d8", null ]
 ];

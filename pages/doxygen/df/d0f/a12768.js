@@ -1,5 +1,6 @@
 var a12768 =
 [
-    [ "instance_magisters_terrace_InstanceMapScript", "df/d0f/a12768.html#ad083ab5aa00902987e18f4e9423a705a", null ],
-    [ "ProcessEvent", "df/d0f/a12768.html#a8dbe1537ea00412a6fa366891204d645", null ]
+    [ "boss_garaxxas", "df/d0f/a12768.html#af34e3ef5dac400fb7c217f46345ee9bb", null ],
+    [ "JustEngagedWith", "df/d0f/a12768.html#aebfd7b63d714468ed69e920fb89c345d", null ],
+    [ "Reset", "df/d0f/a12768.html#a56e6489ce49971cb066444888355626e", null ]
 ];

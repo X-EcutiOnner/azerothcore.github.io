@@ -1,6 +1,6 @@
 var a17588 =
 [
-    [ "npc_cult_fanaticAI", "d9/d70/a17592.html", "d9/d70/a17592" ],
-    [ "npc_cult_fanatic", "d1/d14/a17588.html#af29ab8f7628b96b0f192bccab74ca02e", null ],
-    [ "GetAI", "d1/d14/a17588.html#ae4d22bac12d17d79669d3fccd4029952", null ]
+    [ "BurningPitchFilterCheck", "d1/d14/a17588.html#a11a4816f3d29cb1a6c4845cdaaeaa3cf", null ],
+    [ "operator()", "d1/d14/a17588.html#a24be987c8471d8a7096025debf6e60b1", null ],
+    [ "_entry", "d1/d14/a17588.html#a7bd20aed2db0e24ad34cbcc94d9a89d6", null ]
 ];

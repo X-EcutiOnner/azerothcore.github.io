@@ -1,13 +1,9 @@
 var a23132 =
 [
-    [ "npc_ahune_bunny", "dc/dd7/a23132.html#ae28e0d2dbaab082488d5582b75cd8482", null ],
-    [ "DoAction", "dc/dd7/a23132.html#ad071787c47254f603ba7692889733202", null ],
-    [ "JustDied", "dc/dd7/a23132.html#a8733a3e495ebf69df4f9d1213df50170", null ],
-    [ "JustSummoned", "dc/dd7/a23132.html#a2c5c97b497cd15a1453bbd21d279a29b", null ],
-    [ "ResetFlameCallers", "dc/dd7/a23132.html#a60a74aabbf42116079081134a332a100", null ],
-    [ "UpdateAI", "dc/dd7/a23132.html#aa8dff40dde7820b1ce4e06c8d27e4ecb", null ],
-    [ "_events", "dc/dd7/a23132.html#af84154fff16cbdb15586b3b07223e010", null ],
-    [ "_instance", "dc/dd7/a23132.html#a9be0d062379e5a3dfa19af1eb1a4243e", null ],
-    [ "_submerged", "dc/dd7/a23132.html#a15fdcc2fda18e118f398ccc055f52942", null ],
-    [ "_summons", "dc/dd7/a23132.html#a8f9e25f0d8a66b18e887b061592c6950", null ]
+    [ "CalcPeriodic", "dc/dd7/a23132.html#a5cd39919a088cab2fd160ea6e16ee7c8", null ],
+    [ "HandleEffectApply", "dc/dd7/a23132.html#adb983cc531fa666648bbdb432684ff1d", null ],
+    [ "HandleEffectRemove", "dc/dd7/a23132.html#a99c1bfc5aa4b67318bb3572589a42b1a", null ],
+    [ "OnPeriodic", "dc/dd7/a23132.html#aecefab535157dbe8e42aff3b23cd685b", null ],
+    [ "PrepareAuraScript", "dc/dd7/a23132.html#ad9ecc1fd4bcf1a2ecb5e2d1ec2ea37f7", null ],
+    [ "Register", "dc/dd7/a23132.html#a3771abcc829883ba0cbae9587adbe751", null ]
 ];

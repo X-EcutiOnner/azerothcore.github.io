@@ -1,12 +1,11 @@
 var a01886 =
 [
-    [ "ArenaTeamScript", "d1/d4a/a10209.html", "d1/d4a/a10209" ],
-    [ "ArenaTeamHook", "d9/dd5/a01886.html#adfb7077026efd17516d6b85637c2b218", [
-      [ "ARENATEAMHOOK_ON_GET_SLOT_BY_TYPE", "d9/dd5/a01886.html#adfb7077026efd17516d6b85637c2b218a138fd48dae9a6b0db50dd8a442045adc", null ],
-      [ "ARENATEAMHOOK_ON_GET_ARENA_POINTS", "d9/dd5/a01886.html#adfb7077026efd17516d6b85637c2b218a3b21f54389f578130e4874fd75c7e6a9", null ],
-      [ "ARENATEAMHOOK_ON_TYPEID_TO_QUEUEID", "d9/dd5/a01886.html#adfb7077026efd17516d6b85637c2b218ae5c1d8d5548693d43fdd43339ef152a7", null ],
-      [ "ARENATEAMHOOK_ON_QUEUEID_TO_ARENA_TYPE", "d9/dd5/a01886.html#adfb7077026efd17516d6b85637c2b218a957830b5a4fb9d7a53b977999068031b", null ],
-      [ "ARENATEAMHOOK_ON_SET_ARENA_MAX_PLAYERS_PER_TEAM", "d9/dd5/a01886.html#adfb7077026efd17516d6b85637c2b218aaf39f25b1610466743d5d839986bf6b6", null ],
-      [ "ARENATEAMHOOK_END", "d9/dd5/a01886.html#adfb7077026efd17516d6b85637c2b218a5fe29b394fe4fe74fffe7988b90ccaf7", null ]
-    ] ]
+    [ "instance_the_eye", "d4/d88/a23800.html", "d4/d88/a23800" ],
+    [ "instance_the_eye::instance_the_eye_InstanceMapScript", "d6/dfa/a23804.html", "d6/dfa/a23804" ],
+    [ "spell_the_eye_countercharge_aura", "d5/d78/a23808.html", "d5/d78/a23808" ],
+    [ "AddSC_instance_the_eye", "d9/dd5/a01886.html#a2edbd129d024cabd379cca055dd3e341", null ],
+    [ "boundaries", "d9/dd5/a01886.html#aa75d7d0ffe0cef214f982966c33db1c1", null ],
+    [ "creatureData", "d9/dd5/a01886.html#a412286b689bd324fedd65ddd8dde8afb", null ],
+    [ "doorData", "d9/dd5/a01886.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
+    [ "gameObjectData", "d9/dd5/a01886.html#a1461582839e3b7fdbb7397e5d2086e31", null ]
 ];

@@ -1,8 +1,8 @@
 var a23428 =
 [
-    [ "instance_hellfire_ramparts_InstanceMapScript", "d4/d34/a23428.html#aebc047b45cb4560a38df89db75f8efab", null ],
-    [ "Initialize", "d4/d34/a23428.html#a115a36ec26e15e23be4d78250d86d814", null ],
-    [ "OnGameObjectCreate", "d4/d34/a23428.html#a0639fcd867616d1f04aacde44020bb30", null ],
-    [ "SetBossState", "d4/d34/a23428.html#a7a38526ca7b9a7c7c04231f8f8efd2f7", null ],
-    [ "felIronChestGUID", "d4/d34/a23428.html#a7cfcac5dbe4562268679ddceaf8ec8ea", null ]
+    [ "boss_broggok", "d4/d34/a23428.html#ae20c04793116d3e8eab62d2ee27010df", null ],
+    [ "DoAction", "d4/d34/a23428.html#af5de5a1747c502f72af015c09d050354", null ],
+    [ "JustEngagedWith", "d4/d34/a23428.html#a084e3c37a0218d47c8e39b196fc6746a", null ],
+    [ "JustSummoned", "d4/d34/a23428.html#a0bf2d75f7889542a9e48689b8d080a1e", null ],
+    [ "Reset", "d4/d34/a23428.html#af11b4dc2aee8064a1eaad334d93e6de0", null ]
 ];

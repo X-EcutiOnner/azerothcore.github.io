@@ -1,11 +1,7 @@
 var a23336 =
 [
-    [ "boss_high_king_maulgar", "d3/dcb/a23336.html#a8a835570bd4ff5361b2025b2aaeec91f", null ],
-    [ "DoAction", "d3/dcb/a23336.html#a210e9c3d42e9201b9fbee0d7776cbcc5", null ],
-    [ "JustDied", "d3/dcb/a23336.html#ad235febd755745313b72394c633c3723", null ],
-    [ "JustEngagedWith", "d3/dcb/a23336.html#a6ad48aba60a01df62c1ae62e6480a14d", null ],
-    [ "KilledUnit", "d3/dcb/a23336.html#a2059016597039929103c053d6524ebf7", null ],
-    [ "Reset", "d3/dcb/a23336.html#adf1bf1c8c75fc9bbed871af157c6663c", null ],
-    [ "UpdateAI", "d3/dcb/a23336.html#ae540909dbbb3cf93e37503cd755c3001", null ],
-    [ "_recentlySpoken", "d3/dcb/a23336.html#a306f8492d83703b339a8fbe044e0cbbd", null ]
+    [ "HandleScript", "d3/dcb/a23336.html#a7c1b4d0c8d2ad153cef62ce05fef814c", null ],
+    [ "PrepareSpellScript", "d3/dcb/a23336.html#ab826f4f249679ffe87f9e6ccf6b9ecf0", null ],
+    [ "Register", "d3/dcb/a23336.html#a82da72fd4eed6773c1f3a4288caa8963", null ],
+    [ "Validate", "d3/dcb/a23336.html#a46aca18049e02d50f57579b3fdc705bd", null ]
 ];

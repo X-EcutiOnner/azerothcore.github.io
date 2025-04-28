@@ -1,6 +1,6 @@
 var a21504 =
 [
-    [ "npc_steam_powered_auctioneerAI", "db/d1d/a21508.html", "db/d1d/a21508" ],
-    [ "npc_steam_powered_auctioneer", "dc/d40/a21504.html#ae8c918c639ce0c3ddc14b8cf7f0ef855", null ],
-    [ "GetAI", "dc/d40/a21504.html#a39a2f0c187078c759bc4a391e0a81068", null ]
+    [ "npc_hidden_cultistAI", "db/d1d/a21508.html", "db/d1d/a21508" ],
+    [ "npc_hidden_cultist", "dc/d40/a21504.html#ab455b35fea966360e01fb8975adad989", null ],
+    [ "GetAI", "dc/d40/a21504.html#a4897006d9416f1177b0bc0e41df60293", null ]
 ];

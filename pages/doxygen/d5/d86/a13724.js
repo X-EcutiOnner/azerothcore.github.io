@@ -1,6 +1,7 @@
 var a13724 =
 [
-    [ "go", "d5/d86/a13724.html#ac14168f8c25efe7fa22ec802259b3a11", null ],
-    [ "npc", "d5/d86/a13724.html#a04d6e67fa2fb208ca747798ccc53083d", null ],
-    [ "pos", "d5/d86/a13724.html#a51175880a326101b29879d7a6a62c48d", null ]
+    [ "HandleDispel", "d5/d86/a13724.html#a415977576283972ce4a1050c70826d7c", null ],
+    [ "PrepareAuraScript", "d5/d86/a13724.html#a95dfbfe631e8ec9213a32c6f52d3feb1", null ],
+    [ "Register", "d5/d86/a13724.html#a1bbb71eeb2273c2ecd0eb774b68735dc", null ],
+    [ "Validate", "d5/d86/a13724.html#ac496e7bef875ca46660217e74fc3bc74", null ]
 ];

@@ -1,8 +1,6 @@
 var a19820 =
 [
-    [ "OnApply", "d2/d39/a19820.html#a5aec8606684637bbdb1e819254f5d483", null ],
-    [ "OnRemove", "d2/d39/a19820.html#add485a2fd5fdd068d7258d3c9c0d9c2b", null ],
-    [ "PrepareAuraScript", "d2/d39/a19820.html#adcc21606209dc2f32c1173c7ab4c5579", null ],
-    [ "Register", "d2/d39/a19820.html#af1db6ca387cf0733ba4b9c324172d692", null ],
-    [ "Validate", "d2/d39/a19820.html#a332d01b39295ea9a11773be9aa9c3fb3", null ]
+    [ "npc_pool_of_tarAI", "da/d8f/a19824.html", "da/d8f/a19824" ],
+    [ "npc_pool_of_tar", "d2/d39/a19820.html#a9c585318b4507babe77b3ba758b06a87", null ],
+    [ "GetAI", "d2/d39/a19820.html#ae77bf48a72ce49f821085f32127e91dc", null ]
 ];

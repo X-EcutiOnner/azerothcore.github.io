@@ -1,13 +1,10 @@
 var a13916 =
 [
-    [ "npc_ohganAI", "db/d34/a13916.html#a43f7fa66ff39bca177d30fc1d0d78080", null ],
-    [ "JustDied", "db/d34/a13916.html#a89e506868e3191362545e34d21528b8f", null ],
-    [ "JustEngagedWith", "db/d34/a13916.html#a5b6171794c5b49e8ee439de7bdc51ba5", null ],
-    [ "KilledUnit", "db/d34/a13916.html#a4e202eef928e54bd52160705bba5cc35", null ],
-    [ "Reset", "db/d34/a13916.html#ac3e1bc9dc819138741eb3b4448051547", null ],
-    [ "SetGUID", "db/d34/a13916.html#a5baf8e15902d4d8ff06c8410314327f6", null ],
-    [ "UpdateAI", "db/d34/a13916.html#aea7c169bc2b7c52ff7d4d9a5dd7a6f0a", null ],
-    [ "_scheduler", "db/d34/a13916.html#a838f1354e24c47e1c52e4b50e2b93c85", null ],
-    [ "instance", "db/d34/a13916.html#aeb6f6bddf881edf818fdc31fc639d5d5", null ],
-    [ "reviveGUID", "db/d34/a13916.html#afc066ae0c6d370f6632408b08de3c3bb", null ]
+    [ "boss_jeklik", "db/d34/a13916.html#a826bdba66fee3bb82b64ca6174b66c44", null ],
+    [ "EnterEvadeMode", "db/d34/a13916.html#a70dc363e0690e72846db5f779375edc1", null ],
+    [ "JustDied", "db/d34/a13916.html#ae648ba9ff49f4970612a8c3351789b66", null ],
+    [ "JustEngagedWith", "db/d34/a13916.html#aeb57cfc66104f6e2b2e36b6551207dd8", null ],
+    [ "PathEndReached", "db/d34/a13916.html#a689e8f91361de45e6f885fea0dec900a", null ],
+    [ "Reset", "db/d34/a13916.html#a7959106123e60e3584b32b50a272746c", null ],
+    [ "batRidersCount", "db/d34/a13916.html#a3d81395ec4518d4e2ca7f273fc658395", null ]
 ];

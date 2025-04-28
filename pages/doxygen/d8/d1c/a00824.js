@@ -1,19 +1,18 @@
 var a00824 =
 [
-    [ "ArenaSeasonReward", "db/d5b/a07189.html", "db/d5b/a07189" ],
-    [ "ArenaSeasonRewardGroup", "d1/d69/a07193.html", "d1/d69/a07193" ],
-    [ "ArenaSeasonMgr", "d8/dc3/a07197.html", "d8/dc3/a07197" ],
-    [ "sArenaSeasonMgr", "d8/d1c/a00824.html#ac46c94dc4c6cf0de37233cdd42a97ccf", null ],
-    [ "ArenaSeasonRewardGroupCriteriaType", "d8/d1c/a00824.html#a983281e9aada2538d6bc53ae4dd4d266", [
-      [ "ARENA_SEASON_REWARD_CRITERIA_TYPE_PERCENT_VALUE", "d8/d1c/a00824.html#a983281e9aada2538d6bc53ae4dd4d266a39f434bc965a3f4fafe78ece7d3f6422", null ],
-      [ "ARENA_SEASON_REWARD_CRITERIA_TYPE_ABSOLUTE_VALUE", "d8/d1c/a00824.html#a983281e9aada2538d6bc53ae4dd4d266a80897ebd11175aa1dd3435611c86dd63", null ]
+    [ "OutdoorPvPSI", "d1/df4/a22464.html", "d1/df4/a22464" ],
+    [ "OutdoorPvPSISpells", "d8/d1c/a00824.html#a62a8c4b8a007cc2da63e91f039a9b0f5", [
+      [ "SI_SILITHYST_FLAG_GO_SPELL", "d8/d1c/a00824.html#a62a8c4b8a007cc2da63e91f039a9b0f5add71e365726ced6250de08c4c883f055", null ],
+      [ "SI_SILITHYST_FLAG", "d8/d1c/a00824.html#a62a8c4b8a007cc2da63e91f039a9b0f5a1bf0ed27bacc509ec19e1648e1a9ec74", null ],
+      [ "SI_TRACES_OF_SILITHYST", "d8/d1c/a00824.html#a62a8c4b8a007cc2da63e91f039a9b0f5a8f61c4e11367451aa4b95455a9086410", null ],
+      [ "SI_CENARION_FAVOR", "d8/d1c/a00824.html#a62a8c4b8a007cc2da63e91f039a9b0f5a113a47f651228b031a6d40c36d34d2fb", null ]
     ] ],
-    [ "ArenaSeasonRewardType", "d8/d1c/a00824.html#a89a1f93759bb943ff9ef0e4991579265", [
-      [ "ARENA_SEASON_REWARD_TYPE_ITEM", "d8/d1c/a00824.html#a89a1f93759bb943ff9ef0e4991579265a124351d53a1d14813bc7af90043d8a32", null ],
-      [ "ARENA_SEASON_REWARD_TYPE_ACHIEVEMENT", "d8/d1c/a00824.html#a89a1f93759bb943ff9ef0e4991579265ad12571a956e334946d72aa118f464444", null ]
-    ] ],
-    [ "ArenaSeasonState", "d8/d1c/a00824.html#a64f8715fead51dc9727d105bce4d0e38", [
-      [ "ARENA_SEASON_STATE_DISABLED", "d8/d1c/a00824.html#a64f8715fead51dc9727d105bce4d0e38ac019cd8397ba38ebc1d327c337d48017", null ],
-      [ "ARENA_SEASON_STATE_IN_PROGRESS", "d8/d1c/a00824.html#a64f8715fead51dc9727d105bce4d0e38a455a35a5e6e89efd32818e52ca82f5f8", null ]
-    ] ]
+    [ "OutdoorPvPSIBuffZones", "d8/d1c/a00824.html#a155bfb73bcc562d8eaaa4d62d52e59bc", null ],
+    [ "OutdoorPvPSIBuffZonesNum", "d8/d1c/a00824.html#aaf633cff2fc1b3449acb7753f698c4d4", null ],
+    [ "SI_AREATRIGGER_A", "d8/d1c/a00824.html#aca1406dea9e721dc32c834e8b85b2d9a", null ],
+    [ "SI_AREATRIGGER_H", "d8/d1c/a00824.html#abb17804eb9913c298a5dae804e1c7206", null ],
+    [ "SI_MAX_RESOURCES", "d8/d1c/a00824.html#a9558d0ea12ff1048686daf5bf0ff999c", null ],
+    [ "SI_SILITHYST_MOUND", "d8/d1c/a00824.html#a5a6a1265e5e65971f8d86be718ea3bb3", null ],
+    [ "SI_TURNIN_QUEST_CM_A", "d8/d1c/a00824.html#a18c47c74867642b4bd8cc166d9fe1e79", null ],
+    [ "SI_TURNIN_QUEST_CM_H", "d8/d1c/a00824.html#ad1787da9136bc956357571149e1f6b60", null ]
 ];

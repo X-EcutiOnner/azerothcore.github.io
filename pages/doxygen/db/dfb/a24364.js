@@ -1,6 +1,6 @@
 var a24364 =
 [
-    [ "CheckProc", "db/dfb/a24364.html#a451ceeda18638f88d2e0a24ac445f5e2", null ],
-    [ "PrepareAuraScript", "db/dfb/a24364.html#a0a6d4617ff3351411f4e13f53876db31", null ],
-    [ "Register", "db/dfb/a24364.html#a0e5d974111eeca075f38910223f5eaf4", null ]
+    [ "DeathEvent", "db/dfb/a24364.html#a2fb9a98c077d715c4648aede6597276e", null ],
+    [ "Execute", "db/dfb/a24364.html#a497ac46ab1acf95816020fc6be8ce03a", null ],
+    [ "_owner", "db/dfb/a24364.html#a099d0d5ae50126f00220b3ed90907617", null ]
 ];

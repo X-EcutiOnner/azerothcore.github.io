@@ -1,14 +1,9 @@
 var a09168 =
 [
-    [ "WorldObjectLastSearcher", "dd/df0/a09168.html#af8baf5ff23a3167a963ade43faec09fc", null ],
-    [ "Visit", "dd/df0/a09168.html#ac011f150695eb1f3a83536175fd2a016", null ],
-    [ "Visit", "dd/df0/a09168.html#af5c5a533084c436e0d7de828e1ef82ad", null ],
-    [ "Visit", "dd/df0/a09168.html#a962a050f568dab037a9a48879eae0f86", null ],
-    [ "Visit", "dd/df0/a09168.html#a98967233e04c6223361897c02bc0edc5", null ],
-    [ "Visit", "dd/df0/a09168.html#a94d30e81eb509ff4fd3dac7c207c819b", null ],
-    [ "Visit", "dd/df0/a09168.html#a39a9d66014df641c0cb08f619f9d8434", null ],
-    [ "i_check", "dd/df0/a09168.html#a66afc21dd0fd740c2723516b8c33a319", null ],
-    [ "i_mapTypeMask", "dd/df0/a09168.html#a5689c8aa9120bc545c98ec0916d78d56", null ],
-    [ "i_object", "dd/df0/a09168.html#a765d65a90639b34a8cf9f42fdd6ae653", null ],
-    [ "i_phaseMask", "dd/df0/a09168.html#a966213d495a613f33aebaa8ebda7c380", null ]
+    [ "ObjectUpdater", "dd/df0/a09168.html#ad907a266bcf4c059a49195eae4758541", null ],
+    [ "Visit", "dd/df0/a09168.html#a7dc639f90a38e6156a436ef6ff1204ec", null ],
+    [ "Visit", "dd/df0/a09168.html#a2ca08c1a3f3f23111bffbd423ca47b1c", null ],
+    [ "Visit", "dd/df0/a09168.html#a283b656ac784e64b98929eca83326027", null ],
+    [ "i_largeOnly", "dd/df0/a09168.html#a8f3e4ed206f6793edf9bf358d1bdf2c2", null ],
+    [ "i_timeDiff", "dd/df0/a09168.html#a4f1acae57c44d33449a8f040b02fa5e4", null ]
 ];

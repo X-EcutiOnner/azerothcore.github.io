@@ -1,6 +1,7 @@
 var a12424 =
 [
-    [ "npc_flamewaker_priestAI", "db/dd1/a12428.html", "db/dd1/a12428" ],
-    [ "npc_flamewaker_priest", "d1/d35/a12424.html#a2ae4d75192f8ddc60d092b9a129e636e", null ],
-    [ "GetAI", "d1/d35/a12424.html#a8a38c2c54ae8366496eb58145f75eac9", null ]
+    [ "HandleScript", "d1/d35/a12424.html#aa6a02fd6ac2fe27588cb17377e63125f", null ],
+    [ "PrepareSpellScript", "d1/d35/a12424.html#a8d200122bafb943ccb6aa1bd86a1d227", null ],
+    [ "Register", "d1/d35/a12424.html#ab1ee3baa1bd7341660bcc7a10978aff3", null ],
+    [ "Validate", "d1/d35/a12424.html#a931be0e5aa4b54e646a3ed3ade135423", null ]
 ];

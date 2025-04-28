@@ -1,12 +1,12 @@
 var a23092 =
 [
-    [ "instance_serpentshrine_cavern_InstanceMapScript", "d4/dd5/a23092.html#a3e83985648f2951ee33d440c9c98bf72", null ],
-    [ "GetData", "d4/dd5/a23092.html#a9ea722d45efe2ee4eff041e480ff1c79", null ],
-    [ "Initialize", "d4/dd5/a23092.html#a8a2214e169acace8578c1863daf0a04c", null ],
-    [ "OnCreatureCreate", "d4/dd5/a23092.html#ae5f77169c337420852962fe7ddba3006", null ],
-    [ "OnGameObjectCreate", "d4/dd5/a23092.html#a9aeb7b25aa1446fff655b4c8fd6c47ad", null ],
-    [ "SetBossState", "d4/dd5/a23092.html#ad2863bc954ae25a5d96d06db0250cda3", null ],
-    [ "SetData", "d4/dd5/a23092.html#af3ca65eef9902a029f5b836d0b6fd58a", null ],
-    [ "_aliveKeepersCount", "d4/dd5/a23092.html#a85b7cbeab4149b0a379f27bdb459cfd7", null ],
-    [ "_shieldGeneratorGUID", "d4/dd5/a23092.html#a570b73c8ecd0e1ab6ac2889405be6ef0", null ]
+    [ "boss_leotheras_the_blind", "d4/dd5/a23092.html#a9229850f996812366a20508931965a87", null ],
+    [ "AttackStart", "d4/dd5/a23092.html#a678ed3eba7d53976fd6efa9051d11124", null ],
+    [ "DemonTime", "d4/dd5/a23092.html#af62091f4c045b1a85ef022fdc81b6d30", null ],
+    [ "DoAction", "d4/dd5/a23092.html#a4f3fd791f12b3f176ce109237c516889", null ],
+    [ "ElfTime", "d4/dd5/a23092.html#a52f101530de8883231faa7f5fe689691", null ],
+    [ "MoveToTargetIfOutOfRange", "d4/dd5/a23092.html#a3481cfa1883988b8c1c3f65b9009860d", null ],
+    [ "Reset", "d4/dd5/a23092.html#a5d4be42da1c7ae15c98b608f39ef82db", null ],
+    [ "UpdateAI", "d4/dd5/a23092.html#a89deeb1888046d1f4756bcb6447d8f0d", null ],
+    [ "_recentlySpoken", "d4/dd5/a23092.html#ad5231f13a247247dd7095b16c381fc7c", null ]
 ];

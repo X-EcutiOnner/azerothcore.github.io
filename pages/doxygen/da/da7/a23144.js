@@ -1,7 +1,9 @@
 var a23144 =
 [
-    [ "go_ahune_ice_spear", "da/da7/a23144.html#a22922e47b819bc60e331cffbc7c353b3", null ],
-    [ "Reset", "da/da7/a23144.html#abd11525a84d3ab06a39d1eb7e7c09fbc", null ],
-    [ "UpdateAI", "da/da7/a23144.html#ae498fc1f71906af2f20e95dea4df4a2b", null ],
-    [ "_scheduler", "da/da7/a23144.html#a7e1dab03b33b0114cc0a40fc02e2306e", null ]
+    [ "FilterTargets", "da/da7/a23144.html#a9049c113d65b15a9a8e1143980a84b23", null ],
+    [ "HandleDummy", "da/da7/a23144.html#a21fd59ba177fd7b04eb1fcafe869f33a", null ],
+    [ "Load", "da/da7/a23144.html#a8cad82701e0147e14f826243175e1c32", null ],
+    [ "PrepareSpellScript", "da/da7/a23144.html#aa05839a8dd785a2472e8e5f3a9fc58b0", null ],
+    [ "Register", "da/da7/a23144.html#a0e7e246c322b89c3b6ee08797984f7e6", null ],
+    [ "_targetNumber", "da/da7/a23144.html#a34f80edf782ade371e7a6fc908b47b4f", null ]
 ];

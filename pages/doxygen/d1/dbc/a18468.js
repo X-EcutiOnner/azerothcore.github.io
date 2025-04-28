@@ -1,6 +1,7 @@
 var a18468 =
 [
-    [ "boss_sister_svalnaAI", "d6/d7c/a18472.html", "d6/d7c/a18472" ],
-    [ "boss_sister_svalna", "d1/dbc/a18468.html#a233a9606db61f6ab945350e98a0929ff", null ],
-    [ "GetAI", "d1/dbc/a18468.html#a5eb89badd75104dfe1dc3e03d372adc0", null ]
+    [ "OnApply", "d1/dbc/a18468.html#ac35f5d98980f54470a75a72b3578681f", null ],
+    [ "OnRemove", "d1/dbc/a18468.html#a9844b3d82680bfc9756b141fcf29e1f9", null ],
+    [ "PrepareAuraScript", "d1/dbc/a18468.html#a83c90d16fa151026a1e02927e31922ee", null ],
+    [ "Register", "d1/dbc/a18468.html#a255e44ac6db7fd779d98fc3660ee91c6", null ]
 ];

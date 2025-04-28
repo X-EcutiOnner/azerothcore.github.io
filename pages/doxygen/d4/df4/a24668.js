@@ -1,10 +1,7 @@
 var a24668 =
 [
-    [ "HandleEffectApply", "d4/df4/a24668.html#ac977d07e0b054af33345538f10d80c56", null ],
-    [ "HandleEffectRemove", "d4/df4/a24668.html#acd9c460acb60eae5db8874c246014147", null ],
-    [ "PrepareAuraScript", "d4/df4/a24668.html#a1527c59b43a26db344e5a4d2900ea9b0", null ],
-    [ "Register", "d4/df4/a24668.html#ab0de0c0459d3414f69a0dde7669b6f79", null ],
-    [ "_hasFlag", "d4/df4/a24668.html#adb5058ba54ea53db9fdc9251a44619aa", null ],
-    [ "_itemId", "d4/df4/a24668.html#a28c06ecd352466e0d1076d9eb4fa8e9b", null ],
-    [ "_modelId", "d4/df4/a24668.html#ae77b9ae8a1092e0dc144e83db4c0758c", null ]
+    [ "CalculateAmount", "d4/df4/a24668.html#a2ed00d02a1685bc8b66e9cdfd430d1ad", null ],
+    [ "Load", "d4/df4/a24668.html#a7ba8da2fdc3bf18cd9925b280e60affa", null ],
+    [ "PrepareAuraScript", "d4/df4/a24668.html#a93df43072a344485c389160306b1fecd", null ],
+    [ "Register", "d4/df4/a24668.html#a6766b6ebbba04bc595373145e4eaaa7a", null ]
 ];

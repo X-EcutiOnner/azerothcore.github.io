@@ -1,5 +1,6 @@
 var a24232 =
 [
-    [ "npc_pet_dk_dancing_rune_weaponAI", "d2/ddd/a24232.html#a6d57990a8ff05cc74356b0ed4d7d39b6", null ],
-    [ "InitializeAI", "d2/ddd/a24232.html#a620ebac7c7cd5f81af47ea2e35de128c", null ]
+    [ "PrepareSpellScript", "d2/ddd/a24232.html#ac781a5ff389268d1f18867ff5585ca71", null ],
+    [ "Register", "d2/ddd/a24232.html#a5cb9e02774ea6c307e76183253ffb472", null ],
+    [ "SetDest", "d2/ddd/a24232.html#a5fec9885b1dd6cf80fb47af321fad98e", null ]
 ];

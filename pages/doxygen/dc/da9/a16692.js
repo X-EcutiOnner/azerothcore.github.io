@@ -1,7 +1,9 @@
 var a16692 =
 [
-    [ "OnRemove", "dc/da9/a16692.html#a4b95717cb19116b81f3eec798089abad", null ],
-    [ "PrepareAuraScript", "dc/da9/a16692.html#a581645fa151531aaf7b562a8739d5616", null ],
-    [ "Register", "dc/da9/a16692.html#a01304c556d79001e290707551bee7622", null ],
-    [ "Validate", "dc/da9/a16692.html#a96e4b9cae1f016bf87c9a09ceb6da561", null ]
+    [ "HandlePeriodicTick", "dc/da9/a16692.html#a8d3713d113cbcfd610938544e52fe6ec", null ],
+    [ "Load", "dc/da9/a16692.html#a6f2cb6a9dd83a887314cdd9f7741acae", null ],
+    [ "PrepareAuraScript", "dc/da9/a16692.html#a0d00fd1bbc8dfce6cbc3234865bab42b", null ],
+    [ "Register", "dc/da9/a16692.html#a75dbd486e1ccb8c12bbf8001434ae66a", null ],
+    [ "Validate", "dc/da9/a16692.html#aae7b42d8e7fa2dc76d2584534877625c", null ],
+    [ "dir", "dc/da9/a16692.html#a7dd1959596e8ad1628498215249eb7a2", null ]
 ];

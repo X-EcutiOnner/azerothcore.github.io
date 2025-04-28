@@ -1,6 +1,7 @@
 var a18204 =
 [
-    [ "npc_strangulate_vehicleAI", "d5/d4a/a18208.html", "d5/d4a/a18208" ],
-    [ "npc_strangulate_vehicle", "db/d48/a18204.html#a04532bc5902af45b1e9c76cf1cec9add", null ],
-    [ "GetAI", "db/d48/a18204.html#aa5813442234d7b18fc4e7ed44a0b30bc", null ]
+    [ "OnPeriodic", "db/d48/a18204.html#a9635bf496ee3098e412ba7de633250b3", null ],
+    [ "PrepareAuraScript", "db/d48/a18204.html#accb775d3a9c4ae40f5d8644c366ec39e", null ],
+    [ "Register", "db/d48/a18204.html#aa44bb97a0d3af32b90a133582f064b0e", null ],
+    [ "Validate", "db/d48/a18204.html#a5675fef373315edd34d096bb91c733b0", null ]
 ];

@@ -1,6 +1,6 @@
 var a27228 =
 [
-    [ "guard_shattrath_scryerAI", "d9/df0/a27232.html", "d9/df0/a27232" ],
-    [ "guard_shattrath_scryer", "db/d96/a27228.html#a2ee4d6881d7c24cd848c590b84207663", null ],
-    [ "GetAI", "db/d96/a27228.html#ab1d937102f63c63de4c92e45eff2c21c", null ]
+    [ "go_fel_crystalforge", "db/d96/a27228.html#aa44708a617edd51651da49918ab776e5", null ],
+    [ "OnGossipHello", "db/d96/a27228.html#aae9f4beff251efb7b29e1988ddd51eaf", null ],
+    [ "OnGossipSelect", "db/d96/a27228.html#a97450cce5f547e28ea84fa6a6f8ab79e", null ]
 ];

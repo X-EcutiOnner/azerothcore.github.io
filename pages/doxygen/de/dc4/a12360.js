@@ -1,7 +1,6 @@
 var a12360 =
 [
-    [ "HandleDummy", "de/dc4/a12360.html#acbf0fa3d73de0cec47928fc0dda0c724", null ],
-    [ "PrepareSpellScript", "de/dc4/a12360.html#a76d395449ed9fb26914aa9ff0488f1be", null ],
-    [ "Register", "de/dc4/a12360.html#a7d094ce258e3dc28cc30d5fb644d5a1e", null ],
-    [ "Validate", "de/dc4/a12360.html#a24447c4367d8e8713ba7d05ea53681ee", null ]
+    [ "npc_core_ragerAI", "d5/d57/a12364.html", "d5/d57/a12364" ],
+    [ "npc_core_rager", "de/dc4/a12360.html#ada4acfa2a1934d1609a8f9c78da6377d", null ],
+    [ "GetAI", "de/dc4/a12360.html#a0ace94ecc1ebfb0e880c50d9b68087db", null ]
 ];

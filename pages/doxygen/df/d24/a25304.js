@@ -1,8 +1,10 @@
 var a25304 =
 [
-    [ "CheckProc", "df/d24/a25304.html#ae0b0a45ddc782a523394e30414e0b2ba", null ],
-    [ "HandleProc", "df/d24/a25304.html#a9cb849a8ea8afb45cc1df4d260542937", null ],
-    [ "PrepareAuraScript", "df/d24/a25304.html#af65fc845e6625b1f0a4f4b88ba6db46e", null ],
-    [ "Register", "df/d24/a25304.html#acc5c7607ea7a23b66d1db6cb1a38833e", null ],
-    [ "Validate", "df/d24/a25304.html#a03621fd67cd9179ccc37a53c4d2056d9", null ]
+    [ "CheckProc", "df/d24/a25304.html#a8a7a0ac560eecc3777087622fb3f3951", null ],
+    [ "HandleProc", "df/d24/a25304.html#a90eee01f380f97f033c82d7c6ec48d00", null ],
+    [ "OnApply", "df/d24/a25304.html#a93818ec97cfd47da1dee454bb0a9318c", null ],
+    [ "OnRemove", "df/d24/a25304.html#a5e978d4d46f42ba5098eaecd9473fccb", null ],
+    [ "PrepareAuraScript", "df/d24/a25304.html#a73ae8e378b906a420955fd33d02ba6b7", null ],
+    [ "Register", "df/d24/a25304.html#a7070f64c9c47c8c1bc26e49b2b60a110", null ],
+    [ "Validate", "df/d24/a25304.html#a91c5a0e10c308332e18dc40033049996", null ]
 ];

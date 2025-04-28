@@ -1,16 +1,6 @@
 var a13664 =
 [
-    [ "boss_halazzi", "dc/db7/a13664.html#aed961a9e12b44dfd97bd31c981184be5", null ],
-    [ "AttackStart", "dc/db7/a13664.html#a000c3b6b8a73fd8f858b87724dfcf123", null ],
-    [ "DamageTaken", "dc/db7/a13664.html#aaa698dfa4d4a991968eebee3330e967a", null ],
-    [ "DoAction", "dc/db7/a13664.html#a1685c7c99a797ec332b67797a294d83a", null ],
-    [ "EnterPhase", "dc/db7/a13664.html#a951a0c9fc4fc737abbaaae77dfd4e43b", null ],
-    [ "JustDied", "dc/db7/a13664.html#aa607a13fef1b8c195ba0aa09fafdaaae", null ],
-    [ "JustEngagedWith", "dc/db7/a13664.html#a1dd4992bfca0bf658bd7a385300578ae", null ],
-    [ "JustSummoned", "dc/db7/a13664.html#a152267cb31912106443ceea9488fee0a", null ],
-    [ "KilledUnit", "dc/db7/a13664.html#a4d69fa8e754f823a599c52e227361600", null ],
-    [ "Reset", "dc/db7/a13664.html#a9d9a82e5ae8dadfefcf2c929325cb60e", null ],
-    [ "SpellHit", "dc/db7/a13664.html#a36141673391a423174db874ca425ea07", null ],
-    [ "_phase", "dc/db7/a13664.html#a1f76fd0c02eec20aa2c222b278420dd8", null ],
-    [ "_transformCount", "dc/db7/a13664.html#a9a86487f20e48d6be123bd61aaf13f7f", null ]
+    [ "npc_andorhal_towerAI", "d5/d20/a13668.html", "d5/d20/a13668" ],
+    [ "npc_andorhal_tower", "dc/db7/a13664.html#abf63419b6c10af47f5e5df1a4e7320e7", null ],
+    [ "GetAI", "dc/db7/a13664.html#a51139c28da736d26bf27a061862d24ee", null ]
 ];

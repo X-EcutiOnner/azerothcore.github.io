@@ -1,8 +1,8 @@
 var a27932 =
 [
-    [ "DamagedDisplayId", "da/de0/a27932.html#a84d606d69c51f5e1fdecf9bc0f5705be", null ],
-    [ "DestroyedDisplayId", "da/de0/a27932.html#afc891df0c9491a34f784e8f141434be5", null ],
-    [ "Id", "da/de0/a27932.html#a65d7e0933cb53864413781cdeb56b6c2", null ],
-    [ "RebuildingDisplayId", "da/de0/a27932.html#aa4e1e6be7b5b1d15872fb310c1c299af", null ],
-    [ "SmokeDisplayId", "da/de0/a27932.html#a1a06c3e04bc2bb7d5bc29592d40b9239", null ]
+    [ "gender", "da/de0/a27932.html#a571684c3aa6f2b0192b545d2a38ab333", null ],
+    [ "hair_id", "da/de0/a27932.html#af4646a9adb0a1dc18b34158de2116b84", null ],
+    [ "Id", "da/de0/a27932.html#a05de87081cf628e806d6518eef1424e4", null ],
+    [ "race", "da/de0/a27932.html#a458f5a1e2aca1fd34bb1afadeb5f6db2", null ],
+    [ "type", "da/de0/a27932.html#a289bb362ba13235c754647ba67be1e56", null ]
 ];

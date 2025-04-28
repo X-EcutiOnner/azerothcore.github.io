@@ -1,7 +1,8 @@
 var a28612 =
 [
-    [ "_pad", "db/dca/a28612.html#ad6e8aff776dfb6fa95c30d0318b3af25", null ],
-    [ "Count", "db/dca/a28612.html#ac90dd584efc679554d4cee31c988c7c8", null ],
-    [ "Name", "db/dca/a28612.html#ae93b772cbbe91b9ed55c78e22317c8dd", null ],
-    [ "StartIndex", "db/dca/a28612.html#a2ab3e4bac4c3b7e6b4ed7a72042d05fa", null ]
+    [ "TileInfo", "db/dca/a28612.html#af1a25ded4212f141ab4f32db95709210", null ],
+    [ "m_mapId", "db/dca/a28612.html#a41f4be7d3fce716754b9ac0310b9ecf9", null ],
+    [ "m_navMeshParams", "db/dca/a28612.html#a9d7c909370359edafa8a9b6a91cef354", null ],
+    [ "m_tileX", "db/dca/a28612.html#a54cc23d82dfe690e0d62b6156d440fc1", null ],
+    [ "m_tileY", "db/dca/a28612.html#ab7fba310dd471fddcf2e7d6fba3205ed", null ]
 ];

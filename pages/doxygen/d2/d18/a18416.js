@@ -1,7 +1,8 @@
 var a18416 =
 [
-    [ "OnApply", "d2/d18/a18416.html#ac35f5d98980f54470a75a72b3578681f", null ],
-    [ "OnRemove", "d2/d18/a18416.html#a9844b3d82680bfc9756b141fcf29e1f9", null ],
-    [ "PrepareAuraScript", "d2/d18/a18416.html#a83c90d16fa151026a1e02927e31922ee", null ],
-    [ "Register", "d2/d18/a18416.html#a255e44ac6db7fd779d98fc3660ee91c6", null ]
+    [ "npc_suppresserAI", "d2/d18/a18416.html#a5787ec6eadae1fc23b84129933ea14e8", null ],
+    [ "AttackStart", "d2/d18/a18416.html#ae36105de1df1dd9841332d9a8e7799be", null ],
+    [ "IsSummonedBy", "d2/d18/a18416.html#a35ec340b2d02a14707fc353428b1298d", null ],
+    [ "UpdateAI", "d2/d18/a18416.html#a1443e8311b6e2d61d6f9abd2e5f40793", null ],
+    [ "_instance", "d2/d18/a18416.html#a3e171216b2d53e00f8e504f47759d9a6", null ]
 ];

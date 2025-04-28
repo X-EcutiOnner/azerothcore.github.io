@@ -1,19 +1,9 @@
 var a16520 =
 [
-    [ "boss_novosAI", "d3/d66/a16520.html#adb1ddbf486ee7690d25c00db3902e408", null ],
-    [ "CheckEvadeIfOutOfCombatArea", "d3/d66/a16520.html#ab1e9ef1780d53447e3e39c69de2111f8", null ],
-    [ "GetData", "d3/d66/a16520.html#ab4c51470b6e1492922fa507566cfb01b", null ],
-    [ "JustDied", "d3/d66/a16520.html#a7fc57c7b0fe7befc5e3466e929bf8e40", null ],
-    [ "JustEngagedWith", "d3/d66/a16520.html#ab0d05b5f01943a2a1a4b9942b7af6a4f", null ],
-    [ "JustSummoned", "d3/d66/a16520.html#a67340b4d1b140b018a91c28cb649ce6f", null ],
-    [ "KilledUnit", "d3/d66/a16520.html#ae2a48f1b01018307d9d08b36a4b15401", null ],
-    [ "MoveInLineOfSight", "d3/d66/a16520.html#acd01b87b1f481de8f3327c3a958dd12d", null ],
-    [ "Reset", "d3/d66/a16520.html#ac62d82368e71dcb58cbac04d90731d35", null ],
-    [ "SetData", "d3/d66/a16520.html#a86825eabbf3411443ffd8f458defb0b0", null ],
-    [ "UpdateAI", "d3/d66/a16520.html#acba9623bd90132a4042c2fb9923a1c3c", null ],
-    [ "_achievement", "d3/d66/a16520.html#a00e5942a5c4c05dc168b80d60cb10d0f", null ],
-    [ "_crystalCounter", "d3/d66/a16520.html#afc81805776138a9075aac36cf268c6eb", null ],
-    [ "_stage", "d3/d66/a16520.html#a88013d55c74c4d3c86a5e254ca77e892", null ],
-    [ "_summonTargetLeftGUID", "d3/d66/a16520.html#a9c79a08d0f1814e265dc7dad59946c02", null ],
-    [ "_summonTargetRightGUID", "d3/d66/a16520.html#aeb5b0d02c11bd3e4299e05c498c8cfd8", null ]
+    [ "npc_concentrated_ballAI", "d3/d66/a16520.html#a5aae1554934d8e2aaa59d420a13517b6", null ],
+    [ "DoAction", "d3/d66/a16520.html#ad3284ed37cdc503a688aa6fb2537387e", null ],
+    [ "MovementInform", "d3/d66/a16520.html#a07845a436ded9c799b742ac9e27cc1bd", null ],
+    [ "MoveToNextPoint", "d3/d66/a16520.html#a89d2697d5ccf6d783e973efc3b4669aa", null ],
+    [ "UpdateAI", "d3/d66/a16520.html#a6509ff14639bca29b6877db54102d004", null ],
+    [ "despawning", "d3/d66/a16520.html#a24145c6c4c38b5a1853647d24871090d", null ]
 ];

@@ -1,5 +1,6 @@
 var a22364 =
 [
-    [ "OutdoorPvP_hellfire_peninsula", "dd/dc5/a22364.html#a8ef74076d03225c889c6f027fbbfe25d", null ],
-    [ "GetOutdoorPvP", "dd/dc5/a22364.html#aee93a8191457d7a264053809a5c082e8", null ]
+    [ "npc_released_offspring_harkoaAI", "dd/dc5/a22364.html#ab1002f002987b6ea2366129afd48d65c", null ],
+    [ "MovementInform", "dd/dc5/a22364.html#a56d52be3fdbc2e4176efe09ba58f55c7", null ],
+    [ "Reset", "dd/dc5/a22364.html#a3ddc30ce39acef3bb5e6f8400a084393", null ]
 ];

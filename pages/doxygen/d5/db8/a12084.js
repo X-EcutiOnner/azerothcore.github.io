@@ -1,5 +1,6 @@
 var a12084 =
 [
-    [ "at_dragonspire_hall", "d5/db8/a12084.html#a6adb22f328a7324b2ecf70204ab26a6d", null ],
-    [ "OnTrigger", "d5/db8/a12084.html#a0433930ec050a9dbeb60e1b1122772e3", null ]
+    [ "boss_urok_doomhowlAI", "d6/ddb/a12088.html", "d6/ddb/a12088" ],
+    [ "boss_urok_doomhowl", "d5/db8/a12084.html#a0ca9cea9919648baa5ff7db2d5a5b530", null ],
+    [ "GetAI", "d5/db8/a12084.html#ac77756af77191e02df49161da0ace268", null ]
 ];

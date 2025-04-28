@@ -1,6 +1,7 @@
 var a15940 =
 [
-    [ "npc_halion_controllerAI", "d4/dfe/a15944.html", "d4/dfe/a15944" ],
-    [ "npc_halion_controller", "dc/dcd/a15940.html#ac88ff15ce4d89d737eb6dd6b649e1218", null ],
-    [ "GetAI", "dc/dcd/a15940.html#a3c5ea3f0597c070005744ea788a05383", null ]
+    [ "CheckDistance", "dc/dcd/a15940.html#ac10f4cebab4966a220cd931afd0e0a30", null ],
+    [ "PrepareSpellScript", "dc/dcd/a15940.html#adb14940f47dc509d75a4e81bb90fc40d", null ],
+    [ "Register", "dc/dcd/a15940.html#a3a64ffc872e4650b1d226d20d9bedc65", null ],
+    [ "Validate", "dc/dcd/a15940.html#aa5d7a420154b156ca24e73de2faf912a", null ]
 ];

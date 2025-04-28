@@ -1,8 +1,6 @@
 var a19824 =
 [
-    [ "Area", "da/d8f/a19824.html#a0b9dc74e944f13e3291184645f432477", [
-      [ "AREA_FORMATION_GROUNDS", "da/d8f/a19824.html#a0b9dc74e944f13e3291184645f432477a92a09caedcec4a8b97c3e4601308d450", null ]
-    ] ],
-    [ "FlameLeviathanPursuedTargetSelector", "da/d8f/a19824.html#acc855eaab1e9590e1fcfae6ed8d37815", null ],
-    [ "operator()", "da/d8f/a19824.html#aaa2a49366fb651f7486b463ce597f364", null ]
+    [ "npc_pool_of_tarAI", "da/d8f/a19824.html#a6141addc9b1cf2c0028d98ef4f4d9d37", null ],
+    [ "DamageTaken", "da/d8f/a19824.html#a4ea55aa08123f724268238e0def5b595", null ],
+    [ "SpellHit", "da/d8f/a19824.html#acb63166b396c079d5b4bb9db67a1448a", null ]
 ];

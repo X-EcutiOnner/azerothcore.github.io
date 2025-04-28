@@ -1,14 +1,15 @@
 var a22412 =
 [
-    [ "OPvPCapturePointTF", "d8/dfe/a22412.html#af71fd9e2b7cdfa8c4a352bb5f4ce3d33", null ],
-    [ "ChangeState", "d8/dfe/a22412.html#aa1e2611ef1b260ab363fd2645de142b0", null ],
-    [ "FillInitialWorldStates", "d8/dfe/a22412.html#a8f8588000b515e0c33449f9d7c1357a3", null ],
-    [ "HandlePlayerEnter", "d8/dfe/a22412.html#ae73763b63f5c1522c9b9c5950a6e5dfe", null ],
-    [ "HandlePlayerLeave", "d8/dfe/a22412.html#ace20d19311478a136ae0b75016c36ea8", null ],
-    [ "ResetToTeamControlled", "d8/dfe/a22412.html#a7ad637f6a4005da3166601dafda52d1b", null ],
-    [ "SendChangePhase", "d8/dfe/a22412.html#a16efee78249e510e211b18694ea868f2", null ],
-    [ "Update", "d8/dfe/a22412.html#a15b0758d901bf98f65fa2ee87bb4b401", null ],
-    [ "UpdateTowerState", "d8/dfe/a22412.html#a3f6cbfddd3322e3d948a1330cfa0e4d8", null ],
-    [ "m_TowerState", "d8/dfe/a22412.html#a74e1c07d3186fb6ba54b65efa9700989", null ],
-    [ "m_TowerType", "d8/dfe/a22412.html#ace7e183b6dd438b9649e9ee60c6d00e2", null ]
+    [ "OutdoorPvPEP", "d8/dfe/a22412.html#ab4915dfc03de08cad83eb48c4c789cb8", null ],
+    [ "BuffTeams", "d8/dfe/a22412.html#ac6a61c19ba96ca843eb12952d0c09078", null ],
+    [ "FillInitialWorldStates", "d8/dfe/a22412.html#ac1b185125fa1f8864d1062b65be24bdc", null ],
+    [ "HandlePlayerEnterZone", "d8/dfe/a22412.html#a9e7404160b1220dc3cc2766a07f42ad2", null ],
+    [ "HandlePlayerLeaveZone", "d8/dfe/a22412.html#a251b154abfaec9cbfb1a56e657ac5214", null ],
+    [ "SendRemoveWorldStates", "d8/dfe/a22412.html#afad47628bb4cfcc6060ce35396e33d9d", null ],
+    [ "SetControlledState", "d8/dfe/a22412.html#abef30d5cbe7c2cd52cd32ae29da1c9ce", null ],
+    [ "SetupOutdoorPvP", "d8/dfe/a22412.html#acecc8126180c027cb3d685231e55d873", null ],
+    [ "Update", "d8/dfe/a22412.html#a974910b2f7f2d8cfaf43b6694bf4c2c7", null ],
+    [ "EP_ControlsId", "d8/dfe/a22412.html#a7e8fcf50f88bdb56b189877721a1f006", null ],
+    [ "m_AllianceTowersControlled", "d8/dfe/a22412.html#a09e5cf029656af3fc740b236596d42ee", null ],
+    [ "m_HordeTowersControlled", "d8/dfe/a22412.html#a325c16f6b5f40bd5dd5f63a9d93a8cd1", null ]
 ];

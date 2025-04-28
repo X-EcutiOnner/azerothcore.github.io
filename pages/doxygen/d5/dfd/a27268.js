@@ -1,5 +1,5 @@
 var a27268 =
 [
-    [ "item_generic_limit_chance_above_60", "d5/dfd/a27268.html#abc18809810f0a7668020d01c482be84b", null ],
-    [ "OnCastItemCombatSpell", "d5/dfd/a27268.html#aa34809cfd53edb6a77d3fa415a079d72", null ]
+    [ "go_hive_pod", "d5/dfd/a27268.html#a7ec01a399e75ff2e64746166d1aa3539", null ],
+    [ "OnGossipHello", "d5/dfd/a27268.html#a4cfb09789edf6699444a7d817e4ccc70", null ]
 ];

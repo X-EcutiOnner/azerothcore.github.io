@@ -1,5 +1,5 @@
 var a27260 =
 [
-    [ "item_petrov_cluster_bombs", "d3/d05/a27260.html#a1a76760f7c4617a40d96b9833e7466df", null ],
-    [ "OnUse", "d3/d05/a27260.html#a14e8a00a532b5aebc8469ff538848f53", null ]
+    [ "go_dragonflayer_cage", "d3/d05/a27260.html#a9f36ba678a1e3954f21b96b227fb999e", null ],
+    [ "OnGossipHello", "d3/d05/a27260.html#a542530a0b84879b21a4b9982cf4300d0", null ]
 ];

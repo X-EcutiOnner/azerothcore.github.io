@@ -1,6 +1,7 @@
 var a20444 =
 [
-    [ "boss_thorimAI", "d8/dc8/a20448.html", "d8/dc8/a20448" ],
-    [ "boss_thorim", "dc/d76/a20444.html#a23a52a05aea5092cef8fe47be28b4bfb", null ],
-    [ "GetAI", "dc/d76/a20444.html#a70895451317569f50adc11474e653515", null ]
+    [ "npc_ulduar_expedition_commanderAI", "dc/d76/a20444.html#a100678bddd6a0e859c72035d4642d8e2", null ],
+    [ "MoveInLineOfSight", "dc/d76/a20444.html#a870bdc842d8d7078302a36a20ef661e4", null ],
+    [ "_instance", "dc/d76/a20444.html#a64d925b08f3f0ae59f5053121dbc495c", null ],
+    [ "_introSpoken", "dc/d76/a20444.html#ac6784a66111406f917ae4d07dbeb60a4", null ]
 ];

@@ -1,7 +1,8 @@
 var a28680 =
 [
-    [ "HandleDummy", "dd/d9b/a28680.html#a6990bc24605167d38772f391aa2a5376", null ],
-    [ "PrepareSpellScript", "dd/d9b/a28680.html#af85da0790eb36b91266ffa45888068d6", null ],
-    [ "Register", "dd/d9b/a28680.html#a619dab878b3d6e332a15d772dd148e26", null ],
-    [ "Validate", "dd/d9b/a28680.html#a5a39713deabac73334442e1bdeb00aad", null ]
+    [ "Color", "dd/d9b/a28680.html#a379e4cf61345dbb4d93da5a8603138c0", null ],
+    [ "NameIndex", "dd/d9b/a28680.html#add893e045d13a3633fd7346457a10477", null ],
+    [ "Position", "dd/d9b/a28680.html#afae9056582e71160c151de2c172bc60a", null ],
+    [ "Rotation", "dd/d9b/a28680.html#a48d372bc1371fa5f94db9aa39669942a", null ],
+    [ "Scale", "dd/d9b/a28680.html#aefacaaf0be0745c95ffc53f410da6e8d", null ]
 ];

@@ -1,6 +1,5 @@
 var a15784 =
 [
-    [ "instance_azjol_nerub_InstanceScript", "df/df7/a15788.html", "df/df7/a15788" ],
-    [ "instance_azjol_nerub", "d6/d25/a15784.html#a61476a0d15136d2bdb3a65eca72963da", null ],
-    [ "GetInstanceScript", "d6/d25/a15784.html#a8bb8477669c6369afe508a400bd4d489", null ]
+    [ "PrepareAuraScript", "d6/d25/a15784.html#a94b3a8e0a610afa69c3a9771f8f22b13", null ],
+    [ "Register", "d6/d25/a15784.html#a1203cbec26f64aa97d10783b567c2d62", null ]
 ];

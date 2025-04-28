@@ -1,8 +1,12 @@
 var a09832 =
 [
-    [ "GetAINotifyDelay", "d5/d25/a09832.html#a9efd4acfe2ff5e4dfe0cc9e8fe802cc6", null ],
-    [ "GetReqMoveDistSq", "d5/d25/a09832.html#a58687646bbf83723e8ad2925ee50452c", null ],
-    [ "GetVisibilityNotifyDelay", "d5/d25/a09832.html#ac402ec0cb86192ce264d7909e09da5ac", null ],
-    [ "Update", "d5/d25/a09832.html#aa95443d7050249a44cad2f16fa0026e5", null ],
-    [ "visibilitySettingsIndex", "d5/d25/a09832.html#a35ebd0fcbdec8a3287f714cbe9becbcc", null ]
+    [ "TransportTemplate", "d5/d25/a09832.html#aef4781a37808827e3ceaffc782c3af1e", null ],
+    [ "~TransportTemplate", "d5/d25/a09832.html#afc385d824c171d13a184bc0a16121110", null ],
+    [ "accelDist", "d5/d25/a09832.html#a558f3611434dbe13239834fa2f2ec6b4", null ],
+    [ "accelTime", "d5/d25/a09832.html#aea9903b7c5643061dc9f401e78d3dfd3", null ],
+    [ "entry", "d5/d25/a09832.html#a7b6837ef812eadb353c00cfeb2426e99", null ],
+    [ "inInstance", "d5/d25/a09832.html#a971c84762c229b01cab656945f0c16de", null ],
+    [ "keyFrames", "d5/d25/a09832.html#ac714531f226ca06c3586cf3f6cc06808", null ],
+    [ "mapsUsed", "d5/d25/a09832.html#a93899b0648871ed8ca32dfe8394347c1", null ],
+    [ "pathTime", "d5/d25/a09832.html#a9d6a612652af64e8b4dd5cbb81ed0d71", null ]
 ];

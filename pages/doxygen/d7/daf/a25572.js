@@ -1,8 +1,6 @@
 var a25572 =
 [
-    [ "HandleDummy", "d7/daf/a25572.html#ac6db67f521a8fd1e8de4cd22220b45fe", null ],
-    [ "Load", "d7/daf/a25572.html#af767de9953372e5e56509a0be9e90958", null ],
-    [ "PrepareSpellScript", "d7/daf/a25572.html#a0385a22f908ac62ab987fe9f84cad330", null ],
-    [ "Register", "d7/daf/a25572.html#a1212726a4fcbac06b527648dff58c546", null ],
-    [ "Validate", "d7/daf/a25572.html#ab014db76cf4656e10665f12fb18c5997", null ]
+    [ "HandleScript", "d7/daf/a25572.html#a9309c0e435240bc656b3bfde2d923a9a", null ],
+    [ "PrepareSpellScript", "d7/daf/a25572.html#a74dc9d9a57ed410b3c0d690418bfb4eb", null ],
+    [ "Register", "d7/daf/a25572.html#a8769cbce815d1f1c457979743e10535c", null ]
 ];

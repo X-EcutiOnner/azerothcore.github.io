@@ -1,6 +1,6 @@
 var a24236 =
 [
-    [ "HandleDamageCalc", "d3/d3e/a24236.html#a9e0f6fe8bb10950c2130fb7d1f07017a", null ],
-    [ "PrepareSpellScript", "d3/d3e/a24236.html#a183477b6269dbc705a10e60ab36c13b1", null ],
-    [ "Register", "d3/d3e/a24236.html#ae93d958a3a439e3401685b0d2a570f0e", null ]
+    [ "npc_unkor_the_ruthlessAI", "d9/dce/a24240.html", "d9/dce/a24240" ],
+    [ "npc_unkor_the_ruthless", "d3/d3e/a24236.html#a4eb173932f39c5503d1db91d55f3a5b7", null ],
+    [ "GetAI", "d3/d3e/a24236.html#a552a19b9a48e90f3b093e2b9e16ec867", null ]
 ];

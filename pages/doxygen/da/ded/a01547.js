@@ -1,11 +1,8 @@
 var a01547 =
 [
-    [ "BanMgr", "d3/dfe/a09845.html", "d3/dfe/a09845" ],
-    [ "sBan", "da/ded/a01547.html#a7d5e9b6aab3c8157bcf25fa0f070bb17", null ],
-    [ "BanReturn", "da/ded/a01547.html#a4dd4670ead55e2780d09a66ab39943a7", [
-      [ "BAN_SUCCESS", "da/ded/a01547.html#a4dd4670ead55e2780d09a66ab39943a7ab48bdf9afe21b115b7550bf103d1dc28", null ],
-      [ "BAN_SYNTAX_ERROR", "da/ded/a01547.html#a4dd4670ead55e2780d09a66ab39943a7a7ec21f8f8ea6d0904423dded4b8f0dc8", null ],
-      [ "BAN_NOTFOUND", "da/ded/a01547.html#a4dd4670ead55e2780d09a66ab39943a7aaefc3ea320005c27d70704fb92aed7ad", null ],
-      [ "BAN_LONGER_EXISTS", "da/ded/a01547.html#a4dd4670ead55e2780d09a66ab39943a7ac441589615fb2fe9c7decb985f6f0d3c", null ]
-    ] ]
+    [ "spell_gordunni_trap", "d5/dbd/a15380.html", "d5/dbd/a15380" ],
+    [ "GordunniTrap", "da/ded/a01547.html#ae11511f5835ecdfec73fde1f9f29431c", [
+      [ "GO_GORDUNNI_DIRT_MOUND", "da/ded/a01547.html#ae11511f5835ecdfec73fde1f9f29431ca12df131fc84f6cc9bcf7d02eaf65e1ab", null ]
+    ] ],
+    [ "AddSC_feralas", "da/ded/a01547.html#a06e54e3edc2df068be660ac788b402e3", null ]
 ];

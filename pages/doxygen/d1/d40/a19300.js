@@ -1,7 +1,6 @@
 var a19300 =
 [
-    [ "HandleProc", "d1/d40/a19300.html#a84255cd31ebaa7c70de93d569258c709", null ],
-    [ "PrepareAuraScript", "d1/d40/a19300.html#a8d9c8122b105b28b88c4297d3a9acf7f", null ],
-    [ "Register", "d1/d40/a19300.html#a6bc166d2e1455537fa78c4223da17746", null ],
-    [ "Validate", "d1/d40/a19300.html#ab38bde2ed642dcf4fda1893a131aa6fe", null ]
+    [ "boss_varosAI", "d7/d92/a19304.html", "d7/d92/a19304" ],
+    [ "boss_varos", "d1/d40/a19300.html#a4fdb9de9ee7a3a50ac0972fd6eb8d39c", null ],
+    [ "GetAI", "d1/d40/a19300.html#a36733c4eb6179e43d61a1c37480666ea", null ]
 ];

@@ -1,9 +1,7 @@
 var a18668 =
 [
-    [ "npc_icc_severed_essenceAI", "d0/de3/a18668.html#a76366c33ab9ec7aa291c0df657fbef68", null ],
-    [ "CanAIAttack", "d0/de3/a18668.html#a2cc2cfc967f9ad966d76571eb0eb630f", null ],
-    [ "DoAction", "d0/de3/a18668.html#a938af3a7de5b26432e1ad515a326a032", null ],
-    [ "UpdateAI", "d0/de3/a18668.html#a66e3324baa87ba109dd968a517ee82a5", null ],
-    [ "Class", "d0/de3/a18668.html#aa627713be3a2ac01336d158d96aaccc7", null ],
-    [ "events", "d0/de3/a18668.html#a1bab216925c4123d633d9613bb80365c", null ]
+    [ "HandleDummy", "d0/de3/a18668.html#a4bfc155129bd80c94b4b59474f30d748", null ],
+    [ "PrepareSpellScript", "d0/de3/a18668.html#a9c72772f9d17b34562bd11418d67872d", null ],
+    [ "Register", "d0/de3/a18668.html#a10c9f511da4eb366117d356c118408c6", null ],
+    [ "Validate", "d0/de3/a18668.html#a655f2081d17c06c155641efc45efc1f8", null ]
 ];

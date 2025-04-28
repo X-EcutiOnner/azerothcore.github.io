@@ -1,6 +1,27 @@
 var a12416 =
 [
-    [ "boss_sulfuronAI", "db/d8a/a12420.html", "db/d8a/a12420" ],
-    [ "boss_sulfuron", "dc/df2/a12416.html#aed72791db02009136592b905cc4f4df3", null ],
-    [ "GetAI", "dc/df2/a12416.html#aced001845e4a9bb9f517d45a36f474c7", null ]
+    [ "boss_ragnarosAI", "dc/df2/a12416.html#a94c4efe28aac474a88eeb4b0f370af02", null ],
+    [ "AttackStart", "dc/df2/a12416.html#a6c89e52fc1f34d08676a81fe83f6e820", null ],
+    [ "CanAIAttack", "dc/df2/a12416.html#af5d86d91401c2543128866524ff4a44f", null ],
+    [ "DamageTaken", "dc/df2/a12416.html#a869dfadf29a812e1d036a65bf2091d92", null ],
+    [ "DoAction", "dc/df2/a12416.html#ad02bb8b22e166a2fd34fa56ddea3d396", null ],
+    [ "EnterEvadeMode", "dc/df2/a12416.html#a9e043455beaadc2a47e0d753cc5c18d7", null ],
+    [ "HandleEmerge", "dc/df2/a12416.html#ae15e53e682b9d8475861c64847d8b89c", null ],
+    [ "IsVictimWithinMeleeRange", "dc/df2/a12416.html#a940e84dbc1d88d97a244dac000d1395d", null ],
+    [ "JustDied", "dc/df2/a12416.html#a0455bacbe8356bdadd9c391115efcd68", null ],
+    [ "JustEngagedWith", "dc/df2/a12416.html#ae71cafa0f60ce0ca6792524b5680d110", null ],
+    [ "JustSummoned", "dc/df2/a12416.html#a249bbd12c520e81968e93a93d3dd272c", null ],
+    [ "KilledUnit", "dc/df2/a12416.html#a4051c5bcb73419a8a5459732a148da4d", null ],
+    [ "Reset", "dc/df2/a12416.html#a04a206275d57f0e0f2af0d7e98323696", null ],
+    [ "ScheduleCombatEvents", "dc/df2/a12416.html#af1ce50fa9f251bf1d5270caca23d7dc1", null ],
+    [ "SetGUID", "dc/df2/a12416.html#a29f05ceecaaa0582b24430eb87e840f0", null ],
+    [ "SummonedCreatureDies", "dc/df2/a12416.html#aeda8df8fe34a59bea6e2bbb7d3fa0b72", null ],
+    [ "UpdateAI", "dc/df2/a12416.html#afd770319814d46976e3d946b43e909a4", null ],
+    [ "_hasSubmergedOnce", "dc/df2/a12416.html#a1e9b96abd69fce032a7ca6dff275703c", null ],
+    [ "_hasYelledMagmaBurst", "dc/df2/a12416.html#a3026598fec3a0b4ba9a8b458aa411d33", null ],
+    [ "_isIntroDone", "dc/df2/a12416.html#a9e7506026fc816aea5e1b58bab0e50c0", null ],
+    [ "_isKnockbackEmoteAllowed", "dc/df2/a12416.html#a96505d1dbb57c7d52d8730952f5c46f8", null ],
+    [ "_lavaBurstGUIDS", "dc/df2/a12416.html#ac2b114c221b2713b4c2ab039cf3bc924", null ],
+    [ "_processingMagmaBurst", "dc/df2/a12416.html#af1f3bf328a3729e0c667bbbe9188b104", null ],
+    [ "extraEvents", "dc/df2/a12416.html#adcb09077e86ad069dbe219bfc5c45613", null ]
 ];

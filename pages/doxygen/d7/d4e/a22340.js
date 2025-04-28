@@ -1,13 +1,17 @@
 var a22340 =
 [
-    [ "OPvPCapturePointEP_CGT", "d7/d4e/a22340.html#a82d8e9bff56eed1870b098dcf21f77cd", null ],
-    [ "ChangeState", "d7/d4e/a22340.html#ab9d32c9a60bbdca9fc54d7e0b2bf8a5d", null ],
-    [ "FillInitialWorldStates", "d7/d4e/a22340.html#ae7d57fe449bb38de013b18ecf2f9f07c", null ],
-    [ "HandlePlayerEnter", "d7/d4e/a22340.html#a48cb29473f25ed9b469c7ff54acc9d88", null ],
-    [ "HandlePlayerLeave", "d7/d4e/a22340.html#ad1886046ecf8c382e1fd0e01d6394614", null ],
-    [ "LinkGraveyard", "d7/d4e/a22340.html#ada14179a31fb6235b7882a190dc96c40", null ],
-    [ "SendChangePhase", "d7/d4e/a22340.html#a30d9f8701dd6a78740f7df0d2c7ceb9d", null ],
-    [ "UpdateTowerState", "d7/d4e/a22340.html#a764284d6143d4879b5bc003acc52048c", null ],
-    [ "m_GraveyardSide", "d7/d4e/a22340.html#aaf1f8440dc891ed45857bb7d15149d9a", null ],
-    [ "m_TowerState", "d7/d4e/a22340.html#a6f434f86ed97f88368e3194a3bc3183b", null ]
+    [ "npc_overlord_drakuru_betrayalAI", "d7/d4e/a22340.html#a52cda9357a3672871d2c52312cec7304", null ],
+    [ "DamageTaken", "d7/d4e/a22340.html#a031c475bc9e3660f8efb01face303816", null ],
+    [ "EnterEvadeMode", "d7/d4e/a22340.html#a3ab85c07b6cc186d37cef571bb9539c0", null ],
+    [ "JustEngagedWith", "d7/d4e/a22340.html#a3e758268744c8f52410ebfa05f9d6635", null ],
+    [ "JustSummoned", "d7/d4e/a22340.html#a34b76f7a4df8f28a8e80ffc406d60d98", null ],
+    [ "MoveInLineOfSight", "d7/d4e/a22340.html#acf4ad45c1145c7b0cd6f05c847546005", null ],
+    [ "Reset", "d7/d4e/a22340.html#ad154b8027917a1402840ced87aacac7d", null ],
+    [ "SpellHit", "d7/d4e/a22340.html#a836f0886846ac3081a05800fffb0aa0b", null ],
+    [ "SpellHitTarget", "d7/d4e/a22340.html#a58eb77bbfec0279908c3ed9a111c6cce", null ],
+    [ "UpdateAI", "d7/d4e/a22340.html#aafcdcb353cdc6f19bebec63a31a0da6d", null ],
+    [ "events", "d7/d4e/a22340.html#a305f08c7ee071bfe10a4be81715b60f2", null ],
+    [ "lichGUID", "d7/d4e/a22340.html#a4cd410df9735a381800ec186572f2f74", null ],
+    [ "playerGUID", "d7/d4e/a22340.html#a396917f16afc3bd03ade6c6822bd379e", null ],
+    [ "summons", "d7/d4e/a22340.html#a8c2b70321771af8b668e5f76974f854b", null ]
 ];

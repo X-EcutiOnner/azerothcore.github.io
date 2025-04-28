@@ -1,8 +1,16 @@
 var a13196 =
 [
-    [ "FilterTargets", "da/d7b/a13196.html#ac7f7287b88cde82fbf8a625f002c86fa", null ],
-    [ "HandleAfterCast", "da/d7b/a13196.html#aa28714ce9ac251fe7c3bdec17b47deb3", null ],
-    [ "Load", "da/d7b/a13196.html#aecfa38940ea3dd287179bdef3d290487", null ],
-    [ "PrepareSpellScript", "da/d7b/a13196.html#a222e2c8e5401c132e89b29bbd22d46a6", null ],
-    [ "Register", "da/d7b/a13196.html#a1a3607dd7e3d56bde3b92cbf4bcd0e78", null ]
+    [ "boss_felmyst", "da/d7b/a13196.html#a96aa8f038e3f93aa7628ce3f28ef39ff", null ],
+    [ "InitializeAI", "da/d7b/a13196.html#af29021c428a9c7ffcea517d91b1d4b39", null ],
+    [ "JustDied", "da/d7b/a13196.html#a2269784b565f6a9d18bd9124cf4b8472", null ],
+    [ "JustEngagedWith", "da/d7b/a13196.html#a6fc19cd8b8c7891a912a50fcd673d96f", null ],
+    [ "KilledUnit", "da/d7b/a13196.html#a0233ebbcbb21d100425ac76223e839be", null ],
+    [ "MovementInform", "da/d7b/a13196.html#adf8cd17c20be6acbe381777e8c0efdba", null ],
+    [ "Reset", "da/d7b/a13196.html#ae5181c789809a859edb40488e206c0d3", null ],
+    [ "ScheduleGroundAbilities", "da/d7b/a13196.html#a2d77aab0f9c403e130f0513a0b3013ce", null ],
+    [ "SpellHitTarget", "da/d7b/a13196.html#a9b603cd704126cc6a6bbd65e2bb702e5", null ],
+    [ "StartIntro", "da/d7b/a13196.html#a55e6defd1bc7f8f1dfd2376cb4589356", null ],
+    [ "UpdateAI", "da/d7b/a13196.html#a0e429d8cf49946c0232b9c405c340356", null ],
+    [ "_currentLane", "da/d7b/a13196.html#a7b4230a28ad7d8136ae16ada9d471a39", null ],
+    [ "_strafeCount", "da/d7b/a13196.html#adc58c6e8aef0debe6689e42cebff5aa2", null ]
 ];

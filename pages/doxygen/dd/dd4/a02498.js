@@ -1,5 +1,6 @@
 var a02498 =
 [
-    [ "instance_commandscript", "d3/dfa/a11617.html", "d3/dfa/a11617" ],
-    [ "AddSC_instance_commandscript", "dd/dd4/a02498.html#a3d7dc88b6e95322f2f3dc69ad367fa0c", null ]
+    [ "instance_halls_of_lightning", "d6/d1e/a19456.html", "d6/d1e/a19456" ],
+    [ "instance_halls_of_lightning::instance_halls_of_lightning_InstanceMapScript", "d7/d09/a19460.html", "d7/d09/a19460" ],
+    [ "AddSC_instance_halls_of_lightning", "dd/dd4/a02498.html#acb5e7d848388449d05e307ed07fbcfc6", null ]
 ];

@@ -1,7 +1,7 @@
 var a17768 =
 [
-    [ "CheckRequirement", "d5/ded/a17768.html#a1568599758bdc757ae448ab5a77c1cc7", null ],
-    [ "CheckRequirementInternal", "d5/ded/a17768.html#ac2559b4a925fc0960a902fa2b306dc54", null ],
-    [ "PrepareSpellScript", "d5/ded/a17768.html#a0d6745dab09cdd228fc802e482c3d15c", null ],
-    [ "Register", "d5/ded/a17768.html#a95a250aeb3a41922c529f476d39f18e4", null ]
+    [ "HandleScript", "d5/ded/a17768.html#afc76149cb44a4d2aab48350fb4392036", null ],
+    [ "PrepareSpellScript", "d5/ded/a17768.html#a8598de219c2402596fe97b5dd32c534e", null ],
+    [ "Register", "d5/ded/a17768.html#ac9d4842632431e52932f66d09042ea70", null ],
+    [ "ScaleRange", "d5/ded/a17768.html#a9bcc80bd2a8df20ac7fc8f2256f519d9", null ]
 ];

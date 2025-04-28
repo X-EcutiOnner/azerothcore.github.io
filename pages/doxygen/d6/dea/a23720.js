@@ -1,6 +1,7 @@
 var a23720 =
 [
-    [ "FilterTargets", "d6/dea/a23720.html#a0b0a4e033a1410a5b0def33cf87c853c", null ],
-    [ "PrepareSpellScript", "d6/dea/a23720.html#afa186c0b0728e3462f8984189613f9a7", null ],
-    [ "Register", "d6/dea/a23720.html#a14aafc65b554c0ada5684c46ae1f57c8", null ]
+    [ "OnApply", "d6/dea/a23720.html#abab02b8307b762d070ba12358f59916d", null ],
+    [ "OnRemove", "d6/dea/a23720.html#a5ac45a5cfa17689d241c44241216ff38", null ],
+    [ "PrepareAuraScript", "d6/dea/a23720.html#a54f128745c3c35d7e52e9de7bb69a39a", null ],
+    [ "Register", "d6/dea/a23720.html#ae130b3cddbe0d9ce21d888e21472d64b", null ]
 ];

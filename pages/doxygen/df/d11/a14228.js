@@ -1,8 +1,11 @@
 var a14228 =
 [
-    [ "CalcPeriodic", "df/d11/a14228.html#ae2ce9c161a25385c6de1f4b7607c9935", null ],
-    [ "HandleEffectApply", "df/d11/a14228.html#a4321da69ee59416bd50e621b804e5423", null ],
-    [ "HandleEffectPeriodicUpdate", "df/d11/a14228.html#a3f23e4a8fecf83ba580c904f15e1e98b", null ],
-    [ "PrepareAuraScript", "df/d11/a14228.html#a956136be8cb484efc9af2429d8779a03", null ],
-    [ "Register", "df/d11/a14228.html#a1d4b1c43305b3133e4ac7f8b6ce70727", null ]
+    [ "o", "df/d11/a14228.html#af0a1551e7a1ced5413b6096ba15db8b2", null ],
+    [ "rot0", "df/d11/a14228.html#a1cc2b7787c803a4e126e06ab5b5c0ee6", null ],
+    [ "rot1", "df/d11/a14228.html#a71696fa3f95eb20d950b6ba2ada153f4", null ],
+    [ "rot2", "df/d11/a14228.html#ac2e4113330ebc9d9db379fb87eb55c03", null ],
+    [ "rot3", "df/d11/a14228.html#a3fc28475914b0ed4afe46fd4f4ff66b1", null ],
+    [ "x", "df/d11/a14228.html#a6e527854cf0959995d6b0133dedc94c9", null ],
+    [ "y", "df/d11/a14228.html#a7536047696bd4883237369976b503131", null ],
+    [ "z", "df/d11/a14228.html#a33ba4ca8ce5f406aaa5f571ba7236eb5", null ]
 ];

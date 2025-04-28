@@ -1,6 +1,10 @@
 var a26120 =
 [
-    [ "HandleFinish", "de/d77/a26120.html#a53263ce51581f36c2df80b49c93fa9d3", null ],
-    [ "PrepareSpellScript", "de/d77/a26120.html#a8113f61816473399f0ceab18b104d058", null ],
-    [ "Register", "de/d77/a26120.html#a36bf50cdb7be7ba03eafd4848c6ceced", null ]
+    [ "CheckProc", "de/d77/a26120.html#adce0da60782bcdadbb42ec1c73fddec1", null ],
+    [ "HandleProc", "de/d77/a26120.html#a82218c6f6319c60c26a7d4ec01b64bf9", null ],
+    [ "Load", "de/d77/a26120.html#ab9054a6d771022e4bf2b495c30ad8361", null ],
+    [ "PrepareAuraScript", "de/d77/a26120.html#ab8f483be4d01aa2460c90b043d7a441b", null ],
+    [ "Register", "de/d77/a26120.html#a4cb08499767ab58f0e525c382b662fbd", null ],
+    [ "Validate", "de/d77/a26120.html#aa6165f28706d49940dd1f62065631119", null ],
+    [ "_procTarget", "de/d77/a26120.html#a7b9426e18b454bf631992518c2bdbde0", null ]
 ];

@@ -1,6 +1,9 @@
 var a06152 =
 [
-    [ "GameObjectAIFactory", "d6/dc2/a06152.html#a2f658540a81d207694b6d2d783009380", null ],
-    [ "Create", "d6/dc2/a06152.html#a94fa057baafbbad4b81b97aea34354a3", null ],
-    [ "Permit", "d6/dc2/a06152.html#ae8b7e45a73f87249e27a4dae596b0d52", null ]
+    [ "AISpellInfoType", "d6/dc2/a06152.html#a3b6d2057522e7b79c87a16d4b9cced98", null ],
+    [ "condition", "d6/dc2/a06152.html#af357bcc7eaeaf88a107a6309c468d53d", null ],
+    [ "cooldown", "d6/dc2/a06152.html#a6ea49fdc98ece29ceee63352424e9366", null ],
+    [ "maxRange", "d6/dc2/a06152.html#ab421f918f3cb479d2d0390cd98cdeae3", null ],
+    [ "realCooldown", "d6/dc2/a06152.html#a3ee8081ca5749ef9b5991a5505104ee9", null ],
+    [ "target", "d6/dc2/a06152.html#a8f9c1d3fbbabc73f4b47ffe21e7a06c4", null ]
 ];

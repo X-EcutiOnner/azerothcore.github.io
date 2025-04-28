@@ -1,6 +1,6 @@
 var a18696 =
 [
-    [ "npc_icc_gauntlet_controllerAI", "df/d7a/a18700.html", "df/d7a/a18700" ],
-    [ "npc_icc_gauntlet_controller", "d5/d4e/a18696.html#a5fc4c941842e25bc3da93686e588627b", null ],
-    [ "GetAI", "d5/d4e/a18696.html#a4ed1a69fb537e7ce547a3a57253990c4", null ]
+    [ "npc_icc_skybreaker_luminaryAI", "df/d7a/a18700.html", "df/d7a/a18700" ],
+    [ "npc_icc_skybreaker_luminary", "d5/d4e/a18696.html#aff97d0425cf86a8b411ef3e2bd0cc054", null ],
+    [ "GetAI", "d5/d4e/a18696.html#ad1378aaa7438758f8a796d8e74ae0ce8", null ]
 ];

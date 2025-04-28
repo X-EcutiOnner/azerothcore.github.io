@@ -1,13 +1,8 @@
 var a14956 =
 [
-    [ "npc_giant_claw_tentacle", "d2/dc7/a14956.html#aa50511886122a337fc59585fba03b590", null ],
-    [ "Emerge", "d2/dc7/a14956.html#ad5fd7a9246c9c7aba0fa71d331e1f512", null ],
-    [ "JustDied", "d2/dc7/a14956.html#aaaed0a9fb39d30f5c9c7381e923a3d1e", null ],
-    [ "JustEngagedWith", "d2/dc7/a14956.html#ad4dceaafa3bb12b2e5cb7d9530c59d31", null ],
-    [ "Reset", "d2/dc7/a14956.html#a8da9c7e164bc7d7bc6e70a784420c3bc", null ],
-    [ "ScheduleTasks", "d2/dc7/a14956.html#af62d155ec2cf4f56c956869aed8fa1f9", null ],
-    [ "Submerge", "d2/dc7/a14956.html#ac4fedda976b2de295350363e9fef86ec", null ],
-    [ "UpdateAI", "d2/dc7/a14956.html#aa3cc1eac6fe92e4325ec0b5a4f7a2604", null ],
-    [ "_canAttack", "d2/dc7/a14956.html#a62be930ba345b1d2e0df832e72570752", null ],
-    [ "_portalGUID", "d2/dc7/a14956.html#a175bd11b9d5651d44cc0dd213b2c4ef5", null ]
+    [ "npc_obsidian_destroyer", "d2/dc7/a14956.html#abd8b1614a9da9fbe9c9898246b0822b8", null ],
+    [ "JustDied", "d2/dc7/a14956.html#adc54ac02383f5e5bf6af980f5ba301e8", null ],
+    [ "JustEngagedWith", "d2/dc7/a14956.html#aaf95dd2c92a5d1745311e4162aee8dbc", null ],
+    [ "Reset", "d2/dc7/a14956.html#a08c6b9ec0e2f4207d48f95eedf2c26ab", null ],
+    [ "UpdateAI", "d2/dc7/a14956.html#a79ba48d421a636f99ea65c0e34d084e1", null ]
 ];

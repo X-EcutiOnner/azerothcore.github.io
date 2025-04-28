@@ -1,8 +1,12 @@
 var a11144 =
 [
-    [ "target_mapId", "d8/d4f/a11144.html#a6dbbb558810388e0d051d84a0279a444", null ],
-    [ "target_Orientation", "d8/d4f/a11144.html#a7e30264eff9ece771dfaa421ef987b2a", null ],
-    [ "target_X", "d8/d4f/a11144.html#aa78b3d4cfb4277bcb1bf6a31ffc87546", null ],
-    [ "target_Y", "d8/d4f/a11144.html#a6f432d8770adebf513346713b7890b5c", null ],
-    [ "target_Z", "d8/d4f/a11144.html#a3af706b81f8fbef12277c518964f717a", null ]
+    [ "cooldown", "d8/d4f/a11144.html#a0cd88c27979ccc5284aa46846db32a7c", null ],
+    [ "customChance", "d8/d4f/a11144.html#adf6742b70f0b00abddf1da6f45da3d16", null ],
+    [ "ppmRate", "d8/d4f/a11144.html#a931b2df4a187482e32ef252c3320080a", null ],
+    [ "procEx", "d8/d4f/a11144.html#a911770f28fe36243593b12fe92d6fbec", null ],
+    [ "procFlags", "d8/d4f/a11144.html#af253ef32b9de49fe85d0fe6f06855a60", null ],
+    [ "procPhase", "d8/d4f/a11144.html#a179d83770a02e4ab13f809ed3943a399", null ],
+    [ "schoolMask", "d8/d4f/a11144.html#a9a6d38ee4e4a35066780ef924c63f92f", null ],
+    [ "spellFamilyMask", "d8/d4f/a11144.html#a2aa57bf419ab51129fe7240750ee8910", null ],
+    [ "spellFamilyName", "d8/d4f/a11144.html#a5ffa91b3f66ebb0ac34f30e1c532fb3a", null ]
 ];

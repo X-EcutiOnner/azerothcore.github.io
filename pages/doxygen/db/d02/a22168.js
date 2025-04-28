@@ -1,9 +1,6 @@
 var a22168 =
 [
-    [ "HandlePeriodic", "db/d02/a22168.html#a3d9ef90ec1ddebe2b2f3dd3a8b9eb25a", null ],
-    [ "Load", "db/d02/a22168.html#af5ed9dda3b2a2fd208fdc32de414c28a", null ],
-    [ "PrepareAuraScript", "db/d02/a22168.html#a1057e5262d413149a023bc904a3c3751", null ],
-    [ "Register", "db/d02/a22168.html#a47b9665b84742fd8cbb4e422d667b2ac", null ],
-    [ "Validate", "db/d02/a22168.html#a85d7ac258d50f690574ad7656256cd05", null ],
-    [ "_counter", "db/d02/a22168.html#a855bb93d5d9c5d8a9d06cfbb16d8d814", null ]
+    [ "npc_time_lost_proto_drakeAI", "d8/de2/a22172.html", "d8/de2/a22172" ],
+    [ "npc_time_lost_proto_drake", "db/d02/a22168.html#a6fda9f8b0d4e61e88e2a82d101d9c69e", null ],
+    [ "GetAI", "db/d02/a22168.html#a8b463fe7a85b0b1526c2f99ed7aeefa2", null ]
 ];

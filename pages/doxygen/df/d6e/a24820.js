@@ -1,6 +1,7 @@
 var a24820 =
 [
-    [ "HandleOnEffectHit", "df/d6e/a24820.html#a07b15e180ee79149cad15b32b3c94359", null ],
-    [ "PrepareSpellScript", "df/d6e/a24820.html#afbea54d2dad7a969d7e7558d43ecbc95", null ],
-    [ "Register", "df/d6e/a24820.html#ad2426cf9076d3fe4f33984ab28df11f6", null ]
+    [ "CheckProc", "df/d6e/a24820.html#ab376febda606dba5e9f7f5639f867859", null ],
+    [ "HandleProc", "df/d6e/a24820.html#aa8dac7f0a238f6f131553cbc7a142594", null ],
+    [ "PrepareAuraScript", "df/d6e/a24820.html#a7693a86824050ff5615996d0d03d0292", null ],
+    [ "Register", "df/d6e/a24820.html#a458745913288889f687bb19a147cb0fb", null ]
 ];

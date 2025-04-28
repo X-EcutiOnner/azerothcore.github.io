@@ -1,7 +1,8 @@
 var a17348 =
 [
-    [ "HandleScript", "d8/d36/a17348.html#a5fe0b684473bd5dd1ff9b12432ff3de8", null ],
-    [ "Load", "d8/d36/a17348.html#ab1d81386ae3ccd332c01864d7f456017", null ],
-    [ "PrepareSpellScript", "d8/d36/a17348.html#ae3ef753ff4c99aa8bed20ce3369a7e0f", null ],
-    [ "Register", "d8/d36/a17348.html#a7edb44f70501c2e760d29c8f78a4e087", null ]
+    [ "npc_saurfang_eventAI", "d8/d36/a17348.html#a8436a87576c92ecc0b45106683d20e93", null ],
+    [ "DoAction", "d8/d36/a17348.html#a45201c4a5b94fad948efe1d08e63e262", null ],
+    [ "SetData", "d8/d36/a17348.html#a7f012a54ebce5307940eb7957f028d52", null ],
+    [ "SpellHit", "d8/d36/a17348.html#a2ed920f949c4d8dbc6d6ff5b9149e749", null ],
+    [ "_index", "d8/d36/a17348.html#a793d72078bd68b34fcdb7cd6587295dd", null ]
 ];

@@ -1,4 +1,5 @@
 var a28008 =
 [
-    [ "ratio", "d4/ddb/a28008.html#ad5d1466406daa3696314ef2f6f18cd15", null ]
+    [ "Id", "d4/ddb/a28008.html#a79e4b857b811a044aed0ce33422df801", null ],
+    [ "quality_mod", "d4/ddb/a28008.html#a756e7b316cc365f15f24e5e4637303a6", null ]
 ];

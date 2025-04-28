@@ -1,7 +1,6 @@
 var a20092 =
 [
-    [ "HandleEffectPeriodic", "d8/d89/a20092.html#a428d1251465cc9947e7474eab83494e3", null ],
-    [ "PrepareAuraScript", "d8/d89/a20092.html#aa6bfb37f305531f67fa5fad67c83acb9", null ],
-    [ "Register", "d8/d89/a20092.html#a3ccee6d2c8ac244f5370d11b6a4492b6", null ],
-    [ "Validate", "d8/d89/a20092.html#a7d4ede9af946be71bbc5531164ed3f17", null ]
+    [ "npc_ulduar_flash_freezeAI", "d1/d75/a20096.html", "d1/d75/a20096" ],
+    [ "npc_ulduar_flash_freeze", "d8/d89/a20092.html#a0301ed1231d3b0d113e9fc9389e8f160", null ],
+    [ "GetAI", "d8/d89/a20092.html#a933f99c8d38ab98c8454919b6373bb41", null ]
 ];

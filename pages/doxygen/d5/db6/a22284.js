@@ -1,6 +1,7 @@
 var a22284 =
 [
-    [ "npc_drakuru_shacklesAI", "d5/dab/a22288.html", "d5/dab/a22288" ],
-    [ "npc_drakuru_shackles", "d5/db6/a22284.html#a2b15a214b34d86597cba09b17654e4ff", null ],
-    [ "GetAI", "d5/db6/a22284.html#a90ce98de4630771858cd3b79264a28f9", null ]
+    [ "HandleScript", "d5/db6/a22284.html#a26eb647b6c938df3aeff7981571dc475", null ],
+    [ "PrepareSpellScript", "d5/db6/a22284.html#a10114d8fa956aabff64aa0df7708f635", null ],
+    [ "Register", "d5/db6/a22284.html#a0c6c379f5dcbb417d94d8e6315aa49dd", null ],
+    [ "Validate", "d5/db6/a22284.html#adb477d34d8012c6fb45c5548fc49e127", null ]
 ];

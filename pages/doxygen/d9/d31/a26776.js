@@ -1,7 +1,7 @@
 var a26776 =
 [
-    [ "OnProc", "d9/d31/a26776.html#a7ab183d734c543be2866c57f1e5cc508", null ],
-    [ "PrepareAuraScript", "d9/d31/a26776.html#a31118cda9f29318f4620caf38c09522a", null ],
-    [ "Register", "d9/d31/a26776.html#ac27f99aafa92ae85a247c6f25ece8c7b", null ],
-    [ "Validate", "d9/d31/a26776.html#aa193bddd2ba9efe70343c5501d737fa4", null ]
+    [ "HandleProc", "d9/d31/a26776.html#a2a1d6c4a6fdcfbb0ab34769649dbe321", null ],
+    [ "PrepareAuraScript", "d9/d31/a26776.html#afa1f4cba7a02cb4a92a67c6e41d3349c", null ],
+    [ "Register", "d9/d31/a26776.html#ae3711d9dff0acd196b1fae8e2285fb2a", null ],
+    [ "Validate", "d9/d31/a26776.html#a77b31ab1d2952c5d77e8a1ca9cf18405", null ]
 ];

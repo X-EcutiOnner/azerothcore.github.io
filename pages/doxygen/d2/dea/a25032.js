@@ -1,7 +1,7 @@
 var a25032 =
 [
-    [ "HandleDummy", "d2/dea/a25032.html#a9037eddf4c9ce96c15c57e8906bd9a5f", null ],
-    [ "Load", "d2/dea/a25032.html#a738318535196b3d55e8f1b3da4f76c95", null ],
-    [ "PrepareSpellScript", "d2/dea/a25032.html#a941a097124ed9b4917faa18ff23fc366", null ],
-    [ "Register", "d2/dea/a25032.html#aaf9d269e7d052515f31b463999e92cf4", null ]
+    [ "HandleDummy", "d2/dea/a25032.html#a582208e608c9fdca7464b817c76c13b3", null ],
+    [ "PrepareSpellScript", "d2/dea/a25032.html#ac7abb7e01362a3333c0d73cd19dcee30", null ],
+    [ "Register", "d2/dea/a25032.html#a3882606b9e9201163cf76cb20b8e6364", null ],
+    [ "Validate", "d2/dea/a25032.html#a12a1cb4b6131d5959f6f541da5e8fc00", null ]
 ];

@@ -1,14 +1,19 @@
 var a15860 =
 [
-    [ "instance_obsidian_sanctum_InstanceMapScript", "da/d76/a15860.html#a17e64475b7433b3dc0d87028c11c9c7f", null ],
-    [ "CheckAchievementCriteriaMeet", "da/d76/a15860.html#a62a5603b9063b4cbb773eb177aa2d0bc", null ],
-    [ "DoAction", "da/d76/a15860.html#abc08b37f23721ff2ce7a6662605a66ab", null ],
-    [ "GetGuidData", "da/d76/a15860.html#a01da8216f57e19b5bf8697700089118c", null ],
-    [ "OnCreatureCreate", "da/d76/a15860.html#aa0fd6fae9a274e483765c0b5c1ff7ba3", null ],
-    [ "m_uiPortalGUID", "da/d76/a15860.html#a166db22fd409d0387085053852e5ad30", null ],
-    [ "m_uiSartharionGUID", "da/d76/a15860.html#a17b8e9a050eb6302258119c3b4f5f1bf", null ],
-    [ "m_uiShadronGUID", "da/d76/a15860.html#a5c6a46069a87340f9e8d5e4830b8a2ed", null ],
-    [ "m_uiTenebronGUID", "da/d76/a15860.html#afc7daf2b0eb18fa999ff3dae42fc4da2", null ],
-    [ "m_uiVesperonGUID", "da/d76/a15860.html#a7408fc1c0d61c7db01bdd4f517080139", null ],
-    [ "portalCount", "da/d76/a15860.html#ab7cec8a8a80713e436e4e4e80c5c1383", null ]
+    [ "boss_sartharion_dragonAI", "da/d76/a15860.html#afffee05f402a1960232c7920beb9beb9", null ],
+    [ "ClearInstance", "da/d76/a15860.html#a9e1fb29994441dd2d41aeb2c04205d7b", null ],
+    [ "DoAction", "da/d76/a15860.html#aeb49e63300a317f0e969159266fd8ea1", null ],
+    [ "HandleExtraEvent", "da/d76/a15860.html#a406b4d5957efb872de3bff5c8012de2a", null ],
+    [ "JustDied", "da/d76/a15860.html#a9c664ff661a3e83b98e1a28c81d662b0", null ],
+    [ "JustEngagedWith", "da/d76/a15860.html#a2988e9a5a8edd9aa807d8b13867fe6d7", null ],
+    [ "JustSummoned", "da/d76/a15860.html#a16582179f25ddc130f97bb70fe80316f", null ],
+    [ "KilledUnit", "da/d76/a15860.html#a09428ec63c8589a527accf8b024f6666", null ],
+    [ "MoveInLineOfSight", "da/d76/a15860.html#a75cd7f27019e4013adde104e7663e5bc", null ],
+    [ "MovementInform", "da/d76/a15860.html#a6870b91b1d36c79add8bd86a8e1fac4d", null ],
+    [ "RemoveTwilightPortal", "da/d76/a15860.html#a26aff742f99b04bfaf56fa46158ce306", null ],
+    [ "Reset", "da/d76/a15860.html#a86acfe30f898bd6b709c4743ae808867", null ],
+    [ "UpdateAI", "da/d76/a15860.html#a0e9382d8dce8251336d81539b7d82e15", null ],
+    [ "extraEvents", "da/d76/a15860.html#a0018fdf6e4567a74e5b16e4e09a00836", null ],
+    [ "isCalledBySartharion", "da/d76/a15860.html#a45a92a0754572b8d619fddbd1bdb234f", null ],
+    [ "portalGUID", "da/d76/a15860.html#a852ab0dabe5b6d8e6b0a53e6425ff085", null ]
 ];

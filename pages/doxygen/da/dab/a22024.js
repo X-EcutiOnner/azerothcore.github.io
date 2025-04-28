@@ -1,5 +1,6 @@
 var a22024 =
 [
-    [ "go_brazier", "da/dab/a22024.html#a432a07256fde679a889de7ba0f64f092", null ],
-    [ "OnGossipHello", "da/dab/a22024.html#a3e0be690d58be4d7bbbb5b624ac4bd5b", null ]
+    [ "npc_guardian_pavilionAI", "d6/d68/a22028.html", "d6/d68/a22028" ],
+    [ "npc_guardian_pavilion", "da/dab/a22024.html#aecc7e93f2b50351584049f031362e0f0", null ],
+    [ "GetAI", "da/dab/a22024.html#a89e55b3267cd93ae688573678851c7b9", null ]
 ];

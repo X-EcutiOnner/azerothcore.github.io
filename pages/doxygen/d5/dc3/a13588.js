@@ -1,7 +1,7 @@
 var a13588 =
 [
-    [ "boss_blight_wormAI", "d5/dc3/a13588.html#af267e395fbd539f871e498dc6745c610", null ],
-    [ "Reset", "d5/dc3/a13588.html#a96e27eaba5c9e422981d78123ed9c83d", null ],
-    [ "UpdateAI", "d5/dc3/a13588.html#ac8e4c5a7a251173a2afb369498c88a1d", null ],
-    [ "_events", "d5/dc3/a13588.html#a65f7fd4f73c727eeb5988d7ec77b94ce", null ]
+    [ "npc_lady_sylvanas_windrunnerAI", "d0/d1e/a13592.html", "d0/d1e/a13592" ],
+    [ "npc_lady_sylvanas_windrunner", "d5/dc3/a13588.html#ab3da21f58b68003f50cf0c3d5ce22028", null ],
+    [ "GetAI", "d5/dc3/a13588.html#abc382c04be0a8ed46299d1c4b2d008dc", null ],
+    [ "OnQuestReward", "d5/dc3/a13588.html#ae0031c5305a03a376dd84e950eb4a23b", null ]
 ];

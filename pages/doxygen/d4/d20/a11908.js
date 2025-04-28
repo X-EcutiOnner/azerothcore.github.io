@@ -1,7 +1,7 @@
 var a11908 =
 [
-    [ "boss_okthorAI", "d4/d20/a11908.html#a8007cfade5c04d8b4e0b787ac5a5beff", null ],
-    [ "JustEngagedWith", "d4/d20/a11908.html#a466a618e52f40e04e873dd50f3728755", null ],
-    [ "UpdateAI", "d4/d20/a11908.html#a246c3bd9aa96eb11d2fa48be8654d726", null ],
-    [ "nextArcaneExplosionTime", "d4/d20/a11908.html#a89d8cdd528775ee77caeac1d0465d4f2", null ]
+    [ "boss_magmusAI", "d4/d20/a11908.html#a8a3e5361bda492007013af9228899b8f", null ],
+    [ "JustEngagedWith", "d4/d20/a11908.html#a11e4868628564078997694373315a9d6", null ],
+    [ "Reset", "d4/d20/a11908.html#a5fe304cec86831b7e64f83caee1392d0", null ],
+    [ "UpdateAI", "d4/d20/a11908.html#aa8bb8282c794ea02fe7bd95b3d32e5ea", null ]
 ];

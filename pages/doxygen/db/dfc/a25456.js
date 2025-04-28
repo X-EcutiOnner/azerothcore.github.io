@@ -1,6 +1,6 @@
 var a25456 =
 [
-    [ "PrepareSpellScript", "db/dfc/a25456.html#a3a77016a3a8314969ce41cc6483761ec", null ],
-    [ "Register", "db/dfc/a25456.html#ae1fa8b9e4a11c884d10b1f4cc0afd09e", null ],
-    [ "SetDest", "db/dfc/a25456.html#a724217c09faa57ec2e6dad034e8709ed", null ]
+    [ "HandleHeal", "db/dfc/a25456.html#a3d315ab6d76d45f3d0f5de4a312377ff", null ],
+    [ "PrepareSpellScript", "db/dfc/a25456.html#ad77d816c82714fe2cafb4dbf48691937", null ],
+    [ "Register", "db/dfc/a25456.html#a313abe6367e5494bd81a557ab42f9f50", null ]
 ];

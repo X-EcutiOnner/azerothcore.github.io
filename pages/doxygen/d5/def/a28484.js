@@ -1,7 +1,5 @@
 var a28484 =
 [
-    [ "fcc", "d5/def/a28484.html#afbaa5fdd612d1c93f7f07aa299d144ad", null ],
-    [ "fcc_txt", "d5/def/a28484.html#a89ed22b0a63dae9f1443309e54e9e421", null ],
-    [ "size", "d5/def/a28484.html#a0b9002c302e4dfef6dc533bf8c5bcdcc", null ],
-    [ "ver", "d5/def/a28484.html#adb92d3e9f7e35255a2e6e147d51ba8fc", null ]
+    [ "Deep", "d5/def/a28484.html#a9efcd2f19d9701713666f1ad2285d992", null ],
+    [ "Fishable", "d5/def/a28484.html#a929299daf6bc46aa775b9b0fa055c9e2", null ]
 ];

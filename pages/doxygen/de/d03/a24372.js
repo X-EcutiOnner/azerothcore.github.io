@@ -1,6 +1,5 @@
 var a24372 =
 [
-    [ "PrepareSpellScript", "de/d03/a24372.html#a6c49fad4dc5d080b9a5550f8f30cae4d", null ],
-    [ "RecalculateDamage", "de/d03/a24372.html#ab6a781160532d7cbb3bb3304eb412514", null ],
-    [ "Register", "de/d03/a24372.html#a82395d00066e90abc58103b18a5ef4dc", null ]
+    [ "npc_pet_pri_lightwell", "de/d03/a24372.html#aebeb192e66c7d5b4201cbaa81d46703c", null ],
+    [ "InitializeAI", "de/d03/a24372.html#a5244bcfab27ccad603f80c6f2b2fcd3a", null ]
 ];

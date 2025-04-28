@@ -1,7 +1,7 @@
 var a17924 =
 [
-    [ "PeriodicTick", "de/d21/a17924.html#a79b63e30f37df8a961b57c4b10669800", null ],
-    [ "PrepareAuraScript", "de/d21/a17924.html#a091a72cf97d5fbd6ffbf95ad3e409aa6", null ],
-    [ "Register", "de/d21/a17924.html#a860e2bc444f5aeb78837cd1a6eff40a3", null ],
-    [ "Validate", "de/d21/a17924.html#a32cbe3a7eedf7b37229168a6154167b0", null ]
+    [ "IceTombSummonEvent", "de/d21/a17924.html#a2ead0e5f6eb0c32f5c11f38e667b65d3", null ],
+    [ "Execute", "de/d21/a17924.html#aa708b67e60ba0b4fe2334c43aaaca5c7", null ],
+    [ "_owner", "de/d21/a17924.html#a1b95617b511dfa7868c59dbdf7e6c4c7", null ],
+    [ "_sindragosaGUID", "de/d21/a17924.html#abe61867b29cd4fe3d02268f18b3618ee", null ]
 ];

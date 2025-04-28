@@ -1,7 +1,6 @@
 var a18564 =
 [
-    [ "Land", "d8/d26/a18564.html#ad2fd3d7c81e3ef22cb3767914f649fd0", null ],
-    [ "PrepareSpellScript", "d8/d26/a18564.html#a31e45adb87719c311fb5b94b2b744487", null ],
-    [ "Register", "d8/d26/a18564.html#a652eca6ec8079b2835d911807857c8a8", null ],
-    [ "RemoveAliveTarget", "d8/d26/a18564.html#abdb5f624b30a046eed9ca6ad7c347010", null ]
+    [ "npc_frostwing_vrykulAI", "d8/da7/a18568.html", "d8/da7/a18568" ],
+    [ "npc_frostwing_vrykul", "d8/d26/a18564.html#ab915aa094ddebd9201a1c626e6427409", null ],
+    [ "GetAI", "d8/d26/a18564.html#a11678e59b6db9a41c7b6a575339995fd", null ]
 ];

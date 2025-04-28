@@ -1,6 +1,6 @@
 var a20940 =
 [
-    [ "instance_utgarde_keep_InstanceMapScript", "d7/dc3/a20944.html", "d7/dc3/a20944" ],
-    [ "instance_utgarde_keep", "d5/d7d/a20940.html#abe013e4f086f63722a6398b2b7928c80", null ],
-    [ "GetInstanceScript", "d5/d7d/a20940.html#a9a42e0dde1c7598eb2ef665f11e25e92", null ]
+    [ "npc_ulduar_storm_tempered_keeperAI", "d7/dc3/a20944.html", "d7/dc3/a20944" ],
+    [ "npc_ulduar_storm_tempered_keeper", "d5/d7d/a20940.html#aaf2ef154cad4f2ba5796e410dabf02fc", null ],
+    [ "GetAI", "d5/d7d/a20940.html#aa0860236d2abedba1e521ee1610c89e8", null ]
 ];

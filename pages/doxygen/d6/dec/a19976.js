@@ -1,7 +1,6 @@
 var a19976 =
 [
-    [ "npc_ulduar_saronite_vaporsAI", "d6/dec/a19976.html#a8f811c588aeca2cd4a12d4d345907bd2", null ],
-    [ "IsSummonedBy", "d6/dec/a19976.html#a4692bb5c3ffadcfd133db665566c66e5", null ],
-    [ "JustDied", "d6/dec/a19976.html#a5be637500e7b5735d90e19fa40fde467", null ],
-    [ "pInstance", "d6/dec/a19976.html#a25cf8dd22f05566ae99b14a596039f5e", null ]
+    [ "boss_freya_lifebinderAI", "df/d0c/a19980.html", "df/d0c/a19980" ],
+    [ "boss_freya_lifebinder", "d6/dec/a19976.html#ad7a3bc09aacf35b4a6a39e65c966b824", null ],
+    [ "GetAI", "d6/dec/a19976.html#a978e4472a080f0fc53848abaa305cd77", null ]
 ];

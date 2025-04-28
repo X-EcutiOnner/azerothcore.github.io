@@ -1,21 +1,28 @@
 var a00833 =
 [
-    [ "Arena", "d0/d02/a07177.html", "d0/d02/a07177" ],
-    [ "ArenaBroadcastTexts", "dc/d6e/a00833.html#a407f2036481e3d9e2def3daa50546c71", [
-      [ "ARENA_TEXT_START_ONE_MINUTE", "dc/d6e/a00833.html#a407f2036481e3d9e2def3daa50546c71a12b484d249dd320cfc39bdf39279d854", null ],
-      [ "ARENA_TEXT_START_THIRTY_SECONDS", "dc/d6e/a00833.html#a407f2036481e3d9e2def3daa50546c71a49cdd0c5a035f182212d6fe53a1e2084", null ],
-      [ "ARENA_TEXT_START_FIFTEEN_SECONDS", "dc/d6e/a00833.html#a407f2036481e3d9e2def3daa50546c71a96636e959a178535f5d886c81ec6a8d9", null ],
-      [ "ARENA_TEXT_START_BATTLE_HAS_BEGUN", "dc/d6e/a00833.html#a407f2036481e3d9e2def3daa50546c71a60ff93f414424628c66faf8f424f1dcd", null ]
+    [ "OPvPCapturePointHP", "d1/dc0/a22432.html", "d1/dc0/a22432" ],
+    [ "OutdoorPvPHP", "d0/d66/a22436.html", "d0/d66/a22436" ],
+    [ "OutdoorPvPHPBuffZonesNum", "dc/d6e/a00833.html#a01aada98c8079ea71a361cba06e10640", null ],
+    [ "OutdoorPvPHPSpells", "dc/d6e/a00833.html#a09664100577cc20866b21589f3c1eb4a", [
+      [ "AlliancePlayerKillReward", "dc/d6e/a00833.html#a09664100577cc20866b21589f3c1eb4aad472ab0479934282573d2a2b142ecddc", null ],
+      [ "HordePlayerKillReward", "dc/d6e/a00833.html#a09664100577cc20866b21589f3c1eb4aa831169d26f4b6d47dc372629927d7e45", null ],
+      [ "AllianceBuff", "dc/d6e/a00833.html#a09664100577cc20866b21589f3c1eb4aa426e0e0ba254467f65dbcecd1cb3451a", null ],
+      [ "HordeBuff", "dc/d6e/a00833.html#a09664100577cc20866b21589f3c1eb4aab7ca0ff835377a499cd163afa9ddfaa2", null ]
     ] ],
-    [ "ArenaSpellIds", "dc/d6e/a00833.html#a05b7784b7a9a1ce8e6367f6f9bb875d9", [
-      [ "SPELL_ALLIANCE_GOLD_FLAG", "dc/d6e/a00833.html#a05b7784b7a9a1ce8e6367f6f9bb875d9a310e16f368a3a7d80eeecbaecd5c489c", null ],
-      [ "SPELL_ALLIANCE_GREEN_FLAG", "dc/d6e/a00833.html#a05b7784b7a9a1ce8e6367f6f9bb875d9aeae9474d707e5496dfdf0fd49871bb9f", null ],
-      [ "SPELL_HORDE_GOLD_FLAG", "dc/d6e/a00833.html#a05b7784b7a9a1ce8e6367f6f9bb875d9a83058f9219943bb8b4d4a3024d172af0", null ],
-      [ "SPELL_HORDE_GREEN_FLAG", "dc/d6e/a00833.html#a05b7784b7a9a1ce8e6367f6f9bb875d9ad76f572a30c966179ca9c2c2c26f4222", null ],
-      [ "SPELL_LAST_MAN_STANDING", "dc/d6e/a00833.html#a05b7784b7a9a1ce8e6367f6f9bb875d9a20018007a38c253b1c4d00d9b0b375bd", null ]
+    [ "OutdoorPvPHPTowerType", "dc/d6e/a00833.html#ad618152baad1f5a1d7f70f40941e8f33", [
+      [ "HP_TOWER_BROKEN_HILL", "dc/d6e/a00833.html#ad618152baad1f5a1d7f70f40941e8f33ac441f3412d9e7d328a88cb288f56bfd9", null ],
+      [ "HP_TOWER_OVERLOOK", "dc/d6e/a00833.html#ad618152baad1f5a1d7f70f40941e8f33a8c33cdd1da9aa64b4a329b18f6f54447", null ],
+      [ "HP_TOWER_STADIUM", "dc/d6e/a00833.html#ad618152baad1f5a1d7f70f40941e8f33a7fda380ac328f409fa311478cd32be84", null ],
+      [ "HP_TOWER_NUM", "dc/d6e/a00833.html#ad618152baad1f5a1d7f70f40941e8f33a83bc78133ae0c9793e647dad81a62355", null ]
     ] ],
-    [ "ArenaWorldStates", "dc/d6e/a00833.html#a4e26c0d0a6eb60865e57376951c14960", [
-      [ "ARENA_WORLD_STATE_ALIVE_PLAYERS_GREEN", "dc/d6e/a00833.html#a4e26c0d0a6eb60865e57376951c14960aea2da1b05ab1767fc34bf78021858c3a", null ],
-      [ "ARENA_WORLD_STATE_ALIVE_PLAYERS_GOLD", "dc/d6e/a00833.html#a4e26c0d0a6eb60865e57376951c14960afa467140e9e2c255b8d46937c40833a1", null ]
-    ] ]
+    [ "HP_CREDITMARKER", "dc/d6e/a00833.html#a3be5b978c2160f84a013071d76c121aa", null ],
+    [ "HP_MAP_A", "dc/d6e/a00833.html#ab540dae1c3c44e27c4441e9d56e10d1d", null ],
+    [ "HP_MAP_H", "dc/d6e/a00833.html#ab15c51d80dc177784041dedc55e39c56", null ],
+    [ "HP_MAP_N", "dc/d6e/a00833.html#a8a39817e7479fa79181e8c99bb83ca5c", null ],
+    [ "HP_TowerArtKit_A", "dc/d6e/a00833.html#ab9c6e470e4a4759ce2e77f88661521bb", null ],
+    [ "HP_TowerArtKit_H", "dc/d6e/a00833.html#a6791490624d9d1c2995c6a13659f8692", null ],
+    [ "HP_TowerArtKit_N", "dc/d6e/a00833.html#ae64775fc45fae501937d72c9d55c8dc1", null ],
+    [ "HPCapturePoints", "dc/d6e/a00833.html#a23f671f25a8a3e3db11f4a0953b34773", null ],
+    [ "HPTowerFlags", "dc/d6e/a00833.html#ae6571d986fbbf7b469cf495033f46516", null ],
+    [ "OutdoorPvPHPBuffZones", "dc/d6e/a00833.html#a876ea3aeffde8ab2532706d13ae6e2ce", null ]
 ];

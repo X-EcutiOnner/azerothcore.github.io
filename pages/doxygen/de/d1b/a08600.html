@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: SocialMgr Class Reference</title>
+<title>AzerothCore: PlayerTaxi Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,58 +106,74 @@ $(document).ready(function(){initNavTree('de/d1b/a08600.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="#pub-static-methods">Static Public Member Functions</a> &#124;
-<a href="#pri-types">Private Types</a> &#124;
-<a href="#pri-methods">Private Member Functions</a> &#124;
 <a href="#pri-attribs">Private Attributes</a> &#124;
+<a href="#friends">Friends</a> &#124;
 <a href="../../d6/d93/a08597.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">SocialMgr Class Reference</div></div>
+  <div class="headertitle"><div class="title">PlayerTaxi Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">SocialMgr.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">PlayerTaxi.h</a>&quot;</code></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a6b4968dc0a09a48c2b58e40d47da665d"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d1b/a08600.html#a6b4968dc0a09a48c2b58e40d47da665d">RemovePlayerSocial</a> (<a class="el" href="../../d5/d95/a08372.html">ObjectGuid</a> guid)</td></tr>
-<tr class="separator:a6b4968dc0a09a48c2b58e40d47da665d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9acd86505e66f2e6de9f8d30b36b94e6"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d1b/a08600.html#a9acd86505e66f2e6de9f8d30b36b94e6">MakeFriendStatusPacket</a> (<a class="el" href="../../d1/de4/a01481.html#a0e8e0c842aa4e8be9a854c430b3af9b6">FriendsResult</a> result, <a class="el" href="../../d5/d95/a08372.html">ObjectGuid</a> friend_guid, <a class="el" href="../../d0/d00/a10912.html">WorldPacket</a> *data)</td></tr>
-<tr class="separator:a9acd86505e66f2e6de9f8d30b36b94e6"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8824263f601c107ef84e487ca1b71bff"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d1b/a08600.html#a8824263f601c107ef84e487ca1b71bff">SendFriendStatus</a> (<a class="el" href="../../d2/d57/a08572.html">Player</a> *player, <a class="el" href="../../d1/de4/a01481.html#a0e8e0c842aa4e8be9a854c430b3af9b6">FriendsResult</a> result, <a class="el" href="../../d5/d95/a08372.html">ObjectGuid</a> friend_guid, bool broadcast)</td></tr>
-<tr class="separator:a8824263f601c107ef84e487ca1b71bff"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a55b35ea17ebfea4ff31710186b87865f"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d1b/a08600.html#a55b35ea17ebfea4ff31710186b87865f">BroadcastToFriendListers</a> (<a class="el" href="../../d2/d57/a08572.html">Player</a> *player, <a class="el" href="../../d0/d00/a10912.html">WorldPacket</a> *packet)</td></tr>
-<tr class="separator:a55b35ea17ebfea4ff31710186b87865f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6f10d7d75b0ddc5c2ec5c0e978f0e7b9"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../da/dd6/a08596.html">PlayerSocial</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d1b/a08600.html#a6f10d7d75b0ddc5c2ec5c0e978f0e7b9">LoadFromDB</a> (<a class="el" href="../../d1/d2b/a04652.html#ac6110b8d867b5f84f677555d07037acb">PreparedQueryResult</a> result, <a class="el" href="../../d5/d95/a08372.html">ObjectGuid</a> guid)</td></tr>
-<tr class="separator:a6f10d7d75b0ddc5c2ec5c0e978f0e7b9"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-methods" name="pub-static-methods"></a>
-Static Public Member Functions</h2></td></tr>
-<tr class="memitem:a223f3d7811d8c360da7f467b70af808f"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../de/d1b/a08600.html">SocialMgr</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d1b/a08600.html#a223f3d7811d8c360da7f467b70af808f">instance</a> ()</td></tr>
-<tr class="separator:a223f3d7811d8c360da7f467b70af808f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a24344515cc4e656b98afcf760181b070"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d1b/a08600.html#a24344515cc4e656b98afcf760181b070">GetFriendInfo</a> (<a class="el" href="../../d2/d57/a08572.html">Player</a> *player, <a class="el" href="../../d5/d95/a08372.html">ObjectGuid</a> friendGUID, <a class="el" href="../../da/d3d/a08592.html">FriendInfo</a> &amp;friendInfo)</td></tr>
-<tr class="separator:a24344515cc4e656b98afcf760181b070"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-types" name="pri-types"></a>
-Private Types</h2></td></tr>
-<tr class="memitem:a2b80fa18a6f1ed54fda7719867f45ebd"><td class="memItemLeft" align="right" valign="top">typedef std::map&lt; <a class="el" href="../../d5/d95/a08372.html">ObjectGuid</a>, <a class="el" href="../../da/dd6/a08596.html">PlayerSocial</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d1b/a08600.html#a2b80fa18a6f1ed54fda7719867f45ebd">SocialMap</a></td></tr>
-<tr class="separator:a2b80fa18a6f1ed54fda7719867f45ebd"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-methods" name="pri-methods"></a>
-Private Member Functions</h2></td></tr>
-<tr class="memitem:a3cff8262ce10d2e8c8c38dc834230545"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d1b/a08600.html#a3cff8262ce10d2e8c8c38dc834230545">SocialMgr</a> ()</td></tr>
-<tr class="separator:a3cff8262ce10d2e8c8c38dc834230545"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aef859e6c923a6ba4bb7ac0049f17463d"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d1b/a08600.html#aef859e6c923a6ba4bb7ac0049f17463d">~SocialMgr</a> ()</td></tr>
-<tr class="separator:aef859e6c923a6ba4bb7ac0049f17463d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a33cfc1b5bf7cc5eb253855967a532d8b"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d1b/a08600.html#a33cfc1b5bf7cc5eb253855967a532d8b">PlayerTaxi</a> ()</td></tr>
+<tr class="separator:a33cfc1b5bf7cc5eb253855967a532d8b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab8ba2e4cebd37f540e45d1f41cf46fb4"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d1b/a08600.html#ab8ba2e4cebd37f540e45d1f41cf46fb4">~PlayerTaxi</a> ()=default</td></tr>
+<tr class="separator:ab8ba2e4cebd37f540e45d1f41cf46fb4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae63c6941e0e8b7c0920cc1f255641e4d"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d1b/a08600.html#ae63c6941e0e8b7c0920cc1f255641e4d">InitTaxiNodesForLevel</a> (<a class="el" href="../../d5/db5/a00374.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> race, <a class="el" href="../../d5/db5/a00374.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> chrClass, <a class="el" href="../../d5/db5/a00374.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> level)</td></tr>
+<tr class="separator:ae63c6941e0e8b7c0920cc1f255641e4d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a010941cce9bf3b9c37d951c2ece4b3d4"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d1b/a08600.html#a010941cce9bf3b9c37d951c2ece4b3d4">LoadTaxiMask</a> (std::string_view data)</td></tr>
+<tr class="separator:a010941cce9bf3b9c37d951c2ece4b3d4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a76220474a42fc4207bb6f40b589a6511"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d1b/a08600.html#a76220474a42fc4207bb6f40b589a6511">IsTaximaskNodeKnown</a> (<a class="el" href="../../d5/db5/a00374.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> nodeidx) const</td></tr>
+<tr class="separator:a76220474a42fc4207bb6f40b589a6511"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a34a9653fbdc2b4a7c86a990fcc080e64"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d1b/a08600.html#a34a9653fbdc2b4a7c86a990fcc080e64">SetTaximaskNode</a> (<a class="el" href="../../d5/db5/a00374.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> nodeidx)</td></tr>
+<tr class="separator:a34a9653fbdc2b4a7c86a990fcc080e64"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab18bdbd8b7e04949d6d4b9adfabf8451"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d1b/a08600.html#ab18bdbd8b7e04949d6d4b9adfabf8451">AppendTaximaskTo</a> (<a class="el" href="../../d2/d20/a28380.html">ByteBuffer</a> &amp;data, bool all)</td></tr>
+<tr class="separator:ab18bdbd8b7e04949d6d4b9adfabf8451"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6261b2b052d1a8385a480372450c7191"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d1b/a08600.html#a6261b2b052d1a8385a480372450c7191">LoadTaxiDestinationsFromString</a> (std::string const &amp;values, <a class="el" href="../../d0/d9d/a04583.html#abfb349736a7699bdfcdb134035ef7865">TeamId</a> teamId)</td></tr>
+<tr class="separator:a6261b2b052d1a8385a480372450c7191"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0cffd730b09becde5f65882bc5c0832c"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d1b/a08600.html#a0cffd730b09becde5f65882bc5c0832c">SaveTaxiDestinationsToString</a> ()</td></tr>
+<tr class="separator:a0cffd730b09becde5f65882bc5c0832c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab4422be16e69b1f32bce002ab71ab5a5"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d1b/a08600.html#ab4422be16e69b1f32bce002ab71ab5a5">ClearTaxiDestinations</a> ()</td></tr>
+<tr class="separator:ab4422be16e69b1f32bce002ab71ab5a5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1ecef7f42bb7197ce7c6ca35c7010ec3"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d1b/a08600.html#a1ecef7f42bb7197ce7c6ca35c7010ec3">AddTaxiDestination</a> (<a class="el" href="../../d5/db5/a00374.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> dest)</td></tr>
+<tr class="separator:a1ecef7f42bb7197ce7c6ca35c7010ec3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4313e575d9bd2a60852f5e944f79ac71"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d5/db5/a00374.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d1b/a08600.html#a4313e575d9bd2a60852f5e944f79ac71">GetTaxiSource</a> () const</td></tr>
+<tr class="separator:a4313e575d9bd2a60852f5e944f79ac71"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa54293e7ea1125b0e7dd2a79f9a7e0a0"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d5/db5/a00374.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d1b/a08600.html#aa54293e7ea1125b0e7dd2a79f9a7e0a0">GetTaxiDestination</a> () const</td></tr>
+<tr class="separator:aa54293e7ea1125b0e7dd2a79f9a7e0a0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae4a6a1a97932c90ca79a282f131711e7"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d5/db5/a00374.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d1b/a08600.html#ae4a6a1a97932c90ca79a282f131711e7">GetCurrentTaxiPath</a> () const</td></tr>
+<tr class="separator:ae4a6a1a97932c90ca79a282f131711e7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa417f33d57d94db8c8aa9df56e329835"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d5/db5/a00374.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d1b/a08600.html#aa417f33d57d94db8c8aa9df56e329835">NextTaxiDestination</a> ()</td></tr>
+<tr class="separator:aa417f33d57d94db8c8aa9df56e329835"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a031051c85f1ce8fb8ab172c86bb4382b"><td class="memItemLeft" align="right" valign="top">std::deque&lt; <a class="el" href="../../d5/db5/a00374.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> &gt; const &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d1b/a08600.html#a031051c85f1ce8fb8ab172c86bb4382b">GetPath</a> () const</td></tr>
+<tr class="separator:a031051c85f1ce8fb8ab172c86bb4382b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a76919e4ba603f6a1b88a3c213767e09d"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d1b/a08600.html#a76919e4ba603f6a1b88a3c213767e09d">empty</a> () const</td></tr>
+<tr class="separator:a76919e4ba603f6a1b88a3c213767e09d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a487e2760da8446a3c34dddc2d4c5c0f5"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/d38/a28024.html">FactionTemplateEntry</a> const *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d1b/a08600.html#a487e2760da8446a3c34dddc2d4c5c0f5">GetFlightMasterFactionTemplate</a> () const</td></tr>
+<tr class="separator:a487e2760da8446a3c34dddc2d4c5c0f5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2be37f977bdf5dc787e1923b4d1ed12e"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d1b/a08600.html#a2be37f977bdf5dc787e1923b4d1ed12e">SetFlightMasterFactionTemplateId</a> (<a class="el" href="../../d5/db5/a00374.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> factionTemplateId)</td></tr>
+<tr class="separator:a2be37f977bdf5dc787e1923b4d1ed12e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
 Private Attributes</h2></td></tr>
-<tr class="memitem:a2f8a276598ad01d350aa245fcef82a7a"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d1b/a08600.html#a2b80fa18a6f1ed54fda7719867f45ebd">SocialMap</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d1b/a08600.html#a2f8a276598ad01d350aa245fcef82a7a">m_socialMap</a></td></tr>
-<tr class="separator:a2f8a276598ad01d350aa245fcef82a7a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abf0d776badac2d25cf823609d5fec799"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d22/a04619.html#a415cc3633225b2cfe241a12bce9aeb9b">TaxiMask</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d1b/a08600.html#abf0d776badac2d25cf823609d5fec799">m_taximask</a></td></tr>
+<tr class="separator:abf0d776badac2d25cf823609d5fec799"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3aff323ba6dfee2f8776efb49e3ebfbf"><td class="memItemLeft" align="right" valign="top">std::deque&lt; <a class="el" href="../../d5/db5/a00374.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d1b/a08600.html#a3aff323ba6dfee2f8776efb49e3ebfbf">m_TaxiDestinations</a></td></tr>
+<tr class="separator:a3aff323ba6dfee2f8776efb49e3ebfbf"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a52ed114d167bcc8079fe37c410b25b31"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d5/db5/a00374.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d1b/a08600.html#a52ed114d167bcc8079fe37c410b25b31">m_flightMasterFactionId</a></td></tr>
+<tr class="separator:a52ed114d167bcc8079fe37c410b25b31"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="friends" name="friends"></a>
+Friends</h2></td></tr>
+<tr class="memitem:aa8a947319a6f00895a3c443f5cb258ad"><td class="memItemLeft" align="right" valign="top">std::ostringstream &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d1b/a08600.html#aa8a947319a6f00895a3c443f5cb258ad">operator&lt;&lt;</a> (std::ostringstream &amp;ss, <a class="el" href="../../de/d1b/a08600.html">PlayerTaxi</a> const &amp;taxi)</td></tr>
+<tr class="separator:aa8a947319a6f00895a3c443f5cb258ad"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Member Typedef Documentation</h2>
-<a id="a2b80fa18a6f1ed54fda7719867f45ebd" name="a2b80fa18a6f1ed54fda7719867f45ebd"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a2b80fa18a6f1ed54fda7719867f45ebd">&#9670;&#160;</a></span>SocialMap</h2>
+<div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a id="a33cfc1b5bf7cc5eb253855967a532d8b" name="a33cfc1b5bf7cc5eb253855967a532d8b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a33cfc1b5bf7cc5eb253855967a532d8b">&#9670;&#160;</a></span>PlayerTaxi()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -166,393 +182,9 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">typedef std::map&lt;<a class="el" href="../../d5/d95/a08372.html">ObjectGuid</a>, <a class="el" href="../../da/dd6/a08596.html">PlayerSocial</a>&gt; <a class="el" href="../../de/d1b/a08600.html#a2b80fa18a6f1ed54fda7719867f45ebd">SocialMgr::SocialMap</a></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="a3cff8262ce10d2e8c8c38dc834230545" name="a3cff8262ce10d2e8c8c38dc834230545"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a3cff8262ce10d2e8c8c38dc834230545">&#9670;&#160;</a></span>SocialMgr()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">SocialMgr::SocialMgr </td>
+          <td class="memname">PlayerTaxi::PlayerTaxi </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  199</span>{</div>
-<div class="line"><span class="lineno">  200</span>}</div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="aef859e6c923a6ba4bb7ac0049f17463d" name="aef859e6c923a6ba4bb7ac0049f17463d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aef859e6c923a6ba4bb7ac0049f17463d">&#9670;&#160;</a></span>~SocialMgr()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">SocialMgr::~SocialMgr </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  203</span>{</div>
-<div class="line"><span class="lineno">  204</span>}</div>
-</div><!-- fragment -->
-</div>
-</div>
-<h2 class="groupheader">Member Function Documentation</h2>
-<a id="a55b35ea17ebfea4ff31710186b87865f" name="a55b35ea17ebfea4ff31710186b87865f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a55b35ea17ebfea4ff31710186b87865f">&#9670;&#160;</a></span>BroadcastToFriendListers()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void SocialMgr::BroadcastToFriendListers </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d2/d57/a08572.html">Player</a> *&#160;</td>
-          <td class="paramname"><em>player</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d0/d00/a10912.html">WorldPacket</a> *&#160;</td>
-          <td class="paramname"><em>packet</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  295</span>{</div>
-<div class="line"><span class="lineno">  296</span>    <span class="keywordflow">if</span> (!player)</div>
-<div class="line"><span class="lineno">  297</span>        <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  298</span> </div>
-<div class="line"><span class="lineno">  299</span>    <a class="code hl_enumeration" href="../../d2/d35/a02480.html#abfb349736a7699bdfcdb134035ef7865">TeamId</a> teamId = player-&gt;<a class="code hl_function" href="../../d2/d57/a08572.html#a4874f5c152e187c381c2a349f16aa0d4">GetTeamId</a>();</div>
-<div class="line"><span class="lineno">  300</span>    <a class="code hl_enumeration" href="../../d9/d24/a00524.html#adaa1cabfe05f8df3c272bdcfd89cdac7">AccountTypes</a> security = player-&gt;<a class="code hl_function" href="../../d2/d57/a08572.html#a6ab11ca64cde7c5cde1f53998a6f7253">GetSession</a>()-&gt;<a class="code hl_function" href="../../d8/dcb/a10956.html#a38f29ba7dc5216093dd812cf3e7861df">GetSecurity</a>();</div>
-<div class="line"><span class="lineno">  301</span>    <span class="keywordtype">bool</span> allowTwoSideWhoList = <a class="code hl_define" href="../../de/d2c/a04741.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>-&gt;getBoolConfig(<a class="code hl_enumvalue" href="../../dd/dc3/a02249.html#a1b4b88c03b7d0124998b4c22e957baf0a2739cecedf60b3a758669b71950cab76">CONFIG_ALLOW_TWO_SIDE_WHO_LIST</a>);</div>
-<div class="line"><span class="lineno">  302</span>    <a class="code hl_enumeration" href="../../d9/d24/a00524.html#adaa1cabfe05f8df3c272bdcfd89cdac7">AccountTypes</a> gmLevelInWhoList = <a class="code hl_enumeration" href="../../d9/d24/a00524.html#adaa1cabfe05f8df3c272bdcfd89cdac7">AccountTypes</a>(<a class="code hl_define" href="../../de/d2c/a04741.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>-&gt;getIntConfig(<a class="code hl_enumvalue" href="../../dd/dc3/a02249.html#a17aac4c166ebe43e3b8fdccf9e012e41acda928b24f31ffa5a03deaae20f0bbca">CONFIG_GM_LEVEL_IN_WHO_LIST</a>));</div>
-<div class="line"><span class="lineno">  303</span> </div>
-<div class="line"><span class="lineno">  304</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; itr : <a class="code hl_variable" href="../../de/d1b/a08600.html#a2f8a276598ad01d350aa245fcef82a7a">m_socialMap</a>)</div>
-<div class="line"><span class="lineno">  305</span>    {</div>
-<div class="line"><span class="lineno">  306</span>        <span class="keyword">auto</span> <span class="keyword">const</span>&amp; itr2 = itr.second.m_playerSocialMap.find(player-&gt;<a class="code hl_function" href="../../d7/d07/a08324.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>());</div>
-<div class="line"><span class="lineno">  307</span>        <span class="keywordflow">if</span> (itr2 != itr.second.m_playerSocialMap.end() &amp;&amp; (itr2-&gt;second.Flags &amp; <a class="code hl_enumvalue" href="../../d1/de4/a01481.html#ad0ac931a69e6d8885728cb1fca06fc6ea88e902cf380604f7dde5102ae54cfb63">SOCIAL_FLAG_FRIEND</a>))</div>
-<div class="line"><span class="lineno">  308</span>        {</div>
-<div class="line"><span class="lineno">  309</span>            <a class="code hl_class" href="../../d2/d57/a08572.html">Player</a>* pFriend = <a class="code hl_function" href="../../de/d4c/a04794.html#a9ede56180a13f102ad195136eadb97ee">ObjectAccessor::FindPlayer</a>(itr.first);</div>
-<div class="line"><span class="lineno">  310</span> </div>
-<div class="line"><span class="lineno">  311</span>            <span class="comment">// PLAYER see his team only and PLAYER can&#39;t see MODERATOR, GAME MASTER, ADMINISTRATOR characters</span></div>
-<div class="line"><span class="lineno">  312</span>            <span class="comment">// MODERATOR, GAME MASTER, ADMINISTRATOR can see all</span></div>
-<div class="line"><span class="lineno">  313</span>            <span class="keywordflow">if</span> (pFriend &amp;&amp; (!<a class="code hl_function" href="../../d1/d03/a04778.html#a63751f144cb7acb57fc20f0caf5e7043">AccountMgr::IsPlayerAccount</a>(pFriend-&gt;<a class="code hl_function" href="../../d2/d57/a08572.html#a6ab11ca64cde7c5cde1f53998a6f7253">GetSession</a>()-&gt;<a class="code hl_function" href="../../d8/dcb/a10956.html#a38f29ba7dc5216093dd812cf3e7861df">GetSecurity</a>()) || ((pFriend-&gt;<a class="code hl_function" href="../../d2/d57/a08572.html#a4874f5c152e187c381c2a349f16aa0d4">GetTeamId</a>() == teamId || allowTwoSideWhoList) &amp;&amp; security &lt;= gmLevelInWhoList)) &amp;&amp; player-&gt;<a class="code hl_function" href="../../d2/d57/a08572.html#aa88ab08ee98b707c9db24ec8642379f7">IsVisibleGloballyFor</a>(pFriend))</div>
-<div class="line"><span class="lineno">  314</span>                pFriend-&gt;<a class="code hl_function" href="../../d2/d57/a08572.html#a6ab11ca64cde7c5cde1f53998a6f7253">GetSession</a>()-&gt;<a class="code hl_function" href="../../d8/dcb/a10956.html#a2c74b80ca9b81765049e315813b29269">SendPacket</a>(packet);</div>
-<div class="line"><span class="lineno">  315</span>        }</div>
-<div class="line"><span class="lineno">  316</span>    }</div>
-<div class="line"><span class="lineno">  317</span>}</div>
-<div class="ttc" id="aa00524_html_adaa1cabfe05f8df3c272bdcfd89cdac7"><div class="ttname"><a href="../../d9/d24/a00524.html#adaa1cabfe05f8df3c272bdcfd89cdac7">AccountTypes</a></div><div class="ttdeci">AccountTypes</div><div class="ttdef"><b>Definition:</b> Common.h:56</div></div>
-<div class="ttc" id="aa01481_html_ad0ac931a69e6d8885728cb1fca06fc6ea88e902cf380604f7dde5102ae54cfb63"><div class="ttname"><a href="../../d1/de4/a01481.html#ad0ac931a69e6d8885728cb1fca06fc6ea88e902cf380604f7dde5102ae54cfb63">SOCIAL_FLAG_FRIEND</a></div><div class="ttdeci">@ SOCIAL_FLAG_FRIEND</div><div class="ttdef"><b>Definition:</b> SocialMgr.h:39</div></div>
-<div class="ttc" id="aa02249_html_a17aac4c166ebe43e3b8fdccf9e012e41acda928b24f31ffa5a03deaae20f0bbca"><div class="ttname"><a href="../../dd/dc3/a02249.html#a17aac4c166ebe43e3b8fdccf9e012e41acda928b24f31ffa5a03deaae20f0bbca">CONFIG_GM_LEVEL_IN_WHO_LIST</a></div><div class="ttdeci">@ CONFIG_GM_LEVEL_IN_WHO_LIST</div><div class="ttdef"><b>Definition:</b> IWorld.h:259</div></div>
-<div class="ttc" id="aa02249_html_a1b4b88c03b7d0124998b4c22e957baf0a2739cecedf60b3a758669b71950cab76"><div class="ttname"><a href="../../dd/dc3/a02249.html#a1b4b88c03b7d0124998b4c22e957baf0a2739cecedf60b3a758669b71950cab76">CONFIG_ALLOW_TWO_SIDE_WHO_LIST</a></div><div class="ttdeci">@ CONFIG_ALLOW_TWO_SIDE_WHO_LIST</div><div class="ttdef"><b>Definition:</b> IWorld.h:78</div></div>
-<div class="ttc" id="aa02480_html_abfb349736a7699bdfcdb134035ef7865"><div class="ttname"><a href="../../d2/d35/a02480.html#abfb349736a7699bdfcdb134035ef7865">TeamId</a></div><div class="ttdeci">TeamId</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:759</div></div>
-<div class="ttc" id="aa04741_html_ga05dfb35c344e5b947a19e4284e7f5fa7"><div class="ttname"><a href="../../de/d2c/a04741.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a></div><div class="ttdeci">#define sWorld</div><div class="ttdef"><b>Definition:</b> World.h:375</div></div>
-<div class="ttc" id="aa04778_html_a63751f144cb7acb57fc20f0caf5e7043"><div class="ttname"><a href="../../d1/d03/a04778.html#a63751f144cb7acb57fc20f0caf5e7043">AccountMgr::IsPlayerAccount</a></div><div class="ttdeci">bool IsPlayerAccount(uint32 gmlevel)</div><div class="ttdef"><b>Definition:</b> AccountMgr.cpp:305</div></div>
-<div class="ttc" id="aa04794_html_a9ede56180a13f102ad195136eadb97ee"><div class="ttname"><a href="../../de/d4c/a04794.html#a9ede56180a13f102ad195136eadb97ee">ObjectAccessor::FindPlayer</a></div><div class="ttdeci">Player * FindPlayer(ObjectGuid const guid)</div><div class="ttdef"><b>Definition:</b> ObjectAccessor.cpp:245</div></div>
-<div class="ttc" id="aa08324_html_ad23b997e2442fa6a6228ba73a7ecc138"><div class="ttname"><a href="../../d7/d07/a08324.html#ad23b997e2442fa6a6228ba73a7ecc138">Object::GetGUID</a></div><div class="ttdeci">static ObjectGuid GetGUID(Object const *o)</div><div class="ttdef"><b>Definition:</b> Object.h:112</div></div>
-<div class="ttc" id="aa08572_html"><div class="ttname"><a href="../../d2/d57/a08572.html">Player</a></div><div class="ttdef"><b>Definition:</b> Player.h:1081</div></div>
-<div class="ttc" id="aa08572_html_a4874f5c152e187c381c2a349f16aa0d4"><div class="ttname"><a href="../../d2/d57/a08572.html#a4874f5c152e187c381c2a349f16aa0d4">Player::GetTeamId</a></div><div class="ttdeci">TeamId GetTeamId(bool original=false) const</div><div class="ttdef"><b>Definition:</b> Player.h:2116</div></div>
-<div class="ttc" id="aa08572_html_a6ab11ca64cde7c5cde1f53998a6f7253"><div class="ttname"><a href="../../d2/d57/a08572.html#a6ab11ca64cde7c5cde1f53998a6f7253">Player::GetSession</a></div><div class="ttdeci">WorldSession * GetSession() const</div><div class="ttdef"><b>Definition:</b> Player.h:2005</div></div>
-<div class="ttc" id="aa08572_html_aa88ab08ee98b707c9db24ec8642379f7"><div class="ttname"><a href="../../d2/d57/a08572.html#aa88ab08ee98b707c9db24ec8642379f7">Player::IsVisibleGloballyFor</a></div><div class="ttdeci">bool IsVisibleGloballyFor(Player const *player) const</div><div class="ttdef"><b>Definition:</b> Player.cpp:11544</div></div>
-<div class="ttc" id="aa08600_html_a2f8a276598ad01d350aa245fcef82a7a"><div class="ttname"><a href="../../de/d1b/a08600.html#a2f8a276598ad01d350aa245fcef82a7a">SocialMgr::m_socialMap</a></div><div class="ttdeci">SocialMap m_socialMap</div><div class="ttdef"><b>Definition:</b> SocialMgr.h:144</div></div>
-<div class="ttc" id="aa10956_html_a2c74b80ca9b81765049e315813b29269"><div class="ttname"><a href="../../d8/dcb/a10956.html#a2c74b80ca9b81765049e315813b29269">WorldSession::SendPacket</a></div><div class="ttdeci">void SendPacket(WorldPacket const *packet)</div><div class="ttdoc">Send a packet to the client.</div><div class="ttdef"><b>Definition:</b> WorldSession.cpp:226</div></div>
-<div class="ttc" id="aa10956_html_a38f29ba7dc5216093dd812cf3e7861df"><div class="ttname"><a href="../../d8/dcb/a10956.html#a38f29ba7dc5216093dd812cf3e7861df">WorldSession::GetSecurity</a></div><div class="ttdeci">AccountTypes GetSecurity() const</div><div class="ttdef"><b>Definition:</b> WorldSession.h:373</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00078">CONFIG_ALLOW_TWO_SIDE_WHO_LIST</a>, <a class="el" href="../../#l00259">CONFIG_GM_LEVEL_IN_WHO_LIST</a>, <a class="el" href="../../#l00245">ObjectAccessor::FindPlayer()</a>, <a class="el" href="../../#l00112">Object::GetGUID()</a>, <a class="el" href="../../#l00373">WorldSession::GetSecurity()</a>, <a class="el" href="../../#l02005">Player::GetSession()</a>, <a class="el" href="../../#l02116">Player::GetTeamId()</a>, <a class="el" href="../../#l00305">AccountMgr::IsPlayerAccount()</a>, <a class="el" href="../../#l11544">Player::IsVisibleGloballyFor()</a>, <a class="el" href="../../#l00144">m_socialMap</a>, <a class="el" href="../../#l00226">WorldSession::SendPacket()</a>, <a class="el" href="../../#l00039">SOCIAL_FLAG_FRIEND</a>, and <a class="el" href="../../#l00375">sWorld</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00257">SendFriendStatus()</a>.</p>
-
-</div>
-</div>
-<a id="a24344515cc4e656b98afcf760181b070" name="a24344515cc4e656b98afcf760181b070"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a24344515cc4e656b98afcf760181b070">&#9670;&#160;</a></span>GetFriendInfo()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">void SocialMgr::GetFriendInfo </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d2/d57/a08572.html">Player</a> *&#160;</td>
-          <td class="paramname"><em>player</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d5/d95/a08372.html">ObjectGuid</a>&#160;</td>
-          <td class="paramname"><em>friendGUID</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../da/d3d/a08592.html">FriendInfo</a> &amp;&#160;</td>
-          <td class="paramname"><em>friendInfo</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  213</span>{</div>
-<div class="line"><span class="lineno">  214</span>    <span class="keywordflow">if</span> (!player)</div>
-<div class="line"><span class="lineno">  215</span>        <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  216</span> </div>
-<div class="line"><span class="lineno">  217</span>    friendInfo.<a class="code hl_variable" href="../../da/d3d/a08592.html#a380f11d65b34e1e598b7861987cecfe6">Status</a> = <a class="code hl_enumvalue" href="../../d1/de4/a01481.html#a55ec778c8e53f4a36f26e03a8f130104ab799ab9b3c4a9ce9cac3a328d9d864da">FRIEND_STATUS_OFFLINE</a>;</div>
-<div class="line"><span class="lineno">  218</span>    friendInfo.<a class="code hl_variable" href="../../da/d3d/a08592.html#adf16884b55545ed9302dbb54d653867b">Area</a> = 0;</div>
-<div class="line"><span class="lineno">  219</span>    friendInfo.<a class="code hl_variable" href="../../da/d3d/a08592.html#a70d9a74f4587f648db5bf49b61091213">Level</a> = 0;</div>
-<div class="line"><span class="lineno">  220</span>    friendInfo.<a class="code hl_variable" href="../../da/d3d/a08592.html#a8b797fcfda05d52d4297f32e458be519">Class</a> = 0;</div>
-<div class="line"><span class="lineno">  221</span> </div>
-<div class="line"><span class="lineno">  222</span>    <a class="code hl_class" href="../../d2/d57/a08572.html">Player</a>* pFriend = <a class="code hl_function" href="../../de/d4c/a04794.html#a354f7e7aaf4b12d6ad8fe8ef6291eaa0">ObjectAccessor::FindConnectedPlayer</a>(friendGUID);</div>
-<div class="line"><span class="lineno">  223</span>    <span class="keywordflow">if</span> (!pFriend || pFriend-&gt;<a class="code hl_function" href="../../d2/d57/a08572.html#a6ab11ca64cde7c5cde1f53998a6f7253">GetSession</a>()-&gt;<a class="code hl_function" href="../../d8/dcb/a10956.html#a5f0e0c87ce30591b6fc4e9c711fcedd4">IsGMAccount</a>())</div>
-<div class="line"><span class="lineno">  224</span>        <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  225</span> </div>
-<div class="line"><span class="lineno">  226</span>    <a class="code hl_enumeration" href="../../d2/d35/a02480.html#abfb349736a7699bdfcdb134035ef7865">TeamId</a> teamId = player-&gt;<a class="code hl_function" href="../../d2/d57/a08572.html#a4874f5c152e187c381c2a349f16aa0d4">GetTeamId</a>();</div>
-<div class="line"><span class="lineno">  227</span>    <a class="code hl_enumeration" href="../../d9/d24/a00524.html#adaa1cabfe05f8df3c272bdcfd89cdac7">AccountTypes</a> security = player-&gt;<a class="code hl_function" href="../../d2/d57/a08572.html#a6ab11ca64cde7c5cde1f53998a6f7253">GetSession</a>()-&gt;<a class="code hl_function" href="../../d8/dcb/a10956.html#a38f29ba7dc5216093dd812cf3e7861df">GetSecurity</a>();</div>
-<div class="line"><span class="lineno">  228</span>    <span class="keywordtype">bool</span> allowTwoSideWhoList = <a class="code hl_define" href="../../de/d2c/a04741.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>-&gt;getBoolConfig(<a class="code hl_enumvalue" href="../../dd/dc3/a02249.html#a1b4b88c03b7d0124998b4c22e957baf0a2739cecedf60b3a758669b71950cab76">CONFIG_ALLOW_TWO_SIDE_WHO_LIST</a>);</div>
-<div class="line"><span class="lineno">  229</span>    <a class="code hl_enumeration" href="../../d9/d24/a00524.html#adaa1cabfe05f8df3c272bdcfd89cdac7">AccountTypes</a> gmLevelInWhoList = <a class="code hl_enumeration" href="../../d9/d24/a00524.html#adaa1cabfe05f8df3c272bdcfd89cdac7">AccountTypes</a>(<a class="code hl_define" href="../../de/d2c/a04741.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>-&gt;getIntConfig(<a class="code hl_enumvalue" href="../../dd/dc3/a02249.html#a17aac4c166ebe43e3b8fdccf9e012e41acda928b24f31ffa5a03deaae20f0bbca">CONFIG_GM_LEVEL_IN_WHO_LIST</a>));</div>
-<div class="line"><span class="lineno">  230</span> </div>
-<div class="line"><span class="lineno">  231</span>    <span class="keyword">auto</span> <span class="keyword">const</span>&amp; itr = player-&gt;<a class="code hl_function" href="../../d2/d57/a08572.html#ac0a2e3d06c31e2d9286edca3ffcaf74d">GetSocial</a>()-&gt;<a class="code hl_variable" href="../../da/dd6/a08596.html#a608444605a276e67a868b7ceac94a954">m_playerSocialMap</a>.find(friendGUID);</div>
-<div class="line"><span class="lineno">  232</span>    <span class="keywordflow">if</span> (itr != player-&gt;<a class="code hl_function" href="../../d2/d57/a08572.html#ac0a2e3d06c31e2d9286edca3ffcaf74d">GetSocial</a>()-&gt;<a class="code hl_variable" href="../../da/dd6/a08596.html#a608444605a276e67a868b7ceac94a954">m_playerSocialMap</a>.end())</div>
-<div class="line"><span class="lineno">  233</span>        friendInfo.<a class="code hl_variable" href="../../da/d3d/a08592.html#aa9aea70eba08de460ff9cc5c622ca75f">Note</a> = itr-&gt;second.Note;</div>
-<div class="line"><span class="lineno">  234</span> </div>
-<div class="line"><span class="lineno">  235</span>    <span class="comment">// PLAYER see his team only and PLAYER can&#39;t see MODERATOR, GAME MASTER, ADMINISTRATOR characters</span></div>
-<div class="line"><span class="lineno">  236</span>    <span class="comment">// MODERATOR, GAME MASTER, ADMINISTRATOR can see all</span></div>
-<div class="line"><span class="lineno">  237</span>    <span class="keywordflow">if</span> ((!<a class="code hl_function" href="../../d1/d03/a04778.html#a63751f144cb7acb57fc20f0caf5e7043">AccountMgr::IsPlayerAccount</a>(security) || ((pFriend-&gt;<a class="code hl_function" href="../../d2/d57/a08572.html#a4874f5c152e187c381c2a349f16aa0d4">GetTeamId</a>() == teamId || allowTwoSideWhoList) &amp;&amp; pFriend-&gt;<a class="code hl_function" href="../../d2/d57/a08572.html#a6ab11ca64cde7c5cde1f53998a6f7253">GetSession</a>()-&gt;<a class="code hl_function" href="../../d8/dcb/a10956.html#a38f29ba7dc5216093dd812cf3e7861df">GetSecurity</a>() &lt;= gmLevelInWhoList)) &amp;&amp; pFriend-&gt;<a class="code hl_function" href="../../d2/d57/a08572.html#aa88ab08ee98b707c9db24ec8642379f7">IsVisibleGloballyFor</a>(player))</div>
-<div class="line"><span class="lineno">  238</span>    {</div>
-<div class="line"><span class="lineno">  239</span>        friendInfo.<a class="code hl_variable" href="../../da/d3d/a08592.html#a380f11d65b34e1e598b7861987cecfe6">Status</a> = <a class="code hl_enumvalue" href="../../d1/de4/a01481.html#a55ec778c8e53f4a36f26e03a8f130104af68a6671b04623c1cef7abcf00bbea31">FRIEND_STATUS_ONLINE</a>;</div>
-<div class="line"><span class="lineno">  240</span>        <span class="keywordflow">if</span> (pFriend-&gt;<a class="code hl_function" href="../../d2/d57/a08572.html#ad372accc95ab6fb468c784bad6acee86">isAFK</a>())</div>
-<div class="line"><span class="lineno">  241</span>            friendInfo.<a class="code hl_variable" href="../../da/d3d/a08592.html#a380f11d65b34e1e598b7861987cecfe6">Status</a> = <a class="code hl_enumvalue" href="../../d1/de4/a01481.html#a55ec778c8e53f4a36f26e03a8f130104a6c9b961dd0ede1a38e8c396c8bca4710">FRIEND_STATUS_AFK</a>;</div>
-<div class="line"><span class="lineno">  242</span>        <span class="keywordflow">if</span> (pFriend-&gt;<a class="code hl_function" href="../../d2/d57/a08572.html#ab30ba59ac679fdc6ef38e4c85e708b44">isDND</a>())</div>
-<div class="line"><span class="lineno">  243</span>            friendInfo.<a class="code hl_variable" href="../../da/d3d/a08592.html#a380f11d65b34e1e598b7861987cecfe6">Status</a> = <a class="code hl_enumvalue" href="../../d1/de4/a01481.html#a55ec778c8e53f4a36f26e03a8f130104a92eb4c542ce8c83e92fac0bc11257b10">FRIEND_STATUS_DND</a>;</div>
-<div class="line"><span class="lineno">  244</span>        friendInfo.<a class="code hl_variable" href="../../da/d3d/a08592.html#adf16884b55545ed9302dbb54d653867b">Area</a> = pFriend-&gt;<a class="code hl_function" href="../../d0/dac/a08356.html#ad498d690fbe69bb99a8a2ffdcb2f5169">GetZoneId</a>();</div>
-<div class="line"><span class="lineno">  245</span>        friendInfo.<a class="code hl_variable" href="../../da/d3d/a08592.html#a70d9a74f4587f648db5bf49b61091213">Level</a> = pFriend-&gt;<a class="code hl_function" href="../../d9/dad/a08704.html#af4767dc4f1480f7c0527db4efe2643d9">GetLevel</a>();</div>
-<div class="line"><span class="lineno">  246</span>        friendInfo.<a class="code hl_variable" href="../../da/d3d/a08592.html#a8b797fcfda05d52d4297f32e458be519">Class</a> = pFriend-&gt;<a class="code hl_function" href="../../d9/dad/a08704.html#a58a507ebe628930b8a506144b364d84b">getClass</a>();</div>
-<div class="line"><span class="lineno">  247</span>    }</div>
-<div class="line"><span class="lineno">  248</span>}</div>
-<div class="ttc" id="aa01481_html_a55ec778c8e53f4a36f26e03a8f130104a6c9b961dd0ede1a38e8c396c8bca4710"><div class="ttname"><a href="../../d1/de4/a01481.html#a55ec778c8e53f4a36f26e03a8f130104a6c9b961dd0ede1a38e8c396c8bca4710">FRIEND_STATUS_AFK</a></div><div class="ttdeci">@ FRIEND_STATUS_AFK</div><div class="ttdef"><b>Definition:</b> SocialMgr.h:32</div></div>
-<div class="ttc" id="aa01481_html_a55ec778c8e53f4a36f26e03a8f130104a92eb4c542ce8c83e92fac0bc11257b10"><div class="ttname"><a href="../../d1/de4/a01481.html#a55ec778c8e53f4a36f26e03a8f130104a92eb4c542ce8c83e92fac0bc11257b10">FRIEND_STATUS_DND</a></div><div class="ttdeci">@ FRIEND_STATUS_DND</div><div class="ttdef"><b>Definition:</b> SocialMgr.h:33</div></div>
-<div class="ttc" id="aa01481_html_a55ec778c8e53f4a36f26e03a8f130104ab799ab9b3c4a9ce9cac3a328d9d864da"><div class="ttname"><a href="../../d1/de4/a01481.html#a55ec778c8e53f4a36f26e03a8f130104ab799ab9b3c4a9ce9cac3a328d9d864da">FRIEND_STATUS_OFFLINE</a></div><div class="ttdeci">@ FRIEND_STATUS_OFFLINE</div><div class="ttdef"><b>Definition:</b> SocialMgr.h:30</div></div>
-<div class="ttc" id="aa01481_html_a55ec778c8e53f4a36f26e03a8f130104af68a6671b04623c1cef7abcf00bbea31"><div class="ttname"><a href="../../d1/de4/a01481.html#a55ec778c8e53f4a36f26e03a8f130104af68a6671b04623c1cef7abcf00bbea31">FRIEND_STATUS_ONLINE</a></div><div class="ttdeci">@ FRIEND_STATUS_ONLINE</div><div class="ttdef"><b>Definition:</b> SocialMgr.h:31</div></div>
-<div class="ttc" id="aa04794_html_a354f7e7aaf4b12d6ad8fe8ef6291eaa0"><div class="ttname"><a href="../../de/d4c/a04794.html#a354f7e7aaf4b12d6ad8fe8ef6291eaa0">ObjectAccessor::FindConnectedPlayer</a></div><div class="ttdeci">Player * FindConnectedPlayer(ObjectGuid const guid)</div><div class="ttdef"><b>Definition:</b> ObjectAccessor.cpp:257</div></div>
-<div class="ttc" id="aa08356_html_ad498d690fbe69bb99a8a2ffdcb2f5169"><div class="ttname"><a href="../../d0/dac/a08356.html#ad498d690fbe69bb99a8a2ffdcb2f5169">WorldObject::GetZoneId</a></div><div class="ttdeci">uint32 GetZoneId() const</div><div class="ttdef"><b>Definition:</b> Object.cpp:3150</div></div>
-<div class="ttc" id="aa08572_html_ab30ba59ac679fdc6ef38e4c85e708b44"><div class="ttname"><a href="../../d2/d57/a08572.html#ab30ba59ac679fdc6ef38e4c85e708b44">Player::isDND</a></div><div class="ttdeci">bool isDND() const</div><div class="ttdef"><b>Definition:</b> Player.h:1152</div></div>
-<div class="ttc" id="aa08572_html_ac0a2e3d06c31e2d9286edca3ffcaf74d"><div class="ttname"><a href="../../d2/d57/a08572.html#ac0a2e3d06c31e2d9286edca3ffcaf74d">Player::GetSocial</a></div><div class="ttdeci">PlayerSocial * GetSocial()</div><div class="ttdef"><b>Definition:</b> Player.h:1158</div></div>
-<div class="ttc" id="aa08572_html_ad372accc95ab6fb468c784bad6acee86"><div class="ttname"><a href="../../d2/d57/a08572.html#ad372accc95ab6fb468c784bad6acee86">Player::isAFK</a></div><div class="ttdeci">bool isAFK() const</div><div class="ttdef"><b>Definition:</b> Player.h:1151</div></div>
-<div class="ttc" id="aa08592_html_a380f11d65b34e1e598b7861987cecfe6"><div class="ttname"><a href="../../da/d3d/a08592.html#a380f11d65b34e1e598b7861987cecfe6">FriendInfo::Status</a></div><div class="ttdeci">FriendStatus Status</div><div class="ttdef"><b>Definition:</b> SocialMgr.h:49</div></div>
-<div class="ttc" id="aa08592_html_a70d9a74f4587f648db5bf49b61091213"><div class="ttname"><a href="../../da/d3d/a08592.html#a70d9a74f4587f648db5bf49b61091213">FriendInfo::Level</a></div><div class="ttdeci">uint8 Level</div><div class="ttdef"><b>Definition:</b> SocialMgr.h:52</div></div>
-<div class="ttc" id="aa08592_html_a8b797fcfda05d52d4297f32e458be519"><div class="ttname"><a href="../../da/d3d/a08592.html#a8b797fcfda05d52d4297f32e458be519">FriendInfo::Class</a></div><div class="ttdeci">uint8 Class</div><div class="ttdef"><b>Definition:</b> SocialMgr.h:53</div></div>
-<div class="ttc" id="aa08592_html_aa9aea70eba08de460ff9cc5c622ca75f"><div class="ttname"><a href="../../da/d3d/a08592.html#aa9aea70eba08de460ff9cc5c622ca75f">FriendInfo::Note</a></div><div class="ttdeci">std::string Note</div><div class="ttdef"><b>Definition:</b> SocialMgr.h:54</div></div>
-<div class="ttc" id="aa08592_html_adf16884b55545ed9302dbb54d653867b"><div class="ttname"><a href="../../da/d3d/a08592.html#adf16884b55545ed9302dbb54d653867b">FriendInfo::Area</a></div><div class="ttdeci">uint32 Area</div><div class="ttdef"><b>Definition:</b> SocialMgr.h:51</div></div>
-<div class="ttc" id="aa08596_html_a608444605a276e67a868b7ceac94a954"><div class="ttname"><a href="../../da/dd6/a08596.html#a608444605a276e67a868b7ceac94a954">PlayerSocial::m_playerSocialMap</a></div><div class="ttdeci">PlayerSocialMap m_playerSocialMap</div><div class="ttdef"><b>Definition:</b> SocialMgr.h:121</div></div>
-<div class="ttc" id="aa08704_html_a58a507ebe628930b8a506144b364d84b"><div class="ttname"><a href="../../d9/dad/a08704.html#a58a507ebe628930b8a506144b364d84b">Unit::getClass</a></div><div class="ttdeci">uint8 getClass() const</div><div class="ttdef"><b>Definition:</b> Unit.h:809</div></div>
-<div class="ttc" id="aa08704_html_af4767dc4f1480f7c0527db4efe2643d9"><div class="ttname"><a href="../../d9/dad/a08704.html#af4767dc4f1480f7c0527db4efe2643d9">Unit::GetLevel</a></div><div class="ttdeci">uint8 GetLevel() const</div><div class="ttdef"><b>Definition:</b> Unit.h:1033</div></div>
-<div class="ttc" id="aa10956_html_a5f0e0c87ce30591b6fc4e9c711fcedd4"><div class="ttname"><a href="../../d8/dcb/a10956.html#a5f0e0c87ce30591b6fc4e9c711fcedd4">WorldSession::IsGMAccount</a></div><div class="ttdeci">bool IsGMAccount() const</div><div class="ttdef"><b>Definition:</b> WorldSession.cpp:180</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00051">FriendInfo::Area</a>, <a class="el" href="../../#l00053">FriendInfo::Class</a>, <a class="el" href="../../#l00078">CONFIG_ALLOW_TWO_SIDE_WHO_LIST</a>, <a class="el" href="../../#l00259">CONFIG_GM_LEVEL_IN_WHO_LIST</a>, <a class="el" href="../../#l00257">ObjectAccessor::FindConnectedPlayer()</a>, <a class="el" href="../../#l00032">FRIEND_STATUS_AFK</a>, <a class="el" href="../../#l00033">FRIEND_STATUS_DND</a>, <a class="el" href="../../#l00030">FRIEND_STATUS_OFFLINE</a>, <a class="el" href="../../#l00031">FRIEND_STATUS_ONLINE</a>, <a class="el" href="../../#l00809">Unit::getClass()</a>, <a class="el" href="../../#l01033">Unit::GetLevel()</a>, <a class="el" href="../../#l00373">WorldSession::GetSecurity()</a>, <a class="el" href="../../#l02005">Player::GetSession()</a>, <a class="el" href="../../#l01158">Player::GetSocial()</a>, <a class="el" href="../../#l02116">Player::GetTeamId()</a>, <a class="el" href="../../#l03150">WorldObject::GetZoneId()</a>, <a class="el" href="../../#l01151">Player::isAFK()</a>, <a class="el" href="../../#l01152">Player::isDND()</a>, <a class="el" href="../../#l00180">WorldSession::IsGMAccount()</a>, <a class="el" href="../../#l00305">AccountMgr::IsPlayerAccount()</a>, <a class="el" href="../../#l11544">Player::IsVisibleGloballyFor()</a>, <a class="el" href="../../#l00052">FriendInfo::Level</a>, <a class="el" href="../../#l00121">PlayerSocial::m_playerSocialMap</a>, <a class="el" href="../../#l00054">FriendInfo::Note</a>, <a class="el" href="../../#l00049">FriendInfo::Status</a>, and <a class="el" href="../../#l00375">sWorld</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00257">SendFriendStatus()</a>.</p>
-
-</div>
-</div>
-<a id="a223f3d7811d8c360da7f467b70af808f" name="a223f3d7811d8c360da7f467b70af808f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a223f3d7811d8c360da7f467b70af808f">&#9670;&#160;</a></span>instance()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../de/d1b/a08600.html">SocialMgr</a> * SocialMgr::instance </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  207</span>{</div>
-<div class="line"><span class="lineno">  208</span>    <span class="keyword">static</span> <a class="code hl_class" href="../../de/d1b/a08600.html">SocialMgr</a> <a class="code hl_function" href="../../de/d1b/a08600.html#a223f3d7811d8c360da7f467b70af808f">instance</a>;</div>
-<div class="line"><span class="lineno">  209</span>    <span class="keywordflow">return</span> &amp;<a class="code hl_function" href="../../de/d1b/a08600.html#a223f3d7811d8c360da7f467b70af808f">instance</a>;</div>
-<div class="line"><span class="lineno">  210</span>}</div>
-<div class="ttc" id="aa08600_html"><div class="ttname"><a href="../../de/d1b/a08600.html">SocialMgr</a></div><div class="ttdef"><b>Definition:</b> SocialMgr.h:126</div></div>
-<div class="ttc" id="aa08600_html_a223f3d7811d8c360da7f467b70af808f"><div class="ttname"><a href="../../de/d1b/a08600.html#a223f3d7811d8c360da7f467b70af808f">SocialMgr::instance</a></div><div class="ttdeci">static SocialMgr * instance()</div><div class="ttdef"><b>Definition:</b> SocialMgr.cpp:206</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00206">instance()</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00206">instance()</a>.</p>
-
-</div>
-</div>
-<a id="a6f10d7d75b0ddc5c2ec5c0e978f0e7b9" name="a6f10d7d75b0ddc5c2ec5c0e978f0e7b9"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a6f10d7d75b0ddc5c2ec5c0e978f0e7b9">&#9670;&#160;</a></span>LoadFromDB()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../da/dd6/a08596.html">PlayerSocial</a> * SocialMgr::LoadFromDB </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d1/d2b/a04652.html#ac6110b8d867b5f84f677555d07037acb">PreparedQueryResult</a>&#160;</td>
-          <td class="paramname"><em>result</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d5/d95/a08372.html">ObjectGuid</a>&#160;</td>
-          <td class="paramname"><em>guid</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  320</span>{</div>
-<div class="line"><span class="lineno">  321</span>    <a class="code hl_class" href="../../da/dd6/a08596.html">PlayerSocial</a>* social = &amp;<a class="code hl_variable" href="../../de/d1b/a08600.html#a2f8a276598ad01d350aa245fcef82a7a">m_socialMap</a>[guid];</div>
-<div class="line"><span class="lineno">  322</span>    social-&gt;<a class="code hl_function" href="../../da/dd6/a08596.html#af913d007399dede4ddf59c2811fc3b8a">SetPlayerGUID</a>(guid);</div>
-<div class="line"><span class="lineno">  323</span> </div>
-<div class="line"><span class="lineno">  324</span>    <span class="keywordflow">if</span> (!result)</div>
-<div class="line"><span class="lineno">  325</span>        <span class="keywordflow">return</span> social;</div>
-<div class="line"><span class="lineno">  326</span> </div>
-<div class="line"><span class="lineno">  327</span>    <span class="keywordflow">do</span></div>
-<div class="line"><span class="lineno">  328</span>    {</div>
-<div class="line"><span class="lineno">  329</span>        <a class="code hl_class" href="../../d6/d0e/a05676.html">Field</a>* fields = result-&gt;Fetch();</div>
-<div class="line"><span class="lineno">  330</span> </div>
-<div class="line"><span class="lineno">  331</span>        <span class="keyword">auto</span> friendGuid = ObjectGuid::Create&lt;HighGuid::Player&gt;(fields[0].Get&lt;uint32&gt;());</div>
-<div class="line"><span class="lineno">  332</span>        <span class="keyword">auto</span> flags = fields[1].<a class="code hl_function" href="../../d6/d0e/a05676.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../d5/d35/a00266.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&gt;();</div>
-<div class="line"><span class="lineno">  333</span>        <span class="keyword">auto</span> note = fields[2].<a class="code hl_function" href="../../d6/d0e/a05676.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;std::string&gt;();</div>
-<div class="line"><span class="lineno">  334</span> </div>
-<div class="line"><span class="lineno">  335</span>        social-&gt;<a class="code hl_variable" href="../../da/dd6/a08596.html#a608444605a276e67a868b7ceac94a954">m_playerSocialMap</a>[friendGuid] = <a class="code hl_struct" href="../../da/d3d/a08592.html">FriendInfo</a>(flags, note);</div>
-<div class="line"><span class="lineno">  336</span>    } <span class="keywordflow">while</span> (result-&gt;NextRow());</div>
-<div class="line"><span class="lineno">  337</span> </div>
-<div class="line"><span class="lineno">  338</span>    <span class="keywordflow">return</span> social;</div>
-<div class="line"><span class="lineno">  339</span>}</div>
-<div class="ttc" id="aa00266_html_a15a8d014fadf85c99a2268d8cbd00767"><div class="ttname"><a href="../../d5/d35/a00266.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></div><div class="ttdeci">std::uint8_t uint8</div><div class="ttdef"><b>Definition:</b> Define.h:109</div></div>
-<div class="ttc" id="aa05676_html"><div class="ttname"><a href="../../d6/d0e/a05676.html">Field</a></div><div class="ttdoc">Class used to access individual fields of database query result.</div><div class="ttdef"><b>Definition:</b> Field.h:98</div></div>
-<div class="ttc" id="aa05676_html_aae507d21d3570ffdaf1643ba02946f01"><div class="ttname"><a href="../../d6/d0e/a05676.html#aae507d21d3570ffdaf1643ba02946f01">Field::Get</a></div><div class="ttdeci">std::enable_if_t&lt; std::is_arithmetic_v&lt; T &gt;, T &gt; Get() const</div><div class="ttdef"><b>Definition:</b> Field.h:112</div></div>
-<div class="ttc" id="aa08592_html"><div class="ttname"><a href="../../da/d3d/a08592.html">FriendInfo</a></div><div class="ttdef"><b>Definition:</b> SocialMgr.h:48</div></div>
-<div class="ttc" id="aa08596_html"><div class="ttname"><a href="../../da/dd6/a08596.html">PlayerSocial</a></div><div class="ttdef"><b>Definition:</b> SocialMgr.h:101</div></div>
-<div class="ttc" id="aa08596_html_af913d007399dede4ddf59c2811fc3b8a"><div class="ttname"><a href="../../da/dd6/a08596.html#af913d007399dede4ddf59c2811fc3b8a">PlayerSocial::SetPlayerGUID</a></div><div class="ttdeci">void SetPlayerGUID(ObjectGuid guid)</div><div class="ttdef"><b>Definition:</b> SocialMgr.h:116</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00112">Field::Get()</a>, <a class="el" href="../../#l00121">PlayerSocial::m_playerSocialMap</a>, <a class="el" href="../../#l00144">m_socialMap</a>, and <a class="el" href="../../#l00116">PlayerSocial::SetPlayerGUID()</a>.</p>
-
-</div>
-</div>
-<a id="a9acd86505e66f2e6de9f8d30b36b94e6" name="a9acd86505e66f2e6de9f8d30b36b94e6"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a9acd86505e66f2e6de9f8d30b36b94e6">&#9670;&#160;</a></span>MakeFriendStatusPacket()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void SocialMgr::MakeFriendStatusPacket </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d1/de4/a01481.html#a0e8e0c842aa4e8be9a854c430b3af9b6">FriendsResult</a>&#160;</td>
-          <td class="paramname"><em>result</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d5/d95/a08372.html">ObjectGuid</a>&#160;</td>
-          <td class="paramname"><em>friend_guid</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d0/d00/a10912.html">WorldPacket</a> *&#160;</td>
-          <td class="paramname"><em>data</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  251</span>{</div>
-<div class="line"><span class="lineno">  252</span>    data-&gt;<a class="code hl_function" href="../../d0/d00/a10912.html#a6b7d58fb0230383629fa888d3aa9dbd8">Initialize</a>(<a class="code hl_enumvalue" href="../../d9/dda/a04740.html#gga1073b6abb3a749f18bf1633020879e9bae9914a40c09c3c4e346e7d6e9a5bb5a5">SMSG_FRIEND_STATUS</a>, 9);</div>
-<div class="line"><span class="lineno">  253</span>    *data &lt;&lt; <a class="code hl_typedef" href="../../d5/d35/a00266.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>(result);</div>
-<div class="line"><span class="lineno">  254</span>    *data &lt;&lt; guid;</div>
-<div class="line"><span class="lineno">  255</span>}</div>
-<div class="ttc" id="aa04740_html_gga1073b6abb3a749f18bf1633020879e9bae9914a40c09c3c4e346e7d6e9a5bb5a5"><div class="ttname"><a href="../../d9/dda/a04740.html#gga1073b6abb3a749f18bf1633020879e9bae9914a40c09c3c4e346e7d6e9a5bb5a5">SMSG_FRIEND_STATUS</a></div><div class="ttdeci">@ SMSG_FRIEND_STATUS</div><div class="ttdef"><b>Definition:</b> Opcodes.h:134</div></div>
-<div class="ttc" id="aa10912_html_a6b7d58fb0230383629fa888d3aa9dbd8"><div class="ttname"><a href="../../d0/d00/a10912.html#a6b7d58fb0230383629fa888d3aa9dbd8">WorldPacket::Initialize</a></div><div class="ttdeci">void Initialize(uint16 opcode, std::size_t newres=200)</div><div class="ttdef"><b>Definition:</b> WorldPacket.h:68</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00068">WorldPacket::Initialize()</a>, and <a class="el" href="../../#l00134">SMSG_FRIEND_STATUS</a>.</p>
-
-</div>
-</div>
-<a id="a6b4968dc0a09a48c2b58e40d47da665d" name="a6b4968dc0a09a48c2b58e40d47da665d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a6b4968dc0a09a48c2b58e40d47da665d">&#9670;&#160;</a></span>RemovePlayerSocial()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">void SocialMgr::RemovePlayerSocial </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d5/d95/a08372.html">ObjectGuid</a>&#160;</td>
-          <td class="paramname"><em>guid</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
@@ -562,99 +194,14 @@ Private Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  134</span>{ <a class="code hl_variable" href="../../de/d1b/a08600.html#a2f8a276598ad01d350aa245fcef82a7a">m_socialMap</a>.erase(guid); }</div>
+<div class="fragment"><div class="line"><span class="lineno">   28</span>: <a class="code hl_variable" href="../../de/d1b/a08600.html#a52ed114d167bcc8079fe37c410b25b31">m_flightMasterFactionId</a>(0) { <a class="code hl_variable" href="../../de/d1b/a08600.html#abf0d776badac2d25cf823609d5fec799">m_taximask</a>.fill(0); }</div>
+<div class="ttc" id="aa08600_html_a52ed114d167bcc8079fe37c410b25b31"><div class="ttname"><a href="../../de/d1b/a08600.html#a52ed114d167bcc8079fe37c410b25b31">PlayerTaxi::m_flightMasterFactionId</a></div><div class="ttdeci">uint32 m_flightMasterFactionId</div><div class="ttdef"><b>Definition:</b> PlayerTaxi.h:82</div></div>
+<div class="ttc" id="aa08600_html_abf0d776badac2d25cf823609d5fec799"><div class="ttname"><a href="../../de/d1b/a08600.html#abf0d776badac2d25cf823609d5fec799">PlayerTaxi::m_taximask</a></div><div class="ttdeci">TaxiMask m_taximask</div><div class="ttdef"><b>Definition:</b> PlayerTaxi.h:80</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00144">m_socialMap</a>.</p>
-
 </div>
 </div>
-<a id="a8824263f601c107ef84e487ca1b71bff" name="a8824263f601c107ef84e487ca1b71bff"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8824263f601c107ef84e487ca1b71bff">&#9670;&#160;</a></span>SendFriendStatus()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void SocialMgr::SendFriendStatus </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d2/d57/a08572.html">Player</a> *&#160;</td>
-          <td class="paramname"><em>player</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d1/de4/a01481.html#a0e8e0c842aa4e8be9a854c430b3af9b6">FriendsResult</a>&#160;</td>
-          <td class="paramname"><em>result</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d5/d95/a08372.html">ObjectGuid</a>&#160;</td>
-          <td class="paramname"><em>friend_guid</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">bool&#160;</td>
-          <td class="paramname"><em>broadcast</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  258</span>{</div>
-<div class="line"><span class="lineno">  259</span>    <a class="code hl_struct" href="../../da/d3d/a08592.html">FriendInfo</a> fi;</div>
-<div class="line"><span class="lineno">  260</span>    <a class="code hl_function" href="../../de/d1b/a08600.html#a24344515cc4e656b98afcf760181b070">GetFriendInfo</a>(player, friendGuid, fi);</div>
-<div class="line"><span class="lineno">  261</span> </div>
-<div class="line"><span class="lineno">  262</span>    <a class="code hl_class" href="../../d0/d00/a10912.html">WorldPacket</a> data(<a class="code hl_enumvalue" href="../../d9/dda/a04740.html#gga1073b6abb3a749f18bf1633020879e9bae9914a40c09c3c4e346e7d6e9a5bb5a5">SMSG_FRIEND_STATUS</a>, 9);</div>
-<div class="line"><span class="lineno">  263</span>    data &lt;&lt; <a class="code hl_typedef" href="../../d5/d35/a00266.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>(result);</div>
-<div class="line"><span class="lineno">  264</span>    data &lt;&lt; friendGuid;</div>
-<div class="line"><span class="lineno">  265</span>    <span class="keywordflow">switch</span> (result)</div>
-<div class="line"><span class="lineno">  266</span>    {</div>
-<div class="line"><span class="lineno">  267</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d1/de4/a01481.html#a0e8e0c842aa4e8be9a854c430b3af9b6a32b4a0f96afd3fb80c64a5cb8d9b0fbd">FRIEND_ADDED_OFFLINE</a>:</div>
-<div class="line"><span class="lineno">  268</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d1/de4/a01481.html#a0e8e0c842aa4e8be9a854c430b3af9b6a4b28b362520b714bca328eca6606a504">FRIEND_ADDED_ONLINE</a>:</div>
-<div class="line"><span class="lineno">  269</span>            data &lt;&lt; fi.<a class="code hl_variable" href="../../da/d3d/a08592.html#aa9aea70eba08de460ff9cc5c622ca75f">Note</a>;</div>
-<div class="line"><span class="lineno">  270</span>            <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  271</span>        <span class="keywordflow">default</span>:</div>
-<div class="line"><span class="lineno">  272</span>            <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  273</span>    }</div>
-<div class="line"><span class="lineno">  274</span> </div>
-<div class="line"><span class="lineno">  275</span>    <span class="keywordflow">switch</span> (result)</div>
-<div class="line"><span class="lineno">  276</span>    {</div>
-<div class="line"><span class="lineno">  277</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d1/de4/a01481.html#a0e8e0c842aa4e8be9a854c430b3af9b6a4b28b362520b714bca328eca6606a504">FRIEND_ADDED_ONLINE</a>:</div>
-<div class="line"><span class="lineno">  278</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d1/de4/a01481.html#a0e8e0c842aa4e8be9a854c430b3af9b6a203bccef891dbbf575e4c76373f0f19d">FRIEND_ONLINE</a>:</div>
-<div class="line"><span class="lineno">  279</span>            data &lt;&lt; <a class="code hl_typedef" href="../../d5/d35/a00266.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>(fi.<a class="code hl_variable" href="../../da/d3d/a08592.html#a380f11d65b34e1e598b7861987cecfe6">Status</a>);</div>
-<div class="line"><span class="lineno">  280</span>            data &lt;&lt; <a class="code hl_typedef" href="../../d5/d35/a00266.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>(fi.<a class="code hl_variable" href="../../da/d3d/a08592.html#adf16884b55545ed9302dbb54d653867b">Area</a>);</div>
-<div class="line"><span class="lineno">  281</span>            data &lt;&lt; <a class="code hl_typedef" href="../../d5/d35/a00266.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>(fi.<a class="code hl_variable" href="../../da/d3d/a08592.html#a70d9a74f4587f648db5bf49b61091213">Level</a>);</div>
-<div class="line"><span class="lineno">  282</span>            data &lt;&lt; <a class="code hl_typedef" href="../../d5/d35/a00266.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>(fi.<a class="code hl_variable" href="../../da/d3d/a08592.html#a8b797fcfda05d52d4297f32e458be519">Class</a>);</div>
-<div class="line"><span class="lineno">  283</span>            <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  284</span>        <span class="keywordflow">default</span>:</div>
-<div class="line"><span class="lineno">  285</span>            <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  286</span>    }</div>
-<div class="line"><span class="lineno">  287</span> </div>
-<div class="line"><span class="lineno">  288</span>    <span class="keywordflow">if</span> (broadcast)</div>
-<div class="line"><span class="lineno">  289</span>        <a class="code hl_function" href="../../de/d1b/a08600.html#a55b35ea17ebfea4ff31710186b87865f">BroadcastToFriendListers</a>(player, &amp;data);</div>
-<div class="line"><span class="lineno">  290</span>    <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  291</span>        player-&gt;<a class="code hl_function" href="../../d2/d57/a08572.html#a6ab11ca64cde7c5cde1f53998a6f7253">GetSession</a>()-&gt;<a class="code hl_function" href="../../d8/dcb/a10956.html#a2c74b80ca9b81765049e315813b29269">SendPacket</a>(&amp;data);</div>
-<div class="line"><span class="lineno">  292</span>}</div>
-<div class="ttc" id="aa00266_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../d5/d35/a00266.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
-<div class="ttc" id="aa01481_html_a0e8e0c842aa4e8be9a854c430b3af9b6a203bccef891dbbf575e4c76373f0f19d"><div class="ttname"><a href="../../d1/de4/a01481.html#a0e8e0c842aa4e8be9a854c430b3af9b6a203bccef891dbbf575e4c76373f0f19d">FRIEND_ONLINE</a></div><div class="ttdeci">@ FRIEND_ONLINE</div><div class="ttdef"><b>Definition:</b> SocialMgr.h:68</div></div>
-<div class="ttc" id="aa01481_html_a0e8e0c842aa4e8be9a854c430b3af9b6a32b4a0f96afd3fb80c64a5cb8d9b0fbd"><div class="ttname"><a href="../../d1/de4/a01481.html#a0e8e0c842aa4e8be9a854c430b3af9b6a32b4a0f96afd3fb80c64a5cb8d9b0fbd">FRIEND_ADDED_OFFLINE</a></div><div class="ttdeci">@ FRIEND_ADDED_OFFLINE</div><div class="ttdef"><b>Definition:</b> SocialMgr.h:73</div></div>
-<div class="ttc" id="aa01481_html_a0e8e0c842aa4e8be9a854c430b3af9b6a4b28b362520b714bca328eca6606a504"><div class="ttname"><a href="../../d1/de4/a01481.html#a0e8e0c842aa4e8be9a854c430b3af9b6a4b28b362520b714bca328eca6606a504">FRIEND_ADDED_ONLINE</a></div><div class="ttdeci">@ FRIEND_ADDED_ONLINE</div><div class="ttdef"><b>Definition:</b> SocialMgr.h:72</div></div>
-<div class="ttc" id="aa08600_html_a24344515cc4e656b98afcf760181b070"><div class="ttname"><a href="../../de/d1b/a08600.html#a24344515cc4e656b98afcf760181b070">SocialMgr::GetFriendInfo</a></div><div class="ttdeci">static void GetFriendInfo(Player *player, ObjectGuid friendGUID, FriendInfo &amp;friendInfo)</div><div class="ttdef"><b>Definition:</b> SocialMgr.cpp:212</div></div>
-<div class="ttc" id="aa08600_html_a55b35ea17ebfea4ff31710186b87865f"><div class="ttname"><a href="../../de/d1b/a08600.html#a55b35ea17ebfea4ff31710186b87865f">SocialMgr::BroadcastToFriendListers</a></div><div class="ttdeci">void BroadcastToFriendListers(Player *player, WorldPacket *packet)</div><div class="ttdef"><b>Definition:</b> SocialMgr.cpp:294</div></div>
-<div class="ttc" id="aa10912_html"><div class="ttname"><a href="../../d0/d00/a10912.html">WorldPacket</a></div><div class="ttdef"><b>Definition:</b> WorldPacket.h:26</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00051">FriendInfo::Area</a>, <a class="el" href="../../#l00294">BroadcastToFriendListers()</a>, <a class="el" href="../../#l00053">FriendInfo::Class</a>, <a class="el" href="../../#l00073">FRIEND_ADDED_OFFLINE</a>, <a class="el" href="../../#l00072">FRIEND_ADDED_ONLINE</a>, <a class="el" href="../../#l00068">FRIEND_ONLINE</a>, <a class="el" href="../../#l00212">GetFriendInfo()</a>, <a class="el" href="../../#l02005">Player::GetSession()</a>, <a class="el" href="../../#l00052">FriendInfo::Level</a>, <a class="el" href="../../#l00054">FriendInfo::Note</a>, <a class="el" href="../../#l00226">WorldSession::SendPacket()</a>, <a class="el" href="../../#l00134">SMSG_FRIEND_STATUS</a>, and <a class="el" href="../../#l00049">FriendInfo::Status</a>.</p>
-
-</div>
-</div>
-<h2 class="groupheader">Member Data Documentation</h2>
-<a id="a2f8a276598ad01d350aa245fcef82a7a" name="a2f8a276598ad01d350aa245fcef82a7a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a2f8a276598ad01d350aa245fcef82a7a">&#9670;&#160;</a></span>m_socialMap</h2>
+<a id="ab8ba2e4cebd37f540e45d1f41cf46fb4" name="ab8ba2e4cebd37f540e45d1f41cf46fb4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab8ba2e4cebd37f540e45d1f41cf46fb4">&#9670;&#160;</a></span>~PlayerTaxi()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -663,7 +210,790 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../de/d1b/a08600.html#a2b80fa18a6f1ed54fda7719867f45ebd">SocialMap</a> SocialMgr::m_socialMap</td>
+          <td class="memname">PlayerTaxi::~PlayerTaxi </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">default</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<h2 class="groupheader">Member Function Documentation</h2>
+<a id="a1ecef7f42bb7197ce7c6ca35c7010ec3" name="a1ecef7f42bb7197ce7c6ca35c7010ec3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1ecef7f42bb7197ce7c6ca35c7010ec3">&#9670;&#160;</a></span>AddTaxiDestination()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void PlayerTaxi::AddTaxiDestination </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d5/db5/a00374.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>dest</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   62</span>{ <a class="code hl_variable" href="../../de/d1b/a08600.html#a3aff323ba6dfee2f8776efb49e3ebfbf">m_TaxiDestinations</a>.push_back(dest); }</div>
+<div class="ttc" id="aa08600_html_a3aff323ba6dfee2f8776efb49e3ebfbf"><div class="ttname"><a href="../../de/d1b/a08600.html#a3aff323ba6dfee2f8776efb49e3ebfbf">PlayerTaxi::m_TaxiDestinations</a></div><div class="ttdeci">std::deque&lt; uint32 &gt; m_TaxiDestinations</div><div class="ttdef"><b>Definition:</b> PlayerTaxi.h:81</div></div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l10294">Player::ActivateTaxiPathTo()</a>, <a class="el" href="../../#l04918">Player::LoadFromDB()</a>, <a class="el" href="../../#l00130">LoadTaxiDestinationsFromString()</a>, and <a class="el" href="../../#l01622">Player::ProcessDelayedOperations()</a>.</p>
+
+</div>
+</div>
+<a id="ab18bdbd8b7e04949d6d4b9adfabf8451" name="ab18bdbd8b7e04949d6d4b9adfabf8451"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab18bdbd8b7e04949d6d4b9adfabf8451">&#9670;&#160;</a></span>AppendTaximaskTo()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void PlayerTaxi::AppendTaximaskTo </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d2/d20/a28380.html">ByteBuffer</a> &amp;&#160;</td>
+          <td class="paramname"><em>data</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">bool&#160;</td>
+          <td class="paramname"><em>all</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  117</span>{</div>
+<div class="line"><span class="lineno">  118</span>    <span class="keywordflow">if</span> (all)</div>
+<div class="line"><span class="lineno">  119</span>    {</div>
+<div class="line"><span class="lineno">  120</span>        <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../d5/db5/a00374.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> i = 0; i &lt; <a class="code hl_variable" href="../../de/d22/a04619.html#af55b7730b9b6bf94de4604ce96e812c0">TaxiMaskSize</a>; i++)</div>
+<div class="line"><span class="lineno">  121</span>            data &lt;&lt; <a class="code hl_typedef" href="../../d5/db5/a00374.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>(<a class="code hl_variable" href="../../da/dc0/a03104.html#a37eee051ac703abd62ba855ed72c3f69">sTaxiNodesMask</a>[i]);              <span class="comment">// all existed nodes</span></div>
+<div class="line"><span class="lineno">  122</span>    }</div>
+<div class="line"><span class="lineno">  123</span>    <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  124</span>    {</div>
+<div class="line"><span class="lineno">  125</span>        <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../d5/db5/a00374.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> i = 0; i &lt; <a class="code hl_variable" href="../../de/d22/a04619.html#af55b7730b9b6bf94de4604ce96e812c0">TaxiMaskSize</a>; i++)</div>
+<div class="line"><span class="lineno">  126</span>            data &lt;&lt; <a class="code hl_typedef" href="../../d5/db5/a00374.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>(<a class="code hl_variable" href="../../de/d1b/a08600.html#abf0d776badac2d25cf823609d5fec799">m_taximask</a>[i]);                  <span class="comment">// known nodes</span></div>
+<div class="line"><span class="lineno">  127</span>    }</div>
+<div class="line"><span class="lineno">  128</span>}</div>
+<div class="ttc" id="aa00374_html_a15a8d014fadf85c99a2268d8cbd00767"><div class="ttname"><a href="../../d5/db5/a00374.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></div><div class="ttdeci">std::uint8_t uint8</div><div class="ttdef"><b>Definition:</b> Define.h:109</div></div>
+<div class="ttc" id="aa00374_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../d5/db5/a00374.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
+<div class="ttc" id="aa03104_html_a37eee051ac703abd62ba855ed72c3f69"><div class="ttname"><a href="../../da/dc0/a03104.html#a37eee051ac703abd62ba855ed72c3f69">sTaxiNodesMask</a></div><div class="ttdeci">TaxiMask sTaxiNodesMask</div><div class="ttdef"><b>Definition:</b> DBCStores.cpp:176</div></div>
+<div class="ttc" id="aa04619_html_af55b7730b9b6bf94de4604ce96e812c0"><div class="ttname"><a href="../../de/d22/a04619.html#af55b7730b9b6bf94de4604ce96e812c0">TaxiMaskSize</a></div><div class="ttdeci">static constexpr std::size_t TaxiMaskSize</div><div class="ttdef"><b>Definition:</b> DBCStructure.h:2247</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00080">m_taximask</a>, <a class="el" href="../../#l00176">sTaxiNodesMask</a>, and <a class="el" href="../../#l02247">TaxiMaskSize</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00084">WorldSession::SendTaxiMenu()</a>.</p>
+
+</div>
+</div>
+<a id="ab4422be16e69b1f32bce002ab71ab5a5" name="ab4422be16e69b1f32bce002ab71ab5a5"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab4422be16e69b1f32bce002ab71ab5a5">&#9670;&#160;</a></span>ClearTaxiDestinations()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void PlayerTaxi::ClearTaxiDestinations </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   61</span>{ <a class="code hl_variable" href="../../de/d1b/a08600.html#a3aff323ba6dfee2f8776efb49e3ebfbf">m_TaxiDestinations</a>.clear(); }</div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l10294">Player::ActivateTaxiPathTo()</a>, <a class="el" href="../../#l10491">Player::CleanupAfterTaxiFlight()</a>, <a class="el" href="../../#l10505">Player::ContinueTaxiFlight()</a>, <a class="el" href="../../#l00400">FlightPathMovementGenerator::DoFinalize()</a>, <a class="el" href="../../#l04918">Player::LoadFromDB()</a>, and <a class="el" href="../../#l00130">LoadTaxiDestinationsFromString()</a>.</p>
+
+</div>
+</div>
+<a id="a76919e4ba603f6a1b88a3c213767e09d" name="a76919e4ba603f6a1b88a3c213767e09d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a76919e4ba603f6a1b88a3c213767e09d">&#9670;&#160;</a></span>empty()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool PlayerTaxi::empty </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   73</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../de/d1b/a08600.html#a3aff323ba6dfee2f8776efb49e3ebfbf">m_TaxiDestinations</a>.empty(); }</div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00400">FlightPathMovementGenerator::DoFinalize()</a>, and <a class="el" href="../../#l11345">Player::SetEntryPoint()</a>.</p>
+
+</div>
+</div>
+<a id="ae4a6a1a97932c90ca79a282f131711e7" name="ae4a6a1a97932c90ca79a282f131711e7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae4a6a1a97932c90ca79a282f131711e7">&#9670;&#160;</a></span>GetCurrentTaxiPath()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d5/db5/a00374.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> PlayerTaxi::GetCurrentTaxiPath </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  214</span>{</div>
+<div class="line"><span class="lineno">  215</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../de/d1b/a08600.html#a3aff323ba6dfee2f8776efb49e3ebfbf">m_TaxiDestinations</a>.size() &lt; 2)</div>
+<div class="line"><span class="lineno">  216</span>    {</div>
+<div class="line"><span class="lineno">  217</span>        <span class="keywordflow">return</span> 0;</div>
+<div class="line"><span class="lineno">  218</span>    }</div>
+<div class="line"><span class="lineno">  219</span> </div>
+<div class="line"><span class="lineno">  220</span>    <a class="code hl_typedef" href="../../d5/db5/a00374.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> path;</div>
+<div class="line"><span class="lineno">  221</span>    <a class="code hl_typedef" href="../../d5/db5/a00374.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> cost;</div>
+<div class="line"><span class="lineno">  222</span> </div>
+<div class="line"><span class="lineno">  223</span>    <a class="code hl_define" href="../../d1/d89/a03035.html#a736e30da2b5261060ac6cdbb5de3b787">sObjectMgr</a>-&gt;GetTaxiPath(<a class="code hl_variable" href="../../de/d1b/a08600.html#a3aff323ba6dfee2f8776efb49e3ebfbf">m_TaxiDestinations</a>[0], <a class="code hl_variable" href="../../de/d1b/a08600.html#a3aff323ba6dfee2f8776efb49e3ebfbf">m_TaxiDestinations</a>[1], path, cost);</div>
+<div class="line"><span class="lineno">  224</span> </div>
+<div class="line"><span class="lineno">  225</span>    <span class="keywordflow">return</span> path;</div>
+<div class="line"><span class="lineno">  226</span>}</div>
+<div class="ttc" id="aa03035_html_a736e30da2b5261060ac6cdbb5de3b787"><div class="ttname"><a href="../../d1/d89/a03035.html#a736e30da2b5261060ac6cdbb5de3b787">sObjectMgr</a></div><div class="ttdeci">#define sObjectMgr</div><div class="ttdef"><b>Definition:</b> ObjectMgr.h:1636</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00081">m_TaxiDestinations</a>, and <a class="el" href="../../#l01636">sObjectMgr</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l10505">Player::ContinueTaxiFlight()</a>.</p>
+
+</div>
+</div>
+<a id="a487e2760da8446a3c34dddc2d4c5c0f5" name="a487e2760da8446a3c34dddc2d4c5c0f5"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a487e2760da8446a3c34dddc2d4c5c0f5">&#9670;&#160;</a></span>GetFlightMasterFactionTemplate()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d6/d38/a28024.html">FactionTemplateEntry</a> const  * PlayerTaxi::GetFlightMasterFactionTemplate </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  236</span>{</div>
+<div class="line"><span class="lineno">  237</span>    <span class="keywordflow">return</span> <a class="code hl_variable" href="../../da/dc0/a03104.html#ab92b42f7bf8dc60a8d0d92aa9b1ca5a1">sFactionTemplateStore</a>.LookupEntry(<a class="code hl_variable" href="../../de/d1b/a08600.html#a52ed114d167bcc8079fe37c410b25b31">m_flightMasterFactionId</a>);</div>
+<div class="line"><span class="lineno">  238</span>}</div>
+<div class="ttc" id="aa03104_html_ab92b42f7bf8dc60a8d0d92aa9b1ca5a1"><div class="ttname"><a href="../../da/dc0/a03104.html#ab92b42f7bf8dc60a8d0d92aa9b1ca5a1">sFactionTemplateStore</a></div><div class="ttdeci">DBCStorage&lt; FactionTemplateEntry &gt; sFactionTemplateStore(FactionTemplateEntryfmt)</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00082">m_flightMasterFactionId</a>, and <a class="el" href="../../da/dc0/a03104.html#ab92b42f7bf8dc60a8d0d92aa9b1ca5a1">sFactionTemplateStore</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00330">FlightPathMovementGenerator::LoadPath()</a>.</p>
+
+</div>
+</div>
+<a id="a031051c85f1ce8fb8ab172c86bb4382b" name="a031051c85f1ce8fb8ab172c86bb4382b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a031051c85f1ce8fb8ab172c86bb4382b">&#9670;&#160;</a></span>GetPath()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::deque&lt; <a class="el" href="../../d5/db5/a00374.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> &gt; const  &amp; PlayerTaxi::GetPath </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   72</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../de/d1b/a08600.html#a3aff323ba6dfee2f8776efb49e3ebfbf">m_TaxiDestinations</a>; }</div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00330">FlightPathMovementGenerator::LoadPath()</a>.</p>
+
+</div>
+</div>
+<a id="aa54293e7ea1125b0e7dd2a79f9a7e0a0" name="aa54293e7ea1125b0e7dd2a79f9a7e0a0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa54293e7ea1125b0e7dd2a79f9a7e0a0">&#9670;&#160;</a></span>GetTaxiDestination()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d5/db5/a00374.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> PlayerTaxi::GetTaxiDestination </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   64</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../de/d1b/a08600.html#a3aff323ba6dfee2f8776efb49e3ebfbf">m_TaxiDestinations</a>.size() &lt; 2 ? 0 : <a class="code hl_variable" href="../../de/d1b/a08600.html#a3aff323ba6dfee2f8776efb49e3ebfbf">m_TaxiDestinations</a>[1]; }</div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00199">WorldSession::HandleMoveSplineDoneOpcode()</a>, and <a class="el" href="../../#l11345">Player::SetEntryPoint()</a>.</p>
+
+</div>
+</div>
+<a id="a4313e575d9bd2a60852f5e944f79ac71" name="a4313e575d9bd2a60852f5e944f79ac71"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4313e575d9bd2a60852f5e944f79ac71">&#9670;&#160;</a></span>GetTaxiSource()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d5/db5/a00374.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> PlayerTaxi::GetTaxiSource </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   63</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../de/d1b/a08600.html#a3aff323ba6dfee2f8776efb49e3ebfbf">m_TaxiDestinations</a>.empty() ? 0 : <a class="code hl_variable" href="../../de/d1b/a08600.html#a3aff323ba6dfee2f8776efb49e3ebfbf">m_TaxiDestinations</a>.front(); }</div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l10505">Player::ContinueTaxiFlight()</a>, <a class="el" href="../../#l00130">LoadTaxiDestinationsFromString()</a>, and <a class="el" href="../../#l11345">Player::SetEntryPoint()</a>.</p>
+
+</div>
+</div>
+<a id="ae63c6941e0e8b7c0920cc1f255641e4d" name="ae63c6941e0e8b7c0920cc1f255641e4d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae63c6941e0e8b7c0920cc1f255641e4d">&#9670;&#160;</a></span>InitTaxiNodesForLevel()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void PlayerTaxi::InitTaxiNodesForLevel </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d5/db5/a00374.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>race</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d5/db5/a00374.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>chrClass</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d5/db5/a00374.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td>
+          <td class="paramname"><em>level</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   24</span>{</div>
+<div class="line"><span class="lineno">   25</span>    <span class="comment">// class specific initial known nodes</span></div>
+<div class="line"><span class="lineno">   26</span>    <span class="keywordflow">switch</span> (chrClass)</div>
+<div class="line"><span class="lineno">   27</span>    {</div>
+<div class="line"><span class="lineno">   28</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d0/d9d/a04583.html#a86e4e3df7a5142175aa5df522d3346cfa7f7b30426fd386c181799196c1739058">CLASS_DEATH_KNIGHT</a>:</div>
+<div class="line"><span class="lineno">   29</span>        {</div>
+<div class="line"><span class="lineno">   30</span>            <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../d5/db5/a00374.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> i = 0; i &lt; <a class="code hl_variable" href="../../de/d22/a04619.html#af55b7730b9b6bf94de4604ce96e812c0">TaxiMaskSize</a>; ++i)</div>
+<div class="line"><span class="lineno">   31</span>                <a class="code hl_variable" href="../../de/d1b/a08600.html#abf0d776badac2d25cf823609d5fec799">m_taximask</a>[i] |= <a class="code hl_variable" href="../../da/dc0/a03104.html#a6cc1bb46e69ee6dfbfbc4d71f8ba3004">sOldContinentsNodesMask</a>[i];</div>
+<div class="line"><span class="lineno">   32</span>            <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">   33</span>        }</div>
+<div class="line"><span class="lineno">   34</span>    }</div>
+<div class="line"><span class="lineno">   35</span> </div>
+<div class="line"><span class="lineno">   36</span>    <span class="comment">// race specific initial known nodes: capital and taxi hub masks</span></div>
+<div class="line"><span class="lineno">   37</span>    <span class="keywordflow">switch</span> (race)</div>
+<div class="line"><span class="lineno">   38</span>    {</div>
+<div class="line"><span class="lineno">   39</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d0/d9d/a04583.html#abece64758d84aa91fa2b6bb82123cc80ab70d874fe662deadb3bc53be59d896e7">RACE_HUMAN</a>:</div>
+<div class="line"><span class="lineno">   40</span>            <a class="code hl_function" href="../../de/d1b/a08600.html#a34a9653fbdc2b4a7c86a990fcc080e64">SetTaximaskNode</a>(2);</div>
+<div class="line"><span class="lineno">   41</span>            <span class="keywordflow">break</span>;     <span class="comment">// Human</span></div>
+<div class="line"><span class="lineno">   42</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d0/d9d/a04583.html#abece64758d84aa91fa2b6bb82123cc80a446767743ece0d95b9bbe498ef1476b5">RACE_ORC</a>:</div>
+<div class="line"><span class="lineno">   43</span>            <a class="code hl_function" href="../../de/d1b/a08600.html#a34a9653fbdc2b4a7c86a990fcc080e64">SetTaximaskNode</a>(23);</div>
+<div class="line"><span class="lineno">   44</span>            <span class="keywordflow">break</span>;     <span class="comment">// Orc</span></div>
+<div class="line"><span class="lineno">   45</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d0/d9d/a04583.html#abece64758d84aa91fa2b6bb82123cc80aa205d146ad42dcf361e62da3e2b2afec">RACE_DWARF</a>:</div>
+<div class="line"><span class="lineno">   46</span>            <a class="code hl_function" href="../../de/d1b/a08600.html#a34a9653fbdc2b4a7c86a990fcc080e64">SetTaximaskNode</a>(6);</div>
+<div class="line"><span class="lineno">   47</span>            <span class="keywordflow">break</span>;     <span class="comment">// Dwarf</span></div>
+<div class="line"><span class="lineno">   48</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d0/d9d/a04583.html#abece64758d84aa91fa2b6bb82123cc80a9ef7a57e61b0f05d7d1e50b0de89820c">RACE_NIGHTELF</a>:</div>
+<div class="line"><span class="lineno">   49</span>            <a class="code hl_function" href="../../de/d1b/a08600.html#a34a9653fbdc2b4a7c86a990fcc080e64">SetTaximaskNode</a>(26);</div>
+<div class="line"><span class="lineno">   50</span>            <a class="code hl_function" href="../../de/d1b/a08600.html#a34a9653fbdc2b4a7c86a990fcc080e64">SetTaximaskNode</a>(27);</div>
+<div class="line"><span class="lineno">   51</span>            <span class="keywordflow">break</span>;     <span class="comment">// Night Elf</span></div>
+<div class="line"><span class="lineno">   52</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d0/d9d/a04583.html#abece64758d84aa91fa2b6bb82123cc80a2b9d8ca3a451a2bd60b29614cbc6b167">RACE_UNDEAD_PLAYER</a>:</div>
+<div class="line"><span class="lineno">   53</span>            <a class="code hl_function" href="../../de/d1b/a08600.html#a34a9653fbdc2b4a7c86a990fcc080e64">SetTaximaskNode</a>(11);</div>
+<div class="line"><span class="lineno">   54</span>            <span class="keywordflow">break</span>;<span class="comment">// Undead</span></div>
+<div class="line"><span class="lineno">   55</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d0/d9d/a04583.html#abece64758d84aa91fa2b6bb82123cc80af53d3825f30ea6b3545ddc8f8d5e6938">RACE_TAUREN</a>:</div>
+<div class="line"><span class="lineno">   56</span>            <a class="code hl_function" href="../../de/d1b/a08600.html#a34a9653fbdc2b4a7c86a990fcc080e64">SetTaximaskNode</a>(22);</div>
+<div class="line"><span class="lineno">   57</span>            <span class="keywordflow">break</span>;     <span class="comment">// Tauren</span></div>
+<div class="line"><span class="lineno">   58</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d0/d9d/a04583.html#abece64758d84aa91fa2b6bb82123cc80aa8a1dc88cc120a9a5b25d1f651d08538">RACE_GNOME</a>:</div>
+<div class="line"><span class="lineno">   59</span>            <a class="code hl_function" href="../../de/d1b/a08600.html#a34a9653fbdc2b4a7c86a990fcc080e64">SetTaximaskNode</a>(6);</div>
+<div class="line"><span class="lineno">   60</span>            <span class="keywordflow">break</span>;     <span class="comment">// Gnome</span></div>
+<div class="line"><span class="lineno">   61</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d0/d9d/a04583.html#abece64758d84aa91fa2b6bb82123cc80a101b985cb59bea5d2463ab04e339feaa">RACE_TROLL</a>:</div>
+<div class="line"><span class="lineno">   62</span>            <a class="code hl_function" href="../../de/d1b/a08600.html#a34a9653fbdc2b4a7c86a990fcc080e64">SetTaximaskNode</a>(23);</div>
+<div class="line"><span class="lineno">   63</span>            <span class="keywordflow">break</span>;     <span class="comment">// Troll</span></div>
+<div class="line"><span class="lineno">   64</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d0/d9d/a04583.html#abece64758d84aa91fa2b6bb82123cc80aa1357e803e964cc4737c2820e4ed1c7b">RACE_BLOODELF</a>:</div>
+<div class="line"><span class="lineno">   65</span>            <a class="code hl_function" href="../../de/d1b/a08600.html#a34a9653fbdc2b4a7c86a990fcc080e64">SetTaximaskNode</a>(82);</div>
+<div class="line"><span class="lineno">   66</span>            <span class="keywordflow">break</span>;     <span class="comment">// Blood Elf</span></div>
+<div class="line"><span class="lineno">   67</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d0/d9d/a04583.html#abece64758d84aa91fa2b6bb82123cc80a612f7cbe8f6ee425f6de12163d36f08d">RACE_DRAENEI</a>:</div>
+<div class="line"><span class="lineno">   68</span>            <a class="code hl_function" href="../../de/d1b/a08600.html#a34a9653fbdc2b4a7c86a990fcc080e64">SetTaximaskNode</a>(94);</div>
+<div class="line"><span class="lineno">   69</span>            <span class="keywordflow">break</span>;     <span class="comment">// Draenei</span></div>
+<div class="line"><span class="lineno">   70</span>    }</div>
+<div class="line"><span class="lineno">   71</span> </div>
+<div class="line"><span class="lineno">   72</span>    <span class="comment">// new continent starting masks (It will be accessible only at new map)</span></div>
+<div class="line"><span class="lineno">   73</span>    <span class="keywordflow">switch</span> (<a class="code hl_function" href="../../d2/d78/a08584.html#a076fb952331e730a803764e116a8a03a">Player::TeamIdForRace</a>(race))</div>
+<div class="line"><span class="lineno">   74</span>    {</div>
+<div class="line"><span class="lineno">   75</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d0/d9d/a04583.html#abfb349736a7699bdfcdb134035ef7865a77ec52d5d5f9771c1ac94fddaf7fb84e">TEAM_ALLIANCE</a>:</div>
+<div class="line"><span class="lineno">   76</span>            <a class="code hl_function" href="../../de/d1b/a08600.html#a34a9653fbdc2b4a7c86a990fcc080e64">SetTaximaskNode</a>(100);</div>
+<div class="line"><span class="lineno">   77</span>            <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">   78</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d0/d9d/a04583.html#abfb349736a7699bdfcdb134035ef7865a80bb98f9049563b07d3b738a0783366a">TEAM_HORDE</a>:</div>
+<div class="line"><span class="lineno">   79</span>            <a class="code hl_function" href="../../de/d1b/a08600.html#a34a9653fbdc2b4a7c86a990fcc080e64">SetTaximaskNode</a>(99);</div>
+<div class="line"><span class="lineno">   80</span>            <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">   81</span>        <span class="keywordflow">default</span>:</div>
+<div class="line"><span class="lineno">   82</span>            <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">   83</span>    }</div>
+<div class="line"><span class="lineno">   84</span>    <span class="comment">// level dependent taxi hubs</span></div>
+<div class="line"><span class="lineno">   85</span>    <span class="keywordflow">if</span> (level &gt;= 68)</div>
+<div class="line"><span class="lineno">   86</span>        <a class="code hl_function" href="../../de/d1b/a08600.html#a34a9653fbdc2b4a7c86a990fcc080e64">SetTaximaskNode</a>(213);                               <span class="comment">//Shattered Sun Staging Area</span></div>
+<div class="line"><span class="lineno">   87</span>}</div>
+<div class="ttc" id="aa03104_html_a6cc1bb46e69ee6dfbfbc4d71f8ba3004"><div class="ttname"><a href="../../da/dc0/a03104.html#a6cc1bb46e69ee6dfbfbc4d71f8ba3004">sOldContinentsNodesMask</a></div><div class="ttdeci">TaxiMask sOldContinentsNodesMask</div><div class="ttdef"><b>Definition:</b> DBCStores.cpp:177</div></div>
+<div class="ttc" id="aa04583_html_a86e4e3df7a5142175aa5df522d3346cfa7f7b30426fd386c181799196c1739058"><div class="ttname"><a href="../../d0/d9d/a04583.html#a86e4e3df7a5142175aa5df522d3346cfa7f7b30426fd386c181799196c1739058">CLASS_DEATH_KNIGHT</a></div><div class="ttdeci">@ CLASS_DEATH_KNIGHT</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:146</div></div>
+<div class="ttc" id="aa04583_html_abece64758d84aa91fa2b6bb82123cc80a101b985cb59bea5d2463ab04e339feaa"><div class="ttname"><a href="../../d0/d9d/a04583.html#abece64758d84aa91fa2b6bb82123cc80a101b985cb59bea5d2463ab04e339feaa">RACE_TROLL</a></div><div class="ttdeci">@ RACE_TROLL</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:78</div></div>
+<div class="ttc" id="aa04583_html_abece64758d84aa91fa2b6bb82123cc80a2b9d8ca3a451a2bd60b29614cbc6b167"><div class="ttname"><a href="../../d0/d9d/a04583.html#abece64758d84aa91fa2b6bb82123cc80a2b9d8ca3a451a2bd60b29614cbc6b167">RACE_UNDEAD_PLAYER</a></div><div class="ttdeci">@ RACE_UNDEAD_PLAYER</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:75</div></div>
+<div class="ttc" id="aa04583_html_abece64758d84aa91fa2b6bb82123cc80a446767743ece0d95b9bbe498ef1476b5"><div class="ttname"><a href="../../d0/d9d/a04583.html#abece64758d84aa91fa2b6bb82123cc80a446767743ece0d95b9bbe498ef1476b5">RACE_ORC</a></div><div class="ttdeci">@ RACE_ORC</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:72</div></div>
+<div class="ttc" id="aa04583_html_abece64758d84aa91fa2b6bb82123cc80a612f7cbe8f6ee425f6de12163d36f08d"><div class="ttname"><a href="../../d0/d9d/a04583.html#abece64758d84aa91fa2b6bb82123cc80a612f7cbe8f6ee425f6de12163d36f08d">RACE_DRAENEI</a></div><div class="ttdeci">@ RACE_DRAENEI</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:81</div></div>
+<div class="ttc" id="aa04583_html_abece64758d84aa91fa2b6bb82123cc80a9ef7a57e61b0f05d7d1e50b0de89820c"><div class="ttname"><a href="../../d0/d9d/a04583.html#abece64758d84aa91fa2b6bb82123cc80a9ef7a57e61b0f05d7d1e50b0de89820c">RACE_NIGHTELF</a></div><div class="ttdeci">@ RACE_NIGHTELF</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:74</div></div>
+<div class="ttc" id="aa04583_html_abece64758d84aa91fa2b6bb82123cc80aa1357e803e964cc4737c2820e4ed1c7b"><div class="ttname"><a href="../../d0/d9d/a04583.html#abece64758d84aa91fa2b6bb82123cc80aa1357e803e964cc4737c2820e4ed1c7b">RACE_BLOODELF</a></div><div class="ttdeci">@ RACE_BLOODELF</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:80</div></div>
+<div class="ttc" id="aa04583_html_abece64758d84aa91fa2b6bb82123cc80aa205d146ad42dcf361e62da3e2b2afec"><div class="ttname"><a href="../../d0/d9d/a04583.html#abece64758d84aa91fa2b6bb82123cc80aa205d146ad42dcf361e62da3e2b2afec">RACE_DWARF</a></div><div class="ttdeci">@ RACE_DWARF</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:73</div></div>
+<div class="ttc" id="aa04583_html_abece64758d84aa91fa2b6bb82123cc80aa8a1dc88cc120a9a5b25d1f651d08538"><div class="ttname"><a href="../../d0/d9d/a04583.html#abece64758d84aa91fa2b6bb82123cc80aa8a1dc88cc120a9a5b25d1f651d08538">RACE_GNOME</a></div><div class="ttdeci">@ RACE_GNOME</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:77</div></div>
+<div class="ttc" id="aa04583_html_abece64758d84aa91fa2b6bb82123cc80ab70d874fe662deadb3bc53be59d896e7"><div class="ttname"><a href="../../d0/d9d/a04583.html#abece64758d84aa91fa2b6bb82123cc80ab70d874fe662deadb3bc53be59d896e7">RACE_HUMAN</a></div><div class="ttdeci">@ RACE_HUMAN</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:71</div></div>
+<div class="ttc" id="aa04583_html_abece64758d84aa91fa2b6bb82123cc80af53d3825f30ea6b3545ddc8f8d5e6938"><div class="ttname"><a href="../../d0/d9d/a04583.html#abece64758d84aa91fa2b6bb82123cc80af53d3825f30ea6b3545ddc8f8d5e6938">RACE_TAUREN</a></div><div class="ttdeci">@ RACE_TAUREN</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:76</div></div>
+<div class="ttc" id="aa04583_html_abfb349736a7699bdfcdb134035ef7865a77ec52d5d5f9771c1ac94fddaf7fb84e"><div class="ttname"><a href="../../d0/d9d/a04583.html#abfb349736a7699bdfcdb134035ef7865a77ec52d5d5f9771c1ac94fddaf7fb84e">TEAM_ALLIANCE</a></div><div class="ttdeci">@ TEAM_ALLIANCE</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:760</div></div>
+<div class="ttc" id="aa04583_html_abfb349736a7699bdfcdb134035ef7865a80bb98f9049563b07d3b738a0783366a"><div class="ttname"><a href="../../d0/d9d/a04583.html#abfb349736a7699bdfcdb134035ef7865a80bb98f9049563b07d3b738a0783366a">TEAM_HORDE</a></div><div class="ttdeci">@ TEAM_HORDE</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:761</div></div>
+<div class="ttc" id="aa08584_html_a076fb952331e730a803764e116a8a03a"><div class="ttname"><a href="../../d2/d78/a08584.html#a076fb952331e730a803764e116a8a03a">Player::TeamIdForRace</a></div><div class="ttdeci">static TeamId TeamIdForRace(uint8 race)</div><div class="ttdef"><b>Definition:</b> Player.cpp:5871</div></div>
+<div class="ttc" id="aa08600_html_a34a9653fbdc2b4a7c86a990fcc080e64"><div class="ttname"><a href="../../de/d1b/a08600.html#a34a9653fbdc2b4a7c86a990fcc080e64">PlayerTaxi::SetTaximaskNode</a></div><div class="ttdeci">bool SetTaximaskNode(uint32 nodeidx)</div><div class="ttdef"><b>Definition:</b> PlayerTaxi.h:42</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00146">CLASS_DEATH_KNIGHT</a>, <a class="el" href="../../#l00080">m_taximask</a>, <a class="el" href="../../#l00080">RACE_BLOODELF</a>, <a class="el" href="../../#l00081">RACE_DRAENEI</a>, <a class="el" href="../../#l00073">RACE_DWARF</a>, <a class="el" href="../../#l00077">RACE_GNOME</a>, <a class="el" href="../../#l00071">RACE_HUMAN</a>, <a class="el" href="../../#l00074">RACE_NIGHTELF</a>, <a class="el" href="../../#l00072">RACE_ORC</a>, <a class="el" href="../../#l00076">RACE_TAUREN</a>, <a class="el" href="../../#l00078">RACE_TROLL</a>, <a class="el" href="../../#l00075">RACE_UNDEAD_PLAYER</a>, <a class="el" href="../../#l00042">SetTaximaskNode()</a>, <a class="el" href="../../#l00177">sOldContinentsNodesMask</a>, <a class="el" href="../../#l02247">TaxiMaskSize</a>, <a class="el" href="../../#l00760">TEAM_ALLIANCE</a>, <a class="el" href="../../#l00761">TEAM_HORDE</a>, and <a class="el" href="../../#l05871">Player::TeamIdForRace()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l01161">Player::InitTaxiNodesForLevel()</a>.</p>
+
+</div>
+</div>
+<a id="a76220474a42fc4207bb6f40b589a6511" name="a76220474a42fc4207bb6f40b589a6511"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a76220474a42fc4207bb6f40b589a6511">&#9670;&#160;</a></span>IsTaximaskNodeKnown()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool PlayerTaxi::IsTaximaskNodeKnown </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d5/db5/a00374.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>nodeidx</em></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   36</span>    {</div>
+<div class="line"><span class="lineno">   37</span>        <a class="code hl_typedef" href="../../d5/db5/a00374.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>  field   = <a class="code hl_typedef" href="../../d5/db5/a00374.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>((nodeidx - 1) / 32);</div>
+<div class="line"><span class="lineno">   38</span>        <a class="code hl_typedef" href="../../d5/db5/a00374.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> submask = 1 &lt;&lt; ((nodeidx - 1) % 32);</div>
+<div class="line"><span class="lineno">   39</span>        <span class="keywordflow">return</span> (<a class="code hl_variable" href="../../de/d1b/a08600.html#abf0d776badac2d25cf823609d5fec799">m_taximask</a>[field] &amp; submask) == submask;</div>
+<div class="line"><span class="lineno">   40</span>    }</div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l10567">Player::SendTaxiNodeStatusMultiple()</a>, and <a class="el" href="../../#l00035">WorldSession::SendTaxiStatus()</a>.</p>
+
+</div>
+</div>
+<a id="a6261b2b052d1a8385a480372450c7191" name="a6261b2b052d1a8385a480372450c7191"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6261b2b052d1a8385a480372450c7191">&#9670;&#160;</a></span>LoadTaxiDestinationsFromString()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool PlayerTaxi::LoadTaxiDestinationsFromString </td>
+          <td>(</td>
+          <td class="paramtype">std::string const &amp;&#160;</td>
+          <td class="paramname"><em>values</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d0/d9d/a04583.html#abfb349736a7699bdfcdb134035ef7865">TeamId</a>&#160;</td>
+          <td class="paramname"><em>teamId</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  131</span>{</div>
+<div class="line"><span class="lineno">  132</span>    <a class="code hl_function" href="../../de/d1b/a08600.html#ab4422be16e69b1f32bce002ab71ab5a5">ClearTaxiDestinations</a>();</div>
+<div class="line"><span class="lineno">  133</span> </div>
+<div class="line"><span class="lineno">  134</span>    std::vector&lt;std::string_view&gt; tokens = <a class="code hl_function" href="../../de/df1/a04758.html#a6b121485ace4118b9006db1fb89f90f2">Acore::Tokenize</a>(values, <span class="charliteral">&#39; &#39;</span>, <span class="keyword">false</span>);</div>
+<div class="line"><span class="lineno">  135</span>    <span class="keyword">auto</span> itr = tokens.begin();</div>
+<div class="line"><span class="lineno">  136</span>    <span class="keywordflow">if</span> (itr != tokens.end())</div>
+<div class="line"><span class="lineno">  137</span>    {</div>
+<div class="line"><span class="lineno">  138</span>        <span class="keywordflow">if</span> (<a class="code hl_typedef" href="../../d7/d00/a00401.html#aaf8f4d77efd311ec7818ab421294ef82">Optional&lt;uint32&gt;</a> faction = Acore::StringTo&lt;uint32&gt;(*itr))</div>
+<div class="line"><span class="lineno">  139</span>        {</div>
+<div class="line"><span class="lineno">  140</span>            <a class="code hl_variable" href="../../de/d1b/a08600.html#a52ed114d167bcc8079fe37c410b25b31">m_flightMasterFactionId</a> = *faction;</div>
+<div class="line"><span class="lineno">  141</span>        }</div>
+<div class="line"><span class="lineno">  142</span>        <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  143</span>        {</div>
+<div class="line"><span class="lineno">  144</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  145</span>        }</div>
+<div class="line"><span class="lineno">  146</span>    }</div>
+<div class="line"><span class="lineno">  147</span>    <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  148</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  149</span> </div>
+<div class="line"><span class="lineno">  150</span>    <span class="keywordflow">while</span> ((++itr) != tokens.end())</div>
+<div class="line"><span class="lineno">  151</span>    {</div>
+<div class="line"><span class="lineno">  152</span>        <span class="keywordflow">if</span> (<a class="code hl_typedef" href="../../d7/d00/a00401.html#aaf8f4d77efd311ec7818ab421294ef82">Optional&lt;uint32&gt;</a> node = Acore::StringTo&lt;uint32&gt;(*itr))</div>
+<div class="line"><span class="lineno">  153</span>        {</div>
+<div class="line"><span class="lineno">  154</span>            <a class="code hl_function" href="../../de/d1b/a08600.html#a1ecef7f42bb7197ce7c6ca35c7010ec3">AddTaxiDestination</a>(*node);</div>
+<div class="line"><span class="lineno">  155</span>        }</div>
+<div class="line"><span class="lineno">  156</span>        <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  157</span>        {</div>
+<div class="line"><span class="lineno">  158</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  159</span>        }</div>
+<div class="line"><span class="lineno">  160</span>    }</div>
+<div class="line"><span class="lineno">  161</span> </div>
+<div class="line"><span class="lineno">  162</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../de/d1b/a08600.html#a3aff323ba6dfee2f8776efb49e3ebfbf">m_TaxiDestinations</a>.empty())</div>
+<div class="line"><span class="lineno">  163</span>    {</div>
+<div class="line"><span class="lineno">  164</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  165</span>    }</div>
+<div class="line"><span class="lineno">  166</span> </div>
+<div class="line"><span class="lineno">  167</span>    <span class="comment">// Check integrity</span></div>
+<div class="line"><span class="lineno">  168</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../de/d1b/a08600.html#a3aff323ba6dfee2f8776efb49e3ebfbf">m_TaxiDestinations</a>.size() &lt; 2)</div>
+<div class="line"><span class="lineno">  169</span>    {</div>
+<div class="line"><span class="lineno">  170</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  171</span>    }</div>
+<div class="line"><span class="lineno">  172</span> </div>
+<div class="line"><span class="lineno">  173</span>    <span class="keywordflow">for</span> (std::size_t i = 1; i &lt; <a class="code hl_variable" href="../../de/d1b/a08600.html#a3aff323ba6dfee2f8776efb49e3ebfbf">m_TaxiDestinations</a>.size(); ++i)</div>
+<div class="line"><span class="lineno">  174</span>    {</div>
+<div class="line"><span class="lineno">  175</span>        <a class="code hl_typedef" href="../../d5/db5/a00374.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> cost;</div>
+<div class="line"><span class="lineno">  176</span>        <a class="code hl_typedef" href="../../d5/db5/a00374.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> path;</div>
+<div class="line"><span class="lineno">  177</span>        <a class="code hl_define" href="../../d1/d89/a03035.html#a736e30da2b5261060ac6cdbb5de3b787">sObjectMgr</a>-&gt;GetTaxiPath(<a class="code hl_variable" href="../../de/d1b/a08600.html#a3aff323ba6dfee2f8776efb49e3ebfbf">m_TaxiDestinations</a>[i - 1], <a class="code hl_variable" href="../../de/d1b/a08600.html#a3aff323ba6dfee2f8776efb49e3ebfbf">m_TaxiDestinations</a>[i], path, cost);</div>
+<div class="line"><span class="lineno">  178</span>        <span class="keywordflow">if</span> (!path)</div>
+<div class="line"><span class="lineno">  179</span>        {</div>
+<div class="line"><span class="lineno">  180</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  181</span>        }</div>
+<div class="line"><span class="lineno">  182</span>    }</div>
+<div class="line"><span class="lineno">  183</span> </div>
+<div class="line"><span class="lineno">  184</span>    <span class="comment">// can&#39;t load taxi path without mount set (quest taxi path?)</span></div>
+<div class="line"><span class="lineno">  185</span>    <span class="keywordflow">if</span> (!<a class="code hl_define" href="../../d1/d89/a03035.html#a736e30da2b5261060ac6cdbb5de3b787">sObjectMgr</a>-&gt;GetTaxiMountDisplayId(<a class="code hl_function" href="../../de/d1b/a08600.html#a4313e575d9bd2a60852f5e944f79ac71">GetTaxiSource</a>(), teamId, <span class="keyword">true</span>))</div>
+<div class="line"><span class="lineno">  186</span>    {</div>
+<div class="line"><span class="lineno">  187</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  188</span>    }</div>
+<div class="line"><span class="lineno">  189</span> </div>
+<div class="line"><span class="lineno">  190</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  191</span>}</div>
+<div class="ttc" id="aa00401_html_aaf8f4d77efd311ec7818ab421294ef82"><div class="ttname"><a href="../../d7/d00/a00401.html#aaf8f4d77efd311ec7818ab421294ef82">Optional</a></div><div class="ttdeci">std::optional&lt; T &gt; Optional</div><div class="ttdoc">Optional helper class to wrap optional values within.</div><div class="ttdef"><b>Definition:</b> Optional.h:24</div></div>
+<div class="ttc" id="aa04758_html_a6b121485ace4118b9006db1fb89f90f2"><div class="ttname"><a href="../../de/df1/a04758.html#a6b121485ace4118b9006db1fb89f90f2">Acore::Tokenize</a></div><div class="ttdeci">std::vector&lt; std::string_view &gt; Tokenize(std::string_view str, char sep, bool keepEmpty)</div><div class="ttdef"><b>Definition:</b> Tokenize.cpp:20</div></div>
+<div class="ttc" id="aa08600_html_a1ecef7f42bb7197ce7c6ca35c7010ec3"><div class="ttname"><a href="../../de/d1b/a08600.html#a1ecef7f42bb7197ce7c6ca35c7010ec3">PlayerTaxi::AddTaxiDestination</a></div><div class="ttdeci">void AddTaxiDestination(uint32 dest)</div><div class="ttdef"><b>Definition:</b> PlayerTaxi.h:62</div></div>
+<div class="ttc" id="aa08600_html_a4313e575d9bd2a60852f5e944f79ac71"><div class="ttname"><a href="../../de/d1b/a08600.html#a4313e575d9bd2a60852f5e944f79ac71">PlayerTaxi::GetTaxiSource</a></div><div class="ttdeci">uint32 GetTaxiSource() const</div><div class="ttdef"><b>Definition:</b> PlayerTaxi.h:63</div></div>
+<div class="ttc" id="aa08600_html_ab4422be16e69b1f32bce002ab71ab5a5"><div class="ttname"><a href="../../de/d1b/a08600.html#ab4422be16e69b1f32bce002ab71ab5a5">PlayerTaxi::ClearTaxiDestinations</a></div><div class="ttdeci">void ClearTaxiDestinations()</div><div class="ttdef"><b>Definition:</b> PlayerTaxi.h:61</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00062">AddTaxiDestination()</a>, <a class="el" href="../../#l00061">ClearTaxiDestinations()</a>, <a class="el" href="../../#l00063">GetTaxiSource()</a>, <a class="el" href="../../#l00082">m_flightMasterFactionId</a>, <a class="el" href="../../#l00081">m_TaxiDestinations</a>, <a class="el" href="../../#l01636">sObjectMgr</a>, and <a class="el" href="../../#l00020">Acore::Tokenize()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l04918">Player::LoadFromDB()</a>.</p>
+
+</div>
+</div>
+<a id="a010941cce9bf3b9c37d951c2ece4b3d4" name="a010941cce9bf3b9c37d951c2ece4b3d4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a010941cce9bf3b9c37d951c2ece4b3d4">&#9670;&#160;</a></span>LoadTaxiMask()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool PlayerTaxi::LoadTaxiMask </td>
+          <td>(</td>
+          <td class="paramtype">std::string_view&#160;</td>
+          <td class="paramname"><em>data</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   90</span>{</div>
+<div class="line"><span class="lineno">   91</span>    <span class="keywordtype">bool</span> warn = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">   92</span>    std::vector&lt;std::string_view&gt; tokens = <a class="code hl_function" href="../../de/df1/a04758.html#a6b121485ace4118b9006db1fb89f90f2">Acore::Tokenize</a>(data, <span class="charliteral">&#39; &#39;</span>, <span class="keyword">false</span>);</div>
+<div class="line"><span class="lineno">   93</span> </div>
+<div class="line"><span class="lineno">   94</span>    <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../d5/db5/a00374.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> index = 0; (index &lt; <a class="code hl_variable" href="../../de/d22/a04619.html#af55b7730b9b6bf94de4604ce96e812c0">TaxiMaskSize</a>) &amp;&amp; (index &lt; tokens.size()); ++index)</div>
+<div class="line"><span class="lineno">   95</span>    {</div>
+<div class="line"><span class="lineno">   96</span>        <span class="keywordflow">if</span> (<a class="code hl_typedef" href="../../d7/d00/a00401.html#aaf8f4d77efd311ec7818ab421294ef82">Optional&lt;uint32&gt;</a> mask = Acore::StringTo&lt;uint32&gt;(tokens[index]))</div>
+<div class="line"><span class="lineno">   97</span>        {</div>
+<div class="line"><span class="lineno">   98</span>            <span class="comment">// load and set bits only for existing taxi nodes</span></div>
+<div class="line"><span class="lineno">   99</span>            <a class="code hl_variable" href="../../de/d1b/a08600.html#abf0d776badac2d25cf823609d5fec799">m_taximask</a>[index] = <a class="code hl_variable" href="../../da/dc0/a03104.html#a37eee051ac703abd62ba855ed72c3f69">sTaxiNodesMask</a>[index] &amp; *mask;</div>
+<div class="line"><span class="lineno">  100</span> </div>
+<div class="line"><span class="lineno">  101</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../de/d1b/a08600.html#abf0d776badac2d25cf823609d5fec799">m_taximask</a>[index] != *mask)</div>
+<div class="line"><span class="lineno">  102</span>            {</div>
+<div class="line"><span class="lineno">  103</span>                warn = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  104</span>            }</div>
+<div class="line"><span class="lineno">  105</span>        }</div>
+<div class="line"><span class="lineno">  106</span>        <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  107</span>        {</div>
+<div class="line"><span class="lineno">  108</span>            <a class="code hl_variable" href="../../de/d1b/a08600.html#abf0d776badac2d25cf823609d5fec799">m_taximask</a>[index] = 0;</div>
+<div class="line"><span class="lineno">  109</span>            warn = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  110</span>        }</div>
+<div class="line"><span class="lineno">  111</span>    }</div>
+<div class="line"><span class="lineno">  112</span> </div>
+<div class="line"><span class="lineno">  113</span>    <span class="keywordflow">return</span> !warn;</div>
+<div class="line"><span class="lineno">  114</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00080">m_taximask</a>, <a class="el" href="../../#l00176">sTaxiNodesMask</a>, <a class="el" href="../../#l02247">TaxiMaskSize</a>, and <a class="el" href="../../#l00020">Acore::Tokenize()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l04918">Player::LoadFromDB()</a>.</p>
+
+</div>
+</div>
+<a id="aa417f33d57d94db8c8aa9df56e329835" name="aa417f33d57d94db8c8aa9df56e329835"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa417f33d57d94db8c8aa9df56e329835">&#9670;&#160;</a></span>NextTaxiDestination()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d5/db5/a00374.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> PlayerTaxi::NextTaxiDestination </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   67</span>    {</div>
+<div class="line"><span class="lineno">   68</span>        <a class="code hl_variable" href="../../de/d1b/a08600.html#a3aff323ba6dfee2f8776efb49e3ebfbf">m_TaxiDestinations</a>.pop_front();</div>
+<div class="line"><span class="lineno">   69</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../de/d1b/a08600.html#aa54293e7ea1125b0e7dd2a79f9a7e0a0">GetTaxiDestination</a>();</div>
+<div class="line"><span class="lineno">   70</span>    }</div>
+<div class="ttc" id="aa08600_html_aa54293e7ea1125b0e7dd2a79f9a7e0a0"><div class="ttname"><a href="../../de/d1b/a08600.html#aa54293e7ea1125b0e7dd2a79f9a7e0a0">PlayerTaxi::GetTaxiDestination</a></div><div class="ttdeci">uint32 GetTaxiDestination() const</div><div class="ttdef"><b>Definition:</b> PlayerTaxi.h:64</div></div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00455">FlightPathMovementGenerator::DoUpdate()</a>.</p>
+
+</div>
+</div>
+<a id="a0cffd730b09becde5f65882bc5c0832c" name="a0cffd730b09becde5f65882bc5c0832c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0cffd730b09becde5f65882bc5c0832c">&#9670;&#160;</a></span>SaveTaxiDestinationsToString()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::string PlayerTaxi::SaveTaxiDestinationsToString </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  194</span>{</div>
+<div class="line"><span class="lineno">  195</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../de/d1b/a08600.html#a3aff323ba6dfee2f8776efb49e3ebfbf">m_TaxiDestinations</a>.empty())</div>
+<div class="line"><span class="lineno">  196</span>    {</div>
+<div class="line"><span class="lineno">  197</span>        <span class="keywordflow">return</span> <span class="stringliteral">&quot;&quot;</span>;</div>
+<div class="line"><span class="lineno">  198</span>    }</div>
+<div class="line"><span class="lineno">  199</span> </div>
+<div class="line"><span class="lineno">  200</span>    <a class="code hl_define" href="../../df/d98/a00107.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(<a class="code hl_variable" href="../../de/d1b/a08600.html#a3aff323ba6dfee2f8776efb49e3ebfbf">m_TaxiDestinations</a>.size() &gt;= 2);</div>
+<div class="line"><span class="lineno">  201</span> </div>
+<div class="line"><span class="lineno">  202</span>    std::ostringstream ss;</div>
+<div class="line"><span class="lineno">  203</span>    ss &lt;&lt; <a class="code hl_variable" href="../../de/d1b/a08600.html#a52ed114d167bcc8079fe37c410b25b31">m_flightMasterFactionId</a> &lt;&lt; <span class="charliteral">&#39; &#39;</span>;</div>
+<div class="line"><span class="lineno">  204</span> </div>
+<div class="line"><span class="lineno">  205</span>    <span class="keywordflow">for</span> (std::size_t i = 0; i &lt; <a class="code hl_variable" href="../../de/d1b/a08600.html#a3aff323ba6dfee2f8776efb49e3ebfbf">m_TaxiDestinations</a>.size(); ++i)</div>
+<div class="line"><span class="lineno">  206</span>    {</div>
+<div class="line"><span class="lineno">  207</span>        ss &lt;&lt; <a class="code hl_variable" href="../../de/d1b/a08600.html#a3aff323ba6dfee2f8776efb49e3ebfbf">m_TaxiDestinations</a>[i] &lt;&lt; <span class="charliteral">&#39; &#39;</span>;</div>
+<div class="line"><span class="lineno">  208</span>    }</div>
+<div class="line"><span class="lineno">  209</span> </div>
+<div class="line"><span class="lineno">  210</span>    <span class="keywordflow">return</span> ss.str();</div>
+<div class="line"><span class="lineno">  211</span>}</div>
+<div class="ttc" id="aa00107_html_af343b20373ba49a92fce523e948f2ab3"><div class="ttname"><a href="../../df/d98/a00107.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a></div><div class="ttdeci">#define ASSERT</div><div class="ttdef"><b>Definition:</b> Errors.h:68</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00082">m_flightMasterFactionId</a>, and <a class="el" href="../../#l00081">m_TaxiDestinations</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l14736">Player::_SaveCharacter()</a>.</p>
+
+</div>
+</div>
+<a id="a2be37f977bdf5dc787e1923b4d1ed12e" name="a2be37f977bdf5dc787e1923b4d1ed12e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2be37f977bdf5dc787e1923b4d1ed12e">&#9670;&#160;</a></span>SetFlightMasterFactionTemplateId()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void PlayerTaxi::SetFlightMasterFactionTemplateId </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d5/db5/a00374.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>factionTemplateId</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   75</span>{ <a class="code hl_variable" href="../../de/d1b/a08600.html#a52ed114d167bcc8079fe37c410b25b31">m_flightMasterFactionId</a> = factionTemplateId; }</div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l10294">Player::ActivateTaxiPathTo()</a>.</p>
+
+</div>
+</div>
+<a id="a34a9653fbdc2b4a7c86a990fcc080e64" name="a34a9653fbdc2b4a7c86a990fcc080e64"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a34a9653fbdc2b4a7c86a990fcc080e64">&#9670;&#160;</a></span>SetTaximaskNode()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool PlayerTaxi::SetTaximaskNode </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d5/db5/a00374.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>nodeidx</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   43</span>    {</div>
+<div class="line"><span class="lineno">   44</span>        <a class="code hl_typedef" href="../../d5/db5/a00374.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>  field   = <a class="code hl_typedef" href="../../d5/db5/a00374.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>((nodeidx - 1) / 32);</div>
+<div class="line"><span class="lineno">   45</span>        <a class="code hl_typedef" href="../../d5/db5/a00374.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> submask = 1 &lt;&lt; ((nodeidx - 1) % 32);</div>
+<div class="line"><span class="lineno">   46</span>        <span class="keywordflow">if</span> ((<a class="code hl_variable" href="../../de/d1b/a08600.html#abf0d776badac2d25cf823609d5fec799">m_taximask</a>[field] &amp; submask) != submask)</div>
+<div class="line"><span class="lineno">   47</span>        {</div>
+<div class="line"><span class="lineno">   48</span>            <a class="code hl_variable" href="../../de/d1b/a08600.html#abf0d776badac2d25cf823609d5fec799">m_taximask</a>[field] |= submask;</div>
+<div class="line"><span class="lineno">   49</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">   50</span>        }</div>
+<div class="line"><span class="lineno">   51</span>        <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">   52</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">   53</span>    }</div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00023">InitTaxiNodesForLevel()</a>.</p>
+
+</div>
+</div>
+<h2 class="groupheader">Friends And Related Function Documentation</h2>
+<a id="aa8a947319a6f00895a3c443f5cb258ad" name="aa8a947319a6f00895a3c443f5cb258ad"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa8a947319a6f00895a3c443f5cb258ad">&#9670;&#160;</a></span>operator&lt;&lt;</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::ostringstream &amp; operator&lt;&lt; </td>
+          <td>(</td>
+          <td class="paramtype">std::ostringstream &amp;&#160;</td>
+          <td class="paramname"><em>ss</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../de/d1b/a08600.html">PlayerTaxi</a> const &amp;&#160;</td>
+          <td class="paramname"><em>taxi</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">friend</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  229</span>{</div>
+<div class="line"><span class="lineno">  230</span>    <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../d5/db5/a00374.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> i = 0; i &lt; <a class="code hl_variable" href="../../de/d22/a04619.html#af55b7730b9b6bf94de4604ce96e812c0">TaxiMaskSize</a>; ++i)</div>
+<div class="line"><span class="lineno">  231</span>        ss &lt;&lt; taxi.m_taximask[i] &lt;&lt; <span class="charliteral">&#39; &#39;</span>;</div>
+<div class="line"><span class="lineno">  232</span>    <span class="keywordflow">return</span> ss;</div>
+<div class="line"><span class="lineno">  233</span>}</div>
+</div><!-- fragment -->
+</div>
+</div>
+<h2 class="groupheader">Member Data Documentation</h2>
+<a id="a52ed114d167bcc8079fe37c410b25b31" name="a52ed114d167bcc8079fe37c410b25b31"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a52ed114d167bcc8079fe37c410b25b31">&#9670;&#160;</a></span>m_flightMasterFactionId</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d5/db5/a00374.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> PlayerTaxi::m_flightMasterFactionId</td>
         </tr>
       </table>
   </td>
@@ -673,7 +1003,55 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00294">BroadcastToFriendListers()</a>, <a class="el" href="../../#l00319">LoadFromDB()</a>, and <a class="el" href="../../#l00134">RemovePlayerSocial()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00235">GetFlightMasterFactionTemplate()</a>, <a class="el" href="../../#l00130">LoadTaxiDestinationsFromString()</a>, and <a class="el" href="../../#l00193">SaveTaxiDestinationsToString()</a>.</p>
+
+</div>
+</div>
+<a id="a3aff323ba6dfee2f8776efb49e3ebfbf" name="a3aff323ba6dfee2f8776efb49e3ebfbf"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3aff323ba6dfee2f8776efb49e3ebfbf">&#9670;&#160;</a></span>m_TaxiDestinations</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::deque&lt;<a class="el" href="../../d5/db5/a00374.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt; PlayerTaxi::m_TaxiDestinations</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00213">GetCurrentTaxiPath()</a>, <a class="el" href="../../#l00130">LoadTaxiDestinationsFromString()</a>, and <a class="el" href="../../#l00193">SaveTaxiDestinationsToString()</a>.</p>
+
+</div>
+</div>
+<a id="abf0d776badac2d25cf823609d5fec799" name="abf0d776badac2d25cf823609d5fec799"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abf0d776badac2d25cf823609d5fec799">&#9670;&#160;</a></span>m_taximask</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../de/d22/a04619.html#a415cc3633225b2cfe241a12bce9aeb9b">TaxiMask</a> PlayerTaxi::m_taximask</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00116">AppendTaximaskTo()</a>, <a class="el" href="../../#l00023">InitTaxiNodesForLevel()</a>, and <a class="el" href="../../#l00089">LoadTaxiMask()</a>.</p>
 
 </div>
 </div>
@@ -682,8 +1060,8 @@ Private Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../de/d1b/a08600.html">SocialMgr</a></li>
-    <li class="footer">Generated on Mon Mar 3 2025 20:45:54 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../de/d1b/a08600.html">PlayerTaxi</a></li>
+    <li class="footer">Generated on Mon Apr 28 2025 20:45:01 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

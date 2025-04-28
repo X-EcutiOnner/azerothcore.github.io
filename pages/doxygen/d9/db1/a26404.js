@@ -1,7 +1,7 @@
 var a26404 =
 [
-    [ "CalcPeriodic", "d9/db1/a26404.html#af787d0c8738284e757f808e7d138bdc6", null ],
-    [ "PrepareAuraScript", "d9/db1/a26404.html#a383db196133bbecee06fe443fdb1bc24", null ],
-    [ "Register", "d9/db1/a26404.html#a1c617b5b26805b0feb468c55337f9d4c", null ],
-    [ "Update", "d9/db1/a26404.html#af3f4a7b82e099313d609df7f85f02d00", null ]
+    [ "HandleDummy", "d9/db1/a26404.html#a2ea424e6c740305340001b1c09bfec91", null ],
+    [ "PrepareSpellScript", "d9/db1/a26404.html#afe722c970155b47eac94bb9861a4eb46", null ],
+    [ "Register", "d9/db1/a26404.html#a2c2b96f1c00da9884ec9d01fe897c8c1", null ],
+    [ "Validate", "d9/db1/a26404.html#ac5f782da8b5e387c31e048759baf3e16", null ]
 ];

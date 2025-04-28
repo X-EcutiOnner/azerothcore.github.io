@@ -1,8 +1,6 @@
 var a18552 =
 [
-    [ "CountTargets", "df/d02/a18552.html#a3000d234134bb3d4b2e17fd1eff8f4f0", null ],
-    [ "HandleScript", "df/d02/a18552.html#af058a0c458463bdba4a4eb73aa91c113", null ],
-    [ "PrepareSpellScript", "df/d02/a18552.html#a83b2fad7cdc189a17129e25a015952ff", null ],
-    [ "Register", "df/d02/a18552.html#af5e214ab418ca05ddd637c83d7a7e71a", null ],
-    [ "Validate", "df/d02/a18552.html#a63e8e899cb1469dca26cd5fa34b85408", null ]
+    [ "npc_captain_grondelAI", "df/d02/a18552.html#afbc971fc03584b87229318309d51a2f5", null ],
+    [ "Reset", "df/d02/a18552.html#a7d3878822e77fba66891e87e23bd3740", null ],
+    [ "UpdateAI", "df/d02/a18552.html#a4af8548092b49653805224bd4c0ac0a2", null ]
 ];

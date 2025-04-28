@@ -1,6 +1,6 @@
 var a19156 =
 [
-    [ "ChargeRifts", "d2/d94/a19156.html#aec98a12dec1f2ad98e00d399b0e2a1d5", null ],
-    [ "Execute", "d2/d94/a19156.html#a8d01bf861d37c25413dc14eee16a2939", null ],
-    [ "_caster", "d2/d94/a19156.html#a3cbf5f7e26de337dadd9d96a43d728b0", null ]
+    [ "npc_scion_of_eternityAI", "da/d78/a19160.html", "da/d78/a19160" ],
+    [ "npc_scion_of_eternity", "d2/d94/a19156.html#ac1d66d65b5d4468b908443a64dc2de1c", null ],
+    [ "GetAI", "d2/d94/a19156.html#a7c27a55f177fb9e31f73fa1cb227fa27", null ]
 ];

@@ -1,7 +1,6 @@
 var a17516 =
 [
-    [ "FilterTargets", "d3/d02/a17516.html#a32b2fa87fb2eaca3db0801fbfe4b8aaa", null ],
-    [ "Load", "d3/d02/a17516.html#a39e8ec4726a1f6c2911c165c7187f291", null ],
-    [ "PrepareSpellScript", "d3/d02/a17516.html#a7526a6df4c25136f4be78e753c6abf62", null ],
-    [ "Register", "d3/d02/a17516.html#a0d01b8292c1c071a5c828a5a88617bd5", null ]
+    [ "npc_gunship_gunnerAI", "df/dcc/a17520.html", "df/dcc/a17520" ],
+    [ "npc_gunship_gunner", "d3/d02/a17516.html#a409711f22b35eae0c0d48bc23545e592", null ],
+    [ "GetAI", "d3/d02/a17516.html#a2b28f5edfddf7a8c94a2a5475ec575dc", null ]
 ];

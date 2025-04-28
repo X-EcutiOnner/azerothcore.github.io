@@ -1,11 +1,10 @@
 var a14132 =
 [
-    [ "npc_snowfall_glade_playmate", "d5/dde/a14132.html#aa31b472ad55b240faff4bc2c1ee02ebc", null ],
-    [ "MoveInLineOfSight", "d5/dde/a14132.html#a92143d0bd0eb57b59069ca7a66e16195", null ],
-    [ "Reset", "d5/dde/a14132.html#a89040d9843852b01123e102b49509857", null ],
-    [ "UpdateAI", "d5/dde/a14132.html#a6dedc1cae1e568a792341842e8a922e8", null ],
-    [ "orphanGUID", "d5/dde/a14132.html#ad9bdbee8ec178b0a6c7ff125dc698279", null ],
-    [ "phase", "d5/dde/a14132.html#a9a5b2348313063bc389b99158fc72e3f", null ],
-    [ "playerGUID", "d5/dde/a14132.html#a4ca4198fdbf3c98291255916ee53c637", null ],
-    [ "timer", "d5/dde/a14132.html#ac3d736f2cd62289b88940e0a6ddcd957", null ]
+    [ "npc_coren_direbrew_sisters", "d5/dde/a14132.html#a415ea0ebd044236f5f4c4d6c28896e00", null ],
+    [ "GetGUID", "d5/dde/a14132.html#a61863117e71ebfb7f1c4c83780ece7bc", null ],
+    [ "JustEngagedWith", "d5/dde/a14132.html#a34e0b6af032240c152c463c221d99335", null ],
+    [ "SetGUID", "d5/dde/a14132.html#ada2e446a929bbba088d3c7e09d117f93", null ],
+    [ "UpdateAI", "d5/dde/a14132.html#a7434b08d12d3f0902d1944b75323560c", null ],
+    [ "_scheduler", "d5/dde/a14132.html#a9d8ca85e7bbd3cc9c61c2bbb38b7d222", null ],
+    [ "_targetGUID", "d5/dde/a14132.html#a801a6811124a7db3a31ec492ef954b20", null ]
 ];

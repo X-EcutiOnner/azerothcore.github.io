@@ -1,6 +1,6 @@
 var a20832 =
 [
-    [ "CheckCast", "d3/d3d/a20832.html#a715a58956db4253c8adfed039833debd", null ],
-    [ "PrepareSpellScript", "d3/d3d/a20832.html#a3b03178d8ab54db36a19ba5a27444917", null ],
-    [ "Register", "d3/d3d/a20832.html#a6309c53b9e3828e76d34a77a8fe35df1", null ]
+    [ "FilterTargets", "d3/d3d/a20832.html#adaeee235184ddc36e90e532091183056", null ],
+    [ "PrepareSpellScript", "d3/d3d/a20832.html#a599f604e872d3a5a4ed2b155caefdc9f", null ],
+    [ "Register", "d3/d3d/a20832.html#ab79041a2536878498744555475bce5c8", null ]
 ];

@@ -1,6 +1,8 @@
 var a23492 =
 [
-    [ "boss_porung", "dd/d15/a23492.html#acef31010461bbf716ac9b13d950807ee", null ],
-    [ "JustDied", "dd/d15/a23492.html#ac5c36f875692f49d1d0195694d85e5c1", null ],
-    [ "JustEngagedWith", "dd/d15/a23492.html#a9d44f51e4710e01bdc7d345ff3bba9dc", null ]
+    [ "instance_hellfire_ramparts_InstanceMapScript", "dd/d15/a23492.html#aebc047b45cb4560a38df89db75f8efab", null ],
+    [ "Initialize", "dd/d15/a23492.html#a115a36ec26e15e23be4d78250d86d814", null ],
+    [ "OnGameObjectCreate", "dd/d15/a23492.html#a0639fcd867616d1f04aacde44020bb30", null ],
+    [ "SetBossState", "dd/d15/a23492.html#a7a38526ca7b9a7c7c04231f8f8efd2f7", null ],
+    [ "felIronChestGUID", "dd/d15/a23492.html#a7cfcac5dbe4562268679ddceaf8ec8ea", null ]
 ];

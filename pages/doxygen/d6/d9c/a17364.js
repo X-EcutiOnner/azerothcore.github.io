@@ -1,6 +1,6 @@
 var a17364 =
 [
-    [ "npc_stinky_iccAI", "d0/dca/a17368.html", "d0/dca/a17368" ],
-    [ "npc_stinky_icc", "d6/d9c/a17364.html#a8f6a3687d4b330f532a0d892dbf429a0", null ],
-    [ "GetAI", "d6/d9c/a17364.html#aaf6b7b1a7469d1e353617f63f11f7781", null ]
+    [ "ModAuraValue", "d6/d9c/a17364.html#a359453c6253beb6f729209c6d3d79af7", null ],
+    [ "PrepareSpellScript", "d6/d9c/a17364.html#a4f916abef69782be10cc6be9ba0124f5", null ],
+    [ "Register", "d6/d9c/a17364.html#a4a387df07c88144288c4327ce86b730a", null ]
 ];

@@ -1,10 +1,8 @@
 var a11180 =
 [
-    [ "EffectHook", "df/de8/a11180.html#a4a197e061d918dfba2bc486f3393b00d", null ],
-    [ "~EffectHook", "df/de8/a11180.html#aa234f63b530764d12064acbe3f5c9299", null ],
-    [ "CheckEffect", "df/de8/a11180.html#ae8823c5d649d182f572818bf3db72902", null ],
-    [ "EffIndexToString", "df/de8/a11180.html#ab818ed274cfd66ecc565b8535b751517", null ],
-    [ "GetAffectedEffectsMask", "df/de8/a11180.html#a31faa86590e22f5ab3ca518f4df02840", null ],
-    [ "IsEffectAffected", "df/de8/a11180.html#a697041ffa562bb6fff792beb159c7af2", null ],
-    [ "effIndex", "df/de8/a11180.html#ab5eb48ef7ac903938f92db0e856e0295", null ]
+    [ "first", "df/de8/a11180.html#a49aea8bfed353c2c552f6195b8e9f60a", null ],
+    [ "last", "df/de8/a11180.html#a05a8077c7ec39bcca66fe84aa1da7040", null ],
+    [ "next", "df/de8/a11180.html#a0a7791b7069912a013299e7afaf4142f", null ],
+    [ "prev", "df/de8/a11180.html#ae27b7d0aa5a2ae5cb75a7f0d397c849f", null ],
+    [ "rank", "df/de8/a11180.html#a0b58cef8fc18f91fa59b8c7d7b9f9872", null ]
 ];

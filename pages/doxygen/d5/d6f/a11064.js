@@ -1,7 +1,6 @@
 var a11064 =
 [
-    [ "chance", "d5/d6f/a11064.html#a3326edd1fa36b85b9ab7a84a6f6f9d1b", null ],
-    [ "triggeredByAura", "d5/d6f/a11064.html#abb48d6093570ba9c5488f200544a1e83", null ],
-    [ "triggeredByEffIdx", "d5/d6f/a11064.html#a82d752dedab39f417af225add6af1403", null ],
-    [ "triggeredSpell", "d5/d6f/a11064.html#a02ac12119655f9ab82347d21cc68803a", null ]
+    [ "ChannelTargetData", "d5/d6f/a11064.html#a26f2a2037750712d8718d9537603e3a1", null ],
+    [ "channelGUID", "d5/d6f/a11064.html#afad1c896d6a137ebb224fd636ba4d7f2", null ],
+    [ "spellDst", "d5/d6f/a11064.html#aa5cfec093a599f4bf33ebf0c73a2f4ac", null ]
 ];

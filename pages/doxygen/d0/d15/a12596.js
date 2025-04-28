@@ -1,7 +1,10 @@
 var a12596 =
 [
-    [ "OnRemove", "d0/d15/a12596.html#a3fdb54a848aa81a7f4e8c2bd772ca3e5", null ],
-    [ "PrepareAuraScript", "d0/d15/a12596.html#a92a12c16381c433a946eeb1fed8ab7a9", null ],
-    [ "Register", "d0/d15/a12596.html#af26ef4eae84aa3982287fde0b4f65dcd", null ],
-    [ "Validate", "d0/d15/a12596.html#aeabc1d487afdb30b80d9a5235c306df1", null ]
+    [ "npc_netherspite_infernal", "d0/d15/a12596.html#af9837d7a671533523ce323c083c4e847", null ],
+    [ "DamageTaken", "d0/d15/a12596.html#aee9b38f3590e08b16de1789576986a09", null ],
+    [ "JustEngagedWith", "d0/d15/a12596.html#a76d8944ca2d9b2f1aa5b635ce94bacfb", null ],
+    [ "KilledUnit", "d0/d15/a12596.html#a49c37fbebed2951c493962c1a3bd0339", null ],
+    [ "MoveInLineOfSight", "d0/d15/a12596.html#a7ecce97cef0adda03910e87d9fd82f71", null ],
+    [ "SpellHit", "d0/d15/a12596.html#abb6c7d0b5e231e460b069198b16106b7", null ],
+    [ "UpdateAI", "d0/d15/a12596.html#a575040456c0eb4d343e7c0c5f75159b4", null ]
 ];

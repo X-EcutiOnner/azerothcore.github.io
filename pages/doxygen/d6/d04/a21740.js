@@ -1,10 +1,7 @@
 var a21740 =
 [
-    [ "npc_emilyAI", "d6/d04/a21740.html#afd1e82e36c8850fbe118ab6abbdb73ce", null ],
-    [ "JustEngagedWith", "d6/d04/a21740.html#a498ddc6969d398fe7a44824f4f8c8893", null ],
-    [ "JustSummoned", "d6/d04/a21740.html#a4730c94b54d2ee5160011557704b35f2", null ],
-    [ "Reset", "d6/d04/a21740.html#a8f196a6e1b21bef162b7ba4d7aeae208", null ],
-    [ "WaypointReached", "d6/d04/a21740.html#a0a68676a6eac8fbe2b634098268eb516", null ],
-    [ "_mrfloppyGUID", "d6/d04/a21740.html#a12a1fbe1ef4767698ab969e51e2f0e8e", null ],
-    [ "_RavenousworgGUID", "d6/d04/a21740.html#aa2a5e45366be9f89221453e00179e1a3", null ]
+    [ "FilterTargets", "d6/d04/a21740.html#af62588a225f0b701a0f9321677ae22b8", null ],
+    [ "HandleScript", "d6/d04/a21740.html#ad68fad08b2613de096e504bb7dea61cd", null ],
+    [ "PrepareSpellScript", "d6/d04/a21740.html#a76ac3fe280585a4e2b2d599b4bcc7846", null ],
+    [ "Register", "d6/d04/a21740.html#a8fdbf1c7ab67c0ef094d738ec9a169d8", null ]
 ];

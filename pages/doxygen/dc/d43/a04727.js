@@ -1,7 +1,9 @@
 var a04727 =
 [
-    [ "ACSoapThread", "dc/d43/a04727.html#a69e574c9a3cecf7c395cd036bb672ed3", null ],
-    [ "ns1__executeCommand", "dc/d43/a04727.html#af9d30c869db1c560fead6671ff96ad82", null ],
-    [ "process_message", "dc/d43/a04727.html#abf914e30c869f88f2fafb9f656320c6a", null ],
-    [ "namespaces", "dc/d43/a04727.html#aabfac0a3b8d38498bc5e1e3bc465ead6", null ]
+    [ "ListFilesResult", "dc/d43/a04727.html#a030b28c9f552c0de4a4b4844fc5e6101", [
+      [ "LISTFILE_DIRECTORY_NOT_FOUND", "dc/d43/a04727.html#a030b28c9f552c0de4a4b4844fc5e6101a868c0f60f6afa222577730606ed493a6", null ],
+      [ "LISTFILE_OK", "dc/d43/a04727.html#a030b28c9f552c0de4a4b4844fc5e6101a952e90f65bfd2eefbd80a8b830eb5687", null ]
+    ] ],
+    [ "getDirContents", "dc/d43/a04727.html#a3620968f3c1f5c1a3bb0c809ab0eb4ab", null ],
+    [ "matchWildcardFilter", "dc/d43/a04727.html#a0b1c31a5b3e8bebc7fa860b40f7997e1", null ]
 ];

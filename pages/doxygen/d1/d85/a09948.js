@@ -1,6 +1,6 @@
 var a09948 =
 [
-    [ "TargetedMovementGeneratorBase", "d1/d85/a09948.html#a670b36c578b32b7d582e8f4b6ef656c3", null ],
-    [ "stopFollowing", "d1/d85/a09948.html#adb0a6f1a63ce265fc63bf362e2f60488", null ],
-    [ "i_target", "d1/d85/a09948.html#a427d8512cbd0ccbaca65dcf48bbe39f6", null ]
+    [ "AssistanceDistractMovementGenerator", "d1/d85/a09948.html#ae472d28ebb4624855632ac7f0bd7b219", null ],
+    [ "Finalize", "d1/d85/a09948.html#a1511f74a52e5ad92471e554eb77c235a", null ],
+    [ "GetMovementGeneratorType", "d1/d85/a09948.html#a233eb9333ea365955589932ddbd18d8a", null ]
 ];

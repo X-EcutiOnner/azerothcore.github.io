@@ -1,6 +1,6 @@
 var a17256 =
 [
-    [ "FilterTargets", "d5/dac/a17256.html#a59255a2cee0f9d8a75ca183647851779", null ],
-    [ "PrepareSpellScript", "d5/dac/a17256.html#af8d1cc9c709aeb3a68d1f452bb605c71", null ],
-    [ "Register", "d5/dac/a17256.html#a6b6dbeaa8feb8eac4441a87cdf371a36", null ]
+    [ "PrepareSpellScript", "d5/dac/a17256.html#a37899f12707930d038de38bae92c9aff", null ],
+    [ "Register", "d5/dac/a17256.html#a3677d2e7db842f899e6e2d2c8c9a3d42", null ],
+    [ "SelectDest", "d5/dac/a17256.html#a4caabf8afac621ef70bbbac1a2b5177e", null ]
 ];

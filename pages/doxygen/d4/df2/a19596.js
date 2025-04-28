@@ -1,7 +1,6 @@
 var a19596 =
 [
-    [ "HandlePeriodic", "d4/df2/a19596.html#a14fd25f78c9e2bfbdaeb07f3233628b6", null ],
-    [ "PrepareAuraScript", "d4/df2/a19596.html#ad78b06733a8609dd39e885db2f23edba", null ],
-    [ "Register", "d4/df2/a19596.html#ac9ae9be546964752869163896c4045dd", null ],
-    [ "Validate", "d4/df2/a19596.html#afcca84d03b29ef7569c03f973a6c191b", null ]
+    [ "npc_collapsing_starAI", "d4/df2/a19596.html#ac389b380a8f315ae50a8cd809393a773", null ],
+    [ "DamageTaken", "d4/df2/a19596.html#a424fac98093eb9d02cda5027523ad06a", null ],
+    [ "JustSummoned", "d4/df2/a19596.html#ae70fcb66171fe5f87d96aaf2f52e35bc", null ]
 ];

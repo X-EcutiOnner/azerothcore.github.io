@@ -1,9 +1,11 @@
 var a12964 =
 [
-    [ "npc_risen_guardianAI", "df/d9a/a12964.html#a50eb3de52205fc1bbc6936f0708c68a6", null ],
-    [ "IsSummonedBy", "df/d9a/a12964.html#ad9f45b9007c1ff74d0f725fbf7f00abe", null ],
-    [ "KilledUnit", "df/d9a/a12964.html#abc7afaa685a436b34ff76edcc6c25e54", null ],
-    [ "Gandling", "df/d9a/a12964.html#a93013b905260aa51341b22d1627cc986", null ],
-    [ "instance", "df/d9a/a12964.html#a96f1835989f646c708b8ef0cc9999e63", null ],
-    [ "room", "df/d9a/a12964.html#a5862a184b6daa92da133cc6c360a993d", null ]
+    [ "npc_valkyr_battle_maidenAI", "df/d9a/a12964.html#a859b63621c500c7a36150fadbb460b2b", null ],
+    [ "Reset", "df/d9a/a12964.html#a3ca06a5822f1b5ae625b1dcc71ec0c30", null ],
+    [ "UpdateAI", "df/d9a/a12964.html#a33251b8d8abb9b46a5af4cb4e92472b8", null ],
+    [ "FlyBackTimer", "df/d9a/a12964.html#a625eb33fb32f935c5109a8d3d70c5ae7", null ],
+    [ "phase", "df/d9a/a12964.html#abd5d71272aa575be8583254217194e49", null ],
+    [ "x", "df/d9a/a12964.html#a2dbae2865b6c6db4e82b7d1dc8a67739", null ],
+    [ "y", "df/d9a/a12964.html#acccea63fedf38de14f7818016830a0a9", null ],
+    [ "z", "df/d9a/a12964.html#adde328d26ad752a9e5f2ab32eab2a4e0", null ]
 ];

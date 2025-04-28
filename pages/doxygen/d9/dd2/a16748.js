@@ -1,12 +1,8 @@
 var a16748 =
 [
-    [ "npc_tortured_riflemanAI", "d9/dd2/a16748.html#a65dc1d2ba5769aed1a0b2487322ff2b1", null ],
-    [ "AttackStart", "d9/dd2/a16748.html#aaf2b73d0b60791f887207842580d91dc", null ],
-    [ "DoAction", "d9/dd2/a16748.html#acb941c20d911a567c93bb0f92105fdfd", null ],
-    [ "EnterEvadeMode", "d9/dd2/a16748.html#aabd56fc4aaed247a9ac3ce5bcdc4cb50", null ],
-    [ "JustDied", "d9/dd2/a16748.html#a5796a96626937e1026cc1fec0eba4e0b", null ],
-    [ "JustEngagedWith", "d9/dd2/a16748.html#ac5d8f17c48269da06c14643e82c88567", null ],
-    [ "Reset", "d9/dd2/a16748.html#a04f9c7056e063d436df66f079127d1a7", null ],
-    [ "UpdateAI", "d9/dd2/a16748.html#a194a615eef3651cdc97d4e4ad57bf017", null ],
-    [ "events", "d9/dd2/a16748.html#a958f27c1f917dc1ae0a9f84549481f93", null ]
+    [ "npc_hor_leaderAI", "db/d38/a16752.html", "db/d38/a16752" ],
+    [ "npc_hor_leader", "d9/dd2/a16748.html#a5c8d6cce242d144755fb14879f7f17d3", null ],
+    [ "GetAI", "d9/dd2/a16748.html#a55e7357aa6dff1efdff08541e88413e9", null ],
+    [ "OnGossipHello", "d9/dd2/a16748.html#afb46ea0b6926ad5d9b87b1d6a5e04591", null ],
+    [ "OnGossipSelect", "d9/dd2/a16748.html#ab5d01ae2803bab43b2c701d0cb1d4280", null ]
 ];

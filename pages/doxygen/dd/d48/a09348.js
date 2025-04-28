@@ -1,9 +1,8 @@
 var a09348 =
 [
-    [ "NearestHostileUnitCheck", "dd/d48/a09348.html#aa1d706a1eb1de6168b568e70008e2d3b", null ],
-    [ "NearestHostileUnitCheck", "dd/d48/a09348.html#a2fe620370289850eb0362823de2072d1", null ],
-    [ "operator()", "dd/d48/a09348.html#a04c85a77d660bbc74279d1062dabc375", null ],
-    [ "i_playerOnly", "dd/d48/a09348.html#a64c5fce466521a6d6d78eeda0708d65e", null ],
-    [ "m_range", "dd/d48/a09348.html#a801d56a180e196943cfc2cefb6c5dda5", null ],
-    [ "me", "dd/d48/a09348.html#a67cef25e6f725ea42f0377df34d48495", null ]
+    [ "AnyAttackableUnitExceptForOriginalCasterInObjectRangeCheck", "dd/d48/a09348.html#ab3a1ebf25ef0da5df75a5a6a8bbf3ddf", null ],
+    [ "operator()", "dd/d48/a09348.html#a2b38f9e66b1ba3bb678d763937852e02", null ],
+    [ "i_funit", "dd/d48/a09348.html#aed6fe2e6d17e2076a373b32de071cd18", null ],
+    [ "i_obj", "dd/d48/a09348.html#a65245ce627d5ccfde557f2d7e744ead6", null ],
+    [ "i_range", "dd/d48/a09348.html#aff91ead572f2ed0d1912dbd0180196d5", null ]
 ];

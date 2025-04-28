@@ -1,13 +1,6 @@
 var a27556 =
 [
-    [ "DBCDatabaseLoader", "dc/d42/a27556.html#a2efbbd3799e5f72fecaeaf9365579482", null ],
-    [ "DBCDatabaseLoader", "dc/d42/a27556.html#a7d93e6d37796f341edcf25062743c5b5", null ],
-    [ "CloneStringToPool", "dc/d42/a27556.html#a68e5ae50c980aa81b051d0622575bb2d", null ],
-    [ "Load", "dc/d42/a27556.html#a1b116dca8b01e0462a2e6c08245a49a3", null ],
-    [ "operator=", "dc/d42/a27556.html#a46f7d5670840892f7a8714ce0b6cde13", null ],
-    [ "_dbcFormat", "dc/d42/a27556.html#aa749118514d0b784ac6df295bd820d8e", null ],
-    [ "_recordSize", "dc/d42/a27556.html#a6721538ebbcfe020fb195d44b3bdbd11", null ],
-    [ "_sqlIndexPos", "dc/d42/a27556.html#ac1b5b191615d3e3121ea70965b0d495a", null ],
-    [ "_sqlTableName", "dc/d42/a27556.html#ab6590071edf5311ccf484d48e4fd125e", null ],
-    [ "_stringPool", "dc/d42/a27556.html#a52b5b86f0efb8ad0716bc0171a3aa740", null ]
+    [ "npc_spring_rabbitAI", "d1/d73/a27560.html", "d1/d73/a27560" ],
+    [ "npc_spring_rabbit", "dc/d42/a27556.html#a4e2ed1f556edd535a8d262d7e0bdfa1a", null ],
+    [ "GetAI", "dc/d42/a27556.html#a968933658fbcc7f7cbdfca90fd9a68dc", null ]
 ];

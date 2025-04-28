@@ -1,6 +1,6 @@
 var a16848 =
 [
-    [ "boss_ickAI", "d1/d22/a16852.html", "d1/d22/a16852" ],
-    [ "boss_ick", "de/d38/a16848.html#af97d7f96bc48ba245e28c18614b9369e", null ],
-    [ "GetAI", "de/d38/a16848.html#a355285766712a31b704c23fe85d19e5f", null ]
+    [ "npc_hor_risen_witch_doctorAI", "d1/d22/a16852.html", "d1/d22/a16852" ],
+    [ "npc_hor_risen_witch_doctor", "de/d38/a16848.html#add06a10c9b4342b136b5cab49338b095", null ],
+    [ "GetAI", "de/d38/a16848.html#a055a8d29d8e6a58b92968ed1c39c1b1d", null ]
 ];

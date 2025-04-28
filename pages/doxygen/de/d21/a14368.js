@@ -1,5 +1,6 @@
 var a14368 =
 [
-    [ "npc_pilgrims_bounty_plate", "de/d21/a14368.html#ac0217b8fb3a0fbf418ce2d3ca286f2eb", null ],
-    [ "SpellHit", "de/d21/a14368.html#a7797b7a532336542ef37f0643df8dec0", null ]
+    [ "OnApply", "de/d21/a14368.html#a30d33268b58507c228a4628031bffca0", null ],
+    [ "PrepareAuraScript", "de/d21/a14368.html#a16dc3f52152d63b5512690c761f9915a", null ],
+    [ "Register", "de/d21/a14368.html#a6494e4d7277e910ffa3b30c333117f00", null ]
 ];

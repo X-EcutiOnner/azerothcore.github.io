@@ -1,6 +1,7 @@
 var a13348 =
 [
-    [ "instance_uldaman_InstanceMapScript", "d6/df6/a13352.html", "d6/df6/a13352" ],
-    [ "instance_uldaman", "da/dcc/a13348.html#a854807db729d15aa4a09aad051fe3bda", null ],
-    [ "GetInstanceScript", "da/dcc/a13348.html#a672bb8b5a16d29d25a191ab90d8007b4", null ]
+    [ "HandlePull", "da/dcc/a13348.html#a5a43bb53d3c534054498f8366d617e5a", null ],
+    [ "PrepareSpellScript", "da/dcc/a13348.html#aec00f82a35c8154e7d4c1f47c52d486f", null ],
+    [ "RaycastToObstacle", "da/dcc/a13348.html#ad6dfdf70e9ffd43510c4791f804ce340", null ],
+    [ "Register", "da/dcc/a13348.html#a6da76afd5feaa0d60be70ff8469d78bc", null ]
 ];

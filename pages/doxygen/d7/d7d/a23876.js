@@ -1,8 +1,7 @@
 var a23876 =
 [
-    [ "npc_ancestral_wolfAI", "d7/d7d/a23876.html#a59ccca7093575f4bcac57a4751d977d4", null ],
-    [ "MoveInLineOfSight", "d7/d7d/a23876.html#aec5788f0be3c1dcb63b3e61b50ae39c1", null ],
-    [ "Reset", "d7/d7d/a23876.html#a9778a1648ca0007f7daf4ee98308d8d2", null ],
-    [ "WaypointReached", "d7/d7d/a23876.html#a2b553c29823e5ef888ee02a3ed413386", null ],
-    [ "ryga", "d7/d7d/a23876.html#ac238214604720e298124b58c35d58e05", null ]
+    [ "OnPeriodic", "d7/d7d/a23876.html#a7ef787ac13b97aa225a5340f7bfcc4e3", null ],
+    [ "PrepareAuraScript", "d7/d7d/a23876.html#a6f7db06cc1ace68ee0076077773b1659", null ],
+    [ "Register", "d7/d7d/a23876.html#a559347bedad9fd8a0e6f4c5b14333c06", null ],
+    [ "Validate", "d7/d7d/a23876.html#aae1c2d5b8eb30341a67e261e69a4d294", null ]
 ];

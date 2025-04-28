@@ -1,6 +1,6 @@
 var a25356 =
 [
-    [ "HandlePreventAura", "d4/d39/a25356.html#a62b9a62f5379f4ca98921c7fe4278b58", null ],
-    [ "PrepareSpellScript", "d4/d39/a25356.html#a61b2f1d5634219f9c48a9ea75e90d423", null ],
-    [ "Register", "d4/d39/a25356.html#ab1a90b7939c146b40badfd6424c35cf7", null ]
+    [ "CheckCast", "d4/d39/a25356.html#a849de7a9bc8d22ca1556e4e798807eaa", null ],
+    [ "PrepareSpellScript", "d4/d39/a25356.html#aadbfe7c69dac7cbc76aee2bfb790b612", null ],
+    [ "Register", "d4/d39/a25356.html#a2ca1fd7353e69d1028b8a9b2882d7931", null ]
 ];

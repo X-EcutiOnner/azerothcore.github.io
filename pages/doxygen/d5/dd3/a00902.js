@@ -1,23 +1,18 @@
 var a00902 =
 [
-    [ "BattlegroundBE", "db/dc8/a07333.html", "db/dc8/a07333" ],
-    [ "BattlegroundBEGameObjects", "d5/dd3/a00902.html#a1b0280d2208da5214e6132c85687575e", [
-      [ "BG_BE_OBJECT_TYPE_DOOR_1", "d5/dd3/a00902.html#a1b0280d2208da5214e6132c85687575ea7668b0cb45bb8fcb5d169d52601f8ffc", null ],
-      [ "BG_BE_OBJECT_TYPE_DOOR_2", "d5/dd3/a00902.html#a1b0280d2208da5214e6132c85687575ea4f5f05ba355663c10696918af17e7285", null ],
-      [ "BG_BE_OBJECT_TYPE_DOOR_3", "d5/dd3/a00902.html#a1b0280d2208da5214e6132c85687575ea46f638ce865d69bfd79373d8105a8e83", null ],
-      [ "BG_BE_OBJECT_TYPE_DOOR_4", "d5/dd3/a00902.html#a1b0280d2208da5214e6132c85687575eabd8ea2d0bde54698184bcfff07ffb6f6", null ],
-      [ "BG_BE_OBJECT_TYPE_BUFF_1", "d5/dd3/a00902.html#a1b0280d2208da5214e6132c85687575ea828640a929b6a7559e1828cfdbf95f10", null ],
-      [ "BG_BE_OBJECT_TYPE_BUFF_2", "d5/dd3/a00902.html#a1b0280d2208da5214e6132c85687575eac4122fbc499fb8d6ca4de47dfa6f3bab", null ]
+    [ "npc_maredis_firestar", "d5/d12/a13424.html", "d5/d12/a13424" ],
+    [ "npc_maredis_firestar::npc_maredis_firestarAI", "d3/d47/a13428.html", "d3/d47/a13428" ],
+    [ "MaredisFirestar", "d5/dd3/a00902.html#a85e4eeb368c070d1186f1c7c07ab1a42", [
+      [ "ITEM_LIBRAM_OF_RUMINATION", "d5/dd3/a00902.html#a85e4eeb368c070d1186f1c7c07ab1a42a677909b58ffc52e1a197d376f77a711e", null ],
+      [ "ITEM_LIBRAM_OF_CONSTITUTION", "d5/dd3/a00902.html#a85e4eeb368c070d1186f1c7c07ab1a42a160f2d52664367620f0ef85b255b3277", null ],
+      [ "ITEM_LIBRAM_OF_TENACITY", "d5/dd3/a00902.html#a85e4eeb368c070d1186f1c7c07ab1a42acee05c856cffac557e6f7f8b4b32f173", null ],
+      [ "ITEM_LIBRAM_OF_RESILIENCE", "d5/dd3/a00902.html#a85e4eeb368c070d1186f1c7c07ab1a42a1dc0b7882355b2615ad112a6ffb2d5eb", null ],
+      [ "ITEM_LIBRAM_OF_VORACITY", "d5/dd3/a00902.html#a85e4eeb368c070d1186f1c7c07ab1a42a500bb7292e2d51375145250bffb2031f", null ],
+      [ "GOSSIP_LIBRAM_OF_RUMINATION", "d5/dd3/a00902.html#a85e4eeb368c070d1186f1c7c07ab1a42a25fa31f89537239dc264cdc4afa11c44", null ],
+      [ "GOSSIP_LIBRAM_OF_CONSTITUTION", "d5/dd3/a00902.html#a85e4eeb368c070d1186f1c7c07ab1a42ab11fb925c43c8e71171b5468f9bfbb41", null ],
+      [ "GOSSIP_LIBRAM_OF_TENACITY", "d5/dd3/a00902.html#a85e4eeb368c070d1186f1c7c07ab1a42a7e1d61976fe826333b77ae3822af1d4e", null ],
+      [ "GOSSIP_LIBRAM_OF_RESILIENCE", "d5/dd3/a00902.html#a85e4eeb368c070d1186f1c7c07ab1a42a5c617ffeaa015ea23b065a79ac6e8bde", null ],
+      [ "GOSSIP_LIBRAM_OF_VORACITY", "d5/dd3/a00902.html#a85e4eeb368c070d1186f1c7c07ab1a42a2bc47c8c26124b40bfcf34e4fc21d733", null ]
     ] ],
-    [ "BattlegroundBEObjectTypes", "d5/dd3/a00902.html#ac30a97954fa7cc5e46429c1b15e02aa6", [
-      [ "BG_BE_OBJECT_DOOR_1", "d5/dd3/a00902.html#ac30a97954fa7cc5e46429c1b15e02aa6a0df93d02d5b293963bebae8c18c3ae17", null ],
-      [ "BG_BE_OBJECT_DOOR_2", "d5/dd3/a00902.html#ac30a97954fa7cc5e46429c1b15e02aa6a1bc43e32d61d4d2a6e605214b3498d0e", null ],
-      [ "BG_BE_OBJECT_DOOR_3", "d5/dd3/a00902.html#ac30a97954fa7cc5e46429c1b15e02aa6a65b47239921b2cc82d549ec06684dcbb", null ],
-      [ "BG_BE_OBJECT_DOOR_4", "d5/dd3/a00902.html#ac30a97954fa7cc5e46429c1b15e02aa6ac892d4ba71d39d87a754d48158edafc5", null ],
-      [ "BG_BE_OBJECT_BUFF_1", "d5/dd3/a00902.html#ac30a97954fa7cc5e46429c1b15e02aa6a7467355220ec6cd486b4d31f2017b176", null ],
-      [ "BG_BE_OBJECT_BUFF_2", "d5/dd3/a00902.html#ac30a97954fa7cc5e46429c1b15e02aa6ac11771a5f0517038daf7fe96e7cf00eb", null ],
-      [ "BG_BE_OBJECT_READY_MARKER_1", "d5/dd3/a00902.html#ac30a97954fa7cc5e46429c1b15e02aa6a24a38ed55bbaaed44bea527c0b11cd09", null ],
-      [ "BG_BE_OBJECT_READY_MARKER_2", "d5/dd3/a00902.html#ac30a97954fa7cc5e46429c1b15e02aa6a6bd3edd28c4d84ebc22f367173a2704d", null ],
-      [ "BG_BE_OBJECT_MAX", "d5/dd3/a00902.html#ac30a97954fa7cc5e46429c1b15e02aa6a4f887547bcc1f47df4522c823c507d6f", null ]
-    ] ]
+    [ "AddSC_burning_steppes", "d5/dd3/a00902.html#a8cf2165dba1d5e845d5e20fbc1ce33d6", null ]
 ];

@@ -1,7 +1,6 @@
 var a24180 =
 [
-    [ "npc_isla_starmaneAI", "d7/d49/a24184.html", "d7/d49/a24184" ],
-    [ "npc_isla_starmane", "da/d3e/a24180.html#af30b3658d8f19be0dc07cb35eeb04668", null ],
-    [ "GetAI", "da/d3e/a24180.html#a0ea2dbaab4115772f92849e06aa85575", null ],
-    [ "OnQuestAccept", "da/d3e/a24180.html#afeda3da3761e96e2901ea06c5a26fa3a", null ]
+    [ "npc_shattrathflaskvendors", "da/d3e/a24180.html#ab74b234406c2022bf519242a7842458a", null ],
+    [ "OnGossipHello", "da/d3e/a24180.html#af165d6f4640b41a92b36d77c1f1c1161", null ],
+    [ "OnGossipSelect", "da/d3e/a24180.html#ad9eb60422dfc663e6d020a630c09ee05", null ]
 ];

@@ -1,8 +1,6 @@
 var a24616 =
 [
-    [ "AfterApply", "d6/d6a/a24616.html#a4d2941ebb326d603ac08f428f811c29b", null ],
-    [ "AfterRemove", "d6/d6a/a24616.html#ac1e50413041edbecd5cc4189a1121cb5", null ],
-    [ "PrepareAuraScript", "d6/d6a/a24616.html#afa99d3e45e4a54c41b59ec317ffdd9b9", null ],
-    [ "Register", "d6/d6a/a24616.html#a78e30a950b9fc08dff5072028816b8b4", null ],
-    [ "Validate", "d6/d6a/a24616.html#ac3502abb9d6ef213ffd2413eba7916b2", null ]
+    [ "CheckCast", "d6/d6a/a24616.html#a583e19667a83ada4cd793fbf391f9e93", null ],
+    [ "PrepareSpellScript", "d6/d6a/a24616.html#ac6adda0dbe544cf2457060647c01de0f", null ],
+    [ "Register", "d6/d6a/a24616.html#a50d1284f1113bfdd0b39690efabe6b9b", null ]
 ];

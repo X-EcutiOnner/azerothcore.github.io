@@ -1,13 +1,8 @@
 var a13736 =
 [
-    [ "npc_forest_frog", "d6/d7a/a13736.html#a6a5e24a11f8d2add6a3e9d71e2e647bb", null ],
-    [ "DoSpawnRandom", "d6/d7a/a13736.html#aac140826b8c4b7ce55925b5abeee936e", null ],
-    [ "JustEngagedWith", "d6/d7a/a13736.html#aa22c4eb7eb3a84db94ce8eb38afd18f5", null ],
-    [ "MovementInform", "d6/d7a/a13736.html#a8260157062b3e4ef48ad47b4f9bf66ac", null ],
-    [ "SpellHit", "d6/d7a/a13736.html#a9501955507e1f236bb48384928fd6a32", null ],
-    [ "UpdateAI", "d6/d7a/a13736.html#a5e6785d71bfb7f1d7b915723898a99fc", null ],
-    [ "events", "d6/d7a/a13736.html#a8ef7e1eb3d7196c070cc3b6618291dc0", null ],
-    [ "eventTimer", "d6/d7a/a13736.html#ac6bf7433f79a9c2803072e7b5370a1c7", null ],
-    [ "instance", "d6/d7a/a13736.html#a6294f89eccdb9e5f9edbe8bccb164690", null ],
-    [ "PlayerGUID", "d6/d7a/a13736.html#a3544a83bb22e12d247e562ef32e378c0", null ]
+    [ "FilterTargets", "d6/d7a/a13736.html#a43e45471ad3b8a0583aeb413d48a0f01", null ],
+    [ "OnHit", "d6/d7a/a13736.html#ac25886536c353f09838188362fb8ae84", null ],
+    [ "PrepareSpellScript", "d6/d7a/a13736.html#aab0e63163b8d84f20bbe0bcdc60c9a85", null ],
+    [ "Register", "d6/d7a/a13736.html#afa419365236c09914f758846978e2cbb", null ],
+    [ "Validate", "d6/d7a/a13736.html#ae62334ed5f46641def4a38ee178cd9d0", null ]
 ];

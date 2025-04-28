@@ -1,9 +1,6 @@
 var a14960 =
 [
-    [ "npc_giant_eye_tentacle", "dd/da5/a14960.html#a1adebf586a8a4413bb048936b90ddd3c", null ],
-    [ "JustDied", "dd/da5/a14960.html#a72cac50a711868256a41c543d0cef3da", null ],
-    [ "JustEngagedWith", "dd/da5/a14960.html#ac26b16e709e62c429b7ca88815bbc4cd", null ],
-    [ "Reset", "dd/da5/a14960.html#a4e605a585099d136d8f6bd42b6450f1d", null ],
-    [ "UpdateAI", "dd/da5/a14960.html#aacae6ea2616af2ad9515167fc1bab61d", null ],
-    [ "_portalGUID", "dd/da5/a14960.html#af9784b6d00e50ec28ed27361aaf3442f", null ]
+    [ "HandleScript", "dd/da5/a14960.html#a88551ffd3dbe4fb9cc122a68813234f0", null ],
+    [ "PrepareSpellScript", "dd/da5/a14960.html#ae4d8cad1b5de248a30085142fcc2cc7b", null ],
+    [ "Register", "dd/da5/a14960.html#a434f0aef7f32edb6990efb992e4d57af", null ]
 ];

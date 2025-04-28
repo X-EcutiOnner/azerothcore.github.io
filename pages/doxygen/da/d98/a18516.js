@@ -1,15 +1,21 @@
 var a18516 =
 [
-    [ "npc_frostwing_vrykulAI", "da/d98/a18516.html#ab68f844aa58f5d22586ba6d7526fc7ae", null ],
-    [ "AttackStart", "da/d98/a18516.html#a42a53fedc36aa71f52900a416e414fc6", null ],
-    [ "CanAIAttack", "da/d98/a18516.html#a91300d1178a2b433bd8830ec1066368e", null ],
-    [ "JustEngagedWith", "da/d98/a18516.html#abc75688914cd4f984448dd3f21527d89", null ],
-    [ "JustSummoned", "da/d98/a18516.html#a116908f5689d6d75570379f13ed0bd90", null ],
-    [ "Reset", "da/d98/a18516.html#a4baa20089b50acee617c4b85bc6b8478", null ],
-    [ "SpellHitTarget", "da/d98/a18516.html#a645dd6d85676cdd7ec1845c184dd2f93", null ],
-    [ "UpdateAI", "da/d98/a18516.html#a810d1b1829623836f88b5a3ddfc277c5", null ],
-    [ "events", "da/d98/a18516.html#accae0992a349361d85200863f5ac4f81", null ],
-    [ "events2", "da/d98/a18516.html#a16682657d7cfb03ccd9f31d481c7af83", null ],
-    [ "isRanged", "da/d98/a18516.html#a6f2e29ca9c859fe96648a2b55ccb773f", null ],
-    [ "summons", "da/d98/a18516.html#ac75d1c18a8f70ff88f5925a3df6e5924", null ]
+    [ "npc_crok_scourgebaneAI", "da/d98/a18516.html#a0b59ffcc00aeb1b9ac23ddc0b1504054", null ],
+    [ "CanAIAttack", "da/d98/a18516.html#a0a26fdecc1748b96d0e7598a80449dc9", null ],
+    [ "DamageTaken", "da/d98/a18516.html#ae727d192e29c63d5aa699b491425cdc6", null ],
+    [ "DoAction", "da/d98/a18516.html#aaf9b034a97510ce7d58aa2d9ecfc0c14", null ],
+    [ "Reset", "da/d98/a18516.html#a6c1d480fff0a4a6361986dc82a945534", null ],
+    [ "SetGUID", "da/d98/a18516.html#ad2493bd37a68c9b2709e25231863a863", null ],
+    [ "UpdateAI", "da/d98/a18516.html#a109b1bf28de7903557c9c03957fa7d71", null ],
+    [ "UpdateEscortAI", "da/d98/a18516.html#ae424685131ee51e8d6390e4ddb341b04", null ],
+    [ "WaypointReached", "da/d98/a18516.html#a58c3e2ed37552b3adde1aa4f1a8ba0ba", null ],
+    [ "WaypointStart", "da/d98/a18516.html#a900611179c3c9d4ceffd86261f62151b", null ],
+    [ "_aliveTrash", "da/d98/a18516.html#ae0c99157db5daa07643715a56217bccd", null ],
+    [ "_currentWPid", "da/d98/a18516.html#a541f03486042a87f3ff223d7424d32f8", null ],
+    [ "_didUnderTenPercentText", "da/d98/a18516.html#a8cb4c0126549dbb10e0b60d164ba7924", null ],
+    [ "_events", "da/d98/a18516.html#a8f6b1618223d4660cce33d34d215f323", null ],
+    [ "_handledWP4", "da/d98/a18516.html#acf6f70f93dbca7f5139af17ec411b971", null ],
+    [ "_instance", "da/d98/a18516.html#a0698a3297da669fd5440743be200c378", null ],
+    [ "_isEventDone", "da/d98/a18516.html#a184a0a5b62cfc33c9ae71c0d2d651c27", null ],
+    [ "_wipeCheckTimer", "da/d98/a18516.html#a91be80fbce6f6f0ae6a249128ba319c9", null ]
 ];

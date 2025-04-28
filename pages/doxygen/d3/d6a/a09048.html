@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: GridRefMgr&lt; OBJECT &gt; Class Template Reference</title>
+<title>AzerothCore: GridObjectLoader Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,304 +105,379 @@ $(document).ready(function(){initNavTree('d3/d6a/a09048.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#pub-types">Public Types</a> &#124;
 <a href="#pub-methods">Public Member Functions</a> &#124;
+<a href="#pri-methods">Private Member Functions</a> &#124;
+<a href="#pri-attribs">Private Attributes</a> &#124;
 <a href="../../d9/d21/a09045.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">GridRefMgr&lt; OBJECT &gt; Class Template Reference</div></div>
+  <div class="headertitle"><div class="title">GridObjectLoader Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">GridRefMgr.h</a>&quot;</code></p>
-<div class="dynheader">
-Inheritance diagram for GridRefMgr&lt; OBJECT &gt;:</div>
-<div class="dyncontent">
- <div class="center">
-  <img src="../../d3/d6a/a09048.png" usemap="#GridRefMgr_3C_20OBJECT_20_3E_map" alt=""/>
-  <map id="GridRefMgr_3C_20OBJECT_20_3E_map" name="GridRefMgr_3C_20OBJECT_20_3E_map">
-<area href="../../df/dfd/a05208.html" alt="RefMgr&lt; GridRefMgr&lt; OBJECT &gt;, OBJECT &gt;" shape="rect" coords="0,56,275,80"/>
-<area href="../../d9/dff/a05196.html" alt="LinkedListHead" shape="rect" coords="0,0,275,24"/>
-  </map>
-</div></div>
+<p><code>#include &quot;<a class="el" href="../../">GridObjectLoader.h</a>&quot;</code></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-types" name="pub-types"></a>
-Public Types</h2></td></tr>
-<tr class="memitem:a6bf9d06cfe6cb2e7df465ebf2acc099f"><td class="memItemLeft" align="right" valign="top">typedef <a class="el" href="../../d6/d6a/a05200.html">LinkedListHead::Iterator</a>&lt; <a class="el" href="../../d0/d3d/a09052.html">GridReference</a>&lt; OBJECT &gt; &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d6a/a09048.html#a6bf9d06cfe6cb2e7df465ebf2acc099f">iterator</a></td></tr>
-<tr class="separator:a6bf9d06cfe6cb2e7df465ebf2acc099f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="inherit_header pub_types_a05208"><td colspan="2" onclick="javascript:toggleInherit('pub_types_a05208')"><img src="../../closed.png" alt="-"/>&#160;Public Types inherited from <a class="el" href="../../df/dfd/a05208.html">RefMgr&lt; GridRefMgr&lt; OBJECT &gt;, OBJECT &gt;</a></td></tr>
-<tr class="memitem:a301cf316e15e5f55046c1c25ef2a4f5b inherit pub_types_a05208"><td class="memItemLeft" align="right" valign="top">typedef <a class="el" href="../../d6/d6a/a05200.html">LinkedListHead::Iterator</a>&lt; <a class="el" href="../../d6/d3f/a05204.html">Reference</a>&lt; <a class="el" href="../../d3/d6a/a09048.html">GridRefMgr</a>&lt; OBJECT &gt;, OBJECT &gt; &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dfd/a05208.html#a301cf316e15e5f55046c1c25ef2a4f5b">iterator</a></td></tr>
-<tr class="separator:a301cf316e15e5f55046c1c25ef2a4f5b inherit pub_types_a05208"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="inherit_header pub_types_a05196"><td colspan="2" onclick="javascript:toggleInherit('pub_types_a05196')"><img src="../../closed.png" alt="-"/>&#160;Public Types inherited from <a class="el" href="../../d9/dff/a05196.html">LinkedListHead</a></td></tr>
-<tr class="memitem:a57ec2565e503df8ef86e1df2889c8ee3 inherit pub_types_a05196"><td class="memItemLeft" align="right" valign="top">typedef <a class="el" href="../../d6/d6a/a05200.html">Iterator</a>&lt; <a class="el" href="../../d9/d4a/a05192.html">LinkedListElement</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/dff/a05196.html#a57ec2565e503df8ef86e1df2889c8ee3">iterator</a></td></tr>
-<tr class="separator:a57ec2565e503df8ef86e1df2889c8ee3 inherit pub_types_a05196"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:aa0156c2ad3ec5ca0df6f6a4c55d71a05"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d3d/a09052.html">GridReference</a>&lt; OBJECT &gt; *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d6a/a09048.html#aa0156c2ad3ec5ca0df6f6a4c55d71a05">getFirst</a> ()</td></tr>
-<tr class="separator:aa0156c2ad3ec5ca0df6f6a4c55d71a05"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a46a36813eaf752815a3f8c739db88a5d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d3d/a09052.html">GridReference</a>&lt; OBJECT &gt; *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d6a/a09048.html#a46a36813eaf752815a3f8c739db88a5d">getLast</a> ()</td></tr>
-<tr class="separator:a46a36813eaf752815a3f8c739db88a5d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1e4e67ba11ac8da077942a6581647bf3"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/d6a/a09048.html#a6bf9d06cfe6cb2e7df465ebf2acc099f">iterator</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d6a/a09048.html#a1e4e67ba11ac8da077942a6581647bf3">begin</a> ()</td></tr>
-<tr class="separator:a1e4e67ba11ac8da077942a6581647bf3"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a266acb421cfc6ccc56dc2acff3202971"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/d6a/a09048.html#a6bf9d06cfe6cb2e7df465ebf2acc099f">iterator</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d6a/a09048.html#a266acb421cfc6ccc56dc2acff3202971">end</a> ()</td></tr>
-<tr class="separator:a266acb421cfc6ccc56dc2acff3202971"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae69734978b5eec009a696861b7b7152b"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/d6a/a09048.html#a6bf9d06cfe6cb2e7df465ebf2acc099f">iterator</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d6a/a09048.html#ae69734978b5eec009a696861b7b7152b">rbegin</a> ()</td></tr>
-<tr class="separator:ae69734978b5eec009a696861b7b7152b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a3f7b88b333f1da3a6ffdfc8ec31d8f52"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/d6a/a09048.html#a6bf9d06cfe6cb2e7df465ebf2acc099f">iterator</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d6a/a09048.html#a3f7b88b333f1da3a6ffdfc8ec31d8f52">rend</a> ()</td></tr>
-<tr class="separator:a3f7b88b333f1da3a6ffdfc8ec31d8f52"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="inherit_header pub_methods_a05208"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_a05208')"><img src="../../closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="../../df/dfd/a05208.html">RefMgr&lt; GridRefMgr&lt; OBJECT &gt;, OBJECT &gt;</a></td></tr>
-<tr class="memitem:a72110d71a275f564d31d2e6c84c331c3 inherit pub_methods_a05208"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dfd/a05208.html#a72110d71a275f564d31d2e6c84c331c3">RefMgr</a> ()=default</td></tr>
-<tr class="separator:a72110d71a275f564d31d2e6c84c331c3 inherit pub_methods_a05208"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab386dd35fa62dbf7f1ba2131e6e99f7c inherit pub_methods_a05208"><td class="memItemLeft" align="right" valign="top">virtual&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dfd/a05208.html#ab386dd35fa62dbf7f1ba2131e6e99f7c">~RefMgr</a> ()</td></tr>
-<tr class="separator:ab386dd35fa62dbf7f1ba2131e6e99f7c inherit pub_methods_a05208"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a67de35d375c34c38db2b87481a141ebf inherit pub_methods_a05208"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/d3f/a05204.html">Reference</a>&lt; <a class="el" href="../../d3/d6a/a09048.html">GridRefMgr</a>&lt; OBJECT &gt;, OBJECT &gt; *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dfd/a05208.html#a67de35d375c34c38db2b87481a141ebf">getFirst</a> ()</td></tr>
-<tr class="separator:a67de35d375c34c38db2b87481a141ebf inherit pub_methods_a05208"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2636030fdcd2312e7c2556c2da3ef948 inherit pub_methods_a05208"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/d3f/a05204.html">Reference</a>&lt; <a class="el" href="../../d3/d6a/a09048.html">GridRefMgr</a>&lt; OBJECT &gt;, OBJECT &gt; const *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dfd/a05208.html#a2636030fdcd2312e7c2556c2da3ef948">getFirst</a> () const</td></tr>
-<tr class="separator:a2636030fdcd2312e7c2556c2da3ef948 inherit pub_methods_a05208"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6695bac4fd79bb428fd1f6a72ad6c3e3 inherit pub_methods_a05208"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/d3f/a05204.html">Reference</a>&lt; <a class="el" href="../../d3/d6a/a09048.html">GridRefMgr</a>&lt; OBJECT &gt;, OBJECT &gt; *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dfd/a05208.html#a6695bac4fd79bb428fd1f6a72ad6c3e3">getLast</a> ()</td></tr>
-<tr class="separator:a6695bac4fd79bb428fd1f6a72ad6c3e3 inherit pub_methods_a05208"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:afab4e70c39d83e38048c5fe80166e5fa inherit pub_methods_a05208"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/d3f/a05204.html">Reference</a>&lt; <a class="el" href="../../d3/d6a/a09048.html">GridRefMgr</a>&lt; OBJECT &gt;, OBJECT &gt; const *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dfd/a05208.html#afab4e70c39d83e38048c5fe80166e5fa">getLast</a> () const</td></tr>
-<tr class="separator:afab4e70c39d83e38048c5fe80166e5fa inherit pub_methods_a05208"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aacaf11c49931c87bd52b8382065447d3 inherit pub_methods_a05208"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../df/dfd/a05208.html#a301cf316e15e5f55046c1c25ef2a4f5b">iterator</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dfd/a05208.html#aacaf11c49931c87bd52b8382065447d3">begin</a> ()</td></tr>
-<tr class="separator:aacaf11c49931c87bd52b8382065447d3 inherit pub_methods_a05208"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aab6573a792b9b24c3dc4a690c6ff77d9 inherit pub_methods_a05208"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../df/dfd/a05208.html#a301cf316e15e5f55046c1c25ef2a4f5b">iterator</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dfd/a05208.html#aab6573a792b9b24c3dc4a690c6ff77d9">end</a> ()</td></tr>
-<tr class="separator:aab6573a792b9b24c3dc4a690c6ff77d9 inherit pub_methods_a05208"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4c64b9aad3611aff0d1c419b5d5fa8f0 inherit pub_methods_a05208"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../df/dfd/a05208.html#a301cf316e15e5f55046c1c25ef2a4f5b">iterator</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dfd/a05208.html#a4c64b9aad3611aff0d1c419b5d5fa8f0">rbegin</a> ()</td></tr>
-<tr class="separator:a4c64b9aad3611aff0d1c419b5d5fa8f0 inherit pub_methods_a05208"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae5ef045c8e3bbce625ffdc2c075b90c2 inherit pub_methods_a05208"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../df/dfd/a05208.html#a301cf316e15e5f55046c1c25ef2a4f5b">iterator</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dfd/a05208.html#ae5ef045c8e3bbce625ffdc2c075b90c2">rend</a> ()</td></tr>
-<tr class="separator:ae5ef045c8e3bbce625ffdc2c075b90c2 inherit pub_methods_a05208"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a912750f6257a33cd1f85079448b45928 inherit pub_methods_a05208"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dfd/a05208.html#a912750f6257a33cd1f85079448b45928">clearReferences</a> ()</td></tr>
-<tr class="separator:a912750f6257a33cd1f85079448b45928 inherit pub_methods_a05208"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="inherit_header pub_methods_a05196"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_a05196')"><img src="../../closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="../../d9/dff/a05196.html">LinkedListHead</a></td></tr>
-<tr class="memitem:ab9a10897505b9315f7abef37ca53ae3d inherit pub_methods_a05196"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/dff/a05196.html#ab9a10897505b9315f7abef37ca53ae3d">LinkedListHead</a> ()</td></tr>
-<tr class="separator:ab9a10897505b9315f7abef37ca53ae3d inherit pub_methods_a05196"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a5f450b83a615d010bedc7b0c6aa18d70 inherit pub_methods_a05196"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/dff/a05196.html#a5f450b83a615d010bedc7b0c6aa18d70">IsEmpty</a> () const</td></tr>
-<tr class="separator:a5f450b83a615d010bedc7b0c6aa18d70 inherit pub_methods_a05196"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a3bdb6df345043767ce9b319593102371 inherit pub_methods_a05196"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/d4a/a05192.html">LinkedListElement</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/dff/a05196.html#a3bdb6df345043767ce9b319593102371">getFirst</a> ()</td></tr>
-<tr class="separator:a3bdb6df345043767ce9b319593102371 inherit pub_methods_a05196"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2b67ea8030683685e442b534f6ac14ae inherit pub_methods_a05196"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/d4a/a05192.html">LinkedListElement</a> const *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/dff/a05196.html#a2b67ea8030683685e442b534f6ac14ae">getFirst</a> () const</td></tr>
-<tr class="separator:a2b67ea8030683685e442b534f6ac14ae inherit pub_methods_a05196"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a523c918451eb358014e821b11f000b9b inherit pub_methods_a05196"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/d4a/a05192.html">LinkedListElement</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/dff/a05196.html#a523c918451eb358014e821b11f000b9b">getLast</a> ()</td></tr>
-<tr class="separator:a523c918451eb358014e821b11f000b9b inherit pub_methods_a05196"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4f858b06a17f5bc17db10aebd3493142 inherit pub_methods_a05196"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/d4a/a05192.html">LinkedListElement</a> const *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/dff/a05196.html#a4f858b06a17f5bc17db10aebd3493142">getLast</a> () const</td></tr>
-<tr class="separator:a4f858b06a17f5bc17db10aebd3493142 inherit pub_methods_a05196"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af28714c2195a3609871f42fa7a9dc74b inherit pub_methods_a05196"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/dff/a05196.html#af28714c2195a3609871f42fa7a9dc74b">insertFirst</a> (<a class="el" href="../../d9/d4a/a05192.html">LinkedListElement</a> *pElem)</td></tr>
-<tr class="separator:af28714c2195a3609871f42fa7a9dc74b inherit pub_methods_a05196"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a20c91c0ace1d4404b55802fbc7704bb5 inherit pub_methods_a05196"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/dff/a05196.html#a20c91c0ace1d4404b55802fbc7704bb5">insertLast</a> (<a class="el" href="../../d9/d4a/a05192.html">LinkedListElement</a> *pElem)</td></tr>
-<tr class="separator:a20c91c0ace1d4404b55802fbc7704bb5 inherit pub_methods_a05196"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa9c03e05aa61c1fc9fad84efd8f82db7 inherit pub_methods_a05196"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d5/d35/a00266.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/dff/a05196.html#aa9c03e05aa61c1fc9fad84efd8f82db7">getSize</a> () const</td></tr>
-<tr class="separator:aa9c03e05aa61c1fc9fad84efd8f82db7 inherit pub_methods_a05196"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a46d97d5710de2958555d37687df58fcb inherit pub_methods_a05196"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/dff/a05196.html#a46d97d5710de2958555d37687df58fcb">incSize</a> ()</td></tr>
-<tr class="separator:a46d97d5710de2958555d37687df58fcb inherit pub_methods_a05196"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ada0bbfaadb9944b904fd023291d7454e inherit pub_methods_a05196"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/dff/a05196.html#ada0bbfaadb9944b904fd023291d7454e">decSize</a> ()</td></tr>
-<tr class="separator:ada0bbfaadb9944b904fd023291d7454e inherit pub_methods_a05196"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a57cd46fee6f747221761aa3114c40ba6"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d6a/a09048.html#a57cd46fee6f747221761aa3114c40ba6">GridObjectLoader</a> (<a class="el" href="../../d0/d57/a03380.html#ae98d6a027a620a037e8c699d935537bf">MapGridType</a> &amp;grid, <a class="el" href="../../d7/d63/a09780.html">Map</a> *map)</td></tr>
+<tr class="separator:a57cd46fee6f747221761aa3114c40ba6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2f4aac240f93354a4a1cd22a7144fb91"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d6a/a09048.html#a2f4aac240f93354a4a1cd22a7144fb91">LoadAllCellsInGrid</a> ()</td></tr>
+<tr class="separator:a2f4aac240f93354a4a1cd22a7144fb91"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-methods" name="pri-methods"></a>
+Private Member Functions</h2></td></tr>
+<tr class="memitem:a4e857363f544e91918b22df7fb6b1fe8"><td class="memTemplParams" colspan="2">template&lt;class T &gt; </td></tr>
+<tr class="memitem:a4e857363f544e91918b22df7fb6b1fe8"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d3/d6a/a09048.html#a4e857363f544e91918b22df7fb6b1fe8">AddObjectHelper</a> (<a class="el" href="../../d7/d63/a09780.html">Map</a> *map, T *obj)</td></tr>
+<tr class="separator:a4e857363f544e91918b22df7fb6b1fe8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a000e7ba83cc08e6c5b34a9bff222a809"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d6a/a09048.html#a000e7ba83cc08e6c5b34a9bff222a809">LoadCreatures</a> (<a class="el" href="../../d1/d89/a03035.html#a156fd3db7b515ae005bc7d35fededc3e">CellGuidSet</a> const &amp;guid_set, <a class="el" href="../../d7/d63/a09780.html">Map</a> *map)</td></tr>
+<tr class="separator:a000e7ba83cc08e6c5b34a9bff222a809"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad577dbb6544e806d25b496796651ba5b"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d6a/a09048.html#ad577dbb6544e806d25b496796651ba5b">LoadGameObjects</a> (<a class="el" href="../../d1/d89/a03035.html#a156fd3db7b515ae005bc7d35fededc3e">CellGuidSet</a> const &amp;guid_set, <a class="el" href="../../d7/d63/a09780.html">Map</a> *map)</td></tr>
+<tr class="separator:ad577dbb6544e806d25b496796651ba5b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
+Private Attributes</h2></td></tr>
+<tr class="memitem:abe551354634514fa3998eccb10fcbefe"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d57/a03380.html#ae98d6a027a620a037e8c699d935537bf">MapGridType</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d6a/a09048.html#abe551354634514fa3998eccb10fcbefe">_grid</a></td></tr>
+<tr class="separator:abe551354634514fa3998eccb10fcbefe"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1d3ca2b103b23a95fb208ee64fe4037b"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d7/d63/a09780.html">Map</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d6a/a09048.html#a1d3ca2b103b23a95fb208ee64fe4037b">_map</a></td></tr>
+<tr class="separator:a1d3ca2b103b23a95fb208ee64fe4037b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><div class="compoundTemplParams">template&lt;class OBJECT&gt;<br />
-class GridRefMgr&lt; OBJECT &gt;</div></div><h2 class="groupheader">Member Typedef Documentation</h2>
-<a id="a6bf9d06cfe6cb2e7df465ebf2acc099f" name="a6bf9d06cfe6cb2e7df465ebf2acc099f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a6bf9d06cfe6cb2e7df465ebf2acc099f">&#9670;&#160;</a></span>iterator</h2>
+<div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a id="a57cd46fee6f747221761aa3114c40ba6" name="a57cd46fee6f747221761aa3114c40ba6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a57cd46fee6f747221761aa3114c40ba6">&#9670;&#160;</a></span>GridObjectLoader()</h2>
 
 <div class="memitem">
 <div class="memproto">
-<div class="memtemplate">
-template&lt;class OBJECT &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">typedef <a class="el" href="../../d6/d6a/a05200.html">LinkedListHead::Iterator</a>&lt; <a class="el" href="../../d0/d3d/a09052.html">GridReference</a>&lt;OBJECT&gt; &gt; <a class="el" href="../../d3/d6a/a09048.html">GridRefMgr</a>&lt; OBJECT &gt;::iterator</td>
+          <td class="memname">GridObjectLoader::GridObjectLoader </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d0/d57/a03380.html#ae98d6a027a620a037e8c699d935537bf">MapGridType</a> &amp;&#160;</td>
+          <td class="paramname"><em>grid</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d7/d63/a09780.html">Map</a> *&#160;</td>
+          <td class="paramname"><em>map</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
-
+<div class="fragment"><div class="line"><span class="lineno">   30</span>        : <a class="code hl_variable" href="../../d3/d6a/a09048.html#abe551354634514fa3998eccb10fcbefe">_grid</a>(grid), <a class="code hl_variable" href="../../d3/d6a/a09048.html#a1d3ca2b103b23a95fb208ee64fe4037b">_map</a>(map) { }</div>
+<div class="ttc" id="aa09048_html_a1d3ca2b103b23a95fb208ee64fe4037b"><div class="ttname"><a href="../../d3/d6a/a09048.html#a1d3ca2b103b23a95fb208ee64fe4037b">GridObjectLoader::_map</a></div><div class="ttdeci">Map * _map</div><div class="ttdef"><b>Definition:</b> GridObjectLoader.h:42</div></div>
+<div class="ttc" id="aa09048_html_abe551354634514fa3998eccb10fcbefe"><div class="ttname"><a href="../../d3/d6a/a09048.html#abe551354634514fa3998eccb10fcbefe">GridObjectLoader::_grid</a></div><div class="ttdeci">MapGridType &amp; _grid</div><div class="ttdef"><b>Definition:</b> GridObjectLoader.h:41</div></div>
+</div><!-- fragment -->
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
-<a id="a1e4e67ba11ac8da077942a6581647bf3" name="a1e4e67ba11ac8da077942a6581647bf3"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1e4e67ba11ac8da077942a6581647bf3">&#9670;&#160;</a></span>begin()</h2>
+<a id="a4e857363f544e91918b22df7fb6b1fe8" name="a4e857363f544e91918b22df7fb6b1fe8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4e857363f544e91918b22df7fb6b1fe8">&#9670;&#160;</a></span>AddObjectHelper()</h2>
 
 <div class="memitem">
 <div class="memproto">
 <div class="memtemplate">
-template&lt;class OBJECT &gt; </div>
+template&lt;class T &gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d3/d6a/a09048.html#a6bf9d06cfe6cb2e7df465ebf2acc099f">iterator</a> <a class="el" href="../../d3/d6a/a09048.html">GridRefMgr</a>&lt; OBJECT &gt;::begin </td>
+          <td class="memname">void GridObjectLoader::AddObjectHelper </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d7/d63/a09780.html">Map</a> *&#160;</td>
+          <td class="paramname"><em>map</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">T *&#160;</td>
+          <td class="paramname"><em>obj</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   29</span>{</div>
+<div class="line"><span class="lineno">   30</span>    <a class="code hl_class" href="../../d0/d15/a09044.html">CellCoord</a> cellCoord = <a class="code hl_function" href="../../de/df1/a04758.html#af056a475dba505792191bc6e8c3370a5">Acore::ComputeCellCoord</a>(obj-&gt;GetPositionX(), obj-&gt;GetPositionY());</div>
+<div class="line"><span class="lineno">   31</span>    <a class="code hl_struct" href="../../d5/db1/a09028.html">Cell</a> cell(cellCoord);</div>
+<div class="line"><span class="lineno">   32</span> </div>
+<div class="line"><span class="lineno">   33</span>    map-&gt;<a class="code hl_function" href="../../d7/d63/a09780.html#abd3105b1a9479ade772f6a4c47d4c83b">AddToGrid</a>(obj, cell);</div>
+<div class="line"><span class="lineno">   34</span>    obj-&gt;AddToWorld();</div>
+<div class="line"><span class="lineno">   35</span>    <span class="keywordflow">if</span> (obj-&gt;isActiveObject())</div>
+<div class="line"><span class="lineno">   36</span>        map-&gt;<a class="code hl_function" href="../../d7/d63/a09780.html#ac07f125a1ad7ad6f22cd18dbe20208f3">AddToActive</a>(obj);</div>
+<div class="line"><span class="lineno">   37</span>}</div>
+<div class="ttc" id="aa04758_html_af056a475dba505792191bc6e8c3370a5"><div class="ttname"><a href="../../de/df1/a04758.html#af056a475dba505792191bc6e8c3370a5">Acore::ComputeCellCoord</a></div><div class="ttdeci">CellCoord ComputeCellCoord(float x, float y)</div><div class="ttdef"><b>Definition:</b> GridDefines.h:193</div></div>
+<div class="ttc" id="aa09028_html"><div class="ttname"><a href="../../d5/db1/a09028.html">Cell</a></div><div class="ttdef"><b>Definition:</b> Cell.h:45</div></div>
+<div class="ttc" id="aa09044_html"><div class="ttname"><a href="../../d0/d15/a09044.html">CoordPair&lt; TOTAL_NUMBER_OF_CELLS_PER_MAP &gt;</a></div></div>
+<div class="ttc" id="aa09780_html_abd3105b1a9479ade772f6a4c47d4c83b"><div class="ttname"><a href="../../d7/d63/a09780.html#abd3105b1a9479ade772f6a4c47d4c83b">Map::AddToGrid</a></div><div class="ttdeci">void AddToGrid(T *object, Cell const &amp;cell)</div><div class="ttdef"><b>Definition:</b> Map.cpp:116</div></div>
+<div class="ttc" id="aa09780_html_ac07f125a1ad7ad6f22cd18dbe20208f3"><div class="ttname"><a href="../../d7/d63/a09780.html#ac07f125a1ad7ad6f22cd18dbe20208f3">Map::AddToActive</a></div><div class="ttdeci">void AddToActive(T *obj)</div><div class="ttdef"><b>Definition:</b> Map.cpp:1943</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l01943">Map::AddToActive()</a>, <a class="el" href="../../#l00116">Map::AddToGrid()</a>, and <a class="el" href="../../#l00193">Acore::ComputeCellCoord()</a>.</p>
+
+</div>
+</div>
+<a id="a2f4aac240f93354a4a1cd22a7144fb91" name="a2f4aac240f93354a4a1cd22a7144fb91"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2f4aac240f93354a4a1cd22a7144fb91">&#9670;&#160;</a></span>LoadAllCellsInGrid()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void GridObjectLoader::LoadAllCellsInGrid </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   35</span>{ <span class="keywordflow">return</span> <a class="code hl_typedef" href="../../d3/d6a/a09048.html#a6bf9d06cfe6cb2e7df465ebf2acc099f">iterator</a>(<a class="code hl_function" href="../../d3/d6a/a09048.html#aa0156c2ad3ec5ca0df6f6a4c55d71a05">getFirst</a>()); }</div>
-<div class="ttc" id="aa09048_html_a6bf9d06cfe6cb2e7df465ebf2acc099f"><div class="ttname"><a href="../../d3/d6a/a09048.html#a6bf9d06cfe6cb2e7df465ebf2acc099f">GridRefMgr::iterator</a></div><div class="ttdeci">LinkedListHead::Iterator&lt; GridReference&lt; OBJECT &gt; &gt; iterator</div><div class="ttdef"><b>Definition:</b> GridRefMgr.h:30</div></div>
-<div class="ttc" id="aa09048_html_aa0156c2ad3ec5ca0df6f6a4c55d71a05"><div class="ttname"><a href="../../d3/d6a/a09048.html#aa0156c2ad3ec5ca0df6f6a4c55d71a05">GridRefMgr::getFirst</a></div><div class="ttdeci">GridReference&lt; OBJECT &gt; * getFirst()</div><div class="ttdef"><b>Definition:</b> GridRefMgr.h:32</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   82</span>{</div>
+<div class="line"><span class="lineno">   83</span>    <a class="code hl_struct" href="../../d0/d84/a08944.html">CellObjectGuids</a> <span class="keyword">const</span>&amp; cell_guids = <a class="code hl_define" href="../../d1/d89/a03035.html#a736e30da2b5261060ac6cdbb5de3b787">sObjectMgr</a>-&gt;GetGridObjectGuids(<a class="code hl_variable" href="../../d3/d6a/a09048.html#a1d3ca2b103b23a95fb208ee64fe4037b">_map</a>-&gt;<a class="code hl_function" href="../../d7/d63/a09780.html#abea8ed605071226978969647a0246e86">GetId</a>(), <a class="code hl_variable" href="../../d3/d6a/a09048.html#a1d3ca2b103b23a95fb208ee64fe4037b">_map</a>-&gt;<a class="code hl_function" href="../../d7/d63/a09780.html#a43b5bdb50f8e3d9b9305475f62872d6c">GetSpawnMode</a>(), <a class="code hl_variable" href="../../d3/d6a/a09048.html#abe551354634514fa3998eccb10fcbefe">_grid</a>.<a class="code hl_function" href="../../d6/d4b/a09132.html#a19c7b85ee0abf14d267762eaa6f13df1">GetId</a>());</div>
+<div class="line"><span class="lineno">   84</span>    <a class="code hl_function" href="../../d3/d6a/a09048.html#ad577dbb6544e806d25b496796651ba5b">LoadGameObjects</a>(cell_guids.<a class="code hl_variable" href="../../d0/d84/a08944.html#a14fee7108cb388abd1ec2057cc7ed2a1">gameobjects</a>, <a class="code hl_variable" href="../../d3/d6a/a09048.html#a1d3ca2b103b23a95fb208ee64fe4037b">_map</a>);</div>
+<div class="line"><span class="lineno">   85</span>    <a class="code hl_function" href="../../d3/d6a/a09048.html#a000e7ba83cc08e6c5b34a9bff222a809">LoadCreatures</a>(cell_guids.<a class="code hl_variable" href="../../d0/d84/a08944.html#a9ae0351e4964d22bcf7c454c8b1027fe">creatures</a>, <a class="code hl_variable" href="../../d3/d6a/a09048.html#a1d3ca2b103b23a95fb208ee64fe4037b">_map</a>);</div>
+<div class="line"><span class="lineno">   86</span> </div>
+<div class="line"><span class="lineno">   87</span>    <span class="keywordflow">if</span> (std::unordered_set&lt;Corpse*&gt; <span class="keyword">const</span>* corpses = <a class="code hl_variable" href="../../d3/d6a/a09048.html#a1d3ca2b103b23a95fb208ee64fe4037b">_map</a>-&gt;<a class="code hl_function" href="../../d7/d63/a09780.html#a147dcd51c348f0835dcd5cb5f2b11302">GetCorpsesInCell</a>(<a class="code hl_variable" href="../../d3/d6a/a09048.html#abe551354634514fa3998eccb10fcbefe">_grid</a>.<a class="code hl_function" href="../../d6/d4b/a09132.html#a19c7b85ee0abf14d267762eaa6f13df1">GetId</a>()))</div>
+<div class="line"><span class="lineno">   88</span>    {</div>
+<div class="line"><span class="lineno">   89</span>        <span class="keywordflow">for</span> (<a class="code hl_class" href="../../d4/d33/a07960.html">Corpse</a>* corpse : *corpses)</div>
+<div class="line"><span class="lineno">   90</span>        {</div>
+<div class="line"><span class="lineno">   91</span>            <span class="keywordflow">if</span> (corpse-&gt;IsInGrid())</div>
+<div class="line"><span class="lineno">   92</span>                <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno">   93</span> </div>
+<div class="line"><span class="lineno">   94</span>            <a class="code hl_class" href="../../d0/d15/a09044.html">CellCoord</a> cellCoord = <a class="code hl_function" href="../../de/df1/a04758.html#af056a475dba505792191bc6e8c3370a5">Acore::ComputeCellCoord</a>(corpse-&gt;GetPositionX(), corpse-&gt;GetPositionY());</div>
+<div class="line"><span class="lineno">   95</span>            <a class="code hl_struct" href="../../d5/db1/a09028.html">Cell</a> cell(cellCoord);</div>
+<div class="line"><span class="lineno">   96</span> </div>
+<div class="line"><span class="lineno">   97</span>            <span class="keywordflow">if</span> (corpse-&gt;IsWorldObject())</div>
+<div class="line"><span class="lineno">   98</span>                <a class="code hl_variable" href="../../d3/d6a/a09048.html#abe551354634514fa3998eccb10fcbefe">_grid</a>.<a class="code hl_function" href="../../d6/d4b/a09132.html#a513ac4155c169eb2671d9974ef1e290a">AddWorldObject</a>(cell.CellX(), cell.CellY(), corpse);</div>
+<div class="line"><span class="lineno">   99</span>            <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  100</span>                <a class="code hl_variable" href="../../d3/d6a/a09048.html#abe551354634514fa3998eccb10fcbefe">_grid</a>.<a class="code hl_function" href="../../d6/d4b/a09132.html#a27806bd0f5ddc636c0479bbb3b9595e8">AddGridObject</a>(cell.CellX(), cell.CellY(), corpse);</div>
+<div class="line"><span class="lineno">  101</span>        }</div>
+<div class="line"><span class="lineno">  102</span>    }</div>
+<div class="line"><span class="lineno">  103</span>}</div>
+<div class="ttc" id="aa03035_html_a736e30da2b5261060ac6cdbb5de3b787"><div class="ttname"><a href="../../d1/d89/a03035.html#a736e30da2b5261060ac6cdbb5de3b787">sObjectMgr</a></div><div class="ttdeci">#define sObjectMgr</div><div class="ttdef"><b>Definition:</b> ObjectMgr.h:1636</div></div>
+<div class="ttc" id="aa07960_html"><div class="ttname"><a href="../../d4/d33/a07960.html">Corpse</a></div><div class="ttdef"><b>Definition:</b> Corpse.h:49</div></div>
+<div class="ttc" id="aa08944_html"><div class="ttname"><a href="../../d0/d84/a08944.html">CellObjectGuids</a></div><div class="ttdef"><b>Definition:</b> ObjectMgr.h:478</div></div>
+<div class="ttc" id="aa08944_html_a14fee7108cb388abd1ec2057cc7ed2a1"><div class="ttname"><a href="../../d0/d84/a08944.html#a14fee7108cb388abd1ec2057cc7ed2a1">CellObjectGuids::gameobjects</a></div><div class="ttdeci">CellGuidSet gameobjects</div><div class="ttdef"><b>Definition:</b> ObjectMgr.h:480</div></div>
+<div class="ttc" id="aa08944_html_a9ae0351e4964d22bcf7c454c8b1027fe"><div class="ttname"><a href="../../d0/d84/a08944.html#a9ae0351e4964d22bcf7c454c8b1027fe">CellObjectGuids::creatures</a></div><div class="ttdeci">CellGuidSet creatures</div><div class="ttdef"><b>Definition:</b> ObjectMgr.h:479</div></div>
+<div class="ttc" id="aa09048_html_a000e7ba83cc08e6c5b34a9bff222a809"><div class="ttname"><a href="../../d3/d6a/a09048.html#a000e7ba83cc08e6c5b34a9bff222a809">GridObjectLoader::LoadCreatures</a></div><div class="ttdeci">void LoadCreatures(CellGuidSet const &amp;guid_set, Map *map)</div><div class="ttdef"><b>Definition:</b> GridObjectLoader.cpp:39</div></div>
+<div class="ttc" id="aa09048_html_ad577dbb6544e806d25b496796651ba5b"><div class="ttname"><a href="../../d3/d6a/a09048.html#ad577dbb6544e806d25b496796651ba5b">GridObjectLoader::LoadGameObjects</a></div><div class="ttdeci">void LoadGameObjects(CellGuidSet const &amp;guid_set, Map *map)</div><div class="ttdef"><b>Definition:</b> GridObjectLoader.cpp:64</div></div>
+<div class="ttc" id="aa09132_html_a19c7b85ee0abf14d267762eaa6f13df1"><div class="ttname"><a href="../../d6/d4b/a09132.html#a19c7b85ee0abf14d267762eaa6f13df1">MapGrid::GetId</a></div><div class="ttdeci">uint32 GetId() const</div><div class="ttdef"><b>Definition:</b> MapGrid.h:40</div></div>
+<div class="ttc" id="aa09132_html_a27806bd0f5ddc636c0479bbb3b9595e8"><div class="ttname"><a href="../../d6/d4b/a09132.html#a27806bd0f5ddc636c0479bbb3b9595e8">MapGrid::AddGridObject</a></div><div class="ttdeci">void AddGridObject(uint16 const x, uint16 const y, SPECIFIC_OBJECT *obj)</div><div class="ttdef"><b>Definition:</b> MapGrid.h:58</div></div>
+<div class="ttc" id="aa09132_html_a513ac4155c169eb2671d9974ef1e290a"><div class="ttname"><a href="../../d6/d4b/a09132.html#a513ac4155c169eb2671d9974ef1e290a">MapGrid::AddWorldObject</a></div><div class="ttdeci">void AddWorldObject(uint16 const x, uint16 const y, SPECIFIC_OBJECT *obj)</div><div class="ttdef"><b>Definition:</b> MapGrid.h:48</div></div>
+<div class="ttc" id="aa09780_html_a147dcd51c348f0835dcd5cb5f2b11302"><div class="ttname"><a href="../../d7/d63/a09780.html#a147dcd51c348f0835dcd5cb5f2b11302">Map::GetCorpsesInCell</a></div><div class="ttdeci">std::unordered_set&lt; Corpse * &gt; const * GetCorpsesInCell(uint32 cellId) const</div><div class="ttdef"><b>Definition:</b> Map.h:372</div></div>
+<div class="ttc" id="aa09780_html_a43b5bdb50f8e3d9b9305475f62872d6c"><div class="ttname"><a href="../../d7/d63/a09780.html#a43b5bdb50f8e3d9b9305475f62872d6c">Map::GetSpawnMode</a></div><div class="ttdeci">uint8 GetSpawnMode() const</div><div class="ttdef"><b>Definition:</b> Map.h:267</div></div>
+<div class="ttc" id="aa09780_html_abea8ed605071226978969647a0246e86"><div class="ttname"><a href="../../d7/d63/a09780.html#abea8ed605071226978969647a0246e86">Map::GetId</a></div><div class="ttdeci">uint32 GetId() const</div><div class="ttdef"><b>Definition:</b> Map.h:229</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00032">GridRefMgr&lt; OBJECT &gt;::getFirst()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00041">_grid</a>, <a class="el" href="../../#l00042">_map</a>, <a class="el" href="../../#l00058">MapGrid&lt; WORLD_OBJECT_TYPES, GRID_OBJECT_TYPES &gt;::AddGridObject()</a>, <a class="el" href="../../#l00048">MapGrid&lt; WORLD_OBJECT_TYPES, GRID_OBJECT_TYPES &gt;::AddWorldObject()</a>, <a class="el" href="../../#l00069">Cell::CellX()</a>, <a class="el" href="../../#l00070">Cell::CellY()</a>, <a class="el" href="../../#l00193">Acore::ComputeCellCoord()</a>, <a class="el" href="../../#l00479">CellObjectGuids::creatures</a>, <a class="el" href="../../#l00480">CellObjectGuids::gameobjects</a>, <a class="el" href="../../#l00372">Map::GetCorpsesInCell()</a>, <a class="el" href="../../#l00040">MapGrid&lt; WORLD_OBJECT_TYPES, GRID_OBJECT_TYPES &gt;::GetId()</a>, <a class="el" href="../../#l00229">Map::GetId()</a>, <a class="el" href="../../#l00267">Map::GetSpawnMode()</a>, <a class="el" href="../../#l00039">LoadCreatures()</a>, <a class="el" href="../../#l00064">LoadGameObjects()</a>, and <a class="el" href="../../#l01636">sObjectMgr</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00742">ResetNotifier::resetNotify()</a>, <a class="el" href="../../#l00195">Acore::AIRelocationNotifier::Visit()</a>, <a class="el" href="../../#l00346">Acore::UnitSearcher&lt; Check &gt;::Visit()</a>, <a class="el" href="../../#l00386">Acore::UnitLastSearcher&lt; Check &gt;::Visit()</a>, <a class="el" href="../../#l00432">Acore::CreatureSearcher&lt; Check &gt;::Visit()</a>, <a class="el" href="../../#l00452">Acore::CreatureLastSearcher&lt; Check &gt;::Visit()</a>, <a class="el" href="../../#l00465">Acore::CreatureListSearcher&lt; Check &gt;::Visit()</a>, <a class="el" href="../../#l00496">Acore::CreatureWorker&lt; Do &gt;::Visit()</a>, <a class="el" href="../../#l00027">Acore::VisibleNotifier::Visit()</a>, <a class="el" href="../../#l00050">Acore::WorldObjectSearcher&lt; Check &gt;::Visit()</a>, <a class="el" href="../../#l00165">Acore::WorldObjectLastSearcher&lt; Check &gt;::Visit()</a>, <a class="el" href="../../#l00268">Acore::WorldObjectWorker&lt; Do &gt;::Visit()</a>, <a class="el" href="../../#l00302">Acore::GameObjectSearcher&lt; Check &gt;::Visit()</a>, <a class="el" href="../../#l00322">Acore::GameObjectLastSearcher&lt; Check &gt;::Visit()</a>, <a class="el" href="../../#l00335">Acore::GameObjectListSearcher&lt; Check &gt;::Visit()</a>, <a class="el" href="../../#l00370">Acore::GameObjectWorker&lt; Functor &gt;::Visit()</a>, <a class="el" href="../../#l00125">GridObjectCleaner::Visit()</a>, <a class="el" href="../../#l00358">Acore::ObjectUpdater::Visit()</a>, <a class="el" href="../../#l00113">Acore::VisibleChangesNotifier::Visit()</a>, <a class="el" href="../../#l00168">Acore::PlayerRelocationNotifier::Visit()</a>, <a class="el" href="../../#l00179">Acore::CreatureRelocationNotifier::Visit()</a>, <a class="el" href="../../#l03026">WorldObjectChangeAccumulator::Visit()</a>, <a class="el" href="../../#l00211">Acore::MessageDistDeliverer::Visit()</a>, <a class="el" href="../../#l00295">Acore::MessageDistDelivererToHostile::Visit()</a>, <a class="el" href="../../#l00245">Acore::WorldObjectListSearcher&lt; Check &gt;::Visit()</a>, <a class="el" href="../../#l00412">Acore::UnitListSearcher&lt; Check &gt;::Visit()</a>, <a class="el" href="../../#l00502">Acore::PlayerSearcher&lt; Check &gt;::Visit()</a>, <a class="el" href="../../#l00474">Acore::PlayerListSearcher&lt; Check &gt;::Visit()</a>, <a class="el" href="../../#l00483">Acore::PlayerListSearcherWithSharedVision&lt; Check &gt;::Visit()</a>, <a class="el" href="../../#l00522">Acore::PlayerLastSearcher&lt; Check &gt;::Visit()</a>, <a class="el" href="../../#l00580">Acore::PlayerWorker&lt; Do &gt;::Visit()</a>, and <a class="el" href="../../#l00600">Acore::PlayerDistWorker&lt; Do &gt;::Visit()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00022">MapGridManager::LoadGrid()</a>.</p>
 
 </div>
 </div>
-<a id="a266acb421cfc6ccc56dc2acff3202971" name="a266acb421cfc6ccc56dc2acff3202971"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a266acb421cfc6ccc56dc2acff3202971">&#9670;&#160;</a></span>end()</h2>
+<a id="a000e7ba83cc08e6c5b34a9bff222a809" name="a000e7ba83cc08e6c5b34a9bff222a809"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a000e7ba83cc08e6c5b34a9bff222a809">&#9670;&#160;</a></span>LoadCreatures()</h2>
 
 <div class="memitem">
 <div class="memproto">
-<div class="memtemplate">
-template&lt;class OBJECT &gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d3/d6a/a09048.html#a6bf9d06cfe6cb2e7df465ebf2acc099f">iterator</a> <a class="el" href="../../d3/d6a/a09048.html">GridRefMgr</a>&lt; OBJECT &gt;::end </td>
+          <td class="memname">void GridObjectLoader::LoadCreatures </td>
           <td>(</td>
-          <td class="paramname"></td><td>)</td>
+          <td class="paramtype"><a class="el" href="../../d1/d89/a03035.html#a156fd3db7b515ae005bc7d35fededc3e">CellGuidSet</a> const &amp;&#160;</td>
+          <td class="paramname"><em>guid_set</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
           <td></td>
+          <td class="paramtype"><a class="el" href="../../d7/d63/a09780.html">Map</a> *&#160;</td>
+          <td class="paramname"><em>map</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   36</span>{ <span class="keywordflow">return</span> <a class="code hl_typedef" href="../../d3/d6a/a09048.html#a6bf9d06cfe6cb2e7df465ebf2acc099f">iterator</a>(<span class="keyword">nullptr</span>); }</div>
+<div class="fragment"><div class="line"><span class="lineno">   40</span>{</div>
+<div class="line"><span class="lineno">   41</span>    <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../d4/dca/a08384.html#aa278d50613c05dc1333df5185a6993eb">ObjectGuid::LowType</a> <span class="keyword">const</span>&amp; guid : guid_set)</div>
+<div class="line"><span class="lineno">   42</span>    {</div>
+<div class="line"><span class="lineno">   43</span>        <a class="code hl_class" href="../../d6/dfb/a07964.html">Creature</a>* obj = <span class="keyword">new</span> <a class="code hl_class" href="../../d6/dfb/a07964.html">Creature</a>();</div>
+<div class="line"><span class="lineno">   44</span>        <span class="keywordflow">if</span> (!obj-&gt;<a class="code hl_function" href="../../d6/dfb/a07964.html#adc4f35223eb98a4ce674a2c4b7e5b7bf">LoadFromDB</a>(guid, map))</div>
+<div class="line"><span class="lineno">   45</span>        {</div>
+<div class="line"><span class="lineno">   46</span>            <span class="keyword">delete</span> obj;</div>
+<div class="line"><span class="lineno">   47</span>            <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno">   48</span>        }</div>
+<div class="line"><span class="lineno">   49</span> </div>
+<div class="line"><span class="lineno">   50</span>        AddObjectHelper&lt;Creature&gt;(map, obj);</div>
+<div class="line"><span class="lineno">   51</span> </div>
+<div class="line"><span class="lineno">   52</span>        <span class="keywordflow">if</span> (!obj-&gt;<a class="code hl_function" href="../../d6/dfb/a07964.html#a87b6d6ec4f245c550c48c57325fe44dd">IsMoveInLineOfSightDisabled</a>() &amp;&amp; obj-&gt;<a class="code hl_function" href="../../d6/dfb/a07964.html#ace3244d1ca6f0af9ca70ae6a4da76e1a">GetDefaultMovementType</a>() == <a class="code hl_enumvalue" href="../../d7/df2/a03986.html#a4f12806b915efea564eae942207002f9a35e951ebafcab180b4bd926e5760803e">IDLE_MOTION_TYPE</a> &amp;&amp; !obj-&gt;<a class="code hl_function" href="../../de/de0/a08368.html#a266350f5eebd01138f89f659d1eb7505">isNeedNotify</a>(<a class="code hl_enumvalue" href="../../d3/d4a/a03689.html#ae6d03ea53b22c98f9dd7e3ce829cf389ae24fd40d89da822e12587f23612eb053">NOTIFY_VISIBILITY_CHANGED</a> | <a class="code hl_enumvalue" href="../../d3/d4a/a03689.html#ae6d03ea53b22c98f9dd7e3ce829cf389ac8f5884b0cde878e7d080be2be35f12d">NOTIFY_AI_RELOCATION</a>))</div>
+<div class="line"><span class="lineno">   53</span>        {</div>
+<div class="line"><span class="lineno">   54</span>            <span class="keywordflow">if</span> (obj-&gt;<a class="code hl_function" href="../../d8/dc0/a08716.html#a5ea3f54af571493f7889220724667189">IsAlive</a>() &amp;&amp; !obj-&gt;<a class="code hl_function" href="../../d8/dc0/a08716.html#ab78147cd520d2dac6be709b4c80a7de3">HasUnitState</a>(<a class="code hl_enumvalue" href="../../dd/d51/a03842.html#ae51d2ecb71f7a5cb3882982a622c9544a6109dcad21a2eaf7e1d57bc2ad917558">UNIT_STATE_SIGHTLESS</a>) &amp;&amp; obj-&gt;<a class="code hl_function" href="../../d6/dfb/a07964.html#a46a7576522c3b964bd50388091f95951">HasReactState</a>(<a class="code hl_enumvalue" href="../../d3/d83/a03854.html#a5e9099d162ad74df5a3e3f5c0f056c37ab0d46448581f9ac821fb076f185661fc">REACT_AGGRESSIVE</a>) &amp;&amp; !obj-&gt;<a class="code hl_function" href="../../d8/dc0/a08716.html#a78fa5ef65274d8db2ba98306e98e2209">IsImmuneToNPC</a>())</div>
+<div class="line"><span class="lineno">   55</span>            {</div>
+<div class="line"><span class="lineno">   56</span>                <span class="comment">// call MoveInLineOfSight for nearby grid creatures</span></div>
+<div class="line"><span class="lineno">   57</span>                <a class="code hl_struct" href="../../d5/d0b/a09156.html">Acore::AIRelocationNotifier</a> notifier(*obj);</div>
+<div class="line"><span class="lineno">   58</span>                <a class="code hl_function" href="../../d5/db1/a09028.html#afa2ed05ed338c6d8d1cbcc84a61d3c53">Cell::VisitGridObjects</a>(obj, notifier, 60.f);</div>
+<div class="line"><span class="lineno">   59</span>            }</div>
+<div class="line"><span class="lineno">   60</span>        }</div>
+<div class="line"><span class="lineno">   61</span>    }</div>
+<div class="line"><span class="lineno">   62</span>}</div>
+<div class="ttc" id="aa03689_html_ae6d03ea53b22c98f9dd7e3ce829cf389ac8f5884b0cde878e7d080be2be35f12d"><div class="ttname"><a href="../../d3/d4a/a03689.html#ae6d03ea53b22c98f9dd7e3ce829cf389ac8f5884b0cde878e7d080be2be35f12d">NOTIFY_AI_RELOCATION</a></div><div class="ttdeci">@ NOTIFY_AI_RELOCATION</div><div class="ttdef"><b>Definition:</b> Object.h:67</div></div>
+<div class="ttc" id="aa03689_html_ae6d03ea53b22c98f9dd7e3ce829cf389ae24fd40d89da822e12587f23612eb053"><div class="ttname"><a href="../../d3/d4a/a03689.html#ae6d03ea53b22c98f9dd7e3ce829cf389ae24fd40d89da822e12587f23612eb053">NOTIFY_VISIBILITY_CHANGED</a></div><div class="ttdeci">@ NOTIFY_VISIBILITY_CHANGED</div><div class="ttdef"><b>Definition:</b> Object.h:68</div></div>
+<div class="ttc" id="aa03842_html_ae51d2ecb71f7a5cb3882982a622c9544a6109dcad21a2eaf7e1d57bc2ad917558"><div class="ttname"><a href="../../dd/d51/a03842.html#ae51d2ecb71f7a5cb3882982a622c9544a6109dcad21a2eaf7e1d57bc2ad917558">UNIT_STATE_SIGHTLESS</a></div><div class="ttdeci">@ UNIT_STATE_SIGHTLESS</div><div class="ttdef"><b>Definition:</b> UnitDefines.h:213</div></div>
+<div class="ttc" id="aa03854_html_a5e9099d162ad74df5a3e3f5c0f056c37ab0d46448581f9ac821fb076f185661fc"><div class="ttname"><a href="../../d3/d83/a03854.html#a5e9099d162ad74df5a3e3f5c0f056c37ab0d46448581f9ac821fb076f185661fc">REACT_AGGRESSIVE</a></div><div class="ttdeci">@ REACT_AGGRESSIVE</div><div class="ttdef"><b>Definition:</b> Unit.h:550</div></div>
+<div class="ttc" id="aa03986_html_a4f12806b915efea564eae942207002f9a35e951ebafcab180b4bd926e5760803e"><div class="ttname"><a href="../../d7/df2/a03986.html#a4f12806b915efea564eae942207002f9a35e951ebafcab180b4bd926e5760803e">IDLE_MOTION_TYPE</a></div><div class="ttdeci">@ IDLE_MOTION_TYPE</div><div class="ttdef"><b>Definition:</b> MotionMaster.h:39</div></div>
+<div class="ttc" id="aa07964_html"><div class="ttname"><a href="../../d6/dfb/a07964.html">Creature</a></div><div class="ttdef"><b>Definition:</b> Creature.h:43</div></div>
+<div class="ttc" id="aa07964_html_a46a7576522c3b964bd50388091f95951"><div class="ttname"><a href="../../d6/dfb/a07964.html#a46a7576522c3b964bd50388091f95951">Creature::HasReactState</a></div><div class="ttdeci">bool HasReactState(ReactStates state) const</div><div class="ttdef"><b>Definition:</b> Creature.h:97</div></div>
+<div class="ttc" id="aa07964_html_a87b6d6ec4f245c550c48c57325fe44dd"><div class="ttname"><a href="../../d6/dfb/a07964.html#a87b6d6ec4f245c550c48c57325fe44dd">Creature::IsMoveInLineOfSightDisabled</a></div><div class="ttdeci">bool IsMoveInLineOfSightDisabled()</div><div class="ttdef"><b>Definition:</b> Creature.h:280</div></div>
+<div class="ttc" id="aa07964_html_ace3244d1ca6f0af9ca70ae6a4da76e1a"><div class="ttname"><a href="../../d6/dfb/a07964.html#ace3244d1ca6f0af9ca70ae6a4da76e1a">Creature::GetDefaultMovementType</a></div><div class="ttdeci">MovementGeneratorType GetDefaultMovementType() const override</div><div class="ttdoc">-------—End of Pet responses methods-------—</div><div class="ttdef"><b>Definition:</b> Creature.h:86</div></div>
+<div class="ttc" id="aa07964_html_adc4f35223eb98a4ce674a2c4b7e5b7bf"><div class="ttname"><a href="../../d6/dfb/a07964.html#adc4f35223eb98a4ce674a2c4b7e5b7bf">Creature::LoadFromDB</a></div><div class="ttdeci">bool LoadFromDB(ObjectGuid::LowType guid, Map *map, bool allowDuplicate=false)</div><div class="ttdef"><b>Definition:</b> Creature.h:223</div></div>
+<div class="ttc" id="aa08368_html_a266350f5eebd01138f89f659d1eb7505"><div class="ttname"><a href="../../de/de0/a08368.html#a266350f5eebd01138f89f659d1eb7505">WorldObject::isNeedNotify</a></div><div class="ttdeci">bool isNeedNotify(uint16 f) const</div><div class="ttdef"><b>Definition:</b> Object.h:574</div></div>
+<div class="ttc" id="aa08384_html_aa278d50613c05dc1333df5185a6993eb"><div class="ttname"><a href="../../d4/dca/a08384.html#aa278d50613c05dc1333df5185a6993eb">ObjectGuid::LowType</a></div><div class="ttdeci">uint32 LowType</div><div class="ttdef"><b>Definition:</b> ObjectGuid.h:122</div></div>
+<div class="ttc" id="aa08716_html_a5ea3f54af571493f7889220724667189"><div class="ttname"><a href="../../d8/dc0/a08716.html#a5ea3f54af571493f7889220724667189">Unit::IsAlive</a></div><div class="ttdeci">bool IsAlive() const</div><div class="ttdef"><b>Definition:</b> Unit.h:1707</div></div>
+<div class="ttc" id="aa08716_html_a78fa5ef65274d8db2ba98306e98e2209"><div class="ttname"><a href="../../d8/dc0/a08716.html#a78fa5ef65274d8db2ba98306e98e2209">Unit::IsImmuneToNPC</a></div><div class="ttdeci">bool IsImmuneToNPC() const</div><div class="ttdef"><b>Definition:</b> Unit.h:888</div></div>
+<div class="ttc" id="aa08716_html_ab78147cd520d2dac6be709b4c80a7de3"><div class="ttname"><a href="../../d8/dc0/a08716.html#ab78147cd520d2dac6be709b4c80a7de3">Unit::HasUnitState</a></div><div class="ttdeci">bool HasUnitState(const uint32 f) const</div><div class="ttdef"><b>Definition:</b> Unit.h:707</div></div>
+<div class="ttc" id="aa09028_html_afa2ed05ed338c6d8d1cbcc84a61d3c53"><div class="ttname"><a href="../../d5/db1/a09028.html#afa2ed05ed338c6d8d1cbcc84a61d3c53">Cell::VisitGridObjects</a></div><div class="ttdeci">static void VisitGridObjects(WorldObject const *obj, T &amp;visitor, float radius)</div><div class="ttdef"><b>Definition:</b> CellImpl.h:165</div></div>
+<div class="ttc" id="aa09156_html"><div class="ttname"><a href="../../d5/d0b/a09156.html">Acore::AIRelocationNotifier</a></div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:91</div></div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00742">ResetNotifier::resetNotify()</a>, <a class="el" href="../../#l01080">Map::UnloadAll()</a>, <a class="el" href="../../#l00195">Acore::AIRelocationNotifier::Visit()</a>, <a class="el" href="../../#l00346">Acore::UnitSearcher&lt; Check &gt;::Visit()</a>, <a class="el" href="../../#l00386">Acore::UnitLastSearcher&lt; Check &gt;::Visit()</a>, <a class="el" href="../../#l00432">Acore::CreatureSearcher&lt; Check &gt;::Visit()</a>, <a class="el" href="../../#l00452">Acore::CreatureLastSearcher&lt; Check &gt;::Visit()</a>, <a class="el" href="../../#l00465">Acore::CreatureListSearcher&lt; Check &gt;::Visit()</a>, <a class="el" href="../../#l00496">Acore::CreatureWorker&lt; Do &gt;::Visit()</a>, <a class="el" href="../../#l00027">Acore::VisibleNotifier::Visit()</a>, <a class="el" href="../../#l00050">Acore::WorldObjectSearcher&lt; Check &gt;::Visit()</a>, <a class="el" href="../../#l00165">Acore::WorldObjectLastSearcher&lt; Check &gt;::Visit()</a>, <a class="el" href="../../#l00268">Acore::WorldObjectWorker&lt; Do &gt;::Visit()</a>, <a class="el" href="../../#l00302">Acore::GameObjectSearcher&lt; Check &gt;::Visit()</a>, <a class="el" href="../../#l00322">Acore::GameObjectLastSearcher&lt; Check &gt;::Visit()</a>, <a class="el" href="../../#l00335">Acore::GameObjectListSearcher&lt; Check &gt;::Visit()</a>, <a class="el" href="../../#l00370">Acore::GameObjectWorker&lt; Functor &gt;::Visit()</a>, <a class="el" href="../../#l00125">GridObjectCleaner::Visit()</a>, <a class="el" href="../../#l00358">Acore::ObjectUpdater::Visit()</a>, <a class="el" href="../../#l00113">Acore::VisibleChangesNotifier::Visit()</a>, <a class="el" href="../../#l00168">Acore::PlayerRelocationNotifier::Visit()</a>, <a class="el" href="../../#l00179">Acore::CreatureRelocationNotifier::Visit()</a>, <a class="el" href="../../#l03026">WorldObjectChangeAccumulator::Visit()</a>, <a class="el" href="../../#l00211">Acore::MessageDistDeliverer::Visit()</a>, <a class="el" href="../../#l00295">Acore::MessageDistDelivererToHostile::Visit()</a>, <a class="el" href="../../#l00245">Acore::WorldObjectListSearcher&lt; Check &gt;::Visit()</a>, <a class="el" href="../../#l00412">Acore::UnitListSearcher&lt; Check &gt;::Visit()</a>, <a class="el" href="../../#l00502">Acore::PlayerSearcher&lt; Check &gt;::Visit()</a>, <a class="el" href="../../#l00474">Acore::PlayerListSearcher&lt; Check &gt;::Visit()</a>, <a class="el" href="../../#l00483">Acore::PlayerListSearcherWithSharedVision&lt; Check &gt;::Visit()</a>, <a class="el" href="../../#l00522">Acore::PlayerLastSearcher&lt; Check &gt;::Visit()</a>, <a class="el" href="../../#l00580">Acore::PlayerWorker&lt; Do &gt;::Visit()</a>, and <a class="el" href="../../#l00600">Acore::PlayerDistWorker&lt; Do &gt;::Visit()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00086">Creature::GetDefaultMovementType()</a>, <a class="el" href="../../#l00097">Creature::HasReactState()</a>, <a class="el" href="../../#l00707">Unit::HasUnitState()</a>, <a class="el" href="../../#l00039">IDLE_MOTION_TYPE</a>, <a class="el" href="../../#l01707">Unit::IsAlive()</a>, <a class="el" href="../../#l00888">Unit::IsImmuneToNPC()</a>, <a class="el" href="../../#l00280">Creature::IsMoveInLineOfSightDisabled()</a>, <a class="el" href="../../#l00574">WorldObject::isNeedNotify()</a>, <a class="el" href="../../#l00223">Creature::LoadFromDB()</a>, <a class="el" href="../../#l00067">NOTIFY_AI_RELOCATION</a>, <a class="el" href="../../#l00068">NOTIFY_VISIBILITY_CHANGED</a>, <a class="el" href="../../#l00550">REACT_AGGRESSIVE</a>, <a class="el" href="../../#l00213">UNIT_STATE_SIGHTLESS</a>, and <a class="el" href="../../#l00165">Cell::VisitGridObjects()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00081">LoadAllCellsInGrid()</a>.</p>
 
 </div>
 </div>
-<a id="aa0156c2ad3ec5ca0df6f6a4c55d71a05" name="aa0156c2ad3ec5ca0df6f6a4c55d71a05"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa0156c2ad3ec5ca0df6f6a4c55d71a05">&#9670;&#160;</a></span>getFirst()</h2>
+<a id="ad577dbb6544e806d25b496796651ba5b" name="ad577dbb6544e806d25b496796651ba5b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad577dbb6544e806d25b496796651ba5b">&#9670;&#160;</a></span>LoadGameObjects()</h2>
 
 <div class="memitem">
 <div class="memproto">
-<div class="memtemplate">
-template&lt;class OBJECT &gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d0/d3d/a09052.html">GridReference</a>&lt; OBJECT &gt; * <a class="el" href="../../d3/d6a/a09048.html">GridRefMgr</a>&lt; OBJECT &gt;::getFirst </td>
+          <td class="memname">void GridObjectLoader::LoadGameObjects </td>
           <td>(</td>
-          <td class="paramname"></td><td>)</td>
+          <td class="paramtype"><a class="el" href="../../d1/d89/a03035.html#a156fd3db7b515ae005bc7d35fededc3e">CellGuidSet</a> const &amp;&#160;</td>
+          <td class="paramname"><em>guid_set</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
           <td></td>
+          <td class="paramtype"><a class="el" href="../../d7/d63/a09780.html">Map</a> *&#160;</td>
+          <td class="paramname"><em>map</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   32</span>{ <span class="keywordflow">return</span> (<a class="code hl_class" href="../../d0/d3d/a09052.html">GridReference&lt;OBJECT&gt;</a>*)<a class="code hl_class" href="../../df/dfd/a05208.html">RefMgr&lt;GridRefMgr&lt;OBJECT&gt;</a>, OBJECT&gt;<a class="code hl_function" href="../../d3/d6a/a09048.html#aa0156c2ad3ec5ca0df6f6a4c55d71a05">::getFirst</a>(); }</div>
-<div class="ttc" id="aa05208_html"><div class="ttname"><a href="../../df/dfd/a05208.html">RefMgr</a></div><div class="ttdef"><b>Definition:</b> RefMgr.h:26</div></div>
-<div class="ttc" id="aa09052_html"><div class="ttname"><a href="../../d0/d3d/a09052.html">GridReference</a></div><div class="ttdef"><b>Definition:</b> GridReference.h:28</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   65</span>{</div>
+<div class="line"><span class="lineno">   66</span>    <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../d4/dca/a08384.html#aa278d50613c05dc1333df5185a6993eb">ObjectGuid::LowType</a> <span class="keyword">const</span>&amp; guid : guid_set)</div>
+<div class="line"><span class="lineno">   67</span>    {</div>
+<div class="line"><span class="lineno">   68</span>        <a class="code hl_struct" href="../../d8/d67/a08280.html">GameObjectData</a> <span class="keyword">const</span>* data = <a class="code hl_define" href="../../d1/d89/a03035.html#a736e30da2b5261060ac6cdbb5de3b787">sObjectMgr</a>-&gt;GetGameObjectData(guid);</div>
+<div class="line"><span class="lineno">   69</span>        <a class="code hl_class" href="../../d6/d5c/a08140.html">GameObject</a>* obj = data &amp;&amp; <a class="code hl_define" href="../../d1/d89/a03035.html#a736e30da2b5261060ac6cdbb5de3b787">sObjectMgr</a>-&gt;IsGameObjectStaticTransport(data-&gt;<a class="code hl_variable" href="../../d8/d67/a08280.html#ae12c8c5e7b3c848a57960e4c51d76e84">id</a>) ? <span class="keyword">new</span> <a class="code hl_class" href="../../d7/dac/a08632.html">StaticTransport</a>() : new <a class="code hl_class" href="../../d6/d5c/a08140.html">GameObject</a>();</div>
+<div class="line"><span class="lineno">   70</span> </div>
+<div class="line"><span class="lineno">   71</span>        <span class="keywordflow">if</span> (!obj-&gt;<a class="code hl_function" href="../../d6/d5c/a08140.html#ade83e85cc1a0644ce566f76e7a467771">LoadFromDB</a>(guid, map))</div>
+<div class="line"><span class="lineno">   72</span>        {</div>
+<div class="line"><span class="lineno">   73</span>            <span class="keyword">delete</span> obj;</div>
+<div class="line"><span class="lineno">   74</span>            <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno">   75</span>        }</div>
+<div class="line"><span class="lineno">   76</span> </div>
+<div class="line"><span class="lineno">   77</span>        AddObjectHelper&lt;GameObject&gt;(map, obj);</div>
+<div class="line"><span class="lineno">   78</span>    }</div>
+<div class="line"><span class="lineno">   79</span>}</div>
+<div class="ttc" id="aa08140_html"><div class="ttname"><a href="../../d6/d5c/a08140.html">GameObject</a></div><div class="ttdef"><b>Definition:</b> GameObject.h:120</div></div>
+<div class="ttc" id="aa08140_html_ade83e85cc1a0644ce566f76e7a467771"><div class="ttname"><a href="../../d6/d5c/a08140.html#ade83e85cc1a0644ce566f76e7a467771">GameObject::LoadFromDB</a></div><div class="ttdeci">bool LoadFromDB(ObjectGuid::LowType guid, Map *map)</div><div class="ttdef"><b>Definition:</b> GameObject.h:159</div></div>
+<div class="ttc" id="aa08280_html"><div class="ttname"><a href="../../d8/d67/a08280.html">GameObjectData</a></div><div class="ttdef"><b>Definition:</b> GameObjectData.h:696</div></div>
+<div class="ttc" id="aa08280_html_ae12c8c5e7b3c848a57960e4c51d76e84"><div class="ttname"><a href="../../d8/d67/a08280.html#ae12c8c5e7b3c848a57960e4c51d76e84">GameObjectData::id</a></div><div class="ttdeci">uint32 id</div><div class="ttdef"><b>Definition:</b> GameObjectData.h:698</div></div>
+<div class="ttc" id="aa08632_html"><div class="ttname"><a href="../../d7/dac/a08632.html">StaticTransport</a></div><div class="ttdef"><b>Definition:</b> Transport.h:113</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00032">GridRefMgr&lt; OBJECT &gt;::getFirst()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00698">GameObjectData::id</a>, <a class="el" href="../../#l00159">GameObject::LoadFromDB()</a>, and <a class="el" href="../../#l01636">sObjectMgr</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00035">GridRefMgr&lt; OBJECT &gt;::begin()</a>, <a class="el" href="../../#l00032">GridRefMgr&lt; OBJECT &gt;::getFirst()</a>, and <a class="el" href="../../#l00106">GridObjectUnloader::Visit()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00081">LoadAllCellsInGrid()</a>.</p>
 
 </div>
 </div>
-<a id="a46a36813eaf752815a3f8c739db88a5d" name="a46a36813eaf752815a3f8c739db88a5d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a46a36813eaf752815a3f8c739db88a5d">&#9670;&#160;</a></span>getLast()</h2>
+<h2 class="groupheader">Member Data Documentation</h2>
+<a id="abe551354634514fa3998eccb10fcbefe" name="abe551354634514fa3998eccb10fcbefe"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abe551354634514fa3998eccb10fcbefe">&#9670;&#160;</a></span>_grid</h2>
 
 <div class="memitem">
 <div class="memproto">
-<div class="memtemplate">
-template&lt;class OBJECT &gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d0/d3d/a09052.html">GridReference</a>&lt; OBJECT &gt; * <a class="el" href="../../d3/d6a/a09048.html">GridRefMgr</a>&lt; OBJECT &gt;::getLast </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
+          <td class="memname"><a class="el" href="../../d0/d57/a03380.html#ae98d6a027a620a037e8c699d935537bf">MapGridType</a>&amp; GridObjectLoader::_grid</td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   33</span>{ <span class="keywordflow">return</span> (<a class="code hl_class" href="../../d0/d3d/a09052.html">GridReference&lt;OBJECT&gt;</a>*)<a class="code hl_class" href="../../df/dfd/a05208.html">RefMgr&lt;GridRefMgr&lt;OBJECT&gt;</a>, OBJECT&gt;<a class="code hl_function" href="../../d3/d6a/a09048.html#a46a36813eaf752815a3f8c739db88a5d">::getLast</a>(); }</div>
-<div class="ttc" id="aa09048_html_a46a36813eaf752815a3f8c739db88a5d"><div class="ttname"><a href="../../d3/d6a/a09048.html#a46a36813eaf752815a3f8c739db88a5d">GridRefMgr::getLast</a></div><div class="ttdeci">GridReference&lt; OBJECT &gt; * getLast()</div><div class="ttdef"><b>Definition:</b> GridRefMgr.h:33</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00033">GridRefMgr&lt; OBJECT &gt;::getLast()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00033">GridRefMgr&lt; OBJECT &gt;::getLast()</a>, and <a class="el" href="../../#l00037">GridRefMgr&lt; OBJECT &gt;::rbegin()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00081">LoadAllCellsInGrid()</a>.</p>
 
 </div>
 </div>
-<a id="ae69734978b5eec009a696861b7b7152b" name="ae69734978b5eec009a696861b7b7152b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae69734978b5eec009a696861b7b7152b">&#9670;&#160;</a></span>rbegin()</h2>
+<a id="a1d3ca2b103b23a95fb208ee64fe4037b" name="a1d3ca2b103b23a95fb208ee64fe4037b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1d3ca2b103b23a95fb208ee64fe4037b">&#9670;&#160;</a></span>_map</h2>
 
 <div class="memitem">
 <div class="memproto">
-<div class="memtemplate">
-template&lt;class OBJECT &gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d3/d6a/a09048.html#a6bf9d06cfe6cb2e7df465ebf2acc099f">iterator</a> <a class="el" href="../../d3/d6a/a09048.html">GridRefMgr</a>&lt; OBJECT &gt;::rbegin </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
+          <td class="memname"><a class="el" href="../../d7/d63/a09780.html">Map</a>* GridObjectLoader::_map</td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   37</span>{ <span class="keywordflow">return</span> <a class="code hl_typedef" href="../../d3/d6a/a09048.html#a6bf9d06cfe6cb2e7df465ebf2acc099f">iterator</a>(<a class="code hl_function" href="../../d3/d6a/a09048.html#a46a36813eaf752815a3f8c739db88a5d">getLast</a>()); }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00033">GridRefMgr&lt; OBJECT &gt;::getLast()</a>.</p>
 
-</div>
-</div>
-<a id="a3f7b88b333f1da3a6ffdfc8ec31d8f52" name="a3f7b88b333f1da3a6ffdfc8ec31d8f52"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a3f7b88b333f1da3a6ffdfc8ec31d8f52">&#9670;&#160;</a></span>rend()</h2>
+<p class="reference">Referenced by <a class="el" href="../../#l00081">LoadAllCellsInGrid()</a>.</p>
 
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;class OBJECT &gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d3/d6a/a09048.html#a6bf9d06cfe6cb2e7df465ebf2acc099f">iterator</a> <a class="el" href="../../d3/d6a/a09048.html">GridRefMgr</a>&lt; OBJECT &gt;::rend </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   38</span>{ <span class="keywordflow">return</span> <a class="code hl_typedef" href="../../d3/d6a/a09048.html#a6bf9d06cfe6cb2e7df465ebf2acc099f">iterator</a>(<span class="keyword">nullptr</span>); }</div>
-</div><!-- fragment -->
 </div>
 </div>
 </div><!-- contents -->
@@ -410,8 +485,8 @@ template&lt;class OBJECT &gt; </div>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d3/d6a/a09048.html">GridRefMgr</a></li>
-    <li class="footer">Generated on Mon Mar 3 2025 20:45:20 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d3/d6a/a09048.html">GridObjectLoader</a></li>
+    <li class="footer">Generated on Mon Apr 28 2025 20:44:27 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

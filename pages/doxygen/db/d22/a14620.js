@@ -1,6 +1,6 @@
 var a14620 =
 [
-    [ "npc_cos_stratholme_citizienAI", "d9/d22/a14624.html", "d9/d22/a14624" ],
-    [ "npc_cos_stratholme_citizien", "db/d22/a14620.html#a92f8d88ecfa9cc47d6799107e5de0107", null ],
-    [ "GetAI", "db/d22/a14620.html#a4f5f132b903241021a4e53dd60c0f43b", null ]
+    [ "boss_mal_ganisAI", "d9/d22/a14624.html", "d9/d22/a14624" ],
+    [ "boss_mal_ganis", "db/d22/a14620.html#a604becb65e766f4fb71d2ae168d1be4e", null ],
+    [ "GetAI", "db/d22/a14620.html#aa747abd11310c3535ea2ea37e4aac28b", null ]
 ];

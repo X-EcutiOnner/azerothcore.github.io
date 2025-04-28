@@ -1,5 +1,6 @@
 var a14804 =
 [
-    [ "pathId", "d6/d09/a14804.html#aefd9fa5c6e7f45047994c7cc47e5967c", null ],
-    [ "spellId", "d6/d09/a14804.html#af495f984d5b81baeaa61ddca127a9508", null ]
+    [ "instance_ragefire_chasm_InstanceMapScript", "d4/d0a/a14808.html", "d4/d0a/a14808" ],
+    [ "instance_ragefire_chasm", "d6/d09/a14804.html#ab7f27d3e73b24d16dcf9b114f7dd4b36", null ],
+    [ "GetInstanceScript", "d6/d09/a14804.html#a0568996a61ef91688b9f223cb3782e5a", null ]
 ];

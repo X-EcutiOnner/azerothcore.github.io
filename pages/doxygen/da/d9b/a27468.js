@@ -1,6 +1,9 @@
 var a27468 =
 [
-    [ "npc_pet_trainerAI", "de/de4/a27472.html", "de/de4/a27472" ],
-    [ "npc_pet_trainer", "da/d9b/a27468.html#ac2279bce52e911b1c339da5e68aa2501", null ],
-    [ "GetAI", "da/d9b/a27468.html#a4ecf9ac0abf43a00dc6bff2d2283eb37", null ]
+    [ "npc_chicken_cluckAI", "da/d9b/a27468.html#a4f2eaa107e2a8b4900fac54780ac9693", null ],
+    [ "JustEngagedWith", "da/d9b/a27468.html#a854eae196c68cb1e4dd1c1773870ef9a", null ],
+    [ "ReceiveEmote", "da/d9b/a27468.html#aa5d6d3ea3ad4d0f81781581a39933fc8", null ],
+    [ "Reset", "da/d9b/a27468.html#a5a32f458a7f09282e7ac53fa7d6255b4", null ],
+    [ "UpdateAI", "da/d9b/a27468.html#a86c8f74d0a55b9a041a789f16de8189d", null ],
+    [ "ResetFlagTimer", "da/d9b/a27468.html#a0d0507ae7a1eca369df288515856e1b5", null ]
 ];

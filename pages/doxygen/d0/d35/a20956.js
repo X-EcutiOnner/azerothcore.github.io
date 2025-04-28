@@ -1,7 +1,6 @@
 var a20956 =
 [
-    [ "HandleOnEffectRemove", "d0/d35/a20956.html#acccd790c53f567f93e64afa7b7d1fe6f", null ],
-    [ "PrepareAuraScript", "d0/d35/a20956.html#a72e6468602d40eb479a80c611d60eb2e", null ],
-    [ "Register", "d0/d35/a20956.html#a213b50ebb7ce248a36dd78167d1190bb", null ],
-    [ "Validate", "d0/d35/a20956.html#a8f3ec40c0c2e38dc32db30ce36129684", null ]
+    [ "HandleEffectPeriodic", "d0/d35/a20956.html#a3dd6eaa3e5800b92e19c12e47b0ad132", null ],
+    [ "PrepareAuraScript", "d0/d35/a20956.html#a0b24e94cfce6b57d2dc8b36c3fe1c39f", null ],
+    [ "Register", "d0/d35/a20956.html#a4dd779cac93c2f847495dadc67c0beb2", null ]
 ];

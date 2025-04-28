@@ -1,7 +1,14 @@
 var a20112 =
 [
-    [ "HandleEffectPeriodic", "da/d80/a20112.html#af6c50396e9b47cd909184aea80244728", null ],
-    [ "PrepareAuraScript", "da/d80/a20112.html#aeb41825334049c8e3a39b48cbf271477", null ],
-    [ "Register", "da/d80/a20112.html#aaa44ceb54aa928c4436120f435bcdc4b", null ],
-    [ "Validate", "da/d80/a20112.html#a0098e4949fc75b1a2464128f4df869aa", null ]
+    [ "npc_ulduar_hodir_priestAI", "da/d80/a20112.html#aaa57c813d15ebf0c08a43e4530e5acdd", null ],
+    [ "AttackStart", "da/d80/a20112.html#a54058aacbf9e49f42f4f84779e0ec8ea", null ],
+    [ "CanAIAttack", "da/d80/a20112.html#a769a825c8e33bce3a130dbec53072aa4", null ],
+    [ "EnterEvadeMode", "da/d80/a20112.html#a2d92c0e03de238de439ccb3a10819cd1", null ],
+    [ "JustDied", "da/d80/a20112.html#a23a3783dc151bb7f1c5c4183b22578b0", null ],
+    [ "MoveInLineOfSight", "da/d80/a20112.html#aaa3764a042473d20526758553b968a39", null ],
+    [ "ScheduleAbilities", "da/d80/a20112.html#aab32336d42900a275613a227ccba18a7", null ],
+    [ "SpellHit", "da/d80/a20112.html#af6afbd5b0560fc4665ecb0d00010ecbc", null ],
+    [ "UpdateAI", "da/d80/a20112.html#af2b162485414ea0cdda3b19d15c2686f", null ],
+    [ "events", "da/d80/a20112.html#afdc842e08125223760d1eac105aef65b", null ],
+    [ "pInstance", "da/d80/a20112.html#a9630107a0a8f128c6b62493163a9e246", null ]
 ];

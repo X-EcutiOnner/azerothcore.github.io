@@ -1,5 +1,5 @@
 var a28104 =
 [
-    [ "id", "d3/d40/a28104.html#a22e48015dd880199e131089e35b1ce05", null ],
-    [ "spellId", "d3/d40/a28104.html#a956d683b42f34eae3a1ea3f8882716fd", null ]
+    [ "ID", "d3/d40/a28104.html#a65acb5af9a688346cbb7dc144710c768", null ],
+    [ "inventoryIcon", "d3/d40/a28104.html#a26b43ee179bd546c6e956dd797fc0842", null ]
 ];

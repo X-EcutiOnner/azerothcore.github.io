@@ -1,8 +1,11 @@
 var a22164 =
 [
-    [ "npc_hyldsmeet_protodrakeAI", "df/d03/a22164.html#a30794392a32b1323fb0a86615b341741", null ],
-    [ "PassengerBoarded", "df/d03/a22164.html#acb699d519bf79702a34b7d9910fe7c9e", null ],
-    [ "UpdateAI", "df/d03/a22164.html#afd2168f8dc7328898f5e769c31c6da5a", null ],
-    [ "_accessoryRespawnTimer", "df/d03/a22164.html#a4c6b4236bf35278d05c4b78f1eda6b75", null ],
-    [ "_vehicleKit", "df/d03/a22164.html#aba68a138ef44af7d012c8c7dd4c06c6d", null ]
+    [ "npc_iron_watcherAI", "df/d03/a22164.html#a5f0c3d759dfba81cb2010d2a0b479909", null ],
+    [ "MovementInform", "df/d03/a22164.html#aaf329f0160efa778abdebf86b1cf230b", null ],
+    [ "Reset", "df/d03/a22164.html#a878f26cd41ccb9d777f9db00e2e30568", null ],
+    [ "SpellHit", "df/d03/a22164.html#afce7cebdb4a49d9e5618ac211b235c6b", null ],
+    [ "UpdateAI", "df/d03/a22164.html#a50391c9950fbbaf170600f13bab1e6bb", null ],
+    [ "charging", "df/d03/a22164.html#af5be6fc6d7d234cfd2ac78f636b0ad7c", null ],
+    [ "hpTimer", "df/d03/a22164.html#afcbb113387345361baf0351a19e6eb1d", null ],
+    [ "spellTimer", "df/d03/a22164.html#a9bcd8d80b0a74c7abf0fc8b3bb32aa30", null ]
 ];

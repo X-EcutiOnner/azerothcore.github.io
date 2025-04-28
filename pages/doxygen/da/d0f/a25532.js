@@ -1,6 +1,6 @@
 var a25532 =
 [
-    [ "HandleEffectApply", "da/d0f/a25532.html#a9e8b226f3ebb33c47de584850643994f", null ],
-    [ "PrepareAuraScript", "da/d0f/a25532.html#a30b74d44bb81a04ea1cfe1b6d5f926c7", null ],
-    [ "Register", "da/d0f/a25532.html#a1d3d32c057877b5cf00f5970e583c25e", null ]
+    [ "HandleSummon", "da/d0f/a25532.html#ad1ee0eb347454d50216610a266226d68", null ],
+    [ "PrepareSpellScript", "da/d0f/a25532.html#a15a545ee3ec4a926f1330ce0ad975d3e", null ],
+    [ "Register", "da/d0f/a25532.html#aa145041af68291f107c3ff11ce15b85e", null ]
 ];

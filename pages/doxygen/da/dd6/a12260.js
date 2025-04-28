@@ -1,7 +1,6 @@
 var a12260 =
 [
-    [ "HandleRemove", "da/dd6/a12260.html#a754b44b62c131e20e1be94b3407e2006", null ],
-    [ "PrepareAuraScript", "da/dd6/a12260.html#a92a58e6bcde5f80c6962ce1da47aca2d", null ],
-    [ "Register", "da/dd6/a12260.html#a02cd375ec140f7614104b7e56df13430", null ],
-    [ "Validate", "da/dd6/a12260.html#a4dd592093c1b00388a54fd8aa1b86904", null ]
+    [ "boss_razorgoreAI", "da/d4f/a12264.html", "da/d4f/a12264" ],
+    [ "boss_razorgore", "da/dd6/a12260.html#aee534a04797c5938e6da00f2ab119943", null ],
+    [ "GetAI", "da/dd6/a12260.html#a4683a5deefdb9d3219638189e9a99c2a", null ]
 ];

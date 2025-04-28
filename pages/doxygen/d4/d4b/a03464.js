@@ -1,6 +1,6 @@
 var a03464 =
 [
-    [ "fireworkShowGameobjectOrgrimmar", "d4/d4b/a03464.html#aa00988212bcd8875445e2b120c00025c", null ],
-    [ "fireworkShowOrgrimmar", "d4/d4b/a03464.html#a20e15c8e61c734af478a4849bd54c9d3", null ],
-    [ "fireworkShowScheduleOrgrimmar", "d4/d4b/a03464.html#a2e2ca4fa893601a2122f94a72c18401f", null ]
+    [ "lfg::LFGPlayerScript", "d0/d20/a07952.html", "d0/d20/a07952" ],
+    [ "lfg::LFGGroupScript", "dc/d0c/a07956.html", "dc/d0c/a07956" ],
+    [ "AddSC_LFGScripts", "d4/d4b/a03464.html#a9624b9328e26a9f420a4a3f07e253763", null ]
 ];

@@ -1,8 +1,7 @@
 var a24052 =
 [
-    [ "CreatureId", "dc/dfb/a24052.html#a127341c70f8785ceb556b1c11b23f477", null ],
-    [ "SpawnCount", "dc/dfb/a24052.html#ad51fb68e41e04490f658a4c4f62612bd", null ],
-    [ "SpawnTimer", "dc/dfb/a24052.html#aa57ff686c5fde12269e231333d8a8bef", null ],
-    [ "UsedSpawnPoint", "dc/dfb/a24052.html#a2d5f42a6b1a309c8db74febcedf457eb", null ],
-    [ "YellTimer", "dc/dfb/a24052.html#a6346259269af7f2936f959f87288dd69", null ]
+    [ "HandleScriptEffect", "dc/dfb/a24052.html#ad018d907a85ee31d3194823a4c02a1a5", null ],
+    [ "PrepareSpellScript", "dc/dfb/a24052.html#a50b6bc43eaeee0ec760c02ac1685454e", null ],
+    [ "Register", "dc/dfb/a24052.html#a2096673a3f57cc224aeb7d3ce84526cb", null ],
+    [ "Validate", "dc/dfb/a24052.html#a5209de3456c374010502a94f67ff4544", null ]
 ];

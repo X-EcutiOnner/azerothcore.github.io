@@ -1,10 +1,8 @@
 var a03521 =
 [
-    [ "spell_utgarde_pinnacle_beast_mark", "de/d49/a21121.html", "de/d49/a21121" ],
-    [ "UtgardeSpells", "d8/dbe/a03521.html#ae8fa29243650c07aed99f9ee3cad321a", [
-      [ "SPELL_BEAST_MARK_NORMAL", "d8/dbe/a03521.html#ae8fa29243650c07aed99f9ee3cad321aa515971380a351ffe4dc21aefd7d9a8aa", null ],
-      [ "SPELL_BEAST_MARK_DAMAGE_N", "d8/dbe/a03521.html#ae8fa29243650c07aed99f9ee3cad321aa519ee30eba59f71f788bd5aaa9ea8a4f", null ],
-      [ "SPELL_BEAST_MARK_DAMAGE_H", "d8/dbe/a03521.html#ae8fa29243650c07aed99f9ee3cad321aa28cc83c9c8ba75d8dd51298affc35aa7", null ]
-    ] ],
-    [ "AddSC_utgarde_pinnacle", "d8/dbe/a03521.html#aa865b80ad4fb44b0c96fa45f08d06d71", null ]
+    [ "ePoints", "d8/dbe/a03521.html#a2604bd06487e34b78d3e50cd892f3c4d", [
+      [ "POINT_LAST_POINT", "d8/dbe/a03521.html#a2604bd06487e34b78d3e50cd892f3c4da7d10089a0c5a8c42786b90cd3ba643cb", null ],
+      [ "POINT_HOME", "d8/dbe/a03521.html#a2604bd06487e34b78d3e50cd892f3c4da032be97ee26935943c3313fb24491162", null ],
+      [ "POINT_COMBAT_START", "dc/d98/a03524.html#a2604bd06487e34b78d3e50cd892f3c4da91adf90069f0b0a515897fbdc91e20b4", null ]
+    ] ]
 ];

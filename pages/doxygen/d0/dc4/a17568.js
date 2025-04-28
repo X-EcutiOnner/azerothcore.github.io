@@ -1,5 +1,7 @@
 var a17568 =
 [
-    [ "achievement_im_on_a_boat", "d0/dc4/a17568.html#aa25d330534aab023ec798e86976a6d50", null ],
-    [ "OnCheck", "d0/dc4/a17568.html#ab4fffc061b9ff77563e7e0a5a796be1e", null ]
+    [ "FilterTargets", "d0/dc4/a17568.html#a32b2fa87fb2eaca3db0801fbfe4b8aaa", null ],
+    [ "Load", "d0/dc4/a17568.html#a39e8ec4726a1f6c2911c165c7187f291", null ],
+    [ "PrepareSpellScript", "d0/dc4/a17568.html#a7526a6df4c25136f4be78e753c6abf62", null ],
+    [ "Register", "d0/dc4/a17568.html#a0d01b8292c1c071a5c828a5a88617bd5", null ]
 ];

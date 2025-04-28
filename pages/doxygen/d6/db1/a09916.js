@@ -1,12 +1,14 @@
 var a09916 =
 [
-    [ "RotateMovementGenerator", "d6/db1/a09916.html#a89a6559b4380210972e82c6ca6d5a9db", null ],
-    [ "Finalize", "d6/db1/a09916.html#afd7588c7877b116cc9626a774b89d584", null ],
-    [ "GetMovementGeneratorType", "d6/db1/a09916.html#a20677803edf5d93ceae3bf76ef426a81", null ],
-    [ "Initialize", "d6/db1/a09916.html#a18fea8760bb24912af9349a06ff7b596", null ],
-    [ "Reset", "d6/db1/a09916.html#a3e177762fcfc11ac47aa820b46b93ed0", null ],
-    [ "Update", "d6/db1/a09916.html#a0dc8600e3aa862a81735dfb927232e53", null ],
-    [ "m_direction", "d6/db1/a09916.html#a8717e890670d9f4e2ff66c0981d14aa6", null ],
-    [ "m_duration", "d6/db1/a09916.html#a2cb8d5fc3d26c24e62c7373f1ce49b13", null ],
-    [ "m_maxDuration", "d6/db1/a09916.html#a7cf10886bdd50ccbc5900b9229958e01", null ]
+    [ "EscortMovementGenerator", "d6/db1/a09916.html#a9d653e50662103f5f6661da5226ae99e", null ],
+    [ "DoFinalize", "d6/db1/a09916.html#a4c191a86f5ecc30ae5b34d7578d58d3e", null ],
+    [ "DoInitialize", "d6/db1/a09916.html#ad068798c6e186c1eb1a79f3872955e97", null ],
+    [ "DoReset", "d6/db1/a09916.html#ac4934d70ab62e08488cfc29c13355a7f", null ],
+    [ "DoUpdate", "d6/db1/a09916.html#a524bb8f72836dc5d1b63e429436b3a77", null ],
+    [ "GetMovementGeneratorType", "d6/db1/a09916.html#a0733162a5a0cab2593150f288edeb27b", null ],
+    [ "GetSplineId", "d6/db1/a09916.html#a61d74b098d1ae692ce305fa493aaa6d2", null ],
+    [ "unitSpeedChanged", "d6/db1/a09916.html#a235e330c4c3368af00d37028915684ff", null ],
+    [ "_splineId", "d6/db1/a09916.html#af6286fa4ed6afcc8a6c5f03575c774e6", null ],
+    [ "i_recalculateSpeed", "d6/db1/a09916.html#a9f7048c5e49cc09f809496312a0c6550", null ],
+    [ "m_precomputedPath", "d6/db1/a09916.html#a46eb2812a1b2a56e584b925cae2169eb", null ]
 ];

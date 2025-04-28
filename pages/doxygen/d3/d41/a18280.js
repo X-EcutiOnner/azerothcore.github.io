@@ -1,5 +1,6 @@
 var a18280 =
 [
-    [ "achievement_neck_deep_in_vile", "d3/d41/a18280.html#af0e54c236e7637d8c1a8cf7dbed5a195", null ],
-    [ "OnCheck", "d3/d41/a18280.html#a9861c008f302279a4ac5f4ddc14ca2d0", null ]
+    [ "npc_spirit_wardenAI", "d9/d68/a18284.html", "d9/d68/a18284" ],
+    [ "npc_spirit_warden", "d3/d41/a18280.html#ab585d20eadb7876752d731702db44293", null ],
+    [ "GetAI", "d3/d41/a18280.html#ab33ab494d7fee64eed7c75464ce60489", null ]
 ];

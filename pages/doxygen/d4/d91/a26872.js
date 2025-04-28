@@ -1,5 +1,6 @@
 var a26872 =
 [
-    [ "achievement_everything_counts", "d4/d91/a26872.html#af18e6b3128a9d722c98f33f7ec6430b3", null ],
-    [ "OnCheck", "d4/d91/a26872.html#a81741a8df4d10b37314ec8ef09eb888b", null ]
+    [ "HandleScript", "d4/d91/a26872.html#ab2bad52272a5cd7167a7601fdfa02b1d", null ],
+    [ "PrepareSpellScript", "d4/d91/a26872.html#a60454f2c1ba8d1ea160350b5e02bf56d", null ],
+    [ "Register", "d4/d91/a26872.html#a22b9877e2cd27c925ae7b351d3d6f41b", null ]
 ];

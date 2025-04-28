@@ -1,7 +1,25 @@
 var a05172 =
 [
-    [ "SymbolPair", "d8/de4/a05172.html#ad6b1fba614fa7de6471c56078b62c57d", null ],
-    [ "operator<", "d8/de4/a05172.html#a94b5b6c8c41fb53aa2a28e089d495545", null ],
-    [ "_offset", "d8/de4/a05172.html#ac011ac111d0ced8871d315e164948bea", null ],
-    [ "_type", "d8/de4/a05172.html#a50579f45ce4d7ef0155bac20b1958254", null ]
+    [ "Record", "d3/dd2/a05176.html", "d3/dd2/a05176" ],
+    [ "DBCFileLoader", "d8/de4/a05172.html#a99ba418c63c49cf9a028626b8e282a01", null ],
+    [ "~DBCFileLoader", "d8/de4/a05172.html#a2e8dd3e5d88b870ea01e0c8dbfa55acd", null ],
+    [ "DBCFileLoader", "d8/de4/a05172.html#a2e75536e8df1449449b4b6fe5585074d", null ],
+    [ "AutoProduceData", "d8/de4/a05172.html#af8810dd9cef9ed82036bbebb4c938521", null ],
+    [ "AutoProduceStrings", "d8/de4/a05172.html#a12054e13d90636076ce04587aacf8ff6", null ],
+    [ "GetCols", "d8/de4/a05172.html#a3c536a9333a06213a37c95087eaaf8e3", null ],
+    [ "GetFormatRecordSize", "d8/de4/a05172.html#a990308cf88d2772db090c37a66e9f9e5", null ],
+    [ "GetNumRows", "d8/de4/a05172.html#aeedb51dd9b316063a58a989b175d0bc5", null ],
+    [ "GetOffset", "d8/de4/a05172.html#ae624604ad0cdae8d3eb7212630a33613", null ],
+    [ "getRecord", "d8/de4/a05172.html#ac4b1c79585f63f53f6d48db235732e20", null ],
+    [ "GetRowSize", "d8/de4/a05172.html#af322bc9e92472463998ca8082c5da3d6", null ],
+    [ "IsLoaded", "d8/de4/a05172.html#a28bf265dafc284e9edb55fc1ed261694", null ],
+    [ "Load", "d8/de4/a05172.html#a32c6a04567395f66270858c5feb57f5f", null ],
+    [ "operator=", "d8/de4/a05172.html#ac2b0f30fb125b8dae385ca8330d02e8b", null ],
+    [ "data", "d8/de4/a05172.html#a137152d873bfa3cb2d3860fe6001f404", null ],
+    [ "fieldCount", "d8/de4/a05172.html#a920472d71232fa759bce768fdca9a1c4", null ],
+    [ "fieldsOffset", "d8/de4/a05172.html#a7aa68d259f6295df3029456bde143862", null ],
+    [ "recordCount", "d8/de4/a05172.html#a1a17426b679598ee27363e897b40f2bf", null ],
+    [ "recordSize", "d8/de4/a05172.html#ab4f28de7c57a6e25c715bb009ed5f701", null ],
+    [ "stringSize", "d8/de4/a05172.html#a0761727ba38d899f337c733873742d69", null ],
+    [ "stringTable", "d8/de4/a05172.html#a5961bf01316cc14a075c1b874000e8a2", null ]
 ];

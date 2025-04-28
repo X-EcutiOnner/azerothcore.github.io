@@ -1,7 +1,12 @@
 var a20212 =
 [
-    [ "boss_kologarn_pit_kill_bunny", "d5/d3a/a20212.html#a0ecbc2ae8850d4cfb84f40d2a13f4976", null ],
-    [ "Reset", "d5/d3a/a20212.html#afd7482896b66f040b8d57b9b6ac37059", null ],
-    [ "UpdateAI", "d5/d3a/a20212.html#ad863666aec3db81f73165148ffc98033", null ],
-    [ "_boundaryIntersect", "d5/d3a/a20212.html#abc0560637830e70d54ce1fb6b6881ca6", null ]
+    [ "npc_ulduar_iron_constructAI", "d5/d3a/a20212.html#ab81224d24ab1925cde97ab76c2a514d1", null ],
+    [ "DamageTaken", "d5/d3a/a20212.html#a5235538b755dd83615d80a1f7d0ec1b9", null ],
+    [ "JustDied", "d5/d3a/a20212.html#a5b8e1c38257fc13c59bcaf8cb251fee2", null ],
+    [ "JustReachedHome", "d5/d3a/a20212.html#a12416ffe731f96a1ca2949d995eb909c", null ],
+    [ "MoveInLineOfSight", "d5/d3a/a20212.html#a12b228a1edb9460ddcb2b8232bb8209e", null ],
+    [ "Reset", "d5/d3a/a20212.html#ac6dba374d72247be14923aa54898b9b5", null ],
+    [ "SpellHit", "d5/d3a/a20212.html#a10a5444576af84ae50ad8af930ed5970", null ],
+    [ "UpdateAI", "d5/d3a/a20212.html#ac5aabd4a48b6a2f5057eb5ee8a8c99f8", null ],
+    [ "timer", "d5/d3a/a20212.html#ae1996cf79f8a82df7fe02cd60e5ce3a4", null ]
 ];

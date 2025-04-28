@@ -1,6 +1,6 @@
 var a12828 =
 [
-    [ "npc_unworthy_initiate_anchorAI", "d6/d01/a12832.html", "d6/d01/a12832" ],
-    [ "npc_unworthy_initiate_anchor", "d1/d60/a12828.html#a3d4c6d9e5ffa66d3424297b27e5ac4a1", null ],
-    [ "GetAI", "d1/d60/a12828.html#ab012983661d20a3ffa4f58136bd2d808", null ]
+    [ "npc_dkc1_gothikAI", "d6/d01/a12832.html", "d6/d01/a12832" ],
+    [ "npc_dkc1_gothik", "d1/d60/a12828.html#ae4a6aec0235b01044ebd5c9c71d400d9", null ],
+    [ "GetAI", "d1/d60/a12828.html#aeb285cf6977cfab5d337f51ae41907ec", null ]
 ];

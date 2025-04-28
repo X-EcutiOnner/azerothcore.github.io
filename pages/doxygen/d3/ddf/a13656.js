@@ -1,7 +1,6 @@
 var a13656 =
 [
-    [ "Load", "d3/ddf/a13656.html#a9888c598c4d6cf77c49e15f68c3db225", null ],
-    [ "OnRemove", "d3/ddf/a13656.html#ad4044dcd8c88eba88d032a96ca79dc4c", null ],
-    [ "PrepareAuraScript", "d3/ddf/a13656.html#a07abb27367cc0a59bdf60a30dfb7cfb0", null ],
-    [ "Register", "d3/ddf/a13656.html#ac2db8f8d9b778a0a36081c897f4149cb", null ]
+    [ "npc_the_scourge_cauldronAI", "d9/d54/a13660.html", "d9/d54/a13660" ],
+    [ "npc_the_scourge_cauldron", "d3/ddf/a13656.html#a7ff5315293c4917dec3b0fe0aade2016", null ],
+    [ "GetAI", "d3/ddf/a13656.html#ae4e35f1cac0c0f35333ba6113d3c1ad0", null ]
 ];

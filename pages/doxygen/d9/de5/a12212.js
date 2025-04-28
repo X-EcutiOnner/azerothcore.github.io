@@ -1,7 +1,6 @@
 var a12212 =
 [
-    [ "HandlePeriodic", "d9/de5/a12212.html#a72e043202c587e6c12d0b36d679cd071", null ],
-    [ "PrepareAuraScript", "d9/de5/a12212.html#a7ca007283e34855ee825ae160653f4a3", null ],
-    [ "Register", "d9/de5/a12212.html#aebad39c65167042be8db3c3a1811a235", null ],
-    [ "Validate", "d9/de5/a12212.html#aaf87c4052fd5408f7e34e2e14500e813", null ]
+    [ "boss_victor_nefariusAI", "d1/d96/a12216.html", "d1/d96/a12216" ],
+    [ "boss_victor_nefarius", "d9/de5/a12212.html#a85c529c49a0373a553bc59818fb18f49", null ],
+    [ "GetAI", "d9/de5/a12212.html#a6ea19bde6980cbb4ca627d17cf57ae24", null ]
 ];

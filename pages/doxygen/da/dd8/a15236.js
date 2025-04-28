@@ -1,8 +1,6 @@
 var a15236 =
 [
-    [ "npc_prospector_remtravelAI", "da/dd8/a15236.html#a61f26115382f16f3d65c3d4e1c720f02", null ],
-    [ "JustEngagedWith", "da/dd8/a15236.html#adf388d36c17b69f881e3cb92d9b78b9b", null ],
-    [ "JustSummoned", "da/dd8/a15236.html#a6b3dd1552b5313dd04d07dc80eef06fe", null ],
-    [ "Reset", "da/dd8/a15236.html#ac145a4a4a24be227c31fcc5aefd922eb", null ],
-    [ "WaypointReached", "da/dd8/a15236.html#a7b02b22e9dc63e1fad6b15a44b2ff9b6", null ]
+    [ "npc_death_ravagerAI", "d1/d77/a15240.html", "d1/d77/a15240" ],
+    [ "npc_death_ravager", "da/dd8/a15236.html#a6aa04a28ce5aa0e467e638c8ffe11657", null ],
+    [ "GetAI", "da/dd8/a15236.html#a284d0b8ccf902d3f03ddfc6750fe0f1c", null ]
 ];

@@ -1,20 +1,13 @@
 var a21584 =
 [
-    [ "npc_hourglass_of_eternityAI", "df/db2/a21584.html#a51c68ff78150b7351dc34edf7a51e1a7", null ],
-    [ "GetCopy", "df/db2/a21584.html#addacaa0e3ba686d9cb343689c56fc4b5", null ],
-    [ "GetPlayer", "df/db2/a21584.html#a1216634009d635f5a1658cae62f92133", null ],
-    [ "HideNozdormu", "df/db2/a21584.html#acbcf4d9602bf87b2c4c4f898c8a6f6b0", null ],
-    [ "InitializeAI", "df/db2/a21584.html#af592003f019ace3e78ff7a19ada3e8f6", null ],
-    [ "IsFuture", "df/db2/a21584.html#a19527a426055c689a36f5b02e2978307", null ],
-    [ "randEntry", "df/db2/a21584.html#af581d3a7697fdb0f257d72568c342df8", null ],
-    [ "randomWhisper", "df/db2/a21584.html#a235353e41ee463f43f3d18a7b4f5a75d", null ],
-    [ "ShowNozdormu", "df/db2/a21584.html#a483e2a5a89b3dc4cfd51bb78732a6af2", null ],
-    [ "UpdateAI", "df/db2/a21584.html#a66a80c2c36a5fa7a89b30a7c872007d8", null ],
-    [ "copyGUID", "df/db2/a21584.html#add68894964681b8345c3751510f7e48c", null ],
-    [ "count", "df/db2/a21584.html#a126b67aacdfd0d96ad443944e9244f3b", null ],
-    [ "events", "df/db2/a21584.html#ae2d5690e0dc5205d68bd1ddb1b0ca3a9", null ],
-    [ "lastRandomTalk", "df/db2/a21584.html#aa00ff56a5a906e97ddf4d10d300c85c4", null ],
-    [ "pGUID", "df/db2/a21584.html#a6ad97b2c11057f936dce4aad04894177", null ],
-    [ "phase", "df/db2/a21584.html#ad7d3755e7b13c4b37d56f14746acc1e1", null ],
-    [ "randomTalk", "df/db2/a21584.html#a19042362c0dc7da80b81d284d2fa7e4b", null ]
+    [ "npc_shandy_dalaranAI", "df/db2/a21584.html#ae93b853e4852ce71c4d588d4621b16a1", null ],
+    [ "Reset", "df/db2/a21584.html#a38f0630d4e18cea01de343afdcb96db3", null ],
+    [ "RollTask", "df/db2/a21584.html#acd1daa5bc99f281bd1ca78d4cdaf5a9e", null ],
+    [ "SetData", "df/db2/a21584.html#a5c8a0e6e0729d872c230aa72d41236a3", null ],
+    [ "UpdateAI", "df/db2/a21584.html#ac7c8e87b784d8738b8aacbcb58f471b1", null ],
+    [ "_aquanosGUID", "df/db2/a21584.html#aa1dfb61fbaae6ab2e25dd9779ec63ed1", null ],
+    [ "_canWash", "df/db2/a21584.html#af5b1aae6b2dd82c8199caedec3a8fdec", null ],
+    [ "_events", "df/db2/a21584.html#a3fbae63669c8382097b0bcb936301945", null ],
+    [ "_lCount", "df/db2/a21584.html#ad55bea5f33de226ff230f99059dc9ec3", null ],
+    [ "_lSource", "df/db2/a21584.html#a9e01cee4a79bfac56b1d1ecdac17ca3f", null ]
 ];

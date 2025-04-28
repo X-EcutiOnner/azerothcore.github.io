@@ -1,6 +1,5 @@
 var a22320 =
 [
-    [ "npc_storm_cloudAI", "db/deb/a22324.html", "db/deb/a22324" ],
-    [ "npc_storm_cloud", "d9/d41/a22320.html#a8403185cdf54b2924024ba1d1d44a06a", null ],
-    [ "GetAI", "d9/d41/a22320.html#a952bd1cf5406b989182d8560d8b9e665", null ]
+    [ "achievement_wg_within_our_grasp", "d9/d41/a22320.html#a9edbd15bc6989c6948e21391a683d22d", null ],
+    [ "OnCheck", "d9/d41/a22320.html#a10b659c4b52322536333e3d191796c27", null ]
 ];

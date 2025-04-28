@@ -1,12 +1,7 @@
 var a21560 =
 [
-    [ "npc_dalaran_warriorAI", "dc/d82/a21560.html#a0c96d8b0797a1388f9fe725753ea91bc", null ],
-    [ "Initialize", "dc/d82/a21560.html#aa04ecd7a8f988e94ab663a7994e83dd9", null ],
-    [ "JustEngagedWith", "dc/d82/a21560.html#ae6690f0681363784e457fbd653f5b3f9", null ],
-    [ "Reset", "dc/d82/a21560.html#a074d116ba39d87fa85c17fbc1764c79b", null ],
-    [ "UpdateAI", "dc/d82/a21560.html#ae2a740ecd35694b4d04c6aea7ae567fa", null ],
-    [ "Battleshout_timer", "dc/d82/a21560.html#ae36f30f816164b60232bd849e74c3da1", null ],
-    [ "disarm_timer", "dc/d82/a21560.html#a54f7ceb37d7e3456166f5af761c95e9e", null ],
-    [ "hamstring_timer", "dc/d82/a21560.html#ae0e660b8c3faf70a6061260a4b90a4af", null ],
-    [ "shout_timer", "dc/d82/a21560.html#ac91770c1e9eb31d687247450898a48ae", null ]
+    [ "npc_warmage_violetstand", "dc/d82/a21560.html#a1f67c9521cc3bd63886a8936b28e6622", null ],
+    [ "Reset", "dc/d82/a21560.html#a99015610597f43f184cc686c9fab2fa9", null ],
+    [ "UpdateAI", "dc/d82/a21560.html#aa0eac837ab697c3e0cd5ab753f0bd0b4", null ],
+    [ "targetGUID", "dc/d82/a21560.html#a46560aa7aa90778967a79c931a81721b", null ]
 ];

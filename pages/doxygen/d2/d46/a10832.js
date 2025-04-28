@@ -1,6 +1,4 @@
 var a10832 =
 [
-    [ "PetUnlearnedSpell", "d2/d46/a10832.html#aa2b125a271228aee0d942a207de170b7", null ],
-    [ "Write", "d2/d46/a10832.html#a11cf7780eba530026a0898bfafd27109", null ],
-    [ "SpellID", "d2/d46/a10832.html#adfca5feb5be2408e489edc44e9cd215b", null ]
+    [ "format", "d2/d46/a10832.html#a24a0c7409f4aa2903361863f9cc4c8b6", null ]
 ];

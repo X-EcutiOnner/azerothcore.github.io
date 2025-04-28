@@ -1,6 +1,6 @@
 var a19404 =
 [
-    [ "instance_halls_of_lightning_InstanceMapScript", "dc/dbe/a19408.html", "dc/dbe/a19408" ],
-    [ "instance_halls_of_lightning", "da/d89/a19404.html#a24395866efe2c7d1f7727be2557a8b46", null ],
-    [ "GetInstanceScript", "da/d89/a19404.html#a5ce157aeaf2ed78e98e864059a599b36", null ]
+    [ "boss_ionarAI", "dc/dbe/a19408.html", "dc/dbe/a19408" ],
+    [ "boss_ionar", "da/d89/a19404.html#a284da7d86f0b386e352587e0321bf465", null ],
+    [ "GetAI", "da/d89/a19404.html#a0c0f28f832458df7326842f04413af5d", null ]
 ];

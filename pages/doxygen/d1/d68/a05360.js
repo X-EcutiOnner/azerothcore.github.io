@@ -1,18 +1,12 @@
 var a05360 =
 [
-    [ "ProducerConsumerQueue", "d1/d68/a05360.html#a79b3575e4e25204841ad6b2ca43b0b38", null ],
-    [ "Cancel", "d1/d68/a05360.html#a7e9de516e77945411ad4f8bfa161489d", null ],
-    [ "DeleteQueuedObject", "d1/d68/a05360.html#af375e232b14a288b4e514f4e1e726f06", null ],
-    [ "DeleteQueuedObject", "d1/d68/a05360.html#a10e893856377f7f7a4be62c224a2aef3", null ],
-    [ "Empty", "d1/d68/a05360.html#a1ad8d5d17442d0148b2d8d99e8c798b4", null ],
-    [ "Pop", "d1/d68/a05360.html#afe8119f67dd7d95bbcd749d7ac9404d4", null ],
-    [ "Push", "d1/d68/a05360.html#abd3bd3c88fbd7d8edb721fc5f89da5ed", null ],
-    [ "Shutdown", "d1/d68/a05360.html#aff2060f9ae351caf2da543a5379911ca", null ],
-    [ "Size", "d1/d68/a05360.html#adeefabd0da1df47a9ef3ec2fc6a78b80", null ],
-    [ "WaitAndPop", "d1/d68/a05360.html#a172ef4211bcb237478ec57531c8dcc4d", null ],
-    [ "_cancel", "d1/d68/a05360.html#a54223137936cfa679327d01313adfa01", null ],
-    [ "_condition", "d1/d68/a05360.html#ace83931f4236e97f32c58067b05d35e9", null ],
-    [ "_queue", "d1/d68/a05360.html#a5fc3a20c094041e2da999c4b37d735f0", null ],
-    [ "_queueLock", "d1/d68/a05360.html#a18c7223e356b338f9ddbc17eadc6a21e", null ],
-    [ "_shutdown", "d1/d68/a05360.html#a994ad012dfe4e9cd4d76d8eb9270f0d2", null ]
+    [ "Node", "d7/ded/a05364.html", "d7/ded/a05364" ],
+    [ "MPSCQueueNonIntrusive", "d1/d68/a05360.html#a962c10fff5c86b00cc2e847ae758b9ce", null ],
+    [ "~MPSCQueueNonIntrusive", "d1/d68/a05360.html#a599e2093215f70dc4f2f7db08965d816", null ],
+    [ "MPSCQueueNonIntrusive", "d1/d68/a05360.html#a2d543ed2b5d1ab7f23ad82ee156e42ea", null ],
+    [ "Dequeue", "d1/d68/a05360.html#abadcc4a4ff97f4fa132978fbd0f37e1d", null ],
+    [ "Enqueue", "d1/d68/a05360.html#a63d8a4e4c085467d33d56fd3adf0f751", null ],
+    [ "operator=", "d1/d68/a05360.html#a75063e89049903fb5305d67ea1a02034", null ],
+    [ "_head", "d1/d68/a05360.html#a2fb1ef015f7b9a790ba1af73dc80ba35", null ],
+    [ "_tail", "d1/d68/a05360.html#a8a568d842fc8da8e39b325b459cdb44d", null ]
 ];

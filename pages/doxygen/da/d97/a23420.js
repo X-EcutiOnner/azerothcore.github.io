@@ -1,6 +1,6 @@
 var a23420 =
 [
-    [ "CheckProc", "da/d97/a23420.html#add583b34b9052fbb37c43c558f0f8b96", null ],
-    [ "PrepareAuraScript", "da/d97/a23420.html#a3d7ed0fa175daffcf11fc3ee04b189bf", null ],
-    [ "Register", "da/d97/a23420.html#ab91f611f59e83d4f1b7c71b1595db667", null ]
+    [ "instance_gruuls_lair_InstanceMapScript", "d4/d84/a23424.html", "d4/d84/a23424" ],
+    [ "instance_gruuls_lair", "da/d97/a23420.html#ae091404d09e614fe893c20e8ed90d2c4", null ],
+    [ "GetInstanceScript", "da/d97/a23420.html#ab8b5b000f6099111244b4ea48f0ab029", null ]
 ];

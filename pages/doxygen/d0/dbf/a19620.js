@@ -1,6 +1,8 @@
 var a19620 =
 [
-    [ "CastRunesEvent", "d0/dbf/a19620.html#aa3c5912362a4ce8a5b463da626f277b0", null ],
-    [ "Execute", "d0/dbf/a19620.html#ad86f17817c8a5accb1cc90e0e5d362f3", null ],
-    [ "_owner", "d0/dbf/a19620.html#a308c679c6e427e89734b5f506ad9d0d6", null ]
+    [ "go_celestial_planetarium_accessAI", "d0/dbf/a19620.html#aca4d0e9babd6eefe84edc281f8a44cf2", null ],
+    [ "GossipHello", "d0/dbf/a19620.html#af159df46fecf2cd74ac4ec9fa006dc03", null ],
+    [ "UpdateAI", "d0/dbf/a19620.html#a9b2bfb74a12e3258476387fc78cde574", null ],
+    [ "_locked", "d0/dbf/a19620.html#a37f83dbbb05e461d613a4c38001f785c", null ],
+    [ "events", "d0/dbf/a19620.html#aa03b8d270054f2b71c1d625abe322fb8", null ]
 ];

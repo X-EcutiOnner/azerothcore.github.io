@@ -1,8 +1,6 @@
 var a26520 =
 [
-    [ "Apply", "d8/d9d/a26520.html#ac3145df90b6b179fece1c76da114e395", null ],
-    [ "HandleEffectPeriodic", "d8/d9d/a26520.html#a480dd240981f91666e25ea2f1f73e4d7", null ],
-    [ "PrepareAuraScript", "d8/d9d/a26520.html#aa911ba0b5a13a933bf50a072799a040f", null ],
-    [ "Register", "d8/d9d/a26520.html#ae0dff9b5002d3d3361d794a75645057f", null ],
-    [ "Validate", "d8/d9d/a26520.html#ad81184b508474a89fbafc63594ef0ab1", null ]
+    [ "HandleRemove", "d8/d9d/a26520.html#a92eb5e02c8b165caa877d368a456e5b2", null ],
+    [ "PrepareAuraScript", "d8/d9d/a26520.html#a132193c0c13a2f89b9b29391d524023a", null ],
+    [ "Register", "d8/d9d/a26520.html#a246294a7b9a128a9ec464562846332fc", null ]
 ];

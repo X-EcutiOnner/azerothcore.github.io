@@ -1,6 +1,6 @@
 var a16608 =
 [
-    [ "npc_fos_corrupted_soul_fragmentAI", "d7/d47/a16612.html", "d7/d47/a16612" ],
-    [ "npc_fos_corrupted_soul_fragment", "db/dc0/a16608.html#a4caefccfdfee2e906eb94e34bceb064c", null ],
-    [ "GetAI", "db/dc0/a16608.html#aed663e0a313223fcaa988b89b1b02df3", null ]
+    [ "HandleScript", "db/dc0/a16608.html#a4786e0c38f03f7e671174d0641526681", null ],
+    [ "PrepareSpellScript", "db/dc0/a16608.html#a7d260468f409a7fb41a39f80db5f9d63", null ],
+    [ "Register", "db/dc0/a16608.html#a943117bfb56b846e99d04bd9a348af8d", null ]
 ];

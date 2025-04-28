@@ -1,5 +1,6 @@
 var a27472 =
 [
-    [ "npc_pet_trainerAI", "de/de4/a27472.html#aa5c01fd7cf2b9fad15a3059b4fe38d13", null ],
-    [ "sGossipSelect", "de/de4/a27472.html#a6768c8f8f5e37058f85cb40d35caad72", null ]
+    [ "npc_dancing_flamesAI", "d2/d71/a27476.html", "d2/d71/a27476" ],
+    [ "npc_dancing_flames", "de/de4/a27472.html#adec0401f876ddf159f28fdda8bc4d563", null ],
+    [ "GetAI", "de/de4/a27472.html#a1000d0b95dab3a6e73efa0ca088ce4e6", null ]
 ];

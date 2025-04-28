@@ -1,9 +1,12 @@
 var a22552 =
 [
-    [ "instance_shadow_labyrinth_InstanceMapScript", "d3/d3a/a22552.html#ada5f19c96bfe623b110389ede032ef53", null ],
-    [ "GetData", "d3/d3a/a22552.html#ad876ebd581c470f5a3075129076bd1fb", null ],
-    [ "Initialize", "d3/d3a/a22552.html#a9dc908fdaef98aa6eb81fd1709eee9e4", null ],
-    [ "OnCreatureCreate", "d3/d3a/a22552.html#a118b4a7a7c872327ec2868c5b0417636", null ],
-    [ "OnUnitDeath", "d3/d3a/a22552.html#a4275afcc93c5281d9865601a2d9dabaa", null ],
-    [ "_ritualistsAliveCount", "d3/d3a/a22552.html#a7752d5bfe1d1c5eef2c450df7677a69e", null ]
+    [ "boss_anzu", "d3/d3a/a22552.html#aef8c5c57afa95936d8c2809fa1257799", null ],
+    [ "JustEngagedWith", "d3/d3a/a22552.html#a2384a1ea128ad5a43d3b8fb36fe39aba", null ],
+    [ "Reset", "d3/d3a/a22552.html#a61c75d6d96aa5cfb41e87faa74ec2fa5", null ],
+    [ "SummonBroods", "d3/d3a/a22552.html#a7f3f8868a5648bdeccd03d08203e4cf1", null ],
+    [ "SummonedCreatureDies", "d3/d3a/a22552.html#a2e35df609db069c8d31afffabcfead34", null ],
+    [ "SummonSpirits", "d3/d3a/a22552.html#a23e03d1718fba49a3bd57609abb77c6a", null ],
+    [ "UpdateAI", "d3/d3a/a22552.html#a06373460d454bfaf8db793e591cc0abd", null ],
+    [ "AnzuSpiritPos", "d3/d3a/a22552.html#a64e42ce8856b9d10c7f24fefc0c1e0b2", null ],
+    [ "talkTimer", "d3/d3a/a22552.html#a2afae53534d9e777c90d09456f834b5d", null ]
 ];

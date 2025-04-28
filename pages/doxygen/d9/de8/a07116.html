@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: BattlefieldMgr Class Reference</title>
+<title>AzerothCore: BfCapturePoint Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,543 +105,138 @@ $(document).ready(function(){initNavTree('d9/de8/a07116.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#pub-types">Public Types</a> &#124;
 <a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="#pub-static-methods">Static Public Member Functions</a> &#124;
-<a href="#pri-attribs">Private Attributes</a> &#124;
+<a href="#pro-methods">Protected Member Functions</a> &#124;
+<a href="#pro-attribs">Protected Attributes</a> &#124;
 <a href="../../d8/dfa/a07113.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">BattlefieldMgr Class Reference</div></div>
+  <div class="headertitle"><div class="title">BfCapturePoint Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">BattlefieldMgr.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">Battlefield.h</a>&quot;</code></p>
+<div class="dynheader">
+Inheritance diagram for BfCapturePoint:</div>
+<div class="dyncontent">
+ <div class="center">
+  <img src="../../d9/de8/a07116.png" usemap="#BfCapturePoint_map" alt=""/>
+  <map id="BfCapturePoint_map" name="BfCapturePoint_map">
+<area href="../../d3/da6/a07140.html" alt="WintergraspCapturePoint" shape="rect" coords="0,56,153,80"/>
+  </map>
+</div></div>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-types" name="pub-types"></a>
-Public Types</h2></td></tr>
-<tr class="memitem:a440a0f37414815a060e23ac6b79ca3c5"><td class="memItemLeft" align="right" valign="top">typedef std::vector&lt; <a class="el" href="../../d0/d5f/a07112.html">Battlefield</a> * &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/de8/a07116.html#a440a0f37414815a060e23ac6b79ca3c5">BattlefieldSet</a></td></tr>
-<tr class="separator:a440a0f37414815a060e23ac6b79ca3c5"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aea781a60967fbc877bd1593628cdf32d"><td class="memItemLeft" align="right" valign="top">typedef std::map&lt; <a class="el" href="../../d5/d35/a00266.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../d0/d5f/a07112.html">Battlefield</a> * &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/de8/a07116.html#aea781a60967fbc877bd1593628cdf32d">BattlefieldMap</a></td></tr>
-<tr class="separator:aea781a60967fbc877bd1593628cdf32d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:afaa79f63a91c6b585b4bf10dfdf60af6"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/de8/a07116.html#afaa79f63a91c6b585b4bf10dfdf60af6">BattlefieldMgr</a> ()</td></tr>
-<tr class="separator:afaa79f63a91c6b585b4bf10dfdf60af6"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0d5b198add5190e99a1763a168ce2895"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/de8/a07116.html#a0d5b198add5190e99a1763a168ce2895">~BattlefieldMgr</a> ()</td></tr>
-<tr class="separator:a0d5b198add5190e99a1763a168ce2895"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a244ce1743c237e95c08dc8861f3ce4b3"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/de8/a07116.html#a244ce1743c237e95c08dc8861f3ce4b3">InitBattlefield</a> ()</td></tr>
-<tr class="separator:a244ce1743c237e95c08dc8861f3ce4b3"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a733f42fdc343d070220e8c56f24fe4ac"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/de8/a07116.html#a733f42fdc343d070220e8c56f24fe4ac">HandlePlayerEnterZone</a> (<a class="el" href="../../d2/d57/a08572.html">Player</a> *player, <a class="el" href="../../d5/d35/a00266.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> areaflag)</td></tr>
-<tr class="separator:a733f42fdc343d070220e8c56f24fe4ac"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a89aa3d5d27fe61a13e381f13c599de90"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/de8/a07116.html#a89aa3d5d27fe61a13e381f13c599de90">HandlePlayerLeaveZone</a> (<a class="el" href="../../d2/d57/a08572.html">Player</a> *player, <a class="el" href="../../d5/d35/a00266.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> areaflag)</td></tr>
-<tr class="separator:a89aa3d5d27fe61a13e381f13c599de90"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a458fb8b4943de82f0574ddd63ba466a9"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/de8/a07116.html#a458fb8b4943de82f0574ddd63ba466a9">HandlePlayerResurrects</a> (<a class="el" href="../../d2/d57/a08572.html">Player</a> *player, <a class="el" href="../../d5/d35/a00266.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> areaflag)</td></tr>
-<tr class="separator:a458fb8b4943de82f0574ddd63ba466a9"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aad6dcd56b45aeb2095c0c9033ae9f691"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d5f/a07112.html">Battlefield</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/de8/a07116.html#aad6dcd56b45aeb2095c0c9033ae9f691">GetBattlefieldToZoneId</a> (<a class="el" href="../../d5/d35/a00266.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> zoneid)</td></tr>
-<tr class="separator:aad6dcd56b45aeb2095c0c9033ae9f691"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab99d360162cf61dfc8d53df42127fb07"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d5f/a07112.html">Battlefield</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/de8/a07116.html#ab99d360162cf61dfc8d53df42127fb07">GetBattlefieldByBattleId</a> (<a class="el" href="../../d5/d35/a00266.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> battleid)</td></tr>
-<tr class="separator:ab99d360162cf61dfc8d53df42127fb07"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:accd1dc8e86bc9ab5618483e609b9314d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../df/d09/a09820.html">ZoneScript</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/de8/a07116.html#accd1dc8e86bc9ab5618483e609b9314d">GetZoneScript</a> (<a class="el" href="../../d5/d35/a00266.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> zoneId)</td></tr>
-<tr class="separator:accd1dc8e86bc9ab5618483e609b9314d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a03b1d0ef9c969283fbf9ce80842ad33c"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/de8/a07116.html#a03b1d0ef9c969283fbf9ce80842ad33c">AddZone</a> (<a class="el" href="../../d5/d35/a00266.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> zoneid, <a class="el" href="../../d0/d5f/a07112.html">Battlefield</a> *handle)</td></tr>
-<tr class="separator:a03b1d0ef9c969283fbf9ce80842ad33c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a15548a7b124741e2fa9f36f1bf087458"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/de8/a07116.html#a15548a7b124741e2fa9f36f1bf087458">Update</a> (<a class="el" href="../../d5/d35/a00266.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> diff)</td></tr>
-<tr class="separator:a15548a7b124741e2fa9f36f1bf087458"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa54e25c2f1ad982f0a9a57e99fd994f9"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/de8/a07116.html#aa54e25c2f1ad982f0a9a57e99fd994f9">HandleGossipOption</a> (<a class="el" href="../../d2/d57/a08572.html">Player</a> *player, <a class="el" href="../../d5/d95/a08372.html">ObjectGuid</a> guid, <a class="el" href="../../d5/d35/a00266.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> gossipid)</td></tr>
-<tr class="separator:aa54e25c2f1ad982f0a9a57e99fd994f9"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a18fdd3c81b5641e296318f1113acf73f"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/de8/a07116.html#a18fdd3c81b5641e296318f1113acf73f">CanTalkTo</a> (<a class="el" href="../../d2/d57/a08572.html">Player</a> *player, <a class="el" href="../../d0/d20/a07952.html">Creature</a> *creature, <a class="el" href="../../d4/d18/a08972.html">GossipMenuItems</a> gso)</td></tr>
-<tr class="separator:a18fdd3c81b5641e296318f1113acf73f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a19b23ca8dc68ceaaca9078a33b62b70e"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/de8/a07116.html#a19b23ca8dc68ceaaca9078a33b62b70e">HandleDropFlag</a> (<a class="el" href="../../d2/d57/a08572.html">Player</a> *player, <a class="el" href="../../d5/d35/a00266.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> spellId)</td></tr>
-<tr class="separator:a19b23ca8dc68ceaaca9078a33b62b70e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1eac786bb758ef6f3295e2241045dc32"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/de8/a07116.html#a1eac786bb758ef6f3295e2241045dc32">BfCapturePoint</a> (<a class="el" href="../../dd/d87/a07124.html">Battlefield</a> *bf)</td></tr>
+<tr class="separator:a1eac786bb758ef6f3295e2241045dc32"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a309a0c2b2f3c5696aef46bb7bdf4dade"><td class="memItemLeft" align="right" valign="top">virtual&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/de8/a07116.html#a309a0c2b2f3c5696aef46bb7bdf4dade">~BfCapturePoint</a> ()</td></tr>
+<tr class="separator:a309a0c2b2f3c5696aef46bb7bdf4dade"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0f35096b5f4fb611ff4e2dd398c87a12"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/de8/a07116.html#a0f35096b5f4fb611ff4e2dd398c87a12">FillInitialWorldStates</a> (<a class="el" href="../../dc/d42/a10872.html">WorldPackets::WorldState::InitWorldStates</a> &amp;)</td></tr>
+<tr class="separator:a0f35096b5f4fb611ff4e2dd398c87a12"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a887af016c482f532f38b3aa10ce6e546"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/de8/a07116.html#a887af016c482f532f38b3aa10ce6e546">SendUpdateWorldState</a> (<a class="el" href="../../d5/db5/a00374.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> field, <a class="el" href="../../d5/db5/a00374.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> value)</td></tr>
+<tr class="separator:a887af016c482f532f38b3aa10ce6e546"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab961bfe8934f89e6e454b8a74a280e3e"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/de8/a07116.html#ab961bfe8934f89e6e454b8a74a280e3e">SendObjectiveComplete</a> (<a class="el" href="../../d5/db5/a00374.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> id, <a class="el" href="../../d4/dca/a08384.html">ObjectGuid</a> guid)</td></tr>
+<tr class="separator:ab961bfe8934f89e6e454b8a74a280e3e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1a4ed58f9874900d822305dd406b1c67"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/de8/a07116.html#a1a4ed58f9874900d822305dd406b1c67">HandlePlayerEnter</a> (<a class="el" href="../../d2/d78/a08584.html">Player</a> *player)</td></tr>
+<tr class="separator:a1a4ed58f9874900d822305dd406b1c67"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a02eab1f489ee817d0b0263a57eb71ed2"><td class="memItemLeft" align="right" valign="top">virtual GuidUnorderedSet::iterator&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/de8/a07116.html#a02eab1f489ee817d0b0263a57eb71ed2">HandlePlayerLeave</a> (<a class="el" href="../../d2/d78/a08584.html">Player</a> *player)</td></tr>
+<tr class="separator:a02eab1f489ee817d0b0263a57eb71ed2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5a375223e2be7103bf6d9b411bb95b2c"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/de8/a07116.html#a5a375223e2be7103bf6d9b411bb95b2c">IsInsideObjective</a> (<a class="el" href="../../d2/d78/a08584.html">Player</a> *player) const</td></tr>
+<tr class="separator:a5a375223e2be7103bf6d9b411bb95b2c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3620c3873aca6e90594a4ddc8345102d"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/de8/a07116.html#a3620c3873aca6e90594a4ddc8345102d">Update</a> (<a class="el" href="../../d5/db5/a00374.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> diff)</td></tr>
+<tr class="separator:a3620c3873aca6e90594a4ddc8345102d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a429037910b1a3108cdb753ba91230bf7"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/de8/a07116.html#a429037910b1a3108cdb753ba91230bf7">ChangeTeam</a> (<a class="el" href="../../d0/d9d/a04583.html#abfb349736a7699bdfcdb134035ef7865">TeamId</a>)</td></tr>
+<tr class="separator:a429037910b1a3108cdb753ba91230bf7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7c727552544f98f3ace8e42c2d1cca02"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/de8/a07116.html#a7c727552544f98f3ace8e42c2d1cca02">SendChangePhase</a> ()</td></tr>
+<tr class="separator:a7c727552544f98f3ace8e42c2d1cca02"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a309d340d11c1712f5525438f31779671"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/de8/a07116.html#a309d340d11c1712f5525438f31779671">SetCapturePointData</a> (<a class="el" href="../../d6/d5c/a08140.html">GameObject</a> *capturePoint, <a class="el" href="../../d0/d9d/a04583.html#abfb349736a7699bdfcdb134035ef7865">TeamId</a> team)</td></tr>
+<tr class="separator:a309d340d11c1712f5525438f31779671"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a605d9ced3b467ff21c638490b1f089f0"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/d5c/a08140.html">GameObject</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/de8/a07116.html#a605d9ced3b467ff21c638490b1f089f0">GetCapturePointGo</a> ()</td></tr>
+<tr class="separator:a605d9ced3b467ff21c638490b1f089f0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a100e1b83863595f598cf40cfa6d9443f"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/d5c/a08140.html">GameObject</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/de8/a07116.html#a100e1b83863595f598cf40cfa6d9443f">GetCapturePointGo</a> (<a class="el" href="../../de/de0/a08368.html">WorldObject</a> *obj)</td></tr>
+<tr class="separator:a100e1b83863595f598cf40cfa6d9443f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1963ac8eea7452b1bb89923a2e32b0f6"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d9d/a04583.html#abfb349736a7699bdfcdb134035ef7865">TeamId</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/de8/a07116.html#a1963ac8eea7452b1bb89923a2e32b0f6">GetTeamId</a> ()</td></tr>
+<tr class="separator:a1963ac8eea7452b1bb89923a2e32b0f6"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-methods" name="pub-static-methods"></a>
-Static Public Member Functions</h2></td></tr>
-<tr class="memitem:af96d6d44aa8936f94c20d1bd92af2fb3"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../d9/de8/a07116.html">BattlefieldMgr</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/de8/a07116.html#af96d6d44aa8936f94c20d1bd92af2fb3">instance</a> ()</td></tr>
-<tr class="separator:af96d6d44aa8936f94c20d1bd92af2fb3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pro-methods" name="pro-methods"></a>
+Protected Member Functions</h2></td></tr>
+<tr class="memitem:a67d01513cc9f41ce103f214a85bcf5c6"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/de8/a07116.html#a67d01513cc9f41ce103f214a85bcf5c6">DelCapturePoint</a> ()</td></tr>
+<tr class="separator:a67d01513cc9f41ce103f214a85bcf5c6"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
-Private Attributes</h2></td></tr>
-<tr class="memitem:a0ca3259d6262b725ee46c5d29f375585"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/de8/a07116.html#a440a0f37414815a060e23ac6b79ca3c5">BattlefieldSet</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/de8/a07116.html#a0ca3259d6262b725ee46c5d29f375585">m_BattlefieldSet</a></td></tr>
-<tr class="separator:a0ca3259d6262b725ee46c5d29f375585"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a364a78eb7a4b44bbd24188647d3a4f4e"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/de8/a07116.html#aea781a60967fbc877bd1593628cdf32d">BattlefieldMap</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/de8/a07116.html#a364a78eb7a4b44bbd24188647d3a4f4e">m_BattlefieldMap</a></td></tr>
-<tr class="separator:a364a78eb7a4b44bbd24188647d3a4f4e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4818f48ea741ae5b6b588eed9719d0ec"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d5/d35/a00266.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/de8/a07116.html#a4818f48ea741ae5b6b588eed9719d0ec">m_UpdateTimer</a></td></tr>
-<tr class="separator:a4818f48ea741ae5b6b588eed9719d0ec"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pro-attribs" name="pro-attribs"></a>
+Protected Attributes</h2></td></tr>
+<tr class="memitem:a371349b157af4b8ecbacc8814f0bb2ec"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d1e/a03674.html#a407d39fdbc20e1e06960539245ee6a25">GuidUnorderedSet</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/de8/a07116.html#a371349b157af4b8ecbacc8814f0bb2ec">m_activePlayers</a> [2]</td></tr>
+<tr class="separator:a371349b157af4b8ecbacc8814f0bb2ec"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a89bf5ddb47f47bb1129ec2256221dcb8"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/de8/a07116.html#a89bf5ddb47f47bb1129ec2256221dcb8">m_maxValue</a></td></tr>
+<tr class="separator:a89bf5ddb47f47bb1129ec2256221dcb8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2d8624843a640445f04a6b17be63ae3d"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/de8/a07116.html#a2d8624843a640445f04a6b17be63ae3d">m_minValue</a></td></tr>
+<tr class="separator:a2d8624843a640445f04a6b17be63ae3d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a53e231eae6e505a88e616244092a8ee6"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/de8/a07116.html#a53e231eae6e505a88e616244092a8ee6">m_maxSpeed</a></td></tr>
+<tr class="separator:a53e231eae6e505a88e616244092a8ee6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7b3e3cb728347cd9783eea394245fcc0"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/de8/a07116.html#a7b3e3cb728347cd9783eea394245fcc0">m_value</a></td></tr>
+<tr class="separator:a7b3e3cb728347cd9783eea394245fcc0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:acd3c8e8fe970c160670bd5a7cdb9b1c4"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d9d/a04583.html#abfb349736a7699bdfcdb134035ef7865">TeamId</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/de8/a07116.html#acd3c8e8fe970c160670bd5a7cdb9b1c4">m_team</a></td></tr>
+<tr class="separator:acd3c8e8fe970c160670bd5a7cdb9b1c4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a37792e377ac59c30e711a56239598da4"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/d69/a03320.html#af6db5a1d93982b261639cd12634a2798">BattlefieldObjectiveStates</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/de8/a07116.html#a37792e377ac59c30e711a56239598da4">m_OldState</a></td></tr>
+<tr class="separator:a37792e377ac59c30e711a56239598da4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:acf8b53252eb10615ff197e15ea620083"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/d69/a03320.html#af6db5a1d93982b261639cd12634a2798">BattlefieldObjectiveStates</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/de8/a07116.html#acf8b53252eb10615ff197e15ea620083">m_State</a></td></tr>
+<tr class="separator:acf8b53252eb10615ff197e15ea620083"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa96d823e5093e1baff06666c35c49932"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d5/db5/a00374.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/de8/a07116.html#aa96d823e5093e1baff06666c35c49932">m_neutralValuePct</a></td></tr>
+<tr class="separator:aa96d823e5093e1baff06666c35c49932"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1f857e79dde01c3d966f7c7981e5f190"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dd/d87/a07124.html">Battlefield</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/de8/a07116.html#a1f857e79dde01c3d966f7c7981e5f190">m_Bf</a></td></tr>
+<tr class="separator:a1f857e79dde01c3d966f7c7981e5f190"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9d43160e2a96cdae295596756f770f74"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d5/db5/a00374.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/de8/a07116.html#a9d43160e2a96cdae295596756f770f74">m_capturePointEntry</a></td></tr>
+<tr class="separator:a9d43160e2a96cdae295596756f770f74"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3bc808408161740eed6185c049e1414b"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d4/dca/a08384.html">ObjectGuid</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/de8/a07116.html#a3bc808408161740eed6185c049e1414b">m_capturePoint</a></td></tr>
+<tr class="separator:a3bc808408161740eed6185c049e1414b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Member Typedef Documentation</h2>
-<a id="aea781a60967fbc877bd1593628cdf32d" name="aea781a60967fbc877bd1593628cdf32d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aea781a60967fbc877bd1593628cdf32d">&#9670;&#160;</a></span>BattlefieldMap</h2>
+<div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a id="a1eac786bb758ef6f3295e2241045dc32" name="a1eac786bb758ef6f3295e2241045dc32"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1eac786bb758ef6f3295e2241045dc32">&#9670;&#160;</a></span>BfCapturePoint()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">typedef std::map&lt; <a class="el" href="../../d5/d35/a00266.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> , <a class="el" href="../../d0/d5f/a07112.html">Battlefield</a>* &gt; <a class="el" href="../../d9/de8/a07116.html#aea781a60967fbc877bd1593628cdf32d">BattlefieldMgr::BattlefieldMap</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a440a0f37414815a060e23ac6b79ca3c5" name="a440a0f37414815a060e23ac6b79ca3c5"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a440a0f37414815a060e23ac6b79ca3c5">&#9670;&#160;</a></span>BattlefieldSet</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">typedef std::vector&lt; <a class="el" href="../../d0/d5f/a07112.html">Battlefield</a>* &gt; <a class="el" href="../../d9/de8/a07116.html#a440a0f37414815a060e23ac6b79ca3c5">BattlefieldMgr::BattlefieldSet</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="afaa79f63a91c6b585b4bf10dfdf60af6" name="afaa79f63a91c6b585b4bf10dfdf60af6"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#afaa79f63a91c6b585b4bf10dfdf60af6">&#9670;&#160;</a></span>BattlefieldMgr()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">BattlefieldMgr::BattlefieldMgr </td>
+          <td class="memname">BfCapturePoint::BfCapturePoint </td>
           <td>(</td>
-          <td class="paramname"></td><td>)</td>
+          <td class="paramtype"><a class="el" href="../../dd/d87/a07124.html">Battlefield</a> *&#160;</td>
+          <td class="paramname"><em>bf</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   23</span>{</div>
-<div class="line"><span class="lineno">   24</span>    <a class="code hl_variable" href="../../d9/de8/a07116.html#a4818f48ea741ae5b6b588eed9719d0ec">m_UpdateTimer</a> = 0;</div>
-<div class="line"><span class="lineno">   25</span>    <span class="comment">//LOG_DEBUG(&quot;bg.battlefield&quot;, &quot;Instantiating BattlefieldMgr&quot;);</span></div>
-<div class="line"><span class="lineno">   26</span>}</div>
-<div class="ttc" id="aa07116_html_a4818f48ea741ae5b6b588eed9719d0ec"><div class="ttname"><a href="../../d9/de8/a07116.html#a4818f48ea741ae5b6b588eed9719d0ec">BattlefieldMgr::m_UpdateTimer</a></div><div class="ttdeci">uint32 m_UpdateTimer</div><div class="ttdef"><b>Definition:</b> BattlefieldMgr.h:74</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  878</span>                                                       : <a class="code hl_variable" href="../../d9/de8/a07116.html#a1f857e79dde01c3d966f7c7981e5f190">m_Bf</a>(battlefield)</div>
+<div class="line"><span class="lineno">  879</span>{</div>
+<div class="line"><span class="lineno">  880</span>    <a class="code hl_variable" href="../../d9/de8/a07116.html#acd3c8e8fe970c160670bd5a7cdb9b1c4">m_team</a> = <a class="code hl_enumvalue" href="../../d0/d9d/a04583.html#abfb349736a7699bdfcdb134035ef7865a1d009932a5dde84d818f627cfcfe3fe5">TEAM_NEUTRAL</a>;</div>
+<div class="line"><span class="lineno">  881</span>    <a class="code hl_variable" href="../../d9/de8/a07116.html#a7b3e3cb728347cd9783eea394245fcc0">m_value</a> = 0;</div>
+<div class="line"><span class="lineno">  882</span>    <a class="code hl_variable" href="../../d9/de8/a07116.html#a2d8624843a640445f04a6b17be63ae3d">m_minValue</a> = 0.0f;</div>
+<div class="line"><span class="lineno">  883</span>    <a class="code hl_variable" href="../../d9/de8/a07116.html#a89bf5ddb47f47bb1129ec2256221dcb8">m_maxValue</a> = 0.0f;</div>
+<div class="line"><span class="lineno">  884</span>    <a class="code hl_variable" href="../../d9/de8/a07116.html#acf8b53252eb10615ff197e15ea620083">m_State</a> = <a class="code hl_enumvalue" href="../../db/d69/a03320.html#af6db5a1d93982b261639cd12634a2798afafb6299c9f30c2bd0d2caac21577178">BF_CAPTUREPOINT_OBJECTIVESTATE_NEUTRAL</a>;</div>
+<div class="line"><span class="lineno">  885</span>    <a class="code hl_variable" href="../../d9/de8/a07116.html#a37792e377ac59c30e711a56239598da4">m_OldState</a> = <a class="code hl_enumvalue" href="../../db/d69/a03320.html#af6db5a1d93982b261639cd12634a2798afafb6299c9f30c2bd0d2caac21577178">BF_CAPTUREPOINT_OBJECTIVESTATE_NEUTRAL</a>;</div>
+<div class="line"><span class="lineno">  886</span>    <a class="code hl_variable" href="../../d9/de8/a07116.html#a9d43160e2a96cdae295596756f770f74">m_capturePointEntry</a> = 0;</div>
+<div class="line"><span class="lineno">  887</span>    <a class="code hl_variable" href="../../d9/de8/a07116.html#aa96d823e5093e1baff06666c35c49932">m_neutralValuePct</a> = 0;</div>
+<div class="line"><span class="lineno">  888</span>    <a class="code hl_variable" href="../../d9/de8/a07116.html#a53e231eae6e505a88e616244092a8ee6">m_maxSpeed</a> = 0;</div>
+<div class="line"><span class="lineno">  889</span>}</div>
+<div class="ttc" id="aa03320_html_af6db5a1d93982b261639cd12634a2798afafb6299c9f30c2bd0d2caac21577178"><div class="ttname"><a href="../../db/d69/a03320.html#af6db5a1d93982b261639cd12634a2798afafb6299c9f30c2bd0d2caac21577178">BF_CAPTUREPOINT_OBJECTIVESTATE_NEUTRAL</a></div><div class="ttdeci">@ BF_CAPTUREPOINT_OBJECTIVESTATE_NEUTRAL</div><div class="ttdef"><b>Definition:</b> Battlefield.h:40</div></div>
+<div class="ttc" id="aa04583_html_abfb349736a7699bdfcdb134035ef7865a1d009932a5dde84d818f627cfcfe3fe5"><div class="ttname"><a href="../../d0/d9d/a04583.html#abfb349736a7699bdfcdb134035ef7865a1d009932a5dde84d818f627cfcfe3fe5">TEAM_NEUTRAL</a></div><div class="ttdeci">@ TEAM_NEUTRAL</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:762</div></div>
+<div class="ttc" id="aa07116_html_a1f857e79dde01c3d966f7c7981e5f190"><div class="ttname"><a href="../../d9/de8/a07116.html#a1f857e79dde01c3d966f7c7981e5f190">BfCapturePoint::m_Bf</a></div><div class="ttdeci">Battlefield * m_Bf</div><div class="ttdef"><b>Definition:</b> Battlefield.h:136</div></div>
+<div class="ttc" id="aa07116_html_a2d8624843a640445f04a6b17be63ae3d"><div class="ttname"><a href="../../d9/de8/a07116.html#a2d8624843a640445f04a6b17be63ae3d">BfCapturePoint::m_minValue</a></div><div class="ttdeci">float m_minValue</div><div class="ttdef"><b>Definition:</b> Battlefield.h:119</div></div>
+<div class="ttc" id="aa07116_html_a37792e377ac59c30e711a56239598da4"><div class="ttname"><a href="../../d9/de8/a07116.html#a37792e377ac59c30e711a56239598da4">BfCapturePoint::m_OldState</a></div><div class="ttdeci">BattlefieldObjectiveStates m_OldState</div><div class="ttdef"><b>Definition:</b> Battlefield.h:129</div></div>
+<div class="ttc" id="aa07116_html_a53e231eae6e505a88e616244092a8ee6"><div class="ttname"><a href="../../d9/de8/a07116.html#a53e231eae6e505a88e616244092a8ee6">BfCapturePoint::m_maxSpeed</a></div><div class="ttdeci">float m_maxSpeed</div><div class="ttdef"><b>Definition:</b> Battlefield.h:122</div></div>
+<div class="ttc" id="aa07116_html_a7b3e3cb728347cd9783eea394245fcc0"><div class="ttname"><a href="../../d9/de8/a07116.html#a7b3e3cb728347cd9783eea394245fcc0">BfCapturePoint::m_value</a></div><div class="ttdeci">float m_value</div><div class="ttdef"><b>Definition:</b> Battlefield.h:125</div></div>
+<div class="ttc" id="aa07116_html_a89bf5ddb47f47bb1129ec2256221dcb8"><div class="ttname"><a href="../../d9/de8/a07116.html#a89bf5ddb47f47bb1129ec2256221dcb8">BfCapturePoint::m_maxValue</a></div><div class="ttdeci">float m_maxValue</div><div class="ttdef"><b>Definition:</b> Battlefield.h:118</div></div>
+<div class="ttc" id="aa07116_html_a9d43160e2a96cdae295596756f770f74"><div class="ttname"><a href="../../d9/de8/a07116.html#a9d43160e2a96cdae295596756f770f74">BfCapturePoint::m_capturePointEntry</a></div><div class="ttdeci">uint32 m_capturePointEntry</div><div class="ttdef"><b>Definition:</b> Battlefield.h:139</div></div>
+<div class="ttc" id="aa07116_html_aa96d823e5093e1baff06666c35c49932"><div class="ttname"><a href="../../d9/de8/a07116.html#aa96d823e5093e1baff06666c35c49932">BfCapturePoint::m_neutralValuePct</a></div><div class="ttdeci">uint32 m_neutralValuePct</div><div class="ttdef"><b>Definition:</b> Battlefield.h:133</div></div>
+<div class="ttc" id="aa07116_html_acd3c8e8fe970c160670bd5a7cdb9b1c4"><div class="ttname"><a href="../../d9/de8/a07116.html#acd3c8e8fe970c160670bd5a7cdb9b1c4">BfCapturePoint::m_team</a></div><div class="ttdeci">TeamId m_team</div><div class="ttdef"><b>Definition:</b> Battlefield.h:126</div></div>
+<div class="ttc" id="aa07116_html_acf8b53252eb10615ff197e15ea620083"><div class="ttname"><a href="../../d9/de8/a07116.html#acf8b53252eb10615ff197e15ea620083">BfCapturePoint::m_State</a></div><div class="ttdeci">BattlefieldObjectiveStates m_State</div><div class="ttdef"><b>Definition:</b> Battlefield.h:130</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00074">m_UpdateTimer</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00040">BF_CAPTUREPOINT_OBJECTIVESTATE_NEUTRAL</a>, <a class="el" href="../../#l00139">m_capturePointEntry</a>, <a class="el" href="../../#l00122">m_maxSpeed</a>, <a class="el" href="../../#l00118">m_maxValue</a>, <a class="el" href="../../#l00119">m_minValue</a>, <a class="el" href="../../#l00133">m_neutralValuePct</a>, <a class="el" href="../../#l00129">m_OldState</a>, <a class="el" href="../../#l00130">m_State</a>, <a class="el" href="../../#l00126">m_team</a>, <a class="el" href="../../#l00125">m_value</a>, and <a class="el" href="../../#l00762">TEAM_NEUTRAL</a>.</p>
 
 </div>
 </div>
-<a id="a0d5b198add5190e99a1763a168ce2895" name="a0d5b198add5190e99a1763a168ce2895"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0d5b198add5190e99a1763a168ce2895">&#9670;&#160;</a></span>~BattlefieldMgr()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">BattlefieldMgr::~BattlefieldMgr </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   29</span>{</div>
-<div class="line"><span class="lineno">   30</span>    <span class="comment">//LOG_DEBUG(&quot;bg.battlefield&quot;, &quot;Deleting BattlefieldMgr&quot;);</span></div>
-<div class="line"><span class="lineno">   31</span>    <span class="keywordflow">for</span> (BattlefieldSet::iterator itr = <a class="code hl_variable" href="../../d9/de8/a07116.html#a0ca3259d6262b725ee46c5d29f375585">m_BattlefieldSet</a>.begin(); itr != <a class="code hl_variable" href="../../d9/de8/a07116.html#a0ca3259d6262b725ee46c5d29f375585">m_BattlefieldSet</a>.end(); ++itr)</div>
-<div class="line"><span class="lineno">   32</span>        <span class="keyword">delete</span> *itr;</div>
-<div class="line"><span class="lineno">   33</span>}</div>
-<div class="ttc" id="aa07116_html_a0ca3259d6262b725ee46c5d29f375585"><div class="ttname"><a href="../../d9/de8/a07116.html#a0ca3259d6262b725ee46c5d29f375585">BattlefieldMgr::m_BattlefieldSet</a></div><div class="ttdeci">BattlefieldSet m_BattlefieldSet</div><div class="ttdef"><b>Definition:</b> BattlefieldMgr.h:69</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00069">m_BattlefieldSet</a>.</p>
-
-</div>
-</div>
-<h2 class="groupheader">Member Function Documentation</h2>
-<a id="a03b1d0ef9c969283fbf9ce80842ad33c" name="a03b1d0ef9c969283fbf9ce80842ad33c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a03b1d0ef9c969283fbf9ce80842ad33c">&#9670;&#160;</a></span>AddZone()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void BattlefieldMgr::AddZone </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d5/d35/a00266.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>zoneid</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d0/d5f/a07112.html">Battlefield</a> *&#160;</td>
-          <td class="paramname"><em>handle</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   80</span>{</div>
-<div class="line"><span class="lineno">   81</span>    <a class="code hl_variable" href="../../d9/de8/a07116.html#a364a78eb7a4b44bbd24188647d3a4f4e">m_BattlefieldMap</a>[zoneid] = handle;</div>
-<div class="line"><span class="lineno">   82</span>}</div>
-<div class="ttc" id="aa07116_html_a364a78eb7a4b44bbd24188647d3a4f4e"><div class="ttname"><a href="../../d9/de8/a07116.html#a364a78eb7a4b44bbd24188647d3a4f4e">BattlefieldMgr::m_BattlefieldMap</a></div><div class="ttdeci">BattlefieldMap m_BattlefieldMap</div><div class="ttdef"><b>Definition:</b> BattlefieldMgr.h:72</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00072">m_BattlefieldMap</a>.</p>
-
-</div>
-</div>
-<a id="a18fdd3c81b5641e296318f1113acf73f" name="a18fdd3c81b5641e296318f1113acf73f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a18fdd3c81b5641e296318f1113acf73f">&#9670;&#160;</a></span>CanTalkTo()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool BattlefieldMgr::CanTalkTo </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d2/d57/a08572.html">Player</a> *&#160;</td>
-          <td class="paramname"><em>player</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d0/d20/a07952.html">Creature</a> *&#160;</td>
-          <td class="paramname"><em>creature</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d4/d18/a08972.html">GossipMenuItems</a>&#160;</td>
-          <td class="paramname"><em>gso</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="ab99d360162cf61dfc8d53df42127fb07" name="ab99d360162cf61dfc8d53df42127fb07"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab99d360162cf61dfc8d53df42127fb07">&#9670;&#160;</a></span>GetBattlefieldByBattleId()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d0/d5f/a07112.html">Battlefield</a> * BattlefieldMgr::GetBattlefieldByBattleId </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d5/d35/a00266.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>battleid</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  124</span>{</div>
-<div class="line"><span class="lineno">  125</span>    <span class="keywordflow">for</span> (BattlefieldSet::iterator itr = <a class="code hl_variable" href="../../d9/de8/a07116.html#a0ca3259d6262b725ee46c5d29f375585">m_BattlefieldSet</a>.begin(); itr != <a class="code hl_variable" href="../../d9/de8/a07116.html#a0ca3259d6262b725ee46c5d29f375585">m_BattlefieldSet</a>.end(); ++itr)</div>
-<div class="line"><span class="lineno">  126</span>    {</div>
-<div class="line"><span class="lineno">  127</span>        <span class="keywordflow">if</span> ((*itr)-&gt;GetBattleId() == battleid)</div>
-<div class="line"><span class="lineno">  128</span>            <span class="keywordflow">return</span> (*itr);</div>
-<div class="line"><span class="lineno">  129</span>    }</div>
-<div class="line"><span class="lineno">  130</span>    <span class="keywordflow">return</span> <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">  131</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00069">m_BattlefieldSet</a>.</p>
-
-</div>
-</div>
-<a id="aad6dcd56b45aeb2095c0c9033ae9f691" name="aad6dcd56b45aeb2095c0c9033ae9f691"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aad6dcd56b45aeb2095c0c9033ae9f691">&#9670;&#160;</a></span>GetBattlefieldToZoneId()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d0/d5f/a07112.html">Battlefield</a> * BattlefieldMgr::GetBattlefieldToZoneId </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d5/d35/a00266.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>zoneid</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  111</span>{</div>
-<div class="line"><span class="lineno">  112</span>    BattlefieldMap::iterator itr = <a class="code hl_variable" href="../../d9/de8/a07116.html#a364a78eb7a4b44bbd24188647d3a4f4e">m_BattlefieldMap</a>.find(zoneid);</div>
-<div class="line"><span class="lineno">  113</span>    <span class="keywordflow">if</span> (itr == <a class="code hl_variable" href="../../d9/de8/a07116.html#a364a78eb7a4b44bbd24188647d3a4f4e">m_BattlefieldMap</a>.end())</div>
-<div class="line"><span class="lineno">  114</span>    {</div>
-<div class="line"><span class="lineno">  115</span>        <span class="comment">// no handle for this zone, return</span></div>
-<div class="line"><span class="lineno">  116</span>        <span class="keywordflow">return</span> <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">  117</span>    }</div>
-<div class="line"><span class="lineno">  118</span>    <span class="keywordflow">if</span> (!itr-&gt;second-&gt;IsEnabled())</div>
-<div class="line"><span class="lineno">  119</span>        <span class="keywordflow">return</span> <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">  120</span>    <span class="keywordflow">return</span> itr-&gt;second;</div>
-<div class="line"><span class="lineno">  121</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00072">m_BattlefieldMap</a>.</p>
-
-</div>
-</div>
-<a id="accd1dc8e86bc9ab5618483e609b9314d" name="accd1dc8e86bc9ab5618483e609b9314d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#accd1dc8e86bc9ab5618483e609b9314d">&#9670;&#160;</a></span>GetZoneScript()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../df/d09/a09820.html">ZoneScript</a> * BattlefieldMgr::GetZoneScript </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d5/d35/a00266.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>zoneId</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  146</span>{</div>
-<div class="line"><span class="lineno">  147</span>    BattlefieldMap::iterator itr = <a class="code hl_variable" href="../../d9/de8/a07116.html#a364a78eb7a4b44bbd24188647d3a4f4e">m_BattlefieldMap</a>.find(zoneId);</div>
-<div class="line"><span class="lineno">  148</span>    <span class="keywordflow">if</span> (itr != <a class="code hl_variable" href="../../d9/de8/a07116.html#a364a78eb7a4b44bbd24188647d3a4f4e">m_BattlefieldMap</a>.end())</div>
-<div class="line"><span class="lineno">  149</span>        <span class="keywordflow">return</span> itr-&gt;second;</div>
-<div class="line"><span class="lineno">  150</span>    <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  151</span>        <span class="keywordflow">return</span> <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">  152</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00072">m_BattlefieldMap</a>.</p>
-
-</div>
-</div>
-<a id="a19b23ca8dc68ceaaca9078a33b62b70e" name="a19b23ca8dc68ceaaca9078a33b62b70e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a19b23ca8dc68ceaaca9078a33b62b70e">&#9670;&#160;</a></span>HandleDropFlag()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void BattlefieldMgr::HandleDropFlag </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d2/d57/a08572.html">Player</a> *&#160;</td>
-          <td class="paramname"><em>player</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d5/d35/a00266.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>spellId</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="aa54e25c2f1ad982f0a9a57e99fd994f9" name="aa54e25c2f1ad982f0a9a57e99fd994f9"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa54e25c2f1ad982f0a9a57e99fd994f9">&#9670;&#160;</a></span>HandleGossipOption()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void BattlefieldMgr::HandleGossipOption </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d2/d57/a08572.html">Player</a> *&#160;</td>
-          <td class="paramname"><em>player</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d5/d95/a08372.html">ObjectGuid</a>&#160;</td>
-          <td class="paramname"><em>guid</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d5/d35/a00266.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>gossipid</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a733f42fdc343d070220e8c56f24fe4ac" name="a733f42fdc343d070220e8c56f24fe4ac"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a733f42fdc343d070220e8c56f24fe4ac">&#9670;&#160;</a></span>HandlePlayerEnterZone()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void BattlefieldMgr::HandlePlayerEnterZone </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d2/d57/a08572.html">Player</a> *&#160;</td>
-          <td class="paramname"><em>player</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d5/d35/a00266.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>areaflag</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   85</span>{</div>
-<div class="line"><span class="lineno">   86</span>    BattlefieldMap::iterator itr = <a class="code hl_variable" href="../../d9/de8/a07116.html#a364a78eb7a4b44bbd24188647d3a4f4e">m_BattlefieldMap</a>.find(zoneid);</div>
-<div class="line"><span class="lineno">   87</span>    <span class="keywordflow">if</span> (itr == <a class="code hl_variable" href="../../d9/de8/a07116.html#a364a78eb7a4b44bbd24188647d3a4f4e">m_BattlefieldMap</a>.end())</div>
-<div class="line"><span class="lineno">   88</span>        <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">   89</span> </div>
-<div class="line"><span class="lineno">   90</span>    <span class="keywordflow">if</span> (itr-&gt;second-&gt;HasPlayer(player) || !itr-&gt;second-&gt;IsEnabled())</div>
-<div class="line"><span class="lineno">   91</span>        <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">   92</span> </div>
-<div class="line"><span class="lineno">   93</span>    itr-&gt;second-&gt;HandlePlayerEnterZone(player, zoneid);</div>
-<div class="line"><span class="lineno">   94</span>    <a class="code hl_define" href="../../d8/df0/a00557.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;bg.battlefield&quot;</span>, <span class="stringliteral">&quot;Player {} entered outdoorpvp id {}&quot;</span>, player-&gt;<a class="code hl_function" href="../../d7/d07/a08324.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>().<a class="code hl_function" href="../../d5/d95/a08372.html#a78f5fb47e3b35addf8984000c175125b">ToString</a>(), itr-&gt;second-&gt;GetTypeId());</div>
-<div class="line"><span class="lineno">   95</span>}</div>
-<div class="ttc" id="aa00557_html_a47ac782b14a7531c6232777165a1a161"><div class="ttname"><a href="../../d8/df0/a00557.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a></div><div class="ttdeci">#define LOG_DEBUG(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:169</div></div>
-<div class="ttc" id="aa08324_html_ad23b997e2442fa6a6228ba73a7ecc138"><div class="ttname"><a href="../../d7/d07/a08324.html#ad23b997e2442fa6a6228ba73a7ecc138">Object::GetGUID</a></div><div class="ttdeci">static ObjectGuid GetGUID(Object const *o)</div><div class="ttdef"><b>Definition:</b> Object.h:112</div></div>
-<div class="ttc" id="aa08372_html_a78f5fb47e3b35addf8984000c175125b"><div class="ttname"><a href="../../d5/d95/a08372.html#a78f5fb47e3b35addf8984000c175125b">ObjectGuid::ToString</a></div><div class="ttdeci">std::string ToString() const</div><div class="ttdef"><b>Definition:</b> ObjectGuid.cpp:47</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00112">Object::GetGUID()</a>, <a class="el" href="../../#l00169">LOG_DEBUG</a>, <a class="el" href="../../#l00072">m_BattlefieldMap</a>, and <a class="el" href="../../#l00047">ObjectGuid::ToString()</a>.</p>
-
-</div>
-</div>
-<a id="a89aa3d5d27fe61a13e381f13c599de90" name="a89aa3d5d27fe61a13e381f13c599de90"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a89aa3d5d27fe61a13e381f13c599de90">&#9670;&#160;</a></span>HandlePlayerLeaveZone()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void BattlefieldMgr::HandlePlayerLeaveZone </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d2/d57/a08572.html">Player</a> *&#160;</td>
-          <td class="paramname"><em>player</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d5/d35/a00266.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>areaflag</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   98</span>{</div>
-<div class="line"><span class="lineno">   99</span>    BattlefieldMap::iterator itr = <a class="code hl_variable" href="../../d9/de8/a07116.html#a364a78eb7a4b44bbd24188647d3a4f4e">m_BattlefieldMap</a>.find(zoneid);</div>
-<div class="line"><span class="lineno">  100</span>    <span class="keywordflow">if</span> (itr == <a class="code hl_variable" href="../../d9/de8/a07116.html#a364a78eb7a4b44bbd24188647d3a4f4e">m_BattlefieldMap</a>.end())</div>
-<div class="line"><span class="lineno">  101</span>        <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  102</span> </div>
-<div class="line"><span class="lineno">  103</span>    <span class="comment">// teleport: remove once in removefromworld, once in updatezone</span></div>
-<div class="line"><span class="lineno">  104</span>    <span class="keywordflow">if</span> (!itr-&gt;second-&gt;HasPlayer(player))</div>
-<div class="line"><span class="lineno">  105</span>        <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  106</span>    itr-&gt;second-&gt;HandlePlayerLeaveZone(player, zoneid);</div>
-<div class="line"><span class="lineno">  107</span>    <a class="code hl_define" href="../../d8/df0/a00557.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;bg.battlefield&quot;</span>, <span class="stringliteral">&quot;Player {} left outdoorpvp id {}&quot;</span>, player-&gt;<a class="code hl_function" href="../../d7/d07/a08324.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>().<a class="code hl_function" href="../../d5/d95/a08372.html#a78f5fb47e3b35addf8984000c175125b">ToString</a>(), itr-&gt;second-&gt;GetTypeId());</div>
-<div class="line"><span class="lineno">  108</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00112">Object::GetGUID()</a>, <a class="el" href="../../#l00169">LOG_DEBUG</a>, <a class="el" href="../../#l00072">m_BattlefieldMap</a>, and <a class="el" href="../../#l00047">ObjectGuid::ToString()</a>.</p>
-
-</div>
-</div>
-<a id="a458fb8b4943de82f0574ddd63ba466a9" name="a458fb8b4943de82f0574ddd63ba466a9"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a458fb8b4943de82f0574ddd63ba466a9">&#9670;&#160;</a></span>HandlePlayerResurrects()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void BattlefieldMgr::HandlePlayerResurrects </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d2/d57/a08572.html">Player</a> *&#160;</td>
-          <td class="paramname"><em>player</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d5/d35/a00266.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>areaflag</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a244ce1743c237e95c08dc8861f3ce4b3" name="a244ce1743c237e95c08dc8861f3ce4b3"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a244ce1743c237e95c08dc8861f3ce4b3">&#9670;&#160;</a></span>InitBattlefield()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void BattlefieldMgr::InitBattlefield </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   42</span>{</div>
-<div class="line"><span class="lineno">   43</span>    <span class="keywordflow">if</span> (<a class="code hl_define" href="../../de/d2c/a04741.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>-&gt;getIntConfig(<a class="code hl_enumvalue" href="../../dd/dc3/a02249.html#a17aac4c166ebe43e3b8fdccf9e012e41aa64237bf7ab70e8554559907e4d54c8a">CONFIG_WINTERGRASP_ENABLE</a>) == 2)</div>
-<div class="line"><span class="lineno">   44</span>    {</div>
-<div class="line"><span class="lineno">   45</span>        <a class="code hl_define" href="../../d8/df0/a00557.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;Battlefield: Wintergrasp is disabled.&quot;</span>);</div>
-<div class="line"><span class="lineno">   46</span>        <a class="code hl_define" href="../../d8/df0/a00557.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot; &quot;</span>);</div>
-<div class="line"><span class="lineno">   47</span>        <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">   48</span>    }</div>
-<div class="line"><span class="lineno">   49</span>    <a class="code hl_class" href="../../d0/d5f/a07112.html">Battlefield</a>* pBf = <span class="keyword">new</span> <a class="code hl_class" href="../../da/d99/a07132.html">BattlefieldWG</a>;</div>
-<div class="line"><span class="lineno">   50</span>    <span class="comment">// respawn, init variables</span></div>
-<div class="line"><span class="lineno">   51</span>    <span class="keywordflow">if</span> (!pBf-&gt;<a class="code hl_function" href="../../d0/d5f/a07112.html#a505d37f7c94cc081d9d3b8db1d362220">SetupBattlefield</a>())</div>
-<div class="line"><span class="lineno">   52</span>    {</div>
-<div class="line"><span class="lineno">   53</span>        <a class="code hl_define" href="../../d8/df0/a00557.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;Battlefield: Wintergrasp init failed.&quot;</span>);</div>
-<div class="line"><span class="lineno">   54</span>        <a class="code hl_define" href="../../d8/df0/a00557.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot; &quot;</span>);</div>
-<div class="line"><span class="lineno">   55</span>        <span class="keyword">delete</span> pBf;</div>
-<div class="line"><span class="lineno">   56</span>    }</div>
-<div class="line"><span class="lineno">   57</span>    <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">   58</span>    {</div>
-<div class="line"><span class="lineno">   59</span>        <a class="code hl_variable" href="../../d9/de8/a07116.html#a0ca3259d6262b725ee46c5d29f375585">m_BattlefieldSet</a>.push_back(pBf);</div>
-<div class="line"><span class="lineno">   60</span>        <a class="code hl_define" href="../../d8/df0/a00557.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;Battlefield: Wintergrasp successfully initiated.&quot;</span>);</div>
-<div class="line"><span class="lineno">   61</span>        <a class="code hl_define" href="../../d8/df0/a00557.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot; &quot;</span>);</div>
-<div class="line"><span class="lineno">   62</span>    }</div>
-<div class="line"><span class="lineno">   63</span> </div>
-<div class="line"><span class="lineno">   64</span>    <span class="comment">/* For Cataclysm: Tol Barad</span></div>
-<div class="line"><span class="lineno">   65</span><span class="comment">       pBf = new BattlefieldTB;</span></div>
-<div class="line"><span class="lineno">   66</span><span class="comment">       // respawn, init variables</span></div>
-<div class="line"><span class="lineno">   67</span><span class="comment">       if (!pBf-&gt;SetupBattlefield())</span></div>
-<div class="line"><span class="lineno">   68</span><span class="comment">       {</span></div>
-<div class="line"><span class="lineno">   69</span><span class="comment">       LOG_DEBUG(&quot;bg.battlefield&quot;, &quot;Battlefield : Tol Barad init failed.&quot;);</span></div>
-<div class="line"><span class="lineno">   70</span><span class="comment">       delete pBf;</span></div>
-<div class="line"><span class="lineno">   71</span><span class="comment">       }</span></div>
-<div class="line"><span class="lineno">   72</span><span class="comment">       else</span></div>
-<div class="line"><span class="lineno">   73</span><span class="comment">       {</span></div>
-<div class="line"><span class="lineno">   74</span><span class="comment">       m_BattlefieldSet.push_back(pBf);</span></div>
-<div class="line"><span class="lineno">   75</span><span class="comment">       LOG_DEBUG(&quot;bg.battlefield&quot;, &quot;Battlefield : Tol Barad successfully initiated.&quot;);</span></div>
-<div class="line"><span class="lineno">   76</span><span class="comment">       } */</span></div>
-<div class="line"><span class="lineno">   77</span>}</div>
-<div class="ttc" id="aa00557_html_a271e427d8e8481efd5cd5f537ec9e419"><div class="ttname"><a href="../../d8/df0/a00557.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a></div><div class="ttdeci">#define LOG_INFO(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:165</div></div>
-<div class="ttc" id="aa00557_html_a43832e3fa8508deb4ce43e520005fcd9"><div class="ttname"><a href="../../d8/df0/a00557.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a></div><div class="ttdeci">#define LOG_ERROR(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:157</div></div>
-<div class="ttc" id="aa02249_html_a17aac4c166ebe43e3b8fdccf9e012e41aa64237bf7ab70e8554559907e4d54c8a"><div class="ttname"><a href="../../dd/dc3/a02249.html#a17aac4c166ebe43e3b8fdccf9e012e41aa64237bf7ab70e8554559907e4d54c8a">CONFIG_WINTERGRASP_ENABLE</a></div><div class="ttdeci">@ CONFIG_WINTERGRASP_ENABLE</div><div class="ttdef"><b>Definition:</b> IWorld.h:326</div></div>
-<div class="ttc" id="aa04741_html_ga05dfb35c344e5b947a19e4284e7f5fa7"><div class="ttname"><a href="../../de/d2c/a04741.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a></div><div class="ttdeci">#define sWorld</div><div class="ttdef"><b>Definition:</b> World.h:375</div></div>
-<div class="ttc" id="aa07112_html"><div class="ttname"><a href="../../d0/d5f/a07112.html">Battlefield</a></div><div class="ttdef"><b>Definition:</b> Battlefield.h:204</div></div>
-<div class="ttc" id="aa07112_html_a505d37f7c94cc081d9d3b8db1d362220"><div class="ttname"><a href="../../d0/d5f/a07112.html#a505d37f7c94cc081d9d3b8db1d362220">Battlefield::SetupBattlefield</a></div><div class="ttdeci">virtual bool SetupBattlefield()</div><div class="ttdoc">Call this to init the Battlefield.</div><div class="ttdef"><b>Definition:</b> Battlefield.h:217</div></div>
-<div class="ttc" id="aa07132_html"><div class="ttname"><a href="../../da/d99/a07132.html">BattlefieldWG</a></div><div class="ttdef"><b>Definition:</b> BattlefieldWG.h:278</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00326">CONFIG_WINTERGRASP_ENABLE</a>, <a class="el" href="../../#l00157">LOG_ERROR</a>, <a class="el" href="../../#l00165">LOG_INFO</a>, <a class="el" href="../../#l00069">m_BattlefieldSet</a>, <a class="el" href="../../#l00217">Battlefield::SetupBattlefield()</a>, and <a class="el" href="../../#l00375">sWorld</a>.</p>
-
-</div>
-</div>
-<a id="af96d6d44aa8936f94c20d1bd92af2fb3" name="af96d6d44aa8936f94c20d1bd92af2fb3"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af96d6d44aa8936f94c20d1bd92af2fb3">&#9670;&#160;</a></span>instance()</h2>
+<a id="a309a0c2b2f3c5696aef46bb7bdf4dade" name="a309a0c2b2f3c5696aef46bb7bdf4dade"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a309a0c2b2f3c5696aef46bb7bdf4dade">&#9670;&#160;</a></span>~BfCapturePoint()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -650,7 +245,7 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d9/de8/a07116.html">BattlefieldMgr</a> * BattlefieldMgr::instance </td>
+          <td class="memname">virtual BfCapturePoint::~BfCapturePoint </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
@@ -658,57 +253,685 @@ Private Attributes</h2></td></tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">virtual</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   36</span>{</div>
-<div class="line"><span class="lineno">   37</span>    <span class="keyword">static</span> <a class="code hl_class" href="../../d9/de8/a07116.html">BattlefieldMgr</a> <a class="code hl_function" href="../../d9/de8/a07116.html#af96d6d44aa8936f94c20d1bd92af2fb3">instance</a>;</div>
-<div class="line"><span class="lineno">   38</span>    <span class="keywordflow">return</span> &amp;<a class="code hl_function" href="../../d9/de8/a07116.html#af96d6d44aa8936f94c20d1bd92af2fb3">instance</a>;</div>
-<div class="line"><span class="lineno">   39</span>}</div>
-<div class="ttc" id="aa07116_html"><div class="ttname"><a href="../../d9/de8/a07116.html">BattlefieldMgr</a></div><div class="ttdef"><b>Definition:</b> BattlefieldMgr.h:31</div></div>
-<div class="ttc" id="aa07116_html_af96d6d44aa8936f94c20d1bd92af2fb3"><div class="ttname"><a href="../../d9/de8/a07116.html#af96d6d44aa8936f94c20d1bd92af2fb3">BattlefieldMgr::instance</a></div><div class="ttdeci">static BattlefieldMgr * instance()</div><div class="ttdef"><b>Definition:</b> BattlefieldMgr.cpp:35</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   82</span>{ }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00035">instance()</a>.</p>
+</div>
+</div>
+<h2 class="groupheader">Member Function Documentation</h2>
+<a id="a429037910b1a3108cdb753ba91230bf7" name="a429037910b1a3108cdb753ba91230bf7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a429037910b1a3108cdb753ba91230bf7">&#9670;&#160;</a></span>ChangeTeam()</h2>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00035">instance()</a>.</p>
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">virtual void BfCapturePoint::ChangeTeam </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d0/d9d/a04583.html#abfb349736a7699bdfcdb134035ef7865">TeamId</a>&#160;</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Reimplemented in <a class="el" href="../../d3/da6/a07140.html#a66564dd3237538b256ebeb76d236001f">WintergraspCapturePoint</a>.</p>
+<div class="fragment"><div class="line"><span class="lineno">  102</span>{}</div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00996">Update()</a>.</p>
 
 </div>
 </div>
-<a id="a15548a7b124741e2fa9f36f1bf087458" name="a15548a7b124741e2fa9f36f1bf087458"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a15548a7b124741e2fa9f36f1bf087458">&#9670;&#160;</a></span>Update()</h2>
+<a id="a67d01513cc9f41ce103f214a85bcf5c6" name="a67d01513cc9f41ce103f214a85bcf5c6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a67d01513cc9f41ce103f214a85bcf5c6">&#9670;&#160;</a></span>DelCapturePoint()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool BfCapturePoint::DelCapturePoint </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  975</span>{</div>
+<div class="line"><span class="lineno">  976</span>    <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d6/d5c/a08140.html">GameObject</a>* capturePoint = <a class="code hl_function" href="../../d9/de8/a07116.html#a605d9ced3b467ff21c638490b1f089f0">GetCapturePointGo</a>())</div>
+<div class="line"><span class="lineno">  977</span>    {</div>
+<div class="line"><span class="lineno">  978</span>        capturePoint-&gt;SetRespawnTime(0);                  <span class="comment">// not save respawn time</span></div>
+<div class="line"><span class="lineno">  979</span>        capturePoint-&gt;Delete();</div>
+<div class="line"><span class="lineno">  980</span>        <a class="code hl_variable" href="../../d9/de8/a07116.html#a3bc808408161740eed6185c049e1414b">m_capturePoint</a>.<a class="code hl_function" href="../../d4/dca/a08384.html#af6aafb4610723c7f14523fef243b1b65">Clear</a>();</div>
+<div class="line"><span class="lineno">  981</span>    }</div>
+<div class="line"><span class="lineno">  982</span> </div>
+<div class="line"><span class="lineno">  983</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  984</span>}</div>
+<div class="ttc" id="aa07116_html_a3bc808408161740eed6185c049e1414b"><div class="ttname"><a href="../../d9/de8/a07116.html#a3bc808408161740eed6185c049e1414b">BfCapturePoint::m_capturePoint</a></div><div class="ttdeci">ObjectGuid m_capturePoint</div><div class="ttdef"><b>Definition:</b> Battlefield.h:142</div></div>
+<div class="ttc" id="aa07116_html_a605d9ced3b467ff21c638490b1f089f0"><div class="ttname"><a href="../../d9/de8/a07116.html#a605d9ced3b467ff21c638490b1f089f0">BfCapturePoint::GetCapturePointGo</a></div><div class="ttdeci">GameObject * GetCapturePointGo()</div><div class="ttdef"><b>Definition:</b> Battlefield.cpp:986</div></div>
+<div class="ttc" id="aa08140_html"><div class="ttname"><a href="../../d6/d5c/a08140.html">GameObject</a></div><div class="ttdef"><b>Definition:</b> GameObject.h:120</div></div>
+<div class="ttc" id="aa08384_html_af6aafb4610723c7f14523fef243b1b65"><div class="ttname"><a href="../../d4/dca/a08384.html#af6aafb4610723c7f14523fef243b1b65">ObjectGuid::Clear</a></div><div class="ttdeci">void Clear()</div><div class="ttdef"><b>Definition:</b> ObjectGuid.h:138</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00138">ObjectGuid::Clear()</a>, <a class="el" href="../../#l00986">GetCapturePointGo()</a>, and <a class="el" href="../../#l00142">m_capturePoint</a>.</p>
+
+</div>
+</div>
+<a id="a0f35096b5f4fb611ff4e2dd398c87a12" name="a0f35096b5f4fb611ff4e2dd398c87a12"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0f35096b5f4fb611ff4e2dd398c87a12">&#9670;&#160;</a></span>FillInitialWorldStates()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">virtual void BfCapturePoint::FillInitialWorldStates </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../dc/d42/a10872.html">WorldPackets::WorldState::InitWorldStates</a> &amp;&#160;</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   84</span>{ }</div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="a605d9ced3b467ff21c638490b1f089f0" name="a605d9ced3b467ff21c638490b1f089f0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a605d9ced3b467ff21c638490b1f089f0">&#9670;&#160;</a></span>GetCapturePointGo() <span class="overload">[1/2]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">void BattlefieldMgr::Update </td>
+          <td class="memname"><a class="el" href="../../d6/d5c/a08140.html">GameObject</a> * BfCapturePoint::GetCapturePointGo </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d5/d35/a00266.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  987</span>{</div>
+<div class="line"><span class="lineno">  988</span>    <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d9/de8/a07116.html#a1f857e79dde01c3d966f7c7981e5f190">m_Bf</a>-&gt;<a class="code hl_function" href="../../dd/d87/a07124.html#ad43eb209667d0b3b3779ea35f45f599c">GetGameObject</a>(<a class="code hl_variable" href="../../d9/de8/a07116.html#a3bc808408161740eed6185c049e1414b">m_capturePoint</a>);</div>
+<div class="line"><span class="lineno">  989</span>}</div>
+<div class="ttc" id="aa07124_html_ad43eb209667d0b3b3779ea35f45f599c"><div class="ttname"><a href="../../dd/d87/a07124.html#ad43eb209667d0b3b3779ea35f45f599c">Battlefield::GetGameObject</a></div><div class="ttdeci">GameObject * GetGameObject(ObjectGuid const guid)</div><div class="ttdef"><b>Definition:</b> Battlefield.cpp:866</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00866">Battlefield::GetGameObject()</a>, <a class="el" href="../../#l00136">m_Bf</a>, and <a class="el" href="../../#l00142">m_capturePoint</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00974">DelCapturePoint()</a>, <a class="el" href="../../#l00891">HandlePlayerEnter()</a>, <a class="el" href="../../#l00902">HandlePlayerLeave()</a>, <a class="el" href="../../#l00916">SendChangePhase()</a>, and <a class="el" href="../../#l00996">Update()</a>.</p>
+
+</div>
+</div>
+<a id="a100e1b83863595f598cf40cfa6d9443f" name="a100e1b83863595f598cf40cfa6d9443f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a100e1b83863595f598cf40cfa6d9443f">&#9670;&#160;</a></span>GetCapturePointGo() <span class="overload">[2/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d6/d5c/a08140.html">GameObject</a> * BfCapturePoint::GetCapturePointGo </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../de/de0/a08368.html">WorldObject</a> *&#160;</td>
+          <td class="paramname"><em>obj</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  992</span>{</div>
+<div class="line"><span class="lineno">  993</span>    <span class="keywordflow">return</span> <a class="code hl_function" href="../../d1/d77/a04806.html#a424a63829a446dac6f97a464cc64ed48">ObjectAccessor::GetGameObject</a>(*obj, <a class="code hl_variable" href="../../d9/de8/a07116.html#a3bc808408161740eed6185c049e1414b">m_capturePoint</a>);</div>
+<div class="line"><span class="lineno">  994</span>}</div>
+<div class="ttc" id="aa04806_html_a424a63829a446dac6f97a464cc64ed48"><div class="ttname"><a href="../../d1/d77/a04806.html#a424a63829a446dac6f97a464cc64ed48">ObjectAccessor::GetGameObject</a></div><div class="ttdeci">GameObject * GetGameObject(WorldObject const &amp;u, ObjectGuid const guid)</div><div class="ttdef"><b>Definition:</b> ObjectAccessor.cpp:184</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00184">ObjectAccessor::GetGameObject()</a>, and <a class="el" href="../../#l00142">m_capturePoint</a>.</p>
+
+</div>
+</div>
+<a id="a1963ac8eea7452b1bb89923a2e32b0f6" name="a1963ac8eea7452b1bb89923a2e32b0f6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1963ac8eea7452b1bb89923a2e32b0f6">&#9670;&#160;</a></span>GetTeamId()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d0/d9d/a04583.html#abfb349736a7699bdfcdb134035ef7865">TeamId</a> BfCapturePoint::GetTeamId </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  110</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d9/de8/a07116.html#acd3c8e8fe970c160670bd5a7cdb9b1c4">m_team</a>; }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00126">m_team</a>.</p>
+
+</div>
+</div>
+<a id="a1a4ed58f9874900d822305dd406b1c67" name="a1a4ed58f9874900d822305dd406b1c67"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1a4ed58f9874900d822305dd406b1c67">&#9670;&#160;</a></span>HandlePlayerEnter()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool BfCapturePoint::HandlePlayerEnter </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d2/d78/a08584.html">Player</a> *&#160;</td>
+          <td class="paramname"><em>player</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  892</span>{</div>
+<div class="line"><span class="lineno">  893</span>    <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d6/d5c/a08140.html">GameObject</a>* go = <a class="code hl_function" href="../../d9/de8/a07116.html#a605d9ced3b467ff21c638490b1f089f0">GetCapturePointGo</a>(player))</div>
+<div class="line"><span class="lineno">  894</span>    {</div>
+<div class="line"><span class="lineno">  895</span>        player-&gt;<a class="code hl_function" href="../../d2/d78/a08584.html#a2a12863caf54ad9a8af56bda556d7a4b">SendUpdateWorldState</a>(go-&gt;GetGOInfo()-&gt;capturePoint.worldState1, 1);</div>
+<div class="line"><span class="lineno">  896</span>        player-&gt;<a class="code hl_function" href="../../d2/d78/a08584.html#a2a12863caf54ad9a8af56bda556d7a4b">SendUpdateWorldState</a>(go-&gt;GetGOInfo()-&gt;capturePoint.worldstate2, <a class="code hl_typedef" href="../../d5/db5/a00374.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>(std::ceil((<a class="code hl_variable" href="../../d9/de8/a07116.html#a7b3e3cb728347cd9783eea394245fcc0">m_value</a> + <a class="code hl_variable" href="../../d9/de8/a07116.html#a89bf5ddb47f47bb1129ec2256221dcb8">m_maxValue</a>) / (2 * <a class="code hl_variable" href="../../d9/de8/a07116.html#a89bf5ddb47f47bb1129ec2256221dcb8">m_maxValue</a>) * 100.0f)));</div>
+<div class="line"><span class="lineno">  897</span>        player-&gt;<a class="code hl_function" href="../../d2/d78/a08584.html#a2a12863caf54ad9a8af56bda556d7a4b">SendUpdateWorldState</a>(go-&gt;GetGOInfo()-&gt;capturePoint.worldstate3, <a class="code hl_variable" href="../../d9/de8/a07116.html#aa96d823e5093e1baff06666c35c49932">m_neutralValuePct</a>);</div>
+<div class="line"><span class="lineno">  898</span>    }</div>
+<div class="line"><span class="lineno">  899</span>    <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d9/de8/a07116.html#a371349b157af4b8ecbacc8814f0bb2ec">m_activePlayers</a>[player-&gt;<a class="code hl_function" href="../../d2/d78/a08584.html#a4874f5c152e187c381c2a349f16aa0d4">GetTeamId</a>()].insert(player-&gt;<a class="code hl_function" href="../../da/d1c/a08336.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>()).second;</div>
+<div class="line"><span class="lineno">  900</span>}</div>
+<div class="ttc" id="aa00374_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../d5/db5/a00374.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
+<div class="ttc" id="aa07116_html_a371349b157af4b8ecbacc8814f0bb2ec"><div class="ttname"><a href="../../d9/de8/a07116.html#a371349b157af4b8ecbacc8814f0bb2ec">BfCapturePoint::m_activePlayers</a></div><div class="ttdeci">GuidUnorderedSet m_activePlayers[2]</div><div class="ttdef"><b>Definition:</b> Battlefield.h:115</div></div>
+<div class="ttc" id="aa08336_html_ad23b997e2442fa6a6228ba73a7ecc138"><div class="ttname"><a href="../../da/d1c/a08336.html#ad23b997e2442fa6a6228ba73a7ecc138">Object::GetGUID</a></div><div class="ttdeci">static ObjectGuid GetGUID(Object const *o)</div><div class="ttdef"><b>Definition:</b> Object.h:112</div></div>
+<div class="ttc" id="aa08584_html_a2a12863caf54ad9a8af56bda556d7a4b"><div class="ttname"><a href="../../d2/d78/a08584.html#a2a12863caf54ad9a8af56bda556d7a4b">Player::SendUpdateWorldState</a></div><div class="ttdeci">void SendUpdateWorldState(uint32 variable, uint32 value) const</div><div class="ttdef"><b>Definition:</b> PlayerUpdates.cpp:2243</div></div>
+<div class="ttc" id="aa08584_html_a4874f5c152e187c381c2a349f16aa0d4"><div class="ttname"><a href="../../d2/d78/a08584.html#a4874f5c152e187c381c2a349f16aa0d4">Player::GetTeamId</a></div><div class="ttdeci">TeamId GetTeamId(bool original=false) const</div><div class="ttdef"><b>Definition:</b> Player.h:2116</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00986">GetCapturePointGo()</a>, <a class="el" href="../../#l00112">Object::GetGUID()</a>, <a class="el" href="../../#l02116">Player::GetTeamId()</a>, <a class="el" href="../../#l00115">m_activePlayers</a>, <a class="el" href="../../#l00118">m_maxValue</a>, <a class="el" href="../../#l00133">m_neutralValuePct</a>, <a class="el" href="../../#l00125">m_value</a>, and <a class="el" href="../../#l02243">Player::SendUpdateWorldState()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00996">Update()</a>.</p>
+
+</div>
+</div>
+<a id="a02eab1f489ee817d0b0263a57eb71ed2" name="a02eab1f489ee817d0b0263a57eb71ed2"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a02eab1f489ee817d0b0263a57eb71ed2">&#9670;&#160;</a></span>HandlePlayerLeave()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">GuidUnorderedSet::iterator BfCapturePoint::HandlePlayerLeave </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d2/d78/a08584.html">Player</a> *&#160;</td>
+          <td class="paramname"><em>player</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  903</span>{</div>
+<div class="line"><span class="lineno">  904</span>    <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d6/d5c/a08140.html">GameObject</a>* go = <a class="code hl_function" href="../../d9/de8/a07116.html#a605d9ced3b467ff21c638490b1f089f0">GetCapturePointGo</a>(player))</div>
+<div class="line"><span class="lineno">  905</span>        player-&gt;<a class="code hl_function" href="../../d2/d78/a08584.html#a2a12863caf54ad9a8af56bda556d7a4b">SendUpdateWorldState</a>(go-&gt;GetGOInfo()-&gt;capturePoint.worldState1, 0);</div>
+<div class="line"><span class="lineno">  906</span> </div>
+<div class="line"><span class="lineno">  907</span>    GuidUnorderedSet::iterator current = <a class="code hl_variable" href="../../d9/de8/a07116.html#a371349b157af4b8ecbacc8814f0bb2ec">m_activePlayers</a>[player-&gt;<a class="code hl_function" href="../../d2/d78/a08584.html#a4874f5c152e187c381c2a349f16aa0d4">GetTeamId</a>()].find(player-&gt;<a class="code hl_function" href="../../da/d1c/a08336.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>());</div>
+<div class="line"><span class="lineno">  908</span> </div>
+<div class="line"><span class="lineno">  909</span>    <span class="keywordflow">if</span> (current == <a class="code hl_variable" href="../../d9/de8/a07116.html#a371349b157af4b8ecbacc8814f0bb2ec">m_activePlayers</a>[player-&gt;<a class="code hl_function" href="../../d2/d78/a08584.html#a4874f5c152e187c381c2a349f16aa0d4">GetTeamId</a>()].end())</div>
+<div class="line"><span class="lineno">  910</span>        <span class="keywordflow">return</span> current; <span class="comment">// return end()</span></div>
+<div class="line"><span class="lineno">  911</span> </div>
+<div class="line"><span class="lineno">  912</span>    current = <a class="code hl_variable" href="../../d9/de8/a07116.html#a371349b157af4b8ecbacc8814f0bb2ec">m_activePlayers</a>[player-&gt;<a class="code hl_function" href="../../d2/d78/a08584.html#a4874f5c152e187c381c2a349f16aa0d4">GetTeamId</a>()].erase(current);</div>
+<div class="line"><span class="lineno">  913</span>    <span class="keywordflow">return</span> current;</div>
+<div class="line"><span class="lineno">  914</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00986">GetCapturePointGo()</a>, <a class="el" href="../../#l00112">Object::GetGUID()</a>, <a class="el" href="../../#l02116">Player::GetTeamId()</a>, <a class="el" href="../../#l00115">m_activePlayers</a>, and <a class="el" href="../../#l02243">Player::SendUpdateWorldState()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00996">Update()</a>.</p>
+
+</div>
+</div>
+<a id="a5a375223e2be7103bf6d9b411bb95b2c" name="a5a375223e2be7103bf6d9b411bb95b2c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5a375223e2be7103bf6d9b411bb95b2c">&#9670;&#160;</a></span>IsInsideObjective()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool BfCapturePoint::IsInsideObjective </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d2/d78/a08584.html">Player</a> *&#160;</td>
+          <td class="paramname"><em>player</em></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno"> 1145</span>{</div>
+<div class="line"><span class="lineno"> 1146</span>    <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d9/de8/a07116.html#a371349b157af4b8ecbacc8814f0bb2ec">m_activePlayers</a>[player-&gt;<a class="code hl_function" href="../../d2/d78/a08584.html#a4874f5c152e187c381c2a349f16aa0d4">GetTeamId</a>()].find(player-&gt;<a class="code hl_function" href="../../da/d1c/a08336.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>()) != <a class="code hl_variable" href="../../d9/de8/a07116.html#a371349b157af4b8ecbacc8814f0bb2ec">m_activePlayers</a>[player-&gt;<a class="code hl_function" href="../../d2/d78/a08584.html#a4874f5c152e187c381c2a349f16aa0d4">GetTeamId</a>()].end();</div>
+<div class="line"><span class="lineno"> 1147</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00112">Object::GetGUID()</a>, <a class="el" href="../../#l02116">Player::GetTeamId()</a>, and <a class="el" href="../../#l00115">m_activePlayers</a>.</p>
+
+</div>
+</div>
+<a id="a7c727552544f98f3ace8e42c2d1cca02" name="a7c727552544f98f3ace8e42c2d1cca02"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7c727552544f98f3ace8e42c2d1cca02">&#9670;&#160;</a></span>SendChangePhase()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void BfCapturePoint::SendChangePhase </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  917</span>{</div>
+<div class="line"><span class="lineno">  918</span>    <a class="code hl_class" href="../../d6/d5c/a08140.html">GameObject</a>* capturePoint = <a class="code hl_function" href="../../d9/de8/a07116.html#a605d9ced3b467ff21c638490b1f089f0">GetCapturePointGo</a>();</div>
+<div class="line"><span class="lineno">  919</span>    <span class="keywordflow">if</span> (!capturePoint)</div>
+<div class="line"><span class="lineno">  920</span>        <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  921</span> </div>
+<div class="line"><span class="lineno">  922</span>    <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../d5/db5/a00374.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> team = 0; team &lt; 2; ++team)</div>
+<div class="line"><span class="lineno">  923</span>        <span class="keywordflow">for</span> (GuidUnorderedSet::iterator itr = <a class="code hl_variable" href="../../d9/de8/a07116.html#a371349b157af4b8ecbacc8814f0bb2ec">m_activePlayers</a>[team].begin(); itr != <a class="code hl_variable" href="../../d9/de8/a07116.html#a371349b157af4b8ecbacc8814f0bb2ec">m_activePlayers</a>[team].end(); ++itr)  <span class="comment">// send to all players present in the area</span></div>
+<div class="line"><span class="lineno">  924</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d2/d78/a08584.html">Player</a>* player = <a class="code hl_function" href="../../d1/d77/a04806.html#a9ede56180a13f102ad195136eadb97ee">ObjectAccessor::FindPlayer</a>(*itr))</div>
+<div class="line"><span class="lineno">  925</span>            {</div>
+<div class="line"><span class="lineno">  926</span>                <span class="comment">// send this too, sometimes the slider disappears, dunno why :(</span></div>
+<div class="line"><span class="lineno">  927</span>                player-&gt;SendUpdateWorldState(capturePoint-&gt;<a class="code hl_function" href="../../d6/d5c/a08140.html#a1415b5cb9b3b3f4f6691584c5b6d7324">GetGOInfo</a>()-&gt;<a class="code hl_variable" href="../../da/d5c/a08144.html#aff65541ffa640f8fa706fe425b3be1c2">capturePoint</a>.<a class="code hl_variable" href="../../da/d5c/a08144.html#afc807e66fd487510edaa21cfa5930e5e">worldState1</a>, 1);</div>
+<div class="line"><span class="lineno">  928</span>                <span class="comment">// send these updates to only the ones in this objective</span></div>
+<div class="line"><span class="lineno">  929</span>                player-&gt;SendUpdateWorldState(capturePoint-&gt;<a class="code hl_function" href="../../d6/d5c/a08140.html#a1415b5cb9b3b3f4f6691584c5b6d7324">GetGOInfo</a>()-&gt;<a class="code hl_variable" href="../../da/d5c/a08144.html#aff65541ffa640f8fa706fe425b3be1c2">capturePoint</a>.<a class="code hl_variable" href="../../da/d5c/a08144.html#a08af1aef620d8dfa8c1ec9566f6c746e">worldstate2</a>, (<a class="code hl_typedef" href="../../d5/db5/a00374.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>) std::ceil((<a class="code hl_variable" href="../../d9/de8/a07116.html#a7b3e3cb728347cd9783eea394245fcc0">m_value</a> + <a class="code hl_variable" href="../../d9/de8/a07116.html#a89bf5ddb47f47bb1129ec2256221dcb8">m_maxValue</a>) / (2 * <a class="code hl_variable" href="../../d9/de8/a07116.html#a89bf5ddb47f47bb1129ec2256221dcb8">m_maxValue</a>) * 100.0f));</div>
+<div class="line"><span class="lineno">  930</span>                <span class="comment">// send this too, sometimes it resets :S</span></div>
+<div class="line"><span class="lineno">  931</span>                player-&gt;SendUpdateWorldState(capturePoint-&gt;<a class="code hl_function" href="../../d6/d5c/a08140.html#a1415b5cb9b3b3f4f6691584c5b6d7324">GetGOInfo</a>()-&gt;<a class="code hl_variable" href="../../da/d5c/a08144.html#aff65541ffa640f8fa706fe425b3be1c2">capturePoint</a>.<a class="code hl_variable" href="../../da/d5c/a08144.html#a050e002c4a6bf7eb71ea6027587db6ac">worldstate3</a>, <a class="code hl_variable" href="../../d9/de8/a07116.html#aa96d823e5093e1baff06666c35c49932">m_neutralValuePct</a>);</div>
+<div class="line"><span class="lineno">  932</span>            }</div>
+<div class="line"><span class="lineno">  933</span>}</div>
+<div class="ttc" id="aa00374_html_a15a8d014fadf85c99a2268d8cbd00767"><div class="ttname"><a href="../../d5/db5/a00374.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></div><div class="ttdeci">std::uint8_t uint8</div><div class="ttdef"><b>Definition:</b> Define.h:109</div></div>
+<div class="ttc" id="aa04806_html_a9ede56180a13f102ad195136eadb97ee"><div class="ttname"><a href="../../d1/d77/a04806.html#a9ede56180a13f102ad195136eadb97ee">ObjectAccessor::FindPlayer</a></div><div class="ttdeci">Player * FindPlayer(ObjectGuid const guid)</div><div class="ttdef"><b>Definition:</b> ObjectAccessor.cpp:245</div></div>
+<div class="ttc" id="aa08140_html_a1415b5cb9b3b3f4f6691584c5b6d7324"><div class="ttname"><a href="../../d6/d5c/a08140.html#a1415b5cb9b3b3f4f6691584c5b6d7324">GameObject::GetGOInfo</a></div><div class="ttdeci">GameObjectTemplate const * GetGOInfo() const</div><div class="ttdef"><b>Definition:</b> GameObject.h:136</div></div>
+<div class="ttc" id="aa08144_html_a050e002c4a6bf7eb71ea6027587db6ac"><div class="ttname"><a href="../../da/d5c/a08144.html#a050e002c4a6bf7eb71ea6027587db6ac">GameObjectTemplate::worldstate3</a></div><div class="ttdeci">uint32 worldstate3</div><div class="ttdef"><b>Definition:</b> GameObjectData.h:315</div></div>
+<div class="ttc" id="aa08144_html_a08af1aef620d8dfa8c1ec9566f6c746e"><div class="ttname"><a href="../../da/d5c/a08144.html#a08af1aef620d8dfa8c1ec9566f6c746e">GameObjectTemplate::worldstate2</a></div><div class="ttdeci">uint32 worldstate2</div><div class="ttdef"><b>Definition:</b> GameObjectData.h:305</div></div>
+<div class="ttc" id="aa08144_html_afc807e66fd487510edaa21cfa5930e5e"><div class="ttname"><a href="../../da/d5c/a08144.html#afc807e66fd487510edaa21cfa5930e5e">GameObjectTemplate::worldState1</a></div><div class="ttdeci">uint32 worldState1</div><div class="ttdef"><b>Definition:</b> GameObjectData.h:223</div></div>
+<div class="ttc" id="aa08144_html_aff65541ffa640f8fa706fe425b3be1c2"><div class="ttname"><a href="../../da/d5c/a08144.html#aff65541ffa640f8fa706fe425b3be1c2">GameObjectTemplate::capturePoint</a></div><div class="ttdeci">struct GameObjectTemplate::@231::@255 capturePoint</div></div>
+<div class="ttc" id="aa08584_html"><div class="ttname"><a href="../../d2/d78/a08584.html">Player</a></div><div class="ttdef"><b>Definition:</b> Player.h:1081</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../da/d5c/a08144.html#aff65541ffa640f8fa706fe425b3be1c2">GameObjectTemplate::capturePoint</a>, <a class="el" href="../../#l00245">ObjectAccessor::FindPlayer()</a>, <a class="el" href="../../#l00986">GetCapturePointGo()</a>, <a class="el" href="../../#l00136">GameObject::GetGOInfo()</a>, <a class="el" href="../../#l00115">m_activePlayers</a>, <a class="el" href="../../#l00118">m_maxValue</a>, <a class="el" href="../../#l00133">m_neutralValuePct</a>, <a class="el" href="../../#l00125">m_value</a>, <a class="el" href="../../#l00223">GameObjectTemplate::worldState1</a>, <a class="el" href="../../#l00305">GameObjectTemplate::worldstate2</a>, and <a class="el" href="../../#l00315">GameObjectTemplate::worldstate3</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00996">Update()</a>.</p>
+
+</div>
+</div>
+<a id="ab961bfe8934f89e6e454b8a74a280e3e" name="ab961bfe8934f89e6e454b8a74a280e3e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab961bfe8934f89e6e454b8a74a280e3e">&#9670;&#160;</a></span>SendObjectiveComplete()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void BfCapturePoint::SendObjectiveComplete </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d5/db5/a00374.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>id</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d4/dca/a08384.html">ObjectGuid</a>&#160;</td>
+          <td class="paramname"><em>guid</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno"> 1124</span>{</div>
+<div class="line"><span class="lineno"> 1125</span>    <a class="code hl_typedef" href="../../d5/db5/a00374.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> team;</div>
+<div class="line"><span class="lineno"> 1126</span>    <span class="keywordflow">switch</span> (<a class="code hl_variable" href="../../d9/de8/a07116.html#acf8b53252eb10615ff197e15ea620083">m_State</a>)</div>
+<div class="line"><span class="lineno"> 1127</span>    {</div>
+<div class="line"><span class="lineno"> 1128</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../db/d69/a03320.html#af6db5a1d93982b261639cd12634a2798ac05149e43f48e8fbe687c2cb48a88ac7">BF_CAPTUREPOINT_OBJECTIVESTATE_ALLIANCE</a>:</div>
+<div class="line"><span class="lineno"> 1129</span>            team = 0;</div>
+<div class="line"><span class="lineno"> 1130</span>            <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno"> 1131</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../db/d69/a03320.html#af6db5a1d93982b261639cd12634a2798a683078aa231d432a72923b9eff4d5a29">BF_CAPTUREPOINT_OBJECTIVESTATE_HORDE</a>:</div>
+<div class="line"><span class="lineno"> 1132</span>            team = 1;</div>
+<div class="line"><span class="lineno"> 1133</span>            <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno"> 1134</span>        <span class="keywordflow">default</span>:</div>
+<div class="line"><span class="lineno"> 1135</span>            <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno"> 1136</span>    }</div>
+<div class="line"><span class="lineno"> 1137</span> </div>
+<div class="line"><span class="lineno"> 1138</span>    <span class="comment">// send to all players present in the area</span></div>
+<div class="line"><span class="lineno"> 1139</span>    <span class="keywordflow">for</span> (GuidUnorderedSet::iterator itr = <a class="code hl_variable" href="../../d9/de8/a07116.html#a371349b157af4b8ecbacc8814f0bb2ec">m_activePlayers</a>[team].begin(); itr != <a class="code hl_variable" href="../../d9/de8/a07116.html#a371349b157af4b8ecbacc8814f0bb2ec">m_activePlayers</a>[team].end(); ++itr)</div>
+<div class="line"><span class="lineno"> 1140</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d2/d78/a08584.html">Player</a>* player = <a class="code hl_function" href="../../d1/d77/a04806.html#a9ede56180a13f102ad195136eadb97ee">ObjectAccessor::FindPlayer</a>(*itr))</div>
+<div class="line"><span class="lineno"> 1141</span>            player-&gt;KilledMonsterCredit(<span class="keywordtype">id</span>, guid);</div>
+<div class="line"><span class="lineno"> 1142</span>}</div>
+<div class="ttc" id="aa03320_html_af6db5a1d93982b261639cd12634a2798a683078aa231d432a72923b9eff4d5a29"><div class="ttname"><a href="../../db/d69/a03320.html#af6db5a1d93982b261639cd12634a2798a683078aa231d432a72923b9eff4d5a29">BF_CAPTUREPOINT_OBJECTIVESTATE_HORDE</a></div><div class="ttdeci">@ BF_CAPTUREPOINT_OBJECTIVESTATE_HORDE</div><div class="ttdef"><b>Definition:</b> Battlefield.h:42</div></div>
+<div class="ttc" id="aa03320_html_af6db5a1d93982b261639cd12634a2798ac05149e43f48e8fbe687c2cb48a88ac7"><div class="ttname"><a href="../../db/d69/a03320.html#af6db5a1d93982b261639cd12634a2798ac05149e43f48e8fbe687c2cb48a88ac7">BF_CAPTUREPOINT_OBJECTIVESTATE_ALLIANCE</a></div><div class="ttdeci">@ BF_CAPTUREPOINT_OBJECTIVESTATE_ALLIANCE</div><div class="ttdef"><b>Definition:</b> Battlefield.h:41</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00041">BF_CAPTUREPOINT_OBJECTIVESTATE_ALLIANCE</a>, <a class="el" href="../../#l00042">BF_CAPTUREPOINT_OBJECTIVESTATE_HORDE</a>, <a class="el" href="../../#l00245">ObjectAccessor::FindPlayer()</a>, <a class="el" href="../../#l00115">m_activePlayers</a>, and <a class="el" href="../../#l00130">m_State</a>.</p>
+
+</div>
+</div>
+<a id="a887af016c482f532f38b3aa10ce6e546" name="a887af016c482f532f38b3aa10ce6e546"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a887af016c482f532f38b3aa10ce6e546">&#9670;&#160;</a></span>SendUpdateWorldState()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void BfCapturePoint::SendUpdateWorldState </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d5/db5/a00374.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>field</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d5/db5/a00374.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>value</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno"> 1116</span>{</div>
+<div class="line"><span class="lineno"> 1117</span>    <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../d5/db5/a00374.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> team = 0; team &lt; 2; ++team)</div>
+<div class="line"><span class="lineno"> 1118</span>        <span class="keywordflow">for</span> (GuidUnorderedSet::iterator itr = <a class="code hl_variable" href="../../d9/de8/a07116.html#a371349b157af4b8ecbacc8814f0bb2ec">m_activePlayers</a>[team].begin(); itr != <a class="code hl_variable" href="../../d9/de8/a07116.html#a371349b157af4b8ecbacc8814f0bb2ec">m_activePlayers</a>[team].end(); ++itr)  <span class="comment">// send to all players present in the area</span></div>
+<div class="line"><span class="lineno"> 1119</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d2/d78/a08584.html">Player</a>* player = <a class="code hl_function" href="../../d1/d77/a04806.html#a9ede56180a13f102ad195136eadb97ee">ObjectAccessor::FindPlayer</a>(*itr))</div>
+<div class="line"><span class="lineno"> 1120</span>                player-&gt;SendUpdateWorldState(field, value);</div>
+<div class="line"><span class="lineno"> 1121</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00245">ObjectAccessor::FindPlayer()</a>, and <a class="el" href="../../#l00115">m_activePlayers</a>.</p>
+
+</div>
+</div>
+<a id="a309d340d11c1712f5525438f31779671" name="a309d340d11c1712f5525438f31779671"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a309d340d11c1712f5525438f31779671">&#9670;&#160;</a></span>SetCapturePointData()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool BfCapturePoint::SetCapturePointData </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d6/d5c/a08140.html">GameObject</a> *&#160;</td>
+          <td class="paramname"><em>capturePoint</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d0/d9d/a04583.html#abfb349736a7699bdfcdb134035ef7865">TeamId</a>&#160;</td>
+          <td class="paramname"><em>team</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  936</span>{</div>
+<div class="line"><span class="lineno">  937</span>    <a class="code hl_define" href="../../df/d98/a00107.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(capturePoint);</div>
+<div class="line"><span class="lineno">  938</span> </div>
+<div class="line"><span class="lineno">  939</span>    <span class="comment">//At first call using TEAM_NEUTRAL as a checker but never using it, after first call we reset the capturepoints to the new winner of the last WG war</span></div>
+<div class="line"><span class="lineno">  940</span>    <span class="keywordflow">if</span> (team == <a class="code hl_enumvalue" href="../../d0/d9d/a04583.html#abfb349736a7699bdfcdb134035ef7865a1d009932a5dde84d818f627cfcfe3fe5">TEAM_NEUTRAL</a>)</div>
+<div class="line"><span class="lineno">  941</span>        team = <a class="code hl_variable" href="../../d9/de8/a07116.html#acd3c8e8fe970c160670bd5a7cdb9b1c4">m_team</a>;</div>
+<div class="line"><span class="lineno">  942</span>    <a class="code hl_define" href="../../d7/d9a/a00152.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;bg.battlefield&quot;</span>, <span class="stringliteral">&quot;Creating capture point {}&quot;</span>, capturePoint-&gt;<a class="code hl_function" href="../../da/d1c/a08336.html#aa627fe2967ed0e0ed1d8aeeb4365a961">GetEntry</a>());</div>
+<div class="line"><span class="lineno">  943</span> </div>
+<div class="line"><span class="lineno">  944</span>    <a class="code hl_variable" href="../../d9/de8/a07116.html#a3bc808408161740eed6185c049e1414b">m_capturePoint</a> = capturePoint-&gt;<a class="code hl_function" href="../../da/d1c/a08336.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>();</div>
+<div class="line"><span class="lineno">  945</span> </div>
+<div class="line"><span class="lineno">  946</span>    <span class="comment">// check info existence</span></div>
+<div class="line"><span class="lineno">  947</span>    <a class="code hl_struct" href="../../da/d5c/a08144.html">GameObjectTemplate</a> <span class="keyword">const</span>* goinfo = capturePoint-&gt;<a class="code hl_function" href="../../d6/d5c/a08140.html#a1415b5cb9b3b3f4f6691584c5b6d7324">GetGOInfo</a>();</div>
+<div class="line"><span class="lineno">  948</span>    <span class="keywordflow">if</span> (goinfo-&gt;<a class="code hl_variable" href="../../da/d5c/a08144.html#a1c78664b7272010dac83e9f4ea132330">type</a> != <a class="code hl_enumvalue" href="../../d0/d9d/a04583.html#a0233096c29a8a39f15373e06434985f9a15e0eaa2ecf827ab8f47b0768c2160b3">GAMEOBJECT_TYPE_CAPTURE_POINT</a>)</div>
+<div class="line"><span class="lineno">  949</span>    {</div>
+<div class="line"><span class="lineno">  950</span>        <a class="code hl_define" href="../../d7/d9a/a00152.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;bg.battlefield&quot;</span>, <span class="stringliteral">&quot;OutdoorPvP: GO {} is not capture point!&quot;</span>, capturePoint-&gt;<a class="code hl_function" href="../../da/d1c/a08336.html#aa627fe2967ed0e0ed1d8aeeb4365a961">GetEntry</a>());</div>
+<div class="line"><span class="lineno">  951</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  952</span>    }</div>
+<div class="line"><span class="lineno">  953</span> </div>
+<div class="line"><span class="lineno">  954</span>    <span class="comment">// get the needed values from goinfo</span></div>
+<div class="line"><span class="lineno">  955</span>    <a class="code hl_variable" href="../../d9/de8/a07116.html#a89bf5ddb47f47bb1129ec2256221dcb8">m_maxValue</a> = goinfo-&gt;<a class="code hl_variable" href="../../da/d5c/a08144.html#aff65541ffa640f8fa706fe425b3be1c2">capturePoint</a>.<a class="code hl_variable" href="../../da/d5c/a08144.html#a912d251efbe00674ea9497f3b5e7f537">maxTime</a>;</div>
+<div class="line"><span class="lineno">  956</span>    <a class="code hl_variable" href="../../d9/de8/a07116.html#a53e231eae6e505a88e616244092a8ee6">m_maxSpeed</a> = <a class="code hl_variable" href="../../d9/de8/a07116.html#a89bf5ddb47f47bb1129ec2256221dcb8">m_maxValue</a> / (goinfo-&gt;<a class="code hl_variable" href="../../da/d5c/a08144.html#aff65541ffa640f8fa706fe425b3be1c2">capturePoint</a>.<a class="code hl_variable" href="../../da/d5c/a08144.html#a259bf0cf9e7817c1988cf53f28170440">minTime</a> ? goinfo-&gt;<a class="code hl_variable" href="../../da/d5c/a08144.html#aff65541ffa640f8fa706fe425b3be1c2">capturePoint</a>.<a class="code hl_variable" href="../../da/d5c/a08144.html#a259bf0cf9e7817c1988cf53f28170440">minTime</a> : 60);</div>
+<div class="line"><span class="lineno">  957</span>    <a class="code hl_variable" href="../../d9/de8/a07116.html#aa96d823e5093e1baff06666c35c49932">m_neutralValuePct</a> = goinfo-&gt;<a class="code hl_variable" href="../../da/d5c/a08144.html#aff65541ffa640f8fa706fe425b3be1c2">capturePoint</a>.<a class="code hl_variable" href="../../da/d5c/a08144.html#a8aec950d501fa71132f9a708c8e5d0d7">neutralPercent</a>;</div>
+<div class="line"><span class="lineno">  958</span>    <a class="code hl_variable" href="../../d9/de8/a07116.html#a2d8624843a640445f04a6b17be63ae3d">m_minValue</a> = <a class="code hl_variable" href="../../d9/de8/a07116.html#a89bf5ddb47f47bb1129ec2256221dcb8">m_maxValue</a> * goinfo-&gt;<a class="code hl_variable" href="../../da/d5c/a08144.html#aff65541ffa640f8fa706fe425b3be1c2">capturePoint</a>.<a class="code hl_variable" href="../../da/d5c/a08144.html#a8aec950d501fa71132f9a708c8e5d0d7">neutralPercent</a> / 100;</div>
+<div class="line"><span class="lineno">  959</span>    <a class="code hl_variable" href="../../d9/de8/a07116.html#a9d43160e2a96cdae295596756f770f74">m_capturePointEntry</a> = capturePoint-&gt;<a class="code hl_function" href="../../da/d1c/a08336.html#aa627fe2967ed0e0ed1d8aeeb4365a961">GetEntry</a>();</div>
+<div class="line"><span class="lineno">  960</span>    <span class="keywordflow">if</span> (team == <a class="code hl_enumvalue" href="../../d0/d9d/a04583.html#abfb349736a7699bdfcdb134035ef7865a77ec52d5d5f9771c1ac94fddaf7fb84e">TEAM_ALLIANCE</a>)</div>
+<div class="line"><span class="lineno">  961</span>    {</div>
+<div class="line"><span class="lineno">  962</span>        <a class="code hl_variable" href="../../d9/de8/a07116.html#a7b3e3cb728347cd9783eea394245fcc0">m_value</a> = <a class="code hl_variable" href="../../d9/de8/a07116.html#a89bf5ddb47f47bb1129ec2256221dcb8">m_maxValue</a>;</div>
+<div class="line"><span class="lineno">  963</span>        <a class="code hl_variable" href="../../d9/de8/a07116.html#acf8b53252eb10615ff197e15ea620083">m_State</a> = <a class="code hl_enumvalue" href="../../db/d69/a03320.html#af6db5a1d93982b261639cd12634a2798ac05149e43f48e8fbe687c2cb48a88ac7">BF_CAPTUREPOINT_OBJECTIVESTATE_ALLIANCE</a>;</div>
+<div class="line"><span class="lineno">  964</span>    }</div>
+<div class="line"><span class="lineno">  965</span>    <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  966</span>    {</div>
+<div class="line"><span class="lineno">  967</span>        <a class="code hl_variable" href="../../d9/de8/a07116.html#a7b3e3cb728347cd9783eea394245fcc0">m_value</a> = -<a class="code hl_variable" href="../../d9/de8/a07116.html#a89bf5ddb47f47bb1129ec2256221dcb8">m_maxValue</a>;</div>
+<div class="line"><span class="lineno">  968</span>        <a class="code hl_variable" href="../../d9/de8/a07116.html#acf8b53252eb10615ff197e15ea620083">m_State</a> = <a class="code hl_enumvalue" href="../../db/d69/a03320.html#af6db5a1d93982b261639cd12634a2798a683078aa231d432a72923b9eff4d5a29">BF_CAPTUREPOINT_OBJECTIVESTATE_HORDE</a>;</div>
+<div class="line"><span class="lineno">  969</span>    }</div>
+<div class="line"><span class="lineno">  970</span> </div>
+<div class="line"><span class="lineno">  971</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  972</span>}</div>
+<div class="ttc" id="aa00107_html_af343b20373ba49a92fce523e948f2ab3"><div class="ttname"><a href="../../df/d98/a00107.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a></div><div class="ttdeci">#define ASSERT</div><div class="ttdef"><b>Definition:</b> Errors.h:68</div></div>
+<div class="ttc" id="aa00152_html_a43832e3fa8508deb4ce43e520005fcd9"><div class="ttname"><a href="../../d7/d9a/a00152.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a></div><div class="ttdeci">#define LOG_ERROR(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:157</div></div>
+<div class="ttc" id="aa00152_html_a47ac782b14a7531c6232777165a1a161"><div class="ttname"><a href="../../d7/d9a/a00152.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a></div><div class="ttdeci">#define LOG_DEBUG(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:169</div></div>
+<div class="ttc" id="aa04583_html_a0233096c29a8a39f15373e06434985f9a15e0eaa2ecf827ab8f47b0768c2160b3"><div class="ttname"><a href="../../d0/d9d/a04583.html#a0233096c29a8a39f15373e06434985f9a15e0eaa2ecf827ab8f47b0768c2160b3">GAMEOBJECT_TYPE_CAPTURE_POINT</a></div><div class="ttdeci">@ GAMEOBJECT_TYPE_CAPTURE_POINT</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:1589</div></div>
+<div class="ttc" id="aa04583_html_abfb349736a7699bdfcdb134035ef7865a77ec52d5d5f9771c1ac94fddaf7fb84e"><div class="ttname"><a href="../../d0/d9d/a04583.html#abfb349736a7699bdfcdb134035ef7865a77ec52d5d5f9771c1ac94fddaf7fb84e">TEAM_ALLIANCE</a></div><div class="ttdeci">@ TEAM_ALLIANCE</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:760</div></div>
+<div class="ttc" id="aa08144_html"><div class="ttname"><a href="../../da/d5c/a08144.html">GameObjectTemplate</a></div><div class="ttdef"><b>Definition:</b> GameObjectData.h:31</div></div>
+<div class="ttc" id="aa08144_html_a1c78664b7272010dac83e9f4ea132330"><div class="ttname"><a href="../../da/d5c/a08144.html#a1c78664b7272010dac83e9f4ea132330">GameObjectTemplate::type</a></div><div class="ttdeci">uint32 type</div><div class="ttdef"><b>Definition:</b> GameObjectData.h:33</div></div>
+<div class="ttc" id="aa08144_html_a259bf0cf9e7817c1988cf53f28170440"><div class="ttname"><a href="../../da/d5c/a08144.html#a259bf0cf9e7817c1988cf53f28170440">GameObjectTemplate::minTime</a></div><div class="ttdeci">uint32 minTime</div><div class="ttdef"><b>Definition:</b> GameObjectData.h:318</div></div>
+<div class="ttc" id="aa08144_html_a8aec950d501fa71132f9a708c8e5d0d7"><div class="ttname"><a href="../../da/d5c/a08144.html#a8aec950d501fa71132f9a708c8e5d0d7">GameObjectTemplate::neutralPercent</a></div><div class="ttdeci">uint32 neutralPercent</div><div class="ttdef"><b>Definition:</b> GameObjectData.h:314</div></div>
+<div class="ttc" id="aa08144_html_a912d251efbe00674ea9497f3b5e7f537"><div class="ttname"><a href="../../da/d5c/a08144.html#a912d251efbe00674ea9497f3b5e7f537">GameObjectTemplate::maxTime</a></div><div class="ttdeci">uint32 maxTime</div><div class="ttdef"><b>Definition:</b> GameObjectData.h:319</div></div>
+<div class="ttc" id="aa08336_html_aa627fe2967ed0e0ed1d8aeeb4365a961"><div class="ttname"><a href="../../da/d1c/a08336.html#aa627fe2967ed0e0ed1d8aeeb4365a961">Object::GetEntry</a></div><div class="ttdeci">uint32 GetEntry() const</div><div class="ttdef"><b>Definition:</b> Object.h:115</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00041">BF_CAPTUREPOINT_OBJECTIVESTATE_ALLIANCE</a>, <a class="el" href="../../#l00042">BF_CAPTUREPOINT_OBJECTIVESTATE_HORDE</a>, <a class="el" href="../../da/d5c/a08144.html#aff65541ffa640f8fa706fe425b3be1c2">GameObjectTemplate::capturePoint</a>, <a class="el" href="../../#l01589">GAMEOBJECT_TYPE_CAPTURE_POINT</a>, <a class="el" href="../../#l00115">Object::GetEntry()</a>, <a class="el" href="../../#l00136">GameObject::GetGOInfo()</a>, <a class="el" href="../../#l00112">Object::GetGUID()</a>, <a class="el" href="../../#l00169">LOG_DEBUG</a>, <a class="el" href="../../#l00157">LOG_ERROR</a>, <a class="el" href="../../#l00142">m_capturePoint</a>, <a class="el" href="../../#l00139">m_capturePointEntry</a>, <a class="el" href="../../#l00122">m_maxSpeed</a>, <a class="el" href="../../#l00118">m_maxValue</a>, <a class="el" href="../../#l00119">m_minValue</a>, <a class="el" href="../../#l00133">m_neutralValuePct</a>, <a class="el" href="../../#l00130">m_State</a>, <a class="el" href="../../#l00126">m_team</a>, <a class="el" href="../../#l00125">m_value</a>, <a class="el" href="../../#l00319">GameObjectTemplate::maxTime</a>, <a class="el" href="../../#l00318">GameObjectTemplate::minTime</a>, <a class="el" href="../../#l00314">GameObjectTemplate::neutralPercent</a>, <a class="el" href="../../#l00760">TEAM_ALLIANCE</a>, <a class="el" href="../../#l00762">TEAM_NEUTRAL</a>, and <a class="el" href="../../#l00033">GameObjectTemplate::type</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00676">BattlefieldWG::OnGameObjectCreate()</a>.</p>
+
+</div>
+</div>
+<a id="a3620c3873aca6e90594a4ddc8345102d" name="a3620c3873aca6e90594a4ddc8345102d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3620c3873aca6e90594a4ddc8345102d">&#9670;&#160;</a></span>Update()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool BfCapturePoint::Update </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d5/db5/a00374.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
           <td class="paramname"><em>diff</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">virtual</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  134</span>{</div>
-<div class="line"><span class="lineno">  135</span>    <a class="code hl_variable" href="../../d9/de8/a07116.html#a4818f48ea741ae5b6b588eed9719d0ec">m_UpdateTimer</a> += diff;</div>
-<div class="line"><span class="lineno">  136</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d9/de8/a07116.html#a4818f48ea741ae5b6b588eed9719d0ec">m_UpdateTimer</a> &gt; <a class="code hl_variable" href="../../d2/d0a/a02321.html#a79df696836c3edc53ca1868aab7f6e76">BATTLEFIELD_OBJECTIVE_UPDATE_INTERVAL</a>)</div>
-<div class="line"><span class="lineno">  137</span>    {</div>
-<div class="line"><span class="lineno">  138</span>        <span class="keywordflow">for</span> (BattlefieldSet::iterator itr = <a class="code hl_variable" href="../../d9/de8/a07116.html#a0ca3259d6262b725ee46c5d29f375585">m_BattlefieldSet</a>.begin(); itr != <a class="code hl_variable" href="../../d9/de8/a07116.html#a0ca3259d6262b725ee46c5d29f375585">m_BattlefieldSet</a>.end(); ++itr)</div>
-<div class="line"><span class="lineno">  139</span>            <span class="comment">//if ((*itr)-&gt;IsEnabled())</span></div>
-<div class="line"><span class="lineno">  140</span>            (*itr)-&gt;Update(<a class="code hl_variable" href="../../d9/de8/a07116.html#a4818f48ea741ae5b6b588eed9719d0ec">m_UpdateTimer</a>);</div>
-<div class="line"><span class="lineno">  141</span>        <a class="code hl_variable" href="../../d9/de8/a07116.html#a4818f48ea741ae5b6b588eed9719d0ec">m_UpdateTimer</a> = 0;</div>
-<div class="line"><span class="lineno">  142</span>    }</div>
-<div class="line"><span class="lineno">  143</span>}</div>
-<div class="ttc" id="aa02321_html_a79df696836c3edc53ca1868aab7f6e76"><div class="ttname"><a href="../../d2/d0a/a02321.html#a79df696836c3edc53ca1868aab7f6e76">BATTLEFIELD_OBJECTIVE_UPDATE_INTERVAL</a></div><div class="ttdeci">constexpr auto BATTLEFIELD_OBJECTIVE_UPDATE_INTERVAL</div><div class="ttdef"><b>Definition:</b> Battlefield.h:56</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  997</span>{</div>
+<div class="line"><span class="lineno">  998</span>    <a class="code hl_class" href="../../d6/d5c/a08140.html">GameObject</a>* capturePoint = <a class="code hl_function" href="../../d9/de8/a07116.html#a605d9ced3b467ff21c638490b1f089f0">GetCapturePointGo</a>();</div>
+<div class="line"><span class="lineno">  999</span>    <span class="keywordflow">if</span> (!capturePoint)</div>
+<div class="line"><span class="lineno"> 1000</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 1001</span> </div>
+<div class="line"><span class="lineno"> 1002</span>    <span class="keywordtype">float</span> radius = capturePoint-&gt;<a class="code hl_function" href="../../d6/d5c/a08140.html#a1415b5cb9b3b3f4f6691584c5b6d7324">GetGOInfo</a>()-&gt;<a class="code hl_variable" href="../../da/d5c/a08144.html#aff65541ffa640f8fa706fe425b3be1c2">capturePoint</a>.<a class="code hl_variable" href="../../da/d5c/a08144.html#a303ebbf7423f0f937bd81f5e4039dede">radius</a>;</div>
+<div class="line"><span class="lineno"> 1003</span> </div>
+<div class="line"><span class="lineno"> 1004</span>    <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../d5/db5/a00374.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> team = 0; team &lt; 2; ++team)</div>
+<div class="line"><span class="lineno"> 1005</span>    {</div>
+<div class="line"><span class="lineno"> 1006</span>        <span class="keywordflow">for</span> (GuidUnorderedSet::iterator itr = <a class="code hl_variable" href="../../d9/de8/a07116.html#a371349b157af4b8ecbacc8814f0bb2ec">m_activePlayers</a>[team].begin(); itr != <a class="code hl_variable" href="../../d9/de8/a07116.html#a371349b157af4b8ecbacc8814f0bb2ec">m_activePlayers</a>[team].end();)</div>
+<div class="line"><span class="lineno"> 1007</span>        {</div>
+<div class="line"><span class="lineno"> 1008</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d2/d78/a08584.html">Player</a>* player = <a class="code hl_function" href="../../d1/d77/a04806.html#a9ede56180a13f102ad195136eadb97ee">ObjectAccessor::FindPlayer</a>(*itr))</div>
+<div class="line"><span class="lineno"> 1009</span>                <span class="keywordflow">if</span> (!capturePoint-&gt;<a class="code hl_function" href="../../d6/d5c/a08140.html#a0e472403802c7a862e22c769ef4f8378">IsWithinDistInMap</a>(player, radius) || !player-&gt;IsOutdoorPvPActive())</div>
+<div class="line"><span class="lineno"> 1010</span>                {</div>
+<div class="line"><span class="lineno"> 1011</span>                    itr = <a class="code hl_function" href="../../d9/de8/a07116.html#a02eab1f489ee817d0b0263a57eb71ed2">HandlePlayerLeave</a>(player);</div>
+<div class="line"><span class="lineno"> 1012</span>                    <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno"> 1013</span>                }</div>
+<div class="line"><span class="lineno"> 1014</span> </div>
+<div class="line"><span class="lineno"> 1015</span>            ++itr;</div>
+<div class="line"><span class="lineno"> 1016</span>        }</div>
+<div class="line"><span class="lineno"> 1017</span>    }</div>
+<div class="line"><span class="lineno"> 1018</span> </div>
+<div class="line"><span class="lineno"> 1019</span>    std::list&lt;Player*&gt; players;</div>
+<div class="line"><span class="lineno"> 1020</span>    <a class="code hl_class" href="../../d5/d37/a09384.html">Acore::AnyPlayerInObjectRangeCheck</a> checker(capturePoint, radius);</div>
+<div class="line"><span class="lineno"> 1021</span>    <a class="code hl_struct" href="../../d6/dd6/a09240.html">Acore::PlayerListSearcher&lt;Acore::AnyPlayerInObjectRangeCheck&gt;</a> searcher(capturePoint, players, checker);</div>
+<div class="line"><span class="lineno"> 1022</span>    <a class="code hl_function" href="../../d5/db1/a09028.html#a3aa212635749a4fa5ca9dd7fab1ae884">Cell::VisitWorldObjects</a>(capturePoint, searcher, radius);</div>
+<div class="line"><span class="lineno"> 1023</span> </div>
+<div class="line"><span class="lineno"> 1024</span>    <span class="keywordflow">for</span> (std::list&lt;Player*&gt;::iterator itr = players.begin(); itr != players.end(); ++itr)</div>
+<div class="line"><span class="lineno"> 1025</span>        <span class="keywordflow">if</span> ((*itr)-&gt;IsOutdoorPvPActive())</div>
+<div class="line"><span class="lineno"> 1026</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d9/de8/a07116.html#a371349b157af4b8ecbacc8814f0bb2ec">m_activePlayers</a>[(*itr)-&gt;GetTeamId()].insert((*itr)-&gt;GetGUID()).second)</div>
+<div class="line"><span class="lineno"> 1027</span>                <a class="code hl_function" href="../../d9/de8/a07116.html#a1a4ed58f9874900d822305dd406b1c67">HandlePlayerEnter</a>(*itr);</div>
+<div class="line"><span class="lineno"> 1028</span> </div>
+<div class="line"><span class="lineno"> 1029</span>    <span class="comment">// get the difference of numbers</span></div>
+<div class="line"><span class="lineno"> 1030</span>    <span class="keywordtype">float</span> fact_diff = ((float) <a class="code hl_variable" href="../../d9/de8/a07116.html#a371349b157af4b8ecbacc8814f0bb2ec">m_activePlayers</a>[0].size() - (float) <a class="code hl_variable" href="../../d9/de8/a07116.html#a371349b157af4b8ecbacc8814f0bb2ec">m_activePlayers</a>[1].size()) * diff / <a class="code hl_variable" href="../../db/d69/a03320.html#a79df696836c3edc53ca1868aab7f6e76">BATTLEFIELD_OBJECTIVE_UPDATE_INTERVAL</a>;</div>
+<div class="line"><span class="lineno"> 1031</span>    <span class="keywordflow">if</span> (G3D::fuzzyEq(fact_diff, 0.0f))</div>
+<div class="line"><span class="lineno"> 1032</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 1033</span> </div>
+<div class="line"><span class="lineno"> 1034</span>    <a class="code hl_enumeration" href="../../d0/d9d/a04583.html#abfb349736a7699bdfcdb134035ef7865">TeamId</a> ChallengerId = <a class="code hl_enumvalue" href="../../d0/d9d/a04583.html#abfb349736a7699bdfcdb134035ef7865a1d009932a5dde84d818f627cfcfe3fe5">TEAM_NEUTRAL</a>;</div>
+<div class="line"><span class="lineno"> 1035</span>    <span class="keywordtype">float</span> maxDiff = <a class="code hl_variable" href="../../d9/de8/a07116.html#a53e231eae6e505a88e616244092a8ee6">m_maxSpeed</a> * diff;</div>
+<div class="line"><span class="lineno"> 1036</span> </div>
+<div class="line"><span class="lineno"> 1037</span>    <span class="keywordflow">if</span> (fact_diff &lt; 0)</div>
+<div class="line"><span class="lineno"> 1038</span>    {</div>
+<div class="line"><span class="lineno"> 1039</span>        <span class="comment">// horde is in majority, but it&#39;s already horde-controlled -&gt; no change</span></div>
+<div class="line"><span class="lineno"> 1040</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d9/de8/a07116.html#acf8b53252eb10615ff197e15ea620083">m_State</a> == <a class="code hl_enumvalue" href="../../db/d69/a03320.html#af6db5a1d93982b261639cd12634a2798a683078aa231d432a72923b9eff4d5a29">BF_CAPTUREPOINT_OBJECTIVESTATE_HORDE</a> &amp;&amp; <a class="code hl_variable" href="../../d9/de8/a07116.html#a7b3e3cb728347cd9783eea394245fcc0">m_value</a> &lt;= -<a class="code hl_variable" href="../../d9/de8/a07116.html#a89bf5ddb47f47bb1129ec2256221dcb8">m_maxValue</a>)</div>
+<div class="line"><span class="lineno"> 1041</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 1042</span> </div>
+<div class="line"><span class="lineno"> 1043</span>        <span class="keywordflow">if</span> (fact_diff &lt; -maxDiff)</div>
+<div class="line"><span class="lineno"> 1044</span>            fact_diff = -maxDiff;</div>
+<div class="line"><span class="lineno"> 1045</span> </div>
+<div class="line"><span class="lineno"> 1046</span>        ChallengerId = <a class="code hl_enumvalue" href="../../d0/d9d/a04583.html#abfb349736a7699bdfcdb134035ef7865a80bb98f9049563b07d3b738a0783366a">TEAM_HORDE</a>;</div>
+<div class="line"><span class="lineno"> 1047</span>    }</div>
+<div class="line"><span class="lineno"> 1048</span>    <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno"> 1049</span>    {</div>
+<div class="line"><span class="lineno"> 1050</span>        <span class="comment">// ally is in majority, but it&#39;s already ally-controlled -&gt; no change</span></div>
+<div class="line"><span class="lineno"> 1051</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d9/de8/a07116.html#acf8b53252eb10615ff197e15ea620083">m_State</a> == <a class="code hl_enumvalue" href="../../db/d69/a03320.html#af6db5a1d93982b261639cd12634a2798ac05149e43f48e8fbe687c2cb48a88ac7">BF_CAPTUREPOINT_OBJECTIVESTATE_ALLIANCE</a> &amp;&amp; <a class="code hl_variable" href="../../d9/de8/a07116.html#a7b3e3cb728347cd9783eea394245fcc0">m_value</a> &gt;= <a class="code hl_variable" href="../../d9/de8/a07116.html#a89bf5ddb47f47bb1129ec2256221dcb8">m_maxValue</a>)</div>
+<div class="line"><span class="lineno"> 1052</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 1053</span> </div>
+<div class="line"><span class="lineno"> 1054</span>        <span class="keywordflow">if</span> (fact_diff &gt; maxDiff)</div>
+<div class="line"><span class="lineno"> 1055</span>            fact_diff = maxDiff;</div>
+<div class="line"><span class="lineno"> 1056</span> </div>
+<div class="line"><span class="lineno"> 1057</span>        ChallengerId = <a class="code hl_enumvalue" href="../../d0/d9d/a04583.html#abfb349736a7699bdfcdb134035ef7865a77ec52d5d5f9771c1ac94fddaf7fb84e">TEAM_ALLIANCE</a>;</div>
+<div class="line"><span class="lineno"> 1058</span>    }</div>
+<div class="line"><span class="lineno"> 1059</span> </div>
+<div class="line"><span class="lineno"> 1060</span>    <span class="keywordtype">float</span> oldValue = <a class="code hl_variable" href="../../d9/de8/a07116.html#a7b3e3cb728347cd9783eea394245fcc0">m_value</a>;</div>
+<div class="line"><span class="lineno"> 1061</span>    <a class="code hl_enumeration" href="../../d0/d9d/a04583.html#abfb349736a7699bdfcdb134035ef7865">TeamId</a> oldTeam = <a class="code hl_variable" href="../../d9/de8/a07116.html#acd3c8e8fe970c160670bd5a7cdb9b1c4">m_team</a>;</div>
+<div class="line"><span class="lineno"> 1062</span> </div>
+<div class="line"><span class="lineno"> 1063</span>    <a class="code hl_variable" href="../../d9/de8/a07116.html#a37792e377ac59c30e711a56239598da4">m_OldState</a> = <a class="code hl_variable" href="../../d9/de8/a07116.html#acf8b53252eb10615ff197e15ea620083">m_State</a>;</div>
+<div class="line"><span class="lineno"> 1064</span> </div>
+<div class="line"><span class="lineno"> 1065</span>    <a class="code hl_variable" href="../../d9/de8/a07116.html#a7b3e3cb728347cd9783eea394245fcc0">m_value</a> += fact_diff;</div>
+<div class="line"><span class="lineno"> 1066</span> </div>
+<div class="line"><span class="lineno"> 1067</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d9/de8/a07116.html#a7b3e3cb728347cd9783eea394245fcc0">m_value</a> &lt; -<a class="code hl_variable" href="../../d9/de8/a07116.html#a2d8624843a640445f04a6b17be63ae3d">m_minValue</a>)                              <span class="comment">// red</span></div>
+<div class="line"><span class="lineno"> 1068</span>    {</div>
+<div class="line"><span class="lineno"> 1069</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d9/de8/a07116.html#a7b3e3cb728347cd9783eea394245fcc0">m_value</a> &lt; -<a class="code hl_variable" href="../../d9/de8/a07116.html#a89bf5ddb47f47bb1129ec2256221dcb8">m_maxValue</a>)</div>
+<div class="line"><span class="lineno"> 1070</span>            <a class="code hl_variable" href="../../d9/de8/a07116.html#a7b3e3cb728347cd9783eea394245fcc0">m_value</a> = -<a class="code hl_variable" href="../../d9/de8/a07116.html#a89bf5ddb47f47bb1129ec2256221dcb8">m_maxValue</a>;</div>
+<div class="line"><span class="lineno"> 1071</span>        <a class="code hl_variable" href="../../d9/de8/a07116.html#acf8b53252eb10615ff197e15ea620083">m_State</a> = <a class="code hl_enumvalue" href="../../db/d69/a03320.html#af6db5a1d93982b261639cd12634a2798a683078aa231d432a72923b9eff4d5a29">BF_CAPTUREPOINT_OBJECTIVESTATE_HORDE</a>;</div>
+<div class="line"><span class="lineno"> 1072</span>        <a class="code hl_variable" href="../../d9/de8/a07116.html#acd3c8e8fe970c160670bd5a7cdb9b1c4">m_team</a> = <a class="code hl_enumvalue" href="../../d0/d9d/a04583.html#abfb349736a7699bdfcdb134035ef7865a80bb98f9049563b07d3b738a0783366a">TEAM_HORDE</a>;</div>
+<div class="line"><span class="lineno"> 1073</span>    }</div>
+<div class="line"><span class="lineno"> 1074</span>    <span class="keywordflow">else</span> <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d9/de8/a07116.html#a7b3e3cb728347cd9783eea394245fcc0">m_value</a> &gt; <a class="code hl_variable" href="../../d9/de8/a07116.html#a2d8624843a640445f04a6b17be63ae3d">m_minValue</a>)                          <span class="comment">// blue</span></div>
+<div class="line"><span class="lineno"> 1075</span>    {</div>
+<div class="line"><span class="lineno"> 1076</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d9/de8/a07116.html#a7b3e3cb728347cd9783eea394245fcc0">m_value</a> &gt; <a class="code hl_variable" href="../../d9/de8/a07116.html#a89bf5ddb47f47bb1129ec2256221dcb8">m_maxValue</a>)</div>
+<div class="line"><span class="lineno"> 1077</span>            <a class="code hl_variable" href="../../d9/de8/a07116.html#a7b3e3cb728347cd9783eea394245fcc0">m_value</a> = <a class="code hl_variable" href="../../d9/de8/a07116.html#a89bf5ddb47f47bb1129ec2256221dcb8">m_maxValue</a>;</div>
+<div class="line"><span class="lineno"> 1078</span>        <a class="code hl_variable" href="../../d9/de8/a07116.html#acf8b53252eb10615ff197e15ea620083">m_State</a> = <a class="code hl_enumvalue" href="../../db/d69/a03320.html#af6db5a1d93982b261639cd12634a2798ac05149e43f48e8fbe687c2cb48a88ac7">BF_CAPTUREPOINT_OBJECTIVESTATE_ALLIANCE</a>;</div>
+<div class="line"><span class="lineno"> 1079</span>        <a class="code hl_variable" href="../../d9/de8/a07116.html#acd3c8e8fe970c160670bd5a7cdb9b1c4">m_team</a> = <a class="code hl_enumvalue" href="../../d0/d9d/a04583.html#abfb349736a7699bdfcdb134035ef7865a77ec52d5d5f9771c1ac94fddaf7fb84e">TEAM_ALLIANCE</a>;</div>
+<div class="line"><span class="lineno"> 1080</span>    }</div>
+<div class="line"><span class="lineno"> 1081</span>    <span class="keywordflow">else</span> <span class="keywordflow">if</span> (oldValue * <a class="code hl_variable" href="../../d9/de8/a07116.html#a7b3e3cb728347cd9783eea394245fcc0">m_value</a> &lt;= 0)                       <span class="comment">// grey, go through mid point</span></div>
+<div class="line"><span class="lineno"> 1082</span>    {</div>
+<div class="line"><span class="lineno"> 1083</span>        <span class="comment">// if challenger is ally, then n-&gt;a challenge</span></div>
+<div class="line"><span class="lineno"> 1084</span>        <span class="keywordflow">if</span> (ChallengerId == <a class="code hl_enumvalue" href="../../d0/d9d/a04583.html#abfb349736a7699bdfcdb134035ef7865a77ec52d5d5f9771c1ac94fddaf7fb84e">TEAM_ALLIANCE</a>)</div>
+<div class="line"><span class="lineno"> 1085</span>            <a class="code hl_variable" href="../../d9/de8/a07116.html#acf8b53252eb10615ff197e15ea620083">m_State</a> = <a class="code hl_enumvalue" href="../../db/d69/a03320.html#af6db5a1d93982b261639cd12634a2798a47f8021bf59a901b2a512d28cc044c7f">BF_CAPTUREPOINT_OBJECTIVESTATE_NEUTRAL_ALLIANCE_CHALLENGE</a>;</div>
+<div class="line"><span class="lineno"> 1086</span>        <span class="comment">// if challenger is horde, then n-&gt;h challenge</span></div>
+<div class="line"><span class="lineno"> 1087</span>        <span class="keywordflow">else</span> <span class="keywordflow">if</span> (ChallengerId == <a class="code hl_enumvalue" href="../../d0/d9d/a04583.html#abfb349736a7699bdfcdb134035ef7865a80bb98f9049563b07d3b738a0783366a">TEAM_HORDE</a>)</div>
+<div class="line"><span class="lineno"> 1088</span>            <a class="code hl_variable" href="../../d9/de8/a07116.html#acf8b53252eb10615ff197e15ea620083">m_State</a> = <a class="code hl_enumvalue" href="../../db/d69/a03320.html#af6db5a1d93982b261639cd12634a2798a28c520f0b5997a10c6e8c040d803a9d5">BF_CAPTUREPOINT_OBJECTIVESTATE_NEUTRAL_HORDE_CHALLENGE</a>;</div>
+<div class="line"><span class="lineno"> 1089</span>        <a class="code hl_variable" href="../../d9/de8/a07116.html#acd3c8e8fe970c160670bd5a7cdb9b1c4">m_team</a> = <a class="code hl_enumvalue" href="../../d0/d9d/a04583.html#abfb349736a7699bdfcdb134035ef7865a1d009932a5dde84d818f627cfcfe3fe5">TEAM_NEUTRAL</a>;</div>
+<div class="line"><span class="lineno"> 1090</span>    }</div>
+<div class="line"><span class="lineno"> 1091</span>    <span class="keywordflow">else</span>                                                    <span class="comment">// grey, did not go through mid point</span></div>
+<div class="line"><span class="lineno"> 1092</span>    {</div>
+<div class="line"><span class="lineno"> 1093</span>        <span class="comment">// old phase and current are on the same side, so one team challenges the other</span></div>
+<div class="line"><span class="lineno"> 1094</span>        <span class="keywordflow">if</span> (ChallengerId == <a class="code hl_enumvalue" href="../../d0/d9d/a04583.html#abfb349736a7699bdfcdb134035ef7865a77ec52d5d5f9771c1ac94fddaf7fb84e">TEAM_ALLIANCE</a> &amp;&amp; (<a class="code hl_variable" href="../../d9/de8/a07116.html#a37792e377ac59c30e711a56239598da4">m_OldState</a> == <a class="code hl_enumvalue" href="../../db/d69/a03320.html#af6db5a1d93982b261639cd12634a2798a683078aa231d432a72923b9eff4d5a29">BF_CAPTUREPOINT_OBJECTIVESTATE_HORDE</a> || <a class="code hl_variable" href="../../d9/de8/a07116.html#a37792e377ac59c30e711a56239598da4">m_OldState</a> == <a class="code hl_enumvalue" href="../../db/d69/a03320.html#af6db5a1d93982b261639cd12634a2798a28c520f0b5997a10c6e8c040d803a9d5">BF_CAPTUREPOINT_OBJECTIVESTATE_NEUTRAL_HORDE_CHALLENGE</a>))</div>
+<div class="line"><span class="lineno"> 1095</span>            <a class="code hl_variable" href="../../d9/de8/a07116.html#acf8b53252eb10615ff197e15ea620083">m_State</a> = <a class="code hl_enumvalue" href="../../db/d69/a03320.html#af6db5a1d93982b261639cd12634a2798af7b31d0894d6b9bd950d9a48c86da7c4">BF_CAPTUREPOINT_OBJECTIVESTATE_HORDE_ALLIANCE_CHALLENGE</a>;</div>
+<div class="line"><span class="lineno"> 1096</span>        <span class="keywordflow">else</span> <span class="keywordflow">if</span> (ChallengerId == <a class="code hl_enumvalue" href="../../d0/d9d/a04583.html#abfb349736a7699bdfcdb134035ef7865a80bb98f9049563b07d3b738a0783366a">TEAM_HORDE</a> &amp;&amp; (<a class="code hl_variable" href="../../d9/de8/a07116.html#a37792e377ac59c30e711a56239598da4">m_OldState</a> == <a class="code hl_enumvalue" href="../../db/d69/a03320.html#af6db5a1d93982b261639cd12634a2798ac05149e43f48e8fbe687c2cb48a88ac7">BF_CAPTUREPOINT_OBJECTIVESTATE_ALLIANCE</a> || <a class="code hl_variable" href="../../d9/de8/a07116.html#a37792e377ac59c30e711a56239598da4">m_OldState</a> == <a class="code hl_enumvalue" href="../../db/d69/a03320.html#af6db5a1d93982b261639cd12634a2798a47f8021bf59a901b2a512d28cc044c7f">BF_CAPTUREPOINT_OBJECTIVESTATE_NEUTRAL_ALLIANCE_CHALLENGE</a>))</div>
+<div class="line"><span class="lineno"> 1097</span>            <a class="code hl_variable" href="../../d9/de8/a07116.html#acf8b53252eb10615ff197e15ea620083">m_State</a> = <a class="code hl_enumvalue" href="../../db/d69/a03320.html#af6db5a1d93982b261639cd12634a2798a9c9e1d966e139a18ba54ee2c2fa0bc2b">BF_CAPTUREPOINT_OBJECTIVESTATE_ALLIANCE_HORDE_CHALLENGE</a>;</div>
+<div class="line"><span class="lineno"> 1098</span>        <a class="code hl_variable" href="../../d9/de8/a07116.html#acd3c8e8fe970c160670bd5a7cdb9b1c4">m_team</a> = <a class="code hl_enumvalue" href="../../d0/d9d/a04583.html#abfb349736a7699bdfcdb134035ef7865a1d009932a5dde84d818f627cfcfe3fe5">TEAM_NEUTRAL</a>;</div>
+<div class="line"><span class="lineno"> 1099</span>    }</div>
+<div class="line"><span class="lineno"> 1100</span> </div>
+<div class="line"><span class="lineno"> 1101</span>    <span class="keywordflow">if</span> (G3D::fuzzyNe(<a class="code hl_variable" href="../../d9/de8/a07116.html#a7b3e3cb728347cd9783eea394245fcc0">m_value</a>, oldValue))</div>
+<div class="line"><span class="lineno"> 1102</span>        <a class="code hl_function" href="../../d9/de8/a07116.html#a7c727552544f98f3ace8e42c2d1cca02">SendChangePhase</a>();</div>
+<div class="line"><span class="lineno"> 1103</span> </div>
+<div class="line"><span class="lineno"> 1104</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d9/de8/a07116.html#a37792e377ac59c30e711a56239598da4">m_OldState</a> != <a class="code hl_variable" href="../../d9/de8/a07116.html#acf8b53252eb10615ff197e15ea620083">m_State</a>)</div>
+<div class="line"><span class="lineno"> 1105</span>    {</div>
+<div class="line"><span class="lineno"> 1106</span>        <span class="comment">//LOG_ERROR(&quot;bg.battlefield&quot;, &quot;{}-&gt;{}&quot;, m_OldState, m_State);</span></div>
+<div class="line"><span class="lineno"> 1107</span>        <span class="keywordflow">if</span> (oldTeam != <a class="code hl_variable" href="../../d9/de8/a07116.html#acd3c8e8fe970c160670bd5a7cdb9b1c4">m_team</a>)</div>
+<div class="line"><span class="lineno"> 1108</span>            <a class="code hl_function" href="../../d9/de8/a07116.html#a429037910b1a3108cdb753ba91230bf7">ChangeTeam</a>(oldTeam);</div>
+<div class="line"><span class="lineno"> 1109</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno"> 1110</span>    }</div>
+<div class="line"><span class="lineno"> 1111</span> </div>
+<div class="line"><span class="lineno"> 1112</span>    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 1113</span>}</div>
+<div class="ttc" id="aa03320_html_a79df696836c3edc53ca1868aab7f6e76"><div class="ttname"><a href="../../db/d69/a03320.html#a79df696836c3edc53ca1868aab7f6e76">BATTLEFIELD_OBJECTIVE_UPDATE_INTERVAL</a></div><div class="ttdeci">constexpr auto BATTLEFIELD_OBJECTIVE_UPDATE_INTERVAL</div><div class="ttdef"><b>Definition:</b> Battlefield.h:56</div></div>
+<div class="ttc" id="aa03320_html_af6db5a1d93982b261639cd12634a2798a28c520f0b5997a10c6e8c040d803a9d5"><div class="ttname"><a href="../../db/d69/a03320.html#af6db5a1d93982b261639cd12634a2798a28c520f0b5997a10c6e8c040d803a9d5">BF_CAPTUREPOINT_OBJECTIVESTATE_NEUTRAL_HORDE_CHALLENGE</a></div><div class="ttdeci">@ BF_CAPTUREPOINT_OBJECTIVESTATE_NEUTRAL_HORDE_CHALLENGE</div><div class="ttdef"><b>Definition:</b> Battlefield.h:44</div></div>
+<div class="ttc" id="aa03320_html_af6db5a1d93982b261639cd12634a2798a47f8021bf59a901b2a512d28cc044c7f"><div class="ttname"><a href="../../db/d69/a03320.html#af6db5a1d93982b261639cd12634a2798a47f8021bf59a901b2a512d28cc044c7f">BF_CAPTUREPOINT_OBJECTIVESTATE_NEUTRAL_ALLIANCE_CHALLENGE</a></div><div class="ttdeci">@ BF_CAPTUREPOINT_OBJECTIVESTATE_NEUTRAL_ALLIANCE_CHALLENGE</div><div class="ttdef"><b>Definition:</b> Battlefield.h:43</div></div>
+<div class="ttc" id="aa03320_html_af6db5a1d93982b261639cd12634a2798a9c9e1d966e139a18ba54ee2c2fa0bc2b"><div class="ttname"><a href="../../db/d69/a03320.html#af6db5a1d93982b261639cd12634a2798a9c9e1d966e139a18ba54ee2c2fa0bc2b">BF_CAPTUREPOINT_OBJECTIVESTATE_ALLIANCE_HORDE_CHALLENGE</a></div><div class="ttdeci">@ BF_CAPTUREPOINT_OBJECTIVESTATE_ALLIANCE_HORDE_CHALLENGE</div><div class="ttdef"><b>Definition:</b> Battlefield.h:45</div></div>
+<div class="ttc" id="aa03320_html_af6db5a1d93982b261639cd12634a2798af7b31d0894d6b9bd950d9a48c86da7c4"><div class="ttname"><a href="../../db/d69/a03320.html#af6db5a1d93982b261639cd12634a2798af7b31d0894d6b9bd950d9a48c86da7c4">BF_CAPTUREPOINT_OBJECTIVESTATE_HORDE_ALLIANCE_CHALLENGE</a></div><div class="ttdeci">@ BF_CAPTUREPOINT_OBJECTIVESTATE_HORDE_ALLIANCE_CHALLENGE</div><div class="ttdef"><b>Definition:</b> Battlefield.h:46</div></div>
+<div class="ttc" id="aa04583_html_abfb349736a7699bdfcdb134035ef7865"><div class="ttname"><a href="../../d0/d9d/a04583.html#abfb349736a7699bdfcdb134035ef7865">TeamId</a></div><div class="ttdeci">TeamId</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:759</div></div>
+<div class="ttc" id="aa04583_html_abfb349736a7699bdfcdb134035ef7865a80bb98f9049563b07d3b738a0783366a"><div class="ttname"><a href="../../d0/d9d/a04583.html#abfb349736a7699bdfcdb134035ef7865a80bb98f9049563b07d3b738a0783366a">TEAM_HORDE</a></div><div class="ttdeci">@ TEAM_HORDE</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:761</div></div>
+<div class="ttc" id="aa07116_html_a02eab1f489ee817d0b0263a57eb71ed2"><div class="ttname"><a href="../../d9/de8/a07116.html#a02eab1f489ee817d0b0263a57eb71ed2">BfCapturePoint::HandlePlayerLeave</a></div><div class="ttdeci">virtual GuidUnorderedSet::iterator HandlePlayerLeave(Player *player)</div><div class="ttdef"><b>Definition:</b> Battlefield.cpp:902</div></div>
+<div class="ttc" id="aa07116_html_a1a4ed58f9874900d822305dd406b1c67"><div class="ttname"><a href="../../d9/de8/a07116.html#a1a4ed58f9874900d822305dd406b1c67">BfCapturePoint::HandlePlayerEnter</a></div><div class="ttdeci">virtual bool HandlePlayerEnter(Player *player)</div><div class="ttdef"><b>Definition:</b> Battlefield.cpp:891</div></div>
+<div class="ttc" id="aa07116_html_a429037910b1a3108cdb753ba91230bf7"><div class="ttname"><a href="../../d9/de8/a07116.html#a429037910b1a3108cdb753ba91230bf7">BfCapturePoint::ChangeTeam</a></div><div class="ttdeci">virtual void ChangeTeam(TeamId)</div><div class="ttdef"><b>Definition:</b> Battlefield.h:102</div></div>
+<div class="ttc" id="aa07116_html_a7c727552544f98f3ace8e42c2d1cca02"><div class="ttname"><a href="../../d9/de8/a07116.html#a7c727552544f98f3ace8e42c2d1cca02">BfCapturePoint::SendChangePhase</a></div><div class="ttdeci">virtual void SendChangePhase()</div><div class="ttdef"><b>Definition:</b> Battlefield.cpp:916</div></div>
+<div class="ttc" id="aa08140_html_a0e472403802c7a862e22c769ef4f8378"><div class="ttname"><a href="../../d6/d5c/a08140.html#a0e472403802c7a862e22c769ef4f8378">GameObject::IsWithinDistInMap</a></div><div class="ttdeci">bool IsWithinDistInMap(Player const *player) const</div><div class="ttdef"><b>Definition:</b> GameObject.cpp:2988</div></div>
+<div class="ttc" id="aa08144_html_a303ebbf7423f0f937bd81f5e4039dede"><div class="ttname"><a href="../../da/d5c/a08144.html#a303ebbf7423f0f937bd81f5e4039dede">GameObjectTemplate::radius</a></div><div class="ttdeci">uint32 radius</div><div class="ttdef"><b>Definition:</b> GameObjectData.h:196</div></div>
+<div class="ttc" id="aa09028_html_a3aa212635749a4fa5ca9dd7fab1ae884"><div class="ttname"><a href="../../d5/db1/a09028.html#a3aa212635749a4fa5ca9dd7fab1ae884">Cell::VisitWorldObjects</a></div><div class="ttdeci">static void VisitWorldObjects(WorldObject const *obj, T &amp;visitor, float radius)</div><div class="ttdef"><b>Definition:</b> CellImpl.h:175</div></div>
+<div class="ttc" id="aa09240_html"><div class="ttname"><a href="../../d6/dd6/a09240.html">Acore::PlayerListSearcher</a></div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:525</div></div>
+<div class="ttc" id="aa09384_html"><div class="ttname"><a href="../../d5/d37/a09384.html">Acore::AnyPlayerInObjectRangeCheck</a></div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:1354</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00056">BATTLEFIELD_OBJECTIVE_UPDATE_INTERVAL</a>, <a class="el" href="../../#l00069">m_BattlefieldSet</a>, and <a class="el" href="../../#l00074">m_UpdateTimer</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00056">BATTLEFIELD_OBJECTIVE_UPDATE_INTERVAL</a>, <a class="el" href="../../#l00041">BF_CAPTUREPOINT_OBJECTIVESTATE_ALLIANCE</a>, <a class="el" href="../../#l00045">BF_CAPTUREPOINT_OBJECTIVESTATE_ALLIANCE_HORDE_CHALLENGE</a>, <a class="el" href="../../#l00042">BF_CAPTUREPOINT_OBJECTIVESTATE_HORDE</a>, <a class="el" href="../../#l00046">BF_CAPTUREPOINT_OBJECTIVESTATE_HORDE_ALLIANCE_CHALLENGE</a>, <a class="el" href="../../#l00043">BF_CAPTUREPOINT_OBJECTIVESTATE_NEUTRAL_ALLIANCE_CHALLENGE</a>, <a class="el" href="../../#l00044">BF_CAPTUREPOINT_OBJECTIVESTATE_NEUTRAL_HORDE_CHALLENGE</a>, <a class="el" href="../../da/d5c/a08144.html#aff65541ffa640f8fa706fe425b3be1c2">GameObjectTemplate::capturePoint</a>, <a class="el" href="../../#l00102">ChangeTeam()</a>, <a class="el" href="../../#l00245">ObjectAccessor::FindPlayer()</a>, <a class="el" href="../../#l00986">GetCapturePointGo()</a>, <a class="el" href="../../#l00136">GameObject::GetGOInfo()</a>, <a class="el" href="../../#l00891">HandlePlayerEnter()</a>, <a class="el" href="../../#l00902">HandlePlayerLeave()</a>, <a class="el" href="../../#l02988">GameObject::IsWithinDistInMap()</a>, <a class="el" href="../../#l00115">m_activePlayers</a>, <a class="el" href="../../#l00122">m_maxSpeed</a>, <a class="el" href="../../#l00118">m_maxValue</a>, <a class="el" href="../../#l00119">m_minValue</a>, <a class="el" href="../../#l00129">m_OldState</a>, <a class="el" href="../../#l00130">m_State</a>, <a class="el" href="../../#l00126">m_team</a>, <a class="el" href="../../#l00125">m_value</a>, <a class="el" href="../../#l00196">GameObjectTemplate::radius</a>, <a class="el" href="../../#l00916">SendChangePhase()</a>, <a class="el" href="../../#l00760">TEAM_ALLIANCE</a>, <a class="el" href="../../#l00761">TEAM_HORDE</a>, <a class="el" href="../../#l00762">TEAM_NEUTRAL</a>, and <a class="el" href="../../#l00175">Cell::VisitWorldObjects()</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="a364a78eb7a4b44bbd24188647d3a4f4e" name="a364a78eb7a4b44bbd24188647d3a4f4e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a364a78eb7a4b44bbd24188647d3a4f4e">&#9670;&#160;</a></span>m_BattlefieldMap</h2>
+<a id="a371349b157af4b8ecbacc8814f0bb2ec" name="a371349b157af4b8ecbacc8814f0bb2ec"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a371349b157af4b8ecbacc8814f0bb2ec">&#9670;&#160;</a></span>m_activePlayers</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -717,22 +940,22 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d9/de8/a07116.html#aea781a60967fbc877bd1593628cdf32d">BattlefieldMap</a> BattlefieldMgr::m_BattlefieldMap</td>
+          <td class="memname"><a class="el" href="../../d0/d1e/a03674.html#a407d39fdbc20e1e06960539245ee6a25">GuidUnorderedSet</a> BfCapturePoint::m_activePlayers[2]</td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00079">AddZone()</a>, <a class="el" href="../../#l00110">GetBattlefieldToZoneId()</a>, <a class="el" href="../../#l00145">GetZoneScript()</a>, <a class="el" href="../../#l00084">HandlePlayerEnterZone()</a>, and <a class="el" href="../../#l00097">HandlePlayerLeaveZone()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00891">HandlePlayerEnter()</a>, <a class="el" href="../../#l00902">HandlePlayerLeave()</a>, <a class="el" href="../../#l01144">IsInsideObjective()</a>, <a class="el" href="../../#l00916">SendChangePhase()</a>, <a class="el" href="../../#l01123">SendObjectiveComplete()</a>, <a class="el" href="../../#l01115">SendUpdateWorldState()</a>, and <a class="el" href="../../#l00996">Update()</a>.</p>
 
 </div>
 </div>
-<a id="a0ca3259d6262b725ee46c5d29f375585" name="a0ca3259d6262b725ee46c5d29f375585"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0ca3259d6262b725ee46c5d29f375585">&#9670;&#160;</a></span>m_BattlefieldSet</h2>
+<a id="a1f857e79dde01c3d966f7c7981e5f190" name="a1f857e79dde01c3d966f7c7981e5f190"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1f857e79dde01c3d966f7c7981e5f190">&#9670;&#160;</a></span>m_Bf</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -741,22 +964,22 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d9/de8/a07116.html#a440a0f37414815a060e23ac6b79ca3c5">BattlefieldSet</a> BattlefieldMgr::m_BattlefieldSet</td>
+          <td class="memname"><a class="el" href="../../dd/d87/a07124.html">Battlefield</a>* BfCapturePoint::m_Bf</td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00123">GetBattlefieldByBattleId()</a>, <a class="el" href="../../#l00041">InitBattlefield()</a>, <a class="el" href="../../#l00133">Update()</a>, and <a class="el" href="../../#l00028">~BattlefieldMgr()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00986">GetCapturePointGo()</a>, and <a class="el" href="../../#l01236">WintergraspCapturePoint::WintergraspCapturePoint()</a>.</p>
 
 </div>
 </div>
-<a id="a4818f48ea741ae5b6b588eed9719d0ec" name="a4818f48ea741ae5b6b588eed9719d0ec"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4818f48ea741ae5b6b588eed9719d0ec">&#9670;&#160;</a></span>m_UpdateTimer</h2>
+<a id="a3bc808408161740eed6185c049e1414b" name="a3bc808408161740eed6185c049e1414b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3bc808408161740eed6185c049e1414b">&#9670;&#160;</a></span>m_capturePoint</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -765,17 +988,233 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d5/d35/a00266.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> BattlefieldMgr::m_UpdateTimer</td>
+          <td class="memname"><a class="el" href="../../d4/dca/a08384.html">ObjectGuid</a> BfCapturePoint::m_capturePoint</td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00022">BattlefieldMgr()</a>, and <a class="el" href="../../#l00133">Update()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00974">DelCapturePoint()</a>, <a class="el" href="../../#l00986">GetCapturePointGo()</a>, and <a class="el" href="../../#l00935">SetCapturePointData()</a>.</p>
+
+</div>
+</div>
+<a id="a9d43160e2a96cdae295596756f770f74" name="a9d43160e2a96cdae295596756f770f74"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9d43160e2a96cdae295596756f770f74">&#9670;&#160;</a></span>m_capturePointEntry</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d5/db5/a00374.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> BfCapturePoint::m_capturePointEntry</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00878">BfCapturePoint()</a>, and <a class="el" href="../../#l00935">SetCapturePointData()</a>.</p>
+
+</div>
+</div>
+<a id="a53e231eae6e505a88e616244092a8ee6" name="a53e231eae6e505a88e616244092a8ee6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a53e231eae6e505a88e616244092a8ee6">&#9670;&#160;</a></span>m_maxSpeed</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">float BfCapturePoint::m_maxSpeed</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00878">BfCapturePoint()</a>, <a class="el" href="../../#l00935">SetCapturePointData()</a>, and <a class="el" href="../../#l00996">Update()</a>.</p>
+
+</div>
+</div>
+<a id="a89bf5ddb47f47bb1129ec2256221dcb8" name="a89bf5ddb47f47bb1129ec2256221dcb8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a89bf5ddb47f47bb1129ec2256221dcb8">&#9670;&#160;</a></span>m_maxValue</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">float BfCapturePoint::m_maxValue</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00878">BfCapturePoint()</a>, <a class="el" href="../../#l00891">HandlePlayerEnter()</a>, <a class="el" href="../../#l00916">SendChangePhase()</a>, <a class="el" href="../../#l00935">SetCapturePointData()</a>, and <a class="el" href="../../#l00996">Update()</a>.</p>
+
+</div>
+</div>
+<a id="a2d8624843a640445f04a6b17be63ae3d" name="a2d8624843a640445f04a6b17be63ae3d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2d8624843a640445f04a6b17be63ae3d">&#9670;&#160;</a></span>m_minValue</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">float BfCapturePoint::m_minValue</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00878">BfCapturePoint()</a>, <a class="el" href="../../#l00935">SetCapturePointData()</a>, and <a class="el" href="../../#l00996">Update()</a>.</p>
+
+</div>
+</div>
+<a id="aa96d823e5093e1baff06666c35c49932" name="aa96d823e5093e1baff06666c35c49932"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa96d823e5093e1baff06666c35c49932">&#9670;&#160;</a></span>m_neutralValuePct</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d5/db5/a00374.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> BfCapturePoint::m_neutralValuePct</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00878">BfCapturePoint()</a>, <a class="el" href="../../#l00891">HandlePlayerEnter()</a>, <a class="el" href="../../#l00916">SendChangePhase()</a>, and <a class="el" href="../../#l00935">SetCapturePointData()</a>.</p>
+
+</div>
+</div>
+<a id="a37792e377ac59c30e711a56239598da4" name="a37792e377ac59c30e711a56239598da4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a37792e377ac59c30e711a56239598da4">&#9670;&#160;</a></span>m_OldState</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../db/d69/a03320.html#af6db5a1d93982b261639cd12634a2798">BattlefieldObjectiveStates</a> BfCapturePoint::m_OldState</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00878">BfCapturePoint()</a>, and <a class="el" href="../../#l00996">Update()</a>.</p>
+
+</div>
+</div>
+<a id="acf8b53252eb10615ff197e15ea620083" name="acf8b53252eb10615ff197e15ea620083"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#acf8b53252eb10615ff197e15ea620083">&#9670;&#160;</a></span>m_State</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../db/d69/a03320.html#af6db5a1d93982b261639cd12634a2798">BattlefieldObjectiveStates</a> BfCapturePoint::m_State</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00878">BfCapturePoint()</a>, <a class="el" href="../../#l01123">SendObjectiveComplete()</a>, <a class="el" href="../../#l00935">SetCapturePointData()</a>, and <a class="el" href="../../#l00996">Update()</a>.</p>
+
+</div>
+</div>
+<a id="acd3c8e8fe970c160670bd5a7cdb9b1c4" name="acd3c8e8fe970c160670bd5a7cdb9b1c4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#acd3c8e8fe970c160670bd5a7cdb9b1c4">&#9670;&#160;</a></span>m_team</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d0/d9d/a04583.html#abfb349736a7699bdfcdb134035ef7865">TeamId</a> BfCapturePoint::m_team</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00878">BfCapturePoint()</a>, <a class="el" href="../../#l01243">WintergraspCapturePoint::ChangeTeam()</a>, <a class="el" href="../../#l00255">WintergraspCapturePoint::GetTeam()</a>, <a class="el" href="../../#l00110">GetTeamId()</a>, <a class="el" href="../../#l00935">SetCapturePointData()</a>, <a class="el" href="../../#l00996">Update()</a>, and <a class="el" href="../../#l01236">WintergraspCapturePoint::WintergraspCapturePoint()</a>.</p>
+
+</div>
+</div>
+<a id="a7b3e3cb728347cd9783eea394245fcc0" name="a7b3e3cb728347cd9783eea394245fcc0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7b3e3cb728347cd9783eea394245fcc0">&#9670;&#160;</a></span>m_value</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">float BfCapturePoint::m_value</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00878">BfCapturePoint()</a>, <a class="el" href="../../#l00891">HandlePlayerEnter()</a>, <a class="el" href="../../#l00916">SendChangePhase()</a>, <a class="el" href="../../#l00935">SetCapturePointData()</a>, and <a class="el" href="../../#l00996">Update()</a>.</p>
 
 </div>
 </div>
@@ -784,8 +1223,8 @@ Private Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d9/de8/a07116.html">BattlefieldMgr</a></li>
-    <li class="footer">Generated on Mon Mar 3 2025 20:44:59 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d9/de8/a07116.html">BfCapturePoint</a></li>
+    <li class="footer">Generated on Mon Apr 28 2025 20:44:05 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

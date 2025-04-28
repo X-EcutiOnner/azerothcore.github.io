@@ -1,5 +1,6 @@
 var a27032 =
 [
-    [ "go_mistwhisper_treasure", "dc/d21/a27032.html#a87c90caa9f6a628cb0eea3556b58449e", null ],
-    [ "OnGossipHello", "dc/d21/a27032.html#a03b6b19faba005ced7ff921fdf8ab493", null ]
+    [ "boss_ysondreAI", "d8/d69/a27036.html", "d8/d69/a27036" ],
+    [ "boss_ysondre", "dc/d21/a27032.html#ad12dbb728f4f0cdf2f4c0ba9cd2a167d", null ],
+    [ "GetAI", "dc/d21/a27032.html#a0da215d7bc8ee86216887e682b9335c3", null ]
 ];

@@ -1,6 +1,29 @@
 var a04807 =
 [
-    [ "ChatServerMessage", "db/da2/a10464.html", "db/da2/a10464" ],
-    [ "Emote", "d5/d74/a10456.html", "d5/d74/a10456" ],
-    [ "EmoteClient", "d1/d2a/a10460.html", "d1/d2a/a10460" ]
+    [ "Bank", "db/da7/a04817.html", "db/da7/a04817" ],
+    [ "Character", "d5/dac/a04818.html", "d5/dac/a04818" ],
+    [ "Chat", "d6/d6f/a04819.html", "d6/d6f/a04819" ],
+    [ "Combat", "d6/dc4/a04821.html", "d6/dc4/a04821" ],
+    [ "CombatLog", "dd/dde/a04820.html", "dd/dde/a04820" ],
+    [ "Guild", "dc/d27/a04808.html", "dc/d27/a04808" ],
+    [ "LFG", "d3/d23/a04822.html", "d3/d23/a04822" ],
+    [ "Misc", "d6/d34/a04823.html", "d6/d34/a04823" ],
+    [ "Pet", "d2/d68/a04825.html", "d2/d68/a04825" ],
+    [ "Strings", "da/d47/a04824.html", "da/d47/a04824" ],
+    [ "Totem", "d6/df5/a04826.html", "d6/df5/a04826" ],
+    [ "WorldState", "d6/da6/a04827.html", "d6/da6/a04827" ],
+    [ "Array", "db/da6/a10824.html", "db/da6/a10824" ],
+    [ "ClientPacket", "d1/d11/a10416.html", "d1/d11/a10416" ],
+    [ "CompactArray", "d1/d4a/a10828.html", "d1/d4a/a10828" ],
+    [ "IllegalHyperlinkException", "d3/df1/a10792.html", "d3/df1/a10792" ],
+    [ "InvalidHyperlinkException", "d8/ded/a10788.html", "d8/ded/a10788" ],
+    [ "InvalidStringValueException", "d8/d7d/a10780.html", "d8/d7d/a10780" ],
+    [ "InvalidUtf8ValueException", "d5/d9e/a10784.html", "d5/d9e/a10784" ],
+    [ "Packet", "d1/d0e/a10408.html", "d1/d0e/a10408" ],
+    [ "PacketArrayMaxCapacityException", "d0/d01/a10820.html", "d0/d01/a10820" ],
+    [ "ServerPacket", "d9/d24/a10412.html", "d9/d24/a10412" ],
+    [ "String", "d7/dc4/a10816.html", "d7/dc4/a10816" ],
+    [ "CheckCompactArrayMaskOverflow", "d1/da9/a04807.html#afb4909c8c4c13b14c8eceda2e9b4246d", null ],
+    [ "operator<<", "d1/da9/a04807.html#a82e35db0d6b671a4f4a581aac05828dc", null ],
+    [ "operator>>", "d1/da9/a04807.html#ab21e8e534a45a2a33d69cd11562a45c6", null ]
 ];

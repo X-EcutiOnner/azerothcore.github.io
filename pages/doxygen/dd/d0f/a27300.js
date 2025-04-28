@@ -1,10 +1,6 @@
 var a27300 =
 [
-    [ "npc_prof_tailor", "dd/d0f/a27300.html#a481157e49fb1c09f62a3cb9de85c9da1", null ],
-    [ "HasTailorSpell", "dd/d0f/a27300.html#a188c0ac66b1972bccd031aca26f7fecd", null ],
-    [ "OnGossipHello", "dd/d0f/a27300.html#a686098ac43916ea2f82b7c321527863d", null ],
-    [ "OnGossipSelect", "dd/d0f/a27300.html#a03545eaacf3bae0d407e0e20c32740dc", null ],
-    [ "SendActionMenu", "dd/d0f/a27300.html#a03ced7d6541535097a5e4e3bd9f415f2", null ],
-    [ "SendConfirmLearn", "dd/d0f/a27300.html#a93a8692cb2c0b30ee752ae3ecd5561e5", null ],
-    [ "SendConfirmUnlearn", "dd/d0f/a27300.html#ada0be1dc79f72b7b033191c8e17a8baf", null ]
+    [ "guard_shattrath_aldorAI", "d6/d29/a27304.html", "d6/d29/a27304" ],
+    [ "guard_shattrath_aldor", "dd/d0f/a27300.html#ab965295d9c3828ad814f658670b5f185", null ],
+    [ "GetAI", "dd/d0f/a27300.html#a3459a6a85c7e7286e3cbdd7f56fee704", null ]
 ];

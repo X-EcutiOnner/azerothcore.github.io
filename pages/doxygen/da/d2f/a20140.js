@@ -1,5 +1,6 @@
 var a20140 =
 [
-    [ "achievement_i_could_say_that_this_cache_was_rare", "da/d2f/a20140.html#a8ec1949d92f21fe57f967e510453da3e", null ],
-    [ "OnCheck", "da/d2f/a20140.html#af68ad314c9b7be57964ca9baa8015bc9", null ]
+    [ "DestroyWinterCache", "da/d2f/a20140.html#a4f4d8998d611354bce4f5531e6029d6b", null ],
+    [ "PrepareSpellScript", "da/d2f/a20140.html#a67e36939554e13ddb7fb7493968fbc3f", null ],
+    [ "Register", "da/d2f/a20140.html#a5ac6314b0a016adafd7c6e87289b5649", null ]
 ];

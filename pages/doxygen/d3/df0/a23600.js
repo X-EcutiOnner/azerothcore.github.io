@@ -1,8 +1,6 @@
 var a23600 =
 [
-    [ "boss_laj", "d3/df0/a23600.html#a3c9323ab4b5530504588ea62aed2edff", null ],
-    [ "Reset", "d3/df0/a23600.html#ace690a0662376addaa40093f3f119c31", null ],
-    [ "ScheduleTasks", "d3/df0/a23600.html#a6bd0db1ed4c963cdceb681c84469b06c", null ],
-    [ "_lastTransform", "d3/df0/a23600.html#a097eacaaf77a09bec087530bad587b11", null ],
-    [ "_transformContainer", "d3/df0/a23600.html#a313e66ceeb4e359251dad65383e7f568", null ]
+    [ "npc_millhouse_manastormAI", "d0/d81/a23604.html", "d0/d81/a23604" ],
+    [ "npc_millhouse_manastorm", "d3/df0/a23600.html#aebc8efc48d207ad7f1105fa636b9c104", null ],
+    [ "GetAI", "d3/df0/a23600.html#ac4516785f7daf544718fc201197ba977", null ]
 ];

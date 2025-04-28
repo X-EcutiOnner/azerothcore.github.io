@@ -1,5 +1,15 @@
 var a22808 =
 [
-    [ "npc_ashtongue_sorcerer", "d2/d36/a22808.html#a0045af5cfbfcd2f26bcde2e2dffd04a6", null ],
-    [ "MovementInform", "d2/d36/a22808.html#a56fa93f83e8a536b13667c8f780961b7", null ]
+    [ "boss_reliquary_of_soulsAI", "d2/d36/a22808.html#abee29aab1d28a168be3b381d0765a804", null ],
+    [ "AttackStart", "d2/d36/a22808.html#af59a9972dfdb264248e78206ea0d834c", null ],
+    [ "CheckEvadeIfOutOfCombatArea", "d2/d36/a22808.html#a67343cecd292c2dc40f8c5a275d95fdf", null ],
+    [ "DoAction", "d2/d36/a22808.html#aa281dd9c7dc0c6f15c2bfcbf60384006", null ],
+    [ "JustDied", "d2/d36/a22808.html#a6e19cb7d94579a70ac11f7173cf930c6", null ],
+    [ "JustEngagedWith", "d2/d36/a22808.html#a88eef17a5f475b38a37b0e1adcc0cbbc", null ],
+    [ "JustSummoned", "d2/d36/a22808.html#ad3c7679c2341951bbeb49aafad7196cd", null ],
+    [ "MoveInLineOfSight", "d2/d36/a22808.html#a315a0ad69f566ff63b06fd0d47ce32d8", null ],
+    [ "PhaseTransitionSpawns", "d2/d36/a22808.html#a96235ed84a30458eb5f76d87ed47dc89", null ],
+    [ "Reset", "d2/d36/a22808.html#a5dc6ec0521e2ddfb63a6818ad2de0d8b", null ],
+    [ "SummonedCreatureDies", "d2/d36/a22808.html#a51ac7df8689bf899eaaf4cde566d8202", null ],
+    [ "UpdateAI", "d2/d36/a22808.html#a4289e678a69e35db5e4ea75fddd7e8e4", null ]
 ];

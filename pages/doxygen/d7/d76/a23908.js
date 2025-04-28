@@ -1,6 +1,6 @@
 var a23908 =
 [
-    [ "go_magtheridons_head", "d7/d76/a23908.html#af5816b083f1856196bec7a75f0a995f3", null ],
-    [ "InitializeAI", "d7/d76/a23908.html#a84fd97c0dfc2826a0b7795a9fbd70cd5", null ],
-    [ "OnStateChanged", "d7/d76/a23908.html#a28682d161074b71e1f2d70236ff2b897", null ]
+    [ "go_apexis_relic", "d7/d76/a23908.html#a91ff5a986ee62b628456e9f5c75f6bc9", null ],
+    [ "OnGossipHello", "d7/d76/a23908.html#ae8f7167ba5b973881e32d604691dc15a", null ],
+    [ "OnGossipSelect", "d7/d76/a23908.html#a025cc7cc9c69f0eb461445170972ab52", null ]
 ];

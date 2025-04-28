@@ -1,6 +1,8 @@
 var a16248 =
 [
-    [ "npc_toc_paladinAI", "d9/df6/a16252.html", "d9/df6/a16252" ],
-    [ "npc_toc_paladin", "d8/ddd/a16248.html#af11025a2a4be2b2c982ad31241d47180", null ],
-    [ "GetAI", "d8/ddd/a16248.html#a15766ea4414701040c738251302177af", null ]
+    [ "npc_frost_sphereAI", "d8/ddd/a16248.html#ae697a98d23d94315768dc866852b6e07", null ],
+    [ "DamageTaken", "d8/ddd/a16248.html#a3960f19b456f29a33016d799809a82a8", null ],
+    [ "SpellHit", "d8/ddd/a16248.html#af842d47f1e8462fb6368e9dc7a070b84", null ],
+    [ "UpdateAI", "d8/ddd/a16248.html#a4e866332045135c867f2b9ee871db0c2", null ],
+    [ "permafrostTimer", "d8/ddd/a16248.html#adf7b1b447d0d05a498dd8603dbfab1ab", null ]
 ];

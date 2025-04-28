@@ -1,6 +1,7 @@
 var a14716 =
 [
-    [ "instance_dire_maul_InstanceMapScript", "de/d86/a14720.html", "de/d86/a14720" ],
-    [ "instance_dire_maul", "d5/dd8/a14716.html#a54ac2c7095a99481c7efbe4237533fac", null ],
-    [ "GetInstanceScript", "d5/dd8/a14716.html#a7fc2511e0c9475512286006f0bbaed0b", null ]
+    [ "npc_tarethaAI", "de/d86/a14720.html", "de/d86/a14720" ],
+    [ "npc_taretha", "d5/dd8/a14716.html#a54379e06518ff972e91e25e295731f5a", null ],
+    [ "GetAI", "d5/dd8/a14716.html#a5045bb7119b12800ee0053818fcae5fe", null ],
+    [ "OnGossipHello", "d5/dd8/a14716.html#ac689e97b3fd54e9c9e40ed5b9aeca099", null ]
 ];

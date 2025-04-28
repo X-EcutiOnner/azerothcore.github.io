@@ -1,8 +1,7 @@
 var a23444 =
 [
-    [ "HandleDummyApply", "d1/d9f/a23444.html#ae60ce9cdd5d68f3fd16af54acc3d6603", null ],
-    [ "HandleDummyRemove", "d1/d9f/a23444.html#a368376fe4262815b9b9a9811178cec6d", null ],
-    [ "HandlePeriodicRemove", "d1/d9f/a23444.html#a02a350060a9ce54be88c0ad62eac11d3", null ],
-    [ "PrepareAuraScript", "d1/d9f/a23444.html#a30a7b07fc37d13f9b3a96e95940410c1", null ],
-    [ "Register", "d1/d9f/a23444.html#afeb47a40cfea3d958fee7a410e83857f", null ]
+    [ "boss_the_maker", "d1/d9f/a23444.html#a478c48f225e8fdf14cde5b1f144cb6c4", null ],
+    [ "JustDied", "d1/d9f/a23444.html#a564abd0a8f52c8c58a305f9c47d8475c", null ],
+    [ "JustEngagedWith", "d1/d9f/a23444.html#a6b0a4442dbabde69ca9352017ee23675", null ],
+    [ "KilledUnit", "d1/d9f/a23444.html#a40643ca00fe7d7029a291335e47c722a", null ]
 ];

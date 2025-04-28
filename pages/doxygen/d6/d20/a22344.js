@@ -1,13 +1,6 @@
 var a22344 =
 [
-    [ "OPvPCapturePointEP_PWT", "d6/d20/a22344.html#a17e3d11c9b282f203bb0e1511fb5af02", null ],
-    [ "ChangeState", "d6/d20/a22344.html#a1e26a3ed8d700533df0a51d8db510a4f", null ],
-    [ "FillInitialWorldStates", "d6/d20/a22344.html#ab5faf124f53394a4a54a86a7bf5d0626", null ],
-    [ "HandlePlayerEnter", "d6/d20/a22344.html#ab9bf289c0814e60fd75902b4e87d1e46", null ],
-    [ "HandlePlayerLeave", "d6/d20/a22344.html#a5772e54263c613eee365856def5e74e6", null ],
-    [ "SendChangePhase", "d6/d20/a22344.html#af1cffc64adac5b64c04175ad1685d0b8", null ],
-    [ "SummonFlightMaster", "d6/d20/a22344.html#ab3808f8d756cc5f0b48db9375ae2fa1c", null ],
-    [ "UpdateTowerState", "d6/d20/a22344.html#af30325b43d2861eb667b33dcb23ffc1e", null ],
-    [ "m_FlightMasterSpawnedId", "d6/d20/a22344.html#afeefd804849b925e6d0a880d8efb5319", null ],
-    [ "m_TowerState", "d6/d20/a22344.html#a914dcbb37baf457750cfe9829d95d88c", null ]
+    [ "npc_drakuru_shacklesAI", "d4/da8/a22348.html", "d4/da8/a22348" ],
+    [ "npc_drakuru_shackles", "d6/d20/a22344.html#a2b15a214b34d86597cba09b17654e4ff", null ],
+    [ "GetAI", "d6/d20/a22344.html#a90ce98de4630771858cd3b79264a28f9", null ]
 ];

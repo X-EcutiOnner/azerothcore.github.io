@@ -1,8 +1,7 @@
 var a15316 =
 [
-    [ "FilterTargets", "d3/d42/a15316.html#a47b8055fa1b28968e8323ca98613aa83", null ],
-    [ "HandleScript", "d3/d42/a15316.html#a8f7984e510d8947a2ae4b0734409866b", null ],
-    [ "PrepareSpellScript", "d3/d42/a15316.html#a5c12caf56e95a9f7960ed9f4a3945c7c", null ],
-    [ "Register", "d3/d42/a15316.html#adf76a5d9145f88aad5b3dd164fa4fcc4", null ],
-    [ "Validate", "d3/d42/a15316.html#aa3f9c6418eb804a2ddf235beb8491a19", null ]
+    [ "npc_aged_dying_ancient_kodoAI", "de/d0a/a15320.html", "de/d0a/a15320" ],
+    [ "npc_aged_dying_ancient_kodo", "d3/d42/a15316.html#a676170a319d3a8e46c9d017e61396c28", null ],
+    [ "GetAI", "d3/d42/a15316.html#a886bc82764e4ca6d98dc94ea73415375", null ],
+    [ "OnGossipHello", "d3/d42/a15316.html#a8489b3f23d8eca39f2750711512672e4", null ]
 ];

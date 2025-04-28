@@ -1,11 +1,11 @@
 var a28032 =
 [
-    [ "ClassID", "da/da6/a28032.html#a8cc7d61907f8fd5c2b3429c21ccbcc05", null ],
-    [ "DisplayInfoID", "da/da6/a28032.html#a87657df2ad024245ccb2192303f76b7a", null ],
-    [ "ID", "da/da6/a28032.html#a8ee5b01112a6d01cf46b4e37fb2e6269", null ],
-    [ "InventoryType", "da/da6/a28032.html#a6dc33fc40a299b010c18a7009aff648b", null ],
-    [ "Material", "da/da6/a28032.html#ab07b947a5b8c2e7aee60ac96d979ad3c", null ],
-    [ "SheatheType", "da/da6/a28032.html#a63a6d7c2a8e2514384a5eb99cd890747", null ],
-    [ "SoundOverrideSubclassID", "da/da6/a28032.html#a6072ce88b5c93034418c590d8aba1ea3", null ],
-    [ "SubclassID", "da/da6/a28032.html#ac39254716573e335caf312f635353a2e", null ]
+    [ "Displayid", "da/da6/a28032.html#a4aa3c391401f39d6f4a595f4dff0668b", null ],
+    [ "filename", "da/da6/a28032.html#a0cee5b90a15b39e1ff49231e332cc320", null ],
+    [ "maxX", "da/da6/a28032.html#a10563ae885d34e516825a18db95b40e7", null ],
+    [ "maxY", "da/da6/a28032.html#a711286df6d2bd74246dee2170052c17a", null ],
+    [ "maxZ", "da/da6/a28032.html#acb74e32790b2c60cca5faef1caa225e4", null ],
+    [ "minX", "da/da6/a28032.html#a77466c3aabd4e7b6b7aa8b5f9f2a82da", null ],
+    [ "minY", "da/da6/a28032.html#a7168f5b3229bd27edde78e88bf7dc20a", null ],
+    [ "minZ", "da/da6/a28032.html#ac88aefc2530212b9dff10e018c4e9305", null ]
 ];

@@ -1,6 +1,7 @@
 var a24952 =
 [
-    [ "CheckSeat", "d4/d21/a24952.html#ab4e2376e084bc2cf0e30a91e3e5a270c", null ],
-    [ "PrepareSpellScript", "d4/d21/a24952.html#aaa9a6f31ec57542dcd657874c4eb52aa", null ],
-    [ "Register", "d4/d21/a24952.html#a6feb7c77ba258688a83bdb86e9ee53f8", null ]
+    [ "HandleEffectApply", "d4/d21/a24952.html#a65ad32ded4246c3469f15b6ab167830e", null ],
+    [ "HandleEffectRemove", "d4/d21/a24952.html#a8aab4a5dab173bd0296843a0c2991142", null ],
+    [ "PrepareAuraScript", "d4/d21/a24952.html#a4925868cc5b61b7f35d59fdb27af27b6", null ],
+    [ "Register", "d4/d21/a24952.html#a0635d5e34bfc62df1ec006b7818bffb2", null ]
 ];

@@ -1,8 +1,7 @@
 var a18148 =
 [
-    [ "ChangeDamageAndGrow", "d9/da4/a18148.html#a017ade08eca93f326d2e5115c4d88c33", null ],
-    [ "CorrectRange", "d9/da4/a18148.html#a9022b9efab89bc562428520b3551ff37", null ],
-    [ "PrepareSpellScript", "d9/da4/a18148.html#a3e1d1764add95728428cbf25f9b66dc4", null ],
-    [ "Register", "d9/da4/a18148.html#a998b810cdbecbca2bf65f18cee14d286", null ],
-    [ "Validate", "d9/da4/a18148.html#afe0910e903f6f8f466b272ce9ddc7a6b", null ]
+    [ "OnPeriodic", "d9/da4/a18148.html#accd12b06341f3168c74cb18926614f7f", null ],
+    [ "OnUpdate", "d9/da4/a18148.html#abd725d08f2ef14cd375b6b94e9c1dcf0", null ],
+    [ "PrepareAuraScript", "d9/da4/a18148.html#aa7dea3d079ae88aafd145ce949a6eb02", null ],
+    [ "Register", "d9/da4/a18148.html#aa4a548a222dd79554e3e4e8f837c1d49", null ]
 ];

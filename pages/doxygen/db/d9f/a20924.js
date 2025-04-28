@@ -1,9 +1,8 @@
 var a20924 =
 [
-    [ "npc_vrykul_skeleton", "db/d9f/a20924.html#afda2014efb0ce63ee41c46cf2ad6c130", null ],
-    [ "DamageTaken", "db/d9f/a20924.html#a840244c4183987e4fda533edb2ddeff2", null ],
-    [ "Reset", "db/d9f/a20924.html#af950342b2177c84c101485736855b998", null ],
-    [ "UpdateAI", "db/d9f/a20924.html#a80cd072eef6b0bf03a9a6a2fe22e252a", null ],
-    [ "events", "db/d9f/a20924.html#a897bb5b5519f6f507bca49c5c5de17f6", null ],
-    [ "pInstance", "db/d9f/a20924.html#a834f0162540683c20f9fa0f9e32eee33", null ]
+    [ "npc_ulduar_keeperAI", "dd/d10/a20928.html", "dd/d10/a20928" ],
+    [ "npc_ulduar_keeper", "db/d9f/a20924.html#a252b781061a2e21dc961ea94f7120d59", null ],
+    [ "GetAI", "db/d9f/a20924.html#ad0c0f5d3786e3f3b3394a599f3ee6256", null ],
+    [ "OnGossipHello", "db/d9f/a20924.html#a4db12efd22c7d2a5f18144fd16543230", null ],
+    [ "OnGossipSelect", "db/d9f/a20924.html#acf8681577117107d16d45705e4b8463f", null ]
 ];

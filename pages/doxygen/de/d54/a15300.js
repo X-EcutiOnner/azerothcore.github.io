@@ -1,7 +1,7 @@
 var a15300 =
 [
-    [ "HandleDummy", "de/d54/a15300.html#a7657ffcc0b055b838408de4dd5f778f3", null ],
-    [ "PrepareSpellScript", "de/d54/a15300.html#ace2c23ec11d09cfb6f101a2dbd8b9d89", null ],
-    [ "Register", "de/d54/a15300.html#ae9be2e8124edf50b98824c584aaa32cf", null ],
-    [ "Validate", "de/d54/a15300.html#a041c84fd605abd36b8f774903a5200dc", null ]
+    [ "npc_tharnarianAI", "dc/d2b/a15304.html", "dc/d2b/a15304" ],
+    [ "npc_tharnarian", "de/d54/a15300.html#a39d9d9842a7a42c5381e38d10285aa15", null ],
+    [ "GetAI", "de/d54/a15300.html#aaff8dad5d2bdb1571ed2e7a14c64899f", null ],
+    [ "OnQuestReward", "de/d54/a15300.html#aedf88edfd99292a68b8e08f9f05d8f00", null ]
 ];

@@ -1,6 +1,6 @@
 var a25428 =
 [
-    [ "OnRemove", "d0/d5d/a25428.html#adcdc87bcfb9aee5eaa227ba66ad5f010", null ],
-    [ "PrepareAuraScript", "d0/d5d/a25428.html#a9b3985c6f2b1b88ab86ec38c8508fc16", null ],
-    [ "Register", "d0/d5d/a25428.html#a0bc1dae33d0a780623f4551b1dfb1fbf", null ]
+    [ "HandleDummyTick", "d0/d5d/a25428.html#a000f8fd84e7292ac759b64a8a25d3ca2", null ],
+    [ "PrepareAuraScript", "d0/d5d/a25428.html#a2848e44f1520cc32af916a8e6578c3ea", null ],
+    [ "Register", "d0/d5d/a25428.html#a4a13827baeb7ed4f2681ab114d44eb37", null ]
 ];

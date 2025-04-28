@@ -1,8 +1,9 @@
 var a02006 =
 [
-    [ "PassiveAI", "d7/db1/a06069.html", "d7/db1/a06069" ],
-    [ "PossessedAI", "df/d42/a06073.html", "df/d42/a06073" ],
-    [ "NullCreatureAI", "d2/d1c/a06077.html", "d2/d1c/a06077" ],
-    [ "CritterAI", "dc/d69/a06081.html", "dc/d69/a06081" ],
-    [ "TriggerAI", "de/d5c/a06085.html", "de/d5c/a06085" ]
+    [ "instance_blood_furnace", "db/d36/a23448.html", "db/d36/a23448" ],
+    [ "instance_blood_furnace::instance_blood_furnace_InstanceMapScript", "d3/d4d/a23452.html", "d3/d4d/a23452" ],
+    [ "AddSC_instance_blood_furnace", "d9/de8/a02006.html#af803a0e2dfb7f53b6682e02b90bef865", null ],
+    [ "creatureData", "d9/de8/a02006.html#a412286b689bd324fedd65ddd8dde8afb", null ],
+    [ "doorData", "d9/de8/a02006.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
+    [ "gameobjectData", "d9/de8/a02006.html#a845a92716bd40c99a93eb0715cd737b0", null ]
 ];

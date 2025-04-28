@@ -1,5 +1,5 @@
 var a18580 =
 [
-    [ "at_icc_shutdown_traps", "d0/d7b/a18580.html#aa13f5d78d3032e8114e9978f42468f64", null ],
-    [ "OnTrigger", "d0/d7b/a18580.html#abb31b3f6d0b159b625d731ac47127005", null ]
+    [ "npc_alchemist_adrianna", "d0/d7b/a18580.html#a310d375bc73c51e407580b063a6543fa", null ],
+    [ "OnGossipHello", "d0/d7b/a18580.html#a02ec6a66037d72e30bbe821ceee38691", null ]
 ];

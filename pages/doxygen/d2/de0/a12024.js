@@ -1,11 +1,6 @@
 var a12024 =
 [
-    [ "npc_rookery_hatcherAI", "d2/de0/a12024.html#a3154429437a108edf77de7ec1f0b2cda", null ],
-    [ "InitializeAI", "d2/de0/a12024.html#af144dc2cbe632038057f931fd71da29d", null ],
-    [ "JustEngagedWith", "d2/de0/a12024.html#a7b7ecaa42bdd35f4ee9fe7fad4cd25a9", null ],
-    [ "UpdateAI", "d2/de0/a12024.html#a0f867aa346a2f829067466fbfe6c5335", null ],
-    [ "events", "d2/de0/a12024.html#a220e6f9869d0ea53a593a6ac8e0e28bd", null ],
-    [ "nearbyEggs", "d2/de0/a12024.html#a2cf183745cdf699af7bd273e0ee4d697", null ],
-    [ "targetEgg", "d2/de0/a12024.html#a877af9948503688944e49503a6293574", null ],
-    [ "targetPosition", "d2/de0/a12024.html#a2e94b3d12ef3d8f80546db6c9a9e9e95", null ]
+    [ "npc_blackhand_incarceratorAI", "d6/d7c/a12028.html", "d6/d7c/a12028" ],
+    [ "npc_blackhand_incarcerator", "d2/de0/a12024.html#a0c6bb8ea789e81803a11be57ac1b68e2", null ],
+    [ "GetAI", "d2/de0/a12024.html#a021ddf6442812f7fb698ba7fb45b9ffb", null ]
 ];

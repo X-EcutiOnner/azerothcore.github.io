@@ -1,6 +1,8 @@
 var a18452 =
 [
-    [ "npc_frost_freeze_trapAI", "d4/d59/a18456.html", "d4/d59/a18456" ],
-    [ "npc_frost_freeze_trap", "df/d00/a18452.html#ac58ed2598fd4250f220208a91343f9b8", null ],
-    [ "GetAI", "df/d00/a18452.html#a88ed9aeb0403b3b625c858cd1e44a99f", null ]
+    [ "DecayPeriodicTimer", "df/d00/a18452.html#a314ac33692cc352c490ec3d87177d67a", null ],
+    [ "Load", "df/d00/a18452.html#af5a498253c4c382df3b2462a30448a64", null ],
+    [ "PrepareAuraScript", "df/d00/a18452.html#ac5d4ee199b49e04499997355ac054554", null ],
+    [ "Register", "df/d00/a18452.html#a1b59480ce384f09cecd47872b39cf3c5", null ],
+    [ "_decayRate", "df/d00/a18452.html#a20c696ff06f9b48451d9eac43ccf5416", null ]
 ];

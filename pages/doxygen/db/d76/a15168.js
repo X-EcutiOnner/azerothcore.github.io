@@ -1,8 +1,6 @@
 var a15168 =
 [
-    [ "npc_injured_draeneiAI", "db/d76/a15168.html#a6832ec8b005e75ff66b0fd04e5ff3daa", null ],
-    [ "JustEngagedWith", "db/d76/a15168.html#adcc5750f0ab037a7ac38b9fa64b75a74", null ],
-    [ "MoveInLineOfSight", "db/d76/a15168.html#a514556f4a81c6f1f8b7caaa526c08662", null ],
-    [ "Reset", "db/d76/a15168.html#adcb601f739a91ce71926791885152471", null ],
-    [ "UpdateAI", "db/d76/a15168.html#af4d723ac0a95f9dad12e82d5bc987f50", null ]
+    [ "HandleApply", "db/d76/a15168.html#aefef61bc68c13b20e9b41a6f148a9599", null ],
+    [ "PrepareAuraScript", "db/d76/a15168.html#aabe8dc8b99dc455dfcfaf58b64fa3f18", null ],
+    [ "Register", "db/d76/a15168.html#ade5c710416516760cc69f77750aa2a1f", null ]
 ];

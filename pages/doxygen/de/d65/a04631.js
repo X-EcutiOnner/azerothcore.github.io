@@ -1,4 +1,4 @@
 var a04631 =
 [
-    [ "QueryCallback", "d5/dc0/a05801.html", "d5/dc0/a05801" ]
+    [ "SocketMgr< SocketType >", "d5/da2/a28360.html", "d5/da2/a28360" ]
 ];

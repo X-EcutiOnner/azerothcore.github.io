@@ -1,7 +1,8 @@
 var a23280 =
 [
-    [ "HandleScript", "d0/d99/a23280.html#a359ccbdf47c9b6a1df23e6f775d5ffa8", null ],
-    [ "PrepareSpellScript", "d0/d99/a23280.html#ac1193881ad39e7ea7cb1f8f1b6627c60", null ],
-    [ "Register", "d0/d99/a23280.html#afb83fdd384a430e572a7959f81cdf2cb", null ],
-    [ "Validate", "d0/d99/a23280.html#af8587f9dff4b71b7cce8ec6d70f94927", null ]
+    [ "boss_mekgineer_steamrigger", "d0/d99/a23280.html#a930dcbade7135d0c689bcc0718815547", null ],
+    [ "JustDied", "d0/d99/a23280.html#a79272c233bc0256cca62700fc7a01421", null ],
+    [ "JustEngagedWith", "d0/d99/a23280.html#aa75dea00ffd73b45ba5115ea1e48a006", null ],
+    [ "JustSummoned", "d0/d99/a23280.html#a7a55a9dffaf239e73962356eb0fa88ad", null ],
+    [ "KilledUnit", "d0/d99/a23280.html#a84374438458cb7e034f91d4b65cd22f1", null ]
 ];

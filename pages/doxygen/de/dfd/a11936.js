@@ -1,6 +1,6 @@
 var a11936 =
 [
-    [ "boss_drakkisathAI", "de/d02/a11940.html", "de/d02/a11940" ],
-    [ "boss_drakkisath", "de/dfd/a11936.html#a73f21cbd7b81fc045ae129d7d650b455", null ],
-    [ "GetAI", "de/dfd/a11936.html#ad27999ba129b2e3617c1aba1c4b9772b", null ]
+    [ "boss_gloomrel", "de/dfd/a11936.html#ad655acba7b2d88779f849a685bb9fbb7", null ],
+    [ "OnGossipHello", "de/dfd/a11936.html#a6ce6898142d767a130ec09769f2be488", null ],
+    [ "OnGossipSelect", "de/dfd/a11936.html#ab7c623cdd2301f3a0a74d6b1e187a8c5", null ]
 ];

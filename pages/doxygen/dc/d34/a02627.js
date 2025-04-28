@@ -1,10 +1,14 @@
 var a02627 =
 [
-    [ "ban_commandscript", "db/db1/a11541.html", "db/db1/a11541" ],
-    [ "BanMode", "dc/d34/a02627.html#aee9acfaac97a86a40bad738a75eb5264", [
-      [ "BAN_ACCOUNT", "dc/d34/a02627.html#aee9acfaac97a86a40bad738a75eb5264a7092b1d29da920594bf62c7abe0e9ba1", null ],
-      [ "BAN_CHARACTER", "dc/d34/a02627.html#aee9acfaac97a86a40bad738a75eb5264ab7cde4c4b1dd975c191f10ab0b18ab79", null ],
-      [ "BAN_IP", "dc/d34/a02627.html#aee9acfaac97a86a40bad738a75eb5264ab68a6a6d80749ee19c73fc9dd4f4d74b", null ]
+    [ "guard_shattrath_scryer", "df/dde/a27292.html", "df/dde/a27292" ],
+    [ "guard_shattrath_scryer::guard_shattrath_scryerAI", "da/dde/a27296.html", "da/dde/a27296" ],
+    [ "guard_shattrath_aldor", "dd/d0f/a27300.html", "dd/d0f/a27300" ],
+    [ "guard_shattrath_aldor::guard_shattrath_aldorAI", "d6/d29/a27304.html", "d6/d29/a27304" ],
+    [ "GuardShattrath", "dc/d34/a02627.html#a7c8fcdd86e1aa9eab132e6321290e79c", [
+      [ "SPELL_BANISHED_SHATTRATH_A", "dc/d34/a02627.html#a7c8fcdd86e1aa9eab132e6321290e79ca958387dd7fcdedf036a81cf2ab4f56fe", null ],
+      [ "SPELL_BANISHED_SHATTRATH_S", "dc/d34/a02627.html#a7c8fcdd86e1aa9eab132e6321290e79ca78bb081a2031299d661fbce8fd5a3d48", null ],
+      [ "SPELL_BANISH_TELEPORT", "dc/d34/a02627.html#a7c8fcdd86e1aa9eab132e6321290e79ca7aecffca2feb1502c591610fee5566e0", null ],
+      [ "SPELL_EXILE", "dc/d34/a02627.html#a7c8fcdd86e1aa9eab132e6321290e79ca6758cdbc7bb8447df1f7b3073833463d", null ]
     ] ],
-    [ "AddSC_ban_commandscript", "dc/d34/a02627.html#aac8ae57b7b7f9ef5cb5aa2975ef444ff", null ]
+    [ "AddSC_guards", "dc/d34/a02627.html#acba582cbc90c710c629dd30926acdca4", null ]
 ];

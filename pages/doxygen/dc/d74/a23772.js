@@ -1,9 +1,8 @@
 var a23772 =
 [
-    [ "boss_nethermancer_sepethrea", "dc/d74/a23772.html#aae77446e9a8f2ac41601049d3fe9ffd4", null ],
-    [ "EnterEvadeMode", "dc/d74/a23772.html#a0ac9dd29b73e8734318851ffd9a09162", null ],
-    [ "JustDied", "dc/d74/a23772.html#a2ac13176ebffa245fd9e0ba6173f30cc", null ],
-    [ "JustEngagedWith", "dc/d74/a23772.html#a89851b9f6eb94270fe22151d3a968bec", null ],
-    [ "JustSummoned", "dc/d74/a23772.html#acf98dbddcd55131cb9cdebe6d319e2c2", null ],
-    [ "KilledUnit", "dc/d74/a23772.html#ad9606ca8c1fe6f68f72ec415cc70ef2f", null ]
+    [ "HandleScriptEffect", "dc/d74/a23772.html#a7cde39fc0844f19604c8026a853e8216", null ],
+    [ "Load", "dc/d74/a23772.html#a5d3eb86208c4aa9c6592349d28c5df79", null ],
+    [ "PrepareSpellScript", "dc/d74/a23772.html#a962de50d1fa35ca16b4753f55e5cbd47", null ],
+    [ "Register", "dc/d74/a23772.html#aee6bd90e8b39132d4b53b67c22d6c331", null ],
+    [ "_currentSpellId", "dc/d74/a23772.html#a0ad25535ba345fe9672150af67687305", null ]
 ];

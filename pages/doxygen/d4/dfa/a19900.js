@@ -1,6 +1,6 @@
 var a19900 =
 [
-    [ "boss_freya_elder_brightleafAI", "d8/d5c/a19904.html", "d8/d5c/a19904" ],
-    [ "boss_freya_elder_brightleaf", "d4/dfa/a19900.html#a9b1539b37912ef5ae46d5926bf2e0f40", null ],
-    [ "GetAI", "d4/dfa/a19900.html#a3c39424ecf97ced8c2a962baff5ae342", null ]
+    [ "CheckAreaTarget", "d4/dfa/a19900.html#ad1930e308f450cb84dba4f4b28b19f58", null ],
+    [ "PrepareAuraScript", "d4/dfa/a19900.html#a921b2f67c417244310398bd93061d61c", null ],
+    [ "Register", "d4/dfa/a19900.html#ab21972706bae9fdc3fc6859da2f3f63e", null ]
 ];

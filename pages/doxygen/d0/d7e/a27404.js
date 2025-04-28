@@ -1,9 +1,8 @@
 var a27404 =
 [
-    [ "npc_chicken_cluckAI", "d0/d7e/a27404.html#a4f2eaa107e2a8b4900fac54780ac9693", null ],
-    [ "JustEngagedWith", "d0/d7e/a27404.html#a854eae196c68cb1e4dd1c1773870ef9a", null ],
-    [ "ReceiveEmote", "d0/d7e/a27404.html#aa5d6d3ea3ad4d0f81781581a39933fc8", null ],
-    [ "Reset", "d0/d7e/a27404.html#a5a32f458a7f09282e7ac53fa7d6255b4", null ],
-    [ "UpdateAI", "d0/d7e/a27404.html#a86c8f74d0a55b9a041a789f16de8189d", null ],
-    [ "ResetFlagTimer", "d0/d7e/a27404.html#a0d0507ae7a1eca369df288515856e1b5", null ]
+    [ "npc_franklinAI", "d0/d26/a27408.html", "d0/d26/a27408" ],
+    [ "npc_franklin", "d0/d7e/a27404.html#aab059dfa69e52083892e3170c8838e0a", null ],
+    [ "GetAI", "d0/d7e/a27404.html#a10933878afe9d0cc78fa1113341fd522", null ],
+    [ "OnGossipHello", "d0/d7e/a27404.html#a318d512914b135800caabe0efbb1c467", null ],
+    [ "OnGossipSelect", "d0/d7e/a27404.html#a8c37ff7ff15cc9ac49dadabd1650964d", null ]
 ];

@@ -1,7 +1,5 @@
 var a18300 =
 [
-    [ "ValithriaDespawner", "d5/d97/a18300.html#adf6f71ad9b97489f1e35781e491b28d8", null ],
-    [ "Execute", "d5/d97/a18300.html#a4f8c63f52996da14078a7196cae3a00d", null ],
-    [ "operator()", "d5/d97/a18300.html#a05bae39d642f294f2ef98151d66ba382", null ],
-    [ "_creature", "d5/d97/a18300.html#a64bf6181ad867efd987edec141ca3bf0", null ]
+    [ "npc_icc_lk_checktargetAI", "d5/d97/a18300.html#a9a5953a9353be61a3fa96eaf7df7c489", null ],
+    [ "CanAIAttack", "d5/d97/a18300.html#a4dfce75e23f1093c3de0ce75b049a20a", null ]
 ];

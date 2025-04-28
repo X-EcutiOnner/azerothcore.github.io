@@ -1,8 +1,7 @@
 var a17788 =
 [
-    [ "HandleScript", "d8/dba/a17788.html#a9f3cef57312626ae1884c36ad4bfdca6", null ],
-    [ "PrepareSpellScript", "d8/dba/a17788.html#a2ba03324afacf8da8e5fe6bc725e4d2f", null ],
-    [ "Register", "d8/dba/a17788.html#a9b0e0427b7f8abbd0e9d556ccc581aeb", null ],
-    [ "SelectTarget", "d8/dba/a17788.html#a36d575c6a63e94905bf435bc9d39e588", null ],
-    [ "Validate", "d8/dba/a17788.html#afc4a6277e3a7419b6a4aaa99f6697b91", null ]
+    [ "HandleExtraEffect", "d8/dba/a17788.html#a8fbfac8e62d2534daf40194f7fe31945", null ],
+    [ "PrepareAuraScript", "d8/dba/a17788.html#a45e83b3bfa344391bb87c8088ae1c6a7", null ],
+    [ "Register", "d8/dba/a17788.html#a5ec23a02a4e617e6db8cf17d2bd36aff", null ],
+    [ "Validate", "d8/dba/a17788.html#a2e7253cfc18b66d663457c2fb7ab3302", null ]
 ];

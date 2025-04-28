@@ -1,6 +1,6 @@
 var a25768 =
 [
-    [ "PrepareSpellScript", "d4/de7/a25768.html#a7099b8d28128cfea49288792ea02606c", null ],
-    [ "Register", "d4/de7/a25768.html#a7622be3b736678ebeb3982a8d6a5b601", null ],
-    [ "UpdateTarget", "d4/de7/a25768.html#a4e808b026c89d080e309a0ca8b4f57d1", null ]
+    [ "HandleDummy", "d4/de7/a25768.html#a9530db7f75987879285d224fb8381c2b", null ],
+    [ "PrepareSpellScript", "d4/de7/a25768.html#ad1c1bdb577739f769802127960aaf9e5", null ],
+    [ "Register", "d4/de7/a25768.html#ae3a340132caf3f8839631c92015d47a0", null ]
 ];

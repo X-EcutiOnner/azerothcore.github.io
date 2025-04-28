@@ -1,8 +1,6 @@
 var a22884 =
 [
-    [ "instance_black_temple_InstanceMapScript", "d8/d0d/a22884.html#aa59f4d11ca1418bb3df3a7d5b11795b9", null ],
-    [ "OnCreatureCreate", "d8/d0d/a22884.html#a814ac33238558b4e2a2ff57e6039d4fc", null ],
-    [ "OnGameObjectCreate", "d8/d0d/a22884.html#a564a49814ceb3b3161a6476335ab653a", null ],
-    [ "SetBossState", "d8/d0d/a22884.html#aadcbe48888eba0d0ed50eb9811ce40b0", null ],
-    [ "ashtongueGUIDs", "d8/d0d/a22884.html#a85fa9c5231f13529a0741b0f92266c90", null ]
+    [ "PrepareSpellScript", "d8/d0d/a22884.html#ad786920d6180b8e2829f3a56ec50c488", null ],
+    [ "Register", "d8/d0d/a22884.html#a857be9f0017e0013f3e30e1d026eaf5a", null ],
+    [ "SetDest", "d8/d0d/a22884.html#a0ea9f9513ad607f639b28d5f8162e629", null ]
 ];

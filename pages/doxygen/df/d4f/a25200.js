@@ -1,13 +1,7 @@
 var a25200 =
 [
-    [ "CalcPeriodic", "df/d4f/a25200.html#a3ac8408619d30ad092b624c2894d40bb", null ],
-    [ "CalculateExpertiseAmount", "df/d4f/a25200.html#ae974eed8254bace2a758917a4b629fa9", null ],
-    [ "CalculateSpellHitAmount", "df/d4f/a25200.html#ad42047dcb29d96224f6bd44064b1da32", null ],
-    [ "CalculateSpellPenAmount", "df/d4f/a25200.html#a300e649beb785c4ebc84eb1b0613164e", null ],
-    [ "HandleEffectApply", "df/d4f/a25200.html#ac01bc37e10b1072fb12aeb0bbfbdcc41", null ],
-    [ "HandlePeriodic", "df/d4f/a25200.html#a26c15c411ff09d8107dfc360b71dbc0a", null ],
-    [ "PrepareAuraScript", "df/d4f/a25200.html#a8b1230d7a14f87966ecf834fcbf83b58", null ],
-    [ "Register", "df/d4f/a25200.html#a47cb8f043f8b8984615520db25696f8e", null ],
-    [ "cap", "df/d4f/a25200.html#a5e168cfe5d9b620d523ea780f1e18cc7", null ],
-    [ "maxChance", "df/d4f/a25200.html#a11f2c759a5587eb865560eceff5b8414", null ]
+    [ "ModDest", "df/d4f/a25200.html#afe0fb68de61a657ce6900e71973e4d77", null ],
+    [ "ModifyCookingSkill", "df/d4f/a25200.html#a42dea7b58aed704a6aacd5d0aa0028d4", null ],
+    [ "PrepareSpellScript", "df/d4f/a25200.html#a7b0446133750fce7eda19dbde5abb3b1", null ],
+    [ "Register", "df/d4f/a25200.html#a6919079b43a816eb601a68c51ad39794", null ]
 ];

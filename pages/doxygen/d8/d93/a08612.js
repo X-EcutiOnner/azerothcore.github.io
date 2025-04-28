@@ -1,13 +1,14 @@
 var a08612 =
 [
-    [ "PassengerSet", "d8/d93/a08612.html#aa6421ebd51e84c819604e18e93729d27", null ],
-    [ "Transport", "d8/d93/a08612.html#a36928c178aa490c02aa25b4b12e2bf63", null ],
-    [ "AddPassenger", "d8/d93/a08612.html#ac5c328f816b0358a68265322219357c1", null ],
-    [ "CalculatePassengerOffset", "d8/d93/a08612.html#a327d37eef797c4197b8bba503bd8a3f8", null ],
-    [ "CalculatePassengerPosition", "d8/d93/a08612.html#ae4e716194ce5e9c466a8fe5c53ee0980", null ],
-    [ "GetPassengers", "d8/d93/a08612.html#a3f70c977ba2450d4244e54e4260f6ea1", null ],
-    [ "GetPathProgress", "d8/d93/a08612.html#a4ecab9f8617918aea3a26cc0feb9c021", null ],
-    [ "RemovePassenger", "d8/d93/a08612.html#a1d70745a16a1cbf3307a25ff4a53c75d", null ],
-    [ "SetPathProgress", "d8/d93/a08612.html#acb68e75a78fa196a4b514abd24c0e322", null ],
-    [ "_passengers", "d8/d93/a08612.html#adc2089495aadaab23414ecae3b2df180", null ]
+    [ "SocialMap", "d8/d93/a08612.html#a2b80fa18a6f1ed54fda7719867f45ebd", null ],
+    [ "SocialMgr", "d8/d93/a08612.html#a3cff8262ce10d2e8c8c38dc834230545", null ],
+    [ "~SocialMgr", "d8/d93/a08612.html#aef859e6c923a6ba4bb7ac0049f17463d", null ],
+    [ "BroadcastToFriendListers", "d8/d93/a08612.html#a55b35ea17ebfea4ff31710186b87865f", null ],
+    [ "GetFriendInfo", "d8/d93/a08612.html#a24344515cc4e656b98afcf760181b070", null ],
+    [ "instance", "d8/d93/a08612.html#a223f3d7811d8c360da7f467b70af808f", null ],
+    [ "LoadFromDB", "d8/d93/a08612.html#a6f10d7d75b0ddc5c2ec5c0e978f0e7b9", null ],
+    [ "MakeFriendStatusPacket", "d8/d93/a08612.html#a9acd86505e66f2e6de9f8d30b36b94e6", null ],
+    [ "RemovePlayerSocial", "d8/d93/a08612.html#a6b4968dc0a09a48c2b58e40d47da665d", null ],
+    [ "SendFriendStatus", "d8/d93/a08612.html#a8824263f601c107ef84e487ca1b71bff", null ],
+    [ "m_socialMap", "d8/d93/a08612.html#a2f8a276598ad01d350aa245fcef82a7a", null ]
 ];

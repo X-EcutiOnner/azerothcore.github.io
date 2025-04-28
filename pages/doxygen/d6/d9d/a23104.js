@@ -1,6 +1,6 @@
 var a23104 =
 [
-    [ "HandleApplyAura", "d6/d9d/a23104.html#a4fde347d339f08cd01e2a47883d4b988", null ],
-    [ "PrepareSpellScript", "d6/d9d/a23104.html#ab22bd56638a6adc8d111250780221cb9", null ],
-    [ "Register", "d6/d9d/a23104.html#a1dd967ad59159faf694b8e0bfcd369ac", null ]
+    [ "HandleDummy", "d6/d9d/a23104.html#a3347413822ce083085bcf1418fbdbae2", null ],
+    [ "PrepareSpellScript", "d6/d9d/a23104.html#ad7b15a8c5cf3e2d38a1ce54afb24b3e5", null ],
+    [ "Register", "d6/d9d/a23104.html#af0c8bf6a5076a4171a9d70f6872a21d5", null ]
 ];

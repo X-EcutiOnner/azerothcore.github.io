@@ -1,7 +1,8 @@
 var a25028 =
 [
-    [ "PrepareSpellScript", "df/d02/a25028.html#aad8061898087fbf5eb6527cbaa70927d", null ],
-    [ "RecalculateDamage", "df/d02/a25028.html#a6f03ccb77ce43c4e36996ae344780ee3", null ],
-    [ "Register", "df/d02/a25028.html#abc7e406244a1a5ea9d7c3d8feb10b8ae", null ],
-    [ "_damagePct", "df/d02/a25028.html#a3ab5f5ec279f30dda50fa3ca3f5e6715", null ]
+    [ "OnApply", "df/d02/a25028.html#a9ea247d39fa51d9722c17e6ea83a0e55", null ],
+    [ "OnRemove", "df/d02/a25028.html#abd45d59ecd41274bd02c17fb066a521e", null ],
+    [ "PrepareAuraScript", "df/d02/a25028.html#af30811301599459bf2a99a68608a053f", null ],
+    [ "Register", "df/d02/a25028.html#a0eb56dc80c02932a0d7cf4cca7079c75", null ],
+    [ "Validate", "df/d02/a25028.html#a29c5049e4455737ff96596a18af118d0", null ]
 ];

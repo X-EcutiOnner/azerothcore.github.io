@@ -1,5 +1,7 @@
 var a15420 =
 [
-    [ "go_crystalline_tear", "db/d9f/a15420.html#a9e19c6538ecd1a758f2639171321d965", null ],
-    [ "OnQuestAccept", "db/d9f/a15420.html#a4efd6b2b8ca37462ba3a26d05f01ec2d", null ]
+    [ "npc_shenthulAI", "d9/da7/a15424.html", "d9/da7/a15424" ],
+    [ "npc_shenthul", "db/d9f/a15420.html#a77815503c7d9c811fe3821232e308714", null ],
+    [ "GetAI", "db/d9f/a15420.html#a1683f8c89add6270277c59951c74027e", null ],
+    [ "OnQuestAccept", "db/d9f/a15420.html#a3a63fec338dca74eb7d071dfcc9c95b5", null ]
 ];

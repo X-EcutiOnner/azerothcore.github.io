@@ -1,6 +1,8 @@
 var a18500 =
 [
-    [ "npc_captain_grondelAI", "d0/d75/a18500.html#afbc971fc03584b87229318309d51a2f5", null ],
-    [ "Reset", "d0/d75/a18500.html#a7d3878822e77fba66891e87e23bd3740", null ],
-    [ "UpdateAI", "d0/d75/a18500.html#a4af8548092b49653805224bd4c0ac0a2", null ]
+    [ "npc_rotting_frost_giantAI", "d0/d75/a18500.html#a7b412075e17a81bf50aba63f96c16e53", null ],
+    [ "JustDied", "d0/d75/a18500.html#a68b4e823de82fdfd31ccf765192e8768", null ],
+    [ "Reset", "d0/d75/a18500.html#ae96994e7c02a1fb8df8ef9fe80d7bc41", null ],
+    [ "UpdateAI", "d0/d75/a18500.html#a7bb99a6ff894c085bf3fb2e2708f3914", null ],
+    [ "_events", "d0/d75/a18500.html#ab061ea54c2b36f6f1c2ec7841202e684", null ]
 ];

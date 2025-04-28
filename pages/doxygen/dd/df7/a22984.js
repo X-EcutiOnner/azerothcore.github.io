@@ -1,6 +1,6 @@
 var a22984 =
 [
-    [ "OnPeriodic", "dd/df7/a22984.html#a4d3d6350a06b6c7382792670c04e38e1", null ],
-    [ "PrepareAuraScript", "dd/df7/a22984.html#ac9231c238adf7e733d55bc6098daddc0", null ],
-    [ "Register", "dd/df7/a22984.html#aa6aa32b3adc89ac405f071fa9b804778", null ]
+    [ "HandleScriptEffect", "dd/df7/a22984.html#a2b46490b70bf93effb7379686e648618", null ],
+    [ "PrepareSpellScript", "dd/df7/a22984.html#a5030d071372ef12663f6a75be637476e", null ],
+    [ "Register", "dd/df7/a22984.html#aa15afaa9990f29a9e71c1d6395d5de12", null ]
 ];

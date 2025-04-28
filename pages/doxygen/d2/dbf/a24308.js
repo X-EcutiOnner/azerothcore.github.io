@@ -1,5 +1,6 @@
 var a24308 =
 [
-    [ "npc_pet_pri_lightwell", "d2/dbf/a24308.html#aebeb192e66c7d5b4201cbaa81d46703c", null ],
-    [ "InitializeAI", "d2/dbf/a24308.html#a5244bcfab27ccad603f80c6f2b2fcd3a", null ]
+    [ "achievement", "d2/dbf/a24308.html#abb6071e172abbcbc65020a0ad9554a03", null ],
+    [ "spell", "d2/dbf/a24308.html#a740f9162b10d31d1677a4ac4f5926db6", null ],
+    [ "text", "d2/dbf/a24308.html#aa92e42bc2c54c3b4b1022d5767fcf10c", null ]
 ];

@@ -1,6 +1,6 @@
 var a19308 =
 [
-    [ "HandleEffectCalcAmount", "d0/d87/a19308.html#afa50ce616d36dd59c7195209074d6182", null ],
-    [ "PrepareAuraScript", "d0/d87/a19308.html#a4638b99dac7653f13d59c3928a78b3b9", null ],
-    [ "Register", "d0/d87/a19308.html#a691d5a99eec9e367c518d0244f25bd41", null ]
+    [ "instance_oculus_InstanceMapScript", "da/dae/a19312.html", "da/dae/a19312" ],
+    [ "instance_oculus", "d0/d87/a19308.html#a404205ea7106531ea57307c40b9589bb", null ],
+    [ "GetInstanceScript", "d0/d87/a19308.html#ae6d28dfd615e79d4308e4384b7c8857f", null ]
 ];

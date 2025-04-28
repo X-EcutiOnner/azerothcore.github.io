@@ -1,10 +1,16 @@
 var a23576 =
 [
-    [ "instance_arcatraz_InstanceMapScript", "db/d9f/a23576.html#a4c6594eb7fa1f7213c89ea5af6c70ae0", null ],
-    [ "GetGuidData", "db/d9f/a23576.html#aa4bedf168359eaf5332476a6de99c830", null ],
-    [ "OnGameObjectCreate", "db/d9f/a23576.html#ad8c84d90b85db5717b6a37fc2343e0aa", null ],
-    [ "SetBossState", "db/d9f/a23576.html#a2937e4ea47af542a476bd3399ecc7233", null ],
-    [ "SetData", "db/d9f/a23576.html#aca09d4856d5c3e1831ea8753a50a3b71", null ],
-    [ "StasisPodGUIDs", "db/d9f/a23576.html#a1fb9824baee2d8d83e030da307f21fc3", null ],
-    [ "WardensShieldGUID", "db/d9f/a23576.html#a3cbff5742e05f6cf0544807bce64b1d0", null ]
+    [ "boss_warchief_kargath_bladefist", "db/d9f/a23576.html#a0957dbfd6c085575fa862f38c87b6b3d", null ],
+    [ "InitializeAI", "db/d9f/a23576.html#a86d9b5b1500960235e76ae71337a6c90", null ],
+    [ "IsInRoom", "db/d9f/a23576.html#af9d4bd9d94115a1040e1e4a4dbf8df83", null ],
+    [ "JustDied", "db/d9f/a23576.html#a436b90336c90f6662f3ce704a62f0d90", null ],
+    [ "JustEngagedWith", "db/d9f/a23576.html#ab3d7b0ebca4f8134e5c2f31422ff006b", null ],
+    [ "JustSummoned", "db/d9f/a23576.html#aaa69f064d7eb3a0d107c835c806fa1de", null ],
+    [ "KilledUnit", "db/d9f/a23576.html#a730bbd2f95a2919fba1a7300b4307b84", null ],
+    [ "MovementInform", "db/d9f/a23576.html#a716eab9bda2b697252dde90aa513d7df", null ],
+    [ "Reset", "db/d9f/a23576.html#a50fa7a5aed8d3f4916f0449c4fb075ac", null ],
+    [ "RespawnAssassins", "db/d9f/a23576.html#a1397317259589ea69f77f52f60852043", null ],
+    [ "SummonedCreatureDies", "db/d9f/a23576.html#a325da34f78d202708a58c1a543ecb8ca", null ],
+    [ "UpdateAI", "db/d9f/a23576.html#acd463cac8e2fa8289ecb5567709db678", null ],
+    [ "_danceCount", "db/d9f/a23576.html#af4a60caaef6388caff973295e3397a7d", null ]
 ];

@@ -1,7 +1,7 @@
 var a18616 =
 [
-    [ "HandleDummy", "dd/d42/a18616.html#a4bfc155129bd80c94b4b59474f30d748", null ],
-    [ "PrepareSpellScript", "dd/d42/a18616.html#a9c72772f9d17b34562bd11418d67872d", null ],
-    [ "Register", "dd/d42/a18616.html#a10c9f511da4eb366117d356c118408c6", null ],
-    [ "Validate", "dd/d42/a18616.html#a655f2081d17c06c155641efc45efc1f8", null ]
+    [ "Land", "dd/d42/a18616.html#ad2fd3d7c81e3ef22cb3767914f649fd0", null ],
+    [ "PrepareSpellScript", "dd/d42/a18616.html#a31e45adb87719c311fb5b94b2b744487", null ],
+    [ "Register", "dd/d42/a18616.html#a652eca6ec8079b2835d911807857c8a8", null ],
+    [ "RemoveAliveTarget", "dd/d42/a18616.html#abdb5f624b30a046eed9ca6ad7c347010", null ]
 ];

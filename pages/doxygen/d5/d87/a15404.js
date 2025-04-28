@@ -1,6 +1,6 @@
 var a15404 =
 [
-    [ "npc_qiraj_war_spawnAI", "d5/d6c/a15408.html", "d5/d6c/a15408" ],
-    [ "npc_qiraj_war_spawn", "d5/d87/a15404.html#a2afba33e9fd879ac3fea206768b14334", null ],
-    [ "GetAI", "d5/d87/a15404.html#a32339f20251c188b895c02b6cc9217e9", null ]
+    [ "npc_omenAI", "d5/d6c/a15408.html", "d5/d6c/a15408" ],
+    [ "npc_omen", "d5/d87/a15404.html#aff955303a8b9741838779a59dd496f62", null ],
+    [ "GetAI", "d5/d87/a15404.html#a8023ad3298000d9819c46f46a93166d4", null ]
 ];

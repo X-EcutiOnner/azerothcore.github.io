@@ -1,6 +1,6 @@
 var a17236 =
 [
-    [ "BloodboltHitCheck", "d8/dc3/a17236.html#a84873f1ec2c1e214e35d32954622e9af", null ],
-    [ "operator()", "d8/dc3/a17236.html#a1eddfd7bbea8def20dcc080413af6364", null ],
-    [ "_ai", "d8/dc3/a17236.html#a0a5d115c464b6e88bc1158cd858bcbec", null ]
+    [ "ModAuraStack", "d8/dc3/a17236.html#a7535ef148e047e32a5f7a1944585e396", null ],
+    [ "PrepareSpellScript", "d8/dc3/a17236.html#ad5305dd5a32a18802a9fce5daccf3051", null ],
+    [ "Register", "d8/dc3/a17236.html#ab44b362197e74b98b3ffeb98eff52742", null ]
 ];

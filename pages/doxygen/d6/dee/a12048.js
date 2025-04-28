@@ -1,12 +1,11 @@
 var a12048 =
 [
-    [ "boss_thebeastAI", "d6/dee/a12048.html#a51b7d4ec10d2616d99fb21e680ff17b4", null ],
-    [ "FindNearbyOrcs", "d6/dee/a12048.html#ad832a878880ac32e05d360262546422a", null ],
-    [ "JustEngagedWith", "d6/dee/a12048.html#ab107354f10d0af4b840ab5ff8d3d0eaf", null ],
-    [ "Reset", "d6/dee/a12048.html#abfa1bca308a02ef0e80d2baf11670305", null ],
-    [ "SetData", "d6/dee/a12048.html#a6f30ed7c0451613998660b258145f801", null ],
-    [ "UpdateAI", "d6/dee/a12048.html#a0f490e907ce632e1fb921a6eb46b49c0", null ],
-    [ "_beastReached", "d6/dee/a12048.html#a01271598b4b3c85a7066e66d8150e522", null ],
-    [ "_nearbyOrcsGUIDs", "d6/dee/a12048.html#af32fb34f4c76cfe292da9bc84a5d6372", null ],
-    [ "_orcYelled", "d6/dee/a12048.html#a16df847475ea220b8ac4ea944e8d1ca4", null ]
+    [ "npc_rookery_hatcherAI", "d6/dee/a12048.html#a3154429437a108edf77de7ec1f0b2cda", null ],
+    [ "InitializeAI", "d6/dee/a12048.html#af144dc2cbe632038057f931fd71da29d", null ],
+    [ "JustEngagedWith", "d6/dee/a12048.html#a7b7ecaa42bdd35f4ee9fe7fad4cd25a9", null ],
+    [ "UpdateAI", "d6/dee/a12048.html#a0f867aa346a2f829067466fbfe6c5335", null ],
+    [ "events", "d6/dee/a12048.html#a220e6f9869d0ea53a593a6ac8e0e28bd", null ],
+    [ "nearbyEggs", "d6/dee/a12048.html#a2cf183745cdf699af7bd273e0ee4d697", null ],
+    [ "targetEgg", "d6/dee/a12048.html#a877af9948503688944e49503a6293574", null ],
+    [ "targetPosition", "d6/dee/a12048.html#a2e94b3d12ef3d8f80546db6c9a9e9e95", null ]
 ];

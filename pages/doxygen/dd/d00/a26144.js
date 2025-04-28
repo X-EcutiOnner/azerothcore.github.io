@@ -1,6 +1,7 @@
 var a26144 =
 [
-    [ "HandleScriptEffect", "dd/d00/a26144.html#ab958c74ba8b40488751e5137eb0b6a66", null ],
-    [ "PrepareSpellScript", "dd/d00/a26144.html#a810fcbfe27f3c6991d1c5f599609b6f7", null ],
-    [ "Register", "dd/d00/a26144.html#a12c61c9057250f12ea50be74ba74c948", null ]
+    [ "HandleHeal", "dd/d00/a26144.html#a22e3dd3ac57c7cb95162ee56ab43bc93", null ],
+    [ "PrepareSpellScript", "dd/d00/a26144.html#a9de9260bc1e2582138c58a708e5d899c", null ],
+    [ "Register", "dd/d00/a26144.html#ab613ce86521f1381b79f6f9f3eaea3cc", null ],
+    [ "Validate", "dd/d00/a26144.html#aa300822cf5455404482124a6853fb314", null ]
 ];

@@ -1,7 +1,9 @@
 var a26016 =
 [
-    [ "FilterTargets", "da/de5/a26016.html#ad679149423fda97ad5744318520022b1", null ],
-    [ "PrepareSpellScript", "da/de5/a26016.html#ac57c48690c5ad1b907f56287aee949a4", null ],
-    [ "Register", "da/de5/a26016.html#aea9b3a6cc4abae242bde76634bcbacd3", null ],
-    [ "Validate", "da/de5/a26016.html#a2c755f4ce5c3736dd0b0dd79341a4570", null ]
+    [ "CountTargets", "da/de5/a26016.html#a85a60a3ada7ea2b8c995bc156be36fe2", null ],
+    [ "HandleDummy", "da/de5/a26016.html#af51f59f6cb8e2a6d99b3c05cebfcfa89", null ],
+    [ "PrepareSpellScript", "da/de5/a26016.html#adfb7e3fbb52aa349573b95c457823900", null ],
+    [ "Register", "da/de5/a26016.html#a9180a01674a1f56c287d40bfbdf6d841", null ],
+    [ "Validate", "da/de5/a26016.html#a5dd09977efde2d3433aff4d35687d5e8", null ],
+    [ "_targetCount", "da/de5/a26016.html#aa9a0fb36eafd8535fcd2bddda56d7107", null ]
 ];

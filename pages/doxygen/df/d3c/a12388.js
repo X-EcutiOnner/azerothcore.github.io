@@ -1,6 +1,8 @@
 var a12388 =
 [
-    [ "boss_ragnarosAI", "d8/df2/a12392.html", "d8/df2/a12392" ],
-    [ "boss_ragnaros", "df/d3c/a12388.html#a47bd4dc50a0d05e8cbb75c1a5a52c9b5", null ],
-    [ "GetAI", "df/d3c/a12388.html#af54e36608e160811ca06952fd2c63f6e", null ]
+    [ "MajordomoAddData", "df/d3c/a12388.html#aa068ada34e1275cbf97b21f74dfd2881", null ],
+    [ "MajordomoAddData", "df/d3c/a12388.html#a9b8cc2b43ffbf268e470169e00e66671", null ],
+    [ "creatureEntry", "df/d3c/a12388.html#ae3a0444e88158123f4d6359328e89a1d", null ],
+    [ "guid", "df/d3c/a12388.html#a2f2b0aaace557361a21d1072f36933dc", null ],
+    [ "spawnPos", "df/d3c/a12388.html#a31f8d24efb19c2d0e697f35b911e3237", null ]
 ];

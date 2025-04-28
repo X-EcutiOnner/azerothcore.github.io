@@ -1,7 +1,6 @@
 var a12928 =
 [
-    [ "OnApply", "d2/dde/a12928.html#a21450cd59487a927bbc0a5a5e1ffa72b", null ],
-    [ "OnRemove", "d2/dde/a12928.html#a810203874163cf04798c3edbe69b747e", null ],
-    [ "PrepareAuraScript", "d2/dde/a12928.html#a3c17a7366acd9bd1863bae0f9218930a", null ],
-    [ "Register", "d2/dde/a12928.html#af2ad52165de188897fdeb8d62646b7cc", null ]
+    [ "npc_a_special_surpriseAI", "d2/d75/a12932.html", "d2/d75/a12932" ],
+    [ "npc_a_special_surprise", "d2/dde/a12928.html#ab88d74a86049c53b1569bdcc263f3dd4", null ],
+    [ "GetAI", "d2/dde/a12928.html#a930c7ba67a20fbfc55b40117ccd52c98", null ]
 ];

@@ -1,12 +1,15 @@
 var a13548 =
 [
-    [ "npc_lady_sylvanas_windrunnerAI", "de/d38/a13548.html#ad6eefe9a14ce64b12b65a22c3ebb4db0", null ],
-    [ "JustEngagedWith", "de/d38/a13548.html#a36324482fb264cc3cacf11c3ed542eee", null ],
-    [ "JustSummoned", "de/d38/a13548.html#a456ee6f4b5b8cdd79647a42185265be8", null ],
-    [ "Reset", "de/d38/a13548.html#ad4c6cb31a8d3dc280e689d5d29e27479", null ],
-    [ "SetGUID", "de/d38/a13548.html#aa5270e7468dcafba98d3ee72752771ce", null ],
-    [ "UpdateAI", "de/d38/a13548.html#ab704e4f3af8aa734910efd259db31407", null ],
-    [ "_events", "de/d38/a13548.html#a621d4db4fac3a7c3d08defa2a8ed06d0", null ],
-    [ "LamentEvent", "de/d38/a13548.html#ace9e901a965665e0f97cb9646af308aa", null ],
-    [ "playerGUID", "de/d38/a13548.html#aa125ab2a33dbf9f1d40f238e7d45000d", null ]
+    [ "npc_deathstalker_fearleia", "de/d38/a13548.html#a92c6d31e801164dc0c4ddc8c47f134b6", null ],
+    [ "JustDied", "de/d38/a13548.html#a378f59a926e1be299b6e5ddf0cc83d30", null ],
+    [ "JustEngagedWith", "de/d38/a13548.html#a248f13c2fff27a9ec8075d5b1429fec8", null ],
+    [ "JustSummoned", "de/d38/a13548.html#a8ef363de7292d366eea128b55b1acaeb", null ],
+    [ "Reset", "de/d38/a13548.html#a5f7f40e2d702fae5242cfc347d44a1fe", null ],
+    [ "sQuestAccept", "de/d38/a13548.html#a5da116182685dfac72139b40266f2884", null ],
+    [ "SummonCreatureWithRandomTarget", "de/d38/a13548.html#a884be2e1aa730c310de24cb865fc7aa5", null ],
+    [ "SummonedCreatureDespawn", "de/d38/a13548.html#a36415976d5ae2034578581bdec183f33", null ],
+    [ "UpdateAI", "de/d38/a13548.html#a45f4823e2a131fda3c4e03de13ec0c5e", null ],
+    [ "_playerGUID", "de/d38/a13548.html#a7135b977e1d7ef47c62f4dace25908fd", null ],
+    [ "_questInProgress", "de/d38/a13548.html#a899a4a0c3c70236be66ee2028f3423c7", null ],
+    [ "_summons", "de/d38/a13548.html#a79dc171af9ef5057039f9a6b87c49bd1", null ]
 ];

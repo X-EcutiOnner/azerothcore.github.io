@@ -1,7 +1,6 @@
 var a25844 =
 [
-    [ "OnRemove", "db/d91/a25844.html#a8c39ba2fbd8c9c96de622afd8d04281e", null ],
-    [ "PrepareAuraScript", "db/d91/a25844.html#a9e13b76ceb256dec1a6c9dccd5c6c537", null ],
-    [ "Register", "db/d91/a25844.html#a9fbaec43bae2f4d6f4b94b18da0144fe", null ],
-    [ "Validate", "db/d91/a25844.html#a8f111779a3a0e68fe5a313e6eae716b3", null ]
+    [ "OnPeriodic", "db/d91/a25844.html#a889285ef034aaa7eaaa8e86fb5380cf0", null ],
+    [ "PrepareAuraScript", "db/d91/a25844.html#a3fd2da3d7b1b8a78916515b7e3e188cf", null ],
+    [ "Register", "db/d91/a25844.html#a62e5ab81f9548e4d983d0c4dde14eaad", null ]
 ];

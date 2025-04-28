@@ -1,5 +1,7 @@
 var a17360 =
 [
-    [ "achievement_flu_shot_shortage", "de/d57/a17360.html#af448c773bcdf31cec7ae9d7c85e9e595", null ],
-    [ "OnCheck", "de/d57/a17360.html#a3195af1d4504ffc200c99bef84eaaa5a", null ]
+    [ "HandleDummy", "de/d57/a17360.html#a89c0706f21fe92fd443c3638181044ec", null ],
+    [ "PrepareSpellScript", "de/d57/a17360.html#a957e29d2458fd90228ef9c53e997c642", null ],
+    [ "Register", "de/d57/a17360.html#a250c95310503cd59d73e45a9b9372268", null ],
+    [ "Validate", "de/d57/a17360.html#a1c67a262eb95def51661919a3bad3437", null ]
 ];

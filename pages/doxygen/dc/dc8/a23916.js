@@ -1,14 +1,9 @@
 var a23916 =
 [
-    [ "npc_maghar_captiveAI", "dc/dc8/a23916.html#abab2cfe84f4bb83fea3b35202a957bb5", null ],
-    [ "JustDied", "dc/dc8/a23916.html#adbef78d8c908bfbce6ea506c55fb6922", null ],
-    [ "JustEngagedWith", "dc/dc8/a23916.html#a2a0ec4a496c7352ba88ceef99eb769e4", null ],
-    [ "JustSummoned", "dc/dc8/a23916.html#afe55f91acd8c47a758b8d08bd07d763f", null ],
-    [ "Reset", "dc/dc8/a23916.html#abebcdcb102f8d338ae0b792708940cd7", null ],
-    [ "SpellHitTarget", "dc/dc8/a23916.html#ab4f4deaae35fdbd602c9925f26e6d0e7", null ],
-    [ "UpdateAI", "dc/dc8/a23916.html#a295cbae9196e320fabbb4cfb9dc33150", null ],
-    [ "WaypointReached", "dc/dc8/a23916.html#abfbba8942df57e974ab24ad693c16e70", null ],
-    [ "ChainLightningTimer", "dc/dc8/a23916.html#aa00a6978074f62d3d8ddead64d3240cf", null ],
-    [ "FrostShockTimer", "dc/dc8/a23916.html#a2e4a5ef509e7f7ec33b1e83c90d2c80f", null ],
-    [ "HealTimer", "dc/dc8/a23916.html#a31613adba706f3b5f948f2f7c4222038", null ]
+    [ "npc_oscillating_frequency_scanner_master_bunnyAI", "dc/dc8/a23916.html#a273d585416dc92d39d5ec3824c08504d", null ],
+    [ "IsSummonedBy", "dc/dc8/a23916.html#a5f002d36c492ed2caf2290f4a073a7d0", null ],
+    [ "Reset", "dc/dc8/a23916.html#a06fa50580efeab8d847a05f20956d175", null ],
+    [ "UpdateAI", "dc/dc8/a23916.html#a8261a259cfbee0d3610ee441406fafcd", null ],
+    [ "playerGuid", "dc/dc8/a23916.html#aab717dd49284c483759a6223dbd7e6ea", null ],
+    [ "timer", "dc/dc8/a23916.html#afba1b71178c563a3db906057cd20de45", null ]
 ];

@@ -1,6 +1,5 @@
 var a20960 =
 [
-    [ "boss_palehoofAI", "de/dfd/a20964.html", "de/dfd/a20964" ],
-    [ "boss_palehoof", "dd/d0f/a20960.html#ac0e541befaad7e1e6e318d64ca4a1d94", null ],
-    [ "GetAI", "dd/d0f/a20960.html#ae33ca6e71b251214be50168a5940d058", null ]
+    [ "AreaTrigger_at_celestial_planetarium_enterance", "dd/d0f/a20960.html#ae1503a754a05a77991d9955a2fb74265", null ],
+    [ "OnTrigger", "dd/d0f/a20960.html#aa7aa93e00170313de251af4e562c422c", null ]
 ];

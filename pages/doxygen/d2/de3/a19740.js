@@ -1,12 +1,12 @@
 var a19740 =
 [
-    [ "npc_freya_wardAI", "d2/de3/a19740.html#afbc2f3d88173e240b87915cf0520b3cf", null ],
-    [ "DoAction", "d2/de3/a19740.html#a4c9418b5474eb572a76168d4a460159a", null ],
-    [ "JustSummoned", "d2/de3/a19740.html#a9075d763014ca50b4e0d2c815e1c23b7", null ],
-    [ "Reset", "d2/de3/a19740.html#a65d304edd3b00b4a45c58bf36b926900", null ],
-    [ "SummonedCreatureDespawn", "d2/de3/a19740.html#a6273b024ebde2fb36ed79eb122f7ac68", null ],
-    [ "UpdateAI", "d2/de3/a19740.html#a11dd073b70e5126f580ec5122dce7bbd", null ],
-    [ "_castTimer", "d2/de3/a19740.html#a6308aadc8ebf41cf045b04ac58e2244b", null ],
-    [ "_summoned", "d2/de3/a19740.html#a5df6604055c5f3936a95f8d0ca5be8c1", null ],
-    [ "summons", "d2/de3/a19740.html#a82932e9f2d570fa6d8394bfd3954c41e", null ]
+    [ "npc_auriaya_feral_defenderAI", "d2/de3/a19740.html#a32e6fa30e4c56fdd055a728ba7227beb", null ],
+    [ "DoAction", "d2/de3/a19740.html#a2b0a176dba865e90bdc22727b2860509", null ],
+    [ "JustDied", "d2/de3/a19740.html#a7e9c49d8dc47663e70c8fcbed68746e5", null ],
+    [ "Reset", "d2/de3/a19740.html#ae127a88f18f3348a0bc388d79dcd13d4", null ],
+    [ "UpdateAI", "d2/de3/a19740.html#a1edc249808e1ebdb88605c56e19c272a", null ],
+    [ "_feralEssenceStack", "d2/de3/a19740.html#aab51096b8f57528a0a27e23a306d6762", null ],
+    [ "_feralPounceTimer", "d2/de3/a19740.html#ab91df5ebee9c12d067ff83ee64effece", null ],
+    [ "_feralRushTimer", "d2/de3/a19740.html#aa45e0baf1ad43cc4b2c223d1b9d1c3c6", null ],
+    [ "summons", "d2/de3/a19740.html#a599679f93e4fc4b3b9aa00ea33dcb047", null ]
 ];

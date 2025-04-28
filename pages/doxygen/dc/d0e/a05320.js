@@ -1,16 +1,17 @@
 var a05320 =
 [
-    [ "LogMessage", "dc/d0e/a05320.html#a563286e5cd6518e04b3069a86cf6e972", null ],
-    [ "LogMessage", "dc/d0e/a05320.html#a0a5626d481fe047437f213f1fa48a3aa", null ],
-    [ "LogMessage", "dc/d0e/a05320.html#a727fa3a719c50572711ada4e257102ab", null ],
-    [ "getTimeStr", "dc/d0e/a05320.html#aaeca452ae2fe32e7412f4abc30642da2", null ],
-    [ "getTimeStr", "dc/d0e/a05320.html#af40f502e57bf12f31fc7a2fe60584fc8", null ],
-    [ "operator=", "dc/d0e/a05320.html#af35b8fc183cb1848e965117497f50ab4", null ],
-    [ "Size", "dc/d0e/a05320.html#ad2947063f8263da27acc82ce0bba6bc2", null ],
-    [ "level", "dc/d0e/a05320.html#a44096654072d07e506ef6414a8ce4970", null ],
-    [ "mtime", "dc/d0e/a05320.html#a2dab9ed7c1aa8b784e74247667295e29", null ],
-    [ "param1", "dc/d0e/a05320.html#afcf2119e7c084339bd70e2ffb4c88d0e", null ],
-    [ "prefix", "dc/d0e/a05320.html#afe279a591acc9740457c3cd58d43a263", null ],
-    [ "text", "dc/d0e/a05320.html#a4ad799611980177ae87f3acbf2af8ff7", null ],
-    [ "type", "dc/d0e/a05320.html#a77105c721645df5654e3c48ce00c2b5a", null ]
+    [ "AppenderFile", "dc/d0e/a05320.html#a0437ef5c3d0106e52747ab57ccbf97a3", null ],
+    [ "~AppenderFile", "dc/d0e/a05320.html#ae61ef8a7dbc41612f94513ee0da156e1", null ],
+    [ "_write", "dc/d0e/a05320.html#a4c20fc9c6519eb63ca3bf74fd1d1f5b5", null ],
+    [ "CloseFile", "dc/d0e/a05320.html#a039659a1e8e340c9522ff99f119ff5c8", null ],
+    [ "getType", "dc/d0e/a05320.html#ad978ed158e068f5fa84f9f93aaf99b46", null ],
+    [ "OpenFile", "dc/d0e/a05320.html#af4ee583cbcd00d8d564189b0d62a1bb8", null ],
+    [ "_backup", "dc/d0e/a05320.html#a4e1f6ab329fa3dadf4e63584b92c456f", null ],
+    [ "_dynamicName", "dc/d0e/a05320.html#a13cffedf98f8554f5a947dcc065caf65", null ],
+    [ "_fileName", "dc/d0e/a05320.html#a53fcfcc6bf29a0e493d2ea9fdb1344fc", null ],
+    [ "_fileSize", "dc/d0e/a05320.html#a03a7e6402f58136a0cc34eff3985d3fb", null ],
+    [ "_logDir", "dc/d0e/a05320.html#a99f47e0f33b5d5f810470f45a4c885b7", null ],
+    [ "_maxFileSize", "dc/d0e/a05320.html#a271930a4cb21d7efdc2243b6d33d177f", null ],
+    [ "logfile", "dc/d0e/a05320.html#a8ce79405a7e19ae23fc4a93f70ad28b6", null ],
+    [ "type", "dc/d0e/a05320.html#a6ec33bdb38ab0359620e008cf4793f8c", null ]
 ];

@@ -1,12 +1,11 @@
 var a23416 =
 [
-    [ "boss_watchkeeper_gargolmar", "da/dd2/a23416.html#acb4212c6f852f50f3edfa3880806a9d2", null ],
-    [ "JustDied", "da/dd2/a23416.html#a39be5796b39bea913105fc48dda0d186", null ],
-    [ "JustEngagedWith", "da/dd2/a23416.html#a9e3194d02d0d3b66ef38118aa32ae684", null ],
-    [ "KilledUnit", "da/dd2/a23416.html#a22736c2680f41cfd3443a76cd4de9352", null ],
-    [ "MoveInLineOfSight", "da/dd2/a23416.html#adec9837fdb2595ce57acffb279a7d011", null ],
-    [ "Reset", "da/dd2/a23416.html#a356b7fe9071b073b74b21913e35e7408", null ],
-    [ "UpdateAI", "da/dd2/a23416.html#a1453d26ccbd3e78f46cb33f054d57759", null ],
-    [ "_hasSpoken", "da/dd2/a23416.html#a3cd89b2567668b52d96b02af7eb85db8", null ],
-    [ "_taunted", "da/dd2/a23416.html#ab5623501bf92e119806ba4e2ccd0cd7a", null ]
+    [ "boss_krosh_firehand", "da/dd2/a23416.html#a1ef3618844f086de7875f26e7e6190f9", null ],
+    [ "AttackStart", "da/dd2/a23416.html#a74bd2c93ac45efcd163a904b9a52827b", null ],
+    [ "JustDied", "da/dd2/a23416.html#ad20c86b4a3d0cccddf91982c26f56c09", null ],
+    [ "JustEngagedWith", "da/dd2/a23416.html#ad6389c357fb6c09fdf4f3f3ef7095395", null ],
+    [ "Reset", "da/dd2/a23416.html#a989c4b762a7cdb228b245e91881d97a2", null ],
+    [ "UpdateAI", "da/dd2/a23416.html#a3d26a6f544e9d00514ca5b0ef7d4bf4f", null ],
+    [ "_scheduler", "da/dd2/a23416.html#a261ced01dc1305ab7c2d2f3322022fe5", null ],
+    [ "instance", "da/dd2/a23416.html#a876bb040d78cafa9aa22e818f60dce7f", null ]
 ];

@@ -1,5 +1,6 @@
 var a16580 =
 [
-    [ "achievement_consumption_junction", "dd/d32/a16580.html#aab08732c13f41e0e8d27e9f482bd7351", null ],
-    [ "OnCheck", "dd/d32/a16580.html#a14dae1bf9d4d7c79f11de40b372f353e", null ]
+    [ "HandleEffectApply", "dd/d32/a16580.html#aaea2c3733dadc19072c81774468e345a", null ],
+    [ "PrepareAuraScript", "dd/d32/a16580.html#a3848997e9f775add50d40342b6211ff0", null ],
+    [ "Register", "dd/d32/a16580.html#a775b1cf494049ed13d149ca6318142c3", null ]
 ];

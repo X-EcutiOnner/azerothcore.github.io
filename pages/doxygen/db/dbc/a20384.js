@@ -1,8 +1,6 @@
 var a20384 =
 [
-    [ "npc_ulduar_expedition_commanderAI", "d9/dfc/a20388.html", "d9/dfc/a20388" ],
-    [ "npc_ulduar_expedition_commander", "db/dbc/a20384.html#a8513554f686b75c29524fa5b2fa93ee4", null ],
-    [ "GetAI", "db/dbc/a20384.html#aa888a3634a643a103075d44c8f52d28a", null ],
-    [ "OnGossipHello", "db/dbc/a20384.html#a6b52abae7ec1be10fcb5385ec928b785", null ],
-    [ "OnGossipSelect", "db/dbc/a20384.html#a5d212e5e21d9ffb8c60e883e065c1801", null ]
+    [ "npc_ulduar_flames_initialAI", "d9/dfc/a20388.html", "d9/dfc/a20388" ],
+    [ "npc_ulduar_flames_initial", "db/dbc/a20384.html#aee0c62a38e3e0958e015faef2c434273", null ],
+    [ "GetAI", "db/dbc/a20384.html#ac0db78c361324a594220ad644001f4eb", null ]
 ];

@@ -1,6 +1,8 @@
 var a23016 =
 [
-    [ "HandleScriptEffect", "d3/db2/a23016.html#a62ed9bff154c5aab74e044f8f9982263", null ],
-    [ "PrepareSpellScript", "d3/db2/a23016.html#a0e87265cf22ef8b4e302b8e216123395", null ],
-    [ "Register", "d3/db2/a23016.html#a0d722447d91991462245e8b392d20e10", null ]
+    [ "CalculateAmount", "d3/db2/a23016.html#a13d44c0d5f9b0111ae3b0d3d089e3e13", null ],
+    [ "OnPeriodic", "d3/db2/a23016.html#ab4d3f69d50fa320886f454ddfe1076f4", null ],
+    [ "PrepareAuraScript", "d3/db2/a23016.html#a1278420b279449c1c6a53b1a7b53f539", null ],
+    [ "Register", "d3/db2/a23016.html#a4795011faa2f68b1068d37b81f8c1cf2", null ],
+    [ "Validate", "d3/db2/a23016.html#a601c2db3a8e47d48b956ed102cbca104", null ]
 ];

@@ -1,5 +1,5 @@
 var a02594 =
 [
-    [ "go_commandscript", "d2/def/a11597.html", "d2/def/a11597" ],
-    [ "AddSC_go_commandscript", "db/d8b/a02594.html#a95fcb467686a27e069827ed3775df197", null ]
+    [ "ServerMailReward", "db/df9/a27596.html", "db/df9/a27596" ],
+    [ "AddSC_server_mail", "db/d8b/a02594.html#a8c20fa2f42eb423e39f2aaafe8fadafc", null ]
 ];

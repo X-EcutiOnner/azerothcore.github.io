@@ -1,8 +1,7 @@
 var a23316 =
 [
-    [ "ApplyStun", "d6/dd3/a23316.html#a5a5b921dc45418485919e599e80f8ca8", null ],
-    [ "HandleScriptEffect", "d6/dd3/a23316.html#a32619710179250a6a0b408856a888153", null ],
-    [ "PrepareSpellScript", "d6/dd3/a23316.html#afb61d7dcc8ad52da4dcad3d7593f08ad", null ],
-    [ "Register", "d6/dd3/a23316.html#aa753fd45caa1b515911d8fdf6fa78754", null ],
-    [ "Validate", "d6/dd3/a23316.html#a66d91a87078c663903cd836344eec867", null ]
+    [ "npc_underbog_mushroom", "d6/dd3/a23316.html#a2b77b2590d46c14c783d2df4a3699c44", null ],
+    [ "InitializeAI", "d6/dd3/a23316.html#a7c192010cc63715eaa3f38b1d1372936", null ],
+    [ "UpdateAI", "d6/dd3/a23316.html#a9a8ed51b12809152ebe78dda69944d77", null ],
+    [ "_scheduler", "d6/dd3/a23316.html#a407cdb1096e5212dd0a50ea4fa401112", null ]
 ];

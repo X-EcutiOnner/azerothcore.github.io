@@ -1,6 +1,6 @@
 var a23288 =
 [
-    [ "instance_the_underbog_InstanceMapScript", "dc/d28/a23292.html", "dc/d28/a23292" ],
-    [ "instance_the_underbog", "d2/d0e/a23288.html#afaf8740a3e367a1a54eaa3e76ffa483e", null ],
-    [ "GetInstanceScript", "d2/d0e/a23288.html#ace939fb7fd89e7c9c84c17d3ca31208b", null ]
+    [ "HandleAfterRemove", "d2/d0e/a23288.html#a74610b06095572aa2c898cd84e0fb229", null ],
+    [ "PrepareAuraScript", "d2/d0e/a23288.html#ac0d686490ff37810e0116dea4d0b6077", null ],
+    [ "Register", "d2/d0e/a23288.html#aad72f4aaa19f92f7a71241311f5d0582", null ]
 ];

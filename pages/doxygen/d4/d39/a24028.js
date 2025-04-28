@@ -1,16 +1,8 @@
 var a24028 =
 [
-    [ "npc_dragonmaw_peonAI", "d4/d39/a24028.html#a6f1255fead5357001ec85fdaa6980249", null ],
-    [ "CreditPlayer", "d4/d39/a24028.html#a5cf28e156cab2e2066bb94bc99233a2b", null ],
-    [ "JustEngagedWith", "d4/d39/a24028.html#abd5b37793aa2fb150c808b7dc7270763", null ],
-    [ "MovementInform", "d4/d39/a24028.html#a0ee4038f90d54c75c48b2448dacb5724", null ],
-    [ "Reset", "d4/d39/a24028.html#a9d876ec76b51f743c71e67749c21d939", null ],
-    [ "SpellHit", "d4/d39/a24028.html#abe5162608ba0acd7360a630562ff5935", null ],
-    [ "UpdateAI", "d4/d39/a24028.html#a98a045606d9e689ef25a5068b81b1ebf", null ],
-    [ "events", "d4/d39/a24028.html#a7d6fb37d1953630aa79f8665eca0db61", null ],
-    [ "PlayerGUID", "d4/d39/a24028.html#ad6838d98e34a32cbed42c77cdf096070", null ],
-    [ "Tapped", "d4/d39/a24028.html#ae393f8d3cb47f38a4c4314a262826d03", null ],
-    [ "x", "d4/d39/a24028.html#acebbfa8da88d8d683ba5ea6463f6b5f7", null ],
-    [ "y", "d4/d39/a24028.html#ae5a1d416c712803ec0b80ae7ccf29e2d", null ],
-    [ "z", "d4/d39/a24028.html#a7722420716c030b5abe7b760199df14d", null ]
+    [ "npc_bessyAI", "d4/d39/a24028.html#ad1300a563888b34689bedf97c387707c", null ],
+    [ "JustDied", "d4/d39/a24028.html#af98e9235b2432b619e4cc01c0c1111ef", null ],
+    [ "JustSummoned", "d4/d39/a24028.html#a4197fb122299fd152e5da335bb832ae5", null ],
+    [ "Reset", "d4/d39/a24028.html#aed64386629e52c3b65abadde54a63cc4", null ],
+    [ "WaypointReached", "d4/d39/a24028.html#a4611a8f41f66a1a846fb42ba1d4062c8", null ]
 ];

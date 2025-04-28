@@ -1,6 +1,8 @@
 var a24320 =
 [
-    [ "FilterTargets", "dc/d04/a24320.html#adab73c94c659d7421c9c6887d956cd83", null ],
-    [ "PrepareSpellScript", "dc/d04/a24320.html#a8cf5e4224f46b6f836d517f90fd135d4", null ],
-    [ "Register", "dc/d04/a24320.html#a3aaf93f3746b36d5bfa4fc475aabe43b", null ]
+    [ "npc_pet_gen_gnomish_flame_turret", "dc/d04/a24320.html#a6e79c0ad6219d0beb23cfb086e6d3eaf", null ],
+    [ "AttackStart", "dc/d04/a24320.html#a2aab464c099e8e5e760a9ae4f28ac33f", null ],
+    [ "Reset", "dc/d04/a24320.html#a46fe5703a5859d5583e7df3a57b3910a", null ],
+    [ "UpdateAI", "dc/d04/a24320.html#ae3db08323af4b82009ffd660b3e78474", null ],
+    [ "checkTimer", "dc/d04/a24320.html#ac6705f4980ca561a5fd33c2917488439", null ]
 ];

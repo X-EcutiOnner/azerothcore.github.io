@@ -1,6 +1,7 @@
 var a13760 =
 [
-    [ "npc_eagle_trash_aggro_trigger", "d9/d12/a13760.html#a9d41e8abe764fd0f8cedd888418aafb2", null ],
-    [ "MoveInLineOfSight", "d9/d12/a13760.html#aa8892e7f2bec9f26320cd9749e648ebd", null ],
-    [ "_instance", "d9/d12/a13760.html#a39a222e1eb0a3378c8fcaf1da5629547", null ]
+    [ "OnPeriodic", "d9/d12/a13760.html#aa541a8bc034517d1f5d034ac51bd8dac", null ],
+    [ "PrepareAuraScript", "d9/d12/a13760.html#abc166e4dc33e7bffd1d53c2ef8272efa", null ],
+    [ "Register", "d9/d12/a13760.html#a60313d4ba992b1dc81e7cdae942f1b3d", null ],
+    [ "Validate", "d9/d12/a13760.html#a7ed214de6769314a45540e9afdb82949", null ]
 ];

@@ -1,5 +1,6 @@
 var a02588 =
 [
-    [ "guild_commandscript", "dd/de8/a11609.html", "dd/de8/a11609" ],
-    [ "AddSC_guild_commandscript", "d4/d61/a02588.html#af4f585942ab79df7bff025b621beef86", null ]
+    [ "trigger_periodic", "db/dbd/a27336.html", "db/dbd/a27336" ],
+    [ "trigger_periodic::trigger_periodicAI", "df/d65/a27340.html", "df/d65/a27340" ],
+    [ "AddSC_generic_creature", "d4/d61/a02588.html#a50f66c4d6429b38157e35a75a0daa31d", null ]
 ];

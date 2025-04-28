@@ -1,6 +1,6 @@
 var a17172 =
 [
-    [ "AddExtraDamage", "d1/d27/a17172.html#adeedfdd7555dfd009c99db6f002f7488", null ],
-    [ "PrepareSpellScript", "d1/d27/a17172.html#a5d5c32f102c525f6c25d12281a58f5f4", null ],
-    [ "Register", "d1/d27/a17172.html#affe1d9a5e9c4776d1651fdb95283caf4", null ]
+    [ "boss_prince_taldaramAI", "d3/df8/a17176.html", "d3/df8/a17176" ],
+    [ "boss_prince_taldaram_icc", "d1/d27/a17172.html#abe14f754e1daf597aa2b7d401f337c8d", null ],
+    [ "GetAI", "d1/d27/a17172.html#a2a8c89206ab72afc68260f41a246da3b", null ]
 ];

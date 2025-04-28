@@ -1,6 +1,10 @@
 var a16028 =
 [
-    [ "npc_living_infernoAI", "d7/dd0/a16032.html", "d7/dd0/a16032" ],
-    [ "npc_living_inferno", "d2/d8b/a16028.html#a7df2bb522e67b6f1864604c7b0182078", null ],
-    [ "GetAI", "d2/d8b/a16028.html#a53f0bbd0a502374664cfa54140f4b8c0", null ]
+    [ "spell_halion_marks_aura", "d2/d8b/a16028.html#a3351eb9a4b497e1d92bd0021c0fa01f8", null ],
+    [ "BeforeDispel", "d2/d8b/a16028.html#a48fb48567091c8fd9d365ea3ff8730cc", null ],
+    [ "OnRemove", "d2/d8b/a16028.html#a1c9fefecd33db13e06f267c41e6b0375", null ],
+    [ "PrepareAuraScript", "d2/d8b/a16028.html#acd5285ea5c378b31526440d263c54770", null ],
+    [ "Register", "d2/d8b/a16028.html#ac84d4ab83e56314ff15ee363cafd2feb", null ],
+    [ "_removeSpellId", "d2/d8b/a16028.html#aeef9d928c6a8739337251e144558b169", null ],
+    [ "_summonSpellId", "d2/d8b/a16028.html#a01e8677e4f55dbb55cca1bf16dec48b2", null ]
 ];

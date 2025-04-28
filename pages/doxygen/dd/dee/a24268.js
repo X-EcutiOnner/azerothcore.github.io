@@ -1,10 +1,6 @@
 var a24268 =
 [
-    [ "npc_pet_gen_imp_in_a_bottle", "dd/dee/a24268.html#aa32b7770c2719d77d46fcf6d22989284", null ],
-    [ "InitializeAI", "dd/dee/a24268.html#a9fde3fd30d48068a3ad1a19f65c61bf2", null ],
-    [ "UpdateAI", "dd/dee/a24268.html#a453ec855bb21a30cb72b540ff8f77035", null ],
-    [ "_data", "dd/dee/a24268.html#a982ec923536c2c33353a3673aa425b6a", null ],
-    [ "_hasParty", "dd/dee/a24268.html#a192d9e2ba340040cb6ba5c0f324ffb2d", null ],
-    [ "_ownerGUID", "dd/dee/a24268.html#a5452226bbe4f65a9bd7ce103a7648a2f", null ],
-    [ "_talkTimer", "dd/dee/a24268.html#a07eba859ad2d5db4f6d91734c04020cf", null ]
+    [ "npc_pet_dk_ghoulAI", "d7/d7b/a24272.html", "d7/d7b/a24272" ],
+    [ "npc_pet_dk_ghoul", "dd/dee/a24268.html#ac8af6ae753151a08e80d434a04ef58db", null ],
+    [ "GetAI", "dd/dee/a24268.html#a74b068bdccf5d9b25b4ef3bff0a193ef", null ]
 ];

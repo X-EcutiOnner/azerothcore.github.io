@@ -1,8 +1,12 @@
 var a00098 =
 [
-    [ "wdt_MPHD", "d5/d5a/a28569.html", "d5/d5a/a28569" ],
-    [ "wdt_MAIN", "d4/d9b/a28577.html", "d4/d9b/a28577" ],
-    [ "wdt_MAIN::adtData", "d8/dfa/a28585.html", "d8/dfa/a28585" ],
-    [ "WDT_file", "d9/dc2/a28589.html", "d9/dc2/a28589" ],
-    [ "WDT_MAP_SIZE", "d1/d44/a00098.html#a0cf0c1d4bd3ed48612ab2a5e36b8cf10", null ]
+    [ "AC_COMPILER_BORLAND", "d1/d44/a00098.html#ad92d7f8e69537bfc6f28bfce27856c1f", null ],
+    [ "AC_COMPILER_GNU", "d1/d44/a00098.html#a8ffa78a105635ede693224673028c4ed", null ],
+    [ "AC_COMPILER_INTEL", "d1/d44/a00098.html#a60132e229252e2d0020a2ba6fd0309c3", null ],
+    [ "AC_COMPILER_MICROSOFT", "d1/d44/a00098.html#ac8ee3c2752751f98265e16c95cbaea47", null ],
+    [ "AC_PLATFORM", "d1/d44/a00098.html#a490dd7a4e0c23e207dd9285027ae8b33", null ],
+    [ "AC_PLATFORM_APPLE", "d1/d44/a00098.html#a4f72821a90afaf788ba291d1f6fb11b8", null ],
+    [ "AC_PLATFORM_INTEL", "d1/d44/a00098.html#a2d79201ecf9fb7b1f6d0c131f9b7b8ba", null ],
+    [ "AC_PLATFORM_UNIX", "d1/d44/a00098.html#a96b4a3022030f69221679448f34f1972", null ],
+    [ "AC_PLATFORM_WINDOWS", "d1/d44/a00098.html#a15c00b0ab8f2f092270745de87d6bd8f", null ]
 ];

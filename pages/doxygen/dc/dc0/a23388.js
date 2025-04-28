@@ -1,20 +1,7 @@
 var a23388 =
 [
-    [ "instance_blood_furnace_InstanceMapScript", "dc/dc0/a23388.html#adb0173cb42642836f7734d8b0fb3e98f", null ],
-    [ "ActivateCell", "dc/dc0/a23388.html#abd718216778850455c758d79a5866958", null ],
-    [ "ActivatePrisoners", "dc/dc0/a23388.html#a18488afb78747a35ce7e3b4b9a2468b5", null ],
-    [ "GetGuidData", "dc/dc0/a23388.html#af7f6acc97bf16f4d31236dcbb2d94007", null ],
-    [ "Initialize", "dc/dc0/a23388.html#a3441a24486ec686d42b7320e6f105139", null ],
-    [ "OnCreatureCreate", "dc/dc0/a23388.html#ac58da5acec155e596791464c48f29773", null ],
-    [ "OnGameObjectCreate", "dc/dc0/a23388.html#a3894ce1d0dff79cee2ff0df51d19e1ea", null ],
-    [ "OnUnitDeath", "dc/dc0/a23388.html#a78b07bfe30c7f329046ff572f783c4b9", null ],
-    [ "PrisonerDied", "dc/dc0/a23388.html#a16315f7921b1960c7720f855cdddee96", null ],
-    [ "ResetPrisoner", "dc/dc0/a23388.html#a57f58c502b5fb2064307adb8c4976979", null ],
-    [ "ResetPrisoners", "dc/dc0/a23388.html#ac46b0ed98e69ac0d5b8582bb21a81dc8", null ],
-    [ "ResetPrisons", "dc/dc0/a23388.html#a728bbc185bb91cf024f8ff3bd878a10e", null ],
-    [ "SetBossState", "dc/dc0/a23388.html#aad428e00762795d8f817d6cfa25505fe", null ],
-    [ "StorePrisoner", "dc/dc0/a23388.html#ade72b3e7a2129b8a4f722990aef5ac5f", null ],
-    [ "_prisonerCounter", "dc/dc0/a23388.html#a50c371edc425191f610a0e8a6b44d2ab", null ],
-    [ "_prisonersCell", "dc/dc0/a23388.html#a3492a327f4c0d637fd5701f3997c1887", null ],
-    [ "_prisonGUIDs", "dc/dc0/a23388.html#a9a737e495b638ec65fbd306c6aa0267c", null ]
+    [ "OnApply", "dc/dc0/a23388.html#a301e47da9be4b4a449701c59c19bc62b", null ],
+    [ "PrepareAuraScript", "dc/dc0/a23388.html#a623bf9442a4a2b046d1d89bc2523eb37", null ],
+    [ "Register", "dc/dc0/a23388.html#aaf38547f7fa233b03429734dbe374f13", null ],
+    [ "Validate", "dc/dc0/a23388.html#ac390e2e24d9a85635ced5eaa343b8e09", null ]
 ];

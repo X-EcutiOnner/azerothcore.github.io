@@ -1,6 +1,7 @@
 var a18620 =
 [
-    [ "npc_icc_skybreaker_hierophantAI", "dc/daf/a18624.html", "dc/daf/a18624" ],
-    [ "npc_icc_skybreaker_hierophant", "df/dda/a18620.html#a4cd3b2aa3d71c30853c687da8b8ca959", null ],
-    [ "GetAI", "df/dda/a18620.html#a2b0627bf059dfbce556bfa3ed4e97552", null ]
+    [ "HandleScript", "df/dda/a18620.html#a87a2b32a9a20f032157df5ddb2cd9979", null ],
+    [ "PrepareSpellScript", "df/dda/a18620.html#a9aca3a2a981a0cb61569200d77ca527a", null ],
+    [ "Register", "df/dda/a18620.html#afb0289c9906d0383a22dfd0e848573f8", null ],
+    [ "Validate", "df/dda/a18620.html#a69344370af56f033e1c1ba16f4dee174", null ]
 ];

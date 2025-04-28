@@ -1,6 +1,6 @@
 var a24120 =
 [
-    [ "npc_zephyr", "d3/d81/a24120.html#a3bad7bf2bd3b193960f1f53cd7d8349d", null ],
-    [ "OnGossipHello", "d3/d81/a24120.html#a31e132e80a19bb6e63787fcdf7ffd466", null ],
-    [ "OnGossipSelect", "d3/d81/a24120.html#a9b1f5a0d4ba24e65dda521bc94574ad8", null ]
+    [ "npc_torloth_the_magnificentAI", "d5/d16/a24124.html", "d5/d16/a24124" ],
+    [ "npc_torloth_the_magnificent", "d3/d81/a24120.html#a252796a19dcebe210eecb4d9ae150e5d", null ],
+    [ "GetAI", "d3/d81/a24120.html#a94c206fb75cc6f50c6127908b5b5205f", null ]
 ];

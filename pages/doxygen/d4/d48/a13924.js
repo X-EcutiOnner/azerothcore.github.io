@@ -1,10 +1,7 @@
 var a13924 =
 [
-    [ "npc_vilebranch_speaker", "d4/d48/a13924.html#acd8dfc95c5969fe67e1386d5dbd5884b", null ],
-    [ "JustDied", "d4/d48/a13924.html#aa7708f176879db3acd50399b74e4a90c", null ],
-    [ "JustEngagedWith", "d4/d48/a13924.html#a236afb8512c2d941479f8a7c18f688a6", null ],
-    [ "Reset", "d4/d48/a13924.html#a248195a137cb91f10a882ec12974c7c5", null ],
-    [ "UpdateAI", "d4/d48/a13924.html#a75f263fa9241319b58bf77cbf1b75088", null ],
-    [ "_scheduler", "d4/d48/a13924.html#abd52bbd2ce88b011176d93ae92b851d0", null ],
-    [ "instance", "d4/d48/a13924.html#a88fb28d2c39f0da967ab6706872e68b2", null ]
+    [ "HandleScriptEffect", "d4/d48/a13924.html#ace68732d578fbaeb2b209bfded88853a", null ],
+    [ "PrepareSpellScript", "d4/d48/a13924.html#a42a69995e8f527a383e96e2ead832f72", null ],
+    [ "Register", "d4/d48/a13924.html#abb26c89a617bc27f8c2a1cfbb0935234", null ],
+    [ "Validate", "d4/d48/a13924.html#a7697caf8e5390d290b353fb6a291aa10", null ]
 ];

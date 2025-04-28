@@ -1,13 +1,6 @@
 var a13512 =
 [
-    [ "npc_ravenclaw_apparitionAI", "db/d83/a13512.html#a2a8a6cdb3d74e55cc3d6786ebcfb5328", null ],
-    [ "EmoteCrowd", "db/d83/a13512.html#a7a407c9b00bb24c4c3d057ec2a4b0fdc", null ],
-    [ "JustDied", "db/d83/a13512.html#a88f9d4e72273f8f835e809b27d5b52d8", null ],
-    [ "JustSummoned", "db/d83/a13512.html#a1ab2f2a6b0514d192a7962cf8315ee16", null ],
-    [ "SummonCrowd", "db/d83/a13512.html#af3f6ea6094b82e06ce7ef2d4432bd88a", null ],
-    [ "UpdateAI", "db/d83/a13512.html#ab3c6c27a31f12443efcad314cbfa1129", null ],
-    [ "events", "db/d83/a13512.html#a27522107b5e1f54909294f800f26663f", null ],
-    [ "HasEnded", "db/d83/a13512.html#a1b7a57b7204f51304ef05ee3d2265774", null ],
-    [ "summons", "db/d83/a13512.html#a85cde0a9d4903c89b29f68318730ab7f", null ],
-    [ "TalkRNG", "db/d83/a13512.html#a4b41f348e6756298d6a13b09fbf13fd0", null ]
+    [ "OnEffect", "db/d83/a13512.html#a41903586310ec274dd10537ccb8655f3", null ],
+    [ "PrepareSpellScript", "db/d83/a13512.html#a17240b9d80e5f30cd4638e2ec5b92d0b", null ],
+    [ "Register", "db/d83/a13512.html#a64ef9effcdeaf13b58aeef889d777f22", null ]
 ];

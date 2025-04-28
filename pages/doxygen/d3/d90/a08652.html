@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: AuraMunchingQueue Class Reference</title>
+<title>AzerothCore: SplineHandler Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -108,58 +108,26 @@ $(document).ready(function(){initNavTree('d3/d90/a08652.html','../../'); initRes
 <a href="#pub-methods">Public Member Functions</a> &#124;
 <a href="#pri-attribs">Private Attributes</a> &#124;
 <a href="../../d2/d39/a08649.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">AuraMunchingQueue Class Reference</div></div>
+  <div class="headertitle"><div class="title">SplineHandler Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="dynheader">
-Inheritance diagram for AuraMunchingQueue:</div>
-<div class="dyncontent">
- <div class="center">
-  <img src="../../d3/d90/a08652.png" usemap="#AuraMunchingQueue_map" alt=""/>
-  <map id="AuraMunchingQueue_map" name="AuraMunchingQueue_map">
-<area href="../../d0/d73/a05432.html" alt="BasicEvent" shape="rect" coords="0,0,134,24"/>
-  </map>
-</div></div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:abf9787bcfa9393619ffebe2ad7b5cd46"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d90/a08652.html#abf9787bcfa9393619ffebe2ad7b5cd46">AuraMunchingQueue</a> (<a class="el" href="../../d9/dad/a08704.html">Unit</a> &amp;owner, <a class="el" href="../../d5/d95/a08372.html">ObjectGuid</a> targetGUID, <a class="el" href="../../d5/d35/a00266.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> basePoints, <a class="el" href="../../d5/d35/a00266.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> spellId, <a class="el" href="../../d4/d70/a11000.html">AuraEffect</a> *aurEff, <a class="el" href="../../d7/d1a/a02381.html#a538cdc259460b365f406fe0b3a981799">AuraType</a> auraType)</td></tr>
-<tr class="separator:abf9787bcfa9393619ffebe2ad7b5cd46"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8f025a0ea1db81fb283db563402d1c40"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d90/a08652.html#a8f025a0ea1db81fb283db563402d1c40">Execute</a> (<a class="el" href="../../d5/d35/a00266.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a>, <a class="el" href="../../d5/d35/a00266.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>) override</td></tr>
-<tr class="separator:a8f025a0ea1db81fb283db563402d1c40"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="inherit_header pub_methods_a05432"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_a05432')"><img src="../../closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="../../d0/d73/a05432.html">BasicEvent</a></td></tr>
-<tr class="memitem:a9c3cd17edab7fc410f88bb680d756975 inherit pub_methods_a05432"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d73/a05432.html#a9c3cd17edab7fc410f88bb680d756975">BasicEvent</a> ()=default</td></tr>
-<tr class="separator:a9c3cd17edab7fc410f88bb680d756975 inherit pub_methods_a05432"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0c3860e1c8854c2db20a225944792afd inherit pub_methods_a05432"><td class="memItemLeft" align="right" valign="top">virtual&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d73/a05432.html#a0c3860e1c8854c2db20a225944792afd">~BasicEvent</a> ()=default</td></tr>
-<tr class="separator:a0c3860e1c8854c2db20a225944792afd inherit pub_methods_a05432"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a89297a10b64d01895332655122ed8ccb inherit pub_methods_a05432"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d73/a05432.html#a89297a10b64d01895332655122ed8ccb">Execute</a> (<a class="el" href="../../d5/d35/a00266.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a>, <a class="el" href="../../d5/d35/a00266.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>)</td></tr>
-<tr class="separator:a89297a10b64d01895332655122ed8ccb inherit pub_methods_a05432"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a62c0483af9fd1885e779cf088a50eb02 inherit pub_methods_a05432"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d73/a05432.html#a62c0483af9fd1885e779cf088a50eb02">IsDeletable</a> () const</td></tr>
-<tr class="separator:a62c0483af9fd1885e779cf088a50eb02 inherit pub_methods_a05432"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a5584968148a48bd7ba072515bd489963 inherit pub_methods_a05432"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d73/a05432.html#a5584968148a48bd7ba072515bd489963">Abort</a> (<a class="el" href="../../d5/d35/a00266.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a>)</td></tr>
-<tr class="separator:a5584968148a48bd7ba072515bd489963 inherit pub_methods_a05432"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:afafade0729f08b8f1193a66f50c18348 inherit pub_methods_a05432"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d73/a05432.html#afafade0729f08b8f1193a66f50c18348">ScheduleAbort</a> ()</td></tr>
-<tr class="separator:afafade0729f08b8f1193a66f50c18348 inherit pub_methods_a05432"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7c5aac2d12e13bad1c38c4e8860ed27f"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d90/a08652.html#a7c5aac2d12e13bad1c38c4e8860ed27f">SplineHandler</a> (<a class="el" href="../../d8/dc0/a08716.html">Unit</a> *unit)</td></tr>
+<tr class="separator:a7c5aac2d12e13bad1c38c4e8860ed27f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa5d1bddc2435eee76f493229740ecf9e"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d90/a08652.html#aa5d1bddc2435eee76f493229740ecf9e">operator()</a> (<a class="el" href="../../d3/da1/a10024.html#a6fcd01e84f328619ce1a8dbbfa8143b0">Movement::MoveSpline::UpdateResult</a> result)</td></tr>
+<tr class="separator:aa5d1bddc2435eee76f493229740ecf9e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
 Private Attributes</h2></td></tr>
-<tr class="memitem:a472aaf46c2f167a10ce38267ace0b8bb"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/dad/a08704.html">Unit</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d90/a08652.html#a472aaf46c2f167a10ce38267ace0b8bb">_owner</a></td></tr>
-<tr class="separator:a472aaf46c2f167a10ce38267ace0b8bb"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a441b328296f0b7a75bdaee06d2cb94f1"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d5/d95/a08372.html">ObjectGuid</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d90/a08652.html#a441b328296f0b7a75bdaee06d2cb94f1">_targetGUID</a></td></tr>
-<tr class="separator:a441b328296f0b7a75bdaee06d2cb94f1"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9cf03046c9595e81bf119b7aacb1a81a"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d5/d35/a00266.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d90/a08652.html#a9cf03046c9595e81bf119b7aacb1a81a">_basePoints</a></td></tr>
-<tr class="separator:a9cf03046c9595e81bf119b7aacb1a81a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6674c43b906e45e2ad29100a7ff06f44"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d5/d35/a00266.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d90/a08652.html#a6674c43b906e45e2ad29100a7ff06f44">_spellId</a></td></tr>
-<tr class="separator:a6674c43b906e45e2ad29100a7ff06f44"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8ac00964608170d5375242c1b19c4be3"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d4/d70/a11000.html">AuraEffect</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d90/a08652.html#a8ac00964608170d5375242c1b19c4be3">_aurEff</a></td></tr>
-<tr class="separator:a8ac00964608170d5375242c1b19c4be3"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:add694e24c38d585784f236acf9118b76"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d7/d1a/a02381.html#a538cdc259460b365f406fe0b3a981799">AuraType</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d90/a08652.html#add694e24c38d585784f236acf9118b76">_auraType</a></td></tr>
-<tr class="separator:add694e24c38d585784f236acf9118b76"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aaafb07271736d8bc89d07aafbbae7f25"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/dc0/a08716.html">Unit</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d90/a08652.html#aaafb07271736d8bc89d07aafbbae7f25">_unit</a></td></tr>
+<tr class="separator:aaafb07271736d8bc89d07aafbbae7f25"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="abf9787bcfa9393619ffebe2ad7b5cd46" name="abf9787bcfa9393619ffebe2ad7b5cd46"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#abf9787bcfa9393619ffebe2ad7b5cd46">&#9670;&#160;</a></span>AuraMunchingQueue()</h2>
+<a id="a7c5aac2d12e13bad1c38c4e8860ed27f" name="a7c5aac2d12e13bad1c38c4e8860ed27f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7c5aac2d12e13bad1c38c4e8860ed27f">&#9670;&#160;</a></span>SplineHandler()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -168,45 +136,11 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">AuraMunchingQueue::AuraMunchingQueue </td>
+          <td class="memname">SplineHandler::SplineHandler </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d9/dad/a08704.html">Unit</a> &amp;&#160;</td>
-          <td class="paramname"><em>owner</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
+          <td class="paramtype"><a class="el" href="../../d8/dc0/a08716.html">Unit</a> *&#160;</td>
+          <td class="paramname"><em>unit</em></td><td>)</td>
           <td></td>
-          <td class="paramtype"><a class="el" href="../../d5/d95/a08372.html">ObjectGuid</a>&#160;</td>
-          <td class="paramname"><em>targetGUID</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d5/d35/a00266.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>&#160;</td>
-          <td class="paramname"><em>basePoints</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d5/d35/a00266.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>spellId</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d4/d70/a11000.html">AuraEffect</a> *&#160;</td>
-          <td class="paramname"><em>aurEff</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d7/d1a/a02381.html#a538cdc259460b365f406fe0b3a981799">AuraType</a>&#160;</td>
-          <td class="paramname"><em>auraType</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
         </tr>
       </table>
   </td>
@@ -215,19 +149,14 @@ Private Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">20318</span>: <a class="code hl_variable" href="../../d3/d90/a08652.html#a472aaf46c2f167a10ce38267ace0b8bb">_owner</a>(owner), <a class="code hl_variable" href="../../d3/d90/a08652.html#a441b328296f0b7a75bdaee06d2cb94f1">_targetGUID</a>(targetGUID), <a class="code hl_variable" href="../../d3/d90/a08652.html#a9cf03046c9595e81bf119b7aacb1a81a">_basePoints</a>(basePoints), <a class="code hl_variable" href="../../d3/d90/a08652.html#a6674c43b906e45e2ad29100a7ff06f44">_spellId</a>(spellId), <a class="code hl_variable" href="../../d3/d90/a08652.html#a8ac00964608170d5375242c1b19c4be3">_aurEff</a>(aurEff), <a class="code hl_variable" href="../../d3/d90/a08652.html#add694e24c38d585784f236acf9118b76">_auraType</a>(auraType) { }</div>
-<div class="ttc" id="aa08652_html_a441b328296f0b7a75bdaee06d2cb94f1"><div class="ttname"><a href="../../d3/d90/a08652.html#a441b328296f0b7a75bdaee06d2cb94f1">AuraMunchingQueue::_targetGUID</a></div><div class="ttdeci">ObjectGuid _targetGUID</div><div class="ttdef"><b>Definition:</b> Unit.cpp:20342</div></div>
-<div class="ttc" id="aa08652_html_a472aaf46c2f167a10ce38267ace0b8bb"><div class="ttname"><a href="../../d3/d90/a08652.html#a472aaf46c2f167a10ce38267ace0b8bb">AuraMunchingQueue::_owner</a></div><div class="ttdeci">Unit &amp; _owner</div><div class="ttdef"><b>Definition:</b> Unit.cpp:20341</div></div>
-<div class="ttc" id="aa08652_html_a6674c43b906e45e2ad29100a7ff06f44"><div class="ttname"><a href="../../d3/d90/a08652.html#a6674c43b906e45e2ad29100a7ff06f44">AuraMunchingQueue::_spellId</a></div><div class="ttdeci">uint32 _spellId</div><div class="ttdef"><b>Definition:</b> Unit.cpp:20344</div></div>
-<div class="ttc" id="aa08652_html_a8ac00964608170d5375242c1b19c4be3"><div class="ttname"><a href="../../d3/d90/a08652.html#a8ac00964608170d5375242c1b19c4be3">AuraMunchingQueue::_aurEff</a></div><div class="ttdeci">AuraEffect * _aurEff</div><div class="ttdef"><b>Definition:</b> Unit.cpp:20345</div></div>
-<div class="ttc" id="aa08652_html_a9cf03046c9595e81bf119b7aacb1a81a"><div class="ttname"><a href="../../d3/d90/a08652.html#a9cf03046c9595e81bf119b7aacb1a81a">AuraMunchingQueue::_basePoints</a></div><div class="ttdeci">int32 _basePoints</div><div class="ttdef"><b>Definition:</b> Unit.cpp:20343</div></div>
-<div class="ttc" id="aa08652_html_add694e24c38d585784f236acf9118b76"><div class="ttname"><a href="../../d3/d90/a08652.html#add694e24c38d585784f236acf9118b76">AuraMunchingQueue::_auraType</a></div><div class="ttdeci">AuraType _auraType</div><div class="ttdef"><b>Definition:</b> Unit.cpp:20346</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  557</span>: <a class="code hl_variable" href="../../d3/d90/a08652.html#aaafb07271736d8bc89d07aafbbae7f25">_unit</a>(unit) { }</div>
+<div class="ttc" id="aa08652_html_aaafb07271736d8bc89d07aafbbae7f25"><div class="ttname"><a href="../../d3/d90/a08652.html#aaafb07271736d8bc89d07aafbbae7f25">SplineHandler::_unit</a></div><div class="ttdeci">Unit * _unit</div><div class="ttdef"><b>Definition:</b> Unit.cpp:572</div></div>
 </div><!-- fragment -->
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
-<a id="a8f025a0ea1db81fb283db563402d1c40" name="a8f025a0ea1db81fb283db563402d1c40"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8f025a0ea1db81fb283db563402d1c40">&#9670;&#160;</a></span>Execute()</h2>
+<a id="aa5d1bddc2435eee76f493229740ecf9e" name="aa5d1bddc2435eee76f493229740ecf9e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa5d1bddc2435eee76f493229740ecf9e">&#9670;&#160;</a></span>operator()()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -236,68 +165,50 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">bool AuraMunchingQueue::Execute </td>
+          <td class="memname">bool SplineHandler::operator() </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d5/d35/a00266.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a>&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
+          <td class="paramtype"><a class="el" href="../../d3/da1/a10024.html#a6fcd01e84f328619ce1a8dbbfa8143b0">Movement::MoveSpline::UpdateResult</a>&#160;</td>
+          <td class="paramname"><em>result</em></td><td>)</td>
           <td></td>
-          <td class="paramtype"><a class="el" href="../../d5/d35/a00266.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">override</span><span class="mlabel">virtual</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-
-<p>Reimplemented from <a class="el" href="../../d0/d73/a05432.html#a89297a10b64d01895332655122ed8ccb">BasicEvent</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">20321</span>    {</div>
-<div class="line"><span class="lineno">20322</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d3/d90/a08652.html#a472aaf46c2f167a10ce38267ace0b8bb">_owner</a>.<a class="code hl_function" href="../../d7/d07/a08324.html#a3aeab7def818ba6c50249f197ad2f9ca">IsInWorld</a>() &amp;&amp; <a class="code hl_variable" href="../../d3/d90/a08652.html#a472aaf46c2f167a10ce38267ace0b8bb">_owner</a>.<a class="code hl_function" href="../../d0/dac/a08356.html#a1e43fee59e696ae47ed06191ae3b1b82">FindMap</a>())</div>
-<div class="line"><span class="lineno">20323</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d9/dad/a08704.html">Unit</a>* target = <a class="code hl_function" href="../../de/d4c/a04794.html#a02c2dfb59db7d7e2501dcc9a4f9baf07">ObjectAccessor::GetUnit</a>(<a class="code hl_variable" href="../../d3/d90/a08652.html#a472aaf46c2f167a10ce38267ace0b8bb">_owner</a>, <a class="code hl_variable" href="../../d3/d90/a08652.html#a441b328296f0b7a75bdaee06d2cb94f1">_targetGUID</a>))</div>
-<div class="line"><span class="lineno">20324</span>            {</div>
-<div class="line"><span class="lineno">20325</span>                <span class="keywordtype">bool</span> auraFound = <span class="keyword">false</span>; <span class="comment">// Used to ensure _aurEff exists to avoid wild pointer access/crash</span></div>
-<div class="line"><span class="lineno">20326</span>                <a class="code hl_typedef" href="../../d9/dad/a08704.html#adcdd87d0c137619dfc869536c1315dd7">Unit::AuraEffectList</a> <span class="keyword">const</span>&amp; auraEffects = target-&gt;GetAuraEffectsByType(<a class="code hl_variable" href="../../d3/d90/a08652.html#add694e24c38d585784f236acf9118b76">_auraType</a>);</div>
-<div class="line"><span class="lineno">20327</span>                <span class="keywordflow">for</span> (Unit::AuraEffectList::const_iterator j = auraEffects.begin(); j != auraEffects.end(); ++j)</div>
-<div class="line"><span class="lineno">20328</span>                    <span class="keywordflow">if</span> ((*j) == <a class="code hl_variable" href="../../d3/d90/a08652.html#a8ac00964608170d5375242c1b19c4be3">_aurEff</a>)</div>
-<div class="line"><span class="lineno">20329</span>                        auraFound = <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">20330</span> </div>
-<div class="line"><span class="lineno">20331</span>                <span class="keywordflow">if</span> (!auraFound)</div>
-<div class="line"><span class="lineno">20332</span>                    <a class="code hl_variable" href="../../d3/d90/a08652.html#a8ac00964608170d5375242c1b19c4be3">_aurEff</a> = <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">20333</span> </div>
-<div class="line"><span class="lineno">20334</span>                <a class="code hl_variable" href="../../d3/d90/a08652.html#a472aaf46c2f167a10ce38267ace0b8bb">_owner</a>.<a class="code hl_function" href="../../d9/dad/a08704.html#a51ec81e114bf82a2485ba9f66200afd2">CastCustomSpell</a>(<a class="code hl_variable" href="../../d3/d90/a08652.html#a6674c43b906e45e2ad29100a7ff06f44">_spellId</a>, <a class="code hl_enumvalue" href="../../d3/d12/a02354.html#a4ad87b8c967acbbcb154a32bc123371bae5c19f392b2ebda372a39538fa9b592a">SPELLVALUE_BASE_POINT0</a>, <a class="code hl_variable" href="../../d3/d90/a08652.html#a9cf03046c9595e81bf119b7aacb1a81a">_basePoints</a>, target, <a class="code hl_enumeration" href="../../d3/d12/a02354.html#a9f3c49d8db7e142b86eba36bc8951967">TriggerCastFlags</a>(<a class="code hl_enumvalue" href="../../d3/d12/a02354.html#a9f3c49d8db7e142b86eba36bc8951967a10578b171eb74dc9851866cc6eb53f3a">TRIGGERED_FULL_MASK</a> &amp; ~<a class="code hl_enumvalue" href="../../d3/d12/a02354.html#a9f3c49d8db7e142b86eba36bc8951967a1e22e2a008987f157bb07b148ad32b80">TRIGGERED_NO_PERIODIC_RESET</a>), <span class="keyword">nullptr</span>, <a class="code hl_variable" href="../../d3/d90/a08652.html#a8ac00964608170d5375242c1b19c4be3">_aurEff</a>, <a class="code hl_variable" href="../../d3/d90/a08652.html#a472aaf46c2f167a10ce38267ace0b8bb">_owner</a>.<a class="code hl_function" href="../../d7/d07/a08324.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>());</div>
-<div class="line"><span class="lineno">20335</span>            }</div>
-<div class="line"><span class="lineno">20336</span> </div>
-<div class="line"><span class="lineno">20337</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">20338</span>    }</div>
-<div class="ttc" id="aa02354_html_a4ad87b8c967acbbcb154a32bc123371bae5c19f392b2ebda372a39538fa9b592a"><div class="ttname"><a href="../../d3/d12/a02354.html#a4ad87b8c967acbbcb154a32bc123371bae5c19f392b2ebda372a39538fa9b592a">SPELLVALUE_BASE_POINT0</a></div><div class="ttdeci">@ SPELLVALUE_BASE_POINT0</div><div class="ttdef"><b>Definition:</b> SpellDefines.h:113</div></div>
-<div class="ttc" id="aa02354_html_a9f3c49d8db7e142b86eba36bc8951967"><div class="ttname"><a href="../../d3/d12/a02354.html#a9f3c49d8db7e142b86eba36bc8951967">TriggerCastFlags</a></div><div class="ttdeci">TriggerCastFlags</div><div class="ttdef"><b>Definition:</b> SpellDefines.h:132</div></div>
-<div class="ttc" id="aa02354_html_a9f3c49d8db7e142b86eba36bc8951967a10578b171eb74dc9851866cc6eb53f3a"><div class="ttname"><a href="../../d3/d12/a02354.html#a9f3c49d8db7e142b86eba36bc8951967a10578b171eb74dc9851866cc6eb53f3a">TRIGGERED_FULL_MASK</a></div><div class="ttdeci">@ TRIGGERED_FULL_MASK</div><div class="ttdoc">Will return SPELL_FAILED_DONT_REPORT in CheckCast functions.</div><div class="ttdef"><b>Definition:</b> SpellDefines.h:150</div></div>
-<div class="ttc" id="aa02354_html_a9f3c49d8db7e142b86eba36bc8951967a1e22e2a008987f157bb07b148ad32b80"><div class="ttname"><a href="../../d3/d12/a02354.html#a9f3c49d8db7e142b86eba36bc8951967a1e22e2a008987f157bb07b148ad32b80">TRIGGERED_NO_PERIODIC_RESET</a></div><div class="ttdeci">@ TRIGGERED_NO_PERIODIC_RESET</div><div class="ttdoc">Will ignore equipped item requirements.</div><div class="ttdef"><b>Definition:</b> SpellDefines.h:152</div></div>
-<div class="ttc" id="aa04794_html_a02c2dfb59db7d7e2501dcc9a4f9baf07"><div class="ttname"><a href="../../de/d4c/a04794.html#a02c2dfb59db7d7e2501dcc9a4f9baf07">ObjectAccessor::GetUnit</a></div><div class="ttdeci">Unit * GetUnit(WorldObject const &amp;, ObjectGuid const guid)</div><div class="ttdef"><b>Definition:</b> ObjectAccessor.cpp:199</div></div>
-<div class="ttc" id="aa08324_html_a3aeab7def818ba6c50249f197ad2f9ca"><div class="ttname"><a href="../../d7/d07/a08324.html#a3aeab7def818ba6c50249f197ad2f9ca">Object::IsInWorld</a></div><div class="ttdeci">bool IsInWorld() const</div><div class="ttdef"><b>Definition:</b> Object.h:107</div></div>
-<div class="ttc" id="aa08324_html_ad23b997e2442fa6a6228ba73a7ecc138"><div class="ttname"><a href="../../d7/d07/a08324.html#ad23b997e2442fa6a6228ba73a7ecc138">Object::GetGUID</a></div><div class="ttdeci">static ObjectGuid GetGUID(Object const *o)</div><div class="ttdef"><b>Definition:</b> Object.h:112</div></div>
-<div class="ttc" id="aa08356_html_a1e43fee59e696ae47ed06191ae3b1b82"><div class="ttname"><a href="../../d0/dac/a08356.html#a1e43fee59e696ae47ed06191ae3b1b82">WorldObject::FindMap</a></div><div class="ttdeci">Map * FindMap() const</div><div class="ttdef"><b>Definition:</b> Object.h:537</div></div>
-<div class="ttc" id="aa08704_html"><div class="ttname"><a href="../../d9/dad/a08704.html">Unit</a></div><div class="ttdef"><b>Definition:</b> Unit.h:636</div></div>
-<div class="ttc" id="aa08704_html_a51ec81e114bf82a2485ba9f66200afd2"><div class="ttname"><a href="../../d9/dad/a08704.html#a51ec81e114bf82a2485ba9f66200afd2">Unit::CastCustomSpell</a></div><div class="ttdeci">SpellCastResult CastCustomSpell(Unit *victim, uint32 spellId, int32 const *bp0, int32 const *bp1, int32 const *bp2, bool triggered, Item *castItem=nullptr, AuraEffect const *triggeredByAura=nullptr, ObjectGuid originalCaster=ObjectGuid::Empty)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:1235</div></div>
-<div class="ttc" id="aa08704_html_adcdd87d0c137619dfc869536c1315dd7"><div class="ttname"><a href="../../d9/dad/a08704.html#adcdd87d0c137619dfc869536c1315dd7">Unit::AuraEffectList</a></div><div class="ttdeci">std::list&lt; AuraEffect * &gt; AuraEffectList</div><div class="ttdef"><b>Definition:</b> Unit.h:652</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  560</span>    {</div>
+<div class="line"><span class="lineno">  561</span>        <span class="keywordflow">if</span> ((result &amp; (<a class="code hl_enumvalue" href="../../d3/da1/a10024.html#a6fcd01e84f328619ce1a8dbbfa8143b0a244200f419a7c14f70802729ec974b4f">Movement::MoveSpline::Result_NextSegment</a> | <a class="code hl_enumvalue" href="../../d3/da1/a10024.html#a6fcd01e84f328619ce1a8dbbfa8143b0a4d7f3b20644036bb1cfee9adc8866304">Movement::MoveSpline::Result_JustArrived</a>)) &amp;&amp;</div>
+<div class="line"><span class="lineno">  562</span>                <a class="code hl_variable" href="../../d3/d90/a08652.html#aaafb07271736d8bc89d07aafbbae7f25">_unit</a>-&gt;<a class="code hl_function" href="../../da/d1c/a08336.html#aacc8ee332f66effdc0d77c126dae1961">IsCreature</a>() &amp;&amp; <a class="code hl_variable" href="../../d3/d90/a08652.html#aaafb07271736d8bc89d07aafbbae7f25">_unit</a>-&gt;<a class="code hl_function" href="../../d8/dc0/a08716.html#a4a04a3f22c3b0d6f4933993ac0cc7aa4">GetMotionMaster</a>()-&gt;<a class="code hl_function" href="../../d6/dc0/a09892.html#a41e9fbf11fd1a17752bf68a4a14cc8e5">GetCurrentMovementGeneratorType</a>() == <a class="code hl_enumvalue" href="../../d7/df2/a03986.html#a4f12806b915efea564eae942207002f9a61498726a0e9657284d8fb8b173cf4bf">ESCORT_MOTION_TYPE</a> &amp;&amp;</div>
+<div class="line"><span class="lineno">  563</span>                <a class="code hl_variable" href="../../d3/d90/a08652.html#aaafb07271736d8bc89d07aafbbae7f25">_unit</a>-&gt;<a class="code hl_variable" href="../../d8/dc0/a08716.html#a1805acabea4c9a75ad7c0bcab734f627">movespline</a>-&gt;<a class="code hl_function" href="../../d3/da1/a10024.html#a397cd76f394503b4460e746c7cfb2603">GetId</a>() == <a class="code hl_variable" href="../../d3/d90/a08652.html#aaafb07271736d8bc89d07aafbbae7f25">_unit</a>-&gt;<a class="code hl_function" href="../../d8/dc0/a08716.html#a4a04a3f22c3b0d6f4933993ac0cc7aa4">GetMotionMaster</a>()-&gt;<a class="code hl_function" href="../../d6/dc0/a09892.html#a9eb7fc79ad37c39f46f87a9298df0e94">GetCurrentSplineId</a>())</div>
+<div class="line"><span class="lineno">  564</span>        {</div>
+<div class="line"><span class="lineno">  565</span>            <a class="code hl_variable" href="../../d3/d90/a08652.html#aaafb07271736d8bc89d07aafbbae7f25">_unit</a>-&gt;<a class="code hl_function" href="../../da/d1c/a08336.html#ab0e2ef1ac1daa91476f749e0ec6ad3c6">ToCreature</a>()-&gt;<a class="code hl_function" href="../../d6/dfb/a07964.html#af2188eef9620b5af52ef2d3ac142db67">AI</a>()-&gt;<a class="code hl_function" href="../../d6/db5/a06140.html#ab0438b14dc1d7f038221d9d7a2f37043">MovementInform</a>(<a class="code hl_enumvalue" href="../../d7/df2/a03986.html#a4f12806b915efea564eae942207002f9a61498726a0e9657284d8fb8b173cf4bf">ESCORT_MOTION_TYPE</a>, <a class="code hl_variable" href="../../d3/d90/a08652.html#aaafb07271736d8bc89d07aafbbae7f25">_unit</a>-&gt;<a class="code hl_variable" href="../../d8/dc0/a08716.html#a1805acabea4c9a75ad7c0bcab734f627">movespline</a>-&gt;<a class="code hl_function" href="../../d3/da1/a10024.html#a76e1f096005cddf6d43fea86b4bd4a88">currentPathIdx</a>() - 1);</div>
+<div class="line"><span class="lineno">  566</span>        }</div>
+<div class="line"><span class="lineno">  567</span> </div>
+<div class="line"><span class="lineno">  568</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  569</span>    }</div>
+<div class="ttc" id="aa03986_html_a4f12806b915efea564eae942207002f9a61498726a0e9657284d8fb8b173cf4bf"><div class="ttname"><a href="../../d7/df2/a03986.html#a4f12806b915efea564eae942207002f9a61498726a0e9657284d8fb8b173cf4bf">ESCORT_MOTION_TYPE</a></div><div class="ttdeci">@ ESCORT_MOTION_TYPE</div><div class="ttdef"><b>Definition:</b> MotionMaster.h:57</div></div>
+<div class="ttc" id="aa06140_html_ab0438b14dc1d7f038221d9d7a2f37043"><div class="ttname"><a href="../../d6/db5/a06140.html#ab0438b14dc1d7f038221d9d7a2f37043">CreatureAI::MovementInform</a></div><div class="ttdeci">virtual void MovementInform(uint32, uint32)</div><div class="ttdef"><b>Definition:</b> CreatureAI.h:157</div></div>
+<div class="ttc" id="aa07964_html_af2188eef9620b5af52ef2d3ac142db67"><div class="ttname"><a href="../../d6/dfb/a07964.html#af2188eef9620b5af52ef2d3ac142db67">Creature::AI</a></div><div class="ttdeci">CreatureAI * AI() const</div><div class="ttdef"><b>Definition:</b> Creature.h:141</div></div>
+<div class="ttc" id="aa08336_html_aacc8ee332f66effdc0d77c126dae1961"><div class="ttname"><a href="../../da/d1c/a08336.html#aacc8ee332f66effdc0d77c126dae1961">Object::IsCreature</a></div><div class="ttdeci">bool IsCreature() const</div><div class="ttdef"><b>Definition:</b> Object.h:204</div></div>
+<div class="ttc" id="aa08336_html_ab0e2ef1ac1daa91476f749e0ec6ad3c6"><div class="ttname"><a href="../../da/d1c/a08336.html#ab0e2ef1ac1daa91476f749e0ec6ad3c6">Object::ToCreature</a></div><div class="ttdeci">Creature * ToCreature()</div><div class="ttdef"><b>Definition:</b> Object.h:205</div></div>
+<div class="ttc" id="aa08716_html_a1805acabea4c9a75ad7c0bcab734f627"><div class="ttname"><a href="../../d8/dc0/a08716.html#a1805acabea4c9a75ad7c0bcab734f627">Unit::movespline</a></div><div class="ttdeci">Movement::MoveSpline * movespline</div><div class="ttdef"><b>Definition:</b> Unit.h:2029</div></div>
+<div class="ttc" id="aa08716_html_a4a04a3f22c3b0d6f4933993ac0cc7aa4"><div class="ttname"><a href="../../d8/dc0/a08716.html#a4a04a3f22c3b0d6f4933993ac0cc7aa4">Unit::GetMotionMaster</a></div><div class="ttdeci">MotionMaster * GetMotionMaster()</div><div class="ttdef"><b>Definition:</b> Unit.h:1673</div></div>
+<div class="ttc" id="aa09892_html_a41e9fbf11fd1a17752bf68a4a14cc8e5"><div class="ttname"><a href="../../d6/dc0/a09892.html#a41e9fbf11fd1a17752bf68a4a14cc8e5">MotionMaster::GetCurrentMovementGeneratorType</a></div><div class="ttdeci">MovementGeneratorType GetCurrentMovementGeneratorType() const</div><div class="ttdef"><b>Definition:</b> MotionMaster.cpp:913</div></div>
+<div class="ttc" id="aa09892_html_a9eb7fc79ad37c39f46f87a9298df0e94"><div class="ttname"><a href="../../d6/dc0/a09892.html#a9eb7fc79ad37c39f46f87a9298df0e94">MotionMaster::GetCurrentSplineId</a></div><div class="ttdeci">uint32 GetCurrentSplineId() const</div><div class="ttdef"><b>Definition:</b> MotionMaster.cpp:930</div></div>
+<div class="ttc" id="aa10024_html_a397cd76f394503b4460e746c7cfb2603"><div class="ttname"><a href="../../d3/da1/a10024.html#a397cd76f394503b4460e746c7cfb2603">Movement::MoveSpline::GetId</a></div><div class="ttdeci">uint32 GetId() const</div><div class="ttdef"><b>Definition:</b> MoveSpline.h:115</div></div>
+<div class="ttc" id="aa10024_html_a6fcd01e84f328619ce1a8dbbfa8143b0a244200f419a7c14f70802729ec974b4f"><div class="ttname"><a href="../../d3/da1/a10024.html#a6fcd01e84f328619ce1a8dbbfa8143b0a244200f419a7c14f70802729ec974b4f">Movement::MoveSpline::Result_NextSegment</a></div><div class="ttdeci">@ Result_NextSegment</div><div class="ttdef"><b>Definition:</b> MoveSpline.h:48</div></div>
+<div class="ttc" id="aa10024_html_a6fcd01e84f328619ce1a8dbbfa8143b0a4d7f3b20644036bb1cfee9adc8866304"><div class="ttname"><a href="../../d3/da1/a10024.html#a6fcd01e84f328619ce1a8dbbfa8143b0a4d7f3b20644036bb1cfee9adc8866304">Movement::MoveSpline::Result_JustArrived</a></div><div class="ttdeci">@ Result_JustArrived</div><div class="ttdef"><b>Definition:</b> MoveSpline.h:49</div></div>
+<div class="ttc" id="aa10024_html_a76e1f096005cddf6d43fea86b4bd4a88"><div class="ttname"><a href="../../d3/da1/a10024.html#a76e1f096005cddf6d43fea86b4bd4a88">Movement::MoveSpline::currentPathIdx</a></div><div class="ttdeci">int32 currentPathIdx() const</div><div class="ttdef"><b>Definition:</b> MoveSpline.cpp:317</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l20346">_auraType</a>, <a class="el" href="../../#l20345">_aurEff</a>, <a class="el" href="../../#l20343">_basePoints</a>, <a class="el" href="../../#l20341">_owner</a>, <a class="el" href="../../#l20344">_spellId</a>, <a class="el" href="../../#l20342">_targetGUID</a>, <a class="el" href="../../#l01235">Unit::CastCustomSpell()</a>, <a class="el" href="../../#l00537">WorldObject::FindMap()</a>, <a class="el" href="../../#l00112">Object::GetGUID()</a>, <a class="el" href="../../#l00199">ObjectAccessor::GetUnit()</a>, <a class="el" href="../../#l00107">Object::IsInWorld()</a>, <a class="el" href="../../#l00113">SPELLVALUE_BASE_POINT0</a>, <a class="el" href="../../#l00150">TRIGGERED_FULL_MASK</a>, and <a class="el" href="../../#l00152">TRIGGERED_NO_PERIODIC_RESET</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00572">_unit</a>, <a class="el" href="../../#l00141">Creature::AI()</a>, <a class="el" href="../../#l00317">Movement::MoveSpline::currentPathIdx()</a>, <a class="el" href="../../#l00057">ESCORT_MOTION_TYPE</a>, <a class="el" href="../../#l00913">MotionMaster::GetCurrentMovementGeneratorType()</a>, <a class="el" href="../../#l00930">MotionMaster::GetCurrentSplineId()</a>, <a class="el" href="../../#l00115">Movement::MoveSpline::GetId()</a>, <a class="el" href="../../#l01673">Unit::GetMotionMaster()</a>, <a class="el" href="../../#l00204">Object::IsCreature()</a>, <a class="el" href="../../#l00157">CreatureAI::MovementInform()</a>, <a class="el" href="../../#l02029">Unit::movespline</a>, <a class="el" href="../../#l00049">Movement::MoveSpline::Result_JustArrived</a>, <a class="el" href="../../#l00048">Movement::MoveSpline::Result_NextSegment</a>, and <a class="el" href="../../#l00205">Object::ToCreature()</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="add694e24c38d585784f236acf9118b76" name="add694e24c38d585784f236acf9118b76"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#add694e24c38d585784f236acf9118b76">&#9670;&#160;</a></span>_auraType</h2>
+<a id="aaafb07271736d8bc89d07aafbbae7f25" name="aaafb07271736d8bc89d07aafbbae7f25"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aaafb07271736d8bc89d07aafbbae7f25">&#9670;&#160;</a></span>_unit</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -306,7 +217,7 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d7/d1a/a02381.html#a538cdc259460b365f406fe0b3a981799">AuraType</a> AuraMunchingQueue::_auraType</td>
+          <td class="memname"><a class="el" href="../../d8/dc0/a08716.html">Unit</a>* SplineHandler::_unit</td>
         </tr>
       </table>
   </td>
@@ -316,127 +227,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l20320">Execute()</a>.</p>
-
-</div>
-</div>
-<a id="a8ac00964608170d5375242c1b19c4be3" name="a8ac00964608170d5375242c1b19c4be3"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8ac00964608170d5375242c1b19c4be3">&#9670;&#160;</a></span>_aurEff</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d4/d70/a11000.html">AuraEffect</a>* AuraMunchingQueue::_aurEff</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l20320">Execute()</a>.</p>
-
-</div>
-</div>
-<a id="a9cf03046c9595e81bf119b7aacb1a81a" name="a9cf03046c9595e81bf119b7aacb1a81a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a9cf03046c9595e81bf119b7aacb1a81a">&#9670;&#160;</a></span>_basePoints</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d5/d35/a00266.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> AuraMunchingQueue::_basePoints</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l20320">Execute()</a>.</p>
-
-</div>
-</div>
-<a id="a472aaf46c2f167a10ce38267ace0b8bb" name="a472aaf46c2f167a10ce38267ace0b8bb"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a472aaf46c2f167a10ce38267ace0b8bb">&#9670;&#160;</a></span>_owner</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d9/dad/a08704.html">Unit</a>&amp; AuraMunchingQueue::_owner</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l20320">Execute()</a>.</p>
-
-</div>
-</div>
-<a id="a6674c43b906e45e2ad29100a7ff06f44" name="a6674c43b906e45e2ad29100a7ff06f44"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a6674c43b906e45e2ad29100a7ff06f44">&#9670;&#160;</a></span>_spellId</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d5/d35/a00266.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> AuraMunchingQueue::_spellId</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l20320">Execute()</a>.</p>
-
-</div>
-</div>
-<a id="a441b328296f0b7a75bdaee06d2cb94f1" name="a441b328296f0b7a75bdaee06d2cb94f1"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a441b328296f0b7a75bdaee06d2cb94f1">&#9670;&#160;</a></span>_targetGUID</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d5/d95/a08372.html">ObjectGuid</a> AuraMunchingQueue::_targetGUID</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l20320">Execute()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00559">operator()()</a>.</p>
 
 </div>
 </div>
@@ -445,8 +236,8 @@ Private Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d3/d90/a08652.html">AuraMunchingQueue</a></li>
-    <li class="footer">Generated on Mon Mar 3 2025 20:44:58 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d3/d90/a08652.html">SplineHandler</a></li>
+    <li class="footer">Generated on Mon Apr 28 2025 20:45:26 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

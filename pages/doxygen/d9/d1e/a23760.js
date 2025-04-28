@@ -1,7 +1,6 @@
 var a23760 =
 [
-    [ "HandleDamage", "d9/d1e/a23760.html#add7e78111217d00bfa3dfa5b3eb490f9", null ],
-    [ "HandleTargets", "d9/d1e/a23760.html#ac9e455d4ef5cc7b7ce424b70b4387c78", null ],
-    [ "PrepareSpellScript", "d9/d1e/a23760.html#a46b62a09ea23cb102b0e5cf075c727d4", null ],
-    [ "Register", "d9/d1e/a23760.html#a8873614ae22c908cb2cf49129fc53be2", null ]
+    [ "HandlePeriodic", "d9/d1e/a23760.html#a0a6da7aad8b7fcc92092f7a3c5bc0768", null ],
+    [ "PrepareAuraScript", "d9/d1e/a23760.html#a75d72d196ded2ee109d0231d4342890a", null ],
+    [ "Register", "d9/d1e/a23760.html#a148013ea68bbc573bddc1c3639dba019", null ]
 ];

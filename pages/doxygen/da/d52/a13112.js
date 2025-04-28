@@ -1,6 +1,6 @@
 var a13112 =
 [
-    [ "HandleSendEvent", "da/d52/a13112.html#ad245a7dcf129774b8ef3e3653b3e3026", null ],
-    [ "PrepareSpellScript", "da/d52/a13112.html#ad9dfe5b2702540eb119ec86cfbd0ff30", null ],
-    [ "Register", "da/d52/a13112.html#a0b5ac8cfc4eb4adadb653a81a59a8287", null ]
+    [ "instance_stratholme_InstanceMapScript", "d6/d8e/a13116.html", "d6/d8e/a13116" ],
+    [ "instance_stratholme", "da/d52/a13112.html#a42ac504b2790af8c37a44e87fbd9c6c1", null ],
+    [ "GetInstanceScript", "da/d52/a13112.html#a3d3d2e773029dd1c4bc1a59a94c4e015", null ]
 ];

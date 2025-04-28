@@ -1,6 +1,6 @@
 var a21628 =
 [
-    [ "npc_heated_battleAI", "d8/d69/a21632.html", "d8/d69/a21632" ],
-    [ "npc_heated_battle", "d3/df3/a21628.html#aceafde04a60940c1027a6e838ffdc137", null ],
-    [ "GetAI", "d3/df3/a21628.html#af73fc1f330bf2fd224e53be39da1c9d3", null ]
+    [ "npc_conversing_with_the_depths_triggerAI", "d8/d69/a21632.html", "d8/d69/a21632" ],
+    [ "npc_conversing_with_the_depths_trigger", "d3/df3/a21628.html#a55ba213da86650d44ea1493b26fdb7f2", null ],
+    [ "GetAI", "d3/df3/a21628.html#a61c337bfe1efb3589cf0df91d9082236", null ]
 ];

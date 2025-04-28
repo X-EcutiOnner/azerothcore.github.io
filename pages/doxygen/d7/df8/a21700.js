@@ -1,6 +1,7 @@
 var a21700 =
 [
-    [ "npc_spiritual_insightAI", "d2/d15/a21704.html", "d2/d15/a21704" ],
-    [ "npc_spiritual_insight", "d7/df8/a21700.html#afe7b9d5953462719407f03b33b8de564", null ],
-    [ "GetAI", "d7/df8/a21700.html#ab2884e1160ccad9adb8e3ae69db55bc4", null ]
+    [ "HandleApplyEffect", "d7/df8/a21700.html#aab7bd30368c51a6a209f6cad5a93ba79", null ],
+    [ "HandleRemoveEffect", "d7/df8/a21700.html#a243933fec9ccd650303ea5badbea725b", null ],
+    [ "PrepareAuraScript", "d7/df8/a21700.html#ac0e1fc0694dd51e245340d3658592447", null ],
+    [ "Register", "d7/df8/a21700.html#a0f6e6c6892d56a6fceb927f68c734bde", null ]
 ];

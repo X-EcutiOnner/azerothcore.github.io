@@ -1,6 +1,7 @@
 var a00521 =
 [
-    [ "instance_deadmines", "d7/dc9/a12468.html", "d7/dc9/a12468" ],
-    [ "instance_deadmines::instance_deadmines_InstanceMapScript", "d2/d6d/a12472.html", "d2/d6d/a12472" ],
-    [ "AddSC_instance_deadmines", "d7/def/a00521.html#a5c92c13d577422c37a1de0e3b5b4a020", null ]
+    [ "FieldTypeToString", "d7/def/a00521.html#a9b1d39b7abfe176191c0ed27188ed310", null ],
+    [ "InitializeDatabaseFieldMetadata", "d7/def/a00521.html#a5e0e57902060d1fcd32688acb949b98e", null ],
+    [ "MysqlTypeToFieldType", "d7/def/a00521.html#a1a26932646b97d033efdf53078561a90", null ],
+    [ "SizeForType", "d7/def/a00521.html#ae077e892df09ce687a0a50be949ad69f", null ]
 ];

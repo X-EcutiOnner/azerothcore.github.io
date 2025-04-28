@@ -1,6 +1,7 @@
 var a15536 =
 [
-    [ "HandleDummy", "d0/db9/a15536.html#a2750ae788168e7496ea2345c5535509c", null ],
-    [ "PrepareSpellScript", "d0/db9/a15536.html#a66b4187decbfb0b5623ce5630a8fa9d3", null ],
-    [ "Register", "d0/db9/a15536.html#ab6c961d89d22761402eb4f5881cbd318", null ]
+    [ "npc_giltharesAI", "d0/db9/a15536.html#af22e42b2180987febd964784b6d49b5e", null ],
+    [ "JustEngagedWith", "d0/db9/a15536.html#ae9ba65652db3d2d32920d1a98594727a", null ],
+    [ "Reset", "d0/db9/a15536.html#a34d57ef71b60fe71c749f790cecf70b2", null ],
+    [ "WaypointReached", "d0/db9/a15536.html#a9308c73760e50e0f3d04031b508526d1", null ]
 ];

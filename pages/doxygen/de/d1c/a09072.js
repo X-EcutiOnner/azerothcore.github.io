@@ -1,12 +1,14 @@
 var a09072 =
 [
-    [ "flags", "de/d1c/a09072.html#ab1c2612a57fcfce78e10de45dfc1c28d", null ],
-    [ "fourcc", "de/d1c/a09072.html#a5e7b1d32e42afbeb6898ee02014847cd", null ],
-    [ "height", "de/d1c/a09072.html#ab064dde684394c3aa84f9b151749d524", null ],
-    [ "liquidFlags", "de/d1c/a09072.html#a90f22c454f03ecee6aa1b9f9392e10a0", null ],
-    [ "liquidLevel", "de/d1c/a09072.html#ae4f34f9b8139b18416862bcd413f4aaa", null ],
-    [ "liquidType", "de/d1c/a09072.html#ab2ce1920efaec0a4fc0a81df9d6539e3", null ],
-    [ "offsetX", "de/d1c/a09072.html#a2ddee980eda8b7321b55ba44697688b5", null ],
-    [ "offsetY", "de/d1c/a09072.html#abc57f9e6c2f9fae58f575d8e1309f420", null ],
-    [ "width", "de/d1c/a09072.html#aabcbad9f4c0cae9d2e1b015a93f2a0ed", null ]
+    [ "areaMapOffset", "de/d1c/a09072.html#a70f82337112bb8cbff0b3344666885a1", null ],
+    [ "areaMapSize", "de/d1c/a09072.html#adfbbb622974b7942f47dd16d2300246f", null ],
+    [ "buildMagic", "de/d1c/a09072.html#a82d0f500f9e84cf6c8bf917a98f92115", null ],
+    [ "heightMapOffset", "de/d1c/a09072.html#a7623bee6b8cf7d6e39b8716aa72f8514", null ],
+    [ "heightMapSize", "de/d1c/a09072.html#a71c9cd42801697a927543e3acd4c3daf", null ],
+    [ "holesOffset", "de/d1c/a09072.html#a876d70dcd6ccec9ad09de77718c02150", null ],
+    [ "holesSize", "de/d1c/a09072.html#a3c3cc1895a47dc69265f4b58166c3f6b", null ],
+    [ "liquidMapOffset", "de/d1c/a09072.html#ac62deafcc7b435caf4a0f6aafd3d85be", null ],
+    [ "liquidMapSize", "de/d1c/a09072.html#a5aa18af3a8e029e8842ddf72fc5d5267", null ],
+    [ "mapMagic", "de/d1c/a09072.html#a2691fbc981b2ed5e1d748cd9c0859548", null ],
+    [ "versionMagic", "de/d1c/a09072.html#abe722f653ba057fbba84401acbaffbfa", null ]
 ];

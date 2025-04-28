@@ -1,13 +1,11 @@
 var a07508 =
 [
-    [ "InvokerEntry", "d9/d3b/a07512.html", "d9/d3b/a07512" ],
-    [ "SubCommandEntry", "da/d51/a07508.html#a9a01b487be01e84573f7ebe99620541b", null ],
-    [ "ChatCommandBuilder", "da/d51/a07508.html#a894f6ae19d715d9d3f395736bf7cdb41", null ],
-    [ "ChatCommandBuilder", "da/d51/a07508.html#ad9b8a40b28eb5944512b6f3033b3a933", null ],
-    [ "ChatCommandBuilder", "da/d51/a07508.html#a4edc4cebdd26b55c0912b8ae0ed5fbaa", null ],
-    [ "ChatCommandBuilder", "da/d51/a07508.html#ac2c8cc88865de637f322b54bf6a47e13", null ],
-    [ "ChatCommandBuilder", "da/d51/a07508.html#a9ecbebaa3c839f57a90dcccca1473913", null ],
-    [ "Acore::Impl::ChatCommands::ChatCommandNode", "da/d51/a07508.html#a3b9ea3963b82697cbe5d6ca86ff29847", null ],
-    [ "_data", "da/d51/a07508.html#aff0a8c833c04f98abf46aaba4fbf9374", null ],
-    [ "_name", "da/d51/a07508.html#a4315363c5d25bb157481cbbd3fa0286f", null ]
+    [ "wrapper_func", "da/d51/a07508.html#a4ebb895343c2cfae053a605aafe0e461", null ],
+    [ "CommandInvoker", "da/d51/a07508.html#a6541779cccd36a87d65acc1b6a9725e2", null ],
+    [ "CommandInvoker", "da/d51/a07508.html#ad941d54b994fbfe0f572348d18a790be", null ],
+    [ "CommandInvoker", "da/d51/a07508.html#a6b693468375cc6b92870194e10eb4140", null ],
+    [ "operator bool", "da/d51/a07508.html#aa00bfcf3938781f5e454f7acddb12e7e", null ],
+    [ "operator()", "da/d51/a07508.html#a611756a2205ffb2bccabb53929a4644b", null ],
+    [ "_handler", "da/d51/a07508.html#af9bece7be346ed85c5b45cc07c7b176a", null ],
+    [ "_wrapper", "da/d51/a07508.html#a1605d492889200f2d18d6759882913aa", null ]
 ];

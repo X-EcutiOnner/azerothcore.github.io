@@ -1,6 +1,7 @@
 var a10340 =
 [
-    [ "WeatherScript", "d1/dac/a10340.html#a4f86b051364c95f5389d7ed473429b7b", null ],
-    [ "IsDatabaseBound", "d1/dac/a10340.html#a2547902149ce080711ccacb709b10e8a", null ],
-    [ "OnChange", "d1/dac/a10340.html#a10c105f1e1bff1e9fe484e98b00cf76c", null ]
+    [ "SpellScriptLoader", "d1/dac/a10340.html#a0ae97b8f3cf24f46b98a121d35bdeadf", null ],
+    [ "GetAuraScript", "d1/dac/a10340.html#a9c60850e39ffe3d151a128b12777859d", null ],
+    [ "GetSpellScript", "d1/dac/a10340.html#a6f3a101a0517ba1440399809cf7f5b5b", null ],
+    [ "IsDatabaseBound", "d1/dac/a10340.html#ae60bf9957b950c7f5c9927f71510dc06", null ]
 ];

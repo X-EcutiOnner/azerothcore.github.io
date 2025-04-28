@@ -1,10 +1,6 @@
 var a24548 =
 [
-    [ "CalculateAPAmount", "d9/d1b/a24548.html#af1d4558f6132d3c2abc71ec1dabee2e8", null ],
-    [ "CalculateResistanceAmount", "d9/d1b/a24548.html#a5d6e7b92f4335176388a877e72c0e92c", null ],
-    [ "CalculateSPAmount", "d9/d1b/a24548.html#a40c96996d19b9f7eeed3fda4271b9f87", null ],
-    [ "CalculateStatAmount", "d9/d1b/a24548.html#ae4f96de2c558a4b0fd7659442aa3d92b", null ],
-    [ "HandleEffectApply", "d9/d1b/a24548.html#aeebb14424a6ae336edd4b66d824d648a", null ],
-    [ "PrepareAuraScript", "d9/d1b/a24548.html#a7e3dc351574f6d6ad3424eb7df7092df", null ],
-    [ "Register", "d9/d1b/a24548.html#ab5713a34ced4d2e2a67b43e98d7a55c0", null ]
+    [ "RaiseDeadCheck", "d9/d1b/a24548.html#abc6439e5b457f2f6e832f504167a392d", null ],
+    [ "operator()", "d9/d1b/a24548.html#a9647e6afd21e7397f05349e66bea4326", null ],
+    [ "_caster", "d9/d1b/a24548.html#a7b1647934c5e64de65d38b9fba2d343a", null ]
 ];

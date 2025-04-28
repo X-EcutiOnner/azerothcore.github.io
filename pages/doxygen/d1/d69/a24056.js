@@ -1,6 +1,7 @@
 var a24056 =
 [
-    [ "npc_torloth_the_magnificentAI", "d6/d94/a24060.html", "d6/d94/a24060" ],
-    [ "npc_torloth_the_magnificent", "d1/d69/a24056.html#a252796a19dcebe210eecb4d9ae150e5d", null ],
-    [ "GetAI", "d1/d69/a24056.html#a94c206fb75cc6f50c6127908b5b5205f", null ]
+    [ "HandleEffectApply", "d1/d69/a24056.html#a362b5b818ab0029956fd22bd10b4b9ac", null ],
+    [ "HandleEffectRemove", "d1/d69/a24056.html#a96769390468dc132df62b5a0ec3a2da4", null ],
+    [ "PrepareAuraScript", "d1/d69/a24056.html#a7bad0d577281829e60c0fb577d6a7d6e", null ],
+    [ "Register", "d1/d69/a24056.html#a95905ec163c42463314a5f5bb023b4d6", null ]
 ];

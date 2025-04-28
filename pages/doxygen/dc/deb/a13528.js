@@ -1,9 +1,7 @@
 var a13528 =
 [
-    [ "npc_marzon_silent_bladeAI", "dc/deb/a13528.html#a9f29c3b56e26421dabc2c95b8cd0407e", null ],
-    [ "EnterEvadeMode", "dc/deb/a13528.html#a0b42596550d045f5ca0096ceee80c0ac", null ],
-    [ "JustEngagedWith", "dc/deb/a13528.html#a116b3458f342811e378713e6a67f76a6", null ],
-    [ "MovementInform", "dc/deb/a13528.html#a32201d45f0c19212becb6319a48366f8", null ],
-    [ "Reset", "dc/deb/a13528.html#a51c2b16c767ce2922564dc9e4048e089", null ],
-    [ "UpdateAI", "dc/deb/a13528.html#aa6686399b41d32429d530dcc2ec41185", null ]
+    [ "npc_greengill_slaveAI", "dc/deb/a13528.html#a1a4268b745e63992f4d0fc2028b717aa", null ],
+    [ "JustEngagedWith", "dc/deb/a13528.html#ad7fcb8c711782d3a76e9e4566334fc21", null ],
+    [ "SpellHit", "dc/deb/a13528.html#a0e75a3e8eb3503fdb3aea12e65ccc6e4", null ],
+    [ "UpdateAI", "dc/deb/a13528.html#a6fa27328cf47bef81c3465b8a3e2ace1", null ]
 ];

@@ -1,8 +1,9 @@
 var a09728 =
 [
-    [ "BoundaryUnionBoundary", "db/dca/a09728.html#a074536112fffc805dec44bd9cd602642", null ],
-    [ "~BoundaryUnionBoundary", "db/dca/a09728.html#a96450fc020bfad7b9f1f7be64490ad46", null ],
-    [ "IsWithinBoundaryArea", "db/dca/a09728.html#a8dc91861fa6641008236e5a83030e0d1", null ],
-    [ "_b1", "db/dca/a09728.html#a40fcd847f38703dfe5174267fbfd81ee", null ],
-    [ "_b2", "db/dca/a09728.html#ae70530673803bd2ee85bf722fe42718b", null ]
+    [ "RectangleBoundary", "db/dca/a09728.html#af401f84700a15fa1d4fcf78358a74735", null ],
+    [ "IsWithinBoundaryArea", "db/dca/a09728.html#a2d6c735d080382263a401d91da37b934", null ],
+    [ "_maxX", "db/dca/a09728.html#a3eff421dfe942634814e7526334f1c07", null ],
+    [ "_maxY", "db/dca/a09728.html#a9ec96dfb6b1ee804cceaae2f2dce6a22", null ],
+    [ "_minX", "db/dca/a09728.html#a77db64ebe7e7f5e9621bbbd6e38837e1", null ],
+    [ "_minY", "db/dca/a09728.html#af5a7e35d5d9ff23c722643141f01a916", null ]
 ];

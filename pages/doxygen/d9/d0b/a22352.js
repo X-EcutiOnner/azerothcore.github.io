@@ -1,5 +1,6 @@
 var a22352 =
 [
-    [ "OutdoorPvP_grizzly_hills", "d9/d0b/a22352.html#aa020d8120c62874fb15b4623bbb714d9", null ],
-    [ "GetOutdoorPvP", "d9/d0b/a22352.html#add8a0c81bcc55c7b382c25fa077b80ce", null ]
+    [ "npc_captured_rageclawAI", "d0/d28/a22356.html", "d0/d28/a22356" ],
+    [ "npc_captured_rageclaw", "d9/d0b/a22352.html#ad49176279e9d16a6a24c0649c576c0be", null ],
+    [ "GetAI", "d9/d0b/a22352.html#aa39b6c518fe22d91b8673cfd576866a4", null ]
 ];

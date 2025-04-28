@@ -1,9 +1,11 @@
 var a22888 =
 [
-    [ "HandleEffectApply", "dd/d3f/a22888.html#aca8ff864832d30e45bccfca12256560a", null ],
-    [ "HandleEffectRemove", "dd/d3f/a22888.html#a2e16e86ce6e3231cf3fabc1d5bb1a6e7", null ],
-    [ "Load", "dd/d3f/a22888.html#a3b9838f26673ce344ca40f9f487ef878", null ],
-    [ "PrepareAuraScript", "dd/d3f/a22888.html#a79b93c86a01d31d08cba15436856b794", null ],
-    [ "Register", "dd/d3f/a22888.html#aa6c04279944abd31c42bb5dc4319aaf2", null ],
-    [ "_turtleSet", "dd/d3f/a22888.html#a308b9e032576ae058e9f2469dcc8ff23", null ]
+    [ "boss_supremus", "dd/d3f/a22888.html#af1f094534b0e2dec70422839a02327cd", null ],
+    [ "CheckEvadeIfOutOfCombatArea", "dd/d3f/a22888.html#a2654bf5b1d5b6da723d4968219e069a9", null ],
+    [ "FindHatefulStrikeTarget", "dd/d3f/a22888.html#af560466902d0d372662020e1a67b627c", null ],
+    [ "JustEngagedWith", "dd/d3f/a22888.html#a7d3a5e2c183db7639a7c25f309359ed1", null ],
+    [ "JustSummoned", "dd/d3f/a22888.html#a7265a01fa79213ab6d8b82a4c92b7661", null ],
+    [ "Reset", "dd/d3f/a22888.html#a0eaa29849a2571417d4826d238d72e25", null ],
+    [ "SchedulePhase", "dd/d3f/a22888.html#a87e3943d6c645138853aa97644f9df0e", null ],
+    [ "SummonedCreatureDespawn", "dd/d3f/a22888.html#a2ae72bfef577654e676a64eb2e4efa7a", null ]
 ];

@@ -1,7 +1,6 @@
 var a14664 =
 [
-    [ "npc_tarethaAI", "df/d5a/a14668.html", "df/d5a/a14668" ],
-    [ "npc_taretha", "dd/dfc/a14664.html#a54379e06518ff972e91e25e295731f5a", null ],
-    [ "GetAI", "dd/dfc/a14664.html#a5045bb7119b12800ee0053818fcae5fe", null ],
-    [ "OnGossipHello", "dd/dfc/a14664.html#ac689e97b3fd54e9c9e40ed5b9aeca099", null ]
+    [ "npc_cos_chromie_start", "dd/dfc/a14664.html#ae8f810af1e593ad16958049f6ad19616", null ],
+    [ "OnGossipSelect", "dd/dfc/a14664.html#a35cba5a1b7865b07a4e843648cea50c8", null ],
+    [ "OnQuestAccept", "dd/dfc/a14664.html#aa730cb17e6cfe917bc32f7e7ae52e8ef", null ]
 ];

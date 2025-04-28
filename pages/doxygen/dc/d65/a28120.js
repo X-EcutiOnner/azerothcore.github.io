@@ -1,5 +1,7 @@
 var a28120 =
 [
-    [ "Exp", "dc/d65/a28120.html#aa34490babd6ccdc45857947db3f36d60", null ],
-    [ "id", "dc/d65/a28120.html#abe177efe7ea9d1d1ae8e7d09655c7193", null ]
+    [ "AllocationPct", "dc/d65/a28120.html#a45d752dfd00a75f69d919a88573ba4fc", null ],
+    [ "Enchantment", "dc/d65/a28120.html#a45e694082c1dbdeef5229561f617d584", null ],
+    [ "ID", "dc/d65/a28120.html#a66d78860d81c497765b5e68b5fd2ae18", null ],
+    [ "Name", "dc/d65/a28120.html#a3ee4d8152817e10b873de5ec36ba062b", null ]
 ];

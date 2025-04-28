@@ -1,6 +1,8 @@
 var a20352 =
 [
-    [ "npc_ulduar_rocket_strike_triggerAI", "d1/d33/a20356.html", "d1/d33/a20356" ],
-    [ "npc_ulduar_rocket_strike_trigger", "d7/d46/a20352.html#a41cc84b04124bb47c24b39a48c9023b1", null ],
-    [ "GetAI", "d7/d46/a20352.html#a7715ce6646efa3728c28c4e11b25c2ed", null ]
+    [ "npc_ulduar_mimiron_rocketAI", "d7/d46/a20352.html#ad758070aaeadc4d7b2b7ff4108b76c89", null ],
+    [ "InitializeAI", "d7/d46/a20352.html#aba3bf48434dca79f56f4b9aac707d48c", null ],
+    [ "Reset", "d7/d46/a20352.html#a60fbcbae9205bfd1c63b5bef7924b3ee", null ],
+    [ "SetData", "d7/d46/a20352.html#a8e547ba872c9bc2ec95ae2f60b011fce", null ],
+    [ "UpdateAI", "d7/d46/a20352.html#a28106e303d5e7c1bce9ceaa571129dca", null ]
 ];

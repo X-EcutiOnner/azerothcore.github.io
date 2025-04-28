@@ -1,6 +1,7 @@
 var a21528 =
 [
-    [ "npc_archmage_landalockAI", "d0/d3d/a21532.html", "d0/d3d/a21532" ],
-    [ "npc_archmage_landalock", "d6/d83/a21528.html#ac7379ff07740123312af66ead64df4c6", null ],
-    [ "GetAI", "d6/d83/a21528.html#a92cfa8c2660413681297bfe12815c938", null ]
+    [ "npc_thassarianAI", "d6/d83/a21528.html#a92e873dc3aa97f81919225ce75a5f894", null ],
+    [ "Reset", "d6/d83/a21528.html#a8611ef17700c739dbd5e7a70660f1379", null ],
+    [ "UpdateAI", "d6/d83/a21528.html#ad09a3a063d716bc43e23b5aad5e46a7b", null ],
+    [ "_events", "d6/d83/a21528.html#aaecb5a402e4ffca1e819303dbb94f5b5", null ]
 ];

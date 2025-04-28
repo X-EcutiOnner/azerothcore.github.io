@@ -1,6 +1,4 @@
 var a03467 =
 [
-    [ "fireworkShowGameobjectUndercity", "d7/db0/a03467.html#a67896d1b367cdcfcbee837b12ee9451c", null ],
-    [ "fireworkShowScheduleUndercity", "d7/db0/a03467.html#ab00bea2179a021590447cb30da50fce1", null ],
-    [ "fireworkShowUndercity", "d7/db0/a03467.html#afd61e001f4ea31858964426d56d2b3cf", null ]
+    [ "AddSC_LFGScripts", "d7/db0/a03467.html#a9624b9328e26a9f420a4a3f07e253763", null ]
 ];

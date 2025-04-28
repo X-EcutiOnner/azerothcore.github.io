@@ -1,5 +1,6 @@
 var a10864 =
 [
-    [ "PacketHandler", "d8/d09/a10864.html#a7ca20eda3de42ab35ef45c56f1d6d73e", null ],
-    [ "Call", "d8/d09/a10864.html#a42ac77b81d5280c7f1c54991649ab501", null ]
+    [ "TotemDestroyed", "d8/d09/a10864.html#a3bcaa030b2c15d54617564cf0f5e4c36", null ],
+    [ "Read", "d8/d09/a10864.html#a0bc6b5a33024d4fd8bc8dd4cfa25d3e2", null ],
+    [ "Slot", "d8/d09/a10864.html#a41eebde65aa696c2dec812da0aeab633", null ]
 ];

@@ -1,6 +1,7 @@
 var a24508 =
 [
-    [ "CalculateAmount", "dc/ded/a24508.html#ada4514ba7769ebceeed1e0ab1c3a33e8", null ],
-    [ "PrepareAuraScript", "dc/ded/a24508.html#a1faa084b17776e826242293e2aaef2f4", null ],
-    [ "Register", "dc/ded/a24508.html#a94b21c91954385201d4bad6aff2205fc", null ]
+    [ "CheckCast", "dc/ded/a24508.html#ab215bbeea333d250ecbff0482f4f0966", null ],
+    [ "FilterTargets", "dc/ded/a24508.html#a6ee8387c7fed3fd3042852a2f542c5bd", null ],
+    [ "PrepareSpellScript", "dc/ded/a24508.html#a83447d184bb2299987d0c54d5af4c910", null ],
+    [ "Register", "dc/ded/a24508.html#a6107ba00471dd346c363db80fe81b698", null ]
 ];

@@ -1,33 +1,21 @@
 var a02642 =
 [
-    [ "npc_pet_pri_lightwell", "df/d68/a24369.html", "df/d68/a24369" ],
-    [ "PriestSpells", "d5/d96/a02642.html#a8aaecfe4214ff7bd567980dd904b110f", [
-      [ "SPELL_PRIEST_LIGHTWELL_CHARGES", "d5/d96/a02642.html#a8aaecfe4214ff7bd567980dd904b110faa3a53a7bde25a970e5c29b0f7f8984b2", null ],
-      [ "SPELL_PRIEST_DIVINE_AEGIS", "d7/d23/a04538.html#a8aaecfe4214ff7bd567980dd904b110fa4bd6adc8070fcaa774451c5cac40ded1", null ],
-      [ "SPELL_PRIEST_EMPOWERED_RENEW", "d7/d23/a04538.html#a8aaecfe4214ff7bd567980dd904b110fad78a13deca5dca1beb7e7304ae3e2014", null ],
-      [ "SPELL_PRIEST_GLYPH_OF_CIRCLE_OF_HEALING", "d7/d23/a04538.html#a8aaecfe4214ff7bd567980dd904b110faa6155b51d0796813e0d96b14449698d5", null ],
-      [ "SPELL_PRIEST_GLYPH_OF_LIGHTWELL", "d7/d23/a04538.html#a8aaecfe4214ff7bd567980dd904b110fa08ad85769dce5870b0201048c1537b8d", null ],
-      [ "SPELL_PRIEST_GLYPH_OF_PRAYER_OF_HEALING_HEAL", "d7/d23/a04538.html#a8aaecfe4214ff7bd567980dd904b110fadbaba8ea6d37743ef668662c895fcb4e", null ],
-      [ "SPELL_PRIEST_GUARDIAN_SPIRIT_HEAL", "d7/d23/a04538.html#a8aaecfe4214ff7bd567980dd904b110fa2e82dca38567004533ff9b39360424c4", null ],
-      [ "SPELL_PRIEST_ITEM_EFFICIENCY", "d7/d23/a04538.html#a8aaecfe4214ff7bd567980dd904b110fad0b9beecf2b1e0f1fadc6cf162bbd07d", null ],
-      [ "SPELL_PRIEST_LIGHTWELL_CHARGES", "d7/d23/a04538.html#a8aaecfe4214ff7bd567980dd904b110faa3a53a7bde25a970e5c29b0f7f8984b2", null ],
-      [ "SPELL_PRIEST_MANA_LEECH_PROC", "d7/d23/a04538.html#a8aaecfe4214ff7bd567980dd904b110fa4c5f8599ef6dfe01071d94bf15fdb366", null ],
-      [ "SPELL_PRIEST_PENANCE_R1", "d7/d23/a04538.html#a8aaecfe4214ff7bd567980dd904b110fa9ffd23299d870bb46db11bc57af21099", null ],
-      [ "SPELL_PRIEST_PENANCE_R1_DAMAGE", "d7/d23/a04538.html#a8aaecfe4214ff7bd567980dd904b110fa8768589bceb883d84b4e911a44d5267d", null ],
-      [ "SPELL_PRIEST_PENANCE_R1_HEAL", "d7/d23/a04538.html#a8aaecfe4214ff7bd567980dd904b110faf42f043dbb422920b04d0521f2103c68", null ],
-      [ "SPELL_PRIEST_REFLECTIVE_SHIELD_TRIGGERED", "d7/d23/a04538.html#a8aaecfe4214ff7bd567980dd904b110fa1fbf9f6af5e3402822cc04234cddaba4", null ],
-      [ "SPELL_PRIEST_REFLECTIVE_SHIELD_R1", "d7/d23/a04538.html#a8aaecfe4214ff7bd567980dd904b110fa22705e4341a9c87d475363cb0a9f78eb", null ],
-      [ "SPELL_PRIEST_SHADOW_WORD_DEATH", "d7/d23/a04538.html#a8aaecfe4214ff7bd567980dd904b110fad1d6a6bd6506f7e5a302ca1ad7256c4f", null ],
-      [ "SPELL_PRIEST_T9_HEALING_2P", "d7/d23/a04538.html#a8aaecfe4214ff7bd567980dd904b110faecf270b72f7ced3aab3ce3b2f24b8a87", null ],
-      [ "SPELL_PRIEST_VAMPIRIC_TOUCH_DISPEL", "d7/d23/a04538.html#a8aaecfe4214ff7bd567980dd904b110fa0ecf37a43c562bc7eae7041fc137ba03", null ],
-      [ "SPELL_PRIEST_T4_4P_FLEXIBILITY", "d7/d23/a04538.html#a8aaecfe4214ff7bd567980dd904b110faec0fc5ca32e9a185d596c0a931d65d9c", null ],
-      [ "SPELL_PRIEST_GLYPH_OF_SHADOWFIEND", "d7/d23/a04538.html#a8aaecfe4214ff7bd567980dd904b110faabcd07781394f6b318b9bf42c0938014", null ],
-      [ "SPELL_PRIEST_GLYPH_OF_SHADOWFIEND_MANA", "d7/d23/a04538.html#a8aaecfe4214ff7bd567980dd904b110fa24b5ecb3171baa6a2e1c79957bcd7fde", null ],
-      [ "SPELL_GENERIC_ARENA_DAMPENING", "d7/d23/a04538.html#a8aaecfe4214ff7bd567980dd904b110fa60a12ecf7b0c16a82500a97110ff35f0", null ],
-      [ "SPELL_GENERIC_BATTLEGROUND_DAMPENING", "d7/d23/a04538.html#a8aaecfe4214ff7bd567980dd904b110faf1c99f5067e5ef0ef1fb7f96bd317bf4", null ],
-      [ "SPELL_PRIEST_TWIN_DISCIPLINE_R1", "d7/d23/a04538.html#a8aaecfe4214ff7bd567980dd904b110fa58a40bf575a212bf832d151e37267690", null ],
-      [ "SPELL_PRIEST_SPIRITUAL_HEALING_R1", "d7/d23/a04538.html#a8aaecfe4214ff7bd567980dd904b110faeee484b733ad552750cbbd4bb82f11af", null ],
-      [ "SPELL_PRIEST_DIVINE_PROVIDENCE_R1", "d7/d23/a04538.html#a8aaecfe4214ff7bd567980dd904b110faead2486496bee0d1c950addeca1be8ae", null ]
+    [ "AccountActionIpLogger", "dc/d07/a26968.html", "dc/d07/a26968" ],
+    [ "CharacterActionIpLogger", "d1/d2d/a26972.html", "d1/d2d/a26972" ],
+    [ "CharacterDeleteActionIpLogger", "df/d16/a26976.html", "df/d16/a26976" ],
+    [ "IPLoggingTypes", "d5/d96/a02642.html#a3b67d8dbf539fa5519b3e33da9d0137b", [
+      [ "ACCOUNT_LOGIN", "d5/d96/a02642.html#a3b67d8dbf539fa5519b3e33da9d0137ba8f9e397f01ecf6030118a21051f37eb8", null ],
+      [ "ACCOUNT_FAIL_LOGIN", "d5/d96/a02642.html#a3b67d8dbf539fa5519b3e33da9d0137baf5dfdd830d71ca55c98a2a6bbc49895f", null ],
+      [ "ACCOUNT_CHANGE_PW", "d5/d96/a02642.html#a3b67d8dbf539fa5519b3e33da9d0137ba38e1a216027e5110edeced016ff5c059", null ],
+      [ "ACCOUNT_CHANGE_PW_FAIL", "d5/d96/a02642.html#a3b67d8dbf539fa5519b3e33da9d0137baa0990c000cd17b2abe8225b66cac6b53", null ],
+      [ "ACCOUNT_CHANGE_EMAIL", "d5/d96/a02642.html#a3b67d8dbf539fa5519b3e33da9d0137baf435090459154eb1ba7b8c994842b06c", null ],
+      [ "ACCOUNT_CHANGE_EMAIL_FAIL", "d5/d96/a02642.html#a3b67d8dbf539fa5519b3e33da9d0137ba4bd2be99e9a5252be0bbf26a71541e30", null ],
+      [ "CHARACTER_CREATE", "d5/d96/a02642.html#a3b67d8dbf539fa5519b3e33da9d0137ba64dc5a829a5cecf5f19b805d05a32b85", null ],
+      [ "CHARACTER_LOGIN", "d5/d96/a02642.html#a3b67d8dbf539fa5519b3e33da9d0137ba69b7162ca378f801be6e30e2e4b86363", null ],
+      [ "CHARACTER_LOGOUT", "d5/d96/a02642.html#a3b67d8dbf539fa5519b3e33da9d0137ba742b5af30e35f2927eaa20bdf504b607", null ],
+      [ "CHARACTER_DELETE", "d5/d96/a02642.html#a3b67d8dbf539fa5519b3e33da9d0137ba04c86cce0401c766b99edbef52a91162", null ],
+      [ "CHARACTER_FAILED_DELETE", "d5/d96/a02642.html#a3b67d8dbf539fa5519b3e33da9d0137baf8aedeaf82227741e50fdf6be12a35e7", null ],
+      [ "UNKNOWN_ACTION", "d5/d96/a02642.html#a3b67d8dbf539fa5519b3e33da9d0137bae16d79bf07a3994731f4ac1a6ece5ec8", null ]
     ] ],
-    [ "AddSC_priest_pet_scripts", "d5/d96/a02642.html#ac0eaa77dc1cb9a092b318e3bc3f6d5b8", null ]
+    [ "AddSC_action_ip_logger", "d5/d96/a02642.html#a530be5efb251d5ca58e97804e48ad953", null ]
 ];

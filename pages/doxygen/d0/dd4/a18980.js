@@ -1,10 +1,7 @@
 var a18980 =
 [
-    [ "boss_patchwerkAI", "d0/dd4/a18980.html#a74dfcf9ef921aa2a53d877c0e5ee9a34", null ],
-    [ "JustDied", "d0/dd4/a18980.html#aaed18187aa8e0058c70b29b1ccbe955f", null ],
-    [ "JustEngagedWith", "d0/dd4/a18980.html#a1317cb819d6247f62e0c6c725157db30", null ],
-    [ "KilledUnit", "d0/dd4/a18980.html#a17ccb5b2a1841656813a9408f5a05c4e", null ],
-    [ "Reset", "d0/dd4/a18980.html#a1d03058bf53e670f4fe9384e9f047891", null ],
-    [ "UpdateAI", "d0/dd4/a18980.html#a2db0df50a0faa88ebeaa035ea048157e", null ],
-    [ "events", "d0/dd4/a18980.html#a00c98ee5cdb3c512ba0d92a48d441006", null ]
+    [ "FilterTargets", "d0/dd4/a18980.html#af92aec0df6c962a10ccbebb366081cfd", null ],
+    [ "PrepareSpellScript", "d0/dd4/a18980.html#ad7ccb2b2024887ec0a9802454a8bfaec", null ],
+    [ "Register", "d0/dd4/a18980.html#af59416debfc7685bec92541a00e1dafe", null ],
+    [ "Validate", "d0/dd4/a18980.html#abbe7ae557fb510457504f72adfa0aedc", null ]
 ];

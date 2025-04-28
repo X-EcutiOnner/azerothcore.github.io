@@ -1,7 +1,6 @@
 var a15040 =
 [
-    [ "FilterTargets", "d6/def/a15040.html#a76e8285baf1d14d560ad764eeab86cd5", null ],
-    [ "HandleOnHit", "d6/def/a15040.html#a587db6fa1dc5788e0cc9ec5e486e9393", null ],
-    [ "PrepareSpellScript", "d6/def/a15040.html#ad7372e543391a23c003b4121e0dd8a09", null ],
-    [ "Register", "d6/def/a15040.html#a9749c72e2c7964cd4a2b2f9a77da69ec", null ]
+    [ "OnRemove", "d6/def/a15040.html#a85595fed0e9b6a2ced18aeb4acffcf81", null ],
+    [ "PrepareAuraScript", "d6/def/a15040.html#a47849d8241ed17ad0fb541c1178b0760", null ],
+    [ "Register", "d6/def/a15040.html#aa23231c5c324e73930fdf8d784b0edb4", null ]
 ];

@@ -1,6 +1,7 @@
 var a24024 =
 [
-    [ "npc_dragonmaw_peonAI", "d4/d39/a24028.html", "d4/d39/a24028" ],
-    [ "npc_dragonmaw_peon", "df/da4/a24024.html#a356f8f1181d62dd5a4bc41c98ab21720", null ],
-    [ "GetAI", "df/da4/a24024.html#aab1e4aee65a5465bc545a9c067200d2a", null ]
+    [ "npc_bessyAI", "d4/d39/a24028.html", "d4/d39/a24028" ],
+    [ "npc_bessy", "df/da4/a24024.html#a08278c1524445054ca158433044a0824", null ],
+    [ "GetAI", "df/da4/a24024.html#af805bc5ee3de2fd6773158e51bf09d4a", null ],
+    [ "OnQuestAccept", "df/da4/a24024.html#a98b8e816195b81bab12cc9906df79807", null ]
 ];

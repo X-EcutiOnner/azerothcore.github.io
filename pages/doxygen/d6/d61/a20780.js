@@ -1,9 +1,6 @@
 var a20780 =
 [
-    [ "HandleOnEffectApply", "d6/d61/a20780.html#a3e35c98bd5867bbb6c77b16d89ab74a9", null ],
-    [ "OnPeriodic", "d6/d61/a20780.html#a49ad44eba19416743bd26252d1b40d71", null ],
-    [ "PrepareAuraScript", "d6/d61/a20780.html#ae0c475babb67cebb245d6d85b50cd694", null ],
-    [ "Register", "d6/d61/a20780.html#af56875f1bb85d5524841a5bbb399d7d4", null ],
-    [ "Validate", "d6/d61/a20780.html#ab383a0a207aa78b7efcd400765ad0838", null ],
-    [ "_targetGUID", "d6/d61/a20780.html#a9e7c6087b1c7ce3c32be661da037f1e0", null ]
+    [ "boss_yoggsaron_influence_tentacleAI", "d3/d96/a20784.html", "d3/d96/a20784" ],
+    [ "boss_yoggsaron_influence_tentacle", "d6/d61/a20780.html#a44155d82364bdde7e00131be3b6edfb6", null ],
+    [ "GetAI", "d6/d61/a20780.html#afb691fae90c0add07cfc8c02b9d2b975", null ]
 ];

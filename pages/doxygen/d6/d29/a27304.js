@@ -1,10 +1,10 @@
 var a27304 =
 [
-    [ "go_evil_book_for_dummies", "d6/d29/a27304.html#a69f599910bce0070c6b1af547c459b72", null ],
-    [ "HasLeatherSpecialty", "d6/d29/a27304.html#a3d755fa8777f33a318ffa6f004aecbed", null ],
-    [ "OnGossipHello", "d6/d29/a27304.html#aeb29351e2faf135298419488eb16cc7e", null ],
-    [ "OnGossipSelect", "d6/d29/a27304.html#ac4bc1c682b75c436a4d3fff118a20ca4", null ],
-    [ "SendActionMenu", "d6/d29/a27304.html#a0aa21b4619ea5cc8229eb56e09d3233d", null ],
-    [ "SendConfirmLearn", "d6/d29/a27304.html#a11a605c576a3c81b5ed96d413ec20f57", null ],
-    [ "SendConfirmUnlearn", "d6/d29/a27304.html#af9c10b0423327d8644020e8f5e26a603", null ]
+    [ "guard_shattrath_aldorAI", "d6/d29/a27304.html#a88961dfe4100dfe207af693a1eed86ad", null ],
+    [ "Reset", "d6/d29/a27304.html#aef38e83e90c322bbef18b78e6339ef2e", null ],
+    [ "UpdateAI", "d6/d29/a27304.html#ac87ee12d4487971b68c70f06f63eb410", null ],
+    [ "banishTimer", "d6/d29/a27304.html#a8b6e4c2acb09c65f2dbebbd21df4f29e", null ],
+    [ "canTeleport", "d6/d29/a27304.html#af4d933b56431d2f2755d87fb05922458", null ],
+    [ "exileTimer", "d6/d29/a27304.html#a8d56205206f3e14184922f96873456ad", null ],
+    [ "playerGUID", "d6/d29/a27304.html#a16fe41ae30d54abaf12f68672b93dc32", null ]
 ];

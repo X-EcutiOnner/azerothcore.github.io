@@ -1,7 +1,7 @@
 var a22676 =
 [
-    [ "boss_lady_malande", "de/d72/a22676.html#a8cb693d203463dcba809e7ffc23c6868", null ],
-    [ "AttackStart", "de/d72/a22676.html#ad5cf6e7b0000c7f96d8606088fb13d31", null ],
-    [ "JustEngagedWith", "de/d72/a22676.html#af4b5f376e387851e15517de03636acde", null ],
-    [ "UpdateAI", "de/d72/a22676.html#a6d9d09a49fc87bbbda02387f78bb3739", null ]
+    [ "HandleEffectRemove", "de/d72/a22676.html#a09124a4351930a35e33359e95ca88580", null ],
+    [ "PrepareAuraScript", "de/d72/a22676.html#a6ac4aa40f00e7ca03a3a5cf36d6e5d33", null ],
+    [ "Register", "de/d72/a22676.html#a8b59d3d74816b41a65f9c5bd07226c4e", null ],
+    [ "Validate", "de/d72/a22676.html#a5bf3ac4b8ff19bdbde604c4d8931d1bc", null ]
 ];

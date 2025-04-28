@@ -1,8 +1,6 @@
 var a16300 =
 [
-    [ "npc_toc_boomkinAI", "d1/dd4/a16300.html#a12c586d57aa6dd3893889f103dbfee20", null ],
-    [ "JustSummoned", "d1/dd4/a16300.html#a0d049885773b7f1abd7e03f9200852f4", null ],
-    [ "myCanCast", "d1/dd4/a16300.html#a691a0250db77cc4def2bf67b25a1298c", null ],
-    [ "UpdateAI", "d1/dd4/a16300.html#a64b0451537c0d27bc01d1c1ec3b5b88d", null ],
-    [ "events", "d1/dd4/a16300.html#a0b367855092884b2ce30834e89fced87", null ]
+    [ "npc_toc_paladinAI", "d4/d5f/a16304.html", "d4/d5f/a16304" ],
+    [ "npc_toc_paladin", "d1/dd4/a16300.html#af11025a2a4be2b2c982ad31241d47180", null ],
+    [ "GetAI", "d1/dd4/a16300.html#a15766ea4414701040c738251302177af", null ]
 ];

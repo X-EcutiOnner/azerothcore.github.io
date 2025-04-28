@@ -1,9 +1,11 @@
 var a23188 =
 [
-    [ "boss_mennu_the_betrayer", "d5/d95/a23188.html#a3f881a89d1da70d066ce9a3fe0b29a3e", null ],
-    [ "JustDied", "d5/d95/a23188.html#acf87c54cc2a3ee5c8378ef40553ab51c", null ],
-    [ "JustEngagedWith", "d5/d95/a23188.html#a535b9af1677b8af50515818a18e88d27", null ],
-    [ "JustSummoned", "d5/d95/a23188.html#a59949872270890ef794a77029074210b", null ],
-    [ "KilledUnit", "d5/d95/a23188.html#a1a55fb7f1dacc5e514e71901d66bd35e", null ],
-    [ "Reset", "d5/d95/a23188.html#a6f0043e73a55cd1cccae22a806d702ea", null ]
+    [ "boss_ahune", "d5/d95/a23188.html#aa3d15e1ab37843761d9f7c56d2e5a319", null ],
+    [ "DoAction", "d5/d95/a23188.html#a9e197e8a5ecbad8487c7bad7647e6d2c", null ],
+    [ "Emerge", "d5/d95/a23188.html#a6404a8255566f2eaa061a89025e2bdcd", null ],
+    [ "EnterEvadeMode", "d5/d95/a23188.html#a2b906881621e59143a916c588beb70e7", null ],
+    [ "ExecuteEvent", "d5/d95/a23188.html#a46b477aef635de1d3ec88baa2465089f", null ],
+    [ "JustDied", "d5/d95/a23188.html#af2fc7c071321653a644ee569ead67d63", null ],
+    [ "JustEngagedWith", "d5/d95/a23188.html#aaffc4f54544c8aa4529b249560ddeeec", null ],
+    [ "Submerge", "d5/d95/a23188.html#aad68758720cc1cb703f8f2dc72c09af2", null ]
 ];

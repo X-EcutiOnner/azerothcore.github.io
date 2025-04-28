@@ -1,6 +1,6 @@
 var a22040 =
 [
-    [ "npc_bushwhackerAI", "d6/d77/a22040.html#a0cf480b75aa45a9f3572c4a65df2daee", null ],
-    [ "InitializeAI", "d6/d77/a22040.html#a18db5870e62378ff49472f7a5881861c", null ],
-    [ "UpdateAI", "d6/d77/a22040.html#aadc3384626d728942897fe93750f0c02", null ]
+    [ "npc_blessed_bannerAI", "dd/db4/a22044.html", "dd/db4/a22044" ],
+    [ "npc_blessed_banner", "d6/d77/a22040.html#a779a0c653088b2d206226e146a19101f", null ],
+    [ "GetAI", "d6/d77/a22040.html#a43dabbf2f2d54ae201cde37df792a41d", null ]
 ];

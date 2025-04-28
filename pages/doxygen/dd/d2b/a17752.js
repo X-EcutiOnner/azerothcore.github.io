@@ -1,8 +1,6 @@
 var a17752 =
 [
-    [ "FilterTargets", "dd/d2b/a17752.html#a1b125c887db7d2030838d0ac8e38c4e3", null ],
-    [ "HandleScript", "dd/d2b/a17752.html#a4c7be5a65b1fb7e8db62691f5ef6b38d", null ],
-    [ "PrepareSpellScript", "dd/d2b/a17752.html#ae6b30b8da52141c385f985435cac99a1", null ],
-    [ "Register", "dd/d2b/a17752.html#a17dc25670b0f21525a01f6e7aa7eb572", null ],
-    [ "Validate", "dd/d2b/a17752.html#accff1f03fb7c0d56cb197bb18348635c", null ]
+    [ "npc_volatile_oozeAI", "da/dc5/a17756.html", "da/dc5/a17756" ],
+    [ "npc_volatile_ooze", "dd/d2b/a17752.html#a22847e44812a0b13b92cfcca3a70204e", null ],
+    [ "GetAI", "dd/d2b/a17752.html#a66b4918c14d90d5550ddc8dbe90c2e01", null ]
 ];

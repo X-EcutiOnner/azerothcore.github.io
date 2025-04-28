@@ -1,9 +1,6 @@
 var a25492 =
 [
-    [ "spell_item_trigger_spell", "de/dea/a25492.html#a619e9a5233e36157cbdaba70a3ba80da", null ],
-    [ "HandleDummy", "de/dea/a25492.html#a49613255eea28e34cf5ff8a06798f89a", null ],
-    [ "PrepareSpellScript", "de/dea/a25492.html#a78903f92c30fb23ff7297f7fa16c4861", null ],
-    [ "Register", "de/dea/a25492.html#ab9abd9f01ce37c23d6502e6d86e3f998", null ],
-    [ "Validate", "de/dea/a25492.html#a2f2df93e8f9d0e51273560665ea5c245", null ],
-    [ "_triggeredSpellId", "de/dea/a25492.html#a610c5ac434fe788120ed101f7bf58f63", null ]
+    [ "OnRemove", "de/dea/a25492.html#adcdc87bcfb9aee5eaa227ba66ad5f010", null ],
+    [ "PrepareAuraScript", "de/dea/a25492.html#a9b3985c6f2b1b88ab86ec38c8508fc16", null ],
+    [ "Register", "de/dea/a25492.html#a0bc1dae33d0a780623f4551b1dfb1fbf", null ]
 ];

@@ -1,12 +1,11 @@
 var a26488 =
 [
-    [ "CalcPeriodic", "df/d43/a26488.html#a35d58947074659d2692877dfcf13e4bd", null ],
-    [ "CalculateAPAmount", "df/d43/a26488.html#ac72434a046c28a4887971cf83d574a6e", null ],
-    [ "CalculateResistanceAmount", "df/d43/a26488.html#a82067899470366c2cbf21bba08061ce1", null ],
-    [ "CalculateSPAmount", "df/d43/a26488.html#a527213b389be9b1953f423ae84eb16ee", null ],
-    [ "CalculateStatAmount", "df/d43/a26488.html#ad7185292820feb168565648133c9e2cc", null ],
-    [ "HandleEffectApply", "df/d43/a26488.html#aa333430da4cf3303822d5f048cb9d5a4", null ],
-    [ "HandlePeriodic", "df/d43/a26488.html#ae2bca6c841d1ba02a8a39b1a2179ac97", null ],
-    [ "PrepareAuraScript", "df/d43/a26488.html#a671a588ae36323c11b33a45d652290de", null ],
-    [ "Register", "df/d43/a26488.html#a8aae94d6d6a9ec1fa7d47f88874cce4f", null ]
+    [ "AddTarget", "df/d43/a26488.html#a18875ef707271a77c0c5867fa8de7ff7", null ],
+    [ "HandleApply", "df/d43/a26488.html#afad10ab0f64e688a18ed749c294a2fbe", null ],
+    [ "HandleEffectPeriodic", "df/d43/a26488.html#a339b71689056a61e4eebf77f1abcb3dd", null ],
+    [ "HandleRemove", "df/d43/a26488.html#a1bd9806323ad6b26a0c1fb8773596c98", null ],
+    [ "PrepareAuraScript", "df/d43/a26488.html#abd535f756fae06c9fae613d69ef4e353", null ],
+    [ "Register", "df/d43/a26488.html#a0f41f9287f5eb5046e6679d22c65416a", null ],
+    [ "Validate", "df/d43/a26488.html#a47351141df5e5e15a2d454cc653a9cf5", null ],
+    [ "_targets", "df/d43/a26488.html#ad2467bc150cb08766c57cca23d4d9843", null ]
 ];

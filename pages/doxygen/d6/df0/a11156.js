@@ -1,8 +1,7 @@
 var a11156 =
 [
-    [ "first", "d6/df0/a11156.html#a49aea8bfed353c2c552f6195b8e9f60a", null ],
-    [ "last", "d6/df0/a11156.html#a05a8077c7ec39bcca66fe84aa1da7040", null ],
-    [ "next", "d6/df0/a11156.html#a0a7791b7069912a013299e7afaf4142f", null ],
-    [ "prev", "d6/df0/a11156.html#ae27b7d0aa5a2ae5cb75a7f0d397c849f", null ],
-    [ "rank", "d6/df0/a11156.html#a0b58cef8fc18f91fa59b8c7d7b9f9872", null ]
+    [ "ap_bonus", "d6/df0/a11156.html#a98410b8bb89434cd7e1747462f8039dc", null ],
+    [ "ap_dot_bonus", "d6/df0/a11156.html#a09caeec47b138d9eff3539795416a09a", null ],
+    [ "direct_damage", "d6/df0/a11156.html#abab1af227a6c8e592b8a9bd15589535d", null ],
+    [ "dot_damage", "d6/df0/a11156.html#a92491d8d1e61612d88c7c830d7912be5", null ]
 ];

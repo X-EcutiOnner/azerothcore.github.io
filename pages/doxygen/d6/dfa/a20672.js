@@ -1,6 +1,6 @@
 var a20672 =
 [
-    [ "boss_yoggsaron_brainAI", "d5/dc4/a20676.html", "d5/dc4/a20676" ],
-    [ "boss_yoggsaron_brain", "d6/dfa/a20672.html#a8094e2a062f06c5a954c1d3401ca18d4", null ],
-    [ "GetAI", "d6/dfa/a20672.html#a02e6b07087765d75d0f49b864e2f323f", null ]
+    [ "HandleScript", "d6/dfa/a20672.html#a8ebd18095bd826d4bf843961e4e8dc81", null ],
+    [ "PrepareSpellScript", "d6/dfa/a20672.html#a4fd05478a145157dbd8377532033ab95", null ],
+    [ "Register", "d6/dfa/a20672.html#a9b30f89493d5b8c8d1097dde5d017a93", null ]
 ];

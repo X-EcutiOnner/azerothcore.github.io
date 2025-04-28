@@ -1,7 +1,9 @@
 var a09116 =
 [
-    [ "GridTerrainUnloader", "d3/d9f/a09116.html#a2cae372520a8e6d6a54ad79381a844e9", null ],
-    [ "UnloadTerrain", "d3/d9f/a09116.html#ad6648cf97602141fcc64bbb6c688f6a0", null ],
-    [ "_grid", "d3/d9f/a09116.html#a94d346bc8d44f285d8cdb97736859201", null ],
-    [ "_map", "d3/d9f/a09116.html#aac1ea80c5210b25ad26f52558336c20d", null ]
+    [ "LiquidData", "d3/d9f/a09116.html#ac2435178323f480d2dae449b49b39146", null ],
+    [ "DepthLevel", "d3/d9f/a09116.html#ad84c7763a6253db7ae6117ecc7144f1d", null ],
+    [ "Entry", "d3/d9f/a09116.html#abfed22cb0e920067c0f86a0083ef4ab6", null ],
+    [ "Flags", "d3/d9f/a09116.html#aa0903ec4233bcfa34494cea5068cd19c", null ],
+    [ "Level", "d3/d9f/a09116.html#a7c596e921e383bbdbdacbcd4307fe380", null ],
+    [ "Status", "d3/d9f/a09116.html#acb79cdfb4221f158ce9b29127591a8a9", null ]
 ];

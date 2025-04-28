@@ -1,6 +1,6 @@
 var a12812 =
 [
-    [ "npc_scarlet_cannonAI", "d0/d03/a12816.html", "d0/d03/a12816" ],
-    [ "npc_scarlet_cannon", "de/d9d/a12812.html#a10bb35cbbdae3508a2300ba3dacc1ea3", null ],
-    [ "GetAI", "de/d9d/a12812.html#ae2b74a4dab4b34f026fd17d5ed381c99", null ]
+    [ "CheckRequirement", "de/d9d/a12812.html#a31d69034f463d552afa4063bf89271da", null ],
+    [ "PrepareSpellScript", "de/d9d/a12812.html#adc2176d25d25167b8a1fa9517e2ab945", null ],
+    [ "Register", "de/d9d/a12812.html#a5bb1eff829db1f7ecd3dbf61b821c328", null ]
 ];

@@ -1,9 +1,5 @@
 var a28336 =
 [
-    [ "flags", "df/de2/a28336.html#a064de2e88c563121bbb78549a7bab868", null ],
-    [ "_flags", "df/de2/a28336.html#a16f1b30a57eb6703e8073ef55d988391", null ],
-    [ "bits", "df/de2/a28336.html#a529f1856635132646457c57f3546f4ec", null ],
-    [ "configKey", "df/de2/a28336.html#af14d118016b9e01612769c00f13aa2d6", null ],
-    [ "oldKey", "df/de2/a28336.html#a29605b536523f6d022bbac0e12d1d8dc", null ],
-    [ "owner", "df/de2/a28336.html#a24aaa1c473c3932c83dd49aad84f8361", null ]
+    [ "areatableID", "df/de2/a28336.html#a991f3242c87939be42d107d6908f441d", null ],
+    [ "ID", "df/de2/a28336.html#ac57c444da58dea7227bd26e0f6b7bbff", null ]
 ];

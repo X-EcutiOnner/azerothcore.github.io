@@ -1,6 +1,5 @@
 var a25504 =
 [
-    [ "CheckProc", "d5/da1/a25504.html#acac962ba1cb72615772fe8bc81d24f9d", null ],
-    [ "PrepareAuraScript", "d5/da1/a25504.html#aebe1c8083ba09c21125c47843b2949da", null ],
-    [ "Register", "d5/da1/a25504.html#adde6dada6b3012c2650ba9173c6616a0", null ]
+    [ "PrepareSpellScript", "d5/da1/a25504.html#a64c8a9156181a78dfcb413eedc47f0ed", null ],
+    [ "Register", "d5/da1/a25504.html#af8f8b5901a068bef3e2663809180b3e2", null ]
 ];

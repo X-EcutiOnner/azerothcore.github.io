@@ -1,6 +1,9 @@
 var a13800 =
 [
-    [ "boss_gahzranka", "d8/dd2/a13800.html#a82cc1a44a967f859039957e41f38dd77", null ],
-    [ "IsSummonedBy", "d8/dd2/a13800.html#ad68be854f95c398dc5dd9e5b22f538a8", null ],
-    [ "JustEngagedWith", "d8/dd2/a13800.html#ac1cc43194c00fda1729f8a068d4e8779", null ]
+    [ "npc_amanishi_lookout", "d8/dd2/a13800.html#adf34c160c531164a459092f45588a7be", null ],
+    [ "DoAction", "d8/dd2/a13800.html#ab43e3372000af268c81e2701070e1b03", null ],
+    [ "MoveInLineOfSight", "d8/dd2/a13800.html#ab94c8563d7c79279ed4922f1d0411ec9", null ],
+    [ "MovementInform", "d8/dd2/a13800.html#ae9e6d22a781392107a7e50e5815c116c", null ],
+    [ "Reset", "d8/dd2/a13800.html#a42f8e96876f07e37fc4533b7eb732db3", null ],
+    [ "_instance", "d8/dd2/a13800.html#ab1557ad1a2cc6574c200ef691596b0c6", null ]
 ];

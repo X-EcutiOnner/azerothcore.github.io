@@ -1,42 +1,27 @@
 var a02906 =
 [
-    [ "DataHeader", "d6/d1d/a02906.html#a042491ef36459046f3866e90f15aae0d", null ],
-    [ "ZFScriptName", "d6/d1d/a02906.html#a8c843043d60c28e6ccd7efb1a75ec86e", null ],
-    [ "ZFPyramidPhases", "d6/d1d/a02906.html#a8774900db93cf3aa38b2e231417d6cc3", [
-      [ "PYRAMID_NOT_STARTED", "d6/d1d/a02906.html#a8774900db93cf3aa38b2e231417d6cc3a434ccee53d43aeb68a61adc7afc70e71", null ],
-      [ "PYRAMID_CAGES_OPEN", "d6/d1d/a02906.html#a8774900db93cf3aa38b2e231417d6cc3a733f4b4c341a7c12cea4da96f394e238", null ],
-      [ "PYRAMID_ARRIVED_AT_STAIR", "d6/d1d/a02906.html#a8774900db93cf3aa38b2e231417d6cc3a44fbc93058f64b77b519778b73835095", null ],
-      [ "PYRAMID_WAVE_1", "d6/d1d/a02906.html#a8774900db93cf3aa38b2e231417d6cc3ad6fc2894f46a7f845ccb16b02492416d", null ],
-      [ "PYRAMID_PRE_WAVE_2", "d6/d1d/a02906.html#a8774900db93cf3aa38b2e231417d6cc3a83ddd4a830b4529356e379753ef0a6b0", null ],
-      [ "PYRAMID_WAVE_2", "d6/d1d/a02906.html#a8774900db93cf3aa38b2e231417d6cc3a0fea1a14ce0b618b7b407cb0ebef5257", null ],
-      [ "PYRAMID_PRE_WAVE_3", "d6/d1d/a02906.html#a8774900db93cf3aa38b2e231417d6cc3aeca14c0e13407ddbc852a23a75f9e297", null ],
-      [ "PYRAMID_WAVE_3", "d6/d1d/a02906.html#a8774900db93cf3aa38b2e231417d6cc3aa3061b90909a10cdcf2445a1bee4ddce", null ],
-      [ "PYRAMID_KILLED_ALL_TROLLS", "d6/d1d/a02906.html#a8774900db93cf3aa38b2e231417d6cc3aa18216a575ced9cd802aef44ec6a5b55", null ],
-      [ "PYRAMID_MOVED_DOWNSTAIRS", "d6/d1d/a02906.html#a8774900db93cf3aa38b2e231417d6cc3af4a5d3d2602c5283c9a3e987e6eb7cf4", null ],
-      [ "PYRAMID_DESTROY_GATES", "d6/d1d/a02906.html#a8774900db93cf3aa38b2e231417d6cc3a26d165b4ebf0c18fbab9c99700d40301", null ],
-      [ "PYRAMID_GATES_DESTROYED", "d6/d1d/a02906.html#a8774900db93cf3aa38b2e231417d6cc3ad3ca6408f8a6f8dacff9c606641f3682", null ],
-      [ "PYRAMID_DONE", "d6/d1d/a02906.html#a8774900db93cf3aa38b2e231417d6cc3ab8014318ae3d1f73e7e31fa340a12021", null ]
+    [ "go_type", "d0/d2a/a10072.html", "d0/d2a/a10072" ],
+    [ "creature_type", "db/d95/a10076.html", "db/d95/a10076" ],
+    [ "OPvPCapturePoint", "d7/df8/a10080.html", "d7/df8/a10080" ],
+    [ "OutdoorPvP", "d8/d13/a10084.html", "d8/d13/a10084" ],
+    [ "MAX_OUTDOORPVP_TYPES", "d6/d1d/a02906.html#a61d2d26058751cc92ed3744e7216a061", null ],
+    [ "PlayerSet", "d6/d1d/a02906.html#a080aeb08f4e15904e94076846a03e927", null ],
+    [ "ObjectiveStates", "d6/d1d/a02906.html#a7908847b61cb33598912d94a2c0d153a", [
+      [ "OBJECTIVESTATE_NEUTRAL", "d6/d1d/a02906.html#a7908847b61cb33598912d94a2c0d153aacdbca77e3430d64e7744a243553169b6", null ],
+      [ "OBJECTIVESTATE_ALLIANCE", "d6/d1d/a02906.html#a7908847b61cb33598912d94a2c0d153aa6ba9fe25fdad4f881923232927d51e01", null ],
+      [ "OBJECTIVESTATE_HORDE", "d6/d1d/a02906.html#a7908847b61cb33598912d94a2c0d153aa1c56fbf67a59f2723d09b72a2526e545", null ],
+      [ "OBJECTIVESTATE_NEUTRAL_ALLIANCE_CHALLENGE", "d6/d1d/a02906.html#a7908847b61cb33598912d94a2c0d153aa8a761b613f1cc1791a30f2dd6c09a683", null ],
+      [ "OBJECTIVESTATE_NEUTRAL_HORDE_CHALLENGE", "d6/d1d/a02906.html#a7908847b61cb33598912d94a2c0d153aa2b3829ced9f7338c806056bcbaf4f143", null ],
+      [ "OBJECTIVESTATE_ALLIANCE_HORDE_CHALLENGE", "d6/d1d/a02906.html#a7908847b61cb33598912d94a2c0d153aafec9bd2a292f2ef3dba964bdcbff182b", null ],
+      [ "OBJECTIVESTATE_HORDE_ALLIANCE_CHALLENGE", "d6/d1d/a02906.html#a7908847b61cb33598912d94a2c0d153aa9361cd97baf1e11b2ed70f50c26cdb4a", null ]
     ] ],
-    [ "ZulFarrakCreatures", "d6/d1d/a02906.html#ab6a75cae3d5218b7c02408d5c4fb4b81", [
-      [ "NPC_SANDFURY_CRETIN", "d6/d1d/a02906.html#ab6a75cae3d5218b7c02408d5c4fb4b81abc17ce4a19f84d1f43027e038ce1b376", null ],
-      [ "NPC_SANDFURY_SLAVE", "d6/d1d/a02906.html#ab6a75cae3d5218b7c02408d5c4fb4b81a6c5f3121c15864497a7fd4445e508d9b", null ],
-      [ "NPC_SANDFURY_ACOLYTE", "d6/d1d/a02906.html#ab6a75cae3d5218b7c02408d5c4fb4b81ad994cdb727fce1b96ee059a3f7d40ab8", null ],
-      [ "NPC_SANDFURY_DRUDGE", "d6/d1d/a02906.html#ab6a75cae3d5218b7c02408d5c4fb4b81a3b6291c9a6afbd297befe20651cce18a", null ],
-      [ "NPC_SANDFURY_ZEALOT", "d6/d1d/a02906.html#ab6a75cae3d5218b7c02408d5c4fb4b81aebf682fdf490a79a7c57fa612e9f197d", null ],
-      [ "NPC_SHADOWPRIEST_SEZZZIZ", "d6/d1d/a02906.html#ab6a75cae3d5218b7c02408d5c4fb4b81a6e6e1f1c3cccf7fad5f37b40eb4d72c7", null ],
-      [ "NPC_NEKRUM_GUTCHEWER", "d6/d1d/a02906.html#ab6a75cae3d5218b7c02408d5c4fb4b81ac67a7fd5df9d4f39a21fcd4b485ed031", null ],
-      [ "NPC_BLY", "d6/d1d/a02906.html#ab6a75cae3d5218b7c02408d5c4fb4b81aeeeaf82fbf41331373955f22de91c48d", null ],
-      [ "NPC_RAVEN", "d6/d1d/a02906.html#ab6a75cae3d5218b7c02408d5c4fb4b81af7eec9c0500aedfefe9bbbbaeb5d73b8", null ],
-      [ "NPC_ORO", "d6/d1d/a02906.html#ab6a75cae3d5218b7c02408d5c4fb4b81add85ada339b5a0d2a412756a1032799b", null ],
-      [ "NPC_WEEGLI", "d6/d1d/a02906.html#ab6a75cae3d5218b7c02408d5c4fb4b81a3a660c0cbddbbd8650c9632e52d7b178", null ],
-      [ "NPC_MURTA", "d6/d1d/a02906.html#ab6a75cae3d5218b7c02408d5c4fb4b81ae2ffa4447246d4d51f2339edf2164b7a", null ]
-    ] ],
-    [ "ZulFarrakData", "d6/d1d/a02906.html#a66cc3be5310a2efbacb38d2398d8af24", [
-      [ "DATA_PYRAMID", "d6/d1d/a02906.html#a66cc3be5310a2efbacb38d2398d8af24ab1d90dc5c239d55044f1bed8e5e823e3", null ],
-      [ "DATA_GAHZRILLA", "d6/d1d/a02906.html#a66cc3be5310a2efbacb38d2398d8af24a023919c11385e898d643499efd09c167", null ]
-    ] ],
-    [ "ZulFarrakGameobjects", "d6/d1d/a02906.html#a83f1d34de34a6a1e990edbfb47a2f78e", [
-      [ "GO_END_DOOR", "d6/d1d/a02906.html#a83f1d34de34a6a1e990edbfb47a2f78ea279b9f40e76d0da56ef7eca0a2578319", null ]
-    ] ],
-    [ "GetZulFarrakAI", "d6/d1d/a02906.html#afc0f10884b3d0ad6a6e73e3767fa3538", null ]
+    [ "OutdoorPvPTypes", "d6/d1d/a02906.html#a56e7764289940901c2a230103f78adee", [
+      [ "OUTDOOR_PVP_HP", "d6/d1d/a02906.html#a56e7764289940901c2a230103f78adeeaec0ceb2120bb05c7b67c96acb5f5c780", null ],
+      [ "OUTDOOR_PVP_NA", "d6/d1d/a02906.html#a56e7764289940901c2a230103f78adeeade464dddf74821e2cae470176a593811", null ],
+      [ "OUTDOOR_PVP_TF", "d6/d1d/a02906.html#a56e7764289940901c2a230103f78adeea62e94746420e27ec7bd9c56ea578caab", null ],
+      [ "OUTDOOR_PVP_ZM", "d6/d1d/a02906.html#a56e7764289940901c2a230103f78adeea835e4d954507eb3cb658b3b0f9d59dfc", null ],
+      [ "OUTDOOR_PVP_SI", "d6/d1d/a02906.html#a56e7764289940901c2a230103f78adeea30dd8f698b5a13bb149d2aefbb8d8b3e", null ],
+      [ "OUTDOOR_PVP_EP", "d6/d1d/a02906.html#a56e7764289940901c2a230103f78adeeadb5d1cbc5e091b87603c561df5fb6125", null ],
+      [ "OUTDOOR_PVP_GH", "d6/d1d/a02906.html#a56e7764289940901c2a230103f78adeead76b70163971bf73abcdc457607a60c6", null ]
+    ] ]
 ];

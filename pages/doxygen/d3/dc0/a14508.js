@@ -1,10 +1,9 @@
 var a14508 =
 [
-    [ "hyjalJainaAI", "d3/dc0/a14508.html#aa7532b691e85fd9bd467e20db39c59da", null ],
-    [ "IsSummonedBy", "d3/dc0/a14508.html#a5003e3a1ccb955b209c1ab91a49d217f", null ],
-    [ "JustDied", "d3/dc0/a14508.html#a605687080e5149b3f08ce8349ba9b336", null ],
-    [ "JustEngagedWith", "d3/dc0/a14508.html#a187efe775b1e2a35637638507e77352e", null ],
-    [ "PathEndReached", "d3/dc0/a14508.html#a0f7dd1512694d284c1f83b3403c421e6", null ],
-    [ "Reset", "d3/dc0/a14508.html#a585baff53f5d57ca0dc9002181e8d2bc", null ],
-    [ "UpdateAI", "d3/dc0/a14508.html#ac86fb8a5a55654ff7697abd9162135c1", null ]
+    [ "npc_ancient_wisp", "d3/dc0/a14508.html#a70e45e500b3490a034b058ca2ec16d39", null ],
+    [ "DamageTaken", "d3/dc0/a14508.html#ad7d96e6b54cdc23a5101338474125e71", null ],
+    [ "JustEngagedWith", "d3/dc0/a14508.html#a755ed852b3149ada65c5750410776fc8", null ],
+    [ "Reset", "d3/dc0/a14508.html#a1c33cc47d7f60b2b3eb60852f1c36820", null ],
+    [ "UpdateAI", "d3/dc0/a14508.html#a51ca214de826d7126f32e49f6852bca3", null ],
+    [ "_instance", "d3/dc0/a14508.html#a5e5e51944d49cc52bed4ff4953513f1f", null ]
 ];

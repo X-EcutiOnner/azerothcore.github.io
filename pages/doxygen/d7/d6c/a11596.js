@@ -1,11 +1,12 @@
 var a11596 =
 [
-    [ "instance_commandscript", "d7/d6c/a11596.html#a4d0b308b35a1aa21c66c8bd406ffa82f", null ],
-    [ "GetCommands", "d7/d6c/a11596.html#a092d62969c835f6bf2a08ca3e05f04d5", null ],
-    [ "HandleInstanceGetBossStateCommand", "d7/d6c/a11596.html#a0530ca6481073d6bafd11596546140b0", null ],
-    [ "HandleInstanceListBindsCommand", "d7/d6c/a11596.html#abf42411f9c78ce59b21b34691e3d4233", null ],
-    [ "HandleInstanceSaveDataCommand", "d7/d6c/a11596.html#a4b494a8b1de470612436fbb9fa433416", null ],
-    [ "HandleInstanceSetBossStateCommand", "d7/d6c/a11596.html#aec65b5af811eae2cbcf17571e9d1473b", null ],
-    [ "HandleInstanceStatsCommand", "d7/d6c/a11596.html#a9547a0a88a3bcd7407c449f3f2f25f44", null ],
-    [ "HandleInstanceUnbindCommand", "d7/d6c/a11596.html#a7abbe257b10632f2acbdd838e1f073a9", null ]
+    [ "gm_commandscript", "d7/d6c/a11596.html#a1b24112b70818778755ef9b5b062b2e8", null ],
+    [ "GetCommands", "d7/d6c/a11596.html#a17c725e18324de7aadff260c77d75c45", null ],
+    [ "HandleGMChatCommand", "d7/d6c/a11596.html#a15a18b1179a602da3eeba7e8247fbbac", null ],
+    [ "HandleGMFlyCommand", "d7/d6c/a11596.html#a29829660f39c9bfa4190bbb118f482ba", null ],
+    [ "HandleGMListFullCommand", "d7/d6c/a11596.html#add9bd1e64f98964e68cd1be3df6295e7", null ],
+    [ "HandleGMListIngameCommand", "d7/d6c/a11596.html#ab6d59a1c29bd66b699ae597351b969d9", null ],
+    [ "HandleGMOffCommand", "d7/d6c/a11596.html#a66de9b1d6abaad56419a43d65861b5b3", null ],
+    [ "HandleGMOnCommand", "d7/d6c/a11596.html#afb0f18226aac1f581d09f3b7fe9d0ce7", null ],
+    [ "HandleGMVisibleCommand", "d7/d6c/a11596.html#a7af08caf6d3fba1b6ee29ea90b20fef8", null ]
 ];

@@ -1,6 +1,21 @@
 var a10196 =
 [
-    [ "BattlegroundMapScript", "d0/d7e/a10196.html#a61e1c0f145064cbc6c8708824a359e4c", null ],
-    [ "checkValidity", "d0/d7e/a10196.html#a90584770132eb71cffc6e25a674750ad", null ],
-    [ "isAfterLoadScript", "d0/d7e/a10196.html#a0148a79556f82c990fe0fc494d03c7ab", null ]
+    [ "AllSpellScript", "d0/d7e/a10196.html#a95e37ac5e1e253fb6d759103ec55ac7a", null ],
+    [ "CanModAuraEffectDamageDone", "d0/d7e/a10196.html#a95cc4310fb4bc275c7f467a4d71d790c", null ],
+    [ "CanModAuraEffectModDamagePercentDone", "d0/d7e/a10196.html#a05230c0a96e7096b64f1bb03acedb337", null ],
+    [ "CanPrepare", "d0/d7e/a10196.html#aeb2d438fdd7ca823ce670a94941bafff", null ],
+    [ "CanScalingEverything", "d0/d7e/a10196.html#a026842dcd2d8c0e0c3f99718b04e86b0", null ],
+    [ "CanSelectSpecTalent", "d0/d7e/a10196.html#a3cf7b45d8e9f5b23e2753d1624c4af78", null ],
+    [ "IsDatabaseBound", "d0/d7e/a10196.html#a0854a57b62e310575a3e5cd8d35e8532", null ],
+    [ "OnBeforeAuraRankForLevel", "d0/d7e/a10196.html#ae5a4590e4fb49d4cfe73c5ce307773ca", null ],
+    [ "OnCalcMaxDuration", "d0/d7e/a10196.html#a5d02de785a4e1cf5103110828fac5e75", null ],
+    [ "OnDummyEffect", "d0/d7e/a10196.html#a54e0b823c538c41507c541db025d5295", null ],
+    [ "OnDummyEffect", "d0/d7e/a10196.html#a36061e5bcec2ef4dea35d1b5c9e703b4", null ],
+    [ "OnDummyEffect", "d0/d7e/a10196.html#afe06aa2578b89fbc5ed5784aed38912a", null ],
+    [ "OnRemoveAuraScaleTargets", "d0/d7e/a10196.html#aa055f00fe76ba2768f97e23ecf379a18", null ],
+    [ "OnScaleAuraUnitAdd", "d0/d7e/a10196.html#abf3758ff33e5be1492ed4e45979a7a8d", null ],
+    [ "OnSpellCast", "d0/d7e/a10196.html#aac6481ca905c3f44f85c55aaf694afca", null ],
+    [ "OnSpellCastCancel", "d0/d7e/a10196.html#ad5dd3e0f697edb93df6ee764fe2a1d99", null ],
+    [ "OnSpellCheckCast", "d0/d7e/a10196.html#aae718678bb7d9a7ed1e0cbbc59db3049", null ],
+    [ "OnSpellPrepare", "d0/d7e/a10196.html#addb78dc29f771ec376922a4a2bff558b", null ]
 ];

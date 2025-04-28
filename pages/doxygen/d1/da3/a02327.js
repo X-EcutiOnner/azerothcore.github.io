@@ -1,31 +1,67 @@
 var a02327 =
 [
-    [ "BfCapturePoint", "d8/dfa/a07113.html", "d8/dfa/a07113" ],
-    [ "BfGraveyard", "d2/dd5/a07117.html", "d2/dd5/a07117" ],
-    [ "Battlefield", "dd/d7b/a07121.html", "dd/d7b/a07121" ],
-    [ "GraveyardVect", "d1/da3/a02327.html#a3c001cdd2e1b762c5c2bdd6814e59f6c", null ],
-    [ "PlayerTimerMap", "d1/da3/a02327.html#a0467dc30f5bb6a1c9ee1487a3aced1a1", null ],
-    [ "BattlefieldIDs", "d1/da3/a02327.html#aff53bf428d550c270744c9a188d4187f", [
-      [ "BATTLEFIELD_BATTLEID_WG", "d1/da3/a02327.html#aff53bf428d550c270744c9a188d4187fa38e75e8c40750cb29f0d478d19974010", null ]
+    [ "boss_jaraxxus", "db/d2e/a16416.html", "db/d2e/a16416" ],
+    [ "boss_jaraxxus::boss_jaraxxusAI", "dc/d43/a16420.html", "dc/d43/a16420" ],
+    [ "npc_fel_infernal", "dd/dce/a16424.html", "dd/dce/a16424" ],
+    [ "npc_fel_infernal::npc_fel_infernalAI", "d3/d9e/a16428.html", "d3/d9e/a16428" ],
+    [ "npc_mistress_of_pain", "d1/d00/a16432.html", "d1/d00/a16432" ],
+    [ "npc_mistress_of_pain::npc_mistress_of_painAI", "d5/d0f/a16436.html", "d5/d0f/a16436" ],
+    [ "spell_toc25_mistress_kiss_aura", "d8/d0d/a16440.html", "d8/d0d/a16440" ],
+    [ "spell_mistress_kiss_area", "d5/d87/a16444.html", "d5/d87/a16444" ],
+    [ "JaraxxusEvents", "d1/da3/a02327.html#a8720becd3353ce4c1eaf4b10f65c3bf3", [
+      [ "EVENT_SPELL_FEL_FIREBALL", "d1/da3/a02327.html#a8720becd3353ce4c1eaf4b10f65c3bf3a9631463a0db16f2a5c6e611704b43508", null ],
+      [ "EVENT_SPELL_FEL_LIGHTNING", "d1/da3/a02327.html#a8720becd3353ce4c1eaf4b10f65c3bf3a1de9015cbd472ec6adbb63af3e399005", null ],
+      [ "EVENT_SPELL_INCINERATE_FLESH", "d1/da3/a02327.html#a8720becd3353ce4c1eaf4b10f65c3bf3a8ada8204aa9d3f27ef49a2f4bac31f5a", null ],
+      [ "EVENT_SPELL_NETHER_POWER", "d1/da3/a02327.html#a8720becd3353ce4c1eaf4b10f65c3bf3aa506cad881d3afd3b1c93cf7556eec6e", null ],
+      [ "EVENT_SPELL_LEGION_FLAME", "d1/da3/a02327.html#a8720becd3353ce4c1eaf4b10f65c3bf3aa8f6608d034390c00d5137bf7a07ef19", null ],
+      [ "EVENT_SPELL_TOUCH_OF_JARAXXUS", "d1/da3/a02327.html#a8720becd3353ce4c1eaf4b10f65c3bf3a871855c238290bffaa2d1d4b00ebfcda", null ],
+      [ "EVENT_SUMMON_VOLCANO", "d1/da3/a02327.html#a8720becd3353ce4c1eaf4b10f65c3bf3af2b15f4596bd312ee5a6b1f9aa9a65d4", null ],
+      [ "EVENT_SUMMON_NETHER_PORTAL", "d1/da3/a02327.html#a8720becd3353ce4c1eaf4b10f65c3bf3a99993495098d5b8e7e662a1cdcc70a74", null ],
+      [ "EVENT_SPELL_FEL_STEAK", "d1/da3/a02327.html#a8720becd3353ce4c1eaf4b10f65c3bf3a96a8166a72ca73a40f407cb8383f6a64", null ],
+      [ "EVENT_SPELL_SHIVAN_SLASH", "d1/da3/a02327.html#a8720becd3353ce4c1eaf4b10f65c3bf3a0cbc7f252a2f08714d920dfce6eeedd6", null ],
+      [ "EVENT_SPELL_SPINNING_PAIN_SPIKE", "d1/da3/a02327.html#a8720becd3353ce4c1eaf4b10f65c3bf3a4f57cac95020fd58e140584590321d3e", null ],
+      [ "EVENT_SPELL_MISTRESS_KISS", "d1/da3/a02327.html#a8720becd3353ce4c1eaf4b10f65c3bf3a5438b6e18c099033625132c8ad268b15", null ]
     ] ],
-    [ "BattlefieldObjectiveStates", "d1/da3/a02327.html#af6db5a1d93982b261639cd12634a2798", [
-      [ "BF_CAPTUREPOINT_OBJECTIVESTATE_NEUTRAL", "d1/da3/a02327.html#af6db5a1d93982b261639cd12634a2798afafb6299c9f30c2bd0d2caac21577178", null ],
-      [ "BF_CAPTUREPOINT_OBJECTIVESTATE_ALLIANCE", "d1/da3/a02327.html#af6db5a1d93982b261639cd12634a2798ac05149e43f48e8fbe687c2cb48a88ac7", null ],
-      [ "BF_CAPTUREPOINT_OBJECTIVESTATE_HORDE", "d1/da3/a02327.html#af6db5a1d93982b261639cd12634a2798a683078aa231d432a72923b9eff4d5a29", null ],
-      [ "BF_CAPTUREPOINT_OBJECTIVESTATE_NEUTRAL_ALLIANCE_CHALLENGE", "d1/da3/a02327.html#af6db5a1d93982b261639cd12634a2798a47f8021bf59a901b2a512d28cc044c7f", null ],
-      [ "BF_CAPTUREPOINT_OBJECTIVESTATE_NEUTRAL_HORDE_CHALLENGE", "d1/da3/a02327.html#af6db5a1d93982b261639cd12634a2798a28c520f0b5997a10c6e8c040d803a9d5", null ],
-      [ "BF_CAPTUREPOINT_OBJECTIVESTATE_ALLIANCE_HORDE_CHALLENGE", "d1/da3/a02327.html#af6db5a1d93982b261639cd12634a2798a9c9e1d966e139a18ba54ee2c2fa0bc2b", null ],
-      [ "BF_CAPTUREPOINT_OBJECTIVESTATE_HORDE_ALLIANCE_CHALLENGE", "d1/da3/a02327.html#af6db5a1d93982b261639cd12634a2798af7b31d0894d6b9bd950d9a48c86da7c4", null ]
+    [ "JaraxxusNPCs", "d1/da3/a02327.html#afe0d2ebcbbcebeb9d5c667bf982efe32", [
+      [ "NPC_LEGION_FLAME", "d1/da3/a02327.html#afe0d2ebcbbcebeb9d5c667bf982efe32a889c8b99e26ee87ba199ebcdf0867b76", null ],
+      [ "NPC_INFERNAL_VOLCANO", "d1/da3/a02327.html#afe0d2ebcbbcebeb9d5c667bf982efe32a6395ad405176040b022e963859646d11", null ],
+      [ "NPC_FEL_INFERNAL", "d1/da3/a02327.html#afe0d2ebcbbcebeb9d5c667bf982efe32a920f3d374a6bef7034505b5d2c9a4a34", null ],
+      [ "NPC_NETHER_PORTAL", "d1/da3/a02327.html#afe0d2ebcbbcebeb9d5c667bf982efe32a1d2be333e5a6ce48a4afea7ccf760e79", null ],
+      [ "NPC_MISTRESS_OF_PAIN", "d1/da3/a02327.html#afe0d2ebcbbcebeb9d5c667bf982efe32a1d4846e8c3400fd4728fb92351b215cc", null ]
     ] ],
-    [ "BattlefieldSounds", "d1/da3/a02327.html#a7c3836172413cb3b2cdabeb20b99f1b4", [
-      [ "BF_HORDE_WINS", "d1/da3/a02327.html#a7c3836172413cb3b2cdabeb20b99f1b4af85d42c135f0c26853ba8465193e8f3a", null ],
-      [ "BF_ALLIANCE_WINS", "d1/da3/a02327.html#a7c3836172413cb3b2cdabeb20b99f1b4ae1455c543e0df55993ddfe9e73cdc138", null ],
-      [ "BF_START", "d1/da3/a02327.html#a7c3836172413cb3b2cdabeb20b99f1b4a586da22ef0e5767a451125b0ca064007", null ]
+    [ "JaraxxusSpells", "d1/da3/a02327.html#a0bdea2820b7a1fb8a7c14d71a00e6469", [
+      [ "SPELL_NETHER_POWER", "d1/da3/a02327.html#a0bdea2820b7a1fb8a7c14d71a00e6469a72e2c83a4c15fc78afe75ba3cbd9254d", null ],
+      [ "SPELL_INCINERATE_FLESH", "d1/da3/a02327.html#a0bdea2820b7a1fb8a7c14d71a00e6469a3befa83e54a8c2e9856f8d918e233b00", null ],
+      [ "SPELL_FEL_FIREBALL", "d1/da3/a02327.html#a0bdea2820b7a1fb8a7c14d71a00e6469a99ac159470e5ec6df42c6b4e8d239f19", null ],
+      [ "SPELL_FEL_LIGHTNING", "d1/da3/a02327.html#a0bdea2820b7a1fb8a7c14d71a00e6469a8d26c330ee3df2c044c9407a916b040e", null ],
+      [ "SPELL_TOUCH_OF_JARAXXUS", "d1/da3/a02327.html#a0bdea2820b7a1fb8a7c14d71a00e6469a195d3408a69cc4e4a0873ca2c73adc3f", null ],
+      [ "SPELL_LEGION_FLAME", "d1/da3/a02327.html#a0bdea2820b7a1fb8a7c14d71a00e6469aa406bcc5c080757175ce7795b2348c70", null ],
+      [ "SPELL_LEGION_FLAME_NPC_AURA", "d1/da3/a02327.html#a0bdea2820b7a1fb8a7c14d71a00e6469ab16d37ba8890749757bf299d9f850f7f", null ],
+      [ "SPELL_SUMMON_VOLCANO", "d1/da3/a02327.html#a0bdea2820b7a1fb8a7c14d71a00e6469a60fe386e24f058eaff5363e9d4e0ac2c", null ],
+      [ "SPELL_SUMMON_NETHER_PORTAL", "d1/da3/a02327.html#a0bdea2820b7a1fb8a7c14d71a00e6469ad5a8025e6e8f9cb91f856969245e08a7", null ],
+      [ "SPELL_FEL_STEAK", "d1/da3/a02327.html#a0bdea2820b7a1fb8a7c14d71a00e6469a0ec766dcad1678d56fbb0e8285b2c99c", null ],
+      [ "SPELL_FEL_STEAK_MORPH", "d1/da3/a02327.html#a0bdea2820b7a1fb8a7c14d71a00e6469a92e2410fcedce59d7c3607044065e91f", null ],
+      [ "SPELL_SHIVAN_SLASH", "d1/da3/a02327.html#a0bdea2820b7a1fb8a7c14d71a00e6469ab697c0d560ed6877bb6889bf294065f1", null ],
+      [ "SPELL_SPINNING_PAIN_SPIKE", "d1/da3/a02327.html#a0bdea2820b7a1fb8a7c14d71a00e6469a48db06fc7e7ea62bc6f77d3dd91747ec", null ],
+      [ "SPELL_MISTRESS_KISS", "d1/da3/a02327.html#a0bdea2820b7a1fb8a7c14d71a00e6469aa9a172d8dc0e7aee435b26174dc2ca8c", null ],
+      [ "SPELL_MISTRESS_KISS_PERIODIC_DUMMY", "d1/da3/a02327.html#a0bdea2820b7a1fb8a7c14d71a00e6469aec0a94cc1daae616809034f3a31043b6", null ],
+      [ "SPELL_MISTRESS_KISS_INTERRUPT", "d1/da3/a02327.html#a0bdea2820b7a1fb8a7c14d71a00e6469ac803602c1184b2893dfebf51eb171111", null ],
+      [ "SPELL_CHAINS", "d1/da3/a02327.html#a0bdea2820b7a1fb8a7c14d71a00e6469a66970a259c6d1ebdea3185981f3097e6", null ],
+      [ "SPELL_BERSERK", "d1/da3/a02327.html#a0bdea2820b7a1fb8a7c14d71a00e6469ad7b3e50b45f9949cd0e4030ca19a6b4f", null ]
     ] ],
-    [ "BattlefieldTypes", "d1/da3/a02327.html#a6f435417da35c7d1b51c95e516fc6b2d", [
-      [ "BATTLEFIELD_WG", "d1/da3/a02327.html#a6f435417da35c7d1b51c95e516fc6b2da1fc74ab91b471d0c59f02fea08cb2efd", null ],
-      [ "BATTLEFIELD_TB", "d1/da3/a02327.html#a6f435417da35c7d1b51c95e516fc6b2daf6a0681946ddb59a6623fb1d76f4f610", null ]
+    [ "JaraxxusTexts", "d1/da3/a02327.html#a0de5ed4733cf2c29f4248c9eddb9360e", [
+      [ "SAY_INTRO", "d1/da3/a02327.html#a0de5ed4733cf2c29f4248c9eddb9360eaf5bc3db04213b3bf118af6ce85b5a637", null ],
+      [ "SAY_AGGRO", "d1/da3/a02327.html#a0de5ed4733cf2c29f4248c9eddb9360ea47c752fff069f3e55065795eef2a9bfe", null ],
+      [ "EMOTE_LEGION_FLAME", "d1/da3/a02327.html#a0de5ed4733cf2c29f4248c9eddb9360ea7217192e0677e014f01747f589e4510f", null ],
+      [ "EMOTE_NETHER_PORTAL", "d1/da3/a02327.html#a0de5ed4733cf2c29f4248c9eddb9360ea53129d482821d39ef2e9ec6bc49be994", null ],
+      [ "SAY_MISTRESS_OF_PAIN", "d1/da3/a02327.html#a0de5ed4733cf2c29f4248c9eddb9360ea36d8706f7d591eeae67e5ab22e97ef2e", null ],
+      [ "EMOTE_INCINERATE", "d1/da3/a02327.html#a0de5ed4733cf2c29f4248c9eddb9360eaadb464bdc16c06288cb11d9fbd32232f", null ],
+      [ "SAY_INCINERATE", "d1/da3/a02327.html#a0de5ed4733cf2c29f4248c9eddb9360ea5cdb0d02f284b7b5291ce74280295247", null ],
+      [ "EMOTE_INFERNAL_ERUPTION", "d1/da3/a02327.html#a0de5ed4733cf2c29f4248c9eddb9360eabd232b7f412e11fae257acd4044638db", null ],
+      [ "SAY_INFERNAL_ERUPTION", "d1/da3/a02327.html#a0de5ed4733cf2c29f4248c9eddb9360ea6497a890096599c52269313b8a8605b7", null ],
+      [ "SAY_KILL_PLAYER", "d1/da3/a02327.html#a0de5ed4733cf2c29f4248c9eddb9360ead8ce3f4de5ecaa5762ee8b55570503a4", null ],
+      [ "SAY_DEATH", "d1/da3/a02327.html#a0de5ed4733cf2c29f4248c9eddb9360ea04c962d9b6aaafde54ff92a54369135e", null ],
+      [ "SAY_BERSERK", "d1/da3/a02327.html#a0de5ed4733cf2c29f4248c9eddb9360eada55f761193c5ce51964480004c8462b", null ]
     ] ],
-    [ "BATTLEFIELD_OBJECTIVE_UPDATE_INTERVAL", "d1/da3/a02327.html#a79df696836c3edc53ca1868aab7f6e76", null ],
-    [ "BattlefieldFactions", "d1/da3/a02327.html#af5e231859535c4e1e6bd27ee42753f63", null ]
+    [ "AddSC_boss_jaraxxus", "d1/da3/a02327.html#ae05057811020071be5480076d0ffe62b", null ]
 ];

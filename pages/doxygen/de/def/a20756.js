@@ -1,6 +1,7 @@
 var a20756 =
 [
-    [ "boss_yoggsaron_neltharionAI", "d6/d81/a20760.html", "d6/d81/a20760" ],
-    [ "boss_yoggsaron_neltharion", "de/def/a20756.html#a9910e0d6043e7738cba0fe9ae7e92898", null ],
-    [ "GetAI", "de/def/a20756.html#abce5f59c35f7af3e1d5b30cc55ff48e6", null ]
+    [ "boss_yoggsaron_corruptor_tentacleAI", "de/def/a20756.html#a5f8fbd8ac772fad79f809de4d3128574", null ],
+    [ "DoAction", "de/def/a20756.html#abac26b3be775eea734403be36cbed4d2", null ],
+    [ "SelectCorruptionTarget", "de/def/a20756.html#a1d61b34d31794cd2bdcddfe91dc1103e", null ],
+    [ "UpdateAI", "de/def/a20756.html#a0269d1dc655af5680d7074cb093740b8", null ]
 ];

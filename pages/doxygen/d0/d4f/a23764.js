@@ -1,6 +1,7 @@
 var a23764 =
 [
-    [ "HandleAfterRemove", "d0/d4f/a23764.html#ac9756a8f206c114ff6443331ca266184", null ],
-    [ "PrepareAuraScript", "d0/d4f/a23764.html#a2f67291e6e4291c9d01cdbcbe04a7db7", null ],
-    [ "Register", "d0/d4f/a23764.html#ac36d76ad8a5ecb2e437dcb8f1248386d", null ]
+    [ "Load", "d0/d4f/a23764.html#aba7e1a0b87607386649bb842b5058c3e", null ],
+    [ "OnRemove", "d0/d4f/a23764.html#ac2f7a4532f62fb49f54c60b79aceb2e8", null ],
+    [ "PrepareAuraScript", "d0/d4f/a23764.html#ac62b18eedbadb0b3581d772909175e96", null ],
+    [ "Register", "d0/d4f/a23764.html#a17e8be131f01b2434b18740b20a08d6e", null ]
 ];

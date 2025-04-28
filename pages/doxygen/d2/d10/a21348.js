@@ -1,6 +1,8 @@
 var a21348 =
 [
-    [ "npc_sinkhole_kill_creditAI", "dd/d12/a21352.html", "dd/d12/a21352" ],
-    [ "npc_sinkhole_kill_credit", "d2/d10/a21348.html#a627d01aaaa3408986f2b4d171624e680", null ],
-    [ "GetAI", "d2/d10/a21348.html#a4d734432f132bea2c4525d049fbcfa67", null ]
+    [ "npc_azure_raiderAI", "d2/d10/a21348.html#a6928428a9dc1ed483a682c8f2a281ebf", null ],
+    [ "Reset", "d2/d10/a21348.html#a80d9e586e5c03d19b6b9f0e0f7607b20", null ],
+    [ "UpdateAI", "d2/d10/a21348.html#a2e9833d0d25fd8c442f7ab279de6a40a", null ],
+    [ "uiConcussionBlowTimer", "d2/d10/a21348.html#a4e7dfb8d4991bf7ad3d0eeb72dff770b", null ],
+    [ "uiMagicReflectionTimer", "d2/d10/a21348.html#acb262ab506ea58201abfe2057525c548", null ]
 ];

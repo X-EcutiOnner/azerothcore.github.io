@@ -1,6 +1,7 @@
 var a24948 =
 [
-    [ "CheckRequirement", "de/d0c/a24948.html#a8a1367ad6c51a74e7cefbc2440eab697", null ],
-    [ "PrepareSpellScript", "de/d0c/a24948.html#a859ac50e6774471c232113e5c007f602", null ],
-    [ "Register", "de/d0c/a24948.html#aceafb7d6cfa300011935026f4d7ac491", null ]
+    [ "HandleScript", "de/d0c/a24948.html#a9fb69011ce5245925eb6a4fd011d18b2", null ],
+    [ "PrepareSpellScript", "de/d0c/a24948.html#ab9300ff0efc4a36d652a1b56c031dc2f", null ],
+    [ "Register", "de/d0c/a24948.html#aa0828fa1a3cf75e8222607a4f2fff950", null ],
+    [ "Validate", "de/d0c/a24948.html#a9469ebca2d40dd2944f2fb7286fc64ff", null ]
 ];

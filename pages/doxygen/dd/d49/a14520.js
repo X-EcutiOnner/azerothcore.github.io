@@ -1,7 +1,6 @@
 var a14520 =
 [
-    [ "hyjalTyrandeAI", "de/dab/a14524.html", "de/dab/a14524" ],
-    [ "npc_hyjal_tyrande", "dd/d49/a14520.html#abd2ba500d8e2bbf20c00905012d47d12", null ],
-    [ "GetAI", "dd/d49/a14520.html#a2f863e616352a98763eef9a717d73388", null ],
-    [ "OnGossipSelect", "dd/d49/a14520.html#a014a63098e18b08b6f5cd33a0cba2072", null ]
+    [ "HandleHit", "dd/d49/a14520.html#aec32d6b45bdcfe3a6a32c2fb7558edd1", null ],
+    [ "PrepareSpellScript", "dd/d49/a14520.html#a31fdc4d630a4a6647d2a9b1100aecdad", null ],
+    [ "Register", "dd/d49/a14520.html#a64a861b5c25df5780390aa55899393d7", null ]
 ];

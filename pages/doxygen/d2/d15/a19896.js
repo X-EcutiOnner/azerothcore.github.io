@@ -1,12 +1,7 @@
 var a19896 =
 [
-    [ "boss_freya_elder_stonebarkAI", "d2/d15/a19896.html#a492329e296aaf29861d76e12e2b94631", null ],
-    [ "DamageTaken", "d2/d15/a19896.html#af25c675f46f5ca0d0da170f367cc8bdc", null ],
-    [ "JustDied", "d2/d15/a19896.html#a8dcdf4a1c8df10fc8ca419de924fe136", null ],
-    [ "JustEngagedWith", "d2/d15/a19896.html#a77a231b75bbbbb56638e1e5535827150", null ],
-    [ "KilledUnit", "d2/d15/a19896.html#ad1ce26306c2ea2102183b0679d46efd3", null ],
-    [ "Reset", "d2/d15/a19896.html#a0d17571be8905c4c33ed4591e963d680", null ],
-    [ "UpdateAI", "d2/d15/a19896.html#acd21050c265f6703060f95f2e3c725f3", null ],
-    [ "_chargesCount", "d2/d15/a19896.html#a294714a547bbc7a7364c7477bdc0422c", null ],
-    [ "events", "d2/d15/a19896.html#a07bcbf839c3b0b3924ec1915b47af0f2", null ]
+    [ "OnPeriodic", "d2/d15/a19896.html#a9407d5477a40e36863e5fb5775dda122", null ],
+    [ "PrepareAuraScript", "d2/d15/a19896.html#a1ecb6e617976cdfbeb534849db41d57a", null ],
+    [ "Register", "d2/d15/a19896.html#a34a31e96b21de9b9320d8276f7beb45e", null ],
+    [ "Validate", "d2/d15/a19896.html#a2c2ca2c0425ab3b815d246b1caebf588", null ]
 ];

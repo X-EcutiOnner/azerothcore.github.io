@@ -1,6 +1,6 @@
 var a15124 =
 [
-    [ "instance_wailing_caverns_InstanceMapScript", "d9/df6/a15128.html", "d9/df6/a15128" ],
-    [ "instance_wailing_caverns", "d6/da3/a15124.html#a906f59c39f59237e9eedb479dfc7d825", null ],
-    [ "GetInstanceScript", "d6/da3/a15124.html#a0f1020e86443d6902b3c4d8726f3e610", null ]
+    [ "aqsentinelAI", "d9/df6/a15128.html", "d9/df6/a15128" ],
+    [ "npc_anubisath_sentinel", "d6/da3/a15124.html#ada1ab0d1857fe52020e798d9710a66cb", null ],
+    [ "GetAI", "d6/da3/a15124.html#ae19b8ba3766ede8f715dad5ff8d4b2d2", null ]
 ];

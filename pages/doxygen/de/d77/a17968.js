@@ -1,6 +1,7 @@
 var a17968 =
 [
-    [ "npc_rimefangAI", "dc/d24/a17972.html", "dc/d24/a17972" ],
-    [ "npc_rimefang", "de/d77/a17968.html#af8ab4e318726b5250de56e3c6d09fcd2", null ],
-    [ "GetAI", "de/d77/a17968.html#a2fce9c36b7ef1861c9dcb5db2cacf438", null ]
+    [ "HandleScript", "de/d77/a17968.html#a5fbb1d26c4e7d5d21745004e477b3c1e", null ],
+    [ "PrepareSpellScript", "de/d77/a17968.html#a7e6b56f426be7925255da3ebc239f909", null ],
+    [ "Register", "de/d77/a17968.html#a0eb2d734ac99d3a036b95b6daa39b9f5", null ],
+    [ "Validate", "de/d77/a17968.html#a86b4296eab73fc63b38558871f16a889", null ]
 ];

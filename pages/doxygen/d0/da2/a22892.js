@@ -1,6 +1,6 @@
 var a22892 =
 [
-    [ "HandleScriptEffect", "d0/da2/a22892.html#a0810dd4ad4d324c1a53e192fc99d1d35", null ],
-    [ "PrepareSpellScript", "d0/da2/a22892.html#a0ece61d7bed3e19ee6f6175a55c0733d", null ],
-    [ "Register", "d0/da2/a22892.html#a827cefe322562f0e8ea7cfa58b9a776b", null ]
+    [ "npc_supremus_punch_invisible_stalker", "d0/da2/a22892.html#add7d0e711ef02a16ef58d90cfc8ee733", null ],
+    [ "IsSummonedBy", "d0/da2/a22892.html#a467d5a43bb6d2349ad859a0ef7de4c00", null ],
+    [ "UpdateAI", "d0/da2/a22892.html#a90ecfe4257ef77a6d6a200a2f017c51a", null ]
 ];

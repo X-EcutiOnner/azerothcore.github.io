@@ -1,6 +1,7 @@
 var a26400 =
 [
-    [ "HandleSendEvent", "d8/da8/a26400.html#a8126102215aa6eedd638b89d1a6b7110", null ],
-    [ "PrepareSpellScript", "d8/da8/a26400.html#abc57ba05637e2c51bf2d1fb918a93667", null ],
-    [ "Register", "d8/da8/a26400.html#ac37abad48c398bdb22529c1a44327d34", null ]
+    [ "HandleEffectPeriodic", "d8/da8/a26400.html#a2fab66e86d3c0207183db72ecbb6fc6c", null ],
+    [ "PrepareAuraScript", "d8/da8/a26400.html#ae0e3b459c71933c25da8136cdcddf200", null ],
+    [ "Register", "d8/da8/a26400.html#ac924ebbc893476cabab5f05120d0cd8d", null ],
+    [ "Validate", "d8/da8/a26400.html#ada327cf500aec62fdf34f9d8a4ccd6e2", null ]
 ];

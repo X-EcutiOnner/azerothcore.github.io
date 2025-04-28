@@ -1,7 +1,6 @@
 var a18832 =
 [
-    [ "OnApply", "db/d40/a18832.html#a72a01dea703436b2a220a9976da60fa6", null ],
-    [ "PrepareAuraScript", "db/d40/a18832.html#adb17425258d4fb2c0c464236e15f32d7", null ],
-    [ "Register", "db/d40/a18832.html#af026c126029c68ed8b7c6c1886720e4c", null ],
-    [ "Validate", "db/d40/a18832.html#a5674396828adf4e80102ed2277f1e08a", null ]
+    [ "boss_isle_of_conquestAI", "de/d73/a18836.html", "de/d73/a18836" ],
+    [ "boss_isle_of_conquest", "db/d40/a18832.html#ad4052d1b6865585d32016e1240449659", null ],
+    [ "GetAI", "db/d40/a18832.html#ae14201c4f8654bf2c0cd9ac8a82f3800", null ]
 ];

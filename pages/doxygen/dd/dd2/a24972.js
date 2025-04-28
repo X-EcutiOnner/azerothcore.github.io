@@ -1,7 +1,8 @@
 var a24972 =
 [
-    [ "HandleDummy", "dd/dd2/a24972.html#ab00358dc50fa943685fdd87e5a8ac224", null ],
-    [ "Load", "dd/dd2/a24972.html#a31075533c24011797bd0f99dce5e8330", null ],
-    [ "PrepareSpellScript", "dd/dd2/a24972.html#abf0acc8765f6e02674b8e93aca575a98", null ],
-    [ "Register", "dd/dd2/a24972.html#ad1bd05a154b506424954ef879e5b9fba", null ]
+    [ "OnApply", "dd/dd2/a24972.html#a6aa83e925a93dc7ff89c0357debc75d1", null ],
+    [ "OnRemove", "dd/dd2/a24972.html#a3ced5941c25fce087699aa095cd487c9", null ],
+    [ "PrepareAuraScript", "dd/dd2/a24972.html#a497776c6ffdda8670fa255b76057bf2c", null ],
+    [ "Register", "dd/dd2/a24972.html#ac05f2898ebbb78bf55d70d8a660fb22d", null ],
+    [ "Validate", "dd/dd2/a24972.html#a44fc9ff07b9db5b2a1263d244916c79f", null ]
 ];

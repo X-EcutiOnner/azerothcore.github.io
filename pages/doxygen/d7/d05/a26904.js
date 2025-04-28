@@ -1,8 +1,5 @@
 var a26904 =
 [
-    [ "CharacterActionIpLogger", "d7/d05/a26904.html#a39861f7348a79031a8215b435ba81059", null ],
-    [ "CharacterIPLogAction", "d7/d05/a26904.html#abf461fe7e7d89057aeb122abbd27e30e", null ],
-    [ "OnPlayerCreate", "d7/d05/a26904.html#a48844efac9d9af9c6415ad49d2473688", null ],
-    [ "OnPlayerLogin", "d7/d05/a26904.html#a753ed387ea50eaf4c56846eab33cdfc0", null ],
-    [ "OnPlayerLogout", "d7/d05/a26904.html#a3a4bcaf033e71e2dbeddc2ee6528494e", null ]
+    [ "achievement_resilient_victory", "d7/d05/a26904.html#a6224c8a4b1b1ee7c1ab09d8873e86aa8", null ],
+    [ "OnCheck", "d7/d05/a26904.html#a21445d406f67771a20608260b3f9b033", null ]
 ];

@@ -1,7 +1,6 @@
 var a24540 =
 [
-    [ "CalculateAmount", "da/db3/a24540.html#af51a8e22ddfe0648f08a4190d730fbda", null ],
-    [ "CheckProc", "da/db3/a24540.html#a2f80dcd9e5922af55dee096c95079062", null ],
-    [ "PrepareAuraScript", "da/db3/a24540.html#af54ef254d0897140255960146507e986", null ],
-    [ "Register", "da/db3/a24540.html#ad6e4bd4390f6f88494984af792a11b90", null ]
+    [ "HandleScriptEffect", "da/db3/a24540.html#afaffd667477e286700dd7e5562423452", null ],
+    [ "PrepareSpellScript", "da/db3/a24540.html#a9c30d4d6427cfc96b88a1427afcedb00", null ],
+    [ "Register", "da/db3/a24540.html#ab8b68e02d05abceeb4b7eef00092e759", null ]
 ];

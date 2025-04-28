@@ -1,6 +1,8 @@
 var a13088 =
 [
-    [ "instance_stratholme_InstanceMapScript", "d4/d79/a13092.html", "d4/d79/a13092" ],
-    [ "instance_stratholme", "dc/d7c/a13088.html#a42ac504b2790af8c37a44e87fbd9c6c1", null ],
-    [ "GetInstanceScript", "dc/d7c/a13088.html#a3d3d2e773029dd1c4bc1a59a94c4e015", null ]
+    [ "CalcPeriodic", "dc/d7c/a13088.html#a9aaca3bb1d762c9bddf3b91205f48d00", null ],
+    [ "HandleDummyTick", "dc/d7c/a13088.html#acd3616df94f888ad5fb1c5b0607f6f25", null ],
+    [ "HandleUpdatePeriodic", "dc/d7c/a13088.html#a70ef86fd58eec1422bac6b61a4123842", null ],
+    [ "PrepareAuraScript", "dc/d7c/a13088.html#a9a97a6ab249728dbad4d3603640a7963", null ],
+    [ "Register", "dc/d7c/a13088.html#ab6b223ed68a521ea9a3cbc2a6e21ac49", null ]
 ];

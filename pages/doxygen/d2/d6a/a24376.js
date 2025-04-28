@@ -1,6 +1,9 @@
 var a24376 =
 [
-    [ "HandleProc", "d2/d6a/a24376.html#ab00bbdd8580426a621abc11c4308bdc4", null ],
-    [ "PrepareAuraScript", "d2/d6a/a24376.html#a2840931b939b95e6a476c07f08ca66b5", null ],
-    [ "Register", "d2/d6a/a24376.html#ae769fddc14aed4d1055d2f947d292fcf", null ]
+    [ "npc_pet_shaman_earth_elemental", "d2/d6a/a24376.html#a07f3792cb3b5264d209f1b4726867773", null ],
+    [ "InitializeAI", "d2/d6a/a24376.html#a8bbca6686ae324a50cd1598125280446", null ],
+    [ "JustEngagedWith", "d2/d6a/a24376.html#ad9b48901b1d96e59ce60af6411a8baaf", null ],
+    [ "UpdateAI", "d2/d6a/a24376.html#ab28951b483cab31bf5672fc74e7323e1", null ],
+    [ "_events", "d2/d6a/a24376.html#ab7f72d0d574322965f1d0b23f144f1be", null ],
+    [ "_initAttack", "d2/d6a/a24376.html#a2af73c97ef60b5b0ade26c9760b8b379", null ]
 ];

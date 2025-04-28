@@ -1,8 +1,9 @@
 var a04976 =
 [
-    [ "LocationInfo", "d8/dbe/a04976.html#ae2e70dc65cd3b0379600a67dce7de6ba", null ],
-    [ "ground_Z", "d8/dbe/a04976.html#a0ffbfcfc677809dda6250855d9594ca5", null ],
-    [ "hitInstance", "d8/dbe/a04976.html#a5e3fc81a2b7353808dc0c95eebe570be", null ],
-    [ "hitModel", "d8/dbe/a04976.html#a2a7e0be8d8e43b055dd1d43cd5331738", null ],
-    [ "rootId", "d8/dbe/a04976.html#aae82d7d8518db5e131d6a327927c75a2", null ]
+    [ "MapRayCallback", "d8/dbe/a04976.html#a1a4a654bc929dab5b5a2804c4b88389d", null ],
+    [ "didHit", "d8/dbe/a04976.html#a9d9abb0a5ffff131d2c19e88c3c8b836", null ],
+    [ "operator()", "d8/dbe/a04976.html#a0f218465b321da5f8289dfa815acbfd4", null ],
+    [ "flags", "d8/dbe/a04976.html#a88d1e6d6fa43608bcee21a822488f061", null ],
+    [ "hit", "d8/dbe/a04976.html#a6fc14ac7ae20effec9d2657a46b838fc", null ],
+    [ "prims", "d8/dbe/a04976.html#a389d8ee31e0cb665bfd9084d786750c5", null ]
 ];

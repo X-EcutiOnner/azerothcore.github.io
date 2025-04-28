@@ -1,6 +1,8 @@
 var a19624 =
 [
-    [ "boss_runemaster_molgeimAI", "dd/dd9/a19628.html", "dd/dd9/a19628" ],
-    [ "boss_runemaster_molgeim", "dd/ddf/a19624.html#a440e4e43b941ac2b956c7c586a95f991", null ],
-    [ "GetAI", "dd/ddf/a19624.html#a080e70913be1e6ad9521bab5b90a92a6", null ]
+    [ "HandlePeriodic", "dd/ddf/a19624.html#a2724a85983561a14db8b06ae492ead55", null ],
+    [ "OnRemove", "dd/ddf/a19624.html#a6d0f941f30d8c850e48396fffd13768d", null ],
+    [ "PrepareAuraScript", "dd/ddf/a19624.html#aea9d38dc7fdff6d38d252bb5ded57d78", null ],
+    [ "Register", "dd/ddf/a19624.html#a85270947972be9c299a642b31969ef68", null ],
+    [ "Validate", "dd/ddf/a19624.html#a91ebb4e69d02deb5129965f543c474d1", null ]
 ];

@@ -1,6 +1,6 @@
 var a26128 =
 [
-    [ "HandleScriptEffect", "df/dc3/a26128.html#a8b60ae77f13045a582548fe5d1186d54", null ],
-    [ "PrepareSpellScript", "df/dc3/a26128.html#ad68619783c4a1aad5a24826bf5d89858", null ],
-    [ "Register", "df/dc3/a26128.html#a929c49d6dd30b6a0dedfbc23c877eb36", null ]
+    [ "HandleEffectScriptEffect", "df/dc3/a26128.html#a852a621f0b008dc1294dbeb9e9877a04", null ],
+    [ "PrepareSpellScript", "df/dc3/a26128.html#a8b0f656994289f260645a2ae60d9ee4b", null ],
+    [ "Register", "df/dc3/a26128.html#a1fa4dca7bae36c5e2acde0fe8b8cd801", null ]
 ];

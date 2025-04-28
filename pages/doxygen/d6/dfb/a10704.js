@@ -1,9 +1,7 @@
 var a10704 =
 [
-    [ "Weather", "d6/dfb/a10704.html#aa404c94fec05b825454a7309827767c6", null ],
-    [ "Weather", "d6/dfb/a10704.html#a28f45d81441d2dde6917380978dfb4d0", null ],
-    [ "Write", "d6/dfb/a10704.html#a641c7de3e527dcdff07b3f602880b5c8", null ],
-    [ "Abrupt", "d6/dfb/a10704.html#a0abe1fcb36d21ac246174cdc98c0e261", null ],
-    [ "Intensity", "d6/dfb/a10704.html#ac37cee2364921a50e2b1ec1b19ed69b7", null ],
-    [ "WeatherID", "d6/dfb/a10704.html#a32e56458b1e562c124cfc0288a578134", null ]
+    [ "GuildBankSetTabText", "d6/dfb/a10704.html#aba353d3f94a88b71f49b9c0dc096be2c", null ],
+    [ "Read", "d6/dfb/a10704.html#a24f580f6addcd08945c05016b3f0e544", null ],
+    [ "Tab", "d6/dfb/a10704.html#ada6707c2105410d78d4335dbf4747141", null ],
+    [ "TabText", "d6/dfb/a10704.html#a9bb8c3f539fdcf389caf57ed818c6164", null ]
 ];

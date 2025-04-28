@@ -1,21 +1,9 @@
 var a03347 =
 [
-    [ "LocationXYZ", "da/d1e/a13489.html", "da/d1e/a13489" ],
-    [ "npc_rinji", "d6/d4e/a13493.html", "d6/d4e/a13493" ],
-    [ "npc_rinji::npc_rinjiAI", "d5/d8c/a13497.html", "d5/d8c/a13497" ],
-    [ "Rinji", "d9/dc9/a03347.html#ab769c87cc823749a5fe9cc0ed4f59133", [
-      [ "SAY_RIN_BY_OUTRUNNER", "d9/dc9/a03347.html#ab769c87cc823749a5fe9cc0ed4f59133a3aaaf930cf9ab49ca1d76cc6ed5e766c", null ],
-      [ "SAY_RIN_FREE", "d9/dc9/a03347.html#ab769c87cc823749a5fe9cc0ed4f59133a18a3ea60620bdbd5ef82292e56df01d3", null ],
-      [ "SAY_RIN_HELP", "d9/dc9/a03347.html#ab769c87cc823749a5fe9cc0ed4f59133af6414cba0564a077856ea0ee01cde0e0", null ],
-      [ "SAY_RIN_COMPLETE", "d9/dc9/a03347.html#ab769c87cc823749a5fe9cc0ed4f59133a2e8b271174b0c30e02c7d465daca4632", null ],
-      [ "SAY_RIN_PROGRESS_1", "d9/dc9/a03347.html#ab769c87cc823749a5fe9cc0ed4f59133a8f06b066d2b30fd7440ab8d0c0450aa5", null ],
-      [ "SAY_RIN_PROGRESS_2", "d9/dc9/a03347.html#ab769c87cc823749a5fe9cc0ed4f59133a9d77a031db4f3a40f412949a95be80c5", null ],
-      [ "QUEST_RINJI_TRAPPED", "d9/dc9/a03347.html#ab769c87cc823749a5fe9cc0ed4f59133aeb5734ecb62da42fe708673351c073e8", null ],
-      [ "NPC_RANGER", "d9/dc9/a03347.html#ab769c87cc823749a5fe9cc0ed4f59133aec7fcfc9b715f5aeadff781115a0e69e", null ],
-      [ "NPC_OUTRUNNER", "d9/dc9/a03347.html#ab769c87cc823749a5fe9cc0ed4f59133abc36fa763814aa6d572492b462e191a2", null ],
-      [ "GO_RINJI_CAGE", "d9/dc9/a03347.html#ab769c87cc823749a5fe9cc0ed4f59133a8b71e8dfde4865f3891f672d000410fb", null ]
-    ] ],
-    [ "AddSC_hinterlands", "d9/dc9/a03347.html#a0b6f7497a7db75be5fe9d90d14c46720", null ],
-    [ "AmbushMoveTo", "d9/dc9/a03347.html#aa2e998c0f3d966c32be9106221fe957c", null ],
-    [ "AmbushSpawn", "d9/dc9/a03347.html#ace1d91ebeb7be507ec886616fad7eef4", null ]
+    [ "GetCheckPacketBaseSize", "d9/dc9/a03347.html#aa48d9759919f0fb8415c0fd0731a23b1", null ],
+    [ "GetCheckPacketSize", "d9/dc9/a03347.html#adfb39c1ce4f6159c2c70e3cdf26978c9", null ],
+    [ "GetMaxWardenChecksForType", "d9/dc9/a03347.html#a1bcaaac66e1101e325fd62778b2f0c8d", null ],
+    [ "_luaEvalMidfix", "d9/dc9/a03347.html#a5506a4e4233b2c380f79ad1225c4dc93", null ],
+    [ "_luaEvalPostfix", "d9/dc9/a03347.html#ad14853510c2482e64bd81633e5074206", null ],
+    [ "_luaEvalPrefix", "d9/dc9/a03347.html#a259abc7d98e16cefc14404b5886cbc09", null ]
 ];

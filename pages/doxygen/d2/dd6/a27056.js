@@ -1,5 +1,6 @@
 var a27056 =
 [
-    [ "go_resonite_cask", "d2/dd6/a27056.html#a5a89aa97a4cd31d7ae183649ee750b74", null ],
-    [ "OnGossipHello", "d2/dd6/a27056.html#aae8591d53a6983886b52d404acdba293", null ]
+    [ "boss_emerissAI", "d4/dd5/a27060.html", "d4/dd5/a27060" ],
+    [ "boss_emeriss", "d2/dd6/a27056.html#a2d373e5add3f007cf214ad9763039aa2", null ],
+    [ "GetAI", "d2/dd6/a27056.html#a88a0696a12f12e612cce53c14f6b1f92", null ]
 ];

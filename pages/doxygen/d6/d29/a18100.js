@@ -1,7 +1,8 @@
 var a18100 =
 [
-    [ "OnRemove", "d6/d29/a18100.html#ac1a58d605156c03d05eb99605287e762", null ],
-    [ "PrepareAuraScript", "d6/d29/a18100.html#a2db820022631647e942b5ec84e63717e", null ],
-    [ "Register", "d6/d29/a18100.html#adfd213ccf8c5596fcd6dc69e53740376", null ],
-    [ "Validate", "d6/d29/a18100.html#aa498d4669f67eba4b904b203daeb5a7d", null ]
+    [ "NecroticPlagueTargetCheck", "d6/d29/a18100.html#abf9c21cc0041e5981a91abce8fb0a58f", null ],
+    [ "operator()", "d6/d29/a18100.html#a801a176e367a9f4446fe080845477654", null ],
+    [ "_notAura1", "d6/d29/a18100.html#a4f52417f233e1ab06210726670f719f3", null ],
+    [ "_notAura2", "d6/d29/a18100.html#affa9b300cd7a7469b0bdf2a72d380dd6", null ],
+    [ "_sourceObj", "d6/d29/a18100.html#a7cf2e485e65f2396cfdbfe8e646e4d53", null ]
 ];

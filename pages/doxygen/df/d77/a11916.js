@@ -1,8 +1,6 @@
 var a11916 =
 [
-    [ "boss_doomrelAI", "d9/d23/a11920.html", "d9/d23/a11920" ],
-    [ "boss_doomrel", "df/d77/a11916.html#aee45a59f9a62f1d32a7dc344bd3c46c6", null ],
-    [ "GetAI", "df/d77/a11916.html#a1b8a95208506f79c00ed40be2d51eb38", null ],
-    [ "OnGossipHello", "df/d77/a11916.html#a3c544ae70c46a62ac7dd2fc5cca97c8b", null ],
-    [ "OnGossipSelect", "df/d77/a11916.html#ae430a8fef70bd46267482a70084049c1", null ]
+    [ "boss_high_priestess_thaurissanAI", "df/d77/a11916.html#acbc89b59865a5fda5a4143dd8c690b37", null ],
+    [ "JustEngagedWith", "df/d77/a11916.html#a6602682950aab4e9932bf6cdfac9886b", null ],
+    [ "UpdateAI", "df/d77/a11916.html#a216a5bc7a38aa5e13f9d025f44e04779", null ]
 ];

@@ -1,6 +1,7 @@
 var a23148 =
 [
-    [ "go_ahune_ice_stone", "d1/d36/a23148.html#ab7b665f01da80751ea97705c5113bde7", null ],
-    [ "GossipSelect", "d1/d36/a23148.html#aadb4db41ed84922c0a2d0463b8616876", null ],
-    [ "_instance", "d1/d36/a23148.html#a43651f471ac777b59fb8ba67b830cd35", null ]
+    [ "FilterTargets", "d1/d36/a23148.html#adb8581b4b92aa49eda8f531e6d6de1ea", null ],
+    [ "HandleDummy", "d1/d36/a23148.html#a2fe7441bd9753cb912d11f8d36632f44", null ],
+    [ "PrepareSpellScript", "d1/d36/a23148.html#ae7714acbe0a08781e3bc297847c47870", null ],
+    [ "Register", "d1/d36/a23148.html#ade51d4cb00b63c46582c7a5e6e031e9d", null ]
 ];

@@ -1,6 +1,5 @@
 var a26948 =
 [
-    [ "AreaTrigger_at_area_52_entrance", "da/d2d/a26948.html#a5b7e21903bca1c04bad1394c6965d032", null ],
-    [ "OnTrigger", "da/d2d/a26948.html#a1e537d133ee5e6ad1dbb0c732e23a128", null ],
-    [ "_triggerTimes", "da/d2d/a26948.html#a6c3225f46ea71d06b81b25d5fb6e8f25", null ]
+    [ "achievement_sa_defense_of_the_ancients", "da/d2d/a26948.html#a678cffdece32710a42a92db0c092f3a5", null ],
+    [ "OnCheck", "da/d2d/a26948.html#af23e346f9b022f490b84c8081f847a2f", null ]
 ];

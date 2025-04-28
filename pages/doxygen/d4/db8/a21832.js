@@ -1,8 +1,7 @@
 var a21832 =
 [
-    [ "HandleEffectApply", "d4/db8/a21832.html#a8ebf9488a7eed99c3651424754cc95c5", null ],
-    [ "HandleEffectPeriodic", "d4/db8/a21832.html#a183976530ebf604656db12e41449427e", null ],
-    [ "PrepareAuraScript", "d4/db8/a21832.html#a03faa2eda84ac74dcff9a7a6a4e57440", null ],
-    [ "Register", "d4/db8/a21832.html#a76be53d506933d4b3c758578b7c33d5f", null ],
-    [ "_posZ", "d4/db8/a21832.html#a488ded8ff40240fe8fbef1567eb091b9", null ]
+    [ "npc_tallhorn_stagAI", "d4/db8/a21832.html#a50947c450eece979193b45728e5e1f82", null ],
+    [ "Reset", "d4/db8/a21832.html#a67dce7ad60ddea63fcba5e1e2079fa7c", null ],
+    [ "UpdateAI", "d4/db8/a21832.html#adf60f62fa92238cb315c42e0179c3f17", null ],
+    [ "_phase", "d4/db8/a21832.html#ace2ac6f418876393d2f6d3457b1bc4c0", null ]
 ];

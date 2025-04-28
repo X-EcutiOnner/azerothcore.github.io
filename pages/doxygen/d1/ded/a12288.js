@@ -1,9 +1,6 @@
 var a12288 =
 [
-    [ "HandleAfterApply", "d1/ded/a12288.html#ab5dea2b9154ea73e9f159f6899f71d1d", null ],
-    [ "HandleAfterRemove", "d1/ded/a12288.html#a07bfb9395c738a197bafbaa0a43b9d48", null ],
-    [ "PeriodicTick", "d1/ded/a12288.html#a1ea9275cf310f95e9f8351892dce0a21", null ],
-    [ "PrepareAuraScript", "d1/ded/a12288.html#a8f13734ec4eb2dfda64be4ed3410e9a7", null ],
-    [ "Register", "d1/ded/a12288.html#a778da1e0ae7d5cab576b55bff93c923f", null ],
-    [ "Validate", "d1/ded/a12288.html#a205b4cc0f5c513680573b41a786a0b5e", null ]
+    [ "instance_blackwing_lair_InstanceMapScript", "d8/d0a/a12292.html", "d8/d0a/a12292" ],
+    [ "instance_blackwing_lair", "d1/ded/a12288.html#afb9a7ce1ac297b023aa8364cc1383336", null ],
+    [ "GetInstanceScript", "d1/ded/a12288.html#a70aff4e1bb406f232d0b4961037ed0a1", null ]
 ];

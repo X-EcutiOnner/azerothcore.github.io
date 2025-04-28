@@ -1,7 +1,6 @@
 var a21080 =
 [
-    [ "HandleScript", "d6/dd0/a21080.html#a47b991c20c523d151893fefd9d487714", null ],
-    [ "PrepareSpellScript", "d6/dd0/a21080.html#ab2db47d0a2694c0734db600e810e190d", null ],
-    [ "Register", "d6/dd0/a21080.html#a3c2e7eb24506b43730f2e971fab81c75", null ],
-    [ "Validate", "d6/dd0/a21080.html#a89d601f6036fe38238767281f3427e54", null ]
+    [ "boss_svalaAI", "d3/d3a/a21084.html", "d3/d3a/a21084" ],
+    [ "boss_svala", "d6/dd0/a21080.html#a7ac5866eb6a013cb03f3d459b13b4a62", null ],
+    [ "GetAI", "d6/dd0/a21080.html#a0c3b94635eca667a28496cf799efad25", null ]
 ];

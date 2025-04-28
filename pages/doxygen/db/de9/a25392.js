@@ -1,6 +1,6 @@
 var a25392 =
 [
-    [ "HandleHeal", "db/de9/a25392.html#a3d315ab6d76d45f3d0f5de4a312377ff", null ],
-    [ "PrepareSpellScript", "db/de9/a25392.html#ad77d816c82714fe2cafb4dbf48691937", null ],
-    [ "Register", "db/de9/a25392.html#a313abe6367e5494bd81a557ab42f9f50", null ]
+    [ "HandleItemRemove", "db/de9/a25392.html#a28f8f8e6823bad14900d08ba10cab7e6", null ],
+    [ "PrepareSpellScript", "db/de9/a25392.html#a8b43e146724a2c8b3c495e886a79d021", null ],
+    [ "Register", "db/de9/a25392.html#af8b02c31b81dce516ea47d6a1235d683", null ]
 ];

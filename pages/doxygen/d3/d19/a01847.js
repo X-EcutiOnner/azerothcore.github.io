@@ -1,25 +1,26 @@
 var a01847 =
 [
-    [ "AllBattlegroundScript", "d7/d9a/a10169.html", "d7/d9a/a10169" ],
-    [ "BGScript", "d3/d19/a01847.html#ae9cb670a445a9cb3089a66cdcc822d0e", null ],
-    [ "AllBattlegroundHook", "d3/d19/a01847.html#a17a6e2af65c8cf024623d584c7f3a11f", [
-      [ "ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_START", "d3/d19/a01847.html#a17a6e2af65c8cf024623d584c7f3a11fa6d4da13cd771a0027ee68bb5a41cbef2", null ],
-      [ "ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_END_REWARD", "d3/d19/a01847.html#a17a6e2af65c8cf024623d584c7f3a11fa6249f560935453a3230622aff4d12aeb", null ],
-      [ "ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_UPDATE", "d3/d19/a01847.html#a17a6e2af65c8cf024623d584c7f3a11faa835decdfe3bd71e3f36d57ea58f0957", null ],
-      [ "ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_ADD_PLAYER", "d3/d19/a01847.html#a17a6e2af65c8cf024623d584c7f3a11fa3be3eca5302bcf69ac7f102837ac7de0", null ],
-      [ "ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_BEFORE_ADD_PLAYER", "d3/d19/a01847.html#a17a6e2af65c8cf024623d584c7f3a11fa20256e46bc7531203cb3129b8b2f1d6a", null ],
-      [ "ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_REMOVE_PLAYER_AT_LEAVE", "d3/d19/a01847.html#a17a6e2af65c8cf024623d584c7f3a11fa1eb34bf20bb04e911b0fc231d34e9175", null ],
-      [ "ALLBATTLEGROUNDHOOK_ON_QUEUE_UPDATE", "d3/d19/a01847.html#a17a6e2af65c8cf024623d584c7f3a11fa2f7e966409796169c03f2a540adc37d7", null ],
-      [ "ALLBATTLEGROUNDHOOK_ON_QUEUE_UPDATE_VALIDITY", "d3/d19/a01847.html#a17a6e2af65c8cf024623d584c7f3a11faf57572cc73fbade9e6d25116230677d5", null ],
-      [ "ALLBATTLEGROUNDHOOK_ON_ADD_GROUP", "d3/d19/a01847.html#a17a6e2af65c8cf024623d584c7f3a11fa939f6d860e7bd28952f4f8027c23b95f", null ],
-      [ "ALLBATTLEGROUNDHOOK_CAN_FILL_PLAYERS_TO_BG", "d3/d19/a01847.html#a17a6e2af65c8cf024623d584c7f3a11fa85e775dbed655cf407e7ebf1a64636f7", null ],
-      [ "ALLBATTLEGROUNDHOOK_IS_CHECK_NORMAL_MATCH", "d3/d19/a01847.html#a17a6e2af65c8cf024623d584c7f3a11fadbabd96f7abb5df470101fc9df9d9323", null ],
-      [ "ALLBATTLEGROUNDHOOK_CAN_SEND_MESSAGE_BG_QUEUE", "d3/d19/a01847.html#a17a6e2af65c8cf024623d584c7f3a11faab250dae715543f6092538ecead24a53", null ],
-      [ "ALLBATTLEGROUNDHOOK_ON_BEFORE_SEND_JOIN_MESSAGE_ARENA_QUEUE", "d3/d19/a01847.html#a17a6e2af65c8cf024623d584c7f3a11faa1d8bc700124dc104e154886f3af51c5", null ],
-      [ "ALLBATTLEGROUNDHOOK_ON_BEFORE_SEND_EXIT_MESSAGE_ARENA_QUEUE", "d3/d19/a01847.html#a17a6e2af65c8cf024623d584c7f3a11fa7ff5cea511eefb352f3c13df830a9cd8", null ],
-      [ "ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_END", "d3/d19/a01847.html#a17a6e2af65c8cf024623d584c7f3a11fa9a98407eef4207a402bffde24660cc00", null ],
-      [ "ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_DESTROY", "d3/d19/a01847.html#a17a6e2af65c8cf024623d584c7f3a11faf70d3c3e04932aa21b33d497d3f30953", null ],
-      [ "ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_CREATE", "d3/d19/a01847.html#a17a6e2af65c8cf024623d584c7f3a11fa5cab42841def4696e241e31f655d4cd1", null ],
-      [ "ALLBATTLEGROUNDHOOK_END", "d3/d19/a01847.html#a17a6e2af65c8cf024623d584c7f3a11fa0e3bc87a05b030bbdb15eda213d5b6af", null ]
-    ] ]
+    [ "boss_the_black_stalker", "dc/d8e/a23332.html", "dc/d8e/a23332" ],
+    [ "spell_the_black_stalker_levitate", "d3/dcb/a23336.html", "d3/dcb/a23336" ],
+    [ "spell_the_black_stalker_levitation_pulse", "d9/d70/a23340.html", "d9/d70/a23340" ],
+    [ "spell_the_black_stalker_someone_grab_me", "df/d90/a23344.html", "df/d90/a23344" ],
+    [ "spell_the_black_stalker_magnetic_pull", "d7/d57/a23348.html", "d7/d57/a23348" ],
+    [ "eBlackStalker", "d3/d19/a01847.html#afbee42c6927db9ad2cf9d9096eeac954", [
+      [ "SPELL_ACID_BREATH", "da/d66/a01856.html#afbee42c6927db9ad2cf9d9096eeac954af39adcb38f10e84d7ff9bac76f41031c", null ],
+      [ "SPELL_ACID_SPIT", "da/d66/a01856.html#afbee42c6927db9ad2cf9d9096eeac954af69c625b663facf12cc5d8a20a280806", null ],
+      [ "SPELL_TAIL_SWEEP", "da/d66/a01856.html#afbee42c6927db9ad2cf9d9096eeac954addcb3daa6cdc61ef04c65580e44ef823", null ],
+      [ "SPELL_ENRAGE", "da/d66/a01856.html#afbee42c6927db9ad2cf9d9096eeac954a2a20f56307679be4d4f01a0d3d93cc7e", null ],
+      [ "ACTION_MOVE_TO_PLATFORM", "da/d66/a01856.html#afbee42c6927db9ad2cf9d9096eeac954a7e5366df9a5dd5e5bca840226b0755fa", null ],
+      [ "SPELL_LEVITATE", "d3/d19/a01847.html#afbee42c6927db9ad2cf9d9096eeac954ad2a574f606c6448dd086526c15b6fdd2", null ],
+      [ "SPELL_CHAIN_LIGHTNING", "d3/d19/a01847.html#afbee42c6927db9ad2cf9d9096eeac954ac0997e72929070d8e30cc0f49cc4539d", null ],
+      [ "SPELL_STATIC_CHARGE", "d3/d19/a01847.html#afbee42c6927db9ad2cf9d9096eeac954ad174c0c15c17e6a55eec42eab77d89e0", null ],
+      [ "SPELL_SUMMON_SPORE_STRIDER", "d3/d19/a01847.html#afbee42c6927db9ad2cf9d9096eeac954a754dcc3138f3b4acb829bc54bc02b9ed", null ],
+      [ "SPELL_LEVITATION_PULSE", "d3/d19/a01847.html#afbee42c6927db9ad2cf9d9096eeac954ade4ad87d3a67412155f3ce6b143275b1", null ],
+      [ "SPELL_SOMEONE_GRAB_ME", "d3/d19/a01847.html#afbee42c6927db9ad2cf9d9096eeac954aa07d1c28d9fea727b3885a967461d13b", null ],
+      [ "SPELL_MAGNETIC_PULL", "d3/d19/a01847.html#afbee42c6927db9ad2cf9d9096eeac954a3917f87779ff3a60876e0373a10855d5", null ],
+      [ "SPELL_SUSPENSION_PRIMER", "d3/d19/a01847.html#afbee42c6927db9ad2cf9d9096eeac954a38589209a4f90f4db2f89b249f6840de", null ],
+      [ "SPELL_SUSPENSION", "d3/d19/a01847.html#afbee42c6927db9ad2cf9d9096eeac954a0b7462c628390d15bd33088fb3d2a6a0", null ],
+      [ "ENTRY_SPORE_STRIDER", "d3/d19/a01847.html#afbee42c6927db9ad2cf9d9096eeac954a461a6686eb7320e609d5675753241cd2", null ]
+    ] ],
+    [ "AddSC_boss_the_black_stalker", "d3/d19/a01847.html#aed8364eb84dab70c060c0a88e6522a7c", null ]
 ];

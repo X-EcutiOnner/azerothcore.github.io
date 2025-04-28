@@ -1,8 +1,10 @@
 var a25300 =
 [
-    [ "OnApply", "db/df4/a25300.html#aeec705e572ce6aa870bb5cc048e02e75", null ],
-    [ "OnRemove", "db/df4/a25300.html#a38399457b6cb8ebf4c5e457e0590cb1a", null ],
-    [ "PrepareAuraScript", "db/df4/a25300.html#a8d0f2113c0212a24e94054f3f1db0ad3", null ],
-    [ "Register", "db/df4/a25300.html#a673dc5619a33632ba3d3f1793c5cfdb4", null ],
-    [ "Validate", "db/df4/a25300.html#a65722a9826b14dc90cc6df47655d3d6b", null ]
+    [ "Load", "db/df4/a25300.html#a04526f30ad35af3f629cdd0c8312e33c", null ],
+    [ "OnApply", "db/df4/a25300.html#a83d922c434442e22482410d61aa0198f", null ],
+    [ "OnPetApply", "db/df4/a25300.html#a6df5e59e29cb89310a1c78bf93029545", null ],
+    [ "OnRemove", "db/df4/a25300.html#aa4efa4ed7d98c63989353c398bb2b128", null ],
+    [ "PrepareAuraScript", "db/df4/a25300.html#a1b4d8f636c01f01bc9380c290de91a0e", null ],
+    [ "Register", "db/df4/a25300.html#a265726c9bfa180c3b8f470eb1eee837b", null ],
+    [ "Validate", "db/df4/a25300.html#ab318472ea9f4aaa79e45f18783586eed", null ]
 ];

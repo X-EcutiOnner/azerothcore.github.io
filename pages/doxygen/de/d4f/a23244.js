@@ -1,5 +1,6 @@
 var a23244 =
 [
-    [ "at_underbog_ghazan", "de/d4f/a23244.html#aa6c74496bb30bf04e66ac3cd06110811", null ],
-    [ "_OnTrigger", "de/d4f/a23244.html#aff03fc0bbded7bf7fa68d0c736bfaff2", null ]
+    [ "HandleScript", "de/d4f/a23244.html#a9451ed26358c77ab4d35781fd8fb4b55", null ],
+    [ "PrepareSpellScript", "de/d4f/a23244.html#ad24e7fa45f35f2cd6071328c60cb2732", null ],
+    [ "Register", "de/d4f/a23244.html#a1bd01e1103d4959a5b3116e178a16a8f", null ]
 ];

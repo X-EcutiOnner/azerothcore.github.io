@@ -1,6 +1,6 @@
 var a19368 =
 [
-    [ "boss_lokenAI", "d7/dc7/a19372.html", "d7/dc7/a19372" ],
-    [ "boss_loken", "da/d00/a19368.html#a44ba0ee009dcdfca6ff8739e297ec786", null ],
-    [ "GetAI", "da/d00/a19368.html#affb73db8ecdc2d035f8076ecca0c9a99", null ]
+    [ "HandlePeriodic", "da/d00/a19368.html#a08717e9e8e974fcd7051c45fd1d26893", null ],
+    [ "PrepareAuraScript", "da/d00/a19368.html#abf7b2d81ee81ff27388678e9a5433eac", null ],
+    [ "Register", "da/d00/a19368.html#ac98109fe8d9192ae97e4aa5dc10463cf", null ]
 ];

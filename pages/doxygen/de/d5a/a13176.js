@@ -1,6 +1,7 @@
 var a13176 =
 [
-    [ "npc_demonic_vapor", "de/d5a/a13176.html#aee2e1b7372b8125b49e8466a2406ff00", null ],
-    [ "Reset", "de/d5a/a13176.html#a7d2b88ab26904cedaac34f03567806bc", null ],
-    [ "UpdateAI", "de/d5a/a13176.html#ae80c50c2599e607b54349a87dda5f6f6", null ]
+    [ "CheckCast", "de/d5a/a13176.html#a6ac00101ced46cebd1dd6a32c89374d2", null ],
+    [ "PrepareSpellScript", "de/d5a/a13176.html#a07973000e8a4b0ff66d4f4d1fd9f327e", null ],
+    [ "Register", "de/d5a/a13176.html#a7deecb2b7dfc410af30d8b14d941f74a", null ],
+    [ "Validate", "de/d5a/a13176.html#a9208b9c010bb9cc379c195939351aa45", null ]
 ];

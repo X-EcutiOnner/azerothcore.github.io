@@ -1,9 +1,7 @@
 var a08476 =
 [
-    [ "category", "da/d4a/a08476.html#af3cd722cf59d844dcaba2d20f20d2933", null ],
-    [ "end", "da/d4a/a08476.html#a8cc857ef51745900398765164a450a50", null ],
-    [ "itemid", "da/d4a/a08476.html#a42ef844fdd55e8bf67eb5cd90c627817", null ],
-    [ "maxduration", "da/d4a/a08476.html#a94b98afb7651e2c6b99ee79f85702259", null ],
-    [ "needSendToClient", "da/d4a/a08476.html#a678f56b6723567f984a0188b85a6f9df", null ],
-    [ "sendToSpectator", "da/d4a/a08476.html#a4b5bc2c63587dd8ce5d4971ad51895cd", null ]
+    [ "IsInSpec", "da/d4a/a08476.html#a17668f5b6ea479c9e6c0fd2593853a1d", null ],
+    [ "Active", "da/d4a/a08476.html#a7ddfb4a1cbd77fe84e49b42b9a28bb90", null ],
+    [ "specMask", "da/d4a/a08476.html#af178fb95c99f0c961bf12435fc7a3fd5", null ],
+    [ "State", "da/d4a/a08476.html#a54331e3ecac0d39a4fc7a6b8c2c9f532", null ]
 ];

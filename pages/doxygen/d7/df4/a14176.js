@@ -1,13 +1,11 @@
 var a14176 =
 [
-    [ "go_firework_show", "d7/df4/a14176.html#a42123490a9752f2187023f3f3ae56333", null ],
-    [ "InitShow", "d7/df4/a14176.html#a27dc501894beaeb88b2ff0d940c7d129", null ],
-    [ "SpawnNextFirework", "d7/df4/a14176.html#a6e9ce552bf040f2acce49c2e3eb70bab", null ],
-    [ "StartShow", "d7/df4/a14176.html#af637d1436655e44738b55040196533d3", null ],
-    [ "StopShow", "d7/df4/a14176.html#ad84f3dbb4692d03933d972ec7be6287d", null ],
-    [ "UpdateAI", "d7/df4/a14176.html#ad1bcb7a47652d62ed8633abdafc56881", null ],
-    [ "_curIdx", "d7/df4/a14176.html#a92613337cf2473e585b98b92bdcbce92", null ],
-    [ "_scheduler", "d7/df4/a14176.html#a6248d36087d8fae9cfa47f473613f886", null ],
-    [ "_show", "d7/df4/a14176.html#a4392d7e2cffa2342b53092cbd9ccea3f", null ],
-    [ "_showRunning", "d7/df4/a14176.html#ae7e870de692c61630d0fd2f44d487aa4", null ]
+    [ "npc_winterfin_playmate", "d7/df4/a14176.html#a9c07fb9115c21ba5c3ef7459662e8f38", null ],
+    [ "MoveInLineOfSight", "d7/df4/a14176.html#a7e8640e3bfe0a8f960ce22a2daf136a4", null ],
+    [ "Reset", "d7/df4/a14176.html#aae6b51c22dc0448608c1cf9412565e25", null ],
+    [ "UpdateAI", "d7/df4/a14176.html#a8e04dc18ee8a6d9412cd574994908eb6", null ],
+    [ "orphanGUID", "d7/df4/a14176.html#a9189bf7b93e7c46e559c22f3504f919f", null ],
+    [ "phase", "d7/df4/a14176.html#a0a1051dc971ef393843bd1ba655a2e1b", null ],
+    [ "playerGUID", "d7/df4/a14176.html#a142fe7a438ee22384f682f26ff4a9f9c", null ],
+    [ "timer", "d7/df4/a14176.html#abf4b5f3e16f32a3385b71ef002c5ee64", null ]
 ];

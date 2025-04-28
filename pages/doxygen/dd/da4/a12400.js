@@ -1,7 +1,7 @@
 var a12400 =
 [
-    [ "HandleScript", "dd/da4/a12400.html#aa6a02fd6ac2fe27588cb17377e63125f", null ],
-    [ "PrepareSpellScript", "dd/da4/a12400.html#a8d200122bafb943ccb6aa1bd86a1d227", null ],
-    [ "Register", "dd/da4/a12400.html#ab1ee3baa1bd7341660bcc7a10978aff3", null ],
-    [ "Validate", "dd/da4/a12400.html#a931be0e5aa4b54e646a3ed3ade135423", null ]
+    [ "HandleHit", "dd/da4/a12400.html#a87777dce0e2bf1deba600b3ae7ce6b9c", null ],
+    [ "Load", "dd/da4/a12400.html#ab61b4076aab18c0a6593c234209a2c1d", null ],
+    [ "PrepareSpellScript", "dd/da4/a12400.html#a9fb8d980381264a2ef645f2e620abd21", null ],
+    [ "Register", "dd/da4/a12400.html#a4998015873f0e0ca768c20b0f95fda90", null ]
 ];

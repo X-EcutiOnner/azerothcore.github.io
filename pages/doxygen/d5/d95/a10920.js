@@ -1,6 +1,11 @@
 var a10920 =
 [
-    [ "AccountData", "d5/d95/a10920.html#a593303fb86ec3ac592ee933b8d057fe8", null ],
-    [ "Data", "d5/d95/a10920.html#aa45f3f93f643b4dd9ea4d269e3b5462d", null ],
-    [ "Time", "d5/d95/a10920.html#a38b2049e50845641cc380b6786e68ac5", null ]
+    [ "OptionalData", "d3/de7/a10924.html", "d3/de7/a10924" ],
+    [ "ArrivalTicks", "d5/d95/a10920.html#a8fa635d0c8f77a0e39fd66501490f6ea", null ],
+    [ "ConnectionId", "d5/d95/a10920.html#abe8700ec99d55a66b22f8fbb28c833fa", null ],
+    [ "Direction", "d5/d95/a10920.html#a03a38a8ceed9eb1ea5585fcfb1ab29b8", null ],
+    [ "Length", "d5/d95/a10920.html#ab889533c6ebe4a8b3dbf0a2a5fef06dc", null ],
+    [ "Opcode", "d5/d95/a10920.html#a7fcc9281cd10ecf79929f9f17c855b65", null ],
+    [ "OptionalData", "d5/d95/a10920.html#aa5219ee4193cccf913dabf6db5d6f57a", null ],
+    [ "OptionalDataSize", "d5/d95/a10920.html#a03b79fe07bd5f0a1c254f2fb92a3ecba", null ]
 ];

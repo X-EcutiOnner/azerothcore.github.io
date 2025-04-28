@@ -1,9 +1,9 @@
 var a23620 =
 [
-    [ "HandleEffectApply", "d0/d32/a23620.html#ac9e030810cc1ffb3927943353bcbb764", null ],
-    [ "HandleEffectRemove", "d0/d32/a23620.html#a2524bb4614fa62fb703a3d3cf0c25da0", null ],
-    [ "Load", "d0/d32/a23620.html#a60f41c19f5104eef82048fd1e3416abd", null ],
-    [ "PrepareAuraScript", "d0/d32/a23620.html#a277d9865108acafac4b1a42bc5b5714b", null ],
-    [ "Register", "d0/d32/a23620.html#a5ffe5a8b3422382482f713ff6d8514b2", null ],
-    [ "_falconSet", "d0/d32/a23620.html#a1a20f75d251936bff7a0777831d79140", null ]
+    [ "boss_dalliah_the_doomsayer", "d0/d32/a23620.html#ad6edf9623942297b28bc7420ec0cc733", null ],
+    [ "InitializeAI", "d0/d32/a23620.html#a85342ef80a64ce05f87cf7d90a8bfe79", null ],
+    [ "JustDied", "d0/d32/a23620.html#a431edc9c25fb125d7d267073eb1c1423", null ],
+    [ "JustEngagedWith", "d0/d32/a23620.html#a6d3d8d027ddb08417dd11f1606a1418f", null ],
+    [ "KilledUnit", "d0/d32/a23620.html#af28bfc1166ad45bf7bc046f5906a8b11", null ],
+    [ "Reset", "d0/d32/a23620.html#a5b4f186225a55afdf1de80b7126d10eb", null ]
 ];

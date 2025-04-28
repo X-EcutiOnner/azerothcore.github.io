@@ -1,7 +1,9 @@
 var a27088 =
 [
-    [ "go_bear_trapAI", "d8/d5d/a27088.html#ad97484d73bcea6a84909004c099eec34", null ],
-    [ "Initialize", "d8/d5d/a27088.html#a89c76f1563f541c572c48f8cf633aa6a", null ],
-    [ "UpdateAI", "d8/d5d/a27088.html#a8901922d736bb0391da5618593ced5c5", null ],
-    [ "_events", "d8/d5d/a27088.html#a59f37a130326818dd922763ae9058fe7", null ]
+    [ "ChatLogScript", "d8/d5d/a27088.html#ade8c407083cf094f0767412e7b6d7730", null ],
+    [ "OnPlayerChat", "d8/d5d/a27088.html#a9dc39835aac01da34c57c420fc82790e", null ],
+    [ "OnPlayerChat", "d8/d5d/a27088.html#a64e047261c3d3de22614950c6b6f6f79", null ],
+    [ "OnPlayerChat", "d8/d5d/a27088.html#ac9a4dc6a35325a87c69f08f50a26750c", null ],
+    [ "OnPlayerChat", "d8/d5d/a27088.html#af6e61405ba6642fa451465e27c4b47d8", null ],
+    [ "OnPlayerChat", "d8/d5d/a27088.html#a9962307a0e073ee3f5e7139f059e01b8", null ]
 ];

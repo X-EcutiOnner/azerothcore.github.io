@@ -1,12 +1,7 @@
 var a27360 =
 [
-    [ "npc_elder_clearwaterAI", "df/d3b/a27360.html#a4de89cf4a18918d577be4ac5cc55ba5a", null ],
-    [ "DoAction", "df/d3b/a27360.html#ac46b0f66be3074f73f5a69cffee6d354", null ],
-    [ "GetData", "df/d3b/a27360.html#a077c02bf06b16439225a5cf8d83babf2", null ],
-    [ "UpdateAI", "df/d3b/a27360.html#afbec3c78d34ce4d11a11b56064f343f3", null ],
-    [ "events", "df/d3b/a27360.html#a267fec22dc3d7272cae74267d0567618", null ],
-    [ "finished", "df/d3b/a27360.html#af51d6abb8fc8b59d068156a4859a377e", null ],
-    [ "finishWarning", "df/d3b/a27360.html#a83a2b8e6ceed45d4e6b834e13a4a4cdc", null ],
-    [ "preWarning", "df/d3b/a27360.html#a64abe15565c7e97a3a0ef195d436fedc", null ],
-    [ "startWarning", "df/d3b/a27360.html#a01545211dec4338ac44304ebc7f18a97", null ]
+    [ "npc_prof_leather", "df/d3b/a27360.html#a4a96f0c41a2a75ed26f52b1b0377c800", null ],
+    [ "HasLeatherSpecialty", "df/d3b/a27360.html#aefbf75b4109f8013335f36cd2d6e84de", null ],
+    [ "OnGossipHello", "df/d3b/a27360.html#a1a0dc1574c814af5e4f992c7fb199215", null ],
+    [ "OnGossipSelect", "df/d3b/a27360.html#afdf3a42c20903efd7f45ab0042f79de0", null ]
 ];

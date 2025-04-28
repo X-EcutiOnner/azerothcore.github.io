@@ -1,7 +1,7 @@
 var a18844 =
 [
-    [ "HandleScriptEffect", "d5/d57/a18844.html#afa9d5c6fd0666a7fa1a6f4d5acabe782", null ],
-    [ "PrepareSpellScript", "d5/d57/a18844.html#a21a3175346c9b12c02205f2d33da3b86", null ],
-    [ "Register", "d5/d57/a18844.html#af5f279ad20e9153f201262eaa7615978", null ],
-    [ "Validate", "d5/d57/a18844.html#a635ff34619767f657778016e1eb901aa", null ]
+    [ "HandleGameObjectDamage", "d5/d57/a18844.html#a811edfe01c1784664b5b4253d2305b4e", null ],
+    [ "PrepareSpellScript", "d5/d57/a18844.html#a0cfedeba2a747777de292b8f30b6752b", null ],
+    [ "Register", "d5/d57/a18844.html#a2d3b99dfe386777cf71ccb2ccac9f3a7", null ],
+    [ "Validate", "d5/d57/a18844.html#ab74d5c88a910fe191b071db3ac2c0381", null ]
 ];

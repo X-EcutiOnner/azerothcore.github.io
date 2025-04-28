@@ -1,8 +1,5 @@
 var a28188 =
 [
-    [ "NoRuneCost", "dc/db6/a28188.html#a599b2089d52bf4a009c5fbac3b0d3279", null ],
-    [ "NoRunicPowerGain", "dc/db6/a28188.html#a97da075ecd116ef27fd4265bb8380667", null ],
-    [ "ID", "dc/db6/a28188.html#aed245962cf1830cfa66e369b22a7ba6f", null ],
-    [ "RuneCost", "dc/db6/a28188.html#a18c2e6daaaefe1c8be4a83c55a3670ff", null ],
-    [ "runePowerGain", "dc/db6/a28188.html#ac5f9c69d83ff9cf230124b9dad10008b", null ]
+    [ "id", "dc/db6/a28188.html#a4667f55651f20c85f5b3da9384bac078", null ],
+    [ "QuestRewFactionValue", "dc/db6/a28188.html#a9a42feddeef8e054cd52b72cfc812867", null ]
 ];

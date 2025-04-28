@@ -1,7 +1,5 @@
 var a00821 =
 [
-    [ "ArenaTeamFilter", "da/dae/a07213.html", "da/dae/a07213" ],
-    [ "ArenaTeamFilterByTypes", "db/d73/a07217.html", "db/d73/a07217" ],
-    [ "ArenaTeamFilterAllTeams", "de/d7c/a07221.html", "de/d7c/a07221" ],
-    [ "ArenaTeamFilterFactoryByUserInput", "d7/d4a/a07225.html", "d7/d4a/a07225" ]
+    [ "OutdoorPvP_eastern_plaguelands", "da/d8d/a22392.html", "da/d8d/a22392" ],
+    [ "AddSC_outdoorpvp_ep", "d6/d8b/a00821.html#ac97adfc1efbcf82840cffa915a55fecb", null ]
 ];

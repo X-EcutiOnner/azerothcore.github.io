@@ -1,8 +1,10 @@
 var a08552 =
 [
-    [ "checkLeaderOnly", "d0/d70/a08552.html#ade8f2e22abe69a9a32085e4d901bc83b", null ],
-    [ "faction", "d0/d70/a08552.html#a23c649e494795b27856b67225370a820", null ],
-    [ "id", "d0/d70/a08552.html#a5d5b8f6fe0bfc5ae98c2fb10e3a18360", null ],
-    [ "note", "d0/d70/a08552.html#a0e800dd8869fedbe71e5b14aa3c79d8a", null ],
-    [ "priority", "d0/d70/a08552.html#a3a66018ae4e7a7e755962f1edae58d29", null ]
+    [ "EquipmentSet", "d0/d70/a08552.html#acd3085c12c795daceae86e94448109e2", null ],
+    [ "Guid", "d0/d70/a08552.html#aae529ea61a2ad4f114b6a108564f5474", null ],
+    [ "IconName", "d0/d70/a08552.html#a40233dfcc23f125ff88693d6c7d7fab5", null ],
+    [ "IgnoreMask", "d0/d70/a08552.html#af116e824d23f000f424f3b261618e827", null ],
+    [ "Items", "d0/d70/a08552.html#a113e6e5883afe38d446a6d435cd34a01", null ],
+    [ "Name", "d0/d70/a08552.html#a2b4691a1b44ae47e7d3c2e63f88d78ba", null ],
+    [ "state", "d0/d70/a08552.html#a7e2270a6041dda26f8bc7f8c82597e7f", null ]
 ];

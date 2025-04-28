@@ -1,8 +1,7 @@
 var a12620 =
 [
-    [ "npc_tito", "d1/d72/a12620.html#a0b3b1750e8b8840e50d27d22ebddb7c8", null ],
-    [ "JustEngagedWith", "d1/d72/a12620.html#a71335c1474e8a29edf76addacb737fa9", null ],
-    [ "UpdateAI", "d1/d72/a12620.html#ac357c29e68d8480d94349da844efd3ad", null ],
-    [ "_scheduler", "d1/d72/a12620.html#a96c47ca2e66bb984dfd2cfefa6bde643", null ],
-    [ "instance", "d1/d72/a12620.html#a9eecd226486e52d559ae1a30687bf0eb", null ]
+    [ "OnRemove", "d1/d72/a12620.html#a3fdb54a848aa81a7f4e8c2bd772ca3e5", null ],
+    [ "PrepareAuraScript", "d1/d72/a12620.html#a92a12c16381c433a946eeb1fed8ab7a9", null ],
+    [ "Register", "d1/d72/a12620.html#af26ef4eae84aa3982287fde0b4f65dcd", null ],
+    [ "Validate", "d1/d72/a12620.html#aeabc1d487afdb30b80d9a5235c306df1", null ]
 ];

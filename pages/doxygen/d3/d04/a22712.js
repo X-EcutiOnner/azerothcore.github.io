@@ -1,9 +1,8 @@
 var a22712 =
 [
-    [ "boss_mother_shahraz", "d3/d04/a22712.html#adba94363f74975301472d79f24894df8", null ],
-    [ "JustDied", "d3/d04/a22712.html#ab69d81acde4e6e2a3f6adb032090b958", null ],
-    [ "JustEngagedWith", "d3/d04/a22712.html#a021c702e7eff266308fee8a4220a6ec7", null ],
-    [ "KilledUnit", "d3/d04/a22712.html#a81ed314ae9737c0989b62c27c9ce4cc9", null ],
-    [ "Reset", "d3/d04/a22712.html#ab9e4162ac92e786b84b6497c37251386", null ],
-    [ "_canTalk", "d3/d04/a22712.html#a821d91439c60a60ffcff07b6bdbbc070", null ]
+    [ "HandleScriptEffect", "d3/d04/a22712.html#a8e5b81581fff787f691521d03fed66fc", null ],
+    [ "Load", "d3/d04/a22712.html#a8a74f3c6776f2613a6b2c63387d962e2", null ],
+    [ "PrepareSpellScript", "d3/d04/a22712.html#a5dfe415b9c990e83b9e6c1ee06a33692", null ],
+    [ "Register", "d3/d04/a22712.html#a5839b0e282fb2848c328cfaaca2c752f", null ],
+    [ "Validate", "d3/d04/a22712.html#a8c1ee55a1122c62056250b3fa09357a8", null ]
 ];

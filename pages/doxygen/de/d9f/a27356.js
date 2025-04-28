@@ -1,8 +1,7 @@
 var a27356 =
 [
-    [ "npc_elder_clearwaterAI", "df/d3b/a27360.html", "df/d3b/a27360" ],
-    [ "npc_elder_clearwater", "de/d9f/a27356.html#abeee1650938a71762bb0c148ea9834d1", null ],
-    [ "GetAI", "de/d9f/a27356.html#a4ae2f507f61ee7cfc0c3b6d7dbfb7f04", null ],
-    [ "OnGossipHello", "de/d9f/a27356.html#aae382c0a386b8bacd39c6e7a586519e4", null ],
-    [ "OnQuestReward", "de/d9f/a27356.html#a2d316a2d2c892cecc134cea46b5bf2a8", null ]
+    [ "npc_engineering_tele_trinket", "de/d9f/a27356.html#ab891a8378a7b1b63151d05801b8b2fd1", null ],
+    [ "CanLearn", "de/d9f/a27356.html#a8a35f1c09a9df609561e76f4ed578647", null ],
+    [ "OnGossipHello", "de/d9f/a27356.html#ad11f576fb7efad0f6ea4cf22d3bc4e59", null ],
+    [ "OnGossipSelect", "de/d9f/a27356.html#a4d7125cf0333d4e5ebc299019c8feb1a", null ]
 ];

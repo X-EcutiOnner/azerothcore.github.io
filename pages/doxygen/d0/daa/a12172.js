@@ -1,6 +1,6 @@
 var a12172 =
 [
-    [ "boss_firemawAI", "d0/daa/a12172.html#ab3f56c97119676b1a75662e52caecb75", null ],
-    [ "JustEngagedWith", "d0/daa/a12172.html#a04cb1d2fa18dba82b9c881b09406a076", null ],
-    [ "UpdateAI", "d0/daa/a12172.html#a6e35e47b23d713263ef00769324bbbed", null ]
+    [ "go_chromaggus_leverAI", "d0/daa/a12172.html#a51406a7e313702282cebfbf067c9ce4e", null ],
+    [ "GossipHello", "d0/daa/a12172.html#a44ece597fcfcf290234cc1ef073fbf18", null ],
+    [ "_instance", "d0/daa/a12172.html#a364f66c7cf0a7bc4a3ea97b87ebe9f90", null ]
 ];

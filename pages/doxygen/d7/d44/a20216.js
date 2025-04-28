@@ -1,7 +1,6 @@
 var a20216 =
 [
-    [ "StoneGripTargetSelector", "d7/d44/a20216.html#a74fc772e2bc0694dee05fe82de4463e2", null ],
-    [ "operator()", "d7/d44/a20216.html#ae40653def55e656f2347029a97605395", null ],
-    [ "_me", "d7/d44/a20216.html#ae5781d6b553491a1e3e8bfde2b965c3a", null ],
-    [ "_victim", "d7/d44/a20216.html#a09c3c6f832c20776f11b72a468a4b0bb", null ]
+    [ "boss_ignisAI", "d8/d56/a20220.html", "d8/d56/a20220" ],
+    [ "boss_ignis", "d7/d44/a20216.html#a15f42f252e4f9472707d5b81f7fdaece", null ],
+    [ "GetAI", "d7/d44/a20216.html#ac11ff148e9cbc985875f859268a3de01", null ]
 ];

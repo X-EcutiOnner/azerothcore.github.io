@@ -1,11 +1,6 @@
 var a15644 =
 [
-    [ "npc_amanitar_mushrooms", "da/db5/a15644.html#ad5603426c71c107ff439cea2efeea3f9", null ],
-    [ "AttackStart", "da/db5/a15644.html#a0cc90c924a12a8be32c78e76ca798943", null ],
-    [ "DamageTaken", "da/db5/a15644.html#a4c21a448535e1fc0f0116257194b9732", null ],
-    [ "EnterEvadeMode", "da/db5/a15644.html#ae17ee367c9d206868c7dfc64d438806a", null ],
-    [ "JustEngagedWith", "da/db5/a15644.html#ac50bf479e8c891af432cfccdf9d49c55", null ],
-    [ "Reset", "da/db5/a15644.html#ae597d5a64765f5304773f9a38e9c719a", null ],
-    [ "UpdateAI", "da/db5/a15644.html#ae71058353be43935aa45eb28eb41170f", null ],
-    [ "events", "da/db5/a15644.html#a0be93d15582a5511963721510652e76d", null ]
+    [ "instance_zulfarrak_InstanceMapScript", "db/d71/a15648.html", "db/d71/a15648" ],
+    [ "instance_zulfarrak", "da/db5/a15644.html#a7c8594fe278dc9f6c3ab6f291cf9bad2", null ],
+    [ "GetInstanceScript", "da/db5/a15644.html#a5f092341e49848c9d321452be2193d56", null ]
 ];

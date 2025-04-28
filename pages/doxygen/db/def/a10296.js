@@ -1,5 +1,5 @@
 var a10296 =
 [
-    [ "MovementHandlerScript", "db/def/a10296.html#aeeeb5fe81eebc04fc317e726782be3ab", null ],
-    [ "OnPlayerMove", "db/def/a10296.html#ac1604e58c8ecab26ce4159fb43a86a68", null ]
+    [ "GenericInstanceMapScript", "db/def/a10296.html#a39aef4c434d791f18fc04ea692bf2255", null ],
+    [ "GetInstanceScript", "db/def/a10296.html#a8ca7180c1d2f8fb213e8b52bb73b2f76", null ]
 ];

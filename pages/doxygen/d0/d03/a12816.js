@@ -1,7 +1,7 @@
 var a12816 =
 [
-    [ "npc_scarlet_cannonAI", "d0/d03/a12816.html#a26720b34088b8063544f8c5db3b8d67c", null ],
-    [ "PassengerBoarded", "d0/d03/a12816.html#a71241dfc9b3ebe1f664d0adf03439c41", null ],
-    [ "UpdateAI", "d0/d03/a12816.html#a18ebb585e9b83f3781d3c49de5dc73b5", null ],
-    [ "summonAttackers", "d0/d03/a12816.html#a9e8eeb6995dae9a9d9ec3cb0ca6a07f5", null ]
+    [ "HandleScriptEffect", "d0/d03/a12816.html#a2ac898d186e755fbf3b3ae8812e8e579", null ],
+    [ "PrepareSpellScript", "d0/d03/a12816.html#ac3ee8d5d585eea8cbcd5e61c34c71fa5", null ],
+    [ "Register", "d0/d03/a12816.html#a99b753e49d18109e8c9c3ac7e616ce2c", null ],
+    [ "Validate", "d0/d03/a12816.html#a20f7416465ba1cc04426f24037e8074e", null ]
 ];

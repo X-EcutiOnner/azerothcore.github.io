@@ -1,7 +1,7 @@
 var a26744 =
 [
-    [ "HandleApplyAura", "d0/d66/a26744.html#ae364ff4048a2f59eadecd6934c7a0e13", null ],
-    [ "PrepareSpellScript", "d0/d66/a26744.html#adf09900347264bc341884092ea0fee40", null ],
-    [ "Register", "d0/d66/a26744.html#ac56484d4048817a164963e519a97d137", null ],
-    [ "Validate", "d0/d66/a26744.html#ac028c0faf659fb74b2ffa5f85f58f8d1", null ]
+    [ "HandleTeleport", "d0/d66/a26744.html#a7ba7b82988dab5fd8e691b5b87c3d959", null ],
+    [ "PrepareAuraScript", "d0/d66/a26744.html#a2307b7eccd4dd08d7e97ece704ddc4fb", null ],
+    [ "Register", "d0/d66/a26744.html#a82432a4448d8c23ea2a39b4b26eb1b58", null ],
+    [ "Validate", "d0/d66/a26744.html#adabf22bd591a10662ffbf0354a18a936", null ]
 ];

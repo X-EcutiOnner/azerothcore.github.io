@@ -1,7 +1,6 @@
 var a18356 =
 [
-    [ "npc_blazing_skeletonAI", "d8/dc5/a18356.html#ad4f997a7a4cc0fa96594da35434fd921", null ],
-    [ "Reset", "d8/dc5/a18356.html#a3bbc4cf7b6dbe11d6768a0fb0626e84a", null ],
-    [ "UpdateAI", "d8/dc5/a18356.html#a0010c4befd13ec6beada0de1607f3f7a", null ],
-    [ "_events", "d8/dc5/a18356.html#aab1b04989d5e3fc289f00bc121df193d", null ]
+    [ "boss_valithria_dreamwalkerAI", "d6/d8c/a18360.html", "d6/d8c/a18360" ],
+    [ "boss_valithria_dreamwalker", "d8/dc5/a18356.html#afcc6dc92d94330d3aed67f71452f9cd2", null ],
+    [ "GetAI", "d8/dc5/a18356.html#a0f0bacefa7e3d682a5db81a14f2ff947", null ]
 ];

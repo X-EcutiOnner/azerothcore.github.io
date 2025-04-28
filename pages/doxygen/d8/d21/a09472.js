@@ -1,5 +1,8 @@
 var a09472 =
 [
-    [ "getFirst", "d8/d21/a09472.html#ab6524f9fba08d034c78a38ab1045ace9", null ],
-    [ "getFirst", "d8/d21/a09472.html#a74a687ba16e352c3fa5eafd1cfdd7b0e", null ]
+    [ "flags", "d8/d21/a09472.html#a7ecce103d428ed7f91aa12fa5547561c", null ],
+    [ "group", "d8/d21/a09472.html#a0902606d44c8baa1a20b5b2cdd9b4787", null ],
+    [ "guid", "d8/d21/a09472.html#a97a20b4ccf1978165a5f5c7ff4ffb2b4", null ],
+    [ "name", "d8/d21/a09472.html#ab0719bb9805048b58a3e4c75e09d1ee7", null ],
+    [ "roles", "d8/d21/a09472.html#a2109aae0b3ebf74b065b97cc929c2954", null ]
 ];

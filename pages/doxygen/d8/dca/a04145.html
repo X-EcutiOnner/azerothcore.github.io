@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/scripts/World/achievement_scripts.cpp File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/game/Scripting/ScriptDefines/SpellScriptLoader.h File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,211 +106,170 @@ $(document).ready(function(){initNavTree('d8/dca/a04145.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
-<a href="#enum-members">Enumerations</a> &#124;
-<a href="#func-members">Functions</a>  </div>
-  <div class="headertitle"><div class="title">achievement_scripts.cpp File Reference</div></div>
+<a href="#namespaces">Namespaces</a> &#124;
+<a href="#define-members">Macros</a> &#124;
+<a href="#typedef-members">Typedefs</a>  </div>
+  <div class="headertitle"><div class="title">SpellScriptLoader.h File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">AchievementCriteriaScript.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">BattlegroundAB.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">BattlegroundAV.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">BattlegroundIC.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">BattlegroundSA.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">BattlegroundWS.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Creature.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Player.h</a>&quot;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">ScriptObject.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Tuples.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Types.h</a>&quot;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dd8/a26901.html">achievement_resilient_victory</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dac/a10340.html">SpellScriptLoader</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d1f/a26905.html">achievement_bg_control_all_nodes</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/da9/a26909.html">achievement_save_the_day</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/ddd/a26913.html">achievement_bg_ic_resource_glut</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d91/a26917.html">achievement_bg_ic_glaive_grave</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/db5/a26921.html">achievement_bg_ic_mowed_down</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d45/a26925.html">achievement_bg_sa_artillery</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d5d/a26929.html">achievement_arena_by_type</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dc3/a26933.html">achievement_sickly_gazelle</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d24/a26937.html">achievement_everything_counts</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dbe/a26941.html">achievement_bg_av_perfection</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d9f/a26945.html">achievement_sa_defense_of_the_ancients</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d87/a26949.html">achievement_tilted</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d83/a26953.html">achievement_not_even_a_scratch</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d67/a26957.html">achievement_killed_exp_or_honor_target</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dbd/a26961.html">achievement_flirt_with_disaster_perf_check</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dc2/a10344.html">GenericSpellAndAuraScriptLoader&lt; Ts &gt;</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
-Enumerations</h2></td></tr>
-<tr class="memitem:a2e77de85e54ed0be0b64c804c9b2eea3"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dca/a04145.html#a2e77de85e54ed0be0b64c804c9b2eea3">ArgentTournamentAreas</a> { <br />
-&#160;&#160;<a class="el" href="../../d8/dca/a04145.html#a2e77de85e54ed0be0b64c804c9b2eea3a927aa337e28c7ad61f60c63bec39b737">AREA_ARGENT_TOURNAMENT_FIELDS</a> = 4658
-, <br />
-&#160;&#160;<a class="el" href="../../d8/dca/a04145.html#a2e77de85e54ed0be0b64c804c9b2eea3adab43710a79e36d4a77a97fbf175e4bf">AREA_RING_OF_ASPIRANTS</a> = 4670
-, <br />
-&#160;&#160;<a class="el" href="../../d8/dca/a04145.html#a2e77de85e54ed0be0b64c804c9b2eea3a656551c58550150283c197d7d13ffa5d">AREA_RING_OF_ARGENT_VALIANTS</a> = 4671
-, <br />
-&#160;&#160;<a class="el" href="../../d8/dca/a04145.html#a2e77de85e54ed0be0b64c804c9b2eea3a1a3b43a56f910e6169862a74ae997504">AREA_RING_OF_ALLIANCE_VALIANTS</a> = 4672
-, <br />
-&#160;&#160;<a class="el" href="../../d8/dca/a04145.html#a2e77de85e54ed0be0b64c804c9b2eea3adae6540f49bb31f36684880c68ab5826">AREA_RING_OF_HORDE_VALIANTS</a> = 4673
-, <br />
-&#160;&#160;<a class="el" href="../../d8/dca/a04145.html#a2e77de85e54ed0be0b64c804c9b2eea3ac66a546c5511c084548dbf60e77697d7">AREA_RING_OF_CHAMPIONS</a> = 4669
-<br />
- }</td></tr>
-<tr class="separator:a2e77de85e54ed0be0b64c804c9b2eea3"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a59d6aac4e950d8e6a0265a26e1898c13"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dca/a04145.html#a59d6aac4e950d8e6a0265a26e1898c13">FlirtWithDisaster</a> { <br />
-&#160;&#160;<a class="el" href="../../d8/dca/a04145.html#a59d6aac4e950d8e6a0265a26e1898c13a51aa967912af69dc7510017e558bbb85">AURA_PERFUME_FOREVER</a> = 70235
-, <br />
-&#160;&#160;<a class="el" href="../../d8/dca/a04145.html#a59d6aac4e950d8e6a0265a26e1898c13a6f98457c5232039183c4be4588a067c6">AURA_PERFUME_ENCHANTRESS</a> = 70234
-, <br />
-&#160;&#160;<a class="el" href="../../d8/dca/a04145.html#a59d6aac4e950d8e6a0265a26e1898c13afb194a6e19cf65f763d7975e5d842c9c">AURA_PERFUME_VICTORY</a> = 70233
-<br />
- }</td></tr>
-<tr class="separator:a59d6aac4e950d8e6a0265a26e1898c13"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="namespaces" name="namespaces"></a>
+Namespaces</h2></td></tr>
+<tr class="memitem:de/df1/a04758"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/df1/a04758.html">Acore</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:d2/d04/a04815"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d04/a04815.html">Acore::SpellScripts</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
-Functions</h2></td></tr>
-<tr class="memitem:a5091d6f933800f3313078304ad5c38ca"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dca/a04145.html#a5091d6f933800f3313078304ad5c38ca">AddSC_achievement_scripts</a> ()</td></tr>
-<tr class="separator:a5091d6f933800f3313078304ad5c38ca"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="define-members" name="define-members"></a>
+Macros</h2></td></tr>
+<tr class="memitem:aedecf91f4fce46852db865deae243e1f"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dca/a04145.html#aedecf91f4fce46852db865deae243e1f">RegisterSpellScriptWithArgs</a>(spell_script,  script_name, ...)&#160;&#160;&#160;new <a class="el" href="../../d2/dc2/a10344.html">GenericSpellAndAuraScriptLoader</a>&lt;spell_script, decltype(std::make_tuple(__VA_ARGS__))&gt;(script_name, std::make_tuple(__VA_ARGS__))</td></tr>
+<tr class="separator:aedecf91f4fce46852db865deae243e1f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae221e5976ab29ba14fec3b073a03670f"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dca/a04145.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(spell_script)&#160;&#160;&#160;<a class="el" href="../../d8/dca/a04145.html#aedecf91f4fce46852db865deae243e1f">RegisterSpellScriptWithArgs</a>(spell_script, #spell_script)</td></tr>
+<tr class="separator:ae221e5976ab29ba14fec3b073a03670f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aeffc3c8d08a35d5969c33508488e9051"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dca/a04145.html#aeffc3c8d08a35d5969c33508488e9051">RegisterSpellAndAuraScriptPairWithArgs</a>(script_1,  script_2,  script_name, ...)&#160;&#160;&#160;new <a class="el" href="../../d2/dc2/a10344.html">GenericSpellAndAuraScriptLoader</a>&lt;script_1, script_2, decltype(std::make_tuple(__VA_ARGS__))&gt;(script_name, std::make_tuple(__VA_ARGS__))</td></tr>
+<tr class="separator:aeffc3c8d08a35d5969c33508488e9051"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a69b21d1b83cecaba944f4e9379bc866c"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dca/a04145.html#a69b21d1b83cecaba944f4e9379bc866c">RegisterSpellAndAuraScriptPair</a>(script_1,  script_2)&#160;&#160;&#160;<a class="el" href="../../d8/dca/a04145.html#aeffc3c8d08a35d5969c33508488e9051">RegisterSpellAndAuraScriptPairWithArgs</a>(script_1, script_2, #script_1)</td></tr>
+<tr class="separator:a69b21d1b83cecaba944f4e9379bc866c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="typedef-members" name="typedef-members"></a>
+Typedefs</h2></td></tr>
+<tr class="memitem:a2b573b538dcbf3da43ae603709d93bf2"><td class="memTemplParams" colspan="2">template&lt;typename T &gt; </td></tr>
+<tr class="memitem:a2b573b538dcbf3da43ae603709d93bf2"><td class="memTemplItemLeft" align="right" valign="top">using&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d2/d04/a04815.html#a2b573b538dcbf3da43ae603709d93bf2">Acore::SpellScripts::is_SpellScript</a> = std::is_base_of&lt; <a class="el" href="../../d1/d71/a11216.html">SpellScript</a>, T &gt;</td></tr>
+<tr class="separator:a2b573b538dcbf3da43ae603709d93bf2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a08facc7292565931370e1cc514f726e1"><td class="memTemplParams" colspan="2">template&lt;typename T &gt; </td></tr>
+<tr class="memitem:a08facc7292565931370e1cc514f726e1"><td class="memTemplItemLeft" align="right" valign="top">using&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d2/d04/a04815.html#a08facc7292565931370e1cc514f726e1">Acore::SpellScripts::is_AuraScript</a> = std::is_base_of&lt; <a class="el" href="../../d1/dd7/a11256.html">AuraScript</a>, T &gt;</td></tr>
+<tr class="separator:a08facc7292565931370e1cc514f726e1"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Enumeration Type Documentation</h2>
-<a id="a2e77de85e54ed0be0b64c804c9b2eea3" name="a2e77de85e54ed0be0b64c804c9b2eea3"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a2e77de85e54ed0be0b64c804c9b2eea3">&#9670;&#160;</a></span>ArgentTournamentAreas</h2>
+<h2 class="groupheader">Macro Definition Documentation</h2>
+<a id="a69b21d1b83cecaba944f4e9379bc866c" name="a69b21d1b83cecaba944f4e9379bc866c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a69b21d1b83cecaba944f4e9379bc866c">&#9670;&#160;</a></span>RegisterSpellAndAuraScriptPair</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">enum <a class="el" href="../../d8/dca/a04145.html#a2e77de85e54ed0be0b64c804c9b2eea3">ArgentTournamentAreas</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a2e77de85e54ed0be0b64c804c9b2eea3a927aa337e28c7ad61f60c63bec39b737" name="a2e77de85e54ed0be0b64c804c9b2eea3a927aa337e28c7ad61f60c63bec39b737"></a>AREA_ARGENT_TOURNAMENT_FIELDS&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a2e77de85e54ed0be0b64c804c9b2eea3adab43710a79e36d4a77a97fbf175e4bf" name="a2e77de85e54ed0be0b64c804c9b2eea3adab43710a79e36d4a77a97fbf175e4bf"></a>AREA_RING_OF_ASPIRANTS&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a2e77de85e54ed0be0b64c804c9b2eea3a656551c58550150283c197d7d13ffa5d" name="a2e77de85e54ed0be0b64c804c9b2eea3a656551c58550150283c197d7d13ffa5d"></a>AREA_RING_OF_ARGENT_VALIANTS&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a2e77de85e54ed0be0b64c804c9b2eea3a1a3b43a56f910e6169862a74ae997504" name="a2e77de85e54ed0be0b64c804c9b2eea3a1a3b43a56f910e6169862a74ae997504"></a>AREA_RING_OF_ALLIANCE_VALIANTS&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a2e77de85e54ed0be0b64c804c9b2eea3adae6540f49bb31f36684880c68ab5826" name="a2e77de85e54ed0be0b64c804c9b2eea3adae6540f49bb31f36684880c68ab5826"></a>AREA_RING_OF_HORDE_VALIANTS&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a2e77de85e54ed0be0b64c804c9b2eea3ac66a546c5511c084548dbf60e77697d7" name="a2e77de85e54ed0be0b64c804c9b2eea3ac66a546c5511c084548dbf60e77697d7"></a>AREA_RING_OF_CHAMPIONS&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">  196</span>{</div>
-<div class="line"><span class="lineno">  197</span>    <a class="code hl_enumvalue" href="../../d8/dca/a04145.html#a2e77de85e54ed0be0b64c804c9b2eea3a927aa337e28c7ad61f60c63bec39b737">AREA_ARGENT_TOURNAMENT_FIELDS</a>  = 4658,</div>
-<div class="line"><span class="lineno">  198</span>    <a class="code hl_enumvalue" href="../../d8/dca/a04145.html#a2e77de85e54ed0be0b64c804c9b2eea3adab43710a79e36d4a77a97fbf175e4bf">AREA_RING_OF_ASPIRANTS</a>         = 4670,</div>
-<div class="line"><span class="lineno">  199</span>    <a class="code hl_enumvalue" href="../../d8/dca/a04145.html#a2e77de85e54ed0be0b64c804c9b2eea3a656551c58550150283c197d7d13ffa5d">AREA_RING_OF_ARGENT_VALIANTS</a>   = 4671,</div>
-<div class="line"><span class="lineno">  200</span>    <a class="code hl_enumvalue" href="../../d8/dca/a04145.html#a2e77de85e54ed0be0b64c804c9b2eea3a1a3b43a56f910e6169862a74ae997504">AREA_RING_OF_ALLIANCE_VALIANTS</a> = 4672,</div>
-<div class="line"><span class="lineno">  201</span>    <a class="code hl_enumvalue" href="../../d8/dca/a04145.html#a2e77de85e54ed0be0b64c804c9b2eea3adae6540f49bb31f36684880c68ab5826">AREA_RING_OF_HORDE_VALIANTS</a>    = 4673,</div>
-<div class="line"><span class="lineno">  202</span>    <a class="code hl_enumvalue" href="../../d8/dca/a04145.html#a2e77de85e54ed0be0b64c804c9b2eea3ac66a546c5511c084548dbf60e77697d7">AREA_RING_OF_CHAMPIONS</a>         = 4669,</div>
-<div class="line"><span class="lineno">  203</span>};</div>
-<div class="ttc" id="aa04145_html_a2e77de85e54ed0be0b64c804c9b2eea3a1a3b43a56f910e6169862a74ae997504"><div class="ttname"><a href="../../d8/dca/a04145.html#a2e77de85e54ed0be0b64c804c9b2eea3a1a3b43a56f910e6169862a74ae997504">AREA_RING_OF_ALLIANCE_VALIANTS</a></div><div class="ttdeci">@ AREA_RING_OF_ALLIANCE_VALIANTS</div><div class="ttdef"><b>Definition:</b> achievement_scripts.cpp:200</div></div>
-<div class="ttc" id="aa04145_html_a2e77de85e54ed0be0b64c804c9b2eea3a656551c58550150283c197d7d13ffa5d"><div class="ttname"><a href="../../d8/dca/a04145.html#a2e77de85e54ed0be0b64c804c9b2eea3a656551c58550150283c197d7d13ffa5d">AREA_RING_OF_ARGENT_VALIANTS</a></div><div class="ttdeci">@ AREA_RING_OF_ARGENT_VALIANTS</div><div class="ttdef"><b>Definition:</b> achievement_scripts.cpp:199</div></div>
-<div class="ttc" id="aa04145_html_a2e77de85e54ed0be0b64c804c9b2eea3a927aa337e28c7ad61f60c63bec39b737"><div class="ttname"><a href="../../d8/dca/a04145.html#a2e77de85e54ed0be0b64c804c9b2eea3a927aa337e28c7ad61f60c63bec39b737">AREA_ARGENT_TOURNAMENT_FIELDS</a></div><div class="ttdeci">@ AREA_ARGENT_TOURNAMENT_FIELDS</div><div class="ttdef"><b>Definition:</b> achievement_scripts.cpp:197</div></div>
-<div class="ttc" id="aa04145_html_a2e77de85e54ed0be0b64c804c9b2eea3ac66a546c5511c084548dbf60e77697d7"><div class="ttname"><a href="../../d8/dca/a04145.html#a2e77de85e54ed0be0b64c804c9b2eea3ac66a546c5511c084548dbf60e77697d7">AREA_RING_OF_CHAMPIONS</a></div><div class="ttdeci">@ AREA_RING_OF_CHAMPIONS</div><div class="ttdef"><b>Definition:</b> achievement_scripts.cpp:202</div></div>
-<div class="ttc" id="aa04145_html_a2e77de85e54ed0be0b64c804c9b2eea3adab43710a79e36d4a77a97fbf175e4bf"><div class="ttname"><a href="../../d8/dca/a04145.html#a2e77de85e54ed0be0b64c804c9b2eea3adab43710a79e36d4a77a97fbf175e4bf">AREA_RING_OF_ASPIRANTS</a></div><div class="ttdeci">@ AREA_RING_OF_ASPIRANTS</div><div class="ttdef"><b>Definition:</b> achievement_scripts.cpp:198</div></div>
-<div class="ttc" id="aa04145_html_a2e77de85e54ed0be0b64c804c9b2eea3adae6540f49bb31f36684880c68ab5826"><div class="ttname"><a href="../../d8/dca/a04145.html#a2e77de85e54ed0be0b64c804c9b2eea3adae6540f49bb31f36684880c68ab5826">AREA_RING_OF_HORDE_VALIANTS</a></div><div class="ttdeci">@ AREA_RING_OF_HORDE_VALIANTS</div><div class="ttdef"><b>Definition:</b> achievement_scripts.cpp:201</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="a59d6aac4e950d8e6a0265a26e1898c13" name="a59d6aac4e950d8e6a0265a26e1898c13"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a59d6aac4e950d8e6a0265a26e1898c13">&#9670;&#160;</a></span>FlirtWithDisaster</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">enum <a class="el" href="../../d8/dca/a04145.html#a59d6aac4e950d8e6a0265a26e1898c13">FlirtWithDisaster</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a59d6aac4e950d8e6a0265a26e1898c13a51aa967912af69dc7510017e558bbb85" name="a59d6aac4e950d8e6a0265a26e1898c13a51aa967912af69dc7510017e558bbb85"></a>AURA_PERFUME_FOREVER&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a59d6aac4e950d8e6a0265a26e1898c13a6f98457c5232039183c4be4588a067c6" name="a59d6aac4e950d8e6a0265a26e1898c13a6f98457c5232039183c4be4588a067c6"></a>AURA_PERFUME_ENCHANTRESS&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a59d6aac4e950d8e6a0265a26e1898c13afb194a6e19cf65f763d7975e5d842c9c" name="a59d6aac4e950d8e6a0265a26e1898c13afb194a6e19cf65f763d7975e5d842c9c"></a>AURA_PERFUME_VICTORY&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">  254</span>{</div>
-<div class="line"><span class="lineno">  255</span>    <a class="code hl_enumvalue" href="../../d8/dca/a04145.html#a59d6aac4e950d8e6a0265a26e1898c13a51aa967912af69dc7510017e558bbb85">AURA_PERFUME_FOREVER</a>           = 70235,</div>
-<div class="line"><span class="lineno">  256</span>    <a class="code hl_enumvalue" href="../../d8/dca/a04145.html#a59d6aac4e950d8e6a0265a26e1898c13a6f98457c5232039183c4be4588a067c6">AURA_PERFUME_ENCHANTRESS</a>       = 70234,</div>
-<div class="line"><span class="lineno">  257</span>    <a class="code hl_enumvalue" href="../../d8/dca/a04145.html#a59d6aac4e950d8e6a0265a26e1898c13afb194a6e19cf65f763d7975e5d842c9c">AURA_PERFUME_VICTORY</a>           = 70233,</div>
-<div class="line"><span class="lineno">  258</span>};</div>
-<div class="ttc" id="aa04145_html_a59d6aac4e950d8e6a0265a26e1898c13a51aa967912af69dc7510017e558bbb85"><div class="ttname"><a href="../../d8/dca/a04145.html#a59d6aac4e950d8e6a0265a26e1898c13a51aa967912af69dc7510017e558bbb85">AURA_PERFUME_FOREVER</a></div><div class="ttdeci">@ AURA_PERFUME_FOREVER</div><div class="ttdef"><b>Definition:</b> achievement_scripts.cpp:255</div></div>
-<div class="ttc" id="aa04145_html_a59d6aac4e950d8e6a0265a26e1898c13a6f98457c5232039183c4be4588a067c6"><div class="ttname"><a href="../../d8/dca/a04145.html#a59d6aac4e950d8e6a0265a26e1898c13a6f98457c5232039183c4be4588a067c6">AURA_PERFUME_ENCHANTRESS</a></div><div class="ttdeci">@ AURA_PERFUME_ENCHANTRESS</div><div class="ttdef"><b>Definition:</b> achievement_scripts.cpp:256</div></div>
-<div class="ttc" id="aa04145_html_a59d6aac4e950d8e6a0265a26e1898c13afb194a6e19cf65f763d7975e5d842c9c"><div class="ttname"><a href="../../d8/dca/a04145.html#a59d6aac4e950d8e6a0265a26e1898c13afb194a6e19cf65f763d7975e5d842c9c">AURA_PERFUME_VICTORY</a></div><div class="ttdeci">@ AURA_PERFUME_VICTORY</div><div class="ttdef"><b>Definition:</b> achievement_scripts.cpp:257</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<h2 class="groupheader">Function Documentation</h2>
-<a id="a5091d6f933800f3313078304ad5c38ca" name="a5091d6f933800f3313078304ad5c38ca"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a5091d6f933800f3313078304ad5c38ca">&#9670;&#160;</a></span>AddSC_achievement_scripts()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void AddSC_achievement_scripts </td>
+          <td class="memname">#define RegisterSpellAndAuraScriptPair</td>
           <td>(</td>
-          <td class="paramname"></td><td>)</td>
+          <td class="paramtype">&#160;</td>
+          <td class="paramname">script_1, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
           <td></td>
+          <td class="paramtype">&#160;</td>
+          <td class="paramname">script_2&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td>&#160;&#160;&#160;<a class="el" href="../../d8/dca/a04145.html#aeffc3c8d08a35d5969c33508488e9051">RegisterSpellAndAuraScriptPairWithArgs</a>(script_1, script_2, #script_1)</td>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  278</span>{</div>
-<div class="line"><span class="lineno">  279</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d2/dd8/a26901.html">achievement_resilient_victory</a>();</div>
-<div class="line"><span class="lineno">  280</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../db/d1f/a26905.html">achievement_bg_control_all_nodes</a>();</div>
-<div class="line"><span class="lineno">  281</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d0/da9/a26909.html">achievement_save_the_day</a>();</div>
-<div class="line"><span class="lineno">  282</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../db/ddd/a26913.html">achievement_bg_ic_resource_glut</a>();</div>
-<div class="line"><span class="lineno">  283</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../da/d91/a26917.html">achievement_bg_ic_glaive_grave</a>();</div>
-<div class="line"><span class="lineno">  284</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../db/db5/a26921.html">achievement_bg_ic_mowed_down</a>();</div>
-<div class="line"><span class="lineno">  285</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../dd/d45/a26925.html">achievement_bg_sa_artillery</a>();</div>
-<div class="line"><span class="lineno">  286</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d1/dc3/a26933.html">achievement_sickly_gazelle</a>();</div>
-<div class="line"><span class="lineno">  287</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d8/d24/a26937.html">achievement_everything_counts</a>();</div>
-<div class="line"><span class="lineno">  288</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d3/dbe/a26941.html">achievement_bg_av_perfection</a>();</div>
-<div class="line"><span class="lineno">  289</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d2/d5d/a26929.html">achievement_arena_by_type</a>(<span class="stringliteral">&quot;achievement_arena_2v2_check&quot;</span>, <a class="code hl_enumvalue" href="../../df/d0e/a00800.html#ad38b6d141d358ab270694a77db413e50aba8dd9984d50b5a179ebf2dec66d8c01">ARENA_TYPE_2v2</a>);</div>
-<div class="line"><span class="lineno">  290</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d2/d5d/a26929.html">achievement_arena_by_type</a>(<span class="stringliteral">&quot;achievement_arena_3v3_check&quot;</span>, <a class="code hl_enumvalue" href="../../df/d0e/a00800.html#ad38b6d141d358ab270694a77db413e50aa98d0a1c6432cd3013d20e83937726be">ARENA_TYPE_3v3</a>);</div>
-<div class="line"><span class="lineno">  291</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d2/d5d/a26929.html">achievement_arena_by_type</a>(<span class="stringliteral">&quot;achievement_arena_5v5_check&quot;</span>, <a class="code hl_enumvalue" href="../../df/d0e/a00800.html#ad38b6d141d358ab270694a77db413e50a49cde50538e418258d292c3c2f7df512">ARENA_TYPE_5v5</a>);</div>
-<div class="line"><span class="lineno">  292</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d6/d9f/a26945.html">achievement_sa_defense_of_the_ancients</a>();</div>
-<div class="line"><span class="lineno">  293</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d6/d87/a26949.html">achievement_tilted</a>();</div>
-<div class="line"><span class="lineno">  294</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../df/d83/a26953.html">achievement_not_even_a_scratch</a>();</div>
-<div class="line"><span class="lineno">  295</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d9/d67/a26957.html">achievement_killed_exp_or_honor_target</a>();</div>
-<div class="line"><span class="lineno">  296</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d8/dbd/a26961.html">achievement_flirt_with_disaster_perf_check</a>();</div>
-<div class="line"><span class="lineno">  297</span>}</div>
-<div class="ttc" id="aa00800_html_ad38b6d141d358ab270694a77db413e50a49cde50538e418258d292c3c2f7df512"><div class="ttname"><a href="../../df/d0e/a00800.html#ad38b6d141d358ab270694a77db413e50a49cde50538e418258d292c3c2f7df512">ARENA_TYPE_5v5</a></div><div class="ttdeci">@ ARENA_TYPE_5v5</div><div class="ttdef"><b>Definition:</b> Battleground.h:220</div></div>
-<div class="ttc" id="aa00800_html_ad38b6d141d358ab270694a77db413e50aa98d0a1c6432cd3013d20e83937726be"><div class="ttname"><a href="../../df/d0e/a00800.html#ad38b6d141d358ab270694a77db413e50aa98d0a1c6432cd3013d20e83937726be">ARENA_TYPE_3v3</a></div><div class="ttdeci">@ ARENA_TYPE_3v3</div><div class="ttdef"><b>Definition:</b> Battleground.h:219</div></div>
-<div class="ttc" id="aa00800_html_ad38b6d141d358ab270694a77db413e50aba8dd9984d50b5a179ebf2dec66d8c01"><div class="ttname"><a href="../../df/d0e/a00800.html#ad38b6d141d358ab270694a77db413e50aba8dd9984d50b5a179ebf2dec66d8c01">ARENA_TYPE_2v2</a></div><div class="ttdeci">@ ARENA_TYPE_2v2</div><div class="ttdef"><b>Definition:</b> Battleground.h:218</div></div>
-<div class="ttc" id="aa26901_html"><div class="ttname"><a href="../../d2/dd8/a26901.html">achievement_resilient_victory</a></div><div class="ttdef"><b>Definition:</b> achievement_scripts.cpp:28</div></div>
-<div class="ttc" id="aa26905_html"><div class="ttname"><a href="../../db/d1f/a26905.html">achievement_bg_control_all_nodes</a></div><div class="ttdef"><b>Definition:</b> achievement_scripts.cpp:40</div></div>
-<div class="ttc" id="aa26909_html"><div class="ttname"><a href="../../d0/da9/a26909.html">achievement_save_the_day</a></div><div class="ttdef"><b>Definition:</b> achievement_scripts.cpp:52</div></div>
-<div class="ttc" id="aa26913_html"><div class="ttname"><a href="../../db/ddd/a26913.html">achievement_bg_ic_resource_glut</a></div><div class="ttdef"><b>Definition:</b> achievement_scripts.cpp:71</div></div>
-<div class="ttc" id="aa26917_html"><div class="ttname"><a href="../../da/d91/a26917.html">achievement_bg_ic_glaive_grave</a></div><div class="ttdef"><b>Definition:</b> achievement_scripts.cpp:83</div></div>
-<div class="ttc" id="aa26921_html"><div class="ttname"><a href="../../db/db5/a26921.html">achievement_bg_ic_mowed_down</a></div><div class="ttdef"><b>Definition:</b> achievement_scripts.cpp:97</div></div>
-<div class="ttc" id="aa26925_html"><div class="ttname"><a href="../../dd/d45/a26925.html">achievement_bg_sa_artillery</a></div><div class="ttdef"><b>Definition:</b> achievement_scripts.cpp:111</div></div>
-<div class="ttc" id="aa26929_html"><div class="ttname"><a href="../../d2/d5d/a26929.html">achievement_arena_by_type</a></div><div class="ttdef"><b>Definition:</b> achievement_scripts.cpp:125</div></div>
-<div class="ttc" id="aa26933_html"><div class="ttname"><a href="../../d1/dc3/a26933.html">achievement_sickly_gazelle</a></div><div class="ttdef"><b>Definition:</b> achievement_scripts.cpp:142</div></div>
-<div class="ttc" id="aa26937_html"><div class="ttname"><a href="../../d8/d24/a26937.html">achievement_everything_counts</a></div><div class="ttdef"><b>Definition:</b> achievement_scripts.cpp:160</div></div>
-<div class="ttc" id="aa26941_html"><div class="ttname"><a href="../../d3/dbe/a26941.html">achievement_bg_av_perfection</a></div><div class="ttdef"><b>Definition:</b> achievement_scripts.cpp:172</div></div>
-<div class="ttc" id="aa26945_html"><div class="ttname"><a href="../../d6/d9f/a26945.html">achievement_sa_defense_of_the_ancients</a></div><div class="ttdef"><b>Definition:</b> achievement_scripts.cpp:184</div></div>
-<div class="ttc" id="aa26949_html"><div class="ttname"><a href="../../d6/d87/a26949.html">achievement_tilted</a></div><div class="ttdef"><b>Definition:</b> achievement_scripts.cpp:206</div></div>
-<div class="ttc" id="aa26953_html"><div class="ttname"><a href="../../df/d83/a26953.html">achievement_not_even_a_scratch</a></div><div class="ttdef"><b>Definition:</b> achievement_scripts.cpp:228</div></div>
-<div class="ttc" id="aa26957_html"><div class="ttname"><a href="../../d9/d67/a26957.html">achievement_killed_exp_or_honor_target</a></div><div class="ttdef"><b>Definition:</b> achievement_scripts.cpp:243</div></div>
-<div class="ttc" id="aa26961_html"><div class="ttname"><a href="../../d8/dbd/a26961.html">achievement_flirt_with_disaster_perf_check</a></div><div class="ttdef"><b>Definition:</b> achievement_scripts.cpp:261</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00218">ARENA_TYPE_2v2</a>, <a class="el" href="../../#l00219">ARENA_TYPE_3v3</a>, and <a class="el" href="../../#l00220">ARENA_TYPE_5v5</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00040">AddWorldScripts()</a>.</p>
+</div>
+</div>
+<a id="aeffc3c8d08a35d5969c33508488e9051" name="aeffc3c8d08a35d5969c33508488e9051"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aeffc3c8d08a35d5969c33508488e9051">&#9670;&#160;</a></span>RegisterSpellAndAuraScriptPairWithArgs</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">#define RegisterSpellAndAuraScriptPairWithArgs</td>
+          <td>(</td>
+          <td class="paramtype">&#160;</td>
+          <td class="paramname">script_1, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">&#160;</td>
+          <td class="paramname">script_2, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">&#160;</td>
+          <td class="paramname">script_name, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">&#160;</td>
+          <td class="paramname"><em>...</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td>&#160;&#160;&#160;new <a class="el" href="../../d2/dc2/a10344.html">GenericSpellAndAuraScriptLoader</a>&lt;script_1, script_2, decltype(std::make_tuple(__VA_ARGS__))&gt;(script_name, std::make_tuple(__VA_ARGS__))</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ae221e5976ab29ba14fec3b073a03670f" name="ae221e5976ab29ba14fec3b073a03670f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae221e5976ab29ba14fec3b073a03670f">&#9670;&#160;</a></span>RegisterSpellScript</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">#define RegisterSpellScript</td>
+          <td>(</td>
+          <td class="paramtype">&#160;</td>
+          <td class="paramname">spell_script</td><td>)</td>
+          <td>&#160;&#160;&#160;<a class="el" href="../../d8/dca/a04145.html#aedecf91f4fce46852db865deae243e1f">RegisterSpellScriptWithArgs</a>(spell_script, #spell_script)</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="aedecf91f4fce46852db865deae243e1f" name="aedecf91f4fce46852db865deae243e1f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aedecf91f4fce46852db865deae243e1f">&#9670;&#160;</a></span>RegisterSpellScriptWithArgs</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">#define RegisterSpellScriptWithArgs</td>
+          <td>(</td>
+          <td class="paramtype">&#160;</td>
+          <td class="paramname">spell_script, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">&#160;</td>
+          <td class="paramname">script_name, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">&#160;</td>
+          <td class="paramname"><em>...</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td>&#160;&#160;&#160;new <a class="el" href="../../d2/dc2/a10344.html">GenericSpellAndAuraScriptLoader</a>&lt;spell_script, decltype(std::make_tuple(__VA_ARGS__))&gt;(script_name, std::make_tuple(__VA_ARGS__))</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
 
 </div>
 </div>
@@ -319,8 +278,8 @@ Functions</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_0a0414616ece51a8570c4e36029d4e29.html">World</a></li><li class="navelem"><a class="el" href="../../d8/dca/a04145.html">achievement_scripts.cpp</a></li>
-    <li class="footer">Generated on Mon Apr 21 2025 20:45:06 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_824c567499771b11a8d1959386aa27e6.html">Scripting</a></li><li class="navelem"><a class="el" href="../../dir_a0aac0519f50cbe40c54d5948ed285d0.html">ScriptDefines</a></li><li class="navelem"><a class="el" href="../../d8/dca/a04145.html">SpellScriptLoader.h</a></li>
+    <li class="footer">Generated on Mon Apr 28 2025 20:43:07 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

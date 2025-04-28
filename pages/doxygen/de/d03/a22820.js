@@ -1,6 +1,6 @@
 var a22820 =
 [
-    [ "PrepareSpellScript", "de/d03/a22820.html#ad786920d6180b8e2829f3a56ec50c488", null ],
-    [ "Register", "de/d03/a22820.html#a857be9f0017e0013f3e30e1d026eaf5a", null ],
-    [ "SetDest", "de/d03/a22820.html#a0ea9f9513ad607f639b28d5f8162e629", null ]
+    [ "boss_essence_of_desireAI", "da/dc5/a22824.html", "da/dc5/a22824" ],
+    [ "boss_essence_of_desire", "de/d03/a22820.html#a5006ce57dd19c2a80e961dedca8c503d", null ],
+    [ "GetAI", "de/d03/a22820.html#a14b66470c508fa24e214062aeec0aae6", null ]
 ];

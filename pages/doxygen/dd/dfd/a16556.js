@@ -1,6 +1,6 @@
 var a16556 =
 [
-    [ "HandleScript", "dd/dfd/a16556.html#a4786e0c38f03f7e671174d0641526681", null ],
-    [ "PrepareSpellScript", "dd/dfd/a16556.html#a7d260468f409a7fb41a39f80db5f9d63", null ],
-    [ "Register", "dd/dfd/a16556.html#a943117bfb56b846e99d04bd9a348af8d", null ]
+    [ "OnPeriodic", "dd/dfd/a16556.html#a6f2e191d76f894517aed395866b7e508", null ],
+    [ "PrepareAuraScript", "dd/dfd/a16556.html#a571ee1c735b6095408973bfe5f91bcf7", null ],
+    [ "Register", "dd/dfd/a16556.html#a6094dc303c034e49fb4e543874db080b", null ]
 ];

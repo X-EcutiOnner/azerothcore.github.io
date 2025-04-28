@@ -1,7 +1,7 @@
 var a13044 =
 [
-    [ "HandleScript", "d5/d1b/a13044.html#ab705220b48be16090107135f9e2272cf", null ],
-    [ "PrepareSpellScript", "d5/d1b/a13044.html#a8bf22d62d6e7f50315e4c14714b8457f", null ],
-    [ "Register", "d5/d1b/a13044.html#ac969bf9f37d02f2b3d78d31d7f8c4625", null ],
-    [ "Validate", "d5/d1b/a13044.html#ad1d90693a427a52fa728e5ae455932a3", null ]
+    [ "npc_apothecary_genericAI", "d5/d1b/a13044.html#afb2b04b51e28d0795e7781effa68dffd", null ],
+    [ "DoAction", "d5/d1b/a13044.html#a59074beefbd3d80104b64f8ecc2ef8e0", null ],
+    [ "MovementInform", "d5/d1b/a13044.html#a63530bd7c3ebcd66521a268e11bf2f93", null ],
+    [ "_movePos", "d5/d1b/a13044.html#a53d10ab64df212b043cc21e054f6528c", null ]
 ];

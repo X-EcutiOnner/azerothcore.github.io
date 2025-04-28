@@ -1,5 +1,6 @@
 var a13828 =
 [
-    [ "at_zulgurub_entrance_speech", "d7/d4d/a13828.html#afef11c6a7e97befd07072826fa13be55", null ],
-    [ "_OnTrigger", "d7/d4d/a13828.html#a55cda55ed70c63f2a0b2ce39b2ffc0a5", null ]
+    [ "boss_arlokkAI", "df/d98/a13832.html", "df/d98/a13832" ],
+    [ "boss_arlokk", "d7/d4d/a13828.html#a55bb21239e05acff18d2fb147449800e", null ],
+    [ "GetAI", "d7/d4d/a13828.html#a58b8cc7a198784b48faaab1b069d397c", null ]
 ];

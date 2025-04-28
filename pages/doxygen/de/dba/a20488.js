@@ -1,8 +1,9 @@
 var a20488 =
 [
-    [ "boss_thorim_pillarAI", "de/dba/a20488.html#ae00c9e72f14e3f2c94da118a1fe27130", null ],
-    [ "Reset", "de/dba/a20488.html#ae9043ed9b72cc0eda6fb7c859355da57", null ],
-    [ "SpellHit", "de/dba/a20488.html#a1cb3ef9fdfc9e375d15e14b9230dd51e", null ],
-    [ "UpdateAI", "de/dba/a20488.html#afd8e05444eeea620a7ef21e97c345d41", null ],
-    [ "_resetTimer", "de/dba/a20488.html#a6ef7c9e23280564aec1b82eb670bc4f9", null ]
+    [ "npc_ulduar_dark_rune_sentinelAI", "de/dba/a20488.html#a533ae31e0507f12f7d94e347b6b7ebf2", null ],
+    [ "CanAIAttack", "de/dba/a20488.html#a12b2e5c621a8b04a4d80dde706a4bb2b", null ],
+    [ "Reset", "de/dba/a20488.html#ada2897f48effedd5d5baa5a260497b5a", null ],
+    [ "UpdateAI", "de/dba/a20488.html#aa9b319928a9b23cf4d47a07c1eaeb0cd", null ],
+    [ "timer1", "de/dba/a20488.html#a383a2ee113822b7eff52466f0cc0e137", null ],
+    [ "timer2", "de/dba/a20488.html#ad5c4698c5d12ff42179d62c47d9f7719", null ]
 ];

@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: ArenaTeamFilter Class Reference</title>
+<title>AzerothCore: ArenaSeasonTeamRewarder Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -107,33 +107,33 @@ $(document).ready(function(){initNavTree('dc/df2/a07204.html','../../'); initRes
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
 <a href="../../d8/d9c/a07201.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">ArenaTeamFilter Class Reference<span class="mlabels"><span class="mlabel">abstract</span></span></div></div>
+  <div class="headertitle"><div class="title">ArenaSeasonTeamRewarder Class Reference<span class="mlabels"><span class="mlabel">abstract</span></span></div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">ArenaTeamFilter.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">ArenaSeasonRewardsDistributor.h</a>&quot;</code></p>
 <div class="dynheader">
-Inheritance diagram for ArenaTeamFilter:</div>
+Inheritance diagram for ArenaSeasonTeamRewarder:</div>
 <div class="dyncontent">
  <div class="center">
-  <img src="../../dc/df2/a07204.png" usemap="#ArenaTeamFilter_map" alt=""/>
-  <map id="ArenaTeamFilter_map" name="ArenaTeamFilter_map">
-<area href="../../df/d79/a07212.html" alt="ArenaTeamFilterAllTeams" shape="rect" coords="0,56,157,80"/>
-<area href="../../d2/d8e/a07208.html" alt="ArenaTeamFilterByTypes" shape="rect" coords="167,56,324,80"/>
+  <img src="../../dc/df2/a07204.png" usemap="#ArenaSeasonTeamRewarder_map" alt=""/>
+  <map id="ArenaSeasonTeamRewarder_map" name="ArenaSeasonTeamRewarder_map">
+<area href="../../d2/d8e/a07208.html" alt="ArenaSeasonTeamRewarderImpl" shape="rect" coords="0,56,205,80"/>
+<area href="../../de/deb/a28424.html" alt="MockArenaSeasonTeamRewarder" shape="rect" coords="215,56,420,80"/>
   </map>
 </div></div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:afc05f637cc782712e6aa09bea6e85693"><td class="memItemLeft" align="right" valign="top">virtual&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/df2/a07204.html#afc05f637cc782712e6aa09bea6e85693">~ArenaTeamFilter</a> ()=default</td></tr>
-<tr class="separator:afc05f637cc782712e6aa09bea6e85693"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9a0bcfa1e5e79d2539465d84b44a235c"><td class="memItemLeft" align="right" valign="top">virtual <a class="el" href="../../df/d74/a07232.html#ac76e895599b64e0824e923faf9c08560">ArenaTeamMgr::ArenaTeamContainer</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/df2/a07204.html#a9a0bcfa1e5e79d2539465d84b44a235c">Filter</a> (<a class="el" href="../../df/d74/a07232.html#ac76e895599b64e0824e923faf9c08560">ArenaTeamMgr::ArenaTeamContainer</a> teams)=0</td></tr>
-<tr class="separator:a9a0bcfa1e5e79d2539465d84b44a235c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8f7eb844a39cd5213134ef4f4d4b1fde"><td class="memItemLeft" align="right" valign="top">virtual&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/df2/a07204.html#a8f7eb844a39cd5213134ef4f4d4b1fde">~ArenaSeasonTeamRewarder</a> ()=default</td></tr>
+<tr class="separator:a8f7eb844a39cd5213134ef4f4d4b1fde"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2beaf893f95e16c4d388ad048885848b"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/df2/a07204.html#a2beaf893f95e16c4d388ad048885848b">RewardTeamWithRewardGroup</a> (<a class="el" href="../../df/d3a/a07240.html">ArenaTeam</a> *arenaTeam, <a class="el" href="../../d3/ddf/a07196.html">ArenaSeasonRewardGroup</a> const &amp;rewardGroup)=0</td></tr>
+<tr class="separator:a2beaf893f95e16c4d388ad048885848b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="afc05f637cc782712e6aa09bea6e85693" name="afc05f637cc782712e6aa09bea6e85693"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#afc05f637cc782712e6aa09bea6e85693">&#9670;&#160;</a></span>~ArenaTeamFilter()</h2>
+<a id="a8f7eb844a39cd5213134ef4f4d4b1fde" name="a8f7eb844a39cd5213134ef4f4d4b1fde"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8f7eb844a39cd5213134ef4f4d4b1fde">&#9670;&#160;</a></span>~ArenaSeasonTeamRewarder()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -142,7 +142,7 @@ Public Member Functions</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">virtual ArenaTeamFilter::~ArenaTeamFilter </td>
+          <td class="memname">virtual ArenaSeasonTeamRewarder::~ArenaSeasonTeamRewarder </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
@@ -158,8 +158,8 @@ Public Member Functions</h2></td></tr>
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
-<a id="a9a0bcfa1e5e79d2539465d84b44a235c" name="a9a0bcfa1e5e79d2539465d84b44a235c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a9a0bcfa1e5e79d2539465d84b44a235c">&#9670;&#160;</a></span>Filter()</h2>
+<a id="a2beaf893f95e16c4d388ad048885848b" name="a2beaf893f95e16c4d388ad048885848b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2beaf893f95e16c4d388ad048885848b">&#9670;&#160;</a></span>RewardTeamWithRewardGroup()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -168,11 +168,21 @@ Public Member Functions</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">virtual <a class="el" href="../../df/d74/a07232.html#ac76e895599b64e0824e923faf9c08560">ArenaTeamMgr::ArenaTeamContainer</a> ArenaTeamFilter::Filter </td>
+          <td class="memname">virtual void ArenaSeasonTeamRewarder::RewardTeamWithRewardGroup </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../df/d74/a07232.html#ac76e895599b64e0824e923faf9c08560">ArenaTeamMgr::ArenaTeamContainer</a>&#160;</td>
-          <td class="paramname"><em>teams</em></td><td>)</td>
+          <td class="paramtype"><a class="el" href="../../df/d3a/a07240.html">ArenaTeam</a> *&#160;</td>
+          <td class="paramname"><em>arenaTeam</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
           <td></td>
+          <td class="paramtype"><a class="el" href="../../d3/ddf/a07196.html">ArenaSeasonRewardGroup</a> const &amp;&#160;</td>
+          <td class="paramname"><em>rewardGroup</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
   </td>
@@ -182,7 +192,9 @@ Public Member Functions</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Implemented in <a class="el" href="../../d2/d8e/a07208.html#a7c04437788359b40db1c0d4492d51497">ArenaTeamFilterByTypes</a>, and <a class="el" href="../../df/d79/a07212.html#a1fcb023fe0dee17790b3636bf1ff3e9a">ArenaTeamFilterAllTeams</a>.</p>
+<p>Implemented in <a class="el" href="../../d2/d8e/a07208.html#a962da3fcdc2feb57ffd2a635d431939a">ArenaSeasonTeamRewarderImpl</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00109">ArenaSeasonRewardDistributor::DistributeRewards()</a>.</p>
 
 </div>
 </div>
@@ -191,8 +203,8 @@ Public Member Functions</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dc/df2/a07204.html">ArenaTeamFilter</a></li>
-    <li class="footer">Generated on Mon Mar 3 2025 20:44:57 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dc/df2/a07204.html">ArenaSeasonTeamRewarder</a></li>
+    <li class="footer">Generated on Mon Apr 28 2025 20:44:02 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

@@ -1,12 +1,6 @@
 var a00197 =
 [
-    [ "CSymbolInfoPackage", "d3/dda/a05177.html", "d3/dda/a05177" ],
-    [ "_NO_CVCONST_H", "de/db1/a00197.html#af8660cbefcf140a8992e862e401bc473", null ],
-    [ "CrashFolder", "de/db1/a00197.html#a55b3d8676a4478f058eeb12d4e8b35b2", null ],
-    [ "EXCEPTION", "de/db1/a00197.html#a04a8ef8e5d1a39a04fed031f53ffa2db", null ],
-    [ "WIN32_LEAN_AND_MEAN", "de/db1/a00197.html#ac7bef5d85e3dcd73eef56ad39ffc84a9", null ],
-    [ "ErrorMessage", "de/db1/a00197.html#a75b4eb6a99991d301f7d44683ce13c9e", null ],
-    [ "ToTchar", "de/db1/a00197.html#a9f2ce59205c508258855d0568854e367", null ],
-    [ "ToTchar", "de/db1/a00197.html#a74d70382aec7501d6df3dcb969b85902", null ],
-    [ "g_WheatyExceptionReport", "de/db1/a00197.html#a9fff8ce906026fe3179e50e97182d90d", null ]
+    [ "LinkedListElement", "d6/d3f/a05204.html", "d6/d3f/a05204" ],
+    [ "LinkedListHead", "df/dfd/a05208.html", "df/dfd/a05208" ],
+    [ "LinkedListHead::Iterator< _Ty >", "d4/d61/a05212.html", "d4/d61/a05212" ]
 ];

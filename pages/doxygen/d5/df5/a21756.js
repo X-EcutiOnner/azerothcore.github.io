@@ -1,8 +1,8 @@
 var a21756 =
 [
-    [ "npc_ravenous_worgAI", "d5/df5/a21756.html#a5404516869e171c84b774f2a7b8be15d", null ],
-    [ "AttackStart", "d5/df5/a21756.html#a593d218d8cb083a7e37f81d3952c6d4c", null ],
-    [ "UpdateAI", "d5/df5/a21756.html#aeb64d5bde5ef9d8c2a62662bb72d3049", null ],
-    [ "_attack", "d5/df5/a21756.html#a3df5c98821ba33a40e25e7b050858b96", null ],
-    [ "_pacified", "d5/df5/a21756.html#a0da1f59a6fc9cdf39c9cced1eb52acba", null ]
+    [ "npc_q24545_vegardAI", "d5/df5/a21756.html#a6a86b56508a86bf32ab5fb2bd46248c9", null ],
+    [ "JustDied", "d5/df5/a21756.html#a1f7784242bbaf39d0fb105d2930da37c", null ],
+    [ "KilledUnit", "d5/df5/a21756.html#a2d78117a6c2a29f52f1905595425964a", null ],
+    [ "UpdateAI", "d5/df5/a21756.html#a79cc34760b58ad4b29c6a0a496971f0a", null ],
+    [ "events", "d5/df5/a21756.html#a68f48d92cc5559025e635d599c2882e3", null ]
 ];

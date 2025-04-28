@@ -1,17 +1,14 @@
 var a11580 =
 [
-    [ "gobject_commandscript", "df/d37/a11580.html#a664ffe7aa07b1e08156545675ae5dc69", null ],
-    [ "GetCommands", "df/d37/a11580.html#a75124102670615a7b3a0ecd457ab631a", null ],
-    [ "HandleGameObjectActivateCommand", "df/d37/a11580.html#a2512dfca6b1ae8a2476551a02caa202a", null ],
-    [ "HandleGameObjectAddCommand", "df/d37/a11580.html#a23717867956cc0da99e3640d2b790346", null ],
-    [ "HandleGameObjectAddTempCommand", "df/d37/a11580.html#a49908d7c180d778c43702563add17d2d", null ],
-    [ "HandleGameObjectDeleteCommand", "df/d37/a11580.html#a06ef45827cefcc19f748c5940dfb4b1d", null ],
-    [ "HandleGameObjectInfoCommand", "df/d37/a11580.html#a1d6e3c850b0bc2772d3f1f09877d8a40", null ],
-    [ "HandleGameObjectMoveCommand", "df/d37/a11580.html#a7098a5b0c94cb09b8c6fe08eba261d93", null ],
-    [ "HandleGameObjectNearCommand", "df/d37/a11580.html#a156f293b3bf9c7439b62814ee8f27650", null ],
-    [ "HandleGameObjectRespawn", "df/d37/a11580.html#aafed57aa556c8cdc0c380185b056d705", null ],
-    [ "HandleGameObjectSetPhaseCommand", "df/d37/a11580.html#af2ac49c9fdd408be62dd4ee179c1142c", null ],
-    [ "HandleGameObjectSetStateCommand", "df/d37/a11580.html#ae6d100f51d8b08e1576092eedc4db15f", null ],
-    [ "HandleGameObjectTargetCommand", "df/d37/a11580.html#a11d33046310495c0a6d883a307c95632", null ],
-    [ "HandleGameObjectTurnCommand", "df/d37/a11580.html#a75883394613b2c3501cd48f5334199b7", null ]
+    [ "deserter_commandscript", "df/d37/a11580.html#aebaaf99b9c5959f3f3418e13e252fb95", null ],
+    [ "GetCommands", "df/d37/a11580.html#ab5b48b9dde89c9215c51560f26324649", null ],
+    [ "HandleDeserterAdd", "df/d37/a11580.html#abe8c428ec09d341bb9f49882b7c071e2", null ],
+    [ "HandleDeserterBGAdd", "df/d37/a11580.html#a11fba09d369e7244244887947a91369e", null ],
+    [ "HandleDeserterBGRemove", "df/d37/a11580.html#a9bf4e146ef0f4f0cb2508c4953f8a647", null ],
+    [ "HandleDeserterBGRemoveAll", "df/d37/a11580.html#a419d404315e91b6cac1bfd3ac225a8fd", null ],
+    [ "HandleDeserterInstanceAdd", "df/d37/a11580.html#aabd2b23e2dc61fac10890077b41d8179", null ],
+    [ "HandleDeserterInstanceRemove", "df/d37/a11580.html#a3197e5228284ba50da7f3a31b3e76060", null ],
+    [ "HandleDeserterInstanceRemoveAll", "df/d37/a11580.html#adc6ad2f406fcb58ba64d2b6fd47281e2", null ],
+    [ "HandleDeserterRemove", "df/d37/a11580.html#a210dc9a7eddede6fe976157d6b22b683", null ],
+    [ "HandleDeserterRemoveAll", "df/d37/a11580.html#a6274f79b9884586069f94137b44d89e9", null ]
 ];

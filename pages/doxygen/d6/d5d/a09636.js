@@ -1,15 +1,14 @@
 var a09636 =
 [
-    [ "LootStoreItem", "d6/d5d/a09636.html#a10250dce57b2b8103c6ac11aa1ac2f0f", null ],
-    [ "IsValid", "d6/d5d/a09636.html#ae5fc113c31d96bc7ca31a5bc36ab2fcf", null ],
-    [ "Roll", "d6/d5d/a09636.html#a87cc7956b131a16aee7bd5d4808193df", null ],
-    [ "chance", "d6/d5d/a09636.html#a20411103b449a9176b3bc665f909f06f", null ],
-    [ "conditions", "d6/d5d/a09636.html#a88812a51fb467a189f2824ad8b3198e8", null ],
-    [ "groupid", "d6/d5d/a09636.html#abc6df381782d25490dff0e54bec63b3a", null ],
-    [ "itemid", "d6/d5d/a09636.html#a5df1d4fde5f3358470bd16f7ad9154c1", null ],
-    [ "lootmode", "d6/d5d/a09636.html#ab5f7b258bd5cfe4263acd9e0b253b166", null ],
-    [ "maxcount", "d6/d5d/a09636.html#a96012059cc6affa8120ef544682781d2", null ],
-    [ "mincount", "d6/d5d/a09636.html#ada6a4d427187361c6bc33bdde789e809", null ],
-    [ "needs_quest", "d6/d5d/a09636.html#a5a2fe7ae48508b88bbdfc70fc4035f31", null ],
-    [ "reference", "d6/d5d/a09636.html#a374a94e34095a1beb38abca43069d0b6", null ]
+    [ "LootItemStorage", "d6/d5d/a09636.html#aa6ece474f05744f2ce24a9fef42734af", null ],
+    [ "~LootItemStorage", "d6/d5d/a09636.html#a36faeed6ef556fd13118c4ad34e38548", null ],
+    [ "AddNewStoredLoot", "d6/d5d/a09636.html#a4c463773b50ae1b312865fbf72dfed18", null ],
+    [ "instance", "d6/d5d/a09636.html#a58d6dc6afa42364ca1dd6cbdcfb55b2b", null ],
+    [ "LoadStorageFromDB", "d6/d5d/a09636.html#a377c75f9d06eb246072b29d19baf2b62", null ],
+    [ "LoadStoredLoot", "d6/d5d/a09636.html#ad9804f564302d6ea4db4b84a6cbb093b", null ],
+    [ "RemoveEntryFromDB", "d6/d5d/a09636.html#a8ab68725c0525d162d325a2131db4c49", null ],
+    [ "RemoveStoredLoot", "d6/d5d/a09636.html#a414dee93f9852a64f01f9d9bf8dc8b40", null ],
+    [ "RemoveStoredLootItem", "d6/d5d/a09636.html#a6fd3f2ac820784ba51413b3781df3bcc", null ],
+    [ "RemoveStoredLootMoney", "d6/d5d/a09636.html#ab22d267a6701fedf824f801e4b703f70", null ],
+    [ "lootItemStore", "d6/d5d/a09636.html#a58ae52b9812e5752ba00d00a58eb56b0", null ]
 ];

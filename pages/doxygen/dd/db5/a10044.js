@@ -1,10 +1,12 @@
 var a10044 =
 [
-    [ "WaypointMgr", "dd/db5/a10044.html#a2f038884959f10348bd5b7af3abee7db", null ],
-    [ "~WaypointMgr", "dd/db5/a10044.html#a7b0fed55791df7ab040a46984700d18e", null ],
-    [ "GetPath", "dd/db5/a10044.html#a8492dcbb35f4bdb563f861c521eb5317", null ],
-    [ "instance", "dd/db5/a10044.html#aacd2ed943503288057b3fb9a935a56e9", null ],
-    [ "Load", "dd/db5/a10044.html#a69ae451ce07f2e68be81b1a86649115d", null ],
-    [ "ReloadPath", "dd/db5/a10044.html#ac1364780d1ab0c91ca95d366419ca3df", null ],
-    [ "_waypointStore", "dd/db5/a10044.html#af70ce7663d7f132339ea8d163311c248", null ]
+    [ "FacingInfo", "dd/db5/a10044.html#a1ac825c359704924c66e46eada64e34e", null ],
+    [ "FacingInfo", "dd/db5/a10044.html#a7820b3ce134dcca05b9b15299eb3b33f", null ],
+    [ "FacingInfo", "dd/db5/a10044.html#add6411db27c1d313d2f133adf0c35755", null ],
+    [ "angle", "dd/db5/a10044.html#ac56b304c2c5df7ab72c6fcbd2f845b02", null ],
+    [ "f", "dd/db5/a10044.html#a39ca5030b1ff932ae3606a07a9fe4377", null ],
+    [ "target", "dd/db5/a10044.html#a064b5265b4bb2a0053908bf6031b8f65", null ],
+    [ "x", "dd/db5/a10044.html#ac08687158cc0bcfbc9814b1cbbe95684", null ],
+    [ "y", "dd/db5/a10044.html#ad7fcfb6b1c5402a0570748d343eadfcc", null ],
+    [ "z", "dd/db5/a10044.html#a5ff017b732d47684f675041e44227754", null ]
 ];

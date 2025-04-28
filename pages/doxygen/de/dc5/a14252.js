@@ -1,13 +1,9 @@
 var a14252 =
 [
-    [ "boss_headless_horseman_head", "de/dc5/a14252.html#a12343a1bb6e30681b0c82ba649bd5b8a", null ],
-    [ "DamageTaken", "de/dc5/a14252.html#a73e75350937736ad7cfe725b785b3768", null ],
-    [ "GetOwner", "de/dc5/a14252.html#ab72d1f1891401754ffe032ed0534882d", null ],
-    [ "Reset", "de/dc5/a14252.html#a367e8b82d6d3bb08e7106c71295610f9", null ],
-    [ "SpellHit", "de/dc5/a14252.html#adcd9ce9755f8dbc1391b4d2b3f5e1669", null ],
-    [ "SpellHitTarget", "de/dc5/a14252.html#a0d73ba0831118d135137953f91e7c5d7", null ],
-    [ "UpdateAI", "de/dc5/a14252.html#a300dec039465535914bf6879423a0962", null ],
-    [ "handled", "de/dc5/a14252.html#a72c0d0c8c534fa8fdc1370203c30c3a3", null ],
-    [ "pct", "de/dc5/a14252.html#a9752326bac7ecbcdfde5b12f55b20be2", null ],
-    [ "timer", "de/dc5/a14252.html#ae7c669e65659459fd83f91b5e9ed1347", null ]
+    [ "spell_hallows_end_put_costume", "de/dc5/a14252.html#ac1fcd0a32142744f353cdc01bce740e3", null ],
+    [ "HandleScript", "de/dc5/a14252.html#ac4be92e73c08c06c1c9954547bfe8013", null ],
+    [ "PrepareSpellScript", "de/dc5/a14252.html#ac0e4692be1527f052a23ed52af32d042", null ],
+    [ "Register", "de/dc5/a14252.html#ac38299892d02c497e3bbae3c73a095ab", null ],
+    [ "_femaleSpell", "de/dc5/a14252.html#a5ccb30abd83ed1d0be104bffc91deca2", null ],
+    [ "_maleSpell", "de/dc5/a14252.html#af9b285133389942bea6738e518d34e48", null ]
 ];

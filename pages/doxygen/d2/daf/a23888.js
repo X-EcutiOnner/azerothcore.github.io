@@ -1,6 +1,6 @@
 var a23888 =
 [
-    [ "npc_fel_guard_houndAI", "da/de4/a23892.html", "da/de4/a23892" ],
-    [ "npc_fel_guard_hound", "d2/daf/a23888.html#a324179695f04a31b233b0ce94a46634c", null ],
-    [ "GetAI", "d2/daf/a23888.html#a5f5c20ec379994e7d0b65133d772e18f", null ]
+    [ "npc_daranelleAI", "da/de4/a23892.html", "da/de4/a23892" ],
+    [ "npc_daranelle", "d2/daf/a23888.html#a0a6e26b95d6d97821bc9e0c00b205704", null ],
+    [ "GetAI", "d2/daf/a23888.html#ad2ba5e4dfded886acaf2f9821e15738d", null ]
 ];

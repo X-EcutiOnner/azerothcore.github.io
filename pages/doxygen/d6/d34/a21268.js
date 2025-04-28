@@ -1,10 +1,6 @@
 var a21268 =
 [
-    [ "npc_azure_invaderAI", "d6/d34/a21268.html#a85f164a6ba24d7a14d77264441a78f46", null ],
-    [ "Reset", "d6/d34/a21268.html#ada44600272b19d9416d957bc52bc3be4", null ],
-    [ "UpdateAI", "d6/d34/a21268.html#a7dfdcb2a88930c6b4150f7f7c825a2df", null ],
-    [ "uiBrutalStrikeTimer", "d6/d34/a21268.html#a4b88a85f3344edbdadde0104668509aa", null ],
-    [ "uiCleaveTimer", "d6/d34/a21268.html#a8b1792a8a405651d602d9ed634f52689", null ],
-    [ "uiImpaleTimer", "d6/d34/a21268.html#aa709ee8919a2d0317d563259c7630c99", null ],
-    [ "uiSunderArmorTimer", "d6/d34/a21268.html#ab2e6d01df033985ac29e963cf2895466", null ]
+    [ "boss_xevozzAI", "dc/d59/a21272.html", "dc/d59/a21272" ],
+    [ "boss_xevozz", "d6/d34/a21268.html#a814ac939c4570d33450c4a6664833087", null ],
+    [ "GetAI", "d6/d34/a21268.html#a712d8ed125d464da56b677914fbf8796", null ]
 ];

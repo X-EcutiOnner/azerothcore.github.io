@@ -1,5 +1,6 @@
 var a20532 =
 [
-    [ "go_thorim_lever", "d4/d3d/a20532.html#a7641a89c3c369d26753a6e97dd435802", null ],
-    [ "OnGossipHello", "d4/d3d/a20532.html#aa48cd4d5728bd2d012a91f51299827a0", null ]
+    [ "boss_thorim_sif_blizzardAI", "df/dd6/a20536.html", "df/dd6/a20536" ],
+    [ "boss_thorim_sif_blizzard", "d4/d3d/a20532.html#acc42b4c9434f9eece2d93c2e4f3697fc", null ],
+    [ "GetAI", "d4/d3d/a20532.html#afbff96363951c952a195f5c2a105e279", null ]
 ];

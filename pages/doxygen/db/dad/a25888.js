@@ -1,10 +1,8 @@
 var a25888 =
 [
-    [ "AfterCheckProc", "db/dad/a25888.html#aa6f32a97ece5fc68c0b0a2cfa36e33eb", null ],
-    [ "HandleProc", "db/dad/a25888.html#a613182c741769d0983206bdfa89242f6", null ],
-    [ "PrepareAuraScript", "db/dad/a25888.html#a4f614fe81d829d8a1ceb7500f9557948", null ],
-    [ "Register", "db/dad/a25888.html#acd807de02a83a97a78572d672fb16027", null ],
-    [ "Validate", "db/dad/a25888.html#a3d2d6f1a00825ac66f507a790f468198", null ],
-    [ "_spellInfo", "db/dad/a25888.html#a66a5eb4caa7b43c34b2830d9a3d2f994", null ],
-    [ "_ticksModifier", "db/dad/a25888.html#ae23b54499fff879a096bd459e264c4f0", null ]
+    [ "CheckProc", "db/dad/a25888.html#a4f8e030154606e0781ebb89294019e0e", null ],
+    [ "HandleProc", "db/dad/a25888.html#a3d3db432fb051785f51ece4052ec8907", null ],
+    [ "PrepareAuraScript", "db/dad/a25888.html#aed40577ca9a1de3efc501606bcc9a8dd", null ],
+    [ "Register", "db/dad/a25888.html#a8cfdc8d98946fca603971ad91035e21c", null ],
+    [ "Validate", "db/dad/a25888.html#abfd3c0ad08ad287b38e8da437c18376c", null ]
 ];

@@ -1,7 +1,8 @@
 var a18604 =
 [
-    [ "HandleEffectPeriodic", "de/de5/a18604.html#a208c4d59e20cd802cf2f4643fa0d6253", null ],
-    [ "PrepareAuraScript", "de/de5/a18604.html#af1d284c4686f739b02b350a6c0a166c2", null ],
-    [ "Register", "de/de5/a18604.html#a006a97823ac07346771ec4ab61bd0763", null ],
-    [ "Validate", "de/de5/a18604.html#ae1f5555dcadb48ba59bf9571073f4a99", null ]
+    [ "CountTargets", "de/de5/a18604.html#a3000d234134bb3d4b2e17fd1eff8f4f0", null ],
+    [ "HandleScript", "de/de5/a18604.html#af058a0c458463bdba4a4eb73aa91c113", null ],
+    [ "PrepareSpellScript", "de/de5/a18604.html#a83b2fad7cdc189a17129e25a015952ff", null ],
+    [ "Register", "de/de5/a18604.html#af5e214ab418ca05ddd637c83d7a7e71a", null ],
+    [ "Validate", "de/de5/a18604.html#a63e8e899cb1469dca26cd5fa34b85408", null ]
 ];

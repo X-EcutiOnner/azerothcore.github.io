@@ -1,6 +1,6 @@
 var a26632 =
 [
-    [ "HandleBanish", "db/da8/a26632.html#ab8dd3ab2fd7b9aff3556e6284c515474", null ],
-    [ "PrepareSpellScript", "db/da8/a26632.html#a56118e3ed7525cdf575531a4c2f2d93f", null ],
-    [ "Register", "db/da8/a26632.html#ad6c066c9d6a64a5d89d3c347600559a9", null ]
+    [ "HandleDummy", "db/da8/a26632.html#af5bccd5dfb9aa37215b083438b6749ea", null ],
+    [ "PrepareSpellScript", "db/da8/a26632.html#a6c2b858c893ed215d1192073b06db81d", null ],
+    [ "Register", "db/da8/a26632.html#a1b23dc4a7a04e4c910bb738d45a8df1f", null ]
 ];

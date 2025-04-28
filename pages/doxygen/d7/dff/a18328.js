@@ -1,6 +1,5 @@
 var a18328 =
 [
-    [ "npc_risen_archmageAI", "d0/dd0/a18332.html", "d0/dd0/a18332" ],
-    [ "npc_risen_archmage", "d7/dff/a18328.html#adf6dfe2a00325955939c84bcc1e4eb68", null ],
-    [ "GetAI", "d7/dff/a18328.html#a8e8c4913e163c5d649fa79c2eb424864", null ]
+    [ "achievement_been_waiting_long_time", "d7/dff/a18328.html#a839ec8cb50512bbae7125ead3ed35aec", null ],
+    [ "OnCheck", "d7/dff/a18328.html#a5e72304220d3a649d2182cb287215da6", null ]
 ];

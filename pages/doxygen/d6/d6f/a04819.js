@@ -1,5 +1,6 @@
 var a04819 =
 [
-    [ "LFGJoin", "d8/d4a/a10717.html", "d8/d4a/a10717" ],
-    [ "LFGLeave", "d0/d57/a10721.html", "d0/d57/a10721" ]
+    [ "ChatServerMessage", "dd/d99/a10488.html", "dd/d99/a10488" ],
+    [ "Emote", "d5/d94/a10480.html", "d5/d94/a10480" ],
+    [ "EmoteClient", "d3/de2/a10484.html", "d3/de2/a10484" ]
 ];

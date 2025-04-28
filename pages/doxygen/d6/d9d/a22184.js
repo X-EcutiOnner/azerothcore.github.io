@@ -1,7 +1,8 @@
 var a22184 =
 [
-    [ "npc_wg_demolisher_engineer", "d6/d9d/a22184.html#a722ff6bac34730bfb5f36584d7a62ff8", null ],
-    [ "canBuild", "d6/d9d/a22184.html#a5dd51b0d0a05ebfb648faab570e27881", null ],
-    [ "OnGossipHello", "d6/d9d/a22184.html#ac3b0bbfd66bb94f29a6d733999b8c6ba", null ],
-    [ "OnGossipSelect", "d6/d9d/a22184.html#a3ecf69f45918bef0cb51023327ac9693", null ]
+    [ "AfterRemove", "d6/d9d/a22184.html#a06fd72c7754f34dbc62a99a9ed839302", null ],
+    [ "HandlePeriodic", "d6/d9d/a22184.html#a5aaadeed42e6a3cf1e2216a13c2d3ff9", null ],
+    [ "OnApply", "d6/d9d/a22184.html#a6617555d302923e5e95e7b1c6d8d74d6", null ],
+    [ "PrepareAuraScript", "d6/d9d/a22184.html#a47a6281c42dc9368357cc86912331c77", null ],
+    [ "Register", "d6/d9d/a22184.html#a868c79cda98b97b27b74d46f86cb980a", null ]
 ];

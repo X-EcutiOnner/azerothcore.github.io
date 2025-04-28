@@ -1,7 +1,6 @@
 var a14056 =
 [
-    [ "GetEmptyEntry", "df/d0c/a14056.html#a46dfe7b2f8598d24f17868266d1571c6", null ],
-    [ "HandleAfterHit", "df/d0c/a14056.html#a4f8ab6e42ddf2188ccca2640363b9925", null ],
-    [ "PrepareSpellScript", "df/d0c/a14056.html#a35f0ab4b36df3d9ec1191cbd9ba88c9e", null ],
-    [ "Register", "df/d0c/a14056.html#a25e1858e1f81891443f4b7de50a5d495", null ]
+    [ "npc_brewfest_keg_thrower", "df/d0c/a14056.html#a29da1efd21fe6737684607e5b360ea84", null ],
+    [ "CanBeSeen", "df/d0c/a14056.html#a36212d0f17c0070d3ef3cc25577ff7b9", null ],
+    [ "MoveInLineOfSight", "df/d0c/a14056.html#a3938b0e63553e79302ba966c6cdcf9be", null ]
 ];

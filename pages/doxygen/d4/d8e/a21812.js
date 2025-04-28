@@ -1,7 +1,6 @@
 var a21812 =
 [
-    [ "HandleAfterEffectApply", "d4/d8e/a21812.html#ab54795dc49ca453db40494a694158a98", null ],
-    [ "PrepareAuraScript", "d4/d8e/a21812.html#a3e5902a79b9d2c5cad69ad2ece8592ec", null ],
-    [ "Register", "d4/d8e/a21812.html#addd4fac4cc8a93d800abacb144e3303c", null ],
-    [ "Validate", "d4/d8e/a21812.html#a3ee65a1391c340e471adfc7ac653dd50", null ]
+    [ "npc_ravenous_worgAI", "d0/df3/a21816.html", "d0/df3/a21816" ],
+    [ "npc_ravenous_worg", "d4/d8e/a21812.html#ad7f8da1c82072367fe4a537620df9ac0", null ],
+    [ "GetAI", "d4/d8e/a21812.html#ac966ae31d3a86c9435b14d9f50a5f4cb", null ]
 ];

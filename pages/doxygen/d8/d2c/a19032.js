@@ -1,8 +1,10 @@
 var a19032 =
 [
-    [ "HandleAfterCast", "d8/d2c/a19032.html#ac816f81a668ac3018be8f5dc4698039b", null ],
-    [ "HandleDummy", "d8/d2c/a19032.html#a3009faa525c22779a0b2534b96821cfd", null ],
-    [ "PrepareSpellScript", "d8/d2c/a19032.html#aca38f23f080314ab73ec2494bf877716", null ],
-    [ "Register", "d8/d2c/a19032.html#aa87e57dabec6e83029f4dd84913f22ca", null ],
-    [ "Validate", "d8/d2c/a19032.html#af945e399992deb3aef5c81ad393ee50f", null ]
+    [ "boss_patchwerkAI", "d8/d2c/a19032.html#a74dfcf9ef921aa2a53d877c0e5ee9a34", null ],
+    [ "JustDied", "d8/d2c/a19032.html#aaed18187aa8e0058c70b29b1ccbe955f", null ],
+    [ "JustEngagedWith", "d8/d2c/a19032.html#a1317cb819d6247f62e0c6c725157db30", null ],
+    [ "KilledUnit", "d8/d2c/a19032.html#a17ccb5b2a1841656813a9408f5a05c4e", null ],
+    [ "Reset", "d8/d2c/a19032.html#a1d03058bf53e670f4fe9384e9f047891", null ],
+    [ "UpdateAI", "d8/d2c/a19032.html#a2db0df50a0faa88ebeaa035ea048157e", null ],
+    [ "events", "d8/d2c/a19032.html#a00c98ee5cdb3c512ba0d92a48d441006", null ]
 ];

@@ -1,8 +1,5 @@
 var a08468 =
 [
-    [ "IsInSpec", "d1/dbc/a08468.html#a77968b5562467f85bda04b6f2f41ca29", null ],
-    [ "inSpellBook", "d1/dbc/a08468.html#a650926fa9d1bbab336ee7ed3dd0b0b7d", null ],
-    [ "specMask", "d1/dbc/a08468.html#acc1913a90ca2bd23298d3590843cfbd5", null ],
-    [ "State", "d1/dbc/a08468.html#a062758af7e92f7e2263ca0a0fd329151", null ],
-    [ "talentID", "d1/dbc/a08468.html#aca9b191361652002f5178179a939e41b", null ]
+    [ "SpellModPred", "d1/dbc/a08468.html#ad27be78223b010f22730363dd56032ba", null ],
+    [ "operator()", "d1/dbc/a08468.html#a0cb5fc09a4171b42fdd59c065720bcae", null ]
 ];

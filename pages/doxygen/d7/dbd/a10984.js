@@ -1,15 +1,19 @@
 var a10984 =
 [
-    [ "BaseSocketMgr", "d7/dbd/a10984.html#a6f9671b94ae64c0c3482e085cb2a252f", null ],
-    [ "WorldSocketMgr", "d7/dbd/a10984.html#a8e46ddcf7ba33a66c7226150400cc08b", null ],
-    [ "CreateThreads", "d7/dbd/a10984.html#a04e98fcb25c09ff85e9536cf43fd4e6e", null ],
-    [ "GetApplicationSendBufferSize", "d7/dbd/a10984.html#a8deeaffd7d25bacd8bfa15d29dff6aeb", null ],
-    [ "Instance", "d7/dbd/a10984.html#aaa32a527707cb66916b1499a2e283250", null ],
-    [ "OnSocketAccept", "d7/dbd/a10984.html#aec088639145bbea3fcb69714ac5b5b67", null ],
-    [ "OnSocketOpen", "d7/dbd/a10984.html#a308aacca5450fca4a4b35009ddd6142f", null ],
-    [ "StartWorldNetwork", "d7/dbd/a10984.html#acaf85b16b490bfda8532b49456a38b71", null ],
-    [ "StopNetwork", "d7/dbd/a10984.html#aede126ecfe75f2917aaf730330ea3b82", null ],
-    [ "_socketApplicationSendBufferSize", "d7/dbd/a10984.html#a7a5ca8c2c9165d3cb1f46adbdfe917b0", null ],
-    [ "_socketSystemSendBufferSize", "d7/dbd/a10984.html#a043da77b04a29c4c5fe81698ae279985", null ],
-    [ "_tcpNoDelay", "d7/dbd/a10984.html#a6f440c4cde2deaa72cbc5dbd348a00b6", null ]
+    [ "PacketThrottlingMap", "d7/dbd/a10984.html#aa41dd21032403490c49a400651c98855", null ],
+    [ "Policy", "d7/dbd/a10984.html#abdee2870dbaa3341ecd6f682f87a63aa", [
+      [ "Process", "d7/dbd/a10984.html#abdee2870dbaa3341ecd6f682f87a63aaab6ec7abeb6ae29cc35a4b47475e12afe", null ],
+      [ "Kick", "d7/dbd/a10984.html#abdee2870dbaa3341ecd6f682f87a63aaa3e07960fcc45408894cf1402257bd9fd", null ],
+      [ "Ban", "d7/dbd/a10984.html#abdee2870dbaa3341ecd6f682f87a63aaa5c664f50adcaaf94d8c8d01b4eb754e9", null ],
+      [ "Log", "d7/dbd/a10984.html#abdee2870dbaa3341ecd6f682f87a63aaace0be71e33226e4c1db2bcea5959f16b", null ],
+      [ "BlockingThrottle", "d7/dbd/a10984.html#abdee2870dbaa3341ecd6f682f87a63aaa1974493f69f8fbf2eb0a63a852d132bb", null ],
+      [ "DropPacket", "d7/dbd/a10984.html#abdee2870dbaa3341ecd6f682f87a63aaa3bd03342168b3845d34fccaf6543c970", null ]
+    ] ],
+    [ "DosProtection", "d7/dbd/a10984.html#a8e43f21b9c729db604c9afd90f68dc20", null ],
+    [ "DosProtection", "d7/dbd/a10984.html#a8850d18ae254633f6bde5c85cbcef830", null ],
+    [ "EvaluateOpcode", "d7/dbd/a10984.html#a575c7bcb895ad0a3d0456f0a99ee5ec7", null ],
+    [ "operator=", "d7/dbd/a10984.html#a98394089b867ff6e8107b7975a67737d", null ],
+    [ "World", "d7/dbd/a10984.html#a7b4bcdf992c21ae83363f25df05b1d25", null ],
+    [ "_PacketThrottlingMap", "d7/dbd/a10984.html#ab74f0cf257d3db9076e3a8771de63eb3", null ],
+    [ "Session", "d7/dbd/a10984.html#a3f3f5397fb30cdf14141480659b18208", null ]
 ];

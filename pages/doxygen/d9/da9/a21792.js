@@ -1,6 +1,8 @@
 var a21792 =
 [
-    [ "npc_venture_co_stragglerAI", "dd/d22/a21796.html", "dd/d22/a21796" ],
-    [ "npc_venture_co_straggler", "d9/da9/a21792.html#a9d928b33dfcd3a6ccb7e1f7a1964762f", null ],
-    [ "GetAI", "d9/da9/a21792.html#a5f95d20c67553ae8a27f00ebb92e3627", null ]
+    [ "AfterApply", "d9/da9/a21792.html#a57279552b867251e9d2ee6a4ff5d7914", null ],
+    [ "PeriodicTick", "d9/da9/a21792.html#a2e86aa6efe6ab137926c1dfd1bd26a95", null ],
+    [ "PrepareAuraScript", "d9/da9/a21792.html#a9e1b74bf2d28a367caefdc90c34743c8", null ],
+    [ "Register", "d9/da9/a21792.html#a69eb0ca43a15d4995ad219459c2b39d6", null ],
+    [ "Validate", "d9/da9/a21792.html#a946248656cb755f85dd93fd4d607c9a7", null ]
 ];

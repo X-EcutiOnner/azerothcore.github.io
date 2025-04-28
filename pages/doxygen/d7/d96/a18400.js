@@ -1,8 +1,11 @@
 var a18400 =
 [
-    [ "DecayPeriodicTimer", "d7/d96/a18400.html#a314ac33692cc352c490ec3d87177d67a", null ],
-    [ "Load", "d7/d96/a18400.html#af5a498253c4c382df3b2462a30448a64", null ],
-    [ "PrepareAuraScript", "d7/d96/a18400.html#ac5d4ee199b49e04499997355ac054554", null ],
-    [ "Register", "d7/d96/a18400.html#a1b59480ce384f09cecd47872b39cf3c5", null ],
-    [ "_decayRate", "d7/d96/a18400.html#a20c696ff06f9b48451d9eac43ccf5416", null ]
+    [ "npc_valithria_cloudAI", "d7/d96/a18400.html#a5b550d0154f302cecc509fbd868a53bb", null ],
+    [ "AttackStart", "d7/d96/a18400.html#a5835d5ba19e1480016e585c1e49489c9", null ],
+    [ "EnterEvadeMode", "d7/d96/a18400.html#a346fd998d41451d7d1e605afdb13b65c", null ],
+    [ "MoveInLineOfSight", "d7/d96/a18400.html#a8d4c8d082f12b96b2b77447d0b942c2c", null ],
+    [ "Reset", "d7/d96/a18400.html#abca34d7285ef23c062006df8f8ae6d53", null ],
+    [ "UpdateAI", "d7/d96/a18400.html#a6908f5731915bf7d15bb4921c960aa30", null ],
+    [ "_events", "d7/d96/a18400.html#afc5c9299d7f1f73c087a19dcfb19e096", null ],
+    [ "_instance", "d7/d96/a18400.html#a20cc2bba9d1005cc93b55dfba8bfbcf3", null ]
 ];

@@ -1,5 +1,5 @@
 var a14316 =
 [
-    [ "PrepareSpellScript", "dc/d6c/a14316.html#a50ee42c11937759b6c52c2ab994481c4", null ],
-    [ "Register", "dc/d6c/a14316.html#a8dc12a723c2da948c38119e3fc34df35", null ]
+    [ "go_pumpkin_shrine", "dc/d6c/a14316.html#ab9b05caa7ef7d740a0c46171c2160a19", null ],
+    [ "OnGossipSelect", "dc/d6c/a14316.html#a35763a67d39c1d68974a9602ce26b699", null ]
 ];

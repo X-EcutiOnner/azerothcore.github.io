@@ -1,6 +1,6 @@
 var a16208 =
 [
-    [ "npc_anubarak_spikeAI", "df/d14/a16212.html", "df/d14/a16212" ],
-    [ "npc_anubarak_spike", "dd/da8/a16208.html#a4e96de1910c23311ad4644960ccd5022", null ],
-    [ "GetAI", "dd/da8/a16208.html#a7d55b321eb7e595fe5886dc382134947", null ]
+    [ "instance_trial_of_the_champion_InstanceMapScript", "df/d14/a16212.html", "df/d14/a16212" ],
+    [ "instance_trial_of_the_champion", "dd/da8/a16208.html#a7b97e3da119a7ad33a87c74647407bd8", null ],
+    [ "GetInstanceScript", "dd/da8/a16208.html#a9227119fc47f38cd82a1fc07c04b0c86", null ]
 ];

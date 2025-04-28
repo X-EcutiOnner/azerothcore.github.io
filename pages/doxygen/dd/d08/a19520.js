@@ -1,6 +1,7 @@
 var a19520 =
 [
-    [ "CosmicSmashDamageEvent", "dd/d08/a19520.html#a5c9606791b560d8be1825a9c73f2393e", null ],
-    [ "Execute", "dd/d08/a19520.html#a2d4b301e1b7e0852ec47280ad97871f2", null ],
-    [ "_caster", "dd/d08/a19520.html#ab7af2459d3962831812ee2362ee9de2b", null ]
+    [ "creature", "dd/d08/a19520.html#a55a6ee677ab51120867f542e5a5745b0", null ],
+    [ "sound", "dd/d08/a19520.html#a407acf5c908aa44a169adc1e88a70ab4", null ],
+    [ "text", "dd/d08/a19520.html#a9ed157ddf2c274d021820723b1ebe00e", null ],
+    [ "timer", "dd/d08/a19520.html#a198a3a5a4ad037b591fc3b85675bdfe1", null ]
 ];

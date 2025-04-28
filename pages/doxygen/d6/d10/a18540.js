@@ -1,7 +1,6 @@
 var a18540 =
 [
-    [ "OnApply", "d6/d10/a18540.html#a5f62c11ef96edbf6f2906bd5f41109d5", null ],
-    [ "OnRemove", "d6/d10/a18540.html#a697a7c76f944b5df956a9de07746b7a9", null ],
-    [ "PrepareAuraScript", "d6/d10/a18540.html#a338d0fa22368d01fe7523b7cc1acea4b", null ],
-    [ "Register", "d6/d10/a18540.html#ab915b3ede10526b3e7ccbe33f2568fae", null ]
+    [ "npc_captain_brandonAI", "d0/d9d/a18544.html", "d0/d9d/a18544" ],
+    [ "npc_captain_brandon", "d6/d10/a18540.html#ad522dd280882d894b5d32e7c888f2360", null ],
+    [ "GetAI", "d6/d10/a18540.html#a3d77951d8d9dbc14fad2fd52d84118a3", null ]
 ];

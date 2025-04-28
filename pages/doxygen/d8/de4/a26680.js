@@ -1,7 +1,6 @@
 var a26680 =
 [
-    [ "HandleTeleport", "d8/de4/a26680.html#a7ba7b82988dab5fd8e691b5b87c3d959", null ],
-    [ "PrepareAuraScript", "d8/de4/a26680.html#a2307b7eccd4dd08d7e97ece704ddc4fb", null ],
-    [ "Register", "d8/de4/a26680.html#a82432a4448d8c23ea2a39b4b26eb1b58", null ],
-    [ "Validate", "d8/de4/a26680.html#adabf22bd591a10662ffbf0354a18a936", null ]
+    [ "HandleAuraApply", "d8/de4/a26680.html#a0c17d42095cac3d4cf304df1fc83acbf", null ],
+    [ "PrepareAuraScript", "d8/de4/a26680.html#a6eedadacba366104fdca2791862be216", null ],
+    [ "Register", "d8/de4/a26680.html#a5869dc6372d479d85da1118d0c9ec8e6", null ]
 ];

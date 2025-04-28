@@ -1,6 +1,8 @@
 var a01931 =
 [
-    [ "TSpellSummary", "d4/dac/a06156.html", "d4/dac/a06156" ],
-    [ "SCR_CLEAR", "d5/d31/a01931.html#ab71e08e3f39b7ee7bda0306cd39b96a0", null ],
-    [ "SpellSummary", "d5/d31/a01931.html#ae56af266ccaa1794f1f014938b07e9cc", null ]
+    [ "instance_arcatraz", "d5/dd6/a23636.html", "d5/dd6/a23636" ],
+    [ "instance_arcatraz::instance_arcatraz_InstanceMapScript", "d2/d41/a23640.html", "d2/d41/a23640" ],
+    [ "AddSC_instance_arcatraz", "d5/d31/a01931.html#a80dfeb7f0ba2aa2c6cde3f26e3c50be4", null ],
+    [ "creatureData", "d5/d31/a01931.html#a412286b689bd324fedd65ddd8dde8afb", null ],
+    [ "doorData", "d5/d31/a01931.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ]
 ];

@@ -1,8 +1,9 @@
 var a21520 =
 [
-    [ "npc_shandy_dalaranAI", "d3/dc4/a21524.html", "d3/dc4/a21524" ],
-    [ "npc_shandy_dalaran", "d8/d68/a21520.html#a7077c769a252af8ba37b5ff5d524463e", null ],
-    [ "GetAI", "d8/d68/a21520.html#a641551a2aef739e1679912ae27ddb888", null ],
-    [ "OnGossipHello", "d8/d68/a21520.html#a91287aaba09fce091c9d826e75208f84", null ],
-    [ "OnGossipSelect", "d8/d68/a21520.html#ad005a17da187e0cfd03d2faf0099c448", null ]
+    [ "npc_bloodmage_laurithAI", "d8/d68/a21520.html#a75dca4f2e90318f334e7e6385d4f7a6f", null ],
+    [ "Reset", "d8/d68/a21520.html#afe9b10dfcee3b241a48e6f2e40eec657", null ],
+    [ "SetGUID", "d8/d68/a21520.html#a50a144cf1545117d79268d3a18a4b4ec", null ],
+    [ "UpdateAI", "d8/d68/a21520.html#a9752f518441071dd4a60cd63423bf9a3", null ],
+    [ "_events", "d8/d68/a21520.html#a35facab84094071d952792a4c3e5015d", null ],
+    [ "_playerGUID", "d8/d68/a21520.html#a6aab8db1d55d4fe3251b544c292711e8", null ]
 ];

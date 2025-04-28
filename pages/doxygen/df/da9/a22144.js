@@ -1,6 +1,6 @@
 var a22144 =
 [
-    [ "npc_freed_protodrakeAI", "d8/daf/a22148.html", "d8/daf/a22148" ],
-    [ "npc_freed_protodrake", "df/da9/a22144.html#a56e33e186800efa3fb86ca6a614e3b0b", null ],
-    [ "GetAI", "df/da9/a22144.html#a9680bf65cb97327396f58c297df1c8f5", null ]
+    [ "HandleScript", "df/da9/a22144.html#acb343eafcfddf6fedcdef26c9b86e0ec", null ],
+    [ "PrepareSpellScript", "df/da9/a22144.html#a5a4ce9453638d61fe52514240f0a9384", null ],
+    [ "Register", "df/da9/a22144.html#a889f931aaa37d3a283f4d585b384a68e", null ]
 ];

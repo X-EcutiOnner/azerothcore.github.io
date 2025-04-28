@@ -1,17 +1,31 @@
 var a03320 =
 [
-    [ "npc_daphne_stilwell", "d9/d20/a13669.html", "d9/d20/a13669" ],
-    [ "npc_daphne_stilwell::npc_daphne_stilwellAI", "d2/da2/a13673.html", "d2/da2/a13673" ],
-    [ "DaphneStilwell", "db/d69/a03320.html#a49d1cb4d511d2524f3bf3459da05a2fd", [
-      [ "SAY_DS_START", "db/d69/a03320.html#a49d1cb4d511d2524f3bf3459da05a2fdaa12c38d2f57b101a5272dde45bbf430e", null ],
-      [ "SAY_DS_DOWN_1", "db/d69/a03320.html#a49d1cb4d511d2524f3bf3459da05a2fda75bd441fc5d22c60e256684d8664aa46", null ],
-      [ "SAY_DS_DOWN_2", "db/d69/a03320.html#a49d1cb4d511d2524f3bf3459da05a2fda2fd750f4c8a0d85a69375e139be43d75", null ],
-      [ "SAY_DS_DOWN_3", "db/d69/a03320.html#a49d1cb4d511d2524f3bf3459da05a2fda14433601b23e5a16dcc971ea746d1128", null ],
-      [ "SAY_DS_PROLOGUE", "db/d69/a03320.html#a49d1cb4d511d2524f3bf3459da05a2fda402570a024e9b48018ca6b53ff7b83f8", null ],
-      [ "SPELL_SHOOT", "db/d69/a03320.html#a49d1cb4d511d2524f3bf3459da05a2fda1b728fa1bb0194534b5b491d35ed871c", null ],
-      [ "QUEST_TOME_VALOR", "db/d69/a03320.html#a49d1cb4d511d2524f3bf3459da05a2fda041a2f4b3f03948fc2f61e32e673973c", null ],
-      [ "NPC_DEFIAS_RAIDER", "db/d69/a03320.html#a49d1cb4d511d2524f3bf3459da05a2fda8455beedf9f49cb74c0f11bfb5a83050", null ],
-      [ "EQUIP_ID_RIFLE", "db/d69/a03320.html#a49d1cb4d511d2524f3bf3459da05a2fda31e0ac414da424f6923680055dd801d3", null ]
+    [ "BfCapturePoint", "d9/de8/a07116.html", "d9/de8/a07116" ],
+    [ "BfGraveyard", "d8/d20/a07120.html", "d8/d20/a07120" ],
+    [ "Battlefield", "dd/d87/a07124.html", "dd/d87/a07124" ],
+    [ "GraveyardVect", "db/d69/a03320.html#a3c001cdd2e1b762c5c2bdd6814e59f6c", null ],
+    [ "PlayerTimerMap", "db/d69/a03320.html#a0467dc30f5bb6a1c9ee1487a3aced1a1", null ],
+    [ "BattlefieldIDs", "db/d69/a03320.html#aff53bf428d550c270744c9a188d4187f", [
+      [ "BATTLEFIELD_BATTLEID_WG", "db/d69/a03320.html#aff53bf428d550c270744c9a188d4187fa38e75e8c40750cb29f0d478d19974010", null ]
     ] ],
-    [ "AddSC_westfall", "db/d69/a03320.html#a9c6e961944f462fc3c48a6400c76266c", null ]
+    [ "BattlefieldObjectiveStates", "db/d69/a03320.html#af6db5a1d93982b261639cd12634a2798", [
+      [ "BF_CAPTUREPOINT_OBJECTIVESTATE_NEUTRAL", "db/d69/a03320.html#af6db5a1d93982b261639cd12634a2798afafb6299c9f30c2bd0d2caac21577178", null ],
+      [ "BF_CAPTUREPOINT_OBJECTIVESTATE_ALLIANCE", "db/d69/a03320.html#af6db5a1d93982b261639cd12634a2798ac05149e43f48e8fbe687c2cb48a88ac7", null ],
+      [ "BF_CAPTUREPOINT_OBJECTIVESTATE_HORDE", "db/d69/a03320.html#af6db5a1d93982b261639cd12634a2798a683078aa231d432a72923b9eff4d5a29", null ],
+      [ "BF_CAPTUREPOINT_OBJECTIVESTATE_NEUTRAL_ALLIANCE_CHALLENGE", "db/d69/a03320.html#af6db5a1d93982b261639cd12634a2798a47f8021bf59a901b2a512d28cc044c7f", null ],
+      [ "BF_CAPTUREPOINT_OBJECTIVESTATE_NEUTRAL_HORDE_CHALLENGE", "db/d69/a03320.html#af6db5a1d93982b261639cd12634a2798a28c520f0b5997a10c6e8c040d803a9d5", null ],
+      [ "BF_CAPTUREPOINT_OBJECTIVESTATE_ALLIANCE_HORDE_CHALLENGE", "db/d69/a03320.html#af6db5a1d93982b261639cd12634a2798a9c9e1d966e139a18ba54ee2c2fa0bc2b", null ],
+      [ "BF_CAPTUREPOINT_OBJECTIVESTATE_HORDE_ALLIANCE_CHALLENGE", "db/d69/a03320.html#af6db5a1d93982b261639cd12634a2798af7b31d0894d6b9bd950d9a48c86da7c4", null ]
+    ] ],
+    [ "BattlefieldSounds", "db/d69/a03320.html#a7c3836172413cb3b2cdabeb20b99f1b4", [
+      [ "BF_HORDE_WINS", "db/d69/a03320.html#a7c3836172413cb3b2cdabeb20b99f1b4af85d42c135f0c26853ba8465193e8f3a", null ],
+      [ "BF_ALLIANCE_WINS", "db/d69/a03320.html#a7c3836172413cb3b2cdabeb20b99f1b4ae1455c543e0df55993ddfe9e73cdc138", null ],
+      [ "BF_START", "db/d69/a03320.html#a7c3836172413cb3b2cdabeb20b99f1b4a586da22ef0e5767a451125b0ca064007", null ]
+    ] ],
+    [ "BattlefieldTypes", "db/d69/a03320.html#a6f435417da35c7d1b51c95e516fc6b2d", [
+      [ "BATTLEFIELD_WG", "db/d69/a03320.html#a6f435417da35c7d1b51c95e516fc6b2da1fc74ab91b471d0c59f02fea08cb2efd", null ],
+      [ "BATTLEFIELD_TB", "db/d69/a03320.html#a6f435417da35c7d1b51c95e516fc6b2daf6a0681946ddb59a6623fb1d76f4f610", null ]
+    ] ],
+    [ "BATTLEFIELD_OBJECTIVE_UPDATE_INTERVAL", "db/d69/a03320.html#a79df696836c3edc53ca1868aab7f6e76", null ],
+    [ "BattlefieldFactions", "db/d69/a03320.html#af5e231859535c4e1e6bd27ee42753f63", null ]
 ];

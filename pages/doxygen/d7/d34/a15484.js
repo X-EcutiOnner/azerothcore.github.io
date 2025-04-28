@@ -1,7 +1,9 @@
 var a15484 =
 [
-    [ "npc_giltharesAI", "d7/d34/a15484.html#af22e42b2180987febd964784b6d49b5e", null ],
-    [ "JustEngagedWith", "d7/d34/a15484.html#ae9ba65652db3d2d32920d1a98594727a", null ],
-    [ "Reset", "d7/d34/a15484.html#a34d57ef71b60fe71c749f790cecf70b2", null ],
-    [ "WaypointReached", "d7/d34/a15484.html#a9308c73760e50e0f3d04031b508526d1", null ]
+    [ "go_wind_stoneAI", "d7/d34/a15484.html#a4370be2b59ea50bf5ea2285bfbf4e242", null ],
+    [ "GossipHello", "d7/d34/a15484.html#a73f129b7b636a1178fe3402cf1e6c50d", null ],
+    [ "GossipSelect", "d7/d34/a15484.html#aff4dedbf3a6fea405722f7064633edb1", null ],
+    [ "InitializeAI", "d7/d34/a15484.html#a33f98d1de05b539a66c4103b4c61de1f", null ],
+    [ "SummonNPC", "d7/d34/a15484.html#ab44f563b8f117a19ac78508c3cba72e9", null ],
+    [ "_creatureGuid", "d7/d34/a15484.html#a50ad8b248381a6d9fac7a291796966d6", null ]
 ];

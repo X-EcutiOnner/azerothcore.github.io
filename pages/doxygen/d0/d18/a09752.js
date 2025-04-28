@@ -1,9 +1,8 @@
 var a09752 =
 [
-    [ "ZoneDynamicInfo", "d0/d18/a09752.html#a0542940fdcc273a4ff8a8e8bb6a40b1f", null ],
-    [ "LightFadeInTime", "d0/d18/a09752.html#a0be8cff9a7e74add7bba8af3be993e48", null ],
-    [ "MusicId", "d0/d18/a09752.html#a3ab0244b34c30cc7d929b418da31d7d3", null ],
-    [ "OverrideLightId", "d0/d18/a09752.html#a0d43acd5539d3449b7c36ee88518346e", null ],
-    [ "WeatherGrade", "d0/d18/a09752.html#a923c3231c49554addd1522f0ccc50e2d", null ],
-    [ "WeatherId", "d0/d18/a09752.html#a4df1e694992a3c2638460601e4c4d7c9", null ]
+    [ "BoundaryUnionBoundary", "d0/d18/a09752.html#a074536112fffc805dec44bd9cd602642", null ],
+    [ "~BoundaryUnionBoundary", "d0/d18/a09752.html#a96450fc020bfad7b9f1f7be64490ad46", null ],
+    [ "IsWithinBoundaryArea", "d0/d18/a09752.html#a8dc91861fa6641008236e5a83030e0d1", null ],
+    [ "_b1", "d0/d18/a09752.html#a40fcd847f38703dfe5174267fbfd81ee", null ],
+    [ "_b2", "d0/d18/a09752.html#ae70530673803bd2ee85bf722fe42718b", null ]
 ];

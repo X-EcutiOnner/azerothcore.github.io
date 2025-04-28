@@ -1,8 +1,7 @@
 var a11088 =
 [
-    [ "ReflectEvent", "dc/d2c/a11088.html#a1669aec08a3a09143c57e4889c8fad08", null ],
-    [ "Execute", "dc/d2c/a11088.html#a37fb766d70932e8a431dba363c603531", null ],
-    [ "_caster", "dc/d2c/a11088.html#a67ec85597bb887e7b8cb31b818910d1a", null ],
-    [ "_spellInfo", "dc/d2c/a11088.html#ae05fc2092226695fa22dd1e72d58bc7b", null ],
-    [ "_targetGUID", "dc/d2c/a11088.html#aa9f8c7bf1e22c74f3d134df2cfc014b5", null ]
+    [ "chance", "dc/d2c/a11088.html#a3326edd1fa36b85b9ab7a84a6f6f9d1b", null ],
+    [ "triggeredByAura", "dc/d2c/a11088.html#abb48d6093570ba9c5488f200544a1e83", null ],
+    [ "triggeredByEffIdx", "dc/d2c/a11088.html#a82d752dedab39f417af225add6af1403", null ],
+    [ "triggeredSpell", "dc/d2c/a11088.html#a02ac12119655f9ab82347d21cc68803a", null ]
 ];

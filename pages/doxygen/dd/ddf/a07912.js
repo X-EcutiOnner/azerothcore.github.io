@@ -1,8 +1,7 @@
 var a07912 =
 [
-    [ "cancelTime", "dd/ddf/a07912.html#a5fe6d6ede54a1f1228e29fc7ef55a413", null ],
-    [ "inProgress", "dd/ddf/a07912.html#a8f3eddc8fbca950f184b6fb8b400344e", null ],
-    [ "reason", "dd/ddf/a07912.html#a279a5575ca0956266ae81b7a165874cf", null ],
-    [ "victim", "dd/ddf/a07912.html#a949262b4b3cbe0f813aae4fab704e7d2", null ],
-    [ "votes", "dd/ddf/a07912.html#a7619305fea30cc7fdc47f0a7ee365304", null ]
+    [ "LfgProposalPlayer", "dd/ddf/a07912.html#a80f7d0f3597201dc7fca4d08dd3b7a38", null ],
+    [ "accept", "dd/ddf/a07912.html#acbf0ce1e12307569487096dc5ca544a6", null ],
+    [ "group", "dd/ddf/a07912.html#a900f24e9caaa1569eeea93b4284139a1", null ],
+    [ "role", "dd/ddf/a07912.html#a54ab4a0f32cc3abc7489fc9c3655fe99", null ]
 ];

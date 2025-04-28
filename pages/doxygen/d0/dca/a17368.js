@@ -1,9 +1,6 @@
 var a17368 =
 [
-    [ "npc_stinky_iccAI", "d0/dca/a17368.html#a545356eb2b77cfae7af3d470e95ea2d6", null ],
-    [ "JustDied", "d0/dca/a17368.html#a7fa392980e2d30c935b79377df8dc694", null ],
-    [ "JustEngagedWith", "d0/dca/a17368.html#afd1cd4fc387ff7cdad58c9db60841c7a", null ],
-    [ "Reset", "d0/dca/a17368.html#ac66e3398598576fdc889a7b56646eecf", null ],
-    [ "UpdateAI", "d0/dca/a17368.html#af6e04824ea1682c529e8579a306d34ca", null ],
-    [ "events", "d0/dca/a17368.html#a3ab7ae11b7f5ef5877febbd384014ce2", null ]
+    [ "PrepareAuraScript", "d0/dca/a17368.html#abbcd0a9a63908a875bcdbc66fb5e1218", null ],
+    [ "RecalculateHook", "d0/dca/a17368.html#a829e96cabbb565922f7183adb3edf13c", null ],
+    [ "Register", "d0/dca/a17368.html#a7ded7cbe8c5cbffd6798bbb66d8a5d1a", null ]
 ];

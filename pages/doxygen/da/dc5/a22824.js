@@ -1,11 +1,12 @@
 var a22824 =
 [
-    [ "boss_supremus", "da/dc5/a22824.html#af1f094534b0e2dec70422839a02327cd", null ],
-    [ "CheckEvadeIfOutOfCombatArea", "da/dc5/a22824.html#a2654bf5b1d5b6da723d4968219e069a9", null ],
-    [ "FindHatefulStrikeTarget", "da/dc5/a22824.html#af560466902d0d372662020e1a67b627c", null ],
-    [ "JustEngagedWith", "da/dc5/a22824.html#a7d3a5e2c183db7639a7c25f309359ed1", null ],
-    [ "JustSummoned", "da/dc5/a22824.html#a7265a01fa79213ab6d8b82a4c92b7661", null ],
-    [ "Reset", "da/dc5/a22824.html#a0eaa29849a2571417d4826d238d72e25", null ],
-    [ "SchedulePhase", "da/dc5/a22824.html#a87e3943d6c645138853aa97644f9df0e", null ],
-    [ "SummonedCreatureDespawn", "da/dc5/a22824.html#a2ae72bfef577654e676a64eb2e4efa7a", null ]
+    [ "boss_essence_of_desireAI", "da/dc5/a22824.html#a02f6dec07038297c15c264fb501b01ab", null ],
+    [ "DamageTaken", "da/dc5/a22824.html#abc2d334c185f519230e5ee4d1fc8ff39", null ],
+    [ "DoAction", "da/dc5/a22824.html#ad55459d8e75f34783c1516be05cbb97f", null ],
+    [ "JustEngagedWith", "da/dc5/a22824.html#a0976078399b2190cca25aa2ae5c3c201", null ],
+    [ "KilledUnit", "da/dc5/a22824.html#a07509843bd658e3fc0b02cb817da37e9", null ],
+    [ "MovementInform", "da/dc5/a22824.html#ad65068c5f56db269b4dc711745f96cfb", null ],
+    [ "Reset", "da/dc5/a22824.html#a5c785c728d201a1a4f8f1e01d7000166", null ],
+    [ "UpdateAI", "da/dc5/a22824.html#af348a1b996a8e7704ba55185ef79fe7d", null ],
+    [ "_recentlySpoken", "da/dc5/a22824.html#a6507c0da056a74d961d28e96120cd676", null ]
 ];

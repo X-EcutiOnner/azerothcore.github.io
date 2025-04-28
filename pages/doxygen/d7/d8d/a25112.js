@@ -1,7 +1,7 @@
 var a25112 =
 [
-    [ "OnApply", "d7/d8d/a25112.html#afda219a18001505ae7a2d01b1d5b25c0", null ],
-    [ "OnRemove", "d7/d8d/a25112.html#a54bcd84599d6e5a6d7f538e2b40b890b", null ],
-    [ "PrepareAuraScript", "d7/d8d/a25112.html#a9a7b549e059b6bd2d22802f60e952658", null ],
-    [ "Register", "d7/d8d/a25112.html#aae603735281daf02ceca157e218d5c9f", null ]
+    [ "HandleProc", "d7/d8d/a25112.html#ac88c41bcfcedd9194d9d3f958d605d37", null ],
+    [ "PrepareAuraScript", "d7/d8d/a25112.html#a66c3458e88ab5802e10445df3aeb52f6", null ],
+    [ "Register", "d7/d8d/a25112.html#af02b0af51a1fece0780414ab45c8d31e", null ],
+    [ "Validate", "d7/d8d/a25112.html#a9f955b53e5905cfb3742a58c8bedab96", null ]
 ];

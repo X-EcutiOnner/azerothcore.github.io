@@ -1,9 +1,6 @@
 var a17564 =
 [
-    [ "CheckAreaTarget", "d1/d86/a17564.html#a770ca8aa441a7c5ddc3e26968d7861a4", null ],
-    [ "HandleApply", "d1/d86/a17564.html#a2aaf88ee6fee8aff23f8ee99b30e369f", null ],
-    [ "Load", "d1/d86/a17564.html#aac27c3377b48bc8c602fa7f12dec491a", null ],
-    [ "PrepareAuraScript", "d1/d86/a17564.html#a105c93dea246a84b73e13bdf3d04f8f4", null ],
-    [ "Register", "d1/d86/a17564.html#a8f476129e0678149463c4b16232f6cb6", null ],
-    [ "_teamIdInInstance", "d1/d86/a17564.html#a78b8e04586e328f89a44f41eb8c478c9", null ]
+    [ "IgbTeleportOnVictoryCheck", "d1/d86/a17564.html#a29ee8cac93b9920e598da9205406e608", null ],
+    [ "operator()", "d1/d86/a17564.html#acf85943e238179e911434358f1593be2", null ],
+    [ "_inst", "d1/d86/a17564.html#a015353ecb66da16c697152b7ad3c527e", null ]
 ];

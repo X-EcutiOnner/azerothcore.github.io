@@ -1,7 +1,8 @@
 var a22556 =
 [
-    [ "HandleProc", "df/d20/a22556.html#a4d12ab1b286105fdad5eb2dd20131408", null ],
-    [ "PrepareAuraScript", "df/d20/a22556.html#a94b6499dc2e1fa95a50bd9c3c491e858", null ],
-    [ "Register", "df/d20/a22556.html#a6b764182501a1d192f90dc20bbd6549e", null ],
-    [ "Validate", "df/d20/a22556.html#ad89123425cca5bd02a18526a11595a1a", null ]
+    [ "npc_anzu_spirit", "df/d20/a22556.html#adb1b66d6bf6ec1991465f85a504397d5", null ],
+    [ "IsSummonedBy", "df/d20/a22556.html#a26f0928593f75d242c8bbcc541f7b59b", null ],
+    [ "Reset", "df/d20/a22556.html#acef3f7093f93b6c227d145523cdc487a", null ],
+    [ "UpdateAI", "df/d20/a22556.html#a9866d91ffc04548a96cfcdc3a5c7496a", null ],
+    [ "_scheduler", "df/d20/a22556.html#ad14937df9ddddabcf96e2d1104ca153c", null ]
 ];

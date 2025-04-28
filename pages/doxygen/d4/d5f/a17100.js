@@ -1,16 +1,16 @@
 var a17100 =
 [
-    [ "instance_gundrak_InstanceMapScript", "d4/d5f/a17100.html#aab01abeae0f8df7c74c65c689c3c9f30", null ],
-    [ "Initialize", "d4/d5f/a17100.html#a680e2b0263e64f4f0b0a71f011199202", null ],
-    [ "OnGameObjectCreate", "d4/d5f/a17100.html#a03ace9a6ac87deb8c9d1f358e67697d1", null ],
-    [ "OnGameObjectRemove", "d4/d5f/a17100.html#a816e18bd1725e9deaa9e50521ddd3c05", null ],
-    [ "SetBossState", "d4/d5f/a17100.html#a2b703178ee848ebb7ab750d7560a7b1e", null ],
-    [ "SetData", "d4/d5f/a17100.html#a39611dead845510e26b16e8eb54114a2", null ],
-    [ "Update", "d4/d5f/a17100.html#a50b5e4d1ff3baf4698483f47828ee492", null ],
-    [ "_activateTimer", "d4/d5f/a17100.html#a4457a3506a587d7337042eb489b441dc", null ],
-    [ "_bridgeGUIDs", "d4/d5f/a17100.html#a3ed3ada72ca634b0888f182a93c9e657", null ],
-    [ "_drakkariAltarGUID", "d4/d5f/a17100.html#a8e34281d52ac3199b90e1971899db6b1", null ],
-    [ "_keysInCount", "d4/d5f/a17100.html#a9b014cab41720868f61028ef201cadaa", null ],
-    [ "_moorabiAltarGUID", "d4/d5f/a17100.html#a39875572cef853eb3d3f624366e3f93f", null ],
-    [ "_sladRanAltarGUID", "d4/d5f/a17100.html#a93b651e93e28c63272a8d06d0c521aef", null ]
+    [ "boss_gal_darahAI", "d4/d5f/a17100.html#a11f552c8d7ea90003540c052e84d7d30", null ],
+    [ "GetData", "d4/d5f/a17100.html#a239f2ad880eef60de017aa5493624e81", null ],
+    [ "InitializeAI", "d4/d5f/a17100.html#ad59573249068bd4962b36f1f3dc581c8", null ],
+    [ "JustDied", "d4/d5f/a17100.html#ad48d93efb462d7042b858724b8ff2aac", null ],
+    [ "JustEngagedWith", "d4/d5f/a17100.html#aabf2d3ef1d00731696d71225c63bb8b5", null ],
+    [ "JustReachedHome", "d4/d5f/a17100.html#a66abe46de699aca6e21910e8594caeaf", null ],
+    [ "JustSummoned", "d4/d5f/a17100.html#afda5dd71e597245e5c7b272b6817e644", null ],
+    [ "KilledUnit", "d4/d5f/a17100.html#ad477c3f60dfc1158856a6765b15efe78", null ],
+    [ "Reset", "d4/d5f/a17100.html#a0fba8f1a406dd97a27e92b26c682ec63", null ],
+    [ "ScheduleEvents", "d4/d5f/a17100.html#a77f18488503bf47e985c1ac6c8d67b1f", null ],
+    [ "UpdateAI", "d4/d5f/a17100.html#a5faa0cbb6eb126508ef6921f3b4ba15f", null ],
+    [ "impaledList", "d4/d5f/a17100.html#a53b3c115af0df5381d31fa54f344af80", null ],
+    [ "phaseCounter", "d4/d5f/a17100.html#a484acaccbbc400ec271e24ea6fb0c55f", null ]
 ];

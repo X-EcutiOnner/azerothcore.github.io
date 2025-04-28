@@ -1,7 +1,7 @@
 var a14900 =
 [
-    [ "npc_hivezara_stinger", "d4/dd6/a14900.html#ac9438c9dd260a41d6248f2adcc14b555", null ],
-    [ "JustEngagedWith", "d4/dd6/a14900.html#a433d31057f1732ef7ef15d2023e18b8a", null ],
-    [ "Reset", "d4/dd6/a14900.html#ae8e893c90942a469628c393d5b5380cc", null ],
-    [ "UpdateAI", "d4/dd6/a14900.html#a35a6511ebc0301ae0bb22aafc91c8524", null ]
+    [ "FilterTargets", "d4/dd6/a14900.html#a59e477333a54ec828a429d15b35d4936", null ],
+    [ "HandleScript", "d4/dd6/a14900.html#a983fe53aa52e53a45685055fde04a3b7", null ],
+    [ "PrepareSpellScript", "d4/dd6/a14900.html#a873e7766aa1cb6ebabbc77c31db6701c", null ],
+    [ "Register", "d4/dd6/a14900.html#a45ac61990990f16c98eaa7136297afc5", null ]
 ];

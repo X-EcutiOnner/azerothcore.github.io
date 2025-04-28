@@ -1,9 +1,11 @@
 var a14188 =
 [
-    [ "entries", "d9/dda/a14188.html#a8c55bbd253d6bea01e83c0aa7380dee5", null ],
-    [ "entries", "d9/dda/a14188.html#a953850b267eb6f599bb49d82080bdf64", null ],
-    [ "revelerId", "d9/dda/a14188.html#a9e4069ef00c8b4e31d8af06f34e12ad5", null ],
-    [ "schedule", "d9/dda/a14188.html#ad849701425622001519334f352ea6f3e", null ],
-    [ "size", "d9/dda/a14188.html#ae6a3fa59e1eb384255c247abadc962d5", null ],
-    [ "spawns", "d9/dda/a14188.html#aa081965795e3b9473be5b322b0c46505", null ]
+    [ "npc_high_oracle_soo_roo", "d9/dda/a14188.html#a86f5f3c3869e9fa7afcfc9425dfdfdde", null ],
+    [ "MoveInLineOfSight", "d9/dda/a14188.html#ae3b4da2d6b888cf6325bb93b3fdbde7f", null ],
+    [ "Reset", "d9/dda/a14188.html#a89a60a83a46e0095045b2353e50483ed", null ],
+    [ "UpdateAI", "d9/dda/a14188.html#ac22cfa519e478da643a51ae887f306fd", null ],
+    [ "orphanGUID", "d9/dda/a14188.html#acd6636eb290a2fe4470b04d467ff7fa1", null ],
+    [ "phase", "d9/dda/a14188.html#abeec923d25d21773f9d8f8ba1deb0148", null ],
+    [ "playerGUID", "d9/dda/a14188.html#a329832491f86c6fcc9ccc4c98b19991e", null ],
+    [ "timer", "d9/dda/a14188.html#aa5238d3ee361374681947de874391a1f", null ]
 ];

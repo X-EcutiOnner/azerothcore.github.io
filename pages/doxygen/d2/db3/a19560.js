@@ -1,8 +1,6 @@
 var a19560 =
 [
-    [ "npc_algalon_worm_holeAI", "d2/db3/a19560.html#a07b36b40972bebea6b17890aa8fee50c", null ],
-    [ "JustSummoned", "d2/db3/a19560.html#a148de5da4502813e369ec6c52b1671a0", null ],
-    [ "Reset", "d2/db3/a19560.html#a915a8e5e23062cb10da9a3dbe387cf51", null ],
-    [ "UpdateAI", "d2/db3/a19560.html#a9df88d81aa4f4dd7e1dcdf6209832c32", null ],
-    [ "_summonTimer", "d2/db3/a19560.html#a73a55560e5ff7957d883f732bc0d2a82", null ]
+    [ "HandleApplyTouch", "d2/db3/a19560.html#a0c46c506f78f46f17c0de6caae774316", null ],
+    [ "PrepareSpellScript", "d2/db3/a19560.html#a2f32b735a8a72a6ef52744d3ce8ada8b", null ],
+    [ "Register", "d2/db3/a19560.html#a70382055564e4ead8b5da0d6bd20c67f", null ]
 ];

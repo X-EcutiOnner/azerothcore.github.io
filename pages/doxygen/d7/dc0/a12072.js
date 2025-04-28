@@ -1,7 +1,12 @@
 var a12072 =
 [
-    [ "boss_warmastervooneAI", "d7/dc0/a12072.html#aa22519c8d3037cf07c275080b9bedcaf", null ],
-    [ "DamageTaken", "d7/dc0/a12072.html#adce28de25fa74557000d60188346e2d2", null ],
-    [ "ExecuteEvent", "d7/dc0/a12072.html#ac9dc6ef78503a87ea68d0e232b0376da", null ],
-    [ "JustEngagedWith", "d7/dc0/a12072.html#ac419c5118a45264e24e391f7575d90fb", null ]
+    [ "boss_thebeastAI", "d7/dc0/a12072.html#a51b7d4ec10d2616d99fb21e680ff17b4", null ],
+    [ "FindNearbyOrcs", "d7/dc0/a12072.html#ad832a878880ac32e05d360262546422a", null ],
+    [ "JustEngagedWith", "d7/dc0/a12072.html#ab107354f10d0af4b840ab5ff8d3d0eaf", null ],
+    [ "Reset", "d7/dc0/a12072.html#abfa1bca308a02ef0e80d2baf11670305", null ],
+    [ "SetData", "d7/dc0/a12072.html#a6f30ed7c0451613998660b258145f801", null ],
+    [ "UpdateAI", "d7/dc0/a12072.html#a0f490e907ce632e1fb921a6eb46b49c0", null ],
+    [ "_beastReached", "d7/dc0/a12072.html#a01271598b4b3c85a7066e66d8150e522", null ],
+    [ "_nearbyOrcsGUIDs", "d7/dc0/a12072.html#af32fb34f4c76cfe292da9bc84a5d6372", null ],
+    [ "_orcYelled", "d7/dc0/a12072.html#a16df847475ea220b8ac4ea944e8d1ca4", null ]
 ];

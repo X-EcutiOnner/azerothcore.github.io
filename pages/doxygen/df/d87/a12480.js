@@ -1,10 +1,8 @@
 var a12480 =
 [
-    [ "instance_gnomeregan_InstanceMapScript", "df/d87/a12480.html#a0080fdf557ad8159a8934dce5b39a535", null ],
-    [ "OnCreatureCreate", "df/d87/a12480.html#ac607601becc7fbf4ea9c64d87c93287c", null ],
-    [ "OnGameObjectCreate", "df/d87/a12480.html#a0c2f4d615394ef1d6e1b930ed6aff82f", null ],
-    [ "ReadSaveDataMore", "df/d87/a12480.html#a85d3db22430a4bac7e01dcfa1a1efb5b", null ],
-    [ "SetData", "df/d87/a12480.html#af800a1906c532f61f0299f8aa9359a66", null ],
-    [ "WriteSaveDataMore", "df/d87/a12480.html#a1b30829b3c782bb2c52e5da4fa388d5c", null ],
-    [ "_encounters", "df/d87/a12480.html#ae19a56e7fdcb2d0204d444cba11b7441", null ]
+    [ "npc_lava_spawn", "df/d87/a12480.html#aff97441b2cfbcd68e0788be022ee6236", null ],
+    [ "JustEngagedWith", "df/d87/a12480.html#a3b93df8de3c0f8a50768b860cfa11b72", null ],
+    [ "Reset", "df/d87/a12480.html#ab774d354991c90b1421e6783c0513e59", null ],
+    [ "UpdateAI", "df/d87/a12480.html#a6a17c8c40b0110b688ff5faef5585185", null ],
+    [ "_scheduler", "df/d87/a12480.html#ab7a6b2beec095f3f903ad4443813cfce", null ]
 ];

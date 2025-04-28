@@ -1,6 +1,5 @@
 var a24196 =
 [
-    [ "npc_pet_dk_ebon_gargoyleAI", "d5/dff/a24200.html", "d5/dff/a24200" ],
-    [ "npc_pet_dk_ebon_gargoyle", "d9/de7/a24196.html#ae4dcaff120a52c20a8b73d97a08604d7", null ],
-    [ "GetAI", "d9/de7/a24196.html#a19ff9fd627aab738c91ce23cf6acfffd", null ]
+    [ "npc_shattrath_daily_quest", "d9/de7/a24196.html#ab6aa71e4738fdce1b59d379249a868d5", null ],
+    [ "DoAction", "d9/de7/a24196.html#ac3e8c6de30ad7567fe5e52cd1ddfeb2c", null ]
 ];

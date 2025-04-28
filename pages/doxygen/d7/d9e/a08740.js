@@ -1,7 +1,13 @@
 var a08740 =
 [
-    [ "VehicleDespawnEvent", "d7/d9e/a08740.html#ab6f88e60f1068ab79049c158314a87ab", null ],
-    [ "Execute", "d7/d9e/a08740.html#a39284ca2343e54cec915ac3ecf51f4a8", null ],
-    [ "_duration", "d7/d9e/a08740.html#a3e9c695929c24728b2091940e511d5f0", null ],
-    [ "_self", "d7/d9e/a08740.html#a0d472ea9a1a7b615f01c73d20cfc6573", null ]
+    [ "BuildValuesCachePosPointers", "d7/d9e/a08740.html#ae84124e042e8ba50d755ccef3c02fdd8", null ],
+    [ "ApplyOffset", "d7/d9e/a08740.html#a31a13ea07b3eb9e3d045996e8a6074b2", null ],
+    [ "other", "d7/d9e/a08740.html#ad56ddc5f2d7ea4937b49a61d80b8b138", null ],
+    [ "UnitDynamicFlagsPos", "d7/d9e/a08740.html#a230385a8646ebce01faaadce648b1a61", null ],
+    [ "UnitFieldAuraStatePos", "d7/d9e/a08740.html#a69592cf42c5f6663c8ada3468fcbe658", null ],
+    [ "UnitFieldBytes2Pos", "d7/d9e/a08740.html#aa1df8492f0a3c576b067469ee3552796", null ],
+    [ "UnitFieldDisplayPos", "d7/d9e/a08740.html#a1058d1650d656498f7dcd5139363a315", null ],
+    [ "UnitFieldFactionTemplatePos", "d7/d9e/a08740.html#a9b8eae9da685231956dca3e92b845cbb", null ],
+    [ "UnitFieldFlagsPos", "d7/d9e/a08740.html#a04e607123d1d1dde24611b573d25fedb", null ],
+    [ "UnitNPCFlagsPos", "d7/d9e/a08740.html#aa9412413e1a867d1f3857d18f4d52906", null ]
 ];

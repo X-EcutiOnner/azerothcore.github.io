@@ -1,13 +1,7 @@
 var a22976 =
 [
-    [ "boss_fathomguard_caribdis", "d3/d15/a22976.html#a9172b9717e5137ddde7df38bb237478c", null ],
-    [ "EnterEvadeMode", "d3/d15/a22976.html#aa666a491a776b12a042ee140aedc95eb", null ],
-    [ "JustDied", "d3/d15/a22976.html#ab821365b35a48f70a11c6033fe2ca714", null ],
-    [ "JustEngagedWith", "d3/d15/a22976.html#a5503519998f51f475420ada2210f32f0", null ],
-    [ "JustSummoned", "d3/d15/a22976.html#a39ca45ec0de50b7d7a5ec866c4017a8a", null ],
-    [ "Reset", "d3/d15/a22976.html#a0d2a3403d5934e86a897b3417ed2214a", null ],
-    [ "UpdateAI", "d3/d15/a22976.html#af4a544f37d178de21d84f2544f24431e", null ],
-    [ "_instance", "d3/d15/a22976.html#a73f567f2269aeca1435af82e1c6880e9", null ],
-    [ "_scheduler", "d3/d15/a22976.html#a08b01e9735e421d8d5bbc2b552217762", null ],
-    [ "_summons", "d3/d15/a22976.html#ac8b53cb81547a2423a13c997badb77e3", null ]
+    [ "PrepareAuraScript", "d3/d15/a22976.html#a30ec063aa1ddbc3a32066e1f868bf742", null ],
+    [ "Register", "d3/d15/a22976.html#a1e62c60bfc2b72811950b627ce1202c3", null ],
+    [ "Update", "d3/d15/a22976.html#a3f98767367564734c9877d1870aac31b", null ],
+    [ "Validate", "d3/d15/a22976.html#a450460769e0e54e06f1b64b3c63ba0de", null ]
 ];

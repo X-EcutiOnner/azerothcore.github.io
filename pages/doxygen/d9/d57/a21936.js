@@ -1,7 +1,6 @@
 var a21936 =
 [
-    [ "Absorb", "d9/d57/a21936.html#a784b48553696734abac77545df2fc045", null ],
-    [ "CalculateAmount", "d9/d57/a21936.html#a456ee99a71062f6217bda7561e4e7766", null ],
-    [ "PrepareAuraScript", "d9/d57/a21936.html#a456b1b70fd6d9b6642ec959677fe08ff", null ],
-    [ "Register", "d9/d57/a21936.html#aa3260fa9a1a918e13ccfc9cd57f59d19", null ]
+    [ "npc_razael_and_lyana", "d9/d57/a21936.html#aec7257a1136a3580e2b4542e032429d6", null ],
+    [ "OnGossipHello", "d9/d57/a21936.html#a9c9085db92853d5275c12e804a68b0fc", null ],
+    [ "OnGossipSelect", "d9/d57/a21936.html#a407d8344280e8e38efb3991fda1d52cd", null ]
 ];

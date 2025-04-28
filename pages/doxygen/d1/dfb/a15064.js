@@ -1,6 +1,7 @@
 var a15064 =
 [
-    [ "instance_temple_of_ahnqiraj_InstanceMapScript", "da/d66/a15068.html", "da/d66/a15068" ],
-    [ "instance_temple_of_ahnqiraj", "d1/dfb/a15064.html#a316c5e2cac59f2ee2520fba1b97407e3", null ],
-    [ "GetInstanceScript", "d1/dfb/a15064.html#a9e3060d9f2188f410da8aa3e9526e79d", null ]
+    [ "npc_sartura_royal_guard", "d1/dfb/a15064.html#a3ce2aeec4e5f26916ef50bdeea624c9d", null ],
+    [ "JustEngagedWith", "d1/dfb/a15064.html#a0b162e1fcc925f65fedbfe235b59eb0e", null ],
+    [ "Reset", "d1/dfb/a15064.html#a2b604aada12ca7f3e712cdbd1a3f397a", null ],
+    [ "UpdateAI", "d1/dfb/a15064.html#a2ed50f65847133c897facecbaa4711d8", null ]
 ];

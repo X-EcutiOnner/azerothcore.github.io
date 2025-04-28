@@ -1,7 +1,13 @@
 var a11568 =
 [
-    [ "gear_commandscript", "df/d3e/a11568.html#a2e37c7d761982f7185b2418ae5aa4315", null ],
-    [ "GetCommands", "df/d3e/a11568.html#a9212aa39f13c646b1b8cf8be78cc8a6a", null ],
-    [ "HandleGearRepairCommand", "df/d3e/a11568.html#a28cd5680f07f984326d79d91adbbfd70", null ],
-    [ "HandleGearStatsCommand", "df/d3e/a11568.html#acca4bc7e8cae51ee2a6172b32f87aa56", null ]
+    [ "cheat_commandscript", "df/d3e/a11568.html#a7449cfba3578956a09b67e569e7e6083", null ],
+    [ "GetCommands", "df/d3e/a11568.html#a7cc6ca0c216a4ff497b60dc7622623fd", null ],
+    [ "HandleCasttimeCheatCommand", "df/d3e/a11568.html#a119ad06c5b8be235853bb13c7cff724b", null ],
+    [ "HandleCheatStatusCommand", "df/d3e/a11568.html#acdf487c7a96d1757d3254e3f17e728cb", null ],
+    [ "HandleCoolDownCheatCommand", "df/d3e/a11568.html#ab31a1cfe2567b0f597c689f44ab9fd6d", null ],
+    [ "HandleExploreCheatCommand", "df/d3e/a11568.html#a25ea712f2fb249e49f5f0b8244f743c5", null ],
+    [ "HandleGodModeCheatCommand", "df/d3e/a11568.html#ac398dbacf025830dc871bc77938d47d6", null ],
+    [ "HandlePowerCheatCommand", "df/d3e/a11568.html#ae406c5d444b10ba65b79f8ff9d949c24", null ],
+    [ "HandleTaxiCheatCommand", "df/d3e/a11568.html#ab9bd840c9622d173e710058eeb763388", null ],
+    [ "HandleWaterWalkCheatCommand", "df/d3e/a11568.html#a9162d89c049f14f29bc5ba257964df34", null ]
 ];

@@ -1,7 +1,6 @@
 var a17560 =
 [
-    [ "PrepareSpellScript", "d6/d85/a17560.html#a21bd67c024c5dcfb8496778f67eb48eb", null ],
-    [ "Register", "d6/d85/a17560.html#aff4f05a5a4742a408646000b7cece38c", null ],
-    [ "RemovePassengers", "d6/d85/a17560.html#a77c63e85233e2ef14bf06c82ad27c4b2", null ],
-    [ "Validate", "d6/d85/a17560.html#a2a8da9d150804f979f2313f623ad7760", null ]
+    [ "PrepareSpellScript", "d6/d85/a17560.html#a4878ffa30feb16e98d3945f8a6e3c863", null ],
+    [ "Register", "d6/d85/a17560.html#a651f52f7d242251ff69d100fd69376e4", null ],
+    [ "SelectTarget", "d6/d85/a17560.html#aede083ebebe38deb5898ff028564ef95", null ]
 ];

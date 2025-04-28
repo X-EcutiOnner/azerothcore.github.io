@@ -1,12 +1,12 @@
 var a11448 =
 [
-    [ "WardenMac", "d1/d7d/a11448.html#a576c0cf7a819e95c97cc0ac4e5962d6d", null ],
-    [ "~WardenMac", "d1/d7d/a11448.html#a5f3832580c73a0af34fa83669a92ceab", null ],
-    [ "GetModuleForClient", "d1/d7d/a11448.html#a7a31b72ea7362c70f0fc9ff6e316d80b", null ],
-    [ "HandleData", "d1/d7d/a11448.html#a024be47d39641cb0e7654b0e0999e444", null ],
-    [ "HandleHashResult", "d1/d7d/a11448.html#a7feb3f82b2e0efd8427d6d8bcabaf17c", null ],
-    [ "Init", "d1/d7d/a11448.html#ae329d60e41b9f5af2a2c7e4983936eac", null ],
-    [ "InitializeModule", "d1/d7d/a11448.html#a4fceef34e83db1a357d9eadce35efdef", null ],
-    [ "RequestChecks", "d1/d7d/a11448.html#a2437a3a5650305b05fc22d312d0006da", null ],
-    [ "RequestHash", "d1/d7d/a11448.html#af031f18554c5a96b4eb39371a92b9c51", null ]
+    [ "Action", "d1/d7d/a11448.html#a0aba96ac9e7af155a1d9bdf120afae25", null ],
+    [ "Address", "d1/d7d/a11448.html#aaae2d4fd576f3eeb40c1413d54802345", null ],
+    [ "CheckId", "d1/d7d/a11448.html#a51a0cea0381f2b64e9d240ac39591172", null ],
+    [ "Comment", "d1/d7d/a11448.html#a6abdb409f49751b2f6aa8df88c349ba2", null ],
+    [ "Data", "d1/d7d/a11448.html#a962795028d40645fe67e4290ea64b10b", null ],
+    [ "IdStr", "d1/d7d/a11448.html#a15ecbc1a6582666a14423fa157d2fb84", null ],
+    [ "Length", "d1/d7d/a11448.html#abe0249d9550042e696eb74edf06aaec8", null ],
+    [ "Str", "d1/d7d/a11448.html#a1fc1eba87b344d4681498aafcaa496cb", null ],
+    [ "Type", "d1/d7d/a11448.html#aca31cdb700dca4801dfa514812639c70", null ]
 ];

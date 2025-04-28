@@ -1,7 +1,6 @@
 var a22812 =
 [
-    [ "npc_ashtongue_channeler", "d0/d35/a22812.html#af7217d00f87e56e5cdb411fcad161b51", null ],
-    [ "Reset", "d0/d35/a22812.html#ab935559c19b18f9c94dd36c85be5b3b2", null ],
-    [ "UpdateAI", "d0/d35/a22812.html#af855dfa521404c4e6127a9bf12a75604", null ],
-    [ "scheduler", "d0/d35/a22812.html#a4f58bbd2c44f7a3f9835fd55408ffaf4", null ]
+    [ "boss_essence_of_sufferingAI", "d4/dea/a22816.html", "d4/dea/a22816" ],
+    [ "boss_essence_of_suffering", "d0/d35/a22812.html#a1237f428657f0e9a0218695264358384", null ],
+    [ "GetAI", "d0/d35/a22812.html#adb54519bdf220cb3e30c81627c1ba11a", null ]
 ];

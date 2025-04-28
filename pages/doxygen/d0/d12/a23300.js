@@ -1,7 +1,6 @@
 var a23300 =
 [
-    [ "OnApply", "d0/d12/a23300.html#a6189a5ea90b1951b21a7e9ef36700ed9", null ],
-    [ "PeriodicTick", "d0/d12/a23300.html#a1c79b1016361eabb5cef57a893bccfcf", null ],
-    [ "PrepareAuraScript", "d0/d12/a23300.html#acfa6b5217a0e0e2654b7fa9c4092abd5", null ],
-    [ "Register", "d0/d12/a23300.html#adddddd0689f4686a40b1db142b5d6ce2", null ]
+    [ "instance_steam_vault_InstanceMapScript", "d0/d12/a23300.html#a1ca8d6b10fabe1a8b829dbf62b77ed51", null ],
+    [ "OnGameObjectCreate", "d0/d12/a23300.html#ace71fc6f1d7bc4b49bc2a2507f481fc2", null ],
+    [ "SetBossState", "d0/d12/a23300.html#ab1e344fbf169ee40f28741217f3dca14", null ]
 ];

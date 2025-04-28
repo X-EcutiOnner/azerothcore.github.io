@@ -1,11 +1,11 @@
 var a07044 =
 [
-    [ "GetSkillValue", "db/d73/a07044.html#a8f5894a5729d4c8d26376bbe1a2ac29e", null ],
-    [ "HasSpell", "db/d73/a07044.html#a3400ad05d8423ae6878fab815521ec6f", null ],
-    [ "PlayerCanUseItem", "db/d73/a07044.html#aee11f4f45f83664483344e3bbfba7463", null ],
-    [ "classMask", "db/d73/a07044.html#a41a57c372871c84a572d2f3697cb18aa", null ],
-    [ "level", "db/d73/a07044.html#a870f632b54e4638b1f5a4e93b6bd9e52", null ],
-    [ "raceMask", "db/d73/a07044.html#a96e56943da42f1a1258fc1d716259e1a", null ],
-    [ "skills", "db/d73/a07044.html#a55c2ad9d1cdea4913cb35deb4adc87fd", null ],
-    [ "spells", "db/d73/a07044.html#ac83cc019ceb1752ce8d6b5a3aa3d350f", null ]
+    [ "count", "db/d73/a07044.html#a3fc02342ec2cdd81de7ef378edf30b54", null ],
+    [ "enchants", "db/d73/a07044.html#af076353ee7ce0fd3665e13449c248629", null ],
+    [ "entry", "db/d73/a07044.html#aa3332c4ea806c944c9c4e95ddb31efa9", null ],
+    [ "itemName", "db/d73/a07044.html#a9184925bad61ad58f35c4e4b3dbccd81", null ],
+    [ "itemTemplate", "db/d73/a07044.html#a356adde7f6574f697e02e6657f325baa", null ],
+    [ "randomPropertyId", "db/d73/a07044.html#aa1c185178359f1cbd5afcedd38a0e69f", null ],
+    [ "spellCharges", "db/d73/a07044.html#a73f9647b66aa316bdb97c50a20bc826f", null ],
+    [ "suffixFactor", "db/d73/a07044.html#a650acd7b902fd4038f1ea384f595b058", null ]
 ];

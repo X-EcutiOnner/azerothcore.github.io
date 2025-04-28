@@ -1,6 +1,7 @@
 var a22908 =
 [
-    [ "PrepareAuraScript", "de/d1c/a22908.html#a0dca39c324a5431d4861c1f20a34355e", null ],
-    [ "Register", "de/d1c/a22908.html#a8f52092f25bdbf453d4126c56ff69f0a", null ],
-    [ "Update", "de/d1c/a22908.html#a6201eaa3b961e838a535b80679996ada", null ]
+    [ "Absorb", "de/d1c/a22908.html#a227cf7329d7dee564c3f8f9f67378ffe", null ],
+    [ "HandleEffectRemove", "de/d1c/a22908.html#a3d4026e5208acb948c089a4bedba0de8", null ],
+    [ "PrepareAuraScript", "de/d1c/a22908.html#af66dc1cba6aa7511c11a071ea9a381bb", null ],
+    [ "Register", "de/d1c/a22908.html#a983cf678001efcbccc4b34a9ad919881", null ]
 ];

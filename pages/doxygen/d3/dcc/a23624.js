@@ -1,10 +1,10 @@
 var a23624 =
 [
-    [ "CheckProc", "d3/dcc/a23624.html#ac176c59497cc2196c19dc8a1b9f8056d", null ],
-    [ "Load", "d3/dcc/a23624.html#aad39e53d6b3fc673c115f79ca0bc9b68", null ],
-    [ "PrepareAuraScript", "d3/dcc/a23624.html#a990cab2c1d9fb544bf11c9fd4e5495ac", null ],
-    [ "Register", "d3/dcc/a23624.html#ae2cf612df18cf249bc4a90ce9332fc9b", null ],
-    [ "_lastForm", "d3/dcc/a23624.html#ad392a897546cb64e550dd8b0709ba0ab", null ],
-    [ "_lastSchool", "d3/dcc/a23624.html#afc2e3e388615ed5cf0f4dd672f26de85", null ],
-    [ "_swapTime", "d3/dcc/a23624.html#af832dc200e928df3849ab7d7f93cb412", null ]
+    [ "boss_harbinger_skyriss", "d3/dcc/a23624.html#a245179f74d61c2671b397e8f2473b599", null ],
+    [ "EnterEvadeMode", "d3/dcc/a23624.html#a873413da06569343225e6659f8277b2c", null ],
+    [ "JustDied", "d3/dcc/a23624.html#a2b5152ddeb53d382294bd0fe7455a21e", null ],
+    [ "JustEngagedWith", "d3/dcc/a23624.html#adb4cdec41f4b61f82efdb78fe995c313", null ],
+    [ "JustSummoned", "d3/dcc/a23624.html#a97d84139a3e970e22d7d422f2f825f12", null ],
+    [ "KilledUnit", "d3/dcc/a23624.html#a8f9e1bd87c80041e07b428ec300ceef8", null ],
+    [ "Reset", "d3/dcc/a23624.html#a045ec2371ad99c3465b8f089eb604e0a", null ]
 ];

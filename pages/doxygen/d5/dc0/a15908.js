@@ -1,11 +1,6 @@
 var a15908 =
 [
-    [ "boss_general_zarithrianAI", "d5/dc0/a15908.html#a4168a5883052810d137f59d3b104bc24", null ],
-    [ "CheckEvadeIfOutOfCombatArea", "d5/dc0/a15908.html#a22f6ff041e61c94df73a938162fa26f5", null ],
-    [ "JustDied", "d5/dc0/a15908.html#a49be533142c82a95a136dc2dcbf4843c", null ],
-    [ "JustEngagedWith", "d5/dc0/a15908.html#a9ec34e473b9d478277f472ab3bb7c7ef", null ],
-    [ "JustSummoned", "d5/dc0/a15908.html#acb694d20b35d57a315aa4662562af210", null ],
-    [ "KilledUnit", "d5/dc0/a15908.html#ad385477740b728e63acff7c184df3c09", null ],
-    [ "Reset", "d5/dc0/a15908.html#a3093369d5f3c7e2a1a5828671ac0af0a", null ],
-    [ "UpdateAI", "d5/dc0/a15908.html#a3a7e578d64a760cd38712c725eecc97d", null ]
+    [ "instance_obsidian_sanctum_InstanceMapScript", "da/dd5/a15912.html", "da/dd5/a15912" ],
+    [ "instance_obsidian_sanctum", "d5/dc0/a15908.html#a6cf2121c4167156f5748c144372b3c0b", null ],
+    [ "GetInstanceScript", "d5/dc0/a15908.html#a67acb36f65c1bc3d6eca59bf71a5c220", null ]
 ];

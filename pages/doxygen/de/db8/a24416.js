@@ -1,9 +1,6 @@
 var a24416 =
 [
-    [ "HandleAfterHit", "de/db8/a24416.html#ae1b4b01bd1a6903bcd594d2191e2770b", null ],
-    [ "Load", "de/db8/a24416.html#a7f0dae9dd4ead6ea10e8343810671282", null ],
-    [ "PrepareSpellScript", "de/db8/a24416.html#a293ff5d232851bce7cbc4a83aa8253b5", null ],
-    [ "Register", "de/db8/a24416.html#ae9eeb78d006bc01dd05fdd726dea9b90", null ],
-    [ "Validate", "de/db8/a24416.html#afdbb71f81aacc9ac1a5119707952ec52", null ],
-    [ "_executed", "de/db8/a24416.html#a2fe77cc280a5fa3bb324d969f1081b65", null ]
+    [ "HandlePeriodic", "de/db8/a24416.html#adc387a1b001119b95179856c030853ad", null ],
+    [ "PrepareAuraScript", "de/db8/a24416.html#a64eb2c68651171f1cbda3aa98d58e68e", null ],
+    [ "Register", "de/db8/a24416.html#a1234c3e7b32d5bed67c8e9c2afc1fdc5", null ]
 ];

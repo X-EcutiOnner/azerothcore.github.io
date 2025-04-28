@@ -1,6 +1,6 @@
 var a13576 =
 [
-    [ "npc_jaina_proudmoore_bfuAI", "d8/de9/a13580.html", "d8/de9/a13580" ],
-    [ "npc_jaina_proudmoore_bfu", "d9/dbb/a13576.html#af96c4fac318f44cf6e70817b6960999f", null ],
-    [ "GetAI", "d9/dbb/a13576.html#a4ed6349a5ebdd90053f9d67d24ab6991", null ]
+    [ "npc_tyrion_spybotAI", "d8/de9/a13580.html", "d8/de9/a13580" ],
+    [ "npc_tyrion_spybot", "d9/dbb/a13576.html#a7e0eed1b51ffe1df2d8ae2ad37f26528", null ],
+    [ "GetAI", "d9/dbb/a13576.html#af81b70437703edc8d99fe24249891dd6", null ]
 ];

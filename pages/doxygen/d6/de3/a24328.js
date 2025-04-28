@@ -1,6 +1,6 @@
 var a24328 =
 [
-    [ "HandleEffectRemove", "d6/de3/a24328.html#a9472b79a272aff36be657b66883d822f", null ],
-    [ "PrepareAuraScript", "d6/de3/a24328.html#ad46fedf6ef019d1b5e93d98e7bba8417", null ],
-    [ "Register", "d6/de3/a24328.html#ace15e1f5c158f1f203862b40da2cf8fc", null ]
+    [ "PrepareSpellScript", "d6/de3/a24328.html#ae915f8f6522f0a8d308b2a5f43b8884f", null ],
+    [ "RecalculateDamage", "d6/de3/a24328.html#af01757d0968da2a096d800782ed7e66e", null ],
+    [ "Register", "d6/de3/a24328.html#a62b6613707a2a9b78d52bffe92de604e", null ]
 ];

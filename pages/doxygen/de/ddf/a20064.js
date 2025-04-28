@@ -1,6 +1,5 @@
 var a20064 =
 [
-    [ "npc_ulduar_hodir_druidAI", "dd/daf/a20068.html", "dd/daf/a20068" ],
-    [ "npc_ulduar_hodir_druid", "de/ddf/a20064.html#a07809d61d55756a847467043b0e90989", null ],
-    [ "GetAI", "de/ddf/a20064.html#a4b0503e20bf8caddf0ea544a88124263", null ]
+    [ "achievement_shadowdodger", "de/ddf/a20064.html#a8389a4972968fcc6cd7807e96ee5e527", null ],
+    [ "OnCheck", "de/ddf/a20064.html#a3ee0baca0c9163a601cd4bcfa9ebeb04", null ]
 ];

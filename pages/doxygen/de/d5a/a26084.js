@@ -1,8 +1,8 @@
 var a26084 =
 [
-    [ "HandleApplyEffect", "de/d5a/a26084.html#a50102ae92f44fd7c2bd9afc3fec5a291", null ],
-    [ "Load", "de/d5a/a26084.html#ab6ba9d68b968ae41ee9c9869df686f02", null ],
-    [ "PrepareAuraScript", "de/d5a/a26084.html#a6e212284f72320356cfa2f0c2a59999d", null ],
-    [ "Register", "de/d5a/a26084.html#afcdd6cc19b59b5e6aa0cfdb9189edc99", null ],
-    [ "Validate", "de/d5a/a26084.html#a985a52f71371443454d6dd36f7fe83b2", null ]
+    [ "CheckProc", "de/d5a/a26084.html#a9e7b83ffd7e8d5ff4cf3b59cfbc40b0e", null ],
+    [ "HandleProc", "de/d5a/a26084.html#a772385aab5f9917d0d3fb456e0ed55e1", null ],
+    [ "PrepareAuraScript", "de/d5a/a26084.html#a876c1bda52c99c52249444414196b1d4", null ],
+    [ "Register", "de/d5a/a26084.html#a1409e9c24827ee51a83d732bb99dd27b", null ],
+    [ "Validate", "de/d5a/a26084.html#a8e36353d5296c609cbe0ce63db4e7dcb", null ]
 ];

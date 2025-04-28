@@ -1,7 +1,6 @@
 var a16568 =
 [
-    [ "HandleScriptEffect", "d3/d38/a16568.html#a62cef31900cd61167823f3e66aa2d64b", null ],
-    [ "PrepareSpellScript", "d3/d38/a16568.html#aff3fc5d7d6185bcb09d14f1408a67aad", null ],
-    [ "Register", "d3/d38/a16568.html#ac73b3f568ce54f9b59b2b23f069da3c1", null ],
-    [ "Validate", "d3/d38/a16568.html#aab4d84e896c8225d8d131558aaa71dbe", null ]
+    [ "boss_novosAI", "d0/d68/a16572.html", "d0/d68/a16572" ],
+    [ "boss_novos", "d3/d38/a16568.html#a898a5ee1de69df17fde66c84dd065ac1", null ],
+    [ "GetAI", "d3/d38/a16568.html#aaf28e2a23a8139197dccc92ae29a8be4", null ]
 ];

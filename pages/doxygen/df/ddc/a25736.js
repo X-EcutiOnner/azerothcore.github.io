@@ -1,6 +1,7 @@
 var a25736 =
 [
-    [ "PrepareSpellScript", "df/ddc/a25736.html#a738e105a48f6c603f3d9a690f44b8745", null ],
-    [ "Register", "df/ddc/a25736.html#a6bc9791d0f08440e19b89daa9b65892c", null ],
-    [ "SetDest", "df/ddc/a25736.html#a59641895cead08de4a4503262505ee73", null ]
+    [ "HandleDummy", "df/ddc/a25736.html#a5d95d2329c750692d9a4facae9ddf781", null ],
+    [ "PrepareSpellScript", "df/ddc/a25736.html#a2699b3bc033bdd896d0f9a4b3c067354", null ],
+    [ "Register", "df/ddc/a25736.html#a8d83f9e52ba19f75647e99760439c380", null ],
+    [ "Validate", "df/ddc/a25736.html#a24610d5652ef85e883b1bac9256b30f7", null ]
 ];

@@ -1,7 +1,6 @@
 var a15956 =
 [
-    [ "HandleDummy", "d8/d67/a15956.html#ad0782bfbd977954aac6170ee9111aef6", null ],
-    [ "PrepareSpellScript", "d8/d67/a15956.html#ac456524856c4a3c4913423693a8fd50c", null ],
-    [ "Register", "d8/d67/a15956.html#a82d88c5dac164eb9dee9883a91edd0df", null ],
-    [ "Validate", "d8/d67/a15956.html#a2cf4ee02293cee5e383e99efe14e0008", null ]
+    [ "boss_general_zarithrianAI", "db/d6b/a15960.html", "db/d6b/a15960" ],
+    [ "boss_general_zarithrian", "d8/d67/a15956.html#a030c53b6ef1d75027ddfd298d49ab330", null ],
+    [ "GetAI", "d8/d67/a15956.html#a22ba4e0769dd9404ae043fb9c16233ff", null ]
 ];

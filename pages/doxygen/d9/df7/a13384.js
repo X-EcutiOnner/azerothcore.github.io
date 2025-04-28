@@ -1,6 +1,6 @@
 var a13384 =
 [
-    [ "npc_maredis_firestarAI", "d9/df7/a13384.html#ac2d4ed4b205146524dcf11585d65ae12", null ],
-    [ "sGossipHello", "d9/df7/a13384.html#a72790dc9525249a4b558c37c4a0bd03f", null ],
-    [ "sGossipSelect", "d9/df7/a13384.html#acefb2bc09fe8f7ad77d53ee6eb8bbb71", null ]
+    [ "instance_the_stockade_InstanceMapScript", "d4/d34/a13388.html", "d4/d34/a13388" ],
+    [ "instance_the_stockade", "d9/df7/a13384.html#a533049c10a72da4b94f9807017f28c0d", null ],
+    [ "GetInstanceScript", "d9/df7/a13384.html#a7a5a4adcd71ae5d22e6729a2d11d68d3", null ]
 ];

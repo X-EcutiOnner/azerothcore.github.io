@@ -1,6 +1,5 @@
 var a15744 =
 [
-    [ "boss_hadronoxAI", "d0/d96/a15748.html", "d0/d96/a15748" ],
-    [ "boss_hadronox", "dd/d34/a15744.html#ae3457fd6108cc350cf9eedab3178f781", null ],
-    [ "GetAI", "dd/d34/a15744.html#a90bf0ecb218e30e61852baffeabc3dc1", null ]
+    [ "achievement_volunteer_work", "dd/d34/a15744.html#a43db6e553b370f139ac376840fdf6d70", null ],
+    [ "OnCheck", "dd/d34/a15744.html#abdbbe9165d3d72d76fe685ebce5e304d", null ]
 ];

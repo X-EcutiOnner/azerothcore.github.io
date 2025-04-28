@@ -1,13 +1,8 @@
 var a28340 =
 [
-    [ "Secret", "dc/dec/a28344.html", "dc/dec/a28344" ],
-    [ "SecretMgr", "d1/d2a/a28340.html#a28ee0858a14656d7fc464eb604b127b7", null ],
-    [ "~SecretMgr", "d1/d2a/a28340.html#ae6f15def262312b17456583b4e548d99", null ],
-    [ "SecretMgr", "d1/d2a/a28340.html#ab48b891b84f116dc5efffe0a10a82f79", null ],
-    [ "AttemptLoad", "d1/d2a/a28340.html#a65c2fd304c0f851f81cd80037deac8fb", null ],
-    [ "AttemptTransition", "d1/d2a/a28340.html#a4b6cbe75e50ec3e4765fdb9e965ee84f", null ],
-    [ "GetSecret", "d1/d2a/a28340.html#aff0b6ca546a62a3d6e7da52c3a2752bd", null ],
-    [ "Initialize", "d1/d2a/a28340.html#a929de7b687d7c6bb91ef35306134ebac", null ],
-    [ "instance", "d1/d2a/a28340.html#a27e237503dc523367fa94bd28a289d97", null ],
-    [ "_secrets", "d1/d2a/a28340.html#a143bb8b3855a9f28df72abc9cfc94f3c", null ]
+    [ "MapDifficulty", "d1/d2a/a28340.html#abf514d1105541d5c5aaf52a91330a1e2", null ],
+    [ "MapDifficulty", "d1/d2a/a28340.html#a227aec55b5b774076882ea34f70d5d88", null ],
+    [ "hasErrorMessage", "d1/d2a/a28340.html#a8dd5436eaec4d0e67f8b41c8dd071148", null ],
+    [ "maxPlayers", "d1/d2a/a28340.html#af82ad844bc4ac9585cb9df1963697e1b", null ],
+    [ "resetTime", "d1/d2a/a28340.html#a7190131620b9eee0897ac7b4dd62949e", null ]
 ];

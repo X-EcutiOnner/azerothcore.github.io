@@ -1,8 +1,12 @@
 var a22648 =
 [
-    [ "HandleScriptEffect", "d9/dce/a22648.html#a8e5b81581fff787f691521d03fed66fc", null ],
-    [ "Load", "d9/dce/a22648.html#a8a74f3c6776f2613a6b2c63387d962e2", null ],
-    [ "PrepareSpellScript", "d9/dce/a22648.html#a5dfe415b9c990e83b9e6c1ee06a33692", null ],
-    [ "Register", "d9/dce/a22648.html#a5839b0e282fb2848c328cfaaca2c752f", null ],
-    [ "Validate", "d9/dce/a22648.html#a8c1ee55a1122c62056250b3fa09357a8", null ]
+    [ "npc_maiev_illidan", "d9/dce/a22648.html#a0d19d9bb58c44662cdfb66a8fe373a60", null ],
+    [ "DamageTaken", "d9/dce/a22648.html#a780cc558c483efa3293d798cc6048a33", null ],
+    [ "DoAction", "d9/dce/a22648.html#a53607a158edf8fd772908b5d7af6edf1", null ],
+    [ "IsSummonedBy", "d9/dce/a22648.html#a1bf4f2f29132c5132e7903d089ace6e2", null ],
+    [ "JustEngagedWith", "d9/dce/a22648.html#ad1728d7d8b1b5f9db8db4d811c2ba630", null ],
+    [ "Reset", "d9/dce/a22648.html#a100db757c89634a58b9382216e2791ec", null ],
+    [ "SpellHit", "d9/dce/a22648.html#aa4d6626d6130a88519f86cfe70d9fb95", null ],
+    [ "UpdateAI", "d9/dce/a22648.html#a269e4a8f79b508e2da61cd5e2dc34664", null ],
+    [ "instance", "d9/dce/a22648.html#ad41b6deb9406232629ad60ba66cfac6b", null ]
 ];

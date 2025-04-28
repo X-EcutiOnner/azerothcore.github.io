@@ -1,5 +1,6 @@
 var a19044 =
 [
-    [ "at_thaddius_entrance", "da/dbd/a19044.html#ad81a60cac337baad82ea526de1d151d1", null ],
-    [ "OnTrigger", "da/dbd/a19044.html#af8635a58d4da0421b72b4451c1ebafc5", null ]
+    [ "boss_razuvious_minionAI", "de/dba/a19048.html", "de/dba/a19048" ],
+    [ "boss_razuvious_minion", "da/dbd/a19044.html#ae23d51c9ebfe31f624a749578d27252c", null ],
+    [ "GetAI", "da/dbd/a19044.html#afab8dccbc0b098a1fa058ef8479ba865", null ]
 ];

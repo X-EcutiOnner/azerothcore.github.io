@@ -1,4 +1,5 @@
 var a22484 =
 [
-    [ "instance_mana_tombs_InstanceMapScript", "dd/d18/a22484.html#a1523ad04993ce4ddf5b503355f7c856a", null ]
+    [ "OutdoorPvP_zangarmarsh", "dd/d18/a22484.html#ae287d5df21bf75efab6c651f4f3d875e", null ],
+    [ "GetOutdoorPvP", "dd/d18/a22484.html#a145ddfe383663ed3fb46960e39691f8f", null ]
 ];

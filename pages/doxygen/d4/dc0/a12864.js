@@ -1,7 +1,6 @@
 var a12864 =
 [
-    [ "HandleEffectApply", "d4/dc0/a12864.html#a8d52c4ea09e1d58d2dc44ff73d71faf5", null ],
-    [ "PrepareAuraScript", "d4/dc0/a12864.html#a9829789fe5544429454e29d228ce0daf", null ],
-    [ "Register", "d4/dc0/a12864.html#a7f5a26d10f48d863477ec902e6f5ff1e", null ],
-    [ "Validate", "d4/dc0/a12864.html#ae81a441757ab9f10c29a7b313b99cf5f", null ]
+    [ "npc_scarlet_miner_cartAI", "d2/def/a12868.html", "d2/def/a12868" ],
+    [ "npc_scarlet_miner_cart", "d4/dc0/a12864.html#a987247939c6fd576d4b8d541175ecb6b", null ],
+    [ "GetAI", "d4/dc0/a12864.html#a0f1436f0f6784af5ab62bf91df355731", null ]
 ];

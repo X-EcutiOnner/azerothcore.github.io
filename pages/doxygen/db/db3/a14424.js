@@ -1,6 +1,7 @@
 var a14424 =
 [
-    [ "instance_blackfathom_deeps_InstanceMapScript", "d9/de1/a14428.html", "d9/de1/a14428" ],
-    [ "instance_blackfathom_deeps", "db/db3/a14424.html#a4600a7e6191582c1bee684989a970e0f", null ],
-    [ "GetInstanceScript", "db/db3/a14424.html#a62cdab4f3118ab030b4ef55243690f73", null ]
+    [ "GetVisualThrow", "db/db3/a14424.html#afe59e0c21eaa06e2b1d614613b1d2f73", null ],
+    [ "HandleDummy", "db/db3/a14424.html#adca1aacf89dcf452f1c98cae97f09690", null ],
+    [ "PrepareSpellScript", "db/db3/a14424.html#a642f2d3992e7e3a4393d2b0c6b521597", null ],
+    [ "Register", "db/db3/a14424.html#a68a6e9b307500a56e66bc19c41daf9dc", null ]
 ];

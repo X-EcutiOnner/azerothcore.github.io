@@ -1,6 +1,6 @@
 var a19036 =
 [
-    [ "npc_teslaAI", "df/d5b/a19040.html", "df/d5b/a19040" ],
-    [ "npc_tesla", "d5/d16/a19036.html#ae74ad52adbf4a160ef0c7cf97e4faea0", null ],
-    [ "GetAI", "d5/d16/a19036.html#a00d0e2ee0a8c20ed64dd2012f244a760", null ]
+    [ "boss_razuviousAI", "df/d5b/a19040.html", "df/d5b/a19040" ],
+    [ "boss_razuvious", "d5/d16/a19036.html#ac1a2942f4a7957c671b075df7bf20215", null ],
+    [ "GetAI", "d5/d16/a19036.html#a350a7cf0c3e21e29c3c28155d63dcb87", null ]
 ];

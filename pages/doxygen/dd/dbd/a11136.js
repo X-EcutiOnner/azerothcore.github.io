@@ -1,5 +1,5 @@
 var a11136 =
 [
-    [ "groupId", "dd/dbd/a11136.html#a71a218d1ea3241f0c72205f7e2f34125", null ],
-    [ "specialFlags", "dd/dbd/a11136.html#a2232afb6a6b05e5ea33f40992a09621d", null ]
+    [ "ImplicitTargetType", "dd/dbd/a11136.html#adc4268d74a3f0b47902e16eea2fc854a", null ],
+    [ "UsedTargetObjectType", "dd/dbd/a11136.html#a7bbc11d4a7a68f9441d393c7b48f5231", null ]
 ];

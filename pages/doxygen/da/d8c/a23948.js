@@ -1,6 +1,9 @@
 var a23948 =
 [
-    [ "npc_commander_dawnforgeAI", "d0/d9c/a23952.html", "d0/d9c/a23952" ],
-    [ "npc_commander_dawnforge", "da/d8c/a23948.html#ab4d430725f68f906e9c8def66b1d6646", null ],
-    [ "GetAI", "da/d8c/a23948.html#a6089b087b7c3b18659e23c677814318b", null ]
+    [ "npc_wounded_blood_elfAI", "da/d8c/a23948.html#a2dfcd5fa17b56c44f4056ecf4861af6e", null ],
+    [ "JustEngagedWith", "da/d8c/a23948.html#aba950ba77ff71508263cc54b28c7725b", null ],
+    [ "JustSummoned", "da/d8c/a23948.html#aa97f5294981c44b530efca1411458a97", null ],
+    [ "Reset", "da/d8c/a23948.html#a8e6be35a3079998f3bab829f5d963c71", null ],
+    [ "sQuestAccept", "da/d8c/a23948.html#a56c157928c24daae6edacd5a126ef171", null ],
+    [ "WaypointReached", "da/d8c/a23948.html#a5affcb00e28a582f8926ab2226001cd0", null ]
 ];

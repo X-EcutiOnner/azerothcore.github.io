@@ -1,6 +1,5 @@
 var a14212 =
 [
-    [ "HandleDummy", "d0/d30/a14212.html#a7e6ecd28a6b1f161619e179bc386388e", null ],
-    [ "PrepareSpellScript", "d0/d30/a14212.html#a87a787c6ab3804847c90266f570381c6", null ],
-    [ "Register", "d0/d30/a14212.html#ad5c7ab8f3bb74882eed42c6e0868ab70", null ]
+    [ "npc_cw_area_triggerAI", "d0/d30/a14212.html#aede21e01dfe762922562b6f5d57bc406", null ],
+    [ "MoveInLineOfSight", "d0/d30/a14212.html#a1fb90760dac1ae429429d84ed033aa7a", null ]
 ];

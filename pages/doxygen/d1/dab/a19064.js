@@ -1,7 +1,6 @@
 var a19064 =
 [
-    [ "npc_naxxramas_trigger", "d1/dab/a19064.html#a62fd64468daf378fbe2e8f18b1f002f8", null ],
-    [ "Reset", "d1/dab/a19064.html#a5bf85ab6027ca5101df32cda6df29b28", null ],
-    [ "UpdateAI", "d1/dab/a19064.html#acd051dd7790aa37cd2375479433509cb", null ],
-    [ "_events", "d1/dab/a19064.html#a1ab25fd0b40f373d30b0f60462dd276b", null ]
+    [ "boss_thaddiusAI", "d5/dad/a19068.html", "d5/dad/a19068" ],
+    [ "boss_thaddius", "d1/dab/a19064.html#aff97b030b861feb646e1b22f60ee3605", null ],
+    [ "GetAI", "d1/dab/a19064.html#acf841c6897396f517a74932fc3480e69", null ]
 ];

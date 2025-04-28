@@ -1,6 +1,6 @@
 var a15328 =
 [
-    [ "HandleDummy", "d5/db2/a15328.html#af9c26a7e5f6cba4f1146cb626dbcf8ed", null ],
-    [ "PrepareSpellScript", "d5/db2/a15328.html#adc581ed46587afcc8be3800ae79105f6", null ],
-    [ "Register", "d5/db2/a15328.html#a7d09808ea2fdec450fcd129e996bd245", null ]
+    [ "npc_tiger_matriarch_creditAI", "d5/db2/a15328.html#a628772971a9c2a190ffe2fae6b0b6865", null ],
+    [ "UpdateAI", "d5/db2/a15328.html#a0fc7ca1313a21c5f74539ce2dbd7465d", null ],
+    [ "events", "d5/db2/a15328.html#ae96e0de4a36dde3237520e8a0ddd9f5f", null ]
 ];

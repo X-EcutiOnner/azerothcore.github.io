@@ -1,6 +1,6 @@
 var a19772 =
 [
-    [ "npc_pool_of_tarAI", "d9/df3/a19772.html#a6141addc9b1cf2c0028d98ef4f4d9d37", null ],
-    [ "DamageTaken", "d9/df3/a19772.html#a4ea55aa08123f724268238e0def5b595", null ],
-    [ "SpellHit", "d9/df3/a19772.html#acb63166b396c079d5b4bb9db67a1448a", null ]
+    [ "boss_flame_leviathan_defense_turretAI", "da/d2a/a19776.html", "da/d2a/a19776" ],
+    [ "boss_flame_leviathan_defense_turret", "d9/df3/a19772.html#a939c66ff6c1eb6dfdb3d93b3d0292e40", null ],
+    [ "GetAI", "d9/df3/a19772.html#a1c3726e2b753cda18bd11d8f4ff154db", null ]
 ];

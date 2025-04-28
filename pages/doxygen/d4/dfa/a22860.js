@@ -1,7 +1,12 @@
 var a22860 =
 [
-    [ "HandleOnHit", "d4/dfa/a22860.html#a9f368396cef39ba3bd70480f11c44700", null ],
-    [ "PrepareSpellScript", "d4/dfa/a22860.html#a3240b42a9122e61b57ea91486cb3c97b", null ],
-    [ "Register", "d4/dfa/a22860.html#a99f80adcebdd9726a8df51f99d415651", null ],
-    [ "Validate", "d4/dfa/a22860.html#a25e3078f0b2d71ea0e6802aae0a6c7a4", null ]
+    [ "boss_shade_of_akama", "d4/dfa/a22860.html#a385bf995d19652254d6ae8a447c23c37", null ],
+    [ "EnterEvadeMode", "d4/dfa/a22860.html#a690f8058fb4358b98960177d76864275", null ],
+    [ "JustDied", "d4/dfa/a22860.html#aa22052befeb48c0c7ec3a3cedd91daff", null ],
+    [ "MovementInform", "d4/dfa/a22860.html#a345707efebd5027c01a25a563d1e6f43", null ],
+    [ "Reset", "d4/dfa/a22860.html#a19a1aca1a599704612ac845001895b4f", null ],
+    [ "SpellHit", "d4/dfa/a22860.html#a5a49f0dab7ce6ee81b9ed8deb5704720", null ],
+    [ "UpdateAI", "d4/dfa/a22860.html#a25ffed5526b1f25eb1cf790745e2a7c7", null ],
+    [ "channelers", "d4/dfa/a22860.html#a63372527172d3f96f533b5776221c2e7", null ],
+    [ "generators", "d4/dfa/a22860.html#a3ebaa870a9c3c9b5a0590b8cdc32d857", null ]
 ];

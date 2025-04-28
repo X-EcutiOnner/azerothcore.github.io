@@ -1,6 +1,6 @@
 var a23872 =
 [
-    [ "npc_ancestral_wolfAI", "d7/d7d/a23876.html", "d7/d7d/a23876" ],
-    [ "npc_ancestral_wolf", "d9/d18/a23872.html#a7cadf2848a086db63792f8068ee9463d", null ],
-    [ "GetAI", "d9/d18/a23872.html#a201255a64d4e742ba8b118b4f2ec5cd5", null ]
+    [ "npc_deaths_fel_cannonAI", "d9/d18/a23872.html#a29d298bd85c78e2fbf0a4019aa7fbce7", null ],
+    [ "Reset", "d9/d18/a23872.html#a4096d75a98dc8a1c95920710fb48d6ff", null ],
+    [ "UpdateAI", "d9/d18/a23872.html#a942a8b1153b4ae6fde3b474cc909daad", null ]
 ];

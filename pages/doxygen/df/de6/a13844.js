@@ -1,5 +1,5 @@
 var a13844 =
 [
-    [ "at_zulgurub_edge_of_madness_speech", "df/de6/a13844.html#a7d4007716e3ed634ac7e3d3dba26e6f7", null ],
-    [ "_OnTrigger", "df/de6/a13844.html#a725de49be12116f2f7e77edd31a096ae", null ]
+    [ "go_gong_of_bethekk", "df/de6/a13844.html#ae261467be63f1a744eb20f81473c2239", null ],
+    [ "OnGossipHello", "df/de6/a13844.html#a82072ff8c030aec1a5ed447865680788", null ]
 ];

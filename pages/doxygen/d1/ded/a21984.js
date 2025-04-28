@@ -1,18 +1,14 @@
 var a21984 =
 [
-    [ "npc_blessed_bannerAI", "d1/ded/a21984.html#a563cd394d72a900d735f8639074deae1", null ],
-    [ "JustDied", "d1/ded/a21984.html#a06e0e0c1e673c13488bd47e130098915", null ],
-    [ "JustEngagedWith", "d1/ded/a21984.html#abfdd9e554fbbe16f6058d5cb10394a84", null ],
-    [ "JustSummoned", "d1/ded/a21984.html#a354921ca9a3603c48885a38a507347c4", null ],
-    [ "MoveInLineOfSight", "d1/ded/a21984.html#a34a0a856a4a4c05954ba300d8031e374", null ],
-    [ "Reset", "d1/ded/a21984.html#a6fe7e49f2077ed549a6406592aec345e", null ],
-    [ "UpdateAI", "d1/ded/a21984.html#a8ca070c63dd48e22823ac26d11da75be", null ],
-    [ "events", "d1/ded/a21984.html#a79b7fbee1492860fe64d42928e494e3d", null ],
-    [ "guidDalfors", "d1/ded/a21984.html#a369a837b6fa57d0960f24d9ea629ed04", null ],
-    [ "guidHalof", "d1/ded/a21984.html#aef28a7624fb88e65a7f79fe34c320a29", null ],
-    [ "guidMason", "d1/ded/a21984.html#a05e6dc20409e2271de8fe4f4b3ae7bfa", null ],
-    [ "guidPriest", "d1/ded/a21984.html#a25f4056b2d7fda02885f58502f809a9c", null ],
-    [ "HalofSpawned", "d1/ded/a21984.html#a38e98094f05c09ea19a4f44771194b2e", null ],
-    [ "PhaseCount", "d1/ded/a21984.html#a983110caf86d94374a299d7268f7458c", null ],
-    [ "Summons", "d1/ded/a21984.html#a92d7543e31c5cb367379711cb767ebd6", null ]
+    [ "npc_tirions_gambit_tirionAI", "d1/ded/a21984.html#a38959c7a5b502b5716a5c09b0f6ae8a4", null ],
+    [ "DoAction", "d1/ded/a21984.html#a495e0762614020ef6d7b741447099326", null ],
+    [ "DoSummonAction", "d1/ded/a21984.html#a891b31661705ed4df634059e6165d499", null ],
+    [ "JustSummoned", "d1/ded/a21984.html#ac62ec499aba734d36249f8c00b36e2d4", null ],
+    [ "Reset", "d1/ded/a21984.html#afb398bda1d6ee4d35527208e6c5bffee", null ],
+    [ "SetData", "d1/ded/a21984.html#a41f24de5f824d84edb69c6b2bdca6d4e", null ],
+    [ "SummonedCreatureDespawn", "d1/ded/a21984.html#aca05fee85997dffba6ec998b144b9495", null ],
+    [ "UpdateEscortAI", "d1/ded/a21984.html#a0b681d6cc1566e6193f7eb143ab2bd5e", null ],
+    [ "WaypointReached", "d1/ded/a21984.html#af5fd69b799c6227dba901f434e30c434", null ],
+    [ "events", "d1/ded/a21984.html#a711c55c26187ae695644b770a358766e", null ],
+    [ "summons", "d1/ded/a21984.html#af574a4b136ff42c597e30c83e4d463ca", null ]
 ];

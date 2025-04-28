@@ -1,10 +1,6 @@
 var a27916 =
 [
-    [ "HasFlag", "d0/d03/a27916.html#abe23ca5437589a38ea57bc93a6197911", null ],
-    [ "CollisionHeight", "d0/d03/a27916.html#afd7385ab3dd949ebe230e0a01cec7158", null ],
-    [ "CollisionWidth", "d0/d03/a27916.html#ab79497759cf169348b8922301fc43b2f", null ],
-    [ "Flags", "d0/d03/a27916.html#a3bb96e232124771e78f8b5db53405106", null ],
-    [ "Id", "d0/d03/a27916.html#aa19fec147703c7542be260c8ec5a0446", null ],
-    [ "MountHeight", "d0/d03/a27916.html#a5300334ce02dd5a3b9ea6796eddb7ced", null ],
-    [ "Scale", "d0/d03/a27916.html#a08d8be1d2dbc9eb67e1f631650ea74da", null ]
+    [ "AreaGroupId", "d0/d03/a27916.html#a2868a59574e635d5f5859cfa01811151", null ],
+    [ "AreaId", "d0/d03/a27916.html#aabde46a6c77db2c7fb92ca211c86727a", null ],
+    [ "nextGroup", "d0/d03/a27916.html#a1f966f2d6848e8aba2ae3c6bd8120503", null ]
 ];

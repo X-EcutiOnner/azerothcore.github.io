@@ -1,12 +1,12 @@
 var a21672 =
 [
-    [ "npc_q24545_wretched_ghoulAI", "d7/df2/a21672.html#a0e4d9b3acd1de2cd44d0a6a22007e026", null ],
-    [ "Activate", "d7/df2/a21672.html#a52f64cef6159a3bfe29a6ac551b5bbe2", null ],
-    [ "AttackStart", "d7/df2/a21672.html#a9453e2fe00c656ded0bad4d9036dbd2a", null ],
-    [ "CanAIAttack", "d7/df2/a21672.html#a9cf57308ea588cc2febb0bb2666c2afe", null ],
-    [ "Deactivate", "d7/df2/a21672.html#af7dd65b8c0a1b5b55752d7f6b85f21cc", null ],
-    [ "DoAction", "d7/df2/a21672.html#a77aad4a0446fac68a5d1785acbe825eb", null ],
-    [ "JustDied", "d7/df2/a21672.html#a2fc9b40d72eea88b2245e6b01b17384a", null ],
-    [ "JustRespawned", "d7/df2/a21672.html#ab30068f7082176c279e0667f72d750a3", null ],
-    [ "Reset", "d7/df2/a21672.html#ad94a4789b5ba019d021682f15df13589", null ]
+    [ "npc_wintergarde_gryphon", "d7/df2/a21672.html#ada46ecdbc8c3a33a7b3ce09296c0db72", null ],
+    [ "getVillager", "d7/df2/a21672.html#a7f20f5e124e013ad8f57ca31b9fb86d7", null ],
+    [ "IsSummonedBy", "d7/df2/a21672.html#acd7cea6226034d53b854c5ed659ff949", null ],
+    [ "JustDied", "d7/df2/a21672.html#a6c87d55ef29e14b4b8b87a0321179542", null ],
+    [ "MovementInform", "d7/df2/a21672.html#a8f2faf49533d27d971110681e050c060", null ],
+    [ "PassengerBoarded", "d7/df2/a21672.html#a16c01d26aef06358f979f59fe68c09ca", null ],
+    [ "SpellHit", "d7/df2/a21672.html#acf64143ea83321556156fde30e1a34d4", null ],
+    [ "UpdateAI", "d7/df2/a21672.html#aa161f280e7a7370696cecc27c51ee55c", null ],
+    [ "villagerGUID", "d7/df2/a21672.html#a56a7973a05061197192111ecf55ef14a", null ]
 ];

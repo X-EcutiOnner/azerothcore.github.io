@@ -1,7 +1,6 @@
 var a24864 =
 [
-    [ "HandleScript", "d5/d96/a24864.html#af386e49e9020328f123c4da7d82d4b0c", null ],
-    [ "PrepareSpellScript", "d5/d96/a24864.html#a5e4618514d33bbc18fcc26c83279e430", null ],
-    [ "Register", "d5/d96/a24864.html#a3560275f387f7b0de34f9d1c255241fe", null ],
-    [ "Validate", "d5/d96/a24864.html#a108e58cb90719b572f3578f0d44d0627", null ]
+    [ "ModDest", "d5/d96/a24864.html#a99d08536d2555390a7399a6d2fc199e6", null ],
+    [ "PrepareSpellScript", "d5/d96/a24864.html#a361aed7e74a9f01d665018fd0c3addb1", null ],
+    [ "Register", "d5/d96/a24864.html#aa96b1ff5297d670481d1d8afa9356ef9", null ]
 ];

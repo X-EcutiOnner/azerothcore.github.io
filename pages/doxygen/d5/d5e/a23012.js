@@ -1,6 +1,11 @@
 var a23012 =
 [
-    [ "HandleScriptEffect", "d5/d5e/a23012.html#a6489e3a58421da7c448a24d6673564c5", null ],
-    [ "PrepareSpellScript", "d5/d5e/a23012.html#a5afd50fdc8393a12cd39a56c342f9179", null ],
-    [ "Register", "d5/d5e/a23012.html#a274d65aa393a65e19bbb67a5d07c7428", null ]
+    [ "boss_doomlordkazzakAI", "d5/d5e/a23012.html#a86a942b48bf1146fb3ab445dc386cab9", null ],
+    [ "JustDied", "d5/d5e/a23012.html#a33d0bc150c3c2701f4c0c4d8f39fce29", null ],
+    [ "JustEngagedWith", "d5/d5e/a23012.html#a8086a5f8f6edd94525b9aedd083b7b00", null ],
+    [ "JustRespawned", "d5/d5e/a23012.html#a174912c149657f4d88446f4ac0631598", null ],
+    [ "KilledUnit", "d5/d5e/a23012.html#adb91f475b0e8cb73821860c3c5cc226b", null ],
+    [ "Reset", "d5/d5e/a23012.html#a51b19c8e7c5f85c41b3168165bb8b40b", null ],
+    [ "UpdateAI", "d5/d5e/a23012.html#a28a0a8345fcd5411491409854acef729", null ],
+    [ "_inBerserk", "d5/d5e/a23012.html#a996d17128aca96c00c8416957ebc24d0", null ]
 ];

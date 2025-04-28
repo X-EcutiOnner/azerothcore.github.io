@@ -1,9 +1,6 @@
 var a14828 =
 [
-    [ "npc_buru_egg", "d1/d62/a14828.html#a6aa2896342b802caecde1c1dffcf4907", null ],
-    [ "JustDied", "d1/d62/a14828.html#a3de169b252374f0b2daed3ecb5a11502", null ],
-    [ "JustEngagedWith", "d1/d62/a14828.html#a8cde6848569671876a17b00d75228ebe", null ],
-    [ "JustSummoned", "d1/d62/a14828.html#abebb96dcb3d653bddd4210da6567fb87", null ],
-    [ "UpdateAI", "d1/d62/a14828.html#a4d77f8b40ea8e936c9388aeff4927420", null ],
-    [ "_instance", "d1/d62/a14828.html#a5b168226755a57368f17827e3457a0ca", null ]
+    [ "npc_idol_room_spawnerAI", "d0/db7/a14832.html", "d0/db7/a14832" ],
+    [ "npc_idol_room_spawner", "d1/d62/a14828.html#ac51fed89c27ebf6ae3cf65ca8909eab1", null ],
+    [ "GetAI", "d1/d62/a14828.html#a3017caa645e98a7647ec42a43c025624", null ]
 ];

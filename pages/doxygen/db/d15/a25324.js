@@ -1,7 +1,9 @@
 var a25324 =
 [
-    [ "FilterTargets", "db/d15/a25324.html#affede599b86e05e6475fd64a60268e8e", null ],
-    [ "Load", "db/d15/a25324.html#a1343407ca8b571140ed2ecf5501bf378", null ],
-    [ "PrepareSpellScript", "db/d15/a25324.html#a12ff05520225209b476b3ba8422de1c6", null ],
-    [ "Register", "db/d15/a25324.html#ac99786385187e21fb02e65e9b9719400", null ]
+    [ "DoCheckCast", "db/d15/a25324.html#a09c7bd66988c38cb019656842ed87366", null ],
+    [ "HandleDummy", "db/d15/a25324.html#a183e2ac37a432ea2902b31e24a474cea", null ],
+    [ "HandleScriptEffect", "db/d15/a25324.html#a396b1129f15056d0b22c7887f56bea99", null ],
+    [ "PrepareSpellScript", "db/d15/a25324.html#aad4de93de822a742e02ac8d5d395d482", null ],
+    [ "Register", "db/d15/a25324.html#a84fc18d6a2d92aefa2cc4d8095780314", null ],
+    [ "Validate", "db/d15/a25324.html#a2565f0ad3bb988ad37dd6a60f08c995c", null ]
 ];

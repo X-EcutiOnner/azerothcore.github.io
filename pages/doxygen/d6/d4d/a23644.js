@@ -1,6 +1,8 @@
 var a23644 =
 [
-    [ "OnApply", "d6/d4d/a23644.html#a472220f22165c6d21eab5f4b5f75921e", null ],
-    [ "PrepareAuraScript", "d6/d4d/a23644.html#a12dba24d5aa3d41671980d8dd509d6f2", null ],
-    [ "Register", "d6/d4d/a23644.html#aa8530071a4053e6c6f8b194a9cc723e2", null ]
+    [ "boss_commander_sarannis", "d6/d4d/a23644.html#ace0957feb37f864798008849be25f607", null ],
+    [ "JustDied", "d6/d4d/a23644.html#a7796429f04c049549a4a02a1eb8d35fc", null ],
+    [ "JustEngagedWith", "d6/d4d/a23644.html#ad4273db7c169c6cfa9917dd3b76c9c95", null ],
+    [ "KilledUnit", "d6/d4d/a23644.html#a64e77321adc5eea9d3494a3e1030f9de", null ],
+    [ "ScheduleReinforcements", "d6/d4d/a23644.html#a293f0b860a66396a30c6d255eef85309", null ]
 ];

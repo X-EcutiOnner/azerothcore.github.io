@@ -1,6 +1,8 @@
 var a25212 =
 [
-    [ "CheckCast", "df/da4/a25212.html#a712900d0c9e9cc78b5de2886e416f34d", null ],
-    [ "PrepareSpellScript", "df/da4/a25212.html#a0bc2de519e0c84688fad609444d28afa", null ],
-    [ "Register", "df/da4/a25212.html#a7f438fb8ce7eda520a366437df65c6e8", null ]
+    [ "HandleApply", "df/da4/a25212.html#af20f30fe2bfc7a370b166a6200b44ca9", null ],
+    [ "OnPeriodic", "df/da4/a25212.html#a6b3223ef23854f22b9a3baba0d42cb11", null ],
+    [ "PrepareAuraScript", "df/da4/a25212.html#a344d1a92623865876174c0e88ce8ab4b", null ],
+    [ "Register", "df/da4/a25212.html#a352ff0e85eee6e51e9f2eea5cdd9108c", null ],
+    [ "Validate", "df/da4/a25212.html#ac4fd8fdde53f947082b23852ce149ea9", null ]
 ];

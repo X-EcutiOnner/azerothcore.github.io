@@ -1,6 +1,6 @@
 var a22092 =
 [
-    [ "npc_frosthoundAI", "dd/d49/a22096.html", "dd/d49/a22096" ],
-    [ "npc_frosthound", "d9/d0f/a22092.html#a3266f5186d1db0c010f586d3272725a6", null ],
-    [ "GetAI", "d9/d0f/a22092.html#a49cd41753c715f166fc903df9dcfdd6b", null ]
+    [ "npc_avatar_of_freya", "d9/d0f/a22092.html#a3a6c4f6d8f05d606c6f545d91acdb2c1", null ],
+    [ "OnGossipHello", "d9/d0f/a22092.html#a020e8e41b32eb65ff906c9ca934a03fe", null ],
+    [ "OnGossipSelect", "d9/d0f/a22092.html#aba1b13e922873e939b2510b4bc77f49d", null ]
 ];

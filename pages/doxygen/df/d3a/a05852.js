@@ -1,7 +1,7 @@
 var a05852 =
 [
-    [ "UpdateException", "df/d3a/a05852.html#ace39ae1801ac7dcd055bcdce2411866e", null ],
-    [ "~UpdateException", "df/d3a/a05852.html#a38e016e210bf287d2adc21811497c95c", null ],
-    [ "what", "df/d3a/a05852.html#ab7bc552819bf9620dd670fb5a627b2dd", null ],
-    [ "_msg", "df/d3a/a05852.html#a7b4ba1e0d2829249afb2922f385016b3", null ]
+    [ "TransactionWithResultTask", "df/d3a/a05852.html#a98dfb255e7be9d5cf9ed9215b0d5e0e4", null ],
+    [ "Execute", "df/d3a/a05852.html#a2a05fb2aa69032797f2065cb46fe7dc4", null ],
+    [ "GetFuture", "df/d3a/a05852.html#a5bc976207b1d695c8e8c052b0eacc7a6", null ],
+    [ "m_result", "df/d3a/a05852.html#aaf4d587b83977e65089bdbf92fa09ae1", null ]
 ];

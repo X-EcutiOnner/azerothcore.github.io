@@ -1,8 +1,6 @@
 var a17500 =
 [
-    [ "Load", "df/d2e/a17500.html#ad1105149d5e42318382af6c07149d522", null ],
-    [ "PeriodicTick", "df/d2e/a17500.html#a8e675178256746d08af50a6b75ec582e", null ],
-    [ "PrepareAuraScript", "df/d2e/a17500.html#a88f4baca7ceac44e5d148b73386a10a7", null ],
-    [ "Register", "df/d2e/a17500.html#a0fa7d86214827711edd019dd3b40c667", null ],
-    [ "_tickNo", "df/d2e/a17500.html#a418212d2daa873d69a83b4c1341a8903", null ]
+    [ "npc_gunship_boarding_add_realAI", "da/d4b/a17504.html", "da/d4b/a17504" ],
+    [ "npc_gunship_boarding_add", "df/d2e/a17500.html#aa80871f80bae7186d3665f73d757e108", null ],
+    [ "GetAI", "df/d2e/a17500.html#ad7e173bffccca6d852ba545427235447", null ]
 ];

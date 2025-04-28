@@ -1,7 +1,6 @@
 var a12380 =
 [
-    [ "HandlePeriodic", "dc/d2a/a12380.html#a5651e7ecab22d2286f85e56b8eccc003", null ],
-    [ "PrepareAuraScript", "dc/d2a/a12380.html#a5dca8e116c05d11961cbd7995314441e", null ],
-    [ "Register", "dc/d2a/a12380.html#a5972e66a8c05c5ae64e6666d0f35cb6e", null ],
-    [ "Validate", "dc/d2a/a12380.html#a689b93dcf39828f507ef2b7f72d1ca01", null ]
+    [ "boss_magmadarAI", "dc/d2a/a12380.html#a47207fdd6eb94fb08791da06cd4160f6", null ],
+    [ "ExecuteEvent", "dc/d2a/a12380.html#a7d4c1807cb320fdc331057209a4ce166", null ],
+    [ "JustEngagedWith", "dc/d2a/a12380.html#a5ce1495d01f28e0a38f00127e7137a4f", null ]
 ];

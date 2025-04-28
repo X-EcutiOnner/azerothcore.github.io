@@ -1,10 +1,9 @@
 var a20768 =
 [
-    [ "boss_yoggsaron_voiceAI", "dc/d4a/a20768.html#ac78b27f8d4df433e1fad2ae550a4da44", null ],
-    [ "Reset", "dc/d4a/a20768.html#ae5561244ad7387a3614bb6f1e23a7001", null ],
-    [ "SpellHitTarget", "dc/d4a/a20768.html#a0cc39577b4b70eb1be16f9c8b5cb5c72", null ],
-    [ "UpdateAI", "dc/d4a/a20768.html#a3c8458c25f7389f5fb5218177590a4c6", null ],
-    [ "_current", "dc/d4a/a20768.html#ad94ddde194a32b380ba1d309f1ece14a", null ],
-    [ "_targets", "dc/d4a/a20768.html#ab6132214a2249fbb5de8a5115b114381", null ],
-    [ "events", "dc/d4a/a20768.html#ac0c6aa9efe9d9e80b29fae8c190962dc", null ]
+    [ "boss_yoggsaron_keeper", "dc/d4a/a20768.html#ad2098933656371b1bf80ec3ea859c418", null ],
+    [ "DoAction", "dc/d4a/a20768.html#a9e3d251810b55072458003356213ae15", null ],
+    [ "JustEngagedWith", "dc/d4a/a20768.html#a36bac93a46710f0cd3f51958b4e4223b", null ],
+    [ "JustSummoned", "dc/d4a/a20768.html#a272a77cb6f147f38825cd68d54f56a9a", null ],
+    [ "UpdateAI", "dc/d4a/a20768.html#afe9c18d91443f2ba3b2fd2a2fdd7dca5", null ],
+    [ "_summons", "dc/d4a/a20768.html#aa840eff5f3d8b24225046113737936b4", null ]
 ];

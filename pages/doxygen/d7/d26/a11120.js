@@ -1,12 +1,7 @@
 var a11120 =
 [
-    [ "cooldown", "d7/d26/a11120.html#a0cd88c27979ccc5284aa46846db32a7c", null ],
-    [ "customChance", "d7/d26/a11120.html#adf6742b70f0b00abddf1da6f45da3d16", null ],
-    [ "ppmRate", "d7/d26/a11120.html#a931b2df4a187482e32ef252c3320080a", null ],
-    [ "procEx", "d7/d26/a11120.html#a911770f28fe36243593b12fe92d6fbec", null ],
-    [ "procFlags", "d7/d26/a11120.html#af253ef32b9de49fe85d0fe6f06855a60", null ],
-    [ "procPhase", "d7/d26/a11120.html#a179d83770a02e4ab13f809ed3943a399", null ],
-    [ "schoolMask", "d7/d26/a11120.html#a9a6d38ee4e4a35066780ef924c63f92f", null ],
-    [ "spellFamilyMask", "d7/d26/a11120.html#a2aa57bf419ab51129fe7240750ee8910", null ],
-    [ "spellFamilyName", "d7/d26/a11120.html#a5ffa91b3f66ebb0ac34f30e1c532fb3a", null ]
+    [ "SpellImmune", "d7/d26/a11120.html#a70ebcde656db6c4d7c21fb03af44978a", null ],
+    [ "blockType", "d7/d26/a11120.html#a13a353d02a7330820df170eb46e7a26d", null ],
+    [ "spellId", "d7/d26/a11120.html#a6aeb1bebf2f079424ebfa5192c568adc", null ],
+    [ "type", "d7/d26/a11120.html#ae1a414f35b2cce61cd4f5640c761f7ea", null ]
 ];

@@ -1,8 +1,9 @@
 var a16136 =
 [
-    [ "npc_toc5_player_vehicleAI", "d2/ddc/a16136.html#afa00a6254b482aae5397be04860ac8ba", null ],
-    [ "BeforeSpellClick", "d2/ddc/a16136.html#aac7db7f40b47a9c098c98bacb7569faf", null ],
-    [ "OnCharmed", "d2/ddc/a16136.html#ace805882a25a9d075d811714e607fa2b", null ],
-    [ "PassengerBoarded", "d2/ddc/a16136.html#aca35804df751185193ff5865255d3687", null ],
-    [ "Reset", "d2/ddc/a16136.html#a5439b98d544124836d2cf9762f764cea", null ]
+    [ "npc_memoryAI", "d2/ddc/a16136.html#ad927d377d60b44f43808469042f5feb9", null ],
+    [ "JustDied", "d2/ddc/a16136.html#a7b0484919d671877f29dfa05ca1265d9", null ],
+    [ "Reset", "d2/ddc/a16136.html#a985c51bbfa2cceeb7601432491253aaf", null ],
+    [ "UpdateAI", "d2/ddc/a16136.html#a6cb74389f5aea91d2062e007ea08acd7", null ],
+    [ "events", "d2/ddc/a16136.html#a2ed2993e89728a3723456a67e13581f7", null ],
+    [ "pInstance", "d2/ddc/a16136.html#a31bcb5041844ea5e3a076ad1366897e1", null ]
 ];

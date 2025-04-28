@@ -1,7 +1,7 @@
 var a18592 =
 [
-    [ "OnRemove", "da/d46/a18592.html#ac71e6f5a9e3a7c96b4e4bd1a296d0d8d", null ],
-    [ "PrepareAuraScript", "da/d46/a18592.html#acf654e563f47df9ad033d7080f47662b", null ],
-    [ "Register", "da/d46/a18592.html#aad4497ba7cad48b9547e8696714d8c23", null ],
-    [ "Validate", "da/d46/a18592.html#ae5e187cb481849343e777b0bf0ffdf24", null ]
+    [ "OnApply", "da/d46/a18592.html#a5f62c11ef96edbf6f2906bd5f41109d5", null ],
+    [ "OnRemove", "da/d46/a18592.html#a697a7c76f944b5df956a9de07746b7a9", null ],
+    [ "PrepareAuraScript", "da/d46/a18592.html#a338d0fa22368d01fe7523b7cc1acea4b", null ],
+    [ "Register", "da/d46/a18592.html#ab915b3ede10526b3e7ccbe33f2568fae", null ]
 ];

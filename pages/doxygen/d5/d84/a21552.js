@@ -1,14 +1,9 @@
 var a21552 =
 [
-    [ "npc_dalaran_mageAI", "d5/d84/a21552.html#ae896a065d2975c5f4d0a125261796215", null ],
-    [ "Initialize", "d5/d84/a21552.html#a8ede1e1e4599f288f5a8c20c40c11236", null ],
-    [ "JustEngagedWith", "d5/d84/a21552.html#a05e9c672ab73029c70fa3d2605b6174d", null ],
-    [ "Reset", "d5/d84/a21552.html#adee723525f46e5476e135e3043f5feb9", null ],
-    [ "UpdateAI", "d5/d84/a21552.html#ab3d5812e38c1fcc1c01af3fdbd27a61e", null ],
-    [ "blink_timer", "d5/d84/a21552.html#ae888e0e5d3302e0a47b6e3d41f166c67", null ],
-    [ "blizzard_timer", "d5/d84/a21552.html#a5da62a7ee9abf7a94c2543076d6479a6", null ],
-    [ "CoC_Timer", "d5/d84/a21552.html#a8a86c02e2c3759ec1f64087943d37b26", null ],
-    [ "frostfire_timer", "d5/d84/a21552.html#ab91070d41571e0070a7c92bf0694f4cc", null ],
-    [ "frostnova_timer", "d5/d84/a21552.html#a77e9a7686cece7ee97236ce6386f82bf", null ],
-    [ "restoremana_timer", "d5/d84/a21552.html#a33da20a649faa6ee7e61db79846ac4a7", null ]
+    [ "npc_counselor_talbotAI", "d5/d84/a21552.html#acf1865ab4225128b8edbc619f7d8fa93", null ],
+    [ "JustDied", "d5/d84/a21552.html#a4dbb0c9b91be5fa182bcc5c63ac9307b", null ],
+    [ "JustEngagedWith", "d5/d84/a21552.html#acacec95c5e74c4b71cf2345bbae2eacb", null ],
+    [ "Reset", "d5/d84/a21552.html#a03bfaedb136c3e107a4df8e4a1646ae2", null ],
+    [ "UpdateAI", "d5/d84/a21552.html#a7b5c739d7c85d5205a04f3c6adf367ef", null ],
+    [ "_events", "d5/d84/a21552.html#a094ce9839bb51b73e6b5826c24cda3b6", null ]
 ];

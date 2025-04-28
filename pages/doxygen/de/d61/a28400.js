@@ -1,10 +1,9 @@
 var a28400 =
 [
-    [ "adt_CELLS", "d6/d4b/a28408.html", "d6/d4b/a28408" ],
-    [ "getMCNK", "de/d61/a28400.html#a8330b7cb405146399d3d20e6952a8b40", null ],
-    [ "prepareLoadedData", "de/d61/a28400.html#adc7346499aa51f4422c810b7e757f835", null ],
-    [ "cells", "de/d61/a28400.html#a434ed0ca354ec27d5334cc63e5650038", null ],
-    [ "fcc", "de/d61/a28400.html#ae7d4acf20e102b6b8f19ded3fe219a7d", null ],
-    [ "fcc_txt", "de/d61/a28400.html#a514bae36851623daf76b26a9d63f1ae0", null ],
-    [ "size", "de/d61/a28400.html#a1a40f52ea9eef3add8207da89cb71210", null ]
+    [ "flags", "de/d61/a28400.html#a064de2e88c563121bbb78549a7bab868", null ],
+    [ "_flags", "de/d61/a28400.html#a16f1b30a57eb6703e8073ef55d988391", null ],
+    [ "bits", "de/d61/a28400.html#a529f1856635132646457c57f3546f4ec", null ],
+    [ "configKey", "de/d61/a28400.html#af14d118016b9e01612769c00f13aa2d6", null ],
+    [ "oldKey", "de/d61/a28400.html#a29605b536523f6d022bbac0e12d1d8dc", null ],
+    [ "owner", "de/d61/a28400.html#a24aaa1c473c3932c83dd49aad84f8361", null ]
 ];

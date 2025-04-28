@@ -1,5 +1,6 @@
 var a24040 =
 [
-    [ "npc_karynaku", "d2/d9d/a24040.html#aa6a3cb409cdbc990f1eee4137c7519d2", null ],
-    [ "OnQuestAccept", "d2/d9d/a24040.html#a4cae1950fe3b7b4ae6f2e6691800ec47", null ]
+    [ "CheckCast", "d2/d9d/a24040.html#ae13cc2d3da1c9911c88402d05679d447", null ],
+    [ "PrepareSpellScript", "d2/d9d/a24040.html#afbed81273aa23d355c64579c71e9761d", null ],
+    [ "Register", "d2/d9d/a24040.html#a7157d04dfc534aa3cb88e8dff169c676", null ]
 ];

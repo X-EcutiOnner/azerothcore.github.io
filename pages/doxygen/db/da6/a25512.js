@@ -1,8 +1,6 @@
 var a25512 =
 [
-    [ "CheckProc", "db/da6/a25512.html#a06d76f258699bd4f78834ef33752a351", null ],
-    [ "HandleProc", "db/da6/a25512.html#af22f22cbc38fabe4181b853727df83f8", null ],
-    [ "PrepareAuraScript", "db/da6/a25512.html#adbc2bc54974837a9784cbf8b30ef2c1e", null ],
-    [ "Register", "db/da6/a25512.html#a8db2cf628d44fa962bb3889b20f5dfb1", null ],
-    [ "Validate", "db/da6/a25512.html#aa5604d45c0c11bef130d9242c4357163", null ]
+    [ "HandleProc", "db/da6/a25512.html#a9a38fab6b581e9f9b4e092d7a4ecaebd", null ],
+    [ "PrepareAuraScript", "db/da6/a25512.html#a5299aaeacead013e00e81ec7960528f8", null ],
+    [ "Register", "db/da6/a25512.html#a3b46c5dd891d856e08cbcb9a494f2dd2", null ]
 ];

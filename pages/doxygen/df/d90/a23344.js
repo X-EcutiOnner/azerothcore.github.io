@@ -1,11 +1,7 @@
 var a23344 =
 [
-    [ "boss_kiggler_the_crazed", "df/d90/a23344.html#a6f6cd74a8d2b12809f2710f784340fda", null ],
-    [ "AttackStart", "df/d90/a23344.html#a47c18487637dcb911852573e3aec85a2", null ],
-    [ "JustDied", "df/d90/a23344.html#acf82f68ccfeabd33bc387dbe7ea0e997", null ],
-    [ "JustEngagedWith", "df/d90/a23344.html#acd10951a5b148579d0bd4196cc2e686e", null ],
-    [ "Reset", "df/d90/a23344.html#a3bd8ca2488b2db298a198038a849189e", null ],
-    [ "UpdateAI", "df/d90/a23344.html#a16e2b767ca4b05eba79726ccb6e11204", null ],
-    [ "_scheduler", "df/d90/a23344.html#af041c254910df663a03fcc815db635da", null ],
-    [ "instance", "df/d90/a23344.html#aa78db443f19814c66b977fe008de74fa", null ]
+    [ "HandleScript", "df/d90/a23344.html#a359ccbdf47c9b6a1df23e6f775d5ffa8", null ],
+    [ "PrepareSpellScript", "df/d90/a23344.html#ac1193881ad39e7ea7cb1f8f1b6627c60", null ],
+    [ "Register", "df/d90/a23344.html#afb83fdd384a430e572a7959f81cdf2cb", null ],
+    [ "Validate", "df/d90/a23344.html#af8587f9dff4b71b7cce8ec6d70f94927", null ]
 ];

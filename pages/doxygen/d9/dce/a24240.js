@@ -1,9 +1,12 @@
 var a24240 =
 [
-    [ "npc_pet_gen_soul_trader_beacon", "d9/dce/a24240.html#a58ef19b8c08aee764bdd55e480d9d750", null ],
-    [ "GetOwner", "d9/dce/a24240.html#a72bfd4cf6c734d1f1070a1560131667d", null ],
-    [ "SpellHitTarget", "d9/dce/a24240.html#a6c0d3181b913c5022325f66586f66bfa", null ],
-    [ "UpdateAI", "d9/dce/a24240.html#a18c06958e6b3d4306a6fdb5f9924d7ff", null ],
-    [ "events", "d9/dce/a24240.html#ae0a6d4850a0a0da4bd04227b11bae9e4", null ],
-    [ "ownerGUID", "d9/dce/a24240.html#a3a42e83216c0111a740a0c89e57c6f62", null ]
+    [ "npc_unkor_the_ruthlessAI", "d9/dce/a24240.html#a965b0f182570a54ee4c0a6a54ba8fafb", null ],
+    [ "DamageTaken", "d9/dce/a24240.html#a88b5e4b43171be8cc62d2a10f188e363", null ],
+    [ "DoNice", "d9/dce/a24240.html#aa673fc892b9c0d59b2789271140e6054", null ],
+    [ "JustEngagedWith", "d9/dce/a24240.html#a537225016bfeba51b607d250c0a09be5", null ],
+    [ "Reset", "d9/dce/a24240.html#a14ca75417c623d6d6e5fce50521963da", null ],
+    [ "UpdateAI", "d9/dce/a24240.html#a744ea41d7f9450965419085a296c8df2", null ],
+    [ "CanDoQuest", "d9/dce/a24240.html#a98d7d45b450f3464291ecbc05ab31f21", null ],
+    [ "Pulverize_Timer", "d9/dce/a24240.html#a2ddc09c9241bbf95cddb6c1c4ddfc6bd", null ],
+    [ "UnkorUnfriendly_Timer", "d9/dce/a24240.html#ae6eeb6177d655f5a0bede45183758f1f", null ]
 ];

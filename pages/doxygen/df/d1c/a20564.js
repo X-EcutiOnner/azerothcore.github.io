@@ -1,19 +1,6 @@
 var a20564 =
 [
-    [ "npc_xt002_heartAI", "df/d1c/a20564.html#a4bdfd8574fb343c800934d53424596bc", null ],
-    [ "AttackStart", "df/d1c/a20564.html#ac55f7e4215a7ae03f096778f71a952ef", null ],
-    [ "DamageTaken", "df/d1c/a20564.html#a97bc8a5934b9ed345416c1295813edd0", null ],
-    [ "DoAction", "df/d1c/a20564.html#a31476950c38e83b7436eab555d5cc7ff", null ],
-    [ "JustDied", "df/d1c/a20564.html#ac385cce7c349417a28f1d6673d9ae6cd", null ],
-    [ "JustSummoned", "df/d1c/a20564.html#aeae848dbb84417f563342b05e9339680", null ],
-    [ "MoveInLineOfSight", "df/d1c/a20564.html#ad077207bb0ae0498b208312ddbd7ed91", null ],
-    [ "SendEnergyToCorner", "df/d1c/a20564.html#a80204c6952b40770c0816f1895d70119", null ],
-    [ "SpellHitTarget", "df/d1c/a20564.html#aeb37afc22d7f77ce84e983e63fe7e78f", null ],
-    [ "SummonPiles", "df/d1c/a20564.html#a6180aaee9aaca9d2744cc6bef4265640", null ],
-    [ "UpdateAI", "df/d1c/a20564.html#ac58b8690136ed260020e76a0dc4f3432", null ],
-    [ "_damageDone", "df/d1c/a20564.html#aaa9f701197998f2cba942cc4f292a8f9", null ],
-    [ "_pummelerCount", "df/d1c/a20564.html#a8179da94f961897085289568468d2bba", null ],
-    [ "_spawnSelection", "df/d1c/a20564.html#a62187aab1a7fabedb1adaad33d422506", null ],
-    [ "_timerSpawn", "df/d1c/a20564.html#ad4f2db86cd841b96c20cea4469f4aed4", null ],
-    [ "summons", "df/d1c/a20564.html#a50869f121bf9d7aa790efb6c74799c83", null ]
+    [ "boss_thorim_runic_colossusAI", "d3/db6/a20568.html", "d3/db6/a20568" ],
+    [ "boss_thorim_runic_colossus", "df/d1c/a20564.html#a2ea1c08a98b689cd6c766578e98a3191", null ],
+    [ "GetAI", "df/d1c/a20564.html#a6d64427ff427a1054e10c9d987b77f53", null ]
 ];

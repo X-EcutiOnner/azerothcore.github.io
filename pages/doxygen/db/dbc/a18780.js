@@ -1,6 +1,6 @@
 var a18780 =
 [
-    [ "boss_isle_of_conquestAI", "d3/d16/a18784.html", "d3/d16/a18784" ],
-    [ "boss_isle_of_conquest", "db/dbc/a18780.html#ad4052d1b6865585d32016e1240449659", null ],
-    [ "GetAI", "db/dbc/a18780.html#ae14201c4f8654bf2c0cd9ac8a82f3800", null ]
+    [ "icecrown_citadel_teleport", "db/dbc/a18780.html#ab74d5962073dcf3b4488c33aaa935377", null ],
+    [ "OnGossipHello", "db/dbc/a18780.html#a97b0d94a5c7388a5dfce76f3bd3be24f", null ],
+    [ "OnGossipSelect", "db/dbc/a18780.html#a0b160bd86341542ddb1c80f3d4bd691f", null ]
 ];

@@ -1,7 +1,7 @@
 var a21624 =
 [
-    [ "CheckRequirement", "df/dc7/a21624.html#a41beb2c890137328734d6adb14e08302", null ],
-    [ "PrepareSpellScript", "df/dc7/a21624.html#aa0b9873dbd8c75a14fa88094d91eeeaa", null ],
-    [ "Register", "df/dc7/a21624.html#aa0fad5e5a68131ebab5717ad0ce69669", null ],
-    [ "SetDest", "df/dc7/a21624.html#a431a556ab73f91ed63f5983e537834a5", null ]
+    [ "npc_cosmetic_toy_plane", "df/dc7/a21624.html#a71b7df4d5f78768d9e47f41ba78b93d2", null ],
+    [ "Reset", "df/dc7/a21624.html#aa66f2e16ce6c4e5dd7399b48bd5bc203", null ],
+    [ "UpdateAI", "df/dc7/a21624.html#a41d62b314510fbd6637d8eddbea16f96", null ],
+    [ "_movementArray", "df/dc7/a21624.html#a5a85278bc14a0e3158dc3fa8abcc8392", null ]
 ];

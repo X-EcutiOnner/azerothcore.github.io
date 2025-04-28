@@ -1,8 +1,7 @@
 var a09336 =
 [
-    [ "AnyAttackableUnitExceptForOriginalCasterInObjectRangeCheck", "d9/dbe/a09336.html#ab3a1ebf25ef0da5df75a5a6a8bbf3ddf", null ],
-    [ "operator()", "d9/dbe/a09336.html#a2b38f9e66b1ba3bb678d763937852e02", null ],
-    [ "i_funit", "d9/dbe/a09336.html#aed6fe2e6d17e2076a373b32de071cd18", null ],
-    [ "i_obj", "d9/dbe/a09336.html#a65245ce627d5ccfde557f2d7e744ead6", null ],
-    [ "i_range", "d9/dbe/a09336.html#aff91ead572f2ed0d1912dbd0180196d5", null ]
+    [ "AnyUnitInObjectRangeCheck", "d9/dbe/a09336.html#ab96cd47c1a4c585e52590b94cf8ff021", null ],
+    [ "operator()", "d9/dbe/a09336.html#a0906cdad65a5b11dc6a8829ace8f135b", null ],
+    [ "i_obj", "d9/dbe/a09336.html#a834214b260576a0fe01908a163428757", null ],
+    [ "i_range", "d9/dbe/a09336.html#acc546656dbe9a405023ba56b028c8420", null ]
 ];

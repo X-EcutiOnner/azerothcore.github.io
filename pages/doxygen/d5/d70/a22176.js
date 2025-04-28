@@ -1,6 +1,6 @@
 var a22176 =
 [
-    [ "npc_vehicle_d16_propelled_deliveryAI", "dc/d0e/a22180.html", "dc/d0e/a22180" ],
-    [ "npc_vehicle_d16_propelled_delivery", "d5/d70/a22176.html#a93bed362ae78231b21327994a3e4cafd", null ],
-    [ "GetAI", "d5/d70/a22176.html#abda3dbcb251d7f1e614d089f630d0d1c", null ]
+    [ "npc_wild_wyrmAI", "dc/d0e/a22180.html", "dc/d0e/a22180" ],
+    [ "npc_wild_wyrm", "d5/d70/a22176.html#abce8c3a368e75b4be5e05381f9eb722b", null ],
+    [ "GetAI", "d5/d70/a22176.html#aedba91446fe12997047070f123d925d2", null ]
 ];

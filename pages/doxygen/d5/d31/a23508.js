@@ -1,7 +1,8 @@
 var a23508 =
 [
-    [ "HandleOnApply", "d5/d31/a23508.html#a4d14f81325ecd0bde345d60a135ad8ba", null ],
-    [ "HandleOnRemove", "d5/d31/a23508.html#aed5f87523c58d94c8f98b76c06abb140", null ],
-    [ "PrepareAuraScript", "d5/d31/a23508.html#ab32413873bec92540f9e85e8013b7ea2", null ],
-    [ "Register", "d5/d31/a23508.html#a0653d8688f98822580a3243a0d47c17a", null ]
+    [ "HandleDummyApply", "d5/d31/a23508.html#ae60ce9cdd5d68f3fd16af54acc3d6603", null ],
+    [ "HandleDummyRemove", "d5/d31/a23508.html#a368376fe4262815b9b9a9811178cec6d", null ],
+    [ "HandlePeriodicRemove", "d5/d31/a23508.html#a02a350060a9ce54be88c0ad62eac11d3", null ],
+    [ "PrepareAuraScript", "d5/d31/a23508.html#a30a7b07fc37d13f9b3a96e95940410c1", null ],
+    [ "Register", "d5/d31/a23508.html#afeb47a40cfea3d958fee7a410e83857f", null ]
 ];

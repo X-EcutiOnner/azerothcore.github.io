@@ -1,6 +1,6 @@
 var a20776 =
 [
-    [ "FilterTargets", "d8/df3/a20776.html#adaeee235184ddc36e90e532091183056", null ],
-    [ "PrepareSpellScript", "d8/df3/a20776.html#a599f604e872d3a5a4ed2b155caefdc9f", null ],
-    [ "Register", "d8/df3/a20776.html#ab79041a2536878498744555475bce5c8", null ]
+    [ "boss_yoggsaron_descend_portalAI", "d8/df3/a20776.html#a50ddd1d7b1d4a2e729657e53dfee43f2", null ],
+    [ "OnSpellClick", "d8/df3/a20776.html#aba032a7347230db028d1e939944d3f46", null ],
+    [ "_instance", "d8/df3/a20776.html#a477abf19a0b5bf9865550541877a29d7", null ]
 ];

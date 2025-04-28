@@ -1,7 +1,8 @@
 var a22540 =
 [
-    [ "HandleOnHit", "d6/d74/a22540.html#a5eee46784bfbeaad3a9af069ca7f69a7", null ],
-    [ "PrepareSpellScript", "d6/d74/a22540.html#a734b735c7e87938bff185be91f9de6e8", null ],
-    [ "Register", "d6/d74/a22540.html#a1cc140d2b5487e9dbbf107025e09e51d", null ],
-    [ "Validate", "d6/d74/a22540.html#a162f60784fdec6b748151e5c2a7ed257", null ]
+    [ "boss_tavarok", "d6/d74/a22540.html#acf2e3ec6c28a59b205442c6ed07623af", null ],
+    [ "JustDied", "d6/d74/a22540.html#a937fc1864eab7fdf23e1be1464d9666d", null ],
+    [ "JustEngagedWith", "d6/d74/a22540.html#a64cae2439cd6e4334ced5d4ef01ef942", null ],
+    [ "KilledUnit", "d6/d74/a22540.html#a2c99df9457c548ee562fde920592ea88", null ],
+    [ "Reset", "d6/d74/a22540.html#a0bea2cc724d92616056b7c5ca2dd03c1", null ]
 ];

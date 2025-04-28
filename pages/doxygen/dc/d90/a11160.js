@@ -1,7 +1,5 @@
 var a11160 =
 [
-    [ "maxvalue", "dc/d90/a11160.html#a1dd2289b0d3505cb50e8613595ad8c8e", null ],
-    [ "skill", "dc/d90/a11160.html#a8bcbe05ff6a3220f9f05f52b16925f5d", null ],
-    [ "step", "dc/d90/a11160.html#a1c882f7d43c65954cb99566225660312", null ],
-    [ "value", "dc/d90/a11160.html#a064fece53cdaf07b072510b14200a968", null ]
+    [ "groupId", "dc/d90/a11160.html#a71a218d1ea3241f0c72205f7e2f34125", null ],
+    [ "specialFlags", "dc/d90/a11160.html#a2232afb6a6b05e5ea33f40992a09621d", null ]
 ];

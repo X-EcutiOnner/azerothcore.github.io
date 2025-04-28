@@ -1,8 +1,8 @@
 var a26684 =
 [
-    [ "CheckProc", "d0/db5/a26684.html#a610313f5085c7c0109b5936e94de00fe", null ],
-    [ "OnProc", "d0/db5/a26684.html#ad87c4cbd332dc19be3bc8ec9982a385b", null ],
-    [ "PrepareAuraScript", "d0/db5/a26684.html#aae4d26e262f80681811c9b50c2a63642", null ],
-    [ "Register", "d0/db5/a26684.html#a8fdcd2b4489011294d9f58d5ff0beb3f", null ],
-    [ "Validate", "d0/db5/a26684.html#a00ef3cd4b2ee5739f5f7288ccbd6a1c6", null ]
+    [ "CalcPeriodic", "d0/db5/a26684.html#a42770d7f7e5bd41cd3f0a283c544c642", null ],
+    [ "CalculateAmount", "d0/db5/a26684.html#a525009acb345d6b0a9857c30cfce2230", null ],
+    [ "HandlePeriodic", "d0/db5/a26684.html#a4c75f793388b533d00a52ad18f18bc6e", null ],
+    [ "PrepareAuraScript", "d0/db5/a26684.html#a5627212e48a3044a9a7480851787a839", null ],
+    [ "Register", "d0/db5/a26684.html#a09ea5265d7105a4bd487d383948901a0", null ]
 ];

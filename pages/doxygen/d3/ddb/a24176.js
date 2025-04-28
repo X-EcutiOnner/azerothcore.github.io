@@ -1,12 +1,15 @@
 var a24176 =
 [
-    [ "npc_unkor_the_ruthlessAI", "d3/ddb/a24176.html#a965b0f182570a54ee4c0a6a54ba8fafb", null ],
-    [ "DamageTaken", "d3/ddb/a24176.html#a88b5e4b43171be8cc62d2a10f188e363", null ],
-    [ "DoNice", "d3/ddb/a24176.html#aa673fc892b9c0d59b2789271140e6054", null ],
-    [ "JustEngagedWith", "d3/ddb/a24176.html#a537225016bfeba51b607d250c0a09be5", null ],
-    [ "Reset", "d3/ddb/a24176.html#a14ca75417c623d6d6e5fce50521963da", null ],
-    [ "UpdateAI", "d3/ddb/a24176.html#a744ea41d7f9450965419085a296c8df2", null ],
-    [ "CanDoQuest", "d3/ddb/a24176.html#a98d7d45b450f3464291ecbc05ab31f21", null ],
-    [ "Pulverize_Timer", "d3/ddb/a24176.html#a2ddc09c9241bbf95cddb6c1c4ddfc6bd", null ],
-    [ "UnkorUnfriendly_Timer", "d3/ddb/a24176.html#ae6eeb6177d655f5a0bede45183758f1f", null ]
+    [ "dragonmaw_race_npc", "d3/ddb/a24176.html#ad93bcd14a4fd05c9e8a1aee4dd53d4aa", null ],
+    [ "FailQuest", "d3/ddb/a24176.html#a15a1223f9dc5d3979485a753687f169e", null ],
+    [ "FinishRace", "d3/ddb/a24176.html#a2439f54aca4ff28c23d351245099a4fc", null ],
+    [ "MovementInform", "d3/ddb/a24176.html#ad0b4ef357605a44a4188c29292303dcf", null ],
+    [ "PathEndReached", "d3/ddb/a24176.html#a6b93a5fb6beb8e8b886f6bf8bb58d3d2", null ],
+    [ "Reset", "d3/ddb/a24176.html#a0edde2bdb8d4d2204551ebc7a7c41fe9", null ],
+    [ "sQuestAccept", "d3/ddb/a24176.html#a539fcaf1dc25a34531d032032c19182e", null ],
+    [ "StartRace", "d3/ddb/a24176.html#ac7d20cb0f2a997d2306195da5c9004e8", null ],
+    [ "StartRaceAttacks", "d3/ddb/a24176.html#a341528843b89a29711f60a1b932da616", null ],
+    [ "TakeOff", "d3/ddb/a24176.html#a8b14aeb1e67059a159f42aad578ccbfb", null ],
+    [ "UpdateAI", "d3/ddb/a24176.html#a5d84467b3fa0c3eefcf7054d0dde472c", null ],
+    [ "_playerGUID", "d3/ddb/a24176.html#a8a172511afed700d5c0fa1d5de4cb379", null ]
 ];

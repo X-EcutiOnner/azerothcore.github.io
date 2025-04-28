@@ -1,10 +1,6 @@
 var a13868 =
 [
-    [ "boss_jeklik", "d4/dd9/a13868.html#a826bdba66fee3bb82b64ca6174b66c44", null ],
-    [ "EnterEvadeMode", "d4/dd9/a13868.html#a70dc363e0690e72846db5f779375edc1", null ],
-    [ "JustDied", "d4/dd9/a13868.html#ae648ba9ff49f4970612a8c3351789b66", null ],
-    [ "JustEngagedWith", "d4/dd9/a13868.html#aeb57cfc66104f6e2b2e36b6551207dd8", null ],
-    [ "PathEndReached", "d4/dd9/a13868.html#a689e8f91361de45e6f885fea0dec900a", null ],
-    [ "Reset", "d4/dd9/a13868.html#a7959106123e60e3584b32b50a272746c", null ],
-    [ "batRidersCount", "d4/dd9/a13868.html#a3d81395ec4518d4e2ca7f273fc658395", null ]
+    [ "boss_hakkarAI", "d6/d74/a13872.html", "d6/d74/a13872" ],
+    [ "boss_hakkar", "d4/dd9/a13868.html#a834bd1f223154fbf1be94bf43136da28", null ],
+    [ "GetAI", "d4/dd9/a13868.html#aff3a089e30dcddfde4db372104153723", null ]
 ];

@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: ThreatRefStatusChangeEvent Class Reference</title>
+<title>AzerothCore: RedirectThreatInfo Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,78 +106,38 @@ $(document).ready(function(){initNavTree('db/d81/a07808.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="#pri-attribs">Private Attributes</a> &#124;
+<a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="../../df/d6f/a07805.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">ThreatRefStatusChangeEvent Class Reference</div></div>
+  <div class="headertitle"><div class="title">RedirectThreatInfo Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">UnitEvents.h</a>&quot;</code></p>
-<div class="dynheader">
-Inheritance diagram for ThreatRefStatusChangeEvent:</div>
-<div class="dyncontent">
- <div class="center">
-  <img src="../../db/d81/a07808.png" usemap="#ThreatRefStatusChangeEvent_map" alt=""/>
-  <map id="ThreatRefStatusChangeEvent_map" name="ThreatRefStatusChangeEvent_map">
-<area href="../../d3/dd0/a07804.html" alt="UnitBaseEvent" shape="rect" coords="0,0,177,24"/>
-<area href="../../df/d10/a07816.html" alt="ThreatMgrEvent" shape="rect" coords="0,112,177,136"/>
-  </map>
-</div></div>
+<p><code>#include &quot;<a class="el" href="../../">ThreatMgr.h</a>&quot;</code></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a97d1b7a1ff9f2c6090e6dfa6d33db2c7"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d81/a07808.html#a97d1b7a1ff9f2c6090e6dfa6d33db2c7">ThreatRefStatusChangeEvent</a> (<a class="el" href="../../d5/d35/a00266.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> pType)</td></tr>
-<tr class="separator:a97d1b7a1ff9f2c6090e6dfa6d33db2c7"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a5941cfd844f89dbc371a9ef69e53f6ef"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d81/a07808.html#a5941cfd844f89dbc371a9ef69e53f6ef">ThreatRefStatusChangeEvent</a> (<a class="el" href="../../d5/d35/a00266.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> pType, <a class="el" href="../../dc/d8f/a07784.html">HostileReference</a> *pHostileReference)</td></tr>
-<tr class="separator:a5941cfd844f89dbc371a9ef69e53f6ef"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab7736e7438ab0741a66aee7cfe72b308"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d81/a07808.html#ab7736e7438ab0741a66aee7cfe72b308">ThreatRefStatusChangeEvent</a> (<a class="el" href="../../d5/d35/a00266.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> pType, <a class="el" href="../../dc/d8f/a07784.html">HostileReference</a> *pHostileReference, float pValue)</td></tr>
-<tr class="separator:ab7736e7438ab0741a66aee7cfe72b308"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a45c52c850dc6b07ea913e8e83cc32958"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d81/a07808.html#a45c52c850dc6b07ea913e8e83cc32958">ThreatRefStatusChangeEvent</a> (<a class="el" href="../../d5/d35/a00266.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> pType, <a class="el" href="../../dc/d8f/a07784.html">HostileReference</a> *pHostileReference, bool pValue)</td></tr>
-<tr class="separator:a45c52c850dc6b07ea913e8e83cc32958"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab9b40ed1c0448ee5de158c26642cacc2"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d5/d35/a00266.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d81/a07808.html#ab9b40ed1c0448ee5de158c26642cacc2">getIValue</a> () const</td></tr>
-<tr class="separator:ab9b40ed1c0448ee5de158c26642cacc2"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a660c6f8258ebb7c6abd81d51c7ff3399"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d81/a07808.html#a660c6f8258ebb7c6abd81d51c7ff3399">getFValue</a> () const</td></tr>
-<tr class="separator:a660c6f8258ebb7c6abd81d51c7ff3399"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4bd7c3ddca2aaa6a1418390b6df8ff67"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d81/a07808.html#a4bd7c3ddca2aaa6a1418390b6df8ff67">getBValue</a> () const</td></tr>
-<tr class="separator:a4bd7c3ddca2aaa6a1418390b6df8ff67"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a41735bb86d49572843cd488deb79e631"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d81/a07808.html#a41735bb86d49572843cd488deb79e631">setBValue</a> (bool pValue)</td></tr>
-<tr class="separator:a41735bb86d49572843cd488deb79e631"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af2e0a376782f16c308a11e2e158983d2"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dc/d8f/a07784.html">HostileReference</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d81/a07808.html#af2e0a376782f16c308a11e2e158983d2">getReference</a> () const</td></tr>
-<tr class="separator:af2e0a376782f16c308a11e2e158983d2"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad423b39368df27a046d7c450ec13e4e8"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d81/a07808.html#ad423b39368df27a046d7c450ec13e4e8">setThreatMgr</a> (<a class="el" href="../../dc/d41/a07792.html">ThreatMgr</a> *pThreatMgr)</td></tr>
-<tr class="separator:ad423b39368df27a046d7c450ec13e4e8"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a04a5c0824a6d0b9ec890d98a2cccb304"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dc/d41/a07792.html">ThreatMgr</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d81/a07808.html#a04a5c0824a6d0b9ec890d98a2cccb304">GetThreatMgr</a> () const</td></tr>
-<tr class="separator:a04a5c0824a6d0b9ec890d98a2cccb304"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="inherit_header pub_methods_a07804"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_a07804')"><img src="../../closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="../../d3/dd0/a07804.html">UnitBaseEvent</a></td></tr>
-<tr class="memitem:a2d4586c59a7595374d427a15924c34fd inherit pub_methods_a07804"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dd0/a07804.html#a2d4586c59a7595374d427a15924c34fd">UnitBaseEvent</a> (<a class="el" href="../../d5/d35/a00266.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> pType)</td></tr>
-<tr class="separator:a2d4586c59a7595374d427a15924c34fd inherit pub_methods_a07804"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7619b09043a8a729df77502786216aff inherit pub_methods_a07804"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d5/d35/a00266.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dd0/a07804.html#a7619b09043a8a729df77502786216aff">getType</a> () const</td></tr>
-<tr class="separator:a7619b09043a8a729df77502786216aff inherit pub_methods_a07804"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a05103aacf99310a6c9e602296d56f168 inherit pub_methods_a07804"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dd0/a07804.html#a05103aacf99310a6c9e602296d56f168">matchesTypeMask</a> (<a class="el" href="../../d5/d35/a00266.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> pMask) const</td></tr>
-<tr class="separator:a05103aacf99310a6c9e602296d56f168 inherit pub_methods_a07804"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1a3ae3042df9ca91d17a1c3320579867 inherit pub_methods_a07804"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dd0/a07804.html#a1a3ae3042df9ca91d17a1c3320579867">setType</a> (<a class="el" href="../../d5/d35/a00266.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> pType)</td></tr>
-<tr class="separator:a1a3ae3042df9ca91d17a1c3320579867 inherit pub_methods_a07804"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a23b5adf3087ddba3b92133199aa42cf8"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d81/a07808.html#a23b5adf3087ddba3b92133199aa42cf8">RedirectThreatInfo</a> ()=default</td></tr>
+<tr class="separator:a23b5adf3087ddba3b92133199aa42cf8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae206110e4d7155bb87079ebd58800e3d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d4/dca/a08384.html">ObjectGuid</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d81/a07808.html#ae206110e4d7155bb87079ebd58800e3d">GetTargetGUID</a> () const</td></tr>
+<tr class="separator:ae206110e4d7155bb87079ebd58800e3d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a58bd2c745f92625ff7eac0ddca6a23a0"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d5/db5/a00374.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d81/a07808.html#a58bd2c745f92625ff7eac0ddca6a23a0">GetThreatPct</a> () const</td></tr>
+<tr class="separator:a58bd2c745f92625ff7eac0ddca6a23a0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a140b7a0adb6e6b71b21e8d6db7125ae2"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d81/a07808.html#a140b7a0adb6e6b71b21e8d6db7125ae2">Set</a> (<a class="el" href="../../d4/dca/a08384.html">ObjectGuid</a> guid, <a class="el" href="../../d5/db5/a00374.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> pct)</td></tr>
+<tr class="separator:a140b7a0adb6e6b71b21e8d6db7125ae2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac7093218d9b8c6ea03683dd5624bde8f"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d81/a07808.html#ac7093218d9b8c6ea03683dd5624bde8f">ModifyThreatPct</a> (<a class="el" href="../../d5/db5/a00374.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> amount)</td></tr>
+<tr class="separator:ac7093218d9b8c6ea03683dd5624bde8f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
-Private Attributes</h2></td></tr>
-<tr class="memitem:aac0bfb3a87cda0f2cc025fce75d0b46a"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dc/d8f/a07784.html">HostileReference</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d81/a07808.html#aac0bfb3a87cda0f2cc025fce75d0b46a">iHostileReference</a></td></tr>
-<tr class="separator:aac0bfb3a87cda0f2cc025fce75d0b46a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7d0e52f2cb8b25f5078e0c785230d11b"><td class="memItemLeft" >union {</td></tr>
-<tr class="memitem:ae2e41e4102df334982418d853d065504"><td class="memItemLeft" >&#160;&#160;&#160;float&#160;&#160;&#160;<a class="el" href="../../db/d81/a07808.html#a057aab2519feac28e980e53c364f4358">iFValue</a></td></tr>
-<tr class="separator:ae2e41e4102df334982418d853d065504"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a3057f09e1c36289b6520870cdf6d63f4"><td class="memItemLeft" >&#160;&#160;&#160;<a class="el" href="../../d5/d35/a00266.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>&#160;&#160;&#160;<a class="el" href="../../db/d81/a07808.html#a10f8d82c037d0e742b3c9742489d1da9">iIValue</a></td></tr>
-<tr class="separator:a3057f09e1c36289b6520870cdf6d63f4"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2fb21e97885359916bb70f47175f373e"><td class="memItemLeft" >&#160;&#160;&#160;bool&#160;&#160;&#160;<a class="el" href="../../db/d81/a07808.html#a24f3b0ec126bc8d432c9662854065964">iBValue</a></td></tr>
-<tr class="separator:a2fb21e97885359916bb70f47175f373e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7d0e52f2cb8b25f5078e0c785230d11b"><td class="memItemLeft" valign="top">};&#160;</td><td class="memItemRight" valign="bottom"></td></tr>
-<tr class="separator:a7d0e52f2cb8b25f5078e0c785230d11b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad84ffd2fd4064073aafcda27a250da5d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dc/d41/a07792.html">ThreatMgr</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d81/a07808.html#ad84ffd2fd4064073aafcda27a250da5d">iThreatMgr</a></td></tr>
-<tr class="separator:ad84ffd2fd4064073aafcda27a250da5d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
+Public Attributes</h2></td></tr>
+<tr class="memitem:a98f9efc5209ef7200e71ff39310520dd"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d4/dca/a08384.html">ObjectGuid</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d81/a07808.html#a98f9efc5209ef7200e71ff39310520dd">_targetGUID</a></td></tr>
+<tr class="separator:a98f9efc5209ef7200e71ff39310520dd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a95d6d366d664888f532d40afd1cc57d2"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d5/db5/a00374.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d81/a07808.html#a95d6d366d664888f532d40afd1cc57d2">_threatPct</a> { 0 }</td></tr>
+<tr class="separator:a95d6d366d664888f532d40afd1cc57d2"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="a97d1b7a1ff9f2c6090e6dfa6d33db2c7" name="a97d1b7a1ff9f2c6090e6dfa6d33db2c7"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a97d1b7a1ff9f2c6090e6dfa6d33db2c7">&#9670;&#160;</a></span>ThreatRefStatusChangeEvent() <span class="overload">[1/4]</span></h2>
+<a id="a23b5adf3087ddba3b92133199aa42cf8" name="a23b5adf3087ddba3b92133199aa42cf8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a23b5adf3087ddba3b92133199aa42cf8">&#9670;&#160;</a></span>RedirectThreatInfo()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -186,162 +146,24 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">ThreatRefStatusChangeEvent::ThreatRefStatusChangeEvent </td>
+          <td class="memname">RedirectThreatInfo::RedirectThreatInfo </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d5/d35/a00266.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>pType</em></td><td>)</td>
+          <td class="paramname"></td><td>)</td>
           <td></td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+<span class="mlabels"><span class="mlabel">default</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   95</span>: <a class="code hl_class" href="../../d3/dd0/a07804.html">UnitBaseEvent</a>(pType), <a class="code hl_variable" href="../../db/d81/a07808.html#ad84ffd2fd4064073aafcda27a250da5d">iThreatMgr</a>(<span class="keyword">nullptr</span>) { <a class="code hl_variable" href="../../db/d81/a07808.html#aac0bfb3a87cda0f2cc025fce75d0b46a">iHostileReference</a> = <span class="keyword">nullptr</span>; }</div>
-<div class="ttc" id="aa07804_html"><div class="ttname"><a href="../../d3/dd0/a07804.html">UnitBaseEvent</a></div><div class="ttdef"><b>Definition:</b> UnitEvents.h:70</div></div>
-<div class="ttc" id="aa07808_html_aac0bfb3a87cda0f2cc025fce75d0b46a"><div class="ttname"><a href="../../db/d81/a07808.html#aac0bfb3a87cda0f2cc025fce75d0b46a">ThreatRefStatusChangeEvent::iHostileReference</a></div><div class="ttdeci">HostileReference * iHostileReference</div><div class="ttdef"><b>Definition:</b> UnitEvents.h:86</div></div>
-<div class="ttc" id="aa07808_html_ad84ffd2fd4064073aafcda27a250da5d"><div class="ttname"><a href="../../db/d81/a07808.html#ad84ffd2fd4064073aafcda27a250da5d">ThreatRefStatusChangeEvent::iThreatMgr</a></div><div class="ttdeci">ThreatMgr * iThreatMgr</div><div class="ttdef"><b>Definition:</b> UnitEvents.h:93</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00086">iHostileReference</a>.</p>
-
-</div>
-</div>
-<a id="a5941cfd844f89dbc371a9ef69e53f6ef" name="a5941cfd844f89dbc371a9ef69e53f6ef"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a5941cfd844f89dbc371a9ef69e53f6ef">&#9670;&#160;</a></span>ThreatRefStatusChangeEvent() <span class="overload">[2/4]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">ThreatRefStatusChangeEvent::ThreatRefStatusChangeEvent </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d5/d35/a00266.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>pType</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../dc/d8f/a07784.html">HostileReference</a> *&#160;</td>
-          <td class="paramname"><em>pHostileReference</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   97</span>: <a class="code hl_class" href="../../d3/dd0/a07804.html">UnitBaseEvent</a>(pType), <a class="code hl_variable" href="../../db/d81/a07808.html#ad84ffd2fd4064073aafcda27a250da5d">iThreatMgr</a>(<span class="keyword">nullptr</span>) { <a class="code hl_variable" href="../../db/d81/a07808.html#aac0bfb3a87cda0f2cc025fce75d0b46a">iHostileReference</a> = pHostileReference; }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00086">iHostileReference</a>.</p>
-
-</div>
-</div>
-<a id="ab7736e7438ab0741a66aee7cfe72b308" name="ab7736e7438ab0741a66aee7cfe72b308"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab7736e7438ab0741a66aee7cfe72b308">&#9670;&#160;</a></span>ThreatRefStatusChangeEvent() <span class="overload">[3/4]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">ThreatRefStatusChangeEvent::ThreatRefStatusChangeEvent </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d5/d35/a00266.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>pType</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../dc/d8f/a07784.html">HostileReference</a> *&#160;</td>
-          <td class="paramname"><em>pHostileReference</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">float&#160;</td>
-          <td class="paramname"><em>pValue</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   99</span>: <a class="code hl_class" href="../../d3/dd0/a07804.html">UnitBaseEvent</a>(pType), <a class="code hl_variable" href="../../db/d81/a07808.html#ad84ffd2fd4064073aafcda27a250da5d">iThreatMgr</a>(<span class="keyword">nullptr</span>) { <a class="code hl_variable" href="../../db/d81/a07808.html#aac0bfb3a87cda0f2cc025fce75d0b46a">iHostileReference</a> = pHostileReference; <a class="code hl_variable" href="../../db/d81/a07808.html#a057aab2519feac28e980e53c364f4358">iFValue</a> = pValue; }</div>
-<div class="ttc" id="aa07808_html_a057aab2519feac28e980e53c364f4358"><div class="ttname"><a href="../../db/d81/a07808.html#a057aab2519feac28e980e53c364f4358">ThreatRefStatusChangeEvent::iFValue</a></div><div class="ttdeci">float iFValue</div><div class="ttdef"><b>Definition:</b> UnitEvents.h:89</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00089">iFValue</a>, and <a class="el" href="../../#l00086">iHostileReference</a>.</p>
-
-</div>
-</div>
-<a id="a45c52c850dc6b07ea913e8e83cc32958" name="a45c52c850dc6b07ea913e8e83cc32958"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a45c52c850dc6b07ea913e8e83cc32958">&#9670;&#160;</a></span>ThreatRefStatusChangeEvent() <span class="overload">[4/4]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">ThreatRefStatusChangeEvent::ThreatRefStatusChangeEvent </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d5/d35/a00266.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>pType</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../dc/d8f/a07784.html">HostileReference</a> *&#160;</td>
-          <td class="paramname"><em>pHostileReference</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">bool&#160;</td>
-          <td class="paramname"><em>pValue</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  101</span>: <a class="code hl_class" href="../../d3/dd0/a07804.html">UnitBaseEvent</a>(pType), <a class="code hl_variable" href="../../db/d81/a07808.html#ad84ffd2fd4064073aafcda27a250da5d">iThreatMgr</a>(<span class="keyword">nullptr</span>) { <a class="code hl_variable" href="../../db/d81/a07808.html#aac0bfb3a87cda0f2cc025fce75d0b46a">iHostileReference</a> = pHostileReference; <a class="code hl_variable" href="../../db/d81/a07808.html#a24f3b0ec126bc8d432c9662854065964">iBValue</a> = pValue; }</div>
-<div class="ttc" id="aa07808_html_a24f3b0ec126bc8d432c9662854065964"><div class="ttname"><a href="../../db/d81/a07808.html#a24f3b0ec126bc8d432c9662854065964">ThreatRefStatusChangeEvent::iBValue</a></div><div class="ttdeci">bool iBValue</div><div class="ttdef"><b>Definition:</b> UnitEvents.h:91</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00091">iBValue</a>, and <a class="el" href="../../#l00086">iHostileReference</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
-<a id="a4bd7c3ddca2aaa6a1418390b6df8ff67" name="a4bd7c3ddca2aaa6a1418390b6df8ff67"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4bd7c3ddca2aaa6a1418390b6df8ff67">&#9670;&#160;</a></span>getBValue()</h2>
+<a id="ae206110e4d7155bb87079ebd58800e3d" name="ae206110e4d7155bb87079ebd58800e3d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae206110e4d7155bb87079ebd58800e3d">&#9670;&#160;</a></span>GetTargetGUID()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -350,7 +172,7 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">bool ThreatRefStatusChangeEvent::getBValue </td>
+          <td class="memname"><a class="el" href="../../d4/dca/a08384.html">ObjectGuid</a> RedirectThreatInfo::GetTargetGUID </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td> const</td>
@@ -362,14 +184,17 @@ Private Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  107</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../db/d81/a07808.html#a24f3b0ec126bc8d432c9662854065964">iBValue</a>; }</div>
+<div class="fragment"><div class="line"><span class="lineno">  298</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../db/d81/a07808.html#a98f9efc5209ef7200e71ff39310520dd">_targetGUID</a>; }</div>
+<div class="ttc" id="aa07808_html_a98f9efc5209ef7200e71ff39310520dd"><div class="ttname"><a href="../../db/d81/a07808.html#a98f9efc5209ef7200e71ff39310520dd">RedirectThreatInfo::_targetGUID</a></div><div class="ttdeci">ObjectGuid _targetGUID</div><div class="ttdef"><b>Definition:</b> ThreatMgr.h:295</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00091">iBValue</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00295">_targetGUID</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l19561">Unit::GetRedirectThreatTarget()</a>.</p>
 
 </div>
 </div>
-<a id="a660c6f8258ebb7c6abd81d51c7ff3399" name="a660c6f8258ebb7c6abd81d51c7ff3399"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a660c6f8258ebb7c6abd81d51c7ff3399">&#9670;&#160;</a></span>getFValue()</h2>
+<a id="a58bd2c745f92625ff7eac0ddca6a23a0" name="a58bd2c745f92625ff7eac0ddca6a23a0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a58bd2c745f92625ff7eac0ddca6a23a0">&#9670;&#160;</a></span>GetThreatPct()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -378,7 +203,7 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">float ThreatRefStatusChangeEvent::getFValue </td>
+          <td class="memname"><a class="el" href="../../d5/db5/a00374.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> RedirectThreatInfo::GetThreatPct </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td> const</td>
@@ -390,16 +215,17 @@ Private Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  105</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../db/d81/a07808.html#a057aab2519feac28e980e53c364f4358">iFValue</a>; }</div>
+<div class="fragment"><div class="line"><span class="lineno">  299</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../db/d81/a07808.html#a95d6d366d664888f532d40afd1cc57d2">_threatPct</a>; }</div>
+<div class="ttc" id="aa07808_html_a95d6d366d664888f532d40afd1cc57d2"><div class="ttname"><a href="../../db/d81/a07808.html#a95d6d366d664888f532d40afd1cc57d2">RedirectThreatInfo::_threatPct</a></div><div class="ttdeci">uint32 _threatPct</div><div class="ttdef"><b>Definition:</b> ThreatMgr.h:296</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00089">iFValue</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00296">_threatPct</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00585">ThreatMgr::processThreatEvent()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00922">Unit::GetRedirectThreatPercent()</a>.</p>
 
 </div>
 </div>
-<a id="ab9b40ed1c0448ee5de158c26642cacc2" name="ab9b40ed1c0448ee5de158c26642cacc2"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab9b40ed1c0448ee5de158c26642cacc2">&#9670;&#160;</a></span>getIValue()</h2>
+<a id="ac7093218d9b8c6ea03683dd5624bde8f" name="ac7093218d9b8c6ea03683dd5624bde8f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac7093218d9b8c6ea03683dd5624bde8f">&#9670;&#160;</a></span>ModifyThreatPct()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -408,97 +234,10 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d5/d35/a00266.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> ThreatRefStatusChangeEvent::getIValue </td>
+          <td class="memname">void RedirectThreatInfo::ModifyThreatPct </td>
           <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  103</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../db/d81/a07808.html#a10f8d82c037d0e742b3c9742489d1da9">iIValue</a>; }</div>
-<div class="ttc" id="aa07808_html_a10f8d82c037d0e742b3c9742489d1da9"><div class="ttname"><a href="../../db/d81/a07808.html#a10f8d82c037d0e742b3c9742489d1da9">ThreatRefStatusChangeEvent::iIValue</a></div><div class="ttdeci">int32 iIValue</div><div class="ttdef"><b>Definition:</b> UnitEvents.h:90</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00090">iIValue</a>.</p>
-
-</div>
-</div>
-<a id="af2e0a376782f16c308a11e2e158983d2" name="af2e0a376782f16c308a11e2e158983d2"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af2e0a376782f16c308a11e2e158983d2">&#9670;&#160;</a></span>getReference()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../dc/d8f/a07784.html">HostileReference</a> * ThreatRefStatusChangeEvent::getReference </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  111</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../db/d81/a07808.html#aac0bfb3a87cda0f2cc025fce75d0b46a">iHostileReference</a>; }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00086">iHostileReference</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00585">ThreatMgr::processThreatEvent()</a>.</p>
-
-</div>
-</div>
-<a id="a04a5c0824a6d0b9ec890d98a2cccb304" name="a04a5c0824a6d0b9ec890d98a2cccb304"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a04a5c0824a6d0b9ec890d98a2cccb304">&#9670;&#160;</a></span>GetThreatMgr()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../dc/d41/a07792.html">ThreatMgr</a> * ThreatRefStatusChangeEvent::GetThreatMgr </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  115</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../db/d81/a07808.html#ad84ffd2fd4064073aafcda27a250da5d">iThreatMgr</a>; }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00093">iThreatMgr</a>.</p>
-
-</div>
-</div>
-<a id="a41735bb86d49572843cd488deb79e631" name="a41735bb86d49572843cd488deb79e631"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a41735bb86d49572843cd488deb79e631">&#9670;&#160;</a></span>setBValue()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">void ThreatRefStatusChangeEvent::setBValue </td>
-          <td>(</td>
-          <td class="paramtype">bool&#160;</td>
-          <td class="paramname"><em>pValue</em></td><td>)</td>
+          <td class="paramtype"><a class="el" href="../../d5/db5/a00374.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>&#160;</td>
+          <td class="paramname"><em>amount</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
@@ -508,14 +247,20 @@ Private Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  109</span>{ <a class="code hl_variable" href="../../db/d81/a07808.html#a24f3b0ec126bc8d432c9662854065964">iBValue</a> = pValue; }</div>
+<div class="fragment"><div class="line"><span class="lineno">  308</span>    {</div>
+<div class="line"><span class="lineno">  309</span>        amount += <a class="code hl_variable" href="../../db/d81/a07808.html#a95d6d366d664888f532d40afd1cc57d2">_threatPct</a>;</div>
+<div class="line"><span class="lineno">  310</span>        <a class="code hl_variable" href="../../db/d81/a07808.html#a95d6d366d664888f532d40afd1cc57d2">_threatPct</a> = <a class="code hl_typedef" href="../../d5/db5/a00374.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>(std::max(0, amount));</div>
+<div class="line"><span class="lineno">  311</span>    }</div>
+<div class="ttc" id="aa00374_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../d5/db5/a00374.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00091">iBValue</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00296">_threatPct</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00921">Unit::ModifyRedirectThreat()</a>.</p>
 
 </div>
 </div>
-<a id="ad423b39368df27a046d7c450ec13e4e8" name="ad423b39368df27a046d7c450ec13e4e8"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad423b39368df27a046d7c450ec13e4e8">&#9670;&#160;</a></span>setThreatMgr()</h2>
+<a id="a140b7a0adb6e6b71b21e8d6db7125ae2" name="a140b7a0adb6e6b71b21e8d6db7125ae2"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a140b7a0adb6e6b71b21e8d6db7125ae2">&#9670;&#160;</a></span>Set()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -524,11 +269,21 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">void ThreatRefStatusChangeEvent::setThreatMgr </td>
+          <td class="memname">void RedirectThreatInfo::Set </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../dc/d41/a07792.html">ThreatMgr</a> *&#160;</td>
-          <td class="paramname"><em>pThreatMgr</em></td><td>)</td>
+          <td class="paramtype"><a class="el" href="../../d4/dca/a08384.html">ObjectGuid</a>&#160;</td>
+          <td class="paramname"><em>guid</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
           <td></td>
+          <td class="paramtype"><a class="el" href="../../d5/db5/a00374.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>pct</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
   </td>
@@ -537,122 +292,47 @@ Private Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  113</span>{ <a class="code hl_variable" href="../../db/d81/a07808.html#ad84ffd2fd4064073aafcda27a250da5d">iThreatMgr</a> = pThreatMgr; }</div>
+<div class="fragment"><div class="line"><span class="lineno">  302</span>    {</div>
+<div class="line"><span class="lineno">  303</span>        <a class="code hl_variable" href="../../db/d81/a07808.html#a98f9efc5209ef7200e71ff39310520dd">_targetGUID</a> = guid;</div>
+<div class="line"><span class="lineno">  304</span>        <a class="code hl_variable" href="../../db/d81/a07808.html#a95d6d366d664888f532d40afd1cc57d2">_threatPct</a> = pct;</div>
+<div class="line"><span class="lineno">  305</span>    }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00093">iThreatMgr</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00295">_targetGUID</a>, and <a class="el" href="../../#l00296">_threatPct</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00585">ThreatMgr::processThreatEvent()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00919">Unit::SetRedirectThreat()</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="a7d0e52f2cb8b25f5078e0c785230d11b" name="a7d0e52f2cb8b25f5078e0c785230d11b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a7d0e52f2cb8b25f5078e0c785230d11b">&#9670;&#160;</a></span></h2>
+<a id="a98f9efc5209ef7200e71ff39310520dd" name="a98f9efc5209ef7200e71ff39310520dd"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a98f9efc5209ef7200e71ff39310520dd">&#9670;&#160;</a></span>_targetGUID</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">union  { ... }  ThreatRefStatusChangeEvent::@224</td>
+          <td class="memname"><a class="el" href="../../d4/dca/a08384.html">ObjectGuid</a> RedirectThreatInfo::_targetGUID</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
+<p class="reference">Referenced by <a class="el" href="../../#l00298">GetTargetGUID()</a>, and <a class="el" href="../../#l00301">Set()</a>.</p>
+
 </div>
 </div>
-<a id="a24f3b0ec126bc8d432c9662854065964" name="a24f3b0ec126bc8d432c9662854065964"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a24f3b0ec126bc8d432c9662854065964">&#9670;&#160;</a></span>iBValue</h2>
+<a id="a95d6d366d664888f532d40afd1cc57d2" name="a95d6d366d664888f532d40afd1cc57d2"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a95d6d366d664888f532d40afd1cc57d2">&#9670;&#160;</a></span>_threatPct</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">bool ThreatRefStatusChangeEvent::iBValue</td>
+          <td class="memname"><a class="el" href="../../d5/db5/a00374.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> RedirectThreatInfo::_threatPct { 0 }</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00107">getBValue()</a>, <a class="el" href="../../#l00109">setBValue()</a>, and <a class="el" href="../../#l00101">ThreatRefStatusChangeEvent()</a>.</p>
-
-</div>
-</div>
-<a id="a057aab2519feac28e980e53c364f4358" name="a057aab2519feac28e980e53c364f4358"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a057aab2519feac28e980e53c364f4358">&#9670;&#160;</a></span>iFValue</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">float ThreatRefStatusChangeEvent::iFValue</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00105">getFValue()</a>, and <a class="el" href="../../#l00099">ThreatRefStatusChangeEvent()</a>.</p>
-
-</div>
-</div>
-<a id="aac0bfb3a87cda0f2cc025fce75d0b46a" name="aac0bfb3a87cda0f2cc025fce75d0b46a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aac0bfb3a87cda0f2cc025fce75d0b46a">&#9670;&#160;</a></span>iHostileReference</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../dc/d8f/a07784.html">HostileReference</a>* ThreatRefStatusChangeEvent::iHostileReference</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00111">getReference()</a>, and <a class="el" href="../../#l00095">ThreatRefStatusChangeEvent()</a>.</p>
-
-</div>
-</div>
-<a id="a10f8d82c037d0e742b3c9742489d1da9" name="a10f8d82c037d0e742b3c9742489d1da9"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a10f8d82c037d0e742b3c9742489d1da9">&#9670;&#160;</a></span>iIValue</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d5/d35/a00266.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> ThreatRefStatusChangeEvent::iIValue</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00103">getIValue()</a>.</p>
-
-</div>
-</div>
-<a id="ad84ffd2fd4064073aafcda27a250da5d" name="ad84ffd2fd4064073aafcda27a250da5d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad84ffd2fd4064073aafcda27a250da5d">&#9670;&#160;</a></span>iThreatMgr</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../dc/d41/a07792.html">ThreatMgr</a>* ThreatRefStatusChangeEvent::iThreatMgr</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00115">GetThreatMgr()</a>, and <a class="el" href="../../#l00113">setThreatMgr()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00299">GetThreatPct()</a>, <a class="el" href="../../#l00307">ModifyThreatPct()</a>, and <a class="el" href="../../#l00301">Set()</a>.</p>
 
 </div>
 </div>
@@ -661,8 +341,8 @@ Private Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../db/d81/a07808.html">ThreatRefStatusChangeEvent</a></li>
-    <li class="footer">Generated on Mon Mar 3 2025 20:46:14 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../db/d81/a07808.html">RedirectThreatInfo</a></li>
+    <li class="footer">Generated on Mon Apr 28 2025 20:45:02 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

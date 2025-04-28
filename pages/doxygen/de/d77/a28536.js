@@ -1,9 +1,20 @@
 var a28536 =
 [
-    [ "MapTiles", "de/d77/a28536.html#abc58d7154eab45ae26df27e2e82dac63", null ],
-    [ "MapTiles", "de/d77/a28536.html#a406efc53593b5bceb0a491c0b7553350", null ],
-    [ "~MapTiles", "de/d77/a28536.html#aec1baac21c06380ba71ff5e610152519", null ],
-    [ "operator==", "de/d77/a28536.html#a3e7a87f421e8eb23926afe1d0978c3b4", null ],
-    [ "m_mapId", "de/d77/a28536.html#a2fc10edf226a6f4548c2175e1013c1b9", null ],
-    [ "m_tiles", "de/d77/a28536.html#ab80305bb73234e35a528701d775954b5", null ]
+    [ "Record", "de/d77/a28536.html#a51a9cc006bb8530fe76452c1bbe7985c", null ],
+    [ "Record", "de/d77/a28536.html#a51a9cc006bb8530fe76452c1bbe7985c", null ],
+    [ "getByte", "de/d77/a28536.html#ab1897952fa01e930caffa262519645c5", null ],
+    [ "getFloat", "de/d77/a28536.html#a3e6402dcebb5adc1becccdc2bbf39758", null ],
+    [ "getFloat", "de/d77/a28536.html#a3e6402dcebb5adc1becccdc2bbf39758", null ],
+    [ "getInt", "de/d77/a28536.html#a80c4d8d3ae4a5a42ed1dc9a9edcd6747", null ],
+    [ "getInt", "de/d77/a28536.html#a80c4d8d3ae4a5a42ed1dc9a9edcd6747", null ],
+    [ "getString", "de/d77/a28536.html#a3e330e9888e740bc16d4ba173c90c8d9", null ],
+    [ "getString", "de/d77/a28536.html#a3e330e9888e740bc16d4ba173c90c8d9", null ],
+    [ "getUInt", "de/d77/a28536.html#ace0215b88ffbaf83c69a82cde51cd45f", null ],
+    [ "getUInt", "de/d77/a28536.html#ace0215b88ffbaf83c69a82cde51cd45f", null ],
+    [ "operator=", "de/d77/a28536.html#a25c6e7d3b28aade82eb52d41515f0427", null ],
+    [ "DBCFile", "de/d77/a28536.html#a6c4f02b14caa99337bbe77b30e5615ab", null ],
+    [ "DBCFile::Iterator", "de/d77/a28536.html#a56d48f82a62e25038bf9cf339e608083", null ],
+    [ "Iterator", "de/d77/a28536.html#a9830fc407400559db7e7783cc10a9394", null ],
+    [ "file", "de/d77/a28536.html#adffc3b9545883356dd9bed0a0613a1fe", null ],
+    [ "offset", "de/d77/a28536.html#ae76eb8b329fb6d580aa42484de46c95e", null ]
 ];

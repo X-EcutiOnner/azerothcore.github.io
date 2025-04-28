@@ -1,6 +1,5 @@
 var a00665 =
 [
-    [ "PointMovementGenerator< T >", "d9/d1d/a09953.html", "d9/d1d/a09953" ],
-    [ "AssistanceMovementGenerator", "da/d34/a09957.html", "da/d34/a09957" ],
-    [ "EffectMovementGenerator", "d7/d3c/a09961.html", "d7/d3c/a09961" ]
+    [ "group_commandscript", "d6/d12/a11608.html", "d6/d12/a11608" ],
+    [ "AddSC_group_commandscript", "da/d46/a00665.html#ac4c9434ed910cd9636e0a8644a8e91e1", null ]
 ];

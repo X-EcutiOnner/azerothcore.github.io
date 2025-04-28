@@ -1,7 +1,8 @@
 var a17840 =
 [
-    [ "HandleScript", "d9/dcc/a17840.html#aa579f99f704f4db50b38b5f9b87259d7", null ],
-    [ "PrepareSpellScript", "d9/dcc/a17840.html#a92a6f2b0d5a0845e35c07d0b5cefe053", null ],
-    [ "Register", "d9/dcc/a17840.html#a2278ecef3dc60082ccb8964a34e55587", null ],
-    [ "Validate", "d9/dcc/a17840.html#aeee94330ee7ea9b4fd7447e642404119", null ]
+    [ "HandleScript", "d9/dcc/a17840.html#a9f3cef57312626ae1884c36ad4bfdca6", null ],
+    [ "PrepareSpellScript", "d9/dcc/a17840.html#a2ba03324afacf8da8e5fe6bc725e4d2f", null ],
+    [ "Register", "d9/dcc/a17840.html#a9b0e0427b7f8abbd0e9d556ccc581aeb", null ],
+    [ "SelectTarget", "d9/dcc/a17840.html#a36d575c6a63e94905bf435bc9d39e588", null ],
+    [ "Validate", "d9/dcc/a17840.html#afc4a6277e3a7419b6a4aaa99f6697b91", null ]
 ];

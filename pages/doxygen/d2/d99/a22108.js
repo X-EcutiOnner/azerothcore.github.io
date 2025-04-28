@@ -1,6 +1,9 @@
 var a22108 =
 [
-    [ "npc_time_lost_proto_drakeAI", "d8/d46/a22112.html", "d8/d46/a22112" ],
-    [ "npc_time_lost_proto_drake", "d2/d99/a22108.html#a6fda9f8b0d4e61e88e2a82d101d9c69e", null ],
-    [ "GetAI", "d2/d99/a22108.html#a8b463fe7a85b0b1526c2f99ed7aeefa2", null ]
+    [ "npc_engineer_heliceAI", "d2/d99/a22108.html#ab9d82a7d2886a0cc4edbc2f4c4c81341", null ],
+    [ "JustDied", "d2/d99/a22108.html#aba224727b86a2bfc39a47b70b424ccef", null ],
+    [ "Reset", "d2/d99/a22108.html#ade3f7f526dd8973c155aafb939db3778", null ],
+    [ "UpdateAI", "d2/d99/a22108.html#a1c333511dd6e82cd22af111e12a701c4", null ],
+    [ "WaypointReached", "d2/d99/a22108.html#a065698e61f0b7769ad2f58614c02ad5b", null ],
+    [ "m_uiChatTimer", "d2/d99/a22108.html#aa305bc2b5711d0745650f80275204ea8", null ]
 ];

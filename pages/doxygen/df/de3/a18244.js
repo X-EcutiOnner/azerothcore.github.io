@@ -1,6 +1,9 @@
 var a18244 =
 [
-    [ "npc_icc_lk_checktargetAI", "d5/d29/a18248.html", "d5/d29/a18248" ],
-    [ "npc_icc_lk_checktarget", "df/de3/a18244.html#a3a2cc943e731e472694dcb13417090da", null ],
-    [ "GetAI", "df/de3/a18244.html#a2cd9a5c7fec791ba8786cf1bb5b7c8bd", null ]
+    [ "HandleScript", "df/de3/a18244.html#adaab7b03edc6ff147e856dc0cdfc5ad0", null ],
+    [ "Load", "df/de3/a18244.html#aa2a5488ff4706a44350bd969d57a99e1", null ],
+    [ "PrepareSpellScript", "df/de3/a18244.html#a73931c9434114749b9db648665153083", null ],
+    [ "Register", "df/de3/a18244.html#a16b01725a1b2a105df365e0b178a4f0f", null ],
+    [ "SelectTarget", "df/de3/a18244.html#a95be527c43ceeb4801f4e494753c1b59", null ],
+    [ "_target", "df/de3/a18244.html#a2e97dd4fd1fd2ea2ba8bf3d335711de8", null ]
 ];

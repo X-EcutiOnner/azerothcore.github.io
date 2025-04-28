@@ -1,6 +1,6 @@
 var a18572 =
 [
-    [ "PrepareSpellScript", "d8/d68/a18572.html#aac12da39c503615036120e3e0cd55622", null ],
-    [ "Register", "d8/d68/a18572.html#a808d2283be9714c14f22a2df0a52dd61", null ],
-    [ "RelocateDest", "d8/d68/a18572.html#a843c9dc403404ddd2de667e57e01f00c", null ]
+    [ "npc_impaling_spearAI", "d0/dd1/a18576.html", "d0/dd1/a18576" ],
+    [ "npc_impaling_spear", "d8/d68/a18572.html#af546ed9684fc085ad651bf5bd93e5bf7", null ],
+    [ "GetAI", "d8/d68/a18572.html#aad49164a3e7541b755c1c622b996bb9a", null ]
 ];

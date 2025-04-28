@@ -1,7 +1,8 @@
 var a22696 =
 [
-    [ "PrepareAuraScript", "df/de2/a22696.html#ae6879f1d8c27f19cf3e3ada0b34d568f", null ],
-    [ "ReflectDamage", "df/de2/a22696.html#acde2cbf4d196cba1fa2c02393c08fe9f", null ],
-    [ "Register", "df/de2/a22696.html#aa1f27d25209f14dd8bf711bc15cb9165", null ],
-    [ "Validate", "df/de2/a22696.html#aa730b912aadcde53f6cd94c2a8c99493", null ]
+    [ "Load", "df/de2/a22696.html#a4ff26763f05b07d882cd8d209464910e", null ],
+    [ "OnPeriodic", "df/de2/a22696.html#a3e3bb503a6b5f90741a4df668851accf", null ],
+    [ "PrepareAuraScript", "df/de2/a22696.html#a4126d35669859963f10ed1425a054298", null ],
+    [ "Register", "df/de2/a22696.html#adb6a44892d80aeaaf4c15c71a47f422e", null ],
+    [ "Validate", "df/de2/a22696.html#a22d6c338ea1f2af9be0eb02aceba42bd", null ]
 ];

@@ -1,6 +1,6 @@
 var a21264 =
 [
-    [ "npc_azure_invaderAI", "d6/d34/a21268.html", "d6/d34/a21268" ],
-    [ "npc_azure_invader", "db/ded/a21264.html#ab318178a618f2bfdcd5ea3105c240d32", null ],
-    [ "GetAI", "db/ded/a21264.html#a19c000084ea74a401ece81ee0e20b65c", null ]
+    [ "HandleEffectPeriodic", "db/ded/a21264.html#a508ff9e362d586497839aa29ceae1227", null ],
+    [ "PrepareAuraScript", "db/ded/a21264.html#a4e7d5317d28207136b1fd3477a51ae06", null ],
+    [ "Register", "db/ded/a21264.html#a4b08cefe7d334635b70d389cc9df4901", null ]
 ];

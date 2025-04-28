@@ -1,12 +1,6 @@
 var a13236 =
 [
-    [ "npc_kiljaeden_controller", "d6/d01/a13236.html#aabe4e5af5ad142bac6cdaa4f6787a7bc", null ],
-    [ "JustDied", "d6/d01/a13236.html#a86c4d79a8caf8a838e353bbf1b78c56d", null ],
-    [ "JustSummoned", "d6/d01/a13236.html#af28211012d8398a450439b8e24bf60ce", null ],
-    [ "Reset", "d6/d01/a13236.html#a11f6f8e86c3ecdecf8e4c5bcb76f8664", null ],
-    [ "ResetOrbs", "d6/d01/a13236.html#a4daacfe92ddb39ade57df3a1bbcd79fd", null ],
-    [ "SummonedCreatureDies", "d6/d01/a13236.html#aed2772552dd500c180c3db4aeef8359a", null ],
-    [ "UpdateAI", "d6/d01/a13236.html#a9f24328d9ffd94ecf3d15303a71acb9b", null ],
-    [ "instance", "d6/d01/a13236.html#a2cb872334b9dd6a4f87468b41f164fc4", null ],
-    [ "summons", "d6/d01/a13236.html#a116a739b2bff3257b35ff7946a3d1995", null ]
+    [ "SpectralBlastCheck", "d6/d01/a13236.html#ada2eda8781891a4049ee30c5ecb81c3c", null ],
+    [ "operator()", "d6/d01/a13236.html#afbe13a5f90a5b95832e14fe9d7affc9f", null ],
+    [ "_victim", "d6/d01/a13236.html#ab96456159d61e781aa8d691dd0b1fec1", null ]
 ];

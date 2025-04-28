@@ -1,6 +1,8 @@
 var a12644 =
 [
-    [ "npc_grandmother", "d8/d73/a12644.html#a6cffe8c574859779f6561dde0aef9666", null ],
-    [ "OnGossipHello", "d8/d73/a12644.html#ae39335d22b5fd1fc4c0f9d34e8977124", null ],
-    [ "OnGossipSelect", "d8/d73/a12644.html#a0e2b684377ed593abfbb49b730cfe9b2", null ]
+    [ "npc_tito", "d8/d73/a12644.html#a0b3b1750e8b8840e50d27d22ebddb7c8", null ],
+    [ "JustEngagedWith", "d8/d73/a12644.html#a71335c1474e8a29edf76addacb737fa9", null ],
+    [ "UpdateAI", "d8/d73/a12644.html#ac357c29e68d8480d94349da844efd3ad", null ],
+    [ "_scheduler", "d8/d73/a12644.html#a96c47ca2e66bb984dfd2cfefa6bde643", null ],
+    [ "instance", "d8/d73/a12644.html#a9eecd226486e52d559ae1a30687bf0eb", null ]
 ];

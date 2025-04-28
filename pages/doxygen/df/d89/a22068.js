@@ -1,7 +1,6 @@
 var a22068 =
 [
-    [ "HandleSendEvent", "df/d89/a22068.html#afd34935d8ab7d66589ca3c99ba0bfe48", null ],
-    [ "PrepareSpellScript", "df/d89/a22068.html#af698a946e07235c18c8b785a1f775ec9", null ],
-    [ "Register", "df/d89/a22068.html#a3f6a7e6265221e9536728256f1ec88c0", null ],
-    [ "Validate", "df/d89/a22068.html#a72d441fdeb7e2fdc37ab9868f9f8ee04", null ]
+    [ "npc_still_at_it_triggerAI", "de/df4/a22072.html", "de/df4/a22072" ],
+    [ "npc_still_at_it_trigger", "df/d89/a22068.html#a23366d00bd3b8217bdca7f0fca05d9bd", null ],
+    [ "GetAI", "df/d89/a22068.html#ae273ea6295f50248d303983d4b4137df", null ]
 ];

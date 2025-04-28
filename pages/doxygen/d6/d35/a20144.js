@@ -1,5 +1,7 @@
 var a20144 =
 [
-    [ "achievement_i_have_the_coolest_friends", "d6/d35/a20144.html#a87fd2d5702fe33ee8b09042c66897636", null ],
-    [ "OnCheck", "d6/d35/a20144.html#aa77aa6129967601ede2f3fc44b2ee1aa", null ]
+    [ "HandleEffectPeriodic", "d6/d35/a20144.html#a428d1251465cc9947e7474eab83494e3", null ],
+    [ "PrepareAuraScript", "d6/d35/a20144.html#aa6bfb37f305531f67fa5fad67c83acb9", null ],
+    [ "Register", "d6/d35/a20144.html#a3ccee6d2c8ac244f5370d11b6a4492b6", null ],
+    [ "Validate", "d6/d35/a20144.html#a7d4ede9af946be71bbc5531164ed3f17", null ]
 ];

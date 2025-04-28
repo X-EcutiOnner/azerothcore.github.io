@@ -1,7 +1,7 @@
 var a15100 =
 [
-    [ "npc_anubisath_warder", "dc/d85/a15100.html#aebe14673e5c31000a9626e39d87c6775", null ],
-    [ "JustEngagedWith", "dc/d85/a15100.html#a579318fa519eb669573b2cea78c2fee3", null ],
-    [ "Reset", "dc/d85/a15100.html#aea0fac8f1eb28591b141ace55c49beeb", null ],
-    [ "UpdateAI", "dc/d85/a15100.html#aba428f1f1a016191aa4f168c616c3a29", null ]
+    [ "boss_glob_of_viscidus", "dc/d85/a15100.html#a1ba72393766110382dc4ce4122dfd1ee", null ],
+    [ "InitializeAI", "dc/d85/a15100.html#a0247055fc4f3a60c880ffb78e96edcb9", null ],
+    [ "MovementInform", "dc/d85/a15100.html#abe0cd95930fe52fdb5a40c704d092b90", null ],
+    [ "UpdateAI", "dc/d85/a15100.html#a2e8e38ccdf4ab5e32bd750d73daf1605", null ]
 ];

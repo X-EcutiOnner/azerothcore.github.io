@@ -1,9 +1,18 @@
 var a08520 =
 [
-    [ "areaFlag", "df/d79/a08520.html#ac6244004ed093c1a3d83749cbc20bfe9", null ],
-    [ "areaID", "df/d79/a08520.html#a455a890a1d82d31873873ac497cb83b7", null ],
-    [ "x1", "df/d79/a08520.html#a7624a89c7eac16955dbebb47f0c721d6", null ],
-    [ "x2", "df/d79/a08520.html#aebdb021c0b9c40d624d5115b24616a12", null ],
-    [ "y1", "df/d79/a08520.html#a04a84fe41ba2bc9996eb0bd70248222a", null ],
-    [ "y2", "df/d79/a08520.html#a84f612cf6d1905e948c7c9a6cb870e31", null ]
+    [ "PlayerInfo", "df/d79/a08520.html#a8a26bdeb267824135b3f84baa2585baa", null ],
+    [ "action", "df/d79/a08520.html#a0f68412598a9741e9b5ce7a42c82d129", null ],
+    [ "areaId", "df/d79/a08520.html#a60d086c6e6879e6c5d8b5a24c0ae7bf8", null ],
+    [ "castSpells", "df/d79/a08520.html#a35ab273058db0828c91f01d823467e02", null ],
+    [ "customSpells", "df/d79/a08520.html#ab40e5fd724fab03afbbd38713e1dd4bf", null ],
+    [ "displayId_f", "df/d79/a08520.html#adf14854368c9351fe2fba3215194f2f9", null ],
+    [ "displayId_m", "df/d79/a08520.html#a2ce7d9aa7fc52bd9768c75b88f88b256", null ],
+    [ "item", "df/d79/a08520.html#ad76819034c64c0c691561eff683b7e57", null ],
+    [ "levelInfo", "df/d79/a08520.html#abbff546bbe2cc0ea643c41456c1f0d9f", null ],
+    [ "mapId", "df/d79/a08520.html#ad8d359374f74de40c1c591bb61976405", null ],
+    [ "orientation", "df/d79/a08520.html#a041a37c356d50860cab9f1ced33a28d0", null ],
+    [ "positionX", "df/d79/a08520.html#a55a076dc53e8c2d0b2ab11b1087ebccd", null ],
+    [ "positionY", "df/d79/a08520.html#a7314ecd469357e2eb46ed3d133a5a7a0", null ],
+    [ "positionZ", "df/d79/a08520.html#ad21a8dd3353d3f141bcc9af65e607aee", null ],
+    [ "skills", "df/d79/a08520.html#a3bec7891e115ab3cff40c3d95174981c", null ]
 ];

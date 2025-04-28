@@ -1,6 +1,6 @@
 var a26256 =
 [
-    [ "HandleEffectApply", "dd/ddf/a26256.html#a111ce5c9e70ed563bc7b9c2ec8e79b76", null ],
-    [ "PrepareAuraScript", "dd/ddf/a26256.html#a707504eccf42af77f6e6e927d208bc8c", null ],
-    [ "Register", "dd/ddf/a26256.html#a7aeaa28997bbe966274a738cf45323ed", null ]
+    [ "CheckProc", "dd/ddf/a26256.html#aa9cf64a1965bd7924ce5a9c639d85fb3", null ],
+    [ "PrepareAuraScript", "dd/ddf/a26256.html#a87d2959523a306f85c69aa5a7a5b3de5", null ],
+    [ "Register", "dd/ddf/a26256.html#a9dee4c4568f36f82b82148cb847d50ca", null ]
 ];

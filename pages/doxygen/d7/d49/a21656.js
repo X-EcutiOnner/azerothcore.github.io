@@ -1,5 +1,6 @@
 var a21656 =
 [
-    [ "at_q24545_frostmourne_cavern", "d7/d49/a21656.html#a76e2d8424b5fcd037fabfa9b878d21e1", null ],
-    [ "OnTrigger", "d7/d49/a21656.html#a9016ef31fde1bbcaf57a17e64ea8d503", null ]
+    [ "npc_mindless_ghoulAI", "d8/d40/a21660.html", "d8/d40/a21660" ],
+    [ "npc_mindless_ghoul", "d7/d49/a21656.html#ac5bf71e719c0df04687f426a022fd65e", null ],
+    [ "GetAI", "d7/d49/a21656.html#ac5a087aa742827dc8eb0f3dc195920ec", null ]
 ];

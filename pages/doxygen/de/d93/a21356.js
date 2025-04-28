@@ -1,6 +1,9 @@
 var a21356 =
 [
-    [ "npc_khunok_the_behemothAI", "d1/d56/a21360.html", "d1/d56/a21360" ],
-    [ "npc_khunok_the_behemoth", "de/d93/a21356.html#a0370959631c00581495dbd7c37263236", null ],
-    [ "GetAI", "de/d93/a21356.html#a201aa35dd119d23126b192a1e3786c09", null ]
+    [ "npc_azure_stalkerAI", "de/d93/a21356.html#a1499e734f0d95d491bcd23c2e858a1ee", null ],
+    [ "Reset", "de/d93/a21356.html#a9bd36e95ce7c3157a2ac53400da51d23", null ],
+    [ "UpdateAI", "de/d93/a21356.html#a8c4ea046d69b269e886960ba9562fd0c", null ],
+    [ "TacticalBlinkCasted", "de/d93/a21356.html#a875a272380251fcc7f98e5c0f84bb41a", null ],
+    [ "uiBackstabTimer", "de/d93/a21356.html#ad03ba957706a62e3d8091d025ddd50dc", null ],
+    [ "uiTacticalBlinkTimer", "de/d93/a21356.html#ab817fb9f2f06715f0a08a99e12693697", null ]
 ];

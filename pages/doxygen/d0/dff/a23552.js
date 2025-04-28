@@ -1,8 +1,5 @@
 var a23552 =
 [
-    [ "HandleEffectApply", "d0/dff/a23552.html#ad75c8c6279e606d6a557a61d97ee8f42", null ],
-    [ "HandleEffectRemove", "d0/dff/a23552.html#a7cd59f7ca82a6507024842ebcb1ba093", null ],
-    [ "PrepareAuraScript", "d0/dff/a23552.html#a438a8ba3688e0832853bae4183695494", null ],
-    [ "Register", "d0/dff/a23552.html#a52a86cce0afa66203cc5982ddbe5de4f", null ],
-    [ "Validate", "d0/dff/a23552.html#ab07b244e53b397bc9e9842655617a80d", null ]
+    [ "at_rp_nethekurse", "d0/dff/a23552.html#ac0a1891f90b674ad0ccbeb27f170e643", null ],
+    [ "_OnTrigger", "d0/dff/a23552.html#a93001d6dda7b2711f1efe100ffab5879", null ]
 ];

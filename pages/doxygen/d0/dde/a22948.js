@@ -1,11 +1,8 @@
 var a22948 =
 [
-    [ "boss_doomlordkazzakAI", "d0/dde/a22948.html#a86a942b48bf1146fb3ab445dc386cab9", null ],
-    [ "JustDied", "d0/dde/a22948.html#a33d0bc150c3c2701f4c0c4d8f39fce29", null ],
-    [ "JustEngagedWith", "d0/dde/a22948.html#a8086a5f8f6edd94525b9aedd083b7b00", null ],
-    [ "JustRespawned", "d0/dde/a22948.html#a174912c149657f4d88446f4ac0631598", null ],
-    [ "KilledUnit", "d0/dde/a22948.html#adb91f475b0e8cb73821860c3c5cc226b", null ],
-    [ "Reset", "d0/dde/a22948.html#a51b19c8e7c5f85c41b3168165bb8b40b", null ],
-    [ "UpdateAI", "d0/dde/a22948.html#a28a0a8345fcd5411491409854acef729", null ],
-    [ "_inBerserk", "d0/dde/a22948.html#a996d17128aca96c00c8416957ebc24d0", null ]
+    [ "instance_black_temple_InstanceMapScript", "d0/dde/a22948.html#aa59f4d11ca1418bb3df3a7d5b11795b9", null ],
+    [ "OnCreatureCreate", "d0/dde/a22948.html#a814ac33238558b4e2a2ff57e6039d4fc", null ],
+    [ "OnGameObjectCreate", "d0/dde/a22948.html#a564a49814ceb3b3161a6476335ab653a", null ],
+    [ "SetBossState", "d0/dde/a22948.html#aadcbe48888eba0d0ed50eb9811ce40b0", null ],
+    [ "ashtongueGUIDs", "d0/dde/a22948.html#a85fa9c5231f13529a0741b0f92266c90", null ]
 ];

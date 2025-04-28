@@ -1,7 +1,7 @@
 var a11404 =
 [
-    [ "Command", "de/d22/a11404.html#a6042a93c52d18e3a74d3cd46ac3d940f", null ],
-    [ "ModuleId", "de/d22/a11404.html#aa2e1c1cee71fc1eb887511c655de0516", null ],
-    [ "ModuleKey", "de/d22/a11404.html#aba0f236c39186022816bd86f8e8e9093", null ],
-    [ "Size", "de/d22/a11404.html#a6912224c1ef6fd117a5ed02d394254d9", null ]
+    [ "FieldIndices", "de/d22/a11404.html#a06a366c804088e6fbb170881004a5cff", null ],
+    [ "TableFields", "de/d22/a11404.html#ad5d909c6b4b062f3c4aac3f559c5eaec", null ],
+    [ "TableName", "de/d22/a11404.html#ab00ee028c72660db98e8108583701471", null ],
+    [ "WhereFieldName", "de/d22/a11404.html#af1be82a21f6172504e310ae27b899e5b", null ]
 ];

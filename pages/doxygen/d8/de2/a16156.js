@@ -1,6 +1,7 @@
 var a16156 =
 [
-    [ "instance_trial_of_the_champion_InstanceMapScript", "d2/d83/a16160.html", "d2/d83/a16160" ],
-    [ "instance_trial_of_the_champion", "d8/de2/a16156.html#a7b97e3da119a7ad33a87c74647407bd8", null ],
-    [ "GetInstanceScript", "d8/de2/a16156.html#a9227119fc47f38cd82a1fc07c04b0c86", null ]
+    [ "HandleAfterEffectAbsorb", "d8/de2/a16156.html#ab3d9f3679931b4b3b29713602d08701d", null ],
+    [ "PrepareAuraScript", "d8/de2/a16156.html#a10ee3cda9edfec8140b94e13b88266bd", null ],
+    [ "Register", "d8/de2/a16156.html#ab68a5ccfb0d96390bb83c329eb849cdd", null ],
+    [ "Validate", "d8/de2/a16156.html#a87750183d2b2d6adb67bba4a1f767029", null ]
 ];

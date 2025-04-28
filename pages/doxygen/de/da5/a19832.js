@@ -1,6 +1,8 @@
 var a19832 =
 [
-    [ "HandleScript", "de/da5/a19832.html#a84a4d92a5dff57f612d3e45db41010d3", null ],
-    [ "PrepareSpellScript", "de/da5/a19832.html#adc3bb6bd763905857d84ccaf456b3a2f", null ],
-    [ "Register", "de/da5/a19832.html#a04a5b3a4f768200d74f4641508633d35", null ]
+    [ "npc_brann_radioAI", "de/da5/a19832.html#a329ca0310efe109f7fb364045f6eccbb", null ],
+    [ "MoveInLineOfSight", "de/da5/a19832.html#ad119431edd6f632b4c44fc4e8708d375", null ],
+    [ "Reset", "de/da5/a19832.html#a89183942dcb38f48de1867bfbce15721", null ],
+    [ "_helpLock", "de/da5/a19832.html#ae927b6c8143cfb029ab6574d10dde60e", null ],
+    [ "_lock", "de/da5/a19832.html#a421cfd2b8b149a0f3ea5bc2262ba6bac", null ]
 ];

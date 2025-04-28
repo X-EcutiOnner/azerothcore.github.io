@@ -1,5 +1,6 @@
 var a04076 =
 [
-    [ "OutdoorPvP_zangarmarsh", "db/d3e/a22481.html", "db/d3e/a22481" ],
-    [ "AddSC_outdoorpvp_zm", "d2/d9c/a04076.html#a3077d08865fa83f84cf956c392a9091c", null ]
+    [ "ScriptMgr", "da/dd9/a10380.html", "da/dd9/a10380" ],
+    [ "ScriptRegistry< TScript >", "d4/d1e/a10384.html", "d4/d1e/a10384" ],
+    [ "sScriptMgr", "d2/d9c/a04076.html#ae8161e629869974bc49b1cbfc73c1087", null ]
 ];

@@ -1,7 +1,8 @@
 var a21960 =
 [
-    [ "HandleScriptEffect", "d3/d44/a21960.html#ad20cf97a7dd442d5670a22095b487a01", null ],
-    [ "PrepareSpellScript", "d3/d44/a21960.html#ab0f6da0cb3115e54dbb59f0e6f823d02", null ],
-    [ "Register", "d3/d44/a21960.html#a996ea344ea2a3312cb8886565b80972d", null ],
-    [ "Validate", "d3/d44/a21960.html#a29bf5a9615e02281f426bf521a045567", null ]
+    [ "npc_llod_genericAI", "d3/d44/a21960.html#ac75d85ae4b59416952788102cd1db132", null ],
+    [ "Reset", "d3/d44/a21960.html#a15bd7442fef36a551cc8797f7919f57c", null ],
+    [ "UpdateAI", "d3/d44/a21960.html#aa7dce553fb699127f63281b2c47a2f02", null ],
+    [ "attackTimer", "d3/d44/a21960.html#a28a6e700d24995e477e7e7c4cc8b5d68", null ],
+    [ "summonTimer", "d3/d44/a21960.html#aeeeef545aee565c14d86d8587923c677", null ]
 ];

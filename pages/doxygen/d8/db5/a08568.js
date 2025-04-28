@@ -1,9 +1,9 @@
 var a08568 =
 [
-    [ "PendingSpellCastRequest", "d8/db5/a08568.html#aa09e9b9fcaec6d10dff4916bec15ab04", null ],
-    [ "cancelInProgress", "d8/db5/a08568.html#a726b6e423b23f8c12c65e07809462ad1", null ],
-    [ "category", "d8/db5/a08568.html#a51a702f257b784dac4556397dd1c0be4", null ],
-    [ "isItem", "d8/db5/a08568.html#a9e50a954b3da1f3b39894f1d3d7a932f", null ],
-    [ "requestPacket", "d8/db5/a08568.html#a6ee868c6161e49dc8774ab357f313116", null ],
-    [ "spellId", "d8/db5/a08568.html#a28f12287e339fd0c6cc9ea8c89c26113", null ]
+    [ "achievements", "d8/db5/a08568.html#acfdabccf4f66aa7ebfbae0bfe185f6dc", null ],
+    [ "items", "d8/db5/a08568.html#a2873836588f37b9a5cf691da2b6fa715", null ],
+    [ "levelMax", "d8/db5/a08568.html#a7430d852e5426c1a32e49c77d747f4e6", null ],
+    [ "levelMin", "d8/db5/a08568.html#a823016216268e13116a46bcb40ea0e70", null ],
+    [ "quests", "d8/db5/a08568.html#a6150aa58762a13dcbfcb55507df77809", null ],
+    [ "reqItemLevel", "d8/db5/a08568.html#a97f262e488e178dad0c33f228808f69e", null ]
 ];

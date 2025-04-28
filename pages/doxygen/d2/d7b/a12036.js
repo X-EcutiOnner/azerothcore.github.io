@@ -1,6 +1,6 @@
 var a12036 =
 [
-    [ "OrcMoveEvent", "d2/d7b/a12036.html#a71f7fe243741a1629bdd846fc97f0112", null ],
-    [ "Execute", "d2/d7b/a12036.html#a58a3c88ed3c6b534016179949b85ff9e", null ],
-    [ "_me", "d2/d7b/a12036.html#ad8d09bbb659d44e9f4b9171cea7ef7e8", null ]
+    [ "boss_rend_blackhandAI", "dc/d61/a12040.html", "dc/d61/a12040" ],
+    [ "boss_rend_blackhand", "d2/d7b/a12036.html#afd12818c33de25332bf207f30c8490a1", null ],
+    [ "GetAI", "d2/d7b/a12036.html#aed65d31a5a841af8aed015555bf811cb", null ]
 ];

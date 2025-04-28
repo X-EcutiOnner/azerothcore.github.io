@@ -1,6 +1,7 @@
 var a23976 =
 [
-    [ "CheckCast", "d2/da6/a23976.html#ae13cc2d3da1c9911c88402d05679d447", null ],
-    [ "PrepareSpellScript", "d2/da6/a23976.html#afbed81273aa23d355c64579c71e9761d", null ],
-    [ "Register", "d2/da6/a23976.html#a7157d04dfc534aa3cb88e8dff169c676", null ]
+    [ "npc_maghar_captiveAI", "d8/d09/a23980.html", "d8/d09/a23980" ],
+    [ "npc_maghar_captive", "d2/da6/a23976.html#a59e177f33306ed0bb3de9f640d3685e4", null ],
+    [ "GetAI", "d2/da6/a23976.html#a7f1528549b55edfb5286db4afe6ce50e", null ],
+    [ "OnQuestAccept", "d2/da6/a23976.html#a966fdfe66a65675eb1618b0698dfbb21", null ]
 ];

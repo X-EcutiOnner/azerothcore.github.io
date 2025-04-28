@@ -1,6 +1,5 @@
 var a13948 =
 [
-    [ "HandleObjectAreaTargetSelect", "dc/d4d/a13948.html#aa7695bddd766d5adefb04710d41894f6", null ],
-    [ "PrepareSpellScript", "dc/d4d/a13948.html#a77ba184428cfbb8ec3cc4670f78741e0", null ],
-    [ "Register", "dc/d4d/a13948.html#adbc2f1c4ec64b95ec72c82f36f12d928", null ]
+    [ "npc_brain_wash_totem", "dc/d4d/a13948.html#acdecde614ba82d60ee4a10ace8545fdf", null ],
+    [ "EnterEvadeMode", "dc/d4d/a13948.html#abd32e3210cc384c0c365826ca1fbae1e", null ]
 ];

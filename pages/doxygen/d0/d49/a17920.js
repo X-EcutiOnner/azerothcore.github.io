@@ -1,6 +1,7 @@
 var a17920 =
 [
-    [ "HandleSpecial", "d0/d49/a17920.html#afa540e8c748ca3083667528e2449bc65", null ],
-    [ "PrepareSpellScript", "d0/d49/a17920.html#a9472211ffdaa33802099b22b2a721645", null ],
-    [ "Register", "d0/d49/a17920.html#ab868b10372ff2ef401d19b126acf00c6", null ]
+    [ "FrostBombExplosion", "d0/d49/a17920.html#ac7d318e241e6442e8aa084b27ea50236", null ],
+    [ "Execute", "d0/d49/a17920.html#a0b6521266f18b621260286c530ff3f36", null ],
+    [ "_owner", "d0/d49/a17920.html#aa9ff39ce43c351e8815f895896fa759b", null ],
+    [ "_sindragosaGUID", "d0/d49/a17920.html#a5afc3d543c8fa457c90735f841aa161c", null ]
 ];

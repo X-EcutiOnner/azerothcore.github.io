@@ -1,6 +1,6 @@
 var a17160 =
 [
-    [ "npc_kinetic_bombAI", "dd/dbc/a17164.html", "dd/dbc/a17164" ],
-    [ "npc_kinetic_bomb", "d1/d17/a17160.html#abca5a72d3ac0d50a27e604e8e1491957", null ],
-    [ "GetAI", "d1/d17/a17160.html#ae00630d96dc7a93ea13841c1f9e9be3b", null ]
+    [ "ShockVortexExplodeEvent", "d1/d17/a17160.html#ad972aed372822e10a476d1592192f3ea", null ],
+    [ "Execute", "d1/d17/a17160.html#a601f777052b8a142db49e9b0ab1fa81a", null ],
+    [ "_owner", "d1/d17/a17160.html#a76b1887e486969fcd7a236a8eb7a9a2a", null ]
 ];

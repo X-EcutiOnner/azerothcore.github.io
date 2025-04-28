@@ -1,7 +1,6 @@
 var a27416 =
 [
-    [ "npc_doctorAI", "d0/dfb/a27420.html", "d0/dfb/a27420" ],
-    [ "npc_doctor", "d8/d34/a27416.html#a8471bcd3e83b1a7a69de7bde00846698", null ],
-    [ "GetAI", "d8/d34/a27416.html#a3da4d53b2402ad7338eeb6ea463a62f6", null ],
-    [ "OnQuestAccept", "d8/d34/a27416.html#a990668aee39a9fa6ec90d0f6095ce48a", null ]
+    [ "npc_taxi", "d8/d34/a27416.html#ac67282316d6ded2ff62b8a1800b8fae1", null ],
+    [ "OnGossipHello", "d8/d34/a27416.html#a1bce89202ea3ed3fcbebd19a305c6a78", null ],
+    [ "OnGossipSelect", "d8/d34/a27416.html#a5a7443abba8cf98a3073195177981edc", null ]
 ];

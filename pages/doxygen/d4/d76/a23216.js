@@ -1,8 +1,6 @@
 var a23216 =
 [
-    [ "boss_mekgineer_steamrigger", "d4/d76/a23216.html#a930dcbade7135d0c689bcc0718815547", null ],
-    [ "JustDied", "d4/d76/a23216.html#a79272c233bc0256cca62700fc7a01421", null ],
-    [ "JustEngagedWith", "d4/d76/a23216.html#aa75dea00ffd73b45ba5115ea1e48a006", null ],
-    [ "JustSummoned", "d4/d76/a23216.html#a7a55a9dffaf239e73962356eb0fa88ad", null ],
-    [ "KilledUnit", "d4/d76/a23216.html#a84374438458cb7e034f91d4b65cd22f1", null ]
+    [ "HandleScript", "d4/d76/a23216.html#ad81007cd08ee18bfc7cda4221cbc8482", null ],
+    [ "PrepareSpellScript", "d4/d76/a23216.html#a60f0bb4882d3f75f0839cd0d8ab2707d", null ],
+    [ "Register", "d4/d76/a23216.html#ac06f4246c5cecc4875bc93811eaeb839", null ]
 ];

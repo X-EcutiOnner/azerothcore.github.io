@@ -1,6 +1,7 @@
 var a13292 =
 [
-    [ "FilterTargets", "d2/da0/a13292.html#ae945b657d0fbee4d5ee5d6e7d15ef39b", null ],
-    [ "PrepareSpellScript", "d2/da0/a13292.html#a905e1f979284a368463ad4829891b6ee", null ],
-    [ "Register", "d2/da0/a13292.html#a6b0d2fc316bef6af20199b15795b00b4", null ]
+    [ "HandleSchoolDamage", "d2/da0/a13292.html#a4fee3e37f347d1dcfa84c1dc0454c9fa", null ],
+    [ "PrepareSpellScript", "d2/da0/a13292.html#a8063f3d669e07dc0768607feb9a2f763", null ],
+    [ "Register", "d2/da0/a13292.html#a83aad24c7111d1f68196fcb9765dcd97", null ],
+    [ "Validate", "d2/da0/a13292.html#af90ae09274b0082bd8bd674ca43596f6", null ]
 ];

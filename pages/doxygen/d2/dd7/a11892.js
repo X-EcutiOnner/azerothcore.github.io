@@ -1,6 +1,6 @@
 var a11892 =
 [
-    [ "boss_high_priestess_thaurissanAI", "d2/dd7/a11892.html#acbc89b59865a5fda5a4143dd8c690b37", null ],
-    [ "JustEngagedWith", "d2/dd7/a11892.html#a6602682950aab4e9932bf6cdfac9886b", null ],
-    [ "UpdateAI", "d2/dd7/a11892.html#a216a5bc7a38aa5e13f9d025f44e04779", null ]
+    [ "boss_hedrumAI", "d2/dd7/a11892.html#a95e4af51a8e24fa7b36b924c6cdfb86c", null ],
+    [ "JustEngagedWith", "d2/dd7/a11892.html#a1cf03b06598f2b36814062d47a73ed82", null ],
+    [ "UpdateAI", "d2/dd7/a11892.html#aa515ed081aaabdad751c1bbba56d3d96", null ]
 ];

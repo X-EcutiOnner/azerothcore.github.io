@@ -1,6 +1,8 @@
 var a26584 =
 [
-    [ "HandleKnockBack", "da/d10/a26584.html#abad9f9293260a3e99be98b43aabb321b", null ],
-    [ "PrepareSpellScript", "da/d10/a26584.html#a65787b78165631898458264e6ee310f4", null ],
-    [ "Register", "da/d10/a26584.html#ade4f3cb676f1cc92b0e75f85367dc3e0", null ]
+    [ "Apply", "da/d10/a26584.html#ac3145df90b6b179fece1c76da114e395", null ],
+    [ "HandleEffectPeriodic", "da/d10/a26584.html#a480dd240981f91666e25ea2f1f73e4d7", null ],
+    [ "PrepareAuraScript", "da/d10/a26584.html#aa911ba0b5a13a933bf50a072799a040f", null ],
+    [ "Register", "da/d10/a26584.html#ae0dff9b5002d3d3361d794a75645057f", null ],
+    [ "Validate", "da/d10/a26584.html#ad81184b508474a89fbafc63594ef0ab1", null ]
 ];

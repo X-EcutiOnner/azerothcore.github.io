@@ -1,5 +1,7 @@
 var a26860 =
 [
-    [ "achievement_bg_sa_artillery", "dc/d7c/a26860.html#aa81ae215bc91fd4598d7c9a1b02e3fcc", null ],
-    [ "OnCheck", "dc/d7c/a26860.html#ac24f32f872ae32e90f06f642ea2dfebc", null ]
+    [ "HandleEffect", "dc/d7c/a26860.html#a83b2bd3a3f9a9027766f15f23cae95f0", null ],
+    [ "PrepareSpellScript", "dc/d7c/a26860.html#a7645af1c876e1f6ad91ef92884d220ac", null ],
+    [ "Register", "dc/d7c/a26860.html#a15d4ce9c947ca2f25e29f97119c4106e", null ],
+    [ "Validate", "dc/d7c/a26860.html#ab6d78ecb650f13df3376baced8c40a63", null ]
 ];

@@ -1,11 +1,33 @@
 var a01541 =
 [
-    [ "BanMgr", "db/d9d/a09824.html", "db/d9d/a09824" ],
-    [ "sBan", "d5/dc8/a01541.html#a7d5e9b6aab3c8157bcf25fa0f070bb17", null ],
-    [ "BanReturn", "d5/dc8/a01541.html#a4dd4670ead55e2780d09a66ab39943a7", [
-      [ "BAN_SUCCESS", "d5/dc8/a01541.html#a4dd4670ead55e2780d09a66ab39943a7ab48bdf9afe21b115b7550bf103d1dc28", null ],
-      [ "BAN_SYNTAX_ERROR", "d5/dc8/a01541.html#a4dd4670ead55e2780d09a66ab39943a7a7ec21f8f8ea6d0904423dded4b8f0dc8", null ],
-      [ "BAN_NOTFOUND", "d5/dc8/a01541.html#a4dd4670ead55e2780d09a66ab39943a7aaefc3ea320005c27d70704fb92aed7ad", null ],
-      [ "BAN_LONGER_EXISTS", "d5/dc8/a01541.html#a4dd4670ead55e2780d09a66ab39943a7ac441589615fb2fe9c7decb985f6f0d3c", null ]
-    ] ]
+    [ "npc_belnistrasz", "d8/db1/a14820.html", "d8/db1/a14820" ],
+    [ "npc_belnistrasz::npc_belnistraszAI", "df/d7e/a14824.html", "df/d7e/a14824" ],
+    [ "npc_idol_room_spawner", "d1/d62/a14828.html", "d1/d62/a14828" ],
+    [ "npc_idol_room_spawner::npc_idol_room_spawnerAI", "d0/db7/a14832.html", "d0/db7/a14832" ],
+    [ "Belnistrasz", "d5/dc8/a01541.html#ab761030cc73179b77506cee80e54afba", [
+      [ "EVENT_CHANNEL", "d5/dc8/a01541.html#ab761030cc73179b77506cee80e54afbaa328cf2425c283ee53d5cb9d660a11034", null ],
+      [ "EVENT_IDOL_ROOM_SPAWNER", "d5/dc8/a01541.html#ab761030cc73179b77506cee80e54afbaa1a8dd12063e47b2533422a696ec5fe63", null ],
+      [ "EVENT_PROGRESS", "d5/dc8/a01541.html#ab761030cc73179b77506cee80e54afbaa9edbfcbbe26666eab8693f9b070f1635", null ],
+      [ "EVENT_COMPLETE", "d5/dc8/a01541.html#ab761030cc73179b77506cee80e54afbaa277c4ceb154c858f20df1a3b2b9f23c0", null ],
+      [ "EVENT_FIREBALL", "d5/dc8/a01541.html#ab761030cc73179b77506cee80e54afbaa2f41794aafc9d878c1d2e3aa735cbf44", null ],
+      [ "EVENT_FROST_NOVA", "d5/dc8/a01541.html#ab761030cc73179b77506cee80e54afbaabdc6cc62f4c38145542e5be0485df2fc", null ],
+      [ "PATH_ESCORT", "d5/dc8/a01541.html#ab761030cc73179b77506cee80e54afbaaad37e5267c61b3154576082cc5f0d943", null ],
+      [ "POINT_REACH_IDOL", "d5/dc8/a01541.html#ab761030cc73179b77506cee80e54afbaac918f6177e0a19d346c351646dc8e53a", null ],
+      [ "QUEST_EXTINGUISHING_THE_IDOL", "d5/dc8/a01541.html#ab761030cc73179b77506cee80e54afbaab86f59506288a17715a05dc6c3cc9c5e", null ],
+      [ "SAY_QUEST_ACCEPTED", "d5/dc8/a01541.html#ab761030cc73179b77506cee80e54afbaaae4435ce02d8a471af2a02586524d6f5", null ],
+      [ "SAY_EVENT_START", "d5/dc8/a01541.html#ab761030cc73179b77506cee80e54afbaa5b99398ffec3de91807ff5682f0a7478", null ],
+      [ "SAY_EVENT_THREE_MIN_LEFT", "d5/dc8/a01541.html#ab761030cc73179b77506cee80e54afbaa1c27a8e990dc6e00c87e33609397f44a", null ],
+      [ "SAY_EVENT_TWO_MIN_LEFT", "d5/dc8/a01541.html#ab761030cc73179b77506cee80e54afbaa083570db82270d8a62a772524057254f", null ],
+      [ "SAY_EVENT_ONE_MIN_LEFT", "d5/dc8/a01541.html#ab761030cc73179b77506cee80e54afbaab32dce7b44868931f08d3604a802dd44", null ],
+      [ "SAY_EVENT_END", "d5/dc8/a01541.html#ab761030cc73179b77506cee80e54afbaa5f86762aa27777e2322b2e11a3120364", null ],
+      [ "SAY_AGGRO", "d5/dc8/a01541.html#ab761030cc73179b77506cee80e54afbaa47c752fff069f3e55065795eef2a9bfe", null ],
+      [ "SAY_WATCH_OUT", "d5/dc8/a01541.html#ab761030cc73179b77506cee80e54afbaaab3d1089e4f3d2693a0a9c5cdc810405", null ],
+      [ "SPELL_ARCANE_INTELLECT", "d5/dc8/a01541.html#ab761030cc73179b77506cee80e54afbaa7f0e5071bc08579a814ae1cb62cc37e4", null ],
+      [ "SPELL_FIREBALL", "d5/dc8/a01541.html#ab761030cc73179b77506cee80e54afbaa846055c995374082714483a6b39bc963", null ],
+      [ "SPELL_FROST_NOVA", "d5/dc8/a01541.html#ab761030cc73179b77506cee80e54afbaab913503b67c5b8f901cfc4f207bcba03", null ],
+      [ "SPELL_IDOL_SHUTDOWN_VISUAL", "d5/dc8/a01541.html#ab761030cc73179b77506cee80e54afbaa947ac08dacf61227418026a59dcab75e", null ],
+      [ "SPELL_IDOM_ROOM_CAMERA_SHAKE", "d5/dc8/a01541.html#ab761030cc73179b77506cee80e54afbaa767a89efdf4df9a9978449bdddd9be52", null ]
+    ] ],
+    [ "AddSC_razorfen_downs", "d5/dc8/a01541.html#aa1cc9839b8806bd940e01edfee8b8cee", null ],
+    [ "PosSummonSpawner", "d5/dc8/a01541.html#a72b7e5a7b680a19d8c3fe8378e61f1b9", null ]
 ];

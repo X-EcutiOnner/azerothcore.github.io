@@ -1,6 +1,5 @@
 var a10672 =
 [
-    [ "GuildBankTextQuery", "d6/d3d/a10672.html#ab74c6b61182349e3697d6b8f2f3393d2", null ],
-    [ "Read", "d6/d3d/a10672.html#af20bd5c8e58b891028613625fb14807d", null ],
-    [ "Tab", "d6/d3d/a10672.html#a368054d83fb99317ffd14b4d79ffd0af", null ]
+    [ "Icon", "d6/d3d/a10672.html#ae47c09144b18e42aa48499de3e3fe276", null ],
+    [ "Name", "d6/d3d/a10672.html#a19c79529bbfe25701c9f8253f3e0f9d8", null ]
 ];

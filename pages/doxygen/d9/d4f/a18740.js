@@ -1,6 +1,6 @@
 var a18740 =
 [
-    [ "RespawnEvent", "d9/d4f/a18740.html#accc0d5638ff7a493fa116ac2e8f2e58b", null ],
-    [ "Execute", "d9/d4f/a18740.html#a2e58f4e472fb72cf5401f11be6e5e136", null ],
-    [ "_owner", "d9/d4f/a18740.html#adb0835b4a2e7a2795bb81f0a1e3c911a", null ]
+    [ "npc_icc_nerubar_broodkeeperAI", "d0/dc6/a18744.html", "d0/dc6/a18744" ],
+    [ "npc_icc_nerubar_broodkeeper", "d9/d4f/a18740.html#adf9c3bfb444fed50420c2e780b373f34", null ],
+    [ "GetAI", "d9/d4f/a18740.html#ad12186da36f7bbf99275a746bc874bfc", null ]
 ];

@@ -1,9 +1,6 @@
 var a17524 =
 [
-    [ "HandleApply", "d4/dfa/a17524.html#a5f23d41765ec949486094a0da45be7e8", null ],
-    [ "HandleRemove", "d4/dfa/a17524.html#a8737bad17bf7aa3e52cb2e0b7fbc9178", null ],
-    [ "Load", "d4/dfa/a17524.html#a7c2644d06592b0d929a0b59cf8fa0f1b", null ],
-    [ "PrepareAuraScript", "d4/dfa/a17524.html#aabf5fdf4578935db11e041e638fba187", null ],
-    [ "Register", "d4/dfa/a17524.html#a6bdc66b6028002b5fc873803a434b6b1", null ],
-    [ "SendClientControl", "d4/dfa/a17524.html#a24f79a4c59d4bf615a6de745ffa11d81", null ]
+    [ "npc_gunship_rocketeerAI", "de/de9/a17528.html", "de/de9/a17528" ],
+    [ "npc_gunship_rocketeer", "d4/dfa/a17524.html#a7ed2cf258269f239bb73f2f06411db07", null ],
+    [ "GetAI", "d4/dfa/a17524.html#a4f9c1b09e9e5b9dd337fe9210ab7038c", null ]
 ];

@@ -1,9 +1,17 @@
 var a10052 =
 [
-    [ "entry", "d0/def/a10052.html#a63e9b557b5e712d30580376ad811ff6c", null ],
-    [ "map", "d0/def/a10052.html#a762951c4230f0b40a59071e20852bf77", null ],
-    [ "o", "d0/def/a10052.html#a70e425f84949f6964a33250e6e9650ef", null ],
-    [ "x", "d0/def/a10052.html#a46b691dd3a31a59f56a4a7b36a35a982", null ],
-    [ "y", "d0/def/a10052.html#a38be6df7cf824ed47991c9fabb6fb06b", null ],
-    [ "z", "d0/def/a10052.html#ade7151bc8f29d91e33e7c78790d7ea55", null ]
+    [ "MoveSplineInitArgs", "d0/def/a10052.html#aa2b6c8940e7dc8bdd4ea6047a5ff1a68", null ],
+    [ "_checkPathBounds", "d0/def/a10052.html#a984db18cdbd061605a9d486b061dc7c0", null ],
+    [ "Validate", "d0/def/a10052.html#a17beca23a7a7eaa298debb5e9638daca", null ],
+    [ "facing", "d0/def/a10052.html#a8800fca5b50ab5123e92b28e921ec8b0", null ],
+    [ "flags", "d0/def/a10052.html#ac4271ed0434fc8e7f7a70e8869d81a0e", null ],
+    [ "HasVelocity", "d0/def/a10052.html#acad05815ff039fe1fea3d7cf56afb4f2", null ],
+    [ "initialOrientation", "d0/def/a10052.html#ab0b66cba791fc206be5b64310480cb88", null ],
+    [ "parabolic_amplitude", "d0/def/a10052.html#a133d1d0172fde0564a58a004cb354ed0", null ],
+    [ "path", "d0/def/a10052.html#a3857df1ab2d6dafef4a6d796e6593341", null ],
+    [ "path_Idx_offset", "d0/def/a10052.html#a6b6aaf43685649798db46d7b409d3e32", null ],
+    [ "splineId", "d0/def/a10052.html#ac8c84e828c23801a68524c9811f0336b", null ],
+    [ "time_perc", "d0/def/a10052.html#afe51d24d71b71e87015eeb4851418503", null ],
+    [ "TransformForTransport", "d0/def/a10052.html#ad9e8518e61b2f5f6ff8380518a6ad0cc", null ],
+    [ "velocity", "d0/def/a10052.html#af042454593bfd4dc888c1700af437933", null ]
 ];

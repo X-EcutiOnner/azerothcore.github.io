@@ -1,7 +1,9 @@
 var a18180 =
 [
-    [ "PrepareSpellScript", "dd/da6/a18180.html#a3283e829757b50bb52f66ee1e64033ae", null ],
-    [ "Register", "dd/da6/a18180.html#a0162c92c32210f2873686610f4f00b87", null ],
-    [ "TriggerHeal", "dd/da6/a18180.html#a3cdfca33a535bad0942beea24aefa1bb", null ],
-    [ "Validate", "dd/da6/a18180.html#a6545fe9f40c0aed036192008a2d6e28e", null ]
+    [ "npc_icc_ice_sphereAI", "dd/da6/a18180.html#a685f45e5cd15b005646e596ff61088e8", null ],
+    [ "DoAction", "dd/da6/a18180.html#ac056ecdd93bc716964054f38ab81014e", null ],
+    [ "SelectNewTarget", "dd/da6/a18180.html#a9274e05e45c07d14c7df5c623e2769d4", null ],
+    [ "UpdateAI", "dd/da6/a18180.html#a5a4117de9e45cea9e9086b3b4daed404", null ],
+    [ "targetGUID", "dd/da6/a18180.html#a3e202f9bde2a202d329066f7aab8897c", null ],
+    [ "timer", "dd/da6/a18180.html#a42842e92926e18ef2589687d81a7d0d4", null ]
 ];

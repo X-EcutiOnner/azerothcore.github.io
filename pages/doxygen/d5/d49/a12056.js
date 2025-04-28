@@ -1,5 +1,11 @@
 var a12056 =
 [
-    [ "at_the_beast_room", "d5/d49/a12056.html#aed5c4aae45ee2b256eb078875c5a2c47", null ],
-    [ "OnTrigger", "d5/d49/a12056.html#a366c5e35c4030f998404886f1526ae37", null ]
+    [ "boss_solakar_flamewreathAI", "d5/d49/a12056.html#ada12a91bedec9be8923f9dc74fce07d0", null ],
+    [ "ExecuteEvent", "d5/d49/a12056.html#aa1fca22d30b15ee93cc02084ebab0c2c", null ],
+    [ "InitializeAI", "d5/d49/a12056.html#a7a8a5d3c453e29ec746422e1ba8e4d34", null ],
+    [ "JustDied", "d5/d49/a12056.html#aceb580afa2329ada3236dc759f3a3c20", null ],
+    [ "JustEngagedWith", "d5/d49/a12056.html#a47f8a133b6f8c0de11a66b712bb8e266", null ],
+    [ "Reset", "d5/d49/a12056.html#a25ae2943a7ce9a1f459cfd1313c84c49", null ],
+    [ "UpdateAI", "d5/d49/a12056.html#ac5f908584251455c720ce3f25ed07dae", null ],
+    [ "resetTimer", "d5/d49/a12056.html#acd7fdd30767a7863f265eb96e29c221e", null ]
 ];

@@ -1,6 +1,6 @@
 var a19640 =
 [
-    [ "boss_stormcaller_brundirAI", "d7/dd6/a19644.html", "d7/dd6/a19644" ],
-    [ "boss_stormcaller_brundir", "d2/dc7/a19640.html#aa966d1534a58e3832c46772043956533", null ],
-    [ "GetAI", "d2/dc7/a19640.html#a399b1b7cf2ee74c1e672231e922ff4fa", null ]
+    [ "PrepareSpellScript", "d2/dc7/a19640.html#af7426e99a49f8618fc38242ded7132f1", null ],
+    [ "RecalculateDamage", "d2/dc7/a19640.html#a94e70b20f2139f668227dccb623c1af6", null ],
+    [ "Register", "d2/dc7/a19640.html#acd911f78780e052d88f5f47574092d62", null ]
 ];

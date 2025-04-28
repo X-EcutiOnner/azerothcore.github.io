@@ -1,7 +1,11 @@
 var a13276 =
 [
-    [ "HandleScriptEffect", "d8/d39/a13276.html#ae631c634c77cc207338e3549a664969b", null ],
-    [ "PrepareSpellScript", "d8/d39/a13276.html#ac9f825f10512be5849c46460e9cdbec8", null ],
-    [ "Register", "d8/d39/a13276.html#ac8a4d26de8c78942efc5cfbf78c64633", null ],
-    [ "Validate", "d8/d39/a13276.html#ab05236bc29c00cfc7a5dfb88a8c2ee98", null ]
+    [ "npc_kalecgos_kj", "d8/d39/a13276.html#aae30bdf82ff333ef02a1981717c54ea4", null ],
+    [ "DoAction", "d8/d39/a13276.html#a6b2743b9b6bfb4d687e54412fe66c17f", null ],
+    [ "JustSummoned", "d8/d39/a13276.html#acf92559a2b06b8c9cce5c4887dd1316b", null ],
+    [ "Reset", "d8/d39/a13276.html#ab3cd4229999bddc16fe8152acb187111", null ],
+    [ "UpdateAI", "d8/d39/a13276.html#a8a029eb2cf7fd96ed324d93f4d66a30d", null ],
+    [ "events", "d8/d39/a13276.html#ab5cc58e293e20172558e15fa28670633", null ],
+    [ "instance", "d8/d39/a13276.html#a5a6f22c34578ccb7a5c1696d8ed342d6", null ],
+    [ "summons", "d8/d39/a13276.html#a57af12b97c6e250a50283b224bc5cb6f", null ]
 ];

@@ -1,7 +1,6 @@
 var a20916 =
 [
-    [ "npc_frost_tomb", "d4/d85/a20916.html#a9c7abe1dc25b807d34f1ed818ab639ef", null ],
-    [ "JustDied", "d4/d85/a20916.html#a40a14647eaf9f2c5bd11c094f0aadb79", null ],
-    [ "UpdateAI", "d4/d85/a20916.html#af2122e9c8cb206151f631659c7d167da", null ],
-    [ "PrisonerGUID", "d4/d85/a20916.html#a456fcd5dd3f504954a74fc068f253dc2", null ]
+    [ "instance_ulduar_InstanceMapScript", "d4/dc8/a20920.html", "d4/dc8/a20920" ],
+    [ "instance_ulduar", "d4/d85/a20916.html#a32c2a76d1cd20f2ad1ab441eafe1b682", null ],
+    [ "GetInstanceScript", "d4/d85/a20916.html#ad15f003a90e656910fc32d661ca9baba", null ]
 ];

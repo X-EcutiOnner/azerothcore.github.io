@@ -1,4 +1,5 @@
 var a10884 =
 [
-    [ "ServerOpcodeHandler", "d9/dda/a04740.html#ga15d54f5e037e138c90bd0c9bf9628ac9", null ]
+    [ "PacketHandler", "db/da9/a10884.html#ae28d6ea18799c4dc90be8225fd2fad66", null ],
+    [ "Call", "db/da9/a10884.html#a9468be560aba807419fb7e28bf0d6a41", null ]
 ];

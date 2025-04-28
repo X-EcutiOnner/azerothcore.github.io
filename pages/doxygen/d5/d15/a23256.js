@@ -1,6 +1,5 @@
 var a23256 =
 [
-    [ "HandlePeriodic", "d5/d15/a23256.html#af6c30bb292a69d5eaaaf75c8a76111ea", null ],
-    [ "PrepareAuraScript", "d5/d15/a23256.html#a75515896f3d94d227963a3c5258e2d0d", null ],
-    [ "Register", "d5/d15/a23256.html#aeacb1ffc287cc7128366ee0484c2994b", null ]
+    [ "boss_quagmirran", "d5/d15/a23256.html#a7f6289b86216b052f434a1417023e22c", null ],
+    [ "JustEngagedWith", "d5/d15/a23256.html#a28253b6653bd2e26e7f246c71a88b625", null ]
 ];

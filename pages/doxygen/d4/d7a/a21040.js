@@ -1,6 +1,6 @@
 var a21040 =
 [
-    [ "HandleDummyEffect", "d4/d7a/a21040.html#a25bc99811aa2c7bf4bfbf8ad628a2771", null ],
-    [ "PrepareSpellScript", "d4/d7a/a21040.html#a07376c95cb2ec41d86a24be59094d207", null ],
-    [ "Register", "d4/d7a/a21040.html#aaa02dab30b29e6f646db52468fc35eb2", null ]
+    [ "npc_ravenous_furbolgAI", "d6/d5b/a21044.html", "d6/d5b/a21044" ],
+    [ "npc_ravenous_furbolg", "d4/d7a/a21040.html#a1d7adf8eb055cb6ba82db2f173256fe9", null ],
+    [ "GetAI", "d4/d7a/a21040.html#a284c366e6f5bd024d9627a83dd966669", null ]
 ];

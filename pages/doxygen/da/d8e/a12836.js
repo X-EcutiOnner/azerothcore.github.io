@@ -1,5 +1,6 @@
 var a12836 =
 [
-    [ "go_acherus_soul_prison", "da/d8e/a12836.html#a13c858f74080b8f7963fdacc4b554019", null ],
-    [ "OnGossipHello", "da/d8e/a12836.html#a904059cbeac3ddb3acf07ec1afe78c37", null ]
+    [ "npc_scarlet_cannonAI", "de/d49/a12840.html", "de/d49/a12840" ],
+    [ "npc_scarlet_cannon", "da/d8e/a12836.html#a10bb35cbbdae3508a2300ba3dacc1ea3", null ],
+    [ "GetAI", "da/d8e/a12836.html#ae2b74a4dab4b34f026fd17d5ed381c99", null ]
 ];

@@ -1,6 +1,6 @@
 var a15340 =
 [
-    [ "npc_silva_filnaveth", "d7/d6b/a15340.html#a5998381865214a7b3af7823bd2557cb0", null ],
-    [ "OnGossipHello", "d7/d6b/a15340.html#a32019c17271a3f504d86cd694262fd53", null ],
-    [ "OnGossipSelect", "d7/d6b/a15340.html#a10f81dce3dbc3ef0a84c8c33c2cb2e29", null ]
+    [ "npc_troll_volunteerAI", "d9/dbd/a15344.html", "d9/dbd/a15344" ],
+    [ "npc_troll_volunteer", "d7/d6b/a15340.html#a3c5eb7108dc0480e07b77eceb01cd18a", null ],
+    [ "GetAI", "d7/d6b/a15340.html#aba0208b0910ace75686941c462ecca56", null ]
 ];

@@ -1,6 +1,6 @@
 var a20680 =
 [
-    [ "boss_yoggsaron_death_orbAI", "d3/d48/a20684.html", "d3/d48/a20684" ],
-    [ "boss_yoggsaron_death_orb", "d2/da6/a20680.html#a862d01f012cee832b41bc7c584816b93", null ],
-    [ "GetAI", "d2/da6/a20680.html#a3169cd0e78642503f394a6cb74307871", null ]
+    [ "OnRemove", "d2/da6/a20680.html#a492bd9e9c82937e00897e19362b40901", null ],
+    [ "PrepareAuraScript", "d2/da6/a20680.html#a1ae24bb18b5570ebe9b4b0698d3cc2f2", null ],
+    [ "Register", "d2/da6/a20680.html#adfcaf82ff48225ea0e0314d421795644", null ]
 ];

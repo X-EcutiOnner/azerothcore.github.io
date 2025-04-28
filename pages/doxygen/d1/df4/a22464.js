@@ -1,14 +1,17 @@
 var a22464 =
 [
-    [ "boss_nexusprince_shaffar", "d1/df4/a22464.html#a2e861fb53bca7a40e967971b5e7be533", null ],
-    [ "JustDied", "d1/df4/a22464.html#abf2fef0888bced83511883027bf4d500", null ],
-    [ "JustEngagedWith", "d1/df4/a22464.html#af28242e0c0f2dcbfb2fb16514d912200", null ],
-    [ "JustSummoned", "d1/df4/a22464.html#a576240b46ce0988f0ef86e1460c831ef", null ],
-    [ "KilledUnit", "d1/df4/a22464.html#ad5dd5ab4178d968146e2205e60c49d07", null ],
-    [ "MoveInLineOfSight", "d1/df4/a22464.html#a71e501225d88851210d2e0e58de27f99", null ],
-    [ "Reset", "d1/df4/a22464.html#a35db119f5351a8ef9bef4588cbdd83cf", null ],
-    [ "SummonedCreatureDespawn", "d1/df4/a22464.html#ab806564e96708ca12f444249abd3c88c", null ],
-    [ "UpdateAI", "d1/df4/a22464.html#a147500575a3821262ec718ec023b458c", null ],
-    [ "HasTaunted", "d1/df4/a22464.html#aa7d55363fe9a326dc86bd4f4076d12ab", null ],
-    [ "summons", "d1/df4/a22464.html#a1d6ec0b04ee406d85aa5a39ed32e8c4a", null ]
+    [ "OutdoorPvPSI", "d1/df4/a22464.html#a89bf2d913b7d68ee921ef4b9aeea61e1", null ],
+    [ "FillInitialWorldStates", "d1/df4/a22464.html#a7392eed60ec3307bdea4ed35cd859077", null ],
+    [ "HandleAreaTrigger", "d1/df4/a22464.html#a7c6d70d7a611752456c55d13420ff840", null ],
+    [ "HandleCustomSpell", "d1/df4/a22464.html#a10853a2f5766b6fc75044a20b281a198", null ],
+    [ "HandleDropFlag", "d1/df4/a22464.html#a9238a5007253d84d66192bd340d8311a", null ],
+    [ "HandlePlayerEnterZone", "d1/df4/a22464.html#ad2cabd461406a61e40411850b3d31c0c", null ],
+    [ "HandlePlayerLeaveZone", "d1/df4/a22464.html#aa06088b1d80072577e6fc7653a214512", null ],
+    [ "SendRemoveWorldStates", "d1/df4/a22464.html#aae7deda0662b28f6fc0e16115a65304b", null ],
+    [ "SetupOutdoorPvP", "d1/df4/a22464.html#a401da5bef2350c4eb21b249b4f8b3e40", null ],
+    [ "Update", "d1/df4/a22464.html#a56bda08a795a4b0cd1c52ec448920fac", null ],
+    [ "UpdateWorldState", "d1/df4/a22464.html#a81f4362ece83f37f14471926e9a85fb3", null ],
+    [ "m_Gathered_A", "d1/df4/a22464.html#ab532337ab7e66e1489221e3189e48bac", null ],
+    [ "m_Gathered_H", "d1/df4/a22464.html#abcd36fe918edbbea387573bd5fab89e7", null ],
+    [ "m_LastController", "d1/df4/a22464.html#a05c33cec2d0c1a9fe31cb3d9ba3f3c1c", null ]
 ];

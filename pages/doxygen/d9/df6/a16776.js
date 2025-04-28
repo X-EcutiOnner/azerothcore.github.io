@@ -1,17 +1,8 @@
 var a16776 =
 [
-    [ "npc_hor_lich_kingAI", "d9/df6/a16776.html#a689fd445286595780c3d842976a5913f", null ],
-    [ "DoAction", "d9/df6/a16776.html#a904a57d99527b6ff47d4f9ab8751a4a5", null ],
-    [ "JustSummoned", "d9/df6/a16776.html#aed675a5238ca6a6312d1758ecbe86aa2", null ],
-    [ "MovementInform", "d9/df6/a16776.html#aeeea82d3e5869e5f604314474533975c", null ],
-    [ "Reset", "d9/df6/a16776.html#a1f1bb445ea29daaf479e7171c96db901", null ],
-    [ "SpellHitTarget", "d9/df6/a16776.html#adcee3757198acfaf4fd4dc8765b86a98", null ],
-    [ "SummonedCreatureDespawn", "d9/df6/a16776.html#a1f3a49cd9e1f9c1013a7c5c2ead3bb3d", null ],
-    [ "UpdateAI", "d9/df6/a16776.html#a127cc66ea4804da51eb9069037b9ba33", null ],
-    [ "currentWall", "d9/df6/a16776.html#a13c505b17edf9f843c6c638802eb62aa", null ],
-    [ "div2", "d9/df6/a16776.html#a63a1741fba6e0fecaf9aac6b6c397acf", null ],
-    [ "events", "d9/df6/a16776.html#a06550732cba84da4cbd708d03a7bd6bb", null ],
-    [ "pInstance", "d9/df6/a16776.html#a5c8ce256ab8e71705bc8d84f08245417", null ],
-    [ "reqKillCount", "d9/df6/a16776.html#a69da5432ed2b4ef9944fbd19c97d404d", null ],
-    [ "summons", "d9/df6/a16776.html#af55dd229cd141ffab701c6ab77304127", null ]
+    [ "npc_phantom_hallucinationAI", "d9/df6/a16776.html#a7b27d1c859d77220dc1c3c8323e9eef9", null ],
+    [ "EnterEvadeMode", "d9/df6/a16776.html#a7ef7411ea780466d7c4dd185d9444aba", null ],
+    [ "JustDied", "d9/df6/a16776.html#a5a4f05c5930a7e5bd31df2e3131f4cec", null ],
+    [ "UpdateAI", "d9/df6/a16776.html#ad874a741c641dbac6380aa682d582d7c", null ],
+    [ "numOfUpd", "d9/df6/a16776.html#adb78f5dcd272e8223f895079885a5461", null ]
 ];

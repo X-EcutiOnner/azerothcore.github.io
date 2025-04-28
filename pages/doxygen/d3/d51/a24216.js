@@ -1,5 +1,6 @@
 var a24216 =
 [
-    [ "npc_pet_dk_risen_allyAI", "d3/d51/a24216.html#ac9f42a8f6d87ab65e78d9a3951102705", null ],
-    [ "OnCharmed", "d3/d51/a24216.html#ada01d7ab11b7bf240cad932c96978a06", null ]
+    [ "HandleSendEvent", "d3/d51/a24216.html#a698e367b59ce770a9b4d9fe6890edf46", null ],
+    [ "PrepareSpellScript", "d3/d51/a24216.html#aed8815b1d068ba04f12c7714a64af769", null ],
+    [ "Register", "d3/d51/a24216.html#aa55fa06e76b1f34e319e16984405ed20", null ]
 ];

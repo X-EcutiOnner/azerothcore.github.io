@@ -1,6 +1,7 @@
 var a21684 =
 [
-    [ "npc_q24545_vegard_dummyAI", "dc/d97/a21688.html", "dc/d97/a21688" ],
-    [ "npc_q24545_vegard_dummy", "d0/ddb/a21684.html#a12363e26a720ae33b6cde0f44aec3adf", null ],
-    [ "GetAI", "d0/ddb/a21684.html#a201d1dec206887c26e33f795a0fd0887", null ]
+    [ "CheckRequirement", "d0/ddb/a21684.html#a41beb2c890137328734d6adb14e08302", null ],
+    [ "PrepareSpellScript", "d0/ddb/a21684.html#aa0b9873dbd8c75a14fa88094d91eeeaa", null ],
+    [ "Register", "d0/ddb/a21684.html#aa0fad5e5a68131ebab5717ad0ce69669", null ],
+    [ "SetDest", "d0/ddb/a21684.html#a431a556ab73f91ed63f5983e537834a5", null ]
 ];

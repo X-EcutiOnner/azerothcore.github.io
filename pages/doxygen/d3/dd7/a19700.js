@@ -1,5 +1,7 @@
 var a19700 =
 [
-    [ "achievement_auriaya_nine_lives", "d3/dd7/a19700.html#a750304bc946a7ecefec29dc18c429d3b", null ],
-    [ "OnCheck", "d3/dd7/a19700.html#ae1b7ee75a3e7343c3f5f8043b4e39362", null ]
+    [ "OnRemove", "d3/dd7/a19700.html#a4d7ec990112b4ed602bcacf5a6de6722", null ],
+    [ "PrepareAuraScript", "d3/dd7/a19700.html#a7cc9f0d6882b713c7b0a2585d6008437", null ],
+    [ "Register", "d3/dd7/a19700.html#ad3a66fdfb2a159461bb3deeab6f71c13", null ],
+    [ "Validate", "d3/dd7/a19700.html#a8bd121743d1153ae3fd8eb124e475d0f", null ]
 ];

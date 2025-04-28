@@ -1,14 +1,10 @@
 var a19160 =
 [
-    [ "boss_anomalus", "da/d78/a19160.html#aa4dd8fac7c360beb834382f624ed2246", null ],
-    [ "CheckEvadeIfOutOfCombatArea", "da/d78/a19160.html#ada0735330bff29a8c04706c980e6bbfc", null ],
-    [ "GetData", "da/d78/a19160.html#ad48aebb50cda7ee621f71803669f04c2", null ],
-    [ "JustDied", "da/d78/a19160.html#a41e257481921a122dba30348559e05fb", null ],
-    [ "JustEngagedWith", "da/d78/a19160.html#a7224e8cf6e849d7115f88c7198fdb023", null ],
-    [ "JustSummoned", "da/d78/a19160.html#a3c0413f30d96268cab724856334e61ee", null ],
-    [ "Reset", "da/d78/a19160.html#a80bec5060c1b6747f2b418b90bcc18eb", null ],
-    [ "SetData", "da/d78/a19160.html#aa79ec9829862b573cd0f38f965d737e8", null ],
-    [ "UpdateAI", "da/d78/a19160.html#a5d3d77b49e256e09bbb613e810dfc60b", null ],
-    [ "achievement", "da/d78/a19160.html#a2db4d6d2d6a19642607560e93ae8bd77", null ],
-    [ "activeRifts", "da/d78/a19160.html#ac7632bd47c4d64ac032fd066138f22cf", null ]
+    [ "npc_scion_of_eternityAI", "da/d78/a19160.html#a2893db70b6a1ffa14d02dd5cea7f7c0a", null ],
+    [ "AttackStart", "da/d78/a19160.html#a1335f9e34ff73d5501455062be025ada", null ],
+    [ "JustDied", "da/d78/a19160.html#a81dcae5ef2bbd28b891e46c377fbe153", null ],
+    [ "MoveInLineOfSight", "da/d78/a19160.html#a74a69fa532f0921285ef678bbd2fa761", null ],
+    [ "UpdateAI", "da/d78/a19160.html#adb16afb6ea1583a7156b80a8d833951a", null ],
+    [ "events", "da/d78/a19160.html#ae0e194a24a14033a499e68524da1699d", null ],
+    [ "pInstance", "da/d78/a19160.html#aa828ca4a75696645d7aa350f1f981f40", null ]
 ];

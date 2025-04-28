@@ -1,6 +1,6 @@
 var a27164 =
 [
-    [ "go_fel_crystalforge", "d9/d4c/a27164.html#aa44708a617edd51651da49918ab776e5", null ],
-    [ "OnGossipHello", "d9/d4c/a27164.html#aae9f4beff251efb7b29e1988ddd51eaf", null ],
-    [ "OnGossipSelect", "d9/d4c/a27164.html#a97450cce5f547e28ea84fa6a6f8ab79e", null ]
+    [ "go_brewfest_musicAI", "df/d47/a27168.html", "df/d47/a27168" ],
+    [ "go_brewfest_music", "d9/d4c/a27164.html#a787963a5ee591933d62fdb52911f9a77", null ],
+    [ "GetAI", "d9/d4c/a27164.html#a50f36a6d0a72e7188dbe1bdaa09f1888", null ]
 ];

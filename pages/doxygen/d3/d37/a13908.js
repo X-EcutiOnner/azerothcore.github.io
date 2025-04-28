@@ -1,20 +1,9 @@
 var a13908 =
 [
-    [ "boss_mandokirAI", "d3/d37/a13908.html#a4ba4ac7fabd3e74dc10a00a3188252e9", null ],
-    [ "CalculateThreat", "d3/d37/a13908.html#ad86e2b4c9078bc1b11b304f05679ca94", null ],
-    [ "DamageDealt", "d3/d37/a13908.html#a0dca07b45b3293a0f19401b299fbfb9c", null ],
-    [ "DoAction", "d3/d37/a13908.html#a7358c7abb58a6c9ec200d06246d00d41", null ],
-    [ "DoMeleeAttackIfReady", "d3/d37/a13908.html#acf13e5898f110ad98a1aa745d3b998d7", null ],
-    [ "JustDied", "d3/d37/a13908.html#a6bbc3ae1131f9becba0a35ea2e3a57dd", null ],
-    [ "JustEngagedWith", "d3/d37/a13908.html#aa7ea6260e403a92ba415b82b4dd71026", null ],
-    [ "KilledUnit", "d3/d37/a13908.html#a6230dc14db38d43fb060f028cfde9d32", null ],
-    [ "MovementInform", "d3/d37/a13908.html#a909f7fffc7e38cc6b0bba4edd45cb348", null ],
-    [ "OnTeleportUnreacheablePlayer", "d3/d37/a13908.html#a875c046b8a2f4a01bded282143c6d1d0", null ],
-    [ "Reset", "d3/d37/a13908.html#a2b2267e3d7be6d16ffab031d2cb4a1a6", null ],
-    [ "SetGUID", "d3/d37/a13908.html#a7c40febfbc4c594891b6eb87740b7345", null ],
-    [ "UpdateAI", "d3/d37/a13908.html#a1037b770bb46400aef0ec034f86468fc", null ],
-    [ "_chargeTarget", "d3/d37/a13908.html#a5040c31467e9d3c6edc30b9133ec6873", null ],
-    [ "_useExecute", "d3/d37/a13908.html#a305f064869874d8620d794a7d26f6358", null ],
-    [ "killCount", "d3/d37/a13908.html#a280e27385988e0f5cc65c60511bd4100", null ],
-    [ "reviveGUID", "d3/d37/a13908.html#a7f955c8399167d3f3aa974596f398c13", null ]
+    [ "boss_hazzarah", "d3/d37/a13908.html#a73ba49b91addc9c03e1692587fe66a52", null ],
+    [ "CanAIAttack", "d3/d37/a13908.html#a9038a5b4276fda8a6865217a7c494eec", null ],
+    [ "JustEngagedWith", "d3/d37/a13908.html#a18e382c03ff923bb851a9cd8e2541788", null ],
+    [ "JustSummoned", "d3/d37/a13908.html#a1c3969fbc027f054598ec4123abd6fa4", null ],
+    [ "SummonedCreatureDies", "d3/d37/a13908.html#aac0c990013edf1968d33aeb59d4f05b0", null ],
+    [ "UpdateAI", "d3/d37/a13908.html#a61d92f1650a84ed9684d33879e54bd09", null ]
 ];

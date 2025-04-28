@@ -1,7 +1,9 @@
 var a26580 =
 [
-    [ "AfterRemove", "d8/d21/a26580.html#ad0bad4a07d5a65a7834e7ab46e082b20", null ],
-    [ "PrepareAuraScript", "d8/d21/a26580.html#af338af238305f1872275e1e5e9fdee16", null ],
-    [ "Register", "d8/d21/a26580.html#aa266e794be35b51a399b13ee2d06199d", null ],
-    [ "Validate", "d8/d21/a26580.html#af58098eb7a904e20846cf728f5adc18b", null ]
+    [ "CalculateAmount", "d8/d21/a26580.html#a55d778b049e26c28bfa9d2e08d7920a8", null ],
+    [ "CheckProc", "d8/d21/a26580.html#aa0144f9a0260a74010ced913dd8cadbd", null ],
+    [ "HandleProc", "d8/d21/a26580.html#a741570ba77f70d90b437198f63e565f3", null ],
+    [ "PrepareAuraScript", "d8/d21/a26580.html#af4e49e2362994f247c119c16c013e4b3", null ],
+    [ "Register", "d8/d21/a26580.html#a06a3c11618cbdf15427bbaa6ac8a4273", null ],
+    [ "Validate", "d8/d21/a26580.html#a939d6815bcaee9b9d2b062313aac912a", null ]
 ];

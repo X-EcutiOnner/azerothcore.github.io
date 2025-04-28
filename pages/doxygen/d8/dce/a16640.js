@@ -1,9 +1,6 @@
 var a16640 =
 [
-    [ "HandlePeriodicTick", "d8/dce/a16640.html#a8d3713d113cbcfd610938544e52fe6ec", null ],
-    [ "Load", "d8/dce/a16640.html#a6f2cb6a9dd83a887314cdd9f7741acae", null ],
-    [ "PrepareAuraScript", "d8/dce/a16640.html#a0d00fd1bbc8dfce6cbc3234865bab42b", null ],
-    [ "Register", "d8/dce/a16640.html#a75dbd486e1ccb8c12bbf8001434ae66a", null ],
-    [ "Validate", "d8/dce/a16640.html#aae7b42d8e7fa2dc76d2584534877625c", null ],
-    [ "dir", "d8/dce/a16640.html#a7dd1959596e8ad1628498215249eb7a2", null ]
+    [ "instance_drak_tharon_keep_InstanceScript", "d8/dce/a16640.html#a15f13e67c33a7d5cfb4793b6b641842c", null ],
+    [ "OnGameObjectCreate", "d8/dce/a16640.html#ab727f29fc768c00ab48bfd7e7717a29a", null ],
+    [ "OnGameObjectRemove", "d8/dce/a16640.html#ad8115d5e1ee45a586ec0c1149d690db5", null ]
 ];

@@ -1,14 +1,7 @@
 var a25060 =
 [
-    [ "spell_gen_mount", "da/d52/a25060.html#aae8c5c328dda0668bf8cdabc2c9cd29f", null ],
-    [ "HandleMount", "da/d52/a25060.html#a81085b5efd8d9bd7c82ebb1cf6604793", null ],
-    [ "PrepareSpellScript", "da/d52/a25060.html#a49e2046d30352a6e22dab2530e909fa7", null ],
-    [ "Register", "da/d52/a25060.html#a8175ecc0c407d5c4646f038d7b62e92b", null ],
-    [ "Validate", "da/d52/a25060.html#accef27fc13ff34af52860ad6ac62e7f3", null ],
-    [ "_mount0", "da/d52/a25060.html#abd6347074186b7c47ac5a2c760f4db33", null ],
-    [ "_mount100", "da/d52/a25060.html#a5e56853140f188ff1babc61c507f8300", null ],
-    [ "_mount150", "da/d52/a25060.html#a1237697623e4831c25efcde1ab370031", null ],
-    [ "_mount280", "da/d52/a25060.html#aa9d0a936795d06dd78ef3c4d5aaf0320", null ],
-    [ "_mount310", "da/d52/a25060.html#ac06b80d14cc106281c3e6bf3f6a5c727", null ],
-    [ "_mount60", "da/d52/a25060.html#a53ce7d1b5a39cce2bede77aad647dc7e", null ]
+    [ "HandleChargeEffect", "da/d52/a25060.html#ad8d2871e6277dd982653fa864010d084", null ],
+    [ "HandleScriptEffect", "da/d52/a25060.html#a2c0a734c9e8cc1bd7ae4baa168bda7fc", null ],
+    [ "PrepareSpellScript", "da/d52/a25060.html#a1f8722308e1a5bef546dcb939d73dca7", null ],
+    [ "Register", "da/d52/a25060.html#a2cdda449ab11438347e7dd32fd058e6d", null ]
 ];

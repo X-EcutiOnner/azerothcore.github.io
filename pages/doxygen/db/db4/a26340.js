@@ -1,7 +1,7 @@
 var a26340 =
 [
-    [ "HandleDummy", "db/db4/a26340.html#a2ea424e6c740305340001b1c09bfec91", null ],
-    [ "PrepareSpellScript", "db/db4/a26340.html#afe722c970155b47eac94bb9861a4eb46", null ],
-    [ "Register", "db/db4/a26340.html#a2c2b96f1c00da9884ec9d01fe897c8c1", null ],
-    [ "Validate", "db/db4/a26340.html#ac5f782da8b5e387c31e048759baf3e16", null ]
+    [ "HandleDummy", "db/db4/a26340.html#a1abe1e04be6b6c410e0ff273d8aa15c9", null ],
+    [ "Load", "db/db4/a26340.html#a249e9c3c74bcc20ea2c0d5ce63fbd88c", null ],
+    [ "PrepareSpellScript", "db/db4/a26340.html#aeffcc8db6125a35227545911fa03a850", null ],
+    [ "Register", "db/db4/a26340.html#a1de981482ebb05b8507b308dba7a426b", null ]
 ];

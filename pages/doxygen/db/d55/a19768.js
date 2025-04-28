@@ -1,6 +1,11 @@
 var a19768 =
 [
-    [ "npc_pool_of_tarAI", "d9/df3/a19772.html", "d9/df3/a19772" ],
-    [ "npc_pool_of_tar", "db/d55/a19768.html#a9c585318b4507babe77b3ba758b06a87", null ],
-    [ "GetAI", "db/d55/a19768.html#ae77bf48a72ce49f821085f32127e91dc", null ]
+    [ "boss_flame_leviathan_seatAI", "db/d55/a19768.html#ab830db7804ee9b9815e4ea3398a6d856", null ],
+    [ "AttackStart", "db/d55/a19768.html#a39efb927928e19a040144bab7dfa3ba2", null ],
+    [ "EnterEvadeMode", "db/d55/a19768.html#aeda2ad4d596c86aa5c19acb1c710cc9f", null ],
+    [ "PassengerBoarded", "db/d55/a19768.html#af4939f3daef8aae9a1eafe2020ab205e", null ],
+    [ "Reset", "db/d55/a19768.html#a1e134e9bb2b1048f69dc310a52be9473", null ],
+    [ "UpdateAI", "db/d55/a19768.html#a857b1e927ae6574e00e25a20a21d4427", null ],
+    [ "_despawnTimer", "db/d55/a19768.html#ac3d1d8f405a37d2344c5f4e34519e2cb", null ],
+    [ "vehicle", "db/d55/a19768.html#a9d0624a45613676a39def53b2a2fdce0", null ]
 ];

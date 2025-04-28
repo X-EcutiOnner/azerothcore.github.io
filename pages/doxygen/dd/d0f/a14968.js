@@ -1,6 +1,5 @@
 var a14968 =
 [
-    [ "OnPeriodic", "dd/d0f/a14968.html#a08dce8b98afadc134166a615b4496151", null ],
-    [ "PrepareAuraScript", "dd/d0f/a14968.html#a9ebb34665b176e4e60f085da65183d8e", null ],
-    [ "Register", "dd/d0f/a14968.html#a6a04dbb7c66324e701a8db0ee0334123", null ]
+    [ "boss_kri", "dd/d0f/a14968.html#a0a95f8d2a380ab48ffd5a034e012cc2c", null ],
+    [ "JustEngagedWith", "dd/d0f/a14968.html#ab2169ec49ecbff2ee1460e38bd1a163e", null ]
 ];

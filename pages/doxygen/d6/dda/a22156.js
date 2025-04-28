@@ -1,12 +1,13 @@
 var a22156 =
 [
-    [ "npc_icefangAI", "d6/dda/a22156.html#ab74b58a77e3c1349ed308f7febef794a", null ],
-    [ "AttackStart", "d6/dda/a22156.html#a56615ecdb45389aa793374d26a636d45", null ],
-    [ "EnterEvadeMode", "d6/dda/a22156.html#a1465c4779ea8b080f934163c8db6c99c", null ],
-    [ "JustDied", "d6/dda/a22156.html#a3140c8306a384833cca1580ad964d73a", null ],
-    [ "JustEngagedWith", "d6/dda/a22156.html#a8455dd4afb5ef5a694ca9237848df907", null ],
-    [ "OnCharmed", "d6/dda/a22156.html#ad7f3465f5730cd9ebd42bb4092ec8e68", null ],
-    [ "PassengerBoarded", "d6/dda/a22156.html#acf6e8e273830d022eaca3a28a4bd5320", null ],
-    [ "UpdateAI", "d6/dda/a22156.html#ab4d752f2273062c48339b53e611e617c", null ],
-    [ "WaypointReached", "d6/dda/a22156.html#ae315a1d22317edb2864e4d796f808ffb", null ]
+    [ "npc_frosthoundAI", "d6/dda/a22156.html#ac8f41789568399318cdc30292abfd93b", null ],
+    [ "AttackStart", "d6/dda/a22156.html#a0278736f670f5aac069b03530f441ae1", null ],
+    [ "EnterEvadeMode", "d6/dda/a22156.html#acc1a3842ddae670e23d8c55e8768ace9", null ],
+    [ "JustDied", "d6/dda/a22156.html#a26f4657c1d373cf4a2b45f6487a9e901", null ],
+    [ "JustEngagedWith", "d6/dda/a22156.html#a80eec4a19fb53be5946b2e021b8dd332", null ],
+    [ "JustSummoned", "d6/dda/a22156.html#a8db3dbace66dabfa54800cacbfdfab9b", null ],
+    [ "OnCharmed", "d6/dda/a22156.html#ae1e2a4763e8bfc8ab04687829830c639", null ],
+    [ "PassengerBoarded", "d6/dda/a22156.html#aea512a9811ec0766b9b175ec2ca9a447", null ],
+    [ "UpdateAI", "d6/dda/a22156.html#a9a755fd6d53d124c441357472fcb73e0", null ],
+    [ "WaypointReached", "d6/dda/a22156.html#aa87f8d5bbbd105481773941a90a96cf6", null ]
 ];

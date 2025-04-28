@@ -1,6 +1,6 @@
 var a16668 =
 [
-    [ "instance_forge_of_souls_InstanceScript", "db/d20/a16672.html", "db/d20/a16672" ],
-    [ "instance_forge_of_souls", "d7/dd9/a16668.html#a504896f6e191c87ce77231c4ef267b27", null ],
-    [ "GetInstanceScript", "d7/dd9/a16668.html#a64982b527cfa6057315b8e628549480b", null ]
+    [ "PrepareSpellScript", "d7/dd9/a16668.html#a5ed268ac2642b2df3c5eb1dc93a675fc", null ],
+    [ "RecalculateDamage", "d7/dd9/a16668.html#a3fae6ceaa67716004c664dd40a4679ed", null ],
+    [ "Register", "d7/dd9/a16668.html#a1a740e697fc84f5f035f2ec251872009", null ]
 ];

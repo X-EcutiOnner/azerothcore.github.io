@@ -1,8 +1,6 @@
 var a22148 =
 [
-    [ "npc_freed_protodrakeAI", "d8/daf/a22148.html#a9e80808035be749c87a1170f37ac3daf", null ],
-    [ "MovementInform", "d8/daf/a22148.html#af056f3c12a314acd8a7e8c6c381b9436", null ],
-    [ "Reset", "d8/daf/a22148.html#ab5781438300442bb7bcb4510aec9d233", null ],
-    [ "UpdateAI", "d8/daf/a22148.html#a9e83b133444e977c35e90b700149472c", null ],
-    [ "events", "d8/daf/a22148.html#ac2e34b9a53ff55d177327ec95dca5466", null ]
+    [ "HandleScriptEffect", "d8/daf/a22148.html#a1dac2806b74471332aec0595118005a3", null ],
+    [ "PrepareSpellScript", "d8/daf/a22148.html#adb1efd90b7ffa23887ca4aa3afb6d99e", null ],
+    [ "Register", "d8/daf/a22148.html#a2ff0986c88dcbd9aac263f62b772c992", null ]
 ];

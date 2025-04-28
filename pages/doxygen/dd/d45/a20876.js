@@ -1,7 +1,6 @@
 var a20876 =
 [
-    [ "HandleEffectPeriodic", "dd/d45/a20876.html#a2b9426d0a2ce9251632acebb30d0e2b5", null ],
-    [ "PrepareAuraScript", "dd/d45/a20876.html#a7dca0398e78278c78dd80e9e6ca874e1", null ],
-    [ "Register", "dd/d45/a20876.html#a74052d7da1523b3c4010465510e5fe04", null ],
-    [ "Validate", "dd/d45/a20876.html#a587a469c649877f80e8fe80062e8b5d4", null ]
+    [ "OnEffect", "dd/d45/a20876.html#aa24cfd6feec65f466e74c68484815c1e", null ],
+    [ "PrepareSpellScript", "dd/d45/a20876.html#a648fb610fb1914efac7f2cb6e1bb4290", null ],
+    [ "Register", "dd/d45/a20876.html#ac1c0076665edc6a2b3a0228340020a1e", null ]
 ];

@@ -1,17 +1,22 @@
 var a01208 =
 [
-    [ "ChangeEmail", "d9/d31/a01208.html#a2a6c83e2d4e6121855beb252f23c905b", null ],
-    [ "ChangePassword", "d9/d31/a01208.html#a6a9cb892c15d78b5de65738005234ff6", null ],
-    [ "ChangeUsername", "d9/d31/a01208.html#a3382c6430bfbf14e32ca11b5ac68fc23", null ],
-    [ "CheckPassword", "d9/d31/a01208.html#a17c28dfcb31af8f4241bb5210408185a", null ],
-    [ "CreateAccount", "d9/d31/a01208.html#a7a7668ab60ae56c7e71fce77780bb214", null ],
-    [ "DeleteAccount", "d9/d31/a01208.html#a120323b16b2a5aefa6aa69e8be5ccef6", null ],
-    [ "GetCharactersCount", "d9/d31/a01208.html#a4fb760897161c3d463f842b28bcf7c20", null ],
-    [ "GetId", "d9/d31/a01208.html#aa215c9a96c37b8a5d76d980ecf8de114", null ],
-    [ "GetName", "d9/d31/a01208.html#af911e3860ec519c541d6df35468ee41b", null ],
-    [ "GetSecurity", "d9/d31/a01208.html#a8280510b2564ec6ea76727218c1687b3", null ],
-    [ "GetSecurity", "d9/d31/a01208.html#a30b6e5cf1733f0143f86aaeff600215c", null ],
-    [ "IsAdminAccount", "d9/d31/a01208.html#adb1b210137b09011677c74011addeefa", null ],
-    [ "IsConsoleAccount", "d9/d31/a01208.html#a81bbc2af33211a3130c6aa215f5607b7", null ],
-    [ "IsPlayerAccount", "d9/d31/a01208.html#a63751f144cb7acb57fc20f0caf5e7043", null ]
+    [ "instance_blackwing_lair", "d1/ded/a12288.html", "d1/ded/a12288" ],
+    [ "instance_blackwing_lair::instance_blackwing_lair_InstanceMapScript", "d8/d0a/a12292.html", "d8/d0a/a12292" ],
+    [ "spell_bwl_shadowflame", "df/de1/a12296.html", "df/de1/a12296" ],
+    [ "at_orb_of_command", "d6/d17/a12300.html", "d6/d17/a12300" ],
+    [ "orb_of_command_misc", "d9/d31/a01208.html#a5ddae3d5f11ae5a5d826e7e18d4cded5", [
+      [ "QUEST_BLACKHANDS_COMMAND", "d9/d31/a01208.html#a5ddae3d5f11ae5a5d826e7e18d4cded5ae1d5923d960c45957f7789ee3d943db5", null ],
+      [ "MAP_BWL", "d9/d31/a01208.html#a5ddae3d5f11ae5a5d826e7e18d4cded5ae1b688e63ec4ff55cd01b4df30948cbc", null ]
+    ] ],
+    [ "ShadowFlame", "d9/d31/a01208.html#a18a82309d32c08f1de5944fde20789fa", [
+      [ "SPELL_ONYXIA_SCALE_CLOAK", "d9/d31/a01208.html#a18a82309d32c08f1de5944fde20789faa2f64e1a42a1d2fb4d6c849100de2c7d0", null ],
+      [ "SPELL_SHADOW_FLAME_DOT", "d9/d31/a01208.html#a18a82309d32c08f1de5944fde20789faaed2cf39ef97aea751e32c5249fc8fc3e", null ]
+    ] ],
+    [ "AddSC_instance_blackwing_lair", "d9/d31/a01208.html#a942a9ad3e1b872492dfc7d62615df103", null ],
+    [ "creatureData", "d9/d31/a01208.html#a412286b689bd324fedd65ddd8dde8afb", null ],
+    [ "doorData", "d9/d31/a01208.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
+    [ "Entry", "d9/d31/a01208.html#a79d118516d0621008a183666ffecc3ad", null ],
+    [ "objectData", "d9/d31/a01208.html#a59ddfa91084111da23b5d47482e4ff8d", null ],
+    [ "orbOfCommandTP", "d9/d31/a01208.html#a9ee49a7ad7d4b8e8f52533faa578370f", null ],
+    [ "SummonPosition", "d9/d31/a01208.html#a2c79c628fd8c60d02dc0b2368a70be04", null ]
 ];

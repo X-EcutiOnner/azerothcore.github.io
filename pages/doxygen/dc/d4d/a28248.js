@@ -1,8 +1,7 @@
 var a28248 =
 [
-    [ "TimeSeg", "dc/d4d/a28248.html#ab94639ba8e26b215ebd31163967574d3", null ],
-    [ "TransportEntry", "dc/d4d/a28248.html#a859d25b3c11839ad7e37facd40dc79df", null ],
-    [ "X", "dc/d4d/a28248.html#a8fbd166503396e33a4ad77448bf307ea", null ],
-    [ "Y", "dc/d4d/a28248.html#a67c279b26cebd8e5c81c36576b145af6", null ],
-    [ "Z", "dc/d4d/a28248.html#a680689c57479a2cc1ec72ab97204d3e7", null ]
+    [ "Flags", "dc/d4d/a28248.html#a12b3cb0e28ed0f47ff5ccea09fc8b860", null ],
+    [ "ID", "dc/d4d/a28248.html#ab6ccf4a64672a6ade01f59cdeeeb85cb", null ],
+    [ "RangeMax", "dc/d4d/a28248.html#a9691134e5cb1e15e3c93ea05a653975d", null ],
+    [ "RangeMin", "dc/d4d/a28248.html#a127a46f2382edea750ca567d5ea3d304", null ]
 ];

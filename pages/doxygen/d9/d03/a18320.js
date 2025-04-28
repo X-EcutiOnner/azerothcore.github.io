@@ -1,6 +1,6 @@
 var a18320 =
 [
-    [ "npc_the_lich_king_controllerAI", "d2/d83/a18324.html", "d2/d83/a18324" ],
-    [ "npc_the_lich_king_controller", "d9/d03/a18320.html#a32b14d699737497ba7c90d8ef17557d7", null ],
-    [ "GetAI", "d9/d03/a18320.html#ae9b6dacb0f4e8e6f12f187ab0dfd2165", null ]
+    [ "npc_lk_wicked_spiritAI", "d2/d83/a18324.html", "d2/d83/a18324" ],
+    [ "npc_lk_wicked_spirit", "d9/d03/a18320.html#adb5f0d5db260b3e5b4df3725c0b62827", null ],
+    [ "GetAI", "d9/d03/a18320.html#ad75b36f2f7242dea685cd67dc72d0d30", null ]
 ];

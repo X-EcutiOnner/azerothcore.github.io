@@ -1,9 +1,7 @@
 var a18292 =
 [
-    [ "DelayedCastEvent", "d0/d77/a18292.html#ae6d57612065d56ce79197aedebedf9f9", null ],
-    [ "Execute", "d0/d77/a18292.html#ae2925429b3049e44d2afd2e8b990af71", null ],
-    [ "_despawnTime", "d0/d77/a18292.html#acc9e22eb1908e4c458199fc4cccd56c6", null ],
-    [ "_originalCaster", "d0/d77/a18292.html#adb07c24a947d59d2ef1f61b8ab18d328", null ],
-    [ "_spellId", "d0/d77/a18292.html#abe28a6749101233302634ed226a289e8", null ],
-    [ "_trigger", "d0/d77/a18292.html#a85471a151a3165cc906f3a41103c3f5d", null ]
+    [ "OnPeriodic", "d0/d77/a18292.html#adfbfcf4ad8671ca4eaa439705f7b6c2a", null ],
+    [ "PrepareAuraScript", "d0/d77/a18292.html#a5bb82c03f7c34e6febd3fe8aa57d4723", null ],
+    [ "Register", "d0/d77/a18292.html#a0fc7ca43a0d82058fc04277742231388", null ],
+    [ "Validate", "d0/d77/a18292.html#ae52c7c189a45a0bb5f3a627f502e3730", null ]
 ];

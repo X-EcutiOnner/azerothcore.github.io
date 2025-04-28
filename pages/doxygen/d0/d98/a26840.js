@@ -1,5 +1,7 @@
 var a26840 =
 [
-    [ "achievement_bg_control_all_nodes", "d0/d98/a26840.html#afa3c06227adff7a03998ac7c5f8147cf", null ],
-    [ "OnCheck", "d0/d98/a26840.html#a69609eb5488519fa5a1f43b13a80e280", null ]
+    [ "OnProc", "d0/d98/a26840.html#a7ab183d734c543be2866c57f1e5cc508", null ],
+    [ "PrepareAuraScript", "d0/d98/a26840.html#a31118cda9f29318f4620caf38c09522a", null ],
+    [ "Register", "d0/d98/a26840.html#ac27f99aafa92ae85a247c6f25ece8c7b", null ],
+    [ "Validate", "d0/d98/a26840.html#aa193bddd2ba9efe70343c5501d737fa4", null ]
 ];

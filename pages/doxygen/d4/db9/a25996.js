@@ -1,10 +1,8 @@
 var a25996 =
 [
-    [ "CheckCast", "d4/db9/a25996.html#a49676a65c99a9a2d99ad78fee54d2302", null ],
-    [ "HandleScript", "d4/db9/a25996.html#a35b9d69b8147ef06527b8533ef376e72", null ],
-    [ "Load", "d4/db9/a25996.html#a25c373762375f207e6c3ba0a18d4a6e7", null ],
-    [ "PrepareSpellScript", "d4/db9/a25996.html#a31d3339531f75dfa0ca3a339d34d3012", null ],
-    [ "Register", "d4/db9/a25996.html#afd716f555ac73287bd268c6124b15b1c", null ],
-    [ "Validate", "d4/db9/a25996.html#a0938262e1f45821b9fbef42f5c96cc56", null ],
-    [ "_manaAmount", "d4/db9/a25996.html#add7d1cdf3abca0ada57cd719ad22602a", null ]
+    [ "HandleApply", "d4/db9/a25996.html#aafdf3712f163919f010d11d0becb398f", null ],
+    [ "HandleRemove", "d4/db9/a25996.html#ac3e33cb37d13b633f3938a48917a4975", null ],
+    [ "PrepareAuraScript", "d4/db9/a25996.html#a42590a0ef43a48c5309f995f9bec5c9b", null ],
+    [ "Register", "d4/db9/a25996.html#a84e7337494dc2e1772ca10dea26c675f", null ],
+    [ "Validate", "d4/db9/a25996.html#ac2558aafb3ce66ca7bbfd718eb8c6338", null ]
 ];

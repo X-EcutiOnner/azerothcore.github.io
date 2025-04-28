@@ -1,7 +1,6 @@
 var a18296 =
 [
-    [ "AuraRemoveEvent", "d0/d0a/a18296.html#a094b9437c7cadb465738daf5684c9725", null ],
-    [ "Execute", "d0/d0a/a18296.html#a14ac906a0fcff86f61983c570b0bd6ad", null ],
-    [ "_spellId", "d0/d0a/a18296.html#a6fad41839e07e9545859be7c3afcfc36", null ],
-    [ "_trigger", "d0/d0a/a18296.html#aad8c27befc102dae6823d5d74fed50b4", null ]
+    [ "npc_icc_lk_checktargetAI", "d5/d97/a18300.html", "d5/d97/a18300" ],
+    [ "npc_icc_lk_checktarget", "d0/d0a/a18296.html#a3a2cc943e731e472694dcb13417090da", null ],
+    [ "GetAI", "d0/d0a/a18296.html#a2cd9a5c7fec791ba8786cf1bb5b7c8bd", null ]
 ];

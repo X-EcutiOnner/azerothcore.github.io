@@ -1,10 +1,6 @@
 var a25864 =
 [
-    [ "CheckProc", "d7/d15/a25864.html#a787008462dce35eb27deda41301b146d", null ],
-    [ "HandleProc", "d7/d15/a25864.html#a5b791c7cb8dae574fef801ce42dc6aa1", null ],
-    [ "Load", "d7/d15/a25864.html#a9760351c28f5f9948f0b64ae2ca91c24", null ],
-    [ "PrepareAuraScript", "d7/d15/a25864.html#ab3d5e71597c67ec0aed70f7e5d2319ac", null ],
-    [ "Register", "d7/d15/a25864.html#aa4ef731870355dc386fcd07c5f19d090", null ],
-    [ "Validate", "d7/d15/a25864.html#ad04864f0710262364cf40e071446d87c", null ],
-    [ "_procTarget", "d7/d15/a25864.html#a9383231fc71c6239507fdf8765d63f3d", null ]
+    [ "CalculateAmount", "d7/d15/a25864.html#a2010f58ba86d6266e9549753fdec52ed", null ],
+    [ "PrepareAuraScript", "d7/d15/a25864.html#aa9ddc9f2a0ded66e81be51cec24a0e4b", null ],
+    [ "Register", "d7/d15/a25864.html#acf737f74e3cb9340f3449b491e923b7f", null ]
 ];

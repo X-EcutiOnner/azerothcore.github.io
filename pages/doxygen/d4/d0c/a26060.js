@@ -1,6 +1,10 @@
 var a26060 =
 [
-    [ "FilterTargets", "d4/d0c/a26060.html#a23c7b977f7e213322b3702367d6a28c7", null ],
-    [ "PrepareSpellScript", "d4/d0c/a26060.html#a7000b2fd940c914933c486e847932b62", null ],
-    [ "Register", "d4/d0c/a26060.html#a870ee08d0341f6640710a87c97a6b98b", null ]
+    [ "CheckCast", "d4/d0c/a26060.html#a49676a65c99a9a2d99ad78fee54d2302", null ],
+    [ "HandleScript", "d4/d0c/a26060.html#a35b9d69b8147ef06527b8533ef376e72", null ],
+    [ "Load", "d4/d0c/a26060.html#a25c373762375f207e6c3ba0a18d4a6e7", null ],
+    [ "PrepareSpellScript", "d4/d0c/a26060.html#a31d3339531f75dfa0ca3a339d34d3012", null ],
+    [ "Register", "d4/d0c/a26060.html#afd716f555ac73287bd268c6124b15b1c", null ],
+    [ "Validate", "d4/d0c/a26060.html#a0938262e1f45821b9fbef42f5c96cc56", null ],
+    [ "_manaAmount", "d4/d0c/a26060.html#add7d1cdf3abca0ada57cd719ad22602a", null ]
 ];

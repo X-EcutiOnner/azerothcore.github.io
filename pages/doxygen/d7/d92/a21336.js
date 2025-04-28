@@ -1,6 +1,6 @@
 var a21336 =
 [
-    [ "HandleEffectPeriodic", "d7/d92/a21336.html#affa7fb949d4b1a05813df0da17fef3bb", null ],
-    [ "PrepareAuraScript", "d7/d92/a21336.html#a79dbb866c06cd1c031cae2f1370146d5", null ],
-    [ "Register", "d7/d92/a21336.html#a1fb46036f0860440f3a9201e0d86cdc4", null ]
+    [ "npc_azure_mage_slayerAI", "d8/d9d/a21340.html", "d8/d9d/a21340" ],
+    [ "npc_azure_mage_slayer", "d7/d92/a21336.html#ad5e5453235c224f4fac40244516dd1ad", null ],
+    [ "GetAI", "d7/d92/a21336.html#a9b795915100f47b11a65abdfdcbf39f4", null ]
 ];

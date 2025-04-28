@@ -1,14 +1,12 @@
 var a23024 =
 [
-    [ "SpellIds", "d1/d32/a23024.html#a2d0e9022edc8a9f6fc0e34330fda114a", [
-      [ "SPELL_SUMMON_WAVE_A_MOB", "d1/d32/a23024.html#a2d0e9022edc8a9f6fc0e34330fda114aa19ea6e555692392677c74fccd206380b", null ],
-      [ "SPELL_SUMMON_WAVE_B_MOB", "d1/d32/a23024.html#a2d0e9022edc8a9f6fc0e34330fda114aa938130293fb55c96d06462e407a24a89", null ],
-      [ "SPELL_SUMMON_WAVE_C_MOB", "d1/d32/a23024.html#a2d0e9022edc8a9f6fc0e34330fda114aadc855654104e4ec0a09540e9b51cb098", null ],
-      [ "SPELL_SUMMON_WAVE_D_MOB", "d1/d32/a23024.html#a2d0e9022edc8a9f6fc0e34330fda114aa3bbb32a8c4da3b06e9bf5da83f39970d", null ]
-    ] ],
-    [ "FilterTargets", "d1/d32/a23024.html#a2a1a2e5069587f52ae968c84cd702eaf", null ],
-    [ "HandleHit", "d1/d32/a23024.html#aa670812f42c3082f42e0f232ee6bee16", null ],
-    [ "PrepareSpellScript", "d1/d32/a23024.html#a7fe65229c64c27909868f02439c1ef66", null ],
-    [ "Register", "d1/d32/a23024.html#a0a8f29b524391ff257aba5cbdc355115", null ],
-    [ "Validate", "d1/d32/a23024.html#ab8bcdcfcad2a9998d95567006817711e", null ]
+    [ "boss_fathomlord_karathress", "d1/d32/a23024.html#a05c483ea61011926c260b43f6c01cac3", null ],
+    [ "DoAction", "d1/d32/a23024.html#adc5685244341e353c6dac67b0191d877", null ],
+    [ "JustDied", "d1/d32/a23024.html#a4c356359be50b626a28fab4a803386f8", null ],
+    [ "JustEngagedWith", "d1/d32/a23024.html#ae221d994f2ebb0a298288233727ea1ba", null ],
+    [ "JustReachedHome", "d1/d32/a23024.html#a1e03da049ad75a464de5dd15ac5e6d88", null ],
+    [ "JustSummoned", "d1/d32/a23024.html#a3a692ef94d555e991a7cd34dee9812d9", null ],
+    [ "KilledUnit", "d1/d32/a23024.html#a02812a3cc7de22348058dedd107bb6d0", null ],
+    [ "Reset", "d1/d32/a23024.html#a52f76cb43a32c5f59cbc7476f0df8646", null ],
+    [ "_recentlySpoken", "d1/d32/a23024.html#a81f52ead90284ca3598cd64eb9fb88ee", null ]
 ];

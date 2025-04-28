@@ -1,7 +1,4 @@
 var a28180 =
 [
-    [ "ID", "d3/dcf/a28180.html#aa5db020808990dc98fc143e4a5e0d2b2", null ],
-    [ "RadiusMax", "d3/dcf/a28180.html#ab82c1acb9309b17104958182d80b01d1", null ],
-    [ "RadiusMin", "d3/dcf/a28180.html#acaee7da373b94a262e01d4bd3bea4f08", null ],
-    [ "RadiusPerLevel", "d3/dcf/a28180.html#a74bb59afb808af45ceff6367468fca1e", null ]
+    [ "id", "d3/dcf/a28180.html#a61c817f16c280ee29e1c91bdb0c2fda8", null ]
 ];

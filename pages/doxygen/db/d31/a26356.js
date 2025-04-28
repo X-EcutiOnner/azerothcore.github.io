@@ -1,7 +1,9 @@
 var a26356 =
 [
-    [ "HandleDummy", "db/d31/a26356.html#a4c837e7342603519d1f23ab8702c3160", null ],
-    [ "PrepareSpellScript", "db/d31/a26356.html#ae9d6ab0c9b9cf87f7b86f28e9bb25371", null ],
-    [ "Register", "db/d31/a26356.html#a16a5ca3ec9a8c463c9a2975fa29eb1e9", null ],
-    [ "Validate", "db/d31/a26356.html#ad742f4ce0d0db70427f7ba849a4526df", null ]
+    [ "CheckCast", "db/d31/a26356.html#ae99a2b4b582c8a2c8921b8921400ffbe", null ],
+    [ "HandleActiveObject", "db/d31/a26356.html#a79a51387f0a515ed07fcc1ac9e428290", null ],
+    [ "HandleDummy", "db/d31/a26356.html#a39dd06ae92d04060ee41897318a701fd", null ],
+    [ "Load", "db/d31/a26356.html#a76fff3a9d20f48e4814ee0f258be07b8", null ],
+    [ "PrepareSpellScript", "db/d31/a26356.html#a016e480d7b2267c9bf824c9cb029f134", null ],
+    [ "Register", "db/d31/a26356.html#aa05d48c35f748d93f5d8ff1defe2d3c9", null ]
 ];

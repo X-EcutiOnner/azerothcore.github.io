@@ -1,7 +1,6 @@
 var a15796 =
 [
-    [ "OnRemove", "dc/d3d/a15796.html#afb0821bc8774e634eefdd87efe6af945", null ],
-    [ "PrepareAuraScript", "dc/d3d/a15796.html#a54b1de501bdf3193cdb89125bc1ceb0e", null ],
-    [ "Register", "dc/d3d/a15796.html#a985ad6d7eca06fbaf869e591136f46a3", null ],
-    [ "Validate", "dc/d3d/a15796.html#aa794b76c4d9590b867dda57f02724d95", null ]
+    [ "boss_hadronoxAI", "d0/d14/a15800.html", "d0/d14/a15800" ],
+    [ "boss_hadronox", "dc/d3d/a15796.html#ae3457fd6108cc350cf9eedab3178f781", null ],
+    [ "GetAI", "dc/d3d/a15796.html#a90bf0ecb218e30e61852baffeabc3dc1", null ]
 ];

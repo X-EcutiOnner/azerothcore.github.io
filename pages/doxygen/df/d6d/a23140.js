@@ -1,7 +1,10 @@
 var a23140 =
 [
-    [ "npc_ahune_ice_spear_bunny", "df/d6d/a23140.html#aecc30efddcf4ae9bd93504e1d727ee87", null ],
-    [ "InitializeAI", "df/d6d/a23140.html#a5e7eb38f6bf4a947bd1e09ee198eb45d", null ],
-    [ "UpdateAI", "df/d6d/a23140.html#ac7fd9b174f2ee1b1adf9d20d59c67bc2", null ],
-    [ "_scheduler", "df/d6d/a23140.html#a1a1a8b066a3cab9e15710fa97a8c83e6", null ]
+    [ "boss_morogrim_tidewalker", "df/d6d/a23140.html#a138a200da298f64697e2e47fb8004ccb", null ],
+    [ "JustDied", "df/d6d/a23140.html#a139d87e7cffe03183538eb493e063195", null ],
+    [ "JustEngagedWith", "df/d6d/a23140.html#a3244672aeb994673e1f46708699bcc2c", null ],
+    [ "JustSummoned", "df/d6d/a23140.html#a2b669007520094948138c95468b77f9f", null ],
+    [ "KilledUnit", "df/d6d/a23140.html#a2db94919e6d6f3d4eda4addc4248976e", null ],
+    [ "Reset", "df/d6d/a23140.html#a78ed1d1f8c55407497a4fb679587975d", null ],
+    [ "_recentlySpoken", "df/d6d/a23140.html#a63edb4b20baa9e1cf5238c3db5974c56", null ]
 ];

@@ -1,9 +1,8 @@
 var a16844 =
 [
-    [ "FilterTargets", "d5/d88/a16844.html#aefebf504286394cf3caffa566543e4a4", null ],
-    [ "FilterTargetsNext", "d5/d88/a16844.html#a356b6ace97d07df22a232d2287072b5e", null ],
-    [ "PrepareSpellScript", "d5/d88/a16844.html#a893e0eb620e19909b2f2a715ea946f6b", null ],
-    [ "Register", "d5/d88/a16844.html#a962651920a94190f4864a3b1c7fcd1d3", null ],
-    [ "Unload", "d5/d88/a16844.html#a6adc9b6ca86da6cd9465fa0da150dcca", null ],
-    [ "targetList", "d5/d88/a16844.html#a3c839185938e0b67b97f652d1d15e213", null ]
+    [ "npc_hor_raging_ghoulAI", "d5/d88/a16844.html#ac4b2b3acf8a7acda73c7158f1565a274", null ],
+    [ "JustDied", "d5/d88/a16844.html#a70e581c9b3f7d88d497c1540ac9ca04c", null ],
+    [ "Reset", "d5/d88/a16844.html#aa52576d94e230797209dfc938d62187f", null ],
+    [ "UpdateAI", "d5/d88/a16844.html#ac7c8571eac32f722a5fb0c28092b7e8f", null ],
+    [ "leaped", "d5/d88/a16844.html#a12f6e6d5911b2b8b9caa01a9a83570bc", null ]
 ];

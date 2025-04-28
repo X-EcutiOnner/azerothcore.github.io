@@ -1,5 +1,5 @@
 var a04115 =
 [
-    [ "ServerMailReward", "de/db4/a27593.html", "de/db4/a27593" ],
-    [ "AddSC_server_mail", "df/d30/a04115.html#a8c20fa2f42eb423e39f2aaafe8fadafc", null ]
+    [ "ScriptRegistry< AllItemScript >", "df/d30/a04115.html#a0f69164743e657905c670df85e97a29c", null ],
+    [ "ScriptRegistry< ItemScript >", "df/d30/a04115.html#a9f258d1e2f9fb6ce144923451b63f995", null ]
 ];

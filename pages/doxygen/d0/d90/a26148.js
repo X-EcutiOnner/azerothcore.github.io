@@ -1,9 +1,8 @@
 var a26148 =
 [
-    [ "HandleAfterCast", "d0/d90/a26148.html#ac08e632064c407346649f525d030d335", null ],
-    [ "HandleDummy", "d0/d90/a26148.html#a9c1dadd5a3e2e039b50a414ac589ebf4", null ],
-    [ "Load", "d0/d90/a26148.html#a177525c755b036a79263c0fa6fa4082e", null ],
-    [ "PrepareSpellScript", "d0/d90/a26148.html#aed99b07a53068b19bddb4daff3449a52", null ],
-    [ "Register", "d0/d90/a26148.html#a946e56a325d83656d9b43af80d065e45", null ],
-    [ "_triggerSpellId", "d0/d90/a26148.html#a6697a22b684784853cb1999d41fcaaa7", null ]
+    [ "HandleApplyEffect", "d0/d90/a26148.html#a50102ae92f44fd7c2bd9afc3fec5a291", null ],
+    [ "Load", "d0/d90/a26148.html#ab6ba9d68b968ae41ee9c9869df686f02", null ],
+    [ "PrepareAuraScript", "d0/d90/a26148.html#a6e212284f72320356cfa2f0c2a59999d", null ],
+    [ "Register", "d0/d90/a26148.html#afcdd6cc19b59b5e6aa0cfdb9189edc99", null ],
+    [ "Validate", "d0/d90/a26148.html#a985a52f71371443454d6dd36f7fe83b2", null ]
 ];

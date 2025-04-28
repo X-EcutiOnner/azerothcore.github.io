@@ -1,7 +1,9 @@
 var a25796 =
 [
-    [ "CheckCast", "d8/dab/a25796.html#a02134ecbc1b1e0c8b6047ec13ef7e701", null ],
-    [ "HandleEffect", "d8/dab/a25796.html#a9f1be51fb58cde38cd643c6d1a5a6c15", null ],
-    [ "PrepareSpellScript", "d8/dab/a25796.html#aa63cb903e7c6037a6c08381334ccc126", null ],
-    [ "Register", "d8/dab/a25796.html#a670a8dbdadd988fe3220cc01b71114aa", null ]
+    [ "OnEffectHitTargetDisarm", "d8/dab/a25796.html#ae8ce5a315886ede30eda7d3682e4ef06", null ],
+    [ "OnEffectHitTargetStun", "d8/dab/a25796.html#a5a5253b6d152b1af78de663c09451536", null ],
+    [ "OnEffectLaunchTargetDisarm", "d8/dab/a25796.html#a2bbcf5ee2d41362c80a4649a4cf7e260", null ],
+    [ "OnEffectLaunchTargetStun", "d8/dab/a25796.html#ac3d5052bf045082fb8bc02c72a0dba39", null ],
+    [ "PrepareSpellScript", "d8/dab/a25796.html#a113219d3376a23f8889f26f10744e7cb", null ],
+    [ "Register", "d8/dab/a25796.html#a12ef13dbc3e9cd95fb1d57bf393735e3", null ]
 ];

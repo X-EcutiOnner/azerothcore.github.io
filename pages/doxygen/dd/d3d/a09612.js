@@ -1,5 +1,5 @@
 var a09612 =
 [
-    [ "MinionInfo", "dd/d3d/a09612.html#a537dd49ffb504aeab8b2b1734d5f44d7", null ],
-    [ "bossInfo", "dd/d3d/a09612.html#a04750e14ecb53ce6e3fac35844a713cd", null ]
+    [ "entry", "dd/d3d/a09612.html#a1105fbea33b497bca2a290431cb0f4ca", null ],
+    [ "type", "dd/d3d/a09612.html#acaf1010ce0620ee99a2a6b2721a06b89", null ]
 ];

@@ -1,5 +1,9 @@
 var a25344 =
 [
-    [ "PrepareSpellScript", "d8/d6f/a25344.html#acb39fd85035670fb98dcea66c29b2ff7", null ],
-    [ "Register", "d8/d6f/a25344.html#a7fe416070962ba582d59ddff70c13590", null ]
+    [ "CheckIfCorpseNear", "d8/d6f/a25344.html#a9b512f84f1d728e24845b6aaa28bdd6b", null ],
+    [ "HandleDummy", "d8/d6f/a25344.html#a913c0137d2a13c810bbae869cc6cf734", null ],
+    [ "Load", "d8/d6f/a25344.html#a3f36968d10bde12c7e2eda8db4145252", null ],
+    [ "PrepareSpellScript", "d8/d6f/a25344.html#acc7d6f489c34c3cc26f37bc94f8727e8", null ],
+    [ "Register", "d8/d6f/a25344.html#a736c4fe39e947ad98df19b3b001bdc29", null ],
+    [ "Validate", "d8/d6f/a25344.html#a51b075f95211025b2a7719a3ee70a6be", null ]
 ];

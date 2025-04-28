@@ -1,6 +1,7 @@
 var a22000 =
 [
-    [ "npc_artruis_the_hearthlessAI", "de/d9f/a22004.html", "de/d9f/a22004" ],
-    [ "npc_artruis_the_hearthless", "d3/ddf/a22000.html#abeed70f4306113bd5df242eae91bfdb0", null ],
-    [ "GetAI", "d3/ddf/a22000.html#a1a7674c5e3e9e0de848bfb0d906ac06c", null ]
+    [ "HandleDummy", "d3/ddf/a22000.html#a85874062bceced2694fff725649df892", null ],
+    [ "PrepareSpellScript", "d3/ddf/a22000.html#a47bae4bdc488480f91517465d8e1b784", null ],
+    [ "Register", "d3/ddf/a22000.html#a7131340678ca685db98e2087661321a9", null ],
+    [ "Validate", "d3/ddf/a22000.html#af1b74ceee10fc48a0b85d4a284103950", null ]
 ];

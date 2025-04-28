@@ -1,9 +1,10 @@
 var a25952 =
 [
-    [ "CountTargets", "dc/d98/a25952.html#a85a60a3ada7ea2b8c995bc156be36fe2", null ],
-    [ "HandleDummy", "dc/d98/a25952.html#af51f59f6cb8e2a6d99b3c05cebfcfa89", null ],
-    [ "PrepareSpellScript", "dc/d98/a25952.html#adfb7e3fbb52aa349573b95c457823900", null ],
-    [ "Register", "dc/d98/a25952.html#a9180a01674a1f56c287d40bfbdf6d841", null ],
-    [ "Validate", "dc/d98/a25952.html#a5dd09977efde2d3433aff4d35687d5e8", null ],
-    [ "_targetCount", "dc/d98/a25952.html#aa9a0fb36eafd8535fcd2bddda56d7107", null ]
+    [ "AfterCheckProc", "dc/d98/a25952.html#aa6f32a97ece5fc68c0b0a2cfa36e33eb", null ],
+    [ "HandleProc", "dc/d98/a25952.html#a613182c741769d0983206bdfa89242f6", null ],
+    [ "PrepareAuraScript", "dc/d98/a25952.html#a4f614fe81d829d8a1ceb7500f9557948", null ],
+    [ "Register", "dc/d98/a25952.html#acd807de02a83a97a78572d672fb16027", null ],
+    [ "Validate", "dc/d98/a25952.html#a3d2d6f1a00825ac66f507a790f468198", null ],
+    [ "_spellInfo", "dc/d98/a25952.html#a66a5eb4caa7b43c34b2830d9a3d2f994", null ],
+    [ "_ticksModifier", "dc/d98/a25952.html#ae23b54499fff879a096bd459e264c4f0", null ]
 ];

@@ -1,13 +1,5 @@
 var a15252 =
 [
-    [ "npc_tharnarianAI", "dc/dac/a15252.html#a8e22d45f6420aa8079f8fb7150a2a53a", null ],
-    [ "Initialize", "dc/dac/a15252.html#ad1d89491b42a56406273a04045e7e91d", null ],
-    [ "Reset", "dc/dac/a15252.html#a7de1f46bee4e79effc5dbb405854a7da", null ],
-    [ "SetGUID", "dc/dac/a15252.html#a7ac84aac946afc312d8ce27f04127dfd", null ],
-    [ "sGossipSelect", "dc/dac/a15252.html#a33b5898def48e17ba27363b98f51849b", null ],
-    [ "UpdateAI", "dc/dac/a15252.html#a1e58a89064bdfb69e4445db72184d8b3", null ],
-    [ "_bearGUID", "dc/dac/a15252.html#af7a116b8226ddb51e9f0f118f2d8fa22", null ],
-    [ "_events", "dc/dac/a15252.html#aff73052a4b7407d760af3dde09fa8a07", null ],
-    [ "_facing", "dc/dac/a15252.html#ad2120fffc0ffa93d4fca1e9e8c0a4371", null ],
-    [ "_scriptRunning", "dc/dac/a15252.html#a5be50b02cc8ce2e7b4dd334e923a7c10", null ]
+    [ "go_bristlelimb_cage", "dc/dac/a15252.html#ab965b9c529577a5e58639285fa35d3d7", null ],
+    [ "OnGossipHello", "dc/dac/a15252.html#a6f29e07550767c1c0610f46e4921503f", null ]
 ];

@@ -1,14 +1,11 @@
 var a07176 =
 [
-    [ "ArenaTeamScore", "d7/de3/a07176.html#a017cd1a4d90a466b42aeab8ff1a12f3a", null ],
-    [ "~ArenaTeamScore", "d7/de3/a07176.html#ade081f31c498ee03a80f73fe70a56cc7", null ],
-    [ "Assign", "d7/de3/a07176.html#a28c3a055e1ad69693470f38fe676f0c6", null ],
-    [ "BuildRatingInfoBlock", "d7/de3/a07176.html#ae3e2b8e8a29c50ca20a42a0364349764", null ],
-    [ "BuildTeamInfoBlock", "d7/de3/a07176.html#aa876e0cf0b36f8fdb9efe8989092f143", null ],
-    [ "Reset", "d7/de3/a07176.html#a90611fd5e656d2d62917003ff0a5ff00", null ],
-    [ "Arena", "d7/de3/a07176.html#a5f488c25aa439166d145713c67e7d085", null ],
-    [ "Battleground", "d7/de3/a07176.html#a0c4048053f5f5cabe5bfbfdde8eded86", null ],
-    [ "MatchmakerRating", "d7/de3/a07176.html#a1e82169562a459371f973932d22e2f15", null ],
-    [ "RatingChange", "d7/de3/a07176.html#a61c85f158b767a6c81de87d7ad5007db", null ],
-    [ "TeamName", "d7/de3/a07176.html#ab99de3b9213f3ccab1791858df6aa3e8", null ]
+    [ "WGWorkshop", "d7/de3/a07176.html#a2d2d7b24ec77275f24efa54d31e98bbb", null ],
+    [ "GiveControlTo", "d7/de3/a07176.html#a6b69312f4ffa562b0e8fdcf5da3568d3", null ],
+    [ "Save", "d7/de3/a07176.html#adede1c780178f20dc8339320a021e4b6", null ],
+    [ "UpdateGraveyardAndWorkshop", "d7/de3/a07176.html#a2ff11801fb50cd3a463c44fafbddaed4", null ],
+    [ "bf", "d7/de3/a07176.html#ae2b7e050289ad5922ddcd73c6da9f5a5", null ],
+    [ "state", "d7/de3/a07176.html#a279d47c85843e884edef1f82b9654cd8", null ],
+    [ "teamControl", "d7/de3/a07176.html#a196c8d0094a34c18835840e046fd39ef", null ],
+    [ "workshopId", "d7/de3/a07176.html#a42d7337c67e4f19886b0ec86f0e60596", null ]
 ];

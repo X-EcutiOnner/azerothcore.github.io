@@ -1,5 +1,7 @@
 var a02582 =
 [
-    [ "cast_commandscript", "db/d60/a11553.html", "db/d60/a11553" ],
-    [ "AddSC_cast_commandscript", "d1/d03/a02582.html#a7b374923a29bdbff68b6e78d2ef4a3e0", null ]
+    [ "instance_ulduar", "d4/d85/a20916.html", "d4/d85/a20916" ],
+    [ "instance_ulduar::instance_ulduar_InstanceMapScript", "d4/dc8/a20920.html", "d4/dc8/a20920" ],
+    [ "AddSC_instance_ulduar", "d1/d03/a02582.html#a93e6e71a7717be3946c53d3b6093e517", null ],
+    [ "vehiclePositions", "d1/d03/a02582.html#a41c6fcb7a2c575fa74a8e566a49bf1e1", null ]
 ];

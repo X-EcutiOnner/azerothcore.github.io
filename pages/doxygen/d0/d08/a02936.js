@@ -1,6 +1,7 @@
 var a02936 =
 [
-    [ "instance_razorfen_kraul", "df/d46/a14833.html", "df/d46/a14833" ],
-    [ "instance_razorfen_kraul::instance_razorfen_kraul_InstanceMapScript", "db/d7e/a14837.html", "db/d7e/a14837" ],
-    [ "AddSC_instance_razorfen_kraul", "d0/d08/a02936.html#a27080d618fc76ad4f3d6b9e8ad4cc3c0", null ]
+    [ "WhoListPlayerInfo", "da/dfa/a07432.html", "da/dfa/a07432" ],
+    [ "WhoListCacheMgr", "dc/d6f/a07436.html", "dc/d6f/a07436" ],
+    [ "sWhoListCacheMgr", "d0/d08/a02936.html#aae5ef4cf031d5523b7d5fda6d83af41a", null ],
+    [ "WhoListInfoVector", "d0/d08/a02936.html#a88bd249c0903724edb2c2d5416962534", null ]
 ];

@@ -1,6 +1,6 @@
 var a21648 =
 [
-    [ "npc_q24545_lich_kingAI", "df/dee/a21652.html", "df/dee/a21652" ],
-    [ "npc_q24545_lich_king", "d6/db0/a21648.html#a1864564dee4f66f1b29850b8b0f6fa29", null ],
-    [ "GetAI", "d6/db0/a21648.html#aade5ad8ba215d0571185596aa40cf9b2", null ]
+    [ "npc_future_youAI", "df/dee/a21652.html", "df/dee/a21652" ],
+    [ "npc_future_you", "d6/db0/a21648.html#a36e363156bcb32fee468989062817bd5", null ],
+    [ "GetAI", "d6/db0/a21648.html#a2e1529fef3ce307d98057dc93ce5e5fe", null ]
 ];

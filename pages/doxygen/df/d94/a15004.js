@@ -1,13 +1,9 @@
 var a15004 =
 [
-    [ "npc_dirt_mound", "df/d94/a15004.html#add7daefa1c96fb9d843248f8ca4796f6", null ],
-    [ "ChaseNewTarget", "df/d94/a15004.html#a16656fb7ad8cda5916e8da0002cf0292", null ],
-    [ "EnterEvadeMode", "df/d94/a15004.html#ac5fdeea9dc5553b689d3a8a9b0b73d34", null ],
-    [ "JustEngagedWith", "df/d94/a15004.html#abf39fb8d63325eea7928b88b2b486ad2", null ],
-    [ "JustSummoned", "df/d94/a15004.html#a5da17256d0cd4f6cb0e1256afe4b6539", null ],
-    [ "Reset", "df/d94/a15004.html#ae1662eb73f21351e07d00a717421de68", null ],
-    [ "SetData", "df/d94/a15004.html#a4faa65dd3260104202e4bdd34bc0b67d", null ],
-    [ "UpdateAI", "df/d94/a15004.html#a88447191070cf8b84df96db565eef48d", null ],
-    [ "_instance", "df/d94/a15004.html#ac9f138567a4367aeb5d7b1f6caea90c6", null ],
-    [ "_ouroHealth", "df/d94/a15004.html#ac83391fa5069ae4574748f82d15e833d", null ]
+    [ "npc_claw_tentacle", "df/d94/a15004.html#a10f1c68d5f49dd1614e7e939498db37b", null ],
+    [ "JustDied", "df/d94/a15004.html#aa566b417d1b766668133dd1d6a58293f", null ],
+    [ "JustEngagedWith", "df/d94/a15004.html#a9fbe9b30f973d3c8509ab4bbfcfe5bcc", null ],
+    [ "Reset", "df/d94/a15004.html#aaf3a3380a33aadc2023d192dfa85cfb2", null ],
+    [ "UpdateAI", "df/d94/a15004.html#ae7d521445680167add653717c7ae4c86", null ],
+    [ "_portalGUID", "df/d94/a15004.html#ab979781a8f77267348595cfa17341bae", null ]
 ];

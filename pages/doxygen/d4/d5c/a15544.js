@@ -1,12 +1,14 @@
 var a15544 =
 [
-    [ "npc_cairne_bloodhoofAI", "d4/d5c/a15544.html#ac87f0d10b1886ffa24ae201fdb614441", null ],
-    [ "Reset", "d4/d5c/a15544.html#ab58f32a6bd1659b1a54fb056526c121a", null ],
-    [ "sGossipSelect", "d4/d5c/a15544.html#aa95b820eb4d3c6c5f1898a67c319b1a6", null ],
-    [ "UpdateAI", "d4/d5c/a15544.html#aefcbb7b2da6d1039055c27feeb1f5f9e", null ],
-    [ "_berserkerChargeTimer", "d4/d5c/a15544.html#a2efb1949abe83dadf62b5c868ae57fe2", null ],
-    [ "_cleaveTimer", "d4/d5c/a15544.html#ab1ed741e998cd7ed088cab3af378b3ca", null ],
-    [ "_mortalStrikeTimer", "d4/d5c/a15544.html#a9f33790662ce229669e5d1d6f2aac8b0", null ],
-    [ "_thunderclapTimer", "d4/d5c/a15544.html#a6bdca667875353db2badc40fd95a1ce4", null ],
-    [ "_uppercutTimer", "d4/d5c/a15544.html#a9f13acd7df900d9bdac64898b183c67d", null ]
+    [ "npc_taskmaster_fizzuleAI", "d4/d5c/a15544.html#ac792f91930c869ce919f8fd96b3fb076", null ],
+    [ "DoFriend", "d4/d5c/a15544.html#aacaeb3293bbb4b670cdc7031d22a50c2", null ],
+    [ "JustEngagedWith", "d4/d5c/a15544.html#ae7c14a4cf5af178525e5a41c0ba34d4b", null ],
+    [ "ReceiveEmote", "d4/d5c/a15544.html#a21d0d70086f085b715a12d05fbe5d611", null ],
+    [ "Reset", "d4/d5c/a15544.html#ac45352b8b3d2301dbaecceaa69bdb1cf", null ],
+    [ "SpellHit", "d4/d5c/a15544.html#a4c35104935a3a6264c853a657dc42244", null ],
+    [ "UpdateAI", "d4/d5c/a15544.html#a95ccf9a84231d64c87b9d88d85b4ec2e", null ],
+    [ "factionNorm", "d4/d5c/a15544.html#ac0794d9b1c04ec4fe6f8afd1556f1fbc", null ],
+    [ "FlareCount", "d4/d5c/a15544.html#a3a1128b7caa6ef4ba3697e1400aaed04", null ],
+    [ "IsFriend", "d4/d5c/a15544.html#ab7e6bd2e023545c73fba758267551eee", null ],
+    [ "ResetTimer", "d4/d5c/a15544.html#a376b3c7fbc9a81e82ece6840e8e9e7fc", null ]
 ];

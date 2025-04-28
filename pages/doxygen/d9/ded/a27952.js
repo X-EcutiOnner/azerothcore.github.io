@@ -1,5 +1,9 @@
 var a27952 =
 [
-    [ "Id", "d9/ded/a27952.html#a2c41c957524b31ad9f7fa361ec0e9d01", null ],
-    [ "textid", "d9/ded/a27952.html#a7e50690fa335b759dba5ac265c9a0dd0", null ]
+    [ "CinematicSequence", "d9/ded/a27952.html#a7a0a35bbb69320565d991f4a349dc01b", null ],
+    [ "ClassID", "d9/ded/a27952.html#a9da8d8d20126e9dc161b1dd64a19fe59", null ],
+    [ "expansion", "d9/ded/a27952.html#a7c57eabd8d94849cd8536b013a8d4138", null ],
+    [ "name", "d9/ded/a27952.html#a2d0b7155b03af29bd982f31eba26ec24", null ],
+    [ "powerType", "d9/ded/a27952.html#a74aec35dc161a7e830453b9365a6f107", null ],
+    [ "spellfamily", "d9/ded/a27952.html#a43fbe48c99e297ea09e9e1f2edd6a4ea", null ]
 ];

@@ -1,23 +1,25 @@
 var a03491 =
 [
-    [ "npc_dragonflayer_forge_master", "db/d2b/a21001.html", "db/d2b/a21001" ],
-    [ "npc_enslaved_proto_drake", "d8/de8/a21005.html", "d8/de8/a21005" ],
-    [ "spell_ticking_time_bomb_aura", "df/d91/a21009.html", "df/d91/a21009" ],
-    [ "EnslavedProtoDrake", "d0/d17/a03491.html#a5858242a9c3f514606e1286c62fcf278", [
-      [ "TYPE_PROTODRAKE_AT", "d0/d17/a03491.html#a5858242a9c3f514606e1286c62fcf278a67b1878880ae995cdbaec79457546a56", null ],
-      [ "DATA_PROTODRAKE_MOVE", "d0/d17/a03491.html#a5858242a9c3f514606e1286c62fcf278a70a656538162760f8556efa23d8e4aad", null ],
-      [ "PATH_PROTODRAKE", "d0/d17/a03491.html#a5858242a9c3f514606e1286c62fcf278a9657512d7b2350f4b622e2e6abbb5076", null ],
-      [ "EVENT_REND", "d0/d17/a03491.html#a5858242a9c3f514606e1286c62fcf278a4330423ee013a070a273cb7ffefebd5d", null ],
-      [ "EVENT_FLAME_BREATH", "d0/d17/a03491.html#a5858242a9c3f514606e1286c62fcf278a150e396f9798bfba68078c51afc82d40", null ],
-      [ "EVENT_KNOCKAWAY", "d0/d17/a03491.html#a5858242a9c3f514606e1286c62fcf278ae40c8bf9c431d3b6ad432c7193166517", null ],
-      [ "SPELL_REND", "d0/d17/a03491.html#a5858242a9c3f514606e1286c62fcf278ac553ad24710435636bd9736df18484c6", null ],
-      [ "SPELL_FLAME_BREATH", "d0/d17/a03491.html#a5858242a9c3f514606e1286c62fcf278a4ee087423aeceb0f7c0aa5108e9b443b", null ],
-      [ "SPELL_KNOCK_AWAY", "d0/d17/a03491.html#a5858242a9c3f514606e1286c62fcf278aa72ede58fa3714726fab8d4b7252f5fa", null ],
-      [ "POINT_LAST", "d0/d17/a03491.html#a5858242a9c3f514606e1286c62fcf278a9075532cf57e3c71280e99da7ca250ee", null ]
+    [ "PlayerDump", "d8/d5e/a11408.html", "d8/d5e/a11408" ],
+    [ "PlayerDumpWriter", "d2/df7/a11412.html", "d2/df7/a11412" ],
+    [ "PlayerDumpReader", "d3/def/a11416.html", "d3/def/a11416" ],
+    [ "DumpReturn", "d0/d17/a03491.html#a4471667403db9bc7532f371d28743866", [
+      [ "DUMP_SUCCESS", "d0/d17/a03491.html#a4471667403db9bc7532f371d28743866a6516d3543697022dbf635913b248e48e", null ],
+      [ "DUMP_FILE_OPEN_ERROR", "d0/d17/a03491.html#a4471667403db9bc7532f371d28743866a01a5aec7fbe2bac9208d139b46a23656", null ],
+      [ "DUMP_TOO_MANY_CHARS", "d0/d17/a03491.html#a4471667403db9bc7532f371d28743866a73b27eff0adff2ab7bfd73e34aeb307d", null ],
+      [ "DUMP_FILE_BROKEN", "d0/d17/a03491.html#a4471667403db9bc7532f371d28743866a86acf22616e301a2ffef9ba80e227ed6", null ],
+      [ "DUMP_CHARACTER_DELETED", "d0/d17/a03491.html#a4471667403db9bc7532f371d28743866a08aa6d880c4d2da0ad4c8c1b27a5cc47", null ]
     ] ],
-    [ "TickingTimeBomb", "d0/d17/a03491.html#a9126ee26be77d9dcf83d14c8abae1cca", [
-      [ "SPELL_TICKING_TIME_BOMB_EXPLODE", "d0/d17/a03491.html#a9126ee26be77d9dcf83d14c8abae1ccaa7a62cc5b3c327da89b890c8c1ecac56b", null ]
-    ] ],
-    [ "AddSC_utgarde_keep", "d0/d17/a03491.html#a3252f1bf2be160c6d8960f41e595db47", null ],
-    [ "protodrakeCheckPos", "d0/d17/a03491.html#a0a556a898032cb18eabb6df4a3f482e1", null ]
+    [ "DumpTableType", "d0/d17/a03491.html#ad4739d865080bb5590831b606365e7ef", [
+      [ "DTT_CHARACTER", "d0/d17/a03491.html#ad4739d865080bb5590831b606365e7efaea3cb16043024e5fdfc4f3301d2df323", null ],
+      [ "DTT_CHAR_TABLE", "d0/d17/a03491.html#ad4739d865080bb5590831b606365e7efa3c784c38ccd07be78692e3e03bb53d94", null ],
+      [ "DTT_EQSET_TABLE", "d0/d17/a03491.html#ad4739d865080bb5590831b606365e7efa0588b27b8e9c5cd1cd20d4324cad45de", null ],
+      [ "DTT_INVENTORY", "d0/d17/a03491.html#ad4739d865080bb5590831b606365e7efa137a1112df8b9582403fec12c50fea7f", null ],
+      [ "DTT_MAIL", "d0/d17/a03491.html#ad4739d865080bb5590831b606365e7efa581ecbcaf9623d952b28fd4e964ae67d", null ],
+      [ "DTT_MAIL_ITEM", "d0/d17/a03491.html#ad4739d865080bb5590831b606365e7efa917099d0dd625e7aa46b6358fb4c036b", null ],
+      [ "DTT_ITEM", "d0/d17/a03491.html#ad4739d865080bb5590831b606365e7efad5be0dba7076e09532f3eb8760b8501d", null ],
+      [ "DTT_ITEM_GIFT", "d0/d17/a03491.html#ad4739d865080bb5590831b606365e7efadead833bce15df38e80b9eee85b1d847", null ],
+      [ "DTT_PET", "d0/d17/a03491.html#ad4739d865080bb5590831b606365e7efacb52988d860dbf41c2e2a5e2650d95c8", null ],
+      [ "DTT_PET_TABLE", "d0/d17/a03491.html#ad4739d865080bb5590831b606365e7efa4b50591bf81a27c7f6300f7733b14ac4", null ]
+    ] ]
 ];

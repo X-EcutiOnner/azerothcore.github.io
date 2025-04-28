@@ -1,6 +1,7 @@
 var a25460 =
 [
-    [ "HandlePeriodicTick", "d7/d23/a25460.html#a1bd15727da421fdbfc3a60136bfa9bc9", null ],
-    [ "PrepareAuraScript", "d7/d23/a25460.html#a1c4f592511c8886d0b9a5e64eb19cda7", null ],
-    [ "Register", "d7/d23/a25460.html#ac019a52a6f62f1251d20efcfadba1e78", null ]
+    [ "CalculateDamageAmount", "d7/d23/a25460.html#a2f608e8391e61434ef1b164c023854fe", null ],
+    [ "CalculateManaLeechAmount", "d7/d23/a25460.html#a8a4946d1718d8045a72c92355ff38ecb", null ],
+    [ "PrepareAuraScript", "d7/d23/a25460.html#a63d24d3ca4b2de1aa7f67376ded7bc59", null ],
+    [ "Register", "d7/d23/a25460.html#aa6e74e89930fd3cc564c3cba86e3687e", null ]
 ];

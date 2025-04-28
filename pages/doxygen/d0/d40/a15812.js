@@ -1,6 +1,11 @@
 var a15812 =
 [
-    [ "boss_sartharion_tenebronAI", "dc/dd9/a15816.html", "dc/dd9/a15816" ],
-    [ "boss_sartharion_tenebron", "d0/d40/a15812.html#ada445771d2d3d01fb586f15d62e21755", null ],
-    [ "GetAI", "d0/d40/a15812.html#a2eb4555506167a4aee7b844e305d7107", null ]
+    [ "spell_hadronox_summon_periodic_aura", "d0/d40/a15812.html#afcca15cddf71c0d46bd811eab9174f1a", null ],
+    [ "HandlePeriodic", "d0/d40/a15812.html#a048695baf71d307e5aaa00e54586c9f7", null ],
+    [ "OnApply", "d0/d40/a15812.html#a4466547bc1a5259a33354f2008d6cce7", null ],
+    [ "PrepareAuraScript", "d0/d40/a15812.html#a4205560054e5baed86aecba3b98fc202", null ],
+    [ "Register", "d0/d40/a15812.html#a09efdcddaed4af2833139ca20ef94376", null ],
+    [ "Validate", "d0/d40/a15812.html#a20827683249c17625242e205bb51f9e8", null ],
+    [ "_delay", "d0/d40/a15812.html#a191d7eec948e0753835bd41eef66f1ec", null ],
+    [ "_spellEntry", "d0/d40/a15812.html#a52e45512e2bbe34b0bdbfaa273aeb997", null ]
 ];

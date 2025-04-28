@@ -1,6 +1,7 @@
 var a14484 =
 [
-    [ "OnRemove", "dd/ddc/a14484.html#af9da33426d8ea4462f7d9957c4312019", null ],
-    [ "PrepareAuraScript", "dd/ddc/a14484.html#a594f2b65fdbe30f3d52e608f9b7c9731", null ],
-    [ "Register", "dd/ddc/a14484.html#a4b04c70fd9c55d20261d9d256ea0966f", null ]
+    [ "boss_azuregosAI", "d5/dac/a14488.html", "d5/dac/a14488" ],
+    [ "boss_azuregos", "dd/ddc/a14484.html#a48590db0037870ca5c9425a468e5ea3a", null ],
+    [ "GetAI", "dd/ddc/a14484.html#a3ea1fd967b8ab158a9b2bb5cdd7dcf83", null ],
+    [ "OnGossipSelect", "dd/ddc/a14484.html#a73220e54a3a53931e740f3c53c3bf20c", null ]
 ];

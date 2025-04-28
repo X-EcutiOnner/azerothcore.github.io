@@ -1,7 +1,6 @@
 var a21764 =
 [
-    [ "HandleScriptEffect", "dd/d62/a21764.html#a2d39a073c351860db735301b4cf9c79f", null ],
-    [ "PrepareSpellScript", "dd/d62/a21764.html#a3674adaef23f1531af360a65c14efadd", null ],
-    [ "Register", "dd/d62/a21764.html#a11b217c0066217f2da5ff42ce35c9a0a", null ],
-    [ "Validate", "dd/d62/a21764.html#a3dadb61ca7dd8195ba5fdac5bf49583c", null ]
+    [ "npc_spiritual_insightAI", "dd/d62/a21764.html#ab173cd8b623fcf8c36406155c91bc4db", null ],
+    [ "GetSpeachId", "dd/d62/a21764.html#ad2dd22651470f47e7a7ba6f687ba54e9", null ],
+    [ "IsSummonedBy", "dd/d62/a21764.html#ab6b39190d1195915ea0b4b191d864da6", null ]
 ];

@@ -1,6 +1,6 @@
 var a17700 =
 [
-    [ "npc_volatile_oozeAI", "d8/d85/a17704.html", "d8/d85/a17704" ],
-    [ "npc_volatile_ooze", "d2/d3f/a17700.html#a22847e44812a0b13b92cfcca3a70204e", null ],
-    [ "GetAI", "d2/d3f/a17700.html#a66b4918c14d90d5550ddc8dbe90c2e01", null ]
+    [ "npc_bone_spikeAI", "d8/d85/a17704.html", "d8/d85/a17704" ],
+    [ "npc_bone_spike", "d2/d3f/a17700.html#ac93d7a45eaeae8d7adf2a3b313825aed", null ],
+    [ "GetAI", "d2/d3f/a17700.html#a887a9156f550ca55047fa501e1709d95", null ]
 ];

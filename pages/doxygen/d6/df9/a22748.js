@@ -1,6 +1,6 @@
 var a22748 =
 [
-    [ "boss_essence_of_sufferingAI", "de/d26/a22752.html", "de/d26/a22752" ],
-    [ "boss_essence_of_suffering", "d6/df9/a22748.html#a1237f428657f0e9a0218695264358384", null ],
-    [ "GetAI", "d6/df9/a22748.html#adb54519bdf220cb3e30c81627c1ba11a", null ]
+    [ "CalculateAmount", "d6/df9/a22748.html#aeeabfef0accc4e0d1f78f7422dc30a99", null ],
+    [ "PrepareAuraScript", "d6/df9/a22748.html#a5cf70fe73d01e08e78a2d00e5bc95e8e", null ],
+    [ "Register", "d6/df9/a22748.html#a0d2e97463f268892965e307628aaa931", null ]
 ];

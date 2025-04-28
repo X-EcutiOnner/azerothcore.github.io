@@ -1,6 +1,9 @@
 var a24152 =
 [
-    [ "HandleSendEvent", "d4/dae/a24152.html#a698e367b59ce770a9b4d9fe6890edf46", null ],
-    [ "PrepareSpellScript", "d4/dae/a24152.html#aed8815b1d068ba04f12c7714a64af769", null ],
-    [ "Register", "d4/dae/a24152.html#aa55fa06e76b1f34e319e16984405ed20", null ]
+    [ "npc_enraged_spiritAI", "d4/dae/a24152.html#aa487c906c1c0d15dc7761c7288e7d3c6", null ],
+    [ "JustDied", "d4/dae/a24152.html#a9322622f679dbc311bd8983f5037bd2e", null ],
+    [ "JustEngagedWith", "d4/dae/a24152.html#a1d192d0dd563dc2735b23a171b2bf659", null ],
+    [ "Reset", "d4/dae/a24152.html#a2d56572acf042ba34f468f0ff3b0bd1a", null ],
+    [ "UpdateAI", "d4/dae/a24152.html#adc3d04d66f2b4de7a970f2cd5e476a2b", null ],
+    [ "_scheduler", "d4/dae/a24152.html#afa6825696b0622849f877b392df4b326", null ]
 ];

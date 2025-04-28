@@ -1,10 +1,11 @@
 var a13872 =
 [
-    [ "npc_batrider", "d6/d74/a13872.html#a6304a39ea92d48508a17dc059c47bc1b", null ],
-    [ "DamageTaken", "d6/d74/a13872.html#ad4818b1363082a91223526908c38777c", null ],
-    [ "JustEngagedWith", "d6/d74/a13872.html#a02e950fd30e4a0637d078d49c5c50d48", null ],
-    [ "Reset", "d6/d74/a13872.html#abee249da6f3bb6c2fd859812b02d7b65", null ],
-    [ "UpdateAI", "d6/d74/a13872.html#a828e5ab4b3ff52d7daf9a3a6a5412f52", null ],
-    [ "_mode", "d6/d74/a13872.html#acd53ec78a754219511af1ad2f11422a9", null ],
-    [ "_scheduler", "d6/d74/a13872.html#ad90beb6685c031a8b0ce4ec8ea3daa3f", null ]
+    [ "boss_hakkarAI", "d6/d74/a13872.html#ae29c8c0816fc3efb83d7912c559747e4", null ],
+    [ "ApplyHakkarPowerStacks", "d6/d74/a13872.html#aca5b7ee8d026ff7ee808e9ebd64c8dcf", null ],
+    [ "CheckInRoom", "d6/d74/a13872.html#a8a70e82f6c72760143148d9c9f8095cc", null ],
+    [ "EnterEvadeMode", "d6/d74/a13872.html#a6ca87d663714ddecfe562f0c705fa6f8", null ],
+    [ "JustDied", "d6/d74/a13872.html#ae6b8c72ad3d36ee6eea624a7d79ca26b", null ],
+    [ "JustEngagedWith", "d6/d74/a13872.html#ae023eb68fc066ba5713baaf3b0595f0c", null ],
+    [ "Reset", "d6/d74/a13872.html#a52db5743c09088e2e9f1aff1513960f2", null ],
+    [ "UpdateAI", "d6/d74/a13872.html#a1119212465bcf293991d7a520c6ffe42", null ]
 ];

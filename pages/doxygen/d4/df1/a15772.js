@@ -1,6 +1,6 @@
 var a15772 =
 [
-    [ "boss_krik_thirAI", "d0/d14/a15776.html", "d0/d14/a15776" ],
-    [ "boss_krik_thir", "d4/df1/a15772.html#ab7001cd05e8e5e371cbd6ee2b25f3522", null ],
-    [ "GetAI", "d4/df1/a15772.html#a10e582440092d5c6558c2a11d60907aa", null ]
+    [ "HandlePeriodic", "d4/df1/a15772.html#ad22b433005b2678bde3516a01eaaaa60", null ],
+    [ "PrepareAuraScript", "d4/df1/a15772.html#a3711004edaef7242d9cae1f23f9b7467", null ],
+    [ "Register", "d4/df1/a15772.html#ad570e51a3d2dd5d3cc4b91aebeefd9ef", null ]
 ];

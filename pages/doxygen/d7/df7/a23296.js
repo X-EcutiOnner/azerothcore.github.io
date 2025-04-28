@@ -1,8 +1,6 @@
 var a23296 =
 [
-    [ "npc_underbat", "d7/df7/a23296.html#a710a010d3425b7171ee45d8465fd6b2b", null ],
-    [ "JustEngagedWith", "d7/df7/a23296.html#ae137b6b763b3df6096c3bfd4dd7ee676", null ],
-    [ "Reset", "d7/df7/a23296.html#aae771ad526e8f72a90fe70ebbd91b472", null ],
-    [ "UpdateAI", "d7/df7/a23296.html#ab3a9b97543aee3fdf22c17e94f768c0e", null ],
-    [ "_scheduler", "d7/df7/a23296.html#a7644a73c2a5bcbbe0a3db5c782169752", null ]
+    [ "instance_steam_vault_InstanceMapScript", "d0/d12/a23300.html", "d0/d12/a23300" ],
+    [ "instance_steam_vault", "d7/df7/a23296.html#aa3417083841ccb50c8a2f29ba343e115", null ],
+    [ "GetInstanceScript", "d7/df7/a23296.html#a3a2edb84cc7067d3c8fa2151b4763c5a", null ]
 ];

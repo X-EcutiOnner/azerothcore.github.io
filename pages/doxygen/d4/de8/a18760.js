@@ -1,9 +1,13 @@
 var a18760 =
 [
-    [ "npc_isle_of_conquest_turretAI", "d4/de8/a18760.html#a0a0f24af22e4c72e843970c0d5c1ff87", null ],
-    [ "JustDied", "d4/de8/a18760.html#a88390da94298bea9c445bb422a806d23", null ],
-    [ "SpellHit", "d4/de8/a18760.html#afc8b8a9be6b0908fcb83af57bef7a57a", null ],
-    [ "UpdateAI", "d4/de8/a18760.html#a81c039a2a230b261967842161757b6f8", null ],
-    [ "events", "d4/de8/a18760.html#aee0aa5a950b3743409fd3ae482bc94b8", null ],
-    [ "faction", "d4/de8/a18760.html#aca941c070a97278c8ec27d7e6b4edede", null ]
+    [ "npc_icc_putricades_trapAI", "d4/de8/a18760.html#a9252a83e3deee62d5796e9f283662771", null ],
+    [ "DoAction", "d4/de8/a18760.html#ac8a30d8eba315b967c4e0713b14dcba7", null ],
+    [ "JustReachedHome", "d4/de8/a18760.html#a98f908e89630b23584982e298193cc0e", null ],
+    [ "JustSummoned", "d4/de8/a18760.html#abc5776b08b4fd43a4bb430f160eb630a", null ],
+    [ "Reset", "d4/de8/a18760.html#a3430515c94fd419bd2c59113b3f4e625", null ],
+    [ "SummonedCreatureDies", "d4/de8/a18760.html#a2e49dc8924da5d5537c33f7306287963", null ],
+    [ "UpdateAI", "d4/de8/a18760.html#a724e133f2c4d8c9fe140b3b998c88f64", null ],
+    [ "events", "d4/de8/a18760.html#a3249114a5b208109ec2c2a23533ede82", null ],
+    [ "instance", "d4/de8/a18760.html#a9f6f342ffbf6a29c745de6ea6a5ec0dc", null ],
+    [ "summons", "d4/de8/a18760.html#aaa914f4c2b48bd24c2dd06bc3599f563", null ]
 ];

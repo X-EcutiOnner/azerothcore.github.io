@@ -1,11 +1,10 @@
 var a04996 =
 [
-    [ "ModelPosition", "dd/dc9/a04996.html#ac611d964ae36e4ccd5a3bf385457a0ac", null ],
-    [ "init", "dd/dc9/a04996.html#a5b7df306c28a7985fd3ab17d48350a27", null ],
-    [ "moveToBasePos", "dd/dc9/a04996.html#a2fe1b48319a056f110ef700877257731", null ],
-    [ "transform", "dd/dc9/a04996.html#add4c2efec70be75d8ffcd1009b6c2699", null ],
-    [ "iDir", "dd/dc9/a04996.html#a24ba62281166e60036ac8a57b26c6abd", null ],
-    [ "iPos", "dd/dc9/a04996.html#a36a3bd930273e0313e3b09c1289e9317", null ],
-    [ "iRotation", "dd/dc9/a04996.html#ae53c5b044021f5ef04ecb5d8898fd8b3", null ],
-    [ "iScale", "dd/dc9/a04996.html#a81bb029dce2aadec2f147a1329ee285e", null ]
+    [ "AreaInfo", "dd/dc9/a04996.html#a1f45e5e030aaf5b16fb6c58097fa8b14", null ],
+    [ "adtId", "dd/dc9/a04996.html#a95c1c986b14dfeba867fa55e77553499", null ],
+    [ "flags", "dd/dc9/a04996.html#a780bdbb606fe694941d2105e14a29d70", null ],
+    [ "ground_Z", "dd/dc9/a04996.html#aca4fada3b2062f74cf66cd34a63c0c86", null ],
+    [ "groupId", "dd/dc9/a04996.html#a76ac6ccec6ff67f16689a6735e644e07", null ],
+    [ "result", "dd/dc9/a04996.html#ab9e9a7658d5fb76be208835f786036b0", null ],
+    [ "rootId", "dd/dc9/a04996.html#a6f60501d22be8c1d374a46e598d0f2e3", null ]
 ];

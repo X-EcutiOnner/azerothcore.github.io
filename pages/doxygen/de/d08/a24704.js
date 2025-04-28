@@ -1,7 +1,6 @@
 var a24704 =
 [
-    [ "CheckRequirement", "de/d08/a24704.html#a6be5f335a15226db87a04548490f488d", null ],
-    [ "PrepareSpellScript", "de/d08/a24704.html#a25463eda0ce51a124e8715baf305c8f6", null ],
-    [ "Register", "de/d08/a24704.html#a8db5a5597d8f6fe4064799766fb61502", null ],
-    [ "_level", "de/d08/a24704.html#a3d6867e8eae9afde2b03acc2e6ebe961", null ]
+    [ "OnHit", "de/d08/a24704.html#a56ecd2ea05f48b874b2890d7f15cc362", null ],
+    [ "PrepareSpellScript", "de/d08/a24704.html#a0d74ce7c43f0cb7329ca990f1b0eecdf", null ],
+    [ "Register", "de/d08/a24704.html#a7cd2cc858eeb7805a3efb72b081c284e", null ]
 ];

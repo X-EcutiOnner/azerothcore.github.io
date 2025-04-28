@@ -1,7 +1,6 @@
 var a13772 =
 [
-    [ "HandleTriggerSpell", "d2/d12/a13772.html#a66b366f4989d99a58b331e56024e4520", null ],
-    [ "PrepareAuraScript", "d2/d12/a13772.html#a4b00497e095b5c43571b543252b31e58", null ],
-    [ "Register", "d2/d12/a13772.html#abacee7689888bf8c5d21b534a6d71b40", null ],
-    [ "Validate", "d2/d12/a13772.html#a6bef0ac760a319deed6f71fee213e885", null ]
+    [ "instance_zulaman_InstanceMapScript", "df/d36/a13776.html", "df/d36/a13776" ],
+    [ "instance_zulaman", "d2/d12/a13772.html#a5a81dddc07dea599e2a197737206427b", null ],
+    [ "GetInstanceScript", "d2/d12/a13772.html#a2144a517b22c5d6e7f6cc31d344669fc", null ]
 ];

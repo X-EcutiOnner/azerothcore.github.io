@@ -1,6 +1,6 @@
 var a22016 =
 [
-    [ "npc_mcmanus", "d2/ddd/a22016.html#a4e9da3fa22b74f51f72c58cbf22dc683", null ],
-    [ "OnGossipHello", "d2/ddd/a22016.html#acb8f8b9c10387c0bb45b7d68f7f9821f", null ],
-    [ "OnGossipSelect", "d2/ddd/a22016.html#a5e8c37ebcfa737ee3066ab8df3e453f8", null ]
+    [ "ChangeSummonPos", "d2/ddd/a22016.html#aeb2cf0a5d2e563e4983ddd237a2b1001", null ],
+    [ "PrepareSpellScript", "d2/ddd/a22016.html#a1654fec971696e613b5102b3ca5030f1", null ],
+    [ "Register", "d2/ddd/a22016.html#ab1e7d44914952dfb7f7ccf2de4da286f", null ]
 ];

@@ -1,5 +1,6 @@
 var a15200 =
 [
-    [ "go_bristlelimb_cage", "d0/d8e/a15200.html#ab965b9c529577a5e58639285fa35d3d7", null ],
-    [ "OnGossipHello", "d0/d8e/a15200.html#a6f29e07550767c1c0610f46e4921503f", null ]
+    [ "npc_depth_chargeAI", "d3/d97/a15204.html", "d3/d97/a15204" ],
+    [ "npc_depth_charge", "d0/d8e/a15200.html#ad16e3431b06fdd6797bfb51dda9005f5", null ],
+    [ "GetAI", "d0/d8e/a15200.html#a16de1a207304ea2ad7f47d5674deeec1", null ]
 ];

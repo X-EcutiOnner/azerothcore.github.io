@@ -1,14 +1,15 @@
 var a21712 =
 [
-    [ "npc_commander_eligor_dawnbringerAI", "d0/dae/a21712.html#a84beab3be0d7e5d5d3674a57b1928f09", null ],
-    [ "ChangeImage", "d0/dae/a21712.html#a815e5c67b282e2840676b5453d94d5dc", null ],
-    [ "MovementInform", "d0/dae/a21712.html#a2ed09d31771e9c225d8d8b40ba8f0f82", null ],
-    [ "Reset", "d0/dae/a21712.html#a71410a3e3e5134311bf7bc2ef3051eb3", null ],
-    [ "StoreTargets", "d0/dae/a21712.html#a0732307643a442bc3f070b9cc91d78c9", null ],
-    [ "TurnAudience", "d0/dae/a21712.html#afa7fce3a9cccfcc7b088e72df9f312a4", null ],
-    [ "UpdateAI", "d0/dae/a21712.html#a454984668ca58c8a6fdd9ad4f630dece", null ],
-    [ "_events", "d0/dae/a21712.html#a907626beb601f789a725d88d45689eb2", null ],
-    [ "audienceList", "d0/dae/a21712.html#a5bdb09658bd93e46387df8eeb8cf0221", null ],
-    [ "imageList", "d0/dae/a21712.html#a8177ed5bc5fd54b98f2f36c9389b8099", null ],
-    [ "talkWing", "d0/dae/a21712.html#ace957ffe4fba8f229946d61d63c1798c", null ]
+    [ "npc_q24545_lich_kingAI", "d0/dae/a21712.html#abebe71c6cfb705ce4409dd7fae3842e3", null ],
+    [ "CleanAll", "d0/dae/a21712.html#a2720994f88a2706a2f0b4fb361f81f2c", null ],
+    [ "JustSummoned", "d0/dae/a21712.html#a6049433795be30eb31e240a4939ad42f", null ],
+    [ "Reset", "d0/dae/a21712.html#aebd396de51edef790cd0b599c94f78a0", null ],
+    [ "SetData", "d0/dae/a21712.html#a8ee3a4f85aebe9b9a8e18858b76042a6", null ],
+    [ "SetGUID", "d0/dae/a21712.html#a9dfbb607bb117d2d1fc8a4e61c42859f", null ],
+    [ "SpellHitTarget", "d0/dae/a21712.html#adb8be583a14c8d0951b45dc027cf31d9", null ],
+    [ "SummonedCreatureDespawn", "d0/dae/a21712.html#ae8049cc5b58c6647b37941fb98c51fe5", null ],
+    [ "UpdateAI", "d0/dae/a21712.html#a24f17e0954e498e4a4b73b4cdffea6a3", null ],
+    [ "events", "d0/dae/a21712.html#a3e89e187c08f45a51fb69b647dcc766d", null ],
+    [ "playerGUID", "d0/dae/a21712.html#ac84b9efb3ee2eaa2160afe5d0217a884", null ],
+    [ "summons", "d0/dae/a21712.html#a1de76ab7f3304f8373c633fa7d0aa533", null ]
 ];

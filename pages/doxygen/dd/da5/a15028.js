@@ -1,6 +1,5 @@
 var a15028 =
 [
-    [ "boss_veknilash", "dd/da5/a15028.html#a73a4095c3dd0ffbd9d7ef5a8a837f13f", null ],
-    [ "IAmVeklor", "dd/da5/a15028.html#a454027d829b962ee0feebb6fd5687714", null ],
-    [ "JustEngagedWith", "dd/da5/a15028.html#ace8de3d9a397d0571da1f5bdd2ba84d5", null ]
+    [ "at_cthun_center", "dd/da5/a15028.html#a75cf2b77215e0d50c1c89ec9b522ebc3", null ],
+    [ "OnTrigger", "dd/da5/a15028.html#af744df9577e84ab64749076324e574c9", null ]
 ];

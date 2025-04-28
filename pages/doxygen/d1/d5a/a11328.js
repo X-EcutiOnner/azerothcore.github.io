@@ -1,4 +1,12 @@
 var a11328 =
 [
-    [ "Text", "d1/d5a/a11328.html#ab4b16957cc9e845b0f763b4241ba5c89", null ]
+    [ "BroadcastTextBuilder", "d1/d5a/a11328.html#adafc60b68bed31fdd87f5c71244c96f2", null ],
+    [ "operator()", "d1/d5a/a11328.html#a16f9719278e00013c25902846fa1be5b", null ],
+    [ "operator()", "d1/d5a/a11328.html#ac87701626dddffb6b09bf504b97c4d55", null ],
+    [ "_achievementId", "d1/d5a/a11328.html#a82de25331657b17ce0de33f2b374abda", null ],
+    [ "_gender", "d1/d5a/a11328.html#a71032b0749dd75f552107503528e8166", null ],
+    [ "_msgType", "d1/d5a/a11328.html#a232325cefa217843da5cc6db7e5d80fe", null ],
+    [ "_source", "d1/d5a/a11328.html#ab73315225b3aa36a309f45596f7089f4", null ],
+    [ "_target", "d1/d5a/a11328.html#a958b154f3c82188e9684be0f0b7dae56", null ],
+    [ "_textId", "d1/d5a/a11328.html#a0bbe45b38a92967f145fb1d608d647b1", null ]
 ];

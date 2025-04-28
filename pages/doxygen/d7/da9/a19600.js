@@ -1,6 +1,6 @@
 var a19600 =
 [
-    [ "PrepareSpellScript", "d7/da9/a19600.html#af280f3880e2e567188ba8ca3e45c00c0", null ],
-    [ "RecalculateDamage", "d7/da9/a19600.html#a54c26d24f62c36108f9fceb7a0c53e37", null ],
-    [ "Register", "d7/da9/a19600.html#aac131aa2d2e5342cf0303b918a077b45", null ]
+    [ "npc_living_constellationAI", "d7/d2c/a19604.html", "d7/d2c/a19604" ],
+    [ "npc_living_constellation", "d7/da9/a19600.html#a6ee651a525498cb5715ccfedaa26e05d", null ],
+    [ "GetAI", "d7/da9/a19600.html#a4533812a4da72c0d9eff6d6c9eaf772a", null ]
 ];

@@ -1,14 +1,18 @@
 var a17396 =
 [
-    [ "npc_gunshipAI", "d6/da9/a17396.html#a75444497ffd6b7365827eea57fd946f9", null ],
-    [ "DamageTaken", "d6/da9/a17396.html#a9c1825ec51aaecedd1035ae9a1ded6a0", null ],
-    [ "GetData", "d6/da9/a17396.html#a0142bec2427c1256431e55d3f74b8948", null ],
-    [ "JustDied", "d6/da9/a17396.html#aa19c815ad64f81fb5240c5e0667bccc9", null ],
-    [ "SetGUID", "d6/da9/a17396.html#a692a5a16ea75e816f2f58c469e042a1b", null ],
-    [ "UpdateAI", "d6/da9/a17396.html#a8bab1a755c2262e9f36f295781d30909", null ],
-    [ "_died", "d6/da9/a17396.html#af4480427460748bccae214737469ddb7", null ],
-    [ "_instance", "d6/da9/a17396.html#a21f9c24e80145db0c6847c81261d0e8d", null ],
-    [ "_shipVisits", "d6/da9/a17396.html#a6f9730b746e195a99dc11357fd0387ba", null ],
-    [ "_summonedFirstMage", "d6/da9/a17396.html#a721cc96cc76a27574a1a4eb1996b100e", null ],
-    [ "_teamIdInInstance", "d6/da9/a17396.html#a195ff7ab2c2e96ab0bcd0a96c1e21512", null ]
+    [ "boss_festergutAI", "d6/da9/a17396.html#a7649f45cfc8bf05bf46b4e50319b4fb3", null ],
+    [ "EnterEvadeMode", "d6/da9/a17396.html#a001e00435bb01b464573dbff8338c64a", null ],
+    [ "GetData", "d6/da9/a17396.html#aea4509b130c9b5a8a5dd054ac8783312", null ],
+    [ "JustDied", "d6/da9/a17396.html#abd0f4f55cfb026d0e25ff7a825d390d1", null ],
+    [ "JustEngagedWith", "d6/da9/a17396.html#ad5538ae8933a4fd492ab45560dea785e", null ],
+    [ "JustReachedHome", "d6/da9/a17396.html#a7e371063b84df1f8fe1df1a5bff38ca9", null ],
+    [ "KilledUnit", "d6/da9/a17396.html#a3af6cacb219928c3c89f7ce3d980ae88", null ],
+    [ "RemoveBlight", "d6/da9/a17396.html#a5807cd013ebe935f69bc1824386afd72", null ],
+    [ "Reset", "d6/da9/a17396.html#aeb046d9ef4aa9b7b94aa1ee1727ab1be", null ],
+    [ "SetData", "d6/da9/a17396.html#af8678cd7e9ddd7ef8095217e4820e7af", null ],
+    [ "SpellHitTarget", "d6/da9/a17396.html#a0c6684365e711d48f4f4ffc4a2b4e524", null ],
+    [ "UpdateAI", "d6/da9/a17396.html#ac2b9e850d425336f2bdc6a1d9a707fa0", null ],
+    [ "_gasDummyGUID", "d6/da9/a17396.html#a742b6ab0990d54e011ac36fde2c2cca2", null ],
+    [ "_inhaleCounter", "d6/da9/a17396.html#aed5b7fce1ebf9f76fffa2ba682c54b4e", null ],
+    [ "_maxInoculatedStack", "d6/da9/a17396.html#aeda8f6f959f7b7bd311aabde940a05ca", null ]
 ];

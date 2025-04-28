@@ -1,8 +1,6 @@
 var a19284 =
 [
-    [ "npc_centrifuge_constructAI", "d7/d87/a19284.html#a9219f4955ae82ca7f401ea1c63f66b09", null ],
-    [ "DamageTaken", "d7/d87/a19284.html#aa568418de267a99108698e79baa1b3f4", null ],
-    [ "JustEngagedWith", "d7/d87/a19284.html#ac6ecbb17624c2747253c68a50b93c40f", null ],
-    [ "Reset", "d7/d87/a19284.html#a2f7750cea2f59d794c85e20b703370af", null ],
-    [ "UpdateAI", "d7/d87/a19284.html#a28316416ad6c56d83c9e878511256445", null ]
+    [ "boss_eregosAI", "db/d5e/a19288.html", "db/d5e/a19288" ],
+    [ "boss_eregos", "d7/d87/a19284.html#a105820f29aa1391d77a56e024c4b5637", null ],
+    [ "GetAI", "d7/d87/a19284.html#aee43f0dfee70ab9618c560a27504cb02", null ]
 ];

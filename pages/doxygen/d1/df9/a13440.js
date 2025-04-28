@@ -1,10 +1,7 @@
 var a13440 =
 [
-    [ "npc_sentinel_leader", "d1/df9/a13440.html#a583c43b047dd5c172938d60ef647ecd5", null ],
-    [ "JustEngagedWith", "d1/df9/a13440.html#a92c83a7fcc04df1db3be1d16f4a461d0", null ],
-    [ "MovementInform", "d1/df9/a13440.html#a6d51ada16fac1f5eda8b09aede746a4b", null ],
-    [ "Reset", "d1/df9/a13440.html#ad638ba6ce33753af6a0165c053a90d78", null ],
-    [ "UpdateAI", "d1/df9/a13440.html#aa689bb8189eb8cf842a0aa63bb9f1a73", null ],
-    [ "_events", "d1/df9/a13440.html#ada65bdf153ae9b3262b0f55fb540be17", null ],
-    [ "_helpCalled", "d1/df9/a13440.html#a803c324e790cd74e90ff6c2adde37ba3", null ]
+    [ "npc_eris_hevenfireAI", "dc/dac/a13444.html", "dc/dac/a13444" ],
+    [ "npc_eris_hevenfire", "d1/df9/a13440.html#a77f0836dc0b19114316b8b67839d8033", null ],
+    [ "GetAI", "d1/df9/a13440.html#ad67a81ad20fac785c199c16fea8fe6f8", null ],
+    [ "OnQuestAccept", "d1/df9/a13440.html#a1e0baec5706cfddd678b58eb9359997e", null ]
 ];

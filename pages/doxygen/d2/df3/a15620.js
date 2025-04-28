@@ -1,7 +1,6 @@
 var a15620 =
 [
-    [ "go_troll_cageAI", "d2/df3/a15620.html#ae742afdb7a37d64bb852b7ecd076d007", null ],
-    [ "GossipHello", "d2/df3/a15620.html#a5c91cb491021b15ba70cc8ef5f07d037", null ],
-    [ "initBlyCrewMember", "d2/df3/a15620.html#a6bfb77ec97367d8704885acfef801b74", null ],
-    [ "instance", "d2/df3/a15620.html#ad5d736dd6cbe7a23d03f21004cae530d", null ]
+    [ "SayerEntry", "d2/df3/a15620.html#a3f9e374ec2a49823d942c29572ac2fa0", null ],
+    [ "SayTimer", "d2/df3/a15620.html#a942073f24fd12da712184243d9f098f2", null ],
+    [ "TextEntry", "d2/df3/a15620.html#a360822e4c069be6019c0a465cb2499cf", null ]
 ];

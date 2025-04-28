@@ -1,6 +1,7 @@
 var a25432 =
 [
-    [ "HandleActivateObject", "d8/d9f/a25432.html#a0d14ca0b21716855a04a0a9267f3e019", null ],
-    [ "PrepareSpellScript", "d8/d9f/a25432.html#a684079434128bacd3d8b8b71c14dc56a", null ],
-    [ "Register", "d8/d9f/a25432.html#a266301f59c809c03d0ccfc48a2ace302", null ]
+    [ "HandleScriptEffect", "d8/d9f/a25432.html#acbcc05fa433f5bf75998b15e4e25fdad", null ],
+    [ "PrepareSpellScript", "d8/d9f/a25432.html#adf5a3b94012ac871c70f5782d57ae1cd", null ],
+    [ "Register", "d8/d9f/a25432.html#a00596a3f8f0699c25e52a5778d59a2b2", null ],
+    [ "SelectTarget", "d8/d9f/a25432.html#a6a59b7ce696f959b2026cf8088079e89", null ]
 ];

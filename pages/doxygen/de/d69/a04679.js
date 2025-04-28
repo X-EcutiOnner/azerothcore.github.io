@@ -1,5 +1,6 @@
 var a04679 =
 [
-    [ "AuthSocketMgr", "d8/d04/a05624.html", "d8/d04/a05624" ],
-    [ "sAuthSocketMgr", "de/d69/a04679.html#abd297ee25e8d77bf56f22d43561d9451", null ]
+    [ "_CRT_SECURE_NO_DEPRECATE", "de/d69/a04679.html#a411c46599e926f8cdf49c63957255359", null ],
+    [ "MAINMagic", "de/d69/a04679.html#a026039bd50ec58444fa975da328951ec", null ],
+    [ "MPHDMagic", "de/d69/a04679.html#aac8041bc8ca704e28f2b3054649b3752", null ]
 ];

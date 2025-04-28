@@ -1,7 +1,6 @@
 var a17540 =
 [
-    [ "FilterTargets", "d0/d49/a17540.html#a77afd0b56c9bddd74999d5df30457b7f", null ],
-    [ "HandleDummy", "d0/d49/a17540.html#a04166e4e5a4ba082755433555855cb30", null ],
-    [ "PrepareSpellScript", "d0/d49/a17540.html#aaefa58014db12fb76e3416ae807c69e8", null ],
-    [ "Register", "d0/d49/a17540.html#a497ee30669d45341023abe549c91ddaf", null ]
+    [ "PrepareSpellScript", "d0/d49/a17540.html#a47df21229183b628c1d82bf34cbbe396", null ],
+    [ "Register", "d0/d49/a17540.html#a3cc4a1180f66cd9fe19020c1e5f2fccb", null ],
+    [ "RelocateTransportOffset", "d0/d49/a17540.html#acab29d77b4806f5d59ddc5dc3493c8ae", null ]
 ];

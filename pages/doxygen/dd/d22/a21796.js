@@ -1,9 +1,7 @@
 var a21796 =
 [
-    [ "npc_venture_co_stragglerAI", "dd/d22/a21796.html#abc3cc04b89b95fd45969ba5859bf810c", null ],
-    [ "Reset", "dd/d22/a21796.html#acfeaad9db95d0b391a64cc65ca3a1cee", null ],
-    [ "SpellHit", "dd/d22/a21796.html#ae1919454c270d10342079b60a727a306", null ],
-    [ "UpdateAI", "dd/d22/a21796.html#a0846336d8d1333e2c2f50731a722c3b7", null ],
-    [ "_events", "dd/d22/a21796.html#a9cd6e6b549e10900f35838f04e10e0f5", null ],
-    [ "_playerGUID", "dd/d22/a21796.html#a649493944b143782d995b5bdda3714b4", null ]
+    [ "npc_emilyAI", "d6/dd8/a21800.html", "d6/dd8/a21800" ],
+    [ "npc_emily", "dd/d22/a21796.html#ab40f581fad087b3d32a7724fca97895d", null ],
+    [ "GetAI", "dd/d22/a21796.html#a6317e4b9787c25ce119d08432cd1acf7", null ],
+    [ "OnQuestAccept", "dd/d22/a21796.html#ad434e7bf2427b3575a8459021e792152", null ]
 ];

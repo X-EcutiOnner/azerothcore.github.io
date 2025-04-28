@@ -1,12 +1,14 @@
 var a22488 =
 [
-    [ "boss_anzu", "d4/d5a/a22488.html#aef8c5c57afa95936d8c2809fa1257799", null ],
-    [ "JustEngagedWith", "d4/d5a/a22488.html#a2384a1ea128ad5a43d3b8fb36fe39aba", null ],
-    [ "Reset", "d4/d5a/a22488.html#a61c75d6d96aa5cfb41e87faa74ec2fa5", null ],
-    [ "SummonBroods", "d4/d5a/a22488.html#a7f3f8868a5648bdeccd03d08203e4cf1", null ],
-    [ "SummonedCreatureDies", "d4/d5a/a22488.html#a2e35df609db069c8d31afffabcfead34", null ],
-    [ "SummonSpirits", "d4/d5a/a22488.html#a23e03d1718fba49a3bd57609abb77c6a", null ],
-    [ "UpdateAI", "d4/d5a/a22488.html#a06373460d454bfaf8db793e591cc0abd", null ],
-    [ "AnzuSpiritPos", "d4/d5a/a22488.html#a64e42ce8856b9d10c7f24fefc0c1e0b2", null ],
-    [ "talkTimer", "d4/d5a/a22488.html#a2afae53534d9e777c90d09456f834b5d", null ]
+    [ "event_enter", "d4/d5a/a22488.html#ac80d575f14dca1c901be55e34cc690e1", null ],
+    [ "event_leave", "d4/d5a/a22488.html#a3dc0a11a5c06079026d27852e7561b74", null ],
+    [ "map_tower_a", "d4/d5a/a22488.html#a9a65209caac3791b835c1920f5a667cf", null ],
+    [ "map_tower_h", "d4/d5a/a22488.html#aa30ae484db7c69137abb13adb1b3c505", null ],
+    [ "map_tower_n", "d4/d5a/a22488.html#a0453edceab2132e900bec183e360e210", null ],
+    [ "slider_disp", "d4/d5a/a22488.html#aec3c8dde769675e3f436515c7a3bcf24", null ],
+    [ "slider_n", "d4/d5a/a22488.html#a65015a3a24a5554643ecb5da47e24eea", null ],
+    [ "slider_pos", "d4/d5a/a22488.html#acc63481f7613242ac06c6bee6c136a30", null ],
+    [ "ui_tower_a", "d4/d5a/a22488.html#a0107bfd3b1df99568e02d6ca80042c86", null ],
+    [ "ui_tower_h", "d4/d5a/a22488.html#a94a5fa0517fd0713b74f50a3d1d627cc", null ],
+    [ "ui_tower_n", "d4/d5a/a22488.html#ae0fd99db88e6c60b829a18ff8e4be9a0", null ]
 ];
