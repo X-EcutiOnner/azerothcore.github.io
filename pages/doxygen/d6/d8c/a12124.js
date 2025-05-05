@@ -1,5 +1,6 @@
 var a12124 =
 [
-    [ "at_scarshield_infiltrator", "d6/d8c/a12124.html#a2d1df47353c9a7e0d506b7c54e7be58e", null ],
-    [ "OnTrigger", "d6/d8c/a12124.html#a607c3ee2bd4716cf1e0499e202d379fc", null ]
+    [ "OnEffect", "d6/d8c/a12124.html#a1b5999f392cec9fea4431c3f746ee034", null ],
+    [ "PrepareSpellScript", "d6/d8c/a12124.html#a4748a82fcc7b3794850461092ee6b2e4", null ],
+    [ "Register", "d6/d8c/a12124.html#acfa32dfc22778576d0dd3096c456ebe0", null ]
 ];

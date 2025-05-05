@@ -1,7 +1,6 @@
 var a13176 =
 [
-    [ "CheckCast", "de/d5a/a13176.html#a6ac00101ced46cebd1dd6a32c89374d2", null ],
-    [ "PrepareSpellScript", "de/d5a/a13176.html#a07973000e8a4b0ff66d4f4d1fd9f327e", null ],
-    [ "Register", "de/d5a/a13176.html#a7deecb2b7dfc410af30d8b14d941f74a", null ],
-    [ "Validate", "de/d5a/a13176.html#a9208b9c010bb9cc379c195939351aa45", null ]
+    [ "FilterTargets", "de/d5a/a13176.html#a78675c3421e0243de9e136b646c56be1", null ],
+    [ "PrepareSpellScript", "de/d5a/a13176.html#a0fb177c467c2582e6b66ceae51780d6c", null ],
+    [ "Register", "de/d5a/a13176.html#a39f8a11194fe19a14d25b30faaa6cf42", null ]
 ];

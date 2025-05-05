@@ -1,9 +1,9 @@
 var a01097 =
 [
-    [ "boss_ambassador_flamelash", "de/dd5/a11824.html", "de/dd5/a11824" ],
-    [ "boss_ambassador_flamelash::boss_ambassador_flamelashAI", "df/dd5/a11828.html", "df/dd5/a11828" ],
-    [ "npc_burning_spirit", "d1/db9/a11832.html", "d1/db9/a11832" ],
-    [ "npc_burning_spirit::npc_burning_spiritAI", "db/dc8/a11836.html", "db/dc8/a11836" ],
+    [ "boss_ambassador_flamelash", "d6/dd3/a11820.html", "d6/dd3/a11820" ],
+    [ "boss_ambassador_flamelash::boss_ambassador_flamelashAI", "de/dd5/a11824.html", "de/dd5/a11824" ],
+    [ "npc_burning_spirit", "df/dd5/a11828.html", "df/dd5/a11828" ],
+    [ "npc_burning_spirit::npc_burning_spiritAI", "d1/db9/a11832.html", "d1/db9/a11832" ],
     [ "AmbassadorEvents", "d1/dfa/a01097.html#a6408fb2256d254e95ca33854b1e92f3e", [
       [ "AGGRO_TEXT", "d1/dfa/a01097.html#a6408fb2256d254e95ca33854b1e92f3ea5b8aad11d0c55c9f7c0a9a6f2fa819d9", null ],
       [ "EVENT_SPELL_FIREBLAST", "d1/dfa/a01097.html#a6408fb2256d254e95ca33854b1e92f3eaf938480f48b00e9201b4290fa26de919", null ],

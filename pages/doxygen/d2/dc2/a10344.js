@@ -1,10 +1,10 @@
 var a10344 =
 [
-    [ "ArgsType", "d2/dc2/a10344.html#a4ea4d3b165a196482ebe96af9c462658", null ],
-    [ "AuraScriptType", "d2/dc2/a10344.html#a7b2a19d6c7c75c0df22eae17b0c8e90a", null ],
-    [ "SpellScriptType", "d2/dc2/a10344.html#a790a8ef2b59bfe6298486648858506ed", null ],
-    [ "GenericSpellAndAuraScriptLoader", "d2/dc2/a10344.html#ab1bd69d57c6e2322044b8f7cf46cedb6", null ],
-    [ "GetAuraScript", "d2/dc2/a10344.html#a5f3c898a0dc6d9085589b88eb5571528", null ],
-    [ "GetSpellScript", "d2/dc2/a10344.html#a913fa28d2a2cf100ce73cf641e333e01", null ],
-    [ "_args", "d2/dc2/a10344.html#aad6527f64ede0d896880ffa90d05a378", null ]
+    [ "TicketScript", "d2/dc2/a10344.html#aec2b310ba0b26aa84a245207256edb0e", null ],
+    [ "IsDatabaseBound", "d2/dc2/a10344.html#afa21fa5aaf58c4ff964bcb3f81afbb32", null ],
+    [ "OnTicketClose", "d2/dc2/a10344.html#add082bd9a2d3a068bbb8f3a97d130887", null ],
+    [ "OnTicketCreate", "d2/dc2/a10344.html#a3436bbc78425bf5144c81f6309060b33", null ],
+    [ "OnTicketResolve", "d2/dc2/a10344.html#abd4d9cdf0fd99c10d6d86c395adecb9a", null ],
+    [ "OnTicketStatusUpdate", "d2/dc2/a10344.html#ae30b28cef4497cbed153c3e98e26d00d", null ],
+    [ "OnTicketUpdateLastChange", "d2/dc2/a10344.html#a3535e5592bc5f9ceb6b642b80a4f46b7", null ]
 ];

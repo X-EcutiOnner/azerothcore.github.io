@@ -1,6 +1,7 @@
 var a11880 =
 [
-    [ "boss_grizzleAI", "d4/d09/a11884.html", "d4/d09/a11884" ],
-    [ "boss_grizzle", "db/d2f/a11880.html#a6c9913cec9503a86e2f5358f65b97b26", null ],
-    [ "GetAI", "db/d2f/a11880.html#aa0bf6c89f13fbd20695ebb7ce965b0f5", null ]
+    [ "boss_grizzleAI", "db/d2f/a11880.html#a3310892cafc2a8e022105f77258b25af", null ],
+    [ "JustEngagedWith", "db/d2f/a11880.html#a598e7e7d6bdd847bf01968116988a935", null ],
+    [ "UpdateAI", "db/d2f/a11880.html#a2dc5c27cd4eaf2aa1484a370a68e3314", null ],
+    [ "nextTremorTime", "db/d2f/a11880.html#aa392b5a5db08d8676614923ae4838d05", null ]
 ];

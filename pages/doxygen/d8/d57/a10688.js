@@ -1,10 +1,7 @@
 var a10688 =
 [
-    [ "Count", "d8/d57/a10688.html#a97b56650a40ff3d39c6281d43261f06f", null ],
-    [ "EntryType", "d8/d57/a10688.html#a7c4db5da5d5e501172b8581e4e7bb865", null ],
-    [ "ItemID", "d8/d57/a10688.html#a1daad03864355f94d90315fea68892d4", null ],
-    [ "Money", "d8/d57/a10688.html#a856d32f52e85b2b7329f85b8e04ad0ee", null ],
-    [ "OtherTab", "d8/d57/a10688.html#a359c633cc0034dc8ae8b7db69d3dd739", null ],
-    [ "PlayerGUID", "d8/d57/a10688.html#a90e01e455d373204617b2747ca95fe04", null ],
-    [ "TimeOffset", "d8/d57/a10688.html#a11cf13b65aafbd4dc70399362f4f87fe", null ]
+    [ "GuildBankLogQueryResults", "d8/d57/a10688.html#a878f9545b3141a327de85771de4f1779", null ],
+    [ "Write", "d8/d57/a10688.html#aafdb5114c7d0e8a2d18a848f3c94aa38", null ],
+    [ "Entry", "d8/d57/a10688.html#a5f3704df5311f06833c3243201d35930", null ],
+    [ "Tab", "d8/d57/a10688.html#a214db612bb08e557dd41d3962c827dca", null ]
 ];

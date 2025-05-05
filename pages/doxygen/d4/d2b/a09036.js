@@ -1,10 +1,10 @@
 var a09036 =
 [
-    [ "GridObjectLoader", "d4/d2b/a09036.html#a57cd46fee6f747221761aa3114c40ba6", null ],
-    [ "AddObjectHelper", "d4/d2b/a09036.html#a4e857363f544e91918b22df7fb6b1fe8", null ],
-    [ "LoadAllCellsInGrid", "d4/d2b/a09036.html#a2f4aac240f93354a4a1cd22a7144fb91", null ],
-    [ "LoadCreatures", "d4/d2b/a09036.html#a000e7ba83cc08e6c5b34a9bff222a809", null ],
-    [ "LoadGameObjects", "d4/d2b/a09036.html#ad577dbb6544e806d25b496796651ba5b", null ],
-    [ "_grid", "d4/d2b/a09036.html#abe551354634514fa3998eccb10fcbefe", null ],
-    [ "_map", "d4/d2b/a09036.html#a1d3ca2b103b23a95fb208ee64fe4037b", null ]
+    [ "~GridCell", "d4/d2b/a09036.html#ab6ca5fbc81f184597445b7aef70bb2ad", null ],
+    [ "AddGridObject", "d4/d2b/a09036.html#a22ac43b185d6a34c04fb5a36970d7df2", null ],
+    [ "AddWorldObject", "d4/d2b/a09036.html#a039ebb29cf4bd2eeb7fca43eba302542", null ],
+    [ "Visit", "d4/d2b/a09036.html#a6409c692a1f6ddfee1b3c2806d161d44", null ],
+    [ "Visit", "d4/d2b/a09036.html#a2d13e0178010836f05280c1b5b11ad57", null ],
+    [ "_gridObjects", "d4/d2b/a09036.html#a1a3fdbe9e3b937c05f82572d6f757e87", null ],
+    [ "_worldObjects", "d4/d2b/a09036.html#a29d0551bee2df852e262846d82e90dba", null ]
 ];

@@ -1,8 +1,9 @@
 var a08764 =
 [
-    [ "VehicleSeat", "dc/d44/a08764.html#ad2d19e3fc73c06cd7c8e339bd2b45a0c", null ],
-    [ "IsEmpty", "dc/d44/a08764.html#a9f68076857cb85ee7679f04043acdedc", null ],
-    [ "Passenger", "dc/d44/a08764.html#ac334f2f573bf52f164d570f8b83fc197", null ],
-    [ "SeatAddon", "dc/d44/a08764.html#a3c46401aa5859287e4bcb24141c848cc", null ],
-    [ "SeatInfo", "dc/d44/a08764.html#add0cf92d445f6ea0cf910b0bc0d80b62", null ]
+    [ "VehicleAccessory", "dc/d44/a08764.html#a70576b3cfa29bb6a31fdc61588b6d3c4", null ],
+    [ "AccessoryEntry", "dc/d44/a08764.html#a6e3cd6b20680974235c146d34b16295a", null ],
+    [ "IsMinion", "dc/d44/a08764.html#ace3fd27311370e4db4103f2c3ac70410", null ],
+    [ "SeatId", "dc/d44/a08764.html#a73b54fbbfe8e18f7129acc65dadec447", null ],
+    [ "SummonedType", "dc/d44/a08764.html#afc843c62c580c860471b0e49f5901363", null ],
+    [ "SummonTime", "dc/d44/a08764.html#a13a024b3ceacf38ce4907b079d732420", null ]
 ];

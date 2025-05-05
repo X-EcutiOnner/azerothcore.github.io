@@ -1,4 +1,4 @@
 var a10784 =
 [
-    [ "InvalidUtf8ValueException", "d5/d9e/a10784.html#ad629b46d769fbf8784ce3c4a04c1f121", null ]
+    [ "InvalidHyperlinkException", "d5/d9e/a10784.html#a4e30376bb16ea56434e65761a2f4a55d", null ]
 ];

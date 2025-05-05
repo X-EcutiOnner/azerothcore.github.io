@@ -1,5 +1,7 @@
 var a09016 =
 [
-    [ "MaxAllowedCount", "db/d55/a09016.html#afb0dcc50d8e9aa85fe2904050d646042", null ],
-    [ "Policy", "db/d55/a09016.html#a8b2bbd3d9f52166c1235b0d306042609", null ]
+    [ "GetAntiDosPolicyForOpcode", "db/d55/a09016.html#a9bbbc92f18c1c34c3359d0cad4299c2d", null ],
+    [ "instance", "db/d55/a09016.html#a859596f153aa470fa503f67092e26160", null ],
+    [ "LoadAntiDosOpcodePolicies", "db/d55/a09016.html#a9bd2c1a1ce11d9a50971d169a353e7f6", null ],
+    [ "_antiDosOpcodePolicies", "db/d55/a09016.html#acb7a5639f7ba378483e50aba8e93d68a", null ]
 ];

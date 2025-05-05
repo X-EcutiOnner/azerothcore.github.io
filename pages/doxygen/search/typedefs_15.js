@@ -10,5 +10,5 @@ var searchData=
   ['updatedatamaptype_7',['UpdateDataMapType',['../d3/d4a/a03689.html#ac58dd2c514e262c6b68700fb72c69231',1,'Object.h']]],
   ['updateplayerset_8',['UpdatePlayerSet',['../d3/d4a/a03689.html#abc4c822bd43dd0c1ea669b791c856405',1,'Object.h']]],
   ['usedposlist_9',['UsedPosList',['../d1/d2f/a08404.html#a76a3553e006171560baf7aa7cc2bc163',1,'ObjectPosSelector']]],
-  ['usedspellmods_10',['UsedSpellMods',['../d0/df3/a11076.html#aa315cdc2ffad0c4cbc8e27a54aa0b7b2',1,'Spell']]]
+  ['usedspellmods_10',['UsedSpellMods',['../de/d93/a11072.html#aa315cdc2ffad0c4cbc8e27a54aa0b7b2',1,'Spell']]]
 ];

@@ -1,7 +1,8 @@
 var a08540 =
 [
-    [ "SetRuneState", "dc/dfb/a08540.html#a920d32d04ec7e872680a89b0c0a9b0ef", null ],
-    [ "lastUsedRune", "dc/dfb/a08540.html#a88c702716eb3032c20ae5ed74922d923", null ],
-    [ "runes", "dc/dfb/a08540.html#aac485530bfa81d54d9da3213fe917c29", null ],
-    [ "runeState", "dc/dfb/a08540.html#ae58297e0766578b234604a97641501a1", null ]
+    [ "EnchantDuration", "dc/dfb/a08540.html#a1ce5f81deaa60494c247673c113632d8", null ],
+    [ "EnchantDuration", "dc/dfb/a08540.html#a52448f2bb8b788193a69fe9a2d8729f3", null ],
+    [ "item", "dc/dfb/a08540.html#ae803f6a9ce9cdb0dbb133bc85b6613ab", null ],
+    [ "leftduration", "dc/dfb/a08540.html#a3f4edafbc9b09cb5ab660bc68af435f3", null ],
+    [ "slot", "dc/dfb/a08540.html#a3de1a8d64aea4c5c1f984a74c6bb017d", null ]
 ];

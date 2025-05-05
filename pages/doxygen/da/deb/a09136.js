@@ -1,22 +1,13 @@
 var a09136 =
 [
-    [ "MapGridManager", "da/deb/a09136.html#af08729c03f8641a00ab1cc1b014214df", null ],
-    [ "CreateGrid", "da/deb/a09136.html#ac5daa221eb530e0b34a1950431cb4496", null ],
-    [ "GetCreatedCellsInGridCount", "da/deb/a09136.html#a322e14ef979b97017a7547194de6c1f0", null ],
-    [ "GetCreatedCellsInMapCount", "da/deb/a09136.html#a26255c8542bcfd6b706f73a401b4c5d2", null ],
-    [ "GetCreatedGridsCount", "da/deb/a09136.html#a7994a71cea924e66996161b049eb1d44", null ],
-    [ "GetGrid", "da/deb/a09136.html#a60c3abc9dbb707cee6d2c2ed02217c23", null ],
-    [ "GetLoadedGridsCount", "da/deb/a09136.html#a8acd42cf15f78053070102f530c443a2", null ],
-    [ "IsGridCreated", "da/deb/a09136.html#a6f70e8d91a9f8e49cab8a8ef6f41a84a", null ],
-    [ "IsGridLoaded", "da/deb/a09136.html#a4cdf5925d6ebb358f501554c8b296424", null ],
-    [ "IsGridsFullyCreated", "da/deb/a09136.html#a479daebe69f976c11649c9c571eb18e0", null ],
-    [ "IsGridsFullyLoaded", "da/deb/a09136.html#ae2dd77cb2af985085103d49b4242f4a8", null ],
-    [ "IsValidGridCoordinates", "da/deb/a09136.html#a7d7957242615d753383e05a0ee5a1f82", null ],
-    [ "LoadGrid", "da/deb/a09136.html#aab0a821d9672cd485c4966034c2243d5", null ],
-    [ "UnloadGrid", "da/deb/a09136.html#ae381b54e599dce0c02815faf82711200", null ],
-    [ "_createdGridsCount", "da/deb/a09136.html#a6976d52c3af458e4d5885d2523cfafab", null ],
-    [ "_gridLock", "da/deb/a09136.html#aa2c2218a81a5d042925e5675948e242f", null ],
-    [ "_loadedGridsCount", "da/deb/a09136.html#a5a93290a0bbeec830a3223a72823ca4b", null ],
-    [ "_map", "da/deb/a09136.html#a16a35fb94355d6542a2ef634f5411243", null ],
-    [ "_mapGrid", "da/deb/a09136.html#acfac0df3926498e8a9aa581581f84e2c", null ]
+    [ "VisibleNotifier", "da/deb/a09136.html#af6b878aad8873a7e34670af7ed84188e", null ],
+    [ "SendToSelf", "da/deb/a09136.html#a95d1c60911cfed9e4f0e034afbf11482", null ],
+    [ "Visit", "da/deb/a09136.html#a77d110af6b97c2a4d93ff53a8771273d", null ],
+    [ "Visit", "da/deb/a09136.html#a8dafcbc64e004aea196aec47fb2bb175", null ],
+    [ "i_data", "da/deb/a09136.html#a6cfba0f042e117cfdb7bdf1f1168c0ce", null ],
+    [ "i_gobjOnly", "da/deb/a09136.html#a019182fa8a629d796982f9cc565d9bc3", null ],
+    [ "i_largeOnly", "da/deb/a09136.html#a6954721b71a55874c7f708bf822613bd", null ],
+    [ "i_player", "da/deb/a09136.html#aaa324b9a9cffd59c7cbab0c08cf68395", null ],
+    [ "i_visibleNow", "da/deb/a09136.html#a34d766816baaad7b1b3623360ec9abeb", null ],
+    [ "vis_guids", "da/deb/a09136.html#ab1a5c16d224e61ccfb60e3f1e5fdff1c", null ]
 ];

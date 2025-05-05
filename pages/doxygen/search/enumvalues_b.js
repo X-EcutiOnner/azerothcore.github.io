@@ -1356,7 +1356,7 @@ var searchData=
   ['locktype_5fslow_5fclose_1353',['LOCKTYPE_SLOW_CLOSE',['../d0/d9d/a04583.html#a5893ac36dd21da7bcd19a505205ea180acb223015f15a5889576c73aaab1769f9',1,'SharedDefines.h']]],
   ['locktype_5fslow_5fopen_1354',['LOCKTYPE_SLOW_OPEN',['../d0/d9d/a04583.html#a5893ac36dd21da7bcd19a505205ea180ac3d023469ff4094a50f51cf4ccf6a80e',1,'SharedDefines.h']]],
   ['locktype_5ftreasure_1355',['LOCKTYPE_TREASURE',['../d0/d9d/a04583.html#a5893ac36dd21da7bcd19a505205ea180a40b1fa68427c776755b6532a6e504a8f',1,'SharedDefines.h']]],
-  ['log_1356',['Log',['../d7/dbd/a10984.html#abdee2870dbaa3341ecd6f682f87a63aaace0be71e33226e4c1db2bcea5959f16b',1,'WorldSession::DosProtection']]],
+  ['log_1356',['Log',['../d4/dd7/a10980.html#abdee2870dbaa3341ecd6f682f87a63aaace0be71e33226e4c1db2bcea5959f16b',1,'WorldSession::DosProtection']]],
   ['log_5flevel_5fdebug_1357',['LOG_LEVEL_DEBUG',['../d7/dce/a00143.html#ad26ed09e30f81a5d2172b4793a3f2781a538b2b6e011479d408ecd2be0f6d6177',1,'LogCommon.h']]],
   ['log_5flevel_5fdisabled_1358',['LOG_LEVEL_DISABLED',['../d7/dce/a00143.html#ad26ed09e30f81a5d2172b4793a3f2781ae44988e4cdc992741e4a39b3734e1f61',1,'LogCommon.h']]],
   ['log_5flevel_5ferror_1359',['LOG_LEVEL_ERROR',['../d7/dce/a00143.html#ad26ed09e30f81a5d2172b4793a3f2781a5b40f003febbc3b535649d63f4b8a44f',1,'LogCommon.h']]],

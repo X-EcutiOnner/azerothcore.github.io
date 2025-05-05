@@ -1,6 +1,10 @@
 var a12352 =
 [
-    [ "boss_golemaggAI", "d2/dbc/a12356.html", "d2/dbc/a12356" ],
-    [ "boss_golemagg", "d6/d3f/a12352.html#a66720a143f8987dfa5d6e2acb7cd73cd", null ],
-    [ "GetAI", "d6/d3f/a12352.html#a6899f30975e0984306feabe47bbc8317", null ]
+    [ "boss_golemaggAI", "d6/d3f/a12352.html#a79e2416a55a1531316d891ebff4e5575", null ],
+    [ "DamageTaken", "d6/d3f/a12352.html#a5f9191609c7ff0715ba186f8ae28262b", null ],
+    [ "Reset", "d6/d3f/a12352.html#aeed4cda9fae3e0b46832ec1bfecb97b0", null ],
+    [ "UpdateAI", "d6/d3f/a12352.html#af7b322731241dbb08041a92cd355f273", null ],
+    [ "earthquakeTimer", "d6/d3f/a12352.html#a6bfd75b1d57d8002cab075bbd5a12612", null ],
+    [ "enraged", "d6/d3f/a12352.html#a52e6d8bcf979d216aff536e8fae3bf01", null ],
+    [ "pyroblastTimer", "d6/d3f/a12352.html#a142ededff85d517c08744bdafd644c34", null ]
 ];

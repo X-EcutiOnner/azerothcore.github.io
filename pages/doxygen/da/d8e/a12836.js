@@ -1,6 +1,7 @@
 var a12836 =
 [
-    [ "npc_scarlet_cannonAI", "de/d49/a12840.html", "de/d49/a12840" ],
-    [ "npc_scarlet_cannon", "da/d8e/a12836.html#a10bb35cbbdae3508a2300ba3dacc1ea3", null ],
-    [ "GetAI", "da/d8e/a12836.html#ae2b74a4dab4b34f026fd17d5ed381c99", null ]
+    [ "npc_scarlet_cannonAI", "da/d8e/a12836.html#a26720b34088b8063544f8c5db3b8d67c", null ],
+    [ "PassengerBoarded", "da/d8e/a12836.html#a71241dfc9b3ebe1f664d0adf03439c41", null ],
+    [ "UpdateAI", "da/d8e/a12836.html#a18ebb585e9b83f3781d3c49de5dc73b5", null ],
+    [ "summonAttackers", "da/d8e/a12836.html#a9e8eeb6995dae9a9d9ec3cb0ca6a07f5", null ]
 ];

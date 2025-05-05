@@ -1,5 +1,6 @@
 var a28024 =
 [
+    [ "FactionRespondsToCallForHelp", "d6/d38/a28024.html#af0d102e7e7ae480b2c61cf121bcd012a", null ],
     [ "IsContestedGuardFaction", "d6/d38/a28024.html#a52d5e1e5b01946a3d6d66158910e9f6d", null ],
     [ "IsFriendlyTo", "d6/d38/a28024.html#ac70cef62b2ec646d593d8742a3c02f08", null ],
     [ "IsHostileTo", "d6/d38/a28024.html#a1aadbf23c1c81a958665d96e5bf76093", null ],

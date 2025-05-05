@@ -1,9 +1,9 @@
 var a00707 =
 [
-    [ "NpcFlagText", "da/d44/a11664.html", "da/d44/a11664" ],
-    [ "MechanicImmune", "d6/dae/a11668.html", "d6/dae/a11668" ],
-    [ "SpellSchoolImmune", "df/d85/a11672.html", "df/d85/a11672" ],
-    [ "npc_commandscript", "d2/d40/a11676.html", "d2/d40/a11676" ],
+    [ "NpcFlagText", "d8/d1f/a11660.html", "d8/d1f/a11660" ],
+    [ "MechanicImmune", "da/d44/a11664.html", "da/d44/a11664" ],
+    [ "SpellSchoolImmune", "d6/dae/a11668.html", "d6/dae/a11668" ],
+    [ "npc_commandscript", "df/d85/a11672.html", "df/d85/a11672" ],
     [ "NPCFLAG_COUNT", "d1/d56/a00707.html#afc1ed6083684621f30fbabb23d2986c0", null ],
     [ "CreatureEntry", "d1/d56/a00707.html#a220449830f7fe293c9d82dcd3b84acd9", null ],
     [ "CreatureSpawnId", "d1/d56/a00707.html#a5e5fd5f7a85fd4ad7fe92f2125f17acc", null ],

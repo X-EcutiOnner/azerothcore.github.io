@@ -1,9 +1,8 @@
 var a12476 =
 [
-    [ "HandleEffectApply", "dd/d2f/a12476.html#ab1f4879fd9bd3982b9695bda886b0b99", null ],
-    [ "HandleEffectRemove", "dd/d2f/a12476.html#a8e38bc0ebf6b62982eee84e4c2722413", null ],
-    [ "Load", "dd/d2f/a12476.html#a8259745e21c561e4eedabc87ca8bdf73", null ],
-    [ "PrepareAuraScript", "dd/d2f/a12476.html#abec6d69d331e9952c129dc4cc24f0f13", null ],
-    [ "Register", "dd/d2f/a12476.html#a201bafab6c483b08a6ae27054392dea9", null ],
-    [ "Validate", "dd/d2f/a12476.html#a94aa1bd618035323b1fd4817fa7f9687", null ]
+    [ "npc_lava_spawn", "dd/d2f/a12476.html#aff97441b2cfbcd68e0788be022ee6236", null ],
+    [ "JustEngagedWith", "dd/d2f/a12476.html#a3b93df8de3c0f8a50768b860cfa11b72", null ],
+    [ "Reset", "dd/d2f/a12476.html#ab774d354991c90b1421e6783c0513e59", null ],
+    [ "UpdateAI", "dd/d2f/a12476.html#a6a17c8c40b0110b688ff5faef5585185", null ],
+    [ "_scheduler", "dd/d2f/a12476.html#ab7a6b2beec095f3f903ad4443813cfce", null ]
 ];

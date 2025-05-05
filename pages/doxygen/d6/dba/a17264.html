@@ -116,7 +116,7 @@ $(document).ready(function(){initNavTree('d6/dba/a17264.html','../../'); initRes
 Public Member Functions</h2></td></tr>
 <tr class="memitem:ab683a4d67f5ad319e3b680ba5bacc7c6"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/dba/a17264.html#ab683a4d67f5ad319e3b680ba5bacc7c6">VampiricBiteTargetSelector</a> (<a class="el" href="../../d6/dfb/a07964.html">Creature</a> *source)</td></tr>
 <tr class="separator:ab683a4d67f5ad319e3b680ba5bacc7c6"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac16204f50f62cb2568998d1ea137f55d"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/dba/a17264.html#ac16204f50f62cb2568998d1ea137f55d">operator()</a> (<a class="el" href="../../d8/dc0/a08716.html">Unit</a> const *target) const</td></tr>
+<tr class="memitem:ac16204f50f62cb2568998d1ea137f55d"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/dba/a17264.html#ac16204f50f62cb2568998d1ea137f55d">operator()</a> (<a class="el" href="../../d3/d80/a08712.html">Unit</a> const *target) const</td></tr>
 <tr class="separator:ac16204f50f62cb2568998d1ea137f55d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
@@ -167,7 +167,7 @@ Private Attributes</h2></td></tr>
         <tr>
           <td class="memname">bool VampiricBiteTargetSelector::operator() </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d8/dc0/a08716.html">Unit</a> const *&#160;</td>
+          <td class="paramtype"><a class="el" href="../../d3/d80/a08712.html">Unit</a> const *&#160;</td>
           <td class="paramname"><em>target</em></td><td>)</td>
           <td> const</td>
         </tr>
@@ -191,11 +191,11 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  138</span>        <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d4/d9b/a02159.html#a5dd8666b4a520a91ee7430a7b67a34a8">IsVampire</a>(target))</div>
 <div class="line"><span class="lineno">  139</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
 <div class="line"><span class="lineno">  140</span> </div>
-<div class="line"><span class="lineno">  141</span>        <span class="keywordflow">return</span> target != <a class="code hl_variable" href="../../d6/dba/a17264.html#af23a69491c915909566249b109b1f0e8">_source</a>-&gt;<a class="code hl_function" href="../../d8/dc0/a08716.html#aae09d03a474ea5517d671e64dc393739">GetVictim</a>();</div>
+<div class="line"><span class="lineno">  141</span>        <span class="keywordflow">return</span> target != <a class="code hl_variable" href="../../d6/dba/a17264.html#af23a69491c915909566249b109b1f0e8">_source</a>-&gt;<a class="code hl_function" href="../../d3/d80/a08712.html#aae09d03a474ea5517d671e64dc393739">GetVictim</a>();</div>
 <div class="line"><span class="lineno">  142</span>    }</div>
 <div class="ttc" id="aa02159_html_a5bd342133be8c2137b831460acc9298cad7478b442fe070fc8de3634e2ffd8455"><div class="ttname"><a href="../../d4/d9b/a02159.html#a5bd342133be8c2137b831460acc9298cad7478b442fe070fc8de3634e2ffd8455">SPELL_BLOOD_MIRROR_DAMAGE</a></div><div class="ttdeci">@ SPELL_BLOOD_MIRROR_DAMAGE</div><div class="ttdef"><b>Definition:</b> boss_blood_queen_lana_thel.cpp:59</div></div>
 <div class="ttc" id="aa02159_html_a5dd8666b4a520a91ee7430a7b67a34a8"><div class="ttname"><a href="../../d4/d9b/a02159.html#a5dd8666b4a520a91ee7430a7b67a34a8">IsVampire</a></div><div class="ttdeci">bool IsVampire(Unit const *unit)</div><div class="ttdef"><b>Definition:</b> boss_blood_queen_lana_thel.cpp:83</div></div>
-<div class="ttc" id="aa08716_html_aae09d03a474ea5517d671e64dc393739"><div class="ttname"><a href="../../d8/dc0/a08716.html#aae09d03a474ea5517d671e64dc393739">Unit::GetVictim</a></div><div class="ttdeci">Unit * GetVictim() const</div><div class="ttdef"><b>Definition:</b> Unit.h:862</div></div>
+<div class="ttc" id="aa08712_html_aae09d03a474ea5517d671e64dc393739"><div class="ttname"><a href="../../d3/d80/a08712.html#aae09d03a474ea5517d671e64dc393739">Unit::GetVictim</a></div><div class="ttdeci">Unit * GetVictim() const</div><div class="ttdef"><b>Definition:</b> Unit.h:862</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00145">_source</a>, <a class="el" href="../../#l00862">Unit::GetVictim()</a>, <a class="el" href="../../#l05753">Unit::HasAura()</a>, <a class="el" href="../../#l00200">Object::IsPlayer()</a>, <a class="el" href="../../#l00083">IsVampire()</a>, and <a class="el" href="../../#l00059">SPELL_BLOOD_MIRROR_DAMAGE</a>.</p>
 
@@ -232,7 +232,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d6/dba/a17264.html">VampiricBiteTargetSelector</a></li>
-    <li class="footer">Generated on Mon Apr 28 2025 20:45:30 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon May 5 2025 20:47:09 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

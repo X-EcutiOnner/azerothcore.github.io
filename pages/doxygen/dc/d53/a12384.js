@@ -1,7 +1,8 @@
 var a12384 =
 [
-    [ "HandleDummy", "dc/d53/a12384.html#acbf0fa3d73de0cec47928fc0dda0c724", null ],
-    [ "PrepareSpellScript", "dc/d53/a12384.html#a76d395449ed9fb26914aa9ff0488f1be", null ],
-    [ "Register", "dc/d53/a12384.html#a7d094ce258e3dc28cc30d5fb644d5a1e", null ],
-    [ "Validate", "dc/d53/a12384.html#a24447c4367d8e8713ba7d05ea53681ee", null ]
+    [ "MajordomoAddData", "dc/d53/a12384.html#aa068ada34e1275cbf97b21f74dfd2881", null ],
+    [ "MajordomoAddData", "dc/d53/a12384.html#a9b8cc2b43ffbf268e470169e00e66671", null ],
+    [ "creatureEntry", "dc/d53/a12384.html#ae3a0444e88158123f4d6359328e89a1d", null ],
+    [ "guid", "dc/d53/a12384.html#a2f2b0aaace557361a21d1072f36933dc", null ],
+    [ "spawnPos", "dc/d53/a12384.html#a31f8d24efb19c2d0e697f35b911e3237", null ]
 ];

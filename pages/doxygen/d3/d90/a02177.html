@@ -10855,9 +10855,9 @@ Enumerations</h2></td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:a8f35686a1928770ef6a57ed8f217845b"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d90/a02177.html#a8f35686a1928770ef6a57ed8f217845b">IsValidPlatformTarget</a> (<a class="el" href="../../d8/dc0/a08716.html">Unit</a> const *target)</td></tr>
+<tr class="memitem:a8f35686a1928770ef6a57ed8f217845b"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d90/a02177.html#a8f35686a1928770ef6a57ed8f217845b">IsValidPlatformTarget</a> (<a class="el" href="../../d3/d80/a08712.html">Unit</a> const *target)</td></tr>
 <tr class="separator:a8f35686a1928770ef6a57ed8f217845b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a286acf0ca9bbff8bb4fdf78905a0a470"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d90/a02177.html#a286acf0ca9bbff8bb4fdf78905a0a470">SendPacketToPlayers</a> (<a class="el" href="../../d1/d37/a10936.html">WorldPacket</a> const *data, <a class="el" href="../../d8/dc0/a08716.html">Unit</a> *source)</td></tr>
+<tr class="memitem:a286acf0ca9bbff8bb4fdf78905a0a470"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d90/a02177.html#a286acf0ca9bbff8bb4fdf78905a0a470">SendPacketToPlayers</a> (<a class="el" href="../../db/da9/a10932.html">WorldPacket</a> const *data, <a class="el" href="../../d3/d80/a08712.html">Unit</a> *source)</td></tr>
 <tr class="separator:a286acf0ca9bbff8bb4fdf78905a0a470"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ac49be0ea0e458117d08dcf114393c2e3"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d90/a02177.html#ac49be0ea0e458117d08dcf114393c2e3">AddSC_boss_the_lich_king</a> ()</td></tr>
 <tr class="separator:ac49be0ea0e458117d08dcf114393c2e3"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -17041,7 +17041,7 @@ Variables</h2></td></tr>
         <tr>
           <td class="memname">bool IsValidPlatformTarget </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d8/dc0/a08716.html">Unit</a> const *&#160;</td>
+          <td class="paramtype"><a class="el" href="../../d3/d80/a08712.html">Unit</a> const *&#160;</td>
           <td class="paramname"><em>target</em></td><td>)</td>
           <td></td>
         </tr>
@@ -17067,13 +17067,13 @@ Variables</h2></td></tr>
         <tr>
           <td class="memname">void SendPacketToPlayers </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d1/d37/a10936.html">WorldPacket</a> const *&#160;</td>
+          <td class="paramtype"><a class="el" href="../../db/da9/a10932.html">WorldPacket</a> const *&#160;</td>
           <td class="paramname"><em>data</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="../../d8/dc0/a08716.html">Unit</a> *&#160;</td>
+          <td class="paramtype"><a class="el" href="../../d3/d80/a08712.html">Unit</a> *&#160;</td>
           <td class="paramname"><em>source</em>&#160;</td>
         </tr>
         <tr>
@@ -17085,10 +17085,10 @@ Variables</h2></td></tr>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  370</span>{</div>
 <div class="line"><span class="lineno">  371</span>    <span class="comment">// Send packet to all players in The Frozen Throne</span></div>
-<div class="line"><span class="lineno">  372</span>    <a class="code hl_class" href="../../df/df6/a09804.html">Map::PlayerList</a> <span class="keyword">const</span>&amp; players = source-&gt;<a class="code hl_function" href="../../de/de0/a08368.html#a1013c27be4347a1b1a4a986a07456deb">GetMap</a>()-&gt;<a class="code hl_function" href="../../d7/d63/a09780.html#ae37764185b1adf2c6438025e4fa9091a">GetPlayers</a>();</div>
+<div class="line"><span class="lineno">  372</span>    <a class="code hl_class" href="../../d1/d2a/a09800.html">Map::PlayerList</a> <span class="keyword">const</span>&amp; players = source-&gt;<a class="code hl_function" href="../../de/de0/a08368.html#a1013c27be4347a1b1a4a986a07456deb">GetMap</a>()-&gt;<a class="code hl_function" href="../../d8/dd4/a09776.html#ae37764185b1adf2c6438025e4fa9091a">GetPlayers</a>();</div>
 <div class="line"><span class="lineno">  373</span>    <span class="keywordflow">if</span> (!players.<a class="code hl_function" href="../../df/dfd/a05208.html#a5f450b83a615d010bedc7b0c6aa18d70">IsEmpty</a>())</div>
-<div class="line"><span class="lineno">  374</span>        <span class="keywordflow">for</span> (<a class="code hl_class" href="../../d4/d61/a05212.html">Map::PlayerList::const_iterator</a> itr = players.<a class="code hl_function" href="../../df/df6/a09804.html#a6774b551f0d64628e33594c7b486a872">begin</a>(); itr != players.<a class="code hl_function" href="../../df/df6/a09804.html#af488c0096775085791b5fbc89e5851a0">end</a>(); ++itr)</div>
-<div class="line"><span class="lineno">  375</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d2/d78/a08584.html">Player</a>* player = itr-&gt;GetSource())</div>
+<div class="line"><span class="lineno">  374</span>        <span class="keywordflow">for</span> (<a class="code hl_class" href="../../d4/d61/a05212.html">Map::PlayerList::const_iterator</a> itr = players.<a class="code hl_function" href="../../d1/d2a/a09800.html#a6774b551f0d64628e33594c7b486a872">begin</a>(); itr != players.<a class="code hl_function" href="../../d1/d2a/a09800.html#af488c0096775085791b5fbc89e5851a0">end</a>(); ++itr)</div>
+<div class="line"><span class="lineno">  375</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../da/d14/a08580.html">Player</a>* player = itr-&gt;GetSource())</div>
 <div class="line"><span class="lineno">  376</span>                <span class="keywordflow">if</span> (player-&gt;GetAreaId() == <a class="code hl_enumvalue" href="../../d7/d26/a02162.html#af5d9729702ab9f6cbada3720c3cc0147a7081e9fbce528474f7530670818b8d4b">AREA_THE_FROZEN_THRONE</a>)</div>
 <div class="line"><span class="lineno">  377</span>                    player-&gt;GetSession()-&gt;SendPacket(data);</div>
 <div class="line"><span class="lineno">  378</span>}</div>
@@ -17096,11 +17096,11 @@ Variables</h2></td></tr>
 <div class="ttc" id="aa05208_html_a5f450b83a615d010bedc7b0c6aa18d70"><div class="ttname"><a href="../../df/dfd/a05208.html#a5f450b83a615d010bedc7b0c6aa18d70">LinkedListHead::IsEmpty</a></div><div class="ttdeci">bool IsEmpty() const</div><div class="ttdef"><b>Definition:</b> LinkedList.h:97</div></div>
 <div class="ttc" id="aa05212_html"><div class="ttname"><a href="../../d4/d61/a05212.html">LinkedListHead::Iterator</a></div><div class="ttdef"><b>Definition:</b> LinkedList.h:139</div></div>
 <div class="ttc" id="aa08368_html_a1013c27be4347a1b1a4a986a07456deb"><div class="ttname"><a href="../../de/de0/a08368.html#a1013c27be4347a1b1a4a986a07456deb">WorldObject::GetMap</a></div><div class="ttdeci">Map * GetMap() const</div><div class="ttdef"><b>Definition:</b> Object.h:536</div></div>
-<div class="ttc" id="aa08584_html"><div class="ttname"><a href="../../d2/d78/a08584.html">Player</a></div><div class="ttdef"><b>Definition:</b> Player.h:1081</div></div>
-<div class="ttc" id="aa09780_html_ae37764185b1adf2c6438025e4fa9091a"><div class="ttname"><a href="../../d7/d63/a09780.html#ae37764185b1adf2c6438025e4fa9091a">Map::GetPlayers</a></div><div class="ttdeci">PlayerList const &amp; GetPlayers() const</div><div class="ttdef"><b>Definition:</b> Map.h:333</div></div>
-<div class="ttc" id="aa09804_html"><div class="ttname"><a href="../../df/df6/a09804.html">MapRefMgr</a></div><div class="ttdef"><b>Definition:</b> MapRefMgr.h:26</div></div>
-<div class="ttc" id="aa09804_html_a6774b551f0d64628e33594c7b486a872"><div class="ttname"><a href="../../df/df6/a09804.html#a6774b551f0d64628e33594c7b486a872">MapRefMgr::begin</a></div><div class="ttdeci">iterator begin()</div><div class="ttdef"><b>Definition:</b> MapRefMgr.h:36</div></div>
-<div class="ttc" id="aa09804_html_af488c0096775085791b5fbc89e5851a0"><div class="ttname"><a href="../../df/df6/a09804.html#af488c0096775085791b5fbc89e5851a0">MapRefMgr::end</a></div><div class="ttdeci">iterator end()</div><div class="ttdef"><b>Definition:</b> MapRefMgr.h:37</div></div>
+<div class="ttc" id="aa08580_html"><div class="ttname"><a href="../../da/d14/a08580.html">Player</a></div><div class="ttdef"><b>Definition:</b> Player.h:1082</div></div>
+<div class="ttc" id="aa09776_html_ae37764185b1adf2c6438025e4fa9091a"><div class="ttname"><a href="../../d8/dd4/a09776.html#ae37764185b1adf2c6438025e4fa9091a">Map::GetPlayers</a></div><div class="ttdeci">PlayerList const &amp; GetPlayers() const</div><div class="ttdef"><b>Definition:</b> Map.h:333</div></div>
+<div class="ttc" id="aa09800_html"><div class="ttname"><a href="../../d1/d2a/a09800.html">MapRefMgr</a></div><div class="ttdef"><b>Definition:</b> MapRefMgr.h:26</div></div>
+<div class="ttc" id="aa09800_html_a6774b551f0d64628e33594c7b486a872"><div class="ttname"><a href="../../d1/d2a/a09800.html#a6774b551f0d64628e33594c7b486a872">MapRefMgr::begin</a></div><div class="ttdeci">iterator begin()</div><div class="ttdef"><b>Definition:</b> MapRefMgr.h:36</div></div>
+<div class="ttc" id="aa09800_html_af488c0096775085791b5fbc89e5851a0"><div class="ttname"><a href="../../d1/d2a/a09800.html#af488c0096775085791b5fbc89e5851a0">MapRefMgr::end</a></div><div class="ttdeci">iterator end()</div><div class="ttdef"><b>Definition:</b> MapRefMgr.h:37</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00571">AREA_THE_FROZEN_THRONE</a>, <a class="el" href="../../#l00036">MapRefMgr::begin()</a>, <a class="el" href="../../#l00037">MapRefMgr::end()</a>, <a class="el" href="../../#l00536">WorldObject::GetMap()</a>, <a class="el" href="../../#l00333">Map::GetPlayers()</a>, and <a class="el" href="../../#l00097">LinkedListHead::IsEmpty()</a>.</p>
 
@@ -17273,7 +17273,7 @@ Variables</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_81f27dfa25f27c55a8e8044b1a11fbfb.html">Northrend</a></li><li class="navelem"><a class="el" href="../../dir_49de9ff38e0063bf9846434b8d63cf58.html">IcecrownCitadel</a></li><li class="navelem"><a class="el" href="../../d3/d90/a02177.html">boss_the_lich_king.cpp</a></li>
-    <li class="footer">Generated on Mon Apr 28 2025 20:43:39 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon May 5 2025 20:45:31 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

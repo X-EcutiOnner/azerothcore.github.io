@@ -1,6 +1,6 @@
 var a11232 =
 [
-    [ "BeforeHitHandler", "d6/d9a/a11232.html#a0c2f048fc10f408a299a8b537ad7551d", null ],
-    [ "Call", "d6/d9a/a11232.html#a393057cca72c41e193508bf150ed0b1f", null ],
-    [ "_pBeforeHitHandlerScript", "d6/d9a/a11232.html#acecb7a8844155ff6eeb3f09582d7a475", null ]
+    [ "HitHandler", "d6/d9a/a11232.html#a41c5a6853bf72c113388995dc3ebaba7", null ],
+    [ "Call", "d6/d9a/a11232.html#a157baaa3ceba62a9910cba5377bd7699", null ],
+    [ "pHitHandlerScript", "d6/d9a/a11232.html#ac24144e49930a01a3049740a4072f626", null ]
 ];

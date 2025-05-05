@@ -1,7 +1,7 @@
 var a12248 =
 [
-    [ "HandleDummy", "da/de7/a12248.html#a7fca477ef5c86d543cd59571ad8dc7de", null ],
-    [ "PrepareSpellScript", "da/de7/a12248.html#a6ec124990f202af0c6063c285bf04d88", null ],
-    [ "Register", "da/de7/a12248.html#a5adf9f0bbe5b72c4c22f569086582f0f", null ],
-    [ "Validate", "da/de7/a12248.html#ae35efa08f507aac5b72166a216d01870", null ]
+    [ "HandleDummy", "da/de7/a12248.html#a2299a8b99013fb9f9c2b8e81cfc541cc", null ],
+    [ "PrepareSpellScript", "da/de7/a12248.html#ad07165f81a7f407c716f90691ecb9817", null ],
+    [ "Register", "da/de7/a12248.html#a28fb28ca049b87dd76fddc3af222fd9c", null ],
+    [ "Validate", "da/de7/a12248.html#a8ce6773c7d0fd501fa7b26f04fd22796", null ]
 ];

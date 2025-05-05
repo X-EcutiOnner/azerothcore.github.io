@@ -1,7 +1,7 @@
 var a01070 =
 [
-    [ "boss_emperor_dagran_thaurissan", "d0/d50/a11848.html", "d0/d50/a11848" ],
-    [ "boss_emperor_dagran_thaurissan::boss_draganthaurissanAI", "d9/d03/a11852.html", "d9/d03/a11852" ],
+    [ "boss_emperor_dagran_thaurissan", "d6/d5e/a11844.html", "d6/d5e/a11844" ],
+    [ "boss_emperor_dagran_thaurissan::boss_draganthaurissanAI", "d0/d50/a11848.html", "d0/d50/a11848" ],
     [ "DATA_PERCENT_DEAD_SENATORS", "d5/d67/a01070.html#aa9a19276734a6565dfae91ec2c00c7c4", null ],
     [ "Spells", "d5/d67/a01070.html#a5bd342133be8c2137b831460acc9298c", [
       [ "SPELL_OIL_REFINERY", "d9/d01/a03248.html#a5bd342133be8c2137b831460acc9298cae2eb4db3c46b45e80cc2feb9c34f2ada", null ],

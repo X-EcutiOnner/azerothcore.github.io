@@ -246,11 +246,11 @@ Public Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 2126</span>{ <span class="keywordflow">return</span> (<a class="code hl_variable" href="../../d1/d87/a28324.html#afe02aa891cad80dff89156d138bad691">m_flags</a> &amp; <a class="code hl_enumvalue" href="../../de/d76/a04607.html#a1722a65e910763eaffb541de9d7001f5a94ffa65329c61093e3ef156ab08ccf98">VEHICLE_SEAT_FLAG_CAN_CONTROL</a>) != 0; }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 2127</span>{ <span class="keywordflow">return</span> (<a class="code hl_variable" href="../../d1/d87/a28324.html#afe02aa891cad80dff89156d138bad691">m_flags</a> &amp; <a class="code hl_enumvalue" href="../../de/d76/a04607.html#a1722a65e910763eaffb541de9d7001f5a94ffa65329c61093e3ef156ab08ccf98">VEHICLE_SEAT_FLAG_CAN_CONTROL</a>) != 0; }</div>
 <div class="ttc" id="aa04607_html_a1722a65e910763eaffb541de9d7001f5a94ffa65329c61093e3ef156ab08ccf98"><div class="ttname"><a href="../../de/d76/a04607.html#a1722a65e910763eaffb541de9d7001f5a94ffa65329c61093e3ef156ab08ccf98">VEHICLE_SEAT_FLAG_CAN_CONTROL</a></div><div class="ttdeci">@ VEHICLE_SEAT_FLAG_CAN_CONTROL</div><div class="ttdef"><b>Definition:</b> DBCEnums.h:455</div></div>
-<div class="ttc" id="aa28324_html_afe02aa891cad80dff89156d138bad691"><div class="ttname"><a href="../../d1/d87/a28324.html#afe02aa891cad80dff89156d138bad691">VehicleSeatEntry::m_flags</a></div><div class="ttdeci">uint32 m_flags</div><div class="ttdef"><b>Definition:</b> DBCStructure.h:2065</div></div>
+<div class="ttc" id="aa28324_html_afe02aa891cad80dff89156d138bad691"><div class="ttname"><a href="../../d1/d87/a28324.html#afe02aa891cad80dff89156d138bad691">VehicleSeatEntry::m_flags</a></div><div class="ttdeci">uint32 m_flags</div><div class="ttdef"><b>Definition:</b> DBCStructure.h:2066</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l02065">m_flags</a>, and <a class="el" href="../../#l00455">VEHICLE_SEAT_FLAG_CAN_CONTROL</a>.</p>
+<p class="reference">References <a class="el" href="../../#l02066">m_flags</a>, and <a class="el" href="../../#l00455">VEHICLE_SEAT_FLAG_CAN_CONTROL</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l02251">Player::ProcessTerrainStatusUpdate()</a>.</p>
 
@@ -278,16 +278,16 @@ Public Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 2113</span>    {</div>
-<div class="line"><span class="lineno"> 2114</span>        <span class="keywordflow">return</span> ((<a class="code hl_variable" href="../../d1/d87/a28324.html#afe02aa891cad80dff89156d138bad691">m_flags</a> &amp; <a class="code hl_enumvalue" href="../../de/d76/a04607.html#a1722a65e910763eaffb541de9d7001f5a8002f5a38cb8dac66ac2383fc520e271">VEHICLE_SEAT_FLAG_CAN_ENTER_OR_EXIT</a>) != 0 ||</div>
-<div class="line"><span class="lineno"> 2115</span>                <span class="comment">//If it has anmation for enter/ride, means it can be entered/exited by logic</span></div>
-<div class="line"><span class="lineno"> 2116</span>                (<a class="code hl_variable" href="../../d1/d87/a28324.html#afe02aa891cad80dff89156d138bad691">m_flags</a> &amp; (<a class="code hl_enumvalue" href="../../de/d76/a04607.html#a1722a65e910763eaffb541de9d7001f5a08be507fef4a42bc09daf205e60ae568">VEHICLE_SEAT_FLAG_HAS_LOWER_ANIM_FOR_ENTER</a> | <a class="code hl_enumvalue" href="../../de/d76/a04607.html#a1722a65e910763eaffb541de9d7001f5af8d94d7531c9a9160dae371ef704c09c">VEHICLE_SEAT_FLAG_HAS_LOWER_ANIM_FOR_RIDE</a>)) != 0);</div>
-<div class="line"><span class="lineno"> 2117</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 2114</span>    {</div>
+<div class="line"><span class="lineno"> 2115</span>        <span class="keywordflow">return</span> ((<a class="code hl_variable" href="../../d1/d87/a28324.html#afe02aa891cad80dff89156d138bad691">m_flags</a> &amp; <a class="code hl_enumvalue" href="../../de/d76/a04607.html#a1722a65e910763eaffb541de9d7001f5a8002f5a38cb8dac66ac2383fc520e271">VEHICLE_SEAT_FLAG_CAN_ENTER_OR_EXIT</a>) != 0 ||</div>
+<div class="line"><span class="lineno"> 2116</span>                <span class="comment">//If it has anmation for enter/ride, means it can be entered/exited by logic</span></div>
+<div class="line"><span class="lineno"> 2117</span>                (<a class="code hl_variable" href="../../d1/d87/a28324.html#afe02aa891cad80dff89156d138bad691">m_flags</a> &amp; (<a class="code hl_enumvalue" href="../../de/d76/a04607.html#a1722a65e910763eaffb541de9d7001f5a08be507fef4a42bc09daf205e60ae568">VEHICLE_SEAT_FLAG_HAS_LOWER_ANIM_FOR_ENTER</a> | <a class="code hl_enumvalue" href="../../de/d76/a04607.html#a1722a65e910763eaffb541de9d7001f5af8d94d7531c9a9160dae371ef704c09c">VEHICLE_SEAT_FLAG_HAS_LOWER_ANIM_FOR_RIDE</a>)) != 0);</div>
+<div class="line"><span class="lineno"> 2118</span>    }</div>
 <div class="ttc" id="aa04607_html_a1722a65e910763eaffb541de9d7001f5a08be507fef4a42bc09daf205e60ae568"><div class="ttname"><a href="../../de/d76/a04607.html#a1722a65e910763eaffb541de9d7001f5a08be507fef4a42bc09daf205e60ae568">VEHICLE_SEAT_FLAG_HAS_LOWER_ANIM_FOR_ENTER</a></div><div class="ttdeci">@ VEHICLE_SEAT_FLAG_HAS_LOWER_ANIM_FOR_ENTER</div><div class="ttdef"><b>Definition:</b> DBCEnums.h:444</div></div>
 <div class="ttc" id="aa04607_html_a1722a65e910763eaffb541de9d7001f5a8002f5a38cb8dac66ac2383fc520e271"><div class="ttname"><a href="../../de/d76/a04607.html#a1722a65e910763eaffb541de9d7001f5a8002f5a38cb8dac66ac2383fc520e271">VEHICLE_SEAT_FLAG_CAN_ENTER_OR_EXIT</a></div><div class="ttdeci">@ VEHICLE_SEAT_FLAG_CAN_ENTER_OR_EXIT</div><div class="ttdef"><b>Definition:</b> DBCEnums.h:469</div></div>
 <div class="ttc" id="aa04607_html_a1722a65e910763eaffb541de9d7001f5af8d94d7531c9a9160dae371ef704c09c"><div class="ttname"><a href="../../de/d76/a04607.html#a1722a65e910763eaffb541de9d7001f5af8d94d7531c9a9160dae371ef704c09c">VEHICLE_SEAT_FLAG_HAS_LOWER_ANIM_FOR_RIDE</a></div><div class="ttdeci">@ VEHICLE_SEAT_FLAG_HAS_LOWER_ANIM_FOR_RIDE</div><div class="ttdef"><b>Definition:</b> DBCEnums.h:445</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l02065">m_flags</a>, <a class="el" href="../../#l00469">VEHICLE_SEAT_FLAG_CAN_ENTER_OR_EXIT</a>, <a class="el" href="../../#l00444">VEHICLE_SEAT_FLAG_HAS_LOWER_ANIM_FOR_ENTER</a>, and <a class="el" href="../../#l00445">VEHICLE_SEAT_FLAG_HAS_LOWER_ANIM_FOR_RIDE</a>.</p>
+<p class="reference">References <a class="el" href="../../#l02066">m_flags</a>, <a class="el" href="../../#l00469">VEHICLE_SEAT_FLAG_CAN_ENTER_OR_EXIT</a>, <a class="el" href="../../#l00444">VEHICLE_SEAT_FLAG_HAS_LOWER_ANIM_FOR_ENTER</a>, and <a class="el" href="../../#l00445">VEHICLE_SEAT_FLAG_HAS_LOWER_ANIM_FOR_RIDE</a>.</p>
 
 </div>
 </div>
@@ -313,10 +313,10 @@ Public Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 2118</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d1/d87/a28324.html#afe02aa891cad80dff89156d138bad691">m_flags</a> &amp; <a class="code hl_enumvalue" href="../../de/d76/a04607.html#a1722a65e910763eaffb541de9d7001f5a4dbbc818a561098bdc478c3afe0b2c67">VEHICLE_SEAT_FLAG_CAN_SWITCH</a>; }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 2119</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d1/d87/a28324.html#afe02aa891cad80dff89156d138bad691">m_flags</a> &amp; <a class="code hl_enumvalue" href="../../de/d76/a04607.html#a1722a65e910763eaffb541de9d7001f5a4dbbc818a561098bdc478c3afe0b2c67">VEHICLE_SEAT_FLAG_CAN_SWITCH</a>; }</div>
 <div class="ttc" id="aa04607_html_a1722a65e910763eaffb541de9d7001f5a4dbbc818a561098bdc478c3afe0b2c67"><div class="ttname"><a href="../../de/d76/a04607.html#a1722a65e910763eaffb541de9d7001f5a4dbbc818a561098bdc478c3afe0b2c67">VEHICLE_SEAT_FLAG_CAN_SWITCH</a></div><div class="ttdeci">@ VEHICLE_SEAT_FLAG_CAN_SWITCH</div><div class="ttdef"><b>Definition:</b> DBCEnums.h:470</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l02065">m_flags</a>, and <a class="el" href="../../#l00470">VEHICLE_SEAT_FLAG_CAN_SWITCH</a>.</p>
+<p class="reference">References <a class="el" href="../../#l02066">m_flags</a>, and <a class="el" href="../../#l00470">VEHICLE_SEAT_FLAG_CAN_SWITCH</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00058">WorldSession::HandleChangeSeatsOnControlledVehicle()</a>.</p>
 
@@ -344,11 +344,11 @@ Public Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 2125</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d1/d87/a28324.html#a29e7ce53071885ef509c339d47664d0d">m_flagsB</a> &amp; <a class="code hl_enumvalue" href="../../de/d76/a04607.html#a4a886f0b3475fae280db2bd0f12c3a8fac678f562f9f0320790e20201fe011be3">VEHICLE_SEAT_FLAG_B_EJECTABLE</a>; }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 2126</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d1/d87/a28324.html#a29e7ce53071885ef509c339d47664d0d">m_flagsB</a> &amp; <a class="code hl_enumvalue" href="../../de/d76/a04607.html#a4a886f0b3475fae280db2bd0f12c3a8fac678f562f9f0320790e20201fe011be3">VEHICLE_SEAT_FLAG_B_EJECTABLE</a>; }</div>
 <div class="ttc" id="aa04607_html_a4a886f0b3475fae280db2bd0f12c3a8fac678f562f9f0320790e20201fe011be3"><div class="ttname"><a href="../../de/d76/a04607.html#a4a886f0b3475fae280db2bd0f12c3a8fac678f562f9f0320790e20201fe011be3">VEHICLE_SEAT_FLAG_B_EJECTABLE</a></div><div class="ttdeci">@ VEHICLE_SEAT_FLAG_B_EJECTABLE</div><div class="ttdef"><b>Definition:</b> DBCEnums.h:483</div></div>
-<div class="ttc" id="aa28324_html_a29e7ce53071885ef509c339d47664d0d"><div class="ttname"><a href="../../d1/d87/a28324.html#a29e7ce53071885ef509c339d47664d0d">VehicleSeatEntry::m_flagsB</a></div><div class="ttdeci">uint32 m_flagsB</div><div class="ttdef"><b>Definition:</b> DBCStructure.h:2109</div></div>
+<div class="ttc" id="aa28324_html_a29e7ce53071885ef509c339d47664d0d"><div class="ttname"><a href="../../d1/d87/a28324.html#a29e7ce53071885ef509c339d47664d0d">VehicleSeatEntry::m_flagsB</a></div><div class="ttdeci">uint32 m_flagsB</div><div class="ttdef"><b>Definition:</b> DBCStructure.h:2110</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l02109">m_flagsB</a>, and <a class="el" href="../../#l00483">VEHICLE_SEAT_FLAG_B_EJECTABLE</a>.</p>
+<p class="reference">References <a class="el" href="../../#l02110">m_flagsB</a>, and <a class="el" href="../../#l00483">VEHICLE_SEAT_FLAG_B_EJECTABLE</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00162">WorldSession::HandleEjectPassenger()</a>.</p>
 
@@ -376,11 +376,11 @@ Public Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 2120</span>    {</div>
-<div class="line"><span class="lineno"> 2121</span>        <span class="keywordflow">return</span> (<a class="code hl_variable" href="../../d1/d87/a28324.html#afe02aa891cad80dff89156d138bad691">m_flags</a> &amp; (<a class="code hl_enumvalue" href="../../de/d76/a04607.html#a1722a65e910763eaffb541de9d7001f5aa0bf8fe767df1111281a0bf0902697ed">VEHICLE_SEAT_FLAG_UNCONTROLLED</a> | <a class="code hl_enumvalue" href="../../de/d76/a04607.html#a1722a65e910763eaffb541de9d7001f5ad8b2e860c4395ff7f9ba1db5fac3b154">VEHICLE_SEAT_FLAG_UNK18</a>)</div>
-<div class="line"><span class="lineno"> 2122</span>                || (<a class="code hl_variable" href="../../d1/d87/a28324.html#a29e7ce53071885ef509c339d47664d0d">m_flagsB</a> &amp; (<a class="code hl_enumvalue" href="../../de/d76/a04607.html#a4a886f0b3475fae280db2bd0f12c3a8fad003722b3d8d4366d9cf4d51bbdd47ae">VEHICLE_SEAT_FLAG_B_USABLE_FORCED</a> | <a class="code hl_enumvalue" href="../../de/d76/a04607.html#a4a886f0b3475fae280db2bd0f12c3a8fafa87028e108921f72503c17439a6339c">VEHICLE_SEAT_FLAG_B_USABLE_FORCED_2</a> |</div>
-<div class="line"><span class="lineno"> 2123</span>                                <a class="code hl_enumvalue" href="../../de/d76/a04607.html#a4a886f0b3475fae280db2bd0f12c3a8faeee08c9a90200313dd609670c486860e">VEHICLE_SEAT_FLAG_B_USABLE_FORCED_3</a> | <a class="code hl_enumvalue" href="../../de/d76/a04607.html#a4a886f0b3475fae280db2bd0f12c3a8fafc547a894a49d59a1de21659421a130b">VEHICLE_SEAT_FLAG_B_USABLE_FORCED_4</a>)));</div>
-<div class="line"><span class="lineno"> 2124</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 2121</span>    {</div>
+<div class="line"><span class="lineno"> 2122</span>        <span class="keywordflow">return</span> (<a class="code hl_variable" href="../../d1/d87/a28324.html#afe02aa891cad80dff89156d138bad691">m_flags</a> &amp; (<a class="code hl_enumvalue" href="../../de/d76/a04607.html#a1722a65e910763eaffb541de9d7001f5aa0bf8fe767df1111281a0bf0902697ed">VEHICLE_SEAT_FLAG_UNCONTROLLED</a> | <a class="code hl_enumvalue" href="../../de/d76/a04607.html#a1722a65e910763eaffb541de9d7001f5ad8b2e860c4395ff7f9ba1db5fac3b154">VEHICLE_SEAT_FLAG_UNK18</a>)</div>
+<div class="line"><span class="lineno"> 2123</span>                || (<a class="code hl_variable" href="../../d1/d87/a28324.html#a29e7ce53071885ef509c339d47664d0d">m_flagsB</a> &amp; (<a class="code hl_enumvalue" href="../../de/d76/a04607.html#a4a886f0b3475fae280db2bd0f12c3a8fad003722b3d8d4366d9cf4d51bbdd47ae">VEHICLE_SEAT_FLAG_B_USABLE_FORCED</a> | <a class="code hl_enumvalue" href="../../de/d76/a04607.html#a4a886f0b3475fae280db2bd0f12c3a8fafa87028e108921f72503c17439a6339c">VEHICLE_SEAT_FLAG_B_USABLE_FORCED_2</a> |</div>
+<div class="line"><span class="lineno"> 2124</span>                                <a class="code hl_enumvalue" href="../../de/d76/a04607.html#a4a886f0b3475fae280db2bd0f12c3a8faeee08c9a90200313dd609670c486860e">VEHICLE_SEAT_FLAG_B_USABLE_FORCED_3</a> | <a class="code hl_enumvalue" href="../../de/d76/a04607.html#a4a886f0b3475fae280db2bd0f12c3a8fafc547a894a49d59a1de21659421a130b">VEHICLE_SEAT_FLAG_B_USABLE_FORCED_4</a>)));</div>
+<div class="line"><span class="lineno"> 2125</span>    }</div>
 <div class="ttc" id="aa04607_html_a1722a65e910763eaffb541de9d7001f5aa0bf8fe767df1111281a0bf0902697ed"><div class="ttname"><a href="../../de/d76/a04607.html#a1722a65e910763eaffb541de9d7001f5aa0bf8fe767df1111281a0bf0902697ed">VEHICLE_SEAT_FLAG_UNCONTROLLED</a></div><div class="ttdeci">@ VEHICLE_SEAT_FLAG_UNCONTROLLED</div><div class="ttdef"><b>Definition:</b> DBCEnums.h:457</div></div>
 <div class="ttc" id="aa04607_html_a1722a65e910763eaffb541de9d7001f5ad8b2e860c4395ff7f9ba1db5fac3b154"><div class="ttname"><a href="../../de/d76/a04607.html#a1722a65e910763eaffb541de9d7001f5ad8b2e860c4395ff7f9ba1db5fac3b154">VEHICLE_SEAT_FLAG_UNK18</a></div><div class="ttdeci">@ VEHICLE_SEAT_FLAG_UNK18</div><div class="ttdef"><b>Definition:</b> DBCEnums.h:461</div></div>
 <div class="ttc" id="aa04607_html_a4a886f0b3475fae280db2bd0f12c3a8fad003722b3d8d4366d9cf4d51bbdd47ae"><div class="ttname"><a href="../../de/d76/a04607.html#a4a886f0b3475fae280db2bd0f12c3a8fad003722b3d8d4366d9cf4d51bbdd47ae">VEHICLE_SEAT_FLAG_B_USABLE_FORCED</a></div><div class="ttdeci">@ VEHICLE_SEAT_FLAG_B_USABLE_FORCED</div><div class="ttdef"><b>Definition:</b> DBCEnums.h:481</div></div>
@@ -388,7 +388,7 @@ Public Attributes</h2></td></tr>
 <div class="ttc" id="aa04607_html_a4a886f0b3475fae280db2bd0f12c3a8fafa87028e108921f72503c17439a6339c"><div class="ttname"><a href="../../de/d76/a04607.html#a4a886f0b3475fae280db2bd0f12c3a8fafa87028e108921f72503c17439a6339c">VEHICLE_SEAT_FLAG_B_USABLE_FORCED_2</a></div><div class="ttdeci">@ VEHICLE_SEAT_FLAG_B_USABLE_FORCED_2</div><div class="ttdef"><b>Definition:</b> DBCEnums.h:484</div></div>
 <div class="ttc" id="aa04607_html_a4a886f0b3475fae280db2bd0f12c3a8fafc547a894a49d59a1de21659421a130b"><div class="ttname"><a href="../../de/d76/a04607.html#a4a886f0b3475fae280db2bd0f12c3a8fafc547a894a49d59a1de21659421a130b">VEHICLE_SEAT_FLAG_B_USABLE_FORCED_4</a></div><div class="ttdeci">@ VEHICLE_SEAT_FLAG_B_USABLE_FORCED_4</div><div class="ttdef"><b>Definition:</b> DBCEnums.h:487</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l02065">m_flags</a>, <a class="el" href="../../#l02109">m_flagsB</a>, <a class="el" href="../../#l00481">VEHICLE_SEAT_FLAG_B_USABLE_FORCED</a>, <a class="el" href="../../#l00484">VEHICLE_SEAT_FLAG_B_USABLE_FORCED_2</a>, <a class="el" href="../../#l00485">VEHICLE_SEAT_FLAG_B_USABLE_FORCED_3</a>, <a class="el" href="../../#l00487">VEHICLE_SEAT_FLAG_B_USABLE_FORCED_4</a>, <a class="el" href="../../#l00457">VEHICLE_SEAT_FLAG_UNCONTROLLED</a>, and <a class="el" href="../../#l00461">VEHICLE_SEAT_FLAG_UNK18</a>.</p>
+<p class="reference">References <a class="el" href="../../#l02066">m_flags</a>, <a class="el" href="../../#l02110">m_flagsB</a>, <a class="el" href="../../#l00481">VEHICLE_SEAT_FLAG_B_USABLE_FORCED</a>, <a class="el" href="../../#l00484">VEHICLE_SEAT_FLAG_B_USABLE_FORCED_2</a>, <a class="el" href="../../#l00485">VEHICLE_SEAT_FLAG_B_USABLE_FORCED_3</a>, <a class="el" href="../../#l00487">VEHICLE_SEAT_FLAG_B_USABLE_FORCED_4</a>, <a class="el" href="../../#l00457">VEHICLE_SEAT_FLAG_UNCONTROLLED</a>, and <a class="el" href="../../#l00461">VEHICLE_SEAT_FLAG_UNK18</a>.</p>
 
 </div>
 </div>
@@ -761,7 +761,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l02126">CanControl()</a>, <a class="el" href="../../#l02112">CanEnterOrExit()</a>, <a class="el" href="../../#l02118">CanSwitchFromSeat()</a>, <a class="el" href="../../#l05669">Spell::CheckCast()</a>, <a class="el" href="../../#l00028">WorldSession::HandleAttackSwingOpcode()</a>, <a class="el" href="../../#l00058">WorldSession::HandleChangeSeatsOnControlledVehicle()</a>, <a class="el" href="../../#l02119">IsUsableByOverride()</a>, and <a class="el" href="../../#l00039">SpellMgr::LoadSpellInfoCorrections()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l02127">CanControl()</a>, <a class="el" href="../../#l02113">CanEnterOrExit()</a>, <a class="el" href="../../#l02119">CanSwitchFromSeat()</a>, <a class="el" href="../../#l05669">Spell::CheckCast()</a>, <a class="el" href="../../#l00028">WorldSession::HandleAttackSwingOpcode()</a>, <a class="el" href="../../#l00058">WorldSession::HandleChangeSeatsOnControlledVehicle()</a>, <a class="el" href="../../#l02120">IsUsableByOverride()</a>, and <a class="el" href="../../#l00039">SpellMgr::LoadSpellInfoCorrections()</a>.</p>
 
 </div>
 </div>
@@ -777,7 +777,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l02125">IsEjectable()</a>, and <a class="el" href="../../#l02119">IsUsableByOverride()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l02126">IsEjectable()</a>, and <a class="el" href="../../#l02120">IsUsableByOverride()</a>.</p>
 
 </div>
 </div>
@@ -1055,7 +1055,7 @@ Public Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d1/d87/a28324.html">VehicleSeatEntry</a></li>
-    <li class="footer">Generated on Mon Apr 28 2025 20:45:30 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon May 5 2025 20:47:09 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

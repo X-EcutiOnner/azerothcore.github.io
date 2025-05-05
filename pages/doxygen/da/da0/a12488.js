@@ -1,11 +1,6 @@
 var a12488 =
 [
-    [ "boss_mr_smiteAI", "da/da0/a12488.html#a277e52b7086db7e6447c4ad07ff8c8a2", null ],
-    [ "JustEngagedWith", "da/da0/a12488.html#a3b2e5636b6c13bc243a067cacc7ab529", null ],
-    [ "MovementInform", "da/da0/a12488.html#ade54a8fa42cbbf9febecf1a3eee00fd3", null ],
-    [ "Reset", "da/da0/a12488.html#a8b90bbc2a0cdfdb09a3f8ddde2bf4108", null ],
-    [ "UpdateAI", "da/da0/a12488.html#aa1693c8cc5bcc60a256f5d61f81cce1a", null ],
-    [ "events", "da/da0/a12488.html#a3471692c39233f3c25cdc875c0078f2c", null ],
-    [ "health34", "da/da0/a12488.html#adc83683c2f6a7073469cd2f5aa325717", null ],
-    [ "health67", "da/da0/a12488.html#af30c26b46b14e9e16fe5d48d4dcf23de", null ]
+    [ "instance_deadmines_InstanceMapScript", "d5/d97/a12492.html", "d5/d97/a12492" ],
+    [ "instance_deadmines", "da/da0/a12488.html#a91ec4b9d2c4dcb3b8a2822431259bc08", null ],
+    [ "GetInstanceScript", "da/da0/a12488.html#ac5cb65972d52324cedf662cc44dca626", null ]
 ];

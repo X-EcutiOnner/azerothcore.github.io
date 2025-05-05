@@ -1,8 +1,13 @@
 var a11564 =
 [
-    [ "accountId", "d1/de2/a11564.html#ad146b84be01ec07a5fee8184f0cc2da9", null ],
-    [ "accountName", "d1/de2/a11564.html#a4849bd1f43fd15eea1991948abdc576d", null ],
-    [ "deleteDate", "d1/de2/a11564.html#a65a101727094841d34e8775bb7504cba", null ],
-    [ "lowGuid", "d1/de2/a11564.html#a11fd07e662184f750ac0a5e547a22437", null ],
-    [ "name", "d1/de2/a11564.html#a0e85dce38305e222c5654315ed68bfc1", null ]
+    [ "cheat_commandscript", "d1/de2/a11564.html#a7449cfba3578956a09b67e569e7e6083", null ],
+    [ "GetCommands", "d1/de2/a11564.html#a7cc6ca0c216a4ff497b60dc7622623fd", null ],
+    [ "HandleCasttimeCheatCommand", "d1/de2/a11564.html#a119ad06c5b8be235853bb13c7cff724b", null ],
+    [ "HandleCheatStatusCommand", "d1/de2/a11564.html#acdf487c7a96d1757d3254e3f17e728cb", null ],
+    [ "HandleCoolDownCheatCommand", "d1/de2/a11564.html#ab31a1cfe2567b0f597c689f44ab9fd6d", null ],
+    [ "HandleExploreCheatCommand", "d1/de2/a11564.html#a25ea712f2fb249e49f5f0b8244f743c5", null ],
+    [ "HandleGodModeCheatCommand", "d1/de2/a11564.html#ac398dbacf025830dc871bc77938d47d6", null ],
+    [ "HandlePowerCheatCommand", "d1/de2/a11564.html#ae406c5d444b10ba65b79f8ff9d949c24", null ],
+    [ "HandleTaxiCheatCommand", "d1/de2/a11564.html#ab9bd840c9622d173e710058eeb763388", null ],
+    [ "HandleWaterWalkCheatCommand", "d1/de2/a11564.html#a9162d89c049f14f29bc5ba257964df34", null ]
 ];

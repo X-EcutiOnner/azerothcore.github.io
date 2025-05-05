@@ -1,8 +1,5 @@
 var a10544 =
 [
-    [ "GuildCommandResult", "db/d25/a10544.html#a9b82d7f9fe8f9b42fb4ed74c14cba03d", null ],
-    [ "Write", "db/d25/a10544.html#a621e211342b3bf9b5de01a9a3b66291b", null ],
-    [ "Command", "db/d25/a10544.html#a099cf9f39c403f76971d006245b03f29", null ],
-    [ "Name", "db/d25/a10544.html#a122ee78cb5fc38aa7ecd7a2cad8a33cc", null ],
-    [ "Result", "db/d25/a10544.html#a8b6b2127aa39807a61bf0cc3cce15921", null ]
+    [ "AcceptGuildInvite", "db/d25/a10544.html#a4453fc550871082f6295d9229eef265a", null ],
+    [ "Read", "db/d25/a10544.html#a3d39b917ca2650f645ccce12cdc1a1e0", null ]
 ];

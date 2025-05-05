@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['yell_0',['Yell',['../d2/d78/a08584.html#ad7f0dece22565cff85cf480640177e92',1,'Player::Yell(std::string_view text, Language language, WorldObject const *=nullptr) override'],['../d2/d78/a08584.html#aa6e4a4c99b3e09df58ac3628ba96852d',1,'Player::Yell(uint32 textId, WorldObject const *target=nullptr) override'],['../d8/dc0/a08716.html#a3c20bbd85474cc42ac23b3bd1c5f54c5',1,'Unit::Yell(std::string_view text, Language language, WorldObject const *target=nullptr)'],['../d8/dc0/a08716.html#a848463027887db11839471408ad53199',1,'Unit::Yell(uint32 textId, WorldObject const *target=nullptr)']]],
+  ['yell_0',['Yell',['../da/d14/a08580.html#ad7f0dece22565cff85cf480640177e92',1,'Player::Yell(std::string_view text, Language language, WorldObject const *=nullptr) override'],['../da/d14/a08580.html#aa6e4a4c99b3e09df58ac3628ba96852d',1,'Player::Yell(uint32 textId, WorldObject const *target=nullptr) override'],['../d3/d80/a08712.html#a3c20bbd85474cc42ac23b3bd1c5f54c5',1,'Unit::Yell(std::string_view text, Language language, WorldObject const *target=nullptr)'],['../d3/d80/a08712.html#a848463027887db11839471408ad53199',1,'Unit::Yell(uint32 textId, WorldObject const *target=nullptr)']]],
   ['yelltoall_1',['YellToAll',['../d3/d13/a07264.html#a39548195d203781af0e04927e7c1ba46',1,'Battleground']]]
 ];

@@ -1,5 +1,6 @@
 var a12880 =
 [
-    [ "go_inconspicuous_mine_car", "df/de1/a12880.html#a34e941a813079b55f66bea15cffe8f42", null ],
-    [ "OnGossipHello", "df/de1/a12880.html#a256a8f766dd045613c0c7159db9f74e0", null ]
+    [ "HandleScriptEffect", "df/de1/a12880.html#a430d6f41e8533cbade64ea46aaa9ec2e", null ],
+    [ "PrepareSpellScript", "df/de1/a12880.html#ad110e0dba330acde845c47501256cf5d", null ],
+    [ "Register", "df/de1/a12880.html#ab6971aa466055a1280cd258e26645157", null ]
 ];

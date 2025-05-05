@@ -1,11 +1,7 @@
 var a10504 =
 [
-    [ "BackgroundColor", "d5/d30/a10504.html#abab86dd497de86088873178bf1d54b5b", null ],
-    [ "BorderColor", "d5/d30/a10504.html#abb2489b9be8a0d4a20d209d6293d7d46", null ],
-    [ "BorderStyle", "d5/d30/a10504.html#acd5105c31e0f56e680f3384e86186872", null ],
-    [ "EmblemColor", "d5/d30/a10504.html#a2e8a4768292d3566bb61009056a8a230", null ],
-    [ "EmblemStyle", "d5/d30/a10504.html#aa6309467f9f09725a8698de864b4e63c", null ],
-    [ "GuildName", "d5/d30/a10504.html#a74d4e1690c07a647c97ca2225e8488dd", null ],
-    [ "RankCount", "d5/d30/a10504.html#acddb77850a86348df197afc724c4eaa0", null ],
-    [ "Ranks", "d5/d30/a10504.html#aec9fd9a1a3bfa040375193027b32cf24", null ]
+    [ "QueryGuildInfoResponse", "d5/d30/a10504.html#ae1f7b9f33e36821477a19439a3d4065d", null ],
+    [ "Write", "d5/d30/a10504.html#abda9452eba38e76c460f910eb3aad5fa", null ],
+    [ "GuildId", "d5/d30/a10504.html#a04eec0531238fa55a91afa11c394fbce", null ],
+    [ "Info", "d5/d30/a10504.html#a749e992a19264b259f62d403b4925abe", null ]
 ];

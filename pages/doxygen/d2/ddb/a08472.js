@@ -1,5 +1,7 @@
 var a08472 =
 [
-    [ "MageSpellModPred", "d2/ddb/a08472.html#af97aacdd47bd4427bb7dc1093ea1f63c", null ],
-    [ "operator()", "d2/ddb/a08472.html#a09ba840692b7fd50f7f6a537de1b240e", null ]
+    [ "IsInSpec", "d2/ddb/a08472.html#a17668f5b6ea479c9e6c0fd2593853a1d", null ],
+    [ "Active", "d2/ddb/a08472.html#a7ddfb4a1cbd77fe84e49b42b9a28bb90", null ],
+    [ "specMask", "d2/ddb/a08472.html#af178fb95c99f0c961bf12435fc7a3fd5", null ],
+    [ "State", "d2/ddb/a08472.html#a54331e3ecac0d39a4fc7a6b8c2c9f532", null ]
 ];

@@ -1,9 +1,7 @@
 var a09812 =
 [
-    [ "MapUpdateRequest", "de/d8c/a09812.html#af71812e502bb1ceb60a286ff0d676ccd", null ],
-    [ "call", "de/d8c/a09812.html#a2cb96db357347d47596725e5c345b02f", null ],
-    [ "m_diff", "de/d8c/a09812.html#a3f8ff355ac6efb0a6039c7ee5bfc053b", null ],
-    [ "m_map", "de/d8c/a09812.html#a3612f3e64bb1d2f266c8724c398f5de5", null ],
-    [ "m_updater", "de/d8c/a09812.html#aeb063738175aa8ddc751290f922ffef2", null ],
-    [ "s_diff", "de/d8c/a09812.html#a533a8c8a99f82e15dae0d4513c811b01", null ]
+    [ "LFGUpdateRequest", "de/d8c/a09812.html#a85900fc44d5dfb5595fbe7dc3422dfaa", null ],
+    [ "call", "de/d8c/a09812.html#a15258001db5870a0f52bb0c72cba3587", null ],
+    [ "m_diff", "de/d8c/a09812.html#a27e818e5d985ac91be6eca14a1ebd73f", null ],
+    [ "m_updater", "de/d8c/a09812.html#a1bb4423241495aebab83ebc1acf66510", null ]
 ];

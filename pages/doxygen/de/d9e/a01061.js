@@ -1,7 +1,7 @@
 var a01061 =
 [
-    [ "boss_hedrum", "d2/d7c/a11888.html", "d2/d7c/a11888" ],
-    [ "boss_hedrum::boss_hedrumAI", "d2/dd7/a11892.html", "d2/dd7/a11892" ],
+    [ "boss_hedrum", "d4/d09/a11884.html", "d4/d09/a11884" ],
+    [ "boss_hedrum::boss_hedrumAI", "d2/d7c/a11888.html", "d2/d7c/a11888" ],
     [ "Spells", "de/d9e/a01061.html#a5bd342133be8c2137b831460acc9298c", [
       [ "SPELL_OIL_REFINERY", "d9/d01/a03248.html#a5bd342133be8c2137b831460acc9298cae2eb4db3c46b45e80cc2feb9c34f2ada", null ],
       [ "SPELL_QUARRY", "d9/d01/a03248.html#a5bd342133be8c2137b831460acc9298ca5a0922923b24c4bb6661ad8396a76e01", null ],

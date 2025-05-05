@@ -1,9 +1,8 @@
 var a13140 =
 [
-    [ "boss_brutallus", "d5/d3c/a13140.html#a501c898505eb4265edee1546bc54713e", null ],
-    [ "AttackStart", "d5/d3c/a13140.html#a05edf7010f4e7364399bc81582502219", null ],
-    [ "JustDied", "d5/d3c/a13140.html#a48ae6589613f2ac90a499b9b6ae07d01", null ],
-    [ "JustEngagedWith", "d5/d3c/a13140.html#a04ff0c07c578c3b92cf45d1ed27fb883", null ],
-    [ "KilledUnit", "d5/d3c/a13140.html#a608607d83680da85f91324ce0035804b", null ],
-    [ "Reset", "d5/d3c/a13140.html#a20ad64739072e39e7ff3132c6f637af7", null ]
+    [ "npc_madrigosa", "d5/d3c/a13140.html#a7624e25e00c1e7505ba171d0be40beb3", null ],
+    [ "DoAction", "d5/d3c/a13140.html#aaf481ec840e679a9633bd3ecdb4eb3df", null ],
+    [ "UpdateAI", "d5/d3c/a13140.html#a3431d13ea4ebd97d3fc6e542f89e033d", null ],
+    [ "events", "d5/d3c/a13140.html#a5859e4c8454371eb71740616d4763c0e", null ],
+    [ "instance", "d5/d3c/a13140.html#a09525d3bb35d1da4246bd84bbadea304", null ]
 ];

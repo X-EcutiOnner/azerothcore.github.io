@@ -1,7 +1,8 @@
 var a08792 =
 [
-    [ "EquipementIdPrev", "de/d2b/a08792.html#a719c716f8914a200bfde4f5bb3275f26", null ],
-    [ "EquipmentId", "de/d2b/a08792.html#af7f6e5bbb8327e5abf4e17a8a164cc4d", null ],
-    [ "ModelId", "de/d2b/a08792.html#ade2b2413020be410428b9fee9aa284d6", null ],
-    [ "ModelIdPrev", "de/d2b/a08792.html#a9de7aa11788b22692738b72718193057", null ]
+    [ "Entry", "de/d2b/a08792.html#ac9fa29db15e06513805124a56cd073e8", null ],
+    [ "ExtendedCost", "de/d2b/a08792.html#ac826dc078ef456ed93bf23175bce243d", null ],
+    [ "Incrtime", "de/d2b/a08792.html#a95ce707d0a2b00e65c2cd4c5ddda1ea5", null ],
+    [ "Item", "de/d2b/a08792.html#aa500da847d94a9b70cb3a26b782059b3", null ],
+    [ "MaxCount", "de/d2b/a08792.html#a04534ff42e5889995b5203a3257bc864", null ]
 ];

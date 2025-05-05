@@ -1,7 +1,6 @@
 var a03764 =
 [
-    [ "SpellModPred", "d1/dbc/a08468.html", "d1/dbc/a08468" ],
-    [ "MageSpellModPred", "d2/ddb/a08472.html", "d2/ddb/a08472" ],
+    [ "SpellModPredicate", "d1/dbc/a08468.html", "d1/dbc/a08468" ],
     [ "CharacterCustomizeFlags", "d2/d87/a03764.html#a3a8c2696b2e9a6bf9d90ce80438aa578", [
       [ "CHAR_CUSTOMIZE_FLAG_NONE", "d2/d87/a03764.html#a3a8c2696b2e9a6bf9d90ce80438aa578a6f6dac768618381b22f3ab44ba494533", null ],
       [ "CHAR_CUSTOMIZE_FLAG_CUSTOMIZE", "d2/d87/a03764.html#a3a8c2696b2e9a6bf9d90ce80438aa578aadb876a16cbe9fa5facd96601b6a4626", null ],

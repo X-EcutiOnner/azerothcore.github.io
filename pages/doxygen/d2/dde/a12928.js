@@ -1,6 +1,11 @@
 var a12928 =
 [
-    [ "npc_a_special_surpriseAI", "d2/d75/a12932.html", "d2/d75/a12932" ],
-    [ "npc_a_special_surprise", "d2/dde/a12928.html#ab88d74a86049c53b1569bdcc263f3dd4", null ],
-    [ "GetAI", "d2/dde/a12928.html#a930c7ba67a20fbfc55b40117ccd52c98", null ]
+    [ "npc_a_special_surpriseAI", "d2/dde/a12928.html#acf062337317d98e491e40cf6ae9bb3ea", null ],
+    [ "MeetQuestCondition", "d2/dde/a12928.html#a35f4db17e0301ceaaab49727d1ca8289", null ],
+    [ "MoveInLineOfSight", "d2/dde/a12928.html#af0b183b951f1eba8114da1f7a1284d09", null ],
+    [ "Reset", "d2/dde/a12928.html#a9526f6b257eade275b828d2b30328533", null ],
+    [ "UpdateAI", "d2/dde/a12928.html#a8572ec4b4fdcaab93666f581edf1c852", null ],
+    [ "ExecuteSpeech_Counter", "d2/dde/a12928.html#ae1ff67fb743b4125b015c1ecce4bc9db", null ],
+    [ "ExecuteSpeech_Timer", "d2/dde/a12928.html#a8761840d6abdc0b195b5860b95f59b1c", null ],
+    [ "PlayerGUID", "d2/dde/a12928.html#a683cdbd0ef9d0562842aace5b440594f", null ]
 ];

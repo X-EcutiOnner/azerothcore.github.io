@@ -1,7 +1,7 @@
 var a03158 =
 [
-    [ "CliCommandHolder", "dd/d63/a11500.html", "dd/d63/a11500" ],
-    [ "IWorld", "dc/d64/a11504.html", "dc/d64/a11504" ],
+    [ "CliCommandHolder", "de/def/a11496.html", "de/def/a11496" ],
+    [ "IWorld", "dd/d63/a11500.html", "dd/d63/a11500" ],
     [ "Rates", "da/d8d/a03158.html#a7ba5c3e6b385572c3bd751b6c9da9a20", [
       [ "RATE_HEALTH", "da/d8d/a03158.html#a7ba5c3e6b385572c3bd751b6c9da9a20a8bdee348b397c9fbaa19c38d23814cb2", null ],
       [ "RATE_POWER_MANA", "da/d8d/a03158.html#a7ba5c3e6b385572c3bd751b6c9da9a20a5f7f53b89eba684a78e954df438e9dcd", null ],

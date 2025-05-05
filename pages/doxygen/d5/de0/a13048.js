@@ -1,5 +1,8 @@
 var a13048 =
 [
-    [ "npc_apothecary_frye", "d5/de0/a13048.html#a5546099958a9a267d237e65720588456", null ],
-    [ "JustDied", "d5/de0/a13048.html#ab1dc310e90c591b44ce4d5bcf1bac930", null ]
+    [ "npc_apothecary_baxter", "d5/de0/a13048.html#a4a41816ff4f857a15a4665b8da1aec99", null ],
+    [ "JustDied", "d5/de0/a13048.html#a9bf2362ba1b1e3a290ca12f1ceb54ab9", null ],
+    [ "Reset", "d5/de0/a13048.html#afee5103029bd761c48cbf6a11655c44a", null ],
+    [ "UpdateAI", "d5/de0/a13048.html#ad06090f599d0fda3a88f3182c990a49f", null ],
+    [ "_scheduler", "d5/de0/a13048.html#a6d813041e055f3c2b28be7cba3acde13", null ]
 ];

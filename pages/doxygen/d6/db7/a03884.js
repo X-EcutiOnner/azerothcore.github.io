@@ -1,7 +1,7 @@
 var a03884 =
 [
-    [ "CustomSpellValues", "de/dba/a11116.html", "de/dba/a11116" ],
-    [ "SpellImmune", "d7/d26/a11120.html", "d7/d26/a11120" ],
+    [ "CustomSpellValues", "de/d62/a11112.html", "de/d62/a11112" ],
+    [ "SpellImmune", "de/dba/a11116.html", "de/dba/a11116" ],
     [ "MAX_SPELLMOD", "d6/db7/a03884.html#ae3264dd4fffa9d9f378061c12b25b991", null ],
     [ "CustomSpellValueMod", "d6/db7/a03884.html#a9712a6b6a8f9f5f194085aed5e4ef7b4", null ],
     [ "SpellImmuneList", "d6/db7/a03884.html#af3217da0ade707b636c550ca6a151251", null ],
@@ -51,7 +51,8 @@ var a03884 =
       [ "SPELL_INTERRUPT_FLAG_PUSH_BACK", "d6/db7/a03884.html#abadf2f982fd866917c372d16ab99c109a47493934a746ad920a660629b612a4d6", null ],
       [ "SPELL_INTERRUPT_FLAG_UNK3", "d6/db7/a03884.html#abadf2f982fd866917c372d16ab99c109a031ff64962f4218e992ddd29d7966c0a", null ],
       [ "SPELL_INTERRUPT_FLAG_INTERRUPT", "d6/db7/a03884.html#abadf2f982fd866917c372d16ab99c109a69ed081a90c21e0d86095c70de005dbb", null ],
-      [ "SPELL_INTERRUPT_FLAG_ABORT_ON_DMG", "d6/db7/a03884.html#abadf2f982fd866917c372d16ab99c109a202ed1deccaa602e231ff76d0b6df914", null ]
+      [ "SPELL_INTERRUPT_FLAG_ABORT_ON_DMG", "d6/db7/a03884.html#abadf2f982fd866917c372d16ab99c109a202ed1deccaa602e231ff76d0b6df914", null ],
+      [ "SPELL_INTERRUPT_UNK", "d6/db7/a03884.html#abadf2f982fd866917c372d16ab99c109a8b2b1fe40615fbffcbbd5ce337d87af7", null ]
     ] ],
     [ "SpellModOp", "d6/db7/a03884.html#a39b60e1f12cca9b6873cb817e7717351", [
       [ "SPELLMOD_DAMAGE", "d6/db7/a03884.html#a39b60e1f12cca9b6873cb817e7717351a0df5b1482e6dd01af433e9e95fbae0f3", null ],

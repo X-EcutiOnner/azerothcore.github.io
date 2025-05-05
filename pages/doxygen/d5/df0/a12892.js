@@ -1,8 +1,6 @@
 var a12892 =
 [
-    [ "HandleDummy", "d5/df0/a12892.html#a3533f1e0daea7bf0e0e2a5830380159a", null ],
-    [ "HandleScript", "d5/df0/a12892.html#a528ce741ebde0fb6b796431da800e439", null ],
-    [ "PrepareSpellScript", "d5/df0/a12892.html#aa64f2238cdf8bf733c7e99db5d076c81", null ],
-    [ "Register", "d5/df0/a12892.html#a8dea4b47777324b88c7e022f11741b25", null ],
-    [ "Validate", "d5/df0/a12892.html#a6f49345b2beea56b4eaad390a6062118", null ]
+    [ "npc_crusade_persuadedAI", "d1/ddb/a12896.html", "d1/ddb/a12896" ],
+    [ "npc_crusade_persuaded", "d5/df0/a12892.html#a4048e164fc99b9dfff41fd168fb542b6", null ],
+    [ "GetAI", "d5/df0/a12892.html#a004833d7e6312b23eb6a07c0a6e41db6", null ]
 ];

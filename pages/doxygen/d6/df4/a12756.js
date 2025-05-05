@@ -1,5 +1,5 @@
 var a12756 =
 [
-    [ "boss_eramas_brightblaze", "d6/df4/a12756.html#a14d1528750036f27948f5de8a2b44bd3", null ],
-    [ "JustEngagedWith", "d6/df4/a12756.html#ad34613d2795f7371a43891488044392a", null ]
+    [ "boss_yazzai", "d6/df4/a12756.html#a6c92ffeff3e56f98cb1bd08f1835fe10", null ],
+    [ "JustEngagedWith", "d6/df4/a12756.html#ab504de0e51a3715485eb65e006352a6f", null ]
 ];

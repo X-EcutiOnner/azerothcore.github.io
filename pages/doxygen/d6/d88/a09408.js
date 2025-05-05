@@ -1,8 +1,8 @@
 var a09408 =
 [
-    [ "MostHPMissingGroupInRange", "d6/d88/a09408.html#ab7cd80daa30d8a39289c704cc0a2064f", null ],
-    [ "operator()", "d6/d88/a09408.html#ad1b4a4894dd652237a7a789ef5619f4b", null ],
-    [ "i_hp", "d6/d88/a09408.html#ae61cafc52cb6d33cd78422c41bd3bb08", null ],
-    [ "i_obj", "d6/d88/a09408.html#ae0d85f9738301b40c3e950b02ee20026", null ],
-    [ "i_range", "d6/d88/a09408.html#a712e9b1ff341ccde4a6d6962ba6002a4", null ]
+    [ "AllDeadCreaturesInRange", "d6/d88/a09408.html#a31b4976c3ea6203b9a1e7f7970a97977", null ],
+    [ "operator()", "d6/d88/a09408.html#a3638a8d3c5791b590ec717e4f1ba9cef", null ],
+    [ "_obj", "d6/d88/a09408.html#a4ca7fcf9945e698a790d01d3fadae98e", null ],
+    [ "_range", "d6/d88/a09408.html#a431ada86a2b864d53773a85b05d8da4f", null ],
+    [ "_reqAlive", "d6/d88/a09408.html#aefd0d77b69b5df9b99c148e0254fda09", null ]
 ];

@@ -1,9 +1,9 @@
 var a01121 =
 [
-    [ "boss_sulfuron", "de/d9e/a12440.html", "de/d9e/a12440" ],
-    [ "boss_sulfuron::boss_sulfuronAI", "d8/db9/a12444.html", "d8/db9/a12444" ],
-    [ "npc_flamewaker_priest", "db/de4/a12448.html", "db/de4/a12448" ],
-    [ "npc_flamewaker_priest::npc_flamewaker_priestAI", "d4/d4a/a12452.html", "d4/d4a/a12452" ],
+    [ "boss_sulfuron", "d5/d30/a12436.html", "d5/d30/a12436" ],
+    [ "boss_sulfuron::boss_sulfuronAI", "de/d9e/a12440.html", "de/d9e/a12440" ],
+    [ "npc_flamewaker_priest", "d8/db9/a12444.html", "d8/db9/a12444" ],
+    [ "npc_flamewaker_priest::npc_flamewaker_priestAI", "db/de4/a12448.html", "db/de4/a12448" ],
     [ "Events", "dd/de4/a01121.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_CHARGE_TARGET", "d0/d22/a01049.html#af60e00b78607064c5be6aa9397ea49c1ae9b5b6a7dd72b493b6874d7408585a02", null ],
       [ "EVENT_CLEAVE", "d0/d22/a01049.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a", null ],

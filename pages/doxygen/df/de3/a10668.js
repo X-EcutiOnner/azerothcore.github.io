@@ -1,12 +1,5 @@
 var a10668 =
 [
-    [ "Charges", "df/de3/a10668.html#ada45d7e00efb3bf27afcf9db1ad4d813", null ],
-    [ "Count", "df/de3/a10668.html#a6f31a3d750d5c5f1b316f05e7ad9dbe9", null ],
-    [ "EnchantmentID", "df/de3/a10668.html#a249a204f5d72d42f562c989b1cb92fc9", null ],
-    [ "Flags", "df/de3/a10668.html#a3ca816132a756d3dc939877c57f6045d", null ],
-    [ "ItemID", "df/de3/a10668.html#a5dc7e8b40834dba07c63322d80ed73ae", null ],
-    [ "RandomPropertiesID", "df/de3/a10668.html#ad98a20548478fe99f9d6d345c5a3b732", null ],
-    [ "RandomPropertiesSeed", "df/de3/a10668.html#ae5d493dd4798e11f02d8f02a57ba4274", null ],
-    [ "Slot", "df/de3/a10668.html#afcc0a78c2f9a3061830679fece476a64", null ],
-    [ "SocketEnchant", "df/de3/a10668.html#a55545d4d1b752e4f08bd05350b22892c", null ]
+    [ "Icon", "df/de3/a10668.html#ae47c09144b18e42aa48499de3e3fe276", null ],
+    [ "Name", "df/de3/a10668.html#a19c79529bbfe25701c9f8253f3e0f9d8", null ]
 ];

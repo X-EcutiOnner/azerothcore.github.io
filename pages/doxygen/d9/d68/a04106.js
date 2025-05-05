@@ -1,6 +1,6 @@
 var a04106 =
 [
-    [ "AllMapScript", "d3/d1f/a10192.html", "d3/d1f/a10192" ],
+    [ "AllMapScript", "d4/de7/a10188.html", "d4/de7/a10188" ],
     [ "AllMapHook", "d9/d68/a04106.html#a78db4e64fe232d8b547270090d8e3b92", [
       [ "ALLMAPHOOK_ON_PLAYER_ENTER_ALL", "d9/d68/a04106.html#a78db4e64fe232d8b547270090d8e3b92afd97726f6bef6f766e85787ec7f03dfa", null ],
       [ "ALLMAPHOOK_ON_PLAYER_LEAVE_ALL", "d9/d68/a04106.html#a78db4e64fe232d8b547270090d8e3b92acb0a85f676691164c5745f89720426ae", null ],

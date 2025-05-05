@@ -1,6 +1,8 @@
 var a11980 =
 [
-    [ "boss_halyconAI", "da/d29/a11984.html", "da/d29/a11984" ],
-    [ "boss_halycon", "d3/d20/a11980.html#aa149c5f8b34b9c00102f9a0758dcbd9a", null ],
-    [ "GetAI", "d3/d20/a11980.html#a861f1b0213ad9bcf572c9d59eabba699", null ]
+    [ "boss_halyconAI", "d3/d20/a11980.html#acc110d5d802fc0da3ea630f667167748", null ],
+    [ "JustDied", "d3/d20/a11980.html#a7d71e135a8edf3d3b99ccfcb3b071eaa", null ],
+    [ "JustEngagedWith", "d3/d20/a11980.html#a5735567462167fffa4d01800d696296e", null ],
+    [ "Reset", "d3/d20/a11980.html#ac5622260b0b40cb584cf3037521cc5b8", null ],
+    [ "UpdateAI", "d3/d20/a11980.html#a6e72949b63de3d32d8369c7122b6060d", null ]
 ];

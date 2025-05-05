@@ -1,6 +1,6 @@
 var a04403 =
 [
-    [ "SkillDiscoveryEntry", "d0/d19/a11012.html", "d0/d19/a11012" ],
+    [ "SkillDiscoveryEntry", "da/d95/a11008.html", "da/d95/a11008" ],
     [ "SkillDiscoveryList", "d3/dd8/a04403.html#a0c80a6b86b3b7bd5e9c238efa802919b", null ],
     [ "SkillDiscoveryMap", "d3/dd8/a04403.html#ab7ec6a8662e4edd3167deb3c917d2eab", null ],
     [ "GetExplicitDiscoverySpell", "d3/dd8/a04403.html#a7cdb9e342efe04c1ba8caf202b7b0d96", null ],

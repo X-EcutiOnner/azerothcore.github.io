@@ -124,7 +124,7 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a620f0036078833a3b5ce1245274595f8"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:af770dbf9bc4e4da1b97aba73b152b23b"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d3e/a08432.html#af770dbf9bc4e4da1b97aba73b152b23b">AddUpdateBlock</a> (const <a class="el" href="../../d5/d3e/a08432.html">UpdateData</a> &amp;block)</td></tr>
 <tr class="separator:af770dbf9bc4e4da1b97aba73b152b23b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a3bea592b01b6c9e41b863c26fd602d45"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d3e/a08432.html#a3bea592b01b6c9e41b863c26fd602d45">BuildPacket</a> (<a class="el" href="../../d1/d37/a10936.html">WorldPacket</a> &amp;packet)</td></tr>
+<tr class="memitem:a3bea592b01b6c9e41b863c26fd602d45"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d3e/a08432.html#a3bea592b01b6c9e41b863c26fd602d45">BuildPacket</a> (<a class="el" href="../../db/da9/a10932.html">WorldPacket</a> &amp;packet)</td></tr>
 <tr class="separator:a3bea592b01b6c9e41b863c26fd602d45"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a067577372028ad59aea7942f0cd4a5c2"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d3e/a08432.html#a067577372028ad59aea7942f0cd4a5c2">HasData</a> () const</td></tr>
 <tr class="separator:a067577372028ad59aea7942f0cd4a5c2"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -254,7 +254,7 @@ Protected Attributes</h2></td></tr>
         <tr>
           <td class="memname">bool UpdateData::BuildPacket </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d1/d37/a10936.html">WorldPacket</a> &amp;&#160;</td>
+          <td class="paramtype"><a class="el" href="../../db/da9/a10932.html">WorldPacket</a> &amp;&#160;</td>
           <td class="paramname"><em>packet</em></td><td>)</td>
           <td></td>
         </tr>
@@ -277,7 +277,7 @@ Protected Attributes</h2></td></tr>
 <div class="line"><span class="lineno">   63</span>    }</div>
 <div class="line"><span class="lineno">   64</span> </div>
 <div class="line"><span class="lineno">   65</span>    packet.<a class="code hl_function" href="../../d2/d20/a28380.html#a5811e6da355e8c3d0f45997a557a666b">append</a>(<a class="code hl_variable" href="../../d5/d3e/a08432.html#ac21a3bda51f8d1d2b71be6d00d760e38">m_data</a>);</div>
-<div class="line"><span class="lineno">   66</span>    packet.<a class="code hl_function" href="../../d1/d37/a10936.html#acb55a3f9540c39bf88300473c29605ed">SetOpcode</a>(<a class="code hl_enumvalue" href="../../da/d0e/a04752.html#gga1073b6abb3a749f18bf1633020879e9baa19f59dc85b16985e439758bae166f55">SMSG_UPDATE_OBJECT</a>);</div>
+<div class="line"><span class="lineno">   66</span>    packet.<a class="code hl_function" href="../../db/da9/a10932.html#acb55a3f9540c39bf88300473c29605ed">SetOpcode</a>(<a class="code hl_enumvalue" href="../../da/d0e/a04752.html#gga1073b6abb3a749f18bf1633020879e9baa19f59dc85b16985e439758bae166f55">SMSG_UPDATE_OBJECT</a>);</div>
 <div class="line"><span class="lineno">   67</span> </div>
 <div class="line"><span class="lineno">   68</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
 <div class="line"><span class="lineno">   69</span>}</div>
@@ -287,7 +287,7 @@ Protected Attributes</h2></td></tr>
 <div class="ttc" id="aa03695_html_aa0f2952f4b375c0e91f5276ff267cbada5e1317f5c975a9e3a19c37922f49e089"><div class="ttname"><a href="../../d2/db4/a03695.html#aa0f2952f4b375c0e91f5276ff267cbada5e1317f5c975a9e3a19c37922f49e089">UPDATETYPE_OUT_OF_RANGE_OBJECTS</a></div><div class="ttdeci">@ UPDATETYPE_OUT_OF_RANGE_OBJECTS</div><div class="ttdef"><b>Definition:</b> UpdateData.h:32</div></div>
 <div class="ttc" id="aa04752_html_gga1073b6abb3a749f18bf1633020879e9baa19f59dc85b16985e439758bae166f55"><div class="ttname"><a href="../../da/d0e/a04752.html#gga1073b6abb3a749f18bf1633020879e9baa19f59dc85b16985e439758bae166f55">SMSG_UPDATE_OBJECT</a></div><div class="ttdeci">@ SMSG_UPDATE_OBJECT</div><div class="ttdef"><b>Definition:</b> Opcodes.h:199</div></div>
 <div class="ttc" id="aa08384_html"><div class="ttname"><a href="../../d4/dca/a08384.html">ObjectGuid</a></div><div class="ttdef"><b>Definition:</b> ObjectGuid.h:118</div></div>
-<div class="ttc" id="aa10936_html_acb55a3f9540c39bf88300473c29605ed"><div class="ttname"><a href="../../d1/d37/a10936.html#acb55a3f9540c39bf88300473c29605ed">WorldPacket::SetOpcode</a></div><div class="ttdeci">void SetOpcode(uint16 opcode)</div><div class="ttdef"><b>Definition:</b> WorldPacket.h:76</div></div>
+<div class="ttc" id="aa10932_html_acb55a3f9540c39bf88300473c29605ed"><div class="ttname"><a href="../../db/da9/a10932.html#acb55a3f9540c39bf88300473c29605ed">WorldPacket::SetOpcode</a></div><div class="ttdeci">void SetOpcode(uint16 opcode)</div><div class="ttdef"><b>Definition:</b> WorldPacket.h:76</div></div>
 <div class="ttc" id="aa28380_html_a48480d6c90375176acff4348a0ad1e55"><div class="ttname"><a href="../../d2/d20/a28380.html#a48480d6c90375176acff4348a0ad1e55">ByteBuffer::reserve</a></div><div class="ttdeci">void reserve(std::size_t ressize)</div><div class="ttdef"><b>Definition:</b> ByteBuffer.h:454</div></div>
 <div class="ttc" id="aa28380_html_a6e9aaf9195c43a9a03ee4a55c435e24f"><div class="ttname"><a href="../../d2/d20/a28380.html#a6e9aaf9195c43a9a03ee4a55c435e24f">ByteBuffer::wpos</a></div><div class="ttdeci">std::size_t wpos() const</div><div class="ttdef"><b>Definition:</b> ByteBuffer.h:330</div></div>
 <div class="ttc" id="aa28380_html_ac1bd3fa1333a0b1140398dca94582bf9"><div class="ttname"><a href="../../d2/d20/a28380.html#ac1bd3fa1333a0b1140398dca94582bf9">ByteBuffer::empty</a></div><div class="ttdeci">bool empty() const</div><div class="ttdef"><b>Definition:</b> ByteBuffer.h:445</div></div>
@@ -434,7 +434,7 @@ Protected Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d5/d3e/a08432.html">UpdateData</a></li>
-    <li class="footer">Generated on Mon Apr 28 2025 20:45:30 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon May 5 2025 20:47:09 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

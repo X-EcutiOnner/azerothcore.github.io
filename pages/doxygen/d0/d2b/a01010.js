@@ -1,9 +1,10 @@
 var a01010 =
 [
-    [ "boss_sacrolash", "dd/d19/a13164.html", "dd/d19/a13164" ],
-    [ "boss_alythess", "d5/dcb/a13168.html", "d5/dcb/a13168" ],
-    [ "spell_eredar_twins_apply_touch", "d3/d07/a13172.html", "d3/d07/a13172" ],
-    [ "spell_eredar_twins_handle_touch", "de/d5a/a13176.html", "de/d5a/a13176" ],
+    [ "boss_sacrolash", "d0/d96/a13160.html", "d0/d96/a13160" ],
+    [ "boss_alythess", "dd/d19/a13164.html", "dd/d19/a13164" ],
+    [ "spell_eredar_twins_apply_touch", "d5/dcb/a13168.html", "d5/dcb/a13168" ],
+    [ "spell_eredar_twins_handle_touch", "d3/d07/a13172.html", "d3/d07/a13172" ],
+    [ "spell_eredar_twins_flame_sear", "de/d5a/a13176.html", "de/d5a/a13176" ],
     [ "spell_eredar_twins_blaze", "d6/d5a/a13180.html", "d6/d5a/a13180" ],
     [ "spell_eredar_twins_handle_touch_periodic", "d1/d71/a13184.html", "d1/d71/a13184" ],
     [ "at_sunwell_eredar_twins", "d6/dd4/a13188.html", "d6/dd4/a13188" ],

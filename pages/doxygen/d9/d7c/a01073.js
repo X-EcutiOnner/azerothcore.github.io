@@ -1,7 +1,7 @@
 var a01073 =
 [
-    [ "boss_gorosh_the_dervish", "df/d59/a11872.html", "df/d59/a11872" ],
-    [ "boss_gorosh_the_dervish::boss_gorosh_the_dervishAI", "d1/dd5/a11876.html", "d1/dd5/a11876" ],
+    [ "boss_gorosh_the_dervish", "d5/dc5/a11868.html", "d5/dc5/a11868" ],
+    [ "boss_gorosh_the_dervish::boss_gorosh_the_dervishAI", "df/d59/a11872.html", "df/d59/a11872" ],
     [ "Spells", "d9/d7c/a01073.html#a5bd342133be8c2137b831460acc9298c", [
       [ "SPELL_OIL_REFINERY", "d9/d01/a03248.html#a5bd342133be8c2137b831460acc9298cae2eb4db3c46b45e80cc2feb9c34f2ada", null ],
       [ "SPELL_QUARRY", "d9/d01/a03248.html#a5bd342133be8c2137b831460acc9298ca5a0922923b24c4bb6661ad8396a76e01", null ],

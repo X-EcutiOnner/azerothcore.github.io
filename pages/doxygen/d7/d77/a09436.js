@@ -1,9 +1,8 @@
 var a09436 =
 [
-    [ "UnitAuraCheck", "d7/d77/a09436.html#acbc0c969db8b768720ab3b8235c28352", null ],
-    [ "operator()", "d7/d77/a09436.html#abc385cad226ac51c09a908864d360fd3", null ],
-    [ "operator()", "d7/d77/a09436.html#a1c85e9d5d517a852cf4c92063e6f3ed1", null ],
-    [ "_casterGUID", "d7/d77/a09436.html#ab2bdf4c05792dd83e4e9542fc3083cc3", null ],
-    [ "_present", "d7/d77/a09436.html#af553a0c4db5b11ec69ae7fbe9ce5ff78", null ],
-    [ "_spellId", "d7/d77/a09436.html#a0dd71c851f803fb70a4543c77b672889", null ]
+    [ "AllWorldObjectsInExactRange", "d7/d77/a09436.html#a0281d22587b9b1bdbfbdd8dccc625186", null ],
+    [ "operator()", "d7/d77/a09436.html#afe0bea69ddd5e275363361bf37284840", null ],
+    [ "_equals", "d7/d77/a09436.html#aebb4cb9e84cf91cca235fe663dba8d60", null ],
+    [ "_object", "d7/d77/a09436.html#a5fba0e3c7cde76bfe56f8e9e9716412b", null ],
+    [ "_range", "d7/d77/a09436.html#ae40de8ce49bb429243e5059b6d14398f", null ]
 ];

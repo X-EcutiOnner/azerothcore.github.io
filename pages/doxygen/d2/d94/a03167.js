@@ -1,7 +1,7 @@
 var a03167 =
 [
-    [ "SunsReachReclamationData", "db/d09/a11520.html", "db/d09/a11520" ],
-    [ "WorldState", "de/d89/a11524.html", "de/d89/a11524" ],
+    [ "SunsReachReclamationData", "d9/db2/a11516.html", "d9/db2/a11516" ],
+    [ "WorldState", "db/d09/a11520.html", "db/d09/a11520" ],
     [ "sWorldState", "d2/d94/a03167.html#a3a4f495a024c9f1774c913dd8ac4929f", null ],
     [ "SunsReachCounters", "d2/d94/a03167.html#aaf07f00f32588714a5bb8a6b3662211c", [
       [ "COUNTER_ERRATIC_BEHAVIOR", "d2/d94/a03167.html#aaf07f00f32588714a5bb8a6b3662211ca23b1e2d313de5eb6487c856608b41641", null ],

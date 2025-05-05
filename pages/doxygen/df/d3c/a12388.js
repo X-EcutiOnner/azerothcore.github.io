@@ -1,8 +1,8 @@
 var a12388 =
 [
-    [ "MajordomoAddData", "df/d3c/a12388.html#aa068ada34e1275cbf97b21f74dfd2881", null ],
-    [ "MajordomoAddData", "df/d3c/a12388.html#a9b8cc2b43ffbf268e470169e00e66671", null ],
-    [ "creatureEntry", "df/d3c/a12388.html#ae3a0444e88158123f4d6359328e89a1d", null ],
-    [ "guid", "df/d3c/a12388.html#a2f2b0aaace557361a21d1072f36933dc", null ],
-    [ "spawnPos", "df/d3c/a12388.html#a31f8d24efb19c2d0e697f35b911e3237", null ]
+    [ "boss_majordomoAI", "d8/df2/a12392.html", "d8/df2/a12392" ],
+    [ "boss_majordomo", "df/d3c/a12388.html#a77a1ff3d2c7aafecad9f78fcd87536b1", null ],
+    [ "GetAI", "df/d3c/a12388.html#aceae0dc662e93bf68556073e8b324964", null ],
+    [ "OnGossipHello", "df/d3c/a12388.html#a8d1b625df61b27fef0bfe6f635a3b7ae", null ],
+    [ "OnGossipSelect", "df/d3c/a12388.html#a69c2c5fc557b02c9a0b26bdb7b57443c", null ]
 ];

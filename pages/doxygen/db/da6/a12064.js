@@ -1,6 +1,6 @@
 var a12064 =
 [
-    [ "OrcDeathEvent", "db/da6/a12064.html#ae4088ee95c3c0de9ae524a82803b0ea2", null ],
-    [ "Execute", "db/da6/a12064.html#a293ec6667da669a27fe75965f919cd68", null ],
-    [ "_me", "db/da6/a12064.html#a56cdf23ed08cbb800ba6fe7fb5e284b7", null ]
+    [ "boss_thebeastAI", "d5/d09/a12068.html", "d5/d09/a12068" ],
+    [ "boss_the_beast", "db/da6/a12064.html#a131344b5fada63f4a8f0b3692ecba9eb", null ],
+    [ "GetAI", "db/da6/a12064.html#a0b40497c665c571247cb8ad8b85ac63f", null ]
 ];

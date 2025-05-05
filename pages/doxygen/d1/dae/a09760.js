@@ -1,7 +1,7 @@
 var a09760 =
 [
-    [ "resetNotify", "d1/dae/a09760.html#a1472e21d9af04662f3574bc2c7d3890c", null ],
-    [ "Visit", "d1/dae/a09760.html#adfcdcf148b002c641638ddc70d577b14", null ],
-    [ "Visit", "d1/dae/a09760.html#adf95512d4304962a5740b38c32ea28a7", null ],
-    [ "Visit", "d1/dae/a09760.html#a725fc2c2504eecaa15841c27b367cd55", null ]
+    [ "ownerGUID", "d1/dae/a09760.html#a3c89974ea78b732cbffb8a9d482d403b", null ],
+    [ "script", "d1/dae/a09760.html#ad995c862431acd9d45cc12c9d5c8b319", null ],
+    [ "sourceGUID", "d1/dae/a09760.html#acafb40cbd1e73152f9dbf390f1fc98f3", null ],
+    [ "targetGUID", "d1/dae/a09760.html#a1505a3b9a6de23dcd6b2847207a279ca", null ]
 ];

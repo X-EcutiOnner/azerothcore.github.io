@@ -1,16 +1,16 @@
 var searchData=
 [
   ['days_0',['Days',['../df/db6/a00509.html#af5dc5e7ad7b3f6d8e84530de842d125b',1,'Duration.h']]],
-  ['deletedinfolist_1',['DeletedInfoList',['../d9/d98/a11560.html#afea1b495e99ebd5b9b1481caf700aa42',1,'character_commandscript']]],
-  ['dfquestsdonelist_2',['DFQuestsDoneList',['../d2/d78/a08584.html#a4976a84f1a7e5019ccccdad3cba0e743',1,'Player']]],
+  ['deletedinfolist_1',['DeletedInfoList',['../d6/dbf/a11556.html#afea1b495e99ebd5b9b1481caf700aa42',1,'character_commandscript']]],
+  ['dfquestsdonelist_2',['DFQuestsDoneList',['../da/d14/a08580.html#a4976a84f1a7e5019ccccdad3cba0e743',1,'Player']]],
   ['difference_5ftype_3',['difference_type',['../d4/d61/a05212.html#ad9960b552714f9d608e1a3d1b42b4d1f',1,'LinkedListHead::Iterator::difference_type()'],['../dd/d1f/a05420.html#aeb2086c6034a734b92b3cb8d0382a293',1,'Acore::CheckedBufferOutputIterator::difference_type()'],['../db/da4/a05488.html#a87c56269252a45d93cb7a6817d851d9b',1,'EnumUtils::Iterator::difference_type()'],['../d0/ddb/a05824.html#aa5abd2b7fa1dc64ac1eb085521b27d6f',1,'ResultIterator::difference_type()'],['../d3/d96/a27628.html#ae4b37510a14d178636d2caeb518152d8',1,'DBCStorageIterator::difference_type()']]],
-  ['difftablearray_4',['DiffTableArray',['../d4/d14/a11376.html#a38ae34827b0de71df0eeb31c1af9e07e',1,'UpdateTime']]],
+  ['difftablearray_4',['DiffTableArray',['../dc/d4e/a11372.html#a38ae34827b0de71df0eeb31c1af9e07e',1,'UpdateTime']]],
   ['digest_5',['Digest',['../d7/d13/a05156.html#abf69027dd4096b1bda0e5d78fbceba05',1,'Acore::Impl::GenericHash::Digest()'],['../df/df0/a05160.html#a4d7f68dcd7fdc00ae2df6451b5d7b2cd',1,'Acore::Impl::GenericHMAC::Digest()']]],
-  ['diminishing_6',['Diminishing',['../d8/dc0/a08716.html#aaf1c713aad9b5f1f34bc0983b6f136dd',1,'Unit']]],
+  ['diminishing_6',['Diminishing',['../d3/d80/a08712.html#aaf1c713aad9b5f1f34bc0983b6f136dd',1,'Unit']]],
   ['directorystorage_7',['DirectoryStorage',['../d0/d83/a05884.html#aba8b6a3e4101d39c2ce7ddd6856c7ad1',1,'UpdateFetcher']]],
   ['disablemap_8',['DisableMap',['../db/d0d/a07848.html#adf2cad99fa4b2b3ddbff05931928c1c5',1,'DisableMgr']]],
   ['disabletypemap_9',['DisableTypeMap',['../db/d0d/a07848.html#a70c68e93cdd77f5e54bae1b96c66da13',1,'DisableMgr']]],
-  ['disconnectmap_10',['DisconnectMap',['../d8/d47/a10988.html#a87b26d470986090c226cc144c5f6af36',1,'WorldSessionMgr']]],
+  ['disconnectmap_10',['DisconnectMap',['../d7/dbd/a10984.html#a87b26d470986090c226cc144c5f6af36',1,'WorldSessionMgr']]],
   ['dispelchargeslist_11',['DispelChargesList',['../d3/d83/a03854.html#ac60ae645aa0b9216de7dac56c3ed8c37',1,'Unit.h']]],
   ['dispellist_12',['DispelList',['../dc/d61/a03893.html#a711d5a2b2f8cbeb49153d9e33ea51bf1',1,'SpellEffects.cpp']]],
   ['distance_5ftype_13',['distance_type',['../d4/d61/a05212.html#ae9542dfc90ba68a923d41092a7b56c76',1,'LinkedListHead::Iterator']]],
@@ -19,8 +19,8 @@ var searchData=
   ['doorset_16',['DoorSet',['../de/d27/a03002.html#a17be047bdb4b0361cdee9637ff279e9f',1,'InstanceScript.h']]],
   ['dungeonencountercontainer_17',['DungeonEncounterContainer',['../d1/d89/a03035.html#a876f6d2b05951f015c0982bec4b71d49',1,'ObjectMgr.h']]],
   ['dungeonencounterlist_18',['DungeonEncounterList',['../d1/d89/a03035.html#aebea323597e23bf0f45fd9c0c6bd78f5',1,'ObjectMgr.h']]],
-  ['dungeonprogressionrequirementscontainer_19',['DungeonProgressionRequirementsContainer',['../dd/d73/a09008.html#af9d25a87c05988cfaf58425a28716c03',1,'ObjectMgr']]],
+  ['dungeonprogressionrequirementscontainer_19',['DungeonProgressionRequirementsContainer',['../de/d91/a09004.html#af9d25a87c05988cfaf58425a28716c03',1,'ObjectMgr']]],
   ['duration_5ft_20',['duration_t',['../db/d2d/a05520.html#a9c6be5fc079684953f911548fb66cb21',1,'TaskScheduler']]],
   ['dynamicobjectmaptype_21',['DynamicObjectMapType',['../d0/d57/a03380.html#a5957bb381cc7067b3da243bb5999e870',1,'GridDefines.h']]],
-  ['dynobjectlist_22',['DynObjectList',['../d8/dc0/a08716.html#ae8858c524be551c72bf88127c354c990',1,'Unit']]]
+  ['dynobjectlist_22',['DynObjectList',['../d3/d80/a08712.html#ae8858c524be551c72bf88127c354c990',1,'Unit']]]
 ];
