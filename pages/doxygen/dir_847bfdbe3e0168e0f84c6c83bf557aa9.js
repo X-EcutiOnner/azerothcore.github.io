@@ -1,6 +1,6 @@
 var dir_847bfdbe3e0168e0f84c6c83bf557aa9 =
 [
-    [ "boss_malygos.cpp", "d2/d31/a02087.html", "d2/d31/a02087" ],
-    [ "eye_of_eternity.h", "d2/d50/a02081.html", "d2/d50/a02081" ],
-    [ "instance_eye_of_eternity.cpp", "da/dbe/a02084.html", "da/dbe/a02084" ]
+    [ "boss_malygos.cpp", "d3/def/a00446.html", "d3/def/a00446" ],
+    [ "eye_of_eternity.h", "d9/d10/a00449.html", "d9/d10/a00449" ],
+    [ "instance_eye_of_eternity.cpp", "d1/d0b/a00452.html", "d1/d0b/a00452" ]
 ];

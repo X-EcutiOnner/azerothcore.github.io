@@ -1,12 +1,17 @@
 var a16167 =
 [
-    [ "npc_swarm_scarabAI", "d4/dcc/a16167.html#a0d0cefd52543044773e7df772f90fd37", null ],
-    [ "CanAIAttack", "d4/dcc/a16167.html#a95a27742f4f7fa1af45964b6270a9558", null ],
-    [ "DoAction", "d4/dcc/a16167.html#ac1fe6742ef1e7bdee4c81a3933a31659", null ],
-    [ "JustDied", "d4/dcc/a16167.html#a0fe99c71cac6d3ee8d360f0d46d03fcd", null ],
-    [ "JustEngagedWith", "d4/dcc/a16167.html#a585e1e8800e97b2aa3d6c893d54c1d2b", null ],
-    [ "Reset", "d4/dcc/a16167.html#aa24cc2f2b7aa4c5c534e8d2ce2957237", null ],
-    [ "UpdateAI", "d4/dcc/a16167.html#aa33d9e101ba7de2a25a6213baccf6df1", null ],
-    [ "despawnTimer", "d4/dcc/a16167.html#a6d35e43af695ac112b972badb665f06d", null ],
-    [ "determinationTimer", "d4/dcc/a16167.html#af319dbf16bc1d3939602465f0a87d30c", null ]
+    [ "boss_black_knightAI", "d4/dcc/a16167.html#a46c906dfeb367134885dc5248b50dbd0", null ],
+    [ "DamageTaken", "d4/dcc/a16167.html#a8a9b3f248f3d889b1804c387396d3054", null ],
+    [ "DoAction", "d4/dcc/a16167.html#a1b16dda892b2e6c94352cf13e6b961f4", null ],
+    [ "EnterEvadeMode", "d4/dcc/a16167.html#a77d1dc632828691fa07a543544bd266c", null ],
+    [ "JustDied", "d4/dcc/a16167.html#a3bb0698d0d66e4a26e25569f97ea720d", null ],
+    [ "JustSummoned", "d4/dcc/a16167.html#a58c32a4802a93755d7c8129c01901cdf", null ],
+    [ "KilledUnit", "d4/dcc/a16167.html#a01121270bc30a75630e5da96c9f61519", null ],
+    [ "Reset", "d4/dcc/a16167.html#ae67498247b9d631c4ca6af0acb1c76af", null ],
+    [ "SpellHitTarget", "d4/dcc/a16167.html#a718a51ec39cb9a10225a7bc76a069a3b", null ],
+    [ "UpdateAI", "d4/dcc/a16167.html#af8600ff24856d079df7e9c59f49850b2", null ],
+    [ "events", "d4/dcc/a16167.html#a189de3b3ef51c7870399a7a31503ae24", null ],
+    [ "Phase", "d4/dcc/a16167.html#ac25e3299bc9787d5bbad22263ebab235", null ],
+    [ "pInstance", "d4/dcc/a16167.html#acde711225a78e54d4bc1e0fde41e951d", null ],
+    [ "summons", "d4/dcc/a16167.html#a73e1c3688a853b70527e862efe05bc11", null ]
 ];

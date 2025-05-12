@@ -1,12 +1,10 @@
 var a09211 =
 [
-    [ "EventLogEntry", "d8/de9/a09211.html#a31726d40f7b89077b45ffbaca8396a9d", null ],
-    [ "EventLogEntry", "d8/de9/a09211.html#a96a2e3a6d565db452e7d0f1a152f63c7", null ],
-    [ "~EventLogEntry", "d8/de9/a09211.html#a8d6bf0a5a53fdc8e99ad53293d96af7c", null ],
-    [ "SaveToDB", "d8/de9/a09211.html#a2ca71e291a44f95bb42d51083aa84985", null ],
-    [ "WritePacket", "d8/de9/a09211.html#adffe90bd0265dea0ca2fd6bc83f3056e", null ],
-    [ "m_eventType", "d8/de9/a09211.html#a00216643e6856591402c21df490c1fec", null ],
-    [ "m_newRank", "d8/de9/a09211.html#ab733c92f478dc36e3b5ffc61799a6ce7", null ],
-    [ "m_playerGuid1", "d8/de9/a09211.html#a06a2b45d16860c711829f49f97624272", null ],
-    [ "m_playerGuid2", "d8/de9/a09211.html#a1f66e71f9536e484663e437bbcbcefca", null ]
+    [ "UnitLastSearcher", "d8/de9/a09211.html#a7924240df139cf0814282eaff8a898b6", null ],
+    [ "Visit", "d8/de9/a09211.html#a95a5148e040daf44ed19e3118621a4ca", null ],
+    [ "Visit", "d8/de9/a09211.html#ae9992afc09771d4f1e1517642075f17e", null ],
+    [ "Visit", "d8/de9/a09211.html#aadfcfdd95a9f2b61cb9ff4c7db43a014", null ],
+    [ "i_check", "d8/de9/a09211.html#a6cf23e7ed9198798da03e6ec3526ee97", null ],
+    [ "i_object", "d8/de9/a09211.html#a7bd2407800c461de70b217a4b48f9921", null ],
+    [ "i_phaseMask", "d8/de9/a09211.html#aee39e2b567813e1e7420de07b3fe9b08", null ]
 ];

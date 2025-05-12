@@ -1,5 +1,7 @@
 var a24827 =
 [
-    [ "PrepareSpellScript", "d0/dc0/a24827.html#a2d0e411f3b4a9efed35ee34c7bf03252", null ],
-    [ "Register", "d0/dc0/a24827.html#a560ff22e718e8a975a2e2dc2340da917", null ]
+    [ "HandleApply", "d0/dc0/a24827.html#a75f7fc139cf72aeaa2cc09ba30a8f119", null ],
+    [ "HandlePeriodicTimer", "d0/dc0/a24827.html#ae9f438dd0833b2ad214acef0e558a8be", null ],
+    [ "PrepareAuraScript", "d0/dc0/a24827.html#ac2040d944e47a4f1cc7721ead44aca77", null ],
+    [ "Register", "d0/dc0/a24827.html#abc9eb056267c7effcc7f68a3ad7891da", null ]
 ];

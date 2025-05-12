@@ -1,6 +1,5 @@
 var a12751 =
 [
-    [ "boss_kirtonos_the_heraldAI", "db/dfb/a12755.html", "db/dfb/a12755" ],
-    [ "boss_kirtonos_the_herald", "d0/d7d/a12751.html#a0e81153a0da7910cda4c9b6d32544318", null ],
-    [ "GetAI", "d0/d7d/a12751.html#aa5e0fe2386aae52fd53ff309282db652", null ]
+    [ "boss_ellris_duskhallow", "d0/d7d/a12751.html#a85dc1f923c8211180cc5b250fb509ba7", null ],
+    [ "JustEngagedWith", "d0/d7d/a12751.html#a5bb5bc51b62ad371bf086c6ced2eee89", null ]
 ];

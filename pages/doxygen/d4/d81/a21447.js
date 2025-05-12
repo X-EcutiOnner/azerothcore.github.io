@@ -1,8 +1,6 @@
 var a21447 =
 [
-    [ "HandleEffectRemove", "d4/d81/a21447.html#aa2b05befb775244423264f6b5e2387c1", null ],
-    [ "Load", "d4/d81/a21447.html#a02ea4c29f2c7e15a5039b93d7a0d3c5e", null ],
-    [ "PrepareAuraScript", "d4/d81/a21447.html#a632e81cc39bdcd0f5adcc684231d1171", null ],
-    [ "Register", "d4/d81/a21447.html#aba5483b1d35c1b58841fad2b1086f07c", null ],
-    [ "Validate", "d4/d81/a21447.html#ada90e1f06ced8f4e353fe2bda3d31637", null ]
+    [ "npc_beryl_sorcererAI", "de/d81/a21451.html", "de/d81/a21451" ],
+    [ "npc_beryl_sorcerer", "d4/d81/a21447.html#a4f74ee45ee0730fcfd044418771a9ee1", null ],
+    [ "GetAI", "d4/d81/a21447.html#a963646eed9f121f87efe480312957286", null ]
 ];

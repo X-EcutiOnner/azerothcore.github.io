@@ -1,6 +1,8 @@
 var a16699 =
 [
-    [ "boss_marwynAI", "df/dbd/a16703.html", "df/dbd/a16703" ],
-    [ "boss_marwyn", "d9/d1b/a16699.html#a4be337e1a6b4ab6d48aa1380f3956ad4", null ],
-    [ "GetAI", "d9/d1b/a16699.html#af1c83878d2121163994bc327ae8e04f7", null ]
+    [ "npc_fos_leaderAI", "df/dbd/a16703.html", "df/dbd/a16703" ],
+    [ "npc_fos_leader", "d9/d1b/a16699.html#a4223072bc180e990ff9e01bf772def5b", null ],
+    [ "GetAI", "d9/d1b/a16699.html#a6eca5c95aa3a8498790d8bf52f0741f8", null ],
+    [ "OnGossipHello", "d9/d1b/a16699.html#a3858054505d439902624378b9355f40d", null ],
+    [ "OnGossipSelect", "d9/d1b/a16699.html#a1b743c6f270a2bdbd09940a414a1b437", null ]
 ];

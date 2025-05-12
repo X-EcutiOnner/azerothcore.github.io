@@ -1,6 +1,6 @@
 var a19011 =
 [
-    [ "boss_sapphironAI", "dd/d9f/a19015.html", "dd/d9f/a19015" ],
-    [ "boss_sapphiron", "d7/df1/a19011.html#a87a70204dd727f92d035ad98e2ab9010", null ],
-    [ "GetAI", "d7/df1/a19011.html#a31209287faa721bef341388ae4383b6c", null ]
+    [ "boss_maexxna_webwrapAI", "dd/d9f/a19015.html", "dd/d9f/a19015" ],
+    [ "boss_maexxna_webwrap", "d7/df1/a19011.html#afebd8c00234fe6cdd93af8ae443bb637", null ],
+    [ "GetAI", "d7/df1/a19011.html#a6d86d58a86b831a219ecc598044be4f3", null ]
 ];

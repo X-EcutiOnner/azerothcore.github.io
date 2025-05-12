@@ -1,7 +1,6 @@
 var a13871 =
 [
-    [ "HandleOnHit", "d5/d48/a13871.html#a561799e6241b1fe17cd09f17c447107b", null ],
-    [ "PrepareSpellScript", "d5/d48/a13871.html#ad98ba2831e93bd601b51a5c6a7e8441d", null ],
-    [ "Register", "d5/d48/a13871.html#ad9b601b73631285cb5a79e30dfe4a8cc", null ],
-    [ "Validate", "d5/d48/a13871.html#adb339686c5e9dcb298712455dc8435bf", null ]
+    [ "boss_hakkarAI", "db/de7/a13875.html", "db/de7/a13875" ],
+    [ "boss_hakkar", "d5/d48/a13871.html#a834bd1f223154fbf1be94bf43136da28", null ],
+    [ "GetAI", "d5/d48/a13871.html#aff3a089e30dcddfde4db372104153723", null ]
 ];

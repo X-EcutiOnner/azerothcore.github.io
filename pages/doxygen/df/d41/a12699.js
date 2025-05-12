@@ -1,11 +1,7 @@
 var a12699 =
 [
-    [ "npc_valkyr_battle_maidenAI", "df/d41/a12699.html#a859b63621c500c7a36150fadbb460b2b", null ],
-    [ "Reset", "df/d41/a12699.html#a3ca06a5822f1b5ae625b1dcc71ec0c30", null ],
-    [ "UpdateAI", "df/d41/a12699.html#a33251b8d8abb9b46a5af4cb4e92472b8", null ],
-    [ "FlyBackTimer", "df/d41/a12699.html#a625eb33fb32f935c5109a8d3d70c5ae7", null ],
-    [ "phase", "df/d41/a12699.html#abd5d71272aa575be8583254217194e49", null ],
-    [ "x", "df/d41/a12699.html#a2dbae2865b6c6db4e82b7d1dc8a67739", null ],
-    [ "y", "df/d41/a12699.html#acccea63fedf38de14f7818016830a0a9", null ],
-    [ "z", "df/d41/a12699.html#adde328d26ad752a9e5f2ab32eab2a4e0", null ]
+    [ "HandleDummy", "df/d41/a12699.html#a02b89ff0a3ea53bb2740c7deb51279c2", null ],
+    [ "PrepareSpellScript", "df/d41/a12699.html#a55a794dbaf76a549bd11fbe2a2432609", null ],
+    [ "Register", "df/d41/a12699.html#a17784359e300e9d66c0c22bc5e7b6f6c", null ],
+    [ "Validate", "df/d41/a12699.html#af12eb55064f7f1f1063ec0ce2863bc57", null ]
 ];

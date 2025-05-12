@@ -1,6 +1,6 @@
 var a15703 =
 [
-    [ "boss_anub_arakAI", "d5/d9b/a15707.html", "d5/d9b/a15707" ],
-    [ "boss_anub_arak", "d7/d63/a15703.html#ac2594f561b07069a312ed38c01d9c7da", null ],
-    [ "GetAI", "d7/d63/a15703.html#a8687594354d514b99e026797ee71c70d", null ]
+    [ "HandleApply", "d7/d63/a15703.html#aee4d5908035d06be2f1469a50db02e26", null ],
+    [ "PrepareAuraScript", "d7/d63/a15703.html#ac8349deb2e9c8861194e80132bd72fc5", null ],
+    [ "Register", "d7/d63/a15703.html#ac83962bef84b68cef6d7937769730598", null ]
 ];

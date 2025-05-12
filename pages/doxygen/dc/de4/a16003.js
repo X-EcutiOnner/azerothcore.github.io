@@ -1,6 +1,6 @@
 var a16003 =
 [
-    [ "HandleHealPct", "dc/de4/a16003.html#ad13b3924815ac3da7902c8292a760943", null ],
-    [ "PrepareSpellScript", "dc/de4/a16003.html#aeea718bce7dd5aa4ac33bbd1a95a65c0", null ],
-    [ "Register", "dc/de4/a16003.html#a3016c31c072d6417bbe47c2891059718", null ]
+    [ "npc_orb_carrierAI", "d6/d58/a16007.html", "d6/d58/a16007" ],
+    [ "npc_orb_carrier", "dc/de4/a16003.html#a69fdd8cb2f0cdf7cf6cf0bdabbc0cd03", null ],
+    [ "GetAI", "dc/de4/a16003.html#ab5b7bbffc43b840c686dc889805ea401", null ]
 ];

@@ -1,9 +1,6 @@
 var a18243 =
 [
-    [ "npc_spirit_wardenAI", "db/d31/a18243.html#a3391168478345d8b5c1fee151f6e9f04", null ],
-    [ "JustDied", "db/d31/a18243.html#aa762c0bea6361107312e8231508dc655", null ],
-    [ "Reset", "db/d31/a18243.html#ad6076663f65f43874feb0ecfc57718a4", null ],
-    [ "UpdateAI", "db/d31/a18243.html#af845e3e2c38af5baa84c94f6074c0caf", null ],
-    [ "_events", "db/d31/a18243.html#a1bc5cfdee62efdd622e0fe1aa503c260", null ],
-    [ "_instance", "db/d31/a18243.html#a58ebb8e42e77add79fc888248013eb24", null ]
+    [ "ModDestHeight", "db/d31/a18243.html#aafab48e58a2eb18c286f71fa907e9bc8", null ],
+    [ "PrepareSpellScript", "db/d31/a18243.html#a3c84b7044f448a5596e18f72e7b2f11a", null ],
+    [ "Register", "db/d31/a18243.html#ad3900c969dfb05a61ebc750eb3425bc0", null ]
 ];

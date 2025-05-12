@@ -1,7 +1,8 @@
 var a05267 =
 [
-    [ "MetricStopWatch", "d1/dad/a05267.html#a2007207e0985949f478fdeee300ea0d5", null ],
-    [ "~MetricStopWatch", "d1/dad/a05267.html#a712b660e090531e69455096afeb60c4c", null ],
-    [ "_logger", "d1/dad/a05267.html#a3af6d8a1a621f5e39b2d691ffbe2375c", null ],
-    [ "_startTime", "d1/dad/a05267.html#a74ad62e26a4f6598c76ca5c2d928d3a2", null ]
+    [ "Count", "d1/dad/a05267.html#a4ab8f061208d7733ee65ba768f85f513", null ],
+    [ "GetElements", "d1/dad/a05267.html#af75467b56830b1447bebbf974b2747b6", null ],
+    [ "GetElements", "d1/dad/a05267.html#abbdfddc576af5f2d49dddf5e49ad2864", null ],
+    [ "insert", "d1/dad/a05267.html#a026880bb3378687143ed19fa7b99b41b", null ],
+    [ "i_elements", "d1/dad/a05267.html#a8ef4a180d448dcba2141fc389621433d", null ]
 ];

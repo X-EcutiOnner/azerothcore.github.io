@@ -1,6 +1,5 @@
 var a10271 =
 [
-    [ "GuildUpdateMotdText", "db/d7e/a10271.html#ab3b248450b0dcdde6b51e381e910b15d", null ],
-    [ "Read", "db/d7e/a10271.html#a55cfd6f4797e61ca01ee7aa5c65d9a69", null ],
-    [ "MotdText", "db/d7e/a10271.html#a5b2ee458a919be7f912d49cf984490ac", null ]
+    [ "GenericGameObjectScript", "db/d7e/a10271.html#a7d1d46c8d325619637aef9b9dc5419f7", null ],
+    [ "GetAI", "db/d7e/a10271.html#a7e3ba0f4a88489de522ae714d628c9ab", null ]
 ];

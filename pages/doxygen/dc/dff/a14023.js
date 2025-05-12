@@ -1,7 +1,10 @@
 var a14023 =
 [
-    [ "FilterTargets", "dc/dff/a14023.html#a3498c9eb96bf1a6a85ded114e995850c", null ],
-    [ "HandleDummyEffect", "dc/dff/a14023.html#a3985ca8b79a234e44d9f46ffe6d5b232", null ],
-    [ "PrepareSpellScript", "dc/dff/a14023.html#a03f752d4d4762698e5777a4ae0e395cf", null ],
-    [ "Register", "dc/dff/a14023.html#a9af46e5f2fdb4719d65bb96f2b68a7f8", null ]
+    [ "npc_zealot_lorkhan", "dc/dff/a14023.html#a7df2ab658c1fda0d130815581ffbae4e", null ],
+    [ "JustDied", "dc/dff/a14023.html#abda06af9ccc78763e70ebf98f0a9dc03", null ],
+    [ "JustEngagedWith", "dc/dff/a14023.html#a7cb7da94799fa1689a5f16ef33d4d874", null ],
+    [ "Reset", "dc/dff/a14023.html#abecbd4a2ea2cf3281244933fe7484239", null ],
+    [ "UpdateAI", "dc/dff/a14023.html#a68c35734f8886b2c241dcbc178899206", null ],
+    [ "_scheduler", "dc/dff/a14023.html#a50ded84f7cdb698118b406c9cfab7e5c", null ],
+    [ "instance", "dc/dff/a14023.html#aa677f42d562fa6dc90a4913eed3763c8", null ]
 ];

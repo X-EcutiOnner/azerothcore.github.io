@@ -1,9 +1,11 @@
 var a07139 =
 [
-    [ "BattlegroundEYScore", "d3/db2/a07139.html#a91c17f1ff1924439b05840cd11ede36f", null ],
-    [ "BuildObjectivesBlock", "d3/db2/a07139.html#a8a915f38f28ee3929c7922b9fa8f38d6", null ],
-    [ "GetAttr1", "d3/db2/a07139.html#a43d4b01a1f3c8325795d90f2a97c230c", null ],
-    [ "UpdateScore", "d3/db2/a07139.html#afad034f453c54587b86532a37335ab18", null ],
-    [ "BattlegroundEY", "d3/db2/a07139.html#a5d809f1fdf1bb7a29d7504e432e10b8f", null ],
-    [ "FlagCaptures", "d3/db2/a07139.html#a057a335c7491c1031666e6d10cf314b2", null ]
+    [ "gyid", "d3/db2/a07139.html#a742fcc91d2daf1a9331f02a90496328c", null ],
+    [ "o", "d3/db2/a07139.html#a9c761e77b7194ab1bb80d28f2b1e1f6d", null ],
+    [ "startcontrol", "d3/db2/a07139.html#a8b0aed9e6973ce6efc5d89a0d10a4139", null ],
+    [ "textid", "d3/db2/a07139.html#a87d80377ad632b9d667eecf11ae8faae", null ],
+    [ "type", "d3/db2/a07139.html#ae1a4b69ea4edabe51f1378c6cb066cad", null ],
+    [ "x", "d3/db2/a07139.html#ad69833b4e2a27999dcd13e5ac5bda892", null ],
+    [ "y", "d3/db2/a07139.html#a405e8098772e77250683985f957ce5f3", null ],
+    [ "z", "d3/db2/a07139.html#a844e4c9c9b1a9a22a817025ccda7f08d", null ]
 ];

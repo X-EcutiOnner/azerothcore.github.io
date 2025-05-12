@@ -1,6 +1,6 @@
 var a13963 =
 [
-    [ "boss_wushoolayAI", "da/df6/a13967.html", "da/df6/a13967" ],
-    [ "boss_wushoolay", "d1/d47/a13963.html#a68359ee086bb4e86c3c16c4a03e54893", null ],
-    [ "GetAI", "d1/d47/a13963.html#a70b476358956fd05d6effb75517e2b3d", null ]
+    [ "npc_ohganAI", "da/df6/a13967.html", "da/df6/a13967" ],
+    [ "npc_ohgan", "d1/d47/a13963.html#ae391f2b36c68952ca5eaf773c29cbcad", null ],
+    [ "GetAI", "d1/d47/a13963.html#a129dc2fcd449850403e0dcb99725da90", null ]
 ];

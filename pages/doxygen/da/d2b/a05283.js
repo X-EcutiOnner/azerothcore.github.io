@@ -1,7 +1,8 @@
 var a05283 =
 [
-    [ "Node", "da/d2b/a05283.html#aa4dcacffb32f3e739604ab6ef39b5031", null ],
-    [ "Node", "da/d2b/a05283.html#aa5f116e3d84286f313ee8730bde7b936", null ],
-    [ "Data", "da/d2b/a05283.html#aa7cdbff9817871b548fe639e0956f1f4", null ],
-    [ "Next", "da/d2b/a05283.html#a7508e249dd3ff2b3ac291d67ddf87a71", null ]
+    [ "Decode", "da/d2b/a05283.html#aacf2a55e180aa5ee475ac76c6af4d47a", null ],
+    [ "Encode", "da/d2b/a05283.html#a51c8847dc9b75161f4d2d366324dc50f", null ],
+    [ "BITS_PER_CHAR", "da/d2b/a05283.html#a10f3736ee2ed8e79e1236798e2b1d2be", null ],
+    [ "DECODE_ERROR", "da/d2b/a05283.html#ace6b211be8a36043942f0a1aaee063b1", null ],
+    [ "PADDING", "da/d2b/a05283.html#af099d69cc636a7ad298ec9e38b2f20d2", null ]
 ];

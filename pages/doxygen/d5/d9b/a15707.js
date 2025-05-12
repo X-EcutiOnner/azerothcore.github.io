@@ -1,14 +1,18 @@
 var a15707 =
 [
-    [ "boss_anub_arakAI", "d5/d9b/a15707.html#a9b9dc11d78456efd9c6ad69e0c12e022", null ],
-    [ "EnterEvadeMode", "d5/d9b/a15707.html#a016f17a11be149cbb6cc1343f2916a4f", null ],
-    [ "JustDied", "d5/d9b/a15707.html#abc93931e7698ffd717199a598e16c917", null ],
-    [ "JustEngagedWith", "d5/d9b/a15707.html#a589c252516b738a8f38f9d89da11912c", null ],
-    [ "JustSummoned", "d5/d9b/a15707.html#a8624e9dc8af370579bd7ef72063acbf8", null ],
-    [ "KilledUnit", "d5/d9b/a15707.html#a33e26ae3907e84ecc02514e4133e3002", null ],
-    [ "MoveInLineOfSight", "d5/d9b/a15707.html#ab89570d2d0ddb494fa20f24d95cac41b", null ],
-    [ "Reset", "d5/d9b/a15707.html#a254a51a901c0e82da6cb87ade5eba6fa", null ],
-    [ "SummonHelpers", "d5/d9b/a15707.html#a709ef4602ace41c9b9ccebe8795badec", null ],
-    [ "UpdateAI", "d5/d9b/a15707.html#acf3ddec273ded62c768631be2b3299fa", null ],
-    [ "intro", "d5/d9b/a15707.html#a4916d6a1ed06330e94698a13c404ee52", null ]
+    [ "boss_elder_nadox", "d5/d9b/a15707.html#a718d8fffde11b1df5a44650096c474cc", null ],
+    [ "DamageTaken", "d5/d9b/a15707.html#a34dd3a07faeee096b1c8574f63353893", null ],
+    [ "GetData", "d5/d9b/a15707.html#ad2f80bcefb6c43370546d867fd4fc951", null ],
+    [ "JustDied", "d5/d9b/a15707.html#a1342dbd6de10197c6ba4bc8e43cceace", null ],
+    [ "JustEngagedWith", "d5/d9b/a15707.html#a659f83714070b7358b43d1c7eb46ac1c", null ],
+    [ "KilledUnit", "d5/d9b/a15707.html#a78310e83e518b64c1373b60a946f9748", null ],
+    [ "Reset", "d5/d9b/a15707.html#ab5e492f39552b64c0333b6fbce89c1ae", null ],
+    [ "SummonedCreatureDies", "d5/d9b/a15707.html#a77d9861b2e2de593d0b44c2fd9449f17", null ],
+    [ "SummonHelpers", "d5/d9b/a15707.html#ae65044c111e514a3050ea14f1155a7dc", null ],
+    [ "UpdateAI", "d5/d9b/a15707.html#abbb783581208c76fa371f01efd481b66", null ],
+    [ "guardianEggs", "d5/d9b/a15707.html#aae96b622766ab4478a8510bd1c7a9f1f", null ],
+    [ "guardianSummoned", "d5/d9b/a15707.html#a5543be0c08bf1d432b36bfdb2d532f0d", null ],
+    [ "previousSwarmEgg_GUID", "d5/d9b/a15707.html#add5ff92f92b8d01caef0b12a98569535", null ],
+    [ "respectYourElders", "d5/d9b/a15707.html#aac97ef9511e64692a152077b43e83e75", null ],
+    [ "swarmEggs", "d5/d9b/a15707.html#a28c8b6826ed86e30b573883cab83168f", null ]
 ];

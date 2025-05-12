@@ -1,8 +1,5 @@
 var a14223 =
 [
-    [ "npc_hallows_end_train_fire", "de/d7a/a14223.html#a0aacc53a7410590e8d1f05aa8d3e37ba", null ],
-    [ "Reset", "de/d7a/a14223.html#afdda52e0adce23f56fa9d1357469a17d", null ],
-    [ "SpellHit", "de/d7a/a14223.html#a5767b2a5a2ca1813812cf078b0dd1189", null ],
-    [ "UpdateAI", "de/d7a/a14223.html#a686a565e1743c31166d8d57f67a0adce", null ],
-    [ "timer", "de/d7a/a14223.html#a7fa7d23a587ab632d1b9a2b803f83cd4", null ]
+    [ "npc_grizzlemaw_cw_triggerAI", "de/d7a/a14223.html#a40207493c75d8a63284e08f1f75d56c4", null ],
+    [ "MoveInLineOfSight", "de/d7a/a14223.html#aef49ccdae1aff20fc469f0aa2663d8af", null ]
 ];

@@ -1,6 +1,6 @@
 var a11847 =
 [
-    [ "npc_vaelastrasz_the_redAI", "d3/d98/a11851.html", "d3/d98/a11851" ],
-    [ "npc_vaelastrasz_the_red", "dc/d83/a11847.html#af39fcaa29b200e3b7933f97de277df6b", null ],
-    [ "GetAI", "dc/d83/a11847.html#a59e7630d5060986dc4209d2d2b5ef42b", null ]
+    [ "boss_draganthaurissanAI", "d3/d98/a11851.html", "d3/d98/a11851" ],
+    [ "boss_emperor_dagran_thaurissan", "dc/d83/a11847.html#a8332d74b5aa1528d5687084932419ad1", null ],
+    [ "GetAI", "dc/d83/a11847.html#aca2c4ca4e32ce75d95b42ddd88c4dc99", null ]
 ];

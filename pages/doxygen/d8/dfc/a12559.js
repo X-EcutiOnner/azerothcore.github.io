@@ -1,11 +1,18 @@
 var a12559 =
 [
-    [ "npc_scarlet_ghoulAI", "d8/dfc/a12559.html#a194795143717de5aa8f0ca4c4e516136", null ],
-    [ "InitializeAI", "d8/dfc/a12559.html#ad0fd204d15350332508b0c9d9decefb1", null ],
-    [ "MovementInform", "d8/dfc/a12559.html#a9836c91a7dede1fabd1e0a9523ebd26a", null ],
-    [ "OwnerAttackedBy", "d8/dfc/a12559.html#a5b0afc1f2ee57a1cc5e30b8e997ba218", null ],
-    [ "SetGUID", "d8/dfc/a12559.html#a832602498643a03087efbc0a5a2f81c3", null ],
-    [ "UpdateAI", "d8/dfc/a12559.html#adbe4d539552e7954c7bdb8e520cb9783", null ],
-    [ "events", "d8/dfc/a12559.html#a105ac0982d28be590d514d2e452109c0", null ],
-    [ "gothikGUID", "d8/dfc/a12559.html#ab5efaf2e030f92d7ab45de8b5d19804d", null ]
+    [ "boss_moroes", "d8/dfc/a12559.html#ae477dcfd679dd7943ddd133bb0dd89df", null ],
+    [ "CheckGuestsInRoom", "d8/dfc/a12559.html#ad34daa424532003e8da616aed3df6c82", null ],
+    [ "GetRandomGuest", "d8/dfc/a12559.html#a73f4b3c1a3a46261cf62143f8359b55e", null ],
+    [ "InitializeAI", "d8/dfc/a12559.html#a1bba38840a7e6f09720ce33c51802a77", null ],
+    [ "InitializeGuests", "d8/dfc/a12559.html#a815ca169e0787c92c09a5803007355aa", null ],
+    [ "JustDied", "d8/dfc/a12559.html#a7d425d58b1e64ef174ff92e1263de544", null ],
+    [ "JustEngagedWith", "d8/dfc/a12559.html#aa0bf31d8298b4ec6ce205cefd0766194", null ],
+    [ "JustReachedHome", "d8/dfc/a12559.html#ad67598edc4034dd87ba5260d5f19fd3d", null ],
+    [ "KilledUnit", "d8/dfc/a12559.html#a3d28056a0d26d426d84363fb0c4f7e4d", null ],
+    [ "Reset", "d8/dfc/a12559.html#a677f2b8375981d904183dd804f4b32b8", null ],
+    [ "UpdateAI", "d8/dfc/a12559.html#aa639032a49b3e9bd4209d17e0863db32", null ],
+    [ "_activeGuests", "d8/dfc/a12559.html#a651f53f476f205785d596ed9d52fdb89", null ],
+    [ "_events2", "d8/dfc/a12559.html#ae1c0474e0a940a803d82d3fe6d3ff37f", null ],
+    [ "_recentlySpoken", "d8/dfc/a12559.html#a6408ec64b2777dbcd322cb64af3f8c17", null ],
+    [ "_vanished", "d8/dfc/a12559.html#a60d99b80815a2b2626638d6410ce64a2", null ]
 ];

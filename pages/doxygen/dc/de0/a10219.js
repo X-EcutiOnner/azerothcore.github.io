@@ -1,7 +1,6 @@
 var a10219 =
 [
-    [ "ChatServerMessage", "dc/de0/a10219.html#aa649857ceeba6b2f9e060f7d502cdb7a", null ],
-    [ "Write", "dc/de0/a10219.html#af8bad4d39693290674bda2e2ad8685bf", null ],
-    [ "MessageID", "dc/de0/a10219.html#afde854fc17313d214fa0f0cdc48ca9a9", null ],
-    [ "StringParam", "dc/de0/a10219.html#ac39a08d84c8f5934d0fe26e91809e60a", null ]
+    [ "BattlegroundMapScript", "dc/de0/a10219.html#a61e1c0f145064cbc6c8708824a359e4c", null ],
+    [ "checkValidity", "dc/de0/a10219.html#a90584770132eb71cffc6e25a674750ad", null ],
+    [ "isAfterLoadScript", "dc/de0/a10219.html#a0148a79556f82c990fe0fc494d03c7ab", null ]
 ];

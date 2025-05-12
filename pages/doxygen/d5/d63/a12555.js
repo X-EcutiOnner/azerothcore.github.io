@@ -1,6 +1,8 @@
 var a12555 =
 [
-    [ "npc_scarlet_ghoulAI", "d8/dfc/a12559.html", "d8/dfc/a12559" ],
-    [ "npc_scarlet_ghoul", "d5/d63/a12555.html#aa58b0d1c3fb411cac184bc1fc50f4fb3", null ],
-    [ "GetAI", "d5/d63/a12555.html#a88d2639b1a4f087d3e1b95475a094d21", null ]
+    [ "HandleEffectRemove", "d5/d63/a12555.html#a5e5a218cb491b830ec8d50609a3d54ae", null ],
+    [ "if", "d5/d63/a12555.html#a8596fc98402bf952484c9567f61c7820", null ],
+    [ "PrepareAuraScript", "d5/d63/a12555.html#a4055f781a914de631187b00ba7aefeef", null ],
+    [ "Register", "d5/d63/a12555.html#aefb4bbae43558abde871548088784613", null ],
+    [ "AuraEffectHandleModes", "d5/d63/a12555.html#a7d419ba41e68b70740a867a2265824bd", null ]
 ];

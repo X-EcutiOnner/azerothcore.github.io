@@ -1,6 +1,17 @@
 var a11631 =
 [
-    [ "boss_high_priestess_thaurissanAI", "d2/d00/a11631.html#acbc89b59865a5fda5a4143dd8c690b37", null ],
-    [ "JustEngagedWith", "d2/d00/a11631.html#a6602682950aab4e9932bf6cdfac9886b", null ],
-    [ "UpdateAI", "d2/d00/a11631.html#a216a5bc7a38aa5e13f9d025f44e04779", null ]
+    [ "learn_commandscript", "d2/d00/a11631.html#a7ef51367ab7ab1c360390ff5552c0f51", null ],
+    [ "GetCommands", "d2/d00/a11631.html#a8c8f73f3c1d5dbddd5a3d2e89ea326d8", null ],
+    [ "HandleLearnAllCraftsCommand", "d2/d00/a11631.html#ae25064fa03d022277a368f52a17e5b70", null ],
+    [ "HandleLearnAllDefaultCommand", "d2/d00/a11631.html#a985d2a10f01808c4bff2922b1530e911", null ],
+    [ "HandleLearnAllGMCommand", "d2/d00/a11631.html#a88e28ec43968c5a8b0bfd1f190d89a98", null ],
+    [ "HandleLearnAllLangCommand", "d2/d00/a11631.html#aaf4d779b47511db72727fe44fb1bbd2d", null ],
+    [ "HandleLearnAllMyClassCommand", "d2/d00/a11631.html#a956716b7743dfc6de922b0badf40aeda", null ],
+    [ "HandleLearnAllMyPetTalentsCommand", "d2/d00/a11631.html#a2a7cc02eb4417907b50d49bab39110cf", null ],
+    [ "HandleLearnAllMySpellsCommand", "d2/d00/a11631.html#af95e27d3bfb3cd421a0fd13f9f655755", null ],
+    [ "HandleLearnAllMyTalentsCommand", "d2/d00/a11631.html#aaa19e92798ac56355a95e625ead56556", null ],
+    [ "HandleLearnAllRecipesCommand", "d2/d00/a11631.html#a44b538a1031ad69bec762f1a791cf11f", null ],
+    [ "HandleLearnCommand", "d2/d00/a11631.html#ab59da6873596596ee84509cb0060e760", null ],
+    [ "HandleLearnSkillRecipesHelper", "d2/d00/a11631.html#ae8bd0389415fdeb70d369b694b953619", null ],
+    [ "HandleUnLearnCommand", "d2/d00/a11631.html#a2dc980af9662b3b1c783e3603732ca01", null ]
 ];

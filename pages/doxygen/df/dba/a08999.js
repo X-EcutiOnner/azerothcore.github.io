@@ -1,8 +1,6 @@
 var a08999 =
 [
-    [ "AnyUnfriendlyNoTotemUnitInObjectRangeCheck", "df/dba/a08999.html#ac4378cfa8fedb3453c0e810d497cb99c", null ],
-    [ "operator()", "df/dba/a08999.html#ad9e3486316cf297ba79a588c60b4ce15", null ],
-    [ "i_funit", "df/dba/a08999.html#ace766830b26d8aae3ec673d2102a9969", null ],
-    [ "i_obj", "df/dba/a08999.html#ae12f4176e49438cfa248345cfe7c9947", null ],
-    [ "i_range", "df/dba/a08999.html#a8335ef8fd7376e7c920dfbca2318d646", null ]
+    [ "lang_id", "df/dba/a08999.html#a1fa900a467834103ac595a8a96dd28c0", null ],
+    [ "skill_id", "df/dba/a08999.html#a37ffc91876a998fe354ca1b7dffc512a", null ],
+    [ "spell_id", "df/dba/a08999.html#ac0acb5dfb8af32b382b3b51db4daa0f0", null ]
 ];

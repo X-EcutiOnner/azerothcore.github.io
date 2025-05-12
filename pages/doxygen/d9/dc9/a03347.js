@@ -1,9 +1,12 @@
 var a03347 =
 [
-    [ "GetCheckPacketBaseSize", "d9/dc9/a03347.html#aa48d9759919f0fb8415c0fd0731a23b1", null ],
-    [ "GetCheckPacketSize", "d9/dc9/a03347.html#adfb39c1ce4f6159c2c70e3cdf26978c9", null ],
-    [ "GetMaxWardenChecksForType", "d9/dc9/a03347.html#a1bcaaac66e1101e325fd62778b2f0c8d", null ],
-    [ "_luaEvalMidfix", "d9/dc9/a03347.html#a5506a4e4233b2c380f79ad1225c4dc93", null ],
-    [ "_luaEvalPostfix", "d9/dc9/a03347.html#ad14853510c2482e64bd81633e5074206", null ],
-    [ "_luaEvalPrefix", "d9/dc9/a03347.html#a259abc7d98e16cefc14404b5886cbc09", null ]
+    [ "ArenaTeamScript", "d7/d0f/a10211.html", "d7/d0f/a10211" ],
+    [ "ArenaTeamHook", "d9/dc9/a03347.html#adfb7077026efd17516d6b85637c2b218", [
+      [ "ARENATEAMHOOK_ON_GET_SLOT_BY_TYPE", "d9/dc9/a03347.html#adfb7077026efd17516d6b85637c2b218a138fd48dae9a6b0db50dd8a442045adc", null ],
+      [ "ARENATEAMHOOK_ON_GET_ARENA_POINTS", "d9/dc9/a03347.html#adfb7077026efd17516d6b85637c2b218a3b21f54389f578130e4874fd75c7e6a9", null ],
+      [ "ARENATEAMHOOK_ON_TYPEID_TO_QUEUEID", "d9/dc9/a03347.html#adfb7077026efd17516d6b85637c2b218ae5c1d8d5548693d43fdd43339ef152a7", null ],
+      [ "ARENATEAMHOOK_ON_QUEUEID_TO_ARENA_TYPE", "d9/dc9/a03347.html#adfb7077026efd17516d6b85637c2b218a957830b5a4fb9d7a53b977999068031b", null ],
+      [ "ARENATEAMHOOK_ON_SET_ARENA_MAX_PLAYERS_PER_TEAM", "d9/dc9/a03347.html#adfb7077026efd17516d6b85637c2b218aaf39f25b1610466743d5d839986bf6b6", null ],
+      [ "ARENATEAMHOOK_END", "d9/dc9/a03347.html#adfb7077026efd17516d6b85637c2b218a5fe29b394fe4fe74fffe7988b90ccaf7", null ]
+    ] ]
 ];

@@ -1,7 +1,6 @@
 var a11895 =
 [
-    [ "HandleScript", "de/d67/a11895.html#ac6ef94a03f602b44a5c7c22b7e41d116", null ],
-    [ "PrepareSpellScript", "de/d67/a11895.html#ad92a56c23b9f15e36766fe64d1d0dd17", null ],
-    [ "Register", "de/d67/a11895.html#aa8ad85cbf0403d79e55bbe0ae184407b", null ],
-    [ "Validate", "de/d67/a11895.html#a3ad038e7bf43dceedb0fceebd4070bfa", null ]
+    [ "boss_high_interrogator_gerstahnAI", "db/d10/a11899.html", "db/d10/a11899" ],
+    [ "boss_high_interrogator_gerstahn", "de/d67/a11895.html#a700eb542c041e9ca540f2676fc42aff9", null ],
+    [ "GetAI", "de/d67/a11895.html#ab4e92847a1ce6bf50f0ae460c1a7108f", null ]
 ];

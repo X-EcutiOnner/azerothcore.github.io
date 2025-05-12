@@ -1,10 +1,9 @@
 var a22055 =
 [
-    [ "npc_infra_green_bomber_genericAI", "db/dfe/a22055.html#aed712ea3625971e059e2ecd158227287", null ],
-    [ "DamageTaken", "db/dfe/a22055.html#a8f860368df96e430b441c8316db99c93", null ],
-    [ "GetSummoner", "db/dfe/a22055.html#aaf7b91ce2bbf65c3f6c4bd41f04682bc", null ],
-    [ "IsSummonedBy", "db/dfe/a22055.html#a79676717b7c6219ea74ebe5a580eab28", null ],
-    [ "SpreadFire", "db/dfe/a22055.html#a5727c839b7dd02ea64eccce3606688d1", null ],
-    [ "UpdateAI", "db/dfe/a22055.html#a252875777655e963965676a24c15e766", null ],
-    [ "events", "db/dfe/a22055.html#ae8795439197b9cbfb70bbf5a672b8019", null ]
+    [ "npc_frostbrood_skytalonAI", "db/dfe/a22055.html#afc14c60466f9f0f1b20062758f18c00d", null ],
+    [ "IsSummonedBy", "db/dfe/a22055.html#a2c5729ee3371e562869878ff3a7b84bd", null ],
+    [ "MovementInform", "db/dfe/a22055.html#ae763333503176eb7e8ce407868243958", null ],
+    [ "SpellHit", "db/dfe/a22055.html#a24bb49f47dcf85c95039d0495a89e126", null ],
+    [ "UpdateAI", "db/dfe/a22055.html#a0ffc4cd2e9b61ad17c516f062d161feb", null ],
+    [ "events", "db/dfe/a22055.html#a8575d258d63e28626cffd7fc2160bee6", null ]
 ];

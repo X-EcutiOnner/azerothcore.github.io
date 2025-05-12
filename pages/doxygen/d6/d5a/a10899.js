@@ -1,13 +1,7 @@
 var a10899 =
 [
-    [ "PetAuraMap", "d6/d5a/a10899.html#a6c020340ff467b5f2d00c3b5f9fee817", null ],
-    [ "PetAura", "d6/d5a/a10899.html#a8cd7e3284837b30a8a3c6739ab5cb9b3", null ],
-    [ "PetAura", "d6/d5a/a10899.html#a79a2f086e2d8dbe1af47716b53df0524", null ],
-    [ "AddAura", "d6/d5a/a10899.html#ae33bb99ab341f66fb2f296ccd6617e63", null ],
-    [ "GetAura", "d6/d5a/a10899.html#a6f8318410229a89e0b3aa2af28d6cb2b", null ],
-    [ "GetDamage", "d6/d5a/a10899.html#a38087712cef92ad55dc84f96e2b9e300", null ],
-    [ "IsRemovedOnChangePet", "d6/d5a/a10899.html#adc1b329e1f303b5ad3f353abb4343cdf", null ],
-    [ "auras", "d6/d5a/a10899.html#abacd738dfb04687810b981297b1a1567", null ],
-    [ "damage", "d6/d5a/a10899.html#a216021a7ad893ae6ca65ea068dd6eedb", null ],
-    [ "removeOnChangePet", "d6/d5a/a10899.html#aa5b3219cd2021341ce0910dce81d8b56", null ]
+    [ "OpcodeHandler", "df/d9b/a04755.html#gad7dc8101b537abe699b18ae8de444a81", null ],
+    [ "~OpcodeHandler", "df/d9b/a04755.html#ga5400057a3d849035aedda259828a5af5", null ],
+    [ "Name", "df/d9b/a04755.html#ga0f1d1acde7c65e2b5c29357b232a7061", null ],
+    [ "Status", "df/d9b/a04755.html#gace7959058ad5b5e617c7b043f5c63b7c", null ]
 ];

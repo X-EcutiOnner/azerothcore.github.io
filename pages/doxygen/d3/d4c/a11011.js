@@ -1,6 +1,8 @@
 var a11011 =
 [
-    [ "EffectCalcPeriodicHandler", "d3/d4c/a11011.html#a17288ee3b2951f1f2a8dc36a598b9a27", null ],
-    [ "Call", "d3/d4c/a11011.html#a6a7eeb9599a10aa4ab918a2c2456a186", null ],
-    [ "pEffectHandlerScript", "d3/d4c/a11011.html#a57673f457c08edfbf7fc1877aa071721", null ]
+    [ "SkillDiscoveryEntry", "d3/d4c/a11011.html#a54c0f12153c6e63a37e5da44d233b271", null ],
+    [ "SkillDiscoveryEntry", "d3/d4c/a11011.html#a301cae078fe1943cae045e94dc3d38ad", null ],
+    [ "chance", "d3/d4c/a11011.html#a71cf2c48937e5a2a3c6dd8c499a860a7", null ],
+    [ "reqSkillValue", "d3/d4c/a11011.html#a61e0edc8fee1fa4045d846668d08449c", null ],
+    [ "spellId", "d3/d4c/a11011.html#a75ca40729917317173b2953c8f47f833", null ]
 ];

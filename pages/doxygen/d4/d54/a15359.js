@@ -1,10 +1,7 @@
 var a15359 =
 [
-    [ "npc_thrall_warchiefAI", "d4/d54/a15359.html#ada9c79c1591a8bd28c66329dc7c5d3dc", null ],
-    [ "DoAction", "d4/d54/a15359.html#a511da19703e30f6e82e59c5223bf2770", null ],
-    [ "JustEngagedWith", "d4/d54/a15359.html#a994a9030e2d8c5afaa66c21897e54f82", null ],
-    [ "Reset", "d4/d54/a15359.html#a920a29258228c9c2e7e0791d38b648e1", null ],
-    [ "UpdateAI", "d4/d54/a15359.html#a537ed9f2d0a638d01e877d9ca1e7fdf0", null ],
-    [ "ChainLightningTimer", "d4/d54/a15359.html#ab30df9277fc84f098e0bdd70a2ab3795", null ],
-    [ "ShockTimer", "d4/d54/a15359.html#aa8609f8824f68ce7259465284c01dd35", null ]
+    [ "HandleDummy", "d4/d54/a15359.html#a38dafff805471b19ca3cca4ff5273a87", null ],
+    [ "PrepareSpellScript", "d4/d54/a15359.html#a40db5a46491aa22b5347f99b0251f1b8", null ],
+    [ "Register", "d4/d54/a15359.html#a2f297ab67d5e2e990658706f7c508bd4", null ],
+    [ "Validate", "d4/d54/a15359.html#abb7946f53e6271ae69d34caacef61f47", null ]
 ];

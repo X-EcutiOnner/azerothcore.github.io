@@ -1,12 +1,9 @@
 var a28599 =
 [
-    [ "Model", "d6/d93/a28599.html#ae102b5fc584185113e89fb7b39a72bd1", null ],
-    [ "~Model", "d6/d93/a28599.html#ad6ebd2062a0b823db841a0b88baac4c0", null ],
-    [ "_unload", "d6/d93/a28599.html#a9b02ed73fa006bc057157b636029ab6f", null ],
-    [ "ConvertToVMAPModel", "d6/d93/a28599.html#ae6fd5d754d9a880359b8afaf50c5753e", null ],
-    [ "open", "d6/d93/a28599.html#a6ed3a71ff468f5acaccc61f5c2c87a0e", null ],
-    [ "filename", "d6/d93/a28599.html#a4c43746e9c460e29cabd1ba2db6ba222", null ],
-    [ "header", "d6/d93/a28599.html#a2f6e66bbf4acc662d73e8fe8e5a0e085", null ],
-    [ "indices", "d6/d93/a28599.html#a3b61d3316481e7b9c38bf50806ebded6", null ],
-    [ "vertices", "d6/d93/a28599.html#a1af9857df4d0e16ab9940846300fa8fe", null ]
+    [ "WDT_file", "d6/d93/a28599.html#afa32849d31abde3cb2c9f3b558816368", null ],
+    [ "~WDT_file", "d6/d93/a28599.html#a29bf710b8346204eb848017450afebe1", null ],
+    [ "free", "d6/d93/a28599.html#aee6c7e1e402cf986e754753c5e8aee72", null ],
+    [ "prepareLoadedData", "d6/d93/a28599.html#add675f96f010e67ca1df01b029c9ebfb", null ],
+    [ "main", "d6/d93/a28599.html#a89ddf5d1527ac16a5d05790769d266b3", null ],
+    [ "mphd", "d6/d93/a28599.html#a1d216a266e5e6390e9bd2e02c9d3c7f2", null ]
 ];

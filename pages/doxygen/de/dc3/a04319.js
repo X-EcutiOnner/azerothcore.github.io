@@ -1,25 +1,17 @@
 var a04319 =
 [
-    [ "MiscScript", "dc/d4c/a10308.html", "dc/d4c/a10308" ],
-    [ "MiscHook", "de/dc3/a04319.html#af37f873b1735a7e1f78da6f2f334c134", [
-      [ "MISCHOOK_ON_CONSTRUCT_OBJECT", "de/dc3/a04319.html#af37f873b1735a7e1f78da6f2f334c134aced03c29bfe1b673cd653f80f983c9fb", null ],
-      [ "MISCHOOK_ON_DESTRUCT_OBJECT", "de/dc3/a04319.html#af37f873b1735a7e1f78da6f2f334c134a9733f4054c726297206f0d94936b198f", null ],
-      [ "MISCHOOK_ON_CONSTRUCT_PLAYER", "de/dc3/a04319.html#af37f873b1735a7e1f78da6f2f334c134ab44e63644ffca18d22fd8f100d741439", null ],
-      [ "MISCHOOK_ON_DESTRUCT_PLAYER", "de/dc3/a04319.html#af37f873b1735a7e1f78da6f2f334c134a5cc41f8f78b3b4e4d2339ef9081298bf", null ],
-      [ "MISCHOOK_ON_CONSTRUCT_GROUP", "de/dc3/a04319.html#af37f873b1735a7e1f78da6f2f334c134a1ca06f199a58422ef7353799ca54ae72", null ],
-      [ "MISCHOOK_ON_DESTRUCT_GROUP", "de/dc3/a04319.html#af37f873b1735a7e1f78da6f2f334c134a3ce8336f58fbbc6e7eb236bbaea4e6da", null ],
-      [ "MISCHOOK_ON_CONSTRUCT_INSTANCE_SAVE", "de/dc3/a04319.html#af37f873b1735a7e1f78da6f2f334c134a56a3d6798447586097a2539a15cb4aa2", null ],
-      [ "MISCHOOK_ON_DESTRUCT_INSTANCE_SAVE", "de/dc3/a04319.html#af37f873b1735a7e1f78da6f2f334c134ace5f04f0c222b965d512026b695922c5", null ],
-      [ "MISCHOOK_ON_ITEM_CREATE", "de/dc3/a04319.html#af37f873b1735a7e1f78da6f2f334c134aadbe4a9d67dbca7b90292899c0ae8d4c", null ],
-      [ "MISCHOOK_CAN_APPLY_SOULBOUND_FLAG", "de/dc3/a04319.html#af37f873b1735a7e1f78da6f2f334c134a5d3215bd4e18f89cb0a717a84829e17f", null ],
-      [ "MISCHOOK_CAN_ITEM_APPLY_EQUIP_SPELL", "de/dc3/a04319.html#af37f873b1735a7e1f78da6f2f334c134ae9bacf4ccf18f7e88d8aa9f83bdebded", null ],
-      [ "MISCHOOK_CAN_SEND_AUCTIONHELLO", "de/dc3/a04319.html#af37f873b1735a7e1f78da6f2f334c134a584163956c233073e85f343585092a27", null ],
-      [ "MISCHOOK_VALIDATE_SPELL_AT_CAST_SPELL", "de/dc3/a04319.html#af37f873b1735a7e1f78da6f2f334c134ad8dcf71de9c5c4a16743e80d66ac70c0", null ],
-      [ "MISCHOOK_VALIDATE_SPELL_AT_CAST_SPELL_RESULT", "de/dc3/a04319.html#af37f873b1735a7e1f78da6f2f334c134a0de17e7f67dd7280da04e7a2fc502433", null ],
-      [ "MISCHOOK_ON_AFTER_LOOT_TEMPLATE_PROCESS", "de/dc3/a04319.html#af37f873b1735a7e1f78da6f2f334c134ad88e01abe00726c718edd6c7903ec8ea", null ],
-      [ "MISCHOOK_ON_PLAYER_SET_PHASE", "de/dc3/a04319.html#af37f873b1735a7e1f78da6f2f334c134a26ed92ee73e91e93437535e17f9d1616", null ],
-      [ "MISCHOOK_ON_INSTANCE_SAVE", "de/dc3/a04319.html#af37f873b1735a7e1f78da6f2f334c134a29a966b43bc8252d88a8ecdeb4c9928f", null ],
-      [ "MISCHOOK_GET_DIALOG_STATUS", "de/dc3/a04319.html#af37f873b1735a7e1f78da6f2f334c134a9c2cb4ea6da418aff3e4f1cad36a6490", null ],
-      [ "MISCHOOK_END", "de/dc3/a04319.html#af37f873b1735a7e1f78da6f2f334c134ae8c3fca40135e387a84d7156f26a16c9", null ]
-    ] ]
+    [ "apply", "de/dc3/a04319.html#a6177d7ac84a4ea6819c57a124345540e", null ],
+    [ "convert", "de/dc3/a04319.html#a5628479f846d755da3ff53b0e2a66c26", null ],
+    [ "convert< 0 >", "de/dc3/a04319.html#aa8017307aa0aa935f062b4f701563d09", null ],
+    [ "convert< 1 >", "de/dc3/a04319.html#a3717e304a2b8b074fcd513ca8e0db116", null ],
+    [ "EndianConvert", "de/dc3/a04319.html#a49a7404e8b8e7030c609822047db18e8", null ],
+    [ "EndianConvert", "de/dc3/a04319.html#a9d20b1e463a04f0a22d79ca802902be6", null ],
+    [ "EndianConvert", "de/dc3/a04319.html#af2e19073fdc053bb0299b663fa1ee757", null ],
+    [ "EndianConvert", "de/dc3/a04319.html#a7a138a6c8a71f6e9bd8eb436a598f628", null ],
+    [ "EndianConvertPtr", "de/dc3/a04319.html#a73b1f88261dfd018f7f185b0ea941c88", null ],
+    [ "EndianConvertPtrReverse", "de/dc3/a04319.html#a8b9f1be37ef60cffbb862512d9374dd4", null ],
+    [ "EndianConvertReverse", "de/dc3/a04319.html#acdb2b3cf0ea55e72e1d4047380cbd260", null ],
+    [ "EndianConvertReverse", "de/dc3/a04319.html#a71946d011105dec5ad60c6875066ed86", null ],
+    [ "EndianConvertReverse", "de/dc3/a04319.html#a1fa1c447bec92bbf436d429b422cc2e7", null ],
+    [ "EndianConvertReverse", "de/dc3/a04319.html#a2adbd00f9fd7adfc4bd3d26ae1565a0b", null ]
 ];

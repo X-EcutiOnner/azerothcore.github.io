@@ -1,6 +1,7 @@
 var a12143 =
 [
-    [ "boss_shazzrahAI", "df/dc8/a12147.html", "df/dc8/a12147" ],
-    [ "boss_shazzrah", "d7/dce/a12143.html#a99a162d6eac5c9046a27f53ec05af7e4", null ],
-    [ "GetAI", "d7/dce/a12143.html#a8135f6ab246dbce4c2ebebe0e7f137d5", null ]
+    [ "boss_broodlordAI", "d7/dce/a12143.html#aa7a5b16b22633439e5d20f9d47a91041", null ],
+    [ "JustDied", "d7/dce/a12143.html#ab0c4dfdd5abc8edcf039d5207e8a63e8", null ],
+    [ "JustEngagedWith", "d7/dce/a12143.html#ae6e26d9cd6e22426caf6ce031551f8a8", null ],
+    [ "UpdateAI", "d7/dce/a12143.html#aea6fbbe31c96e94c2116733c3c66b59b", null ]
 ];

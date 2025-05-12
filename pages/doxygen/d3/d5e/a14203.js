@@ -1,8 +1,12 @@
 var a14203 =
 [
-    [ "HandleDummy", "d3/d5e/a14203.html#a47b5a6741f2782359449dcaebd40fe1c", null ],
-    [ "Load", "d3/d5e/a14203.html#a7877187ad7afb2dfbd28fb7c74d40478", null ],
-    [ "PrepareSpellScript", "d3/d5e/a14203.html#af1d1ad32d41d79008d650b388353346b", null ],
-    [ "Register", "d3/d5e/a14203.html#a53a7c4c025324b205a29f92dd48aefde", null ],
-    [ "handled", "d3/d5e/a14203.html#acf3a9296a36f131f852afbf60beb7ea4", null ]
+    [ "npc_alexstraza_the_lifebinder", "d3/d5e/a14203.html#a7c30258540803bde75843cb070b6a288", null ],
+    [ "MoveInLineOfSight", "d3/d5e/a14203.html#af5960eb1cf63fb0b5b8dc2bfd86b8e47", null ],
+    [ "Reset", "d3/d5e/a14203.html#a8144ed8ada8cd4fb11d74393ed0c525a", null ],
+    [ "SetData", "d3/d5e/a14203.html#aead5ae4ffda9732829e39b8c485a3c3e", null ],
+    [ "UpdateAI", "d3/d5e/a14203.html#ad13b21d571833210b1c069b7ea8bea05", null ],
+    [ "orphanGUID", "d3/d5e/a14203.html#a7c2901f01e4fcafaea9c00ff58dbeaf3", null ],
+    [ "phase", "d3/d5e/a14203.html#a98216e43888854ac93f22169a0e253e5", null ],
+    [ "playerGUID", "d3/d5e/a14203.html#a063fc935bc8f46f5487e9c338e497ec4", null ],
+    [ "timer", "d3/d5e/a14203.html#a41791aaa24102383fe4d3f43c714c3bb", null ]
 ];

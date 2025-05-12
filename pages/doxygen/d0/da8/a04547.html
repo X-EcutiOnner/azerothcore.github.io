@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/apps/worldserver/ACSoap/ACSoap.h File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/common/Collision/DynamicTree.cpp File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,127 +106,73 @@ $(document).ready(function(){initNavTree('d0/da8/a04547.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
-<a href="#func-members">Functions</a>  </div>
-  <div class="headertitle"><div class="title">ACSoap.h File Reference</div></div>
+<a href="#namespaces">Namespaces</a> &#124;
+<a href="#typedef-members">Typedefs</a> &#124;
+<a href="#var-members">Variables</a>  </div>
+  <div class="headertitle"><div class="title">DynamicTree.cpp File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">Define.h</a>&quot;</code><br />
-<code>#include &lt;future&gt;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">DynamicTree.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">BoundingIntervalHierarchyWrapper.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">GameObjectModel.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">MapTree.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">ModelIgnoreFlags.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">ModelInstance.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">RegularGrid.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Timer.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">VMapFactory.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">VMapMgr2.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">WorldModel.h</a>&quot;</code><br />
+<code>#include &lt;G3D/AABox.h&gt;</code><br />
+<code>#include &lt;G3D/Ray.h&gt;</code><br />
+<code>#include &lt;G3D/Vector3.h&gt;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d80/a05640.html">SOAPCommand</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d0b/a04899.html">HashTrait&lt; GameObjectModel &gt;</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d7b/a04903.html">PositionTrait&lt; GameObjectModel &gt;</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d45/a04907.html">BoundsTrait&lt; GameObjectModel &gt;</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/dda/a04911.html">DynTreeImpl</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dea/a04915.html">DynamicTreeIntersectionCallback</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d8a/a04919.html">DynamicTreeAreaInfoCallback</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d52/a04923.html">DynamicTreeLocationInfoCallback</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
-Functions</h2></td></tr>
-<tr class="memitem:abf914e30c869f88f2fafb9f656320c6a"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/da8/a04547.html#abf914e30c869f88f2fafb9f656320c6a">process_message</a> (struct soap *soap_message)</td></tr>
-<tr class="separator:abf914e30c869f88f2fafb9f656320c6a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a69e574c9a3cecf7c395cd036bb672ed3"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/da8/a04547.html#a69e574c9a3cecf7c395cd036bb672ed3">ACSoapThread</a> (const std::string &amp;host, <a class="el" href="../../d5/db5/a00374.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> port)</td></tr>
-<tr class="separator:a69e574c9a3cecf7c395cd036bb672ed3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="namespaces" name="namespaces"></a>
+Namespaces</h2></td></tr>
+<tr class="memitem:d3/d1e/a04766"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d1e/a04766.html">anonymous_namespace{DynamicTree.cpp}</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="typedef-members" name="typedef-members"></a>
+Typedefs</h2></td></tr>
+<tr class="memitem:a8e6e06962c0e04aa7bb4ea9a8e6f54a9"><td class="memItemLeft" align="right" valign="top">typedef <a class="el" href="../../de/d11/a05095.html">RegularGrid2D</a>&lt; <a class="el" href="../../d4/d6b/a05039.html">GameObjectModel</a>, <a class="el" href="../../d3/d3a/a04891.html">BIHWrap</a>&lt; <a class="el" href="../../d4/d6b/a05039.html">GameObjectModel</a> &gt; &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/da8/a04547.html#a8e6e06962c0e04aa7bb4ea9a8e6f54a9">ParentTree</a></td></tr>
+<tr class="separator:a8e6e06962c0e04aa7bb4ea9a8e6f54a9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
+Variables</h2></td></tr>
+<tr class="memitem:a6c8b5b425bcbc0776a4dfa5dae72bf74"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d1e/a04766.html#a6c8b5b425bcbc0776a4dfa5dae72bf74">anonymous_namespace{DynamicTree.cpp}::CHECK_TREE_PERIOD</a> = 200</td></tr>
+<tr class="separator:a6c8b5b425bcbc0776a4dfa5dae72bf74"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Function Documentation</h2>
-<a id="a69e574c9a3cecf7c395cd036bb672ed3" name="a69e574c9a3cecf7c395cd036bb672ed3"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a69e574c9a3cecf7c395cd036bb672ed3">&#9670;&#160;</a></span>ACSoapThread()</h2>
+<h2 class="groupheader">Typedef Documentation</h2>
+<a id="a8e6e06962c0e04aa7bb4ea9a8e6f54a9" name="a8e6e06962c0e04aa7bb4ea9a8e6f54a9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8e6e06962c0e04aa7bb4ea9a8e6f54a9">&#9670;&#160;</a></span>ParentTree</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">void ACSoapThread </td>
-          <td>(</td>
-          <td class="paramtype">const std::string &amp;&#160;</td>
-          <td class="paramname"><em>host</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d5/db5/a00374.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&#160;</td>
-          <td class="paramname"><em>port</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
+          <td class="memname">typedef <a class="el" href="../../de/d11/a05095.html">RegularGrid2D</a>&lt;<a class="el" href="../../d4/d6b/a05039.html">GameObjectModel</a>, <a class="el" href="../../d3/d3a/a04891.html">BIHWrap</a>&lt;<a class="el" href="../../d4/d6b/a05039.html">GameObjectModel</a>&gt; &gt; <a class="el" href="../../d0/da8/a04547.html#a8e6e06962c0e04aa7bb4ea9a8e6f54a9">ParentTree</a></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   25</span>{</div>
-<div class="line"><span class="lineno">   26</span>    <span class="keyword">struct </span>soap soap;</div>
-<div class="line"><span class="lineno">   27</span>    soap_init(&amp;soap);</div>
-<div class="line"><span class="lineno">   28</span>    soap_set_imode(&amp;soap, SOAP_C_UTFSTRING);</div>
-<div class="line"><span class="lineno">   29</span>    soap_set_omode(&amp;soap, SOAP_C_UTFSTRING);</div>
-<div class="line"><span class="lineno">   30</span> </div>
-<div class="line"><span class="lineno">   31</span>    <span class="comment">// check every 3 seconds if world ended</span></div>
-<div class="line"><span class="lineno">   32</span>    soap.accept_timeout = 3;</div>
-<div class="line"><span class="lineno">   33</span>    soap.recv_timeout = 5;</div>
-<div class="line"><span class="lineno">   34</span>    soap.send_timeout = 5;</div>
-<div class="line"><span class="lineno">   35</span> </div>
-<div class="line"><span class="lineno">   36</span>    <span class="keywordflow">if</span> (!soap_valid_socket(soap_bind(&amp;soap, host.c_str(), port, 100)))</div>
-<div class="line"><span class="lineno">   37</span>    {</div>
-<div class="line"><span class="lineno">   38</span>        <a class="code hl_define" href="../../d7/d9a/a00152.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;network.soap&quot;</span>, <span class="stringliteral">&quot;ACSoap: couldn&#39;t bind to {}:{}&quot;</span>, host, port);</div>
-<div class="line"><span class="lineno">   39</span>        exit(-1);</div>
-<div class="line"><span class="lineno">   40</span>    }</div>
-<div class="line"><span class="lineno">   41</span> </div>
-<div class="line"><span class="lineno">   42</span>    <a class="code hl_define" href="../../d7/d9a/a00152.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;network.soap&quot;</span>, <span class="stringliteral">&quot;ACSoap: bound to http://{}:{}&quot;</span>, host, port);</div>
-<div class="line"><span class="lineno">   43</span> </div>
-<div class="line"><span class="lineno">   44</span>    <span class="keywordflow">while</span> (!<a class="code hl_function" href="../../d6/d5a/a11512.html#ae1716f62b00fe8ba87a92850bf4d054c">World::IsStopped</a>())</div>
-<div class="line"><span class="lineno">   45</span>    {</div>
-<div class="line"><span class="lineno">   46</span>        <span class="keywordflow">if</span> (!soap_valid_socket(soap_accept(&amp;soap)))</div>
-<div class="line"><span class="lineno">   47</span>            <span class="keywordflow">continue</span>;   <span class="comment">// ran into an accept timeout</span></div>
-<div class="line"><span class="lineno">   48</span> </div>
-<div class="line"><span class="lineno">   49</span>        <a class="code hl_define" href="../../d7/d9a/a00152.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;network.soap&quot;</span>, <span class="stringliteral">&quot;ACSoap: accepted connection from IP={}.{}.{}.{}&quot;</span>, (<span class="keywordtype">int</span>)(soap.ip &gt;&gt; 24) &amp; 0xFF, (<span class="keywordtype">int</span>)(soap.ip &gt;&gt; 16) &amp; 0xFF, (<span class="keywordtype">int</span>)(soap.ip &gt;&gt; 8) &amp; 0xFF, (<span class="keywordtype">int</span>)soap.ip &amp; 0xFF);</div>
-<div class="line"><span class="lineno">   50</span>        <span class="keyword">struct </span>soap* thread_soap = soap_copy(&amp;soap);<span class="comment">// make a safe copy</span></div>
-<div class="line"><span class="lineno">   51</span> </div>
-<div class="line"><span class="lineno">   52</span>        <a class="code hl_function" href="../../d2/df8/a04550.html#abf914e30c869f88f2fafb9f656320c6a">process_message</a>(thread_soap);</div>
-<div class="line"><span class="lineno">   53</span>    }</div>
-<div class="line"><span class="lineno">   54</span> </div>
-<div class="line"><span class="lineno">   55</span>    soap_destroy(&amp;soap);</div>
-<div class="line"><span class="lineno">   56</span>    soap_end(&amp;soap);</div>
-<div class="line"><span class="lineno">   57</span>    soap_done(&amp;soap);</div>
-<div class="line"><span class="lineno">   58</span>}</div>
-<div class="ttc" id="aa00152_html_a271e427d8e8481efd5cd5f537ec9e419"><div class="ttname"><a href="../../d7/d9a/a00152.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a></div><div class="ttdeci">#define LOG_INFO(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:165</div></div>
-<div class="ttc" id="aa00152_html_a43832e3fa8508deb4ce43e520005fcd9"><div class="ttname"><a href="../../d7/d9a/a00152.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a></div><div class="ttdeci">#define LOG_ERROR(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:157</div></div>
-<div class="ttc" id="aa00152_html_a47ac782b14a7531c6232777165a1a161"><div class="ttname"><a href="../../d7/d9a/a00152.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a></div><div class="ttdeci">#define LOG_DEBUG(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:169</div></div>
-<div class="ttc" id="aa04550_html_abf914e30c869f88f2fafb9f656320c6a"><div class="ttname"><a href="../../d2/df8/a04550.html#abf914e30c869f88f2fafb9f656320c6a">process_message</a></div><div class="ttdeci">void process_message(struct soap *soap_message)</div><div class="ttdef"><b>Definition:</b> ACSoap.cpp:60</div></div>
-<div class="ttc" id="aa11512_html_ae1716f62b00fe8ba87a92850bf4d054c"><div class="ttname"><a href="../../d6/d5a/a11512.html#ae1716f62b00fe8ba87a92850bf4d054c">World::IsStopped</a></div><div class="ttdeci">static bool IsStopped()</div><div class="ttdef"><b>Definition:</b> World.h:196</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00196">World::IsStopped()</a>, <a class="el" href="../../#l00169">LOG_DEBUG</a>, <a class="el" href="../../#l00157">LOG_ERROR</a>, <a class="el" href="../../#l00165">LOG_INFO</a>, and <a class="el" href="../../#l00060">process_message()</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00119">main()</a>.</p>
-
-</div>
-</div>
-<a id="abf914e30c869f88f2fafb9f656320c6a" name="abf914e30c869f88f2fafb9f656320c6a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#abf914e30c869f88f2fafb9f656320c6a">&#9670;&#160;</a></span>process_message()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void process_message </td>
-          <td>(</td>
-          <td class="paramtype">struct soap *&#160;</td>
-          <td class="paramname"><em>soap_message</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   61</span>{</div>
-<div class="line"><span class="lineno">   62</span>    <a class="code hl_define" href="../../d7/d9a/a00152.html#ac0b4843dd5a1f2e3b7aaa7dbc9dc8ba5">LOG_TRACE</a>(<span class="stringliteral">&quot;network.soap&quot;</span>, <span class="stringliteral">&quot;SOAPWorkingThread::process_message&quot;</span>);</div>
-<div class="line"><span class="lineno">   63</span> </div>
-<div class="line"><span class="lineno">   64</span>    soap_serve(soap_message);</div>
-<div class="line"><span class="lineno">   65</span>    soap_destroy(soap_message); <span class="comment">// dealloc C++ data</span></div>
-<div class="line"><span class="lineno">   66</span>    soap_end(soap_message); <span class="comment">// dealloc data and clean up</span></div>
-<div class="line"><span class="lineno">   67</span>    soap_free(soap_message); <span class="comment">// detach soap struct and fre up the memory</span></div>
-<div class="line"><span class="lineno">   68</span>}</div>
-<div class="ttc" id="aa00152_html_ac0b4843dd5a1f2e3b7aaa7dbc9dc8ba5"><div class="ttname"><a href="../../d7/d9a/a00152.html#ac0b4843dd5a1f2e3b7aaa7dbc9dc8ba5">LOG_TRACE</a></div><div class="ttdeci">#define LOG_TRACE(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:173</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00173">LOG_TRACE</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00024">ACSoapThread()</a>.</p>
 
 </div>
 </div>
@@ -235,8 +181,8 @@ Functions</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c8498b4bff487486cc5ffdac4c412cf7.html">apps</a></li><li class="navelem"><a class="el" href="../../dir_4a0dc471e712914507a0672b672729a4.html">worldserver</a></li><li class="navelem"><a class="el" href="../../dir_d5546cd048ce0388ac9df91d37210e56.html">ACSoap</a></li><li class="navelem"><a class="el" href="../../d0/da8/a04547.html">ACSoap.h</a></li>
-    <li class="footer">Generated on Mon May 5 2025 20:44:58 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1070012e9e40376f8468ff0aa5b77c71.html">common</a></li><li class="navelem"><a class="el" href="../../dir_34825b659a55315b272dfcc55a7a0f6a.html">Collision</a></li><li class="navelem"><a class="el" href="../../d0/da8/a04547.html">DynamicTree.cpp</a></li>
+    <li class="footer">Generated on Mon May 12 2025 20:45:16 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

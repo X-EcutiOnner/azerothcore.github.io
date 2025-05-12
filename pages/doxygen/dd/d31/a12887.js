@@ -1,6 +1,7 @@
 var a12887 =
 [
-    [ "instance_stratholme_InstanceMapScript", "da/d8e/a12891.html", "da/d8e/a12891" ],
-    [ "instance_stratholme", "dd/d31/a12887.html#a42ac504b2790af8c37a44e87fbd9c6c1", null ],
-    [ "GetInstanceScript", "dd/d31/a12887.html#a3d3d2e773029dd1c4bc1a59a94c4e015", null ]
+    [ "HandleEffectApply", "dd/d31/a12887.html#a8d52c4ea09e1d58d2dc44ff73d71faf5", null ],
+    [ "PrepareAuraScript", "dd/d31/a12887.html#a9829789fe5544429454e29d228ce0daf", null ],
+    [ "Register", "dd/d31/a12887.html#a7f5a26d10f48d863477ec902e6f5ff1e", null ],
+    [ "Validate", "dd/d31/a12887.html#ae81a441757ab9f10c29a7b313b99cf5f", null ]
 ];

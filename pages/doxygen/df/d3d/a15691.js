@@ -1,6 +1,13 @@
 var a15691 =
 [
-    [ "instance_ahnkahet_InstanceScript", "de/da0/a15695.html", "de/da0/a15695" ],
-    [ "instance_ahnkahet", "df/d3d/a15691.html#afbe11bc040019231878cf31cc357830b", null ],
-    [ "GetInstanceScript", "df/d3d/a15691.html#a8847099c88f11de363c45e27998f10b7", null ]
+    [ "npc_shadowpriest_sezzizAI", "df/d3d/a15691.html#a14c5cee1c3032b8df4ad902eb273e9b0", null ],
+    [ "AttackStart", "df/d3d/a15691.html#a8278a73501ea33164cbdef8599144f4a", null ],
+    [ "Reset", "df/d3d/a15691.html#ab08cc327c4206e4526e77eea3bf17e0b", null ],
+    [ "UpdateAI", "df/d3d/a15691.html#a1c0236b52d4cd87634659991e0dfc728", null ],
+    [ "_missingHPForHealTimer", "df/d3d/a15691.html#a1171f0cd40bd3d7198bab15b12edc131", null ],
+    [ "_missingHPForRenewTimer", "df/d3d/a15691.html#a8df4e1046348599cd5d1e31e3dc4eb0c", null ],
+    [ "_physicScreemTimer", "df/d3d/a15691.html#a43de246b93f3380d5b79ffba6434aa5a", null ],
+    [ "_shadowBoltTimer", "df/d3d/a15691.html#a34a18991ff2c0aafac15694ed9667193", null ],
+    [ "_summmonAddsCount", "df/d3d/a15691.html#a8ce2b172757d1f7d188152ecc0fe30f5", null ],
+    [ "_summonAddsTimer", "df/d3d/a15691.html#aff413ce6f4106d212f35fb7abbfa047e", null ]
 ];

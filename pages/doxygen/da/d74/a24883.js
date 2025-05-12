@@ -1,7 +1,6 @@
 var a24883 =
 [
-    [ "HandleEffectApply", "da/d74/a24883.html#a03c31d2d1ff8a01a03c7fa6f67a5c9c3", null ],
-    [ "HandleEffectRemove", "da/d74/a24883.html#a54420a5b6c4cc0e0b468f573cd4625bf", null ],
-    [ "PrepareAuraScript", "da/d74/a24883.html#a39e61e11ede11f029485a73e4d995809", null ],
-    [ "Register", "da/d74/a24883.html#a9b0a61f6f7ad9f01a293451705675eb0", null ]
+    [ "HandleScriptEffect", "da/d74/a24883.html#af8f2f4c4459204aa766a41dc4003581c", null ],
+    [ "PrepareSpellScript", "da/d74/a24883.html#a687f10fa34894cb497a2ce3369fd83ef", null ],
+    [ "Register", "da/d74/a24883.html#a034e52b435b6f4586084cb831e162c40", null ]
 ];

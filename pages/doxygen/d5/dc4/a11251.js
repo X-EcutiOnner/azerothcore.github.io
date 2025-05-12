@@ -1,7 +1,6 @@
 var a11251 =
 [
-    [ "achievement_commandscript", "d5/dc4/a11251.html#ac1c40d7b3b628cc206c44eae18592292", null ],
-    [ "GetCommands", "d5/dc4/a11251.html#adeac4e6f74f006daa76b0ebb8ea1469c", null ],
-    [ "HandleAchievementAddCommand", "d5/dc4/a11251.html#ac4f6addfb0c52d584bf8081436aa3d7a", null ],
-    [ "HandleAchievementCheckAllCommand", "d5/dc4/a11251.html#a0e3b83961ff20899a8492c8d8b7c13be", null ]
+    [ "DestinationTargetSelectHandler", "d5/dc4/a11251.html#ab5ffcc89b7232afddd6bc47e7c347b79", null ],
+    [ "Call", "d5/dc4/a11251.html#a81ae2eb856507ee22308ae2739854382", null ],
+    [ "DestinationTargetSelectHandlerScript", "d5/dc4/a11251.html#a95e882b892a79b464a521a8367b2e9b7", null ]
 ];

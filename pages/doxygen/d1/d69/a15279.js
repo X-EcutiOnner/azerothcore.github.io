@@ -1,7 +1,7 @@
 var a15279 =
 [
-    [ "HandleDummy", "d1/d69/a15279.html#a7657ffcc0b055b838408de4dd5f778f3", null ],
-    [ "PrepareSpellScript", "d1/d69/a15279.html#ace2c23ec11d09cfb6f101a2dbd8b9d89", null ],
-    [ "Register", "d1/d69/a15279.html#ae9be2e8124edf50b98824c584aaa32cf", null ],
-    [ "Validate", "d1/d69/a15279.html#a041c84fd605abd36b8f774903a5200dc", null ]
+    [ "npc_kerlonianAI", "d7/d29/a15283.html", "d7/d29/a15283" ],
+    [ "npc_kerlonian", "d1/d69/a15279.html#a8a5ab1fde9f21ac256d5168ef3f17f87", null ],
+    [ "GetAI", "d1/d69/a15279.html#a93d93ba13d8521fee39801473b7c4b6a", null ],
+    [ "OnQuestAccept", "d1/d69/a15279.html#a257d24295318605ac2fd5554315dfd63", null ]
 ];

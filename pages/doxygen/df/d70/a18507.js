@@ -1,6 +1,6 @@
 var a18507 =
 [
-    [ "npc_captain_grondelAI", "da/df5/a18511.html", "da/df5/a18511" ],
-    [ "npc_captain_grondel", "df/d70/a18507.html#a54a53f8e3cde87405219c815a56d523c", null ],
-    [ "GetAI", "df/d70/a18507.html#a2a7725e81294e80701b7742d2605ec00", null ]
+    [ "npc_frost_freeze_trapAI", "da/df5/a18511.html", "da/df5/a18511" ],
+    [ "npc_frost_freeze_trap", "df/d70/a18507.html#ac58ed2598fd4250f220208a91343f9b8", null ],
+    [ "GetAI", "df/d70/a18507.html#a88ed9aeb0403b3b625c858cd1e44a99f", null ]
 ];

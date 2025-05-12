@@ -1,7 +1,6 @@
 var a18191 =
 [
-    [ "PrepareSpellScript", "d6/d63/a18191.html#a3283e829757b50bb52f66ee1e64033ae", null ],
-    [ "Register", "d6/d63/a18191.html#a0162c92c32210f2873686610f4f00b87", null ],
-    [ "TriggerHeal", "d6/d63/a18191.html#a3cdfca33a535bad0942beea24aefa1bb", null ],
-    [ "Validate", "d6/d63/a18191.html#a6545fe9f40c0aed036192008a2d6e28e", null ]
+    [ "npc_raging_spiritAI", "d2/d30/a18195.html", "d2/d30/a18195" ],
+    [ "npc_raging_spirit", "d6/d63/a18191.html#ad1a580bd394adc8c58575b600c16f9db", null ],
+    [ "GetAI", "d6/d63/a18191.html#ab572a667f6ddd0d4051fe424c8d9e21c", null ]
 ];

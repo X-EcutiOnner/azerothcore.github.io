@@ -1,4 +1,6 @@
 var a04223 =
 [
-    [ "ScriptRegistry< ArenaTeamScript >", "d1/dde/a04223.html#a5d2a56a9849b1ba119fd3224685406fe", null ]
+    [ "_CRT_SECURE_NO_DEPRECATE", "d1/dde/a04223.html#a411c46599e926f8cdf49c63957255359", null ],
+    [ "MAINMagic", "d1/dde/a04223.html#a026039bd50ec58444fa975da328951ec", null ],
+    [ "MPHDMagic", "d1/dde/a04223.html#aac8041bc8ca704e28f2b3054649b3752", null ]
 ];

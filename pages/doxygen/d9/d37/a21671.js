@@ -1,6 +1,6 @@
 var a21671 =
 [
-    [ "npc_conversing_with_the_depths_triggerAI", "d7/d7c/a21675.html", "d7/d7c/a21675" ],
-    [ "npc_conversing_with_the_depths_trigger", "d9/d37/a21671.html#a55ba213da86650d44ea1493b26fdb7f2", null ],
-    [ "GetAI", "d9/d37/a21671.html#a61c337bfe1efb3589cf0df91d9082236", null ]
+    [ "npc_injured_7th_legion_soldierAI", "d9/d37/a21671.html#a6929ef42a003f1337d71f9b23fa37c6e", null ],
+    [ "MovementInform", "d9/d37/a21671.html#a999bc868db485578fcc70ae7e056b778", null ],
+    [ "Reset", "d9/d37/a21671.html#a3021c037acdb141fc3ca4d6f3b146bbf", null ]
 ];

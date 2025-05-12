@@ -1,8 +1,7 @@
 var a21835 =
 [
-    [ "AfterApply", "db/d26/a21835.html#a57279552b867251e9d2ee6a4ff5d7914", null ],
-    [ "PeriodicTick", "db/d26/a21835.html#a2e86aa6efe6ab137926c1dfd1bd26a95", null ],
-    [ "PrepareAuraScript", "db/d26/a21835.html#a9e1b74bf2d28a367caefdc90c34743c8", null ],
-    [ "Register", "db/d26/a21835.html#a69eb0ca43a15d4995ad219459c2b39d6", null ],
-    [ "Validate", "db/d26/a21835.html#a946248656cb755f85dd93fd4d607c9a7", null ]
+    [ "npc_tallhorn_stagAI", "db/d26/a21835.html#a50947c450eece979193b45728e5e1f82", null ],
+    [ "Reset", "db/d26/a21835.html#a67dce7ad60ddea63fcba5e1e2079fa7c", null ],
+    [ "UpdateAI", "db/d26/a21835.html#adf60f62fa92238cb315c42e0179c3f17", null ],
+    [ "_phase", "db/d26/a21835.html#ace2ac6f418876393d2f6d3457b1bc4c0", null ]
 ];

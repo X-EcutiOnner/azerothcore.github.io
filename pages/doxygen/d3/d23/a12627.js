@@ -1,11 +1,11 @@
 var a12627 =
 [
-    [ "npc_crusade_persuadedAI", "d3/d23/a12627.html#a9a6a762384bb8ca74a34d30472fa8e3c", null ],
-    [ "JustEngagedWith", "d3/d23/a12627.html#a6266a91324717feee94727a0578e9584", null ],
-    [ "Reset", "d3/d23/a12627.html#a127c36f01e2ddfeb26f3192a1db8ffaf", null ],
-    [ "SpellHit", "d3/d23/a12627.html#a72476d0e2c63d629c2200824cd3cb5a1", null ],
-    [ "UpdateAI", "d3/d23/a12627.html#a078facb2a0e5ba27f44999e7bb1e55f7", null ],
-    [ "playerGUID", "d3/d23/a12627.html#a3076964de32f12d70d41677fb626719b", null ],
-    [ "speechCounter", "d3/d23/a12627.html#a4b0c5d69a7563b2f4f399a60010378a9", null ],
-    [ "speechTimer", "d3/d23/a12627.html#aada4f1277fc1f000c27cefcd6011c24d", null ]
+    [ "npc_kilrek", "d3/d23/a12627.html#a853aa53d3e03aebe07c939eaf1b1c9c2", null ],
+    [ "JustDied", "d3/d23/a12627.html#a314ed9f73c6a9c991c7eb2690e0f7c1c", null ],
+    [ "JustEngagedWith", "d3/d23/a12627.html#a3a60a3bdb5a2876e325a26964bab21ac", null ],
+    [ "Reset", "d3/d23/a12627.html#ae0b375abe5ec909cfaff96c257da0325", null ],
+    [ "UpdateAI", "d3/d23/a12627.html#acf402b43e91b1f488ef8b9e3ed5092c4", null ],
+    [ "_scheduler", "d3/d23/a12627.html#a93663ee806385f617e81a03062dd94d6", null ],
+    [ "instance", "d3/d23/a12627.html#a13b969fa86ef57f9508117a73252a36b", null ],
+    [ "TerestianGUID", "d3/d23/a12627.html#a411476da379bf687cd007e25ba11280e", null ]
 ];

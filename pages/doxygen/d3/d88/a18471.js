@@ -1,6 +1,7 @@
 var a18471 =
 [
-    [ "npc_crok_scourgebaneAI", "d2/dc2/a18475.html", "d2/dc2/a18475" ],
-    [ "npc_crok_scourgebane", "d3/d88/a18471.html#a5f560e2c62aa618eadb5a11e2c9b90a3", null ],
-    [ "GetAI", "d3/d88/a18471.html#afa4fcbb9d7281fbee3f8bc0f318d2e6b", null ]
+    [ "OnApply", "d3/d88/a18471.html#ac35f5d98980f54470a75a72b3578681f", null ],
+    [ "OnRemove", "d3/d88/a18471.html#a9844b3d82680bfc9756b141fcf29e1f9", null ],
+    [ "PrepareAuraScript", "d3/d88/a18471.html#a83c90d16fa151026a1e02927e31922ee", null ],
+    [ "Register", "d3/d88/a18471.html#a255e44ac6db7fd779d98fc3660ee91c6", null ]
 ];

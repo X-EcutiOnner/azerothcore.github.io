@@ -1,5 +1,4 @@
 var a03407 =
 [
-    [ "GridTerrainLoader", "d3/db5/a09120.html", "d3/db5/a09120" ],
-    [ "GridTerrainUnloader", "d8/d42/a09124.html", "d8/d42/a09124" ]
+    [ "ScriptRegistry< MovementHandlerScript >", "da/dc7/a03407.html#adecbf467a875ee8886c336d96a2f97dc", null ]
 ];

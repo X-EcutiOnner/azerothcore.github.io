@@ -1,9 +1,11 @@
 var a13187 =
 [
-    [ "FilterTargets", "d9/d10/a13187.html#aa8774cf8fb4815b4a894274b4a20d54e", null ],
-    [ "HandleScriptEffect", "d9/d10/a13187.html#a61343b4976c8976ec82be6a52b60d3ae", null ],
-    [ "Load", "d9/d10/a13187.html#a7cc66ea7f62a33d13ab47c7614683c00", null ],
-    [ "PrepareSpellScript", "d9/d10/a13187.html#adb72a99df20cb44f393167b4f3e239d0", null ],
-    [ "Register", "d9/d10/a13187.html#a965867473152c7b362e61f9e760f80d9", null ],
-    [ "Validate", "d9/d10/a13187.html#ac2b64a53c06fddefe9939104dcd58a02", null ]
+    [ "spell_eredar_twins_handle_touch_periodic", "d9/d10/a13187.html#aa41bba6ce2889eb2a58409b611f53e49", null ],
+    [ "OnPeriodic", "d9/d10/a13187.html#a8d863af82300eacc1456a08f8461d5a7", null ],
+    [ "PrepareAuraScript", "d9/d10/a13187.html#af04b38478379a10c5d94a7e4216ad9fa", null ],
+    [ "Register", "d9/d10/a13187.html#a4908c5c3e6afdf0305dfb4729cfba503", null ],
+    [ "Validate", "d9/d10/a13187.html#aebeee23df951737b99e7a4ab026cbb1b", null ],
+    [ "_aura", "d9/d10/a13187.html#a0b1df96674584554d53688e993c2a310", null ],
+    [ "_effectIndex", "d9/d10/a13187.html#aa873d0475c70db5c5ba9cea802dc3569", null ],
+    [ "_touchSpell", "d9/d10/a13187.html#ae60a5c2918105785805dc45b3942ee4a", null ]
 ];

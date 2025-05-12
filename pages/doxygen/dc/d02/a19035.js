@@ -1,17 +1,10 @@
 var a19035 =
 [
-    [ "boss_thaddius_summonAI", "dc/d02/a19035.html#aa5050ea97f0f92a39f3db856af5cd28e", null ],
-    [ "DoAction", "dc/d02/a19035.html#a3b95513bd72806a928c0f57cf6ceb45a", null ],
-    [ "EnterEvadeMode", "dc/d02/a19035.html#ad2258d2039a789f99ad4c0766726df85", null ],
-    [ "JustDied", "dc/d02/a19035.html#a1629c28098312defb57611967adf34fe", null ],
-    [ "JustEngagedWith", "dc/d02/a19035.html#af96f6054547e377f401972273e6e86aa", null ],
-    [ "KilledUnit", "dc/d02/a19035.html#a16771a7a854f85dcc26e3510d31454af", null ],
-    [ "Reset", "dc/d02/a19035.html#a762fb33bd8fe4ac457b9b7b9c44b5d4c", null ],
-    [ "UpdateAI", "dc/d02/a19035.html#a6f99135eb20d77cca69ec20fe4fbd002", null ],
-    [ "events", "dc/d02/a19035.html#a18dd6a61746effdf03cd0afbadd8a368", null ],
-    [ "myCoil", "dc/d02/a19035.html#a2c21b7023f7396566f7486591a653079", null ],
-    [ "overload", "dc/d02/a19035.html#a6d054ec2a0f26f9f3a5b142bacca0ae5", null ],
-    [ "pInstance", "dc/d02/a19035.html#a0acea3b93ae7fa45ed468de406de08e4", null ],
-    [ "pullTimer", "dc/d02/a19035.html#a6080f32e1d90fa3e2e7bd9447abbad87", null ],
-    [ "visualTimer", "dc/d02/a19035.html#a3587b09a23d7aad81effd14bbda03291", null ]
+    [ "boss_patchwerkAI", "dc/d02/a19035.html#a74dfcf9ef921aa2a53d877c0e5ee9a34", null ],
+    [ "JustDied", "dc/d02/a19035.html#aaed18187aa8e0058c70b29b1ccbe955f", null ],
+    [ "JustEngagedWith", "dc/d02/a19035.html#a1317cb819d6247f62e0c6c725157db30", null ],
+    [ "KilledUnit", "dc/d02/a19035.html#a17ccb5b2a1841656813a9408f5a05c4e", null ],
+    [ "Reset", "dc/d02/a19035.html#a1d03058bf53e670f4fe9384e9f047891", null ],
+    [ "UpdateAI", "dc/d02/a19035.html#a2db0df50a0faa88ebeaa035ea048157e", null ],
+    [ "events", "dc/d02/a19035.html#a00c98ee5cdb3c512ba0d92a48d441006", null ]
 ];

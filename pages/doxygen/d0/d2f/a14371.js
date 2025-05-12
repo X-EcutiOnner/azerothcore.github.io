@@ -1,6 +1,6 @@
 var a14371 =
 [
-    [ "HandleScriptEffect", "d0/d2f/a14371.html#a07ac70b6e91c61dcb59c368381a877dd", null ],
-    [ "PrepareSpellScript", "d0/d2f/a14371.html#a55115ca986d5226588d168ced7ab1f55", null ],
-    [ "Register", "d0/d2f/a14371.html#ad8811bf48dfb564afcd82cf51b860255", null ]
+    [ "OnApply", "d0/d2f/a14371.html#a30d33268b58507c228a4628031bffca0", null ],
+    [ "PrepareAuraScript", "d0/d2f/a14371.html#a16dc3f52152d63b5512690c761f9915a", null ],
+    [ "Register", "d0/d2f/a14371.html#a6494e4d7277e910ffa3b30c333117f00", null ]
 ];

@@ -1,6 +1,8 @@
 var a23583 =
 [
-    [ "boss_porung", "dc/ddf/a23583.html#acef31010461bbf716ac9b13d950807ee", null ],
-    [ "JustDied", "dc/ddf/a23583.html#ac5c36f875692f49d1d0195694d85e5c1", null ],
-    [ "JustEngagedWith", "dc/ddf/a23583.html#a9d44f51e4710e01bdc7d345ff3bba9dc", null ]
+    [ "npc_warchief_portal", "dc/ddf/a23583.html#a1a52395a5ae66f5cc5f92c6d4ce81893", null ],
+    [ "JustSummoned", "dc/ddf/a23583.html#ad90c834dc059040f3922f58dc3bcf4a2", null ],
+    [ "SetData", "dc/ddf/a23583.html#a538ab8c6e7683aa02e8c75f9dd900be8", null ],
+    [ "UpdateAI", "dc/ddf/a23583.html#a8c400cf1b9f41696807e11f1f135c0ad", null ],
+    [ "_scheduler", "dc/ddf/a23583.html#a76bb6a89f0922ed0bc0289ee4e0f20d4", null ]
 ];

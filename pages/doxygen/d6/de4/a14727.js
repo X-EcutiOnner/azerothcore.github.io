@@ -1,12 +1,10 @@
 var a14727 =
 [
-    [ "instance_onyxias_lair_InstanceMapScript", "d6/de4/a14727.html#a15c6f3f16f9cfa1f9fc1b7a2c62bcc64", null ],
-    [ "CheckAchievementCriteriaMeet", "d6/de4/a14727.html#a20761aa41e0f70836c4525f17faf064f", null ],
-    [ "Initialize", "d6/de4/a14727.html#a5d109b5acfa2e21e3c50e35dcdf119dd", null ],
-    [ "OnGameObjectCreate", "d6/de4/a14727.html#a1e99600992673d165382d99236e0c59f", null ],
-    [ "SetBossState", "d6/de4/a14727.html#a2a28e42ec49fce2ef47288c1ad4b6e61", null ],
-    [ "SetData", "d6/de4/a14727.html#ac5df2ecb9f88dbedbb1f59ad2bdc8b96", null ],
-    [ "bDeepBreath", "d6/de4/a14727.html#a96211e4e0e033e16d4de57b6e40f2023", null ],
-    [ "ManyWhelpsCounter", "d6/de4/a14727.html#aea148b562a4f2cd752ac73240f902993", null ],
-    [ "str_data", "d6/de4/a14727.html#ad0b65a3cfccdf07d017757751f4e15fa", null ]
+    [ "boss_aeonus", "d6/de4/a14727.html#af823ef2187b852dc72d2f63020e1701b", null ],
+    [ "IsSummonedBy", "d6/de4/a14727.html#a5f95e19dfec210d4da1f1f48145ff047", null ],
+    [ "JustDied", "d6/de4/a14727.html#a649275c31e61f542a13fd791ee85277b", null ],
+    [ "JustEngagedWith", "d6/de4/a14727.html#a5f193144e36a889630d5dbadb4aa665f", null ],
+    [ "JustReachedHome", "d6/de4/a14727.html#a62df4db3ead6f9be5c3ead974613c8d5", null ],
+    [ "KilledUnit", "d6/de4/a14727.html#a4aa2f3d82aaaf5cd3a938ad92aad059d", null ],
+    [ "MoveInLineOfSight", "d6/de4/a14727.html#a3147774fa5bff34d01947fdcf254ba7b", null ]
 ];

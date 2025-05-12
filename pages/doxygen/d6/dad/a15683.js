@@ -1,7 +1,19 @@
 var a15683 =
 [
-    [ "HandleScript", "d6/dad/a15683.html#ae9939f2795b8ba428277c7d658af715c", null ],
-    [ "PrepareSpellScript", "d6/dad/a15683.html#aabe244008103ff317e3fc1e26b04115a", null ],
-    [ "Register", "d6/dad/a15683.html#a4f492bdd96ef190354f37c95217bb696", null ],
-    [ "Validate", "d6/dad/a15683.html#a4a3a5e83b66d0ae3f6f95bcead932f55", null ]
+    [ "npc_weegli_blastfuseAI", "d6/dad/a15683.html#acde6b3e037d3c297e5d1beccdbe3d03a", null ],
+    [ "AttackStart", "d6/dad/a15683.html#a5e9140b38021ed6a2808e026fd77f8f1", null ],
+    [ "DestroyDoor", "d6/dad/a15683.html#a0cf76693b1af179c9857abdccc6931ee", null ],
+    [ "InitializeAI", "d6/dad/a15683.html#a61490f8c63f8056ac9f145ed8dd789c7", null ],
+    [ "JustReachedHome", "d6/dad/a15683.html#a4a88bc4bff8b5b2f75e3dd0c25927815", null ],
+    [ "MovementInform", "d6/dad/a15683.html#a33470a45eba0cbb62b041010f6aed302", null ],
+    [ "Reset", "d6/dad/a15683.html#abec9f353a1430afae12c21273bf32197", null ],
+    [ "sGossipHello", "d6/dad/a15683.html#a3a8381fa5e5d4daf19f312166247bea5", null ],
+    [ "sGossipSelect", "d6/dad/a15683.html#a0927116dcc55a1107dce7c65d1295e2a", null ],
+    [ "UpdateAI", "d6/dad/a15683.html#a73e482ebbb1566738e6775a574500dc8", null ],
+    [ "Bomb_Timer", "d6/dad/a15683.html#af6f68e291ce7d8cf25105ac64d7eebff", null ],
+    [ "destroyingDoor", "d6/dad/a15683.html#a0c7f207666da8ad74ff9dc64b582a042", null ],
+    [ "instance", "d6/dad/a15683.html#a609616e5136cf11bc16f9bb30ba92879", null ],
+    [ "LandMine_Timer", "d6/dad/a15683.html#ad9bab1d2c7a2baf35f6f7fb2cb4a27c7", null ],
+    [ "outroStage", "d6/dad/a15683.html#a30cdbce7bddb4d1d221925de86329a41", null ],
+    [ "outroTimer", "d6/dad/a15683.html#a08ef419fbef2ec38b7bcd408f135cd29", null ]
 ];

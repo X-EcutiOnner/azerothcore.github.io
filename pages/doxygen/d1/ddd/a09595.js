@@ -1,8 +1,6 @@
 var a09595 =
 [
-    [ "GetAINotifyDelay", "d1/ddd/a09595.html#a9efd4acfe2ff5e4dfe0cc9e8fe802cc6", null ],
-    [ "GetReqMoveDistSq", "d1/ddd/a09595.html#a58687646bbf83723e8ad2925ee50452c", null ],
-    [ "GetVisibilityNotifyDelay", "d1/ddd/a09595.html#ac402ec0cb86192ce264d7909e09da5ac", null ],
-    [ "Update", "d1/ddd/a09595.html#aa95443d7050249a44cad2f16fa0026e5", null ],
-    [ "visibilitySettingsIndex", "d1/ddd/a09595.html#a35ebd0fcbdec8a3287f714cbe9becbcc", null ]
+    [ "bossId", "d1/ddd/a09595.html#ac7ce1fcc568ad1fe6bc8a20957357ed8", null ],
+    [ "entry", "d1/ddd/a09595.html#a1a199d022692efe54e29a7cb90e73dee", null ],
+    [ "type", "d1/ddd/a09595.html#ab5654860b5c27654fa0346e9e92a71fc", null ]
 ];

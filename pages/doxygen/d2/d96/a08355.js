@@ -1,9 +1,8 @@
 var a08355 =
 [
-    [ "EntryPointData", "d2/d96/a08355.html#a1852523ba9ca889cdd6731c63de759e2", null ],
-    [ "ClearTaxiPath", "d2/d96/a08355.html#a4aee0d4ef3850fb486987ae6fe78ee91", null ],
-    [ "HasTaxiPath", "d2/d96/a08355.html#afd310b2f367ec7df76f01689ea120e6e", null ],
-    [ "joinPos", "d2/d96/a08355.html#abfdc0ccd945f60e0a3ec37d278c96940", null ],
-    [ "mountSpell", "d2/d96/a08355.html#a06e1cadac24a2ab90e57373692f829dc", null ],
-    [ "taxiPath", "d2/d96/a08355.html#a5af670fa420b250c22e0f3237e753a6f", null ]
+    [ "Reset", "d2/d96/a08355.html#a28a5bd110553457c86d7f77e78041713", null ],
+    [ "cosAngle", "d2/d96/a08355.html#a37f49fc816f37dff8c1947f4de7f04d5", null ],
+    [ "sinAngle", "d2/d96/a08355.html#af2a184b7c8e7f324607a0b7468bcb8f6", null ],
+    [ "xyspeed", "d2/d96/a08355.html#a6fada60d677d89580c3a718d42a75d17", null ],
+    [ "zspeed", "d2/d96/a08355.html#ad0a5a36aeabc9b8d8ea27cecae30ae31", null ]
 ];

@@ -1,11 +1,9 @@
 var a14119 =
 [
-    [ "npc_high_oracle_soo_roo", "d8/df4/a14119.html#a86f5f3c3869e9fa7afcfc9425dfdfdde", null ],
-    [ "MoveInLineOfSight", "d8/df4/a14119.html#ae3b4da2d6b888cf6325bb93b3fdbde7f", null ],
-    [ "Reset", "d8/df4/a14119.html#a89a60a83a46e0095045b2353e50483ed", null ],
-    [ "UpdateAI", "d8/df4/a14119.html#ac22cfa519e478da643a51ae887f306fd", null ],
-    [ "orphanGUID", "d8/df4/a14119.html#acd6636eb290a2fe4470b04d467ff7fa1", null ],
-    [ "phase", "d8/df4/a14119.html#abeec923d25d21773f9d8f8ba1deb0148", null ],
-    [ "playerGUID", "d8/df4/a14119.html#a329832491f86c6fcc9ccc4c98b19991e", null ],
-    [ "timer", "d8/df4/a14119.html#aa5238d3ee361374681947de874391a1f", null ]
+    [ "npc_brew_bubble", "d8/df4/a14119.html#a188d1b68bb939d518e72e844e53e9a7d", null ],
+    [ "DoAction", "d8/df4/a14119.html#a7223d3397b32cf2969ea628c06ac2f19", null ],
+    [ "MoveInLineOfSight", "d8/df4/a14119.html#aea01d2c0f9ac883a8a8668164f16f932", null ],
+    [ "Reset", "d8/df4/a14119.html#aa3ab8e07323b47751f72c5ebab24a1bb", null ],
+    [ "UpdateAI", "d8/df4/a14119.html#a25018deaa206620f6e98ba722f689b8d", null ],
+    [ "timer", "d8/df4/a14119.html#a4bee73add756ba4b3137818b2dacd27f", null ]
 ];

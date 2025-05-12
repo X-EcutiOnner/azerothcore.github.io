@@ -1,10 +1,7 @@
 var a15067 =
 [
-    [ "npc_anubisath_defender", "d6/da3/a15067.html#ae24a21ad3ebcaa4b8312a1fea66131ba", null ],
-    [ "DamageTaken", "d6/da3/a15067.html#a032714b16d3d77a19bec0f918d8ef8df", null ],
-    [ "JustDied", "d6/da3/a15067.html#a225ca1b3144953bcc5890caf0d32b606", null ],
-    [ "JustEngagedWith", "d6/da3/a15067.html#a6505fcae0e99cae44750f16daddc3309", null ],
-    [ "Reset", "d6/da3/a15067.html#ab10d9ac93aab97172f630e1d7d8faca0", null ],
-    [ "UpdateAI", "d6/da3/a15067.html#a1f190f45ffbaf20f5565221780dc5cc6", null ],
-    [ "_enraged", "d6/da3/a15067.html#a4adef63a5093e3c0ecb8b57283e94ff8", null ]
+    [ "npc_sartura_royal_guard", "d6/da3/a15067.html#a3ce2aeec4e5f26916ef50bdeea624c9d", null ],
+    [ "JustEngagedWith", "d6/da3/a15067.html#a0b162e1fcc925f65fedbfe235b59eb0e", null ],
+    [ "Reset", "d6/da3/a15067.html#a2b604aada12ca7f3e712cdbd1a3f397a", null ],
+    [ "UpdateAI", "d6/da3/a15067.html#a2ed50f65847133c897facecbaa4711d8", null ]
 ];

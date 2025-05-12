@@ -1,7 +1,12 @@
 var a17487 =
 [
-    [ "npc_gunship_rocketeerAI", "d2/d54/a17487.html#aa9e722f32cd95fff8c72db5a41d0e84c", null ],
-    [ "CanAIAttack", "d2/d54/a17487.html#a4b4e2839e426bdb752beea09394f13dc", null ],
-    [ "MovementInform", "d2/d54/a17487.html#a7dd7f3625b177a96bcfdc5e46d944562", null ],
-    [ "UpdateAI", "d2/d54/a17487.html#af73d71750f116fb90be1c2acba75ca70", null ]
+    [ "gunship_npc_AI", "d2/d54/a17487.html#a30c13cb755638fcf05d1ad9a476210d3", null ],
+    [ "EnterEvadeMode", "d2/d54/a17487.html#a7c2da25bb962c32fa350ee1f12f86ca4", null ],
+    [ "JustDied", "d2/d54/a17487.html#ad40c976be4decd9054dad031a4caab78", null ],
+    [ "MovementInform", "d2/d54/a17487.html#a3bae54b656fc5ed8c6fef80bd1721c71", null ],
+    [ "SetData", "d2/d54/a17487.html#acfd5e331155d7787ada33acbca73fece", null ],
+    [ "SetSlotInfo", "d2/d54/a17487.html#afdfc3f9add2952f90baf24d55425670f", null ],
+    [ "Index", "d2/d54/a17487.html#ae120874514cf5921136821b820a04da7", null ],
+    [ "Instance", "d2/d54/a17487.html#ab5276a099bcf56c5a25b3a52be516b5c", null ],
+    [ "Slot", "d2/d54/a17487.html#a59d237475ae309755d429cfac77d6630", null ]
 ];

@@ -1,8 +1,7 @@
 var a09079 =
 [
-    [ "NearestPlayerInObjectRangeCheck", "d2/dd9/a09079.html#ae8e57c69baf8bdaf0448864d4afbb1a4", null ],
-    [ "NearestPlayerInObjectRangeCheck", "d2/dd9/a09079.html#aac3d406d10a036b92a55bcd955411165", null ],
-    [ "operator()", "d2/dd9/a09079.html#a5d7ed3141c03d2209d5a3b1a689d1668", null ],
-    [ "i_obj", "d2/dd9/a09079.html#a9cd17091269bcfc2b48fefc12ac9b127", null ],
-    [ "i_range", "d2/dd9/a09079.html#ab55f93d7c5d6ca3461bcbe49010fcb83", null ]
+    [ "flags", "d2/dd9/a09079.html#a2faab5766bd3cbc09ed4e541be7e7f94", null ],
+    [ "fourcc", "d2/dd9/a09079.html#a93b48dd741d13ff036eac8a77df9f916", null ],
+    [ "gridHeight", "d2/dd9/a09079.html#a3fbdc02ff4769b6f2eacbdc02ba4d370", null ],
+    [ "gridMaxHeight", "d2/dd9/a09079.html#a1146dfae7dc4f89dddc94cda5deb7a4c", null ]
 ];

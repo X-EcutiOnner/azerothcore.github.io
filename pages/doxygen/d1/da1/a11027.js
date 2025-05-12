@@ -1,6 +1,5 @@
 var a11027 =
 [
-    [ "EffectManaShieldHandler", "d1/da1/a11027.html#a234fb0f6749072f9cc6310f80b3b9583", null ],
-    [ "Call", "d1/da1/a11027.html#a30ac72ee0a22ac3e71bcb2eeda903dbc", null ],
-    [ "pEffectHandlerScript", "d1/da1/a11027.html#a1aec2af2a69a90b8038d612d9ebddc2b", null ]
+    [ "AbsorbAuraOrderPred", "d1/da1/a11027.html#a30283854715c90496e14d260f913f5fa", null ],
+    [ "operator()", "d1/da1/a11027.html#a8f705a8b053ef6ff2e2827b4c7f9c643", null ]
 ];

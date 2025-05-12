@@ -1,11 +1,12 @@
 var a12875 =
 [
-    [ "boss_baroness_anastariAI", "df/d87/a12875.html#acf180bbe881ba1f6e49c075254759c00", null ],
-    [ "JustDied", "df/d87/a12875.html#a1a7bf1e6c39b0b61e95390e7ee1c5e6b", null ],
-    [ "JustEngagedWith", "df/d87/a12875.html#a7329455d99045e7002abffe09112a4ea", null ],
-    [ "Reset", "df/d87/a12875.html#a80c99c59486d2a7850a3a54ffebe998b", null ],
-    [ "SchedulePossession", "df/d87/a12875.html#afbf2d4e9c3e8e50815c398b97afb3970", null ],
-    [ "UpdateAI", "df/d87/a12875.html#a962e4e3091d126682825c326af5f6922", null ],
-    [ "_possessedTargetGuid", "df/d87/a12875.html#a36e386b847c7032b5ce95a01070518ad", null ],
-    [ "_scheduler", "df/d87/a12875.html#aa59518627a5e64e371dbbb45cfced75f", null ]
+    [ "npc_scarlet_minerAI", "df/d87/a12875.html#a7f5ca173103eb4498ce41912bda5da66", null ],
+    [ "InitCartQuest", "df/d87/a12875.html#a5d3ece8f2f02a2bae4550a41f55348b0", null ],
+    [ "InitWaypoint", "df/d87/a12875.html#a7fe048368b6e0a43b5be501a24773b8c", null ],
+    [ "Reset", "df/d87/a12875.html#a2a8660173dc32c38de917049eb33fff8", null ],
+    [ "UpdateAI", "df/d87/a12875.html#a48d2c92a4d45d5e59252f9455b82cbbd", null ],
+    [ "WaypointReached", "df/d87/a12875.html#a31f4363e269b51d3a002a132b5516dd0", null ],
+    [ "carGUID", "df/d87/a12875.html#a963f9c0ca58ce160b43f36f5a9f7dee7", null ],
+    [ "IntroPhase", "df/d87/a12875.html#a094c2ee20d13c88805c3de7f9f94b86e", null ],
+    [ "IntroTimer", "df/d87/a12875.html#adae2103753dd62699359ff01ac3ba865", null ]
 ];

@@ -1,11 +1,17 @@
 var a18027 =
 [
-    [ "NonTankLKTargetSelector", "dc/d8c/a18027.html#a41c5372505c0c74e93f2c583a0259777", null ],
-    [ "operator()", "dc/d8c/a18027.html#a2e496088092b9885f8e2391c2df91993", null ],
-    [ "_exclude1", "dc/d8c/a18027.html#abe4e56597fa2918b15a003413887ac71", null ],
-    [ "_exclude2", "dc/d8c/a18027.html#a6aa63c93c4e68998f621349760d9ab43", null ],
-    [ "_maxDist", "dc/d8c/a18027.html#ac7e28c908079fbd2e1ca5374731d521e", null ],
-    [ "_playerOnly", "dc/d8c/a18027.html#a5ab89af79aa4840c9a024996a848540c", null ],
-    [ "_reqLOS", "dc/d8c/a18027.html#a61966d6b825f25b6bbf589676cef19f9", null ],
-    [ "_source", "dc/d8c/a18027.html#a86e3ebd2425b76103df7413b5ed4af70", null ]
+    [ "npc_rimefangAI", "dc/d8c/a18027.html#ae89b397bafdcb06e94fa94c18ef0d2c8", null ],
+    [ "DoAction", "dc/d8c/a18027.html#a79d34453b3ace5c1f80b12b862890e3c", null ],
+    [ "InitializeAI", "dc/d8c/a18027.html#ae515d0b1d383c48e40fa4795edd1b247", null ],
+    [ "JustDied", "dc/d8c/a18027.html#ab3cd1550cda44cecf889f4bf28f976ba", null ],
+    [ "JustEngagedWith", "dc/d8c/a18027.html#ad161bb0a6c76d223b1e687a1cc604375", null ],
+    [ "JustReachedHome", "dc/d8c/a18027.html#a7b15a9c6db1a48c3766afcb41d66b61f", null ],
+    [ "JustRespawned", "dc/d8c/a18027.html#a47ed52a4a0511d7b1e3eb4bd5da409ca", null ],
+    [ "MovementInform", "dc/d8c/a18027.html#aacd146fbfac94b8f82b3971ff74644cc", null ],
+    [ "Reset", "dc/d8c/a18027.html#a8956324e2806393d26bf146f4e2c48b0", null ],
+    [ "UpdateAI", "dc/d8c/a18027.html#a00872042199924a14089c1057c479ff7", null ],
+    [ "_events", "dc/d8c/a18027.html#ade0c279565236eb3fd59fd43eef4c3e1", null ],
+    [ "_icyBlastCounter", "dc/d8c/a18027.html#aef3e7d4cd3d23f407ef4ba5aa5c737c9", null ],
+    [ "_instance", "dc/d8c/a18027.html#ad12541907c439117cf8c8a6741c07445", null ],
+    [ "_summoned", "dc/d8c/a18027.html#aa27dd1e338145a65915262a8d44f7519", null ]
 ];

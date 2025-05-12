@@ -1,6 +1,6 @@
 var a22311 =
 [
-    [ "npc_wg_siege_machineAI", "d2/d51/a22315.html", "d2/d51/a22315" ],
-    [ "npc_wg_siege_machine", "d3/d63/a22311.html#a23dc1bbeaa396cad781ec177881e7d2a", null ],
-    [ "GetAI", "d3/d63/a22311.html#ae8b2a71378565ad5428f1ae582cacca1", null ]
+    [ "PrepareSpellScript", "d3/d63/a22311.html#ae9a4734c9b12473f86c91a49860d56dd", null ],
+    [ "RecalculateDamage", "d3/d63/a22311.html#ad47d51e68c6ffe60f15beceaffc60b19", null ],
+    [ "Register", "d3/d63/a22311.html#a0dbeb30ba0eb22f4eb762f0a14cc6f39", null ]
 ];

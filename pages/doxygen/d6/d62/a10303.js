@@ -1,5 +1,6 @@
 var a10303 =
 [
-    [ "GuildEventLogQuery", "d6/d62/a10303.html#af66d667a4b722745fa4f855870ef332c", null ],
-    [ "Read", "d6/d62/a10303.html#a48881f116070d5a7c03e7cace86656f6", null ]
+    [ "LootScript", "d6/d62/a10303.html#a57fd5dffc97f62a595f0ff4c2856dbd4", null ],
+    [ "IsDatabaseBound", "d6/d62/a10303.html#ad60b605eac89be48efd339127e9cb9cd", null ],
+    [ "OnLootMoney", "d6/d62/a10303.html#a56a57baead49f6815a9979b181a55375", null ]
 ];

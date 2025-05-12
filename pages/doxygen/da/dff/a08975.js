@@ -1,9 +1,10 @@
 var a08975 =
 [
-    [ "NearestGameObjectTypeInObjectRangeCheck", "da/dff/a08975.html#a46cde63433cf803205006ad775fe73b5", null ],
-    [ "NearestGameObjectTypeInObjectRangeCheck", "da/dff/a08975.html#a4bf0dee77fb4979a02eebdc610995640", null ],
-    [ "operator()", "da/dff/a08975.html#ac41947606f4344e19edb13aa58f0a5a7", null ],
-    [ "i_obj", "da/dff/a08975.html#aca71a09421fdf412489f7f54cf4bc379", null ],
-    [ "i_range", "da/dff/a08975.html#a37f212d5cb1ef2b8d55e19b749861a17", null ],
-    [ "i_type", "da/dff/a08975.html#a68965425169b93053eadad91403855e0", null ]
+    [ "Flags", "da/dff/a08975.html#a5292a64de662f608915844d58199542f", null ],
+    [ "Icon", "da/dff/a08975.html#ab7460f125e05509baf9331e424b8bacf", null ],
+    [ "ID", "da/dff/a08975.html#a94b184ecd7c82419fa6d59a59c1d95da", null ],
+    [ "Importance", "da/dff/a08975.html#a623d8bdc2bf5eea161466340ae8e3cd1", null ],
+    [ "Name", "da/dff/a08975.html#a45c6eb50f0d56bbdabd6c3b3469c607c", null ],
+    [ "PositionX", "da/dff/a08975.html#a561763556f1ac77e988c350c37a3a0a1", null ],
+    [ "PositionY", "da/dff/a08975.html#abec7b2b3e649263f0b963f3fedef60fe", null ]
 ];

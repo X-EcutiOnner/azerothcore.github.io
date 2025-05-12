@@ -1,6 +1,8 @@
 var a13243 =
 [
-    [ "spell_uldaman_boss_agro_archaedas_SpellScript", "d0/d3a/a13247.html", "d0/d3a/a13247" ],
-    [ "spell_uldaman_boss_agro_archaedas", "d7/d9f/a13243.html#ae269234d4a671bb20f9b525c037dd120", null ],
-    [ "GetSpellScript", "d7/d9f/a13243.html#ac95cc338ef9ecf9f858d6eaf78c5eb49", null ]
+    [ "FilterTargets", "d7/d9f/a13243.html#a3aac5e364d04a4a086aaa911051417d5", null ],
+    [ "HandleDummy", "d7/d9f/a13243.html#aa0705dee3edeca7b61f82581f367e94a", null ],
+    [ "PrepareSpellScript", "d7/d9f/a13243.html#a1efa036eac25d789850849dc1b209379", null ],
+    [ "Register", "d7/d9f/a13243.html#a656b512d5bef657004a72acbf7875760", null ],
+    [ "Validate", "d7/d9f/a13243.html#a33534d9fd70af99bbde1e4a908d22084", null ]
 ];

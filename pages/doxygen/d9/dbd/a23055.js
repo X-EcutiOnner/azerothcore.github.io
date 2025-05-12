@@ -1,12 +1,15 @@
 var a23055 =
 [
-    [ "boss_fathomguard_sharkkis", "d9/dbd/a23055.html#affc3a4422ce62311879bef6df104c9b9", null ],
-    [ "EnterEvadeMode", "d9/dbd/a23055.html#a344072e382566575168cdcf57d0f6481", null ],
-    [ "JustDied", "d9/dbd/a23055.html#a1a4fdf91f6d8d0e3e0672e174152a59d", null ],
-    [ "JustEngagedWith", "d9/dbd/a23055.html#a5724db6f55f1c5ed2e351603a1b26943", null ],
-    [ "JustSummoned", "d9/dbd/a23055.html#a31098d1e91412b797663fe677114af20", null ],
-    [ "Reset", "d9/dbd/a23055.html#a5d8b89e2d4a203df5ec574b96df0d489", null ],
-    [ "UpdateAI", "d9/dbd/a23055.html#ab71689fda10d6d31dd2bfc72026bd755", null ],
-    [ "_instance", "d9/dbd/a23055.html#ad3dc90987a8b01fcd55799f66d18906c", null ],
-    [ "_summons", "d9/dbd/a23055.html#a73f887b3f829027fc336a8e4a9c5b963", null ]
+    [ "boss_hydross_the_unstable", "d9/dbd/a23055.html#a8e385f4f7f448033b00828540aa16cde", null ],
+    [ "JustDied", "d9/dbd/a23055.html#ad05fa00eade9614ed54b03a9a4d5d348", null ],
+    [ "JustEngagedWith", "d9/dbd/a23055.html#a4fd2138ce9962d89410b57702d7df33d", null ],
+    [ "JustReachedHome", "d9/dbd/a23055.html#a03cbe48effc4cd3a2821312e60578ed4", null ],
+    [ "JustSummoned", "d9/dbd/a23055.html#a3e9031d95c9e62cbd83eeba4af6c965a", null ],
+    [ "KilledUnit", "d9/dbd/a23055.html#a252d3abdf24c06922c88823bc5e535f3", null ],
+    [ "Reset", "d9/dbd/a23055.html#a0bcad41c74800ab58df8b5ea54d2ec8e", null ],
+    [ "SetForm", "d9/dbd/a23055.html#ac80b0611533998d15406d45385d37629", null ],
+    [ "SummonedCreatureDespawn", "d9/dbd/a23055.html#afe4b76f528045506586f8289eaee27aa", null ],
+    [ "SummonMovementInform", "d9/dbd/a23055.html#af74b63bf239de38f8dd04e69a6ea2b54", null ],
+    [ "SummonTaintedElementalOOC", "d9/dbd/a23055.html#a219094dc5a81acb7d7ae86d5d7945da8", null ],
+    [ "_recentlySpoken", "d9/dbd/a23055.html#acfd0f1a6331b08659c5fffa7850d30b4", null ]
 ];

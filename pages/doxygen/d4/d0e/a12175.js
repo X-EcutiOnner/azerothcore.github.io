@@ -1,6 +1,7 @@
 var a12175 =
 [
-    [ "instance_molten_core_InstanceMapScript", "d2/d4f/a12179.html", "d2/d4f/a12179" ],
-    [ "instance_molten_core", "d4/d0e/a12175.html#ad83dac834feb2fcae872dfe09b833950", null ],
-    [ "GetInstanceScript", "d4/d0e/a12175.html#ab7c794f1503f0ecad8d41ace72737a5d", null ]
+    [ "HandleScript", "d4/d0e/a12175.html#a0d244cc1785b136bae0960d697dc761d", null ],
+    [ "PrepareSpellScript", "d4/d0e/a12175.html#a13f3ebef30c315c02090ee3a19a156e4", null ],
+    [ "Register", "d4/d0e/a12175.html#a3871fb036ec6e0ea006f869c21e88c8f", null ],
+    [ "Validate", "d4/d0e/a12175.html#a1413754f3a79caf8ec57d394c68f3499", null ]
 ];

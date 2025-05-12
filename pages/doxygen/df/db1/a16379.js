@@ -1,10 +1,7 @@
 var a16379 =
 [
-    [ "npc_mistress_of_painAI", "df/db1/a16379.html#ae5fd3c974a3f32540b2dee6b92cd4f7c", null ],
-    [ "EnterEvadeMode", "df/db1/a16379.html#a31ea8955ad44ea2db0a5a208fd2efc61", null ],
-    [ "JustDied", "df/db1/a16379.html#ae60f294f902a2f687446f7599d071e42", null ],
-    [ "Reset", "df/db1/a16379.html#ab3c1c19817576cc4348fd2020a6aad14", null ],
-    [ "SpellHit", "df/db1/a16379.html#a077843a7ead2034da695be816de42f9e", null ],
-    [ "UpdateAI", "df/db1/a16379.html#a1976a80f37a0935926508f9ad6cc7bbb", null ],
-    [ "events", "df/db1/a16379.html#a941ae1faab010551db6a8e6749993357", null ]
+    [ "npc_toc_rogueAI", "df/db1/a16379.html#a34027e7d10edbfba8e046f4785e37899", null ],
+    [ "myCanCast", "df/db1/a16379.html#a85ed8e251dd8356e678536f1e3f3c93d", null ],
+    [ "UpdateAI", "df/db1/a16379.html#a49b0655def227684f07bd60a3c1e0ce1", null ],
+    [ "events", "df/db1/a16379.html#a1519bebb81b64d57b2b0b34a059b83f8", null ]
 ];

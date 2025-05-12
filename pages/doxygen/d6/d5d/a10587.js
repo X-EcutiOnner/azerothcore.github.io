@@ -1,6 +1,5 @@
 var a10587 =
 [
-    [ "PetUnlearnedSpell", "d6/d5d/a10587.html#aa2b125a271228aee0d942a207de170b7", null ],
-    [ "Write", "d6/d5d/a10587.html#a11cf7780eba530026a0898bfafd27109", null ],
-    [ "SpellID", "d6/d5d/a10587.html#adfca5feb5be2408e489edc44e9cd215b", null ]
+    [ "Flags", "d6/d5d/a10587.html#af1d25fa760cdbfa907a1b6e0002f0e70", null ],
+    [ "WithdrawItemLimit", "d6/d5d/a10587.html#aa7bb5355ee174f3b9dd32c659e0f7806", null ]
 ];

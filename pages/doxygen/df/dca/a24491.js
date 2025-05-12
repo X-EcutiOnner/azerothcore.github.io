@@ -1,9 +1,7 @@
 var a24491 =
 [
-    [ "Absorb", "df/dca/a24491.html#ade7f8805491a627cf3e8accdee178f3e", null ],
-    [ "CalculateAmount", "df/dca/a24491.html#a1194d2bd96632cbc3eab58300a5f9a46", null ],
-    [ "Load", "df/dca/a24491.html#a49277dbcc2d7cc79f29226e9b242120b", null ],
-    [ "PrepareAuraScript", "df/dca/a24491.html#a9eb3dc519bd595b7c0193ae3519c136e", null ],
-    [ "Register", "df/dca/a24491.html#a730528baddf2087fb1c0898ac7ad76c5", null ],
-    [ "absorbPct", "df/dca/a24491.html#a58c03a57bdfcba203159ae38683fdf14", null ]
+    [ "CorpseExplosionCheck", "df/dca/a24491.html#aa8b7957705df1d878f5123ffa31a7fd7", null ],
+    [ "operator()", "df/dca/a24491.html#aeab379880a8d912d6d0f7b41639edbd4", null ],
+    [ "_allowGhoul", "df/dca/a24491.html#abd42a0731af969ceccdfceae722ba276", null ],
+    [ "_casterGUID", "df/dca/a24491.html#a497df87745f452716c652e9b1be6d46f", null ]
 ];

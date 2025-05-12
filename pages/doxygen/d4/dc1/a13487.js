@@ -1,7 +1,10 @@
 var a13487 =
 [
-    [ "HandleScript", "d4/dc1/a13487.html#acd4373ab762d00d262984c36190d6f93", null ],
-    [ "PrepareSpellScript", "d4/dc1/a13487.html#a113216b272d0386f248a75bfcf30c6a3", null ],
-    [ "Register", "d4/dc1/a13487.html#abbf65c0cabb06141a5856210f5ce5ab8", null ],
-    [ "Validate", "d4/dc1/a13487.html#a5746fd6257dd10be58a61e0e8a2403be", null ]
+    [ "npc_sentinel_leader", "d4/dc1/a13487.html#a583c43b047dd5c172938d60ef647ecd5", null ],
+    [ "JustEngagedWith", "d4/dc1/a13487.html#a92c83a7fcc04df1db3be1d16f4a461d0", null ],
+    [ "MovementInform", "d4/dc1/a13487.html#a6d51ada16fac1f5eda8b09aede746a4b", null ],
+    [ "Reset", "d4/dc1/a13487.html#ad638ba6ce33753af6a0165c053a90d78", null ],
+    [ "UpdateAI", "d4/dc1/a13487.html#aa689bb8189eb8cf842a0aa63bb9f1a73", null ],
+    [ "_events", "d4/dc1/a13487.html#ada65bdf153ae9b3262b0f55fb540be17", null ],
+    [ "_helpCalled", "d4/dc1/a13487.html#a803c324e790cd74e90ff6c2adde37ba3", null ]
 ];

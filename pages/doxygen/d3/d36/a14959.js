@@ -1,9 +1,8 @@
 var a14959 =
 [
-    [ "boss_fankriss", "d3/d36/a14959.html#ab6b0ee6c1605aaf148dddd6a6f4788b9", null ],
-    [ "JustEngagedWith", "d3/d36/a14959.html#a9eaae719a271a95f64ac8076fe807c13", null ],
-    [ "Reset", "d3/d36/a14959.html#af84010ee103eb81c1e269b03fc640f81", null ],
-    [ "SummonHatchlingWaves", "d3/d36/a14959.html#a91420e51be346e1b9cfa4efbdec00d76", null ],
-    [ "SummonWorms", "d3/d36/a14959.html#ada23537921c3a11195450db89eb8fcfe", null ],
-    [ "summonWormSpells", "d3/d36/a14959.html#a4f9722f1c6aa27be798d4bacbdb5fac6", null ]
+    [ "npc_obsidian_destroyer", "d3/d36/a14959.html#abd8b1614a9da9fbe9c9898246b0822b8", null ],
+    [ "JustDied", "d3/d36/a14959.html#adc54ac02383f5e5bf6af980f5ba301e8", null ],
+    [ "JustEngagedWith", "d3/d36/a14959.html#aaf95dd2c92a5d1745311e4162aee8dbc", null ],
+    [ "Reset", "d3/d36/a14959.html#a08c6b9ec0e2f4207d48f95eedf2c26ab", null ],
+    [ "UpdateAI", "d3/d36/a14959.html#a79ba48d421a636f99ea65c0e34d084e1", null ]
 ];

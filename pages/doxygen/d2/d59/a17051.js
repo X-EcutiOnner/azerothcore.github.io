@@ -1,6 +1,6 @@
 var a17051 =
 [
-    [ "boss_eckAI", "d4/de2/a17055.html", "d4/de2/a17055" ],
-    [ "boss_eck", "d2/d59/a17051.html#aa445927936d7759a8c3289e2899181e5", null ],
-    [ "GetAI", "d2/d59/a17051.html#a335755ec7416d3e00a4070e03569293a", null ]
+    [ "entry", "d2/d59/a17051.html#af2cf5df64adf9ac1575a8217b103e738", null ],
+    [ "x", "d2/d59/a17051.html#aad21475d521921ea30cc0ae5d260ce69", null ],
+    [ "y", "d2/d59/a17051.html#abd69e1c28ad36466c82807ea0ffb0fb7", null ]
 ];

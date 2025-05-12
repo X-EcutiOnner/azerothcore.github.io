@@ -1,4 +1,4 @@
 var a29528 =
 [
-    [ "gOpenArchives", "d3/d13/a29528.html#a8ae40ebe73635e831bc65b70e7f97f3c", null ]
+    [ "_CRT_SECURE_NO_DEPRECATE", "d3/d13/a29528.html#a411c46599e926f8cdf49c63957255359", null ]
 ];

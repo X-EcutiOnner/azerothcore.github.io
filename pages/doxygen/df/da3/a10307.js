@@ -1,6 +1,5 @@
 var a10307 =
 [
-    [ "GuildEventLogQueryResults", "df/da3/a10307.html#af12c732cd5c81792c6f0cb5cacc096f9", null ],
-    [ "Write", "df/da3/a10307.html#aa24738cdd040a883782b50189abdf240", null ],
-    [ "Entry", "df/da3/a10307.html#a227ab5555fccf5c8c78ca10fa229d3d4", null ]
+    [ "MailScript", "df/da3/a10307.html#a009eaf9dd8d44427e8e5c91a92ebb5c5", null ],
+    [ "OnBeforeMailDraftSendMailTo", "df/da3/a10307.html#ab4e3f0552ffc705ef44e8ca6c36f2be7", null ]
 ];

@@ -1,11 +1,10 @@
 var a12355 =
 [
-    [ "boss_terestian_illhoof", "d1/dc9/a12355.html#a5750bf4f12ac01216335a926f885e136", null ],
-    [ "JustDied", "d1/dc9/a12355.html#a9039c0fb905e72e659ce62f9d36593ce", null ],
-    [ "JustEngagedWith", "d1/dc9/a12355.html#adc1f9195954eda7ec406ac9a084b7508", null ],
-    [ "JustSummoned", "d1/dc9/a12355.html#a8b156654dbd75a4a7626edf30a8aae78", null ],
-    [ "KilledUnit", "d1/dc9/a12355.html#ab7de8b406de200eec981fab79a56dcd7", null ],
-    [ "Reset", "d1/dc9/a12355.html#a685b00f0e3317740412adfc48df1c3fb", null ],
-    [ "SpellHit", "d1/dc9/a12355.html#a2f25021cfbc9e466d73c13de8116d8f1", null ],
-    [ "SummonKilrek", "d1/dc9/a12355.html#a0007e35a38efce5edada2f47a9bb89c6", null ]
+    [ "boss_golemaggAI", "d1/dc9/a12355.html#a79e2416a55a1531316d891ebff4e5575", null ],
+    [ "DamageTaken", "d1/dc9/a12355.html#a5f9191609c7ff0715ba186f8ae28262b", null ],
+    [ "Reset", "d1/dc9/a12355.html#aeed4cda9fae3e0b46832ec1bfecb97b0", null ],
+    [ "UpdateAI", "d1/dc9/a12355.html#af7b322731241dbb08041a92cd355f273", null ],
+    [ "earthquakeTimer", "d1/dc9/a12355.html#a6bfd75b1d57d8002cab075bbd5a12612", null ],
+    [ "enraged", "d1/dc9/a12355.html#a52e6d8bcf979d216aff536e8fae3bf01", null ],
+    [ "pyroblastTimer", "d1/dc9/a12355.html#a142ededff85d517c08744bdafd644c34", null ]
 ];

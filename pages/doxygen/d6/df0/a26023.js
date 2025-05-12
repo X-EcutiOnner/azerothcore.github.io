@@ -1,7 +1,6 @@
 var a26023 =
 [
-    [ "HandleScriptEffect", "d6/df0/a26023.html#a6c1ac025fa93caa08737387a18003612", null ],
-    [ "PrepareSpellScript", "d6/df0/a26023.html#acb5ad05212399b06ed9bb64bb9203069", null ],
-    [ "Register", "d6/df0/a26023.html#afbf989d514c308f466ecfd9957d2d177", null ],
-    [ "Validate", "d6/df0/a26023.html#a2f48b1903edef1a5bb8beeddc8879aa4", null ]
+    [ "HandleEffectCalcSpellMod", "d6/df0/a26023.html#a81395c735b9546632af71319067b575b", null ],
+    [ "PrepareAuraScript", "d6/df0/a26023.html#ad5a716f0644b1707aa6d179d564ceb80", null ],
+    [ "Register", "d6/df0/a26023.html#ae49a0ec525819981595c12839133a35b", null ]
 ];

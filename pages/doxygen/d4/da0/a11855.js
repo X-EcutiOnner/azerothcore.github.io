@@ -1,6 +1,6 @@
 var a11855 =
 [
-    [ "boss_broodlordAI", "da/d4c/a11859.html", "da/d4c/a11859" ],
-    [ "boss_broodlord", "d4/da0/a11855.html#a936f7eb723111877e2a5e3a85cb95b2b", null ],
-    [ "GetAI", "d4/da0/a11855.html#a5bd506c6f397608ce84496fa0fea2679", null ]
+    [ "boss_evisceratorAI", "da/d4c/a11859.html", "da/d4c/a11859" ],
+    [ "boss_eviscerator", "d4/da0/a11855.html#aca65400afa5ca9ca81043687d79cdad0", null ],
+    [ "GetAI", "d4/da0/a11855.html#a21203f69267ec93c46d9ff56321b8169", null ]
 ];

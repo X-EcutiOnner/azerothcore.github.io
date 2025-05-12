@@ -1,8 +1,12 @@
 var a22175 =
 [
-    [ "CheckCast", "dd/d8a/a22175.html#ab1584c391ac81b8338387acc6187001f", null ],
-    [ "HandleDummy", "dd/d8a/a22175.html#abe856e2c3b986eeac0c1a62aa301eb6d", null ],
-    [ "PrepareSpellScript", "dd/d8a/a22175.html#a08d9ffb7dcbe786071979166e0489336", null ],
-    [ "Register", "dd/d8a/a22175.html#a5f0bbd57f3cbc0d0de3d8830dd4e6f2b", null ],
-    [ "Validate", "dd/d8a/a22175.html#a82d931b4a15f6a60c27d932e8188ef78", null ]
+    [ "npc_time_lost_proto_drakeAI", "dd/d8a/a22175.html#ab98805519233eda932c6131aca059a8b", null ],
+    [ "JustEngagedWith", "dd/d8a/a22175.html#a14f41b30451b8ac8fe2411ec7102ae81", null ],
+    [ "Reset", "dd/d8a/a22175.html#a418ea9621040e3c717c4e24f73539f44", null ],
+    [ "RollPath", "dd/d8a/a22175.html#aabb3dd1d54a1290d500429efc8fa9e41", null ],
+    [ "UpdateEscortAI", "dd/d8a/a22175.html#a1a5442a5796b27d04eaa3ab62c613199", null ],
+    [ "WaypointReached", "dd/d8a/a22175.html#ad262b9dbc0edd2bac126fafbb5eb5f01", null ],
+    [ "events", "dd/d8a/a22175.html#aa2e4c3396d63d85a5d0abc8c74e58a79", null ],
+    [ "rollPath", "dd/d8a/a22175.html#a5431fd5a0801569bc03507818461aa7d", null ],
+    [ "setVisible", "dd/d8a/a22175.html#a63558b3406c241ecb27f3e485eeb439b", null ]
 ];

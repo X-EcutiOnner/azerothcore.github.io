@@ -1,6 +1,7 @@
 var a17111 =
 [
-    [ "instance_gundrak_InstanceMapScript", "d1/dfe/a17115.html", "d1/dfe/a17115" ],
-    [ "instance_gundrak", "d9/dc9/a17111.html#ad6acbbcd96740a011f2a72a63fb211c3", null ],
-    [ "GetInstanceScript", "d9/dc9/a17111.html#a738b4ea54d1e0d7b1db90b9cc3a9c83c", null ]
+    [ "HandleScriptEffect", "d9/dc9/a17111.html#a6469efa0e1fabaf1cb366f119a1158c1", null ],
+    [ "PrepareSpellScript", "d9/dc9/a17111.html#aac410690d906867216b40a49d8f15318", null ],
+    [ "Register", "d9/dc9/a17111.html#ae8c7acabe93fc33d13f0b8848415eabf", null ],
+    [ "Validate", "d9/dc9/a17111.html#a88c3961d5757dd0c75be4acc7de6e45b", null ]
 ];

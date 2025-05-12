@@ -1,6 +1,6 @@
 var a22179 =
 [
-    [ "npc_vics_flying_machineAI", "df/df3/a22183.html", "df/df3/a22183" ],
-    [ "npc_vics_flying_machine", "d0/db1/a22179.html#ac0f1e83a9f53f1e38e81804f0332e3fd", null ],
-    [ "GetAI", "d0/db1/a22179.html#aac2a7cabd2e87705e9a1b3bfebb89eae", null ]
+    [ "npc_wild_wyrmAI", "df/df3/a22183.html", "df/df3/a22183" ],
+    [ "npc_wild_wyrm", "d0/db1/a22179.html#abce8c3a368e75b4be5e05381f9eb722b", null ],
+    [ "GetAI", "d0/db1/a22179.html#aedba91446fe12997047070f123d925d2", null ]
 ];

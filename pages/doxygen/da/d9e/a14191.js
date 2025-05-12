@@ -1,6 +1,11 @@
 var a14191 =
 [
-    [ "HandleDummy", "da/d9e/a14191.html#a7e6ecd28a6b1f161619e179bc386388e", null ],
-    [ "PrepareSpellScript", "da/d9e/a14191.html#a87a787c6ab3804847c90266f570381c6", null ],
-    [ "Register", "da/d9e/a14191.html#ad5c7ab8f3bb74882eed42c6e0868ab70", null ]
+    [ "npc_high_oracle_soo_roo", "da/d9e/a14191.html#a86f5f3c3869e9fa7afcfc9425dfdfdde", null ],
+    [ "MoveInLineOfSight", "da/d9e/a14191.html#ae3b4da2d6b888cf6325bb93b3fdbde7f", null ],
+    [ "Reset", "da/d9e/a14191.html#a89a60a83a46e0095045b2353e50483ed", null ],
+    [ "UpdateAI", "da/d9e/a14191.html#ac22cfa519e478da643a51ae887f306fd", null ],
+    [ "orphanGUID", "da/d9e/a14191.html#acd6636eb290a2fe4470b04d467ff7fa1", null ],
+    [ "phase", "da/d9e/a14191.html#abeec923d25d21773f9d8f8ba1deb0148", null ],
+    [ "playerGUID", "da/d9e/a14191.html#a329832491f86c6fcc9ccc4c98b19991e", null ],
+    [ "timer", "da/d9e/a14191.html#aa5238d3ee361374681947de874391a1f", null ]
 ];

@@ -1,6 +1,6 @@
 var a18399 =
 [
-    [ "HandleScript", "db/d32/a18399.html#a930b8a515b5d156c16925dc218cf8172", null ],
-    [ "PrepareSpellScript", "db/d32/a18399.html#a892b0ba0f6541b3557a0200be5028479", null ],
-    [ "Register", "db/d32/a18399.html#a1eb85bc675a89ef9679e673c1fea9a08", null ]
+    [ "npc_valithria_cloudAI", "de/d94/a18403.html", "de/d94/a18403" ],
+    [ "npc_valithria_cloud", "db/d32/a18399.html#a11d1bdc4c6e8210e2d0706f33d369dde", null ],
+    [ "GetAI", "db/d32/a18399.html#afeff905cec1245dbac6fa59673aef015", null ]
 ];

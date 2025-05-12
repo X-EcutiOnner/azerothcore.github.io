@@ -1,6 +1,7 @@
 var a14695 =
 [
-    [ "instance_dire_maul_InstanceMapScript", "d5/d78/a14699.html", "d5/d78/a14699" ],
-    [ "instance_dire_maul", "dd/dee/a14695.html#a54ac2c7095a99481c7efbe4237533fac", null ],
-    [ "GetInstanceScript", "dd/dee/a14695.html#a7fc2511e0c9475512286006f0bbaed0b", null ]
+    [ "boss_epoch_hunter", "dd/dee/a14695.html#a652d14ebfced39b8164687a713780600", null ],
+    [ "JustDied", "dd/dee/a14695.html#a38d3cbed2ce8f810fd169e0004fd91dc", null ],
+    [ "JustEngagedWith", "dd/dee/a14695.html#a2571f98f36d1271f3911617e0fdfba54", null ],
+    [ "KilledUnit", "dd/dee/a14695.html#a61456e680e9108dd841e83d97536ef1b", null ]
 ];

@@ -1,6 +1,6 @@
 var a10695 =
 [
-    [ "WorldSession", "d0/dbf/a10695.html#a65b5c30bf4f5f118a199e378d903aaf6", null ],
-    [ "Guid", "d0/dbf/a10695.html#a46a89b6904e59f39f4e1460a9bb45765", null ],
-    [ "Name", "d0/dbf/a10695.html#a4e747a555bde74f97a5fc78287e5e29d", null ]
+    [ "GuildBankTextQuery", "d0/dbf/a10695.html#ab74c6b61182349e3697d6b8f2f3393d2", null ],
+    [ "Read", "d0/dbf/a10695.html#af20bd5c8e58b891028613625fb14807d", null ],
+    [ "Tab", "d0/dbf/a10695.html#a368054d83fb99317ffd14b4d79ffd0af", null ]
 ];

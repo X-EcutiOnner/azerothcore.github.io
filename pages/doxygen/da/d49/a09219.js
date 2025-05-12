@@ -1,15 +1,9 @@
 var a09219 =
 [
-    [ "LogHolder", "da/d49/a09219.html#a3432ee2f32857bd02e75fdb5ba922bd1", null ],
-    [ "AddEvent", "da/d49/a09219.html#a5f6d81d9048290815053bb4aa3531d73", null ],
-    [ "CanInsert", "da/d49/a09219.html#aefdb4e57b5bf35b00564491547e6e2a9", null ],
-    [ "GetGuildId", "da/d49/a09219.html#ada98449548b389a1cd8177087e3aa5e8", null ],
-    [ "GetGuildLog", "da/d49/a09219.html#a17593c12663e8c4251f94636e511c73a", null ],
-    [ "GetGuildLog", "da/d49/a09219.html#ae43929001324d6bece4e45bc95115535", null ],
-    [ "GetNextGUID", "da/d49/a09219.html#aed00250b6a1036a91dd971af510f7750", null ],
-    [ "LoadEvent", "da/d49/a09219.html#a22e87750252d1c4f62f2e5686a2e008d", null ],
-    [ "m_guildId", "da/d49/a09219.html#a3827f9fb3fc13300f60d9f7dd27154c7", null ],
-    [ "m_log", "da/d49/a09219.html#aca25adbc1c1e9397c837a53793568b64", null ],
-    [ "m_maxRecords", "da/d49/a09219.html#a755788eaede72a131f74ae7de88c37b4", null ],
-    [ "m_nextGUID", "da/d49/a09219.html#a267cecce9b2f244235800c93a086e8e2", null ]
+    [ "CreatureSearcher", "da/d49/a09219.html#ac6fc899c41c2a93f530fa53c693f0df8", null ],
+    [ "Visit", "da/d49/a09219.html#a50630891bfb459c6c526b3e4e7e29136", null ],
+    [ "Visit", "da/d49/a09219.html#a503aab809be6f5d60c020e89c64dce7b", null ],
+    [ "i_check", "da/d49/a09219.html#abc72e56d9453d798fcb457aff023d3ac", null ],
+    [ "i_object", "da/d49/a09219.html#af31c7a1cf3f03a42d7fe66836e306b85", null ],
+    [ "i_phaseMask", "da/d49/a09219.html#a5fa5777da405c57700a7e1ea7d5f94cf", null ]
 ];

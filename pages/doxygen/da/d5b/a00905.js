@@ -1,13 +1,22 @@
 var a00905 =
 [
-    [ "instance_sunken_temple", "d6/d8e/a13116.html", "d6/d8e/a13116" ],
-    [ "instance_sunken_temple::instance_sunken_temple_InstanceMapScript", "db/da4/a13120.html", "db/da4/a13120" ],
-    [ "at_malfurion_stormrage", "dd/d3f/a13124.html", "dd/d3f/a13124" ],
-    [ "spell_temple_of_atal_hakkar_hex_of_jammal_an_aura", "d9/d59/a13128.html", "d9/d59/a13128" ],
-    [ "spell_temple_of_atal_hakkar_awaken_the_soulflayer", "d8/d61/a13132.html", "d8/d61/a13132" ],
-    [ "MalfurionMisc", "da/d5b/a00905.html#a754fcfafd80b5a6c2ea444f49cfbc7d1", [
-      [ "QUEST_ERANIKUS_TYRANT_OF_DREAMS", "da/d5b/a00905.html#a754fcfafd80b5a6c2ea444f49cfbc7d1a99089f2ff32693b053abae21941aed5d", null ],
-      [ "QUEST_THE_CHARGE_OF_DRAGONFLIGHTS", "da/d5b/a00905.html#a754fcfafd80b5a6c2ea444f49cfbc7d1aabeeb62adbb72d2616aa2e6e393f2526", null ]
+    [ "npc_braug_dimspirit", "d1/dc2/a15491.html", "d1/dc2/a15491" ],
+    [ "npc_kaya_flathoof", "d1/d9b/a15495.html", "d1/d9b/a15495" ],
+    [ "npc_kaya_flathoof::npc_kaya_flathoofAI", "d7/d24/a15499.html", "d7/d24/a15499" ],
+    [ "GOSSIP_HBD1", "da/d5b/a00905.html#a487e562e5e99ccd61aa7e93289874033", null ],
+    [ "GOSSIP_HBD2", "da/d5b/a00905.html#adc43152833884ed78e5debdaaf5d500d", null ],
+    [ "GOSSIP_HBD3", "da/d5b/a00905.html#aced35316178914dd542d4750f8bbb6cf", null ],
+    [ "GOSSIP_HBD4", "da/d5b/a00905.html#a182f8c24fa1421c6a7c68e289491400e", null ],
+    [ "GOSSIP_HBD5", "da/d5b/a00905.html#a34cc0e8072e5c86b2dd23a03fbc8f024", null ],
+    [ "Kaya", "da/d5b/a00905.html#ab10ce9d7e7d19709d0e99ef45b935f15", [
+      [ "FACTION_ESCORTEE_H", "da/d5b/a00905.html#ab10ce9d7e7d19709d0e99ef45b935f15a189eaa6b201834d1bd3182efbd449c1f", null ],
+      [ "NPC_GRIMTOTEM_RUFFIAN", "da/d5b/a00905.html#ab10ce9d7e7d19709d0e99ef45b935f15a01961a91f321286d0ab25df44697f94f", null ],
+      [ "NPC_GRIMTOTEM_BRUTE", "da/d5b/a00905.html#ab10ce9d7e7d19709d0e99ef45b935f15ac4f5df2a1f9d7cd9aba151ebfa864967", null ],
+      [ "NPC_GRIMTOTEM_SORCERER", "da/d5b/a00905.html#ab10ce9d7e7d19709d0e99ef45b935f15ac5803d139c1801ccfdba4b115381afd6", null ],
+      [ "SAY_START", "da/d5b/a00905.html#ab10ce9d7e7d19709d0e99ef45b935f15a2eae21cbf7d110ee89a9798ef6f00239", null ],
+      [ "SAY_AMBUSH", "da/d5b/a00905.html#ab10ce9d7e7d19709d0e99ef45b935f15a68cb8abe7aeb84b5de4ba23b8f814d1e", null ],
+      [ "SAY_END", "da/d5b/a00905.html#ab10ce9d7e7d19709d0e99ef45b935f15a40884932ffbbf14d6c380b9022bcfe97", null ],
+      [ "QUEST_PROTECT_KAYA", "da/d5b/a00905.html#ab10ce9d7e7d19709d0e99ef45b935f15a4a8a823950ae7fb8722359672b427cc6", null ]
     ] ],
-    [ "AddSC_instance_sunken_temple", "da/d5b/a00905.html#ab3f2a91fe096585f54078e8884cb25f7", null ]
+    [ "AddSC_stonetalon_mountains", "da/d5b/a00905.html#a985f3fb3a28d1163b27b5de21b1ec6cf", null ]
 ];

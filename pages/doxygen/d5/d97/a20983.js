@@ -1,6 +1,9 @@
 var a20983 =
 [
-    [ "npc_vrykul_skeletonAI", "da/d0e/a20987.html", "da/d0e/a20987" ],
-    [ "npc_vrykul_skeleton", "d5/d97/a20983.html#a08b79a9baba3cd05768d13ff36b6ed42", null ],
-    [ "GetAI", "d5/d97/a20983.html#a74292cbb6f83ef9b6b90febda02570a5", null ]
+    [ "npc_vrykul_skeleton", "d5/d97/a20983.html#afda2014efb0ce63ee41c46cf2ad6c130", null ],
+    [ "DamageTaken", "d5/d97/a20983.html#a840244c4183987e4fda533edb2ddeff2", null ],
+    [ "Reset", "d5/d97/a20983.html#af950342b2177c84c101485736855b998", null ],
+    [ "UpdateAI", "d5/d97/a20983.html#a80cd072eef6b0bf03a9a6a2fe22e252a", null ],
+    [ "events", "d5/d97/a20983.html#a897bb5b5519f6f507bca49c5c5de17f6", null ],
+    [ "pInstance", "d5/d97/a20983.html#a834f0162540683c20f9fa0f9e32eee33", null ]
 ];

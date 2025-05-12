@@ -1,5 +1,6 @@
 var a13807 =
 [
-    [ "at_zulgurub_entrance_speech", "d0/d2d/a13807.html#afef11c6a7e97befd07072826fa13be55", null ],
-    [ "_OnTrigger", "d0/d2d/a13807.html#a55cda55ed70c63f2a0b2ce39b2ffc0a5", null ]
+    [ "npc_eagle_trash_aggro_trigger", "d0/d2d/a13807.html#a9d41e8abe764fd0f8cedd888418aafb2", null ],
+    [ "MoveInLineOfSight", "d0/d2d/a13807.html#aa8892e7f2bec9f26320cd9749e648ebd", null ],
+    [ "_instance", "d0/d2d/a13807.html#a39a222e1eb0a3378c8fcaf1da5629547", null ]
 ];

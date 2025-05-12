@@ -1,7 +1,6 @@
 var a15743 =
 [
-    [ "HandleEffectRemove", "d2/d56/a15743.html#a45ed6d3f1c80dcef3ee6c59e744f13c6", null ],
-    [ "PrepareAuraScript", "d2/d56/a15743.html#a34b88963dd81e6a8855daaedb9c238d4", null ],
-    [ "Register", "d2/d56/a15743.html#a7c0533650e772713233ea45b0264cbff", null ],
-    [ "Validate", "d2/d56/a15743.html#a7690603bd7b01ca6da2a73ac8ed36114", null ]
+    [ "ModDestHeight", "d2/d56/a15743.html#a8bda9327c4244af41c513528ad5c818c", null ],
+    [ "PrepareSpellScript", "d2/d56/a15743.html#aba5a03c94fa5d87c46a91369875c0ab2", null ],
+    [ "Register", "d2/d56/a15743.html#a62b0ce71caeff96705b15aa240ddd09f", null ]
 ];

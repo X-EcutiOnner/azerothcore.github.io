@@ -1,7 +1,6 @@
 var a19211 =
 [
-    [ "HandlePull", "d8/da0/a19211.html#a05e6155abeb2720923ddf0d8cae54feb", null ],
-    [ "PrepareSpellScript", "d8/da0/a19211.html#ac192245513e162a2842e47f5b0d64338", null ],
-    [ "Register", "d8/da0/a19211.html#af6c7a881c2fcf07461006fef63074e5e", null ],
-    [ "SelectTarget", "d8/da0/a19211.html#aabee5b6b8f3ba7e2cf91bcb05ce7929d", null ]
+    [ "ChargeRifts", "d8/da0/a19211.html#aec98a12dec1f2ad98e00d399b0e2a1d5", null ],
+    [ "Execute", "d8/da0/a19211.html#a8d01bf861d37c25413dc14eee16a2939", null ],
+    [ "_caster", "d8/da0/a19211.html#a3cbf5f7e26de337dadd9d96a43d728b0", null ]
 ];

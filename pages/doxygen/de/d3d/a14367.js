@@ -1,6 +1,5 @@
 var a14367 =
 [
-    [ "PrepareAuraScript", "de/d3d/a14367.html#a80660b1417ab33edaf2c4cd517e10e30", null ],
-    [ "RecalculateHook", "de/d3d/a14367.html#af3952993947dfb24381083d21a9e64cb", null ],
-    [ "Register", "de/d3d/a14367.html#ab7f0aa924dfe8043e44cd794f72e4555", null ]
+    [ "PrepareSpellScript", "de/d3d/a14367.html#a50ee42c11937759b6c52c2ab994481c4", null ],
+    [ "Register", "de/d3d/a14367.html#a8dc12a723c2da948c38119e3fc34df35", null ]
 ];

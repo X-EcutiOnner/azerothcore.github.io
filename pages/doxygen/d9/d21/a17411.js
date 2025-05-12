@@ -1,6 +1,7 @@
 var a17411 =
 [
-    [ "npc_high_overlord_saurfang_igbAI", "d9/df5/a17415.html", "d9/df5/a17415" ],
-    [ "npc_high_overlord_saurfang_igb", "d9/d21/a17411.html#ae68d42f65851a753874705511bb83330", null ],
-    [ "GetAI", "d9/d21/a17411.html#a54b6da97a40665232d28a20bac9b7ef3", null ]
+    [ "HandleScript", "d9/d21/a17411.html#a101e5e995dd27dcc6b6a4b475eed0989", null ],
+    [ "PrepareSpellScript", "d9/d21/a17411.html#a8f668b88a41585cabeace574b30b4f85", null ],
+    [ "Register", "d9/d21/a17411.html#a8fae161a91fae297b99079bde218ced8", null ],
+    [ "Validate", "d9/d21/a17411.html#a4d1a8c28eefff22afdbf15ab57a6a7fd", null ]
 ];

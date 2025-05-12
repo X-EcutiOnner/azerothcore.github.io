@@ -1,4 +1,7 @@
 var a04130 =
 [
-    [ "ScriptRegistry< ArenaScript >", "d7/ded/a04130.html#a0e29d9894321e9d406e8b7c8709f0eba", null ]
+    [ "UpdateResult", "df/df8/a05883.html", "df/df8/a05883" ],
+    [ "UpdateFetcher", "d9/d99/a05887.html", "d9/d99/a05887" ],
+    [ "UpdateFetcher::AppliedFileEntry", "db/d5e/a05891.html", "db/d5e/a05891" ],
+    [ "UpdateFetcher::PathCompare", "d0/d49/a05895.html", "d0/d49/a05895" ]
 ];

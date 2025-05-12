@@ -1,5 +1,5 @@
 var a11491 =
 [
-    [ "go_shadowforge_brazier", "da/d64/a11491.html#aafc1d2e865294bb102c918d6016aab4b", null ],
-    [ "OnGossipHello", "da/d64/a11491.html#a83b188cd2ee68e1ebfe75060465f8f38", null ]
+    [ "data", "d8/dfa/a04756.html#ga4e97bd1d129d33b86a11c79c8cfa437b", null ],
+    [ "ScriptId", "d8/dfa/a04756.html#gaa452a9be01e00154512cb55980737ae6", null ]
 ];

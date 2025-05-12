@@ -1,6 +1,8 @@
 var a12663 =
 [
-    [ "HandleScriptEffect", "da/d3b/a12663.html#af265f0bba7028f45763a7f9afea2d051", null ],
-    [ "PrepareSpellScript", "da/d3b/a12663.html#a27518fd5482e65e0324100057e747d68", null ],
-    [ "Register", "da/d3b/a12663.html#a07789d7d092eb1b6633200442466c52b", null ]
+    [ "npc_cyclone", "da/d3b/a12663.html#afdc4f98b031f832702929c6a7f192ab5", null ],
+    [ "JustEngagedWith", "da/d3b/a12663.html#a61d0710868c91f707643a436c0d79485", null ],
+    [ "Reset", "da/d3b/a12663.html#a60b74a96fccc12333b9dc3ed67a54637", null ],
+    [ "UpdateAI", "da/d3b/a12663.html#a224795b4ea46fc2c9346e361410f0c0f", null ],
+    [ "_scheduler", "da/d3b/a12663.html#a77f4d42ff45e0565f2d9ee5b27787ffd", null ]
 ];

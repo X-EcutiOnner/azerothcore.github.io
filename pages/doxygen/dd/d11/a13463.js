@@ -1,8 +1,12 @@
 var a13463 =
 [
-    [ "npc_varian_wrynnAI", "d2/d9f/a13467.html", "d2/d9f/a13467" ],
-    [ "npc_varian_wrynn", "dd/d11/a13463.html#a1dd8e4664da693f3e4ecdd4581b96c87", null ],
-    [ "GetAI", "dd/d11/a13463.html#aa5aa46f24a128e84ac2a837c012b2e02", null ],
-    [ "OnGossipHello", "dd/d11/a13463.html#a95f6ff3f2a7db807b278d019e187ddec", null ],
-    [ "OnGossipSelect", "dd/d11/a13463.html#a65d02bafebe9c5a45d707f8990d680a3", null ]
+    [ "npc_cameron", "dd/d11/a13463.html#a45e47ec5c9dadc6f0899e83ac2e19cff", null ],
+    [ "MoveTheChildren", "dd/d11/a13463.html#a85ae436f19f69ffb853330f01ee152a0", null ],
+    [ "PathEndReached", "dd/d11/a13463.html#a0bf53f40eeb4fe3ed7d62988bee0a912", null ],
+    [ "sOnGameEvent", "dd/d11/a13463.html#ab22841871cfcdc926b28296a5b4e440c", null ],
+    [ "SoundPicker", "dd/d11/a13463.html#a2ad97aaac0bd759921e0b75cfc88d07d", null ],
+    [ "UpdateAI", "dd/d11/a13463.html#a32a2dd2be2c06700fb81f4072a364ce2", null ],
+    [ "_childrenGUIDs", "dd/d11/a13463.html#ad260466902e8fb1a2e02998cc4549695", null ],
+    [ "_events", "dd/d11/a13463.html#ad6c58f433520c4ed55f43ef3604dde28", null ],
+    [ "_started", "dd/d11/a13463.html#a985d0590eedde340a3923e299d4dffd8", null ]
 ];

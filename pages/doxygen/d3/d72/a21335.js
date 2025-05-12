@@ -1,11 +1,10 @@
 var a21335 =
 [
-    [ "npc_vh_void_sentryAI", "d3/d72/a21335.html#a312f4bbc07e6d786e85c2b4e89d36344", null ],
-    [ "DoAction", "d3/d72/a21335.html#a0bc95eea54b5cdc16a4d3f588f3ff900", null ],
-    [ "JustDied", "d3/d72/a21335.html#add5121ed38a74be9ae168df5f893f89e", null ],
-    [ "SummonedCreatureDespawn", "d3/d72/a21335.html#a24ff36cdb049da7c67c1f041361e17e4", null ],
-    [ "UpdateAI", "d3/d72/a21335.html#ae1f683d5ef920213c9c86da35c626381", null ],
-    [ "checkTimer", "d3/d72/a21335.html#a675bcae4119e45490403013534c731ef", null ],
-    [ "pInstance", "d3/d72/a21335.html#a7527473944681143bab89fd12b475645", null ],
-    [ "SummonedGUID", "d3/d72/a21335.html#a4420eb2cf4d3b6d161355b0f4ad9516d", null ]
+    [ "npc_azure_binderAI", "d3/d72/a21335.html#ad532d350493a35804660f90a9f00f3cf", null ],
+    [ "Reset", "d3/d72/a21335.html#aa317ce32f3439286e9a4ac0928d48b3a", null ],
+    [ "UpdateAI", "d3/d72/a21335.html#a322ae0210ccb24206aee49c4fa7fe2bc", null ],
+    [ "uiArcainBarrageTimer", "d3/d72/a21335.html#a0e577611e3e11209cc175cd71cd86bc9", null ],
+    [ "uiArcaneExplosionTimer", "d3/d72/a21335.html#aa5cc777f777166e88a21e98a4ce2b8d3", null ],
+    [ "uiFrostboltTimer", "d3/d72/a21335.html#a405ec0f2d92e4a1f5f7901e725465604", null ],
+    [ "uiFrostNovaTimer", "d3/d72/a21335.html#a0f6396376e14711f87f1a046728ce386", null ]
 ];

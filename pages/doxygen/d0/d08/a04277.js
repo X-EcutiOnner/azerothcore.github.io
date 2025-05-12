@@ -1,12 +1,15 @@
 var a04277 =
 [
-    [ "ArenaTeamScript", "dc/de2/a10208.html", "dc/de2/a10208" ],
-    [ "ArenaTeamHook", "d0/d08/a04277.html#adfb7077026efd17516d6b85637c2b218", [
-      [ "ARENATEAMHOOK_ON_GET_SLOT_BY_TYPE", "d0/d08/a04277.html#adfb7077026efd17516d6b85637c2b218a138fd48dae9a6b0db50dd8a442045adc", null ],
-      [ "ARENATEAMHOOK_ON_GET_ARENA_POINTS", "d0/d08/a04277.html#adfb7077026efd17516d6b85637c2b218a3b21f54389f578130e4874fd75c7e6a9", null ],
-      [ "ARENATEAMHOOK_ON_TYPEID_TO_QUEUEID", "d0/d08/a04277.html#adfb7077026efd17516d6b85637c2b218ae5c1d8d5548693d43fdd43339ef152a7", null ],
-      [ "ARENATEAMHOOK_ON_QUEUEID_TO_ARENA_TYPE", "d0/d08/a04277.html#adfb7077026efd17516d6b85637c2b218a957830b5a4fb9d7a53b977999068031b", null ],
-      [ "ARENATEAMHOOK_ON_SET_ARENA_MAX_PLAYERS_PER_TEAM", "d0/d08/a04277.html#adfb7077026efd17516d6b85637c2b218aaf39f25b1610466743d5d839986bf6b6", null ],
-      [ "ARENATEAMHOOK_END", "d0/d08/a04277.html#adfb7077026efd17516d6b85637c2b218a5fe29b394fe4fe74fffe7988b90ccaf7", null ]
-    ] ]
+    [ "RandomEngine", "db/d89/a05467.html", "db/d89/a05467" ],
+    [ "frand", "d0/d08/a04277.html#aa28484fcb823a22578601847e4b0ddb4", null ],
+    [ "irand", "d0/d08/a04277.html#a0a5e53ee066789ecb565abc05fe36dbc", null ],
+    [ "rand32", "d0/d08/a04277.html#ab91ed86274e1e52eb314784862b61696", null ],
+    [ "rand_chance", "d0/d08/a04277.html#a60564a0d93e0c87809379e0c1fa7acd1", null ],
+    [ "rand_norm", "d0/d08/a04277.html#ad552d8147f66d6ec0cd44271e8799599", null ],
+    [ "randtime", "d0/d08/a04277.html#a2fc61a89dc958460e6eabe08d87a4021", null ],
+    [ "roll_chance_f", "d0/d08/a04277.html#a4b15099bc81731469c5078a778673c94", null ],
+    [ "roll_chance_i", "d0/d08/a04277.html#a50320d4edff86db31b25138ae72161ad", null ],
+    [ "urand", "d0/d08/a04277.html#a3648faa6a1353eac6d2eec0b399c5aba", null ],
+    [ "urandms", "d0/d08/a04277.html#a1a4ee564518371004a4d34135600bfa0", null ],
+    [ "urandweighted", "d0/d08/a04277.html#a673de62907a2657190e58678691d3b36", null ]
 ];

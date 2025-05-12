@@ -1,7 +1,6 @@
 var a15935 =
 [
-    [ "HandleDummy", "d6/dbb/a15935.html#ad0782bfbd977954aac6170ee9111aef6", null ],
-    [ "PrepareSpellScript", "d6/dbb/a15935.html#ac456524856c4a3c4913423693a8fd50c", null ],
-    [ "Register", "d6/dbb/a15935.html#a82d88c5dac164eb9dee9883a91edd0df", null ],
-    [ "Validate", "d6/dbb/a15935.html#a2cf4ee02293cee5e383e99efe14e0008", null ]
+    [ "npc_baltharus_the_warborn_cloneAI", "d5/d0e/a15939.html", "d5/d0e/a15939" ],
+    [ "npc_baltharus_the_warborn_clone", "d6/dbb/a15935.html#a7ed0731a015709ecd3c0c26fafb795ff", null ],
+    [ "GetAI", "d6/dbb/a15935.html#a87b50fbc3a67345f375b41c3cb2ba754", null ]
 ];

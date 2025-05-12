@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/game/Scripting/ScriptDefines/MiscScript.h File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/common/Utilities/ByteConverter.h File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,139 +105,328 @@ $(document).ready(function(){initNavTree('de/dc3/a04319.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#nested-classes">Classes</a> &#124;
-<a href="#enum-members">Enumerations</a>  </div>
-  <div class="headertitle"><div class="title">MiscScript.h File Reference</div></div>
+<a href="#namespaces">Namespaces</a> &#124;
+<a href="#func-members">Functions</a>  </div>
+  <div class="headertitle"><div class="title">ByteConverter.h File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">ObjectGuid.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ScriptObject.h</a>&quot;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">Define.h</a>&quot;</code><br />
 <code>#include &lt;vector&gt;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
-Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d4c/a10308.html">MiscScript</a></td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="namespaces" name="namespaces"></a>
+Namespaces</h2></td></tr>
+<tr class="memitem:d6/db2/a04780"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/db2/a04780.html">ByteConverter</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
-Enumerations</h2></td></tr>
-<tr class="memitem:af37f873b1735a7e1f78da6f2f334c134"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/dc3/a04319.html#af37f873b1735a7e1f78da6f2f334c134">MiscHook</a> { <br />
-&#160;&#160;<a class="el" href="../../de/dc3/a04319.html#af37f873b1735a7e1f78da6f2f334c134aced03c29bfe1b673cd653f80f983c9fb">MISCHOOK_ON_CONSTRUCT_OBJECT</a>
-, <br />
-&#160;&#160;<a class="el" href="../../de/dc3/a04319.html#af37f873b1735a7e1f78da6f2f334c134a9733f4054c726297206f0d94936b198f">MISCHOOK_ON_DESTRUCT_OBJECT</a>
-, <br />
-&#160;&#160;<a class="el" href="../../de/dc3/a04319.html#af37f873b1735a7e1f78da6f2f334c134ab44e63644ffca18d22fd8f100d741439">MISCHOOK_ON_CONSTRUCT_PLAYER</a>
-, <br />
-&#160;&#160;<a class="el" href="../../de/dc3/a04319.html#af37f873b1735a7e1f78da6f2f334c134a5cc41f8f78b3b4e4d2339ef9081298bf">MISCHOOK_ON_DESTRUCT_PLAYER</a>
-, <br />
-&#160;&#160;<a class="el" href="../../de/dc3/a04319.html#af37f873b1735a7e1f78da6f2f334c134a1ca06f199a58422ef7353799ca54ae72">MISCHOOK_ON_CONSTRUCT_GROUP</a>
-, <br />
-&#160;&#160;<a class="el" href="../../de/dc3/a04319.html#af37f873b1735a7e1f78da6f2f334c134a3ce8336f58fbbc6e7eb236bbaea4e6da">MISCHOOK_ON_DESTRUCT_GROUP</a>
-, <br />
-&#160;&#160;<a class="el" href="../../de/dc3/a04319.html#af37f873b1735a7e1f78da6f2f334c134a56a3d6798447586097a2539a15cb4aa2">MISCHOOK_ON_CONSTRUCT_INSTANCE_SAVE</a>
-, <br />
-&#160;&#160;<a class="el" href="../../de/dc3/a04319.html#af37f873b1735a7e1f78da6f2f334c134ace5f04f0c222b965d512026b695922c5">MISCHOOK_ON_DESTRUCT_INSTANCE_SAVE</a>
-, <br />
-&#160;&#160;<a class="el" href="../../de/dc3/a04319.html#af37f873b1735a7e1f78da6f2f334c134aadbe4a9d67dbca7b90292899c0ae8d4c">MISCHOOK_ON_ITEM_CREATE</a>
-, <br />
-&#160;&#160;<a class="el" href="../../de/dc3/a04319.html#af37f873b1735a7e1f78da6f2f334c134a5d3215bd4e18f89cb0a717a84829e17f">MISCHOOK_CAN_APPLY_SOULBOUND_FLAG</a>
-, <br />
-&#160;&#160;<a class="el" href="../../de/dc3/a04319.html#af37f873b1735a7e1f78da6f2f334c134ae9bacf4ccf18f7e88d8aa9f83bdebded">MISCHOOK_CAN_ITEM_APPLY_EQUIP_SPELL</a>
-, <br />
-&#160;&#160;<a class="el" href="../../de/dc3/a04319.html#af37f873b1735a7e1f78da6f2f334c134a584163956c233073e85f343585092a27">MISCHOOK_CAN_SEND_AUCTIONHELLO</a>
-, <br />
-&#160;&#160;<a class="el" href="../../de/dc3/a04319.html#af37f873b1735a7e1f78da6f2f334c134ad8dcf71de9c5c4a16743e80d66ac70c0">MISCHOOK_VALIDATE_SPELL_AT_CAST_SPELL</a>
-, <br />
-&#160;&#160;<a class="el" href="../../de/dc3/a04319.html#af37f873b1735a7e1f78da6f2f334c134a0de17e7f67dd7280da04e7a2fc502433">MISCHOOK_VALIDATE_SPELL_AT_CAST_SPELL_RESULT</a>
-, <br />
-&#160;&#160;<a class="el" href="../../de/dc3/a04319.html#af37f873b1735a7e1f78da6f2f334c134ad88e01abe00726c718edd6c7903ec8ea">MISCHOOK_ON_AFTER_LOOT_TEMPLATE_PROCESS</a>
-, <br />
-&#160;&#160;<a class="el" href="../../de/dc3/a04319.html#af37f873b1735a7e1f78da6f2f334c134a26ed92ee73e91e93437535e17f9d1616">MISCHOOK_ON_PLAYER_SET_PHASE</a>
-, <br />
-&#160;&#160;<a class="el" href="../../de/dc3/a04319.html#af37f873b1735a7e1f78da6f2f334c134a29a966b43bc8252d88a8ecdeb4c9928f">MISCHOOK_ON_INSTANCE_SAVE</a>
-, <br />
-&#160;&#160;<a class="el" href="../../de/dc3/a04319.html#af37f873b1735a7e1f78da6f2f334c134a9c2cb4ea6da418aff3e4f1cad36a6490">MISCHOOK_GET_DIALOG_STATUS</a>
-, <br />
-&#160;&#160;<a class="el" href="../../de/dc3/a04319.html#af37f873b1735a7e1f78da6f2f334c134ae8c3fca40135e387a84d7156f26a16c9">MISCHOOK_END</a>
-<br />
- }</td></tr>
-<tr class="separator:af37f873b1735a7e1f78da6f2f334c134"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
+Functions</h2></td></tr>
+<tr class="memitem:a5628479f846d755da3ff53b0e2a66c26"><td class="memTemplParams" colspan="2">template&lt;std::size_t T&gt; </td></tr>
+<tr class="memitem:a5628479f846d755da3ff53b0e2a66c26"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d6/db2/a04780.html#a5628479f846d755da3ff53b0e2a66c26">ByteConverter::convert</a> (char *val)</td></tr>
+<tr class="separator:a5628479f846d755da3ff53b0e2a66c26"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa8017307aa0aa935f062b4f701563d09"><td class="memItemLeft" align="right" valign="top">template&lt;&gt; </td></tr>
+<tr class="memitem:aa8017307aa0aa935f062b4f701563d09"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d6/db2/a04780.html#aa8017307aa0aa935f062b4f701563d09">ByteConverter::convert&lt; 0 &gt;</a> (char *)</td></tr>
+<tr class="separator:aa8017307aa0aa935f062b4f701563d09"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3717e304a2b8b074fcd513ca8e0db116"><td class="memItemLeft" align="right" valign="top">template&lt;&gt; </td></tr>
+<tr class="memitem:a3717e304a2b8b074fcd513ca8e0db116"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d6/db2/a04780.html#a3717e304a2b8b074fcd513ca8e0db116">ByteConverter::convert&lt; 1 &gt;</a> (char *)</td></tr>
+<tr class="separator:a3717e304a2b8b074fcd513ca8e0db116"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6177d7ac84a4ea6819c57a124345540e"><td class="memTemplParams" colspan="2">template&lt;typename T &gt; </td></tr>
+<tr class="memitem:a6177d7ac84a4ea6819c57a124345540e"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d6/db2/a04780.html#a6177d7ac84a4ea6819c57a124345540e">ByteConverter::apply</a> (T *val)</td></tr>
+<tr class="separator:a6177d7ac84a4ea6819c57a124345540e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9d20b1e463a04f0a22d79ca802902be6"><td class="memTemplParams" colspan="2">template&lt;typename T &gt; </td></tr>
+<tr class="memitem:a9d20b1e463a04f0a22d79ca802902be6"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../de/dc3/a04319.html#a9d20b1e463a04f0a22d79ca802902be6">EndianConvert</a> (T &amp;val)</td></tr>
+<tr class="separator:a9d20b1e463a04f0a22d79ca802902be6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a71946d011105dec5ad60c6875066ed86"><td class="memTemplParams" colspan="2">template&lt;typename T &gt; </td></tr>
+<tr class="memitem:a71946d011105dec5ad60c6875066ed86"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../de/dc3/a04319.html#a71946d011105dec5ad60c6875066ed86">EndianConvertReverse</a> (T &amp;)</td></tr>
+<tr class="separator:a71946d011105dec5ad60c6875066ed86"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a73b1f88261dfd018f7f185b0ea941c88"><td class="memTemplParams" colspan="2">template&lt;typename T &gt; </td></tr>
+<tr class="memitem:a73b1f88261dfd018f7f185b0ea941c88"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../de/dc3/a04319.html#a73b1f88261dfd018f7f185b0ea941c88">EndianConvertPtr</a> (void *val)</td></tr>
+<tr class="separator:a73b1f88261dfd018f7f185b0ea941c88"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8b9f1be37ef60cffbb862512d9374dd4"><td class="memTemplParams" colspan="2">template&lt;typename T &gt; </td></tr>
+<tr class="memitem:a8b9f1be37ef60cffbb862512d9374dd4"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../de/dc3/a04319.html#a8b9f1be37ef60cffbb862512d9374dd4">EndianConvertPtrReverse</a> (void *)</td></tr>
+<tr class="separator:a8b9f1be37ef60cffbb862512d9374dd4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af2e19073fdc053bb0299b663fa1ee757"><td class="memTemplParams" colspan="2">template&lt;typename T &gt; </td></tr>
+<tr class="memitem:af2e19073fdc053bb0299b663fa1ee757"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../de/dc3/a04319.html#af2e19073fdc053bb0299b663fa1ee757">EndianConvert</a> (T *)</td></tr>
+<tr class="separator:af2e19073fdc053bb0299b663fa1ee757"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1fa1c447bec92bbf436d429b422cc2e7"><td class="memTemplParams" colspan="2">template&lt;typename T &gt; </td></tr>
+<tr class="memitem:a1fa1c447bec92bbf436d429b422cc2e7"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../de/dc3/a04319.html#a1fa1c447bec92bbf436d429b422cc2e7">EndianConvertReverse</a> (T *)</td></tr>
+<tr class="separator:a1fa1c447bec92bbf436d429b422cc2e7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7a138a6c8a71f6e9bd8eb436a598f628"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/dc3/a04319.html#a7a138a6c8a71f6e9bd8eb436a598f628">EndianConvert</a> (<a class="el" href="../../d0/dbd/a04634.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> &amp;)</td></tr>
+<tr class="separator:a7a138a6c8a71f6e9bd8eb436a598f628"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a49a7404e8b8e7030c609822047db18e8"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/dc3/a04319.html#a49a7404e8b8e7030c609822047db18e8">EndianConvert</a> (<a class="el" href="../../d0/dbd/a04634.html#a3bb8a71f4ae9af551f71e9eb2c9c3325">int8</a> &amp;)</td></tr>
+<tr class="separator:a49a7404e8b8e7030c609822047db18e8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2adbd00f9fd7adfc4bd3d26ae1565a0b"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/dc3/a04319.html#a2adbd00f9fd7adfc4bd3d26ae1565a0b">EndianConvertReverse</a> (<a class="el" href="../../d0/dbd/a04634.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> &amp;)</td></tr>
+<tr class="separator:a2adbd00f9fd7adfc4bd3d26ae1565a0b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:acdb2b3cf0ea55e72e1d4047380cbd260"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/dc3/a04319.html#acdb2b3cf0ea55e72e1d4047380cbd260">EndianConvertReverse</a> (<a class="el" href="../../d0/dbd/a04634.html#a3bb8a71f4ae9af551f71e9eb2c9c3325">int8</a> &amp;)</td></tr>
+<tr class="separator:acdb2b3cf0ea55e72e1d4047380cbd260"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Enumeration Type Documentation</h2>
-<a id="af37f873b1735a7e1f78da6f2f334c134" name="af37f873b1735a7e1f78da6f2f334c134"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af37f873b1735a7e1f78da6f2f334c134">&#9670;&#160;</a></span>MiscHook</h2>
+<h2 class="groupheader">Function Documentation</h2>
+<a id="a49a7404e8b8e7030c609822047db18e8" name="a49a7404e8b8e7030c609822047db18e8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a49a7404e8b8e7030c609822047db18e8">&#9670;&#160;</a></span>EndianConvert() <span class="overload">[1/4]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">enum <a class="el" href="../../de/dc3/a04319.html#af37f873b1735a7e1f78da6f2f334c134">MiscHook</a></td>
+          <td class="memname">void EndianConvert </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d0/dbd/a04634.html#a3bb8a71f4ae9af551f71e9eb2c9c3325">int8</a> &amp;&#160;</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   62</span>{ }</div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="a9d20b1e463a04f0a22d79ca802902be6" name="a9d20b1e463a04f0a22d79ca802902be6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9d20b1e463a04f0a22d79ca802902be6">&#9670;&#160;</a></span>EndianConvert() <span class="overload">[2/4]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;typename T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void EndianConvert </td>
+          <td>(</td>
+          <td class="paramtype">T &amp;&#160;</td>
+          <td class="paramname"><em>val</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   47</span>{ ByteConverter::apply&lt;T&gt;(&amp;val); }</div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00129">ByteBuffer::append()</a>, <a class="el" href="../../#l00049">DBCFileLoader::Record::getFloat()</a>, <a class="el" href="../../#l00057">DBCFileLoader::Record::getUInt()</a>, <a class="el" href="../../#l00156">WardenWin::InitializeModule()</a>, <a class="el" href="../../#l00024">DBCFileLoader::Load()</a>, <a class="el" href="../../#l00137">ByteBuffer::put()</a>, <a class="el" href="../../#l00358">ByteBuffer::read()</a>, <a class="el" href="../../#l00305">WorldSocket::ReadHeaderHandler()</a>, and <a class="el" href="../../#l00073">Warden::RequestModule()</a>.</p>
+
+</div>
+</div>
+<a id="af2e19073fdc053bb0299b663fa1ee757" name="af2e19073fdc053bb0299b663fa1ee757"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af2e19073fdc053bb0299b663fa1ee757">&#9670;&#160;</a></span>EndianConvert() <span class="overload">[3/4]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;typename T &gt; </div>
+      <table class="memname">
+        <tr>
+          <td class="memname">void EndianConvert </td>
+          <td>(</td>
+          <td class="paramtype">T *&#160;</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="af37f873b1735a7e1f78da6f2f334c134aced03c29bfe1b673cd653f80f983c9fb" name="af37f873b1735a7e1f78da6f2f334c134aced03c29bfe1b673cd653f80f983c9fb"></a>MISCHOOK_ON_CONSTRUCT_OBJECT&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="af37f873b1735a7e1f78da6f2f334c134a9733f4054c726297206f0d94936b198f" name="af37f873b1735a7e1f78da6f2f334c134a9733f4054c726297206f0d94936b198f"></a>MISCHOOK_ON_DESTRUCT_OBJECT&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="af37f873b1735a7e1f78da6f2f334c134ab44e63644ffca18d22fd8f100d741439" name="af37f873b1735a7e1f78da6f2f334c134ab44e63644ffca18d22fd8f100d741439"></a>MISCHOOK_ON_CONSTRUCT_PLAYER&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="af37f873b1735a7e1f78da6f2f334c134a5cc41f8f78b3b4e4d2339ef9081298bf" name="af37f873b1735a7e1f78da6f2f334c134a5cc41f8f78b3b4e4d2339ef9081298bf"></a>MISCHOOK_ON_DESTRUCT_PLAYER&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="af37f873b1735a7e1f78da6f2f334c134a1ca06f199a58422ef7353799ca54ae72" name="af37f873b1735a7e1f78da6f2f334c134a1ca06f199a58422ef7353799ca54ae72"></a>MISCHOOK_ON_CONSTRUCT_GROUP&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="af37f873b1735a7e1f78da6f2f334c134a3ce8336f58fbbc6e7eb236bbaea4e6da" name="af37f873b1735a7e1f78da6f2f334c134a3ce8336f58fbbc6e7eb236bbaea4e6da"></a>MISCHOOK_ON_DESTRUCT_GROUP&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="af37f873b1735a7e1f78da6f2f334c134a56a3d6798447586097a2539a15cb4aa2" name="af37f873b1735a7e1f78da6f2f334c134a56a3d6798447586097a2539a15cb4aa2"></a>MISCHOOK_ON_CONSTRUCT_INSTANCE_SAVE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="af37f873b1735a7e1f78da6f2f334c134ace5f04f0c222b965d512026b695922c5" name="af37f873b1735a7e1f78da6f2f334c134ace5f04f0c222b965d512026b695922c5"></a>MISCHOOK_ON_DESTRUCT_INSTANCE_SAVE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="af37f873b1735a7e1f78da6f2f334c134aadbe4a9d67dbca7b90292899c0ae8d4c" name="af37f873b1735a7e1f78da6f2f334c134aadbe4a9d67dbca7b90292899c0ae8d4c"></a>MISCHOOK_ON_ITEM_CREATE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="af37f873b1735a7e1f78da6f2f334c134a5d3215bd4e18f89cb0a717a84829e17f" name="af37f873b1735a7e1f78da6f2f334c134a5d3215bd4e18f89cb0a717a84829e17f"></a>MISCHOOK_CAN_APPLY_SOULBOUND_FLAG&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="af37f873b1735a7e1f78da6f2f334c134ae9bacf4ccf18f7e88d8aa9f83bdebded" name="af37f873b1735a7e1f78da6f2f334c134ae9bacf4ccf18f7e88d8aa9f83bdebded"></a>MISCHOOK_CAN_ITEM_APPLY_EQUIP_SPELL&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="af37f873b1735a7e1f78da6f2f334c134a584163956c233073e85f343585092a27" name="af37f873b1735a7e1f78da6f2f334c134a584163956c233073e85f343585092a27"></a>MISCHOOK_CAN_SEND_AUCTIONHELLO&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="af37f873b1735a7e1f78da6f2f334c134ad8dcf71de9c5c4a16743e80d66ac70c0" name="af37f873b1735a7e1f78da6f2f334c134ad8dcf71de9c5c4a16743e80d66ac70c0"></a>MISCHOOK_VALIDATE_SPELL_AT_CAST_SPELL&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="af37f873b1735a7e1f78da6f2f334c134a0de17e7f67dd7280da04e7a2fc502433" name="af37f873b1735a7e1f78da6f2f334c134a0de17e7f67dd7280da04e7a2fc502433"></a>MISCHOOK_VALIDATE_SPELL_AT_CAST_SPELL_RESULT&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="af37f873b1735a7e1f78da6f2f334c134ad88e01abe00726c718edd6c7903ec8ea" name="af37f873b1735a7e1f78da6f2f334c134ad88e01abe00726c718edd6c7903ec8ea"></a>MISCHOOK_ON_AFTER_LOOT_TEMPLATE_PROCESS&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="af37f873b1735a7e1f78da6f2f334c134a26ed92ee73e91e93437535e17f9d1616" name="af37f873b1735a7e1f78da6f2f334c134a26ed92ee73e91e93437535e17f9d1616"></a>MISCHOOK_ON_PLAYER_SET_PHASE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="af37f873b1735a7e1f78da6f2f334c134a29a966b43bc8252d88a8ecdeb4c9928f" name="af37f873b1735a7e1f78da6f2f334c134a29a966b43bc8252d88a8ecdeb4c9928f"></a>MISCHOOK_ON_INSTANCE_SAVE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="af37f873b1735a7e1f78da6f2f334c134a9c2cb4ea6da418aff3e4f1cad36a6490" name="af37f873b1735a7e1f78da6f2f334c134a9c2cb4ea6da418aff3e4f1cad36a6490"></a>MISCHOOK_GET_DIALOG_STATUS&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="af37f873b1735a7e1f78da6f2f334c134ae8c3fca40135e387a84d7156f26a16c9" name="af37f873b1735a7e1f78da6f2f334c134ae8c3fca40135e387a84d7156f26a16c9"></a>MISCHOOK_END&#160;</td><td class="fielddoc"></td></tr>
+
+</div>
+</div>
+<a id="a7a138a6c8a71f6e9bd8eb436a598f628" name="a7a138a6c8a71f6e9bd8eb436a598f628"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7a138a6c8a71f6e9bd8eb436a598f628">&#9670;&#160;</a></span>EndianConvert() <span class="overload">[4/4]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void EndianConvert </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d0/dbd/a04634.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> &amp;&#160;</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
 </table>
-<div class="fragment"><div class="line"><span class="lineno">   26</span>{</div>
-<div class="line"><span class="lineno">   27</span>    <a class="code hl_enumvalue" href="../../de/dc3/a04319.html#af37f873b1735a7e1f78da6f2f334c134aced03c29bfe1b673cd653f80f983c9fb">MISCHOOK_ON_CONSTRUCT_OBJECT</a>,</div>
-<div class="line"><span class="lineno">   28</span>    <a class="code hl_enumvalue" href="../../de/dc3/a04319.html#af37f873b1735a7e1f78da6f2f334c134a9733f4054c726297206f0d94936b198f">MISCHOOK_ON_DESTRUCT_OBJECT</a>,</div>
-<div class="line"><span class="lineno">   29</span>    <a class="code hl_enumvalue" href="../../de/dc3/a04319.html#af37f873b1735a7e1f78da6f2f334c134ab44e63644ffca18d22fd8f100d741439">MISCHOOK_ON_CONSTRUCT_PLAYER</a>,</div>
-<div class="line"><span class="lineno">   30</span>    <a class="code hl_enumvalue" href="../../de/dc3/a04319.html#af37f873b1735a7e1f78da6f2f334c134a5cc41f8f78b3b4e4d2339ef9081298bf">MISCHOOK_ON_DESTRUCT_PLAYER</a>,</div>
-<div class="line"><span class="lineno">   31</span>    <a class="code hl_enumvalue" href="../../de/dc3/a04319.html#af37f873b1735a7e1f78da6f2f334c134a1ca06f199a58422ef7353799ca54ae72">MISCHOOK_ON_CONSTRUCT_GROUP</a>,</div>
-<div class="line"><span class="lineno">   32</span>    <a class="code hl_enumvalue" href="../../de/dc3/a04319.html#af37f873b1735a7e1f78da6f2f334c134a3ce8336f58fbbc6e7eb236bbaea4e6da">MISCHOOK_ON_DESTRUCT_GROUP</a>,</div>
-<div class="line"><span class="lineno">   33</span>    <a class="code hl_enumvalue" href="../../de/dc3/a04319.html#af37f873b1735a7e1f78da6f2f334c134a56a3d6798447586097a2539a15cb4aa2">MISCHOOK_ON_CONSTRUCT_INSTANCE_SAVE</a>,</div>
-<div class="line"><span class="lineno">   34</span>    <a class="code hl_enumvalue" href="../../de/dc3/a04319.html#af37f873b1735a7e1f78da6f2f334c134ace5f04f0c222b965d512026b695922c5">MISCHOOK_ON_DESTRUCT_INSTANCE_SAVE</a>,</div>
-<div class="line"><span class="lineno">   35</span>    <a class="code hl_enumvalue" href="../../de/dc3/a04319.html#af37f873b1735a7e1f78da6f2f334c134aadbe4a9d67dbca7b90292899c0ae8d4c">MISCHOOK_ON_ITEM_CREATE</a>,</div>
-<div class="line"><span class="lineno">   36</span>    <a class="code hl_enumvalue" href="../../de/dc3/a04319.html#af37f873b1735a7e1f78da6f2f334c134a5d3215bd4e18f89cb0a717a84829e17f">MISCHOOK_CAN_APPLY_SOULBOUND_FLAG</a>,</div>
-<div class="line"><span class="lineno">   37</span>    <a class="code hl_enumvalue" href="../../de/dc3/a04319.html#af37f873b1735a7e1f78da6f2f334c134ae9bacf4ccf18f7e88d8aa9f83bdebded">MISCHOOK_CAN_ITEM_APPLY_EQUIP_SPELL</a>,</div>
-<div class="line"><span class="lineno">   38</span>    <a class="code hl_enumvalue" href="../../de/dc3/a04319.html#af37f873b1735a7e1f78da6f2f334c134a584163956c233073e85f343585092a27">MISCHOOK_CAN_SEND_AUCTIONHELLO</a>,</div>
-<div class="line"><span class="lineno">   39</span>    <a class="code hl_enumvalue" href="../../de/dc3/a04319.html#af37f873b1735a7e1f78da6f2f334c134ad8dcf71de9c5c4a16743e80d66ac70c0">MISCHOOK_VALIDATE_SPELL_AT_CAST_SPELL</a>,</div>
-<div class="line"><span class="lineno">   40</span>    <a class="code hl_enumvalue" href="../../de/dc3/a04319.html#af37f873b1735a7e1f78da6f2f334c134a0de17e7f67dd7280da04e7a2fc502433">MISCHOOK_VALIDATE_SPELL_AT_CAST_SPELL_RESULT</a>,</div>
-<div class="line"><span class="lineno">   41</span>    <a class="code hl_enumvalue" href="../../de/dc3/a04319.html#af37f873b1735a7e1f78da6f2f334c134ad88e01abe00726c718edd6c7903ec8ea">MISCHOOK_ON_AFTER_LOOT_TEMPLATE_PROCESS</a>,</div>
-<div class="line"><span class="lineno">   42</span>    <a class="code hl_enumvalue" href="../../de/dc3/a04319.html#af37f873b1735a7e1f78da6f2f334c134a26ed92ee73e91e93437535e17f9d1616">MISCHOOK_ON_PLAYER_SET_PHASE</a>,</div>
-<div class="line"><span class="lineno">   43</span>    <a class="code hl_enumvalue" href="../../de/dc3/a04319.html#af37f873b1735a7e1f78da6f2f334c134a29a966b43bc8252d88a8ecdeb4c9928f">MISCHOOK_ON_INSTANCE_SAVE</a>,</div>
-<div class="line"><span class="lineno">   44</span>    <a class="code hl_enumvalue" href="../../de/dc3/a04319.html#af37f873b1735a7e1f78da6f2f334c134a9c2cb4ea6da418aff3e4f1cad36a6490">MISCHOOK_GET_DIALOG_STATUS</a>,</div>
-<div class="line"><span class="lineno">   45</span>    <a class="code hl_enumvalue" href="../../de/dc3/a04319.html#af37f873b1735a7e1f78da6f2f334c134ae8c3fca40135e387a84d7156f26a16c9">MISCHOOK_END</a></div>
-<div class="line"><span class="lineno">   46</span>};</div>
-<div class="ttc" id="aa04319_html_af37f873b1735a7e1f78da6f2f334c134a0de17e7f67dd7280da04e7a2fc502433"><div class="ttname"><a href="../../de/dc3/a04319.html#af37f873b1735a7e1f78da6f2f334c134a0de17e7f67dd7280da04e7a2fc502433">MISCHOOK_VALIDATE_SPELL_AT_CAST_SPELL_RESULT</a></div><div class="ttdeci">@ MISCHOOK_VALIDATE_SPELL_AT_CAST_SPELL_RESULT</div><div class="ttdef"><b>Definition:</b> MiscScript.h:40</div></div>
-<div class="ttc" id="aa04319_html_af37f873b1735a7e1f78da6f2f334c134a1ca06f199a58422ef7353799ca54ae72"><div class="ttname"><a href="../../de/dc3/a04319.html#af37f873b1735a7e1f78da6f2f334c134a1ca06f199a58422ef7353799ca54ae72">MISCHOOK_ON_CONSTRUCT_GROUP</a></div><div class="ttdeci">@ MISCHOOK_ON_CONSTRUCT_GROUP</div><div class="ttdef"><b>Definition:</b> MiscScript.h:31</div></div>
-<div class="ttc" id="aa04319_html_af37f873b1735a7e1f78da6f2f334c134a26ed92ee73e91e93437535e17f9d1616"><div class="ttname"><a href="../../de/dc3/a04319.html#af37f873b1735a7e1f78da6f2f334c134a26ed92ee73e91e93437535e17f9d1616">MISCHOOK_ON_PLAYER_SET_PHASE</a></div><div class="ttdeci">@ MISCHOOK_ON_PLAYER_SET_PHASE</div><div class="ttdef"><b>Definition:</b> MiscScript.h:42</div></div>
-<div class="ttc" id="aa04319_html_af37f873b1735a7e1f78da6f2f334c134a29a966b43bc8252d88a8ecdeb4c9928f"><div class="ttname"><a href="../../de/dc3/a04319.html#af37f873b1735a7e1f78da6f2f334c134a29a966b43bc8252d88a8ecdeb4c9928f">MISCHOOK_ON_INSTANCE_SAVE</a></div><div class="ttdeci">@ MISCHOOK_ON_INSTANCE_SAVE</div><div class="ttdef"><b>Definition:</b> MiscScript.h:43</div></div>
-<div class="ttc" id="aa04319_html_af37f873b1735a7e1f78da6f2f334c134a3ce8336f58fbbc6e7eb236bbaea4e6da"><div class="ttname"><a href="../../de/dc3/a04319.html#af37f873b1735a7e1f78da6f2f334c134a3ce8336f58fbbc6e7eb236bbaea4e6da">MISCHOOK_ON_DESTRUCT_GROUP</a></div><div class="ttdeci">@ MISCHOOK_ON_DESTRUCT_GROUP</div><div class="ttdef"><b>Definition:</b> MiscScript.h:32</div></div>
-<div class="ttc" id="aa04319_html_af37f873b1735a7e1f78da6f2f334c134a56a3d6798447586097a2539a15cb4aa2"><div class="ttname"><a href="../../de/dc3/a04319.html#af37f873b1735a7e1f78da6f2f334c134a56a3d6798447586097a2539a15cb4aa2">MISCHOOK_ON_CONSTRUCT_INSTANCE_SAVE</a></div><div class="ttdeci">@ MISCHOOK_ON_CONSTRUCT_INSTANCE_SAVE</div><div class="ttdef"><b>Definition:</b> MiscScript.h:33</div></div>
-<div class="ttc" id="aa04319_html_af37f873b1735a7e1f78da6f2f334c134a584163956c233073e85f343585092a27"><div class="ttname"><a href="../../de/dc3/a04319.html#af37f873b1735a7e1f78da6f2f334c134a584163956c233073e85f343585092a27">MISCHOOK_CAN_SEND_AUCTIONHELLO</a></div><div class="ttdeci">@ MISCHOOK_CAN_SEND_AUCTIONHELLO</div><div class="ttdef"><b>Definition:</b> MiscScript.h:38</div></div>
-<div class="ttc" id="aa04319_html_af37f873b1735a7e1f78da6f2f334c134a5cc41f8f78b3b4e4d2339ef9081298bf"><div class="ttname"><a href="../../de/dc3/a04319.html#af37f873b1735a7e1f78da6f2f334c134a5cc41f8f78b3b4e4d2339ef9081298bf">MISCHOOK_ON_DESTRUCT_PLAYER</a></div><div class="ttdeci">@ MISCHOOK_ON_DESTRUCT_PLAYER</div><div class="ttdef"><b>Definition:</b> MiscScript.h:30</div></div>
-<div class="ttc" id="aa04319_html_af37f873b1735a7e1f78da6f2f334c134a5d3215bd4e18f89cb0a717a84829e17f"><div class="ttname"><a href="../../de/dc3/a04319.html#af37f873b1735a7e1f78da6f2f334c134a5d3215bd4e18f89cb0a717a84829e17f">MISCHOOK_CAN_APPLY_SOULBOUND_FLAG</a></div><div class="ttdeci">@ MISCHOOK_CAN_APPLY_SOULBOUND_FLAG</div><div class="ttdef"><b>Definition:</b> MiscScript.h:36</div></div>
-<div class="ttc" id="aa04319_html_af37f873b1735a7e1f78da6f2f334c134a9733f4054c726297206f0d94936b198f"><div class="ttname"><a href="../../de/dc3/a04319.html#af37f873b1735a7e1f78da6f2f334c134a9733f4054c726297206f0d94936b198f">MISCHOOK_ON_DESTRUCT_OBJECT</a></div><div class="ttdeci">@ MISCHOOK_ON_DESTRUCT_OBJECT</div><div class="ttdef"><b>Definition:</b> MiscScript.h:28</div></div>
-<div class="ttc" id="aa04319_html_af37f873b1735a7e1f78da6f2f334c134a9c2cb4ea6da418aff3e4f1cad36a6490"><div class="ttname"><a href="../../de/dc3/a04319.html#af37f873b1735a7e1f78da6f2f334c134a9c2cb4ea6da418aff3e4f1cad36a6490">MISCHOOK_GET_DIALOG_STATUS</a></div><div class="ttdeci">@ MISCHOOK_GET_DIALOG_STATUS</div><div class="ttdef"><b>Definition:</b> MiscScript.h:44</div></div>
-<div class="ttc" id="aa04319_html_af37f873b1735a7e1f78da6f2f334c134aadbe4a9d67dbca7b90292899c0ae8d4c"><div class="ttname"><a href="../../de/dc3/a04319.html#af37f873b1735a7e1f78da6f2f334c134aadbe4a9d67dbca7b90292899c0ae8d4c">MISCHOOK_ON_ITEM_CREATE</a></div><div class="ttdeci">@ MISCHOOK_ON_ITEM_CREATE</div><div class="ttdef"><b>Definition:</b> MiscScript.h:35</div></div>
-<div class="ttc" id="aa04319_html_af37f873b1735a7e1f78da6f2f334c134ab44e63644ffca18d22fd8f100d741439"><div class="ttname"><a href="../../de/dc3/a04319.html#af37f873b1735a7e1f78da6f2f334c134ab44e63644ffca18d22fd8f100d741439">MISCHOOK_ON_CONSTRUCT_PLAYER</a></div><div class="ttdeci">@ MISCHOOK_ON_CONSTRUCT_PLAYER</div><div class="ttdef"><b>Definition:</b> MiscScript.h:29</div></div>
-<div class="ttc" id="aa04319_html_af37f873b1735a7e1f78da6f2f334c134ace5f04f0c222b965d512026b695922c5"><div class="ttname"><a href="../../de/dc3/a04319.html#af37f873b1735a7e1f78da6f2f334c134ace5f04f0c222b965d512026b695922c5">MISCHOOK_ON_DESTRUCT_INSTANCE_SAVE</a></div><div class="ttdeci">@ MISCHOOK_ON_DESTRUCT_INSTANCE_SAVE</div><div class="ttdef"><b>Definition:</b> MiscScript.h:34</div></div>
-<div class="ttc" id="aa04319_html_af37f873b1735a7e1f78da6f2f334c134aced03c29bfe1b673cd653f80f983c9fb"><div class="ttname"><a href="../../de/dc3/a04319.html#af37f873b1735a7e1f78da6f2f334c134aced03c29bfe1b673cd653f80f983c9fb">MISCHOOK_ON_CONSTRUCT_OBJECT</a></div><div class="ttdeci">@ MISCHOOK_ON_CONSTRUCT_OBJECT</div><div class="ttdef"><b>Definition:</b> MiscScript.h:27</div></div>
-<div class="ttc" id="aa04319_html_af37f873b1735a7e1f78da6f2f334c134ad88e01abe00726c718edd6c7903ec8ea"><div class="ttname"><a href="../../de/dc3/a04319.html#af37f873b1735a7e1f78da6f2f334c134ad88e01abe00726c718edd6c7903ec8ea">MISCHOOK_ON_AFTER_LOOT_TEMPLATE_PROCESS</a></div><div class="ttdeci">@ MISCHOOK_ON_AFTER_LOOT_TEMPLATE_PROCESS</div><div class="ttdef"><b>Definition:</b> MiscScript.h:41</div></div>
-<div class="ttc" id="aa04319_html_af37f873b1735a7e1f78da6f2f334c134ad8dcf71de9c5c4a16743e80d66ac70c0"><div class="ttname"><a href="../../de/dc3/a04319.html#af37f873b1735a7e1f78da6f2f334c134ad8dcf71de9c5c4a16743e80d66ac70c0">MISCHOOK_VALIDATE_SPELL_AT_CAST_SPELL</a></div><div class="ttdeci">@ MISCHOOK_VALIDATE_SPELL_AT_CAST_SPELL</div><div class="ttdef"><b>Definition:</b> MiscScript.h:39</div></div>
-<div class="ttc" id="aa04319_html_af37f873b1735a7e1f78da6f2f334c134ae8c3fca40135e387a84d7156f26a16c9"><div class="ttname"><a href="../../de/dc3/a04319.html#af37f873b1735a7e1f78da6f2f334c134ae8c3fca40135e387a84d7156f26a16c9">MISCHOOK_END</a></div><div class="ttdeci">@ MISCHOOK_END</div><div class="ttdef"><b>Definition:</b> MiscScript.h:45</div></div>
-<div class="ttc" id="aa04319_html_af37f873b1735a7e1f78da6f2f334c134ae9bacf4ccf18f7e88d8aa9f83bdebded"><div class="ttname"><a href="../../de/dc3/a04319.html#af37f873b1735a7e1f78da6f2f334c134ae9bacf4ccf18f7e88d8aa9f83bdebded">MISCHOOK_CAN_ITEM_APPLY_EQUIP_SPELL</a></div><div class="ttdeci">@ MISCHOOK_CAN_ITEM_APPLY_EQUIP_SPELL</div><div class="ttdef"><b>Definition:</b> MiscScript.h:37</div></div>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   61</span>{ }</div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="a73b1f88261dfd018f7f185b0ea941c88" name="a73b1f88261dfd018f7f185b0ea941c88"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a73b1f88261dfd018f7f185b0ea941c88">&#9670;&#160;</a></span>EndianConvertPtr()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;typename T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void EndianConvertPtr </td>
+          <td>(</td>
+          <td class="paramtype">void *&#160;</td>
+          <td class="paramname"><em>val</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   49</span>{ ByteConverter::apply&lt;T&gt;(val); }</div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="a8b9f1be37ef60cffbb862512d9374dd4" name="a8b9f1be37ef60cffbb862512d9374dd4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8b9f1be37ef60cffbb862512d9374dd4">&#9670;&#160;</a></span>EndianConvertPtrReverse()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;typename T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void EndianConvertPtrReverse </td>
+          <td>(</td>
+          <td class="paramtype">void *&#160;</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   50</span>{ }</div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="acdb2b3cf0ea55e72e1d4047380cbd260" name="acdb2b3cf0ea55e72e1d4047380cbd260"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#acdb2b3cf0ea55e72e1d4047380cbd260">&#9670;&#160;</a></span>EndianConvertReverse() <span class="overload">[1/4]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void EndianConvertReverse </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d0/dbd/a04634.html#a3bb8a71f4ae9af551f71e9eb2c9c3325">int8</a> &amp;&#160;</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   64</span>{ }</div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="a71946d011105dec5ad60c6875066ed86" name="a71946d011105dec5ad60c6875066ed86"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a71946d011105dec5ad60c6875066ed86">&#9670;&#160;</a></span>EndianConvertReverse() <span class="overload">[2/4]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;typename T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void EndianConvertReverse </td>
+          <td>(</td>
+          <td class="paramtype">T &amp;&#160;</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   48</span>{ }</div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00305">WorldSocket::ReadHeaderHandler()</a>.</p>
+
+</div>
+</div>
+<a id="a1fa1c447bec92bbf436d429b422cc2e7" name="a1fa1c447bec92bbf436d429b422cc2e7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1fa1c447bec92bbf436d429b422cc2e7">&#9670;&#160;</a></span>EndianConvertReverse() <span class="overload">[3/4]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;typename T &gt; </div>
+      <table class="memname">
+        <tr>
+          <td class="memname">void EndianConvertReverse </td>
+          <td>(</td>
+          <td class="paramtype">T *&#160;</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a2adbd00f9fd7adfc4bd3d26ae1565a0b" name="a2adbd00f9fd7adfc4bd3d26ae1565a0b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2adbd00f9fd7adfc4bd3d26ae1565a0b">&#9670;&#160;</a></span>EndianConvertReverse() <span class="overload">[4/4]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void EndianConvertReverse </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d0/dbd/a04634.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> &amp;&#160;</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   63</span>{ }</div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -246,8 +435,8 @@ Enumerations</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_824c567499771b11a8d1959386aa27e6.html">Scripting</a></li><li class="navelem"><a class="el" href="../../dir_a0aac0519f50cbe40c54d5948ed285d0.html">ScriptDefines</a></li><li class="navelem"><a class="el" href="../../de/dc3/a04319.html">MiscScript.h</a></li>
-    <li class="footer">Generated on Mon May 5 2025 20:45:00 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1070012e9e40376f8468ff0aa5b77c71.html">common</a></li><li class="navelem"><a class="el" href="../../dir_5b60c41b3dc3977dce15646b3e6a9085.html">Utilities</a></li><li class="navelem"><a class="el" href="../../de/dc3/a04319.html">ByteConverter.h</a></li>
+    <li class="footer">Generated on Mon May 12 2025 20:45:16 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

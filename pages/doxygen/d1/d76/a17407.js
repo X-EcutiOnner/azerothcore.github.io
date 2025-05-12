@@ -1,14 +1,7 @@
 var a17407 =
 [
-    [ "npc_gunshipAI", "d1/d76/a17407.html#a75444497ffd6b7365827eea57fd946f9", null ],
-    [ "DamageTaken", "d1/d76/a17407.html#a9c1825ec51aaecedd1035ae9a1ded6a0", null ],
-    [ "GetData", "d1/d76/a17407.html#a0142bec2427c1256431e55d3f74b8948", null ],
-    [ "JustDied", "d1/d76/a17407.html#aa19c815ad64f81fb5240c5e0667bccc9", null ],
-    [ "SetGUID", "d1/d76/a17407.html#a692a5a16ea75e816f2f58c469e042a1b", null ],
-    [ "UpdateAI", "d1/d76/a17407.html#a8bab1a755c2262e9f36f295781d30909", null ],
-    [ "_died", "d1/d76/a17407.html#af4480427460748bccae214737469ddb7", null ],
-    [ "_instance", "d1/d76/a17407.html#a21f9c24e80145db0c6847c81261d0e8d", null ],
-    [ "_shipVisits", "d1/d76/a17407.html#a6f9730b746e195a99dc11357fd0387ba", null ],
-    [ "_summonedFirstMage", "d1/d76/a17407.html#a721cc96cc76a27574a1a4eb1996b100e", null ],
-    [ "_teamIdInInstance", "d1/d76/a17407.html#a195ff7ab2c2e96ab0bcd0a96c1e21512", null ]
+    [ "ExtraEffect", "d1/d76/a17407.html#a65b5bc8d053a69325f42a7f23ae4dbdc", null ],
+    [ "PrepareAuraScript", "d1/d76/a17407.html#a53d6013e5ec473854e1537969cb31988", null ],
+    [ "Register", "d1/d76/a17407.html#a85be360bb15482ff34b7f1d04d949b1d", null ],
+    [ "Validate", "d1/d76/a17407.html#ab14e7410cf542d9f4043800a3b86c664", null ]
 ];

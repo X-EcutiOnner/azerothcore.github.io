@@ -1,6 +1,6 @@
 var a19955 =
 [
-    [ "boss_freya_elder_ironbranchAI", "d1/d61/a19959.html", "d1/d61/a19959" ],
-    [ "boss_freya_elder_ironbranch", "d8/d38/a19955.html#a066083e4d6fde6439f7dce80be209075", null ],
-    [ "GetAI", "d8/d38/a19955.html#a67f483d12fe801c1d840dd0f74396564", null ]
+    [ "boss_freya_elder_brightleafAI", "d1/d61/a19959.html", "d1/d61/a19959" ],
+    [ "boss_freya_elder_brightleaf", "d8/d38/a19955.html#a9b1539b37912ef5ae46d5926bf2e0f40", null ],
+    [ "GetAI", "d8/d38/a19955.html#a3c39424ecf97ced8c2a962baff5ae342", null ]
 ];

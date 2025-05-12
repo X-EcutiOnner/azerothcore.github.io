@@ -1,7 +1,11 @@
 var a15283 =
 [
-    [ "HandleDummy", "d7/d29/a15283.html#a38dafff805471b19ca3cca4ff5273a87", null ],
-    [ "PrepareSpellScript", "d7/d29/a15283.html#a40db5a46491aa22b5347f99b0251f1b8", null ],
-    [ "Register", "d7/d29/a15283.html#a2f297ab67d5e2e990658706f7c508bd4", null ],
-    [ "Validate", "d7/d29/a15283.html#abb7946f53e6271ae69d34caacef61f47", null ]
+    [ "npc_kerlonianAI", "d7/d29/a15283.html#a0f7a4566ca93a174c92fe10e904af480", null ],
+    [ "ClearSleeping", "d7/d29/a15283.html#aea2815d79da4fa006ea150f052255b9d", null ],
+    [ "MoveInLineOfSight", "d7/d29/a15283.html#a8b0a606510d278f26099a125d583377a", null ],
+    [ "Reset", "d7/d29/a15283.html#a20fac33bf3322ad0caf72ea883680b8d", null ],
+    [ "SetSleeping", "d7/d29/a15283.html#a0e1e6beaa98090d8bf8a17d28a9ee733", null ],
+    [ "SpellHit", "d7/d29/a15283.html#a1df028085cf1cb9e8152cdb70a3d28b1", null ],
+    [ "UpdateFollowerAI", "d7/d29/a15283.html#aa86dc8b3e934ff3297f7316de5420fe6", null ],
+    [ "FallAsleepTimer", "d7/d29/a15283.html#a8cfd8d869f8a313d041d89f8d0daa1bb", null ]
 ];

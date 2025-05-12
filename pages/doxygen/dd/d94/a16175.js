@@ -1,8 +1,8 @@
 var a16175 =
 [
-    [ "npc_frost_sphereAI", "dd/d94/a16175.html#ae697a98d23d94315768dc866852b6e07", null ],
-    [ "DamageTaken", "dd/d94/a16175.html#a3960f19b456f29a33016d799809a82a8", null ],
-    [ "SpellHit", "dd/d94/a16175.html#af842d47f1e8462fb6368e9dc7a070b84", null ],
-    [ "UpdateAI", "dd/d94/a16175.html#a4e866332045135c867f2b9ee871db0c2", null ],
-    [ "permafrostTimer", "dd/d94/a16175.html#adf7b1b447d0d05a498dd8603dbfab1ab", null ]
+    [ "npc_black_knight_skeletal_gryphonAI", "dd/d94/a16175.html#ada99dced1e560aebc908a0efb6c23d0a", null ],
+    [ "DoAction", "dd/d94/a16175.html#af38e129cdf4af99e99c41b6a98448e56", null ],
+    [ "Reset", "dd/d94/a16175.html#a5e20d5e17baaac92a560a5b2fe15fe7b", null ],
+    [ "UpdateAI", "dd/d94/a16175.html#a851008790128831c5c10710b4cccb196", null ],
+    [ "WaypointReached", "dd/d94/a16175.html#a74b5fb1d3631c404e7797085e45e6159", null ]
 ];

@@ -1,5 +1,6 @@
 var a10499 =
 [
-    [ "DurabilityDamageDeath", "dd/d5b/a10499.html#a9b4350d37291b9b714be1563b28dcb43", null ],
-    [ "Write", "dd/d5b/a10499.html#a35a93d9abeeb029f3da080487423f495", null ]
+    [ "QueryGuildInfo", "dd/d5b/a10499.html#a34b129b3c9fef61aa4211a9bc2783aef", null ],
+    [ "Read", "dd/d5b/a10499.html#a0396a58ca114706f7de91f51c5ab949d", null ],
+    [ "GuildId", "dd/d5b/a10499.html#ad221eecdb16233251306fff3d9801f38", null ]
 ];

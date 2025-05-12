@@ -1,6 +1,7 @@
 var a22387 =
 [
-    [ "npc_overlord_drakuru_betrayalAI", "d8/d46/a22391.html", "d8/d46/a22391" ],
-    [ "npc_overlord_drakuru_betrayal", "d1/ded/a22387.html#af4092356ea86c25d91c73af1310c2eb0", null ],
-    [ "GetAI", "d1/ded/a22387.html#a3bd893f08212dc94a321beb7a95eea08", null ]
+    [ "npc_storm_cloudAI", "d1/ded/a22387.html#aa4dd9409cd74f3c2c878974715e43394", null ],
+    [ "JustRespawned", "d1/ded/a22387.html#ad0f99362f7ab506b322b6d75890881c1", null ],
+    [ "Reset", "d1/ded/a22387.html#a99654ac86502e3ac2f899082269ccb01", null ],
+    [ "SpellHit", "d1/ded/a22387.html#ac51313cec4d76216f3c716d988fc4857", null ]
 ];

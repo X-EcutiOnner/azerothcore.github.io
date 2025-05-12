@@ -1,7 +1,11 @@
 var a12631 =
 [
-    [ "npc_koltira_deathweaverAI", "d0/d11/a12635.html", "d0/d11/a12635" ],
-    [ "npc_koltira_deathweaver", "dc/d20/a12631.html#a5e9fdbc8dc70ce3480906b86aed381a3", null ],
-    [ "GetAI", "dc/d20/a12631.html#afddc561b88679f3dd6ca8b374807b0f0", null ],
-    [ "OnQuestAccept", "dc/d20/a12631.html#a745d0d384c465b26716429df48885d02", null ]
+    [ "npc_demon_chain", "dc/d20/a12631.html#ac234e729422925bd773bcdbc45f9e1b5", null ],
+    [ "AttackStart", "dc/d20/a12631.html#a745fa194ca5ad30c96e85b3f9daad2ad", null ],
+    [ "IsSummonedBy", "dc/d20/a12631.html#a27007fdff0d685b0a38a0b98820b95fb", null ],
+    [ "JustDied", "dc/d20/a12631.html#a35d1b7de8612f11cdf61b9d663990686", null ],
+    [ "JustEngagedWith", "dc/d20/a12631.html#a9743ebc31c5159a03889bfd40b09d749", null ],
+    [ "MoveInLineOfSight", "dc/d20/a12631.html#a9ffa6ed6faa21c9596f7a0c2ceb1cc05", null ],
+    [ "Reset", "dc/d20/a12631.html#ad531f82511e5156d3b9891dd4095b0d5", null ],
+    [ "sacrificeGUID", "dc/d20/a12631.html#a5572e39fcf3d807ef462f5c16ff703f1", null ]
 ];

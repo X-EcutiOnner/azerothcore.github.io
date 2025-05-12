@@ -1,5 +1,6 @@
 var a23155 =
 [
-    [ "go_strange_pool", "da/df6/a23155.html#aa44feb353ad1cb440e5b6707112af680", null ],
-    [ "OnGossipHello", "da/df6/a23155.html#a5a2ee56e277b062e6b4757cb8b8b09a0", null ]
+    [ "instance_serpentshrine_cavern_InstanceMapScript", "df/df3/a23159.html", "df/df3/a23159" ],
+    [ "instance_serpent_shrine", "da/df6/a23155.html#aac4fc7113307805138ba4ce4a9adff09", null ],
+    [ "GetInstanceScript", "da/df6/a23155.html#aa81add2f4aeb8b2084bcc81c05b606c7", null ]
 ];

@@ -1,6 +1,6 @@
 var a19003 =
 [
-    [ "boss_razuvious_minionAI", "dc/d1e/a19007.html", "dc/d1e/a19007" ],
-    [ "boss_razuvious_minion", "dd/d0a/a19003.html#ae23d51c9ebfe31f624a749578d27252c", null ],
-    [ "GetAI", "dd/d0a/a19003.html#afab8dccbc0b098a1fa058ef8479ba865", null ]
+    [ "boss_maexxnaAI", "dc/d1e/a19007.html", "dc/d1e/a19007" ],
+    [ "boss_maexxna", "dd/d0a/a19003.html#ae47a789ac8abe50932b9e000c83b02b2", null ],
+    [ "GetAI", "dd/d0a/a19003.html#ab438df4cb61625da35552ca7c867dc64", null ]
 ];

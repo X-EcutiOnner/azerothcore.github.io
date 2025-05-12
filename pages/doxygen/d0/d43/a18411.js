@@ -1,8 +1,7 @@
 var a18411 =
 [
-    [ "DecayPeriodicTimer", "d0/d43/a18411.html#a314ac33692cc352c490ec3d87177d67a", null ],
-    [ "Load", "d0/d43/a18411.html#af5a498253c4c382df3b2462a30448a64", null ],
-    [ "PrepareAuraScript", "d0/d43/a18411.html#ac5d4ee199b49e04499997355ac054554", null ],
-    [ "Register", "d0/d43/a18411.html#a1b59480ce384f09cecd47872b39cf3c5", null ],
-    [ "_decayRate", "d0/d43/a18411.html#a20c696ff06f9b48451d9eac43ccf5416", null ]
+    [ "npc_blazing_skeletonAI", "d0/d43/a18411.html#ad4f997a7a4cc0fa96594da35434fd921", null ],
+    [ "Reset", "d0/d43/a18411.html#a3bbc4cf7b6dbe11d6768a0fb0626e84a", null ],
+    [ "UpdateAI", "d0/d43/a18411.html#a0010c4befd13ec6beada0de1607f3f7a", null ],
+    [ "_events", "d0/d43/a18411.html#aab1b04989d5e3fc289f00bc121df193d", null ]
 ];

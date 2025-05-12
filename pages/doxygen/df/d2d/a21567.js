@@ -1,6 +1,6 @@
 var a21567 =
 [
-    [ "npc_thassarianAI", "d4/d04/a21571.html", "d4/d04/a21571" ],
-    [ "npc_thassarian", "df/d2d/a21567.html#a82bde4555821f84a6d07a69669528313", null ],
-    [ "GetAI", "df/d2d/a21567.html#af4bbf5f6a63c3765355d6b70c2bda55b", null ]
+    [ "npc_steam_powered_auctioneerAI", "d4/d04/a21571.html", "d4/d04/a21571" ],
+    [ "npc_steam_powered_auctioneer", "df/d2d/a21567.html#ae8c918c639ce0c3ddc14b8cf7f0ef855", null ],
+    [ "GetAI", "df/d2d/a21567.html#a39a2f0c187078c759bc4a391e0a81068", null ]
 ];

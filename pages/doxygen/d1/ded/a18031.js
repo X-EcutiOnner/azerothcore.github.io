@@ -1,6 +1,7 @@
 var a18031 =
 [
-    [ "DefileTargetSelector", "d1/ded/a18031.html#a9c13a04378d6550dd135d2cb41c9bc1c", null ],
-    [ "operator()", "d1/ded/a18031.html#a2ffea7bb2c62e0fa069e3d1ffec3ab11", null ],
-    [ "_source", "d1/ded/a18031.html#a427b4304b5a93f26741eda90d20ff13b", null ]
+    [ "HandleTriggerMissile", "d1/ded/a18031.html#af6370594be48d35a12009fa10a38d91d", null ],
+    [ "PrepareSpellScript", "d1/ded/a18031.html#aeeca4381273f382c3abb68f34d229213", null ],
+    [ "Register", "d1/ded/a18031.html#a0b79f5ee23e53c18277712f1b26e13f3", null ],
+    [ "Validate", "d1/ded/a18031.html#abe0b9290ddf9beaa60a583840d90d914", null ]
 ];

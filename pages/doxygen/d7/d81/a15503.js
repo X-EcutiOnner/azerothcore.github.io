@@ -1,7 +1,6 @@
 var a15503 =
 [
-    [ "npc_paoka_swiftmountainAI", "d7/d81/a15503.html#a92a229f76de3bc46ae14910439db0004", null ],
-    [ "DoSpawnWyvern", "d7/d81/a15503.html#a7997a3d398db82c205e3a8af77ac1684", null ],
-    [ "Reset", "d7/d81/a15503.html#acae0427957aba04a54e6001823bc7eb4", null ],
-    [ "WaypointReached", "d7/d81/a15503.html#a262781c90fe1b5a5af2c6f94e4cc52e2", null ]
+    [ "npc_aquementasAI", "d3/d3e/a15507.html", "d3/d3e/a15507" ],
+    [ "npc_aquementas", "d7/d81/a15503.html#a81d0b010c2aef0ea329ff7656b76cbe5", null ],
+    [ "GetAI", "d7/d81/a15503.html#a8a071b3073d69306feb84aca347a22c8", null ]
 ];

@@ -1,9 +1,9 @@
 var a09063 =
 [
-    [ "NearestAssistCreatureInCreatureRangeCheck", "d9/d93/a09063.html#ac9e380add6c9df4afc707007528c7434", null ],
-    [ "NearestAssistCreatureInCreatureRangeCheck", "d9/d93/a09063.html#aa26e19df606a366147e1db4fd1aa6eac", null ],
-    [ "operator()", "d9/d93/a09063.html#a9a085d16b30849537441f809052ac196", null ],
-    [ "i_enemy", "d9/d93/a09063.html#a0ba09da942c48e523c278cff0e0a4139", null ],
-    [ "i_obj", "d9/d93/a09063.html#a905ea6b07b97ed23de4f4cf9946642af", null ],
-    [ "i_range", "d9/d93/a09063.html#ab82a4b97ebb2bef047ae85404b0e3da0", null ]
+    [ "GridReference", "d9/d93/a09063.html#a9c27f99f74cd0cc99b39f9a6ec614e83", null ],
+    [ "~GridReference", "d9/d93/a09063.html#afd6a4f88eb066818afde1b752600bb12", null ],
+    [ "next", "d9/d93/a09063.html#a792323f4b0f66b58d1f9dd0f65f26f0c", null ],
+    [ "sourceObjectDestroyLink", "d9/d93/a09063.html#a96cb6e8287ceba4de31681bddb1e5838", null ],
+    [ "targetObjectBuildLink", "d9/d93/a09063.html#a16dc6dc9a5a7bfcd5de9691ad469f5f8", null ],
+    [ "targetObjectDestroyLink", "d9/d93/a09063.html#ac4c863d059b5c826e9597056dc7c887a", null ]
 ];

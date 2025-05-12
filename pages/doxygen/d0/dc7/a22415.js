@@ -1,6 +1,15 @@
 var a22415 =
 [
-    [ "npc_released_offspring_harkoaAI", "d0/dc7/a22415.html#ab1002f002987b6ea2366129afd48d65c", null ],
-    [ "MovementInform", "d0/dc7/a22415.html#a56d52be3fdbc2e4176efe09ba58f55c7", null ],
-    [ "Reset", "d0/dc7/a22415.html#a3ddc30ce39acef3bb5e6f8400a084393", null ]
+    [ "OutdoorPvPEP", "d0/dc7/a22415.html#ab4915dfc03de08cad83eb48c4c789cb8", null ],
+    [ "BuffTeams", "d0/dc7/a22415.html#ac6a61c19ba96ca843eb12952d0c09078", null ],
+    [ "FillInitialWorldStates", "d0/dc7/a22415.html#ac1b185125fa1f8864d1062b65be24bdc", null ],
+    [ "HandlePlayerEnterZone", "d0/dc7/a22415.html#a9e7404160b1220dc3cc2766a07f42ad2", null ],
+    [ "HandlePlayerLeaveZone", "d0/dc7/a22415.html#a251b154abfaec9cbfb1a56e657ac5214", null ],
+    [ "SendRemoveWorldStates", "d0/dc7/a22415.html#afad47628bb4cfcc6060ce35396e33d9d", null ],
+    [ "SetControlledState", "d0/dc7/a22415.html#abef30d5cbe7c2cd52cd32ae29da1c9ce", null ],
+    [ "SetupOutdoorPvP", "d0/dc7/a22415.html#acecc8126180c027cb3d685231e55d873", null ],
+    [ "Update", "d0/dc7/a22415.html#a974910b2f7f2d8cfaf43b6694bf4c2c7", null ],
+    [ "EP_ControlsId", "d0/dc7/a22415.html#a7e8fcf50f88bdb56b189877721a1f006", null ],
+    [ "m_AllianceTowersControlled", "d0/dc7/a22415.html#a09e5cf029656af3fc740b236596d42ee", null ],
+    [ "m_HordeTowersControlled", "d0/dc7/a22415.html#a325c16f6b5f40bd5dd5f63a9d93a8cd1", null ]
 ];

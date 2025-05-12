@@ -1,6 +1,6 @@
 var a12895 =
 [
-    [ "instance_sunken_temple_InstanceMapScript", "d6/d2a/a12899.html", "d6/d2a/a12899" ],
-    [ "instance_sunken_temple", "d6/dea/a12895.html#a123b052c1cd1487588c88bf2611bc53b", null ],
-    [ "GetInstanceScript", "d6/dea/a12895.html#a1a783056b681f1f3b90e2e33e6a4a86d", null ]
+    [ "npc_crusade_persuadedAI", "d6/d2a/a12899.html", "d6/d2a/a12899" ],
+    [ "npc_crusade_persuaded", "d6/dea/a12895.html#a4048e164fc99b9dfff41fd168fb542b6", null ],
+    [ "GetAI", "d6/dea/a12895.html#a004833d7e6312b23eb6a07c0a6e41db6", null ]
 ];

@@ -1,6 +1,7 @@
 var a13155 =
 [
-    [ "boss_muruAI", "d0/d8c/a13159.html", "d0/d8c/a13159" ],
-    [ "boss_muru", "da/dbf/a13155.html#aeb09997c72ec653df211bdec5873a57a", null ],
-    [ "GetAI", "da/dbf/a13155.html#aba2fda1e0b3b6b972fe7df14247006c1", null ]
+    [ "HandleScriptEffect", "da/dbf/a13155.html#a703ac8467126f5c2aee393fcf2400ffc", null ],
+    [ "PrepareSpellScript", "da/dbf/a13155.html#a17c49de5f6a37ff83126398d96b43a51", null ],
+    [ "Register", "da/dbf/a13155.html#ae205d84cdbe3fbfa519e7d1c8f2ffe16", null ],
+    [ "Validate", "da/dbf/a13155.html#a17d53f598be9fe9e9790bb96dfcb4891", null ]
 ];

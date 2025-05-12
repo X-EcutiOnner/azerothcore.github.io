@@ -1,6 +1,12 @@
 var a22219 =
 [
-    [ "npc_wild_wyrmAI", "d9/df6/a22223.html", "d9/df6/a22223" ],
-    [ "npc_wild_wyrm", "d1/d38/a22219.html#abce8c3a368e75b4be5e05381f9eb722b", null ],
-    [ "GetAI", "d1/d38/a22219.html#aedba91446fe12997047070f123d925d2", null ]
+    [ "npc_icefangAI", "d1/d38/a22219.html#ab74b58a77e3c1349ed308f7febef794a", null ],
+    [ "AttackStart", "d1/d38/a22219.html#a56615ecdb45389aa793374d26a636d45", null ],
+    [ "EnterEvadeMode", "d1/d38/a22219.html#a1465c4779ea8b080f934163c8db6c99c", null ],
+    [ "JustDied", "d1/d38/a22219.html#a3140c8306a384833cca1580ad964d73a", null ],
+    [ "JustEngagedWith", "d1/d38/a22219.html#a8455dd4afb5ef5a694ca9237848df907", null ],
+    [ "OnCharmed", "d1/d38/a22219.html#ad7f3465f5730cd9ebd42bb4092ec8e68", null ],
+    [ "PassengerBoarded", "d1/d38/a22219.html#acf6e8e273830d022eaca3a28a4bd5320", null ],
+    [ "UpdateAI", "d1/d38/a22219.html#ab4d752f2273062c48339b53e611e617c", null ],
+    [ "WaypointReached", "d1/d38/a22219.html#ae315a1d22317edb2864e4d796f808ffb", null ]
 ];

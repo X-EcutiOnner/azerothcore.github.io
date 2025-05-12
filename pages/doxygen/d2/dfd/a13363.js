@@ -1,6 +1,6 @@
 var a13363 =
 [
-    [ "npc_greengill_slaveAI", "d5/d29/a13367.html", "d5/d29/a13367" ],
-    [ "npc_greengill_slave", "d2/dfd/a13363.html#a46fb36fadb5ed5fc94a563473edd8732", null ],
-    [ "GetAI", "d2/dfd/a13363.html#ab2cb9adfeef75384becfbb3c5188b8d7", null ]
+    [ "instance_sunwell_plateau_InstanceMapScript", "d5/d29/a13367.html", "d5/d29/a13367" ],
+    [ "instance_sunwell_plateau", "d2/dfd/a13363.html#a31d2245a9237c8dc4480b9d26ff3557c", null ],
+    [ "GetInstanceScript", "d2/dfd/a13363.html#a5960785a845c87e2e1730cfd865b44b4", null ]
 ];

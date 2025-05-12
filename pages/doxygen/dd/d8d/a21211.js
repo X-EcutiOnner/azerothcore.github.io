@@ -1,7 +1,6 @@
 var a21211 =
 [
-    [ "PrepareAuraScript", "dd/d8d/a21211.html#a633dc25fd58f0fb396b72103a1ec42d6", null ],
-    [ "Register", "dd/d8d/a21211.html#ab46535a9b6fae458671cccbcdfc81eb9", null ],
-    [ "TriggerFists", "dd/d8d/a21211.html#a912417196f46d7bdf6620cb4cb0a3698", null ],
-    [ "Validate", "dd/d8d/a21211.html#a66a353872f430244e09fac32cadb1aa4", null ]
+    [ "boss_cyanigosaAI", "d5/d6a/a21215.html", "d5/d6a/a21215" ],
+    [ "boss_cyanigosa", "dd/d8d/a21211.html#a4db12e2fb873ad3595a437df09663a22", null ],
+    [ "GetAI", "dd/d8d/a21211.html#a779c7c3a5f0002501361fa92fe14af69", null ]
 ];

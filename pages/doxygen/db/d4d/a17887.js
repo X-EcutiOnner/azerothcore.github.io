@@ -1,6 +1,7 @@
 var a17887 =
 [
-    [ "LastPhaseIceTombTargetSelector", "db/d4d/a17887.html#ac01f20b199bb0ee63b9c8f8206321057", null ],
-    [ "operator()", "db/d4d/a17887.html#a92a846ff557334b1f30d8e062a2c64e9", null ],
-    [ "_source", "db/d4d/a17887.html#ab10d10dd0de7717078d31ac026d4c933", null ]
+    [ "HandleScript", "db/d4d/a17887.html#a37b261d0df2829788d8290a9194913f5", null ],
+    [ "PrepareSpellScript", "db/d4d/a17887.html#a69386dbef57322393a38eec90662135f", null ],
+    [ "Register", "db/d4d/a17887.html#a5b85b01100d7f7c672c437e4bdfd7a7c", null ],
+    [ "Validate", "db/d4d/a17887.html#a63c446574c700a895d7fbc5bb2b81508", null ]
 ];

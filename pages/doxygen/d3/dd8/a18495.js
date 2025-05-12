@@ -1,7 +1,13 @@
 var a18495 =
 [
-    [ "npc_captain_arnathAI", "d3/dd8/a18495.html#a34e3d17b89010569bf7e9cb28361c2af", null ],
-    [ "FindFriendlyCreature", "d3/dd8/a18495.html#ad6411d2a87d2552bea2051f80ca16e14", null ],
-    [ "Reset", "d3/dd8/a18495.html#a016fbe51f31e1c5ec1636e8d20d8cb30", null ],
-    [ "UpdateAI", "d3/dd8/a18495.html#a020efd7adc0d60152007906e3229988d", null ]
+    [ "npc_highlord_tirion_fordringAI", "d3/dd8/a18495.html#a8852f9196a6609f317b6113ac2eee9ee", null ],
+    [ "Reset", "d3/dd8/a18495.html#a80051b1b2a663997304b1754a3f9ff25", null ],
+    [ "SetData", "d3/dd8/a18495.html#a5642aab7afc50a7494c43ae7a130d571", null ],
+    [ "UpdateAI", "d3/dd8/a18495.html#ac3c8dc2e5bf6e0c3f380f395a785ad49", null ],
+    [ "_bolvarFordragon", "d3/dd8/a18495.html#a8e8ae990a6e70a70ce6de3a13300261c", null ],
+    [ "_damnedKills", "d3/dd8/a18495.html#a56e035884d2ab94629c133efc1fc8feb", null ],
+    [ "_events", "d3/dd8/a18495.html#a8d8d6f1b8dc65b28a8117426e3767762", null ],
+    [ "_factionNPC", "d3/dd8/a18495.html#acf9a436edcbfe3fcf47f56c5cf90cfb2", null ],
+    [ "_instance", "d3/dd8/a18495.html#acd16d6200b08df23576aa9ccbb060d31", null ],
+    [ "_theLichKing", "d3/dd8/a18495.html#afbe85d7002e34cfcb9414f2beda4e0a2", null ]
 ];

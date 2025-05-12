@@ -1,9 +1,11 @@
 var a12027 =
 [
-    [ "HandleAfterApply", "d2/d99/a12027.html#ab5dea2b9154ea73e9f159f6899f71d1d", null ],
-    [ "HandleAfterRemove", "d2/d99/a12027.html#a07bfb9395c738a197bafbaa0a43b9d48", null ],
-    [ "PeriodicTick", "d2/d99/a12027.html#a1ea9275cf310f95e9f8351892dce0a21", null ],
-    [ "PrepareAuraScript", "d2/d99/a12027.html#a8f13734ec4eb2dfda64be4ed3410e9a7", null ],
-    [ "Register", "d2/d99/a12027.html#a778da1e0ae7d5cab576b55bff93c923f", null ],
-    [ "Validate", "d2/d99/a12027.html#a205b4cc0f5c513680573b41a786a0b5e", null ]
+    [ "npc_blackhand_incarceratorAI", "d2/d99/a12027.html#adecfd5bcc6bf5fee0688459ebac03e18", null ],
+    [ "DamageTaken", "d2/d99/a12027.html#a3bc090518cba2bc64fb5c454bbb47b72", null ],
+    [ "JustEngagedWith", "d2/d99/a12027.html#a2026328f428c4e5c15551773255da21f", null ],
+    [ "Reset", "d2/d99/a12027.html#a3a98f2d5fd764c852a1d9418315cd56b", null ],
+    [ "SetData", "d2/d99/a12027.html#ae9d92237c6327abd78ada9a306ee8a09", null ],
+    [ "UpdateAI", "d2/d99/a12027.html#a1bc6aa88d7bc5163e2cc4e2cc1779076", null ],
+    [ "_events", "d2/d99/a12027.html#abcd817233c0cb85656856c4107d86793", null ],
+    [ "_fleedForAssistance", "d2/d99/a12027.html#ab4e59b91b47dffc19db6b49ecd4c9fd8", null ]
 ];

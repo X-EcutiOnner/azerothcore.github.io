@@ -1,9 +1,12 @@
 var a07155 =
 [
-    [ "entry", "d3/db9/a07155.html#a4c6980a035279ca45e88a2ddc0beb0b5", null ],
-    [ "o", "d3/db9/a07155.html#a785703f50dcafda5888fb76af82a09da", null ],
-    [ "type", "d3/db9/a07155.html#aa21624a51b1fbfc474d0c64f4996cb9b", null ],
-    [ "x", "d3/db9/a07155.html#a55bd18cb9ea27748a07dd91f6783de23", null ],
-    [ "y", "d3/db9/a07155.html#a908fbf198d908963e77630b42deea147", null ],
-    [ "z", "d3/db9/a07155.html#a4a49f5cbb58764ea9c137fc010e898c6", null ]
+    [ "damageText", "d3/db9/a07155.html#af83062a39d8dfc89bf61a4364bd8579d", null ],
+    [ "destroyText", "d3/db9/a07155.html#a81747f8ff920f7c17a55d45d43304cc9", null ],
+    [ "entry", "d3/db9/a07155.html#a58d0395a47190698d309e80d91358bb1", null ],
+    [ "o", "d3/db9/a07155.html#a21238943701f594e1a5346193c895d33", null ],
+    [ "type", "d3/db9/a07155.html#a3cebd422659aa7339e9a23a87cfad0d7", null ],
+    [ "WorldState", "d3/db9/a07155.html#a4b4881aba2d297e125443f0c8ccab618", null ],
+    [ "x", "d3/db9/a07155.html#a80ebabba7265753a05367a4c79f6450c", null ],
+    [ "y", "d3/db9/a07155.html#a5d8ade187749e6fc191f01b384a4cda6", null ],
+    [ "z", "d3/db9/a07155.html#a3913a2618277cc5ad382aa2fc1d00f5e", null ]
 ];

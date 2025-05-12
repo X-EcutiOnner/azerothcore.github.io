@@ -1,13 +1,14 @@
 var a15915 =
 [
-    [ "boss_twilight_halionAI", "dc/dde/a15915.html#aab05bab963d603c3cb70edfd62a84b49", null ],
-    [ "DamageTaken", "dc/dde/a15915.html#a0c62ac244e57b1b90101e1ba89a60d27", null ],
-    [ "EnterEvadeMode", "dc/dde/a15915.html#af7076251fc1fad1dc259d747934910e2", null ],
-    [ "JustDied", "dc/dde/a15915.html#a2874474a1dbc9b30a4ff77d2d7bfd8fd", null ],
-    [ "JustEngagedWith", "dc/dde/a15915.html#a136b51ede30d63d87228d35e8b6f2c7a", null ],
-    [ "KilledUnit", "dc/dde/a15915.html#ada770d51f63c841c500ffc3197a7a89f", null ],
-    [ "Reset", "dc/dde/a15915.html#a9c945841926d5b08f37c6a720dd25a14", null ],
-    [ "UpdateAI", "dc/dde/a15915.html#a6ab1d215ed077883781b0c0188282c5e", null ],
-    [ "_events", "dc/dde/a15915.html#a22a8a7696fb23b9eab01d42cd45644de", null ],
-    [ "_instance", "dc/dde/a15915.html#a033f10bba4ba89aa0111d4cb520540e6", null ]
+    [ "instance_obsidian_sanctum_InstanceMapScript", "dc/dde/a15915.html#a17e64475b7433b3dc0d87028c11c9c7f", null ],
+    [ "CheckAchievementCriteriaMeet", "dc/dde/a15915.html#a62a5603b9063b4cbb773eb177aa2d0bc", null ],
+    [ "DoAction", "dc/dde/a15915.html#abc08b37f23721ff2ce7a6662605a66ab", null ],
+    [ "GetGuidData", "dc/dde/a15915.html#a01da8216f57e19b5bf8697700089118c", null ],
+    [ "OnCreatureCreate", "dc/dde/a15915.html#aa0fd6fae9a274e483765c0b5c1ff7ba3", null ],
+    [ "m_uiPortalGUID", "dc/dde/a15915.html#a166db22fd409d0387085053852e5ad30", null ],
+    [ "m_uiSartharionGUID", "dc/dde/a15915.html#a17b8e9a050eb6302258119c3b4f5f1bf", null ],
+    [ "m_uiShadronGUID", "dc/dde/a15915.html#a5c6a46069a87340f9e8d5e4830b8a2ed", null ],
+    [ "m_uiTenebronGUID", "dc/dde/a15915.html#afc7daf2b0eb18fa999ff3dae42fc4da2", null ],
+    [ "m_uiVesperonGUID", "dc/dde/a15915.html#a7408fc1c0d61c7db01bdd4f517080139", null ],
+    [ "portalCount", "dc/dde/a15915.html#ab7cec8a8a80713e436e4e4e80c5c1383", null ]
 ];

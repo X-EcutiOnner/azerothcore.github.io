@@ -1,17 +1,10 @@
 var a03206 =
 [
-    [ "Arena", "d5/d4d/a07180.html", "d5/d4d/a07180" ],
-    [ "ArenaBroadcastTexts", "d9/d4f/a03206.html#a407f2036481e3d9e2def3daa50546c71", [
-      [ "ARENA_TEXT_START_ONE_MINUTE", "d9/d4f/a03206.html#a407f2036481e3d9e2def3daa50546c71a12b484d249dd320cfc39bdf39279d854", null ],
-      [ "ARENA_TEXT_START_THIRTY_SECONDS", "d9/d4f/a03206.html#a407f2036481e3d9e2def3daa50546c71a49cdd0c5a035f182212d6fe53a1e2084", null ],
-      [ "ARENA_TEXT_START_FIFTEEN_SECONDS", "d9/d4f/a03206.html#a407f2036481e3d9e2def3daa50546c71a96636e959a178535f5d886c81ec6a8d9", null ],
-      [ "ARENA_TEXT_START_BATTLE_HAS_BEGUN", "d9/d4f/a03206.html#a407f2036481e3d9e2def3daa50546c71a60ff93f414424628c66faf8f424f1dcd", null ]
-    ] ],
-    [ "ArenaSpellIds", "d9/d4f/a03206.html#a05b7784b7a9a1ce8e6367f6f9bb875d9", [
-      [ "SPELL_ALLIANCE_GOLD_FLAG", "d9/d4f/a03206.html#a05b7784b7a9a1ce8e6367f6f9bb875d9a310e16f368a3a7d80eeecbaecd5c489c", null ],
-      [ "SPELL_ALLIANCE_GREEN_FLAG", "d9/d4f/a03206.html#a05b7784b7a9a1ce8e6367f6f9bb875d9aeae9474d707e5496dfdf0fd49871bb9f", null ],
-      [ "SPELL_HORDE_GOLD_FLAG", "d9/d4f/a03206.html#a05b7784b7a9a1ce8e6367f6f9bb875d9a83058f9219943bb8b4d4a3024d172af0", null ],
-      [ "SPELL_HORDE_GREEN_FLAG", "d9/d4f/a03206.html#a05b7784b7a9a1ce8e6367f6f9bb875d9ad76f572a30c966179ca9c2c2c26f4222", null ],
-      [ "SPELL_LAST_MAN_STANDING", "d9/d4f/a03206.html#a05b7784b7a9a1ce8e6367f6f9bb875d9a20018007a38c253b1c4d00d9b0b375bd", null ]
-    ] ]
+    [ "GraveyardStruct", "da/de6/a09859.html", "da/de6/a09859" ],
+    [ "GraveyardData", "db/da5/a09863.html", "db/da5/a09863" ],
+    [ "Graveyard", "dc/d66/a09867.html", "dc/d66/a09867" ],
+    [ "sGraveyard", "d9/d4f/a03206.html#ac68c2a63982a6142e1931450d7b6115c", null ],
+    [ "GraveyardMapBounds", "d9/d4f/a03206.html#aa5ea0c376a2e44483f8c5cb084b3b186", null ],
+    [ "GraveyardMapBoundsNonConst", "d9/d4f/a03206.html#a6a551a1219fa9a26b5ed21656c2f9dd1", null ],
+    [ "WGGraveyardContainer", "d9/d4f/a03206.html#a484cb47c00fe9b952853e3b04212437c", null ]
 ];

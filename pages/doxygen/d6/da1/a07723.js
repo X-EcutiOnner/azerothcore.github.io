@@ -1,6 +1,5 @@
 var a07723 =
 [
-    [ "LfgWaitTime", "d6/da1/a07723.html#a1d80e0848c06c658a4c0587b686fe09d", null ],
-    [ "number", "d6/da1/a07723.html#ae6bd7db37ac17752edbc8d336081b91e", null ],
-    [ "time", "d6/da1/a07723.html#a0d0ef1b3552e5298763a3f28714bc864", null ]
+    [ "Glyph", "d6/da1/a07723.html#a99ef57f9c0bbab04953bd6edcf5b83f2", null ],
+    [ "Slot", "d6/da1/a07723.html#acc79672f4bddb27eb980b6aac19f83ec", null ]
 ];

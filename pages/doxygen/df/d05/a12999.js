@@ -1,13 +1,15 @@
 var a12999 =
 [
-    [ "boss_felmystAI", "df/d05/a12999.html#a893e3f1222b3b418cfa514835516be64", null ],
-    [ "DoAction", "df/d05/a12999.html#a5c62c49fa77cefd4b489fff03af9cf51", null ],
-    [ "JustDied", "df/d05/a12999.html#ab09d7b7281cc5cfaa6a8168bba8c8429", null ],
-    [ "JustEngagedWith", "df/d05/a12999.html#ae443a5944d09332421e8bef7af1e6ab6", null ],
-    [ "JustSummoned", "df/d05/a12999.html#aadfd0a28c6b59faf5adc7d965bdc0874", null ],
-    [ "KilledUnit", "df/d05/a12999.html#a8f5260992b3de71ee80d50c3fc76077f", null ],
-    [ "MovementInform", "df/d05/a12999.html#aeaea0da5d71e7ab4c5df915146a32470", null ],
-    [ "Reset", "df/d05/a12999.html#adce16a5540d44427343b3d7dcd51f40f", null ],
-    [ "UpdateAI", "df/d05/a12999.html#a46f47c3eb6f4be7a1a18663706c28994", null ],
-    [ "events2", "df/d05/a12999.html#a2150dadfd03c74ae5e3150b6ec039a3b", null ]
+    [ "boss_kormok", "df/d05/a12999.html#a2bacfd366d084cae31b8cc689fb26d0b", null ],
+    [ "DamageTaken", "df/d05/a12999.html#a2aa7fedea09b4d0526028826be2cb360", null ],
+    [ "IsSummonedBy", "df/d05/a12999.html#a641bd06b5da44e04534150fc1fc6f9e0", null ],
+    [ "JustDied", "df/d05/a12999.html#a219bc4f5e13e58bb4a8f79cbc36b5ad7", null ],
+    [ "JustEngagedWith", "df/d05/a12999.html#a7fc5bb05831e5b8e22c7d59c5c71f87a", null ],
+    [ "JustSummoned", "df/d05/a12999.html#a49ba1031e5639c3d8fdaf9ae9884a038", null ],
+    [ "Reset", "df/d05/a12999.html#a70252bf1680510294f62e2c42220156e", null ],
+    [ "SummonedCreatureDespawn", "df/d05/a12999.html#a6f23b4b006de4b8b5fda6e0203e2f8a7", null ],
+    [ "UpdateAI", "df/d05/a12999.html#aea5651a98492885eb4d598714df4fd40", null ],
+    [ "_mages", "df/d05/a12999.html#ae0de3f9848cb9051a18ba15347af3e7a", null ],
+    [ "_scheduler", "df/d05/a12999.html#a540ef7a05a503a989f93d4b53daacb4b", null ],
+    [ "_summons", "df/d05/a12999.html#aefaac0c5af45f63faeac6bf9ef1ca7fc", null ]
 ];

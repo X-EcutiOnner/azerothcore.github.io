@@ -1,14 +1,7 @@
 var a09415 =
 [
-    [ "DoublePosition", "d9/d37/a09415.html#a59190a2456f052c6ffa6e181ced94a4f", null ],
-    [ "DoublePosition", "d9/d37/a09415.html#a9900e06c36c6ebc4edd0ba45264990b8", null ],
-    [ "DoublePosition", "d9/d37/a09415.html#a543ff52f7b278f68cc36ee880932e744", null ],
-    [ "GetDoubleExactDist2dSq", "d9/d37/a09415.html#ae17b4e695ff23a8ec323405801f2013a", null ],
-    [ "GetDoublePositionX", "d9/d37/a09415.html#a7c769d1762f99150a46ceaa2b2bfa8e8", null ],
-    [ "GetDoublePositionY", "d9/d37/a09415.html#a201096c85022d54b1d9dbe9264df901f", null ],
-    [ "GetDoublePositionZ", "d9/d37/a09415.html#a01fc3985229b6bd03e6d1da95f871c17", null ],
-    [ "sync", "d9/d37/a09415.html#a75e75187d6663591a39c87bc1086aebd", null ],
-    [ "DoublePosX", "d9/d37/a09415.html#a4f9ffbbe4396f3ec26a81139f5868e2e", null ],
-    [ "DoublePosY", "d9/d37/a09415.html#a90839893f3a58a72a07177d3eee1d691", null ],
-    [ "DoublePosZ", "d9/d37/a09415.html#a19af503e9623ccaeb032bfe9f0a0ed63", null ]
+    [ "PlayerAtMinimumRangeAway", "d9/d37/a09415.html#a12eb5ff486232f88c7303741ebd8e65e", null ],
+    [ "operator()", "d9/d37/a09415.html#a1cfda97a0590e033f9b6043c8de2d0a0", null ],
+    [ "fRange", "d9/d37/a09415.html#a0c58929de429694f24877525287f15a6", null ],
+    [ "unit", "d9/d37/a09415.html#a4ea0f83c3287079cff40fac15272fa94", null ]
 ];

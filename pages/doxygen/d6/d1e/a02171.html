@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/scripts/Northrend/IcecrownCitadel/icecrown_citadel_teleport.cpp File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/game/Battlegrounds/BattlegroundUtils.cpp File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,134 +105,72 @@ $(document).ready(function(){initNavTree('d6/d1e/a02171.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#nested-classes">Classes</a> &#124;
-<a href="#define-members">Macros</a> &#124;
-<a href="#enum-members">Enumerations</a> &#124;
 <a href="#func-members">Functions</a>  </div>
-  <div class="headertitle"><div class="title">icecrown_citadel_teleport.cpp File Reference</div></div>
+  <div class="headertitle"><div class="title">BattlegroundUtils.cpp File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">AreaTriggerScript.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">GameObjectScript.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">InstanceScript.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Player.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ScriptedGossip.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Spell.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">icecrown_citadel.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">SpellMgr.h</a>&quot;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">BattlegroundUtils.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">World.h</a>&quot;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
-Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dbc/a18780.html">icecrown_citadel_teleport</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d16/a18784.html">at_frozen_throne_teleport</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="define-members" name="define-members"></a>
-Macros</h2></td></tr>
-<tr class="memitem:a6fba34564bcdeb5d7a73d3c21850f02a"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d1e/a02171.html#a6fba34564bcdeb5d7a73d3c21850f02a">GOSSIP_SENDER_ICC_PORT</a>&#160;&#160;&#160;631</td></tr>
-<tr class="separator:a6fba34564bcdeb5d7a73d3c21850f02a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
-Enumerations</h2></td></tr>
-<tr class="memitem:a6fd4f2624c3269860a58fdcfbb273928"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d1e/a02171.html#a6fd4f2624c3269860a58fdcfbb273928">ICCTeleportOption</a> { <br />
-&#160;&#160;<a class="el" href="../../d6/d1e/a02171.html#a6fd4f2624c3269860a58fdcfbb273928a5d845311579fa05dd470ab95e3810591">ICC_TELEPORT_GOSSIP_OPT_LIGHTS_HAMMER</a> = 0
-, <br />
-&#160;&#160;<a class="el" href="../../d6/d1e/a02171.html#a6fd4f2624c3269860a58fdcfbb273928a655e3ad8e4a944b86f70a1979aeb3c3c">ICC_TELEPORT_GOSSIP_OPT_ORATORY_OF_THE_DAMNED</a> = 1
-, <br />
-&#160;&#160;<a class="el" href="../../d6/d1e/a02171.html#a6fd4f2624c3269860a58fdcfbb273928a96ac68871dedf676d54492d7a0820201">ICC_TELEPORT_GOSSIP_OPT_RAMPART_OF_SKULLS</a> = 3
-, <br />
-&#160;&#160;<a class="el" href="../../d6/d1e/a02171.html#a6fd4f2624c3269860a58fdcfbb273928ac08906a205127f970d28dbee8bade56c">ICC_TELEPORT_GOSSIP_OPT_DEATHBRINGERS_RISE</a> = 4
-, <br />
-&#160;&#160;<a class="el" href="../../d6/d1e/a02171.html#a6fd4f2624c3269860a58fdcfbb273928ae2d96cab8de57bd2a2a012503c2ddbf2">ICC_TELEPORT_GOSSIP_OPT_UPPER_SPIRE</a> = 5
-, <br />
-&#160;&#160;<a class="el" href="../../d6/d1e/a02171.html#a6fd4f2624c3269860a58fdcfbb273928a196236e7232fea20a0707b300c9a996b">ICC_TELEPORT_GOSSIP_OPT_SINDRAGOSAS_LAIR</a> = 6
-<br />
- }</td></tr>
-<tr class="separator:a6fd4f2624c3269860a58fdcfbb273928"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:aba5bcd7624aeee0dbd61deec7f8d5d5b"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d1e/a02171.html#aba5bcd7624aeee0dbd61deec7f8d5d5b">AddSC_icecrown_citadel_teleport</a> ()</td></tr>
-<tr class="separator:aba5bcd7624aeee0dbd61deec7f8d5d5b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab22bdb52b0357434faced9df19db9d81"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/dbd/a04634.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d1e/a02171.html#ab22bdb52b0357434faced9df19db9d81">GetMinPlayersPerTeam</a> (<a class="el" href="../../df/df8/a07267.html">Battleground</a> *bg, <a class="el" href="../../d5/d7a/a28183.html">PvPDifficultyEntry</a> const *bracketEntry)</td></tr>
+<tr class="separator:ab22bdb52b0357434faced9df19db9d81"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Macro Definition Documentation</h2>
-<a id="a6fba34564bcdeb5d7a73d3c21850f02a" name="a6fba34564bcdeb5d7a73d3c21850f02a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a6fba34564bcdeb5d7a73d3c21850f02a">&#9670;&#160;</a></span>GOSSIP_SENDER_ICC_PORT</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">#define GOSSIP_SENDER_ICC_PORT&#160;&#160;&#160;631</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<h2 class="groupheader">Enumeration Type Documentation</h2>
-<a id="a6fd4f2624c3269860a58fdcfbb273928" name="a6fd4f2624c3269860a58fdcfbb273928"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a6fd4f2624c3269860a58fdcfbb273928">&#9670;&#160;</a></span>ICCTeleportOption</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">enum <a class="el" href="../../d6/d1e/a02171.html#a6fd4f2624c3269860a58fdcfbb273928">ICCTeleportOption</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a6fd4f2624c3269860a58fdcfbb273928a5d845311579fa05dd470ab95e3810591" name="a6fd4f2624c3269860a58fdcfbb273928a5d845311579fa05dd470ab95e3810591"></a>ICC_TELEPORT_GOSSIP_OPT_LIGHTS_HAMMER&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a6fd4f2624c3269860a58fdcfbb273928a655e3ad8e4a944b86f70a1979aeb3c3c" name="a6fd4f2624c3269860a58fdcfbb273928a655e3ad8e4a944b86f70a1979aeb3c3c"></a>ICC_TELEPORT_GOSSIP_OPT_ORATORY_OF_THE_DAMNED&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a6fd4f2624c3269860a58fdcfbb273928a96ac68871dedf676d54492d7a0820201" name="a6fd4f2624c3269860a58fdcfbb273928a96ac68871dedf676d54492d7a0820201"></a>ICC_TELEPORT_GOSSIP_OPT_RAMPART_OF_SKULLS&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a6fd4f2624c3269860a58fdcfbb273928ac08906a205127f970d28dbee8bade56c" name="a6fd4f2624c3269860a58fdcfbb273928ac08906a205127f970d28dbee8bade56c"></a>ICC_TELEPORT_GOSSIP_OPT_DEATHBRINGERS_RISE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a6fd4f2624c3269860a58fdcfbb273928ae2d96cab8de57bd2a2a012503c2ddbf2" name="a6fd4f2624c3269860a58fdcfbb273928ae2d96cab8de57bd2a2a012503c2ddbf2"></a>ICC_TELEPORT_GOSSIP_OPT_UPPER_SPIRE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a6fd4f2624c3269860a58fdcfbb273928a196236e7232fea20a0707b300c9a996b" name="a6fd4f2624c3269860a58fdcfbb273928a196236e7232fea20a0707b300c9a996b"></a>ICC_TELEPORT_GOSSIP_OPT_SINDRAGOSAS_LAIR&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">   30</span>{</div>
-<div class="line"><span class="lineno">   31</span>    <a class="code hl_enumvalue" href="../../d6/d1e/a02171.html#a6fd4f2624c3269860a58fdcfbb273928a5d845311579fa05dd470ab95e3810591">ICC_TELEPORT_GOSSIP_OPT_LIGHTS_HAMMER</a> = 0,</div>
-<div class="line"><span class="lineno">   32</span>    <a class="code hl_enumvalue" href="../../d6/d1e/a02171.html#a6fd4f2624c3269860a58fdcfbb273928a655e3ad8e4a944b86f70a1979aeb3c3c">ICC_TELEPORT_GOSSIP_OPT_ORATORY_OF_THE_DAMNED</a> = 1,</div>
-<div class="line"><span class="lineno">   33</span>    <a class="code hl_enumvalue" href="../../d6/d1e/a02171.html#a6fd4f2624c3269860a58fdcfbb273928a96ac68871dedf676d54492d7a0820201">ICC_TELEPORT_GOSSIP_OPT_RAMPART_OF_SKULLS</a> = 3,</div>
-<div class="line"><span class="lineno">   34</span>    <a class="code hl_enumvalue" href="../../d6/d1e/a02171.html#a6fd4f2624c3269860a58fdcfbb273928ac08906a205127f970d28dbee8bade56c">ICC_TELEPORT_GOSSIP_OPT_DEATHBRINGERS_RISE</a> = 4,</div>
-<div class="line"><span class="lineno">   35</span>    <a class="code hl_enumvalue" href="../../d6/d1e/a02171.html#a6fd4f2624c3269860a58fdcfbb273928ae2d96cab8de57bd2a2a012503c2ddbf2">ICC_TELEPORT_GOSSIP_OPT_UPPER_SPIRE</a> = 5,</div>
-<div class="line"><span class="lineno">   36</span>    <a class="code hl_enumvalue" href="../../d6/d1e/a02171.html#a6fd4f2624c3269860a58fdcfbb273928a196236e7232fea20a0707b300c9a996b">ICC_TELEPORT_GOSSIP_OPT_SINDRAGOSAS_LAIR</a> = 6</div>
-<div class="line"><span class="lineno">   37</span>};</div>
-<div class="ttc" id="aa02171_html_a6fd4f2624c3269860a58fdcfbb273928a196236e7232fea20a0707b300c9a996b"><div class="ttname"><a href="../../d6/d1e/a02171.html#a6fd4f2624c3269860a58fdcfbb273928a196236e7232fea20a0707b300c9a996b">ICC_TELEPORT_GOSSIP_OPT_SINDRAGOSAS_LAIR</a></div><div class="ttdeci">@ ICC_TELEPORT_GOSSIP_OPT_SINDRAGOSAS_LAIR</div><div class="ttdef"><b>Definition:</b> icecrown_citadel_teleport.cpp:36</div></div>
-<div class="ttc" id="aa02171_html_a6fd4f2624c3269860a58fdcfbb273928a5d845311579fa05dd470ab95e3810591"><div class="ttname"><a href="../../d6/d1e/a02171.html#a6fd4f2624c3269860a58fdcfbb273928a5d845311579fa05dd470ab95e3810591">ICC_TELEPORT_GOSSIP_OPT_LIGHTS_HAMMER</a></div><div class="ttdeci">@ ICC_TELEPORT_GOSSIP_OPT_LIGHTS_HAMMER</div><div class="ttdef"><b>Definition:</b> icecrown_citadel_teleport.cpp:31</div></div>
-<div class="ttc" id="aa02171_html_a6fd4f2624c3269860a58fdcfbb273928a655e3ad8e4a944b86f70a1979aeb3c3c"><div class="ttname"><a href="../../d6/d1e/a02171.html#a6fd4f2624c3269860a58fdcfbb273928a655e3ad8e4a944b86f70a1979aeb3c3c">ICC_TELEPORT_GOSSIP_OPT_ORATORY_OF_THE_DAMNED</a></div><div class="ttdeci">@ ICC_TELEPORT_GOSSIP_OPT_ORATORY_OF_THE_DAMNED</div><div class="ttdef"><b>Definition:</b> icecrown_citadel_teleport.cpp:32</div></div>
-<div class="ttc" id="aa02171_html_a6fd4f2624c3269860a58fdcfbb273928a96ac68871dedf676d54492d7a0820201"><div class="ttname"><a href="../../d6/d1e/a02171.html#a6fd4f2624c3269860a58fdcfbb273928a96ac68871dedf676d54492d7a0820201">ICC_TELEPORT_GOSSIP_OPT_RAMPART_OF_SKULLS</a></div><div class="ttdeci">@ ICC_TELEPORT_GOSSIP_OPT_RAMPART_OF_SKULLS</div><div class="ttdef"><b>Definition:</b> icecrown_citadel_teleport.cpp:33</div></div>
-<div class="ttc" id="aa02171_html_a6fd4f2624c3269860a58fdcfbb273928ac08906a205127f970d28dbee8bade56c"><div class="ttname"><a href="../../d6/d1e/a02171.html#a6fd4f2624c3269860a58fdcfbb273928ac08906a205127f970d28dbee8bade56c">ICC_TELEPORT_GOSSIP_OPT_DEATHBRINGERS_RISE</a></div><div class="ttdeci">@ ICC_TELEPORT_GOSSIP_OPT_DEATHBRINGERS_RISE</div><div class="ttdef"><b>Definition:</b> icecrown_citadel_teleport.cpp:34</div></div>
-<div class="ttc" id="aa02171_html_a6fd4f2624c3269860a58fdcfbb273928ae2d96cab8de57bd2a2a012503c2ddbf2"><div class="ttname"><a href="../../d6/d1e/a02171.html#a6fd4f2624c3269860a58fdcfbb273928ae2d96cab8de57bd2a2a012503c2ddbf2">ICC_TELEPORT_GOSSIP_OPT_UPPER_SPIRE</a></div><div class="ttdeci">@ ICC_TELEPORT_GOSSIP_OPT_UPPER_SPIRE</div><div class="ttdef"><b>Definition:</b> icecrown_citadel_teleport.cpp:35</div></div>
-</div><!-- fragment -->
-</div>
-</div>
 <h2 class="groupheader">Function Documentation</h2>
-<a id="aba5bcd7624aeee0dbd61deec7f8d5d5b" name="aba5bcd7624aeee0dbd61deec7f8d5d5b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aba5bcd7624aeee0dbd61deec7f8d5d5b">&#9670;&#160;</a></span>AddSC_icecrown_citadel_teleport()</h2>
+<a id="ab22bdb52b0357434faced9df19db9d81" name="ab22bdb52b0357434faced9df19db9d81"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab22bdb52b0357434faced9df19db9d81">&#9670;&#160;</a></span>GetMinPlayersPerTeam()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">void AddSC_icecrown_citadel_teleport </td>
+          <td class="memname"><a class="el" href="../../d0/dbd/a04634.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> GetMinPlayersPerTeam </td>
           <td>(</td>
-          <td class="paramname"></td><td>)</td>
+          <td class="paramtype"><a class="el" href="../../df/df8/a07267.html">Battleground</a> *&#160;</td>
+          <td class="paramname"><em>bg</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
           <td></td>
+          <td class="paramtype"><a class="el" href="../../d5/d7a/a28183.html">PvPDifficultyEntry</a> const *&#160;</td>
+          <td class="paramname"><em>bracketEntry</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  134</span>{</div>
-<div class="line"><span class="lineno">  135</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../db/dbc/a18780.html">icecrown_citadel_teleport</a>();</div>
-<div class="line"><span class="lineno">  136</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d3/d16/a18784.html">at_frozen_throne_teleport</a>();</div>
-<div class="line"><span class="lineno">  137</span>}</div>
-<div class="ttc" id="aa18780_html"><div class="ttname"><a href="../../db/dbc/a18780.html">icecrown_citadel_teleport</a></div><div class="ttdef"><b>Definition:</b> icecrown_citadel_teleport.cpp:40</div></div>
-<div class="ttc" id="aa18784_html"><div class="ttname"><a href="../../d3/d16/a18784.html">at_frozen_throne_teleport</a></div><div class="ttdef"><b>Definition:</b> icecrown_citadel_teleport.cpp:109</div></div>
+<div class="fragment"><div class="line"><span class="lineno">    5</span>{</div>
+<div class="line"><span class="lineno">    6</span>    <span class="comment">// The problem addressed here is that methods such as bg-&gt;GetMinLevel() and bg-&gt;GetMaxLevel() have a different meaning</span></div>
+<div class="line"><span class="lineno">    7</span>    <span class="comment">// according to whether the BG is a template (then it&#39;s the value from the `battleground_template` table)</span></div>
+<div class="line"><span class="lineno">    8</span>    <span class="comment">// or if it&#39;s the real BG (then it&#39;s the specific bracket minimum level, e.g. &quot;60&quot; for &quot;60-69&quot;).</span></div>
+<div class="line"><span class="lineno">    9</span> </div>
+<div class="line"><span class="lineno">   10</span>    <span class="keywordflow">if</span> (!bg-&gt;<a class="code hl_function" href="../../df/df8/a07267.html#acf16b3c5055b8a424e5f67cf471c5764">isTemplate</a>() || bg-&gt;<a class="code hl_function" href="../../df/df8/a07267.html#a8ca3356d984db0c5b6e09d61cf7a406c">isArena</a>())</div>
+<div class="line"><span class="lineno">   11</span>    {</div>
+<div class="line"><span class="lineno">   12</span>        <span class="keywordflow">return</span> bg-&gt;<a class="code hl_function" href="../../df/df8/a07267.html#a2def9e5daf5fcb029686b8000111ba5f">GetMinPlayersPerTeam</a>();</div>
+<div class="line"><span class="lineno">   13</span>    }</div>
+<div class="line"><span class="lineno">   14</span> </div>
+<div class="line"><span class="lineno">   15</span>    <span class="keyword">auto</span> maxPlayerLevel = <a class="code hl_define" href="../../d8/dfa/a04756.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>-&gt;getIntConfig(<a class="code hl_enumvalue" href="../../d3/df4/a02504.html#a17aac4c166ebe43e3b8fdccf9e012e41a6684273cdd36b9b8215844fc51358ae1">CONFIG_MAX_PLAYER_LEVEL</a>);</div>
+<div class="line"><span class="lineno">   16</span>    <span class="keyword">auto</span> isMaxLevel = bracketEntry-&gt;minLevel &lt;= maxPlayerLevel &amp;&amp; maxPlayerLevel &lt;= bracketEntry-&gt;maxLevel;</div>
+<div class="line"><span class="lineno">   17</span>    <span class="keyword">auto</span> lowLevelsOverride = <a class="code hl_define" href="../../d8/dfa/a04756.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>-&gt;getIntConfig(<a class="code hl_enumvalue" href="../../d3/df4/a02504.html#a17aac4c166ebe43e3b8fdccf9e012e41acc35d8a8f61002583d1c994bd93592eb">CONFIG_BATTLEGROUND_OVERRIDE_LOWLEVELS_MINPLAYERS</a>);</div>
+<div class="line"><span class="lineno">   18</span> </div>
+<div class="line"><span class="lineno">   19</span>    <span class="keywordflow">return</span> (lowLevelsOverride &amp;&amp; !isMaxLevel) ? lowLevelsOverride : bg-&gt;<a class="code hl_function" href="../../df/df8/a07267.html#a2def9e5daf5fcb029686b8000111ba5f">GetMinPlayersPerTeam</a>();</div>
+<div class="line"><span class="lineno">   20</span>}</div>
+<div class="ttc" id="aa02504_html_a17aac4c166ebe43e3b8fdccf9e012e41a6684273cdd36b9b8215844fc51358ae1"><div class="ttname"><a href="../../d3/df4/a02504.html#a17aac4c166ebe43e3b8fdccf9e012e41a6684273cdd36b9b8215844fc51358ae1">CONFIG_MAX_PLAYER_LEVEL</a></div><div class="ttdeci">@ CONFIG_MAX_PLAYER_LEVEL</div><div class="ttdef"><b>Definition:</b> IWorld.h:235</div></div>
+<div class="ttc" id="aa02504_html_a17aac4c166ebe43e3b8fdccf9e012e41acc35d8a8f61002583d1c994bd93592eb"><div class="ttname"><a href="../../d3/df4/a02504.html#a17aac4c166ebe43e3b8fdccf9e012e41acc35d8a8f61002583d1c994bd93592eb">CONFIG_BATTLEGROUND_OVERRIDE_LOWLEVELS_MINPLAYERS</a></div><div class="ttdeci">@ CONFIG_BATTLEGROUND_OVERRIDE_LOWLEVELS_MINPLAYERS</div><div class="ttdef"><b>Definition:</b> IWorld.h:307</div></div>
+<div class="ttc" id="aa04756_html_ga05dfb35c344e5b947a19e4284e7f5fa7"><div class="ttname"><a href="../../d8/dfa/a04756.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a></div><div class="ttdeci">#define sWorld</div><div class="ttdef"><b>Definition:</b> World.h:357</div></div>
+<div class="ttc" id="aa07267_html_a2def9e5daf5fcb029686b8000111ba5f"><div class="ttname"><a href="../../df/df8/a07267.html#a2def9e5daf5fcb029686b8000111ba5f">Battleground::GetMinPlayersPerTeam</a></div><div class="ttdeci">uint32 GetMinPlayersPerTeam() const</div><div class="ttdef"><b>Definition:</b> Battleground.h:341</div></div>
+<div class="ttc" id="aa07267_html_a8ca3356d984db0c5b6e09d61cf7a406c"><div class="ttname"><a href="../../df/df8/a07267.html#a8ca3356d984db0c5b6e09d61cf7a406c">Battleground::isArena</a></div><div class="ttdeci">bool isArena() const</div><div class="ttdef"><b>Definition:</b> Battleground.h:404</div></div>
+<div class="ttc" id="aa07267_html_acf16b3c5055b8a424e5f67cf471c5764"><div class="ttname"><a href="../../df/df8/a07267.html#acf16b3c5055b8a424e5f67cf471c5764">Battleground::isTemplate</a></div><div class="ttdeci">bool isTemplate() const</div><div class="ttdef"><b>Definition:</b> Battleground.h:332</div></div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00183">AddNorthrendScripts()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00307">CONFIG_BATTLEGROUND_OVERRIDE_LOWLEVELS_MINPLAYERS</a>, <a class="el" href="../../#l00235">CONFIG_MAX_PLAYER_LEVEL</a>, <a class="el" href="../../#l00341">Battleground::GetMinPlayersPerTeam()</a>, <a class="el" href="../../#l00404">Battleground::isArena()</a>, <a class="el" href="../../#l00332">Battleground::isTemplate()</a>, <a class="el" href="../../#l01437">PvPDifficultyEntry::maxLevel</a>, <a class="el" href="../../#l01436">PvPDifficultyEntry::minLevel</a>, and <a class="el" href="../../#l00357">sWorld</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00959">BattlegroundQueue::BattlegroundQueueAnnouncerUpdate()</a>, <a class="el" href="../../#l00707">BattlegroundQueue::BattlegroundQueueUpdate()</a>, and <a class="el" href="../../#l01036">BattlegroundQueue::SendMessageBGQueue()</a>.</p>
 
 </div>
 </div>
@@ -241,8 +179,8 @@ Functions</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_81f27dfa25f27c55a8e8044b1a11fbfb.html">Northrend</a></li><li class="navelem"><a class="el" href="../../dir_49de9ff38e0063bf9846434b8d63cf58.html">IcecrownCitadel</a></li><li class="navelem"><a class="el" href="../../d6/d1e/a02171.html">icecrown_citadel_teleport.cpp</a></li>
-    <li class="footer">Generated on Mon May 5 2025 20:45:32 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_fc52f0b797d74b4b54bfd04593b84648.html">Battlegrounds</a></li><li class="navelem"><a class="el" href="../../d6/d1e/a02171.html">BattlegroundUtils.cpp</a></li>
+    <li class="footer">Generated on Mon May 12 2025 20:45:17 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

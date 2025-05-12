@@ -1,10 +1,9 @@
 var a24351 =
 [
-    [ "npc_pet_gen_imp_in_a_bottle", "d2/daf/a24351.html#aa32b7770c2719d77d46fcf6d22989284", null ],
-    [ "InitializeAI", "d2/daf/a24351.html#a9fde3fd30d48068a3ad1a19f65c61bf2", null ],
-    [ "UpdateAI", "d2/daf/a24351.html#a453ec855bb21a30cb72b540ff8f77035", null ],
-    [ "_data", "d2/daf/a24351.html#a982ec923536c2c33353a3673aa425b6a", null ],
-    [ "_hasParty", "d2/daf/a24351.html#a192d9e2ba340040cb6ba5c0f324ffb2d", null ],
-    [ "_ownerGUID", "d2/daf/a24351.html#a5452226bbe4f65a9bd7ce103a7648a2f", null ],
-    [ "_talkTimer", "d2/daf/a24351.html#a07eba859ad2d5db4f6d91734c04020cf", null ]
+    [ "npc_pet_gen_fetch_ball", "d2/daf/a24351.html#a4cd4dabd5df72ad1e64bdc8d6efb2f1b", null ],
+    [ "IsSummonedBy", "d2/daf/a24351.html#abaf6308f7c47fd05acb86055bec0aea8", null ],
+    [ "SpellHitTarget", "d2/daf/a24351.html#a87bdded236f6584d9b71507a1253f7d0", null ],
+    [ "UpdateAI", "d2/daf/a24351.html#a1e0f75d5cd438d500ad94c5024bf83ae", null ],
+    [ "checkTimer", "d2/daf/a24351.html#ab8d0a3a9ba2a8e0d6f58b3867f20974e", null ],
+    [ "targetGUID", "d2/daf/a24351.html#ae474374af7c2270e218ed236d90c789c", null ]
 ];

@@ -1,6 +1,7 @@
 var a17403 =
 [
-    [ "npc_gunshipAI", "d1/d76/a17407.html", "d1/d76/a17407" ],
-    [ "npc_gunship", "d2/deb/a17403.html#a86b3ba622bd6e606cd21f7c7d8dddd1b", null ],
-    [ "GetAI", "d2/deb/a17403.html#adcd37802a2850f4ec8892f3495d5dc16", null ]
+    [ "HandleScript", "d2/deb/a17403.html#a5fe0b684473bd5dd1ff9b12432ff3de8", null ],
+    [ "Load", "d2/deb/a17403.html#ab1d81386ae3ccd332c01864d7f456017", null ],
+    [ "PrepareSpellScript", "d2/deb/a17403.html#ae3ef753ff4c99aa8bed20ce3369a7e0f", null ],
+    [ "Register", "d2/deb/a17403.html#a7edb44f70501c2e760d29c8f78a4e087", null ]
 ];

@@ -1,11 +1,14 @@
 var a07191 =
 [
-    [ "BattlegroundSAScore", "d8/da7/a07191.html#afb1312e304eee973740cfe208657c5b9", null ],
-    [ "BuildObjectivesBlock", "d8/da7/a07191.html#a57bf8241b404571cda5a8e113c334eab", null ],
-    [ "GetAttr1", "d8/da7/a07191.html#aa31cd91ede928c57cd201dba61f7f585", null ],
-    [ "GetAttr2", "d8/da7/a07191.html#aba47bb1ec440f405bfde8513c60ae576", null ],
-    [ "UpdateScore", "d8/da7/a07191.html#a169a2a0a51edb6564e98c4b55f3e8a3b", null ],
-    [ "BattlegroundSA", "d8/da7/a07191.html#ab31c13442be48941f5dab4214b95cde9", null ],
-    [ "DemolishersDestroyed", "d8/da7/a07191.html#ac49c28efa42cfad7232268de4be45e66", null ],
-    [ "GatesDestroyed", "d8/da7/a07191.html#aeb1310b64150dd51f91722574a9dd3fc", null ]
+    [ "ArenaTeamScore", "d8/da7/a07191.html#a017cd1a4d90a466b42aeab8ff1a12f3a", null ],
+    [ "~ArenaTeamScore", "d8/da7/a07191.html#ade081f31c498ee03a80f73fe70a56cc7", null ],
+    [ "Assign", "d8/da7/a07191.html#a28c3a055e1ad69693470f38fe676f0c6", null ],
+    [ "BuildRatingInfoBlock", "d8/da7/a07191.html#ae3e2b8e8a29c50ca20a42a0364349764", null ],
+    [ "BuildTeamInfoBlock", "d8/da7/a07191.html#aa876e0cf0b36f8fdb9efe8989092f143", null ],
+    [ "Reset", "d8/da7/a07191.html#a90611fd5e656d2d62917003ff0a5ff00", null ],
+    [ "Arena", "d8/da7/a07191.html#a5f488c25aa439166d145713c67e7d085", null ],
+    [ "Battleground", "d8/da7/a07191.html#a0c4048053f5f5cabe5bfbfdde8eded86", null ],
+    [ "MatchmakerRating", "d8/da7/a07191.html#a1e82169562a459371f973932d22e2f15", null ],
+    [ "RatingChange", "d8/da7/a07191.html#a61c85f158b767a6c81de87d7ad5007db", null ],
+    [ "TeamName", "d8/da7/a07191.html#ab99de3b9213f3ccab1791858df6aa3e8", null ]
 ];

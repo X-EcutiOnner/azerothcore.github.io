@@ -1,12 +1,10 @@
 var a10871 =
 [
-    [ "cooldown", "d8/d9a/a10871.html#a0cd88c27979ccc5284aa46846db32a7c", null ],
-    [ "customChance", "d8/d9a/a10871.html#adf6742b70f0b00abddf1da6f45da3d16", null ],
-    [ "ppmRate", "d8/d9a/a10871.html#a931b2df4a187482e32ef252c3320080a", null ],
-    [ "procEx", "d8/d9a/a10871.html#a911770f28fe36243593b12fe92d6fbec", null ],
-    [ "procFlags", "d8/d9a/a10871.html#af253ef32b9de49fe85d0fe6f06855a60", null ],
-    [ "procPhase", "d8/d9a/a10871.html#a179d83770a02e4ab13f809ed3943a399", null ],
-    [ "schoolMask", "d8/d9a/a10871.html#a9a6d38ee4e4a35066780ef924c63f92f", null ],
-    [ "spellFamilyMask", "d8/d9a/a10871.html#a2aa57bf419ab51129fe7240750ee8910", null ],
-    [ "spellFamilyName", "d8/d9a/a10871.html#a5ffa91b3f66ebb0ac34f30e1c532fb3a", null ]
+    [ "WorldStateInfo", "d2/d20/a10875.html", "d2/d20/a10875" ],
+    [ "InitWorldStates", "d8/d9a/a10871.html#a9b1f27c7a07df6629473a6e9d6aa45b5", null ],
+    [ "Write", "d8/d9a/a10871.html#ad40588a16c7430a633c0537c82ea3a5b", null ],
+    [ "AreaID", "d8/d9a/a10871.html#a98ac08c68b5c004fd352f38c7084531f", null ],
+    [ "MapID", "d8/d9a/a10871.html#a657c3043204c6957e8438c3c3c7068f3", null ],
+    [ "Worldstates", "d8/d9a/a10871.html#a29ffba2a130f0b93d61b2025255502fb", null ],
+    [ "ZoneID", "d8/d9a/a10871.html#add07a226b1fe8ea752306b0e04d4ef71", null ]
 ];

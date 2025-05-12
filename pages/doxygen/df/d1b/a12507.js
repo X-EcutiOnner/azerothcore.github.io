@@ -1,6 +1,7 @@
 var a12507 =
 [
-    [ "instance_magisters_terrace_InstanceMapScript", "d9/d53/a12511.html", "d9/d53/a12511" ],
-    [ "instance_magisters_terrace", "df/d1b/a12507.html#a81e23ce04c4d765193d2d2763ef78987", null ],
-    [ "GetInstanceScript", "df/d1b/a12507.html#a465cbaebb13535cdb7f6a2108e026fc5", null ]
+    [ "npc_kernobeeAI", "d9/d53/a12511.html", "d9/d53/a12511" ],
+    [ "npc_kernobee", "df/d1b/a12507.html#a325aa3f9962cb99b4af362a23c1b16d8", null ],
+    [ "GetAI", "df/d1b/a12507.html#a13da5b7e79ada7c5a88e84ca551ce8eb", null ],
+    [ "OnQuestAccept", "df/d1b/a12507.html#aa830285cf19211b8233620257735ab62", null ]
 ];

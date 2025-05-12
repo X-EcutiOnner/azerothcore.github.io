@@ -1,17 +1,15 @@
 var a07111 =
 [
-    [ "BattlegroundAVScore", "df/ded/a07111.html#a9208f91470836f0db1257d8d8ec1aaf0", null ],
-    [ "BuildObjectivesBlock", "df/ded/a07111.html#a99fa0ee715145176d9e36ecc39ca2e12", null ],
-    [ "GetAttr1", "df/ded/a07111.html#a3da772b4600475972574426a86670dd3", null ],
-    [ "GetAttr2", "df/ded/a07111.html#ac72f50e8959e759d0c285a61967680dd", null ],
-    [ "GetAttr3", "df/ded/a07111.html#a57f53d5fb681683749ff95767dd17c0e", null ],
-    [ "GetAttr4", "df/ded/a07111.html#ae4cc7eb2b4bc79c0166e53567edfb205", null ],
-    [ "GetAttr5", "df/ded/a07111.html#a13edee0d2da9b539eeab5d5d7a15dcc9", null ],
-    [ "UpdateScore", "df/ded/a07111.html#aa598cf124232e7f7a8335efe527e20e1", null ],
-    [ "BattlegroundAV", "df/ded/a07111.html#abb499401bd69b6a6d0c8365f36a70ad7", null ],
-    [ "GraveyardsAssaulted", "df/ded/a07111.html#a17e5ba885b1dd8d4f4f1992b3503a31f", null ],
-    [ "GraveyardsDefended", "df/ded/a07111.html#ae8d7e9ae9602be798937c1b562d9b305", null ],
-    [ "MinesCaptured", "df/ded/a07111.html#a09038f1133996849064da1b09983be82", null ],
-    [ "TowersAssaulted", "df/ded/a07111.html#a28b8aa5df57cea0b481edc5a0b8c490e", null ],
-    [ "TowersDefended", "df/ded/a07111.html#aeb6175c1a67e6f55b6719bb879bd8b62", null ]
+    [ "AuctionHouseSearcher", "df/ded/a07111.html#adee77153a7b9efeac149e6c951082986", null ],
+    [ "~AuctionHouseSearcher", "df/ded/a07111.html#a84842935539c5ef8b02815cc8697e568", null ],
+    [ "AddAuction", "df/ded/a07111.html#a09e01dd8840a50f6b6dd5f70ad9ec10c", null ],
+    [ "NotifyAllWorkers", "df/ded/a07111.html#a443577cfba0af003e7e0e8834474a6c1", null ],
+    [ "NotifyOneWorker", "df/ded/a07111.html#a1b70b786bf6e57d9d9cae8f34f0d779b", null ],
+    [ "QueueSearchRequest", "df/ded/a07111.html#a53caf3298638d325a8b9e97584296ad3", null ],
+    [ "RemoveAuction", "df/ded/a07111.html#a145da4d009d9814a4e76fae0d02f33e4", null ],
+    [ "Update", "df/ded/a07111.html#ac8c7b88346dc99bed5fe8d0efb28eebb", null ],
+    [ "UpdateBid", "df/ded/a07111.html#a7bb50e3e903c73a83469e7323917d40d", null ],
+    [ "_requestQueue", "df/ded/a07111.html#ac221abeb9a760c90d6110310970e6463", null ],
+    [ "_responseQueue", "df/ded/a07111.html#a772e65025ae498b8837222ae98f49c28", null ],
+    [ "_workerThreads", "df/ded/a07111.html#aa1cedd8cb22b840599b97bf7c7df0949", null ]
 ];

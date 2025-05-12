@@ -1,23 +1,13 @@
 var a05371 =
 [
-    [ "EventProcessor", "df/d06/a05371.html#a5c430ef08365f5eeca0f3321991bfaac", null ],
-    [ "~EventProcessor", "df/d06/a05371.html#af30a066c911c3841d35854c900743b9e", null ],
-    [ "AddEvent", "df/d06/a05371.html#a6cac613c3aaea0f576619a352f2727c4", null ],
-    [ "AddEvent", "df/d06/a05371.html#a0ecdf822624a632b7b3fad1e66228cfb", null ],
-    [ "AddEvent", "df/d06/a05371.html#a7c3cadedc39eb9bb27625869ae79f818", null ],
-    [ "AddEventAtOffset", "df/d06/a05371.html#ac4cfbe963d7e9335f6404666a6b95bad", null ],
-    [ "AddEventAtOffset", "df/d06/a05371.html#af1693df9f9c199ab94975c3b03217c02", null ],
-    [ "AddEventAtOffset", "df/d06/a05371.html#ac13c627f0ecfc4a1443f8e2a1ee1b4c7", null ],
-    [ "AddEventAtOffset", "df/d06/a05371.html#af2f9f20522e1087c52d0dbb3ac4b076b", null ],
-    [ "AddEventAtOffset", "df/d06/a05371.html#a62d1cf008ce199778e30d518050b8161", null ],
-    [ "AddEventAtOffset", "df/d06/a05371.html#a33ae3b0f73b1db3e905661644dce88b9", null ],
-    [ "CalculateQueueTime", "df/d06/a05371.html#a2db97870b30361980b2d72ef806de951", null ],
-    [ "CalculateTime", "df/d06/a05371.html#a1a92f983f1dd415146c2875f80cba433", null ],
-    [ "CancelEventGroup", "df/d06/a05371.html#a29651ba6704e7908820af60ec37a2478", null ],
-    [ "KillAllEvents", "df/d06/a05371.html#a15a65ecc2391f505266176cfc7f29c39", null ],
-    [ "ModifyEventTime", "df/d06/a05371.html#ad54487e1753d8ce12bdddb1358ddb0cc", null ],
-    [ "Update", "df/d06/a05371.html#a72fe67593c7684a55d27fb225ea51d05", null ],
-    [ "m_aborting", "df/d06/a05371.html#a7a1beec186648c90c112ead3cc5df064", null ],
-    [ "m_events", "df/d06/a05371.html#a168a435c77de52a151c735d3f004dbb9", null ],
-    [ "m_time", "df/d06/a05371.html#a829eb8c07982b66e98c0ca118b54aaef", null ]
+    [ "MPSCQueueIntrusive", "df/d06/a05371.html#a8e05361abed759932c49b0fc71ed09c1", null ],
+    [ "~MPSCQueueIntrusive", "df/d06/a05371.html#a8155857825ceb1b7154ea82a63dbce08", null ],
+    [ "MPSCQueueIntrusive", "df/d06/a05371.html#afaee06af7734e53ce50674e4ef7277b2", null ],
+    [ "Dequeue", "df/d06/a05371.html#a798e36f41ef34c226690f76e9dc03fd6", null ],
+    [ "Enqueue", "df/d06/a05371.html#a233004b906cfa66cdd285233105dddf7", null ],
+    [ "operator=", "df/d06/a05371.html#a93cdd07d00b7dff8a7da5bf4846b26c7", null ],
+    [ "_dummy", "df/d06/a05371.html#ad4d3a9cebe46fc524e474b7854a20b03", null ],
+    [ "_dummyPtr", "df/d06/a05371.html#a115e9affe6159ae8aa08c6fc358e400c", null ],
+    [ "_head", "df/d06/a05371.html#a7fb32fbb507e82f9e8a6c1691e281fcd", null ],
+    [ "_tail", "df/d06/a05371.html#ac7e333db415e6301a02052c53779d1d4", null ]
 ];

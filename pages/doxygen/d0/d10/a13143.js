@@ -1,6 +1,8 @@
 var a13143 =
 [
-    [ "HandlePeriodic", "d0/d10/a13143.html#ae090fc1fc8eab18cf6f744d9385fb713", null ],
-    [ "PrepareAuraScript", "d0/d10/a13143.html#a2722b97e12e9371745d7f38504d9efdf", null ],
-    [ "Register", "d0/d10/a13143.html#acb892b1e0281da08af07b2dd2a04ca03", null ]
+    [ "npc_madrigosa", "d0/d10/a13143.html#a7624e25e00c1e7505ba171d0be40beb3", null ],
+    [ "DoAction", "d0/d10/a13143.html#aaf481ec840e679a9633bd3ecdb4eb3df", null ],
+    [ "UpdateAI", "d0/d10/a13143.html#a3431d13ea4ebd97d3fc6e542f89e033d", null ],
+    [ "events", "d0/d10/a13143.html#a5859e4c8454371eb71740616d4763c0e", null ],
+    [ "instance", "d0/d10/a13143.html#a09525d3bb35d1da4246bd84bbadea304", null ]
 ];

@@ -1,6 +1,13 @@
 var a15427 =
 [
-    [ "npc_aquementasAI", "dd/d26/a15431.html", "dd/d26/a15431" ],
-    [ "npc_aquementas", "d7/d38/a15427.html#a81d0b010c2aef0ea329ff7656b76cbe5", null ],
-    [ "GetAI", "d7/d38/a15427.html#a8a071b3073d69306feb84aca347a22c8", null ]
+    [ "npc_shenthulAI", "d7/d38/a15427.html#ae056474022c27be5565bf018a1b56f0b", null ],
+    [ "JustEngagedWith", "d7/d38/a15427.html#acb202ef530bc11ea807f580ff5dfc621", null ],
+    [ "ReceiveEmote", "d7/d38/a15427.html#ab2ddc3e447b36cb0fceffdaff0fca592", null ],
+    [ "Reset", "d7/d38/a15427.html#af077e96eb8bf89af2d6eb79907444a17", null ],
+    [ "UpdateAI", "d7/d38/a15427.html#a2ae643c11c6ea3808be922de96a24e8f", null ],
+    [ "CanEmote", "d7/d38/a15427.html#a920209c374e611e96347d209337c044f", null ],
+    [ "CanTalk", "d7/d38/a15427.html#a82ea8d2ee50538135add120be7616f86", null ],
+    [ "PlayerGUID", "d7/d38/a15427.html#a4b262388aca789d19231426a8cb73379", null ],
+    [ "ResetTimer", "d7/d38/a15427.html#a475a141d639f0136ac943e6afb1ecd15", null ],
+    [ "SaluteTimer", "d7/d38/a15427.html#ae76b4bbde77b6029a788abfbbbe84df8", null ]
 ];

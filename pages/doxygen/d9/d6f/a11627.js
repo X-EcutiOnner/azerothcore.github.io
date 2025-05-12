@@ -1,7 +1,10 @@
 var a11627 =
 [
-    [ "boss_moira_bronzebeardAI", "d9/d6f/a11627.html#a11265b6aad76574c2c76253128c79165", null ],
-    [ "CastOnEmperorIfPossible", "d9/d6f/a11627.html#a3f42c37e9f4cc14974106bf67ee4e583", null ],
-    [ "JustEngagedWith", "d9/d6f/a11627.html#a40ae00eb86e2bec048a9394d4deef106", null ],
-    [ "UpdateAI", "d9/d6f/a11627.html#ae3f22a059330fb564cd30e581fc0198d", null ]
+    [ "item_commandscript", "d9/d6f/a11627.html#a22f9cb46f2c3701fc5c9136c87c09435", null ],
+    [ "GetCommands", "d9/d6f/a11627.html#aab60aa980ef0f86938cfcb51e7ee20a8", null ],
+    [ "HandleItemMoveCommand", "d9/d6f/a11627.html#a6adae7cb08c0e69ac0a20c107f818a57", null ],
+    [ "HandleItemRefundCommand", "d9/d6f/a11627.html#af914e33be05148062abd89c754d939c9", null ],
+    [ "HandleItemRestoreCommand", "d9/d6f/a11627.html#a84c67a46c513c1aac2b9d2563d693929", null ],
+    [ "HandleItemRestoreListCommand", "d9/d6f/a11627.html#a40181310f4187a71a6f5f5f600a8f468", null ],
+    [ "HasItemDeletionConfig", "d9/d6f/a11627.html#a28d0b4083bf3352f80b6210f9ac00692", null ]
 ];

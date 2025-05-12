@@ -1,5 +1,7 @@
 var a17967 =
 [
-    [ "achievement_all_you_can_eat", "d9/db2/a17967.html#a0995024862a445ea1f0ff5c82475fc64", null ],
-    [ "OnCheck", "d9/db2/a17967.html#a0baa07a7cbd239e4a5fcfd3e687aedf6", null ]
+    [ "OnRemove", "d9/db2/a17967.html#aa096174465120bde1994c85f72682be1", null ],
+    [ "PrepareAuraScript", "d9/db2/a17967.html#a49ba4ed8ac0ee006c74a71e6779c1a3b", null ],
+    [ "Register", "d9/db2/a17967.html#a6e9c95b06f3ec9dc0739beaabc016d5f", null ],
+    [ "Validate", "d9/db2/a17967.html#a1b7ef2c14db8543a9128aa335548fa00", null ]
 ];

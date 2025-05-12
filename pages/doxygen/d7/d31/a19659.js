@@ -1,6 +1,5 @@
 var a19659 =
 [
-    [ "boss_steelbreakerAI", "df/d95/a19663.html", "df/d95/a19663" ],
-    [ "boss_steelbreaker", "d7/d31/a19659.html#af6e4c3729874e59959b35ca67a46aa44", null ],
-    [ "GetAI", "d7/d31/a19659.html#ac4189ffbba997719fb36a10ecdabd26c", null ]
+    [ "achievement_algalon_he_feeds_on_your_tears", "d7/d31/a19659.html#a91f4ddbce55a50e563df701eb0bcfff7", null ],
+    [ "OnCheck", "d7/d31/a19659.html#affea33614581545c65513bfe533d7246", null ]
 ];

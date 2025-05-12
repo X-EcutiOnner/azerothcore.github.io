@@ -1,7 +1,7 @@
 var a18619 =
 [
-    [ "HandleEffectPeriodic", "d1/d08/a18619.html#a57615f1d8b891ab5a5c01de1543235cb", null ],
-    [ "PrepareAuraScript", "d1/d08/a18619.html#ae040da0db1147652266e1f373838df37", null ],
-    [ "Register", "d1/d08/a18619.html#ab11b84522134ee4d13504df3c19f69b8", null ],
-    [ "Validate", "d1/d08/a18619.html#af3c3c90256913ffe188c11a21fc2dcc8", null ]
+    [ "Land", "d1/d08/a18619.html#ad2fd3d7c81e3ef22cb3767914f649fd0", null ],
+    [ "PrepareSpellScript", "d1/d08/a18619.html#a31e45adb87719c311fb5b94b2b744487", null ],
+    [ "Register", "d1/d08/a18619.html#a652eca6ec8079b2835d911807857c8a8", null ],
+    [ "RemoveAliveTarget", "d1/d08/a18619.html#abdb5f624b30a046eed9ca6ad7c347010", null ]
 ];

@@ -1,6 +1,7 @@
 var a13231 =
 [
-    [ "HandleSendEvent", "d6/d3d/a13231.html#ac3e5c8ce6dcceaf601f0f5a8c5727291", null ],
-    [ "PrepareSpellScript", "d6/d3d/a13231.html#a5705ee1863434039b1143db0817d60a7", null ],
-    [ "Register", "d6/d3d/a13231.html#a442e4aad6ed971119a147fdf87f90aa3", null ]
+    [ "boss_kalec", "d6/d3d/a13231.html#a9c36e31c750e93840f30f001cdaca0da", null ],
+    [ "JustDied", "d6/d3d/a13231.html#a46f35b35c1d17abc2ffaf909c53a4039", null ],
+    [ "JustEngagedWith", "d6/d3d/a13231.html#a4813ca02ed5ffc35add5279cc1ec277f", null ],
+    [ "UpdateAI", "d6/d3d/a13231.html#ab55da7584fa7f545761a5bd547245747", null ]
 ];

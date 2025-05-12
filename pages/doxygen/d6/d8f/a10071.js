@@ -1,10 +1,13 @@
 var a10071 =
 [
-    [ "ServerScript", "d6/d8f/a10071.html#a164286c210360b97b9efb48aed33b0d8", null ],
-    [ "CanPacketReceive", "d6/d8f/a10071.html#a9c817a6f922029c9c58f783c4ebc18ff", null ],
-    [ "CanPacketSend", "d6/d8f/a10071.html#a6682dfb556d137feb5fc95a66ccd6917", null ],
-    [ "OnNetworkStart", "d6/d8f/a10071.html#ab51ce520816236687820d1f72bae0ed6", null ],
-    [ "OnNetworkStop", "d6/d8f/a10071.html#a1f2e87caed202bbcde98e2cb0c8f19c6", null ],
-    [ "OnSocketClose", "d6/d8f/a10071.html#a27ecdfc9c6d737d02705adcd13be9d13", null ],
-    [ "OnSocketOpen", "d6/d8f/a10071.html#a656f1c0dc191b8f91e0705748d286454", null ]
+    [ "entry", "d6/d8f/a10071.html#a300fb240386044aab139e777d6244d19", null ],
+    [ "map", "d6/d8f/a10071.html#a2ec529bbd5b03490899a5c3a41cf739a", null ],
+    [ "o", "d6/d8f/a10071.html#a379e36eac68d8ff487c90fdb9be0e83d", null ],
+    [ "rot0", "d6/d8f/a10071.html#a8b808a7545a7efaf0bf352ec663ca9ba", null ],
+    [ "rot1", "d6/d8f/a10071.html#a9aa433644fc5bedbb3749eacfd9a57fd", null ],
+    [ "rot2", "d6/d8f/a10071.html#ae7c9755e9ae6293b3be8bdc121040f7f", null ],
+    [ "rot3", "d6/d8f/a10071.html#a60460fc3030b24eef0246dae28af2282", null ],
+    [ "x", "d6/d8f/a10071.html#a1587c3d17c78e1a94a1f2bc30b831c02", null ],
+    [ "y", "d6/d8f/a10071.html#ab42ebe981ba589e3d67110487bd88255", null ],
+    [ "z", "d6/d8f/a10071.html#a389d430f290dbb66d46ccb81daac6f0d", null ]
 ];

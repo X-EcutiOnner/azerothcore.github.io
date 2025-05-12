@@ -1,10 +1,7 @@
 var a07135 =
 [
-    [ "BattlegroundEYCapturingPointStruct", "dc/dc2/a07135.html#adbaa98470bccb52e0a429b88cd2e2e0c", null ],
-    [ "DespawnNeutralObjectType", "dc/dc2/a07135.html#a77b4eac66780587e6be0eb380e29c9ce", null ],
-    [ "GraveYardId", "dc/dc2/a07135.html#aff4f19fcbb07e3bddae021603d5a6eca", null ],
-    [ "MessageIdAlliance", "dc/dc2/a07135.html#af3295d59367354a4ddaac12258e793b8", null ],
-    [ "MessageIdHorde", "dc/dc2/a07135.html#a5c82eae433ee69b5bda8c96049a06422", null ],
-    [ "SpawnObjectTypeAlliance", "dc/dc2/a07135.html#aeeeecdf09990c74ffc868a135854d49b", null ],
-    [ "SpawnObjectTypeHorde", "dc/dc2/a07135.html#a4b25984504b15c7249d2e5866ad35962", null ]
+    [ "BfGraveyardWG", "dc/dc2/a07135.html#a040af569e6633e4ed4c7513b55d034ac", null ],
+    [ "GetTextId", "dc/dc2/a07135.html#ae1dfdc2d5a36f10f1a116d56b27545ed", null ],
+    [ "SetTextId", "dc/dc2/a07135.html#a367d525e84d8634f47fb6679c2ee3d42", null ],
+    [ "m_GossipTextId", "dc/dc2/a07135.html#ab85d716c0b93f8a17d7bf0dccabc21c6", null ]
 ];

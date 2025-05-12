@@ -1,7 +1,12 @@
 var a22039 =
 [
-    [ "Absorb", "d2/daf/a22039.html#a784b48553696734abac77545df2fc045", null ],
-    [ "CalculateAmount", "d2/daf/a22039.html#a456ee99a71062f6217bda7561e4e7766", null ],
-    [ "PrepareAuraScript", "d2/daf/a22039.html#a456b1b70fd6d9b6642ec959677fe08ff", null ],
-    [ "Register", "d2/daf/a22039.html#aa3260fa9a1a918e13ccfc9cd57f59d19", null ]
+    [ "npc_tournament_training_dummyAI", "d2/daf/a22039.html#ab84a35b5145c74f16dfbbe020dd9a73b", null ],
+    [ "DamageTaken", "d2/daf/a22039.html#a98c18794124922e6946a82a324410837", null ],
+    [ "EnterEvadeMode", "d2/daf/a22039.html#a3f31d705284b0fad2f00c9210ff06646", null ],
+    [ "MoveInLineOfSight", "d2/daf/a22039.html#a7a05c8682767f5a2d847e99eeed8e00f", null ],
+    [ "Reset", "d2/daf/a22039.html#a7339ffe52dc789f9480afca7141a169e", null ],
+    [ "SpellHit", "d2/daf/a22039.html#a5cd56075333fb59ddd8d4a48dc2eecdf", null ],
+    [ "UpdateAI", "d2/daf/a22039.html#a8bba917f0e0d67cd7a0121ab71d5a419", null ],
+    [ "events", "d2/daf/a22039.html#a77fa2ef2f15208ab8b284c71e0227fc4", null ],
+    [ "isVulnerable", "d2/daf/a22039.html#a4a4d3029a329e6eb253bc57c5f7b2a98", null ]
 ];

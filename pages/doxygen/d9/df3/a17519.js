@@ -1,6 +1,6 @@
 var a17519 =
 [
-    [ "PrepareSpellScript", "d9/df3/a17519.html#a4878ffa30feb16e98d3945f8a6e3c863", null ],
-    [ "Register", "d9/df3/a17519.html#a651f52f7d242251ff69d100fd69376e4", null ],
-    [ "SelectTarget", "d9/df3/a17519.html#aede083ebebe38deb5898ff028564ef95", null ]
+    [ "npc_gunship_gunnerAI", "d4/dc3/a17523.html", "d4/dc3/a17523" ],
+    [ "npc_gunship_gunner", "d9/df3/a17519.html#a409711f22b35eae0c0d48bc23545e592", null ],
+    [ "GetAI", "d9/df3/a17519.html#a2b28f5edfddf7a8c94a2a5475ec575dc", null ]
 ];

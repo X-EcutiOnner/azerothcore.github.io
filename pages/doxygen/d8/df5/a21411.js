@@ -1,10 +1,10 @@
 var a21411 =
 [
-    [ "npc_azure_spellbreakerAI", "d8/df5/a21411.html#a1daf4cb20f4081380d8deda9a58da2fd", null ],
-    [ "Reset", "d8/df5/a21411.html#a731ff2d4311359145c353de2d91935c8", null ],
-    [ "UpdateAI", "d8/df5/a21411.html#a053ecfe5c78220c4fa1ac896ce161210", null ],
-    [ "uiArcaneBlastTimer", "d8/df5/a21411.html#a1e752971a31c7d3415c1820eb3574a98", null ],
-    [ "uiChainsOfIceTimer", "d8/df5/a21411.html#a2cbf33865a79a781d8b7aad04cd2095c", null ],
-    [ "uiConeOfColdTimer", "d8/df5/a21411.html#a4970c7459b044b08bf36e17c703395fb", null ],
-    [ "uiSlowTimer", "d8/df5/a21411.html#a2a02b42ec104cfb6682782a80f813eef", null ]
+    [ "npc_sinkhole_kill_creditAI", "d8/df5/a21411.html#af2050289be6bc1c47d1ad40fc4bfa313", null ],
+    [ "Reset", "d8/df5/a21411.html#a677990d64d2963ff995d9d8522c5aa81", null ],
+    [ "SpellHit", "d8/df5/a21411.html#a95eaf518fb18b67820d6195cd525b017", null ],
+    [ "UpdateAI", "d8/df5/a21411.html#a75611004a543bece9d3f51914547f2fe", null ],
+    [ "casterGuid", "d8/df5/a21411.html#a147921788b07f5e776e03aaf15049cf0", null ],
+    [ "phase", "d8/df5/a21411.html#aa45455a8d540d6f942c948cf56d11f05", null ],
+    [ "phaseTimer", "d8/df5/a21411.html#aa268004c1eedf086ae8345e0ba10e2ca", null ]
 ];

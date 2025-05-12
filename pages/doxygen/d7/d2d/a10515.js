@@ -1,4 +1,5 @@
 var a10515 =
 [
-    [ "InvalidUtf8ValueException", "d7/d2d/a10515.html#ad629b46d769fbf8784ce3c4a04c1f121", null ]
+    [ "GuildGetInfo", "d7/d2d/a10515.html#a585a6a49fe9747d5044ac185f1236cf5", null ],
+    [ "Read", "d7/d2d/a10515.html#aa2b107f35fcf348fb7f84c2971c5fa00", null ]
 ];

@@ -1,7 +1,6 @@
 var a12811 =
 [
-    [ "npc_apothecary_genericAI", "de/d9d/a12811.html#afb2b04b51e28d0795e7781effa68dffd", null ],
-    [ "DoAction", "de/d9d/a12811.html#a59074beefbd3d80104b64f8ecc2ef8e0", null ],
-    [ "MovementInform", "de/d9d/a12811.html#a63530bd7c3ebcd66521a268e11bf2f93", null ],
-    [ "_movePos", "de/d9d/a12811.html#a53d10ab64df212b043cc21e054f6528c", null ]
+    [ "CheckRequirement", "de/d9d/a12811.html#a31d69034f463d552afa4063bf89271da", null ],
+    [ "PrepareSpellScript", "de/d9d/a12811.html#adc2176d25d25167b8a1fa9517e2ab945", null ],
+    [ "Register", "de/d9d/a12811.html#a5bb1eff829db1f7ecd3dbf61b821c328", null ]
 ];

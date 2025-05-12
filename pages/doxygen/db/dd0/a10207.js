@@ -1,8 +1,10 @@
 var a10207 =
 [
-    [ "PlayedTime", "db/dd0/a10207.html#abc477d90a27dc41a7c643448302464cf", null ],
-    [ "Write", "db/dd0/a10207.html#a147071f2545cd91213d6c92dab7438c7", null ],
-    [ "LevelTime", "db/dd0/a10207.html#a2bf832827f9497a59bbfac714799b4b5", null ],
-    [ "TotalTime", "db/dd0/a10207.html#ae762fe00339a8f4ca6f9e14bb8515251", null ],
-    [ "TriggerScriptEvent", "db/dd0/a10207.html#a434b33c61ba5e2d91f084cbfe425c964", null ]
+    [ "ArenaScript", "db/dd0/a10207.html#acba88d9008e08873f3f20b92d69e8912", null ],
+    [ "CanAddMember", "db/dd0/a10207.html#aa85728dd471c2f4d58ed1794e741d060", null ],
+    [ "CanSaveToDB", "db/dd0/a10207.html#a164257b5ed4a0808d709870cdf73ed3b", null ],
+    [ "IsDatabaseBound", "db/dd0/a10207.html#ab6c90bb55c238fada3e9ddc993333d0d", null ],
+    [ "OnArenaStart", "db/dd0/a10207.html#ae67b000b16f56309da56f672a9f2b423", null ],
+    [ "OnBeforeArenaCheckWinConditions", "db/dd0/a10207.html#a2b46190a3243f2306a74295975dca317", null ],
+    [ "OnGetPoints", "db/dd0/a10207.html#a13b22ad00d3742589532e6e522258834", null ]
 ];

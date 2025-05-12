@@ -1,6 +1,6 @@
 var a17743 =
 [
-    [ "FilterTargets", "de/ded/a17743.html#ac2396cbd000a8d58ff22dbb08c81dfb4", null ],
-    [ "PrepareSpellScript", "de/ded/a17743.html#abcdfe528430e299c2eb64b24f7ff8eb0", null ],
-    [ "Register", "de/ded/a17743.html#a32e04a1110d651701b8eab1648c69a57", null ]
+    [ "boss_professor_putricideAI", "d4/dd1/a17747.html", "d4/dd1/a17747" ],
+    [ "boss_professor_putricide", "de/ded/a17743.html#a80776dad5c0205aa6a98752f43e85e32", null ],
+    [ "GetAI", "de/ded/a17743.html#a7c84089d24bb0c77a5203884254e0925", null ]
 ];

@@ -1,6 +1,6 @@
 var a16087 =
 [
-    [ "boss_black_knightAI", "d5/da2/a16091.html", "d5/da2/a16091" ],
-    [ "boss_black_knight", "d0/dd6/a16087.html#af55a307f282a68bc83e45c6de647ebf4", null ],
-    [ "GetAI", "d0/dd6/a16087.html#a3f7ac72f69cebdab0a13c61c0b9b2ed2", null ]
+    [ "npc_living_infernoAI", "d0/dd6/a16087.html#ab33eeac6aab8e18778fc7d4ffe5038f1", null ],
+    [ "IsSummonedBy", "d0/dd6/a16087.html#a4b6986a392aee0741ba47651e809c76c", null ],
+    [ "JustDied", "d0/dd6/a16087.html#a60b2e31d24e182e97d604d91223e2dc8", null ]
 ];

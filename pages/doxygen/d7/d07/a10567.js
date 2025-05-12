@@ -1,6 +1,8 @@
 var a10567 =
 [
-    [ "DismissCritter", "d7/d07/a10567.html#a87e35583063b340f014d21cd02c54cab", null ],
-    [ "Read", "d7/d07/a10567.html#a411b65505e8a332ecf9291a670dc38c4", null ],
-    [ "CritterGUID", "d7/d07/a10567.html#a89c071e81c9d39c099c32c4976f15304", null ]
+    [ "OtherGUID", "d7/d07/a10567.html#a3f7486a2e4e07fef318414eaaa9037da", null ],
+    [ "PlayerGUID", "d7/d07/a10567.html#ae3d1217ddbfccd601fcbc57b78739a94", null ],
+    [ "RankID", "d7/d07/a10567.html#a1aebcb39f85c2b44101a311a6ccefdfd", null ],
+    [ "TransactionDate", "d7/d07/a10567.html#a4a8054876b35134e5dfe2cf84887e66f", null ],
+    [ "TransactionType", "d7/d07/a10567.html#aa48b69aa9078fb150470d66201b34786", null ]
 ];

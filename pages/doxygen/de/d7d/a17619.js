@@ -1,12 +1,9 @@
 var a17619 =
 [
-    [ "npc_vengeful_shadeAI", "de/d7d/a17619.html#acd3961c7c81f88a341cb71888c55c882", null ],
-    [ "AttackStart", "de/d7d/a17619.html#afbd441c5ebf2207d37da1a905be1a247", null ],
-    [ "EnterEvadeMode", "de/d7d/a17619.html#a37bffb02c4ebf6acab8c3474581056a6", null ],
-    [ "MoveInLineOfSight", "de/d7d/a17619.html#a1e8e28e76f27edc5e07574e6050d7e5f", null ],
-    [ "Reset", "de/d7d/a17619.html#acf85448a221a37be819b7ab82f4f9fdc", null ],
-    [ "SpellHitTarget", "de/d7d/a17619.html#af9b40af943ee8a7c9bd8866f116871fc", null ],
-    [ "UpdateAI", "de/d7d/a17619.html#a3a353d677b469d750474a7497c5224a7", null ],
-    [ "targetGUID", "de/d7d/a17619.html#a75c3f61506fe42e41b10a2e67f5b091d", null ],
-    [ "unroot_timer", "de/d7d/a17619.html#a49ea66a0fb6e3c09730d92308bd1cac7", null ]
+    [ "CheckAreaTarget", "de/d7d/a17619.html#a770ca8aa441a7c5ddc3e26968d7861a4", null ],
+    [ "HandleApply", "de/d7d/a17619.html#a2aaf88ee6fee8aff23f8ee99b30e369f", null ],
+    [ "Load", "de/d7d/a17619.html#aac27c3377b48bc8c602fa7f12dec491a", null ],
+    [ "PrepareAuraScript", "de/d7d/a17619.html#a105c93dea246a84b73e13bdf3d04f8f4", null ],
+    [ "Register", "de/d7d/a17619.html#a8f476129e0678149463c4b16232f6cb6", null ],
+    [ "_teamIdInInstance", "de/d7d/a17619.html#a78b8e04586e328f89a44f41eb8c478c9", null ]
 ];

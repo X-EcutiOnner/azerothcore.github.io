@@ -1,7 +1,12 @@
 var a07295 =
 [
-    [ "CommandPermissions", "d2/dc6/a07295.html#ad1242d9067778298c44501b5d5a962f8", null ],
-    [ "CommandPermissions", "d2/dc6/a07295.html#a47f284c63f10b6c3479624845b696aa6", null ],
-    [ "AllowConsole", "d2/dc6/a07295.html#a8b419033e8dff0307a22a32bc57a1dc8", null ],
-    [ "RequiredLevel", "d2/dc6/a07295.html#a4918f2c3b1913eb76d09d859479ebbae", null ]
+    [ "BGQueueInviteEvent", "d2/dc6/a07295.html#acee27900339fdcebbfd21bb0e602654d", null ],
+    [ "~BGQueueInviteEvent", "d2/dc6/a07295.html#a09f9f27ecbc273b25e5941966a4fa925", null ],
+    [ "Abort", "d2/dc6/a07295.html#a07f5520ab61cdfd4eadc5d0815067135", null ],
+    [ "Execute", "d2/dc6/a07295.html#a444aceb1c29c951271bab5186a7f3064", null ],
+    [ "m_ArenaType", "d2/dc6/a07295.html#a1b7d1161d46578606396efd515ab1739", null ],
+    [ "m_BgInstanceGUID", "d2/dc6/a07295.html#ad9adc44cc1cde3b0b820740852bdb3ce", null ],
+    [ "m_BgTypeId", "d2/dc6/a07295.html#a608c24288f24bc4da77124257320c741", null ],
+    [ "m_PlayerGuid", "d2/dc6/a07295.html#a200b4bcd336846df60ec11de8d829d7d", null ],
+    [ "m_RemoveTime", "d2/dc6/a07295.html#a4c78e5a74eaf859db40772008557201f", null ]
 ];

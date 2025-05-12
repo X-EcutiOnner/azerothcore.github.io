@@ -1,6 +1,6 @@
 var a18907 =
 [
-    [ "FilterTargets", "dd/d62/a18907.html#a2df81e30554809a0d5b45d2f471bb71f", null ],
-    [ "PrepareSpellScript", "dd/d62/a18907.html#aa51d9c578b782fbe0e7e3cf13789b702", null ],
-    [ "Register", "dd/d62/a18907.html#a4c1eab348e54011f1a2f827fc251ca13", null ]
+    [ "boss_gothikAI", "d2/d8e/a18911.html", "d2/d8e/a18911" ],
+    [ "boss_gothik", "dd/d62/a18907.html#a0c3ee990a1caf020e9a4be000f0b77e0", null ],
+    [ "GetAI", "dd/d62/a18907.html#aea7aec86c4132521fb7b9b6e87baf289", null ]
 ];

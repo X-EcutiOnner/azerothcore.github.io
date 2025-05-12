@@ -1,11 +1,10 @@
 var a07291 =
 [
-    [ "wrapper_func", "d5/dd3/a07291.html#a4ebb895343c2cfae053a605aafe0e461", null ],
-    [ "CommandInvoker", "d5/dd3/a07291.html#a6541779cccd36a87d65acc1b6a9725e2", null ],
-    [ "CommandInvoker", "d5/dd3/a07291.html#ad941d54b994fbfe0f572348d18a790be", null ],
-    [ "CommandInvoker", "d5/dd3/a07291.html#a6b693468375cc6b92870194e10eb4140", null ],
-    [ "operator bool", "d5/dd3/a07291.html#aa00bfcf3938781f5e454f7acddb12e7e", null ],
-    [ "operator()", "d5/dd3/a07291.html#a611756a2205ffb2bccabb53929a4644b", null ],
-    [ "_handler", "d5/dd3/a07291.html#af9bece7be346ed85c5b45cc07c7b176a", null ],
-    [ "_wrapper", "d5/dd3/a07291.html#a1605d492889200f2d18d6759882913aa", null ]
+    [ "SelectionPool", "d5/dd3/a07291.html#a9ddcca26fb3f4c635d7bcbb045542885", null ],
+    [ "AddGroup", "d5/dd3/a07291.html#a87fe4747536355ad7affda76640a082e", null ],
+    [ "GetPlayerCount", "d5/dd3/a07291.html#af344a6e6bb42609887ee8a3022e9d8e5", null ],
+    [ "Init", "d5/dd3/a07291.html#a84c3fe684033e8744ce6d6bc50526ee7", null ],
+    [ "KickGroup", "d5/dd3/a07291.html#a74fb708546a8612ca52b24b8472b71ef", null ],
+    [ "PlayerCount", "d5/dd3/a07291.html#a0c08c47f68dbb45175efc524f4553e16", null ],
+    [ "SelectedGroups", "d5/dd3/a07291.html#a4387ef77c341f90758d6c64c4ef2c475", null ]
 ];

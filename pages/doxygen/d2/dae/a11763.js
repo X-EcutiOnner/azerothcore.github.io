@@ -1,11 +1,14 @@
 var a11763 =
 [
-    [ "npc_rookery_hatcherAI", "d2/dae/a11763.html#a3154429437a108edf77de7ec1f0b2cda", null ],
-    [ "InitializeAI", "d2/dae/a11763.html#af144dc2cbe632038057f931fd71da29d", null ],
-    [ "JustEngagedWith", "d2/dae/a11763.html#a7b7ecaa42bdd35f4ee9fe7fad4cd25a9", null ],
-    [ "UpdateAI", "d2/dae/a11763.html#a0f867aa346a2f829067466fbfe6c5335", null ],
-    [ "events", "d2/dae/a11763.html#a220e6f9869d0ea53a593a6ac8e0e28bd", null ],
-    [ "nearbyEggs", "d2/dae/a11763.html#a2cf183745cdf699af7bd273e0ee4d697", null ],
-    [ "targetEgg", "d2/dae/a11763.html#a877af9948503688944e49503a6293574", null ],
-    [ "targetPosition", "d2/dae/a11763.html#a2e94b3d12ef3d8f80546db6c9a9e9e95", null ]
+    [ "boss_galvangarAI", "d2/dae/a11763.html#a34a0cacc52749bd1146fcb779d006b3b", null ],
+    [ "JustEngagedWith", "d2/dae/a11763.html#ac1898cea6887fcfa182aa8a7a535c462", null ],
+    [ "JustRespawned", "d2/dae/a11763.html#a92139ad3720ba662f87c0b55ac77dbeb", null ],
+    [ "Reset", "d2/dae/a11763.html#a96e1a262f368ab0f6885e955133b7ae8", null ],
+    [ "UpdateAI", "d2/dae/a11763.html#a2e5c7511cce7dd0ff27e13cda9807928", null ],
+    [ "CleaveTimer", "d2/dae/a11763.html#ae2f943d7e08b5ca508518cd19c675be9", null ],
+    [ "FrighteningShoutTimer", "d2/dae/a11763.html#a6f62f62ffa1c06baa2649901f02d13dc", null ],
+    [ "MortalStrikeTimer", "d2/dae/a11763.html#acbfa384508002ba9505d280c448f1f0e", null ],
+    [ "ResetTimer", "d2/dae/a11763.html#aaeff7d8bffb2ddcef5591c2c9be22ae2", null ],
+    [ "Whirlwind1Timer", "d2/dae/a11763.html#a1e1b3d242ad06e6b8b2e48fbc135b3c5", null ],
+    [ "Whirlwind2Timer", "d2/dae/a11763.html#adb5a2609f1f065fe7a737b8da2d4aef4", null ]
 ];

@@ -1,5 +1,7 @@
 var a10015 =
 [
-    [ "FactoryGameObjectScript", "d4/db5/a10015.html#ac0981bdae743da11b99d7df1c967a703", null ],
-    [ "GetAI", "d4/db5/a10015.html#a9a39e94f28729ea1fb4b6231d588b42c", null ]
+    [ "CommonInitializer", "d4/db5/a10015.html#ab472ff63e0178a3414630f743d4de906", null ],
+    [ "operator()", "d4/db5/a10015.html#aba4cce84b89416f54a0a25b1702a322c", null ],
+    [ "_time", "d4/db5/a10015.html#a483d83836ccbe90a842c09f7d4906436", null ],
+    [ "velocityInv", "d4/db5/a10015.html#ac2f731afc2aae338bb8b1b616b0a39c1", null ]
 ];

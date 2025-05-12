@@ -1,6 +1,8 @@
 var a24255 =
 [
-    [ "npc_unkor_the_ruthlessAI", "d1/d69/a24259.html", "d1/d69/a24259" ],
-    [ "npc_unkor_the_ruthless", "d8/de9/a24255.html#a4eb173932f39c5503d1db91d55f3a5b7", null ],
-    [ "GetAI", "d8/de9/a24255.html#a552a19b9a48e90f3b093e2b9e16ec867", null ]
+    [ "go_skull_pile", "d8/de9/a24255.html#a9cf8dfef432c4967c60f66e645585770", null ],
+    [ "OnGossipHello", "d8/de9/a24255.html#ac95d39ea03e78fee2a10603d8c7f8840", null ],
+    [ "OnGossipSelect", "d8/de9/a24255.html#afb8e8db2705355e975fa48c98e09f20b", null ],
+    [ "SendActionMenu", "d8/de9/a24255.html#a048dd224b46ead864958ad524d76167f", null ],
+    [ "_result", "d8/de9/a24255.html#af74fcd75404c0886128401d661067394", null ]
 ];

@@ -1,13 +1,11 @@
 var a15231 =
 [
-    [ "npc_tharnarianAI", "d7/d7b/a15231.html#a8e22d45f6420aa8079f8fb7150a2a53a", null ],
-    [ "Initialize", "d7/d7b/a15231.html#ad1d89491b42a56406273a04045e7e91d", null ],
-    [ "Reset", "d7/d7b/a15231.html#a7de1f46bee4e79effc5dbb405854a7da", null ],
-    [ "SetGUID", "d7/d7b/a15231.html#a7ac84aac946afc312d8ce27f04127dfd", null ],
-    [ "sGossipSelect", "d7/d7b/a15231.html#a33b5898def48e17ba27363b98f51849b", null ],
-    [ "UpdateAI", "d7/d7b/a15231.html#a1e58a89064bdfb69e4445db72184d8b3", null ],
-    [ "_bearGUID", "d7/d7b/a15231.html#af7a116b8226ddb51e9f0f118f2d8fa22", null ],
-    [ "_events", "d7/d7b/a15231.html#aff73052a4b7407d760af3dde09fa8a07", null ],
-    [ "_facing", "d7/d7b/a15231.html#ad2120fffc0ffa93d4fca1e9e8c0a4371", null ],
-    [ "_scriptRunning", "d7/d7b/a15231.html#a5be50b02cc8ce2e7b4dd334e923a7c10", null ]
+    [ "npc_magwinAI", "d7/d7b/a15231.html#ad4a352dd0c7c6f76e74f110b00ec9053", null ],
+    [ "JustEngagedWith", "d7/d7b/a15231.html#aea2ab8bf79d6fcc3d2036d160274fab8", null ],
+    [ "Reset", "d7/d7b/a15231.html#a883ef3cd1b097847de148ccb9bd3e903", null ],
+    [ "sQuestAccept", "d7/d7b/a15231.html#aafef28bc7879e29d1fa79ec08f58da55", null ],
+    [ "UpdateEscortAI", "d7/d7b/a15231.html#a34236331be8842a9e2a98036ea382e18", null ],
+    [ "WaypointReached", "d7/d7b/a15231.html#a7278a3cff406af2ecb3d29c7bf90febc", null ],
+    [ "_events", "d7/d7b/a15231.html#a32dad2bde92efab7e0f0d16e809df665", null ],
+    [ "_player", "d7/d7b/a15231.html#ac3d7059ee67abcafa0586f0bed5df9cc", null ]
 ];

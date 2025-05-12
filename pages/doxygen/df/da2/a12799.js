@@ -1,11 +1,7 @@
 var a12799 =
 [
-    [ "npc_scholomance_occultistAI", "df/da2/a12799.html#af78103d07aef427130d26b4aed5e5ae3", null ],
-    [ "JustEngagedWith", "df/da2/a12799.html#a03f0f6d015065c5afcf025dc44dc6aa8", null ],
-    [ "JustReachedHome", "df/da2/a12799.html#ac4bb0aa4009191a36dd4cebb45fd2ad5", null ],
-    [ "SelectUnitCasting", "df/da2/a12799.html#adde187b89a74a57aac823e4eb19bfeed", null ],
-    [ "UpdateAI", "df/da2/a12799.html#ab02edf780adb553b2314045d8effa277", null ],
-    [ "events", "df/da2/a12799.html#a1ee55a572462a1e832a5b89c8906bd87", null ],
-    [ "instance", "df/da2/a12799.html#a195fe4d681580c17086a5390fd4f82ba", null ],
-    [ "originalDisplayId", "df/da2/a12799.html#a4dcc895fef36cd1e9ca8cf38bdc2f6c4", null ]
+    [ "HandleScriptEffect", "df/da2/a12799.html#a1b196f3817c16fac48392981b58c1a05", null ],
+    [ "PrepareSpellScript", "df/da2/a12799.html#ad44566ff9a44057679e7ce8e1959776d", null ],
+    [ "Register", "df/da2/a12799.html#aef3bfdaff9f0b5080d83805a1a962a79", null ],
+    [ "Validate", "df/da2/a12799.html#a70a1f0d2666921ccbad62c1fd06fe4b6", null ]
 ];

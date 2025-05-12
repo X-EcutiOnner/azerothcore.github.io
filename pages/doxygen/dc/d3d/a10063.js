@@ -1,11 +1,12 @@
 var a10063 =
 [
-    [ "PetScript", "dc/d3d/a10063.html#acccf0b5fa2e346c800925142ed52c917", null ],
-    [ "CanResetTalents", "dc/d3d/a10063.html#ab4e5e0b19285573753ef6e9b7e8fd535", null ],
-    [ "CanUnlearnSpellDefault", "dc/d3d/a10063.html#af150efd719bbb619df792ebc6705bb0a", null ],
-    [ "CanUnlearnSpellSet", "dc/d3d/a10063.html#a84cba94813ffa26e1a245b814feb0349", null ],
-    [ "IsDatabaseBound", "dc/d3d/a10063.html#a16fae7cdf068c6e3d9e46882548d4c20", null ],
-    [ "OnCalculateMaxTalentPointsForLevel", "dc/d3d/a10063.html#a1263b06233902fbede9fc5df80cc8ad4", null ],
-    [ "OnInitStatsForLevel", "dc/d3d/a10063.html#a65a33c4f374f2e9739680ad172118c26", null ],
-    [ "OnPetAddToWorld", "dc/d3d/a10063.html#a3012323c5c1424512b611b6956a32554", null ]
+    [ "delay", "dc/d3d/a10063.html#aa05ef99c3e04589501362a07d0dd032a", null ],
+    [ "event_chance", "dc/d3d/a10063.html#af54f2d38ca1a11664f516799f3bb80c8", null ],
+    [ "event_id", "dc/d3d/a10063.html#a083020691278af836e48f0a0c2feff96", null ],
+    [ "id", "dc/d3d/a10063.html#af7248c313ceefedb5b7ff6ed4c2ffd6b", null ],
+    [ "move_type", "dc/d3d/a10063.html#afb1a57b423a258e99c6921727a27e2e7", null ],
+    [ "orientation", "dc/d3d/a10063.html#a971411811b0e60839538f82cd55dcfb7", null ],
+    [ "x", "dc/d3d/a10063.html#a2dfd7f1f946ebef0b67d8f1542198b4b", null ],
+    [ "y", "dc/d3d/a10063.html#a574c5ba7eb5e6bd55f6c55bb511c03f7", null ],
+    [ "z", "dc/d3d/a10063.html#a013fa650f43e790e652016fbce2e1bd5", null ]
 ];

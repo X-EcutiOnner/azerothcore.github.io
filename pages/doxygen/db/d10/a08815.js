@@ -1,10 +1,10 @@
 var a08815 =
 [
-    [ "iterator", "db/d10/a08815.html#a6bf9d06cfe6cb2e7df465ebf2acc099f", null ],
-    [ "begin", "db/d10/a08815.html#a1e4e67ba11ac8da077942a6581647bf3", null ],
-    [ "end", "db/d10/a08815.html#a266acb421cfc6ccc56dc2acff3202971", null ],
-    [ "getFirst", "db/d10/a08815.html#aa0156c2ad3ec5ca0df6f6a4c55d71a05", null ],
-    [ "getLast", "db/d10/a08815.html#a46a36813eaf752815a3f8c739db88a5d", null ],
-    [ "rbegin", "db/d10/a08815.html#ae69734978b5eec009a696861b7b7152b", null ],
-    [ "rend", "db/d10/a08815.html#a3f7b88b333f1da3a6ffdfc8ec31d8f52", null ]
+    [ "mapId", "db/d10/a08815.html#a828d8b93918ea8ba695e0c5e597c855d", null ],
+    [ "name", "db/d10/a08815.html#a9dd0dacb5825cf3afd117c22ac5ebf21", null ],
+    [ "orientation", "db/d10/a08815.html#a49b4a83290dbe39ab0be79a8ae2f03a6", null ],
+    [ "position_x", "db/d10/a08815.html#a65e7390a1dbb615a155c4f163b830e11", null ],
+    [ "position_y", "db/d10/a08815.html#a3d3f398cd23566dce721fefeae7af33c", null ],
+    [ "position_z", "db/d10/a08815.html#a9ff9a74b00016df6df7c27ebce8ff3fb", null ],
+    [ "wnameLow", "db/d10/a08815.html#ac63cbb609eadc584fe61d33fb709c4d6", null ]
 ];

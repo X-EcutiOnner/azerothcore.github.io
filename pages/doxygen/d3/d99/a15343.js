@@ -1,7 +1,6 @@
 var a15343 =
 [
-    [ "npc_giant_spotlightAI", "d3/d99/a15343.html#ae0f6686aaeacafce193e0d4590cf8c09", null ],
-    [ "Reset", "d3/d99/a15343.html#a79f6703107eed52a3aeae30393507c0f", null ],
-    [ "UpdateAI", "d3/d99/a15343.html#a8567f936dd15933300497d5abe80a272", null ],
-    [ "events", "d3/d99/a15343.html#a20d1087e59daae9189d78f04ea2b2d05", null ]
+    [ "npc_troll_volunteerAI", "de/d07/a15347.html", "de/d07/a15347" ],
+    [ "npc_troll_volunteer", "d3/d99/a15343.html#a3c5eb7108dc0480e07b77eceb01cd18a", null ],
+    [ "GetAI", "d3/d99/a15343.html#aba0208b0910ace75686941c462ecca56", null ]
 ];

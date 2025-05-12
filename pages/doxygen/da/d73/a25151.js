@@ -1,6 +1,5 @@
 var a25151 =
 [
-    [ "HandleScript", "da/d73/a25151.html#a1055ce8e5cbcc9d475bd9dab1f99cf92", null ],
-    [ "PrepareSpellScript", "da/d73/a25151.html#a460823e5ad006c08d5b6378b7df279f0", null ],
-    [ "Register", "da/d73/a25151.html#a7099938c5f14238b5afdadb6d040f931", null ]
+    [ "PrepareSpellScript", "da/d73/a25151.html#ae49ad5a4ad43099c4510e1666ff6415b", null ],
+    [ "Register", "da/d73/a25151.html#ad31fa6c2099d984389c3fb12e53a5bd8", null ]
 ];

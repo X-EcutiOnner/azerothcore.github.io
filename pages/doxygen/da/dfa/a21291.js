@@ -1,11 +1,11 @@
 var a21291 =
 [
-    [ "npc_ichor_globuleAI", "da/dfa/a21291.html#a4d581f89c8385276fd407c000af9e569", null ],
-    [ "AttackStart", "da/dfa/a21291.html#aa4e1fc88a26d6ef41f1ca96c93abbc1a", null ],
-    [ "JustDied", "da/dfa/a21291.html#ad29c7659590933b0749e8e1c2c2e4c46", null ],
-    [ "MoveInLineOfSight", "da/dfa/a21291.html#af8ef8296512d57d934a171f1a5060e73", null ],
-    [ "SpellHit", "da/dfa/a21291.html#a1396538a446545408e3c304f3e56400f", null ],
-    [ "UpdateAI", "da/dfa/a21291.html#a6ff13c853583e5178fb3a690e17303de", null ],
-    [ "pInstance", "da/dfa/a21291.html#a94cbe93a69a28171fc3d91d71b6ec419", null ],
-    [ "uiRangeCheck_Timer", "da/dfa/a21291.html#a99914a55d2dc0b36a623dc7d6248e953", null ]
+    [ "npc_vh_void_sentryAI", "da/dfa/a21291.html#a312f4bbc07e6d786e85c2b4e89d36344", null ],
+    [ "DoAction", "da/dfa/a21291.html#a0bc95eea54b5cdc16a4d3f588f3ff900", null ],
+    [ "JustDied", "da/dfa/a21291.html#add5121ed38a74be9ae168df5f893f89e", null ],
+    [ "SummonedCreatureDespawn", "da/dfa/a21291.html#a24ff36cdb049da7c67c1f041361e17e4", null ],
+    [ "UpdateAI", "da/dfa/a21291.html#ae1f683d5ef920213c9c86da35c626381", null ],
+    [ "checkTimer", "da/dfa/a21291.html#a675bcae4119e45490403013534c731ef", null ],
+    [ "pInstance", "da/dfa/a21291.html#a7527473944681143bab89fd12b475645", null ],
+    [ "SummonedGUID", "da/dfa/a21291.html#a4420eb2cf4d3b6d161355b0f4ad9516d", null ]
 ];

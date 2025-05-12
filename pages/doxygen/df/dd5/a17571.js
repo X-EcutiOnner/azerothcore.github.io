@@ -1,7 +1,7 @@
 var a17571 =
 [
-    [ "PrepareSpellScript", "df/dd5/a17571.html#a21bd67c024c5dcfb8496778f67eb48eb", null ],
-    [ "Register", "df/dd5/a17571.html#aff4f05a5a4742a408646000b7cece38c", null ],
-    [ "RemovePassengers", "df/dd5/a17571.html#a77c63e85233e2ef14bf06c82ad27c4b2", null ],
-    [ "Validate", "df/dd5/a17571.html#a2a8da9d150804f979f2313f623ad7760", null ]
+    [ "FilterTargets", "df/dd5/a17571.html#a32b2fa87fb2eaca3db0801fbfe4b8aaa", null ],
+    [ "Load", "df/dd5/a17571.html#a39e8ec4726a1f6c2911c165c7187f291", null ],
+    [ "PrepareSpellScript", "df/dd5/a17571.html#a7526a6df4c25136f4be78e753c6abf62", null ],
+    [ "Register", "df/dd5/a17571.html#a0d01b8292c1c071a5c828a5a88617bd5", null ]
 ];

@@ -1,9 +1,14 @@
 var a09723 =
 [
-    [ "PathMovementBase", "d4/d76/a09723.html#a6b76e1527ed69ff631d7a72c309f264a", null ],
-    [ "PathMovementBase", "d4/d76/a09723.html#a953fcda0cf7764f659fc5a4a19408550", null ],
-    [ "~PathMovementBase", "d4/d76/a09723.html#a33b2b53993fe897712a196bc4ad86bd1", null ],
-    [ "GetCurrentNode", "d4/d76/a09723.html#a7ceb52928f2198392980c3926516fd82", null ],
-    [ "i_currentNode", "d4/d76/a09723.html#a5420aef90d3529881ef41362ebb29934", null ],
-    [ "i_path", "d4/d76/a09723.html#a3dbc5e41e0c6245f369afc7a24081c83", null ]
+    [ "DoublePosition", "d4/d76/a09723.html#a59190a2456f052c6ffa6e181ced94a4f", null ],
+    [ "DoublePosition", "d4/d76/a09723.html#a9900e06c36c6ebc4edd0ba45264990b8", null ],
+    [ "DoublePosition", "d4/d76/a09723.html#a543ff52f7b278f68cc36ee880932e744", null ],
+    [ "GetDoubleExactDist2dSq", "d4/d76/a09723.html#ae17b4e695ff23a8ec323405801f2013a", null ],
+    [ "GetDoublePositionX", "d4/d76/a09723.html#a7c769d1762f99150a46ceaa2b2bfa8e8", null ],
+    [ "GetDoublePositionY", "d4/d76/a09723.html#a201096c85022d54b1d9dbe9264df901f", null ],
+    [ "GetDoublePositionZ", "d4/d76/a09723.html#a01fc3985229b6bd03e6d1da95f871c17", null ],
+    [ "sync", "d4/d76/a09723.html#a75e75187d6663591a39c87bc1086aebd", null ],
+    [ "DoublePosX", "d4/d76/a09723.html#a4f9ffbbe4396f3ec26a81139f5868e2e", null ],
+    [ "DoublePosY", "d4/d76/a09723.html#a90839893f3a58a72a07177d3eee1d691", null ],
+    [ "DoublePosZ", "d4/d76/a09723.html#a19af503e9623ccaeb032bfe9f0a0ed63", null ]
 ];

@@ -1,7 +1,8 @@
 var a13615 =
 [
-    [ "boss_darkheartAI", "d4/d8a/a13615.html#ad6d9bfca9061cfeba364c573a9121ca8", null ],
-    [ "Reset", "d4/d8a/a13615.html#ab1a7a8d509c332088b169b755afd81de", null ],
-    [ "UpdateAI", "d4/d8a/a13615.html#a69eea4895a3f93382e57409c409ce797", null ],
-    [ "psychicwail_timer", "d4/d8a/a13615.html#a3ef8d1d7b5dd4283d2281ca067c25b98", null ]
+    [ "npc_varian_wrynnAI", "dd/d18/a13619.html", "dd/d18/a13619" ],
+    [ "npc_varian_wrynn", "d4/d8a/a13615.html#a1dd8e4664da693f3e4ecdd4581b96c87", null ],
+    [ "GetAI", "d4/d8a/a13615.html#aa5aa46f24a128e84ac2a837c012b2e02", null ],
+    [ "OnGossipHello", "d4/d8a/a13615.html#a95f6ff3f2a7db807b278d019e187ddec", null ],
+    [ "OnGossipSelect", "d4/d8a/a13615.html#a65d02bafebe9c5a45d707f8990d680a3", null ]
 ];

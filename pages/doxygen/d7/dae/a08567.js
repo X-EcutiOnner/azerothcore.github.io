@@ -1,8 +1,9 @@
 var a08567 =
 [
-    [ "entry", "d7/dae/a08567.html#a924aaeec6de12ef02b5d2f9801571a1f", null ],
-    [ "ExtendedCost", "d7/dae/a08567.html#ac826dc078ef456ed93bf23175bce243d", null ],
-    [ "incrtime", "d7/dae/a08567.html#ab86bdb08475c1c2b75755fffcb6b8275", null ],
-    [ "item", "d7/dae/a08567.html#a8f2e01fb177f33afeef9e37ffd456ff2", null ],
-    [ "maxcount", "d7/dae/a08567.html#a48cb32b398e0dc6928a30bb254b05a11", null ]
+    [ "achievements", "d7/dae/a08567.html#acfdabccf4f66aa7ebfbae0bfe185f6dc", null ],
+    [ "items", "d7/dae/a08567.html#a2873836588f37b9a5cf691da2b6fa715", null ],
+    [ "levelMax", "d7/dae/a08567.html#a7430d852e5426c1a32e49c77d747f4e6", null ],
+    [ "levelMin", "d7/dae/a08567.html#a823016216268e13116a46bcb40ea0e70", null ],
+    [ "quests", "d7/dae/a08567.html#a6150aa58762a13dcbfcb55507df77809", null ],
+    [ "reqItemLevel", "d7/dae/a08567.html#a97f262e488e178dad0c33f228808f69e", null ]
 ];

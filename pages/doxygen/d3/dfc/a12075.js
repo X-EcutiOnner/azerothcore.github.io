@@ -1,6 +1,5 @@
 var a12075 =
 [
-    [ "npc_core_ragerAI", "d1/db3/a12079.html", "d1/db3/a12079" ],
-    [ "npc_core_rager", "d3/dfc/a12075.html#ada4acfa2a1934d1609a8f9c78da6377d", null ],
-    [ "GetAI", "d3/dfc/a12075.html#a0ace94ecc1ebfb0e880c50d9b68087db", null ]
+    [ "at_trigger_the_beast_movement", "d3/dfc/a12075.html#a9534f4b71deab4a2a9a94a36e2946fc7", null ],
+    [ "OnTrigger", "d3/dfc/a12075.html#a333d685d765497a950fde35067d876a1", null ]
 ];

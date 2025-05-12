@@ -1,5 +1,8 @@
 var a15159 =
 [
-    [ "go_ravager_cage", "d3/ddb/a15159.html#a632c767a4ab0075ee40d40e977fe7c18", null ],
-    [ "OnGossipHello", "d3/ddb/a15159.html#a83c9086cefea0d6d11a5de7a781d84db", null ]
+    [ "npc_obsidian_nullifier", "d3/ddb/a15159.html#a9dbb6d681e348057564750fcd7e8050a", null ],
+    [ "JustEngagedWith", "d3/ddb/a15159.html#ad3e30a214a9bcb6ea13d3a78716b5cb1", null ],
+    [ "Reset", "d3/ddb/a15159.html#a9897eab3b71dd0a6a2ea598951b095cd", null ],
+    [ "UpdateAI", "d3/ddb/a15159.html#a37cf1d335dd3735b262e82828c4f904a", null ],
+    [ "_targetGUIDs", "d3/ddb/a15159.html#aaf125742bf9d17ec0b605b78dee39c7c", null ]
 ];

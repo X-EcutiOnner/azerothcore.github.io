@@ -1,13 +1,12 @@
 var a10407 =
 [
-    [ "GuildBankQueryResults", "dd/d78/a10407.html#a8203a35b76fdc674794c5bd3c1acb9ed", null ],
-    [ "SetWithdrawalsRemaining", "dd/d78/a10407.html#a52af0d2b4e092daf0719bdf325c51652", null ],
-    [ "Write", "dd/d78/a10407.html#a4598c0c9d1f94c5aa0671f210e1597d4", null ],
-    [ "_withdrawalsRemainingPos", "dd/d78/a10407.html#abe711cd2da225fdc73eabe2ad6bd3f5d", null ],
-    [ "FullUpdate", "dd/d78/a10407.html#a42ca9b48981d7d338aecb7840c248f0f", null ],
-    [ "ItemInfo", "dd/d78/a10407.html#ad799195b259f92aa4e71e1ee8fd99741", null ],
-    [ "Money", "dd/d78/a10407.html#ad401eb3444f5ae50781e634e1f55eba1", null ],
-    [ "Tab", "dd/d78/a10407.html#a72ac06ace5e7974d666e3fc3d626e3c0", null ],
-    [ "TabInfo", "dd/d78/a10407.html#ad36f0ae1d897ef504ad9761c00db77ca", null ],
-    [ "WithdrawalsRemaining", "dd/d78/a10407.html#a211288bde5a15f2d21df65acf087c7d0", null ]
+    [ "Packet", "dd/d78/a10407.html#a316af2b7ce1ac7189fb1e57f534bad11", null ],
+    [ "~Packet", "dd/d78/a10407.html#a2ca1e6377bb2fb10bf042311e72eb5d4", null ],
+    [ "Packet", "dd/d78/a10407.html#a00213b64110a99004b3d9a6b38876cd4", null ],
+    [ "GetRawPacket", "dd/d78/a10407.html#a9d8649e1b035fe7387dcee3e0b062a5e", null ],
+    [ "GetSize", "dd/d78/a10407.html#a08eb4c40f49c0d4e7f17a6dc1df2fe6a", null ],
+    [ "operator=", "dd/d78/a10407.html#a6d2afd0d4b0d7daff11868854b7c4715", null ],
+    [ "Read", "dd/d78/a10407.html#a94afc4d66c2b5bced3063bab5a666bfd", null ],
+    [ "Write", "dd/d78/a10407.html#af7c79156d7b6cfe3142fc530f9ed262a", null ],
+    [ "_worldPacket", "dd/d78/a10407.html#ab85f1c9f20117bc5015180165c7b458a", null ]
 ];

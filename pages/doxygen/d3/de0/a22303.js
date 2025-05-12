@@ -1,6 +1,6 @@
 var a22303 =
 [
-    [ "npc_wg_queueAI", "d3/de0/a22303.html#a3760738d61b6148042fc30bd96b88fdc", null ],
-    [ "UpdateAI", "d3/de0/a22303.html#a2e5f19a0f01eeb3d1585c7b02f2073b2", null ],
-    [ "events", "d3/de0/a22303.html#ab0eb949272e48120cff1c3df27ad8e92", null ]
+    [ "CheckCast", "d3/de0/a22303.html#afde7c1e90f2faa9c587490ce358a59b2", null ],
+    [ "PrepareSpellScript", "d3/de0/a22303.html#a5139e3e9cb1c9079798cefc3cb04d387", null ],
+    [ "Register", "d3/de0/a22303.html#a01225e48eaf2a6dfe13da245725b0a64", null ]
 ];

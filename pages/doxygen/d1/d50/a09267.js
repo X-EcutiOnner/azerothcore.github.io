@@ -1,4 +1,8 @@
 var a09267 =
 [
-    [ "Options", "d1/d50/a09267.html#a30882f3f0415185ec12ef4d316a0b428", null ]
+    [ "RespawnDo", "d1/d50/a09267.html#a79f6424f2849c4c05998fe29a8510aeb", null ],
+    [ "operator()", "d1/d50/a09267.html#ac15ff63f29e313556b8f66e0cd80514f", null ],
+    [ "operator()", "d1/d50/a09267.html#a23408bf4da497d1007e4e88e0d9c0e19", null ],
+    [ "operator()", "d1/d50/a09267.html#a66335f45bb1f3c770887b263e9d84236", null ],
+    [ "operator()", "d1/d50/a09267.html#a4551ca2e0fdb6540a724c9c2b43484c6", null ]
 ];

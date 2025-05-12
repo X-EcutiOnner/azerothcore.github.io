@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/game/Scripting/ScriptDefines/WorldScript.h File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/common/Utilities/Timer.cpp File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,115 +105,77 @@ $(document).ready(function(){initNavTree('d8/d59/a04337.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#nested-classes">Classes</a> &#124;
-<a href="#enum-members">Enumerations</a>  </div>
-  <div class="headertitle"><div class="title">WorldScript.h File Reference</div></div>
+<a href="#namespaces">Namespaces</a> &#124;
+<a href="#func-members">Functions</a> &#124;
+<a href="#var-members">Variables</a>  </div>
+  <div class="headertitle"><div class="title">Timer.cpp File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">Common.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ScriptObject.h</a>&quot;</code><br />
-<code>#include &lt;vector&gt;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">Timer.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">StringFormat.h</a>&quot;</code><br />
+<code>#include &lt;iomanip&gt;</code><br />
+<code>#include &lt;sstream&gt;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
-Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d14/a10372.html">WorldScript</a></td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="namespaces" name="namespaces"></a>
+Namespaces</h2></td></tr>
+<tr class="memitem:db/d75/a04761"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d75/a04761.html">Acore</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:db/d7b/a04785"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d7b/a04785.html">Acore::TimeDiff</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
-Enumerations</h2></td></tr>
-<tr class="memitem:a4d497fc434376a9edca1897eabc39493"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d59/a04337.html#a4d497fc434376a9edca1897eabc39493">WorldHook</a> { <br />
-&#160;&#160;<a class="el" href="../../d8/d59/a04337.html#a4d497fc434376a9edca1897eabc39493a1115383e9c9ccf62f08548733c8f5f1c">WORLDHOOK_ON_OPEN_STATE_CHANGE</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d8/d59/a04337.html#a4d497fc434376a9edca1897eabc39493af6efa892b7f5bfd295f23a9b8afc6ad7">WORLDHOOK_ON_AFTER_CONFIG_LOAD</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d8/d59/a04337.html#a4d497fc434376a9edca1897eabc39493ab212a383f870b580ecf69fd1df3f9213">WORLDHOOK_ON_LOAD_CUSTOM_DATABASE_TABLE</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d8/d59/a04337.html#a4d497fc434376a9edca1897eabc39493ac0d62a83ca416843503c5c9eac516901">WORLDHOOK_ON_BEFORE_CONFIG_LOAD</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d8/d59/a04337.html#a4d497fc434376a9edca1897eabc39493a7080a363df28c0ffb71d52ee18b85f8c">WORLDHOOK_ON_MOTD_CHANGE</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d8/d59/a04337.html#a4d497fc434376a9edca1897eabc39493ab554902e66fb497dbb3ac74151fe8bb7">WORLDHOOK_ON_SHUTDOWN_INITIATE</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d8/d59/a04337.html#a4d497fc434376a9edca1897eabc39493a86b7bcb6f946ccb6d6c444773054ecb6">WORLDHOOK_ON_SHUTDOWN_CANCEL</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d8/d59/a04337.html#a4d497fc434376a9edca1897eabc39493a891997df42f33b397fe3c92cf68e3aca">WORLDHOOK_ON_UPDATE</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d8/d59/a04337.html#a4d497fc434376a9edca1897eabc39493abaa74ee704d5eb3634a515fe131e66fa">WORLDHOOK_ON_STARTUP</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d8/d59/a04337.html#a4d497fc434376a9edca1897eabc39493a804c550dd48cb62983e43dfed1ba2176">WORLDHOOK_ON_SHUTDOWN</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d8/d59/a04337.html#a4d497fc434376a9edca1897eabc39493a02253717dde1cc98a2643eefd76f0d91">WORLDHOOK_ON_AFTER_UNLOAD_ALL_MAPS</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d8/d59/a04337.html#a4d497fc434376a9edca1897eabc39493a962dfc07ec34ca7510d8759c193ba56e">WORLDHOOK_ON_BEFORE_FINALIZE_PLAYER_WORLD_SESSION</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d8/d59/a04337.html#a4d497fc434376a9edca1897eabc39493a2e95fec6ec46709803e187fe3c60f427">WORLDHOOK_ON_BEFORE_WORLD_INITIALIZED</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d8/d59/a04337.html#a4d497fc434376a9edca1897eabc39493a1a7e32e7ba7aec9dc7b8edd43a903800">WORLDHOOK_END</a>
-<br />
- }</td></tr>
-<tr class="separator:a4d497fc434376a9edca1897eabc39493"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
+Functions</h2></td></tr>
+<tr class="memitem:a17fdb8f2104b98bad5d9fb343d0a043a"><td class="memItemLeft" align="right" valign="top">struct tm *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d59/a04337.html#a17fdb8f2104b98bad5d9fb343d0a043a">localtime_r</a> (time_t const *time, struct tm *result)</td></tr>
+<tr class="separator:a17fdb8f2104b98bad5d9fb343d0a043a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
+Variables</h2></td></tr>
+<tr class="memitem:a2624e61008f0e89d91c7c55161f9bcd8"><td class="memItemLeft" align="right" valign="top">constexpr <a class="el" href="../../d0/dbd/a04634.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d7b/a04785.html#a2624e61008f0e89d91c7c55161f9bcd8">Acore::TimeDiff::MILLISECONDS</a> = 1000</td></tr>
+<tr class="separator:a2624e61008f0e89d91c7c55161f9bcd8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5fb1c8d14d370751c6202fc87b27bf96"><td class="memItemLeft" align="right" valign="top">constexpr <a class="el" href="../../d0/dbd/a04634.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d7b/a04785.html#a5fb1c8d14d370751c6202fc87b27bf96">Acore::TimeDiff::SECONDS</a> = 1000 * MILLISECONDS</td></tr>
+<tr class="separator:a5fb1c8d14d370751c6202fc87b27bf96"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abbd89694b6a3e24a701ce6971b2cd37d"><td class="memItemLeft" align="right" valign="top">constexpr <a class="el" href="../../d0/dbd/a04634.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d7b/a04785.html#abbd89694b6a3e24a701ce6971b2cd37d">Acore::TimeDiff::MINUTES</a> = 60 * SECONDS</td></tr>
+<tr class="separator:abbd89694b6a3e24a701ce6971b2cd37d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a18161a3aeba136aeffb54a07f08f08f6"><td class="memItemLeft" align="right" valign="top">constexpr <a class="el" href="../../d0/dbd/a04634.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d7b/a04785.html#a18161a3aeba136aeffb54a07f08f08f6">Acore::TimeDiff::HOURS</a> = 60 * MINUTES</td></tr>
+<tr class="separator:a18161a3aeba136aeffb54a07f08f08f6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac9bde42940b2570f3865385200b56af8"><td class="memItemLeft" align="right" valign="top">constexpr <a class="el" href="../../d0/dbd/a04634.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d7b/a04785.html#ac9bde42940b2570f3865385200b56af8">Acore::TimeDiff::DAYS</a> = 24 * HOURS</td></tr>
+<tr class="separator:ac9bde42940b2570f3865385200b56af8"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Enumeration Type Documentation</h2>
-<a id="a4d497fc434376a9edca1897eabc39493" name="a4d497fc434376a9edca1897eabc39493"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4d497fc434376a9edca1897eabc39493">&#9670;&#160;</a></span>WorldHook</h2>
+<h2 class="groupheader">Function Documentation</h2>
+<a id="a17fdb8f2104b98bad5d9fb343d0a043a" name="a17fdb8f2104b98bad5d9fb343d0a043a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a17fdb8f2104b98bad5d9fb343d0a043a">&#9670;&#160;</a></span>localtime_r()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">enum <a class="el" href="../../d8/d59/a04337.html#a4d497fc434376a9edca1897eabc39493">WorldHook</a></td>
+          <td class="memname">struct tm * localtime_r </td>
+          <td>(</td>
+          <td class="paramtype">time_t const *&#160;</td>
+          <td class="paramname"><em>time</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">struct tm *&#160;</td>
+          <td class="paramname"><em>result</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a4d497fc434376a9edca1897eabc39493a1115383e9c9ccf62f08548733c8f5f1c" name="a4d497fc434376a9edca1897eabc39493a1115383e9c9ccf62f08548733c8f5f1c"></a>WORLDHOOK_ON_OPEN_STATE_CHANGE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a4d497fc434376a9edca1897eabc39493af6efa892b7f5bfd295f23a9b8afc6ad7" name="a4d497fc434376a9edca1897eabc39493af6efa892b7f5bfd295f23a9b8afc6ad7"></a>WORLDHOOK_ON_AFTER_CONFIG_LOAD&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a4d497fc434376a9edca1897eabc39493ab212a383f870b580ecf69fd1df3f9213" name="a4d497fc434376a9edca1897eabc39493ab212a383f870b580ecf69fd1df3f9213"></a>WORLDHOOK_ON_LOAD_CUSTOM_DATABASE_TABLE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a4d497fc434376a9edca1897eabc39493ac0d62a83ca416843503c5c9eac516901" name="a4d497fc434376a9edca1897eabc39493ac0d62a83ca416843503c5c9eac516901"></a>WORLDHOOK_ON_BEFORE_CONFIG_LOAD&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a4d497fc434376a9edca1897eabc39493a7080a363df28c0ffb71d52ee18b85f8c" name="a4d497fc434376a9edca1897eabc39493a7080a363df28c0ffb71d52ee18b85f8c"></a>WORLDHOOK_ON_MOTD_CHANGE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a4d497fc434376a9edca1897eabc39493ab554902e66fb497dbb3ac74151fe8bb7" name="a4d497fc434376a9edca1897eabc39493ab554902e66fb497dbb3ac74151fe8bb7"></a>WORLDHOOK_ON_SHUTDOWN_INITIATE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a4d497fc434376a9edca1897eabc39493a86b7bcb6f946ccb6d6c444773054ecb6" name="a4d497fc434376a9edca1897eabc39493a86b7bcb6f946ccb6d6c444773054ecb6"></a>WORLDHOOK_ON_SHUTDOWN_CANCEL&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a4d497fc434376a9edca1897eabc39493a891997df42f33b397fe3c92cf68e3aca" name="a4d497fc434376a9edca1897eabc39493a891997df42f33b397fe3c92cf68e3aca"></a>WORLDHOOK_ON_UPDATE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a4d497fc434376a9edca1897eabc39493abaa74ee704d5eb3634a515fe131e66fa" name="a4d497fc434376a9edca1897eabc39493abaa74ee704d5eb3634a515fe131e66fa"></a>WORLDHOOK_ON_STARTUP&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a4d497fc434376a9edca1897eabc39493a804c550dd48cb62983e43dfed1ba2176" name="a4d497fc434376a9edca1897eabc39493a804c550dd48cb62983e43dfed1ba2176"></a>WORLDHOOK_ON_SHUTDOWN&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a4d497fc434376a9edca1897eabc39493a02253717dde1cc98a2643eefd76f0d91" name="a4d497fc434376a9edca1897eabc39493a02253717dde1cc98a2643eefd76f0d91"></a>WORLDHOOK_ON_AFTER_UNLOAD_ALL_MAPS&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a4d497fc434376a9edca1897eabc39493a962dfc07ec34ca7510d8759c193ba56e" name="a4d497fc434376a9edca1897eabc39493a962dfc07ec34ca7510d8759c193ba56e"></a>WORLDHOOK_ON_BEFORE_FINALIZE_PLAYER_WORLD_SESSION&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a4d497fc434376a9edca1897eabc39493a2e95fec6ec46709803e187fe3c60f427" name="a4d497fc434376a9edca1897eabc39493a2e95fec6ec46709803e187fe3c60f427"></a>WORLDHOOK_ON_BEFORE_WORLD_INITIALIZED&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a4d497fc434376a9edca1897eabc39493a1a7e32e7ba7aec9dc7b8edd43a903800" name="a4d497fc434376a9edca1897eabc39493a1a7e32e7ba7aec9dc7b8edd43a903800"></a>WORLDHOOK_END&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">   26</span>{</div>
-<div class="line"><span class="lineno">   27</span>    <a class="code hl_enumvalue" href="../../d8/d59/a04337.html#a4d497fc434376a9edca1897eabc39493a1115383e9c9ccf62f08548733c8f5f1c">WORLDHOOK_ON_OPEN_STATE_CHANGE</a>,</div>
-<div class="line"><span class="lineno">   28</span>    <a class="code hl_enumvalue" href="../../d8/d59/a04337.html#a4d497fc434376a9edca1897eabc39493af6efa892b7f5bfd295f23a9b8afc6ad7">WORLDHOOK_ON_AFTER_CONFIG_LOAD</a>,</div>
-<div class="line"><span class="lineno">   29</span>    <a class="code hl_enumvalue" href="../../d8/d59/a04337.html#a4d497fc434376a9edca1897eabc39493ab212a383f870b580ecf69fd1df3f9213">WORLDHOOK_ON_LOAD_CUSTOM_DATABASE_TABLE</a>,</div>
-<div class="line"><span class="lineno">   30</span>    <a class="code hl_enumvalue" href="../../d8/d59/a04337.html#a4d497fc434376a9edca1897eabc39493ac0d62a83ca416843503c5c9eac516901">WORLDHOOK_ON_BEFORE_CONFIG_LOAD</a>,</div>
-<div class="line"><span class="lineno">   31</span>    <a class="code hl_enumvalue" href="../../d8/d59/a04337.html#a4d497fc434376a9edca1897eabc39493a7080a363df28c0ffb71d52ee18b85f8c">WORLDHOOK_ON_MOTD_CHANGE</a>,</div>
-<div class="line"><span class="lineno">   32</span>    <a class="code hl_enumvalue" href="../../d8/d59/a04337.html#a4d497fc434376a9edca1897eabc39493ab554902e66fb497dbb3ac74151fe8bb7">WORLDHOOK_ON_SHUTDOWN_INITIATE</a>,</div>
-<div class="line"><span class="lineno">   33</span>    <a class="code hl_enumvalue" href="../../d8/d59/a04337.html#a4d497fc434376a9edca1897eabc39493a86b7bcb6f946ccb6d6c444773054ecb6">WORLDHOOK_ON_SHUTDOWN_CANCEL</a>,</div>
-<div class="line"><span class="lineno">   34</span>    <a class="code hl_enumvalue" href="../../d8/d59/a04337.html#a4d497fc434376a9edca1897eabc39493a891997df42f33b397fe3c92cf68e3aca">WORLDHOOK_ON_UPDATE</a>,</div>
-<div class="line"><span class="lineno">   35</span>    <a class="code hl_enumvalue" href="../../d8/d59/a04337.html#a4d497fc434376a9edca1897eabc39493abaa74ee704d5eb3634a515fe131e66fa">WORLDHOOK_ON_STARTUP</a>,</div>
-<div class="line"><span class="lineno">   36</span>    <a class="code hl_enumvalue" href="../../d8/d59/a04337.html#a4d497fc434376a9edca1897eabc39493a804c550dd48cb62983e43dfed1ba2176">WORLDHOOK_ON_SHUTDOWN</a>,</div>
-<div class="line"><span class="lineno">   37</span>    <a class="code hl_enumvalue" href="../../d8/d59/a04337.html#a4d497fc434376a9edca1897eabc39493a02253717dde1cc98a2643eefd76f0d91">WORLDHOOK_ON_AFTER_UNLOAD_ALL_MAPS</a>,</div>
-<div class="line"><span class="lineno">   38</span>    <a class="code hl_enumvalue" href="../../d8/d59/a04337.html#a4d497fc434376a9edca1897eabc39493a962dfc07ec34ca7510d8759c193ba56e">WORLDHOOK_ON_BEFORE_FINALIZE_PLAYER_WORLD_SESSION</a>,</div>
-<div class="line"><span class="lineno">   39</span>    <a class="code hl_enumvalue" href="../../d8/d59/a04337.html#a4d497fc434376a9edca1897eabc39493a2e95fec6ec46709803e187fe3c60f427">WORLDHOOK_ON_BEFORE_WORLD_INITIALIZED</a>,</div>
-<div class="line"><span class="lineno">   40</span>    <a class="code hl_enumvalue" href="../../d8/d59/a04337.html#a4d497fc434376a9edca1897eabc39493a1a7e32e7ba7aec9dc7b8edd43a903800">WORLDHOOK_END</a></div>
-<div class="line"><span class="lineno">   41</span>};</div>
-<div class="ttc" id="aa04337_html_a4d497fc434376a9edca1897eabc39493a02253717dde1cc98a2643eefd76f0d91"><div class="ttname"><a href="../../d8/d59/a04337.html#a4d497fc434376a9edca1897eabc39493a02253717dde1cc98a2643eefd76f0d91">WORLDHOOK_ON_AFTER_UNLOAD_ALL_MAPS</a></div><div class="ttdeci">@ WORLDHOOK_ON_AFTER_UNLOAD_ALL_MAPS</div><div class="ttdef"><b>Definition:</b> WorldScript.h:37</div></div>
-<div class="ttc" id="aa04337_html_a4d497fc434376a9edca1897eabc39493a1115383e9c9ccf62f08548733c8f5f1c"><div class="ttname"><a href="../../d8/d59/a04337.html#a4d497fc434376a9edca1897eabc39493a1115383e9c9ccf62f08548733c8f5f1c">WORLDHOOK_ON_OPEN_STATE_CHANGE</a></div><div class="ttdeci">@ WORLDHOOK_ON_OPEN_STATE_CHANGE</div><div class="ttdef"><b>Definition:</b> WorldScript.h:27</div></div>
-<div class="ttc" id="aa04337_html_a4d497fc434376a9edca1897eabc39493a1a7e32e7ba7aec9dc7b8edd43a903800"><div class="ttname"><a href="../../d8/d59/a04337.html#a4d497fc434376a9edca1897eabc39493a1a7e32e7ba7aec9dc7b8edd43a903800">WORLDHOOK_END</a></div><div class="ttdeci">@ WORLDHOOK_END</div><div class="ttdef"><b>Definition:</b> WorldScript.h:40</div></div>
-<div class="ttc" id="aa04337_html_a4d497fc434376a9edca1897eabc39493a2e95fec6ec46709803e187fe3c60f427"><div class="ttname"><a href="../../d8/d59/a04337.html#a4d497fc434376a9edca1897eabc39493a2e95fec6ec46709803e187fe3c60f427">WORLDHOOK_ON_BEFORE_WORLD_INITIALIZED</a></div><div class="ttdeci">@ WORLDHOOK_ON_BEFORE_WORLD_INITIALIZED</div><div class="ttdef"><b>Definition:</b> WorldScript.h:39</div></div>
-<div class="ttc" id="aa04337_html_a4d497fc434376a9edca1897eabc39493a7080a363df28c0ffb71d52ee18b85f8c"><div class="ttname"><a href="../../d8/d59/a04337.html#a4d497fc434376a9edca1897eabc39493a7080a363df28c0ffb71d52ee18b85f8c">WORLDHOOK_ON_MOTD_CHANGE</a></div><div class="ttdeci">@ WORLDHOOK_ON_MOTD_CHANGE</div><div class="ttdef"><b>Definition:</b> WorldScript.h:31</div></div>
-<div class="ttc" id="aa04337_html_a4d497fc434376a9edca1897eabc39493a804c550dd48cb62983e43dfed1ba2176"><div class="ttname"><a href="../../d8/d59/a04337.html#a4d497fc434376a9edca1897eabc39493a804c550dd48cb62983e43dfed1ba2176">WORLDHOOK_ON_SHUTDOWN</a></div><div class="ttdeci">@ WORLDHOOK_ON_SHUTDOWN</div><div class="ttdef"><b>Definition:</b> WorldScript.h:36</div></div>
-<div class="ttc" id="aa04337_html_a4d497fc434376a9edca1897eabc39493a86b7bcb6f946ccb6d6c444773054ecb6"><div class="ttname"><a href="../../d8/d59/a04337.html#a4d497fc434376a9edca1897eabc39493a86b7bcb6f946ccb6d6c444773054ecb6">WORLDHOOK_ON_SHUTDOWN_CANCEL</a></div><div class="ttdeci">@ WORLDHOOK_ON_SHUTDOWN_CANCEL</div><div class="ttdef"><b>Definition:</b> WorldScript.h:33</div></div>
-<div class="ttc" id="aa04337_html_a4d497fc434376a9edca1897eabc39493a891997df42f33b397fe3c92cf68e3aca"><div class="ttname"><a href="../../d8/d59/a04337.html#a4d497fc434376a9edca1897eabc39493a891997df42f33b397fe3c92cf68e3aca">WORLDHOOK_ON_UPDATE</a></div><div class="ttdeci">@ WORLDHOOK_ON_UPDATE</div><div class="ttdef"><b>Definition:</b> WorldScript.h:34</div></div>
-<div class="ttc" id="aa04337_html_a4d497fc434376a9edca1897eabc39493a962dfc07ec34ca7510d8759c193ba56e"><div class="ttname"><a href="../../d8/d59/a04337.html#a4d497fc434376a9edca1897eabc39493a962dfc07ec34ca7510d8759c193ba56e">WORLDHOOK_ON_BEFORE_FINALIZE_PLAYER_WORLD_SESSION</a></div><div class="ttdeci">@ WORLDHOOK_ON_BEFORE_FINALIZE_PLAYER_WORLD_SESSION</div><div class="ttdef"><b>Definition:</b> WorldScript.h:38</div></div>
-<div class="ttc" id="aa04337_html_a4d497fc434376a9edca1897eabc39493ab212a383f870b580ecf69fd1df3f9213"><div class="ttname"><a href="../../d8/d59/a04337.html#a4d497fc434376a9edca1897eabc39493ab212a383f870b580ecf69fd1df3f9213">WORLDHOOK_ON_LOAD_CUSTOM_DATABASE_TABLE</a></div><div class="ttdeci">@ WORLDHOOK_ON_LOAD_CUSTOM_DATABASE_TABLE</div><div class="ttdef"><b>Definition:</b> WorldScript.h:29</div></div>
-<div class="ttc" id="aa04337_html_a4d497fc434376a9edca1897eabc39493ab554902e66fb497dbb3ac74151fe8bb7"><div class="ttname"><a href="../../d8/d59/a04337.html#a4d497fc434376a9edca1897eabc39493ab554902e66fb497dbb3ac74151fe8bb7">WORLDHOOK_ON_SHUTDOWN_INITIATE</a></div><div class="ttdeci">@ WORLDHOOK_ON_SHUTDOWN_INITIATE</div><div class="ttdef"><b>Definition:</b> WorldScript.h:32</div></div>
-<div class="ttc" id="aa04337_html_a4d497fc434376a9edca1897eabc39493abaa74ee704d5eb3634a515fe131e66fa"><div class="ttname"><a href="../../d8/d59/a04337.html#a4d497fc434376a9edca1897eabc39493abaa74ee704d5eb3634a515fe131e66fa">WORLDHOOK_ON_STARTUP</a></div><div class="ttdeci">@ WORLDHOOK_ON_STARTUP</div><div class="ttdef"><b>Definition:</b> WorldScript.h:35</div></div>
-<div class="ttc" id="aa04337_html_a4d497fc434376a9edca1897eabc39493ac0d62a83ca416843503c5c9eac516901"><div class="ttname"><a href="../../d8/d59/a04337.html#a4d497fc434376a9edca1897eabc39493ac0d62a83ca416843503c5c9eac516901">WORLDHOOK_ON_BEFORE_CONFIG_LOAD</a></div><div class="ttdeci">@ WORLDHOOK_ON_BEFORE_CONFIG_LOAD</div><div class="ttdef"><b>Definition:</b> WorldScript.h:30</div></div>
-<div class="ttc" id="aa04337_html_a4d497fc434376a9edca1897eabc39493af6efa892b7f5bfd295f23a9b8afc6ad7"><div class="ttname"><a href="../../d8/d59/a04337.html#a4d497fc434376a9edca1897eabc39493af6efa892b7f5bfd295f23a9b8afc6ad7">WORLDHOOK_ON_AFTER_CONFIG_LOAD</a></div><div class="ttdeci">@ WORLDHOOK_ON_AFTER_CONFIG_LOAD</div><div class="ttdef"><b>Definition:</b> WorldScript.h:28</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  227</span>{</div>
+<div class="line"><span class="lineno">  228</span>    localtime_s(result, time);</div>
+<div class="line"><span class="lineno">  229</span>    <span class="keywordflow">return</span> result;</div>
+<div class="line"><span class="lineno">  230</span>}</div>
 </div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00224">guild_commandscript::HandleGuildInfoCommand()</a>, and <a class="el" href="../../#l00233">Acore::Time::TimeBreakdown()</a>.</p>
+
 </div>
 </div>
 </div><!-- contents -->
@@ -221,8 +183,8 @@ Enumerations</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_824c567499771b11a8d1959386aa27e6.html">Scripting</a></li><li class="navelem"><a class="el" href="../../dir_a0aac0519f50cbe40c54d5948ed285d0.html">ScriptDefines</a></li><li class="navelem"><a class="el" href="../../d8/d59/a04337.html">WorldScript.h</a></li>
-    <li class="footer">Generated on Mon May 5 2025 20:45:00 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1070012e9e40376f8468ff0aa5b77c71.html">common</a></li><li class="navelem"><a class="el" href="../../dir_5b60c41b3dc3977dce15646b3e6a9085.html">Utilities</a></li><li class="navelem"><a class="el" href="../../d8/d59/a04337.html">Timer.cpp</a></li>
+    <li class="footer">Generated on Mon May 12 2025 20:45:16 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

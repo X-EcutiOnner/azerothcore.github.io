@@ -1,5 +1,6 @@
 var a17371 =
 [
-    [ "achievement_flu_shot_shortage", "d3/dc3/a17371.html#af448c773bcdf31cec7ae9d7c85e9e595", null ],
-    [ "OnCheck", "d3/dc3/a17371.html#a3195af1d4504ffc200c99bef84eaaa5a", null ]
+    [ "PrepareAuraScript", "d3/dc3/a17371.html#abbcd0a9a63908a875bcdbc66fb5e1218", null ],
+    [ "RecalculateHook", "d3/dc3/a17371.html#a829e96cabbb565922f7183adb3edf13c", null ],
+    [ "Register", "d3/dc3/a17371.html#a7ded7cbe8c5cbffd6798bbb66d8a5d1a", null ]
 ];

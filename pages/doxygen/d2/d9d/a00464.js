@@ -1,6 +1,6 @@
 var a00464 =
 [
-    [ "mean", "d2/d9d/a00464.html#a64ba279a3d3edca415239118167c0206", null ],
-    [ "median", "d2/d9d/a00464.html#a4840fd449eb626bea901860e4c1be22a", null ],
-    [ "standard_deviation", "d2/d9d/a00464.html#a60ce9c7718ec2901f037e2368f93026d", null ]
+    [ "instance_oculus", "d3/d37/a19311.html", "d3/d37/a19311" ],
+    [ "instance_oculus::instance_oculus_InstanceMapScript", "d0/d72/a19315.html", "d0/d72/a19315" ],
+    [ "AddSC_instance_oculus", "d2/d9d/a00464.html#affab733b7501171ef164fa0b308883a7", null ]
 ];

@@ -1,6 +1,5 @@
 var a22319 =
 [
-    [ "go_wg_vehicle_teleporterAI", "db/dda/a22323.html", "db/dda/a22323" ],
-    [ "go_wg_vehicle_teleporter", "d0/d2e/a22319.html#a074ead770a3da6e9ffa4180a3525f4c8", null ],
-    [ "GetAI", "d0/d2e/a22319.html#a113aaf42c095000c1a016bfe60df11e7", null ]
+    [ "achievement_wg_vehicular_gnomeslaughter", "d0/d2e/a22319.html#a441b8db113ef4843f433c1ea3f3052b5", null ],
+    [ "OnCheck", "d0/d2e/a22319.html#ab23a2d90e536a3a9ecbb3b64c5b0e18f", null ]
 ];

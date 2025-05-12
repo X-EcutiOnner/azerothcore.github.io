@@ -1,9 +1,11 @@
 var a11943 =
 [
-    [ "npc_drakonid_spawner", "d9/d6c/a11943.html#a2b657e800dc5cc30c618391413ded116", null ],
-    [ "DoAction", "d9/d6c/a11943.html#ab013cff0430c09fe1045fdc735e45182", null ],
-    [ "IsSummonedBy", "d9/d6c/a11943.html#a6a2170e0f20736d69006ce6d6c769476", null ],
-    [ "SummonedCreatureDies", "d9/d6c/a11943.html#a57dd1fc80cfa43f6afae58e797b4091f", null ],
-    [ "UpdateAI", "d9/d6c/a11943.html#a60e79dd8f56e87a2de4a203a63c6f9e3", null ],
-    [ "_owner", "d9/d6c/a11943.html#a6e0f0d2f6c265f9e5206f441dead8b2f", null ]
+    [ "boss_doomrelAI", "d9/d6c/a11943.html#a231cc3989d1c575af941a5462ad94cbd", null ],
+    [ "EnterEvadeMode", "d9/d6c/a11943.html#ae633f4cc1747f291a3911ca50ee39370", null ],
+    [ "JustEngagedWith", "d9/d6c/a11943.html#a622f673548b0a6f1db2a59ef69f31ac7", null ],
+    [ "Reset", "d9/d6c/a11943.html#aec30616ad3c84ee4b6dd92f6ac8b4fbc", null ],
+    [ "UpdateAI", "d9/d6c/a11943.html#a3d851f7bd5a78858fd228cac78c05f27", null ],
+    [ "_events", "d9/d6c/a11943.html#aaf800dd1d20dc8288cad5aa21cd602b0", null ],
+    [ "instance", "d9/d6c/a11943.html#aa0fc44bb955e83c2ef7b7373751fc2c2", null ],
+    [ "Voidwalkers", "d9/d6c/a11943.html#af29d871a370a534f508f225d49c3dc9f", null ]
 ];

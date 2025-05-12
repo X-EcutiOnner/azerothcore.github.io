@@ -1,4 +1,9 @@
 var a10535 =
 [
-    [ "Validate", "de/dea/a10535.html#ab0d4c07b4ce9903a913bdced5e05bbd6", null ]
+    [ "GuildRoster", "de/dea/a10535.html#a2161128d6fb6fa53a5129a95ded2b5fc", null ],
+    [ "Write", "de/dea/a10535.html#a544a539999827d4eb8923cbbcdf42bac", null ],
+    [ "InfoText", "de/dea/a10535.html#a9d457ee8feb6c173d960b360aca90fc6", null ],
+    [ "MemberData", "de/dea/a10535.html#a964fc72bf3ada77c171fd1f691449241", null ],
+    [ "RankData", "de/dea/a10535.html#a67b0a12fae93c5807030c1062f328abb", null ],
+    [ "WelcomeText", "de/dea/a10535.html#a5ec2c209558d2c34feee4bfd8cda201c", null ]
 ];

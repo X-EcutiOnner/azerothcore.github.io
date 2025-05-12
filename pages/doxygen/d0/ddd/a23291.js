@@ -1,6 +1,6 @@
 var a23291 =
 [
-    [ "instance_the_slave_pens_InstanceMapScript", "d0/d56/a23295.html", "d0/d56/a23295" ],
-    [ "instance_the_slave_pens", "d0/ddd/a23291.html#a765f7b66ad3bed1828524ecb143742f2", null ],
-    [ "GetInstanceScript", "d0/ddd/a23291.html#a0eedcecf1ddc27e139898cacf6f48965", null ]
+    [ "HandleAfterRemove", "d0/ddd/a23291.html#a74610b06095572aa2c898cd84e0fb229", null ],
+    [ "PrepareAuraScript", "d0/ddd/a23291.html#ac0d686490ff37810e0116dea4d0b6077", null ],
+    [ "Register", "d0/ddd/a23291.html#aad72f4aaa19f92f7a71241311f5d0582", null ]
 ];

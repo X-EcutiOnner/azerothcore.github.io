@@ -1,6 +1,9 @@
 var a20235 =
 [
-    [ "boss_kologarnAI", "dc/da8/a20239.html", "dc/da8/a20239" ],
-    [ "boss_kologarn", "d1/d1b/a20235.html#a5f654a0f534c4ec6c1164ea08e40a476", null ],
-    [ "GetAI", "d1/d1b/a20235.html#ad78c2d269e68d8c3bbd86b844ada9435", null ]
+    [ "HandleEffectPeriodic", "d1/d1b/a20235.html#adc6e83abb52a21528c07a1d989818dcf", null ],
+    [ "OnApply", "d1/d1b/a20235.html#ad52977d3bfeca6d2a7127d91eb3d30ab", null ],
+    [ "OnRemove", "d1/d1b/a20235.html#a903e65cc8041f9bd289bb5c6f156fa22", null ],
+    [ "PrepareAuraScript", "d1/d1b/a20235.html#aa85f79f5337edca68b3cb87073eff0d4", null ],
+    [ "Register", "d1/d1b/a20235.html#a2b18c5db95842a6f8959bf9affd357b7", null ],
+    [ "Validate", "d1/d1b/a20235.html#ae88b8bd3e648030df48f6b80cedc4034", null ]
 ];

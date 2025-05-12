@@ -1,7 +1,8 @@
 var a03200 =
 [
-    [ "ArenaTeamFilter", "dc/df3/a07216.html", "dc/df3/a07216" ],
-    [ "ArenaTeamFilterByTypes", "d2/d73/a07220.html", "d2/d73/a07220" ],
-    [ "ArenaTeamFilterAllTeams", "de/de6/a07224.html", "de/de6/a07224" ],
-    [ "ArenaTeamFilterFactoryByUserInput", "df/da9/a07228.html", "df/da9/a07228" ]
+    [ "SelectableAI", "d1/d10/a06147.html", "d1/d10/a06147" ],
+    [ "CreatureAIFactory< REAL_AI >", "d2/dc1/a06151.html", "d2/dc1/a06151" ],
+    [ "sCreatureAIRegistry", "de/d3a/a03200.html#a08e073e90e01d97b74e2331f15bf6122", null ],
+    [ "CreatureAICreator", "de/d3a/a03200.html#a0979444cdc957651f0b4bc9e3c24934b", null ],
+    [ "CreatureAIRegistry", "de/d3a/a03200.html#a3eebee4b886bee76d38357a472a9a5ae", null ]
 ];

@@ -1,10 +1,8 @@
 var a09703 =
 [
-    [ "EffectMovementGenerator", "d9/d1b/a09703.html#a4b574eb9865cffe1277d9012db653d98", null ],
-    [ "Finalize", "d9/d1b/a09703.html#a50cad77c4261bea67428b9dcd5a37ea1", null ],
-    [ "GetMovementGeneratorType", "d9/d1b/a09703.html#a42c56bc35cf3d752e24ccc36adcd2e82", null ],
-    [ "Initialize", "d9/d1b/a09703.html#a376f554231bc5dc4c95790e6c85dcb01", null ],
-    [ "Reset", "d9/d1b/a09703.html#a9627573a7206e12ff469e8e6e076862b", null ],
-    [ "Update", "d9/d1b/a09703.html#adff45ee4ce3cc72b6cc88e626c3bd0a5", null ],
-    [ "m_Id", "d9/d1b/a09703.html#a56f483336fe5c86c6d186ec4d7772d4b", null ]
+    [ "ServerMailCondition", "d9/d1b/a09703.html#a2ee7d2f3587159c95883fe32674cb586", null ],
+    [ "CheckCondition", "d9/d1b/a09703.html#a3c223658629357f05d8879555717f624", null ],
+    [ "state", "d9/d1b/a09703.html#a309f739872afaf644331335b27649561", null ],
+    [ "type", "d9/d1b/a09703.html#a3b318e7743ca48fcf8ba849398a06968", null ],
+    [ "value", "d9/d1b/a09703.html#af709199aed99633cc70d9118ee4fd4fc", null ]
 ];

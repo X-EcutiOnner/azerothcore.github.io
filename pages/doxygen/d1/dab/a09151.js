@@ -1,10 +1,7 @@
 var a09151 =
 [
-    [ "ObjectWorldLoader", "d1/dab/a09151.html#a0a8c45ae44540c419b5835d89b5344f3", null ],
-    [ "Visit", "d1/dab/a09151.html#a71682452fdaa18866cb8f5cb233003e1", null ],
-    [ "Visit", "d1/dab/a09151.html#a8d670d361e01ff4ac05518ac52ebdee9", null ],
-    [ "i_cell", "d1/dab/a09151.html#ac4435eef761adcc938b6ca7996f0e1b7", null ],
-    [ "i_corpses", "d1/dab/a09151.html#a360b772d5dab408faf62c9c0fd381fbe", null ],
-    [ "i_grid", "d1/dab/a09151.html#ab8cc37ce842ca73e8971a88680b5f453", null ],
-    [ "i_map", "d1/dab/a09151.html#aeafce0a2c8bd7f5a1201c8b2af469284", null ]
+    [ "CreatureRelocationNotifier", "d1/dab/a09151.html#aa144cd2c5b69351afd312084c0e97f0d", null ],
+    [ "Visit", "d1/dab/a09151.html#aa69e9bd551895ca3497d1bfbe5fa79ba", null ],
+    [ "Visit", "d1/dab/a09151.html#a8b346c55d80a8ed92afa2e1f591f5807", null ],
+    [ "i_creature", "d1/dab/a09151.html#a3116f6245816ba8fb9edb5995faa9927", null ]
 ];

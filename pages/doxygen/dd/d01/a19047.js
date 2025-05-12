@@ -1,6 +1,6 @@
 var a19047 =
 [
-    [ "npc_teslaAI", "d5/d04/a19051.html", "d5/d04/a19051" ],
-    [ "npc_tesla", "dd/d01/a19047.html#ae74ad52adbf4a160ef0c7cf97e4faea0", null ],
-    [ "GetAI", "dd/d01/a19047.html#a00d0e2ee0a8c20ed64dd2012f244a760", null ]
+    [ "boss_razuvious_minionAI", "d5/d04/a19051.html", "d5/d04/a19051" ],
+    [ "boss_razuvious_minion", "dd/d01/a19047.html#ae23d51c9ebfe31f624a749578d27252c", null ],
+    [ "GetAI", "dd/d01/a19047.html#afab8dccbc0b098a1fa058ef8479ba865", null ]
 ];

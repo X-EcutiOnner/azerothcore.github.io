@@ -1,10 +1,8 @@
 var a10931 =
 [
-    [ "EffectHook", "d0/d35/a10931.html#a4a197e061d918dfba2bc486f3393b00d", null ],
-    [ "~EffectHook", "d0/d35/a10931.html#aa234f63b530764d12064acbe3f5c9299", null ],
-    [ "CheckEffect", "d0/d35/a10931.html#ae8823c5d649d182f572818bf3db72902", null ],
-    [ "EffIndexToString", "d0/d35/a10931.html#ab818ed274cfd66ecc565b8535b751517", null ],
-    [ "GetAffectedEffectsMask", "d0/d35/a10931.html#a31faa86590e22f5ab3ca518f4df02840", null ],
-    [ "IsEffectAffected", "d0/d35/a10931.html#a697041ffa562bb6fff792beb159c7af2", null ],
-    [ "effIndex", "d0/d35/a10931.html#ab5eb48ef7ac903938f92db0e856e0295", null ]
+    [ "ServerPktHeader", "d0/d35/a10931.html#a761e294fccc02055a46bfc46656da706", null ],
+    [ "getHeaderLength", "d0/d35/a10931.html#a75ff3550b7794fed0e69bfc4d1418dee", null ],
+    [ "isLargePacket", "d0/d35/a10931.html#a4f4e13fc8e2a6ec6de70f4432f25ffe2", null ],
+    [ "header", "d0/d35/a10931.html#adc69128832b16124c284c584e7540b11", null ],
+    [ "size", "d0/d35/a10931.html#a5d5cf573cebe47a10e3f17b840c7a4e1", null ]
 ];

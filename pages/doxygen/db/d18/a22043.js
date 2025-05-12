@@ -1,7 +1,6 @@
 var a22043 =
 [
-    [ "HandleDummy", "db/d18/a22043.html#a85874062bceced2694fff725649df892", null ],
-    [ "PrepareSpellScript", "db/d18/a22043.html#a47bae4bdc488480f91517465d8e1b784", null ],
-    [ "Register", "db/d18/a22043.html#a7131340678ca685db98e2087661321a9", null ],
-    [ "Validate", "db/d18/a22043.html#af1b74ceee10fc48a0b85d4a284103950", null ]
+    [ "npc_blessed_bannerAI", "d9/d8e/a22047.html", "d9/d8e/a22047" ],
+    [ "npc_blessed_banner", "db/d18/a22043.html#a779a0c653088b2d206226e146a19101f", null ],
+    [ "GetAI", "db/d18/a22043.html#a43dabbf2f2d54ae201cde37df792a41d", null ]
 ];

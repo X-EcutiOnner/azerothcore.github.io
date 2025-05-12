@@ -1,8 +1,8 @@
 var a11575 =
 [
-    [ "boss_evisceratorAI", "d6/dda/a11575.html#a26bfcd3390e987a9fe13dd1a2bc2a7a4", null ],
-    [ "DamageTaken", "d6/dda/a11575.html#aab3e8290963ca6c312715f18727d3e82", null ],
-    [ "JustEngagedWith", "d6/dda/a11575.html#a60f3942b352206888569f60776041a28", null ],
-    [ "UpdateAI", "d6/dda/a11575.html#aa201d35455f2e6eb41df27e264c2c03c", null ],
-    [ "SpellShieldReady", "d6/dda/a11575.html#a3e5d8a40bfca16cc811f35b1293c19aa", null ]
+    [ "CreatureCountWorker", "d6/dda/a11575.html#ad01e947d97d03a10ea3a891d24cb05b7", null ],
+    [ "GetTopCreatureCount", "d6/dda/a11575.html#a5d4d009b6685dd71703f96f9945a463e", null ],
+    [ "Visit", "d6/dda/a11575.html#a786d95d42f7711235e60a4f54cc3b4be", null ],
+    [ "Visit", "d6/dda/a11575.html#afa72c0c1f905f4277d650ad0cfef281d", null ],
+    [ "creatureIds", "d6/dda/a11575.html#a3a6f946c40b1006164793dbaed2b3948", null ]
 ];

@@ -1,10 +1,6 @@
 var a14063 =
 [
-    [ "npc_coren_direbrew_sisters", "d8/dd4/a14063.html#a415ea0ebd044236f5f4c4d6c28896e00", null ],
-    [ "GetGUID", "d8/dd4/a14063.html#a61863117e71ebfb7f1c4c83780ece7bc", null ],
-    [ "JustEngagedWith", "d8/dd4/a14063.html#a34e0b6af032240c152c463c221d99335", null ],
-    [ "SetGUID", "d8/dd4/a14063.html#ada2e446a929bbba088d3c7e09d117f93", null ],
-    [ "UpdateAI", "d8/dd4/a14063.html#a7434b08d12d3f0902d1944b75323560c", null ],
-    [ "_scheduler", "d8/dd4/a14063.html#a9d8ca85e7bbd3cc9c61c2bbb38b7d222", null ],
-    [ "_targetGUID", "d8/dd4/a14063.html#a801a6811124a7db3a31ec492ef954b20", null ]
+    [ "npc_brewfest_keg_reciver", "d8/dd4/a14063.html#af12e7608f3f715650e6c265ac18920e4", null ],
+    [ "MoveInLineOfSight", "d8/dd4/a14063.html#ae719a770598c6347d4ee6b9e77d30eae", null ],
+    [ "sGossipSelect", "d8/dd4/a14063.html#ad56ba9921e94cbd4ba1d6c1ddd1efe24", null ]
 ];

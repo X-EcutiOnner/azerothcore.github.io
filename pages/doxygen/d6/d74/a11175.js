@@ -1,12 +1,14 @@
 var a11175 =
 [
-    [ "Action", "d6/d74/a11175.html#a0aba96ac9e7af155a1d9bdf120afae25", null ],
-    [ "Address", "d6/d74/a11175.html#aaae2d4fd576f3eeb40c1413d54802345", null ],
-    [ "CheckId", "d6/d74/a11175.html#a51a0cea0381f2b64e9d240ac39591172", null ],
-    [ "Comment", "d6/d74/a11175.html#a6abdb409f49751b2f6aa8df88c349ba2", null ],
-    [ "Data", "d6/d74/a11175.html#a962795028d40645fe67e4290ea64b10b", null ],
-    [ "IdStr", "d6/d74/a11175.html#a15ecbc1a6582666a14423fa157d2fb84", null ],
-    [ "Length", "d6/d74/a11175.html#abe0249d9550042e696eb74edf06aaec8", null ],
-    [ "Str", "d6/d74/a11175.html#a1fc1eba87b344d4681498aafcaa496cb", null ],
-    [ "Type", "d6/d74/a11175.html#aca31cdb700dca4801dfa514812639c70", null ]
+    [ "IsFitToRequirements", "d6/d74/a11175.html#af1585273701356a591bf9d9483e996a3", null ],
+    [ "areaId", "d6/d74/a11175.html#af7e6f7b027388447a1f99e759975ca09", null ],
+    [ "auraSpell", "d6/d74/a11175.html#adaf2f6f7c56701fe42a2674aca74fba0", null ],
+    [ "autocast", "d6/d74/a11175.html#a38b42b82e4a588e102eb393cc907cd27", null ],
+    [ "gender", "d6/d74/a11175.html#af4314cba9c91fd1e2c09905c17c67d22", null ],
+    [ "questEnd", "d6/d74/a11175.html#a075cc2bc4d8c9663b2bdb2cf8ba77f5f", null ],
+    [ "questEndStatus", "d6/d74/a11175.html#ac6c7ed326628642da138bb3835db9a1d", null ],
+    [ "questStart", "d6/d74/a11175.html#afc99b14a3724fef7c5dd70e976a479a8", null ],
+    [ "questStartStatus", "d6/d74/a11175.html#a7f4466dfd9ab56850a36d0d09ff84798", null ],
+    [ "raceMask", "d6/d74/a11175.html#a402373ff841bd2aa47b4b36a581624cc", null ],
+    [ "spellId", "d6/d74/a11175.html#a8a299d901e2c13cdc3c00d6cf0a856d3", null ]
 ];

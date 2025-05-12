@@ -1,6 +1,6 @@
 var a15947 =
 [
-    [ "HandleForceCast", "d2/dd7/a15947.html#a975b69649aba9de341f4e52c82a3c111", null ],
-    [ "PrepareSpellScript", "d2/dd7/a15947.html#a2dde8402cc4e8552faf3d8a1f4c6e60e", null ],
-    [ "Register", "d2/dd7/a15947.html#a794a59e5fd3bda75f30d559f422895b5", null ]
+    [ "npc_xerestraszaAI", "dd/d8d/a15951.html", "dd/d8d/a15951" ],
+    [ "npc_xerestrasza", "d2/dd7/a15947.html#a49023756b5dab130e4ffd7e62fa80ce4", null ],
+    [ "GetAI", "d2/dd7/a15947.html#a5e0ede0054969d4787db56781dc55846", null ]
 ];

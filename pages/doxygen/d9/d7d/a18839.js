@@ -1,18 +1,10 @@
 var a18839 =
 [
-    [ "boss_four_horsemenAI", "d9/d7d/a18839.html#a828a858c3337791bd2acb3d6ba730233", null ],
-    [ "AttackStart", "d9/d7d/a18839.html#aeb7e82fe20d4f6c4c5379c060beee161", null ],
-    [ "IsInRoom", "d9/d7d/a18839.html#afaf17721189ab5b202a7dfbcd7f363e3", null ],
-    [ "JustDied", "d9/d7d/a18839.html#a3ba69ed84d129a1a48952880c77bcf53", null ],
-    [ "JustEngagedWith", "d9/d7d/a18839.html#a17b8ca30ceb0efb87be77f970c526444", null ],
-    [ "KilledUnit", "d9/d7d/a18839.html#a87bdde27a69a020a26da31f01286593a", null ],
-    [ "MovementInform", "d9/d7d/a18839.html#aa900c075c04673341b3100488c45f9e7", null ],
-    [ "MoveToCorner", "d9/d7d/a18839.html#a7891dc79980c67d82867f6181685b359", null ],
-    [ "Reset", "d9/d7d/a18839.html#a8f41a8eadb6b01d32b177640b91d929f", null ],
-    [ "UpdateAI", "d9/d7d/a18839.html#ac3a1f33bf9823e2171180c3311f647f1", null ],
-    [ "currentWaypoint", "d9/d7d/a18839.html#ab3c2643e1b3c58452661255979e67e63", null ],
-    [ "events", "d9/d7d/a18839.html#a5c135d69b30853e2eb8a52a1a5e230f7", null ],
-    [ "horsemanId", "d9/d7d/a18839.html#ab0c4162177096e7bd007996e8677fd8b", null ],
-    [ "movementPhase", "d9/d7d/a18839.html#a09b826c28e9bf6c417a650dfe710a2dd", null ],
-    [ "pInstance", "d9/d7d/a18839.html#aba63b1e9909380aa93d583a191113c54", null ]
+    [ "boss_isle_of_conquestAI", "d9/d7d/a18839.html#a7880ea86e7a03f5b14875065a83a206a", null ],
+    [ "CheckRageBuff", "d9/d7d/a18839.html#a6d60480e39fa89dbcc0facce9f0b69a3", null ],
+    [ "JustEngagedWith", "d9/d7d/a18839.html#a878635ef0673325943e6026ad76c2b06", null ],
+    [ "Reset", "d9/d7d/a18839.html#add59669e5f6c3c882ac008c720349573", null ],
+    [ "UpdateAI", "d9/d7d/a18839.html#ab33aa7e735c5837428a4cf2b76e4275e", null ],
+    [ "events", "d9/d7d/a18839.html#a38e308b66b0f35d3efe6916b03e4391c", null ],
+    [ "rage", "d9/d7d/a18839.html#aa16ebdd6e2f486d3a6e4b58f4cb5e696", null ]
 ];

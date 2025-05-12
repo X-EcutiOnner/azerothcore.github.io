@@ -1,7 +1,7 @@
 var a10479 =
 [
-    [ "RandomRollClient", "d3/d24/a10479.html#a6d2edee5a6dbafd5b6194b60eeb0aafb", null ],
-    [ "Read", "d3/d24/a10479.html#ab682763f35a40f776b1742927df0a336", null ],
-    [ "Max", "d3/d24/a10479.html#a45a1e140ed402f54deb4c0798360a43a", null ],
-    [ "Min", "d3/d24/a10479.html#a3cd07e7891b43b453b56013d76f51f71", null ]
+    [ "Emote", "d3/d24/a10479.html#acb1620d125ffb11fe43caf4ebf27d1be", null ],
+    [ "Write", "d3/d24/a10479.html#a3f5532f40b59f47423d2b4e3749da88e", null ],
+    [ "EmoteID", "d3/d24/a10479.html#a7f4d3ee4353b408f8c795e6fdc552e76", null ],
+    [ "Guid", "d3/d24/a10479.html#ab96a1c0933e90872f54eb0995098274a", null ]
 ];

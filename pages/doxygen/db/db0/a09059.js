@@ -1,8 +1,10 @@
 var a09059 =
 [
-    [ "AnyAssistCreatureInRangeCheck", "db/db0/a09059.html#a2e9cbff4e627fe8ccf67997123afe0a6", null ],
-    [ "operator()", "db/db0/a09059.html#a314a4800047f7e661cd011010b3f148e", null ],
-    [ "i_enemy", "db/db0/a09059.html#a37318ae783e6cf4a658063aab149e8a3", null ],
-    [ "i_funit", "db/db0/a09059.html#add1071091d1696c3f537483810dcb6f1", null ],
-    [ "i_range", "db/db0/a09059.html#a4bcf67be5bae4649d82586349d30be04", null ]
+    [ "iterator", "db/db0/a09059.html#a6bf9d06cfe6cb2e7df465ebf2acc099f", null ],
+    [ "begin", "db/db0/a09059.html#a1e4e67ba11ac8da077942a6581647bf3", null ],
+    [ "end", "db/db0/a09059.html#a266acb421cfc6ccc56dc2acff3202971", null ],
+    [ "getFirst", "db/db0/a09059.html#aa0156c2ad3ec5ca0df6f6a4c55d71a05", null ],
+    [ "getLast", "db/db0/a09059.html#a46a36813eaf752815a3f8c739db88a5d", null ],
+    [ "rbegin", "db/db0/a09059.html#ae69734978b5eec009a696861b7b7152b", null ],
+    [ "rend", "db/db0/a09059.html#a3f7b88b333f1da3a6ffdfc8ec31d8f52", null ]
 ];

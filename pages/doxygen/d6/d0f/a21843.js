@@ -1,10 +1,7 @@
 var a21843 =
 [
-    [ "npc_emilyAI", "d6/d0f/a21843.html#afd1e82e36c8850fbe118ab6abbdb73ce", null ],
-    [ "JustEngagedWith", "d6/d0f/a21843.html#a498ddc6969d398fe7a44824f4f8c8893", null ],
-    [ "JustSummoned", "d6/d0f/a21843.html#a4730c94b54d2ee5160011557704b35f2", null ],
-    [ "Reset", "d6/d0f/a21843.html#a8f196a6e1b21bef162b7ba4d7aeae208", null ],
-    [ "WaypointReached", "d6/d0f/a21843.html#a0a68676a6eac8fbe2b634098268eb516", null ],
-    [ "_mrfloppyGUID", "d6/d0f/a21843.html#a12a1fbe1ef4767698ab969e51e2f0e8e", null ],
-    [ "_RavenousworgGUID", "d6/d0f/a21843.html#aa2a5e45366be9f89221453e00179e1a3", null ]
+    [ "npc_amberpine_woodsmanAI", "d6/d0f/a21843.html#aa0f37b54c5bfc2f923d09437b8b30424", null ],
+    [ "Reset", "d6/d0f/a21843.html#a8da613c7bbaadf331c95667e7a361702", null ],
+    [ "UpdateAI", "d6/d0f/a21843.html#a64dbf41424a710c400d51507f6457b41", null ],
+    [ "_events", "d6/d0f/a21843.html#aac8cd045a5518e3eaa9c24e0fb83ddaa", null ]
 ];

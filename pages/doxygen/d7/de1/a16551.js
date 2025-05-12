@@ -1,5 +1,6 @@
 var a16551 =
 [
-    [ "achievement_oh_novos", "d7/de1/a16551.html#a31ca1f458c384401af107cb8f709ef61", null ],
-    [ "OnCheck", "d7/de1/a16551.html#a3b922d9ed709ed46edca794f5ccf858f", null ]
+    [ "boss_dredAI", "da/d79/a16555.html", "da/d79/a16555" ],
+    [ "boss_dred", "d7/de1/a16551.html#a60a913f53c63f95680c29c72f48f9a1a", null ],
+    [ "GetAI", "d7/de1/a16551.html#ab8276b185f80a92a54327ea28b19c704", null ]
 ];

@@ -1,11 +1,6 @@
 var a12927 =
 [
-    [ "boss_brutallusAI", "d1/d7c/a12927.html#af459f8e102817c370f63555734930477", null ],
-    [ "AttackStart", "d1/d7c/a12927.html#a32695b529405d622fe61cd916f46dc65", null ],
-    [ "DamageTaken", "d1/d7c/a12927.html#a0cf6c7f64b4872b72e3976e232d1cda0", null ],
-    [ "JustDied", "d1/d7c/a12927.html#a6920f6ec9504245fa97119e1dceb4a52", null ],
-    [ "JustEngagedWith", "d1/d7c/a12927.html#a28d35428c502d249244985b971e35ce3", null ],
-    [ "KilledUnit", "d1/d7c/a12927.html#a7a0097ad95db267d227d512104bc6884", null ],
-    [ "Reset", "d1/d7c/a12927.html#acf072997c47d25c7b1608664d1e0fa72", null ],
-    [ "UpdateAI", "d1/d7c/a12927.html#a74214632a57228887c514340b5ba0e19", null ]
+    [ "npc_a_special_surpriseAI", "d2/dda/a12931.html", "d2/dda/a12931" ],
+    [ "npc_a_special_surprise", "d1/d7c/a12927.html#ab88d74a86049c53b1569bdcc263f3dd4", null ],
+    [ "GetAI", "d1/d7c/a12927.html#a930c7ba67a20fbfc55b40117ccd52c98", null ]
 ];

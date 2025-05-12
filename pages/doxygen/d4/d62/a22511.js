@@ -1,17 +1,9 @@
 var a22511 =
 [
-    [ "OutdoorPvPSI", "d4/d62/a22511.html#a89bf2d913b7d68ee921ef4b9aeea61e1", null ],
-    [ "FillInitialWorldStates", "d4/d62/a22511.html#a0bf1688569e00431dcb128113b35d0f5", null ],
-    [ "HandleAreaTrigger", "d4/d62/a22511.html#a7c6d70d7a611752456c55d13420ff840", null ],
-    [ "HandleCustomSpell", "d4/d62/a22511.html#a10853a2f5766b6fc75044a20b281a198", null ],
-    [ "HandleDropFlag", "d4/d62/a22511.html#a9238a5007253d84d66192bd340d8311a", null ],
-    [ "HandlePlayerEnterZone", "d4/d62/a22511.html#ad2cabd461406a61e40411850b3d31c0c", null ],
-    [ "HandlePlayerLeaveZone", "d4/d62/a22511.html#aa06088b1d80072577e6fc7653a214512", null ],
-    [ "SendRemoveWorldStates", "d4/d62/a22511.html#aae7deda0662b28f6fc0e16115a65304b", null ],
-    [ "SetupOutdoorPvP", "d4/d62/a22511.html#a401da5bef2350c4eb21b249b4f8b3e40", null ],
-    [ "Update", "d4/d62/a22511.html#a56bda08a795a4b0cd1c52ec448920fac", null ],
-    [ "UpdateWorldState", "d4/d62/a22511.html#a81f4362ece83f37f14471926e9a85fb3", null ],
-    [ "m_Gathered_A", "d4/d62/a22511.html#ab532337ab7e66e1489221e3189e48bac", null ],
-    [ "m_Gathered_H", "d4/d62/a22511.html#abcd36fe918edbbea387573bd5fab89e7", null ],
-    [ "m_LastController", "d4/d62/a22511.html#a05c33cec2d0c1a9fe31cb3d9ba3f3c1c", null ]
+    [ "npc_stolen_soul", "d4/d62/a22511.html#a84a0bb8320b2332545748e010d855884", null ],
+    [ "DoAction", "d4/d62/a22511.html#abcfed6b9b46ce48a15b31d062a1618f4", null ],
+    [ "Reset", "d4/d62/a22511.html#a9f18ffbb42c988067b6dfa8355a4aba6", null ],
+    [ "UpdateAI", "d4/d62/a22511.html#a7bf369dd943ee36600a364d56b85db5a", null ],
+    [ "_scheduler", "d4/d62/a22511.html#ab62526916f0ccd681383d37d19d94ccc", null ],
+    [ "myClass", "d4/d62/a22511.html#ab2ad92983075320ce389aa583c341d21", null ]
 ];

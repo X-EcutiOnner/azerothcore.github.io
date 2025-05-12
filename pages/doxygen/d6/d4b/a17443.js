@@ -1,12 +1,8 @@
 var a17443 =
 [
-    [ "gunship_npc_AI", "d6/d4b/a17443.html#a30c13cb755638fcf05d1ad9a476210d3", null ],
-    [ "EnterEvadeMode", "d6/d4b/a17443.html#a7c2da25bb962c32fa350ee1f12f86ca4", null ],
-    [ "JustDied", "d6/d4b/a17443.html#ad40c976be4decd9054dad031a4caab78", null ],
-    [ "MovementInform", "d6/d4b/a17443.html#a3bae54b656fc5ed8c6fef80bd1721c71", null ],
-    [ "SetData", "d6/d4b/a17443.html#acfd5e331155d7787ada33acbca73fece", null ],
-    [ "SetSlotInfo", "d6/d4b/a17443.html#afdfc3f9add2952f90baf24d55425670f", null ],
-    [ "Index", "d6/d4b/a17443.html#ae120874514cf5921136821b820a04da7", null ],
-    [ "Instance", "d6/d4b/a17443.html#ab5276a099bcf56c5a25b3a52be516b5c", null ],
-    [ "Slot", "d6/d4b/a17443.html#a59d237475ae309755d429cfac77d6630", null ]
+    [ "ResetEncounterEvent", "d6/d4b/a17443.html#aaa1bc6d3d529524df6b0ed6be6e0966f", null ],
+    [ "Execute", "d6/d4b/a17443.html#ae8d52fc7c0689620bcef8c04643191f5", null ],
+    [ "_caster", "d6/d4b/a17443.html#abb37778222749b27791baa329e268c32", null ],
+    [ "_otherTransport", "d6/d4b/a17443.html#a7f2d0aaade5833381e3e7624745fc504", null ],
+    [ "_spellId", "d6/d4b/a17443.html#ad4c57e519201e15e23e0f56f4fbe70cb", null ]
 ];

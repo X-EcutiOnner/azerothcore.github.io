@@ -1,6 +1,6 @@
 var a12155 =
 [
-    [ "boss_sulfuronAI", "d0/d4e/a12159.html", "d0/d4e/a12159" ],
-    [ "boss_sulfuron", "dd/d99/a12155.html#aed72791db02009136592b905cc4f4df3", null ],
-    [ "GetAI", "dd/d99/a12155.html#aced001845e4a9bb9f517d45a36f474c7", null ]
+    [ "FilterTargets", "dd/d99/a12155.html#ac630fb5f068e4d26adb078b118994c45", null ],
+    [ "PrepareSpellScript", "dd/d99/a12155.html#a5f4986bfad79573e65d56ff276c49914", null ],
+    [ "Register", "dd/d99/a12155.html#aa1f5838d43871fd7908ea3b914666000", null ]
 ];

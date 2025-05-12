@@ -1,6 +1,7 @@
 var a12403 =
 [
-    [ "instance_karazhan_InstanceMapScript", "d5/ddf/a12407.html", "d5/ddf/a12407" ],
-    [ "instance_karazhan", "da/df9/a12403.html#a219fa0f5d691c2ae06a45d167c89d419", null ],
-    [ "GetInstanceScript", "da/df9/a12403.html#a4ce148ba13d0541ad2aaecdd1ed2f3a5", null ]
+    [ "HandlePeriodic", "da/df9/a12403.html#a5651e7ecab22d2286f85e56b8eccc003", null ],
+    [ "PrepareAuraScript", "da/df9/a12403.html#a5dca8e116c05d11961cbd7995314441e", null ],
+    [ "Register", "da/df9/a12403.html#a5972e66a8c05c5ae64e6666d0f35cb6e", null ],
+    [ "Validate", "da/df9/a12403.html#a689b93dcf39828f507ef2b7f72d1ca01", null ]
 ];

@@ -1,6 +1,10 @@
 var a19163 =
 [
-    [ "ChargeRifts", "d3/dc7/a19163.html#aec98a12dec1f2ad98e00d399b0e2a1d5", null ],
-    [ "Execute", "d3/dc7/a19163.html#a8d01bf861d37c25413dc14eee16a2939", null ],
-    [ "_caster", "d3/dc7/a19163.html#a3cbf5f7e26de337dadd9d96a43d728b0", null ]
+    [ "npc_scion_of_eternityAI", "d3/dc7/a19163.html#a2893db70b6a1ffa14d02dd5cea7f7c0a", null ],
+    [ "AttackStart", "d3/dc7/a19163.html#a1335f9e34ff73d5501455062be025ada", null ],
+    [ "JustDied", "d3/dc7/a19163.html#a81dcae5ef2bbd28b891e46c377fbe153", null ],
+    [ "MoveInLineOfSight", "d3/dc7/a19163.html#a74a69fa532f0921285ef678bbd2fa761", null ],
+    [ "UpdateAI", "d3/dc7/a19163.html#adb16afb6ea1583a7156b80a8d833951a", null ],
+    [ "events", "d3/dc7/a19163.html#ae0e194a24a14033a499e68524da1699d", null ],
+    [ "pInstance", "d3/dc7/a19163.html#aa828ca4a75696645d7aa350f1f981f40", null ]
 ];

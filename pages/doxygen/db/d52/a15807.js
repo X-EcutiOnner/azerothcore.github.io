@@ -1,6 +1,6 @@
 var a15807 =
 [
-    [ "boss_sartharion_vesperonAI", "d4/d64/a15811.html", "d4/d64/a15811" ],
-    [ "boss_sartharion_vesperon", "db/d52/a15807.html#a53af67abd9f9bff7f72ee2441e885500", null ],
-    [ "GetAI", "db/d52/a15807.html#ad045054b44910461e704c412a524bdc4", null ]
+    [ "npc_anub_ar_crusherAI", "d4/d64/a15811.html", "d4/d64/a15811" ],
+    [ "npc_anub_ar_crusher", "db/d52/a15807.html#a3397fab6358ce8c19aecaad734e0ef78", null ],
+    [ "GetAI", "db/d52/a15807.html#aeb8eb3e39612d0f7059f1910033cbbcc", null ]
 ];

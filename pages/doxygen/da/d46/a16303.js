@@ -1,6 +1,6 @@
 var a16303 =
 [
-    [ "npc_toc_dkAI", "d7/d3e/a16307.html", "d7/d3e/a16307" ],
-    [ "npc_toc_dk", "da/d46/a16303.html#ac8b2c11f64f9cc6f4be91be1e3184b8a", null ],
-    [ "GetAI", "da/d46/a16303.html#ac5252f0f7ab993c8187aff17dac7a795", null ]
+    [ "npc_toc_paladinAI", "d7/d3e/a16307.html", "d7/d3e/a16307" ],
+    [ "npc_toc_paladin", "da/d46/a16303.html#af11025a2a4be2b2c982ad31241d47180", null ],
+    [ "GetAI", "da/d46/a16303.html#a15766ea4414701040c738251302177af", null ]
 ];

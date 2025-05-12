@@ -1,6 +1,7 @@
 var a21999 =
 [
-    [ "npc_llod_genericAI", "d1/d3f/a22003.html", "d1/d3f/a22003" ],
-    [ "npc_llod_generic", "d2/d18/a21999.html#a97a3957c4881808facf7910e4ae4ffd4", null ],
-    [ "GetAI", "d2/d18/a21999.html#aeb2e7d9de871686e436d1e55f47085a2", null ]
+    [ "Absorb", "d2/d18/a21999.html#a784b48553696734abac77545df2fc045", null ],
+    [ "CalculateAmount", "d2/d18/a21999.html#a456ee99a71062f6217bda7561e4e7766", null ],
+    [ "PrepareAuraScript", "d2/d18/a21999.html#a456b1b70fd6d9b6642ec959677fe08ff", null ],
+    [ "Register", "d2/d18/a21999.html#aa3260fa9a1a918e13ccfc9cd57f59d19", null ]
 ];

@@ -1,6 +1,9 @@
 var a11047 =
 [
-    [ "EffectProcHandler", "de/d4f/a11047.html#a613d5e85c3a7449e4f31719966dcdcc1", null ],
-    [ "Call", "de/d4f/a11047.html#ae03d27451f687319629b3c54c5a7eed5", null ],
-    [ "_EffectHandlerScript", "de/d4f/a11047.html#a8cb9ec4cfee59bc44063ac5cbf25844f", null ]
+    [ "SpellEvent", "de/d4f/a11047.html#abca64eb7d39df9788cef9df7e8634368", null ],
+    [ "~SpellEvent", "de/d4f/a11047.html#a01f8ea354ef70d0a2ee7b88b8dd9f68e", null ],
+    [ "Abort", "de/d4f/a11047.html#ac21656467ae71def45fd78b9d1fa1c30", null ],
+    [ "Execute", "de/d4f/a11047.html#ac8158bfbe916ff6207b2f6608308ae24", null ],
+    [ "IsDeletable", "de/d4f/a11047.html#a2ecd9b31bacc717cc509eb9bb69c3cb3", null ],
+    [ "m_Spell", "de/d4f/a11047.html#a22cce1d722f5086932ae3e97c58d2921", null ]
 ];

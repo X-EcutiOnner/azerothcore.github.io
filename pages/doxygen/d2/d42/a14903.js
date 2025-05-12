@@ -1,5 +1,7 @@
 var a14903 =
 [
-    [ "boss_yauj", "d2/d42/a14903.html#a15ab7b6b35d29fb1552b11586163320e", null ],
-    [ "JustEngagedWith", "d2/d42/a14903.html#a94a2fa960e6924bde9ba6934a56ed684", null ]
+    [ "FilterTargets", "d2/d42/a14903.html#a59e477333a54ec828a429d15b35d4936", null ],
+    [ "HandleScript", "d2/d42/a14903.html#a983fe53aa52e53a45685055fde04a3b7", null ],
+    [ "PrepareSpellScript", "d2/d42/a14903.html#a873e7766aa1cb6ebabbc77c31db6701c", null ],
+    [ "Register", "d2/d42/a14903.html#a45ac61990990f16c98eaa7136297afc5", null ]
 ];

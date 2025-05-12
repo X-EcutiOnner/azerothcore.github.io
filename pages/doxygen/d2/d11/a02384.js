@@ -1,44 +1,45 @@
 var a02384 =
 [
-    [ "AhnKahetScriptName", "d2/d11/a02384.html#a506431ce00265fd3122a043804560c86", null ],
-    [ "DataHeader", "d2/d11/a02384.html#a042491ef36459046f3866e90f15aae0d", null ],
-    [ "RegisterAhnKahetCreatureAI", "d2/d11/a02384.html#aa9d11f00daa1d5fe3fccebf717ab93f6", null ],
-    [ "AhnKahetActions", "d2/d11/a02384.html#ab602224ee107d47ea7a8fd34e7e11dcf", [
-      [ "ACTION_REMOVE_PRISON", "d2/d11/a02384.html#ab602224ee107d47ea7a8fd34e7e11dcfa16fb04e016b069c88508a114006910a8", null ]
+    [ "ATTACK_DISTANCE", "d2/d11/a02384.html#a076c4dc8a346115fe776c593c413ef2c", null ],
+    [ "CONTACT_DISTANCE", "d2/d11/a02384.html#a76b2057afb6996f8080d661890a01c6f", null ],
+    [ "DEFAULT_COLLISION_HEIGHT", "d2/d11/a02384.html#a87d5f85dfad581145d916013245c2021", null ],
+    [ "DEFAULT_COMBAT_REACH", "d2/d11/a02384.html#ac04af878f8585da7f1264b4042bac15b", null ],
+    [ "DEFAULT_VISIBILITY_BGARENAS", "d2/d11/a02384.html#a89f7f74fa54f0edb8bf2fdf50319a39f", null ],
+    [ "DEFAULT_VISIBILITY_DISTANCE", "d2/d11/a02384.html#a22c041da6769a0cb3ef89726dd33981d", null ],
+    [ "DEFAULT_VISIBILITY_INSTANCE", "d2/d11/a02384.html#a9d99b4056bf875fdb55ac9420fba982a", null ],
+    [ "DEFAULT_WORLD_OBJECT_SIZE", "d2/d11/a02384.html#a913c166f7a4cd692f382db2df507a059", null ],
+    [ "INSPECT_DISTANCE", "d2/d11/a02384.html#a627bc4be23b34b8b8be439d4010f5669", null ],
+    [ "INTERACTION_DISTANCE", "d2/d11/a02384.html#a54eb9ac4fb3942c956544c22e84743d4", null ],
+    [ "MAX_SEARCHER_DISTANCE", "d2/d11/a02384.html#a4e53fec710ac40ebac949ac16ed5376c", null ],
+    [ "MAX_VISIBILITY_DISTANCE", "d2/d11/a02384.html#a195874db808f155d535260d5e4080059", null ],
+    [ "MELEE_RANGE", "d2/d11/a02384.html#a96e2044bb0ae3b931a0f9f096e883595", null ],
+    [ "MIN_MELEE_REACH", "d2/d11/a02384.html#ab6869459c32ee6c2253af552a1144ddc", null ],
+    [ "NOMINAL_MELEE_RANGE", "d2/d11/a02384.html#a9417df9da24d43d6fc32162e559e0b71", null ],
+    [ "SIGHT_RANGE_UNIT", "d2/d11/a02384.html#a71fa43e66bd4fe745191d184923d6347", null ],
+    [ "SPELL_SEARCHER_COMPENSATION", "d2/d11/a02384.html#a7e825c8fa49d307a4e5b992af744c195", null ],
+    [ "TRADE_DISTANCE", "d2/d11/a02384.html#ac0046f058b6628976d44bbe6847d4a36", null ],
+    [ "VISIBILITY_COMPENSATION", "d2/d11/a02384.html#ad7ca43faef12f55e2d72393f26d69ba7", null ],
+    [ "VISIBILITY_DIST_WINTERGRASP", "d2/d11/a02384.html#a3366917d44c1184b7eea801c37f75eda", null ],
+    [ "VISIBILITY_DISTANCE_GIGANTIC", "d2/d11/a02384.html#ac42804b48d734699eef6b8f584e2fb90", null ],
+    [ "VISIBILITY_DISTANCE_INFINITE", "d2/d11/a02384.html#a383cb16bb626159d72cc6b5928429f90", null ],
+    [ "VISIBILITY_DISTANCE_LARGE", "d2/d11/a02384.html#a2c7e0d3a0783990d50e50d41a916a595", null ],
+    [ "VISIBILITY_DISTANCE_NORMAL", "d2/d11/a02384.html#a4ff4df7e2c9ebd38bfd8c298708deba9", null ],
+    [ "VISIBILITY_DISTANCE_SMALL", "d2/d11/a02384.html#ae57720dd4437b418bb332db290c71d45", null ],
+    [ "VISIBILITY_DISTANCE_TINY", "d2/d11/a02384.html#a3e2fbd681c4b511f283f7b4d429a5f80", null ],
+    [ "VISIBILITY_INC_FOR_GOBJECTS", "d2/d11/a02384.html#aaeef4cd88d0d15aab096215c91394412", null ],
+    [ "VisibilityDistanceType", "d2/d11/a02384.html#ae675d6469643e2aca0b1840013245a1d", [
+      [ "Normal", "d2/d11/a02384.html#ae675d6469643e2aca0b1840013245a1da960b44c579bc2f6818d2daaf9e4c16f0", null ],
+      [ "Tiny", "d2/d11/a02384.html#ae675d6469643e2aca0b1840013245a1da383c05bda6f030a44990d354b24f3338", null ],
+      [ "Small", "d2/d11/a02384.html#ae675d6469643e2aca0b1840013245a1da2660064e68655415da2628c2ae2f7592", null ],
+      [ "Large", "d2/d11/a02384.html#ae675d6469643e2aca0b1840013245a1da3a69b34ce86dacb205936a8094f6c743", null ],
+      [ "Gigantic", "d2/d11/a02384.html#ae675d6469643e2aca0b1840013245a1da87ed5c21cfc88672553ccb7896a0160b", null ],
+      [ "Infinite", "d2/d11/a02384.html#ae675d6469643e2aca0b1840013245a1dab10e24496ff8fec66189548a92a67045", null ],
+      [ "Max", "d2/d11/a02384.html#ae675d6469643e2aca0b1840013245a1da6a061313d22e51e0f25b7cd4dc065233", null ]
     ] ],
-    [ "AhnKahetCreatures", "d2/d11/a02384.html#a0a7022dbeba8e4c5922bca61c1ac6be0", [
-      [ "NPC_ELDER_NADOX", "d2/d11/a02384.html#a0a7022dbeba8e4c5922bca61c1ac6be0adefb6eeafb4e1c648ef5431666cee303", null ],
-      [ "NPC_PRINCE_TALDARAM", "d2/d11/a02384.html#a0a7022dbeba8e4c5922bca61c1ac6be0ae7602060d95905d39d735be974c99c5f", null ],
-      [ "NPC_JEDOGA_SHADOWSEEKER", "d2/d11/a02384.html#a0a7022dbeba8e4c5922bca61c1ac6be0a8f4808be30a572ba6dc967dde518e092", null ],
-      [ "NPC_HERALD_VOLAZJ", "d2/d11/a02384.html#a0a7022dbeba8e4c5922bca61c1ac6be0a5c1e93f3700ea72caa137ad6848e3c85", null ],
-      [ "NPC_AMANITAR", "d2/d11/a02384.html#a0a7022dbeba8e4c5922bca61c1ac6be0a34c1714ae003f663cb2b8951810d661f", null ],
-      [ "NPC_JEDOGA_CONTROLLER", "d2/d11/a02384.html#a0a7022dbeba8e4c5922bca61c1ac6be0acf6f2f93580795c52ed4700df297d549", null ]
-    ] ],
-    [ "AhnkahetData", "d2/d11/a02384.html#aff905f3bb30004af8919ddfe3d29e8dd", [
-      [ "DATA_ELDER_NADOX", "d2/d11/a02384.html#aff905f3bb30004af8919ddfe3d29e8dda770adca9032e015945b302877eea180f", null ],
-      [ "DATA_PRINCE_TALDARAM", "d2/d11/a02384.html#aff905f3bb30004af8919ddfe3d29e8ddaaedbd25489af19057ce8227250867ce0", null ],
-      [ "DATA_JEDOGA_SHADOWSEEKER", "d2/d11/a02384.html#aff905f3bb30004af8919ddfe3d29e8dda5898d17f647609f063f3a809dc2fec66", null ],
-      [ "DATA_HERALD_VOLAZJ", "d2/d11/a02384.html#aff905f3bb30004af8919ddfe3d29e8dda30b8528fb302a8f32b4db9e72b4889e5", null ],
-      [ "DATA_AMANITAR", "d2/d11/a02384.html#aff905f3bb30004af8919ddfe3d29e8dda7146f172ca0fe8e80c667a510874a94f", null ],
-      [ "DATA_PRINCE_TALDARAM_PLATFORM", "d2/d11/a02384.html#aff905f3bb30004af8919ddfe3d29e8dda75ab4b9865126fdcf77107ef317fe7cc", null ]
-    ] ],
-    [ "AhnkahetObjects", "d2/d11/a02384.html#a497b1d427e80ac610cd1cc5e3bc2a02f", [
-      [ "GO_TELDARAM_DOOR", "d2/d11/a02384.html#a497b1d427e80ac610cd1cc5e3bc2a02fa597526245130273d3e77a1e411a81811", null ],
-      [ "GO_TELDARAM_SPHERE1", "d2/d11/a02384.html#a497b1d427e80ac610cd1cc5e3bc2a02fa4586ff1377f4e4c184e57a56e7f962ed", null ],
-      [ "GO_TELDARAM_SPHERE2", "d2/d11/a02384.html#a497b1d427e80ac610cd1cc5e3bc2a02fa637eb0aff225b388e0c611a9cbccd03e", null ],
-      [ "GO_TELDARAM_PLATFORM", "d2/d11/a02384.html#a497b1d427e80ac610cd1cc5e3bc2a02fa9ae027e64960ba5d20a93c5123469e74", null ]
-    ] ],
-    [ "AhnKahetPersistentData", "d2/d11/a02384.html#acc056f2f7be3fe09395716ca57e7c7f3", [
-      [ "DATA_TELDRAM_SPHERE1", "d2/d11/a02384.html#acc056f2f7be3fe09395716ca57e7c7f3a748636fe536f29e09b02edcebc095d56", null ],
-      [ "DATA_TELDRAM_SPHERE2", "d2/d11/a02384.html#acc056f2f7be3fe09395716ca57e7c7f3aa71df9961714e4f37168c84236d3ca51", null ],
-      [ "MAX_PERSISTENT_DATA", "d2/d11/a02384.html#acc056f2f7be3fe09395716ca57e7c7f3ade8daf2d97d89b7bc637c9b5550e0449", null ]
-    ] ],
-    [ "AhnkahetSpells", "d2/d11/a02384.html#a04c8c0beb3d5fd05b695be78e77cfe8d", [
-      [ "SPELL_SHADOW_SICKLE", "d2/d11/a02384.html#a04c8c0beb3d5fd05b695be78e77cfe8dacf16c95dd7397632ddf94f2d9f3c3c39", null ]
-    ] ],
-    [ "AhnKahetTexts", "d2/d11/a02384.html#ad2ad73bb93c442e3d70b9efad1b6c305", [
-      [ "SAY_SPHERE_ACTIVATED", "d2/d11/a02384.html#ad2ad73bb93c442e3d70b9efad1b6c305aea5e4c72402492816a8bafad5323cff8", null ]
-    ] ],
-    [ "GetAhnKahetAI", "d2/d11/a02384.html#a7d67882176cbe7ff747f0bb785985b00", null ],
-    [ "MAX_ENCOUNTER", "d2/d11/a02384.html#a42b654ad1177faa1b68541d8c6ca1fae", null ]
+    [ "MAKE_PAIR16", "d2/d11/a02384.html#acce67ab26aa86441d3f07fb597fdf887", null ],
+    [ "MAKE_PAIR32", "d2/d11/a02384.html#a16746aa380554e93891c528f8edf0df1", null ],
+    [ "PAIR32_HIPART", "d2/d11/a02384.html#a236b098eb2d636d290e08931dcaa1911", null ],
+    [ "PAIR32_LOPART", "d2/d11/a02384.html#ae7170f91373fc9614734d4365eaebf77", null ],
+    [ "PAIR64_HIPART", "d2/d11/a02384.html#addc54387901d7793730428b2982d3f55", null ],
+    [ "PAIR64_LOPART", "d2/d11/a02384.html#a07b26e77b0b1266a3addb26d71a74344", null ]
 ];

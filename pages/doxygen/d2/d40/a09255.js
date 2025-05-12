@@ -1,9 +1,9 @@
 var a09255 =
 [
-    [ "EmoteChatBuilder", "d2/d40/a09255.html#ae1aeb36aad24d5ef28074edfbf2f9e7e", null ],
-    [ "operator()", "d2/d40/a09255.html#a133a7bb35e86cf40425910c4f19a3337", null ],
-    [ "i_emote_num", "d2/d40/a09255.html#a966b8afcbf5afca3a3466d8e075a9437", null ],
-    [ "i_player", "d2/d40/a09255.html#ae09dbfe01b2a24e57b63b2b1df5ad232", null ],
-    [ "i_target", "d2/d40/a09255.html#abc538e056d91ea1ee8d6203c96174b1d", null ],
-    [ "i_text_emote", "d2/d40/a09255.html#add0630dc3fc76fb4fdb79095e13b2fc0", null ]
+    [ "PlayerDistWorker", "d2/d40/a09255.html#a53c207607485724ba7c3aa5e9fd02b51", null ],
+    [ "Visit", "d2/d40/a09255.html#a6cb5d9bdf26bc96a24e5660ca3b3758b", null ],
+    [ "Visit", "d2/d40/a09255.html#a2658f12f90953f1057a9377b21824879", null ],
+    [ "i_dist", "d2/d40/a09255.html#aad16511b6a9aaa3eb561f636475ffe97", null ],
+    [ "i_do", "d2/d40/a09255.html#a0e1738a71d7feda9f607ee964ff1fff2", null ],
+    [ "i_searcher", "d2/d40/a09255.html#a3a3bf9b1a4bd06c54c99ceb7ba39941f", null ]
 ];

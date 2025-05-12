@@ -1,6 +1,6 @@
 var a16151 =
 [
-    [ "HideNpcEvent", "d0/d82/a16151.html#ab454295aab0f5d4586740140232e96eb", null ],
-    [ "Execute", "d0/d82/a16151.html#aecfbbbcac3fd98675913a6381c891a59", null ],
-    [ "_owner", "d0/d82/a16151.html#ac5481c94e180900f0a455dc1f1f9851c", null ]
+    [ "FilterTargets", "d0/d82/a16151.html#a79d34d7e517b27e44c6a91d6056dfec7", null ],
+    [ "PrepareSpellScript", "d0/d82/a16151.html#a5ede43deece629a38f5482280983b59a", null ],
+    [ "Register", "d0/d82/a16151.html#aec3d0ed996e9cbfed9fb78c5f16e254f", null ]
 ];

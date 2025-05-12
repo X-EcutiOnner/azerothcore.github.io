@@ -1,10 +1,13 @@
 var a12219 =
 [
-    [ "instance_gnomeregan_InstanceMapScript", "db/d93/a12219.html#a0080fdf557ad8159a8934dce5b39a535", null ],
-    [ "OnCreatureCreate", "db/d93/a12219.html#ac607601becc7fbf4ea9c64d87c93287c", null ],
-    [ "OnGameObjectCreate", "db/d93/a12219.html#a0c2f4d615394ef1d6e1b930ed6aff82f", null ],
-    [ "ReadSaveDataMore", "db/d93/a12219.html#a85d3db22430a4bac7e01dcfa1a1efb5b", null ],
-    [ "SetData", "db/d93/a12219.html#af800a1906c532f61f0299f8aa9359a66", null ],
-    [ "WriteSaveDataMore", "db/d93/a12219.html#a1b30829b3c782bb2c52e5da4fa388d5c", null ],
-    [ "_encounters", "db/d93/a12219.html#ae19a56e7fdcb2d0204d444cba11b7441", null ]
+    [ "boss_nefarian", "db/d93/a12219.html#ac8ea4f24ed97cace4630d4720b1acf47", null ],
+    [ "JustDied", "db/d93/a12219.html#a4a0a4cf4ee63ce744ffb580747f992b9", null ],
+    [ "JustEngagedWith", "db/d93/a12219.html#a6a547ba5aea4d5af2a621e5d97ceae43", null ],
+    [ "KilledUnit", "db/d93/a12219.html#a6fdf265e453deb8f9a4214beacf3dbab", null ],
+    [ "MovementInform", "db/d93/a12219.html#a0eea749c0392a7713e372cc1f236cdcd", null ],
+    [ "PathEndReached", "db/d93/a12219.html#a45ec4ab3cdf9b4de91a9ae682f3335e8", null ],
+    [ "Reset", "db/d93/a12219.html#a5d687fce34b17e22c605c263395e823b", null ],
+    [ "UpdateAI", "db/d93/a12219.html#a205c9b1d4116fbd0a1ca972f39094abc", null ],
+    [ "_introDone", "db/d93/a12219.html#a5710c721f3a24762b8cc3e79e6a14951", null ],
+    [ "classesPresent", "db/d93/a12219.html#acffc9b31a0a50ee5701c272e32c912c6", null ]
 ];

@@ -1,6 +1,7 @@
 var a13195 =
 [
-    [ "HandlePull", "d9/d6e/a13195.html#a5a43bb53d3c534054498f8366d617e5a", null ],
-    [ "PrepareSpellScript", "d9/d6e/a13195.html#aec00f82a35c8154e7d4c1f47c52d486f", null ],
-    [ "Register", "d9/d6e/a13195.html#a6da76afd5feaa0d60be70ff8469d78bc", null ]
+    [ "CorruptTriggers", "d9/d6e/a13195.html#a225cafcce56db7d4aefd3fb75ed2533f", null ],
+    [ "Execute", "d9/d6e/a13195.html#a9929f3518f307e0b753782967f06c6c1", null ],
+    [ "_caster", "d9/d6e/a13195.html#a2b9e4c3d292b7e3deea57e1542b3ba12", null ],
+    [ "_currentLane", "d9/d6e/a13195.html#a53e4c60e29f59aa91e059d50e470a22a", null ]
 ];

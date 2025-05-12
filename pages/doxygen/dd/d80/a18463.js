@@ -1,6 +1,7 @@
 var a18463 =
 [
-    [ "npc_frost_freeze_trapAI", "d9/d35/a18467.html", "d9/d35/a18467" ],
-    [ "npc_frost_freeze_trap", "dd/d80/a18463.html#ac58ed2598fd4250f220208a91343f9b8", null ],
-    [ "GetAI", "dd/d80/a18463.html#a88ed9aeb0403b3b625c858cd1e44a99f", null ]
+    [ "PeriodicTick", "dd/d80/a18463.html#ac1bace4fc66349364c84b5784967e9bf", null ],
+    [ "PrepareAuraScript", "dd/d80/a18463.html#a358193e3340112c04f79c043548c3de0", null ],
+    [ "Register", "dd/d80/a18463.html#a28f52bc253899aa407e67f9a089c815c", null ],
+    [ "Validate", "dd/d80/a18463.html#a0dde3447e38e45cea94df44449a19a01", null ]
 ];

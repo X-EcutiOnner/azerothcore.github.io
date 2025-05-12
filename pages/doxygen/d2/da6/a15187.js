@@ -1,6 +1,6 @@
 var a15187 =
 [
-    [ "npc_webbed_creatureAI", "d5/d62/a15191.html", "d5/d62/a15191" ],
-    [ "npc_webbed_creature", "d2/da6/a15187.html#ae52152939766c411e45e827e9ab52d4f", null ],
-    [ "GetAI", "d2/da6/a15187.html#a30fd53b81260b7fd6ca06881930b79e9", null ]
+    [ "npc_muglashAI", "d5/d62/a15191.html", "d5/d62/a15191" ],
+    [ "npc_muglash", "d2/da6/a15187.html#a5df1b1cff0acf8be4db77b66f8a0b5f4", null ],
+    [ "GetAI", "d2/da6/a15187.html#a7cfeaf756de85b1bd2fff9163e4bd5e3", null ]
 ];

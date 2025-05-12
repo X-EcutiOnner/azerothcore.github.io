@@ -1,10 +1,12 @@
 var a13843 =
 [
-    [ "boss_jeklik", "de/de8/a13843.html#a826bdba66fee3bb82b64ca6174b66c44", null ],
-    [ "EnterEvadeMode", "de/de8/a13843.html#a70dc363e0690e72846db5f779375edc1", null ],
-    [ "JustDied", "de/de8/a13843.html#ae648ba9ff49f4970612a8c3351789b66", null ],
-    [ "JustEngagedWith", "de/de8/a13843.html#aeb57cfc66104f6e2b2e36b6551207dd8", null ],
-    [ "PathEndReached", "de/de8/a13843.html#a689e8f91361de45e6f885fea0dec900a", null ],
-    [ "Reset", "de/de8/a13843.html#a7959106123e60e3584b32b50a272746c", null ],
-    [ "batRidersCount", "de/de8/a13843.html#a3d81395ec4518d4e2ca7f273fc658395", null ]
+    [ "npc_zulian_prowlerAI", "de/de8/a13843.html#a367613efead335b060173011267ddcff", null ],
+    [ "JustDied", "de/de8/a13843.html#a31258aadddfbf6c6e9e1d729452dd8b2", null ],
+    [ "JustEngagedWith", "de/de8/a13843.html#a207504b15ecd22b78088593b80433581", null ],
+    [ "Reset", "de/de8/a13843.html#a62d14bae970d8a70a997c683e0e94259", null ],
+    [ "SpellHit", "de/de8/a13843.html#a4051cd786d8c1974cf80c28f907cc02a", null ],
+    [ "UpdateAI", "de/de8/a13843.html#a708df3a95395f99f6ba3eebcc90a22ab", null ],
+    [ "_events", "de/de8/a13843.html#a994ae5b4e72429141155d1342830e5ad", null ],
+    [ "_instance", "de/de8/a13843.html#ad37ba6b6ff7f52a88d2a96dc4ea00c34", null ],
+    [ "_sideData", "de/de8/a13843.html#afa44e09c5677c2fc567be6a67b766bde", null ]
 ];

@@ -1,4 +1,6 @@
 var a23707 =
 [
-    [ "instance_the_botanica_InstanceMapScript", "de/d26/a23707.html#a86c5e55fe8f7e40d041abbcdb2d23797", null ]
+    [ "HandleCast", "de/d26/a23707.html#a912dc3b17ab7d0818089c32610d82a16", null ],
+    [ "PrepareSpellScript", "de/d26/a23707.html#a6590aab70049aa5e94ed48aeb99ab1d0", null ],
+    [ "Register", "de/d26/a23707.html#a09d4af96e2d5a69b1b61a6055bcb04d4", null ]
 ];

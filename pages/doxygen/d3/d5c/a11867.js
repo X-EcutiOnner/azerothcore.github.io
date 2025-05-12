@@ -1,12 +1,14 @@
 var a11867 =
 [
-    [ "go_suppression_deviceAI", "d3/d5c/a11867.html#a32767442eeabab896032333e42d3e496", null ],
-    [ "Activate", "d3/d5c/a11867.html#aa52ca9fb60793e33ae3fe911cd4be379", null ],
-    [ "Deactivate", "d3/d5c/a11867.html#aec459270ff4965b79430c5bb66cb18f6", null ],
-    [ "DoAction", "d3/d5c/a11867.html#a60bcafdf76e6735756a43c780bda7baf", null ],
-    [ "InitializeAI", "d3/d5c/a11867.html#a1dd83a1e393ef47d8bd4917aff5df13f", null ],
-    [ "UpdateAI", "d3/d5c/a11867.html#afaa70c968a0994fbcd01dd40b6d060a5", null ],
-    [ "_active", "d3/d5c/a11867.html#a00fb57e180148622e564712611705218", null ],
-    [ "_events", "d3/d5c/a11867.html#a0c6436834b4aca4bed2a8361941c553c", null ],
-    [ "_instance", "d3/d5c/a11867.html#a69dbc36ce80cf12cdcee5c42fe4f0a72", null ]
+    [ "boss_general_angerforgeAI", "d3/d5c/a11867.html#af5537ccebc7ac6af49f9b6612d3a6138", null ],
+    [ "JustEngagedWith", "d3/d5c/a11867.html#ae99e11630596c62c4155a18f5a0a3dd5", null ],
+    [ "Reset", "d3/d5c/a11867.html#aff55a804bdca840016e0f6b1d11f7106", null ],
+    [ "SummonAdds", "d3/d5c/a11867.html#a218f4de2d057505f60b2977835e5fd91", null ],
+    [ "SummonMedics", "d3/d5c/a11867.html#aeabe71bde9b03a944beedeac68cffd19", null ],
+    [ "UpdateAI", "d3/d5c/a11867.html#a751c0d0015c235c8716a2a8ff18500ba", null ],
+    [ "Adds_Timer", "d3/d5c/a11867.html#a069f0008735b38c249ddfe5246025438", null ],
+    [ "Cleave_Timer", "d3/d5c/a11867.html#af80ac4df7aaab1469ee62ac8b054a0b9", null ],
+    [ "HamString_Timer", "d3/d5c/a11867.html#a04c51b1400d17454ca529d6aa257697b", null ],
+    [ "Medics", "d3/d5c/a11867.html#a06fc801b89c53430603f1a33bb3e7bd8", null ],
+    [ "MightyBlow_Timer", "d3/d5c/a11867.html#aeea6bb264e2d175d1906d8606eced529", null ]
 ];

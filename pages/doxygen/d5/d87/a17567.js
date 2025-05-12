@@ -1,7 +1,6 @@
 var a17567 =
 [
-    [ "DamageGunship", "d5/d87/a17567.html#a1dc0145cfff777b18b9241dfc0966f32", null ],
-    [ "PrepareSpellScript", "d5/d87/a17567.html#aa698d016ae58d665c081976f20ec0385", null ],
-    [ "Register", "d5/d87/a17567.html#ab8836babdea1fd963fdd53415db0a3ba", null ],
-    [ "Validate", "d5/d87/a17567.html#ae80cd93b2f01ddb83493f9f818fc0ea1", null ]
+    [ "IgbTeleportOnVictoryCheck", "d5/d87/a17567.html#a29ee8cac93b9920e598da9205406e608", null ],
+    [ "operator()", "d5/d87/a17567.html#acf85943e238179e911434358f1593be2", null ],
+    [ "_inst", "d5/d87/a17567.html#a015353ecb66da16c697152b7ad3c527e", null ]
 ];

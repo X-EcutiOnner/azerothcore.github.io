@@ -1,5 +1,8 @@
 var a18591 =
 [
-    [ "at_icc_shutdown_traps", "d6/d81/a18591.html#aa13f5d78d3032e8114e9978f42468f64", null ],
-    [ "OnTrigger", "d6/d81/a18591.html#abb31b3f6d0b159b625d731ac47127005", null ]
+    [ "npc_arthas_teleport_visualAI", "d6/d81/a18591.html#a9b9b2ba725cde9aec898244a9e50c394", null ],
+    [ "Reset", "d6/d81/a18591.html#a27155b8880a2a86b733bcd074e977b59", null ],
+    [ "UpdateAI", "d6/d81/a18591.html#a23c200f2c7b9f5d02bed7af37bc69c33", null ],
+    [ "_events", "d6/d81/a18591.html#a986f19145e46f5975f22a84a3e1b10ee", null ],
+    [ "_instance", "d6/d81/a18591.html#a25bc023e061a0845421a652b571a6e1e", null ]
 ];

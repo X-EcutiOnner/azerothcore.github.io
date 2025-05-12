@@ -1,6 +1,8 @@
 var a11015 =
 [
-    [ "EffectCalcSpellModHandler", "df/dc5/a11015.html#abe81396a3f1c1b3b07c10cf0e191546c", null ],
-    [ "Call", "df/dc5/a11015.html#a5ca2a9c329a7dbbb7e835849ca4479aa", null ],
-    [ "pEffectHandlerScript", "df/dc5/a11015.html#a15c0b24641cb04f31bb3d651dae59448", null ]
+    [ "SkillPerfectItemEntry", "df/dc5/a11015.html#a683f3c6f5e9c5ef2a0f0fa09d546d2a3", null ],
+    [ "SkillPerfectItemEntry", "df/dc5/a11015.html#a678f9908440187faad38c0e1ffaf82de", null ],
+    [ "perfectCreateChance", "df/dc5/a11015.html#a750d5ab6bc3df0026e640f1c84de8547", null ],
+    [ "perfectItemType", "df/dc5/a11015.html#a057605f8867d4df5cb290318598a2908", null ],
+    [ "requiredSpecialization", "df/dc5/a11015.html#aa7ad968ab1b8804ee8f0f8f40bc6f762", null ]
 ];

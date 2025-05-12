@@ -1,8 +1,7 @@
 var a08991 =
 [
-    [ "FriendlyMissingBuffInRange", "d1/d54/a08991.html#a628fe94ce054a868977ef2a981bc5d6c", null ],
-    [ "operator()", "d1/d54/a08991.html#a6dce8a1248ebb4f3e57cd12a3d94b7b9", null ],
-    [ "i_obj", "d1/d54/a08991.html#aba43edf48b2b0184b52143707c3531f4", null ],
-    [ "i_range", "d1/d54/a08991.html#a54ba98f393a8bdf710f6bd65abee526c", null ],
-    [ "i_spell", "d1/d54/a08991.html#a7f34521e8789a1e1dabb867ed82ff438", null ]
+    [ "QuestPOIPoint", "d1/d54/a08991.html#a99aaafe1fdae391c6fba20e0c623ff99", null ],
+    [ "QuestPOIPoint", "d1/d54/a08991.html#a2e80e5a83ab336a8b019f38297862efa", null ],
+    [ "x", "d1/d54/a08991.html#a5e9592283b28cd6ff0610ec0438b2a2d", null ],
+    [ "y", "d1/d54/a08991.html#a45211fd0fbeeb5d9fced2b2c31502851", null ]
 ];

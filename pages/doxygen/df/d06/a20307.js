@@ -1,6 +1,5 @@
 var a20307 =
 [
-    [ "npc_ulduar_leviathan_mkiiAI", "dc/d39/a20311.html", "dc/d39/a20311" ],
-    [ "npc_ulduar_leviathan_mkii", "df/d06/a20307.html#a9e4671adcb2409a7c83460d28d29f579", null ],
-    [ "GetAI", "df/d06/a20307.html#afe438e97b6989a8899850619c87cd7e6", null ]
+    [ "achievement_kologarn_with_open_arms", "df/d06/a20307.html#a94af961be5bbdf7783925148731ce7e4", null ],
+    [ "OnCheck", "df/d06/a20307.html#a03c1fb5f141a15f8f63e28700b98f9b5", null ]
 ];

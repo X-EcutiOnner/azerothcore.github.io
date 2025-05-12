@@ -1,6 +1,7 @@
 var a08751 =
 [
-    [ "EmoteDelay", "d0/d6a/a08751.html#a053adbedc95026b192360e13d32c9401", null ],
-    [ "EmoteType", "d0/d6a/a08751.html#aa5189cb250b3f46086ecd69dee23414b", null ],
-    [ "Greeting", "d0/d6a/a08751.html#a84aa5fced9b8989487d1468c4eccb976", null ]
+    [ "VehicleDespawnEvent", "d0/d6a/a08751.html#ab6f88e60f1068ab79049c158314a87ab", null ],
+    [ "Execute", "d0/d6a/a08751.html#a39284ca2343e54cec915ac3ecf51f4a8", null ],
+    [ "_duration", "d0/d6a/a08751.html#a3e9c695929c24728b2091940e511d5f0", null ],
+    [ "_self", "d0/d6a/a08751.html#a0d472ea9a1a7b615f01c73d20cfc6573", null ]
 ];

@@ -1,7 +1,7 @@
 var a14335 =
 [
-    [ "HandleDummy", "dd/d3a/a14335.html#a05c3589ee04eed87449f652db065f0e9", null ],
-    [ "PrepareSpellScript", "dd/d3a/a14335.html#afb79a2cf5359e7ec69746cd89d8cd727", null ],
-    [ "Register", "dd/d3a/a14335.html#a51207fcd4f272e120fe1af2ac78c1f80", null ],
-    [ "Validate", "dd/d3a/a14335.html#a5fc6dae87ffb634cc0de389196751b22", null ]
+    [ "HandleEffectApply", "dd/d3a/a14335.html#ad48d832fef881bfb517fb8df694b7507", null ],
+    [ "HandleEffectRemove", "dd/d3a/a14335.html#a1534b010301dbaff66d41443142c50b7", null ],
+    [ "PrepareAuraScript", "dd/d3a/a14335.html#ab4bba02a5e2196ad65ccea94a4615a9d", null ],
+    [ "Register", "dd/d3a/a14335.html#a97a0003cca808e5b03f720bb3be07419", null ]
 ];

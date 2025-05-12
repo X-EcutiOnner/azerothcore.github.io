@@ -1,17 +1,12 @@
 var a11471 =
 [
-    [ "boss_drektharAI", "d2/d52/a11471.html#a4cd7f817b3dfe457cb330e73316e18d1", null ],
-    [ "AttackStart", "d2/d52/a11471.html#a058d9683179756e49aa4e243d270105c", null ],
-    [ "EnterEvadeMode", "d2/d52/a11471.html#a7f8677796d1b9dbe7021c056252278d3", null ],
-    [ "JustEngagedWith", "d2/d52/a11471.html#aea7fad4bfdc14e5526a6620ee5d3ba2e", null ],
-    [ "JustRespawned", "d2/d52/a11471.html#aef244c80a915eaf4c1e0ff1c1080b18a", null ],
-    [ "Reset", "d2/d52/a11471.html#a87e1f67ae379360bc0843d7bb3cd0acb", null ],
-    [ "UpdateAI", "d2/d52/a11471.html#a79f1f0430496d2a1759ded7cca5cdef3", null ],
-    [ "Attacked", "d2/d52/a11471.html#a6a6b5b2b00e85231441f5a8a0213e5ec", null ],
-    [ "FrenzyTimer", "d2/d52/a11471.html#afd2d5fc6b7091fb019048d32a8b3631e", null ],
-    [ "KnockdownTimer", "d2/d52/a11471.html#a235912a2cb78bd10b6b3a45c51ee0cff", null ],
-    [ "ResetTimer", "d2/d52/a11471.html#a7d7b0a8d19d540e998db3b6e189cc16d", null ],
-    [ "Whirlwind2Timer", "d2/d52/a11471.html#a788359b7f2df1794dbff643d75b2c561", null ],
-    [ "WhirlwindTimer", "d2/d52/a11471.html#aef399775e552d7e80224fbb0c2f62aff", null ],
-    [ "YellTimer", "d2/d52/a11471.html#ad45ea624603c427fa5b3e40cd6ba7f5d", null ]
+    [ "WardenMac", "d2/d52/a11471.html#a576c0cf7a819e95c97cc0ac4e5962d6d", null ],
+    [ "~WardenMac", "d2/d52/a11471.html#a5f3832580c73a0af34fa83669a92ceab", null ],
+    [ "GetModuleForClient", "d2/d52/a11471.html#a7a31b72ea7362c70f0fc9ff6e316d80b", null ],
+    [ "HandleData", "d2/d52/a11471.html#a024be47d39641cb0e7654b0e0999e444", null ],
+    [ "HandleHashResult", "d2/d52/a11471.html#a7feb3f82b2e0efd8427d6d8bcabaf17c", null ],
+    [ "Init", "d2/d52/a11471.html#ae329d60e41b9f5af2a2c7e4983936eac", null ],
+    [ "InitializeModule", "d2/d52/a11471.html#a4fceef34e83db1a357d9eadce35efdef", null ],
+    [ "RequestChecks", "d2/d52/a11471.html#a2437a3a5650305b05fc22d312d0006da", null ],
+    [ "RequestHash", "d2/d52/a11471.html#af031f18554c5a96b4eb39371a92b9c51", null ]
 ];

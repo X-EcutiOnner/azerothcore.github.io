@@ -1,5 +1,6 @@
 var a11795 =
 [
-    [ "at_the_beast_room", "de/d46/a11795.html#aed5c4aae45ee2b256eb078875c5a2c47", null ],
-    [ "OnTrigger", "de/d46/a11795.html#a366c5e35c4030f998404886f1526ae37", null ]
+    [ "npc_grimstoneAI", "d6/d6c/a11799.html", "d6/d6c/a11799" ],
+    [ "npc_grimstone", "de/d46/a11795.html#ae5c3e36bf18cb30dd4fc7cd5e7a72cfb", null ],
+    [ "GetAI", "de/d46/a11795.html#a24cf0aa69ac28c13ac3c44e14c35406c", null ]
 ];

@@ -1,17 +1,23 @@
 var a03071 =
 [
-    [ "KeyFrame", "db/d9d/a09824.html", "db/d9d/a09824" ],
-    [ "TransportTemplate", "df/d7e/a09828.html", "df/d7e/a09828" ],
-    [ "TransportAnimation", "d5/d25/a09832.html", "d5/d25/a09832" ],
-    [ "TransportMgr", "df/da6/a09836.html", "df/da6/a09836" ],
-    [ "sTransportMgr", "df/d48/a03071.html#a8490de0c5d2ca76c3c17a5f9241ad635", null ],
-    [ "KeyFrameVec", "df/d48/a03071.html#a933345ef2cba8f20007b633f8bce737c", null ],
-    [ "TransportAnimationContainer", "df/d48/a03071.html#a66190b362b4aab515b7cf6974acdc3ee", null ],
-    [ "TransportInstanceMap", "df/d48/a03071.html#a5d0b038ae19d95dc969ce0306e61df37", null ],
-    [ "TransportMap", "df/d48/a03071.html#a41b04a0a994912eda6d213e37d97a0a9", null ],
-    [ "TransportPathContainer", "df/d48/a03071.html#a7905b31432c2140de30ffc9363c3e9b9", null ],
-    [ "TransportPathRotationContainer", "df/d48/a03071.html#a58adfcebbe67029f647a3db4897a6558", null ],
-    [ "TransportSet", "df/d48/a03071.html#abdd9e6bc913517c5ebd7f5e99f699e1e", null ],
-    [ "TransportSpline", "df/d48/a03071.html#a05990a03a3ab902d6d79e9f33385b605", null ],
-    [ "TransportTemplates", "df/d48/a03071.html#a95da4f79fff198b8042b47657f7ccb66", null ]
+    [ "CreatureTextEntry", "d0/d73/a11347.html", "d0/d73/a11347" ],
+    [ "CreatureTextLocale", "db/d78/a11351.html", "db/d78/a11351" ],
+    [ "CreatureTextId", "d6/d95/a11355.html", "d6/d95/a11355" ],
+    [ "CreatureTextMgr", "d1/d2f/a11359.html", "d1/d2f/a11359" ],
+    [ "CreatureTextLocalizer< Builder >", "d9/d42/a11363.html", "d9/d42/a11363" ],
+    [ "sCreatureTextMgr", "df/d48/a03071.html#a2dc428da007cefe454220dcb355a1cde", null ],
+    [ "CreatureTextGroup", "df/d48/a03071.html#a9baeb5ff5e542c90d9058942cf0b4bbd", null ],
+    [ "CreatureTextHolder", "df/d48/a03071.html#aad09b58ddf486cb766cdeb242824cd2d", null ],
+    [ "CreatureTextMap", "df/d48/a03071.html#ac48698bcbe36b82577c41f42f3f23f09", null ],
+    [ "CreatureTextRepeatGroup", "df/d48/a03071.html#aa92b7ce1a721a3955751ae25cf01b22a", null ],
+    [ "CreatureTextRepeatIds", "df/d48/a03071.html#a4a74e5d0af63228e47e1f663570018ae", null ],
+    [ "CreatureTextRepeatMap", "df/d48/a03071.html#a919aeba9f103d29372eb10a72f3b1142", null ],
+    [ "LocaleCreatureTextMap", "df/d48/a03071.html#ab39b2d82775a84108d19ed009bd14747", null ],
+    [ "CreatureTextRange", "df/d48/a03071.html#adf847039afbebeda9e21210c1f4eb052", [
+      [ "TEXT_RANGE_NORMAL", "df/d48/a03071.html#adf847039afbebeda9e21210c1f4eb052a649e811a5e8853fa24088dbb708ce9ab", null ],
+      [ "TEXT_RANGE_AREA", "df/d48/a03071.html#adf847039afbebeda9e21210c1f4eb052a1982e7a678f4ba541ea6ecbfec493385", null ],
+      [ "TEXT_RANGE_ZONE", "df/d48/a03071.html#adf847039afbebeda9e21210c1f4eb052a182bd5362916ba67bcf6660ce37fae0a", null ],
+      [ "TEXT_RANGE_MAP", "df/d48/a03071.html#adf847039afbebeda9e21210c1f4eb052a90bf8cfe8ac6e4bac224bd3dd9fbc3a3", null ],
+      [ "TEXT_RANGE_WORLD", "df/d48/a03071.html#adf847039afbebeda9e21210c1f4eb052a3a88078985d9e80a4543acf0acde52d9", null ]
+    ] ]
 ];

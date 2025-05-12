@@ -1,6 +1,5 @@
 var a22255 =
 [
-    [ "npc_icefangAI", "dc/d53/a22259.html", "dc/d53/a22259" ],
-    [ "npc_icefang", "d9/d3f/a22255.html#a2e13be89b110abaa2509e597e4cf883a", null ],
-    [ "GetAI", "d9/d3f/a22255.html#ad1a936b1eef30271912054a817e0c9f8", null ]
+    [ "npc_wg_spirit_guideAI", "d9/d3f/a22255.html#a576d15b6acedb07bfe1555bdd0ee8f12", null ],
+    [ "UpdateAI", "d9/d3f/a22255.html#a32b28e8fe74db742d170bd754d11f4d7", null ]
 ];

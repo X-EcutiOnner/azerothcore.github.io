@@ -1,14 +1,8 @@
 var a15923 =
 [
-    [ "npc_halion_controllerAI", "d9/da4/a15923.html#aabe03dbe5652db6687e7f2857ea33a20", null ],
-    [ "DoAction", "d9/da4/a15923.html#a8d295797e21c03e7d2c3d504c40ba128", null ],
-    [ "Reset", "d9/da4/a15923.html#a3004aecb50815287d5f832f2a8a0d250", null ],
-    [ "SetData", "d9/da4/a15923.html#a3ce9a62d3e44b3ccc279803d5ef87a47", null ],
-    [ "UpdateAI", "d9/da4/a15923.html#ac3ad9df40560ba8acfcd7fbabd303fde", null ],
-    [ "UpdateCorporeality", "d9/da4/a15923.html#ac82987f2b2b069b90c509c477004bae6", null ],
-    [ "_corporeality", "d9/da4/a15923.html#a4c23df1bb774ac724bdf537453592671", null ],
-    [ "_events", "d9/da4/a15923.html#a92e3f116260265a2d0dbeef769eee03e", null ],
-    [ "_instance", "d9/da4/a15923.html#a5cce2f56e6ef0b4baeb6f2f7dbfd2f73", null ],
-    [ "_materialDamage", "d9/da4/a15923.html#afcc510b0d4be10ed057d1a304b803b69", null ],
-    [ "_twilightDamage", "d9/da4/a15923.html#a13a9efcb11ed31725c45011508407287", null ]
+    [ "RestoreFight", "d9/da4/a15923.html#a0149cccce8c3120b1e988e9a7c96f75c", null ],
+    [ "RestoreFight", "d9/da4/a15923.html#a0149cccce8c3120b1e988e9a7c96f75c", null ],
+    [ "Execute", "d9/da4/a15923.html#a019eb3c08dc8c3b97fc27b989ec8ab77", null ],
+    [ "Execute", "d9/da4/a15923.html#a019eb3c08dc8c3b97fc27b989ec8ab77", null ],
+    [ "_owner", "d9/da4/a15923.html#ae35c9b4547fcd7e8ea0f4b6ee4c637a0", null ]
 ];

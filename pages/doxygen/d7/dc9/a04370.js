@@ -1,4 +1,4 @@
 var a04370 =
 [
-    [ "ScriptRegistry< MailScript >", "d7/dc9/a04370.html#a2c63e917d984cb7f72bcae15da56850c", null ]
+    [ "Acore::Encoding::Base32", "d9/dba/a05287.html", "d9/dba/a05287" ]
 ];

@@ -1,6 +1,7 @@
 var a13335 =
 [
-    [ "npc_rinjiAI", "d7/d2a/a13339.html", "d7/d2a/a13339" ],
-    [ "npc_rinji", "d5/d9c/a13335.html#af89b9c77b1a57dc506de0398a0d4b957", null ],
-    [ "GetAI", "d5/d9c/a13335.html#a5457ac00ce0b195752640358b912af10", null ]
+    [ "npc_singularity", "d5/d9c/a13335.html#a4ed61ec65ed94d8d5e42ae7ff9ecd41d", null ],
+    [ "FindAndFollowTarget", "d5/d9c/a13335.html#a76c21129756dec05f6f2d88cebe948c5", null ],
+    [ "Reset", "d5/d9c/a13335.html#ae81c2e5865beb00df8683fa0fb6e7872", null ],
+    [ "UpdateAI", "d5/d9c/a13335.html#ad019d234ca9ee719612d59e5bb0b53ea", null ]
 ];

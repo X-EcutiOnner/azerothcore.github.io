@@ -1,6 +1,6 @@
 var a23011 =
 [
-    [ "HandleProc", "d5/d2b/a23011.html#a93dfb9e0dac89cb66f340c41dbc526bb", null ],
-    [ "PrepareAuraScript", "d5/d2b/a23011.html#a94b244ef26355d53c874aec6d26f3a53", null ],
-    [ "Register", "d5/d2b/a23011.html#a9499d88802213ceb877e19d1651324f2", null ]
+    [ "boss_doomlordkazzakAI", "d3/d1c/a23015.html", "d3/d1c/a23015" ],
+    [ "boss_doomlord_kazzak", "d5/d2b/a23011.html#ae4e4844d584ba71ebd3d8a341ba91462", null ],
+    [ "GetAI", "d5/d2b/a23011.html#a460a32ce37aae852b48f1990406da9a4", null ]
 ];

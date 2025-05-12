@@ -1,16 +1,18 @@
 var a21319 =
 [
-    [ "boss_xevozzAI", "d2/df1/a21319.html#a422359074a43e84ee6462b61fc4ce6a9", null ],
-    [ "EnterEvadeMode", "d2/df1/a21319.html#a5557f799c862759c8fd94a98cadee7d5", null ],
-    [ "JustDied", "d2/df1/a21319.html#a6e66dec2e1bc198d9b3e855366ca8b02", null ],
-    [ "JustEngagedWith", "d2/df1/a21319.html#a0f8c06f3e0934eb22bf8a26aa3238b50", null ],
-    [ "JustSummoned", "d2/df1/a21319.html#a04787f7600a817fd63132676590505a8", null ],
-    [ "KilledUnit", "d2/df1/a21319.html#ad47008e9044815cc4475adbaf3ece543", null ],
-    [ "MoveInLineOfSight", "d2/df1/a21319.html#a519c1222ef186067dcb9a98bb84ea031", null ],
-    [ "Reset", "d2/df1/a21319.html#a435b22ca3c7e573d4e3c70e2497063e7", null ],
-    [ "SummonedCreatureDespawn", "d2/df1/a21319.html#ab6e7bb57110831079ede943a74641bd4", null ],
-    [ "UpdateAI", "d2/df1/a21319.html#aa61271e4a9d8e13ac875f6efd550aa4b", null ],
-    [ "events", "d2/df1/a21319.html#a8a5796089d42dad89c9cec5ea4d38321", null ],
-    [ "pInstance", "d2/df1/a21319.html#a9eda85f10a814efa32f7b224e1772b89", null ],
-    [ "spheres", "d2/df1/a21319.html#ab1d51bbfd433b37b8ceec15a18d62b17", null ]
+    [ "violet_hold_trashAI", "d2/df1/a21319.html#a87011739810f39291655bc835f9995bd", null ],
+    [ "AttackStart", "d2/df1/a21319.html#ab2d2157977ae2482217fa8ac344b30af", null ],
+    [ "ClearDoorSealAura", "d2/df1/a21319.html#ad0c756eb5bef8036cb47ebcc9e6915df", null ],
+    [ "CreatureStartAttackDoor", "d2/df1/a21319.html#a1e64a9f7c82275969e099b5012a32924", null ],
+    [ "EnterEvadeMode", "d2/df1/a21319.html#ab189607a468514d6c472ac40e6f3d85b", null ],
+    [ "JustDied", "d2/df1/a21319.html#acd512cd3722a2edf0ca539272ded3c79", null ],
+    [ "JustEngagedWith", "d2/df1/a21319.html#a16e7677aa9597dda938a67c51febde6c", null ],
+    [ "JustReachedHome", "d2/df1/a21319.html#ae98d0cd977d59cbfe567fa6e294cde7e", null ],
+    [ "MoveInLineOfSight", "d2/df1/a21319.html#ab0e73a03d6e36a35eb393127bce3dad3", null ],
+    [ "UpdateAI", "d2/df1/a21319.html#a8647797343650fcd4f6304bce3742883", null ],
+    [ "WaypointReached", "d2/df1/a21319.html#ac218e3761b79d4d8186ad8d12e0d0b57", null ],
+    [ "bAddedWP", "d2/df1/a21319.html#ad2e8841054cece73bdc7c2e7782c96a8", null ],
+    [ "bAlt", "d2/df1/a21319.html#ad84ecad1a57f0af44af2795a252d2214", null ],
+    [ "pInstance", "d2/df1/a21319.html#a0a5f5b86cd54c28a828db2ac3e83126b", null ],
+    [ "PLoc", "d2/df1/a21319.html#a9e9ca535b9d2fa1b246975f984c96998", null ]
 ];

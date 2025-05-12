@@ -1,6 +1,6 @@
 var a11739 =
 [
-    [ "npc_blackhand_incarceratorAI", "dc/d7a/a11743.html", "dc/d7a/a11743" ],
-    [ "npc_blackhand_incarcerator", "d1/d7f/a11739.html#a0c6bb8ea789e81803a11be57ac1b68e2", null ],
-    [ "GetAI", "d1/d7f/a11739.html#a021ddf6442812f7fb698ba7fb45b9ffb", null ]
+    [ "npc_av_marshal_or_warmasterAI", "dc/d7a/a11743.html", "dc/d7a/a11743" ],
+    [ "npc_av_marshal_or_warmaster", "d1/d7f/a11739.html#a7ffc93248d66d50d5d75d1fcf1f907ee", null ],
+    [ "GetAI", "d1/d7f/a11739.html#a295eee4baef6a53cf291fdf155cfdf4a", null ]
 ];

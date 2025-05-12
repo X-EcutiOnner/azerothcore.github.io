@@ -1,7 +1,7 @@
 var a10631 =
 [
-    [ "OpcodeHandler", "d9/d96/a04665.html#gad7dc8101b537abe699b18ae8de444a81", null ],
-    [ "~OpcodeHandler", "d9/d96/a04665.html#ga5400057a3d849035aedda259828a5af5", null ],
-    [ "Name", "d9/d96/a04665.html#ga0f1d1acde7c65e2b5c29357b232a7061", null ],
-    [ "Status", "d9/d96/a04665.html#gace7959058ad5b5e617c7b043f5c63b7c", null ]
+    [ "GuildBankActivate", "de/df9/a10631.html#a5b27541a26ada694d9635f6d6873ef20", null ],
+    [ "Read", "de/df9/a10631.html#a8dbde75aaa3102024aa0ff3a8f3625da", null ],
+    [ "Banker", "de/df9/a10631.html#a9b79075c6ee6a4f73ae18c6956eead7c", null ],
+    [ "FullUpdate", "de/df9/a10631.html#a50b9a5333e2296e654c90fc6394bdbd3", null ]
 ];

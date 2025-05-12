@@ -1,14 +1,14 @@
 var a11715 =
 [
-    [ "boss_lord_valthalakAI", "d3/d65/a11715.html#a7f10837eafefefb87b338410c5994362", null ],
-    [ "DamageTaken", "d3/d65/a11715.html#a6fe691c8dd5c5b387eed08e3a010bec7", null ],
-    [ "IsSummonedBy", "d3/d65/a11715.html#a852589ca84562ad1a9dcdd403fe5aa83", null ],
-    [ "JustDied", "d3/d65/a11715.html#a4c9bd060e62f1c4d3819350bf549a39a", null ],
-    [ "JustEngagedWith", "d3/d65/a11715.html#acee7b1758b670a688fe1afcdef3b9f8c", null ],
-    [ "Reset", "d3/d65/a11715.html#abcc993a205602484fb46a67bc68dbbd9", null ],
-    [ "StartFighting", "d3/d65/a11715.html#af06da24e8bedf922895c8c591c1def04", null ],
-    [ "StartTalking", "d3/d65/a11715.html#ac1d7b3844f9019ea6485de7616caff95", null ],
-    [ "UpdateAI", "d3/d65/a11715.html#a2b39a384ac7133aa013e21b0e873c4e2", null ],
-    [ "frenzy15", "d3/d65/a11715.html#aabd65fc1a1bdbbc9c3a46c918bc7dff5", null ],
-    [ "frenzy40", "d3/d65/a11715.html#a75aa55580bed475e88e9071fa5284267", null ]
+    [ "tele_commandscript", "d3/d65/a11715.html#a13d522c3480c5b82071d5f77bd41f942", null ],
+    [ "DoNameTeleport", "d3/d65/a11715.html#aeab9bf62f33fd1d55055ba2ae7925f82", null ],
+    [ "GetCommands", "d3/d65/a11715.html#a296b26e39d5d575ebe68728ff1b49f68", null ],
+    [ "HandleTeleAddCommand", "d3/d65/a11715.html#a8d429a38c01a19f8c89c87937ef24248", null ],
+    [ "HandleTeleCommand", "d3/d65/a11715.html#ac7d7dbb28f3a908fa5116ffb9ca6f7fa", null ],
+    [ "HandleTeleDelCommand", "d3/d65/a11715.html#ad3d85b0057797de2aceeb620cf62efc0", null ],
+    [ "HandleTeleGroupCommand", "d3/d65/a11715.html#af83e529b482654851a7a1ee77beb107e", null ],
+    [ "HandleTeleNameCommand", "d3/d65/a11715.html#a70fcde1c7c5a9e5297035862adca55c4", null ],
+    [ "HandleTeleNameNpcIdCommand", "d3/d65/a11715.html#a52852b7f3d7a6bbf68164e6918b9a141", null ],
+    [ "HandleTeleNameNpcNameCommand", "d3/d65/a11715.html#a2f68bad0f1af5d40fcefb8c394472b65", null ],
+    [ "HandleTeleNameNpcSpawnIdCommand", "d3/d65/a11715.html#a7a45fa39afa6bae2359a68b11a504bc5", null ]
 ];

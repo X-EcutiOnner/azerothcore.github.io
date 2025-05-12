@@ -1,11 +1,10 @@
 var a16715 =
 [
-    [ "npc_hor_leaderAI", "dd/db1/a16715.html#a2072f9facbc476bb97f1a3ca9c24fcb7", null ],
-    [ "DoAction", "dd/db1/a16715.html#a610700732a6cc197a40106adef654a62", null ],
-    [ "Reset", "dd/db1/a16715.html#a40749d0294400e15bc28f6e728c6cb3c", null ],
-    [ "UpdateAI", "dd/db1/a16715.html#acb29a6ddb6d06616e79f7431b66f167a", null ],
-    [ "events", "dd/db1/a16715.html#a94128223bddd84b8a678e49f3189cb75", null ],
-    [ "first", "dd/db1/a16715.html#add878d336fa7e20bee4d05ac0383dd0a", null ],
-    [ "pInstance", "dd/db1/a16715.html#a8dd77a92b151acad640f1272acf0b65f", null ],
-    [ "shortver", "dd/db1/a16715.html#a6e7b5d6f1b73bacb54d9aa1eb21fe6ee", null ]
+    [ "HandleAfterEffectAbsorb", "dd/db1/a16715.html#a4af67c41afd7843a5cfe2b2e2e9e8055", null ],
+    [ "Load", "dd/db1/a16715.html#abab656d4ba7e14bf1ffdb1d40c395b5d", null ],
+    [ "PrepareAuraScript", "dd/db1/a16715.html#a0856d66c801715f16cd251ddf9b25a59", null ],
+    [ "Register", "dd/db1/a16715.html#a69d8dfebb981b51592770b7b5807bc80", null ],
+    [ "Validate", "dd/db1/a16715.html#a55ec42ce316978220103a3a39f3939a3", null ],
+    [ "amount", "dd/db1/a16715.html#aaf34ee04ae619a3ac108a8fd1c9dac99", null ],
+    [ "fired", "dd/db1/a16715.html#a6a7afa99044644608b16e83328bfd5fa", null ]
 ];

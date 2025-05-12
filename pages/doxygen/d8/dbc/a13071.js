@@ -1,8 +1,7 @@
 var a13071 =
 [
-    [ "CheckCast", "d8/dbc/a13071.html#a414c603646c1a6be9bbb7059abbb7e71", null ],
-    [ "HandleScriptEffect", "d8/dbc/a13071.html#a22f630cb9df4b435a5624f2865915753", null ],
-    [ "PrepareSpellScript", "d8/dbc/a13071.html#a6e6b27ade1cac743946a976dbf343066", null ],
-    [ "Register", "d8/dbc/a13071.html#a4afae0bafceeb6e6a9a26aea2162d4d9", null ],
-    [ "Validate", "d8/dbc/a13071.html#a85779288126b21f516f2feb0238ee65b", null ]
+    [ "OnPeriodic", "d8/dbc/a13071.html#aa48b6f35302a8857465c6567f811dec6", null ],
+    [ "PrepareAuraScript", "d8/dbc/a13071.html#ad606a06f64b85c762f3c83bc9ca5b7b3", null ],
+    [ "Register", "d8/dbc/a13071.html#aa7708067531131738b86077638eda7ac", null ],
+    [ "Validate", "d8/dbc/a13071.html#a665698b54201184185d96bd33f53e584", null ]
 ];

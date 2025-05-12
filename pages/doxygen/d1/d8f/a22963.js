@@ -1,6 +1,8 @@
 var a22963 =
 [
-    [ "HandleSchoolDamage", "d1/d8f/a22963.html#ab105ff1efd0fe20585ac3dc6c60f81a2", null ],
-    [ "PrepareSpellScript", "d1/d8f/a22963.html#a0296aa3d00d0d12e213d95b8520c50dc", null ],
-    [ "Register", "d1/d8f/a22963.html#a4cd7135ff9e4ef605635f1eccc01ba65", null ]
+    [ "CalcPeriodic", "d1/d8f/a22963.html#aad87c25b9b3255a4871bec39d9787299", null ],
+    [ "PrepareAuraScript", "d1/d8f/a22963.html#a7494c41e41ffc55811c57208f80c7eb6", null ],
+    [ "Register", "d1/d8f/a22963.html#acce25abc58a29dfe5a5287a8b00242ae", null ],
+    [ "Update", "d1/d8f/a22963.html#a4e2a5a2d666419ccbb0ca71670332b8c", null ],
+    [ "Validate", "d1/d8f/a22963.html#ae4f7bfb1cd95666acada217173876352", null ]
 ];

@@ -1,6 +1,9 @@
 var a20491 =
 [
-    [ "boss_thorimAI", "d8/d53/a20495.html", "d8/d53/a20495" ],
-    [ "boss_thorim", "da/d03/a20491.html#a23a52a05aea5092cef8fe47be28b4bfb", null ],
-    [ "GetAI", "da/d03/a20491.html#a70895451317569f50adc11474e653515", null ]
+    [ "npc_ulduar_dark_rune_sentinelAI", "da/d03/a20491.html#a533ae31e0507f12f7d94e347b6b7ebf2", null ],
+    [ "CanAIAttack", "da/d03/a20491.html#a12b2e5c621a8b04a4d80dde706a4bb2b", null ],
+    [ "Reset", "da/d03/a20491.html#ada2897f48effedd5d5baa5a260497b5a", null ],
+    [ "UpdateAI", "da/d03/a20491.html#aa9b319928a9b23cf4d47a07c1eaeb0cd", null ],
+    [ "timer1", "da/d03/a20491.html#a383a2ee113822b7eff52466f0cc0e137", null ],
+    [ "timer2", "da/d03/a20491.html#ad5c4698c5d12ff42179d62c47d9f7719", null ]
 ];

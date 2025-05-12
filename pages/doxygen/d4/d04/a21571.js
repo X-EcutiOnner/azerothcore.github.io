@@ -1,7 +1,5 @@
 var a21571 =
 [
-    [ "npc_thassarianAI", "d4/d04/a21571.html#a92e873dc3aa97f81919225ce75a5f894", null ],
-    [ "Reset", "d4/d04/a21571.html#a8611ef17700c739dbd5e7a70660f1379", null ],
-    [ "UpdateAI", "d4/d04/a21571.html#ad09a3a063d716bc43e23b5aad5e46a7b", null ],
-    [ "_events", "d4/d04/a21571.html#aaecb5a402e4ffca1e819303dbb94f5b5", null ]
+    [ "npc_steam_powered_auctioneerAI", "d4/d04/a21571.html#a5ef3dfd385ee3e5a49bd5c0e165103fc", null ],
+    [ "CanBeSeen", "d4/d04/a21571.html#a3352588abda326f7c72d0764a3f53370", null ]
 ];

@@ -1,6 +1,6 @@
 var a21423 =
 [
-    [ "npc_azure_sorcerorAI", "d9/da3/a21427.html", "d9/da3/a21427" ],
-    [ "npc_azure_sorceror", "d0/db1/a21423.html#ab81ec144680a37312b0a5e0110365a1a", null ],
-    [ "GetAI", "d0/db1/a21423.html#a647ac2853586e380fdf0e0ffa43abaca", null ]
+    [ "npc_iruk", "d0/db1/a21423.html#a721aeefd23371cc6bc16738a797bf50a", null ],
+    [ "OnGossipHello", "d0/db1/a21423.html#a774669099330c75ab5e0bea8d460f517", null ],
+    [ "OnGossipSelect", "d0/db1/a21423.html#ae6f7d54d224488a9e29c59c560eba471", null ]
 ];

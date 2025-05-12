@@ -1,6 +1,6 @@
 var a17723 =
 [
-    [ "npc_gas_cloudAI", "d0/d07/a17723.html#a44e6f92ed3731beb8a36db66da9fbdef", null ],
-    [ "CastMainSpell", "d0/d07/a17723.html#a61681f6f9616fe33274302d4160c709b", null ],
-    [ "_newTargetSelectTimer", "d0/d07/a17723.html#a6989b904abaa5b71362e43664f4b084d", null ]
+    [ "PrepareSpellScript", "d0/d07/a17723.html#a9041ce6139de9a48621d6898ddcca673", null ],
+    [ "RecalculateDamage", "d0/d07/a17723.html#abfb7c002577a59864fb2aa069b713c0a", null ],
+    [ "Register", "d0/d07/a17723.html#a4308449e8cbe7ed59598a837024141cb", null ]
 ];

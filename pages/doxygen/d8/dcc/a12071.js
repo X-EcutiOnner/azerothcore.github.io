@@ -1,10 +1,12 @@
 var a12071 =
 [
-    [ "boss_golemaggAI", "d8/dcc/a12071.html#a79e2416a55a1531316d891ebff4e5575", null ],
-    [ "DamageTaken", "d8/dcc/a12071.html#a5f9191609c7ff0715ba186f8ae28262b", null ],
-    [ "Reset", "d8/dcc/a12071.html#aeed4cda9fae3e0b46832ec1bfecb97b0", null ],
-    [ "UpdateAI", "d8/dcc/a12071.html#af7b322731241dbb08041a92cd355f273", null ],
-    [ "earthquakeTimer", "d8/dcc/a12071.html#a6bfd75b1d57d8002cab075bbd5a12612", null ],
-    [ "enraged", "d8/dcc/a12071.html#a52e6d8bcf979d216aff536e8fae3bf01", null ],
-    [ "pyroblastTimer", "d8/dcc/a12071.html#a142ededff85d517c08744bdafd644c34", null ]
+    [ "boss_thebeastAI", "d8/dcc/a12071.html#a51b7d4ec10d2616d99fb21e680ff17b4", null ],
+    [ "FindNearbyOrcs", "d8/dcc/a12071.html#ad832a878880ac32e05d360262546422a", null ],
+    [ "JustEngagedWith", "d8/dcc/a12071.html#ab107354f10d0af4b840ab5ff8d3d0eaf", null ],
+    [ "Reset", "d8/dcc/a12071.html#abfa1bca308a02ef0e80d2baf11670305", null ],
+    [ "SetData", "d8/dcc/a12071.html#a6f30ed7c0451613998660b258145f801", null ],
+    [ "UpdateAI", "d8/dcc/a12071.html#a0f490e907ce632e1fb921a6eb46b49c0", null ],
+    [ "_beastReached", "d8/dcc/a12071.html#a01271598b4b3c85a7066e66d8150e522", null ],
+    [ "_nearbyOrcsGUIDs", "d8/dcc/a12071.html#af32fb34f4c76cfe292da9bc84a5d6372", null ],
+    [ "_orcYelled", "d8/dcc/a12071.html#a16df847475ea220b8ac4ea944e8d1ca4", null ]
 ];

@@ -1,6 +1,7 @@
 var a10971 =
 [
-    [ "ObjectAreaTargetSelectHandler", "df/d91/a10971.html#a89b86436bb1de38223165e7ef60f2b61", null ],
-    [ "Call", "df/d91/a10971.html#a11d2070610d178006231bac274d1f311", null ],
-    [ "pObjectAreaTargetSelectHandlerScript", "df/d91/a10971.html#a118ca963c6319802806913762c4d1fec", null ]
+    [ "Player", "df/d91/a10971.html#a7f4241aa9ecc051c75f779af132a52ed", null ],
+    [ "WorldSession", "df/d91/a10971.html#a65b5c30bf4f5f118a199e378d903aaf6", null ],
+    [ "FactionChange", "df/d91/a10971.html#adff657ead29df26ead5e20a8ecf44e87", null ],
+    [ "Race", "df/d91/a10971.html#a98d5fd43205a0c9e2d3be75d384ce00c", null ]
 ];

@@ -1,9 +1,10 @@
 var a10371 =
 [
-    [ "GuildBankUpdateTab", "de/d80/a10371.html#a2950da8bfc40df57a3f5a66eee47a7ef", null ],
-    [ "Read", "de/d80/a10371.html#ac261ff0102489efb4d69bd866ffc9283", null ],
-    [ "Banker", "de/d80/a10371.html#a7ab950cee095221f9114224a624d46db", null ],
-    [ "BankTab", "de/d80/a10371.html#a66284a4d9cb40b025ef265d443e6e62f", null ],
-    [ "Icon", "de/d80/a10371.html#a75a219a9e2ab677a41920f39a1613a1b", null ],
-    [ "Name", "de/d80/a10371.html#a44261fbc379b3137548922faf4b5cbda", null ]
+    [ "WorldObjectScript", "de/d80/a10371.html#af044c3699a591c137abc5e03c772890b", null ],
+    [ "IsDatabaseBound", "de/d80/a10371.html#a48f037dd6152ff68ebef672de68df45e", null ],
+    [ "OnWorldObjectCreate", "de/d80/a10371.html#a2b32bc661e5a377de98902f3bc16679b", null ],
+    [ "OnWorldObjectDestroy", "de/d80/a10371.html#a7856d4b561cd99a7f405f86fffd57fef", null ],
+    [ "OnWorldObjectResetMap", "de/d80/a10371.html#a32e6b907a20d84377e1ddfce79b5cfe1", null ],
+    [ "OnWorldObjectSetMap", "de/d80/a10371.html#a12cf83d65dded66b41ca54a3c1bd31cb", null ],
+    [ "OnWorldObjectUpdate", "de/d80/a10371.html#abc139d1aa728f8a70886eed65d28f566", null ]
 ];

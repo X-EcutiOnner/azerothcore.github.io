@@ -1,7 +1,7 @@
 var a15943 =
 [
-    [ "HandlePeriodic", "d3/d81/a15943.html#ab49a636eaddea5c91f86f21a1d4d182e", null ],
-    [ "PrepareAuraScript", "d3/d81/a15943.html#a3a9a26b3e0964e08d67a89cd950b5a97", null ],
-    [ "Register", "d3/d81/a15943.html#aed8d41a9bf289b21caa9e93e66b004d2", null ],
-    [ "Validate", "d3/d81/a15943.html#a3a428e0e4f63770a35cdf6a6ac85e403", null ]
+    [ "CheckDistance", "d3/d81/a15943.html#ac10f4cebab4966a220cd931afd0e0a30", null ],
+    [ "PrepareSpellScript", "d3/d81/a15943.html#adb14940f47dc509d75a4e81bb90fc40d", null ],
+    [ "Register", "d3/d81/a15943.html#a3a64ffc872e4650b1d226d20d9bedc65", null ],
+    [ "Validate", "d3/d81/a15943.html#aa5d7a420154b156ca24e73de2faf912a", null ]
 ];

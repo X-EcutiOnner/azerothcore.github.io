@@ -1,5 +1,6 @@
 var a13771 =
 [
-    [ "go_gong_of_bethekk", "db/d04/a13771.html#ae261467be63f1a744eb20f81473c2239", null ],
-    [ "OnGossipHello", "db/d04/a13771.html#a82072ff8c030aec1a5ed447865680788", null ]
+    [ "go", "db/d04/a13771.html#ac14168f8c25efe7fa22ec802259b3a11", null ],
+    [ "npc", "db/d04/a13771.html#a04d6e67fa2fb208ca747798ccc53083d", null ],
+    [ "pos", "db/d04/a13771.html#a51175880a326101b29879d7a6a62c48d", null ]
 ];

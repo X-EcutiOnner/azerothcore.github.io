@@ -1,6 +1,6 @@
 var a17839 =
 [
-    [ "ExtraRemoveEffect", "d9/d6f/a17839.html#a49b1087d66606ddeebe6918ad05d4b37", null ],
-    [ "PrepareAuraScript", "d9/d6f/a17839.html#a41992ed6c23275d3a910915755b682f9", null ],
-    [ "Register", "d9/d6f/a17839.html#ab956cb95473cf0c5fc9fb2af14fc945e", null ]
+    [ "FilterTargetsInitial", "d9/d6f/a17839.html#a92cc71f268793c616bed66d9a489a145", null ],
+    [ "PrepareSpellScript", "d9/d6f/a17839.html#ae27e6ceab6b92e59c97307ed10f24ab2", null ],
+    [ "Register", "d9/d6f/a17839.html#a91b96940a9e72e632989b49f7e475dba", null ]
 ];

@@ -1,19 +1,13 @@
 var a13559 =
 [
-    [ "boss_halazzi", "d2/d12/a13559.html#aed961a9e12b44dfd97bd31c981184be5", null ],
-    [ "AttackStart", "d2/d12/a13559.html#a000c3b6b8a73fd8f858b87724dfcf123", null ],
-    [ "DamageTaken", "d2/d12/a13559.html#a3e0f8b3f086a60389a7ec37da19b0219", null ],
-    [ "EnterPhase", "d2/d12/a13559.html#a951a0c9fc4fc737abbaaae77dfd4e43b", null ],
-    [ "JustDied", "d2/d12/a13559.html#aa607a13fef1b8c195ba0aa09fafdaaae", null ],
-    [ "JustEngagedWith", "d2/d12/a13559.html#a1dd4992bfca0bf658bd7a385300578ae", null ],
-    [ "JustSummoned", "d2/d12/a13559.html#a152267cb31912106443ceea9488fee0a", null ],
-    [ "KilledUnit", "d2/d12/a13559.html#a4d69fa8e754f823a599c52e227361600", null ],
-    [ "Reset", "d2/d12/a13559.html#a9d9a82e5ae8dadfefcf2c929325cb60e", null ],
-    [ "SpellHit", "d2/d12/a13559.html#a36141673391a423174db874ca425ea07", null ],
-    [ "_healthCheckPercentage", "d2/d12/a13559.html#a03a8812f5dd437f6c663b53cead722aa", null ],
-    [ "_healthPortion", "d2/d12/a13559.html#a0213fbffb3543029bdcbcf470597e225", null ],
-    [ "_humanFormHealth", "d2/d12/a13559.html#a5d4f7915fbd38ad9114697ad847f17c4", null ],
-    [ "_lynxFormHealth", "d2/d12/a13559.html#ae0e2b50ce3648a2356389fc167566723", null ],
-    [ "_phase", "d2/d12/a13559.html#a1f76fd0c02eec20aa2c222b278420dd8", null ],
-    [ "_transformCount", "d2/d12/a13559.html#a9a86487f20e48d6be123bd61aaf13f7f", null ]
+    [ "npc_ravenclaw_apparitionAI", "d2/d12/a13559.html#a2a8a6cdb3d74e55cc3d6786ebcfb5328", null ],
+    [ "EmoteCrowd", "d2/d12/a13559.html#a7a407c9b00bb24c4c3d057ec2a4b0fdc", null ],
+    [ "JustDied", "d2/d12/a13559.html#a88f9d4e72273f8f835e809b27d5b52d8", null ],
+    [ "JustSummoned", "d2/d12/a13559.html#a1ab2f2a6b0514d192a7962cf8315ee16", null ],
+    [ "SummonCrowd", "d2/d12/a13559.html#af3f6ea6094b82e06ce7ef2d4432bd88a", null ],
+    [ "UpdateAI", "d2/d12/a13559.html#ab3c6c27a31f12443efcad314cbfa1129", null ],
+    [ "events", "d2/d12/a13559.html#a27522107b5e1f54909294f800f26663f", null ],
+    [ "HasEnded", "d2/d12/a13559.html#a1b7a57b7204f51304ef05ee3d2265774", null ],
+    [ "summons", "d2/d12/a13559.html#a85cde0a9d4903c89b29f68318730ab7f", null ],
+    [ "TalkRNG", "d2/d12/a13559.html#a4b41f348e6756298d6a13b09fbf13fd0", null ]
 ];

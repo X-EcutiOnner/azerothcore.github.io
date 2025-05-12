@@ -1,7 +1,10 @@
 var a10147 =
 [
-    [ "ClientPacket", "d6/d71/a10147.html#aa1d1946c07e248bae5927e83fdad9500", null ],
-    [ "ClientPacket", "d6/d71/a10147.html#a1cdaaacca2695c4366647c7611073ff0", null ],
-    [ "GetOpcode", "d6/d71/a10147.html#aa51558bb8faa96a665fe40b1bddf9d14", null ],
-    [ "Write", "d6/d71/a10147.html#a16e5b9fa05e35fa1e32e33bef2688487", null ]
+    [ "QuestStatusData", "d6/d71/a10147.html#ae71725a7f75e10aacb6f4a9ca4b72f27", null ],
+    [ "CreatureOrGOCount", "d6/d71/a10147.html#aa5892dc0744a41ac565568307f12ad35", null ],
+    [ "Explored", "d6/d71/a10147.html#a734f6a61aa35c77689d33031e88f0c0b", null ],
+    [ "ItemCount", "d6/d71/a10147.html#a466999cea52f65bf58916bc34750bf95", null ],
+    [ "PlayerCount", "d6/d71/a10147.html#a170a1e54fe45b7fd0c7934f1309f7969", null ],
+    [ "Status", "d6/d71/a10147.html#a4ce7af3a64737d7961b6dfa19189c932", null ],
+    [ "Timer", "d6/d71/a10147.html#a16343f7a162e5b7b6a1a18345420c77a", null ]
 ];

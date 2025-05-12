@@ -1,8 +1,6 @@
 var a15167 =
 [
-    [ "npc_death_ravagerAI", "d8/dbb/a15167.html#ad18242b078db0883029537562a41cc20", null ],
-    [ "Reset", "d8/dbb/a15167.html#ac0fdbfe2f324785569fa742e0b244b83", null ],
-    [ "UpdateAI", "d8/dbb/a15167.html#ac3dce7d79e67f20d7a8fe161da9d5279", null ],
-    [ "EnragingBiteTimer", "d8/dbb/a15167.html#af33898ebd9bea6b1a58b673373de3c64", null ],
-    [ "RendTimer", "d8/dbb/a15167.html#ad7ff02fe6e11a0fb0d8a3ae869ed5f6d", null ]
+    [ "HandleDummy", "d8/dbb/a15167.html#a09b21b3e5357c49d85ef01d9a5d4694f", null ],
+    [ "PrepareSpellScript", "d8/dbb/a15167.html#ac221d3d128265d78acc72d41ebf0fd8a", null ],
+    [ "Register", "d8/dbb/a15167.html#a67be525bc07ef7091d9b8148c1a01fb9", null ]
 ];

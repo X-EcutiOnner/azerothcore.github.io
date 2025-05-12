@@ -1,12 +1,15 @@
 var a09803 =
 [
-    [ "delay", "d6/dbe/a09803.html#aa05ef99c3e04589501362a07d0dd032a", null ],
-    [ "event_chance", "d6/dbe/a09803.html#af54f2d38ca1a11664f516799f3bb80c8", null ],
-    [ "event_id", "d6/dbe/a09803.html#a083020691278af836e48f0a0c2feff96", null ],
-    [ "id", "d6/dbe/a09803.html#af7248c313ceefedb5b7ff6ed4c2ffd6b", null ],
-    [ "move_type", "d6/dbe/a09803.html#afb1a57b423a258e99c6921727a27e2e7", null ],
-    [ "orientation", "d6/dbe/a09803.html#a971411811b0e60839538f82cd55dcfb7", null ],
-    [ "x", "d6/dbe/a09803.html#a2dfd7f1f946ebef0b67d8f1542198b4b", null ],
-    [ "y", "d6/dbe/a09803.html#a574c5ba7eb5e6bd55f6c55bb511c03f7", null ],
-    [ "z", "d6/dbe/a09803.html#a013fa650f43e790e652016fbce2e1bd5", null ]
+    [ "const_iterator", "d6/dbe/a09803.html#a78bdb53e78488faa65effb2706140558", null ],
+    [ "iterator", "d6/dbe/a09803.html#aff8f555370355b24f386c86d2f900bc3", null ],
+    [ "begin", "d6/dbe/a09803.html#a6774b551f0d64628e33594c7b486a872", null ],
+    [ "begin", "d6/dbe/a09803.html#a3ba9493437881e83c07f07cc992c274a", null ],
+    [ "end", "d6/dbe/a09803.html#af488c0096775085791b5fbc89e5851a0", null ],
+    [ "end", "d6/dbe/a09803.html#acb8ebd37d1458773b65311060e844e4b", null ],
+    [ "getFirst", "d6/dbe/a09803.html#a2981143744c8e08a42104a5d08659be4", null ],
+    [ "getFirst", "d6/dbe/a09803.html#a4d5eb2b65f0a586a3e809acb2c26f6cb", null ],
+    [ "getLast", "d6/dbe/a09803.html#ab9c66d320815602126292a14cae69872", null ],
+    [ "getLast", "d6/dbe/a09803.html#a6f7379252f5907d9240e3d364d3a8c02", null ],
+    [ "rbegin", "d6/dbe/a09803.html#a147b3fe09037c1b80bb122c627000b0a", null ],
+    [ "rend", "d6/dbe/a09803.html#afb985b9c750f3ff01cb1adaa6f86c78f", null ]
 ];

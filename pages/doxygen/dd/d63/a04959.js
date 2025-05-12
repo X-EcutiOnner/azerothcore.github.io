@@ -1,15 +1,20 @@
 var a04959 =
 [
-    [ "GetBounds", "dd/d63/a04959.html#a4a112397e75fbaf5fd991a322a8a4ea4", null ],
-    [ "operator==", "dd/d63/a04959.html#ab9713afd57c0bdf9f5ff8d5d12cd567f", null ],
-    [ "readFromFile", "dd/d63/a04959.html#a35d7880eb3e295ed3148ca05a2f4520e", null ],
-    [ "writeToFile", "dd/d63/a04959.html#ae8623dcb78a2af4c9aebd60f67649f34", null ],
-    [ "adtId", "dd/d63/a04959.html#a4ebcfe8326eff028e722c9972a16200b", null ],
-    [ "flags", "dd/d63/a04959.html#acfc7a76db09013abfad8e42aaae59f52", null ],
-    [ "iBound", "dd/d63/a04959.html#ae1dac1aa360c4d49b61a0cd8af92399c", null ],
-    [ "ID", "dd/d63/a04959.html#ab2fdb441870d6ac7ddc05640ec1d0598", null ],
-    [ "iPos", "dd/d63/a04959.html#abb5966f87710bc6a1f5da766c99b3e12", null ],
-    [ "iRot", "dd/d63/a04959.html#a6d0b4f6bde1a20b246e4b22cc43e25af", null ],
-    [ "iScale", "dd/d63/a04959.html#aad355d0fb09ff0360ed19610bef92d8e", null ],
-    [ "name", "dd/d63/a04959.html#a66e19a4a28f8fc0c537f1315d9bddcfb", null ]
+    [ "MMapMgr", "dd/d63/a04959.html#abd4bd2ef84d57be5000ab37ed36ded8c", null ],
+    [ "~MMapMgr", "dd/d63/a04959.html#a09b83a0d5246838d42a49c5103957480", null ],
+    [ "getLoadedMapsCount", "dd/d63/a04959.html#a8b087a39387a10c17dca364b9db537f9", null ],
+    [ "getLoadedTilesCount", "dd/d63/a04959.html#a14fe8d762bac4d5d179af1acf8bfe84e", null ],
+    [ "GetMMapData", "dd/d63/a04959.html#a755d34666349eba1d7665e510afa3453", null ],
+    [ "GetNavMesh", "dd/d63/a04959.html#aeae84fe910639b71a40949de59e41c91", null ],
+    [ "GetNavMeshQuery", "dd/d63/a04959.html#af9b97f1e32233fef4e4828a4c8907abc", null ],
+    [ "InitializeThreadUnsafe", "dd/d63/a04959.html#a88c7145d0475a2e5d9be5baa72a2ca7e", null ],
+    [ "loadMap", "dd/d63/a04959.html#aa27722de47fd0f5ea0d0afac8b08e161", null ],
+    [ "loadMapData", "dd/d63/a04959.html#ac677ea014721d0631195ba64b05c66a0", null ],
+    [ "packTileID", "dd/d63/a04959.html#ace3265c248ccf2a34ca4b7c43f294e43", null ],
+    [ "unloadMap", "dd/d63/a04959.html#a83acf8ce1357052ccb8aa6b63f6860ca", null ],
+    [ "unloadMap", "dd/d63/a04959.html#a2d933fd783126e48423d81d1c06fb3f9", null ],
+    [ "unloadMapInstance", "dd/d63/a04959.html#aa97a8352cad200ea1243e968dc1629a6", null ],
+    [ "loadedMMaps", "dd/d63/a04959.html#a98a7d0bf952eb80340863f2336ae84d1", null ],
+    [ "loadedTiles", "dd/d63/a04959.html#a9e2154958fcfa78d8906ccb5ccf2597c", null ],
+    [ "thread_safe_environment", "dd/d63/a04959.html#a89c7b087891d313e69437504dc0e449f", null ]
 ];

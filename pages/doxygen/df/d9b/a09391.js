@@ -1,10 +1,8 @@
 var a09391 =
 [
-    [ "MailReceiver", "df/d9b/a09391.html#a6fba3ff0ab3167197f569631d766ce14", null ],
-    [ "MailReceiver", "df/d9b/a09391.html#af0b094a704463ed76b1c08bc3cab0380", null ],
-    [ "MailReceiver", "df/d9b/a09391.html#a9f69a0951c2b9d9152685632c744cf4e", null ],
-    [ "GetPlayer", "df/d9b/a09391.html#a0113e33ef82e9f3112f8cd5793581a36", null ],
-    [ "GetPlayerGUIDLow", "df/d9b/a09391.html#a0e29fba37b58c7bc92065b0221b8e31e", null ],
-    [ "m_receiver", "df/d9b/a09391.html#a377b896e1dc7a0e89440efbc2b811ae7", null ],
-    [ "m_receiver_lowguid", "df/d9b/a09391.html#a46b62a2b8dd0ebac981e0a1752e88743", null ]
+    [ "NearestPlayerInObjectRangeCheck", "df/d9b/a09391.html#ae8e57c69baf8bdaf0448864d4afbb1a4", null ],
+    [ "NearestPlayerInObjectRangeCheck", "df/d9b/a09391.html#aac3d406d10a036b92a55bcd955411165", null ],
+    [ "operator()", "df/d9b/a09391.html#a5d7ed3141c03d2209d5a3b1a689d1668", null ],
+    [ "i_obj", "df/d9b/a09391.html#a9cd17091269bcfc2b48fefc12ac9b127", null ],
+    [ "i_range", "df/d9b/a09391.html#ab55f93d7c5d6ca3461bcbe49010fcb83", null ]
 ];

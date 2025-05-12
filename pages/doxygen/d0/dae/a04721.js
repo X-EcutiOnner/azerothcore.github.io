@@ -1,4 +1,4 @@
 var a04721 =
 [
-    [ "main", "d0/dae/a04721.html#a0ddf1224851353fc92bfbff6f499fa97", null ]
+    [ "RefMgr< TO, FROM >", "d7/d00/a05223.html", "d7/d00/a05223" ]
 ];

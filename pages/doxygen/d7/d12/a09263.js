@@ -1,9 +1,10 @@
 var a09263 =
 [
-    [ "BroadcastTextID", "d7/d12/a09263.html#a756f24dbee852a7fbe152c0cb082c412", null ],
-    [ "Emotes", "d7/d12/a09263.html#a0f67a651fdb3f3217279015c9e3fb292", null ],
-    [ "Language", "d7/d12/a09263.html#a33bc5a0c156918b00380710aeb275d3d", null ],
-    [ "Probability", "d7/d12/a09263.html#a5c743df7a7ad634c5b3f3376547fda00", null ],
-    [ "Text_0", "d7/d12/a09263.html#a046d637b91807db067c6e7050184322d", null ],
-    [ "Text_1", "d7/d12/a09263.html#a8d64d7b8fcdbd995cc11e22adde8c0de", null ]
+    [ "AnyDeadUnitSpellTargetInRangeCheck", "d7/d12/a09263.html#a212c308a02716ff382e820e86e233ed3", null ],
+    [ "operator()", "d7/d12/a09263.html#af328df880d17a62e2dbed0ff4231fc39", null ],
+    [ "operator()", "d7/d12/a09263.html#adcc69b9ef03a68aa235e40449a80b701", null ],
+    [ "operator()", "d7/d12/a09263.html#a2f2483cf7078681cb3acf28560e61184", null ],
+    [ "operator()", "d7/d12/a09263.html#aba0bf4c320a684b68743a06e724a369e", null ],
+    [ "i_check", "d7/d12/a09263.html#aa2223ad31acf47a1608ded6b5cbc2f03", null ],
+    [ "i_spellInfo", "d7/d12/a09263.html#afeb889f6cee596b2c2229f86e0a8a3f1", null ]
 ];

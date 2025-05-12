@@ -1,6 +1,6 @@
 var a24395 =
 [
-    [ "npc_pet_pri_shadowfiend", "d5/d4a/a24395.html#ac35e3bcf59dc2d65a313e315516ea09b", null ],
-    [ "JustDied", "d5/d4a/a24395.html#a6d50edf62bf4547117f3f7b5b520f71b", null ],
-    [ "Reset", "d5/d4a/a24395.html#aeff1bada59ee80ae0166a82207729bad", null ]
+    [ "HandleEffectRemove", "d5/d4a/a24395.html#a9472b79a272aff36be657b66883d822f", null ],
+    [ "PrepareAuraScript", "d5/d4a/a24395.html#ad46fedf6ef019d1b5e93d98e7bba8417", null ],
+    [ "Register", "d5/d4a/a24395.html#ace15e1f5c158f1f203862b40da2cf8fc", null ]
 ];

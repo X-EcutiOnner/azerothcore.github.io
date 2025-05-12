@@ -1,7 +1,7 @@
 var a10291 =
 [
-    [ "GuildInvite", "d1/d86/a10291.html#a7b5ef96e9a9d4c6665b280bb844b6d54", null ],
-    [ "Write", "d1/d86/a10291.html#a4ed1c240a53fa6268eb07b3c77d68757", null ],
-    [ "GuildName", "d1/d86/a10291.html#ac3ae572bb65d5ea156151e5fc7abf5b8", null ],
-    [ "InviterName", "d1/d86/a10291.html#a8a91b3f9a94776da4b23c38220c6fc3d", null ]
+    [ "InstanceMapScript", "d1/d86/a10291.html#a350d328f82cc5e7ea43f3c8779d25a67", null ],
+    [ "checkValidity", "d1/d86/a10291.html#a221dd91e2d2f761e66d990a6cae42306", null ],
+    [ "GetInstanceScript", "d1/d86/a10291.html#aa5a9acfc5a7c81a4953fe0e296f9bcc8", null ],
+    [ "IsDatabaseBound", "d1/d86/a10291.html#ab77651bb427813a7e119057c3dc53ca8", null ]
 ];

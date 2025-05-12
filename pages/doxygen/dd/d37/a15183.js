@@ -1,7 +1,13 @@
 var a15183 =
 [
-    [ "HandleEffectRemove", "dd/d37/a15183.html#aa07e0bdaac9cad239bae1b24d16b433c", null ],
-    [ "PrepareAuraScript", "dd/d37/a15183.html#a8ab8433afb22bbca79e028e8f082da2b", null ],
-    [ "Register", "dd/d37/a15183.html#a2ee3afd6fdcb0991e419396ed65e6d4a", null ],
-    [ "AuraEffectHandleModes", "dd/d37/a15183.html#af8a46c99290ce700e765c7ad5e8c866c", null ]
+    [ "instance_wailing_caverns_InstanceMapScript", "dd/d37/a15183.html#a47e596ca151268b9c3419ff2a2fffc1c", null ],
+    [ "GetData", "dd/d37/a15183.html#a17e62e8fe06617868baf85caedc3a0fc", null ],
+    [ "Initialize", "dd/d37/a15183.html#a870ab2322971767fa37986743b31d20c", null ],
+    [ "OnCreatureCreate", "dd/d37/a15183.html#aed3807432711105589d0b060a21836cc", null ],
+    [ "ReadSaveDataMore", "dd/d37/a15183.html#ad348102f71e070e7ef12da62238c7b0f", null ],
+    [ "SetData", "dd/d37/a15183.html#a0333b4728e9288937711174743f19f60", null ],
+    [ "WriteSaveDataMore", "dd/d37/a15183.html#a78bece51279e3f9e62800e4d80b00f64", null ],
+    [ "_encounters", "dd/d37/a15183.html#a0f049806007e59363418d4e39f9e389b", null ],
+    [ "DiscipleOfNaralexGUID", "dd/d37/a15183.html#affed3fb16f4e578fe86ae171e5b641d6", null ],
+    [ "SerpentisGUID", "dd/d37/a15183.html#a7ba205e4988a20404f5e597331dd5d56", null ]
 ];

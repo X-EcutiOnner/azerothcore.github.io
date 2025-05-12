@@ -1,6 +1,9 @@
 var a13583 =
 [
-    [ "boss_thurgAI", "df/db1/a13587.html", "df/db1/a13587" ],
-    [ "boss_thurg", "db/dc9/a13583.html#a4d07d9d72aac5f922c886d70c508330c", null ],
-    [ "GetAI", "db/dc9/a13583.html#a45ce909d6a0886e443f42154fe57022b", null ]
+    [ "npc_tyrion_spybotAI", "db/dc9/a13583.html#aedad685279012266637d29069ead9063", null ],
+    [ "Reset", "db/dc9/a13583.html#a16f8f9fd368832aac7906c3fd8cb9698", null ],
+    [ "UpdateAI", "db/dc9/a13583.html#ad8fc713bb9673e74bfd11bc653c71587", null ],
+    [ "WaypointReached", "db/dc9/a13583.html#a819e987eeb8eb8d580a5ad22001a641d", null ],
+    [ "uiPhase", "db/dc9/a13583.html#af5dbb99fe18d96665efd04bd53294636", null ],
+    [ "uiTimer", "db/dc9/a13583.html#ab41fdff3612b29e7d0d94fb6aaa8c085", null ]
 ];

@@ -1,7 +1,8 @@
 var a10771 =
 [
-    [ "DynObjAura", "d9/d35/a10771.html#aef75bb5d60c10ac63821b0e9baf6eb7a", null ],
-    [ "FillTargetMap", "d9/d35/a10771.html#af8e36643ed675ff5652e4665bee9b0c3", null ],
-    [ "Remove", "d9/d35/a10771.html#ada3f65b4a817e2337da43da437b93a3b", null ],
-    [ "Aura::Create", "d9/d35/a10771.html#ae2c0fdfb409846fec5e861de60797112", null ]
+    [ "CrossedInebriationThreshold", "d9/d35/a10771.html#a8983b7b88a76955d9a0e2241ffb1e472", null ],
+    [ "Write", "d9/d35/a10771.html#a127dcfcc7e960d24e56d1b17bf9be992", null ],
+    [ "Guid", "d9/d35/a10771.html#a422afb45b6c5e9c4fef58fb1801bd0ad", null ],
+    [ "ItemID", "d9/d35/a10771.html#a9e48a650bf21872099cdb0626e875fd7", null ],
+    [ "Threshold", "d9/d35/a10771.html#a87b756b64cbfb8f292f46cce38308095", null ]
 ];

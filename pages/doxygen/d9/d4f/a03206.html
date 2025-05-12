@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/game/Battlegrounds/Arena.h File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/game/Misc/GameGraveyard.h File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,109 +106,97 @@ $(document).ready(function(){initNavTree('d9/d4f/a03206.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
-<a href="#enum-members">Enumerations</a>  </div>
-  <div class="headertitle"><div class="title">Arena.h File Reference</div></div>
+<a href="#define-members">Macros</a> &#124;
+<a href="#typedef-members">Typedefs</a>  </div>
+  <div class="headertitle"><div class="title">GameGraveyard.h File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">Battleground.h</a>&quot;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">Player.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">SharedDefines.h</a>&quot;</code><br />
+<code>#include &lt;map&gt;</code><br />
+<code>#include &lt;unordered_map&gt;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d4d/a07180.html">Arena</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/de6/a09859.html">GraveyardStruct</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/da5/a09863.html">GraveyardData</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d66/a09867.html">Graveyard</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
-Enumerations</h2></td></tr>
-<tr class="memitem:a407f2036481e3d9e2def3daa50546c71"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d4f/a03206.html#a407f2036481e3d9e2def3daa50546c71">ArenaBroadcastTexts</a> { <br />
-&#160;&#160;<a class="el" href="../../d9/d4f/a03206.html#a407f2036481e3d9e2def3daa50546c71a12b484d249dd320cfc39bdf39279d854">ARENA_TEXT_START_ONE_MINUTE</a> = 15740
-, <br />
-&#160;&#160;<a class="el" href="../../d9/d4f/a03206.html#a407f2036481e3d9e2def3daa50546c71a49cdd0c5a035f182212d6fe53a1e2084">ARENA_TEXT_START_THIRTY_SECONDS</a> = 15741
-, <br />
-&#160;&#160;<a class="el" href="../../d9/d4f/a03206.html#a407f2036481e3d9e2def3daa50546c71a96636e959a178535f5d886c81ec6a8d9">ARENA_TEXT_START_FIFTEEN_SECONDS</a> = 15739
-, <br />
-&#160;&#160;<a class="el" href="../../d9/d4f/a03206.html#a407f2036481e3d9e2def3daa50546c71a60ff93f414424628c66faf8f424f1dcd">ARENA_TEXT_START_BATTLE_HAS_BEGUN</a> = 15742
-<br />
- }</td></tr>
-<tr class="separator:a407f2036481e3d9e2def3daa50546c71"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a05b7784b7a9a1ce8e6367f6f9bb875d9"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d4f/a03206.html#a05b7784b7a9a1ce8e6367f6f9bb875d9">ArenaSpellIds</a> { <br />
-&#160;&#160;<a class="el" href="../../d9/d4f/a03206.html#a05b7784b7a9a1ce8e6367f6f9bb875d9a310e16f368a3a7d80eeecbaecd5c489c">SPELL_ALLIANCE_GOLD_FLAG</a> = 32724
-, <br />
-&#160;&#160;<a class="el" href="../../d9/d4f/a03206.html#a05b7784b7a9a1ce8e6367f6f9bb875d9aeae9474d707e5496dfdf0fd49871bb9f">SPELL_ALLIANCE_GREEN_FLAG</a> = 32725
-, <br />
-&#160;&#160;<a class="el" href="../../d9/d4f/a03206.html#a05b7784b7a9a1ce8e6367f6f9bb875d9a83058f9219943bb8b4d4a3024d172af0">SPELL_HORDE_GOLD_FLAG</a> = 35774
-, <br />
-&#160;&#160;<a class="el" href="../../d9/d4f/a03206.html#a05b7784b7a9a1ce8e6367f6f9bb875d9ad76f572a30c966179ca9c2c2c26f4222">SPELL_HORDE_GREEN_FLAG</a> = 35775
-, <br />
-&#160;&#160;<a class="el" href="../../d9/d4f/a03206.html#a05b7784b7a9a1ce8e6367f6f9bb875d9a20018007a38c253b1c4d00d9b0b375bd">SPELL_LAST_MAN_STANDING</a> = 26549
-<br />
- }</td></tr>
-<tr class="separator:a05b7784b7a9a1ce8e6367f6f9bb875d9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="define-members" name="define-members"></a>
+Macros</h2></td></tr>
+<tr class="memitem:ac68c2a63982a6142e1931450d7b6115c"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d4f/a03206.html#ac68c2a63982a6142e1931450d7b6115c">sGraveyard</a>&#160;&#160;&#160;<a class="el" href="../../dc/d66/a09867.html#aaaf39d71af738cac8dd427ca94a5689b">Graveyard::instance</a>()</td></tr>
+<tr class="separator:ac68c2a63982a6142e1931450d7b6115c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="typedef-members" name="typedef-members"></a>
+Typedefs</h2></td></tr>
+<tr class="memitem:a484cb47c00fe9b952853e3b04212437c"><td class="memItemLeft" align="right" valign="top">typedef std::multimap&lt; <a class="el" href="../../d0/dbd/a04634.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../db/da5/a09863.html">GraveyardData</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d4f/a03206.html#a484cb47c00fe9b952853e3b04212437c">WGGraveyardContainer</a></td></tr>
+<tr class="separator:a484cb47c00fe9b952853e3b04212437c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa5ea0c376a2e44483f8c5cb084b3b186"><td class="memItemLeft" align="right" valign="top">typedef std::pair&lt; WGGraveyardContainer::const_iterator, WGGraveyardContainer::const_iterator &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d4f/a03206.html#aa5ea0c376a2e44483f8c5cb084b3b186">GraveyardMapBounds</a></td></tr>
+<tr class="separator:aa5ea0c376a2e44483f8c5cb084b3b186"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6a551a1219fa9a26b5ed21656c2f9dd1"><td class="memItemLeft" align="right" valign="top">typedef std::pair&lt; WGGraveyardContainer::iterator, WGGraveyardContainer::iterator &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d4f/a03206.html#a6a551a1219fa9a26b5ed21656c2f9dd1">GraveyardMapBoundsNonConst</a></td></tr>
+<tr class="separator:a6a551a1219fa9a26b5ed21656c2f9dd1"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Enumeration Type Documentation</h2>
-<a id="a407f2036481e3d9e2def3daa50546c71" name="a407f2036481e3d9e2def3daa50546c71"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a407f2036481e3d9e2def3daa50546c71">&#9670;&#160;</a></span>ArenaBroadcastTexts</h2>
+<h2 class="groupheader">Macro Definition Documentation</h2>
+<a id="ac68c2a63982a6142e1931450d7b6115c" name="ac68c2a63982a6142e1931450d7b6115c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac68c2a63982a6142e1931450d7b6115c">&#9670;&#160;</a></span>sGraveyard</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">enum <a class="el" href="../../d9/d4f/a03206.html#a407f2036481e3d9e2def3daa50546c71">ArenaBroadcastTexts</a></td>
+          <td class="memname">#define sGraveyard&#160;&#160;&#160;<a class="el" href="../../dc/d66/a09867.html#aaaf39d71af738cac8dd427ca94a5689b">Graveyard::instance</a>()</td>
         </tr>
       </table>
 </div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a407f2036481e3d9e2def3daa50546c71a12b484d249dd320cfc39bdf39279d854" name="a407f2036481e3d9e2def3daa50546c71a12b484d249dd320cfc39bdf39279d854"></a>ARENA_TEXT_START_ONE_MINUTE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a407f2036481e3d9e2def3daa50546c71a49cdd0c5a035f182212d6fe53a1e2084" name="a407f2036481e3d9e2def3daa50546c71a49cdd0c5a035f182212d6fe53a1e2084"></a>ARENA_TEXT_START_THIRTY_SECONDS&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a407f2036481e3d9e2def3daa50546c71a96636e959a178535f5d886c81ec6a8d9" name="a407f2036481e3d9e2def3daa50546c71a96636e959a178535f5d886c81ec6a8d9"></a>ARENA_TEXT_START_FIFTEEN_SECONDS&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a407f2036481e3d9e2def3daa50546c71a60ff93f414424628c66faf8f424f1dcd" name="a407f2036481e3d9e2def3daa50546c71a60ff93f414424628c66faf8f424f1dcd"></a>ARENA_TEXT_START_BATTLE_HAS_BEGUN&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">   24</span>{</div>
-<div class="line"><span class="lineno">   25</span>    <a class="code hl_enumvalue" href="../../d9/d4f/a03206.html#a407f2036481e3d9e2def3daa50546c71a12b484d249dd320cfc39bdf39279d854">ARENA_TEXT_START_ONE_MINUTE</a>             = 15740,</div>
-<div class="line"><span class="lineno">   26</span>    <a class="code hl_enumvalue" href="../../d9/d4f/a03206.html#a407f2036481e3d9e2def3daa50546c71a49cdd0c5a035f182212d6fe53a1e2084">ARENA_TEXT_START_THIRTY_SECONDS</a>         = 15741,</div>
-<div class="line"><span class="lineno">   27</span>    <a class="code hl_enumvalue" href="../../d9/d4f/a03206.html#a407f2036481e3d9e2def3daa50546c71a96636e959a178535f5d886c81ec6a8d9">ARENA_TEXT_START_FIFTEEN_SECONDS</a>        = 15739,</div>
-<div class="line"><span class="lineno">   28</span>    <a class="code hl_enumvalue" href="../../d9/d4f/a03206.html#a407f2036481e3d9e2def3daa50546c71a60ff93f414424628c66faf8f424f1dcd">ARENA_TEXT_START_BATTLE_HAS_BEGUN</a>       = 15742,</div>
-<div class="line"><span class="lineno">   29</span>};</div>
-<div class="ttc" id="aa03206_html_a407f2036481e3d9e2def3daa50546c71a12b484d249dd320cfc39bdf39279d854"><div class="ttname"><a href="../../d9/d4f/a03206.html#a407f2036481e3d9e2def3daa50546c71a12b484d249dd320cfc39bdf39279d854">ARENA_TEXT_START_ONE_MINUTE</a></div><div class="ttdeci">@ ARENA_TEXT_START_ONE_MINUTE</div><div class="ttdef"><b>Definition:</b> Arena.h:25</div></div>
-<div class="ttc" id="aa03206_html_a407f2036481e3d9e2def3daa50546c71a49cdd0c5a035f182212d6fe53a1e2084"><div class="ttname"><a href="../../d9/d4f/a03206.html#a407f2036481e3d9e2def3daa50546c71a49cdd0c5a035f182212d6fe53a1e2084">ARENA_TEXT_START_THIRTY_SECONDS</a></div><div class="ttdeci">@ ARENA_TEXT_START_THIRTY_SECONDS</div><div class="ttdef"><b>Definition:</b> Arena.h:26</div></div>
-<div class="ttc" id="aa03206_html_a407f2036481e3d9e2def3daa50546c71a60ff93f414424628c66faf8f424f1dcd"><div class="ttname"><a href="../../d9/d4f/a03206.html#a407f2036481e3d9e2def3daa50546c71a60ff93f414424628c66faf8f424f1dcd">ARENA_TEXT_START_BATTLE_HAS_BEGUN</a></div><div class="ttdeci">@ ARENA_TEXT_START_BATTLE_HAS_BEGUN</div><div class="ttdef"><b>Definition:</b> Arena.h:28</div></div>
-<div class="ttc" id="aa03206_html_a407f2036481e3d9e2def3daa50546c71a96636e959a178535f5d886c81ec6a8d9"><div class="ttname"><a href="../../d9/d4f/a03206.html#a407f2036481e3d9e2def3daa50546c71a96636e959a178535f5d886c81ec6a8d9">ARENA_TEXT_START_FIFTEEN_SECONDS</a></div><div class="ttdeci">@ ARENA_TEXT_START_FIFTEEN_SECONDS</div><div class="ttdef"><b>Definition:</b> Arena.h:27</div></div>
-</div><!-- fragment -->
+
 </div>
 </div>
-<a id="a05b7784b7a9a1ce8e6367f6f9bb875d9" name="a05b7784b7a9a1ce8e6367f6f9bb875d9"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a05b7784b7a9a1ce8e6367f6f9bb875d9">&#9670;&#160;</a></span>ArenaSpellIds</h2>
+<h2 class="groupheader">Typedef Documentation</h2>
+<a id="aa5ea0c376a2e44483f8c5cb084b3b186" name="aa5ea0c376a2e44483f8c5cb084b3b186"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa5ea0c376a2e44483f8c5cb084b3b186">&#9670;&#160;</a></span>GraveyardMapBounds</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">enum <a class="el" href="../../d9/d4f/a03206.html#a05b7784b7a9a1ce8e6367f6f9bb875d9">ArenaSpellIds</a></td>
+          <td class="memname">typedef std::pair&lt;WGGraveyardContainer::const_iterator, WGGraveyardContainer::const_iterator&gt; <a class="el" href="../../d9/d4f/a03206.html#aa5ea0c376a2e44483f8c5cb084b3b186">GraveyardMapBounds</a></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a05b7784b7a9a1ce8e6367f6f9bb875d9a310e16f368a3a7d80eeecbaecd5c489c" name="a05b7784b7a9a1ce8e6367f6f9bb875d9a310e16f368a3a7d80eeecbaecd5c489c"></a>SPELL_ALLIANCE_GOLD_FLAG&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a05b7784b7a9a1ce8e6367f6f9bb875d9aeae9474d707e5496dfdf0fd49871bb9f" name="a05b7784b7a9a1ce8e6367f6f9bb875d9aeae9474d707e5496dfdf0fd49871bb9f"></a>SPELL_ALLIANCE_GREEN_FLAG&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a05b7784b7a9a1ce8e6367f6f9bb875d9a83058f9219943bb8b4d4a3024d172af0" name="a05b7784b7a9a1ce8e6367f6f9bb875d9a83058f9219943bb8b4d4a3024d172af0"></a>SPELL_HORDE_GOLD_FLAG&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a05b7784b7a9a1ce8e6367f6f9bb875d9ad76f572a30c966179ca9c2c2c26f4222" name="a05b7784b7a9a1ce8e6367f6f9bb875d9ad76f572a30c966179ca9c2c2c26f4222"></a>SPELL_HORDE_GREEN_FLAG&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a05b7784b7a9a1ce8e6367f6f9bb875d9a20018007a38c253b1c4d00d9b0b375bd" name="a05b7784b7a9a1ce8e6367f6f9bb875d9a20018007a38c253b1c4d00d9b0b375bd"></a>SPELL_LAST_MAN_STANDING&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">   32</span>{</div>
-<div class="line"><span class="lineno">   33</span>    <a class="code hl_enumvalue" href="../../d9/d4f/a03206.html#a05b7784b7a9a1ce8e6367f6f9bb875d9a310e16f368a3a7d80eeecbaecd5c489c">SPELL_ALLIANCE_GOLD_FLAG</a>                = 32724,</div>
-<div class="line"><span class="lineno">   34</span>    <a class="code hl_enumvalue" href="../../d9/d4f/a03206.html#a05b7784b7a9a1ce8e6367f6f9bb875d9aeae9474d707e5496dfdf0fd49871bb9f">SPELL_ALLIANCE_GREEN_FLAG</a>               = 32725,</div>
-<div class="line"><span class="lineno">   35</span>    <a class="code hl_enumvalue" href="../../d9/d4f/a03206.html#a05b7784b7a9a1ce8e6367f6f9bb875d9a83058f9219943bb8b4d4a3024d172af0">SPELL_HORDE_GOLD_FLAG</a>                   = 35774,</div>
-<div class="line"><span class="lineno">   36</span>    <a class="code hl_enumvalue" href="../../d9/d4f/a03206.html#a05b7784b7a9a1ce8e6367f6f9bb875d9ad76f572a30c966179ca9c2c2c26f4222">SPELL_HORDE_GREEN_FLAG</a>                  = 35775,</div>
-<div class="line"><span class="lineno">   37</span> </div>
-<div class="line"><span class="lineno">   38</span>    <a class="code hl_enumvalue" href="../../d9/d4f/a03206.html#a05b7784b7a9a1ce8e6367f6f9bb875d9a20018007a38c253b1c4d00d9b0b375bd">SPELL_LAST_MAN_STANDING</a>                 = 26549  <span class="comment">// Achievement Credit</span></div>
-<div class="line"><span class="lineno">   39</span>};</div>
-<div class="ttc" id="aa03206_html_a05b7784b7a9a1ce8e6367f6f9bb875d9a20018007a38c253b1c4d00d9b0b375bd"><div class="ttname"><a href="../../d9/d4f/a03206.html#a05b7784b7a9a1ce8e6367f6f9bb875d9a20018007a38c253b1c4d00d9b0b375bd">SPELL_LAST_MAN_STANDING</a></div><div class="ttdeci">@ SPELL_LAST_MAN_STANDING</div><div class="ttdef"><b>Definition:</b> Arena.h:38</div></div>
-<div class="ttc" id="aa03206_html_a05b7784b7a9a1ce8e6367f6f9bb875d9a310e16f368a3a7d80eeecbaecd5c489c"><div class="ttname"><a href="../../d9/d4f/a03206.html#a05b7784b7a9a1ce8e6367f6f9bb875d9a310e16f368a3a7d80eeecbaecd5c489c">SPELL_ALLIANCE_GOLD_FLAG</a></div><div class="ttdeci">@ SPELL_ALLIANCE_GOLD_FLAG</div><div class="ttdef"><b>Definition:</b> Arena.h:33</div></div>
-<div class="ttc" id="aa03206_html_a05b7784b7a9a1ce8e6367f6f9bb875d9a83058f9219943bb8b4d4a3024d172af0"><div class="ttname"><a href="../../d9/d4f/a03206.html#a05b7784b7a9a1ce8e6367f6f9bb875d9a83058f9219943bb8b4d4a3024d172af0">SPELL_HORDE_GOLD_FLAG</a></div><div class="ttdeci">@ SPELL_HORDE_GOLD_FLAG</div><div class="ttdef"><b>Definition:</b> Arena.h:35</div></div>
-<div class="ttc" id="aa03206_html_a05b7784b7a9a1ce8e6367f6f9bb875d9ad76f572a30c966179ca9c2c2c26f4222"><div class="ttname"><a href="../../d9/d4f/a03206.html#a05b7784b7a9a1ce8e6367f6f9bb875d9ad76f572a30c966179ca9c2c2c26f4222">SPELL_HORDE_GREEN_FLAG</a></div><div class="ttdeci">@ SPELL_HORDE_GREEN_FLAG</div><div class="ttdef"><b>Definition:</b> Arena.h:36</div></div>
-<div class="ttc" id="aa03206_html_a05b7784b7a9a1ce8e6367f6f9bb875d9aeae9474d707e5496dfdf0fd49871bb9f"><div class="ttname"><a href="../../d9/d4f/a03206.html#a05b7784b7a9a1ce8e6367f6f9bb875d9aeae9474d707e5496dfdf0fd49871bb9f">SPELL_ALLIANCE_GREEN_FLAG</a></div><div class="ttdeci">@ SPELL_ALLIANCE_GREEN_FLAG</div><div class="ttdef"><b>Definition:</b> Arena.h:34</div></div>
-</div><!-- fragment -->
+
+</div>
+</div>
+<a id="a6a551a1219fa9a26b5ed21656c2f9dd1" name="a6a551a1219fa9a26b5ed21656c2f9dd1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6a551a1219fa9a26b5ed21656c2f9dd1">&#9670;&#160;</a></span>GraveyardMapBoundsNonConst</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">typedef std::pair&lt;WGGraveyardContainer::iterator, WGGraveyardContainer::iterator&gt; <a class="el" href="../../d9/d4f/a03206.html#a6a551a1219fa9a26b5ed21656c2f9dd1">GraveyardMapBoundsNonConst</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a484cb47c00fe9b952853e3b04212437c" name="a484cb47c00fe9b952853e3b04212437c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a484cb47c00fe9b952853e3b04212437c">&#9670;&#160;</a></span>WGGraveyardContainer</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">typedef std::multimap&lt;<a class="el" href="../../d0/dbd/a04634.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../db/da5/a09863.html">GraveyardData</a>&gt; <a class="el" href="../../d9/d4f/a03206.html#a484cb47c00fe9b952853e3b04212437c">WGGraveyardContainer</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
 </div>
 </div>
 </div><!-- contents -->
@@ -216,8 +204,8 @@ Enumerations</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_fc52f0b797d74b4b54bfd04593b84648.html">Battlegrounds</a></li><li class="navelem"><a class="el" href="../../d9/d4f/a03206.html">Arena.h</a></li>
-    <li class="footer">Generated on Mon May 5 2025 20:44:58 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_73d54540a2ac2e818b8b1d8263043ad5.html">Misc</a></li><li class="navelem"><a class="el" href="../../d9/d4f/a03206.html">GameGraveyard.h</a></li>
+    <li class="footer">Generated on Mon May 12 2025 20:45:18 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

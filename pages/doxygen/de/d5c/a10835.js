@@ -1,5 +1,6 @@
 var a10835 =
 [
-    [ "WorldObjectSpellTrajTargetCheck", "de/d5c/a10835.html#a0c08b6b4c7878678eb419a556f718be0", null ],
-    [ "operator()", "de/d5c/a10835.html#aa1f7772cdb19914cc365a325f801b5d5", null ]
+    [ "DismissCritter", "de/d5c/a10835.html#a87e35583063b340f014d21cd02c54cab", null ],
+    [ "Read", "de/d5c/a10835.html#a411b65505e8a332ecf9291a670dc38c4", null ],
+    [ "CritterGUID", "de/d5c/a10835.html#a89c071e81c9d39c099c32c4976f15304", null ]
 ];

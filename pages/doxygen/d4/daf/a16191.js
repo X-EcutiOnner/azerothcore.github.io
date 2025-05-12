@@ -1,11 +1,8 @@
 var a16191 =
 [
-    [ "npc_anubarak_spikeAI", "d4/daf/a16191.html#a1982ce33ce76e15d33bfcc222f5ad734", null ],
-    [ "DamageTaken", "d4/daf/a16191.html#a3b548e629d2c6217f21644136ca7ba4b", null ],
-    [ "DoAction", "d4/daf/a16191.html#ab583d97745ea69e95a1ecc0b68ac9878", null ],
-    [ "Reset", "d4/daf/a16191.html#af5b4a1227467d86d9dbba57362fdf360", null ],
-    [ "SelectNewTarget", "d4/daf/a16191.html#ab9ed5d53703464c488267f578a214fb8", null ],
-    [ "UpdateAI", "d4/daf/a16191.html#af8d6d840785c718d963c7b150cd12d9c", null ],
-    [ "events", "d4/daf/a16191.html#a52ff0006b5194edcb55f49e970a15ab8", null ],
-    [ "TargetGUID", "d4/daf/a16191.html#a2f7cbaf81e159035476ee9576a0e3990", null ]
+    [ "npc_toc5_player_vehicleAI", "d4/daf/a16191.html#afa00a6254b482aae5397be04860ac8ba", null ],
+    [ "BeforeSpellClick", "d4/daf/a16191.html#aac7db7f40b47a9c098c98bacb7569faf", null ],
+    [ "OnCharmed", "d4/daf/a16191.html#ace805882a25a9d075d811714e607fa2b", null ],
+    [ "PassengerBoarded", "d4/daf/a16191.html#aca35804df751185193ff5865255d3687", null ],
+    [ "Reset", "d4/daf/a16191.html#a5439b98d544124836d2cf9762f764cea", null ]
 ];

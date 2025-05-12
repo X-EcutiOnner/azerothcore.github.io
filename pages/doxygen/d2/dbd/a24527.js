@@ -1,9 +1,7 @@
 var a24527 =
 [
-    [ "CheckCast", "d2/dbd/a24527.html#ad68a099d3167534be3d9978d1fc2b4fe", null ],
-    [ "EntryCheck", "d2/dbd/a24527.html#a8e8578447aafeea4a62e028dbe6c7419", null ],
-    [ "HandleBaseDummy", "d2/dbd/a24527.html#a8534cc52f42f0598088bf8500dd5e0e5", null ],
-    [ "HandleDummy", "d2/dbd/a24527.html#a34d9f5699f306b27830ced2129be506c", null ],
-    [ "PrepareSpellScript", "d2/dbd/a24527.html#af7aff878540dd34138aa479f532611b6", null ],
-    [ "Register", "d2/dbd/a24527.html#a78321d1589e8d7f7fe8957a4939b6197", null ]
+    [ "CalculateAmount", "d2/dbd/a24527.html#ad99a4176d27864280a79ac548a57a4c8", null ],
+    [ "Load", "d2/dbd/a24527.html#aeafec50b06b5dd2f69ca6ab4096aea4d", null ],
+    [ "PrepareAuraScript", "d2/dbd/a24527.html#a76528513f0f6728e73085a3d403c3e59", null ],
+    [ "Register", "d2/dbd/a24527.html#a4d09be7d33755ae719138d079884e281", null ]
 ];

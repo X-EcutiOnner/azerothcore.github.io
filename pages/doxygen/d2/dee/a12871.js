@@ -1,6 +1,6 @@
 var a12871 =
 [
-    [ "boss_baroness_anastariAI", "df/d87/a12875.html", "df/d87/a12875" ],
-    [ "boss_baroness_anastari", "d2/dee/a12871.html#a60f04c10d9b942cacf74a1dc8364dbbe", null ],
-    [ "GetAI", "d2/dee/a12871.html#a38073f80afbceb5535cc18ab524378a6", null ]
+    [ "npc_scarlet_minerAI", "df/d87/a12875.html", "df/d87/a12875" ],
+    [ "npc_scarlet_miner", "d2/dee/a12871.html#a8948afd8a41c23ab3afbda9949d9019d", null ],
+    [ "GetAI", "d2/dee/a12871.html#abd2973972788ce9b39572aaa819d0690", null ]
 ];

@@ -1,9 +1,9 @@
 var a07151 =
 [
-    [ "entry", "de/dd6/a07151.html#a2238cabe763a588a5572611e0aefe6ba", null ],
-    [ "o", "de/dd6/a07151.html#a0ebd9ea966eb66cf80b8f3c003db60c0", null ],
-    [ "type", "de/dd6/a07151.html#a561ac93f5c1bcc26dacbd0212b602eac", null ],
-    [ "x", "de/dd6/a07151.html#a616d422b4e8c99ec3285a87f553d4091", null ],
-    [ "y", "de/dd6/a07151.html#a34de8c83a7bc8b33ac0cabdfb1bd3459", null ],
-    [ "z", "de/dd6/a07151.html#a78cff0661e6d9440574306ec01389d42", null ]
+    [ "entryAlliance", "de/dd6/a07151.html#a0e5dba26d6d335a9d1e5f40e737acddd", null ],
+    [ "entryHorde", "de/dd6/a07151.html#a374fff4b069e89489395246f378b4900", null ],
+    [ "o", "de/dd6/a07151.html#af8a4ec46795bcdbc77c76302a4cfe639", null ],
+    [ "x", "de/dd6/a07151.html#ab557bbe497fc769b390cf0799b6aaed9", null ],
+    [ "y", "de/dd6/a07151.html#a44a8f3fd8d3cac7cfe61471d8b785ad4", null ],
+    [ "z", "de/dd6/a07151.html#adebb903a00687e17d9088f5da2c97f4a", null ]
 ];

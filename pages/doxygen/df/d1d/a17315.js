@@ -1,8 +1,6 @@
 var a17315 =
 [
-    [ "CheckProc", "df/d1d/a17315.html#a11620e4d645b3bfd35924700b5dad289", null ],
-    [ "HandleProc", "df/d1d/a17315.html#aa80a032f2ec80aba36f6fe0208412587", null ],
-    [ "PrepareAuraScript", "df/d1d/a17315.html#afe04f0cb6539238412253b63dd3c82b9", null ],
-    [ "Register", "df/d1d/a17315.html#ac18d1d1a1d19b0dfa5cb1565377ba273", null ],
-    [ "Validate", "df/d1d/a17315.html#ac42fe3248fadf0ecca95893e06c490ee", null ]
+    [ "HandleScript", "df/d1d/a17315.html#acd11d50f398857dc2a24bd2d63e52222", null ],
+    [ "PrepareSpellScript", "df/d1d/a17315.html#a3d218b009c195b6e0fab5152a95da8ad", null ],
+    [ "Register", "df/d1d/a17315.html#ad7f12515dc21ab6b19148370fd491629", null ]
 ];

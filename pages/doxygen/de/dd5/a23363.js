@@ -1,7 +1,8 @@
 var a23363 =
 [
-    [ "HandleScript", "de/dd5/a23363.html#a7c1b4d0c8d2ad153cef62ce05fef814c", null ],
-    [ "PrepareSpellScript", "de/dd5/a23363.html#ab826f4f249679ffe87f9e6ccf6b9ecf0", null ],
-    [ "Register", "de/dd5/a23363.html#a82da72fd4eed6773c1f3a4288caa8963", null ],
-    [ "Validate", "de/dd5/a23363.html#a46aca18049e02d50f57579b3fdc705bd", null ]
+    [ "npc_underbat", "de/dd5/a23363.html#a710a010d3425b7171ee45d8465fd6b2b", null ],
+    [ "JustEngagedWith", "de/dd5/a23363.html#ae137b6b763b3df6096c3bfd4dd7ee676", null ],
+    [ "Reset", "de/dd5/a23363.html#aae771ad526e8f72a90fe70ebbd91b472", null ],
+    [ "UpdateAI", "de/dd5/a23363.html#ab3a9b97543aee3fdf22c17e94f768c0e", null ],
+    [ "_scheduler", "de/dd5/a23363.html#a7644a73c2a5bcbbe0a3db5c782169752", null ]
 ];

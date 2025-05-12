@@ -1,13 +1,6 @@
 var a00893 =
 [
-    [ "instance_karazhan", "de/de1/a12680.html", "de/de1/a12680" ],
-    [ "instance_karazhan::instance_karazhan_InstanceMapScript", "d5/dc8/a12684.html", "d5/dc8/a12684" ],
-    [ "spell_karazhan_brittle_bones_aura", "d4/d31/a12688.html", "d4/d31/a12688" ],
-    [ "spell_karazhan_overload_aura", "d8/df7/a12692.html", "d8/df7/a12692" ],
-    [ "spell_karazhan_blink", "d6/de5/a12696.html", "d6/de5/a12696" ],
-    [ "AddSC_instance_karazhan", "dc/d2c/a00893.html#adc62e82adedf1c9e8d47332aaa7a4cf5", null ],
-    [ "creatureData", "dc/d2c/a00893.html#a412286b689bd324fedd65ddd8dde8afb", null ],
-    [ "doorData", "dc/d2c/a00893.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
-    [ "gameObjectData", "dc/d2c/a00893.html#a1461582839e3b7fdbb7397e5d2086e31", null ],
-    [ "OptionalSpawn", "dc/d2c/a00893.html#a9dacd53568280ba4bb7d0a7c7f65f6cf", null ]
+    [ "instance_razorfen_kraul", "d8/dae/a14839.html", "d8/dae/a14839" ],
+    [ "instance_razorfen_kraul::instance_razorfen_kraul_InstanceMapScript", "da/db0/a14843.html", "da/db0/a14843" ],
+    [ "AddSC_instance_razorfen_kraul", "dc/d2c/a00893.html#a27080d618fc76ad4f3d6b9e8ad4cc3c0", null ]
 ];

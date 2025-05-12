@@ -1,6 +1,6 @@
 var a15415 =
 [
-    [ "npc_braug_dimspirit", "dc/d42/a15415.html#ade08e9ad549d80c2f7918dbfcfbf41dc", null ],
-    [ "OnGossipHello", "dc/d42/a15415.html#aeaed026edf5a1fa82c941f667c05815b", null ],
-    [ "OnGossipSelect", "dc/d42/a15415.html#a87ea1ba3e247c9b14c1f6c72b3addea0", null ]
+    [ "npc_giant_spotlightAI", "de/ddd/a15419.html", "de/ddd/a15419" ],
+    [ "npc_giant_spotlight", "dc/d42/a15415.html#a9d1c47de758c74a89c751b675d5cc4c0", null ],
+    [ "GetAI", "dc/d42/a15415.html#af002a3d0194c991c1f78c720de63cfea", null ]
 ];

@@ -1,6 +1,6 @@
 var a15331 =
 [
-    [ "npc_omenAI", "d9/d63/a15335.html", "d9/d63/a15335" ],
-    [ "npc_omen", "df/d23/a15331.html#aff955303a8b9741838779a59dd496f62", null ],
-    [ "GetAI", "df/d23/a15331.html#a8023ad3298000d9819c46f46a93166d4", null ]
+    [ "npc_tiger_matriarch_creditAI", "df/d23/a15331.html#a628772971a9c2a190ffe2fae6b0b6865", null ],
+    [ "UpdateAI", "df/d23/a15331.html#a0fc7ca1313a21c5f74539ce2dbd7465d", null ],
+    [ "events", "df/d23/a15331.html#ae96e0de4a36dde3237520e8a0ddd9f5f", null ]
 ];

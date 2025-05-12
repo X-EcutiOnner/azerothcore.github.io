@@ -1,5 +1,8 @@
 var a13823 =
 [
-    [ "at_zulgurub_edge_of_madness_speech", "d0/d17/a13823.html#a7d4007716e3ed634ac7e3d3dba26e6f7", null ],
-    [ "_OnTrigger", "d0/d17/a13823.html#a725de49be12116f2f7e77edd31a096ae", null ]
+    [ "HandleScriptEffect", "d0/d17/a13823.html#af7f22d3b7ba136ec2af88656b9805168", null ],
+    [ "PrepareSpellScript", "d0/d17/a13823.html#aa7b7a3d099b95c9adeb3d9e2198ed8d3", null ],
+    [ "Register", "d0/d17/a13823.html#a6a6d95c6d33bc8d90a2022e1ce23c635", null ],
+    [ "Validate", "d0/d17/a13823.html#a94a5697e9d8a068fe6ae34b8aaf974fd", null ],
+    [ "spells", "d0/d17/a13823.html#a902fc17746af82a4c58fe599c9616ce2", null ]
 ];

@@ -1,10 +1,7 @@
 var a02996 =
 [
-    [ "SavedAddonsList", "d3/d8b/a02996.html#afa468163a23ed58507a89e5724c06eac", null ],
-    [ "GetAddonInfo", "d3/d8b/a02996.html#a65cb6a88902972060e44c57d7d9ec738", null ],
-    [ "GetBannedAddons", "d3/d8b/a02996.html#ad7d0938e7463238a86e8c811e1a58800", null ],
-    [ "LoadFromDB", "d3/d8b/a02996.html#aaa12f5b754e6b664dbfb2428478bee03", null ],
-    [ "SaveAddon", "d3/d8b/a02996.html#a85021021149b7eb4d78cbe81e43d3d45", null ],
-    [ "m_bannedAddons", "d3/d8b/a02996.html#a83195dfb437a3f713fa0ccd6c24477ed", null ],
-    [ "m_knownAddons", "d3/d8b/a02996.html#a6cd3e278f71724491a7a3b8167eab60e", null ]
+    [ "GetExplicitDiscoverySpell", "d3/d8b/a02996.html#a7cdb9e342efe04c1ba8caf202b7b0d96", null ],
+    [ "GetSkillDiscoverySpell", "d3/d8b/a02996.html#ab50472e4f1f892eb77ce660ef00d808a", null ],
+    [ "HasDiscoveredAllSpells", "d3/d8b/a02996.html#abdf3c2fcf65212466dfb54053e35024c", null ],
+    [ "LoadSkillDiscoveryTable", "d3/d8b/a02996.html#addd95f0a239a27ed32cd943aa1052019", null ]
 ];

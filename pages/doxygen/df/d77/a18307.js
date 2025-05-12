@@ -1,7 +1,6 @@
 var a18307 =
 [
-    [ "AuraRemoveEvent", "df/d77/a18307.html#a094b9437c7cadb465738daf5684c9725", null ],
-    [ "Execute", "df/d77/a18307.html#a14ac906a0fcff86f61983c570b0bd6ad", null ],
-    [ "_spellId", "df/d77/a18307.html#a6fad41839e07e9545859be7c3afcfc36", null ],
-    [ "_trigger", "df/d77/a18307.html#aad8c27befc102dae6823d5d74fed50b4", null ]
+    [ "HandleScript", "df/d77/a18307.html#a910663e3fb2534c0e3aefcfd0adfe2fb", null ],
+    [ "PrepareSpellScript", "df/d77/a18307.html#a2c6acef52962f606130d643cbd93104b", null ],
+    [ "Register", "df/d77/a18307.html#a03ed4f257c313ba33361c16f313fdfcc", null ]
 ];

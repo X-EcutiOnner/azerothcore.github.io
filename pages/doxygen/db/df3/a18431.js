@@ -1,5 +1,6 @@
 var a18431 =
 [
-    [ "achievement_portal_jockey", "db/df3/a18431.html#a6c6c4779072386ab7b64bad92762e2ac", null ],
-    [ "OnCheck", "db/df3/a18431.html#a2695b1fee353be7340f319c632a43efc", null ]
+    [ "npc_gluttonous_abominationAI", "d6/d23/a18435.html", "d6/d23/a18435" ],
+    [ "npc_gluttonous_abomination", "db/df3/a18431.html#a895d1afcfc62bcaac6cc0d20465f1e7a", null ],
+    [ "GetAI", "db/df3/a18431.html#aedbd808da5e8ea0e2111e78be9d846ce", null ]
 ];

@@ -1,6 +1,6 @@
 var a21807 =
 [
-    [ "npc_spiritual_insightAI", "db/d53/a21807.html#ab173cd8b623fcf8c36406155c91bc4db", null ],
-    [ "GetSpeachId", "db/d53/a21807.html#ad2dd22651470f47e7a7ba6f687ba54e9", null ],
-    [ "IsSummonedBy", "db/d53/a21807.html#ab6b39190d1195915ea0b4b191d864da6", null ]
+    [ "npc_mrfloppyAI", "db/dd4/a21811.html", "db/dd4/a21811" ],
+    [ "npc_mrfloppy", "db/d53/a21807.html#a0515ca75aba9b7f6f5577b53e7520f6e", null ],
+    [ "GetAI", "db/d53/a21807.html#a88590566309f3fc155eb6dc26055a161", null ]
 ];

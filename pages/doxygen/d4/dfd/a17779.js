@@ -1,7 +1,7 @@
 var a17779 =
 [
-    [ "CheckRequirement", "d4/dfd/a17779.html#a1568599758bdc757ae448ab5a77c1cc7", null ],
-    [ "CheckRequirementInternal", "d4/dfd/a17779.html#ac2559b4a925fc0960a902fa2b306dc54", null ],
-    [ "PrepareSpellScript", "d4/dfd/a17779.html#a0d6745dab09cdd228fc802e482c3d15c", null ],
-    [ "Register", "d4/dfd/a17779.html#a95a250aeb3a41922c529f476d39f18e4", null ]
+    [ "HandleTriggerSpell", "d4/dfd/a17779.html#a7d7f1731c453e5d0b70e6093aeedea87", null ],
+    [ "PrepareAuraScript", "d4/dfd/a17779.html#afff0c81696ddcb427ce105d510ef93b1", null ],
+    [ "Register", "d4/dfd/a17779.html#aa50c6066115d7b60704eff48e77d10bd", null ],
+    [ "Validate", "d4/dfd/a17779.html#a6ef56d3d18bab2f81c810160ecf3ae96", null ]
 ];

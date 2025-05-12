@@ -1,6 +1,7 @@
 var a13211 =
 [
-    [ "instance_the_stockade_InstanceMapScript", "da/dad/a13215.html", "da/dad/a13215" ],
-    [ "instance_the_stockade", "d5/d1e/a13211.html#a533049c10a72da4b94f9807017f28c0d", null ],
-    [ "GetInstanceScript", "d5/d1e/a13211.html#a7a5a4adcd71ae5d22e6729a2d11d68d3", null ]
+    [ "HandleScriptEffect", "d5/d1e/a13211.html#a5ee63545a338e00bfcb8dcc2f3f67db3", null ],
+    [ "PrepareSpellScript", "d5/d1e/a13211.html#af9deee89e837e07486a7555632008eb2", null ],
+    [ "Register", "d5/d1e/a13211.html#aa4a7c699389a6e467b298cb4f9d3ed07", null ],
+    [ "Validate", "d5/d1e/a13211.html#a043d135ea2c37f6e4352aa2fba2bb21c", null ]
 ];

@@ -1,6 +1,7 @@
 var a13343 =
 [
-    [ "npc_bh_thalorien_dawnseekerAI", "de/d20/a13347.html", "de/d20/a13347" ],
-    [ "npc_bh_thalorien_dawnseeker", "d2/d6d/a13343.html#a1fbee838cbbf1ada476f3dd7a82fc6e6", null ],
-    [ "GetAI", "d2/d6d/a13343.html#ac5d551d5d4d05ee1006d074908599a3a", null ]
+    [ "OnPeriodic", "d2/d6d/a13343.html#a25e7a59384f262a36c74696a1befa01d", null ],
+    [ "PrepareAuraScript", "d2/d6d/a13343.html#a9b82fde3e38054b686f9b2a110cfaa1e", null ],
+    [ "Register", "d2/d6d/a13343.html#a65e469ba04d8cd2aa23d934bf2915721", null ],
+    [ "Validate", "d2/d6d/a13343.html#a6843deda5be8b684c06a86920714f255", null ]
 ];

@@ -1,6 +1,6 @@
 var a21507 =
 [
-    [ "npc_imprisoned_beryl_sorcererAI", "df/d08/a21511.html", "df/d08/a21511" ],
-    [ "npc_imprisoned_beryl_sorcerer", "d4/d14/a21507.html#a6317eb89406cf6b99f63ecfa7f9999d1", null ],
-    [ "GetAI", "d4/d14/a21507.html#aedb301f6da8460f3ed1d81d4b5f2f63c", null ]
+    [ "npc_hidden_cultistAI", "df/d08/a21511.html", "df/d08/a21511" ],
+    [ "npc_hidden_cultist", "d4/d14/a21507.html#ab455b35fea966360e01fb8975adad989", null ],
+    [ "GetAI", "d4/d14/a21507.html#a4897006d9416f1177b0bc0e41df60293", null ]
 ];

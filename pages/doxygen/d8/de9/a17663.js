@@ -1,10 +1,12 @@
 var a17663 =
 [
-    [ "npc_bone_spikeAI", "d8/de9/a17663.html#a1b54aaa7b5ed142561fbc02e9593e87c", null ],
-    [ "DoAction", "d8/de9/a17663.html#a38b2944fb4e9d7fcc7205423faa8a994", null ],
-    [ "IsSummonedBy", "d8/de9/a17663.html#af2794484ee3ebf0579ce7357d222240d", null ],
-    [ "JustDied", "d8/de9/a17663.html#ae9c8fa649ba9fac74187913d29be9dd6", null ],
-    [ "UpdateAI", "d8/de9/a17663.html#a8eff2bcc6507c65e563ed272977f224e", null ],
-    [ "events", "d8/de9/a17663.html#a6a35900435d41d0603919f29415667a5", null ],
-    [ "hasTrappedUnit", "d8/de9/a17663.html#aeb7236ef0d313fd3799458f3d50276f7", null ]
+    [ "npc_vengeful_shadeAI", "d8/de9/a17663.html#acd3961c7c81f88a341cb71888c55c882", null ],
+    [ "AttackStart", "d8/de9/a17663.html#afbd441c5ebf2207d37da1a905be1a247", null ],
+    [ "EnterEvadeMode", "d8/de9/a17663.html#a37bffb02c4ebf6acab8c3474581056a6", null ],
+    [ "MoveInLineOfSight", "d8/de9/a17663.html#a1e8e28e76f27edc5e07574e6050d7e5f", null ],
+    [ "Reset", "d8/de9/a17663.html#acf85448a221a37be819b7ab82f4f9fdc", null ],
+    [ "SpellHitTarget", "d8/de9/a17663.html#af9b40af943ee8a7c9bd8866f116871fc", null ],
+    [ "UpdateAI", "d8/de9/a17663.html#a3a353d677b469d750474a7497c5224a7", null ],
+    [ "targetGUID", "d8/de9/a17663.html#a75c3f61506fe42e41b10a2e67f5b091d", null ],
+    [ "unroot_timer", "d8/de9/a17663.html#a49ea66a0fb6e3c09730d92308bd1cac7", null ]
 ];

@@ -1,13 +1,14 @@
 var a13399 =
 [
-    [ "npc_ravenclaw_apparitionAI", "d7/dec/a13399.html#a2a8a6cdb3d74e55cc3d6786ebcfb5328", null ],
-    [ "EmoteCrowd", "d7/dec/a13399.html#a7a407c9b00bb24c4c3d057ec2a4b0fdc", null ],
-    [ "JustDied", "d7/dec/a13399.html#a88f9d4e72273f8f835e809b27d5b52d8", null ],
-    [ "JustSummoned", "d7/dec/a13399.html#a1ab2f2a6b0514d192a7962cf8315ee16", null ],
-    [ "SummonCrowd", "d7/dec/a13399.html#af3f6ea6094b82e06ce7ef2d4432bd88a", null ],
-    [ "UpdateAI", "d7/dec/a13399.html#ab3c6c27a31f12443efcad314cbfa1129", null ],
-    [ "events", "d7/dec/a13399.html#a27522107b5e1f54909294f800f26663f", null ],
-    [ "HasEnded", "d7/dec/a13399.html#a1b7a57b7204f51304ef05ee3d2265774", null ],
-    [ "summons", "d7/dec/a13399.html#a85cde0a9d4903c89b29f68318730ab7f", null ],
-    [ "TalkRNG", "d7/dec/a13399.html#a4b41f348e6756298d6a13b09fbf13fd0", null ]
+    [ "instance_uldaman_InstanceMapScript", "d7/dec/a13399.html#ab2607f229d1e34852c82139ddb597712", null ],
+    [ "GetData", "d7/dec/a13399.html#adef5f6d2dcaa50dbb615c4c134e7ecfb", null ],
+    [ "Initialize", "d7/dec/a13399.html#a2424bcb1aec0ffc6235a8e8b384f0ed1", null ],
+    [ "OnCreatureCreate", "d7/dec/a13399.html#a49b5562743910dc1b6b55efa8c44b6a0", null ],
+    [ "OnGameObjectCreate", "d7/dec/a13399.html#aacb9db5f66f1f9be0d993aacc3cf4348", null ],
+    [ "ReadSaveDataMore", "d7/dec/a13399.html#a8e0e03189463039dd31d883ad9c40e51", null ],
+    [ "SetData", "d7/dec/a13399.html#ab24fc2db74ef83f2b3be9603d4728385", null ],
+    [ "WriteSaveDataMore", "d7/dec/a13399.html#a3345c117f5e2ceca773843c3f51cb76f", null ],
+    [ "_encounters", "d7/dec/a13399.html#a6840bd04d25fd1f365e0c28c725cde97", null ],
+    [ "ancientVaultDoorGUID", "d7/dec/a13399.html#adf83ba0b0a1650462dbc3bc56182bed9", null ],
+    [ "archaedasTempleDoorGUID", "d7/dec/a13399.html#a6bad33c43ceaa23990544e4a8feefb34", null ]
 ];

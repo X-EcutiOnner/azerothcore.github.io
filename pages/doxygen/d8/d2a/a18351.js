@@ -1,7 +1,7 @@
 var a18351 =
 [
-    [ "npc_valithria_portalAI", "d8/d2a/a18351.html#a18c1b9d2b149fbc34a17c9e87a8c70b6", null ],
-    [ "GetData", "d8/d2a/a18351.html#a598ba7930900aa211bb7e7dc12f366c0", null ],
-    [ "OnSpellClick", "d8/d2a/a18351.html#a457f2725e6580d7e6f3bb0445ba796a8", null ],
-    [ "_used", "d8/d2a/a18351.html#a92cc0c2aaa6add0c6c641719d6846bb3", null ]
+    [ "AuraRemoveEvent", "d8/d2a/a18351.html#a094b9437c7cadb465738daf5684c9725", null ],
+    [ "Execute", "d8/d2a/a18351.html#a14ac906a0fcff86f61983c570b0bd6ad", null ],
+    [ "_spellId", "d8/d2a/a18351.html#a6fad41839e07e9545859be7c3afcfc36", null ],
+    [ "_trigger", "d8/d2a/a18351.html#aad8c27befc102dae6823d5d74fed50b4", null ]
 ];

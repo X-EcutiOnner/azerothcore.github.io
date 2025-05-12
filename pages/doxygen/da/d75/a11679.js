@@ -1,8 +1,8 @@
 var a11679 =
 [
-    [ "boss_drakkisathAI", "da/d75/a11679.html#a7c347bcdb092afcd64b481b87d0895ea", null ],
-    [ "JustEngagedWith", "da/d75/a11679.html#a09f7c704579bdb8dad951ce63b5a54c9", null ],
-    [ "UpdateAI", "da/d75/a11679.html#a02ffab01744c0dbb8b5a60794e82bdb0", null ],
-    [ "_conflagrateTarget", "da/d75/a11679.html#a6a74b74e4e4b45aec86f70a5211ddd28", null ],
-    [ "_conflagrateThreat", "da/d75/a11679.html#aae3762b27c3d99b32f47293c544e4afe", null ]
+    [ "pet_commandscript", "da/d75/a11679.html#a84595dcb908398e80deee0b0aa47e335", null ],
+    [ "GetCommands", "da/d75/a11679.html#a01026a4936774d2225d10e0f6e27b08c", null ],
+    [ "HandlePetCreateCommand", "da/d75/a11679.html#a993d06169aa0b0c4bbda38e124b6eea9", null ],
+    [ "HandlePetLearnCommand", "da/d75/a11679.html#a59a2a6bd9af23fe3a775319216337bda", null ],
+    [ "HandlePetUnlearnCommand", "da/d75/a11679.html#ae6d785cdde773b107ba5e619b039f7b8", null ]
 ];

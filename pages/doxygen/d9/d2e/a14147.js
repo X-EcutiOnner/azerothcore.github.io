@@ -1,6 +1,6 @@
 var a14147 =
 [
-    [ "npc_grizzlemaw_cw_triggerAI", "d6/d98/a14151.html", "d6/d98/a14151" ],
-    [ "npc_grizzlemaw_cw_trigger", "d9/d2e/a14147.html#a4514796784d974ba6de09b5a5d4e5f3b", null ],
-    [ "GetAI", "d9/d2e/a14147.html#a1a834bda866033a3cca4fc4ece447313", null ]
+    [ "go_direbrew_mole_machineAI", "d6/d98/a14151.html", "d6/d98/a14151" ],
+    [ "go_direbrew_mole_machine", "d9/d2e/a14147.html#a759d291a5be227d8beae3bbc779e56f4", null ],
+    [ "GetAI", "d9/d2e/a14147.html#a793e5e544664d6c2c3897161c9cccbbb", null ]
 ];

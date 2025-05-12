@@ -1,18 +1,18 @@
 var a12279 =
 [
-    [ "boss_moroes", "d6/d91/a12279.html#ae477dcfd679dd7943ddd133bb0dd89df", null ],
-    [ "CheckGuestsInRoom", "d6/d91/a12279.html#ad34daa424532003e8da616aed3df6c82", null ],
-    [ "GetRandomGuest", "d6/d91/a12279.html#a73f4b3c1a3a46261cf62143f8359b55e", null ],
-    [ "InitializeAI", "d6/d91/a12279.html#a1bba38840a7e6f09720ce33c51802a77", null ],
-    [ "InitializeGuests", "d6/d91/a12279.html#a815ca169e0787c92c09a5803007355aa", null ],
-    [ "JustDied", "d6/d91/a12279.html#a7d425d58b1e64ef174ff92e1263de544", null ],
-    [ "JustEngagedWith", "d6/d91/a12279.html#aa0bf31d8298b4ec6ce205cefd0766194", null ],
-    [ "JustReachedHome", "d6/d91/a12279.html#ad67598edc4034dd87ba5260d5f19fd3d", null ],
-    [ "KilledUnit", "d6/d91/a12279.html#a3d28056a0d26d426d84363fb0c4f7e4d", null ],
-    [ "Reset", "d6/d91/a12279.html#a677f2b8375981d904183dd804f4b32b8", null ],
-    [ "UpdateAI", "d6/d91/a12279.html#aa639032a49b3e9bd4209d17e0863db32", null ],
-    [ "_activeGuests", "d6/d91/a12279.html#a651f53f476f205785d596ed9d52fdb89", null ],
-    [ "_events2", "d6/d91/a12279.html#ae1c0474e0a940a803d82d3fe6d3ff37f", null ],
-    [ "_recentlySpoken", "d6/d91/a12279.html#a6408ec64b2777dbcd322cb64af3f8c17", null ],
-    [ "_vanished", "d6/d91/a12279.html#a60d99b80815a2b2626638d6410ce64a2", null ]
+    [ "boss_vaelAI", "d6/d91/a12279.html#acc7eceafe9cc5a5cb5e7045d143d5ca6", null ],
+    [ "BeginSpeech", "d6/d91/a12279.html#a448dcc64099fff57b4c18841f8715dbe", null ],
+    [ "Initialize", "d6/d91/a12279.html#a4364710f3634b6caeea3b739efe7dc56", null ],
+    [ "JustEngagedWith", "d6/d91/a12279.html#a860aa0077f235f652bd6f9a247a40e30", null ],
+    [ "JustSummoned", "d6/d91/a12279.html#a6eb3e6649d0a476fc9b2c12107cea43b", null ],
+    [ "KilledUnit", "d6/d91/a12279.html#a15e4df870d3c5263ab534cd1d2bb8a75", null ],
+    [ "Reset", "d6/d91/a12279.html#a8aab1f11a688d05289bae6acf216cf1c", null ],
+    [ "sGossipSelect", "d6/d91/a12279.html#abd3c8c7ab8d7af10ae297443ac24bd9c", null ],
+    [ "UpdateAI", "d6/d91/a12279.html#a570948cbf0c2ddde65ca77092c4b37a3", null ],
+    [ "_burningAdrenalineCast", "d6/d91/a12279.html#ab1048eb2da3e93f5cb67a8f23d35be2e", null ],
+    [ "_eventsIntro", "d6/d91/a12279.html#aed37566236cb2872b3a85de9f994f0cb", null ],
+    [ "_introDone", "d6/d91/a12279.html#aab29cb166d390a56a1d3b94dd07f1c63", null ],
+    [ "HasYelled", "d6/d91/a12279.html#a4eace0c62b5ad50f7c1a525485da08fb", null ],
+    [ "m_nefariusGuid", "d6/d91/a12279.html#a9402e7435904dffb8a494dc60d6d02e9", null ],
+    [ "PlayerGUID", "d6/d91/a12279.html#a1a86b7b15e0a435284afab6ac724968c", null ]
 ];

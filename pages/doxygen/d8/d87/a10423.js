@@ -1,7 +1,7 @@
 var a10423 =
 [
-    [ "GuildBankLogQueryResults", "d8/d87/a10423.html#a878f9545b3141a327de85771de4f1779", null ],
-    [ "Write", "d8/d87/a10423.html#aafdb5114c7d0e8a2d18a848f3c94aa38", null ],
-    [ "Entry", "d8/d87/a10423.html#a5f3704df5311f06833c3243201d35930", null ],
-    [ "Tab", "d8/d87/a10423.html#a214db612bb08e557dd41d3962c827dca", null ]
+    [ "AutoStoreBankItem", "d8/d87/a10423.html#a1cdb7e9c7da7e646af14ac4ac3b7e950", null ],
+    [ "Read", "d8/d87/a10423.html#a2a482b716f537866a815085ead9cfd38", null ],
+    [ "Bag", "d8/d87/a10423.html#a08d2992816ee94b6757c2811b54ed437", null ],
+    [ "Slot", "d8/d87/a10423.html#aaf2cd8c1c3d67301cc40af78f138daa0", null ]
 ];

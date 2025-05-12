@@ -1,9 +1,8 @@
 var a06035 =
 [
-    [ "PowerUsersSelector", "d1/de4/a06035.html#abf9f85ea67a834024df56e622700f62d", null ],
-    [ "operator()", "d1/de4/a06035.html#ac93e678f198787fd6691e0bb8d63d6e3", null ],
-    [ "_dist", "d1/de4/a06035.html#a1c63646bffb486c51ca07e0f8a70dd59", null ],
-    [ "_me", "d1/de4/a06035.html#a7f6dda10c26982d9633fae57b64af7ef", null ],
-    [ "_playerOnly", "d1/de4/a06035.html#aea809984a6dd46c22f414e44c9794309", null ],
-    [ "_power", "d1/de4/a06035.html#a9a518903606768e505e7230fe9344bbf", null ]
+    [ "BannedAddon", "d1/de4/a06035.html#aadd8cb8602ec03455a91b4f49767fdc8", null ],
+    [ "Id", "d1/de4/a06035.html#aa7d9dbd83fd1ef10fb125c798e293606", null ],
+    [ "NameMD5", "d1/de4/a06035.html#a67c4437044d747ff9867a71967697767", null ],
+    [ "Timestamp", "d1/de4/a06035.html#af62257c39a4ae1eba959086e981b0d19", null ],
+    [ "VersionMD5", "d1/de4/a06035.html#acb8dbe824f71363eb81504f43a126d96", null ]
 ];

@@ -1,6 +1,5 @@
 var a27007 =
 [
-    [ "npc_dream_fogAI", "d2/d22/a27011.html", "d2/d22/a27011" ],
-    [ "npc_dream_fog", "d9/d0b/a27007.html#ae50306be88f15c9dfc4d0f12c63c68e6", null ],
-    [ "GetAI", "d9/d0b/a27007.html#a48c45fec086e3a50462deed44734ba38", null ]
+    [ "AreaTrigger_at_last_rites", "d9/d0b/a27007.html#a30d1930c76920ab12cf4f9b04fd5f0e4", null ],
+    [ "OnTrigger", "d9/d0b/a27007.html#a48f6e2041cda24812a165fa0fb62f1b6", null ]
 ];

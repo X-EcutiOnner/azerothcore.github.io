@@ -1,6 +1,6 @@
 var a20895 =
 [
-    [ "achievement_yogg_saron_darkness", "dd/d21/a20895.html#a536c7156305d47c41a062d3c1a1b16eb", null ],
-    [ "OnCheck", "dd/d21/a20895.html#a809902fca87abaeb4334132763624ed6", null ],
-    [ "_keepersCount", "dd/d21/a20895.html#a765ec4606bb489760ed1e15db10de1dc", null ]
+    [ "HandleScript", "dd/d21/a20895.html#ac7fc87a7585c866aa3fa1001c803bb00", null ],
+    [ "PrepareSpellScript", "dd/d21/a20895.html#ab2a4155f6029850c61e84d7c180addae", null ],
+    [ "Register", "dd/d21/a20895.html#a7e03062d9e28ed1917b7aa63d65f22ba", null ]
 ];

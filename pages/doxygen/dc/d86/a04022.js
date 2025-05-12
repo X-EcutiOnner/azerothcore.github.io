@@ -1,6 +1,6 @@
 var a04022 =
 [
-    [ "Movement::FacingInfo", "d6/dca/a10040.html", "d6/dca/a10040" ],
-    [ "Movement::MoveSplineInitArgs", "da/daa/a10048.html", "da/daa/a10048" ],
-    [ "PointsArray", "dc/d86/a04022.html#a86528b2e04ddf38b80888e45d6b9c37d", null ]
+    [ "CharacterDatabase", "dc/d86/a04022.html#a7e7534bc66d79434bd280b77cb124eec", null ],
+    [ "LoginDatabase", "dc/d86/a04022.html#a2cf25eafe7f2f73b61ccde11d55daf0c", null ],
+    [ "WorldDatabase", "dc/d86/a04022.html#afa9a6509f9913c9c7dd3081523badd7c", null ]
 ];

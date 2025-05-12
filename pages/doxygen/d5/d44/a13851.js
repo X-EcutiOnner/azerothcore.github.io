@@ -1,7 +1,6 @@
 var a13851 =
 [
-    [ "HandleScriptEffect", "d5/d44/a13851.html#ace68732d578fbaeb2b209bfded88853a", null ],
-    [ "PrepareSpellScript", "d5/d44/a13851.html#a42a69995e8f527a383e96e2ead832f72", null ],
-    [ "Register", "d5/d44/a13851.html#abb26c89a617bc27f8c2a1cfbb0935234", null ],
-    [ "Validate", "d5/d44/a13851.html#a7697caf8e5390d290b353fb6a291aa10", null ]
+    [ "boss_gahzranka", "d5/d44/a13851.html#a82cc1a44a967f859039957e41f38dd77", null ],
+    [ "IsSummonedBy", "d5/d44/a13851.html#ad68be854f95c398dc5dd9e5b22f538a8", null ],
+    [ "JustEngagedWith", "d5/d44/a13851.html#ac1cc43194c00fda1729f8a068d4e8779", null ]
 ];

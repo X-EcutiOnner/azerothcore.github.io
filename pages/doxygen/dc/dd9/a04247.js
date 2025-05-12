@@ -1,4 +1,5 @@
 var a04247 =
 [
-    [ "ScriptRegistry< BattlegroundMapScript >", "dc/dd9/a04247.html#a79e6d39d74f9bbf97afe75113cd4db80", null ]
+    [ "Acore::IteratorPair< iterator >", "db/d24/a05459.html", "db/d24/a05459" ],
+    [ "MapEqualRange", "dc/dd9/a04247.html#a8700eb31c04be5cf6c6ecc86e76cadad", null ]
 ];

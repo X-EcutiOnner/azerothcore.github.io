@@ -1,6 +1,6 @@
 var a15995 =
 [
-    [ "OnSummon", "df/d91/a15995.html#ae2766d12fb686356b46126848f356c5a", null ],
-    [ "PrepareSpellScript", "df/d91/a15995.html#a6b9af3b70d2ce07fe8aee5292367a982", null ],
-    [ "Register", "df/d91/a15995.html#a717394bfbea621ae637f9e87efddda62", null ]
+    [ "npc_halion_controllerAI", "d3/dee/a15999.html", "d3/dee/a15999" ],
+    [ "npc_halion_controller", "df/d91/a15995.html#ac88ff15ce4d89d737eb6dd6b649e1218", null ],
+    [ "GetAI", "df/d91/a15995.html#a3c5ea3f0597c070005744ea788a05383", null ]
 ];

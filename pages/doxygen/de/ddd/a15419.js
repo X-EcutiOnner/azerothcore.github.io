@@ -1,7 +1,7 @@
 var a15419 =
 [
-    [ "npc_kaya_flathoofAI", "d5/d8f/a15423.html", "d5/d8f/a15423" ],
-    [ "npc_kaya_flathoof", "de/ddd/a15419.html#a588f88b1c00927a4ad6b7cd25fc1b065", null ],
-    [ "GetAI", "de/ddd/a15419.html#ad7cce0c1a30abe5bc0bffa777c40c79a", null ],
-    [ "OnQuestAccept", "de/ddd/a15419.html#acdb20ecb1ffee4417c9b39f3aebb0591", null ]
+    [ "npc_giant_spotlightAI", "de/ddd/a15419.html#ae0f6686aaeacafce193e0d4590cf8c09", null ],
+    [ "Reset", "de/ddd/a15419.html#a79f6703107eed52a3aeae30393507c0f", null ],
+    [ "UpdateAI", "de/ddd/a15419.html#a8567f936dd15933300497d5abe80a272", null ],
+    [ "events", "de/ddd/a15419.html#a20d1087e59daae9189d78f04ea2b2d05", null ]
 ];

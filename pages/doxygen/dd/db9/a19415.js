@@ -1,6 +1,6 @@
 var a19415 =
 [
-    [ "CalculateDamage", "dd/db9/a19415.html#a857e907dcf40f0e630b8c05c5e549672", null ],
-    [ "PrepareSpellScript", "dd/db9/a19415.html#aaa6c420d13dc3c88e9c1e5a053c932aa", null ],
-    [ "Register", "dd/db9/a19415.html#ae142275e06fe6381304137f637e641ca", null ]
+    [ "npc_spark_of_ionarAI", "d8/d51/a19419.html", "d8/d51/a19419" ],
+    [ "npc_spark_of_ionar", "dd/db9/a19415.html#a63578a0d77331849b7a48272870af04d", null ],
+    [ "GetAI", "dd/db9/a19415.html#aa1e524327b76ddc11a32e7a094e39dd1", null ]
 ];

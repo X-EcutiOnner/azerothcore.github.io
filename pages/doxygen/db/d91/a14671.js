@@ -1,6 +1,7 @@
 var a14671 =
 [
-    [ "NpcRunToHome", "db/d91/a14671.html#ac190e89b494554e391e6ebd878d7f8e8", null ],
-    [ "Execute", "db/d91/a14671.html#a0da766e3bae0d8d97a46ef82b3873cc0", null ],
-    [ "_owner", "db/d91/a14671.html#a7dd38171a6e55665fc28a74212313e51", null ]
+    [ "npc_cos_chromie_middle", "db/d91/a14671.html#a1bb7229781c122d362e781d2737d0fd3", null ],
+    [ "OnGossipHello", "db/d91/a14671.html#a105b62bd24fe3912c0f66c234a6dc670", null ],
+    [ "OnGossipSelect", "db/d91/a14671.html#a37ebdd257ef22554c81cf3c062856141", null ],
+    [ "OnQuestAccept", "db/d91/a14671.html#a6af52ce23a90e7d8418e2c414c9c0fd4", null ]
 ];

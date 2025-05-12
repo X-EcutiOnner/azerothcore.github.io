@@ -1,6 +1,8 @@
 var a21375 =
 [
-    [ "npc_azure_binderAI", "d5/d3e/a21379.html", "d5/d3e/a21379" ],
-    [ "npc_azure_binder", "dc/d39/a21375.html#a25b8b19b6ccdae92418c47fe68537c42", null ],
-    [ "GetAI", "dc/d39/a21375.html#aad091206a8bd06a1064b68b81510eb56", null ]
+    [ "npc_azure_captainAI", "dc/d39/a21375.html#a15b1acc73108c6802dbf3ac2ed0734c9", null ],
+    [ "Reset", "dc/d39/a21375.html#a13d25bf1612086cc4bb5bc2078105f18", null ],
+    [ "UpdateAI", "dc/d39/a21375.html#ae50ac21138e12be43caa93e37062051e", null ],
+    [ "uiMortalStrikeTimer", "dc/d39/a21375.html#a791a3ee9b67e72e1dcb392b9ebc2359a", null ],
+    [ "uiWhirlwindTimer", "dc/d39/a21375.html#a2e3439976a6e84a60be765cb0b929798", null ]
 ];

@@ -1,6 +1,8 @@
 var a15051 =
 [
-    [ "aqsentinelAI", "da/d0f/a15055.html", "da/d0f/a15055" ],
-    [ "npc_anubisath_sentinel", "de/d07/a15051.html#ada1ab0d1857fe52020e798d9710a66cb", null ],
-    [ "GetAI", "de/d07/a15051.html#ae19b8ba3766ede8f715dad5ff8d4b2d2", null ]
+    [ "npc_ouro_spawner", "de/d07/a15051.html#acb18739e5a1734312ffdda35321e5f34", null ],
+    [ "JustSummoned", "de/d07/a15051.html#a722dada5bf97c730462a0de2b082d5ff", null ],
+    [ "MoveInLineOfSight", "de/d07/a15051.html#a83c0972db4435ccf1af069574e4056f4", null ],
+    [ "Reset", "de/d07/a15051.html#ac1591f1c172bfdda25b020e00cd0835e", null ],
+    [ "hasSummoned", "de/d07/a15051.html#a6ac376861c1206cc1551d9fa86c0fc97", null ]
 ];

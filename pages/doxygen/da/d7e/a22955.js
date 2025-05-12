@@ -1,9 +1,9 @@
 var a22955 =
 [
-    [ "boss_najentus", "da/d7e/a22955.html#ac5d3d54a49524892fe844925d483c244", null ],
-    [ "JustDied", "da/d7e/a22955.html#afee32dd32033c7a45068ce12e961797c", null ],
-    [ "JustEngagedWith", "da/d7e/a22955.html#a46e3aab64c21b24ac6457acd598679ec", null ],
-    [ "KilledUnit", "da/d7e/a22955.html#ad55e1de3aa7a636b3d30b0d61a17dab9", null ],
-    [ "Reset", "da/d7e/a22955.html#ab7e0bdb8954722c9080146a88a3c5aa2", null ],
-    [ "_canTalk", "da/d7e/a22955.html#a25ac29a79cdcfb4ebc48de13d677f1d4", null ]
+    [ "HandleEffectApply", "da/d7e/a22955.html#aca8ff864832d30e45bccfca12256560a", null ],
+    [ "HandleEffectRemove", "da/d7e/a22955.html#a2e16e86ce6e3231cf3fabc1d5bb1a6e7", null ],
+    [ "Load", "da/d7e/a22955.html#a3b9838f26673ce344ca40f9f487ef878", null ],
+    [ "PrepareAuraScript", "da/d7e/a22955.html#a79b93c86a01d31d08cba15436856b794", null ],
+    [ "Register", "da/d7e/a22955.html#aa6c04279944abd31c42bb5dc4319aaf2", null ],
+    [ "_turtleSet", "da/d7e/a22955.html#a308b9e032576ae058e9f2469dcc8ff23", null ]
 ];

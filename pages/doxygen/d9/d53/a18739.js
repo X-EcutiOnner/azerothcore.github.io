@@ -1,6 +1,5 @@
 var a18739 =
 [
-    [ "icecrown_citadel_teleport", "d9/d53/a18739.html#ab74d5962073dcf3b4488c33aaa935377", null ],
-    [ "OnGossipHello", "d9/d53/a18739.html#a97b0d94a5c7388a5dfce76f3bd3be24f", null ],
-    [ "OnGossipSelect", "d9/d53/a18739.html#a0b160bd86341542ddb1c80f3d4bd691f", null ]
+    [ "npc_icc_buff_switcher", "d9/d53/a18739.html#aeabc3d97c88bf12177b824524af3ae1d", null ],
+    [ "OnGossipSelect", "d9/d53/a18739.html#abb3310d3eb5cf4f1c2a0a3ac46ddd7ba", null ]
 ];

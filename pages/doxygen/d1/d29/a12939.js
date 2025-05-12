@@ -1,6 +1,8 @@
 var a12939 =
 [
-    [ "HandleActivateObject", "d1/d29/a12939.html#afd73a7f5ec26c9ecb0424ee09ce638fe", null ],
-    [ "PrepareSpellScript", "d1/d29/a12939.html#ad55914fdc6771e09a508572d59ad30ed", null ],
-    [ "Register", "d1/d29/a12939.html#a6a0fe507ca7a382122d55e04d3c021d9", null ]
+    [ "DelayedSummonEvent", "d1/d29/a12939.html#a5cfa870b670fff17d2241ecb85b2ba6c", null ],
+    [ "Execute", "d1/d29/a12939.html#a65ba0f1a1dc14e07b7b93a71c92ace6b", null ],
+    [ "_entry", "d1/d29/a12939.html#a24d72110a070eb0bd03af081ef616de4", null ],
+    [ "_owner", "d1/d29/a12939.html#a2a21cc6387b3605ed4f09cad80a6168a", null ],
+    [ "_pos", "d1/d29/a12939.html#aef19987803a1cce47cbd8d9005a288ac", null ]
 ];

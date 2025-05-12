@@ -1,10 +1,9 @@
 var a08575 =
 [
-    [ "MapType", "d4/db4/a08575.html#a8fa5f0aca9316901f42b2df8251c5a5d", null ],
-    [ "HashMapHolder", "d4/db4/a08575.html#ad10240097462af2a8a76c9429bd7cbca", null ],
-    [ "Find", "d4/db4/a08575.html#a314b4ce3265136fe326b909fe6ef6716", null ],
-    [ "GetContainer", "d4/db4/a08575.html#ad9dfe5d223496a379a4aec0fc12c42d9", null ],
-    [ "GetLock", "d4/db4/a08575.html#a52cc052c8d73d5b700c7f9253138942f", null ],
-    [ "Insert", "d4/db4/a08575.html#af5c618228c141e28ffa11468cfffb21a", null ],
-    [ "Remove", "d4/db4/a08575.html#a7b9c3761746641133d4a9837559c0bb0", null ]
+    [ "EntryPointData", "d4/db4/a08575.html#a1852523ba9ca889cdd6731c63de759e2", null ],
+    [ "ClearTaxiPath", "d4/db4/a08575.html#a4aee0d4ef3850fb486987ae6fe78ee91", null ],
+    [ "HasTaxiPath", "d4/db4/a08575.html#afd310b2f367ec7df76f01689ea120e6e", null ],
+    [ "joinPos", "d4/db4/a08575.html#abfdc0ccd945f60e0a3ec37d278c96940", null ],
+    [ "mountSpell", "d4/db4/a08575.html#a06e1cadac24a2ab90e57373692f829dc", null ],
+    [ "taxiPath", "d4/db4/a08575.html#a5af670fa420b250c22e0f3237e753a6f", null ]
 ];

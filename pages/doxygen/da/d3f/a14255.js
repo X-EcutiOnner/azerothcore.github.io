@@ -1,9 +1,9 @@
 var a14255 =
 [
-    [ "npc_love_in_air_snivel", "da/d3f/a14255.html#ab04596fb96292f54cf2a10f662dc94a3", null ],
-    [ "AllowAction", "da/d3f/a14255.html#af1097317f62bbb8f8456124001c73576", null ],
-    [ "MoveInLineOfSight", "da/d3f/a14255.html#ae6537707109b95fad20e521d07867cdd", null ],
-    [ "Reset", "da/d3f/a14255.html#a2385ea44d9f44735b193add4a0d0485b", null ],
-    [ "UpdateAI", "da/d3f/a14255.html#a9e712994663e3442359d2f574ebc812c", null ],
-    [ "delay", "da/d3f/a14255.html#a548db6245ef875ec47279246e437934c", null ]
+    [ "spell_hallows_end_put_costume", "da/d3f/a14255.html#ac1fcd0a32142744f353cdc01bce740e3", null ],
+    [ "HandleScript", "da/d3f/a14255.html#ac4be92e73c08c06c1c9954547bfe8013", null ],
+    [ "PrepareSpellScript", "da/d3f/a14255.html#ac0e4692be1527f052a23ed52af32d042", null ],
+    [ "Register", "da/d3f/a14255.html#ac38299892d02c497e3bbae3c73a095ab", null ],
+    [ "_femaleSpell", "da/d3f/a14255.html#a5ccb30abd83ed1d0be104bffc91deca2", null ],
+    [ "_maleSpell", "da/d3f/a14255.html#af9b285133389942bea6738e518d34e48", null ]
 ];

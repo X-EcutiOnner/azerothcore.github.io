@@ -1,6 +1,6 @@
 var a23771 =
 [
-    [ "Load", "d9/d56/a23771.html#a0fa22884296d705fd28eed88351d1165", null ],
-    [ "PrepareSpellScript", "d9/d56/a23771.html#ae04539319a7bab4965f663039c991614", null ],
-    [ "Register", "d9/d56/a23771.html#a7c7abeb9bc621824173db2c727c28045", null ]
+    [ "lapseTeleport", "d9/d56/a23771.html#a55c4330397214bf3a43628b3067d4634", null ],
+    [ "Execute", "d9/d56/a23771.html#a122023ed13fce2f5bb3721e459964443", null ],
+    [ "_owner", "d9/d56/a23771.html#a0e678c5cdb862390ea50c8d6057b7093", null ]
 ];

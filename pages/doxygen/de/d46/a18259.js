@@ -1,5 +1,6 @@
 var a18259 =
 [
-    [ "npc_icc_lk_checktargetAI", "de/d46/a18259.html#a9a5953a9353be61a3fa96eaf7df7c489", null ],
-    [ "CanAIAttack", "de/d46/a18259.html#a4dfce75e23f1093c3de0ce75b049a20a", null ]
+    [ "npc_strangulate_vehicleAI", "da/dc1/a18263.html", "da/dc1/a18263" ],
+    [ "npc_strangulate_vehicle", "de/d46/a18259.html#a04532bc5902af45b1e9c76cf1cec9add", null ],
+    [ "GetAI", "de/d46/a18259.html#aa5813442234d7b18fc4e7ed44a0b30bc", null ]
 ];

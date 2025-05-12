@@ -1,7 +1,7 @@
 var a13483 =
 [
-    [ "boss_blight_wormAI", "d1/d63/a13483.html#af267e395fbd539f871e498dc6745c610", null ],
-    [ "Reset", "d1/d63/a13483.html#a96e27eaba5c9e422981d78123ed9c83d", null ],
-    [ "UpdateAI", "d1/d63/a13483.html#ac8e4c5a7a251173a2afb369498c88a1d", null ],
-    [ "_events", "d1/d63/a13483.html#a65f7fd4f73c727eeb5988d7ec77b94ce", null ]
+    [ "npc_ranger_lilatha", "d1/d63/a13483.html#abd13a89b41a289edefb9bc21588f8d29", null ],
+    [ "Reset", "d1/d63/a13483.html#a3e804e483b51961193ee1079caba40be", null ],
+    [ "sQuestAccept", "d1/d63/a13483.html#acc38d4feacb5e7fa5ce9658b10447c4d", null ],
+    [ "WaypointReached", "d1/d63/a13483.html#a193bd47c7d7c4fb3d832a59bf55e8412", null ]
 ];

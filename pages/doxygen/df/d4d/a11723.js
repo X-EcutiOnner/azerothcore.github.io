@@ -1,6 +1,9 @@
 var a11723 =
 [
-    [ "boss_overlordwyrmthalakAI", "da/d7e/a11727.html", "da/d7e/a11727" ],
-    [ "boss_overlord_wyrmthalak", "df/d4d/a11723.html#a2af6edf776c189d43cb82cc35bb838fe", null ],
-    [ "GetAI", "df/d4d/a11723.html#a56de538f25cbabc9346b987dbfe680a1", null ]
+    [ "titles_commandscript", "df/d4d/a11723.html#ac088fd907013150a0508b79c99f6c2f3", null ],
+    [ "GetCommands", "df/d4d/a11723.html#af7d00111b3190f8bc9c46cedda3621d6", null ],
+    [ "HandleTitlesAddCommand", "df/d4d/a11723.html#a2a44d6f83bc5617a25a53b18fbd35e32", null ],
+    [ "HandleTitlesCurrentCommand", "df/d4d/a11723.html#a9a9b503e9ee65aa0d92cc7ff2e38a09d", null ],
+    [ "HandleTitlesRemoveCommand", "df/d4d/a11723.html#a2001bcc2eddc5688d57154f9906218e4", null ],
+    [ "HandleTitlesSetMaskCommand", "df/d4d/a11723.html#a9517b10295b856779cdd067234f640c8", null ]
 ];

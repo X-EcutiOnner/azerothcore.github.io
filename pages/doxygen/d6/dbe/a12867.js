@@ -1,9 +1,8 @@
 var a12867 =
 [
-    [ "HandleDummyTick", "d6/dbe/a12867.html#aeeb63cb6e662c7e513b5953eb81b2cb1", null ],
-    [ "Load", "d6/dbe/a12867.html#a4928bafbfbf01bdcc2cb970c50a83b32", null ],
-    [ "OnApply", "d6/dbe/a12867.html#a88a767f3e15c6e70932c51f1aa8d61f2", null ],
-    [ "PrepareAuraScript", "d6/dbe/a12867.html#a99473b1f1c13e5e7167a674d3e4e2a8d", null ],
-    [ "Register", "d6/dbe/a12867.html#ac6ab0bc5a9b9f3b5643d59b103891b4b", null ],
-    [ "_forsakenSpell", "d6/dbe/a12867.html#a02c0334f5154d908ab022d4acf41ef40", null ]
+    [ "npc_scarlet_miner_cartAI", "d6/dbe/a12867.html#a4256e3bc9f6678dc85a3b702e1c531f8", null ],
+    [ "DoAction", "d6/dbe/a12867.html#a99ac60b1a60cc5f269aa7f02f3fd5083", null ],
+    [ "PassengerBoarded", "d6/dbe/a12867.html#a3539847efa7014a8e31a78ace83b6bc5", null ],
+    [ "SetGUID", "d6/dbe/a12867.html#a5679fef6f40d0e48547e7bd57a93a176", null ],
+    [ "minerGUID", "d6/dbe/a12867.html#a084e80b43b5b30b5e1794feff305e9b3", null ]
 ];

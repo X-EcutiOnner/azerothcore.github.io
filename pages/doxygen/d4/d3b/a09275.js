@@ -1,6 +1,8 @@
 var a09275 =
 [
-    [ "NpcTextLocale", "d4/d3b/a09275.html#af1ddddeff75a1a51c51ebb1fec3f4f05", null ],
-    [ "Text_0", "d4/d3b/a09275.html#adf17307b9d00e0b63b9c2827fca96320", null ],
-    [ "Text_1", "d4/d3b/a09275.html#a40f69a13a202c350fdce2177288727e9", null ]
+    [ "NearestGameObjectFishingHole", "d4/d3b/a09275.html#ab0e4734202edf26b69881ab85abe1d93", null ],
+    [ "NearestGameObjectFishingHole", "d4/d3b/a09275.html#a256c64e6c82d98349b958647d98bf4ce", null ],
+    [ "operator()", "d4/d3b/a09275.html#a52e2c64f8209ab364f4e85e1f4e947dc", null ],
+    [ "i_obj", "d4/d3b/a09275.html#a182fbf6b5cc68fb0eba6be26568c9d78", null ],
+    [ "i_range", "d4/d3b/a09275.html#af27a870fb654a130bf1e4ac1472fdffc", null ]
 ];

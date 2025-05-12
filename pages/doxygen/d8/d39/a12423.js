@@ -1,5 +1,7 @@
 var a12423 =
 [
-    [ "textid", "d8/d39/a12423.html#a7dac5c31d7df501f28eee3e1dec0523a", null ],
-    [ "timer", "d8/d39/a12423.html#ab7851f383e7221c6ff2700ee345d9504", null ]
+    [ "HandleScript", "d8/d39/a12423.html#aa6a02fd6ac2fe27588cb17377e63125f", null ],
+    [ "PrepareSpellScript", "d8/d39/a12423.html#a8d200122bafb943ccb6aa1bd86a1d227", null ],
+    [ "Register", "d8/d39/a12423.html#ab1ee3baa1bd7341660bcc7a10978aff3", null ],
+    [ "Validate", "d8/d39/a12423.html#a931be0e5aa4b54e646a3ed3ade135423", null ]
 ];

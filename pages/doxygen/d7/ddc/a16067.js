@@ -1,6 +1,6 @@
 var a16067 =
 [
-    [ "npc_argent_soldierAI", "d6/d4b/a16071.html", "d6/d4b/a16071" ],
-    [ "npc_argent_soldier", "d7/ddc/a16067.html#aa308b4cf1df6edf0666d06e0ddab0797", null ],
-    [ "GetAI", "d7/ddc/a16067.html#adfeed3d533104b9617dfbb06925a3d44", null ]
+    [ "PrepareSpellScript", "d7/ddc/a16067.html#a743f910c3854e2c4e726e97c55fa7038", null ],
+    [ "Register", "d7/ddc/a16067.html#a3b9b2ffa90f58a5da93fd369e11c6216", null ],
+    [ "RemoveNotBetween", "d7/ddc/a16067.html#aba462e5b8e9336a508d19606f98750b5", null ]
 ];

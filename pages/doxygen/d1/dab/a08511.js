@@ -1,14 +1,8 @@
 var a08511 =
 [
-    [ "SafeUnitPointer", "d1/dab/a08511.html#a05ee5199683b1e68189a7d122bf3f5f4", null ],
-    [ "SafeUnitPointer", "d1/dab/a08511.html#a9ac4023d6ec32f96c757206dd4aa3fd6", null ],
-    [ "~SafeUnitPointer", "d1/dab/a08511.html#ad9c2be82f67eb4e825a9ffd07307983a", null ],
-    [ "Initialize", "d1/dab/a08511.html#a40f6e04585ca487c457d17ce10cc7b8c", null ],
-    [ "operator Unit *", "d1/dab/a08511.html#afee1d290f436472dd719ff83f41721f5", null ],
-    [ "operator->", "d1/dab/a08511.html#af63a04a7c6e6cb3002f5a99f90f70328", null ],
-    [ "operator=", "d1/dab/a08511.html#a44f522d9c22861f853df0286a3764d3e", null ],
-    [ "SetPointedTo", "d1/dab/a08511.html#a6603c67b736224a8e6559340afa8b275", null ],
-    [ "UnitDeleted", "d1/dab/a08511.html#a872b0a86328fb03e5feccdf364ea5cce", null ],
-    [ "defaultValue", "d1/dab/a08511.html#a38dce117cb135c9b84918a9bbc884f28", null ],
-    [ "ptr", "d1/dab/a08511.html#aa8bf5e4728aeb1ca7a8de1a727a84884", null ]
+    [ "PlayerCreateInfoAction", "d1/dab/a08511.html#a50d56595c71374e132dfe9f988144e75", null ],
+    [ "PlayerCreateInfoAction", "d1/dab/a08511.html#a1e1d33b18074031e408da10f44a9a9c4", null ],
+    [ "action", "d1/dab/a08511.html#a957d05ae25fd1ca801e097f03f9cc43e", null ],
+    [ "button", "d1/dab/a08511.html#ac0c4658cfb1fc01cbb55116dd6dbe899", null ],
+    [ "type", "d1/dab/a08511.html#a41e4a38f2c12f9e68b835fe17e56bc7e", null ]
 ];

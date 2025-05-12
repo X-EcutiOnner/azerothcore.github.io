@@ -1,17 +1,15 @@
 var a18895 =
 [
-    [ "boss_grobbulusAI", "da/dec/a18895.html#ad9e7cd519e30eded06f76bcc69189117", null ],
-    [ "JustDied", "da/dec/a18895.html#aa717d51aa10c139473031072065064ce", null ],
-    [ "JustEngagedWith", "da/dec/a18895.html#a4c74d53fe029d02df9652dbb87a09242", null ],
-    [ "JustSummoned", "da/dec/a18895.html#af266d40889fbecd50a118a579b711757", null ],
-    [ "KilledUnit", "da/dec/a18895.html#a266ef5135e09ee6a0b0b9ae0aaac822b", null ],
-    [ "PullChamberAdds", "da/dec/a18895.html#ad215f20452cd48c2c2bca394410d739b", null ],
-    [ "Reset", "da/dec/a18895.html#a6bd34fcdcfa47b19f366ba85e7f420cb", null ],
-    [ "SpellHitTarget", "da/dec/a18895.html#a996175b70b9a69175988350fc09edd79", null ],
-    [ "SummonedCreatureDespawn", "da/dec/a18895.html#ae939b029565ef9a075c0d9f0f94b76f3", null ],
-    [ "UpdateAI", "da/dec/a18895.html#aafd79debbe76b02a1478c03daf235b05", null ],
-    [ "dropSludgeTimer", "da/dec/a18895.html#a5fdcf157f498b8e47d6380b03fe819d6", null ],
-    [ "events", "da/dec/a18895.html#a810a91ffbcc3caa7c31e17afbd615392", null ],
-    [ "pInstance", "da/dec/a18895.html#a26a4a5bb98800fb968cf9b30ffa299dc", null ],
-    [ "summons", "da/dec/a18895.html#a39ce39397f845a4fddf20da5f5812713", null ]
+    [ "boss_gluthAI", "da/dec/a18895.html#a3ae0608d19cbc7ce5a561e0ae3e66d0d", null ],
+    [ "JustDied", "da/dec/a18895.html#ada2c5f6b7025f5f2fb67b8ebe3b2d56c", null ],
+    [ "JustEngagedWith", "da/dec/a18895.html#a25cf670d7254cc8331752987a854c63b", null ],
+    [ "JustSummoned", "da/dec/a18895.html#acc09328210fbf1a6e81999d548676ae4", null ],
+    [ "KilledUnit", "da/dec/a18895.html#a691d46055b922efc9d1ec93a8b0fb842", null ],
+    [ "MoveInLineOfSight", "da/dec/a18895.html#a2aaf43f7d1555a005ef263ceaad8304c", null ],
+    [ "Reset", "da/dec/a18895.html#acb9f68205a2a210737d43893a414ca52", null ],
+    [ "SelectPlayerInRoom", "da/dec/a18895.html#a1f8f87b00291d8164f607ac6262506cf", null ],
+    [ "SummonedCreatureDies", "da/dec/a18895.html#a115a1f1327a931067223734dbf414675", null ],
+    [ "UpdateAI", "da/dec/a18895.html#a2505f7ebda7b623edfedf96979a4a920", null ],
+    [ "events", "da/dec/a18895.html#adaf9581259a774087ce02725b42b6b47", null ],
+    [ "summons", "da/dec/a18895.html#a18f6aa3d949e68e9b38398780c017082", null ]
 ];

@@ -1,6 +1,7 @@
 var a13043 =
 [
-    [ "boss_kalecAI", "d3/d22/a13047.html", "d3/d22/a13047" ],
-    [ "boss_kalec", "d8/d3d/a13043.html#a25902fa205a6ec73b3230c4579796e02", null ],
-    [ "GetAI", "d8/d3d/a13043.html#a121642631814afb110516661e03956de", null ]
+    [ "npc_apothecary_genericAI", "d8/d3d/a13043.html#afb2b04b51e28d0795e7781effa68dffd", null ],
+    [ "DoAction", "d8/d3d/a13043.html#a59074beefbd3d80104b64f8ecc2ef8e0", null ],
+    [ "MovementInform", "d8/d3d/a13043.html#a63530bd7c3ebcd66521a268e11bf2f93", null ],
+    [ "_movePos", "d8/d3d/a13043.html#a53d10ab64df212b043cc21e054f6528c", null ]
 ];

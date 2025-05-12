@@ -1,6 +1,6 @@
 var a13659 =
 [
-    [ "npc_janalai_firebombAI", "de/def/a13663.html", "de/def/a13663" ],
-    [ "npc_janalai_firebomb", "dd/dd9/a13659.html#aaed2bc116d1118e1240310d27241c0df", null ],
-    [ "GetAI", "dd/dd9/a13659.html#a2a8d7372062720032b2811eb98c90dec", null ]
+    [ "npc_the_scourge_cauldronAI", "de/def/a13663.html", "de/def/a13663" ],
+    [ "npc_the_scourge_cauldron", "dd/dd9/a13659.html#a7ff5315293c4917dec3b0fe0aade2016", null ],
+    [ "GetAI", "dd/dd9/a13659.html#ae4e35f1cac0c0f35333ba6113d3c1ad0", null ]
 ];

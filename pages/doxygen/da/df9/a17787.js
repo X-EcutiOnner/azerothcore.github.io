@@ -1,7 +1,6 @@
 var a17787 =
 [
-    [ "HandleSummon", "da/df9/a17787.html#a8a96bd3a1b3cfaff09e05535eca927a9", null ],
-    [ "PrepareSpellScript", "da/df9/a17787.html#a0213cd8e5e79aba8ba80583ceda88b95", null ],
-    [ "Register", "da/df9/a17787.html#a01281869dc98a0af5027695391f1221f", null ],
-    [ "Validate", "da/df9/a17787.html#a26675411e5f86e6d31f62762a3fdcd70", null ]
+    [ "FilterTargets", "da/df9/a17787.html#ac2396cbd000a8d58ff22dbb08c81dfb4", null ],
+    [ "PrepareSpellScript", "da/df9/a17787.html#abcdfe528430e299c2eb64b24f7ff8eb0", null ],
+    [ "Register", "da/df9/a17787.html#a32e04a1110d651701b8eab1648c69a57", null ]
 ];

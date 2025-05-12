@@ -1,10 +1,25 @@
 var a11375 =
 [
-    [ "mmaps_commandscript", "db/ddf/a11375.html#a1dbdfd26bdb685315a3012453080a56f", null ],
-    [ "GetCommands", "db/ddf/a11375.html#aec91072f9e651c9136bf1a405a9bb95a", null ],
-    [ "HandleMmapLoadedTilesCommand", "db/ddf/a11375.html#a40d5b7e733298210c686fe89490b6f61", null ],
-    [ "HandleMmapLocCommand", "db/ddf/a11375.html#aa3dc699456256d8b2ab9fdd97891bd96", null ],
-    [ "HandleMmapPathCommand", "db/ddf/a11375.html#a2c876439ad6d9ff7523f140d97743dea", null ],
-    [ "HandleMmapStatsCommand", "db/ddf/a11375.html#a823b56cdbb0c97176990bb01af9af9fc", null ],
-    [ "HandleMmapTestArea", "db/ddf/a11375.html#aaae2e5548a6bd9c670db0721ea7508bd", null ]
+    [ "DiffTableArray", "db/ddf/a11375.html#a38ae34827b0de71df0eeb31c1af9e07e", null ],
+    [ "UpdateTime", "db/ddf/a11375.html#a5ca37c4eb70f9131276099b65256243b", null ],
+    [ "GetAverageUpdateTime", "db/ddf/a11375.html#a12ec461e5d33845ed375c0965fb024ae", null ],
+    [ "GetDatasetSize", "db/ddf/a11375.html#a2073ed7e673a5db381432267861d64ec", null ],
+    [ "GetLastUpdateTime", "db/ddf/a11375.html#a28ab3fb6bd445bf1b36f7cb3b73acff2", null ],
+    [ "GetMaxUpdateTime", "db/ddf/a11375.html#ab5b77fcf7746e613e2997601fac659fc", null ],
+    [ "GetMaxUpdateTimeOfCurrentTable", "db/ddf/a11375.html#ab5f1c144429d1a8fe3937fd22cab8206", null ],
+    [ "GetPercentile", "db/ddf/a11375.html#a45b460f5fec335763e20bfe06fa33980", null ],
+    [ "GetTimeWeightedAverageUpdateTime", "db/ddf/a11375.html#a29b8d4c5394820b71aaf8864ba4b8327", null ],
+    [ "RecordUpdateTimeReset", "db/ddf/a11375.html#a9089665d344f9b0b4e85351dd04e0a5b", null ],
+    [ "SortUpdateTimeDataTable", "db/ddf/a11375.html#a451d39365491ae8d38816783865d2a75", null ],
+    [ "UpdateWithDiff", "db/ddf/a11375.html#a8837b608acde446f1eda813ca530c63f", null ],
+    [ "_averageUpdateTime", "db/ddf/a11375.html#a61337ef6e640cd4ce48019ba6cd4fafd", null ],
+    [ "_maxUpdateTime", "db/ddf/a11375.html#a65ff51e1503e11ac8f218876afb7afce", null ],
+    [ "_maxUpdateTimeOfCurrentTable", "db/ddf/a11375.html#ad44ab22d8f9cdbad920887109e52609a", null ],
+    [ "_maxUpdateTimeOfLastTable", "db/ddf/a11375.html#ae013fcb0d7df86c35d9caf355a6968ff", null ],
+    [ "_needsReorder", "db/ddf/a11375.html#ac3ccabe6dee6e0e2343fab39a971e888", null ],
+    [ "_orderedUpdateTimeDataTable", "db/ddf/a11375.html#a6cf15deccacbceff85216c7ceecd98b3", null ],
+    [ "_recordedTime", "db/ddf/a11375.html#a8736328e4f88bad027298a6d0bbf416c", null ],
+    [ "_totalUpdateTime", "db/ddf/a11375.html#a1158e0c65b46bd16c782b007bfc2fa3e", null ],
+    [ "_updateTimeDataTable", "db/ddf/a11375.html#abb8749ed72a0bd159034132fb2a8b628", null ],
+    [ "_updateTimeTableIndex", "db/ddf/a11375.html#acee0682ebe0d6c2097209262ebee6f80", null ]
 ];

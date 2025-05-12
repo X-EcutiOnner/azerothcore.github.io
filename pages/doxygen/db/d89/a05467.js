@@ -1,9 +1,8 @@
 var a05467 =
 [
-    [ "TimeTrackerSmall", "db/d89/a05467.html#a38a962c928eac8546d1fd37a094077cc", null ],
-    [ "GetExpiry", "db/d89/a05467.html#a2ebcfabed1bf252b6afb6c3182142c7b", null ],
-    [ "Passed", "db/d89/a05467.html#af4455d0ebb784497e9fd1a08cc915062", null ],
-    [ "Reset", "db/d89/a05467.html#ab8a3c45ffe0e83132e708b5e87625c02", null ],
-    [ "Update", "db/d89/a05467.html#a6c10a37051caf7c16f1aa057bf2bf7da", null ],
-    [ "i_expiryTime", "db/d89/a05467.html#a332f650bcfc81fb4b0de1b58ff1e0c9b", null ]
+    [ "result_type", "db/d89/a05467.html#a20f96383bade76c6185d8f20f458784e", null ],
+    [ "Instance", "db/d89/a05467.html#a5ff7fcb1f8d34861b0c210eddc450681", null ],
+    [ "max", "db/d89/a05467.html#ad5dcf280f768ebd79210caf6ecff4290", null ],
+    [ "min", "db/d89/a05467.html#ab153ffca65139db4084745302dd4db7f", null ],
+    [ "operator()", "db/d89/a05467.html#afe5f6dd94cbc6add3fd13fa3fe37b60d", null ]
 ];

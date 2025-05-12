@@ -1,6 +1,8 @@
 var a11975 =
 [
-    [ "boss_razorgoreAI", "d2/d61/a11979.html", "d2/d61/a11979" ],
-    [ "boss_razorgore", "db/dd1/a11975.html#aee534a04797c5938e6da00f2ab119943", null ],
-    [ "GetAI", "db/dd1/a11975.html#a4683a5deefdb9d3219638189e9a99c2a", null ]
+    [ "CheckProc", "db/dd1/a11975.html#a08e84f2b2ff25ed7e260e61251f9cdb9", null ],
+    [ "HandleProc", "db/dd1/a11975.html#afd3d4786f739566056b69390553d9c71", null ],
+    [ "PrepareAuraScript", "db/dd1/a11975.html#a3ba84d4fd311a91efa685980ffec8d77", null ],
+    [ "Register", "db/dd1/a11975.html#aa36a2e10a6fd67fa74d08e20dc806744", null ],
+    [ "Validate", "db/dd1/a11975.html#aeff8b89300bb5d3589a46a4f66cfd77d", null ]
 ];

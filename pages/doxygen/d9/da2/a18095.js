@@ -1,7 +1,6 @@
 var a18095 =
 [
-    [ "HandleScript", "d9/da2/a18095.html#a0ddd74672b48fd7bf5d3b4d4b6467e4a", null ],
-    [ "PrepareSpellScript", "d9/da2/a18095.html#a598baad08c685bba54ad5306e0d521b4", null ],
-    [ "Register", "d9/da2/a18095.html#a471bac09c68708daefe6a39f283caa4c", null ],
-    [ "Validate", "d9/da2/a18095.html#a162e50b7136687aae7a8df0bb93dd8fe", null ]
+    [ "LichKingDeathEvent", "d9/da2/a18095.html#a9aa328b60358034355b1eed5caacb9f8", null ],
+    [ "Execute", "d9/da2/a18095.html#a06b9a77d3c5efb228368a1e423a620ae", null ],
+    [ "_owner", "d9/da2/a18095.html#a75ccb1b2bd5a8149aff85404b5e0ce21", null ]
 ];

@@ -1,8 +1,7 @@
 var a15939 =
 [
-    [ "OnApply", "d5/d0e/a15939.html#a96321003a002be0e4838901f03f8a5d8", null ],
-    [ "OnRemove", "d5/d0e/a15939.html#af616afe7bf87eb7fdb44bf15e9ad85d4", null ],
-    [ "PrepareAuraScript", "d5/d0e/a15939.html#ae5c880210cb50cf5320ee3595791eaa8", null ],
-    [ "Register", "d5/d0e/a15939.html#aaa2a16cff2e9aae77cdc1bb75c38f26a", null ],
-    [ "Validate", "d5/d0e/a15939.html#ad09a31813a7a03f8abf6dc9c151bb002", null ]
+    [ "npc_baltharus_the_warborn_cloneAI", "d5/d0e/a15939.html#aed531e61508d4d404827f47c6348a5e6", null ],
+    [ "JustEngagedWith", "d5/d0e/a15939.html#ad906b7602a34abcfaede92cba6f0a6d7", null ],
+    [ "UpdateAI", "d5/d0e/a15939.html#ab0c1cf041146a3e16a33986e3e824a2d", null ],
+    [ "_events", "d5/d0e/a15939.html#a6e2819f73f0fccd02b7188f0e6f1ffa9", null ]
 ];

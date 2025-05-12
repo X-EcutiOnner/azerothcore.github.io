@@ -1,6 +1,7 @@
 var a15095 =
 [
-    [ "HandleApply", "db/d14/a15095.html#aefef61bc68c13b20e9b41a6f148a9599", null ],
-    [ "PrepareAuraScript", "db/d14/a15095.html#aabe8dc8b99dc455dfcfaf58b64fa3f18", null ],
-    [ "Register", "db/d14/a15095.html#ade5c710416516760cc69f77750aa2a1f", null ]
+    [ "FilterTargets", "db/d14/a15095.html#a76e8285baf1d14d560ad764eeab86cd5", null ],
+    [ "HandleOnHit", "db/d14/a15095.html#a587db6fa1dc5788e0cc9ec5e486e9393", null ],
+    [ "PrepareSpellScript", "db/d14/a15095.html#ad7372e543391a23c003b4121e0dd8a09", null ],
+    [ "Register", "db/d14/a15095.html#a9749c72e2c7964cd4a2b2f9a77da69ec", null ]
 ];

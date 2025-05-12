@@ -1,8 +1,13 @@
 var a28219 =
 [
-    [ "NoRuneCost", "dc/d8d/a28219.html#a599b2089d52bf4a009c5fbac3b0d3279", null ],
-    [ "NoRunicPowerGain", "dc/d8d/a28219.html#a97da075ecd116ef27fd4265bb8380667", null ],
-    [ "ID", "dc/d8d/a28219.html#aed245962cf1830cfa66e369b22a7ba6f", null ],
-    [ "RuneCost", "dc/d8d/a28219.html#a18c2e6daaaefe1c8be4a83c55a3670ff", null ],
-    [ "runePowerGain", "dc/d8d/a28219.html#ac5f9c69d83ff9cf230124b9dad10008b", null ]
+    [ "AcquireMethod", "dc/d8d/a28219.html#a31a8f5d642b2826b58bc7dfaf5f26719", null ],
+    [ "ClassMask", "dc/d8d/a28219.html#a868a7a346c1da7fa74ed36f0bfb59e3e", null ],
+    [ "ID", "dc/d8d/a28219.html#a95cab9102e1dd6c4f449aba2ecf14372", null ],
+    [ "MinSkillLineRank", "dc/d8d/a28219.html#a2a6c4b50a288ea023099fb49aaca37e4", null ],
+    [ "RaceMask", "dc/d8d/a28219.html#acfd38780584b90ca40a1e1cd59605832", null ],
+    [ "SkillLine", "dc/d8d/a28219.html#a0050dcf5c82f785dfc93079debe54a13", null ],
+    [ "Spell", "dc/d8d/a28219.html#a19e1a55dadce68e6e9c1bd7bb2ca51dd", null ],
+    [ "SupercededBySpell", "dc/d8d/a28219.html#a0eabe8b18fa4bf67eaaaa56f2264ad5d", null ],
+    [ "TrivialSkillLineRankHigh", "dc/d8d/a28219.html#aa8f0c15da1d4d14853bd42e7e20bc963", null ],
+    [ "TrivialSkillLineRankLow", "dc/d8d/a28219.html#aca5e15003099e1fdbd2eaa701b96f162", null ]
 ];

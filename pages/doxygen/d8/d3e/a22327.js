@@ -1,7 +1,9 @@
 var a22327 =
 [
-    [ "HandleScript", "d8/d3e/a22327.html#a26eb647b6c938df3aeff7981571dc475", null ],
-    [ "PrepareSpellScript", "d8/d3e/a22327.html#a10114d8fa956aabff64aa0df7708f635", null ],
-    [ "Register", "d8/d3e/a22327.html#a0c6c379f5dcbb417d94d8e6315aa49dd", null ],
-    [ "Validate", "d8/d3e/a22327.html#adb477d34d8012c6fb45c5548fc49e127", null ]
+    [ "npc_finklesteinAI", "d6/d68/a22331.html", "d6/d68/a22331" ],
+    [ "npc_finklestein", "d8/d3e/a22327.html#aa719b4bb95012c22ef8123e255e32edd", null ],
+    [ "GetAI", "d8/d3e/a22327.html#a1f0d91d2a50aca9d0496b6bd03986c8e", null ],
+    [ "OnGossipHello", "d8/d3e/a22327.html#ac82d5e5dc2e0539c90dfcfe17430548c", null ],
+    [ "OnGossipSelect", "d8/d3e/a22327.html#a7a744207e8f43672f0e6bf2354186ec4", null ],
+    [ "OnQuestAccept", "d8/d3e/a22327.html#a94291aa98e35552bc7d722ddf2a83af2", null ]
 ];

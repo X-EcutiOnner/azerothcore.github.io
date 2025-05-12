@@ -1,6 +1,10 @@
 var a16599 =
 [
-    [ "instance_drak_tharon_keep_InstanceScript", "d8/d8c/a16603.html", "d8/d8c/a16603" ],
-    [ "instance_drak_tharon_keep", "d1/d03/a16599.html#a1f375185dba1619fee36160549eb91f4", null ],
-    [ "GetInstanceScript", "d1/d03/a16599.html#aca6364452dc39e747af152695d479bf8", null ]
+    [ "boss_tharon_jaAI", "d1/d03/a16599.html#a03025fa529e932f23479ff19b0cd8238", null ],
+    [ "DoAction", "d1/d03/a16599.html#a655fd83c2d671847fea9ae393c132fb9", null ],
+    [ "JustDied", "d1/d03/a16599.html#a7928b5db061f1073e1decc2d40601195", null ],
+    [ "JustEngagedWith", "d1/d03/a16599.html#aab194a8f802eeb625d1a74960acbe154", null ],
+    [ "KilledUnit", "d1/d03/a16599.html#a41e929a3768768eb06bafdee3269fd24", null ],
+    [ "Reset", "d1/d03/a16599.html#a272e8565a9b00a27505b301d52814eee", null ],
+    [ "UpdateAI", "d1/d03/a16599.html#a6f482cabcb0bd56711878a5ea297b950", null ]
 ];

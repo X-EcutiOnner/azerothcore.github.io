@@ -1,6 +1,6 @@
 var a21979 =
 [
-    [ "npc_razael_and_lyana", "df/d79/a21979.html#aec7257a1136a3580e2b4542e032429d6", null ],
-    [ "OnGossipHello", "df/d79/a21979.html#a9c9085db92853d5275c12e804a68b0fc", null ],
-    [ "OnGossipSelect", "df/d79/a21979.html#a407d8344280e8e38efb3991fda1d52cd", null ]
+    [ "npc_boneguard_footmanAI", "df/d79/a21979.html#a04eff1976824724b321f0c0d95e0940a", null ],
+    [ "UpdateAI", "df/d79/a21979.html#a9cba65867824daeb50cb2b39d68ad84b", null ],
+    [ "checkTimer", "df/d79/a21979.html#a46dd1fa8d111dca0584a8e6fb7a6a566", null ]
 ];

@@ -1,6 +1,7 @@
 var a17031 =
 [
-    [ "npc_living_mojoAI", "d5/db3/a17035.html", "d5/db3/a17035" ],
-    [ "npc_living_mojo", "d3/d68/a17031.html#af24190023549b4ec5fa47b5959618a8a", null ],
-    [ "GetAI", "d3/d68/a17031.html#a2b8ca6e1b26debfafd74e022825c889e", null ]
+    [ "HandleEffectPeriodic", "d3/d68/a17031.html#a4802c810efd7dd8a9954845366398e7f", null ],
+    [ "PrepareAuraScript", "d3/d68/a17031.html#a008166d25e7a278507e953325f40ccd5", null ],
+    [ "Register", "d3/d68/a17031.html#ac239d0f42eea59b63c3d31ed275846ea", null ],
+    [ "Validate", "d3/d68/a17031.html#a3fc78060f881262c59151b6eb6a943f8", null ]
 ];

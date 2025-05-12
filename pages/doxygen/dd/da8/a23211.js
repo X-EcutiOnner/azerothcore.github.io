@@ -1,6 +1,7 @@
 var a23211 =
 [
-    [ "HandlePeriodic", "dd/da8/a23211.html#a25c698e911ec02d9cd7f757ba87281df", null ],
-    [ "PrepareAuraScript", "dd/da8/a23211.html#a7bf79bc5e5f509b52965f03e998db399", null ],
-    [ "Register", "dd/da8/a23211.html#ab3eec9f591384c7c1c684651c38aa614", null ]
+    [ "go_ahune_ice_spear", "dd/da8/a23211.html#a22922e47b819bc60e331cffbc7c353b3", null ],
+    [ "Reset", "dd/da8/a23211.html#abd11525a84d3ab06a39d1eb7e7c09fbc", null ],
+    [ "UpdateAI", "dd/da8/a23211.html#ae498fc1f71906af2f20e95dea4df4a2b", null ],
+    [ "_scheduler", "dd/da8/a23211.html#a7e1dab03b33b0114cc0a40fc02e2306e", null ]
 ];

@@ -1,7 +1,9 @@
 var a13379 =
 [
-    [ "npc_deathstalker_erlandAI", "d1/d67/a13383.html", "d1/d67/a13383" ],
-    [ "npc_deathstalker_erland", "d9/d05/a13379.html#ad49faf068e982f245f0d1e21f0700c40", null ],
-    [ "GetAI", "d9/d05/a13379.html#ab59235f212ddb985056cb8e32719b723", null ],
-    [ "OnQuestAccept", "d9/d05/a13379.html#a81b20bc8c7249a59d69ba63ab32a5f06", null ]
+    [ "spell_sunwell_teleport", "d9/d05/a13379.html#a6c61c9bb6cb5737469686a7976207f1d", null ],
+    [ "HandleScript", "d9/d05/a13379.html#a4bd9ef50ecc45c792feb8e4d820298b5", null ],
+    [ "PrepareSpellScript", "d9/d05/a13379.html#afc3c927b4bd5ec19074a0ee6d59783f2", null ],
+    [ "Register", "d9/d05/a13379.html#a3a82c7a6d6673c5860b196e0cd644aab", null ],
+    [ "Validate", "d9/d05/a13379.html#a351a2beced058f9354515baa38b0292e", null ],
+    [ "_triggeredSpellId", "d9/d05/a13379.html#a66d97a0028b8a0c430ac5152213f60eb", null ]
 ];

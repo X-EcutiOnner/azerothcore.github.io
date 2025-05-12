@@ -1,6 +1,6 @@
 var a17811 =
 [
-    [ "boss_rotfaceAI", "df/d2a/a17815.html", "df/d2a/a17815" ],
-    [ "boss_rotface", "d6/dee/a17811.html#a8896f5ed16c728d72a123b2e92a174fb", null ],
-    [ "GetAI", "d6/dee/a17811.html#a8a3ff9ef99da7d72ce2f7827bfc2564b", null ]
+    [ "HandlePeriodic", "d6/dee/a17811.html#a9583ccd7b642694a06bde4b88826ec7b", null ],
+    [ "PrepareAuraScript", "d6/dee/a17811.html#a5d855d79247dff6f949a5e099abb9352", null ],
+    [ "Register", "d6/dee/a17811.html#ae797de0ed29b3ca179c07d759b469228", null ]
 ];

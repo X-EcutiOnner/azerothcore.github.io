@@ -1,10 +1,6 @@
 var a11267 =
 [
-    [ "bf_commandscript", "d5/d9a/a11267.html#a806ca440ae1b51fffefee9d298dab3df", null ],
-    [ "GetCommands", "d5/d9a/a11267.html#a97f0192d7ccd3532cfceaebff9f242be", null ],
-    [ "HandleBattlefieldEnable", "d5/d9a/a11267.html#a08dd3bdd279c760fe0f126200a01619e", null ],
-    [ "HandleBattlefieldEnd", "d5/d9a/a11267.html#af7100032ad26a66fbc9d9b37d1da98e1", null ],
-    [ "HandleBattlefieldStart", "d5/d9a/a11267.html#a55102cc3b29a3ded0832ec82be1e3a5e", null ],
-    [ "HandleBattlefieldSwitch", "d5/d9a/a11267.html#ac12cac377007d90b25b9797f2b2cc8de", null ],
-    [ "HandleBattlefieldTimer", "d5/d9a/a11267.html#a7168b3db9435d70e2c5ca5eb41fc8ef2", null ]
+    [ "EffectBase", "d5/d9a/a11267.html#ab02f9f344e2f32ad59b35993d5c8f819", null ],
+    [ "CheckEffect", "d5/d9a/a11267.html#a8c300ca68c3ff6f74b230835c566fd60", null ],
+    [ "ToString", "d5/d9a/a11267.html#ab6f5b2a7ec1183206110eac9a21a7de5", null ]
 ];

@@ -1,5 +1,5 @@
 var a20199 =
 [
-    [ "achievement_staying_buffed_all_winter_25", "d2/d86/a20199.html#a91f0ab3bada837cff6414350b98a27a3", null ],
-    [ "OnCheck", "d2/d86/a20199.html#a36591082184bc8466e124bad9a910545", null ]
+    [ "achievement_i_have_the_coolest_friends", "d2/d86/a20199.html#a87fd2d5702fe33ee8b09042c66897636", null ],
+    [ "OnCheck", "d2/d86/a20199.html#aa77aa6129967601ede2f3fc44b2ee1aa", null ]
 ];

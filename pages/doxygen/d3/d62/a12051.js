@@ -1,7 +1,6 @@
 var a12051 =
 [
-    [ "HandlePeriodic", "d3/d62/a12051.html#a758b588fb02e9cdf2544dd52ceee1055", null ],
-    [ "PrepareAuraScript", "d3/d62/a12051.html#aae9d31049889eea5c5f09dd5437de950", null ],
-    [ "Register", "d3/d62/a12051.html#a5de6428e3359c4498f5630f85ae3fcc8", null ],
-    [ "Validate", "d3/d62/a12051.html#a462b882e41932f99e3501f32368cf4de", null ]
+    [ "boss_solakar_flamewreathAI", "d2/d9f/a12055.html", "d2/d9f/a12055" ],
+    [ "boss_solakar_flamewreath", "d3/d62/a12051.html#a0d5a9f9525303014e72cd98d45bf302f", null ],
+    [ "GetAI", "d3/d62/a12051.html#a0bd7971406392f15f68828ed217f4d06", null ]
 ];

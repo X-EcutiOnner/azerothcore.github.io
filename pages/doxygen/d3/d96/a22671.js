@@ -1,6 +1,7 @@
 var a22671 =
 [
-    [ "boss_gurtogg_bloodboilAI", "d2/d91/a22675.html", "d2/d91/a22675" ],
-    [ "boss_gurtogg_bloodboil", "d3/d96/a22671.html#ae048bbcfaadcf6d99dffa871cedf4b33", null ],
-    [ "GetAI", "d3/d96/a22671.html#ae1cded61e19a654b562533c606938f38", null ]
+    [ "HandleEffectRemove", "d3/d96/a22671.html#a0d8d042e6e9bf8fd26b6f283f6da6194", null ],
+    [ "PrepareAuraScript", "d3/d96/a22671.html#a84ec7db2aab055bc4328a4d8862bd3f5", null ],
+    [ "Register", "d3/d96/a22671.html#a9ee8e71020c17f593472de5a9c130753", null ],
+    [ "Validate", "d3/d96/a22671.html#a08be3cb2bef2f4697b7e258b231bd35b", null ]
 ];

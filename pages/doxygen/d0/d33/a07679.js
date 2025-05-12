@@ -1,14 +1,19 @@
 var a07679 =
 [
-    [ "LfgQueueStatusData", "d0/d33/a07679.html#af50fc3422feb137a7ccd820e2ac2fe44", null ],
-    [ "dps", "d0/d33/a07679.html#a99a0bd2b1eeb4b8f9a7ffd088232ef0a", null ],
-    [ "dungeonId", "d0/d33/a07679.html#a9a6288f9e14e593e147b4f60a1dc8991", null ],
-    [ "healers", "d0/d33/a07679.html#a61b2c2f4391022c7e4ba3972c4467a74", null ],
-    [ "queuedTime", "d0/d33/a07679.html#a398efafa1ef7faa6600d6fdb28306f49", null ],
-    [ "tanks", "d0/d33/a07679.html#a74f54d22ca9e2b6711bf363737b9ff06", null ],
-    [ "waitTime", "d0/d33/a07679.html#aa794f234bf93e66916f7eadb986f17ef", null ],
-    [ "waitTimeAvg", "d0/d33/a07679.html#af44b91dd7ddfb702662663f989f026fc", null ],
-    [ "waitTimeDps", "d0/d33/a07679.html#aa95e69bcfb84de1d37bc7ff1a4ece8bf", null ],
-    [ "waitTimeHealer", "d0/d33/a07679.html#abf57fbbaac89b08bacf0731e3a8b65e3", null ],
-    [ "waitTimeTank", "d0/d33/a07679.html#a73cdcd16181375a7d428e6b50cb1e1e6", null ]
+    [ "base", "d0/d33/a07679.html#a72ad0de027b5ed860a45d5aa64c62468", null ],
+    [ "first_type", "d0/d33/a07679.html#a13738915d3dbe4912ecfe9bf84048da0", null ],
+    [ "get", "d0/d33/a07679.html#a193636c84817e3ba5d58578127c2e812", null ],
+    [ "get", "d0/d33/a07679.html#a193636c84817e3ba5d58578127c2e812", null ],
+    [ "get", "d0/d33/a07679.html#ae32c95f7f1927bb4a572d06d014f1080", null ],
+    [ "get", "d0/d33/a07679.html#ae32c95f7f1927bb4a572d06d014f1080", null ],
+    [ "holds_alternative", "d0/d33/a07679.html#a85b3bbe6f4e5440fa26765d822541101", null ],
+    [ "operator std::enable_if_t< C &&!std::is_same_v< first_type, std::size_t > &&std::is_convertible_v< first_type, std::size_t >, std::size_t >", "d0/d33/a07679.html#a7ac510d716163ccd69d724bad21688de", null ],
+    [ "operator std::enable_if_t< C, first_type >", "d0/d33/a07679.html#a64e705dc1f9ead7c770f427ce66ef3c2", null ],
+    [ "operator!", "d0/d33/a07679.html#a2642d31f48ea8853226464df0f994e25", null ],
+    [ "operator*", "d0/d33/a07679.html#a8f32040dec3ce29beb0fa2d8778160cc", null ],
+    [ "operator=", "d0/d33/a07679.html#a04f837c5b68ec10bd85153b283c65cb1", null ],
+    [ "visit", "d0/d33/a07679.html#a0cc1d2f145347d4a6bb70b981f6da598", null ],
+    [ "visit", "d0/d33/a07679.html#aca506a5119986228fc737f217186b47c", null ],
+    [ "operator<<", "d0/d33/a07679.html#a39009e4358c42d0b9f03c7101ee1d2c6", null ],
+    [ "have_operators", "d0/d33/a07679.html#a31be0827a24327470faa92595eda5996", null ]
 ];

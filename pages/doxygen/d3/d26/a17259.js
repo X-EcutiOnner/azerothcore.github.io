@@ -1,7 +1,6 @@
 var a17259 =
 [
-    [ "OnProc", "d3/d26/a17259.html#a5b6e96abb900da33657cdbbd137138e3", null ],
-    [ "PrepareAuraScript", "d3/d26/a17259.html#a5502476536a923e77af67c4bbcf005e3", null ],
-    [ "Register", "d3/d26/a17259.html#aca08edf219504156d6157c95702bb815", null ],
-    [ "Validate", "d3/d26/a17259.html#a52b1231f37e8b3d810614365659a98b6", null ]
+    [ "PrepareSpellScript", "d3/d26/a17259.html#a37899f12707930d038de38bae92c9aff", null ],
+    [ "Register", "d3/d26/a17259.html#a3677d2e7db842f899e6e2d2c8c9a3d42", null ],
+    [ "SelectDest", "d3/d26/a17259.html#a4caabf8afac621ef70bbbac1a2b5177e", null ]
 ];

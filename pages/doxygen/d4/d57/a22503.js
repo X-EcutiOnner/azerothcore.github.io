@@ -1,14 +1,18 @@
 var a22503 =
 [
-    [ "OutdoorPvPNA", "d4/d57/a22503.html#acbdae42245c71e4274296649d8d08e9e", null ],
-    [ "FillInitialWorldStates", "d4/d57/a22503.html#ac4eaab1f8d69ac45f168899267801198", null ],
-    [ "GetCapturePoint", "d4/d57/a22503.html#a7bab429e723c0ac1eb2f8cd3501f13be", null ],
-    [ "HandleKill", "d4/d57/a22503.html#ab55683b771104878c69239314a9782f4", null ],
-    [ "HandleKillImpl", "d4/d57/a22503.html#a2ede6e7dc54424d9729a094557b14792", null ],
-    [ "HandlePlayerEnterZone", "d4/d57/a22503.html#a312c5f2aaa35a9f83740c1bdd9772b9e", null ],
-    [ "HandlePlayerLeaveZone", "d4/d57/a22503.html#ae7dd540746946513cd7bf8e29296c068", null ],
-    [ "SendRemoveWorldStates", "d4/d57/a22503.html#ae9a93ddac1ca439f0f269d7ac7597593", null ],
-    [ "SetupOutdoorPvP", "d4/d57/a22503.html#a09369a62ec5584dd6ce5eddf7b2bb80f", null ],
-    [ "Update", "d4/d57/a22503.html#a4074a96974fe1b5e6d9149c8eee36e71", null ],
-    [ "m_obj", "d4/d57/a22503.html#a7538d64bb494644eae3cc7db03dd631f", null ]
+    [ "OutdoorPvPZM", "d4/d57/a22503.html#a8351867658985b66dd97f39e68c16b94", null ],
+    [ "FillInitialWorldStates", "d4/d57/a22503.html#a86a36c0f47027c8d5ac64090e308d98a", null ],
+    [ "GetAllianceTowersControlled", "d4/d57/a22503.html#a58320dcfca7519ab2a7160bb1f875a9b", null ],
+    [ "GetHordeTowersControlled", "d4/d57/a22503.html#a98bfdd944bc51f9ed30b74e1cf3217b5", null ],
+    [ "HandleKillImpl", "d4/d57/a22503.html#a6cd61b99305a2838261e36652fda42b1", null ],
+    [ "HandlePlayerEnterZone", "d4/d57/a22503.html#a8c0eb1c295f389273cf2b2c7b35c9538", null ],
+    [ "HandlePlayerLeaveZone", "d4/d57/a22503.html#a93105e3229db7798ad882fc7e538b250", null ],
+    [ "SendRemoveWorldStates", "d4/d57/a22503.html#aba24e6285ac45dd0594f557d5830ba7c", null ],
+    [ "SetAllianceTowersControlled", "d4/d57/a22503.html#ab7e230cfa2f06fa450ca40c381491c85", null ],
+    [ "SetHordeTowersControlled", "d4/d57/a22503.html#a27239875476bbce8ff18b30cdfe6815b", null ],
+    [ "SetupOutdoorPvP", "d4/d57/a22503.html#a7e71d2c2480da1a2d155981999201b99", null ],
+    [ "Update", "d4/d57/a22503.html#acd93bd13cf330ec86dde30ff9c6306de", null ],
+    [ "m_AllianceTowersControlled", "d4/d57/a22503.html#aff4124f54572e0812c39562fbc6390c3", null ],
+    [ "m_Graveyard", "d4/d57/a22503.html#a9842f1c5de04af4db3e0397839de7765", null ],
+    [ "m_HordeTowersControlled", "d4/d57/a22503.html#ad5609bc0c13d193d16560045aa4b0c71", null ]
 ];

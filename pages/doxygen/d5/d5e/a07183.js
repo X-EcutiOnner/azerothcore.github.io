@@ -1,19 +1,12 @@
 var a07183 =
 [
-    [ "BattlegroundRV", "d5/d5e/a07183.html#ad8c16fa336cd5b0d98eb0009ef094632", null ],
-    [ "CheckPositionForUnit", "d5/d5e/a07183.html#a17665265c5ab837b4e2a0cdc461a7d0a", null ],
-    [ "FillInitialWorldStates", "d5/d5e/a07183.html#a507004e47e4ff6160fd34b736701e363", null ],
-    [ "GetPillarAtPosition", "d5/d5e/a07183.html#a0cd6f84233993bde76be990abab75f23", null ],
-    [ "GetPillarIdForPos", "d5/d5e/a07183.html#a4edb8efce09dece515e8b833142d2c55", null ],
-    [ "HandleAreaTrigger", "d5/d5e/a07183.html#aa75f63f77d1f7e8bafffe1d8cb7de9b8", null ],
-    [ "HandlePlayerUnderMap", "d5/d5e/a07183.html#a4cb2e77a45fd02a5db85b6979d622afa", null ],
-    [ "Init", "d5/d5e/a07183.html#a67853fccaddfcd946015a96c5b108641", null ],
-    [ "PostUpdateImpl", "d5/d5e/a07183.html#a9707d8805f031c01c14d78fdc1790a64", null ],
-    [ "SetupBattleground", "d5/d5e/a07183.html#abbd1a364665655cfc4f059fa63384536", null ],
-    [ "StartingEventOpenDoors", "d5/d5e/a07183.html#a450c1d8a9ad4712ab4042256ba7d9d08", null ],
-    [ "TeleportUnitToNewZ", "d5/d5e/a07183.html#ac5b158259ccc5168275c0e00ea041db0", null ],
-    [ "UpdatePillars", "d5/d5e/a07183.html#a76d16c8ab6778a6fc8a4c988a46f0306", null ],
-    [ "_checkPlayersTimer", "d5/d5e/a07183.html#a7c876ff9156f81b168aec7cf673d39b3", null ],
-    [ "_state", "d5/d5e/a07183.html#acce3fce40dbbb403749dcdb986e1d970", null ],
-    [ "_timer", "d5/d5e/a07183.html#ac5f9a8627e919eb224d78d726da1a7a1", null ]
+    [ "Arena", "d5/d5e/a07183.html#a74f105bc709d4728fb07f1984abfd345", null ],
+    [ "AddPlayer", "d5/d5e/a07183.html#ae24fe304d35c0c09379203135e936450", null ],
+    [ "CheckWinConditions", "d5/d5e/a07183.html#a886b586f7ab6fc89d76e86cb811989b8", null ],
+    [ "EndBattleground", "d5/d5e/a07183.html#a2be61602189b530a16a9ca954d180914", null ],
+    [ "FillInitialWorldStates", "d5/d5e/a07183.html#a592100d0f0ed492a5cdf941e57db787f", null ],
+    [ "HandleKillPlayer", "d5/d5e/a07183.html#ae0a56f524bfc9eec6753874ce35d0466", null ],
+    [ "RemovePlayer", "d5/d5e/a07183.html#ab5348b8bd4bfd58c01cdf61f16f72db1", null ],
+    [ "RemovePlayerAtLeave", "d5/d5e/a07183.html#acae21233e11b21b612e5c051bfa7720e", null ],
+    [ "UpdateArenaWorldState", "d5/d5e/a07183.html#a422925ee29e9a5f64aeb4264169ff2d6", null ]
 ];

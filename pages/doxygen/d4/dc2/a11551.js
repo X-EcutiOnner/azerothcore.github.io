@@ -1,9 +1,8 @@
 var a11551 =
 [
-    [ "npc_burning_spiritAI", "d4/dc2/a11551.html#a52f63423d09794446b0c01da2feb325d", null ],
-    [ "EnterEvadeMode", "d4/dc2/a11551.html#a567a7a023bb83a1228bb458ea16ee2fc", null ],
-    [ "IsSummonedBy", "d4/dc2/a11551.html#a65ee7b6dd6d4394cc04a6260fc75827e", null ],
-    [ "MovementInform", "d4/dc2/a11551.html#a0a02ece5a3ff1eefa30fd27a9cc84d10", null ],
-    [ "_events", "d4/dc2/a11551.html#a9af0f46710741bba3d8401d1a1fb0556", null ],
-    [ "_flamelasherGUID", "d4/dc2/a11551.html#abfc34e3e45d1e74b328a91f6f8981191", null ]
+    [ "cache_commandscript", "d4/dc2/a11551.html#a709e1d02632aed18113c1adb52e962b5", null ],
+    [ "GetCommands", "d4/dc2/a11551.html#ae62aed5b701a408460d8fedcd08bb3a4", null ],
+    [ "HandleCacheDeleteCommand", "d4/dc2/a11551.html#a9ee0f4aceb031ad1c6b1870320fca88b", null ],
+    [ "HandleCacheInfoCommand", "d4/dc2/a11551.html#aa9bce5578450a35909a4e481bc21867f", null ],
+    [ "HandleCacheRefreshCommand", "d4/dc2/a11551.html#abf02cad15dabdcc5ed3df1fab0e87b6f", null ]
 ];

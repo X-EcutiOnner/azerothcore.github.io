@@ -1,6 +1,6 @@
 var a17087 =
 [
-    [ "HandlePeriodic", "df/d04/a17087.html#a27ad5fef0695f006c2f8795ac0fbce53", null ],
-    [ "PrepareAuraScript", "df/d04/a17087.html#a29b00511d9a215fd0e00702e7a2dca0c", null ],
-    [ "Register", "df/d04/a17087.html#a9753daf5cdc812e9027c1153b450686d", null ]
+    [ "HandleScriptEffect", "df/d04/a17087.html#ab9c289e946cfaf2b63f2526914d79812", null ],
+    [ "PrepareSpellScript", "df/d04/a17087.html#a832f8ab737254760fe2b91f19d119781", null ],
+    [ "Register", "df/d04/a17087.html#a86f620a16780cef2c09f45eefb6dad9c", null ]
 ];

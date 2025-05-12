@@ -1,11 +1,7 @@
 var a04951 =
 [
-    [ "~GameObjectModelOwnerBase", "d9/d31/a04951.html#a307c744710782fcb0d5c287b23c74d69", null ],
-    [ "DebugVisualizeCorner", "d9/d31/a04951.html#acf130fbdfb086a9c6d35d145116357c8", null ],
-    [ "GetDisplayId", "d9/d31/a04951.html#ae3eddc6c841c3644f50cb3300f80cee2", null ],
-    [ "GetOrientation", "d9/d31/a04951.html#a35c11d2346c5156b95558729d84b3fe8", null ],
-    [ "GetPhaseMask", "d9/d31/a04951.html#a6b55de1c8de5a50245d7e5a833766d0f", null ],
-    [ "GetPosition", "d9/d31/a04951.html#a82e89b7fac5f46a25519674930294ed8", null ],
-    [ "GetScale", "d9/d31/a04951.html#abf8e9a74f58ec34bc6f1f8d853100f69", null ],
-    [ "IsSpawned", "d9/d31/a04951.html#ad824da6970d512c344160714cd7ec434", null ]
+    [ "clear", "d9/d31/a04951.html#af2120a6bb6aa223baa117e5699c93012", null ],
+    [ "createOrGetMMapMgr", "d9/d31/a04951.html#aa7571dc833ba0d2dc6d8bc7bc4b47cdd", null ],
+    [ "InitializeDisabledMaps", "d9/d31/a04951.html#a6df048ce34ec1baed2cb35cedf67f5b2", null ],
+    [ "forbiddenMaps", "d9/d31/a04951.html#a2301f091e1f1e3359dbded7f054eb219", null ]
 ];

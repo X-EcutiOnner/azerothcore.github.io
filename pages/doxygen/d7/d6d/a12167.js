@@ -1,9 +1,6 @@
 var a12167 =
 [
-    [ "npc_flamewaker_priestAI", "d7/d6d/a12167.html#aa0508dda5bc365896128f088b6de30f4", null ],
-    [ "JustDied", "d7/d6d/a12167.html#ad1f51c4589abe6ef5bcf513d70e34a4c", null ],
-    [ "JustEngagedWith", "d7/d6d/a12167.html#a15fefb756ad1ae20257d4ed9cb1d3eca", null ],
-    [ "Reset", "d7/d6d/a12167.html#a3c3629a6c6987e861e40a893363d2508", null ],
-    [ "UpdateAI", "d7/d6d/a12167.html#a28c0ed65521f3d2150874ddc1b913933", null ],
-    [ "events", "d7/d6d/a12167.html#a7d769cc852a69fdf719cb7958c3d890c", null ]
+    [ "go_chromaggus_leverAI", "d3/ddb/a12171.html", "d3/ddb/a12171" ],
+    [ "go_chromaggus_lever", "d7/d6d/a12167.html#a88f8078cd5aa1863ca20c9b02a0e52d2", null ],
+    [ "GetAI", "d7/d6d/a12167.html#ae307b36029147b8385b3c40878d1a3e4", null ]
 ];

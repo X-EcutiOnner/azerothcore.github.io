@@ -1,12 +1,9 @@
 var a10399 =
 [
-    [ "Charges", "d7/d53/a10399.html#ada45d7e00efb3bf27afcf9db1ad4d813", null ],
-    [ "Count", "d7/d53/a10399.html#a6f31a3d750d5c5f1b316f05e7ad9dbe9", null ],
-    [ "EnchantmentID", "d7/d53/a10399.html#a249a204f5d72d42f562c989b1cb92fc9", null ],
-    [ "Flags", "d7/d53/a10399.html#a3ca816132a756d3dc939877c57f6045d", null ],
-    [ "ItemID", "d7/d53/a10399.html#a5dc7e8b40834dba07c63322d80ed73ae", null ],
-    [ "RandomPropertiesID", "d7/d53/a10399.html#ad98a20548478fe99f9d6d345c5a3b732", null ],
-    [ "RandomPropertiesSeed", "d7/d53/a10399.html#ae5d493dd4798e11f02d8f02a57ba4274", null ],
-    [ "Slot", "d7/d53/a10399.html#afcc0a78c2f9a3061830679fece476a64", null ],
-    [ "SocketEnchant", "d7/d53/a10399.html#a55545d4d1b752e4f08bd05350b22892c", null ]
+    [ "fX", "d7/d53/a10399.html#a53aeb6e82eea1dc4a4e5d8e99dfd3fc5", null ],
+    [ "fY", "d7/d53/a10399.html#a9b158e247014eec0d35e465ab9469ac7", null ],
+    [ "fZ", "d7/d53/a10399.html#a2e02f9738393aeb8cd62ac26dda8fc10", null ],
+    [ "uiCreatureEntry", "d7/d53/a10399.html#ac31436c40bd0bf375635e2ea604fbf61", null ],
+    [ "uiPointId", "d7/d53/a10399.html#acb4d9697a24d5c29deacdefe8eb0e267", null ],
+    [ "uiWaitTime", "d7/d53/a10399.html#a305620aad71152c1139a88dea05a1887", null ]
 ];

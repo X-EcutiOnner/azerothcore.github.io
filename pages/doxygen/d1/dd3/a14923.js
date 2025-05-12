@@ -1,13 +1,12 @@
 var a14923 =
 [
-    [ "boss_cthun", "d1/dd3/a14923.html#a287ee7b65708971e4fdfa7b814486935", null ],
-    [ "DoAction", "d1/dd3/a14923.html#a04ae38b67d358f1d34820b855aab3869", null ],
-    [ "JustDied", "d1/dd3/a14923.html#a3c6478e7de0e5a6f20f693a788bf8c86", null ],
-    [ "JustEngagedWith", "d1/dd3/a14923.html#a56fe3347ac41b67fb6912f372a5879ba", null ],
-    [ "Reset", "d1/dd3/a14923.html#a05bab8427cd4b4bfa50aee450e423f98", null ],
-    [ "ScheduleTasks", "d1/dd3/a14923.html#a5a0514e56217bb3b30b22b2681542adb", null ],
-    [ "SummonedCreatureDies", "d1/dd3/a14923.html#a49d76bb4cf30ee66fae6114313394961", null ],
-    [ "UpdateAI", "d1/dd3/a14923.html#a7d2685597f1eec2459fe509e5b97681f", null ],
-    [ "_fleshTentaclesKilled", "d1/dd3/a14923.html#a139de83ae488c40d40a4587509cd197d", null ],
-    [ "WisperTimer", "d1/dd3/a14923.html#abad23f1df9c6989e7a6d3d62143adb05", null ]
+    [ "npc_anubisath_guardian", "d1/dd3/a14923.html#a7db1771f9083e14c177e37d7bf6690c5", null ],
+    [ "DamageTaken", "d1/dd3/a14923.html#a2b7f307b5af7c50c86a68c4834f08ed4", null ],
+    [ "JustDied", "d1/dd3/a14923.html#a9f40c43ded16ad5934a5d5499f16ca76", null ],
+    [ "JustEngagedWith", "d1/dd3/a14923.html#a16d1e70f0ca0fcef972ac45f82e885e6", null ],
+    [ "Reset", "d1/dd3/a14923.html#af87cc86141964c48f9c57ed5bade36a5", null ],
+    [ "UpdateAI", "d1/dd3/a14923.html#a9a9c805c92a3e8e96914d01accb01051", null ],
+    [ "_enraged", "d1/dd3/a14923.html#a69b3b2cee4c84cd6dccd3465b555ad12", null ],
+    [ "_scheduler", "d1/dd3/a14923.html#ad44455c43d53426a152547d5b0770bbe", null ],
+    [ "_spells", "d1/dd3/a14923.html#aee75f952ed14f5f6fab1f5117f6b8b9e", null ]
 ];

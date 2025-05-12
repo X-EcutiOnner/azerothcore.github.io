@@ -1,6 +1,12 @@
 var a13235 =
 [
-    [ "spell_uldaman_stoned_AuraScript", "d3/dbf/a13239.html", "d3/dbf/a13239" ],
-    [ "spell_uldaman_stoned", "d6/de6/a13235.html#a9200bb1fa352ba0b19d35169ac7cb479", null ],
-    [ "GetAuraScript", "d6/de6/a13235.html#a89680bd42fb16974cf366706cc0fa867", null ]
+    [ "boss_sathrovarr", "d6/de6/a13235.html#a92bff830219f795d0aae4511f3d524bb", null ],
+    [ "CanAIAttack", "d6/de6/a13235.html#a053dcf604aed91ac7c888d682653da54", null ],
+    [ "DoAction", "d6/de6/a13235.html#ad0b549678e5b4eb7dfc1c1879885b45a", null ],
+    [ "JustDied", "d6/de6/a13235.html#aa6683f0ccb70260e24f79d86ec4ae2d1", null ],
+    [ "JustEngagedWith", "d6/de6/a13235.html#a1f3a74ac6f83673eed9b2a4276a5cf49", null ],
+    [ "KilledUnit", "d6/de6/a13235.html#a17e2a5d253536c25cd04269b71a5c0ed", null ],
+    [ "Reset", "d6/de6/a13235.html#a171c0e2c07ddf4c5271af8ed83f15257", null ],
+    [ "UpdateAI", "d6/de6/a13235.html#a99c5c8801333f2eaf6b9fee287588093", null ],
+    [ "_instance", "d6/de6/a13235.html#af7bfd6a65db102b5010f7b300e4acd27", null ]
 ];

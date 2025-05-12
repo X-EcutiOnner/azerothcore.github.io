@@ -1,8 +1,6 @@
 var a15847 =
 [
-    [ "RestoreFight", "d5/d68/a15847.html#a0149cccce8c3120b1e988e9a7c96f75c", null ],
-    [ "RestoreFight", "d5/d68/a15847.html#a0149cccce8c3120b1e988e9a7c96f75c", null ],
-    [ "Execute", "d5/d68/a15847.html#a019eb3c08dc8c3b97fc27b989ec8ab77", null ],
-    [ "Execute", "d5/d68/a15847.html#a019eb3c08dc8c3b97fc27b989ec8ab77", null ],
-    [ "_owner", "d5/d68/a15847.html#ae35c9b4547fcd7e8ea0f4b6ee4c637a0", null ]
+    [ "HandleScriptEffect", "d5/d68/a15847.html#aaa650972803d14e4d74be977430b04f6", null ],
+    [ "PrepareSpellScript", "d5/d68/a15847.html#a1e166c53e2051f3fae1b085a76a08c3f", null ],
+    [ "Register", "d5/d68/a15847.html#a3405c1b04f2e623662c7acaa6810278c", null ]
 ];

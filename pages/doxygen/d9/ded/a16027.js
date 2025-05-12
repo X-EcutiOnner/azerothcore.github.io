@@ -1,6 +1,10 @@
 var a16027 =
 [
-    [ "HandleScript", "d9/ded/a16027.html#a647f39eb125537cd7545ab4115be1091", null ],
-    [ "PrepareSpellScript", "d9/ded/a16027.html#a55dec84643f9bd536c7c73b5909ab303", null ],
-    [ "Register", "d9/ded/a16027.html#a0077abbe11092b9636c3bb7b5c367946", null ]
+    [ "spell_halion_combustion_consumption_aura", "d9/ded/a16027.html#a8b67aee76c7288748757e6bec7f4cb78", null ],
+    [ "AddMarkStack", "d9/ded/a16027.html#a337776c42bd6c42ecdffb508808ed070", null ],
+    [ "OnApply", "d9/ded/a16027.html#afeea3e5026e6d8472440c9cffac9bce9", null ],
+    [ "OnRemove", "d9/ded/a16027.html#a3959dbe8bbdf2d3953daf14072614708", null ],
+    [ "PrepareAuraScript", "d9/ded/a16027.html#a334f2211429dde989b6beb6c10a71464", null ],
+    [ "Register", "d9/ded/a16027.html#affc66a03e9d1eaef30a54b8a044734b8", null ],
+    [ "_markSpell", "d9/ded/a16027.html#a8236d9d50f267a12216d90f8041da439", null ]
 ];

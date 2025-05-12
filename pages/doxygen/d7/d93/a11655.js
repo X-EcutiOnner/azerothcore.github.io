@@ -1,8 +1,10 @@
 var a11655 =
 [
-    [ "boss_doomrelAI", "d6/d6a/a11659.html", "d6/d6a/a11659" ],
-    [ "boss_doomrel", "d7/d93/a11655.html#aee45a59f9a62f1d32a7dc344bd3c46c6", null ],
-    [ "GetAI", "d7/d93/a11655.html#a1b8a95208506f79c00ed40be2d51eb38", null ],
-    [ "OnGossipHello", "d7/d93/a11655.html#a3c544ae70c46a62ac7dd2fc5cca97c8b", null ],
-    [ "OnGossipSelect", "d7/d93/a11655.html#ae430a8fef70bd46267482a70084049c1", null ]
+    [ "mmaps_commandscript", "d7/d93/a11655.html#a1dbdfd26bdb685315a3012453080a56f", null ],
+    [ "GetCommands", "d7/d93/a11655.html#aec91072f9e651c9136bf1a405a9bb95a", null ],
+    [ "HandleMmapLoadedTilesCommand", "d7/d93/a11655.html#a40d5b7e733298210c686fe89490b6f61", null ],
+    [ "HandleMmapLocCommand", "d7/d93/a11655.html#aa3dc699456256d8b2ab9fdd97891bd96", null ],
+    [ "HandleMmapPathCommand", "d7/d93/a11655.html#a2c876439ad6d9ff7523f140d97743dea", null ],
+    [ "HandleMmapStatsCommand", "d7/d93/a11655.html#a823b56cdbb0c97176990bb01af9af9fc", null ],
+    [ "HandleMmapTestArea", "d7/d93/a11655.html#aaae2e5548a6bd9c670db0721ea7508bd", null ]
 ];

@@ -1,6 +1,7 @@
 var a16279 =
 [
-    [ "npc_toc_hunterAI", "d7/ddf/a16283.html", "d7/ddf/a16283" ],
-    [ "npc_toc_hunter", "d3/d09/a16279.html#a73d4113df71626af7b8294e08373965e", null ],
-    [ "GetAI", "d3/d09/a16279.html#a8b9d2a8186aefb3e411bd20c006207d4", null ]
+    [ "HandleAfterHit", "d3/d09/a16279.html#a6fc446385881ddb4c94de73199649816", null ],
+    [ "PrepareSpellScript", "d3/d09/a16279.html#acaed5d5902194f8ba9d2b286cd47d8d0", null ],
+    [ "Register", "d3/d09/a16279.html#aaae368b2f647aa6a56827550e50dafe1", null ],
+    [ "Validate", "d3/d09/a16279.html#ad4c84071b538b657fa1302982f8799b4", null ]
 ];

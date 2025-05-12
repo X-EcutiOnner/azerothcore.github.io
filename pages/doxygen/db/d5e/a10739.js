@@ -1,8 +1,8 @@
 var a10739 =
 [
-    [ "SkillDiscoveryEntry", "db/d5e/a10739.html#a54c0f12153c6e63a37e5da44d233b271", null ],
-    [ "SkillDiscoveryEntry", "db/d5e/a10739.html#a301cae078fe1943cae045e94dc3d38ad", null ],
-    [ "chance", "db/d5e/a10739.html#a71cf2c48937e5a2a3c6dd8c499a860a7", null ],
-    [ "reqSkillValue", "db/d5e/a10739.html#a61e0edc8fee1fa4045d846668d08449c", null ],
-    [ "spellId", "db/d5e/a10739.html#a75ca40729917317173b2953c8f47f833", null ]
+    [ "PlayObjectSound", "db/d5e/a10739.html#ab322044d36abddeb2fafbf99261bb70b", null ],
+    [ "PlayObjectSound", "db/d5e/a10739.html#a2c4d15099e991a9c2ddc5295536aa28e", null ],
+    [ "Write", "db/d5e/a10739.html#a1162715dd557a9f7b7c25a0331bc3b74", null ],
+    [ "SoundKitID", "db/d5e/a10739.html#a5e794706b8793d164a1189e9a6918735", null ],
+    [ "SourceObjectGUID", "db/d5e/a10739.html#a82b226eba66e569c1f377f529e511361", null ]
 ];

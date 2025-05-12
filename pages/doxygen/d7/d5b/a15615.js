@@ -1,13 +1,14 @@
 var a15615 =
 [
-    [ "npc_shadowpriest_sezzizAI", "d7/d5b/a15615.html#a14c5cee1c3032b8df4ad902eb273e9b0", null ],
-    [ "AttackStart", "d7/d5b/a15615.html#a8278a73501ea33164cbdef8599144f4a", null ],
-    [ "Reset", "d7/d5b/a15615.html#ab08cc327c4206e4526e77eea3bf17e0b", null ],
-    [ "UpdateAI", "d7/d5b/a15615.html#a1c0236b52d4cd87634659991e0dfc728", null ],
-    [ "_missingHPForHealTimer", "d7/d5b/a15615.html#a1171f0cd40bd3d7198bab15b12edc131", null ],
-    [ "_missingHPForRenewTimer", "d7/d5b/a15615.html#a8df4e1046348599cd5d1e31e3dc4eb0c", null ],
-    [ "_physicScreemTimer", "d7/d5b/a15615.html#a43de246b93f3380d5b79ffba6434aa5a", null ],
-    [ "_shadowBoltTimer", "d7/d5b/a15615.html#a34a18991ff2c0aafac15694ed9667193", null ],
-    [ "_summmonAddsCount", "d7/d5b/a15615.html#a8ce2b172757d1f7d188152ecc0fe30f5", null ],
-    [ "_summonAddsTimer", "d7/d5b/a15615.html#aff413ce6f4106d212f35fb7abbfa047e", null ]
+    [ "npc_ringoAI", "d7/d5b/a15615.html#a816dcad96afa6bec595f4b2dfe6fb11c", null ],
+    [ "ClearFaint", "d7/d5b/a15615.html#abd24108debcafafa601958824d44abbb", null ],
+    [ "MoveInLineOfSight", "d7/d5b/a15615.html#a6758ef2fe371338826dfc8582d6d03f0", null ],
+    [ "Reset", "d7/d5b/a15615.html#a5b2cf17642bd4a560abb54b8d42bcd25", null ],
+    [ "SetFaint", "d7/d5b/a15615.html#a09d3770aade34afe5a3a15e17cc64933", null ],
+    [ "SpellHit", "d7/d5b/a15615.html#ad30d1a9fb84cc777d48b1363cf571d72", null ],
+    [ "UpdateFollowerAI", "d7/d5b/a15615.html#a3b0effa8ec4d335a1d24d2238346b04a", null ],
+    [ "EndEventProgress", "d7/d5b/a15615.html#a4df563b83103bbd7e1f0d81a78f6401a", null ],
+    [ "EndEventTimer", "d7/d5b/a15615.html#a03f20114ca340c7c710bd77ee3c905ef", null ],
+    [ "FaintTimer", "d7/d5b/a15615.html#a37d12c7edf3100837c99e3fb572f4bf1", null ],
+    [ "SpraggleGUID", "d7/d5b/a15615.html#a3b58d34a1263355e7b11e22e0eef00a5", null ]
 ];

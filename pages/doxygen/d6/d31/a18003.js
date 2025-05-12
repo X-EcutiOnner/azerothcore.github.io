@@ -1,6 +1,6 @@
 var a18003 =
 [
-    [ "OrderWhelpTargetSelector", "d6/d31/a18003.html#a5e433367ebbf88c6bb8fef9d43eafcfa", null ],
-    [ "operator()", "d6/d31/a18003.html#abf98b730a2b794012c28b61ab8bb6b6c", null ],
-    [ "_owner", "d6/d31/a18003.html#ae475da3cca3d6288ce7df0b84d59005e", null ]
+    [ "FilterTargets", "d6/d31/a18003.html#ad5a004ddfdc888c38e95c3a0b49ca73e", null ],
+    [ "PrepareSpellScript", "d6/d31/a18003.html#a24466e7a04722cc7559b086f89d2edc8", null ],
+    [ "Register", "d6/d31/a18003.html#a9ecea534f3dffdedf7d23b3b2461509d", null ]
 ];

@@ -1,6 +1,11 @@
 var a15815 =
 [
-    [ "npc_twilight_summonAI", "d8/dac/a15819.html", "d8/dac/a15819" ],
-    [ "npc_twilight_summon", "d8/d1f/a15815.html#a2406ee3b02d9f1b1ebef54623d9a3c11", null ],
-    [ "GetAI", "d8/d1f/a15815.html#a98bf5ce96c25bc252acd46163644bf33", null ]
+    [ "spell_hadronox_summon_periodic_aura", "d8/d1f/a15815.html#afcca15cddf71c0d46bd811eab9174f1a", null ],
+    [ "HandlePeriodic", "d8/d1f/a15815.html#a048695baf71d307e5aaa00e54586c9f7", null ],
+    [ "OnApply", "d8/d1f/a15815.html#a4466547bc1a5259a33354f2008d6cce7", null ],
+    [ "PrepareAuraScript", "d8/d1f/a15815.html#a4205560054e5baed86aecba3b98fc202", null ],
+    [ "Register", "d8/d1f/a15815.html#a09efdcddaed4af2833139ca20ef94376", null ],
+    [ "Validate", "d8/d1f/a15815.html#a20827683249c17625242e205bb51f9e8", null ],
+    [ "_delay", "d8/d1f/a15815.html#a191d7eec948e0753835bd41eef66f1ec", null ],
+    [ "_spellEntry", "d8/d1f/a15815.html#a52e45512e2bbe34b0bdbfaa273aeb997", null ]
 ];

@@ -1,26 +1,59 @@
 var a02393 =
 [
-    [ "AzjolNerubScriptName", "d1/d29/a02393.html#a49c3c3627ce229fce6b1f55755bcb7d7", null ],
-    [ "DataHeader", "d1/d29/a02393.html#a042491ef36459046f3866e90f15aae0d", null ],
-    [ "ANData", "d1/d29/a02393.html#a38e14ca59c29a20c7d83feecae87365e", [
-      [ "DATA_KRIKTHIR_THE_GATEWATCHER_EVENT", "d1/d29/a02393.html#a38e14ca59c29a20c7d83feecae87365eafe7f087c1e8262a80b7f072fba6ae671", null ],
-      [ "DATA_HADRONOX_EVENT", "d1/d29/a02393.html#a38e14ca59c29a20c7d83feecae87365eae18e711c44710c678c33ec4816ecbcdf", null ],
-      [ "DATA_ANUBARAK_EVENT", "d1/d29/a02393.html#a38e14ca59c29a20c7d83feecae87365ea64e72a1a7491f71dc45c3ee0e6aba1a3", null ],
-      [ "MAX_ENCOUNTERS", "d1/d29/a02393.html#a38e14ca59c29a20c7d83feecae87365ea9cfa5bdc17e1d5a590d300b530b36a25", null ]
+    [ "ObjectGuidTraits< high >", "d5/de5/a08379.html", "d5/de5/a08379" ],
+    [ "PackedGuidReader", "d0/dfa/a08383.html", "d0/dfa/a08383" ],
+    [ "ObjectGuid", "d3/d9a/a08387.html", "d3/d9a/a08387" ],
+    [ "PackedGuid", "d1/d09/a08391.html", "d1/d09/a08391" ],
+    [ "ObjectGuidGeneratorBase", "d7/dd6/a08395.html", "d7/dd6/a08395" ],
+    [ "ObjectGuidGenerator< high >", "d4/d5f/a08399.html", "d4/d5f/a08399" ],
+    [ "std::hash< ObjectGuid >", "de/db2/a08403.html", "de/db2/a08403" ],
+    [ "GUID_TRAIT_GLOBAL", "d1/d29/a02393.html#a4d3dbad84884c4977ba2be1ac82cc142", null ],
+    [ "GUID_TRAIT_MAP_SPECIFIC", "d1/d29/a02393.html#acdd3815893762a2491365b8fd25c7283", null ],
+    [ "NUM_CLIENT_OBJECT_TYPES", "d1/d29/a02393.html#ae616985e1e68f294e055e2bced156ada", null ],
+    [ "PACKED_GUID_MIN_BUFFER_SIZE", "d1/d29/a02393.html#ac7c846a04172e6d96c6096780b5d05b0", null ],
+    [ "GuidDeque", "d1/d29/a02393.html#a393d9824dfb17afe3b82652e89eccc68", null ],
+    [ "GuidList", "d1/d29/a02393.html#a5951d383f157ff0ed6d23ecef2213a4b", null ],
+    [ "GuidSet", "d1/d29/a02393.html#a62874da4f73709809fa3c7609d3e30af", null ],
+    [ "GuidUnorderedSet", "d1/d29/a02393.html#a407d39fdbc20e1e06960539245ee6a25", null ],
+    [ "GuidVector", "d1/d29/a02393.html#a173958393e55b3150391dfb3a6d387ed", null ],
+    [ "HighGuid", "d1/d29/a02393.html#abe8666ac87665ba963053cdd2b014750", [
+      [ "Item", "d1/d29/a02393.html#abe8666ac87665ba963053cdd2b014750a7d74f3b92b19da5e606d737d339a9679", null ],
+      [ "Container", "d1/d29/a02393.html#abe8666ac87665ba963053cdd2b014750a0e7278cda02a9c0446dcc75a4df34eb2", null ],
+      [ "Player", "d1/d29/a02393.html#abe8666ac87665ba963053cdd2b014750a636da1d35e805b00eae0fcd8333f9234", null ],
+      [ "GameObject", "d1/d29/a02393.html#abe8666ac87665ba963053cdd2b014750a3d164a4fbbdd103bddb596268f741bae", null ],
+      [ "Transport", "d1/d29/a02393.html#abe8666ac87665ba963053cdd2b014750af5f0c488ed56cf789d19a13ffba8abe3", null ],
+      [ "Unit", "d1/d29/a02393.html#abe8666ac87665ba963053cdd2b014750a19c562a36aeb455d09534f93b4f5236f", null ],
+      [ "Pet", "d1/d29/a02393.html#abe8666ac87665ba963053cdd2b014750a7c986af4cf8f6e55a1f846dc498ce91d", null ],
+      [ "Vehicle", "d1/d29/a02393.html#abe8666ac87665ba963053cdd2b014750ad6af9c1eaff2a89ebd3f8d0c542be12b", null ],
+      [ "DynamicObject", "d1/d29/a02393.html#abe8666ac87665ba963053cdd2b014750a8e9e2acf3f592fab793f32c92fbf7bee", null ],
+      [ "Corpse", "d1/d29/a02393.html#abe8666ac87665ba963053cdd2b014750a417799dc63b3ebb2852970ae4b5c0f4a", null ],
+      [ "Mo_Transport", "d1/d29/a02393.html#abe8666ac87665ba963053cdd2b014750a50c0392a66a27a037ab10f870aa9b57a", null ],
+      [ "Instance", "d1/d29/a02393.html#abe8666ac87665ba963053cdd2b014750ad9a17c1c9e8ef6866e4dbeef41c741b2", null ],
+      [ "Group", "d1/d29/a02393.html#abe8666ac87665ba963053cdd2b014750a03937134cedab9078be39a77ee3a48a0", null ]
     ] ],
-    [ "ANIds", "d1/d29/a02393.html#a13c2be6ee4ddd01bcdde2acfa66080eb", [
-      [ "NPC_SKITTERING_SWARMER", "d1/d29/a02393.html#a13c2be6ee4ddd01bcdde2acfa66080eba9bed6273aaeebfba195695ffaccff429", null ],
-      [ "NPC_SKITTERING_INFECTIOR", "d1/d29/a02393.html#a13c2be6ee4ddd01bcdde2acfa66080ebaade67b0305f29a278aeb81b4317cd58b", null ],
-      [ "NPC_KRIKTHIR_THE_GATEWATCHER", "d1/d29/a02393.html#a13c2be6ee4ddd01bcdde2acfa66080eba9a8e964886187a715fc6d9e12652b582", null ],
-      [ "NPC_HADRONOX", "d1/d29/a02393.html#a13c2be6ee4ddd01bcdde2acfa66080ebadb575f56f42e4d47c262ab2dfd220c8a", null ],
-      [ "NPC_ANUB_AR_CHAMPION", "d1/d29/a02393.html#a13c2be6ee4ddd01bcdde2acfa66080eba43c41eeac44b6c1e9a8f5f60faf047cc", null ],
-      [ "NPC_ANUB_AR_NECROMANCER", "d1/d29/a02393.html#a13c2be6ee4ddd01bcdde2acfa66080eba85576368648a94fdc7883c9b73fe6fea", null ],
-      [ "NPC_ANUB_AR_CRYPTFIEND", "d1/d29/a02393.html#a13c2be6ee4ddd01bcdde2acfa66080eba145b39b904161cf071df0d8136bb855c", null ],
-      [ "GO_KRIKTHIR_DOORS", "d1/d29/a02393.html#a13c2be6ee4ddd01bcdde2acfa66080eba9c746a2553132cc145054c043a2fe64b", null ],
-      [ "GO_ANUBARAK_DOORS1", "d1/d29/a02393.html#a13c2be6ee4ddd01bcdde2acfa66080ebadf4da3d7a3b1a8ab02f2e587fd9a2316", null ],
-      [ "GO_ANUBARAK_DOORS2", "d1/d29/a02393.html#a13c2be6ee4ddd01bcdde2acfa66080ebaf614c816cc31f5a04d07c0c8a30274dc", null ],
-      [ "GO_ANUBARAK_DOORS3", "d1/d29/a02393.html#a13c2be6ee4ddd01bcdde2acfa66080ebaf1d64fad51ac6f98962bbdac3b4a47e0", null ],
-      [ "SPELL_WEB_WRAP_TRIGGER", "d1/d29/a02393.html#a13c2be6ee4ddd01bcdde2acfa66080eba5de2c77a1e59e329fcfa4828043c428b", null ]
+    [ "TypeID", "d1/d29/a02393.html#a183c40b2ba67065929d70b3987da4cc2", [
+      [ "TYPEID_OBJECT", "d1/d29/a02393.html#a183c40b2ba67065929d70b3987da4cc2a1f0252b8069f8868dfedfdb4fe45e30f", null ],
+      [ "TYPEID_ITEM", "d1/d29/a02393.html#a183c40b2ba67065929d70b3987da4cc2ab2bcf0ba3fcc0090223bf840eda90b28", null ],
+      [ "TYPEID_CONTAINER", "d1/d29/a02393.html#a183c40b2ba67065929d70b3987da4cc2afebf490e56b6f11276b1523008afa107", null ],
+      [ "TYPEID_UNIT", "d1/d29/a02393.html#a183c40b2ba67065929d70b3987da4cc2a93dfa528ffc48db4993fb7ac62696db9", null ],
+      [ "TYPEID_PLAYER", "d1/d29/a02393.html#a183c40b2ba67065929d70b3987da4cc2aca37d750899c40a5743285ccda2bba9c", null ],
+      [ "TYPEID_GAMEOBJECT", "d1/d29/a02393.html#a183c40b2ba67065929d70b3987da4cc2a91b74ac7ebfe7909332a6eec5054c60d", null ],
+      [ "TYPEID_DYNAMICOBJECT", "d1/d29/a02393.html#a183c40b2ba67065929d70b3987da4cc2a86e2d54e816ea646c9cda372df01dc68", null ],
+      [ "TYPEID_CORPSE", "d1/d29/a02393.html#a183c40b2ba67065929d70b3987da4cc2ab20e64ae3f5f5a5ecffa53fee57d7d2f", null ]
     ] ],
-    [ "GetAzjolNerubAI", "d1/d29/a02393.html#a19b3f42ba299e1f42de805f494cd5812", null ]
+    [ "TypeMask", "d1/d29/a02393.html#acfe503ba26d8a881f16958aaafd431e1", [
+      [ "TYPEMASK_OBJECT", "d1/d29/a02393.html#acfe503ba26d8a881f16958aaafd431e1a15c6345df35def281fc22632f52bc6a2", null ],
+      [ "TYPEMASK_ITEM", "d1/d29/a02393.html#acfe503ba26d8a881f16958aaafd431e1a213c6f64ff343595c13d0e808b75297d", null ],
+      [ "TYPEMASK_CONTAINER", "d1/d29/a02393.html#acfe503ba26d8a881f16958aaafd431e1a8898075ddeb644fdaa32c88c818958dd", null ],
+      [ "TYPEMASK_UNIT", "d1/d29/a02393.html#acfe503ba26d8a881f16958aaafd431e1a611a6f19a7f885d824ea5be71ffca2de", null ],
+      [ "TYPEMASK_PLAYER", "d1/d29/a02393.html#acfe503ba26d8a881f16958aaafd431e1ac68cdbc5c42fc63c5df6b7b0dd69a739", null ],
+      [ "TYPEMASK_GAMEOBJECT", "d1/d29/a02393.html#acfe503ba26d8a881f16958aaafd431e1ab64731f0031a7f58c1a56cbf45d6f2f4", null ],
+      [ "TYPEMASK_DYNAMICOBJECT", "d1/d29/a02393.html#acfe503ba26d8a881f16958aaafd431e1a3a699b841ec20fb9c6d7b99e9bf88108", null ],
+      [ "TYPEMASK_CORPSE", "d1/d29/a02393.html#acfe503ba26d8a881f16958aaafd431e1a94570a20b0854337a5f22641c81a5be9", null ],
+      [ "TYPEMASK_SEER", "d1/d29/a02393.html#acfe503ba26d8a881f16958aaafd431e1a5db3f5013b522d453811f6a1e70d9e96", null ]
+    ] ],
+    [ "operator<<", "d1/d29/a02393.html#a039758f4b57c94c411a4c3882334ada8", null ],
+    [ "operator<<", "d1/d29/a02393.html#a94ab551ce00fd82dea1532d47ad908bc", null ],
+    [ "operator>>", "d1/d29/a02393.html#a30aef535f2839648f0ae4648c746d3e2", null ],
+    [ "operator>>", "d1/d29/a02393.html#a95f3a6eef334b9fcdcaca879532c25d4", null ]
 ];

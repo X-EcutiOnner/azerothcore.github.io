@@ -1,8 +1,6 @@
 var a10855 =
 [
-    [ "DirectionType", "d7/d04/a10855.html#a8491033c0286895c2d4d3280cfd529f0", null ],
-    [ "ObjectType", "d7/d04/a10855.html#a20c29be1005aa52993d4ec0a13c36f4d", null ],
-    [ "ReferenceType", "d7/d04/a10855.html#a44e310a789c4c5a288f07c9254ad389a", null ],
-    [ "SelectionCategory", "d7/d04/a10855.html#a4a42ef329b6cfcfcd7fd4ce59e8f597c", null ],
-    [ "SelectionCheckType", "d7/d04/a10855.html#a35c8d221b47de13408a0256598fa9d63", null ]
+    [ "PetUnlearnedSpell", "d7/d04/a10855.html#aa2b125a271228aee0d942a207de170b7", null ],
+    [ "Write", "d7/d04/a10855.html#a11cf7780eba530026a0898bfafd27109", null ],
+    [ "SpellID", "d7/d04/a10855.html#adfca5feb5be2408e489edc44e9cd215b", null ]
 ];

@@ -1,7 +1,9 @@
 var a10075 =
 [
-    [ "SpellScriptLoader", "d5/d38/a10075.html#a0ae97b8f3cf24f46b98a121d35bdeadf", null ],
-    [ "GetAuraScript", "d5/d38/a10075.html#a9c60850e39ffe3d151a128b12777859d", null ],
-    [ "GetSpellScript", "d5/d38/a10075.html#a6f3a101a0517ba1440399809cf7f5b5b", null ],
-    [ "IsDatabaseBound", "d5/d38/a10075.html#ae60bf9957b950c7f5c9927f71510dc06", null ]
+    [ "entry", "d5/d38/a10075.html#a63e9b557b5e712d30580376ad811ff6c", null ],
+    [ "map", "d5/d38/a10075.html#a762951c4230f0b40a59071e20852bf77", null ],
+    [ "o", "d5/d38/a10075.html#a70e425f84949f6964a33250e6e9650ef", null ],
+    [ "x", "d5/d38/a10075.html#a46b691dd3a31a59f56a4a7b36a35a982", null ],
+    [ "y", "d5/d38/a10075.html#a38be6df7cf824ed47991c9fabb6fb06b", null ],
+    [ "z", "d5/d38/a10075.html#ade7151bc8f29d91e33e7c78790d7ea55", null ]
 ];

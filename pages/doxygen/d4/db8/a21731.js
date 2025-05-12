@@ -1,6 +1,6 @@
 var a21731 =
 [
-    [ "npc_heated_battleAI", "dc/d7b/a21735.html", "dc/d7b/a21735" ],
-    [ "npc_heated_battle", "d4/db8/a21731.html#aceafde04a60940c1027a6e838ffdc137", null ],
-    [ "GetAI", "d4/db8/a21731.html#af73fc1f330bf2fd224e53be39da1c9d3", null ]
+    [ "npc_q24545_wretched_ghoulAI", "dc/d7b/a21735.html", "dc/d7b/a21735" ],
+    [ "npc_q24545_wretched_ghoul", "d4/db8/a21731.html#a3842b5bd89c911d29d561307113fb032", null ],
+    [ "GetAI", "d4/db8/a21731.html#ada973de0ff7295f0441cbd6b6aaca9ac", null ]
 ];

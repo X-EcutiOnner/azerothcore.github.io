@@ -1,6 +1,6 @@
 var a16203 =
 [
-    [ "spell_gen_leeching_swarm_AuraScript", "dd/d1b/a16207.html", "dd/d1b/a16207" ],
-    [ "spell_gen_leeching_swarm", "dc/d86/a16203.html#a13eb1c202d4f253e9866f462e5c59ac1", null ],
-    [ "GetAuraScript", "dc/d86/a16203.html#a2c47410d2b61739f6f01ac8b2d2a0c9c", null ]
+    [ "boss_grand_championAI", "dd/d1b/a16207.html", "dd/d1b/a16207" ],
+    [ "boss_grand_champion", "dc/d86/a16203.html#a9577f8af5e234b3aebd7567841b867e2", null ],
+    [ "GetAI", "dc/d86/a16203.html#aa60972482ef16329d7ffc0a7ccf2d03e", null ]
 ];

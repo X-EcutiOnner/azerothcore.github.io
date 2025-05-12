@@ -1,7 +1,8 @@
 var a12803 =
 [
-    [ "boss_apothecary_hummelAI", "d5/db8/a12807.html", "d5/db8/a12807" ],
-    [ "boss_apothecary_hummel", "d6/d64/a12803.html#af1672c0b7f67d9013e3769a7009c2ee9", null ],
-    [ "GetAI", "d6/d64/a12803.html#a87a01f4d6eaac7c5e1795133e8aa1ccd", null ],
-    [ "OnQuestReward", "d6/d64/a12803.html#a86d23ff3569e5e86b8787bb3ea7816c7", null ]
+    [ "npc_death_knight_initiateAI", "d5/db8/a12807.html", "d5/db8/a12807" ],
+    [ "npc_death_knight_initiate", "d6/d64/a12803.html#a0c1b552035bed7be9af1fbdf8205b4b6", null ],
+    [ "GetAI", "d6/d64/a12803.html#ac38e0ed0ea1eac8e0de6f08664cb095a", null ],
+    [ "OnGossipHello", "d6/d64/a12803.html#a24f1b91ad0a69e4468e812747225d303", null ],
+    [ "OnGossipSelect", "d6/d64/a12803.html#ab0712bc84003b5eb72f11b49ef6e57a7", null ]
 ];

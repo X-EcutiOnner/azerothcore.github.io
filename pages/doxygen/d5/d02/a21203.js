@@ -1,6 +1,6 @@
 var a21203 =
 [
-    [ "HandleDummy", "d5/d02/a21203.html#a9a4cee98bd023da694ac8fe76cd06078", null ],
-    [ "PrepareSpellScript", "d5/d02/a21203.html#abb80edac9217487c4be085f12295691e", null ],
-    [ "Register", "d5/d02/a21203.html#a2e483fb5c3e176f694eb7c39548a9903", null ]
+    [ "instance_vault_of_archavon_InstanceMapScript", "d4/d4a/a21207.html", "d4/d4a/a21207" ],
+    [ "instance_vault_of_archavon", "d5/d02/a21203.html#a0be8d95ff0f3b751e6f833689e436310", null ],
+    [ "GetInstanceScript", "d5/d02/a21203.html#abb955a8873a3a3021e164225dd1f857a", null ]
 ];

@@ -1,7 +1,7 @@
 var a18251 =
 [
-    [ "OnPeriodic", "dd/d27/a18251.html#adfbfcf4ad8671ca4eaa439705f7b6c2a", null ],
-    [ "PrepareAuraScript", "dd/d27/a18251.html#a5bb82c03f7c34e6febd3fe8aa57d4723", null ],
-    [ "Register", "dd/d27/a18251.html#a0fc7ca43a0d82058fc04277742231388", null ],
-    [ "Validate", "dd/d27/a18251.html#ae52c7c189a45a0bb5f3a627f502e3730", null ]
+    [ "CheckTargetCount", "dd/d27/a18251.html#a44f558248f944464c773105728cffbca", null ],
+    [ "PrepareSpellScript", "dd/d27/a18251.html#a2ae927358c2480aecd18c1f3c2e6c1c7", null ],
+    [ "Register", "dd/d27/a18251.html#aeda833ca8483d337311086b9d0a14081", null ],
+    [ "Validate", "dd/d27/a18251.html#aee84751e352dbfc12472fc15924c48fa", null ]
 ];

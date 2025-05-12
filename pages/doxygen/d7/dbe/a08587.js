@@ -1,10 +1,10 @@
 var a08587 =
 [
-    [ "mapId", "d7/dbe/a08587.html#a828d8b93918ea8ba695e0c5e597c855d", null ],
-    [ "name", "d7/dbe/a08587.html#a9dd0dacb5825cf3afd117c22ac5ebf21", null ],
-    [ "orientation", "d7/dbe/a08587.html#a49b4a83290dbe39ab0be79a8ae2f03a6", null ],
-    [ "position_x", "d7/dbe/a08587.html#a65e7390a1dbb615a155c4f163b830e11", null ],
-    [ "position_y", "d7/dbe/a08587.html#a3d3f398cd23566dce721fefeae7af33c", null ],
-    [ "position_z", "d7/dbe/a08587.html#a9ff9a74b00016df6df7c27ebce8ff3fb", null ],
-    [ "wnameLow", "d7/dbe/a08587.html#ac63cbb609eadc584fe61d33fb709c4d6", null ]
+    [ "Index", "d7/dbe/a08587.html#a28b25d822326a1b7d5ec7f95ce084bac", [
+      [ "REGULAR", "d7/dbe/a08587.html#a28b25d822326a1b7d5ec7f95ce084bacaff2524a88b92db0ec25cc1f17b28cf68", null ],
+      [ "ADDON", "d7/dbe/a08587.html#a28b25d822326a1b7d5ec7f95ce084baca0d74e752005cb5fe12644048433ea5cb", null ],
+      [ "MAX", "d7/dbe/a08587.html#a28b25d822326a1b7d5ec7f95ce084baca6ca77c7f76d3ccd18db1d4c0f4e070a5", null ]
+    ] ],
+    [ "Count", "d7/dbe/a08587.html#a0dc1d4dc63d5289fde92bbb2c28a7e2e", null ],
+    [ "Time", "d7/dbe/a08587.html#a20b83dcc96256f2ab16326b2b8ec925e", null ]
 ];

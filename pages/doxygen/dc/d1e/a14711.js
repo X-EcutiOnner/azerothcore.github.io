@@ -1,10 +1,8 @@
 var a14711 =
 [
-    [ "CurrId", "dc/d1e/a14711.html#a126d1c0e7d475a07acd91de471cb7cab", null ],
-    [ "DestId", "dc/d1e/a14711.html#a7b12c520ee50ab29e5047a1c71b22729", null ],
-    [ "o", "dc/d1e/a14711.html#a94c284d63e66765c4d484c8edea8fdb8", null ],
-    [ "spellId", "dc/d1e/a14711.html#a7240ecd6f50a6db0e2be4eb4e55b3a48", null ],
-    [ "x", "dc/d1e/a14711.html#a41c7bdb057d984f552a41835651d84f5", null ],
-    [ "y", "dc/d1e/a14711.html#abe083129d7a4e514e97eeae7cff40af5", null ],
-    [ "z", "dc/d1e/a14711.html#ac49d886d09e2ebf8ccf8abd59a9649ec", null ]
+    [ "npc_thrall_old_hillsbradAI", "d8/d9d/a14715.html", "d8/d9d/a14715" ],
+    [ "npc_thrall_old_hillsbrad", "dc/d1e/a14711.html#a3e6fa750b095af3beac806a619e18328", null ],
+    [ "GetAI", "dc/d1e/a14711.html#a7b7baeb3e2e33dcb4ffb0af5d1f5930c", null ],
+    [ "OnGossipHello", "dc/d1e/a14711.html#a9b3f622ab9c0dc06011cb36cd084f2e7", null ],
+    [ "OnGossipSelect", "dc/d1e/a14711.html#a17fcb00850503903f430506654e035c0", null ]
 ];

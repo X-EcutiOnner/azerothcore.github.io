@@ -1,18 +1,24 @@
 var a04160 =
 [
-    [ "AuctionHouseScript", "d1/daa/a10212.html", "d1/daa/a10212" ],
-    [ "AuctionHouseHook", "dc/d95/a04160.html#a12159e90d998de411ceb193c223f26c9", [
-      [ "AUCTIONHOUSEHOOK_ON_AUCTION_ADD", "dc/d95/a04160.html#a12159e90d998de411ceb193c223f26c9a421df825a260ea03c56931355ddf1ab0", null ],
-      [ "AUCTIONHOUSEHOOK_ON_AUCTION_REMOVE", "dc/d95/a04160.html#a12159e90d998de411ceb193c223f26c9a734ce8ea184a341e1f4f2cb623ca92f2", null ],
-      [ "AUCTIONHOUSEHOOK_ON_AUCTION_SUCCESSFUL", "dc/d95/a04160.html#a12159e90d998de411ceb193c223f26c9a362d6596f9e6e244770e45e6a370c4ff", null ],
-      [ "AUCTIONHOUSEHOOK_ON_AUCTION_EXPIRE", "dc/d95/a04160.html#a12159e90d998de411ceb193c223f26c9ad05ff999bda4877b0113b2e6eca79a25", null ],
-      [ "AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_WON_MAIL", "dc/d95/a04160.html#a12159e90d998de411ceb193c223f26c9a35dc9893c9907c4dcc2e82d4c76d676f", null ],
-      [ "AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_SALE_PENDING_MAIL", "dc/d95/a04160.html#a12159e90d998de411ceb193c223f26c9a7e23595d7f6e6e1395197011e8f9a223", null ],
-      [ "AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_SUCCESSFUL_MAIL", "dc/d95/a04160.html#a12159e90d998de411ceb193c223f26c9a8dfad4f6d84ae3e60da1bda679769112", null ],
-      [ "AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_EXPIRED_MAIL", "dc/d95/a04160.html#a12159e90d998de411ceb193c223f26c9a8134031bb2abf85f09fdb58f05e2beff", null ],
-      [ "AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_OUTBIDDED_MAIL", "dc/d95/a04160.html#a12159e90d998de411ceb193c223f26c9ab8f41919bd7182973e7f7a170e9d2d2f", null ],
-      [ "AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_CANCELLED_TO_BIDDER_MAIL", "dc/d95/a04160.html#a12159e90d998de411ceb193c223f26c9a295a1203b4a90662e8073a6261f3ef3e", null ],
-      [ "AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_UPDATE", "dc/d95/a04160.html#a12159e90d998de411ceb193c223f26c9a44327f4a6ffbc4e61c13b3464ed692a9", null ],
-      [ "AUCTIONHOUSEHOOK_END", "dc/d95/a04160.html#a12159e90d998de411ceb193c223f26c9af4325d8b8ea36fcf62bcf309a84918fc", null ]
-    ] ]
+    [ "MMAP::MeshData", "d9/dfe/a28631.html", "d9/dfe/a28631" ],
+    [ "MMAP::TerrainBuilder", "d8/d4a/a28635.html", "d8/d4a/a28635" ],
+    [ "Grid", "dc/d95/a04160.html#a6ddcf7a168396ad1ecedfc4e5fe04c09", [
+      [ "GRID_V8", "dc/d95/a04160.html#a6ddcf7a168396ad1ecedfc4e5fe04c09a1b3d969edeab4d39be8a3a59ebca6e0b", null ],
+      [ "GRID_V9", "dc/d95/a04160.html#a6ddcf7a168396ad1ecedfc4e5fe04c09a90e846a47ab162703bf2dc5664a61289", null ]
+    ] ],
+    [ "Spot", "dc/d95/a04160.html#aa0140172b3856ff5a4e0db0227a41165", [
+      [ "TOP", "dc/d95/a04160.html#aa0140172b3856ff5a4e0db0227a41165aecf8447d11b71464b1a20efa4b87cef1", null ],
+      [ "RIGHT", "dc/d95/a04160.html#aa0140172b3856ff5a4e0db0227a41165a7ba16840bb5803d51ebe597bc881851e", null ],
+      [ "LEFT", "dc/d95/a04160.html#aa0140172b3856ff5a4e0db0227a41165a5bf23f4bd225a5f4caadf6820404332b", null ],
+      [ "BOTTOM", "dc/d95/a04160.html#aa0140172b3856ff5a4e0db0227a41165a8f0736dff0eeeaeeb131796615680d04", null ],
+      [ "ENTIRE", "dc/d95/a04160.html#aa0140172b3856ff5a4e0db0227a41165a333ed540d45ff2a6bc5ac8a954e93f12", null ]
+    ] ],
+    [ "GRID_PART_SIZE", "dc/d95/a04160.html#a39bc2d4fa649e77addef85b06c49b369", null ],
+    [ "GRID_SIZE", "dc/d95/a04160.html#a16e4fdf7de4239156a5a8eb83dcc9e8c", null ],
+    [ "INVALID_MAP_LIQ_HEIGHT", "dc/d95/a04160.html#a44bbf7085ddd1deacaae673ea4ec357c", null ],
+    [ "INVALID_MAP_LIQ_HEIGHT_MAX", "dc/d95/a04160.html#a26a6da9ce81eb096651bf47cb90f947f", null ],
+    [ "V8_SIZE", "dc/d95/a04160.html#a6918d13eba00db309998162fbff2fb7c", null ],
+    [ "V8_SIZE_SQ", "dc/d95/a04160.html#a94a0ee7c4f225dfc488737a7ba825bae", null ],
+    [ "V9_SIZE", "dc/d95/a04160.html#a32c90e1638c0f8693e2fc95201d2ec3f", null ],
+    [ "V9_SIZE_SQ", "dc/d95/a04160.html#a7eb8c24e8759cfd1ebd37b1efc72618b", null ]
 ];

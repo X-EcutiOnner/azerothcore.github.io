@@ -1,6 +1,7 @@
 var a21139 =
 [
-    [ "instance_utgarde_pinnacle_InstanceMapScript", "df/de9/a21143.html", "df/de9/a21143" ],
-    [ "instance_utgarde_pinnacle", "d0/dce/a21139.html#a70c1528c9c1b0d830cc7af7debd5721b", null ],
-    [ "GetInstanceScript", "d0/dce/a21139.html#a41bd06d5f42b09193c5f1b2bbb2323ac", null ]
+    [ "HandleScript", "d0/dce/a21139.html#a47b991c20c523d151893fefd9d487714", null ],
+    [ "PrepareSpellScript", "d0/dce/a21139.html#ab2db47d0a2694c0734db600e810e190d", null ],
+    [ "Register", "d0/dce/a21139.html#a3c2e7eb24506b43730f2e971fab81c75", null ],
+    [ "Validate", "d0/dce/a21139.html#a89d601f6036fe38238767281f3427e54", null ]
 ];

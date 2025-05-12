@@ -1,6 +1,6 @@
 var a17863 =
 [
-    [ "DespawnSelf", "da/da6/a17863.html#a7009dd0e842898d03caa89e92447749d", null ],
-    [ "PrepareAuraScript", "da/da6/a17863.html#a00f0379b4e4fadf73bed7d483e406ac5", null ],
-    [ "Register", "da/da6/a17863.html#a8f21cb8ab1145fe32a78a682445cfc2d", null ]
+    [ "npc_little_oozeAI", "da/d1d/a17867.html", "da/d1d/a17867" ],
+    [ "npc_little_ooze", "da/da6/a17863.html#a9b0849057c1d3dd9f6507b9c80e67a66", null ],
+    [ "GetAI", "da/da6/a17863.html#a3e56c6dbad6239485897655a4bfbbe07", null ]
 ];

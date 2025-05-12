@@ -1,10 +1,6 @@
 var a24751 =
 [
-    [ "HandleEffectApply", "d9/da1/a24751.html#ac977d07e0b054af33345538f10d80c56", null ],
-    [ "HandleEffectRemove", "d9/da1/a24751.html#acd9c460acb60eae5db8874c246014147", null ],
-    [ "PrepareAuraScript", "d9/da1/a24751.html#a1527c59b43a26db344e5a4d2900ea9b0", null ],
-    [ "Register", "d9/da1/a24751.html#ab0de0c0459d3414f69a0dde7669b6f79", null ],
-    [ "_hasFlag", "d9/da1/a24751.html#adb5058ba54ea53db9fdc9251a44619aa", null ],
-    [ "_itemId", "d9/da1/a24751.html#a28c06ecd352466e0d1076d9eb4fa8e9b", null ],
-    [ "_modelId", "d9/da1/a24751.html#ae77b9ae8a1092e0dc144e83db4c0758c", null ]
+    [ "PrepareSpellScript", "d9/da1/a24751.html#ae8ef8bea1a6afa3f810c476e038bacc6", null ],
+    [ "RecalculateDamage", "d9/da1/a24751.html#a856fdecdde1c68a163caf61afb2b0b90", null ],
+    [ "Register", "d9/da1/a24751.html#a7f8c5c4920a87605b716e9e85b43ef47", null ]
 ];

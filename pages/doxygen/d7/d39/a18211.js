@@ -1,8 +1,6 @@
 var a18211 =
 [
-    [ "Load", "d7/d39/a18211.html#aabd997d6db5fd38b1fdd97d90b1347e9", null ],
-    [ "OnRemove", "d7/d39/a18211.html#a43b23e5c53cca872a26737d790f2893d", null ],
-    [ "PrepareAuraScript", "d7/d39/a18211.html#ae51bcb37894240c6fd064cd329698a55", null ],
-    [ "Register", "d7/d39/a18211.html#ad6247c7f8abf41cd6190d5252ed6834e", null ],
-    [ "Validate", "d7/d39/a18211.html#a45696018a8810cf1f11fbddcd853d1f4", null ]
+    [ "npc_valkyr_shadowguardAI", "dc/d4e/a18215.html", "dc/d4e/a18215" ],
+    [ "npc_valkyr_shadowguard", "d7/d39/a18211.html#a8ee90e21499eebf240c57419454c3829", null ],
+    [ "GetAI", "d7/d39/a18211.html#ad84cb094a17e4fb88d3e883c98ce7f5a", null ]
 ];

@@ -1,18 +1,18 @@
 var a19027 =
 [
-    [ "boss_thaddiusAI", "d9/da5/a19027.html#a8a25d56cb38b755fec6f18a9616632e2", null ],
-    [ "DoAction", "d9/da5/a19027.html#aa9697fa990b9d84f3cc9496df1cb4234", null ],
-    [ "JustDied", "d9/da5/a19027.html#a2ec7bfa46d972cdd857289693acdc965", null ],
-    [ "JustEngagedWith", "d9/da5/a19027.html#a52ec355e0ddd2a29b06b473303941b46", null ],
-    [ "JustSummoned", "d9/da5/a19027.html#a1aa9a09089a2070eda14fda1bc51f0fe", null ],
-    [ "KilledUnit", "d9/da5/a19027.html#a94f7852267620b0a77c2e1003f080589", null ],
-    [ "Reset", "d9/da5/a19027.html#ae7b69b5e83fdbaa3df25dda989eeaf07", null ],
-    [ "UpdateAI", "d9/da5/a19027.html#a5eef08082268fa181d4d396fc952dbcd", null ],
-    [ "ballLightningEnabled", "d9/da5/a19027.html#a487582d59f0d717c3ec53679ad36f99a", null ],
-    [ "events", "d9/da5/a19027.html#a8bf6ea9e5d3d198bccb293d4b4eac784", null ],
-    [ "pInstance", "d9/da5/a19027.html#a969d782f2813cb4ed16abfac0f88576d", null ],
-    [ "resetTimer", "d9/da5/a19027.html#aba9f23389d5f6724883dc9f7e607a351", null ],
-    [ "reviveTimer", "d9/da5/a19027.html#a11388e745e81c3ad8ba7d97812a17203", null ],
-    [ "summons", "d9/da5/a19027.html#a7487f79c379ef29b72959708284cfd0d", null ],
-    [ "summonTimer", "d9/da5/a19027.html#a82288ef27f720b5f0f84bfd0ac6b9ccb", null ]
+    [ "boss_nothAI", "d9/da5/a19027.html#a0a1f8e88396b04d070c4034b2419f0bb", null ],
+    [ "EnterEvadeMode", "d9/da5/a19027.html#af0c4cfb04564b23840ee88dfa1badf55", null ],
+    [ "IsInRoom", "d9/da5/a19027.html#a8e9c27804ae01e46285a3bed42091754", null ],
+    [ "JustDied", "d9/da5/a19027.html#a18dd73c178eff3170d371c4bd4062b76", null ],
+    [ "JustEngagedWith", "d9/da5/a19027.html#aed044bf36d56b2241e591eb45999900b", null ],
+    [ "JustSummoned", "d9/da5/a19027.html#a61e814ce0a861ba98ccc21d8d6df128a", null ],
+    [ "KilledUnit", "d9/da5/a19027.html#a1d5b013cdbaab702a85fc1d344ad6f6a", null ],
+    [ "Reset", "d9/da5/a19027.html#a311754fa1fa1b112272395179e3b1bff", null ],
+    [ "StartBalconyPhase", "d9/da5/a19027.html#ac890e5f4e6e9e40d78e75d2c86bd6740", null ],
+    [ "StartGroundPhase", "d9/da5/a19027.html#a3ae5f948e2faf051b1cb88cd638c612e", null ],
+    [ "SummonHelper", "d9/da5/a19027.html#abfe6252bec42fdc3d7738aef3dd2ec74", null ],
+    [ "UpdateAI", "d9/da5/a19027.html#a87f4e825fb8f9f48991d5dcf94af78e3", null ],
+    [ "events", "d9/da5/a19027.html#a3f3e282c6ee1d259f1f2a401f6195251", null ],
+    [ "summons", "d9/da5/a19027.html#a4e95ad18274331e402124d4a8424cb18", null ],
+    [ "timesInBalcony", "d9/da5/a19027.html#a249c96d4230bd2b43c4be733317c4bc4", null ]
 ];

@@ -1,8 +1,6 @@
 var a18547 =
 [
-    [ "npc_arthas_teleport_visualAI", "d8/d5d/a18547.html#a9b9b2ba725cde9aec898244a9e50c394", null ],
-    [ "Reset", "d8/d5d/a18547.html#a27155b8880a2a86b733bcd074e977b59", null ],
-    [ "UpdateAI", "d8/d5d/a18547.html#a23c200f2c7b9f5d02bed7af37bc69c33", null ],
-    [ "_events", "d8/d5d/a18547.html#a986f19145e46f5975f22a84a3e1b10ee", null ],
-    [ "_instance", "d8/d5d/a18547.html#a25bc023e061a0845421a652b571a6e1e", null ]
+    [ "npc_captain_brandonAI", "d8/d5d/a18547.html#a1fe09b93be658660ba3c127c142e2ee6", null ],
+    [ "Reset", "d8/d5d/a18547.html#a13226b321707eee9faf5f073c81403e4", null ],
+    [ "UpdateAI", "d8/d5d/a18547.html#a721f8f7395cd57d4dba74f66ae40169f", null ]
 ];

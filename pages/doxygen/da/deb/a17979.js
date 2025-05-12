@@ -1,6 +1,7 @@
 var a17979 =
 [
-    [ "npc_rimefangAI", "d2/d89/a17983.html", "d2/d89/a17983" ],
-    [ "npc_rimefang", "da/deb/a17979.html#af8ab4e318726b5250de56e3c6d09fcd2", null ],
-    [ "GetAI", "da/deb/a17979.html#a2fce9c36b7ef1861c9dcb5db2cacf438", null ]
+    [ "PeriodicTick", "da/deb/a17979.html#a79b63e30f37df8a961b57c4b10669800", null ],
+    [ "PrepareAuraScript", "da/deb/a17979.html#a091a72cf97d5fbd6ffbf95ad3e409aa6", null ],
+    [ "Register", "da/deb/a17979.html#a860e2bc444f5aeb78837cd1a6eff40a3", null ],
+    [ "Validate", "da/deb/a17979.html#a32cbe3a7eedf7b37229168a6154167b0", null ]
 ];

@@ -1,7 +1,9 @@
 var a09835 =
 [
-    [ "ownerGuid", "d7/dad/a09835.html#a7c66ffa9f54768a0e81f61e5bcdde014", null ],
-    [ "petitionGuid", "d7/dad/a09835.html#a1bbf412a221b76c4a20765d9a6612182", null ],
-    [ "petitionName", "d7/dad/a09835.html#a91c81356e9aa77641eaa881cd04af5af", null ],
-    [ "petitionType", "d7/dad/a09835.html#aeaf6c421d7545cf98d88b4e552dcff23", null ]
+    [ "TransportAnimation", "d7/dad/a09835.html#a775b84b54deefd38af40222afd82d572", null ],
+    [ "GetAnimNode", "d7/dad/a09835.html#a73b56750c90afce38dbf57793bae16f3", null ],
+    [ "GetAnimRotation", "d7/dad/a09835.html#aa2c892f14712828acaa85fa6e6d919bb", null ],
+    [ "Path", "d7/dad/a09835.html#a7c45df781dda8058d281a2cf7e5fe5fb", null ],
+    [ "Rotations", "d7/dad/a09835.html#a5fa771fb487c437d7d6229eadf7d90c3", null ],
+    [ "TotalTime", "d7/dad/a09835.html#a59a31ffc2e642a3950b0509130a76ad4", null ]
 ];

@@ -1,7 +1,9 @@
 var a06027 =
 [
-    [ "SpellTargetSelector", "db/dc9/a06027.html#a9f1f441e542500dc43c58b97729f7f51", null ],
-    [ "operator()", "db/dc9/a06027.html#a53c27c23f2d9846903e1ff9b479a36b1", null ],
-    [ "_caster", "db/dc9/a06027.html#ac5b0844c975a6b3ff3c14a843fd28fba", null ],
-    [ "_spellInfo", "db/dc9/a06027.html#a309ed04630cfb92810b7f51376b3917c", null ]
+    [ "AddonInfo", "db/dc9/a06027.html#a60ea66ed93b64c9e182226954a514f53", null ],
+    [ "CRC", "db/dc9/a06027.html#a7f0f2d817a2189b3acee5999f154ba60", null ],
+    [ "Enabled", "db/dc9/a06027.html#ace9f109c395ed84cc01ca4381222c25b", null ],
+    [ "Name", "db/dc9/a06027.html#a45692257c72286e670ab8c9c50014335", null ],
+    [ "State", "db/dc9/a06027.html#a5301b19e44d68540434574f023e62f46", null ],
+    [ "UsePublicKeyOrCRC", "db/dc9/a06027.html#a75e016fa7abee24757c89b97330a6192", null ]
 ];

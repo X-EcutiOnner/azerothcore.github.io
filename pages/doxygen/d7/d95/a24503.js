@@ -1,9 +1,7 @@
 var a24503 =
 [
-    [ "HandleAfterHit", "d7/d95/a24503.html#ae1b4b01bd1a6903bcd594d2191e2770b", null ],
-    [ "Load", "d7/d95/a24503.html#a7f0dae9dd4ead6ea10e8343810671282", null ],
-    [ "PrepareSpellScript", "d7/d95/a24503.html#a293ff5d232851bce7cbc4a83aa8253b5", null ],
-    [ "Register", "d7/d95/a24503.html#ae9eeb78d006bc01dd05fdd726dea9b90", null ],
-    [ "Validate", "d7/d95/a24503.html#afdbb71f81aacc9ac1a5119707952ec52", null ],
-    [ "_executed", "d7/d95/a24503.html#a2fe77cc280a5fa3bb324d969f1081b65", null ]
+    [ "CheckClass", "d7/d95/a24503.html#a931d7a6aa2f1b574c225d3e803edbab4", null ],
+    [ "HandleScript", "d7/d95/a24503.html#a4f4f7004be5629efdc48b52b6667edba", null ],
+    [ "PrepareSpellScript", "d7/d95/a24503.html#a599ce758681c5196bd40e4c7b86635cc", null ],
+    [ "Register", "d7/d95/a24503.html#ab184b23aa446c826db39928eb3ff3ecc", null ]
 ];

@@ -1,12 +1,17 @@
 var a14131 =
 [
-    [ "npc_alexstraza_the_lifebinder", "d3/de1/a14131.html#a7c30258540803bde75843cb070b6a288", null ],
-    [ "MoveInLineOfSight", "d3/de1/a14131.html#af5960eb1cf63fb0b5b8dc2bfd86b8e47", null ],
-    [ "Reset", "d3/de1/a14131.html#a8144ed8ada8cd4fb11d74393ed0c525a", null ],
-    [ "SetData", "d3/de1/a14131.html#aead5ae4ffda9732829e39b8c485a3c3e", null ],
-    [ "UpdateAI", "d3/de1/a14131.html#ad13b21d571833210b1c069b7ea8bea05", null ],
-    [ "orphanGUID", "d3/de1/a14131.html#a7c2901f01e4fcafaea9c00ff58dbeaf3", null ],
-    [ "phase", "d3/de1/a14131.html#a98216e43888854ac93f22169a0e253e5", null ],
-    [ "playerGUID", "d3/de1/a14131.html#a063fc935bc8f46f5487e9c338e497ec4", null ],
-    [ "timer", "d3/de1/a14131.html#a41791aaa24102383fe4d3f43c714c3bb", null ]
+    [ "npc_coren_direbrew", "d3/de1/a14131.html#a51ab68feb3dde3fb23c708afcdcdbd34", null ],
+    [ "CanBeSeen", "d3/de1/a14131.html#ad4db2a85c92f69e54036f4133396f201", null ],
+    [ "DamageTaken", "d3/de1/a14131.html#a782a08ed525eab8a9e9044dc1d5814b3", null ],
+    [ "DoAction", "d3/de1/a14131.html#a2d417a9310b5b75df09879678d967794", null ],
+    [ "JustDied", "d3/de1/a14131.html#a39913e601440fcd6ffbc77ad7c204ac8", null ],
+    [ "JustSummoned", "d3/de1/a14131.html#a2cb3d9de6ccdffa73f709b82cfae790a", null ],
+    [ "MoveInLineOfSight", "d3/de1/a14131.html#a9c48c7e4a97998c2091992f51b734679", null ],
+    [ "Reset", "d3/de1/a14131.html#a49eb75eb89742ee70ca957d4e2f0b5d0", null ],
+    [ "sGossipSelect", "d3/de1/a14131.html#ad8b665606985984ad633f66ad9b73bd2", null ],
+    [ "SummonedCreatureDies", "d3/de1/a14131.html#aafdc2d271d1e267f5b3deba7d00e07fc", null ],
+    [ "SummonSister", "d3/de1/a14131.html#a358fe5922a85ea3eee6abe9451869b66", null ],
+    [ "UpdateAI", "d3/de1/a14131.html#af6615292fa853883979dc37c6e247289", null ],
+    [ "_events", "d3/de1/a14131.html#a81ee26c215b7581a13faf56ee041b9fe", null ],
+    [ "_summons", "d3/de1/a14131.html#a261d4c4dea56748e66752cb11588086a", null ]
 ];

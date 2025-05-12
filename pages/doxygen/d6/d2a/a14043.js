@@ -1,6 +1,6 @@
 var a14043 =
 [
-    [ "HandleDummyEffect", "d6/d2a/a14043.html#a3860ad8a34e37601f7a4cef395f7ab2a", null ],
-    [ "PrepareSpellScript", "d6/d2a/a14043.html#a1c69fb2fd3fa623d62647fca738d27d6", null ],
-    [ "Register", "d6/d2a/a14043.html#ad1cbf7ed8f7d119bb56d06fb62358458", null ]
+    [ "instance_zulgurub_InstanceMapScript", "df/d5d/a14047.html", "df/d5d/a14047" ],
+    [ "instance_zulgurub", "d6/d2a/a14043.html#aedc8c70e880ed9ccaf58b7154f9ba341", null ],
+    [ "GetInstanceScript", "d6/d2a/a14043.html#a51f17d1135c7e97ff082d0d95ec3ffa4", null ]
 ];

@@ -1,6 +1,10 @@
 var a20795 =
 [
-    [ "boss_yoggsaron_llaneAI", "d7/dd4/a20799.html", "d7/dd4/a20799" ],
-    [ "boss_yoggsaron_llane", "dd/d34/a20795.html#a671df488222583aa12bc1c75695918b9", null ],
-    [ "GetAI", "dd/d34/a20795.html#a1e7d1b4bce0ca1dbfbbe8c044b451b92", null ]
+    [ "boss_yoggsaron_immortal_guardianAI", "dd/d34/a20795.html#a84a3ffe43a4ce49cd543f770594cd683", null ],
+    [ "DamageTaken", "dd/d34/a20795.html#aec157bcf0628a7301bcb91dd62bcc484", null ],
+    [ "Reset", "dd/d34/a20795.html#a763f772414f00c0f83402e1a635b6bd0", null ],
+    [ "SpellHit", "dd/d34/a20795.html#a60721961f2eb5e91c15890252166b872", null ],
+    [ "UpdateAI", "dd/d34/a20795.html#a7fa550f683fcf16f5bd70a307bffcb2b", null ],
+    [ "_spellTimer", "dd/d34/a20795.html#a4ed360380707195e10753436020b67eb", null ],
+    [ "_visualTimer", "dd/d34/a20795.html#a8c382c37aaa3d20cfc0fe604af52bef4", null ]
 ];

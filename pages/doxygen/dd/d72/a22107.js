@@ -1,13 +1,7 @@
 var a22107 =
 [
-    [ "npc_artruis_the_hearthlessAI", "dd/d72/a22107.html#ad64e86b038ea3c0cf119aa18493dceec", null ],
-    [ "JustDied", "dd/d72/a22107.html#a22baa7603ffb4a7b118f2a2f5de88633", null ],
-    [ "JustEngagedWith", "dd/d72/a22107.html#aafedd2a49c60923294a1e9de7012fb3a", null ],
-    [ "MoveInLineOfSight", "dd/d72/a22107.html#a1a592dd9f1834cc5efe63c227dcfe372", null ],
-    [ "Reset", "dd/d72/a22107.html#af24b77b5d154f5289105b67714f9d3a9", null ],
-    [ "SummonedCreatureDies", "dd/d72/a22107.html#a40041d3c1557effa4173eb660ca87a09", null ],
-    [ "SummonsAction", "dd/d72/a22107.html#aa34f581358c094d87a1c7259f4981b65", null ],
-    [ "UpdateAI", "dd/d72/a22107.html#a4795db544ac7e9702b2ac9094b969e7f", null ],
-    [ "events", "dd/d72/a22107.html#a151e92cb78e752e10896bd7586c539dc", null ],
-    [ "summons", "dd/d72/a22107.html#a24fd0452b154e7e4a2615691aa810d8d", null ]
+    [ "npc_engineer_heliceAI", "dd/d0f/a22111.html", "dd/d0f/a22111" ],
+    [ "npc_engineer_helice", "dd/d72/a22107.html#a445ed6b85e95db817c8117d5473a3c9d", null ],
+    [ "GetAI", "dd/d72/a22107.html#ad48e3c1ed22a71e8a45273e1338dd0f8", null ],
+    [ "OnQuestAccept", "dd/d72/a22107.html#ae0979d68744372d5d4669b6f014eb123", null ]
 ];

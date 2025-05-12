@@ -1,9 +1,8 @@
 var a14415 =
 [
-    [ "boss_azuregosAI", "d2/d07/a14415.html#a839ab1e096d30062d64c1c515a7462a4", null ],
-    [ "JustDied", "d2/d07/a14415.html#aea4d204173b7882d2d9acf8204410947", null ],
-    [ "JustEngagedWith", "d2/d07/a14415.html#ac17c09d4de27e3b3a299bb8288ef79f8", null ],
-    [ "KilledUnit", "d2/d07/a14415.html#aeefc791e17d2a687f8beae809c44d123", null ],
-    [ "Reset", "d2/d07/a14415.html#a3f9584a7cf4e27f57eec2c5babb7aff1", null ],
-    [ "UpdateAI", "d2/d07/a14415.html#aafdfce2d21d5890ead413a2d9fe1b65d", null ]
+    [ "CheckCast", "d2/d07/a14415.html#a1e63e7798ab5e55415eb0277f3160fa3", null ],
+    [ "HandleDummy", "d2/d07/a14415.html#ad39da0510c21855dd74abd93f33621c9", null ],
+    [ "PrepareSpellScript", "d2/d07/a14415.html#a727093fec8cc8422cbbaa79d821338c8", null ],
+    [ "Register", "d2/d07/a14415.html#a8cc68fadf4ae20a9de24c75d2f61301f", null ],
+    [ "Validate", "d2/d07/a14415.html#aacd60538c8410fc313a09b1044ad6c7a", null ]
 ];

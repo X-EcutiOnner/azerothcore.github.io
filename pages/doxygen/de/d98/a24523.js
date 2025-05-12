@@ -1,7 +1,7 @@
 var a24523 =
 [
-    [ "CheckClass", "de/d98/a24523.html#a931d7a6aa2f1b574c225d3e803edbab4", null ],
-    [ "HandleScript", "de/d98/a24523.html#a4f4f7004be5629efdc48b52b6667edba", null ],
-    [ "PrepareSpellScript", "de/d98/a24523.html#a599ce758681c5196bd40e4c7b86635cc", null ],
-    [ "Register", "de/d98/a24523.html#ab184b23aa446c826db39928eb3ff3ecc", null ]
+    [ "CalcDamage", "de/d98/a24523.html#a5e06d1aa2864c296b2680a83a9f2187f", null ],
+    [ "PrepareSpellScript", "de/d98/a24523.html#a80a748b6a18d26004b04a4486df1ebe3", null ],
+    [ "Register", "de/d98/a24523.html#a857a010e6426e931ca872f66803b99b9", null ],
+    [ "Validate", "de/d98/a24523.html#ab64625ce305efb9dc92780c945b4fd62", null ]
 ];

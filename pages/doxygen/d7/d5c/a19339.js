@@ -1,6 +1,8 @@
 var a19339 =
 [
-    [ "HandleDamageCalc", "d7/d5c/a19339.html#a71b88fbad5acbba47028dd1ff82b4836", null ],
-    [ "PrepareSpellScript", "d7/d5c/a19339.html#a754da297cd5801616e24bf2d802d0b38", null ],
-    [ "Register", "d7/d5c/a19339.html#a231f29ea69a354ddb2963cb4ef9a3f4e", null ]
+    [ "npc_centrifuge_constructAI", "d7/d5c/a19339.html#a9219f4955ae82ca7f401ea1c63f66b09", null ],
+    [ "DamageTaken", "d7/d5c/a19339.html#aa568418de267a99108698e79baa1b3f4", null ],
+    [ "JustEngagedWith", "d7/d5c/a19339.html#ac6ecbb17624c2747253c68a50b93c40f", null ],
+    [ "Reset", "d7/d5c/a19339.html#a2f7750cea2f59d794c85e20b703370af", null ],
+    [ "UpdateAI", "d7/d5c/a19339.html#a28316416ad6c56d83c9e878511256445", null ]
 ];

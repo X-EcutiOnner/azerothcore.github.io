@@ -1,6 +1,9 @@
 var a21847 =
 [
-    [ "npc_mrfloppyAI", "d3/d9f/a21851.html", "d3/d9f/a21851" ],
-    [ "npc_mrfloppy", "d0/de6/a21847.html#a0515ca75aba9b7f6f5577b53e7520f6e", null ],
-    [ "GetAI", "d0/de6/a21847.html#a88590566309f3fc155eb6dc26055a161", null ]
+    [ "npc_wounded_skirmisher", "d0/de6/a21847.html#a30fe2d901df0cfd9b66f3dbd6a1e6aea", null ],
+    [ "Initialize", "d0/de6/a21847.html#ae5fab920fcb16b57e0ed53a1177d319b", null ],
+    [ "JustEngagedWith", "d0/de6/a21847.html#a80357b71a1eccdcdce8c8bea87de1b66", null ],
+    [ "Reset", "d0/de6/a21847.html#acca266640c099718d2a0fd4f6a3c47ab", null ],
+    [ "SpellHit", "d0/de6/a21847.html#a891e879af5da1f181c94e528c59a81f1", null ],
+    [ "UpdateAI", "d0/de6/a21847.html#a52f8e7f8df05504cad4b4438c50814a4", null ]
 ];

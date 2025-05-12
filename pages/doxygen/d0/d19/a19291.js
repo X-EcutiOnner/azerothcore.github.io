@@ -1,6 +1,15 @@
 var a19291 =
 [
-    [ "instance_oculus_InstanceMapScript", "d2/d08/a19295.html", "d2/d08/a19295" ],
-    [ "instance_oculus", "d0/d19/a19291.html#a404205ea7106531ea57307c40b9589bb", null ],
-    [ "GetInstanceScript", "d0/d19/a19291.html#ae6d28dfd615e79d4308e4384b7c8857f", null ]
+    [ "boss_eregosAI", "d0/d19/a19291.html#a5b09dacbddd6075c2ebf4d62a387a8b6", null ],
+    [ "DamageTaken", "d0/d19/a19291.html#a7a4b4443aed576f080a56a27e15edfd4", null ],
+    [ "JustDied", "d0/d19/a19291.html#ade16be2804b857fc8e93a62d4be42380", null ],
+    [ "JustEngagedWith", "d0/d19/a19291.html#a1544782732beba5d7114c3bb70419ae1", null ],
+    [ "JustSummoned", "d0/d19/a19291.html#a33ef5a080e457f4e08e7997b467b0974", null ],
+    [ "KilledUnit", "d0/d19/a19291.html#a30ad32a4a63ae17eef4fc703a6749d38", null ],
+    [ "MoveInLineOfSight", "d0/d19/a19291.html#ac622481abb0190bdc7654b383766a9ed", null ],
+    [ "Reset", "d0/d19/a19291.html#aeec469c2c9d0ad27461478ee57c30c56", null ],
+    [ "UpdateAI", "d0/d19/a19291.html#a2a190fdb6b1c9ed4eba2b9e536c5cf36", null ],
+    [ "events", "d0/d19/a19291.html#ae6f1f2e3146525596c3dbb646283b744", null ],
+    [ "pInstance", "d0/d19/a19291.html#abf0b366d7b0931ccc30711a33736dda8", null ],
+    [ "shiftNumber", "d0/d19/a19291.html#a16c90dba1f0a7f4cc2025e294dbac455", null ]
 ];

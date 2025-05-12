@@ -1,10 +1,16 @@
 var a13503 =
 [
-    [ "npc_lady_sylvanas_windrunner_bfuAI", "d8/d32/a13503.html#af7d495f489979690615d091bbd9d539b", null ],
-    [ "CanAIAttack", "d8/d32/a13503.html#af332a66852c9499912d8ef4959f394f5", null ],
-    [ "InitializeAI", "d8/d32/a13503.html#a66fcb4b5130ff03f1926eec3b4d9ff6a", null ],
-    [ "JustRespawned", "d8/d32/a13503.html#a70b83dd31e8a8214b5d09f9a4ca7347a", null ],
-    [ "Reset", "d8/d32/a13503.html#a2c5e519bd2a1699b74811c92bb217d20", null ],
-    [ "UpdateAI", "d8/d32/a13503.html#ae1e9308f730ac948f96d4fceba914cdb", null ],
-    [ "_events", "d8/d32/a13503.html#a7078f4c552f741afdc8ecbd1746e31c4", null ]
+    [ "npc_rinjiAI", "d8/d32/a13503.html#ab613818b92530269f0802077eccc92d0", null ],
+    [ "DoSpawnAmbush", "d8/d32/a13503.html#af2535d7364641fadc98bca91ace9c906", null ],
+    [ "JustEngagedWith", "d8/d32/a13503.html#ae5ca00ee9baead3392a9239dfb68d377", null ],
+    [ "JustRespawned", "d8/d32/a13503.html#a471f2e8da91639d4e68ad64a11d7b950", null ],
+    [ "JustSummoned", "d8/d32/a13503.html#a09d65e7bd5a76552208eee920cfcb4f9", null ],
+    [ "Reset", "d8/d32/a13503.html#ada230a1b7b0f3c8b2b41c706856681b8", null ],
+    [ "sQuestAccept", "d8/d32/a13503.html#a15b9a0756ae6cebac690c8bb997e99d2", null ],
+    [ "UpdateEscortAI", "d8/d32/a13503.html#a60f05b58b115f3f2ea11206778893547", null ],
+    [ "WaypointReached", "d8/d32/a13503.html#a9463060a57b85113b71482c8a0974f60", null ],
+    [ "_IsByOutrunner", "d8/d32/a13503.html#adecc4eb9f90969621b52b97ff594558d", null ],
+    [ "postEventCount", "d8/d32/a13503.html#a601f142bd2a04ed303611044bac91035", null ],
+    [ "postEventTimer", "d8/d32/a13503.html#a5154e551143e81d431f706ad07b78ca0", null ],
+    [ "spawnId", "d8/d32/a13503.html#a3fc84d1e0f5243c6e8f292ddcac15ace", null ]
 ];

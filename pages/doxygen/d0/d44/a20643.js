@@ -1,6 +1,6 @@
 var a20643 =
 [
-    [ "npc_xt002_life_sparkAI", "d0/d4b/a20647.html", "d0/d4b/a20647" ],
-    [ "npc_xt002_life_spark", "d0/d44/a20643.html#a9644718d192708e391b833468a0ff21e", null ],
-    [ "GetAI", "d0/d44/a20643.html#a09a1ce332d55fad146947c94bb53f564", null ]
+    [ "BoomEvent", "d0/d44/a20643.html#aa9b7a8785f382068bb4510ffc0b43004", null ],
+    [ "Execute", "d0/d44/a20643.html#a1a870bea5c8e0a24a8ecd347a862ee75", null ],
+    [ "_me", "d0/d44/a20643.html#a30de77ee751f1c10231088cb84942342", null ]
 ];

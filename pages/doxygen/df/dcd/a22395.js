@@ -1,6 +1,5 @@
 var a22395 =
 [
-    [ "npc_drakuru_shacklesAI", "d0/dff/a22399.html", "d0/dff/a22399" ],
-    [ "npc_drakuru_shackles", "df/dcd/a22395.html#a2b15a214b34d86597cba09b17654e4ff", null ],
-    [ "GetAI", "df/dcd/a22395.html#a90ce98de4630771858cd3b79264a28f9", null ]
+    [ "OutdoorPvP_eastern_plaguelands", "df/dcd/a22395.html#a5178152ee493eb90b1c1c0f611c6cd92", null ],
+    [ "GetOutdoorPvP", "df/dcd/a22395.html#abc4e99dfa8a600ef578b77ffc3956ada", null ]
 ];

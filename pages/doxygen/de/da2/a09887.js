@@ -1,10 +1,9 @@
 var a09887 =
 [
-    [ "QuestStatusData", "de/da2/a09887.html#ae71725a7f75e10aacb6f4a9ca4b72f27", null ],
-    [ "CreatureOrGOCount", "de/da2/a09887.html#aa5892dc0744a41ac565568307f12ad35", null ],
-    [ "Explored", "de/da2/a09887.html#a734f6a61aa35c77689d33031e88f0c0b", null ],
-    [ "ItemCount", "de/da2/a09887.html#a466999cea52f65bf58916bc34750bf95", null ],
-    [ "PlayerCount", "de/da2/a09887.html#a170a1e54fe45b7fd0c7934f1309f7969", null ],
-    [ "Status", "de/da2/a09887.html#a4ce7af3a64737d7961b6dfa19189c932", null ],
-    [ "Timer", "de/da2/a09887.html#a16343f7a162e5b7b6a1a18345420c77a", null ]
+    [ "ChaseAngle", "de/da2/a09887.html#a0744c615f437514a52b5a26fb717013a", null ],
+    [ "IsAngleOkay", "de/da2/a09887.html#aec86c653850655b723e5224ea20b0e21", null ],
+    [ "LowerBound", "de/da2/a09887.html#a2f8296cadbada4322ec9c754aed4a5ec", null ],
+    [ "UpperBound", "de/da2/a09887.html#a275d01ce57b23d42d4150b10c8433dee", null ],
+    [ "RelativeAngle", "de/da2/a09887.html#a810a730ae905bfa296dbe6c1e4b86416", null ],
+    [ "Tolerance", "de/da2/a09887.html#a2bb42885da594380cb742c29b6518ea3", null ]
 ];

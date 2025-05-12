@@ -1,7 +1,10 @@
 var a14083 =
 [
-    [ "HandleScriptEffect", "df/dd9/a14083.html#aaad3c8870d8ad748e3ac07287da32e84", null ],
-    [ "PrepareSpellScript", "df/dd9/a14083.html#a3d906994c11e52e89c842189be73ddfd", null ],
-    [ "Register", "df/dd9/a14083.html#a4cdab36e2265c696207a39e16549ab13", null ],
-    [ "Validate", "df/dd9/a14083.html#a8aaf57bd54d3b2beb48b4e29053c1125", null ]
+    [ "npc_brewfest_super_brew_trigger", "df/dd9/a14083.html#a3d2189978683150b1c431fa0fd637358", null ],
+    [ "AttackStart", "df/dd9/a14083.html#a9ca158a2317a599cd4af64dad6ef04cc", null ],
+    [ "JustEngagedWith", "df/dd9/a14083.html#a61be52cb8ba0cc10285820ad5324816e", null ],
+    [ "MoveInLineOfSight", "df/dd9/a14083.html#aedd26ea4a274df9eb27f9f4a22670f1e", null ],
+    [ "Reset", "df/dd9/a14083.html#a5abf05543247a4f1209fe2a5bebb5d64", null ],
+    [ "UpdateAI", "df/dd9/a14083.html#a46db84e1eab29e7f4bf99d377962ad12", null ],
+    [ "timer", "df/dd9/a14083.html#a2ebb06175e3142cca156e57e8386fe02", null ]
 ];

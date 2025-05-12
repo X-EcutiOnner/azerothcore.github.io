@@ -1,5 +1,6 @@
 var a13979 =
 [
-    [ "go_brazier_of_madness", "df/d2e/a13979.html#aeb900e575be02244e62c6e5e4153c855", null ],
-    [ "GossipHello", "df/d2e/a13979.html#aba3af326b01cd045523434aec189fd47", null ]
+    [ "OnRemove", "df/d2e/a13979.html#a2a745fd8afa0d3d18684a9b8b091eb7e", null ],
+    [ "PrepareAuraScript", "df/d2e/a13979.html#a01eb4b37925b9c2fb8ce82d9808c270f", null ],
+    [ "Register", "df/d2e/a13979.html#ad2ae9bfa13c625608af9042584a9bfb8", null ]
 ];

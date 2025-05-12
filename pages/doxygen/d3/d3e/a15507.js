@@ -1,8 +1,13 @@
 var a15507 =
 [
-    [ "npc_pluckyAI", "d2/df7/a15511.html", "d2/df7/a15511" ],
-    [ "npc_plucky", "d3/d3e/a15507.html#a86bb2992b8af5893987145117aaf3608", null ],
-    [ "GetAI", "d3/d3e/a15507.html#a51e73f4e1f618aee5a000e31328efefc", null ],
-    [ "OnGossipHello", "d3/d3e/a15507.html#a3443f3e8c2b3fcc96955ab2e55e7fd61", null ],
-    [ "OnGossipSelect", "d3/d3e/a15507.html#a88fa465246b4c657b921ebdc96f7a112", null ]
+    [ "npc_aquementasAI", "d3/d3e/a15507.html#aad63986cdb8a65c528af3ccd114d2041", null ],
+    [ "JustEngagedWith", "d3/d3e/a15507.html#a2c12ee9c0bb94a1fcfa23c4279aea72f", null ],
+    [ "Reset", "d3/d3e/a15507.html#af71a196ba667c2a8f05940ec7ec43b5e", null ],
+    [ "SendItem", "d3/d3e/a15507.html#a60bafbd70783411236dcf3d0bfe244de", null ],
+    [ "UpdateAI", "d3/d3e/a15507.html#adc5936d7648e05c98a2cdc9998aa4c6a", null ],
+    [ "AquaJetTimer", "d3/d3e/a15507.html#a8506acc69436af869d1404bd95109e68", null ],
+    [ "FrostShockTimer", "d3/d3e/a15507.html#ad52c62a0fd8de98b194596dbc998c03d", null ],
+    [ "isFriendly", "d3/d3e/a15507.html#a9ac02cfc998bda26a5c531a9f7dbf7c4", null ],
+    [ "SendItemTimer", "d3/d3e/a15507.html#a3a0883b43056b176ef2ae55673adacf3", null ],
+    [ "SwitchFactionTimer", "d3/d3e/a15507.html#a46f64b9883ae30c3f8d677a3b85a8c6f", null ]
 ];

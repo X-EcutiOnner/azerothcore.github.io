@@ -1,6 +1,9 @@
 var a15035 =
 [
-    [ "HandleOnHit", "d3/de5/a15035.html#abf5a21f1c88241024e6d3b3c5bffe449", null ],
-    [ "PrepareSpellScript", "d3/de5/a15035.html#aa78fc03dacb373c5108e6a5d92e035c6", null ],
-    [ "Register", "d3/de5/a15035.html#a1e608d67914c0071a913d96d70c625d6", null ]
+    [ "boss_fankriss", "d3/de5/a15035.html#ab6b0ee6c1605aaf148dddd6a6f4788b9", null ],
+    [ "JustEngagedWith", "d3/de5/a15035.html#a9eaae719a271a95f64ac8076fe807c13", null ],
+    [ "Reset", "d3/de5/a15035.html#af84010ee103eb81c1e269b03fc640f81", null ],
+    [ "SummonHatchlingWaves", "d3/de5/a15035.html#a91420e51be346e1b9cfa4efbdec00d76", null ],
+    [ "SummonWorms", "d3/de5/a15035.html#ada23537921c3a11195450db89eb8fcfe", null ],
+    [ "summonWormSpells", "d3/de5/a15035.html#a4f9722f1c6aa27be798d4bacbdb5fac6", null ]
 ];

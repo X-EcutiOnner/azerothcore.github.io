@@ -1,7 +1,6 @@
 var a06031 =
 [
-    [ "NonTankTargetSelector", "d8/da2/a06031.html#ac8d9ecc1fa9a29dc54e33eae9c1fb8ce", null ],
-    [ "operator()", "d8/da2/a06031.html#a3a4cf85033650b1d31e9f93ec8e74b22", null ],
-    [ "_playerOnly", "d8/da2/a06031.html#a59a14629522e0a3850991b1852d368ee", null ],
-    [ "_source", "d8/da2/a06031.html#a314c5cb35708814844a5c8f72d91511f", null ]
+    [ "SavedAddon", "d8/da2/a06031.html#a6252c2ac491d0ebd9e84556f26cfa8cd", null ],
+    [ "CRC", "d8/da2/a06031.html#a7d04d21a29aa589429aab0d95172ca95", null ],
+    [ "Name", "d8/da2/a06031.html#a075de88ce6e643cffb7c5bb55f7b1095", null ]
 ];

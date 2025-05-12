@@ -1,13 +1,10 @@
 var a11071 =
 [
-    [ "PlayerTextBuilder", "d3/d6e/a11071.html#a0740c581636009448fe2c29084db41ae", null ],
-    [ "operator()", "d3/d6e/a11071.html#a64d2905971ecd645e364a774f320a721", null ],
-    [ "_gender", "d3/d6e/a11071.html#aece205d3d523dcf6fefbdd9914943723", null ],
-    [ "_language", "d3/d6e/a11071.html#a934d4a519c2c7b4017805b3bc24a4714", null ],
-    [ "_msgType", "d3/d6e/a11071.html#af546f2788870b8b10b3405695ef81171", null ],
-    [ "_source", "d3/d6e/a11071.html#a9fe9f865b0ba84b5497e63947893533e", null ],
-    [ "_talker", "d3/d6e/a11071.html#a8a8cd00cc76e048500800938a773aa06", null ],
-    [ "_target", "d3/d6e/a11071.html#ac97cf187d079c5162e47bebb7024faa5", null ],
-    [ "_textGroup", "d3/d6e/a11071.html#ab44fe12e73da36acb1199987e8573467", null ],
-    [ "_textId", "d3/d6e/a11071.html#a17b33a9a05a77722219a85a71f3bbc5e", null ]
+    [ "TriggeredByAuraSpellData", "d3/d6e/a11071.html#a3f4704eed73af1e37a3d09434cfcddae", null ],
+    [ "Init", "d3/d6e/a11071.html#a782e0056967e006748318af3112c0e43", null ],
+    [ "operator bool", "d3/d6e/a11071.html#a85d4782b76b060c172aaa6f914d400da", null ],
+    [ "operator!", "d3/d6e/a11071.html#af7290a4c37b1829a98e436486fa8b6cd", null ],
+    [ "effectIndex", "d3/d6e/a11071.html#a9bbee8d48d4beb8a21721a10e0380c41", null ],
+    [ "spellInfo", "d3/d6e/a11071.html#af58f62fb168e9da7011f7b570f08e977", null ],
+    [ "tickNumber", "d3/d6e/a11071.html#afbb1ffd006dc6eb00ccd65add87b1b22", null ]
 ];

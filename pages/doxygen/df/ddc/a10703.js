@@ -1,7 +1,7 @@
 var a10703 =
 [
-    [ "Player", "df/ddc/a10703.html#a7f4241aa9ecc051c75f779af132a52ed", null ],
-    [ "WorldSession", "df/ddc/a10703.html#a65b5c30bf4f5f118a199e378d903aaf6", null ],
-    [ "FactionChange", "df/ddc/a10703.html#adff657ead29df26ead5e20a8ecf44e87", null ],
-    [ "Race", "df/ddc/a10703.html#a98d5fd43205a0c9e2d3be75d384ce00c", null ]
+    [ "GuildBankSetTabText", "df/ddc/a10703.html#aba353d3f94a88b71f49b9c0dc096be2c", null ],
+    [ "Read", "df/ddc/a10703.html#a24f580f6addcd08945c05016b3f0e544", null ],
+    [ "Tab", "df/ddc/a10703.html#ada6707c2105410d78d4335dbf4747141", null ],
+    [ "TabText", "df/ddc/a10703.html#a9bb8c3f539fdcf389caf57ed818c6164", null ]
 ];

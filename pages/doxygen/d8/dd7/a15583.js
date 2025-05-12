@@ -1,6 +1,8 @@
 var a15583 =
 [
-    [ "HandleOpenLock", "d8/dd7/a15583.html#a32bfb203e9ecfbcfa75f6c3e7a17fade", null ],
-    [ "PrepareSpellScript", "d8/dd7/a15583.html#a646a42455b6a46c9f7cbb4b0229122cd", null ],
-    [ "Register", "d8/dd7/a15583.html#a5dcac6f609ec93074ec3ce195101f592", null ]
+    [ "npc_pluckyAI", "d2/d15/a15587.html", "d2/d15/a15587" ],
+    [ "npc_plucky", "d8/dd7/a15583.html#a86bb2992b8af5893987145117aaf3608", null ],
+    [ "GetAI", "d8/dd7/a15583.html#a51e73f4e1f618aee5a000e31328efefc", null ],
+    [ "OnGossipHello", "d8/dd7/a15583.html#a3443f3e8c2b3fcc96955ab2e55e7fd61", null ],
+    [ "OnGossipSelect", "d8/dd7/a15583.html#a88fa465246b4c657b921ebdc96f7a112", null ]
 ];

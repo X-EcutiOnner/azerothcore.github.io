@@ -1,4 +1,4 @@
 var a04202 =
 [
-    [ "BattlegroundMapScript", "d4/d29/a10216.html", "d4/d29/a10216" ]
+    [ "wdtGetPlainName", "d1/d8f/a04202.html#aec756087655d9d993d4475947742ba56", null ]
 ];

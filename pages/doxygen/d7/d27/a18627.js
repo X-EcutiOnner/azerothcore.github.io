@@ -1,7 +1,6 @@
 var a18627 =
 [
-    [ "HandleDummy", "d7/d27/a18627.html#a4bfc155129bd80c94b4b59474f30d748", null ],
-    [ "PrepareSpellScript", "d7/d27/a18627.html#a9c72772f9d17b34562bd11418d67872d", null ],
-    [ "Register", "d7/d27/a18627.html#a10c9f511da4eb366117d356c118408c6", null ],
-    [ "Validate", "d7/d27/a18627.html#a655f2081d17c06c155641efc45efc1f8", null ]
+    [ "PrepareSpellScript", "d7/d27/a18627.html#aac12da39c503615036120e3e0cd55622", null ],
+    [ "Register", "d7/d27/a18627.html#a808d2283be9714c14f22a2df0a52dd61", null ],
+    [ "RelocateDest", "d7/d27/a18627.html#a843c9dc403404ddd2de667e57e01f00c", null ]
 ];

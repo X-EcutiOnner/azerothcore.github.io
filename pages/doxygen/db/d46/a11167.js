@@ -1,7 +1,8 @@
 var a11167 =
 [
-    [ "CompressedData", "db/d46/a11167.html#a22e1d740e6c3094fea83eb1a44e40944", null ],
-    [ "CompressedSize", "db/d46/a11167.html#ab57879b41c825623a989db13a53f2f4e", null ],
-    [ "Id", "db/d46/a11167.html#af1e6a5cc01ee05432be5c41c88d84794", null ],
-    [ "Key", "db/d46/a11167.html#ad100540b5c6722a19c938b134a985aed", null ]
+    [ "target_mapId", "db/d46/a11167.html#a6dbbb558810388e0d051d84a0279a444", null ],
+    [ "target_Orientation", "db/d46/a11167.html#a7e30264eff9ece771dfaa421ef987b2a", null ],
+    [ "target_X", "db/d46/a11167.html#aa78b3d4cfb4277bcb1bf6a31ffc87546", null ],
+    [ "target_Y", "db/d46/a11167.html#a6f432d8770adebf513346713b7890b5c", null ],
+    [ "target_Z", "db/d46/a11167.html#a3af706b81f8fbef12277c518964f717a", null ]
 ];

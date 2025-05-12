@@ -1,6 +1,6 @@
 var a15391 =
 [
-    [ "npc_anachronos_quest_triggerAI", "db/d0d/a15395.html", "db/d0d/a15395" ],
-    [ "npc_anachronos_quest_trigger", "de/dbe/a15391.html#ad39871952acd3152b51820fe360f4ebd", null ],
-    [ "GetAI", "de/dbe/a15391.html#a2e0e6a69ed1cbed76db9c4bd64d51330", null ]
+    [ "npc_great_bear_spirit", "de/dbe/a15391.html#a141470a3623aa1152d3505661f1532c8", null ],
+    [ "OnGossipHello", "de/dbe/a15391.html#a2307b8d56fc117d918adc9814fa86f8f", null ],
+    [ "OnGossipSelect", "de/dbe/a15391.html#aae026f4cf8b0de61d36a841dcfdbd92e", null ]
 ];

@@ -1,6 +1,6 @@
 var a21711 =
 [
-    [ "npc_injured_7th_legion_soldierAI", "d8/d04/a21711.html#a6929ef42a003f1337d71f9b23fa37c6e", null ],
-    [ "MovementInform", "d8/d04/a21711.html#a999bc868db485578fcc70ae7e056b778", null ],
-    [ "Reset", "d8/d04/a21711.html#a3021c037acdb141fc3ca4d6f3b146bbf", null ]
+    [ "npc_q24545_lich_kingAI", "d3/dac/a21715.html", "d3/dac/a21715" ],
+    [ "npc_q24545_lich_king", "d8/d04/a21711.html#a1864564dee4f66f1b29850b8b0f6fa29", null ],
+    [ "GetAI", "d8/d04/a21711.html#aade5ad8ba215d0571185596aa40cf9b2", null ]
 ];

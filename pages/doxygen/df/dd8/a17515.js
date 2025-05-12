@@ -1,6 +1,8 @@
 var a17515 =
 [
-    [ "IgbExplosionCheck", "df/dd8/a17515.html#ae67cca111f26a275614810cbe053bcd8", null ],
-    [ "operator()", "df/dd8/a17515.html#a28ce6685366e99db2aa1e4022012f943", null ],
-    [ "_source", "df/dd8/a17515.html#a413ee8f2218621d274d118aea967dc9b", null ]
+    [ "npc_gunship_mageAI", "df/dd8/a17515.html#ac79cb67f21820ef88ac9cd671ca9e4c7", null ],
+    [ "AttackStart", "df/dd8/a17515.html#a41bd517c360538f568fb56bc9d2f5e55", null ],
+    [ "CanAIAttack", "df/dd8/a17515.html#aadcb217a9df96bee02287d75a23e32c2", null ],
+    [ "MovementInform", "df/dd8/a17515.html#ac0f233fa5a34cd6e080f44c798b4fc62", null ],
+    [ "UpdateAI", "df/dd8/a17515.html#aa767fc4cb2f7eba37fedaec57c4bc175", null ]
 ];

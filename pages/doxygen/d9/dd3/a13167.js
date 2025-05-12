@@ -1,13 +1,11 @@
 var a13167 =
 [
-    [ "boss_entropiusAI", "d9/dd3/a13167.html#a48cc322f304ce55878e4a07b716e661f", null ],
-    [ "EnterEvadeMode", "d9/dd3/a13167.html#a7b02f06edba8ab8f77f3badea7d6fbb0", null ],
-    [ "GetData", "d9/dd3/a13167.html#aa6f4f0405b67142acdb835a81b6b9aaa", null ],
-    [ "JustDied", "d9/dd3/a13167.html#a48ee11cbdca3270e2ca59e0b98c17394", null ],
-    [ "JustEngagedWith", "d9/dd3/a13167.html#a5be9a6203ebb7b29c33950313f7f06a9", null ],
-    [ "Reset", "d9/dd3/a13167.html#a2e848102680ffe3672ba1058b217b664", null ],
-    [ "SetData", "d9/dd3/a13167.html#a69b0bfacf1f5bc2a347401db84cfe618", null ],
-    [ "UpdateAI", "d9/dd3/a13167.html#a4a16eee2ae3ded90f7040af8bfd50ad3", null ],
-    [ "events", "d9/dd3/a13167.html#a5aac63df7001a964ad8190370e4bf988", null ],
-    [ "events2", "d9/dd3/a13167.html#a36c26fc1276c5b19d38ac190381636f9", null ]
+    [ "boss_alythess", "d9/dd3/a13167.html#a707fbd0f310005a60d5ed4c05c9fc176", null ],
+    [ "AttackStart", "d9/dd3/a13167.html#ac860cef30a96d020a7c729f63ac5ca4e", null ],
+    [ "DoAction", "d9/dd3/a13167.html#aa2dc7ab74fa5bdb753475b2de1515855", null ],
+    [ "JustDied", "d9/dd3/a13167.html#a5509c9f0d979a2d9d70a8f4f9e7971a0", null ],
+    [ "JustEngagedWith", "d9/dd3/a13167.html#ac5047ee0124864304284c1142e885158", null ],
+    [ "KilledUnit", "d9/dd3/a13167.html#a611d8c0a8fb9061e596ef0ac8f1fda88", null ],
+    [ "Reset", "d9/dd3/a13167.html#ab5f990d305f42a2d00e182f617175672", null ],
+    [ "_isSisterDead", "d9/dd3/a13167.html#a9f9fa0823685066b4990a17880782b9a", null ]
 ];

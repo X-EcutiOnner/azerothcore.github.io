@@ -1,13 +1,8 @@
 var a23431 =
 [
-    [ "boss_olm_the_summoner", "d2/dec/a23431.html#aa8fe3804d4e2a1a1150975f5e9832ce6", null ],
-    [ "AttackStart", "d2/dec/a23431.html#a334ab95cfc3320db1a568bcb5a1d9542", null ],
-    [ "JustDied", "d2/dec/a23431.html#a07cde4fc7bc882db40b51426dc40ab93", null ],
-    [ "JustEngagedWith", "d2/dec/a23431.html#a68db779bb7ffffa7621caedd7f52d93f", null ],
-    [ "JustSummoned", "d2/dec/a23431.html#a546bede780b7d67b98ec251ae2e1b812", null ],
-    [ "Reset", "d2/dec/a23431.html#a8dcdc816276a1932612d554cff703a45", null ],
-    [ "UpdateAI", "d2/dec/a23431.html#a967f330966fdb29f26ab24e8f40d2152", null ],
-    [ "_scheduler", "d2/dec/a23431.html#a448ba3a88156e80eebad44585791ab21", null ],
-    [ "instance", "d2/dec/a23431.html#a8caabc31bb7a8548eb936c34c655df68", null ],
-    [ "summons", "d2/dec/a23431.html#ae9187928c74fa1cfafaea4df25a55e41", null ]
+    [ "boss_broggok", "d2/dec/a23431.html#ae20c04793116d3e8eab62d2ee27010df", null ],
+    [ "DoAction", "d2/dec/a23431.html#af5de5a1747c502f72af015c09d050354", null ],
+    [ "JustEngagedWith", "d2/dec/a23431.html#a084e3c37a0218d47c8e39b196fc6746a", null ],
+    [ "JustSummoned", "d2/dec/a23431.html#a0bf2d75f7889542a9e48689b8d080a1e", null ],
+    [ "Reset", "d2/dec/a23431.html#af11b4dc2aee8064a1eaad334d93e6de0", null ]
 ];

@@ -1,5 +1,7 @@
 var a15711 =
 [
-    [ "PrepareAuraScript", "d3/d7e/a15711.html#a94b3a8e0a610afa69c3a9771f8f22b13", null ],
-    [ "Register", "d3/d7e/a15711.html#a1203cbec26f64aa97d10783b567c2d62", null ]
+    [ "npc_ahnkahar_nerubian", "d3/d7e/a15711.html#ae18cdf09bae50751e266e95caf165f8e", null ],
+    [ "Reset", "d3/d7e/a15711.html#a387831015ec8e4bc65cff8c8550bb176", null ],
+    [ "UpdateAI", "d3/d7e/a15711.html#a9a773127e4f94bcdf142718355eae0e8", null ],
+    [ "uiSprintTimer", "d3/d7e/a15711.html#a27a6f57a6b145cc595896d1ad453064f", null ]
 ];

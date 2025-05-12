@@ -1,9 +1,13 @@
 var a09479 =
 [
-    [ "LiquidData", "d7/d16/a09479.html#ac2435178323f480d2dae449b49b39146", null ],
-    [ "DepthLevel", "d7/d16/a09479.html#ad84c7763a6253db7ae6117ecc7144f1d", null ],
-    [ "Entry", "d7/d16/a09479.html#abfed22cb0e920067c0f86a0083ef4ab6", null ],
-    [ "Flags", "d7/d16/a09479.html#aa0903ec4233bcfa34494cea5068cd19c", null ],
-    [ "Level", "d7/d16/a09479.html#a7c596e921e383bbdbdacbcd4307fe380", null ],
-    [ "Status", "d7/d16/a09479.html#acb79cdfb4221f158ce9b29127591a8a9", null ]
+    [ "GroupReference", "d7/d16/a09479.html#ab1a008e85d413c67696d4d568a98bde7", null ],
+    [ "~GroupReference", "d7/d16/a09479.html#ab586405a850b0985e6b9f08cc6bdf32e", null ],
+    [ "getSubGroup", "d7/d16/a09479.html#a8217ca810bc251005dfe8a2e3b810e1e", null ],
+    [ "next", "d7/d16/a09479.html#a6f8f406f1209dd7060904d40f5424b41", null ],
+    [ "next", "d7/d16/a09479.html#ac913ec0703c28cda068375d01c9cd72d", null ],
+    [ "setSubGroup", "d7/d16/a09479.html#a303caf55ea463398237e6a825f30b143", null ],
+    [ "sourceObjectDestroyLink", "d7/d16/a09479.html#a458157654c27def9b36b68ae099ca7b3", null ],
+    [ "targetObjectBuildLink", "d7/d16/a09479.html#aa7c8acd113fefc7b6d2b9dff94bb047c", null ],
+    [ "targetObjectDestroyLink", "d7/d16/a09479.html#a4c15e8dbb9f990f9ab66c5e1466d0616", null ],
+    [ "iSubGroup", "d7/d16/a09479.html#a528073b16a119cfa81e6f37c6e72cc03", null ]
 ];

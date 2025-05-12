@@ -1,7 +1,27 @@
 var a12415 =
 [
-    [ "PeriodicTick", "db/d4c/a12415.html#a267d6df2c08039581fd1c008ffc14b8c", null ],
-    [ "PrepareAuraScript", "db/d4c/a12415.html#ab75f10a475a4302897cbb90a3adb5b03", null ],
-    [ "Register", "db/d4c/a12415.html#a2681d44b149e9f1d797df4147e20e686", null ],
-    [ "Validate", "db/d4c/a12415.html#a9a5f11a3024a14911b478cdf59a7abb9", null ]
+    [ "boss_ragnarosAI", "db/d4c/a12415.html#a94c4efe28aac474a88eeb4b0f370af02", null ],
+    [ "AttackStart", "db/d4c/a12415.html#a6c89e52fc1f34d08676a81fe83f6e820", null ],
+    [ "CanAIAttack", "db/d4c/a12415.html#af5d86d91401c2543128866524ff4a44f", null ],
+    [ "DamageTaken", "db/d4c/a12415.html#a869dfadf29a812e1d036a65bf2091d92", null ],
+    [ "DoAction", "db/d4c/a12415.html#ad02bb8b22e166a2fd34fa56ddea3d396", null ],
+    [ "EnterEvadeMode", "db/d4c/a12415.html#a9e043455beaadc2a47e0d753cc5c18d7", null ],
+    [ "HandleEmerge", "db/d4c/a12415.html#ae15e53e682b9d8475861c64847d8b89c", null ],
+    [ "IsVictimWithinMeleeRange", "db/d4c/a12415.html#a940e84dbc1d88d97a244dac000d1395d", null ],
+    [ "JustDied", "db/d4c/a12415.html#a0455bacbe8356bdadd9c391115efcd68", null ],
+    [ "JustEngagedWith", "db/d4c/a12415.html#ae71cafa0f60ce0ca6792524b5680d110", null ],
+    [ "JustSummoned", "db/d4c/a12415.html#a249bbd12c520e81968e93a93d3dd272c", null ],
+    [ "KilledUnit", "db/d4c/a12415.html#a4051c5bcb73419a8a5459732a148da4d", null ],
+    [ "Reset", "db/d4c/a12415.html#a04a206275d57f0e0f2af0d7e98323696", null ],
+    [ "ScheduleCombatEvents", "db/d4c/a12415.html#af1ce50fa9f251bf1d5270caca23d7dc1", null ],
+    [ "SetGUID", "db/d4c/a12415.html#a29f05ceecaaa0582b24430eb87e840f0", null ],
+    [ "SummonedCreatureDies", "db/d4c/a12415.html#aeda8df8fe34a59bea6e2bbb7d3fa0b72", null ],
+    [ "UpdateAI", "db/d4c/a12415.html#afd770319814d46976e3d946b43e909a4", null ],
+    [ "_hasSubmergedOnce", "db/d4c/a12415.html#a1e9b96abd69fce032a7ca6dff275703c", null ],
+    [ "_hasYelledMagmaBurst", "db/d4c/a12415.html#a3026598fec3a0b4ba9a8b458aa411d33", null ],
+    [ "_isIntroDone", "db/d4c/a12415.html#a9e7506026fc816aea5e1b58bab0e50c0", null ],
+    [ "_isKnockbackEmoteAllowed", "db/d4c/a12415.html#a96505d1dbb57c7d52d8730952f5c46f8", null ],
+    [ "_lavaBurstGUIDS", "db/d4c/a12415.html#ac2b114c221b2713b4c2ab039cf3bc924", null ],
+    [ "_processingMagmaBurst", "db/d4c/a12415.html#af1f3bf328a3729e0c667bbbe9188b104", null ],
+    [ "extraEvents", "db/d4c/a12415.html#adcb09077e86ad069dbe219bfc5c45613", null ]
 ];

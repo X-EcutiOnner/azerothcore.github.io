@@ -1,9 +1,6 @@
 var a21899 =
 [
-    [ "npc_venture_co_stragglerAI", "da/d98/a21899.html#abc3cc04b89b95fd45969ba5859bf810c", null ],
-    [ "Reset", "da/d98/a21899.html#acfeaad9db95d0b391a64cc65ca3a1cee", null ],
-    [ "SpellHit", "da/d98/a21899.html#ae1919454c270d10342079b60a727a306", null ],
-    [ "UpdateAI", "da/d98/a21899.html#a0846336d8d1333e2c2f50731a722c3b7", null ],
-    [ "_events", "da/d98/a21899.html#a9cd6e6b549e10900f35838f04e10e0f5", null ],
-    [ "_playerGUID", "da/d98/a21899.html#a649493944b143782d995b5bdda3714b4", null ]
+    [ "HandleOnEffectRemove", "da/d98/a21899.html#a5aeae7d8fc2fb8c8a1ce446ba1887c51", null ],
+    [ "PrepareAuraScript", "da/d98/a21899.html#af415e4d7ea0b4b881af94eb7ea0c3f4c", null ],
+    [ "Register", "da/d98/a21899.html#a242faa8822f9cdb7762d8ec3b6245b30", null ]
 ];

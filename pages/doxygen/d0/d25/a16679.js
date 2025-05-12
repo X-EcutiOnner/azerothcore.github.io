@@ -1,6 +1,7 @@
 var a16679 =
 [
-    [ "entry", "d0/d25/a16679.html#a80e1510436336f4ed17748a06b27178d", null ],
-    [ "pathId", "d0/d25/a16679.html#a0b7e499d633e11b314852fb1154ea8e6", null ],
-    [ "startPosition", "d0/d25/a16679.html#ac8c0dd74d76778aa2f5948b5c8c5ada4", null ]
+    [ "HandlePeriodicTick", "d0/d25/a16679.html#abe9cc0a87d84504ee029cc565dd97ef5", null ],
+    [ "PrepareAuraScript", "d0/d25/a16679.html#a93e894c642101160dd51f30952c82d24", null ],
+    [ "Register", "d0/d25/a16679.html#a49172ede0f888e391b9b4a835475220a", null ],
+    [ "Validate", "d0/d25/a16679.html#a3b9998ef5ee0931afbe5b04430da10a0", null ]
 ];

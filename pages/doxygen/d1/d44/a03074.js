@@ -1,5 +1,6 @@
 var a03074 =
 [
-    [ "MapMgr", "dc/d6e/a09792.html", "dc/d6e/a09792" ],
-    [ "sMapMgr", "d1/d44/a03074.html#a9132749f8376c48b0ca7212eb3293905", null ]
+    [ "Acore::BroadcastTextBuilder", "d3/d22/a11327.html", "d3/d22/a11327" ],
+    [ "Acore::CustomChatTextBuilder", "da/d3a/a11331.html", "da/d3a/a11331" ],
+    [ "Acore::AcoreStringChatBuilder", "de/de5/a11335.html", "de/de5/a11335" ]
 ];

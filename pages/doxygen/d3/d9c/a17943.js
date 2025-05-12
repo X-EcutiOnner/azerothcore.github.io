@@ -1,6 +1,6 @@
 var a17943 =
 [
-    [ "FilterTargets", "d3/d9c/a17943.html#aae21b2d9ecc5bfd317f065f1da46b696", null ],
-    [ "PrepareSpellScript", "d3/d9c/a17943.html#a2a7e37db10a6f8a6c86af92d7b492a29", null ],
-    [ "Register", "d3/d9c/a17943.html#a6e541cad4c831ee2eaf19d72324ec38c", null ]
+    [ "npc_ice_tombAI", "dc/d12/a17947.html", "dc/d12/a17947" ],
+    [ "npc_ice_tomb", "d3/d9c/a17943.html#a939c6083a77a6f4cb2a940ec9c1df55e", null ],
+    [ "GetAI", "d3/d9c/a17943.html#ac99b7c9887e54a1764310bd3e079811a", null ]
 ];

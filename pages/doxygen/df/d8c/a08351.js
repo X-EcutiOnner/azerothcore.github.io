@@ -1,13 +1,9 @@
 var a08351 =
 [
-    [ "BGData", "df/d8c/a08351.html#a91ccfa5183ef5996fb4bdf78567c09ba", null ],
-    [ "bgAfkReportedCount", "df/d8c/a08351.html#ab7374e7b8fc6607dd6b4f04385e80ca3", null ],
-    [ "bgAfkReportedTimer", "df/d8c/a08351.html#a51f8f4e05dc0224982af9a61d2dfae36", null ],
-    [ "bgAfkReporter", "df/d8c/a08351.html#a94047ac71676b7914e058aac8a8cb0ea", null ],
-    [ "bgInstanceID", "df/d8c/a08351.html#a8eff26fd78b5763501a3f5460de4e551", null ],
-    [ "bgIsRandom", "df/d8c/a08351.html#a6f25dd5c9dc6afcc7964a5d0b7d1444c", null ],
-    [ "bgQueueSlot", "df/d8c/a08351.html#a1c77bcf4135d994f0801558adca02f40", null ],
-    [ "bgTeamId", "df/d8c/a08351.html#ac97f7cafb6ae69a12588e40328cdc0cb", null ],
-    [ "bgTypeID", "df/d8c/a08351.html#a3398da6a15fd66cdd8dc172997d3786b", null ],
-    [ "isInvited", "df/d8c/a08351.html#a8e23a1664eedf33b2195d2d8d5b01b82", null ]
+    [ "Reset", "df/d8c/a08351.html#a9c210ff536b49481f71bc6c3f60ee864", null ],
+    [ "guid", "df/d8c/a08351.html#ac115013e34f67bc1444fef4fc96c843e", null ],
+    [ "pos", "df/d8c/a08351.html#adff317cbf0c2d159d8ffddf52b4751b3", null ],
+    [ "seat", "df/d8c/a08351.html#ad57bea2ae3beb6a086a116989b0d528f", null ],
+    [ "time", "df/d8c/a08351.html#acec3991f0d19fd9f72e9837eef516057", null ],
+    [ "time2", "df/d8c/a08351.html#a426c651d2f359847b033a4d7f278a191", null ]
 ];

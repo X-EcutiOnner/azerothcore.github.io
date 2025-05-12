@@ -1,7 +1,11 @@
 var a15347 =
 [
-    [ "npc_shenthulAI", "d4/db6/a15351.html", "d4/db6/a15351" ],
-    [ "npc_shenthul", "de/d07/a15347.html#a77815503c7d9c811fe3821232e308714", null ],
-    [ "GetAI", "de/d07/a15347.html#a1683f8c89add6270277c59951c74027e", null ],
-    [ "OnQuestAccept", "de/d07/a15347.html#a3a63fec338dca74eb7d071dfcc9c95b5", null ]
+    [ "npc_troll_volunteerAI", "de/d07/a15347.html#a7eb0c508122616a6781c8b23210e4062", null ],
+    [ "GetMountId", "de/d07/a15347.html#a5edc586ded0a1146bb1bd82ca14062cc", null ],
+    [ "InitializeAI", "de/d07/a15347.html#a1c758c7601624e0620778e13e8ec60a0", null ],
+    [ "MovementInform", "de/d07/a15347.html#aa1d34a4f3701354899ebdd9b38670b31", null ],
+    [ "Reset", "de/d07/a15347.html#a31439533de41c2a459af2b4d3af76139", null ],
+    [ "SpellHit", "de/d07/a15347.html#a0604cdade2ce4da23915ca1fc4a4f475", null ],
+    [ "_complete", "de/d07/a15347.html#ac7e1cc5f0e4f675d6aad0f6e9b449c15", null ],
+    [ "_mountModel", "de/d07/a15347.html#ae226345bd324b9c337dc96570117d82b", null ]
 ];

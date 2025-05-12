@@ -1,7 +1,12 @@
 var a17671 =
 [
-    [ "HandleSpikes", "df/d5c/a17671.html#a012d61aacf79b9b1f5b4b5c5c81b5ed4", null ],
-    [ "PrepareSpellScript", "df/d5c/a17671.html#a6ffb6454eb4c58a1b66356814c13b659", null ],
-    [ "Register", "df/d5c/a17671.html#a893345cf191d084a0f97a8464b7d381a", null ],
-    [ "Validate", "df/d5c/a17671.html#aa6545760706d8695aefd4064c3c71c6b", null ]
+    [ "npc_darnavanAI", "df/d5c/a17671.html#ae06019c24910c873877398f29f5a1737", null ],
+    [ "JustDied", "df/d5c/a17671.html#a49250dcdaed6de534de7a1fe3c5aa72c", null ],
+    [ "JustEngagedWith", "df/d5c/a17671.html#acbaedacea5ad19d82002c25b68623a27", null ],
+    [ "MovementInform", "df/d5c/a17671.html#afcd3bfd190fcb99e38f32129fb2ce861", null ],
+    [ "Reset", "df/d5c/a17671.html#a926c39a6e30507d9f9927f4f142e5a45", null ],
+    [ "UpdateAI", "df/d5c/a17671.html#a2b3b5e168989db21fc047acaf01413d9", null ],
+    [ "_canCharge", "df/d5c/a17671.html#ac37dc2ddc1787b7bd83b7e64ccdc6af8", null ],
+    [ "_canShatter", "df/d5c/a17671.html#aa7750edc8051c8ee453143491dccf122", null ],
+    [ "events", "df/d5c/a17671.html#aa8a022ccb1367432480f72d305c752ac", null ]
 ];

@@ -1,10 +1,13 @@
 var a03308 =
 [
-    [ "spell_razelikh_teleport_group", "d5/d49/a13417.html", "d5/d49/a13417" ],
-    [ "DeathlyUsher", "d0/de4/a03308.html#aaff0e89586a03a5c2b80f93a4fe0ded7", [
-      [ "SPELL_TELEPORT_SINGLE", "d0/de4/a03308.html#aaff0e89586a03a5c2b80f93a4fe0ded7a3cdd675db7120b3a968f19df07485e7d", null ],
-      [ "SPELL_TELEPORT_SINGLE_IN_GROUP", "d0/de4/a03308.html#aaff0e89586a03a5c2b80f93a4fe0ded7a138ccf86c6441c7347a973d3e04c62a5", null ],
-      [ "SPELL_TELEPORT_GROUP", "d0/de4/a03308.html#aaff0e89586a03a5c2b80f93a4fe0ded7a3efb41f1943511af5c5c1abbced10dcc", null ]
-    ] ],
-    [ "AddSC_blasted_lands", "d0/de4/a03308.html#a8c45aaff0bee880d1bac07d32d1747f1", null ]
+    [ "PetScript", "df/deb/a10327.html", "df/deb/a10327" ],
+    [ "PetHook", "d0/de4/a03308.html#a2e6398af59b176e045eece50b1a5d404", [
+      [ "PETHOOK_ON_INIT_STATS_FOR_LEVEL", "d0/de4/a03308.html#a2e6398af59b176e045eece50b1a5d404a1aa219c404710f806516a47fb4a2c421", null ],
+      [ "PETHOOK_ON_CALCULATE_MAX_TALENT_POINTS_FOR_LEVEL", "d0/de4/a03308.html#a2e6398af59b176e045eece50b1a5d404af4173fac4396520c8d5f664cb15cd09a", null ],
+      [ "PETHOOK_CAN_UNLEARN_SPELL_SET", "d0/de4/a03308.html#a2e6398af59b176e045eece50b1a5d404a73a664bf8c79a8347a66639e7f4585ed", null ],
+      [ "PETHOOK_CAN_UNLEARN_SPELL_DEFAULT", "d0/de4/a03308.html#a2e6398af59b176e045eece50b1a5d404afd7165a69bf431cabc9b485460fde1ce", null ],
+      [ "PETHOOK_CAN_RESET_TALENTS", "d0/de4/a03308.html#a2e6398af59b176e045eece50b1a5d404a7c81bb255968b85119ef74e3124abe11", null ],
+      [ "PETHOOK_ON_PET_ADD_TO_WORLD", "d0/de4/a03308.html#a2e6398af59b176e045eece50b1a5d404a34b989d3a1e33e5ab31d98bf4a36ee56", null ],
+      [ "PETHOOK_END", "d0/de4/a03308.html#a2e6398af59b176e045eece50b1a5d404aa71e862274b6066ffe8af41bccdac911", null ]
+    ] ]
 ];

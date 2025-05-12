@@ -1,14 +1,10 @@
 var a17707 =
 [
-    [ "npc_putricide_oozeAI", "d5/d1e/a17707.html#a5b3200110d6cd8ac1311220ab2ee3385", null ],
-    [ "CastMainSpell", "d5/d1e/a17707.html#a62c9027b6d8a7812fcf5c0023621ef70", null ],
-    [ "IsSummonedBy", "d5/d1e/a17707.html#a8e96a50b9a35f6220bf6c824c1acce58", null ],
-    [ "SelectNewTarget", "d5/d1e/a17707.html#a0a4167a73249967fcf268683f936647d", null ],
-    [ "SetGUID", "d5/d1e/a17707.html#a4820e07300bfd50980e42faac3327fec", null ],
-    [ "SpellHit", "d5/d1e/a17707.html#ab9d288f8eded19720a0aee3bd91920d2", null ],
-    [ "SpellHitTarget", "d5/d1e/a17707.html#a501e0f46abdb1bcc0d99ab9792f738fe", null ],
-    [ "UpdateAI", "d5/d1e/a17707.html#a508fe1a9974f2ffa36c72575c2d4b252", null ],
-    [ "_hitTargetSpellId", "d5/d1e/a17707.html#a728b62580e7a84e9947a45b460ab140c", null ],
-    [ "_newTargetSelectTimer", "d5/d1e/a17707.html#a9615a0e6c73c155330c1791c2a205553", null ],
-    [ "targetGUID", "d5/d1e/a17707.html#ae01b7ffe31548aa15d913cc28fa32422", null ]
+    [ "npc_bone_spikeAI", "d5/d1e/a17707.html#a1b54aaa7b5ed142561fbc02e9593e87c", null ],
+    [ "DoAction", "d5/d1e/a17707.html#a38b2944fb4e9d7fcc7205423faa8a994", null ],
+    [ "IsSummonedBy", "d5/d1e/a17707.html#af2794484ee3ebf0579ce7357d222240d", null ],
+    [ "JustDied", "d5/d1e/a17707.html#ae9c8fa649ba9fac74187913d29be9dd6", null ],
+    [ "UpdateAI", "d5/d1e/a17707.html#a8eff2bcc6507c65e563ed272977f224e", null ],
+    [ "events", "d5/d1e/a17707.html#a6a35900435d41d0603919f29415667a5", null ],
+    [ "hasTrappedUnit", "d5/d1e/a17707.html#aeb7236ef0d313fd3799458f3d50276f7", null ]
 ];

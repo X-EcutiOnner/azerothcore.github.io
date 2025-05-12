@@ -1,6 +1,7 @@
 var a14339 =
 [
-    [ "HandleDummy", "d9/da1/a14339.html#a5e0797e5af760b618b1498f405766de8", null ],
-    [ "PrepareSpellScript", "d9/da1/a14339.html#a3be664b18a2474857e8a2b199ea93aaf", null ],
-    [ "Register", "d9/da1/a14339.html#a2254e486bda73e07f8327c3412c7852b", null ]
+    [ "HandleScript", "d9/da1/a14339.html#a78899a874a645d531dd4d89f2bd5478a", null ],
+    [ "PrepareSpellScript", "d9/da1/a14339.html#adc96c1dbf0b561a72d26dca57d5bfcec", null ],
+    [ "Register", "d9/da1/a14339.html#a76942c06492a48ce16bb85cf55d1e58d", null ],
+    [ "Validate", "d9/da1/a14339.html#a727f7c6ab1a2b5635e0b8fbd071d863d", null ]
 ];

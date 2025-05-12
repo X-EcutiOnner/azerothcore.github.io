@@ -1,7 +1,9 @@
 var a18815 =
 [
-    [ "HandleScript", "db/d40/a18815.html#a2e5311b631a4cbf6002e27e4a806280c", null ],
-    [ "Launch", "db/d40/a18815.html#a575a7bf98b629dd91e7ca96e388eb8fd", null ],
-    [ "PrepareSpellScript", "db/d40/a18815.html#ad65642fd7e8b7793f69d041d458fa33f", null ],
-    [ "Register", "db/d40/a18815.html#aa8800d8fc050f2914d63c24e555aad4b", null ]
+    [ "npc_isle_of_conquest_turretAI", "db/d40/a18815.html#a0a0f24af22e4c72e843970c0d5c1ff87", null ],
+    [ "JustDied", "db/d40/a18815.html#a88390da94298bea9c445bb422a806d23", null ],
+    [ "SpellHit", "db/d40/a18815.html#afc8b8a9be6b0908fcb83af57bef7a57a", null ],
+    [ "UpdateAI", "db/d40/a18815.html#a81c039a2a230b261967842161757b6f8", null ],
+    [ "events", "db/d40/a18815.html#aee0aa5a950b3743409fd3ae482bc94b8", null ],
+    [ "faction", "db/d40/a18815.html#aca941c070a97278c8ec27d7e6b4edede", null ]
 ];

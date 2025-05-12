@@ -1,5 +1,5 @@
 var a00002 =
 [
-    [ "WorldMock", "df/dc6/a28420.html", "df/dc6/a28420" ],
-    [ "AddScripts", "d7/d46/a00002.html#abb65cb085124c346fd32ac4b92f0baa9", null ]
+    [ "OutdoorPvP_zangarmarsh", "dd/d44/a22487.html", "dd/d44/a22487" ],
+    [ "AddSC_outdoorpvp_zm", "d7/d46/a00002.html#a3077d08865fa83f84cf956c392a9091c", null ]
 ];

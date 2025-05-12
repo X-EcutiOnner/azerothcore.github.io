@@ -1,6 +1,6 @@
 var a16983 =
 [
-    [ "HandleDummy", "de/d7d/a16983.html#aef592aafe931351186edf98f7aba7e22", null ],
-    [ "PrepareSpellScript", "de/d7d/a16983.html#ab79a160e0d5b0c6e0ecfa842a4da2819", null ],
-    [ "Register", "de/d7d/a16983.html#a7594952f23cba22b886c2c3b10f363d4", null ]
+    [ "npc_pos_collapsing_icicleAI", "d7/d7e/a16987.html", "d7/d7e/a16987" ],
+    [ "npc_pos_collapsing_icicle", "de/d7d/a16983.html#a42b29fe5d4e106c1e5e5b866a0074664", null ],
+    [ "GetAI", "de/d7d/a16983.html#a96969ebe749b49ceb38920c63ec6fce3", null ]
 ];

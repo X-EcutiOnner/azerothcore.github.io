@@ -1,7 +1,6 @@
 var a21519 =
 [
-    [ "npc_mootoo_the_youngerAI", "d2/dc8/a21519.html#a70a5a502dab9a90a790a90eabc5c3acd", null ],
-    [ "JustDied", "d2/dc8/a21519.html#a766612f646a6d22d3f0e6f93298e34bc", null ],
-    [ "Reset", "d2/dc8/a21519.html#a04624b9b4d552d6b27308edc3ad44644", null ],
-    [ "WaypointReached", "d2/dc8/a21519.html#ac758a992ed0d62a272930c84d617b348", null ]
+    [ "npc_bloodmage_laurithAI", "df/d99/a21523.html", "df/d99/a21523" ],
+    [ "npc_bloodmage_laurith", "d2/dc8/a21519.html#a40ab80342ddc86afca3b1bd37b1ca6b5", null ],
+    [ "GetAI", "d2/dc8/a21519.html#a5a5151a56de3ad1012d9a795dbfb5bd5", null ]
 ];

@@ -1,11 +1,15 @@
 var a10235 =
 [
-    [ "BackgroundColor", "d4/d0f/a10235.html#abab86dd497de86088873178bf1d54b5b", null ],
-    [ "BorderColor", "d4/d0f/a10235.html#abb2489b9be8a0d4a20d209d6293d7d46", null ],
-    [ "BorderStyle", "d4/d0f/a10235.html#acd5105c31e0f56e680f3384e86186872", null ],
-    [ "EmblemColor", "d4/d0f/a10235.html#a2e8a4768292d3566bb61009056a8a230", null ],
-    [ "EmblemStyle", "d4/d0f/a10235.html#aa6309467f9f09725a8698de864b4e63c", null ],
-    [ "GuildName", "d4/d0f/a10235.html#a74d4e1690c07a647c97ca2225e8488dd", null ],
-    [ "RankCount", "d4/d0f/a10235.html#acddb77850a86348df197afc724c4eaa0", null ],
-    [ "Ranks", "d4/d0f/a10235.html#aec9fd9a1a3bfa040375193027b32cf24", null ]
+    [ "CreatureScript", "d4/d0f/a10235.html#afa0053e299f9125cc288ea38652edecb", null ],
+    [ "GetAI", "d4/d0f/a10235.html#a24ba3529655943afdf6598450d14e6c2", null ],
+    [ "GetDialogStatus", "d4/d0f/a10235.html#a41562245c4a44843363d6b0ce32ce48d", null ],
+    [ "IsDatabaseBound", "d4/d0f/a10235.html#af19c64d23391f8b835f79bc6cf315caa", null ],
+    [ "OnFfaPvpStateUpdate", "d4/d0f/a10235.html#a316efb5c026588eb4bce8a0ce6b5cc0f", null ],
+    [ "OnGossipHello", "d4/d0f/a10235.html#a6268b132444845302ada504f48629a4f", null ],
+    [ "OnGossipSelect", "d4/d0f/a10235.html#a30f160576b4cb97d940ecf3468834667", null ],
+    [ "OnGossipSelectCode", "d4/d0f/a10235.html#ad99f4a96106b9dc5cf9c29304d781d6a", null ],
+    [ "OnQuestAccept", "d4/d0f/a10235.html#a6b106a237886f49e523ae7b07e9c5979", null ],
+    [ "OnQuestComplete", "d4/d0f/a10235.html#a4d39c9b2edbbbc2ae08b5cdcc95b4d7b", null ],
+    [ "OnQuestReward", "d4/d0f/a10235.html#aba2be0f342cb9811bd0ebee954d7d36e", null ],
+    [ "OnQuestSelect", "d4/d0f/a10235.html#a1e054fb61dd560aa7718d59127ad4b51", null ]
 ];

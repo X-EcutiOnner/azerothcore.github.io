@@ -1,9 +1,7 @@
 var a08539 =
 [
-    [ "VehicleAccessory", "d2/d4c/a08539.html#a70576b3cfa29bb6a31fdc61588b6d3c4", null ],
-    [ "AccessoryEntry", "d2/d4c/a08539.html#a6e3cd6b20680974235c146d34b16295a", null ],
-    [ "IsMinion", "d2/d4c/a08539.html#ace3fd27311370e4db4103f2c3ac70410", null ],
-    [ "SeatId", "d2/d4c/a08539.html#a73b54fbbfe8e18f7129acc65dadec447", null ],
-    [ "SummonedType", "d2/d4c/a08539.html#afc843c62c580c860471b0e49f5901363", null ],
-    [ "SummonTime", "d2/d4c/a08539.html#a13a024b3ceacf38ce4907b079d732420", null ]
+    [ "SetRuneState", "d2/d4c/a08539.html#a920d32d04ec7e872680a89b0c0a9b0ef", null ],
+    [ "lastUsedRune", "d2/d4c/a08539.html#a88c702716eb3032c20ae5ed74922d923", null ],
+    [ "runes", "d2/d4c/a08539.html#aac485530bfa81d54d9da3213fe917c29", null ],
+    [ "runeState", "d2/d4c/a08539.html#ae58297e0766578b234604a97641501a1", null ]
 ];

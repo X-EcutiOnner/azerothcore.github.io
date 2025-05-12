@@ -1,8 +1,16 @@
 var a03116 =
 [
-    [ "M2SplineKey< T >", "db/d0d/a07856.html", "db/d0d/a07856" ],
-    [ "M2Header", "df/d3c/a07860.html", "df/d3c/a07860" ],
-    [ "M2Array", "d2/deb/a07864.html", "d2/deb/a07864" ],
-    [ "M2Track", "d7/df1/a07868.html", "d7/df1/a07868" ],
-    [ "M2Camera", "d0/d79/a07872.html", "d0/d79/a07872" ]
+    [ "SmartAI", "d9/d20/a06219.html", "d9/d20/a06219" ],
+    [ "SmartGameObjectAI", "dd/de8/a06223.html", "dd/de8/a06223" ],
+    [ "SmartEscortState", "d8/d96/a03116.html#a0911043eb49fd7958a828a60e0537d54", [
+      [ "SMART_ESCORT_NONE", "d8/d96/a03116.html#a0911043eb49fd7958a828a60e0537d54ad51ea013b009290e4eba7f3591d0e889", null ],
+      [ "SMART_ESCORT_ESCORTING", "d8/d96/a03116.html#a0911043eb49fd7958a828a60e0537d54a0756668fef1eacc6101e9113e974cc19", null ],
+      [ "SMART_ESCORT_RETURNING", "d8/d96/a03116.html#a0911043eb49fd7958a828a60e0537d54a404e4c2ac36fc3f87779560b58af7fe8", null ],
+      [ "SMART_ESCORT_PAUSED", "d8/d96/a03116.html#a0911043eb49fd7958a828a60e0537d54a35650bf0f6f9a142acfb5b6e5cd194f7", null ]
+    ] ],
+    [ "SmartEscortVars", "d8/d96/a03116.html#a598eb331d977fa893d589fe3e6cebfbf", [
+      [ "SMART_ESCORT_MAX_PLAYER_DIST", "d8/d96/a03116.html#a598eb331d977fa893d589fe3e6cebfbfa43349fe96bf29348a87944e39bacfdba", null ],
+      [ "SMART_MAX_AID_DIST", "d8/d96/a03116.html#a598eb331d977fa893d589fe3e6cebfbfa74a5b65862962dfdb4c72589d5191c3f", null ]
+    ] ],
+    [ "AddSC_SmartScripts", "d8/d96/a03116.html#ab6012619ba76775b314475ec60f8c7d7", null ]
 ];

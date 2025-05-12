@@ -1,8 +1,8 @@
 var a14275 =
 [
-    [ "OnApply", "dd/d9a/a14275.html#aa38abcc9fa49fc2c397edbfff2c0ea0d", null ],
-    [ "OnRemove", "dd/d9a/a14275.html#a64018d24a33565e615c6c2d3eb4810f8", null ],
-    [ "PrepareAuraScript", "dd/d9a/a14275.html#acb57b284b9d9116b6b0c0a758e09a8d5", null ],
-    [ "Register", "dd/d9a/a14275.html#a9cd1e664cb6ccec5dc897b586203faf1", null ],
-    [ "Validate", "dd/d9a/a14275.html#a77ed6196af0fcf75c6d1071e236f6210", null ]
+    [ "HandleDummy", "dd/d9a/a14275.html#a47b5a6741f2782359449dcaebd40fe1c", null ],
+    [ "Load", "dd/d9a/a14275.html#a7877187ad7afb2dfbd28fb7c74d40478", null ],
+    [ "PrepareSpellScript", "dd/d9a/a14275.html#af1d1ad32d41d79008d650b388353346b", null ],
+    [ "Register", "dd/d9a/a14275.html#a53a7c4c025324b205a29f92dd48aefde", null ],
+    [ "handled", "dd/d9a/a14275.html#acf3a9296a36f131f852afbf60beb7ea4", null ]
 ];

@@ -1,7 +1,6 @@
 var a21863 =
 [
-    [ "HandleScriptEffect", "da/daf/a21863.html#ad3f1231ac90b96650b5c8c3403d69195", null ],
-    [ "PrepareSpellScript", "da/daf/a21863.html#a1fdd85c5833bf6f17395f56e2ea11fed", null ],
-    [ "Register", "da/daf/a21863.html#a278206630f9f45f2dba50b259a6115c1", null ],
-    [ "Validate", "da/daf/a21863.html#a8f6332b2d4e7ac7ba6a68331b1d4512f", null ]
+    [ "npc_lake_frogAI", "d2/d68/a21867.html", "d2/d68/a21867" ],
+    [ "npc_lake_frog", "da/daf/a21863.html#ac7c56b2a6443356523b468c05c36bc6c", null ],
+    [ "GetAI", "da/daf/a21863.html#a9730da684a81fced304f10b2806c10e5", null ]
 ];

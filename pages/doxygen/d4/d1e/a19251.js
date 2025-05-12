@@ -1,6 +1,11 @@
 var a19251 =
 [
-    [ "boss_drakosAI", "d0/d04/a19255.html", "d0/d04/a19255" ],
-    [ "boss_drakos", "d4/d1e/a19251.html#aa70ae2809af4f24eea0b83b42d695448", null ],
-    [ "GetAI", "d4/d1e/a19251.html#a16dcc7f9da254d0bddc19394a1cd4ab0", null ]
+    [ "boss_ormorok", "d4/d1e/a19251.html#aa4862339ed41d5c593a93ef605d85a39", null ],
+    [ "JustDied", "d4/d1e/a19251.html#af84a958b2f16b082fe3b2e1dc70dd8fa", null ],
+    [ "JustEngagedWith", "d4/d1e/a19251.html#a22ac203db7c3b445e653798743e48764", null ],
+    [ "JustSummoned", "d4/d1e/a19251.html#acc149b49e6658454610a7871e3c82b5e", null ],
+    [ "KilledUnit", "d4/d1e/a19251.html#a65a1512bad7c773a0aede6ba2cb9700e", null ],
+    [ "Reset", "d4/d1e/a19251.html#a88a1c308790e45a6fa09f0d740116f4e", null ],
+    [ "UpdateAI", "d4/d1e/a19251.html#a15f2e30fa1780aadba6673f6537fc16f", null ],
+    [ "_spikesCount", "d4/d1e/a19251.html#a29cc8c3db5ba3d528ea873d66be619cd", null ]
 ];

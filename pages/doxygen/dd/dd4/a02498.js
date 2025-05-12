@@ -1,6 +1,15 @@
 var a02498 =
 [
-    [ "instance_halls_of_lightning", "d6/d1e/a19456.html", "d6/d1e/a19456" ],
-    [ "instance_halls_of_lightning::instance_halls_of_lightning_InstanceMapScript", "d7/d09/a19460.html", "d7/d09/a19460" ],
-    [ "AddSC_instance_halls_of_lightning", "dd/dd4/a02498.html#acb5e7d848388449d05e307ed07fbcfc6", null ]
+    [ "PoolTemplateData", "d0/d6b/a10107.html", "d0/d6b/a10107" ],
+    [ "PoolObject", "da/de4/a10111.html", "da/de4/a10111" ],
+    [ "Pool", "d8/dc8/a10115.html", null ],
+    [ "ActivePoolData", "d0/dc2/a10119.html", "d0/dc2/a10119" ],
+    [ "PoolGroup< T >", "de/d7f/a10123.html", "de/d7f/a10123" ],
+    [ "PoolMgr", "d0/db5/a10127.html", "d0/db5/a10127" ],
+    [ "sPoolMgr", "dd/dd4/a02498.html#a9189dd9c6265b9e6d57104dd61a5fe85", null ],
+    [ "ActivePoolObjects", "dd/dd4/a02498.html#a6fd2b29871e3f63cf9cc493968a0ab74", null ],
+    [ "ActivePoolPools", "dd/dd4/a02498.html#ad18a3f26065fec260d0281c5354067dd", null ],
+    [ "PooledQuestRelation", "dd/dd4/a02498.html#ace9e74e256f166b08f2834044ecfba43", null ],
+    [ "PooledQuestRelationBounds", "dd/dd4/a02498.html#adabd05f382474650e093706cf4ea4e35", null ],
+    [ "PooledQuestRelationBoundsNC", "dd/dd4/a02498.html#a54dd98ebecf13a92dd29f7d3789d5b56", null ]
 ];

@@ -1,9 +1,11 @@
 var a11727 =
 [
-    [ "boss_overlordwyrmthalakAI", "da/d7e/a11727.html#a76f9bd309e1c5045c74bb0ba8d8bce5c", null ],
-    [ "JustDied", "da/d7e/a11727.html#ade379755d256c4c290e6dc8bbd862261", null ],
-    [ "JustEngagedWith", "da/d7e/a11727.html#af7780f467df92c9218700773d1257a8c", null ],
-    [ "Reset", "da/d7e/a11727.html#a9dbc4cc1830703c393fbeb9c0385b709", null ],
-    [ "UpdateAI", "da/d7e/a11727.html#a950b2161ed4c2441fb73f8b009c5ba30", null ],
-    [ "Summoned", "da/d7e/a11727.html#a8183e3f02d931809440adc8cc0cd3654", null ]
+    [ "worldstate_commandscript", "da/d7e/a11727.html#aa409f7a2baed14a591d9567d1fb1ffcf", null ],
+    [ "GetCommands", "da/d7e/a11727.html#a9c2b9e6f00727da760ca2be2c0c1aff7", null ],
+    [ "HandleSunsReachReclamationCounterCommand", "da/d7e/a11727.html#a78ccd5fd1fe4562d93f69199112044d2", null ],
+    [ "HandleSunsReachReclamationPhaseCommand", "da/d7e/a11727.html#a4b7049c1c9932b098441a3af4d7cd03c", null ],
+    [ "HandleSunsReachReclamationStatusCommand", "da/d7e/a11727.html#a1534e35532bc29b8d03594af30e4cdfa", null ],
+    [ "HandleSunsReachReclamationSubPhaseCommand", "da/d7e/a11727.html#a2307687ae1d3cb3f6e5237af4d8f8595", null ],
+    [ "HandleSunwellGateCommand", "da/d7e/a11727.html#a45b73e47c8e9b21063d02922a83e103b", null ],
+    [ "HandleSunwellGateCounterCommand", "da/d7e/a11727.html#a805ab7fa1900feeb3e3034263c3a0a4d", null ]
 ];

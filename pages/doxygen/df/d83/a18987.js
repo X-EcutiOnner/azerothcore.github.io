@@ -1,6 +1,7 @@
 var a18987 =
 [
-    [ "boss_patchwerkAI", "da/dba/a18991.html", "da/dba/a18991" ],
-    [ "boss_patchwerk", "df/d83/a18987.html#a526983c4f5191a839ba4a017ac2d14e4", null ],
-    [ "GetAI", "df/d83/a18987.html#a03f2dec61192405760958e26d998d67e", null ]
+    [ "HandleScript", "df/d83/a18987.html#a66db3976fe6ec7ee8712c5788ce5f3ec", null ],
+    [ "PrepareAuraScript", "df/d83/a18987.html#aa3053519be0101f55450d76b1291f0f7", null ],
+    [ "Register", "df/d83/a18987.html#ada596a7f19115c7178fd07fb9e956f58", null ],
+    [ "Validate", "df/d83/a18987.html#a768dec18bc0e879c457a64135ec27ad9", null ]
 ];

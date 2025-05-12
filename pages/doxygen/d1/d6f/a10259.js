@@ -1,16 +1,13 @@
 var a10259 =
 [
-    [ "AreaID", "d1/d6f/a10259.html#a7bd695ba9365b53703204e45c930b254", null ],
-    [ "ClassID", "d1/d6f/a10259.html#a794961a2e9f4773254b2439837150b50", null ],
-    [ "Gender", "d1/d6f/a10259.html#aadb29895c835e820168ad7d3f608d3b8", null ],
-    [ "Guid", "d1/d6f/a10259.html#a9dad860d61da34048ab2d52ada0cb43f", null ],
-    [ "LastSave", "d1/d6f/a10259.html#acb553637ff289603411fa5795a361deb", null ],
-    [ "Level", "d1/d6f/a10259.html#a585acb139537e8def9e4ba076a332b6b", null ],
-    [ "Name", "d1/d6f/a10259.html#ad50c43162525d8ad2ea33e48c01e838e", null ],
-    [ "Note", "d1/d6f/a10259.html#aa351a270de4cba2faddc5179cb854b94", null ],
-    [ "OfficerNote", "d1/d6f/a10259.html#aedaee0b4511ddd82cc75e91cb04e175a", null ],
-    [ "RankID", "d1/d6f/a10259.html#a02f6f0dcf1be3a6befe959388d9aedd8", null ],
-    [ "Status", "d1/d6f/a10259.html#aa6342565a23693718b5ef84f90b83350", null ],
-    [ "TotalXP", "d1/d6f/a10259.html#ad3ee1ba956ea725db8588e3be3c57b18", null ],
-    [ "WeeklyXP", "d1/d6f/a10259.html#a7fb40a5bce99fcf70176ebe344424ed2", null ]
+    [ "FormulaScript", "d1/d6f/a10259.html#a0c850c1a09bc78a4ceee5f27615d50d7", null ],
+    [ "OnAfterArenaRatingCalculation", "d1/d6f/a10259.html#aa3510b1cfb4661cf6028e1b9f443c865", null ],
+    [ "OnBaseGainCalculation", "d1/d6f/a10259.html#ab154eaf469d5fe3e86c364940816270a", null ],
+    [ "OnBeforeUpdatingPersonalRating", "d1/d6f/a10259.html#a2208a5684c95b936aa9ca1ae863d9682", null ],
+    [ "OnColorCodeCalculation", "d1/d6f/a10259.html#a83893099062d1fb7ce69fe38bf8c4699", null ],
+    [ "OnGainCalculation", "d1/d6f/a10259.html#aa83fab65cc89bd03021da2805e935ffb", null ],
+    [ "OnGrayLevelCalculation", "d1/d6f/a10259.html#affeb57234f961b9e01f5898c7738f38f", null ],
+    [ "OnGroupRateCalculation", "d1/d6f/a10259.html#a1098d29595b4f9206cccf3c3c1dad5f3", null ],
+    [ "OnHonorCalculation", "d1/d6f/a10259.html#a54a5e523ad5a9d3eb2dd061ced2d209f", null ],
+    [ "OnZeroDifferenceCalculation", "d1/d6f/a10259.html#a7755c35bc56e6645e36de08c12a4847d", null ]
 ];

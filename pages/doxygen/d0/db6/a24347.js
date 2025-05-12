@@ -1,6 +1,9 @@
 var a24347 =
 [
-    [ "PrepareSpellScript", "d0/db6/a24347.html#ae915f8f6522f0a8d308b2a5f43b8884f", null ],
-    [ "RecalculateDamage", "d0/db6/a24347.html#af01757d0968da2a096d800782ed7e66e", null ],
-    [ "Register", "d0/db6/a24347.html#a62b6613707a2a9b78d52bffe92de604e", null ]
+    [ "npc_pet_gen_toxic_wasteling", "d0/db6/a24347.html#a550a1a9324f605b1a9fd715571f819b7", null ],
+    [ "EnterEvadeMode", "d0/db6/a24347.html#abe25deca7fd1c319085995657d62f22a", null ],
+    [ "MovementInform", "d0/db6/a24347.html#aec73d567c3bd178ffee3bdece83a409e", null ],
+    [ "Reset", "d0/db6/a24347.html#a06a8be653c8685aaf28aee1d1d3ae114", null ],
+    [ "UpdateAI", "d0/db6/a24347.html#a22f96d995fcc722c0e95c4f5692cc128", null ],
+    [ "checkTimer", "d0/db6/a24347.html#aafe402e0443bd39a1b7aa274d95edad6", null ]
 ];

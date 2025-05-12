@@ -1,7 +1,7 @@
 var a22879 =
 [
-    [ "CalculateAmount", "d0/d96/a22879.html#adad1c8a513ce8a1badbd40c291363de1", null ],
-    [ "PrepareAuraScript", "d0/d96/a22879.html#ac1a896ac1a751c8bdaee186dffd8c251", null ],
-    [ "Register", "d0/d96/a22879.html#ae839fd19933a6fa9e55ce37e0633073e", null ],
-    [ "Update", "d0/d96/a22879.html#aeb5a347ccac3c5ce6faef7641b5fca1c", null ]
+    [ "npc_ashtongue_channeler", "d0/d96/a22879.html#af7217d00f87e56e5cdb411fcad161b51", null ],
+    [ "Reset", "d0/d96/a22879.html#ab935559c19b18f9c94dd36c85be5b3b2", null ],
+    [ "UpdateAI", "d0/d96/a22879.html#af855dfa521404c4e6127a9bf12a75604", null ],
+    [ "scheduler", "d0/d96/a22879.html#a4f58bbd2c44f7a3f9835fd55408ffaf4", null ]
 ];

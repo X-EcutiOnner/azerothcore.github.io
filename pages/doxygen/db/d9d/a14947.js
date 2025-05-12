@@ -1,6 +1,6 @@
 var a14947 =
 [
-    [ "OnPeriodic", "db/d9d/a14947.html#a08dce8b98afadc134166a615b4496151", null ],
-    [ "PrepareAuraScript", "db/d9d/a14947.html#a9ebb34665b176e4e60f085da65183d8e", null ],
-    [ "Register", "db/d9d/a14947.html#a6a04dbb7c66324e701a8db0ee0334123", null ]
+    [ "instance_ruins_of_ahnqiraj_InstanceMapScript", "d3/d24/a14951.html", "d3/d24/a14951" ],
+    [ "instance_ruins_of_ahnqiraj", "db/d9d/a14947.html#adeacb1c68e4b12995a335d1bedde075a", null ],
+    [ "GetInstanceScript", "db/d9d/a14947.html#a6a661e961c2599498de0ccd41c0763b4", null ]
 ];

@@ -1,10 +1,9 @@
 var a07323 =
 [
-    [ "value_type", "dd/d99/a07323.html#a821f7b556a5e7dd88e406eb856a5b635", null ],
-    [ "operator()", "dd/d99/a07323.html#a51db58c653c279b30d19e9188894adec", null ],
-    [ "operator()", "dd/d99/a07323.html#a6225e55f229eca06eef7e6c27531bbe9", null ],
-    [ "operator()", "dd/d99/a07323.html#ab516399a6965a67daed318a1058c87ef", null ],
-    [ "operator()", "dd/d99/a07323.html#abeeef774a78ec84f0020686aab425a5c", null ],
-    [ "operator()", "dd/d99/a07323.html#a0d4e9cb0ae75752363793d29599afbdc", null ],
-    [ "operator()", "dd/d99/a07323.html#a4a277a9ad5764e42c53746999e004b88", null ]
+    [ "CapturePointInfo", "dd/d99/a07323.html#a47ba3bbadd15909726e87dc5adc67686", null ],
+    [ "_captured", "dd/d99/a07323.html#aac26833d9951853183095b3985254e03", null ],
+    [ "_iconCapture", "dd/d99/a07323.html#a58adc22a7246dd7362efcf9d9a1891ad", null ],
+    [ "_iconNone", "dd/d99/a07323.html#a43228afe59b8fa004d2c740dd6262f8e", null ],
+    [ "_ownerTeamId", "dd/d99/a07323.html#aad378d1b07f1ef8c45b0bb1bcce7a028", null ],
+    [ "_state", "dd/d99/a07323.html#a98cb154218423e295b8007c62222831c", null ]
 ];

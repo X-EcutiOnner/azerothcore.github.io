@@ -1,6 +1,6 @@
 var a17427 =
 [
-    [ "npc_zafod_boomboxAI", "d4/d43/a17431.html", "d4/d43/a17431" ],
-    [ "npc_zafod_boombox", "d1/d98/a17427.html#a7124746ed3f25ae6d96a2fa1910d98d0", null ],
-    [ "GetAI", "d1/d98/a17427.html#af80f6913cef53d39cafdcd47b2cd07f0", null ]
+    [ "Cooldown", "d1/d98/a17427.html#ac2f21814be8269023a2069f3eb03dfe2", null ],
+    [ "Entry", "d1/d98/a17427.html#a28ff8bdab669f7b4aec95857cc460a2f", null ],
+    [ "TargetPosition", "d1/d98/a17427.html#ac47af49622012b4ad40357cadc5214b3", null ]
 ];

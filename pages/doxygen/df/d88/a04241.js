@@ -1,4 +1,4 @@
 var a04241 =
 [
-    [ "AllCreatureScript", "d6/d23/a10176.html", "d6/d23/a10176" ]
+    [ "main", "df/d88/a04241.html#a0ddf1224851353fc92bfbff6f499fa97", null ]
 ];

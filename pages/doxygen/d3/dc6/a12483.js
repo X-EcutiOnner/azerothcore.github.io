@@ -1,6 +1,6 @@
 var a12483 =
 [
-    [ "boss_warlord_salaris", "d3/dc6/a12483.html#afe9ace28dcd302e9b9a9ebe806e2ada5", null ],
-    [ "JustEngagedWith", "d3/dc6/a12483.html#a77b3b531466810ee17f9fd6eadf5872a", null ],
-    [ "UpdateAI", "d3/dc6/a12483.html#a265aab47f95d952125c98773b53a67bf", null ]
+    [ "boss_mr_smiteAI", "df/d41/a12487.html", "df/d41/a12487" ],
+    [ "boss_mr_smite", "d3/dc6/a12483.html#a011d41112ef7376b71d2959f806be262", null ],
+    [ "GetAI", "d3/dc6/a12483.html#a619ca0aede1eb33f992328048319c4f0", null ]
 ];

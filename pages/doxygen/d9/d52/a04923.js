@@ -1,11 +1,10 @@
 var a04923 =
 [
-    [ "material", "d9/d52/a04923.html#a29addcb613bc63a100633e612d1dc2d2", null ],
-    [ "pos_x", "d9/d52/a04923.html#a02e9d8789336d77e34bffa19adbab394", null ],
-    [ "pos_y", "d9/d52/a04923.html#ac3162ce321a1f21e4e6fe35041e49a6a", null ],
-    [ "pos_z", "d9/d52/a04923.html#a6e2a2d5d9151d5c6d70fd0d47e6c18e3", null ],
-    [ "xtiles", "d9/d52/a04923.html#a94789843c68d705184e6332ac46bd69d", null ],
-    [ "xverts", "d9/d52/a04923.html#a0548c3fdb216c115a7d3843e4fbc6de3", null ],
-    [ "ytiles", "d9/d52/a04923.html#ac50224cdce231460c78c3e0f077b555d", null ],
-    [ "yverts", "d9/d52/a04923.html#aa9ecb62b53af527b3bd855b8e93ba604", null ]
+    [ "DynamicTreeLocationInfoCallback", "d9/d52/a04923.html#a3fcb6d535b2207e2bfedb961de856e6d", null ],
+    [ "GetHitModel", "d9/d52/a04923.html#ac939625c44c7be8ba8b96d55545b657c", null ],
+    [ "GetLocationInfo", "d9/d52/a04923.html#ac1c3839aa1f0e9b64390502c4ce7bb3e", null ],
+    [ "operator()", "d9/d52/a04923.html#a4d2569c48cfa431282119ed5bd53ffb4", null ],
+    [ "_hitModel", "d9/d52/a04923.html#adef79d7627daa66d88c7146704984622", null ],
+    [ "_locationInfo", "d9/d52/a04923.html#a3c9be93de73520942a8d52b78fe72438", null ],
+    [ "_phaseMask", "d9/d52/a04923.html#aebe4c7cfc47b3bd2701b2b9cda2ed71e", null ]
 ];

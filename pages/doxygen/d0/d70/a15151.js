@@ -1,6 +1,8 @@
 var a15151 =
 [
-    [ "npc_magwinAI", "db/d54/a15155.html", "db/d54/a15155" ],
-    [ "npc_magwin", "d0/d70/a15151.html#a1a45602fd312a4c436b09fb7b90ac1d4", null ],
-    [ "GetAI", "d0/d70/a15151.html#a83bee0fd5c1494f2bb732fe9e0ed1594", null ]
+    [ "npc_obsidian_eradicator", "d0/d70/a15151.html#a84a6c414b3d74468143984e57f83e383", null ],
+    [ "JustEngagedWith", "d0/d70/a15151.html#ab03b7138306a04a00938bf1cdb9a7966", null ],
+    [ "Reset", "d0/d70/a15151.html#a7c76c7d3a69e464c0dcb6a96226baa61", null ],
+    [ "UpdateAI", "d0/d70/a15151.html#a1697d83e89559f047d5bab652007bb61", null ],
+    [ "_targetGUIDs", "d0/d70/a15151.html#abd83775d1eab5ab2a3aadd7fd925c3ae", null ]
 ];

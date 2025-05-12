@@ -1,7 +1,9 @@
 var a17727 =
 [
-    [ "HandleScript", "de/dd1/a17727.html#afc76149cb44a4d2aab48350fb4392036", null ],
-    [ "PrepareSpellScript", "de/dd1/a17727.html#a8598de219c2402596fe97b5dd32c534e", null ],
-    [ "Register", "de/dd1/a17727.html#ac9d4842632431e52932f66d09042ea70", null ],
-    [ "ScaleRange", "de/dd1/a17727.html#a9bcc80bd2a8df20ac7fc8f2256f519d9", null ]
+    [ "CountTargets", "de/dd1/a17727.html#aa72b762d802c27047d485a8a314c6c6d", null ],
+    [ "Load", "de/dd1/a17727.html#a80a5d0f997f5d68a4fb438a81295fa52", null ],
+    [ "PrepareSpellScript", "de/dd1/a17727.html#acfd2927786a5bcefa0889d7e8aa40f72", null ],
+    [ "Register", "de/dd1/a17727.html#a86cad92c07fa31c730a3b560d33ed824", null ],
+    [ "SplitDamage", "de/dd1/a17727.html#a501a46b3e3988ae8cb8af1ff87eeac65", null ],
+    [ "_targetCount", "de/dd1/a17727.html#a39b8e5443250777594e3b4417d5ea1ec", null ]
 ];

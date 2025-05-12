@@ -1,5 +1,7 @@
 var a22623 =
 [
-    [ "instance_sethekk_halls_InstanceMapScript", "d6/d11/a22623.html#a037ee225b626b64436570680ae4e9ea0", null ],
-    [ "ProcessEvent", "d6/d11/a22623.html#aba05b0edb57e6c42bd45593a51598365", null ]
+    [ "HandleProc", "d6/d11/a22623.html#a4d12ab1b286105fdad5eb2dd20131408", null ],
+    [ "PrepareAuraScript", "d6/d11/a22623.html#a94b6499dc2e1fa95a50bd9c3c491e858", null ],
+    [ "Register", "d6/d11/a22623.html#a6b764182501a1d192f90dc20bbd6549e", null ],
+    [ "Validate", "d6/d11/a22623.html#ad89123425cca5bd02a18526a11595a1a", null ]
 ];

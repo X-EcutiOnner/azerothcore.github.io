@@ -1,5 +1,7 @@
 var a04879 =
 [
-    [ "clear", "d1/d8e/a04879.html#a69bc508845bc35319a6d8c51e562a5f9", null ],
-    [ "createOrGetVMapMgr", "d1/d8e/a04879.html#a80f01f24b27dd7a5a795c193d0816624", null ]
+    [ "indices", "d1/d8e/a04879.html#a23cadbd54502fb4edc68e052e5774664", null ],
+    [ "maxPrims", "d1/d8e/a04879.html#a0c46f35977fe683a19e7cb1e580a814b", null ],
+    [ "numPrims", "d1/d8e/a04879.html#a623b9ee05707ecdbaa816c797e358e86", null ],
+    [ "primBound", "d1/d8e/a04879.html#a3304ad5d821f178941fd44da897213de", null ]
 ];

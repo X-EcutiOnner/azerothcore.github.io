@@ -1,7 +1,8 @@
 var a08563 =
 [
-    [ "equipement_id_prev", "db/dcd/a08563.html#a93a895fa31cef29fa739225316886e78", null ],
-    [ "equipment_id", "db/dcd/a08563.html#af21361c600fb9609f554b64bc5cfb4c2", null ],
-    [ "modelid", "db/dcd/a08563.html#a53296cbdf02039d19610c21e0f7d5d1d", null ],
-    [ "modelid_prev", "db/dcd/a08563.html#a976ce0cdd7c8e95465bc999d26347bde", null ]
+    [ "checkLeaderOnly", "db/dcd/a08563.html#ade8f2e22abe69a9a32085e4d901bc83b", null ],
+    [ "faction", "db/dcd/a08563.html#a23c649e494795b27856b67225370a820", null ],
+    [ "id", "db/dcd/a08563.html#a5d5b8f6fe0bfc5ae98c2fb10e3a18360", null ],
+    [ "note", "db/dcd/a08563.html#a0e800dd8869fedbe71e5b14aa3c79d8a", null ],
+    [ "priority", "db/dcd/a08563.html#a3a66018ae4e7a7e755962f1edae58d29", null ]
 ];

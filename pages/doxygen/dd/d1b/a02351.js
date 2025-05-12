@@ -1,8 +1,15 @@
 var a02351 =
 [
-    [ "instance_trial_of_the_champion", "dd/da8/a16208.html", "dd/da8/a16208" ],
-    [ "instance_trial_of_the_champion::instance_trial_of_the_champion_InstanceMapScript", "df/d14/a16212.html", "df/d14/a16212" ],
-    [ "CLEANUP_CHECK_INTERVAL", "dd/d1b/a02351.html#a736c9181af440341040d67d6b54e5700", null ],
-    [ "AddSC_instance_trial_of_the_champion", "dd/d1b/a02351.html#a15e8163b6e8598d38b9f8c3b0ab9d5bd", null ],
-    [ "SpawnPosition", "dd/d1b/a02351.html#a70438d12d4153aa7d510c89551abf7c9", null ]
+    [ "GameObjectTemplate", "d4/d47/a08147.html", "d4/d47/a08147" ],
+    [ "GameObjectTemplateAddon", "d2/ded/a08271.html", "d2/ded/a08271" ],
+    [ "GameObjectLocale", "d2/df4/a08275.html", "d2/df4/a08275" ],
+    [ "GameObjectAddon", "de/d87/a08279.html", "de/d87/a08279" ],
+    [ "GameObjectData", "dc/d63/a08283.html", "dc/d63/a08283" ],
+    [ "MAX_GAMEOBJECT_QUEST_ITEMS", "dd/d1b/a02351.html#a7698721f2eb4f87abac1a64a64ecf676", null ],
+    [ "MAX_GO_STATE", "dd/d1b/a02351.html#ac148792c2982ecdddc593bf3871aa520", null ],
+    [ "GOState", "dd/d1b/a02351.html#ac17cd142af80da019367bb796b15e5ab", [
+      [ "GO_STATE_ACTIVE", "dd/d1b/a02351.html#ac17cd142af80da019367bb796b15e5abaf4f299c1cfc830c90418c4487c567c1e", null ],
+      [ "GO_STATE_READY", "dd/d1b/a02351.html#ac17cd142af80da019367bb796b15e5aba8dd2dd7e5c1dda64ff6d0d06d623b650", null ],
+      [ "GO_STATE_ACTIVE_ALTERNATIVE", "dd/d1b/a02351.html#ac17cd142af80da019367bb796b15e5abaf8410e5f8e696adf15ecdd441dee7e0e", null ]
+    ] ]
 ];

@@ -1,5 +1,8 @@
 var a21759 =
 [
-    [ "at_q24545_frostmourne_cavern", "de/d51/a21759.html#a76e2d8424b5fcd037fabfa9b878d21e1", null ],
-    [ "OnTrigger", "de/d51/a21759.html#a9016ef31fde1bbcaf57a17e64ea8d503", null ]
+    [ "npc_q24545_vegardAI", "de/d51/a21759.html#a6a86b56508a86bf32ab5fb2bd46248c9", null ],
+    [ "JustDied", "de/d51/a21759.html#a1f7784242bbaf39d0fb105d2930da37c", null ],
+    [ "KilledUnit", "de/d51/a21759.html#a2d78117a6c2a29f52f1905595425964a", null ],
+    [ "UpdateAI", "de/d51/a21759.html#a79cc34760b58ad4b29c6a0a496971f0a", null ],
+    [ "events", "de/d51/a21759.html#a68f48d92cc5559025e635d599c2882e3", null ]
 ];

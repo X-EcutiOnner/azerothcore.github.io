@@ -1,6 +1,8 @@
 var a19555 =
 [
-    [ "HandleEffectRemove", "d5/d6b/a19555.html#a529d6d96d7f7a682646ac76d2738afad", null ],
-    [ "PrepareAuraScript", "d5/d6b/a19555.html#ad32012414b24efa48db05cba2d8e86f2", null ],
-    [ "Register", "d5/d6b/a19555.html#aa38b273ed6e9482c8c2fca712ea5b459", null ]
+    [ "iron_golem_custodianAI", "d5/d6b/a19555.html#aeeeed1383f5d221eb7b5cd5d3a6ea4fb", null ],
+    [ "JustEngagedWith", "d5/d6b/a19555.html#acd67b8d4df95eb8b0d0365184e47a29c", null ],
+    [ "Reset", "d5/d6b/a19555.html#af3193696d665746eecd9c62128d8684d", null ],
+    [ "UpdateAI", "d5/d6b/a19555.html#ab1d3910b07a6c5c53f5388a10dc48775", null ],
+    [ "events", "d5/d6b/a19555.html#a9e0bcc9ae6918f9fa40cbf8085d4ec42", null ]
 ];

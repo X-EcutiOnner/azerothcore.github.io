@@ -1,10 +1,6 @@
 var a03758 =
 [
-    [ "TradeData", "d8/d93/a08612.html", "d8/d93/a08612" ],
-    [ "TradeSlots", "da/d85/a03758.html#ad8fd978c4198825d89a1f02643d20c62", [
-      [ "TRADE_SLOT_COUNT", "da/d85/a03758.html#ad8fd978c4198825d89a1f02643d20c62a1e8d56a5a22d784c5d388fd8bd206488", null ],
-      [ "TRADE_SLOT_TRADED_COUNT", "da/d85/a03758.html#ad8fd978c4198825d89a1f02643d20c62ab52f8b8c3be8445987c622e4dfacaa79", null ],
-      [ "TRADE_SLOT_NONTRADED", "da/d85/a03758.html#ad8fd978c4198825d89a1f02643d20c62abdab7c30065c4b145dd2e6ce0e27c45f", null ],
-      [ "TRADE_SLOT_INVALID", "da/d85/a03758.html#ad8fd978c4198825d89a1f02643d20c62ab98427dca4bc30e207c0433e5e307ad4", null ]
-    ] ]
+    [ "clearAcceptTradeMode", "da/d85/a03758.html#ab516bffb39dfd3d3133b1d3a515c9fb1", null ],
+    [ "clearAcceptTradeMode", "da/d85/a03758.html#a7b5fc6374a945ebbe9b397c1e115e952", null ],
+    [ "setAcceptTradeMode", "da/d85/a03758.html#a63b255ea813e0ea4f109492ed7f0213c", null ]
 ];

@@ -1,6 +1,7 @@
 var a19019 =
 [
-    [ "FilterTargets", "dd/d1f/a19019.html#a4d5340e7b2e3326ff36b4d61d1faeaa9", null ],
-    [ "PrepareSpellScript", "dd/d1f/a19019.html#a452937a4e95b40366f915213ec475a84", null ],
-    [ "Register", "dd/d1f/a19019.html#a883e383928a9b0ad0aeccf7afee4f15e", null ]
+    [ "OnPeriodic", "dd/d1f/a19019.html#ae685e9d36b85af8a7e33cefbd439a2f4", null ],
+    [ "PrepareAuraScript", "dd/d1f/a19019.html#a1362103840db4b3c40ef7d6b0aa5226c", null ],
+    [ "Register", "dd/d1f/a19019.html#a39b03ebd7f6233f373f52e34f18dad10", null ],
+    [ "Validate", "dd/d1f/a19019.html#a54cfed486827216817adb740efa6646e", null ]
 ];

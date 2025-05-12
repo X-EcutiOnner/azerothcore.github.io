@@ -1,6 +1,7 @@
 var a15103 =
 [
-    [ "instance_wailing_caverns_InstanceMapScript", "d9/d51/a15107.html", "d9/d51/a15107" ],
-    [ "instance_wailing_caverns", "d6/dfc/a15103.html#a906f59c39f59237e9eedb479dfc7d825", null ],
-    [ "GetInstanceScript", "d6/dfc/a15103.html#a0f1020e86443d6902b3c4d8726f3e610", null ]
+    [ "boss_glob_of_viscidus", "d6/dfc/a15103.html#a1ba72393766110382dc4ce4122dfd1ee", null ],
+    [ "InitializeAI", "d6/dfc/a15103.html#a0247055fc4f3a60c880ffb78e96edcb9", null ],
+    [ "MovementInform", "d6/dfc/a15103.html#abe0cd95930fe52fdb5a40c704d092b90", null ],
+    [ "UpdateAI", "d6/dfc/a15103.html#a2e8e38ccdf4ab5e32bd750d73daf1605", null ]
 ];

@@ -1,5 +1,6 @@
 var a10863 =
 [
-    [ "ImplicitTargetType", "d0/da5/a10863.html#adc4268d74a3f0b47902e16eea2fc854a", null ],
-    [ "UsedTargetObjectType", "d0/da5/a10863.html#a7bbc11d4a7a68f9441d393c7b48f5231", null ]
+    [ "TotemDestroyed", "d0/da5/a10863.html#a3bcaa030b2c15d54617564cf0f5e4c36", null ],
+    [ "Read", "d0/da5/a10863.html#a0bc6b5a33024d4fd8bc8dd4cfa25d3e2", null ],
+    [ "Slot", "d0/da5/a10863.html#a41eebde65aa696c2dec812da0aeab633", null ]
 ];

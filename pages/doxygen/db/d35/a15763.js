@@ -1,6 +1,6 @@
 var a15763 =
 [
-    [ "instance_azjol_nerub_InstanceScript", "d9/d94/a15767.html", "d9/d94/a15767" ],
-    [ "instance_azjol_nerub", "db/d35/a15763.html#a61476a0d15136d2bdb3a65eca72963da", null ],
-    [ "GetInstanceScript", "db/d35/a15763.html#a8bb8477669c6369afe508a400bd4d489", null ]
+    [ "PrepareSpellScript", "db/d35/a15763.html#a74a2601e2c160bb4a9b18d421775e6b3", null ],
+    [ "Register", "db/d35/a15763.html#a17a07973a3c043683fc4fe0d1fc45156", null ],
+    [ "SetDest", "db/d35/a15763.html#a3751a14d6e36140ee368d8ded6df03ee", null ]
 ];

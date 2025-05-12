@@ -1,7 +1,7 @@
 var a21991 =
 [
-    [ "npc_battle_at_valhalasAI", "d4/dc1/a21995.html", "d4/dc1/a21995" ],
-    [ "npc_battle_at_valhalas", "d6/d6c/a21991.html#aacec717b5b91ae55307c9642779c15ec", null ],
-    [ "GetAI", "d6/d6c/a21991.html#a3660ba847b3b40c2d358d63c63517a5e", null ],
-    [ "OnQuestAccept", "d6/d6c/a21991.html#addd76fd9f4b4f8ce706693614b80966b", null ]
+    [ "GetSeatNumber", "d6/d6c/a21991.html#a8e18a10196667fd3dfba58d16fa281b9", null ],
+    [ "HandleDummy", "d6/d6c/a21991.html#ac5945381452559e1d5655f5345bdeff3", null ],
+    [ "PrepareSpellScript", "d6/d6c/a21991.html#aad375c0d3d1f0352cbda6a23cfb61272", null ],
+    [ "Register", "d6/d6c/a21991.html#aad1cb82fdcd170f5a43f5007ebaadf2e", null ]
 ];

@@ -1,7 +1,6 @@
 var a19515 =
 [
-    [ "creature", "d1/d99/a19515.html#a55a6ee677ab51120867f542e5a5745b0", null ],
-    [ "sound", "d1/d99/a19515.html#a407acf5c908aa44a169adc1e88a70ab4", null ],
-    [ "text", "d1/d99/a19515.html#a9ed157ddf2c274d021820723b1ebe00e", null ],
-    [ "timer", "d1/d99/a19515.html#a198a3a5a4ad037b591fc3b85675bdfe1", null ]
+    [ "boss_sjonnir_malformed_oozeAI", "d2/d89/a19519.html", "d2/d89/a19519" ],
+    [ "boss_sjonnir_malformed_ooze", "d1/d99/a19515.html#ad151bc07b032b6cceed046d1b25ecc08", null ],
+    [ "GetAI", "d1/d99/a19515.html#a22807bb07692511c5ec87073d98c2604", null ]
 ];

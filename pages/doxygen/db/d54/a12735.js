@@ -1,6 +1,6 @@
 var a12735 =
 [
-    [ "boss_darkmaster_gandlingAI", "d8/da1/a12739.html", "d8/da1/a12739" ],
-    [ "boss_darkmaster_gandling", "db/d54/a12735.html#a6db73fa3c8324f6bfdcb1ae6a72ee39b", null ],
-    [ "GetAI", "db/d54/a12735.html#a21ea53862614303af31a517a53d1fbf6", null ]
+    [ "HandleAfterCast", "db/d54/a12735.html#a5ca38a2828359e4f373323d1d6cc91cf", null ],
+    [ "PrepareSpellScript", "db/d54/a12735.html#aa0956db2d03405a54893bc30516f5839", null ],
+    [ "Register", "db/d54/a12735.html#a45726adacf1d30b5488df54f57447c0c", null ]
 ];

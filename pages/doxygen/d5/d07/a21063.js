@@ -1,6 +1,6 @@
 var a21063 =
 [
-    [ "npc_ravenous_furbolgAI", "dd/da8/a21067.html", "dd/da8/a21067" ],
-    [ "npc_ravenous_furbolg", "d5/d07/a21063.html#a1d7adf8eb055cb6ba82db2f173256fe9", null ],
-    [ "GetAI", "d5/d07/a21063.html#a284c366e6f5bd024d9627a83dd966669", null ]
+    [ "boss_skadiAI", "dd/da8/a21067.html", "dd/da8/a21067" ],
+    [ "boss_skadi", "d5/d07/a21063.html#a124c1c1de7ba232b3256a65547370464", null ],
+    [ "GetAI", "d5/d07/a21063.html#a4b66199169442af5ec6542be71c19033", null ]
 ];

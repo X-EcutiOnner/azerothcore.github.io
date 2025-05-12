@@ -1,6 +1,8 @@
 var a18455 =
 [
-    [ "npc_rotting_frost_giantAI", "d4/d1d/a18459.html", "d4/d1d/a18459" ],
-    [ "npc_rotting_frost_giant", "d1/d71/a18455.html#ad4440216e11a00d97af43dc5f3957e95", null ],
-    [ "GetAI", "d1/d71/a18455.html#aabc388b3690f2d03e903c7f480d52842", null ]
+    [ "DecayPeriodicTimer", "d1/d71/a18455.html#a314ac33692cc352c490ec3d87177d67a", null ],
+    [ "Load", "d1/d71/a18455.html#af5a498253c4c382df3b2462a30448a64", null ],
+    [ "PrepareAuraScript", "d1/d71/a18455.html#ac5d4ee199b49e04499997355ac054554", null ],
+    [ "Register", "d1/d71/a18455.html#a1b59480ce384f09cecd47872b39cf3c5", null ],
+    [ "_decayRate", "d1/d71/a18455.html#a20c696ff06f9b48451d9eac43ccf5416", null ]
 ];

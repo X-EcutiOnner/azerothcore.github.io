@@ -1,6 +1,6 @@
 var a14831 =
 [
-    [ "HandleScript", "d0/db5/a14831.html#a7e6ec873a252106ba865bdef05f757f5", null ],
-    [ "PrepareSpellScript", "d0/db5/a14831.html#a98e80c8726c350aca850b6c87c5861da", null ],
-    [ "Register", "d0/db5/a14831.html#a994bb1f4670d16f6797b9e0df1d8c36c", null ]
+    [ "npc_idol_room_spawnerAI", "d7/d56/a14835.html", "d7/d56/a14835" ],
+    [ "npc_idol_room_spawner", "d0/db5/a14831.html#ac51fed89c27ebf6ae3cf65ca8909eab1", null ],
+    [ "GetAI", "d0/db5/a14831.html#a3017caa645e98a7647ec42a43c025624", null ]
 ];

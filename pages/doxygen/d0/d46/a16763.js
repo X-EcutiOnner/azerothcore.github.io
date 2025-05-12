@@ -1,12 +1,12 @@
 var a16763 =
 [
-    [ "npc_tortured_riflemanAI", "d0/d46/a16763.html#a65dc1d2ba5769aed1a0b2487322ff2b1", null ],
-    [ "AttackStart", "d0/d46/a16763.html#aaf2b73d0b60791f887207842580d91dc", null ],
-    [ "DoAction", "d0/d46/a16763.html#acb941c20d911a567c93bb0f92105fdfd", null ],
-    [ "EnterEvadeMode", "d0/d46/a16763.html#aabd56fc4aaed247a9ac3ce5bcdc4cb50", null ],
-    [ "JustDied", "d0/d46/a16763.html#a5796a96626937e1026cc1fec0eba4e0b", null ],
-    [ "JustEngagedWith", "d0/d46/a16763.html#ac5d8f17c48269da06c14643e82c88567", null ],
-    [ "Reset", "d0/d46/a16763.html#a04f9c7056e063d436df66f079127d1a7", null ],
-    [ "UpdateAI", "d0/d46/a16763.html#a194a615eef3651cdc97d4e4ad57bf017", null ],
-    [ "events", "d0/d46/a16763.html#a958f27c1f917dc1ae0a9f84549481f93", null ]
+    [ "npc_ghostly_priestAI", "d0/d46/a16763.html#abb6815d1395b68654eeb6ab8b4217388", null ],
+    [ "AttackStart", "d0/d46/a16763.html#a9719d1ad6e58b727bc1720cb815be3e9", null ],
+    [ "DoAction", "d0/d46/a16763.html#a89c991a1d4c07f1229436871f503c949", null ],
+    [ "EnterEvadeMode", "d0/d46/a16763.html#ab8fd2df32ef12f5f648b8af9abcc3201", null ],
+    [ "JustDied", "d0/d46/a16763.html#a004e8aec05741b9ee36b0695840e6c2a", null ],
+    [ "JustEngagedWith", "d0/d46/a16763.html#a780d530e224ca1f72e26db17cd57f44a", null ],
+    [ "Reset", "d0/d46/a16763.html#ab8f7559110be76633153842e0714554a", null ],
+    [ "UpdateAI", "d0/d46/a16763.html#ab431f451963d0b608f11129934496700", null ],
+    [ "events", "d0/d46/a16763.html#a9b49c143b5a29b4f9b4ce34ce0aecca7", null ]
 ];

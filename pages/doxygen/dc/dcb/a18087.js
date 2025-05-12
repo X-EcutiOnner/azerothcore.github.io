@@ -1,7 +1,6 @@
 var a18087 =
 [
-    [ "HandleScript", "dc/dcb/a18087.html#aef02c7f9ee2a5dda9f6b18d8aa386759", null ],
-    [ "PrepareSpellScript", "dc/dcb/a18087.html#acbfd8657da20f2e91a9ef43cab7c4113", null ],
-    [ "Register", "dc/dcb/a18087.html#ad83d563da98ad189f2198a061b1cd50f", null ],
-    [ "Validate", "dc/dcb/a18087.html#a8f371bdbc57624c295efb14e2ca067c5", null ]
+    [ "VileSpiritActivateEvent", "dc/dcb/a18087.html#ac7d37d3b7b3173015a2af9ce93b8f2f9", null ],
+    [ "Execute", "dc/dcb/a18087.html#a858892424e1f22fda9a7c519b6a7e0b6", null ],
+    [ "_owner", "dc/dcb/a18087.html#a385fc75b5d77d8776d5a8e948fa69724", null ]
 ];

@@ -1,8 +1,7 @@
 var a05619 =
 [
-    [ "Statements", "de/dba/a05619.html#a6dc31cb64a22e90cc5275bf6fcaaf000", null ],
-    [ "LoginDatabaseConnection", "de/dba/a05619.html#aed22866380f9331ff73d4437a779206c", null ],
-    [ "LoginDatabaseConnection", "de/dba/a05619.html#a27fa1397706cf8b986fe0a05a82a910b", null ],
-    [ "~LoginDatabaseConnection", "de/dba/a05619.html#a7514a6e42889d5d75dcce2e804fff7b8", null ],
-    [ "DoPrepareStatements", "de/dba/a05619.html#a3f826d59e4efa55d7825f90f434ae889", null ]
+    [ "cmd", "de/dba/a05619.html#a91e8e56c304147b88db250259ff0a87c", null ],
+    [ "error", "de/dba/a05619.html#a0872e20a5adcd52a94036bdc6eddc6e6", null ],
+    [ "M2", "de/dba/a05619.html#a9bb7dca6b62d35ecae97197c4c9693b7", null ],
+    [ "unk2", "de/dba/a05619.html#a47d83719b502236fdad41e2d07b535a0", null ]
 ];

@@ -1,6 +1,7 @@
 var a18931 =
 [
-    [ "boss_kelthuzad_minionAI", "d4/d0d/a18935.html", "d4/d0d/a18935" ],
-    [ "boss_kelthuzad_minion", "d5/dca/a18931.html#a4c6d430035c964b4063139c0cda6bfff", null ],
-    [ "GetAI", "d5/dca/a18931.html#ab951068fedced148653ebf9124ba5e3d", null ]
+    [ "FilterTargets", "d5/dca/a18931.html#a56ff062a6014099623466145a66284cc", null ],
+    [ "PrepareSpellScript", "d5/dca/a18931.html#aa14623bb948ff457e52979facf74ffab", null ],
+    [ "Register", "d5/dca/a18931.html#a9494bea35088161c9a520395d714fde1", null ],
+    [ "Validate", "d5/dca/a18931.html#a6a02bc1a79a5f4fefe3b1e2900eaf0b4", null ]
 ];

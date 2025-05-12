@@ -1,9 +1,9 @@
 var a07019 =
 [
-    [ "Rank", "d5/d14/a07019.html#a9bcd8dc00437bcf015565eeb43263578", null ],
-    [ "Rating", "d5/d14/a07019.html#ab43875cc3ae58eb636a490c2c0f5c1f6", null ],
-    [ "SeasonGames", "d5/d14/a07019.html#a124c6d64f22c13707764eedd79fe1912", null ],
-    [ "SeasonWins", "d5/d14/a07019.html#ad274601b85ea634524b1c00979e09465", null ],
-    [ "WeekGames", "d5/d14/a07019.html#a1d0092200b2c9428e821473949cfda77", null ],
-    [ "WeekWins", "d5/d14/a07019.html#a313afef901bd5a9347f2074a7ca1bfe0", null ]
+    [ "SmartWaypointMgr", "d5/d14/a07019.html#ad9168edcc4fd16260178d4a9277f71ba", null ],
+    [ "~SmartWaypointMgr", "d5/d14/a07019.html#a300be22ad39e320833297c3f05cdcecc", null ],
+    [ "GetPath", "d5/d14/a07019.html#ac3ea00baf665a3a201c911c875600010", null ],
+    [ "instance", "d5/d14/a07019.html#a7ae477d4d210d938e167453d9085e520", null ],
+    [ "LoadFromDB", "d5/d14/a07019.html#a9b5cdb29d31e7de0a407f600aef482af", null ],
+    [ "waypoint_map", "d5/d14/a07019.html#a6acec90c526e47c3b16d1ba556f79c35", null ]
 ];

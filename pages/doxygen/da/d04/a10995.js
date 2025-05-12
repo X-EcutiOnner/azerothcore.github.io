@@ -1,6 +1,7 @@
 var a10995 =
 [
-    [ "EffectBase", "da/d04/a10995.html#ab02f9f344e2f32ad59b35993d5c8f819", null ],
-    [ "CheckEffect", "da/d04/a10995.html#a8c300ca68c3ff6f74b230835c566fd60", null ],
-    [ "ToString", "da/d04/a10995.html#ab6f5b2a7ec1183206110eac9a21a7de5", null ]
+    [ "IsValidOpcode", "da/d04/a10995.html#afdba55f89a1c7ffb9e7c302f2269687f", null ],
+    [ "IsValidSize", "da/d04/a10995.html#aec5192f7f57a16c9dfa244ff3874e693", null ],
+    [ "cmd", "da/d04/a10995.html#ad0a112cb2a8a71e6e8c20e320af63f49", null ],
+    [ "size", "da/d04/a10995.html#ac1d551036381db4f85b8dc92ea55d4ee", null ]
 ];

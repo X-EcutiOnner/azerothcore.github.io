@@ -1,6 +1,7 @@
 var a15919 =
 [
-    [ "npc_halion_controllerAI", "d9/da4/a15923.html", "d9/da4/a15923" ],
-    [ "npc_halion_controller", "d1/d5c/a15919.html#ac88ff15ce4d89d737eb6dd6b649e1218", null ],
-    [ "GetAI", "d1/d5c/a15919.html#a3c5ea3f0597c070005744ea788a05383", null ]
+    [ "DelayedTalk", "d1/d5c/a15919.html#a8a7ea9e6ddebd73996cfe8d9723276bc", null ],
+    [ "Execute", "d1/d5c/a15919.html#a88c1915e73bcbd8ec253a537c416caf7", null ],
+    [ "_owner", "d1/d5c/a15919.html#a9d13769bb3fbaed32919fc919da35006", null ],
+    [ "_talkId", "d1/d5c/a15919.html#a3f3a1688a36807c653a5d071dd2bb389", null ]
 ];

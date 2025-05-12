@@ -1,6 +1,9 @@
 var a10991 =
 [
-    [ "AuraDispelHandler", "d9/d45/a10991.html#ab6e675b4db931c601b3d6aef65ae0ff6", null ],
-    [ "Call", "d9/d45/a10991.html#a147d8a6d95f011f27600d052ef7b4000", null ],
-    [ "pHandlerScript", "d9/d45/a10991.html#ab7dd73a36aa517354a023deb7db0cf19", null ]
+    [ "EncryptableAndCompressiblePacket", "d9/d45/a10991.html#a64eb3fa6b02a6aff486aa2d9a4d09fc6", null ],
+    [ "CompressIfNeeded", "d9/d45/a10991.html#a113d89a8f2832c5db01611ff71d2bc73", null ],
+    [ "NeedsCompression", "d9/d45/a10991.html#ad376b973f02c1b0cd2afbb43cc081917", null ],
+    [ "NeedsEncryption", "d9/d45/a10991.html#a114e5d6da2e81a26e478f7aea287d08a", null ],
+    [ "_encrypt", "d9/d45/a10991.html#a37a68eddad23001a85a4a2f77e237810", null ],
+    [ "SocketQueueLink", "d9/d45/a10991.html#a88f11ce75f439fd290bdc09156d559c2", null ]
 ];

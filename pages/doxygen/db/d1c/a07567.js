@@ -1,7 +1,4 @@
 var a07567 =
 [
-    [ "HyperlinkDataTokenizer", "db/d1c/a07567.html#a1fb14152c61205ce31fcf2bfeaeceeaf", null ],
-    [ "IsEmpty", "db/d1c/a07567.html#a4f74f1647780c9f2769443dbfeba6a7e", null ],
-    [ "TryConsumeTo", "db/d1c/a07567.html#a42e18263129c27149bf9a91b3dc42418", null ],
-    [ "_str", "db/d1c/a07567.html#ab497f7f0b3cab4b8c4813ba443ff1c91", null ]
+    [ "TryConsume", "db/d1c/a07567.html#a8f2b6448f80a4fac69d0157c9f556dc4", null ]
 ];

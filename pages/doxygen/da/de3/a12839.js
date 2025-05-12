@@ -1,7 +1,7 @@
 var a12839 =
 [
-    [ "OnPeriodic", "da/de3/a12839.html#aa48b6f35302a8857465c6567f811dec6", null ],
-    [ "PrepareAuraScript", "da/de3/a12839.html#ad606a06f64b85c762f3c83bc9ca5b7b3", null ],
-    [ "Register", "da/de3/a12839.html#aa7708067531131738b86077638eda7ac", null ],
-    [ "Validate", "da/de3/a12839.html#a665698b54201184185d96bd33f53e584", null ]
+    [ "npc_scarlet_cannonAI", "da/de3/a12839.html#a26720b34088b8063544f8c5db3b8d67c", null ],
+    [ "PassengerBoarded", "da/de3/a12839.html#a71241dfc9b3ebe1f664d0adf03439c41", null ],
+    [ "UpdateAI", "da/de3/a12839.html#a18ebb585e9b83f3781d3c49de5dc73b5", null ],
+    [ "summonAttackers", "da/de3/a12839.html#a9e8eeb6995dae9a9d9ec3cb0ca6a07f5", null ]
 ];

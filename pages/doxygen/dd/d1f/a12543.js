@@ -1,6 +1,7 @@
 var a12543 =
 [
-    [ "CheckRequirement", "dd/d1f/a12543.html#a262637743ff968a9cb5bfd7f08c6a238", null ],
-    [ "PrepareSpellScript", "dd/d1f/a12543.html#a0f96b9517e9c954366651e103e02c4ec", null ],
-    [ "Register", "dd/d1f/a12543.html#a2075457887ef8b41b34e7d2ec80e8308", null ]
+    [ "boss_maiden_of_virtue", "dd/d1f/a12543.html#a4cd0c7a566e23e5c3a43466214f35dd3", null ],
+    [ "JustDied", "dd/d1f/a12543.html#a6eded246318f6b47b46f45168e4a8069", null ],
+    [ "JustEngagedWith", "dd/d1f/a12543.html#a6ff1b9e0a17218ad4871bc5fc3748671", null ],
+    [ "KilledUnit", "dd/d1f/a12543.html#a32dd66a297d11f5ffac1841bae15727a", null ]
 ];

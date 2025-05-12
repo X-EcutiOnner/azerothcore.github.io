@@ -1,8 +1,9 @@
 var a08487 =
 [
-    [ "AttackPosition", "d0/d81/a08487.html#a6681bcab6c497d2c7fc6e5585f422744", null ],
-    [ "operator=", "d0/d81/a08487.html#a019fe5d4c053c1d6980789b7f97f6e54", null ],
-    [ "operator==", "d0/d81/a08487.html#a320adced006c0f70456492c9e9dc99c2", null ],
-    [ "_pos", "d0/d81/a08487.html#a77783e0e6e83836ad6e5903535ad9370", null ],
-    [ "_taken", "d0/d81/a08487.html#a113512b8ab66c879fd85c43263c3b7f1", null ]
+    [ "category", "d0/d81/a08487.html#af3cd722cf59d844dcaba2d20f20d2933", null ],
+    [ "end", "d0/d81/a08487.html#a8cc857ef51745900398765164a450a50", null ],
+    [ "itemid", "d0/d81/a08487.html#a42ef844fdd55e8bf67eb5cd90c627817", null ],
+    [ "maxduration", "d0/d81/a08487.html#a94b98afb7651e2c6b99ee79f85702259", null ],
+    [ "needSendToClient", "d0/d81/a08487.html#a678f56b6723567f984a0188b85a6f9df", null ],
+    [ "sendToSpectator", "d0/d81/a08487.html#a4b5bc2c63587dd8ce5d4971ad51895cd", null ]
 ];

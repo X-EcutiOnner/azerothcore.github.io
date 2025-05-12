@@ -1,5 +1,7 @@
 var a27059 =
 [
-    [ "MarkOfNatureTargetSelector", "dc/d08/a27059.html#ae737da5ff93360fde8c4c818f41d7853", null ],
-    [ "operator()", "dc/d08/a27059.html#a1515fd40dcccaba5947e93eabf241336", null ]
+    [ "npc_spirit_shadeAI", "dc/d08/a27059.html#a8b7bf7c7cc541a47be79aad76a9bbcbc", null ],
+    [ "IsSummonedBy", "dc/d08/a27059.html#a3a7fcb4af8e3b27e06b4665e8a864b38", null ],
+    [ "MovementInform", "dc/d08/a27059.html#ab001fdc09efe9f8c03ad1b7610124e6d", null ],
+    [ "_summonerGuid", "dc/d08/a27059.html#aa7c6abb848ab37f407a3553d04d0ad81", null ]
 ];

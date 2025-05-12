@@ -1,8 +1,15 @@
 var a16147 =
 [
-    [ "npc_announcer_toc5AI", "d9/dba/a16147.html#a96e1bd089dfd21fa252bc6422d20bada", null ],
-    [ "DamageTaken", "d9/dba/a16147.html#a53458483699ac026ff2cd36b5f061571", null ],
-    [ "MovementInform", "d9/dba/a16147.html#acdcf4110b3815635ad173a70e7a1e603", null ],
-    [ "Reset", "d9/dba/a16147.html#ab3dca17e0350d6d46a9069f97f2d12ef", null ],
-    [ "UpdateAI", "d9/dba/a16147.html#ad2c596253d67d051f497a8d77859846d", null ]
+    [ "npc_argent_soldierAI", "d9/dba/a16147.html#abbfbb5a1e116c6deb3db23f12ff8994f", null ],
+    [ "DamageTaken", "d9/dba/a16147.html#afb48cc1c2e254c292c33eade74b6fad7", null ],
+    [ "JustDied", "d9/dba/a16147.html#aedf4dcd909c1009fedfde593522454ec", null ],
+    [ "JustEngagedWith", "d9/dba/a16147.html#a0aa59fdf0668d64f3b670c595579ba81", null ],
+    [ "Reset", "d9/dba/a16147.html#a1a0c00c09c348f746730c9743d4b7b6b", null ],
+    [ "SetData", "d9/dba/a16147.html#a20b62b48f5cf92106fcd1860d9e91956", null ],
+    [ "UpdateAI", "d9/dba/a16147.html#aed2921c1f6bc0507bf9e6f02f224ab44", null ],
+    [ "WaypointReached", "d9/dba/a16147.html#af70fb91477dbeaa7e6e409f3381f0770", null ],
+    [ "bCheck", "d9/dba/a16147.html#af570597c33add7ac5ebf3d01e8c9b2df", null ],
+    [ "events", "d9/dba/a16147.html#ac458fc9a331dc7edfdc764215b1926e8", null ],
+    [ "pInstance", "d9/dba/a16147.html#ac9951514f27f343ae96e856f484e7baf", null ],
+    [ "uiWaypoint", "d9/dba/a16147.html#a87382571221c608017fd2d4cb99193dc", null ]
 ];

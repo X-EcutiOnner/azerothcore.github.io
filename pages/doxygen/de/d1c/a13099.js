@@ -1,10 +1,11 @@
 var a13099 =
 [
-    [ "MoveDelayed", "de/d1c/a13099.html#a3bf695ce31bb531b134c6c7018f4f197", null ],
-    [ "Execute", "de/d1c/a13099.html#aa0db97475196b58bbed1f6bff1440fc6", null ],
-    [ "_o", "de/d1c/a13099.html#ad0d76a04b7e85ea8667b05ec438316a0", null ],
-    [ "_owner", "de/d1c/a13099.html#a2f7baa4bc22adeac8136df7269eb2895", null ],
-    [ "_x", "de/d1c/a13099.html#aa490d19022c27932e76af38281fe158b", null ],
-    [ "_y", "de/d1c/a13099.html#a195fc5719683ad645f36b06fd4f60d9f", null ],
-    [ "_z", "de/d1c/a13099.html#a6aafdee829472bf22102645e1ff5e7a6", null ]
+    [ "boss_baroness_anastariAI", "de/d1c/a13099.html#acf180bbe881ba1f6e49c075254759c00", null ],
+    [ "JustDied", "de/d1c/a13099.html#a1a7bf1e6c39b0b61e95390e7ee1c5e6b", null ],
+    [ "JustEngagedWith", "de/d1c/a13099.html#a7329455d99045e7002abffe09112a4ea", null ],
+    [ "Reset", "de/d1c/a13099.html#a80c99c59486d2a7850a3a54ffebe998b", null ],
+    [ "SchedulePossession", "de/d1c/a13099.html#afbf2d4e9c3e8e50815c398b97afb3970", null ],
+    [ "UpdateAI", "de/d1c/a13099.html#a962e4e3091d126682825c326af5f6922", null ],
+    [ "_possessedTargetGuid", "de/d1c/a13099.html#a36e386b847c7032b5ce95a01070518ad", null ],
+    [ "_scheduler", "de/d1c/a13099.html#aa59518627a5e64e371dbbb45cfced75f", null ]
 ];

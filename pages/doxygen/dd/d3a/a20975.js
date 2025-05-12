@@ -1,6 +1,7 @@
 var a20975 =
 [
-    [ "boss_kelesethAI", "db/d08/a20979.html", "db/d08/a20979" ],
-    [ "boss_keleseth", "dd/d3a/a20975.html#aa80ba121af9092f3a7c2d24e3018d27f", null ],
-    [ "GetAI", "dd/d3a/a20975.html#ac80a19a56a921e3be04a3bad1cb12912", null ]
+    [ "npc_frost_tomb", "dd/d3a/a20975.html#a9c7abe1dc25b807d34f1ed818ab639ef", null ],
+    [ "JustDied", "dd/d3a/a20975.html#a40a14647eaf9f2c5bd11c094f0aadb79", null ],
+    [ "UpdateAI", "dd/d3a/a20975.html#af2122e9c8cb206151f631659c7d167da", null ],
+    [ "PrisonerGUID", "dd/d3a/a20975.html#a456fcd5dd3f504954a74fc068f253dc2", null ]
 ];

@@ -1,6 +1,8 @@
 var a19527 =
 [
-    [ "dark_rune_protectorsAI", "d1/db2/a19531.html", "d1/db2/a19531" ],
-    [ "dark_rune_protectors", "d7/d8d/a19527.html#a14225a2369a8deea416fc640a2d7b075", null ],
-    [ "GetAI", "d7/d8d/a19527.html#a359e4049b7ec828177d9a36d23e9b4ef", null ]
+    [ "brann_bronzebeardAI", "d1/db2/a19531.html", "d1/db2/a19531" ],
+    [ "brann_bronzebeard", "d7/d8d/a19527.html#a66fd8785647896a1a5f7be041242cfd6", null ],
+    [ "GetAI", "d7/d8d/a19527.html#a66d4ae2f243f7869106c2372b3e7166c", null ],
+    [ "OnGossipHello", "d7/d8d/a19527.html#a2714a2dde596db76706b8a86f97f82b8", null ],
+    [ "OnGossipSelect", "d7/d8d/a19527.html#a0e0068a45012e50a9f645d393bdfe163", null ]
 ];

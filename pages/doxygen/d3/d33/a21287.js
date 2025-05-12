@@ -1,6 +1,6 @@
 var a21287 =
 [
-    [ "npc_ichor_globuleAI", "da/dfa/a21291.html", "da/dfa/a21291" ],
-    [ "npc_ichor_globule", "d3/d33/a21287.html#a4dbd3b057e319ba83e0e1c94b99cd2ab", null ],
-    [ "GetAI", "d3/d33/a21287.html#a4fed5ebd2e1b6ff6867a9488a6e1aef2", null ]
+    [ "npc_vh_void_sentryAI", "da/dfa/a21291.html", "da/dfa/a21291" ],
+    [ "npc_vh_void_sentry", "d3/d33/a21287.html#a6d4995d112a3fe6b59c3c3c417d98c45", null ],
+    [ "GetAI", "d3/d33/a21287.html#ab3bcb8f8e9084e2ab588f80929a5d5ce", null ]
 ];

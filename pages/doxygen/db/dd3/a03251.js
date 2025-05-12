@@ -1,23 +1,12 @@
 var a03251 =
 [
-    [ "BattlegroundBE", "d9/ded/a07336.html", "d9/ded/a07336" ],
-    [ "BattlegroundBEGameObjects", "db/dd3/a03251.html#a1b0280d2208da5214e6132c85687575e", [
-      [ "BG_BE_OBJECT_TYPE_DOOR_1", "db/dd3/a03251.html#a1b0280d2208da5214e6132c85687575ea7668b0cb45bb8fcb5d169d52601f8ffc", null ],
-      [ "BG_BE_OBJECT_TYPE_DOOR_2", "db/dd3/a03251.html#a1b0280d2208da5214e6132c85687575ea4f5f05ba355663c10696918af17e7285", null ],
-      [ "BG_BE_OBJECT_TYPE_DOOR_3", "db/dd3/a03251.html#a1b0280d2208da5214e6132c85687575ea46f638ce865d69bfd79373d8105a8e83", null ],
-      [ "BG_BE_OBJECT_TYPE_DOOR_4", "db/dd3/a03251.html#a1b0280d2208da5214e6132c85687575eabd8ea2d0bde54698184bcfff07ffb6f6", null ],
-      [ "BG_BE_OBJECT_TYPE_BUFF_1", "db/dd3/a03251.html#a1b0280d2208da5214e6132c85687575ea828640a929b6a7559e1828cfdbf95f10", null ],
-      [ "BG_BE_OBJECT_TYPE_BUFF_2", "db/dd3/a03251.html#a1b0280d2208da5214e6132c85687575eac4122fbc499fb8d6ca4de47dfa6f3bab", null ]
-    ] ],
-    [ "BattlegroundBEObjectTypes", "db/dd3/a03251.html#ac30a97954fa7cc5e46429c1b15e02aa6", [
-      [ "BG_BE_OBJECT_DOOR_1", "db/dd3/a03251.html#ac30a97954fa7cc5e46429c1b15e02aa6a0df93d02d5b293963bebae8c18c3ae17", null ],
-      [ "BG_BE_OBJECT_DOOR_2", "db/dd3/a03251.html#ac30a97954fa7cc5e46429c1b15e02aa6a1bc43e32d61d4d2a6e605214b3498d0e", null ],
-      [ "BG_BE_OBJECT_DOOR_3", "db/dd3/a03251.html#ac30a97954fa7cc5e46429c1b15e02aa6a65b47239921b2cc82d549ec06684dcbb", null ],
-      [ "BG_BE_OBJECT_DOOR_4", "db/dd3/a03251.html#ac30a97954fa7cc5e46429c1b15e02aa6ac892d4ba71d39d87a754d48158edafc5", null ],
-      [ "BG_BE_OBJECT_BUFF_1", "db/dd3/a03251.html#ac30a97954fa7cc5e46429c1b15e02aa6a7467355220ec6cd486b4d31f2017b176", null ],
-      [ "BG_BE_OBJECT_BUFF_2", "db/dd3/a03251.html#ac30a97954fa7cc5e46429c1b15e02aa6ac11771a5f0517038daf7fe96e7cf00eb", null ],
-      [ "BG_BE_OBJECT_READY_MARKER_1", "db/dd3/a03251.html#ac30a97954fa7cc5e46429c1b15e02aa6a24a38ed55bbaaed44bea527c0b11cd09", null ],
-      [ "BG_BE_OBJECT_READY_MARKER_2", "db/dd3/a03251.html#ac30a97954fa7cc5e46429c1b15e02aa6a6bd3edd28c4d84ebc22f367173a2704d", null ],
-      [ "BG_BE_OBJECT_MAX", "db/dd3/a03251.html#ac30a97954fa7cc5e46429c1b15e02aa6a4f887547bcc1f47df4522c823c507d6f", null ]
+    [ "TicketScript", "d2/dc1/a10347.html", "d2/dc1/a10347" ],
+    [ "TicketHook", "db/dd3/a03251.html#af2de2d4afd6c8a1968e6e4b055620b72", [
+      [ "TICKETHOOK_ON_TICKET_CREATE", "db/dd3/a03251.html#af2de2d4afd6c8a1968e6e4b055620b72a048895a23d18ef1c7901256655315a61", null ],
+      [ "TICKETHOOK_ON_TICKET_UPDATE_LAST_CHANGE", "db/dd3/a03251.html#af2de2d4afd6c8a1968e6e4b055620b72a1777cc276841ae965f3636dc48161374", null ],
+      [ "TICKETHOOK_ON_TICKET_CLOSE", "db/dd3/a03251.html#af2de2d4afd6c8a1968e6e4b055620b72ac65b75869b3e3fb1dec5db5eb5701f38", null ],
+      [ "TICKETHOOK_ON_TICKET_STATUS_UPDATE", "db/dd3/a03251.html#af2de2d4afd6c8a1968e6e4b055620b72ad50ae60643438ce57485d63d8492a825", null ],
+      [ "TICKETHOOK_ON_TICKET_RESOLVE", "db/dd3/a03251.html#af2de2d4afd6c8a1968e6e4b055620b72a77a1b9c3448bbffacadaaa5c542086df", null ],
+      [ "TICKETHOOK_END", "db/dd3/a03251.html#af2de2d4afd6c8a1968e6e4b055620b72a12665f6e053ad59e5e6cb0ca56d92222", null ]
     ] ]
 ];

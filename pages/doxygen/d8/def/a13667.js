@@ -1,6 +1,6 @@
 var a13667 =
 [
-    [ "npc_janalai_hatcherAI", "d2/d0c/a13671.html", "d2/d0c/a13671" ],
-    [ "npc_janalai_hatcher", "d8/def/a13667.html#a627d4bace66c009b63bada6616761769", null ],
-    [ "GetAI", "d8/def/a13667.html#a34d15764beb7365a6ae6b3e5b9d5520d", null ]
+    [ "npc_andorhal_towerAI", "d2/d0c/a13671.html", "d2/d0c/a13671" ],
+    [ "npc_andorhal_tower", "d8/def/a13667.html#abf63419b6c10af47f5e5df1a4e7320e7", null ],
+    [ "GetAI", "d8/def/a13667.html#a51139c28da736d26bf27a061862d24ee", null ]
 ];

@@ -1,8 +1,10 @@
 var a09039 =
 [
-    [ "CallOfHelpCreatureInRangeDo", "df/ddb/a09039.html#a6ff932341f415b659d486e63cbeb5fe4", null ],
-    [ "operator()", "df/ddb/a09039.html#a06eb5dd0f8969c20ca1234e01ae15377", null ],
-    [ "i_enemy", "df/ddb/a09039.html#a8e2e259c0159fd9418777787e4c68ccd", null ],
-    [ "i_funit", "df/ddb/a09039.html#aff1768cd844e4e23821cf78f9d360e06", null ],
-    [ "i_range", "df/ddb/a09039.html#ab0544cf93f94766701b72dbb6b3b55c1", null ]
+    [ "~GridCell", "df/ddb/a09039.html#ab6ca5fbc81f184597445b7aef70bb2ad", null ],
+    [ "AddGridObject", "df/ddb/a09039.html#a22ac43b185d6a34c04fb5a36970d7df2", null ],
+    [ "AddWorldObject", "df/ddb/a09039.html#a039ebb29cf4bd2eeb7fca43eba302542", null ],
+    [ "Visit", "df/ddb/a09039.html#a6409c692a1f6ddfee1b3c2806d161d44", null ],
+    [ "Visit", "df/ddb/a09039.html#a2d13e0178010836f05280c1b5b11ad57", null ],
+    [ "_gridObjects", "df/ddb/a09039.html#a1a3fdbe9e3b937c05f82572d6f757e87", null ],
+    [ "_worldObjects", "df/ddb/a09039.html#a29d0551bee2df852e262846d82e90dba", null ]
 ];

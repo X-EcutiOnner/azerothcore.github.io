@@ -1,6 +1,6 @@
 var a18223 =
 [
-    [ "npc_terenas_menethilAI", "d3/dbe/a18227.html", "d3/dbe/a18227" ],
-    [ "npc_terenas_menethil", "d0/d13/a18223.html#a6b6850598c582e3d44c13275302fd32d", null ],
-    [ "GetAI", "d0/d13/a18223.html#ad5f29af90c3f40ce0dad019b5ec05cf2", null ]
+    [ "ModDest", "d0/d13/a18223.html#a71638bdecb0f580dceff7858441056d8", null ],
+    [ "PrepareSpellScript", "d0/d13/a18223.html#a741227928e07585b156ec716ae8b13da", null ],
+    [ "Register", "d0/d13/a18223.html#a19221c8453f23a7d384f6a2cb24c2fc2", null ]
 ];

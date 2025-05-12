@@ -1,8 +1,9 @@
 var a09143 =
 [
-    [ "LocalizedPacketDo", "d2/d76/a09143.html#a9b7700f2a4958b91a67375ec9a40072c", null ],
-    [ "~LocalizedPacketDo", "d2/d76/a09143.html#a4296260b2011e1f7c300987073863ca9", null ],
-    [ "operator()", "d2/d76/a09143.html#a43449bdf0302e426b8cb4341326196b1", null ],
-    [ "i_builder", "d2/d76/a09143.html#a2c794905898feb502bfc5d3760f962b8", null ],
-    [ "i_data_cache", "d2/d76/a09143.html#a2bbff655e1a5268981c48e3ee028b104", null ]
+    [ "VisibleChangesNotifier", "d2/d76/a09143.html#aacb0239ed44c9705eeeebf5ab198f7e0", null ],
+    [ "Visit", "d2/d76/a09143.html#abfc60c91aaa823cb99cdfc17a287e23e", null ],
+    [ "Visit", "d2/d76/a09143.html#aaf1dab341f34f75e56da63370af0ecd3", null ],
+    [ "Visit", "d2/d76/a09143.html#a103a8ef30ce4c0753913b6ecb6cf4e92", null ],
+    [ "Visit", "d2/d76/a09143.html#a6e856249a08d0a90b9d19f2449f30fba", null ],
+    [ "i_object", "d2/d76/a09143.html#a496b982d081957cfc288f29b99b8739d", null ]
 ];

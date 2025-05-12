@@ -1,6 +1,6 @@
 var a22007 =
 [
-    [ "npc_lord_areteAI", "da/d32/a22011.html", "da/d32/a22011" ],
-    [ "npc_lord_arete", "df/db8/a22007.html#a929e3f3346bf4dbaee127463eaf4ffcc", null ],
-    [ "GetAI", "df/db8/a22007.html#a212d003e9acb5f141197b5c4d10163a4", null ]
+    [ "HandleDummy", "df/db8/a22007.html#a05a38c1b8e3b674f3c6e79c59c7caddd", null ],
+    [ "PrepareSpellScript", "df/db8/a22007.html#a0bfebaf099ef573b51bec0a511ceeb39", null ],
+    [ "Register", "df/db8/a22007.html#a9c71b084ce6b86ccaeb9a94d1f8de2b1", null ]
 ];

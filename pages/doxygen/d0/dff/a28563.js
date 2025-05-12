@@ -1,8 +1,20 @@
 var a28563 =
 [
-    [ "TileInfo", "d0/dff/a28563.html#af1a25ded4212f141ab4f32db95709210", null ],
-    [ "m_mapId", "d0/dff/a28563.html#a41f4be7d3fce716754b9ac0310b9ecf9", null ],
-    [ "m_navMeshParams", "d0/dff/a28563.html#a9d7c909370359edafa8a9b6a91cef354", null ],
-    [ "m_tileX", "d0/dff/a28563.html#a54cc23d82dfe690e0d62b6156d440fc1", null ],
-    [ "m_tileY", "d0/dff/a28563.html#ab7fba310dd471fddcf2e7d6fba3205ed", null ]
+    [ "FileLoader", "d0/dff/a28563.html#a51313b536560d1d89d8350475d2bc749", null ],
+    [ "~FileLoader", "d0/dff/a28563.html#a0954776182dd01364bdb216539ce398b", null ],
+    [ "FileLoader", "d0/dff/a28563.html#a51313b536560d1d89d8350475d2bc749", null ],
+    [ "~FileLoader", "d0/dff/a28563.html#a0954776182dd01364bdb216539ce398b", null ],
+    [ "free", "d0/dff/a28563.html#a738aeb2ebe751c9fc75013dbce30dcc4", null ],
+    [ "free", "d0/dff/a28563.html#aef98564821c8e63b6d484179cda0b380", null ],
+    [ "GetData", "d0/dff/a28563.html#aed85cdbd6a4e52096292c6ed8578f7bd", null ],
+    [ "GetData", "d0/dff/a28563.html#aed85cdbd6a4e52096292c6ed8578f7bd", null ],
+    [ "GetDataSize", "d0/dff/a28563.html#a2a07adb0692a51af06ccd31d449ae444", null ],
+    [ "GetDataSize", "d0/dff/a28563.html#a2a07adb0692a51af06ccd31d449ae444", null ],
+    [ "loadFile", "d0/dff/a28563.html#a11908109042f93ddde393e7a874683c9", null ],
+    [ "loadFile", "d0/dff/a28563.html#a11908109042f93ddde393e7a874683c9", null ],
+    [ "prepareLoadedData", "d0/dff/a28563.html#ab66347098d7c9ac470339c232f9b7588", null ],
+    [ "prepareLoadedData", "d0/dff/a28563.html#a498a33d80768843b4ab1ff2d5ffe68d9", null ],
+    [ "data", "d0/dff/a28563.html#aff1880ac2038f17f4d1f63bc9f7d9afd", null ],
+    [ "data_size", "d0/dff/a28563.html#a355891fc980538e74080b9b83a95dec8", null ],
+    [ "version", "d0/dff/a28563.html#a41cedec185e5909d83c8a185d1476dee", null ]
 ];

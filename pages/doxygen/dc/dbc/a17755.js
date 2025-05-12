@@ -1,7 +1,6 @@
 var a17755 =
 [
-    [ "HandleDummy", "dc/dbc/a17755.html#aa61db53d7395fd45b8569e12978fed0b", null ],
-    [ "PrepareSpellScript", "dc/dbc/a17755.html#ab63054debe6763027ab52ad122277719", null ],
-    [ "Register", "dc/dbc/a17755.html#a6dee5fc9fafd7faa3eadbf9431568dcc", null ],
-    [ "Validate", "dc/dbc/a17755.html#adb7e30d10c2071de5d5070b64a10af30", null ]
+    [ "npc_volatile_oozeAI", "d0/d8c/a17759.html", "d0/d8c/a17759" ],
+    [ "npc_volatile_ooze", "dc/dbc/a17755.html#a22847e44812a0b13b92cfcca3a70204e", null ],
+    [ "GetAI", "dc/dbc/a17755.html#a66b4918c14d90d5550ddc8dbe90c2e01", null ]
 ];

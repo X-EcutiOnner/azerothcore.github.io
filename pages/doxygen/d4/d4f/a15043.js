@@ -1,6 +1,6 @@
 var a15043 =
 [
-    [ "instance_temple_of_ahnqiraj_InstanceMapScript", "d9/da8/a15047.html", "d9/da8/a15047" ],
-    [ "instance_temple_of_ahnqiraj", "d4/d4f/a15043.html#a316c5e2cac59f2ee2520fba1b97407e3", null ],
-    [ "GetInstanceScript", "d4/d4f/a15043.html#a9e3060d9f2188f410da8aa3e9526e79d", null ]
+    [ "OnRemove", "d4/d4f/a15043.html#a85595fed0e9b6a2ced18aeb4acffcf81", null ],
+    [ "PrepareAuraScript", "d4/d4f/a15043.html#a47849d8241ed17ad0fb541c1178b0760", null ],
+    [ "Register", "d4/d4f/a15043.html#aa23231c5c324e73930fdf8d784b0edb4", null ]
 ];

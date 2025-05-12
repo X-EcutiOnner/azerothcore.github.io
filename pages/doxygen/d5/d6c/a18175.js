@@ -1,6 +1,7 @@
 var a18175 =
 [
-    [ "ModDestHeight", "d5/d6c/a18175.html#acd31e130e72cd93bee3544ecd2dc38ad", null ],
-    [ "PrepareSpellScript", "d5/d6c/a18175.html#a288f8917d73be30234e465778b1f6544", null ],
-    [ "Register", "d5/d6c/a18175.html#a69f9cdbfc33ec39f629f08f20484b29e", null ]
+    [ "CheckTargetCount", "d5/d6c/a18175.html#a637ba0717ae0f6f736f5532ed65ca301", null ],
+    [ "PrepareSpellScript", "d5/d6c/a18175.html#af560e5c4e985e9b139999f5ef618fe3c", null ],
+    [ "Register", "d5/d6c/a18175.html#a86e7512496fd38201d458c03a7a60296", null ],
+    [ "Validate", "d5/d6c/a18175.html#a744c4aa76387be4aa76a69fbcaa7932e", null ]
 ];

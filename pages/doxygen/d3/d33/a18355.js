@@ -1,6 +1,7 @@
 var a18355 =
 [
-    [ "npc_valithria_cloudAI", "d7/df4/a18359.html", "d7/df4/a18359" ],
-    [ "npc_valithria_cloud", "d3/d33/a18355.html#a11d1bdc4c6e8210e2d0706f33d369dde", null ],
-    [ "GetAI", "d3/d33/a18355.html#afeff905cec1245dbac6fa59673aef015", null ]
+    [ "ValithriaDespawner", "d3/d33/a18355.html#adf6f71ad9b97489f1e35781e491b28d8", null ],
+    [ "Execute", "d3/d33/a18355.html#a4f8c63f52996da14078a7196cae3a00d", null ],
+    [ "operator()", "d3/d33/a18355.html#a05bae39d642f294f2ef98151d66ba382", null ],
+    [ "_creature", "d3/d33/a18355.html#a64bf6181ad867efd987edec141ca3bf0", null ]
 ];

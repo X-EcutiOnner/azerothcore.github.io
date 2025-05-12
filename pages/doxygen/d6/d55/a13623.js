@@ -1,8 +1,6 @@
 var a13623 =
 [
-    [ "boss_slitherAI", "d6/d55/a13623.html#a4cd9ca5bc5c2121edd72bc65c2f4182b", null ],
-    [ "AttackStart", "d6/d55/a13623.html#a8f2da73ffa694e7933d8ce0965105a97", null ],
-    [ "Reset", "d6/d55/a13623.html#ab2de8f1b9b51c1a04664cf3864ae4ef9", null ],
-    [ "UpdateAI", "d6/d55/a13623.html#a9df057eabc5338745786385055d1334e", null ],
-    [ "venomspit_timer", "d6/d55/a13623.html#a33649cb1e8fc177073982ccafbd387e6", null ]
+    [ "npc_jaina_proudmoore_bfuAI", "dd/d48/a13627.html", "dd/d48/a13627" ],
+    [ "npc_jaina_proudmoore_bfu", "d6/d55/a13623.html#af96c4fac318f44cf6e70817b6960999f", null ],
+    [ "GetAI", "d6/d55/a13623.html#a4ed6349a5ebdd90053f9d67d24ab6991", null ]
 ];

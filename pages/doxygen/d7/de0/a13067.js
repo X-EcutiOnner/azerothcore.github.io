@@ -1,8 +1,7 @@
 var a13067 =
 [
-    [ "OnPeriodic", "d7/de0/a13067.html#acd400b0a061d1814591e33d16bf4180a", null ],
-    [ "OnRemove", "d7/de0/a13067.html#a3da85c726007690220e9b4f81d30f185", null ],
-    [ "PrepareAuraScript", "d7/de0/a13067.html#a216d723f309ffa46df4bba7af79752c8", null ],
-    [ "Register", "d7/de0/a13067.html#a43fe84c2717d73e20a2562f596a84f36", null ],
-    [ "Validate", "d7/de0/a13067.html#a4ab8e285bae57560eee85d3a837ac2f5", null ]
+    [ "HandleScript", "d7/de0/a13067.html#ab705220b48be16090107135f9e2272cf", null ],
+    [ "PrepareSpellScript", "d7/de0/a13067.html#a8bf22d62d6e7f50315e4c14714b8457f", null ],
+    [ "Register", "d7/de0/a13067.html#ac969bf9f37d02f2b3d78d31d7f8c4625", null ],
+    [ "Validate", "d7/de0/a13067.html#ad1d90693a427a52fa728e5ae455932a3", null ]
 ];

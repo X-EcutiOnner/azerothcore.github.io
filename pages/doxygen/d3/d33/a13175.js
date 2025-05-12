@@ -1,7 +1,7 @@
 var a13175 =
 [
-    [ "npc_singularityAI", "d3/d33/a13175.html#a3385a5ff1216daed82fb8bf7bb830b21", null ],
-    [ "Reset", "d3/d33/a13175.html#ac4fa5b0fe7e1bf62c7deb9197b54f939", null ],
-    [ "UpdateAI", "d3/d33/a13175.html#aafa3ceeeb22492ef1ead260a33833bd3", null ],
-    [ "events", "d3/d33/a13175.html#a68c7f293c67b7d014411d8f847925ef4", null ]
+    [ "CheckCast", "d3/d33/a13175.html#a6ac00101ced46cebd1dd6a32c89374d2", null ],
+    [ "PrepareSpellScript", "d3/d33/a13175.html#a07973000e8a4b0ff66d4f4d1fd9f327e", null ],
+    [ "Register", "d3/d33/a13175.html#a7deecb2b7dfc410af30d8b14d941f74a", null ],
+    [ "Validate", "d3/d33/a13175.html#a9208b9c010bb9cc379c195939351aa45", null ]
 ];

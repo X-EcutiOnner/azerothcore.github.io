@@ -1,6 +1,7 @@
 var a22275 =
 [
-    [ "HandleScriptEffect", "db/d12/a22275.html#a66849cb61f056e861d8887dc98f6ccbf", null ],
-    [ "PrepareSpellScript", "db/d12/a22275.html#afa4ad1b205bf963b4230881738baf938", null ],
-    [ "Register", "db/d12/a22275.html#a0d8925effced854471e2fbec9c631b91", null ]
+    [ "npc_wg_siege_machineAI", "db/d12/a22275.html#aaeca9e73520701ce28f2cc9d1483cc6b", null ],
+    [ "CanControlVehicle", "db/d12/a22275.html#a7ce79406da48e245a0baa2fdd23622b9", null ],
+    [ "UpdateAI", "db/d12/a22275.html#a8ddd21047a857facc767a9edc0ec5408", null ],
+    [ "checkTimer", "db/d12/a22275.html#abf4b06eae50adeefedba02e2186ea48a", null ]
 ];

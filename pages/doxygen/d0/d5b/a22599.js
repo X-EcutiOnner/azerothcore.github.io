@@ -1,12 +1,11 @@
 var a22599 =
 [
-    [ "boss_anzu", "d0/d5b/a22599.html#aef8c5c57afa95936d8c2809fa1257799", null ],
-    [ "JustEngagedWith", "d0/d5b/a22599.html#a2384a1ea128ad5a43d3b8fb36fe39aba", null ],
-    [ "Reset", "d0/d5b/a22599.html#a61c75d6d96aa5cfb41e87faa74ec2fa5", null ],
-    [ "SummonBroods", "d0/d5b/a22599.html#a7f3f8868a5648bdeccd03d08203e4cf1", null ],
-    [ "SummonedCreatureDies", "d0/d5b/a22599.html#a2e35df609db069c8d31afffabcfead34", null ],
-    [ "SummonSpirits", "d0/d5b/a22599.html#a23e03d1718fba49a3bd57609abb77c6a", null ],
-    [ "UpdateAI", "d0/d5b/a22599.html#a06373460d454bfaf8db793e591cc0abd", null ],
-    [ "AnzuSpiritPos", "d0/d5b/a22599.html#a64e42ce8856b9d10c7f24fefc0c1e0b2", null ],
-    [ "talkTimer", "d0/d5b/a22599.html#a2afae53534d9e777c90d09456f834b5d", null ]
+    [ "boss_murmur", "d0/d5b/a22599.html#ad89ea433764c3017a3d33b37eb9e5602", null ],
+    [ "CanAIAttack", "d0/d5b/a22599.html#a6b89c95747c0a37c0b37527cd360e524", null ],
+    [ "CastSuppressionOOC", "d0/d5b/a22599.html#aab66339a7436c3c483297b25f6859558", null ],
+    [ "EnterEvadeMode", "d0/d5b/a22599.html#aa0f549c83a92302ece2323c75dd29acc", null ],
+    [ "JustEngagedWith", "d0/d5b/a22599.html#a3d872beeee7bf6ecd0c4aeaa3f8c603d", null ],
+    [ "Reset", "d0/d5b/a22599.html#a1f40ead1b2269b97c69bd4db808d6bae", null ],
+    [ "SetGUID", "d0/d5b/a22599.html#a88e18fd646a807ee92f1b24b43d500a6", null ],
+    [ "ShouldCastResonance", "d0/d5b/a22599.html#ade07217a85655a513d7a472d24589691", null ]
 ];

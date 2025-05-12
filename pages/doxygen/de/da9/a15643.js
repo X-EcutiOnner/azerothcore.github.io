@@ -1,5 +1,6 @@
 var a15643 =
 [
-    [ "achievement_respect_your_elders", "de/da9/a15643.html#a2fd66ada0ff7482c00b2cb417a12e88e", null ],
-    [ "OnCheck", "de/da9/a15643.html#a770922be3ab19848f7a8f43a82d78b88", null ]
+    [ "creatureID", "de/da9/a15643.html#a44a9f5e58bfa58e2e2325e116e988f07", null ],
+    [ "pos", "de/da9/a15643.html#a9705a858cc2c3867e104514d3a0a1866", null ],
+    [ "waveID", "de/da9/a15643.html#a09b48f7f6da7e203ed50a8abc7f24e56", null ]
 ];

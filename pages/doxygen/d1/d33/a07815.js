@@ -1,7 +1,6 @@
 var a07815 =
 [
-    [ "VendorItemCount", "d1/d33/a07815.html#abdf2d2900f75bb2b8d9727bab8fcbbc3", null ],
-    [ "count", "d1/d33/a07815.html#aff4c062138792ffb37dadb19b725c87c", null ],
-    [ "itemId", "d1/d33/a07815.html#a225158bbb56d6666ba4918155f08f993", null ],
-    [ "lastIncrementTime", "d1/d33/a07815.html#a0b88ba4ea590abbdc9234ff4a2a335fa", null ]
+    [ "ThreatOrderPred", "d1/d33/a07815.html#a33b2897bfd994ce57628f939814facba", null ],
+    [ "operator()", "d1/d33/a07815.html#a5f668d69e800b472bc64711199f2b732", null ],
+    [ "m_ascending", "d1/d33/a07815.html#ad4d70c60ed781e443f07ad1b81afd10d", null ]
 ];

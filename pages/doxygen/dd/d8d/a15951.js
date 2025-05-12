@@ -1,10 +1,10 @@
 var a15951 =
 [
-    [ "spell_halion_combustion_consumption_aura", "dd/d8d/a15951.html#a8b67aee76c7288748757e6bec7f4cb78", null ],
-    [ "AddMarkStack", "dd/d8d/a15951.html#a337776c42bd6c42ecdffb508808ed070", null ],
-    [ "OnApply", "dd/d8d/a15951.html#afeea3e5026e6d8472440c9cffac9bce9", null ],
-    [ "OnRemove", "dd/d8d/a15951.html#a3959dbe8bbdf2d3953daf14072614708", null ],
-    [ "PrepareAuraScript", "dd/d8d/a15951.html#a334f2211429dde989b6beb6c10a71464", null ],
-    [ "Register", "dd/d8d/a15951.html#affc66a03e9d1eaef30a54b8a044734b8", null ],
-    [ "_markSpell", "dd/d8d/a15951.html#a8236d9d50f267a12216d90f8041da439", null ]
+    [ "npc_xerestraszaAI", "dd/d8d/a15951.html#a768ae45296e16b8fcada6359dfd6c7e5", null ],
+    [ "DoAction", "dd/d8d/a15951.html#af696ecee315892b2bf0233113d2f89f9", null ],
+    [ "Reset", "dd/d8d/a15951.html#a0eceae8fb9bf5071bc8d9cddf783507b", null ],
+    [ "UpdateAI", "dd/d8d/a15951.html#a6389ab58f4b44c668590113ec75f2adf", null ],
+    [ "_events", "dd/d8d/a15951.html#ae998fc6aaee14bc313ff38bb76d79e43", null ],
+    [ "_introDone", "dd/d8d/a15951.html#a9d01014297290dafbb7ed25bffbe6fe6", null ],
+    [ "_isIntro", "dd/d8d/a15951.html#a71ffbf3fedb77bd693beabb4ee52f57a", null ]
 ];

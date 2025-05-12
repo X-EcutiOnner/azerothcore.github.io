@@ -1,5 +1,6 @@
 var a00806 =
 [
-    [ "OutdoorPvP_terokkar_forest", "db/d73/a22468.html", "db/d73/a22468" ],
-    [ "AddSC_outdoorpvp_tf", "d0/dad/a00806.html#a6df553c8dd6e9b81e83110e7beab3646", null ]
+    [ "instance_ragefire_chasm", "d8/d9b/a14807.html", "d8/d9b/a14807" ],
+    [ "instance_ragefire_chasm::instance_ragefire_chasm_InstanceMapScript", "de/d06/a14811.html", "de/d06/a14811" ],
+    [ "AddSC_instance_ragefire_chasm", "d0/dad/a00806.html#ace0e54ffe3a81b932d5ce1977698f5ac", null ]
 ];

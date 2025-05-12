@@ -1,6 +1,7 @@
 var a13003 =
 [
-    [ "npc_demonic_vaporAI", "da/d88/a13007.html", "da/d88/a13007" ],
-    [ "npc_demonic_vapor", "d6/d80/a13003.html#a2cfec998b5d2a23670c4f5143c330652", null ],
-    [ "GetAI", "d6/d80/a13003.html#a53635886eaed04eab0b8c7c0b6d6e67e", null ]
+    [ "HandleScript", "d6/d80/a13003.html#a6ce169d6c1b106195f787b52ea433311", null ],
+    [ "PrepareSpellScript", "d6/d80/a13003.html#a4f71583df2193274365944e6d228247c", null ],
+    [ "Register", "d6/d80/a13003.html#aad8978dc0505d1fb80e2416f5525cbc7", null ],
+    [ "Validate", "d6/d80/a13003.html#a51025308f88001f1f66d7f68f174f325", null ]
 ];

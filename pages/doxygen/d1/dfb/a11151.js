@@ -1,9 +1,7 @@
 var a11151 =
 [
-    [ "bytes", "d1/dfb/a11151.html#a3a2997d203c186bc3cd54a9ba4235319", null ],
-    [ "bytes", "d1/dfb/a11151.html#a8484412ccb13cf396a4dc28b86f65b4e", null ],
-    [ "bytes", "d1/dfb/a11151.html#ad0213e5de805b0decb4730efa2d412e0", null ],
-    [ "ints", "d1/dfb/a11151.html#a0518eb4b0a91697500a5a370068425a8", null ],
-    [ "ints", "d1/dfb/a11151.html#a08efba5e78b64fef020453f689bcc5f0", null ],
-    [ "ints", "d1/dfb/a11151.html#a36edc530bfb803c2f122e6758d20193a", null ]
+    [ "attributeMask", "d1/dfb/a11151.html#a6bbb4046cd4c068c990aa28844e4588b", null ],
+    [ "customChance", "d1/dfb/a11151.html#ac5d048f7ee803d61d5d3c59bb80a015d", null ],
+    [ "PPMChance", "d1/dfb/a11151.html#adb76c11f0073a2738374c98c01fda009", null ],
+    [ "procEx", "d1/dfb/a11151.html#a28bcdd11e64ad96be5a3ca0e0dd447c7", null ]
 ];

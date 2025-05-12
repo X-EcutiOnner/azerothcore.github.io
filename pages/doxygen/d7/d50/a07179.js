@@ -1,10 +1,11 @@
 var a07179 =
 [
-    [ "BattlegroundRL", "d7/d50/a07179.html#ae2e0ccf2badc174b7f5c909f805fe669", null ],
-    [ "FillInitialWorldStates", "d7/d50/a07179.html#acafb9d927c8ca559c4c5b78f001ba056", null ],
-    [ "HandleAreaTrigger", "d7/d50/a07179.html#ad1184e3e2f09a6665d40a75006e6f863", null ],
-    [ "HandlePlayerUnderMap", "d7/d50/a07179.html#a2d03a49dee964bcaa3421a93d0735e63", null ],
-    [ "SetupBattleground", "d7/d50/a07179.html#a3393353028ffd35eaad1d5e121654366", null ],
-    [ "StartingEventCloseDoors", "d7/d50/a07179.html#aae633887d9689898c8b73efa8257eb34", null ],
-    [ "StartingEventOpenDoors", "d7/d50/a07179.html#adb2ec6770c2b25b94f8f7dff7486d5cf", null ]
+    [ "WGWorkshop", "d7/d50/a07179.html#a2d2d7b24ec77275f24efa54d31e98bbb", null ],
+    [ "GiveControlTo", "d7/d50/a07179.html#a6b69312f4ffa562b0e8fdcf5da3568d3", null ],
+    [ "Save", "d7/d50/a07179.html#adede1c780178f20dc8339320a021e4b6", null ],
+    [ "UpdateGraveyardAndWorkshop", "d7/d50/a07179.html#a2ff11801fb50cd3a463c44fafbddaed4", null ],
+    [ "bf", "d7/d50/a07179.html#ae2b7e050289ad5922ddcd73c6da9f5a5", null ],
+    [ "state", "d7/d50/a07179.html#a279d47c85843e884edef1f82b9654cd8", null ],
+    [ "teamControl", "d7/d50/a07179.html#a196c8d0094a34c18835840e046fd39ef", null ],
+    [ "workshopId", "d7/d50/a07179.html#a42d7337c67e4f19886b0ec86f0e60596", null ]
 ];

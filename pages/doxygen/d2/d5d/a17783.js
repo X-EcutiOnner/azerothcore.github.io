@@ -1,6 +1,6 @@
 var a17783 =
 [
-    [ "OnRemove", "d2/d5d/a17783.html#ab9c21998c71991ff74e6dfcf4d32f126", null ],
-    [ "PrepareAuraScript", "d2/d5d/a17783.html#a8fb5803b07022f9bd3d246216bac5abb", null ],
-    [ "Register", "d2/d5d/a17783.html#afa993cb14444989feac16c9fa2d7b8df", null ]
+    [ "HandleScript", "d2/d5d/a17783.html#aefdd306b81b44a0a5564eab5a0491e09", null ],
+    [ "PrepareSpellScript", "d2/d5d/a17783.html#a68c0462bd108b04621f8288328f78b18", null ],
+    [ "Register", "d2/d5d/a17783.html#aedaec0afc414800bc481a434592ffb5d", null ]
 ];

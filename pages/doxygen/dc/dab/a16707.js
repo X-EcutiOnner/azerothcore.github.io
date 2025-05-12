@@ -1,7 +1,6 @@
 var a16707 =
 [
-    [ "OnRemove", "dc/dab/a16707.html#a4b95717cb19116b81f3eec798089abad", null ],
-    [ "PrepareAuraScript", "dc/dab/a16707.html#a581645fa151531aaf7b562a8739d5616", null ],
-    [ "Register", "dc/dab/a16707.html#a01304c556d79001e290707551bee7622", null ],
-    [ "Validate", "dc/dab/a16707.html#a96e4b9cae1f016bf87c9a09ceb6da561", null ]
+    [ "npc_fos_leader_secondAI", "d2/df6/a16711.html", "d2/df6/a16711" ],
+    [ "npc_fos_leader_second", "dc/dab/a16707.html#a0e24659ef6e834da5a3adc8d79f0db4e", null ],
+    [ "GetAI", "dc/dab/a16707.html#a96082888ccbb1c81be8327e5e0d84e03", null ]
 ];

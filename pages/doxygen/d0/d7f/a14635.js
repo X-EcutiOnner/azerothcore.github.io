@@ -1,8 +1,10 @@
 var a14635 =
 [
-    [ "npc_thrall_old_hillsbradAI", "dc/d80/a14639.html", "dc/d80/a14639" ],
-    [ "npc_thrall_old_hillsbrad", "d0/d7f/a14635.html#a3e6fa750b095af3beac806a619e18328", null ],
-    [ "GetAI", "d0/d7f/a14635.html#a7b7baeb3e2e33dcb4ffb0af5d1f5930c", null ],
-    [ "OnGossipHello", "d0/d7f/a14635.html#a9b3f622ab9c0dc06011cb36cd084f2e7", null ],
-    [ "OnGossipSelect", "d0/d7f/a14635.html#a17fcb00850503903f430506654e035c0", null ]
+    [ "boss_meathookAI", "d0/d7f/a14635.html#abb35c98da760db634545b81d740cd51a", null ],
+    [ "JustDied", "d0/d7f/a14635.html#a44ebee45de335ff6f653e9d60a364458", null ],
+    [ "JustEngagedWith", "d0/d7f/a14635.html#adf199bf96bbf342caaa74b7dd6b8013c", null ],
+    [ "KilledUnit", "d0/d7f/a14635.html#a54deac512294bb0901d072faef3166b1", null ],
+    [ "Reset", "d0/d7f/a14635.html#ab4dbdedb1ae114fe4aff1fbe0e8adec1", null ],
+    [ "UpdateAI", "d0/d7f/a14635.html#afeaee24a9b6484e8a0e6509b973ed74d", null ],
+    [ "events", "d0/d7f/a14635.html#a6cf32d8601a1d07a3a445fa7d9a1ccbc", null ]
 ];

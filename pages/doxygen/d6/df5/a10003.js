@@ -1,7 +1,7 @@
 var a10003 =
 [
-    [ "GameEventScript", "d6/df5/a10003.html#ac43a9c70638ad56b69b5841ee8410374", null ],
-    [ "OnEventCheck", "d6/df5/a10003.html#aadab9593da561e9b19202d09b53cba36", null ],
-    [ "OnStart", "d6/df5/a10003.html#a0e61a9e1379aef55af93a593af84a3cc", null ],
-    [ "OnStop", "d6/df5/a10003.html#a4813f26f03e5ba79a740bf30558e604c", null ]
+    [ "WriteCommonMonsterMovePart", "d6/df5/a10003.html#a5dcdbeb513f6da51b0af20d9acd2ac58", null ],
+    [ "WriteCreate", "d6/df5/a10003.html#ae5682d7012cca35bd8643b01ce558eb5", null ],
+    [ "WriteMonsterMove", "d6/df5/a10003.html#a4c4294e3fed32aca35078dd4975b057d", null ],
+    [ "WriteStopMovement", "d6/df5/a10003.html#a1b960c1141ab9b4dca932e0eddaee204", null ]
 ];

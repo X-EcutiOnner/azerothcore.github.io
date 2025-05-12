@@ -1,10 +1,25 @@
 var a10091 =
 [
-    [ "VehicleScript", "dc/de2/a10091.html#a9f708a7e432fcb4abe15dcabb0e5a035", null ],
-    [ "OnAddPassenger", "dc/de2/a10091.html#a4495f8900ecb85546ac23ebe4783ae7c", null ],
-    [ "OnInstall", "dc/de2/a10091.html#abbb42dcbc5fad97ed1df45ea7b3afe54", null ],
-    [ "OnInstallAccessory", "dc/de2/a10091.html#ad59ae4c47404abb86e05ae983704f6ea", null ],
-    [ "OnRemovePassenger", "dc/de2/a10091.html#ad4094366aba1fb6a1ff19361d1be9210", null ],
-    [ "OnReset", "dc/de2/a10091.html#a38fca3fec8785f015084b832f9e3b08c", null ],
-    [ "OnUninstall", "dc/de2/a10091.html#a7d4bafe42756ee73b5ce79783842c243", null ]
+    [ "OutdoorPvPMgr", "dc/de2/a10091.html#a57480bb851822adda3d106f4a842354b", null ],
+    [ "~OutdoorPvPMgr", "dc/de2/a10091.html#a47a54de2e5f8d2d95691be9f6707d1d8", null ],
+    [ "AddZone", "dc/de2/a10091.html#a2f71683200a6f780ea1365ec2934b875", null ],
+    [ "CanTalkTo", "dc/de2/a10091.html#a8020976431b2754fc73acf762ed140b1", null ],
+    [ "Die", "dc/de2/a10091.html#a60821e2ea353606552f863aed2807316", null ],
+    [ "GetOutdoorPvPToZoneId", "dc/de2/a10091.html#aa297448e0e861e9d033b2a3a5d5176bb", null ],
+    [ "GetZoneScript", "dc/de2/a10091.html#a1c4ebcc2c64d9075e2f2f85e9239e4fa", null ],
+    [ "HandleCustomSpell", "dc/de2/a10091.html#a0134ce08b64931aadf7ffac968c47521", null ],
+    [ "HandleDropFlag", "dc/de2/a10091.html#aa1e8175a9964e3fdbd7f98ef33650217", null ],
+    [ "HandleGossipOption", "dc/de2/a10091.html#aa041123e1030c23c9862b494b057d3b2", null ],
+    [ "HandleOpenGo", "dc/de2/a10091.html#a8de2d40eb24baf6f7f1597fd97202a85", null ],
+    [ "HandlePlayerEnterZone", "dc/de2/a10091.html#ac3c4b3b6df6ae7787ff7072f3f46521f", null ],
+    [ "HandlePlayerLeaveZone", "dc/de2/a10091.html#a37c292b98c44830833c15eba1d74e24d", null ],
+    [ "HandlePlayerResurrects", "dc/de2/a10091.html#ad39bacd781ddb165c680758643a54c56", null ],
+    [ "InitOutdoorPvP", "dc/de2/a10091.html#aaae2ebe275de3da1282bd48b4dfc2ae9", null ],
+    [ "instance", "dc/de2/a10091.html#a0a92945f30266985e289742c29b13ed2", null ],
+    [ "Update", "dc/de2/a10091.html#a981b6e2b6201f3b1d32ffe4b2e215a57", null ],
+    [ "_lock", "dc/de2/a10091.html#ab8f0f56d34805ccf6b7210e390b947f7", null ],
+    [ "m_OutdoorPvPDatas", "dc/de2/a10091.html#aae1d441ea9e1715154b8f630b4cd4b2c", null ],
+    [ "m_OutdoorPvPMap", "dc/de2/a10091.html#a0927b39028f4060b0125bb63fe73a53a", null ],
+    [ "m_OutdoorPvPSet", "dc/de2/a10091.html#a4dc1a3a28d95a63b2ac6e5c9310730d6", null ],
+    [ "m_UpdateTimer", "dc/de2/a10091.html#ad07d15d5bbdf9d2e67a576d61e942b40", null ]
 ];

@@ -1,8 +1,6 @@
 var a13571 =
 [
-    [ "boss_hexlord_addAI", "d5/d5b/a13571.html#aab2d333b32ab28fb6914763c7b7f9c19", null ],
-    [ "JustEngagedWith", "d5/d5b/a13571.html#a53469ed0cc6442b7b07d8d994ca27fed", null ],
-    [ "Reset", "d5/d5b/a13571.html#aa2003900c4b6cadc54b8643990ebe86b", null ],
-    [ "UpdateAI", "d5/d5b/a13571.html#a0ec76f64ad72a1c11ab838dd9b812675", null ],
-    [ "instance", "d5/d5b/a13571.html#a0ac32c9043dbebdc13ee245245e9cfc9", null ]
+    [ "npc_marzon_silent_bladeAI", "d7/d1f/a13575.html", "d7/d1f/a13575" ],
+    [ "npc_marzon_silent_blade", "d5/d5b/a13571.html#a8fa1c0e11555df45005f37fd9de7f3a8", null ],
+    [ "GetAI", "d5/d5b/a13571.html#aadde9b84b46c594e41ae8ca3ae0265a1", null ]
 ];

@@ -1,9 +1,7 @@
 var a17379 =
 [
-    [ "npc_stinky_iccAI", "de/d1e/a17379.html#a545356eb2b77cfae7af3d470e95ea2d6", null ],
-    [ "JustDied", "de/d1e/a17379.html#a7fa392980e2d30c935b79377df8dc694", null ],
-    [ "JustEngagedWith", "de/d1e/a17379.html#afd1cd4fc387ff7cdad58c9db60841c7a", null ],
-    [ "Reset", "de/d1e/a17379.html#ac66e3398598576fdc889a7b56646eecf", null ],
-    [ "UpdateAI", "de/d1e/a17379.html#af6e04824ea1682c529e8579a306d34ca", null ],
-    [ "events", "de/d1e/a17379.html#a3ab7ae11b7f5ef5877febbd384014ce2", null ]
+    [ "FilterTargets", "de/d1e/a17379.html#aeae290d20ade37eb839c1bf3c9ae59bf", null ],
+    [ "Load", "de/d1e/a17379.html#a38bf6d96c6a78e5105d0369eb993e58c", null ],
+    [ "PrepareSpellScript", "de/d1e/a17379.html#a815c99e9ef570287af5d45c32bdc5b8c", null ],
+    [ "Register", "de/d1e/a17379.html#a33342cc676adaabe5e3896fa559631b7", null ]
 ];

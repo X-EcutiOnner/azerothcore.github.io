@@ -1,5 +1,11 @@
 var a02990 =
 [
-    [ "achievIdByArenaSlot", "d1/df2/a02990.html#a5264f22d916c9472e9a16ac52140f87c", null ],
-    [ "achievIdForDungeon", "d1/df2/a02990.html#ac50d520adf892744d066d8c5187046b0", null ]
+    [ "SkillDiscoveryEntry", "d3/d4c/a11011.html", "d3/d4c/a11011" ],
+    [ "SkillDiscoveryList", "d1/df2/a02990.html#a0c80a6b86b3b7bd5e9c238efa802919b", null ],
+    [ "SkillDiscoveryMap", "d1/df2/a02990.html#ab7ec6a8662e4edd3167deb3c917d2eab", null ],
+    [ "GetExplicitDiscoverySpell", "d1/df2/a02990.html#a7cdb9e342efe04c1ba8caf202b7b0d96", null ],
+    [ "GetSkillDiscoverySpell", "d1/df2/a02990.html#ab50472e4f1f892eb77ce660ef00d808a", null ],
+    [ "HasDiscoveredAllSpells", "d1/df2/a02990.html#abdf3c2fcf65212466dfb54053e35024c", null ],
+    [ "LoadSkillDiscoveryTable", "d1/df2/a02990.html#addd95f0a239a27ed32cd943aa1052019", null ],
+    [ "SkillDiscoveryStore", "d1/df2/a02990.html#a1d624484e07efeeabc8a73a10c75ca4d", null ]
 ];

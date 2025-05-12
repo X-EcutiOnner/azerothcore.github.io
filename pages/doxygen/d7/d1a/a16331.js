@@ -1,7 +1,8 @@
 var a16331 =
 [
-    [ "npc_toc_retro_paladinAI", "d7/d1a/a16331.html#afe933281cea61c9a4f3ded76290a3b72", null ],
-    [ "myCanCast", "d7/d1a/a16331.html#a271b1d0855dbd2e38ecb6ea62140012f", null ],
-    [ "UpdateAI", "d7/d1a/a16331.html#a105d6b9c133c1147b310826d7be416f5", null ],
-    [ "events", "d7/d1a/a16331.html#a7078c28d5392bc77d577fa7a6f96b9d7", null ]
+    [ "npc_toc_warlockAI", "d7/d1a/a16331.html#a4c4c2f502f00ca48bb7419434d88ea3a", null ],
+    [ "JustSummoned", "d7/d1a/a16331.html#a203ef748afaa400aa1f8365b5d7bf6b1", null ],
+    [ "myCanCast", "d7/d1a/a16331.html#a62b2df362bc07aa4a9c14cbc63a10e05", null ],
+    [ "UpdateAI", "d7/d1a/a16331.html#a554849d02d923439bd810b7d8c242afa", null ],
+    [ "events", "d7/d1a/a16331.html#a3b84c70d246bbf5b70ab4dec06c647b3", null ]
 ];

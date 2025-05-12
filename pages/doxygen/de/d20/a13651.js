@@ -1,6 +1,6 @@
 var a13651 =
 [
-    [ "boss_janalaiAI", "d5/d78/a13655.html", "d5/d78/a13655" ],
-    [ "boss_janalai", "de/d20/a13651.html#adb902ccc4dfc4ef7bab3e3428ff1082b", null ],
-    [ "GetAI", "de/d20/a13651.html#a1782fb8882fae9818c03feab00417619", null ]
+    [ "npc_lady_sylvanas_windrunner_bfuAI", "d5/d78/a13655.html", "d5/d78/a13655" ],
+    [ "npc_lady_sylvanas_windrunner_bfu", "de/d20/a13651.html#a77e98bc345f7d27f145d4b29c4deb58e", null ],
+    [ "GetAI", "de/d20/a13651.html#a94fdd0778818fcc6a8b818d38dde6f75", null ]
 ];

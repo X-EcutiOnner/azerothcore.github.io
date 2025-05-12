@@ -1,8 +1,9 @@
 var a11691 =
 [
-    [ "CheckProc", "dc/dd7/a11691.html#a08e84f2b2ff25ed7e260e61251f9cdb9", null ],
-    [ "HandleProc", "dc/dd7/a11691.html#afd3d4786f739566056b69390553d9c71", null ],
-    [ "PrepareAuraScript", "dc/dd7/a11691.html#a3ba84d4fd311a91efa685980ffec8d77", null ],
-    [ "Register", "dc/dd7/a11691.html#aa36a2e10a6fd67fa74d08e20dc806744", null ],
-    [ "Validate", "dc/dd7/a11691.html#aeff8b89300bb5d3589a46a4f66cfd77d", null ]
+    [ "quest_commandscript", "dc/dd7/a11691.html#a98804583ded14bc50d252475289dda4f", null ],
+    [ "GetCommands", "dc/dd7/a11691.html#afaf8c4b169a2bc7457b8ab97d13a367c", null ],
+    [ "HandleQuestAdd", "dc/dd7/a11691.html#acd1410f224a1d69bba1321999ebf25bc", null ],
+    [ "HandleQuestComplete", "dc/dd7/a11691.html#a044c30fdaedd07060284bd37fd2e226c", null ],
+    [ "HandleQuestRemove", "dc/dd7/a11691.html#ac0a87854f99c510c8309e9e337d1e71f", null ],
+    [ "HandleQuestReward", "dc/dd7/a11691.html#ab8d38057b3630b75cf21c8e88c1ebaf0", null ]
 ];

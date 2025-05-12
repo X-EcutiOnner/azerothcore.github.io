@@ -1,6 +1,7 @@
 var a24927 =
 [
-    [ "HandleEffectPeriodicUpdate", "dc/d6f/a24927.html#a554353fede78b89bf488230254d7892b", null ],
-    [ "PrepareAuraScript", "dc/d6f/a24927.html#adf20aaafff83bae614ff3c614a08a54b", null ],
-    [ "Register", "dc/d6f/a24927.html#a6ee55cc41f7b69fc12bb3dc6c7fcbaf5", null ]
+    [ "HandleScript", "dc/d6f/a24927.html#a2e323378559d8f11cbdbcb76e86a25ca", null ],
+    [ "PrepareSpellScript", "dc/d6f/a24927.html#ad511986b26dccd1be8206f01458c2b40", null ],
+    [ "Register", "dc/d6f/a24927.html#aa8ea297d751913def150dc1e29d37664", null ],
+    [ "Validate", "dc/d6f/a24927.html#a81222d8ac4f55175d1dc4d7c359cc331", null ]
 ];

@@ -1,7 +1,10 @@
 var a13475 =
 [
-    [ "npc_jaina_proudmoore_bfuAI", "dc/d99/a13475.html#ad5ad1d05ef8210409c700e47b5442e24", null ],
-    [ "Reset", "dc/d99/a13475.html#a18de805428ce0954a5fbfffbf5975342", null ],
-    [ "UpdateAI", "dc/d99/a13475.html#a48b191d0812bfe3212511a52ef0df817", null ],
-    [ "_events", "dc/d99/a13475.html#a87e99e0b5fd0a3823b009025019b1fa4", null ]
+    [ "npc_partygoer_pather", "dc/d99/a13475.html#a15a0e517e8671afb9d636ebe781a4bcd", null ],
+    [ "Initialize", "dc/d99/a13475.html#afb114b0587c550e39c41e131364da663", null ],
+    [ "PathEndReached", "dc/d99/a13475.html#a55833d306716ba411f96ecd024cc7c72", null ],
+    [ "Reset", "dc/d99/a13475.html#ade2cc36ff49001138eee5b607ec83b12", null ],
+    [ "UpdateAI", "dc/d99/a13475.html#a4d222399b6b789e7a2a2faa4765116a6", null ],
+    [ "_events", "dc/d99/a13475.html#ac210dc0286ded980e78743237a08bb23", null ],
+    [ "_path", "dc/d99/a13475.html#a4da184c44858e99eca2b07193fd48f13", null ]
 ];

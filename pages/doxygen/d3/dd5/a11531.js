@@ -1,7 +1,7 @@
 var a11531 =
 [
-    [ "npc_rocknotAI", "d8/dad/a11535.html", "d8/dad/a11535" ],
-    [ "npc_rocknot", "d3/dd5/a11531.html#a64a0cd215c1f4881948e5a49cf1b86d7", null ],
-    [ "GetAI", "d3/dd5/a11531.html#ac8a90d54e9303c40f0313fda1dcfea86", null ],
-    [ "OnQuestReward", "d3/dd5/a11531.html#abd8ad3d7e6dd1e557398e268409a2c98", null ]
+    [ "achievement_commandscript", "d3/dd5/a11531.html#ac1c40d7b3b628cc206c44eae18592292", null ],
+    [ "GetCommands", "d3/dd5/a11531.html#adeac4e6f74f006daa76b0ebb8ea1469c", null ],
+    [ "HandleAchievementAddCommand", "d3/dd5/a11531.html#ac4f6addfb0c52d584bf8081436aa3d7a", null ],
+    [ "HandleAchievementCheckAllCommand", "d3/dd5/a11531.html#a0e3b83961ff20899a8492c8d8b7c13be", null ]
 ];

@@ -1,15 +1,19 @@
 var a15755 =
 [
-    [ "boss_krik_thirAI", "d3/dc7/a15755.html#a92a2b2089c890901cd438c8d8ea432c7", null ],
-    [ "GetData", "d3/dc7/a15755.html#adcca5f21a596ffae3c50f102c4698c4e", null ],
-    [ "JustDied", "d3/dc7/a15755.html#ab4a576f9746f7ade8f6b8f8c08795433", null ],
-    [ "JustEngagedWith", "d3/dc7/a15755.html#aa99c241641fc7e94412d08bebed07475", null ],
-    [ "JustSummoned", "d3/dc7/a15755.html#afff556f4bc00b87b3d2a37ffbf54c919", null ],
-    [ "KilledUnit", "d3/dc7/a15755.html#aad554ec61a0c6ad9cedf6d7d1b33ed1d", null ],
-    [ "MoveInLineOfSight", "d3/dc7/a15755.html#a6c72cebac0e09f66bf0a60cdc328aa4d", null ],
-    [ "Reset", "d3/dc7/a15755.html#a613441fcb7bd851a03729be84d27650c", null ],
-    [ "SummonedCreatureDies", "d3/dc7/a15755.html#acb7b45fbe3a736ad65b0a2556ead40ae", null ],
-    [ "UpdateAI", "d3/dc7/a15755.html#ae37227df78ad9ffb9722caa0c16ffa5f", null ],
-    [ "_initTalk", "d3/dc7/a15755.html#a68a4994c750979b91e46160b0cba77b4", null ],
-    [ "events2", "d3/dc7/a15755.html#a8f706239d33861105a37476eecb977ec", null ]
+    [ "boss_taldaram", "d3/dc7/a15755.html#a6438d3534aca5e4a92afb3e6c6e24f73", null ],
+    [ "DamageTaken", "d3/dc7/a15755.html#a44d94f39e23720810acb40550f1c178a", null ],
+    [ "DoAction", "d3/dc7/a15755.html#aee1cf0553e8c7ebebea4a83f2d7e6d5d", null ],
+    [ "InitializeAI", "d3/dc7/a15755.html#a3d5b4628d6fb2db91ed073b042eefdc4", null ],
+    [ "JustDied", "d3/dc7/a15755.html#a4b6c0f51fd3a2a8c00ef095eeeea785d", null ],
+    [ "JustEngagedWith", "d3/dc7/a15755.html#a07e1cb5b53906f92a1f485340aa004e5", null ],
+    [ "JustSummoned", "d3/dc7/a15755.html#a5ae9201a71fa665908f924647b262825", null ],
+    [ "KilledUnit", "d3/dc7/a15755.html#a8fe516a08547ec03e8114b07e9c87d1f", null ],
+    [ "MovementInform", "d3/dc7/a15755.html#a17ca98f742a06b1496b2216e984811d8", null ],
+    [ "Reset", "d3/dc7/a15755.html#ae26fec572206d2f1f9acc229ee797496", null ],
+    [ "ScheduleCombatEvents", "d3/dc7/a15755.html#a247e5357fcdf8da8e00bef09f3568ca3", null ],
+    [ "SpellHitTarget", "d3/dc7/a15755.html#a0f228ea10a538a9ecf70b9f54d399150", null ],
+    [ "UpdateAI", "d3/dc7/a15755.html#a8ae18c5fd1c5df67edaf1921b5504ce1", null ],
+    [ "vanishDamage", "d3/dc7/a15755.html#a85d8c95320e6f1f486a39043218f0350", null ],
+    [ "vanishTarget_GUID", "d3/dc7/a15755.html#a211707b3e9476a22be011567882f018a", null ],
+    [ "victimSperePos", "d3/dc7/a15755.html#a06efb376b0d08207a0efce74770f21dc", null ]
 ];

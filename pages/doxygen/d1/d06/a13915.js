@@ -1,6 +1,6 @@
 var a13915 =
 [
-    [ "LaunchHit", "d1/d06/a13915.html#a10bb54a1a0cd992e9e944870684f3a21", null ],
-    [ "PrepareSpellScript", "d1/d06/a13915.html#a95e85ecfcc5b72c250a0bc184b1d32a7", null ],
-    [ "Register", "d1/d06/a13915.html#a19c6111ea0c3506ddc2d8459c192f04f", null ]
+    [ "FilterTargets", "d1/d06/a13915.html#ac29f6792f36f1b5ef4a463754c725a2e", null ],
+    [ "PrepareSpellScript", "d1/d06/a13915.html#a0a1cbde8aff10303d91a791276a865f4", null ],
+    [ "Register", "d1/d06/a13915.html#a9f7d21ab52f581ad154a242ce84d8a5d", null ]
 ];

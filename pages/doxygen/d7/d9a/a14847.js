@@ -1,12 +1,14 @@
 var a14847 =
 [
-    [ "npc_anubisath_guardian", "d7/d9a/a14847.html#a7db1771f9083e14c177e37d7bf6690c5", null ],
-    [ "DamageTaken", "d7/d9a/a14847.html#a2b7f307b5af7c50c86a68c4834f08ed4", null ],
-    [ "JustDied", "d7/d9a/a14847.html#a9f40c43ded16ad5934a5d5499f16ca76", null ],
-    [ "JustEngagedWith", "d7/d9a/a14847.html#a16d1e70f0ca0fcef972ac45f82e885e6", null ],
-    [ "Reset", "d7/d9a/a14847.html#af87cc86141964c48f9c57ed5bade36a5", null ],
-    [ "UpdateAI", "d7/d9a/a14847.html#a9a9c805c92a3e8e96914d01accb01051", null ],
-    [ "_enraged", "d7/d9a/a14847.html#a69b3b2cee4c84cd6dccd3465b555ad12", null ],
-    [ "_scheduler", "d7/d9a/a14847.html#ad44455c43d53426a152547d5b0770bbe", null ],
-    [ "_spells", "d7/d9a/a14847.html#aee75f952ed14f5f6fab1f5117f6b8b9e", null ]
+    [ "boss_ayamiss", "d7/d9a/a14847.html#a0e923d4fa8bd6623ec58d7f64b5ea261", null ],
+    [ "DoAction", "d7/d9a/a14847.html#a0114a79274c34fe3dfbc8a34f39920bc", null ],
+    [ "EnterEvadeMode", "d7/d9a/a14847.html#a52f584da6d3d1b87fe91528dc25b8c5e", null ],
+    [ "JustDied", "d7/d9a/a14847.html#acddcbb06b7d5980e199ef11103fabf7c", null ],
+    [ "JustEngagedWith", "d7/d9a/a14847.html#aaaf1b765256f4a6342d16bd7767f92cf", null ],
+    [ "JustSummoned", "d7/d9a/a14847.html#a4281f761256cd93c19aea0a76239512d", null ],
+    [ "MovementInform", "d7/d9a/a14847.html#a6bc1f0767785efb5a5fb005b49338032", null ],
+    [ "Reset", "d7/d9a/a14847.html#a10111f97236c2846181aa20f7d9b64fd", null ],
+    [ "ScheduleTasks", "d7/d9a/a14847.html#a166238b9395a426a7333cf71a38c6c5c", null ],
+    [ "_swarmers", "d7/d9a/a14847.html#aa6dd99f8085d1424acf07cc124ac210c", null ],
+    [ "homePos", "d7/d9a/a14847.html#ab098ee0f8872d1cf9d34993c01971921", null ]
 ];

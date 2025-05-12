@@ -1,4 +1,4 @@
 var a04148 =
 [
-    [ "ScriptRegistry< PetScript >", "dc/d9e/a04148.html#a24e9b0a598349bf70ac6cf5aa4e30043", null ]
+    [ "DEBUG_WRITE", "dc/d9e/a04148.html#a4ebf72895c1d62f0bc7d45804db4bc91", null ]
 ];

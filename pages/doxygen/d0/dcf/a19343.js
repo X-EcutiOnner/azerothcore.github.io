@@ -1,6 +1,7 @@
 var a19343 =
 [
-    [ "HandleEffectCalcAmount", "d0/dcf/a19343.html#afa50ce616d36dd59c7195209074d6182", null ],
-    [ "PrepareAuraScript", "d0/dcf/a19343.html#a4638b99dac7653f13d59c3928a78b3b9", null ],
-    [ "Register", "d0/dcf/a19343.html#a691d5a99eec9e367c518d0244f25bd41", null ]
+    [ "Apply", "d0/dcf/a19343.html#add8e95d38b0c437833c11cded72fe2a7", null ],
+    [ "PrepareAuraScript", "d0/dcf/a19343.html#ad2112b571d97e537983b4d11207015e6", null ],
+    [ "Register", "d0/dcf/a19343.html#accf85a0d8b2fad19bb0709013caa9f1b", null ],
+    [ "Validate", "d0/dcf/a19343.html#a0b89b10ee22d02655ad08a348ab91ecd", null ]
 ];

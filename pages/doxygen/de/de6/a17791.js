@@ -1,6 +1,7 @@
 var a17791 =
 [
-    [ "OnRemove", "de/de6/a17791.html#a5b9f23b815b1c85ecf2e56c626ce5077", null ],
-    [ "PrepareAuraScript", "de/de6/a17791.html#a9207d9f59026e1beb7c266ee3a1ef884", null ],
-    [ "Register", "de/de6/a17791.html#ad9eb03a09fc13f6b2b30e9f6cc1990bc", null ]
+    [ "HandleExtraEffect", "de/de6/a17791.html#a8fbfac8e62d2534daf40194f7fe31945", null ],
+    [ "PrepareAuraScript", "de/de6/a17791.html#a45e83b3bfa344391bb87c8088ae1c6a7", null ],
+    [ "Register", "de/de6/a17791.html#a5ec23a02a4e617e6db8cf17d2bd36aff", null ],
+    [ "Validate", "de/de6/a17791.html#a2e7253cfc18b66d663457c2fb7ab3302", null ]
 ];

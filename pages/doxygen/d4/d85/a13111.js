@@ -1,11 +1,6 @@
 var a13111 =
 [
-    [ "npc_kalecgos_kjAI", "d4/d85/a13111.html#a767c71ddfd53a83be73581dd6bc07e2c", null ],
-    [ "DoAction", "d4/d85/a13111.html#acd76b7960d8de80b4384549723354e48", null ],
-    [ "JustSummoned", "d4/d85/a13111.html#af95048cecf0761c6bd6cb24b90b99959", null ],
-    [ "Reset", "d4/d85/a13111.html#af0fe1a73dffd23675122f2f1679f52d6", null ],
-    [ "UpdateAI", "d4/d85/a13111.html#abbbb554818e9d1aa87db8671ac49adfd", null ],
-    [ "events", "d4/d85/a13111.html#ad079b7bd8d0c0fc50b52e9105707565d", null ],
-    [ "instance", "d4/d85/a13111.html#a697d03ae3f042d5a85133f643dd46e67", null ],
-    [ "summons", "d4/d85/a13111.html#a48a8cacf3a0a36d94ad767e19d0a5b5e", null ]
+    [ "instance_stratholme_InstanceMapScript", "dc/d67/a13115.html", "dc/d67/a13115" ],
+    [ "instance_stratholme", "d4/d85/a13111.html#a42ac504b2790af8c37a44e87fbd9c6c1", null ],
+    [ "GetInstanceScript", "d4/d85/a13111.html#a3d3d2e773029dd1c4bc1a59a94c4e015", null ]
 ];

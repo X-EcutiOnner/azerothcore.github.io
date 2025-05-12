@@ -1,7 +1,8 @@
 var a28211 =
 [
-    [ "ID", "d8/d47/a28211.html#aa5db020808990dc98fc143e4a5e0d2b2", null ],
-    [ "RadiusMax", "d8/d47/a28211.html#ab82c1acb9309b17104958182d80b01d1", null ],
-    [ "RadiusMin", "d8/d47/a28211.html#acaee7da373b94a262e01d4bd3bea4f08", null ],
-    [ "RadiusPerLevel", "d8/d47/a28211.html#a74bb59afb808af45ceff6367468fca1e", null ]
+    [ "ClassMask", "d8/d47/a28211.html#a563ba1618ffefa5470696e37f65c70d4", null ],
+    [ "Flags", "d8/d47/a28211.html#af89c32a22f018557fe016e0784a82384", null ],
+    [ "RaceMask", "d8/d47/a28211.html#acff47bf5c075d669f95b0d229674f9bc", null ],
+    [ "SkillID", "d8/d47/a28211.html#ab9237a8776aa854e0f81cf228a247ef0", null ],
+    [ "SkillTierID", "d8/d47/a28211.html#ab6153043461b71336e12b00957499075", null ]
 ];

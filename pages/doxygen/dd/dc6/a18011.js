@@ -1,6 +1,5 @@
 var a18011 =
 [
-    [ "HandleScript", "dd/dc6/a18011.html#a038a827f7fe179ff56ab581efdf08790", null ],
-    [ "PrepareSpellScript", "dd/dc6/a18011.html#a9ffd37bb54ce5e4a73d7d93eaddda2dd", null ],
-    [ "Register", "dd/dc6/a18011.html#a6018f3a74a1b61042bb0ff6c02b76611", null ]
+    [ "achievement_all_you_can_eat", "dd/dc6/a18011.html#a0995024862a445ea1f0ff5c82475fc64", null ],
+    [ "OnCheck", "dd/dc6/a18011.html#a0baa07a7cbd239e4a5fcfd3e687aedf6", null ]
 ];

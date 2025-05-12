@@ -1,7 +1,7 @@
 var a15499 =
 [
-    [ "npc_paoka_swiftmountainAI", "d7/d81/a15503.html", "d7/d81/a15503" ],
-    [ "npc_paoka_swiftmountain", "d7/d24/a15499.html#abb3f6fab7cca158c2e139159430f880a", null ],
-    [ "GetAI", "d7/d24/a15499.html#a3f41d2caae5acb4b79bcc75780db03d2", null ],
-    [ "OnQuestAccept", "d7/d24/a15499.html#a5bd4442350daf5a19bee1037a1b4d7b3", null ]
+    [ "npc_kaya_flathoofAI", "d7/d24/a15499.html#a3b43992dfeeb7b3b19e777b9629c55ce", null ],
+    [ "JustSummoned", "d7/d24/a15499.html#ac365753a428009f4fc4d01ead8fe46fd", null ],
+    [ "Reset", "d7/d24/a15499.html#af9be00be9867622a16103bd21311327f", null ],
+    [ "WaypointReached", "d7/d24/a15499.html#a8fcbb19279b925138ba96d2a450fc404", null ]
 ];

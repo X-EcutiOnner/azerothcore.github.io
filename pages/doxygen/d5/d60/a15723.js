@@ -1,6 +1,17 @@
 var a15723 =
 [
-    [ "boss_hadronoxAI", "d8/d77/a15727.html", "d8/d77/a15727" ],
-    [ "boss_hadronox", "d5/d60/a15723.html#ae3457fd6108cc350cf9eedab3178f781", null ],
-    [ "GetAI", "d5/d60/a15723.html#a90bf0ecb218e30e61852baffeabc3dc1", null ]
+    [ "boss_volazj", "d5/d60/a15723.html#ac1f0bc7b55a554d29e55a376680bf747", null ],
+    [ "CheckPhaseMinions", "d5/d60/a15723.html#aa79bf97b6772956795bd2f16b85e061f", null ],
+    [ "DamageTaken", "d5/d60/a15723.html#a494d78875526d878421b995145b74a12", null ],
+    [ "GetPlrInsanityAuraId", "d5/d60/a15723.html#a5b6936cedb3fc411ae58f3dc3f6b689a", null ],
+    [ "InitializeAI", "d5/d60/a15723.html#a9480c4294b18c5417895e5070be9a455", null ],
+    [ "JustDied", "d5/d60/a15723.html#a6c85c56c2483c3e8b4de67b94a45e0a6", null ],
+    [ "JustEngagedWith", "d5/d60/a15723.html#a135c5606742474e77ffd0ee0a3c3ee69", null ],
+    [ "KilledUnit", "d5/d60/a15723.html#abdf2cb95f0d3d7756584c338f2e2db25", null ],
+    [ "Reset", "d5/d60/a15723.html#a0377375b89b02db3cae01390fdd13ee2", null ],
+    [ "ResetPlayersPhaseMask", "d5/d60/a15723.html#afbfa62f2b72a95434348f74fdda46da6", null ],
+    [ "SetData", "d5/d60/a15723.html#aa8b5ae6214f0c764f15b096876d614d7", null ],
+    [ "UpdateAI", "d5/d60/a15723.html#aceac85fb06c81ccd171b024ad0d57ffe", null ],
+    [ "insanityPhase", "d5/d60/a15723.html#ae90de1e956eb3653c8c2f0c04d89585b", null ],
+    [ "insanityTimes", "d5/d60/a15723.html#a7d2693147f9cb20a45ff2e5b6a2ca209", null ]
 ];

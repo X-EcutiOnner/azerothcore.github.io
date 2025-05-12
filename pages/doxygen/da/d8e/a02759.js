@@ -1,5 +1,6 @@
 var a02759 =
 [
-    [ "WorldPackets::LFG::LFGJoin", "d3/d1f/a10716.html", "d3/d1f/a10716" ],
-    [ "WorldPackets::LFG::LFGLeave", "dd/d58/a10720.html", "dd/d58/a10720" ]
+    [ "LogHeader", "d2/d93/a10915.html", "d2/d93/a10915" ],
+    [ "PacketHeader", "d1/df8/a10919.html", "d1/df8/a10919" ],
+    [ "PacketHeader::OptionalData", "d9/dc6/a10923.html", "d9/dc6/a10923" ]
 ];

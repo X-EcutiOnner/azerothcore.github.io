@@ -1,8 +1,6 @@
 var a08291 =
 [
-    [ "PlayerCreateInfoAction", "db/dff/a08291.html#a50d56595c71374e132dfe9f988144e75", null ],
-    [ "PlayerCreateInfoAction", "db/dff/a08291.html#a1e1d33b18074031e408da10f44a9a9c4", null ],
-    [ "action", "db/dff/a08291.html#a957d05ae25fd1ca801e097f03f9cc43e", null ],
-    [ "button", "db/dff/a08291.html#ac0c4658cfb1fc01cbb55116dd6dbe899", null ],
-    [ "type", "db/dff/a08291.html#a41e4a38f2c12f9e68b835fe17e56bc7e", null ]
+    [ "item_count", "db/dff/a08291.html#a437fe00f34ad414e3c9f81d01a153d13", null ],
+    [ "setid", "db/dff/a08291.html#ab8c24b76b1c0eb92c0fe52ca9baf293a", null ],
+    [ "spells", "db/dff/a08291.html#af8156bad9771ed816fd861d3eb992aaa", null ]
 ];

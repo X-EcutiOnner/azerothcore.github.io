@@ -1,6 +1,5 @@
 var a15091 =
 [
-    [ "HandleDummy", "d5/da7/a15091.html#a09b21b3e5357c49d85ef01d9a5d4694f", null ],
-    [ "PrepareSpellScript", "d5/da7/a15091.html#ac221d3d128265d78acc72d41ebf0fd8a", null ],
-    [ "Register", "d5/da7/a15091.html#a67be525bc07ef7091d9b8148c1a01fb9", null ]
+    [ "at_twin_emperors", "d5/da7/a15091.html#a343d482857fa0a45c42f593e591f7754", null ],
+    [ "_OnTrigger", "d5/da7/a15091.html#adf3120b7bf611e0246abb2970711ada3", null ]
 ];

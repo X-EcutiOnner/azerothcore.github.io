@@ -1,10 +1,8 @@
 var a08727 =
 [
-    [ "PetLevelInfo", "d6/d51/a08727.html#ad8e757abeae500063e963ffef5469809", null ],
-    [ "armor", "d6/d51/a08727.html#ab7097f75cf86bd6f135f21dace61a89e", null ],
-    [ "health", "d6/d51/a08727.html#a322dcab3af8f98726aa6addf38e8891b", null ],
-    [ "mana", "d6/d51/a08727.html#a27352e73d6ed3945e398e0634dee1e96", null ],
-    [ "max_dmg", "d6/d51/a08727.html#a092f2600f64f2af885142b2e96d1fe64", null ],
-    [ "min_dmg", "d6/d51/a08727.html#a299d1c7f4c28893e09de79cd816afa95", null ],
-    [ "stats", "d6/d51/a08727.html#a897aabacdbe9cbc4afcc40ab059c12be", null ]
+    [ "RedirectSpellEvent", "d6/d51/a08727.html#a77d243d64c2fc651d71c42e10a315161", null ],
+    [ "Execute", "d6/d51/a08727.html#a34ae2bc23904558bd5f5b99e8f1c5fdc", null ],
+    [ "_auraEffect", "d6/d51/a08727.html#a010f14a7d389b4e9ae9896061fa18a65", null ],
+    [ "_auraOwnerGUID", "d6/d51/a08727.html#a1b3fb598748362379fef15b3172d8e2b", null ],
+    [ "_self", "d6/d51/a08727.html#aecfa190843c1493b47652ccdac7ae9c3", null ]
 ];

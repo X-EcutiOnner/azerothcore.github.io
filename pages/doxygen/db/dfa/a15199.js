@@ -1,10 +1,21 @@
 var a15199 =
 [
-    [ "npc_murkdeepAI", "db/dfa/a15199.html#abe78235ecb94e4735a6f8eaad7fe6adc", null ],
-    [ "JustEngagedWith", "db/dfa/a15199.html#ad33de7cb0caffcd255db38204ecfbb1c", null ],
-    [ "Reset", "db/dfa/a15199.html#aa89316a0fe4f99630a4a129aed305e24", null ],
-    [ "UpdateAI", "db/dfa/a15199.html#aeca85a1324791d18ac825401fb8a31e8", null ],
-    [ "events", "db/dfa/a15199.html#ae3d344829aeba22ef0c5947863720390", null ],
-    [ "phase", "db/dfa/a15199.html#a74a3a16cb3f2993aea9c5d6736a6914e", null ],
-    [ "spawnTimer", "db/dfa/a15199.html#a6b139fb5cc0776103934f14be15c34d1", null ]
+    [ "npc_rizzle_sprysprocketAI", "db/dfa/a15199.html#a74b59a5721c46cddf13e9532a36f6a6d", null ],
+    [ "AttackStart", "db/dfa/a15199.html#a87aa5e5e66f5f083829cf8dd78d9dc75", null ],
+    [ "JustEngagedWith", "db/dfa/a15199.html#a9c39a4c8302fb507f9c7b09ebf871c5e", null ],
+    [ "MovementInform", "db/dfa/a15199.html#a6ba4af8eee61bd6f562b25e096fcf0a8", null ],
+    [ "Reset", "db/dfa/a15199.html#a060a25159570525af2d624f3f153eadf", null ],
+    [ "sGossipSelect", "db/dfa/a15199.html#ab69a38bfe7a5b18b7f11b1f4df4c293a", null ],
+    [ "UpdateAI", "db/dfa/a15199.html#ab2b1307113e4c91af94ea3ed4cbe8697", null ],
+    [ "CheckTimer", "db/dfa/a15199.html#a2bb7b9a55427023156175bd2305a77fe", null ],
+    [ "ContinueWP", "db/dfa/a15199.html#a85b90ae315a7957eba416d9c44f457ff", null ],
+    [ "CurrWP", "db/dfa/a15199.html#acd4a2ef2157d47d3571d6c61d9dfdd4a", null ],
+    [ "Escape", "db/dfa/a15199.html#a300700dc91eb4b49ec7cbf42c998feb4", null ],
+    [ "GrenadeTimer", "db/dfa/a15199.html#ad43496d1ba134a19b49ecfae871f49ba", null ],
+    [ "MustDie", "db/dfa/a15199.html#a8eae3901791679ef5609f929ddc83fc9", null ],
+    [ "MustDieTimer", "db/dfa/a15199.html#a044f7c15ed58b67d02d6e1f6b76ad573", null ],
+    [ "PlayerGUID", "db/dfa/a15199.html#a28482e22f80316de1b2e4ebd54875f13", null ],
+    [ "Reached", "db/dfa/a15199.html#a1962eac2fa0403b965e5534d09bfc8a5", null ],
+    [ "SpellEscapeTimer", "db/dfa/a15199.html#a4f2a0f04c8c126ac4ef31a45f74f7f77", null ],
+    [ "TeleportTimer", "db/dfa/a15199.html#a4df0058661b6251c39497ee5b872c33e", null ]
 ];

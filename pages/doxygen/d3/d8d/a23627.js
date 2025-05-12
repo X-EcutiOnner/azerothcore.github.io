@@ -1,6 +1,10 @@
 var a23627 =
 [
-    [ "npc_millhouse_manastormAI", "d4/d56/a23631.html", "d4/d56/a23631" ],
-    [ "npc_millhouse_manastorm", "d3/d8d/a23627.html#aebc8efc48d207ad7f1105fa636b9c104", null ],
-    [ "GetAI", "d3/d8d/a23627.html#ac4516785f7daf544718fc201197ba977", null ]
+    [ "boss_harbinger_skyriss", "d3/d8d/a23627.html#a245179f74d61c2671b397e8f2473b599", null ],
+    [ "EnterEvadeMode", "d3/d8d/a23627.html#a873413da06569343225e6659f8277b2c", null ],
+    [ "JustDied", "d3/d8d/a23627.html#a2b5152ddeb53d382294bd0fe7455a21e", null ],
+    [ "JustEngagedWith", "d3/d8d/a23627.html#adb4cdec41f4b61f82efdb78fe995c313", null ],
+    [ "JustSummoned", "d3/d8d/a23627.html#a97d84139a3e970e22d7d422f2f825f12", null ],
+    [ "KilledUnit", "d3/d8d/a23627.html#a8f9e1bd87c80041e07b428ec300ceef8", null ],
+    [ "Reset", "d3/d8d/a23627.html#a045ec2371ad99c3465b8f089eb604e0a", null ]
 ];

@@ -1,6 +1,7 @@
 var a12235 =
 [
-    [ "HandleTriggerSpell", "dd/d0f/a12235.html#a361d179f81eb2565e133f674a127af90", null ],
-    [ "PrepareSpellScript", "dd/d0f/a12235.html#a47afe11577bb488509d0cfabf63d16ba", null ],
-    [ "Register", "dd/d0f/a12235.html#a0f17ba7bef0e9a59872297ef151a22fb", null ]
+    [ "HandlePeriodic", "dd/d0f/a12235.html#a72e043202c587e6c12d0b36d679cd071", null ],
+    [ "PrepareAuraScript", "dd/d0f/a12235.html#a7ca007283e34855ee825ae160653f4a3", null ],
+    [ "Register", "dd/d0f/a12235.html#aebad39c65167042be8db3c3a1811a235", null ],
+    [ "Validate", "dd/d0f/a12235.html#aaf87c4052fd5408f7e34e2e14500e813", null ]
 ];

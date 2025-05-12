@@ -1,6 +1,6 @@
 var a11887 =
 [
-    [ "go_chromaggus_leverAI", "d6/d92/a11887.html#a51406a7e313702282cebfbf067c9ce4e", null ],
-    [ "GossipHello", "d6/d92/a11887.html#a44ece597fcfcf290234cc1ef073fbf18", null ],
-    [ "_instance", "d6/d92/a11887.html#a364f66c7cf0a7bc4a3ea97b87ebe9f90", null ]
+    [ "boss_hedrumAI", "dc/d54/a11891.html", "dc/d54/a11891" ],
+    [ "boss_hedrum", "d6/d92/a11887.html#a655d348dec9ce9b585ea12f3629b0aa7", null ],
+    [ "GetAI", "d6/d92/a11887.html#a7033d315852aa4905784e957679ee261", null ]
 ];

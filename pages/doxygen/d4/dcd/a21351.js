@@ -1,6 +1,8 @@
 var a21351 =
 [
-    [ "npc_vh_sinclari", "d4/dcd/a21351.html#ad0235f207a3031420532174c04e0c348", null ],
-    [ "OnGossipHello", "d4/dcd/a21351.html#a95f0d094d417d9d6ce99d7c8aa83496f", null ],
-    [ "OnGossipSelect", "d4/dcd/a21351.html#af0a260d7868f601ae239c226b10d4de3", null ]
+    [ "npc_azure_raiderAI", "d4/dcd/a21351.html#a6928428a9dc1ed483a682c8f2a281ebf", null ],
+    [ "Reset", "d4/dcd/a21351.html#a80d9e586e5c03d19b6b9f0e0f7607b20", null ],
+    [ "UpdateAI", "d4/dcd/a21351.html#a2e9833d0d25fd8c442f7ab279de6a40a", null ],
+    [ "uiConcussionBlowTimer", "d4/dcd/a21351.html#a4e7dfb8d4991bf7ad3d0eeb72dff770b", null ],
+    [ "uiMagicReflectionTimer", "d4/dcd/a21351.html#acb262ab506ea58201abfe2057525c548", null ]
 ];

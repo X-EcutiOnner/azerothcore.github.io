@@ -1,15 +1,14 @@
 var a14679 =
 [
-    [ "npc_time_rift", "d9/d93/a14679.html#ab553bcc40699a63310feaaa7b1bd2604", null ],
-    [ "DoSelectSummon", "d9/d93/a14679.html#af2932c60efaea64d27d52b118b9a8095", null ],
-    [ "DoSummonAtRift", "d9/d93/a14679.html#a6cb4717848efe7e5e0b0113a9ff7dcb5", null ],
-    [ "JustSummoned", "d9/d93/a14679.html#a1d96b081db3cb2a9c40f5adb1c9b109d", null ],
-    [ "Reset", "d9/d93/a14679.html#ad08ca716f120a45ee1688e03d2049aba", null ],
-    [ "SummonedCreatureDies", "d9/d93/a14679.html#ae0ebd0268454ac0cac83235afd7f6363", null ],
-    [ "UpdateAI", "d9/d93/a14679.html#ab5924378c7978c6fae95f9861040c63d", null ],
-    [ "_events", "d9/d93/a14679.html#a12ffd459f8d63f299269da5b65f60128", null ],
-    [ "_instance", "d9/d93/a14679.html#a8eab9c3011c885321d59e2884318d0e8", null ],
-    [ "_riftKeeperGUID", "d9/d93/a14679.html#ad554d8266ded70cadd8c00a3ff5a3321", null ],
-    [ "waveMobIndex", "d9/d93/a14679.html#aa312223ece9f0f1c4ac2861aed3988a9", null ],
-    [ "waveMobs", "d9/d93/a14679.html#a7872706f9b5bdee7e6ca2d94e39e592f", null ]
+    [ "npc_cos_stratholme_citizienAI", "d9/d93/a14679.html#a591aaf16ef5befada12378acfbef9465", null ],
+    [ "DoAction", "d9/d93/a14679.html#af9d6fa1dfa83a75194797e99ee80ae0e", null ],
+    [ "InfectMe", "d9/d93/a14679.html#a9517132eeaf1a0ffd5cb8b5879ed5d5b", null ],
+    [ "MoveInLineOfSight", "d9/d93/a14679.html#ab7a8f6423e12ca0ea9bcb085594013a2", null ],
+    [ "Reset", "d9/d93/a14679.html#a0dbb5f295aa9061fa3457c9590ea9b10", null ],
+    [ "SpellHit", "d9/d93/a14679.html#aa8b9a05d3c7d89aa054af919672a69ec", null ],
+    [ "UpdateAI", "d9/d93/a14679.html#a81a1382493091a99cae1c2bb580a7f32", null ],
+    [ "allowTimer", "d9/d93/a14679.html#ae92384763b3cfe4a4bc4180d1c404456", null ],
+    [ "changeTimer", "d9/d93/a14679.html#aa757ab2eef813dceaaad65d84681099b", null ],
+    [ "locked", "d9/d93/a14679.html#aa644050a5fc0b3cd04573e8b3def87ee", null ],
+    [ "pInstance", "d9/d93/a14679.html#aadae06c487a7755114f856a835d48c7e", null ]
 ];

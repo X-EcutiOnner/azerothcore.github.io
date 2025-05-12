@@ -1,7 +1,6 @@
 var a18567 =
 [
-    [ "HandleQuestComplete", "d5/d0b/a18567.html#a5f1e6c4358df4e0910b2227f90b39d24", null ],
-    [ "HandleScript", "d5/d0b/a18567.html#a309052e9b7c3d3747d15ab5e9c0d25fd", null ],
-    [ "PrepareSpellScript", "d5/d0b/a18567.html#ac9b2786ba2dbb8d1c74af05153bb0a6f", null ],
-    [ "Register", "d5/d0b/a18567.html#a3258d4517cfc758080691bab429624d7", null ]
+    [ "npc_frostwing_vrykulAI", "df/d1e/a18571.html", "df/d1e/a18571" ],
+    [ "npc_frostwing_vrykul", "d5/d0b/a18567.html#ab915aa094ddebd9201a1c626e6427409", null ],
+    [ "GetAI", "d5/d0b/a18567.html#a11678e59b6db9a41c7b6a575339995fd", null ]
 ];

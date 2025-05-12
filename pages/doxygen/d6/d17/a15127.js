@@ -1,6 +1,6 @@
 var a15127 =
 [
-    [ "npc_depth_chargeAI", "d4/d6a/a15131.html", "d4/d6a/a15131" ],
-    [ "npc_depth_charge", "d6/d17/a15127.html#ad16e3431b06fdd6797bfb51dda9005f5", null ],
-    [ "GetAI", "d6/d17/a15127.html#a16de1a207304ea2ad7f47d5674deeec1", null ]
+    [ "aqsentinelAI", "d4/d6a/a15131.html", "d4/d6a/a15131" ],
+    [ "npc_anubisath_sentinel", "d6/d17/a15127.html#ada1ab0d1857fe52020e798d9710a66cb", null ],
+    [ "GetAI", "d6/d17/a15127.html#ae19b8ba3766ede8f715dad5ff8d4b2d2", null ]
 ];

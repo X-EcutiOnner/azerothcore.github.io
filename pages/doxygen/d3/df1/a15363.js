@@ -1,6 +1,8 @@
 var a15363 =
 [
-    [ "Creature", "d3/df1/a15363.html#a77b33f8998f85808b58052079b1cab54", null ],
-    [ "TextId", "d3/df1/a15363.html#ad691f3cd40035e96547adf7528229119", null ],
-    [ "Timer", "d3/df1/a15363.html#accfccceaedffb3ad4d02231fb0bfeee5", null ]
+    [ "CheckRequirement", "d3/df1/a15363.html#ae2b5e9accd0df2cc99e976eaab2d3f35", null ],
+    [ "HandleDummy", "d3/df1/a15363.html#a6d2c75ad53f0e0f7be2df037f385d686", null ],
+    [ "PrepareSpellScript", "d3/df1/a15363.html#a5b0a5f957a7b996cbe6b219a9803069e", null ],
+    [ "Register", "d3/df1/a15363.html#a46f4aec6f7786d0abc8ded21ef16e6f6", null ],
+    [ "Validate", "d3/df1/a15363.html#ab3f8d94f3b8d44e668743cb821430a92", null ]
 ];

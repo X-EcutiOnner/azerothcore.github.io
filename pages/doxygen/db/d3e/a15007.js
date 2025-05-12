@@ -1,6 +1,9 @@
 var a15007 =
 [
-    [ "boss_veknilash", "db/d3e/a15007.html#a73a4095c3dd0ffbd9d7ef5a8a837f13f", null ],
-    [ "IAmVeklor", "db/d3e/a15007.html#a454027d829b962ee0feebb6fd5687714", null ],
-    [ "JustEngagedWith", "db/d3e/a15007.html#ace8de3d9a397d0571da1f5bdd2ba84d5", null ]
+    [ "npc_claw_tentacle", "db/d3e/a15007.html#a10f1c68d5f49dd1614e7e939498db37b", null ],
+    [ "JustDied", "db/d3e/a15007.html#aa566b417d1b766668133dd1d6a58293f", null ],
+    [ "JustEngagedWith", "db/d3e/a15007.html#a9fbe9b30f973d3c8509ab4bbfcfe5bcc", null ],
+    [ "Reset", "db/d3e/a15007.html#aaf3a3380a33aadc2023d192dfa85cfb2", null ],
+    [ "UpdateAI", "db/d3e/a15007.html#ae7d521445680167add653717c7ae4c86", null ],
+    [ "_portalGUID", "db/d3e/a15007.html#ab979781a8f77267348595cfa17341bae", null ]
 ];

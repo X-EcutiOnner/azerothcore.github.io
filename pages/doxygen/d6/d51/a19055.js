@@ -1,5 +1,6 @@
 var a19055 =
 [
-    [ "at_thaddius_entrance", "d6/d51/a19055.html#ad81a60cac337baad82ea526de1d151d1", null ],
-    [ "OnTrigger", "d6/d51/a19055.html#af8635a58d4da0421b72b4451c1ebafc5", null ]
+    [ "boss_sapphironAI", "dd/de6/a19059.html", "dd/de6/a19059" ],
+    [ "boss_sapphiron", "d6/d51/a19055.html#a87a70204dd727f92d035ad98e2ab9010", null ],
+    [ "GetAI", "d6/d51/a19055.html#a31209287faa721bef341388ae4383b6c", null ]
 ];

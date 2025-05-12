@@ -1,6 +1,9 @@
 var a21439 =
 [
-    [ "HandleEffectPeriodic", "db/d85/a21439.html#affa7fb949d4b1a05813df0da17fef3bb", null ],
-    [ "PrepareAuraScript", "db/d85/a21439.html#a79dbb866c06cd1c031cae2f1370146d5", null ],
-    [ "Register", "db/d85/a21439.html#a1fb46036f0860440f3a9201e0d86cdc4", null ]
+    [ "npc_lurgglbrAI", "db/d85/a21439.html#a9239b85c65f9b405335d432f355637d5", null ],
+    [ "Reset", "db/d85/a21439.html#a13b8bd8e7d85c93b0ee88c6e9f6d09ca", null ],
+    [ "UpdateAI", "db/d85/a21439.html#aee019df9abe7ca3bf36a6de2321bedec", null ],
+    [ "WaypointReached", "db/d85/a21439.html#a09ac2f2f21eefedd0052f727546bafb5", null ],
+    [ "IntroPhase", "db/d85/a21439.html#a57e2c42cccf91765365e0b046446637a", null ],
+    [ "IntroTimer", "db/d85/a21439.html#ada9762806ae0132e37197e6fb1279866", null ]
 ];

@@ -1,6 +1,6 @@
 var a18187 =
 [
-    [ "HandleScript", "d5/dba/a18187.html#a9489c3454830d3826cb077c95947bf2d", null ],
-    [ "PrepareSpellScript", "d5/dba/a18187.html#a19492e616ac6e69187bca4499175071e", null ],
-    [ "Register", "d5/dba/a18187.html#a3446174d3308f535c27581b63ade9e8a", null ]
+    [ "HandleScript", "d5/dba/a18187.html#aa05c6e510e933a71a6bce8d653632ebd", null ],
+    [ "PrepareSpellScript", "d5/dba/a18187.html#add6b78f0396a34c36e0dff1928889e43", null ],
+    [ "Register", "d5/dba/a18187.html#a587247f7417cefa2b8aa5a8edb8e2616", null ]
 ];

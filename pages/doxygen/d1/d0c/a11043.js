@@ -1,6 +1,7 @@
 var a11043 =
 [
-    [ "AuraProcHandler", "d1/d0c/a11043.html#a1c0ad4a28c98d89a0afc2f8eeda9a421", null ],
-    [ "Call", "d1/d0c/a11043.html#abc0c3be9dee08e995c282f20900f3c46", null ],
-    [ "_HandlerScript", "d1/d0c/a11043.html#ada8d7a5659598b0092739a91ba2653bd", null ]
+    [ "DynObjAura", "d1/d0c/a11043.html#aef75bb5d60c10ac63821b0e9baf6eb7a", null ],
+    [ "FillTargetMap", "d1/d0c/a11043.html#af8e36643ed675ff5652e4665bee9b0c3", null ],
+    [ "Remove", "d1/d0c/a11043.html#ada3f65b4a817e2337da43da437b93a3b", null ],
+    [ "Aura::Create", "d1/d0c/a11043.html#ae2c0fdfb409846fec5e861de60797112", null ]
 ];

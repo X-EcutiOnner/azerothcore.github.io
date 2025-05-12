@@ -1,72 +1,44 @@
 var a00575 =
 [
-    [ "npc_cameron", "dc/df1/a13416.html", "dc/df1/a13416" ],
-    [ "npc_supervisor_raelen", "d0/de5/a13420.html", "d0/de5/a13420" ],
-    [ "npc_eastvale_peasent", "d5/d12/a13424.html", "d5/d12/a13424" ],
-    [ "COG_Creatures", "d9/d42/a00575.html#a65c53b71f65b39ebdb719ba85df40c00", [
-      [ "NPC_DANA", "d9/d42/a00575.html#a65c53b71f65b39ebdb719ba85df40c00aab1360bef063d32d66b5592222983b79", null ],
-      [ "NPC_CAMERON", "d9/d42/a00575.html#a65c53b71f65b39ebdb719ba85df40c00a2774529c2dae7e5aa5c9dca851e92cee", null ],
-      [ "NPC_JOHN", "d9/d42/a00575.html#a65c53b71f65b39ebdb719ba85df40c00a92ee2b12ddc8057ce39df7fc8e26cad8", null ],
-      [ "NPC_LISA", "d9/d42/a00575.html#a65c53b71f65b39ebdb719ba85df40c00a54c1064e732d54bcc50cc2fe6c83fc00", null ],
-      [ "NPC_AARON", "d9/d42/a00575.html#a65c53b71f65b39ebdb719ba85df40c00a1b159aa0575b48c2c155ce477231d648", null ],
-      [ "NPC_JOSE", "d9/d42/a00575.html#a65c53b71f65b39ebdb719ba85df40c00ad461074ca1d14ce25750b36d50dff8d9", null ]
+    [ "AhnKahetScriptName", "d9/d42/a00575.html#a506431ce00265fd3122a043804560c86", null ],
+    [ "DataHeader", "d9/d42/a00575.html#a042491ef36459046f3866e90f15aae0d", null ],
+    [ "RegisterAhnKahetCreatureAI", "d9/d42/a00575.html#aa9d11f00daa1d5fe3fccebf717ab93f6", null ],
+    [ "AhnKahetActions", "d9/d42/a00575.html#ab602224ee107d47ea7a8fd34e7e11dcf", [
+      [ "ACTION_REMOVE_PRISON", "d9/d42/a00575.html#ab602224ee107d47ea7a8fd34e7e11dcfa16fb04e016b069c88508a114006910a8", null ]
     ] ],
-    [ "COG_Events", "d9/d42/a00575.html#ab264f1364ee8d7515c93f7604d783521", [
-      [ "EVENT_WP_START_GOLDSHIRE", "d9/d42/a00575.html#ab264f1364ee8d7515c93f7604d783521a5ca2cf14da690bfda633065ea736e15f", null ],
-      [ "EVENT_WP_START_WOODS", "d9/d42/a00575.html#ab264f1364ee8d7515c93f7604d783521a05142c4d528718117f9c7c66c066d67a", null ],
-      [ "EVENT_WP_START_HOUSE", "d9/d42/a00575.html#ab264f1364ee8d7515c93f7604d783521ad3ea93fa2e5aa5f9c975333fa1b1ff2d", null ],
-      [ "EVENT_WP_START_LISA", "d9/d42/a00575.html#ab264f1364ee8d7515c93f7604d783521acc6320f492dc6b0283b8c26d0c8dabc8", null ],
-      [ "EVENT_PLAY_SOUNDS", "d9/d42/a00575.html#ab264f1364ee8d7515c93f7604d783521a9f179e3b64119e37ba2bd7197c842ab4", null ],
-      [ "EVENT_BEGIN_EVENT", "d9/d42/a00575.html#ab264f1364ee8d7515c93f7604d783521a82d09cc2c3aa83b16da003fcf3cb98b7", null ],
-      [ "EVENT_RANDOM_MOVEMENT", "d9/d42/a00575.html#ab264f1364ee8d7515c93f7604d783521ac6c378046d721cffff0f049904ea03d1", null ]
+    [ "AhnKahetCreatures", "d9/d42/a00575.html#a0a7022dbeba8e4c5922bca61c1ac6be0", [
+      [ "NPC_ELDER_NADOX", "d9/d42/a00575.html#a0a7022dbeba8e4c5922bca61c1ac6be0adefb6eeafb4e1c648ef5431666cee303", null ],
+      [ "NPC_PRINCE_TALDARAM", "d9/d42/a00575.html#a0a7022dbeba8e4c5922bca61c1ac6be0ae7602060d95905d39d735be974c99c5f", null ],
+      [ "NPC_JEDOGA_SHADOWSEEKER", "d9/d42/a00575.html#a0a7022dbeba8e4c5922bca61c1ac6be0a8f4808be30a572ba6dc967dde518e092", null ],
+      [ "NPC_HERALD_VOLAZJ", "d9/d42/a00575.html#a0a7022dbeba8e4c5922bca61c1ac6be0a5c1e93f3700ea72caa137ad6848e3c85", null ],
+      [ "NPC_AMANITAR", "d9/d42/a00575.html#a0a7022dbeba8e4c5922bca61c1ac6be0a34c1714ae003f663cb2b8951810d661f", null ],
+      [ "NPC_JEDOGA_CONTROLLER", "d9/d42/a00575.html#a0a7022dbeba8e4c5922bca61c1ac6be0acf6f2f93580795c52ed4700df297d549", null ]
     ] ],
-    [ "COG_GameEvent", "d9/d42/a00575.html#a7f96446be0a530da18223bb22482eb13", [
-      [ "GAME_EVENT_CHILDREN_OF_GOLDSHIRE", "d9/d42/a00575.html#a7f96446be0a530da18223bb22482eb13ae98243feecf1c9640cede7b94f8681cb", null ]
+    [ "AhnkahetData", "d9/d42/a00575.html#aff905f3bb30004af8919ddfe3d29e8dd", [
+      [ "DATA_ELDER_NADOX", "d9/d42/a00575.html#aff905f3bb30004af8919ddfe3d29e8dda770adca9032e015945b302877eea180f", null ],
+      [ "DATA_PRINCE_TALDARAM", "d9/d42/a00575.html#aff905f3bb30004af8919ddfe3d29e8ddaaedbd25489af19057ce8227250867ce0", null ],
+      [ "DATA_JEDOGA_SHADOWSEEKER", "d9/d42/a00575.html#aff905f3bb30004af8919ddfe3d29e8dda5898d17f647609f063f3a809dc2fec66", null ],
+      [ "DATA_HERALD_VOLAZJ", "d9/d42/a00575.html#aff905f3bb30004af8919ddfe3d29e8dda30b8528fb302a8f32b4db9e72b4889e5", null ],
+      [ "DATA_AMANITAR", "d9/d42/a00575.html#aff905f3bb30004af8919ddfe3d29e8dda7146f172ca0fe8e80c667a510874a94f", null ],
+      [ "DATA_PRINCE_TALDARAM_PLATFORM", "d9/d42/a00575.html#aff905f3bb30004af8919ddfe3d29e8dda75ab4b9865126fdcf77107ef317fe7cc", null ]
     ] ],
-    [ "COG_Paths", "d9/d42/a00575.html#a2be3c31abb125ee2f4e5db0dffba1303", [
-      [ "STORMWIND_PATH", "d9/d42/a00575.html#a2be3c31abb125ee2f4e5db0dffba1303ad1a5074e62ba573b4ca7b603db8af713", null ],
-      [ "GOLDSHIRE_PATH", "d9/d42/a00575.html#a2be3c31abb125ee2f4e5db0dffba1303ae667c0211d3eff5f76656bf6d0008172", null ],
-      [ "WOODS_PATH", "d9/d42/a00575.html#a2be3c31abb125ee2f4e5db0dffba1303a3b6098ca7c08a02325e87d2e2d51e097", null ],
-      [ "HOUSE_PATH", "d9/d42/a00575.html#a2be3c31abb125ee2f4e5db0dffba1303a613998450aaf10ae6d9eb7b70fe9b773", null ],
-      [ "LISA_PATH", "d9/d42/a00575.html#a2be3c31abb125ee2f4e5db0dffba1303a2dc260175ba90e722d9fd3a5ec22d80c", null ]
+    [ "AhnkahetObjects", "d9/d42/a00575.html#a497b1d427e80ac610cd1cc5e3bc2a02f", [
+      [ "GO_TELDARAM_DOOR", "d9/d42/a00575.html#a497b1d427e80ac610cd1cc5e3bc2a02fa597526245130273d3e77a1e411a81811", null ],
+      [ "GO_TELDARAM_SPHERE1", "d9/d42/a00575.html#a497b1d427e80ac610cd1cc5e3bc2a02fa4586ff1377f4e4c184e57a56e7f962ed", null ],
+      [ "GO_TELDARAM_SPHERE2", "d9/d42/a00575.html#a497b1d427e80ac610cd1cc5e3bc2a02fa637eb0aff225b388e0c611a9cbccd03e", null ],
+      [ "GO_TELDARAM_PLATFORM", "d9/d42/a00575.html#a497b1d427e80ac610cd1cc5e3bc2a02fa9ae027e64960ba5d20a93c5123469e74", null ]
     ] ],
-    [ "COG_Sounds", "d9/d42/a00575.html#a41b64d07acba30bca6797dd30accb701", [
-      [ "BANSHEE_DEATH", "d9/d42/a00575.html#a41b64d07acba30bca6797dd30accb701a778d73a82a4986348c2f576778911c1d", null ],
-      [ "BANSHEEPREAGGRO", "d9/d42/a00575.html#a41b64d07acba30bca6797dd30accb701a9194ea7479faaf1cd6e95b3d3ef5133e", null ],
-      [ "CTHUN_YOU_WILL_DIE", "d9/d42/a00575.html#a41b64d07acba30bca6797dd30accb701a82970f5a7615c954b42ee1a4fc6e175c", null ],
-      [ "CTHUN_DEATH_IS_CLOSE", "d9/d42/a00575.html#a41b64d07acba30bca6797dd30accb701a6597c2048b383d43a5ff472d715fdc05", null ],
-      [ "HUMAN_FEMALE_EMOTE_CRY", "d9/d42/a00575.html#a41b64d07acba30bca6797dd30accb701a154e3f7a96cd9c9d13a04b5fc36ec18a", null ],
-      [ "GHOSTDEATH", "d9/d42/a00575.html#a41b64d07acba30bca6797dd30accb701a5ad070314ff7ce37671151ab6fd1df05", null ]
+    [ "AhnKahetPersistentData", "d9/d42/a00575.html#acc056f2f7be3fe09395716ca57e7c7f3", [
+      [ "DATA_TELDRAM_SPHERE1", "d9/d42/a00575.html#acc056f2f7be3fe09395716ca57e7c7f3a748636fe536f29e09b02edcebc095d56", null ],
+      [ "DATA_TELDRAM_SPHERE2", "d9/d42/a00575.html#acc056f2f7be3fe09395716ca57e7c7f3aa71df9961714e4f37168c84236d3ca51", null ],
+      [ "MAX_PERSISTENT_DATA", "d9/d42/a00575.html#acc056f2f7be3fe09395716ca57e7c7f3ade8daf2d97d89b7bc637c9b5550e0449", null ]
     ] ],
-    [ "EastvalePeasent", "d9/d42/a00575.html#a7e632be8f8b8da84644527621a3c2769", [
-      [ "EVENT_MOVETORAELEN", "d9/d42/a00575.html#a7e632be8f8b8da84644527621a3c2769a7060cdf87e903e239424f6de8b3c4e01", null ],
-      [ "EVENT_TALKTORAELEN1", "d9/d42/a00575.html#a7e632be8f8b8da84644527621a3c2769ab389694ba3f2e68242451516333631e6", null ],
-      [ "EVENT_TALKTORAELEN2", "d9/d42/a00575.html#a7e632be8f8b8da84644527621a3c2769aa71bff713cc0f565434450c758f74f49", null ],
-      [ "EVENT_RAELENTALK", "d9/d42/a00575.html#a7e632be8f8b8da84644527621a3c2769a07d0b4a5d57b000f4aa7ac0f641432e0", null ],
-      [ "EVENT_TALKTORAELEN3", "d9/d42/a00575.html#a7e632be8f8b8da84644527621a3c2769a3f3781fe8cd1b69d99d36799fe7bc343", null ],
-      [ "EVENT_TALKTORAELEN4", "d9/d42/a00575.html#a7e632be8f8b8da84644527621a3c2769aa2b4baec842eb98eed0d720a2d1e292f", null ],
-      [ "EVENT_PATHBACK", "d9/d42/a00575.html#a7e632be8f8b8da84644527621a3c2769a2749a3e614e97936834faf0763d89f85", null ],
-      [ "NPC_SUPERVISOR_RAELEN", "d9/d42/a00575.html#a7e632be8f8b8da84644527621a3c2769a55dd8d60432601f01a996db6af736667", null ],
-      [ "PATH_PEASENT_0", "d9/d42/a00575.html#a7e632be8f8b8da84644527621a3c2769ac3af8fa1b480f8ffa2f3ce8f07015d90", null ],
-      [ "PATH_PEASENT_1", "d9/d42/a00575.html#a7e632be8f8b8da84644527621a3c2769a90bfaadda89dbdfe74e830dba63392b6", null ],
-      [ "PATH_PEASENT_2", "d9/d42/a00575.html#a7e632be8f8b8da84644527621a3c2769a691ee393540918dfc1b592fab31778d7", null ],
-      [ "PATH_PEASENT_3", "d9/d42/a00575.html#a7e632be8f8b8da84644527621a3c2769a94a20bb05ec932c0c58387e63ee95c7d", null ],
-      [ "PATH_PEASENT_4", "d9/d42/a00575.html#a7e632be8f8b8da84644527621a3c2769aa40d5d29c4805d92281561d5491f42e0", null ],
-      [ "SAY_RAELEN", "d9/d42/a00575.html#a7e632be8f8b8da84644527621a3c2769ae2a00c9eac8422904f7f4e82661114fc", null ],
-      [ "SOUND_PEASENT_GREETING_1", "d9/d42/a00575.html#a7e632be8f8b8da84644527621a3c2769a76573a8111b11c8e5d82081211d778d2", null ],
-      [ "SOUND_PEASENT_GREETING_2", "d9/d42/a00575.html#a7e632be8f8b8da84644527621a3c2769a78f08b9a1fa0e5891df9dedd3030107d", null ],
-      [ "SOUND_PEASENT_GREETING_3", "d9/d42/a00575.html#a7e632be8f8b8da84644527621a3c2769ace4122d507bca6f6d027e9e5d8273942", null ],
-      [ "SOUND_PEASENT_LEAVING_1", "d9/d42/a00575.html#a7e632be8f8b8da84644527621a3c2769a6b7ddbed101521381be4ee097e03eadf", null ],
-      [ "SOUND_PEASENT_LEAVING_2", "d9/d42/a00575.html#a7e632be8f8b8da84644527621a3c2769a94849b28c308e34fe7c2f3cdd3b569e1", null ],
-      [ "SOUND_PEASENT_LEAVING_3", "d9/d42/a00575.html#a7e632be8f8b8da84644527621a3c2769a11f78805bf631264c76272506c189f65", null ],
-      [ "SOUND_PEASENT_LEAVING_4", "d9/d42/a00575.html#a7e632be8f8b8da84644527621a3c2769a0537de2a4772069d0cc2f66767b7d404", null ],
-      [ "SOUND_PEASENT_LEAVING_5", "d9/d42/a00575.html#a7e632be8f8b8da84644527621a3c2769a4631839cb0120966d74bb95fce52c358", null ],
-      [ "SPELL_TRANSFORM_PEASENT_WITH_WOOD", "d9/d42/a00575.html#a7e632be8f8b8da84644527621a3c2769a716c6a90c42b3ee3811ac25a342faa56", null ]
+    [ "AhnkahetSpells", "d9/d42/a00575.html#a04c8c0beb3d5fd05b695be78e77cfe8d", [
+      [ "SPELL_SHADOW_SICKLE", "d9/d42/a00575.html#a04c8c0beb3d5fd05b695be78e77cfe8dacf16c95dd7397632ddf94f2d9f3c3c39", null ]
     ] ],
-    [ "SupervisorRaelen", "d9/d42/a00575.html#a3bd40a8e75f5b073b6027152c2acd047", [
-      [ "EVENT_FIND_PEASENTS", "d9/d42/a00575.html#a3bd40a8e75f5b073b6027152c2acd047a05dcad03ab565112d34579d0ef216f19", null ],
-      [ "EVENT_NEXT_PEASENT", "d9/d42/a00575.html#a3bd40a8e75f5b073b6027152c2acd047a1a939768178f2c95f03e6c1490c9e2c0", null ],
-      [ "NPC_EASTVALE_PEASENT", "d9/d42/a00575.html#a3bd40a8e75f5b073b6027152c2acd047ab484ca934ce49cee056ba54c53003ddd", null ]
+    [ "AhnKahetTexts", "d9/d42/a00575.html#ad2ad73bb93c442e3d70b9efad1b6c305", [
+      [ "SAY_SPHERE_ACTIVATED", "d9/d42/a00575.html#ad2ad73bb93c442e3d70b9efad1b6c305aea5e4c72402492816a8bafad5323cff8", null ]
     ] ],
-    [ "AddSC_elwynn_forest", "d9/d42/a00575.html#aef9caff22cc5e92156da2c393ecfb531", null ]
+    [ "GetAhnKahetAI", "d9/d42/a00575.html#a7d67882176cbe7ff747f0bb785985b00", null ],
+    [ "MAX_ENCOUNTER", "d9/d42/a00575.html#a42b654ad1177faa1b68541d8c6ca1fae", null ]
 ];

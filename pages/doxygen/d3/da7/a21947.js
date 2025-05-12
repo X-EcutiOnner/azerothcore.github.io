@@ -1,6 +1,5 @@
 var a21947 =
 [
-    [ "npc_attracted_reef_bullAI", "db/da5/a21951.html", "db/da5/a21951" ],
-    [ "npc_attracted_reef_bull", "d3/da7/a21947.html#acd0ade9e7ce5492c11be0b3f2696418e", null ],
-    [ "GetAI", "d3/da7/a21947.html#af705e2768cd41c955af7f944c670ac85", null ]
+    [ "npc_black_knight_graveyardAI", "d3/da7/a21947.html#a908ccf6763240ba0c0ebdf2dec6e1b36", null ],
+    [ "MoveInLineOfSight", "d3/da7/a21947.html#aa5c80b5759656e3865d6721161f9f005", null ]
 ];

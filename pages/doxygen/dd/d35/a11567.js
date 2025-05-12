@@ -1,11 +1,13 @@
 var a11567 =
 [
-    [ "boss_draganthaurissanAI", "dd/d35/a11567.html#a2ecd55ed9e7e48829cb85862e965b7d8", null ],
-    [ "JustDied", "dd/d35/a11567.html#a7a7d4737c4825cfabc1012f9cce0e38a", null ],
-    [ "JustEngagedWith", "dd/d35/a11567.html#a00604bed2c13a7b470d950059122f018", null ],
-    [ "KilledUnit", "dd/d35/a11567.html#acec58686917d6e5aff9a51a96b023174", null ],
-    [ "SetData", "dd/d35/a11567.html#aaa43aa340f946f3b8361f2bb7b29ef40", null ],
-    [ "UpdateAI", "dd/d35/a11567.html#a04eaea53b78d490373f9bb911cc92596", null ],
-    [ "hasYelled", "dd/d35/a11567.html#aef5ede4f444e85fafd30faab6043672b", null ],
-    [ "SenatorYells", "dd/d35/a11567.html#ab4b27bf33b58b44ac604ca6bf6b5e424", null ]
+    [ "cheat_commandscript", "dd/d35/a11567.html#a7449cfba3578956a09b67e569e7e6083", null ],
+    [ "GetCommands", "dd/d35/a11567.html#a7cc6ca0c216a4ff497b60dc7622623fd", null ],
+    [ "HandleCasttimeCheatCommand", "dd/d35/a11567.html#a119ad06c5b8be235853bb13c7cff724b", null ],
+    [ "HandleCheatStatusCommand", "dd/d35/a11567.html#acdf487c7a96d1757d3254e3f17e728cb", null ],
+    [ "HandleCoolDownCheatCommand", "dd/d35/a11567.html#ab31a1cfe2567b0f597c689f44ab9fd6d", null ],
+    [ "HandleExploreCheatCommand", "dd/d35/a11567.html#a25ea712f2fb249e49f5f0b8244f743c5", null ],
+    [ "HandleGodModeCheatCommand", "dd/d35/a11567.html#ac398dbacf025830dc871bc77938d47d6", null ],
+    [ "HandlePowerCheatCommand", "dd/d35/a11567.html#ae406c5d444b10ba65b79f8ff9d949c24", null ],
+    [ "HandleTaxiCheatCommand", "dd/d35/a11567.html#ab9bd840c9622d173e710058eeb763388", null ],
+    [ "HandleWaterWalkCheatCommand", "dd/d35/a11567.html#a9162d89c049f14f29bc5ba257964df34", null ]
 ];

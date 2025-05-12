@@ -1,18 +1,12 @@
 var a14699 =
 [
-    [ "instance_dire_maul_InstanceMapScript", "d5/d78/a14699.html#aacdc6a4029fceddfa56155b296012aa3", null ],
-    [ "GetData", "d5/d78/a14699.html#ad3eaa065114b6a0d2a38844df9289dc7", null ],
-    [ "Initialize", "d5/d78/a14699.html#a5b0977c0b20d6302ce6c5f8a14e78e90", null ],
-    [ "OnCreatureCreate", "d5/d78/a14699.html#aa903356acce9401a139e30fb6839f4df", null ],
-    [ "OnGameObjectCreate", "d5/d78/a14699.html#aad49d9f3f3c974e5c2f3a42b22759b9a", null ],
-    [ "ReadSaveDataMore", "d5/d78/a14699.html#ae8c49e7531b89074cc07ac0555650f05", null ],
-    [ "SetData", "d5/d78/a14699.html#a93e7b63eae8d1e21b7e5c57fa370e801", null ],
-    [ "WriteSaveDataMore", "d5/d78/a14699.html#ad6f52ef932cc09e377325e83482a3b5c", null ],
-    [ "_eastWingProgress", "d5/d78/a14699.html#a7f9d7f14c3223fa7bf7b7999d1f41105", null ],
-    [ "_immoltharGUID", "d5/d78/a14699.html#a4b63e6062765fc1df53c6a95b366e9f1", null ],
-    [ "_northWingBosses", "d5/d78/a14699.html#ab7130c806073258f4efae9e9177587be", null ],
-    [ "_northWingProgress", "d5/d78/a14699.html#a55e78ac91cf6073192594758e447cb19", null ],
-    [ "_pylonsState", "d5/d78/a14699.html#a5a16e7c47b42d1f8da9dde7b14f5c513", null ],
-    [ "_westWingProgress", "d5/d78/a14699.html#ab4d27deece6b8274300904571fb62e90", null ],
-    [ "HighborneSummoners", "d5/d78/a14699.html#af0e2c615ca136f4fffd1ed41e471f492", null ]
+    [ "boss_lieutenant_drake", "d5/d78/a14699.html#a67e00ef68d5b07023cc9dc7bd6a2289b", null ],
+    [ "InitializeAI", "d5/d78/a14699.html#a2b3eb857c0711b89b6e7a6f3f5f05441", null ],
+    [ "JustDied", "d5/d78/a14699.html#aca7654e30aac96fa509f99f3447121ec", null ],
+    [ "JustEngagedWith", "d5/d78/a14699.html#ae31ac13106d09b8b447aa8fd9d864e41", null ],
+    [ "KilledUnit", "d5/d78/a14699.html#a833c889c28ea35a6198fe753b604a8ed", null ],
+    [ "MovementInform", "d5/d78/a14699.html#aec6e332bc5739552cbbec27569c55759", null ],
+    [ "UpdateAI", "d5/d78/a14699.html#ad898722dfe01c2e4f814fc5af9f057b8", null ],
+    [ "pathId", "d5/d78/a14699.html#ac63f9c885296a797799c0cd83b0ade64", null ],
+    [ "runSecondPath", "d5/d78/a14699.html#a3ea53e2048224ac3bbc4dceda316d7c4", null ]
 ];

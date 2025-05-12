@@ -1,7 +1,7 @@
 var a25227 =
 [
-    [ "HandleDamage", "d9/d5c/a25227.html#a9c9bbe49388cf5d04650572fdf789e5e", null ],
-    [ "PrepareSpellScript", "d9/d5c/a25227.html#ac89a628f1aba54aa2ade876a4f7911b8", null ],
-    [ "Register", "d9/d5c/a25227.html#a627bffccdd78c00f0f5a4241f36aeec8", null ],
-    [ "Validate", "d9/d5c/a25227.html#aed63b40f8e2cc6fd32dd536a2d56c7c3", null ]
+    [ "HandleScript", "d9/d5c/a25227.html#a12f4c4a85f19ceb55d274428cf2b25a4", null ],
+    [ "PrepareSpellScript", "d9/d5c/a25227.html#acf1173670c35c84ae7aba29be00d31cf", null ],
+    [ "Register", "d9/d5c/a25227.html#a5a2c59463a0546b6f5cd375b3671b86b", null ],
+    [ "Validate", "d9/d5c/a25227.html#a437a018fd6917bee51bdbba7cf29e53d", null ]
 ];

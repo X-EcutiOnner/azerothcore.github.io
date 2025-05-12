@@ -1,6 +1,4 @@
 var a03461 =
 [
-    [ "fireworkShowExodar", "db/d1b/a03461.html#a62ccee24b6a90b61a19256b66e97c1dd", null ],
-    [ "fireworkShowGameobjectExodar", "db/d1b/a03461.html#a5b7a7ca2308d23103ee3d053d6301e5c", null ],
-    [ "fireworkShowScheduleExodar", "db/d1b/a03461.html#a44290c427b72dfa245ba73b6fa1ea317", null ]
+    [ "AllGameObjectScript", "d0/deb/a10183.html", "d0/deb/a10183" ]
 ];

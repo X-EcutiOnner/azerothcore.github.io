@@ -1,6 +1,6 @@
 var a21975 =
 [
-    [ "npc_plaguehound_trackerAI", "db/d98/a21975.html#a7530f500b42ad9bb38593193d3113da8", null ],
-    [ "Reset", "db/d98/a21975.html#a05c351ab3aca0cd18209405075bb0f47", null ],
-    [ "WaypointReached", "db/d98/a21975.html#a67c345f49572cde76d9109a1baff6788", null ]
+    [ "npc_boneguard_footmanAI", "df/d79/a21979.html", "df/d79/a21979" ],
+    [ "npc_boneguard_footman", "db/d98/a21975.html#aba17f89b9546deff5401ad33224b2b3e", null ],
+    [ "GetAI", "db/d98/a21975.html#ab0b28f61e26f701db17a0d19bbde4492", null ]
 ];

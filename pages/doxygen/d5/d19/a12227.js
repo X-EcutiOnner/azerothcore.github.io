@@ -1,8 +1,9 @@
 var a12227 =
 [
-    [ "npc_kernobeeAI", "d5/d19/a12227.html#a9dfc478b7da1bf33463e3653aea3c4da", null ],
-    [ "SetGUID", "d5/d19/a12227.html#a34999b470697ba0a27701facd63625f8", null ],
-    [ "UpdateAI", "d5/d19/a12227.html#ae99836a836234ad441d6ac97c60d7fc6", null ],
-    [ "checkTimer", "d5/d19/a12227.html#ae4731b5dd7b92d6989b0960d88e1dc35", null ],
-    [ "playerGUID", "d5/d19/a12227.html#aca1009b03ee24200f5dbad788ec5c5c8", null ]
+    [ "npc_drakonid_spawner", "d5/d19/a12227.html#a2b657e800dc5cc30c618391413ded116", null ],
+    [ "DoAction", "d5/d19/a12227.html#ab013cff0430c09fe1045fdc735e45182", null ],
+    [ "IsSummonedBy", "d5/d19/a12227.html#a6a2170e0f20736d69006ce6d6c769476", null ],
+    [ "SummonedCreatureDies", "d5/d19/a12227.html#a57dd1fc80cfa43f6afae58e797b4091f", null ],
+    [ "UpdateAI", "d5/d19/a12227.html#a60e79dd8f56e87a2de4a203a63c6f9e3", null ],
+    [ "_owner", "d5/d19/a12227.html#a6e0f0d2f6c265f9e5206f441dead8b2f", null ]
 ];

@@ -1,6 +1,7 @@
 var a18647 =
 [
-    [ "npc_icc_skybreaker_vicarAI", "d3/d00/a18651.html", "d3/d00/a18651" ],
-    [ "npc_icc_skybreaker_vicar", "d5/d7f/a18647.html#a40451cc6fba0cae59e47fa38e4fb79d3", null ],
-    [ "GetAI", "d5/d7f/a18647.html#a6884bb7e54b78abee0cc995c4fbb501d", null ]
+    [ "OnRemove", "d5/d7f/a18647.html#ac71e6f5a9e3a7c96b4e4bd1a296d0d8d", null ],
+    [ "PrepareAuraScript", "d5/d7f/a18647.html#acf654e563f47df9ad033d7080f47662b", null ],
+    [ "Register", "d5/d7f/a18647.html#aad4497ba7cad48b9547e8696714d8c23", null ],
+    [ "Validate", "d5/d7f/a18647.html#ae5e187cb481849343e777b0bf0ffdf24", null ]
 ];

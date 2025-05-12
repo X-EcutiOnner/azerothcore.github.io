@@ -1,6 +1,8 @@
 var a11991 =
 [
-    [ "boss_vaelAI", "dd/d78/a11995.html", "dd/d78/a11995" ],
-    [ "boss_vaelastrasz", "d7/d9d/a11991.html#a0b51f3b50cde4907bd9064e8bf51c005", null ],
-    [ "GetAI", "d7/d9d/a11991.html#a42dde198f5fc0ab2e7ca28ac32c42b7e", null ]
+    [ "boss_highlordomokkAI", "d7/d9d/a11991.html#ae6906b2f86eb2d8efe51de92376be0da", null ],
+    [ "JustDied", "d7/d9d/a11991.html#ac7e125b4350880d3d195b915c8be9de0", null ],
+    [ "JustEngagedWith", "d7/d9d/a11991.html#a072dc582f931deb7d1e0db9ad535f146", null ],
+    [ "Reset", "d7/d9d/a11991.html#a627390013798de7a53a95817624417e3", null ],
+    [ "UpdateAI", "d7/d9d/a11991.html#a38e6008d616131d2876ae5a085a083ff", null ]
 ];

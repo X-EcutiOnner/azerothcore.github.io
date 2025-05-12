@@ -1,10 +1,11 @@
 var a16183 =
 [
-    [ "npc_nerubian_burrowerAI", "d3/dad/a16183.html#a7673709e7b16a6573d9c7392ba556313", null ],
-    [ "CanAIAttack", "d3/dad/a16183.html#a82e4a5ca23ae2a94212b214aad1c69df", null ],
-    [ "JustDied", "d3/dad/a16183.html#ab5182ad65187c472b306e2177530d7b6", null ],
-    [ "Reset", "d3/dad/a16183.html#a4491965d9c08ed1d888cad6f7b06352d", null ],
-    [ "SpellHitTarget", "d3/dad/a16183.html#a64fa2c8276f7418542190e833dd72c51", null ],
-    [ "UpdateAI", "d3/dad/a16183.html#abd2c7333625ded502a00848b09ee9a40", null ],
-    [ "events", "d3/dad/a16183.html#ab45e8c6dd9ea3552fed4b926136f80e6", null ]
+    [ "npc_black_knight_ghoulAI", "d3/dad/a16183.html#a6e108052a7f9911dcd1b0ed13b2b8a0f", null ],
+    [ "JustEngagedWith", "d3/dad/a16183.html#a8353dea0de91017223c7624a5a96ebec", null ],
+    [ "Reset", "d3/dad/a16183.html#a8a33efa0719063a9565bc07143f8ad83", null ],
+    [ "SpellHit", "d3/dad/a16183.html#aa1b1fbb1a4633831774c7a7dd5cbb546", null ],
+    [ "SpellHitTarget", "d3/dad/a16183.html#a5f106a3b0edf353769db9021b9ca770d", null ],
+    [ "UpdateAI", "d3/dad/a16183.html#a6ccdb6a59b93999c01d434bcda593f25", null ],
+    [ "events", "d3/dad/a16183.html#acb56826a164e4d7da0a2f04c1efaf72b", null ],
+    [ "pInstance", "d3/dad/a16183.html#a35b8375f1b3407f5cee653ee118e0697", null ]
 ];

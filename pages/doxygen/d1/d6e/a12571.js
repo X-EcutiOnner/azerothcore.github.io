@@ -1,6 +1,6 @@
 var a12571 =
 [
-    [ "npc_scarlet_cannonAI", "da/d90/a12575.html", "da/d90/a12575" ],
-    [ "npc_scarlet_cannon", "d1/d6e/a12571.html#a10bb35cbbdae3508a2300ba3dacc1ea3", null ],
-    [ "GetAI", "d1/d6e/a12571.html#ae2b74a4dab4b34f026fd17d5ed381c99", null ]
+    [ "HandleApply", "d1/d6e/a12571.html#ac9f6f1927c9f66682892c32d4a431cc4", null ],
+    [ "PrepareAuraScript", "d1/d6e/a12571.html#ae908ad87781553cc3bed05ea510a4447", null ],
+    [ "Register", "d1/d6e/a12571.html#a391dff720ed9d2d48aa69e48e69ba8df", null ]
 ];

@@ -1,5 +1,5 @@
 var a10455 =
 [
-    [ "LFGLeave", "da/d0f/a10455.html#aba31f53e0e13c13fd96f1b6ea1d42310", null ],
-    [ "Read", "da/d0f/a10455.html#abae9c55efce73edf5edf1940cb8b61eb", null ]
+    [ "LogoutComplete", "da/d0f/a10455.html#a94f3ea0cd30d1eb44733c1c5aef05ec7", null ],
+    [ "Write", "da/d0f/a10455.html#a0d958bc07b674ed3339833351fec7d3a", null ]
 ];

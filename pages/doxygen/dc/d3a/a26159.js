@@ -1,6 +1,6 @@
 var a26159 =
 [
-    [ "CheckCast", "dc/d3a/a26159.html#ada9b1c9e159956cb2a79610dbdb3eaf9", null ],
-    [ "PrepareSpellScript", "dc/d3a/a26159.html#aa9cc041f2e0dae1eb322713d4f140ce8", null ],
-    [ "Register", "dc/d3a/a26159.html#a5f0b69ffebb256d5ee2c0f9d4615c4e6", null ]
+    [ "HandleDamage", "dc/d3a/a26159.html#ae34b85a4830066e21069e5ab8373e5c4", null ],
+    [ "PrepareSpellScript", "dc/d3a/a26159.html#a86fd53d1f9a2ecf22c4969e2f8506acf", null ],
+    [ "Register", "dc/d3a/a26159.html#a1a679fb0be26228f5fcdb45da2b994ff", null ]
 ];

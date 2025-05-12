@@ -1,5 +1,9 @@
 var a12987 =
 [
-    [ "AreaTrigger_at_sunwell_eredar_twins", "dc/d3c/a12987.html#a6cfb22079d94f8e83c76514fa73368b0", null ],
-    [ "OnTrigger", "dc/d3c/a12987.html#af8e25da855daca5ac3114523e9af07fd", null ]
+    [ "npc_risen_guardianAI", "dc/d3c/a12987.html#a50eb3de52205fc1bbc6936f0708c68a6", null ],
+    [ "IsSummonedBy", "dc/d3c/a12987.html#ad9f45b9007c1ff74d0f725fbf7f00abe", null ],
+    [ "KilledUnit", "dc/d3c/a12987.html#abc7afaa685a436b34ff76edcc6c25e54", null ],
+    [ "Gandling", "dc/d3c/a12987.html#a93013b905260aa51341b22d1627cc986", null ],
+    [ "instance", "dc/d3c/a12987.html#a96f1835989f646c708b8ef0cc9999e63", null ],
+    [ "room", "dc/d3c/a12987.html#a5862a184b6daa92da133cc6c360a993d", null ]
 ];

@@ -1,6 +1,9 @@
 var a24571 =
 [
-    [ "RaiseDeadCheck", "df/dd1/a24571.html#abc6439e5b457f2f6e832f504167a392d", null ],
-    [ "operator()", "df/dd1/a24571.html#a9647e6afd21e7397f05349e66bea4326", null ],
-    [ "_caster", "df/dd1/a24571.html#a7b1647934c5e64de65d38b9fba2d343a", null ]
+    [ "Absorb", "df/dd1/a24571.html#ae5101c9adc7b9d09daf9c78d5e6d9d14", null ],
+    [ "CalculateAmount", "df/dd1/a24571.html#a0e88abc0dfc1f0aa5c52f3602f99d45a", null ],
+    [ "Load", "df/dd1/a24571.html#ab7eae0747736dea5633ef51eb0945fae", null ],
+    [ "PrepareAuraScript", "df/dd1/a24571.html#a760b72149ee11ad88e290c9537b3094b", null ],
+    [ "Register", "df/dd1/a24571.html#a0d25efee128ee95f9ad268b53358f376", null ],
+    [ "absorbPct", "df/dd1/a24571.html#a31091ef6a0d39e1d498420a85f6c84fa", null ]
 ];

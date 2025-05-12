@@ -1,10 +1,6 @@
 var a09807 =
 [
-    [ "WaypointMgr", "d4/dc7/a09807.html#a2f038884959f10348bd5b7af3abee7db", null ],
-    [ "~WaypointMgr", "d4/dc7/a09807.html#a7b0fed55791df7ab040a46984700d18e", null ],
-    [ "GetPath", "d4/dc7/a09807.html#a8492dcbb35f4bdb563f861c521eb5317", null ],
-    [ "instance", "d4/dc7/a09807.html#aacd2ed943503288057b3fb9a935a56e9", null ],
-    [ "Load", "d4/dc7/a09807.html#a69ae451ce07f2e68be81b1a86649115d", null ],
-    [ "ReloadPath", "d4/dc7/a09807.html#ac1364780d1ab0c91ca95d366419ca3df", null ],
-    [ "_waypointStore", "d4/dc7/a09807.html#af70ce7663d7f132339ea8d163311c248", null ]
+    [ "UpdateRequest", "d4/dc7/a09807.html#a23b3dbcff54691b2710109a822a486a0", null ],
+    [ "~UpdateRequest", "d4/dc7/a09807.html#a240bdc56685c270c597588231c3bf8f8", null ],
+    [ "call", "d4/dc7/a09807.html#a8221fa415f828a4866f85f3983f7dab9", null ]
 ];

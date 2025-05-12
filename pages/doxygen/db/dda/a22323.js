@@ -1,8 +1,5 @@
 var a22323 =
 [
-    [ "go_wg_vehicle_teleporterAI", "db/dda/a22323.html#af84e73765b1a4d810b41613824999186", null ],
-    [ "IsFriendly", "db/dda/a22323.html#adca817c8919958db888d5e9c759ad545", null ],
-    [ "IsValidVehicle", "db/dda/a22323.html#a3f790a651d5f0c67c5d528828a6bb398", null ],
-    [ "UpdateAI", "db/dda/a22323.html#a8d8197cbfa6ab36d269f18020acbc565", null ],
-    [ "_checkTimer", "db/dda/a22323.html#a9cbb42b4f29f94e41e80caccd87d95f4", null ]
+    [ "achievement_wg_within_our_grasp", "db/dda/a22323.html#a9edbd15bc6989c6948e21391a683d22d", null ],
+    [ "OnCheck", "db/dda/a22323.html#a10b659c4b52322536333e3d191796c27", null ]
 ];

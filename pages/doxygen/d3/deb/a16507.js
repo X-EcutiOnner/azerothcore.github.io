@@ -1,6 +1,6 @@
 var a16507 =
 [
-    [ "npc_announcer_toc10", "d3/deb/a16507.html#ae495b19328c6a743dfd8f1cbf37a0bd6", null ],
-    [ "OnGossipHello", "d3/deb/a16507.html#afcc5262e7c49b7456af146de14805a06", null ],
-    [ "OnGossipSelect", "d3/deb/a16507.html#a9a2bf1d3a215332744ca473041cc0520", null ]
+    [ "boss_fjolaAI", "d7/dc6/a16511.html", "d7/dc6/a16511" ],
+    [ "boss_fjola", "d3/deb/a16507.html#a44baccf91ab8c8bc5d5a9d0aa8ef943f", null ],
+    [ "GetAI", "d3/deb/a16507.html#a96d9ea0716199758b60ad933ade28de4", null ]
 ];

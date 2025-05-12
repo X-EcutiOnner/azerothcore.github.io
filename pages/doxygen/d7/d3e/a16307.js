@@ -1,7 +1,7 @@
 var a16307 =
 [
-    [ "npc_toc_dkAI", "d7/d3e/a16307.html#aa01bf528b10ed7bbdfe9b03694e51845", null ],
-    [ "myCanCast", "d7/d3e/a16307.html#a54dee5d9b0f17bad21e8c1e275f0b222", null ],
-    [ "UpdateAI", "d7/d3e/a16307.html#ab4f4b11e2b250fb24de6c069c5e38208", null ],
-    [ "events", "d7/d3e/a16307.html#a293d5fca2940432c4eea57c5de5a1fdc", null ]
+    [ "npc_toc_paladinAI", "d7/d3e/a16307.html#a025d39c04e864ebd77f4f930ec20b1e5", null ],
+    [ "myCanCast", "d7/d3e/a16307.html#a06130e6e440d0b25d8b5566de6190cbc", null ],
+    [ "UpdateAI", "d7/d3e/a16307.html#a32943f1c3ffd0239c85ac1b81786f049", null ],
+    [ "events", "d7/d3e/a16307.html#ae47a32bbb05cf2f634ae18bc672ec004", null ]
 ];

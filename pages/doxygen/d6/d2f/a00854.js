@@ -1,20 +1,24 @@
 var a00854 =
 [
-    [ "npc_professor_phizzlethorpe", "d7/dc9/a13412.html", "d7/dc9/a13412" ],
-    [ "npc_professor_phizzlethorpe::npc_professor_phizzlethorpeAI", "dc/df1/a13416.html", "dc/df1/a13416" ],
-    [ "ProfessorPhizzlethorpe", "d6/d2f/a00854.html#a2fbc348d7cc479e3131e261e4a86f0a1", [
-      [ "SAY_PROGRESS_1", "d6/d2f/a00854.html#a2fbc348d7cc479e3131e261e4a86f0a1ac7ef023ed2cd6e71dcfa4b57f34ffb21", null ],
-      [ "SAY_PROGRESS_2", "d6/d2f/a00854.html#a2fbc348d7cc479e3131e261e4a86f0a1a967473f354dae95832b5e82733f4cced", null ],
-      [ "SAY_PROGRESS_3", "d6/d2f/a00854.html#a2fbc348d7cc479e3131e261e4a86f0a1a25cbd1006b2e610756fbd3227fb87dcc", null ],
-      [ "EMOTE_PROGRESS_4", "d6/d2f/a00854.html#a2fbc348d7cc479e3131e261e4a86f0a1a35c4fc6952e57458ffc3e74698dd2769", null ],
-      [ "SAY_AGGRO", "d6/d2f/a00854.html#a2fbc348d7cc479e3131e261e4a86f0a1a47c752fff069f3e55065795eef2a9bfe", null ],
-      [ "SAY_PROGRESS_5", "d6/d2f/a00854.html#a2fbc348d7cc479e3131e261e4a86f0a1aeee7fea4c8b3b6d3b0732bcde69433f3", null ],
-      [ "SAY_PROGRESS_6", "d6/d2f/a00854.html#a2fbc348d7cc479e3131e261e4a86f0a1a36a5f74e6995b5cd9d8df351e57bfa84", null ],
-      [ "SAY_PROGRESS_7", "d6/d2f/a00854.html#a2fbc348d7cc479e3131e261e4a86f0a1a9e815bbd308d3234b2feecf6dcd4e4cd", null ],
-      [ "EMOTE_PROGRESS_8", "d6/d2f/a00854.html#a2fbc348d7cc479e3131e261e4a86f0a1a09177823914cf4cba524cd102c309c4e", null ],
-      [ "SAY_PROGRESS_9", "d6/d2f/a00854.html#a2fbc348d7cc479e3131e261e4a86f0a1a0d013e69b765c1cc9024427c5967dbdf", null ],
-      [ "QUEST_SUNKEN_TREASURE", "d6/d2f/a00854.html#a2fbc348d7cc479e3131e261e4a86f0a1a70619c446edf1e13b81824e234d2c7f3", null ],
-      [ "NPC_VENGEFUL_SURGE", "d6/d2f/a00854.html#a2fbc348d7cc479e3131e261e4a86f0a1aa30485aedeea21658a4aa93a8f361873", null ]
+    [ "npc_rizzle_sprysprocket", "dd/d79/a15195.html", "dd/d79/a15195" ],
+    [ "npc_rizzle_sprysprocket::npc_rizzle_sprysprocketAI", "db/dfa/a15199.html", "db/dfa/a15199" ],
+    [ "npc_depth_charge", "d1/dcd/a15203.html", "d1/dcd/a15203" ],
+    [ "npc_depth_charge::npc_depth_chargeAI", "dc/dfa/a15207.html", "dc/dfa/a15207" ],
+    [ "RizzleSprysprocketData", "d6/d2f/a00854.html#ad694d8f9c4171422b48a06322c8bf5a3", [
+      [ "QUEST_CHASING_THE_MOONSTONE", "d6/d2f/a00854.html#ad694d8f9c4171422b48a06322c8bf5a3a62167aa10a1e13501da60bbfd43df100", null ],
+      [ "NPC_DEPTH_CHARGE", "d6/d2f/a00854.html#ad694d8f9c4171422b48a06322c8bf5a3a6238920533d94ea0caa141d736f110ac", null ],
+      [ "SPELL_RIZZLE_BLACKJACK", "d6/d2f/a00854.html#ad694d8f9c4171422b48a06322c8bf5a3aa6c12ccbf9db4eb0ed767b4f07ddf62c", null ],
+      [ "SPELL_RIZZLE_ESCAPE", "d6/d2f/a00854.html#ad694d8f9c4171422b48a06322c8bf5a3a045675473e0b088d783fd577efa8ad75", null ],
+      [ "SPELL_RIZZLE_FROST_GRENADE", "d6/d2f/a00854.html#ad694d8f9c4171422b48a06322c8bf5a3a28994b7a8f42678d14a11b5a7078c0e1", null ],
+      [ "SPELL_DEPTH_CHARGE_TRAP", "d6/d2f/a00854.html#ad694d8f9c4171422b48a06322c8bf5a3a685ae5385fd93ebf978ae918d8e88afe", null ],
+      [ "SPELL_PERIODIC_DEPTH_CHARGE", "d6/d2f/a00854.html#ad694d8f9c4171422b48a06322c8bf5a3a46e20b8a4b722974fa1a48c334ad0965", null ],
+      [ "SPELL_GIVE_SOUTHFURY_MOONSTONE", "d6/d2f/a00854.html#ad694d8f9c4171422b48a06322c8bf5a3a008357389ef71129c47d0af4c103f168", null ],
+      [ "SAY_RIZZLE_START", "d6/d2f/a00854.html#ad694d8f9c4171422b48a06322c8bf5a3a4041141e3ffdb02858ab8e153b4bb80f", null ],
+      [ "SAY_RIZZLE_GRENADE", "d6/d2f/a00854.html#ad694d8f9c4171422b48a06322c8bf5a3a62818d492b5281057628356574ada201", null ],
+      [ "SAY_RIZZLE_FINAL", "d6/d2f/a00854.html#ad694d8f9c4171422b48a06322c8bf5a3a2171c54277d8aadbe7b633befacf4ab3", null ],
+      [ "MSG_ESCAPE_NOTICE", "d6/d2f/a00854.html#ad694d8f9c4171422b48a06322c8bf5a3ac276316b4b9c389e1701165b3a1491c7", null ],
+      [ "GOSSIP_GET_MOONSTONE", "d6/d2f/a00854.html#ad694d8f9c4171422b48a06322c8bf5a3a9ba89e15a5cf6168c5e38316ef46daa0", null ]
     ] ],
-    [ "AddSC_arathi_highlands", "d6/d2f/a00854.html#a1e4a782474f0928dbacdf32c0ba395fd", null ]
+    [ "AddSC_azshara", "d6/d2f/a00854.html#ad86bcd16e9f7f0d1b823153be725f9ce", null ],
+    [ "WPs", "d6/d2f/a00854.html#a6963f0357cacc0d2bcf7d514cad45e73", null ]
 ];

@@ -1,6 +1,6 @@
 var a21771 =
 [
-    [ "npc_q24545_wretched_ghoulAI", "dd/d08/a21775.html", "dd/d08/a21775" ],
-    [ "npc_q24545_wretched_ghoul", "d1/d79/a21771.html#a3842b5bd89c911d29d561307113fb032", null ],
-    [ "GetAI", "d1/d79/a21771.html#ada973de0ff7295f0441cbd6b6aaca9ac", null ]
+    [ "npc_commander_eligor_dawnbringerAI", "dd/d08/a21775.html", "dd/d08/a21775" ],
+    [ "npc_commander_eligor_dawnbringer", "d1/d79/a21771.html#a71d919af98464d6d63f948507f3ff08c", null ],
+    [ "GetAI", "d1/d79/a21771.html#a759b9b1aeb8cce983fe8b6d2f3d9c33d", null ]
 ];

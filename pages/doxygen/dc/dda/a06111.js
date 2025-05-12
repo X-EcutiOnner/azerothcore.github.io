@@ -1,17 +1,10 @@
 var a06111 =
 [
-    [ "WorldBossAI", "dc/dda/a06111.html#aad7ffc5fb8215f6bf36fe72aef40c9e1", null ],
-    [ "~WorldBossAI", "dc/dda/a06111.html#a2877e6056f3ff51c625d46d5b7d7d008", null ],
-    [ "_JustDied", "dc/dda/a06111.html#a72e92da9585e41f742ee0ff964340230", null ],
-    [ "_JustEngagedWith", "dc/dda/a06111.html#a451c933079bd3b887079b15b74c22b5e", null ],
-    [ "_Reset", "dc/dda/a06111.html#ac11f7b51038891d8e10427ca10aa516c", null ],
-    [ "ExecuteEvent", "dc/dda/a06111.html#a477e7bc0bcf1ba99d64cffddbfa0c6d2", null ],
-    [ "JustDied", "dc/dda/a06111.html#a012c70e390c46b8f326b91014091b3d7", null ],
-    [ "JustEngagedWith", "dc/dda/a06111.html#ab84cb945e773c41d22b682996c744768", null ],
-    [ "JustSummoned", "dc/dda/a06111.html#aa783665ce6e43e76a18515f511f82efb", null ],
-    [ "Reset", "dc/dda/a06111.html#ad19a91bf2344f531e01db07efd04c395", null ],
-    [ "SummonedCreatureDespawn", "dc/dda/a06111.html#af7a1e062b13d997def99c077a79cd12f", null ],
-    [ "UpdateAI", "dc/dda/a06111.html#a31686947c399d780ea5220dae5e4820b", null ],
-    [ "events", "dc/dda/a06111.html#abba6c74269442b0bbfe94ab583904485", null ],
-    [ "summons", "dc/dda/a06111.html#adb0612a97ccab6c817d9fa69b63cfff7", null ]
+    [ "DefaultTargetSelector", "dc/dda/a06111.html#a4ec61d03309c7d8a977afb2060b549a3", null ],
+    [ "operator()", "dc/dda/a06111.html#aa028e0b06c45bc1eaaa8ca0bb2208a35", null ],
+    [ "except", "dc/dda/a06111.html#ad7b04bc5bd7c5cd139d0d56fbb6f9f4e", null ],
+    [ "m_aura", "dc/dda/a06111.html#a93cae8f794de101a6a0a821961c312b8", null ],
+    [ "m_dist", "dc/dda/a06111.html#a57b3cdce9605ab6ff6bdfdf7bf264a5f", null ],
+    [ "m_playerOnly", "dc/dda/a06111.html#aa7d50214f6fcb051279373e3373a6f68", null ],
+    [ "me", "dc/dda/a06111.html#a4e468ce5a085ef402659db46f71d6262", null ]
 ];

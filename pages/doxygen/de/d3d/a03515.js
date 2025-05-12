@@ -1,21 +1,16 @@
 var a03515 =
 [
-    [ "TSpellSummary", "d3/df8/a06168.html", "d3/df8/a06168" ],
-    [ "eNPCs", "de/d3d/a03515.html#abaecf87f40b40c4c71ec596a0b73e911", [
-      [ "NPC_BROODLORD", "de/d3d/a03515.html#abaecf87f40b40c4c71ec596a0b73e911a0429b55864dc1628ebf2cc160a93c1dc", null ],
-      [ "NPC_JAN_ALAI", "de/d3d/a03515.html#abaecf87f40b40c4c71ec596a0b73e911a0c9f05f129ebeb37c7b6a6bd0444caca", null ],
-      [ "NPC_SARTHARION", "de/d3d/a03515.html#abaecf87f40b40c4c71ec596a0b73e911ac5fc96320a852557e13f1d4a95c8ff10", null ],
-      [ "NPC_FREYA", "de/d3d/a03515.html#abaecf87f40b40c4c71ec596a0b73e911a5406e0387cdb4e28fe7718f28ec3d752", null ],
-      [ "NPC_INGVAR_UNDEAD", "dc/d1a/a02288.html#abaecf87f40b40c4c71ec596a0b73e911ac5f7785a73b2ea4946e698f73996e906", null ],
-      [ "NPC_ANNHYLDE", "dc/d1a/a02288.html#abaecf87f40b40c4c71ec596a0b73e911a244024200627132843a0b95f2fdefcb4", null ],
-      [ "NPC_THROW", "dc/d1a/a02288.html#abaecf87f40b40c4c71ec596a0b73e911a5c7c851e12a8c23ef9569157753a2546", null ],
-      [ "NPC_FROST_TOMB", "d2/dd2/a02279.html#abaecf87f40b40c4c71ec596a0b73e911a8d3888198310322d79e29632f594ac76", null ],
-      [ "NPC_SKELETON", "d2/dd2/a02279.html#abaecf87f40b40c4c71ec596a0b73e911ae6d4da6ba356104e95b11d5cd561d0f3", null ]
-    ] ],
-    [ "GetClosestCreatureWithEntry", "de/d3d/a03515.html#a136c0c059281a05f9cb91237ce55be7b", null ],
-    [ "GetClosestGameObjectWithEntry", "de/d3d/a03515.html#a80b13d7c0fa3b835b0834955ed0f93d8", null ],
-    [ "GetCreatureListWithEntryInGrid", "de/d3d/a03515.html#ab6a8246d473139627106be4651f6329d", null ],
-    [ "GetDeadCreatureListInGrid", "de/d3d/a03515.html#a2e3edf6fd8a6865d815af4f8acb184af", null ],
-    [ "GetGameObjectListWithEntryInGrid", "de/d3d/a03515.html#ae9abb80c4e811509bca88e65cf817276", null ],
-    [ "SpellSummary", "de/d3d/a03515.html#ae56af266ccaa1794f1f014938b07e9cc", null ]
+    [ "FormulaScript", "d1/d6f/a10259.html", "d1/d6f/a10259" ],
+    [ "FormulaHook", "de/d3d/a03515.html#a201bafc9783763d9953381d3aa09bf69", [
+      [ "FORMULAHOOK_ON_HONOR_CALCULATION", "de/d3d/a03515.html#a201bafc9783763d9953381d3aa09bf69a73eb230cf8bc5ea792f11bb873a28419", null ],
+      [ "FORMULAHOOK_ON_GRAY_LEVEL_CALCULATION", "de/d3d/a03515.html#a201bafc9783763d9953381d3aa09bf69ae5bca7263a6d46817dc8dfaa4e6636c4", null ],
+      [ "FORMULAHOOK_ON_COLOR_CODE_CALCULATION", "de/d3d/a03515.html#a201bafc9783763d9953381d3aa09bf69ae305e59fcf7c58fccaa5e3eb7f164436", null ],
+      [ "FORMULAHOOK_ON_ZERO_DIFFERENCE_CALCULATION", "de/d3d/a03515.html#a201bafc9783763d9953381d3aa09bf69aaf4abb2ee4d7e811524828641d035c3f", null ],
+      [ "FORMULAHOOK_ON_BASE_GAIN_CALCULATION", "de/d3d/a03515.html#a201bafc9783763d9953381d3aa09bf69af81c627150a90b1b38ae49bd3b02ab86", null ],
+      [ "FORMULAHOOK_ON_GAIN_CALCULATION", "de/d3d/a03515.html#a201bafc9783763d9953381d3aa09bf69ac9f5d04e83bca695ea8857c2797cbb52", null ],
+      [ "FORMULAHOOK_ON_GROUP_RATE_CALCULATION", "de/d3d/a03515.html#a201bafc9783763d9953381d3aa09bf69a56563d7c720735fee5720cbfc7502baf", null ],
+      [ "FORMULAHOOK_ON_AFTER_ARENA_RATING_CALCULATION", "de/d3d/a03515.html#a201bafc9783763d9953381d3aa09bf69aec7df5954df9c5fdc2ddcc2f36e3cb92", null ],
+      [ "FORMULAHOOK_ON_BEFORE_UPDATING_PERSONAL_RATING", "de/d3d/a03515.html#a201bafc9783763d9953381d3aa09bf69ad8dee2b8396106bfbf66942eb7917b33", null ],
+      [ "FORMULAHOOK_END", "de/d3d/a03515.html#a201bafc9783763d9953381d3aa09bf69a9a1299486f5025ac19ec955832a0813f", null ]
+    ] ]
 ];

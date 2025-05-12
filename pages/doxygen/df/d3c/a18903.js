@@ -1,9 +1,6 @@
 var a18903 =
 [
-    [ "boss_grobbulus_poison_cloudAI", "df/d3c/a18903.html#ac26671336eec2d84b56a3552d50f8e0a", null ],
-    [ "KilledUnit", "df/d3c/a18903.html#a9c6ce4ace426f2e7aba5a7bf9430bbe3", null ],
-    [ "Reset", "df/d3c/a18903.html#a1715ab3f3f25b56517f6ded84acdbd9f", null ],
-    [ "UpdateAI", "df/d3c/a18903.html#af1b8dafb0aa47ba22b3601d8bf639c22", null ],
-    [ "auraVisualTimer", "df/d3c/a18903.html#a74aea4294c26414d3b60983d14d36e31", null ],
-    [ "sizeTimer", "df/d3c/a18903.html#a73f775b30ad36a595e0d8532067ba042", null ]
+    [ "NotOnSameSide", "df/d3c/a18903.html#ac3189b202a8c0ca4c8f52799ed54e284", null ],
+    [ "operator()", "df/d3c/a18903.html#a59ea48b9633049180ec62d3616fe4dea", null ],
+    [ "m_inLiveSide", "df/d3c/a18903.html#a77c1d18f54609a5f4da2e9c13f62293d", null ]
 ];

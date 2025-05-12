@@ -1,7 +1,6 @@
 var a15975 =
 [
-    [ "OnApply", "d9/d13/a15975.html#ad072d243dd148e1b34aea29a2e5d175e", null ],
-    [ "PrepareAuraScript", "d9/d13/a15975.html#ae657ceca517aa3f725ba72c18ddbaf1c", null ],
-    [ "Register", "d9/d13/a15975.html#a4eab0bd70eb884f7736e90f9001d3cc7", null ],
-    [ "Validate", "d9/d13/a15975.html#a2c9e4d82bd25f439e01a05700563b122", null ]
+    [ "SendEncounterUnit", "d9/d13/a15975.html#a5300ba7c1a8001bbf52c56fc2e5dc331", null ],
+    [ "Execute", "d9/d13/a15975.html#ae21b67f8fe8a0677778436563872495f", null ],
+    [ "_owner", "d9/d13/a15975.html#a6e1569fb7fa159fe702defbab1e123b6", null ]
 ];

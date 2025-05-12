@@ -1,6 +1,6 @@
 var a21751 =
 [
-    [ "npc_q24545_lich_kingAI", "d6/dec/a21755.html", "d6/dec/a21755" ],
-    [ "npc_q24545_lich_king", "df/dbb/a21751.html#a1864564dee4f66f1b29850b8b0f6fa29", null ],
-    [ "GetAI", "df/dbb/a21751.html#aade5ad8ba215d0571185596aa40cf9b2", null ]
+    [ "npc_q24545_vegard_dummyAI", "df/dbb/a21751.html#ad354ccbe97b12f8df1186de4bf52bfcc", null ],
+    [ "UpdateAI", "df/dbb/a21751.html#aa31baac9ce3c4c951f93917b88390797", null ],
+    [ "done", "df/dbb/a21751.html#a0208fbae8e6c46d0671107530279c50c", null ]
 ];

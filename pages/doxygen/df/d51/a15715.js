@@ -1,6 +1,7 @@
 var a15715 =
 [
-    [ "HandleApplyAura", "df/d51/a15715.html#aeddfd61eab5aa077ca07a924ec491285", null ],
-    [ "PrepareSpellScript", "df/d51/a15715.html#ad53341842455d98722c03318dd80fb94", null ],
-    [ "Register", "df/d51/a15715.html#a10cb03ba6175f48b0ccaf69ec90e8f50", null ]
+    [ "HandleDummy", "df/d51/a15715.html#a5d619c13c620fedeea803a0802fd9ee6", null ],
+    [ "PrepareSpellScript", "df/d51/a15715.html#a04ed0daa21e66b842b8443b5e102ec1d", null ],
+    [ "Register", "df/d51/a15715.html#a4359ad73b513a368509a066a039ddf53", null ],
+    [ "_targetCount", "df/d51/a15715.html#a3ba108d63ef38af0a8730c1bf1aa69e9", null ]
 ];

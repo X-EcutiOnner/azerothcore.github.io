@@ -1,5 +1,15 @@
 var a07483 =
 [
-    [ "IsColorValid", "da/d94/a07483.html#ad9f1623f6e04696a0e3520d3996170e4", null ],
-    [ "IsTextValid", "da/d94/a07483.html#a3b729ae39753a31c38c16e5186fe7f46", null ]
+    [ "Print", "da/d94/a07483.html#a7a3f746595d9ca126747f5e0ba52c71b", null ],
+    [ "CliHandler", "da/d94/a07483.html#a6a7ba928db9d41743d7cebd1ad98b084", null ],
+    [ "GetAcoreString", "da/d94/a07483.html#ab12ec41c55bc5f92461abff538a76b66", null ],
+    [ "GetNameLink", "da/d94/a07483.html#ae879bbfa69992caa7a0b1b2b3c7d939c", null ],
+    [ "GetSessionDbcLocale", "da/d94/a07483.html#a610f7431dc7b064c964e0d446160d19f", null ],
+    [ "GetSessionDbLocaleIndex", "da/d94/a07483.html#a5a2118d9227aa53818d736e387d77dea", null ],
+    [ "HasSession", "da/d94/a07483.html#a1cd4aabe4c61e3899a1e6d6785742abe", null ],
+    [ "needReportToTarget", "da/d94/a07483.html#ad8c4ee6e45afff55d94dea9704bd2097", null ],
+    [ "ParseCommands", "da/d94/a07483.html#abbd02247d6094bf39b2791ba45e9942e", null ],
+    [ "SendSysMessage", "da/d94/a07483.html#a636be10a282a8d100b807dac119b3ff6", null ],
+    [ "m_callbackArg", "da/d94/a07483.html#aa1fafd68fca180506cc15680b695db9e", null ],
+    [ "m_print", "da/d94/a07483.html#aadeaa84ce5d26951f506a2656c1d64d2", null ]
 ];

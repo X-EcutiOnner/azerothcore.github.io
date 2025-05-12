@@ -1,11 +1,6 @@
 var a20791 =
 [
-    [ "boss_yoggsaron_lich_kingAI", "dd/d3e/a20791.html#a4fcf1be1bc20327ff8daf9c79baabde7", null ],
-    [ "NextStep", "dd/d3e/a20791.html#a4f99e511d6296b56df8ab8fbe53620e6", null ],
-    [ "Reset", "dd/d3e/a20791.html#a4c8f098f245e90685f0f3660028500a8", null ],
-    [ "Say", "dd/d3e/a20791.html#a01217dd4c33b0ccae448aa137e83dd9b", null ],
-    [ "UpdateAI", "dd/d3e/a20791.html#a3cbe18164c993fd034242b3f19d27e31", null ],
-    [ "_checkTimer", "dd/d3e/a20791.html#a8f0234b32612ff56ac6a7429f6e4da09", null ],
-    [ "_running", "dd/d3e/a20791.html#a9d7f0f2a8cf4f421253c8c5a6ec98111", null ],
-    [ "_step", "dd/d3e/a20791.html#a6af98b3daace7852a485983167538f85", null ]
+    [ "boss_yoggsaron_immortal_guardianAI", "dd/d34/a20795.html", "dd/d34/a20795" ],
+    [ "boss_yoggsaron_immortal_guardian", "dd/d3e/a20791.html#a4009759d284b54cb958ee0bb80c45f14", null ],
+    [ "GetAI", "dd/d3e/a20791.html#ac532ca090d93ce6d11a0332329111f2b", null ]
 ];

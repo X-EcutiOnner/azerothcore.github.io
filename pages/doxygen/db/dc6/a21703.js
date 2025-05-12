@@ -1,6 +1,7 @@
 var a21703 =
 [
-    [ "npc_mindless_ghoulAI", "db/dc6/a21703.html#a4cc0dbd4aa2366115348bc1db273a5e2", null ],
-    [ "CanAIAttack", "db/dc6/a21703.html#a18fbc44ad760a69d952d003622ec75b2", null ],
-    [ "JustDied", "db/dc6/a21703.html#a272067bef6dbab24024f7de990c10b64", null ]
+    [ "HandleApplyEffect", "db/dc6/a21703.html#aab7bd30368c51a6a209f6cad5a93ba79", null ],
+    [ "HandleRemoveEffect", "db/dc6/a21703.html#a243933fec9ccd650303ea5badbea725b", null ],
+    [ "PrepareAuraScript", "db/dc6/a21703.html#ac0e1fc0694dd51e245340d3658592447", null ],
+    [ "Register", "db/dc6/a21703.html#a0f6e6c6892d56a6fceb927f68c734bde", null ]
 ];

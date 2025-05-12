@@ -1,6 +1,10 @@
 var a14555 =
 [
-    [ "boss_meathookAI", "de/d11/a14559.html", "de/d11/a14559" ],
-    [ "boss_meathook", "dd/db6/a14555.html#a044c8ec4a419e5c5a8b290df9c0ad169", null ],
-    [ "GetAI", "dd/db6/a14555.html#ae8ee3631ff1f80f4fad99e4eca042ad8", null ]
+    [ "boss_rage_winterchill", "dd/db6/a14555.html#a66fed2a7cc6135d41a2c40bdf4ffe02e", null ],
+    [ "DoAction", "dd/db6/a14555.html#a45333aea6d6a180473ca4823ea83920a", null ],
+    [ "JustDied", "dd/db6/a14555.html#ab10c7df81a9e71b2c114465c30e40a9b", null ],
+    [ "JustEngagedWith", "dd/db6/a14555.html#ad36a840c65949c54d5ee3ae8cb6f1f7b", null ],
+    [ "KilledUnit", "dd/db6/a14555.html#a69d69530a080379add7be73c552f4937", null ],
+    [ "PathEndReached", "dd/db6/a14555.html#aec47befdf3246710a5158780fa797fa7", null ],
+    [ "_recentlySpoken", "dd/db6/a14555.html#ae2141b4ea1d10cb74146aec63d65214c", null ]
 ];

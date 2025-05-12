@@ -1,7 +1,6 @@
 var a11623 =
 [
-    [ "boss_magmusAI", "d3/dfe/a11623.html#a8a3e5361bda492007013af9228899b8f", null ],
-    [ "JustEngagedWith", "d3/dfe/a11623.html#a11e4868628564078997694373315a9d6", null ],
-    [ "Reset", "d3/dfe/a11623.html#a5fe304cec86831b7e64f83caee1392d0", null ],
-    [ "UpdateAI", "d3/dfe/a11623.html#aa8bb8282c794ea02fe7bd95b3d32e5ea", null ]
+    [ "inventory_commandscript", "d3/dfe/a11623.html#a765d3606093dd3e15bb59c058333dca7", null ],
+    [ "GetCommands", "d3/dfe/a11623.html#ac002b65cbe2e5dafc7614c7afa4a20e6", null ],
+    [ "HandleInventoryCountCommand", "d3/dfe/a11623.html#a60d05e2fd4e23fdb6bc6513a1dc67ba3", null ]
 ];

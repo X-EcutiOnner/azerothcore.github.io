@@ -1,6 +1,6 @@
 var a19371 =
 [
-    [ "boss_bjarngrimAI", "dd/d56/a19375.html", "dd/d56/a19375" ],
-    [ "boss_bjarngrim", "d8/d2a/a19371.html#ab509688547d41ec1fd094fdc45291959", null ],
-    [ "GetAI", "d8/d2a/a19371.html#aff6455d2a327bbf3426d10a07f7b0e44", null ]
+    [ "HandlePeriodic", "d8/d2a/a19371.html#a08717e9e8e974fcd7051c45fd1d26893", null ],
+    [ "PrepareAuraScript", "d8/d2a/a19371.html#abf7b2d81ee81ff27388678e9a5433eac", null ],
+    [ "Register", "d8/d2a/a19371.html#ac98109fe8d9192ae97e4aa5dc10463cf", null ]
 ];

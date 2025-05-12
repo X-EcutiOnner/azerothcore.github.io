@@ -1,10 +1,14 @@
 var a08735 =
 [
-    [ "creatureRate", "dd/d6f/a08735.html#aa9c27c19179b8a7bdfdc11d906cd1c06", null ],
-    [ "questDailyRate", "dd/d6f/a08735.html#a1798044bdf25ce774191b00e261add1e", null ],
-    [ "questMonthlyRate", "dd/d6f/a08735.html#a0db34ed7420bc376cfe64a0d12434fea", null ],
-    [ "questRate", "dd/d6f/a08735.html#a914118aa28b3736ff4e6c5b61d738834", null ],
-    [ "questRepeatableRate", "dd/d6f/a08735.html#a2b050d4cf6555e824d59a3ffc0558b21", null ],
-    [ "questWeeklyRate", "dd/d6f/a08735.html#a0fb31ebc33d0ce11f392be845907e043", null ],
-    [ "spellRate", "dd/d6f/a08735.html#a508485f1e6833c58a11706667a2c24fd", null ]
+    [ "SafeUnitPointer", "dd/d6f/a08735.html#a05ee5199683b1e68189a7d122bf3f5f4", null ],
+    [ "SafeUnitPointer", "dd/d6f/a08735.html#a9ac4023d6ec32f96c757206dd4aa3fd6", null ],
+    [ "~SafeUnitPointer", "dd/d6f/a08735.html#ad9c2be82f67eb4e825a9ffd07307983a", null ],
+    [ "Initialize", "dd/d6f/a08735.html#a40f6e04585ca487c457d17ce10cc7b8c", null ],
+    [ "operator Unit *", "dd/d6f/a08735.html#afee1d290f436472dd719ff83f41721f5", null ],
+    [ "operator->", "dd/d6f/a08735.html#af63a04a7c6e6cb3002f5a99f90f70328", null ],
+    [ "operator=", "dd/d6f/a08735.html#a44f522d9c22861f853df0286a3764d3e", null ],
+    [ "SetPointedTo", "dd/d6f/a08735.html#a6603c67b736224a8e6559340afa8b275", null ],
+    [ "UnitDeleted", "dd/d6f/a08735.html#a872b0a86328fb03e5feccdf364ea5cce", null ],
+    [ "defaultValue", "dd/d6f/a08735.html#a38dce117cb135c9b84918a9bbc884f28", null ],
+    [ "ptr", "dd/d6f/a08735.html#aa8bf5e4728aeb1ca7a8de1a727a84884", null ]
 ];

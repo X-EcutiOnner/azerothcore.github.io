@@ -1,6 +1,7 @@
 var a11683 =
 [
-    [ "boss_gythAI", "df/d73/a11687.html", "df/d73/a11687" ],
-    [ "boss_gyth", "de/d1f/a11683.html#a286d19b0a6e317cb7e69343982b71062", null ],
-    [ "GetAI", "de/d1f/a11683.html#a3706cbdd1bfb16112653d31cfa971b30", null ]
+    [ "player_commandscript", "de/d1f/a11683.html#a1565aa67743cfd3e5fe5179b4100bd20", null ],
+    [ "GetCommands", "de/d1f/a11683.html#a0e1e8eec0fe449c95c5cf9dd06a0fced", null ],
+    [ "HandlePlayerLearnCommand", "de/d1f/a11683.html#a6ca511bcecf73049665772cb80dbcf40", null ],
+    [ "HandlePlayerUnLearnCommand", "de/d1f/a11683.html#a22fddb5da1278fe794a78a899c423bfd", null ]
 ];

@@ -1,8 +1,10 @@
 var a08963 =
 [
-    [ "NearestGameObjectFishingHole", "dc/d26/a08963.html#ab0e4734202edf26b69881ab85abe1d93", null ],
-    [ "NearestGameObjectFishingHole", "dc/d26/a08963.html#a256c64e6c82d98349b958647d98bf4ce", null ],
-    [ "operator()", "dc/d26/a08963.html#a52e2c64f8209ab364f4e85e1f4e947dc", null ],
-    [ "i_obj", "dc/d26/a08963.html#a182fbf6b5cc68fb0eba6be26568c9d78", null ],
-    [ "i_range", "dc/d26/a08963.html#af27a870fb654a130bf1e4ac1472fdffc", null ]
+    [ "creatureRate", "dc/d26/a08963.html#aa9c27c19179b8a7bdfdc11d906cd1c06", null ],
+    [ "questDailyRate", "dc/d26/a08963.html#a1798044bdf25ce774191b00e261add1e", null ],
+    [ "questMonthlyRate", "dc/d26/a08963.html#a0db34ed7420bc376cfe64a0d12434fea", null ],
+    [ "questRate", "dc/d26/a08963.html#a914118aa28b3736ff4e6c5b61d738834", null ],
+    [ "questRepeatableRate", "dc/d26/a08963.html#a2b050d4cf6555e824d59a3ffc0558b21", null ],
+    [ "questWeeklyRate", "dc/d26/a08963.html#a0fb31ebc33d0ce11f392be845907e043", null ],
+    [ "spellRate", "dc/d26/a08963.html#a508485f1e6833c58a11706667a2c24fd", null ]
 ];

@@ -1,9 +1,14 @@
 var a23471 =
 [
-    [ "boss_the_maker", "d2/d2a/a23471.html#a478c48f225e8fdf14cde5b1f144cb6c4", null ],
-    [ "JustDied", "d2/d2a/a23471.html#a564abd0a8f52c8c58a305f9c47d8475c", null ],
-    [ "JustEngagedWith", "d2/d2a/a23471.html#a6b0a4442dbabde69ca9352017ee23675", null ],
-    [ "KilledUnit", "d2/d2a/a23471.html#a40643ca00fe7d7029a291335e47c722a", null ],
-    [ "Reset", "d2/d2a/a23471.html#a9d115e5e1ef585348937b9d6c1cd2cb1", null ],
-    [ "UpdateAI", "d2/d2a/a23471.html#a24cd8e9a97410ab290592b586962fffd", null ]
+    [ "boss_vazruden", "d2/d2a/a23471.html#a9908d6082a09d55dd0d8bb801784a151", null ],
+    [ "DamageTaken", "d2/d2a/a23471.html#a44b1e4d43bbf0d7faec7f4ee277db811", null ],
+    [ "EnterEvadeMode", "d2/d2a/a23471.html#aba006e8e9aefe522ea5c36c638bb5c3b", null ],
+    [ "JustDied", "d2/d2a/a23471.html#a525025b41b53a577bdff1eb818191ed7", null ],
+    [ "JustEngagedWith", "d2/d2a/a23471.html#a5dbbe80fcfe191ac5ae03f943496ad02", null ],
+    [ "KilledUnit", "d2/d2a/a23471.html#a8f430a0d7edb0285156c6bf68ba0aa07", null ],
+    [ "Reset", "d2/d2a/a23471.html#a11b5091dafe2f0de9afd81de7b6fde90", null ],
+    [ "UpdateAI", "d2/d2a/a23471.html#aebaf147a1a2e723cb0cb8e46f3d01e68", null ],
+    [ "_hasSpoken", "d2/d2a/a23471.html#af5b9aa9c7a343486b4dc05819e8d3ccf", null ],
+    [ "_nazanCalled", "d2/d2a/a23471.html#a44d53934c743e9beb539681719997852", null ],
+    [ "_scheduler", "d2/d2a/a23471.html#a60382206e378c2f2c493d1ee25c4ff8c", null ]
 ];

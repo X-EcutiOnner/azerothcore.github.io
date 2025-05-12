@@ -1,6 +1,7 @@
 var a17971 =
 [
-    [ "npc_spinestalkerAI", "da/dc7/a17975.html", "da/dc7/a17975" ],
-    [ "npc_spinestalker", "db/da5/a17971.html#a477f951c79045d553901b1e6b6ad2d4f", null ],
-    [ "GetAI", "db/da5/a17971.html#a725f1b1db90d700772bfb76e0f85f1f3", null ]
+    [ "HandleScript", "db/da5/a17971.html#a5fbb1d26c4e7d5d21745004e477b3c1e", null ],
+    [ "PrepareSpellScript", "db/da5/a17971.html#a7e6b56f426be7925255da3ebc239f909", null ],
+    [ "Register", "db/da5/a17971.html#a0eb2d734ac99d3a036b95b6daa39b9f5", null ],
+    [ "Validate", "db/da5/a17971.html#a86b4296eab73fc63b38558871f16a889", null ]
 ];

@@ -1,6 +1,7 @@
 var a19119 =
 [
-    [ "npc_hover_diskAI", "d2/daf/a19123.html", "d2/daf/a19123" ],
-    [ "npc_hover_disk", "d3/dd9/a19119.html#af0ab534387a2af4e168915801ee855e5", null ],
-    [ "GetAI", "d3/dd9/a19119.html#adbe9285126089ca998e9b6360f42c553", null ]
+    [ "npc_naxxramas_trigger", "d3/dd9/a19119.html#a62fd64468daf378fbe2e8f18b1f002f8", null ],
+    [ "Reset", "d3/dd9/a19119.html#a5bf85ab6027ca5101df32cda6df29b28", null ],
+    [ "UpdateAI", "d3/dd9/a19119.html#acd051dd7790aa37cd2375479433509cb", null ],
+    [ "_events", "d3/dd9/a19119.html#a1ab25fd0b40f373d30b0f60462dd276b", null ]
 ];

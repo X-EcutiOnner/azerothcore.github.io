@@ -1,6 +1,7 @@
 var a25435 =
 [
-    [ "HandleDummyTick", "d2/d45/a25435.html#a000f8fd84e7292ac759b64a8a25d3ca2", null ],
-    [ "PrepareAuraScript", "d2/d45/a25435.html#a2848e44f1520cc32af916a8e6578c3ea", null ],
-    [ "Register", "d2/d45/a25435.html#a4a13827baeb7ed4f2681ab114d44eb37", null ]
+    [ "HandleScriptEffect", "d2/d45/a25435.html#acbcc05fa433f5bf75998b15e4e25fdad", null ],
+    [ "PrepareSpellScript", "d2/d45/a25435.html#adf5a3b94012ac871c70f5782d57ae1cd", null ],
+    [ "Register", "d2/d45/a25435.html#a00596a3f8f0699c25e52a5778d59a2b2", null ],
+    [ "SelectTarget", "d2/d45/a25435.html#a6a59b7ce696f959b2026cf8088079e89", null ]
 ];

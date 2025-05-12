@@ -1,7 +1,11 @@
 var a27035 =
 [
-    [ "npc_spirit_shadeAI", "d0/db4/a27035.html#a8b7bf7c7cc541a47be79aad76a9bbcbc", null ],
-    [ "IsSummonedBy", "d0/db4/a27035.html#a3a7fcb4af8e3b27e06b4665e8a864b38", null ],
-    [ "MovementInform", "d0/db4/a27035.html#ab001fdc09efe9f8c03ad1b7610124e6d", null ],
-    [ "_summonerGuid", "d0/db4/a27035.html#aa7c6abb848ab37f407a3553d04d0ad81", null ]
+    [ "npc_dream_fogAI", "d0/db4/a27035.html#ac0606677b434b15dcbf17c9c4b2467a4", null ],
+    [ "GetRandomUnitFromDragonThreatList", "d0/db4/a27035.html#aa9ea076cdef0b1a0b21b18e42bf777c3", null ],
+    [ "Reset", "d0/db4/a27035.html#a595eeeae54d4bf323287fc408f706ac6", null ],
+    [ "ScheduleEvents", "d0/db4/a27035.html#a6025e98731e8eb3e4450eb6ea7747d5f", null ],
+    [ "SetGUID", "d0/db4/a27035.html#aa223fc3eaa1096d0bad578a88b81ab7e", null ],
+    [ "UpdateAI", "d0/db4/a27035.html#a881cbed8f1709071036b9f83cdbe1cad", null ],
+    [ "_dragonGUID", "d0/db4/a27035.html#a90deaf0fab9f0ed64c806c22c200ba08", null ],
+    [ "_targetGUID", "d0/db4/a27035.html#a44138ecd6ae6f07a624e26d82b0aa286", null ]
 ];

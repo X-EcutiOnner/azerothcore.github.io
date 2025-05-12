@@ -1,8 +1,8 @@
 var a27967 =
 [
-    [ "difficulty", "df/d50/a27967.html#a2a04df701c13dc49053b09a9587a72a8", null ],
-    [ "encounterIndex", "df/d50/a27967.html#a3d35560824a3aaeecb8db4bf8628ebfd", null ],
-    [ "encounterName", "df/d50/a27967.html#af4f26f56526b945e392ddaf6b2d43fa1", null ],
-    [ "id", "df/d50/a27967.html#aa9828ccc644a11f9cb35fbcc7d31a827", null ],
-    [ "mapId", "df/d50/a27967.html#a61c1ac724c8eb96907d2ea9402a8f9ce", null ]
+    [ "ID", "df/d50/a27967.html#a36958c346c8554d9ab1cfb73ac583818", null ],
+    [ "Model", "df/d50/a27967.html#a8877a066a16c8c246a2d5a24a3661e56", null ],
+    [ "Origin", "df/d50/a27967.html#a684c69add50ee545ee606ae456a93336", null ],
+    [ "OriginFacing", "df/d50/a27967.html#a460723250353c7720cd87677991283cf", null ],
+    [ "SoundID", "df/d50/a27967.html#aa56be05c7ab4015738e049d75ff365c6", null ]
 ];

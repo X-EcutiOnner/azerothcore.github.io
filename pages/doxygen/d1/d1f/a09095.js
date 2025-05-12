@@ -1,8 +1,8 @@
 var a09095 =
 [
-    [ "MostHPMissingGroupInRange", "d1/d1f/a09095.html#ab7cd80daa30d8a39289c704cc0a2064f", null ],
-    [ "operator()", "d1/d1f/a09095.html#ad1b4a4894dd652237a7a789ef5619f4b", null ],
-    [ "i_hp", "d1/d1f/a09095.html#ae61cafc52cb6d33cd78422c41bd3bb08", null ],
-    [ "i_obj", "d1/d1f/a09095.html#ae0d85f9738301b40c3e950b02ee20026", null ],
-    [ "i_range", "d1/d1f/a09095.html#a712e9b1ff341ccde4a6d6962ba6002a4", null ]
+    [ "V8Type", "d1/d1f/a09095.html#ad1b1f07eef9dda43d6ba20d37087e1df", null ],
+    [ "V9Type", "d1/d1f/a09095.html#ac514014328ca676e610cef54710d2430", null ],
+    [ "gridIntHeightMultiplier", "d1/d1f/a09095.html#a6255362ae498172495394e1f0fad44ca", null ],
+    [ "v8", "d1/d1f/a09095.html#a3201a1f3e7307af860396ca26a78dbf9", null ],
+    [ "v9", "d1/d1f/a09095.html#ad31af604d44f964e9c502f36b6717c77", null ]
 ];

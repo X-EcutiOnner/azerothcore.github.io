@@ -1,6 +1,7 @@
 var a15567 =
 [
-    [ "creatureID", "d4/d40/a15567.html#a44a9f5e58bfa58e2e2325e116e988f07", null ],
-    [ "pos", "d4/d40/a15567.html#a9705a858cc2c3867e104514d3a0a1866", null ],
-    [ "waveID", "d4/d40/a15567.html#a09b48f7f6da7e203ed50a8abc7f24e56", null ]
+    [ "npc_lakota_windsongAI", "d8/d72/a15571.html", "d8/d72/a15571" ],
+    [ "npc_lakota_windsong", "d4/d40/a15567.html#a08a585ac36189ec23354c7acb26d223d", null ],
+    [ "GetAI", "d4/d40/a15567.html#af2f27ed2c4bd7298a9478495d2d7ca65", null ],
+    [ "OnQuestAccept", "d4/d40/a15567.html#a47ccf0b8bef84724f7aa7e2ad564dfe6", null ]
 ];

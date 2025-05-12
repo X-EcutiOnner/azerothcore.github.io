@@ -1,6 +1,6 @@
 var a09959 =
 [
-    [ "BattlegroundMapScript", "da/de4/a09959.html#a61e1c0f145064cbc6c8708824a359e4c", null ],
-    [ "checkValidity", "da/de4/a09959.html#a90584770132eb71cffc6e25a674750ad", null ],
-    [ "isAfterLoadScript", "da/de4/a09959.html#a0148a79556f82c990fe0fc494d03c7ab", null ]
+    [ "AssistanceMovementGenerator", "da/de4/a09959.html#a649b7d2833aaf895a5f6f290131c88f5", null ],
+    [ "Finalize", "da/de4/a09959.html#a6fc296a5283726cca409d7df1137743d", null ],
+    [ "GetMovementGeneratorType", "da/de4/a09959.html#a1d4b6fe8693fdd21c364b53075c27439", null ]
 ];

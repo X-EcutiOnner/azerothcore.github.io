@@ -1,6 +1,5 @@
 var a14855 =
 [
-    [ "FilterTargets", "d6/d85/a14855.html#ab0cd088c750e9538e2087f58fdaac20e", null ],
-    [ "PrepareSpellScript", "d6/d85/a14855.html#ae252cbce0ebc63eb4e54bedfc88640ad", null ],
-    [ "Register", "d6/d85/a14855.html#a3168a3f97ddb38b261a0730405ba27db", null ]
+    [ "npc_hive_zara_swarmer", "d6/d85/a14855.html#a374fa63e210e0be8a074af9199126a9e", null ],
+    [ "PathEndReached", "d6/d85/a14855.html#a3b3510bd00853395b756e1d83d96a474", null ]
 ];

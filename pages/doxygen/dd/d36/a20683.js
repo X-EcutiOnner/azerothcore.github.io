@@ -1,6 +1,6 @@
 var a20683 =
 [
-    [ "x", "dd/d36/a20683.html#ae4223168378b602a0a96dbb424a22be4", null ],
-    [ "y", "dd/d36/a20683.html#a30f361d8104e4de44541d75945105963", null ],
-    [ "z", "dd/d36/a20683.html#ae68a79519c35302b89976ac29bb77e26", null ]
+    [ "OnRemove", "dd/d36/a20683.html#a492bd9e9c82937e00897e19362b40901", null ],
+    [ "PrepareAuraScript", "dd/d36/a20683.html#a1ae24bb18b5570ebe9b4b0698d3cc2f2", null ],
+    [ "Register", "dd/d36/a20683.html#adfcaf82ff48225ea0e0314d421795644", null ]
 ];

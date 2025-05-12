@@ -1,6 +1,10 @@
 var a07395 =
 [
-    [ "operator bool", "d1/d27/a07395.html#a02878c282dfcfd2b9f4eddf99a805fa3", null ],
-    [ "tail", "d1/d27/a07395.html#a0bd839d0c7a8b7ce84612c80f3ca84e7", null ],
-    [ "token", "d1/d27/a07395.html#a55e214db8a01ac3c427874d03f1bda54", null ]
+    [ "BattlegroundNA", "d1/d27/a07395.html#abf646e63e474ac5bb381078ffd0f286e", null ],
+    [ "FillInitialWorldStates", "d1/d27/a07395.html#af0932b648d2a4a4288409d8da360e06b", null ],
+    [ "HandleAreaTrigger", "d1/d27/a07395.html#a6a70ff3655c516d45ac1acf959ad8f73", null ],
+    [ "HandlePlayerUnderMap", "d1/d27/a07395.html#a098c01b5da65350b2af9ff53dc9f750c", null ],
+    [ "SetupBattleground", "d1/d27/a07395.html#addc3350a283fdac24e7aa88c23a7945a", null ],
+    [ "StartingEventCloseDoors", "d1/d27/a07395.html#a316492a374884822045971f6dc3db1e2", null ],
+    [ "StartingEventOpenDoors", "d1/d27/a07395.html#a72a953c5047a434d28b98e6185173140", null ]
 ];

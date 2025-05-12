@@ -1,7 +1,9 @@
 var a00296 =
 [
-    [ "VMAP::MeshTriangle", "d3/d41/a05068.html", "d3/d41/a05068" ],
-    [ "VMAP::WmoLiquid", "d3/d96/a05072.html", "d3/d96/a05072" ],
-    [ "VMAP::GroupModel", "d1/ddd/a05076.html", "d1/ddd/a05076" ],
-    [ "VMAP::WorldModel", "de/d0b/a05080.html", "de/d0b/a05080" ]
+    [ "instance_drak_tharon_keep", "d7/dcd/a16639.html", "d7/dcd/a16639" ],
+    [ "instance_drak_tharon_keep::instance_drak_tharon_keep_InstanceScript", "d6/dd9/a16643.html", "d6/dd9/a16643" ],
+    [ "spell_dtk_raise_dead_aura", "d1/dfa/a16647.html", "d1/dfa/a16647" ],
+    [ "spell_dtk_summon_random_drakkari", "db/d6c/a16651.html", "db/d6c/a16651" ],
+    [ "AddSC_instance_drak_tharon_keep", "db/d7b/a00296.html#a5644ddec1299c3c3988ffb003d0c3367", null ],
+    [ "doorData", "db/d7b/a00296.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ]
 ];

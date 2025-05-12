@@ -1,20 +1,20 @@
 var a03725 =
 [
-    [ "FormationInfo", "db/d5c/a08052.html", "db/d5c/a08052" ],
-    [ "FormationMgr", "d7/d3a/a08056.html", "d7/d3a/a08056" ],
-    [ "CreatureGroup", "d0/dd0/a08060.html", "d0/dd0/a08060" ],
-    [ "sFormationMgr", "d0/d69/a03725.html#ae80a51404625cee821a8727ed7369352", null ],
-    [ "CreatureGroupInfoType", "d0/d69/a03725.html#a2c3447bf21f430bff136da6811d93a61", null ],
-    [ "GroupAIFlags", "d0/d69/a03725.html#a3754da8cc6b209da0180cd76de20869c", [
-      [ "GROUP_AI_FLAG_MEMBER_ASSIST_LEADER", "d0/d69/a03725.html#a3754da8cc6b209da0180cd76de20869caa14252ac4ad9c188fc5d7ed9ca7656a2", null ],
-      [ "GROUP_AI_FLAG_LEADER_ASSIST_MEMBER", "d0/d69/a03725.html#a3754da8cc6b209da0180cd76de20869ca28fae9fc8e2ffc5c42c7dd1812694f6e", null ],
-      [ "GROUP_AI_FLAG_EVADE_TOGETHER", "d0/d69/a03725.html#a3754da8cc6b209da0180cd76de20869ca928d7601145d6d43e75dcd4016b5168a", null ],
-      [ "GROUP_AI_FLAG_RESPAWN_ON_EVADE", "d0/d69/a03725.html#a3754da8cc6b209da0180cd76de20869cafd1b3cc36d34613f8cef22a23e0c6ee6", null ],
-      [ "GROUP_AI_FLAG_DONT_RESPAWN_LEADER_ON_EVADE", "d0/d69/a03725.html#a3754da8cc6b209da0180cd76de20869cabcc8bb1d4fe9589142cc0d244ce05043", null ],
-      [ "GROUP_AI_FLAG_ACQUIRE_NEW_TARGET_ON_EVADE", "d0/d69/a03725.html#a3754da8cc6b209da0180cd76de20869ca1a12d5efe0ba28476f98f73978bc912e", null ],
-      [ "GROUP_AI_FLAG_FOLLOW_LEADER", "d0/d69/a03725.html#a3754da8cc6b209da0180cd76de20869caee689adab992a48549490c861e29da87", null ],
-      [ "GROUP_AI_FLAG_ASSIST_MASK", "d0/d69/a03725.html#a3754da8cc6b209da0180cd76de20869ca9fb1dd5025383fe38dc24bd42572256c", null ],
-      [ "GROUP_AI_FLAG_EVADE_MASK", "d0/d69/a03725.html#a3754da8cc6b209da0180cd76de20869ca2b086f30dfcafa5d5b17145232d26acd", null ],
-      [ "GROUP_AI_FLAG_SUPPORTED", "d0/d69/a03725.html#a3754da8cc6b209da0180cd76de20869ca77e2c9b09a3c1f6ade309decc6d82c60", null ]
+    [ "WEATHER_SEASONS", "d8/dfa/a04756.html#ga5ee30d2da0d958800dd3ad582c49d487", null ],
+    [ "WeatherState", "d8/dfa/a04756.html#ga32b7b9e733438755c99c2abd6cb8c94d", [
+      [ "WEATHER_STATE_FINE", "d8/dfa/a04756.html#gga32b7b9e733438755c99c2abd6cb8c94da5d4c47a117d36afee4195bd260951366", null ],
+      [ "WEATHER_STATE_FOG", "d8/dfa/a04756.html#gga32b7b9e733438755c99c2abd6cb8c94daf088b1890d40b05c4022d90d931e8717", null ],
+      [ "WEATHER_STATE_LIGHT_RAIN", "d8/dfa/a04756.html#gga32b7b9e733438755c99c2abd6cb8c94dafe59189ae98629ed11fbd343da10e97d", null ],
+      [ "WEATHER_STATE_MEDIUM_RAIN", "d8/dfa/a04756.html#gga32b7b9e733438755c99c2abd6cb8c94da33ce6050f5c9a8dbbfc2556756f960c3", null ],
+      [ "WEATHER_STATE_HEAVY_RAIN", "d8/dfa/a04756.html#gga32b7b9e733438755c99c2abd6cb8c94da13bf6f46f69defe7fbea2c659e6d3873", null ],
+      [ "WEATHER_STATE_LIGHT_SNOW", "d8/dfa/a04756.html#gga32b7b9e733438755c99c2abd6cb8c94da8a760bcf8d764d8749a800905111ab05", null ],
+      [ "WEATHER_STATE_MEDIUM_SNOW", "d8/dfa/a04756.html#gga32b7b9e733438755c99c2abd6cb8c94da2a382668c4c73bc864079b0cf1602da6", null ],
+      [ "WEATHER_STATE_HEAVY_SNOW", "d8/dfa/a04756.html#gga32b7b9e733438755c99c2abd6cb8c94daaad9131eee7d0dce651a4142705871a3", null ],
+      [ "WEATHER_STATE_LIGHT_SANDSTORM", "d8/dfa/a04756.html#gga32b7b9e733438755c99c2abd6cb8c94dabe53f9722c1f5ee37a0ce46a356402eb", null ],
+      [ "WEATHER_STATE_MEDIUM_SANDSTORM", "d8/dfa/a04756.html#gga32b7b9e733438755c99c2abd6cb8c94da35248c6d29502ee854f2a9c92a1c9204", null ],
+      [ "WEATHER_STATE_HEAVY_SANDSTORM", "d8/dfa/a04756.html#gga32b7b9e733438755c99c2abd6cb8c94da185c2513fb0f271a64db1feb5691def0", null ],
+      [ "WEATHER_STATE_THUNDERS", "d8/dfa/a04756.html#gga32b7b9e733438755c99c2abd6cb8c94da0a333865e8ae65ce8f5bb03f905dee29", null ],
+      [ "WEATHER_STATE_BLACKRAIN", "d8/dfa/a04756.html#gga32b7b9e733438755c99c2abd6cb8c94daa69a93da31c84906e5b64469cda9f27f", null ],
+      [ "WEATHER_STATE_BLACKSNOW", "d8/dfa/a04756.html#gga32b7b9e733438755c99c2abd6cb8c94da3aea8b6958d36e83f025fc7a489d1357", null ]
     ] ]
 ];

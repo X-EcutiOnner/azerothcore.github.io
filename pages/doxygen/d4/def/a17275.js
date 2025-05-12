@@ -1,7 +1,25 @@
 var a17275 =
 [
-    [ "achievement_once_bitten_twice_shy", "d4/def/a17275.html#ac5799e847f8ee1e2b562e4a58a00df16", null ],
-    [ "OnCheck", "d4/def/a17275.html#aa2e3ac3e8a14b06446174e475ac18af3", null ],
-    [ "_spawnMode", "d4/def/a17275.html#a6f02f5ab07143ddff553279049714902", null ],
-    [ "_wasVampire", "d4/def/a17275.html#a297cf6da45b0cddb4dc9fc888919bdda", null ]
+    [ "boss_blood_queen_lana_thelAI", "d4/def/a17275.html#ab28467f9b11a87162dae0306a1f2fb20", null ],
+    [ "CanAIAttack", "d4/def/a17275.html#a4b6ce34090fcf21eb68560c078278303", null ],
+    [ "CleanAuras", "d4/def/a17275.html#a78b0d391090e9d2424da315bf1f696e9", null ],
+    [ "DoAction", "d4/def/a17275.html#a2e7d45ce9d7a0e05b60c9e94f736d1b3", null ],
+    [ "EnterEvadeMode", "d4/def/a17275.html#afb02799e3fad05e2e0d48ea5b3be7526", null ],
+    [ "GoToMinchar", "d4/def/a17275.html#acb939a02a912d1db13947a939f4c554c", null ],
+    [ "JustDied", "d4/def/a17275.html#a475fcf43849c5cd2144020f57c2a461f", null ],
+    [ "JustEngagedWith", "d4/def/a17275.html#a01866a1f5a20bd9b4ccf754051dedd10", null ],
+    [ "KilledUnit", "d4/def/a17275.html#aebb53f7599dd3a55953946b7cc9e76d6", null ],
+    [ "MovementInform", "d4/def/a17275.html#a4b74cb2b2f36ae115327e8a0532fdc23", null ],
+    [ "Reset", "d4/def/a17275.html#abc58e7c6c384ea4c342d6b153557c4b1", null ],
+    [ "SetGUID", "d4/def/a17275.html#ac1620cfe6e8f20a8ef54b211a5641bea", null ],
+    [ "UpdateAI", "d4/def/a17275.html#a13fe9d7463efbecf63d78fce59fc4fab", null ],
+    [ "WasBloodbolted", "d4/def/a17275.html#a76f5eca557f9d25c8025a909b1de8faf", null ],
+    [ "WasVampire", "d4/def/a17275.html#a7a74b7241f0ff736bdff7088ee384695", null ],
+    [ "_bloodboltedPlayers", "d4/def/a17275.html#a1c5ef6d44112d67a29dde74371ab644a", null ],
+    [ "_creditBloodQuickening", "d4/def/a17275.html#a3534b15706cd35ad8de485fc430207b1", null ],
+    [ "_killMinchar", "d4/def/a17275.html#ac617b5511beacd7b98d0e9ae8773e7dc", null ],
+    [ "_offtankGUID", "d4/def/a17275.html#a8a4d21d7ab9ad827c88a7869000c3628", null ],
+    [ "_tankGUID", "d4/def/a17275.html#a231f68b31fdd105559c186d4edbfc47b", null ],
+    [ "_vampires", "d4/def/a17275.html#af808b2b543ea9b27b4b03d0e561fb90e", null ],
+    [ "bEnteredCombat", "d4/def/a17275.html#aca37d322e154ae01ceb4e96b3b42d5d0", null ]
 ];

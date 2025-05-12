@@ -1,12 +1,20 @@
 var a12611 =
 [
-    [ "npc_scarlet_minerAI", "d2/d0c/a12611.html#a7f5ca173103eb4498ce41912bda5da66", null ],
-    [ "InitCartQuest", "d2/d0c/a12611.html#a5d3ece8f2f02a2bae4550a41f55348b0", null ],
-    [ "InitWaypoint", "d2/d0c/a12611.html#a7fe048368b6e0a43b5be501a24773b8c", null ],
-    [ "Reset", "d2/d0c/a12611.html#a2a8660173dc32c38de917049eb33fff8", null ],
-    [ "UpdateAI", "d2/d0c/a12611.html#a48d2c92a4d45d5e59252f9455b82cbbd", null ],
-    [ "WaypointReached", "d2/d0c/a12611.html#a31f4363e269b51d3a002a132b5516dd0", null ],
-    [ "carGUID", "d2/d0c/a12611.html#a963f9c0ca58ce160b43f36f5a9f7dee7", null ],
-    [ "IntroPhase", "d2/d0c/a12611.html#a094c2ee20d13c88805c3de7f9f94b86e", null ],
-    [ "IntroTimer", "d2/d0c/a12611.html#adae2103753dd62699359ff01ac3ba865", null ]
+    [ "boss_shade_of_aran", "d2/d0c/a12611.html#a581351036c7e09de447f065a4ef82e03", null ],
+    [ "AttackStart", "d2/d0c/a12611.html#a140ec9e0f968c42f9f003d9a52693884", null ],
+    [ "CheckAranInRoom", "d2/d0c/a12611.html#a64779949875ab0d812746adb78123f7a", null ],
+    [ "DamageTaken", "d2/d0c/a12611.html#a837e9284a2e2b3fe5467cca4fd09c60f", null ],
+    [ "JustDied", "d2/d0c/a12611.html#ac79c249652f1de37b0c7d31a86dd0e51", null ],
+    [ "JustEngagedWith", "d2/d0c/a12611.html#a11a9b1a8a24b9bc9965d655a6f856ef0", null ],
+    [ "KilledUnit", "d2/d0c/a12611.html#ad7470576e9dd08d5fc47259d8de943b2", null ],
+    [ "OnPowerUpdate", "d2/d0c/a12611.html#a3ac487d431bc444cd8c39bb813260737", null ],
+    [ "Reset", "d2/d0c/a12611.html#a03def93f3e3f33d4f760e9f7c7c85d86", null ],
+    [ "SetGUID", "d2/d0c/a12611.html#a92e6d82da2a865220432c919d8593d00", null ],
+    [ "UpdateAI", "d2/d0c/a12611.html#ae80c5bc869136e2ce2c5b4f6cfdc6ea4", null ],
+    [ "_atieshReaction", "d2/d0c/a12611.html#a88c6677edc8a37ac1e36fe6f1688d847", null ],
+    [ "_currentNormalSpell", "d2/d0c/a12611.html#a4384769fb6eb868c612ed34cbb6b2409", null ],
+    [ "_drinking", "d2/d0c/a12611.html#a84a6941826c6c2f1f70965e8909f796e", null ],
+    [ "_drinkScheduler", "d2/d0c/a12611.html#a47e88dcf0027bd197350df7f80bc42d3", null ],
+    [ "_hasDrunk", "d2/d0c/a12611.html#a93bec133a8a1ba41aa9eb86ff19e5eca", null ],
+    [ "_lastSuperSpell", "d2/d0c/a12611.html#afe99b96811ff1e61ea6bbdce42fe8d7d", null ]
 ];

@@ -1,7 +1,10 @@
 var a02936 =
 [
-    [ "WhoListPlayerInfo", "da/dfa/a07432.html", "da/dfa/a07432" ],
-    [ "WhoListCacheMgr", "dc/d6f/a07436.html", "dc/d6f/a07436" ],
-    [ "sWhoListCacheMgr", "d0/d08/a02936.html#aae5ef4cf031d5523b7d5fda6d83af41a", null ],
-    [ "WhoListInfoVector", "d0/d08/a02936.html#a88bd249c0903724edb2c2d5416962534", null ]
+    [ "SavedAddonsList", "d0/d08/a02936.html#afa468163a23ed58507a89e5724c06eac", null ],
+    [ "GetAddonInfo", "d0/d08/a02936.html#a65cb6a88902972060e44c57d7d9ec738", null ],
+    [ "GetBannedAddons", "d0/d08/a02936.html#ad7d0938e7463238a86e8c811e1a58800", null ],
+    [ "LoadFromDB", "d0/d08/a02936.html#aaa12f5b754e6b664dbfb2428478bee03", null ],
+    [ "SaveAddon", "d0/d08/a02936.html#a85021021149b7eb4d78cbe81e43d3d45", null ],
+    [ "m_bannedAddons", "d0/d08/a02936.html#a83195dfb437a3f713fa0ccd6c24477ed", null ],
+    [ "m_knownAddons", "d0/d08/a02936.html#a6cd3e278f71724491a7a3b8167eab60e", null ]
 ];

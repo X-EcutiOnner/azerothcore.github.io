@@ -1,11 +1,9 @@
 var a14327 =
 [
-    [ "HandleFinish", "d7/d92/a14327.html#ace3a2ad0cf8ac31f7ef5345f1dbbf6e7", null ],
-    [ "HandleScript", "d7/d92/a14327.html#a2a2f005c29f0381c3c45d04a75ccc378", null ],
-    [ "Load", "d7/d92/a14327.html#a177ea78202f4d5b4c381f1712b01fe43", null ],
-    [ "PrepareSpellScript", "d7/d92/a14327.html#a9714f48de3982feb245f78efb8008f1b", null ],
-    [ "Register", "d7/d92/a14327.html#ad24c159a0dcfb86eb35a4286f606a3ab", null ],
-    [ "ThrowNextTorch", "d7/d92/a14327.html#a6ea11852ede397c1ede1ebaabb906c35", null ],
-    [ "Validate", "d7/d92/a14327.html#a026fbf7123f6780459c19ff04b370b08", null ],
-    [ "handled", "d7/d92/a14327.html#a869fde9e5d0756d3c68a8db3e10ad50d", null ]
+    [ "npc_love_in_air_snivel", "d7/d92/a14327.html#ab04596fb96292f54cf2a10f662dc94a3", null ],
+    [ "AllowAction", "d7/d92/a14327.html#af1097317f62bbb8f8456124001c73576", null ],
+    [ "MoveInLineOfSight", "d7/d92/a14327.html#ae6537707109b95fad20e521d07867cdd", null ],
+    [ "Reset", "d7/d92/a14327.html#a2385ea44d9f44735b193add4a0d0485b", null ],
+    [ "UpdateAI", "d7/d92/a14327.html#a9e712994663e3442359d2f574ebc812c", null ],
+    [ "delay", "d7/d92/a14327.html#a548db6245ef875ec47279246e437934c", null ]
 ];

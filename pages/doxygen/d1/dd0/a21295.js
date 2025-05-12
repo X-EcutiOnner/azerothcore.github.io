@@ -1,6 +1,6 @@
 var a21295 =
 [
-    [ "boss_lavanthorAI", "d9/df4/a21299.html", "d9/df4/a21299" ],
-    [ "boss_lavanthor", "d1/dd0/a21295.html#aa935ffe07f59db59b9b8484f22927026", null ],
-    [ "GetAI", "d1/dd0/a21295.html#aae09ecbe56efac6538bdfb6120e0be40", null ]
+    [ "instance_violet_hold_InstanceMapScript", "d9/df4/a21299.html", "d9/df4/a21299" ],
+    [ "instance_violet_hold", "d1/dd0/a21295.html#ae66f018196cd90683506c3cc3d8c5d7a", null ],
+    [ "GetInstanceScript", "d1/dd0/a21295.html#aeedcbb24b0709bd172ebbbc6d9851532", null ]
 ];

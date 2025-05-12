@@ -1,14 +1,21 @@
 var a09463 =
 [
-    [ "areaMapOffset", "d6/db9/a09463.html#a70f82337112bb8cbff0b3344666885a1", null ],
-    [ "areaMapSize", "d6/db9/a09463.html#adfbbb622974b7942f47dd16d2300246f", null ],
-    [ "buildMagic", "d6/db9/a09463.html#a82d0f500f9e84cf6c8bf917a98f92115", null ],
-    [ "heightMapOffset", "d6/db9/a09463.html#a7623bee6b8cf7d6e39b8716aa72f8514", null ],
-    [ "heightMapSize", "d6/db9/a09463.html#a71c9cd42801697a927543e3acd4c3daf", null ],
-    [ "holesOffset", "d6/db9/a09463.html#a876d70dcd6ccec9ad09de77718c02150", null ],
-    [ "holesSize", "d6/db9/a09463.html#a3c3cc1895a47dc69265f4b58166c3f6b", null ],
-    [ "liquidMapOffset", "d6/db9/a09463.html#ac62deafcc7b435caf4a0f6aafd3d85be", null ],
-    [ "liquidMapSize", "d6/db9/a09463.html#a5aa18af3a8e029e8842ddf72fc5d5267", null ],
-    [ "mapMagic", "d6/db9/a09463.html#a2691fbc981b2ed5e1d748cd9c0859548", null ],
-    [ "versionMagic", "d6/db9/a09463.html#abe722f653ba057fbba84401acbaffbfa", null ]
+    [ "PlayerVote", "d6/db9/a09463.html#a9b86264db334335ec202909fc7130b77", null ],
+    [ "Roll", "d6/db9/a09463.html#abffce9339088167e812f51481c336bf7", null ],
+    [ "~Roll", "d6/db9/a09463.html#a843879734a9c86a97d7f26b672f37f2a", null ],
+    [ "getLoot", "d6/db9/a09463.html#af0c8c87b3fa9cd45cf51e774123d3b58", null ],
+    [ "setLoot", "d6/db9/a09463.html#a34869ee15d87708859cd51262ad160fc", null ],
+    [ "targetObjectBuildLink", "d6/db9/a09463.html#a2dc422a05158521f857caf7dce005f72", null ],
+    [ "itemCount", "d6/db9/a09463.html#a7c98449785629933a0e5e8bee7deb272", null ],
+    [ "itemGUID", "d6/db9/a09463.html#af4877388e7efe95452541a3d2788fa7f", null ],
+    [ "itemid", "d6/db9/a09463.html#a7b40118e2d489177a268301636b9994f", null ],
+    [ "itemRandomPropId", "d6/db9/a09463.html#a5154a19624a6e0d9657a697f9b235491", null ],
+    [ "itemRandomSuffix", "d6/db9/a09463.html#acfd3e2d5fb152a9848e6e4fe47111bad", null ],
+    [ "itemSlot", "d6/db9/a09463.html#a6e170a8296949cd76baa7992f30a61d6", null ],
+    [ "playerVote", "d6/db9/a09463.html#aff97626c4d749bf0acbd165f289b5a57", null ],
+    [ "rollVoteMask", "d6/db9/a09463.html#a9c86d54397c4ce46d691e77cc476ffe6", null ],
+    [ "totalGreed", "d6/db9/a09463.html#a6187dd03a275f9e51d489709c9cf6d13", null ],
+    [ "totalNeed", "d6/db9/a09463.html#ae02ba19cfd317143e839cd4a3751a3eb", null ],
+    [ "totalPass", "d6/db9/a09463.html#aeeac3fb83c410a3d256c0cbf45f48e95", null ],
+    [ "totalPlayersRolling", "d6/db9/a09463.html#a6a6ea6885bc68272520c018a83b2106f", null ]
 ];

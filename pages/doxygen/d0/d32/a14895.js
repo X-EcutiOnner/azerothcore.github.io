@@ -1,5 +1,7 @@
 var a14895 =
 [
-    [ "boss_kri", "d0/d32/a14895.html#a0a95f8d2a380ab48ffd5a034e012cc2c", null ],
-    [ "JustEngagedWith", "d0/d32/a14895.html#ab2169ec49ecbff2ee1460e38bd1a163e", null ]
+    [ "go_sand_trap", "d0/d32/a14895.html#a58d45acac672cb05988ddca78185b469", null ],
+    [ "Reset", "d0/d32/a14895.html#a7071a3e420e9137ca133b471bc217bf3", null ],
+    [ "UpdateAI", "d0/d32/a14895.html#a2e4a5fec4d4c790233ca97e6a7732ac4", null ],
+    [ "_scheduler", "d0/d32/a14895.html#af845c0efb3d8ebe53d3620970a84f1e4", null ]
 ];

@@ -1,6 +1,7 @@
 var a17599 =
 [
-    [ "npc_cult_fanaticAI", "d2/d00/a17603.html", "d2/d00/a17603" ],
-    [ "npc_cult_fanatic", "db/d8c/a17599.html#af29ab8f7628b96b0f192bccab74ca02e", null ],
-    [ "GetAI", "db/d8c/a17599.html#ae4d22bac12d17d79669d3fccd4029952", null ]
+    [ "HandleDummy", "db/d8c/a17599.html#a6e5d70c35420384305d7faf991072b38", null ],
+    [ "PrepareSpellScript", "db/d8c/a17599.html#a64f912555853aab5693692b22eba52c4", null ],
+    [ "Register", "db/d8c/a17599.html#a797ec701f2e3f2949680eb935a9c5c3f", null ],
+    [ "Validate", "db/d8c/a17599.html#afda7fd86e2fc2c40870904065ffcfe50", null ]
 ];

@@ -1,6 +1,5 @@
 var a15719 =
 [
-    [ "PrepareSpellScript", "d5/d10/a15719.html#a2a3602af522bb8658c1bfdede1234efd", null ],
-    [ "Register", "d5/d10/a15719.html#aba235111ea4e186064a85295466f2a3f", null ],
-    [ "SetDest", "d5/d10/a15719.html#a89827e4db37bea4847c79265d95386c6", null ]
+    [ "achievement_respect_your_elders", "d5/d10/a15719.html#a2fd66ada0ff7482c00b2cb417a12e88e", null ],
+    [ "OnCheck", "d5/d10/a15719.html#a770922be3ab19848f7a8f43a82d78b88", null ]
 ];

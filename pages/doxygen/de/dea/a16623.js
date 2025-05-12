@@ -1,6 +1,7 @@
 var a16623 =
 [
-    [ "npc_fos_corrupted_soul_fragmentAI", "d3/d18/a16627.html", "d3/d18/a16627" ],
-    [ "npc_fos_corrupted_soul_fragment", "de/dea/a16623.html#a4caefccfdfee2e906eb94e34bceb064c", null ],
-    [ "GetAI", "de/dea/a16623.html#aed663e0a313223fcaa988b89b1b02df3", null ]
+    [ "HandleScriptEffect", "de/dea/a16623.html#a62cef31900cd61167823f3e66aa2d64b", null ],
+    [ "PrepareSpellScript", "de/dea/a16623.html#aff3fc5d7d6185bcb09d14f1408a67aad", null ],
+    [ "Register", "de/dea/a16623.html#ac73b3f568ce54f9b59b2b23f069da3c1", null ],
+    [ "Validate", "de/dea/a16623.html#aab4d84e896c8225d8d131558aaa71dbe", null ]
 ];

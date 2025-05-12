@@ -1,6 +1,10 @@
 var a21443 =
 [
-    [ "npc_violet_hold_defense_system", "df/d59/a21443.html#abb5eb275e803201aad3010ad77aa4b41", null ],
-    [ "Reset", "df/d59/a21443.html#a77925ae6097f7a52d446ee20bbb3de62", null ],
-    [ "UpdateAI", "df/d59/a21443.html#ab39bc3da2d7ce33be1e27cd48fc16e89", null ]
+    [ "npc_jenny", "df/d59/a21443.html#ab845ba4551900a03c5a995d348a1be55", null ],
+    [ "DamageTaken", "df/d59/a21443.html#a8700091c82bfff473f3d5563deb69e0b", null ],
+    [ "Initialize", "df/d59/a21443.html#aab8c540ebb90ebbaef961b1feb3013a3", null ],
+    [ "MoveInLineOfSight", "df/d59/a21443.html#acd0939cee3ecb9d961d09815d9c50f71", null ],
+    [ "UpdateFollowerAI", "df/d59/a21443.html#afbd142855602bcf7a8cd8e4cc4760cf0", null ],
+    [ "_events", "df/d59/a21443.html#aa98caf8b706551470c943b4b722a85ae", null ],
+    [ "_fezzix", "df/d59/a21443.html#ac2115c122c2eac2d5a36d1795d1e6bf0", null ]
 ];

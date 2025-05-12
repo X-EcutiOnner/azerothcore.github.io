@@ -1,12 +1,7 @@
 var a07895 =
 [
-    [ "GameObjectModelOwnerImpl", "d9/db3/a07895.html#adb8b3b555ad6cd75c1ee7a1f71a08af7", null ],
-    [ "DebugVisualizeCorner", "d9/db3/a07895.html#af8553967b9788d69da9fcb8cdb647f9c", null ],
-    [ "GetDisplayId", "d9/db3/a07895.html#a4a694456955c19e76d8c84befc02c920", null ],
-    [ "GetOrientation", "d9/db3/a07895.html#acb968e3bd921aac111a2e06f2604b040", null ],
-    [ "GetPhaseMask", "d9/db3/a07895.html#ad0b9a01502c49f16a47e35694d3e6c10", null ],
-    [ "GetPosition", "d9/db3/a07895.html#a9ba2b29d30b38895effe97637e050988", null ],
-    [ "GetScale", "d9/db3/a07895.html#a3d72c1810a41e2baa7e87ab26f4674f9", null ],
-    [ "IsSpawned", "d9/db3/a07895.html#ae47eb25d16de37122042402443db6f3d", null ],
-    [ "_owner", "d9/db3/a07895.html#a7909f7095341dde39bf47fc12a0c15b0", null ]
+    [ "LfgJoinResultData", "d9/db3/a07895.html#a1d711d49a6b49f55eb3771352b294b95", null ],
+    [ "lockmap", "d9/db3/a07895.html#aff918b3c02ca76982a964402175f8ad7", null ],
+    [ "result", "d9/db3/a07895.html#aa713cbc1930962d520883523f6f6446c", null ],
+    [ "state", "d9/db3/a07895.html#a2eee5e81651a7a9be245e4b717ab53ed", null ]
 ];

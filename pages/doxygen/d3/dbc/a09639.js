@@ -1,7 +1,7 @@
 var a09639 =
 [
-    [ "Finalize", "d3/dbc/a09639.html#a90c8b42ef67968bf58acae5678dc7496", null ],
-    [ "Initialize", "d3/dbc/a09639.html#ad6b97c3e2884dfbe3f17e2579b31ac66", null ],
-    [ "Reset", "d3/dbc/a09639.html#a6db99ea9863dc60d032bacda37afa078", null ],
-    [ "Update", "d3/dbc/a09639.html#af044c8725ef11e8a152987225521ef8b", null ]
+    [ "LootGroupInvalidSelector", "d3/dbc/a09639.html#abea815e8ee0d31cc64b3fd7f46033cca", null ],
+    [ "operator()", "d3/dbc/a09639.html#a2ea426fdeced03324c4a63184c2c1fc4", null ],
+    [ "_loot", "d3/dbc/a09639.html#a67b9d223426512af79bbf5b035c18a6d", null ],
+    [ "_lootMode", "d3/dbc/a09639.html#a10e307846a0731aa812388c29c0d4bc8", null ]
 ];

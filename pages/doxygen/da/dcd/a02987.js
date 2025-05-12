@@ -1,5 +1,7 @@
 var a02987 =
 [
-    [ "GetEnableModulesList", "da/dcd/a02987.html#a2a2aa3aabfbef586b9a1e63fbae0e0f7", null ],
-    [ "SetEnableModulesList", "da/dcd/a02987.html#ac16569c9333f642e54fa7a4ec6a948e3", null ]
+    [ "canCreateExtraItems", "da/dcd/a02987.html#a49687e255d65fa15dac5e6a428c5739d", null ],
+    [ "CanCreatePerfectItem", "da/dcd/a02987.html#a818c557864790091814604b6d2175e52", null ],
+    [ "LoadSkillExtraItemTable", "da/dcd/a02987.html#a3244d04018405bafe21acc8bc96cc743", null ],
+    [ "LoadSkillPerfectItemTable", "da/dcd/a02987.html#a121df170a82be5ab5b05999a6be27b69", null ]
 ];

@@ -1,6 +1,6 @@
 var a18443 =
 [
-    [ "CaptainSurviveTalk", "d3/dde/a18443.html#a43a1b1da17ed41ae765aabc47c858f80", null ],
-    [ "Execute", "d3/dde/a18443.html#a871cf08e8c7fced2971cae8abbc20454", null ],
-    [ "_owner", "d3/dde/a18443.html#ac8de506afb4688560ea637918d07b01e", null ]
+    [ "HandleScript", "d3/dde/a18443.html#a930b8a515b5d156c16925dc218cf8172", null ],
+    [ "PrepareSpellScript", "d3/dde/a18443.html#a892b0ba0f6541b3557a0200be5028479", null ],
+    [ "Register", "d3/dde/a18443.html#a1eb85bc675a89ef9679e673c1fea9a08", null ]
 ];

@@ -1,4 +1,8 @@
 var a04358 =
 [
-    [ "ScriptRegistry< MiscScript >", "df/d88/a04358.html#a925ee1bbb5e173c3d816d0ae35b38a67", null ]
+    [ "BasicEvent", "d1/db0/a05447.html", "d1/db0/a05447" ],
+    [ "LambdaBasicEvent< T >", "dc/d83/a05451.html", "dc/d83/a05451" ],
+    [ "EventProcessor", "d3/dd4/a05455.html", "d3/dd4/a05455" ],
+    [ "EventList", "df/d88/a04358.html#a393840b719db78b29da806c1237fceb0", null ],
+    [ "is_lambda_event", "df/d88/a04358.html#a62fdca14f042b8645ab0d19029b80d9b", null ]
 ];

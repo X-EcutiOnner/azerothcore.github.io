@@ -1,6 +1,10 @@
 var a10347 =
 [
-    [ "GuildDemoteMember", "d2/dc1/a10347.html#aa3d68021828c516d7b1995811e8df7d7", null ],
-    [ "Read", "d2/dc1/a10347.html#aca46670c89e3d15df6a3f6694ab3dcb6", null ],
-    [ "Demotee", "d2/dc1/a10347.html#a60c7e56c201d794fb473a62fccc160bb", null ]
+    [ "TicketScript", "d2/dc1/a10347.html#aec2b310ba0b26aa84a245207256edb0e", null ],
+    [ "IsDatabaseBound", "d2/dc1/a10347.html#afa21fa5aaf58c4ff964bcb3f81afbb32", null ],
+    [ "OnTicketClose", "d2/dc1/a10347.html#add082bd9a2d3a068bbb8f3a97d130887", null ],
+    [ "OnTicketCreate", "d2/dc1/a10347.html#a3436bbc78425bf5144c81f6309060b33", null ],
+    [ "OnTicketResolve", "d2/dc1/a10347.html#abd4d9cdf0fd99c10d6d86c395adecb9a", null ],
+    [ "OnTicketStatusUpdate", "d2/dc1/a10347.html#ae30b28cef4497cbed153c3e98e26d00d", null ],
+    [ "OnTicketUpdateLastChange", "d2/dc1/a10347.html#a3535e5592bc5f9ceb6b642b80a4f46b7", null ]
 ];

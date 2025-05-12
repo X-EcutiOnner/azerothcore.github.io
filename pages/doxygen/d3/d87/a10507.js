@@ -1,6 +1,7 @@
 var a10507 =
 [
-    [ "UITime", "d3/d87/a10507.html#a24311ce7df9e9a0f40a3c5473cef34b3", null ],
-    [ "Write", "d3/d87/a10507.html#ab24cdd76abd5914c3a30ee42c7681855", null ],
-    [ "Time", "d3/d87/a10507.html#ac4ad6c7c425167e90fd2497f7ebaec4c", null ]
+    [ "QueryGuildInfoResponse", "d3/d87/a10507.html#ae1f7b9f33e36821477a19439a3d4065d", null ],
+    [ "Write", "d3/d87/a10507.html#abda9452eba38e76c460f910eb3aad5fa", null ],
+    [ "GuildId", "d3/d87/a10507.html#a04eec0531238fa55a91afa11c394fbce", null ],
+    [ "Info", "d3/d87/a10507.html#a749e992a19264b259f62d403b4925abe", null ]
 ];

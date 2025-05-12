@@ -1,5 +1,7 @@
 var a17715 =
 [
-    [ "npc_volatile_oozeAI", "dc/ded/a17715.html#af042d4c22482aabcdad6fa867dfe093f", null ],
-    [ "CastMainSpell", "dc/ded/a17715.html#a91890785174ecc60c9553a0aedf1961b", null ]
+    [ "HandleSpikes", "dc/ded/a17715.html#a012d61aacf79b9b1f5b4b5c5c81b5ed4", null ],
+    [ "PrepareSpellScript", "dc/ded/a17715.html#a6ffb6454eb4c58a1b66356814c13b659", null ],
+    [ "Register", "dc/ded/a17715.html#a893345cf191d084a0f97a8464b7d381a", null ],
+    [ "Validate", "dc/ded/a17715.html#aa6545760706d8695aefd4064c3c71c6b", null ]
 ];

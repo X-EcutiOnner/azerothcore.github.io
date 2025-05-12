@@ -1,7 +1,6 @@
 var a14271 =
 [
-    [ "OnApply", "d3/d56/a14271.html#a42148069675e663456bb5495fa5c8702", null ],
-    [ "OnPeriodic", "d3/d56/a14271.html#ad3582b02b369e3029e20817dd19aede0", null ],
-    [ "PrepareAuraScript", "d3/d56/a14271.html#a4e53e6cc02ce44d85fdf5497c006d7d9", null ],
-    [ "Register", "d3/d56/a14271.html#a8970b2ae63e0ba2e238aa6309d713b62", null ]
+    [ "HandleScript", "d3/d56/a14271.html#a4077b809530d28bed0a9419b5a745f42", null ],
+    [ "PrepareSpellScript", "d3/d56/a14271.html#a97eb6d1fcdcf0628433e5bec68785932", null ],
+    [ "Register", "d3/d56/a14271.html#ac09b1c86655eef0febaccff86533b28f", null ]
 ];

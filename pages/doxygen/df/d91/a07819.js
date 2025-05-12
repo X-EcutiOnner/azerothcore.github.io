@@ -1,12 +1,8 @@
 var a07819 =
 [
-    [ "TrainerSpell", "df/d91/a07819.html#a87a098774b32babfcf2000e3330a25b9", null ],
-    [ "IsCastable", "df/d91/a07819.html#a2f638f0e068623d38f0dab7c346ac8ed", null ],
-    [ "learnedSpell", "df/d91/a07819.html#a2396712a58fa61f340632de48dac9b78", null ],
-    [ "reqLevel", "df/d91/a07819.html#ac71afa7c180905ae4247011b2f40f929", null ],
-    [ "reqSkill", "df/d91/a07819.html#ac0a74c104994e36ba95703689ed92964", null ],
-    [ "reqSkillValue", "df/d91/a07819.html#a1187d182a512ae0f40af6ea36a4911db", null ],
-    [ "reqSpell", "df/d91/a07819.html#a6f2d3fa6a5f4403822b924f64e796deb", null ],
-    [ "spell", "df/d91/a07819.html#af7649fcfa5e6ca77c7d0aa9ef474b44c", null ],
-    [ "spellCost", "df/d91/a07819.html#a9adb80199e22a0db5d4eb262d9edbfe8", null ]
+    [ "UnitBaseEvent", "df/d91/a07819.html#a2d4586c59a7595374d427a15924c34fd", null ],
+    [ "getType", "df/d91/a07819.html#a7619b09043a8a729df77502786216aff", null ],
+    [ "matchesTypeMask", "df/d91/a07819.html#a05103aacf99310a6c9e602296d56f168", null ],
+    [ "setType", "df/d91/a07819.html#a1a3ae3042df9ca91d17a1c3320579867", null ],
+    [ "iType", "df/d91/a07819.html#a528a4023be375f43f4ac33b55f5c95d9", null ]
 ];

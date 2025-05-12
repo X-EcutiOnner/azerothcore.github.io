@@ -1,8 +1,8 @@
 var a22251 =
 [
-    [ "npc_freed_protodrakeAI", "da/d6e/a22251.html#a9e80808035be749c87a1170f37ac3daf", null ],
-    [ "MovementInform", "da/d6e/a22251.html#af056f3c12a314acd8a7e8c6c381b9436", null ],
-    [ "Reset", "da/d6e/a22251.html#ab5781438300442bb7bcb4510aec9d233", null ],
-    [ "UpdateAI", "da/d6e/a22251.html#a9e83b133444e977c35e90b700149472c", null ],
-    [ "events", "da/d6e/a22251.html#ac2e34b9a53ff55d177327ec95dca5466", null ]
+    [ "npc_wg_spirit_guideAI", "d9/d3f/a22255.html", "d9/d3f/a22255" ],
+    [ "npc_wg_spirit_guide", "da/d6e/a22251.html#ad6ca047a51547203ee2c5f69efb6f2d3", null ],
+    [ "GetAI", "da/d6e/a22251.html#a769cdf4ac330b5dec71437d325aaf46a", null ],
+    [ "OnGossipHello", "da/d6e/a22251.html#a2d46078cb47f817239685d168f7f2e35", null ],
+    [ "OnGossipSelect", "da/d6e/a22251.html#aae050d38b9fa9c16d398d2733b1e5faf", null ]
 ];

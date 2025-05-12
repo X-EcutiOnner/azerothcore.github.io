@@ -1,12 +1,7 @@
 var a13443 =
 [
-    [ "npc_lady_sylvanas_windrunnerAI", "dd/d6c/a13443.html#ad6eefe9a14ce64b12b65a22c3ebb4db0", null ],
-    [ "JustEngagedWith", "dd/d6c/a13443.html#a36324482fb264cc3cacf11c3ed542eee", null ],
-    [ "JustSummoned", "dd/d6c/a13443.html#a456ee6f4b5b8cdd79647a42185265be8", null ],
-    [ "Reset", "dd/d6c/a13443.html#ad4c6cb31a8d3dc280e689d5d29e27479", null ],
-    [ "SetGUID", "dd/d6c/a13443.html#aa5270e7468dcafba98d3ee72752771ce", null ],
-    [ "UpdateAI", "dd/d6c/a13443.html#ab704e4f3af8aa734910efd259db31407", null ],
-    [ "_events", "dd/d6c/a13443.html#a621d4db4fac3a7c3d08defa2a8ed06d0", null ],
-    [ "LamentEvent", "dd/d6c/a13443.html#ace9e901a965665e0f97cb9646af308aa", null ],
-    [ "playerGUID", "dd/d6c/a13443.html#aa125ab2a33dbf9f1d40f238e7d45000d", null ]
+    [ "npc_eris_hevenfireAI", "d4/daf/a13447.html", "d4/daf/a13447" ],
+    [ "npc_eris_hevenfire", "dd/d6c/a13443.html#a77f0836dc0b19114316b8b67839d8033", null ],
+    [ "GetAI", "dd/d6c/a13443.html#ad67a81ad20fac785c199c16fea8fe6f8", null ],
+    [ "OnQuestAccept", "dd/d6c/a13443.html#a1e0baec5706cfddd678b58eb9359997e", null ]
 ];

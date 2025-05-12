@@ -1,9 +1,8 @@
 var a18203 =
 [
-    [ "HandleScript", "d2/df0/a18203.html#adaab7b03edc6ff147e856dc0cdfc5ad0", null ],
-    [ "Load", "d2/df0/a18203.html#aa2a5488ff4706a44350bd969d57a99e1", null ],
-    [ "PrepareSpellScript", "d2/df0/a18203.html#a73931c9434114749b9db648665153083", null ],
-    [ "Register", "d2/df0/a18203.html#a16b01725a1b2a105df365e0b178a4f0f", null ],
-    [ "SelectTarget", "d2/df0/a18203.html#a95be527c43ceeb4801f4e494753c1b59", null ],
-    [ "_target", "d2/df0/a18203.html#a2e97dd4fd1fd2ea2ba8bf3d335711de8", null ]
+    [ "ChangeDamageAndGrow", "d2/df0/a18203.html#a017ade08eca93f326d2e5115c4d88c33", null ],
+    [ "CorrectRange", "d2/df0/a18203.html#a9022b9efab89bc562428520b3551ff37", null ],
+    [ "PrepareSpellScript", "d2/df0/a18203.html#a3e1d1764add95728428cbf25f9b66dc4", null ],
+    [ "Register", "d2/df0/a18203.html#a998b810cdbecbca2bf65f18cee14d286", null ],
+    [ "Validate", "d2/df0/a18203.html#afe0910e903f6f8f466b272ce9ddc7a6b", null ]
 ];

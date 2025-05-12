@@ -1,6 +1,7 @@
 var a17303 =
 [
-    [ "npc_saurfang_eventAI", "d0/de2/a17307.html", "d0/de2/a17307" ],
-    [ "npc_saurfang_event", "d5/d10/a17303.html#a3bfce5457466360458498833098d660c", null ],
-    [ "GetAI", "d5/d10/a17303.html#a953842d2fa3380a8331faf3a42cb3177", null ]
+    [ "OnProc", "d5/d10/a17303.html#a5b6e96abb900da33657cdbbd137138e3", null ],
+    [ "PrepareAuraScript", "d5/d10/a17303.html#a5502476536a923e77af67c4bbcf005e3", null ],
+    [ "Register", "d5/d10/a17303.html#aca08edf219504156d6157c95702bb815", null ],
+    [ "Validate", "d5/d10/a17303.html#a52b1231f37e8b3d810614365659a98b6", null ]
 ];

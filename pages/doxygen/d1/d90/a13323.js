@@ -1,10 +1,9 @@
 var a13323 =
 [
-    [ "npc_sentinel_leader", "d1/d90/a13323.html#a583c43b047dd5c172938d60ef647ecd5", null ],
-    [ "JustEngagedWith", "d1/d90/a13323.html#a92c83a7fcc04df1db3be1d16f4a461d0", null ],
-    [ "MovementInform", "d1/d90/a13323.html#a6d51ada16fac1f5eda8b09aede746a4b", null ],
-    [ "Reset", "d1/d90/a13323.html#ad638ba6ce33753af6a0165c053a90d78", null ],
-    [ "UpdateAI", "d1/d90/a13323.html#aa689bb8189eb8cf842a0aa63bb9f1a73", null ],
-    [ "_events", "d1/d90/a13323.html#ada65bdf153ae9b3262b0f55fb540be17", null ],
-    [ "_helpCalled", "d1/d90/a13323.html#a803c324e790cd74e90ff6c2adde37ba3", null ]
+    [ "boss_muru", "d1/d90/a13323.html#a6e51cd6b3283f011fc834e0cc59f46e6", null ],
+    [ "DamageTaken", "d1/d90/a13323.html#a570c8cc6aaefaac4063d9f1053c04b32", null ],
+    [ "JustEngagedWith", "d1/d90/a13323.html#a305f5f20fbe3d15885ed3e6248d96ec6", null ],
+    [ "JustSummoned", "d1/d90/a13323.html#a7cf18b5f12586d122ece406feaa5bc39", null ],
+    [ "MoveInLineOfSight", "d1/d90/a13323.html#aa589d640b73c0b3e944585bdc702a8ee", null ],
+    [ "Reset", "d1/d90/a13323.html#a177aed9c1e5c1380fc8ea5f8c29650c6", null ]
 ];

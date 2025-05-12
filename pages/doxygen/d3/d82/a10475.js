@@ -1,7 +1,8 @@
 var a10475 =
 [
-    [ "Playsound", "d3/d82/a10475.html#a955f91d0d65c64f154f99b3b9472e273", null ],
-    [ "Playsound", "d3/d82/a10475.html#aa242d4ca729d67d7fd58dc81985f22f9", null ],
-    [ "Write", "d3/d82/a10475.html#acb4bdd9a1613a158832115e4c18bfcd9", null ],
-    [ "SoundKitID", "d3/d82/a10475.html#a922cb6d06285bdf9f3d89ff990c40b0a", null ]
+    [ "PlayedTime", "d3/d82/a10475.html#abc477d90a27dc41a7c643448302464cf", null ],
+    [ "Write", "d3/d82/a10475.html#a147071f2545cd91213d6c92dab7438c7", null ],
+    [ "LevelTime", "d3/d82/a10475.html#a2bf832827f9497a59bbfac714799b4b5", null ],
+    [ "TotalTime", "d3/d82/a10475.html#ae762fe00339a8f4ca6f9e14bb8515251", null ],
+    [ "TriggerScriptEvent", "d3/d82/a10475.html#a434b33c61ba5e2d91f084cbfe425c964", null ]
 ];

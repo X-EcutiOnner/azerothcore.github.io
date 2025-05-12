@@ -1,6 +1,5 @@
 var a22419 =
 [
-    [ "npc_crusade_recruitAI", "d5/dd3/a22423.html", "d5/dd3/a22423" ],
-    [ "npc_crusade_recruit", "d0/d95/a22419.html#a6e130f153c506255ef5ece1baf006028", null ],
-    [ "GetAI", "d0/d95/a22419.html#a412f0d153676758fda8c1f7f1e9dda44", null ]
+    [ "OutdoorPvP_grizzly_hills", "d0/d95/a22419.html#aa020d8120c62874fb15b4623bbb714d9", null ],
+    [ "GetOutdoorPvP", "d0/d95/a22419.html#add8a0c81bcc55c7b382c25fa077b80ce", null ]
 ];

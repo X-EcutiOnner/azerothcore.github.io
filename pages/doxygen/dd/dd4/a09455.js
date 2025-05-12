@@ -1,7 +1,8 @@
 var a09455 =
 [
-    [ "resetNotify", "dd/dd4/a09455.html#a1472e21d9af04662f3574bc2c7d3890c", null ],
-    [ "Visit", "dd/dd4/a09455.html#adfcdcf148b002c641638ddc70d577b14", null ],
-    [ "Visit", "dd/dd4/a09455.html#adf95512d4304962a5740b38c32ea28a7", null ],
-    [ "Visit", "dd/dd4/a09455.html#a725fc2c2504eecaa15841c27b367cd55", null ]
+    [ "LocalizedPacketDo", "dd/dd4/a09455.html#a9b7700f2a4958b91a67375ec9a40072c", null ],
+    [ "~LocalizedPacketDo", "dd/dd4/a09455.html#a4296260b2011e1f7c300987073863ca9", null ],
+    [ "operator()", "dd/dd4/a09455.html#a43449bdf0302e426b8cb4341326196b1", null ],
+    [ "i_builder", "dd/dd4/a09455.html#a2c794905898feb502bfc5d3760f962b8", null ],
+    [ "i_data_cache", "dd/dd4/a09455.html#a2bbff655e1a5268981c48e3ee028b104", null ]
 ];

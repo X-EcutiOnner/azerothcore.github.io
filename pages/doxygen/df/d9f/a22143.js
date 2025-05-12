@@ -1,6 +1,8 @@
 var a22143 =
 [
-    [ "npc_bushwhackerAI", "df/d9f/a22143.html#a0cf480b75aa45a9f3572c4a65df2daee", null ],
-    [ "InitializeAI", "df/d9f/a22143.html#a18db5870e62378ff49472f7a5881861c", null ],
-    [ "UpdateAI", "df/d9f/a22143.html#aadc3384626d728942897fe93750f0c02", null ]
+    [ "npc_vics_flying_machineAI", "df/d9f/a22143.html#a4464e0b1433c4ffb24ae7809b1a0eec5", null ],
+    [ "MovementInform", "df/d9f/a22143.html#ac4bbe0a3cccb6878d050b717b9efb320", null ],
+    [ "PassengerBoarded", "df/d9f/a22143.html#aa67dcbb4b43b047398fec2619ad61829", null ],
+    [ "SpellHit", "df/d9f/a22143.html#aa81229a104e1521d570abec4b6f7bca7", null ],
+    [ "pointId", "df/d9f/a22143.html#aa1412c23f0c3b964262e145c51aea974", null ]
 ];

@@ -1,12 +1,6 @@
 var a14623 =
 [
-    [ "boss_lieutenant_drake", "d9/db9/a14623.html#a67e00ef68d5b07023cc9dc7bd6a2289b", null ],
-    [ "InitializeAI", "d9/db9/a14623.html#a2b3eb857c0711b89b6e7a6f3f5f05441", null ],
-    [ "JustDied", "d9/db9/a14623.html#aca7654e30aac96fa509f99f3447121ec", null ],
-    [ "JustEngagedWith", "d9/db9/a14623.html#ae31ac13106d09b8b447aa8fd9d864e41", null ],
-    [ "KilledUnit", "d9/db9/a14623.html#a833c889c28ea35a6198fe753b604a8ed", null ],
-    [ "MovementInform", "d9/db9/a14623.html#aec6e332bc5739552cbbec27569c55759", null ],
-    [ "UpdateAI", "d9/db9/a14623.html#ad898722dfe01c2e4f814fc5af9f057b8", null ],
-    [ "pathId", "d9/db9/a14623.html#ac63f9c885296a797799c0cd83b0ade64", null ],
-    [ "runSecondPath", "d9/db9/a14623.html#a3ea53e2048224ac3bbc4dceda316d7c4", null ]
+    [ "boss_mal_ganisAI", "db/d7f/a14627.html", "db/d7f/a14627" ],
+    [ "boss_mal_ganis", "d9/db9/a14623.html#a604becb65e766f4fb71d2ae168d1be4e", null ],
+    [ "GetAI", "d9/db9/a14623.html#aa747abd11310c3535ea2ea37e4aac28b", null ]
 ];

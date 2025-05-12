@@ -1,11 +1,15 @@
 var a05043 =
 [
-    [ "ARC4", "d2/d61/a05043.html#ac05d4f85233abfc5cbcb87cd2a87bc5a", null ],
-    [ "~ARC4", "d2/d61/a05043.html#af3a8b63c2073120026c262a685eef8f2", null ],
-    [ "Init", "d2/d61/a05043.html#a68993c30cafb864abd5ae0c49ee8296e", null ],
-    [ "Init", "d2/d61/a05043.html#aaa9c89da159b57a897898bc31e10ecd4", null ],
-    [ "UpdateData", "d2/d61/a05043.html#ae350945f2713305e977e4a3e4fc3d5b5", null ],
-    [ "UpdateData", "d2/d61/a05043.html#a4023480221891e0d1ccd7a92aabd173c", null ],
-    [ "_cipher", "d2/d61/a05043.html#ab017c87cd73a9b5fade745799724c333", null ],
-    [ "_ctx", "d2/d61/a05043.html#a8539413b1e0344abe9545f742cc8e6df", null ]
+    [ "GetBounds", "d2/d61/a05043.html#a4a112397e75fbaf5fd991a322a8a4ea4", null ],
+    [ "operator==", "d2/d61/a05043.html#ab9713afd57c0bdf9f5ff8d5d12cd567f", null ],
+    [ "readFromFile", "d2/d61/a05043.html#a35d7880eb3e295ed3148ca05a2f4520e", null ],
+    [ "writeToFile", "d2/d61/a05043.html#ae8623dcb78a2af4c9aebd60f67649f34", null ],
+    [ "adtId", "d2/d61/a05043.html#a4ebcfe8326eff028e722c9972a16200b", null ],
+    [ "flags", "d2/d61/a05043.html#acfc7a76db09013abfad8e42aaae59f52", null ],
+    [ "iBound", "d2/d61/a05043.html#ae1dac1aa360c4d49b61a0cd8af92399c", null ],
+    [ "ID", "d2/d61/a05043.html#ab2fdb441870d6ac7ddc05640ec1d0598", null ],
+    [ "iPos", "d2/d61/a05043.html#abb5966f87710bc6a1f5da766c99b3e12", null ],
+    [ "iRot", "d2/d61/a05043.html#a6d0b4f6bde1a20b246e4b22cc43e25af", null ],
+    [ "iScale", "d2/d61/a05043.html#aad355d0fb09ff0360ed19610bef92d8e", null ],
+    [ "name", "d2/d61/a05043.html#a66e19a4a28f8fc0c537f1315d9bddcfb", null ]
 ];

@@ -1,41 +1,8 @@
 var a03482 =
 [
-    [ "FileCloser", "de/d08/a11380.html", "de/d08/a11380" ],
-    [ "BaseTable", "df/dc6/a11384.html", "df/dc6/a11384" ],
-    [ "DumpTable", "da/d88/a11388.html", "da/d88/a11388" ],
-    [ "StringTransaction", "d4/dc2/a11392.html", "d4/dc2/a11392" ],
-    [ "TableField", "d1/d90/a11396.html", "d1/d90/a11396" ],
-    [ "TableStruct", "dc/d43/a11400.html", "dc/d43/a11400" ],
-    [ "FileHandle", "d1/d07/a03482.html#ad7de4fbad2e55215496223bdf2a32cd9", null ],
-    [ "GuidType", "d1/d07/a03482.html#a786729c2a29db8efe3400a170aeb9073", [
-      [ "GUID_TYPE_ACCOUNT", "d1/d07/a03482.html#a786729c2a29db8efe3400a170aeb9073add99b8eef962c1e9a87a68646b4bf876", null ],
-      [ "GUID_TYPE_CHAR", "d1/d07/a03482.html#a786729c2a29db8efe3400a170aeb9073ac93e6c4d1a9efe0499f1c7a7b826821e", null ],
-      [ "GUID_TYPE_PET", "d1/d07/a03482.html#a786729c2a29db8efe3400a170aeb9073a69c016bd84f08697ac13b16609866466", null ],
-      [ "GUID_TYPE_MAIL", "d1/d07/a03482.html#a786729c2a29db8efe3400a170aeb9073a53f4408b25dfeb8012a6ff280c5abf34", null ],
-      [ "GUID_TYPE_ITEM", "d1/d07/a03482.html#a786729c2a29db8efe3400a170aeb9073ad1a7c19c45454ebb3d4fbaa8e7c23e02", null ],
-      [ "GUID_TYPE_EQUIPMENT_SET", "d1/d07/a03482.html#a786729c2a29db8efe3400a170aeb9073a7e486a867408d382ecfe7bfe1a79a157", null ],
-      [ "GUID_TYPE_NULL", "d1/d07/a03482.html#a786729c2a29db8efe3400a170aeb9073a4215597c66d8cb0ea684255c5b7a2874", null ]
-    ] ],
-    [ "AppendTableDump", "d1/d07/a03482.html#a372c4190050b1bd62a350242bd1ebeca", null ],
-    [ "AssertBaseTable", "d1/d07/a03482.html#a3e4f9eec1091165debd31a11766ccf29", null ],
-    [ "ChangeColumn", "d1/d07/a03482.html#a472b6d51c18d3fc72f924f199508ea12", null ],
-    [ "ChangeGuid", "d1/d07/a03482.html#a43971347cb9fd242d082d962c1b8184e", null ],
-    [ "FindColumn", "d1/d07/a03482.html#aefd4f8ad39e21517e1160f4209e9492f", null ],
-    [ "FindColumnByName", "d1/d07/a03482.html#aef6e6393d5903e926f3f8ed0d65501b3", null ],
-    [ "FixNULLfields", "d1/d07/a03482.html#ad06caa0201c6ed5de4537e124ac90086", null ],
-    [ "GenerateWhereStr", "d1/d07/a03482.html#af5ecd510e3a4c642ed2250c17649f925", null ],
-    [ "GenerateWhereStr", "d1/d07/a03482.html#a78a33c3255668abb77c4710ed82ab71d", null ],
-    [ "GetColumn", "d1/d07/a03482.html#a21507cf8ad94e164df4f1bfe273d32da", null ],
-    [ "GetColumnIndexByName", "d1/d07/a03482.html#a995022112291c980706933e2de6accf5", null ],
-    [ "GetFileHandle", "d1/d07/a03482.html#a4b7f4eca1fd3d5d501b08819b8949edb", null ],
-    [ "GetTableName", "d1/d07/a03482.html#af32b9d84c5a117bcf96df822301d8350", null ],
-    [ "MarkDependentColumn", "d1/d07/a03482.html#a17802f71d1e9f88bd6ded0e79a8b4405", null ],
-    [ "MarkWhereField", "d1/d07/a03482.html#ac8eb839b544e24a47a01c195daec540a", null ],
-    [ "RegisterNewGuid", "d1/d07/a03482.html#a99e441709c35a6ba0ffeda0e25143cf9", null ],
-    [ "StringsEqualCaseInsensitive", "d1/d07/a03482.html#a83fd95e505d5de193245e4de46589892", null ],
-    [ "ValidateFields", "d1/d07/a03482.html#ac091f551576a1206061821e3d95b9bc6", null ],
-    [ "BaseTables", "d1/d07/a03482.html#a9a85cce136a6d1ebc3195903ee719aec", null ],
-    [ "CharacterTables", "d1/d07/a03482.html#ae8849d3a4dc3838acedf5f6f84242c08", null ],
-    [ "DUMP_TABLE_COUNT", "d1/d07/a03482.html#a4d61020c5d40e9d3093656551dcc00f0", null ],
-    [ "DumpTables", "d1/d07/a03482.html#a846234dc3d2969c8ef6f67687a3a4049", null ]
+    [ "MailScript", "df/da3/a10307.html", "df/da3/a10307" ],
+    [ "MailHook", "d1/d07/a03482.html#a7a2fb0cc0937712e8aff65574e1068d6", [
+      [ "MAILHOOK_ON_BEFORE_MAIL_DRAFT_SEND_MAIL_TO", "d1/d07/a03482.html#a7a2fb0cc0937712e8aff65574e1068d6a8f3555a10968fd2749e256067782760f", null ],
+      [ "MAILHOOK_END", "d1/d07/a03482.html#a7a2fb0cc0937712e8aff65574e1068d6a97af521f76b0d427812db0ac3303f285", null ]
+    ] ]
 ];

@@ -1,6 +1,6 @@
 var a15779 =
 [
-    [ "boss_sartharionAI", "d9/d01/a15783.html", "d9/d01/a15783" ],
-    [ "boss_sartharion", "d3/da9/a15779.html#a6605aee69372d08fba8f4b4523896588", null ],
-    [ "GetAI", "d3/da9/a15779.html#aca5d66e0f5cdcafd6f9cd2c173f43839", null ]
+    [ "boss_anub_arakAI", "d9/d01/a15783.html", "d9/d01/a15783" ],
+    [ "boss_anub_arak", "d3/da9/a15779.html#ac2594f561b07069a312ed38c01d9c7da", null ],
+    [ "GetAI", "d3/da9/a15779.html#a8687594354d514b99e026797ee71c70d", null ]
 ];

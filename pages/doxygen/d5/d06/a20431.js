@@ -1,8 +1,5 @@
 var a20431 =
 [
-    [ "npc_ulduar_expedition_commanderAI", "d2/dd4/a20435.html", "d2/dd4/a20435" ],
-    [ "npc_ulduar_expedition_commander", "d5/d06/a20431.html#a8513554f686b75c29524fa5b2fa93ee4", null ],
-    [ "GetAI", "d5/d06/a20431.html#aa888a3634a643a103075d44c8f52d28a", null ],
-    [ "OnGossipHello", "d5/d06/a20431.html#a6b52abae7ec1be10fcb5385ec928b785", null ],
-    [ "OnGossipSelect", "d5/d06/a20431.html#a5d212e5e21d9ffb8c60e883e065c1801", null ]
+    [ "achievement_mimiron_set_up_us_the_bomb_13", "d5/d06/a20431.html#a74b0cafbc4be4261c8f8f2af3671cbd9", null ],
+    [ "OnCheck", "d5/d06/a20431.html#ac91196d094f159932ad871ffa9c0f405", null ]
 ];

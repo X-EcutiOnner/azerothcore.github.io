@@ -1,7 +1,10 @@
 var a14595 =
 [
-    [ "npc_cos_chromie_middle", "d6/db7/a14595.html#a1bb7229781c122d362e781d2737d0fd3", null ],
-    [ "OnGossipHello", "d6/db7/a14595.html#a105b62bd24fe3912c0f66c234a6dc670", null ],
-    [ "OnGossipSelect", "d6/db7/a14595.html#a37ebdd257ef22554c81cf3c062856141", null ],
-    [ "OnQuestAccept", "d6/db7/a14595.html#a6af52ce23a90e7d8418e2c414c9c0fd4", null ]
+    [ "npc_hyjal_frost_wyrm", "d6/db7/a14595.html#a7cdc8ef87d5ccb88777fa823e199b9ce", null ],
+    [ "AttackStart", "d6/db7/a14595.html#abaaea3bcbb8806ed9d807742273eb06d", null ],
+    [ "DoAction", "d6/db7/a14595.html#adab2b42c582cee234aea37d187b66138", null ],
+    [ "JustEngagedWith", "d6/db7/a14595.html#a23dace13bb2811dea43b63f0b970a2ce", null ],
+    [ "PathEndReached", "d6/db7/a14595.html#a2ec3137dad743e4766ca402282d913c7", null ],
+    [ "Reset", "d6/db7/a14595.html#a550c20113f4ebe4015f9a8088888f99b", null ],
+    [ "UpdateAI", "d6/db7/a14595.html#a182c3b440f74a4ebe6dee64651bf701f", null ]
 ];

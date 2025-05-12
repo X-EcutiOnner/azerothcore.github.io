@@ -1,11 +1,9 @@
 var a14111 =
 [
-    [ "npc_snowfall_glade_playmate", "d7/de6/a14111.html#aa31b472ad55b240faff4bc2c1ee02ebc", null ],
-    [ "MoveInLineOfSight", "d7/de6/a14111.html#a92143d0bd0eb57b59069ca7a66e16195", null ],
-    [ "Reset", "d7/de6/a14111.html#a89040d9843852b01123e102b49509857", null ],
-    [ "UpdateAI", "d7/de6/a14111.html#a6dedc1cae1e568a792341842e8a922e8", null ],
-    [ "orphanGUID", "d7/de6/a14111.html#ad9bdbee8ec178b0a6c7ff125dc698279", null ],
-    [ "phase", "d7/de6/a14111.html#a9a5b2348313063bc389b99158fc72e3f", null ],
-    [ "playerGUID", "d7/de6/a14111.html#a4ca4198fdbf3c98291255916ee53c637", null ],
-    [ "timer", "d7/de6/a14111.html#ac3d736f2cd62289b88940e0a6ddcd957", null ]
+    [ "CheckCast", "d7/de6/a14111.html#a02965b55e8efadbd21e5afdd824f1dec", null ],
+    [ "FilterTargets", "d7/de6/a14111.html#a9638048b4107db116474abf8e18d7760", null ],
+    [ "HandleBeforeHit", "d7/de6/a14111.html#a3567c72e999ad6ca9db15b4d6ddadafb", null ],
+    [ "HandleScriptEffect", "d7/de6/a14111.html#a47d6a6c1fcb2b04782e54d3797c1f42c", null ],
+    [ "PrepareSpellScript", "d7/de6/a14111.html#aab9211291bd9dab8255d94e4eb07bf8e", null ],
+    [ "Register", "d7/de6/a14111.html#a73e6c9c91dccb309207fa3aeb6bd9d6f", null ]
 ];

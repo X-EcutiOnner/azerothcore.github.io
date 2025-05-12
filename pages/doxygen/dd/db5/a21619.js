@@ -1,5 +1,6 @@
 var a21619 =
 [
-    [ "npc_mei_francis_mountAI", "dd/db5/a21619.html#aa9886ead02754faebff8b21eeb85dee6", null ],
-    [ "CanBeSeen", "dd/db5/a21619.html#ad5e33495339a0315bc7b01351810157e", null ]
+    [ "npc_dalaran_warriorAI", "d7/d59/a21623.html", "d7/d59/a21623" ],
+    [ "npc_dalaran_warrior", "dd/db5/a21619.html#a13d44b85173232ddedcc35184d50549c", null ],
+    [ "GetAI", "dd/db5/a21619.html#a1e84676d2a76bac728a1f23f5f9fc25e", null ]
 ];

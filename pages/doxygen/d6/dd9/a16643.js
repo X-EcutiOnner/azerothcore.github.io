@@ -1,6 +1,6 @@
 var a16643 =
 [
-    [ "FilterTargets", "d6/dd9/a16643.html#a36879a2920f43562bb0ff89c76d758e4", null ],
-    [ "PrepareSpellScript", "d6/dd9/a16643.html#afeb95c5fe970ebc147d509981b026e98", null ],
-    [ "Register", "d6/dd9/a16643.html#a800bd9ffab41ccf860844a129ec3b03c", null ]
+    [ "instance_drak_tharon_keep_InstanceScript", "d6/dd9/a16643.html#a15f13e67c33a7d5cfb4793b6b641842c", null ],
+    [ "OnGameObjectCreate", "d6/dd9/a16643.html#ab727f29fc768c00ab48bfd7e7717a29a", null ],
+    [ "OnGameObjectRemove", "d6/dd9/a16643.html#ad8115d5e1ee45a586ec0c1149d690db5", null ]
 ];

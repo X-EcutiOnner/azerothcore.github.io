@@ -1,9 +1,6 @@
 var a19183 =
 [
-    [ "boss_commander_stoutbeardAI", "de/d20/a19183.html#a44bac0471ab37822be91c08e4cbd44d0", null ],
-    [ "JustDied", "de/d20/a19183.html#a8264fd42696a1f392b464b367f5e2933", null ],
-    [ "JustEngagedWith", "de/d20/a19183.html#a0bef61b70a285ab4b085ff7600fb7e77", null ],
-    [ "KilledUnit", "de/d20/a19183.html#ade8344d9cdf15625099d8b2550331ca6", null ],
-    [ "Reset", "de/d20/a19183.html#a5b7fe5b2a33eeb8f182aeca145cc62dd", null ],
-    [ "UpdateAI", "de/d20/a19183.html#a2e47e00e7e477c3abefe1549f1dd9c5f", null ]
+    [ "npc_eoe_wyrmrest_skytalonAI", "db/dc4/a19187.html", "db/dc4/a19187" ],
+    [ "npc_eoe_wyrmrest_skytalon", "de/d20/a19183.html#a55685de624b277840f8fc0c397b8aebf", null ],
+    [ "GetAI", "de/d20/a19183.html#a01a384ab10cfccbd159f116e0bef52e8", null ]
 ];

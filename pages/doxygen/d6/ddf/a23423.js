@@ -1,6 +1,6 @@
 var a23423 =
 [
-    [ "CalculateDamage", "d6/ddf/a23423.html#a170fb61e3a7358d42cc6506067fb978a", null ],
-    [ "PrepareSpellScript", "d6/ddf/a23423.html#a197fce87e22a3e4055cabbb925b13aa1", null ],
-    [ "Register", "d6/ddf/a23423.html#aac3c6a6b34af795cb08fc299e763f6a8", null ]
+    [ "instance_gruuls_lair_InstanceMapScript", "d4/dce/a23427.html", "d4/dce/a23427" ],
+    [ "instance_gruuls_lair", "d6/ddf/a23423.html#ae091404d09e614fe893c20e8ed90d2c4", null ],
+    [ "GetInstanceScript", "d6/ddf/a23423.html#ab8b5b000f6099111244b4ea48f0ab029", null ]
 ];

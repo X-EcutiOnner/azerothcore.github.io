@@ -1,12 +1,14 @@
 var a14691 =
 [
-    [ "boss_isalien", "d5/d3a/a14691.html#a736a25e60ae367a45c7d6451be96126d", null ],
-    [ "DamageTaken", "d5/d3a/a14691.html#a95d461e099193b5e2c1363acb1b5939a", null ],
-    [ "JustDied", "d5/d3a/a14691.html#a6544b5eb398eb2fc9cae05709e4a5cc1", null ],
-    [ "JustEngagedWith", "d5/d3a/a14691.html#ad6714da515db77c7299ee80b3268433e", null ],
-    [ "JustSummoned", "d5/d3a/a14691.html#a84a94a1a8889b48cd02d5cb6a205a487", null ],
-    [ "Reset", "d5/d3a/a14691.html#a4995c18e2baa62d05717617d0b1e3529", null ],
-    [ "UpdateAI", "d5/d3a/a14691.html#aa067bea34557a4b2fe840ef305852bc0", null ],
-    [ "_phase", "d5/d3a/a14691.html#a954bbd32948e6c416197199d96142056", null ],
-    [ "_scheduler", "d5/d3a/a14691.html#a8eb56a907e3395b9e81588aab7c07ca6", null ]
+    [ "boss_captain_skarloc", "d5/d3a/a14691.html#a196477160ab6d07dc644ddadf756a1e0", null ],
+    [ "InitializeAI", "d5/d3a/a14691.html#a1c67fb99984f666b63f8f79c6783341d", null ],
+    [ "JustDied", "d5/d3a/a14691.html#aca0d536010a53efdf9270146f15f9058", null ],
+    [ "JustEngagedWith", "d5/d3a/a14691.html#aaa516f26cdc0ccd88f5c529a0a4252d4", null ],
+    [ "JustSummoned", "d5/d3a/a14691.html#a5f5f08ab00d18bece28dde7490e52af8", null ],
+    [ "KilledUnit", "d5/d3a/a14691.html#a1ead95b7cf3c4fb5b36be083e852aa21", null ],
+    [ "MovementInform", "d5/d3a/a14691.html#a8e16d85ca8e41bc1cb7ac749dfaea075", null ],
+    [ "Reset", "d5/d3a/a14691.html#a73b728cd24c8cb124f93c0e637bc8a11", null ],
+    [ "UpdateAI", "d5/d3a/a14691.html#aa1a9d9e781f1bc2394e2ebf879fdf196", null ],
+    [ "_spawnedAdds", "d5/d3a/a14691.html#ad69432da4a5beb5fcc8bbac155608a87", null ],
+    [ "summons", "d5/d3a/a14691.html#a83a9e5971411de1c136cbad91f73f487", null ]
 ];

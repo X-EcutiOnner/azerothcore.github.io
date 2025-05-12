@@ -1,8 +1,12 @@
 var a13783 =
 [
-    [ "FilterTargets", "d3/d33/a13783.html#a3405b21202d423c649e0b8d341b42d9c", null ],
-    [ "HandleWipeThreat", "d3/d33/a13783.html#a2bbcce83bffebc509e9ec54778e82639", null ],
-    [ "PrepareSpellScript", "d3/d33/a13783.html#a59948484b528cab69c695f08b39b886d", null ],
-    [ "Register", "d3/d33/a13783.html#ac4106a251bd3120e122955edbcdc8e2a", null ],
-    [ "_wipeThreat", "d3/d33/a13783.html#ab5293e50bd670c0d350f190f1c9892b3", null ]
+    [ "npc_forest_frog", "d3/d33/a13783.html#a6a5e24a11f8d2add6a3e9d71e2e647bb", null ],
+    [ "DoSpawnRandom", "d3/d33/a13783.html#aac140826b8c4b7ce55925b5abeee936e", null ],
+    [ "JustEngagedWith", "d3/d33/a13783.html#aa22c4eb7eb3a84db94ce8eb38afd18f5", null ],
+    [ "MovementInform", "d3/d33/a13783.html#a8260157062b3e4ef48ad47b4f9bf66ac", null ],
+    [ "SpellHit", "d3/d33/a13783.html#a9501955507e1f236bb48384928fd6a32", null ],
+    [ "UpdateAI", "d3/d33/a13783.html#a5e6785d71bfb7f1d7b915723898a99fc", null ],
+    [ "eventTimer", "d3/d33/a13783.html#ac6bf7433f79a9c2803072e7b5370a1c7", null ],
+    [ "instance", "d3/d33/a13783.html#a6294f89eccdb9e5f9edbe8bccb164690", null ],
+    [ "PlayerGUID", "d3/d33/a13783.html#a3544a83bb22e12d247e562ef32e378c0", null ]
 ];

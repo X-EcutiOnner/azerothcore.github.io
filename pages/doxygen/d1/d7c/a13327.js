@@ -1,12 +1,9 @@
 var a13327 =
 [
-    [ "npc_sentinel_infiltrator", "d1/d7c/a13327.html#a40ce6808a4d0622eb88a669485335020", null ],
-    [ "Initialize", "d1/d7c/a13327.html#acc94269a3ede4c897f457a270e9a9c12", null ],
-    [ "JustEngagedWith", "d1/d7c/a13327.html#a2c9927468b92d00b60efac851eacfef1", null ],
-    [ "MovementInform", "d1/d7c/a13327.html#a57aef1c4ce7a491408c2c6b19d4d4cf2", null ],
-    [ "Reset", "d1/d7c/a13327.html#a0f26dbe23efdf572f81723dff1d3eeaf", null ],
-    [ "UpdateAI", "d1/d7c/a13327.html#ac676246948689c891c0f9cca7f8bc8b6", null ],
-    [ "_events", "d1/d7c/a13327.html#a296d6c70b6c439319cc69a9d39005e62", null ],
-    [ "_fleedForAssistance", "d1/d7c/a13327.html#a948c9d2081b33e18aa927fb18598c8ad", null ],
-    [ "_path", "d1/d7c/a13327.html#a32d531478df327ccb0bb85e262420813", null ]
+    [ "boss_entropius", "d1/d7c/a13327.html#a458deaa80c9694cd2608150bc5519c76", null ],
+    [ "EnterEvadeMode", "d1/d7c/a13327.html#a01889b192525af082471d092bff28c88", null ],
+    [ "JustDied", "d1/d7c/a13327.html#aed1313073a44bc15f87432a85e6c2d8e", null ],
+    [ "JustEngagedWith", "d1/d7c/a13327.html#afb07fc44fd14b9f78fbc97b2670b8b5e", null ],
+    [ "Reset", "d1/d7c/a13327.html#ad9da990a540703d38cb45dd2da72c179", null ],
+    [ "UpdateAI", "d1/d7c/a13327.html#ab7fbeb67059c48b5f1aff071990ece5e", null ]
 ];

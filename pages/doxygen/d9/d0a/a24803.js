@@ -1,6 +1,9 @@
 var a24803 =
 [
-    [ "PrepareSpellScript", "d9/d0a/a24803.html#a209f68c2a9824ad771f7b6a25d4c4663", null ],
-    [ "Register", "d9/d0a/a24803.html#a759b195d4631a371bef3e6398e128034", null ],
-    [ "SelectTarget", "d9/d0a/a24803.html#a676c6fdbced0ea7e945c4724c9adf145", null ]
+    [ "spell_gen_select_target_count", "d9/d0a/a24803.html#a65507c155a8746ff49c58c051b7868e4", null ],
+    [ "FilterTargets", "d9/d0a/a24803.html#a5de89be9ce321a0f4ac49853a700b502", null ],
+    [ "PrepareSpellScript", "d9/d0a/a24803.html#a42ddce15414dcdf495b572e0f75e9486", null ],
+    [ "Register", "d9/d0a/a24803.html#a94f86992275123e2e3989655cf077efd", null ],
+    [ "_count", "d9/d0a/a24803.html#acdf5daa848ae185b859c45a1271df68c", null ],
+    [ "_effTarget", "d9/d0a/a24803.html#a9c54508790062277c8275d2466e93fb3", null ]
 ];

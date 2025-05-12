@@ -1,7 +1,12 @@
 var a11051 =
 [
-    [ "ScriptStateStore", "d0/d76/a11051.html#a51baffee5c9dbf255591db8ea13ee516", null ],
-    [ "_auraApplication", "d0/d76/a11051.html#af5098bcedac048808e11bf2f82d705a7", null ],
-    [ "_currentScriptState", "d0/d76/a11051.html#adddf594d9468b16455da6e2aef683d44", null ],
-    [ "_defaultActionPrevented", "d0/d76/a11051.html#a63cf373d469af72bc96a3e72351e3256", null ]
+    [ "SpellDestination", "d0/d76/a11051.html#aa91f31101de3139b2e2d2976dac94686", null ],
+    [ "SpellDestination", "d0/d76/a11051.html#aa27cefe3e93fedd557174a3cc8f49fe1", null ],
+    [ "SpellDestination", "d0/d76/a11051.html#a12f65757f20436b02b7aa00bb1682c8e", null ],
+    [ "SpellDestination", "d0/d76/a11051.html#a7b8949fa80249aee8bebc56620ec746c", null ],
+    [ "Relocate", "d0/d76/a11051.html#ab565861d5013130639013e3c4d22d712", null ],
+    [ "RelocateOffset", "d0/d76/a11051.html#a0bf1d731787bfed47b593d8cb4943f2a", null ],
+    [ "_position", "d0/d76/a11051.html#a6c4587b85e295d86f3479e4feeb662e5", null ],
+    [ "_transportGUID", "d0/d76/a11051.html#ad3456cf591eb32a5dd390ffbb7b27387", null ],
+    [ "_transportOffset", "d0/d76/a11051.html#a52f0f9f741985bb4d78289145fe66ba0", null ]
 ];

@@ -1,10 +1,9 @@
 var a19239 =
 [
-    [ "instance_nexus_InstanceMapScript", "dd/d5c/a19239.html#a6803f233d730f33e5af7dc9d8ecd9775", null ],
-    [ "Initialize", "dd/d5c/a19239.html#a2c6c42e73de2a155c04f80e37aa5d442", null ],
-    [ "OnCreatureCreate", "dd/d5c/a19239.html#a04806dc42aa0b171fa99eb1d8492ff61", null ],
-    [ "OnGameObjectCreate", "dd/d5c/a19239.html#a85c3ac915970d68a192414ca4ff8ad1f", null ],
-    [ "OnGameObjectRemove", "dd/d5c/a19239.html#ac148c67823484eee38ab6646dfb68530", null ],
-    [ "SetBossState", "dd/d5c/a19239.html#a11ac1fbc7c699084e7da5e4bf0595651", null ],
-    [ "SetData", "dd/d5c/a19239.html#a351052b1d3ea4ddb5d36ce69818c7e67", null ]
+    [ "HandleApply", "dd/d5c/a19239.html#a29679ed64fc288dc0e85beed2971d4be", null ],
+    [ "HandleRemove", "dd/d5c/a19239.html#a1f1c3e0ea24174605a7be8fa02e30518", null ],
+    [ "Load", "dd/d5c/a19239.html#a0b5d70a7a9bf27696295ccbbffd2a8b9", null ],
+    [ "PrepareAuraScript", "dd/d5c/a19239.html#a2804f25643e59f3922291abcb055b641", null ],
+    [ "Register", "dd/d5c/a19239.html#a711b5744770d0c9fb5aacb550f2384fa", null ],
+    [ "Validate", "dd/d5c/a19239.html#aa239a693db5fa38ac260a37b25e0e6d9", null ]
 ];

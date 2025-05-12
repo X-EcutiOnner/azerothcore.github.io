@@ -1,6 +1,9 @@
 var a13419 =
 [
-    [ "npc_tyrion_spybotAI", "dd/d24/a13423.html", "dd/d24/a13423" ],
-    [ "npc_tyrion_spybot", "d3/d94/a13419.html#a7e0eed1b51ffe1df2d8ae2ad37f26528", null ],
-    [ "GetAI", "d3/d94/a13419.html#af81b70437703edc8d99fe24249891dd6", null ]
+    [ "npc_professor_phizzlethorpeAI", "d3/d94/a13419.html#a92af4732575008c1a4f061cef0f23902", null ],
+    [ "JustEngagedWith", "d3/d94/a13419.html#a8864031e3c7a32cde57ca6efbf785d53", null ],
+    [ "JustSummoned", "d3/d94/a13419.html#af8e4e706925d8837cacdc0b5a6d1f10d", null ],
+    [ "sQuestAccept", "d3/d94/a13419.html#ad4a4bd9af581abe832933da69b18d76f", null ],
+    [ "UpdateAI", "d3/d94/a13419.html#a1c62cd07da5f0da91ef572bb00619d26", null ],
+    [ "WaypointReached", "d3/d94/a13419.html#a7be58c6ecc4e5ba23ec35cc1864f19e6", null ]
 ];

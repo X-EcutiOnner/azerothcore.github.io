@@ -1,6 +1,6 @@
 var a17559 =
 [
-    [ "IgbArtilleryCheck", "d7/d09/a17559.html#a78b65928551ed799cf3f446f0603c50e", null ],
-    [ "operator()", "d7/d09/a17559.html#ac083bfb9a5fa2b9888c4e31254baada6", null ],
-    [ "_entry", "d7/d09/a17559.html#a98a6a0836414da82c288e372e982f69f", null ]
+    [ "IgbExplosionCheck", "d7/d09/a17559.html#ae67cca111f26a275614810cbe053bcd8", null ],
+    [ "operator()", "d7/d09/a17559.html#a28ce6685366e99db2aa1e4022012f943", null ],
+    [ "_source", "d7/d09/a17559.html#a413ee8f2218621d274d118aea967dc9b", null ]
 ];

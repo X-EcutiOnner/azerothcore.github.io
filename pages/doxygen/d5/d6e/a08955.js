@@ -1,8 +1,10 @@
 var a08955 =
 [
-    [ "RespawnDo", "d5/d6e/a08955.html#a79f6424f2849c4c05998fe29a8510aeb", null ],
-    [ "operator()", "d5/d6e/a08955.html#ac15ff63f29e313556b8f66e0cd80514f", null ],
-    [ "operator()", "d5/d6e/a08955.html#a23408bf4da497d1007e4e88e0d9c0e19", null ],
-    [ "operator()", "d5/d6e/a08955.html#a66335f45bb1f3c770887b263e9d84236", null ],
-    [ "operator()", "d5/d6e/a08955.html#a4551ca2e0fdb6540a724c9c2b43484c6", null ]
+    [ "PetLevelInfo", "d5/d6e/a08955.html#ad8e757abeae500063e963ffef5469809", null ],
+    [ "armor", "d5/d6e/a08955.html#ab7097f75cf86bd6f135f21dace61a89e", null ],
+    [ "health", "d5/d6e/a08955.html#a322dcab3af8f98726aa6addf38e8891b", null ],
+    [ "mana", "d5/d6e/a08955.html#a27352e73d6ed3945e398e0634dee1e96", null ],
+    [ "max_dmg", "d5/d6e/a08955.html#a092f2600f64f2af885142b2e96d1fe64", null ],
+    [ "min_dmg", "d5/d6e/a08955.html#a299d1c7f4c28893e09de79cd816afa95", null ],
+    [ "stats", "d5/d6e/a08955.html#a897aabacdbe9cbc4afcc40ab059c12be", null ]
 ];

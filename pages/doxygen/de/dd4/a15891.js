@@ -1,6 +1,6 @@
 var a15891 =
 [
-    [ "npc_onyx_flamecallerAI", "dd/d67/a15895.html", "dd/d67/a15895" ],
-    [ "npc_onyx_flamecaller", "de/dd4/a15891.html#af27af3cb3bbaba0801481ba77a94f9c6", null ],
-    [ "GetAI", "de/dd4/a15891.html#a712284f1997635aaf7ecd7ca0a263c05", null ]
+    [ "npc_twilight_summonAI", "dd/d67/a15895.html", "dd/d67/a15895" ],
+    [ "npc_twilight_summon", "de/dd4/a15891.html#a2406ee3b02d9f1b1ebef54623d9a3c11", null ],
+    [ "GetAI", "de/dd4/a15891.html#a98bf5ce96c25bc252acd46163644bf33", null ]
 ];

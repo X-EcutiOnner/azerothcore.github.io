@@ -1,10 +1,10 @@
 var a00809 =
 [
-    [ "OutdoorPvPGH", "d6/dd2/a22420.html", "d6/dd2/a22420" ],
-    [ "OPvPCapturePointGH", "dd/db5/a22424.html", "dd/db5/a22424" ],
-    [ "OutdoorPvPGHenum", "dd/d7e/a00809.html#a68fd4e51a6ab53a5f6bc93fe7800623b", [
-      [ "GH_ALLIANCE_DEFENSE_EVENT", "dd/d7e/a00809.html#a68fd4e51a6ab53a5f6bc93fe7800623ba4d9e1d2fb4e064d2ec502e86046044c3", null ],
-      [ "GH_HORDE_DEFENSE_EVENT", "dd/d7e/a00809.html#a68fd4e51a6ab53a5f6bc93fe7800623babf83508167d0dcdfb12a95048d098d10", null ],
-      [ "GH_ZONE", "dd/d7e/a00809.html#a68fd4e51a6ab53a5f6bc93fe7800623ba5b111447969af668c37b96bdcb8e4e0f", null ]
-    ] ]
+    [ "npc_webbed_creature", "d6/d02/a15263.html", "d6/d02/a15263" ],
+    [ "npc_webbed_creature::npc_webbed_creatureAI", "d4/d25/a15267.html", "d4/d25/a15267" ],
+    [ "WebbedCreature", "dd/d7e/a00809.html#aa14073eff8de36ab4c416f5ae7bd8cd0", [
+      [ "NPC_EXPEDITION_RESEARCHER", "dd/d7e/a00809.html#aa14073eff8de36ab4c416f5ae7bd8cd0afbd11004b44bf2d153ac8e084395b3b3", null ]
+    ] ],
+    [ "AddSC_bloodmyst_isle", "dd/d7e/a00809.html#a6b9832f4bb6cfefde5bab6937fd46fae", null ],
+    [ "possibleSpawns", "dd/d7e/a00809.html#ab3e43a66e02bf6f3b8cbd7c154f9d70d", null ]
 ];

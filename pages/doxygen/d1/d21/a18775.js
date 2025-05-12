@@ -1,6 +1,5 @@
 var a18775 =
 [
-    [ "npc_four_car_garageAI", "d4/d5f/a18779.html", "d4/d5f/a18779" ],
-    [ "npc_four_car_garage", "d1/d21/a18775.html#ae9b811544ab5cbdcb9c44abdc2da41a8", null ],
-    [ "GetAI", "d1/d21/a18775.html#ac55346f9733c5502a9e9f2d6d48feefb", null ]
+    [ "at_icc_spire_frostwyrm", "d1/d21/a18775.html#ac3da2c0bc3e8b1c31832fcbb4e8ceae8", null ],
+    [ "_OnTrigger", "d1/d21/a18775.html#a67e320fb8ada7cb2c87f5944395fa174", null ]
 ];

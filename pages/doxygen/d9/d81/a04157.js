@@ -1,8 +1,9 @@
 var a04157 =
 [
-    [ "LootScript", "df/d24/a10300.html", "df/d24/a10300" ],
-    [ "LootHook", "d9/d81/a04157.html#a39ce94de1e8ce6b7055130ac7f40632b", [
-      [ "LOOTHOOK_ON_LOOT_MONEY", "d9/d81/a04157.html#a39ce94de1e8ce6b7055130ac7f40632ba71990fd8692b46e728ad526346d0f1f1", null ],
-      [ "LOOTHOOK_END", "d9/d81/a04157.html#a39ce94de1e8ce6b7055130ac7f40632bab03a0874b2fda00aeb19e4b5ab077fea", null ]
-    ] ]
+    [ "ListFilesResult", "d9/d81/a04157.html#a030b28c9f552c0de4a4b4844fc5e6101", [
+      [ "LISTFILE_DIRECTORY_NOT_FOUND", "d9/d81/a04157.html#a030b28c9f552c0de4a4b4844fc5e6101a868c0f60f6afa222577730606ed493a6", null ],
+      [ "LISTFILE_OK", "d9/d81/a04157.html#a030b28c9f552c0de4a4b4844fc5e6101a952e90f65bfd2eefbd80a8b830eb5687", null ]
+    ] ],
+    [ "getDirContents", "d9/d81/a04157.html#a3620968f3c1f5c1a3bb0c809ab0eb4ab", null ],
+    [ "matchWildcardFilter", "d9/d81/a04157.html#a0b1c31a5b3e8bebc7fa860b40f7997e1", null ]
 ];

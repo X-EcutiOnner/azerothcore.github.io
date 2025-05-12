@@ -1,7 +1,9 @@
 var a13935 =
 [
-    [ "HandleApply", "d4/d4b/a13935.html#a92734043e53b5e1ef81fa9b5ccce135e", null ],
-    [ "HandleRemove", "d4/d4b/a13935.html#a56bf9c77cf96b1e34543a59fc2a308b2", null ],
-    [ "PrepareAuraScript", "d4/d4b/a13935.html#ae3bcbf588e46cb0e81160fdd48502566", null ],
-    [ "Register", "d4/d4b/a13935.html#af2343add2ed014832bd34d11519b391b", null ]
+    [ "npc_healing_ward", "d4/d4b/a13935.html#a3d3c35f61502d3a83cb2581119e08903", null ],
+    [ "JustEngagedWith", "d4/d4b/a13935.html#a5faf7c5633c44ec1fa70b60b2071b97b", null ],
+    [ "Reset", "d4/d4b/a13935.html#a756d27a43d86c7ecde859df255c6bd62", null ],
+    [ "UpdateAI", "d4/d4b/a13935.html#a8b8635af33ce814602206064e0815520", null ],
+    [ "_instance", "d4/d4b/a13935.html#a65f227041ad4bdc7240637dd6cb680ec", null ],
+    [ "_scheduler", "d4/d4b/a13935.html#a0c62fe945b491cab76175217a7d10c06", null ]
 ];

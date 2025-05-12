@@ -1,7 +1,7 @@
 var a18799 =
 [
-    [ "OnRemove", "d1/d59/a18799.html#a4e6a66934a01d01c50208459f6771353", null ],
-    [ "PrepareAuraScript", "d1/d59/a18799.html#a2320044c6c81a89af0fefd4f90c05bd5", null ],
-    [ "Register", "d1/d59/a18799.html#a4890d35f2b0889156a437c95e49f528c", null ],
-    [ "Validate", "d1/d59/a18799.html#a1b90f1288b3b45267edd4da2b3418b21", null ]
+    [ "DelayedCastMincharEvent", "d1/d59/a18799.html#a76d8a08ca273eec5b2e083d136336a15", null ],
+    [ "Execute", "d1/d59/a18799.html#a12aeff246d07e541ed192974320842cb", null ],
+    [ "_spellId", "d1/d59/a18799.html#af4ea90407b2c8a283f137d213ffe97be", null ],
+    [ "_trigger", "d1/d59/a18799.html#a9f3cd02e77ad35b98a6753b792383548", null ]
 ];

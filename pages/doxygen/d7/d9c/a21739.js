@@ -1,6 +1,6 @@
 var a21739 =
 [
-    [ "HandleSendEvent", "d7/d9c/a21739.html#a8b8276833404f3f69c3b7f97d95b6982", null ],
-    [ "PrepareSpellScript", "d7/d9c/a21739.html#aa632d381ac415feaf226f55fc2cd8520", null ],
-    [ "Register", "d7/d9c/a21739.html#a72673f5054cf269cc8da511441f7bd66", null ]
+    [ "GhoulTargetCheck", "d7/d9c/a21739.html#acd743b2b1407c5171fbf410a02ff07bf", null ],
+    [ "operator()", "d7/d9c/a21739.html#a6722cfe5a1ceecccf2c07924b2975f46", null ],
+    [ "_alive", "d7/d9c/a21739.html#ab44092ca1cd6d7c17d7c63e0a8333453", null ]
 ];

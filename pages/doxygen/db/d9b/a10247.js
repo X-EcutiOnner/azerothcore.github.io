@@ -1,5 +1,7 @@
 var a10247 =
 [
-    [ "GuildGetInfo", "db/d9b/a10247.html#a585a6a49fe9747d5044ac185f1236cf5", null ],
-    [ "Read", "db/d9b/a10247.html#aa2b107f35fcf348fb7f84c2971c5fa00", null ]
+    [ "DatabaseScript", "db/d9b/a10247.html#aab34b85df1a5ccdf17fede64baca4994", null ],
+    [ "IsDatabaseBound", "db/d9b/a10247.html#af4321bb95ed9bb3bb0e5a8a93c89c235", null ],
+    [ "OnAfterDatabaseLoadCreatureTemplates", "db/d9b/a10247.html#a2f4e91e2b1192c0ceb399cd93eb33ee3", null ],
+    [ "OnAfterDatabasesLoaded", "db/d9b/a10247.html#ab52afc833cb462693f5e0d79cff6bb3f", null ]
 ];

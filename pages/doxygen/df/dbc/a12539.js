@@ -1,6 +1,9 @@
 var a12539 =
 [
-    [ "spell_item_gift_of_the_harvester_SpellScript", "dd/d1f/a12543.html", "dd/d1f/a12543" ],
-    [ "spell_item_gift_of_the_harvester", "df/dbc/a12539.html#abf8f22a048bc20fcbbf4db5cefab5bf8", null ],
-    [ "GetSpellScript", "df/dbc/a12539.html#ae5c916a45dffae91374af2c20c4785d3", null ]
+    [ "boss_curator", "df/dbc/a12539.html#a41b65078d0822ba87f3e40fc7bb10a40", null ],
+    [ "JustDied", "df/dbc/a12539.html#a5617f51f51304682d48af11fdb0c6b8b", null ],
+    [ "JustEngagedWith", "df/dbc/a12539.html#a848f477a101956662389cab5ffcc0727", null ],
+    [ "JustSummoned", "df/dbc/a12539.html#ac779d275e03e6ba190617d215b217ce5", null ],
+    [ "KilledUnit", "df/dbc/a12539.html#a9bfb89a8747251e4a84eb2f94a547f0d", null ],
+    [ "Reset", "df/dbc/a12539.html#af6fbf3c3d77f9f052f11974f7b54feab", null ]
 ];

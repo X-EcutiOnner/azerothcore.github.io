@@ -1,7 +1,7 @@
 var a10879 =
 [
-    [ "attributeMask", "d2/d8d/a10879.html#a6bbb4046cd4c068c990aa28844e4588b", null ],
-    [ "customChance", "d2/d8d/a10879.html#ac5d048f7ee803d61d5d3c59bb80a015d", null ],
-    [ "PPMChance", "d2/d8d/a10879.html#adb76c11f0073a2738374c98c01fda009", null ],
-    [ "procEx", "d2/d8d/a10879.html#a28bcdd11e64ad96be5a3ca0e0dd447c7", null ]
+    [ "UpdateWorldState", "d2/d8d/a10879.html#a1ccdf24be9a20c824b479af014f4fcb0", null ],
+    [ "Write", "d2/d8d/a10879.html#a76a4c5d6a06ce8d86a2d3f04f68e838d", null ],
+    [ "Value", "d2/d8d/a10879.html#a51fa2401d8af4c1c7848b423cb6f056f", null ],
+    [ "VariableID", "d2/d8d/a10879.html#aa73278b324822f509f48e6edcdaed457", null ]
 ];

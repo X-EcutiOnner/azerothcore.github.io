@@ -1,10 +1,15 @@
 var a09683 =
 [
-    [ "DistractMovementGenerator", "d7/d95/a09683.html#a55879290b06f4fc86a1da791c07b7afb", null ],
-    [ "Finalize", "d7/d95/a09683.html#aa4a2b943ecde8750bd764290d65872df", null ],
-    [ "GetMovementGeneratorType", "d7/d95/a09683.html#a0b30745bf1cd7b5a264e970273595592", null ],
-    [ "Initialize", "d7/d95/a09683.html#a71410ddbda2be6b34bb2276a83fea5c9", null ],
-    [ "Reset", "d7/d95/a09683.html#ad544709b2873b63b28d27ab414c280ba", null ],
-    [ "Update", "d7/d95/a09683.html#ad5a15c1507b8ab315b658351077629b3", null ],
-    [ "m_timer", "d7/d95/a09683.html#a8b520d8e97704ac39ce28c2256557b42", null ]
+    [ "MailSender", "d7/d95/a09683.html#a16466924bf75ea8203ba27c0f3e6188b", null ],
+    [ "MailSender", "d7/d95/a09683.html#a735cfef6950357644d6965978dde0309", null ],
+    [ "MailSender", "d7/d95/a09683.html#a145000f5ef63627ee26a5699846e06cf", null ],
+    [ "MailSender", "d7/d95/a09683.html#a9ddda06cf5ecc55efdc4525353471c5b", null ],
+    [ "MailSender", "d7/d95/a09683.html#a7d5a5e40aa20de720f310b739f159225", null ],
+    [ "MailSender", "d7/d95/a09683.html#a12c87bb414a3e8889c95091f3b51716b", null ],
+    [ "GetMailMessageType", "d7/d95/a09683.html#a64c99a49ec01d2226b6bf740edb380fb", null ],
+    [ "GetSenderId", "d7/d95/a09683.html#a03145c3fdc5bbabc64019e63e121132b", null ],
+    [ "GetStationery", "d7/d95/a09683.html#a6a4446e52e20ad7ab4817bf024b38631", null ],
+    [ "m_messageType", "d7/d95/a09683.html#a45a312eda342d2197f15d73b47d7787b", null ],
+    [ "m_senderId", "d7/d95/a09683.html#a0954b3514cfcba4258b1b266dfd71ddb", null ],
+    [ "m_stationery", "d7/d95/a09683.html#a1bbced35b4600f9a45a421d28a33393b", null ]
 ];

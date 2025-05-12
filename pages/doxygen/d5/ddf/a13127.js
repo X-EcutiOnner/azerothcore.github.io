@@ -1,7 +1,5 @@
 var a13127 =
 [
-    [ "HandleSchoolDamage", "d5/ddf/a13127.html#a4fee3e37f347d1dcfa84c1dc0454c9fa", null ],
-    [ "PrepareSpellScript", "d5/ddf/a13127.html#a8063f3d669e07dc0768607feb9a2f763", null ],
-    [ "Register", "d5/ddf/a13127.html#a83aad24c7111d1f68196fcb9765dcd97", null ],
-    [ "Validate", "d5/ddf/a13127.html#af90ae09274b0082bd8bd674ca43596f6", null ]
+    [ "at_malfurion_stormrage", "d5/ddf/a13127.html#ac5da3d1a7c2ccaffee68cfaee04fb63c", null ],
+    [ "OnTrigger", "d5/ddf/a13127.html#a0aa7818bd09b8a456d1ebbaa7d5f5c1d", null ]
 ];

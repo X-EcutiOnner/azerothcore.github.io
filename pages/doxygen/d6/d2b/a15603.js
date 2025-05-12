@@ -1,6 +1,7 @@
 var a15603 =
 [
-    [ "npc_weegli_blastfuseAI", "d4/db3/a15607.html", "d4/db3/a15607" ],
-    [ "npc_weegli_blastfuse", "d6/d2b/a15603.html#a2bf3b936e14c4cc0255f3109a35cb80f", null ],
-    [ "GetAI", "d6/d2b/a15603.html#a701681d8771756dac20d30c2e03a1349", null ]
+    [ "npc_ameAI", "d4/db3/a15607.html", "d4/db3/a15607" ],
+    [ "npc_ame", "d6/d2b/a15603.html#a6b4a20b06bc88393dd08b4eae83c1d50", null ],
+    [ "GetAI", "d6/d2b/a15603.html#a09f7688c38d56319791f7543eb32f317", null ],
+    [ "OnQuestAccept", "d6/d2b/a15603.html#a69b8ec6558e70e34f7e405b397b09f43", null ]
 ];

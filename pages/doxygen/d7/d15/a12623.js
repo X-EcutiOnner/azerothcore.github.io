@@ -1,6 +1,5 @@
 var a12623 =
 [
-    [ "npc_crusade_persuadedAI", "d3/d23/a12627.html", "d3/d23/a12627" ],
-    [ "npc_crusade_persuaded", "d7/d15/a12623.html#a4048e164fc99b9dfff41fd168fb542b6", null ],
-    [ "GetAI", "d7/d15/a12623.html#a004833d7e6312b23eb6a07c0a6e41db6", null ]
+    [ "at_karazhan_atiesh_aran", "d7/d15/a12623.html#ac84f5848b8a26cbfdd2544108567a6cc", null ],
+    [ "OnTrigger", "d7/d15/a12623.html#a5a6646c573b6e0bab0cbc288e594979e", null ]
 ];

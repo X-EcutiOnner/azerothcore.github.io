@@ -1,7 +1,6 @@
 var a15987 =
 [
-    [ "TwilightCutterSelector", "de/dcb/a15987.html#accea6e932c44d083fbb4dc41c5102b3d", null ],
-    [ "operator()", "de/dcb/a15987.html#a6374425df156bdf202d53a2c73ef784c", null ],
-    [ "_caster", "de/dcb/a15987.html#a784c95ef6472e711f4200f194222d179", null ],
-    [ "_cutterCaster", "de/dcb/a15987.html#a7f713777a36a8d127c2865e4610b1288", null ]
+    [ "boss_twilight_halionAI", "db/d56/a15991.html", "db/d56/a15991" ],
+    [ "boss_twilight_halion", "de/dcb/a15987.html#a23ea0a61acb2cf3fd83aece3ac7d218e", null ],
+    [ "GetAI", "de/dcb/a15987.html#a56842d74b16cbd5636649cbc643c50d8", null ]
 ];

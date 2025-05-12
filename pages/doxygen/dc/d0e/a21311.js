@@ -1,6 +1,6 @@
 var a21311 =
 [
-    [ "HandleEffectPeriodic", "dc/d0e/a21311.html#a508ff9e362d586497839aa29ceae1227", null ],
-    [ "PrepareAuraScript", "dc/d0e/a21311.html#a4e7d5317d28207136b1fd3477a51ae06", null ],
-    [ "Register", "dc/d0e/a21311.html#a4b08cefe7d334635b70d389cc9df4901", null ]
+    [ "npc_vh_teleportation_portalAI", "d6/df9/a21315.html", "d6/df9/a21315" ],
+    [ "npc_vh_teleportation_portal", "dc/d0e/a21311.html#a9a554058f594f992a17dbb3887117a6f", null ],
+    [ "GetAI", "dc/d0e/a21311.html#a0721c64c01ae69bd78dfc15637c97f49", null ]
 ];

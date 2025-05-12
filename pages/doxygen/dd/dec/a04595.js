@@ -1,6 +1,11 @@
 var a04595 =
 [
-    [ "DatabaseWorkerPool< T >", "d2/d57/a05665.html", "d2/d57/a05665" ],
-    [ "MIN_MYSQL_CLIENT_VERSION", "dd/dec/a04595.html#abfde8cf59610848eff4ea61d09bb8ca7", null ],
-    [ "MIN_MYSQL_SERVER_VERSION", "dd/dec/a04595.html#acd4a83e86313ca0bb35cb66497bc79b2", null ]
+    [ "VMAP::ModelPosition", "db/dc2/a05011.html", "db/dc2/a05011" ],
+    [ "VMAP::MapSpawns", "d0/d0c/a05015.html", "d0/d0c/a05015" ],
+    [ "VMAP::GroupModel_Raw", "de/d93/a05019.html", "de/d93/a05019" ],
+    [ "VMAP::WorldModel_Raw", "db/d39/a05023.html", "db/d39/a05023" ],
+    [ "VMAP::TileAssembler", "d1/d82/a05027.html", "d1/d82/a05027" ],
+    [ "MapData", "dd/dec/a04595.html#a28dc2e567f8620fed1128b6c4cf5b749", null ],
+    [ "TileMap", "dd/dec/a04595.html#abfe766a1b58bbf69ce3b17ff14d1c101", null ],
+    [ "UniqueEntryMap", "dd/dec/a04595.html#a3424b44a092b5f3d8074649ae11ee481", null ]
 ];

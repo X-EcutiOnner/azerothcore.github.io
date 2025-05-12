@@ -1,14 +1,15 @@
 var a09515 =
 [
-    [ "BattlegroundMap", "db/d61/a09515.html#a3a9af8a69ac8d188d7fb86f2a9dda2c3", null ],
-    [ "~BattlegroundMap", "db/d61/a09515.html#a327d241fd7930e9b3a98ba50014d5131", null ],
-    [ "AddPlayerToMap", "db/d61/a09515.html#a0325279a2affc7b20a415a3b90a32fc0", null ],
-    [ "CannotEnter", "db/d61/a09515.html#a493a1932eee44c346d9cfb7d13789bb6", null ],
-    [ "GetBG", "db/d61/a09515.html#a2fcb965981bb03571f12c11cdbac54a4", null ],
-    [ "InitVisibilityDistance", "db/d61/a09515.html#af2d6847765d10fab527d77b26dd770ad", null ],
-    [ "RemoveAllPlayers", "db/d61/a09515.html#a5093cbf8005d06452eeb202513323c1e", null ],
-    [ "RemovePlayerFromMap", "db/d61/a09515.html#aeddb9dfae8601e95b0a93cefc12c2612", null ],
-    [ "SetBG", "db/d61/a09515.html#aaa9e5f830953b1a37a684ac566e9b768", null ],
-    [ "SetUnload", "db/d61/a09515.html#a4c03b1aa9c4c53697ad6284825a1b9c1", null ],
-    [ "m_bg", "db/d61/a09515.html#aa38fff695728ddedc94dd6eb6bd7bf3b", null ]
+    [ "LogHolder", "db/d61/a09515.html#a3432ee2f32857bd02e75fdb5ba922bd1", null ],
+    [ "AddEvent", "db/d61/a09515.html#a5f6d81d9048290815053bb4aa3531d73", null ],
+    [ "CanInsert", "db/d61/a09515.html#aefdb4e57b5bf35b00564491547e6e2a9", null ],
+    [ "GetGuildId", "db/d61/a09515.html#ada98449548b389a1cd8177087e3aa5e8", null ],
+    [ "GetGuildLog", "db/d61/a09515.html#a17593c12663e8c4251f94636e511c73a", null ],
+    [ "GetGuildLog", "db/d61/a09515.html#ae43929001324d6bece4e45bc95115535", null ],
+    [ "GetNextGUID", "db/d61/a09515.html#aed00250b6a1036a91dd971af510f7750", null ],
+    [ "LoadEvent", "db/d61/a09515.html#a22e87750252d1c4f62f2e5686a2e008d", null ],
+    [ "m_guildId", "db/d61/a09515.html#a3827f9fb3fc13300f60d9f7dd27154c7", null ],
+    [ "m_log", "db/d61/a09515.html#aca25adbc1c1e9397c837a53793568b64", null ],
+    [ "m_maxRecords", "db/d61/a09515.html#a755788eaede72a131f74ae7de88c37b4", null ],
+    [ "m_nextGUID", "db/d61/a09515.html#a267cecce9b2f244235800c93a086e8e2", null ]
 ];

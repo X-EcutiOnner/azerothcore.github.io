@@ -1,6 +1,6 @@
 var a16479 =
 [
-    [ "if", "d9/d5c/a16479.html#a05a4c1db7e7d6810209175a22db5a639", null ],
-    [ "PrepareAuraScript", "d9/d5c/a16479.html#ab918782945539513ae49cff3280fc352", null ],
-    [ "absorbAmount", "d9/d5c/a16479.html#a72d148ef61ff66cbc2afdb3defec15ce", null ]
+    [ "boss_dreadscaleAI", "d3/d14/a16483.html", "d3/d14/a16483" ],
+    [ "boss_dreadscale", "d9/d5c/a16479.html#ab3276e515419303358b0ee59bc92c12e", null ],
+    [ "GetAI", "d9/d5c/a16479.html#ab8c8cebfa6843404338ea5bc3ac8f3f7", null ]
 ];

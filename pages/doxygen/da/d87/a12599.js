@@ -1,6 +1,7 @@
 var a12599 =
 [
-    [ "npc_scarlet_miner_cartAI", "d4/d16/a12603.html", "d4/d16/a12603" ],
-    [ "npc_scarlet_miner_cart", "da/d87/a12599.html#a987247939c6fd576d4b8d541175ecb6b", null ],
-    [ "GetAI", "da/d87/a12599.html#a0f1436f0f6784af5ab62bf91df355731", null ]
+    [ "npc_malchezaar_axe", "da/d87/a12599.html#a1a5615f2def10add30e7917b770ebc74", null ],
+    [ "Initialize", "da/d87/a12599.html#a078e7f0997c026b73a4e0ab8a1c209b8", null ],
+    [ "JustEngagedWith", "da/d87/a12599.html#a4a9f90e66359b304622d4f79653f9fd0", null ],
+    [ "UpdateAI", "da/d87/a12599.html#a202ba6922a426f87909eefbccd070175", null ]
 ];

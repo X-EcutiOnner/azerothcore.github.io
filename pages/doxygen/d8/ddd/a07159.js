@@ -1,8 +1,8 @@
 var a07159 =
 [
-    [ "NodeId", "d8/ddd/a07159.html#a09d4904c622dd7810e154bc0f3bd7eaf", null ],
-    [ "TextAllianceTaken", "d8/ddd/a07159.html#a20cb8eaefa0e45b45a57645c62409ba4", null ],
-    [ "TextAssaulted", "d8/ddd/a07159.html#a2e49a6d7f8ca935800062d98f1c660de", null ],
-    [ "TextDefended", "d8/ddd/a07159.html#a27ee2d5be23a110943438a8888b14202", null ],
-    [ "TextHordeTaken", "d8/ddd/a07159.html#a835c00ebdc2fe61f7e7757b0ed26bd1d", null ]
+    [ "entry", "d8/ddd/a07159.html#ab47ef3b15c887f46fb1bf9c88f5cc5d8", null ],
+    [ "o", "d8/ddd/a07159.html#af2bf42b7d1a18e7ee1125a305ee7bc79", null ],
+    [ "x", "d8/ddd/a07159.html#a4fb658cf54f9534e0686a8fa5b2328c7", null ],
+    [ "y", "d8/ddd/a07159.html#aa761c9076be145dab6d2cac773bb6e7a", null ],
+    [ "z", "d8/ddd/a07159.html#ac9ff501bbf00d80f5b9350a78ffbb6fb", null ]
 ];

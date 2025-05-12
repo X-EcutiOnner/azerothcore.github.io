@@ -1,6 +1,6 @@
 var a17323 =
 [
-    [ "ModAuraValue", "d6/d03/a17323.html#a359453c6253beb6f729209c6d3d79af7", null ],
-    [ "PrepareSpellScript", "d6/d03/a17323.html#a4f916abef69782be10cc6be9ba0124f5", null ],
-    [ "Register", "d6/d03/a17323.html#a4a387df07c88144288c4327ce86b730a", null ]
+    [ "boss_deathbringer_saurfangAI", "dd/d95/a17327.html", "dd/d95/a17327" ],
+    [ "boss_deathbringer_saurfang", "d6/d03/a17323.html#ad19893be7dc3b4290d9b1ed3bb992e08", null ],
+    [ "GetAI", "d6/d03/a17323.html#a6bc1ef44b3ea9e860d62bf78cfa38c92", null ]
 ];

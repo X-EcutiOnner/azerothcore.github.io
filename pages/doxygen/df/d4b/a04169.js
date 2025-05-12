@@ -1,16 +1,11 @@
 var a04169 =
 [
-    [ "AccountScript", "df/d4c/a10156.html", "df/d4c/a10156" ],
-    [ "AccountHook", "df/d4b/a04169.html#a4b5c567266fc875ca26b1f3c273a0e3f", [
-      [ "ACCOUNTHOOK_ON_ACCOUNT_LOGIN", "df/d4b/a04169.html#a4b5c567266fc875ca26b1f3c273a0e3fa97110c19d0d3bf4985d037248fc9a520", null ],
-      [ "ACCOUNTHOOK_ON_BEFORE_ACCOUNT_DELETE", "df/d4b/a04169.html#a4b5c567266fc875ca26b1f3c273a0e3fa68eae28cd3d4824d5a1f43be23334ecb", null ],
-      [ "ACCOUNTHOOK_ON_LAST_IP_UPDATE", "df/d4b/a04169.html#a4b5c567266fc875ca26b1f3c273a0e3faef7c124ffc203147c487a3fdf3fb3993", null ],
-      [ "ACCOUNTHOOK_ON_FAILED_ACCOUNT_LOGIN", "df/d4b/a04169.html#a4b5c567266fc875ca26b1f3c273a0e3fad9e09c448ea9ea11d0dab7b19364a744", null ],
-      [ "ACCOUNTHOOK_ON_EMAIL_CHANGE", "df/d4b/a04169.html#a4b5c567266fc875ca26b1f3c273a0e3fa614cf50cd5271ecd85b56e2c96417982", null ],
-      [ "ACCOUNTHOOK_ON_FAILED_EMAIL_CHANGE", "df/d4b/a04169.html#a4b5c567266fc875ca26b1f3c273a0e3fa8d513341e8c3bd3b9ab3d56ad1854fdf", null ],
-      [ "ACCOUNTHOOK_ON_PASSWORD_CHANGE", "df/d4b/a04169.html#a4b5c567266fc875ca26b1f3c273a0e3fa1a346d78a8f0cd7fbf326655e791eec5", null ],
-      [ "ACCOUNTHOOK_ON_FAILED_PASSWORD_CHANGE", "df/d4b/a04169.html#a4b5c567266fc875ca26b1f3c273a0e3faa64f8339ee297e9e9d5591423f18f283", null ],
-      [ "ACCOUNTHOOK_CAN_ACCOUNT_CREATE_CHARACTER", "df/d4b/a04169.html#a4b5c567266fc875ca26b1f3c273a0e3fabbf594e3be51c108e40d535b8ba1baf3", null ],
-      [ "ACCOUNTHOOK_END", "df/d4b/a04169.html#a4b5c567266fc875ca26b1f3c273a0e3fafdbdba3262877bcac001a3013cdd4f5f", null ]
-    ] ]
+    [ "ADT::MDDF", "d2/ddb/a28639.html", "d2/ddb/a28639" ],
+    [ "ADT::MODF", "d8/dea/a28643.html", "d8/dea/a28643" ],
+    [ "ADTFile", "de/d16/a28647.html", "de/d16/a28647" ],
+    [ "fixname2", "df/d4b/a04169.html#ac0029be4572a61d00eb1435db5526a74", null ],
+    [ "fixnamen", "df/d4b/a04169.html#abdc56edc46e0804c456749761cff8daf", null ],
+    [ "GetExtension", "df/d4b/a04169.html#ac3f75fc482c41471364c2c3e8bd1dd96", null ],
+    [ "GetPlainName", "df/d4b/a04169.html#a5e577b4c8e75312883ba4e8c571908ca", null ],
+    [ "GetPlainName", "df/d4b/a04169.html#a05f8969fb6d17548033afc24b906a83f", null ]
 ];

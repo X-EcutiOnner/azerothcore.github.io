@@ -1,7 +1,6 @@
 var a13387 =
 [
-    [ "pyrewood_ambushAI", "d7/d83/a13391.html", "d7/d83/a13391" ],
-    [ "pyrewood_ambush", "d3/d54/a13387.html#a07dfe00bcc86320c4968ca10e9480322", null ],
-    [ "GetAI", "d3/d54/a13387.html#a4067c8aca15fe1f783eadd277b635fa8", null ],
-    [ "OnQuestAccept", "d3/d54/a13387.html#add2804a9a76559dc5f051102f067e0bf", null ]
+    [ "instance_the_stockade_InstanceMapScript", "d7/d83/a13391.html", "d7/d83/a13391" ],
+    [ "instance_the_stockade", "d3/d54/a13387.html#a533049c10a72da4b94f9807017f28c0d", null ],
+    [ "GetInstanceScript", "d3/d54/a13387.html#a7a5a4adcd71ae5d22e6729a2d11d68d3", null ]
 ];

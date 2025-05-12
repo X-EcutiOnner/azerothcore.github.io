@@ -1,8 +1,13 @@
 var a23407 =
 [
-    [ "ApplyStun", "dd/d71/a23407.html#a5a5b921dc45418485919e599e80f8ca8", null ],
-    [ "HandleScriptEffect", "dd/d71/a23407.html#a32619710179250a6a0b408856a888153", null ],
-    [ "PrepareSpellScript", "dd/d71/a23407.html#afb61d7dcc8ad52da4dcad3d7593f08ad", null ],
-    [ "Register", "dd/d71/a23407.html#aa753fd45caa1b515911d8fdf6fa78754", null ],
-    [ "Validate", "dd/d71/a23407.html#a66d91a87078c663903cd836344eec867", null ]
+    [ "boss_olm_the_summoner", "dd/d71/a23407.html#aa8fe3804d4e2a1a1150975f5e9832ce6", null ],
+    [ "AttackStart", "dd/d71/a23407.html#a334ab95cfc3320db1a568bcb5a1d9542", null ],
+    [ "JustDied", "dd/d71/a23407.html#a07cde4fc7bc882db40b51426dc40ab93", null ],
+    [ "JustEngagedWith", "dd/d71/a23407.html#a68db779bb7ffffa7621caedd7f52d93f", null ],
+    [ "JustSummoned", "dd/d71/a23407.html#a546bede780b7d67b98ec251ae2e1b812", null ],
+    [ "Reset", "dd/d71/a23407.html#a8dcdc816276a1932612d554cff703a45", null ],
+    [ "UpdateAI", "dd/d71/a23407.html#a967f330966fdb29f26ab24e8f40d2152", null ],
+    [ "_scheduler", "dd/d71/a23407.html#a448ba3a88156e80eebad44585791ab21", null ],
+    [ "instance", "dd/d71/a23407.html#a8caabc31bb7a8548eb936c34c655df68", null ],
+    [ "summons", "dd/d71/a23407.html#ae9187928c74fa1cfafaea4df25a55e41", null ]
 ];

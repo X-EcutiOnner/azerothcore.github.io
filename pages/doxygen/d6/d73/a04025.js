@@ -1,4 +1,6 @@
 var a04025 =
 [
-    [ "SelectSpeedType", "d6/d73/a04025.html#a1f10281929f445f6d8150dc510bf1f2f", null ]
+    [ "ResultIterator< T >", "d0/d5b/a05827.html", "d0/d5b/a05827" ],
+    [ "ResultSet", "d8/d08/a05831.html", "d8/d08/a05831" ],
+    [ "PreparedResultSet", "df/d51/a05835.html", "df/d51/a05835" ]
 ];

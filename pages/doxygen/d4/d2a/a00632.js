@@ -1,19 +1,15 @@
 var a00632 =
 [
-    [ "QueryResultFieldMetadata", "d9/d54/a05684.html", "d9/d54/a05684" ],
-    [ "Field", "db/daf/a05688.html", "db/daf/a05688" ],
-    [ "Binary", "d4/d2a/a00632.html#a45c2b15f675e85c1f4462be09f27c59e", null ],
-    [ "is_chrono_v", "d4/d2a/a00632.html#aa6a7b1e80be2ae7ec2efb76185ee7b44", null ],
-    [ "DatabaseFieldTypes", "d4/d2a/a00632.html#a52858f4c2cc23ac9372ab466fb82c091", [
-      [ "Null", "d4/d2a/a00632.html#a52858f4c2cc23ac9372ab466fb82c091abbb93ef26e3c101ff11cdd21cab08a94", null ],
-      [ "Int8", "d4/d2a/a00632.html#a52858f4c2cc23ac9372ab466fb82c091a7d839b2c12bfd40ac121b4cc9e81c539", null ],
-      [ "Int16", "d4/d2a/a00632.html#a52858f4c2cc23ac9372ab466fb82c091a39bc2ae44b184207f560ff8619823208", null ],
-      [ "Int32", "d4/d2a/a00632.html#a52858f4c2cc23ac9372ab466fb82c091ac06129f6e6e15c09328365e553f1dc31", null ],
-      [ "Int64", "d4/d2a/a00632.html#a52858f4c2cc23ac9372ab466fb82c091afbde23b11d7e59af7828e81144c8b487", null ],
-      [ "Float", "d4/d2a/a00632.html#a52858f4c2cc23ac9372ab466fb82c091a22ae0e2b89e5e3d477f988cc36d3272b", null ],
-      [ "Double", "d4/d2a/a00632.html#a52858f4c2cc23ac9372ab466fb82c091ad909d38d705ce75386dd86e611a82f5b", null ],
-      [ "Decimal", "d4/d2a/a00632.html#a52858f4c2cc23ac9372ab466fb82c091a937504f318f04eaf0f1d701df4c4d7f3", null ],
-      [ "Date", "d4/d2a/a00632.html#a52858f4c2cc23ac9372ab466fb82c091a44749712dbec183e983dcd78a7736c41", null ],
-      [ "Binary", "d4/d2a/a00632.html#a52858f4c2cc23ac9372ab466fb82c091a6ce976e8f061b2b5cfe4d0c50c3405dd", null ]
-    ] ]
+    [ "icecrown_citadel_teleport", "d1/d3e/a18783.html", "d1/d3e/a18783" ],
+    [ "at_frozen_throne_teleport", "d7/db9/a18787.html", "d7/db9/a18787" ],
+    [ "GOSSIP_SENDER_ICC_PORT", "d4/d2a/a00632.html#a6fba34564bcdeb5d7a73d3c21850f02a", null ],
+    [ "ICCTeleportOption", "d4/d2a/a00632.html#a6fd4f2624c3269860a58fdcfbb273928", [
+      [ "ICC_TELEPORT_GOSSIP_OPT_LIGHTS_HAMMER", "d4/d2a/a00632.html#a6fd4f2624c3269860a58fdcfbb273928a5d845311579fa05dd470ab95e3810591", null ],
+      [ "ICC_TELEPORT_GOSSIP_OPT_ORATORY_OF_THE_DAMNED", "d4/d2a/a00632.html#a6fd4f2624c3269860a58fdcfbb273928a655e3ad8e4a944b86f70a1979aeb3c3c", null ],
+      [ "ICC_TELEPORT_GOSSIP_OPT_RAMPART_OF_SKULLS", "d4/d2a/a00632.html#a6fd4f2624c3269860a58fdcfbb273928a96ac68871dedf676d54492d7a0820201", null ],
+      [ "ICC_TELEPORT_GOSSIP_OPT_DEATHBRINGERS_RISE", "d4/d2a/a00632.html#a6fd4f2624c3269860a58fdcfbb273928ac08906a205127f970d28dbee8bade56c", null ],
+      [ "ICC_TELEPORT_GOSSIP_OPT_UPPER_SPIRE", "d4/d2a/a00632.html#a6fd4f2624c3269860a58fdcfbb273928ae2d96cab8de57bd2a2a012503c2ddbf2", null ],
+      [ "ICC_TELEPORT_GOSSIP_OPT_SINDRAGOSAS_LAIR", "d4/d2a/a00632.html#a6fd4f2624c3269860a58fdcfbb273928a196236e7232fea20a0707b300c9a996b", null ]
+    ] ],
+    [ "AddSC_icecrown_citadel_teleport", "d4/d2a/a00632.html#aba5bcd7624aeee0dbd61deec7f8d5d5b", null ]
 ];

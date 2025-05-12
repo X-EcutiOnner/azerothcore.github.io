@@ -1,6 +1,7 @@
 var a21951 =
 [
-    [ "npc_attracted_reef_bullAI", "db/da5/a21951.html#aa8917a912fb31a5987332e53e8d268e7", null ],
-    [ "MovementInform", "db/da5/a21951.html#a79d9539243f178a2989f017c5f9ebc8c", null ],
-    [ "SpellHit", "db/da5/a21951.html#ab06ee7ef84d881262ae682b69fae3135", null ]
+    [ "npc_battle_at_valhalasAI", "d3/d78/a21955.html", "d3/d78/a21955" ],
+    [ "npc_battle_at_valhalas", "db/da5/a21951.html#aacec717b5b91ae55307c9642779c15ec", null ],
+    [ "GetAI", "db/da5/a21951.html#a3660ba847b3b40c2d358d63c63517a5e", null ],
+    [ "OnQuestAccept", "db/da5/a21951.html#addd76fd9f4b4f8ce706693614b80966b", null ]
 ];

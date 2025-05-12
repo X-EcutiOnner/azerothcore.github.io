@@ -1,6 +1,7 @@
 var a17247 =
 [
-    [ "BloodboltHitCheck", "d4/de3/a17247.html#a84873f1ec2c1e214e35d32954622e9af", null ],
-    [ "operator()", "d4/de3/a17247.html#a1eddfd7bbea8def20dcc080413af6364", null ],
-    [ "_ai", "d4/de3/a17247.html#a0a5d115c464b6e88bc1158cd858bcbec", null ]
+    [ "HandleDummyTick", "d4/de3/a17247.html#a9aa9a7a6c2e09c840cfca3253c2ac7c0", null ],
+    [ "PrepareAuraScript", "d4/de3/a17247.html#a577523701b5a4ea2def4999e634c8862", null ],
+    [ "Register", "d4/de3/a17247.html#aaad9185c62333de4d6704b22780edd28", null ],
+    [ "Validate", "d4/de3/a17247.html#a9cfabcbbb9805a902fdd2d1b327dc4c7", null ]
 ];

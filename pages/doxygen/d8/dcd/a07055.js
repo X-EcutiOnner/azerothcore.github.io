@@ -1,14 +1,14 @@
 var a07055 =
 [
-    [ "IsArena", "d8/dcd/a07055.html#a8a99bf73debf5835e58537bee33fe2ad", null ],
-    [ "BattlemasterEntry", "d8/dcd/a07055.html#a51ce3b9fdb2f51f439fee7c8b48e3918", null ],
-    [ "Id", "d8/dcd/a07055.html#a0fca37318585903f68695452a95011a9", null ],
-    [ "MaxLevel", "d8/dcd/a07055.html#a790f55d480d1454a5f6e5713c04314b7", null ],
-    [ "MaxPlayersPerTeam", "d8/dcd/a07055.html#a324a4e557ce66089ec1111a9dae6e1de", null ],
-    [ "MaxStartDistSq", "d8/dcd/a07055.html#a5fbb1a76221e9d15bd7cca13581f7b14", null ],
-    [ "MinLevel", "d8/dcd/a07055.html#a49fdf96a08376830a06956fd501cfa78", null ],
-    [ "MinPlayersPerTeam", "d8/dcd/a07055.html#ac1bea263b53de8573cdb8eb890175495", null ],
-    [ "ScriptId", "d8/dcd/a07055.html#a968dd626dba22925be3d8f1a3bdc51aa", null ],
-    [ "StartLocation", "d8/dcd/a07055.html#a8477d2156c8aa5bb89da038d1a779698", null ],
-    [ "Weight", "d8/dcd/a07055.html#aa7a051e8453599a7e82da763a6f91da2", null ]
+    [ "getAll", "d8/dcd/a07055.html#a736642258b38fa05f04df4f4ac9069db", null ],
+    [ "inventoryType", "d8/dcd/a07055.html#a521224ce63856745ed64c39f6cbdddc4", null ],
+    [ "itemClass", "d8/dcd/a07055.html#a97bc36937a55f3e9a88dabf9a4e4f0b5", null ],
+    [ "itemSubClass", "d8/dcd/a07055.html#acf154bf30417c1a202ae85b4dd1adead", null ],
+    [ "levelmax", "d8/dcd/a07055.html#a902d715d89a5ca66072393ccefbb1ead", null ],
+    [ "levelmin", "d8/dcd/a07055.html#ac437de5977b177a586381c8665439a56", null ],
+    [ "listfrom", "d8/dcd/a07055.html#a2be6266f0bbc631d476710cbe291fab1", null ],
+    [ "quality", "d8/dcd/a07055.html#a1f234ab443ed5e14aafa02ec3ba5cfde", null ],
+    [ "sorting", "d8/dcd/a07055.html#a6f2e07af2aafb8eb53d845acd7f5ad71", null ],
+    [ "usable", "d8/dcd/a07055.html#ad81a5f3c2c58e620673539b6271ff8e9", null ],
+    [ "wsearchedname", "d8/dcd/a07055.html#a0a3764bd2ad869d9fe04aaced1f271ba", null ]
 ];

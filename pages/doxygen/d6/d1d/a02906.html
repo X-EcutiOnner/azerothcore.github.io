@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/game/OutdoorPvP/OutdoorPvP.h File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/game/Warden/WardenCheckMgr.h File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -107,100 +107,69 @@ $(document).ready(function(){initNavTree('d6/d1d/a02906.html','../../'); initRes
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
 <a href="#define-members">Macros</a> &#124;
-<a href="#typedef-members">Typedefs</a> &#124;
-<a href="#enum-members">Enumerations</a>  </div>
-  <div class="headertitle"><div class="title">OutdoorPvP.h File Reference</div></div>
+<a href="#enum-members">Enumerations</a> &#124;
+<a href="#var-members">Variables</a>  </div>
+  <div class="headertitle"><div class="title">WardenCheckMgr.h File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">SharedDefines.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ZoneScript.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">WorldStatePackets.h</a>&quot;</code><br />
-<code>#include &lt;array&gt;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">Cryptography/BigNumber.h</a>&quot;</code><br />
+<code>#include &lt;map&gt;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d6d/a10068.html">go_type</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d11/a11447.html">WardenCheck</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d2a/a10072.html">creature_type</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/da7/a11451.html">WardenCheckResult</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d95/a10076.html">OPvPCapturePoint</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/df8/a10080.html">OutdoorPvP</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d63/a11455.html">WardenCheckMgr</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="define-members" name="define-members"></a>
 Macros</h2></td></tr>
-<tr class="memitem:a61d2d26058751cc92ed3744e7216a061"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d1d/a02906.html#a61d2d26058751cc92ed3744e7216a061">MAX_OUTDOORPVP_TYPES</a>&#160;&#160;&#160;8</td></tr>
-<tr class="separator:a61d2d26058751cc92ed3744e7216a061"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="typedef-members" name="typedef-members"></a>
-Typedefs</h2></td></tr>
-<tr class="memitem:a080aeb08f4e15904e94076846a03e927"><td class="memItemLeft" align="right" valign="top">typedef <a class="el" href="../../d0/d1e/a03674.html#a62874da4f73709809fa3c7609d3e30af">GuidSet</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d1d/a02906.html#a080aeb08f4e15904e94076846a03e927">PlayerSet</a></td></tr>
-<tr class="separator:a080aeb08f4e15904e94076846a03e927"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a367963ecc82479f8bea3aea9e235a85c"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d1d/a02906.html#a367963ecc82479f8bea3aea9e235a85c">sWardenCheckMgr</a>&#160;&#160;&#160;<a class="el" href="../../d9/d63/a11455.html#aba9de1e123070338dc0049db8d8f0663">WardenCheckMgr::instance</a>()</td></tr>
+<tr class="separator:a367963ecc82479f8bea3aea9e235a85c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
 Enumerations</h2></td></tr>
-<tr class="memitem:a56e7764289940901c2a230103f78adee"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d1d/a02906.html#a56e7764289940901c2a230103f78adee">OutdoorPvPTypes</a> { <br />
-&#160;&#160;<a class="el" href="../../d6/d1d/a02906.html#a56e7764289940901c2a230103f78adeeaec0ceb2120bb05c7b67c96acb5f5c780">OUTDOOR_PVP_HP</a> = 1
+<tr class="memitem:acd25f1c729cc9c78338c6bc117dcd5e1"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d1d/a02906.html#acd25f1c729cc9c78338c6bc117dcd5e1">WardenActions</a> : uint8 { <br />
+&#160;&#160;<a class="el" href="../../d6/d1d/a02906.html#acd25f1c729cc9c78338c6bc117dcd5e1a886d1d7fc710f19b1f98a28dd6652d81">WARDEN_ACTION_LOG</a>
 , <br />
-&#160;&#160;<a class="el" href="../../d6/d1d/a02906.html#a56e7764289940901c2a230103f78adeeade464dddf74821e2cae470176a593811">OUTDOOR_PVP_NA</a> = 2
+&#160;&#160;<a class="el" href="../../d6/d1d/a02906.html#acd25f1c729cc9c78338c6bc117dcd5e1a3e6856d34f7e97f6cafcce4a86315d13">WARDEN_ACTION_KICK</a>
 , <br />
-&#160;&#160;<a class="el" href="../../d6/d1d/a02906.html#a56e7764289940901c2a230103f78adeea62e94746420e27ec7bd9c56ea578caab">OUTDOOR_PVP_TF</a> = 3
-, <br />
-&#160;&#160;<a class="el" href="../../d6/d1d/a02906.html#a56e7764289940901c2a230103f78adeea835e4d954507eb3cb658b3b0f9d59dfc">OUTDOOR_PVP_ZM</a> = 4
-, <br />
-&#160;&#160;<a class="el" href="../../d6/d1d/a02906.html#a56e7764289940901c2a230103f78adeea30dd8f698b5a13bb149d2aefbb8d8b3e">OUTDOOR_PVP_SI</a> = 5
-, <br />
-&#160;&#160;<a class="el" href="../../d6/d1d/a02906.html#a56e7764289940901c2a230103f78adeeadb5d1cbc5e091b87603c561df5fb6125">OUTDOOR_PVP_EP</a> = 6
-, <br />
-&#160;&#160;<a class="el" href="../../d6/d1d/a02906.html#a56e7764289940901c2a230103f78adeead76b70163971bf73abcdc457607a60c6">OUTDOOR_PVP_GH</a> = 7
+&#160;&#160;<a class="el" href="../../d6/d1d/a02906.html#acd25f1c729cc9c78338c6bc117dcd5e1a420c50c42a2e76090d4a4ab690885ae0">WARDEN_ACTION_BAN</a>
 <br />
  }</td></tr>
-<tr class="separator:a56e7764289940901c2a230103f78adee"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7908847b61cb33598912d94a2c0d153a"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d1d/a02906.html#a7908847b61cb33598912d94a2c0d153a">ObjectiveStates</a> { <br />
-&#160;&#160;<a class="el" href="../../d6/d1d/a02906.html#a7908847b61cb33598912d94a2c0d153aacdbca77e3430d64e7744a243553169b6">OBJECTIVESTATE_NEUTRAL</a> = 0
+<tr class="separator:acd25f1c729cc9c78338c6bc117dcd5e1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad353d1b1b229bf72b97440ac296da2f0"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d1d/a02906.html#ad353d1b1b229bf72b97440ac296da2f0">WardenCheckTypes</a> { <br />
+&#160;&#160;<a class="el" href="../../d6/d1d/a02906.html#ad353d1b1b229bf72b97440ac296da2f0a3a995022793f145e1eb48b42d3aadfb3">WARDEN_CHECK_MEM_TYPE</a> = 0
 , <br />
-&#160;&#160;<a class="el" href="../../d6/d1d/a02906.html#a7908847b61cb33598912d94a2c0d153aa6ba9fe25fdad4f881923232927d51e01">OBJECTIVESTATE_ALLIANCE</a>
+&#160;&#160;<a class="el" href="../../d6/d1d/a02906.html#ad353d1b1b229bf72b97440ac296da2f0a78405e80a7b4bf4186706d64389e96af">WARDEN_CHECK_LUA_TYPE</a> = 1
 , <br />
-&#160;&#160;<a class="el" href="../../d6/d1d/a02906.html#a7908847b61cb33598912d94a2c0d153aa1c56fbf67a59f2723d09b72a2526e545">OBJECTIVESTATE_HORDE</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d6/d1d/a02906.html#a7908847b61cb33598912d94a2c0d153aa8a761b613f1cc1791a30f2dd6c09a683">OBJECTIVESTATE_NEUTRAL_ALLIANCE_CHALLENGE</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d6/d1d/a02906.html#a7908847b61cb33598912d94a2c0d153aa2b3829ced9f7338c806056bcbaf4f143">OBJECTIVESTATE_NEUTRAL_HORDE_CHALLENGE</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d6/d1d/a02906.html#a7908847b61cb33598912d94a2c0d153aafec9bd2a292f2ef3dba964bdcbff182b">OBJECTIVESTATE_ALLIANCE_HORDE_CHALLENGE</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d6/d1d/a02906.html#a7908847b61cb33598912d94a2c0d153aa9361cd97baf1e11b2ed70f50c26cdb4a">OBJECTIVESTATE_HORDE_ALLIANCE_CHALLENGE</a>
+&#160;&#160;<a class="el" href="../../d6/d1d/a02906.html#ad353d1b1b229bf72b97440ac296da2f0ab3ea81385a6db9185a94c0715749ffe2">WARDEN_CHECK_OTHER_TYPE</a> = 2
 <br />
  }</td></tr>
-<tr class="separator:a7908847b61cb33598912d94a2c0d153a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="separator:ad353d1b1b229bf72b97440ac296da2f0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
+Variables</h2></td></tr>
+<tr class="memitem:afa0b1cff6db4dd71ef500011182f2834"><td class="memItemLeft" align="right" valign="top">constexpr <a class="el" href="../../d0/dbd/a04634.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d1d/a02906.html#afa0b1cff6db4dd71ef500011182f2834">MAX_WARDEN_ACTION</a> = 3</td></tr>
+<tr class="separator:afa0b1cff6db4dd71ef500011182f2834"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a80604a840828219101f07100a7a48dad"><td class="memItemLeft" align="right" valign="top">constexpr <a class="el" href="../../d0/dbd/a04634.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d1d/a02906.html#a80604a840828219101f07100a7a48dad">MAX_WARDEN_CHECK_TYPES</a> = 3</td></tr>
+<tr class="separator:a80604a840828219101f07100a7a48dad"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a005df8388201fb598a4eedfeac422fbc"><td class="memItemLeft" align="right" valign="top">constexpr <a class="el" href="../../d0/dbd/a04634.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d1d/a02906.html#a005df8388201fb598a4eedfeac422fbc">WARDEN_MAX_LUA_CHECK_LENGTH</a> = 170</td></tr>
+<tr class="separator:a005df8388201fb598a4eedfeac422fbc"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Macro Definition Documentation</h2>
-<a id="a61d2d26058751cc92ed3744e7216a061" name="a61d2d26058751cc92ed3744e7216a061"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a61d2d26058751cc92ed3744e7216a061">&#9670;&#160;</a></span>MAX_OUTDOORPVP_TYPES</h2>
+<a id="a367963ecc82479f8bea3aea9e235a85c" name="a367963ecc82479f8bea3aea9e235a85c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a367963ecc82479f8bea3aea9e235a85c">&#9670;&#160;</a></span>sWardenCheckMgr</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">#define MAX_OUTDOORPVP_TYPES&#160;&#160;&#160;8</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<h2 class="groupheader">Typedef Documentation</h2>
-<a id="a080aeb08f4e15904e94076846a03e927" name="a080aeb08f4e15904e94076846a03e927"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a080aeb08f4e15904e94076846a03e927">&#9670;&#160;</a></span>PlayerSet</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">typedef <a class="el" href="../../d0/d1e/a03674.html#a62874da4f73709809fa3c7609d3e30af">GuidSet</a> <a class="el" href="../../d6/d1d/a02906.html#a080aeb08f4e15904e94076846a03e927">PlayerSet</a></td>
+          <td class="memname">#define sWardenCheckMgr&#160;&#160;&#160;<a class="el" href="../../d9/d63/a11455.html#aba9de1e123070338dc0049db8d8f0663">WardenCheckMgr::instance</a>()</td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -208,82 +177,131 @@ Enumerations</h2></td></tr>
 </div>
 </div>
 <h2 class="groupheader">Enumeration Type Documentation</h2>
-<a id="a7908847b61cb33598912d94a2c0d153a" name="a7908847b61cb33598912d94a2c0d153a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a7908847b61cb33598912d94a2c0d153a">&#9670;&#160;</a></span>ObjectiveStates</h2>
+<a id="acd25f1c729cc9c78338c6bc117dcd5e1" name="acd25f1c729cc9c78338c6bc117dcd5e1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#acd25f1c729cc9c78338c6bc117dcd5e1">&#9670;&#160;</a></span>WardenActions</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">enum <a class="el" href="../../d6/d1d/a02906.html#a7908847b61cb33598912d94a2c0d153a">ObjectiveStates</a></td>
+          <td class="memname">enum <a class="el" href="../../d6/d1d/a02906.html#acd25f1c729cc9c78338c6bc117dcd5e1">WardenActions</a> : <a class="el" href="../../d0/dbd/a04634.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></td>
         </tr>
       </table>
 </div><div class="memdoc">
 <table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a7908847b61cb33598912d94a2c0d153aacdbca77e3430d64e7744a243553169b6" name="a7908847b61cb33598912d94a2c0d153aacdbca77e3430d64e7744a243553169b6"></a>OBJECTIVESTATE_NEUTRAL&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a7908847b61cb33598912d94a2c0d153aa6ba9fe25fdad4f881923232927d51e01" name="a7908847b61cb33598912d94a2c0d153aa6ba9fe25fdad4f881923232927d51e01"></a>OBJECTIVESTATE_ALLIANCE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a7908847b61cb33598912d94a2c0d153aa1c56fbf67a59f2723d09b72a2526e545" name="a7908847b61cb33598912d94a2c0d153aa1c56fbf67a59f2723d09b72a2526e545"></a>OBJECTIVESTATE_HORDE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a7908847b61cb33598912d94a2c0d153aa8a761b613f1cc1791a30f2dd6c09a683" name="a7908847b61cb33598912d94a2c0d153aa8a761b613f1cc1791a30f2dd6c09a683"></a>OBJECTIVESTATE_NEUTRAL_ALLIANCE_CHALLENGE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a7908847b61cb33598912d94a2c0d153aa2b3829ced9f7338c806056bcbaf4f143" name="a7908847b61cb33598912d94a2c0d153aa2b3829ced9f7338c806056bcbaf4f143"></a>OBJECTIVESTATE_NEUTRAL_HORDE_CHALLENGE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a7908847b61cb33598912d94a2c0d153aafec9bd2a292f2ef3dba964bdcbff182b" name="a7908847b61cb33598912d94a2c0d153aafec9bd2a292f2ef3dba964bdcbff182b"></a>OBJECTIVESTATE_ALLIANCE_HORDE_CHALLENGE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a7908847b61cb33598912d94a2c0d153aa9361cd97baf1e11b2ed70f50c26cdb4a" name="a7908847b61cb33598912d94a2c0d153aa9361cd97baf1e11b2ed70f50c26cdb4a"></a>OBJECTIVESTATE_HORDE_ALLIANCE_CHALLENGE&#160;</td><td class="fielddoc"></td></tr>
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="acd25f1c729cc9c78338c6bc117dcd5e1a886d1d7fc710f19b1f98a28dd6652d81" name="acd25f1c729cc9c78338c6bc117dcd5e1a886d1d7fc710f19b1f98a28dd6652d81"></a>WARDEN_ACTION_LOG&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="acd25f1c729cc9c78338c6bc117dcd5e1a3e6856d34f7e97f6cafcce4a86315d13" name="acd25f1c729cc9c78338c6bc117dcd5e1a3e6856d34f7e97f6cafcce4a86315d13"></a>WARDEN_ACTION_KICK&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="acd25f1c729cc9c78338c6bc117dcd5e1a420c50c42a2e76090d4a4ab690885ae0" name="acd25f1c729cc9c78338c6bc117dcd5e1a420c50c42a2e76090d4a4ab690885ae0"></a>WARDEN_ACTION_BAN&#160;</td><td class="fielddoc"></td></tr>
 </table>
-<div class="fragment"><div class="line"><span class="lineno">   42</span>{</div>
-<div class="line"><span class="lineno">   43</span>    <a class="code hl_enumvalue" href="../../d6/d1d/a02906.html#a7908847b61cb33598912d94a2c0d153aacdbca77e3430d64e7744a243553169b6">OBJECTIVESTATE_NEUTRAL</a> = 0,</div>
-<div class="line"><span class="lineno">   44</span>    <a class="code hl_enumvalue" href="../../d6/d1d/a02906.html#a7908847b61cb33598912d94a2c0d153aa6ba9fe25fdad4f881923232927d51e01">OBJECTIVESTATE_ALLIANCE</a>,</div>
-<div class="line"><span class="lineno">   45</span>    <a class="code hl_enumvalue" href="../../d6/d1d/a02906.html#a7908847b61cb33598912d94a2c0d153aa1c56fbf67a59f2723d09b72a2526e545">OBJECTIVESTATE_HORDE</a>,</div>
-<div class="line"><span class="lineno">   46</span>    <a class="code hl_enumvalue" href="../../d6/d1d/a02906.html#a7908847b61cb33598912d94a2c0d153aa8a761b613f1cc1791a30f2dd6c09a683">OBJECTIVESTATE_NEUTRAL_ALLIANCE_CHALLENGE</a>,</div>
-<div class="line"><span class="lineno">   47</span>    <a class="code hl_enumvalue" href="../../d6/d1d/a02906.html#a7908847b61cb33598912d94a2c0d153aa2b3829ced9f7338c806056bcbaf4f143">OBJECTIVESTATE_NEUTRAL_HORDE_CHALLENGE</a>,</div>
-<div class="line"><span class="lineno">   48</span>    <a class="code hl_enumvalue" href="../../d6/d1d/a02906.html#a7908847b61cb33598912d94a2c0d153aafec9bd2a292f2ef3dba964bdcbff182b">OBJECTIVESTATE_ALLIANCE_HORDE_CHALLENGE</a>,</div>
-<div class="line"><span class="lineno">   49</span>    <a class="code hl_enumvalue" href="../../d6/d1d/a02906.html#a7908847b61cb33598912d94a2c0d153aa9361cd97baf1e11b2ed70f50c26cdb4a">OBJECTIVESTATE_HORDE_ALLIANCE_CHALLENGE</a>,</div>
-<div class="line"><span class="lineno">   50</span>};</div>
-<div class="ttc" id="aa02906_html_a7908847b61cb33598912d94a2c0d153aa1c56fbf67a59f2723d09b72a2526e545"><div class="ttname"><a href="../../d6/d1d/a02906.html#a7908847b61cb33598912d94a2c0d153aa1c56fbf67a59f2723d09b72a2526e545">OBJECTIVESTATE_HORDE</a></div><div class="ttdeci">@ OBJECTIVESTATE_HORDE</div><div class="ttdef"><b>Definition:</b> OutdoorPvP.h:45</div></div>
-<div class="ttc" id="aa02906_html_a7908847b61cb33598912d94a2c0d153aa2b3829ced9f7338c806056bcbaf4f143"><div class="ttname"><a href="../../d6/d1d/a02906.html#a7908847b61cb33598912d94a2c0d153aa2b3829ced9f7338c806056bcbaf4f143">OBJECTIVESTATE_NEUTRAL_HORDE_CHALLENGE</a></div><div class="ttdeci">@ OBJECTIVESTATE_NEUTRAL_HORDE_CHALLENGE</div><div class="ttdef"><b>Definition:</b> OutdoorPvP.h:47</div></div>
-<div class="ttc" id="aa02906_html_a7908847b61cb33598912d94a2c0d153aa6ba9fe25fdad4f881923232927d51e01"><div class="ttname"><a href="../../d6/d1d/a02906.html#a7908847b61cb33598912d94a2c0d153aa6ba9fe25fdad4f881923232927d51e01">OBJECTIVESTATE_ALLIANCE</a></div><div class="ttdeci">@ OBJECTIVESTATE_ALLIANCE</div><div class="ttdef"><b>Definition:</b> OutdoorPvP.h:44</div></div>
-<div class="ttc" id="aa02906_html_a7908847b61cb33598912d94a2c0d153aa8a761b613f1cc1791a30f2dd6c09a683"><div class="ttname"><a href="../../d6/d1d/a02906.html#a7908847b61cb33598912d94a2c0d153aa8a761b613f1cc1791a30f2dd6c09a683">OBJECTIVESTATE_NEUTRAL_ALLIANCE_CHALLENGE</a></div><div class="ttdeci">@ OBJECTIVESTATE_NEUTRAL_ALLIANCE_CHALLENGE</div><div class="ttdef"><b>Definition:</b> OutdoorPvP.h:46</div></div>
-<div class="ttc" id="aa02906_html_a7908847b61cb33598912d94a2c0d153aa9361cd97baf1e11b2ed70f50c26cdb4a"><div class="ttname"><a href="../../d6/d1d/a02906.html#a7908847b61cb33598912d94a2c0d153aa9361cd97baf1e11b2ed70f50c26cdb4a">OBJECTIVESTATE_HORDE_ALLIANCE_CHALLENGE</a></div><div class="ttdeci">@ OBJECTIVESTATE_HORDE_ALLIANCE_CHALLENGE</div><div class="ttdef"><b>Definition:</b> OutdoorPvP.h:49</div></div>
-<div class="ttc" id="aa02906_html_a7908847b61cb33598912d94a2c0d153aacdbca77e3430d64e7744a243553169b6"><div class="ttname"><a href="../../d6/d1d/a02906.html#a7908847b61cb33598912d94a2c0d153aacdbca77e3430d64e7744a243553169b6">OBJECTIVESTATE_NEUTRAL</a></div><div class="ttdeci">@ OBJECTIVESTATE_NEUTRAL</div><div class="ttdef"><b>Definition:</b> OutdoorPvP.h:43</div></div>
-<div class="ttc" id="aa02906_html_a7908847b61cb33598912d94a2c0d153aafec9bd2a292f2ef3dba964bdcbff182b"><div class="ttname"><a href="../../d6/d1d/a02906.html#a7908847b61cb33598912d94a2c0d153aafec9bd2a292f2ef3dba964bdcbff182b">OBJECTIVESTATE_ALLIANCE_HORDE_CHALLENGE</a></div><div class="ttdeci">@ OBJECTIVESTATE_ALLIANCE_HORDE_CHALLENGE</div><div class="ttdef"><b>Definition:</b> OutdoorPvP.h:48</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   26</span>{</div>
+<div class="line"><span class="lineno">   27</span>    <a class="code hl_enumvalue" href="../../d6/d1d/a02906.html#acd25f1c729cc9c78338c6bc117dcd5e1a886d1d7fc710f19b1f98a28dd6652d81">WARDEN_ACTION_LOG</a>,  <span class="comment">// TITLE Log</span></div>
+<div class="line"><span class="lineno">   28</span>    <a class="code hl_enumvalue" href="../../d6/d1d/a02906.html#acd25f1c729cc9c78338c6bc117dcd5e1a3e6856d34f7e97f6cafcce4a86315d13">WARDEN_ACTION_KICK</a>, <span class="comment">// TITLE Kick</span></div>
+<div class="line"><span class="lineno">   29</span>    <a class="code hl_enumvalue" href="../../d6/d1d/a02906.html#acd25f1c729cc9c78338c6bc117dcd5e1a420c50c42a2e76090d4a4ab690885ae0">WARDEN_ACTION_BAN</a>   <span class="comment">// TITLE Ban</span></div>
+<div class="line"><span class="lineno">   30</span>};</div>
+<div class="ttc" id="aa02906_html_acd25f1c729cc9c78338c6bc117dcd5e1a3e6856d34f7e97f6cafcce4a86315d13"><div class="ttname"><a href="../../d6/d1d/a02906.html#acd25f1c729cc9c78338c6bc117dcd5e1a3e6856d34f7e97f6cafcce4a86315d13">WARDEN_ACTION_KICK</a></div><div class="ttdeci">@ WARDEN_ACTION_KICK</div><div class="ttdef"><b>Definition:</b> WardenCheckMgr.h:28</div></div>
+<div class="ttc" id="aa02906_html_acd25f1c729cc9c78338c6bc117dcd5e1a420c50c42a2e76090d4a4ab690885ae0"><div class="ttname"><a href="../../d6/d1d/a02906.html#acd25f1c729cc9c78338c6bc117dcd5e1a420c50c42a2e76090d4a4ab690885ae0">WARDEN_ACTION_BAN</a></div><div class="ttdeci">@ WARDEN_ACTION_BAN</div><div class="ttdef"><b>Definition:</b> WardenCheckMgr.h:29</div></div>
+<div class="ttc" id="aa02906_html_acd25f1c729cc9c78338c6bc117dcd5e1a886d1d7fc710f19b1f98a28dd6652d81"><div class="ttname"><a href="../../d6/d1d/a02906.html#acd25f1c729cc9c78338c6bc117dcd5e1a886d1d7fc710f19b1f98a28dd6652d81">WARDEN_ACTION_LOG</a></div><div class="ttdeci">@ WARDEN_ACTION_LOG</div><div class="ttdef"><b>Definition:</b> WardenCheckMgr.h:27</div></div>
 </div><!-- fragment -->
 </div>
 </div>
-<a id="a56e7764289940901c2a230103f78adee" name="a56e7764289940901c2a230103f78adee"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a56e7764289940901c2a230103f78adee">&#9670;&#160;</a></span>OutdoorPvPTypes</h2>
+<a id="ad353d1b1b229bf72b97440ac296da2f0" name="ad353d1b1b229bf72b97440ac296da2f0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad353d1b1b229bf72b97440ac296da2f0">&#9670;&#160;</a></span>WardenCheckTypes</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">enum <a class="el" href="../../d6/d1d/a02906.html#a56e7764289940901c2a230103f78adee">OutdoorPvPTypes</a></td>
+          <td class="memname">enum <a class="el" href="../../d6/d1d/a02906.html#ad353d1b1b229bf72b97440ac296da2f0">WardenCheckTypes</a></td>
         </tr>
       </table>
 </div><div class="memdoc">
 <table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a56e7764289940901c2a230103f78adeeaec0ceb2120bb05c7b67c96acb5f5c780" name="a56e7764289940901c2a230103f78adeeaec0ceb2120bb05c7b67c96acb5f5c780"></a>OUTDOOR_PVP_HP&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a56e7764289940901c2a230103f78adeeade464dddf74821e2cae470176a593811" name="a56e7764289940901c2a230103f78adeeade464dddf74821e2cae470176a593811"></a>OUTDOOR_PVP_NA&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a56e7764289940901c2a230103f78adeea62e94746420e27ec7bd9c56ea578caab" name="a56e7764289940901c2a230103f78adeea62e94746420e27ec7bd9c56ea578caab"></a>OUTDOOR_PVP_TF&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a56e7764289940901c2a230103f78adeea835e4d954507eb3cb658b3b0f9d59dfc" name="a56e7764289940901c2a230103f78adeea835e4d954507eb3cb658b3b0f9d59dfc"></a>OUTDOOR_PVP_ZM&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a56e7764289940901c2a230103f78adeea30dd8f698b5a13bb149d2aefbb8d8b3e" name="a56e7764289940901c2a230103f78adeea30dd8f698b5a13bb149d2aefbb8d8b3e"></a>OUTDOOR_PVP_SI&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a56e7764289940901c2a230103f78adeeadb5d1cbc5e091b87603c561df5fb6125" name="a56e7764289940901c2a230103f78adeeadb5d1cbc5e091b87603c561df5fb6125"></a>OUTDOOR_PVP_EP&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a56e7764289940901c2a230103f78adeead76b70163971bf73abcdc457607a60c6" name="a56e7764289940901c2a230103f78adeead76b70163971bf73abcdc457607a60c6"></a>OUTDOOR_PVP_GH&#160;</td><td class="fielddoc"></td></tr>
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="ad353d1b1b229bf72b97440ac296da2f0a3a995022793f145e1eb48b42d3aadfb3" name="ad353d1b1b229bf72b97440ac296da2f0a3a995022793f145e1eb48b42d3aadfb3"></a>WARDEN_CHECK_MEM_TYPE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ad353d1b1b229bf72b97440ac296da2f0a78405e80a7b4bf4186706d64389e96af" name="ad353d1b1b229bf72b97440ac296da2f0a78405e80a7b4bf4186706d64389e96af"></a>WARDEN_CHECK_LUA_TYPE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ad353d1b1b229bf72b97440ac296da2f0ab3ea81385a6db9185a94c0715749ffe2" name="ad353d1b1b229bf72b97440ac296da2f0ab3ea81385a6db9185a94c0715749ffe2"></a>WARDEN_CHECK_OTHER_TYPE&#160;</td><td class="fielddoc"></td></tr>
 </table>
-<div class="fragment"><div class="line"><span class="lineno">   29</span>{</div>
-<div class="line"><span class="lineno">   30</span>    <a class="code hl_enumvalue" href="../../d6/d1d/a02906.html#a56e7764289940901c2a230103f78adeeaec0ceb2120bb05c7b67c96acb5f5c780">OUTDOOR_PVP_HP</a> = 1,</div>
-<div class="line"><span class="lineno">   31</span>    <a class="code hl_enumvalue" href="../../d6/d1d/a02906.html#a56e7764289940901c2a230103f78adeeade464dddf74821e2cae470176a593811">OUTDOOR_PVP_NA</a> = 2,</div>
-<div class="line"><span class="lineno">   32</span>    <a class="code hl_enumvalue" href="../../d6/d1d/a02906.html#a56e7764289940901c2a230103f78adeea62e94746420e27ec7bd9c56ea578caab">OUTDOOR_PVP_TF</a> = 3,</div>
-<div class="line"><span class="lineno">   33</span>    <a class="code hl_enumvalue" href="../../d6/d1d/a02906.html#a56e7764289940901c2a230103f78adeea835e4d954507eb3cb658b3b0f9d59dfc">OUTDOOR_PVP_ZM</a> = 4,</div>
-<div class="line"><span class="lineno">   34</span>    <a class="code hl_enumvalue" href="../../d6/d1d/a02906.html#a56e7764289940901c2a230103f78adeea30dd8f698b5a13bb149d2aefbb8d8b3e">OUTDOOR_PVP_SI</a> = 5,</div>
-<div class="line"><span class="lineno">   35</span>    <a class="code hl_enumvalue" href="../../d6/d1d/a02906.html#a56e7764289940901c2a230103f78adeeadb5d1cbc5e091b87603c561df5fb6125">OUTDOOR_PVP_EP</a> = 6,</div>
-<div class="line"><span class="lineno">   36</span>    <a class="code hl_enumvalue" href="../../d6/d1d/a02906.html#a56e7764289940901c2a230103f78adeead76b70163971bf73abcdc457607a60c6">OUTDOOR_PVP_GH</a> = 7,</div>
-<div class="line"><span class="lineno">   37</span>};</div>
-<div class="ttc" id="aa02906_html_a56e7764289940901c2a230103f78adeea30dd8f698b5a13bb149d2aefbb8d8b3e"><div class="ttname"><a href="../../d6/d1d/a02906.html#a56e7764289940901c2a230103f78adeea30dd8f698b5a13bb149d2aefbb8d8b3e">OUTDOOR_PVP_SI</a></div><div class="ttdeci">@ OUTDOOR_PVP_SI</div><div class="ttdef"><b>Definition:</b> OutdoorPvP.h:34</div></div>
-<div class="ttc" id="aa02906_html_a56e7764289940901c2a230103f78adeea62e94746420e27ec7bd9c56ea578caab"><div class="ttname"><a href="../../d6/d1d/a02906.html#a56e7764289940901c2a230103f78adeea62e94746420e27ec7bd9c56ea578caab">OUTDOOR_PVP_TF</a></div><div class="ttdeci">@ OUTDOOR_PVP_TF</div><div class="ttdef"><b>Definition:</b> OutdoorPvP.h:32</div></div>
-<div class="ttc" id="aa02906_html_a56e7764289940901c2a230103f78adeea835e4d954507eb3cb658b3b0f9d59dfc"><div class="ttname"><a href="../../d6/d1d/a02906.html#a56e7764289940901c2a230103f78adeea835e4d954507eb3cb658b3b0f9d59dfc">OUTDOOR_PVP_ZM</a></div><div class="ttdeci">@ OUTDOOR_PVP_ZM</div><div class="ttdef"><b>Definition:</b> OutdoorPvP.h:33</div></div>
-<div class="ttc" id="aa02906_html_a56e7764289940901c2a230103f78adeead76b70163971bf73abcdc457607a60c6"><div class="ttname"><a href="../../d6/d1d/a02906.html#a56e7764289940901c2a230103f78adeead76b70163971bf73abcdc457607a60c6">OUTDOOR_PVP_GH</a></div><div class="ttdeci">@ OUTDOOR_PVP_GH</div><div class="ttdef"><b>Definition:</b> OutdoorPvP.h:36</div></div>
-<div class="ttc" id="aa02906_html_a56e7764289940901c2a230103f78adeeadb5d1cbc5e091b87603c561df5fb6125"><div class="ttname"><a href="../../d6/d1d/a02906.html#a56e7764289940901c2a230103f78adeeadb5d1cbc5e091b87603c561df5fb6125">OUTDOOR_PVP_EP</a></div><div class="ttdeci">@ OUTDOOR_PVP_EP</div><div class="ttdef"><b>Definition:</b> OutdoorPvP.h:35</div></div>
-<div class="ttc" id="aa02906_html_a56e7764289940901c2a230103f78adeeade464dddf74821e2cae470176a593811"><div class="ttname"><a href="../../d6/d1d/a02906.html#a56e7764289940901c2a230103f78adeeade464dddf74821e2cae470176a593811">OUTDOOR_PVP_NA</a></div><div class="ttdeci">@ OUTDOOR_PVP_NA</div><div class="ttdef"><b>Definition:</b> OutdoorPvP.h:31</div></div>
-<div class="ttc" id="aa02906_html_a56e7764289940901c2a230103f78adeeaec0ceb2120bb05c7b67c96acb5f5c780"><div class="ttname"><a href="../../d6/d1d/a02906.html#a56e7764289940901c2a230103f78adeeaec0ceb2120bb05c7b67c96acb5f5c780">OUTDOOR_PVP_HP</a></div><div class="ttdeci">@ OUTDOOR_PVP_HP</div><div class="ttdef"><b>Definition:</b> OutdoorPvP.h:30</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   35</span>{</div>
+<div class="line"><span class="lineno">   36</span>    <a class="code hl_enumvalue" href="../../d6/d1d/a02906.html#ad353d1b1b229bf72b97440ac296da2f0a3a995022793f145e1eb48b42d3aadfb3">WARDEN_CHECK_MEM_TYPE</a>   = 0,</div>
+<div class="line"><span class="lineno">   37</span>    <a class="code hl_enumvalue" href="../../d6/d1d/a02906.html#ad353d1b1b229bf72b97440ac296da2f0a78405e80a7b4bf4186706d64389e96af">WARDEN_CHECK_LUA_TYPE</a>   = 1,</div>
+<div class="line"><span class="lineno">   38</span>    <a class="code hl_enumvalue" href="../../d6/d1d/a02906.html#ad353d1b1b229bf72b97440ac296da2f0ab3ea81385a6db9185a94c0715749ffe2">WARDEN_CHECK_OTHER_TYPE</a> = 2,</div>
+<div class="line"><span class="lineno">   39</span>};</div>
+<div class="ttc" id="aa02906_html_ad353d1b1b229bf72b97440ac296da2f0a3a995022793f145e1eb48b42d3aadfb3"><div class="ttname"><a href="../../d6/d1d/a02906.html#ad353d1b1b229bf72b97440ac296da2f0a3a995022793f145e1eb48b42d3aadfb3">WARDEN_CHECK_MEM_TYPE</a></div><div class="ttdeci">@ WARDEN_CHECK_MEM_TYPE</div><div class="ttdef"><b>Definition:</b> WardenCheckMgr.h:36</div></div>
+<div class="ttc" id="aa02906_html_ad353d1b1b229bf72b97440ac296da2f0a78405e80a7b4bf4186706d64389e96af"><div class="ttname"><a href="../../d6/d1d/a02906.html#ad353d1b1b229bf72b97440ac296da2f0a78405e80a7b4bf4186706d64389e96af">WARDEN_CHECK_LUA_TYPE</a></div><div class="ttdeci">@ WARDEN_CHECK_LUA_TYPE</div><div class="ttdef"><b>Definition:</b> WardenCheckMgr.h:37</div></div>
+<div class="ttc" id="aa02906_html_ad353d1b1b229bf72b97440ac296da2f0ab3ea81385a6db9185a94c0715749ffe2"><div class="ttname"><a href="../../d6/d1d/a02906.html#ad353d1b1b229bf72b97440ac296da2f0ab3ea81385a6db9185a94c0715749ffe2">WARDEN_CHECK_OTHER_TYPE</a></div><div class="ttdeci">@ WARDEN_CHECK_OTHER_TYPE</div><div class="ttdef"><b>Definition:</b> WardenCheckMgr.h:38</div></div>
 </div><!-- fragment -->
+</div>
+</div>
+<h2 class="groupheader">Variable Documentation</h2>
+<a id="afa0b1cff6db4dd71ef500011182f2834" name="afa0b1cff6db4dd71ef500011182f2834"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#afa0b1cff6db4dd71ef500011182f2834">&#9670;&#160;</a></span>MAX_WARDEN_ACTION</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">constexpr <a class="el" href="../../d0/dbd/a04634.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> MAX_WARDEN_ACTION = 3</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">constexpr</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00040">WardenCheckMgr::LoadWardenChecks()</a>.</p>
+
+</div>
+</div>
+<a id="a80604a840828219101f07100a7a48dad" name="a80604a840828219101f07100a7a48dad"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a80604a840828219101f07100a7a48dad">&#9670;&#160;</a></span>MAX_WARDEN_CHECK_TYPES</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">constexpr <a class="el" href="../../d0/dbd/a04634.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> MAX_WARDEN_CHECK_TYPES = 3</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">constexpr</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00091">GetMaxWardenChecksForType()</a>, and <a class="el" href="../../#l00277">WardenWin::RequestChecks()</a>.</p>
+
+</div>
+</div>
+<a id="a005df8388201fb598a4eedfeac422fbc" name="a005df8388201fb598a4eedfeac422fbc"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a005df8388201fb598a4eedfeac422fbc">&#9670;&#160;</a></span>WARDEN_MAX_LUA_CHECK_LENGTH</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">constexpr <a class="el" href="../../d0/dbd/a04634.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> WARDEN_MAX_LUA_CHECK_LENGTH = 170</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">constexpr</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00040">WardenCheckMgr::LoadWardenChecks()</a>.</p>
+
 </div>
 </div>
 </div><!-- contents -->
@@ -291,8 +309,8 @@ Enumerations</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_25d8f4185a27c7d78867bf9666699c3c.html">OutdoorPvP</a></li><li class="navelem"><a class="el" href="../../d6/d1d/a02906.html">OutdoorPvP.h</a></li>
-    <li class="footer">Generated on Mon May 5 2025 20:44:59 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_4b21bdf52d2a98b0776a5d7d01fdcc43.html">Warden</a></li><li class="navelem"><a class="el" href="../../d6/d1d/a02906.html">WardenCheckMgr.h</a></li>
+    <li class="footer">Generated on Mon May 12 2025 20:45:18 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

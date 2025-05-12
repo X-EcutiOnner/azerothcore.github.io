@@ -1,8 +1,12 @@
 var a22863 =
 [
-    [ "HandleEffectApply", "de/db8/a22863.html#a94993441ef94f84c85aa10c693cf34fe", null ],
-    [ "HandleEffectRemove", "de/db8/a22863.html#a047a1dd4bab33d7d5b2631c0862ba4b0", null ],
-    [ "PrepareAuraScript", "de/db8/a22863.html#a0ced86fc2e108e7bba9727d26eac3ff3", null ],
-    [ "Register", "de/db8/a22863.html#a0dbd8b0bc1dfad8bda0e48ab57b4db3f", null ],
-    [ "Validate", "de/db8/a22863.html#a964637541cd64e64b4e02c00d36abf2d", null ]
+    [ "boss_shade_of_akama", "de/db8/a22863.html#a385bf995d19652254d6ae8a447c23c37", null ],
+    [ "EnterEvadeMode", "de/db8/a22863.html#a690f8058fb4358b98960177d76864275", null ],
+    [ "JustDied", "de/db8/a22863.html#aa22052befeb48c0c7ec3a3cedd91daff", null ],
+    [ "MovementInform", "de/db8/a22863.html#a345707efebd5027c01a25a563d1e6f43", null ],
+    [ "Reset", "de/db8/a22863.html#a19a1aca1a599704612ac845001895b4f", null ],
+    [ "SpellHit", "de/db8/a22863.html#a5a49f0dab7ce6ee81b9ed8deb5704720", null ],
+    [ "UpdateAI", "de/db8/a22863.html#a25ffed5526b1f25eb1cf790745e2a7c7", null ],
+    [ "channelers", "de/db8/a22863.html#a63372527172d3f96f533b5776221c2e7", null ],
+    [ "generators", "de/db8/a22863.html#a3ebaa870a9c3c9b5a0590b8cdc32d857", null ]
 ];

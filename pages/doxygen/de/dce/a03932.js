@@ -1,9 +1,15 @@
 var a03932 =
 [
-    [ "RandomMovementGenerator< T >", "de/d42/a09964.html", "de/d42/a09964" ],
-    [ "MAX_PATH_LENGHT_FACTOR", "de/dce/a03932.html#a6e563601030e3152f7023ecd4fa3f3c7", null ],
-    [ "MIN_WANDER_DISTANCE_AIR", "de/dce/a03932.html#a81b46c6e5a328cf46ead22b160a8a576", null ],
-    [ "MIN_WANDER_DISTANCE_GROUND", "de/dce/a03932.html#a85e56933db548199999e1edb8e96836d", null ],
-    [ "RANDOM_LINKS_COUNT", "de/dce/a03932.html#af447061c654f18b25537973f2739dad3", null ],
-    [ "RANDOM_POINTS_NUMBER", "de/dce/a03932.html#ac0f6eaac315a81192c2307dcbac20f70", null ]
+    [ "Socket< T >", "da/da2/a28363.html", "da/da2/a28363" ],
+    [ "READ_BLOCK_SIZE", "de/dce/a03932.html#a16ba013af02b9d4400b5e47d8daa022b", null ],
+    [ "ProxyHeaderAddressFamilyAndProtocol", "de/dce/a03932.html#a7ddce6d0420753babeb6258ada50eec1", [
+      [ "PROXY_HEADER_ADDRESS_FAMILY_AND_PROTOCOL_TCP_V4", "de/dce/a03932.html#a7ddce6d0420753babeb6258ada50eec1a9d87d0a8da10465b32fd9a322c2a8575", null ],
+      [ "PROXY_HEADER_ADDRESS_FAMILY_AND_PROTOCOL_TCP_V6", "de/dce/a03932.html#a7ddce6d0420753babeb6258ada50eec1a5b0f57dac80a77ad98bc0d371a22f699", null ]
+    ] ],
+    [ "ProxyHeaderReadingState", "de/dce/a03932.html#aa514bb66fa404b5b180297bb005c3272", [
+      [ "PROXY_HEADER_READING_STATE_NOT_STARTED", "de/dce/a03932.html#aa514bb66fa404b5b180297bb005c3272a0bd44a601a6d6745f442535a457fc67c", null ],
+      [ "PROXY_HEADER_READING_STATE_STARTED", "de/dce/a03932.html#aa514bb66fa404b5b180297bb005c3272a6b5e85386b6638d1a72fa2520f355c98", null ],
+      [ "PROXY_HEADER_READING_STATE_FINISHED", "de/dce/a03932.html#aa514bb66fa404b5b180297bb005c3272a2898c80db946e4ae677297c1954470fb", null ],
+      [ "PROXY_HEADER_READING_STATE_FAILED", "de/dce/a03932.html#aa514bb66fa404b5b180297bb005c3272a7a96033158689ba0590a86245f58922f", null ]
+    ] ]
 ];

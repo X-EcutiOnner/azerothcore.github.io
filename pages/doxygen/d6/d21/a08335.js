@@ -1,7 +1,12 @@
 var a08335 =
 [
-    [ "ItemPosCount", "d6/d21/a08335.html#a43458da1fc31d827b6de726754f7901e", null ],
-    [ "isContainedIn", "d6/d21/a08335.html#a6977c544a2d39ca5872b75f27517974f", null ],
-    [ "count", "d6/d21/a08335.html#a4e09f94aa0808f76b2d5ff23691abb27", null ],
-    [ "pos", "d6/d21/a08335.html#ad8954f1a6323316510cfe0f332ee495f", null ]
+    [ "WorldObjectChangeAccumulator", "d6/d21/a08335.html#a853a5c84dec75f115eddd3e1b7ff0b78", null ],
+    [ "BuildPacket", "d6/d21/a08335.html#ab4b9da3effe2a4f6e2cb6ecf268f429c", null ],
+    [ "Visit", "d6/d21/a08335.html#ae18ca5886c95a6c4c00bdbc1920a5655", null ],
+    [ "Visit", "d6/d21/a08335.html#a9afa50ac9e36cd357706e8e838df56a0", null ],
+    [ "Visit", "d6/d21/a08335.html#aec62fc91f4b364e72a3d5afd5a1a7276", null ],
+    [ "Visit", "d6/d21/a08335.html#a9815c06dbd29710cac2c99301c17b01c", null ],
+    [ "i_object", "d6/d21/a08335.html#ab94d7f943107060caf742f9b6cca92e4", null ],
+    [ "i_playerSet", "d6/d21/a08335.html#a0e17c2bf7a78cf5ef68e6fc7b29f0262", null ],
+    [ "i_updateDatas", "d6/d21/a08335.html#a1446b9dae0dfc0325228870c815da23a", null ]
 ];

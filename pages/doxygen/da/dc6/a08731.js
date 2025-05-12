@@ -1,8 +1,13 @@
 var a08731 =
 [
-    [ "MailLevelReward", "da/dc6/a08731.html#accd52642cbbab457b69dba54a6ffa23b", null ],
-    [ "MailLevelReward", "da/dc6/a08731.html#a3e98aa5c30b0b5648784f9aaf5349a76", null ],
-    [ "mailTemplateId", "da/dc6/a08731.html#afdf6684bcd2751822bd00ba1509ef933", null ],
-    [ "raceMask", "da/dc6/a08731.html#a341088acd89b79161d932367f4f1798d", null ],
-    [ "senderEntry", "da/dc6/a08731.html#a2b678ac953209691b38d583cffab55b5", null ]
+    [ "MMapTargetData", "da/dc6/a08731.html#a33cc430ea3c4b5dd4012a16914dc8aeb", null ],
+    [ "MMapTargetData", "da/dc6/a08731.html#a8312ea3187617e78b28aab842a8284cc", null ],
+    [ "MMapTargetData", "da/dc6/a08731.html#a4108ff5fbbf7c468ff7d90ac7beea4fa", null ],
+    [ "MMapTargetData", "da/dc6/a08731.html#a3547f93af46826a051f1164ac1fc9ccc", null ],
+    [ "operator=", "da/dc6/a08731.html#a4053689f5f675cf1a621dfb39211b3cc", null ],
+    [ "operator=", "da/dc6/a08731.html#a130fe2b359f583acab99c51eb9d0b1ad", null ],
+    [ "PosChanged", "da/dc6/a08731.html#ade55876b7781b47a72dac9fea1f2e420", null ],
+    [ "_endTime", "da/dc6/a08731.html#a5506c303d668bbead180fe2a8c2ed48e", null ],
+    [ "_posOwner", "da/dc6/a08731.html#aeaf1e739388ab834e8c845fa366bbfd3", null ],
+    [ "_posTarget", "da/dc6/a08731.html#a7f089d873690e8ea549f6345b6598fc4", null ]
 ];

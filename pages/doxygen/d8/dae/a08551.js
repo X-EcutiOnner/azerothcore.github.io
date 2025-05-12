@@ -1,7 +1,10 @@
 var a08551 =
 [
-    [ "done", "d8/dae/a08551.html#a498ebc454773a2c4c8d9452ed5bd3015", null ],
-    [ "done_world_state", "d8/dae/a08551.html#a679379a2b44542e74d103ba851811b52", null ],
-    [ "max_world_state", "d8/dae/a08551.html#a819dcff56a5795a63146aca64b46811b", null ],
-    [ "reqNum", "d8/dae/a08551.html#ae74eb755e1a6f5d8800790351f662d21", null ]
+    [ "EquipmentSet", "d8/dae/a08551.html#acd3085c12c795daceae86e94448109e2", null ],
+    [ "Guid", "d8/dae/a08551.html#aae529ea61a2ad4f114b6a108564f5474", null ],
+    [ "IconName", "d8/dae/a08551.html#a40233dfcc23f125ff88693d6c7d7fab5", null ],
+    [ "IgnoreMask", "d8/dae/a08551.html#af116e824d23f000f424f3b261618e827", null ],
+    [ "Items", "d8/dae/a08551.html#a113e6e5883afe38d446a6d435cd34a01", null ],
+    [ "Name", "d8/dae/a08551.html#a2b4691a1b44ae47e7d3c2e63f88d78ba", null ],
+    [ "state", "d8/dae/a08551.html#a7e2270a6041dda26f8bc7f8c82597e7f", null ]
 ];

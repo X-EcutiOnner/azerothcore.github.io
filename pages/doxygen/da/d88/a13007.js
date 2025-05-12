@@ -1,6 +1,7 @@
 var a13007 =
 [
-    [ "npc_demonic_vaporAI", "da/d88/a13007.html#a2ba962b2bd049d563d7788bb4cfa5be3", null ],
-    [ "Reset", "da/d88/a13007.html#a37841718d3da8dfa245fd9a9a055b2e8", null ],
-    [ "UpdateAI", "da/d88/a13007.html#ace430e1419edf2542fd0c9d5cfc925f1", null ]
+    [ "HandleScript", "da/d88/a13007.html#a03f8c24445ee4ac82a4cf2caece38f90", null ],
+    [ "PrepareSpellScript", "da/d88/a13007.html#a034195e58f02225c172b70c3967fe3ad", null ],
+    [ "Register", "da/d88/a13007.html#afaf3a6fd54f499982bd1cfd6e4c6c1a2", null ],
+    [ "Validate", "da/d88/a13007.html#a8ac78c00c49b1eb2fade4100a810d367", null ]
 ];

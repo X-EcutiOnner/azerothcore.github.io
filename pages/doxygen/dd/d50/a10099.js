@@ -1,6 +1,5 @@
 var a10099 =
 [
-    [ "WorldMapScript", "dd/d50/a10099.html#a49300e796ceb6ab1a40ed9cbb89a9e4d", null ],
-    [ "checkValidity", "dd/d50/a10099.html#aa212e582764d2cfbc5e7e600a54f2cb4", null ],
-    [ "isAfterLoadScript", "dd/d50/a10099.html#a6aeda6e4c8328d7334527cbe69311ddc", null ]
+    [ "petitionGuid", "dd/d50/a10099.html#adafc1020d722bd3885429041ce9a292c", null ],
+    [ "signatureMap", "dd/d50/a10099.html#a70bd865a5b11ffc0ceed08b683548b42", null ]
 ];

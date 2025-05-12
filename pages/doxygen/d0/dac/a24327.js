@@ -1,6 +1,8 @@
 var a24327 =
 [
-    [ "achievement", "d0/dac/a24327.html#abb6071e172abbcbc65020a0ad9554a03", null ],
-    [ "spell", "d0/dac/a24327.html#a740f9162b10d31d1677a4ac4f5926db6", null ],
-    [ "text", "d0/dac/a24327.html#aa92e42bc2c54c3b4b1022d5767fcf10c", null ]
+    [ "npc_pet_gen_valkyr_guardian", "d0/dac/a24327.html#a546f0b0b4273de8216e9f688c2d68209", null ],
+    [ "InitializeAI", "d0/dac/a24327.html#ac32c8bb1e1014015a0ab92417bbc78a9", null ],
+    [ "OwnerAttacked", "d0/dac/a24327.html#a7f0bcedd78d88cdc802ba66c0ff7d927", null ],
+    [ "UpdateAI", "d0/dac/a24327.html#a9a5a233763365c6cca5618459a23a816", null ],
+    [ "targetCheck", "d0/dac/a24327.html#aa530b6b6415c85cd76f44d625329c2fb", null ]
 ];

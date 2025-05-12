@@ -1,11 +1,20 @@
 var a22643 =
 [
-    [ "boss_murmur", "d2/dbc/a22643.html#ad89ea433764c3017a3d33b37eb9e5602", null ],
-    [ "CanAIAttack", "d2/dbc/a22643.html#a6b89c95747c0a37c0b37527cd360e524", null ],
-    [ "CastSupressionOOC", "d2/dbc/a22643.html#a2b278a58870e9ad290177854fc011f76", null ],
-    [ "EnterEvadeMode", "d2/dbc/a22643.html#aa0f549c83a92302ece2323c75dd29acc", null ],
-    [ "JustEngagedWith", "d2/dbc/a22643.html#a3d872beeee7bf6ecd0c4aeaa3f8c603d", null ],
-    [ "Reset", "d2/dbc/a22643.html#a1f40ead1b2269b97c69bd4db808d6bae", null ],
-    [ "SetGUID", "d2/dbc/a22643.html#a88e18fd646a807ee92f1b24b43d500a6", null ],
-    [ "ShouldCastResonance", "d2/dbc/a22643.html#ade07217a85655a513d7a472d24589691", null ]
+    [ "boss_illidan_stormrage", "d2/dbc/a22643.html#a87e74bda2af623ba5c70911a033c6d6f", null ],
+    [ "CanAIAttack", "d2/dbc/a22643.html#a9607a9a09df9d07ebae0513458435b4d", null ],
+    [ "CycleBeamPos", "d2/dbc/a22643.html#a2044514c049262328022ac22a651fb92", null ],
+    [ "DamageTaken", "d2/dbc/a22643.html#ad568e3993f74ad0dd0b2f4e630fcb7f1", null ],
+    [ "DoAction", "d2/dbc/a22643.html#aad32a8fab5f1ca21824790d2da4d086b", null ],
+    [ "EnterEvadeMode", "d2/dbc/a22643.html#ab07e90f48ee9e84298b24b8e7cdb192f", null ],
+    [ "JustDied", "d2/dbc/a22643.html#a4d38abd8885862e31a88da4de754e35d", null ],
+    [ "JustEngagedWith", "d2/dbc/a22643.html#aa2d516aea252d55307c9f98212e7ee5e", null ],
+    [ "JustSummoned", "d2/dbc/a22643.html#a2c642790b16d864ae100b5e8f30e4e61", null ],
+    [ "KilledUnit", "d2/dbc/a22643.html#abf29f9607351d35953d8d0e97779c3f9", null ],
+    [ "MovementInform", "d2/dbc/a22643.html#acdd75f289288b3e6de4136267d490519", null ],
+    [ "Reset", "d2/dbc/a22643.html#aa5eb94712f886e821630535cb2970dfe", null ],
+    [ "ScheduleAbilities", "d2/dbc/a22643.html#af230387ddbd1b270e1be69133f4bae38", null ],
+    [ "_canTalk", "d2/dbc/a22643.html#abaf0cca3f159aae572203254c41444a3", null ],
+    [ "_dying", "d2/dbc/a22643.html#af312452020938736624496d9f6a76d28", null ],
+    [ "_inCutscene", "d2/dbc/a22643.html#a715525706b44dbc53847e639f3b15d3a", null ],
+    [ "beamPosId", "d2/dbc/a22643.html#a6168b84bfb49781736fa2accf5225808", null ]
 ];

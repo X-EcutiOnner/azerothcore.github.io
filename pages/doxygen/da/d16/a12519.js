@@ -1,9 +1,12 @@
 var a12519 =
 [
-    [ "npc_eye_of_acherus", "da/d16/a12519.html#a1e0ed0eb0e32cb2e8a5d86869359db6c", null ],
-    [ "InitializeAI", "da/d16/a12519.html#aea655b94bcd590835882793d916d7865", null ],
-    [ "MovementInform", "da/d16/a12519.html#a5e0a360015fdfb1c6a277ba13583a584", null ],
-    [ "OnCharmed", "da/d16/a12519.html#a9a9d274a503ebe06fa503f433f53b0e6", null ],
-    [ "UpdateAI", "da/d16/a12519.html#a092592d0c9ec0f5a95fe550bed559f0e", null ],
-    [ "_events", "da/d16/a12519.html#a08b2eb3aff837408decaa5fa087f5054", null ]
+    [ "BoardCell", "da/d16/a12519.html#a1ecd0d14c1b4896f70caaee83e1c864d", null ],
+    [ "Reset", "da/d16/a12519.html#a22a71e9bd4a4dd9601aa0fffe978009c", null ],
+    [ "SetData", "da/d16/a12519.html#a0e57e888290cbe15b5dafa9788c3f86b", null ],
+    [ "SetPiece", "da/d16/a12519.html#ac919854a2e9d5fc2d1b68960e16cf79d", null ],
+    [ "col", "da/d16/a12519.html#a49707efa5b356ad0dc6f6ff16a652430", null ],
+    [ "pieceEntry", "da/d16/a12519.html#a7697506ccc800d38968e457c44bfa019", null ],
+    [ "pieceGUID", "da/d16/a12519.html#a74f494e406c56d4c61d79539acea684c", null ],
+    [ "row", "da/d16/a12519.html#a195c187e134be546f224cbb0eef8c844", null ],
+    [ "triggerGUID", "da/d16/a12519.html#a9cafdea50739b014a97e60611adcd3f1", null ]
 ];

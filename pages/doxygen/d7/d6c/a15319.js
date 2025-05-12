@@ -1,6 +1,7 @@
 var a15319 =
 [
-    [ "npc_silva_filnaveth", "d7/d6c/a15319.html#a5998381865214a7b3af7823bd2557cb0", null ],
-    [ "OnGossipHello", "d7/d6c/a15319.html#a32019c17271a3f504d86cd694262fd53", null ],
-    [ "OnGossipSelect", "d7/d6c/a15319.html#a10f81dce3dbc3ef0a84c8c33c2cb2e29", null ]
+    [ "npc_aged_dying_ancient_kodoAI", "d7/d5a/a15323.html", "d7/d5a/a15323" ],
+    [ "npc_aged_dying_ancient_kodo", "d7/d6c/a15319.html#a676170a319d3a8e46c9d017e61396c28", null ],
+    [ "GetAI", "d7/d6c/a15319.html#a886bc82764e4ca6d98dc94ea73415375", null ],
+    [ "OnGossipHello", "d7/d6c/a15319.html#a8489b3f23d8eca39f2750711512672e4", null ]
 ];

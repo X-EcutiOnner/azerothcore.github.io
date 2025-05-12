@@ -1,10 +1,8 @@
 var a18103 =
 [
-    [ "npc_shambling_horror_iccAI", "d7/d4d/a18103.html#a0d15c62bead7a4da3c8a8abd0b2ee612", null ],
-    [ "CanAIAttack", "d7/d4d/a18103.html#a6d77fdd16c4b089049ade7f7b081b4e9", null ],
-    [ "DamageTaken", "d7/d4d/a18103.html#aed90f2c487c28190c7af630f4ea2fa13", null ],
-    [ "Reset", "d7/d4d/a18103.html#ac5bab3d9f360e4e00dcab9abc3799865", null ],
-    [ "UpdateAI", "d7/d4d/a18103.html#abae6058591022057e93d48da3db1b8bc", null ],
-    [ "_events", "d7/d4d/a18103.html#af12b65fe4f77e8b2d3f5c87379dd69d2", null ],
-    [ "_frenzied", "d7/d4d/a18103.html#a34347cbecea4c6f538345b7285e8f1c0", null ]
+    [ "NecroticPlagueTargetCheck", "d7/d4d/a18103.html#abf9c21cc0041e5981a91abce8fb0a58f", null ],
+    [ "operator()", "d7/d4d/a18103.html#a801a176e367a9f4446fe080845477654", null ],
+    [ "_notAura1", "d7/d4d/a18103.html#a4f52417f233e1ab06210726670f719f3", null ],
+    [ "_notAura2", "d7/d4d/a18103.html#affa9b300cd7a7469b0bdf2a72d380dd6", null ],
+    [ "_sourceObj", "d7/d4d/a18103.html#a7cf2e485e65f2396cfdbfe8e646e4d53", null ]
 ];

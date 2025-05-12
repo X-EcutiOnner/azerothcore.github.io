@@ -1,6 +1,7 @@
 var a15519 =
 [
-    [ "npc_cairne_bloodhoofAI", "d0/d99/a15523.html", "d0/d99/a15523" ],
-    [ "npc_cairne_bloodhoof", "db/d23/a15519.html#a3519d94c5fcdc3d55e31c49c7773e56c", null ],
-    [ "GetAI", "db/d23/a15519.html#a1c34470c46ae9e98684de0e786be28b7", null ]
+    [ "npc_steward_of_time", "db/d23/a15519.html#ad49973464c96f44506033b73a85f6360", null ],
+    [ "OnGossipHello", "db/d23/a15519.html#a3b61038393c3addbbfa6643438164db3", null ],
+    [ "OnGossipSelect", "db/d23/a15519.html#af4fe13e266a98129b92e5a25188d947c", null ],
+    [ "OnQuestAccept", "db/d23/a15519.html#a53d552282da49e8246089b2799fff9ca", null ]
 ];

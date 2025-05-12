@@ -1,5 +1,4 @@
 var a03311 =
 [
-    [ "Acore::BattlegroundChatBuilder", "de/d9b/a07248.html", "de/d9b/a07248" ],
-    [ "Acore::Battleground2ChatBuilder", "dc/d4a/a07252.html", "dc/d4a/a07252" ]
+    [ "ScriptRegistry< WorldObjectScript >", "de/d19/a03311.html#a2e5b964820eedff4e7b34c6c79cfca6d", null ]
 ];

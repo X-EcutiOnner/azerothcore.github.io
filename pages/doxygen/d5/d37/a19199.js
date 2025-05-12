@@ -1,6 +1,7 @@
 var a19199 =
 [
-    [ "boss_magus_telestraAI", "dd/de5/a19203.html", "dd/de5/a19203" ],
-    [ "boss_magus_telestra", "d5/d37/a19199.html#a0e1adaf685c4d03cd0f688cb2b131525", null ],
-    [ "GetAI", "d5/d37/a19199.html#acb56031f892034adfff7889982fb063e", null ]
+    [ "EoEDrakeEnterVehicleEvent", "d5/d37/a19199.html#afc529efe07da017e529dc6d5ebc6e7dc", null ],
+    [ "Execute", "d5/d37/a19199.html#a368a613ba7861f7903b80e6f7f0dd64f", null ],
+    [ "_owner", "d5/d37/a19199.html#ab48302fdff800afddfeec2c0d756873c", null ],
+    [ "_playerGUID", "d5/d37/a19199.html#add56bff0695453e01f300e0434a39ec8", null ]
 ];

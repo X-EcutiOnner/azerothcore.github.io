@@ -1,10 +1,6 @@
 var a13955 =
 [
-    [ "npc_zealot_zath", "d1/d35/a13955.html#a845840d0a45dd6c4b6368ee4ecf6917b", null ],
-    [ "JustDied", "d1/d35/a13955.html#ae56e2e89a6ba623200e9ee36977cee13", null ],
-    [ "JustEngagedWith", "d1/d35/a13955.html#a25e059f40de51d880f4ec209ff4dd924", null ],
-    [ "Reset", "d1/d35/a13955.html#abc4e40afd644f2c89444f3fe475817c0", null ],
-    [ "UpdateAI", "d1/d35/a13955.html#a467ce2437ec112b42f864ef412c0c976", null ],
-    [ "_scheduler", "d1/d35/a13955.html#a146679c4eb3eec444ff1dcd9a780110a", null ],
-    [ "instance", "d1/d35/a13955.html#a66dfe3182b45e984b4d81d40051e5ecc", null ]
+    [ "boss_mandokirAI", "dc/db8/a13959.html", "dc/db8/a13959" ],
+    [ "boss_mandokir", "d1/d35/a13955.html#aad13c8302cef7fb4981f0d2178630def", null ],
+    [ "GetAI", "d1/d35/a13955.html#a215842d5ab23824ec20db64e2fa4407e", null ]
 ];

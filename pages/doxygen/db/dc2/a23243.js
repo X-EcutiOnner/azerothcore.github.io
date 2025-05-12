@@ -1,6 +1,7 @@
 var a23243 =
 [
-    [ "HandleScript", "db/dc2/a23243.html#ad81007cd08ee18bfc7cda4221cbc8482", null ],
-    [ "PrepareSpellScript", "db/dc2/a23243.html#a60f0bb4882d3f75f0839cd0d8ab2707d", null ],
-    [ "Register", "db/dc2/a23243.html#ac06f4246c5cecc4875bc93811eaeb839", null ]
+    [ "HandleProc", "db/dc2/a23243.html#a03b2be5894d489a6021aff2744aee0e0", null ],
+    [ "PrepareAuraScript", "db/dc2/a23243.html#a0ff401cd6d8e32ff458b7383b76a92a1", null ],
+    [ "Register", "db/dc2/a23243.html#a804e1bc3d570d28cb2e06155054f3169", null ],
+    [ "Validate", "db/dc2/a23243.html#a8d18e9ed9fa851f1c4d36c1f0bed8fcb", null ]
 ];

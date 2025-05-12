@@ -1,9 +1,6 @@
 var a13863 =
 [
-    [ "npc_shade_of_jindo", "d1/d05/a13863.html#a86fa95e806aea21fd6db332ea3f18a02", null ],
-    [ "IsSummonedBy", "d1/d05/a13863.html#aaf4eed2de98601844a32fec159f2f5fc", null ],
-    [ "JustEngagedWith", "d1/d05/a13863.html#a450f887c97cfa3ebce91ebd058ed9849", null ],
-    [ "Reset", "d1/d05/a13863.html#abc18dabb6f4f0b85a3b5b2e6f830804f", null ],
-    [ "UpdateAI", "d1/d05/a13863.html#a1aca8192c0655c0ab359f49448f8fafd", null ],
-    [ "_scheduler", "d1/d05/a13863.html#a1d74d8113f5ef117b2968f8f864fcaf4", null ]
+    [ "boss_grilekAI", "d7/de2/a13867.html", "d7/de2/a13867" ],
+    [ "boss_grilek", "d1/d05/a13863.html#acffe0061db18c5725c8c290822c5fed7", null ],
+    [ "GetAI", "d1/d05/a13863.html#aa346fa8807069d8fc94bd4d81a014c76", null ]
 ];

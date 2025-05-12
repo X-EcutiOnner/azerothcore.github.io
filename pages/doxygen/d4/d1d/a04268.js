@@ -1,6 +1,6 @@
 var a04268 =
 [
-    [ "InstanceMapScript", "de/dbf/a10288.html", "de/dbf/a10288" ],
-    [ "GenericInstanceMapScript< IS >", "d8/d7f/a10292.html", "d8/d7f/a10292" ],
-    [ "RegisterInstanceScript", "d4/d1d/a04268.html#a78044a95772db069981b463451a60613", null ]
+    [ "mean", "d4/d1d/a04268.html#a64ba279a3d3edca415239118167c0206", null ],
+    [ "median", "d4/d1d/a04268.html#a4840fd449eb626bea901860e4c1be22a", null ],
+    [ "standard_deviation", "d4/d1d/a04268.html#a60ce9c7718ec2901f037e2368f93026d", null ]
 ];

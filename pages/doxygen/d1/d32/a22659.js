@@ -1,6 +1,7 @@
 var a22659 =
 [
-    [ "instance_shadow_labyrinth_InstanceMapScript", "dc/df2/a22663.html", "dc/df2/a22663" ],
-    [ "instance_shadow_labyrinth", "d1/d32/a22659.html#a16a3acdfd9b1053374dfa5f27e5f3c19", null ],
-    [ "GetInstanceScript", "d1/d32/a22659.html#af9edf624413593a5cdf025dd9a1c3631", null ]
+    [ "npc_blade_of_azzinoth", "d1/d32/a22659.html#a55afe56313c237afe8080662b2ed2dba", null ],
+    [ "DoAction", "d1/d32/a22659.html#a8e746da7672c0177c4b6c91b1e9d2eb5", null ],
+    [ "IsSummonedBy", "d1/d32/a22659.html#af2925da1235b809ee81469fe32ab0f92", null ],
+    [ "JustSummoned", "d1/d32/a22659.html#a501e2d1ae9af813fd9c30395e7774983", null ]
 ];

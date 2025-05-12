@@ -1,6 +1,6 @@
 var a12447 =
 [
-    [ "HandleProc", "dc/d13/a12447.html#a945dad46d3c11ee4720c939390a9dc1b", null ],
-    [ "PrepareAuraScript", "dc/d13/a12447.html#a43953f2950d9a92db66a2c65a045ff6e", null ],
-    [ "Register", "dc/d13/a12447.html#a24df76ff0933685bade58deff98856d2", null ]
+    [ "npc_flamewaker_priestAI", "da/d98/a12451.html", "da/d98/a12451" ],
+    [ "npc_flamewaker_priest", "dc/d13/a12447.html#a2ae4d75192f8ddc60d092b9a129e636e", null ],
+    [ "GetAI", "dc/d13/a12447.html#a8a38c2c54ae8366496eb58145f75eac9", null ]
 ];

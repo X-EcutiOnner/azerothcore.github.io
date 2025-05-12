@@ -1,6 +1,13 @@
 var a14999 =
 [
-    [ "FilterTargets", "d7/df0/a14999.html#a1ceb8f97a19b7c0434c430b388d0f76b", null ],
-    [ "PrepareSpellScript", "d7/df0/a14999.html#a4a376e2a30c79ee2819c695e72535c0a", null ],
-    [ "Register", "d7/df0/a14999.html#aaf7b4fba94d94331f6b35add2b836061", null ]
+    [ "boss_cthun", "d7/df0/a14999.html#a287ee7b65708971e4fdfa7b814486935", null ],
+    [ "DoAction", "d7/df0/a14999.html#a04ae38b67d358f1d34820b855aab3869", null ],
+    [ "JustDied", "d7/df0/a14999.html#a3c6478e7de0e5a6f20f693a788bf8c86", null ],
+    [ "JustEngagedWith", "d7/df0/a14999.html#a56fe3347ac41b67fb6912f372a5879ba", null ],
+    [ "Reset", "d7/df0/a14999.html#a05bab8427cd4b4bfa50aee450e423f98", null ],
+    [ "ScheduleTasks", "d7/df0/a14999.html#a5a0514e56217bb3b30b22b2681542adb", null ],
+    [ "SummonedCreatureDies", "d7/df0/a14999.html#a49d76bb4cf30ee66fae6114313394961", null ],
+    [ "UpdateAI", "d7/df0/a14999.html#a7d2685597f1eec2459fe509e5b97681f", null ],
+    [ "_fleshTentaclesKilled", "d7/df0/a14999.html#a139de83ae488c40d40a4587509cd197d", null ],
+    [ "WisperTimer", "d7/df0/a14999.html#abad23f1df9c6989e7a6d3d62143adb05", null ]
 ];

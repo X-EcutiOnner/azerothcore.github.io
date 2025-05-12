@@ -1,11 +1,13 @@
 var a16123 =
 [
-    [ "npc_toc5_grand_champion_minionAI", "d0/d69/a16123.html#a06ff16fe0076de4e34ba20e0bbc49009", null ],
-    [ "JustDied", "d0/d69/a16123.html#a23e5001255c6d49a6b217b9606aa53c5", null ],
-    [ "JustEngagedWith", "d0/d69/a16123.html#a37a04ac2d6f30e415410f3806abaabb8", null ],
-    [ "Reset", "d0/d69/a16123.html#ad35a26c28485b1976c55d49fcd32fb19", null ],
-    [ "UpdateAI", "d0/d69/a16123.html#a2b9fdd3daa725921819ae2acee418d51", null ],
-    [ "events", "d0/d69/a16123.html#a1b405c2acd53a4e5f1179f52c8c2261b", null ],
-    [ "pInstance", "d0/d69/a16123.html#a6edd3dc8070edd031143e7a750f4d7a8", null ],
-    [ "ShieldTimer", "d0/d69/a16123.html#a080916d385f4157afbe4c455033b88ba", null ]
+    [ "boss_eadricAI", "d0/d69/a16123.html#a461043fe1bff0f5478e2a57504e7477c", null ],
+    [ "DamageTaken", "d0/d69/a16123.html#a440899ffdeda7794ef4fa5530638eecc", null ],
+    [ "JustEngagedWith", "d0/d69/a16123.html#a09a0cebcdffb00e37e9d60111c582669", null ],
+    [ "KilledUnit", "d0/d69/a16123.html#a0bc5d9ba3f45460e62eebdad4e68b8bd", null ],
+    [ "MovementInform", "d0/d69/a16123.html#aa20253b3f0aec2678b2e3b1c3a9d1a47", null ],
+    [ "Reset", "d0/d69/a16123.html#a8776bc2937ed9dc4decd1e71929edf65", null ],
+    [ "SpellHit", "d0/d69/a16123.html#aef7c66b9ff0a728c140899940a2d7e85", null ],
+    [ "UpdateAI", "d0/d69/a16123.html#a38e8052f3e5d8d81bb4b79fb41717efb", null ],
+    [ "events", "d0/d69/a16123.html#a5804ea238fd1c32201c3be943d2fe5ca", null ],
+    [ "pInstance", "d0/d69/a16123.html#a43a8f2beebae9bb27ff03e0e9af2d36b", null ]
 ];

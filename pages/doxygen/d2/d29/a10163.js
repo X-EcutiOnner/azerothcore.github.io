@@ -1,6 +1,6 @@
 var a10163 =
 [
-    [ "BuyBankSlotResult", "d2/d29/a10163.html#a93b60814becc451c38f06f9702a9e027", null ],
-    [ "Write", "d2/d29/a10163.html#a55a6609863b0d3ef966f222526268acb", null ],
-    [ "Result", "d2/d29/a10163.html#ad7bf499ad8d5f0a7e1a580dd02b84c68", null ]
+    [ "AchievementCriteriaScript", "d2/d29/a10163.html#a86804e8d52ebd239a85609bc1e8883ea", null ],
+    [ "IsDatabaseBound", "d2/d29/a10163.html#a2fe9a4224304d62c5c4920dbf09aab52", null ],
+    [ "OnCheck", "d2/d29/a10163.html#a9fab6f158219db6d5a65b0b302cf285e", null ]
 ];

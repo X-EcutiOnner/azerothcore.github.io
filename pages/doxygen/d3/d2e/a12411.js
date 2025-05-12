@@ -1,8 +1,6 @@
 var a12411 =
 [
-    [ "CalcPeriodic", "d3/d2e/a12411.html#a493609298c152df8216641ba2e5861cd", null ],
-    [ "PrepareAuraScript", "d3/d2e/a12411.html#a30c2bac7e939cf7de2141f6cdfa51619", null ],
-    [ "Register", "d3/d2e/a12411.html#a44002db5980dfc1db816cf61fd446491", null ],
-    [ "Update", "d3/d2e/a12411.html#a7a1fc11cf4183c7202a929c72035d8e7", null ],
-    [ "Validate", "d3/d2e/a12411.html#a060e189aaa4396681d42906b65c9196f", null ]
+    [ "boss_ragnarosAI", "db/d4c/a12415.html", "db/d4c/a12415" ],
+    [ "boss_ragnaros", "d3/d2e/a12411.html#a47bd4dc50a0d05e8cbb75c1a5a52c9b5", null ],
+    [ "GetAI", "d3/d2e/a12411.html#af54e36608e160811ca06952fd2c63f6e", null ]
 ];

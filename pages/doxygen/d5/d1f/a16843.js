@@ -1,6 +1,6 @@
 var a16843 =
 [
-    [ "instance_halls_of_reflection_InstanceMapScript", "d1/da3/a16847.html", "d1/da3/a16847" ],
-    [ "instance_halls_of_reflection", "d5/d1f/a16843.html#a8872b51ceec25dbf4831f45b27206ed1", null ],
-    [ "GetInstanceScript", "d5/d1f/a16843.html#aca27a4f654f41fe6f238c905b48285b7", null ]
+    [ "npc_hor_raging_ghoulAI", "d1/da3/a16847.html", "d1/da3/a16847" ],
+    [ "npc_hor_raging_ghoul", "d5/d1f/a16843.html#ad2130edf27295719c46dde14deefe5a4", null ],
+    [ "GetAI", "d5/d1f/a16843.html#ab29cebad1d54d14ecf21bbd215dc2f2d", null ]
 ];

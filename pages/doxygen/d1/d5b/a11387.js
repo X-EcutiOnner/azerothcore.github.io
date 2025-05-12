@@ -1,5 +1,7 @@
 var a11387 =
 [
-    [ "flag", "d1/d5b/a11387.html#a4ea67fc10eedfaa2e5e029e242e1c32f", null ],
-    [ "text", "d1/d5b/a11387.html#a492e5e3c2373adba005034514b0a5a1e", null ]
+    [ "PlayerGuid", "d1/d5b/a11387.html#a629a600c48376d04293c225390f747ff", null ],
+    [ "PrimaryKey", "d1/d5b/a11387.html#a7c1ef4d19fb49e5813868ff2ccfe12fc", null ],
+    [ "StoredType", "d1/d5b/a11387.html#a9bea7cf549813010b55c23417d65edc6", null ],
+    [ "TableName", "d1/d5b/a11387.html#a0f308af88812c110c490c94368bda482", null ]
 ];

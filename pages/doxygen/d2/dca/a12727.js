@@ -1,6 +1,6 @@
 var a12727 =
 [
-    [ "npc_fairbanksAI", "df/dce/a12731.html", "df/dce/a12731" ],
-    [ "npc_fairbanks", "d2/dca/a12727.html#a7f4740bb99ce2ccc059bcb5b02057082", null ],
-    [ "GetAI", "d2/dca/a12727.html#a58f4c8c8ca0a2d9696bf443aeeb00f95", null ]
+    [ "HandleProc", "d2/dca/a12727.html#a945dad46d3c11ee4720c939390a9dc1b", null ],
+    [ "PrepareAuraScript", "d2/dca/a12727.html#a43953f2950d9a92db66a2c65a045ff6e", null ],
+    [ "Register", "d2/dca/a12727.html#a24df76ff0933685bade58deff98856d2", null ]
 ];

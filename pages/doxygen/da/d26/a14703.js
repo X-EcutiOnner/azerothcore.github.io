@@ -1,6 +1,6 @@
 var a14703 =
 [
-    [ "instance_maraudon_InstanceMapScript", "dc/dfd/a14707.html", "dc/dfd/a14707" ],
-    [ "instance_maraudon", "da/d26/a14703.html#aaae11d2569d04b42840b101a5702cf24", null ],
-    [ "GetInstanceScript", "da/d26/a14703.html#ac4f5c7c3ee755226449c96b3e351f12d", null ]
+    [ "instance_old_hillsbrad_InstanceMapScript", "dc/dfd/a14707.html", "dc/dfd/a14707" ],
+    [ "instance_old_hillsbrad", "da/d26/a14703.html#a1ba2d39ae8f9209055de4b944cc535d8", null ],
+    [ "GetInstanceScript", "da/d26/a14703.html#a1929c38b1c745b2df1ccaf462113e220", null ]
 ];

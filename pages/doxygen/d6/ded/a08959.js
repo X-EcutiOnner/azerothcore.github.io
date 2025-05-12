@@ -1,7 +1,8 @@
 var a08959 =
 [
-    [ "GameObjectFocusCheck", "d6/ded/a08959.html#a06607ffa0ebf51c230f4584632a7444a", null ],
-    [ "operator()", "d6/ded/a08959.html#af5c0b63b8bfe112c9a8a43d7e49e1f7b", null ],
-    [ "i_focusId", "d6/ded/a08959.html#ace009546c2dcc6dac5de98b3c34152a5", null ],
-    [ "i_unit", "d6/ded/a08959.html#a0afc07e086f5aa3301c2b46a0004213e", null ]
+    [ "MailLevelReward", "d6/ded/a08959.html#accd52642cbbab457b69dba54a6ffa23b", null ],
+    [ "MailLevelReward", "d6/ded/a08959.html#a3e98aa5c30b0b5648784f9aaf5349a76", null ],
+    [ "mailTemplateId", "d6/ded/a08959.html#afdf6684bcd2751822bd00ba1509ef933", null ],
+    [ "raceMask", "d6/ded/a08959.html#a341088acd89b79161d932367f4f1798d", null ],
+    [ "senderEntry", "d6/ded/a08959.html#a2b678ac953209691b38d583cffab55b5", null ]
 ];

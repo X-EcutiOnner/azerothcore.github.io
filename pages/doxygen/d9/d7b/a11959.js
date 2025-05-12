@@ -1,8 +1,6 @@
 var a11959 =
 [
-    [ "FilterTargets", "d9/d7b/a11959.html#a03acb7fb2734d9c8e8e623600bc16859", null ],
-    [ "FilterTargetsEff", "d9/d7b/a11959.html#a8aeffd2a01c805246c33d22a59274c6f", null ],
-    [ "PrepareSpellScript", "d9/d7b/a11959.html#ae00bc9956c9971d62d9185c72d3bd8b5", null ],
-    [ "Register", "d9/d7b/a11959.html#aba646a238c3b4b7343f3eec8c6445eb5", null ],
-    [ "targetList", "d9/d7b/a11959.html#a874dc7877ecfae332c9f826f01afce0f", null ]
+    [ "boss_drakkisathAI", "dd/dfe/a11963.html", "dd/dfe/a11963" ],
+    [ "boss_drakkisath", "d9/d7b/a11959.html#a73f21cbd7b81fc045ae129d7d650b455", null ],
+    [ "GetAI", "d9/d7b/a11959.html#ad27999ba129b2e3617c1aba1c4b9772b", null ]
 ];

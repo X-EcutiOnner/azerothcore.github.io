@@ -1,6 +1,7 @@
 var a24967 =
 [
-    [ "HandleScript", "d0/dcb/a24967.html#a913c8c461f291ccaad2f48614c0146c6", null ],
-    [ "PrepareSpellScript", "d0/dcb/a24967.html#a18913a7455cf3f158136f2d3bb415779", null ],
-    [ "Register", "d0/dcb/a24967.html#ac24208b646e95d87fbb340d7779cb7c5", null ]
+    [ "HandleScript", "d0/dcb/a24967.html#a8ec57aed0788f58e2c50fc08793a5749", null ],
+    [ "PrepareSpellScript", "d0/dcb/a24967.html#a56c9ab120239252982cab8b96ac8c5fe", null ],
+    [ "Register", "d0/dcb/a24967.html#a8c727b2b00858abcce058b16d66ca62a", null ],
+    [ "Validate", "d0/dcb/a24967.html#af3ffb9930eaba8703065719bbcf02f56", null ]
 ];

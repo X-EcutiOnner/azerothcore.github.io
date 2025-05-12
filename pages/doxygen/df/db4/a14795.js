@@ -1,8 +1,7 @@
 var a14795 =
 [
-    [ "HandleScript", "df/db4/a14795.html#ac58aef1b295e32c8a44852278edc18f8", null ],
-    [ "Load", "df/db4/a14795.html#a2f7b9372dd36444c5161f3bc50424d99", null ],
-    [ "PrepareSpellScript", "df/db4/a14795.html#adc1301a318f86b4e147a191f4c63e3bf", null ],
-    [ "Register", "df/db4/a14795.html#a95f4abd67d6baf75980ff28a7518503d", null ],
-    [ "Validate", "df/db4/a14795.html#a98271e7adb17b11e39241154a83b0d0d", null ]
+    [ "npc_onyxian_lair_guard", "df/db4/a14795.html#ae72d86cddafd8829fc9edd479a01ab1d", null ],
+    [ "JustEngagedWith", "df/db4/a14795.html#a7b1d3bc68684202f9b4b95f6dc078be0", null ],
+    [ "UpdateAI", "df/db4/a14795.html#ac8649636d5847813e49d2ada05f78645", null ],
+    [ "events", "df/db4/a14795.html#a99acb2010853fcf9f7ac6f08143d06ed", null ]
 ];

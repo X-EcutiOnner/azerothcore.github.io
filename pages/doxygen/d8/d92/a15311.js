@@ -1,6 +1,7 @@
 var a15311 =
 [
-    [ "npc_bunthen_plainswind", "d8/d92/a15311.html#ad9b789ad3e958dee4733b142813b6302", null ],
-    [ "OnGossipHello", "d8/d92/a15311.html#ae2fe8bfb957dd8ea84d2585293c3b6eb", null ],
-    [ "OnGossipSelect", "d8/d92/a15311.html#a117f28d513ac645b9d3d908d052d2146", null ]
+    [ "npc_cork_gizeltonAI", "d1/d9f/a15315.html", "d1/d9f/a15315" ],
+    [ "npc_cork_gizelton", "d8/d92/a15311.html#a915aa2abc18109e7d0197863f59536f2", null ],
+    [ "GetAI", "d8/d92/a15311.html#a8a5fe5c46767aa37fd6e5b10e1bfc372", null ],
+    [ "OnQuestAccept", "d8/d92/a15311.html#a11dc1fea0a24add451272b537298fc13", null ]
 ];

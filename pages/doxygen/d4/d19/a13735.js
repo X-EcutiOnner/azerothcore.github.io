@@ -1,14 +1,15 @@
 var a13735 =
 [
-    [ "npc_forest_frogAI", "d4/d19/a13735.html#a1859934c3166e8e1f3b215721eb7dde0", null ],
-    [ "DoSpawnRandom", "d4/d19/a13735.html#ad69092e6830cb4ed9b4971573b4938c2", null ],
-    [ "JustEngagedWith", "d4/d19/a13735.html#a11af64dd35f59e7621ef47f0a0dc70fd", null ],
-    [ "MovementInform", "d4/d19/a13735.html#a980316d840d9e6386a506101b665777e", null ],
-    [ "Reset", "d4/d19/a13735.html#abc3c1cbb9a8e403fb3c1513113437746", null ],
-    [ "SpellHit", "d4/d19/a13735.html#a598b45191168a9a2b0ef9345216bebcb", null ],
-    [ "UpdateAI", "d4/d19/a13735.html#a05ef7e4899ef1287cb4caa59d07324f7", null ],
-    [ "events", "d4/d19/a13735.html#ae007a0e7256b2118388a11035d26963d", null ],
-    [ "eventTimer", "d4/d19/a13735.html#a8064110ee297642b05fed81f421d82d3", null ],
-    [ "instance", "d4/d19/a13735.html#ae7631fcf8af5f7d3708e4580257f370b", null ],
-    [ "PlayerGUID", "d4/d19/a13735.html#a1f8f417d59c3be3bf46ab5f6ac399bc4", null ]
+    [ "npc_janalai_hatcher", "d4/d19/a13735.html#a337e21f5a014d0f9d7a1f614b7245f36", null ],
+    [ "AttackStart", "d4/d19/a13735.html#a5a7826964349ed9adbbdeb7c733dd915", null ],
+    [ "JustEngagedWith", "d4/d19/a13735.html#a54c251278dcfa22052b6c6e49a4abd89", null ],
+    [ "MoveInLineOfSight", "d4/d19/a13735.html#a4ae2157e37bb93b7465e029e526a6ce4", null ],
+    [ "MovementInform", "d4/d19/a13735.html#a3a0170bc53f9f8f96090e34097b90c2c", null ],
+    [ "MoveToNewWaypoint", "d4/d19/a13735.html#ab775a888ae1002eed3ed548ab89ca2e4", null ],
+    [ "Reset", "d4/d19/a13735.html#ab1c3945160c55b2b2d63763eacced473", null ],
+    [ "UpdateAI", "d4/d19/a13735.html#ab5cc0c5f73593128b6d6e023aa4ce609", null ],
+    [ "_isHatching", "d4/d19/a13735.html#aae712db69c870d00d07a37b8611ecaf4", null ],
+    [ "_repeatCount", "d4/d19/a13735.html#acaf411fe3f6ea66d1ed2cd2da2ccaf12", null ],
+    [ "_side", "d4/d19/a13735.html#a177ddd5ff96902363ab708f0c737fc20", null ],
+    [ "_waypoint", "d4/d19/a13735.html#ab39ab27d8057b52b77637faefd48e8e6", null ]
 ];

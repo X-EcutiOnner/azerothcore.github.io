@@ -1,6 +1,7 @@
 var a12695 =
 [
-    [ "npc_valkyr_battle_maidenAI", "df/d41/a12699.html", "df/d41/a12699" ],
-    [ "npc_valkyr_battle_maiden", "d1/da2/a12695.html#a4316dd483b262e637ea39ba9e972744b", null ],
-    [ "GetAI", "d1/da2/a12695.html#ab067ea6f5f92039d471708039089e79c", null ]
+    [ "PeriodicTick", "d1/da2/a12695.html#a267d6df2c08039581fd1c008ffc14b8c", null ],
+    [ "PrepareAuraScript", "d1/da2/a12695.html#ab75f10a475a4302897cbb90a3adb5b03", null ],
+    [ "Register", "d1/da2/a12695.html#a2681d44b149e9f1d797df4147e20e686", null ],
+    [ "Validate", "d1/da2/a12695.html#a9a5f11a3024a14911b478cdf59a7abb9", null ]
 ];

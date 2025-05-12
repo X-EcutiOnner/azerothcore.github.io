@@ -1,25 +1,10 @@
 var a06123 =
 [
-    [ "FollowerAI", "d4/d17/a06123.html#ab4e7a4d16884d5e484e18541569fd72e", null ],
-    [ "~FollowerAI", "d4/d17/a06123.html#a5e2b9ddccc77bfe5cb8b16323d711c1e", null ],
-    [ "AddFollowState", "d4/d17/a06123.html#ae3c6e6ae70da77c9a9adcdf09fbd28fa", null ],
-    [ "AssistPlayerInCombatAgainst", "d4/d17/a06123.html#a8424220526302983b8770fb5b8883785", null ],
-    [ "AttackStart", "d4/d17/a06123.html#a5a78e0409af05f030d1b3b429926773e", null ],
-    [ "EnterEvadeMode", "d4/d17/a06123.html#aa3f9ea2a3a454aa63c0417b6c105c3a6", null ],
-    [ "GetLeaderForFollower", "d4/d17/a06123.html#a9d6c390022beeac0777e73062ad73b73", null ],
-    [ "HasFollowState", "d4/d17/a06123.html#a68a341874cb3cdb095e9221261c51ce2", null ],
-    [ "JustDied", "d4/d17/a06123.html#a83977da1bbd73813e2efa1b594512ece", null ],
-    [ "JustRespawned", "d4/d17/a06123.html#a34d732db8b189e0243854ad3b87cb70f", null ],
-    [ "MoveInLineOfSight", "d4/d17/a06123.html#a83dec5983277d0b59980b44593332b8f", null ],
-    [ "MovementInform", "d4/d17/a06123.html#a8594920db87044310ab710e0296be488", null ],
-    [ "RemoveFollowState", "d4/d17/a06123.html#a792d64dca1699f77f9e1f5ad81db7aab", null ],
-    [ "SetFollowComplete", "d4/d17/a06123.html#aa23547887bf44a222987bcde93fc8b32", null ],
-    [ "SetFollowPaused", "d4/d17/a06123.html#a1571d129b6bf4eb6eb7a1cd4fdbb4f00", null ],
-    [ "StartFollow", "d4/d17/a06123.html#a550cfb9b8d6a9ea178a43e3c88d3e778", null ],
-    [ "UpdateAI", "d4/d17/a06123.html#ac46e0e5b06f2c02d8f3119e60b20d106", null ],
-    [ "UpdateFollowerAI", "d4/d17/a06123.html#a6381f756645b8c4a9dc4c30b8c431694", null ],
-    [ "m_pQuestForFollow", "d4/d17/a06123.html#a4aeb51a87a2ea025fa743243c587d6b2", null ],
-    [ "m_uiFollowState", "d4/d17/a06123.html#a75788e0086b4ae455b73e7d3ebd6b5f4", null ],
-    [ "m_uiLeaderGUID", "d4/d17/a06123.html#a0c833da3d0096607828aeeefef2f313b", null ],
-    [ "m_uiUpdateFollowTimer", "d4/d17/a06123.html#a21a4c066ea3d6983c1b6e1f02d24cbae", null ]
+    [ "PowerUsersSelector", "d4/d17/a06123.html#aa13229f12601a551a34628b92c0eddf3", null ],
+    [ "operator()", "d4/d17/a06123.html#ac93e678f198787fd6691e0bb8d63d6e3", null ],
+    [ "_dist", "d4/d17/a06123.html#a1c63646bffb486c51ca07e0f8a70dd59", null ],
+    [ "_me", "d4/d17/a06123.html#a7f6dda10c26982d9633fae57b64af7ef", null ],
+    [ "_playerOnly", "d4/d17/a06123.html#aea809984a6dd46c22f414e44c9794309", null ],
+    [ "_power", "d4/d17/a06123.html#a9a518903606768e505e7230fe9344bbf", null ],
+    [ "_withTank", "d4/d17/a06123.html#a0b682b6d926ced8eecff642a4bb51756", null ]
 ];

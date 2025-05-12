@@ -1,6 +1,6 @@
 var a18655 =
 [
-    [ "npc_icc_skybreaker_luminaryAI", "d7/d3e/a18659.html", "d7/d3e/a18659" ],
-    [ "npc_icc_skybreaker_luminary", "db/d75/a18655.html#aff97d0425cf86a8b411ef3e2bd0cc054", null ],
-    [ "GetAI", "db/d75/a18655.html#ad1378aaa7438758f8a796d8e74ae0ce8", null ]
+    [ "HandleScript", "db/d75/a18655.html#a33f15ecf0c0ff013d03742cb2130f372", null ],
+    [ "PrepareSpellScript", "db/d75/a18655.html#ab3a832cf53f4438db0d9e58b89c0ef7f", null ],
+    [ "Register", "db/d75/a18655.html#ad0c6d34103244cded41481c745dafe58", null ]
 ];

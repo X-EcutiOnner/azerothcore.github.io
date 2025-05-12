@@ -1,48 +1,25 @@
 var a04532 =
 [
-    [ "AuctionEntry", "d3/d61/a07024.html", "d3/d61/a07024" ],
-    [ "AuctionHouseObject", "dd/df5/a07028.html", "dd/df5/a07028" ],
-    [ "AuctionHouseMgr", "d0/d15/a07032.html", "d0/d15/a07032" ],
-    [ "AUCTION_SEARCH_DELAY", "d1/ddc/a04532.html#a2f8bc5839b2833512daadb09efb7794d", null ],
-    [ "MAX_AUCTION_HOUSE_FACTIONS", "d1/ddc/a04532.html#a948e0dd86eca242e8907f45c5f16edac", null ],
-    [ "MAX_AUCTION_ITEMS", "d1/ddc/a04532.html#aa87bb3f5c1101ca4c260c6bb743a846e", null ],
-    [ "MAX_AUCTIONS_PER_PAGE", "d1/ddc/a04532.html#aa815dc22ea52ecef37fa9285358247c9", null ],
-    [ "MAX_GETALL_RETURN", "d1/ddc/a04532.html#aa7ea0efcb608c872aa3375218f3bf857", null ],
-    [ "MIN_AUCTION_TIME", "d1/ddc/a04532.html#a65e0ff6290b1d068de3d9be0aa323d27", null ],
-    [ "sAuctionMgr", "d1/ddc/a04532.html#ac3e168154709326e99ab24a7d1395906", null ],
-    [ "AuctionAction", "d1/ddc/a04532.html#a6f0f1b824cc940197c2bc0cd6cb1dd18", [
-      [ "AUCTION_SELL_ITEM", "d1/ddc/a04532.html#a6f0f1b824cc940197c2bc0cd6cb1dd18a47c59e2fd5e2b2cdafa124fee3f94796", null ],
-      [ "AUCTION_CANCEL", "d1/ddc/a04532.html#a6f0f1b824cc940197c2bc0cd6cb1dd18ab9f7fb48c99015aed9fd3a2a0a57c72e", null ],
-      [ "AUCTION_PLACE_BID", "d1/ddc/a04532.html#a6f0f1b824cc940197c2bc0cd6cb1dd18ab934fb55a314a6d1332d37e5fde04a80", null ]
-    ] ],
-    [ "AuctionError", "d1/ddc/a04532.html#acd1082bcecaa4487e9f32ad1d4cd5225", [
-      [ "ERR_AUCTION_OK", "d1/ddc/a04532.html#acd1082bcecaa4487e9f32ad1d4cd5225a3b16c2583b0b0097a95bc23126567b34", null ],
-      [ "ERR_AUCTION_INVENTORY", "d1/ddc/a04532.html#acd1082bcecaa4487e9f32ad1d4cd5225a4db8ce7711bbc2b9a30b6c93f63a7f98", null ],
-      [ "ERR_AUCTION_DATABASE_ERROR", "d1/ddc/a04532.html#acd1082bcecaa4487e9f32ad1d4cd5225ad9a6332f7dcf4f37c65a07880df64a8d", null ],
-      [ "ERR_AUCTION_NOT_ENOUGHT_MONEY", "d1/ddc/a04532.html#acd1082bcecaa4487e9f32ad1d4cd5225a2e3c0e26a932a0d123c74cd6c025c189", null ],
-      [ "ERR_AUCTION_ITEM_NOT_FOUND", "d1/ddc/a04532.html#acd1082bcecaa4487e9f32ad1d4cd5225aa75b2e1b0476195aeb1fe923d483a063", null ],
-      [ "ERR_AUCTION_HIGHER_BID", "d1/ddc/a04532.html#acd1082bcecaa4487e9f32ad1d4cd5225a8b1421e42296f2d0141c2e2c8dfe5bac", null ],
-      [ "ERR_AUCTION_BID_INCREMENT", "d1/ddc/a04532.html#acd1082bcecaa4487e9f32ad1d4cd5225ad31b9ca1c2b4338c2cc19ea57e81bf74", null ],
-      [ "ERR_AUCTION_BID_OWN", "d1/ddc/a04532.html#acd1082bcecaa4487e9f32ad1d4cd5225a98a5a65a2cd34419689fe5d6154bf4e9", null ],
-      [ "ERR_AUCTION_RESTRICTED_ACCOUNT", "d1/ddc/a04532.html#acd1082bcecaa4487e9f32ad1d4cd5225a5d35d3c3de8c5c8418934d758db2dc35", null ]
-    ] ],
-    [ "AuctionHouseFaction", "d1/ddc/a04532.html#af4f47e9bbd0faf17478c06dd0660bb84", [
-      [ "Alliance", "d1/ddc/a04532.html#af4f47e9bbd0faf17478c06dd0660bb84a05bd29b524f0851d42e7902d6af59bf1", null ],
-      [ "Horde", "d1/ddc/a04532.html#af4f47e9bbd0faf17478c06dd0660bb84a05d822a409e1a677e40ee5ac1db7a796", null ],
-      [ "Neutral", "d1/ddc/a04532.html#af4f47e9bbd0faf17478c06dd0660bb84ae9bb5320b3890b6747c91b5a71ae5a01", null ]
-    ] ],
-    [ "AuctionHouseId", "d1/ddc/a04532.html#a6e313ffb5943e7c756e65c142ad1a28d", [
-      [ "Alliance", "d1/ddc/a04532.html#a6e313ffb5943e7c756e65c142ad1a28da05bd29b524f0851d42e7902d6af59bf1", null ],
-      [ "Horde", "d1/ddc/a04532.html#a6e313ffb5943e7c756e65c142ad1a28da05d822a409e1a677e40ee5ac1db7a796", null ],
-      [ "Neutral", "d1/ddc/a04532.html#a6e313ffb5943e7c756e65c142ad1a28dae9bb5320b3890b6747c91b5a71ae5a01", null ]
-    ] ],
-    [ "MailAuctionAnswers", "d1/ddc/a04532.html#a098b883868639271d82defd50dad764e", [
-      [ "AUCTION_OUTBIDDED", "d1/ddc/a04532.html#a098b883868639271d82defd50dad764eafa59fd83ffed270500a83d207c19b3d0", null ],
-      [ "AUCTION_WON", "d1/ddc/a04532.html#a098b883868639271d82defd50dad764eac51a47dbc7d47d70e051386979fa22c8", null ],
-      [ "AUCTION_SUCCESSFUL", "d1/ddc/a04532.html#a098b883868639271d82defd50dad764eac212352bbd7fce3cb50b5673de71ae14", null ],
-      [ "AUCTION_EXPIRED", "d1/ddc/a04532.html#a098b883868639271d82defd50dad764ea2ef6542e060c27e5364ddca4f77b5edc", null ],
-      [ "AUCTION_CANCELLED_TO_BIDDER", "d1/ddc/a04532.html#a098b883868639271d82defd50dad764ea7a49299211b591c1b6b527754069a09c", null ],
-      [ "AUCTION_CANCELED", "d1/ddc/a04532.html#a098b883868639271d82defd50dad764eaa56d99ef4cba6dc5afc2865810f0a4c6", null ],
-      [ "AUCTION_SALE_PENDING", "d1/ddc/a04532.html#a098b883868639271d82defd50dad764ea9f1d5ad610d6e9d778e61d2f79643dd8", null ]
-    ] ]
+    [ "ABORT", "d1/ddc/a04532.html#a5376571bbf4cdc9782683635f366f89a", null ],
+    [ "ASSERT", "d1/ddc/a04532.html#af343b20373ba49a92fce523e948f2ab3", null ],
+    [ "ASSERT_NODEBUGINFO", "d1/ddc/a04532.html#ae4aa5b88f8a0cd841e02343e63098f7a", null ],
+    [ "ASSERT_NOTNULL", "d1/ddc/a04532.html#aee2b3b5656453513bc51a5979b247a67", null ],
+    [ "EXCEPTION_ASSERTION_FAILURE", "d1/ddc/a04532.html#adb1e581c0b1db74338cf2892218ff23f", null ],
+    [ "WPAbort", "d1/ddc/a04532.html#aab8761bc4b218ac84ad259cc6e0c1589", null ],
+    [ "WPAssert", "d1/ddc/a04532.html#a6b3632c6657f3d1633b9a9707d9ede62", null ],
+    [ "WPAssert_NODEBUGINFO", "d1/ddc/a04532.html#ab0566f9653ccc9fc0e174bda17fc5277", null ],
+    [ "WPError", "d1/ddc/a04532.html#a7d9ea9088aab1556ba6739861998001a", null ],
+    [ "WPFatal", "d1/ddc/a04532.html#a47d51826ca35c49a890b7bc2ad6818ea", null ],
+    [ "WPWarning", "d1/ddc/a04532.html#afbbc90bf1881f7811a1022e7af350b47", null ],
+    [ "Abort", "d1/ddc/a04532.html#a257b055b35d21943eb2a144cccd26429", null ],
+    [ "Abort", "d1/ddc/a04532.html#af8c8ba5d8126e10ea9f5d86e8a9e742b", null ],
+    [ "AbortHandler", "d1/ddc/a04532.html#ad49ea597ac6ffd8eb9ae06bab8c38b43", null ],
+    [ "Assert", "d1/ddc/a04532.html#aaacb53f863e011c7d879e93567268109", null ],
+    [ "Assert", "d1/ddc/a04532.html#a1990519ae97867f1a629699d00874fb2", null ],
+    [ "ASSERT_NOTNULL_IMPL", "d1/ddc/a04532.html#aa8e391e13264a7b2f29f66832263afcf", null ],
+    [ "Error", "d1/ddc/a04532.html#af222a0bd205c0bcecd8a7b6554137e33", null ],
+    [ "Fatal", "d1/ddc/a04532.html#a07aa40e12479c740872d1ad7f55acbbc", null ],
+    [ "Fatal", "d1/ddc/a04532.html#af4a5b364827068eb978fa1a1fff5770f", null ],
+    [ "GetDebugInfo", "d1/ddc/a04532.html#a4dc49effc31d570798463c106549b1cb", null ],
+    [ "Warning", "d1/ddc/a04532.html#ab1b23d9277c7dd8d381753ec943ad1bc", null ]
 ];

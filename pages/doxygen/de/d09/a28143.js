@@ -1,10 +1,7 @@
 var a28143 =
 [
-    [ "PvPDifficultyEntry", "de/d09/a28143.html#acdf17ca6dce80b7311bd6ae79ce16001", null ],
-    [ "GetBracketId", "de/d09/a28143.html#a4bcbc99d34ef8eaa7c15dbd33332c480", null ],
-    [ "bracketId", "de/d09/a28143.html#a670bce11b1d934167d8b3e990ea49d4a", null ],
-    [ "difficulty", "de/d09/a28143.html#a33ac017d785a4586a78e715d97836720", null ],
-    [ "mapId", "de/d09/a28143.html#a58c251f56a928bedbc7b9e8c6cbdbc5d", null ],
-    [ "maxLevel", "de/d09/a28143.html#a1385166568239f2118b65377df8b4b55", null ],
-    [ "minLevel", "de/d09/a28143.html#acd07e8d759af1b73ec7543f6e70df242", null ]
+    [ "Id", "de/d09/a28143.html#a94843a6f0cb39332f39a9630945f1fc8", null ],
+    [ "SoundBank", "de/d09/a28143.html#a1dd2e40caf515186c831dc8cc82c095b", null ],
+    [ "SpellId", "de/d09/a28143.html#aa010947f5fbec6867b005b25728e720b", null ],
+    [ "Type", "de/d09/a28143.html#a7f610dd6a9944b4634bb981c0cb8e230", null ]
 ];

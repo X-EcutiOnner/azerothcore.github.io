@@ -1,6 +1,6 @@
 var a16335 =
 [
-    [ "npc_toc_pet_warlockAI", "d0/d34/a16339.html", "d0/d34/a16339" ],
-    [ "npc_toc_pet_warlock", "d9/def/a16335.html#a4703f506d677d7e490c6813c6d9b060b", null ],
-    [ "GetAI", "d9/def/a16335.html#aebcaff82726508a14028cb22a1ef944b", null ]
+    [ "npc_toc_mageAI", "d0/d34/a16339.html", "d0/d34/a16339" ],
+    [ "npc_toc_mage", "d9/def/a16335.html#a8270875c1da3e2e96f767362ef90cdc6", null ],
+    [ "GetAI", "d9/def/a16335.html#a64b5b8b3a5933a0264537f2187e81e15", null ]
 ];

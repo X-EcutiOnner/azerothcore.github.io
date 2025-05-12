@@ -1,7 +1,6 @@
 var a04697 =
 [
-    [ "IsAcceptedClientBuild", "d2/d91/a04697.html#a50a906b5a3fdca3508aee0997881a717", null ],
-    [ "IsPostBCAcceptedClientBuild", "d2/d91/a04697.html#ad4f22daf9d88367d90d92416f470a28c", null ],
-    [ "IsPreBCAcceptedClientBuild", "d2/d91/a04697.html#a96896fc9dad2c304f681a24776f6726b", null ],
-    [ "MAX_PRE_BC_CLIENT_BUILD", "d2/d91/a04697.html#ac023f15b280fc65fdefefb77f2f7be7b", null ]
+    [ "GetRandomBytes", "d2/d91/a04697.html#ab09d7cc2f8e11fc5fe6b2323d57b7184", null ],
+    [ "GetRandomBytes", "d2/d91/a04697.html#a797cfc74306f60b5c63eecb37a2061d3", null ],
+    [ "GetRandomBytes", "d2/d91/a04697.html#a2ff283a7b883696205a91f122b194f6f", null ]
 ];

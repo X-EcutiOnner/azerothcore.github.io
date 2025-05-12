@@ -1,8 +1,7 @@
 var a09423 =
 [
-    [ "CircleBoundary", "d7/d15/a09423.html#a1f58f718ac4e4f6de029a0d46954012e", null ],
-    [ "CircleBoundary", "d7/d15/a09423.html#a10387b9a70013ecc15ae4f31dd1f21f3", null ],
-    [ "IsWithinBoundaryArea", "d7/d15/a09423.html#ad8eef3c2c98ee71a7d28d1e5d93ee508", null ],
-    [ "_center", "d7/d15/a09423.html#a65edd0aef7b73b176e5e311bb0d63738", null ],
-    [ "_radiusSq", "d7/d15/a09423.html#acbb3cc0c546f0e557a48a45425355950", null ]
+    [ "AllWorldObjectsInRange", "d7/d15/a09423.html#a63f46d510df0fa3153d4b3325676a468", null ],
+    [ "operator()", "d7/d15/a09423.html#a2cf23c24df93b5f7f29163b32e965a94", null ],
+    [ "m_fRange", "d7/d15/a09423.html#a6afe3ef05369dce8ee205db219f97846", null ],
+    [ "m_pObject", "d7/d15/a09423.html#ae7dde7b946d8affb79cb2d4c58eedbed", null ]
 ];

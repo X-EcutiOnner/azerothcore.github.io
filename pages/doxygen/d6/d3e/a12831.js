@@ -1,7 +1,8 @@
 var a12831 =
 [
-    [ "HandleScript", "d6/d3e/a12831.html#acbff60b24bd0239880378b48cb97b6a4", null ],
-    [ "PrepareSpellScript", "d6/d3e/a12831.html#a2f72b76ced4443a8eb1dfcf7bf6a4ac5", null ],
-    [ "Register", "d6/d3e/a12831.html#a132d35555f1d589caa65ecd3728976d5", null ],
-    [ "Validate", "d6/d3e/a12831.html#a503ce41357f8195837c9b14f2468fb5b", null ]
+    [ "npc_dkc1_gothikAI", "d6/d3e/a12831.html#a35e65bd943f86ba3a1d6841569289df6", null ],
+    [ "DoAction", "d6/d3e/a12831.html#a3193c562973bbf995ab5e0173a93d01f", null ],
+    [ "MoveInLineOfSight", "d6/d3e/a12831.html#ac2ee224af001a78aa00013f6c8c9ad3d", null ],
+    [ "UpdateAI", "d6/d3e/a12831.html#a346d32c9831babe6fb5f675b70b7a897", null ],
+    [ "spoken", "d6/d3e/a12831.html#ac6f32e953a66f9e96ddc99b663014b0c", null ]
 ];

@@ -1,6 +1,6 @@
 var a12587 =
 [
-    [ "npc_unworthy_initiate_anchorAI", "d6/dcb/a12591.html", "d6/dcb/a12591" ],
-    [ "npc_unworthy_initiate_anchor", "da/d19/a12587.html#a3d4c6d9e5ffa66d3424297b27e5ac4a1", null ],
-    [ "GetAI", "da/d19/a12587.html#ab012983661d20a3ffa4f58136bd2d808", null ]
+    [ "FilterTargets", "da/d19/a12587.html#adae7a812a222a60f9c89cac4ea327011", null ],
+    [ "PrepareSpellScript", "da/d19/a12587.html#a9576a48a3aa761c103f72586cd93970c", null ],
+    [ "Register", "da/d19/a12587.html#aaadad68c322eac268ea7a45f9c369c59", null ]
 ];

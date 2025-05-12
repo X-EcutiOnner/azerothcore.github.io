@@ -1,12 +1,12 @@
 var a18875 =
 [
-    [ "npc_boss_gothik_minionAI", "d8/d8c/a18875.html#aa719d87c65294fc483b424b125619a10", null ],
-    [ "IsOnSameSide", "d8/d8c/a18875.html#a7d305be5e3d66c1317fa91e588223da0", null ],
-    [ "JustDied", "d8/d8c/a18875.html#a752b6eab9cf1b016962c6f535586b59d", null ],
-    [ "JustEngagedWith", "d8/d8c/a18875.html#ad86778d5a0e883a839b4a43425a57d7f", null ],
-    [ "KilledUnit", "d8/d8c/a18875.html#a6a09440d623dcee51b7e0d4ed77d624e", null ],
-    [ "Reset", "d8/d8c/a18875.html#a309401236c254cd850759a0cbb4004e0", null ],
-    [ "UpdateAI", "d8/d8c/a18875.html#a43744e96be00d8bc0afc34a570e79947", null ],
-    [ "events", "d8/d8c/a18875.html#ae2dde7b4fc655b1ae27410d299776c49", null ],
-    [ "livingSide", "d8/d8c/a18875.html#a2545d00e04bae9ee0a1bf9f9d6162c74", null ]
+    [ "boss_faerlinaAI", "d8/d8c/a18875.html#a3a97178599b9053c23a079ed1a2ed163", null ],
+    [ "JustDied", "d8/d8c/a18875.html#a7ac2e510568a9dad710beaad42db0544", null ],
+    [ "JustEngagedWith", "d8/d8c/a18875.html#a830dfa4fed62b4588ea8866174d3653a", null ],
+    [ "KilledUnit", "d8/d8c/a18875.html#a6f7a6e66abcf4f4dd685bbb805920900", null ],
+    [ "MoveInLineOfSight", "d8/d8c/a18875.html#aa5cd735c22d46e1b756f87f3952033a1", null ],
+    [ "Reset", "d8/d8c/a18875.html#acee81492b9b751df587a3a2cdd691ab3", null ],
+    [ "SpellHit", "d8/d8c/a18875.html#aa4fac163e31dcd9353238f993259d5ec", null ],
+    [ "SummonHelpers", "d8/d8c/a18875.html#af2fbf866f87d568ee6028f0931d3b74e", null ],
+    [ "_introDone", "d8/d8c/a18875.html#a9febd1d69c27140ddd2ac018181c67ec", null ]
 ];

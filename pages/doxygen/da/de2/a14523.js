@@ -1,6 +1,6 @@
 var a14523 =
 [
-    [ "instance_mount_hyjal_InstanceMapScript", "d3/d12/a14527.html", "d3/d12/a14527" ],
-    [ "instance_hyjal", "da/de2/a14523.html#ade946c0fcaa4bad790bfcb4b6ffb6420", null ],
-    [ "GetInstanceScript", "da/de2/a14523.html#ae6e39933d7cfd6563f6d37636f1c6f68", null ]
+    [ "HandleHit", "da/de2/a14523.html#aec32d6b45bdcfe3a6a32c2fb7558edd1", null ],
+    [ "PrepareSpellScript", "da/de2/a14523.html#a31fdc4d630a4a6647d2a9b1100aecdad", null ],
+    [ "Register", "da/de2/a14523.html#a64a861b5c25df5780390aa55899393d7", null ]
 ];

@@ -1,6 +1,7 @@
 var a08411 =
 [
-    [ "GlobalCooldown", "d3/da9/a08411.html#a5859ccec9d1fdf0a8f11f5ab77c135a9", null ],
-    [ "cast_time", "d3/da9/a08411.html#a7e2fe46367bad59669b0f2fd33736b30", null ],
-    [ "duration", "d3/da9/a08411.html#a7fbf3127e4a2cc93171934148275ae1d", null ]
+    [ "UsedPos", "d3/da9/a08411.html#aef230e392619ad4abc2da649d11b2394", null ],
+    [ "dist", "d3/da9/a08411.html#ae73cbe8b0cf3ce714f6654df3a8874de", null ],
+    [ "sign", "d3/da9/a08411.html#a2b5f97425309d56482a1f287b6d5be69", null ],
+    [ "size", "d3/da9/a08411.html#a4ad5a2df36ae9c1cd9130c5efd27af58", null ]
 ];

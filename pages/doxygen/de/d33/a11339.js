@@ -1,11 +1,12 @@
 var a11339 =
 [
-    [ "instance_commandscript", "de/d33/a11339.html#a4d0b308b35a1aa21c66c8bd406ffa82f", null ],
-    [ "GetCommands", "de/d33/a11339.html#a092d62969c835f6bf2a08ca3e05f04d5", null ],
-    [ "HandleInstanceGetBossStateCommand", "de/d33/a11339.html#a1435d100be4cdbe146c30f96be2ec66d", null ],
-    [ "HandleInstanceListBindsCommand", "de/d33/a11339.html#abf42411f9c78ce59b21b34691e3d4233", null ],
-    [ "HandleInstanceSaveDataCommand", "de/d33/a11339.html#a4b494a8b1de470612436fbb9fa433416", null ],
-    [ "HandleInstanceSetBossStateCommand", "de/d33/a11339.html#aec65b5af811eae2cbcf17571e9d1473b", null ],
-    [ "HandleInstanceStatsCommand", "de/d33/a11339.html#a9547a0a88a3bcd7407c449f3f2f25f44", null ],
-    [ "HandleInstanceUnbindCommand", "de/d33/a11339.html#a7abbe257b10632f2acbdd838e1f073a9", null ]
+    [ "CreatureTextBuilder", "de/d33/a11339.html#a582eed3ab284675e72261a1db9808925", null ],
+    [ "operator()", "de/d33/a11339.html#a851cc84cc7faebfffe3267ecb0d3b3fb", null ],
+    [ "_gender", "de/d33/a11339.html#a615c3046f749bf44b036958fb1a50128", null ],
+    [ "_language", "de/d33/a11339.html#ac6e3bea125cd2b44a56f899c4aa35e1b", null ],
+    [ "_msgType", "de/d33/a11339.html#ac4b4f75821f4ff5855cafca91523cbca", null ],
+    [ "_source", "de/d33/a11339.html#ab87c45c49aa07b4434e42b6d7948e8b3", null ],
+    [ "_target", "de/d33/a11339.html#a5a5fd218c7162ba634455e0db6ee35a1", null ],
+    [ "_textGroup", "de/d33/a11339.html#afcd842c1482980c6232f3f19d21a1481", null ],
+    [ "_textId", "de/d33/a11339.html#a3f40b8dd1da052a372afbbc5f06700ac", null ]
 ];

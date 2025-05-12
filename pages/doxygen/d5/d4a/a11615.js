@@ -1,11 +1,8 @@
 var a11615 =
 [
-    [ "boss_high_interrogator_gerstahnAI", "d5/d4a/a11615.html#a557fda67d1d1de268ba661350ba915dc", null ],
-    [ "JustEngagedWith", "d5/d4a/a11615.html#a80e01faa471f9e83e85c3c47fd815dea", null ],
-    [ "Reset", "d5/d4a/a11615.html#ab63099f83037b3716d1e2b9c21d7d607", null ],
-    [ "UpdateAI", "d5/d4a/a11615.html#a67b34f7cf4c62a57bc9fb556f5fb0b81", null ],
-    [ "ManaBurn_Timer", "d5/d4a/a11615.html#aede307f972942c15c4b2bfa90e75856d", null ],
-    [ "PsychicScream_Timer", "d5/d4a/a11615.html#a291f3484e4d125fefe437d96b12153f1", null ],
-    [ "ShadowShield_Timer", "d5/d4a/a11615.html#a7ba151c46b097825dca9b8e3ac2cdee9", null ],
-    [ "ShadowWordPain_Timer", "d5/d4a/a11615.html#aec0eab93e8494bc1abc87d81460fac31", null ]
+    [ "honor_commandscript", "d5/d4a/a11615.html#a7c1a6c172b970d1a35a4014d783dc783", null ],
+    [ "GetCommands", "d5/d4a/a11615.html#a29a0068f9dd1e9b3f0adf80bddaadbbc", null ],
+    [ "HandleHonorAddCommand", "d5/d4a/a11615.html#a03caa77b436e3d513e1325badf05df33", null ],
+    [ "HandleHonorAddKillCommand", "d5/d4a/a11615.html#aec79f459796d821a032477827e16308a", null ],
+    [ "HandleHonorUpdateCommand", "d5/d4a/a11615.html#a11831a3ea577f3f1e06fea3d0dbc0147", null ]
 ];

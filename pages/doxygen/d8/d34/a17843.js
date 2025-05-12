@@ -1,7 +1,8 @@
 var a17843 =
 [
-    [ "HandleScript", "d8/d34/a17843.html#a37b261d0df2829788d8290a9194913f5", null ],
-    [ "PrepareSpellScript", "d8/d34/a17843.html#a69386dbef57322393a38eec90662135f", null ],
-    [ "Register", "d8/d34/a17843.html#a5b85b01100d7f7c672c437e4bdfd7a7c", null ],
-    [ "Validate", "d8/d34/a17843.html#a63c446574c700a895d7fbc5bb2b81508", null ]
+    [ "HandleScript", "d8/d34/a17843.html#a9f3cef57312626ae1884c36ad4bfdca6", null ],
+    [ "PrepareSpellScript", "d8/d34/a17843.html#a2ba03324afacf8da8e5fe6bc725e4d2f", null ],
+    [ "Register", "d8/d34/a17843.html#a9b0e0427b7f8abbd0e9d556ccc581aeb", null ],
+    [ "SelectTarget", "d8/d34/a17843.html#a36d575c6a63e94905bf435bc9d39e588", null ],
+    [ "Validate", "d8/d34/a17843.html#afc4a6277e3a7419b6a4aaa99f6697b91", null ]
 ];

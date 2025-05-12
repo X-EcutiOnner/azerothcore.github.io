@@ -1,6 +1,6 @@
 var a19707 =
 [
-    [ "achievement_assembly_of_iron", "d7/d67/a19707.html#ae90d193b039d88ce38108b6617b5b8e9", null ],
-    [ "OnCheck", "d7/d67/a19707.html#ae66b3e708b38bfe685f9d28c14c2d3f5", null ],
-    [ "_targetEntry", "d7/d67/a19707.html#a20e8938ff30b18737fb96cf0277b5680", null ]
+    [ "HandleInstaKill", "d7/d67/a19707.html#a9371a2cc86616fd04e47939d45f01cae", null ],
+    [ "PrepareSpellScript", "d7/d67/a19707.html#a38eed301f1db3ea7ac15b626e5927500", null ],
+    [ "Register", "d7/d67/a19707.html#a9aaf3e86a2c14ee79cc013b3978621ee", null ]
 ];

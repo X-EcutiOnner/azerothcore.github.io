@@ -1,4 +1,5 @@
 var a10627 =
 [
-    [ "type", "df/ddc/a10627.html#aa3307afff20191a467f7e948d9fd00ed", null ]
+    [ "GuildLeave", "df/ddc/a10627.html#a6a09ab5c50b7185a91e76f428e28f402", null ],
+    [ "Read", "df/ddc/a10627.html#a0ea07ca846a92b5357276b5868d98e5f", null ]
 ];

@@ -1,6 +1,6 @@
 var a14539 =
 [
-    [ "boss_infinite_corruptorAI", "dd/d05/a14543.html", "dd/d05/a14543" ],
-    [ "boss_infinite_corruptor", "de/d05/a14539.html#a78a939073ab44b818cefdb25419f92be", null ],
-    [ "GetAI", "de/d05/a14539.html#ab6eaf2f9d1928817e45b092a3a87bda4", null ]
+    [ "OnRemove", "de/d05/a14539.html#af9da33426d8ea4462f7d9957c4312019", null ],
+    [ "PrepareAuraScript", "de/d05/a14539.html#a594f2b65fdbe30f3d52e608f9b7c9731", null ],
+    [ "Register", "de/d05/a14539.html#a4b04c70fd9c55d20261d9d256ea0966f", null ]
 ];

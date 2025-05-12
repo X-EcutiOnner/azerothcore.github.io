@@ -1,7 +1,7 @@
 var a18623 =
 [
-    [ "HandleDummyLaunch", "d7/d3d/a18623.html#a4991dab04ed9cb8cfd846588a8ef01bf", null ],
-    [ "PrepareSpellScript", "d7/d3d/a18623.html#a8926bc8e228eaaa4a7d554643b50e48d", null ],
-    [ "Register", "d7/d3d/a18623.html#add5dc6c0a3b618fba3d3a73b6c76235b", null ],
-    [ "Validate", "d7/d3d/a18623.html#a577166695c1479e3730a70637bc18cf1", null ]
+    [ "HandleScript", "d7/d3d/a18623.html#a87a2b32a9a20f032157df5ddb2cd9979", null ],
+    [ "PrepareSpellScript", "d7/d3d/a18623.html#a9aca3a2a981a0cb61569200d77ca527a", null ],
+    [ "Register", "d7/d3d/a18623.html#afb0289c9906d0383a22dfd0e848573f8", null ],
+    [ "Validate", "d7/d3d/a18623.html#a69344370af56f033e1c1ba16f4dee174", null ]
 ];

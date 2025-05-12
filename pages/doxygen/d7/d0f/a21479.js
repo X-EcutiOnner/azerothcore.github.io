@@ -1,7 +1,7 @@
 var a21479 =
 [
-    [ "npc_lurgglbrAI", "d5/d36/a21483.html", "d5/d36/a21483" ],
-    [ "npc_lurgglbr", "d7/d0f/a21479.html#a7df52667e4d789391820a4c2182db8d2", null ],
-    [ "GetAI", "d7/d0f/a21479.html#a2795346371e7b474c53dcacb9daf2001", null ],
-    [ "OnQuestAccept", "d7/d0f/a21479.html#a1b3ba7b0782dc91ff268b7044cf13e82", null ]
+    [ "npc_mootoo_the_youngerAI", "d7/d0f/a21479.html#a70a5a502dab9a90a790a90eabc5c3acd", null ],
+    [ "JustDied", "d7/d0f/a21479.html#a766612f646a6d22d3f0e6f93298e34bc", null ],
+    [ "Reset", "d7/d0f/a21479.html#a04624b9b4d552d6b27308edc3ad44644", null ],
+    [ "WaypointReached", "d7/d0f/a21479.html#ac758a992ed0d62a272930c84d617b348", null ]
 ];

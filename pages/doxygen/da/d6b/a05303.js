@@ -1,8 +1,9 @@
 var a05303 =
 [
-    [ "GeneralLock", "da/d6b/a05303.html#ad0fac66b181e166108c871274bce7a93", null ],
-    [ "~GeneralLock", "da/d6b/a05303.html#a455c73434c26cac8bf9761900d648589", null ],
-    [ "GeneralLock", "da/d6b/a05303.html#aecc7bf4d8ac0c4bc16a89a16e196330c", null ],
-    [ "operator=", "da/d6b/a05303.html#a876a9be3c642991811028892bcae42c4", null ],
-    [ "i_mutex", "da/d6b/a05303.html#a80b98e278d3afb1867ff5f159eda5055", null ]
+    [ "IpLocationRecord", "da/d6b/a05303.html#a1dba2f8a7697c7e6fd427089d556c19a", null ],
+    [ "IpLocationRecord", "da/d6b/a05303.html#a10ffefef6ba7d81a23d5d29bc2ee599d", null ],
+    [ "CountryCode", "da/d6b/a05303.html#a9b54a497801e9da396955893473eb7da", null ],
+    [ "CountryName", "da/d6b/a05303.html#acbc8ea139970e7acbad06302d5666eb9", null ],
+    [ "IpFrom", "da/d6b/a05303.html#a97d36332086a339e07b73955f23acd57", null ],
+    [ "IpTo", "da/d6b/a05303.html#a844dfff114f6ce64b79c459527965bfb", null ]
 ];

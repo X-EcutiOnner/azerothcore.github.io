@@ -1,6 +1,6 @@
 var a20695 =
 [
-    [ "boss_yoggsaron_cloudAI", "df/dbf/a20699.html", "df/dbf/a20699" ],
-    [ "boss_yoggsaron_cloud", "d6/d30/a20695.html#ab52cc1fa8b45b70dde340b9f463ef2f1", null ],
-    [ "GetAI", "d6/d30/a20695.html#a2005f062eb9d78c7b09b045eba570b98", null ]
+    [ "x", "d6/d30/a20695.html#ae4223168378b602a0a96dbb424a22be4", null ],
+    [ "y", "d6/d30/a20695.html#a30f361d8104e4de44541d75945105963", null ],
+    [ "z", "d6/d30/a20695.html#ae68a79519c35302b89976ac29bb77e26", null ]
 ];

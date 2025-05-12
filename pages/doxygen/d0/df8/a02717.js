@@ -1,4 +1,5 @@
 var a02717 =
 [
-    [ "WorldSocketThread", "d4/d70/a11000.html", "d4/d70/a11000" ]
+    [ "Movement::SplineBase", "dc/d3f/a10055.html", "dc/d3f/a10055" ],
+    [ "Movement::Spline< length_type >", "d3/dab/a10059.html", "d3/dab/a10059" ]
 ];

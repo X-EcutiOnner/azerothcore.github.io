@@ -1,8 +1,8 @@
 var a18459 =
 [
-    [ "npc_rotting_frost_giantAI", "d4/d1d/a18459.html#a7b412075e17a81bf50aba63f96c16e53", null ],
-    [ "JustDied", "d4/d1d/a18459.html#a68b4e823de82fdfd31ccf765192e8768", null ],
-    [ "Reset", "d4/d1d/a18459.html#ae96994e7c02a1fb8df8ef9fe80d7bc41", null ],
-    [ "UpdateAI", "d4/d1d/a18459.html#a7bb99a6ff894c085bf3fb2e2708f3914", null ],
-    [ "_events", "d4/d1d/a18459.html#ab061ea54c2b36f6f1c2ec7841202e684", null ]
+    [ "FilterTargets", "d4/d1d/a18459.html#aed8b741160cbf50dde84cf059c8b52cb", null ],
+    [ "HandleForceCast", "d4/d1d/a18459.html#ae783cf255be823bf7c9125f288479e97", null ],
+    [ "Load", "d4/d1d/a18459.html#ac8f92e9284abc56d55ecf3aa73d350f8", null ],
+    [ "PrepareSpellScript", "d4/d1d/a18459.html#a68074978fe2c1b137c6ddfd7b9082bfc", null ],
+    [ "Register", "d4/d1d/a18459.html#a454a8909be4bb85f255ea696041ea447", null ]
 ];

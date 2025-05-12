@@ -1,5 +1,5 @@
 var a14759 =
 [
-    [ "npc_idol_room_spawnerAI", "da/d35/a14759.html#a77c4aa88d213271166158c8e75d41a69", null ],
-    [ "SetData", "da/d35/a14759.html#aa0626c837086b4a275f4d51d1659a242", null ]
+    [ "npc_black_morass_summoned_add", "da/d35/a14759.html#ab1551fc3e746dc724ea433f7a3daa786", null ],
+    [ "EnterEvadeMode", "da/d35/a14759.html#a437e7b72b985713d22883f3e33f30942", null ]
 ];

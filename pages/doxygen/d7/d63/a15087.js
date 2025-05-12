@@ -1,8 +1,8 @@
 var a15087 =
 [
-    [ "npc_ahnqiraji_critter", "d7/d63/a15087.html#a60e2dc1c52579a410d3435126bf39684", null ],
-    [ "JustDied", "d7/d63/a15087.html#a71d3d5262bde847a18932fea89cb6648", null ],
-    [ "JustEngagedWith", "d7/d63/a15087.html#aca1df706306f9181db26cd77e5b66452", null ],
-    [ "Reset", "d7/d63/a15087.html#a645e16e9da29f6579320394201d0ada7", null ],
-    [ "UpdateAI", "d7/d63/a15087.html#a68c5ded8563c2de9429a13cdb7d38f89", null ]
+    [ "boss_veklor", "d7/d63/a15087.html#acbbe1a2e6ffcb00a28f7ae5413cd02c1", null ],
+    [ "AttackStart", "d7/d63/a15087.html#a7ecfff13457bf177c1ec250bbee75cbf", null ],
+    [ "IAmVeklor", "d7/d63/a15087.html#a4c43713c24b5537f292be1e0fcaee703", null ],
+    [ "JustEngagedWith", "d7/d63/a15087.html#a05913da666b1715eac68441195dd9df4", null ],
+    [ "SpellHit", "d7/d63/a15087.html#ab5d9ec12c18e360ce2c8749dd97f2ab0", null ]
 ];

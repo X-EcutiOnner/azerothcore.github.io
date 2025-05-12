@@ -1,11 +1,11 @@
 var a15207 =
 [
-    [ "npc_kerlonianAI", "dc/dfa/a15207.html#a0f7a4566ca93a174c92fe10e904af480", null ],
-    [ "ClearSleeping", "dc/dfa/a15207.html#aea2815d79da4fa006ea150f052255b9d", null ],
-    [ "MoveInLineOfSight", "dc/dfa/a15207.html#a8b0a606510d278f26099a125d583377a", null ],
-    [ "Reset", "dc/dfa/a15207.html#a20fac33bf3322ad0caf72ea883680b8d", null ],
-    [ "SetSleeping", "dc/dfa/a15207.html#a0e1e6beaa98090d8bf8a17d28a9ee733", null ],
-    [ "SpellHit", "dc/dfa/a15207.html#a1df028085cf1cb9e8152cdb70a3d28b1", null ],
-    [ "UpdateFollowerAI", "dc/dfa/a15207.html#aa86dc8b3e934ff3297f7316de5420fe6", null ],
-    [ "FallAsleepTimer", "dc/dfa/a15207.html#a8cfd8d869f8a313d041d89f8d0daa1bb", null ]
+    [ "npc_depth_chargeAI", "dc/dfa/a15207.html#a088848c16418964973107e125c20f508", null ],
+    [ "AttackStart", "dc/dfa/a15207.html#a1ec6e2ea0cc61262932f63f764273cdb", null ],
+    [ "JustEngagedWith", "dc/dfa/a15207.html#a90cc6eab8b63588f2567f59941eafc59", null ],
+    [ "MoveInLineOfSight", "dc/dfa/a15207.html#a8342b7fc7677ac94757c725ec4063e9e", null ],
+    [ "Reset", "dc/dfa/a15207.html#aaccf632a50749c0f6d6f29bb1b1bf5a4", null ],
+    [ "UpdateAI", "dc/dfa/a15207.html#af34e55c3aee40f840edf695adc06495e", null ],
+    [ "WeMustDie", "dc/dfa/a15207.html#a7b25b1228cf5029f1ebe653c76cf9843", null ],
+    [ "WeMustDieTimer", "dc/dfa/a15207.html#a23e4f1f7079d12e78c74c21171d95cc7", null ]
 ];

@@ -1,6 +1,6 @@
 var a10575 =
 [
-    [ "PetStopAttack", "d2/d9a/a10575.html#a4a68127f3290d4f2e288600757dd3282", null ],
-    [ "Read", "d2/d9a/a10575.html#a22dd8d9fcbadbec5ba046812f5cdac51", null ],
-    [ "PetGUID", "d2/d9a/a10575.html#af7b95e5b976af2fa7bb4c61319f7eb97", null ]
+    [ "GuildEventLogQueryResults", "d2/d9a/a10575.html#af12c732cd5c81792c6f0cb5cacc096f9", null ],
+    [ "Write", "d2/d9a/a10575.html#aa24738cdd040a883782b50189abdf240", null ],
+    [ "Entry", "d2/d9a/a10575.html#a227ab5555fccf5c8c78ca10fa229d3d4", null ]
 ];

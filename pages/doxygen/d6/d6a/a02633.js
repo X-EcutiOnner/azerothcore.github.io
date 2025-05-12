@@ -1,8 +1,7 @@
 var a02633 =
 [
-    [ "QuestApprenticeAnglerPlayerScript", "df/de6/a27592.html", "df/de6/a27592" ],
-    [ "ApprenticeAnglerQuestEnum", "d6/d6a/a02633.html#a6d8279401bbf1ce28fa9c35fbcf1970c", [
-      [ "QUEST_APPRENTICE_ANGLER", "d6/d6a/a02633.html#a6d8279401bbf1ce28fa9c35fbcf1970cacdd3122055e667091697fd808a284aba", null ]
-    ] ],
-    [ "AddSC_player_scripts", "d6/d6a/a02633.html#a1f476a8466c12651b57fd55bf13b9617", null ]
+    [ "IdleMovementGenerator", "d4/db5/a09935.html", "d4/db5/a09935" ],
+    [ "RotateMovementGenerator", "d4/d4a/a09939.html", "d4/d4a/a09939" ],
+    [ "DistractMovementGenerator", "de/dbb/a09943.html", "de/dbb/a09943" ],
+    [ "AssistanceDistractMovementGenerator", "d7/dd6/a09947.html", "d7/dd6/a09947" ]
 ];

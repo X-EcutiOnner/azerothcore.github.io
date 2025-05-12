@@ -1,7 +1,8 @@
 var a17359 =
 [
-    [ "HandleScript", "df/dbb/a17359.html#a5fe0b684473bd5dd1ff9b12432ff3de8", null ],
-    [ "Load", "df/dbb/a17359.html#ab1d81386ae3ccd332c01864d7f456017", null ],
-    [ "PrepareSpellScript", "df/dbb/a17359.html#ae3ef753ff4c99aa8bed20ce3369a7e0f", null ],
-    [ "Register", "df/dbb/a17359.html#a7edb44f70501c2e760d29c8f78a4e087", null ]
+    [ "CheckProc", "df/dbb/a17359.html#a11620e4d645b3bfd35924700b5dad289", null ],
+    [ "HandleProc", "df/dbb/a17359.html#aa80a032f2ec80aba36f6fe0208412587", null ],
+    [ "PrepareAuraScript", "df/dbb/a17359.html#afe04f0cb6539238412253b63dd3c82b9", null ],
+    [ "Register", "df/dbb/a17359.html#ac18d1d1a1d19b0dfa5cb1565377ba273", null ],
+    [ "Validate", "df/dbb/a17359.html#ac42fe3248fadf0ecca95893e06c490ee", null ]
 ];

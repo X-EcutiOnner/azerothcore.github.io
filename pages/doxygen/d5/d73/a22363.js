@@ -1,5 +1,6 @@
 var a22363 =
 [
-    [ "achievement_wg_within_our_grasp", "d5/d73/a22363.html#a9edbd15bc6989c6948e21391a683d22d", null ],
-    [ "OnCheck", "d5/d73/a22363.html#a10b659c4b52322536333e3d191796c27", null ]
+    [ "npc_released_offspring_harkoaAI", "d4/ddc/a22367.html", "d4/ddc/a22367" ],
+    [ "npc_released_offspring_harkoa", "d5/d73/a22363.html#a10f583320e3b617cf2b327cfb6fed6f5", null ],
+    [ "GetAI", "d5/d73/a22363.html#ae3d2a02c496be1b2606fce596625d12e", null ]
 ];

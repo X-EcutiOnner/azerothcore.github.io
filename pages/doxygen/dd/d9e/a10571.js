@@ -1,6 +1,5 @@
 var a10571 =
 [
-    [ "PetAbandon", "dd/d9e/a10571.html#aeac05969ce6bdb41a02f7ffe56126dfd", null ],
-    [ "Read", "dd/d9e/a10571.html#a58ebb244de4bd65a85f75dcc24250883", null ],
-    [ "PetGUID", "dd/d9e/a10571.html#a7175c081b7cb691ceb4729c1abc5028e", null ]
+    [ "GuildEventLogQuery", "dd/d9e/a10571.html#af66d667a4b722745fa4f855870ef332c", null ],
+    [ "Read", "dd/d9e/a10571.html#a48881f116070d5a7c03e7cace86656f6", null ]
 ];

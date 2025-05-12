@@ -1,6 +1,6 @@
 var a10963 =
 [
-    [ "HitHandler", "d4/d9d/a10963.html#a41c5a6853bf72c113388995dc3ebaba7", null ],
-    [ "Call", "d4/d9d/a10963.html#a157baaa3ceba62a9910cba5377bd7699", null ],
-    [ "pHitHandlerScript", "d4/d9d/a10963.html#ac24144e49930a01a3049740a4072f626", null ]
+    [ "WorldSession", "d4/d9d/a10963.html#a65b5c30bf4f5f118a199e378d903aaf6", null ],
+    [ "Guid", "d4/d9d/a10963.html#a46a89b6904e59f39f4e1460a9bb45765", null ],
+    [ "Name", "d4/d9d/a10963.html#a4e747a555bde74f97a5fc78287e5e29d", null ]
 ];

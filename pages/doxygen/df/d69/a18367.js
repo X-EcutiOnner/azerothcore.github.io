@@ -1,7 +1,6 @@
 var a18367 =
 [
-    [ "npc_blazing_skeletonAI", "df/d69/a18367.html#ad4f997a7a4cc0fa96594da35434fd921", null ],
-    [ "Reset", "df/d69/a18367.html#a3bbc4cf7b6dbe11d6768a0fb0626e84a", null ],
-    [ "UpdateAI", "df/d69/a18367.html#a0010c4befd13ec6beada0de1607f3f7a", null ],
-    [ "_events", "df/d69/a18367.html#aab1b04989d5e3fc289f00bc121df193d", null ]
+    [ "npc_green_dragon_combat_triggerAI", "d3/dad/a18371.html", "d3/dad/a18371" ],
+    [ "npc_green_dragon_combat_trigger", "df/d69/a18367.html#acec675494f5e5e9609bf34b7f25cb569", null ],
+    [ "GetAI", "df/d69/a18367.html#a945b7cd0084873c17d52b3c2cc3ede22", null ]
 ];

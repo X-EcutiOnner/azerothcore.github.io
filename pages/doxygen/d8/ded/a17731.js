@@ -1,6 +1,6 @@
 var a17731 =
 [
-    [ "PrepareSpellScript", "d8/ded/a17731.html#a16eadb50b6038f16ea28464d00df3381", null ],
-    [ "Register", "d8/ded/a17731.html#ac6e304d391011863b8eff8105fab5191", null ],
-    [ "SelectDest", "d8/ded/a17731.html#a8ff5d684c0b91d0f068d03698c1ee92c", null ]
+    [ "AbominationDespawner", "d8/ded/a17731.html#a3bbf8c5d4e42569ffe993a3c3b8ff95e", null ],
+    [ "operator()", "d8/ded/a17731.html#a58b8faac1cdffa7230783a1d6439fcfb", null ],
+    [ "_owner", "d8/ded/a17731.html#af9089e566905b885887a5714ad5b0741", null ]
 ];

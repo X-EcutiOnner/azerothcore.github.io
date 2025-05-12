@@ -1,5 +1,6 @@
 var a22359 =
 [
-    [ "achievement_wg_vehicular_gnomeslaughter", "da/d6b/a22359.html#a441b8db113ef4843f433c1ea3f3052b5", null ],
-    [ "OnCheck", "da/d6b/a22359.html#ab23a2d90e536a3a9ecbb3b64c5b0e18f", null ]
+    [ "npc_captured_rageclawAI", "da/d6b/a22359.html#a5bb483a323330b0895f87c5381d73314", null ],
+    [ "Reset", "da/d6b/a22359.html#a9cde0a0e5015334ec8dcd277fcd99dc3", null ],
+    [ "SpellHit", "da/d6b/a22359.html#a2c63911d27435a2271a7c89d9d88318c", null ]
 ];

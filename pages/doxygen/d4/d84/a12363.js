@@ -1,8 +1,10 @@
 var a12363 =
 [
-    [ "npc_tito", "d4/d84/a12363.html#a0b3b1750e8b8840e50d27d22ebddb7c8", null ],
-    [ "JustEngagedWith", "d4/d84/a12363.html#a71335c1474e8a29edf76addacb737fa9", null ],
-    [ "UpdateAI", "d4/d84/a12363.html#ac357c29e68d8480d94349da844efd3ad", null ],
-    [ "_scheduler", "d4/d84/a12363.html#a96c47ca2e66bb984dfd2cfefa6bde643", null ],
-    [ "instance", "d4/d84/a12363.html#a9eecd226486e52d559ae1a30687bf0eb", null ]
+    [ "npc_core_ragerAI", "d4/d84/a12363.html#a3c5125e0a10043f6181c10ba749fa579", null ],
+    [ "DamageTaken", "d4/d84/a12363.html#a758eb158eb9d232d74514281028efcb3", null ],
+    [ "Reset", "d4/d84/a12363.html#acf83e469d3d8108276227a942fda28b3", null ],
+    [ "UpdateAI", "d4/d84/a12363.html#a2183cf5ab22b737413b86a657fde6d3c", null ],
+    [ "instance", "d4/d84/a12363.html#a7cfddba62f737214b8cfc7fbffa8c2e2", null ],
+    [ "mangleTimer", "d4/d84/a12363.html#a081333b967abb3812b9ddae2f933a324", null ],
+    [ "rangeCheckTimer", "d4/d84/a12363.html#ade427bdd9ec99807b6f190c890136414", null ]
 ];

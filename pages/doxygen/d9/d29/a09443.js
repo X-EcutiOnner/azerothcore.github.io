@@ -1,8 +1,6 @@
 var a09443 =
 [
-    [ "BoundaryUnionBoundary", "d9/d29/a09443.html#a074536112fffc805dec44bd9cd602642", null ],
-    [ "~BoundaryUnionBoundary", "d9/d29/a09443.html#a96450fc020bfad7b9f1f7be64490ad46", null ],
-    [ "IsWithinBoundaryArea", "d9/d29/a09443.html#a8dc91861fa6641008236e5a83030e0d1", null ],
-    [ "_b1", "d9/d29/a09443.html#a40fcd847f38703dfe5174267fbfd81ee", null ],
-    [ "_b2", "d9/d29/a09443.html#ae70530673803bd2ee85bf722fe42718b", null ]
+    [ "RandomCheck", "d9/d29/a09443.html#aca7a234c6eef8876abb02af723e9485d", null ],
+    [ "operator()", "d9/d29/a09443.html#a9886987fa2b675ab404102ebe828c9f3", null ],
+    [ "_chance", "d9/d29/a09443.html#aad026a0ad4539dd5336c3a6b820e351d", null ]
 ];

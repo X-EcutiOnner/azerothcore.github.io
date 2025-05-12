@@ -1,5 +1,6 @@
 var a16487 =
 [
-    [ "PrepareAuraScript", "dc/dfb/a16487.html#ac3f3bb4164ade80c1553287039983083", null ],
-    [ "Register", "dc/dfb/a16487.html#adff3856a6ee07299410a4e08df444c64", null ]
+    [ "boss_icehowlAI", "d0/d3d/a16491.html", "d0/d3d/a16491" ],
+    [ "boss_icehowl", "dc/dfb/a16487.html#ab3c9711fa6af17be9dc7331b42c408be", null ],
+    [ "GetAI", "dc/dfb/a16487.html#ac77bf3b9d954b8c6be01d0209a80cc6a", null ]
 ];

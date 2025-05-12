@@ -1,7 +1,7 @@
 var a18467 =
 [
-    [ "npc_frost_freeze_trapAI", "d9/d35/a18467.html#a95c64fbbc97f55e4d0cd0b239939fdc6", null ],
-    [ "DoAction", "d9/d35/a18467.html#a8dbe0fc5c84f49363254562166c8c0a7", null ],
-    [ "UpdateAI", "d9/d35/a18467.html#ae8efccb090f38968f3c0ca51f022013b", null ],
-    [ "_events", "d9/d35/a18467.html#ae0abd3d7fcb51ac02f8d325efa93b2f2", null ]
+    [ "HandleForceCast", "d9/d35/a18467.html#accc757e0a23103242865f0ce3085f9d9", null ],
+    [ "Load", "d9/d35/a18467.html#a7206571378a0196a8648659628bdeece", null ],
+    [ "PrepareSpellScript", "d9/d35/a18467.html#a8bb6db3eaebab00d3166b24ad1e41158", null ],
+    [ "Register", "d9/d35/a18467.html#ace665321732f59f13b2ef831c71c2f18", null ]
 ];

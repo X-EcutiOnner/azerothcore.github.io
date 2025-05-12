@@ -1,5 +1,5 @@
 var a07847 =
 [
-    [ "GossipActionMenuId", "de/dbe/a07847.html#a377beba97be2b81a0c2bbeb933f1927b", null ],
-    [ "GossipActionPoi", "de/dbe/a07847.html#afdaf27e370e3c84659fdc3784cafad29", null ]
+    [ "flags", "de/dbe/a07847.html#ac55cea8114883b0000fb9fd195910f65", null ],
+    [ "params", "de/dbe/a07847.html#a5426d7accbe5734016fed99e632ea313", null ]
 ];

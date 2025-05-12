@@ -1,6 +1,6 @@
 var a17215 =
 [
-    [ "KnockIntoAir", "df/dd0/a17215.html#a1f9fb1f258613ca6657abba26969961f", null ],
-    [ "PrepareSpellScript", "df/dd0/a17215.html#acf66a4b14ffce76b6c8dc7cc5906f229", null ],
-    [ "Register", "df/dd0/a17215.html#a35a7758630c1769228fedff84ad929e8", null ]
+    [ "npc_kinetic_bombAI", "d5/dcb/a17219.html", "d5/dcb/a17219" ],
+    [ "npc_kinetic_bomb", "df/dd0/a17215.html#abca5a72d3ac0d50a27e604e8e1491957", null ],
+    [ "GetAI", "df/dd0/a17215.html#ae00630d96dc7a93ea13841c1f9e9be3b", null ]
 ];

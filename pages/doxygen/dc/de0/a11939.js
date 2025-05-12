@@ -1,10 +1,8 @@
 var a11939 =
 [
-    [ "npc_corrupted_totem", "dc/de0/a11939.html#a5e0c58b341fe25a5d682b68e9eee207f", null ],
-    [ "IsSummonedBy", "dc/de0/a11939.html#ae8314903c9006b7bca94a47115a0d05b", null ],
-    [ "JustDied", "dc/de0/a11939.html#aa3c6b1a3df61c9e98c62efadff637578", null ],
-    [ "Reset", "dc/de0/a11939.html#a0bc8df2b8266b7b3a5f40f1ede0e10b4", null ],
-    [ "SetAura", "dc/de0/a11939.html#a509688befda49f789f77ee0e4170a74e", null ],
-    [ "UpdateAI", "dc/de0/a11939.html#ac128625268820d2e9b1f0ef5ead975e9", null ],
-    [ "_auraAdded", "dc/de0/a11939.html#a953cf5af625b9b5a4ab6704d5b1b664c", null ]
+    [ "boss_doomrelAI", "d9/d6c/a11943.html", "d9/d6c/a11943" ],
+    [ "boss_doomrel", "dc/de0/a11939.html#aee45a59f9a62f1d32a7dc344bd3c46c6", null ],
+    [ "GetAI", "dc/de0/a11939.html#a1b8a95208506f79c00ed40be2d51eb38", null ],
+    [ "OnGossipHello", "dc/de0/a11939.html#a3c544ae70c46a62ac7dd2fc5cca97c8b", null ],
+    [ "OnGossipSelect", "dc/de0/a11939.html#ae430a8fef70bd46267482a70084049c1", null ]
 ];

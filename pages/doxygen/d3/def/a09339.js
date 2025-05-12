@@ -1,14 +1,9 @@
 var a09339 =
 [
-    [ "LootItemStorage", "d3/def/a09339.html#aa6ece474f05744f2ce24a9fef42734af", null ],
-    [ "~LootItemStorage", "d3/def/a09339.html#a36faeed6ef556fd13118c4ad34e38548", null ],
-    [ "AddNewStoredLoot", "d3/def/a09339.html#a4c463773b50ae1b312865fbf72dfed18", null ],
-    [ "instance", "d3/def/a09339.html#a58d6dc6afa42364ca1dd6cbdcfb55b2b", null ],
-    [ "LoadStorageFromDB", "d3/def/a09339.html#a377c75f9d06eb246072b29d19baf2b62", null ],
-    [ "LoadStoredLoot", "d3/def/a09339.html#ad9804f564302d6ea4db4b84a6cbb093b", null ],
-    [ "RemoveEntryFromDB", "d3/def/a09339.html#a8ab68725c0525d162d325a2131db4c49", null ],
-    [ "RemoveStoredLoot", "d3/def/a09339.html#a414dee93f9852a64f01f9d9bf8dc8b40", null ],
-    [ "RemoveStoredLootItem", "d3/def/a09339.html#a6fd3f2ac820784ba51413b3781df3bcc", null ],
-    [ "RemoveStoredLootMoney", "d3/def/a09339.html#ab22d267a6701fedf824f801e4b703f70", null ],
-    [ "lootItemStore", "d3/def/a09339.html#a58ae52b9812e5752ba00d00a58eb56b0", null ]
+    [ "NearestAttackableUnitInObjectRangeCheck", "d3/def/a09339.html#ae2f43e2036047622ec88de3db08ea668", null ],
+    [ "NearestAttackableUnitInObjectRangeCheck", "d3/def/a09339.html#a8deef14a2c11f9ccd9613614124a7d8e", null ],
+    [ "operator()", "d3/def/a09339.html#a2f966e38682e6a02a120ad90ba19f7a4", null ],
+    [ "i_funit", "d3/def/a09339.html#a88be7342d10008fc394f21b9a5e14162", null ],
+    [ "i_obj", "d3/def/a09339.html#a6c1c4e5b85f6f7958578afb6c6f2af98", null ],
+    [ "i_range", "d3/def/a09339.html#a26242657d6f2eb61d6f8fcac30357381", null ]
 ];

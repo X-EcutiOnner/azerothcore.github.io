@@ -1,6 +1,7 @@
 var a17711 =
 [
-    [ "npc_volatile_oozeAI", "dc/ded/a17715.html", "dc/ded/a17715" ],
-    [ "npc_volatile_ooze", "de/d80/a17711.html#a22847e44812a0b13b92cfcca3a70204e", null ],
-    [ "GetAI", "de/d80/a17711.html#a66b4918c14d90d5550ddc8dbe90c2e01", null ]
+    [ "HandleScriptEffect", "de/d80/a17711.html#abeb703f8f050677bafb8f5ce4173751a", null ],
+    [ "PrepareSpellScript", "de/d80/a17711.html#a19dec2c1cbe72d90fa86960d7bb21277", null ],
+    [ "Register", "de/d80/a17711.html#aa2c6c9de775ecce9f84485e0ac64a651", null ],
+    [ "SelectTarget", "de/d80/a17711.html#ae8eb94536a9f08138b42cfe8ea711eaa", null ]
 ];

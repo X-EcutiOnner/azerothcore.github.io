@@ -1,15 +1,10 @@
 var a07263 =
 [
-    [ "Print", "df/dc1/a07263.html#a7a3f746595d9ca126747f5e0ba52c71b", null ],
-    [ "CliHandler", "df/dc1/a07263.html#a6a7ba928db9d41743d7cebd1ad98b084", null ],
-    [ "GetAcoreString", "df/dc1/a07263.html#a84a52cac4c1ac11e36e36c37f976af0e", null ],
-    [ "GetNameLink", "df/dc1/a07263.html#ae879bbfa69992caa7a0b1b2b3c7d939c", null ],
-    [ "GetSessionDbcLocale", "df/dc1/a07263.html#a610f7431dc7b064c964e0d446160d19f", null ],
-    [ "GetSessionDbLocaleIndex", "df/dc1/a07263.html#a5a2118d9227aa53818d736e387d77dea", null ],
-    [ "HasSession", "df/dc1/a07263.html#a1cd4aabe4c61e3899a1e6d6785742abe", null ],
-    [ "needReportToTarget", "df/dc1/a07263.html#ad8c4ee6e45afff55d94dea9704bd2097", null ],
-    [ "ParseCommands", "df/dc1/a07263.html#abbd02247d6094bf39b2791ba45e9942e", null ],
-    [ "SendSysMessage", "df/dc1/a07263.html#a636be10a282a8d100b807dac119b3ff6", null ],
-    [ "m_callbackArg", "df/dc1/a07263.html#aa1fafd68fca180506cc15680b695db9e", null ],
-    [ "m_print", "df/dc1/a07263.html#aadeaa84ce5d26951f506a2656c1d64d2", null ]
+    [ "ArenaLogEntryData", "df/dc1/a07263.html#a8f3ec057dd930d2f2acd7961e0cf4e5e", null ],
+    [ "Fill", "df/dc1/a07263.html#aa3cca4521431bf152550611549bf4bbe", null ],
+    [ "Acc", "df/dc1/a07263.html#aa8983930063298c86f4635d2ae3078fe", null ],
+    [ "ArenaTeamId", "df/dc1/a07263.html#ac764620c3c8a986286fd74062dac4645", null ],
+    [ "Guid", "df/dc1/a07263.html#a03b32cd44c655dcc9104aead3b76454e", null ],
+    [ "IP", "df/dc1/a07263.html#ab9f80eacfe24025a2d4947085d3f6dd7", null ],
+    [ "Name", "df/dc1/a07263.html#a5c18d554adb9e38ab10baf36c9b3fdd7", null ]
 ];

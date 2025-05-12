@@ -1,12 +1,8 @@
 var a22259 =
 [
-    [ "npc_icefangAI", "dc/d53/a22259.html#ab74b58a77e3c1349ed308f7febef794a", null ],
-    [ "AttackStart", "dc/d53/a22259.html#a56615ecdb45389aa793374d26a636d45", null ],
-    [ "EnterEvadeMode", "dc/d53/a22259.html#a1465c4779ea8b080f934163c8db6c99c", null ],
-    [ "JustDied", "dc/d53/a22259.html#a3140c8306a384833cca1580ad964d73a", null ],
-    [ "JustEngagedWith", "dc/d53/a22259.html#a8455dd4afb5ef5a694ca9237848df907", null ],
-    [ "OnCharmed", "dc/d53/a22259.html#ad7f3465f5730cd9ebd42bb4092ec8e68", null ],
-    [ "PassengerBoarded", "dc/d53/a22259.html#acf6e8e273830d022eaca3a28a4bd5320", null ],
-    [ "UpdateAI", "dc/d53/a22259.html#ab4d752f2273062c48339b53e611e617c", null ],
-    [ "WaypointReached", "dc/d53/a22259.html#ae315a1d22317edb2864e4d796f808ffb", null ]
+    [ "npc_wg_queueAI", "d9/d7f/a22263.html", "d9/d7f/a22263" ],
+    [ "npc_wg_queue", "dc/d53/a22259.html#a2cc9825e08e982ef195f117a4512c4ae", null ],
+    [ "GetAI", "dc/d53/a22259.html#ad2d7746a32b520d37ea826b03627de4e", null ],
+    [ "OnGossipHello", "dc/d53/a22259.html#a20fc6ae4e4377f237a620b7f5b1de8ee", null ],
+    [ "OnGossipSelect", "dc/d53/a22259.html#afb707da5d85affc65f7ab5a0fc018c93", null ]
 ];

@@ -1,6 +1,5 @@
 var a18767 =
 [
-    [ "npc_isle_of_conquest_turretAI", "dd/dd1/a18771.html", "dd/dd1/a18771" ],
-    [ "npc_isle_of_conquest_turret", "d1/d90/a18767.html#ac080845203adef25e6841133b7e2f4dc", null ],
-    [ "GetAI", "d1/d90/a18767.html#a0f532e12439e900b3cb77619f1ecd17d", null ]
+    [ "at_icc_gauntlet_event", "d1/d90/a18767.html#ae8790bad655661aeda887f56b9393847", null ],
+    [ "OnTrigger", "d1/d90/a18767.html#a9329ec078db088b1c13144ac7ed7a13a", null ]
 ];

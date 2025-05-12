@@ -1,6 +1,10 @@
 var a06003 =
 [
-    [ "TriggerAI", "d3/d59/a06003.html#ad8cc7eae28b11af049db88e0d8ff149b", null ],
-    [ "IsSummonedBy", "d3/d59/a06003.html#a0bcffd9eab068e35d71e3176c33359f1", null ],
-    [ "Permissible", "d3/d59/a06003.html#aa979e7a4774b35bf83ed137543d517b1", null ]
+    [ "Storage", "d3/d59/a06003.html#a49a70316b169e50ad64ff51d6a568bbc", null ],
+    [ "AchievementCriteriaDataSet", "d3/d59/a06003.html#a5055f8710c48379035e132e8f20577dc", null ],
+    [ "Add", "d3/d59/a06003.html#a297f02665679b19961998fb529d064e4", null ],
+    [ "Meets", "d3/d59/a06003.html#a8edbe32d695308633fa7abfc91d2a1a1", null ],
+    [ "SetCriteriaId", "d3/d59/a06003.html#addedfd39d9948923a2704b51eaacecbc", null ],
+    [ "_criteria_id", "d3/d59/a06003.html#a0abc37729d2f3c400bb7cfde212f51c0", null ],
+    [ "_storage", "d3/d59/a06003.html#a6abf189d95226b370cfcfe7b628ed7c0", null ]
 ];

@@ -1,6 +1,6 @@
 var a11915 =
 [
-    [ "boss_flamegorAI", "d0/d87/a11919.html", "d0/d87/a11919" ],
-    [ "boss_flamegor", "d4/d51/a11915.html#abc6f068c81466d08306d94667bb1974b", null ],
-    [ "GetAI", "d4/d51/a11915.html#a56fb8425c55703fbda14a982d8fdcb2d", null ]
+    [ "boss_high_priestess_thaurissanAI", "d4/d51/a11915.html#acbc89b59865a5fda5a4143dd8c690b37", null ],
+    [ "JustEngagedWith", "d4/d51/a11915.html#a6602682950aab4e9932bf6cdfac9886b", null ],
+    [ "UpdateAI", "d4/d51/a11915.html#a216a5bc7a38aa5e13f9d025f44e04779", null ]
 ];

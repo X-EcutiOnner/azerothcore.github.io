@@ -1,6 +1,6 @@
 var a17463 =
 [
-    [ "npc_gunship_boarding_add_realAI", "de/d5c/a17463.html#a829c3690ab0d5ad3f0a888cb6701692a", null ],
-    [ "UpdateAI", "de/d5c/a17463.html#a33ac355c8f61907574a0736a24cbee82", null ],
-    [ "_events", "de/d5c/a17463.html#acaea46d9523fa9fe59415b0b0834a2ba", null ]
+    [ "npc_muradin_bronzebeard_igbAI", "d9/d4c/a17467.html", "d9/d4c/a17467" ],
+    [ "npc_muradin_bronzebeard_igb", "de/d5c/a17463.html#a1e6abc18a192b3acfa29bf03dd4eeed9", null ],
+    [ "GetAI", "de/d5c/a17463.html#af9b149e0780308f26d5adb1e6607a3ce", null ]
 ];

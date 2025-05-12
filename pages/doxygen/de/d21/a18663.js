@@ -1,6 +1,7 @@
 var a18663 =
 [
-    [ "npc_icc_valkyr_heraldAI", "de/da4/a18667.html", "de/da4/a18667" ],
-    [ "npc_icc_valkyr_herald", "de/d21/a18663.html#a9d06e0dec8cb960d34c2089c1c0d8ccb", null ],
-    [ "GetAI", "de/d21/a18663.html#a7537269841d0380d2dc9e4641705acf9", null ]
+    [ "HandleEffectPeriodic", "de/d21/a18663.html#a57615f1d8b891ab5a5c01de1543235cb", null ],
+    [ "PrepareAuraScript", "de/d21/a18663.html#ae040da0db1147652266e1f373838df37", null ],
+    [ "Register", "de/d21/a18663.html#ab11b84522134ee4d13504df3c19f69b8", null ],
+    [ "Validate", "de/d21/a18663.html#af3c3c90256913ffe188c11a21fc2dcc8", null ]
 ];

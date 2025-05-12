@@ -1,7 +1,7 @@
 var a22287 =
 [
-    [ "npc_wg_demolisher_engineer", "db/db5/a22287.html#a722ff6bac34730bfb5f36584d7a62ff8", null ],
-    [ "canBuild", "db/db5/a22287.html#a5dd51b0d0a05ebfb648faab570e27881", null ],
-    [ "OnGossipHello", "db/db5/a22287.html#ac3b0bbfd66bb94f29a6d733999b8c6ba", null ],
-    [ "OnGossipSelect", "db/db5/a22287.html#a3ecf69f45918bef0cb51023327ac9693", null ]
+    [ "HandleScript", "db/db5/a22287.html#a26eb647b6c938df3aeff7981571dc475", null ],
+    [ "PrepareSpellScript", "db/db5/a22287.html#a10114d8fa956aabff64aa0df7708f635", null ],
+    [ "Register", "db/db5/a22287.html#a0c6c379f5dcbb417d94d8e6315aa49dd", null ],
+    [ "Validate", "db/db5/a22287.html#adb477d34d8012c6fb45c5548fc49e127", null ]
 ];

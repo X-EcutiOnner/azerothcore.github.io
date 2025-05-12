@@ -1,9 +1,8 @@
 var a21403 =
 [
-    [ "npc_azure_stalkerAI", "d6/d2b/a21403.html#a1499e734f0d95d491bcd23c2e858a1ee", null ],
-    [ "Reset", "d6/d2b/a21403.html#a9bd36e95ce7c3157a2ac53400da51d23", null ],
-    [ "UpdateAI", "d6/d2b/a21403.html#a8c4ea046d69b269e886960ba9562fd0c", null ],
-    [ "TacticalBlinkCasted", "d6/d2b/a21403.html#a875a272380251fcc7f98e5c0f84bb41a", null ],
-    [ "uiBackstabTimer", "d6/d2b/a21403.html#ad03ba957706a62e3d8091d025ddd50dc", null ],
-    [ "uiTacticalBlinkTimer", "d6/d2b/a21403.html#ab817fb9f2f06715f0a08a99e12693697", null ]
+    [ "HandleEffectRemove", "d6/d2b/a21403.html#aa2b05befb775244423264f6b5e2387c1", null ],
+    [ "Load", "d6/d2b/a21403.html#a02ea4c29f2c7e15a5039b93d7a0d3c5e", null ],
+    [ "PrepareAuraScript", "d6/d2b/a21403.html#a632e81cc39bdcd0f5adcc684231d1171", null ],
+    [ "Register", "d6/d2b/a21403.html#aba5483b1d35c1b58841fad2b1086f07c", null ],
+    [ "Validate", "d6/d2b/a21403.html#ada90e1f06ced8f4e353fe2bda3d31637", null ]
 ];

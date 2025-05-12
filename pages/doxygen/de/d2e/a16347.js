@@ -1,8 +1,8 @@
 var a16347 =
 [
-    [ "npc_toc_pet_hunterAI", "de/d2e/a16347.html#a751e37388df10abf4bf9df5d3f373fa3", null ],
-    [ "EnterEvadeMode", "de/d2e/a16347.html#a7f60ea2596fa4af2209333696dbe00e0", null ],
-    [ "myCanCast", "de/d2e/a16347.html#aefaa41a92000d8915853988ce3fd5bc4", null ],
-    [ "UpdateAI", "de/d2e/a16347.html#aec1d16cdcb7d86d7de4de10ca34f491d", null ],
-    [ "events", "de/d2e/a16347.html#ade038312363f976b34868ed2cbebb58d", null ]
+    [ "npc_toc_hunterAI", "de/d2e/a16347.html#a80f80231bfe5b71bf415da3202c2e6fb", null ],
+    [ "JustSummoned", "de/d2e/a16347.html#aa270248ad9e0c319234ff0741270b465", null ],
+    [ "myCanCast", "de/d2e/a16347.html#a4e599ae2ee4e892795889bd57dd29e27", null ],
+    [ "UpdateAI", "de/d2e/a16347.html#a81f384607ab7e8c4ed7385bdcddfd7a5", null ],
+    [ "events", "de/d2e/a16347.html#a0cf5ecd9d7b3c92e2da836983323f378", null ]
 ];

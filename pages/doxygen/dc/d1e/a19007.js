@@ -1,10 +1,15 @@
 var a19007 =
 [
-    [ "boss_razuvious_minionAI", "dc/d1e/a19007.html#a6f9fc7dad68f35846ee76d4bff564407", null ],
-    [ "DoAction", "dc/d1e/a19007.html#a93cfa3f706ffadd94ad4dbe0585eebf1", null ],
-    [ "JustEngagedWith", "dc/d1e/a19007.html#ada2e7a5ac1f129572a0689afce49d310", null ],
-    [ "KilledUnit", "dc/d1e/a19007.html#ab1a6f582098c9d1218551af0aae1815d", null ],
-    [ "Reset", "dc/d1e/a19007.html#a170de8517a03a0e78b1e67652869fd9a", null ],
-    [ "ScheduleAttackDummy", "dc/d1e/a19007.html#abed82c71605d7c57bf29cedc21fc6b24", null ],
-    [ "UpdateAI", "dc/d1e/a19007.html#ad56fca0ae00fba6e575baefd72c7a8d0", null ]
+    [ "boss_maexxnaAI", "dc/d1e/a19007.html#a3bf898911798eaa891ef7638a3a2cc20", null ],
+    [ "DoCastWebWrap", "dc/d1e/a19007.html#a5d78455f5ba6e30df6644897b4e6ad7e", null ],
+    [ "IsInRoom", "dc/d1e/a19007.html#a957bd38232c020611fc24dd8a6e55640", null ],
+    [ "JustDied", "dc/d1e/a19007.html#a4f0121aedeff9d44b28e888f5f3d0382", null ],
+    [ "JustEngagedWith", "dc/d1e/a19007.html#a9974fc771b3663878964aeb20914fe43", null ],
+    [ "JustSummoned", "dc/d1e/a19007.html#ab45b74b3067b42089fee804844ea41dd", null ],
+    [ "KilledUnit", "dc/d1e/a19007.html#a11cda2b905ef2381c317a01e4163be00", null ],
+    [ "Reset", "dc/d1e/a19007.html#a78385da6845ce8e3075616c24696d0cc", null ],
+    [ "UpdateAI", "dc/d1e/a19007.html#a6f0453babfa84764467970369894eb97", null ],
+    [ "events", "dc/d1e/a19007.html#a6ddb73eeb18560a08e72dd6ccc5d0c83", null ],
+    [ "summons", "dc/d1e/a19007.html#a7ea3de40dfd638db7e34c523a0461335", null ],
+    [ "wraps", "dc/d1e/a19007.html#a3bfe3ab90ff6f401c3f7b8655e3abc05", null ]
 ];

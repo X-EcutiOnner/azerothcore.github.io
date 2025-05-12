@@ -1,8 +1,7 @@
 var a15147 =
 [
-    [ "npc_injured_draeneiAI", "d5/d90/a15147.html#a6832ec8b005e75ff66b0fd04e5ff3daa", null ],
-    [ "JustEngagedWith", "d5/d90/a15147.html#adcc5750f0ab037a7ac38b9fa64b75a74", null ],
-    [ "MoveInLineOfSight", "d5/d90/a15147.html#a514556f4a81c6f1f8b7caaa526c08662", null ],
-    [ "Reset", "d5/d90/a15147.html#adcb601f739a91ce71926791885152471", null ],
-    [ "UpdateAI", "d5/d90/a15147.html#af4d723ac0a95f9dad12e82d5bc987f50", null ]
+    [ "npc_vekniss_stinger", "d5/d90/a15147.html#ad48098961715a924270cb8bbbe77e4b0", null ],
+    [ "JustEngagedWith", "d5/d90/a15147.html#ae7c758687c81cfb223066f0a9348eab8", null ],
+    [ "Reset", "d5/d90/a15147.html#a2a79f3775aad83410ff2670aa438e811", null ],
+    [ "UpdateAI", "d5/d90/a15147.html#a1ff479e8f45710f6aa36473933bb87e0", null ]
 ];

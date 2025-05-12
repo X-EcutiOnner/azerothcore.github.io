@@ -1,12 +1,10 @@
 var a09207 =
 [
-    [ "LogEntry", "d9/da8/a09207.html#af61604a7dc0cc4da315a09fa5b207f37", null ],
-    [ "LogEntry", "d9/da8/a09207.html#aba3f6f501c59e356166abe71082c421b", null ],
-    [ "~LogEntry", "d9/da8/a09207.html#a3c66b8a7be1800c5a9e1dc15aab6d3e9", null ],
-    [ "GetGUID", "d9/da8/a09207.html#a7af4eac577f8da07540f81e185b2ad49", null ],
-    [ "GetTimestamp", "d9/da8/a09207.html#a643c92439463707671bb08b72bf3a447", null ],
-    [ "SaveToDB", "d9/da8/a09207.html#a1c00aa88973423a1c112c2776a14e78f", null ],
-    [ "m_guid", "d9/da8/a09207.html#a75754f42f8a202a9a319c86515a3f0dd", null ],
-    [ "m_guildId", "d9/da8/a09207.html#a89e0192732a43dc44aff3730bc5ad445", null ],
-    [ "m_timestamp", "d9/da8/a09207.html#ad19e7364e1beba61c9b7a4383b6d42c6", null ]
+    [ "UnitSearcher", "d9/da8/a09207.html#a4c50b4594650d9f3f83a40ac02f1a954", null ],
+    [ "Visit", "d9/da8/a09207.html#a5e419d2cb0de5ae58373e521d3a84ac6", null ],
+    [ "Visit", "d9/da8/a09207.html#a4bf8a315ab9464bbc5b0c8cae5c27fed", null ],
+    [ "Visit", "d9/da8/a09207.html#ac65516ed337b509ff5c316fb29727854", null ],
+    [ "i_check", "d9/da8/a09207.html#a3618df5a6ae33e76b802eae9cac1e1bd", null ],
+    [ "i_object", "d9/da8/a09207.html#a3029760131a6f50883246afe2533c062", null ],
+    [ "i_phaseMask", "d9/da8/a09207.html#ab94911f3f275de6a9ce9f15f1169c81c", null ]
 ];

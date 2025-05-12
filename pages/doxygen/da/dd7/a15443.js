@@ -1,7 +1,10 @@
 var a15443 =
 [
-    [ "npc_steward_of_time", "da/dd7/a15443.html#ad49973464c96f44506033b73a85f6360", null ],
-    [ "OnGossipHello", "da/dd7/a15443.html#a3b61038393c3addbbfa6643438164db3", null ],
-    [ "OnGossipSelect", "da/dd7/a15443.html#af4fe13e266a98129b92e5a25188d947c", null ],
-    [ "OnQuestAccept", "da/dd7/a15443.html#a53d552282da49e8246089b2799fff9ca", null ]
+    [ "CreatureId", "da/dd7/a15443.html#a09f696e37f96e7da259fc026a7c4fd83", null ],
+    [ "DespTimer", "da/dd7/a15443.html#a0dfec745982b346ac1cd0af672be31fb", null ],
+    [ "SpawnCount", "da/dd7/a15443.html#ad5347ee83eaa00fe0721279099c48433", null ],
+    [ "SpawnTimer", "da/dd7/a15443.html#ab1720ffe0aeeb5669ab49fc32cb24750", null ],
+    [ "UsedSpawnPoint", "da/dd7/a15443.html#a7db57df5da62ebb3b52ecd70ec3d45f2", null ],
+    [ "WaveTextId", "da/dd7/a15443.html#a0a9807e31c2d5c769bc0a020941b234c", null ],
+    [ "YellTimer", "da/dd7/a15443.html#ac3f9997775f34babc79d4321fd1a6d6d", null ]
 ];

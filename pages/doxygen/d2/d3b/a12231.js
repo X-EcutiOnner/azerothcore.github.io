@@ -1,6 +1,9 @@
 var a12231 =
 [
-    [ "spell_gnomeregan_radiation_bolt_SpellScript", "dd/d0f/a12235.html", "dd/d0f/a12235" ],
-    [ "spell_gnomeregan_radiation_bolt", "d2/d3b/a12231.html#a572b64b0f8bed7c5393c59d4119e5c3f", null ],
-    [ "GetSpellScript", "d2/d3b/a12231.html#a1a3b4afde75e1299a33e95163147dde4", null ]
+    [ "FilterTargets", "d2/d3b/a12231.html#ae1029dd58a48c099e8bbd071898f1b12", null ],
+    [ "HandleOnHitRogue", "d2/d3b/a12231.html#a57cd6d2c45a9a73bb284272db21d1fce", null ],
+    [ "HandleOnHitWarlock", "d2/d3b/a12231.html#a76f9e5e11a6f2e25868dba567d798002", null ],
+    [ "PrepareSpellScript", "d2/d3b/a12231.html#a4792a25aa6fe6126a94900784798dbee", null ],
+    [ "Register", "d2/d3b/a12231.html#a0f6146c64a86e953c042f8404bbfe683", null ],
+    [ "Validate", "d2/d3b/a12231.html#af65d372cdbb365eff73edb8cf18734c8", null ]
 ];

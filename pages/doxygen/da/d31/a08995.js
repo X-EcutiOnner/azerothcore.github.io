@@ -1,8 +1,13 @@
 var a08995 =
 [
-    [ "AnyUnfriendlyUnitInObjectRangeCheck", "da/d31/a08995.html#a2d83b68a7991d3b3dc2355ecde1efa5d", null ],
-    [ "operator()", "da/d31/a08995.html#a5b02b45b937d6b2b0b141967c70f93d9", null ],
-    [ "i_funit", "da/d31/a08995.html#a55222acf6dbb538a213eb604f67f40ce", null ],
-    [ "i_obj", "da/d31/a08995.html#a5d7e5e8898bd092c1055739fae82f693", null ],
-    [ "i_range", "da/d31/a08995.html#aa1c728ceea2ddc2e88ea07132a3fe250", null ]
+    [ "QuestPOI", "da/d31/a08995.html#af4ce75549d1fff2042e98683119214a6", null ],
+    [ "QuestPOI", "da/d31/a08995.html#a4cf252fabc68cf11df5d44f192955a0b", null ],
+    [ "AreaId", "da/d31/a08995.html#ad81f08fa2bc5fd0ccd81d0efc42ce804", null ],
+    [ "FloorId", "da/d31/a08995.html#a1af6ed9fdb9ff429e18fb5d98a42ce45", null ],
+    [ "Id", "da/d31/a08995.html#aace0de15249c756ba3cbd5763cbb3f98", null ],
+    [ "MapId", "da/d31/a08995.html#a851f8e6e62373d2592173534754d757b", null ],
+    [ "ObjectiveIndex", "da/d31/a08995.html#ad80f65110beacd44e667008387e6bb70", null ],
+    [ "points", "da/d31/a08995.html#aeb505cb061a00ecaa2acc749e391f207", null ],
+    [ "Unk3", "da/d31/a08995.html#a1f1d8fa843c856b54ec1ca85b08d78e1", null ],
+    [ "Unk4", "da/d31/a08995.html#aa8089160bb8e93ea79df96b956050b70", null ]
 ];

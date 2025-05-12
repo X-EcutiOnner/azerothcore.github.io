@@ -1,6 +1,5 @@
 var a10227 =
 [
-    [ "SetSheathed", "d6/d1e/a10227.html#a0c6ff5057d2ee0c424c8539c0bf99857", null ],
-    [ "Read", "d6/d1e/a10227.html#ae2158689450e3a9207b6992ea5223106", null ],
-    [ "CurrentSheathState", "d6/d1e/a10227.html#a8363787ac7959f19234def2707ef0b32", null ]
+    [ "CommandScript", "d6/d1e/a10227.html#afb9ef0145bb5eedee7fd61609868ba20", null ],
+    [ "GetCommands", "d6/d1e/a10227.html#a97dc7d00b78e0030ba2a950d23b2ebd2", null ]
 ];

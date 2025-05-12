@@ -1,6 +1,12 @@
 var a13227 =
 [
-    [ "spell_uldaman_sub_boss_agro_keepers_SpellScript", "d6/d3d/a13231.html", "d6/d3d/a13231" ],
-    [ "spell_uldaman_sub_boss_agro_keepers", "dc/dc3/a13227.html#abf3c4ac5e131f66ee8c7dcafa6d78279", null ],
-    [ "GetSpellScript", "dc/dc3/a13227.html#a2db1d5f97da0387d1565809f8b090f2f", null ]
+    [ "boss_kalecgos", "dc/dc3/a13227.html#a9a3eaee76ada967445cc0ed3d5ed21d2", null ],
+    [ "CanAIAttack", "dc/dc3/a13227.html#aa810a7eae5a6b1102e2e96022eaf5085", null ],
+    [ "CheckInRoom", "dc/dc3/a13227.html#a99cf385b11044c364b23fa8fc7e755ee", null ],
+    [ "ClearPlayerAuras", "dc/dc3/a13227.html#a17ffb7ec1b591acb0e5c359cb73ed2f6", null ],
+    [ "DoAction", "dc/dc3/a13227.html#aaccfa519a7290eb56990e43de4beea97", null ],
+    [ "JustEngagedWith", "dc/dc3/a13227.html#ab4d440dd0b66002b840bc4b3d3a8f7ef", null ],
+    [ "KilledUnit", "dc/dc3/a13227.html#a9844d54a8334ae5d20689593cd8a5e1a", null ],
+    [ "Reset", "dc/dc3/a13227.html#ad30cbd6d6fe343b9eb44fb96b0779551", null ],
+    [ "_sathBanished", "dc/dc3/a13227.html#a595eb66eb6f820efa29fcc5d631fe159", null ]
 ];

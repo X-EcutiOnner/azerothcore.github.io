@@ -1,17 +1,19 @@
 var a09791 =
 [
-    [ "MoveSplineInitArgs", "d6/d8b/a09791.html#aa2b6c8940e7dc8bdd4ea6047a5ff1a68", null ],
-    [ "_checkPathBounds", "d6/d8b/a09791.html#a984db18cdbd061605a9d486b061dc7c0", null ],
-    [ "Validate", "d6/d8b/a09791.html#a17beca23a7a7eaa298debb5e9638daca", null ],
-    [ "facing", "d6/d8b/a09791.html#a8800fca5b50ab5123e92b28e921ec8b0", null ],
-    [ "flags", "d6/d8b/a09791.html#ac4271ed0434fc8e7f7a70e8869d81a0e", null ],
-    [ "HasVelocity", "d6/d8b/a09791.html#acad05815ff039fe1fea3d7cf56afb4f2", null ],
-    [ "initialOrientation", "d6/d8b/a09791.html#ab0b66cba791fc206be5b64310480cb88", null ],
-    [ "parabolic_amplitude", "d6/d8b/a09791.html#a133d1d0172fde0564a58a004cb354ed0", null ],
-    [ "path", "d6/d8b/a09791.html#a3857df1ab2d6dafef4a6d796e6593341", null ],
-    [ "path_Idx_offset", "d6/d8b/a09791.html#a6b6aaf43685649798db46d7b409d3e32", null ],
-    [ "splineId", "d6/d8b/a09791.html#ac8c84e828c23801a68524c9811f0336b", null ],
-    [ "time_perc", "d6/d8b/a09791.html#afe51d24d71b71e87015eeb4851418503", null ],
-    [ "TransformForTransport", "d6/d8b/a09791.html#ad9e8518e61b2f5f6ff8380518a6ad0cc", null ],
-    [ "velocity", "d6/d8b/a09791.html#af042454593bfd4dc888c1700af437933", null ]
+    [ "InstancedMaps", "d6/d8b/a09791.html#a2d08c599bf826c4c98aaa9109e3b7a57", null ],
+    [ "MapInstanced", "d6/d8b/a09791.html#af30e91e40c171ddbf7400f310283c43c", null ],
+    [ "~MapInstanced", "d6/d8b/a09791.html#aa27d6f90288f23d34117c7d68160e04c", null ],
+    [ "CannotEnter", "d6/d8b/a09791.html#a29f973e3e4bdfcfb0ea9bf6639b38108", null ],
+    [ "CreateBattleground", "d6/d8b/a09791.html#ad57ef8f1654b494b8c20f6af461653f4", null ],
+    [ "CreateInstance", "d6/d8b/a09791.html#a6d04039bbbde5717e50606d48c3ea954", null ],
+    [ "CreateInstanceForPlayer", "d6/d8b/a09791.html#a9151fb7f7438abddf7aa17d015c600ab", null ],
+    [ "DelayedUpdate", "d6/d8b/a09791.html#a8f58a4c872089f8fce60ddc31623611e", null ],
+    [ "DestroyInstance", "d6/d8b/a09791.html#aaff2d76ae18bb7416e0cc8c16e0375d7", null ],
+    [ "FindInstanceMap", "d6/d8b/a09791.html#a6ec8d0547ce589613f53a2c8d0f4a7fa", null ],
+    [ "GetInstancedMaps", "d6/d8b/a09791.html#aff2cc0a1f57f06ead9a3e999c1c7dba0", null ],
+    [ "InitVisibilityDistance", "d6/d8b/a09791.html#a29380bc11b3e33278338bcff32b3cbec", null ],
+    [ "UnloadAll", "d6/d8b/a09791.html#a7fb86dd2f4b60721aabf3923c461f1fc", null ],
+    [ "Update", "d6/d8b/a09791.html#a0fce5af3a96e35e9cbe44d73bac8b2df", null ],
+    [ "MapMgr", "d6/d8b/a09791.html#ae6ac74470769d45e3c75291134ab77df", null ],
+    [ "m_InstancedMaps", "d6/d8b/a09791.html#a655e624aad00ec0345aa17ce635666bf", null ]
 ];

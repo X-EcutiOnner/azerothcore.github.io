@@ -1,20 +1,14 @@
 var a12739 =
 [
-    [ "boss_darkmaster_gandlingAI", "d8/da1/a12739.html#a1fbd651c6f5ad3630ae450c6a523360c", null ],
-    [ "FindRoom", "d8/da1/a12739.html#a7ca1847b3223c82f7c190546809c49bc", null ],
-    [ "GetData", "d8/da1/a12739.html#a06e03e66d7a99a98ba915057c0082217", null ],
-    [ "JustDied", "d8/da1/a12739.html#afaac9e6939e0d873f576129546560fba", null ],
-    [ "JustEngagedWith", "d8/da1/a12739.html#aa71a73d3804187c6b89566ec3d1cd6ed", null ],
-    [ "JustSummoned", "d8/da1/a12739.html#a24e4031367eb59ad7a9ea352bd0b4ccd", null ],
-    [ "OpenAllGates", "d8/da1/a12739.html#ab28b7d97956c21515c9872d8f9122f18", null ],
-    [ "Reset", "d8/da1/a12739.html#a8244b7b91de9a0413193001f41288f7f", null ],
-    [ "SetData", "d8/da1/a12739.html#a1b7ed8e98d4a271dfd8df76738cc0072", null ],
-    [ "SetGate", "d8/da1/a12739.html#a32fbc731852f46fbdd36b36764dd2303", null ],
-    [ "SpawnMobsInRoom", "d8/da1/a12739.html#a68adf734efff345529dbb74bebe15798", null ],
-    [ "SpellHitTarget", "d8/da1/a12739.html#ae98715a31cd22febb1725977556a48aa", null ],
-    [ "SummonedCreatureDespawn", "d8/da1/a12739.html#aa0abb31ac1a05c4a99e4b8079410867a", null ],
-    [ "UpdateAI", "d8/da1/a12739.html#a2c525445ad39ddc47366f3f632014d89", null ],
-    [ "current_room", "d8/da1/a12739.html#a597f7ee62ee41ff6a1a12a6c9dd7cd93", null ],
-    [ "Guardians", "d8/da1/a12739.html#a3681da718192f0f961282fa4f655355e", null ],
-    [ "summons", "d8/da1/a12739.html#a745d411fc485892529cb4cc6f06ba3af", null ]
+    [ "boss_priestess_delrissa", "d8/da1/a12739.html#afcbf1aa400ec44b709fd194daab91d3d", null ],
+    [ "CheckInRoom", "d8/da1/a12739.html#afa963761e44412915a6d89f097f33b5d", null ],
+    [ "InitializeAI", "d8/da1/a12739.html#ae5105868d704b6ca91b27dcfbeaef3a9", null ],
+    [ "JustDied", "d8/da1/a12739.html#a82d8c198f38c2aa881386e739dea6a08", null ],
+    [ "JustEngagedWith", "d8/da1/a12739.html#a40c9852f9a1ea24b61edf0f7c00193a6", null ],
+    [ "JustSummoned", "d8/da1/a12739.html#ac0a2c4346c6222380d7bda9a274f78e0", null ],
+    [ "KilledUnit", "d8/da1/a12739.html#af0b41306f53c42745cce39069f446704", null ],
+    [ "Reset", "d8/da1/a12739.html#a60e39157aa3043284b2e1e032c0d9241", null ],
+    [ "SummonedCreatureDies", "d8/da1/a12739.html#a14757692ab4af5c1b5b311f059be9091", null ],
+    [ "HelpersKilled", "d8/da1/a12739.html#a26764cdd42721c9276ccecaa97fc9a6e", null ],
+    [ "PlayersKilled", "d8/da1/a12739.html#a9bde16a69ed9e950ce0dfb91805280cc", null ]
 ];

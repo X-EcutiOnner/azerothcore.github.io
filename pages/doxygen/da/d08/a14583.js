@@ -1,6 +1,6 @@
 var a14583 =
 [
-    [ "npc_crate_helperAI", "d3/d16/a14587.html", "d3/d16/a14587" ],
-    [ "npc_crate_helper", "da/d08/a14583.html#ae08751928234656dcda84dd5c7e4cc37", null ],
-    [ "GetAI", "da/d08/a14583.html#af69c9cf385ee829853985daa7f2aa8d6", null ]
+    [ "HandleHeal", "da/d08/a14583.html#a953536a9a393af9472bdd89018449df0", null ],
+    [ "PrepareSpellScript", "da/d08/a14583.html#a70503fc6042001a860d361f2597b7153", null ],
+    [ "Register", "da/d08/a14583.html#a383479896e6deb96e50b827370ccfd4d", null ]
 ];

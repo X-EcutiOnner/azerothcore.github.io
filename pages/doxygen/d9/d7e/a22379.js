@@ -1,6 +1,5 @@
 var a22379 =
 [
-    [ "npc_feedin_da_goolzAI", "dc/dad/a22383.html", "dc/dad/a22383" ],
-    [ "npc_feedin_da_goolz", "d9/d7e/a22379.html#ace9fd4ca5809c0d47b49fc63ca8363be", null ],
-    [ "GetAI", "d9/d7e/a22379.html#a61ab3189e2525a995a87eec06d45e355", null ]
+    [ "go_scourge_enclosure", "d9/d7e/a22379.html#a3611232cb735f336087d4d3c90f66b8d", null ],
+    [ "OnGossipHello", "d9/d7e/a22379.html#af505dd0a5d9224cd7586878d1fbd3351", null ]
 ];

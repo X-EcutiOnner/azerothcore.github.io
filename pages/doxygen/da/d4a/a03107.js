@@ -1,9 +1,9 @@
 var a03107 =
 [
-    [ "FlyByCameraCollection", "da/d4a/a03107.html#a058e5fb250bd785cecc9a6913132dfe4", null ],
-    [ "GetFlyByCameras", "da/d4a/a03107.html#af4a9ba9da1a2f4075cc36b95cce62f6f", null ],
-    [ "LoadM2Cameras", "da/d4a/a03107.html#a036ca5e535b8e25b87a67c20c2ad2d4c", null ],
-    [ "readCamera", "da/d4a/a03107.html#ad7c17022a3ffed42c9d4995f5f6bb7ac", null ],
-    [ "TranslateLocation", "da/d4a/a03107.html#a5274eb8fcc7646fe4fc3ea77ab6de2d9", null ],
-    [ "sFlyByCameraStore", "da/d4a/a03107.html#a4acfeb7e23e1d3a74b66a1c54084e7bc", null ]
+    [ "ePoints", "da/d4a/a03107.html#a2604bd06487e34b78d3e50cd892f3c4d", [
+      [ "POINT_LAST_POINT", "d8/db1/a03098.html#a2604bd06487e34b78d3e50cd892f3c4da7d10089a0c5a8c42786b90cd3ba643cb", null ],
+      [ "POINT_HOME", "d8/db1/a03098.html#a2604bd06487e34b78d3e50cd892f3c4da032be97ee26935943c3313fb24491162", null ],
+      [ "POINT_COMBAT_START", "da/d4a/a03107.html#a2604bd06487e34b78d3e50cd892f3c4da91adf90069f0b0a515897fbdc91e20b4", null ]
+    ] ],
+    [ "MAX_PLAYER_DISTANCE", "da/d4a/a03107.html#acd0b392fc88f24b24201fba8b76d33a2", null ]
 ];

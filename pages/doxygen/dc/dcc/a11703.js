@@ -1,6 +1,9 @@
 var a11703 =
 [
-    [ "boss_highlordomokkAI", "d7/d18/a11707.html", "d7/d18/a11707" ],
-    [ "boss_highlord_omokk", "dc/dcc/a11703.html#af5174587ed3cd1c46f604183a75de99e", null ],
-    [ "GetAI", "dc/dcc/a11703.html#afb8efb012791c6a2fc18975a1ec7f984", null ]
+    [ "send_commandscript", "dc/dcc/a11703.html#a3aa5d7cc0b5dcd4875e99dfd6f3dbdde", null ],
+    [ "GetCommands", "dc/dcc/a11703.html#a2dc60c8c414c9131b4cda1ff82f7beed", null ],
+    [ "HandleSendItemsCommand", "dc/dcc/a11703.html#a7ffcd07e0ad08be2eb8a1ebac0fec717", null ],
+    [ "HandleSendMailCommand", "dc/dcc/a11703.html#a5ad6f9387c6fb00bf536629c760ba374", null ],
+    [ "HandleSendMessageCommand", "dc/dcc/a11703.html#a91017e6171ac9e4dfff6c2036228de47", null ],
+    [ "HandleSendMoneyCommand", "dc/dcc/a11703.html#a26938bb54bb3cb678c49737a92cadb56", null ]
 ];

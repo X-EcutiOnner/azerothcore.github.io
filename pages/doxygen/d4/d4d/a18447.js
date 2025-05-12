@@ -1,6 +1,8 @@
 var a18447 =
 [
-    [ "npc_highlord_tirion_fordringAI", "d6/d95/a18451.html", "d6/d95/a18451" ],
-    [ "npc_highlord_tirion_fordring_lh", "d4/d4d/a18447.html#a96102a488330c54a3e3654c767e8e1a5", null ],
-    [ "GetAI", "d4/d4d/a18447.html#aea42394c04c1763cffe10eb5eba09854", null ]
+    [ "Load", "d4/d4d/a18447.html#a3a5fa4814a7724db0ba7be5c5158798b", null ],
+    [ "PeriodicTick", "d4/d4d/a18447.html#a4ff0ab22db0bbd4483ddb379de069c48", null ],
+    [ "PrepareAuraScript", "d4/d4d/a18447.html#a029820fbfc34af4d0ccb825a9f9d2b0d", null ],
+    [ "Register", "d4/d4d/a18447.html#a909819dde9d5154f3d2cf04b04fa33f7", null ],
+    [ "_instance", "d4/d4d/a18447.html#aebebb858f2ae41f2260d6843b3da8052", null ]
 ];

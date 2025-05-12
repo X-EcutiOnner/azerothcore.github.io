@@ -1,6 +1,6 @@
 var a20823 =
 [
-    [ "FilterTargets", "da/d58/a20823.html#adaeee235184ddc36e90e532091183056", null ],
-    [ "PrepareSpellScript", "da/d58/a20823.html#a599f604e872d3a5a4ed2b155caefdc9f", null ],
-    [ "Register", "da/d58/a20823.html#ab79041a2536878498744555475bce5c8", null ]
+    [ "boss_yoggsaron_voiceAI", "db/d1f/a20827.html", "db/d1f/a20827" ],
+    [ "boss_yoggsaron_voice", "da/d58/a20823.html#ae5d10416bb83e57c0e9d3ef5d6f5adc6", null ],
+    [ "GetAI", "da/d58/a20823.html#a50abcde0313df06a114a2f5f44a1d481", null ]
 ];

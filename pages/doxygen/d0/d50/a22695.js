@@ -1,6 +1,7 @@
 var a22695 =
 [
-    [ "npc_akama_illidanAI", "df/dc7/a22699.html", "df/dc7/a22699" ],
-    [ "npc_akama_illidan", "d0/d50/a22695.html#a85a312a767fb181f0bd626eb48e8e891", null ],
-    [ "GetAI", "d0/d50/a22695.html#a75648fc8291574b7bf16cd0c8e015384", null ]
+    [ "HandleOnEffectApply", "d0/d50/a22695.html#a01d6ca6f8ec21ad42445b5e581c0f79b", null ],
+    [ "HandleOnEffectRemove", "d0/d50/a22695.html#a59952b33d7c4705a6bfe7f3443bbf005", null ],
+    [ "PrepareAuraScript", "d0/d50/a22695.html#a45df29f911b1232e306e04a182648904", null ],
+    [ "Register", "d0/d50/a22695.html#a71fbf189fc116eb7d14944ff4060a9a9", null ]
 ];

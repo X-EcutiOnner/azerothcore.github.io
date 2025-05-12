@@ -1,6 +1,8 @@
 var a04939 =
 [
-    [ "Read", "d2/d77/a04939.html#a652bcf37d435efc3fb82f4d8cbf00e51", null ],
-    [ "groupsArray", "d2/d77/a04939.html#a79b2d93c2929aaddac1004aed4ecdd85", null ],
-    [ "RootWMOID", "d2/d77/a04939.html#a6b9058e7062c970438c79f08103c3c61", null ]
+    [ "AreaInfo", "d2/d77/a04939.html#a5cff768781236ef358e8864269d739e4", null ],
+    [ "adtId", "d2/d77/a04939.html#a6e13cfcbd4aa9c36fb80be7913640730", null ],
+    [ "groupId", "d2/d77/a04939.html#ae0e0518b31f3a16121bf3abd0770eb57", null ],
+    [ "mogpFlags", "d2/d77/a04939.html#ace485f0168c41ce50c78c782dd6301fd", null ],
+    [ "rootId", "d2/d77/a04939.html#a225d78ba13f20c147b92c6dfac1b37ad", null ]
 ];

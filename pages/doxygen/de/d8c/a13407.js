@@ -1,13 +1,8 @@
 var a13407 =
 [
-    [ "npc_lord_gregor_lescovarAI", "de/d8c/a13407.html#ab3ed8a9536fc6be948f280e319d4fec7", null ],
-    [ "DoGuardsDisappearAndDie", "de/d8c/a13407.html#a8588cae3dc8aa3dd46c55439d355df9b", null ],
-    [ "EnterEvadeMode", "de/d8c/a13407.html#a95e60614808191e4c1f909f5e38e4741", null ],
-    [ "JustEngagedWith", "de/d8c/a13407.html#ad0ca7d80d68b9623b99c644daa8f4c57", null ],
-    [ "Reset", "de/d8c/a13407.html#a06df695e9acd96b07f4e58c9461a708c", null ],
-    [ "UpdateAI", "de/d8c/a13407.html#ab8cc7d7d56550e66497116e5b4233a02", null ],
-    [ "WaypointReached", "de/d8c/a13407.html#ad91850dc72d0307e28b881717bfba6db", null ],
-    [ "MarzonGUID", "de/d8c/a13407.html#a68779dfa5643ffbf0065964d72ba5ddc", null ],
-    [ "uiPhase", "de/d8c/a13407.html#a3eaf47541cabaac9ce12f830d7d3ef41", null ],
-    [ "uiTimer", "de/d8c/a13407.html#a70e6be2f5c0f88664c6bbe3f29e1d184", null ]
+    [ "HandleEffectApply", "de/d8c/a13407.html#afd47748c7db2e0a5b7da2e18dc7b53ec", null ],
+    [ "HandleEffectRemove", "de/d8c/a13407.html#a87a0061366829cbc6f856cc1f7ea1105", null ],
+    [ "Load", "de/d8c/a13407.html#a2e3b53977f188ed28d9deedbcbc03e6b", null ],
+    [ "PrepareAuraScript", "de/d8c/a13407.html#a99b97b2ed12d73e417af0b970c2a9645", null ],
+    [ "Register", "de/d8c/a13407.html#a6a90296c9903ce65913f3bba29dea176", null ]
 ];

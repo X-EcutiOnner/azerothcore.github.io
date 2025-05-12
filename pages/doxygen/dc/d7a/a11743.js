@@ -1,11 +1,12 @@
 var a11743 =
 [
-    [ "npc_blackhand_incarceratorAI", "dc/d7a/a11743.html#adecfd5bcc6bf5fee0688459ebac03e18", null ],
-    [ "DamageTaken", "dc/d7a/a11743.html#a3bc090518cba2bc64fb5c454bbb47b72", null ],
-    [ "JustEngagedWith", "dc/d7a/a11743.html#a2026328f428c4e5c15551773255da21f", null ],
-    [ "Reset", "dc/d7a/a11743.html#a3a98f2d5fd764c852a1d9418315cd56b", null ],
-    [ "SetData", "dc/d7a/a11743.html#ae9d92237c6327abd78ada9a306ee8a09", null ],
-    [ "UpdateAI", "dc/d7a/a11743.html#a1bc6aa88d7bc5163e2cc4e2cc1779076", null ],
-    [ "_events", "dc/d7a/a11743.html#abcd817233c0cb85656856c4107d86793", null ],
-    [ "_fleedForAssistance", "dc/d7a/a11743.html#ab4e59b91b47dffc19db6b49ecd4c9fd8", null ]
+    [ "npc_av_marshal_or_warmasterAI", "dc/d7a/a11743.html#af3620678992778edbb859622e057893a", null ],
+    [ "AttackStart", "dc/d7a/a11743.html#aed39eaed8648ce78349c49ee33918b93", null ],
+    [ "EnterEvadeMode", "dc/d7a/a11743.html#a4ac6045b3f3dfd6e3f9e0ea757f4d2c6", null ],
+    [ "JustRespawned", "dc/d7a/a11743.html#a460c6912063587214ba0f2e01878d827", null ],
+    [ "Reset", "dc/d7a/a11743.html#a56d99bcf5038c372399f16a07a2e5d31", null ],
+    [ "UpdateAI", "dc/d7a/a11743.html#a7bf1631810c8446bc157f8ff220199b7", null ],
+    [ "_attacked", "dc/d7a/a11743.html#a56d7211a3565c19b499f7de2eda6c862", null ],
+    [ "_hasAura", "dc/d7a/a11743.html#a1c0049100cde1c62daf80779d1135156", null ],
+    [ "events", "dc/d7a/a11743.html#a49b8e01897cd5347bbd06cac254163f4", null ]
 ];

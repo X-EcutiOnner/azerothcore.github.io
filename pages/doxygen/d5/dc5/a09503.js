@@ -1,9 +1,12 @@
 var a09503 =
 [
-    [ "ZoneDynamicInfo", "d5/dc5/a09503.html#a0542940fdcc273a4ff8a8e8bb6a40b1f", null ],
-    [ "LightFadeInTime", "d5/dc5/a09503.html#a0be8cff9a7e74add7bba8af3be993e48", null ],
-    [ "MusicId", "d5/dc5/a09503.html#a3ab0244b34c30cc7d929b418da31d7d3", null ],
-    [ "OverrideLightId", "d5/dc5/a09503.html#a0d43acd5539d3449b7c36ee88518346e", null ],
-    [ "WeatherGrade", "d5/dc5/a09503.html#a923c3231c49554addd1522f0ccc50e2d", null ],
-    [ "WeatherId", "d5/dc5/a09503.html#a4df1e694992a3c2638460601e4c4d7c9", null ]
+    [ "LogEntry", "d5/dc5/a09503.html#af61604a7dc0cc4da315a09fa5b207f37", null ],
+    [ "LogEntry", "d5/dc5/a09503.html#aba3f6f501c59e356166abe71082c421b", null ],
+    [ "~LogEntry", "d5/dc5/a09503.html#a3c66b8a7be1800c5a9e1dc15aab6d3e9", null ],
+    [ "GetGUID", "d5/dc5/a09503.html#a7af4eac577f8da07540f81e185b2ad49", null ],
+    [ "GetTimestamp", "d5/dc5/a09503.html#a643c92439463707671bb08b72bf3a447", null ],
+    [ "SaveToDB", "d5/dc5/a09503.html#a1c00aa88973423a1c112c2776a14e78f", null ],
+    [ "m_guid", "d5/dc5/a09503.html#a75754f42f8a202a9a319c86515a3f0dd", null ],
+    [ "m_guildId", "d5/dc5/a09503.html#a89e0192732a43dc44aff3730bc5ad445", null ],
+    [ "m_timestamp", "d5/dc5/a09503.html#ad19e7364e1beba61c9b7a4383b6d42c6", null ]
 ];

@@ -1,6 +1,6 @@
 var a27039 =
 [
-    [ "boss_emerissAI", "db/de8/a27043.html", "db/de8/a27043" ],
-    [ "boss_emeriss", "d3/d4a/a27039.html#a2d373e5add3f007cf214ad9763039aa2", null ],
-    [ "GetAI", "d3/d4a/a27039.html#a88a0696a12f12e612cce53c14f6b1f92", null ]
+    [ "boss_ysondreAI", "db/de8/a27043.html", "db/de8/a27043" ],
+    [ "boss_ysondre", "d3/d4a/a27039.html#ad12dbb728f4f0cdf2f4c0ba9cd2a167d", null ],
+    [ "GetAI", "d3/d4a/a27039.html#a0da215d7bc8ee86216887e682b9335c3", null ]
 ];

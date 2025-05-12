@@ -1,6 +1,7 @@
 var a17279 =
 [
-    [ "boss_deathbringer_saurfangAI", "d6/d00/a17283.html", "d6/d00/a17283" ],
-    [ "boss_deathbringer_saurfang", "d2/dd7/a17279.html#ad19893be7dc3b4290d9b1ed3bb992e08", null ],
-    [ "GetAI", "d2/dd7/a17279.html#a6bc1ef44b3ea9e860d62bf78cfa38c92", null ]
+    [ "PeriodicTick", "d2/dd7/a17279.html#af2419a9f9c8706e6b9a090e88f1b6f78", null ],
+    [ "PrepareAuraScript", "d2/dd7/a17279.html#ac1abcbe62887678adad0194fdf27825a", null ],
+    [ "Register", "d2/dd7/a17279.html#a9c92c88bf261f1da2143e7dee41a77ec", null ],
+    [ "Validate", "d2/dd7/a17279.html#ae7526fcf963fe4ea3ab2f1ec7292e8d8", null ]
 ];

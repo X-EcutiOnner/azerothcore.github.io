@@ -1,7 +1,6 @@
 var a24663 =
 [
-    [ "HandleProc", "db/ddc/a24663.html#a2d38c32b4eb2ba91c657801b21a3b90d", null ],
-    [ "PrepareAuraScript", "db/ddc/a24663.html#ac5988a79ab42ec1bbcc9b69bb649fc29", null ],
-    [ "Register", "db/ddc/a24663.html#affd88326ea293f82055700ec7183d194", null ],
-    [ "Validate", "db/ddc/a24663.html#acc8797afece569e68c6d754ca09e206d", null ]
+    [ "PrepareAuraScript", "db/ddc/a24663.html#a31bde31b6db4f71ce65c6e1a862df771", null ],
+    [ "Register", "db/ddc/a24663.html#aebe64c4760d13d8afaebcf4a4b1196fa", null ],
+    [ "UpdateAmount", "db/ddc/a24663.html#a621e73a09438f3f9cbaa232125df3b87", null ]
 ];

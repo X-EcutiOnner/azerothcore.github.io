@@ -1,7 +1,9 @@
 var a09115 =
 [
-    [ "ObjectTypeIdCheck", "da/d28/a09115.html#a40af6d4d15e92aaaf2c9bb53ce9bb290", null ],
-    [ "operator()", "da/d28/a09115.html#a9cbd09a6021bef7819a0002952264293", null ],
-    [ "_equals", "da/d28/a09115.html#ab08a6e18731ccb822a71a1530f6966c3", null ],
-    [ "_typeId", "da/d28/a09115.html#a70e9a07e4c2c559bc55b8003db3af3be", null ]
+    [ "LiquidData", "da/d28/a09115.html#ac2435178323f480d2dae449b49b39146", null ],
+    [ "DepthLevel", "da/d28/a09115.html#ad84c7763a6253db7ae6117ecc7144f1d", null ],
+    [ "Entry", "da/d28/a09115.html#abfed22cb0e920067c0f86a0083ef4ab6", null ],
+    [ "Flags", "da/d28/a09115.html#aa0903ec4233bcfa34494cea5068cd19c", null ],
+    [ "Level", "da/d28/a09115.html#a7c596e921e383bbdbdacbcd4307fe380", null ],
+    [ "Status", "da/d28/a09115.html#acb79cdfb4221f158ce9b29127591a8a9", null ]
 ];

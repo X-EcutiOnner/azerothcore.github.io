@@ -1,8 +1,8 @@
 var a09003 =
 [
-    [ "NearestAttackableNoTotemUnitInObjectRangeCheck", "dc/dbe/a09003.html#a1f0bf90a7b9c57d05c54e3db6827aec1", null ],
-    [ "operator()", "dc/dbe/a09003.html#a08f8e473914c8a7bddbf26568294c18b", null ],
-    [ "i_obj", "dc/dbe/a09003.html#a949ff3bcc3530206d83512d293647a2b", null ],
-    [ "i_owner", "dc/dbe/a09003.html#a64f58427bbab3276bdc53450b33eca12", null ],
-    [ "i_range", "dc/dbe/a09003.html#af52388830cec17e32b1d368739b4555a", null ]
+    [ "DungeonEncounter", "dc/dbe/a09003.html#a3e48a996a47ddcc1b18aaac339457f3d", null ],
+    [ "creditEntry", "dc/dbe/a09003.html#a700a0792973678339f33ab85e7396918", null ],
+    [ "creditType", "dc/dbe/a09003.html#a66a077e193f099bb7aef363dc75672d6", null ],
+    [ "dbcEntry", "dc/dbe/a09003.html#a262bdd0ba443739456fc14bcad83ecda", null ],
+    [ "lastEncounterDungeon", "dc/dbe/a09003.html#a67e29b891887e339dbb40515d082e781", null ]
 ];

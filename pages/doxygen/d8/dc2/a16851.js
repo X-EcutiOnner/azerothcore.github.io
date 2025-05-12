@@ -1,6 +1,6 @@
 var a16851 =
 [
-    [ "boss_garfrostAI", "da/d70/a16855.html", "da/d70/a16855" ],
-    [ "boss_garfrost", "d8/dc2/a16851.html#ac116491cf252ee476cedee55ea292827", null ],
-    [ "GetAI", "d8/dc2/a16851.html#a8a67bb09249655a8706868bb26b5124d", null ]
+    [ "npc_hor_risen_witch_doctorAI", "da/d70/a16855.html", "da/d70/a16855" ],
+    [ "npc_hor_risen_witch_doctor", "d8/dc2/a16851.html#add06a10c9b4342b136b5cab49338b095", null ],
+    [ "GetAI", "d8/dc2/a16851.html#a055a8d29d8e6a58b92968ed1c39c1b1d", null ]
 ];

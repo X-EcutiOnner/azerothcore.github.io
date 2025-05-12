@@ -1,5 +1,6 @@
 var a11823 =
 [
-    [ "at_dragonspire_hall", "df/d92/a11823.html#a6adb22f328a7324b2ecf70204ab26a6d", null ],
-    [ "OnTrigger", "df/d92/a11823.html#a0433930ec050a9dbeb60e1b1122772e3", null ]
+    [ "boss_ambassador_flamelashAI", "df/d87/a11827.html", "df/d87/a11827" ],
+    [ "boss_ambassador_flamelash", "df/d92/a11823.html#a53d24a240e48033b0474970e8acac1f4", null ],
+    [ "GetAI", "df/d92/a11823.html#a332e347d803a58989445ec57d75361ab", null ]
 ];

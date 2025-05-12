@@ -1,6 +1,7 @@
 var a22687 =
 [
-    [ "boss_illidan_stormrageAI", "dd/d96/a22691.html", "dd/d96/a22691" ],
-    [ "boss_illidan_stormrage", "d5/df3/a22687.html#ad123b0fe64c2f430c157024aa4087290", null ],
-    [ "GetAI", "d5/df3/a22687.html#ad413d6d6c0171643b1c14b9a39422976", null ]
+    [ "OnPeriodic", "d5/df3/a22687.html#aa5d2f7530277a6a4d4a85ec5d244b9bc", null ],
+    [ "PrepareAuraScript", "d5/df3/a22687.html#a973ccf17f6499bc84306a18b07fcef7b", null ],
+    [ "Register", "d5/df3/a22687.html#a07b3b1df6626a9fb657270eb1d9f386a", null ],
+    [ "Validate", "d5/df3/a22687.html#a006d67e9e82cce68930b90b00d3555a4", null ]
 ];

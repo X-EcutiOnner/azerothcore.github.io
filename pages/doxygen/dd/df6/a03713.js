@@ -1,9 +1,5 @@
 var a03713 =
 [
-    [ "DynamicObject", "d0/deb/a08112.html", "d0/deb/a08112" ],
-    [ "DynamicObjectType", "dd/df6/a03713.html#aee85c2f840289bcf773609333ee91131", [
-      [ "DYNAMIC_OBJECT_PORTAL", "dd/df6/a03713.html#aee85c2f840289bcf773609333ee91131a241a99bd67606cb106b003bab51e3a5b", null ],
-      [ "DYNAMIC_OBJECT_AREA_SPELL", "dd/df6/a03713.html#aee85c2f840289bcf773609333ee91131a7fb219efa9ce6ad8dc94e20c1feff546", null ],
-      [ "DYNAMIC_OBJECT_FARSIGHT_FOCUS", "dd/df6/a03713.html#aee85c2f840289bcf773609333ee91131a59fbc7f63f5d2715fbc29110f393168d", null ]
-    ] ]
+    [ "GuildMgr", "d4/d2d/a09539.html", "d4/d2d/a09539" ],
+    [ "sGuildMgr", "dd/df6/a03713.html#aef171903a38e30c347ff11360f682f81", null ]
 ];

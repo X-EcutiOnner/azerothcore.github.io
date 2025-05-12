@@ -1,6 +1,6 @@
 var a12159 =
 [
-    [ "boss_sulfuronAI", "d0/d4e/a12159.html#a63c76fb94131830924e2bf77477261ba", null ],
-    [ "ExecuteEvent", "d0/d4e/a12159.html#ae038aa8140f5b4128c39c592966321f1", null ],
-    [ "JustEngagedWith", "d0/d4e/a12159.html#a35394690b8d25529c91c147025f6ad92", null ]
+    [ "boss_chromaggusAI", "d0/d9c/a12163.html", "d0/d9c/a12163" ],
+    [ "boss_chromaggus", "d0/d4e/a12159.html#a55847fc0d5430d3f22074b53d7caca4b", null ],
+    [ "GetAI", "d0/d4e/a12159.html#ace78172cafb122ce5961ed837201c32b", null ]
 ];

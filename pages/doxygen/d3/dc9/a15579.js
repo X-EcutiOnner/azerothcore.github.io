@@ -1,6 +1,7 @@
 var a15579 =
 [
-    [ "HandleSummon", "d3/dc9/a15579.html#a730e0c865f8c0c12544be951a48fe9ff", null ],
-    [ "PrepareSpellScript", "d3/dc9/a15579.html#a31271cd4668d3cbc4f4bdbeb693fe141", null ],
-    [ "Register", "d3/dc9/a15579.html#ae388ee1b08891f021ab1308ec7ffebaa", null ]
+    [ "npc_paoka_swiftmountainAI", "d3/dc9/a15579.html#a92a229f76de3bc46ae14910439db0004", null ],
+    [ "DoSpawnWyvern", "d3/dc9/a15579.html#a7997a3d398db82c205e3a8af77ac1684", null ],
+    [ "Reset", "d3/dc9/a15579.html#acae0427957aba04a54e6001823bc7eb4", null ],
+    [ "WaypointReached", "d3/dc9/a15579.html#a262781c90fe1b5a5af2c6f94e4cc52e2", null ]
 ];

@@ -1,6 +1,6 @@
 var a15447 =
 [
-    [ "npc_stone_watcher_of_norgannon", "d5/d17/a15447.html#aa838e060c8ef6d7d85981c718328d9ef", null ],
-    [ "OnGossipHello", "d5/d17/a15447.html#a00f526b1b17b68f31a86e892e0997856", null ],
-    [ "OnGossipSelect", "d5/d17/a15447.html#a5b79ebae097266ec4e1a0e3dfaa87da5", null ]
+    [ "SpellId", "d5/d17/a15447.html#a2c430be201c1fd866ee96224f1803a20", null ],
+    [ "Timer1", "d5/d17/a15447.html#a9a35c148286e88f48b174be8b74fc5d0", null ],
+    [ "Timer2", "d5/d17/a15447.html#a108dee679b1f5d9fb8351f7b4b4f3a56", null ]
 ];

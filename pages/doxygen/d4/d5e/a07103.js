@@ -1,9 +1,7 @@
 var a07103 =
 [
-    [ "CapturePointInfo", "d4/d5e/a07103.html#a47ba3bbadd15909726e87dc5adc67686", null ],
-    [ "_captured", "d4/d5e/a07103.html#aac26833d9951853183095b3985254e03", null ],
-    [ "_iconCapture", "d4/d5e/a07103.html#a58adc22a7246dd7362efcf9d9a1891ad", null ],
-    [ "_iconNone", "d4/d5e/a07103.html#a43228afe59b8fa004d2c740dd6262f8e", null ],
-    [ "_ownerTeamId", "d4/d5e/a07103.html#aad378d1b07f1ef8c45b0bb1bcce7a028", null ],
-    [ "_state", "d4/d5e/a07103.html#a98cb154218423e295b8007c62222831c", null ]
+    [ "AuctionSorter", "d4/d5e/a07103.html#a233a8eff7fbd76ecf5bd6e4469c6ba0b", null ],
+    [ "operator()", "d4/d5e/a07103.html#a7e8ef0ab50f9bfd1f84bf88647b26ea7", null ],
+    [ "_loc_idx", "d4/d5e/a07103.html#a11708aa660757db95c88d9dc7e9b9521", null ],
+    [ "_sort", "d4/d5e/a07103.html#a9c777b91d8b80940daee0b32c4f11c37", null ]
 ];

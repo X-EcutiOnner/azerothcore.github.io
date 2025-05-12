@@ -1,6 +1,7 @@
 var a17919 =
 [
-    [ "CheckProc", "db/dcf/a17919.html#ad701d353f03eb5a1ccca28a6530555db", null ],
-    [ "PrepareAuraScript", "db/dcf/a17919.html#a51794aa0a42180d9a0f4e9f6d5febca4", null ],
-    [ "Register", "db/dcf/a17919.html#a4f787e29064c15f4dad9047ff618982a", null ]
+    [ "FrostwyrmLandEvent", "db/dcf/a17919.html#a6b6a467c474a5b03be40e4d9a86eddc8", null ],
+    [ "Execute", "db/dcf/a17919.html#a4da77796a223e6233ac6d908f7700623", null ],
+    [ "_dest", "db/dcf/a17919.html#a7f5b4c41c459b65e30dea66f7459a7e9", null ],
+    [ "_owner", "db/dcf/a17919.html#a6336050092606ebb27a180abff55dfa2", null ]
 ];

@@ -1,8 +1,11 @@
 var a10503 =
 [
-    [ "CrossedInebriationThreshold", "d2/d23/a10503.html#a8983b7b88a76955d9a0e2241ffb1e472", null ],
-    [ "Write", "d2/d23/a10503.html#a127dcfcc7e960d24e56d1b17bf9be992", null ],
-    [ "Guid", "d2/d23/a10503.html#a422afb45b6c5e9c4fef58fb1801bd0ad", null ],
-    [ "ItemID", "d2/d23/a10503.html#a9e48a650bf21872099cdb0626e875fd7", null ],
-    [ "Threshold", "d2/d23/a10503.html#a87b756b64cbfb8f292f46cce38308095", null ]
+    [ "BackgroundColor", "d2/d23/a10503.html#abab86dd497de86088873178bf1d54b5b", null ],
+    [ "BorderColor", "d2/d23/a10503.html#abb2489b9be8a0d4a20d209d6293d7d46", null ],
+    [ "BorderStyle", "d2/d23/a10503.html#acd5105c31e0f56e680f3384e86186872", null ],
+    [ "EmblemColor", "d2/d23/a10503.html#a2e8a4768292d3566bb61009056a8a230", null ],
+    [ "EmblemStyle", "d2/d23/a10503.html#aa6309467f9f09725a8698de864b4e63c", null ],
+    [ "GuildName", "d2/d23/a10503.html#a74d4e1690c07a647c97ca2225e8488dd", null ],
+    [ "RankCount", "d2/d23/a10503.html#acddb77850a86348df197afc724c4eaa0", null ],
+    [ "Ranks", "d2/d23/a10503.html#aec9fd9a1a3bfa040375193027b32cf24", null ]
 ];

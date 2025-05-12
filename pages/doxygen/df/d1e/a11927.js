@@ -1,6 +1,6 @@
 var a11927 =
 [
-    [ "boss_victor_nefariusAI", "d8/da5/a11931.html", "d8/da5/a11931" ],
-    [ "boss_victor_nefarius", "df/d1e/a11927.html#a85c529c49a0373a553bc59818fb18f49", null ],
-    [ "GetAI", "df/d1e/a11927.html#a6ea19bde6980cbb4ca627d17cf57ae24", null ]
+    [ "boss_okthorAI", "d8/da5/a11931.html", "d8/da5/a11931" ],
+    [ "boss_okthor", "df/d1e/a11927.html#a9e75c1da85a6db6692dfabfbb3ee3e87", null ],
+    [ "GetAI", "df/d1e/a11927.html#a15d13a6c879ae260c0676fd4a4aff645", null ]
 ];

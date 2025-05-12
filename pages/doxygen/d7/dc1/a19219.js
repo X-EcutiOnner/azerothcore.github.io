@@ -1,6 +1,5 @@
 var a19219 =
 [
-    [ "boss_ormorokAI", "d6/de7/a19223.html", "d6/de7/a19223" ],
-    [ "boss_ormorok", "d7/dc1/a19219.html#a0999bd2d1bcd5b27c6cba6293b48e7b3", null ],
-    [ "GetAI", "d7/dc1/a19219.html#a1e3c4a03a2d44d085010da8f1621e2fb", null ]
+    [ "achievement_chaos_theory", "d7/dc1/a19219.html#a3068009fa1fb400439a2c72f00296484", null ],
+    [ "OnCheck", "d7/dc1/a19219.html#a68d9a577cb7e005d81f52077707e3555", null ]
 ];

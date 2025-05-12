@@ -1,5 +1,6 @@
 var a15399 =
 [
-    [ "go_crystalline_tear", "dd/dde/a15399.html#a9e19c6538ecd1a758f2639171321d965", null ],
-    [ "OnQuestAccept", "dd/dde/a15399.html#a4efd6b2b8ca37462ba3a26d05f01ec2d", null ]
+    [ "npc_clintar_spiritAI", "d6/da0/a15403.html", "d6/da0/a15403" ],
+    [ "npc_clintar_spirit", "dd/dde/a15399.html#a416f5eea882f2c13c4c0f7dd81d36a2b", null ],
+    [ "GetAI", "dd/dde/a15399.html#a118198504f6f93c86302275a11582d60", null ]
 ];

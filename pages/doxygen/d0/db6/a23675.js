@@ -1,7 +1,7 @@
 var a23675 =
 [
-    [ "AfterApply", "d0/db6/a23675.html#a0ba88b8ed8cfd0afa1de500a7a8d74b5", null ],
-    [ "PrepareAuraScript", "d0/db6/a23675.html#aa98346e5f5b23fe016148426a19a719f", null ],
-    [ "Register", "d0/db6/a23675.html#ac0edcddf6c38b933c868dbe0535f143a", null ],
-    [ "Validate", "d0/db6/a23675.html#a616d1758aa257140f4941fe12ef21e87", null ]
+    [ "boss_warp_splinter", "d0/db6/a23675.html#a1d0e8720baaadd1f6f4f6026597c9f63", null ],
+    [ "JustDied", "d0/db6/a23675.html#a7e7850cf545e57f9fcd8d1aff42f8eb3", null ],
+    [ "JustEngagedWith", "d0/db6/a23675.html#afc05b2f366e518d5e9ea3fbbfcba05cc", null ],
+    [ "KilledUnit", "d0/db6/a23675.html#a0e974eb2bfae50383040fe9c7ccf74c1", null ]
 ];

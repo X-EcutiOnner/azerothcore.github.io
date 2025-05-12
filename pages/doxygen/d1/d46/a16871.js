@@ -1,6 +1,5 @@
 var a16871 =
 [
-    [ "boss_krickAI", "d5/d9f/a16875.html", "d5/d9f/a16875" ],
-    [ "boss_krick", "d1/d46/a16871.html#a8921ff79c0af7db7f7910634239bcd0c", null ],
-    [ "GetAI", "d1/d46/a16871.html#a9aa994da7c667b20c00b1bd1e994fed1", null ]
+    [ "at_hor_battered_hilt_start", "d1/d46/a16871.html#a1b9e6d892525cf28d71757f7861e1d1a", null ],
+    [ "OnTrigger", "d1/d46/a16871.html#a5d2d0a05b17dafe7ebb5447cfd168f69", null ]
 ];

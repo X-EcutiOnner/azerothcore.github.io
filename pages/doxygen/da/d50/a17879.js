@@ -1,7 +1,10 @@
 var a17879 =
 [
-    [ "FrostBombExplosion", "da/d50/a17879.html#ac7d318e241e6442e8aa084b27ea50236", null ],
-    [ "Execute", "da/d50/a17879.html#a0b6521266f18b621260286c530ff3f36", null ],
-    [ "_owner", "da/d50/a17879.html#aa9ff39ce43c351e8815f895896fa759b", null ],
-    [ "_sindragosaGUID", "da/d50/a17879.html#a5afc3d543c8fa457c90735f841aa161c", null ]
+    [ "FilterTargets", "da/d50/a17879.html#aefba5226671b6217549bd34059519179", null ],
+    [ "Load", "da/d50/a17879.html#af8a2b651782783dc29ac7266ed02c028", null ],
+    [ "NotifyTargets", "da/d50/a17879.html#a618e98fbd5c6ae21047cc4f911099730", null ],
+    [ "PrepareSpellScript", "da/d50/a17879.html#a0cd63fa27a1ee853c5d73c766d1c4de6", null ],
+    [ "Register", "da/d50/a17879.html#ae72a470c87f7d90e4bd635e239d09f9b", null ],
+    [ "ReplaceTargets", "da/d50/a17879.html#a5d3df9715d04ea4b663b061c7c02ae03", null ],
+    [ "_target", "da/d50/a17879.html#a10c85fd3909e56f457d73add8021c0b7", null ]
 ];

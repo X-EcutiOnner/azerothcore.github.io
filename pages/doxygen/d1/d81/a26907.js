@@ -1,5 +1,6 @@
 var a26907 =
 [
-    [ "achievement_bg_ic_mowed_down", "d1/d81/a26907.html#ab05387d1e14958e87123bd0fc2188445", null ],
-    [ "OnCheck", "d1/d81/a26907.html#a385e09c605084900f374090e5e19c24f", null ]
+    [ "HandleOnHit", "d1/d81/a26907.html#a32a6f464057fbfb3bbffe0e10d1d4141", null ],
+    [ "PrepareSpellScript", "d1/d81/a26907.html#adfa4da76e8c2486fbcc2b3bea0f50005", null ],
+    [ "Register", "d1/d81/a26907.html#a1742dc0c039f7f981cae8114ff9ae59a", null ]
 ];

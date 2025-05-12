@@ -1,9 +1,8 @@
 var a08543 =
 [
-    [ "TransportBase", "d8/dc0/a08543.html#a6dba8e37217dae4e5da8f52780e63f70", null ],
-    [ "~TransportBase", "d8/dc0/a08543.html#a81dca3435a1a1666a90acd8e154e3287", null ],
-    [ "CalculatePassengerOffset", "d8/dc0/a08543.html#ae8c9eb64027f8e7c781f0af192e3f6c1", null ],
-    [ "CalculatePassengerOffset", "d8/dc0/a08543.html#aa4d00f15dc0e6c53b4a175b0ca53021b", null ],
-    [ "CalculatePassengerPosition", "d8/dc0/a08543.html#a7cb7586a6935ca4e08aa3e658982abec", null ],
-    [ "CalculatePassengerPosition", "d8/dc0/a08543.html#a328fbc464c56eca89138380182a0108c", null ]
+    [ "EnchantDuration", "d8/dc0/a08543.html#a1ce5f81deaa60494c247673c113632d8", null ],
+    [ "EnchantDuration", "d8/dc0/a08543.html#a52448f2bb8b788193a69fe9a2d8729f3", null ],
+    [ "item", "d8/dc0/a08543.html#ae803f6a9ce9cdb0dbb133bc85b6613ab", null ],
+    [ "leftduration", "d8/dc0/a08543.html#a3f4edafbc9b09cb5ab660bc68af435f3", null ],
+    [ "slot", "d8/dc0/a08543.html#a3de1a8d64aea4c5c1f984a74c6bb017d", null ]
 ];

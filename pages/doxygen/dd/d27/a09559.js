@@ -1,12 +1,9 @@
 var a09559 =
 [
-    [ "TransportTemplate", "dd/d27/a09559.html#aef4781a37808827e3ceaffc782c3af1e", null ],
-    [ "~TransportTemplate", "dd/d27/a09559.html#afc385d824c171d13a184bc0a16121110", null ],
-    [ "accelDist", "dd/d27/a09559.html#a558f3611434dbe13239834fa2f2ec6b4", null ],
-    [ "accelTime", "dd/d27/a09559.html#aea9903b7c5643061dc9f401e78d3dfd3", null ],
-    [ "entry", "dd/d27/a09559.html#a7b6837ef812eadb353c00cfeb2426e99", null ],
-    [ "inInstance", "dd/d27/a09559.html#a971c84762c229b01cab656945f0c16de", null ],
-    [ "keyFrames", "dd/d27/a09559.html#ac714531f226ca06c3586cf3f6cc06808", null ],
-    [ "mapsUsed", "dd/d27/a09559.html#a93899b0648871ed8ca32dfe8394347c1", null ],
-    [ "pathTime", "dd/d27/a09559.html#a9d6a612652af64e8b4dd5cbb81ed0d71", null ]
+    [ "BroadcastTextID", "dd/d27/a09559.html#a756f24dbee852a7fbe152c0cb082c412", null ],
+    [ "Emotes", "dd/d27/a09559.html#a0f67a651fdb3f3217279015c9e3fb292", null ],
+    [ "Language", "dd/d27/a09559.html#a33bc5a0c156918b00380710aeb275d3d", null ],
+    [ "Probability", "dd/d27/a09559.html#a5c743df7a7ad634c5b3f3376547fda00", null ],
+    [ "Text_0", "dd/d27/a09559.html#a046d637b91807db067c6e7050184322d", null ],
+    [ "Text_1", "dd/d27/a09559.html#a8d64d7b8fcdbd995cc11e22adde8c0de", null ]
 ];

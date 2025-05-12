@@ -1,6 +1,9 @@
 var a18347 =
 [
-    [ "npc_valithria_portalAI", "d8/d2a/a18351.html", "d8/d2a/a18351" ],
-    [ "npc_valithria_portal", "d1/db0/a18347.html#a6014d7a57dfe5d21f63c03b3efcbdfc8", null ],
-    [ "GetAI", "d1/db0/a18347.html#a9770ad0bc3732f2271876bbc84885dc0", null ]
+    [ "DelayedCastEvent", "d1/db0/a18347.html#ae6d57612065d56ce79197aedebedf9f9", null ],
+    [ "Execute", "d1/db0/a18347.html#ae2925429b3049e44d2afd2e8b990af71", null ],
+    [ "_despawnTime", "d1/db0/a18347.html#acc9e22eb1908e4c458199fc4cccd56c6", null ],
+    [ "_originalCaster", "d1/db0/a18347.html#adb07c24a947d59d2ef1f61b8ab18d328", null ],
+    [ "_spellId", "d1/db0/a18347.html#abe28a6749101233302634ed226a289e8", null ],
+    [ "_trigger", "d1/db0/a18347.html#a85471a151a3165cc906f3a41103c3f5d", null ]
 ];

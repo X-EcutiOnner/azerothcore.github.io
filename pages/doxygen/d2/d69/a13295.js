@@ -1,6 +1,7 @@
 var a13295 =
 [
-    [ "npc_augustus_the_touched", "d2/d69/a13295.html#abc84c884345f44cf780410569cdee10c", null ],
-    [ "OnGossipHello", "d2/d69/a13295.html#a81e0d4f2aaa685cd5231ea430c86e7b4", null ],
-    [ "OnGossipSelect", "d2/d69/a13295.html#a992da9b22693c1fac1148b4ba545b819", null ]
+    [ "HandleSchoolDamage", "d2/d69/a13295.html#a4fee3e37f347d1dcfa84c1dc0454c9fa", null ],
+    [ "PrepareSpellScript", "d2/d69/a13295.html#a8063f3d669e07dc0768607feb9a2f763", null ],
+    [ "Register", "d2/d69/a13295.html#a83aad24c7111d1f68196fcb9765dcd97", null ],
+    [ "Validate", "d2/d69/a13295.html#af90ae09274b0082bd8bd674ca43596f6", null ]
 ];

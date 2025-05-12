@@ -1,6 +1,6 @@
 var a21939 =
 [
-    [ "HandleOnEffectRemove", "d3/d6b/a21939.html#a5aeae7d8fc2fb8c8a1ce446ba1887c51", null ],
-    [ "PrepareAuraScript", "d3/d6b/a21939.html#af415e4d7ea0b4b881af94eb7ea0c3f4c", null ],
-    [ "Register", "d3/d6b/a21939.html#a242faa8822f9cdb7762d8ec3b6245b30", null ]
+    [ "npc_razael_and_lyana", "d3/d6b/a21939.html#aec7257a1136a3580e2b4542e032429d6", null ],
+    [ "OnGossipHello", "d3/d6b/a21939.html#a9c9085db92853d5275c12e804a68b0fc", null ],
+    [ "OnGossipSelect", "d3/d6b/a21939.html#a407d8344280e8e38efb3991fda1d52cd", null ]
 ];

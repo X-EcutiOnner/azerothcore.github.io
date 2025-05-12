@@ -1,7 +1,6 @@
 var a08987 =
 [
-    [ "FriendlyCCedInRange", "dd/df9/a08987.html#ae8dcff3f285f208b0db8aa3efed202a1", null ],
-    [ "operator()", "dd/df9/a08987.html#a0e241f930cee855664aeac3604d5c023", null ],
-    [ "i_obj", "dd/df9/a08987.html#a73d3e29bbdc7fd4aa162be3cb7ecbe08", null ],
-    [ "i_range", "dd/df9/a08987.html#a49e79f3aea0c7e8c321c9f297b71a9b2", null ]
+    [ "Conditions", "dd/df9/a08987.html#a93edc2f0d71164b683c844b713befa85", null ],
+    [ "MenuID", "dd/df9/a08987.html#a732aa82f621c312745ddbd6fe2e3e906", null ],
+    [ "TextID", "dd/df9/a08987.html#a6ec8df5fcc5126bdee656ca08c0a5edc", null ]
 ];

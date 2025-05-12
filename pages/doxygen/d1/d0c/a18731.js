@@ -1,5 +1,6 @@
 var a18731 =
 [
-    [ "at_icc_spire_frostwyrm", "d1/d0c/a18731.html#ac3da2c0bc3e8b1c31832fcbb4e8ceae8", null ],
-    [ "_OnTrigger", "d1/d0c/a18731.html#a67e320fb8ada7cb2c87f5944395fa174", null ]
+    [ "npc_icc_vengeful_fleshreaperAI", "d0/d62/a18735.html", "d0/d62/a18735" ],
+    [ "npc_icc_vengeful_fleshreaper", "d1/d0c/a18731.html#aa95ec1e021f3d123e5a95c356765ac36", null ],
+    [ "GetAI", "d1/d0c/a18731.html#abf1903616dbf52718313c8b404b504a5", null ]
 ];

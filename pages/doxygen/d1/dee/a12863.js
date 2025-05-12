@@ -1,6 +1,6 @@
 var a12863 =
 [
-    [ "spell_shadowfang_keep_forsaken_skills_AuraScript", "d6/dbe/a12867.html", "d6/dbe/a12867" ],
-    [ "spell_shadowfang_keep_forsaken_skills", "d1/dee/a12863.html#a546f43f401a1db068d50904943fe3bd5", null ],
-    [ "GetAuraScript", "d1/dee/a12863.html#aa17c4342a7dbd9df903dc53cb11a36aa", null ]
+    [ "npc_scarlet_miner_cartAI", "d6/dbe/a12867.html", "d6/dbe/a12867" ],
+    [ "npc_scarlet_miner_cart", "d1/dee/a12863.html#a987247939c6fd576d4b8d541175ecb6b", null ],
+    [ "GetAI", "d1/dee/a12863.html#a0f1436f0f6784af5ab62bf91df355731", null ]
 ];

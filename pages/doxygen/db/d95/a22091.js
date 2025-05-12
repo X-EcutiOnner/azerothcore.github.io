@@ -1,6 +1,6 @@
 var a22091 =
 [
-    [ "npc_frostbrood_skytalonAI", "dd/d62/a22095.html", "dd/d62/a22095" ],
-    [ "npc_frostbrood_skytalon", "db/d95/a22091.html#a1bc95edf0e624709e3836bdcfb0c503c", null ],
-    [ "GetAI", "db/d95/a22091.html#af5b1c3e52076fb84b83e785762ff6b6d", null ]
+    [ "npc_vekjik", "db/d95/a22091.html#a7439c6038237b77ba8623ae92d6cf708", null ],
+    [ "OnGossipHello", "db/d95/a22091.html#acdbba5b4970049e72477eccf6672b0e8", null ],
+    [ "OnGossipSelect", "db/d95/a22091.html#a0bcdcb6cd57264e664c449e261d3580b", null ]
 ];

@@ -1,6 +1,6 @@
 var a16563 =
 [
-    [ "OnPeriodic", "d0/def/a16563.html#ab71faf6fb2900e176aac245317113758", null ],
-    [ "PrepareAuraScript", "d0/def/a16563.html#a5b4bf1fe2987cdebedaa2e7d048742d6", null ],
-    [ "Register", "d0/def/a16563.html#a8b90810bfc5416cdfeac2f6a72c55d3e", null ]
+    [ "HandleDummy", "d0/def/a16563.html#a84fb6e08a523f375cd8bc43e9cc73eab", null ],
+    [ "PrepareSpellScript", "d0/def/a16563.html#accbf8f40b1ab123a2be81a514c94c836", null ],
+    [ "Register", "d0/def/a16563.html#a1805904d5e50bbf5aeccf37d2cadd09e", null ]
 ];

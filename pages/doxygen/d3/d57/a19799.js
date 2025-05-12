@@ -1,6 +1,6 @@
 var a19799 =
 [
-    [ "npc_mimirons_infernoAI", "da/d9a/a19803.html", "da/d9a/a19803" ],
-    [ "npc_mimirons_inferno", "d3/d57/a19799.html#a7a531a65a179b5d56c888c055b72d269", null ],
-    [ "GetAI", "d3/d57/a19799.html#a69294c5e8f50727e5f1a6586a8a3682b", null ]
+    [ "npc_hodirs_furyAI", "da/d9a/a19803.html", "da/d9a/a19803" ],
+    [ "npc_hodirs_fury", "d3/d57/a19799.html#af5e0f1cb4c478bd4fc9ec246aa7d7e08", null ],
+    [ "GetAI", "d3/d57/a19799.html#ad8856a6da86a8f4ce744d57614ee16e6", null ]
 ];

@@ -1,8 +1,16 @@
 var a23607 =
 [
-    [ "npc_warchief_portal", "da/d1a/a23607.html#a1a52395a5ae66f5cc5f92c6d4ce81893", null ],
-    [ "JustSummoned", "da/d1a/a23607.html#ad90c834dc059040f3922f58dc3bcf4a2", null ],
-    [ "SetData", "da/d1a/a23607.html#a538ab8c6e7683aa02e8c75f9dd900be8", null ],
-    [ "UpdateAI", "da/d1a/a23607.html#a8c400cf1b9f41696807e11f1f135c0ad", null ],
-    [ "_scheduler", "da/d1a/a23607.html#a76bb6a89f0922ed0bc0289ee4e0f20d4", null ]
+    [ "npc_millhouse_manastormAI", "da/d1a/a23607.html#ac86df4d5887c4c1b719ce47f00b32995", null ],
+    [ "AttackStart", "da/d1a/a23607.html#a032cc1ad7a07ead4ced3afe99601d94f", null ],
+    [ "DamageTaken", "da/d1a/a23607.html#a30ed336d552596211b3bfc316d223968", null ],
+    [ "InitializeAI", "da/d1a/a23607.html#a7e8f7483b7cf4ba5d87386940e632339", null ],
+    [ "JustDied", "da/d1a/a23607.html#aaa22ed7812600c1670d12d6887d316d6", null ],
+    [ "JustEngagedWith", "da/d1a/a23607.html#a5e643192572f29f954a31b7b949f6525", null ],
+    [ "KilledUnit", "da/d1a/a23607.html#ac3ba302f496d03c171d1d3f4dbf175da", null ],
+    [ "Reset", "da/d1a/a23607.html#a74076048ea382816fa9c98a0d759af46", null ],
+    [ "UpdateAI", "da/d1a/a23607.html#a7dad659c4ba1db0460c23a3dc573eff2", null ],
+    [ "_usedIceblock", "da/d1a/a23607.html#af0ce341df018dafdce89f75fcb9f0063", null ],
+    [ "events", "da/d1a/a23607.html#aa9aadd461e32cf8a65b185d77f62d838", null ],
+    [ "events2", "da/d1a/a23607.html#ac762ce5981457cbcf6ec73236bab2486", null ],
+    [ "instance", "da/d1a/a23607.html#aff28c68ed9575440f5732df855ab4372", null ]
 ];

@@ -1,9 +1,9 @@
 var a21595 =
 [
-    [ "npc_counselor_talbotAI", "de/d53/a21595.html#acf1865ab4225128b8edbc619f7d8fa93", null ],
-    [ "JustDied", "de/d53/a21595.html#a4dbb0c9b91be5fa182bcc5c63ac9307b", null ],
-    [ "JustEngagedWith", "de/d53/a21595.html#acacec95c5e74c4b71cf2345bbae2eacb", null ],
-    [ "Reset", "de/d53/a21595.html#a03bfaedb136c3e107a4df8e4a1646ae2", null ],
-    [ "UpdateAI", "de/d53/a21595.html#a7b5c739d7c85d5205a04f3c6adf367ef", null ],
-    [ "_events", "de/d53/a21595.html#a094ce9839bb51b73e6b5826c24cda3b6", null ]
+    [ "npc_archmage_landalockAI", "de/d53/a21595.html#a8e2b48a9cf243b0d6f11286cf1e301c8", null ],
+    [ "GetImageEntry", "de/d53/a21595.html#ae09841969253c0baf72cc235b6fa058e", null ],
+    [ "JustSummoned", "de/d53/a21595.html#af9016bfeca3db7611fdafe4337e5f64a", null ],
+    [ "UpdateAI", "de/d53/a21595.html#abad2f45c0a5c43cc7aa7867a0291133d", null ],
+    [ "_summonGUID", "de/d53/a21595.html#a8b59c414dfd46209dcc3d00531e2b98b", null ],
+    [ "_switchImageTimer", "de/d53/a21595.html#a5e2fb6556bbb5cf22b77a72e9ccbc548", null ]
 ];

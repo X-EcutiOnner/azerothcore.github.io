@@ -1,6 +1,6 @@
 var a13079 =
 [
-    [ "CastArmageddon", "d7/dcf/a13079.html#a2e90929b63e6151252aa01a55dbd801f", null ],
-    [ "Execute", "d7/dcf/a13079.html#a4f0651a38eaf03a07bcd73d0f88dda16", null ],
-    [ "_caster", "d7/dcf/a13079.html#a1e70887099a7a47b7c26517d4363ad93", null ]
+    [ "instance_shadowfang_keep_InstanceMapScript", "d6/dd0/a13083.html", "d6/dd0/a13083" ],
+    [ "instance_shadowfang_keep", "d7/dcf/a13079.html#aa6817df7270fbf9397c6b66b28d0f6f8", null ],
+    [ "GetInstanceScript", "d7/dcf/a13079.html#a5c076ed86470247de5b4e3733b70fa25", null ]
 ];

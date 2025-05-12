@@ -1,6 +1,6 @@
 var a24311 =
 [
-    [ "npc_pet_dk_dancing_rune_weaponAI", "d4/d64/a24315.html", "d4/d64/a24315" ],
-    [ "npc_pet_dk_dancing_rune_weapon", "da/df0/a24311.html#aaa0881509c2842d6c0442884d0947e28", null ],
-    [ "GetAI", "da/df0/a24311.html#aae11c76fbcf729f44136c53b2b3e0982", null ]
+    [ "achievement", "da/df0/a24311.html#abb6071e172abbcbc65020a0ad9554a03", null ],
+    [ "spell", "da/df0/a24311.html#a740f9162b10d31d1677a4ac4f5926db6", null ],
+    [ "text", "da/df0/a24311.html#aa92e42bc2c54c3b4b1022d5767fcf10c", null ]
 ];

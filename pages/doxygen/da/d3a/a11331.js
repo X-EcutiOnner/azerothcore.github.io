@@ -1,12 +1,10 @@
 var a11331 =
 [
-    [ "guild_commandscript", "da/d3a/a11331.html#a4394d242740505ad128e4cebf4b617f0", null ],
-    [ "GetCommands", "da/d3a/a11331.html#a6b0a700e7fa3251373c1405d245f6931", null ],
-    [ "HandleGuildCreateCommand", "da/d3a/a11331.html#a2d2c2414b9b08a5d510fccd223b34a36", null ],
-    [ "HandleGuildDeleteCommand", "da/d3a/a11331.html#a4bbef641c86de37611e7ff1c906b4048", null ],
-    [ "HandleGuildInfoCommand", "da/d3a/a11331.html#adbe43a3a362608e37dd7d6652a83adfc", null ],
-    [ "HandleGuildInviteCommand", "da/d3a/a11331.html#a67210b9845ca4475e6ab3d0d7cc0dbab", null ],
-    [ "HandleGuildRankCommand", "da/d3a/a11331.html#adbea3b610c98354866fec52a43fedda0", null ],
-    [ "HandleGuildRenameCommand", "da/d3a/a11331.html#ac946b4284c85e43b1ca29f69df9a8f27", null ],
-    [ "HandleGuildUninviteCommand", "da/d3a/a11331.html#aa7b134de9c3632cc1e147064c9ffcb5f", null ]
+    [ "CustomChatTextBuilder", "da/d3a/a11331.html#a47b3e24f7100d13180ad1946647999ae", null ],
+    [ "operator()", "da/d3a/a11331.html#ad80555f063e7de15df3c434bc90d2ca9", null ],
+    [ "_language", "da/d3a/a11331.html#a92d1c58d76d5d450892338d0e1856dc0", null ],
+    [ "_msgType", "da/d3a/a11331.html#a0db1501da33fde77ab3c50943666b1fd", null ],
+    [ "_source", "da/d3a/a11331.html#ad75f22d7eb6a62d59730918f4336768c", null ],
+    [ "_target", "da/d3a/a11331.html#aa45be322836be588d8df2b253a22ee5c", null ],
+    [ "_text", "da/d3a/a11331.html#ab59c9b938b564329483e38466169a92c", null ]
 ];

@@ -1,6 +1,6 @@
 var a13011 =
 [
-    [ "npc_demonic_vapor_trailAI", "d2/d83/a13015.html", "d2/d83/a13015" ],
-    [ "npc_demonic_vapor_trail", "db/d85/a13011.html#a41f476aa957c07f7bb80394ee93f02b8", null ],
-    [ "GetAI", "db/d85/a13011.html#a0bbf3d970070687eb537c9d2c1ac45ee", null ]
+    [ "instance_scholomance_InstanceMapScript", "d2/d83/a13015.html", "d2/d83/a13015" ],
+    [ "instance_scholomance", "db/d85/a13011.html#ace7a781c45623419daad6143480d8fe2", null ],
+    [ "GetInstanceScript", "db/d85/a13011.html#a9e2030e41154c92dbe45d7895ddf37b8", null ]
 ];

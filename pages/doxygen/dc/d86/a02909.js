@@ -1,41 +1,33 @@
 var a02909 =
 [
-    [ "npc_sergeant_bly", "d6/d68/a15657.html", "d6/d68/a15657" ],
-    [ "npc_sergeant_bly::npc_sergeant_blyAI", "df/ddd/a15661.html", "df/ddd/a15661" ],
-    [ "go_troll_cage", "dc/dc5/a15665.html", "dc/dc5/a15665" ],
-    [ "go_troll_cage::go_troll_cageAI", "d3/d8f/a15669.html", "d3/d8f/a15669" ],
-    [ "npc_weegli_blastfuse", "d7/d4c/a15673.html", "d7/d4c/a15673" ],
-    [ "npc_weegli_blastfuse::npc_weegli_blastfuseAI", "db/d81/a15677.html", "db/d81/a15677" ],
-    [ "npc_shadowpriest_sezziz", "d9/da7/a15681.html", "d9/da7/a15681" ],
-    [ "npc_shadowpriest_sezziz::npc_shadowpriest_sezzizAI", "de/dab/a15685.html", "de/dab/a15685" ],
-    [ "GOSSIP_BLY", "dc/d86/a02909.html#acf686abbef9b59acbf66095340991aab", null ],
-    [ "GOSSIP_WEEGLI", "dc/d86/a02909.html#abd5fb74b4c5971cd2993555c6ac4d1eb", null ],
-    [ "blySays", "dc/d86/a02909.html#a0170bb25aee4171b17fd972a5eb000a9", [
-      [ "SAY_1", "dc/d86/a02909.html#a0170bb25aee4171b17fd972a5eb000a9a307d891e05530d70a32ad2047cfe6dab", null ],
-      [ "SAY_2", "dc/d86/a02909.html#a0170bb25aee4171b17fd972a5eb000a9a73b0208d974ac93026e31ca8864dd390", null ]
+    [ "WardenModuleUse", "da/dfd/a11427.html", "da/dfd/a11427" ],
+    [ "WardenModuleTransfer", "d1/d63/a11431.html", "d1/d63/a11431" ],
+    [ "WardenHashRequest", "d3/d67/a11435.html", "d3/d67/a11435" ],
+    [ "ClientWardenModule", "df/dee/a11439.html", "df/dee/a11439" ],
+    [ "Warden", "d5/d80/a11443.html", "d5/d80/a11443" ],
+    [ "WardenCheckType", "dc/d86/a02909.html#a7598131f87414a66259189a0518ca6f2", [
+      [ "MEM_CHECK", "dc/d86/a02909.html#a7598131f87414a66259189a0518ca6f2aba449b452d425f871a9c01be028b5074", null ],
+      [ "PAGE_CHECK_A", "dc/d86/a02909.html#a7598131f87414a66259189a0518ca6f2a331b64b77a83e62b070746aab1ea995f", null ],
+      [ "PAGE_CHECK_B", "dc/d86/a02909.html#a7598131f87414a66259189a0518ca6f2a366d33d737ecb1b63b92e5c4fc13ed87", null ],
+      [ "MPQ_CHECK", "dc/d86/a02909.html#a7598131f87414a66259189a0518ca6f2ab22116b6a319b5c4ad88eaf90291090b", null ],
+      [ "LUA_EVAL_CHECK", "dc/d86/a02909.html#a7598131f87414a66259189a0518ca6f2a88364ba9c51997e2baa92428922caada", null ],
+      [ "DRIVER_CHECK", "dc/d86/a02909.html#a7598131f87414a66259189a0518ca6f2a2b63e52f1c3146183a59fffa98919c93", null ],
+      [ "TIMING_CHECK", "dc/d86/a02909.html#a7598131f87414a66259189a0518ca6f2ad11a9e323f324f0c3b2b439fec521018", null ],
+      [ "PROC_CHECK", "dc/d86/a02909.html#a7598131f87414a66259189a0518ca6f2a19186939917116389af429c3c658293d", null ],
+      [ "MODULE_CHECK", "dc/d86/a02909.html#a7598131f87414a66259189a0518ca6f2adc2e09d27e8f622121d11ba931c4ff77", null ]
     ] ],
-    [ "blySpells", "dc/d86/a02909.html#ac73b1b4ffaee22ad6c602a211a9bfccf", [
-      [ "SPELL_BLYS_BAND_ESCAPE", "dc/d86/a02909.html#ac73b1b4ffaee22ad6c602a211a9bfccfaa9a43afdd35ceaa8e5947c583cda6c83", null ],
-      [ "SPELL_SHIELD_BASH", "dc/d86/a02909.html#ac73b1b4ffaee22ad6c602a211a9bfccfa0d74cfe7662c959a043f01770a2c7bf4", null ],
-      [ "SPELL_REVENGE", "dc/d86/a02909.html#ac73b1b4ffaee22ad6c602a211a9bfccfa3494dd9ccea3b72ec038a01f6f6fd66f", null ]
-    ] ],
-    [ "ShadowPriestSezzizEnum", "dc/d86/a02909.html#a4e0ee96bd227c57408d323b236131e7d", [
-      [ "SPELL_SHADOW_BOLT", "dc/d86/a02909.html#a4e0ee96bd227c57408d323b236131e7da8872edea8a2ac8c4e895c975482b9413", null ],
-      [ "SPELL_PSYCHIC_SCREEM", "dc/d86/a02909.html#a4e0ee96bd227c57408d323b236131e7da804b244c7e3d670c7c0c96c2deac50aa", null ],
-      [ "SPELL_RENEW", "dc/d86/a02909.html#a4e0ee96bd227c57408d323b236131e7daaf085a0eea027f75c291005b97cb46bd", null ],
-      [ "SPELL_HEAL", "dc/d86/a02909.html#a4e0ee96bd227c57408d323b236131e7da69fcca2d13e03c684fa0459f960ef9a7", null ]
-    ] ],
-    [ "weegliSays", "dc/d86/a02909.html#a326e8498672fa7a2db9a390d360f7391", [
-      [ "SAY_WEEGLI_OHNO", "dc/d86/a02909.html#a326e8498672fa7a2db9a390d360f7391aa1b27f3d4e49ae3cbea7b8b49371b41d", null ],
-      [ "SAY_WEEGLI_OK_I_GO", "dc/d86/a02909.html#a326e8498672fa7a2db9a390d360f7391aa92731cc39b2cffc724a22e3189198ea", null ],
-      [ "SAY_WEEGLI_OUT_OF_HERE", "dc/d86/a02909.html#a326e8498672fa7a2db9a390d360f7391aaa6eaf7f9cc5bb0b7c42aed2439da05c", null ]
-    ] ],
-    [ "weegliSpells", "dc/d86/a02909.html#aa5d64b9165276a134e188d143807850c", [
-      [ "SPELL_BOMB", "dc/d86/a02909.html#aa5d64b9165276a134e188d143807850ca436b889374ecd412c15675983fdae5be", null ],
-      [ "SPELL_GOBLIN_LAND_MINE", "dc/d86/a02909.html#aa5d64b9165276a134e188d143807850ca04bb850750b0183913ab1008cba1833f", null ],
-      [ "SPELL_SHOOT", "dc/d86/a02909.html#aa5d64b9165276a134e188d143807850ca1b728fa1bb0194534b5b491d35ed871c", null ],
-      [ "SPELL_WEEGLIS_BARREL", "dc/d86/a02909.html#aa5d64b9165276a134e188d143807850ca1e379d7bc2f35c29e7b00ee0bf88357f", null ]
-    ] ],
-    [ "AddSC_zulfarrak", "dc/d86/a02909.html#a43b63d5d69b80ee6283471aacf5c9c87", null ],
-    [ "shadowpriestSezzizAdds", "dc/d86/a02909.html#ab3c6a2de23edecc492c7ca4de5c860c7", null ]
+    [ "WardenOpcodes", "dc/d86/a02909.html#a8d0de714c4a4cf7a125c6187a7d19e51", [
+      [ "WARDEN_CMSG_MODULE_MISSING", "dc/d86/a02909.html#a8d0de714c4a4cf7a125c6187a7d19e51a334622303a3ea504196a3807f5da22f4", null ],
+      [ "WARDEN_CMSG_MODULE_OK", "dc/d86/a02909.html#a8d0de714c4a4cf7a125c6187a7d19e51a7636fd5a47dd45d2bf69a4625d77939c", null ],
+      [ "WARDEN_CMSG_CHEAT_CHECKS_RESULT", "dc/d86/a02909.html#a8d0de714c4a4cf7a125c6187a7d19e51a713a20be2d2cf1fa7d46ee2b788bc6f5", null ],
+      [ "WARDEN_CMSG_MEM_CHECKS_RESULT", "dc/d86/a02909.html#a8d0de714c4a4cf7a125c6187a7d19e51adaac6c4f6f3ac87386438a5228ba617f", null ],
+      [ "WARDEN_CMSG_HASH_RESULT", "dc/d86/a02909.html#a8d0de714c4a4cf7a125c6187a7d19e51a51c0070c4347129060a6714ae0f483ed", null ],
+      [ "WARDEN_CMSG_MODULE_FAILED", "dc/d86/a02909.html#a8d0de714c4a4cf7a125c6187a7d19e51a5a2e35d214965eb7dccec345e261fadc", null ],
+      [ "WARDEN_SMSG_MODULE_USE", "dc/d86/a02909.html#a8d0de714c4a4cf7a125c6187a7d19e51ad8b63ed3f3ec8941563402a5eacf9d30", null ],
+      [ "WARDEN_SMSG_MODULE_CACHE", "dc/d86/a02909.html#a8d0de714c4a4cf7a125c6187a7d19e51aa12b4718a7515d81608ba46205625a11", null ],
+      [ "WARDEN_SMSG_CHEAT_CHECKS_REQUEST", "dc/d86/a02909.html#a8d0de714c4a4cf7a125c6187a7d19e51ae5eafc7b23b0d14c934e9eb48fa73709", null ],
+      [ "WARDEN_SMSG_MODULE_INITIALIZE", "dc/d86/a02909.html#a8d0de714c4a4cf7a125c6187a7d19e51aafdff6ee4abd8ad4511d527f09154da8", null ],
+      [ "WARDEN_SMSG_MEM_CHECKS_REQUEST", "dc/d86/a02909.html#a8d0de714c4a4cf7a125c6187a7d19e51a41d76534b91d6af9e1b3ca116c4eda82", null ],
+      [ "WARDEN_SMSG_HASH_REQUEST", "dc/d86/a02909.html#a8d0de714c4a4cf7a125c6187a7d19e51a69c3028f1b435c282c384008e49eb451", null ]
+    ] ]
 ];

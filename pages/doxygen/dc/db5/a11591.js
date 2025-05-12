@@ -1,7 +1,7 @@
 var a11591 =
 [
-    [ "boss_gorosh_the_dervishAI", "dc/db5/a11591.html#adac003c51a2d1d0a8daa6ba552114c25", null ],
-    [ "JustEngagedWith", "dc/db5/a11591.html#a52bc5f76baff626b8834aa604fdd8e6a", null ],
-    [ "UpdateAI", "dc/db5/a11591.html#aa17e26419a8e3f7cd99c5e9b44be8ed8", null ],
-    [ "nextWhirlwindTime", "dc/db5/a11591.html#a07f1af63bc54d1b4c8d8e1cd87a787a1", null ]
+    [ "gear_commandscript", "dc/db5/a11591.html#a2e37c7d761982f7185b2418ae5aa4315", null ],
+    [ "GetCommands", "dc/db5/a11591.html#a9212aa39f13c646b1b8cf8be78cc8a6a", null ],
+    [ "HandleGearRepairCommand", "dc/db5/a11591.html#a28cd5680f07f984326d79d91adbbfd70", null ],
+    [ "HandleGearStatsCommand", "dc/db5/a11591.html#acca4bc7e8cae51ee2a6172b32f87aa56", null ]
 ];

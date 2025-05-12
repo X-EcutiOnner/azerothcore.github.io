@@ -1,6 +1,8 @@
 var a14763 =
 [
-    [ "instance_razorfen_kraul_InstanceMapScript", "d0/d4f/a14767.html", "d0/d4f/a14767" ],
-    [ "instance_razorfen_kraul", "d8/d3c/a14763.html#aedd65b901c8131a7ac21e8576734f76f", null ],
-    [ "GetInstanceScript", "d8/d3c/a14763.html#a78e77010ebb055b9530733ca25533110", null ]
+    [ "Load", "d8/d3c/a14763.html#a59e8723d8b73f45075db47e1e09e15fb", null ],
+    [ "PeriodicTick", "d8/d3c/a14763.html#ae4761ac3bce02903a7266511d80503f9", null ],
+    [ "PrepareAuraScript", "d8/d3c/a14763.html#a7bacc1ebd4b98e5e43b74e13471b2063", null ],
+    [ "Register", "d8/d3c/a14763.html#acc4db638e0d858085dc3fb2d6b45f7ec", null ],
+    [ "_ticks", "d8/d3c/a14763.html#ab858e9f6505fa32cc7325087d29fee8b", null ]
 ];

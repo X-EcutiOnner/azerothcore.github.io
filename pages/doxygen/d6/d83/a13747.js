@@ -1,6 +1,5 @@
 var a13747 =
 [
-    [ "npc_harrison_jonesAI", "d0/d96/a13751.html", "d0/d96/a13751" ],
-    [ "npc_harrison_jones", "d6/d83/a13747.html#afbf1c2040c87f5ca8280d18a9db97c7f", null ],
-    [ "GetAI", "d6/d83/a13747.html#ac7df55d850973073266509f6e09ea367", null ]
+    [ "entry", "d6/d83/a13747.html#ad7431eb64907aed0a03205a37c65a735", null ],
+    [ "pos", "d6/d83/a13747.html#ab60283e91e81c141f3b31218aa4442a3", null ]
 ];

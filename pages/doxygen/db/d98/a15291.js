@@ -1,7 +1,8 @@
 var a15291 =
 [
-    [ "HandleDummy", "db/d98/a15291.html#a30a87266b89021caf7d05c45397f70d1", null ],
-    [ "PrepareSpellScript", "db/d98/a15291.html#a43a92b346088d710719722e8feed9634", null ],
-    [ "Register", "db/d98/a15291.html#ad7a53cc6a24197c050ed8577f6c6cc12", null ],
-    [ "Validate", "db/d98/a15291.html#a8b5097b623adbc1d8a10d7b1c4c248ab", null ]
+    [ "npc_prospector_remtravelAI", "db/d98/a15291.html#a61f26115382f16f3d65c3d4e1c720f02", null ],
+    [ "JustEngagedWith", "db/d98/a15291.html#adf388d36c17b69f881e3cb92d9b78b9b", null ],
+    [ "JustSummoned", "db/d98/a15291.html#a6b3dd1552b5313dd04d07dc80eef06fe", null ],
+    [ "Reset", "db/d98/a15291.html#ac145a4a4a24be227c31fcc5aefd922eb", null ],
+    [ "WaypointReached", "db/d98/a15291.html#a7b02b22e9dc63e1fad6b15a44b2ff9b6", null ]
 ];

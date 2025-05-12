@@ -1,10 +1,17 @@
 var a08983 =
 [
-    [ "MostHPPercentMissingInRange", "d4/d51/a08983.html#aaef0deb21e2470b45cafc22a8c4d18a5", null ],
-    [ "operator()", "d4/d51/a08983.html#ab1734490a3db95ad715756e85ecfaf77", null ],
-    [ "i_hpPct", "d4/d51/a08983.html#a41a3b1c4d1f27a2d727e7a18e2e30a7d", null ],
-    [ "i_maxHpPct", "d4/d51/a08983.html#afd12795ef0cd99e05e4e21f869582416", null ],
-    [ "i_minHpPct", "d4/d51/a08983.html#a11c197d3eea1a8ded0b20f707e6ed5d0", null ],
-    [ "i_obj", "d4/d51/a08983.html#a724cf058a6bcf02864a49bb288e32ce6", null ],
-    [ "i_range", "d4/d51/a08983.html#a021acff6bdb6aef9ab24c19d8798884f", null ]
+    [ "ActionMenuID", "d4/d51/a08983.html#a486f9af68a02ae52d51772a3421db377", null ],
+    [ "ActionPoiID", "d4/d51/a08983.html#a9a20a64e29d0464c40f57286b9c1804d", null ],
+    [ "BoxBroadcastTextID", "d4/d51/a08983.html#a12882942190a9a568b9dc30214ee6a88", null ],
+    [ "BoxCoded", "d4/d51/a08983.html#a4f7ba04e2d1078909d9587569504f4cd", null ],
+    [ "BoxMoney", "d4/d51/a08983.html#ab00c368181ccaba98e878d49de6138e2", null ],
+    [ "BoxText", "d4/d51/a08983.html#ad794b3c4e84dedce43ff2c80d3c38d4a", null ],
+    [ "Conditions", "d4/d51/a08983.html#aa1632404bbc869b17dab8833f660c52b", null ],
+    [ "MenuID", "d4/d51/a08983.html#a6e5b1b2c86bd05b81626a7230349be9a", null ],
+    [ "OptionBroadcastTextID", "d4/d51/a08983.html#af8af4b4c27405908482db73797cd2d49", null ],
+    [ "OptionIcon", "d4/d51/a08983.html#a0b73f7ce36e7703725e6b0d01c2a4564", null ],
+    [ "OptionID", "d4/d51/a08983.html#adf2a8d247a88a062a75eb726dd43d019", null ],
+    [ "OptionNpcFlag", "d4/d51/a08983.html#a6f41e9adfcb11adabdd79b55c1d47bfc", null ],
+    [ "OptionText", "d4/d51/a08983.html#a2606ac76a4f3607e45676ed3f1df3a83", null ],
+    [ "OptionType", "d4/d51/a08983.html#af53a42c8d4ec23be46dfdb16abc9c4ff", null ]
 ];
