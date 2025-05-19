@@ -1,6 +1,5 @@
 var a24287 =
 [
-    [ "npc_pet_dk_army_of_the_deadAI", "d6/d33/a24291.html", "d6/d33/a24291" ],
-    [ "npc_pet_dk_army_of_the_dead", "df/d9c/a24287.html#a0029b9a6bf26ac3419e580d437a0139f", null ],
-    [ "GetAI", "df/d9c/a24287.html#a1883936b7f2905f67d3750faa8caf635", null ]
+    [ "npc_pet_dk_risen_allyAI", "df/d9c/a24287.html#ac9f42a8f6d87ab65e78d9a3951102705", null ],
+    [ "OnCharmed", "df/d9c/a24287.html#ada01d7ab11b7bf240cad932c96978a06", null ]
 ];

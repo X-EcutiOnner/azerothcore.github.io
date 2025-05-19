@@ -1,6 +1,6 @@
 var a13415 =
 [
-    [ "npc_professor_phizzlethorpeAI", "d3/d94/a13419.html", "d3/d94/a13419" ],
-    [ "npc_professor_phizzlethorpe", "da/d65/a13415.html#a8d32b4a107533c81033c617b0b97027d", null ],
-    [ "GetAI", "da/d65/a13415.html#a5eb540d16b2dd123d553ea4ae24d8b53", null ]
+    [ "HandleSendEvent", "da/d65/a13415.html#a1be975f4440b823c34cc3e790fcff608", null ],
+    [ "PrepareSpellScript", "da/d65/a13415.html#a91ac4a392fcf5b6e833fb3f5103d8e06", null ],
+    [ "Register", "da/d65/a13415.html#a217fb7cb47b08999d49ec04b345b77fe", null ]
 ];

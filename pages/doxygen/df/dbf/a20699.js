@@ -1,6 +1,6 @@
 var a20699 =
 [
-    [ "boss_yoggsaron_saraAI", "dc/d9d/a20703.html", "dc/d9d/a20703" ],
-    [ "boss_yoggsaron_sara", "df/dbf/a20699.html#aaf5bd5440122f6c97315b0e3b9d47586", null ],
-    [ "GetAI", "df/dbf/a20699.html#abc83e0f3a7d12a84ea283e5b2a69826d", null ]
+    [ "x", "df/dbf/a20699.html#ae4223168378b602a0a96dbb424a22be4", null ],
+    [ "y", "df/dbf/a20699.html#a30f361d8104e4de44541d75945105963", null ],
+    [ "z", "df/dbf/a20699.html#ae68a79519c35302b89976ac29bb77e26", null ]
 ];

@@ -1,7 +1,6 @@
 var a25023 =
 [
-    [ "CalculateAmount", "d6/dab/a25023.html#a40ba021accd581745f07f2586545853c", null ],
-    [ "Load", "d6/dab/a25023.html#aa963b658637360305bb5f3d59eb9d061", null ],
-    [ "PrepareAuraScript", "d6/dab/a25023.html#a8fedbff305709145a7c004787ee50402", null ],
-    [ "Register", "d6/dab/a25023.html#ade9b6a408a1d5a83bdadd5bd2b0fbb2a", null ]
+    [ "CheckSeat", "d6/dab/a25023.html#ab4e2376e084bc2cf0e30a91e3e5a270c", null ],
+    [ "PrepareSpellScript", "d6/dab/a25023.html#aaa9a6f31ec57542dcd657874c4eb52aa", null ],
+    [ "Register", "d6/dab/a25023.html#a6feb7c77ba258688a83bdb86e9ee53f8", null ]
 ];

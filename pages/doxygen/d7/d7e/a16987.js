@@ -1,9 +1,6 @@
 var a16987 =
 [
-    [ "npc_pos_collapsing_icicleAI", "d7/d7e/a16987.html#a007e4bad6ef41729d3f7b7ade4285dfe", null ],
-    [ "SpellHitTarget", "d7/d7e/a16987.html#aea107ede3b11726b3f7caae590edaf52", null ],
-    [ "UpdateAI", "d7/d7e/a16987.html#ade416a422e67ce61e8874320cce7143b", null ],
-    [ "pInstance", "d7/d7e/a16987.html#a8c7e2643c2d443b382a60f28ea74266c", null ],
-    [ "timer1", "d7/d7e/a16987.html#a5757c27b8c8840cec6ad7282f0cbf51b", null ],
-    [ "timer2", "d7/d7e/a16987.html#aee61de504cfb25d9a99651a58ea0b63c", null ]
+    [ "npc_pos_collapsing_icicleAI", "d4/dae/a16991.html", "d4/dae/a16991" ],
+    [ "npc_pos_collapsing_icicle", "d7/d7e/a16987.html#a42b29fe5d4e106c1e5e5b866a0074664", null ],
+    [ "GetAI", "d7/d7e/a16987.html#a96969ebe749b49ceb38920c63ec6fce3", null ]
 ];

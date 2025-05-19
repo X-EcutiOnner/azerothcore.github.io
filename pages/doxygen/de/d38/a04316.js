@@ -1,11 +1,6 @@
 var a04316 =
 [
-    [ "FormatString", "de/d38/a04316.html#a32c972cafca136b88de5b298d6cba338", null ],
-    [ "AddSuffixIfNotExists", "de/d38/a04316.html#a712bea71ec99d750664fd46c690a1ad9", null ],
-    [ "format_as", "de/d38/a04316.html#aaa7f21af5991452196a22cd79e127825", null ],
-    [ "IsFormatEmptyOrNull", "de/d38/a04316.html#a6f5584cc7346fd1972b3e8a74036467f", null ],
-    [ "IsFormatEmptyOrNull", "de/d38/a04316.html#a84459e91f517fc4f79414cc23370b9f1", null ],
-    [ "StringFormat", "de/d38/a04316.html#a868406b9609960d4ae0189588c8cbbf4", null ],
-    [ "Trim", "de/d38/a04316.html#a3213c569cd380bda3b76fe3f730899ff", null ],
-    [ "TrimRightInPlace", "de/d38/a04316.html#ac78200daa5bc5f1d4c50a1df47a7a4db", null ]
+    [ "CONFIG_HIGH_PRIORITY", "de/d38/a04316.html#a04727fe99a83f6b774ac1fb1b8468f3e", null ],
+    [ "CONFIG_PROCESSOR_AFFINITY", "de/d38/a04316.html#a714853b6677573f2aa289978eee5b83f", null ],
+    [ "SetProcessPriority", "de/d38/a04316.html#ac0ccc1e4fc992fb43f068cb8f6b3fd7b", null ]
 ];

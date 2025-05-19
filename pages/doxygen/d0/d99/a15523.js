@@ -1,6 +1,7 @@
 var a15523 =
 [
-    [ "npc_stone_watcher_of_norgannon", "d0/d99/a15523.html#aa838e060c8ef6d7d85981c718328d9ef", null ],
-    [ "OnGossipHello", "d0/d99/a15523.html#a00f526b1b17b68f31a86e892e0997856", null ],
-    [ "OnGossipSelect", "d0/d99/a15523.html#a5b79ebae097266ec4e1a0e3dfaa87da5", null ]
+    [ "npc_steward_of_time", "d0/d99/a15523.html#ad49973464c96f44506033b73a85f6360", null ],
+    [ "OnGossipHello", "d0/d99/a15523.html#a3b61038393c3addbbfa6643438164db3", null ],
+    [ "OnGossipSelect", "d0/d99/a15523.html#af4fe13e266a98129b92e5a25188d947c", null ],
+    [ "OnQuestAccept", "d0/d99/a15523.html#a53d552282da49e8246089b2799fff9ca", null ]
 ];

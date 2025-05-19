@@ -1,6 +1,8 @@
 var a16851 =
 [
-    [ "npc_hor_risen_witch_doctorAI", "da/d70/a16855.html", "da/d70/a16855" ],
-    [ "npc_hor_risen_witch_doctor", "d8/dc2/a16851.html#add06a10c9b4342b136b5cab49338b095", null ],
-    [ "GetAI", "d8/dc2/a16851.html#a055a8d29d8e6a58b92968ed1c39c1b1d", null ]
+    [ "npc_hor_raging_ghoulAI", "d8/dc2/a16851.html#ac4b2b3acf8a7acda73c7158f1565a274", null ],
+    [ "JustDied", "d8/dc2/a16851.html#a70e581c9b3f7d88d497c1540ac9ca04c", null ],
+    [ "Reset", "d8/dc2/a16851.html#aa52576d94e230797209dfc938d62187f", null ],
+    [ "UpdateAI", "d8/dc2/a16851.html#ac7c8571eac32f722a5fb0c28092b7e8f", null ],
+    [ "leaped", "d8/dc2/a16851.html#a12f6e6d5911b2b8b9caa01a9a83570bc", null ]
 ];

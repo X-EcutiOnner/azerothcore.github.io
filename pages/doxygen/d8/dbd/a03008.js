@@ -1,25 +1,26 @@
 var a03008 =
 [
-    [ "PlayerDump", "d2/dd2/a11407.html", "d2/dd2/a11407" ],
-    [ "PlayerDumpWriter", "d6/d15/a11411.html", "d6/d15/a11411" ],
-    [ "PlayerDumpReader", "df/dd0/a11415.html", "df/dd0/a11415" ],
-    [ "DumpReturn", "d8/dbd/a03008.html#a4471667403db9bc7532f371d28743866", [
-      [ "DUMP_SUCCESS", "d8/dbd/a03008.html#a4471667403db9bc7532f371d28743866a6516d3543697022dbf635913b248e48e", null ],
-      [ "DUMP_FILE_OPEN_ERROR", "d8/dbd/a03008.html#a4471667403db9bc7532f371d28743866a01a5aec7fbe2bac9208d139b46a23656", null ],
-      [ "DUMP_TOO_MANY_CHARS", "d8/dbd/a03008.html#a4471667403db9bc7532f371d28743866a73b27eff0adff2ab7bfd73e34aeb307d", null ],
-      [ "DUMP_FILE_BROKEN", "d8/dbd/a03008.html#a4471667403db9bc7532f371d28743866a86acf22616e301a2ffef9ba80e227ed6", null ],
-      [ "DUMP_CHARACTER_DELETED", "d8/dbd/a03008.html#a4471667403db9bc7532f371d28743866a08aa6d880c4d2da0ad4c8c1b27a5cc47", null ]
+    [ "npc_shenthul", "d7/d38/a15427.html", "d7/d38/a15427" ],
+    [ "npc_shenthul::npc_shenthulAI", "dd/d26/a15431.html", "dd/d26/a15431" ],
+    [ "npc_thrall_warchief", "da/d7b/a15435.html", "da/d7b/a15435" ],
+    [ "npc_thrall_warchief::npc_thrall_warchiefAI", "d8/dd5/a15439.html", "d8/dd5/a15439" ],
+    [ "Shenthul", "d8/dbd/a03008.html#a032512bb2693fda342f4d77dba794fbe", [
+      [ "QUEST_SHATTERED_SALUTE", "d8/dbd/a03008.html#a032512bb2693fda342f4d77dba794fbea38993f500c01e7bc0ae8dd3a83848ff0", null ]
     ] ],
-    [ "DumpTableType", "d8/dbd/a03008.html#ad4739d865080bb5590831b606365e7ef", [
-      [ "DTT_CHARACTER", "d8/dbd/a03008.html#ad4739d865080bb5590831b606365e7efaea3cb16043024e5fdfc4f3301d2df323", null ],
-      [ "DTT_CHAR_TABLE", "d8/dbd/a03008.html#ad4739d865080bb5590831b606365e7efa3c784c38ccd07be78692e3e03bb53d94", null ],
-      [ "DTT_EQSET_TABLE", "d8/dbd/a03008.html#ad4739d865080bb5590831b606365e7efa0588b27b8e9c5cd1cd20d4324cad45de", null ],
-      [ "DTT_INVENTORY", "d8/dbd/a03008.html#ad4739d865080bb5590831b606365e7efa137a1112df8b9582403fec12c50fea7f", null ],
-      [ "DTT_MAIL", "d8/dbd/a03008.html#ad4739d865080bb5590831b606365e7efa581ecbcaf9623d952b28fd4e964ae67d", null ],
-      [ "DTT_MAIL_ITEM", "d8/dbd/a03008.html#ad4739d865080bb5590831b606365e7efa917099d0dd625e7aa46b6358fb4c036b", null ],
-      [ "DTT_ITEM", "d8/dbd/a03008.html#ad4739d865080bb5590831b606365e7efad5be0dba7076e09532f3eb8760b8501d", null ],
-      [ "DTT_ITEM_GIFT", "d8/dbd/a03008.html#ad4739d865080bb5590831b606365e7efadead833bce15df38e80b9eee85b1d847", null ],
-      [ "DTT_PET", "d8/dbd/a03008.html#ad4739d865080bb5590831b606365e7efacb52988d860dbf41c2e2a5e2650d95c8", null ],
-      [ "DTT_PET_TABLE", "d8/dbd/a03008.html#ad4739d865080bb5590831b606365e7efa4b50591bf81a27c7f6300f7733b14ac4", null ]
-    ] ]
+    [ "ThrallWarchief", "d8/dbd/a03008.html#a1cdad3bda3b93500c342a64dce6d15d9", [
+      [ "SPELL_CHAIN_LIGHTNING", "d8/dbd/a03008.html#a1cdad3bda3b93500c342a64dce6d15d9ac0997e72929070d8e30cc0f49cc4539d", null ],
+      [ "SPELL_SHOCK", "d8/dbd/a03008.html#a1cdad3bda3b93500c342a64dce6d15d9a30aa4cac2f70a310466b3fb0f2d10eab", null ],
+      [ "QUEST_FOR_THE_HORDE", "d8/dbd/a03008.html#a1cdad3bda3b93500c342a64dce6d15d9aed442141280385194a0a8b73d7e489af", null ],
+      [ "SPELL_WARCHIEF_BLESSING", "d8/dbd/a03008.html#a1cdad3bda3b93500c342a64dce6d15d9a567e6044eaae260d8ab29c346613b225", null ],
+      [ "NPC_HERALD_OF_THRALL", "d8/dbd/a03008.html#a1cdad3bda3b93500c342a64dce6d15d9a3533aba0519168d4cfb3446a1bbde5bc", null ],
+      [ "ACTION_START_TALKING", "d8/dbd/a03008.html#a1cdad3bda3b93500c342a64dce6d15d9a322b9b49cd88bc70c039be2aa4e0c7fd", null ],
+      [ "SAY_THRALL_ON_QUEST_REWARD_0", "d8/dbd/a03008.html#a1cdad3bda3b93500c342a64dce6d15d9a64ac3588375f611524513fd4d4293a1b", null ],
+      [ "SAY_THRALL_ON_QUEST_REWARD_1", "d8/dbd/a03008.html#a1cdad3bda3b93500c342a64dce6d15d9a3a6a88801e0a276bd78e5299ffb76302", null ],
+      [ "GO_UNADORNED_SPIKE", "d8/dbd/a03008.html#a1cdad3bda3b93500c342a64dce6d15d9a544ea295d906cebdf38aecb93e7ac153", null ],
+      [ "QUEST_WHAT_THE_WIND_CARRIES", "d8/dbd/a03008.html#a1cdad3bda3b93500c342a64dce6d15d9a5bc18876e7da8ddfc493ea155bb75287", null ],
+      [ "GOSSIP_MENU_THRALL", "d8/dbd/a03008.html#a1cdad3bda3b93500c342a64dce6d15d9a502d5aed1ed2917d36573a355656ce86", null ],
+      [ "GOSSIP_RESPONSE_THRALL_FIRST", "d8/dbd/a03008.html#a1cdad3bda3b93500c342a64dce6d15d9a710a8ed7a2d8ddb38e5e0f7db188132d", null ]
+    ] ],
+    [ "AddSC_orgrimmar", "d8/dbd/a03008.html#aec4388ea6d2e4bbc1d279b3a4687c4c6", null ],
+    [ "heraldOfThrallPos", "d8/dbd/a03008.html#a016aeee1d0eac9c78c522520663670f0", null ]
 ];

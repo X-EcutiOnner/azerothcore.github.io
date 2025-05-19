@@ -1,7 +1,11 @@
 var a14403 =
 [
-    [ "HandleFinish", "d9/d16/a14403.html#a8927aaa07145b46067d5807c2048330a", null ],
-    [ "PrepareSpellScript", "d9/d16/a14403.html#a5a0bfef668242fc5f21ad5a4e3e714b5", null ],
-    [ "Register", "d9/d16/a14403.html#a1ffdc199a04bd6ead1a09bc977ae964c", null ],
-    [ "Validate", "d9/d16/a14403.html#a3fd3265e5a08f81b3e9e789f1799abd4", null ]
+    [ "HandleFinish", "d9/d16/a14403.html#ace3a2ad0cf8ac31f7ef5345f1dbbf6e7", null ],
+    [ "HandleScript", "d9/d16/a14403.html#a2a2f005c29f0381c3c45d04a75ccc378", null ],
+    [ "Load", "d9/d16/a14403.html#a177ea78202f4d5b4c381f1712b01fe43", null ],
+    [ "PrepareSpellScript", "d9/d16/a14403.html#a9714f48de3982feb245f78efb8008f1b", null ],
+    [ "Register", "d9/d16/a14403.html#ad24c159a0dcfb86eb35a4286f606a3ab", null ],
+    [ "ThrowNextTorch", "d9/d16/a14403.html#a6ea11852ede397c1ede1ebaabb906c35", null ],
+    [ "Validate", "d9/d16/a14403.html#a026fbf7123f6780459c19ff04b370b08", null ],
+    [ "handled", "d9/d16/a14403.html#a869fde9e5d0756d3c68a8db3e10ad50d", null ]
 ];

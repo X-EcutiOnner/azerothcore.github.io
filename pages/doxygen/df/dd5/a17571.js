@@ -1,7 +1,6 @@
 var a17571 =
 [
-    [ "FilterTargets", "df/dd5/a17571.html#a32b2fa87fb2eaca3db0801fbfe4b8aaa", null ],
-    [ "Load", "df/dd5/a17571.html#a39e8ec4726a1f6c2911c165c7187f291", null ],
-    [ "PrepareSpellScript", "df/dd5/a17571.html#a7526a6df4c25136f4be78e753c6abf62", null ],
-    [ "Register", "df/dd5/a17571.html#a0d01b8292c1c071a5c828a5a88617bd5", null ]
+    [ "IgbTeleportOnVictoryCheck", "df/dd5/a17571.html#a29ee8cac93b9920e598da9205406e608", null ],
+    [ "operator()", "df/dd5/a17571.html#acf85943e238179e911434358f1593be2", null ],
+    [ "_inst", "df/dd5/a17571.html#a015353ecb66da16c697152b7ad3c527e", null ]
 ];

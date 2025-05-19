@@ -1,19 +1,9 @@
 var a04205 =
 [
-    [ "GuildScript", "db/dcb/a10284.html", "db/dcb/a10284" ],
-    [ "GuildHook", "d7/dca/a04205.html#a5cb9f5f21f7f7d0e793d70058163507e", [
-      [ "GUILDHOOK_ON_ADD_MEMBER", "d7/dca/a04205.html#a5cb9f5f21f7f7d0e793d70058163507eae55dad40010dcbf6c50672cae2f0106d", null ],
-      [ "GUILDHOOK_ON_REMOVE_MEMBER", "d7/dca/a04205.html#a5cb9f5f21f7f7d0e793d70058163507eac79cc93d3ab4677a9801e213686e2b51", null ],
-      [ "GUILDHOOK_ON_MOTD_CHANGED", "d7/dca/a04205.html#a5cb9f5f21f7f7d0e793d70058163507ea909770c2a1fe124c3fa21f83ff55c0d5", null ],
-      [ "GUILDHOOK_ON_INFO_CHANGED", "d7/dca/a04205.html#a5cb9f5f21f7f7d0e793d70058163507eaf9949399a22fa1e1ed088bfa6952d23f", null ],
-      [ "GUILDHOOK_ON_CREATE", "d7/dca/a04205.html#a5cb9f5f21f7f7d0e793d70058163507ea9d64b482c3d8be9681ab83722c84316e", null ],
-      [ "GUILDHOOK_ON_DISBAND", "d7/dca/a04205.html#a5cb9f5f21f7f7d0e793d70058163507eac23a3058a5a051613b6970bad9a38f58", null ],
-      [ "GUILDHOOK_ON_MEMBER_WITDRAW_MONEY", "d7/dca/a04205.html#a5cb9f5f21f7f7d0e793d70058163507ea3a78e5195fdbecb916d9f9510175381b", null ],
-      [ "GUILDHOOK_ON_MEMBER_DEPOSIT_MONEY", "d7/dca/a04205.html#a5cb9f5f21f7f7d0e793d70058163507ea2663578fa69784d19d4833584d1a1fdc", null ],
-      [ "GUILDHOOK_ON_ITEM_MOVE", "d7/dca/a04205.html#a5cb9f5f21f7f7d0e793d70058163507ea6ef9bfbc009fd877098120f95d6a3fa8", null ],
-      [ "GUILDHOOK_ON_EVENT", "d7/dca/a04205.html#a5cb9f5f21f7f7d0e793d70058163507eac20b467223e978c03559c967fec760a7", null ],
-      [ "GUILDHOOK_ON_BANK_EVENT", "d7/dca/a04205.html#a5cb9f5f21f7f7d0e793d70058163507eaa5be911ea4c307508ba407ac09cd82d9", null ],
-      [ "GUILDHOOK_CAN_GUILD_SEND_BANK_LIST", "d7/dca/a04205.html#a5cb9f5f21f7f7d0e793d70058163507eaec99ae82238d8260ba512b23abc70b5b", null ],
-      [ "GUILDHOOK_END", "d7/dca/a04205.html#a5cb9f5f21f7f7d0e793d70058163507ea85e0e175b03a5491dec2498ff4c415bb", null ]
-    ] ]
+    [ "BoundsTrait< VMAP::ModelSpawn * >", "d7/d3c/a05003.html", "d7/d3c/a05003" ],
+    [ "VMAP::WMOLiquidHeader", "db/d5b/a05007.html", "db/d5b/a05007" ],
+    [ "CMP_OR_RETURN", "d7/dca/a04205.html#abb356574335eee18efd5e1f4ed707637", null ],
+    [ "READ_OR_RETURN", "d7/dca/a04205.html#ab09a5bc19f9a9f62a1f60dd7741b4d6d", null ],
+    [ "READ_OR_RETURN_WITH_DELETE", "d7/dca/a04205.html#aaf506ecfd782214a75bd609db9bef004", null ],
+    [ "readChunk", "d7/dca/a04205.html#a166f3eeee53079ac9df4f15ccd577974", null ]
 ];

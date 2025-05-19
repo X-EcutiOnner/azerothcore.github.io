@@ -1,7 +1,6 @@
 var a17979 =
 [
-    [ "PeriodicTick", "da/deb/a17979.html#a79b63e30f37df8a961b57c4b10669800", null ],
-    [ "PrepareAuraScript", "da/deb/a17979.html#a091a72cf97d5fbd6ffbf95ad3e409aa6", null ],
-    [ "Register", "da/deb/a17979.html#a860e2bc444f5aeb78837cd1a6eff40a3", null ],
-    [ "Validate", "da/deb/a17979.html#a32cbe3a7eedf7b37229168a6154167b0", null ]
+    [ "HandleSpecial", "da/deb/a17979.html#afa540e8c748ca3083667528e2449bc65", null ],
+    [ "PrepareSpellScript", "da/deb/a17979.html#a9472211ffdaa33802099b22b2a721645", null ],
+    [ "Register", "da/deb/a17979.html#ab868b10372ff2ef401d19b126acf00c6", null ]
 ];

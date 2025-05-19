@@ -1,5 +1,5 @@
 var a27603 =
 [
-    [ "ServerMailReward", "d7/d45/a27603.html#aba48b4c171e8e8a40fca2d3bed6b7f63", null ],
-    [ "OnPlayerLogin", "d7/d45/a27603.html#ada945e805278d54746b6fabaf48b4546", null ]
+    [ "QuestApprenticeAnglerPlayerScript", "d7/d45/a27603.html#afaa929276f8b131005c9b94daa9a09f9", null ],
+    [ "OnPlayerCompleteQuest", "d7/d45/a27603.html#a029ef1ccdd42af2ff9223ab699c3942f", null ]
 ];

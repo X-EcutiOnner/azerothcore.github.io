@@ -1,7 +1,6 @@
 var a21983 =
 [
-    [ "npc_tirions_gambit_tirionAI", "d3/d49/a21987.html", "d3/d49/a21987" ],
-    [ "npc_tirions_gambit_tirion", "dd/d56/a21983.html#ad52abd46ccdd3b4409671679434c193c", null ],
-    [ "GetAI", "dd/d56/a21983.html#a222c092c2e2136dbd7057a3f7ad7b5f4", null ],
-    [ "OnGossipSelect", "dd/d56/a21983.html#a5af904a3394de9b3eedb52009bd6b0a9", null ]
+    [ "npc_boneguard_footmanAI", "dd/d56/a21983.html#a04eff1976824724b321f0c0d95e0940a", null ],
+    [ "UpdateAI", "dd/d56/a21983.html#a9cba65867824daeb50cb2b39d68ad84b", null ],
+    [ "checkTimer", "dd/d56/a21983.html#a46dd1fa8d111dca0584a8e6fb7a6a566", null ]
 ];

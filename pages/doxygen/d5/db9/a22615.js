@@ -1,6 +1,6 @@
 var a22615 =
 [
-    [ "instance_shadow_labyrinth_InstanceMapScript", "d8/d30/a22619.html", "d8/d30/a22619" ],
-    [ "instance_shadow_labyrinth", "d5/db9/a22615.html#a16a3acdfd9b1053374dfa5f27e5f3c19", null ],
-    [ "GetInstanceScript", "d5/db9/a22615.html#af9edf624413593a5cdf025dd9a1c3631", null ]
+    [ "PrepareSpellScript", "d5/db9/a22615.html#abd6b61e7efbed1427b7603640ac7d474", null ],
+    [ "RecalculateDamage", "d5/db9/a22615.html#a02b59e5ac84c8556c9a9441ff6414461", null ],
+    [ "Register", "d5/db9/a22615.html#ab6183bf9e49d3c11c256e54053c13aa2", null ]
 ];

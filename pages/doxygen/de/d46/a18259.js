@@ -1,6 +1,8 @@
 var a18259 =
 [
-    [ "npc_strangulate_vehicleAI", "da/dc1/a18263.html", "da/dc1/a18263" ],
-    [ "npc_strangulate_vehicle", "de/d46/a18259.html#a04532bc5902af45b1e9c76cf1cec9add", null ],
-    [ "GetAI", "de/d46/a18259.html#aa5813442234d7b18fc4e7ed44a0b30bc", null ]
+    [ "Load", "de/d46/a18259.html#aabd997d6db5fd38b1fdd97d90b1347e9", null ],
+    [ "OnRemove", "de/d46/a18259.html#a43b23e5c53cca872a26737d790f2893d", null ],
+    [ "PrepareAuraScript", "de/d46/a18259.html#ae51bcb37894240c6fd064cd329698a55", null ],
+    [ "Register", "de/d46/a18259.html#ad6247c7f8abf41cd6190d5252ed6834e", null ],
+    [ "Validate", "de/d46/a18259.html#a45696018a8810cf1f11fbddcd853d1f4", null ]
 ];

@@ -1,6 +1,7 @@
 var a20879 =
 [
-    [ "OnEffect", "de/d7e/a20879.html#aa24cfd6feec65f466e74c68484815c1e", null ],
-    [ "PrepareSpellScript", "de/d7e/a20879.html#a648fb610fb1914efac7f2cb6e1bb4290", null ],
-    [ "Register", "de/d7e/a20879.html#ac1c0076665edc6a2b3a0228340020a1e", null ]
+    [ "HandleEffectCalcPeriodic", "de/d7e/a20879.html#af01eb94174952de52615734055b17c1a", null ],
+    [ "HandleEffectPeriodic", "de/d7e/a20879.html#a87b4517a6ad8630027ab2c3534b9fb8c", null ],
+    [ "PrepareAuraScript", "de/d7e/a20879.html#a95bd054accb5b72c4cfb12caccf0e004", null ],
+    [ "Register", "de/d7e/a20879.html#a2d506669ddc4c84e9ae3eb1746eadce1", null ]
 ];

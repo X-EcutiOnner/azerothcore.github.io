@@ -1,8 +1,7 @@
 var a25891 =
 [
-    [ "CheckProc", "d1/d5f/a25891.html#a4f8e030154606e0781ebb89294019e0e", null ],
-    [ "HandleProc", "d1/d5f/a25891.html#a3d3db432fb051785f51ece4052ec8907", null ],
-    [ "PrepareAuraScript", "d1/d5f/a25891.html#aed40577ca9a1de3efc501606bcc9a8dd", null ],
-    [ "Register", "d1/d5f/a25891.html#a8cfdc8d98946fca603971ad91035e21c", null ],
-    [ "Validate", "d1/d5f/a25891.html#abfd3c0ad08ad287b38e8da437c18376c", null ]
+    [ "CalcPeriodic", "d1/d5f/a25891.html#a404e5309016cfcaa3071c0216978699e", null ],
+    [ "PrepareAuraScript", "d1/d5f/a25891.html#a9675e5c417e5e9a5a358a3ffb371073e", null ],
+    [ "Register", "d1/d5f/a25891.html#a60ffc059d00fd58abe7e758f06bbf35c", null ],
+    [ "AuraEffectHandleModes", "d1/d5f/a25891.html#aa66ee788b7e09815b827a0f4ac954e1f", null ]
 ];

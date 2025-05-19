@@ -1,5 +1,6 @@
 var a17851 =
 [
-    [ "RotfaceHeightCheck", "d3/ddf/a17851.html#aabdeaee465989c339fc7a3f186e20498", null ],
-    [ "operator()", "d3/ddf/a17851.html#a585743e0e76c64a5caa37acab46d04d5", null ]
+    [ "ExtraEffect", "d3/ddf/a17851.html#a10dfb36a835589208482e1c8833d8f46", null ],
+    [ "PrepareSpellScript", "d3/ddf/a17851.html#a972ff2bdc7d3660820e05326600be6f6", null ],
+    [ "Register", "d3/ddf/a17851.html#ae337e67a220b72b44878d02be33e3888", null ]
 ];

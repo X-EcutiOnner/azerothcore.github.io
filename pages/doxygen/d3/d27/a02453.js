@@ -1,10 +1,9 @@
 var a02453 =
 [
-    [ "AutobroadcastMgr", "d6/d82/a07115.html", "d6/d82/a07115" ],
-    [ "sAutobroadcastMgr", "d3/d27/a02453.html#a34abff2dadcb74370b0749fe9fda3878", null ],
-    [ "AnnounceType", "d3/d27/a02453.html#a28a4ef2f64643c76d8be05bf9eafc731", [
-      [ "World", "d3/d27/a02453.html#a28a4ef2f64643c76d8be05bf9eafc731af5a7924e621e84c9280a9a27e1bcb7f6", null ],
-      [ "Notification", "d3/d27/a02453.html#a28a4ef2f64643c76d8be05bf9eafc731a96d008db67fc0b5551a926842bbb6a71", null ],
-      [ "Both", "d3/d27/a02453.html#a28a4ef2f64643c76d8be05bf9eafc731a130c5b3473c57faa76e2a1c54e26f88e", null ]
-    ] ]
+    [ "instance_blood_furnace", "de/d83/a23455.html", "de/d83/a23455" ],
+    [ "instance_blood_furnace::instance_blood_furnace_InstanceMapScript", "df/d82/a23459.html", "df/d82/a23459" ],
+    [ "AddSC_instance_blood_furnace", "d3/d27/a02453.html#af803a0e2dfb7f53b6682e02b90bef865", null ],
+    [ "creatureData", "d3/d27/a02453.html#a412286b689bd324fedd65ddd8dde8afb", null ],
+    [ "doorData", "d3/d27/a02453.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
+    [ "gameobjectData", "d3/d27/a02453.html#a845a92716bd40c99a93eb0715cd737b0", null ]
 ];

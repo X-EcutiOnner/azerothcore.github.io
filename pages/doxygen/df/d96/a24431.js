@@ -1,6 +1,6 @@
 var a24431 =
 [
-    [ "CheckProc", "df/d96/a24431.html#a451ceeda18638f88d2e0a24ac445f5e2", null ],
-    [ "PrepareAuraScript", "df/d96/a24431.html#a0a6d4617ff3351411f4e13f53876db31", null ],
-    [ "Register", "df/d96/a24431.html#a0e5d974111eeca075f38910223f5eaf4", null ]
+    [ "PrepareSpellScript", "df/d96/a24431.html#ad6190cf9ab80ebfd982c1b166d950656", null ],
+    [ "Register", "df/d96/a24431.html#a4b349a325759517c35d04202e5df9cec", null ],
+    [ "SetDest", "df/d96/a24431.html#a951f733ab2452655a3b579f8ed190fb0", null ]
 ];

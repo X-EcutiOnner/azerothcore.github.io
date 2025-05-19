@@ -1,6 +1,7 @@
 var a16683 =
 [
-    [ "FilterTargets", "df/d54/a16683.html#a36879a2920f43562bb0ff89c76d758e4", null ],
-    [ "PrepareSpellScript", "df/d54/a16683.html#afeb95c5fe970ebc147d509981b026e98", null ],
-    [ "Register", "df/d54/a16683.html#a800bd9ffab41ccf860844a129ec3b03c", null ]
+    [ "HandlePeriodicTick", "df/d54/a16683.html#abe9cc0a87d84504ee029cc565dd97ef5", null ],
+    [ "PrepareAuraScript", "df/d54/a16683.html#a93e894c642101160dd51f30952c82d24", null ],
+    [ "Register", "df/d54/a16683.html#a49172ede0f888e391b9b4a835475220a", null ],
+    [ "Validate", "df/d54/a16683.html#a3b9998ef5ee0931afbe5b04430da10a0", null ]
 ];

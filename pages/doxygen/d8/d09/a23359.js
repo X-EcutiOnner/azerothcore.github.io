@@ -1,5 +1,6 @@
 var a23359 =
 [
-    [ "instance_the_underbog_InstanceMapScript", "d8/d09/a23359.html#ae7668c7c4432b74caa3ea46a7c7364e3", null ],
-    [ "Initialize", "d8/d09/a23359.html#a9c7c10020eef3db4794283c0f946d086", null ]
+    [ "instance_the_underbog_InstanceMapScript", "de/dd5/a23363.html", "de/dd5/a23363" ],
+    [ "instance_the_underbog", "d8/d09/a23359.html#afaf8740a3e367a1a54eaa3e76ffa483e", null ],
+    [ "GetInstanceScript", "d8/d09/a23359.html#ace939fb7fd89e7c9c84c17d3ca31208b", null ]
 ];

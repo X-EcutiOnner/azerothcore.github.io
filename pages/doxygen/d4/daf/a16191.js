@@ -1,8 +1,6 @@
 var a16191 =
 [
-    [ "npc_toc5_player_vehicleAI", "d4/daf/a16191.html#afa00a6254b482aae5397be04860ac8ba", null ],
-    [ "BeforeSpellClick", "d4/daf/a16191.html#aac7db7f40b47a9c098c98bacb7569faf", null ],
-    [ "OnCharmed", "d4/daf/a16191.html#ace805882a25a9d075d811714e607fa2b", null ],
-    [ "PassengerBoarded", "d4/daf/a16191.html#aca35804df751185193ff5865255d3687", null ],
-    [ "Reset", "d4/daf/a16191.html#a5439b98d544124836d2cf9762f764cea", null ]
+    [ "npc_toc5_player_vehicleAI", "db/dfc/a16195.html", "db/dfc/a16195" ],
+    [ "npc_toc5_player_vehicle", "d4/daf/a16191.html#a8786627999d3d1681d9de58cd8c46744", null ],
+    [ "GetAI", "d4/daf/a16191.html#af89c559eff828130df821c0c30c61f7a", null ]
 ];

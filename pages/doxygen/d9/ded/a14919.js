@@ -1,9 +1,6 @@
 var a14919 =
 [
-    [ "go_ossirian_crystalAI", "d9/ded/a14919.html#ae4d3c0c2cff08bd9fe86cbfee2cbb980", null ],
-    [ "DoAction", "d9/ded/a14919.html#a581436335d190466520c07fde56ad441", null ],
-    [ "GossipHello", "d9/ded/a14919.html#ad1aff0e18d8f4ef7fe5d4cfa7ef17875", null ],
-    [ "SetGUID", "d9/ded/a14919.html#a9c983aa02285dbebc545b4056191200c", null ],
-    [ "_instance", "d9/ded/a14919.html#aa2c83296cbe8d49de7bc7262b792e8b3", null ],
-    [ "_triggerGUID", "d9/ded/a14919.html#abd96d9b4f2c5f41e4a85606b22e1b0cf", null ]
+    [ "go_ossirian_crystalAI", "d1/dd3/a14923.html", "d1/dd3/a14923" ],
+    [ "go_ossirian_crystal", "d9/ded/a14919.html#a783f0f0570ee0f667920e29613b565b2", null ],
+    [ "GetAI", "d9/ded/a14919.html#a2f7b12eddc6504917614913e347ec0a0", null ]
 ];

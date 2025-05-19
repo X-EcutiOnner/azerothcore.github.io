@@ -1,8 +1,7 @@
 var a25943 =
 [
-    [ "CheckProc", "d1/d18/a25943.html#a801610a9f9fae5cb711850254b291268", null ],
-    [ "HandleProc", "d1/d18/a25943.html#a3f6a53421c7c4b9346d98aa51c4ccd6d", null ],
-    [ "PrepareAuraScript", "d1/d18/a25943.html#ad08915b0c7f35bef76ddd05a62add43c", null ],
-    [ "Register", "d1/d18/a25943.html#a8626318b6f9b35a8b1c116062618b3c0", null ],
-    [ "Validate", "d1/d18/a25943.html#a8a3abd528fda4aab149fb7f6e5eae00d", null ]
+    [ "CalculateSpellAmount", "d1/d18/a25943.html#a2f93ff69f30b243fe787d72f78a2d159", null ],
+    [ "CheckCast", "d1/d18/a25943.html#af043f7ee0f80baf667e64225effd57d1", null ],
+    [ "PrepareSpellScript", "d1/d18/a25943.html#a233ac4020722078d865cf980d7fa76cf", null ],
+    [ "Register", "d1/d18/a25943.html#a3648ecd94430e21dd014795156c1eb98", null ]
 ];

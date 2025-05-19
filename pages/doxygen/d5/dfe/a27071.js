@@ -1,6 +1,10 @@
 var a27071 =
 [
-    [ "boss_taerarAI", "d9/d2c/a27075.html", "d9/d2c/a27075" ],
-    [ "boss_taerar", "d5/dfe/a27071.html#a100c1b80a50faf93088db870faa21b58", null ],
-    [ "GetAI", "d5/dfe/a27071.html#ae6615da6ee14c4f7cb3087b4ee5d6246", null ]
+    [ "boss_emerissAI", "d5/dfe/a27071.html#ad94b3b097d9987e365f91b7e57d0f208", null ],
+    [ "DamageTaken", "d5/dfe/a27071.html#abb80c49c166f31cd7e2d24392fbf60e1", null ],
+    [ "ExecuteEvent", "d5/dfe/a27071.html#ad3839ad4b0a930bc96154b5b0aab17fe", null ],
+    [ "JustEngagedWith", "d5/dfe/a27071.html#a5a51b97216a27637f6bd3020ba05e0f7", null ],
+    [ "KilledUnit", "d5/dfe/a27071.html#ad851169bc09a362137e211dd10d30a1b", null ],
+    [ "Reset", "d5/dfe/a27071.html#a44dfb325c4e8413662052137edc710ef", null ],
+    [ "_stage", "d5/dfe/a27071.html#ae2c8c5c2d2054af41c5dbe938b3eb79a", null ]
 ];

@@ -1,8 +1,6 @@
 var a21351 =
 [
-    [ "npc_azure_raiderAI", "d4/dcd/a21351.html#a6928428a9dc1ed483a682c8f2a281ebf", null ],
-    [ "Reset", "d4/dcd/a21351.html#a80d9e586e5c03d19b6b9f0e0f7607b20", null ],
-    [ "UpdateAI", "d4/dcd/a21351.html#a2e9833d0d25fd8c442f7ab279de6a40a", null ],
-    [ "uiConcussionBlowTimer", "d4/dcd/a21351.html#a4e7dfb8d4991bf7ad3d0eeb72dff770b", null ],
-    [ "uiMagicReflectionTimer", "d4/dcd/a21351.html#acb262ab506ea58201abfe2057525c548", null ]
+    [ "npc_azure_raiderAI", "d2/de7/a21355.html", "d2/de7/a21355" ],
+    [ "npc_azure_raider", "d4/dcd/a21351.html#a249abee0df263e183341193b828a310c", null ],
+    [ "GetAI", "d4/dcd/a21351.html#a88a45e3b117c5105f7541d640dda8470", null ]
 ];

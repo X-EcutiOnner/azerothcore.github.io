@@ -1,5 +1,5 @@
 var a04478 =
 [
-    [ "BuildPartyLockDungeonBlock", "d1/d6c/a04478.html#ad66b117794d47e10cfd7ba8bd40d4291", null ],
-    [ "BuildPlayerLockDungeonBlock", "d1/d6c/a04478.html#aded010efcdae2fc43acfab5ff8fbf4ad", null ]
+    [ "SHA1", "d1/d6c/a04478.html#af1f12790805678378554ea1c14b0c1df", null ],
+    [ "SRP6", "d1/d6c/a04478.html#a80857313fb18764ec6d5834e183889f8", null ]
 ];

@@ -1,7 +1,5 @@
 var a19119 =
 [
-    [ "npc_naxxramas_trigger", "d3/dd9/a19119.html#a62fd64468daf378fbe2e8f18b1f002f8", null ],
-    [ "Reset", "d3/dd9/a19119.html#a5bf85ab6027ca5101df32cda6df29b28", null ],
-    [ "UpdateAI", "d3/dd9/a19119.html#acd051dd7790aa37cd2375479433509cb", null ],
-    [ "_events", "d3/dd9/a19119.html#a1ab25fd0b40f373d30b0f60462dd276b", null ]
+    [ "npc_living_poison", "d3/dd9/a19119.html#a277440068846eac71c795880a16475dd", null ],
+    [ "UpdateAI", "d3/dd9/a19119.html#a2a6af8a9ef14e65ba9e44f2228b09ba5", null ]
 ];

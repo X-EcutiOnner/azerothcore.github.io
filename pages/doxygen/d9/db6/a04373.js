@@ -1,4 +1,4 @@
 var a04373 =
 [
-    [ "Acore::Impl::GenericBaseEncoding< Encoding >", "db/d87/a05299.html", "db/d87/a05299" ]
+    [ "EventEmitter< Signature >", "d6/d39/a05439.html", "d6/d39/a05439" ]
 ];

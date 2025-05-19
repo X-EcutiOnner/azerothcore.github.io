@@ -1,17 +1,10 @@
 var a01526 =
 [
-    [ "npc_daphne_stilwell", "d4/dee/a13675.html", "d4/dee/a13675" ],
-    [ "npc_daphne_stilwell::npc_daphne_stilwellAI", "d7/d3f/a13679.html", "d7/d3f/a13679" ],
-    [ "DaphneStilwell", "da/d0a/a01526.html#a49d1cb4d511d2524f3bf3459da05a2fd", [
-      [ "SAY_DS_START", "da/d0a/a01526.html#a49d1cb4d511d2524f3bf3459da05a2fdaa12c38d2f57b101a5272dde45bbf430e", null ],
-      [ "SAY_DS_DOWN_1", "da/d0a/a01526.html#a49d1cb4d511d2524f3bf3459da05a2fda75bd441fc5d22c60e256684d8664aa46", null ],
-      [ "SAY_DS_DOWN_2", "da/d0a/a01526.html#a49d1cb4d511d2524f3bf3459da05a2fda2fd750f4c8a0d85a69375e139be43d75", null ],
-      [ "SAY_DS_DOWN_3", "da/d0a/a01526.html#a49d1cb4d511d2524f3bf3459da05a2fda14433601b23e5a16dcc971ea746d1128", null ],
-      [ "SAY_DS_PROLOGUE", "da/d0a/a01526.html#a49d1cb4d511d2524f3bf3459da05a2fda402570a024e9b48018ca6b53ff7b83f8", null ],
-      [ "SPELL_SHOOT", "da/d0a/a01526.html#a49d1cb4d511d2524f3bf3459da05a2fda1b728fa1bb0194534b5b491d35ed871c", null ],
-      [ "QUEST_TOME_VALOR", "da/d0a/a01526.html#a49d1cb4d511d2524f3bf3459da05a2fda041a2f4b3f03948fc2f61e32e673973c", null ],
-      [ "NPC_DEFIAS_RAIDER", "da/d0a/a01526.html#a49d1cb4d511d2524f3bf3459da05a2fda8455beedf9f49cb74c0f11bfb5a83050", null ],
-      [ "EQUIP_ID_RIFLE", "da/d0a/a01526.html#a49d1cb4d511d2524f3bf3459da05a2fda31e0ac414da424f6923680055dd801d3", null ]
-    ] ],
-    [ "AddSC_westfall", "da/d0a/a01526.html#a9c6e961944f462fc3c48a6400c76266c", null ]
+    [ "EnchStoreItem", "d5/d2a/a08299.html", "d5/d2a/a08299" ],
+    [ "EnchantmentStore", "da/d0a/a01526.html#ab462bc366dd954f1c0b539c408b74c01", null ],
+    [ "EnchStoreList", "da/d0a/a01526.html#ab5e9dd6a265a402e7a9499fdaae1e850", null ],
+    [ "GenerateEnchSuffixFactor", "da/d0a/a01526.html#a25026e783b088b45eebd4db8295b1b87", null ],
+    [ "GetItemEnchantMod", "da/d0a/a01526.html#a76d03c9ceb2d3ac35582eaea4624544f", null ],
+    [ "LoadRandomEnchantmentsTable", "da/d0a/a01526.html#a376fabf7bba54eaf928217f860f1c33b", null ],
+    [ "RandomItemEnch", "da/d0a/a01526.html#a6aeb6f30f019ca8d9839fcf41beb1ac7", null ]
 ];

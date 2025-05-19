@@ -1,6 +1,6 @@
 var a22995 =
 [
-    [ "OnPeriodic", "df/db2/a22995.html#aef6afe014ce90711cd7628563aada2a4", null ],
-    [ "PrepareAuraScript", "df/db2/a22995.html#a40a98b79b445d3cebe3f195cb9c03a80", null ],
-    [ "Register", "df/db2/a22995.html#a44c261ff549ddf0b1dad5ae6d0ff2432", null ]
+    [ "HandleProc", "df/db2/a22995.html#a93dfb9e0dac89cb66f340c41dbc526bb", null ],
+    [ "PrepareAuraScript", "df/db2/a22995.html#a94b244ef26355d53c874aec6d26f3a53", null ],
+    [ "Register", "df/db2/a22995.html#a9499d88802213ceb877e19d1651324f2", null ]
 ];

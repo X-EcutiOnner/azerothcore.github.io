@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/scripts/Commands/cs_lfg.cpp File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/game/Globals/ObjectAccessor.cpp File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,118 +105,62 @@ $(document).ready(function(){initNavTree('d8/d27/a01043.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#nested-classes">Classes</a> &#124;
-<a href="#func-members">Functions</a>  </div>
-  <div class="headertitle"><div class="title">cs_lfg.cpp File Reference</div></div>
+<a href="#namespaces">Namespaces</a> &#124;
+<a href="#typedef-members">Typedefs</a> &#124;
+<a href="#func-members">Functions</a> &#124;
+<a href="#var-members">Variables</a>  </div>
+  <div class="headertitle"><div class="title">ObjectAccessor.cpp File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">Chat.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">CommandScript.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Group.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">LFGMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Language.h</a>&quot;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">ObjectAccessor.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Corpse.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Creature.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">DynamicObject.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">GameObject.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">GridNotifiers.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Map.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">MapMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">ObjectDefines.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">ObjectMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Pet.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">Player.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Transport.h</a>&quot;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
-Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/ddb/a11635.html">lfg_commandscript</a></td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="namespaces" name="namespaces"></a>
+Namespaces</h2></td></tr>
+<tr class="memitem:dc/d27/a04808"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d27/a04808.html">PlayerNameMapHolder</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="typedef-members" name="typedef-members"></a>
+Typedefs</h2></td></tr>
+<tr class="memitem:a2a540ae6cb73c9914f0253464b155227"><td class="memItemLeft" align="right" valign="top">typedef std::unordered_map&lt; std::string, <a class="el" href="../../d2/d95/a08583.html">Player</a> * &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d27/a04808.html#a2a540ae6cb73c9914f0253464b155227">PlayerNameMapHolder::MapType</a></td></tr>
+<tr class="separator:a2a540ae6cb73c9914f0253464b155227"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:a1d2591add059e8c4daf04b9f706da765"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d27/a01043.html#a1d2591add059e8c4daf04b9f706da765">GetPlayerInfo</a> (<a class="el" href="../../db/d2e/a07479.html">ChatHandler</a> *handler, <a class="el" href="../../d2/d95/a08583.html">Player</a> *player)</td></tr>
-<tr class="separator:a1d2591add059e8c4daf04b9f706da765"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a484938015a7f5ffa8f5b1d0e259d355b"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d27/a01043.html#a484938015a7f5ffa8f5b1d0e259d355b">AddSC_lfg_commandscript</a> ()</td></tr>
-<tr class="separator:a484938015a7f5ffa8f5b1d0e259d355b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3ba44f9ba2a1ff4fd122944f95ef06bd"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d27/a04808.html#a3ba44f9ba2a1ff4fd122944f95ef06bd">PlayerNameMapHolder::Insert</a> (<a class="el" href="../../d2/d95/a08583.html">Player</a> *p)</td></tr>
+<tr class="separator:a3ba44f9ba2a1ff4fd122944f95ef06bd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8f833a3f02f1e431170dd5d052b0f919"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d27/a04808.html#a8f833a3f02f1e431170dd5d052b0f919">PlayerNameMapHolder::Remove</a> (<a class="el" href="../../d2/d95/a08583.html">Player</a> *p)</td></tr>
+<tr class="separator:a8f833a3f02f1e431170dd5d052b0f919"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9c5298580060e7a6078ffb5f4008c549"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d27/a04808.html#a9c5298580060e7a6078ffb5f4008c549">PlayerNameMapHolder::RemoveByName</a> (std::string const &amp;name)</td></tr>
+<tr class="separator:a9c5298580060e7a6078ffb5f4008c549"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a42d065468e6e62b7161ba0c17e1d75ea"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/d95/a08583.html">Player</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d27/a04808.html#a42d065468e6e62b7161ba0c17e1d75ea">PlayerNameMapHolder::Find</a> (std::string const &amp;name)</td></tr>
+<tr class="separator:a42d065468e6e62b7161ba0c17e1d75ea"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
+Variables</h2></td></tr>
+<tr class="memitem:aa8fcdd0ac947e92edddddd4e2daf61dd"><td class="memItemLeft" align="right" valign="top">static MapType&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d27/a04808.html#aa8fcdd0ac947e92edddddd4e2daf61dd">PlayerNameMapHolder::PlayerNameMap</a></td></tr>
+<tr class="separator:aa8fcdd0ac947e92edddddd4e2daf61dd"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Function Documentation</h2>
-<a id="a484938015a7f5ffa8f5b1d0e259d355b" name="a484938015a7f5ffa8f5b1d0e259d355b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a484938015a7f5ffa8f5b1d0e259d355b">&#9670;&#160;</a></span>AddSC_lfg_commandscript()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void AddSC_lfg_commandscript </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  132</span>{</div>
-<div class="line"><span class="lineno">  133</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../dc/ddb/a11635.html">lfg_commandscript</a>();</div>
-<div class="line"><span class="lineno">  134</span>}</div>
-<div class="ttc" id="aa11635_html"><div class="ttname"><a href="../../dc/ddb/a11635.html">lfg_commandscript</a></div><div class="ttdef"><b>Definition:</b> cs_lfg.cpp:42</div></div>
-</div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00069">AddCommandsScripts()</a>.</p>
-
-</div>
-</div>
-<a id="a1d2591add059e8c4daf04b9f706da765" name="a1d2591add059e8c4daf04b9f706da765"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1d2591add059e8c4daf04b9f706da765">&#9670;&#160;</a></span>GetPlayerInfo()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void GetPlayerInfo </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../db/d2e/a07479.html">ChatHandler</a> *&#160;</td>
-          <td class="paramname"><em>handler</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d2/d95/a08583.html">Player</a> *&#160;</td>
-          <td class="paramname"><em>player</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   26</span>{</div>
-<div class="line"><span class="lineno">   27</span>    <span class="keywordflow">if</span> (!player)</div>
-<div class="line"><span class="lineno">   28</span>        <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">   29</span> </div>
-<div class="line"><span class="lineno">   30</span>    <a class="code hl_class" href="../../d3/d9a/a08387.html">ObjectGuid</a> guid = player-&gt;<a class="code hl_function" href="../../d6/d3a/a08339.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>();</div>
-<div class="line"><span class="lineno">   31</span>    <a class="code hl_typedef" href="../../d9/d75/a04805.html#a7f47ec56c1412d2da0ff629b760e7f5f">lfg::LfgDungeonSet</a> dungeons = <a class="code hl_define" href="../../d3/de3/a02483.html#a9876016115774ddaf27fca5cc9adb96e">sLFGMgr</a>-&gt;GetSelectedDungeons(guid);</div>
-<div class="line"><span class="lineno">   32</span> </div>
-<div class="line"><span class="lineno">   33</span>    std::string <span class="keyword">const</span>&amp; state = <a class="code hl_function" href="../../d9/d75/a04805.html#a9d097d73fe8f096de2098ac74022b643">lfg::GetStateString</a>(<a class="code hl_define" href="../../d3/de3/a02483.html#a9876016115774ddaf27fca5cc9adb96e">sLFGMgr</a>-&gt;GetState(guid));</div>
-<div class="line"><span class="lineno">   34</span>    handler-&gt;<a class="code hl_function" href="../../db/d2e/a07479.html#a54305506d6194dfdd1c1a3f30c8d1d62">PSendSysMessage</a>(<a class="code hl_enumvalue" href="../../d3/d4a/a03740.html#af9ee42b1cf006ecb2d2e74fe71c0761aa7c627f255c49c871cacb33f9a7ff70b1">LANG_LFG_PLAYER_INFO</a>, player-&gt;<a class="code hl_function" href="../../dc/d84/a08371.html#a7e67658eb5aa058bc7f46bf6b11a797c">GetName</a>(),</div>
-<div class="line"><span class="lineno">   35</span>                             state, <a class="code hl_typedef" href="../../d0/dbd/a04634.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>(dungeons.size()), <a class="code hl_function" href="../../d9/d75/a04805.html#aeaebe53b818ad905c96d2cc56c18b7ca">lfg::ConcatenateDungeons</a>(dungeons),</div>
-<div class="line"><span class="lineno">   36</span>                             <a class="code hl_function" href="../../d9/d75/a04805.html#adc336ffd636b51b0052448739671d46b">lfg::GetRolesString</a>(<a class="code hl_define" href="../../d3/de3/a02483.html#a9876016115774ddaf27fca5cc9adb96e">sLFGMgr</a>-&gt;GetRoles(guid)), <a class="code hl_define" href="../../d3/de3/a02483.html#a9876016115774ddaf27fca5cc9adb96e">sLFGMgr</a>-&gt;GetComment(guid));</div>
-<div class="line"><span class="lineno">   37</span>}</div>
-<div class="ttc" id="aa02483_html_a9876016115774ddaf27fca5cc9adb96e"><div class="ttname"><a href="../../d3/de3/a02483.html#a9876016115774ddaf27fca5cc9adb96e">sLFGMgr</a></div><div class="ttdeci">#define sLFGMgr</div><div class="ttdef"><b>Definition:</b> LFGMgr.h:641</div></div>
-<div class="ttc" id="aa03740_html_af9ee42b1cf006ecb2d2e74fe71c0761aa7c627f255c49c871cacb33f9a7ff70b1"><div class="ttname"><a href="../../d3/d4a/a03740.html#af9ee42b1cf006ecb2d2e74fe71c0761aa7c627f255c49c871cacb33f9a7ff70b1">LANG_LFG_PLAYER_INFO</a></div><div class="ttdeci">@ LANG_LFG_PLAYER_INFO</div><div class="ttdef"><b>Definition:</b> Language.h:1177</div></div>
-<div class="ttc" id="aa04634_html_a15a8d014fadf85c99a2268d8cbd00767"><div class="ttname"><a href="../../d0/dbd/a04634.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></div><div class="ttdeci">std::uint8_t uint8</div><div class="ttdef"><b>Definition:</b> Define.h:109</div></div>
-<div class="ttc" id="aa04805_html_a7f47ec56c1412d2da0ff629b760e7f5f"><div class="ttname"><a href="../../d9/d75/a04805.html#a7f47ec56c1412d2da0ff629b760e7f5f">lfg::LfgDungeonSet</a></div><div class="ttdeci">std::set&lt; uint32 &gt; LfgDungeonSet</div><div class="ttdef"><b>Definition:</b> LFG.h:106</div></div>
-<div class="ttc" id="aa04805_html_a9d097d73fe8f096de2098ac74022b643"><div class="ttname"><a href="../../d9/d75/a04805.html#a9d097d73fe8f096de2098ac74022b643">lfg::GetStateString</a></div><div class="ttdeci">std::string GetStateString(LfgState state)</div><div class="ttdef"><b>Definition:</b> LFG.cpp:73</div></div>
-<div class="ttc" id="aa04805_html_adc336ffd636b51b0052448739671d46b"><div class="ttname"><a href="../../d9/d75/a04805.html#adc336ffd636b51b0052448739671d46b">lfg::GetRolesString</a></div><div class="ttdeci">std::string GetRolesString(uint8 roles)</div><div class="ttdef"><b>Definition:</b> LFG.cpp:39</div></div>
-<div class="ttc" id="aa04805_html_aeaebe53b818ad905c96d2cc56c18b7ca"><div class="ttname"><a href="../../d9/d75/a04805.html#aeaebe53b818ad905c96d2cc56c18b7ca">lfg::ConcatenateDungeons</a></div><div class="ttdeci">std::string ConcatenateDungeons(LfgDungeonSet const &amp;dungeons)</div><div class="ttdef"><b>Definition:</b> LFG.cpp:24</div></div>
-<div class="ttc" id="aa07479_html_a54305506d6194dfdd1c1a3f30c8d1d62"><div class="ttname"><a href="../../db/d2e/a07479.html#a54305506d6194dfdd1c1a3f30c8d1d62">ChatHandler::PSendSysMessage</a></div><div class="ttdeci">void PSendSysMessage(std::string_view str, bool escapeCharacters=false)</div><div class="ttdef"><b>Definition:</b> Chat.cpp:211</div></div>
-<div class="ttc" id="aa08339_html_ad23b997e2442fa6a6228ba73a7ecc138"><div class="ttname"><a href="../../d6/d3a/a08339.html#ad23b997e2442fa6a6228ba73a7ecc138">Object::GetGUID</a></div><div class="ttdeci">static ObjectGuid GetGUID(Object const *o)</div><div class="ttdef"><b>Definition:</b> Object.h:113</div></div>
-<div class="ttc" id="aa08371_html_a7e67658eb5aa058bc7f46bf6b11a797c"><div class="ttname"><a href="../../dc/d84/a08371.html#a7e67658eb5aa058bc7f46bf6b11a797c">WorldObject::GetName</a></div><div class="ttdeci">std::string const &amp; GetName() const</div><div class="ttdef"><b>Definition:</b> Object.h:464</div></div>
-<div class="ttc" id="aa08387_html"><div class="ttname"><a href="../../d3/d9a/a08387.html">ObjectGuid</a></div><div class="ttdef"><b>Definition:</b> ObjectGuid.h:118</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00024">lfg::ConcatenateDungeons()</a>, <a class="el" href="../../#l00113">Object::GetGUID()</a>, <a class="el" href="../../#l00464">WorldObject::GetName()</a>, <a class="el" href="../../#l00039">lfg::GetRolesString()</a>, <a class="el" href="../../#l00073">lfg::GetStateString()</a>, <a class="el" href="../../#l01177">LANG_LFG_PLAYER_INFO</a>, <a class="el" href="../../#l00211">ChatHandler::PSendSysMessage()</a>, and <a class="el" href="../../#l00641">sLFGMgr</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00080">lfg_commandscript::HandleLfgGroupInfoCommand()</a>, and <a class="el" href="../../#l00064">lfg_commandscript::HandleLfgPlayerInfoCommand()</a>.</p>
-
-</div>
-</div>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_2519615cc1c93425dacf3aa6e071da7e.html">Commands</a></li><li class="navelem"><a class="el" href="../../d8/d27/a01043.html">cs_lfg.cpp</a></li>
-    <li class="footer">Generated on Mon May 12 2025 20:45:18 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_a12bdf17fc4860c5ac78d8e274fbb711.html">Globals</a></li><li class="navelem"><a class="el" href="../../d8/d27/a01043.html">ObjectAccessor.cpp</a></li>
+    <li class="footer">Generated on Mon May 19 2025 20:44:47 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

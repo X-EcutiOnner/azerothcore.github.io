@@ -1,7 +1,7 @@
 var a14163 =
 [
-    [ "HandleScriptEffect", "de/d13/a14163.html#ae758c224878aebdde0124b5d4ec902a5", null ],
-    [ "PrepareSpellScript", "de/d13/a14163.html#ac3755ef09a905d90ce7df328b83d51aa", null ],
-    [ "Register", "de/d13/a14163.html#a051d0fe383e5675e39e4ac8ed7a6e329", null ],
-    [ "Validate", "de/d13/a14163.html#a56f71954e122f651c6e2ec68453e16cc", null ]
+    [ "FilterTargets", "de/d13/a14163.html#af3954bbcbce6de5d4ddadd2af0ecac91", null ],
+    [ "HandleDummy", "de/d13/a14163.html#ad3688071ca786bbb4c27d5632d1a1e56", null ],
+    [ "PrepareSpellScript", "de/d13/a14163.html#a6ac4db072beae6ae7a700774667da613", null ],
+    [ "Register", "de/d13/a14163.html#ae981ec2b7e097ad0fe924df7738da5b7", null ]
 ];

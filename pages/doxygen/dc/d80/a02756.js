@@ -1,12 +1,33 @@
 var a02756 =
 [
-    [ "PacketHandler< PacketClass, HandlerFunction >", "dd/dee/a10883.html", "dd/dee/a10883" ],
-    [ "PacketHandler< WorldPacket, HandlerFunction >", "de/def/a10887.html", "de/def/a10887" ],
-    [ "get_packet_class< T >", "dd/db5/a10891.html", null ],
-    [ "get_packet_class< void(WorldSession::*)(PacketClass &)>", "d3/d6e/a10895.html", "d3/d6e/a10895" ],
-    [ "DEFINE_HANDLER", "dc/d80/a02756.html#ab23af9582942bed23ea9ab4a8747c67c", null ],
-    [ "DEFINE_SERVER_OPCODE_HANDLER", "dc/d80/a02756.html#a4bcb2df62d580f2bb5ab3c2aa5b35f5e", null ],
-    [ "GetOpcodeNameForLogging", "df/d9b/a04755.html#ga699f5666ad5594443aa2ca21df85a1d3", null ],
-    [ "GetOpcodeNameForLoggingImpl", "dc/d80/a02756.html#a0adf4b5d8c638656581d9a62be18539e", null ],
-    [ "opcodeTable", "df/d9b/a04755.html#gaab348862a5b8f265e05e5b0ac296162a", null ]
+    [ "npc_belnistrasz", "d7/d7d/a14827.html", "d7/d7d/a14827" ],
+    [ "npc_belnistrasz::npc_belnistraszAI", "d0/db5/a14831.html", "d0/db5/a14831" ],
+    [ "npc_idol_room_spawner", "d7/d56/a14835.html", "d7/d56/a14835" ],
+    [ "npc_idol_room_spawner::npc_idol_room_spawnerAI", "d8/dae/a14839.html", "d8/dae/a14839" ],
+    [ "Belnistrasz", "dc/d80/a02756.html#ab761030cc73179b77506cee80e54afba", [
+      [ "EVENT_CHANNEL", "dc/d80/a02756.html#ab761030cc73179b77506cee80e54afbaa328cf2425c283ee53d5cb9d660a11034", null ],
+      [ "EVENT_IDOL_ROOM_SPAWNER", "dc/d80/a02756.html#ab761030cc73179b77506cee80e54afbaa1a8dd12063e47b2533422a696ec5fe63", null ],
+      [ "EVENT_PROGRESS", "dc/d80/a02756.html#ab761030cc73179b77506cee80e54afbaa9edbfcbbe26666eab8693f9b070f1635", null ],
+      [ "EVENT_COMPLETE", "dc/d80/a02756.html#ab761030cc73179b77506cee80e54afbaa277c4ceb154c858f20df1a3b2b9f23c0", null ],
+      [ "EVENT_FIREBALL", "dc/d80/a02756.html#ab761030cc73179b77506cee80e54afbaa2f41794aafc9d878c1d2e3aa735cbf44", null ],
+      [ "EVENT_FROST_NOVA", "dc/d80/a02756.html#ab761030cc73179b77506cee80e54afbaabdc6cc62f4c38145542e5be0485df2fc", null ],
+      [ "PATH_ESCORT", "dc/d80/a02756.html#ab761030cc73179b77506cee80e54afbaaad37e5267c61b3154576082cc5f0d943", null ],
+      [ "POINT_REACH_IDOL", "dc/d80/a02756.html#ab761030cc73179b77506cee80e54afbaac918f6177e0a19d346c351646dc8e53a", null ],
+      [ "QUEST_EXTINGUISHING_THE_IDOL", "dc/d80/a02756.html#ab761030cc73179b77506cee80e54afbaab86f59506288a17715a05dc6c3cc9c5e", null ],
+      [ "SAY_QUEST_ACCEPTED", "dc/d80/a02756.html#ab761030cc73179b77506cee80e54afbaaae4435ce02d8a471af2a02586524d6f5", null ],
+      [ "SAY_EVENT_START", "dc/d80/a02756.html#ab761030cc73179b77506cee80e54afbaa5b99398ffec3de91807ff5682f0a7478", null ],
+      [ "SAY_EVENT_THREE_MIN_LEFT", "dc/d80/a02756.html#ab761030cc73179b77506cee80e54afbaa1c27a8e990dc6e00c87e33609397f44a", null ],
+      [ "SAY_EVENT_TWO_MIN_LEFT", "dc/d80/a02756.html#ab761030cc73179b77506cee80e54afbaa083570db82270d8a62a772524057254f", null ],
+      [ "SAY_EVENT_ONE_MIN_LEFT", "dc/d80/a02756.html#ab761030cc73179b77506cee80e54afbaab32dce7b44868931f08d3604a802dd44", null ],
+      [ "SAY_EVENT_END", "dc/d80/a02756.html#ab761030cc73179b77506cee80e54afbaa5f86762aa27777e2322b2e11a3120364", null ],
+      [ "SAY_AGGRO", "dc/d80/a02756.html#ab761030cc73179b77506cee80e54afbaa47c752fff069f3e55065795eef2a9bfe", null ],
+      [ "SAY_WATCH_OUT", "dc/d80/a02756.html#ab761030cc73179b77506cee80e54afbaaab3d1089e4f3d2693a0a9c5cdc810405", null ],
+      [ "SPELL_ARCANE_INTELLECT", "dc/d80/a02756.html#ab761030cc73179b77506cee80e54afbaa7f0e5071bc08579a814ae1cb62cc37e4", null ],
+      [ "SPELL_FIREBALL", "dc/d80/a02756.html#ab761030cc73179b77506cee80e54afbaa846055c995374082714483a6b39bc963", null ],
+      [ "SPELL_FROST_NOVA", "dc/d80/a02756.html#ab761030cc73179b77506cee80e54afbaab913503b67c5b8f901cfc4f207bcba03", null ],
+      [ "SPELL_IDOL_SHUTDOWN_VISUAL", "dc/d80/a02756.html#ab761030cc73179b77506cee80e54afbaa947ac08dacf61227418026a59dcab75e", null ],
+      [ "SPELL_IDOM_ROOM_CAMERA_SHAKE", "dc/d80/a02756.html#ab761030cc73179b77506cee80e54afbaa767a89efdf4df9a9978449bdddd9be52", null ]
+    ] ],
+    [ "AddSC_razorfen_downs", "dc/d80/a02756.html#aa1cc9839b8806bd940e01edfee8b8cee", null ],
+    [ "PosSummonSpawner", "dc/d80/a02756.html#a72b7e5a7b680a19d8c3fe8378e61f1b9", null ]
 ];

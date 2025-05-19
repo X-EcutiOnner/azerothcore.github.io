@@ -1,6 +1,6 @@
 var a15979 =
 [
-    [ "boss_halionAI", "d7/ddb/a15983.html", "d7/ddb/a15983" ],
-    [ "boss_halion", "db/da5/a15979.html#a94b35248cedbf08b0a1f219c4c28c269", null ],
-    [ "GetAI", "db/da5/a15979.html#a142314efb4f45ec146ab0225271d29b1", null ]
+    [ "SendEncounterUnit", "db/da5/a15979.html#a5300ba7c1a8001bbf52c56fc2e5dc331", null ],
+    [ "Execute", "db/da5/a15979.html#ae21b67f8fe8a0677778436563872495f", null ],
+    [ "_owner", "db/da5/a15979.html#a6e1569fb7fa159fe702defbab1e123b6", null ]
 ];

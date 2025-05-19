@@ -1,12 +1,6 @@
 var a04553 =
 [
-    [ "MMAP::MMapFactory", "d9/d31/a04951.html", "d9/d31/a04951" ],
-    [ "MMAP_LOAD_RESULT", "d3/d56/a04553.html#a329271d76c3ed7ad6d255d45094b4868", [
-      [ "MMAP_LOAD_RESULT_ERROR", "d3/d56/a04553.html#a329271d76c3ed7ad6d255d45094b4868a66ec06574c26cbc0b14b939c3cb09f85", null ],
-      [ "MMAP_LOAD_RESULT_OK", "d3/d56/a04553.html#a329271d76c3ed7ad6d255d45094b4868ad7493681e0258dd1099139230f17df10", null ],
-      [ "MMAP_LOAD_RESULT_IGNORED", "d3/d56/a04553.html#a329271d76c3ed7ad6d255d45094b4868a87dfee65ac7d1c8acf69eea806a151c8", null ],
-      [ "MMAP_LOAD_RESULT_ERROR", "d3/d56/a04553.html#a329271d76c3ed7ad6d255d45094b4868a66ec06574c26cbc0b14b939c3cb09f85", null ],
-      [ "MMAP_LOAD_RESULT_OK", "d3/d56/a04553.html#a329271d76c3ed7ad6d255d45094b4868ad7493681e0258dd1099139230f17df10", null ],
-      [ "MMAP_LOAD_RESULT_IGNORED", "d3/d56/a04553.html#a329271d76c3ed7ad6d255d45094b4868a87dfee65ac7d1c8acf69eea806a151c8", null ]
-    ] ]
+    [ "GetDefaultNetmaskV4", "d3/d56/a04553.html#af75b2c10ca445dc89c53b7ed8d17eae0", null ],
+    [ "IsInNetwork", "d3/d56/a04553.html#af108d05a57113d16ab9c8f3b26870be2", null ],
+    [ "IsInNetwork", "d3/d56/a04553.html#a2617cb1c747a45e5af4e2c32cc29d5de", null ]
 ];

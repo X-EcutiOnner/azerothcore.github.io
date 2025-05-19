@@ -1,10 +1,22 @@
 var a00965 =
 [
-    [ "ban_commandscript", "db/d6b/a11543.html", "db/d6b/a11543" ],
-    [ "BanMode", "d3/dcd/a00965.html#aee9acfaac97a86a40bad738a75eb5264", [
-      [ "BAN_ACCOUNT", "d3/dcd/a00965.html#aee9acfaac97a86a40bad738a75eb5264a7092b1d29da920594bf62c7abe0e9ba1", null ],
-      [ "BAN_CHARACTER", "d3/dcd/a00965.html#aee9acfaac97a86a40bad738a75eb5264ab7cde4c4b1dd975c191f10ab0b18ab79", null ],
-      [ "BAN_IP", "d3/dcd/a00965.html#aee9acfaac97a86a40bad738a75eb5264ab68a6a6d80749ee19c73fc9dd4f4d74b", null ]
-    ] ],
-    [ "AddSC_ban_commandscript", "d3/dcd/a00965.html#aac8ae57b7b7f9ef5cb5aa2975ef444ff", null ]
+    [ "ScriptPointMove", "d7/d53/a10399.html", "d7/d53/a10399" ],
+    [ "SystemMgr", "d1/d0b/a10403.html", "d1/d0b/a10403" ],
+    [ "sScriptSystemMgr", "d3/dcd/a00965.html#a95cfdf568913b08b669f19b401f888a7", null ],
+    [ "TEXT_SOURCE_RANGE", "d3/dcd/a00965.html#a55d384db121a9bd513042ebdeb40e602", null ],
+    [ "ScriptPointVector", "d3/dcd/a00965.html#aab50bb2bd1f4c2c015d1ed573408733a", null ],
+    [ "eEscortFaction", "d3/dcd/a00965.html#a3c2424ea523bc5d5e44a7fa49a67f476", [
+      [ "FACTION_ESCORT_A_NEUTRAL_PASSIVE", "d3/dcd/a00965.html#a3c2424ea523bc5d5e44a7fa49a67f476ae8f5cc64dc2681d7820b83cf2706b6d9", null ],
+      [ "FACTION_ESCORT_H_NEUTRAL_PASSIVE", "d3/dcd/a00965.html#a3c2424ea523bc5d5e44a7fa49a67f476a76f714900c0c47ea2066410f61de6bea", null ],
+      [ "FACTION_ESCORT_N_NEUTRAL_PASSIVE", "d3/dcd/a00965.html#a3c2424ea523bc5d5e44a7fa49a67f476a19efd80bb177a094d312d3ad2c957e54", null ],
+      [ "FACTION_ESCORT_A_NEUTRAL_ACTIVE", "d3/dcd/a00965.html#a3c2424ea523bc5d5e44a7fa49a67f476a38e0e3e6e5620e31120d084e73b63cf1", null ],
+      [ "FACTION_ESCORT_H_NEUTRAL_ACTIVE", "d3/dcd/a00965.html#a3c2424ea523bc5d5e44a7fa49a67f476aa2786ec02fa5514ae8d0091a51d8dd04", null ],
+      [ "FACTION_ESCORT_N_NEUTRAL_ACTIVE", "d3/dcd/a00965.html#a3c2424ea523bc5d5e44a7fa49a67f476aed8fe9002c1d3c315038f7df31c6f7ae", null ],
+      [ "FACTION_ESCORT_N_FRIEND_PASSIVE", "d3/dcd/a00965.html#a3c2424ea523bc5d5e44a7fa49a67f476aac0cf8b8049ca4f1750637f7eaa1d96b", null ],
+      [ "FACTION_ESCORT_N_FRIEND_ACTIVE", "d3/dcd/a00965.html#a3c2424ea523bc5d5e44a7fa49a67f476af9b814fa1617dc2a10a9764234998470", null ],
+      [ "FACTION_ESCORT_A_PASSIVE", "d3/dcd/a00965.html#a3c2424ea523bc5d5e44a7fa49a67f476a569c2ddb2269af72a41a1a3cd525b013", null ],
+      [ "FACTION_ESCORT_H_PASSIVE", "d3/dcd/a00965.html#a3c2424ea523bc5d5e44a7fa49a67f476ad766637f2bae4d1bbb75b2ac4ffd7e73", null ],
+      [ "FACTION_ESCORT_N_ACTIVE", "d3/dcd/a00965.html#a3c2424ea523bc5d5e44a7fa49a67f476a088789de59f359faa6e7270fbc3282cb", null ],
+      [ "FACTION_ESCORT_H_ACTIVE", "d3/dcd/a00965.html#a3c2424ea523bc5d5e44a7fa49a67f476aa84d311b43a21c70f8891649f42f48cb", null ]
+    ] ]
 ];

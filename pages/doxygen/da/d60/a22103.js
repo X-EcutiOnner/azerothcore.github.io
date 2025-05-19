@@ -1,6 +1,6 @@
 var a22103 =
 [
-    [ "npc_bushwhackerAI", "da/d60/a22103.html#a0cf480b75aa45a9f3572c4a65df2daee", null ],
-    [ "InitializeAI", "da/d60/a22103.html#a18db5870e62378ff49472f7a5881861c", null ],
-    [ "UpdateAI", "da/d60/a22103.html#aadc3384626d728942897fe93750f0c02", null ]
+    [ "npc_bushwhackerAI", "dd/d72/a22107.html", "dd/d72/a22107" ],
+    [ "npc_bushwhacker", "da/d60/a22103.html#ad87a9fdec3d5dbaef429c88905a5f6e8", null ],
+    [ "GetAI", "da/d60/a22103.html#ab3190b66069e820abf3637bb877066a0", null ]
 ];

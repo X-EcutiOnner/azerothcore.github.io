@@ -1,10 +1,7 @@
 var a00959 =
 [
-    [ "AddPetScripts", "db/d40/a00959.html#aaeb6a149e6495db19023f37a4f8bd882", null ],
-    [ "AddSC_deathknight_pet_scripts", "db/d40/a00959.html#ac6a5b089240cd6b996928b3e7f9137b3", null ],
-    [ "AddSC_generic_pet_scripts", "db/d40/a00959.html#a9852812a043673e45884dca938eff157", null ],
-    [ "AddSC_hunter_pet_scripts", "db/d40/a00959.html#ab89117a79c55f003f82b06a1878e6534", null ],
-    [ "AddSC_mage_pet_scripts", "db/d40/a00959.html#a689a4efb7777f4164aee994745a0e2d2", null ],
-    [ "AddSC_priest_pet_scripts", "db/d40/a00959.html#ac0eaa77dc1cb9a092b318e3bc3f6d5b8", null ],
-    [ "AddSC_shaman_pet_scripts", "db/d40/a00959.html#ab07e634ed761985e07d5c0e10f329231", null ]
+    [ "ScriptObject", "d1/d72/a10387.html", "d1/d72/a10387" ],
+    [ "UpdatableScript< TObject >", "d4/d2b/a10391.html", "d4/d2b/a10391" ],
+    [ "MapScript< TMap >", "dd/da9/a10395.html", "dd/da9/a10395" ],
+    [ "VISIBLE_RANGE", "db/d40/a00959.html#ac7e3013df774904b0d331e5b0c6e93ad", null ]
 ];

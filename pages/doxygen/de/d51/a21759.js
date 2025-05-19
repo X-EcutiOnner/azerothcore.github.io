@@ -1,8 +1,6 @@
 var a21759 =
 [
-    [ "npc_q24545_vegardAI", "de/d51/a21759.html#a6a86b56508a86bf32ab5fb2bd46248c9", null ],
-    [ "JustDied", "de/d51/a21759.html#a1f7784242bbaf39d0fb105d2930da37c", null ],
-    [ "KilledUnit", "de/d51/a21759.html#a2d78117a6c2a29f52f1905595425964a", null ],
-    [ "UpdateAI", "de/d51/a21759.html#a79cc34760b58ad4b29c6a0a496971f0a", null ],
-    [ "events", "de/d51/a21759.html#a68f48d92cc5559025e635d599c2882e3", null ]
+    [ "npc_q24545_vegardAI", "da/d26/a21763.html", "da/d26/a21763" ],
+    [ "npc_q24545_vegard", "de/d51/a21759.html#ac12e2f143fab6b93950eaea06f5f7d85", null ],
+    [ "GetAI", "de/d51/a21759.html#a9a7accfb3eea9f08efbb82fbd4bd7e76", null ]
 ];

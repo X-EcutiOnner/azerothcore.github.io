@@ -1,6 +1,6 @@
 var a17743 =
 [
-    [ "boss_professor_putricideAI", "d4/dd1/a17747.html", "d4/dd1/a17747" ],
-    [ "boss_professor_putricide", "de/ded/a17743.html#a80776dad5c0205aa6a98752f43e85e32", null ],
-    [ "GetAI", "de/ded/a17743.html#a7c84089d24bb0c77a5203884254e0925", null ]
+    [ "MalleableGooSelector", "de/ded/a17743.html#a5adb1e89ab7d5733514a8fefc5de6a35", null ],
+    [ "operator()", "de/ded/a17743.html#adf73957539fdcc604f849944473e0015", null ],
+    [ "me", "de/ded/a17743.html#a6cd991b360895b4b3405f0cd9e63879f", null ]
 ];

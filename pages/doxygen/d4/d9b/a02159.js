@@ -1,7 +1,5 @@
 var a02159 =
 [
-    [ "ArenaTeamFilter", "db/db6/a07219.html", "db/db6/a07219" ],
-    [ "ArenaTeamFilterByTypes", "de/dbb/a07223.html", "de/dbb/a07223" ],
-    [ "ArenaTeamFilterAllTeams", "d7/d46/a07227.html", "d7/d46/a07227" ],
-    [ "ArenaTeamFilterFactoryByUserInput", "d7/dbb/a07231.html", "d7/dbb/a07231" ]
+    [ "modify_commandscript", "d6/d6a/a11659.html", "d6/d6a/a11659" ],
+    [ "AddSC_modify_commandscript", "d4/d9b/a02159.html#a9cbb6ad3c630cbeb9ba39b4552f72e87", null ]
 ];

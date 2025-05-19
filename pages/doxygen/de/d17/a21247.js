@@ -1,11 +1,6 @@
 var a21247 =
 [
-    [ "npc_ichor_globuleAI", "de/d17/a21247.html#a4d581f89c8385276fd407c000af9e569", null ],
-    [ "AttackStart", "de/d17/a21247.html#aa4e1fc88a26d6ef41f1ca96c93abbc1a", null ],
-    [ "JustDied", "de/d17/a21247.html#ad29c7659590933b0749e8e1c2c2e4c46", null ],
-    [ "MoveInLineOfSight", "de/d17/a21247.html#af8ef8296512d57d934a171f1a5060e73", null ],
-    [ "SpellHit", "de/d17/a21247.html#a1396538a446545408e3c304f3e56400f", null ],
-    [ "UpdateAI", "de/d17/a21247.html#a6ff13c853583e5178fb3a690e17303de", null ],
-    [ "pInstance", "de/d17/a21247.html#a94cbe93a69a28171fc3d91d71b6ec419", null ],
-    [ "uiRangeCheck_Timer", "de/d17/a21247.html#a99914a55d2dc0b36a623dc7d6248e953", null ]
+    [ "npc_ichor_globuleAI", "d0/ddf/a21251.html", "d0/ddf/a21251" ],
+    [ "npc_ichor_globule", "de/d17/a21247.html#a4dbd3b057e319ba83e0e1c94b99cd2ab", null ],
+    [ "GetAI", "de/d17/a21247.html#a4fed5ebd2e1b6ff6867a9488a6e1aef2", null ]
 ];

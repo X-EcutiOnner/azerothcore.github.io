@@ -1,6 +1,5 @@
 var a22383 =
 [
-    [ "npc_storm_cloudAI", "d1/ded/a22387.html", "d1/ded/a22387" ],
-    [ "npc_storm_cloud", "dc/dad/a22383.html#a8403185cdf54b2924024ba1d1d44a06a", null ],
-    [ "GetAI", "dc/dad/a22383.html#a952bd1cf5406b989182d8560d8b9e665", null ]
+    [ "go_scourge_enclosure", "dc/dad/a22383.html#a3611232cb735f336087d4d3c90f66b8d", null ],
+    [ "OnGossipHello", "dc/dad/a22383.html#af505dd0a5d9224cd7586878d1fbd3351", null ]
 ];

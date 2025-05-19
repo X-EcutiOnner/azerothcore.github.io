@@ -1,7 +1,7 @@
 var a17111 =
 [
-    [ "HandleScriptEffect", "d9/dc9/a17111.html#a6469efa0e1fabaf1cb366f119a1158c1", null ],
-    [ "PrepareSpellScript", "d9/dc9/a17111.html#aac410690d906867216b40a49d8f15318", null ],
-    [ "Register", "d9/dc9/a17111.html#ae8c7acabe93fc33d13f0b8848415eabf", null ],
-    [ "Validate", "d9/dc9/a17111.html#a88c3961d5757dd0c75be4acc7de6e45b", null ]
+    [ "HandleApplyAura", "d9/dc9/a17111.html#ac71784d7d135df4828ddcf5c85c4301c", null ],
+    [ "PrepareSpellScript", "d9/dc9/a17111.html#a097bf3b27e4b2d9ceddea07b9c0b8ce9", null ],
+    [ "Register", "d9/dc9/a17111.html#a80638966202cb9e27d204ea621e379ef", null ],
+    [ "Validate", "d9/dc9/a17111.html#aaa3505a74905b91f52e37b0ded0ba7fd", null ]
 ];

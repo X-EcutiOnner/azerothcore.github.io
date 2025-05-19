@@ -1,9 +1,6 @@
 var a23935 =
 [
-    [ "npc_aeranasAI", "d9/d6c/a23935.html#a2142cebc84e64919fa5c2ef630453282", null ],
-    [ "Reset", "d9/d6c/a23935.html#a2c1bbe079c065745782adfa13b030515", null ],
-    [ "UpdateAI", "d9/d6c/a23935.html#ae192a3b38c0ec65cddfce3b95d15555a", null ],
-    [ "envelopingWinds_Timer", "d9/d6c/a23935.html#a566b5d648abe630efc191f9d6d4938a2", null ],
-    [ "faction_Timer", "d9/d6c/a23935.html#aac071887c100f91cc7ffc545ea6439d9", null ],
-    [ "shock_Timer", "d9/d6c/a23935.html#aba8ad016f0e470b07163fef07b603380", null ]
+    [ "npc_aeranasAI", "d8/daf/a23939.html", "d8/daf/a23939" ],
+    [ "npc_aeranas", "d9/d6c/a23935.html#a6ea71481ef6a223a329b805081122537", null ],
+    [ "GetAI", "d9/d6c/a23935.html#a81167df6665bdca81ee13468dec19643", null ]
 ];

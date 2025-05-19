@@ -1,46 +1,39 @@
 var a02390 =
 [
-    [ "Object", "d6/d3a/a08339.html", "d6/d3a/a08339" ],
-    [ "MovementInfo", "dd/d95/a08347.html", "dd/d95/a08347" ],
-    [ "MovementInfo::TransportInfo", "df/d8c/a08351.html", "df/d8c/a08351" ],
-    [ "MovementInfo::JumpInfo", "d2/d96/a08355.html", "d2/d96/a08355" ],
-    [ "GridObject< T >", "d3/d11/a08359.html", "d3/d11/a08359" ],
-    [ "FlaggedValuesArray32< T_VALUES, T_FLAGS, FLAG_TYPE, ARRAY_SIZE >", "d0/d5d/a08363.html", "d0/d5d/a08363" ],
-    [ "MovableMapObject", "d6/d08/a08367.html", "d6/d08/a08367" ],
-    [ "WorldObject", "dc/d84/a08371.html", "dc/d84/a08371" ],
-    [ "Acore::ObjectDistanceOrderPred", "db/df1/a08375.html", "db/df1/a08375" ],
-    [ "UpdateDataMapType", "d6/dff/a02390.html#ac58dd2c514e262c6b68700fb72c69231", null ],
-    [ "UpdatePlayerSet", "d6/dff/a02390.html#abc4c822bd43dd0c1ea669b791c856405", null ],
-    [ "GOSummonType", "d6/dff/a02390.html#a3f5846dbc17f13c4c2b88a15593bbfba", [
-      [ "GO_SUMMON_TIMED_OR_CORPSE_DESPAWN", "d6/dff/a02390.html#a3f5846dbc17f13c4c2b88a15593bbfbaa842fffe6e187c8821e8b7f1cdbbcaac1", null ],
-      [ "GO_SUMMON_TIMED_DESPAWN", "d6/dff/a02390.html#a3f5846dbc17f13c4c2b88a15593bbfbaa740b94fbb874c9de6553b126eeff3e50", null ]
+    [ "spell_winter_veil_mistletoe", "df/d3a/a14463.html", "df/d3a/a14463" ],
+    [ "spell_winter_wondervolt_trap", "dc/d1e/a14467.html", "dc/d1e/a14467" ],
+    [ "spell_winter_veil_racer_rocket_slam", "dd/d02/a14471.html", "dd/d02/a14471" ],
+    [ "spell_winter_veil_racer_slam_hit", "dd/d54/a14475.html", "dd/d54/a14475" ],
+    [ "spell_winter_veil_shoot_air_rifle", "d1/d1f/a14479.html", "d1/d1f/a14479" ],
+    [ "airRifle", "d6/dff/a02390.html#a0a0aa9e1464024e9f2c7b6ec598e13ff", [
+      [ "SPELL_AIR_RIFLE_RIGHT_IN_THE_EYE", "d6/dff/a02390.html#a0a0aa9e1464024e9f2c7b6ec598e13ffa5a3aacd3d3eb74e1020f0e24c3de3d64", null ],
+      [ "SPELL_AIR_RIFLE_STARLED", "d6/dff/a02390.html#a0a0aa9e1464024e9f2c7b6ec598e13ffaab4b4a71800d5b266ac17392701535bd", null ],
+      [ "SPELL_AIR_RIFLE_HIT", "d6/dff/a02390.html#a0a0aa9e1464024e9f2c7b6ec598e13ffadebbc458f6f97c23c78a5d77355557a0", null ],
+      [ "SPELL_AIR_RIFLE_HIT_TRIGGER", "d6/dff/a02390.html#a0a0aa9e1464024e9f2c7b6ec598e13ffaef31b2903ed373a76624e81b5928b3af", null ],
+      [ "SPELL_AIR_RIFLE_PELTED_DAMAGE", "d6/dff/a02390.html#a0a0aa9e1464024e9f2c7b6ec598e13ffada448247eeb3a3e93e78e6d367af2ea4", null ]
     ] ],
-    [ "MapObjectCellMoveState", "d6/dff/a02390.html#a1833d9b1810b160d0c00f297af237b07", [
-      [ "MAP_OBJECT_CELL_MOVE_NONE", "d6/dff/a02390.html#a1833d9b1810b160d0c00f297af237b07afb882558defaa808483ae0d24e1d12e1", null ],
-      [ "MAP_OBJECT_CELL_MOVE_ACTIVE", "d6/dff/a02390.html#a1833d9b1810b160d0c00f297af237b07acdf663aceba2a09ee27f33056500cf58", null ],
-      [ "MAP_OBJECT_CELL_MOVE_INACTIVE", "d6/dff/a02390.html#a1833d9b1810b160d0c00f297af237b07a08ca33ead1d9abd8a15f213e09e1e23a", null ]
+    [ "crashinTrashin", "d6/dff/a02390.html#a91189806a3728bf253348c6acff4d44a", [
+      [ "SPELL_BLUE_CAR_VISUAL", "d6/dff/a02390.html#a91189806a3728bf253348c6acff4d44aa2a1df012693fca95e41c96fe1dcfc303", null ],
+      [ "SPELL_RED_CAR_VISUAL", "d6/dff/a02390.html#a91189806a3728bf253348c6acff4d44aa83ccfea77911f91274ab6b76a13ebae9", null ],
+      [ "NPC_RED_RACER", "d6/dff/a02390.html#a91189806a3728bf253348c6acff4d44aa3a540ecf55e0e9719a7b1ecc0d089e83", null ],
+      [ "NPC_BLUE_RACER", "d6/dff/a02390.html#a91189806a3728bf253348c6acff4d44aa29832a92f722fc5ef6e6e0e28c43ace3", null ],
+      [ "SPELL_RACER_DEATH_VISUAL", "d6/dff/a02390.html#a91189806a3728bf253348c6acff4d44aa20ebf97f0f750e11499595b1e7908b4e", null ],
+      [ "SPELL_RACER_CHARGE_TO_OBJECT", "d6/dff/a02390.html#a91189806a3728bf253348c6acff4d44aa16c954e8ddff4772f6cc38ccdaa4537a", null ],
+      [ "SPELL_RACER_KILL_COUNTER", "d6/dff/a02390.html#a91189806a3728bf253348c6acff4d44aad39b98fd63372c2d7f9b59e290a38a68", null ],
+      [ "SPELL_RACER_SLAM_HIT", "d6/dff/a02390.html#a91189806a3728bf253348c6acff4d44aaf80af723709c8607c78c552286259f0b", null ],
+      [ "SPELL_RACER_FLAMES", "d6/dff/a02390.html#a91189806a3728bf253348c6acff4d44aac4f06456e8aa8d185db27f65280e3410", null ],
+      [ "RACER_ACHI_CRITERIA", "d6/dff/a02390.html#a91189806a3728bf253348c6acff4d44aa0c0977d0fa0c060c272d5a9f59f63f5d", null ]
     ] ],
-    [ "NotifyFlags", "d6/dff/a02390.html#ae6d03ea53b22c98f9dd7e3ce829cf389", [
-      [ "NOTIFY_NONE", "d6/dff/a02390.html#ae6d03ea53b22c98f9dd7e3ce829cf389aae40b53764f8cda7335d348860245cb9", null ],
-      [ "NOTIFY_AI_RELOCATION", "d6/dff/a02390.html#ae6d03ea53b22c98f9dd7e3ce829cf389ac8f5884b0cde878e7d080be2be35f12d", null ],
-      [ "NOTIFY_VISIBILITY_CHANGED", "d6/dff/a02390.html#ae6d03ea53b22c98f9dd7e3ce829cf389ae24fd40d89da822e12587f23612eb053", null ],
-      [ "NOTIFY_ALL", "d6/dff/a02390.html#ae6d03ea53b22c98f9dd7e3ce829cf389a8073de571f5d684d5b4ddd10a525322c", null ]
+    [ "Mistletoe", "d6/dff/a02390.html#a9ae560d3a366e6f163d4fbfd29d339ac", [
+      [ "SPELL_CREATE_MISTLETOE", "d6/dff/a02390.html#a9ae560d3a366e6f163d4fbfd29d339acafdfb3de4159c5083ea35693ceae8b4cc", null ],
+      [ "SPELL_CREATE_HOLLY", "d6/dff/a02390.html#a9ae560d3a366e6f163d4fbfd29d339aca3935eb67c5b7dbbdca5783cb17586508", null ],
+      [ "SPELL_CREATE_SNOWFLAKES", "d6/dff/a02390.html#a9ae560d3a366e6f163d4fbfd29d339aca6fe4f2b2975d9ebf9ed4f806f9c8427a", null ]
     ] ],
-    [ "PhaseMasks", "d6/dff/a02390.html#a154255f23e41069883118fc4f0d23157", [
-      [ "PHASEMASK_NORMAL", "d6/dff/a02390.html#a154255f23e41069883118fc4f0d23157aa253161c3caae282ce3c6922048db060", null ],
-      [ "PHASEMASK_ANYWHERE", "d6/dff/a02390.html#a154255f23e41069883118fc4f0d23157a212ead88887027cc3575f2b07c08af57", null ]
+    [ "winterWondervoltTrap", "d6/dff/a02390.html#a09023d9a36f692674809d983e0b46bb5", [
+      [ "SPELL_WINTER_WONDERVOLT_GREEN_WOMEN", "d6/dff/a02390.html#a09023d9a36f692674809d983e0b46bb5a584ffc066b04a87863dd3bdaa091d6b6", null ],
+      [ "SPELL_WINTER_WONDERVOLT_GREEN_MAN", "d6/dff/a02390.html#a09023d9a36f692674809d983e0b46bb5a962c9fffba35e4a119f563b8656912db", null ],
+      [ "SPELL_WINTER_WONDERVOLT_RED_WOMEN", "d6/dff/a02390.html#a09023d9a36f692674809d983e0b46bb5a08177bc4e663c11752af81f832011bf6", null ],
+      [ "SPELL_WINTER_WONDERVOLT_RED_MAN", "d6/dff/a02390.html#a09023d9a36f692674809d983e0b46bb5a7892046e23913f511b843d5a766e4dd0", null ]
     ] ],
-    [ "TempSummonType", "d6/dff/a02390.html#a38c6d8d01cbe0c49b035f348f7724148", [
-      [ "TEMPSUMMON_TIMED_OR_DEAD_DESPAWN", "d6/dff/a02390.html#a38c6d8d01cbe0c49b035f348f7724148a7fcc17b9aac93c81619414e6af366e39", null ],
-      [ "TEMPSUMMON_TIMED_OR_CORPSE_DESPAWN", "d6/dff/a02390.html#a38c6d8d01cbe0c49b035f348f7724148a9d16b839c0bff9df1f7adfe701da0882", null ],
-      [ "TEMPSUMMON_TIMED_DESPAWN", "d6/dff/a02390.html#a38c6d8d01cbe0c49b035f348f7724148a68d0fa29801bfa0be2b983f167b0c0f2", null ],
-      [ "TEMPSUMMON_TIMED_DESPAWN_OUT_OF_COMBAT", "d6/dff/a02390.html#a38c6d8d01cbe0c49b035f348f7724148a792ae85af0a6c91140415668fdfef99a", null ],
-      [ "TEMPSUMMON_CORPSE_DESPAWN", "d6/dff/a02390.html#a38c6d8d01cbe0c49b035f348f7724148aca87dcb32ebfdc5d2d1acd159abe8fd9", null ],
-      [ "TEMPSUMMON_CORPSE_TIMED_DESPAWN", "d6/dff/a02390.html#a38c6d8d01cbe0c49b035f348f7724148ae10d0bfbb29fbbfe0e3c50203548d01a", null ],
-      [ "TEMPSUMMON_DEAD_DESPAWN", "d6/dff/a02390.html#a38c6d8d01cbe0c49b035f348f7724148a2ed37622e9cac6dbba3d2bb354307493", null ],
-      [ "TEMPSUMMON_MANUAL_DESPAWN", "d6/dff/a02390.html#a38c6d8d01cbe0c49b035f348f7724148a494d31263c972013b6b0e42f6c00e14a", null ],
-      [ "TEMPSUMMON_DESPAWNED", "d6/dff/a02390.html#a38c6d8d01cbe0c49b035f348f7724148ab372a9ecde35043aa67d1ee162a37687", null ],
-      [ "TEMPSUMMON_TIMED_DESPAWN_OOC_ALIVE", "d6/dff/a02390.html#a38c6d8d01cbe0c49b035f348f7724148a1e689534a035355813f5eac245564af7", null ]
-    ] ],
-    [ "HEARTBEAT_INTERVAL", "d6/dff/a02390.html#a8cd21ff3f4267aa848be64aa30c71d24", null ]
+    [ "AddSC_event_winter_veil_scripts", "d6/dff/a02390.html#a56e93f0f5c0f4763c439d5ea4cdf6c5e", null ]
 ];

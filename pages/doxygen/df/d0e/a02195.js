@@ -1,17 +1,14 @@
 var a02195 =
 [
-    [ "Arena", "d5/d5e/a07183.html", "d5/d5e/a07183" ],
-    [ "ArenaBroadcastTexts", "df/d0e/a02195.html#a407f2036481e3d9e2def3daa50546c71", [
-      [ "ARENA_TEXT_START_ONE_MINUTE", "df/d0e/a02195.html#a407f2036481e3d9e2def3daa50546c71a12b484d249dd320cfc39bdf39279d854", null ],
-      [ "ARENA_TEXT_START_THIRTY_SECONDS", "df/d0e/a02195.html#a407f2036481e3d9e2def3daa50546c71a49cdd0c5a035f182212d6fe53a1e2084", null ],
-      [ "ARENA_TEXT_START_FIFTEEN_SECONDS", "df/d0e/a02195.html#a407f2036481e3d9e2def3daa50546c71a96636e959a178535f5d886c81ec6a8d9", null ],
-      [ "ARENA_TEXT_START_BATTLE_HAS_BEGUN", "df/d0e/a02195.html#a407f2036481e3d9e2def3daa50546c71a60ff93f414424628c66faf8f424f1dcd", null ]
-    ] ],
-    [ "ArenaSpellIds", "df/d0e/a02195.html#a05b7784b7a9a1ce8e6367f6f9bb875d9", [
-      [ "SPELL_ALLIANCE_GOLD_FLAG", "df/d0e/a02195.html#a05b7784b7a9a1ce8e6367f6f9bb875d9a310e16f368a3a7d80eeecbaecd5c489c", null ],
-      [ "SPELL_ALLIANCE_GREEN_FLAG", "df/d0e/a02195.html#a05b7784b7a9a1ce8e6367f6f9bb875d9aeae9474d707e5496dfdf0fd49871bb9f", null ],
-      [ "SPELL_HORDE_GOLD_FLAG", "df/d0e/a02195.html#a05b7784b7a9a1ce8e6367f6f9bb875d9a83058f9219943bb8b4d4a3024d172af0", null ],
-      [ "SPELL_HORDE_GREEN_FLAG", "df/d0e/a02195.html#a05b7784b7a9a1ce8e6367f6f9bb875d9ad76f572a30c966179ca9c2c2c26f4222", null ],
-      [ "SPELL_LAST_MAN_STANDING", "df/d0e/a02195.html#a05b7784b7a9a1ce8e6367f6f9bb875d9a20018007a38c253b1c4d00d9b0b375bd", null ]
-    ] ]
+    [ "npc_artorius", "de/dd7/a27383.html", "de/dd7/a27383" ],
+    [ "npc_artorius::npc_artoriusAI", "d2/daf/a27387.html", "d2/daf/a27387" ],
+    [ "npc_precious", "db/d25/a27391.html", "db/d25/a27391" ],
+    [ "npc_precious::npc_preciousAI", "d4/d81/a27395.html", "d4/d81/a27395" ],
+    [ "npc_simone", "d7/d4e/a27399.html", "d7/d4e/a27399" ],
+    [ "npc_simone::npc_simoneAI", "dc/d10/a27403.html", "dc/d10/a27403" ],
+    [ "npc_nelson", "d2/da0/a27407.html", "d2/da0/a27407" ],
+    [ "npc_nelson::npc_nelsonAI", "d6/d50/a27411.html", "d6/d50/a27411" ],
+    [ "npc_franklin", "da/da0/a27415.html", "da/da0/a27415" ],
+    [ "npc_franklin::npc_franklinAI", "d9/d33/a27419.html", "d9/d33/a27419" ],
+    [ "AddSC_npc_stave_of_ancients", "df/d0e/a02195.html#a81e200e5d045a2403cd76a0559a6fd8c", null ]
 ];

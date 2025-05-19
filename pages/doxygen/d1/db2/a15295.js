@@ -1,6 +1,8 @@
 var a15295 =
 [
-    [ "npc_rabid_thistle_bearAI", "db/d8e/a15299.html", "db/d8e/a15299" ],
-    [ "npc_rabid_thistle_bear", "d1/db2/a15295.html#a34b20a4ea22d74352712dee105247d56", null ],
-    [ "GetAI", "d1/db2/a15295.html#ab5c21cd3afa0bd13c937e6acf1912af4", null ]
+    [ "npc_prospector_remtravelAI", "d1/db2/a15295.html#a61f26115382f16f3d65c3d4e1c720f02", null ],
+    [ "JustEngagedWith", "d1/db2/a15295.html#adf388d36c17b69f881e3cb92d9b78b9b", null ],
+    [ "JustSummoned", "d1/db2/a15295.html#a6b3dd1552b5313dd04d07dc80eef06fe", null ],
+    [ "Reset", "d1/db2/a15295.html#ac145a4a4a24be227c31fcc5aefd922eb", null ],
+    [ "WaypointReached", "d1/db2/a15295.html#a7b02b22e9dc63e1fad6b15a44b2ff9b6", null ]
 ];

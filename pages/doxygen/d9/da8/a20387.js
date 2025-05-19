@@ -1,6 +1,5 @@
 var a20387 =
 [
-    [ "npc_ulduar_flames_initialAI", "d5/d37/a20391.html", "d5/d37/a20391" ],
-    [ "npc_ulduar_flames_initial", "d9/da8/a20387.html#aee0c62a38e3e0958e015faef2c434273", null ],
-    [ "GetAI", "d9/da8/a20387.html#ac0db78c361324a594220ad644001f4eb", null ]
+    [ "go_ulduar_do_not_push_this_button", "d9/da8/a20387.html#aa204af213a643c001161e0c2f173ee6b", null ],
+    [ "OnGossipHello", "d9/da8/a20387.html#ae11efa54b496ab21600a9c62e50b5fbe", null ]
 ];

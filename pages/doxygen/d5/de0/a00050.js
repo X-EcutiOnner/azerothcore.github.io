@@ -1,7 +1,10 @@
 var a00050 =
 [
-    [ "go_transport_the_iron_eagle", "d3/da2/a27615.html", "d3/da2/a27615" ],
-    [ "go_transport_the_thundercaller", "dc/d7c/a27619.html", "dc/d7c/a27619" ],
-    [ "go_transport_the_purple_princess", "d0/dca/a27623.html", "d0/dca/a27623" ],
-    [ "AddSC_transport_zeppelins", "d5/de0/a00050.html#a29051596b0a3382db98c6b72f7ff3173", null ]
+    [ "GraveyardStruct", "da/de6/a09859.html", "da/de6/a09859" ],
+    [ "GraveyardData", "db/da5/a09863.html", "db/da5/a09863" ],
+    [ "Graveyard", "dc/d66/a09867.html", "dc/d66/a09867" ],
+    [ "sGraveyard", "d5/de0/a00050.html#ac68c2a63982a6142e1931450d7b6115c", null ],
+    [ "GraveyardMapBounds", "d5/de0/a00050.html#aa5ea0c376a2e44483f8c5cb084b3b186", null ],
+    [ "GraveyardMapBoundsNonConst", "d5/de0/a00050.html#a6a551a1219fa9a26b5ed21656c2f9dd1", null ],
+    [ "WGGraveyardContainer", "d5/de0/a00050.html#a484cb47c00fe9b952853e3b04212437c", null ]
 ];

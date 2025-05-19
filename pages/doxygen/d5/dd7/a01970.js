@@ -1,56 +1,9 @@
 var a01970 =
 [
-    [ "npc_maghar_captive", "d2/d86/a23979.html", "d2/d86/a23979" ],
-    [ "npc_maghar_captive::npc_maghar_captiveAI", "df/db2/a23983.html", "df/db2/a23983" ],
-    [ "npc_creditmarker_visit_with_ancestors", "d9/d51/a23987.html", "d9/d51/a23987" ],
-    [ "npc_creditmarker_visit_with_ancestors::npc_creditmarker_visit_with_ancestorsAI", "de/d95/a23991.html", "de/d95/a23991" ],
-    [ "npc_kurenai_captive", "db/db0/a23995.html", "db/db0/a23995" ],
-    [ "npc_kurenai_captive::npc_kurenai_captiveAI", "d1/d16/a23999.html", "d1/d16/a23999" ],
-    [ "go_warmaul_prison", "d9/d19/a24003.html", "d9/d19/a24003" ],
-    [ "FindingTheSurvivorsData", "d5/dd7/a01970.html#a05f629c8a0695e51bcc6a217d469c6d6", [
-      [ "QUEST_FINDING_THE_SURVIVORS", "d5/dd7/a01970.html#a05f629c8a0695e51bcc6a217d469c6d6a9065a5318b6cfd6783abc721a30c2ce5", null ],
-      [ "NPC_MAGHAR_PRISONER", "d5/dd7/a01970.html#a05f629c8a0695e51bcc6a217d469c6d6adcae59340797ae5aaa36b217e81dbe0f", null ],
-      [ "SAY_FREE", "d5/dd7/a01970.html#a05f629c8a0695e51bcc6a217d469c6d6a27368277122194007f925387131a1eb9", null ]
-    ] ],
-    [ "KurenaiCaptive", "d5/dd7/a01970.html#a0ebafaa2428c27b956f306522427fc5d", [
-      [ "SAY_KUR_START", "d5/dd7/a01970.html#a0ebafaa2428c27b956f306522427fc5daf36e600606009fc75721c58ff3291777", null ],
-      [ "SAY_KUR_NO_ESCAPE", "d5/dd7/a01970.html#a0ebafaa2428c27b956f306522427fc5da23c48674cfb86f376ec29a45dfc7bae7", null ],
-      [ "SAY_KUR_MORE", "d5/dd7/a01970.html#a0ebafaa2428c27b956f306522427fc5daa43be8740522cf897de5d4034c52d874", null ],
-      [ "SAY_KUR_MORE_TWO", "d5/dd7/a01970.html#a0ebafaa2428c27b956f306522427fc5da415a94ee05b8fad2385a6988ab1c554c", null ],
-      [ "SAY_KUR_LIGHTNING", "d5/dd7/a01970.html#a0ebafaa2428c27b956f306522427fc5da83064d04d456c201f607bea516054183", null ],
-      [ "SAY_KUR_SHOCK", "d5/dd7/a01970.html#a0ebafaa2428c27b956f306522427fc5daf550dcd801470acffb15daacb0d1303b", null ],
-      [ "SAY_KUR_COMPLETE", "d5/dd7/a01970.html#a0ebafaa2428c27b956f306522427fc5daccc181ea2bfdaf46a258c6df185143cd", null ],
-      [ "SPELL_KUR_CHAIN_LIGHTNING", "d5/dd7/a01970.html#a0ebafaa2428c27b956f306522427fc5da947d09acef568031d0a63aa3b491c6be", null ],
-      [ "SPELL_KUR_EARTHBIND_TOTEM", "d5/dd7/a01970.html#a0ebafaa2428c27b956f306522427fc5da9036ad57839bc33a33771f3426f66b00", null ],
-      [ "SPELL_KUR_FROST_SHOCK", "d5/dd7/a01970.html#a0ebafaa2428c27b956f306522427fc5da8a33a6376ae25b08e61a6c434797a76c", null ],
-      [ "SPELL_KUR_HEALING_WAVE", "d5/dd7/a01970.html#a0ebafaa2428c27b956f306522427fc5da3ccb8a60d8d82c84658c9eb76cee2bdb", null ],
-      [ "QUEST_TOTEM_KARDASH_A", "d5/dd7/a01970.html#a0ebafaa2428c27b956f306522427fc5da01677503ea95582bedb4bd6396f037e1", null ],
-      [ "NPC_KUR_MURK_RAIDER", "d5/dd7/a01970.html#a0ebafaa2428c27b956f306522427fc5dafeb58f1ee686b5fa30edd41591ea25e3", null ],
-      [ "NPC_KUR_MURK_BRUTE", "d5/dd7/a01970.html#a0ebafaa2428c27b956f306522427fc5da1d5b2ff1254efae5b9ebff19733b070a", null ],
-      [ "NPC_KUR_MURK_SCAVENGER", "d5/dd7/a01970.html#a0ebafaa2428c27b956f306522427fc5dafda581d2af0e7405bfe68fb2156b753d", null ],
-      [ "NPC_KUR_MURK_PUTRIFIER", "d5/dd7/a01970.html#a0ebafaa2428c27b956f306522427fc5daa9ec76c542a3b9a882fd5726109d5a17", null ]
-    ] ],
-    [ "MagharCaptive", "d5/dd7/a01970.html#ac649bf8486588b328f8f21294adb4691", [
-      [ "SAY_MAG_START", "d5/dd7/a01970.html#ac649bf8486588b328f8f21294adb4691a29faea8cf997895585774bb65c97b205", null ],
-      [ "SAY_MAG_NO_ESCAPE", "d5/dd7/a01970.html#ac649bf8486588b328f8f21294adb4691aff816814506c0e82043fe9e276874ec6", null ],
-      [ "SAY_MAG_MORE", "d5/dd7/a01970.html#ac649bf8486588b328f8f21294adb4691a6e5c0dfc40eb68f851dea6d3b488b247", null ],
-      [ "SAY_MAG_MORE_REPLY", "d5/dd7/a01970.html#ac649bf8486588b328f8f21294adb4691a574b0d10ccf84ca4768fd3b39c57cb45", null ],
-      [ "SAY_MAG_LIGHTNING", "d5/dd7/a01970.html#ac649bf8486588b328f8f21294adb4691a6723c065e3ed755f5efb93d02d35bec2", null ],
-      [ "SAY_MAG_SHOCK", "d5/dd7/a01970.html#ac649bf8486588b328f8f21294adb4691a50d672d4f8be24fa62f23e2540f9db57", null ],
-      [ "SAY_MAG_COMPLETE", "d5/dd7/a01970.html#ac649bf8486588b328f8f21294adb4691a7467c2088e602d856074e0039bf6ebae", null ],
-      [ "SPELL_CHAIN_LIGHTNING", "d5/dd7/a01970.html#ac649bf8486588b328f8f21294adb4691ac0997e72929070d8e30cc0f49cc4539d", null ],
-      [ "SPELL_EARTHBIND_TOTEM", "d5/dd7/a01970.html#ac649bf8486588b328f8f21294adb4691a13680bcb421d2a16426689737c48ec23", null ],
-      [ "SPELL_FROST_SHOCK", "d5/dd7/a01970.html#ac649bf8486588b328f8f21294adb4691a73b0724093ccf1b7960c55c236c1502c", null ],
-      [ "SPELL_HEALING_WAVE", "d5/dd7/a01970.html#ac649bf8486588b328f8f21294adb4691ab47ffc8cbbcb587bbe1a3e348c95bee3", null ],
-      [ "QUEST_TOTEM_KARDASH_H", "d5/dd7/a01970.html#ac649bf8486588b328f8f21294adb4691a095bbe561ca6af50a827376ce33a4e8b", null ],
-      [ "NPC_MURK_RAIDER", "d5/dd7/a01970.html#ac649bf8486588b328f8f21294adb4691a1fc0911b4a3959e89ede86e46a586c10", null ],
-      [ "NPC_MURK_BRUTE", "d5/dd7/a01970.html#ac649bf8486588b328f8f21294adb4691ad944339a6462815fbe9e60d05957e345", null ],
-      [ "NPC_MURK_SCAVENGER", "d5/dd7/a01970.html#ac649bf8486588b328f8f21294adb4691a1fb10d1a472423ae56074270a7309ec9", null ],
-      [ "NPC_MURK_PUTRIFIER", "d5/dd7/a01970.html#ac649bf8486588b328f8f21294adb4691ab5280b4b4033ccf6ca5af78f1efc185e", null ]
-    ] ],
-    [ "AddSC_nagrand", "d5/dd7/a01970.html#a2b4868ea3ab720314139038db0c44257", null ],
-    [ "kurenaiAmbushA", "d5/dd7/a01970.html#aa062949c44a2a3ecfbcdc3f2bfcac8c1", null ],
-    [ "kurenaiAmbushB", "d5/dd7/a01970.html#ae406cbcbcb2947b1f5ac7604043506b8", null ],
-    [ "m_afAmbushA", "d5/dd7/a01970.html#ae32e4397b99880f7a5c6abf419f311ed", null ],
-    [ "m_afAmbushB", "d5/dd7/a01970.html#ad37d6fb6fab11f73d99eb4c0d48e9162", null ]
+    [ "QueryCallback::QueryCallbackData", "dc/d27/a05799.html", "dc/d27/a05799" ],
+    [ "Construct", "d5/dd7/a01970.html#a0e2a26009ee3d271eeacbb20a20e930b", null ],
+    [ "ConstructActiveMember", "d5/dd7/a01970.html#a63276ee687270e668e7c51876ced5fb1", null ],
+    [ "Destroy", "d5/dd7/a01970.html#aa4339e1c31032221caeaaedac04c0b32", null ],
+    [ "DestroyActiveMember", "d5/dd7/a01970.html#aac0ba6a0017441eb25c4b294fde99186", null ],
+    [ "MoveFrom", "d5/dd7/a01970.html#a4ef783bc4f06f2cbaec3f4b6ca2c49aa", null ]
 ];

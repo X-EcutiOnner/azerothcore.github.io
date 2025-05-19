@@ -1,5 +1,5 @@
 var a02075 =
 [
-    [ "BGSpamProtect", "d0/d9c/a07307.html", "d0/d9c/a07307" ],
-    [ "sBGSpam", "d9/d95/a02075.html#ae37d7994736d43484a627d5de2af5fc1", null ]
+    [ "account_commandscript", "dc/d47/a11527.html", "dc/d47/a11527" ],
+    [ "AddSC_account_commandscript", "d9/d95/a02075.html#a8c18eb17be05fd3da5e9cfa3480c52c4", null ]
 ];

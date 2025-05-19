@@ -1,8 +1,7 @@
 var a26039 =
 [
-    [ "Load", "db/dbc/a26039.html#a7662d85a5469c20edf6d2eefca820db3", null ],
-    [ "PrepareAuraScript", "db/dbc/a26039.html#a252bd975a7639eab4e151249db974b7c", null ],
-    [ "Register", "db/dbc/a26039.html#a51723a22f1062f44e8eb6848e1398595", null ],
-    [ "Split", "db/dbc/a26039.html#a08e982eae6030fdc679663bfd38bca47", null ],
-    [ "remainingAmount", "db/dbc/a26039.html#afaab88988769ddc720deb44f06de3d7d", null ]
+    [ "HandleScriptEffect", "db/dbc/a26039.html#a6c1ac025fa93caa08737387a18003612", null ],
+    [ "PrepareSpellScript", "db/dbc/a26039.html#acb5ad05212399b06ed9bb64bb9203069", null ],
+    [ "Register", "db/dbc/a26039.html#afbf989d514c308f466ecfd9957d2d177", null ],
+    [ "Validate", "db/dbc/a26039.html#a2f48b1903edef1a5bb8beeddc8879aa4", null ]
 ];

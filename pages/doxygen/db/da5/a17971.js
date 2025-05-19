@@ -1,7 +1,7 @@
 var a17971 =
 [
-    [ "HandleScript", "db/da5/a17971.html#a5fbb1d26c4e7d5d21745004e477b3c1e", null ],
-    [ "PrepareSpellScript", "db/da5/a17971.html#a7e6b56f426be7925255da3ebc239f909", null ],
-    [ "Register", "db/da5/a17971.html#a0eb2d734ac99d3a036b95b6daa39b9f5", null ],
-    [ "Validate", "db/da5/a17971.html#a86b4296eab73fc63b38558871f16a889", null ]
+    [ "OnRemove", "db/da5/a17971.html#aa096174465120bde1994c85f72682be1", null ],
+    [ "PrepareAuraScript", "db/da5/a17971.html#a49ba4ed8ac0ee006c74a71e6779c1a3b", null ],
+    [ "Register", "db/da5/a17971.html#a6e9c95b06f3ec9dc0739beaabc016d5f", null ],
+    [ "Validate", "db/da5/a17971.html#a1b7ef2c14db8543a9128aa335548fa00", null ]
 ];

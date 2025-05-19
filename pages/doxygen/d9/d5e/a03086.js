@@ -1,16 +1,10 @@
 var a03086 =
 [
-    [ "SummonList", "d0/dca/a06175.html", "d0/dca/a06175" ],
-    [ "EntryCheckPredicate", "dd/d16/a06179.html", "dd/d16/a06179" ],
-    [ "PlayerOrPetCheck", "df/d46/a06183.html", "df/d46/a06183" ],
-    [ "ScriptedAI", "d0/d79/a06187.html", "d0/d79/a06187" ],
-    [ "HealthCheckEventData", "d8/d67/a06191.html", "d8/d67/a06191" ],
-    [ "BossAI", "d6/d4c/a06195.html", "d6/d4c/a06195" ],
-    [ "WorldBossAI", "d9/d57/a06199.html", "d9/d57/a06199" ],
-    [ "ObjectList", "d9/d5e/a03086.html#acc68161fe019b33e9356ea1473fba71d", null ],
-    [ "GetClosestCreatureWithEntry", "d9/d5e/a03086.html#a9ffd6f6c01576a8d3369c3a4f6dbaa0b", null ],
-    [ "GetClosestGameObjectWithEntry", "d9/d5e/a03086.html#acaba34b4ac104e5289c265c1f8524b15", null ],
-    [ "GetCreatureListWithEntryInGrid", "d9/d5e/a03086.html#ab6a8246d473139627106be4651f6329d", null ],
-    [ "GetDeadCreatureListInGrid", "d9/d5e/a03086.html#a4a92c9585e18b56cdbe0d0c0976de7d1", null ],
-    [ "GetGameObjectListWithEntryInGrid", "d9/d5e/a03086.html#ae9abb80c4e811509bca88e65cf817276", null ]
+    [ "spell_utgarde_pinnacle_beast_mark", "dc/dd5/a21131.html", "dc/dd5/a21131" ],
+    [ "UtgardeSpells", "d9/d5e/a03086.html#ae8fa29243650c07aed99f9ee3cad321a", [
+      [ "SPELL_BEAST_MARK_NORMAL", "d9/d5e/a03086.html#ae8fa29243650c07aed99f9ee3cad321aa515971380a351ffe4dc21aefd7d9a8aa", null ],
+      [ "SPELL_BEAST_MARK_DAMAGE_N", "d9/d5e/a03086.html#ae8fa29243650c07aed99f9ee3cad321aa519ee30eba59f71f788bd5aaa9ea8a4f", null ],
+      [ "SPELL_BEAST_MARK_DAMAGE_H", "d9/d5e/a03086.html#ae8fa29243650c07aed99f9ee3cad321aa28cc83c9c8ba75d8dd51298affc35aa7", null ]
+    ] ],
+    [ "AddSC_utgarde_pinnacle", "d9/d5e/a03086.html#aa865b80ad4fb44b0c96fa45f08d06d71", null ]
 ];

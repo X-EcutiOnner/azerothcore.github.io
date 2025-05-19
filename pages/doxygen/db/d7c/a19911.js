@@ -1,8 +1,6 @@
 var a19911 =
 [
-    [ "HandleOnEffectApply", "db/d7c/a19911.html#a83ff54727e886161c5568a60833932d1", null ],
-    [ "HandleOnEffectRemove", "db/d7c/a19911.html#a9e48d1c9dc26f882ee685a2cbf59667e", null ],
-    [ "PrepareAuraScript", "db/d7c/a19911.html#a5ec8ffeceae335423dff10f54e096e8a", null ],
-    [ "Register", "db/d7c/a19911.html#ae07af138c6f9c565799574b4f8343492", null ],
-    [ "Validate", "db/d7c/a19911.html#a3a24a25c9b9b118d20ca2b14fbfc5869", null ]
+    [ "PrepareSpellScript", "db/d7c/a19911.html#a7eeb4e2b9c3bb6e7d02d6a5acf8e1d52", null ],
+    [ "RecalculateDamage", "db/d7c/a19911.html#a094a21cf3cf109e704d3e334ad7dbad1", null ],
+    [ "Register", "db/d7c/a19911.html#af2b5382122be41a6b1ee4ab721b417da", null ]
 ];

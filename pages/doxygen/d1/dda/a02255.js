@@ -1,4 +1,5 @@
 var a02255 =
 [
-    [ "operator<<", "d1/dda/a02255.html#aa8a947319a6f00895a3c443f5cb258ad", null ]
+    [ "OutdoorPvP_terokkar_forest", "d5/d6a/a22475.html", "d5/d6a/a22475" ],
+    [ "AddSC_outdoorpvp_tf", "d1/dda/a02255.html#a6df553c8dd6e9b81e83110e7beab3646", null ]
 ];

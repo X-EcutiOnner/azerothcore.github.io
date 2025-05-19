@@ -1,5 +1,5 @@
 var a27607 =
 [
-    [ "npc_suns_reach_reclamation", "da/d62/a27607.html#aa66b75aa1a4a96a97c4d2c4e42e3d6bb", null ],
-    [ "OnQuestReward", "da/d62/a27607.html#a459e53b21778cf901cbbb15c9f6e5cdd", null ]
+    [ "ServerMailReward", "da/d62/a27607.html#aba48b4c171e8e8a40fca2d3bed6b7f63", null ],
+    [ "OnPlayerLogin", "da/d62/a27607.html#ada945e805278d54746b6fabaf48b4546", null ]
 ];

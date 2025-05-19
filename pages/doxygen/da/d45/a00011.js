@@ -1,28 +1,23 @@
 var a00011 =
 [
-    [ "OPvPCapturePointHP", "dd/da8/a22435.html", "dd/da8/a22435" ],
-    [ "OutdoorPvPHP", "d2/d26/a22439.html", "d2/d26/a22439" ],
-    [ "OutdoorPvPHPBuffZonesNum", "da/d45/a00011.html#a01aada98c8079ea71a361cba06e10640", null ],
-    [ "OutdoorPvPHPSpells", "da/d45/a00011.html#a09664100577cc20866b21589f3c1eb4a", [
-      [ "AlliancePlayerKillReward", "da/d45/a00011.html#a09664100577cc20866b21589f3c1eb4aad472ab0479934282573d2a2b142ecddc", null ],
-      [ "HordePlayerKillReward", "da/d45/a00011.html#a09664100577cc20866b21589f3c1eb4aa831169d26f4b6d47dc372629927d7e45", null ],
-      [ "AllianceBuff", "da/d45/a00011.html#a09664100577cc20866b21589f3c1eb4aa426e0e0ba254467f65dbcecd1cb3451a", null ],
-      [ "HordeBuff", "da/d45/a00011.html#a09664100577cc20866b21589f3c1eb4aab7ca0ff835377a499cd163afa9ddfaa2", null ]
+    [ "WorldStateSunsReachQuests", "da/d45/a00011.html#ae92d2d64df97e6d4e504459dbe62a704", [
+      [ "QUEST_ERRATIC_BEHAVIOR", "da/d45/a00011.html#ae92d2d64df97e6d4e504459dbe62a704a4f2a85bb3172f682d010d0782c9bcc24", null ],
+      [ "QUEST_SANCTUM_WARDS", "da/d45/a00011.html#ae92d2d64df97e6d4e504459dbe62a704a937beacad369f610742b3d62fe33cab0", null ],
+      [ "QUEST_BATTLE_FOR_THE_SUNS_REACH_ARMORY", "da/d45/a00011.html#ae92d2d64df97e6d4e504459dbe62a704a98ebea3b62e2627835de9b62156cf05a", null ],
+      [ "QUEST_DISTRACTION_AT_THE_DEAD_SCAR", "da/d45/a00011.html#ae92d2d64df97e6d4e504459dbe62a704adf3a2dd8db11cc9c77b39a8eaebce873", null ],
+      [ "QUEST_INTERCEPTING_THE_MANA_CELLS", "da/d45/a00011.html#ae92d2d64df97e6d4e504459dbe62a704a6f30cdc73db7de9c5c0c7be0e1b6c377", null ],
+      [ "QUEST_INTERCEPT_THE_REINFORCEMENTS", "da/d45/a00011.html#ae92d2d64df97e6d4e504459dbe62a704ab875551f6415f6ac57dfd81dae4b1af5", null ],
+      [ "QUEST_TAKING_THE_HARBOR", "da/d45/a00011.html#ae92d2d64df97e6d4e504459dbe62a704adf6f0dde850df588195e298e20884dc3", null ],
+      [ "QUEST_MAKING_READY", "da/d45/a00011.html#ae92d2d64df97e6d4e504459dbe62a704abadeaae10ba1cf07a4e49d58b27a2430", null ],
+      [ "QUEST_DISCOVERING_YOUR_ROOTS", "da/d45/a00011.html#ae92d2d64df97e6d4e504459dbe62a704ad53e4065f2edb54c276af531e4cbd158", null ],
+      [ "QUEST_A_CHARITABLE_DONATION", "da/d45/a00011.html#ae92d2d64df97e6d4e504459dbe62a704af367c41748283293358b00d0ceea276b", null ],
+      [ "QUEST_A_MAGNANIMOUS_BENEFACTOR", "da/d45/a00011.html#ae92d2d64df97e6d4e504459dbe62a704ac530d05014596aa5ace83a6c92b0b5c4", null ],
+      [ "COUNTER_MAX_VAL_REQ", "da/d45/a00011.html#ae92d2d64df97e6d4e504459dbe62a704a45e1556a8329106c7b177a050f5e45a5", null ]
     ] ],
-    [ "OutdoorPvPHPTowerType", "da/d45/a00011.html#ad618152baad1f5a1d7f70f40941e8f33", [
-      [ "HP_TOWER_BROKEN_HILL", "da/d45/a00011.html#ad618152baad1f5a1d7f70f40941e8f33ac441f3412d9e7d328a88cb288f56bfd9", null ],
-      [ "HP_TOWER_OVERLOOK", "da/d45/a00011.html#ad618152baad1f5a1d7f70f40941e8f33a8c33cdd1da9aa64b4a329b18f6f54447", null ],
-      [ "HP_TOWER_STADIUM", "da/d45/a00011.html#ad618152baad1f5a1d7f70f40941e8f33a7fda380ac328f409fa311478cd32be84", null ],
-      [ "HP_TOWER_NUM", "da/d45/a00011.html#ad618152baad1f5a1d7f70f40941e8f33a83bc78133ae0c9793e647dad81a62355", null ]
-    ] ],
-    [ "HP_CREDITMARKER", "da/d45/a00011.html#a3be5b978c2160f84a013071d76c121aa", null ],
-    [ "HP_MAP_A", "da/d45/a00011.html#ab540dae1c3c44e27c4441e9d56e10d1d", null ],
-    [ "HP_MAP_H", "da/d45/a00011.html#ab15c51d80dc177784041dedc55e39c56", null ],
-    [ "HP_MAP_N", "da/d45/a00011.html#a8a39817e7479fa79181e8c99bb83ca5c", null ],
-    [ "HP_TowerArtKit_A", "da/d45/a00011.html#ab9c6e470e4a4759ce2e77f88661521bb", null ],
-    [ "HP_TowerArtKit_H", "da/d45/a00011.html#a6791490624d9d1c2995c6a13659f8692", null ],
-    [ "HP_TowerArtKit_N", "da/d45/a00011.html#ae64775fc45fae501937d72c9d55c8dc1", null ],
-    [ "HPCapturePoints", "da/d45/a00011.html#a23f671f25a8a3e3db11f4a0953b34773", null ],
-    [ "HPTowerFlags", "da/d45/a00011.html#ae6571d986fbbf7b469cf495033f46516", null ],
-    [ "OutdoorPvPHPBuffZones", "da/d45/a00011.html#a876ea3aeffde8ab2532706d13ae6e2ce", null ]
+    [ "WorldStateSunwellGateQuests", "da/d45/a00011.html#ab96270d11fbb117a1f967bc0d80f91ca", [
+      [ "QUEST_AGAMATH_THE_FIRST_GATE", "da/d45/a00011.html#ab96270d11fbb117a1f967bc0d80f91caa5488c9368a2859c5f47656009ebe9eeb", null ],
+      [ "QUEST_ROHENDOR_THE_SECOND_GATE", "da/d45/a00011.html#ab96270d11fbb117a1f967bc0d80f91caaac3b523ff003dbd2c4630a2f64f9ef52", null ],
+      [ "QUEST_ARCHONISUS_THE_FINAL_GATE", "da/d45/a00011.html#ab96270d11fbb117a1f967bc0d80f91caa79773a037e39a86021645c7ef20836dc", null ],
+      [ "COUNTER_MAX_VAL_REQ_SWP_GATES", "da/d45/a00011.html#ab96270d11fbb117a1f967bc0d80f91caadc56c79d9946a6da707fde15807fcfc5", null ]
+    ] ]
 ];

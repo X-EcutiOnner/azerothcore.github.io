@@ -1,12 +1,9 @@
 var a01223 =
 [
-    [ "instance_gnomeregan", "d4/dca/a12499.html", "d4/dca/a12499" ],
-    [ "instance_gnomeregan::instance_gnomeregan_InstanceMapScript", "df/daf/a12503.html", "df/daf/a12503" ],
-    [ "npc_kernobee", "df/d1b/a12507.html", "df/d1b/a12507" ],
-    [ "npc_kernobee::npc_kernobeeAI", "d9/d53/a12511.html", "d9/d53/a12511" ],
-    [ "spell_gnomeregan_radiation_bolt", "d4/d6a/a12515.html", "d4/d6a/a12515" ],
-    [ "eKernobee", "d7/ddd/a01223.html#a2abc5c19b823c78ec77c3d72114bf15a", [
-      [ "QUEST_A_FINE_MESS", "d7/ddd/a01223.html#a2abc5c19b823c78ec77c3d72114bf15aae96e14c539b411972be0ce6ad156b394", null ]
+    [ "ePoints", "d7/ddd/a01223.html#a2604bd06487e34b78d3e50cd892f3c4d", [
+      [ "POINT_LAST_POINT", "db/d42/a01220.html#a2604bd06487e34b78d3e50cd892f3c4da7d10089a0c5a8c42786b90cd3ba643cb", null ],
+      [ "POINT_HOME", "db/d42/a01220.html#a2604bd06487e34b78d3e50cd892f3c4da032be97ee26935943c3313fb24491162", null ],
+      [ "POINT_COMBAT_START", "d7/ddd/a01223.html#a2604bd06487e34b78d3e50cd892f3c4da91adf90069f0b0a515897fbdc91e20b4", null ]
     ] ],
-    [ "AddSC_instance_gnomeregan", "d7/ddd/a01223.html#afc9fa76575d58995fccc2f594a40114c", null ]
+    [ "MAX_PLAYER_DISTANCE", "d7/ddd/a01223.html#acd0b392fc88f24b24201fba8b76d33a2", null ]
 ];

@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/game/Battlegrounds/Zones/BattlegroundBE.cpp File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/scripts/Commands/PlayerCommand.h File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -104,24 +104,37 @@ $(document).ready(function(){initNavTree('da/da0/a02126.html','../../'); initRes
 </div>
 
 <div class="header">
-  <div class="headertitle"><div class="title">BattlegroundBE.cpp File Reference</div></div>
+  <div class="summary">
+<a href="#namespaces">Namespaces</a> &#124;
+<a href="#func-members">Functions</a>  </div>
+  <div class="headertitle"><div class="title">PlayerCommand.h File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">BattlegroundBE.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Log.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Player.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">WorldPacket.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">WorldStatePackets.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">WorldStateDefines.h</a>&quot;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">Chat.h</a>&quot;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
+<table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="namespaces" name="namespaces"></a>
+Namespaces</h2></td></tr>
+<tr class="memitem:db/d75/a04761"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d75/a04761.html">Acore</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:da/d70/a04836"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d70/a04836.html">Acore::PlayerCommand</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
+Functions</h2></td></tr>
+<tr class="memitem:acbe37f872cbc981a27671ebdf10904de"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d70/a04836.html#acbe37f872cbc981a27671ebdf10904de">Acore::PlayerCommand::HandleLearnSpellCommand</a> (<a class="el" href="../../db/d2e/a07479.html">ChatHandler</a> *handler, <a class="el" href="../../d2/d95/a08583.html">Player</a> *targetPlayer, <a class="el" href="../../df/dea/a11139.html">SpellInfo</a> const *spell, <a class="el" href="../../d5/d22/a04394.html#aaf8f4d77efd311ec7818ab421294ef82">Optional</a>&lt; <a class="el" href="../../d0/ddb/a00542.html#ac61bb0d0d29d3ccc94188eb93516adf5">EXACT_SEQUENCE</a>(&quot;all&quot;)&gt; allRanks)</td></tr>
+<tr class="separator:acbe37f872cbc981a27671ebdf10904de"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad36f90f90b3d9aaf782f7efc859f7e7a"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d70/a04836.html#ad36f90f90b3d9aaf782f7efc859f7e7a">Acore::PlayerCommand::HandleUnlearnSpellCommand</a> (<a class="el" href="../../db/d2e/a07479.html">ChatHandler</a> *handler, <a class="el" href="../../d2/d95/a08583.html">Player</a> *targetPlayer, <a class="el" href="../../df/dea/a11139.html">SpellInfo</a> const *spell, <a class="el" href="../../d5/d22/a04394.html#aaf8f4d77efd311ec7818ab421294ef82">Optional</a>&lt; <a class="el" href="../../d0/ddb/a00542.html#ac61bb0d0d29d3ccc94188eb93516adf5">EXACT_SEQUENCE</a>(&quot;all&quot;)&gt; allRanks)</td></tr>
+<tr class="separator:ad36f90f90b3d9aaf782f7efc859f7e7a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_fc52f0b797d74b4b54bfd04593b84648.html">Battlegrounds</a></li><li class="navelem"><a class="el" href="../../dir_d9de844c1d859dc2cc6a65181dd33644.html">Zones</a></li><li class="navelem"><a class="el" href="../../da/da0/a02126.html">BattlegroundBE.cpp</a></li>
-    <li class="footer">Generated on Mon May 12 2025 20:45:17 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_2519615cc1c93425dacf3aa6e071da7e.html">Commands</a></li><li class="navelem"><a class="el" href="../../da/da0/a02126.html">PlayerCommand.h</a></li>
+    <li class="footer">Generated on Mon May 19 2025 20:44:48 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

@@ -1,6 +1,8 @@
 var a21379 =
 [
-    [ "npc_azure_sorcerorAI", "d0/d4d/a21383.html", "d0/d4d/a21383" ],
-    [ "npc_azure_sorceror", "d5/d3e/a21379.html#ab81ec144680a37312b0a5e0110365a1a", null ],
-    [ "GetAI", "d5/d3e/a21379.html#a647ac2853586e380fdf0e0ffa43abaca", null ]
+    [ "npc_azure_captainAI", "d5/d3e/a21379.html#a15b1acc73108c6802dbf3ac2ed0734c9", null ],
+    [ "Reset", "d5/d3e/a21379.html#a13d25bf1612086cc4bb5bc2078105f18", null ],
+    [ "UpdateAI", "d5/d3e/a21379.html#ae50ac21138e12be43caa93e37062051e", null ],
+    [ "uiMortalStrikeTimer", "d5/d3e/a21379.html#a791a3ee9b67e72e1dcb392b9ebc2359a", null ],
+    [ "uiWhirlwindTimer", "d5/d3e/a21379.html#a2e3439976a6e84a60be765cb0b929798", null ]
 ];

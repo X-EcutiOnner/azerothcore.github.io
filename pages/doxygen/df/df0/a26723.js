@@ -1,6 +1,6 @@
 var a26723 =
 [
-    [ "FilterTargets", "df/df0/a26723.html#a2bcc808d5869442e4c2e78be2d2a16af", null ],
-    [ "PrepareSpellScript", "df/df0/a26723.html#a51d7035477ba4e3994ef3161edc4cc69", null ],
-    [ "Register", "df/df0/a26723.html#adcc2ed25659208d0eeaec6d9673df3c6", null ]
+    [ "HandleDummy", "df/df0/a26723.html#a2560417162a1c17cb067cdfeb2fc909d", null ],
+    [ "PrepareSpellScript", "df/df0/a26723.html#a1f9aa7ffef96365ad7c0c4ccd4a2814c", null ],
+    [ "Register", "df/df0/a26723.html#a27aece218c848064ae387491f9176099", null ]
 ];

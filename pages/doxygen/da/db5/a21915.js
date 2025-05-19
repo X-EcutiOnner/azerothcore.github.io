@@ -1,6 +1,6 @@
 var a21915 =
 [
-    [ "npc_your_inner_turmoilAI", "da/d38/a21919.html", "da/d38/a21919" ],
-    [ "npc_your_inner_turmoil", "da/db5/a21915.html#a72856ef469bb8f6ff4a89a16159479af", null ],
-    [ "GetAI", "da/db5/a21915.html#a29c8f76b072e891face1225770688ca6", null ]
+    [ "npc_attracted_reef_bullAI", "da/db5/a21915.html#aa8917a912fb31a5987332e53e8d268e7", null ],
+    [ "MovementInform", "da/db5/a21915.html#a79d9539243f178a2989f017c5f9ebc8c", null ],
+    [ "SpellHit", "da/db5/a21915.html#ab06ee7ef84d881262ae682b69fae3135", null ]
 ];

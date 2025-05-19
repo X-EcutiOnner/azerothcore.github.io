@@ -1,5 +1,5 @@
 var a28283 =
 [
-    [ "Price", "dc/d51/a28283.html#a9cf01cf0d41d49613b4ceaf1eeb1716b", null ],
-    [ "Slot", "dc/d51/a28283.html#aa53247914bda0ceca015b8b9ca117379", null ]
+    [ "HasMissile", "dc/d51/a28283.html#af8f9e79164ee3c7a617f63552bb23816", null ],
+    [ "MissileModel", "dc/d51/a28283.html#ae9ab544537448113f628c22ed8c91a27", null ]
 ];

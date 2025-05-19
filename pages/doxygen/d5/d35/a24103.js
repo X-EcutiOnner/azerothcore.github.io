@@ -1,6 +1,6 @@
 var a24103 =
 [
-    [ "npcs_flanis_swiftwing_and_kagrosh", "d5/d35/a24103.html#aa95eceea94521947bd443805c8ddb52d", null ],
-    [ "OnGossipHello", "d5/d35/a24103.html#a7f331c38ec82d2c69bce4b1f861527a0", null ],
-    [ "OnGossipSelect", "d5/d35/a24103.html#aff34165955ba93e1fcd2b9731894d871", null ]
+    [ "npc_drake_dealer_hurlunk", "d5/d35/a24103.html#ae6d095365d23c30d5b772b047b459ddb", null ],
+    [ "OnGossipHello", "d5/d35/a24103.html#ad04b7f906f029d9935e29c585b0de421", null ],
+    [ "OnGossipSelect", "d5/d35/a24103.html#aa23833dcdefb909899120c25d5376111", null ]
 ];

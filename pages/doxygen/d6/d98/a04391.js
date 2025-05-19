@@ -1,22 +1,10 @@
 var a04391 =
 [
-    [ "AppenderConsole", "da/d97/a05319.html", "da/d97/a05319" ],
-    [ "ColorTypes", "d6/d98/a04391.html#a6a9b1b5f775325358eae2c7e95ebe832", [
-      [ "BLACK", "d6/d98/a04391.html#a6a9b1b5f775325358eae2c7e95ebe832af77fb67151d0c18d397069ad8c271ba3", null ],
-      [ "RED", "d6/d98/a04391.html#a6a9b1b5f775325358eae2c7e95ebe832af80f9a890089d211842d59625e561f88", null ],
-      [ "GREEN", "d6/d98/a04391.html#a6a9b1b5f775325358eae2c7e95ebe832aa60bd322f93178d68184e30e162571ca", null ],
-      [ "BROWN", "d6/d98/a04391.html#a6a9b1b5f775325358eae2c7e95ebe832a1fa14482e7e4dc1332ab8c9d995fe570", null ],
-      [ "BLUE", "d6/d98/a04391.html#a6a9b1b5f775325358eae2c7e95ebe832a35d6719cb4d7577c031b3d79057a1b79", null ],
-      [ "MAGENTA", "d6/d98/a04391.html#a6a9b1b5f775325358eae2c7e95ebe832a56926c820ad72d0977e7ee44d9916e62", null ],
-      [ "CYAN", "d6/d98/a04391.html#a6a9b1b5f775325358eae2c7e95ebe832aafe71cad474c15ce63b300c470eef8cc", null ],
-      [ "GREY", "d6/d98/a04391.html#a6a9b1b5f775325358eae2c7e95ebe832a38566822dbd9408c447abfd3ed4a85d2", null ],
-      [ "YELLOW", "d6/d98/a04391.html#a6a9b1b5f775325358eae2c7e95ebe832ae735a848bf82163a19236ead1c3ef2d2", null ],
-      [ "LRED", "d6/d98/a04391.html#a6a9b1b5f775325358eae2c7e95ebe832a21218f0bbfa9bc5df1980d7b00b31eef", null ],
-      [ "LGREEN", "d6/d98/a04391.html#a6a9b1b5f775325358eae2c7e95ebe832af140c7722cbeec108ed0498ab2e5dc81", null ],
-      [ "LBLUE", "d6/d98/a04391.html#a6a9b1b5f775325358eae2c7e95ebe832aceb95882ebc29273fb1545cf9c521da5", null ],
-      [ "LMAGENTA", "d6/d98/a04391.html#a6a9b1b5f775325358eae2c7e95ebe832a51603f3a2238f1121bd8ab3c5d4a1b6e", null ],
-      [ "LCYAN", "d6/d98/a04391.html#a6a9b1b5f775325358eae2c7e95ebe832ad0eb86e5e042610a6d0c3fc1e86961b7", null ],
-      [ "WHITE", "d6/d98/a04391.html#a6a9b1b5f775325358eae2c7e95ebe832a283fc479650da98250635b9c3c0e7e50", null ],
-      [ "NUM_COLOR_TYPES", "d6/d98/a04391.html#a6a9b1b5f775325358eae2c7e95ebe832a90c1f623cb1ff125c9834ae2dc757f66", null ]
-    ] ]
+    [ "Acore::ACLogSink< T >", "db/d0d/a05495.html", "db/d0d/a05495" ],
+    [ "Acore::AsyncProcessResultImplementation", "df/d7e/a05499.html", "df/d7e/a05499" ],
+    [ "CreateChildProcess", "d6/d98/a04391.html#a18bbd8a6717e647e963654123259a033", null ],
+    [ "MakeACLogSink", "d6/d98/a04391.html#adcee37690522709ab4bd0b6f6e757dc5", null ],
+    [ "SearchExecutableInPath", "d6/d98/a04391.html#a9de098dac5e38f8c2cdbeb1d4d706881", null ],
+    [ "StartAsyncProcess", "d6/d98/a04391.html#a021f51138f5726e712f00bdddf9be729", null ],
+    [ "StartProcess", "d6/d98/a04391.html#acfaf2f89a55d299aa04c494719dfedc8", null ]
 ];

@@ -1,23 +1,12 @@
 var a02507 =
 [
-    [ "WorldStateSunsReachQuests", "de/dbd/a02507.html#ae92d2d64df97e6d4e504459dbe62a704", [
-      [ "QUEST_ERRATIC_BEHAVIOR", "de/dbd/a02507.html#ae92d2d64df97e6d4e504459dbe62a704a4f2a85bb3172f682d010d0782c9bcc24", null ],
-      [ "QUEST_SANCTUM_WARDS", "de/dbd/a02507.html#ae92d2d64df97e6d4e504459dbe62a704a937beacad369f610742b3d62fe33cab0", null ],
-      [ "QUEST_BATTLE_FOR_THE_SUNS_REACH_ARMORY", "de/dbd/a02507.html#ae92d2d64df97e6d4e504459dbe62a704a98ebea3b62e2627835de9b62156cf05a", null ],
-      [ "QUEST_DISTRACTION_AT_THE_DEAD_SCAR", "de/dbd/a02507.html#ae92d2d64df97e6d4e504459dbe62a704adf3a2dd8db11cc9c77b39a8eaebce873", null ],
-      [ "QUEST_INTERCEPTING_THE_MANA_CELLS", "de/dbd/a02507.html#ae92d2d64df97e6d4e504459dbe62a704a6f30cdc73db7de9c5c0c7be0e1b6c377", null ],
-      [ "QUEST_INTERCEPT_THE_REINFORCEMENTS", "de/dbd/a02507.html#ae92d2d64df97e6d4e504459dbe62a704ab875551f6415f6ac57dfd81dae4b1af5", null ],
-      [ "QUEST_TAKING_THE_HARBOR", "de/dbd/a02507.html#ae92d2d64df97e6d4e504459dbe62a704adf6f0dde850df588195e298e20884dc3", null ],
-      [ "QUEST_MAKING_READY", "de/dbd/a02507.html#ae92d2d64df97e6d4e504459dbe62a704abadeaae10ba1cf07a4e49d58b27a2430", null ],
-      [ "QUEST_DISCOVERING_YOUR_ROOTS", "de/dbd/a02507.html#ae92d2d64df97e6d4e504459dbe62a704ad53e4065f2edb54c276af531e4cbd158", null ],
-      [ "QUEST_A_CHARITABLE_DONATION", "de/dbd/a02507.html#ae92d2d64df97e6d4e504459dbe62a704af367c41748283293358b00d0ceea276b", null ],
-      [ "QUEST_A_MAGNANIMOUS_BENEFACTOR", "de/dbd/a02507.html#ae92d2d64df97e6d4e504459dbe62a704ac530d05014596aa5ace83a6c92b0b5c4", null ],
-      [ "COUNTER_MAX_VAL_REQ", "de/dbd/a02507.html#ae92d2d64df97e6d4e504459dbe62a704a45e1556a8329106c7b177a050f5e45a5", null ]
+    [ "instance_shadow_labyrinth", "d8/d30/a22619.html", "d8/d30/a22619" ],
+    [ "instance_shadow_labyrinth::instance_shadow_labyrinth_InstanceMapScript", "d6/d11/a22623.html", "d6/d11/a22623" ],
+    [ "spell_mark_of_malice", "dd/d2c/a22627.html", "dd/d2c/a22627" ],
+    [ "MarkOfMalice", "de/dbd/a02507.html#a5faa1e1ef40cd28efc7332da31667677", [
+      [ "SPELL_MARK_OF_MALICE_TRIGGERED", "de/dbd/a02507.html#a5faa1e1ef40cd28efc7332da31667677a3c3d2a42daa901d72ea35a7207267ecb", null ]
     ] ],
-    [ "WorldStateSunwellGateQuests", "de/dbd/a02507.html#ab96270d11fbb117a1f967bc0d80f91ca", [
-      [ "QUEST_AGAMATH_THE_FIRST_GATE", "de/dbd/a02507.html#ab96270d11fbb117a1f967bc0d80f91caa5488c9368a2859c5f47656009ebe9eeb", null ],
-      [ "QUEST_ROHENDOR_THE_SECOND_GATE", "de/dbd/a02507.html#ab96270d11fbb117a1f967bc0d80f91caaac3b523ff003dbd2c4630a2f64f9ef52", null ],
-      [ "QUEST_ARCHONISUS_THE_FINAL_GATE", "de/dbd/a02507.html#ab96270d11fbb117a1f967bc0d80f91caa79773a037e39a86021645c7ef20836dc", null ],
-      [ "COUNTER_MAX_VAL_REQ_SWP_GATES", "de/dbd/a02507.html#ab96270d11fbb117a1f967bc0d80f91caadc56c79d9946a6da707fde15807fcfc5", null ]
-    ] ]
+    [ "AddSC_instance_shadow_labyrinth", "de/dbd/a02507.html#ad8948ff8ccd6c3cee367ad7227308846", null ],
+    [ "creatureData", "de/dbd/a02507.html#a412286b689bd324fedd65ddd8dde8afb", null ],
+    [ "doorData", "de/dbd/a02507.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ]
 ];

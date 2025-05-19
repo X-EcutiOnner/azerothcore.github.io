@@ -1,8 +1,4 @@
 var a04640 =
 [
-    [ "Acore::Impl::GenericHashImpl", "db/d92/a05155.html", "db/d92/a05155" ],
-    [ "Acore::Impl::GenericHash< HashCreator, DigestLength >", "d1/d90/a05159.html", "d1/d90/a05159" ],
-    [ "MD5", "d9/d32/a04640.html#a0e8f523857a8cf977c3aa63b40112a4d", null ],
-    [ "SHA1", "d9/d32/a04640.html#ac698fcc9e65a1dd451c5bd72b1b3e368", null ],
-    [ "SHA256", "d9/d32/a04640.html#a57930df8fd74a97f0fbc8d958ebb215f", null ]
+    [ "RefMgr< TO, FROM >", "d7/d00/a05223.html", "d7/d00/a05223" ]
 ];

@@ -1,17 +1,16 @@
 var a04319 =
 [
-    [ "apply", "de/dc3/a04319.html#a6177d7ac84a4ea6819c57a124345540e", null ],
-    [ "convert", "de/dc3/a04319.html#a5628479f846d755da3ff53b0e2a66c26", null ],
-    [ "convert< 0 >", "de/dc3/a04319.html#aa8017307aa0aa935f062b4f701563d09", null ],
-    [ "convert< 1 >", "de/dc3/a04319.html#a3717e304a2b8b074fcd513ca8e0db116", null ],
-    [ "EndianConvert", "de/dc3/a04319.html#a49a7404e8b8e7030c609822047db18e8", null ],
-    [ "EndianConvert", "de/dc3/a04319.html#a9d20b1e463a04f0a22d79ca802902be6", null ],
-    [ "EndianConvert", "de/dc3/a04319.html#af2e19073fdc053bb0299b663fa1ee757", null ],
-    [ "EndianConvert", "de/dc3/a04319.html#a7a138a6c8a71f6e9bd8eb436a598f628", null ],
-    [ "EndianConvertPtr", "de/dc3/a04319.html#a73b1f88261dfd018f7f185b0ea941c88", null ],
-    [ "EndianConvertPtrReverse", "de/dc3/a04319.html#a8b9f1be37ef60cffbb862512d9374dd4", null ],
-    [ "EndianConvertReverse", "de/dc3/a04319.html#acdb2b3cf0ea55e72e1d4047380cbd260", null ],
-    [ "EndianConvertReverse", "de/dc3/a04319.html#a71946d011105dec5ad60c6875066ed86", null ],
-    [ "EndianConvertReverse", "de/dc3/a04319.html#a1fa1c447bec92bbf436d429b422cc2e7", null ],
-    [ "EndianConvertReverse", "de/dc3/a04319.html#a2adbd00f9fd7adfc4bd3d26ae1565a0b", null ]
+    [ "DBCFileLoader", "dc/d07/a05175.html", "dc/d07/a05175" ],
+    [ "DBCFileLoader::Record", "dc/daa/a05179.html", "dc/daa/a05179" ],
+    [ "DbcFieldFormat", "de/dc3/a04319.html#a969264ba91452f632e809db524c68960", [
+      [ "FT_NA", "de/dc3/a04319.html#a969264ba91452f632e809db524c68960a0f8a37a34dd644e8432e79266f8e2f8c", null ],
+      [ "FT_NA_BYTE", "de/dc3/a04319.html#a969264ba91452f632e809db524c68960a974d335432036bc88ad76f044e8fca0c", null ],
+      [ "FT_STRING", "de/dc3/a04319.html#a969264ba91452f632e809db524c68960a424189c585691c2ce732ea69a88f4f29", null ],
+      [ "FT_FLOAT", "de/dc3/a04319.html#a969264ba91452f632e809db524c68960a1091cfb22d5ff81a81948a92b96f8e9a", null ],
+      [ "FT_INT", "de/dc3/a04319.html#a969264ba91452f632e809db524c68960a9d5724546fec2b9d79741da7d3a8030a", null ],
+      [ "FT_BYTE", "de/dc3/a04319.html#a969264ba91452f632e809db524c68960ae268574ec5607a27ec940656742b2095", null ],
+      [ "FT_SORT", "de/dc3/a04319.html#a969264ba91452f632e809db524c68960a496dcb8cfc6d702d15b9a603b242a642", null ],
+      [ "FT_IND", "de/dc3/a04319.html#a969264ba91452f632e809db524c68960a0e7ef1f172d0c33a975fbda2be046036", null ],
+      [ "FT_LOGIC", "de/dc3/a04319.html#a969264ba91452f632e809db524c68960aad79cbf0ed6b926353344f5abde2e4cc", null ]
+    ] ]
 ];

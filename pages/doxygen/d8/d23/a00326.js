@@ -1,11 +1,7 @@
 var a00326 =
 [
-    [ "npc_announcer_toc10", "d7/d8e/a16547.html", "d7/d8e/a16547" ],
-    [ "MenuTexts", "d8/d23/a00326.html#a5e87c460d493df2d4629af8c1a30fc5a", [
-      [ "MSG_TESTED", "d8/d23/a00326.html#a5e87c460d493df2d4629af8c1a30fc5aa462de44eca88c95eb9e412dcabc36185", null ],
-      [ "MSG_NEXT_STAGE", "d8/d23/a00326.html#a5e87c460d493df2d4629af8c1a30fc5aafb4b982343fbe7bdd8db85adec53db80", null ],
-      [ "MSG_CRUSADERS", "d8/d23/a00326.html#a5e87c460d493df2d4629af8c1a30fc5aa0f20061fedbed395c6723105b82e091d", null ],
-      [ "MSG_ANUBARAK", "d8/d23/a00326.html#a5e87c460d493df2d4629af8c1a30fc5aad43353382c7c2b60068aa5b306b62643", null ]
-    ] ],
-    [ "AddSC_trial_of_the_crusader", "d8/d23/a00326.html#aae8fa1928137dde06462a753ceebcca6", null ]
+    [ "BG_RV_CLOSE_FIRE_TIMER", "d8/d23/a00326.html#adea63e30cefe486dd1cbeb0353fdaeb2", null ],
+    [ "BG_RV_FIRE_TO_PILLAR_TIMER", "d8/d23/a00326.html#a20f119684cfae65594c4cb1fc59e60c1", null ],
+    [ "BG_RV_FIRST_TIMER", "d8/d23/a00326.html#abb49be7549db0a88e8b5fcd470741084", null ],
+    [ "BG_RV_PILLAR_SWITCH_TIMER", "d8/d23/a00326.html#a6ecc5972946e4de12babadf07ce85e2f", null ]
 ];

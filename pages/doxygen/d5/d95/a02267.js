@@ -1,7 +1,10 @@
 var a02267 =
 [
-    [ "instance_obsidian_sanctum", "d5/dc0/a15908.html", "d5/dc0/a15908" ],
-    [ "instance_obsidian_sanctum::instance_obsidian_sanctum_InstanceMapScript", "da/dd5/a15912.html", "da/dd5/a15912" ],
-    [ "AddSC_instance_obsidian_sanctum", "d5/d95/a02267.html#ac4abea2a912b12612a4c884df63abe00", null ],
-    [ "boundaries", "d5/d95/a02267.html#aa75d7d0ffe0cef214f982966c33db1c1", null ]
+    [ "OutdoorPvPGH", "dc/dab/a22427.html", "dc/dab/a22427" ],
+    [ "OPvPCapturePointGH", "d2/dac/a22431.html", "d2/dac/a22431" ],
+    [ "OutdoorPvPGHenum", "d5/d95/a02267.html#a68fd4e51a6ab53a5f6bc93fe7800623b", [
+      [ "GH_ALLIANCE_DEFENSE_EVENT", "d5/d95/a02267.html#a68fd4e51a6ab53a5f6bc93fe7800623ba4d9e1d2fb4e064d2ec502e86046044c3", null ],
+      [ "GH_HORDE_DEFENSE_EVENT", "d5/d95/a02267.html#a68fd4e51a6ab53a5f6bc93fe7800623babf83508167d0dcdfb12a95048d098d10", null ],
+      [ "GH_ZONE", "d5/d95/a02267.html#a68fd4e51a6ab53a5f6bc93fe7800623ba5b111447969af668c37b96bdcb8e4e0f", null ]
+    ] ]
 ];

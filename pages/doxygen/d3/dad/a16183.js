@@ -1,11 +1,6 @@
 var a16183 =
 [
-    [ "npc_black_knight_ghoulAI", "d3/dad/a16183.html#a6e108052a7f9911dcd1b0ed13b2b8a0f", null ],
-    [ "JustEngagedWith", "d3/dad/a16183.html#a8353dea0de91017223c7624a5a96ebec", null ],
-    [ "Reset", "d3/dad/a16183.html#a8a33efa0719063a9565bc07143f8ad83", null ],
-    [ "SpellHit", "d3/dad/a16183.html#aa1b1fbb1a4633831774c7a7dd5cbb546", null ],
-    [ "SpellHitTarget", "d3/dad/a16183.html#a5f106a3b0edf353769db9021b9ca770d", null ],
-    [ "UpdateAI", "d3/dad/a16183.html#a6ccdb6a59b93999c01d434bcda593f25", null ],
-    [ "events", "d3/dad/a16183.html#acb56826a164e4d7da0a2f04c1efaf72b", null ],
-    [ "pInstance", "d3/dad/a16183.html#a35b8375f1b3407f5cee653ee118e0697", null ]
+    [ "npc_black_knight_ghoulAI", "d2/dd5/a16187.html", "d2/dd5/a16187" ],
+    [ "npc_black_knight_ghoul", "d3/dad/a16183.html#a8e62b1070f0ed4e5b917fcaaeb2da8d0", null ],
+    [ "GetAI", "d3/dad/a16183.html#a52308f8d168e1ccea22de653813b7f6f", null ]
 ];

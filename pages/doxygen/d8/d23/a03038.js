@@ -1,12 +1,26 @@
 var a03038 =
 [
-    [ "DeleteSpellFromAllPlayers", "d8/d23/a03038.html#af0dec25ac7c118b67a71a0356eb37877", null ],
-    [ "GetDiminishingReturnsGroupForSpell", "d8/d23/a03038.html#a35697cceaf39daf069d06c53e8e3cdf7", null ],
-    [ "GetDiminishingReturnsGroupType", "d8/d23/a03038.html#ab0fdc6c7b1e9317d6f6c0480d734b4f1", null ],
-    [ "GetDiminishingReturnsLimitDuration", "d8/d23/a03038.html#a2ba27d428865ac3f87bf6f6843271d3f", null ],
-    [ "GetDiminishingReturnsMaxLevel", "d8/d23/a03038.html#ad621262d491c800fb5ddd016250dd46f", null ],
-    [ "IsDiminishingReturnsGroupDurationLimited", "d8/d23/a03038.html#a423a80c889a3456a2b55e0e9c22ad060", null ],
-    [ "IsPartOfSkillLine", "d8/d23/a03038.html#a18102741b602d3b4473f75d4f619a09b", null ],
-    [ "IsPrimaryProfessionSkill", "d8/d23/a03038.html#a09c4e23bd85fab812b67beafbbf1b7b3", null ],
-    [ "LoadPetDefaultSpells_helper", "d8/d23/a03038.html#a1c2a3145d36ac321b7f1f11a01a235f5", null ]
+    [ "AzjolNerubScriptName", "d8/d23/a03038.html#a49c3c3627ce229fce6b1f55755bcb7d7", null ],
+    [ "DataHeader", "d8/d23/a03038.html#a042491ef36459046f3866e90f15aae0d", null ],
+    [ "ANData", "d8/d23/a03038.html#a38e14ca59c29a20c7d83feecae87365e", [
+      [ "DATA_KRIKTHIR_THE_GATEWATCHER_EVENT", "d8/d23/a03038.html#a38e14ca59c29a20c7d83feecae87365eafe7f087c1e8262a80b7f072fba6ae671", null ],
+      [ "DATA_HADRONOX_EVENT", "d8/d23/a03038.html#a38e14ca59c29a20c7d83feecae87365eae18e711c44710c678c33ec4816ecbcdf", null ],
+      [ "DATA_ANUBARAK_EVENT", "d8/d23/a03038.html#a38e14ca59c29a20c7d83feecae87365ea64e72a1a7491f71dc45c3ee0e6aba1a3", null ],
+      [ "MAX_ENCOUNTERS", "d8/d23/a03038.html#a38e14ca59c29a20c7d83feecae87365ea9cfa5bdc17e1d5a590d300b530b36a25", null ]
+    ] ],
+    [ "ANIds", "d8/d23/a03038.html#a13c2be6ee4ddd01bcdde2acfa66080eb", [
+      [ "NPC_SKITTERING_SWARMER", "d8/d23/a03038.html#a13c2be6ee4ddd01bcdde2acfa66080eba9bed6273aaeebfba195695ffaccff429", null ],
+      [ "NPC_SKITTERING_INFECTIOR", "d8/d23/a03038.html#a13c2be6ee4ddd01bcdde2acfa66080ebaade67b0305f29a278aeb81b4317cd58b", null ],
+      [ "NPC_KRIKTHIR_THE_GATEWATCHER", "d8/d23/a03038.html#a13c2be6ee4ddd01bcdde2acfa66080eba9a8e964886187a715fc6d9e12652b582", null ],
+      [ "NPC_HADRONOX", "d8/d23/a03038.html#a13c2be6ee4ddd01bcdde2acfa66080ebadb575f56f42e4d47c262ab2dfd220c8a", null ],
+      [ "NPC_ANUB_AR_CHAMPION", "d8/d23/a03038.html#a13c2be6ee4ddd01bcdde2acfa66080eba43c41eeac44b6c1e9a8f5f60faf047cc", null ],
+      [ "NPC_ANUB_AR_NECROMANCER", "d8/d23/a03038.html#a13c2be6ee4ddd01bcdde2acfa66080eba85576368648a94fdc7883c9b73fe6fea", null ],
+      [ "NPC_ANUB_AR_CRYPTFIEND", "d8/d23/a03038.html#a13c2be6ee4ddd01bcdde2acfa66080eba145b39b904161cf071df0d8136bb855c", null ],
+      [ "GO_KRIKTHIR_DOORS", "d8/d23/a03038.html#a13c2be6ee4ddd01bcdde2acfa66080eba9c746a2553132cc145054c043a2fe64b", null ],
+      [ "GO_ANUBARAK_DOORS1", "d8/d23/a03038.html#a13c2be6ee4ddd01bcdde2acfa66080ebadf4da3d7a3b1a8ab02f2e587fd9a2316", null ],
+      [ "GO_ANUBARAK_DOORS2", "d8/d23/a03038.html#a13c2be6ee4ddd01bcdde2acfa66080ebaf614c816cc31f5a04d07c0c8a30274dc", null ],
+      [ "GO_ANUBARAK_DOORS3", "d8/d23/a03038.html#a13c2be6ee4ddd01bcdde2acfa66080ebaf1d64fad51ac6f98962bbdac3b4a47e0", null ],
+      [ "SPELL_WEB_WRAP_TRIGGER", "d8/d23/a03038.html#a13c2be6ee4ddd01bcdde2acfa66080eba5de2c77a1e59e329fcfa4828043c428b", null ]
+    ] ],
+    [ "GetAzjolNerubAI", "d8/d23/a03038.html#a19b3f42ba299e1f42de805f494cd5812", null ]
 ];

@@ -1,6 +1,6 @@
 var a16091 =
 [
-    [ "boss_saviana_ragefireAI", "df/d8d/a16095.html", "df/d8d/a16095" ],
-    [ "boss_saviana_ragefire", "d5/da2/a16091.html#a5964bbc510355a8b1fd08bd5f9f5f8c0", null ],
-    [ "GetAI", "d5/da2/a16091.html#a0a0073d8710af066d9711636f4d5b01e", null ]
+    [ "npc_living_infernoAI", "d5/da2/a16091.html#ab33eeac6aab8e18778fc7d4ffe5038f1", null ],
+    [ "IsSummonedBy", "d5/da2/a16091.html#a4b6986a392aee0741ba47651e809c76c", null ],
+    [ "JustDied", "d5/da2/a16091.html#a60b2e31d24e182e97d604d91223e2dc8", null ]
 ];

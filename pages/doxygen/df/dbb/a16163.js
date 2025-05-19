@@ -1,6 +1,7 @@
 var a16163 =
 [
-    [ "boss_black_knightAI", "d4/dcc/a16167.html", "d4/dcc/a16167" ],
-    [ "boss_black_knight", "df/dbb/a16163.html#af55a307f282a68bc83e45c6de647ebf4", null ],
-    [ "GetAI", "df/dbb/a16163.html#a3f7ac72f69cebdab0a13c61c0b9b2ed2", null ]
+    [ "HandleAfterEffectAbsorb", "df/dbb/a16163.html#ab3d9f3679931b4b3b29713602d08701d", null ],
+    [ "PrepareAuraScript", "df/dbb/a16163.html#a10ee3cda9edfec8140b94e13b88266bd", null ],
+    [ "Register", "df/dbb/a16163.html#ab68a5ccfb0d96390bb83c329eb849cdd", null ],
+    [ "Validate", "df/dbb/a16163.html#a87750183d2b2d6adb67bba4a1f767029", null ]
 ];

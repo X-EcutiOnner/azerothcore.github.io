@@ -1,4 +1,4 @@
 var a04313 =
 [
-    [ "AsyncCallbackProcessor< T >", "d8/ddb/a05415.html", "d8/ddb/a05415" ]
+    [ "LockedQueue< T, StorageType >", "d1/dab/a05359.html", "d1/dab/a05359" ]
 ];

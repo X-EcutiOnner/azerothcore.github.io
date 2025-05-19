@@ -1,6 +1,10 @@
 var a21447 =
 [
-    [ "npc_beryl_sorcererAI", "de/d81/a21451.html", "de/d81/a21451" ],
-    [ "npc_beryl_sorcerer", "d4/d81/a21447.html#a4f74ee45ee0730fcfd044418771a9ee1", null ],
-    [ "GetAI", "d4/d81/a21447.html#a963646eed9f121f87efe480312957286", null ]
+    [ "npc_jenny", "d4/d81/a21447.html#ab845ba4551900a03c5a995d348a1be55", null ],
+    [ "DamageTaken", "d4/d81/a21447.html#a8700091c82bfff473f3d5563deb69e0b", null ],
+    [ "Initialize", "d4/d81/a21447.html#aab8c540ebb90ebbaef961b1feb3013a3", null ],
+    [ "MoveInLineOfSight", "d4/d81/a21447.html#acd0939cee3ecb9d961d09815d9c50f71", null ],
+    [ "UpdateFollowerAI", "d4/d81/a21447.html#afbd142855602bcf7a8cd8e4cc4760cf0", null ],
+    [ "_events", "d4/d81/a21447.html#aa98caf8b706551470c943b4b722a85ae", null ],
+    [ "_fezzix", "d4/d81/a21447.html#ac2115c122c2eac2d5a36d1795d1e6bf0", null ]
 ];

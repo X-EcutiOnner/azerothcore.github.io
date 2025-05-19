@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/scripts/OutdoorPvP/OutdoorPvPGH.h File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/game/World/World.cpp File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,69 +106,122 @@ $(document).ready(function(){initNavTree('d4/d51/a00017.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
-<a href="#enum-members">Enumerations</a>  </div>
-  <div class="headertitle"><div class="title">OutdoorPvPGH.h File Reference</div></div>
+<a href="#namespaces">Namespaces</a> &#124;
+<a href="#func-members">Functions</a> &#124;
+<a href="#var-members">Variables</a>  </div>
+  <div class="headertitle"><div class="title">World.cpp File Reference<div class="ingroups"><a class="el" href="../../d8/dfa/a04756.html">The World</a></div></div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">OutdoorPvP.h</a>&quot;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">World.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">AccountMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">AchievementMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">AddonMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">ArenaTeamMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">ArenaSeasonMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">AuctionHouseMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">AutobroadcastMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">BattlefieldMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">BattlegroundMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">CalendarMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Channel.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">ChannelMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">CharacterDatabaseCleaner.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Chat.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">ChatPackets.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Common.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">ConditionMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Config.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">CreatureAIRegistry.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">CreatureGroups.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">CreatureTextMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">DBCStores.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">DatabaseEnv.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">DisableMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">DynamicVisibility.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">GameEventMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">GameGraveyard.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">GameTime.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">GitRevision.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">GridNotifiersImpl.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">GroupMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">GuildMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">IPLocation.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">InstanceSaveMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">ItemEnchantmentMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">LFGMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Log.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">LootItemStorage.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">LootMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">M2Stores.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">MMapFactory.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">MapMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Metric.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">MotdMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">ObjectMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Opcodes.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">OutdoorPvPMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">PetitionMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Player.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">PlayerDump.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">PoolMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Realm.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">ScriptMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">ServerMailMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">SkillDiscovery.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">SkillExtraItems.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">SmartAI.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">SpellMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">TaskScheduler.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">TicketMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Transport.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">TransportMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">UpdateTime.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Util.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">VMapFactory.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">VMapMgr2.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Warden.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">WardenCheckMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">WaypointMovementGenerator.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">WeatherMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">WhoListCacheMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">WorldGlobals.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">WorldPacket.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">WorldSession.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">WorldSessionMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">WorldState.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">WorldStateDefines.h</a>&quot;</code><br />
+<code>#include &lt;boost/asio/ip/address.hpp&gt;</code><br />
+<code>#include &lt;cmath&gt;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/dd3/a22423.html">OutdoorPvPGH</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dab/a22427.html">OPvPCapturePointGH</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d23/a11507.html">Acore::WorldWorldTextBuilder</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
-Enumerations</h2></td></tr>
-<tr class="memitem:a68fd4e51a6ab53a5f6bc93fe7800623b"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d51/a00017.html#a68fd4e51a6ab53a5f6bc93fe7800623b">OutdoorPvPGHenum</a> { <br />
-&#160;&#160;<a class="el" href="../../d4/d51/a00017.html#a68fd4e51a6ab53a5f6bc93fe7800623ba4d9e1d2fb4e064d2ec502e86046044c3">GH_ALLIANCE_DEFENSE_EVENT</a> = 65
-, <br />
-&#160;&#160;<a class="el" href="../../d4/d51/a00017.html#a68fd4e51a6ab53a5f6bc93fe7800623babf83508167d0dcdfb12a95048d098d10">GH_HORDE_DEFENSE_EVENT</a> = 66
-, <br />
-&#160;&#160;<a class="el" href="../../d4/d51/a00017.html#a68fd4e51a6ab53a5f6bc93fe7800623ba5b111447969af668c37b96bdcb8e4e0f">GH_ZONE</a> = 394
-<br />
- }</td></tr>
-<tr class="separator:a68fd4e51a6ab53a5f6bc93fe7800623b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="namespaces" name="namespaces"></a>
+Namespaces</h2></td></tr>
+<tr class="memitem:db/d75/a04761"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d75/a04761.html">Acore</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
+Functions</h2></td></tr>
+<tr class="memitem:ga6bf640d0ef6703c32d9fa1618826319b"><td class="memItemLeft" align="right" valign="top">std::unique_ptr&lt; <a class="el" href="../../d2/d12/a11503.html">IWorld</a> &gt; &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dfa/a04756.html#ga6bf640d0ef6703c32d9fa1618826319b">getWorldInstance</a> ()</td></tr>
+<tr class="separator:ga6bf640d0ef6703c32d9fa1618826319b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
+Variables</h2></td></tr>
+<tr class="memitem:gab842e78f86995775c494437356620779"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../da/d7c/a28399.html">Realm</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dfa/a04756.html#gab842e78f86995775c494437356620779">realm</a></td></tr>
+<tr class="separator:gab842e78f86995775c494437356620779"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Enumeration Type Documentation</h2>
-<a id="a68fd4e51a6ab53a5f6bc93fe7800623b" name="a68fd4e51a6ab53a5f6bc93fe7800623b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a68fd4e51a6ab53a5f6bc93fe7800623b">&#9670;&#160;</a></span>OutdoorPvPGHenum</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">enum <a class="el" href="../../d4/d51/a00017.html#a68fd4e51a6ab53a5f6bc93fe7800623b">OutdoorPvPGHenum</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a68fd4e51a6ab53a5f6bc93fe7800623ba4d9e1d2fb4e064d2ec502e86046044c3" name="a68fd4e51a6ab53a5f6bc93fe7800623ba4d9e1d2fb4e064d2ec502e86046044c3"></a>GH_ALLIANCE_DEFENSE_EVENT&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a68fd4e51a6ab53a5f6bc93fe7800623babf83508167d0dcdfb12a95048d098d10" name="a68fd4e51a6ab53a5f6bc93fe7800623babf83508167d0dcdfb12a95048d098d10"></a>GH_HORDE_DEFENSE_EVENT&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a68fd4e51a6ab53a5f6bc93fe7800623ba5b111447969af668c37b96bdcb8e4e0f" name="a68fd4e51a6ab53a5f6bc93fe7800623ba5b111447969af668c37b96bdcb8e4e0f"></a>GH_ZONE&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">   24</span>{</div>
-<div class="line"><span class="lineno">   25</span>    <a class="code hl_enumvalue" href="../../d4/d51/a00017.html#a68fd4e51a6ab53a5f6bc93fe7800623ba4d9e1d2fb4e064d2ec502e86046044c3">GH_ALLIANCE_DEFENSE_EVENT</a>           = 65,</div>
-<div class="line"><span class="lineno">   26</span>    <a class="code hl_enumvalue" href="../../d4/d51/a00017.html#a68fd4e51a6ab53a5f6bc93fe7800623babf83508167d0dcdfb12a95048d098d10">GH_HORDE_DEFENSE_EVENT</a>              = 66,</div>
-<div class="line"><span class="lineno">   27</span> </div>
-<div class="line"><span class="lineno">   28</span>    <a class="code hl_enumvalue" href="../../d4/d51/a00017.html#a68fd4e51a6ab53a5f6bc93fe7800623ba5b111447969af668c37b96bdcb8e4e0f">GH_ZONE</a>                             = 394,</div>
-<div class="line"><span class="lineno">   29</span>};</div>
-<div class="ttc" id="aa00017_html_a68fd4e51a6ab53a5f6bc93fe7800623ba4d9e1d2fb4e064d2ec502e86046044c3"><div class="ttname"><a href="../../d4/d51/a00017.html#a68fd4e51a6ab53a5f6bc93fe7800623ba4d9e1d2fb4e064d2ec502e86046044c3">GH_ALLIANCE_DEFENSE_EVENT</a></div><div class="ttdeci">@ GH_ALLIANCE_DEFENSE_EVENT</div><div class="ttdef"><b>Definition:</b> OutdoorPvPGH.h:25</div></div>
-<div class="ttc" id="aa00017_html_a68fd4e51a6ab53a5f6bc93fe7800623ba5b111447969af668c37b96bdcb8e4e0f"><div class="ttname"><a href="../../d4/d51/a00017.html#a68fd4e51a6ab53a5f6bc93fe7800623ba5b111447969af668c37b96bdcb8e4e0f">GH_ZONE</a></div><div class="ttdeci">@ GH_ZONE</div><div class="ttdef"><b>Definition:</b> OutdoorPvPGH.h:28</div></div>
-<div class="ttc" id="aa00017_html_a68fd4e51a6ab53a5f6bc93fe7800623babf83508167d0dcdfb12a95048d098d10"><div class="ttname"><a href="../../d4/d51/a00017.html#a68fd4e51a6ab53a5f6bc93fe7800623babf83508167d0dcdfb12a95048d098d10">GH_HORDE_DEFENSE_EVENT</a></div><div class="ttdeci">@ GH_HORDE_DEFENSE_EVENT</div><div class="ttdef"><b>Definition:</b> OutdoorPvPGH.h:26</div></div>
-</div><!-- fragment -->
-</div>
-</div>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_5ad9d2bd1e1e418dea010d25c4d4f5d3.html">OutdoorPvP</a></li><li class="navelem"><a class="el" href="../../d4/d51/a00017.html">OutdoorPvPGH.h</a></li>
-    <li class="footer">Generated on Mon May 12 2025 20:45:58 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_6f2d0651f8bb60d9295230d3c0a9398e.html">World</a></li><li class="navelem"><a class="el" href="../../d4/d51/a00017.html">World.cpp</a></li>
+    <li class="footer">Generated on Mon May 19 2025 20:44:48 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

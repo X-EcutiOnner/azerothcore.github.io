@@ -1,5 +1,6 @@
 var a25855 =
 [
-    [ "PrepareSpellScript", "df/d56/a25855.html#ad7b3235062959af1f28bb6c7b2f929c3", null ],
-    [ "Register", "df/d56/a25855.html#ae35dad0d33ee0dd571a8f5fcccd2ce58", null ]
+    [ "OnPeriodic", "df/d56/a25855.html#a3368e8fad4a5ecd242056da38ad8f23a", null ],
+    [ "PrepareAuraScript", "df/d56/a25855.html#ad3d091510685ebc2d87aadb658cacf58", null ],
+    [ "Register", "df/d56/a25855.html#a9552ba0f4c18623b6b00ababa034942c", null ]
 ];

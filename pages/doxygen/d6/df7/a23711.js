@@ -1,6 +1,6 @@
 var a23711 =
 [
-    [ "OnApply", "d6/df7/a23711.html#a472220f22165c6d21eab5f4b5f75921e", null ],
-    [ "PrepareAuraScript", "d6/df7/a23711.html#a12dba24d5aa3d41671980d8dd509d6f2", null ],
-    [ "Register", "d6/df7/a23711.html#aa8530071a4053e6c6f8b194a9cc723e2", null ]
+    [ "HandleCast", "d6/df7/a23711.html#a912dc3b17ab7d0818089c32610d82a16", null ],
+    [ "PrepareSpellScript", "d6/df7/a23711.html#a6590aab70049aa5e94ed48aeb99ab1d0", null ],
+    [ "Register", "d6/df7/a23711.html#a09d4af96e2d5a69b1b61a6055bcb04d4", null ]
 ];

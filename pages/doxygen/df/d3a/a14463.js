@@ -1,6 +1,7 @@
 var a14463 =
 [
-    [ "HandleScriptEffect", "df/d3a/a14463.html#aebd700897688157ca62405c92fe58680", null ],
-    [ "PrepareSpellScript", "df/d3a/a14463.html#a09e11d1938279a2302fb8805e71c6c36", null ],
-    [ "Register", "df/d3a/a14463.html#aa0679665ba2c496e0a5aa5f6864d7230", null ]
+    [ "HandleScript", "df/d3a/a14463.html#adc8ab610e3b816dcce57fe44b6585bdb", null ],
+    [ "PrepareSpellScript", "df/d3a/a14463.html#a05059d25127cd8d3aa51e4374963f9d9", null ],
+    [ "Register", "df/d3a/a14463.html#aabe7d4213bbafdb6d072ba50bcfd1793", null ],
+    [ "Validate", "df/d3a/a14463.html#aa1e74de390a8b71e43e43664981a36ff", null ]
 ];

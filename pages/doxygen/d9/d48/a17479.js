@@ -1,6 +1,5 @@
 var a17479 =
 [
-    [ "npc_igb_ship_crewAI", "d0/d26/a17483.html", "d0/d26/a17483" ],
-    [ "npc_igb_ship_crew", "d9/d48/a17479.html#a5f4380aba94766a6a75b97026998b881", null ],
-    [ "GetAI", "d9/d48/a17479.html#a48955817e21a01a726b50685b467c229", null ]
+    [ "npc_zafod_boomboxAI", "d9/d48/a17479.html#a6540d8f5787ce1da211123721ef659f3", null ],
+    [ "sGossipSelect", "d9/d48/a17479.html#a6378748a168e4e668f696bd9c6dfbc31", null ]
 ];

@@ -1,5 +1,6 @@
 var a01016 =
 [
-    [ "bf_commandscript", "dd/dc8/a11547.html", "dd/dc8/a11547" ],
-    [ "AddSC_bf_commandscript", "de/def/a01016.html#a55cfeb06fb5af5d31e3c2627d0db8da8", null ]
+    [ "UpdateRequest", "d4/dc7/a09807.html", "d4/dc7/a09807" ],
+    [ "MapUpdateRequest", "d3/d74/a09811.html", "d3/d74/a09811" ],
+    [ "LFGUpdateRequest", "d3/dda/a09815.html", "d3/dda/a09815" ]
 ];

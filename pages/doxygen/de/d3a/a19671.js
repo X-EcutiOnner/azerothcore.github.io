@@ -1,16 +1,6 @@
 var a19671 =
 [
-    [ "boss_steelbreakerAI", "de/d3a/a19671.html#aeec79a009137be8b6290366d8d6bcfa3", null ],
-    [ "DoAction", "de/d3a/a19671.html#ac5bc8a9512c2e6e5169366cc5bbc79c2", null ],
-    [ "JustDied", "de/d3a/a19671.html#a001f8b206f0d00fff77e964f49cbdb58", null ],
-    [ "JustEngagedWith", "de/d3a/a19671.html#a0f207b2a274c7266f6882205e510f346", null ],
-    [ "JustReachedHome", "de/d3a/a19671.html#a3fd5d7c8baf6d6b4651d4d54df2e7fa8", null ],
-    [ "KilledUnit", "de/d3a/a19671.html#a5a0a92144412259bfa02abc04bdc4425", null ],
-    [ "Reset", "de/d3a/a19671.html#a9544ce38a210da1ac867d5cabf9ffbec", null ],
-    [ "SpellHit", "de/d3a/a19671.html#a21d891d8f8f6fa89b1f1883800d8d578", null ],
-    [ "UpdateAI", "de/d3a/a19671.html#ac4adabf023663df7b4c1fdc8c027b52d", null ],
-    [ "UpdatePhase", "de/d3a/a19671.html#af217acbeab5032b8a16180f4ff021e0a", null ],
-    [ "_phase", "de/d3a/a19671.html#ae71145ec4a82d1f024892181daebace9", null ],
-    [ "events", "de/d3a/a19671.html#a8085a615ff5d252452616ef69dfd3249", null ],
-    [ "pInstance", "de/d3a/a19671.html#ac99cd9678f209b0cf2e8e8e3457d0f55", null ]
+    [ "boss_steelbreakerAI", "dd/d10/a19675.html", "dd/d10/a19675" ],
+    [ "boss_steelbreaker", "de/d3a/a19671.html#af6e4c3729874e59959b35ca67a46aa44", null ],
+    [ "GetAI", "de/d3a/a19671.html#ac4189ffbba997719fb36a10ecdabd26c", null ]
 ];

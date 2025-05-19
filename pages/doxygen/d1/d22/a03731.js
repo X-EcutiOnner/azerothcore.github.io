@@ -1,14 +1,16 @@
 var a03731 =
 [
-    [ "WeatherMap", "d1/d22/a03731.html#afdd64650acc01e75684c5ae2b269d5c1", null ],
-    [ "WeatherZoneMap", "d1/d22/a03731.html#a77b1d830c50ce06ef7bb67f75cbd48b6", null ],
-    [ "AddWeather", "d1/d22/a03731.html#ga1f76350b68494335d48ae206b87e190c", null ],
-    [ "FindWeather", "d1/d22/a03731.html#gadd11deec2098fed61adf7910b8f09cc6", null ],
-    [ "GetWeatherData", "d1/d22/a03731.html#a8d453fe2bfb19b170807fe92e393bc51", null ],
-    [ "LoadWeatherData", "d1/d22/a03731.html#ga6c7d8a9fc5dfce0880220f4b5b8cd623", null ],
-    [ "RemoveWeather", "d1/d22/a03731.html#ga296a3324a3a38984149fae3e5d62435f", null ],
-    [ "SendFineWeatherUpdateToPlayer", "d1/d22/a03731.html#gac86b4e254146468a7412d8fc7b0c27f2", null ],
-    [ "Update", "d1/d22/a03731.html#ga45f0da6cf9e14a99380b4b9be2890801", null ],
-    [ "m_weathers", "d1/d22/a03731.html#ac2bde7e8b2ecff6ab9b2705d01ce8b2c", null ],
-    [ "mWeatherZoneMap", "d1/d22/a03731.html#a977110fadc5eac5e2efa26106382d408", null ]
+    [ "boss_grizzle", "d7/db9/a11879.html", "d7/db9/a11879" ],
+    [ "boss_grizzle::boss_grizzleAI", "d0/dff/a11883.html", "d0/dff/a11883" ],
+    [ "Grizzle", "d1/d22/a03731.html#acfff5d4b983e4db1d5efb6bd5da7e7aa", [
+      [ "SPELL_GROUNDTREMOR", "d1/d22/a03731.html#acfff5d4b983e4db1d5efb6bd5da7e7aaa4426ae7fabf4ddb0d8355b0049b5a6bb", null ],
+      [ "SPELL_FRENZY", "d1/d22/a03731.html#acfff5d4b983e4db1d5efb6bd5da7e7aaab54f261ba282273bed875abe6642a293", null ],
+      [ "EMOTE_FRENZY_KILL", "d1/d22/a03731.html#acfff5d4b983e4db1d5efb6bd5da7e7aaaebdb26e3a90dde560c1c4f7fd5615f63", null ]
+    ] ],
+    [ "Timer", "d1/d22/a03731.html#a6e0035edd58cc6ca8c94b5f9723a0d80", [
+      [ "TIMER_GROUNDTREMOR", "d1/d22/a03731.html#a6e0035edd58cc6ca8c94b5f9723a0d80a5046fe24f2bd1c59407d77496c82dd59", null ],
+      [ "TIMER_FRENZY", "d1/d22/a03731.html#a6e0035edd58cc6ca8c94b5f9723a0d80a31ac972cb44128c4662a608b8f6eeb83", null ],
+      [ "TIMER_WAR_STOMP", "d3/d4a/a03689.html#a6e0035edd58cc6ca8c94b5f9723a0d80a77d3bf4a5b183f5934aa399d3e185eef", null ]
+    ] ],
+    [ "AddSC_boss_grizzle", "d1/d22/a03731.html#adb6c19fe584b9ecd11ab67084570a0be", null ]
 ];

@@ -1,6 +1,6 @@
 var a17163 =
 [
-    [ "ShockVortexExplodeEvent", "d1/d4a/a17163.html#ad972aed372822e10a476d1592192f3ea", null ],
-    [ "Execute", "d1/d4a/a17163.html#a601f777052b8a142db49e9b0ab1fa81a", null ],
-    [ "_owner", "d1/d4a/a17163.html#a76b1887e486969fcd7a236a8eb7a9a2a", null ]
+    [ "StandUpEvent", "d1/d4a/a17163.html#a2f68b19898c65b9229159d9133b3d7cf", null ],
+    [ "Execute", "d1/d4a/a17163.html#a56bc1071300ff8f81e62839685e8f53a", null ],
+    [ "_owner", "d1/d4a/a17163.html#a456a494140657d81b203834f7b88d5d1", null ]
 ];

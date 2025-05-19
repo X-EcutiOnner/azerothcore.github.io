@@ -1,6 +1,6 @@
 var a02519 =
 [
-    [ "Acore::WorldWorldTextBuilder", "d7/d23/a11507.html", "d7/d23/a11507" ],
-    [ "getWorldInstance", "d8/dfa/a04756.html#ga6bf640d0ef6703c32d9fa1618826319b", null ],
-    [ "realm", "d8/dfa/a04756.html#gab842e78f86995775c494437356620779", null ]
+    [ "instance_mana_tombs", "d2/d5a/a22551.html", "d2/d5a/a22551" ],
+    [ "instance_mana_tombs::instance_mana_tombs_InstanceMapScript", "d8/de7/a22555.html", "d8/de7/a22555" ],
+    [ "AddSC_instance_mana_tombs", "d9/dce/a02519.html#ab3a34e5f5a1433a62cdca43b8f13182c", null ]
 ];

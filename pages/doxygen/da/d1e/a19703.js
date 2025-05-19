@@ -1,7 +1,21 @@
 var a19703 =
 [
-    [ "OnRemove", "da/d1e/a19703.html#a4d7ec990112b4ed602bcacf5a6de6722", null ],
-    [ "PrepareAuraScript", "da/d1e/a19703.html#a7cc9f0d6882b713c7b0a2585d6008437", null ],
-    [ "Register", "da/d1e/a19703.html#ad3a66fdfb2a159461bb3deeab6f71c13", null ],
-    [ "Validate", "da/d1e/a19703.html#a8bd121743d1153ae3fd8eb124e475d0f", null ]
+    [ "boss_stormcaller_brundirAI", "da/d1e/a19703.html#adc28dd5beed1a6e48c79d7cdcceec084", null ],
+    [ "GetData", "da/d1e/a19703.html#a72b285d89d1bf55d85436718cf25c287", null ],
+    [ "JustDied", "da/d1e/a19703.html#a8aa9383b97b23d71d598ae1e650d0195", null ],
+    [ "JustEngagedWith", "da/d1e/a19703.html#a9f2c58c1ebf4ce1809d454c4bba8f758", null ],
+    [ "JustReachedHome", "da/d1e/a19703.html#af7e52166fdeb9b77ffa7057444ee67ef", null ],
+    [ "KilledUnit", "da/d1e/a19703.html#af26795d89f26a9d907e81ef16ab10762", null ],
+    [ "MovementInform", "da/d1e/a19703.html#a396869cd37f7f66c38424d70fb87bb01", null ],
+    [ "Reset", "da/d1e/a19703.html#a4e1d09a210b4991e2b97e04f7be8a2bf", null ],
+    [ "SpellHit", "da/d1e/a19703.html#af6e9b985d9bb5f63b1163d8ef1299992", null ],
+    [ "SpellHitTarget", "da/d1e/a19703.html#a5592b2f9e4ce9149fb77cdc5dcc27539", null ],
+    [ "UpdateAI", "da/d1e/a19703.html#a483ea3ae6c95ab18cc5fa2f41b613690", null ],
+    [ "UpdatePhase", "da/d1e/a19703.html#a6f018f955bf546a47c119328b33ef010", null ],
+    [ "_channelTimer", "da/d1e/a19703.html#a19fe914b34ca1ac05714387f00e0d28d", null ],
+    [ "_flyTargetGUID", "da/d1e/a19703.html#a30d4b48a08328fb497ff51e0fa260041", null ],
+    [ "_phase", "da/d1e/a19703.html#afe01d10d1abf8a7ddfc1d3c1b238cd30", null ],
+    [ "_stunnedAchievement", "da/d1e/a19703.html#a678cd6ce097dab459bbf162553ddd56b", null ],
+    [ "events", "da/d1e/a19703.html#afe480aedba3a5772a98f694647c7ed50", null ],
+    [ "pInstance", "da/d1e/a19703.html#ab528df844696fec44595e0878966e0c2", null ]
 ];

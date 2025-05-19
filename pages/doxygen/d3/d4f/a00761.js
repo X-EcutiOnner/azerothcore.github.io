@@ -1,11 +1,19 @@
 var a00761 =
 [
-    [ "instance_hyjal", "d5/dd3/a14599.html", "d5/dd3/a14599" ],
-    [ "instance_hyjal::instance_mount_hyjal_InstanceMapScript", "d9/d71/a14603.html", "d9/d71/a14603" ],
-    [ "AddSC_instance_mount_hyjal", "d3/d4f/a00761.html#a5c7a0ad3a2ae9f82eb9c45fbf90d5b41", null ],
-    [ "creatureData", "d3/d4f/a00761.html#a412286b689bd324fedd65ddd8dde8afb", null ],
-    [ "doorData", "d3/d4f/a00761.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
-    [ "hyjalNightElfWaveTimers", "d3/d4f/a00761.html#ade7b4d2fdf8cd15fa4985554885eb881", null ],
-    [ "hyjalRetreatTimers", "d3/d4f/a00761.html#a254787ab3a62d90e906ded9ef63aa229", null ],
-    [ "hyjalWaveTimers", "d3/d4f/a00761.html#aaad50890c4534c5b5c848a9b85f3d8fe", null ]
+    [ "GuildScript", "d9/d95/a10287.html", "d9/d95/a10287" ],
+    [ "GuildHook", "d3/d4f/a00761.html#a5cb9f5f21f7f7d0e793d70058163507e", [
+      [ "GUILDHOOK_ON_ADD_MEMBER", "d3/d4f/a00761.html#a5cb9f5f21f7f7d0e793d70058163507eae55dad40010dcbf6c50672cae2f0106d", null ],
+      [ "GUILDHOOK_ON_REMOVE_MEMBER", "d3/d4f/a00761.html#a5cb9f5f21f7f7d0e793d70058163507eac79cc93d3ab4677a9801e213686e2b51", null ],
+      [ "GUILDHOOK_ON_MOTD_CHANGED", "d3/d4f/a00761.html#a5cb9f5f21f7f7d0e793d70058163507ea909770c2a1fe124c3fa21f83ff55c0d5", null ],
+      [ "GUILDHOOK_ON_INFO_CHANGED", "d3/d4f/a00761.html#a5cb9f5f21f7f7d0e793d70058163507eaf9949399a22fa1e1ed088bfa6952d23f", null ],
+      [ "GUILDHOOK_ON_CREATE", "d3/d4f/a00761.html#a5cb9f5f21f7f7d0e793d70058163507ea9d64b482c3d8be9681ab83722c84316e", null ],
+      [ "GUILDHOOK_ON_DISBAND", "d3/d4f/a00761.html#a5cb9f5f21f7f7d0e793d70058163507eac23a3058a5a051613b6970bad9a38f58", null ],
+      [ "GUILDHOOK_ON_MEMBER_WITDRAW_MONEY", "d3/d4f/a00761.html#a5cb9f5f21f7f7d0e793d70058163507ea3a78e5195fdbecb916d9f9510175381b", null ],
+      [ "GUILDHOOK_ON_MEMBER_DEPOSIT_MONEY", "d3/d4f/a00761.html#a5cb9f5f21f7f7d0e793d70058163507ea2663578fa69784d19d4833584d1a1fdc", null ],
+      [ "GUILDHOOK_ON_ITEM_MOVE", "d3/d4f/a00761.html#a5cb9f5f21f7f7d0e793d70058163507ea6ef9bfbc009fd877098120f95d6a3fa8", null ],
+      [ "GUILDHOOK_ON_EVENT", "d3/d4f/a00761.html#a5cb9f5f21f7f7d0e793d70058163507eac20b467223e978c03559c967fec760a7", null ],
+      [ "GUILDHOOK_ON_BANK_EVENT", "d3/d4f/a00761.html#a5cb9f5f21f7f7d0e793d70058163507eaa5be911ea4c307508ba407ac09cd82d9", null ],
+      [ "GUILDHOOK_CAN_GUILD_SEND_BANK_LIST", "d3/d4f/a00761.html#a5cb9f5f21f7f7d0e793d70058163507eaec99ae82238d8260ba512b23abc70b5b", null ],
+      [ "GUILDHOOK_END", "d3/d4f/a00761.html#a5cb9f5f21f7f7d0e793d70058163507ea85e0e175b03a5491dec2498ff4c415bb", null ]
+    ] ]
 ];

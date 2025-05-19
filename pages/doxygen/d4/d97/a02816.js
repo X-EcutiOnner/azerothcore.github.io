@@ -1,9 +1,8 @@
 var a02816 =
 [
-    [ "PacketLog", "d3/de7/a10924.html", "d3/de7/a10924" ],
-    [ "sPacketLog", "d4/d97/a02816.html#a14b702138c7f0a62a900dfc8eecc1f6f", null ],
-    [ "Direction", "d4/d97/a02816.html#a224b9163917ac32fc95a60d8c1eec3aa", [
-      [ "CLIENT_TO_SERVER", "d4/d97/a02816.html#a224b9163917ac32fc95a60d8c1eec3aaae4561e948350e841223c3dc44738f476", null ],
-      [ "SERVER_TO_CLIENT", "d4/d97/a02816.html#a224b9163917ac32fc95a60d8c1eec3aaa0df224cab9714b02d0718697fbce48a3", null ]
-    ] ]
+    [ "instance_old_hillsbrad", "dc/dfd/a14707.html", "dc/dfd/a14707" ],
+    [ "instance_old_hillsbrad::instance_old_hillsbrad_InstanceMapScript", "dc/d1e/a14711.html", "dc/d1e/a14711" ],
+    [ "AddSC_instance_old_hillsbrad", "d4/d97/a02816.html#a2b3faa69a9526f156ca7bae70c720075", null ],
+    [ "instancePositions", "d4/d97/a02816.html#a79b42da504a3cfde2581f63a639c7936", null ],
+    [ "thrallPositions", "d4/d97/a02816.html#a04c9058e75a93a56057912eb1c896bd0", null ]
 ];

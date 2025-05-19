@@ -1,5 +1,9 @@
 var a01067 =
 [
-    [ "player_settings_commandscript", "df/d73/a11687.html", "df/d73/a11687" ],
-    [ "AddSC_player_settings_commandscript", "d2/d49/a01067.html#a366685affd5565d164c65f8cd4a20b61", null ]
+    [ "AddWeather", "d2/d49/a01067.html#ga1f76350b68494335d48ae206b87e190c", null ],
+    [ "FindWeather", "d2/d49/a01067.html#gadd11deec2098fed61adf7910b8f09cc6", null ],
+    [ "LoadWeatherData", "d2/d49/a01067.html#ga6c7d8a9fc5dfce0880220f4b5b8cd623", null ],
+    [ "RemoveWeather", "d2/d49/a01067.html#ga296a3324a3a38984149fae3e5d62435f", null ],
+    [ "SendFineWeatherUpdateToPlayer", "d2/d49/a01067.html#gac86b4e254146468a7412d8fc7b0c27f2", null ],
+    [ "Update", "d2/d49/a01067.html#ga45f0da6cf9e14a99380b4b9be2890801", null ]
 ];

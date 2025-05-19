@@ -1,6 +1,10 @@
 var a24079 =
 [
-    [ "npc_mature_netherwing_drakeAI", "db/d45/a24083.html", "db/d45/a24083" ],
-    [ "npc_mature_netherwing_drake", "db/d75/a24079.html#a3369bd143ff9e46a4ad4c44b6d8c0ec5", null ],
-    [ "GetAI", "db/d75/a24079.html#ac5a1dad24920396156f22ab02bfab84b", null ]
+    [ "npc_infernal_attackerAI", "db/d75/a24079.html#ae04c4e026f22bd650bb33940b923df9a", null ],
+    [ "IsSummonedBy", "db/d75/a24079.html#a926e6cd6772784872a905de7245007ac", null ],
+    [ "JustDied", "db/d75/a24079.html#a1822131520f98dd5f1dd637282f20ae3", null ],
+    [ "Reset", "db/d75/a24079.html#a6c871d05d4fd0a6f72f409285f012f9c", null ],
+    [ "SpellHit", "db/d75/a24079.html#a956f3fb1e341519817599df08afc2589", null ],
+    [ "UpdateAI", "db/d75/a24079.html#a458ba4c884a95080e1088a07a04a9cb9", null ],
+    [ "casterGUID", "db/d75/a24079.html#ab2e791cc0a67012bc56c3b07e3f327e9", null ]
 ];

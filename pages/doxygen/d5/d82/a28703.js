@@ -1,6 +1,11 @@
 var a28703 =
 [
-    [ "height", "d5/d82/a28703.html#a7638f586a055c48a46e36471543ff72f", null ],
-    [ "unk1", "d5/d82/a28703.html#a6c08b6fa33e12a9900218d0d0b8b78d5", null ],
-    [ "unk2", "d5/d82/a28703.html#a394a04f6e985824aa259a42b11b97136", null ]
+    [ "material", "d5/d82/a28703.html#a7079e8817a9684602084eb224f2540fc", null ],
+    [ "pos_x", "d5/d82/a28703.html#ac4d971cc46506be14716124afbb5ad9c", null ],
+    [ "pos_y", "d5/d82/a28703.html#a6cd85f2a674d732e88371ffce5e46077", null ],
+    [ "pos_z", "d5/d82/a28703.html#a183ec8ec2d8d30726494c6b3d3b8606a", null ],
+    [ "xtiles", "d5/d82/a28703.html#aca34dfa64624cfe04c314c13bbed0062", null ],
+    [ "xverts", "d5/d82/a28703.html#aa5ad7ff660f7f0b5ddfd2d186496d928", null ],
+    [ "ytiles", "d5/d82/a28703.html#a9901a7e9828ac840bc290b0768831d66", null ],
+    [ "yverts", "d5/d82/a28703.html#abf24042b85692cd0df05d65d734dd99e", null ]
 ];

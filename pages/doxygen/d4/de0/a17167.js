@@ -1,6 +1,6 @@
 var a17167 =
 [
-    [ "boss_prince_kelesethAI", "d1/d14/a17171.html", "d1/d14/a17171" ],
-    [ "boss_prince_keleseth_icc", "d4/de0/a17167.html#a0df14bbfc96b1d6eff19633716cea9f9", null ],
-    [ "GetAI", "d4/de0/a17167.html#ae5a03bbe1d85b9bc865026f05a99545e", null ]
+    [ "ShockVortexExplodeEvent", "d4/de0/a17167.html#ad972aed372822e10a476d1592192f3ea", null ],
+    [ "Execute", "d4/de0/a17167.html#a601f777052b8a142db49e9b0ab1fa81a", null ],
+    [ "_owner", "d4/de0/a17167.html#a76b1887e486969fcd7a236a8eb7a9a2a", null ]
 ];

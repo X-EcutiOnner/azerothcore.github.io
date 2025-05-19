@@ -1,4 +1,4 @@
 var a04121 =
 [
-    [ "UpdateFetcher::DirectoryEntry", "de/d76/a05879.html", "de/d76/a05879" ]
+    [ "DBCDatabaseLoader", "d2/da9/a27631.html", "d2/da9/a27631" ]
 ];

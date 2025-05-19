@@ -1,11 +1,12 @@
 var a04538 =
 [
-    [ "AABound", "da/dbb/a04871.html", "da/dbb/a04871" ],
-    [ "BIH", "d1/d89/a04875.html", "d1/d89/a04875" ],
-    [ "BIH::buildData", "d1/d8e/a04879.html", "d1/d8e/a04879" ],
-    [ "BIH::StackNode", "d6/d48/a04883.html", "d6/d48/a04883" ],
-    [ "BIH::BuildStats", "de/d63/a04887.html", "de/d63/a04887" ],
-    [ "MAX_STACK_SIZE", "d7/d23/a04538.html#accbb358028675c83675d8b34c386268d", null ],
-    [ "floatToRawIntBits", "d7/d23/a04538.html#ad04403146f53e198de60b6c4bec4246e", null ],
-    [ "intBitsToFloat", "d7/d23/a04538.html#a3b415e235398aa84c4f976084f8e130c", null ]
+    [ "AC_COMPILER_BORLAND", "d7/d23/a04538.html#ad92d7f8e69537bfc6f28bfce27856c1f", null ],
+    [ "AC_COMPILER_GNU", "d7/d23/a04538.html#a8ffa78a105635ede693224673028c4ed", null ],
+    [ "AC_COMPILER_INTEL", "d7/d23/a04538.html#a60132e229252e2d0020a2ba6fd0309c3", null ],
+    [ "AC_COMPILER_MICROSOFT", "d7/d23/a04538.html#ac8ee3c2752751f98265e16c95cbaea47", null ],
+    [ "AC_PLATFORM", "d7/d23/a04538.html#a490dd7a4e0c23e207dd9285027ae8b33", null ],
+    [ "AC_PLATFORM_APPLE", "d7/d23/a04538.html#a4f72821a90afaf788ba291d1f6fb11b8", null ],
+    [ "AC_PLATFORM_INTEL", "d7/d23/a04538.html#a2d79201ecf9fb7b1f6d0c131f9b7b8ba", null ],
+    [ "AC_PLATFORM_UNIX", "d7/d23/a04538.html#a96b4a3022030f69221679448f34f1972", null ],
+    [ "AC_PLATFORM_WINDOWS", "d7/d23/a04538.html#a15c00b0ab8f2f092270745de87d6bd8f", null ]
 ];

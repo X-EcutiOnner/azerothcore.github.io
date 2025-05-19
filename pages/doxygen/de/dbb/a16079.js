@@ -1,6 +1,7 @@
 var a16079 =
 [
-    [ "HandleHealPct", "de/dbb/a16079.html#ad13b3924815ac3da7902c8292a760943", null ],
-    [ "PrepareSpellScript", "de/dbb/a16079.html#aeea718bce7dd5aa4ac33bbd1a95a65c0", null ],
-    [ "Register", "de/dbb/a16079.html#a3016c31c072d6417bbe47c2891059718", null ]
+    [ "HandleDummy", "de/dbb/a16079.html#a96b430cb0546fb599da22cd675660187", null ],
+    [ "PrepareSpellScript", "de/dbb/a16079.html#ad0330cb78a330f05c18f33375f231fbc", null ],
+    [ "Register", "de/dbb/a16079.html#a70a36683a235dec6044a8a32f20c606c", null ],
+    [ "Validate", "de/dbb/a16079.html#affa7ccf869e98eacd3a153cc645d704e", null ]
 ];

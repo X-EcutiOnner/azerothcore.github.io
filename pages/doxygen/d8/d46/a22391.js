@@ -1,8 +1,7 @@
 var a22391 =
 [
-    [ "HandleApply", "d8/d46/a22391.html#ad8ee9a50314c900b1507e25eaa70ece7", null ],
-    [ "HandleRemove", "d8/d46/a22391.html#a06c7c65d973fcf348f5c929503902520", null ],
-    [ "PrepareAuraScript", "d8/d46/a22391.html#a48b20c0f1997acd0f9f0800bf4b63bd0", null ],
-    [ "Register", "d8/d46/a22391.html#a7018a16262b94a573405e1bdc9fbdd10", null ],
-    [ "Validate", "d8/d46/a22391.html#a8135c492638557eec71189282e7f78a2", null ]
+    [ "npc_storm_cloudAI", "d8/d46/a22391.html#aa4dd9409cd74f3c2c878974715e43394", null ],
+    [ "JustRespawned", "d8/d46/a22391.html#ad0f99362f7ab506b322b6d75890881c1", null ],
+    [ "Reset", "d8/d46/a22391.html#a99654ac86502e3ac2f899082269ccb01", null ],
+    [ "SpellHit", "d8/d46/a22391.html#ac51313cec4d76216f3c716d988fc4857", null ]
 ];

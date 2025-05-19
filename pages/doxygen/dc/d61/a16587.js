@@ -1,7 +1,6 @@
 var a16587 =
 [
-    [ "HandleScript", "dc/d61/a16587.html#a927cc2ab0e5bba58a2b49e3e4e52ebaa", null ],
-    [ "PrepareSpellScript", "dc/d61/a16587.html#a71b28156c628aacbc6cb481038c0e76c", null ],
-    [ "Register", "dc/d61/a16587.html#a6f036bb2d42f248e0c252158a5ecedf1", null ],
-    [ "Validate", "dc/d61/a16587.html#a7c8a5a7c47bd7a9624028f92b1d9cf9c", null ]
+    [ "HandleEffectApply", "dc/d61/a16587.html#aaea2c3733dadc19072c81774468e345a", null ],
+    [ "PrepareAuraScript", "dc/d61/a16587.html#a3848997e9f775add50d40342b6211ff0", null ],
+    [ "Register", "dc/d61/a16587.html#a775b1cf494049ed13d149ca6318142c3", null ]
 ];

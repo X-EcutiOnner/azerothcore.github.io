@@ -1,7 +1,7 @@
 var a13763 =
 [
-    [ "OnPeriodic", "de/da6/a13763.html#aa541a8bc034517d1f5d034ac51bd8dac", null ],
-    [ "PrepareAuraScript", "de/da6/a13763.html#abc166e4dc33e7bffd1d53c2ef8272efa", null ],
-    [ "Register", "de/da6/a13763.html#a60313d4ba992b1dc81e7cdae942f1b3d", null ],
-    [ "Validate", "de/da6/a13763.html#a7ed214de6769314a45540e9afdb82949", null ]
+    [ "npc_zuljin_vortex", "de/da6/a13763.html#af3af996adc0a0dba4af992234f8356fb", null ],
+    [ "ChangeToNewPlayer", "de/da6/a13763.html#ab353794ef978151999fdd2294783e757", null ],
+    [ "Reset", "de/da6/a13763.html#a1331e714c5cafdc32033e73b6f3169aa", null ],
+    [ "UpdateAI", "de/da6/a13763.html#a1ae6a08fe247e7bc812ed4f5ffebc519", null ]
 ];

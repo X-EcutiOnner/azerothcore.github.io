@@ -1,7 +1,8 @@
 var a27439 =
 [
-    [ "npc_riggle_bassbaitAI", "dc/dd5/a27439.html#ad7a1a7a6f4c4ebb7ab93878ebb3a9a5b", null ],
-    [ "CheckTournamentState", "dc/dd5/a27439.html#aa7b4393b93be92fbb595648cede832be", null ],
-    [ "UpdateAI", "dc/dd5/a27439.html#ad0fca96e2c770ef179d98dcdd9aaca6e", null ],
-    [ "m_uiTimer", "dc/dd5/a27439.html#aec45a971a5b7aa574e905e9a2338fe90", null ]
+    [ "npc_riggle_bassbaitAI", "d0/de3/a27443.html", "d0/de3/a27443" ],
+    [ "npc_riggle_bassbait", "dc/dd5/a27439.html#afc4280099cda3c28c4634d649e636839", null ],
+    [ "GetAI", "dc/dd5/a27439.html#ad5e3230dae9ac23aa83883e53b37234e", null ],
+    [ "OnGossipHello", "dc/dd5/a27439.html#aeea1e5d4d59c72ce97e1f0eb8da5b6fe", null ],
+    [ "OnQuestReward", "dc/dd5/a27439.html#aa3ef2b3ebd7542a4836983872c397e66", null ]
 ];

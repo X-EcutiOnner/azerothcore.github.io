@@ -1,4 +1,5 @@
 var a02171 =
 [
-    [ "GetMinPlayersPerTeam", "d6/d1e/a02171.html#ab22bdb52b0357434faced9df19db9d81", null ]
+    [ "reload_commandscript", "d6/dae/a11695.html", "d6/dae/a11695" ],
+    [ "AddSC_reload_commandscript", "d6/d1e/a02171.html#ab72bc0a4ad4d6f90fa1e05f5591ed68f", null ]
 ];

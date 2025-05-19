@@ -1,6 +1,11 @@
 var a22895 =
 [
-    [ "npc_supremus_punch_invisible_stalker", "d6/dec/a22895.html#add7d0e711ef02a16ef58d90cfc8ee733", null ],
-    [ "IsSummonedBy", "d6/dec/a22895.html#a467d5a43bb6d2349ad859a0ef7de4c00", null ],
-    [ "UpdateAI", "d6/dec/a22895.html#a90ecfe4257ef77a6d6a200a2f017c51a", null ]
+    [ "boss_supremus", "d6/dec/a22895.html#af1f094534b0e2dec70422839a02327cd", null ],
+    [ "CheckEvadeIfOutOfCombatArea", "d6/dec/a22895.html#a2654bf5b1d5b6da723d4968219e069a9", null ],
+    [ "FindHatefulStrikeTarget", "d6/dec/a22895.html#af560466902d0d372662020e1a67b627c", null ],
+    [ "JustEngagedWith", "d6/dec/a22895.html#a7d3a5e2c183db7639a7c25f309359ed1", null ],
+    [ "JustSummoned", "d6/dec/a22895.html#a7265a01fa79213ab6d8b82a4c92b7661", null ],
+    [ "Reset", "d6/dec/a22895.html#a0eaa29849a2571417d4826d238d72e25", null ],
+    [ "SchedulePhase", "d6/dec/a22895.html#a87e3943d6c645138853aa97644f9df0e", null ],
+    [ "SummonedCreatureDespawn", "d6/dec/a22895.html#a2ae72bfef577654e676a64eb2e4efa7a", null ]
 ];

@@ -1,6 +1,6 @@
 var a17819 =
 [
-    [ "HandleScript", "dc/df8/a17819.html#abd766c298f8aa363d28198b6a5d7e374", null ],
-    [ "PrepareSpellScript", "dc/df8/a17819.html#a5a4e7d674c09ebbbc9d918cf877418a3", null ],
-    [ "Register", "dc/df8/a17819.html#ae9bd26c97b3dc9c1af96304e3c67d532", null ]
+    [ "HandleScript", "dc/df8/a17819.html#a54ecb69bf0c54c170b12c9a4b88b55fb", null ],
+    [ "PrepareSpellScript", "dc/df8/a17819.html#a50560d754709e6b9ec6863142c1ffce3", null ],
+    [ "Register", "dc/df8/a17819.html#ab29deadceb953d6fb5d997b21ee4bb1c", null ]
 ];

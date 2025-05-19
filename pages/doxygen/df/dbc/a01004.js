@@ -1,5 +1,5 @@
 var a01004 =
 [
-    [ "message_commandscript", "d8/dd3/a11647.html", "d8/dd3/a11647" ],
-    [ "AddSC_message_commandscript", "df/dbc/a01004.html#a85760eb92ac87e8dcb18c91d31f09fc0", null ]
+    [ "MapMgr", "d4/d17/a09795.html", "d4/d17/a09795" ],
+    [ "sMapMgr", "df/dbc/a01004.html#a9132749f8376c48b0ca7212eb3293905", null ]
 ];

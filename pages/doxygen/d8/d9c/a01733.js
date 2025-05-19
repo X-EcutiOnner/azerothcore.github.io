@@ -1,9 +1,12 @@
 var a01733 =
 [
-    [ "instance_blood_furnace", "d0/d30/a23451.html", "d0/d30/a23451" ],
-    [ "instance_blood_furnace::instance_blood_furnace_InstanceMapScript", "de/d83/a23455.html", "de/d83/a23455" ],
-    [ "AddSC_instance_blood_furnace", "d8/d9c/a01733.html#af803a0e2dfb7f53b6682e02b90bef865", null ],
-    [ "creatureData", "d8/d9c/a01733.html#a412286b689bd324fedd65ddd8dde8afb", null ],
-    [ "doorData", "d8/d9c/a01733.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
-    [ "gameobjectData", "d8/d9c/a01733.html#a845a92716bd40c99a93eb0715cd737b0", null ]
+    [ "PacketHandler< PacketClass, HandlerFunction >", "dd/dee/a10883.html", "dd/dee/a10883" ],
+    [ "PacketHandler< WorldPacket, HandlerFunction >", "de/def/a10887.html", "de/def/a10887" ],
+    [ "get_packet_class< T >", "dd/db5/a10891.html", null ],
+    [ "get_packet_class< void(WorldSession::*)(PacketClass &)>", "d3/d6e/a10895.html", "d3/d6e/a10895" ],
+    [ "DEFINE_HANDLER", "d8/d9c/a01733.html#ab23af9582942bed23ea9ab4a8747c67c", null ],
+    [ "DEFINE_SERVER_OPCODE_HANDLER", "d8/d9c/a01733.html#a4bcb2df62d580f2bb5ab3c2aa5b35f5e", null ],
+    [ "GetOpcodeNameForLogging", "df/d9b/a04755.html#ga699f5666ad5594443aa2ca21df85a1d3", null ],
+    [ "GetOpcodeNameForLoggingImpl", "d8/d9c/a01733.html#a0adf4b5d8c638656581d9a62be18539e", null ],
+    [ "opcodeTable", "df/d9b/a04755.html#gaab348862a5b8f265e05e5b0ac296162a", null ]
 ];

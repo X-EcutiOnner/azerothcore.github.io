@@ -1,8 +1,6 @@
 var a03098 =
 [
-    [ "ePoints", "d8/db1/a03098.html#a2604bd06487e34b78d3e50cd892f3c4d", [
-      [ "POINT_LAST_POINT", "d8/db1/a03098.html#a2604bd06487e34b78d3e50cd892f3c4da7d10089a0c5a8c42786b90cd3ba643cb", null ],
-      [ "POINT_HOME", "d8/db1/a03098.html#a2604bd06487e34b78d3e50cd892f3c4da032be97ee26935943c3313fb24491162", null ],
-      [ "POINT_COMBAT_START", "da/d4a/a03107.html#a2604bd06487e34b78d3e50cd892f3c4da91adf90069f0b0a515897fbdc91e20b4", null ]
-    ] ]
+    [ "instance_utgarde_pinnacle", "d5/db6/a21123.html", "d5/db6/a21123" ],
+    [ "instance_utgarde_pinnacle::instance_utgarde_pinnacle_InstanceMapScript", "dd/ddb/a21127.html", "dd/ddb/a21127" ],
+    [ "AddSC_instance_utgarde_pinnacle", "d8/db1/a03098.html#a3469cdfafe3d81dca68950e7a6a6370d", null ]
 ];

@@ -1,6 +1,9 @@
 var a22935 =
 [
-    [ "HandleDummy", "d0/d25/a22935.html#a85cbe85873c5f04c8fb94ad52e94afda", null ],
-    [ "PrepareSpellScript", "d0/d25/a22935.html#ae483ea2ecc541f52f37456f6e9d4b380", null ],
-    [ "Register", "d0/d25/a22935.html#a972574075c86c32593982add71dc893f", null ]
+    [ "boss_najentus", "d0/d25/a22935.html#ac5d3d54a49524892fe844925d483c244", null ],
+    [ "JustDied", "d0/d25/a22935.html#afee32dd32033c7a45068ce12e961797c", null ],
+    [ "JustEngagedWith", "d0/d25/a22935.html#a46e3aab64c21b24ac6457acd598679ec", null ],
+    [ "KilledUnit", "d0/d25/a22935.html#ad55e1de3aa7a636b3d30b0d61a17dab9", null ],
+    [ "Reset", "d0/d25/a22935.html#ab7e0bdb8954722c9080146a88a3c5aa2", null ],
+    [ "_canTalk", "d0/d25/a22935.html#a25ac29a79cdcfb4ebc48de13d677f1d4", null ]
 ];

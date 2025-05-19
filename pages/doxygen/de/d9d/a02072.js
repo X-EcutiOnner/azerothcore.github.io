@@ -1,7 +1,5 @@
 var a02072 =
 [
-    [ "ArenaTeamMgr", "d8/d2e/a07247.html", "d8/d2e/a07247" ],
-    [ "sArenaTeamMgr", "de/d9d/a02072.html#a94afc7262fb2f00293dc80de8ba547df", null ],
-    [ "MAX_ARENA_TEAM_ID", "de/d9d/a02072.html#aa472ba6cfd587021965aece0e77797b7", null ],
-    [ "MAX_TEMP_ARENA_TEAM_ID", "de/d9d/a02072.html#ade4bc52db611f6481d3c8f5e6f346b4c", null ]
+    [ "spectator_commandscript", "d6/d31/a11711.html", "d6/d31/a11711" ],
+    [ "AddSC_spectator_commandscript", "de/d9d/a02072.html#a223cb7b19bd79c486919c41509ea6ddf", null ]
 ];

@@ -1,49 +1,41 @@
 var a02960 =
 [
-    [ "DoorData", "d1/ddd/a09595.html", "d1/ddd/a09595" ],
-    [ "BossBoundaryEntry", "d4/d5d/a09599.html", "d4/d5d/a09599" ],
-    [ "BossBoundaryData", "df/da2/a09603.html", "df/da2/a09603" ],
-    [ "MinionData", "d5/d9e/a09607.html", "d5/d9e/a09607" ],
-    [ "ObjectData", "dc/db8/a09611.html", "dc/db8/a09611" ],
-    [ "BossInfo", "d3/de9/a09615.html", "d3/de9/a09615" ],
-    [ "DoorInfo", "dd/dd6/a09619.html", "dd/dd6/a09619" ],
-    [ "MinionInfo", "d9/de9/a09623.html", "d9/de9/a09623" ],
-    [ "InstanceScript", "d8/d1c/a09627.html", "d8/d1c/a09627" ],
-    [ "OUT_LOAD_INST_DATA", "db/d1b/a02960.html#aafbf0073420e9a897ec0f243f4793a0f", null ],
-    [ "OUT_LOAD_INST_DATA_COMPLETE", "db/d1b/a02960.html#a490e19560f068912b0e3dbd61c689b44", null ],
-    [ "OUT_LOAD_INST_DATA_FAIL", "db/d1b/a02960.html#a141fd6fe34ebbd5c3ad507db42f41b4a", null ],
-    [ "OUT_SAVE_INST_DATA", "db/d1b/a02960.html#a65ed3183971093dcebed99d1ec6d6d63", null ],
-    [ "OUT_SAVE_INST_DATA_COMPLETE", "db/d1b/a02960.html#a3a93295e3500f757163145c03e90db3d", null ],
-    [ "DoorInfoMap", "db/d1b/a02960.html#ab665e2d424a75aeb6703ccd08050676c", null ],
-    [ "DoorInfoMapBounds", "db/d1b/a02960.html#ac55e7bd9aa319ccb4e7a22a3e35c3326", null ],
-    [ "DoorSet", "db/d1b/a02960.html#a17be047bdb4b0361cdee9637ff279e9f", null ],
-    [ "MinionInfoMap", "db/d1b/a02960.html#a3b05920ad054e3f59bf988485603d2de", null ],
-    [ "MinionSet", "db/d1b/a02960.html#add004a84abc4c98dae65145dce2d17bb", null ],
-    [ "ObjectGuidMap", "db/d1b/a02960.html#a3c451c29106077a2c6f8f88facbb2c69", null ],
-    [ "ObjectInfoMap", "db/d1b/a02960.html#ac2936b863aac3fd2483eae5e234ac053", null ],
-    [ "ObjectStateMap", "db/d1b/a02960.html#a4edbb4a71661ac569a73338c83672f9d", null ],
-    [ "DoorType", "db/d1b/a02960.html#ac3549b9e861c142e11e5ad86b8b6947e", [
-      [ "DOOR_TYPE_ROOM", "db/d1b/a02960.html#ac3549b9e861c142e11e5ad86b8b6947ea0d4c5d0a346fffd6ae47ef760c9f8d70", null ],
-      [ "DOOR_TYPE_PASSAGE", "db/d1b/a02960.html#ac3549b9e861c142e11e5ad86b8b6947eabf8a73ae3dd3b7fd667a2c7f58414905", null ],
-      [ "DOOR_TYPE_SPAWN_HOLE", "db/d1b/a02960.html#ac3549b9e861c142e11e5ad86b8b6947ea05ae5ae0867f3b0c721a17ac307ff7bb", null ],
-      [ "MAX_DOOR_TYPES", "db/d1b/a02960.html#ac3549b9e861c142e11e5ad86b8b6947eac54cf58ec577ca37abba35d02ff97571", null ]
+    [ "npc_sergeant_bly", "db/d8a/a15667.html", "db/d8a/a15667" ],
+    [ "npc_sergeant_bly::npc_sergeant_blyAI", "dd/d7d/a15671.html", "dd/d7d/a15671" ],
+    [ "go_troll_cage", "d1/d2c/a15675.html", "d1/d2c/a15675" ],
+    [ "go_troll_cage::go_troll_cageAI", "de/d11/a15679.html", "de/d11/a15679" ],
+    [ "npc_weegli_blastfuse", "d6/dad/a15683.html", "d6/dad/a15683" ],
+    [ "npc_weegli_blastfuse::npc_weegli_blastfuseAI", "dd/d00/a15687.html", "dd/d00/a15687" ],
+    [ "npc_shadowpriest_sezziz", "df/d3d/a15691.html", "df/d3d/a15691" ],
+    [ "npc_shadowpriest_sezziz::npc_shadowpriest_sezzizAI", "de/da0/a15695.html", "de/da0/a15695" ],
+    [ "GOSSIP_BLY", "db/d1b/a02960.html#acf686abbef9b59acbf66095340991aab", null ],
+    [ "GOSSIP_WEEGLI", "db/d1b/a02960.html#abd5fb74b4c5971cd2993555c6ac4d1eb", null ],
+    [ "blySays", "db/d1b/a02960.html#a0170bb25aee4171b17fd972a5eb000a9", [
+      [ "SAY_1", "db/d1b/a02960.html#a0170bb25aee4171b17fd972a5eb000a9a307d891e05530d70a32ad2047cfe6dab", null ],
+      [ "SAY_2", "db/d1b/a02960.html#a0170bb25aee4171b17fd972a5eb000a9a73b0208d974ac93026e31ca8864dd390", null ]
     ] ],
-    [ "EncounterFrameType", "db/d1b/a02960.html#a2b83b4959bad3f736ee0463c50b9477d", [
-      [ "ENCOUNTER_FRAME_ENGAGE", "db/d1b/a02960.html#a2b83b4959bad3f736ee0463c50b9477daf39a3442170d2b9d97b31f1aa952053a", null ],
-      [ "ENCOUNTER_FRAME_DISENGAGE", "db/d1b/a02960.html#a2b83b4959bad3f736ee0463c50b9477daade40d90f5283e0cf9f587ddbe1bcc22", null ],
-      [ "ENCOUNTER_FRAME_UPDATE_PRIORITY", "db/d1b/a02960.html#a2b83b4959bad3f736ee0463c50b9477dab466d621ed48059fed64ca588282a9bc", null ],
-      [ "ENCOUNTER_FRAME_ADD_TIMER", "db/d1b/a02960.html#a2b83b4959bad3f736ee0463c50b9477dac4db9282020e33d1fff31aeeeac8d689", null ],
-      [ "ENCOUNTER_FRAME_ENABLE_OBJECTIVE", "db/d1b/a02960.html#a2b83b4959bad3f736ee0463c50b9477da0f44e24d1a7751fed4d394719579336c", null ],
-      [ "ENCOUNTER_FRAME_UPDATE_OBJECTIVE", "db/d1b/a02960.html#a2b83b4959bad3f736ee0463c50b9477dac2613e711f746c05f27d7aa0eae3d51b", null ],
-      [ "ENCOUNTER_FRAME_DISABLE_OBJECTIVE", "db/d1b/a02960.html#a2b83b4959bad3f736ee0463c50b9477dac1903193f76dfb04f3009b98b4ddce1c", null ],
-      [ "ENCOUNTER_FRAME_REFRESH_FRAMES", "db/d1b/a02960.html#a2b83b4959bad3f736ee0463c50b9477dac4ca16adedcc16b4cac2ad580ed3e8ec", null ]
+    [ "blySpells", "db/d1b/a02960.html#ac73b1b4ffaee22ad6c602a211a9bfccf", [
+      [ "SPELL_BLYS_BAND_ESCAPE", "db/d1b/a02960.html#ac73b1b4ffaee22ad6c602a211a9bfccfaa9a43afdd35ceaa8e5947c583cda6c83", null ],
+      [ "SPELL_SHIELD_BASH", "db/d1b/a02960.html#ac73b1b4ffaee22ad6c602a211a9bfccfa0d74cfe7662c959a043f01770a2c7bf4", null ],
+      [ "SPELL_REVENGE", "db/d1b/a02960.html#ac73b1b4ffaee22ad6c602a211a9bfccfa3494dd9ccea3b72ec038a01f6f6fd66f", null ]
     ] ],
-    [ "EncounterState", "db/d1b/a02960.html#ab6cf09cd975286c705a19a75a947d438", [
-      [ "NOT_STARTED", "db/d1b/a02960.html#ab6cf09cd975286c705a19a75a947d438ae7d82dfe80ea0bd4feea8ee49ea2eab5", null ],
-      [ "IN_PROGRESS", "db/d1b/a02960.html#ab6cf09cd975286c705a19a75a947d438a643cea6438bbca00e218a0b1c05e1012", null ],
-      [ "FAIL", "db/d1b/a02960.html#ab6cf09cd975286c705a19a75a947d438a936c4a5547a9360243178f726f6b2715", null ],
-      [ "DONE", "db/d1b/a02960.html#ab6cf09cd975286c705a19a75a947d438a9c954bcf443428c80b0f107b3bc48749", null ],
-      [ "SPECIAL", "db/d1b/a02960.html#ab6cf09cd975286c705a19a75a947d438aaa5259d84d06214a7b0503d636790465", null ],
-      [ "TO_BE_DECIDED", "db/d1b/a02960.html#ab6cf09cd975286c705a19a75a947d438af259c60d63b511a33d9f0d1094c45958", null ]
-    ] ]
+    [ "ShadowPriestSezzizEnum", "db/d1b/a02960.html#a4e0ee96bd227c57408d323b236131e7d", [
+      [ "SPELL_SHADOW_BOLT", "db/d1b/a02960.html#a4e0ee96bd227c57408d323b236131e7da8872edea8a2ac8c4e895c975482b9413", null ],
+      [ "SPELL_PSYCHIC_SCREEM", "db/d1b/a02960.html#a4e0ee96bd227c57408d323b236131e7da804b244c7e3d670c7c0c96c2deac50aa", null ],
+      [ "SPELL_RENEW", "db/d1b/a02960.html#a4e0ee96bd227c57408d323b236131e7daaf085a0eea027f75c291005b97cb46bd", null ],
+      [ "SPELL_HEAL", "db/d1b/a02960.html#a4e0ee96bd227c57408d323b236131e7da69fcca2d13e03c684fa0459f960ef9a7", null ]
+    ] ],
+    [ "weegliSays", "db/d1b/a02960.html#a326e8498672fa7a2db9a390d360f7391", [
+      [ "SAY_WEEGLI_OHNO", "db/d1b/a02960.html#a326e8498672fa7a2db9a390d360f7391aa1b27f3d4e49ae3cbea7b8b49371b41d", null ],
+      [ "SAY_WEEGLI_OK_I_GO", "db/d1b/a02960.html#a326e8498672fa7a2db9a390d360f7391aa92731cc39b2cffc724a22e3189198ea", null ],
+      [ "SAY_WEEGLI_OUT_OF_HERE", "db/d1b/a02960.html#a326e8498672fa7a2db9a390d360f7391aaa6eaf7f9cc5bb0b7c42aed2439da05c", null ]
+    ] ],
+    [ "weegliSpells", "db/d1b/a02960.html#aa5d64b9165276a134e188d143807850c", [
+      [ "SPELL_BOMB", "db/d1b/a02960.html#aa5d64b9165276a134e188d143807850ca436b889374ecd412c15675983fdae5be", null ],
+      [ "SPELL_GOBLIN_LAND_MINE", "db/d1b/a02960.html#aa5d64b9165276a134e188d143807850ca04bb850750b0183913ab1008cba1833f", null ],
+      [ "SPELL_SHOOT", "db/d1b/a02960.html#aa5d64b9165276a134e188d143807850ca1b728fa1bb0194534b5b491d35ed871c", null ],
+      [ "SPELL_WEEGLIS_BARREL", "db/d1b/a02960.html#aa5d64b9165276a134e188d143807850ca1e379d7bc2f35c29e7b00ee0bf88357f", null ]
+    ] ],
+    [ "AddSC_zulfarrak", "db/d1b/a02960.html#a43b63d5d69b80ee6283471aacf5c9c87", null ],
+    [ "shadowpriestSezzizAdds", "db/d1b/a02960.html#ab3c6a2de23edecc492c7ca4de5c860c7", null ]
 ];

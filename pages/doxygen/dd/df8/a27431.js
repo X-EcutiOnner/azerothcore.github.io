@@ -1,12 +1,8 @@
 var a27431 =
 [
-    [ "npc_elder_clearwaterAI", "dd/df8/a27431.html#a4de89cf4a18918d577be4ac5cc55ba5a", null ],
-    [ "DoAction", "dd/df8/a27431.html#ac46b0f66be3074f73f5a69cffee6d354", null ],
-    [ "GetData", "dd/df8/a27431.html#a077c02bf06b16439225a5cf8d83babf2", null ],
-    [ "UpdateAI", "dd/df8/a27431.html#afbec3c78d34ce4d11a11b56064f343f3", null ],
-    [ "events", "dd/df8/a27431.html#a267fec22dc3d7272cae74267d0567618", null ],
-    [ "finished", "dd/df8/a27431.html#af51d6abb8fc8b59d068156a4859a377e", null ],
-    [ "finishWarning", "dd/df8/a27431.html#a83a2b8e6ceed45d4e6b834e13a4a4cdc", null ],
-    [ "preWarning", "dd/df8/a27431.html#a64abe15565c7e97a3a0ef195d436fedc", null ],
-    [ "startWarning", "dd/df8/a27431.html#a01545211dec4338ac44304ebc7f18a97", null ]
+    [ "npc_elder_clearwaterAI", "d5/de2/a27435.html", "d5/de2/a27435" ],
+    [ "npc_elder_clearwater", "dd/df8/a27431.html#abeee1650938a71762bb0c148ea9834d1", null ],
+    [ "GetAI", "dd/df8/a27431.html#a4ae2f507f61ee7cfc0c3b6d7dbfb7f04", null ],
+    [ "OnGossipHello", "dd/df8/a27431.html#aae382c0a386b8bacd39c6e7a586519e4", null ],
+    [ "OnQuestReward", "dd/df8/a27431.html#a2d316a2d2c892cecc134cea46b5bf2a8", null ]
 ];

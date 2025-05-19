@@ -1,7 +1,6 @@
 var a16159 =
 [
-    [ "HandleAfterEffectAbsorb", "dc/d2c/a16159.html#ab3d9f3679931b4b3b29713602d08701d", null ],
-    [ "PrepareAuraScript", "dc/d2c/a16159.html#a10ee3cda9edfec8140b94e13b88266bd", null ],
-    [ "Register", "dc/d2c/a16159.html#ab68a5ccfb0d96390bb83c329eb849cdd", null ],
-    [ "Validate", "dc/d2c/a16159.html#a87750183d2b2d6adb67bba4a1f767029", null ]
+    [ "FilterTargets", "dc/d2c/a16159.html#a40c4d2b624fe87e21263d1b137994cc3", null ],
+    [ "PrepareSpellScript", "dc/d2c/a16159.html#a697a52cbc50eafd2b0377621afb01557", null ],
+    [ "Register", "dc/d2c/a16159.html#a3d523f92cb8123f30cb068cbac39a9c3", null ]
 ];

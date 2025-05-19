@@ -1,7 +1,8 @@
 var a28143 =
 [
-    [ "Id", "de/d09/a28143.html#a94843a6f0cb39332f39a9630945f1fc8", null ],
-    [ "SoundBank", "de/d09/a28143.html#a1dd2e40caf515186c831dc8cc82c095b", null ],
-    [ "SpellId", "de/d09/a28143.html#aa010947f5fbec6867b005b25728e720b", null ],
-    [ "Type", "de/d09/a28143.html#a7f610dd6a9944b4634bb981c0cb8e230", null ]
+    [ "Id", "de/d09/a28143.html#a6943bf760d15b3f8af4109d131652d72", null ],
+    [ "MapId", "de/d09/a28143.html#ab0cccd760636a3b42af693d6c483bed9", null ],
+    [ "X", "de/d09/a28143.html#a91183890254546efeb3162173cc60dad", null ],
+    [ "Y", "de/d09/a28143.html#a19ab4d026b45d74f006479641afbc4d3", null ],
+    [ "Z", "de/d09/a28143.html#aaa23c59f20fc96aec148b82516f30036", null ]
 ];

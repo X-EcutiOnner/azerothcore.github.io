@@ -1,12 +1,12 @@
 var a23467 =
 [
-    [ "boss_nazan", "d8/d59/a23467.html#a4390d3e181c4db46e364df3302612763", null ],
-    [ "AttackStart", "d8/d59/a23467.html#a7acea69f908e7a004c2a78c103528975", null ],
-    [ "DoAction", "d8/d59/a23467.html#abdb49e50dabda61c5d16b420ae69ae77", null ],
-    [ "EnterEvadeMode", "d8/d59/a23467.html#ab6338a7d240014e548b22044b788ce8f", null ],
-    [ "JustEngagedWith", "d8/d59/a23467.html#a4d44b759530f32207a46a608fb7d6209", null ],
-    [ "MovementInform", "d8/d59/a23467.html#ad35866322ff55263b1f8b105d2cad952", null ],
-    [ "Reset", "d8/d59/a23467.html#a5c10e932075130399a9127869f45ce1d", null ],
-    [ "UpdateAI", "d8/d59/a23467.html#a17942f19444ad324058d7b8c8a9aa9de", null ],
-    [ "_scheduler", "d8/d59/a23467.html#a8915d84ec4ffb8dade18041d5e910018", null ]
+    [ "boss_vazruden_the_herald", "d8/d59/a23467.html#a97f761b2e3477a22cdc65c68700de72c", null ],
+    [ "AttackStart", "d8/d59/a23467.html#a190621f4130b913348a49d6dfe76b591", null ],
+    [ "JustSummoned", "d8/d59/a23467.html#a66d8c6252e6baf88144da3af57bf65a4", null ],
+    [ "MovementInform", "d8/d59/a23467.html#abd89aa3911c626864f8aada889ce99c9", null ],
+    [ "Reset", "d8/d59/a23467.html#a18076b0fd12bc9a002394d5fe3aa5f81", null ],
+    [ "SetData", "d8/d59/a23467.html#a7dcbec1c99fdf4f740656a8379a99080", null ],
+    [ "SummonedCreatureDespawn", "d8/d59/a23467.html#a7621077082a3b53d1d21265e6dd00dce", null ],
+    [ "SummonedCreatureDies", "d8/d59/a23467.html#a336feba0d88e4fccce28b2730a9aea9e", null ],
+    [ "UpdateAI", "d8/d59/a23467.html#adc98e358a751fd9881589aada4baf320", null ]
 ];

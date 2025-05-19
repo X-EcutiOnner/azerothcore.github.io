@@ -1,6 +1,9 @@
 var a01043 =
 [
-    [ "lfg_commandscript", "dc/ddb/a11635.html", "dc/ddb/a11635" ],
-    [ "AddSC_lfg_commandscript", "d8/d27/a01043.html#a484938015a7f5ffa8f5b1d0e259d355b", null ],
-    [ "GetPlayerInfo", "d8/d27/a01043.html#a1d2591add059e8c4daf04b9f706da765", null ]
+    [ "MapType", "d8/d27/a01043.html#a2a540ae6cb73c9914f0253464b155227", null ],
+    [ "Find", "d8/d27/a01043.html#a42d065468e6e62b7161ba0c17e1d75ea", null ],
+    [ "Insert", "d8/d27/a01043.html#a3ba44f9ba2a1ff4fd122944f95ef06bd", null ],
+    [ "Remove", "d8/d27/a01043.html#a8f833a3f02f1e431170dd5d052b0f919", null ],
+    [ "RemoveByName", "d8/d27/a01043.html#a9c5298580060e7a6078ffb5f4008c549", null ],
+    [ "PlayerNameMap", "d8/d27/a01043.html#aa8fcdd0ac947e92edddddd4e2daf61dd", null ]
 ];

@@ -1,6 +1,14 @@
 var a13403 =
 [
-    [ "HandleSendEvent", "de/dc9/a13403.html#af62c176d53589228d5e0077c9fc268a3", null ],
-    [ "PrepareSpellScript", "de/dc9/a13403.html#acea8e256f267dd496e5f573e982dba5f", null ],
-    [ "Register", "de/dc9/a13403.html#a0827e177a8268994bb4e63f07993a354", null ]
+    [ "instance_uldaman_InstanceMapScript", "de/dc9/a13403.html#ab2607f229d1e34852c82139ddb597712", null ],
+    [ "GetData", "de/dc9/a13403.html#adef5f6d2dcaa50dbb615c4c134e7ecfb", null ],
+    [ "Initialize", "de/dc9/a13403.html#a2424bcb1aec0ffc6235a8e8b384f0ed1", null ],
+    [ "OnCreatureCreate", "de/dc9/a13403.html#a49b5562743910dc1b6b55efa8c44b6a0", null ],
+    [ "OnGameObjectCreate", "de/dc9/a13403.html#aacb9db5f66f1f9be0d993aacc3cf4348", null ],
+    [ "ReadSaveDataMore", "de/dc9/a13403.html#a8e0e03189463039dd31d883ad9c40e51", null ],
+    [ "SetData", "de/dc9/a13403.html#ab24fc2db74ef83f2b3be9603d4728385", null ],
+    [ "WriteSaveDataMore", "de/dc9/a13403.html#a3345c117f5e2ceca773843c3f51cb76f", null ],
+    [ "_encounters", "de/dc9/a13403.html#a6840bd04d25fd1f365e0c28c725cde97", null ],
+    [ "ancientVaultDoorGUID", "de/dc9/a13403.html#adf83ba0b0a1650462dbc3bc56182bed9", null ],
+    [ "archaedasTempleDoorGUID", "de/dc9/a13403.html#a6bad33c43ceaa23990544e4a8feefb34", null ]
 ];

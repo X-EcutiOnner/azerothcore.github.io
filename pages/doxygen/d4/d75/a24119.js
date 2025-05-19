@@ -1,8 +1,7 @@
 var a24119 =
 [
-    [ "CreatureId", "d4/d75/a24119.html#a127341c70f8785ceb556b1c11b23f477", null ],
-    [ "SpawnCount", "d4/d75/a24119.html#ad51fb68e41e04490f658a4c4f62612bd", null ],
-    [ "SpawnTimer", "d4/d75/a24119.html#aa57ff686c5fde12269e231333d8a8bef", null ],
-    [ "UsedSpawnPoint", "d4/d75/a24119.html#a2d5f42a6b1a309c8db74febcedf457eb", null ],
-    [ "YellTimer", "d4/d75/a24119.html#a6346259269af7f2936f959f87288dd69", null ]
+    [ "o", "d4/d75/a24119.html#a3785e9b55ea3a7140086ce1f86232109", null ],
+    [ "x", "d4/d75/a24119.html#ac81cc1119b7ac8ac70ee635f2e3d4bb7", null ],
+    [ "y", "d4/d75/a24119.html#a10fbad67977d8dd3911eb629c1797684", null ],
+    [ "z", "d4/d75/a24119.html#a69fc2438e52f6c0de3af13900ff38166", null ]
 ];

@@ -1,6 +1,8 @@
 var a19259 =
 [
-    [ "instance_nexus_InstanceMapScript", "dc/d9c/a19263.html", "dc/d9c/a19263" ],
-    [ "instance_nexus", "d6/dbf/a19259.html#ad2d28baeef8323ae97f19ec9272c7e97", null ],
-    [ "GetInstanceScript", "d6/dbf/a19259.html#a156210ba08caa0572c775dbd5851b250", null ]
+    [ "npc_crystal_spike", "d6/dbf/a19259.html#aa6a6e12aba63c589e71b5ca28b924fd4", null ],
+    [ "Reset", "d6/dbf/a19259.html#a8cdca606ce482147d87ad5248665099e", null ],
+    [ "UpdateAI", "d6/dbf/a19259.html#abc04c8fba427c12630b4faf1d39bdb32", null ],
+    [ "_damageTimer", "d6/dbf/a19259.html#a36c70729a0c0281d467f870bfcde80ae", null ],
+    [ "_gameObjectGUID", "d6/dbf/a19259.html#a0c0e9a1883cee51201b039947b5bacf3", null ]
 ];

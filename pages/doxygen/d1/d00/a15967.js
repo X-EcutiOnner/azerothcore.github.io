@@ -1,6 +1,11 @@
 var a15967 =
 [
-    [ "npc_onyx_flamecallerAI", "d4/d3e/a15971.html", "d4/d3e/a15971" ],
-    [ "npc_onyx_flamecaller", "d1/d00/a15967.html#af27af3cb3bbaba0801481ba77a94f9c6", null ],
-    [ "GetAI", "d1/d00/a15967.html#a712284f1997635aaf7ecd7ca0a263c05", null ]
+    [ "boss_general_zarithrianAI", "d1/d00/a15967.html#a4168a5883052810d137f59d3b104bc24", null ],
+    [ "CheckEvadeIfOutOfCombatArea", "d1/d00/a15967.html#a22f6ff041e61c94df73a938162fa26f5", null ],
+    [ "JustDied", "d1/d00/a15967.html#a49be533142c82a95a136dc2dcbf4843c", null ],
+    [ "JustEngagedWith", "d1/d00/a15967.html#a9ec34e473b9d478277f472ab3bb7c7ef", null ],
+    [ "JustSummoned", "d1/d00/a15967.html#acb694d20b35d57a315aa4662562af210", null ],
+    [ "KilledUnit", "d1/d00/a15967.html#ad385477740b728e63acff7c184df3c09", null ],
+    [ "Reset", "d1/d00/a15967.html#a3093369d5f3c7e2a1a5828671ac0af0a", null ],
+    [ "UpdateAI", "d1/d00/a15967.html#a3a7e578d64a760cd38712c725eecc97d", null ]
 ];

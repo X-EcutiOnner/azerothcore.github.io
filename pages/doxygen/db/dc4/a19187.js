@@ -1,6 +1,6 @@
 var a19187 =
 [
-    [ "npc_eoe_wyrmrest_skytalonAI", "db/dc4/a19187.html#a0878695bc4179e3b6e92dde9f2b5cf19", null ],
-    [ "JustDied", "db/dc4/a19187.html#aaa88ff236fd49a9c672ab29feb7377b8", null ],
-    [ "PassengerBoarded", "db/dc4/a19187.html#aa3352276e87d805cc8722eb97d10ca46", null ]
+    [ "npc_eoe_wyrmrest_skytalonAI", "de/d8a/a19191.html", "de/d8a/a19191" ],
+    [ "npc_eoe_wyrmrest_skytalon", "db/dc4/a19187.html#a55685de624b277840f8fc0c397b8aebf", null ],
+    [ "GetAI", "db/dc4/a19187.html#a01a384ab10cfccbd159f116e0bef52e8", null ]
 ];

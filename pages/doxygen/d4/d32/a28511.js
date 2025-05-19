@@ -1,13 +1,10 @@
 var a28511 =
 [
-    [ "MPQArchive", "d4/d32/a28511.html#a58d57322334966ca16a22e52e5198d9f", null ],
-    [ "~MPQArchive", "d4/d32/a28511.html#a5bce22525ca16381fbb4729540a165e2", null ],
-    [ "MPQArchive", "d4/d32/a28511.html#a58d57322334966ca16a22e52e5198d9f", null ],
-    [ "~MPQArchive", "d4/d32/a28511.html#a5bce22525ca16381fbb4729540a165e2", null ],
-    [ "close", "d4/d32/a28511.html#ac40182c8e52d70aa1f53325f1b48f259", null ],
-    [ "close", "d4/d32/a28511.html#ac40182c8e52d70aa1f53325f1b48f259", null ],
-    [ "GetFileListTo", "d4/d32/a28511.html#ab91bd82370a1ebcf6b46fc3047188640", null ],
-    [ "GetFileListTo", "d4/d32/a28511.html#ab91bd82370a1ebcf6b46fc3047188640", null ],
-    [ "isOpened", "d4/d32/a28511.html#a2026335b9ede29197acfaac8513456d5", null ],
-    [ "mpq_a", "d4/d32/a28511.html#a72b9fb96b1e3db6c7be652e426978b4a", null ]
+    [ "plane", "df/d0f/a28519.html", "df/d0f/a28519" ],
+    [ "prepareLoadedData", "d4/d32/a28511.html#a29dc30be1cb7f5439e023865ff5a4853", null ],
+    [ "fcc", "d4/d32/a28511.html#a8c64958fb4e18bc3bcfaf7dbfde9f178", null ],
+    [ "fcc_txt", "d4/d32/a28511.html#ab768fb1ba27812060cf2edeb5f4b876c", null ],
+    [ "max", "d4/d32/a28511.html#afadebfc1361985b6f5d45c27e22cb303", null ],
+    [ "min", "d4/d32/a28511.html#ac3ebf1557841088ef8912b68fe6df908", null ],
+    [ "size", "d4/d32/a28511.html#af92420cfd862486c73c35ac8a9f9fdee", null ]
 ];

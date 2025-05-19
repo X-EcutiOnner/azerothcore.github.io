@@ -1,6 +1,7 @@
 var a21907 =
 [
-    [ "npc_attracted_reef_bullAI", "d7/d56/a21911.html", "d7/d56/a21911" ],
-    [ "npc_attracted_reef_bull", "de/d3e/a21907.html#acd0ade9e7ce5492c11be0b3f2696418e", null ],
-    [ "GetAI", "de/d3e/a21907.html#af705e2768cd41c955af7f944c670ac85", null ]
+    [ "HandleScript", "de/d3e/a21907.html#a7fec959237546201ea94d5f87068e1c5", null ],
+    [ "PrepareSpellScript", "de/d3e/a21907.html#ae0c3eafc8b227078a2dcaccf1c0a278b", null ],
+    [ "Register", "de/d3e/a21907.html#a0aab07a4950f60a290491aa13103b332", null ],
+    [ "Validate", "de/d3e/a21907.html#a92d5493a43fca5c54ef89cb19ce00aa2", null ]
 ];

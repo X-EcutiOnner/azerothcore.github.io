@@ -1,19 +1,16 @@
 var a04031 =
 [
-    [ "QueryResultFieldMetadata", "d2/de1/a05687.html", "d2/de1/a05687" ],
-    [ "Field", "d8/d58/a05691.html", "d8/d58/a05691" ],
-    [ "Binary", "d4/dd6/a04031.html#a45c2b15f675e85c1f4462be09f27c59e", null ],
-    [ "is_chrono_v", "d4/dd6/a04031.html#aa6a7b1e80be2ae7ec2efb76185ee7b44", null ],
-    [ "DatabaseFieldTypes", "d4/dd6/a04031.html#a52858f4c2cc23ac9372ab466fb82c091", [
-      [ "Null", "d4/dd6/a04031.html#a52858f4c2cc23ac9372ab466fb82c091abbb93ef26e3c101ff11cdd21cab08a94", null ],
-      [ "Int8", "d4/dd6/a04031.html#a52858f4c2cc23ac9372ab466fb82c091a7d839b2c12bfd40ac121b4cc9e81c539", null ],
-      [ "Int16", "d4/dd6/a04031.html#a52858f4c2cc23ac9372ab466fb82c091a39bc2ae44b184207f560ff8619823208", null ],
-      [ "Int32", "d4/dd6/a04031.html#a52858f4c2cc23ac9372ab466fb82c091ac06129f6e6e15c09328365e553f1dc31", null ],
-      [ "Int64", "d4/dd6/a04031.html#a52858f4c2cc23ac9372ab466fb82c091afbde23b11d7e59af7828e81144c8b487", null ],
-      [ "Float", "d4/dd6/a04031.html#a52858f4c2cc23ac9372ab466fb82c091a22ae0e2b89e5e3d477f988cc36d3272b", null ],
-      [ "Double", "d4/dd6/a04031.html#a52858f4c2cc23ac9372ab466fb82c091ad909d38d705ce75386dd86e611a82f5b", null ],
-      [ "Decimal", "d4/dd6/a04031.html#a52858f4c2cc23ac9372ab466fb82c091a937504f318f04eaf0f1d701df4c4d7f3", null ],
-      [ "Date", "d4/dd6/a04031.html#a52858f4c2cc23ac9372ab466fb82c091a44749712dbec183e983dcd78a7736c41", null ],
-      [ "Binary", "d4/dd6/a04031.html#a52858f4c2cc23ac9372ab466fb82c091a6ce976e8f061b2b5cfe4d0c50c3405dd", null ]
-    ] ]
+    [ "npc_corporal_keeshan", "d6/dab/a13539.html", "d6/dab/a13539" ],
+    [ "npc_corporal_keeshan::npc_corporal_keeshanAI", "d2/ded/a13543.html", "d2/ded/a13543" ],
+    [ "CorporalKeeshan", "d4/dd6/a04031.html#aeff5ef215a48fcd7bb6837e1d77e4b45", [
+      [ "QUEST_MISSING_IN_ACTION", "d4/dd6/a04031.html#aeff5ef215a48fcd7bb6837e1d77e4b45a5671553041dd72c404603a8d8306d210", null ],
+      [ "SAY_CORPORAL_1", "d4/dd6/a04031.html#aeff5ef215a48fcd7bb6837e1d77e4b45ac38c6d842f842737e2ce32328ac9f364", null ],
+      [ "SAY_CORPORAL_2", "d4/dd6/a04031.html#aeff5ef215a48fcd7bb6837e1d77e4b45a0f3bc1435df322537b377cf731568c3f", null ],
+      [ "SAY_CORPORAL_3", "d4/dd6/a04031.html#aeff5ef215a48fcd7bb6837e1d77e4b45ac9f16a476377703de75fca38efc30445", null ],
+      [ "SAY_CORPORAL_4", "d4/dd6/a04031.html#aeff5ef215a48fcd7bb6837e1d77e4b45af4b07584ff68de1c2cb9c2ffc72b0dbe", null ],
+      [ "SAY_CORPORAL_5", "d4/dd6/a04031.html#aeff5ef215a48fcd7bb6837e1d77e4b45a6b6a9b8fdd7d72951451c7ae86adc8bf", null ],
+      [ "SPELL_MOCKING_BLOW", "d4/dd6/a04031.html#aeff5ef215a48fcd7bb6837e1d77e4b45a187756168a83876d24db61f38ff5ec5e", null ],
+      [ "SPELL_SHIELD_BASH", "d4/dd6/a04031.html#aeff5ef215a48fcd7bb6837e1d77e4b45a0d74cfe7662c959a043f01770a2c7bf4", null ]
+    ] ],
+    [ "AddSC_redridge_mountains", "d4/dd6/a04031.html#a0e7af4a9a0f1dcec20ae3d284f9721c5", null ]
 ];

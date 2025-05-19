@@ -1,6 +1,5 @@
 var a02129 =
 [
-    [ "BG_SA_BOAT_START", "db/d26/a02129.html#a2ec6635cf59771fcfd56b16cd670eebc", null ],
-    [ "BG_SA_ROUNDLENGTH", "db/d26/a02129.html#a1197e8f288608511601a41e8e8ea80ce", null ],
-    [ "BG_SA_WARMUPLENGTH", "db/d26/a02129.html#a7447506b77b9babea7568349335ea705", null ]
+    [ "tele_commandscript", "d3/d65/a11715.html", "d3/d65/a11715" ],
+    [ "AddSC_tele_commandscript", "db/d26/a02129.html#a75673ffc02c68c43cefd69bb0648dd53", null ]
 ];

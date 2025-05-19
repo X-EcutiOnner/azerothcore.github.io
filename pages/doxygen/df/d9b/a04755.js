@@ -1,9 +1,9 @@
 var a04755 =
 [
-    [ "Opcodes.h", "de/d8e/a02762.html", null ],
-    [ "WorldSession.cpp", "de/d69/a02786.html", null ],
-    [ "WorldSession.h", "d5/db0/a02777.html", null ],
-    [ "WorldSocketMgr.h", "df/de4/a02780.html", null ],
+    [ "Opcodes.h", "de/d0f/a01727.html", null ],
+    [ "WorldSession.cpp", "db/d7f/a01718.html", null ],
+    [ "WorldSession.h", "d3/d4c/a01724.html", null ],
+    [ "WorldSocketMgr.h", "d5/db3/a01751.html", null ],
     [ "lfg", "d9/d75/a04805.html", null ],
     [ "WorldPackets", "de/d85/a04810.html", null ],
     [ "OpcodeHandler", "d6/d5a/a10899.html", [

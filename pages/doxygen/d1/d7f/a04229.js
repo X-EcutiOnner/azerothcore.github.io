@@ -1,8 +1,10 @@
 var a04229 =
 [
-    [ "wdt_MPHD", "dd/dd3/a28579.html", "dd/dd3/a28579" ],
-    [ "wdt_MAIN", "dc/d40/a28587.html", "dc/d40/a28587" ],
-    [ "wdt_MAIN::adtData", "d4/d09/a28595.html", "d4/d09/a28595" ],
-    [ "WDT_file", "d6/d93/a28599.html", "d6/d93/a28599" ],
-    [ "WDT_MAP_SIZE", "d1/d7f/a04229.html#a0cf0c1d4bd3ed48612ab2a5e36b8cf10", null ]
+    [ "VMAP::ModelSpawn", "d2/d61/a05043.html", "d2/d61/a05043" ],
+    [ "VMAP::ModelInstance", "d3/dd5/a05047.html", "d3/dd5/a05047" ],
+    [ "ModelFlags", "d1/d7f/a04229.html#ac540ff16efadcc07eeb9d8511b94ccce", [
+      [ "MOD_M2", "d1/d7f/a04229.html#ac540ff16efadcc07eeb9d8511b94ccceadfad2b6f6278e720b00314cd5117b673", null ],
+      [ "MOD_WORLDSPAWN", "d1/d7f/a04229.html#ac540ff16efadcc07eeb9d8511b94cccea3a6165ebc7b838e28ef59670dc84dc46", null ],
+      [ "MOD_HAS_BOUND", "d1/d7f/a04229.html#ac540ff16efadcc07eeb9d8511b94ccceaa47940cd802c5225d2babb37d24c7f09", null ]
+    ] ]
 ];

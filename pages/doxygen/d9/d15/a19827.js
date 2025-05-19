@@ -1,6 +1,6 @@
 var a19827 =
 [
-    [ "npc_pool_of_tarAI", "d9/d15/a19827.html#a6141addc9b1cf2c0028d98ef4f4d9d37", null ],
-    [ "DamageTaken", "d9/d15/a19827.html#a4ea55aa08123f724268238e0def5b595", null ],
-    [ "SpellHit", "d9/d15/a19827.html#acb63166b396c079d5b4bb9db67a1448a", null ]
+    [ "npc_pool_of_tarAI", "db/d5b/a19831.html", "db/d5b/a19831" ],
+    [ "npc_pool_of_tar", "d9/d15/a19827.html#a9c585318b4507babe77b3ba758b06a87", null ],
+    [ "GetAI", "d9/d15/a19827.html#ae77bf48a72ce49f821085f32127e91dc", null ]
 ];

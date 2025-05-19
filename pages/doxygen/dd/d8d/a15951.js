@@ -1,10 +1,6 @@
 var a15951 =
 [
-    [ "npc_xerestraszaAI", "dd/d8d/a15951.html#a768ae45296e16b8fcada6359dfd6c7e5", null ],
-    [ "DoAction", "dd/d8d/a15951.html#af696ecee315892b2bf0233113d2f89f9", null ],
-    [ "Reset", "dd/d8d/a15951.html#a0eceae8fb9bf5071bc8d9cddf783507b", null ],
-    [ "UpdateAI", "dd/d8d/a15951.html#a6389ab58f4b44c668590113ec75f2adf", null ],
-    [ "_events", "dd/d8d/a15951.html#ae998fc6aaee14bc313ff38bb76d79e43", null ],
-    [ "_introDone", "dd/d8d/a15951.html#a9d01014297290dafbb7ed25bffbe6fe6", null ],
-    [ "_isIntro", "dd/d8d/a15951.html#a71ffbf3fedb77bd693beabb4ee52f57a", null ]
+    [ "npc_xerestraszaAI", "d4/dc9/a15955.html", "d4/dc9/a15955" ],
+    [ "npc_xerestrasza", "dd/d8d/a15951.html#a49023756b5dab130e4ffd7e62fa80ce4", null ],
+    [ "GetAI", "dd/d8d/a15951.html#a5e0ede0054969d4787db56781dc55846", null ]
 ];

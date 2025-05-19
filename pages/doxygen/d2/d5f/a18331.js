@@ -1,5 +1,8 @@
 var a18331 =
 [
-    [ "achievement_been_waiting_long_time", "d2/d5f/a18331.html#a839ec8cb50512bbae7125ead3ed35aec", null ],
-    [ "OnCheck", "d2/d5f/a18331.html#a5e72304220d3a649d2182cb287215da6", null ]
+    [ "npc_lk_wicked_spiritAI", "d2/d5f/a18331.html#a6323ddd6c0932f3d73a6de4bd3c4d5dd", null ],
+    [ "CanAIAttack", "d2/d5f/a18331.html#ae094420b1a6e134632baa0b086c806c6", null ],
+    [ "JustDied", "d2/d5f/a18331.html#adf153fab1c8639b2b5790ed418afb85d", null ],
+    [ "JustRespawned", "d2/d5f/a18331.html#a1acfbead42b66dd8f70a85efc8ce2e6f", null ],
+    [ "Reset", "d2/d5f/a18331.html#a8b15079251b6855679d738a342126006", null ]
 ];

@@ -1,6 +1,11 @@
 var a19783 =
 [
-    [ "boss_flame_leviathan_overload_deviceAI", "d9/de9/a19787.html", "d9/de9/a19787" ],
-    [ "boss_flame_leviathan_overload_device", "d3/d87/a19783.html#ad00f601170c1af833aadb17eab5d19a8", null ],
-    [ "GetAI", "d3/d87/a19783.html#a73988d2b1cfe61d0356ec1f317d90162", null ]
+    [ "boss_flame_leviathan_defense_turretAI", "d3/d87/a19783.html#aedf30f06fe89c805019f7cc254646ff1", null ],
+    [ "CanAIAttack", "d3/d87/a19783.html#a76efa1d88ce029775809abb3ec88efb3", null ],
+    [ "DamageTaken", "d3/d87/a19783.html#adedbbeeb01da20843bc85ac2daaed12a", null ],
+    [ "JustDied", "d3/d87/a19783.html#af261cc1f0458984719ab1bb4518bdc64", null ],
+    [ "KilledUnit", "d3/d87/a19783.html#aed3f2a4bac3391683989eec94697ef16", null ],
+    [ "UpdateAI", "d3/d87/a19783.html#a575eb381d1aa31af60484271ae6e4627", null ],
+    [ "_instance", "d3/d87/a19783.html#a8c0658a5d32355607cb16f6e1c83f83e", null ],
+    [ "_setHealth", "d3/d87/a19783.html#aeb220ded0a6515674a428716a8be9f48", null ]
 ];

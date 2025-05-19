@@ -1,13 +1,20 @@
 var a04712 =
 [
-    [ "TypeContainerVisitor< VISITOR, TYPE_CONTAINER >", "d1/dd1/a05275.html", "d1/dd1/a05275" ],
-    [ "VisitorHelper", "db/dcc/a04712.html#afb97c1925d9afe2b9cb0f316b722b286", null ],
-    [ "VisitorHelper", "db/dcc/a04712.html#a3c05d024f0dd548fe51e8d8657cdb9b8", null ],
-    [ "VisitorHelper", "db/dcc/a04712.html#a2bba031b226b147ad62a069694924b83", null ],
-    [ "VisitorHelper", "db/dcc/a04712.html#a521e8e3b3a45439e572e9769ad39b512", null ],
-    [ "VisitorHelper", "db/dcc/a04712.html#ace6180e67fbb6a46929af65480632388", null ],
-    [ "VisitorHelper", "db/dcc/a04712.html#ac2220e2e1174a525d43b8449fd25a2e3", null ],
-    [ "VisitorHelper", "db/dcc/a04712.html#a3a47e8382377ca85476452be8786e00f", null ],
-    [ "VisitorHelper", "db/dcc/a04712.html#a85da15ab4908f58ef09fcf703f3c01a6", null ],
-    [ "VisitorHelper", "db/dcc/a04712.html#af508b246df1e278d5ebf32da50f4e2f9", null ]
+    [ "map_fileheader", "db/d84/a09071.html", "db/d84/a09071" ],
+    [ "map_heightHeader", "d2/dd9/a09079.html", "d2/dd9/a09079" ],
+    [ "map_liquidHeader", "d4/d76/a09083.html", "d4/d76/a09083" ],
+    [ "MAP_HEIGHT_AS_INT16", "db/dcc/a04712.html#aefa74fa33f3eba2d39b407c2fd2e8aba", null ],
+    [ "MAP_HEIGHT_AS_INT8", "db/dcc/a04712.html#a15a9245a53c00f1a8a89dd2d798cea9d", null ],
+    [ "MAP_HEIGHT_NO_HEIGHT", "db/dcc/a04712.html#aa5c2437972b2be5c5ff23a7ac04e2680", null ],
+    [ "MAP_LIQUID_NO_HEIGHT", "db/dcc/a04712.html#a59daadc7c96729526e05982ec6600bb1", null ],
+    [ "MAP_LIQUID_NO_TYPE", "db/dcc/a04712.html#a42b8b790a3d284e7116bcad1c391b8f9", null ],
+    [ "MAP_LIQUID_TYPE_DARK_WATER", "db/dcc/a04712.html#a661f965d11d7da56890b64484d871441", null ],
+    [ "MAP_LIQUID_TYPE_MAGMA", "db/dcc/a04712.html#a14e2a0a2291347b0ef877bc9d70f7384", null ],
+    [ "MAP_LIQUID_TYPE_NO_WATER", "db/dcc/a04712.html#a17d4c5ea32412f0fbe04a27f63d50e13", null ],
+    [ "MAP_LIQUID_TYPE_OCEAN", "db/dcc/a04712.html#a6d257e0effb928fba7534eeee5de602d", null ],
+    [ "MAP_LIQUID_TYPE_SLIME", "db/dcc/a04712.html#aa56f76510545ed9c706b8fee3061b6cb", null ],
+    [ "MAP_LIQUID_TYPE_WATER", "db/dcc/a04712.html#a5ec110bd30ec47fcd087aaf5d572de28", null ],
+    [ "holetab_h", "db/dcc/a04712.html#abeb39e913287295598939165f99abe3b", null ],
+    [ "holetab_v", "db/dcc/a04712.html#a8c5ddef856ef804076860bb176c6d9e1", null ],
+    [ "MAP_VERSION_MAGIC", "db/dcc/a04712.html#aee23c8e21c084824373ce587f8fe1f04", null ]
 ];

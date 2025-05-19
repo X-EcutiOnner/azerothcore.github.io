@@ -1,5 +1,5 @@
 var a19115 =
 [
-    [ "npc_living_poison", "d4/d57/a19115.html#a277440068846eac71c795880a16475dd", null ],
-    [ "UpdateAI", "d4/d57/a19115.html#a2a6af8a9ef14e65ba9e44f2228b09ba5", null ]
+    [ "npc_mr_bigglesworth", "d4/d57/a19115.html#a51e81be4146e8e40a82ecf4018cb955d", null ],
+    [ "JustDied", "d4/d57/a19115.html#a3d5957253ef3af4f48f5bfaf4d93ce0f", null ]
 ];

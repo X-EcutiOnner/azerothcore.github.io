@@ -1,6 +1,6 @@
 var a24047 =
 [
-    [ "HandleEffectRemove", "d8/d4f/a24047.html#a2e73fd55dd7e6e658bc6c6623b650732", null ],
-    [ "PrepareAuraScript", "d8/d4f/a24047.html#a9aabae3a6c57be9b17394d4a39fe24ec", null ],
-    [ "Register", "d8/d4f/a24047.html#ac02217c103db141d75377e233e1e4242", null ]
+    [ "CheckCast", "d8/d4f/a24047.html#ae13cc2d3da1c9911c88402d05679d447", null ],
+    [ "PrepareSpellScript", "d8/d4f/a24047.html#afbed81273aa23d355c64579c71e9761d", null ],
+    [ "Register", "d8/d4f/a24047.html#a7157d04dfc534aa3cb88e8dff169c676", null ]
 ];

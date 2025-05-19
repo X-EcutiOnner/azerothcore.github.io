@@ -165,16 +165,16 @@ Static Public Member Functions</h2></td></tr>
 <div class="line"><span class="lineno">  112</span> </div>
 <div class="line"><span class="lineno">  113</span>            <span class="keywordflow">if</span> (next)</div>
 <div class="line"><span class="lineno">  114</span>            {</div>
-<div class="line"><span class="lineno">  115</span>                <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d8/d19/a04259.html#a096388bd1034eb78e43e5d60cc4f657a">Utf8toWStr</a>(utf8view, val))</div>
+<div class="line"><span class="lineno">  115</span>                <span class="keywordflow">if</span> (<a class="code hl_function" href="../../dd/db4/a04367.html#a096388bd1034eb78e43e5d60cc4f657a">Utf8toWStr</a>(utf8view, val))</div>
 <div class="line"><span class="lineno">  116</span>                    <span class="keywordflow">return</span> next;</div>
 <div class="line"><span class="lineno">  117</span>                <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  118</span>                    <span class="keywordflow">return</span> <a class="code hl_function" href="../../da/d54/a04801.html#a1106e69269315156c6019b7812547ce9">GetAcoreString</a>(handler, <a class="code hl_enumvalue" href="../../d3/d4a/a03740.html#af9ee42b1cf006ecb2d2e74fe71c0761aafa07aec7bd59db026c454dcf92ef600d">LANG_CMDPARSER_INVALID_UTF8</a>);</div>
+<div class="line"><span class="lineno">  118</span>                    <span class="keywordflow">return</span> <a class="code hl_function" href="../../da/d54/a04801.html#a1106e69269315156c6019b7812547ce9">GetAcoreString</a>(handler, <a class="code hl_enumvalue" href="../../d4/d8c/a00035.html#af9ee42b1cf006ecb2d2e74fe71c0761aafa07aec7bd59db026c454dcf92ef600d">LANG_CMDPARSER_INVALID_UTF8</a>);</div>
 <div class="line"><span class="lineno">  119</span>            }</div>
 <div class="line"><span class="lineno">  120</span>            <span class="keywordflow">else</span></div>
 <div class="line"><span class="lineno">  121</span>                <span class="keywordflow">return</span> std::nullopt;</div>
 <div class="line"><span class="lineno">  122</span>        }</div>
-<div class="ttc" id="aa03740_html_af9ee42b1cf006ecb2d2e74fe71c0761aafa07aec7bd59db026c454dcf92ef600d"><div class="ttname"><a href="../../d3/d4a/a03740.html#af9ee42b1cf006ecb2d2e74fe71c0761aafa07aec7bd59db026c454dcf92ef600d">LANG_CMDPARSER_INVALID_UTF8</a></div><div class="ttdeci">@ LANG_CMDPARSER_INVALID_UTF8</div><div class="ttdef"><b>Definition:</b> Language.h:995</div></div>
-<div class="ttc" id="aa04259_html_a096388bd1034eb78e43e5d60cc4f657a"><div class="ttname"><a href="../../d8/d19/a04259.html#a096388bd1034eb78e43e5d60cc4f657a">Utf8toWStr</a></div><div class="ttdeci">bool Utf8toWStr(char const *utf8str, std::size_t csize, wchar_t *wstr, std::size_t &amp;wsize)</div><div class="ttdef"><b>Definition:</b> Util.cpp:281</div></div>
+<div class="ttc" id="aa00035_html_af9ee42b1cf006ecb2d2e74fe71c0761aafa07aec7bd59db026c454dcf92ef600d"><div class="ttname"><a href="../../d4/d8c/a00035.html#af9ee42b1cf006ecb2d2e74fe71c0761aafa07aec7bd59db026c454dcf92ef600d">LANG_CMDPARSER_INVALID_UTF8</a></div><div class="ttdeci">@ LANG_CMDPARSER_INVALID_UTF8</div><div class="ttdef"><b>Definition:</b> Language.h:995</div></div>
+<div class="ttc" id="aa04367_html_a096388bd1034eb78e43e5d60cc4f657a"><div class="ttname"><a href="../../dd/db4/a04367.html#a096388bd1034eb78e43e5d60cc4f657a">Utf8toWStr</a></div><div class="ttdeci">bool Utf8toWStr(char const *utf8str, std::size_t csize, wchar_t *wstr, std::size_t &amp;wsize)</div><div class="ttdef"><b>Definition:</b> Util.cpp:281</div></div>
 <div class="ttc" id="aa04801_html_a1106e69269315156c6019b7812547ce9"><div class="ttname"><a href="../../da/d54/a04801.html#a1106e69269315156c6019b7812547ce9">Acore::Impl::ChatCommands::GetAcoreString</a></div><div class="ttdeci">AC_GAME_API std::string GetAcoreString(ChatHandler const *handler, AcoreStrings which)</div><div class="ttdef"><b>Definition:</b> ChatCommandHelpers.cpp:27</div></div>
 <div class="ttc" id="aa07635_html"><div class="ttname"><a href="../../d7/df5/a07635.html">Acore::Impl::ChatCommands::ChatCommandResult</a></div><div class="ttdef"><b>Definition:</b> ChatCommandHelpers.h:100</div></div>
 </div><!-- fragment -->
@@ -188,7 +188,7 @@ Static Public Member Functions</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../db/d75/a04761.html">Acore</a></li><li class="navelem"><a class="el" href="../../d5/d4a/a04773.html">Impl</a></li><li class="navelem"><a class="el" href="../../da/d54/a04801.html">ChatCommands</a></li><li class="navelem"><a class="el" href="../../db/d1c/a07567.html">ArgInfo&lt; std::wstring, void &gt;</a></li>
-    <li class="footer">Generated on Mon May 12 2025 20:47:31 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon May 19 2025 20:47:10 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

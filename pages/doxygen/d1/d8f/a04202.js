@@ -1,4 +1,6 @@
 var a04202 =
 [
-    [ "wdtGetPlainName", "d1/d8f/a04202.html#aec756087655d9d993d4475947742ba56", null ]
+    [ "VMAP::LocationInfo", "d1/da2/a04991.html", "d1/da2/a04991" ],
+    [ "VMAP::StaticMapTree", "d6/d54/a04995.html", "d6/d54/a04995" ],
+    [ "VMAP::AreaInfo", "d9/d7c/a04999.html", "d9/d7c/a04999" ]
 ];

@@ -1,5 +1,5 @@
 var a27319 =
 [
-    [ "item_incendiary_explosives", "d9/d8e/a27319.html#a3a10f4e40374cae75a5ed320385a67f9", null ],
-    [ "OnUse", "d9/d8e/a27319.html#a1e566a6a5b6cfb8b7e331a6ea94f77b4", null ]
+    [ "item_only_for_flight", "d9/d8e/a27319.html#a8f905266dc8f24cf35598a37e7018ff7", null ],
+    [ "OnUse", "d9/d8e/a27319.html#a88cdf17a85630aef703f93143ba41d4d", null ]
 ];

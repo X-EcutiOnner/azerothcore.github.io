@@ -1,12 +1,6 @@
 var a23483 =
 [
-    [ "boss_watchkeeper_gargolmar", "d8/d4e/a23483.html#acb4212c6f852f50f3edfa3880806a9d2", null ],
-    [ "JustDied", "d8/d4e/a23483.html#a39be5796b39bea913105fc48dda0d186", null ],
-    [ "JustEngagedWith", "d8/d4e/a23483.html#a9e3194d02d0d3b66ef38118aa32ae684", null ],
-    [ "KilledUnit", "d8/d4e/a23483.html#a22736c2680f41cfd3443a76cd4de9352", null ],
-    [ "MoveInLineOfSight", "d8/d4e/a23483.html#adec9837fdb2595ce57acffb279a7d011", null ],
-    [ "Reset", "d8/d4e/a23483.html#a356b7fe9071b073b74b21913e35e7408", null ],
-    [ "UpdateAI", "d8/d4e/a23483.html#a1453d26ccbd3e78f46cb33f054d57759", null ],
-    [ "_hasSpoken", "d8/d4e/a23483.html#a3cd89b2567668b52d96b02af7eb85db8", null ],
-    [ "_taunted", "d8/d4e/a23483.html#ab5623501bf92e119806ba4e2ccd0cd7a", null ]
+    [ "HandleScriptEffect", "d8/d4e/a23483.html#afae95a49843aa956d627e9bd92f8820f", null ],
+    [ "PrepareSpellScript", "d8/d4e/a23483.html#a434945da0a6b64db79cab0e09cbbb286", null ],
+    [ "Register", "d8/d4e/a23483.html#a396acb663b8c9151196b8fedea3660c7", null ]
 ];

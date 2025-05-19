@@ -1,5 +1,4 @@
 var a01094 =
 [
-    [ "gm_commandscript", "da/d0b/a11595.html", "da/d0b/a11595" ],
-    [ "AddSC_gm_commandscript", "d6/dea/a01094.html#a65c7b128fdf4dd9807ef514c24918e7b", null ]
+    [ "UPDATE_TARGET_MAP_INTERVAL", "d6/dea/a01094.html#a49c1eff45f8eb67e523f8593923a5df0", null ]
 ];

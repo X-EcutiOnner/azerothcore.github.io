@@ -1,8 +1,6 @@
 var a20719 =
 [
-    [ "boss_yoggsaron_guardian_of_ysAI", "de/d0f/a20719.html#a5542a4fd68a012049a79047f47dccc68", null ],
-    [ "JustDied", "de/d0f/a20719.html#ad75f0baeef73a79cdb9bf62463bc8e50", null ],
-    [ "Reset", "de/d0f/a20719.html#a43d12c19425f3caa56a9732774b6f943", null ],
-    [ "UpdateAI", "de/d0f/a20719.html#a8e1d0b14747db6ce06b882f3f9d61963", null ],
-    [ "_spellTimer", "de/d0f/a20719.html#a45dec8609328d65413ae6c88f693ba15", null ]
+    [ "boss_yoggsaron_guardian_of_ysAI", "d2/d98/a20723.html", "d2/d98/a20723" ],
+    [ "boss_yoggsaron_guardian_of_ys", "de/d0f/a20719.html#a299b346a4e9ac5190d554702dcf00faf", null ],
+    [ "GetAI", "de/d0f/a20719.html#a86380b3ad87e0070541d22d3fb74058f", null ]
 ];

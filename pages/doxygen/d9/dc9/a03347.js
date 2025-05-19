@@ -1,12 +1,15 @@
 var a03347 =
 [
-    [ "ArenaTeamScript", "d7/d0f/a10211.html", "d7/d0f/a10211" ],
-    [ "ArenaTeamHook", "d9/dc9/a03347.html#adfb7077026efd17516d6b85637c2b218", [
-      [ "ARENATEAMHOOK_ON_GET_SLOT_BY_TYPE", "d9/dc9/a03347.html#adfb7077026efd17516d6b85637c2b218a138fd48dae9a6b0db50dd8a442045adc", null ],
-      [ "ARENATEAMHOOK_ON_GET_ARENA_POINTS", "d9/dc9/a03347.html#adfb7077026efd17516d6b85637c2b218a3b21f54389f578130e4874fd75c7e6a9", null ],
-      [ "ARENATEAMHOOK_ON_TYPEID_TO_QUEUEID", "d9/dc9/a03347.html#adfb7077026efd17516d6b85637c2b218ae5c1d8d5548693d43fdd43339ef152a7", null ],
-      [ "ARENATEAMHOOK_ON_QUEUEID_TO_ARENA_TYPE", "d9/dc9/a03347.html#adfb7077026efd17516d6b85637c2b218a957830b5a4fb9d7a53b977999068031b", null ],
-      [ "ARENATEAMHOOK_ON_SET_ARENA_MAX_PLAYERS_PER_TEAM", "d9/dc9/a03347.html#adfb7077026efd17516d6b85637c2b218aaf39f25b1610466743d5d839986bf6b6", null ],
-      [ "ARENATEAMHOOK_END", "d9/dc9/a03347.html#adfb7077026efd17516d6b85637c2b218a5fe29b394fe4fe74fffe7988b90ccaf7", null ]
-    ] ]
+    [ "instance_nexus", "dc/d9c/a19263.html", "dc/d9c/a19263" ],
+    [ "instance_nexus::instance_nexus_InstanceMapScript", "da/d01/a19267.html", "da/d01/a19267" ],
+    [ "npc_crystalline_frayer", "da/d5f/a19271.html", "da/d5f/a19271" ],
+    [ "eFrayer", "d9/dc9/a03347.html#afccbdf6b1fcd1d08834c371ae089cd34", [
+      [ "SPELL_SUMMON_SEED_POD", "d9/dc9/a03347.html#afccbdf6b1fcd1d08834c371ae089cd34a574104b14cbcd24794ab8666fa8dbd76", null ],
+      [ "SPELL_SEED_POD", "d9/dc9/a03347.html#afccbdf6b1fcd1d08834c371ae089cd34ac55a6fa8082947a3cf2c03a7a6698eb7", null ],
+      [ "SPELL_AURA_OF_REGENERATION", "d9/dc9/a03347.html#afccbdf6b1fcd1d08834c371ae089cd34a16a68348d55363d0fa476afad65ed165", null ],
+      [ "SPELL_CRYSTAL_BLOOM", "d9/dc9/a03347.html#afccbdf6b1fcd1d08834c371ae089cd34a2628113ed0f8c81fec3cbb2dd01123f7", null ],
+      [ "SPELL_ENSNARE", "d9/dc9/a03347.html#afccbdf6b1fcd1d08834c371ae089cd34aa84bf40a2daa426466ad7322a0ab325d", null ]
+    ] ],
+    [ "AddSC_instance_nexus", "d9/dc9/a03347.html#a77d0cce0724befee65efa7555f62f8f1", null ],
+    [ "doorData", "d9/dc9/a03347.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ]
 ];

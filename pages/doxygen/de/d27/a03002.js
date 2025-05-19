@@ -1,21 +1,21 @@
 var a03002 =
 [
-    [ "CleaningFlags", "de/d27/a03002.html#ad8ba5c50a4cd2d5193e35ccc83798c67", [
-      [ "CLEANING_FLAG_ACHIEVEMENT_PROGRESS", "de/d27/a03002.html#ad8ba5c50a4cd2d5193e35ccc83798c67afdcd00f9b75d683b143cbbe0ac22d748", null ],
-      [ "CLEANING_FLAG_SKILLS", "de/d27/a03002.html#ad8ba5c50a4cd2d5193e35ccc83798c67ac23b2648d4cf0fe8d9ff4cd96722a714", null ],
-      [ "CLEANING_FLAG_SPELLS", "de/d27/a03002.html#ad8ba5c50a4cd2d5193e35ccc83798c67a39fa10b14e68e92b74ab6697d0e1d564", null ],
-      [ "CLEANING_FLAG_TALENTS", "de/d27/a03002.html#ad8ba5c50a4cd2d5193e35ccc83798c67a06a3fa1596c0c32ec619b9b9cb1d1550", null ],
-      [ "CLEANING_FLAG_QUESTSTATUS", "de/d27/a03002.html#ad8ba5c50a4cd2d5193e35ccc83798c67ae0367424104049d29ca9dcf3d5b7273c", null ]
+    [ "npcs_riverbreeze_and_silversky", "d4/dd0/a15379.html", "d4/dd0/a15379" ],
+    [ "at_ancient_leaf", "df/dda/a15383.html", "df/dda/a15383" ],
+    [ "GOSSIP_ITEM_BEACON", "de/d27/a03002.html#aed16a0d3c0f5042443d68996e30f15bd", null ],
+    [ "AncientMisc", "de/d27/a03002.html#adaffe09a7c2b9f9bfdc48d5068c18068", [
+      [ "QUEST_ANCIENT_LEAF", "de/d27/a03002.html#adaffe09a7c2b9f9bfdc48d5068c18068aa825be5f41ad67f6007d3509e9bb87e3", null ],
+      [ "NPC_VARTRUS", "de/d27/a03002.html#adaffe09a7c2b9f9bfdc48d5068c18068aa3648d60ebaeb2cef5c0578018150e99", null ],
+      [ "NPC_STOMA", "de/d27/a03002.html#adaffe09a7c2b9f9bfdc48d5068c18068ab30f7bd203d11ff87b0030b3578a5e81", null ],
+      [ "NPC_HASTAT", "de/d27/a03002.html#adaffe09a7c2b9f9bfdc48d5068c18068acc6ef71bcba7f2d82bc3164636733e04", null ],
+      [ "CREATURE_GROUP_ANCIENTS", "de/d27/a03002.html#adaffe09a7c2b9f9bfdc48d5068c18068a929e77d337e49edf4de033ddb8ccf149", null ]
     ] ],
-    [ "AchievementProgressCheck", "de/d27/a03002.html#afe5cf638b3ba626c9dc18258d4c528fa", null ],
-    [ "CheckUnique", "de/d27/a03002.html#ab98182e5f92f72090600314cc41f0d39", null ],
-    [ "CleanCharacterAchievementProgress", "de/d27/a03002.html#ae5939466cf9b4fbb63eb136baf62767f", null ],
-    [ "CleanCharacterQuestStatus", "de/d27/a03002.html#a9f512823f852120bf4c3ec78eb4bbeaa", null ],
-    [ "CleanCharacterSkills", "de/d27/a03002.html#ae8c5d4dc123b8a900254bcbc82c1ffbe", null ],
-    [ "CleanCharacterSpell", "de/d27/a03002.html#aca5826d283031348e5d6ae6eb75ad605", null ],
-    [ "CleanCharacterTalent", "de/d27/a03002.html#a344f61fb209b507b775a0bbfb1315fac", null ],
-    [ "CleanDatabase", "de/d27/a03002.html#a357c8a07f912c6efb55a13cc9bc089b9", null ],
-    [ "SkillCheck", "de/d27/a03002.html#a0f72cf24646d1ece0eb793890840992d", null ],
-    [ "SpellCheck", "de/d27/a03002.html#a02688f57778d28a7bcc4ca6cee2074ad", null ],
-    [ "TalentCheck", "de/d27/a03002.html#aac707369555aa95807c11b1578ae80d2", null ]
+    [ "RiverbreezeAndSilversky", "de/d27/a03002.html#acc75d54553750c832fe50b6cb0c42427", [
+      [ "SPELL_CENARION_BEACON", "de/d27/a03002.html#acc75d54553750c832fe50b6cb0c42427aefb9fe5d61b5fc5b810f077e47334d49", null ],
+      [ "NPC_ARATHANDRIS_SILVERSKY", "de/d27/a03002.html#acc75d54553750c832fe50b6cb0c42427a15af7b53355112caefafe032f27b15d6", null ],
+      [ "NPC_MAYBESS_RIVERBREEZE", "de/d27/a03002.html#acc75d54553750c832fe50b6cb0c42427a3362be702aaaa11f11e1df72d0a8e149", null ],
+      [ "QUEST_CLEASING_FELWOOD_A", "de/d27/a03002.html#acc75d54553750c832fe50b6cb0c42427ab52d337e733144a5a21fce9825f80fff", null ],
+      [ "QUEST_CLEASING_FELWOOD_H", "de/d27/a03002.html#acc75d54553750c832fe50b6cb0c42427a24da8ad4e5cec47c9a66a1e03e07383f", null ]
+    ] ],
+    [ "AddSC_felwood", "de/d27/a03002.html#a63ae28c9f250057b35a18fb585c6a2cf", null ]
 ];

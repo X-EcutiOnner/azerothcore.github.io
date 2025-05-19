@@ -1,6 +1,7 @@
 var a19391 =
 [
-    [ "boss_bjarngrimAI", "d7/dab/a19395.html", "d7/dab/a19395" ],
-    [ "boss_bjarngrim", "d2/d32/a19391.html#ab509688547d41ec1fd094fdc45291959", null ],
-    [ "GetAI", "d2/d32/a19391.html#aff6455d2a327bbf3426d10a07f7b0e44", null ]
+    [ "HandleOnEffectApply", "d2/d32/a19391.html#a4841f7a44f5df964c4eb9965383fd747", null ],
+    [ "PrepareAuraScript", "d2/d32/a19391.html#a4cf9cf2aadb43920384ec745f6be484f", null ],
+    [ "Register", "d2/d32/a19391.html#a68fba646552678744f49d10b59704a35", null ],
+    [ "Validate", "d2/d32/a19391.html#a01169ee095aa2f0051eac1b253a5daf5", null ]
 ];

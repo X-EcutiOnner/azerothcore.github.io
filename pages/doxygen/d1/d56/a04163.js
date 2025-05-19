@@ -1,10 +1,8 @@
 var a04163 =
 [
-    [ "MMAP::MapTiles", "d8/d5b/a28607.html", "d8/d5b/a28607" ],
-    [ "MMAP::Tile", "d6/dfb/a28611.html", "d6/dfb/a28611" ],
-    [ "MMAP::TileConfig", "d2/def/a28615.html", "d2/def/a28615" ],
-    [ "MMAP::TileInfo", "d5/d75/a28619.html", "d5/d75/a28619" ],
-    [ "MMAP::TileBuilder", "d1/d40/a28623.html", "d1/d40/a28623" ],
-    [ "MMAP::MapBuilder", "dd/d8c/a28627.html", "dd/d8c/a28627" ],
-    [ "TileList", "d1/d56/a04163.html#aa2aae6f254337f29866a5d240d5ec2b1", null ]
+    [ "LIQUID_TILE_SIZE", "d1/d56/a04163.html#a1596e8a465c0638086c77467a2dde3a6", null ],
+    [ "readChunk", "d1/d56/a04163.html#a166f3eeee53079ac9df4f15ccd577974", null ],
+    [ "GAMEOBJECT_MODELS", "d1/d56/a04163.html#ada4191301386f881525b3f0b0760cb60", null ],
+    [ "RAW_VMAP_MAGIC", "d1/d56/a04163.html#ab44884fb6c05cb4ae128d5882a2c4b7c", null ],
+    [ "VMAP_MAGIC", "d1/d56/a04163.html#aa7e5a571fdcb9d62ceefdcf5744746cb", null ]
 ];

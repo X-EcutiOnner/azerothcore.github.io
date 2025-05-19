@@ -1,6 +1,7 @@
 var a18903 =
 [
-    [ "NotOnSameSide", "df/d3c/a18903.html#ac3189b202a8c0ca4c8f52799ed54e284", null ],
-    [ "operator()", "df/d3c/a18903.html#a59ea48b9633049180ec62d3616fe4dea", null ],
-    [ "m_inLiveSide", "df/d3c/a18903.html#a77c1d18f54609a5f4da2e9c13f62293d", null ]
+    [ "HandleScriptEffect", "df/d3c/a18903.html#afa9d5c6fd0666a7fa1a6f4d5acabe782", null ],
+    [ "PrepareSpellScript", "df/d3c/a18903.html#a21a3175346c9b12c02205f2d33da3b86", null ],
+    [ "Register", "df/d3c/a18903.html#af5f279ad20e9153f201262eaa7615978", null ],
+    [ "Validate", "df/d3c/a18903.html#a635ff34619767f657778016e1eb901aa", null ]
 ];

@@ -1,8 +1,6 @@
 var a13663 =
 [
-    [ "npc_the_scourge_cauldronAI", "de/def/a13663.html#aa8b221cfe49b09efbfe5943489c844b8", null ],
-    [ "DoDie", "de/def/a13663.html#a9f720a27db2943a66b11ad6355690bf5", null ],
-    [ "JustEngagedWith", "de/def/a13663.html#a89954dec2f7d57d933c18822333243ac", null ],
-    [ "MoveInLineOfSight", "de/def/a13663.html#a256195dbe75859d72afcd0defb9ff76e", null ],
-    [ "Reset", "de/def/a13663.html#ab18bb2eb344f45827685786c665b1750", null ]
+    [ "npc_the_scourge_cauldronAI", "d8/def/a13667.html", "d8/def/a13667" ],
+    [ "npc_the_scourge_cauldron", "de/def/a13663.html#a7ff5315293c4917dec3b0fe0aade2016", null ],
+    [ "GetAI", "de/def/a13663.html#ae4e35f1cac0c0f35333ba6113d3c1ad0", null ]
 ];

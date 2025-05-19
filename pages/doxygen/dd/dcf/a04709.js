@@ -1,28 +1,24 @@
 var a04709 =
 [
-    [ "Count", "dd/dcf/a04709.html#a2d87541d6d2eceb7467b09f7fa5bd51b", null ],
-    [ "Count", "dd/dcf/a04709.html#aca0eb3f176889f6cc837d75915f5d668", null ],
-    [ "Count", "dd/dcf/a04709.html#a9e588c84ac0874cf6273cffcc353bd8c", null ],
-    [ "Count", "dd/dcf/a04709.html#abce75cbdcbf4a58be36bf161fe79f9c0", null ],
-    [ "Count", "dd/dcf/a04709.html#a31fef0ae214e75ee3251ee75539b5933", null ],
-    [ "Find", "dd/dcf/a04709.html#ab54306147e78491102a30b754f9add91", null ],
-    [ "Find", "dd/dcf/a04709.html#a3c90455877023c17b2305a358a1e8e05", null ],
-    [ "Find", "dd/dcf/a04709.html#a6c4691a788e1b4403de11caa6a13222d", null ],
-    [ "Find", "dd/dcf/a04709.html#a339e193b2696d368e3fd5ba8ac348ba9", null ],
-    [ "Insert", "dd/dcf/a04709.html#a5f6cfb84d3b9010f1cccee55575aeb8f", null ],
-    [ "Insert", "dd/dcf/a04709.html#a9ef193f0c3493fdaeeaa5b0816714d1c", null ],
-    [ "Insert", "dd/dcf/a04709.html#aace2fb0f6527ad522bb0604bfd39afaf", null ],
-    [ "Insert", "dd/dcf/a04709.html#a808ff1ee05e1b5c2775ccb20325a5b2e", null ],
-    [ "Insert", "dd/dcf/a04709.html#aa25dd64d4a28b7d93e2c8bf4cf93d888", null ],
-    [ "Insert", "dd/dcf/a04709.html#a826d2d5fc544299a171fc4d192b13b70", null ],
-    [ "Insert", "dd/dcf/a04709.html#affed0a39c687fd0d71e1838f7d91d106", null ],
-    [ "Insert", "dd/dcf/a04709.html#adc541838e8b1ccc593ef03b3a8be6b20", null ],
-    [ "Remove", "dd/dcf/a04709.html#ac6cb156df4b425a40366655daf1ba776", null ],
-    [ "Remove", "dd/dcf/a04709.html#afe44e70d4fae1d3c112291bd985e82b1", null ],
-    [ "Remove", "dd/dcf/a04709.html#ab412b2504203d71c6f46869b32a4a5ef", null ],
-    [ "Remove", "dd/dcf/a04709.html#a2858d11acb15c35a59d35c9bb163d7c6", null ],
-    [ "Size", "dd/dcf/a04709.html#a5161a06285195a661d1f827f51265471", null ],
-    [ "Size", "dd/dcf/a04709.html#aa0fbdf0f576bf824c7502b6254a7e6f5", null ],
-    [ "Size", "dd/dcf/a04709.html#a33dad9e8e49e78c8486f2a91b49c0984", null ],
-    [ "Size", "dd/dcf/a04709.html#a7eb6517212935878abc51faf4bcca654", null ]
+    [ "MMAP::MeshData", "d8/d4a/a28635.html", "d8/d4a/a28635" ],
+    [ "MMAP::TerrainBuilder", "d2/ddb/a28639.html", "d2/ddb/a28639" ],
+    [ "Grid", "dd/dcf/a04709.html#a6ddcf7a168396ad1ecedfc4e5fe04c09", [
+      [ "GRID_V8", "dd/dcf/a04709.html#a6ddcf7a168396ad1ecedfc4e5fe04c09a1b3d969edeab4d39be8a3a59ebca6e0b", null ],
+      [ "GRID_V9", "dd/dcf/a04709.html#a6ddcf7a168396ad1ecedfc4e5fe04c09a90e846a47ab162703bf2dc5664a61289", null ]
+    ] ],
+    [ "Spot", "dd/dcf/a04709.html#aa0140172b3856ff5a4e0db0227a41165", [
+      [ "TOP", "dd/dcf/a04709.html#aa0140172b3856ff5a4e0db0227a41165aecf8447d11b71464b1a20efa4b87cef1", null ],
+      [ "RIGHT", "dd/dcf/a04709.html#aa0140172b3856ff5a4e0db0227a41165a7ba16840bb5803d51ebe597bc881851e", null ],
+      [ "LEFT", "dd/dcf/a04709.html#aa0140172b3856ff5a4e0db0227a41165a5bf23f4bd225a5f4caadf6820404332b", null ],
+      [ "BOTTOM", "dd/dcf/a04709.html#aa0140172b3856ff5a4e0db0227a41165a8f0736dff0eeeaeeb131796615680d04", null ],
+      [ "ENTIRE", "dd/dcf/a04709.html#aa0140172b3856ff5a4e0db0227a41165a333ed540d45ff2a6bc5ac8a954e93f12", null ]
+    ] ],
+    [ "GRID_PART_SIZE", "dd/dcf/a04709.html#a39bc2d4fa649e77addef85b06c49b369", null ],
+    [ "GRID_SIZE", "dd/dcf/a04709.html#a16e4fdf7de4239156a5a8eb83dcc9e8c", null ],
+    [ "INVALID_MAP_LIQ_HEIGHT", "dd/dcf/a04709.html#a44bbf7085ddd1deacaae673ea4ec357c", null ],
+    [ "INVALID_MAP_LIQ_HEIGHT_MAX", "dd/dcf/a04709.html#a26a6da9ce81eb096651bf47cb90f947f", null ],
+    [ "V8_SIZE", "dd/dcf/a04709.html#a6918d13eba00db309998162fbff2fb7c", null ],
+    [ "V8_SIZE_SQ", "dd/dcf/a04709.html#a94a0ee7c4f225dfc488737a7ba825bae", null ],
+    [ "V9_SIZE", "dd/dcf/a04709.html#a32c90e1638c0f8693e2fc95201d2ec3f", null ],
+    [ "V9_SIZE_SQ", "dd/dcf/a04709.html#a7eb8c24e8759cfd1ebd37b1efc72618b", null ]
 ];

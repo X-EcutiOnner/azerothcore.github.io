@@ -1,5 +1,6 @@
 var a01052 =
 [
-    [ "cast_commandscript", "d5/d92/a11555.html", "d5/d92/a11555" ],
-    [ "AddSC_cast_commandscript", "d9/dce/a01052.html#a7b374923a29bdbff68b6e78d2ef4a3e0", null ]
+    [ "AntiDosOpcodePolicy", "dc/dad/a09015.html", "dc/dad/a09015" ],
+    [ "WorldGlobals", "d2/db4/a09019.html", "d2/db4/a09019" ],
+    [ "sWorldGlobals", "d9/dce/a01052.html#abde160907db136b0b0c16309add3ae94", null ]
 ];

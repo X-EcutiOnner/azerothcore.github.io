@@ -1,9 +1,6 @@
 var a02765 =
 [
-    [ "PacketLog", "d3/d97/a10927.html", "d3/d97/a10927" ],
-    [ "sPacketLog", "da/d73/a02765.html#a14b702138c7f0a62a900dfc8eecc1f6f", null ],
-    [ "Direction", "da/d73/a02765.html#a224b9163917ac32fc95a60d8c1eec3aa", [
-      [ "CLIENT_TO_SERVER", "da/d73/a02765.html#a224b9163917ac32fc95a60d8c1eec3aaae4561e948350e841223c3dc44738f476", null ],
-      [ "SERVER_TO_CLIENT", "da/d73/a02765.html#a224b9163917ac32fc95a60d8c1eec3aaa0df224cab9714b02d0718697fbce48a3", null ]
-    ] ]
+    [ "instance_wailing_caverns", "dd/d37/a15183.html", "dd/d37/a15183" ],
+    [ "instance_wailing_caverns::instance_wailing_caverns_InstanceMapScript", "d2/da6/a15187.html", "d2/da6/a15187" ],
+    [ "AddSC_instance_wailing_caverns", "da/d73/a02765.html#a67427453c8ec357648c276eaed523225", null ]
 ];

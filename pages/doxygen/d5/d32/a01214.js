@@ -1,8 +1,10 @@
 var a01214 =
 [
-    [ "spell_summon_noblegarden_bunny_controller", "d2/d07/a14415.html", "d2/d07/a14415" ],
-    [ "eNoblegarden", "d5/d32/a01214.html#a2009b91b1ae924c27559f49fd9fc0e3d", [
-      [ "SPELL_NOBLEGARDEN_BUNNY", "d5/d32/a01214.html#a2009b91b1ae924c27559f49fd9fc0e3da713d80d4de08c5ec515a4d2164f00510", null ]
-    ] ],
-    [ "AddSC_event_noblegarden_scripts", "d5/d32/a01214.html#a60b11fd113b9059778bb843dd1806c79", null ]
+    [ "AutobroadcastMgr", "d6/d82/a07115.html", "d6/d82/a07115" ],
+    [ "sAutobroadcastMgr", "d5/d32/a01214.html#a34abff2dadcb74370b0749fe9fda3878", null ],
+    [ "AnnounceType", "d5/d32/a01214.html#a28a4ef2f64643c76d8be05bf9eafc731", [
+      [ "World", "d5/d32/a01214.html#a28a4ef2f64643c76d8be05bf9eafc731af5a7924e621e84c9280a9a27e1bcb7f6", null ],
+      [ "Notification", "d5/d32/a01214.html#a28a4ef2f64643c76d8be05bf9eafc731a96d008db67fc0b5551a926842bbb6a71", null ],
+      [ "Both", "d5/d32/a01214.html#a28a4ef2f64643c76d8be05bf9eafc731a130c5b3473c57faa76e2a1c54e26f88e", null ]
+    ] ]
 ];

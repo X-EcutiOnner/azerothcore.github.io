@@ -1,28 +1,6 @@
 var a18115 =
 [
-    [ "boss_the_lich_kingAI", "dd/d41/a18115.html#ab8b78326fe92f51a9fe21943a3bb980c", null ],
-    [ "CanAIAttack", "dd/d41/a18115.html#ae4ebbccc403bcc3621437a36f8678b93", null ],
-    [ "DamageTaken", "dd/d41/a18115.html#a787f4d84930767b71b4af9e5092734c4", null ],
-    [ "DoAction", "dd/d41/a18115.html#a179ff0d1381abc320efc88a4da0e1c2a", null ],
-    [ "EnterEvadeMode", "dd/d41/a18115.html#a1d71569f5da22dd4046a76525bff6452", null ],
-    [ "GetData", "dd/d41/a18115.html#a5b289363b4ac0b2be62a8df7deae8ed7", null ],
-    [ "JustDied", "dd/d41/a18115.html#a80cfbecffa68f9fc42028ebdac0975c4", null ],
-    [ "JustEngagedWith", "dd/d41/a18115.html#a401e1c529438c1ce08943ba2da8f1347", null ],
-    [ "JustSummoned", "dd/d41/a18115.html#a0e1ab5732b70522e47036f067866eef3", null ],
-    [ "KilledUnit", "dd/d41/a18115.html#acb8e6c03bbace5d66166c98c13a98290", null ],
-    [ "MovementInform", "dd/d41/a18115.html#a4d66d60d0e129b3a873d0c91c03e02f4", null ],
-    [ "Reset", "dd/d41/a18115.html#ad6653183f1dda6bfe3659a94993772ab", null ],
-    [ "SetData", "dd/d41/a18115.html#a13f8561d1d131b7e57904678a64ae1de", null ],
-    [ "SpellHit", "dd/d41/a18115.html#ac756adaba702219440fee3bfc2548f3c", null ],
-    [ "SpellHitTarget", "dd/d41/a18115.html#a43ba267fd91585541e69e3911c0291d7", null ],
-    [ "SummonedCreatureDies", "dd/d41/a18115.html#af81105d937124f49bd722ca787d31d58", null ],
-    [ "UpdateAI", "dd/d41/a18115.html#a06c2609a2cff0d6b684dc197e6a29e9b", null ],
-    [ "_bFordringMustFallYell", "dd/d41/a18115.html#a0e932a7e98d4e5d5fce8c35926acc185", null ],
-    [ "_bFrostmournePhase", "dd/d41/a18115.html#af867d86aa20366bfbbfaf8083fe35271", null ],
-    [ "_lastTalkTimeBuff", "dd/d41/a18115.html#af948b1ee8415f61e3d4fb8841c1ff9e3", null ],
-    [ "_lastTalkTimeKill", "dd/d41/a18115.html#a9b94bb5efd74560dd8d653e0abfdbcf0", null ],
-    [ "_necroticPlagueStack", "dd/d41/a18115.html#ad8a8a978402cc32046b67a42621d8d42", null ],
-    [ "_phase", "dd/d41/a18115.html#ae069cec361b187a657a707d6613f32b7", null ],
-    [ "_positionCheckTimer", "dd/d41/a18115.html#a94896994f59ab4c38479a5c97742128a", null ],
-    [ "_vileSpiritExplosions", "dd/d41/a18115.html#a94f291e9cf428fe2912c666fa49360d8", null ]
+    [ "boss_the_lich_kingAI", "d8/d75/a18119.html", "d8/d75/a18119" ],
+    [ "boss_the_lich_king", "dd/d41/a18115.html#a10e2789a98a85907d24eabae6d7655f4", null ],
+    [ "GetAI", "dd/d41/a18115.html#ab12d8cdfdb1c5428423f6db9dda6c97e", null ]
 ];
