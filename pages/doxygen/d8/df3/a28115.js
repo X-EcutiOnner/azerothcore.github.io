@@ -1,5 +1,4 @@
 var a28115 =
 [
-    [ "ID", "d8/df3/a28115.html#a65acb5af9a688346cbb7dc144710c768", null ],
-    [ "inventoryIcon", "d8/df3/a28115.html#a26b43ee179bd546c6e956dd797fc0842", null ]
+    [ "ratio", "d8/df3/a28115.html#a614fdab0bf0be8c91775b49d020cdc7c", null ]
 ];

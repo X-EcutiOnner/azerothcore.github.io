@@ -1,6 +1,7 @@
 var a17631 =
 [
-    [ "CheckProc", "da/d4f/a17631.html#a86e62fa26606a77284c80583e7b35d27", null ],
-    [ "PrepareAuraScript", "da/d4f/a17631.html#a2c10a09e9e5015eb4f3c66d5086dbe1a", null ],
-    [ "Register", "da/d4f/a17631.html#a6214f78c5c7eb3f60371fa12530d5991", null ]
+    [ "PrepareSpellScript", "da/d4f/a17631.html#a21bd67c024c5dcfb8496778f67eb48eb", null ],
+    [ "Register", "da/d4f/a17631.html#aff4f05a5a4742a408646000b7cece38c", null ],
+    [ "RemovePassengers", "da/d4f/a17631.html#a77c63e85233e2ef14bf06c82ad27c4b2", null ],
+    [ "Validate", "da/d4f/a17631.html#a2a8da9d150804f979f2313f623ad7760", null ]
 ];

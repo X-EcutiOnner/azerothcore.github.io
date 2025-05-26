@@ -1,7 +1,6 @@
 var a13035 =
 [
-    [ "boss_apothecary_hummelAI", "d4/dbc/a13039.html", "d4/dbc/a13039" ],
-    [ "boss_apothecary_hummel", "d7/d77/a13035.html#af1672c0b7f67d9013e3769a7009c2ee9", null ],
-    [ "GetAI", "d7/d77/a13035.html#a87a01f4d6eaac7c5e1795133e8aa1ccd", null ],
-    [ "OnQuestReward", "d7/d77/a13035.html#a86d23ff3569e5e86b8787bb3ea7816c7", null ]
+    [ "npc_scholomance_occultistAI", "d4/dbc/a13039.html", "d4/dbc/a13039" ],
+    [ "npc_scholomance_occultist", "d7/d77/a13035.html#adf100912a15ff8edf056efa7eebd13ff", null ],
+    [ "GetAI", "d7/d77/a13035.html#a5da2b011ec4859523c1f713dc18e4d5b", null ]
 ];

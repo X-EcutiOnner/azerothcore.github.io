@@ -1,20 +1,14 @@
 var a13735 =
 [
-    [ "boss_janalai", "d4/d19/a13735.html#a6a049cb60b475b6c496862205d91c39f", null ],
-    [ "Boom", "d4/d19/a13735.html#a902814fa472af7dde6096e6e1901bfd4", null ],
-    [ "CheckEvadeIfOutOfCombatArea", "d4/d19/a13735.html#a9320a91d93f1fc82ec863ecf767c0a8a", null ],
-    [ "DamageDealt", "d4/d19/a13735.html#af29b99a31b38516815390087d76c9408", null ],
-    [ "FireWall", "d4/d19/a13735.html#ac3cd768db0abbbe4b03a08f214afc5ba", null ],
-    [ "HatchAllEggs", "d4/d19/a13735.html#a7caee2554fe4f6211589e3346d1865fd", null ],
-    [ "JustDied", "d4/d19/a13735.html#a1dd381dbf7bdc25e6a5fc519b132c5e4", null ],
-    [ "JustEngagedWith", "d4/d19/a13735.html#af16f7db848ff2ddcf060ba770d0df836", null ],
-    [ "JustSummoned", "d4/d19/a13735.html#a37aacd788ee8206a8ffbaad7ba702736", null ],
-    [ "Reset", "d4/d19/a13735.html#a8f42138403eb2ef6d1737539dd352e80", null ],
-    [ "SetData", "d4/d19/a13735.html#a48636a0186d7a09e4e98d960bab5530e", null ],
-    [ "SpawnBombs", "d4/d19/a13735.html#ab352cc1bb7f2fc04505de30fe041c9bd", null ],
-    [ "StartBombing", "d4/d19/a13735.html#a9a32cbc9bb1c1542a19aea32f9a9addf", null ],
-    [ "ThrowBombs", "d4/d19/a13735.html#a9a927462879c6c81b2c919c62336a08c", null ],
-    [ "_isBombing", "d4/d19/a13735.html#a881f564fe75051c1c10e645d3f0b243b", null ],
-    [ "_isFlameBreathing", "d4/d19/a13735.html#a0fc79fcdfdd27baa047d22b86135a653", null ],
-    [ "_sideHatched", "d4/d19/a13735.html#ae5cb2bcdfd54a66f62dc807946249528", null ]
+    [ "boss_hexlord_malacrass", "d4/d19/a13735.html#aaf3fdf0b34904d1c5798ebcc291cdcde", null ],
+    [ "JustEngagedWith", "d4/d19/a13735.html#ac5af0a5ec11ab8529e74a1ea7f0b4b66", null ],
+    [ "KilledUnit", "d4/d19/a13735.html#a69e7a3aa2cb068706651bad34363099f", null ],
+    [ "Reset", "d4/d19/a13735.html#af00159c9e2c54033f52f46d60881f22e", null ],
+    [ "ScheduleClassAbility", "d4/d19/a13735.html#aefffbab821a4abb4ab0e6779ba73d5ac", null ],
+    [ "SpawnAdds", "d4/d19/a13735.html#a8ffb01ebe267b4eb935e373bd0d99eed", null ],
+    [ "UseAbility", "d4/d19/a13735.html#afdad8cc36235f11dc5c4b4f579f5b46b", null ],
+    [ "_classAbilityTimer", "d4/d19/a13735.html#a40ccd2e586895ab1cde3c51bcd56c11b", null ],
+    [ "_creatureIndex", "d4/d19/a13735.html#ac13b0f08fec4270ed372f00ae540fdc3", null ],
+    [ "_currentClass", "d4/d19/a13735.html#ab7e531fccbb486b7b429d77d804841c2", null ],
+    [ "_timeUntilNextDrainPower", "d4/d19/a13735.html#aa6963eb30a6e8555d4695bf284b13cac", null ]
 ];

@@ -1,7 +1,8 @@
 var a26767 =
 [
-    [ "HandleRemove", "dd/d96/a26767.html#a0f5a3e4d75dbb5c699ea1acbf89db318", null ],
-    [ "PrepareAuraScript", "dd/d96/a26767.html#a9e153c86e29a17b0cc20c65c635aa070", null ],
-    [ "Register", "dd/d96/a26767.html#a338ee9c0eddd309ce2a791160059bad6", null ],
-    [ "Validate", "dd/d96/a26767.html#ae8272b65a070fc959af003f701567c3c", null ]
+    [ "HandleDummyTick", "dd/d96/a26767.html#ad35d90e5cdd68f4c1d3172a0860274bd", null ],
+    [ "HandleRemove", "dd/d96/a26767.html#a92f2bb73ec58832eaada3c7140f7868d", null ],
+    [ "PrepareAuraScript", "dd/d96/a26767.html#a06e45d5f63ef1395b5949482e8393098", null ],
+    [ "Register", "dd/d96/a26767.html#abf1d49720ae43d4ed2fb1c2920387ace", null ],
+    [ "Validate", "dd/d96/a26767.html#a9a2da4d163a96526e14f5de76798a784", null ]
 ];

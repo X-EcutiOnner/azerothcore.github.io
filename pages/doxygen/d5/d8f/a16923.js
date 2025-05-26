@@ -1,7 +1,16 @@
 var a16923 =
 [
-    [ "HandlePeriodicTick", "d5/d8f/a16923.html#ac8b3f1a826e3491d4315983a89d23d2e", null ],
-    [ "PrepareAuraScript", "d5/d8f/a16923.html#ad54c3014195c5b848ab1f9cc978f72b3", null ],
-    [ "Register", "d5/d8f/a16923.html#af8e1ee8ddf7ed8290eb71fb7697428fb", null ],
-    [ "Validate", "d5/d8f/a16923.html#a6de2140f17790b63314f653b7dd0ddd3", null ]
+    [ "boss_ickAI", "d5/d8f/a16923.html#a72c90af745b63202edc36b84b3f4df12", null ],
+    [ "CanAIAttack", "d5/d8f/a16923.html#afa3a7ef19f014ed9c46be4a3adc83aa3", null ],
+    [ "DamageTaken", "d5/d8f/a16923.html#a96d39b533a96503d59c41c9e7cdd4ac4", null ],
+    [ "GetKrick", "d5/d8f/a16923.html#a2d6192f314e76886204c7248d141260a", null ],
+    [ "JustDied", "d5/d8f/a16923.html#afd7752ee19dcc6be0b28181bb4485146", null ],
+    [ "JustEngagedWith", "d5/d8f/a16923.html#a27598604e65417225acd41d6f05cc717", null ],
+    [ "JustSummoned", "d5/d8f/a16923.html#abf700d993e1cfaa0cc64d90903bfa842", null ],
+    [ "KilledUnit", "d5/d8f/a16923.html#a618c4e704d9a90d8bf4fac2d22bda6b3", null ],
+    [ "Reset", "d5/d8f/a16923.html#a9ba668208cda4dd33fd4eacb04476e2e", null ],
+    [ "SpellHitTarget", "d5/d8f/a16923.html#a5d90395d45509f8aeb244f4a4743d07d", null ],
+    [ "UpdateAI", "d5/d8f/a16923.html#a74bd63ac9558ecec52affaa7440360a1", null ],
+    [ "events", "d5/d8f/a16923.html#aab514bb5f930d9eb545a279181632796", null ],
+    [ "pInstance", "d5/d8f/a16923.html#a1ad5a6809ffe750a5538dc650a437b81", null ]
 ];

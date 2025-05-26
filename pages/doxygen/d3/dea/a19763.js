@@ -1,6 +1,6 @@
 var a19763 =
 [
-    [ "boss_flame_leviathanAI", "d8/d0d/a19767.html", "d8/d0d/a19767" ],
-    [ "boss_flame_leviathan", "d3/dea/a19763.html#af4fcd38fc7095701c6c31674d849aef4", null ],
-    [ "GetAI", "d3/dea/a19763.html#a3a402b002472bfe4347b512f21654c50", null ]
+    [ "FilterTargets", "d3/dea/a19763.html#a38c693dd3d8fb7e04fc1e26359f12399", null ],
+    [ "PrepareSpellScript", "d3/dea/a19763.html#a86c4bb91547d8ea7eebb8e4d7bfd592e", null ],
+    [ "Register", "d3/dea/a19763.html#a4e803984a3eded2736825f631786c204", null ]
 ];

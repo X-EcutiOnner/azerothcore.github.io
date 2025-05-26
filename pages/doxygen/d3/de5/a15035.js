@@ -1,5 +1,6 @@
 var a15035 =
 [
-    [ "at_cthun_center", "d3/de5/a15035.html#a75cf2b77215e0d50c1c89ec9b522ebc3", null ],
-    [ "OnTrigger", "d3/de5/a15035.html#af744df9577e84ab64749076324e574c9", null ]
+    [ "FilterTargets", "d3/de5/a15035.html#a3ec2840ab1d853a1546c64a2d158e75f", null ],
+    [ "PrepareSpellScript", "d3/de5/a15035.html#a511e54100036307aa5d37bc959405c73", null ],
+    [ "Register", "d3/de5/a15035.html#a31d1d590f0e6fc2e56322d606961828f", null ]
 ];

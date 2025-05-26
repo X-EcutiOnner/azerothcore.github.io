@@ -1,13 +1,8 @@
 var a22735 =
 [
-    [ "boss_illidari_council_memberAI", "db/ded/a22735.html#ac32366dfad13cd37ced2428d041e25c9", null ],
-    [ "DamageTaken", "db/ded/a22735.html#a1006bbdb6e39b6ceb52037e1b3cdb788", null ],
-    [ "DoAction", "db/ded/a22735.html#a203310b84d71a24145b1c39e7faff182", null ],
-    [ "EnterEvadeMode", "db/ded/a22735.html#a9bf2376cd75e0dc825de3839eda857eb", null ],
-    [ "JustDied", "db/ded/a22735.html#a135c8e8f4113b1c9c05e5b26e61e639c", null ],
-    [ "JustEngagedWith", "db/ded/a22735.html#a5c43bfb6e1781a83bfad36668ac724f2", null ],
-    [ "KilledUnit", "db/ded/a22735.html#aa0cb7a373d521038e8e41e354f6bc3f7", null ],
-    [ "Reset", "db/ded/a22735.html#a8e75d47f56d14d9b66d10b74c3479839", null ],
-    [ "events", "db/ded/a22735.html#ad47a350f5ed066e04816e72961a80bd0", null ],
-    [ "instance", "db/ded/a22735.html#adb11720cd0fd87a42b9a78490a70251e", null ]
+    [ "HandleScriptEffect", "db/ded/a22735.html#a8e5b81581fff787f691521d03fed66fc", null ],
+    [ "Load", "db/ded/a22735.html#a8a74f3c6776f2613a6b2c63387d962e2", null ],
+    [ "PrepareSpellScript", "db/ded/a22735.html#a5dfe415b9c990e83b9e6c1ee06a33692", null ],
+    [ "Register", "db/ded/a22735.html#a5839b0e282fb2848c328cfaaca2c752f", null ],
+    [ "Validate", "db/ded/a22735.html#a8c1ee55a1122c62056250b3fa09357a8", null ]
 ];

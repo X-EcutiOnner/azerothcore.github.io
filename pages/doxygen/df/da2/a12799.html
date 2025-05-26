@@ -321,16 +321,14 @@ Additional Inherited Members</h2></td></tr>
 <div class="fragment"><div class="line"><span class="lineno">  175</span>    {</div>
 <div class="line"><span class="lineno">  176</span>        <a class="code hl_function" href="../../dc/d90/a11215.html#a7766a6cfd39473509b29c35a79a6d12d">PreventHitEffect</a>(effIndex);</div>
 <div class="line"><span class="lineno">  177</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../dd/d58/a08715.html">Unit</a>* target = <a class="code hl_function" href="../../dc/d90/a11215.html#a8435df1d0677fa5124515002da8e0860">GetHitUnit</a>())</div>
-<div class="line"><span class="lineno">  178</span>            <a class="code hl_function" href="../../dc/d90/a11215.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;<a class="code hl_function" href="../../dd/d58/a08715.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(target-&gt;GetPositionX(), target-&gt;GetPositionY(), target-&gt;GetPositionZ(), <a class="code hl_enumvalue" href="../../dd/d27/a03989.html#a8d5eadbb5d71d2183b6fe75139c887eaa70132ee24d76302e2a1f650bbe1cb72f">SUMMON_GHOULS_ON_SCARLET_CRUSADE</a>, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  178</span>            target-&gt;CastSpell(target, <a class="code hl_enumvalue" href="../../dd/d27/a03989.html#a8d5eadbb5d71d2183b6fe75139c887eaacd0a3ad4be38d369e5f72df2d231a982">SPELL_CALL_OF_THE_DEAD</a>, <span class="keyword">true</span>);</div>
 <div class="line"><span class="lineno">  179</span>    }</div>
-<div class="ttc" id="aa03989_html_a8d5eadbb5d71d2183b6fe75139c887eaa70132ee24d76302e2a1f650bbe1cb72f"><div class="ttname"><a href="../../dd/d27/a03989.html#a8d5eadbb5d71d2183b6fe75139c887eaa70132ee24d76302e2a1f650bbe1cb72f">SUMMON_GHOULS_ON_SCARLET_CRUSADE</a></div><div class="ttdeci">@ SUMMON_GHOULS_ON_SCARLET_CRUSADE</div><div class="ttdef"><b>Definition:</b> chapter1.cpp:162</div></div>
+<div class="ttc" id="aa03989_html_a8d5eadbb5d71d2183b6fe75139c887eaacd0a3ad4be38d369e5f72df2d231a982"><div class="ttname"><a href="../../dd/d27/a03989.html#a8d5eadbb5d71d2183b6fe75139c887eaacd0a3ad4be38d369e5f72df2d231a982">SPELL_CALL_OF_THE_DEAD</a></div><div class="ttdeci">@ SPELL_CALL_OF_THE_DEAD</div><div class="ttdef"><b>Definition:</b> chapter1.cpp:161</div></div>
 <div class="ttc" id="aa08715_html"><div class="ttname"><a href="../../dd/d58/a08715.html">Unit</a></div><div class="ttdef"><b>Definition:</b> Unit.h:636</div></div>
-<div class="ttc" id="aa08715_html_aa3ca95f7a14041f562ed69c3994afdfc"><div class="ttname"><a href="../../dd/d58/a08715.html#aa3ca95f7a14041f562ed69c3994afdfc">Unit::CastSpell</a></div><div class="ttdeci">SpellCastResult CastSpell(SpellCastTargets const &amp;targets, SpellInfo const *spellInfo, CustomSpellValues const *value, TriggerCastFlags triggerFlags=TRIGGERED_NONE, Item *castItem=nullptr, AuraEffect const *triggeredByAura=nullptr, ObjectGuid originalCaster=ObjectGuid::Empty)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:1179</div></div>
 <div class="ttc" id="aa11215_html_a7766a6cfd39473509b29c35a79a6d12d"><div class="ttname"><a href="../../dc/d90/a11215.html#a7766a6cfd39473509b29c35a79a6d12d">SpellScript::PreventHitEffect</a></div><div class="ttdeci">void PreventHitEffect(SpellEffIndex effIndex)</div><div class="ttdef"><b>Definition:</b> SpellScript.cpp:579</div></div>
 <div class="ttc" id="aa11215_html_a8435df1d0677fa5124515002da8e0860"><div class="ttname"><a href="../../dc/d90/a11215.html#a8435df1d0677fa5124515002da8e0860">SpellScript::GetHitUnit</a></div><div class="ttdeci">Unit * GetHitUnit()</div><div class="ttdef"><b>Definition:</b> SpellScript.cpp:448</div></div>
-<div class="ttc" id="aa11215_html_ae630e2d388177707e28cecd5fa5a2b48"><div class="ttname"><a href="../../dc/d90/a11215.html#ae630e2d388177707e28cecd5fa5a2b48">SpellScript::GetCaster</a></div><div class="ttdeci">Unit * GetCaster()</div><div class="ttdef"><b>Definition:</b> SpellScript.cpp:401</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01179">Unit::CastSpell()</a>, <a class="el" href="../../#l00401">SpellScript::GetCaster()</a>, <a class="el" href="../../#l00448">SpellScript::GetHitUnit()</a>, <a class="el" href="../../#l00579">SpellScript::PreventHitEffect()</a>, and <a class="el" href="../../#l00162">SUMMON_GHOULS_ON_SCARLET_CRUSADE</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00448">SpellScript::GetHitUnit()</a>, <a class="el" href="../../#l00579">SpellScript::PreventHitEffect()</a>, and <a class="el" href="../../#l00161">SPELL_CALL_OF_THE_DEAD</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00181">Register()</a>.</p>
 
@@ -425,11 +423,11 @@ Additional Inherited Members</h2></td></tr>
 
 <p>Reimplemented from <a class="el" href="../../d2/d90/a11199.html#a95e7862a5807bff409f13aea8306077e">_SpellScript</a>.</p>
 <div class="fragment"><div class="line"><span class="lineno">  170</span>    {</div>
-<div class="line"><span class="lineno">  171</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../d2/d90/a11199.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>({ <a class="code hl_enumvalue" href="../../dd/d27/a03989.html#a8d5eadbb5d71d2183b6fe75139c887eaa70132ee24d76302e2a1f650bbe1cb72f">SUMMON_GHOULS_ON_SCARLET_CRUSADE</a> });</div>
+<div class="line"><span class="lineno">  171</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../d2/d90/a11199.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>({ <a class="code hl_enumvalue" href="../../dd/d27/a03989.html#a8d5eadbb5d71d2183b6fe75139c887eaacd0a3ad4be38d369e5f72df2d231a982">SPELL_CALL_OF_THE_DEAD</a> });</div>
 <div class="line"><span class="lineno">  172</span>    }</div>
 <div class="ttc" id="aa11199_html_a9f7c76ac56838fbe61bf67d534979159"><div class="ttname"><a href="../../d2/d90/a11199.html#a9f7c76ac56838fbe61bf67d534979159">_SpellScript::ValidateSpellInfo</a></div><div class="ttdeci">static bool ValidateSpellInfo(std::initializer_list&lt; uint32 &gt; spellIds)</div><div class="ttdef"><b>Definition:</b> SpellScript.h:125</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00162">SUMMON_GHOULS_ON_SCARLET_CRUSADE</a>, and <a class="el" href="../../#l00125">_SpellScript::ValidateSpellInfo()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00161">SPELL_CALL_OF_THE_DEAD</a>, and <a class="el" href="../../#l00125">_SpellScript::ValidateSpellInfo()</a>.</p>
 
 </div>
 </div>
@@ -439,7 +437,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../df/da2/a12799.html">spell_q12641_death_comes_from_on_high_summon_ghouls</a></li>
-    <li class="footer">Generated on Mon May 19 2025 20:46:56 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon May 26 2025 20:45:55 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

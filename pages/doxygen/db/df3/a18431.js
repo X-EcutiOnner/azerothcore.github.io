@@ -1,8 +1,6 @@
 var a18431 =
 [
-    [ "npc_blistering_zombieAI", "db/df3/a18431.html#acf278cd2249ac45a4b043427ba36b3ce", null ],
-    [ "DamageTaken", "db/df3/a18431.html#adf031992078214f90d859df2b54aac91", null ],
-    [ "UpdateAI", "db/df3/a18431.html#ae081898b8dcaf45cd3069e79021de452", null ],
-    [ "casted", "db/df3/a18431.html#a0f70f5d58ef0bb20f64b0aec4df04905", null ],
-    [ "timer", "db/df3/a18431.html#a8b865c2a87b1fc020d8250767febab0a", null ]
+    [ "npc_suppresserAI", "d6/d23/a18435.html", "d6/d23/a18435" ],
+    [ "npc_suppresser", "db/df3/a18431.html#a5db40aecba3c45281fe963c6b2bd8d1e", null ],
+    [ "GetAI", "db/df3/a18431.html#a48869515abbac1491337a93b987231da", null ]
 ];

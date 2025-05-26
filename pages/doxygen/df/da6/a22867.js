@@ -1,12 +1,6 @@
 var a22867 =
 [
-    [ "boss_shade_of_akama", "df/da6/a22867.html#a385bf995d19652254d6ae8a447c23c37", null ],
-    [ "EnterEvadeMode", "df/da6/a22867.html#a690f8058fb4358b98960177d76864275", null ],
-    [ "JustDied", "df/da6/a22867.html#aa22052befeb48c0c7ec3a3cedd91daff", null ],
-    [ "MovementInform", "df/da6/a22867.html#a345707efebd5027c01a25a563d1e6f43", null ],
-    [ "Reset", "df/da6/a22867.html#a19a1aca1a599704612ac845001895b4f", null ],
-    [ "SpellHit", "df/da6/a22867.html#a5a49f0dab7ce6ee81b9ed8deb5704720", null ],
-    [ "UpdateAI", "df/da6/a22867.html#a25ffed5526b1f25eb1cf790745e2a7c7", null ],
-    [ "channelers", "df/da6/a22867.html#a63372527172d3f96f533b5776221c2e7", null ],
-    [ "generators", "df/da6/a22867.html#a3ebaa870a9c3c9b5a0590b8cdc32d857", null ]
+    [ "HandleEffectRemove", "df/da6/a22867.html#ae9baf688d8ac42c4ccbbf13f3b79e831", null ],
+    [ "PrepareAuraScript", "df/da6/a22867.html#a2e2668f0b5bf369ec859627e0bd8d980", null ],
+    [ "Register", "df/da6/a22867.html#acd7e22159d262a9888c744eecb978c09", null ]
 ];

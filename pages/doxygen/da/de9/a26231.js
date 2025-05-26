@@ -1,8 +1,8 @@
 var a26231 =
 [
-    [ "HandleEffectRemove", "da/de9/a26231.html#a770b7ad0bb00114400a73f50c4aa6c81", null ],
-    [ "if", "da/de9/a26231.html#a7123c451bce0f95ad75e5acfbe58a135", null ],
-    [ "PrepareAuraScript", "da/de9/a26231.html#a531f51626ae4527282ad1e628911a9ea", null ],
-    [ "Register", "da/de9/a26231.html#ae68bd9a92239a4796f9d8040787a68b3", null ],
-    [ "AuraEffectHandleModes", "da/de9/a26231.html#a8af86c58f438e78d8bf878f79d4a27e2", null ]
+    [ "HandleDummy", "da/de9/a26231.html#ae396c96647e36da357bdc70e11e3145f", null ],
+    [ "Load", "da/de9/a26231.html#a2b4811bf7e60361e13bc382e62173cee", null ],
+    [ "PrepareSpellScript", "da/de9/a26231.html#ac97d07fb0d964bf3fb29d8bee57fc8e7", null ],
+    [ "Register", "da/de9/a26231.html#a7c6aa891b012a0e1820fbe67976d68fd", null ],
+    [ "count", "da/de9/a26231.html#a73358b2272ad12faef006b1ef633cac0", null ]
 ];

@@ -1,8 +1,11 @@
 var a13619 =
 [
-    [ "npc_varian_wrynnAI", "d6/d55/a13623.html", "d6/d55/a13623" ],
-    [ "npc_varian_wrynn", "dd/d18/a13619.html#a1dd8e4664da693f3e4ecdd4581b96c87", null ],
-    [ "GetAI", "dd/d18/a13619.html#aa5aa46f24a128e84ac2a837c012b2e02", null ],
-    [ "OnGossipHello", "dd/d18/a13619.html#a95f6ff3f2a7db807b278d019e187ddec", null ],
-    [ "OnGossipSelect", "dd/d18/a13619.html#a65d02bafebe9c5a45d707f8990d680a3", null ]
+    [ "npc_highborne_lamenterAI", "dd/d18/a13619.html#ad91cd657166a12d3c34adcf7b11d076f", null ],
+    [ "JustEngagedWith", "dd/d18/a13619.html#a77a978fdb0ba0de506f66ec0b2906229", null ],
+    [ "Reset", "dd/d18/a13619.html#a7cf9338767e8edf0a87a5552703de87a", null ],
+    [ "UpdateAI", "dd/d18/a13619.html#a1048c558b825b58dbc7a3d97869a3e88", null ],
+    [ "EventCast", "dd/d18/a13619.html#a02ed3216c8b71e3d2be695866dbc0089", null ],
+    [ "EventCastTimer", "dd/d18/a13619.html#afc490ae2382fd7097b3877c7f9eadf6b", null ],
+    [ "EventMove", "dd/d18/a13619.html#aca22c73db989f0393926067506794e43", null ],
+    [ "EventMoveTimer", "dd/d18/a13619.html#a36d1993262eb0a7200e2bec625f5b4d1", null ]
 ];

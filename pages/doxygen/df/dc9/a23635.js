@@ -1,13 +1,14 @@
 var a23635 =
 [
-    [ "boss_wrath_scryer_soccothrates", "df/dc9/a23635.html#a771980c1022e7699c3eb02baccb68a93", null ],
-    [ "InitializeAI", "df/dc9/a23635.html#ad29f9c200de2f25a74f548c918bb61ac", null ],
-    [ "JustDied", "df/dc9/a23635.html#a4954041d6a9cbc754d9fcd1d4ab3d38b", null ],
-    [ "JustEngagedWith", "df/dc9/a23635.html#a09302e6f5e1422232a3024dd24a38fd6", null ],
-    [ "KilledUnit", "df/dc9/a23635.html#a9b9237e0c8ad1b759c2402de79b3d0bd", null ],
-    [ "MoveInLineOfSight", "df/dc9/a23635.html#ab75e402ce24ca34c42f80116b8a0726d", null ],
-    [ "Reset", "df/dc9/a23635.html#a85435a23d36f13e348112348a26e7d12", null ],
-    [ "UpdateAI", "df/dc9/a23635.html#a41ad9124dec5432feb7ca823f0c8f87f", null ],
-    [ "events2", "df/dc9/a23635.html#afd4e9a0ab16406a4a452cd89d13d1fe0", null ],
-    [ "preFight", "df/dc9/a23635.html#a193889ee2815b93a1c9aeee394170fc4", null ]
+    [ "npc_warden_mellicharAI", "df/dc9/a23635.html#a3486b015ccb8fecfe5e215f45e45f15e", null ],
+    [ "AttackStart", "df/dc9/a23635.html#a2b16dc3ad358e4179fe20e2066ba5c64", null ],
+    [ "DamageTaken", "df/dc9/a23635.html#a07e7b215ed7653fe7e1ee44d34a74bbd", null ],
+    [ "JustDied", "df/dc9/a23635.html#a867404a125aeb4ee3332a4e2b5a8f547", null ],
+    [ "JustEngagedWith", "df/dc9/a23635.html#ad584a3c2dd8f108cc9b4e66a6917f97b", null ],
+    [ "JustSummoned", "df/dc9/a23635.html#a3fe95a64b640fb61459da2c8621fbc9c", null ],
+    [ "MoveInLineOfSight", "df/dc9/a23635.html#aa4edaf9534e7232526fd9c7bd097b7c4", null ],
+    [ "Reset", "df/dc9/a23635.html#aebd55a8e6e618e4dc37cf253c60c3a94", null ],
+    [ "SetData", "df/dc9/a23635.html#a0d0e8d1af5179aea73aa60e060ba751a", null ],
+    [ "SummonedCreatureDies", "df/dc9/a23635.html#a58e1011986be65725d4db3d782bc72ac", null ],
+    [ "UpdateAI", "df/dc9/a23635.html#a944cff5367213d561a7e6df5faf2a216", null ]
 ];

@@ -1,6 +1,6 @@
 var a19107 =
 [
-    [ "DespawnTime", "d3/db8/a19107.html#ae14c357137f16666c74e5f7e3f77aed5", null ],
-    [ "End", "d3/db8/a19107.html#ac87ea314ccf946eb1fa35985e35c81fd", null ],
-    [ "Start", "d3/db8/a19107.html#a985271de503fa704a58abe3e64c3b268", null ]
+    [ "npc_teslaAI", "d1/df9/a19111.html", "d1/df9/a19111" ],
+    [ "npc_tesla", "d3/db8/a19107.html#ae74ad52adbf4a160ef0c7cf97e4faea0", null ],
+    [ "GetAI", "d3/db8/a19107.html#a00d0e2ee0a8c20ed64dd2012f244a760", null ]
 ];

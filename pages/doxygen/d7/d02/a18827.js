@@ -1,6 +1,6 @@
 var a18827 =
 [
-    [ "npc_four_car_garageAI", "d7/d02/a18827.html#a2eedf5934e12d33cda0ac173d82220d5", null ],
-    [ "JustDied", "d7/d02/a18827.html#a1fba9f03dca2db37b5cb969079b25d22", null ],
-    [ "PassengerBoarded", "d7/d02/a18827.html#a144bc36a5c4ff227c8a7dc146d4167b6", null ]
+    [ "npc_isle_of_conquest_turretAI", "d0/d5d/a18831.html", "d0/d5d/a18831" ],
+    [ "npc_isle_of_conquest_turret", "d7/d02/a18827.html#ac080845203adef25e6841133b7e2f4dc", null ],
+    [ "GetAI", "d7/d02/a18827.html#a0f532e12439e900b3cb77619f1ecd17d", null ]
 ];

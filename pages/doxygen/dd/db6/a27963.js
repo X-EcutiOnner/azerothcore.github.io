@@ -1,9 +1,9 @@
 var a27963 =
 [
-    [ "CinematicSequence", "dd/db6/a27963.html#a7a0a35bbb69320565d991f4a349dc01b", null ],
-    [ "ClassID", "dd/db6/a27963.html#a9da8d8d20126e9dc161b1dd64a19fe59", null ],
-    [ "expansion", "dd/db6/a27963.html#a7c57eabd8d94849cd8536b013a8d4138", null ],
-    [ "name", "dd/db6/a27963.html#a2d0b7155b03af29bd982f31eba26ec24", null ],
-    [ "powerType", "dd/db6/a27963.html#a74aec35dc161a7e830453b9365a6f107", null ],
-    [ "spellfamily", "dd/db6/a27963.html#a43fbe48c99e297ea09e9e1f2edd6a4ea", null ]
+    [ "HolidayWorldStateId", "dd/db6/a27963.html#a3f70ffbb1abb5a96fe91c2eec3682c8b", null ],
+    [ "id", "dd/db6/a27963.html#a52f7840f9247d2af63062dd280b37341", null ],
+    [ "mapid", "dd/db6/a27963.html#a11e1326eeb24b436b10db53acc323c13", null ],
+    [ "maxGroupSize", "dd/db6/a27963.html#adbdae47b424c3b61b76b48ea5798f52d", null ],
+    [ "name", "dd/db6/a27963.html#a9a56ca930ff8425d4b77066e47a1e09f", null ],
+    [ "type", "dd/db6/a27963.html#a647669b97599d7edf02b5a38dd1d5116", null ]
 ];

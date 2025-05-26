@@ -1,6 +1,6 @@
 var a02567 =
 [
-    [ "boss_void_reaver", "d4/de6/a23803.html", "d4/de6/a23803" ],
+    [ "boss_void_reaver", "d0/daa/a23819.html", "d0/daa/a23819" ],
     [ "Groups", "db/dab/a02567.html#aab072245ab577ff0e12efe20a536b99a", [
       [ "GROUP_PRECOMBAT_TALK", "d9/d7a/a03902.html#aab072245ab577ff0e12efe20a536b99aa3e7953992f23b2eba8d8498bfc66e01d", null ],
       [ "PORTAL_PHASE", "d0/d33/a03899.html#aab072245ab577ff0e12efe20a536b99aa8f7d8b62b79ce76fc356b355521db829", null ],

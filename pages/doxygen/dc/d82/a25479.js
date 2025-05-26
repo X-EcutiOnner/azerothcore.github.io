@@ -1,6 +1,6 @@
 var a25479 =
 [
-    [ "HandleDummy", "dc/d82/a25479.html#aafc9efb0f8070566579724853a88ab03", null ],
-    [ "PrepareSpellScript", "dc/d82/a25479.html#a248c1203a4f15b2cd60afed9fa33cb59", null ],
-    [ "Register", "dc/d82/a25479.html#a362e2ab6921aaa0c10b70795a5eda0de", null ]
+    [ "HandleHeal", "dc/d82/a25479.html#a3d315ab6d76d45f3d0f5de4a312377ff", null ],
+    [ "PrepareSpellScript", "dc/d82/a25479.html#ad77d816c82714fe2cafb4dbf48691937", null ],
+    [ "Register", "dc/d82/a25479.html#a313abe6367e5494bd81a557ab42f9f50", null ]
 ];

@@ -1,7 +1,7 @@
 var a18627 =
 [
-    [ "HandleScript", "d7/d27/a18627.html#a87a2b32a9a20f032157df5ddb2cd9979", null ],
-    [ "PrepareSpellScript", "d7/d27/a18627.html#a9aca3a2a981a0cb61569200d77ca527a", null ],
-    [ "Register", "d7/d27/a18627.html#afb0289c9906d0383a22dfd0e848573f8", null ],
-    [ "Validate", "d7/d27/a18627.html#a69344370af56f033e1c1ba16f4dee174", null ]
+    [ "HandleQuestComplete", "d7/d27/a18627.html#a5f1e6c4358df4e0910b2227f90b39d24", null ],
+    [ "HandleScript", "d7/d27/a18627.html#a309052e9b7c3d3747d15ab5e9c0d25fd", null ],
+    [ "PrepareSpellScript", "d7/d27/a18627.html#ac9b2786ba2dbb8d1c74af05153bb0a6f", null ],
+    [ "Register", "d7/d27/a18627.html#a3258d4517cfc758080691bab429624d7", null ]
 ];

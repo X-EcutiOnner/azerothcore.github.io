@@ -1,6 +1,10 @@
 var a22755 =
 [
-    [ "CalculateAmount", "dc/d82/a22755.html#aeeabfef0accc4e0d1f78f7422dc30a99", null ],
-    [ "PrepareAuraScript", "dc/d82/a22755.html#a5cf70fe73d01e08e78a2d00e5bc95e8e", null ],
-    [ "Register", "dc/d82/a22755.html#a0d2e97463f268892965e307628aaa931", null ]
+    [ "boss_gathios_the_shatterer", "dc/d82/a22755.html#a34708f52c610e567c5acf62962e90d4e", null ],
+    [ "JustEngagedWith", "dc/d82/a22755.html#a98ad625cf2ac9b1d8d9b41001ba4fb34", null ],
+    [ "SelectCouncilMember", "dc/d82/a22755.html#a3d33c1a29b7ba2feb22ea9d3941b39ed", null ],
+    [ "UpdateAI", "dc/d82/a22755.html#a1541f1efd3978a4c91b80e411aec6442", null ],
+    [ "_toggleAura", "dc/d82/a22755.html#aa983e2d9018a9e53ee29840781f47c33", null ],
+    [ "_toggleBlessing", "dc/d82/a22755.html#a52e9b7d3b1af46d3ecb6ca9432ee3957", null ],
+    [ "_toggleSeal", "dc/d82/a22755.html#ad7e6f9e03968e2abac570d0c7a5de9e2", null ]
 ];

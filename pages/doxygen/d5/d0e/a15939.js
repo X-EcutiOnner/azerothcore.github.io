@@ -1,6 +1,8 @@
 var a15939 =
 [
-    [ "npc_baltharus_the_warborn_cloneAI", "d3/d81/a15943.html", "d3/d81/a15943" ],
-    [ "npc_baltharus_the_warborn_clone", "d5/d0e/a15939.html#a7ed0731a015709ecd3c0c26fafb795ff", null ],
-    [ "GetAI", "d5/d0e/a15939.html#a87b50fbc3a67345f375b41c3cb2ba754", null ]
+    [ "RestoreFight", "d5/d0e/a15939.html#a0149cccce8c3120b1e988e9a7c96f75c", null ],
+    [ "RestoreFight", "d5/d0e/a15939.html#a0149cccce8c3120b1e988e9a7c96f75c", null ],
+    [ "Execute", "d5/d0e/a15939.html#a019eb3c08dc8c3b97fc27b989ec8ab77", null ],
+    [ "Execute", "d5/d0e/a15939.html#a019eb3c08dc8c3b97fc27b989ec8ab77", null ],
+    [ "_owner", "d5/d0e/a15939.html#ae35c9b4547fcd7e8ea0f4b6ee4c637a0", null ]
 ];

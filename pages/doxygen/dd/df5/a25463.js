@@ -1,6 +1,8 @@
 var a25463 =
 [
-    [ "HandleHeal", "dd/df5/a25463.html#a3d315ab6d76d45f3d0f5de4a312377ff", null ],
-    [ "PrepareSpellScript", "dd/df5/a25463.html#ad77d816c82714fe2cafb4dbf48691937", null ],
-    [ "Register", "dd/df5/a25463.html#a313abe6367e5494bd81a557ab42f9f50", null ]
+    [ "OnApply", "dd/df5/a25463.html#a75b45732648d5ba90b49725a48609a89", null ],
+    [ "OnBaseRemove", "dd/df5/a25463.html#aa6d10399bba721ff7a3651508fcdf449", null ],
+    [ "OnRemove", "dd/df5/a25463.html#a0331b3860691db793c5a7bcf53550c6f", null ],
+    [ "PrepareAuraScript", "dd/df5/a25463.html#a34ad4890c7ce30427537e36980057e57", null ],
+    [ "Register", "dd/df5/a25463.html#a713e694cad6f1cf533d45f5d633da36e", null ]
 ];

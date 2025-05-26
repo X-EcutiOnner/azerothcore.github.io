@@ -1,6 +1,7 @@
 var a18679 =
 [
-    [ "npc_icc_skybreaker_hierophantAI", "d8/dd3/a18683.html", "d8/dd3/a18683" ],
-    [ "npc_icc_skybreaker_hierophant", "d6/d63/a18679.html#a4cd3b2aa3d71c30853c687da8b8ca959", null ],
-    [ "GetAI", "d6/d63/a18679.html#a2b0627bf059dfbce556bfa3ed4e97552", null ]
+    [ "HandleEffectPeriodic", "d6/d63/a18679.html#a57615f1d8b891ab5a5c01de1543235cb", null ],
+    [ "PrepareAuraScript", "d6/d63/a18679.html#ae040da0db1147652266e1f373838df37", null ],
+    [ "Register", "d6/d63/a18679.html#ab11b84522134ee4d13504df3c19f69b8", null ],
+    [ "Validate", "d6/d63/a18679.html#af3c3c90256913ffe188c11a21fc2dcc8", null ]
 ];

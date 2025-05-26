@@ -1,6 +1,6 @@
 var a17959 =
 [
-    [ "UnchainedMagicTargetSelector", "dd/d6c/a17959.html#ae412c72884e6cfb1ceef8ed9fb347fbf", null ],
-    [ "operator()", "dd/d6c/a17959.html#af28ce8f46154ae6152e9025775a7f84f", null ],
-    [ "_removeHealers", "dd/d6c/a17959.html#a35a7981ce5495cba8b3a5391e4031431", null ]
+    [ "npc_ice_tombAI", "d5/d10/a17963.html", "d5/d10/a17963" ],
+    [ "npc_ice_tomb", "dd/d6c/a17959.html#a939c6083a77a6f4cb2a940ec9c1df55e", null ],
+    [ "GetAI", "dd/d6c/a17959.html#ac99b7c9887e54a1764310bd3e079811a", null ]
 ];

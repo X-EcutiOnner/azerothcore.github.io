@@ -1,7 +1,7 @@
 var a24963 =
 [
-    [ "HandleEffectApply", "da/d4d/a24963.html#a2854357f92b1faac6e7840f1576138e0", null ],
-    [ "HandleEffectRemove", "da/d4d/a24963.html#a7960ca4deb4ff61d04ea7fe7ec0f0471", null ],
-    [ "PrepareAuraScript", "da/d4d/a24963.html#a2120cecbca61e4c7380892fe8d43772a", null ],
-    [ "Register", "da/d4d/a24963.html#a98c71c0d4c4b0503e66ed2033946cb2e", null ]
+    [ "HandleScript", "da/d4d/a24963.html#ad1ca4c264e1f89adf479254e6436dd55", null ],
+    [ "Load", "da/d4d/a24963.html#a66db2b82a0f014e49bbfeeaade4d1731", null ],
+    [ "PrepareSpellScript", "da/d4d/a24963.html#a7616d761e7a7a708c88918302b488bb9", null ],
+    [ "Register", "da/d4d/a24963.html#a8ca351c9e0e254369328865eefa3ff91", null ]
 ];

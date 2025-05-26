@@ -1,6 +1,6 @@
 var a22771 =
 [
-    [ "HandleSharedRule", "db/d7c/a22771.html#a94b783490dafae872b65e0bbfed156b9", null ],
-    [ "PrepareSpellScript", "db/d7c/a22771.html#af59695af3afcc51a3c29fcc4053bbfee", null ],
-    [ "Register", "db/d7c/a22771.html#a31f2d90059e62da77a719a192d62328b", null ]
+    [ "CalculateAmount", "db/d7c/a22771.html#aeeabfef0accc4e0d1f78f7422dc30a99", null ],
+    [ "PrepareAuraScript", "db/d7c/a22771.html#a5cf70fe73d01e08e78a2d00e5bc95e8e", null ],
+    [ "Register", "db/d7c/a22771.html#a0d2e97463f268892965e307628aaa931", null ]
 ];

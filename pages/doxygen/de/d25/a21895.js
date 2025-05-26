@@ -1,7 +1,6 @@
 var a21895 =
 [
-    [ "HandleDummy", "de/d25/a21895.html#a98e8a4b7bbe947b00f1bc32632736d59", null ],
-    [ "PrepareSpellScript", "de/d25/a21895.html#a65b1ddf275eb5ee14ca32a1e25bf6e0e", null ],
-    [ "Register", "de/d25/a21895.html#acdfa4e1fc8e26a887e80521b1bea5150", null ],
-    [ "Validate", "de/d25/a21895.html#aeec15705a41ad2ac0e59d90086591d96", null ]
+    [ "npc_rocket_propelled_warheadAI", "da/d98/a21899.html", "da/d98/a21899" ],
+    [ "npc_rocket_propelled_warhead", "de/d25/a21895.html#a5c945efc6e3ca847363ac47abc5f51ca", null ],
+    [ "GetAI", "de/d25/a21895.html#a803702c480107d197845a0ef447a5380", null ]
 ];

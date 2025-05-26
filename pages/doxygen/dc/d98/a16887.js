@@ -1,6 +1,5 @@
 var a16887 =
 [
-    [ "instance_halls_of_reflection_InstanceMapScript", "dd/da6/a16891.html", "dd/da6/a16891" ],
-    [ "instance_halls_of_reflection", "dc/d98/a16887.html#a8872b51ceec25dbf4831f45b27206ed1", null ],
-    [ "GetInstanceScript", "dc/d98/a16887.html#aca27a4f654f41fe6f238c905b48285b7", null ]
+    [ "at_hor_battered_hilt_start", "dc/d98/a16887.html#a1b9e6d892525cf28d71757f7861e1d1a", null ],
+    [ "OnTrigger", "dc/d98/a16887.html#a5d2d0a05b17dafe7ebb5447cfd168f69", null ]
 ];

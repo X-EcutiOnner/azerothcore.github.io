@@ -1,7 +1,6 @@
 var a13823 =
 [
-    [ "HandleTriggerSpell", "d0/d17/a13823.html#a66b366f4989d99a58b331e56024e4520", null ],
-    [ "PrepareAuraScript", "d0/d17/a13823.html#a4b00497e095b5c43571b543252b31e58", null ],
-    [ "Register", "d0/d17/a13823.html#abacee7689888bf8c5d21b534a6d71b40", null ],
-    [ "Validate", "d0/d17/a13823.html#a6bef0ac760a319deed6f71fee213e885", null ]
+    [ "npc_eagle_trash_aggro_trigger", "d0/d17/a13823.html#a9d41e8abe764fd0f8cedd888418aafb2", null ],
+    [ "MoveInLineOfSight", "d0/d17/a13823.html#aa8892e7f2bec9f26320cd9749e648ebd", null ],
+    [ "_instance", "d0/d17/a13823.html#a39a222e1eb0a3378c8fcaf1da5629547", null ]
 ];

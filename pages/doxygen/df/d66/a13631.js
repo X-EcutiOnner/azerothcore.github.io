@@ -1,7 +1,8 @@
 var a13631 =
 [
-    [ "npc_jaina_proudmoore_bfuAI", "df/d66/a13631.html#ad5ad1d05ef8210409c700e47b5442e24", null ],
-    [ "Reset", "df/d66/a13631.html#a18de805428ce0954a5fbfffbf5975342", null ],
-    [ "UpdateAI", "df/d66/a13631.html#a48b191d0812bfe3212511a52ef0df817", null ],
-    [ "_events", "df/d66/a13631.html#a87e99e0b5fd0a3823b009025019b1fa4", null ]
+    [ "npc_varian_wrynnAI", "d5/dbb/a13635.html", "d5/dbb/a13635" ],
+    [ "npc_varian_wrynn", "df/d66/a13631.html#a1dd8e4664da693f3e4ecdd4581b96c87", null ],
+    [ "GetAI", "df/d66/a13631.html#aa5aa46f24a128e84ac2a837c012b2e02", null ],
+    [ "OnGossipHello", "df/d66/a13631.html#a95f6ff3f2a7db807b278d019e187ddec", null ],
+    [ "OnGossipSelect", "df/d66/a13631.html#a65d02bafebe9c5a45d707f8990d680a3", null ]
 ];

@@ -1,6 +1,8 @@
 var a21359 =
 [
-    [ "npc_azure_stalkerAI", "d5/d5e/a21363.html", "d5/d5e/a21363" ],
-    [ "npc_azure_stalker", "df/dc4/a21359.html#ad069edc43b4f489e0b2c7aa4952eeb63", null ],
-    [ "GetAI", "df/dc4/a21359.html#a1c067809f98a4d7845d2fb4269742274", null ]
+    [ "npc_azure_mage_slayerAI", "df/dc4/a21359.html#af1a57574d70a48b16d70d8a056f54018", null ],
+    [ "Reset", "df/dc4/a21359.html#aabe921f0d4fd147c457779791a7af619", null ],
+    [ "UpdateAI", "df/dc4/a21359.html#a7cc5ea88be6c9cf767a0cd433db7dd73", null ],
+    [ "uiArcaneEmpowermentTimer", "df/dc4/a21359.html#ace0fdd5e4b57e7ce603d2355bfc838dd", null ],
+    [ "uiSpellLockTimer", "df/dc4/a21359.html#ac3c4d2be0dd9ba42e40adccda7100947", null ]
 ];

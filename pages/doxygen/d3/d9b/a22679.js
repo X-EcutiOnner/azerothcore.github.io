@@ -1,6 +1,7 @@
 var a22679 =
 [
-    [ "HandleScriptEffect", "d3/d9b/a22679.html#aa60961c2609184e739dea3be8ba992d5", null ],
-    [ "PrepareSpellScript", "d3/d9b/a22679.html#aacde592314399112786b024153389024", null ],
-    [ "Register", "d3/d9b/a22679.html#a3a2299da6fd73d14c7771e7a2c8a4ebd", null ]
+    [ "npc_blade_of_azzinoth", "d3/d9b/a22679.html#a55afe56313c237afe8080662b2ed2dba", null ],
+    [ "DoAction", "d3/d9b/a22679.html#a8e746da7672c0177c4b6c91b1e9d2eb5", null ],
+    [ "IsSummonedBy", "d3/d9b/a22679.html#af2925da1235b809ee81469fe32ab0f92", null ],
+    [ "JustSummoned", "d3/d9b/a22679.html#a501e2d1ae9af813fd9c30395e7774983", null ]
 ];

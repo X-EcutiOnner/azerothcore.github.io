@@ -1,7 +1,8 @@
 var a20379 =
 [
-    [ "HandleEffectPeriodic", "d1/d55/a20379.html#a0fc0cf6cd635249a10aefd284d9ae789", null ],
-    [ "PrepareAuraScript", "d1/d55/a20379.html#af432e810a46e35f95bb0b3b2eaada132", null ],
-    [ "Register", "d1/d55/a20379.html#a41c3846c03ce1e37fc6858a676f61c48", null ],
-    [ "Validate", "d1/d55/a20379.html#ac8e9521a6b8ab9a4642361085dbe517d", null ]
+    [ "npc_ulduar_magnetic_coreAI", "d1/d55/a20379.html#a585437dff0c49ac1a6bf7929ab266ff5", null ],
+    [ "SetData", "d1/d55/a20379.html#a27c31856d2bfe3228ae3b0b361064d7a", null ],
+    [ "UpdateAI", "d1/d55/a20379.html#ab9113a021844aa7ea8ac46df9c50b205", null ],
+    [ "despawnTimer", "d1/d55/a20379.html#ad244ccbaeda814b9e56fad93f06f12fe", null ],
+    [ "pInstance", "d1/d55/a20379.html#a3e01c612a689d89bdbe3529c429a413d", null ]
 ];

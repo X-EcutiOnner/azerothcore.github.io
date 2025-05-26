@@ -1,6 +1,6 @@
 var a13855 =
 [
-    [ "boss_gahzranka", "dd/d07/a13855.html#a82cc1a44a967f859039957e41f38dd77", null ],
-    [ "IsSummonedBy", "dd/d07/a13855.html#ad68be854f95c398dc5dd9e5b22f538a8", null ],
-    [ "JustEngagedWith", "dd/d07/a13855.html#ac1cc43194c00fda1729f8a068d4e8779", null ]
+    [ "npc_zulian_prowlerAI", "d1/de9/a13859.html", "d1/de9/a13859" ],
+    [ "npc_zulian_prowler", "dd/d07/a13855.html#a27ae990985976d02bb221b6d669fa849", null ],
+    [ "GetAI", "dd/d07/a13855.html#a7e7d4f8164bbb728a1b83244c1e356f9", null ]
 ];

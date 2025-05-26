@@ -1,7 +1,6 @@
 var a25183 =
 [
-    [ "OnApply", "df/de1/a25183.html#afda219a18001505ae7a2d01b1d5b25c0", null ],
-    [ "OnRemove", "df/de1/a25183.html#a54bcd84599d6e5a6d7f538e2b40b890b", null ],
-    [ "PrepareAuraScript", "df/de1/a25183.html#a9a7b549e059b6bd2d22802f60e952658", null ],
-    [ "Register", "df/de1/a25183.html#aae603735281daf02ceca157e218d5c9f", null ]
+    [ "PrepareSpellScript", "df/de1/a25183.html#abb178100d4e5fa4032118f86aa34127d", null ],
+    [ "Register", "df/de1/a25183.html#a50e902cc281b909259097a8bed5651f2", null ],
+    [ "RemoveVehicleAuras", "df/de1/a25183.html#a4ec803f3164d6e38ddf10f4a0ca392e0", null ]
 ];

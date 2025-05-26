@@ -1,7 +1,6 @@
 var a23343 =
 [
-    [ "HandleScript", "d4/d96/a23343.html#a7c1b4d0c8d2ad153cef62ce05fef814c", null ],
-    [ "PrepareSpellScript", "d4/d96/a23343.html#ab826f4f249679ffe87f9e6ccf6b9ecf0", null ],
-    [ "Register", "d4/d96/a23343.html#a82da72fd4eed6773c1f3a4288caa8963", null ],
-    [ "Validate", "d4/d96/a23343.html#a46aca18049e02d50f57579b3fdc705bd", null ]
+    [ "HandlePeriodic", "d4/d96/a23343.html#af6c30bb292a69d5eaaaf75c8a76111ea", null ],
+    [ "PrepareAuraScript", "d4/d96/a23343.html#a75515896f3d94d227963a3c5258e2d0d", null ],
+    [ "Register", "d4/d96/a23343.html#aeacb1ffc287cc7128366ee0484c2994b", null ]
 ];

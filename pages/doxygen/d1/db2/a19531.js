@@ -1,8 +1,6 @@
 var a19531 =
 [
-    [ "brann_bronzebeardAI", "d5/d4f/a19535.html", "d5/d4f/a19535" ],
-    [ "brann_bronzebeard", "d1/db2/a19531.html#a66fd8785647896a1a5f7be041242cfd6", null ],
-    [ "GetAI", "d1/db2/a19531.html#a66d4ae2f243f7869106c2372b3e7166c", null ],
-    [ "OnGossipHello", "d1/db2/a19531.html#a2714a2dde596db76706b8a86f97f82b8", null ],
-    [ "OnGossipSelect", "d1/db2/a19531.html#a0e0068a45012e50a9f645d393bdfe163", null ]
+    [ "boss_sjonnir_malformed_oozeAI", "d5/d4f/a19535.html", "d5/d4f/a19535" ],
+    [ "boss_sjonnir_malformed_ooze", "d1/db2/a19531.html#ad151bc07b032b6cceed046d1b25ecc08", null ],
+    [ "GetAI", "d1/db2/a19531.html#a22807bb07692511c5ec87073d98c2604", null ]
 ];

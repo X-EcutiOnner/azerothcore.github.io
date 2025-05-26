@@ -1,6 +1,6 @@
 var a14931 =
 [
-    [ "FilterTargets", "d7/d0d/a14931.html#ac4f353ac54e7a461d5411fd8eae33cc1", null ],
-    [ "PrepareSpellScript", "d7/d0d/a14931.html#a8cb8041b71dd3175b627fe7ec5b2c2f3", null ],
-    [ "Register", "d7/d0d/a14931.html#a07d56d19b95c8d24f6908815e4ceb13f", null ]
+    [ "go_ossirian_crystalAI", "db/d11/a14935.html", "db/d11/a14935" ],
+    [ "go_ossirian_crystal", "d7/d0d/a14931.html#a783f0f0570ee0f667920e29613b565b2", null ],
+    [ "GetAI", "d7/d0d/a14931.html#a2f7b12eddc6504917614913e347ec0a0", null ]
 ];

@@ -1,6 +1,5 @@
 var a27035 =
 [
-    [ "npc_dream_fogAI", "d3/d4a/a27039.html", "d3/d4a/a27039" ],
-    [ "npc_dream_fog", "d0/db4/a27035.html#ae50306be88f15c9dfc4d0f12c63c68e6", null ],
-    [ "GetAI", "d0/db4/a27035.html#a48c45fec086e3a50462deed44734ba38", null ]
+    [ "AreaTrigger_at_sentry_point", "d0/db4/a27035.html#a9c27f669aba3be1a83fdd1c99a8af4cf", null ],
+    [ "OnTrigger", "d0/db4/a27035.html#ab59fb74f4f988c208359855d2e4d9918", null ]
 ];

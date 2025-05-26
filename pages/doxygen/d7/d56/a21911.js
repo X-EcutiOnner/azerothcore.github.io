@@ -1,6 +1,8 @@
 var a21911 =
 [
-    [ "npc_attracted_reef_bullAI", "da/db5/a21915.html", "da/db5/a21915" ],
-    [ "npc_attracted_reef_bull", "d7/d56/a21911.html#acd0ade9e7ce5492c11be0b3f2696418e", null ],
-    [ "GetAI", "d7/d56/a21911.html#af705e2768cd41c955af7f944c670ac85", null ]
+    [ "HandleEffectApply", "d7/d56/a21911.html#a8ebf9488a7eed99c3651424754cc95c5", null ],
+    [ "HandleEffectPeriodic", "d7/d56/a21911.html#a183976530ebf604656db12e41449427e", null ],
+    [ "PrepareAuraScript", "d7/d56/a21911.html#a03faa2eda84ac74dcff9a7a6a4e57440", null ],
+    [ "Register", "d7/d56/a21911.html#a76be53d506933d4b3c758578b7c33d5f", null ],
+    [ "_posZ", "d7/d56/a21911.html#a488ded8ff40240fe8fbef1567eb091b9", null ]
 ];

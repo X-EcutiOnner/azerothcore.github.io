@@ -1,7 +1,5 @@
 var a13707 =
 [
-    [ "Load", "db/d8e/a13707.html#a9888c598c4d6cf77c49e15f68c3db225", null ],
-    [ "OnRemove", "db/d8e/a13707.html#ad4044dcd8c88eba88d032a96ca79dc4c", null ],
-    [ "PrepareAuraScript", "db/d8e/a13707.html#a07abb27367cc0a59bdf60a30dfb7cfb0", null ],
-    [ "Register", "db/d8e/a13707.html#ac2db8f8d9b778a0a36081c897f4149cb", null ]
+    [ "npc_mikhail", "db/d8e/a13707.html#ab63d49e91b0d4b6ca0f00ff0992f5bad", null ],
+    [ "OnQuestAccept", "db/d8e/a13707.html#a3e1d81aa9e610b73c3d856b355338d3b", null ]
 ];

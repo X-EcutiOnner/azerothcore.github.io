@@ -1,6 +1,6 @@
 var a22075 =
 [
-    [ "npc_still_at_it_triggerAI", "d7/dac/a22079.html", "d7/dac/a22079" ],
-    [ "npc_still_at_it_trigger", "da/d67/a22075.html#a23366d00bd3b8217bdca7f0fca05d9bd", null ],
-    [ "GetAI", "da/d67/a22075.html#ae273ea6295f50248d303983d4b4137df", null ]
+    [ "PrepareSpellScript", "da/d67/a22075.html#aa26d34552b04dca1db32390e769ff4dc", null ],
+    [ "RecalculateDamage", "da/d67/a22075.html#a1b3458fc865d320050fae1ffeb4c7b5d", null ],
+    [ "Register", "da/d67/a22075.html#a58d28dea272b1237cf60efb45d67765d", null ]
 ];

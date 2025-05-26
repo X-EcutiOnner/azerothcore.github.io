@@ -1,6 +1,5 @@
 var a27147 =
 [
-    [ "go_flamesAI", "de/d8a/a27147.html#a6473bff84b5c99cc616aa2d0912ed308", null ],
-    [ "UpdateAI", "de/d8a/a27147.html#a2d4c91f0bff924335881d1096c0af313", null ],
-    [ "timer", "de/d8a/a27147.html#ae53c7c6c669e982babf304f173b58b1a", null ]
+    [ "go_resonite_cask", "de/d8a/a27147.html#a5a89aa97a4cd31d7ae183649ee750b74", null ],
+    [ "OnGossipHello", "de/d8a/a27147.html#aae8591d53a6983886b52d404acdba293", null ]
 ];

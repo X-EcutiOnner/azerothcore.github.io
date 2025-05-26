@@ -1,7 +1,11 @@
 var a23395 =
 [
-    [ "OnApply", "d0/d23/a23395.html#a301e47da9be4b4a449701c59c19bc62b", null ],
-    [ "PrepareAuraScript", "d0/d23/a23395.html#a623bf9442a4a2b046d1d89bc2523eb37", null ],
-    [ "Register", "d0/d23/a23395.html#aaf38547f7fa233b03429734dbe374f13", null ],
-    [ "Validate", "d0/d23/a23395.html#ac390e2e24d9a85635ced5eaa343b8e09", null ]
+    [ "boss_gruul", "d0/d23/a23395.html#a9a14e75144c79d7ad4f65192edd385f9", null ],
+    [ "JustDied", "d0/d23/a23395.html#a92d9e524dfaa0e4a22daf9b7bc6ac10d", null ],
+    [ "JustEngagedWith", "d0/d23/a23395.html#afb0cc9bb5acad80cea8d3e572d45da94", null ],
+    [ "KilledUnit", "d0/d23/a23395.html#afec4bb1b631cab0b167afb7cc2578b7d", null ],
+    [ "Reset", "d0/d23/a23395.html#ace9cf892fc1cc345d6f82d6e9816e301", null ],
+    [ "UpdateAI", "d0/d23/a23395.html#a3503b84f4fb896d439ccd49a997e4087", null ],
+    [ "_caveInTimer", "d0/d23/a23395.html#a66766f93a5ff543bbb0c9b805aaf253c", null ],
+    [ "_recentlySpoken", "d0/d23/a23395.html#a411ec67153dd4715eb397a420c45bb12", null ]
 ];

@@ -1,6 +1,7 @@
 var a23915 =
 [
-    [ "go_apexis_relic", "d0/db2/a23915.html#a91ff5a986ee62b628456e9f5c75f6bc9", null ],
-    [ "OnGossipHello", "d0/db2/a23915.html#ae8f7167ba5b973881e32d604691dc15a", null ],
-    [ "OnGossipSelect", "d0/db2/a23915.html#a025cc7cc9c69f0eb461445170972ab52", null ]
+    [ "npc_daranelleAI", "d0/db2/a23915.html#a49eeff6e0aea079a0375a92074227d12", null ],
+    [ "JustEngagedWith", "d0/db2/a23915.html#aeff39dfd84986186057cdaf7632eed4f", null ],
+    [ "MoveInLineOfSight", "d0/db2/a23915.html#a353e27c1485b88f0751a64260898d35b", null ],
+    [ "Reset", "d0/db2/a23915.html#a33b2fbec775257e3ba0bebe37fb86349", null ]
 ];

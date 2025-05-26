@@ -1,5 +1,6 @@
 var a22383 =
 [
-    [ "go_scourge_enclosure", "dc/dad/a22383.html#a3611232cb735f336087d4d3c90f66b8d", null ],
-    [ "OnGossipHello", "dc/dad/a22383.html#af505dd0a5d9224cd7586878d1fbd3351", null ]
+    [ "npc_released_offspring_harkoaAI", "d1/ded/a22387.html", "d1/ded/a22387" ],
+    [ "npc_released_offspring_harkoa", "dc/dad/a22383.html#a10f583320e3b617cf2b327cfb6fed6f5", null ],
+    [ "GetAI", "dc/dad/a22383.html#ae3d2a02c496be1b2606fce596625d12e", null ]
 ];

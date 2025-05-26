@@ -1,13 +1,13 @@
 var a02960 =
 [
-    [ "npc_sergeant_bly", "db/d8a/a15667.html", "db/d8a/a15667" ],
-    [ "npc_sergeant_bly::npc_sergeant_blyAI", "dd/d7d/a15671.html", "dd/d7d/a15671" ],
-    [ "go_troll_cage", "d1/d2c/a15675.html", "d1/d2c/a15675" ],
-    [ "go_troll_cage::go_troll_cageAI", "de/d11/a15679.html", "de/d11/a15679" ],
-    [ "npc_weegli_blastfuse", "d6/dad/a15683.html", "d6/dad/a15683" ],
-    [ "npc_weegli_blastfuse::npc_weegli_blastfuseAI", "dd/d00/a15687.html", "dd/d00/a15687" ],
-    [ "npc_shadowpriest_sezziz", "df/d3d/a15691.html", "df/d3d/a15691" ],
-    [ "npc_shadowpriest_sezziz::npc_shadowpriest_sezzizAI", "de/da0/a15695.html", "de/da0/a15695" ],
+    [ "npc_sergeant_bly", "de/d11/a15679.html", "de/d11/a15679" ],
+    [ "npc_sergeant_bly::npc_sergeant_blyAI", "d6/dad/a15683.html", "d6/dad/a15683" ],
+    [ "go_troll_cage", "dd/d00/a15687.html", "dd/d00/a15687" ],
+    [ "go_troll_cage::go_troll_cageAI", "df/d3d/a15691.html", "df/d3d/a15691" ],
+    [ "npc_weegli_blastfuse", "de/da0/a15695.html", "de/da0/a15695" ],
+    [ "npc_weegli_blastfuse::npc_weegli_blastfuseAI", "d5/d94/a15699.html", "d5/d94/a15699" ],
+    [ "npc_shadowpriest_sezziz", "d7/d63/a15703.html", "d7/d63/a15703" ],
+    [ "npc_shadowpriest_sezziz::npc_shadowpriest_sezzizAI", "d5/d9b/a15707.html", "d5/d9b/a15707" ],
     [ "GOSSIP_BLY", "db/d1b/a02960.html#acf686abbef9b59acbf66095340991aab", null ],
     [ "GOSSIP_WEEGLI", "db/d1b/a02960.html#abd5fb74b4c5971cd2993555c6ac4d1eb", null ],
     [ "blySays", "db/d1b/a02960.html#a0170bb25aee4171b17fd972a5eb000a9", [

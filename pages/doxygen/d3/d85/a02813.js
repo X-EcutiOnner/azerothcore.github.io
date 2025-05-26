@@ -1,6 +1,6 @@
 var a02813 =
 [
-    [ "boss_lieutenant_drake", "da/d26/a14703.html", "da/d26/a14703" ],
+    [ "boss_lieutenant_drake", "d8/d9d/a14715.html", "d8/d9d/a14715" ],
     [ "Spells", "d3/d85/a02813.html#a5bd342133be8c2137b831460acc9298c", [
       [ "SPELL_OIL_REFINERY", "df/d95/a00299.html#a5bd342133be8c2137b831460acc9298cae2eb4db3c46b45e80cc2feb9c34f2ada", null ],
       [ "SPELL_QUARRY", "df/d95/a00299.html#a5bd342133be8c2137b831460acc9298ca5a0922923b24c4bb6661ad8396a76e01", null ],

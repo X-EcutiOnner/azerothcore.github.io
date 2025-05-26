@@ -1,6 +1,6 @@
 var a26831 =
 [
-    [ "HandleRemove", "d8/d73/a26831.html#a0ac8fe6a39ae00e50f219bf02c26f1a4", null ],
-    [ "PrepareAuraScript", "d8/d73/a26831.html#a0517fe77f15e1b9cf6153ed2aaf9cee8", null ],
-    [ "Register", "d8/d73/a26831.html#ac968ede75fd5d98ba9a10dc9f6bdbb85", null ]
+    [ "PrepareSpellScript", "d8/d73/a26831.html#aa784c7af6fe38069fca4dcff9a09a22b", null ],
+    [ "Register", "d8/d73/a26831.html#a81bc86c83ffc70602410912870e61700", null ],
+    [ "VictoryRushHit", "d8/d73/a26831.html#a89387a25e67af1d47ef7f5b95344ccb0", null ]
 ];

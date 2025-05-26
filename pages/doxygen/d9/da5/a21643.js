@@ -1,5 +1,7 @@
 var a21643 =
 [
-    [ "go_the_pearl_of_the_depths", "d9/da5/a21643.html#a0e09ddcde0eef050400d90e9a268823a", null ],
-    [ "OnGossipHello", "d9/da5/a21643.html#a745ea14136a78759a3afd7714c6d784a", null ]
+    [ "npc_cosmetic_toy_plane", "d9/da5/a21643.html#a71b7df4d5f78768d9e47f41ba78b93d2", null ],
+    [ "Reset", "d9/da5/a21643.html#aa66f2e16ce6c4e5dd7399b48bd5bc203", null ],
+    [ "UpdateAI", "d9/da5/a21643.html#a41d62b314510fbd6637d8eddbea16f96", null ],
+    [ "_movementArray", "d9/da5/a21643.html#a5a85278bc14a0e3158dc3fa8abcc8392", null ]
 ];

@@ -1,6 +1,5 @@
 var a22343 =
 [
-    [ "npc_overlord_drakuru_betrayalAI", "d7/dd1/a22347.html", "d7/dd1/a22347" ],
-    [ "npc_overlord_drakuru_betrayal", "da/d30/a22343.html#af4092356ea86c25d91c73af1310c2eb0", null ],
-    [ "GetAI", "da/d30/a22343.html#a3bd893f08212dc94a321beb7a95eea08", null ]
+    [ "achievement_wg_within_our_grasp", "da/d30/a22343.html#a9edbd15bc6989c6948e21391a683d22d", null ],
+    [ "OnCheck", "da/d30/a22343.html#a10b659c4b52322536333e3d191796c27", null ]
 ];

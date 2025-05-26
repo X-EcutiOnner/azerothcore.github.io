@@ -1,12 +1,14 @@
 var a22511 =
 [
-    [ "boss_exarch_maladaar", "d4/d62/a22511.html#a5dac68e3dc6fc37736bf85b84eadd417", null ],
-    [ "JustDied", "d4/d62/a22511.html#ab1179a19af8948d430559db4074c41ed", null ],
-    [ "JustEngagedWith", "d4/d62/a22511.html#a69427e7a0ca70253ad8035b5e6b1e01e", null ],
-    [ "JustSummoned", "d4/d62/a22511.html#a8f59e1b093af8c85da8c2fd38e01ca1b", null ],
-    [ "KilledUnit", "d4/d62/a22511.html#adf35cb8b039676500d4040baa08b0d48", null ],
-    [ "MoveInLineOfSight", "d4/d62/a22511.html#a14baacd30b9186c7492c981313421d5b", null ],
-    [ "Reset", "d4/d62/a22511.html#accb21d3c4a6856d2de9641cf84c42ce9", null ],
-    [ "UpdateAI", "d4/d62/a22511.html#a7646c4477135d3d3b8580432902babd4", null ],
-    [ "_talked", "d4/d62/a22511.html#a15c4f122529b9f52823ea407c43433c5", null ]
+    [ "event_enter", "d4/d62/a22511.html#ac80d575f14dca1c901be55e34cc690e1", null ],
+    [ "event_leave", "d4/d62/a22511.html#a3dc0a11a5c06079026d27852e7561b74", null ],
+    [ "map_tower_a", "d4/d62/a22511.html#a9a65209caac3791b835c1920f5a667cf", null ],
+    [ "map_tower_h", "d4/d62/a22511.html#aa30ae484db7c69137abb13adb1b3c505", null ],
+    [ "map_tower_n", "d4/d62/a22511.html#a0453edceab2132e900bec183e360e210", null ],
+    [ "slider_disp", "d4/d62/a22511.html#aec3c8dde769675e3f436515c7a3bcf24", null ],
+    [ "slider_n", "d4/d62/a22511.html#a65015a3a24a5554643ecb5da47e24eea", null ],
+    [ "slider_pos", "d4/d62/a22511.html#acc63481f7613242ac06c6bee6c136a30", null ],
+    [ "ui_tower_a", "d4/d62/a22511.html#a0107bfd3b1df99568e02d6ca80042c86", null ],
+    [ "ui_tower_h", "d4/d62/a22511.html#a94a5fa0517fd0713b74f50a3d1d627cc", null ],
+    [ "ui_tower_n", "d4/d62/a22511.html#ae0fd99db88e6c60b829a18ff8e4be9a0", null ]
 ];

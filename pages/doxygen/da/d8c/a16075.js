@@ -1,6 +1,6 @@
 var a16075 =
 [
-    [ "OnSummon", "da/d8c/a16075.html#ae2766d12fb686356b46126848f356c5a", null ],
-    [ "PrepareSpellScript", "da/d8c/a16075.html#a6b9af3b70d2ce07fe8aee5292367a982", null ],
-    [ "Register", "da/d8c/a16075.html#a717394bfbea621ae637f9e87efddda62", null ]
+    [ "HandlePeriodic", "da/d8c/a16075.html#a7753587518171689f86f3f76269c1b8a", null ],
+    [ "PrepareAuraScript", "da/d8c/a16075.html#aa73351e7200bee94b0068fb8dabfada5", null ],
+    [ "Register", "da/d8c/a16075.html#ab126fe8d4387609e8834898c3b3a67ea", null ]
 ];

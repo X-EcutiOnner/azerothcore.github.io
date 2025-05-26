@@ -1,5 +1,5 @@
 var a27343 =
 [
-    [ "item_generic_limit_chance_above_60", "d6/d83/a27343.html#abc18809810f0a7668020d01c482be84b", null ],
-    [ "OnCastItemCombatSpell", "d6/d83/a27343.html#aa34809cfd53edb6a77d3fa415a079d72", null ]
+    [ "item_mysterious_egg", "d6/d83/a27343.html#ac32e296dcb700f32f6d0296f2921e6c7", null ],
+    [ "OnExpire", "d6/d83/a27343.html#a5ea72284626826b75819f89b3b91c540", null ]
 ];

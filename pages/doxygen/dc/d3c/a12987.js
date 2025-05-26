@@ -1,9 +1,20 @@
 var a12987 =
 [
-    [ "npc_risen_guardianAI", "dc/d3c/a12987.html#a50eb3de52205fc1bbc6936f0708c68a6", null ],
-    [ "IsSummonedBy", "dc/d3c/a12987.html#ad9f45b9007c1ff74d0f725fbf7f00abe", null ],
-    [ "KilledUnit", "dc/d3c/a12987.html#abc7afaa685a436b34ff76edcc6c25e54", null ],
-    [ "Gandling", "dc/d3c/a12987.html#a93013b905260aa51341b22d1627cc986", null ],
-    [ "instance", "dc/d3c/a12987.html#a96f1835989f646c708b8ef0cc9999e63", null ],
-    [ "room", "dc/d3c/a12987.html#a5862a184b6daa92da133cc6c360a993d", null ]
+    [ "boss_darkmaster_gandlingAI", "dc/d3c/a12987.html#a1fbd651c6f5ad3630ae450c6a523360c", null ],
+    [ "FindRoom", "dc/d3c/a12987.html#a7ca1847b3223c82f7c190546809c49bc", null ],
+    [ "GetData", "dc/d3c/a12987.html#a06e03e66d7a99a98ba915057c0082217", null ],
+    [ "JustDied", "dc/d3c/a12987.html#afaac9e6939e0d873f576129546560fba", null ],
+    [ "JustEngagedWith", "dc/d3c/a12987.html#aa71a73d3804187c6b89566ec3d1cd6ed", null ],
+    [ "JustSummoned", "dc/d3c/a12987.html#a24e4031367eb59ad7a9ea352bd0b4ccd", null ],
+    [ "OpenAllGates", "dc/d3c/a12987.html#ab28b7d97956c21515c9872d8f9122f18", null ],
+    [ "Reset", "dc/d3c/a12987.html#a8244b7b91de9a0413193001f41288f7f", null ],
+    [ "SetData", "dc/d3c/a12987.html#a1b7ed8e98d4a271dfd8df76738cc0072", null ],
+    [ "SetGate", "dc/d3c/a12987.html#a32fbc731852f46fbdd36b36764dd2303", null ],
+    [ "SpawnMobsInRoom", "dc/d3c/a12987.html#a68adf734efff345529dbb74bebe15798", null ],
+    [ "SpellHitTarget", "dc/d3c/a12987.html#ae98715a31cd22febb1725977556a48aa", null ],
+    [ "SummonedCreatureDespawn", "dc/d3c/a12987.html#aa0abb31ac1a05c4a99e4b8079410867a", null ],
+    [ "UpdateAI", "dc/d3c/a12987.html#a2c525445ad39ddc47366f3f632014d89", null ],
+    [ "current_room", "dc/d3c/a12987.html#a597f7ee62ee41ff6a1a12a6c9dd7cd93", null ],
+    [ "Guardians", "dc/d3c/a12987.html#a3681da718192f0f961282fa4f655355e", null ],
+    [ "summons", "dc/d3c/a12987.html#a745d411fc485892529cb4cc6f06ba3af", null ]
 ];

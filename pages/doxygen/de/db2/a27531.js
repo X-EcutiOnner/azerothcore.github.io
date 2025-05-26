@@ -1,7 +1,6 @@
 var a27531 =
 [
-    [ "npc_steam_tonkAI", "de/db2/a27531.html#a64bc74af412304d50526e5c93e01a333", null ],
-    [ "JustEngagedWith", "de/db2/a27531.html#a95b023adf0a2e62788e0d5646b17b319", null ],
-    [ "OnPossess", "de/db2/a27531.html#a954208c1a9826ae84a7402f59e1d7055", null ],
-    [ "Reset", "de/db2/a27531.html#a5c76625843b30302b2af0a4ae8b85bd2", null ]
+    [ "npc_guardianAI", "d0/dc7/a27535.html", "d0/dc7/a27535" ],
+    [ "npc_guardian", "de/db2/a27531.html#aa614e73ae6a6c128c323ac275652dbf1", null ],
+    [ "GetAI", "de/db2/a27531.html#a3e65ccc70be9d25b2d8563c23146ef4f", null ]
 ];

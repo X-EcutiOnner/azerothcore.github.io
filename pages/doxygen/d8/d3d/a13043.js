@@ -1,7 +1,7 @@
 var a13043 =
 [
-    [ "npc_apothecary_genericAI", "d8/d3d/a13043.html#afb2b04b51e28d0795e7781effa68dffd", null ],
-    [ "DoAction", "d8/d3d/a13043.html#a59074beefbd3d80104b64f8ecc2ef8e0", null ],
-    [ "MovementInform", "d8/d3d/a13043.html#a63530bd7c3ebcd66521a268e11bf2f93", null ],
-    [ "_movePos", "d8/d3d/a13043.html#a53d10ab64df212b043cc21e054f6528c", null ]
+    [ "boss_apothecary_hummelAI", "d3/d22/a13047.html", "d3/d22/a13047" ],
+    [ "boss_apothecary_hummel", "d8/d3d/a13043.html#af1672c0b7f67d9013e3769a7009c2ee9", null ],
+    [ "GetAI", "d8/d3d/a13043.html#a87a01f4d6eaac7c5e1795133e8aa1ccd", null ],
+    [ "OnQuestReward", "d8/d3d/a13043.html#a86d23ff3569e5e86b8787bb3ea7816c7", null ]
 ];

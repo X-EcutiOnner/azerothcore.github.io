@@ -1,8 +1,8 @@
 var a03164 =
 [
-    [ "boss_marwyn", "d4/d8c/a16743.html", "d4/d8c/a16743" ],
-    [ "boss_marwyn::boss_marwynAI", "df/d00/a16747.html", "df/d00/a16747" ],
-    [ "spell_hor_shared_suffering_aura", "d6/d9b/a16751.html", "d6/d9b/a16751" ],
+    [ "boss_marwyn", "d3/d9c/a16755.html", "d3/d9c/a16755" ],
+    [ "boss_marwyn::boss_marwynAI", "dc/d99/a16759.html", "dc/d99/a16759" ],
+    [ "spell_hor_shared_suffering_aura", "d0/d46/a16763.html", "d0/d46/a16763" ],
     [ "Events", "d8/dec/a03164.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_CHARGE_TARGET", "d7/dcb/a04028.html#af60e00b78607064c5be6aa9397ea49c1ae9b5b6a7dd72b493b6874d7408585a02", null ],
       [ "EVENT_CLEAVE", "d7/dcb/a04028.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a", null ],

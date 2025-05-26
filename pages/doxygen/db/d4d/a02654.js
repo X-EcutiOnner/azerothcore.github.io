@@ -1,6 +1,6 @@
 var a02654 =
 [
-    [ "boss_doomwalker", "df/d64/a23027.html", "df/d64/a23027" ],
+    [ "boss_doomwalker", "d5/d0b/a23043.html", "d5/d0b/a23043" ],
     [ "Spells", "db/d4d/a02654.html#a5bd342133be8c2137b831460acc9298c", [
       [ "SPELL_OIL_REFINERY", "df/d95/a00299.html#a5bd342133be8c2137b831460acc9298cae2eb4db3c46b45e80cc2feb9c34f2ada", null ],
       [ "SPELL_QUARRY", "df/d95/a00299.html#a5bd342133be8c2137b831460acc9298ca5a0922923b24c4bb6661ad8396a76e01", null ],

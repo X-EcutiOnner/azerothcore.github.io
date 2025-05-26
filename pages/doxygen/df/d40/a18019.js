@@ -1,6 +1,6 @@
 var a18019 =
 [
-    [ "npc_spinestalkerAI", "d7/d92/a18023.html", "d7/d92/a18023" ],
-    [ "npc_spinestalker", "df/d40/a18019.html#a477f951c79045d553901b1e6b6ad2d4f", null ],
-    [ "GetAI", "df/d40/a18019.html#a725f1b1db90d700772bfb76e0f85f1f3", null ]
+    [ "FilterTargets", "df/d40/a18019.html#ad5a004ddfdc888c38e95c3a0b49ca73e", null ],
+    [ "PrepareSpellScript", "df/d40/a18019.html#a24466e7a04722cc7559b086f89d2edc8", null ],
+    [ "Register", "df/d40/a18019.html#a9ecea534f3dffdedf7d23b3b2461509d", null ]
 ];

@@ -1,5 +1,6 @@
 var a27215 =
 [
-    [ "go_tablet_of_the_seven", "d8/d60/a27215.html#aa5bcd36c6d0250571f6721f71864ab59", null ],
-    [ "OnGossipHello", "d8/d60/a27215.html#a54d27dc2a52d69d8fd9605c358a855fc", null ]
+    [ "go_midsummer_musicAI", "dd/dd3/a27219.html", "dd/dd3/a27219" ],
+    [ "go_midsummer_music", "d8/d60/a27215.html#a39c38fc78b47b16be9eebee0ccd5041d", null ],
+    [ "GetAI", "d8/d60/a27215.html#a1baf09bdbf67c0a85219454c1cd61d2b", null ]
 ];

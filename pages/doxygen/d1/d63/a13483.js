@@ -1,9 +1,12 @@
 var a13483 =
 [
-    [ "npc_partygoer", "d1/d63/a13483.html#af053caedfd1fa8173b875f521d279418", null ],
-    [ "Initialize", "d1/d63/a13483.html#a9012ff95e5cead3c02f9eeb30f29a9f6", null ],
-    [ "Reset", "d1/d63/a13483.html#ad1936099ec5696a2a593e5041b0360c6", null ],
-    [ "UpdateAI", "d1/d63/a13483.html#a423df8a3de7d23221ea4d62a0c65fefc", null ],
-    [ "_events", "d1/d63/a13483.html#ad5095ee005ecb89ca54b0663d41e20ac", null ],
-    [ "_facing", "d1/d63/a13483.html#a9e934091894987ec091b03090bf733e5", null ]
+    [ "npc_eastvale_peasent", "d1/d63/a13483.html#a5282dac41228569d4431d84c1f160f05", null ],
+    [ "Initialize", "d1/d63/a13483.html#a8b73aa30b0b4a984d8644e6d9541461d", null ],
+    [ "PathEndReached", "d1/d63/a13483.html#a002ec21e0715b020aa19cd0839408033", null ],
+    [ "Reset", "d1/d63/a13483.html#a7eb6cf174a46fd31c8c5241649fcebdc", null ],
+    [ "SetData", "d1/d63/a13483.html#add14d9505880727e208e7ef9428f5acd", null ],
+    [ "UpdateAI", "d1/d63/a13483.html#a868eb38757bf7bc02d5b3ffa66feb375", null ],
+    [ "_events", "d1/d63/a13483.html#a1b310b07481366042dc45f7a27ce6408", null ],
+    [ "_path", "d1/d63/a13483.html#a907db8e6148947248b5bcfdb35023e16", null ],
+    [ "_realenGUID", "d1/d63/a13483.html#aad06364be8698b5ba69cd229e2a5085b", null ]
 ];

@@ -1,8 +1,8 @@
 var a03140 =
 [
-    [ "boss_devourer_of_souls", "dc/d12/a16691.html", "dc/d12/a16691" ],
-    [ "boss_devourer_of_souls::boss_devourer_of_soulsAI", "d3/d47/a16695.html", "d3/d47/a16695" ],
-    [ "spell_wailing_souls_periodic_aura", "d9/d1b/a16699.html", "d9/d1b/a16699" ],
+    [ "boss_devourer_of_souls", "df/dbd/a16703.html", "df/dbd/a16703" ],
+    [ "boss_devourer_of_souls::boss_devourer_of_soulsAI", "dc/dab/a16707.html", "dc/dab/a16707" ],
+    [ "spell_wailing_souls_periodic_aura", "d2/df6/a16711.html", "d2/df6/a16711" ],
     [ "eDisplayIds", "da/d72/a03140.html#a8a0b5200727c3a9b1c2dc63a94c0d220", [
       [ "DISPLAY_ANGER", "da/d72/a03140.html#a8a0b5200727c3a9b1c2dc63a94c0d220ac2d509bd2b8f351f25ae2be6b18c41f1", null ],
       [ "DISPLAY_SORROW", "da/d72/a03140.html#a8a0b5200727c3a9b1c2dc63a94c0d220ade64fe1a3c07b22006f0212281610010", null ],

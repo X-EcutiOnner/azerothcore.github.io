@@ -1,7 +1,8 @@
 var a26587 =
 [
-    [ "HandleDummy", "dc/d53/a26587.html#a96c5064738653ce16f06634196218a88", null ],
-    [ "PrepareSpellScript", "dc/d53/a26587.html#a2fa51a29d2c8ce74c8a4351712ccdeb9", null ],
-    [ "Register", "dc/d53/a26587.html#a080969e035143ac8527443025dbacef2", null ],
-    [ "Validate", "dc/d53/a26587.html#a66fd30d7cffdc7307b4c9dc821ccdf92", null ]
+    [ "FilterTargets", "dc/d53/a26587.html#a3766e5ed1f75c242f45b24c90eef7e11", null ],
+    [ "HandleDummy", "dc/d53/a26587.html#a2214b10da042a3af2fd3311872cc5286", null ],
+    [ "PrepareSpellScript", "dc/d53/a26587.html#a9959966856601f79a83931a7a7ecff91", null ],
+    [ "Register", "dc/d53/a26587.html#a6ac1d4f1d82aabb39526aca92636a41f", null ],
+    [ "Validate", "dc/d53/a26587.html#a67d4b92cc494b6081247a90e8d4c9628", null ]
 ];

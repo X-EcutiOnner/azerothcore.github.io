@@ -1,6 +1,6 @@
 var a21115 =
 [
-    [ "boss_ymironAI", "de/d3c/a21119.html", "de/d3c/a21119" ],
-    [ "boss_ymiron", "d6/d01/a21115.html#a708ffc55e0a190a8ed6adb0bca6ced7c", null ],
-    [ "GetAI", "d6/d01/a21115.html#a0a8caed3c8021ddf861cc71b57297c41", null ]
+    [ "HandleDummyEffect", "d6/d01/a21115.html#a25bc99811aa2c7bf4bfbf8ad628a2771", null ],
+    [ "PrepareSpellScript", "d6/d01/a21115.html#a07376c95cb2ec41d86a24be59094d207", null ],
+    [ "Register", "d6/d01/a21115.html#aaa02dab30b29e6f646db52468fc35eb2", null ]
 ];

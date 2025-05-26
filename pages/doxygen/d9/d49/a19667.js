@@ -1,5 +1,7 @@
 var a19667 =
 [
-    [ "achievement_algalon_herald_of_the_titans", "d9/d49/a19667.html#a13c75b878f4669d212eeb09b55336384", null ],
-    [ "OnCheck", "d9/d49/a19667.html#a20811d7bb453b1758967c11545e630e9", null ]
+    [ "HandlePeriodic", "d9/d49/a19667.html#a14fd25f78c9e2bfbdaeb07f3233628b6", null ],
+    [ "PrepareAuraScript", "d9/d49/a19667.html#ad78b06733a8609dd39e885db2f23edba", null ],
+    [ "Register", "d9/d49/a19667.html#ac9ae9be546964752869163896c4045dd", null ],
+    [ "Validate", "d9/d49/a19667.html#afcca84d03b29ef7569c03f973a6c191b", null ]
 ];

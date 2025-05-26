@@ -1,7 +1,8 @@
 var a20059 =
 [
-    [ "HandleAfterEffectApply", "d4/dcf/a20059.html#a672526de2c71dcae79bacef88f34dc26", null ],
-    [ "PrepareAuraScript", "d4/dcf/a20059.html#a1da221b63cb7fcd0dbb580e8cf0003ce", null ],
-    [ "Register", "d4/dcf/a20059.html#a9ba7c109fe96881dd47ba47366890e2b", null ],
-    [ "Validate", "d4/dcf/a20059.html#ab5833f6218760a7d9829b5d453436302", null ]
+    [ "OnApply", "d4/dcf/a20059.html#a101aab87e9f45ebab1cbe77ecca65c5a", null ],
+    [ "OnRemove", "d4/dcf/a20059.html#a4709f570f9014eb36bc8c65269470373", null ],
+    [ "PrepareAuraScript", "d4/dcf/a20059.html#a6ac96ce73f9983915a05686eb5d411e7", null ],
+    [ "Register", "d4/dcf/a20059.html#a7b4f44d86df652df78a10466bf64a2cf", null ],
+    [ "Validate", "d4/dcf/a20059.html#a3b98409fa1ed8d4e53e526686bc25987", null ]
 ];

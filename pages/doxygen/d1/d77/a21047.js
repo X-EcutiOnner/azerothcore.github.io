@@ -1,6 +1,14 @@
 var a21047 =
 [
-    [ "npc_ravenous_furbolgAI", "d2/d70/a21051.html", "d2/d70/a21051" ],
-    [ "npc_ravenous_furbolg", "d1/d77/a21047.html#a1d7adf8eb055cb6ba82db2f173256fe9", null ],
-    [ "GetAI", "d1/d77/a21047.html#a284c366e6f5bd024d9627a83dd966669", null ]
+    [ "npc_massive_jormungarAI", "d1/d77/a21047.html#aa0b9acaec1aab155f7e4442d12d40c3e", null ],
+    [ "DoAction", "d1/d77/a21047.html#a8084994ba056c907b2e487568fa7502a", null ],
+    [ "JustDied", "d1/d77/a21047.html#a02b4e75227811250e2210f754e6e04f2", null ],
+    [ "JustEngagedWith", "d1/d77/a21047.html#a93769dbb2f7d2136e5ab2603927a5f12", null ],
+    [ "JustReachedHome", "d1/d77/a21047.html#a8ea0fe40cb4b113abadc091ab8085636", null ],
+    [ "MoveInLineOfSight", "d1/d77/a21047.html#a55c817111fab479c3abcfca8942f16e8", null ],
+    [ "Reset", "d1/d77/a21047.html#aca0d8ebe3b47a075a8b87666c0207620", null ],
+    [ "UpdateAI", "d1/d77/a21047.html#a9201c4cdf74d55bb3cde52eb265aa3d9", null ],
+    [ "events", "d1/d77/a21047.html#a92334b8178317a91a7d4336096d75f33", null ],
+    [ "m_pInstance", "d1/d77/a21047.html#ad50a9852370798817fda318f71f27653", null ],
+    [ "summons", "d1/d77/a21047.html#acfa84efc38b994706015e6d82fe1f653", null ]
 ];

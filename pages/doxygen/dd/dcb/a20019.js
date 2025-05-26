@@ -1,6 +1,6 @@
 var a20019 =
 [
-    [ "achievement_freya_knock_on_wood", "dd/dcb/a20019.html#ae28517e151cc9ec2b25ff57513f32d29", null ],
-    [ "OnCheck", "dd/dcb/a20019.html#a07e5edf9d53d200506ab1b0d0b2eaa9e", null ],
-    [ "_elderCount", "dd/dcb/a20019.html#a5a3cc4dedbc2cc6be825579cbb0a09b5", null ]
+    [ "boss_freya_nature_bombAI", "d1/d17/a20023.html", "d1/d17/a20023" ],
+    [ "boss_freya_nature_bomb", "dd/dcb/a20019.html#a18fa6ff862a1b367ac23eb1b7bda0ed4", null ],
+    [ "GetAI", "dd/dcb/a20019.html#a73e24282c6bb29cf3f6a7da14a4de582", null ]
 ];

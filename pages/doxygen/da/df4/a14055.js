@@ -1,5 +1,6 @@
 var a14055 =
 [
-    [ "go_brazier_of_madness", "da/df4/a14055.html#aeb900e575be02244e62c6e5e4153c855", null ],
-    [ "GossipHello", "da/df4/a14055.html#aba3af326b01cd045523434aec189fd47", null ]
+    [ "boss_wushoolayAI", "da/df4/a14055.html#a2ea62154c0932e5cd34bd4b858829ffe", null ],
+    [ "JustEngagedWith", "da/df4/a14055.html#af519da543fff63a39a6fbe48f90f2f22", null ],
+    [ "UpdateAI", "da/df4/a14055.html#acfaacee2a97212eb15056c1552b9e06b", null ]
 ];

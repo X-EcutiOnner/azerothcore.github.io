@@ -1,6 +1,6 @@
 var a15963 =
 [
-    [ "boss_general_zarithrianAI", "d1/d00/a15967.html", "d1/d00/a15967" ],
-    [ "boss_general_zarithrian", "db/d81/a15963.html#a030c53b6ef1d75027ddfd298d49ab330", null ],
-    [ "GetAI", "db/d81/a15963.html#a22ba4e0769dd9404ae043fb9c16233ff", null ]
+    [ "npc_xerestraszaAI", "d1/d00/a15967.html", "d1/d00/a15967" ],
+    [ "npc_xerestrasza", "db/d81/a15963.html#a49023756b5dab130e4ffd7e62fa80ce4", null ],
+    [ "GetAI", "db/d81/a15963.html#a5e0ede0054969d4787db56781dc55846", null ]
 ];

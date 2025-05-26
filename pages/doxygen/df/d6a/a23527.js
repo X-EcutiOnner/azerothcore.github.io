@@ -1,7 +1,6 @@
 var a23527 =
 [
-    [ "FilterTargets", "df/d6a/a23527.html#a921450a09e51585beb9dd2ce9b00bac9", null ],
-    [ "HandleHit", "df/d6a/a23527.html#adb30857a5a320bb24b8cc0bcb9d60040", null ],
-    [ "PrepareSpellScript", "df/d6a/a23527.html#a376618b9811b2e1ec18697431094e22f", null ],
-    [ "Register", "df/d6a/a23527.html#ae7f4f54446d5a1ebb20d49ab9deaed81", null ]
+    [ "HandleScriptEffect", "df/d6a/a23527.html#af0841e5c67c981b792a8d8f0d0d18edc", null ],
+    [ "PrepareSpellScript", "df/d6a/a23527.html#a287bff28e57a86f0176921500de78fa9", null ],
+    [ "Register", "df/d6a/a23527.html#ad5fb101794dfdef0c08551dd9397b965", null ]
 ];

@@ -1,6 +1,6 @@
 var a25519 =
 [
-    [ "HandleProc", "df/dc1/a25519.html#a9a38fab6b581e9f9b4e092d7a4ecaebd", null ],
-    [ "PrepareAuraScript", "df/dc1/a25519.html#a5299aaeacead013e00e81ec7960528f8", null ],
-    [ "Register", "df/dc1/a25519.html#a3b46c5dd891d856e08cbcb9a494f2dd2", null ]
+    [ "HandleActivateObject", "df/dc1/a25519.html#a0d14ca0b21716855a04a0a9267f3e019", null ],
+    [ "PrepareSpellScript", "df/dc1/a25519.html#a684079434128bacd3d8b8b71c14dc56a", null ],
+    [ "Register", "df/dc1/a25519.html#a266301f59c809c03d0ccfc48a2ace302", null ]
 ];

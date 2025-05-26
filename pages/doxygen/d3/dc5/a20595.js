@@ -1,5 +1,11 @@
 var a20595 =
 [
-    [ "go_thorim_lever", "d3/dc5/a20595.html#a7641a89c3c369d26753a6e97dd435802", null ],
-    [ "OnGossipHello", "d3/dc5/a20595.html#aa48cd4d5728bd2d012a91f51299827a0", null ]
+    [ "boss_thorim_ancient_rune_giantAI", "d3/dc5/a20595.html#a75df92817fb5eafa28e5d9c33679dcf8", null ],
+    [ "DoAction", "d3/dc5/a20595.html#a1ee097badabf5264517bc0e9d9a45051", null ],
+    [ "JustDied", "d3/dc5/a20595.html#ac69a6187be136fa53c65a7eb13bf19d4", null ],
+    [ "JustEngagedWith", "d3/dc5/a20595.html#acbfd05bbbae2f5b8a6fa2ee8bc440498", null ],
+    [ "Reset", "d3/dc5/a20595.html#a280a68af0d6b65bc99bb9b7116b801ad", null ],
+    [ "UpdateAI", "d3/dc5/a20595.html#aef980c0fe0c50beca167ea0ef46ff0c7", null ],
+    [ "_isInCombat", "d3/dc5/a20595.html#ab015a6dc76067be1d51d3ce67b6a7aff", null ],
+    [ "events", "d3/dc5/a20595.html#afff251a2cc56b7ce686a5b58c196c16c", null ]
 ];

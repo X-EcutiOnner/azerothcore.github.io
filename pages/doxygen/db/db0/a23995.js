@@ -1,7 +1,6 @@
 var a23995 =
 [
-    [ "npc_creditmarker_visit_with_ancestorsAI", "db/db0/a23995.html#a483e8fb0d73561e34a1078fdde1a1b5b", null ],
-    [ "JustEngagedWith", "db/db0/a23995.html#a4038d707731f64f588e307c22c859902", null ],
-    [ "MoveInLineOfSight", "db/db0/a23995.html#a40d92122cd4f879f52ff78a4f172c3b8", null ],
-    [ "Reset", "db/db0/a23995.html#a29132346f117ba785039057619edb9e7", null ]
+    [ "go_magtheridons_head", "db/db0/a23995.html#af5816b083f1856196bec7a75f0a995f3", null ],
+    [ "InitializeAI", "db/db0/a23995.html#a84fd97c0dfc2826a0b7795a9fbd70cd5", null ],
+    [ "OnStateChanged", "db/db0/a23995.html#a28682d161074b71e1f2d70236ff2b897", null ]
 ];

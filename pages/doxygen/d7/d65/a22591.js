@@ -1,11 +1,8 @@
 var a22591 =
 [
-    [ "boss_blackheart_the_inciter", "d7/d65/a22591.html#a772b2b4574fa6ccd445924193985859b", null ],
-    [ "EnterEvadeMode", "d7/d65/a22591.html#aaf2c9d37b0af1db1d35af01923eca45b", null ],
-    [ "JustDied", "d7/d65/a22591.html#a1e7ca1ade637766d4c6039c50e9c85f7", null ],
-    [ "JustEngagedWith", "d7/d65/a22591.html#abeb0cc4ff2543531f7a7c7993559f1cb", null ],
-    [ "KilledUnit", "d7/d65/a22591.html#ad7de71ea14e5be6e2b126edde1c78ab6", null ],
-    [ "Reset", "d7/d65/a22591.html#add75633d1c04d0be91e7e80f28213917", null ],
-    [ "UpdateAI", "d7/d65/a22591.html#a0648c4bbabf30efd706b973bf8028dbb", null ],
-    [ "InciteChaos", "d7/d65/a22591.html#a640c5301b22a0bfef2c4bcac4556a992", null ]
+    [ "FilterTargets", "d7/d65/a22591.html#a9e0a72530a8dc764269e8df6d9d1ed3d", null ],
+    [ "HandleDummyHitTarget", "d7/d65/a22591.html#ae892090a9bd48aa447224c9f96801d37", null ],
+    [ "PrepareSpellScript", "d7/d65/a22591.html#af08ab4fcc3705b07e89ed222794e70e9", null ],
+    [ "Register", "d7/d65/a22591.html#aeb1aad59b6b4767a63660c5fe0277392", null ],
+    [ "Validate", "d7/d65/a22591.html#a5a87a7c18a55caf5288b8ca8bbd2f361", null ]
 ];

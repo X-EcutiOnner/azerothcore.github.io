@@ -1,7 +1,7 @@
 var a03467 =
 [
-    [ "boss_noth", "d9/da5/a19027.html", "d9/da5/a19027" ],
-    [ "boss_noth::boss_nothAI", "d0/def/a19031.html", "d0/def/a19031" ],
+    [ "boss_noth", "dd/d78/a19039.html", "dd/d78/a19039" ],
+    [ "boss_noth::boss_nothAI", "de/d9a/a19043.html", "de/d9a/a19043" ],
     [ "Events", "d7/db0/a03467.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_CHARGE_TARGET", "d7/dcb/a04028.html#af60e00b78607064c5be6aa9397ea49c1ae9b5b6a7dd72b493b6874d7408585a02", null ],
       [ "EVENT_CLEAVE", "d7/dcb/a04028.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a", null ],

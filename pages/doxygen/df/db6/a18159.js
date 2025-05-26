@@ -1,7 +1,6 @@
 var a18159 =
 [
-    [ "OnRemove", "df/db6/a18159.html#ac1a58d605156c03d05eb99605287e762", null ],
-    [ "PrepareAuraScript", "df/db6/a18159.html#a2db820022631647e942b5ec84e63717e", null ],
-    [ "Register", "df/db6/a18159.html#adfd213ccf8c5596fcd6dc69e53740376", null ],
-    [ "Validate", "df/db6/a18159.html#aa498d4669f67eba4b904b203daeb5a7d", null ]
+    [ "npc_shambling_horror_iccAI", "d8/d0f/a18163.html", "d8/d0f/a18163" ],
+    [ "npc_shambling_horror_icc", "df/db6/a18159.html#a68219e0c6e79f5e7bed1f353d7bb5bcb", null ],
+    [ "GetAI", "df/db6/a18159.html#a96fd525fcb34e793b1fc3fc5179e92ec", null ]
 ];

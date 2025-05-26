@@ -1,5 +1,5 @@
 var a27123 =
 [
-    [ "go_ethereum_prison", "dc/d18/a27123.html#a1872dab11a8470194ab35f87e217aa8a", null ],
-    [ "OnGossipHello", "dc/d18/a27123.html#a73479b0512ea778336fad4bd5cd9b909", null ]
+    [ "go_mistwhisper_treasure", "dc/d18/a27123.html#a87c90caa9f6a628cb0eea3556b58449e", null ],
+    [ "OnGossipHello", "dc/d18/a27123.html#a03b6b19faba005ced7ff921fdf8ab493", null ]
 ];

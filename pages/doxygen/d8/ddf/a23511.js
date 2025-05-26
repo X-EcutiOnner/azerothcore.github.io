@@ -1,6 +1,6 @@
 var a23511 =
 [
-    [ "HandleScriptEffect", "d8/ddf/a23511.html#af0841e5c67c981b792a8d8f0d0d18edc", null ],
-    [ "PrepareSpellScript", "d8/ddf/a23511.html#a287bff28e57a86f0176921500de78fa9", null ],
-    [ "Register", "d8/ddf/a23511.html#ad5fb101794dfdef0c08551dd9397b965", null ]
+    [ "instance_hellfire_ramparts_InstanceMapScript", "dc/d1a/a23515.html", "dc/d1a/a23515" ],
+    [ "instance_hellfire_ramparts", "d8/ddf/a23511.html#ab6ee671123dd0d736e9745e45e04b8da", null ],
+    [ "GetInstanceScript", "d8/ddf/a23511.html#a6f2dc361984b33c1d14d62d67a563e8d", null ]
 ];

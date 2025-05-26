@@ -1,7 +1,6 @@
 var a13615 =
 [
-    [ "o", "d4/d8a/a13615.html#a455ab33d372dd2aeac9d591f3cce1013", null ],
-    [ "x", "d4/d8a/a13615.html#a49ad07d6ecb902ae4818923a6414f3c1", null ],
-    [ "y", "d4/d8a/a13615.html#a45ec9c234e9d909eb8fcc0db6e0d641e", null ],
-    [ "z", "d4/d8a/a13615.html#abf42d988d416ebe409100c4b860d26db", null ]
+    [ "npc_highborne_lamenterAI", "dd/d18/a13619.html", "dd/d18/a13619" ],
+    [ "npc_highborne_lamenter", "d4/d8a/a13615.html#a40316cf73a688e34e95dd41feef8612a", null ],
+    [ "GetAI", "d4/d8a/a13615.html#aad8ccb43b325b797f60a16e338458a1e", null ]
 ];

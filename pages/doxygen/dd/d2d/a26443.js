@@ -1,6 +1,9 @@
 var a26443 =
 [
-    [ "HandleEffectPeriodic", "dd/d2d/a26443.html#a29eb3f3dadd45ccab069222fc36cea09", null ],
-    [ "PrepareAuraScript", "dd/d2d/a26443.html#aaa8296439ffe69eafdd1cece8ec346ad", null ],
-    [ "Register", "dd/d2d/a26443.html#a0a62a0bcf39a781289e1467384ac82cb", null ]
+    [ "HandleKnockBack", "dd/d2d/a26443.html#acaa8f445874270f34ea5b42a506671db", null ],
+    [ "HandleScript", "dd/d2d/a26443.html#a29e47298601cb55c5442a3fa59bb3646", null ],
+    [ "Load", "dd/d2d/a26443.html#a45700aba665b601b2c860af5a869d1af", null ],
+    [ "PrepareSpellScript", "dd/d2d/a26443.html#aad1c175a2611152278d847ac59f93090", null ],
+    [ "Register", "dd/d2d/a26443.html#ad790d435f422fabd128e601fb2dff103", null ],
+    [ "Validate", "dd/d2d/a26443.html#a889a129ddc3ea6fcd7f440fc7c163e08", null ]
 ];

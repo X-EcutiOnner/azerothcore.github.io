@@ -1,6 +1,6 @@
 var a20759 =
 [
-    [ "boss_yoggsaron_corruptor_tentacleAI", "db/dab/a20763.html", "db/dab/a20763" ],
-    [ "boss_yoggsaron_corruptor_tentacle", "d1/da1/a20759.html#a86fbf881f0a861124dda085347bb03bd", null ],
-    [ "GetAI", "d1/da1/a20759.html#a7325d6feaa12d74c030152ba3a0ab756", null ]
+    [ "boss_yoggsaron_death_orbAI", "d1/da1/a20759.html#a6e87b98e89748585a9f28c6f0e3a85e9", null ],
+    [ "UpdateAI", "d1/da1/a20759.html#afde5311434966ff0459dca8ce0d6b8b0", null ],
+    [ "_startTimer", "d1/da1/a20759.html#aebc8edef5f84219e1c50f2394d129443", null ]
 ];

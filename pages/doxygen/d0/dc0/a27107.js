@@ -1,5 +1,7 @@
 var a27107 =
 [
-    [ "go_mistwhisper_treasure", "d0/dc0/a27107.html#a87c90caa9f6a628cb0eea3556b58449e", null ],
-    [ "OnGossipHello", "d0/dc0/a27107.html#a03b6b19faba005ced7ff921fdf8ab493", null ]
+    [ "HandlePeriodic", "d0/dc0/a27107.html#a3da4cc5322f2e34244729fe3b3876482", null ],
+    [ "PrepareAuraScript", "d0/dc0/a27107.html#aab7f5c5bdfdd2b440f59f16ab321765a", null ],
+    [ "Register", "d0/dc0/a27107.html#a53b6067f46912648413fc6d6f107b0d8", null ],
+    [ "Validate", "d0/dc0/a27107.html#aa03222717b3c06316b232a6ac0270ec0", null ]
 ];

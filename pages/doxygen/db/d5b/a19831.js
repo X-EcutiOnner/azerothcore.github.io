@@ -1,6 +1,6 @@
 var a19831 =
 [
-    [ "npc_pool_of_tarAI", "db/d5b/a19831.html#a6141addc9b1cf2c0028d98ef4f4d9d37", null ],
-    [ "DamageTaken", "db/d5b/a19831.html#a4ea55aa08123f724268238e0def5b595", null ],
-    [ "SpellHit", "db/d5b/a19831.html#acb63166b396c079d5b4bb9db67a1448a", null ]
+    [ "npc_thorims_hammerAI", "d0/d93/a19835.html", "d0/d93/a19835" ],
+    [ "npc_thorims_hammer", "db/d5b/a19831.html#a97cbcda73931e6119f8ab30fa4bb0806", null ],
+    [ "GetAI", "db/d5b/a19831.html#aaee92d115d112ebf590cf690de8c6667", null ]
 ];

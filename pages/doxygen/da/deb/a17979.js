@@ -1,6 +1,6 @@
 var a17979 =
 [
-    [ "HandleSpecial", "da/deb/a17979.html#afa540e8c748ca3083667528e2449bc65", null ],
-    [ "PrepareSpellScript", "da/deb/a17979.html#a9472211ffdaa33802099b22b2a721645", null ],
-    [ "Register", "da/deb/a17979.html#ab868b10372ff2ef401d19b126acf00c6", null ]
+    [ "CheckProc", "da/deb/a17979.html#ad701d353f03eb5a1ccca28a6530555db", null ],
+    [ "PrepareAuraScript", "da/deb/a17979.html#a51794aa0a42180d9a0f4e9f6d5febca4", null ],
+    [ "Register", "da/deb/a17979.html#a4f787e29064c15f4dad9047ff618982a", null ]
 ];

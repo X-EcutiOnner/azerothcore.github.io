@@ -1,6 +1,7 @@
 var a16395 =
 [
-    [ "npc_toc_retro_paladinAI", "d5/df8/a16399.html", "d5/df8/a16399" ],
-    [ "npc_toc_retro_paladin", "d8/def/a16395.html#abfb15148aefe186447cfdb3a2c8749c4", null ],
-    [ "GetAI", "d8/def/a16395.html#a1213c99792aa4362275bc827aa2f037e", null ]
+    [ "npc_toc_rogueAI", "d8/def/a16395.html#a34027e7d10edbfba8e046f4785e37899", null ],
+    [ "myCanCast", "d8/def/a16395.html#a85ed8e251dd8356e678536f1e3f3c93d", null ],
+    [ "UpdateAI", "d8/def/a16395.html#a49b0655def227684f07bd60a3c1e0ce1", null ],
+    [ "events", "d8/def/a16395.html#a1519bebb81b64d57b2b0b34a059b83f8", null ]
 ];

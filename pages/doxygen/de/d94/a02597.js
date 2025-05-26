@@ -1,6 +1,6 @@
 var a02597 =
 [
-    [ "boss_thorngrin_the_tender", "d0/db6/a23675.html", "d0/db6/a23675" ],
+    [ "boss_thorngrin_the_tender", "d7/d23/a23691.html", "d7/d23/a23691" ],
     [ "Says", "de/d94/a02597.html#a16774215bba3b38580ea51987d64cff1", [
       [ "SAY_START_FIGHT", "db/db0/a03722.html#a16774215bba3b38580ea51987d64cff1a8faddecee02adff0c6fb321d27621e1e", null ],
       [ "EMOTE_DEATH", "d0/d1e/a03674.html#a16774215bba3b38580ea51987d64cff1a532dda2af249d6245366a455505ac407", null ],

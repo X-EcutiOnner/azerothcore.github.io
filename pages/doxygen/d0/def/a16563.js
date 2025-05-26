@@ -1,6 +1,6 @@
 var a16563 =
 [
-    [ "OnPeriodic", "d0/def/a16563.html#a6f2e191d76f894517aed395866b7e508", null ],
-    [ "PrepareAuraScript", "d0/def/a16563.html#a571ee1c735b6095408973bfe5f91bcf7", null ],
-    [ "Register", "d0/def/a16563.html#a6094dc303c034e49fb4e543874db080b", null ]
+    [ "npc_announcer_toc10", "d0/def/a16563.html#ae495b19328c6a743dfd8f1cbf37a0bd6", null ],
+    [ "OnGossipHello", "d0/def/a16563.html#afcc5262e7c49b7456af146de14805a06", null ],
+    [ "OnGossipSelect", "d0/def/a16563.html#a9a2bf1d3a215332744ca473041cc0520", null ]
 ];

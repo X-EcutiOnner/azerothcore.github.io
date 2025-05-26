@@ -1,6 +1,7 @@
 var a25483 =
 [
-    [ "HandleDummy", "d4/d1d/a25483.html#ad086618ff3caadcf5126e12a1359503f", null ],
-    [ "PrepareSpellScript", "d4/d1d/a25483.html#a4b3a79a9ba01226038a1da886f6a2f7c", null ],
-    [ "Register", "d4/d1d/a25483.html#a214526ddc986ee829daf9090678e3a7b", null ]
+    [ "CalculateDamageAmount", "d4/d1d/a25483.html#a2f608e8391e61434ef1b164c023854fe", null ],
+    [ "CalculateManaLeechAmount", "d4/d1d/a25483.html#a8a4946d1718d8045a72c92355ff38ecb", null ],
+    [ "PrepareAuraScript", "d4/d1d/a25483.html#a63d24d3ca4b2de1aa7f67376ded7bc59", null ],
+    [ "Register", "d4/d1d/a25483.html#aa6e74e89930fd3cc564c3cba86e3687e", null ]
 ];

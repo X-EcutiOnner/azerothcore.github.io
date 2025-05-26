@@ -1,10 +1,15 @@
 var a23291 =
 [
-    [ "boss_warlord_kalithresh", "d0/ddd/a23291.html#afcf2288fbea2d5010c41344ce0247559", null ],
-    [ "JustDied", "d0/ddd/a23291.html#a1947562aa9dafea371e2f2da824a3f65", null ],
-    [ "JustEngagedWith", "d0/ddd/a23291.html#a2712f5c363c3929550b77ef2536b1385", null ],
-    [ "KilledUnit", "d0/ddd/a23291.html#a06855288497f5335a236867ef681d3f8", null ],
-    [ "MoveInLineOfSight", "d0/ddd/a23291.html#a544da19b6c3a6f159ed6b1639def1071", null ],
-    [ "Reset", "d0/ddd/a23291.html#a89e3bac7eeb3a77e0a7a22d8de9f1024", null ],
-    [ "_introDone", "d0/ddd/a23291.html#a8e07118bb6fa249178cc081e2b393d2d", null ]
+    [ "instance_the_slave_pens_InstanceMapScript", "d0/ddd/a23291.html#a70db3eeeb55784250a13032728220005", null ],
+    [ "GetGuidData", "d0/ddd/a23291.html#a77e77209e779b774608f739b258ae419", null ],
+    [ "OnCreatureCreate", "d0/ddd/a23291.html#aca6b8148602b8fb95c9a467dc9400b8b", null ],
+    [ "SetGuidData", "d0/ddd/a23291.html#a21a29973bcf5ef6925239213ce50bab0", null ],
+    [ "AhuneBunnyGUID", "d0/ddd/a23291.html#ad57cefe116f2da6e7c85f36091fe0e94", null ],
+    [ "AhuneGUID", "d0/ddd/a23291.html#a8ad4dab281db87bb2d14b925b450f09c", null ],
+    [ "BeamBunnyGUIDs", "d0/ddd/a23291.html#a09e3d1ca5d040268578fa770b7153a81", null ],
+    [ "BonfireBunnyGUIDs", "d0/ddd/a23291.html#a9de605ffd8092f83af8df5c1725c5d2b", null ],
+    [ "counter", "d0/ddd/a23291.html#a4ea85debc35e91668723222e8ea90071", null ],
+    [ "FlameCallerGUIDs", "d0/ddd/a23291.html#a50af0f1eaaa4e40d729e797212cf3ba0", null ],
+    [ "FrozenCoreGUID", "d0/ddd/a23291.html#a6ac47d1f3eb4d199afdda9ad2a2cc73e", null ],
+    [ "LumaGUID", "d0/ddd/a23291.html#a0e9e294b4140dc8b8a5567a54d7b0c42", null ]
 ];

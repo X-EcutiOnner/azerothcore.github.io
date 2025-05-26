@@ -1,4 +1,4 @@
 var a28075 =
 [
-    [ "base", "df/dc4/a28075.html#ad5e8b55760b9007284e8acf719d7647c", null ]
+    [ "cost", "df/dc4/a28075.html#a624313c8b56b9755593b2f4bacd306d7", null ]
 ];

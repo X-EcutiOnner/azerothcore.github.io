@@ -1,6 +1,9 @@
 var a16711 =
 [
-    [ "npc_fos_leader_secondAI", "dd/db1/a16715.html", "dd/db1/a16715" ],
-    [ "npc_fos_leader_second", "d2/df6/a16711.html#a0e24659ef6e834da5a3adc8d79f0db4e", null ],
-    [ "GetAI", "d2/df6/a16711.html#a96082888ccbb1c81be8327e5e0d84e03", null ]
+    [ "HandlePeriodicTick", "d2/df6/a16711.html#a8d3713d113cbcfd610938544e52fe6ec", null ],
+    [ "Load", "d2/df6/a16711.html#a6f2cb6a9dd83a887314cdd9f7741acae", null ],
+    [ "PrepareAuraScript", "d2/df6/a16711.html#a0d00fd1bbc8dfce6cbc3234865bab42b", null ],
+    [ "Register", "d2/df6/a16711.html#a75dbd486e1ccb8c12bbf8001434ae66a", null ],
+    [ "Validate", "d2/df6/a16711.html#aae7b42d8e7fa2dc76d2584534877625c", null ],
+    [ "dir", "d2/df6/a16711.html#a7dd1959596e8ad1628498215249eb7a2", null ]
 ];

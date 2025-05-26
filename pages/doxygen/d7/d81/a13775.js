@@ -1,6 +1,7 @@
 var a13775 =
 [
-    [ "go", "d7/d81/a13775.html#ac14168f8c25efe7fa22ec802259b3a11", null ],
-    [ "npc", "d7/d81/a13775.html#a04d6e67fa2fb208ca747798ccc53083d", null ],
-    [ "pos", "d7/d81/a13775.html#a51175880a326101b29879d7a6a62c48d", null ]
+    [ "npc_zuljin_vortex", "d7/d81/a13775.html#af3af996adc0a0dba4af992234f8356fb", null ],
+    [ "ChangeToNewPlayer", "d7/d81/a13775.html#ab353794ef978151999fdd2294783e757", null ],
+    [ "Reset", "d7/d81/a13775.html#a1331e714c5cafdc32033e73b6f3169aa", null ],
+    [ "UpdateAI", "d7/d81/a13775.html#a1ae6a08fe247e7bc812ed4f5ffebc519", null ]
 ];

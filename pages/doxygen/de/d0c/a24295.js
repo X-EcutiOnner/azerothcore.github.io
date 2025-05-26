@@ -1,5 +1,5 @@
 var a24295 =
 [
-    [ "npc_pet_dk_army_of_the_deadAI", "de/d0c/a24295.html#a2d934ed807d225f6b9f2206f0556f26d", null ],
-    [ "InitializeAI", "de/d0c/a24295.html#af3ecec126ed3d902acd4bfe979382307", null ]
+    [ "npc_pet_dk_ghoulAI", "de/d0c/a24295.html#a7e747ba9e709eb532b0c16c8a1c1763a", null ],
+    [ "JustDied", "de/d0c/a24295.html#a7d964fafeb0a7746a7749a9e0eb93080", null ]
 ];

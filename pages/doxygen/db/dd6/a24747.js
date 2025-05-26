@@ -1,7 +1,6 @@
 var a24747 =
 [
-    [ "if", "db/dd6/a24747.html#a6b9c0d513b24e9a5c0eef8307b2eb3a8", null ],
-    [ "PrepareAuraScript", "db/dd6/a24747.html#a01d974333043452a37ec3124d23b49f2", null ],
-    [ "Register", "db/dd6/a24747.html#aeb6c695819e894aad8b210a237e6d315", null ],
-    [ "AuraEffectHandleModes", "db/dd6/a24747.html#a9b235517305f9b2fcf2d31eb3a4edbd2", null ]
+    [ "CheckProc", "db/dd6/a24747.html#a67f31710f6a3e843b9d3539710100898", null ],
+    [ "PrepareAuraScript", "db/dd6/a24747.html#ad59ef816bd24f6215cc853386859dbb4", null ],
+    [ "Register", "db/dd6/a24747.html#af499437b1af535488792f44c18ad9bf7", null ]
 ];

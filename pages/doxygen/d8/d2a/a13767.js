@@ -1,7 +1,7 @@
 var a13767 =
 [
-    [ "OnPeriodic", "d8/d2a/a13767.html#aa541a8bc034517d1f5d034ac51bd8dac", null ],
-    [ "PrepareAuraScript", "d8/d2a/a13767.html#abc166e4dc33e7bffd1d53c2ef8272efa", null ],
-    [ "Register", "d8/d2a/a13767.html#a60313d4ba992b1dc81e7cdae942f1b3d", null ],
-    [ "Validate", "d8/d2a/a13767.html#a7ed214de6769314a45540e9afdb82949", null ]
+    [ "spell", "d8/d2a/a13767.html#a55423d09b2f1775dc386a36168ad764d", null ],
+    [ "spiritEntry", "d8/d2a/a13767.html#a987f010c8577c193898fbfcc4a55c0ee", null ],
+    [ "text", "d8/d2a/a13767.html#ab604ad9429083f2e94f6a8d026bc46a5", null ],
+    [ "unaura", "d8/d2a/a13767.html#a1b71fc628793ccb9027687b31d9ebcb0", null ]
 ];

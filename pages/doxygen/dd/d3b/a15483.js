@@ -1,7 +1,6 @@
 var a15483 =
 [
-    [ "DelayedWindstoneSummonEvent", "dd/d3b/a15483.html#aa97daf8cf3479395ffd6558b6699436a", null ],
-    [ "Execute", "dd/d3b/a15483.html#aa413bc8709bc543b89ffb3df42185475", null ],
-    [ "_playerGUID", "dd/d3b/a15483.html#ad83bb6d87b569f59e99abcc16517745b", null ],
-    [ "_summon", "dd/d3b/a15483.html#af9804d276da5daebab3a37f2c75301ea", null ]
+    [ "npc_anachronos_quest_triggerAI", "d2/d56/a15487.html", "d2/d56/a15487" ],
+    [ "npc_anachronos_quest_trigger", "dd/d3b/a15483.html#ad39871952acd3152b51820fe360f4ebd", null ],
+    [ "GetAI", "dd/d3b/a15483.html#a2e0e6a69ed1cbed76db9c4bd64d51330", null ]
 ];

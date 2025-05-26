@@ -1,12 +1,6 @@
 var a16791 =
 [
-    [ "npc_shadowy_mercenaryAI", "d2/df1/a16791.html#ac631624615653a4f82ecfae2aa418455", null ],
-    [ "AttackStart", "d2/df1/a16791.html#a001fa53e29cf8a20ed2e3312058ceb0a", null ],
-    [ "DoAction", "d2/df1/a16791.html#a62f4e98e1dadfa0a2aeea43af9d26234", null ],
-    [ "EnterEvadeMode", "d2/df1/a16791.html#a31a9ddf038046534fad1d41afcf76548", null ],
-    [ "JustDied", "d2/df1/a16791.html#a33e576c92d1b10492cb6e65000ca8198", null ],
-    [ "JustEngagedWith", "d2/df1/a16791.html#ae12ade5e863a0022ea99620f354ca51b", null ],
-    [ "Reset", "d2/df1/a16791.html#afad174f812e2aadf6db86703a46f61d2", null ],
-    [ "UpdateAI", "d2/df1/a16791.html#a7a0238f32aa0d608b9d883db5f170052", null ],
-    [ "events", "d2/df1/a16791.html#a4c6e5a49dc4364477187a0189a166578", null ]
+    [ "npc_phantom_hallucinationAI", "dd/d69/a16795.html", "dd/d69/a16795" ],
+    [ "npc_phantom_hallucination", "d2/df1/a16791.html#a685889c090152a2562ee9adef7efbf71", null ],
+    [ "GetAI", "d2/df1/a16791.html#a771ee338f87ca0a2e9a7d02d1322c5d5", null ]
 ];

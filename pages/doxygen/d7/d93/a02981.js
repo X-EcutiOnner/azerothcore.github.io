@@ -1,9 +1,9 @@
 var a02981 =
 [
-    [ "npc_ame", "d4/db3/a15607.html", "d4/db3/a15607" ],
-    [ "npc_ame::npc_ameAI", "df/d63/a15611.html", "df/d63/a15611" ],
-    [ "npc_ringo", "d7/d5b/a15615.html", "d7/d5b/a15615" ],
-    [ "npc_ringo::npc_ringoAI", "d5/df2/a15619.html", "d5/df2/a15619" ],
+    [ "npc_ame", "d5/df2/a15619.html", "d5/df2/a15619" ],
+    [ "npc_ame::npc_ameAI", "d3/d0f/a15623.html", "d3/d0f/a15623" ],
+    [ "npc_ringo", "db/db0/a15627.html", "db/db0/a15627" ],
+    [ "npc_ringo::npc_ringoAI", "d6/d01/a15631.html", "d6/d01/a15631" ],
     [ "AmeData", "d7/d93/a02981.html#abbb0f5e31bd003a50e94cc712dbab7c0", [
       [ "SAY_READY", "d7/d93/a02981.html#abbb0f5e31bd003a50e94cc712dbab7c0a82af2bd2787802be3ff2ee4588ea9be4", null ],
       [ "SAY_AGGRO1", "d7/d93/a02981.html#abbb0f5e31bd003a50e94cc712dbab7c0a17fd4d94120185f67ee94a41652285a5", null ],

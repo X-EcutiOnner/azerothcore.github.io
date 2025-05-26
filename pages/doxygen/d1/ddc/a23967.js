@@ -1,11 +1,6 @@
 var a23967 =
 [
-    [ "npc_magister_aledis", "d1/ddc/a23967.html#a0e30c5d4f9fe023537a1b29258967630", null ],
-    [ "DamageTaken", "d1/ddc/a23967.html#a3c3b72de2dc3e2a1e2bdeab908f0691f", null ],
-    [ "Reset", "d1/ddc/a23967.html#ae0a701eeaacc5188b382c59ecef14518", null ],
-    [ "sGossipSelect", "d1/ddc/a23967.html#a9960de0b5be8b75e8b7bcc8f12c4f187", null ],
-    [ "StartFight", "d1/ddc/a23967.html#a9149ce0a1df781043a5590fe4612511a", null ],
-    [ "UpdateAI", "d1/ddc/a23967.html#aef885088193e2597e6990e3051a31ef7", null ],
-    [ "_events", "d1/ddc/a23967.html#a5b4cd0ab4d214547dca28b8b384f83df", null ],
-    [ "_playerGUID", "d1/ddc/a23967.html#a0954d3d1c9ad4eaff387bc2cf4f52aeb", null ]
+    [ "npc_wounded_blood_elfAI", "df/deb/a23971.html", "df/deb/a23971" ],
+    [ "npc_wounded_blood_elf", "d1/ddc/a23967.html#a40e79d1412f5f399869a4d2c6fbb4260", null ],
+    [ "GetAI", "d1/ddc/a23967.html#a39d4bd877bdf6596c65e3cb834f124aa", null ]
 ];

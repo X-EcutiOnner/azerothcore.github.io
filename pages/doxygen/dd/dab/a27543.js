@@ -1,6 +1,6 @@
 var a27543 =
 [
-    [ "npc_pet_trainerAI", "d4/d16/a27547.html", "d4/d16/a27547" ],
-    [ "npc_pet_trainer", "dd/dab/a27543.html#ac2279bce52e911b1c339da5e68aa2501", null ],
-    [ "GetAI", "dd/dab/a27543.html#a4ecf9ac0abf43a00dc6bff2d2283eb37", null ]
+    [ "npc_steam_tonkAI", "d4/d16/a27547.html", "d4/d16/a27547" ],
+    [ "npc_steam_tonk", "dd/dab/a27543.html#a19731e7f1bc6fe0220e8c28619ff7c50", null ],
+    [ "GetAI", "dd/dab/a27543.html#a38e51485a3610a204a45677fce15c943", null ]
 ];

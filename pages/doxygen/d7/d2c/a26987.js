@@ -1,7 +1,5 @@
 var a26987 =
 [
-    [ "CharacterDeleteActionIpLogger", "d7/d2c/a26987.html#a37481de65409cf375dcff45615463949", null ],
-    [ "DeleteIPLogAction", "d7/d2c/a26987.html#a73a5ddacd8892d2300be313cfc12f534", null ],
-    [ "OnPlayerDelete", "d7/d2c/a26987.html#adb16e45e425fa816b2572692349d0005", null ],
-    [ "OnPlayerFailedDelete", "d7/d2c/a26987.html#a16bc6247d220c1b6c52808cb4a522c11", null ]
+    [ "achievement_killed_exp_or_honor_target", "d7/d2c/a26987.html#aad432878c97af698dd1cc4019d716281", null ],
+    [ "OnCheck", "d7/d2c/a26987.html#ace8fc68ebb73e39626797be4caa45a3c", null ]
 ];

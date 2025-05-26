@@ -1,6 +1,6 @@
 var a23807 =
 [
-    [ "instance_the_eye_InstanceMapScript", "d3/db5/a23811.html", "d3/db5/a23811" ],
-    [ "instance_the_eye", "d1/db4/a23807.html#a685064ba70095a3fc27ae1a8b33d3c88", null ],
-    [ "GetInstanceScript", "d1/db4/a23807.html#a811c7d161469f33ce4fb7d792ce30a4e", null ]
+    [ "FilterTargets", "d1/db4/a23807.html#a0b0a4e033a1410a5b0def33cf87c853c", null ],
+    [ "PrepareSpellScript", "d1/db4/a23807.html#afa186c0b0728e3462f8984189613f9a7", null ],
+    [ "Register", "d1/db4/a23807.html#a14aafc65b554c0ada5684c46ae1f57c8", null ]
 ];

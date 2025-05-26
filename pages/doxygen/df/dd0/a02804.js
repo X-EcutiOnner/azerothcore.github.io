@@ -1,6 +1,6 @@
 var a02804 =
 [
-    [ "boss_aeonus", "d1/d4c/a14731.html", "d1/d4c/a14731" ],
+    [ "boss_aeonus", "d4/def/a14743.html", "d4/def/a14743" ],
     [ "Spells", "df/dd0/a02804.html#a5bd342133be8c2137b831460acc9298c", [
       [ "SPELL_OIL_REFINERY", "df/d95/a00299.html#a5bd342133be8c2137b831460acc9298cae2eb4db3c46b45e80cc2feb9c34f2ada", null ],
       [ "SPELL_QUARRY", "df/d95/a00299.html#a5bd342133be8c2137b831460acc9298ca5a0922923b24c4bb6661ad8396a76e01", null ],

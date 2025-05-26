@@ -1,6 +1,8 @@
 var a13095 =
 [
-    [ "boss_baroness_anastariAI", "de/d1c/a13099.html", "de/d1c/a13099" ],
-    [ "boss_baroness_anastari", "df/d06/a13095.html#a60f04c10d9b942cacf74a1dc8364dbbe", null ],
-    [ "GetAI", "df/d06/a13095.html#a38073f80afbceb5535cc18ab524378a6", null ]
+    [ "CalcPeriodic", "df/d06/a13095.html#a9aaca3bb1d762c9bddf3b91205f48d00", null ],
+    [ "HandleDummyTick", "df/d06/a13095.html#acd3616df94f888ad5fb1c5b0607f6f25", null ],
+    [ "HandleUpdatePeriodic", "df/d06/a13095.html#a70ef86fd58eec1422bac6b61a4123842", null ],
+    [ "PrepareAuraScript", "df/d06/a13095.html#a9a97a6ab249728dbad4d3603640a7963", null ],
+    [ "Register", "df/d06/a13095.html#ab6b223ed68a521ea9a3cbc2a6e21ac49", null ]
 ];

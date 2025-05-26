@@ -1,6 +1,7 @@
 var a21031 =
 [
-    [ "npc_massive_jormungarAI", "d1/d51/a21035.html", "d1/d51/a21035" ],
-    [ "npc_massive_jormungar", "d8/dc0/a21031.html#ad17b632fcfe78019dcb9e6b58fa1ac01", null ],
-    [ "GetAI", "d8/dc0/a21031.html#a68e3557e967ef633ba59fa81e661b80c", null ]
+    [ "HandleOnEffectRemove", "d8/dc0/a21031.html#acccd790c53f567f93e64afa7b7d1fe6f", null ],
+    [ "PrepareAuraScript", "d8/dc0/a21031.html#a72e6468602d40eb479a80c611d60eb2e", null ],
+    [ "Register", "d8/dc0/a21031.html#a213b50ebb7ce248a36dd78167d1190bb", null ],
+    [ "Validate", "d8/dc0/a21031.html#a8f3ec40c0c2e38dc32db30ce36129684", null ]
 ];

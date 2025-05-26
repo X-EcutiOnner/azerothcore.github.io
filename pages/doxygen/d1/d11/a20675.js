@@ -1,8 +1,7 @@
 var a20675 =
 [
-    [ "OnPeriodic", "d1/d11/a20675.html#aa49d1186ca6f5cdd628728a8a30c06a0", null ],
-    [ "OnRemove", "d1/d11/a20675.html#ad3a81506d71ed3d6ddffce7d8f902eb4", null ],
-    [ "PrepareAuraScript", "d1/d11/a20675.html#a63b654cf540e331e4d2b4f4ece5c1fcc", null ],
-    [ "Register", "d1/d11/a20675.html#a004ba2e0e83a14bef3cae208a45f222b", null ],
-    [ "Validate", "d1/d11/a20675.html#aa56622a1e57c157260940023a6c70a35", null ]
+    [ "npc_xt002_life_sparkAI", "d1/d11/a20675.html#a763ec1834d3b71c88bfa80bc0e34966a", null ],
+    [ "Reset", "d1/d11/a20675.html#a596e2ed45b9221915781b03bf2d18e5b", null ],
+    [ "UpdateAI", "d1/d11/a20675.html#af0a1e717b08b2fa35dd4ff83778a87c1", null ],
+    [ "_attackTimer", "d1/d11/a20675.html#a79bf005de95aa1fee60dfc73b8920dad", null ]
 ];

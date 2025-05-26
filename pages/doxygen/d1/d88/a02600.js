@@ -1,6 +1,6 @@
 var a02600 =
 [
-    [ "boss_high_botanist_freywinn", "d2/d1b/a23663.html", "d2/d1b/a23663" ],
+    [ "boss_high_botanist_freywinn", "d3/dc5/a23679.html", "d3/dc5/a23679" ],
     [ "Npcs", "d1/d88/a02600.html#a213e9ce155baf17b6147afe6a069d54d", [
       [ "NPC_TM_GUARDSMAN", "d6/d6c/a02819.html#a213e9ce155baf17b6147afe6a069d54da21f261d22a0cd419e2febe6c2604502e", null ],
       [ "NPC_TM_PROTECTOR", "d6/d6c/a02819.html#a213e9ce155baf17b6147afe6a069d54da78f045556089f7be512b4bc38abc558f", null ],

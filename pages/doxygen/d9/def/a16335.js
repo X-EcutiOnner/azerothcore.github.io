@@ -1,8 +1,6 @@
 var a16335 =
 [
-    [ "npc_toc_warlockAI", "d9/def/a16335.html#a4c4c2f502f00ca48bb7419434d88ea3a", null ],
-    [ "JustSummoned", "d9/def/a16335.html#a203ef748afaa400aa1f8365b5d7bf6b1", null ],
-    [ "myCanCast", "d9/def/a16335.html#a62b2df362bc07aa4a9c14cbc63a10e05", null ],
-    [ "UpdateAI", "d9/def/a16335.html#a554849d02d923439bd810b7d8c242afa", null ],
-    [ "events", "d9/def/a16335.html#a3b84c70d246bbf5b70ab4dec06c647b3", null ]
+    [ "npc_toc_shadow_priestAI", "d0/d34/a16339.html", "d0/d34/a16339" ],
+    [ "npc_toc_shadow_priest", "d9/def/a16335.html#a05020cd5c5363933dcea7a5901d1ac21", null ],
+    [ "GetAI", "d9/def/a16335.html#a93b38d23759da3b7417dbb94b4a951da", null ]
 ];

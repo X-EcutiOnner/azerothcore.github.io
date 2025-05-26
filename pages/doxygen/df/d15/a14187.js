@@ -1,11 +1,6 @@
 var a14187 =
 [
-    [ "npc_snowfall_glade_playmate", "df/d15/a14187.html#aa31b472ad55b240faff4bc2c1ee02ebc", null ],
-    [ "MoveInLineOfSight", "df/d15/a14187.html#a92143d0bd0eb57b59069ca7a66e16195", null ],
-    [ "Reset", "df/d15/a14187.html#a89040d9843852b01123e102b49509857", null ],
-    [ "UpdateAI", "df/d15/a14187.html#a6dedc1cae1e568a792341842e8a922e8", null ],
-    [ "orphanGUID", "df/d15/a14187.html#ad9bdbee8ec178b0a6c7ff125dc698279", null ],
-    [ "phase", "df/d15/a14187.html#a9a5b2348313063bc389b99158fc72e3f", null ],
-    [ "playerGUID", "df/d15/a14187.html#a4ca4198fdbf3c98291255916ee53c637", null ],
-    [ "timer", "df/d15/a14187.html#ac3d736f2cd62289b88940e0a6ddcd957", null ]
+    [ "PeriodicTick", "df/d15/a14187.html#a0832c36a9497674374b2998398bfc3a4", null ],
+    [ "PrepareAuraScript", "df/d15/a14187.html#a89acb64235da1ff59da90a509fbeec9d", null ],
+    [ "Register", "df/d15/a14187.html#aab689a2cb84dcd064736171035640584", null ]
 ];

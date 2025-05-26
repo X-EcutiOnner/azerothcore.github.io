@@ -1,6 +1,6 @@
 var a15783 =
 [
-    [ "boss_anub_arakAI", "d0/d6c/a15787.html", "d0/d6c/a15787" ],
-    [ "boss_anub_arak", "d9/d01/a15783.html#ac2594f561b07069a312ed38c01d9c7da", null ],
-    [ "GetAI", "d9/d01/a15783.html#a8687594354d514b99e026797ee71c70d", null ]
+    [ "instance_ahnkahet_InstanceScript", "d0/d6c/a15787.html", "d0/d6c/a15787" ],
+    [ "instance_ahnkahet", "d9/d01/a15783.html#afbe11bc040019231878cf31cc357830b", null ],
+    [ "GetInstanceScript", "d9/d01/a15783.html#a8847099c88f11de363c45e27998f10b7", null ]
 ];

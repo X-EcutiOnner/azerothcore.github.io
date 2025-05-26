@@ -1,6 +1,11 @@
 var a16987 =
 [
-    [ "npc_pos_collapsing_icicleAI", "d4/dae/a16991.html", "d4/dae/a16991" ],
-    [ "npc_pos_collapsing_icicle", "d7/d7e/a16987.html#a42b29fe5d4e106c1e5e5b866a0074664", null ],
-    [ "GetAI", "d7/d7e/a16987.html#a96969ebe749b49ceb38920c63ec6fce3", null ]
+    [ "npc_pos_tyrannus_eventsAI", "d7/d7e/a16987.html#a51769d22a4cb448fae90d827e2494581", null ],
+    [ "MovementInform", "d7/d7e/a16987.html#ac0d1550855988fe6f562e8a0a6ada80f", null ],
+    [ "SetData", "d7/d7e/a16987.html#a8f8bbb06c50215c90cf11ddbc925ba5d", null ],
+    [ "UpdateAI", "d7/d7e/a16987.html#a6c4d82c46547bbb2f86dd7f9fa88c743", null ],
+    [ "deathbringerGUID", "d7/d7e/a16987.html#a21ea8c66374403d0eca83e4d24c80a7a", null ],
+    [ "events", "d7/d7e/a16987.html#a317d48c75a93ef5abaa3329ab10a1c8e", null ],
+    [ "killsLeft", "d7/d7e/a16987.html#ac81d85e0ceb0b571373f44475baa36df", null ],
+    [ "pInstance", "d7/d7e/a16987.html#a44460335986bcedf35dc295c242df6da", null ]
 ];

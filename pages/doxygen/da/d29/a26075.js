@@ -1,8 +1,10 @@
 var a26075 =
 [
-    [ "CheckProc", "da/d29/a26075.html#a7796d6b90bb3452d75d28e5a6a3e6287", null ],
-    [ "HandleProc", "da/d29/a26075.html#ab456eb468477ae465f058b05ea45aaeb", null ],
-    [ "PrepareAuraScript", "da/d29/a26075.html#a9d255b2878f11e0ce9f9ffa81f7e4b0e", null ],
-    [ "Register", "da/d29/a26075.html#a9c285da0ae22011d01eeed7415d37d42", null ],
-    [ "Validate", "da/d29/a26075.html#a714d9b7afc9ae0dd190030309f1e83ca", null ]
+    [ "spell_pal_judgement", "da/d29/a26075.html#a497aed8c1d8c6a2af22e9e8daae96e14", null ],
+    [ "HandleScriptEffect", "da/d29/a26075.html#add419a824dbebdc168d2b6dc49d07913", null ],
+    [ "PrepareSpellScript", "da/d29/a26075.html#a2cffed69c16a1a6189048ed52af35152", null ],
+    [ "Register", "da/d29/a26075.html#ad8e65beb41a1bb41a2dd307f3b1da839", null ],
+    [ "SealApplication", "da/d29/a26075.html#a0bb55f122d560c70f416e448d03d2184", null ],
+    [ "Validate", "da/d29/a26075.html#a3971c195a279338253771675131b4802", null ],
+    [ "_spellId", "da/d29/a26075.html#ad49ea02800078c672747f4fdbbab1d20", null ]
 ];

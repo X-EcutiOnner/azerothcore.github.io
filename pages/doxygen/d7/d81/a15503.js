@@ -1,7 +1,9 @@
 var a15503 =
 [
-    [ "npc_kaya_flathoofAI", "d7/d81/a15503.html#a3b43992dfeeb7b3b19e777b9629c55ce", null ],
-    [ "JustSummoned", "d7/d81/a15503.html#ac365753a428009f4fc4d01ead8fe46fd", null ],
-    [ "Reset", "d7/d81/a15503.html#af9be00be9867622a16103bd21311327f", null ],
-    [ "WaypointReached", "d7/d81/a15503.html#a8fcbb19279b925138ba96d2a450fc404", null ]
+    [ "go_wind_stoneAI", "d7/d81/a15503.html#a4370be2b59ea50bf5ea2285bfbf4e242", null ],
+    [ "GossipHello", "d7/d81/a15503.html#a73f129b7b636a1178fe3402cf1e6c50d", null ],
+    [ "GossipSelect", "d7/d81/a15503.html#aff4dedbf3a6fea405722f7064633edb1", null ],
+    [ "InitializeAI", "d7/d81/a15503.html#a33f98d1de05b539a66c4103b4c61de1f", null ],
+    [ "SummonNPC", "d7/d81/a15503.html#ab44f563b8f117a19ac78508c3cba72e9", null ],
+    [ "_creatureGuid", "d7/d81/a15503.html#a50ad8b248381a6d9fac7a291796966d6", null ]
 ];

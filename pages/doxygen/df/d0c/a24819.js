@@ -1,6 +1,6 @@
 var a24819 =
 [
-    [ "CheckProc", "df/d0c/a24819.html#a3c4f64fc51367ebb549282b068458f4c", null ],
-    [ "PrepareAuraScript", "df/d0c/a24819.html#a72dc7c7b8bc842a7feb6857cbec34d25", null ],
-    [ "Register", "df/d0c/a24819.html#ac84b357828094a42aab1c8bfee83d298", null ]
+    [ "CheckAreaTarget", "df/d0c/a24819.html#aab7e3693e5744cf444e643f7cdfdf738", null ],
+    [ "PrepareAuraScript", "df/d0c/a24819.html#a551d8d6dd43c83d9a693c5971fa5c224", null ],
+    [ "Register", "df/d0c/a24819.html#a6647a8e35009cf8559e4957a666f037a", null ]
 ];

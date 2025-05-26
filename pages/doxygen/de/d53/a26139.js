@@ -1,6 +1,7 @@
 var a26139 =
 [
-    [ "HandleEffectScriptEffect", "de/d53/a26139.html#a852a621f0b008dc1294dbeb9e9877a04", null ],
-    [ "PrepareSpellScript", "de/d53/a26139.html#a8b0f656994289f260645a2ae60d9ee4b", null ],
-    [ "Register", "de/d53/a26139.html#a1fa4dca7bae36c5e2acde0fe8b8cd801", null ]
+    [ "CalculateAmount", "de/d53/a26139.html#a5d4549ac73b46382c1beddbb65257ad0", null ],
+    [ "HandleUpdateSpellclick", "de/d53/a26139.html#a89956d7f3a6404d5b60e46034867c82c", null ],
+    [ "PrepareAuraScript", "de/d53/a26139.html#a7cbdc79c63306a8fcfcc06180998a290", null ],
+    [ "Register", "de/d53/a26139.html#a2252719e6ea995b85b7b0c5ecb6a26d3", null ]
 ];

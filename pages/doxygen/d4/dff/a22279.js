@@ -1,7 +1,8 @@
 var a22279 =
 [
-    [ "npc_wg_siege_machineAI", "d4/dff/a22279.html#aaeca9e73520701ce28f2cc9d1483cc6b", null ],
-    [ "CanControlVehicle", "d4/dff/a22279.html#a7ce79406da48e245a0baa2fdd23622b9", null ],
-    [ "UpdateAI", "d4/dff/a22279.html#a8ddd21047a857facc767a9edc0ec5408", null ],
-    [ "checkTimer", "d4/dff/a22279.html#abf4b06eae50adeefedba02e2186ea48a", null ]
+    [ "npc_wg_queueAI", "d2/de2/a22283.html", "d2/de2/a22283" ],
+    [ "npc_wg_queue", "d4/dff/a22279.html#a2cc9825e08e982ef195f117a4512c4ae", null ],
+    [ "GetAI", "d4/dff/a22279.html#ad2d7746a32b520d37ea826b03627de4e", null ],
+    [ "OnGossipHello", "d4/dff/a22279.html#a20fc6ae4e4377f237a620b7f5b1de8ee", null ],
+    [ "OnGossipSelect", "d4/dff/a22279.html#afb707da5d85affc65f7ab5a0fc018c93", null ]
 ];

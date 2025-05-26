@@ -1,16 +1,12 @@
 var a18943 =
 [
-    [ "boss_grobbulusAI", "d8/d01/a18943.html#ad9e7cd519e30eded06f76bcc69189117", null ],
-    [ "JustDied", "d8/d01/a18943.html#aa717d51aa10c139473031072065064ce", null ],
-    [ "JustEngagedWith", "d8/d01/a18943.html#a4c74d53fe029d02df9652dbb87a09242", null ],
-    [ "JustSummoned", "d8/d01/a18943.html#af266d40889fbecd50a118a579b711757", null ],
-    [ "KilledUnit", "d8/d01/a18943.html#a266ef5135e09ee6a0b0b9ae0aaac822b", null ],
-    [ "PullChamberAdds", "d8/d01/a18943.html#ad215f20452cd48c2c2bca394410d739b", null ],
-    [ "Reset", "d8/d01/a18943.html#a6bd34fcdcfa47b19f366ba85e7f420cb", null ],
-    [ "SpellHitTarget", "d8/d01/a18943.html#a996175b70b9a69175988350fc09edd79", null ],
-    [ "SummonedCreatureDespawn", "d8/d01/a18943.html#ae939b029565ef9a075c0d9f0f94b76f3", null ],
-    [ "UpdateAI", "d8/d01/a18943.html#aafd79debbe76b02a1478c03daf235b05", null ],
-    [ "dropSludgeTimer", "d8/d01/a18943.html#a5fdcf157f498b8e47d6380b03fe819d6", null ],
-    [ "events", "d8/d01/a18943.html#a810a91ffbcc3caa7c31e17afbd615392", null ],
-    [ "summons", "d8/d01/a18943.html#a39ce39397f845a4fddf20da5f5812713", null ]
+    [ "npc_gothik_triggerAI", "d8/d01/a18943.html#ae45c6de238755eb069e0c182943da58c", null ],
+    [ "DamageTaken", "d8/d01/a18943.html#ada8e501edfadbb55162532f081a4b48b", null ],
+    [ "EnterEvadeMode", "d8/d01/a18943.html#aae212c3aecdf82f509ed0bf841f16e59", null ],
+    [ "JustEngagedWith", "d8/d01/a18943.html#ab5403383f1fcd539cacf975dffbe2817", null ],
+    [ "JustSummoned", "d8/d01/a18943.html#a35be0135b77a3e62ac8d421910cf0674", null ],
+    [ "SelectRandomSkullPile", "d8/d01/a18943.html#aeafc63047c9059afdf668b8c22d2937f", null ],
+    [ "SpellHit", "d8/d01/a18943.html#a18a8135ab0395991afc4896950783ae5", null ],
+    [ "SummonedCreatureDespawn", "d8/d01/a18943.html#ad7ed092509dd41fddd44a4024c011364", null ],
+    [ "UpdateAI", "d8/d01/a18943.html#a388a20d6d720f5f44a67073fc40e98b6", null ]
 ];

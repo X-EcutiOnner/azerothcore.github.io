@@ -1,7 +1,6 @@
 var a15907 =
 [
-    [ "HandleHit", "db/de1/a15907.html#abd59d91ab50eb8945a4a00157d9d5564", null ],
-    [ "PrepareSpellScript", "db/de1/a15907.html#a27549f3cacc1732bbc1e61209e0f4905", null ],
-    [ "Register", "db/de1/a15907.html#af132eee38064c5123f4e01d52efb9314", null ],
-    [ "Validate", "db/de1/a15907.html#accad8dfdf29a1475b6f272259f1ed9bf", null ]
+    [ "npc_twilight_summonAI", "d8/d43/a15911.html", "d8/d43/a15911" ],
+    [ "npc_twilight_summon", "db/de1/a15907.html#a2406ee3b02d9f1b1ebef54623d9a3c11", null ],
+    [ "GetAI", "db/de1/a15907.html#a98bf5ce96c25bc252acd46163644bf33", null ]
 ];

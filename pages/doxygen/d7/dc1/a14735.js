@@ -1,9 +1,7 @@
 var a14735 =
 [
-    [ "boss_chrono_lord_deja", "d7/dc1/a14735.html#a85f82d4bde99b7e1d05fba82177916e6", null ],
-    [ "JustDied", "d7/dc1/a14735.html#a68eb4941364f9fac121aa3d610d45f48", null ],
-    [ "JustEngagedWith", "d7/dc1/a14735.html#ab5324b2993f2fd1ec3290eb962ef6065", null ],
-    [ "KilledUnit", "d7/dc1/a14735.html#a02c279fb1cfccd38dc60ba7c610cf859", null ],
-    [ "MoveInLineOfSight", "d7/dc1/a14735.html#a535c0c157c60804188ad8c4413c277dd", null ],
-    [ "OwnTalk", "d7/dc1/a14735.html#acdef53bd447c30d87bd15af3bf4200bc", null ]
+    [ "npc_tarethaAI", "da/d35/a14739.html", "da/d35/a14739" ],
+    [ "npc_taretha", "d7/dc1/a14735.html#a54379e06518ff972e91e25e295731f5a", null ],
+    [ "GetAI", "d7/dc1/a14735.html#a5045bb7119b12800ee0053818fcae5fe", null ],
+    [ "OnGossipHello", "d7/dc1/a14735.html#ac689e97b3fd54e9c9e40ed5b9aeca099", null ]
 ];

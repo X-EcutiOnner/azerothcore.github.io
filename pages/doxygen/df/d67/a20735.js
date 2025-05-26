@@ -1,6 +1,8 @@
 var a20735 =
 [
-    [ "boss_yoggsaron_brainAI", "dc/d30/a20739.html", "dc/d30/a20739" ],
-    [ "boss_yoggsaron_brain", "df/d67/a20735.html#a8094e2a062f06c5a954c1d3401ca18d4", null ],
-    [ "GetAI", "df/d67/a20735.html#a02e6b07087765d75d0f49b864e2f323f", null ]
+    [ "boss_yoggsaron_guardian_of_ysAI", "df/d67/a20735.html#a5542a4fd68a012049a79047f47dccc68", null ],
+    [ "JustDied", "df/d67/a20735.html#ad75f0baeef73a79cdb9bf62463bc8e50", null ],
+    [ "Reset", "df/d67/a20735.html#a43d12c19425f3caa56a9732774b6f943", null ],
+    [ "UpdateAI", "df/d67/a20735.html#a8e1d0b14747db6ce06b882f3f9d61963", null ],
+    [ "_spellTimer", "df/d67/a20735.html#a45dec8609328d65413ae6c88f693ba15", null ]
 ];

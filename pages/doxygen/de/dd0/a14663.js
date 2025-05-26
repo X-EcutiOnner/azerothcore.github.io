@@ -1,6 +1,7 @@
 var a14663 =
 [
-    [ "npc_crate_helperAI", "d7/d94/a14667.html", "d7/d94/a14667" ],
-    [ "npc_crate_helper", "de/dd0/a14663.html#ae08751928234656dcda84dd5c7e4cc37", null ],
-    [ "GetAI", "de/dd0/a14663.html#af69c9cf385ee829853985daa7f2aa8d6", null ]
+    [ "OnRemove", "de/dd0/a14663.html#a98bf88bd917b441d2ad81716dcd38ec1", null ],
+    [ "PrepareAuraScript", "de/dd0/a14663.html#ab082adc51983f124d0467cbff63cffb7", null ],
+    [ "Register", "de/dd0/a14663.html#a2feb8adaad212ee29d9ec6d9957575a4", null ],
+    [ "Validate", "de/dd0/a14663.html#a73421b82f483e73314dbb862fb0a11c7", null ]
 ];

@@ -1,6 +1,7 @@
 var a21003 =
 [
-    [ "instance_utgarde_keep_InstanceMapScript", "de/d25/a21007.html", "de/d25/a21007" ],
-    [ "instance_utgarde_keep", "d1/dc8/a21003.html#abe013e4f086f63722a6398b2b7928c80", null ],
-    [ "GetInstanceScript", "d1/dc8/a21003.html#a9a42e0dde1c7598eb2ef665f11e25e92", null ]
+    [ "HandleEffectPeriodic", "d1/dc8/a21003.html#a5741a78ba0cc8c723e80b1847b3eb1bc", null ],
+    [ "PrepareAuraScript", "d1/dc8/a21003.html#a748cd347867557b5048d9ba0c112cd80", null ],
+    [ "Register", "d1/dc8/a21003.html#a3c24d37ab4a6e16a577983c3f6bc2722", null ],
+    [ "Validate", "d1/dc8/a21003.html#afa86789ef14b1d06094705ba6cfb9205", null ]
 ];

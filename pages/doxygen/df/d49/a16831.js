@@ -1,6 +1,6 @@
 var a16831 =
 [
-    [ "npc_hor_lich_kingAI", "d8/d13/a16835.html", "d8/d13/a16835" ],
-    [ "npc_hor_lich_king", "df/d49/a16831.html#aab2562a7a204699735a89e7a15b3b472", null ],
-    [ "GetAI", "df/d49/a16831.html#ad670ae69daa742c19c06267399445a11", null ]
+    [ "npc_hor_spiritual_reflectionAI", "d8/d13/a16835.html", "d8/d13/a16835" ],
+    [ "npc_hor_spiritual_reflection", "df/d49/a16831.html#a5f43c7b336335698468092f72c804fea", null ],
+    [ "GetAI", "df/d49/a16831.html#ab6aafc6db10943662fb66b0f77fc34ec", null ]
 ];

@@ -1,7 +1,7 @@
 var a26771 =
 [
-    [ "HandleDispel", "d8/d5d/a26771.html#aaf6920cb0fec741f3cff1d3f6e6d2c0f", null ],
-    [ "PrepareAuraScript", "d8/d5d/a26771.html#ace0ce4b85311893e1e6df403a6387cd9", null ],
-    [ "Register", "d8/d5d/a26771.html#a2c67e4327fdd034978d4822311632980", null ],
-    [ "Validate", "d8/d5d/a26771.html#ad8b5c381904c359ed608c808d5bbd9bd", null ]
+    [ "HandleTeleport", "d8/d5d/a26771.html#a7ba7b82988dab5fd8e691b5b87c3d959", null ],
+    [ "PrepareAuraScript", "d8/d5d/a26771.html#a2307b7eccd4dd08d7e97ece704ddc4fb", null ],
+    [ "Register", "d8/d5d/a26771.html#a82432a4448d8c23ea2a39b4b26eb1b58", null ],
+    [ "Validate", "d8/d5d/a26771.html#adabf22bd591a10662ffbf0354a18a936", null ]
 ];

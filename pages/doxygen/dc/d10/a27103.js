@@ -1,5 +1,5 @@
 var a27103 =
 [
-    [ "go_seer_of_zebhalak", "dc/d10/a27103.html#a423f16e878d67f7dc6ec3860afabacf4", null ],
-    [ "OnGossipHello", "dc/d10/a27103.html#a84009789ce8e8d0d7c42996fde161135", null ]
+    [ "MarkOfNatureTargetSelector", "dc/d10/a27103.html#ae737da5ff93360fde8c4c818f41d7853", null ],
+    [ "operator()", "dc/d10/a27103.html#a1515fd40dcccaba5947e93eabf241336", null ]
 ];

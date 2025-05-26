@@ -1,6 +1,6 @@
 var a18315 =
 [
-    [ "npc_lk_spirit_bombAI", "d8/d29/a18319.html", "d8/d29/a18319" ],
-    [ "npc_lk_spirit_bomb", "dc/d45/a18315.html#acc08d41aa1761c450de782e92307ad7c", null ],
-    [ "GetAI", "dc/d45/a18315.html#ade74c00beb2da69dafb0ae93d771c430", null ]
+    [ "npc_icc_lk_checktargetAI", "d8/d29/a18319.html", "d8/d29/a18319" ],
+    [ "npc_icc_lk_checktarget", "dc/d45/a18315.html#a3a2cc943e731e472694dcb13417090da", null ],
+    [ "GetAI", "dc/d45/a18315.html#a2cd9a5c7fec791ba8786cf1bb5b7c8bd", null ]
 ];

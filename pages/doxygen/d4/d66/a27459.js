@@ -1,9 +1,7 @@
 var a27459 =
 [
-    [ "npc_target_dummyAI", "d4/d66/a27459.html#a117e45559ea721877d73df4b3c18a259", null ],
-    [ "EnterEvadeMode", "d4/d66/a27459.html#a8f7f2e4decc676e378b4929516f8a147", null ],
-    [ "MoveInLineOfSight", "d4/d66/a27459.html#a05f5b1f2cb8f0926bf425e7c31d618e2", null ],
-    [ "Reset", "d4/d66/a27459.html#a4e8f8d1da604a80b60d61f72ed4ecbcf", null ],
-    [ "UpdateAI", "d4/d66/a27459.html#ae686aa48ab7e91988e5b71c71695ce47", null ],
-    [ "deathTimer", "d4/d66/a27459.html#abf5bd5122e79a62a03c19a18cd68498b", null ]
+    [ "npc_riggle_bassbaitAI", "d4/d66/a27459.html#ad7a1a7a6f4c4ebb7ab93878ebb3a9a5b", null ],
+    [ "CheckTournamentState", "d4/d66/a27459.html#aa7b4393b93be92fbb595648cede832be", null ],
+    [ "UpdateAI", "d4/d66/a27459.html#ad0fca96e2c770ef179d98dcdd9aaca6e", null ],
+    [ "m_uiTimer", "d4/d66/a27459.html#aec45a971a5b7aa574e905e9a2338fe90", null ]
 ];

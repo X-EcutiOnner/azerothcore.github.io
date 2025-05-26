@@ -1,5 +1,6 @@
 var a26927 =
 [
-    [ "achievement_bg_ic_resource_glut", "d6/d1f/a26927.html#ace247962dccee2601ceade593b0874d4", null ],
-    [ "OnCheck", "d6/d1f/a26927.html#a9910cf8b16b8c956df382161cc5f2c84", null ]
+    [ "HandleOnHit", "d6/d1f/a26927.html#a32a6f464057fbfb3bbffe0e10d1d4141", null ],
+    [ "PrepareSpellScript", "d6/d1f/a26927.html#adfa4da76e8c2486fbcc2b3bea0f50005", null ],
+    [ "Register", "d6/d1f/a26927.html#a1742dc0c039f7f981cae8114ff9ae59a", null ]
 ];

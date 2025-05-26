@@ -1,7 +1,8 @@
 var a23639 =
 [
-    [ "boss_zereketh_the_unbound", "d0/df3/a23639.html#abb2fc5cbe7514142160818016fda1936", null ],
-    [ "JustDied", "d0/df3/a23639.html#ac5d96da9a33a536f2002cce11453ded3", null ],
-    [ "JustEngagedWith", "d0/df3/a23639.html#ad0305f3eeb578d6dcd2db835331eb10f", null ],
-    [ "KilledUnit", "d0/df3/a23639.html#a07d3a1264e6d78c2696990755fc7fe45", null ]
+    [ "HandleEffectApply", "d0/df3/a23639.html#ad75c8c6279e606d6a557a61d97ee8f42", null ],
+    [ "HandleEffectRemove", "d0/df3/a23639.html#a7cd59f7ca82a6507024842ebcb1ba093", null ],
+    [ "PrepareAuraScript", "d0/df3/a23639.html#a438a8ba3688e0832853bae4183695494", null ],
+    [ "Register", "d0/df3/a23639.html#a52a86cce0afa66203cc5982ddbe5de4f", null ],
+    [ "Validate", "d0/df3/a23639.html#ab07b244e53b397bc9e9842655617a80d", null ]
 ];

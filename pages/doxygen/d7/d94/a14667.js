@@ -1,6 +1,8 @@
 var a14667 =
 [
-    [ "npc_crate_helperAI", "d7/d94/a14667.html#ad58a2f3746da7862658fb3b9e1580836", null ],
-    [ "SpellHit", "d7/d94/a14667.html#a785bb6fdb254a050a5c5e3e9df49a850", null ],
-    [ "_marked", "d7/d94/a14667.html#a0e718e519af661b73ed7bcd87ffbea32", null ]
+    [ "npc_arthasAI", "db/d91/a14671.html", "db/d91/a14671" ],
+    [ "npc_arthas", "d7/d94/a14667.html#a87c280ff9861187b0a713f795e657266", null ],
+    [ "GetAI", "d7/d94/a14667.html#a4a613dd76cde27f7df834b9bb837ab6c", null ],
+    [ "OnGossipHello", "d7/d94/a14667.html#a4bd3d5dd8eebe48b525e2bd162787172", null ],
+    [ "OnGossipSelect", "d7/d94/a14667.html#aeca2f4baa3c943281c676c6498393165", null ]
 ];

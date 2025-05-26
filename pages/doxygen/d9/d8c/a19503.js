@@ -1,6 +1,11 @@
 var a19503 =
 [
-    [ "boss_sjonnir_dwarfAI", "d4/d7e/a19507.html", "d4/d7e/a19507" ],
-    [ "boss_sjonnir_dwarf", "d9/d8c/a19503.html#a3589ae3bef1bbfe0fc5381e341c0995b", null ],
-    [ "GetAI", "d9/d8c/a19503.html#a945d8e753e1a54dc348848b9c2dd6cce", null ]
+    [ "boss_maiden_of_griefAI", "d9/d8c/a19503.html#a521decece7a53165349ebcfb9fb8dfb5", null ],
+    [ "JustDied", "d9/d8c/a19503.html#abd3977cca1cbbf4b64c278a641514fc8", null ],
+    [ "JustEngagedWith", "d9/d8c/a19503.html#acf30049b09bbaf3e30f2dcb77bf1b4e0", null ],
+    [ "KilledUnit", "d9/d8c/a19503.html#a3d2173db5a852a356c187b2d2771b75f", null ],
+    [ "Reset", "d9/d8c/a19503.html#a46776004549b0dcfcf73351225adaad8", null ],
+    [ "UpdateAI", "d9/d8c/a19503.html#a4e26fc785b3c72982f9d98e0b120e929", null ],
+    [ "events", "d9/d8c/a19503.html#aa2d2ccea219b679594d8d8b4a38d70cc", null ],
+    [ "pInstance", "d9/d8c/a19503.html#abc195718a208a926f978d7f0fe0e7925", null ]
 ];

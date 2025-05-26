@@ -1,6 +1,6 @@
 var a13867 =
 [
-    [ "boss_grilekAI", "d5/d48/a13871.html", "d5/d48/a13871" ],
-    [ "boss_grilek", "d7/de2/a13867.html#acffe0061db18c5725c8c290822c5fed7", null ],
-    [ "GetAI", "d7/de2/a13867.html#aa346fa8807069d8fc94bd4d81a014c76", null ]
+    [ "boss_gahzranka", "d7/de2/a13867.html#a82cc1a44a967f859039957e41f38dd77", null ],
+    [ "IsSummonedBy", "d7/de2/a13867.html#ad68be854f95c398dc5dd9e5b22f538a8", null ],
+    [ "JustEngagedWith", "d7/de2/a13867.html#ac1cc43194c00fda1729f8a068d4e8779", null ]
 ];

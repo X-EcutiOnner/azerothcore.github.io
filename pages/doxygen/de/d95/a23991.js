@@ -1,6 +1,6 @@
 var a23991 =
 [
-    [ "npc_creditmarker_visit_with_ancestorsAI", "db/db0/a23995.html", "db/db0/a23995" ],
-    [ "npc_creditmarker_visit_with_ancestors", "de/d95/a23991.html#a60f7abac7198d8504d944828dceb1ffa", null ],
-    [ "GetAI", "de/d95/a23991.html#a06eb335a757c9f48fbfa64bfc326bb8e", null ]
+    [ "go_beaconAI", "de/d95/a23991.html#a95f0f62d4e34da650c22a7ce796fc85f", null ],
+    [ "OnStateChanged", "de/d95/a23991.html#a10bd78bf6c2451fe95163eb9083bdf44", null ],
+    [ "creatureList", "de/d95/a23991.html#a8f406b85752e42cc26741aa5a13e69bc", null ]
 ];

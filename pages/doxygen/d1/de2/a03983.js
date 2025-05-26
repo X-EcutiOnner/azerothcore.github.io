@@ -1,8 +1,8 @@
 var a03983 =
 [
-    [ "boss_gahzranka", "dd/d07/a13855.html", "dd/d07/a13855" ],
-    [ "spell_gahzranka_slam", "d1/de9/a13859.html", "d1/de9/a13859" ],
-    [ "spell_pagles_point_cast", "d1/d05/a13863.html", "d1/d05/a13863" ],
+    [ "boss_gahzranka", "d7/de2/a13867.html", "d7/de2/a13867" ],
+    [ "spell_gahzranka_slam", "d5/d48/a13871.html", "d5/d48/a13871" ],
+    [ "spell_pagles_point_cast", "db/de7/a13875.html", "db/de7/a13875" ],
     [ "Misc", "d1/de2/a03983.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
       [ "DATA_SKILLPOINT_MIN", "db/db0/a03722.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a3093ddfcacf2742f4fb344843e2e7ce6", null ],
       [ "NEFARIUS_PATH_2", "d6/dc7/a03683.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a09833188939fe77088ed4fb2cfedb875", null ],

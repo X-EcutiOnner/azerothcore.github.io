@@ -1,6 +1,6 @@
 var a24083 =
 [
-    [ "npc_mature_netherwing_drakeAI", "d9/dc5/a24087.html", "d9/dc5/a24087" ],
-    [ "npc_mature_netherwing_drake", "db/d45/a24083.html#a3369bd143ff9e46a4ad4c44b6d8c0ec5", null ],
-    [ "GetAI", "db/d45/a24083.html#ac5a1dad24920396156f22ab02bfab84b", null ]
+    [ "npc_invis_infernal_casterAI", "d9/dc5/a24087.html", "d9/dc5/a24087" ],
+    [ "npc_invis_infernal_caster", "db/d45/a24083.html#a9aed081ef904075830428bbc76f53874", null ],
+    [ "GetAI", "db/d45/a24083.html#aede0c5cc390ea423169b1cba66d929cd", null ]
 ];

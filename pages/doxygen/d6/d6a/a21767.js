@@ -1,6 +1,6 @@
 var a21767 =
 [
-    [ "npc_spiritual_insightAI", "d1/d79/a21771.html", "d1/d79/a21771" ],
-    [ "npc_spiritual_insight", "d6/d6a/a21767.html#afe7b9d5953462719407f03b33b8de564", null ],
-    [ "GetAI", "d6/d6a/a21767.html#ab2884e1160ccad9adb8e3ae69db55bc4", null ]
+    [ "npc_q24545_vegard_dummyAI", "d6/d6a/a21767.html#ad354ccbe97b12f8df1186de4bf52bfcc", null ],
+    [ "UpdateAI", "d6/d6a/a21767.html#aa31baac9ce3c4c951f93917b88390797", null ],
+    [ "done", "d6/d6a/a21767.html#a0208fbae8e6c46d0671107530279c50c", null ]
 ];

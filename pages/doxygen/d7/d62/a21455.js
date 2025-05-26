@@ -1,12 +1,9 @@
 var a21455 =
 [
-    [ "npc_beryl_sorcererAI", "d7/d62/a21455.html#a8f99f5f2ad6ccb1b068a86904bb1b864", null ],
-    [ "Initialize", "d7/d62/a21455.html#a40400e4e993d20d9bbe4faf063102521", null ],
-    [ "JustEngagedWith", "d7/d62/a21455.html#afae877e8dac583c9420d214f77c2b438", null ],
-    [ "Reset", "d7/d62/a21455.html#a17a16337c09013483c58cae38576d969", null ],
-    [ "SpellHit", "d7/d62/a21455.html#a762ee3ae8df3757279821af13101e0be", null ],
-    [ "UpdateAI", "d7/d62/a21455.html#a42ec665b06988d13be6cbee646afc898", null ],
-    [ "_chainsCast", "d7/d62/a21455.html#ab6238d539b10a7db9191bdc685ea67eb", null ],
-    [ "_events", "d7/d62/a21455.html#ac640099ca01ae2183b84ae9ee3407cc1", null ],
-    [ "_playerGUID", "d7/d62/a21455.html#a96f9b39c09b7a5fb484ae9069412751f", null ]
+    [ "npc_lurgglbrAI", "d7/d62/a21455.html#a9239b85c65f9b405335d432f355637d5", null ],
+    [ "Reset", "d7/d62/a21455.html#a13b8bd8e7d85c93b0ee88c6e9f6d09ca", null ],
+    [ "UpdateAI", "d7/d62/a21455.html#aee019df9abe7ca3bf36a6de2321bedec", null ],
+    [ "WaypointReached", "d7/d62/a21455.html#a09ac2f2f21eefedd0052f727546bafb5", null ],
+    [ "IntroPhase", "d7/d62/a21455.html#a57e2c42cccf91765365e0b046446637a", null ],
+    [ "IntroTimer", "d7/d62/a21455.html#ada9762806ae0132e37197e6fb1279866", null ]
 ];

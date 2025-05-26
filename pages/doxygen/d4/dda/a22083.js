@@ -1,6 +1,6 @@
 var a22083 =
 [
-    [ "npc_mcmanus", "d4/dda/a22083.html#a4e9da3fa22b74f51f72c58cbf22dc683", null ],
-    [ "OnGossipHello", "d4/dda/a22083.html#acb8f8b9c10387c0bb45b7d68f7f9821f", null ],
-    [ "OnGossipSelect", "d4/dda/a22083.html#a5e8c37ebcfa737ee3066ab8df3e453f8", null ]
+    [ "npc_artruis_the_hearthlessAI", "d7/d55/a22087.html", "d7/d55/a22087" ],
+    [ "npc_artruis_the_hearthless", "d4/dda/a22083.html#abeed70f4306113bd5df242eae91bfdb0", null ],
+    [ "GetAI", "d4/dda/a22083.html#a1a7674c5e3e9e0de848bfb0d906ac06c", null ]
 ];

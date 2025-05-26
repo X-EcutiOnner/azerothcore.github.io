@@ -1,6 +1,9 @@
 var a18363 =
 [
-    [ "boss_valithria_dreamwalkerAI", "df/d69/a18367.html", "df/d69/a18367" ],
-    [ "boss_valithria_dreamwalker", "d1/df9/a18363.html#afcc6dc92d94330d3aed67f71452f9cd2", null ],
-    [ "GetAI", "d1/df9/a18363.html#a0f0bacefa7e3d682a5db81a14f2ff947", null ]
+    [ "DelayedCastEvent", "d1/df9/a18363.html#ae6d57612065d56ce79197aedebedf9f9", null ],
+    [ "Execute", "d1/df9/a18363.html#ae2925429b3049e44d2afd2e8b990af71", null ],
+    [ "_despawnTime", "d1/df9/a18363.html#acc9e22eb1908e4c458199fc4cccd56c6", null ],
+    [ "_originalCaster", "d1/df9/a18363.html#adb07c24a947d59d2ef1f61b8ab18d328", null ],
+    [ "_spellId", "d1/df9/a18363.html#abe28a6749101233302634ed226a289e8", null ],
+    [ "_trigger", "d1/df9/a18363.html#a85471a151a3165cc906f3a41103c3f5d", null ]
 ];

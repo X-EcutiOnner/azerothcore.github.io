@@ -1,7 +1,7 @@
 var a03221 =
 [
-    [ "boss_xevozz", "d5/df0/a21275.html", "d5/df0/a21275" ],
-    [ "boss_xevozz::boss_xevozzAI", "d6/d38/a21279.html", "d6/d38/a21279" ],
+    [ "boss_xevozz", "d3/d33/a21287.html", "d3/d33/a21287" ],
+    [ "boss_xevozz::boss_xevozzAI", "da/dfa/a21291.html", "da/dfa/a21291" ],
     [ "eEvents", "d1/da3/a03221.html#a1d3512b0adb171bd0db6aad2c9e70516", [
       [ "EVENT_NULL", "d0/d57/a03380.html#a1d3512b0adb171bd0db6aad2c9e70516afc8e2e36b7d0f732f5f52e0a94155c7a", null ],
       [ "EVENT_CHECK_PLAYERS", "d0/d57/a03380.html#a1d3512b0adb171bd0db6aad2c9e70516a6c1847babeb1b838631eee5b2af3dc2b", null ],

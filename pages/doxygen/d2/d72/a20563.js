@@ -1,6 +1,8 @@
 var a20563 =
 [
-    [ "boss_thorim_gauntlet_npcsAI", "d8/d11/a20567.html", "d8/d11/a20567" ],
-    [ "boss_thorim_gauntlet_npcs", "d2/d72/a20563.html#abdf2e90c5b86d3724fac46bff5e15d97", null ],
-    [ "GetAI", "d2/d72/a20563.html#a2a71153ed2a9091de6668ab0b6f7674f", null ]
+    [ "boss_thorim_pillarAI", "d2/d72/a20563.html#ae00c9e72f14e3f2c94da118a1fe27130", null ],
+    [ "Reset", "d2/d72/a20563.html#ae9043ed9b72cc0eda6fb7c859355da57", null ],
+    [ "SpellHit", "d2/d72/a20563.html#a1cb3ef9fdfc9e375d15e14b9230dd51e", null ],
+    [ "UpdateAI", "d2/d72/a20563.html#afd8e05444eeea620a7ef21e97c345d41", null ],
+    [ "_resetTimer", "d2/d72/a20563.html#a6ef7c9e23280564aec1b82eb670bc4f9", null ]
 ];

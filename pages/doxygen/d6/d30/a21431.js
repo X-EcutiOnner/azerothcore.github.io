@@ -1,6 +1,6 @@
 var a21431 =
 [
-    [ "npc_nerubar_victimAI", "d4/d2d/a21435.html", "d4/d2d/a21435" ],
-    [ "npc_nerubar_victim", "d6/d30/a21431.html#a4fe80597d3e56776f0f04965fc706097", null ],
-    [ "GetAI", "d6/d30/a21431.html#a5bb565352ab47fb5cb572190f55df8d1", null ]
+    [ "npc_khunok_the_behemothAI", "d4/d2d/a21435.html", "d4/d2d/a21435" ],
+    [ "npc_khunok_the_behemoth", "d6/d30/a21431.html#a0370959631c00581495dbd7c37263236", null ],
+    [ "GetAI", "d6/d30/a21431.html#a201aa35dd119d23126b192a1e3786c09", null ]
 ];

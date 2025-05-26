@@ -1,9 +1,10 @@
 var a23663 =
 [
-    [ "boss_high_botanist_freywinn", "d2/d1b/a23663.html#aeecf6ed56e34cf1d9a552aab82f1f64a", null ],
-    [ "JustDied", "d2/d1b/a23663.html#a7b370482ea195d0305cba339ce0cbab3", null ],
-    [ "JustEngagedWith", "d2/d1b/a23663.html#a841c6f08d8d8c0e47bd8d06bfed7ab8b", null ],
-    [ "KilledUnit", "d2/d1b/a23663.html#a80a997e0d12c175da0a46d7362890b9c", null ],
-    [ "ResumeEncounter", "d2/d1b/a23663.html#a06adcf26cb264d35a16ca416661ab4bd", null ],
-    [ "SummonedCreatureDies", "d2/d1b/a23663.html#a7f1a02d4b944191471f59ba728b6372e", null ]
+    [ "instance_arcatraz_InstanceMapScript", "d2/d1b/a23663.html#a4c6594eb7fa1f7213c89ea5af6c70ae0", null ],
+    [ "GetGuidData", "d2/d1b/a23663.html#aa4bedf168359eaf5332476a6de99c830", null ],
+    [ "OnGameObjectCreate", "d2/d1b/a23663.html#ad8c84d90b85db5717b6a37fc2343e0aa", null ],
+    [ "SetBossState", "d2/d1b/a23663.html#a2937e4ea47af542a476bd3399ecc7233", null ],
+    [ "SetData", "d2/d1b/a23663.html#aca09d4856d5c3e1831ea8753a50a3b71", null ],
+    [ "StasisPodGUIDs", "d2/d1b/a23663.html#a1fb9824baee2d8d83e030da307f21fc3", null ],
+    [ "WardensShieldGUID", "d2/d1b/a23663.html#a3cbff5742e05f6cf0544807bce64b1d0", null ]
 ];

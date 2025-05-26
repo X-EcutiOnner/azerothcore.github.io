@@ -1,11 +1,6 @@
 var a23195 =
 [
-    [ "boss_ahune", "d8/d4c/a23195.html#aa3d15e1ab37843761d9f7c56d2e5a319", null ],
-    [ "DoAction", "d8/d4c/a23195.html#a9e197e8a5ecbad8487c7bad7647e6d2c", null ],
-    [ "Emerge", "d8/d4c/a23195.html#a6404a8255566f2eaa061a89025e2bdcd", null ],
-    [ "EnterEvadeMode", "d8/d4c/a23195.html#a2b906881621e59143a916c588beb70e7", null ],
-    [ "ExecuteEvent", "d8/d4c/a23195.html#a46b477aef635de1d3ec88baa2465089f", null ],
-    [ "JustDied", "d8/d4c/a23195.html#af2fc7c071321653a644ee569ead67d63", null ],
-    [ "JustEngagedWith", "d8/d4c/a23195.html#aaffc4f54544c8aa4529b249560ddeeec", null ],
-    [ "Submerge", "d8/d4c/a23195.html#aad68758720cc1cb703f8f2dc72c09af2", null ]
+    [ "HandleEffectRemove", "d8/d4c/a23195.html#a4000209ccbcbc62a51db3e7b672ea69d", null ],
+    [ "PrepareAuraScript", "d8/d4c/a23195.html#adc6f982b0e3cc56039746f425cb09113", null ],
+    [ "Register", "d8/d4c/a23195.html#a5ceecc2f9a9664755b5e492fda54a560", null ]
 ];

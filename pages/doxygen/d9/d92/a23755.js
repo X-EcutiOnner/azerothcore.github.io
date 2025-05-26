@@ -1,6 +1,5 @@
 var a23755 =
 [
-    [ "HandlePeriodic", "d9/d92/a23755.html#aec3f36e2c5fedddd84478b9e3a59e6f4", null ],
-    [ "PrepareAuraScript", "d9/d92/a23755.html#a2b809a60626119f6bcf595bd3581c2be", null ],
-    [ "Register", "d9/d92/a23755.html#a299f84e9c12406c79a56999a13de5c1c", null ]
+    [ "npc_lord_sanguinar", "d9/d92/a23755.html#aa5ec2023d72561fe9cf062a2ba5a5469", null ],
+    [ "ScheduleEvents", "d9/d92/a23755.html#af9231da98547875527a519c5884cbec0", null ]
 ];

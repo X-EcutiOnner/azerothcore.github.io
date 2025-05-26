@@ -1,8 +1,6 @@
 var a16195 =
 [
-    [ "npc_toc5_player_vehicleAI", "db/dfc/a16195.html#afa00a6254b482aae5397be04860ac8ba", null ],
-    [ "BeforeSpellClick", "db/dfc/a16195.html#aac7db7f40b47a9c098c98bacb7569faf", null ],
-    [ "OnCharmed", "db/dfc/a16195.html#ace805882a25a9d075d811714e607fa2b", null ],
-    [ "PassengerBoarded", "db/dfc/a16195.html#aca35804df751185193ff5865255d3687", null ],
-    [ "Reset", "db/dfc/a16195.html#a5439b98d544124836d2cf9762f764cea", null ]
+    [ "npc_black_knight_ghoulAI", "d9/db8/a16199.html", "d9/db8/a16199" ],
+    [ "npc_black_knight_ghoul", "db/dfc/a16195.html#a8e62b1070f0ed4e5b917fcaaeb2da8d0", null ],
+    [ "GetAI", "db/dfc/a16195.html#a52308f8d168e1ccea22de653813b7f6f", null ]
 ];

@@ -1,6 +1,6 @@
 var a26463 =
 [
-    [ "HandleFinish", "d2/dde/a26463.html#ac4c50220d86f809644e339fc578d9b4a", null ],
-    [ "PrepareSpellScript", "d2/dde/a26463.html#a5a14594ed93150e34626a7e0edb8171b", null ],
-    [ "Register", "d2/dde/a26463.html#a9d28a3b88d57e2f89921d59f56148f74", null ]
+    [ "HandleScript", "d2/dde/a26463.html#ad0885113f3bd8eea8ff3db30b55cc240", null ],
+    [ "PrepareSpellScript", "d2/dde/a26463.html#a8410b746f810eaeb7f71c3a7de607a84", null ],
+    [ "Register", "d2/dde/a26463.html#ab8f5c857ee42a6767d10277b52a7da01", null ]
 ];

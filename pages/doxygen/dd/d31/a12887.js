@@ -1,7 +1,6 @@
 var a12887 =
 [
-    [ "HandleEffectApply", "dd/d31/a12887.html#a8d52c4ea09e1d58d2dc44ff73d71faf5", null ],
-    [ "PrepareAuraScript", "dd/d31/a12887.html#a9829789fe5544429454e29d228ce0daf", null ],
-    [ "Register", "dd/d31/a12887.html#a7f5a26d10f48d863477ec902e6f5ff1e", null ],
-    [ "Validate", "dd/d31/a12887.html#ae81a441757ab9f10c29a7b313b99cf5f", null ]
+    [ "HandleScriptEffect", "dd/d31/a12887.html#a430d6f41e8533cbade64ea46aaa9ec2e", null ],
+    [ "PrepareSpellScript", "dd/d31/a12887.html#ad110e0dba330acde845c47501256cf5d", null ],
+    [ "Register", "dd/d31/a12887.html#ab6971aa466055a1280cd258e26645157", null ]
 ];

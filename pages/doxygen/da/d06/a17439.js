@@ -1,13 +1,9 @@
 var a17439 =
 [
-    [ "PassengerController", "da/d06/a17439.html#ab834deac8dfd9a7ddd1bcb37b1e5c354", null ],
-    [ "ClearSlot", "da/d06/a17439.html#ae10f0917fb6fd395c3bb4428cbb617cb", null ],
-    [ "ResetSlots", "da/d06/a17439.html#a2302ac8b9fac75ba58ced41e2b5236f0", null ],
-    [ "SelectSpawnPoint", "da/d06/a17439.html#a4a4d575417a7c7940471f21e32d48b5c", null ],
-    [ "SummonCreatures", "da/d06/a17439.html#a287e4cafc1d3739edf90c00ad91e2c64", null ],
-    [ "_controlledSlots", "da/d06/a17439.html#af4271e53792477394a5c1022ed8fb30f", null ],
-    [ "_respawnCooldowns", "da/d06/a17439.html#a98a6d819ec193d5a1e96739ac507b146", null ],
-    [ "_slotInfo", "da/d06/a17439.html#a9c8fa44394c10eb2a7fec3c4f273f448", null ],
-    [ "_spawnPoint", "da/d06/a17439.html#ab168baee9c4d6343c7adb6978a3a56d2", null ],
-    [ "_transport", "da/d06/a17439.html#ac2c664d3b5941c673c13f7e36aa2d974", null ]
+    [ "npc_stinky_iccAI", "da/d06/a17439.html#a545356eb2b77cfae7af3d470e95ea2d6", null ],
+    [ "JustDied", "da/d06/a17439.html#a7fa392980e2d30c935b79377df8dc694", null ],
+    [ "JustEngagedWith", "da/d06/a17439.html#afd1cd4fc387ff7cdad58c9db60841c7a", null ],
+    [ "Reset", "da/d06/a17439.html#ac66e3398598576fdc889a7b56646eecf", null ],
+    [ "UpdateAI", "da/d06/a17439.html#af6e04824ea1682c529e8579a306d34ca", null ],
+    [ "events", "da/d06/a17439.html#a3ab7ae11b7f5ef5877febbd384014ce2", null ]
 ];

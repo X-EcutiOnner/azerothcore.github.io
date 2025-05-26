@@ -1,7 +1,6 @@
 var a21483 =
 [
-    [ "npc_mootoo_the_youngerAI", "d5/d36/a21483.html#a70a5a502dab9a90a790a90eabc5c3acd", null ],
-    [ "JustDied", "d5/d36/a21483.html#a766612f646a6d22d3f0e6f93298e34bc", null ],
-    [ "Reset", "d5/d36/a21483.html#a04624b9b4d552d6b27308edc3ad44644", null ],
-    [ "WaypointReached", "d5/d36/a21483.html#ac758a992ed0d62a272930c84d617b348", null ]
+    [ "npc_imprisoned_beryl_sorcererAI", "d2/dbe/a21487.html", "d2/dbe/a21487" ],
+    [ "npc_imprisoned_beryl_sorcerer", "d5/d36/a21483.html#a6317eb89406cf6b99f63ecfa7f9999d1", null ],
+    [ "GetAI", "d5/d36/a21483.html#aedb301f6da8460f3ed1d81d4b5f2f63c", null ]
 ];

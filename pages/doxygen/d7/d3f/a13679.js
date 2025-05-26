@@ -1,7 +1,8 @@
 var a13679 =
 [
-    [ "npc_daphne_stilwellAI", "d7/ddd/a13683.html", "d7/ddd/a13683" ],
-    [ "npc_daphne_stilwell", "d7/d3f/a13679.html#ad844c5f0409936d7068ee55271506041", null ],
-    [ "GetAI", "d7/d3f/a13679.html#af1872100f3eeb14e894277cfc8e1a74b", null ],
-    [ "OnQuestAccept", "d7/d3f/a13679.html#ad7b293efc802506a825f202e34cb0f4d", null ]
+    [ "npc_the_scourge_cauldronAI", "d7/d3f/a13679.html#aa8b221cfe49b09efbfe5943489c844b8", null ],
+    [ "DoDie", "d7/d3f/a13679.html#a9f720a27db2943a66b11ad6355690bf5", null ],
+    [ "JustEngagedWith", "d7/d3f/a13679.html#a89954dec2f7d57d933c18822333243ac", null ],
+    [ "MoveInLineOfSight", "d7/d3f/a13679.html#a256195dbe75859d72afcd0defb9ff76e", null ],
+    [ "Reset", "d7/d3f/a13679.html#ab18bb2eb344f45827685786c665b1750", null ]
 ];

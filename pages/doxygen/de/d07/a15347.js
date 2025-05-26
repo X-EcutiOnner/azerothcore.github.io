@@ -1,6 +1,6 @@
 var a15347 =
 [
-    [ "npc_troll_volunteerAI", "d4/db6/a15351.html", "d4/db6/a15351" ],
-    [ "npc_troll_volunteer", "de/d07/a15347.html#a3c5eb7108dc0480e07b77eceb01cd18a", null ],
-    [ "GetAI", "de/d07/a15347.html#aba0208b0910ace75686941c462ecca56", null ]
+    [ "npc_tiger_matriarch_creditAI", "de/d07/a15347.html#a628772971a9c2a190ffe2fae6b0b6865", null ],
+    [ "UpdateAI", "de/d07/a15347.html#a0fc7ca1313a21c5f74539ce2dbd7465d", null ],
+    [ "events", "de/d07/a15347.html#ae96e0de4a36dde3237520e8a0ddd9f5f", null ]
 ];

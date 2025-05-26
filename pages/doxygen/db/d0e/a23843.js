@@ -1,9 +1,8 @@
 var a23843 =
 [
-    [ "boss_nethermancer_sepethrea", "db/d0e/a23843.html#aae77446e9a8f2ac41601049d3fe9ffd4", null ],
-    [ "EnterEvadeMode", "db/d0e/a23843.html#a0ac9dd29b73e8734318851ffd9a09162", null ],
-    [ "JustDied", "db/d0e/a23843.html#a2ac13176ebffa245fd9e0ba6173f30cc", null ],
-    [ "JustEngagedWith", "db/d0e/a23843.html#a89851b9f6eb94270fe22151d3a968bec", null ],
-    [ "JustSummoned", "db/d0e/a23843.html#acf98dbddcd55131cb9cdebe6d319e2c2", null ],
-    [ "KilledUnit", "db/d0e/a23843.html#ad9606ca8c1fe6f68f72ec415cc70ef2f", null ]
+    [ "boss_mechano_lord_capacitus", "db/d0e/a23843.html#ab5867184d4e50a89a1afe25eb40e6bc3", null ],
+    [ "JustDied", "db/d0e/a23843.html#a596314e7aebcc9e2e7311b4e0850b817", null ],
+    [ "JustEngagedWith", "db/d0e/a23843.html#a4aa9ee50a942fe123acfdeee0350fa2d", null ],
+    [ "JustSummoned", "db/d0e/a23843.html#a9a0b2cac08002db63162f95b9476c251", null ],
+    [ "KilledUnit", "db/d0e/a23843.html#a6a408c654f91a44a40b3df52c0f2b093", null ]
 ];

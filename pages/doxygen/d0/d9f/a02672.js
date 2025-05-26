@@ -1,9 +1,9 @@
 var a02672 =
 [
-    [ "boss_hungarfen", "d0/db2/a23319.html", "d0/db2/a23319" ],
-    [ "npc_underbog_mushroom", "da/d34/a23323.html", "da/d34/a23323" ],
-    [ "spell_spore_cloud", "d3/d4a/a23327.html", "d3/d4a/a23327" ],
-    [ "spell_despawn_underbog_mushrooms", "d4/d6a/a23331.html", "d4/d6a/a23331" ],
+    [ "boss_hungarfen", "dc/d95/a23335.html", "dc/d95/a23335" ],
+    [ "npc_underbog_mushroom", "dc/d5f/a23339.html", "dc/d5f/a23339" ],
+    [ "spell_spore_cloud", "d4/d96/a23343.html", "d4/d96/a23343" ],
+    [ "spell_despawn_underbog_mushrooms", "d7/d20/a23347.html", "d7/d20/a23347" ],
     [ "Misc", "d0/d9f/a02672.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
       [ "DATA_SKILLPOINT_MIN", "db/db0/a03722.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a3093ddfcacf2742f4fb344843e2e7ce6", null ],
       [ "NEFARIUS_PATH_2", "d6/dc7/a03683.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a09833188939fe77088ed4fb2cfedb875", null ],

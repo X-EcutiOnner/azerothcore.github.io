@@ -1,6 +1,6 @@
 var a13959 =
 [
-    [ "boss_mandokirAI", "d1/d47/a13963.html", "d1/d47/a13963" ],
-    [ "boss_mandokir", "dc/db8/a13959.html#aad13c8302cef7fb4981f0d2178630def", null ],
-    [ "GetAI", "dc/db8/a13959.html#a215842d5ab23824ec20db64e2fa4407e", null ]
+    [ "HandleOnHit", "dc/db8/a13959.html#a76b09288d14d399735250607e2105eb3", null ],
+    [ "PrepareSpellScript", "dc/db8/a13959.html#a2270ce546ae286ffa701d094df591aa2", null ],
+    [ "Register", "dc/db8/a13959.html#a710f2a60bf6ae00909d279b98ac6b7d6", null ]
 ];

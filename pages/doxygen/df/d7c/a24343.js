@@ -1,8 +1,8 @@
 var a24343 =
 [
-    [ "npc_pet_gen_wind_rider_cub", "df/d7c/a24343.html#a17e1f3155b9a9864459e48d1cd11c6a6", null ],
-    [ "UpdateAI", "df/d7c/a24343.html#a534d122522d553e106e6c7729d6c55db", null ],
-    [ "checkTimer", "df/d7c/a24343.html#a39fcfc5f5d9a630180713512db778b32", null ],
-    [ "checkTimer2", "df/d7c/a24343.html#aabeaf7a9b5b77df540e1111950860e98", null ],
-    [ "isFlying", "df/d7c/a24343.html#a57124f8172bd15a5e6c708edff41dc2f", null ]
+    [ "npc_pet_gen_gnomish_flame_turret", "df/d7c/a24343.html#a6e79c0ad6219d0beb23cfb086e6d3eaf", null ],
+    [ "AttackStart", "df/d7c/a24343.html#a2aab464c099e8e5e760a9ae4f28ac33f", null ],
+    [ "Reset", "df/d7c/a24343.html#a46fe5703a5859d5583e7df3a57b3910a", null ],
+    [ "UpdateAI", "df/d7c/a24343.html#ae3db08323af4b82009ffd660b3e78474", null ],
+    [ "checkTimer", "df/d7c/a24343.html#ac6705f4980ca561a5fd33c2917488439", null ]
 ];

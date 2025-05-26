@@ -1,7 +1,12 @@
 var a15579 =
 [
-    [ "npc_paoka_swiftmountainAI", "d8/dd7/a15583.html", "d8/dd7/a15583" ],
-    [ "npc_paoka_swiftmountain", "d3/dc9/a15579.html#abb3f6fab7cca158c2e139159430f880a", null ],
-    [ "GetAI", "d3/dc9/a15579.html#a3f41d2caae5acb4b79bcc75780db03d2", null ],
-    [ "OnQuestAccept", "d3/dc9/a15579.html#a5bd4442350daf5a19bee1037a1b4d7b3", null ]
+    [ "npc_wizzlecrank_shredderAI", "d3/dc9/a15579.html#a055c4b426219aa3372a83d2e2021d916", null ],
+    [ "JustSummoned", "d3/dc9/a15579.html#a7cad21f0b3286ed75256a49c315069ce", null ],
+    [ "Reset", "d3/dc9/a15579.html#a86929e8a2f3433f37e4dda03e3011193", null ],
+    [ "UpdateEscortAI", "d3/dc9/a15579.html#acb95eeebd0317f1d95bc48d6b9e7e962", null ],
+    [ "WaypointReached", "d3/dc9/a15579.html#a369ae3d62d1289a1c840bdc3184b463d", null ],
+    [ "WaypointStart", "d3/dc9/a15579.html#a00857e372e53950338ed71d672edb780", null ],
+    [ "IsPostEvent", "d3/dc9/a15579.html#a9207ffdb39627b1262ec209fe41d6d0a", null ],
+    [ "PostEventCount", "d3/dc9/a15579.html#aa5284a284c074f32cee85d29aea00f2f", null ],
+    [ "PostEventTimer", "d3/dc9/a15579.html#a3c43ede2df7b1ea61b0f1625e2e1461c", null ]
 ];

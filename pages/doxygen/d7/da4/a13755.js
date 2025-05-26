@@ -1,7 +1,8 @@
 var a13755 =
 [
-    [ "spell", "d7/da4/a13755.html#a55423d09b2f1775dc386a36168ad764d", null ],
-    [ "spiritEntry", "d7/da4/a13755.html#a987f010c8577c193898fbfcc4a55c0ee", null ],
-    [ "text", "d7/da4/a13755.html#ab604ad9429083f2e94f6a8d026bc46a5", null ],
-    [ "unaura", "d7/da4/a13755.html#a1b71fc628793ccb9027687b31d9ebcb0", null ]
+    [ "FilterTargets", "d7/da4/a13755.html#a43e45471ad3b8a0583aeb413d48a0f01", null ],
+    [ "OnHit", "d7/da4/a13755.html#ac25886536c353f09838188362fb8ae84", null ],
+    [ "PrepareSpellScript", "d7/da4/a13755.html#aab0e63163b8d84f20bbe0bcdc60c9a85", null ],
+    [ "Register", "d7/da4/a13755.html#afa419365236c09914f758846978e2cbb", null ],
+    [ "Validate", "d7/da4/a13755.html#ae62334ed5f46641def4a38ee178cd9d0", null ]
 ];

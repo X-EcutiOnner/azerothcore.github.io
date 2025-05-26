@@ -1,6 +1,7 @@
 var a21843 =
 [
-    [ "npc_amberpine_woodsmanAI", "d0/de6/a21847.html", "d0/de6/a21847" ],
-    [ "npc_amberpine_woodsman", "d6/d0f/a21843.html#a33bbec50a360b724bfe9cb8612cbb47d", null ],
-    [ "GetAI", "d6/d0f/a21843.html#a9c1df6c01c163ca68712d72b14c46139", null ]
+    [ "HandleScriptEffect", "d6/d0f/a21843.html#a2d39a073c351860db735301b4cf9c79f", null ],
+    [ "PrepareSpellScript", "d6/d0f/a21843.html#a3674adaef23f1531af360a65c14efadd", null ],
+    [ "Register", "d6/d0f/a21843.html#a11b217c0066217f2da5ff42ce35c9a0a", null ],
+    [ "Validate", "d6/d0f/a21843.html#a3dadb61ca7dd8195ba5fdac5bf49583c", null ]
 ];

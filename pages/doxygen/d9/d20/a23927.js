@@ -1,7 +1,5 @@
 var a23927 =
 [
-    [ "HandleEffect", "d9/d20/a23927.html#acb353dbdd050bfc6aa4b4b5f6433dc03", null ],
-    [ "PrepareSpellScript", "d9/d20/a23927.html#ad95bc33917e1aa968eedc636f6e3ddcb", null ],
-    [ "Register", "d9/d20/a23927.html#ac2b2bd2581a638553167d5c8099a70cd", null ],
-    [ "Validate", "d9/d20/a23927.html#a7702b0e876ab5ccd750d1072ee70ed69", null ]
+    [ "go_simon_cluster", "d9/d20/a23927.html#adac53a8451abd6ace227a66afc7e61e8", null ],
+    [ "OnGossipHello", "d9/d20/a23927.html#a9fd9799604de44c91803511c45b67786", null ]
 ];

@@ -1,5 +1,5 @@
 var a28195 =
 [
-    [ "Exp", "df/dc8/a28195.html#aa34490babd6ccdc45857947db3f36d60", null ],
-    [ "id", "df/dc8/a28195.html#abe177efe7ea9d1d1ae8e7d09655c7193", null ]
+    [ "id", "df/dc8/a28195.html#a22e48015dd880199e131089e35b1ce05", null ],
+    [ "spellId", "df/dc8/a28195.html#a956d683b42f34eae3a1ea3f8882716fd", null ]
 ];

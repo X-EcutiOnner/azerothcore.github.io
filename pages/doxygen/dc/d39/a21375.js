@@ -1,6 +1,9 @@
 var a21375 =
 [
-    [ "npc_azure_captainAI", "d5/d3e/a21379.html", "d5/d3e/a21379" ],
-    [ "npc_azure_captain", "dc/d39/a21375.html#aeced2dbbfb23c161fd2bbc22859886a4", null ],
-    [ "GetAI", "dc/d39/a21375.html#a0d1bd80fc38c61e05d3f31ffe587350f", null ]
+    [ "npc_azure_stalkerAI", "dc/d39/a21375.html#a1499e734f0d95d491bcd23c2e858a1ee", null ],
+    [ "Reset", "dc/d39/a21375.html#a9bd36e95ce7c3157a2ac53400da51d23", null ],
+    [ "UpdateAI", "dc/d39/a21375.html#a8c4ea046d69b269e886960ba9562fd0c", null ],
+    [ "TacticalBlinkCasted", "dc/d39/a21375.html#a875a272380251fcc7f98e5c0f84bb41a", null ],
+    [ "uiBackstabTimer", "dc/d39/a21375.html#ad03ba957706a62e3d8091d025ddd50dc", null ],
+    [ "uiTacticalBlinkTimer", "dc/d39/a21375.html#ab817fb9f2f06715f0a08a99e12693697", null ]
 ];

@@ -1,7 +1,6 @@
 var a21747 =
 [
-    [ "FilterTargets", "d6/daa/a21747.html#af62588a225f0b701a0f9321677ae22b8", null ],
-    [ "HandleScript", "d6/daa/a21747.html#ad68fad08b2613de096e504bb7dea61cd", null ],
-    [ "PrepareSpellScript", "d6/daa/a21747.html#a76ac3fe280585a4e2b2d599b4bcc7846", null ],
-    [ "Register", "d6/daa/a21747.html#a8fdbf1c7ab67c0ef094d738ec9a169d8", null ]
+    [ "npc_q24545_wretched_ghoulAI", "df/dbb/a21751.html", "df/dbb/a21751" ],
+    [ "npc_q24545_wretched_ghoul", "d6/daa/a21747.html#a3842b5bd89c911d29d561307113fb032", null ],
+    [ "GetAI", "d6/daa/a21747.html#ada973de0ff7295f0441cbd6b6aaca9ac", null ]
 ];

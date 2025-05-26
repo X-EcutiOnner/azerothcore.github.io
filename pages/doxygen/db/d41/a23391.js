@@ -1,6 +1,7 @@
 var a23391 =
 [
-    [ "HandleScriptEffect", "db/d41/a23391.html#abba5817280db6579e3e6e0b964655c6e", null ],
-    [ "PrepareSpellScript", "db/d41/a23391.html#a846fa43c9907ddb6243c006327757a1c", null ],
-    [ "Register", "db/d41/a23391.html#a7daa26f4035912bff4811b0bfee35fee", null ]
+    [ "CalcPeriodic", "db/d41/a23391.html#aeae100fb3ab86b9064c3923472fbd45d", null ],
+    [ "PrepareAuraScript", "db/d41/a23391.html#a290913502dfe3dfb42b44a964468b97c", null ],
+    [ "Register", "db/d41/a23391.html#aea7a6e4bcbc97d19393d790a28a4483a", null ],
+    [ "Update", "db/d41/a23391.html#ab3bdb3a14c6d130d295553e635acb47c", null ]
 ];

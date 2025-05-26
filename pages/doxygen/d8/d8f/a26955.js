@@ -1,5 +1,5 @@
 var a26955 =
 [
-    [ "achievement_bg_av_perfection", "d8/d8f/a26955.html#a8a0ef996bdb1244026268922b301184c", null ],
-    [ "OnCheck", "d8/d8f/a26955.html#a17e700c17b5144b571f2aeed92a77749", null ]
+    [ "achievement_bg_sa_artillery", "d8/d8f/a26955.html#aa81ae215bc91fd4598d7c9a1b02e3fcc", null ],
+    [ "OnCheck", "d8/d8f/a26955.html#ac24f32f872ae32e90f06f642ea2dfebc", null ]
 ];

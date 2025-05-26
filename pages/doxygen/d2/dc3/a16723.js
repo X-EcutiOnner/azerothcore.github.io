@@ -1,6 +1,6 @@
 var a16723 =
 [
-    [ "entry", "d2/dc3/a16723.html#a80e1510436336f4ed17748a06b27178d", null ],
-    [ "pathId", "d2/dc3/a16723.html#a0b7e499d633e11b314852fb1154ea8e6", null ],
-    [ "startPosition", "d2/dc3/a16723.html#ac8c0dd74d76778aa2f5948b5c8c5ada4", null ]
+    [ "npc_fos_leader_secondAI", "d3/d1e/a16727.html", "d3/d1e/a16727" ],
+    [ "npc_fos_leader_second", "d2/dc3/a16723.html#a0e24659ef6e834da5a3adc8d79f0db4e", null ],
+    [ "GetAI", "d2/dc3/a16723.html#a96082888ccbb1c81be8327e5e0d84e03", null ]
 ];

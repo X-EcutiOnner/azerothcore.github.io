@@ -1,13 +1,13 @@
 var a03314 =
 [
-    [ "boss_sjonnir", "d8/dc6/a19495.html", "d8/dc6/a19495" ],
-    [ "boss_sjonnir::boss_sjonnirAI", "dc/df1/a19499.html", "dc/df1/a19499" ],
-    [ "boss_sjonnir_dwarf", "d9/d8c/a19503.html", "d9/d8c/a19503" ],
-    [ "boss_sjonnir_dwarf::boss_sjonnir_dwarfAI", "d4/d7e/a19507.html", "d4/d7e/a19507" ],
-    [ "boss_sjonnir_iron_sludge", "d2/df8/a19511.html", "d2/df8/a19511" ],
-    [ "boss_sjonnir_iron_sludge::boss_sjonnir_iron_sludgeAI", "d1/d99/a19515.html", "d1/d99/a19515" ],
-    [ "boss_sjonnir_malformed_ooze", "d2/d89/a19519.html", "d2/d89/a19519" ],
-    [ "boss_sjonnir_malformed_ooze::boss_sjonnir_malformed_oozeAI", "de/d27/a19523.html", "de/d27/a19523" ],
+    [ "boss_sjonnir", "d4/d7e/a19507.html", "d4/d7e/a19507" ],
+    [ "boss_sjonnir::boss_sjonnirAI", "d2/df8/a19511.html", "d2/df8/a19511" ],
+    [ "boss_sjonnir_dwarf", "d1/d99/a19515.html", "d1/d99/a19515" ],
+    [ "boss_sjonnir_dwarf::boss_sjonnir_dwarfAI", "d2/d89/a19519.html", "d2/d89/a19519" ],
+    [ "boss_sjonnir_iron_sludge", "de/d27/a19523.html", "de/d27/a19523" ],
+    [ "boss_sjonnir_iron_sludge::boss_sjonnir_iron_sludgeAI", "d7/d8d/a19527.html", "d7/d8d/a19527" ],
+    [ "boss_sjonnir_malformed_ooze", "d1/db2/a19531.html", "d1/db2/a19531" ],
+    [ "boss_sjonnir_malformed_ooze::boss_sjonnir_malformed_oozeAI", "d5/d4f/a19535.html", "d5/d4f/a19535" ],
     [ "Events", "da/d6e/a03314.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_CHARGE_TARGET", "d7/dcb/a04028.html#af60e00b78607064c5be6aa9397ea49c1ae9b5b6a7dd72b493b6874d7408585a02", null ],
       [ "EVENT_CLEAVE", "d7/dcb/a04028.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a", null ],

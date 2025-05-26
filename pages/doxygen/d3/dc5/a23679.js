@@ -1,7 +1,9 @@
 var a23679 =
 [
-    [ "boss_warp_splinter", "d3/dc5/a23679.html#a1d0e8720baaadd1f6f4f6026597c9f63", null ],
-    [ "JustDied", "d3/dc5/a23679.html#a7e7850cf545e57f9fcd8d1aff42f8eb3", null ],
-    [ "JustEngagedWith", "d3/dc5/a23679.html#afc05b2f366e518d5e9ea3fbbfcba05cc", null ],
-    [ "KilledUnit", "d3/dc5/a23679.html#a0e974eb2bfae50383040fe9c7ccf74c1", null ]
+    [ "boss_high_botanist_freywinn", "d3/dc5/a23679.html#aeecf6ed56e34cf1d9a552aab82f1f64a", null ],
+    [ "JustDied", "d3/dc5/a23679.html#a7b370482ea195d0305cba339ce0cbab3", null ],
+    [ "JustEngagedWith", "d3/dc5/a23679.html#a841c6f08d8d8c0e47bd8d06bfed7ab8b", null ],
+    [ "KilledUnit", "d3/dc5/a23679.html#a80a997e0d12c175da0a46d7362890b9c", null ],
+    [ "ResumeEncounter", "d3/dc5/a23679.html#a06adcf26cb264d35a16ca416661ab4bd", null ],
+    [ "SummonedCreatureDies", "d3/dc5/a23679.html#a7f1a02d4b944191471f59ba728b6372e", null ]
 ];

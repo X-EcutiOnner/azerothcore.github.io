@@ -1,5 +1,7 @@
 var a20191 =
 [
-    [ "achievement_cheese_the_freeze", "dc/d25/a20191.html#a5ec4c344a0ed203086be2661e4e24f0e", null ],
-    [ "OnCheck", "dc/d25/a20191.html#aaf3342fb3153a4d9223d880c0f2a277a", null ]
+    [ "HandleEffectPeriodic", "dc/d25/a20191.html#ae22cd3b6f7cf515e80dd1125349dd152", null ],
+    [ "PrepareAuraScript", "dc/d25/a20191.html#a4cc9b379480c50e1116e3dab03afeaad", null ],
+    [ "Register", "dc/d25/a20191.html#ac82d5a47f5eca266eed99ab65f9eb5bf", null ],
+    [ "Validate", "dc/d25/a20191.html#a2bb4fe398e6b225dd14bdb51e3f01522", null ]
 ];

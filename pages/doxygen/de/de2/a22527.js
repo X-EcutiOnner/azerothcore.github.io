@@ -1,6 +1,12 @@
 var a22527 =
 [
-    [ "instance_auchenai_crypts_InstanceMapScript", "d1/d66/a22531.html", "d1/d66/a22531" ],
-    [ "instance_auchenai_crypts", "de/de2/a22527.html#a8b16924167c54a9d8120bac67bc10fed", null ],
-    [ "GetInstanceScript", "de/de2/a22527.html#a99e47df95fde07d4a6e7687634805b93", null ]
+    [ "boss_exarch_maladaar", "de/de2/a22527.html#a5dac68e3dc6fc37736bf85b84eadd417", null ],
+    [ "JustDied", "de/de2/a22527.html#ab1179a19af8948d430559db4074c41ed", null ],
+    [ "JustEngagedWith", "de/de2/a22527.html#a69427e7a0ca70253ad8035b5e6b1e01e", null ],
+    [ "JustSummoned", "de/de2/a22527.html#a8f59e1b093af8c85da8c2fd38e01ca1b", null ],
+    [ "KilledUnit", "de/de2/a22527.html#adf35cb8b039676500d4040baa08b0d48", null ],
+    [ "MoveInLineOfSight", "de/de2/a22527.html#a14baacd30b9186c7492c981313421d5b", null ],
+    [ "Reset", "de/de2/a22527.html#accb21d3c4a6856d2de9641cf84c42ce9", null ],
+    [ "UpdateAI", "de/de2/a22527.html#a7646c4477135d3d3b8580432902babd4", null ],
+    [ "_talked", "de/de2/a22527.html#a15c4f122529b9f52823ea407c43433c5", null ]
 ];

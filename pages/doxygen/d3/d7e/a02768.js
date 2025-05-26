@@ -1,7 +1,7 @@
 var a02768 =
 [
-    [ "npc_cairne_bloodhoof", "d8/d27/a15599.html", "d8/d27/a15599" ],
-    [ "npc_cairne_bloodhoof::npc_cairne_bloodhoofAI", "d6/d2b/a15603.html", "d6/d2b/a15603" ],
+    [ "npc_cairne_bloodhoof", "df/d63/a15611.html", "df/d63/a15611" ],
+    [ "npc_cairne_bloodhoof::npc_cairne_bloodhoofAI", "d7/d5b/a15615.html", "d7/d5b/a15615" ],
     [ "CairneBloodhoof", "d3/d7e/a02768.html#a1d11da63be1309061cba3b5e10f2bbd9", [
       [ "SPELL_BERSERKER_CHARGE", "d3/d7e/a02768.html#a1d11da63be1309061cba3b5e10f2bbd9ae34e5e229d0caf06536a990d65605f66", null ],
       [ "SPELL_CLEAVE", "d3/d7e/a02768.html#a1d11da63be1309061cba3b5e10f2bbd9a0de0a536dbf18ec5c2e76cfee1d751eb", null ],

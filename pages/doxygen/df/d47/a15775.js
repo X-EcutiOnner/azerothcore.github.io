@@ -1,8 +1,7 @@
 var a15775 =
 [
-    [ "instance_ahnkahet_InstanceScript", "df/d47/a15775.html#aa9a72f2f757d0b3065a6e4e25b14e86d", null ],
-    [ "IsAllSpheresActivated", "df/d47/a15775.html#a048a2b16ae9917c7edc9bf7023986ac3", null ],
-    [ "OnGameObjectCreate", "df/d47/a15775.html#ad00fdc90a61e1c927323daa2149f8466", null ],
-    [ "SetData", "df/d47/a15775.html#a8986038a2f25b16b9ab8ba4d41b5221a", null ],
-    [ "taldaramPlatform_GUID", "df/d47/a15775.html#a840ce69595c384be321c1167513d151e", null ]
+    [ "HandleScript", "df/d47/a15775.html#ae9939f2795b8ba428277c7d658af715c", null ],
+    [ "PrepareSpellScript", "df/d47/a15775.html#aabe244008103ff317e3fc1e26b04115a", null ],
+    [ "Register", "df/d47/a15775.html#a4f492bdd96ef190354f37c95217bb696", null ],
+    [ "Validate", "df/d47/a15775.html#a4a3a5e83b66d0ae3f6f95bcead932f55", null ]
 ];

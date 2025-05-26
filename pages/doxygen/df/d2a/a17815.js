@@ -1,6 +1,7 @@
 var a17815 =
 [
-    [ "HandlePeriodic", "df/d2a/a17815.html#a9583ccd7b642694a06bde4b88826ec7b", null ],
-    [ "PrepareAuraScript", "df/d2a/a17815.html#a5d855d79247dff6f949a5e099abb9352", null ],
-    [ "Register", "df/d2a/a17815.html#ae797de0ed29b3ca179c07d759b469228", null ]
+    [ "HandleDummy", "df/d2a/a17815.html#aa61db53d7395fd45b8569e12978fed0b", null ],
+    [ "PrepareSpellScript", "df/d2a/a17815.html#ab63054debe6763027ab52ad122277719", null ],
+    [ "Register", "df/d2a/a17815.html#a6dee5fc9fafd7faa3eadbf9431568dcc", null ],
+    [ "Validate", "df/d2a/a17815.html#adb7e30d10c2071de5d5070b64a10af30", null ]
 ];

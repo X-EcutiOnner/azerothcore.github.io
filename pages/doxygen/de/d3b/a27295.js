@@ -1,8 +1,5 @@
 var a27295 =
 [
-    [ "go_bellsAI", "de/d3b/a27295.html#a6f22847c66a3b5faded35da799359846", null ],
-    [ "UpdateAI", "de/d3b/a27295.html#ab466f67665577f22bfe6cdb94d0a008b", null ],
-    [ "_events", "de/d3b/a27295.html#a46c66442078cee28a76fc412746ca026", null ],
-    [ "_soundId", "de/d3b/a27295.html#ab2491e9d27266ea69a5a9163e8c1b35b", null ],
-    [ "once", "de/d3b/a27295.html#abf6ca2fc64f5764936a6d0179d40c2fa", null ]
+    [ "go_hive_pod", "de/d3b/a27295.html#a7ec01a399e75ff2e64746166d1aa3539", null ],
+    [ "OnGossipHello", "de/d3b/a27295.html#a4cfb09789edf6699444a7d817e4ccc70", null ]
 ];

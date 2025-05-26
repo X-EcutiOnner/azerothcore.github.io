@@ -1,6 +1,7 @@
 var a23251 =
 [
-    [ "HandleScript", "d9/d75/a23251.html#a9451ed26358c77ab4d35781fd8fb4b55", null ],
-    [ "PrepareSpellScript", "d9/d75/a23251.html#ad24e7fa45f35f2cd6071328c60cb2732", null ],
-    [ "Register", "d9/d75/a23251.html#a1bd01e1103d4959a5b3116e178a16a8f", null ]
+    [ "PeriodicTick", "d9/d75/a23251.html#a94bee50f214d0a61fa81c4cca1b38fb2", null ],
+    [ "PrepareAuraScript", "d9/d75/a23251.html#a2c34fbc5c12be43b1c054cf4b23542cb", null ],
+    [ "Register", "d9/d75/a23251.html#ae1479b53d8c0575947a7ce7cae4747c4", null ],
+    [ "Validate", "d9/d75/a23251.html#ade8d57db324f02734e1752f49976dc9d", null ]
 ];

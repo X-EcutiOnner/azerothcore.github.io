@@ -1,6 +1,10 @@
 var a28319 =
 [
-    [ "categoryMask", "d9/ddb/a28319.html#abd8816e5dda7bda455ccd6932647c4be", null ],
-    [ "categoryType", "d9/ddb/a28319.html#a954f9fca8d0d84d5aec66f4a3f642f96", null ],
-    [ "ID", "d9/ddb/a28319.html#a2e0f0cb7a05da77dee49bd7221c01d60", null ]
+    [ "ID", "d9/ddb/a28319.html#a090069d13cbbcc5762ecca600c506492", null ],
+    [ "map_id", "d9/ddb/a28319.html#a685931e2a361f9e0fc81c004c7467d19", null ],
+    [ "MountCreatureID", "d9/ddb/a28319.html#ab59ab7e8b302ac8858bfd67bc10d803f", null ],
+    [ "name", "d9/ddb/a28319.html#ae00db3ea736c3a470f6f0690c178e758", null ],
+    [ "x", "d9/ddb/a28319.html#a7cbd40848094fa367862d653b0f7170d", null ],
+    [ "y", "d9/ddb/a28319.html#a9380befd45cab3104003b2487464bd71", null ],
+    [ "z", "d9/ddb/a28319.html#a2e6ce98f7c96ba1469fca8ff3946404a", null ]
 ];

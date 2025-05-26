@@ -1,7 +1,7 @@
 var a03227 =
 [
-    [ "boss_lavanthor", "db/d69/a21255.html", "db/d69/a21255" ],
-    [ "boss_lavanthor::boss_lavanthorAI", "d3/da9/a21259.html", "d3/da9/a21259" ],
+    [ "boss_lavanthor", "dc/d9b/a21267.html", "dc/d9b/a21267" ],
+    [ "boss_lavanthor::boss_lavanthorAI", "df/de1/a21271.html", "df/de1/a21271" ],
     [ "eEvents", "d3/d1b/a03227.html#a1d3512b0adb171bd0db6aad2c9e70516", [
       [ "EVENT_NULL", "d0/d57/a03380.html#a1d3512b0adb171bd0db6aad2c9e70516afc8e2e36b7d0f732f5f52e0a94155c7a", null ],
       [ "EVENT_CHECK_PLAYERS", "d0/d57/a03380.html#a1d3512b0adb171bd0db6aad2c9e70516a6c1847babeb1b838631eee5b2af3dc2b", null ],

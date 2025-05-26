@@ -1,7 +1,12 @@
 var a24515 =
 [
-    [ "CheckCast", "d9/d5c/a24515.html#ab215bbeea333d250ecbff0482f4f0966", null ],
-    [ "FilterTargets", "d9/d5c/a24515.html#a6ee8387c7fed3fd3042852a2f542c5bd", null ],
-    [ "PrepareSpellScript", "d9/d5c/a24515.html#a83447d184bb2299987d0c54d5af4c910", null ],
-    [ "Register", "d9/d5c/a24515.html#a6107ba00471dd346c363db80fe81b698", null ]
+    [ "CheckTarget", "d9/d5c/a24515.html#a731aa2c0a2b67b8a15cab72ea2cb961a", null ],
+    [ "CheckTargets", "d9/d5c/a24515.html#a3b5bbef0c43a600387235822f3c6dbc7", null ],
+    [ "HandleCorpseExplosion", "d9/d5c/a24515.html#a201de2ee86d0cf954117df0e5343ee69", null ],
+    [ "HandleDamage", "d9/d5c/a24515.html#a810fc65eb5d7160366d63210bad9caea", null ],
+    [ "Load", "d9/d5c/a24515.html#a00b45e2f466de39c95251c2a38f6c3bd", null ],
+    [ "PrepareSpellScript", "d9/d5c/a24515.html#a4cae1673a840d8ec0d727b881a3616cf", null ],
+    [ "Register", "d9/d5c/a24515.html#a9e67ea51300569a0e163cb3e427b086e", null ],
+    [ "Validate", "d9/d5c/a24515.html#a93984e8b831cb4c37ec2726d44532d43", null ],
+    [ "_target", "d9/d5c/a24515.html#a5028b9d3166270b2b0557943e962eade", null ]
 ];

@@ -1,7 +1,8 @@
 var a26627 =
 [
-    [ "HandleProc", "de/df7/a26627.html#a3878044c77e9560bcc7d531d5c119e0f", null ],
-    [ "PrepareAuraScript", "de/df7/a26627.html#a3a496539a6adddca91724d9cc77f81c3", null ],
-    [ "Register", "de/df7/a26627.html#a096f4ecd857cc642ff1d1e5119933921", null ],
-    [ "Validate", "de/df7/a26627.html#a1592084736ebe5b10a343aee4dba8050", null ]
+    [ "CheckFireTotem", "de/df7/a26627.html#a9d6b4368f5c72b95c25415ea87575fce", null ],
+    [ "HandleDummy", "de/df7/a26627.html#a179d07e7090cec396a7845754e545e8e", null ],
+    [ "PrepareSpellScript", "de/df7/a26627.html#a8311cc106da26267e90acd98698cb737", null ],
+    [ "Register", "de/df7/a26627.html#abae5a4961888e6ba2d876e450307e362", null ],
+    [ "Validate", "de/df7/a26627.html#a2048b0e43dbe2df6e4dfc42d912a74a7", null ]
 ];

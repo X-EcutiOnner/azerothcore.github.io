@@ -1,10 +1,8 @@
 var a20943 =
 [
-    [ "npc_ulduar_snow_mound", "d3/d38/a20943.html#a3f66ad92d616050bb67cb1a5e33ffa74", null ],
-    [ "MoveInLineOfSight", "d3/d38/a20943.html#ae5a09062d87aa1c0d446310df2ddd621", null ],
-    [ "UpdateAI", "d3/d38/a20943.html#a9d18fdaf83a2cfeea9b3ac6adbbd2687", null ],
-    [ "_activated", "d3/d38/a20943.html#ac48f6985d857276e0e59c2a429f5b359", null ],
-    [ "_count", "d3/d38/a20943.html#a1856c3bba24842f33720a83e1de40421", null ],
-    [ "_counter", "d3/d38/a20943.html#aca94a744c23b7f9771c728997ba4b8f3", null ],
-    [ "_scheduler", "d3/d38/a20943.html#aafe42af9ba1402cad91326eb1037e476", null ]
+    [ "npc_ulduar_keeperAI", "df/d6d/a20947.html", "df/d6d/a20947" ],
+    [ "npc_ulduar_keeper", "d3/d38/a20943.html#a252b781061a2e21dc961ea94f7120d59", null ],
+    [ "GetAI", "d3/d38/a20943.html#ad0c0f5d3786e3f3b3394a599f3ee6256", null ],
+    [ "OnGossipHello", "d3/d38/a20943.html#a4db12efd22c7d2a5f18144fd16543230", null ],
+    [ "OnGossipSelect", "d3/d38/a20943.html#acf8681577117107d16d45705e4b8463f", null ]
 ];

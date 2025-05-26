@@ -1,6 +1,7 @@
 var a17319 =
 [
-    [ "HandleScript", "d4/ddf/a17319.html#acd11d50f398857dc2a24bd2d63e52222", null ],
-    [ "PrepareSpellScript", "d4/ddf/a17319.html#a3d218b009c195b6e0fab5152a95da8ad", null ],
-    [ "Register", "d4/ddf/a17319.html#ad7f12515dc21ab6b19148370fd491629", null ]
+    [ "OnProc", "d4/ddf/a17319.html#a5b6e96abb900da33657cdbbd137138e3", null ],
+    [ "PrepareAuraScript", "d4/ddf/a17319.html#a5502476536a923e77af67c4bbcf005e3", null ],
+    [ "Register", "d4/ddf/a17319.html#aca08edf219504156d6157c95702bb815", null ],
+    [ "Validate", "d4/ddf/a17319.html#a52b1231f37e8b3d810614365659a98b6", null ]
 ];

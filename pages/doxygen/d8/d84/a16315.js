@@ -1,6 +1,7 @@
 var a16315 =
 [
-    [ "npc_toc_priestAI", "d8/de4/a16319.html", "d8/de4/a16319" ],
-    [ "npc_toc_priest", "d8/d84/a16315.html#a0e360a2cc053434d2f76826683da8eee", null ],
-    [ "GetAI", "d8/d84/a16315.html#a6056a81bef962a02537d525f07d1c302", null ]
+    [ "npc_toc_shamanAI", "d8/d84/a16315.html#abd0b0e503c1bbc48aebb5923ec3f4291", null ],
+    [ "myCanCast", "d8/d84/a16315.html#a993739662d2687c27219853669b8a485", null ],
+    [ "UpdateAI", "d8/d84/a16315.html#a2ad17245685feb3f085ef9a669459c61", null ],
+    [ "events", "d8/d84/a16315.html#ab573ab0ee616348ccdb28b71255ac35d", null ]
 ];

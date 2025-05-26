@@ -1,9 +1,7 @@
 var a24511 =
 [
-    [ "CheckCast", "d7/d10/a24511.html#ad68a099d3167534be3d9978d1fc2b4fe", null ],
-    [ "EntryCheck", "d7/d10/a24511.html#a8e8578447aafeea4a62e028dbe6c7419", null ],
-    [ "HandleBaseDummy", "d7/d10/a24511.html#a8534cc52f42f0598088bf8500dd5e0e5", null ],
-    [ "HandleDummy", "d7/d10/a24511.html#a34d9f5699f306b27830ced2129be506c", null ],
-    [ "PrepareSpellScript", "d7/d10/a24511.html#af7aff878540dd34138aa479f532611b6", null ],
-    [ "Register", "d7/d10/a24511.html#a78321d1589e8d7f7fe8957a4939b6197", null ]
+    [ "CorpseExplosionCheck", "d7/d10/a24511.html#aa8b7957705df1d878f5123ffa31a7fd7", null ],
+    [ "operator()", "d7/d10/a24511.html#aeab379880a8d912d6d0f7b41639edbd4", null ],
+    [ "_allowGhoul", "d7/d10/a24511.html#abd42a0731af969ceccdfceae722ba276", null ],
+    [ "_casterGUID", "d7/d10/a24511.html#a497df87745f452716c652e9b1be6d46f", null ]
 ];

@@ -1,8 +1,6 @@
 var a13087 =
 [
-    [ "CalcPeriodic", "d4/d12/a13087.html#a9aaca3bb1d762c9bddf3b91205f48d00", null ],
-    [ "HandleDummyTick", "d4/d12/a13087.html#acd3616df94f888ad5fb1c5b0607f6f25", null ],
-    [ "HandleUpdatePeriodic", "d4/d12/a13087.html#a70ef86fd58eec1422bac6b61a4123842", null ],
-    [ "PrepareAuraScript", "d4/d12/a13087.html#a9a97a6ab249728dbad4d3603640a7963", null ],
-    [ "Register", "d4/d12/a13087.html#ab6b223ed68a521ea9a3cbc2a6e21ac49", null ]
+    [ "instance_shadowfang_keep_InstanceMapScript", "dd/d05/a13091.html", "dd/d05/a13091" ],
+    [ "instance_shadowfang_keep", "d4/d12/a13087.html#aa6817df7270fbf9397c6b66b28d0f6f8", null ],
+    [ "GetInstanceScript", "d4/d12/a13087.html#a5c076ed86470247de5b4e3733b70fa25", null ]
 ];

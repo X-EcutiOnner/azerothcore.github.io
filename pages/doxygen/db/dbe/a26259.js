@@ -1,5 +1,7 @@
 var a26259 =
 [
-    [ "PrepareSpellScript", "db/dbe/a26259.html#aa2d9d885e55c1685c2ce9cbc5b4d4279", null ],
-    [ "Register", "db/dbe/a26259.html#a721430db1738b255f114483bdddef5e2", null ]
+    [ "CheckTarget", "db/dbe/a26259.html#abaef73201d2e0bd1d6789309442019e0", null ],
+    [ "HandleScriptEffect", "db/dbe/a26259.html#a545196cd976bfabbd85ba48942012e1e", null ],
+    [ "PrepareSpellScript", "db/dbe/a26259.html#add5c1ecaa5a75af6e91a0df5d63bbc42", null ],
+    [ "Register", "db/dbe/a26259.html#a36563a197b7377660b7c3f9e85d478bd", null ]
 ];

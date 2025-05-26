@@ -1,6 +1,8 @@
 var a13391 =
 [
-    [ "instance_the_stockade_InstanceMapScript", "da/d2b/a13395.html", "da/d2b/a13395" ],
-    [ "instance_the_stockade", "d7/d83/a13391.html#a533049c10a72da4b94f9807017f28c0d", null ],
-    [ "GetInstanceScript", "d7/d83/a13391.html#a7a5a4adcd71ae5d22e6729a2d11d68d3", null ]
+    [ "npc_sunblade_arch_mage", "d7/d83/a13391.html#a25cc45033c55f1099b50eab4b4f497ee", null ],
+    [ "JustEngagedWith", "d7/d83/a13391.html#aadeae32d691229b7b7b531175b8a5018", null ],
+    [ "Reset", "d7/d83/a13391.html#a0d0349ea507b1f8431014c55eef5ce0e", null ],
+    [ "UpdateAI", "d7/d83/a13391.html#a3289fbad5f987a3d5d9986a31a1c442f", null ],
+    [ "scheduler", "d7/d83/a13391.html#aa6680f06651316996868907b1d28126c", null ]
 ];

@@ -1,7 +1,9 @@
 var a17599 =
 [
-    [ "FilterTargets", "db/d8c/a17599.html#a77afd0b56c9bddd74999d5df30457b7f", null ],
-    [ "HandleDummy", "db/d8c/a17599.html#a04166e4e5a4ba082755433555855cb30", null ],
-    [ "PrepareSpellScript", "db/d8c/a17599.html#aaefa58014db12fb76e3416ae807c69e8", null ],
-    [ "Register", "db/d8c/a17599.html#a497ee30669d45341023abe549c91ddaf", null ]
+    [ "CalculatePower", "db/d8c/a17599.html#a66acc23548f88c31e9fe45db76af2bcc", null ],
+    [ "Load", "db/d8c/a17599.html#a820032e169929fd9969ecf1ee2c7f1be", null ],
+    [ "PrepareSpellScript", "db/d8c/a17599.html#a49489a8e4e39735efa560f53236dfc2c", null ],
+    [ "PreventPowerGainOnHit", "db/d8c/a17599.html#a5eebe6f82a6d7306d6e232b755531939", null ],
+    [ "Register", "db/d8c/a17599.html#a67b59c096848adaad5566cbc2140da59", null ],
+    [ "Validate", "db/d8c/a17599.html#a355500a6f3bfed084030738041d0e3b9", null ]
 ];

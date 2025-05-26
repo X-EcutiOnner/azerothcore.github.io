@@ -1,5 +1,6 @@
 var a14387 =
 [
-    [ "PrepareSpellScript", "d0/d27/a14387.html#af219083d127afe24b2541a95bfd449ff", null ],
-    [ "Register", "d0/d27/a14387.html#a03f7ac8d5968970f769191c7df7f5899", null ]
+    [ "OnApply", "d0/d27/a14387.html#a30d33268b58507c228a4628031bffca0", null ],
+    [ "PrepareAuraScript", "d0/d27/a14387.html#a16dc3f52152d63b5512690c761f9915a", null ],
+    [ "Register", "d0/d27/a14387.html#a6494e4d7277e910ffa3b30c333117f00", null ]
 ];

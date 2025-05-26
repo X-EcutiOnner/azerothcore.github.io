@@ -1,6 +1,7 @@
 var a20391 =
 [
-    [ "npc_ulduar_flames_initialAI", "d9/d4f/a20395.html", "d9/d4f/a20395" ],
-    [ "npc_ulduar_flames_initial", "d5/d37/a20391.html#aee0c62a38e3e0958e015faef2c434273", null ],
-    [ "GetAI", "d5/d37/a20391.html#ac0db78c361324a594220ad644001f4eb", null ]
+    [ "HandleEffectPeriodic", "d5/d37/a20391.html#a0fc0cf6cd635249a10aefd284d9ae789", null ],
+    [ "PrepareAuraScript", "d5/d37/a20391.html#af432e810a46e35f95bb0b3b2eaada132", null ],
+    [ "Register", "d5/d37/a20391.html#a41c3846c03ce1e37fc6858a676f61c48", null ],
+    [ "Validate", "d5/d37/a20391.html#ac8e9521a6b8ab9a4642361085dbe517d", null ]
 ];

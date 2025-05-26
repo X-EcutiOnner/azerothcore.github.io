@@ -1,6 +1,7 @@
 var a20463 =
 [
-    [ "npc_ulduar_expedition_engineerAI", "d7/d78/a20467.html", "d7/d78/a20467" ],
-    [ "npc_ulduar_expedition_engineer", "da/d19/a20463.html#a1ff99e62b9c2222d8c08e71bfda600ea", null ],
-    [ "GetAI", "da/d19/a20463.html#a6f1beaab42e42981e152db920e516616", null ]
+    [ "npc_ulduar_expedition_commanderAI", "da/d19/a20463.html#a100678bddd6a0e859c72035d4642d8e2", null ],
+    [ "MoveInLineOfSight", "da/d19/a20463.html#a870bdc842d8d7078302a36a20ef661e4", null ],
+    [ "_instance", "da/d19/a20463.html#a64d925b08f3f0ae59f5053121dbc495c", null ],
+    [ "_introSpoken", "da/d19/a20463.html#ac6784a66111406f917ae4d07dbeb60a4", null ]
 ];

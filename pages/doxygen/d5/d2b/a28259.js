@@ -1,7 +1,5 @@
 var a28259 =
 [
-    [ "Flags", "d5/d2b/a28259.html#a12b3cb0e28ed0f47ff5ccea09fc8b860", null ],
-    [ "ID", "d5/d2b/a28259.html#ab6ccf4a64672a6ade01f59cdeeeb85cb", null ],
-    [ "RangeMax", "d5/d2b/a28259.html#a9691134e5cb1e15e3c93ea05a653975d", null ],
-    [ "RangeMin", "d5/d2b/a28259.html#a127a46f2382edea750ca567d5ea3d304", null ]
+    [ "Flags", "d5/d2b/a28259.html#a0cb97c73af91dcfdd151c38aa46828cc", null ],
+    [ "Id", "d5/d2b/a28259.html#a85e0e36dbc79f309d7f50b087ebcd166", null ]
 ];

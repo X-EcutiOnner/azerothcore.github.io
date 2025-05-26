@@ -1,8 +1,7 @@
 var a24523 =
 [
-    [ "HandleDamage", "de/d98/a24523.html#a2c5149eb0b6698240c25b63e71af0854", null ],
-    [ "PrepareSpellScript", "de/d98/a24523.html#a8a19b594de9ba23a59e22db7d05eb60d", null ],
-    [ "Register", "de/d98/a24523.html#ad29179d9159700b52b0c21a779cd060b", null ],
-    [ "Suicide", "de/d98/a24523.html#a981f8547eae9b317111bf9a7016510ab", null ],
-    [ "Validate", "de/d98/a24523.html#aa2c3399146b15f754e073e4fa08f3d5a", null ]
+    [ "CheckClass", "de/d98/a24523.html#a931d7a6aa2f1b574c225d3e803edbab4", null ],
+    [ "HandleScript", "de/d98/a24523.html#a4f4f7004be5629efdc48b52b6667edba", null ],
+    [ "PrepareSpellScript", "de/d98/a24523.html#a599ce758681c5196bd40e4c7b86635cc", null ],
+    [ "Register", "de/d98/a24523.html#ab184b23aa446c826db39928eb3ff3ecc", null ]
 ];

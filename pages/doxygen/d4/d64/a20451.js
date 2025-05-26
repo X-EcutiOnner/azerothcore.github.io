@@ -1,7 +1,6 @@
 var a20451 =
 [
-    [ "npc_ulduar_expedition_commanderAI", "d4/d64/a20451.html#a100678bddd6a0e859c72035d4642d8e2", null ],
-    [ "MoveInLineOfSight", "d4/d64/a20451.html#a870bdc842d8d7078302a36a20ef661e4", null ],
-    [ "_instance", "d4/d64/a20451.html#a64d925b08f3f0ae59f5053121dbc495c", null ],
-    [ "_introSpoken", "d4/d64/a20451.html#ac6784a66111406f917ae4d07dbeb60a4", null ]
+    [ "boss_razorscaleAI", "d7/ddd/a20455.html", "d7/ddd/a20455" ],
+    [ "boss_razorscale", "d4/d64/a20451.html#ad8fe81f1b553414df3fa07c646029065", null ],
+    [ "GetAI", "d4/d64/a20451.html#a01cf25d901a5eddae9ef3ea291020ba1", null ]
 ];

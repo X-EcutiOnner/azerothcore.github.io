@@ -1,6 +1,7 @@
 var a13011 =
 [
-    [ "instance_scholomance_InstanceMapScript", "d2/d83/a13015.html", "d2/d83/a13015" ],
-    [ "instance_scholomance", "db/d85/a13011.html#ace7a781c45623419daad6143480d8fe2", null ],
-    [ "GetInstanceScript", "db/d85/a13011.html#a9e2030e41154c92dbe45d7895ddf37b8", null ]
+    [ "HandleScript", "db/d85/a13011.html#a6ce169d6c1b106195f787b52ea433311", null ],
+    [ "PrepareSpellScript", "db/d85/a13011.html#a4f71583df2193274365944e6d228247c", null ],
+    [ "Register", "db/d85/a13011.html#aad8978dc0505d1fb80e2416f5525cbc7", null ],
+    [ "Validate", "db/d85/a13011.html#a51025308f88001f1f66d7f68f174f325", null ]
 ];

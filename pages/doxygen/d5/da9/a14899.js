@@ -1,7 +1,9 @@
 var a14899 =
 [
-    [ "go_sand_trap", "d5/da9/a14899.html#a58d45acac672cb05988ddca78185b469", null ],
-    [ "Reset", "d5/da9/a14899.html#a7071a3e420e9137ca133b471bc217bf3", null ],
-    [ "UpdateAI", "d5/da9/a14899.html#a2e4a5fec4d4c790233ca97e6a7732ac4", null ],
-    [ "_scheduler", "d5/da9/a14899.html#af845c0efb3d8ebe53d3620970a84f1e4", null ]
+    [ "npc_buru_egg", "d5/da9/a14899.html#a6aa2896342b802caecde1c1dffcf4907", null ],
+    [ "JustDied", "d5/da9/a14899.html#a3de169b252374f0b2daed3ecb5a11502", null ],
+    [ "JustEngagedWith", "d5/da9/a14899.html#a8cde6848569671876a17b00d75228ebe", null ],
+    [ "JustSummoned", "d5/da9/a14899.html#abebb96dcb3d653bddd4210da6567fb87", null ],
+    [ "UpdateAI", "d5/da9/a14899.html#a4d77f8b40ea8e936c9388aeff4927420", null ],
+    [ "_instance", "d5/da9/a14899.html#a5b168226755a57368f17827e3457a0ca", null ]
 ];

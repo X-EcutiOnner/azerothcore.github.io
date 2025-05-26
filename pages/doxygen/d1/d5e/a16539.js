@@ -1,7 +1,9 @@
 var a16539 =
 [
-    [ "HandleEffectPeriodic", "d1/d5e/a16539.html#ae8121dcb796f3ee496c24bbd46651f81", null ],
-    [ "PrepareAuraScript", "d1/d5e/a16539.html#af84222492b3209c97695895c4c991f4a", null ],
-    [ "Register", "d1/d5e/a16539.html#a4d1741913631bb649508ef238e25a6c8", null ],
-    [ "Validate", "d1/d5e/a16539.html#ac9b7fd3876620988cc74aa0a5202e599", null ]
+    [ "npc_concentrated_ballAI", "d1/d5e/a16539.html#a5aae1554934d8e2aaa59d420a13517b6", null ],
+    [ "DoAction", "d1/d5e/a16539.html#ad3284ed37cdc503a688aa6fb2537387e", null ],
+    [ "MovementInform", "d1/d5e/a16539.html#a07845a436ded9c799b742ac9e27cc1bd", null ],
+    [ "MoveToNextPoint", "d1/d5e/a16539.html#a89d2697d5ccf6d783e973efc3b4669aa", null ],
+    [ "UpdateAI", "d1/d5e/a16539.html#a6509ff14639bca29b6877db54102d004", null ],
+    [ "despawning", "d1/d5e/a16539.html#a24145c6c4c38b5a1853647d24871090d", null ]
 ];

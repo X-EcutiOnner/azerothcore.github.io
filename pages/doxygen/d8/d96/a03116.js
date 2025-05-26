@@ -1,6 +1,6 @@
 var a03116 =
 [
-    [ "boss_ingvar_the_plunderer", "dd/d3a/a20975.html", "dd/d3a/a20975" ],
+    [ "boss_ingvar_the_plunderer", "da/d0e/a20987.html", "da/d0e/a20987" ],
     [ "SPELL_DREADFUL_ROAR", "d8/d96/a03116.html#ac1e0e2698ab0ecb24bebdfa4c7ff14ca", null ],
     [ "SPELL_ENRAGE", "d8/d96/a03116.html#a101191d5841177786224ce21dc4ee986", null ],
     [ "SPELL_SMASH", "d8/d96/a03116.html#a29597657a2021b4ce69510ef57e5c532", null ],

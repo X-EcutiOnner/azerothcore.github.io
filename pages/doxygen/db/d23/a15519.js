@@ -1,9 +1,6 @@
 var a15519 =
 [
-    [ "npc_custodian_of_timeAI", "db/d23/a15519.html#a2434afcda3bc5681a124bdb1a2c8d56f", null ],
-    [ "JustEngagedWith", "db/d23/a15519.html#a3b12c06566b0c1d567b6edd8b57b8332", null ],
-    [ "MoveInLineOfSight", "db/d23/a15519.html#a97b21c4ecc89e4ddd5aef4dab30a7ecf", null ],
-    [ "Reset", "db/d23/a15519.html#a56bcc694ac286488ed4b3f2328c30573", null ],
-    [ "UpdateAI", "db/d23/a15519.html#a4b43c5f6eaf70fc93dcb18c183e456dc", null ],
-    [ "WaypointReached", "db/d23/a15519.html#a963736e62fbd0caea631ee3fb69fca46", null ]
+    [ "npc_aquementasAI", "d0/d99/a15523.html", "d0/d99/a15523" ],
+    [ "npc_aquementas", "db/d23/a15519.html#a81d0b010c2aef0ea329ff7656b76cbe5", null ],
+    [ "GetAI", "db/d23/a15519.html#a8a071b3073d69306feb84aca347a22c8", null ]
 ];

@@ -1,6 +1,7 @@
 var a24735 =
 [
-    [ "HandleScript", "de/d43/a24735.html#a7bf5f9d28a916704bd1ece8acc64fe59", null ],
-    [ "PrepareSpellScript", "de/d43/a24735.html#ab9193654a0534dc82c4c93a3158f3f7a", null ],
-    [ "Register", "de/d43/a24735.html#a0f0360e8b2db795046c3b76e6db0a97e", null ]
+    [ "FilterTargets", "de/d43/a24735.html#a9abf4baaba572636dba3980e5ae777c5", null ],
+    [ "Load", "de/d43/a24735.html#a812e4e461c0ebed6f7c4cc36e88a3367", null ],
+    [ "PrepareSpellScript", "de/d43/a24735.html#a4e98fbf669c030263ed2e5759a5bd6e8", null ],
+    [ "Register", "de/d43/a24735.html#a2d72f5771d6563260a6e81122e4a2be5", null ]
 ];

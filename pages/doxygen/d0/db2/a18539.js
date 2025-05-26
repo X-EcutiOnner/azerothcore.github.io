@@ -1,6 +1,6 @@
 var a18539 =
 [
-    [ "npc_captain_arnathAI", "d2/dda/a18543.html", "d2/dda/a18543" ],
-    [ "npc_captain_arnath", "d0/db2/a18539.html#ab96afce64a7714ea84bab932f80c9302", null ],
-    [ "GetAI", "d0/db2/a18539.html#a302ec007389e677011334d78f410207b", null ]
+    [ "boss_sister_svalnaAI", "d2/dda/a18543.html", "d2/dda/a18543" ],
+    [ "boss_sister_svalna", "d0/db2/a18539.html#a233a9606db61f6ab945350e98a0929ff", null ],
+    [ "GetAI", "d0/db2/a18539.html#a5eb89badd75104dfe1dc3e03d372adc0", null ]
 ];

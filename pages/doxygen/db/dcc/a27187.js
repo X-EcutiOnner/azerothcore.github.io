@@ -1,7 +1,6 @@
 var a27187 =
 [
-    [ "go_pirate_day_musicAI", "db/dcc/a27187.html#a1abe263949b7a07e5143779efcddc7eb", null ],
-    [ "UpdateAI", "db/dcc/a27187.html#a5373bb46c866df31a3827ceb8ee4ef9b", null ],
-    [ "_events", "db/dcc/a27187.html#a233ae55a05876c665455b106ef50d57e", null ],
-    [ "rnd", "db/dcc/a27187.html#ad0ced4b4f569b91b5dde4ad93a298568", null ]
+    [ "go_l70_etc_musicAI", "db/dcc/a27187.html#a1709414fc40d48ac7c13eb8251dfbb26", null ],
+    [ "UpdateAI", "db/dcc/a27187.html#a182a5a9bbe53ced25740de9a4a368469", null ],
+    [ "_events", "db/dcc/a27187.html#aa0cda672b4491b3cfc75214038aa2132", null ]
 ];

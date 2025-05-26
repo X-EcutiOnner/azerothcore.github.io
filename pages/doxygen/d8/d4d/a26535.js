@@ -1,6 +1,7 @@
 var a26535 =
 [
-    [ "CheckCast", "d8/d4d/a26535.html#a97f479cccecc6f37c75b47122b47e333", null ],
-    [ "PrepareSpellScript", "d8/d4d/a26535.html#a7033ad7dbdab5eec532ea6f860f97427", null ],
-    [ "Register", "d8/d4d/a26535.html#a4c8f84e1a2cc89064ec5963321fecce7", null ]
+    [ "CalculateAmount", "d8/d4d/a26535.html#aefeab4e58c1b5c1be87f583256d366f5", null ],
+    [ "Load", "d8/d4d/a26535.html#ae2ef0eae77137c120ec61af8698677db", null ],
+    [ "PrepareAuraScript", "d8/d4d/a26535.html#acaecc78c031aa436f432fd7145478de4", null ],
+    [ "Register", "d8/d4d/a26535.html#afd27c8bc5fd1628b7e32bf464bfe3d48", null ]
 ];

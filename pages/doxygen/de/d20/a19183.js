@@ -1,8 +1,6 @@
 var a19183 =
 [
-    [ "npc_alexstraszaAI", "de/d20/a19183.html#a36cf63109e379fa4a9e3f3426d70e50c", null ],
-    [ "AttackStart", "de/d20/a19183.html#a120931695bf3ea649289ee4f6df9a3fd", null ],
-    [ "MoveInLineOfSight", "de/d20/a19183.html#af93fc8e8877cc5730db7a9386ac3d815", null ],
-    [ "UpdateAI", "de/d20/a19183.html#aa8cc3ee1a2a4702349b39708cc172594", null ],
-    [ "events", "de/d20/a19183.html#aade88413d2f2998be6dcb9d15bf85ce0", null ]
+    [ "npc_hover_diskAI", "db/dc4/a19187.html", "db/dc4/a19187" ],
+    [ "npc_hover_disk", "de/d20/a19183.html#af0ab534387a2af4e168915801ee855e5", null ],
+    [ "GetAI", "de/d20/a19183.html#adbe9285126089ca998e9b6360f42c553", null ]
 ];

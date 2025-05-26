@@ -1,6 +1,10 @@
 var a20955 =
 [
-    [ "npc_ulduar_arachnopod_destroyerAI", "d6/d4a/a20959.html", "d6/d4a/a20959" ],
-    [ "npc_ulduar_arachnopod_destroyer", "db/df7/a20955.html#aec69c3c143ec27734dd3f2d8db0da9fd", null ],
-    [ "GetAI", "db/df7/a20955.html#ad667e7bacc181e79cb002181c71aac7c", null ]
+    [ "npc_ulduar_snow_mound", "db/df7/a20955.html#a3f66ad92d616050bb67cb1a5e33ffa74", null ],
+    [ "MoveInLineOfSight", "db/df7/a20955.html#ae5a09062d87aa1c0d446310df2ddd621", null ],
+    [ "UpdateAI", "db/df7/a20955.html#a9d18fdaf83a2cfeea9b3ac6adbbd2687", null ],
+    [ "_activated", "db/df7/a20955.html#ac48f6985d857276e0e59c2a429f5b359", null ],
+    [ "_count", "db/df7/a20955.html#a1856c3bba24842f33720a83e1de40421", null ],
+    [ "_counter", "db/df7/a20955.html#aca94a744c23b7f9771c728997ba4b8f3", null ],
+    [ "_scheduler", "db/df7/a20955.html#aafe42af9ba1402cad91326eb1037e476", null ]
 ];

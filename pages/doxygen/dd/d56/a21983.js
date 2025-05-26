@@ -1,6 +1,6 @@
 var a21983 =
 [
-    [ "npc_boneguard_footmanAI", "dd/d56/a21983.html#a04eff1976824724b321f0c0d95e0940a", null ],
-    [ "UpdateAI", "dd/d56/a21983.html#a9cba65867824daeb50cb2b39d68ad84b", null ],
-    [ "checkTimer", "dd/d56/a21983.html#a46dd1fa8d111dca0584a8e6fb7a6a566", null ]
+    [ "npc_lord_areteAI", "d3/d49/a21987.html", "d3/d49/a21987" ],
+    [ "npc_lord_arete", "dd/d56/a21983.html#a929e3f3346bf4dbaee127463eaf4ffcc", null ],
+    [ "GetAI", "dd/d56/a21983.html#a212d003e9acb5f141197b5c4d10163a4", null ]
 ];

@@ -1,8 +1,8 @@
 var a02942 =
 [
-    [ "npc_hivezara_stinger", "d3/d36/a14959.html", "d3/d36/a14959" ],
-    [ "npc_obsidian_destroyer", "d5/dc8/a14963.html", "d5/dc8/a14963" ],
-    [ "spell_drain_mana", "dc/dee/a14967.html", "dc/dee/a14967" ],
+    [ "npc_hivezara_stinger", "d4/d4b/a14971.html", "d4/d4b/a14971" ],
+    [ "npc_obsidian_destroyer", "d2/df8/a14975.html", "d2/df8/a14975" ],
+    [ "spell_drain_mana", "d9/d7f/a14979.html", "d9/d7f/a14979" ],
     [ "Spells", "d3/d99/a02942.html#a5bd342133be8c2137b831460acc9298c", [
       [ "SPELL_OIL_REFINERY", "df/d95/a00299.html#a5bd342133be8c2137b831460acc9298cae2eb4db3c46b45e80cc2feb9c34f2ada", null ],
       [ "SPELL_QUARRY", "df/d95/a00299.html#a5bd342133be8c2137b831460acc9298ca5a0922923b24c4bb6661ad8396a76e01", null ],

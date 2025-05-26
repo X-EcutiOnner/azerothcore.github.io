@@ -1,8 +1,7 @@
 var a21967 =
 [
-    [ "npc_llod_genericAI", "dd/dcd/a21967.html#ac75d85ae4b59416952788102cd1db132", null ],
-    [ "Reset", "dd/dcd/a21967.html#a15bd7442fef36a551cc8797f7919f57c", null ],
-    [ "UpdateAI", "dd/dcd/a21967.html#aa7dce553fb699127f63281b2c47a2f02", null ],
-    [ "attackTimer", "dd/dcd/a21967.html#a28a6e700d24995e477e7e7c4cc8b5d68", null ],
-    [ "summonTimer", "dd/dcd/a21967.html#aeeeef545aee565c14d86d8587923c677", null ]
+    [ "npc_battle_at_valhalasAI", "d7/d84/a21971.html", "d7/d84/a21971" ],
+    [ "npc_battle_at_valhalas", "dd/dcd/a21967.html#aacec717b5b91ae55307c9642779c15ec", null ],
+    [ "GetAI", "dd/dcd/a21967.html#a3660ba847b3b40c2d358d63c63517a5e", null ],
+    [ "OnQuestAccept", "dd/dcd/a21967.html#addd76fd9f4b4f8ce706693614b80966b", null ]
 ];

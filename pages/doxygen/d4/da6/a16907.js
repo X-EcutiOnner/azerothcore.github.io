@@ -1,6 +1,6 @@
 var a16907 =
 [
-    [ "boss_ickAI", "d3/daa/a16911.html", "d3/daa/a16911" ],
-    [ "boss_ick", "d4/da6/a16907.html#af97d7f96bc48ba245e28c18614b9369e", null ],
-    [ "GetAI", "d4/da6/a16907.html#a355285766712a31b704c23fe85d19e5f", null ]
+    [ "boss_garfrostAI", "d3/daa/a16911.html", "d3/daa/a16911" ],
+    [ "boss_garfrost", "d4/da6/a16907.html#ac116491cf252ee476cedee55ea292827", null ],
+    [ "GetAI", "d4/da6/a16907.html#a8a67bb09249655a8706868bb26b5124d", null ]
 ];

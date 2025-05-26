@@ -1,6 +1,7 @@
 var a18183 =
 [
-    [ "npc_icc_ice_sphereAI", "d5/dba/a18187.html", "d5/dba/a18187" ],
-    [ "npc_icc_ice_sphere", "d0/dd0/a18183.html#a4ed169ba87e801bb83ca4f3c457534cf", null ],
-    [ "GetAI", "d0/dd0/a18183.html#aabb9ef14ea217f282173edf1600d3ecd", null ]
+    [ "OnRemove", "d0/dd0/a18183.html#a106935d92ef6ba7909c57264e26b5522", null ],
+    [ "PrepareAuraScript", "d0/dd0/a18183.html#a8ce8f5d4ebd4279fdfd192ba3b01b894", null ],
+    [ "Register", "d0/dd0/a18183.html#a095e7530a0f2e7a76dc8bd3f75759089", null ],
+    [ "Validate", "d0/dd0/a18183.html#a0b4283bdb19a4ceef505aab41c99abe8", null ]
 ];

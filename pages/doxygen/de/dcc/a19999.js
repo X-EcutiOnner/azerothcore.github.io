@@ -1,6 +1,7 @@
 var a19999 =
 [
-    [ "boss_freya_summonsAI", "dc/d45/a20003.html", "dc/d45/a20003" ],
-    [ "boss_freya_summons", "de/dcc/a19999.html#a3445ed89967cc9a610472f18e862ecd4", null ],
-    [ "GetAI", "de/dcc/a19999.html#ac68f231c37c61d262d6c16bc87a0f1c7", null ]
+    [ "boss_freya_lifebinderAI", "de/dcc/a19999.html#ae421aa209690e4a2908995b6b7d322cd", null ],
+    [ "Reset", "de/dcc/a19999.html#a972bd7d390d444e0ea2bc513d5d3816a", null ],
+    [ "UpdateAI", "de/dcc/a19999.html#afb06c217c1012d6463e44689359eada9", null ],
+    [ "_healTimer", "de/dcc/a19999.html#a7021d13dceb9af343f0e820cf086046e", null ]
 ];

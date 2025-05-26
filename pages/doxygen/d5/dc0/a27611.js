@@ -1,5 +1,7 @@
 var a27611 =
 [
-    [ "npc_suns_reach_reclamation", "d5/dc0/a27611.html#aa66b75aa1a4a96a97c4d2c4e42e3d6bb", null ],
-    [ "OnQuestReward", "d5/dc0/a27611.html#a459e53b21778cf901cbbb15c9f6e5cdd", null ]
+    [ "npc_crashin_thrashin_robot", "d5/dc0/a27611.html#ad21336d212498b1c9ef5d46979d147ab", null ],
+    [ "IsSummonedBy", "d5/dc0/a27611.html#a0652cd455791461f613ab4ebf77d2c3c", null ],
+    [ "UpdateAI", "d5/dc0/a27611.html#a1d21cd2075f3aeba2c7f1e735a33dfec", null ],
+    [ "_scheduler", "d5/dc0/a27611.html#a55778501d154d0a9e77f76054e926f85", null ]
 ];

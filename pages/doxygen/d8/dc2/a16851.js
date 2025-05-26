@@ -1,8 +1,7 @@
 var a16851 =
 [
-    [ "npc_hor_raging_ghoulAI", "d8/dc2/a16851.html#ac4b2b3acf8a7acda73c7158f1565a274", null ],
-    [ "JustDied", "d8/dc2/a16851.html#a70e581c9b3f7d88d497c1540ac9ca04c", null ],
-    [ "Reset", "d8/dc2/a16851.html#aa52576d94e230797209dfc938d62187f", null ],
-    [ "UpdateAI", "d8/dc2/a16851.html#ac7c8571eac32f722a5fb0c28092b7e8f", null ],
-    [ "leaped", "d8/dc2/a16851.html#a12f6e6d5911b2b8b9caa01a9a83570bc", null ]
+    [ "npc_hor_leader_secondAI", "da/d70/a16855.html", "da/d70/a16855" ],
+    [ "npc_hor_leader_second", "d8/dc2/a16851.html#a9fa1f38ab8a0b5d2207857b75e272ee0", null ],
+    [ "GetAI", "d8/dc2/a16851.html#af5b97ecca35501a75658919d384a18f7", null ],
+    [ "OnGossipSelect", "d8/dc2/a16851.html#a8355f7f2f8e7655c7ebc7145a847ab87", null ]
 ];

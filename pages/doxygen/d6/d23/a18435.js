@@ -1,6 +1,8 @@
 var a18435 =
 [
-    [ "npc_gluttonous_abominationAI", "dd/d02/a18439.html", "dd/d02/a18439" ],
-    [ "npc_gluttonous_abomination", "d6/d23/a18435.html#a895d1afcfc62bcaac6cc0d20465f1e7a", null ],
-    [ "GetAI", "d6/d23/a18435.html#aedbd808da5e8ea0e2111e78be9d846ce", null ]
+    [ "npc_suppresserAI", "d6/d23/a18435.html#a5787ec6eadae1fc23b84129933ea14e8", null ],
+    [ "AttackStart", "d6/d23/a18435.html#ae36105de1df1dd9841332d9a8e7799be", null ],
+    [ "IsSummonedBy", "d6/d23/a18435.html#a35ec340b2d02a14707fc353428b1298d", null ],
+    [ "UpdateAI", "d6/d23/a18435.html#a1443e8311b6e2d61d6f9abd2e5f40793", null ],
+    [ "_instance", "d6/d23/a18435.html#a3e171216b2d53e00f8e504f47759d9a6", null ]
 ];

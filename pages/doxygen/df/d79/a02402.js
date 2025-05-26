@@ -1,12 +1,12 @@
 var a02402 =
 [
-    [ "boss_gruul", "d9/d96/a23379.html", "d9/d96/a23379" ],
-    [ "npc_invisible_tractor_beam_source", "d2/d4f/a23383.html", "d2/d4f/a23383" ],
-    [ "spell_gruul_ground_slam", "d1/d9d/a23387.html", "d1/d9d/a23387" ],
-    [ "spell_tractor_beam_creator", "db/d41/a23391.html", "db/d41/a23391" ],
-    [ "spell_gruul_ground_slam_trigger", "d0/d23/a23395.html", "d0/d23/a23395" ],
-    [ "spell_gruul_shatter", "d1/d9d/a23399.html", "d1/d9d/a23399" ],
-    [ "spell_gruul_shatter_effect", "d3/d34/a23403.html", "d3/d34/a23403" ],
+    [ "boss_gruul", "d0/d23/a23395.html", "d0/d23/a23395" ],
+    [ "npc_invisible_tractor_beam_source", "d1/d9d/a23399.html", "d1/d9d/a23399" ],
+    [ "spell_gruul_ground_slam", "d3/d34/a23403.html", "d3/d34/a23403" ],
+    [ "spell_tractor_beam_creator", "dd/d71/a23407.html", "dd/d71/a23407" ],
+    [ "spell_gruul_ground_slam_trigger", "d3/d70/a23411.html", "d3/d70/a23411" ],
+    [ "spell_gruul_shatter", "d1/d8f/a23415.html", "d1/d8f/a23415" ],
+    [ "spell_gruul_shatter_effect", "df/dc6/a23419.html", "df/dc6/a23419" ],
     [ "Spells", "df/d79/a02402.html#a5bd342133be8c2137b831460acc9298c", [
       [ "SPELL_OIL_REFINERY", "df/d95/a00299.html#a5bd342133be8c2137b831460acc9298cae2eb4db3c46b45e80cc2feb9c34f2ada", null ],
       [ "SPELL_QUARRY", "df/d95/a00299.html#a5bd342133be8c2137b831460acc9298ca5a0922923b24c4bb6661ad8396a76e01", null ],

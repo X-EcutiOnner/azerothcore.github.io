@@ -1,6 +1,7 @@
 var a13655 =
 [
-    [ "npc_lady_sylvanas_windrunner_bfuAI", "dd/dd9/a13659.html", "dd/dd9/a13659" ],
-    [ "npc_lady_sylvanas_windrunner_bfu", "d5/d78/a13655.html#a77e98bc345f7d27f145d4b29c4deb58e", null ],
-    [ "GetAI", "d5/d78/a13655.html#a94fdd0778818fcc6a8b818d38dde6f75", null ]
+    [ "HandleScript", "d5/d78/a13655.html#acd4373ab762d00d262984c36190d6f93", null ],
+    [ "PrepareSpellScript", "d5/d78/a13655.html#a113216b272d0386f248a75bfcf30c6a3", null ],
+    [ "Register", "d5/d78/a13655.html#abbf65c0cabb06141a5856210f5ce5ab8", null ],
+    [ "Validate", "d5/d78/a13655.html#a5746fd6257dd10be58a61e0e8a2403be", null ]
 ];

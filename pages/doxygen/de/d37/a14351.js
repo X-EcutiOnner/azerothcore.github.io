@@ -1,8 +1,7 @@
 var a14351 =
 [
-    [ "OnApply", "de/d37/a14351.html#aa38abcc9fa49fc2c397edbfff2c0ea0d", null ],
-    [ "OnRemove", "de/d37/a14351.html#a64018d24a33565e615c6c2d3eb4810f8", null ],
-    [ "PrepareAuraScript", "de/d37/a14351.html#acb57b284b9d9116b6b0c0a758e09a8d5", null ],
-    [ "Register", "de/d37/a14351.html#a9cd1e664cb6ccec5dc897b586203faf1", null ],
-    [ "Validate", "de/d37/a14351.html#a77ed6196af0fcf75c6d1071e236f6210", null ]
+    [ "HandleEffectApply", "de/d37/a14351.html#ad48d832fef881bfb517fb8df694b7507", null ],
+    [ "HandleEffectRemove", "de/d37/a14351.html#a1534b010301dbaff66d41443142c50b7", null ],
+    [ "PrepareAuraScript", "de/d37/a14351.html#ab4bba02a5e2196ad65ccea94a4615a9d", null ],
+    [ "Register", "de/d37/a14351.html#a97a0003cca808e5b03f720bb3be07419", null ]
 ];

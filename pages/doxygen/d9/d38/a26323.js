@@ -1,7 +1,5 @@
 var a26323 =
 [
-    [ "HandleDummy", "d9/d38/a26323.html#ad2367c1fd551187b6f19f795abb15ea6", null ],
-    [ "PrepareSpellScript", "d9/d38/a26323.html#a125f7550ce826f74ac14902bc82d5021", null ],
-    [ "Register", "d9/d38/a26323.html#a35e9132e2414383caafbde699de6061d", null ],
-    [ "Validate", "d9/d38/a26323.html#a530489a10287a6dd281d518683b1a3f3", null ]
+    [ "spell_q11515_fel_siphon_dummy", "d9/d38/a26323.html#a80fa790a716d1ae950f43f9a298afd66", null ],
+    [ "GetSpellScript", "d9/d38/a26323.html#a0d122972fc036d1f1e49c49acda58be3", null ]
 ];

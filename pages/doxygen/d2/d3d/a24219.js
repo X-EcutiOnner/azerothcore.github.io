@@ -1,7 +1,5 @@
 var a24219 =
 [
-    [ "HandleEffectRemove", "d2/d3d/a24219.html#a317c238b165ad331beb447ea5d0de7e1", null ],
-    [ "PrepareAuraScript", "d2/d3d/a24219.html#a7481f017a1382eb75e0101cb49fb4fcf", null ],
-    [ "Register", "d2/d3d/a24219.html#a13fdde1557249328306a57e159d821a7", null ],
-    [ "Validate", "d2/d3d/a24219.html#a58a383bd4e3062a5c5b1df97192b4b7e", null ]
+    [ "npc_shattrath_daily_quest", "d2/d3d/a24219.html#ab6aa71e4738fdce1b59d379249a868d5", null ],
+    [ "DoAction", "d2/d3d/a24219.html#ac3e8c6de30ad7567fe5e52cd1ddfeb2c", null ]
 ];

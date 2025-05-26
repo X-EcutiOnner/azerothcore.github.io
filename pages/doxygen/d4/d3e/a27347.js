@@ -1,6 +1,5 @@
 var a27347 =
 [
-    [ "trigger_periodicAI", "de/d56/a27351.html", "de/d56/a27351" ],
-    [ "trigger_periodic", "d4/d3e/a27347.html#a3c947c5a3092eecb7288a8a50c76bd14", null ],
-    [ "GetAI", "d4/d3e/a27347.html#a179f3aa69fcd0b145f4ede9f830c1f38", null ]
+    [ "item_disgusting_jar", "d4/d3e/a27347.html#add658cf7d026ac12d3eacc0c1dc8d7fb", null ],
+    [ "OnExpire", "d4/d3e/a27347.html#a4f6967035a4d247914a6034fcebac5c5", null ]
 ];

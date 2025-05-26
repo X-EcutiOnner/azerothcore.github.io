@@ -1,7 +1,10 @@
 var a21487 =
 [
-    [ "npc_bonker_togglevoltAI", "d0/d11/a21491.html", "d0/d11/a21491" ],
-    [ "npc_bonker_togglevolt", "d2/dbe/a21487.html#aa37a0ebc03b884b5a2a06d652d5dede3", null ],
-    [ "GetAI", "d2/dbe/a21487.html#a339c331e73497d2f7e1ee11e01ba4866", null ],
-    [ "OnQuestAccept", "d2/dbe/a21487.html#aaf1f65a1f6788a98705bc29fecc4c3fa", null ]
+    [ "npc_imprisoned_beryl_sorcererAI", "d2/dbe/a21487.html#a0a8159a84689dbfd8c69ed523ce03817", null ],
+    [ "GotStinged", "d2/dbe/a21487.html#a0729c584c3b65e5f25f4445de378f0ea", null ],
+    [ "JustEngagedWith", "d2/dbe/a21487.html#a2f3e45b3f762ede62aa94a6ae3f2909f", null ],
+    [ "Reset", "d2/dbe/a21487.html#aedc82ee3bfa193a838d5af62533e19b4", null ],
+    [ "SpellHit", "d2/dbe/a21487.html#a2010b53b3a8ad1e0aa6ecb5a26c8b6c9", null ],
+    [ "UpdateAI", "d2/dbe/a21487.html#a21def23073eeec051c1c97a813e0ea84", null ],
+    [ "rebuff", "d2/dbe/a21487.html#ac83c25091fdd3c7876a88927b758261f", null ]
 ];

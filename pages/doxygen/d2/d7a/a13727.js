@@ -1,10 +1,16 @@
 var a13727 =
 [
-    [ "boss_alyson_antille", "d2/d7a/a13727.html#a8b95891ced3f17f67470d1ec7b1a9a3e", null ],
-    [ "GetNearbyFriendlies", "d2/d7a/a13727.html#ab99596d5c2eafac8c678378d509bf585", null ],
-    [ "JustEngagedWith", "d2/d7a/a13727.html#a7a7d62c52a403ac1d8e5d275a74cad6e", null ],
-    [ "RandomReverseFriendlyList", "d2/d7a/a13727.html#afef27de229ba2c3b8beb30809a313237", null ],
-    [ "Reset", "d2/d7a/a13727.html#a40d901bde9f8419a1c73aa073f6fb334", null ],
-    [ "UpdateAI", "d2/d7a/a13727.html#a15157be42d166a239ab658fc04292e44", null ],
-    [ "_friendlyList", "d2/d7a/a13727.html#a0168c4a0f1e9862fe0d83ffac89aa634", null ]
+    [ "boss_halazzi", "d2/d7a/a13727.html#aed961a9e12b44dfd97bd31c981184be5", null ],
+    [ "AttackStart", "d2/d7a/a13727.html#a000c3b6b8a73fd8f858b87724dfcf123", null ],
+    [ "DamageTaken", "d2/d7a/a13727.html#aaa698dfa4d4a991968eebee3330e967a", null ],
+    [ "DoAction", "d2/d7a/a13727.html#a1685c7c99a797ec332b67797a294d83a", null ],
+    [ "EnterPhase", "d2/d7a/a13727.html#a951a0c9fc4fc737abbaaae77dfd4e43b", null ],
+    [ "JustDied", "d2/d7a/a13727.html#aa607a13fef1b8c195ba0aa09fafdaaae", null ],
+    [ "JustEngagedWith", "d2/d7a/a13727.html#a1dd4992bfca0bf658bd7a385300578ae", null ],
+    [ "JustSummoned", "d2/d7a/a13727.html#a152267cb31912106443ceea9488fee0a", null ],
+    [ "KilledUnit", "d2/d7a/a13727.html#a4d69fa8e754f823a599c52e227361600", null ],
+    [ "Reset", "d2/d7a/a13727.html#a9d9a82e5ae8dadfefcf2c929325cb60e", null ],
+    [ "SpellHit", "d2/d7a/a13727.html#a36141673391a423174db874ca425ea07", null ],
+    [ "_phase", "d2/d7a/a13727.html#a1f76fd0c02eec20aa2c222b278420dd8", null ],
+    [ "_transformCount", "d2/d7a/a13727.html#a9a86487f20e48d6be123bd61aaf13f7f", null ]
 ];

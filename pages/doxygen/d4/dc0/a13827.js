@@ -1,8 +1,15 @@
 var a13827 =
 [
-    [ "HandleScriptEffect", "d4/dc0/a13827.html#af7f22d3b7ba136ec2af88656b9805168", null ],
-    [ "PrepareSpellScript", "d4/dc0/a13827.html#aa7b7a3d099b95c9adeb3d9e2198ed8d3", null ],
-    [ "Register", "d4/dc0/a13827.html#a6a6d95c6d33bc8d90a2022e1ce23c635", null ],
-    [ "Validate", "d4/dc0/a13827.html#a94a5697e9d8a068fe6ae34b8aaf974fd", null ],
-    [ "spells", "d4/dc0/a13827.html#a902fc17746af82a4c58fe599c9616ce2", null ]
+    [ "npc_amanishi_tempest", "d4/dc0/a13827.html#a8e15b39501998e9f8c45baef0963d160", null ],
+    [ "DoAction", "d4/dc0/a13827.html#a50963cc0aac2560f6ddbf81000943ac3", null ],
+    [ "EnterEvadeMode", "d4/dc0/a13827.html#a66c787bd318fdcad83b7b5008b4979f9", null ],
+    [ "JustDied", "d4/dc0/a13827.html#aadda903d17a5f4560ce2db896bd7b257", null ],
+    [ "JustEngagedWith", "d4/dc0/a13827.html#af277f5d1f73cf79ea8cfcb1e4fc744e3", null ],
+    [ "JustSummoned", "d4/dc0/a13827.html#aac72fdc33051370c3cffa388f466b6be", null ],
+    [ "Reset", "d4/dc0/a13827.html#aa921f85142f9103bea839bdc0330e1cc", null ],
+    [ "ScheduleEvents", "d4/dc0/a13827.html#a09ba0ce51ad981578adcc1950c89d5ae", null ],
+    [ "SummonedCreatureEvade", "d4/dc0/a13827.html#a61eebb122c9288c826cdf352c17e0590", null ],
+    [ "UpdateAI", "d4/dc0/a13827.html#ad8f6b32c3f08eb2a4ac36a8d91434a4d", null ],
+    [ "_instance", "d4/dc0/a13827.html#ab88e1d1ad979192f0519045d8ed2e14f", null ],
+    [ "_summons", "d4/dc0/a13827.html#a4337b2bc417d8dafc4a6d5d10bbd0db9", null ]
 ];

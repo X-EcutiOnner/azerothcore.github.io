@@ -1,6 +1,6 @@
 var a27291 =
 [
-    [ "go_bellsAI", "de/d3b/a27295.html", "de/d3b/a27295" ],
-    [ "go_bells", "dc/dbd/a27291.html#a9f40a13aa1aaee28ebd1254d428c0519", null ],
-    [ "GetAI", "dc/dbd/a27291.html#a4f1272fb8856310d7924f8e7be1e39f8", null ]
+    [ "go_amberpine_outhouse", "dc/dbd/a27291.html#a953ea72b3954c89b6c391de5aca3b6ce", null ],
+    [ "OnGossipHello", "dc/dbd/a27291.html#a7cbfc3a091ad2332fd46140a24ac4e37", null ],
+    [ "OnGossipSelect", "dc/dbd/a27291.html#aa55fe049ba43dbd548ba55d982d89d51", null ]
 ];

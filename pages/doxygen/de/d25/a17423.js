@@ -1,6 +1,7 @@
 var a17423 =
 [
-    [ "npc_stinky_iccAI", "d1/d98/a17427.html", "d1/d98/a17427" ],
-    [ "npc_stinky_icc", "de/d25/a17423.html#a8f6a3687d4b330f532a0d892dbf429a0", null ],
-    [ "GetAI", "de/d25/a17423.html#aaf6b7b1a7469d1e353617f63f11f7781", null ]
+    [ "ExtraEffect", "de/d25/a17423.html#a65b5bc8d053a69325f42a7f23ae4dbdc", null ],
+    [ "PrepareAuraScript", "de/d25/a17423.html#a53d6013e5ec473854e1537969cb31988", null ],
+    [ "Register", "de/d25/a17423.html#a85be360bb15482ff34b7f1d04d949b1d", null ],
+    [ "Validate", "de/d25/a17423.html#ab14e7410cf542d9f4043800a3b86c664", null ]
 ];

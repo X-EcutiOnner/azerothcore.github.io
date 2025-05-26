@@ -1,7 +1,8 @@
 var a26439 =
 [
-    [ "HandleDummy", "d8/dd8/a26439.html#ab046ef0adc63c32a153ba4ea866f8dcd", null ],
-    [ "PrepareSpellScript", "d8/dd8/a26439.html#ac293d1c1aac41808f81cad2974424c2e", null ],
-    [ "Register", "d8/dd8/a26439.html#ab145e1826eb63d0b6b1ea39a6c3c4d36", null ],
-    [ "Validate", "d8/dd8/a26439.html#aa725a6ee483dfac46724d291de4ee54b", null ]
+    [ "HandleScript", "d8/dd8/a26439.html#a1e096b2b2f5a285e660f64fb133f4f8b", null ],
+    [ "Load", "d8/dd8/a26439.html#ad4e3fecb64bbb0f5c63b90d445c0b9f3", null ],
+    [ "PrepareSpellScript", "d8/dd8/a26439.html#a5c4b2a46dfd6bdc2d14ee02f673628c1", null ],
+    [ "Register", "d8/dd8/a26439.html#aa823af94e3366ae799ebaf03e52411dd", null ],
+    [ "Validate", "d8/dd8/a26439.html#ad6985954002f88436a2681e758f41fb2", null ]
 ];

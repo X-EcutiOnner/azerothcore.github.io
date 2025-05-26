@@ -1,9 +1,11 @@
 var a26715 =
 [
-    [ "CheckCast", "d6/da4/a26715.html#a441927e0d8d7304030440c19458eb34d", null ],
-    [ "HandleScriptEffect", "d6/da4/a26715.html#a10e9691aa15869c82fba79072a314d7e", null ],
-    [ "PrepareSpellScript", "d6/da4/a26715.html#a90b8ae945aeb85ad6e8a120501288979", null ],
-    [ "Register", "d6/da4/a26715.html#aac95bd6f7409e1ae9d3f9cf0c7212990", null ],
-    [ "Validate", "d6/da4/a26715.html#a00c67b65bcfdeaf56295da6a64689d58", null ],
-    [ "iTypes", "d6/da4/a26715.html#ae852b9df34612c074eab23b025c86870", null ]
+    [ "CalcPeriodic", "d6/da4/a26715.html#aeb804ef41ec5600c18b5b1c9fcf37479", null ],
+    [ "CalculateAPAmount", "d6/da4/a26715.html#a72bd308dbeaa7eca5685f3e5055d7fad", null ],
+    [ "CalculateResistanceAmount", "d6/da4/a26715.html#a12a0f547198d150b0c51e481dd0ff6aa", null ],
+    [ "CalculateSPAmount", "d6/da4/a26715.html#a114c868f0dc31f3370588b1bd1f18894", null ],
+    [ "CalculateStatAmount", "d6/da4/a26715.html#ae7ba2e3eca6c93325ede8b100e32bd3c", null ],
+    [ "HandlePeriodic", "d6/da4/a26715.html#af5076795e8bf6abd45590a060f9e5b52", null ],
+    [ "PrepareAuraScript", "d6/da4/a26715.html#aa512873852c0eea9947472fcb60fbfc2", null ],
+    [ "Register", "d6/da4/a26715.html#a40ed4ca839b9783d9a8e9930f87a2eb8", null ]
 ];

@@ -1,6 +1,7 @@
 var a18223 =
 [
-    [ "ModDestHeight", "d0/d13/a18223.html#acd31e130e72cd93bee3544ecd2dc38ad", null ],
-    [ "PrepareSpellScript", "d0/d13/a18223.html#a288f8917d73be30234e465778b1f6544", null ],
-    [ "Register", "d0/d13/a18223.html#a69f9cdbfc33ec39f629f08f20484b29e", null ]
+    [ "OnPeriodic", "d0/d13/a18223.html#a9635bf496ee3098e412ba7de633250b3", null ],
+    [ "PrepareAuraScript", "d0/d13/a18223.html#accb775d3a9c4ae40f5d8644c366ec39e", null ],
+    [ "Register", "d0/d13/a18223.html#aa44bb97a0d3af32b90a133582f064b0e", null ],
+    [ "Validate", "d0/d13/a18223.html#a5675fef373315edd34d096bb91c733b0", null ]
 ];

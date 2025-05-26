@@ -1,6 +1,6 @@
 var a15507 =
 [
-    [ "npc_aquementasAI", "d2/df7/a15511.html", "d2/df7/a15511" ],
-    [ "npc_aquementas", "d3/d3e/a15507.html#a81d0b010c2aef0ea329ff7656b76cbe5", null ],
-    [ "GetAI", "d3/d3e/a15507.html#a8a071b3073d69306feb84aca347a22c8", null ]
+    [ "npc_braug_dimspirit", "d3/d3e/a15507.html#ade08e9ad549d80c2f7918dbfcfbf41dc", null ],
+    [ "OnGossipHello", "d3/d3e/a15507.html#aeaed026edf5a1fa82c941f667c05815b", null ],
+    [ "OnGossipSelect", "d3/d3e/a15507.html#a87ea1ba3e247c9b14c1f6c72b3addea0", null ]
 ];

@@ -1,6 +1,7 @@
 var a17547 =
 [
-    [ "PrepareSpellScript", "db/d3f/a17547.html#a47df21229183b628c1d82bf34cbbe396", null ],
-    [ "Register", "db/d3f/a17547.html#a3cc4a1180f66cd9fe19020c1e5f2fccb", null ],
-    [ "RelocateTransportOffset", "db/d3f/a17547.html#acab29d77b4806f5d59ddc5dc3493c8ae", null ]
+    [ "npc_gunship_rocketeerAI", "db/d3f/a17547.html#aa9e722f32cd95fff8c72db5a41d0e84c", null ],
+    [ "CanAIAttack", "db/d3f/a17547.html#a4b4e2839e426bdb752beea09394f13dc", null ],
+    [ "MovementInform", "db/d3f/a17547.html#a7dd7f3625b177a96bcfdc5e46d944562", null ],
+    [ "UpdateAI", "db/d3f/a17547.html#af73d71750f116fb90be1c2acba75ca70", null ]
 ];

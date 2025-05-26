@@ -1,7 +1,11 @@
 var a15715 =
 [
-    [ "npc_ahnkahar_nerubian", "df/d51/a15715.html#ae18cdf09bae50751e266e95caf165f8e", null ],
-    [ "Reset", "df/d51/a15715.html#a387831015ec8e4bc65cff8c8550bb176", null ],
-    [ "UpdateAI", "df/d51/a15715.html#a9a773127e4f94bcdf142718355eae0e8", null ],
-    [ "uiSprintTimer", "df/d51/a15715.html#a27a6f57a6b145cc595896d1ad453064f", null ]
+    [ "npc_amanitar_mushrooms", "df/d51/a15715.html#ad5603426c71c107ff439cea2efeea3f9", null ],
+    [ "AttackStart", "df/d51/a15715.html#a0cc90c924a12a8be32c78e76ca798943", null ],
+    [ "DamageTaken", "df/d51/a15715.html#a4c21a448535e1fc0f0116257194b9732", null ],
+    [ "EnterEvadeMode", "df/d51/a15715.html#ae17ee367c9d206868c7dfc64d438806a", null ],
+    [ "JustEngagedWith", "df/d51/a15715.html#ac50bf479e8c891af432cfccdf9d49c55", null ],
+    [ "Reset", "df/d51/a15715.html#ae597d5a64765f5304773f9a38e9c719a", null ],
+    [ "UpdateAI", "df/d51/a15715.html#ae71058353be43935aa45eb28eb41170f", null ],
+    [ "events", "df/d51/a15715.html#a0be93d15582a5511963721510652e76d", null ]
 ];

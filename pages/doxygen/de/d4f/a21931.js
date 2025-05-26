@@ -1,9 +1,6 @@
 var a21931 =
 [
-    [ "npc_Apothecary_HanesAI", "de/d4f/a21931.html#a8e209b142a58b3b3c0d84c430a086ade", null ],
-    [ "JustDied", "de/d4f/a21931.html#a4c681936d8e7053ace5cdeeaa1ee5ca9", null ],
-    [ "Reset", "de/d4f/a21931.html#a23d54542e6debf39798c2a2d6e2a255d", null ],
-    [ "UpdateEscortAI", "de/d4f/a21931.html#ab54eb5115b9c41b39f0de0f8f4412ef9", null ],
-    [ "WaypointReached", "de/d4f/a21931.html#a7105ea4c83ddd0fd08c96a0b0ff40bd2", null ],
-    [ "PotTimer", "de/d4f/a21931.html#a252858818b61cf15e2e031ceaaadc6b8", null ]
+    [ "npc_your_inner_turmoilAI", "d0/d36/a21935.html", "d0/d36/a21935" ],
+    [ "npc_your_inner_turmoil", "de/d4f/a21931.html#a72856ef469bb8f6ff4a89a16159479af", null ],
+    [ "GetAI", "de/d4f/a21931.html#a29c8f76b072e891face1225770688ca6", null ]
 ];

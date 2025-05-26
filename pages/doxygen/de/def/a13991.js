@@ -1,6 +1,10 @@
 var a13991 =
 [
-    [ "LaunchHit", "de/def/a13991.html#a10bb54a1a0cd992e9e944870684f3a21", null ],
-    [ "PrepareSpellScript", "de/def/a13991.html#a95e85ecfcc5b72c250a0bc184b1d32a7", null ],
-    [ "Register", "de/def/a13991.html#a19c6111ea0c3506ddc2d8459c192f04f", null ]
+    [ "npc_vilebranch_speaker", "de/def/a13991.html#acd8dfc95c5969fe67e1386d5dbd5884b", null ],
+    [ "JustDied", "de/def/a13991.html#aa7708f176879db3acd50399b74e4a90c", null ],
+    [ "JustEngagedWith", "de/def/a13991.html#a236afb8512c2d941479f8a7c18f688a6", null ],
+    [ "Reset", "de/def/a13991.html#a248195a137cb91f10a882ec12974c7c5", null ],
+    [ "UpdateAI", "de/def/a13991.html#a75f263fa9241319b58bf77cbf1b75088", null ],
+    [ "_scheduler", "de/def/a13991.html#abd52bbd2ce88b011176d93ae92b851d0", null ],
+    [ "instance", "de/def/a13991.html#a88fb28d2c39f0da967ab6706872e68b2", null ]
 ];

@@ -1,14 +1,16 @@
 var a23599 =
 [
-    [ "instance_shattered_halls_InstanceMapScript", "d6/dff/a23599.html#aa438091d2868b26d961ee4f81e9cea11", null ],
-    [ "GetGuidData", "d6/dff/a23599.html#a1a0623204ecaaa3623fc503783c4d766", null ],
-    [ "Initialize", "d6/dff/a23599.html#a3761d56e59d5bf1147986978c9fdf2e3", null ],
-    [ "OnCreatureCreate", "d6/dff/a23599.html#a9fa5637791d249553472b31c024f9fc1", null ],
-    [ "ReadSaveDataMore", "d6/dff/a23599.html#a67bc6a2dde5c649d16ef7e2c26c6069b", null ],
-    [ "SetData", "d6/dff/a23599.html#a566090f29d13977354fb50e68d92f046", null ],
-    [ "Update", "d6/dff/a23599.html#aad1666c364feff4e2b7654f5894c129f", null ],
-    [ "WriteSaveDataMore", "d6/dff/a23599.html#aaa8b1b054df41a79ac074ae48e180ee9", null ],
-    [ "ExecutionerGUID", "d6/dff/a23599.html#aa879398b1732952eba7b2b8a822a959e", null ],
-    [ "PrisonerGUID", "d6/dff/a23599.html#a0648efa6b0bbf4860d55f9b11f138e39", null ],
-    [ "RescueTimer", "d6/dff/a23599.html#a8df2961264a192ab2692e3c8ca507666", null ]
+    [ "boss_warchief_kargath_bladefist", "d6/dff/a23599.html#a0957dbfd6c085575fa862f38c87b6b3d", null ],
+    [ "InitializeAI", "d6/dff/a23599.html#a86d9b5b1500960235e76ae71337a6c90", null ],
+    [ "IsInRoom", "d6/dff/a23599.html#af9d4bd9d94115a1040e1e4a4dbf8df83", null ],
+    [ "JustDied", "d6/dff/a23599.html#a436b90336c90f6662f3ce704a62f0d90", null ],
+    [ "JustEngagedWith", "d6/dff/a23599.html#ab3d7b0ebca4f8134e5c2f31422ff006b", null ],
+    [ "JustSummoned", "d6/dff/a23599.html#aaa69f064d7eb3a0d107c835c806fa1de", null ],
+    [ "KilledUnit", "d6/dff/a23599.html#a730bbd2f95a2919fba1a7300b4307b84", null ],
+    [ "MovementInform", "d6/dff/a23599.html#a716eab9bda2b697252dde90aa513d7df", null ],
+    [ "Reset", "d6/dff/a23599.html#a50fa7a5aed8d3f4916f0449c4fb075ac", null ],
+    [ "RespawnAssassins", "d6/dff/a23599.html#a1397317259589ea69f77f52f60852043", null ],
+    [ "SummonedCreatureDies", "d6/dff/a23599.html#a325da34f78d202708a58c1a543ecb8ca", null ],
+    [ "UpdateAI", "d6/dff/a23599.html#acd463cac8e2fa8289ecb5567709db678", null ],
+    [ "_danceCount", "d6/dff/a23599.html#af4a60caaef6388caff973295e3397a7d", null ]
 ];

@@ -1,6 +1,7 @@
 var a19035 =
 [
-    [ "boss_patchwerkAI", "dd/d78/a19039.html", "dd/d78/a19039" ],
-    [ "boss_patchwerk", "dc/d02/a19035.html#a526983c4f5191a839ba4a017ac2d14e4", null ],
-    [ "GetAI", "dc/d02/a19035.html#a03f2dec61192405760958e26d998d67e", null ]
+    [ "OnPeriodic", "dc/d02/a19035.html#ae685e9d36b85af8a7e33cefbd439a2f4", null ],
+    [ "PrepareAuraScript", "dc/d02/a19035.html#a1362103840db4b3c40ef7d6b0aa5226c", null ],
+    [ "Register", "dc/d02/a19035.html#a39b03ebd7f6233f373f52e34f18dad10", null ],
+    [ "Validate", "dc/d02/a19035.html#a54cfed486827216817adb740efa6646e", null ]
 ];

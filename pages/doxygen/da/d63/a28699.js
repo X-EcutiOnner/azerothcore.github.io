@@ -1,21 +1,10 @@
 var a28699 =
 [
-    [ "WMORoot", "da/d63/a28699.html#ac9b3d7cb0502bf612a9b780926364c2b", null ],
-    [ "ConvertToVMAPRootWmo", "da/d63/a28699.html#a9e2bea32209471be360f964e7c6702ad", null ],
-    [ "open", "da/d63/a28699.html#a3c10106f8ded86f5e889c99c93dc385a", null ],
-    [ "bbcorn1", "da/d63/a28699.html#a119493cf0243952021d07d9328de68df", null ],
-    [ "bbcorn2", "da/d63/a28699.html#a518adad011f480154a786503224aff0f", null ],
-    [ "color", "da/d63/a28699.html#ab9f1ca906365d919dc8c03b04d3f7759", null ],
-    [ "DoodadData", "da/d63/a28699.html#a193043738049583257b8c26494c97573", null ],
-    [ "filename", "da/d63/a28699.html#a8ef5c36dfab76a6baf633a0f6dbe5449", null ],
-    [ "flags", "da/d63/a28699.html#ac3e95eb0b51ef25289b2cdf617ac2585", null ],
-    [ "nDoodadDefs", "da/d63/a28699.html#a1881c8d0ba9d435627a4cdeb3ec8bf77", null ],
-    [ "nDoodadNames", "da/d63/a28699.html#ab51a28cda7db10964cfac9b13022dcd6", null ],
-    [ "nDoodadSets", "da/d63/a28699.html#a17b88fd5067eb7d30e345726ad7d1f26", null ],
-    [ "nGroups", "da/d63/a28699.html#a73a8d2c858db5e144f163ece74a9d295", null ],
-    [ "nLights", "da/d63/a28699.html#a2442113c758362dd5b8da9ceb8d355ae", null ],
-    [ "nPortals", "da/d63/a28699.html#a25b1d2531c61ae7cf883642f5c5f2ee7", null ],
-    [ "nTextures", "da/d63/a28699.html#ac0b9bc8f8087878b2b51be8261f9928c", null ],
-    [ "RootWMOID", "da/d63/a28699.html#aeb47cb44dc9b564782fb7b0ef5cc314c", null ],
-    [ "ValidDoodadNames", "da/d63/a28699.html#a787748c52305b52fb65776df51b4c017", null ]
+    [ "WDTFile", "da/d63/a28699.html#a10c133d9b2f8d39cb6c2b3d8c2791b78", null ],
+    [ "~WDTFile", "da/d63/a28699.html#a445fe73204fd378e2b63a83d9f5dca0a", null ],
+    [ "GetMap", "da/d63/a28699.html#aa952c5bfe52a1aa851984a7e6dc963c9", null ],
+    [ "init", "da/d63/a28699.html#a91a33f89cae35254f52e8c4f1c33e2cb", null ],
+    [ "_file", "da/d63/a28699.html#a54ab64288144b9cf4904e67bb359e524", null ],
+    [ "_wmoNames", "da/d63/a28699.html#a6ec4f95ff866585403670b620a42a857", null ],
+    [ "filename", "da/d63/a28699.html#ab3dac8623598bac1152a514a00126bf6", null ]
 ];

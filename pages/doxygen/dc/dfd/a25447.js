@@ -1,8 +1,5 @@
 var a25447 =
 [
-    [ "OnApply", "dc/dfd/a25447.html#a75b45732648d5ba90b49725a48609a89", null ],
-    [ "OnBaseRemove", "dc/dfd/a25447.html#aa6d10399bba721ff7a3651508fcdf449", null ],
-    [ "OnRemove", "dc/dfd/a25447.html#a0331b3860691db793c5a7bcf53550c6f", null ],
-    [ "PrepareAuraScript", "dc/dfd/a25447.html#a34ad4890c7ce30427537e36980057e57", null ],
-    [ "Register", "dc/dfd/a25447.html#a713e694cad6f1cf533d45f5d633da36e", null ]
+    [ "PrepareSpellScript", "dc/dfd/a25447.html#adaaa520c889970d91f3f38c958efdad4", null ],
+    [ "Register", "dc/dfd/a25447.html#a80fe694c669aa86494bd73bfa7b8ffc8", null ]
 ];

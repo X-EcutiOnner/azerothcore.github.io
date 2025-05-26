@@ -1,6 +1,11 @@
 var a17139 =
 [
-    [ "boss_slad_ranAI", "dc/d42/a17143.html", "dc/d42/a17143" ],
-    [ "boss_slad_ran", "de/d5c/a17139.html#a9b960242e2f186d334d7ce04b999e274", null ],
-    [ "GetAI", "de/d5c/a17139.html#a26651b7ca111bd64549283c37e34db11", null ]
+    [ "boss_moorabiAI", "de/d5c/a17139.html#a60a03c3840a3743719996929d2ca9e59", null ],
+    [ "JustDied", "de/d5c/a17139.html#a6d866bf54dc06e4f20eb4d62ea97928a", null ],
+    [ "JustEngagedWith", "de/d5c/a17139.html#a1fa46ac21b28ff49382c7389a46fad75", null ],
+    [ "KilledUnit", "de/d5c/a17139.html#a265855d2972e534e927bfa609fbf2cf5", null ],
+    [ "Reset", "de/d5c/a17139.html#a9daf89ed0f4e5795cafc63a6a81e5d1d", null ],
+    [ "SpellHitTarget", "de/d5c/a17139.html#af1f30a0f3bf0f88725f8a146c528b77a", null ],
+    [ "UpdateAI", "de/d5c/a17139.html#a9f9956aaaa60d5d0005a55a87d0424eb", null ],
+    [ "events2", "de/d5c/a17139.html#a02a3bc20ca7b1b750bfd1bd29f093dd2", null ]
 ];

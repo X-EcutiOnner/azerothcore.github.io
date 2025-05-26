@@ -1,6 +1,6 @@
 var a02582 =
 [
-    [ "boss_pathaleon_the_calculator", "d8/d12/a23855.html", "d8/d12/a23855" ],
+    [ "boss_pathaleon_the_calculator", "d2/d58/a23871.html", "d2/d58/a23871" ],
     [ "Misc", "d1/d03/a02582.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
       [ "DATA_SKILLPOINT_MIN", "db/db0/a03722.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a3093ddfcacf2742f4fb344843e2e7ce6", null ],
       [ "NEFARIUS_PATH_2", "d6/dc7/a03683.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a09833188939fe77088ed4fb2cfedb875", null ],

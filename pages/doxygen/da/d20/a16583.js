@@ -1,7 +1,5 @@
 var a16583 =
 [
-    [ "HandleScriptEffect", "da/d20/a16583.html#a51064b3a11f453724ae0879c80eaf8df", null ],
-    [ "PrepareSpellScript", "da/d20/a16583.html#aac26002ff107e609fb7258306b430f1b", null ],
-    [ "Register", "da/d20/a16583.html#a0efef7644706940e3929ce99cd162c91", null ],
-    [ "Validate", "da/d20/a16583.html#a7110d4136337d44aa0300ec82e5a6511", null ]
+    [ "achievement_better_off_dred", "da/d20/a16583.html#a1ff3442ab3e166a4001c4c10777bdf8a", null ],
+    [ "OnCheck", "da/d20/a16583.html#a9aab68b43fbf9f3c71c237b149f23b2d", null ]
 ];

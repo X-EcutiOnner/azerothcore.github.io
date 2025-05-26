@@ -1,6 +1,7 @@
 var a17295 =
 [
-    [ "BloodboltHitCheck", "d5/d7b/a17295.html#a84873f1ec2c1e214e35d32954622e9af", null ],
-    [ "operator()", "d5/d7b/a17295.html#a1eddfd7bbea8def20dcc080413af6364", null ],
-    [ "_ai", "d5/d7b/a17295.html#a0a5d115c464b6e88bc1158cd858bcbec", null ]
+    [ "PeriodicTick", "d5/d7b/a17295.html#af2419a9f9c8706e6b9a090e88f1b6f78", null ],
+    [ "PrepareAuraScript", "d5/d7b/a17295.html#ac1abcbe62887678adad0194fdf27825a", null ],
+    [ "Register", "d5/d7b/a17295.html#a9c92c88bf261f1da2143e7dee41a77ec", null ],
+    [ "Validate", "d5/d7b/a17295.html#ae7526fcf963fe4ea3ab2f1ec7292e8d8", null ]
 ];

@@ -1,7 +1,7 @@
 var a24651 =
 [
-    [ "HandleProc", "d3/d61/a24651.html#a2d38c32b4eb2ba91c657801b21a3b90d", null ],
-    [ "PrepareAuraScript", "d3/d61/a24651.html#ac5988a79ab42ec1bbcc9b69bb649fc29", null ],
-    [ "Register", "d3/d61/a24651.html#affd88326ea293f82055700ec7183d194", null ],
-    [ "Validate", "d3/d61/a24651.html#acc8797afece569e68c6d754ca09e206d", null ]
+    [ "HandleScriptEffect", "d3/d61/a24651.html#a3a33f0ec477ff3b4b19fc98760a2dae7", null ],
+    [ "PrepareSpellScript", "d3/d61/a24651.html#ae29c4f69a34e71011192df12509e2935", null ],
+    [ "Register", "d3/d61/a24651.html#ae37da44bde25f6bdb5b4a382ab66b7be", null ],
+    [ "Validate", "d3/d61/a24651.html#af9056c179b8089cf0b304b3ce61ea92f", null ]
 ];

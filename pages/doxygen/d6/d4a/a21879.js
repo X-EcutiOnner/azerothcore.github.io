@@ -1,7 +1,6 @@
 var a21879 =
 [
-    [ "HandleAfterEffectApply", "d6/d4a/a21879.html#ab54795dc49ca453db40494a694158a98", null ],
-    [ "PrepareAuraScript", "d6/d4a/a21879.html#a3e5902a79b9d2c5cad69ad2ece8592ec", null ],
-    [ "Register", "d6/d4a/a21879.html#addd4fac4cc8a93d800abacb144e3303c", null ],
-    [ "Validate", "d6/d4a/a21879.html#a3ee65a1391c340e471adfc7ac653dd50", null ]
+    [ "npc_lake_frogAI", "d3/d4f/a21883.html", "d3/d4f/a21883" ],
+    [ "npc_lake_frog", "d6/d4a/a21879.html#ac7c56b2a6443356523b468c05c36bc6c", null ],
+    [ "GetAI", "d6/d4a/a21879.html#a9730da684a81fced304f10b2806c10e5", null ]
 ];

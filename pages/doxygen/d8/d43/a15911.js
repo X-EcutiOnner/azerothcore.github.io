@@ -1,6 +1,8 @@
 var a15911 =
 [
-    [ "HandleLeapBack", "d8/d43/a15911.html#a71a9b9967528c1153ad1215635bc7d01", null ],
-    [ "PrepareSpellScript", "d8/d43/a15911.html#a25a2db5c19e721b112b7bc84b3ac0968", null ],
-    [ "Register", "d8/d43/a15911.html#a6ef11d0538616315fa7cf098748aa01f", null ]
+    [ "npc_twilight_summonAI", "d8/d43/a15911.html#a8f5dfe54a5ac1d7a058c5efb9bead77a", null ],
+    [ "DoAction", "d8/d43/a15911.html#aac4c1e3bc635b30f1ceed8b25f2c7829", null ],
+    [ "Reset", "d8/d43/a15911.html#a1174c827aef1b05603214e4717c78f8a", null ],
+    [ "UpdateAI", "d8/d43/a15911.html#addb312c34c668b8189087de6cf89543b", null ],
+    [ "fadeArmorTimer", "d8/d43/a15911.html#ace4028c8f4d0240b4e2939481312d0d2", null ]
 ];

@@ -1,8 +1,6 @@
 var a13667 =
 [
-    [ "npc_the_scourge_cauldronAI", "d8/def/a13667.html#aa8b221cfe49b09efbfe5943489c844b8", null ],
-    [ "DoDie", "d8/def/a13667.html#a9f720a27db2943a66b11ad6355690bf5", null ],
-    [ "JustEngagedWith", "d8/def/a13667.html#a89954dec2f7d57d933c18822333243ac", null ],
-    [ "MoveInLineOfSight", "d8/def/a13667.html#a256195dbe75859d72afcd0defb9ff76e", null ],
-    [ "Reset", "d8/def/a13667.html#ab18bb2eb344f45827685786c665b1750", null ]
+    [ "npc_lady_sylvanas_windrunner_bfuAI", "d2/d0c/a13671.html", "d2/d0c/a13671" ],
+    [ "npc_lady_sylvanas_windrunner_bfu", "d8/def/a13667.html#a77e98bc345f7d27f145d4b29c4deb58e", null ],
+    [ "GetAI", "d8/def/a13667.html#a94fdd0778818fcc6a8b818d38dde6f75", null ]
 ];

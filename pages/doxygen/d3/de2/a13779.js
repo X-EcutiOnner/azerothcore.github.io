@@ -1,6 +1,7 @@
 var a13779 =
 [
-    [ "instance_zulaman_InstanceMapScript", "d3/d33/a13783.html", "d3/d33/a13783" ],
-    [ "instance_zulaman", "d3/de2/a13779.html#a5a81dddc07dea599e2a197737206427b", null ],
-    [ "GetInstanceScript", "d3/de2/a13779.html#a2144a517b22c5d6e7f6cc31d344669fc", null ]
+    [ "OnPeriodic", "d3/de2/a13779.html#aa541a8bc034517d1f5d034ac51bd8dac", null ],
+    [ "PrepareAuraScript", "d3/de2/a13779.html#abc166e4dc33e7bffd1d53c2ef8272efa", null ],
+    [ "Register", "d3/de2/a13779.html#a60313d4ba992b1dc81e7cdae942f1b3d", null ],
+    [ "Validate", "d3/de2/a13779.html#a7ed214de6769314a45540e9afdb82949", null ]
 ];

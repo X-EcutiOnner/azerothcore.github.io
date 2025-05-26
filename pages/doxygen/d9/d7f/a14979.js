@@ -1,5 +1,6 @@
 var a14979 =
 [
-    [ "boss_vem", "d9/d7f/a14979.html#a8e303ece8ba209c6dea0ed6c888077d3", null ],
-    [ "JustEngagedWith", "d9/d7f/a14979.html#ae4b7fa599d31155bdee566b31c60b237", null ]
+    [ "HandleScript", "d9/d7f/a14979.html#a88551ffd3dbe4fb9cc122a68813234f0", null ],
+    [ "PrepareSpellScript", "d9/d7f/a14979.html#ae4d8cad1b5de248a30085142fcc2cc7b", null ],
+    [ "Register", "d9/d7f/a14979.html#a434f0aef7f32edb6990efb992e4d57af", null ]
 ];

@@ -1,7 +1,5 @@
 var a28131 =
 [
-    [ "AllocationPct", "dc/de4/a28131.html#a45d752dfd00a75f69d919a88573ba4fc", null ],
-    [ "Enchantment", "dc/de4/a28131.html#a45e694082c1dbdeef5229561f617d584", null ],
-    [ "ID", "dc/de4/a28131.html#a66d78860d81c497765b5e68b5fd2ae18", null ],
-    [ "Name", "dc/de4/a28131.html#a3ee4d8152817e10b873de5ec36ba062b", null ]
+    [ "ID", "dc/de4/a28131.html#a65acb5af9a688346cbb7dc144710c768", null ],
+    [ "inventoryIcon", "dc/de4/a28131.html#a26b43ee179bd546c6e956dd797fc0842", null ]
 ];

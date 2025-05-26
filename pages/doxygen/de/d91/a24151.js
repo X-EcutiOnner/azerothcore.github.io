@@ -1,5 +1,6 @@
 var a24151 =
 [
-    [ "go_crystal_prison", "de/d91/a24151.html#a0faca8b76f9650ee5cc7825b90463365", null ],
-    [ "OnQuestAccept", "de/d91/a24151.html#ad19d8bdf8361d5d7fca2917a6bf0977a", null ]
+    [ "npc_lord_illidan_stormrageAI", "dd/dc4/a24155.html", "dd/dc4/a24155" ],
+    [ "npc_lord_illidan_stormrage", "de/d91/a24151.html#ad2f213749e170ec4f9903396d132f5f3", null ],
+    [ "GetAI", "de/d91/a24151.html#a9aaedc4326b90621965dad522f4af897", null ]
 ];

@@ -1,6 +1,6 @@
 var a19567 =
 [
-    [ "HandleApplyTouch", "d5/dea/a19567.html#a0c46c506f78f46f17c0de6caae774316", null ],
-    [ "PrepareSpellScript", "d5/dea/a19567.html#a2f32b735a8a72a6ef52744d3ce8ada8b", null ],
-    [ "Register", "d5/dea/a19567.html#a70382055564e4ead8b5da0d6bd20c67f", null ]
+    [ "iron_golem_custodianAI", "d2/d8a/a19571.html", "d2/d8a/a19571" ],
+    [ "iron_golem_custodian", "d5/dea/a19567.html#adc11b755e193adbad757c21e5b15e063", null ],
+    [ "GetAI", "d5/dea/a19567.html#a272e0c9fe475a665aa80a95f1e1d8629", null ]
 ];

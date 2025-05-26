@@ -1,7 +1,6 @@
 var a17115 =
 [
-    [ "HandleScriptEffect", "d1/dfe/a17115.html#a6469efa0e1fabaf1cb366f119a1158c1", null ],
-    [ "PrepareSpellScript", "d1/dfe/a17115.html#aac410690d906867216b40a49d8f15318", null ],
-    [ "Register", "d1/dfe/a17115.html#ae8c7acabe93fc33d13f0b8848415eabf", null ],
-    [ "Validate", "d1/dfe/a17115.html#a88c3961d5757dd0c75be4acc7de6e45b", null ]
+    [ "boss_gal_darahAI", "d3/dd6/a17119.html", "d3/dd6/a17119" ],
+    [ "boss_gal_darah", "d1/dfe/a17115.html#a687bb98f9de9cd838c57511dc6b3d086", null ],
+    [ "GetAI", "d1/dfe/a17115.html#a8f709568f5a06265056571061ff3a26b", null ]
 ];

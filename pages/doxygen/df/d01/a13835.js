@@ -1,6 +1,7 @@
 var a13835 =
 [
-    [ "boss_arlokkAI", "d0/d92/a13839.html", "d0/d92/a13839" ],
-    [ "boss_arlokk", "df/d01/a13835.html#a55bb21239e05acff18d2fb147449800e", null ],
-    [ "GetAI", "df/d01/a13835.html#a58b8cc7a198784b48faaab1b069d397c", null ]
+    [ "HandleTriggerSpell", "df/d01/a13835.html#a66b366f4989d99a58b331e56024e4520", null ],
+    [ "PrepareAuraScript", "df/d01/a13835.html#a4b00497e095b5c43571b543252b31e58", null ],
+    [ "Register", "df/d01/a13835.html#abacee7689888bf8c5d21b534a6d71b40", null ],
+    [ "Validate", "df/d01/a13835.html#a6bef0ac760a319deed6f71fee213e885", null ]
 ];

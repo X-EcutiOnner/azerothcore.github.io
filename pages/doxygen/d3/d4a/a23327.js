@@ -1,6 +1,13 @@
 var a23327 =
 [
-    [ "HandlePeriodic", "d3/d4a/a23327.html#af6c30bb292a69d5eaaaf75c8a76111ea", null ],
-    [ "PrepareAuraScript", "d3/d4a/a23327.html#a75515896f3d94d227963a3c5258e2d0d", null ],
-    [ "Register", "d3/d4a/a23327.html#aeacb1ffc287cc7128366ee0484c2994b", null ]
+    [ "boss_ghazan", "d3/d4a/a23327.html#ae730362fcf3606c67b6b85147de98fb6", null ],
+    [ "DoAction", "d3/d4a/a23327.html#ac016d5e06ca4f8f0bf2fa13ce2cd89e2", null ],
+    [ "InitializeAI", "d3/d4a/a23327.html#a6b8c975a109dc5eb8a3e3fba03fe806e", null ],
+    [ "JustEngagedWith", "d3/d4a/a23327.html#ad4136f0f63d267284f36756793c0efa7", null ],
+    [ "JustReachedHome", "d3/d4a/a23327.html#af9f2dd854036d5c8b9c6703499836199", null ],
+    [ "MovementInform", "d3/d4a/a23327.html#add9b2e60fb2ffc8a3905f063a2f3d0ae", null ],
+    [ "Reset", "d3/d4a/a23327.html#afc9522a26060643f2f9d25a8a98691b7", null ],
+    [ "UpdateAI", "d3/d4a/a23327.html#a40a6dd5ed2954be7df4612a7552e1bc0", null ],
+    [ "_movedToPlatform", "d3/d4a/a23327.html#aa6c0c391355ac0b698d67796efd63062", null ],
+    [ "_reachedPlatform", "d3/d4a/a23327.html#af3476318b4721bd52facaf735eabb1f9", null ]
 ];

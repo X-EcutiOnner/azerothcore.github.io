@@ -1,8 +1,6 @@
 var a24259 =
 [
-    [ "go_skull_pile", "d1/d69/a24259.html#a9cf8dfef432c4967c60f66e645585770", null ],
-    [ "OnGossipHello", "d1/d69/a24259.html#ac95d39ea03e78fee2a10603d8c7f8840", null ],
-    [ "OnGossipSelect", "d1/d69/a24259.html#afb8e8db2705355e975fa48c98e09f20b", null ],
-    [ "SendActionMenu", "d1/d69/a24259.html#a048dd224b46ead864958ad524d76167f", null ],
-    [ "_result", "d1/d69/a24259.html#af74fcd75404c0886128401d661067394", null ]
+    [ "npc_unkor_the_ruthlessAI", "dc/dff/a24263.html", "dc/dff/a24263" ],
+    [ "npc_unkor_the_ruthless", "d1/d69/a24259.html#a4eb173932f39c5503d1db91d55f3a5b7", null ],
+    [ "GetAI", "d1/d69/a24259.html#a552a19b9a48e90f3b093e2b9e16ec867", null ]
 ];

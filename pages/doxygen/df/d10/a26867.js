@@ -1,6 +1,7 @@
 var a26867 =
 [
-    [ "HandleHeal", "df/d10/a26867.html#a03afbdbdc8555fc2d558a5e48f7340a0", null ],
-    [ "PrepareSpellScript", "df/d10/a26867.html#a61a601108cd59e5d87634c02b002e20d", null ],
-    [ "Register", "df/d10/a26867.html#ae46c965fc77aa61aaa3c426c8ecc585c", null ]
+    [ "OnProc", "df/d10/a26867.html#a7ab183d734c543be2866c57f1e5cc508", null ],
+    [ "PrepareAuraScript", "df/d10/a26867.html#a31118cda9f29318f4620caf38c09522a", null ],
+    [ "Register", "df/d10/a26867.html#ac27f99aafa92ae85a247c6f25ece8c7b", null ],
+    [ "Validate", "df/d10/a26867.html#aa193bddd2ba9efe70343c5501d737fa4", null ]
 ];

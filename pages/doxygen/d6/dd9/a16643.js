@@ -1,6 +1,8 @@
 var a16643 =
 [
-    [ "instance_drak_tharon_keep_InstanceScript", "d1/dfa/a16647.html", "d1/dfa/a16647" ],
-    [ "instance_drak_tharon_keep", "d6/dd9/a16643.html#a1f375185dba1619fee36160549eb91f4", null ],
-    [ "GetInstanceScript", "d6/dd9/a16643.html#aca6364452dc39e747af152695d479bf8", null ]
+    [ "HandleRemove", "d6/dd9/a16643.html#a362b16f69a19adae6b673bd9ead55a83", null ],
+    [ "PeriodicTick", "d6/dd9/a16643.html#aa432052d61dc48066433b41b84ffbe5f", null ],
+    [ "PrepareAuraScript", "d6/dd9/a16643.html#a3ffbd618820adf77b2c64a29816f5204", null ],
+    [ "Register", "d6/dd9/a16643.html#ac2ac207d2e193a9c2f9904b394113c4d", null ],
+    [ "Validate", "d6/dd9/a16643.html#abed6574398a7d005e95feba6b54243a1", null ]
 ];

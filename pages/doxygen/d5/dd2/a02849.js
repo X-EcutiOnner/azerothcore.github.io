@@ -1,7 +1,7 @@
 var a02849 =
 [
-    [ "boss_epoch", "df/dcf/a14611.html", "df/dcf/a14611" ],
-    [ "boss_epoch::boss_epochAI", "db/d72/a14615.html", "db/d72/a14615" ],
+    [ "boss_epoch", "d9/db9/a14623.html", "d9/db9/a14623" ],
+    [ "boss_epoch::boss_epochAI", "db/d7f/a14627.html", "db/d7f/a14627" ],
     [ "Events", "d5/dd2/a02849.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_CHARGE_TARGET", "d7/dcb/a04028.html#af60e00b78607064c5be6aa9397ea49c1ae9b5b6a7dd72b493b6874d7408585a02", null ],
       [ "EVENT_CLEAVE", "d7/dcb/a04028.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a", null ],

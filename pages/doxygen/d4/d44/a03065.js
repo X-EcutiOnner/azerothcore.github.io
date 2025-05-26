@@ -1,10 +1,10 @@
 var a03065 =
 [
-    [ "boss_tharon_ja", "d1/d03/a16599.html", "d1/d03/a16599" ],
-    [ "boss_tharon_ja::boss_tharon_jaAI", "d8/d8c/a16603.html", "d8/d8c/a16603" ],
-    [ "spell_tharon_ja_curse_of_life_aura", "d9/d5a/a16607.html", "d9/d5a/a16607" ],
-    [ "spell_tharon_ja_dummy_aura", "d1/df8/a16611.html", "d1/df8/a16611" ],
-    [ "spell_tharon_ja_clear_gift_of_tharon_ja", "dd/d85/a16615.html", "dd/d85/a16615" ],
+    [ "boss_tharon_ja", "d1/df8/a16611.html", "d1/df8/a16611" ],
+    [ "boss_tharon_ja::boss_tharon_jaAI", "dd/d85/a16615.html", "dd/d85/a16615" ],
+    [ "spell_tharon_ja_curse_of_life_aura", "de/d02/a16619.html", "de/d02/a16619" ],
+    [ "spell_tharon_ja_dummy_aura", "de/dea/a16623.html", "de/dea/a16623" ],
+    [ "spell_tharon_ja_clear_gift_of_tharon_ja", "d3/d18/a16627.html", "d3/d18/a16627" ],
     [ "Misc", "d4/d44/a03065.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
       [ "DATA_SKILLPOINT_MIN", "db/db0/a03722.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a3093ddfcacf2742f4fb344843e2e7ce6", null ],
       [ "NEFARIUS_PATH_2", "d6/dc7/a03683.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a09833188939fe77088ed4fb2cfedb875", null ],

@@ -1,6 +1,7 @@
 var a13311 =
 [
-    [ "HandlePeriodic", "d7/d88/a13311.html#ae090fc1fc8eab18cf6f744d9385fb713", null ],
-    [ "PrepareAuraScript", "d7/d88/a13311.html#a2722b97e12e9371745d7f38504d9efdf", null ],
-    [ "Register", "d7/d88/a13311.html#acb892b1e0281da08af07b2dd2a04ca03", null ]
+    [ "HandleScriptEffect", "d7/d88/a13311.html#ae631c634c77cc207338e3549a664969b", null ],
+    [ "PrepareSpellScript", "d7/d88/a13311.html#ac9f825f10512be5849c46460e9cdbec8", null ],
+    [ "Register", "d7/d88/a13311.html#ac8a4d26de8c78942efc5cfbf78c64633", null ],
+    [ "Validate", "d7/d88/a13311.html#ab05236bc29c00cfc7a5dfb88a8c2ee98", null ]
 ];

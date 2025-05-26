@@ -1,7 +1,15 @@
 var a13007 =
 [
-    [ "HandleScript", "da/d88/a13007.html#a03f8c24445ee4ac82a4cf2caece38f90", null ],
-    [ "PrepareSpellScript", "da/d88/a13007.html#a034195e58f02225c172b70c3967fe3ad", null ],
-    [ "Register", "da/d88/a13007.html#afaf3a6fd54f499982bd1cfd6e4c6c1a2", null ],
-    [ "Validate", "da/d88/a13007.html#a8ac78c00c49b1eb2fade4100a810d367", null ]
+    [ "boss_kormok", "da/d88/a13007.html#a2bacfd366d084cae31b8cc689fb26d0b", null ],
+    [ "DamageTaken", "da/d88/a13007.html#a2aa7fedea09b4d0526028826be2cb360", null ],
+    [ "IsSummonedBy", "da/d88/a13007.html#a641bd06b5da44e04534150fc1fc6f9e0", null ],
+    [ "JustDied", "da/d88/a13007.html#a219bc4f5e13e58bb4a8f79cbc36b5ad7", null ],
+    [ "JustEngagedWith", "da/d88/a13007.html#a7fc5bb05831e5b8e22c7d59c5c71f87a", null ],
+    [ "JustSummoned", "da/d88/a13007.html#a49ba1031e5639c3d8fdaf9ae9884a038", null ],
+    [ "Reset", "da/d88/a13007.html#a70252bf1680510294f62e2c42220156e", null ],
+    [ "SummonedCreatureDespawn", "da/d88/a13007.html#a6f23b4b006de4b8b5fda6e0203e2f8a7", null ],
+    [ "UpdateAI", "da/d88/a13007.html#aea5651a98492885eb4d598714df4fd40", null ],
+    [ "_mages", "da/d88/a13007.html#ae0de3f9848cb9051a18ba15347af3e7a", null ],
+    [ "_scheduler", "da/d88/a13007.html#a540ef7a05a503a989f93d4b53daacb4b", null ],
+    [ "_summons", "da/d88/a13007.html#aefaac0c5af45f63faeac6bf9ef1ca7fc", null ]
 ];

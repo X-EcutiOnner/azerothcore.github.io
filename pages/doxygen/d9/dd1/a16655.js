@@ -1,7 +1,6 @@
 var a16655 =
 [
-    [ "HandleScriptEffect", "d9/dd1/a16655.html#a667e50b01f431dba025f692484f6e7ba", null ],
-    [ "PrepareSpellScript", "d9/dd1/a16655.html#a9a5ffd28102a519c06f3715d7f2b1039", null ],
-    [ "Register", "d9/dd1/a16655.html#a7ffa6eb498e9ec06d5cb4f81cff44389", null ],
-    [ "Validate", "d9/dd1/a16655.html#a0ab270193a95f9043afd40c9ffd2a46b", null ]
+    [ "instance_drak_tharon_keep_InstanceScript", "d6/d60/a16659.html", "d6/d60/a16659" ],
+    [ "instance_drak_tharon_keep", "d9/dd1/a16655.html#a1f375185dba1619fee36160549eb91f4", null ],
+    [ "GetInstanceScript", "d9/dd1/a16655.html#aca6364452dc39e747af152695d479bf8", null ]
 ];

@@ -1,9 +1,6 @@
 var a19407 =
 [
-    [ "npc_stormforged_lieutenantAI", "d2/db4/a19407.html#a74d84534c39e7e6f3774099fd6b28d29", null ],
-    [ "JustEngagedWith", "d2/db4/a19407.html#a112bd4adaa290afd04d229347a96ff4a", null ],
-    [ "Reset", "d2/db4/a19407.html#aaef10316b8f7c3e980082cab722ffe9f", null ],
-    [ "UpdateAI", "d2/db4/a19407.html#a3944886823dad81bcd5d72e020910143", null ],
-    [ "BjarngrimGUID", "d2/db4/a19407.html#a4003deba30ff47ed3296325112b6cb0e", null ],
-    [ "events", "d2/db4/a19407.html#a530d16086a9e613f6f0299186f8bcc33", null ]
+    [ "boss_bjarngrimAI", "d1/db7/a19411.html", "d1/db7/a19411" ],
+    [ "boss_bjarngrim", "d2/db4/a19407.html#ab509688547d41ec1fd094fdc45291959", null ],
+    [ "GetAI", "d2/db4/a19407.html#aff6455d2a327bbf3426d10a07f7b0e44", null ]
 ];

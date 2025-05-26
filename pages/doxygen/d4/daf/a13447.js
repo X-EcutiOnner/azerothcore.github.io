@@ -1,7 +1,12 @@
 var a13447 =
 [
-    [ "npc_eris_hevenfireAI", "df/da6/a13451.html", "df/da6/a13451" ],
-    [ "npc_eris_hevenfire", "d4/daf/a13447.html#a77f0836dc0b19114316b8b67839d8033", null ],
-    [ "GetAI", "d4/daf/a13447.html#ad67a81ad20fac785c199c16fea8fe6f8", null ],
-    [ "OnQuestAccept", "d4/daf/a13447.html#a1e0baec5706cfddd678b58eb9359997e", null ]
+    [ "boss_twilight_corrupter", "d4/daf/a13447.html#afe140d6231d9ad8543e17c4a8a8230c0", null ],
+    [ "InitializeAI", "d4/daf/a13447.html#afe06461e9f3e1549da6631d2f89406c4", null ],
+    [ "JustEngagedWith", "d4/daf/a13447.html#a84803153e7e7d5d7efe0106139214b1f", null ],
+    [ "KilledUnit", "d4/daf/a13447.html#aa18d2fc90e1ccd322ec9d3128ba206d2", null ],
+    [ "MoveInLineOfSight", "d4/daf/a13447.html#a637cdd43f2f9a4f773b4b8e8f3c88730", null ],
+    [ "Reset", "d4/daf/a13447.html#a27720f58056206c09bce41ae50018a83", null ],
+    [ "UpdateAI", "d4/daf/a13447.html#a580fbaa55a5c0193c1ef2c6b281d8d9e", null ],
+    [ "_introSpoken", "d4/daf/a13447.html#a1924750c9d41ed588a29aace3c40742d", null ],
+    [ "_scheduler", "d4/daf/a13447.html#a6c49eee2be24199418096cc48c50d384", null ]
 ];

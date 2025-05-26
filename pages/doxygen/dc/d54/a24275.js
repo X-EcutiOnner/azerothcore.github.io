@@ -1,6 +1,8 @@
 var a24275 =
 [
-    [ "npc_pet_dk_ghoulAI", "d6/d7f/a24279.html", "d6/d7f/a24279" ],
-    [ "npc_pet_dk_ghoul", "dc/d54/a24275.html#ac8af6ae753151a08e80d434a04ef58db", null ],
-    [ "GetAI", "dc/d54/a24275.html#a74b068bdccf5d9b25b4ef3bff0a193ef", null ]
+    [ "go_skull_pile", "dc/d54/a24275.html#a9cf8dfef432c4967c60f66e645585770", null ],
+    [ "OnGossipHello", "dc/d54/a24275.html#ac95d39ea03e78fee2a10603d8c7f8840", null ],
+    [ "OnGossipSelect", "dc/d54/a24275.html#afb8e8db2705355e975fa48c98e09f20b", null ],
+    [ "SendActionMenu", "dc/d54/a24275.html#a048dd224b46ead864958ad524d76167f", null ],
+    [ "_result", "dc/d54/a24275.html#af74fcd75404c0886128401d661067394", null ]
 ];

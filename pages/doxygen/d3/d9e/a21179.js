@@ -1,7 +1,12 @@
 var a21179 =
 [
-    [ "PrepareAuraScript", "d3/d9e/a21179.html#adedc1cb8b42e9cd3c2e68415bca59c6b", null ],
-    [ "Register", "d3/d9e/a21179.html#a7225d1f83921e4de06516c1db5a5038a", null ],
-    [ "TriggerFists", "d3/d9e/a21179.html#af5d91d679f6bed5afc675b8a5fd90210", null ],
-    [ "Validate", "d3/d9e/a21179.html#a977897c569245148eb94892bb42d4ca5", null ]
+    [ "boss_koralonAI", "d3/d9e/a21179.html#a3f5bc42a141011e543d1215eac09dc74", null ],
+    [ "AttackStart", "d3/d9e/a21179.html#aa84e6e9a302172e134163cd07ca57864", null ],
+    [ "JustDied", "d3/d9e/a21179.html#a102c10792d9e7df61d920b5a43f58e51", null ],
+    [ "JustEngagedWith", "d3/d9e/a21179.html#aa7503618dd09e0aebac44394595f4715", null ],
+    [ "Reset", "d3/d9e/a21179.html#a0e57ee42e45e55b1a69ac7cb0f1d2666", null ],
+    [ "UpdateAI", "d3/d9e/a21179.html#aa944aad2eb68adc917cba743d1e530c7", null ],
+    [ "events", "d3/d9e/a21179.html#abc8b9a8759b0e3e95d66c16615f621f5", null ],
+    [ "pInstance", "d3/d9e/a21179.html#a4bdea1a9d7e46d4ef71cd43ce969e59c", null ],
+    [ "rotateTimer", "d3/d9e/a21179.html#ad4b766094f28e940b0b7971d6dadc277", null ]
 ];

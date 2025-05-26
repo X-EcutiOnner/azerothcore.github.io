@@ -1,11 +1,10 @@
 var a27503 =
 [
-    [ "npc_injured_patientAI", "db/db1/a27503.html#a0973487623f1771c598648bc06a6d9a3", null ],
-    [ "JustEngagedWith", "db/db1/a27503.html#a621a8cc3f6b9655760431d52766ca589", null ],
-    [ "Reset", "db/db1/a27503.html#a007c9c7a4047374574cad17e9309d7c1", null ],
-    [ "SpellHit", "db/db1/a27503.html#ac9381e7c958348ae7a5e98fea7dcbe37", null ],
-    [ "UpdateAI", "db/db1/a27503.html#a54d0a5574175747779878dce0ebfd44f", null ],
-    [ "_scheduler", "db/db1/a27503.html#a60428fa97c8f6520338d53ed368c4c35", null ],
-    [ "Coord", "db/db1/a27503.html#af5a6f87c0379edd07a8756018b0c8661", null ],
-    [ "DoctorGUID", "db/db1/a27503.html#ad1de0d556a784aa16d87b8367fdb38e3", null ]
+    [ "npc_dancing_flamesAI", "db/db1/a27503.html#a3d597b2ee826c86b5a8feb3aa144a459", null ],
+    [ "JustEngagedWith", "db/db1/a27503.html#ae0d71d4f9074c05ea76951ede6c7702a", null ],
+    [ "ReceiveEmote", "db/db1/a27503.html#a13aae489e8b03121c8fbae12e83bdfaa", null ],
+    [ "Reset", "db/db1/a27503.html#a53b49dadc70e3e134ca49cd239b569d6", null ],
+    [ "UpdateAI", "db/db1/a27503.html#a555f2ed0d762c5c183ec87580bae46b1", null ],
+    [ "Active", "db/db1/a27503.html#aa79036bed206327847bf5ad2e768e8f6", null ],
+    [ "CanIteract", "db/db1/a27503.html#a866bfc106fc33433b4eb13fabd9c39c6", null ]
 ];

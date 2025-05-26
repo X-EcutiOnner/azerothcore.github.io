@@ -62,6 +62,7 @@ var a07967 =
     [ "GetHomePosition", "da/d4d/a07967.html#a406ff2cf337ffe4dde864ecf85a6f54b", null ],
     [ "GetLastLeashExtensionTime", "da/d4d/a07967.html#add280de31c13efc3496f18d83468b3ff", null ],
     [ "GetLastLeashExtensionTimePtr", "da/d4d/a07967.html#aa4ab3aec6cfebf9c742d6d6d14464b70", null ],
+    [ "GetLeashTimer", "da/d4d/a07967.html#aef3a06b9e6b6a626262247079afe8f54", null ],
     [ "getLevelForTarget", "da/d4d/a07967.html#afb49a62b1afbd2af7e648de979aa34ce", null ],
     [ "GetLootMode", "da/d4d/a07967.html#a31e933737562cf862b2e0cd92af252a1", null ],
     [ "GetLootRecipient", "da/d4d/a07967.html#a8e15449c79eb42d558351e07291ae719", null ],

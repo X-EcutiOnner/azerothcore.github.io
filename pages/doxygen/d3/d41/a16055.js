@@ -1,7 +1,7 @@
 var a16055 =
 [
-    [ "OnApply", "d3/d41/a16055.html#ad072d243dd148e1b34aea29a2e5d175e", null ],
-    [ "PrepareAuraScript", "d3/d41/a16055.html#ae657ceca517aa3f725ba72c18ddbaf1c", null ],
-    [ "Register", "d3/d41/a16055.html#a4eab0bd70eb884f7736e90f9001d3cc7", null ],
-    [ "Validate", "d3/d41/a16055.html#a2c9e4d82bd25f439e01a05700563b122", null ]
+    [ "HandleScriptEffect", "d3/d41/a16055.html#a9582a8faa1b8ba973a76d651a7479348", null ],
+    [ "PrepareSpellScript", "d3/d41/a16055.html#a681102507df3aa365ee2e2f064be5e54", null ],
+    [ "Register", "d3/d41/a16055.html#aebfea5eb3339ede812b43a08a8cb82b9", null ],
+    [ "Validate", "d3/d41/a16055.html#ae4a5c7952856caf2a2d3919b24b61949", null ]
 ];

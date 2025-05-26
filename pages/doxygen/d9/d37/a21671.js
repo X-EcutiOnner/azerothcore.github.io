@@ -1,6 +1,8 @@
 var a21671 =
 [
-    [ "npc_injured_7th_legion_soldierAI", "d7/d7c/a21675.html", "d7/d7c/a21675" ],
-    [ "npc_injured_7th_legion_soldier", "d9/d37/a21671.html#a9d3c647f485dbca5efeec8f784efba1b", null ],
-    [ "GetAI", "d9/d37/a21671.html#a0feca7aedcf3c07253d4d402266189cc", null ]
+    [ "npc_future_youAI", "d9/d37/a21671.html#a7608c050dd198e3133050e222b42f62b", null ],
+    [ "EnterEvadeMode", "d9/d37/a21671.html#a0b15c8af6075e323e56b2170ce4eefc0", null ],
+    [ "MoveInLineOfSight", "d9/d37/a21671.html#a35b67f9e948f5ffbde8a423190ece603", null ],
+    [ "Reset", "d9/d37/a21671.html#a01a8cd8f94dd614de2ffefdb19cd9f29", null ],
+    [ "UpdateAI", "d9/d37/a21671.html#ac110daa6b4cf6bf26d9e9f9829577fa6", null ]
 ];

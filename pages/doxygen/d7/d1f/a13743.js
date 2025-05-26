@@ -1,8 +1,7 @@
 var a13743 =
 [
-    [ "FilterTargets", "d7/d1f/a13743.html#a43e45471ad3b8a0583aeb413d48a0f01", null ],
-    [ "OnHit", "d7/d1f/a13743.html#ac25886536c353f09838188362fb8ae84", null ],
-    [ "PrepareSpellScript", "d7/d1f/a13743.html#aab0e63163b8d84f20bbe0bcdc60c9a85", null ],
-    [ "Register", "d7/d1f/a13743.html#afa419365236c09914f758846978e2cbb", null ],
-    [ "Validate", "d7/d1f/a13743.html#ae62334ed5f46641def4a38ee178cd9d0", null ]
+    [ "HandleDispel", "d7/d1f/a13743.html#a415977576283972ce4a1050c70826d7c", null ],
+    [ "PrepareAuraScript", "d7/d1f/a13743.html#a95dfbfe631e8ec9213a32c6f52d3feb1", null ],
+    [ "Register", "d7/d1f/a13743.html#a1bbb71eeb2273c2ecd0eb774b68735dc", null ],
+    [ "Validate", "d7/d1f/a13743.html#ac496e7bef875ca46660217e74fc3bc74", null ]
 ];

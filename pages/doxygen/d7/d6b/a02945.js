@@ -1,8 +1,8 @@
 var a02945 =
 [
-    [ "boss_rajaxx", "d7/db5/a14939.html", "d7/db5/a14939" ],
-    [ "spell_rajaxx_thundercrash", "de/da1/a14943.html", "de/da1/a14943" ],
-    [ "npc_general_andorov", "db/d9d/a14947.html", "db/d9d/a14947" ],
+    [ "boss_rajaxx", "d3/d24/a14951.html", "d3/d24/a14951" ],
+    [ "spell_rajaxx_thundercrash", "d4/d7a/a14955.html", "d4/d7a/a14955" ],
+    [ "npc_general_andorov", "d3/d36/a14959.html", "d3/d36/a14959" ],
     [ "AndorovMisc", "d7/d6b/a02945.html#adfc3eda6f1c0f62c59171b07b63a3b70", [
       [ "FACTION_ANDOROV_ESCORT", "d7/d6b/a02945.html#adfc3eda6f1c0f62c59171b07b63a3b70a5f587733fae72c0e10bf101bdf781343", null ],
       [ "SPELL_AURA_OF_COMMAND", "d7/d6b/a02945.html#adfc3eda6f1c0f62c59171b07b63a3b70a66c411861d5bf2a38581a29d3e18ddbc", null ],

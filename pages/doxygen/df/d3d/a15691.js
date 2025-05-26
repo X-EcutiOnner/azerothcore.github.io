@@ -1,6 +1,7 @@
 var a15691 =
 [
-    [ "npc_shadowpriest_sezzizAI", "de/da0/a15695.html", "de/da0/a15695" ],
-    [ "npc_shadowpriest_sezziz", "df/d3d/a15691.html#a1be46acc9d8f1405f925f7b7f87592ea", null ],
-    [ "GetAI", "df/d3d/a15691.html#a1513b766f18dbc290b6682582fd33b1d", null ]
+    [ "go_troll_cageAI", "df/d3d/a15691.html#ae742afdb7a37d64bb852b7ecd076d007", null ],
+    [ "GossipHello", "df/d3d/a15691.html#a5c91cb491021b15ba70cc8ef5f07d037", null ],
+    [ "initBlyCrewMember", "df/d3d/a15691.html#a6bfb77ec97367d8704885acfef801b74", null ],
+    [ "instance", "df/d3d/a15691.html#ad5d736dd6cbe7a23d03f21004cae530d", null ]
 ];

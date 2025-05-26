@@ -1,7 +1,7 @@
 var a02843 =
 [
-    [ "boss_infinite_corruptor", "d5/df2/a14619.html", "d5/df2/a14619" ],
-    [ "boss_infinite_corruptor::boss_infinite_corruptorAI", "d9/db9/a14623.html", "d9/db9/a14623" ],
+    [ "boss_infinite_corruptor", "d2/d38/a14631.html", "d2/d38/a14631" ],
+    [ "boss_infinite_corruptor::boss_infinite_corruptorAI", "d0/d7f/a14635.html", "d0/d7f/a14635" ],
     [ "Events", "d0/d45/a02843.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_CHARGE_TARGET", "d7/dcb/a04028.html#af60e00b78607064c5be6aa9397ea49c1ae9b5b6a7dd72b493b6874d7408585a02", null ],
       [ "EVENT_CLEAVE", "d7/dcb/a04028.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a", null ],

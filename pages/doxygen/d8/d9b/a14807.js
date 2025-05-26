@@ -1,12 +1,22 @@
 var a14807 =
 [
-    [ "instance_onyxias_lair_InstanceMapScript", "d8/d9b/a14807.html#a15c6f3f16f9cfa1f9fc1b7a2c62bcc64", null ],
-    [ "CheckAchievementCriteriaMeet", "d8/d9b/a14807.html#a20761aa41e0f70836c4525f17faf064f", null ],
-    [ "Initialize", "d8/d9b/a14807.html#a5d109b5acfa2e21e3c50e35dcdf119dd", null ],
-    [ "OnGameObjectCreate", "d8/d9b/a14807.html#a1e99600992673d165382d99236e0c59f", null ],
-    [ "SetBossState", "d8/d9b/a14807.html#a2a28e42ec49fce2ef47288c1ad4b6e61", null ],
-    [ "SetData", "d8/d9b/a14807.html#ac5df2ecb9f88dbedbb1f59ad2bdc8b96", null ],
-    [ "bDeepBreath", "d8/d9b/a14807.html#a96211e4e0e033e16d4de57b6e40f2023", null ],
-    [ "ManyWhelpsCounter", "d8/d9b/a14807.html#aea148b562a4f2cd752ac73240f902993", null ],
-    [ "str_data", "d8/d9b/a14807.html#ad0b65a3cfccdf07d017757751f4e15fa", null ]
+    [ "boss_onyxia", "d8/d9b/a14807.html#ab46b86e0eeee3918d1308a1fdb48e22f", null ],
+    [ "CheckInRoom", "d8/d9b/a14807.html#a4278354db54db2190f8e5639d51f180e", null ],
+    [ "DamageTaken", "d8/d9b/a14807.html#abf2607b4eb644bd42edc9e723ec92ef4", null ],
+    [ "DoAction", "d8/d9b/a14807.html#a9e6a94b225caf455f9072c3a430ba49e", null ],
+    [ "HandleWhelpSpam", "d8/d9b/a14807.html#aa03a986845d79dba3c60446d84ec7189", null ],
+    [ "Initialize", "d8/d9b/a14807.html#ae64cfe5c532c4eae8e76c4ddd845e278", null ],
+    [ "JustEngagedWith", "d8/d9b/a14807.html#a1dff56a293babebe82b3947c53a1e0e9", null ],
+    [ "JustSummoned", "d8/d9b/a14807.html#a424a1815a0f51097c184f7582f1b2f45", null ],
+    [ "MovementInform", "d8/d9b/a14807.html#a1413f44b212b651f276ecb1e2f01c36a", null ],
+    [ "Reset", "d8/d9b/a14807.html#a837fb19b4c85d87ebf026b2f692696bb", null ],
+    [ "SetPhase", "d8/d9b/a14807.html#a7b0df8fb7524d223c14f360c2eb9e282", null ],
+    [ "SpellHitTarget", "d8/d9b/a14807.html#ace3d7dd677a4716e13f4c0c1c5944471", null ],
+    [ "UpdateAI", "d8/d9b/a14807.html#ad04fc48bd1aa5ffa5570c0e44b2a112c", null ],
+    [ "bManyWhelpsAvailable", "d8/d9b/a14807.html#a78565986741d7225de01c283613ba8f2", null ],
+    [ "CurrentWP", "d8/d9b/a14807.html#a1b1544c5aea342607a8bc83b49396340", null ],
+    [ "Phase", "d8/d9b/a14807.html#a3b10bf8659039752648b2035da7808d6", null ],
+    [ "whelpCount", "d8/d9b/a14807.html#a447ca146d4fad7506a274dea1068ec84", null ],
+    [ "whelpSpam", "d8/d9b/a14807.html#ab465e9d7dd63ca51559b9b8f1ed9921e", null ],
+    [ "whelpSpamTimer", "d8/d9b/a14807.html#a0990000f7fd0041b8da642d1dd714406", null ]
 ];

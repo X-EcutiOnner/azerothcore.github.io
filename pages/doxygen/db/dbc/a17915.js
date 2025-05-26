@@ -1,6 +1,7 @@
 var a17915 =
 [
-    [ "npc_precious_iccAI", "db/dcf/a17919.html", "db/dcf/a17919" ],
-    [ "npc_precious_icc", "db/dbc/a17915.html#a463eb0df1edb17e154658dac131f0898", null ],
-    [ "GetAI", "db/dbc/a17915.html#aa63840c5968a089bff41dcd9c86d5849", null ]
+    [ "HandleCast", "db/dbc/a17915.html#aaa3262bc782e342825d4caba2954e95d", null ],
+    [ "PrepareSpellScript", "db/dbc/a17915.html#ae4d1f05b978e2a46d7dc3410def73978", null ],
+    [ "Register", "db/dbc/a17915.html#ac59fb77c6a52d7a603dbb27e933a6814", null ],
+    [ "Validate", "db/dbc/a17915.html#a6ca80316fe7bcbb4ebda095d633bb1bc", null ]
 ];

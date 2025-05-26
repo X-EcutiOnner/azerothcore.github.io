@@ -1,8 +1,7 @@
 var a15367 =
 [
-    [ "CheckRequirement", "d7/d01/a15367.html#ae2b5e9accd0df2cc99e976eaab2d3f35", null ],
-    [ "HandleDummy", "d7/d01/a15367.html#a6d2c75ad53f0e0f7be2df037f385d686", null ],
-    [ "PrepareSpellScript", "d7/d01/a15367.html#a5b0a5f957a7b996cbe6b219a9803069e", null ],
-    [ "Register", "d7/d01/a15367.html#a46f4aec6f7786d0abc8ded21ef16e6f6", null ],
-    [ "Validate", "d7/d01/a15367.html#ab3f8d94f3b8d44e668743cb821430a92", null ]
+    [ "HandleEffectPeriodic", "d7/d01/a15367.html#ac47c157dbd193bc131d281666ae2097f", null ],
+    [ "PrepareAuraScript", "d7/d01/a15367.html#ac650ece6e2d9e9e7ff9b863d77f84975", null ],
+    [ "Register", "d7/d01/a15367.html#ac3c158fdddd007d1d7986470032bfc25", null ],
+    [ "Validate", "d7/d01/a15367.html#a26b117dc8a3b104dec9de27597fbe55d", null ]
 ];

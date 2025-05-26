@@ -1,6 +1,6 @@
 var a16095 =
 [
-    [ "boss_saviana_ragefireAI", "d8/d75/a16099.html", "d8/d75/a16099" ],
-    [ "boss_saviana_ragefire", "df/d8d/a16095.html#a5964bbc510355a8b1fd08bd5f9f5f8c0", null ],
-    [ "GetAI", "df/d8d/a16095.html#a0a0073d8710af066d9711636f4d5b01e", null ]
+    [ "HandleHealPct", "df/d8d/a16095.html#ad13b3924815ac3da7902c8292a760943", null ],
+    [ "PrepareSpellScript", "df/d8d/a16095.html#aeea718bce7dd5aa4ac33bbd1a95a65c0", null ],
+    [ "Register", "df/d8d/a16095.html#a3016c31c072d6417bbe47c2891059718", null ]
 ];

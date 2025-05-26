@@ -1,6 +1,8 @@
 var a14047 =
 [
-    [ "instance_zulgurub_InstanceMapScript", "dd/dac/a14051.html", "dd/dac/a14051" ],
-    [ "instance_zulgurub", "df/d5d/a14047.html#aedc8c70e880ed9ccaf58b7154f9ba341", null ],
-    [ "GetInstanceScript", "df/d5d/a14047.html#a51f17d1135c7e97ff082d0d95ec3ffa4", null ]
+    [ "boss_venoxis", "df/d5d/a14047.html#a3e91a9022163a726cbc077d38459a5f5", null ],
+    [ "InitializeAI", "df/d5d/a14047.html#a1373b5fc673fce6aea1de40d970ac00d", null ],
+    [ "JustDied", "df/d5d/a14047.html#a63ccc5a9520ee30b0ebaf8c4d31e59b8", null ],
+    [ "JustEngagedWith", "df/d5d/a14047.html#afaa68ffbd5fecae48a044009326bcaed", null ],
+    [ "Reset", "df/d5d/a14047.html#a40cbcd4d41ff85ff71d5d913d8e62368", null ]
 ];

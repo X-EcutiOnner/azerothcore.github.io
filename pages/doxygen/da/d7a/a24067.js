@@ -1,6 +1,6 @@
 var a24067 =
 [
-    [ "npc_invis_infernal_casterAI", "dd/d96/a24071.html", "dd/d96/a24071" ],
-    [ "npc_invis_infernal_caster", "da/d7a/a24067.html#a9aed081ef904075830428bbc76f53874", null ],
-    [ "GetAI", "da/d7a/a24067.html#aede0c5cc390ea423169b1cba66d929cd", null ]
+    [ "HandleEffectRemove", "da/d7a/a24067.html#a2e73fd55dd7e6e658bc6c6623b650732", null ],
+    [ "PrepareAuraScript", "da/d7a/a24067.html#a9aabae3a6c57be9b17394d4a39fe24ec", null ],
+    [ "Register", "da/d7a/a24067.html#ac02217c103db141d75377e233e1e4242", null ]
 ];

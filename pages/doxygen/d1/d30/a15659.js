@@ -1,6 +1,6 @@
 var a15659 =
 [
-    [ "HandleSummon", "d1/d30/a15659.html#a730e0c865f8c0c12544be951a48fe9ff", null ],
-    [ "PrepareSpellScript", "d1/d30/a15659.html#a31271cd4668d3cbc4f4bdbeb693fe141", null ],
-    [ "Register", "d1/d30/a15659.html#ae388ee1b08891f021ab1308ec7ffebaa", null ]
+    [ "creatureID", "d1/d30/a15659.html#a44a9f5e58bfa58e2e2325e116e988f07", null ],
+    [ "pos", "d1/d30/a15659.html#a9705a858cc2c3867e104514d3a0a1866", null ],
+    [ "waveID", "d1/d30/a15659.html#a09b48f7f6da7e203ed50a8abc7f24e56", null ]
 ];

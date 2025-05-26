@@ -1,6 +1,6 @@
 var a17647 =
 [
-    [ "npc_cult_fanaticAI", "d4/d79/a17651.html", "d4/d79/a17651" ],
-    [ "npc_cult_fanatic", "de/d63/a17647.html#af29ab8f7628b96b0f192bccab74ca02e", null ],
-    [ "GetAI", "de/d63/a17647.html#ae4d22bac12d17d79669d3fccd4029952", null ]
+    [ "DaranavanMoveEvent", "de/d63/a17647.html#add38d87b9108c09aa9b9fd60f12abcde", null ],
+    [ "Execute", "de/d63/a17647.html#ada0ebc4a9c9f949dd0155a554a553543", null ],
+    [ "_darnavan", "de/d63/a17647.html#a7585edb957755efbc6064f232d50ea4e", null ]
 ];

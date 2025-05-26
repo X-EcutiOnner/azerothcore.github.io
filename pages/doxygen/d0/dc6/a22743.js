@@ -1,11 +1,7 @@
 var a22743 =
 [
-    [ "boss_high_nethermancer_zerevor", "d0/dc6/a22743.html#a2d3ce1a6d972c0b58efe5aad31014c09", null ],
-    [ "AttackStart", "d0/dc6/a22743.html#a270961bd3af6ce65eebc79130f4e3d47", null ],
-    [ "CastDampenMagicIfPossible", "d0/dc6/a22743.html#ab0af23baf43d377935811c52a346c566", null ],
-    [ "JustEngagedWith", "d0/dc6/a22743.html#a390f939ba01ee189fc55670eb4ff1a7e", null ],
-    [ "OnAuraRemove", "d0/dc6/a22743.html#a7dd31808dbf00f77b59fce84249778fe", null ],
-    [ "Reset", "d0/dc6/a22743.html#afd7a419de217b3d129f783ddc87780af", null ],
-    [ "UpdateAI", "d0/dc6/a22743.html#ae1ec04a655525cbb2a6a3c7e382cf078", null ],
-    [ "_canCastDampenMagic", "d0/dc6/a22743.html#a72c89454c2b0754690ae72fd7aacb0e8", null ]
+    [ "VerasEnvenom", "d0/dc6/a22743.html#ac8c5f4fcb63ea5141a71b56324de0b1f", null ],
+    [ "Execute", "d0/dc6/a22743.html#a4b7853bb835cf28aefe2d5b955372d70", null ],
+    [ "_owner", "d0/dc6/a22743.html#af9cf231119ab5592be9829784f20d2e0", null ],
+    [ "_targetGUID", "d0/dc6/a22743.html#a90d62907c775565765fa87903adb94ea", null ]
 ];

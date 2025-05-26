@@ -1,7 +1,7 @@
 var a25231 =
 [
-    [ "HandleScript", "d0/d25/a25231.html#a12f4c4a85f19ceb55d274428cf2b25a4", null ],
-    [ "PrepareSpellScript", "d0/d25/a25231.html#acf1173670c35c84ae7aba29be00d31cf", null ],
-    [ "Register", "d0/d25/a25231.html#a5a2c59463a0546b6f5cd375b3671b86b", null ],
-    [ "Validate", "d0/d25/a25231.html#a437a018fd6917bee51bdbba7cf29e53d", null ]
+    [ "HandleDummy", "d0/d25/a25231.html#a704a2f1c36b32809b22bc3edc87b3414", null ],
+    [ "PrepareSpellScript", "d0/d25/a25231.html#aad01f2888176e8a555fe7acd1bc3fd8b", null ],
+    [ "Register", "d0/d25/a25231.html#ae12fa2b2f9859b465a64fbec04345c9e", null ],
+    [ "Validate", "d0/d25/a25231.html#ad4bb369ef46122cd45c38d876884d350", null ]
 ];

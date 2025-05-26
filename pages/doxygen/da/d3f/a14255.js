@@ -1,6 +1,9 @@
 var a14255 =
 [
-    [ "HandleScript", "da/d3f/a14255.html#aa60824ed67ae87e96117fc5bf90bec8c", null ],
-    [ "PrepareSpellScript", "da/d3f/a14255.html#aab4303fff660c68db100e07a4423c39b", null ],
-    [ "Register", "da/d3f/a14255.html#a0fbc130652e58d9418cb3c5036b6aed2", null ]
+    [ "entries", "da/d3f/a14255.html#a8c55bbd253d6bea01e83c0aa7380dee5", null ],
+    [ "entries", "da/d3f/a14255.html#a953850b267eb6f599bb49d82080bdf64", null ],
+    [ "revelerId", "da/d3f/a14255.html#a9e4069ef00c8b4e31d8af06f34e12ad5", null ],
+    [ "schedule", "da/d3f/a14255.html#ad849701425622001519334f352ea6f3e", null ],
+    [ "size", "da/d3f/a14255.html#ae6a3fa59e1eb384255c247abadc962d5", null ],
+    [ "spawns", "da/d3f/a14255.html#aa081965795e3b9473be5b322b0c46505", null ]
 ];

@@ -1,6 +1,6 @@
 var a21403 =
 [
-    [ "npc_violet_hold_defense_system", "d6/d2b/a21403.html#abb5eb275e803201aad3010ad77aa4b41", null ],
-    [ "Reset", "d6/d2b/a21403.html#a77925ae6097f7a52d446ee20bbb3de62", null ],
-    [ "UpdateAI", "d6/d2b/a21403.html#ab39bc3da2d7ce33be1e27cd48fc16e89", null ]
+    [ "npc_azure_saboteurAI", "d5/d7c/a21407.html", "d5/d7c/a21407" ],
+    [ "npc_azure_saboteur", "d6/d2b/a21403.html#ae60362727a7a246b7c6c923ed96c7be7", null ],
+    [ "GetAI", "d6/d2b/a21403.html#a69b552fb6f725d00ac4b0303d36a7138", null ]
 ];

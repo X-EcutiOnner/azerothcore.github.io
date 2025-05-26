@@ -1,6 +1,6 @@
 var a16423 =
 [
-    [ "boss_jaraxxusAI", "d0/ddf/a16427.html", "d0/ddf/a16427" ],
-    [ "boss_jaraxxus", "da/d9a/a16423.html#a82cf0601aa16893d88d9b669a6d1fc72", null ],
-    [ "GetAI", "da/d9a/a16423.html#a518f7af9f86ab995e5195175b5a34bc6", null ]
+    [ "npc_toc_pet_hunterAI", "d0/ddf/a16427.html", "d0/ddf/a16427" ],
+    [ "npc_toc_pet_hunter", "da/d9a/a16423.html#a1aa59cca8cd71e9f17fb9f55cf03c1da", null ],
+    [ "GetAI", "da/d9a/a16423.html#a9febc3086b0627324277f45d49cdd03f", null ]
 ];
