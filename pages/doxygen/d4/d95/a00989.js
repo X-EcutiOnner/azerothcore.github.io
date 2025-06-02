@@ -1,36 +1,89 @@
 var a00989 =
 [
-    [ "ScriptAction", "d9/d9a/a09763.html", "d9/d9a/a09763" ],
-    [ "PositionFullTerrainStatus", "d5/dfe/a09767.html", "d5/dfe/a09767" ],
-    [ "InstanceTemplate", "d8/d88/a09771.html", "d8/d88/a09771" ],
-    [ "ZoneDynamicInfo", "da/d24/a09775.html", "da/d24/a09775" ],
-    [ "Map", "dd/d0b/a09779.html", "dd/d0b/a09779" ],
-    [ "InstanceMap", "d6/d17/a09783.html", "d6/d17/a09783" ],
-    [ "BattlegroundMap", "d1/ddb/a09787.html", "d1/ddb/a09787" ],
-    [ "DEFAULT_HEIGHT_SEARCH", "d4/d95/a00989.html#a0c8d9f4ee232e2a0f72ae665fc6dc189", null ],
-    [ "MIN_UNLOAD_DELAY", "d4/d95/a00989.html#a092c3d2c90fd46d14455e6ff2413dabb", null ],
-    [ "CreatureGroupHolderType", "d4/d95/a00989.html#a37ba261cbc15afa0e5cb95e9d34fe115", null ],
-    [ "TransportsContainer", "d4/d95/a00989.html#aa1d1667bce2cfb0f4337b52f9754cb73", null ],
-    [ "ZoneDynamicInfoMap", "d4/d95/a00989.html#a1fae3a663f0e007e557bb415f89b8318", null ],
-    [ "EncounterCreditType", "d4/d95/a00989.html#acea202894a6252d2df201860aa39d037", [
-      [ "ENCOUNTER_CREDIT_KILL_CREATURE", "d4/d95/a00989.html#acea202894a6252d2df201860aa39d037a9f7df7852d0cd0994fbc5c531928a03f", null ],
-      [ "ENCOUNTER_CREDIT_CAST_SPELL", "d4/d95/a00989.html#acea202894a6252d2df201860aa39d037aca618c5b7ae69c151ea4da7955578b02", null ]
+    [ "SunsReachReclamationData", "dc/d96/a11519.html", "dc/d96/a11519" ],
+    [ "WorldState", "d7/d61/a11523.html", "d7/d61/a11523" ],
+    [ "sWorldState", "d4/d95/a00989.html#a3a4f495a024c9f1774c913dd8ac4929f", null ],
+    [ "SunsReachCounters", "d4/d95/a00989.html#aaf07f00f32588714a5bb8a6b3662211c", [
+      [ "COUNTER_ERRATIC_BEHAVIOR", "d4/d95/a00989.html#aaf07f00f32588714a5bb8a6b3662211ca23b1e2d313de5eb6487c856608b41641", null ],
+      [ "COUNTER_SANCTUM_WARDS", "d4/d95/a00989.html#aaf07f00f32588714a5bb8a6b3662211caea0b3ede048b8fe9d88385bfb4dbb6de", null ],
+      [ "COUNTER_BATTLE_FOR_THE_SUNS_REACH_ARMORY", "d4/d95/a00989.html#aaf07f00f32588714a5bb8a6b3662211ca76338d51f6eec0825ff259bbd34dc5a2", null ],
+      [ "COUNTER_DISTRACTION_AT_THE_DEAD_SCAR", "d4/d95/a00989.html#aaf07f00f32588714a5bb8a6b3662211cae99c00ceb33ce528fc0de353f5449b86", null ],
+      [ "COUNTER_INTERCEPTING_THE_MANA_CELLS", "d4/d95/a00989.html#aaf07f00f32588714a5bb8a6b3662211ca7ccae68e35a5ab24f91a3572989c08ec", null ],
+      [ "COUNTER_INTERCEPT_THE_REINFORCEMENTS", "d4/d95/a00989.html#aaf07f00f32588714a5bb8a6b3662211cad58884bfc099d112c39cd40d06fca2f7", null ],
+      [ "COUNTER_TAKING_THE_HARBOR", "d4/d95/a00989.html#aaf07f00f32588714a5bb8a6b3662211ca9a71b7eefaf4fc97215caf53721a8593", null ],
+      [ "COUNTER_MAKING_READY", "d4/d95/a00989.html#aaf07f00f32588714a5bb8a6b3662211ca8cf21d7284a4dcb4d48b8130cc3f4671", null ],
+      [ "COUNTER_DISCOVERING_YOUR_ROOTS", "d4/d95/a00989.html#aaf07f00f32588714a5bb8a6b3662211cadf87923459d77536d46ddd23bc3d5dfb", null ],
+      [ "COUNTER_A_CHARITABLE_DONATION", "d4/d95/a00989.html#aaf07f00f32588714a5bb8a6b3662211caba33bffee42a380d259c5af14e6e700f", null ],
+      [ "COUNTERS_MAX", "d4/d95/a00989.html#aaf07f00f32588714a5bb8a6b3662211ca24ad3fca42f73e77a99c93e0c788a4e8", null ]
     ] ],
-    [ "InstanceResetMethod", "d4/d95/a00989.html#a85895841def625e565ac3122a1267447", [
-      [ "INSTANCE_RESET_ALL", "d4/d95/a00989.html#a85895841def625e565ac3122a1267447ab5ba7473d0bfac9d0f4dbc0e22a5a84d", null ],
-      [ "INSTANCE_RESET_CHANGE_DIFFICULTY", "d4/d95/a00989.html#a85895841def625e565ac3122a1267447a364d607eec219f808901d16aeec31a8d", null ],
-      [ "INSTANCE_RESET_GLOBAL", "d4/d95/a00989.html#a85895841def625e565ac3122a1267447a40c08a471edcbb547800e700e2341a8c", null ],
-      [ "INSTANCE_RESET_GROUP_JOIN", "d4/d95/a00989.html#a85895841def625e565ac3122a1267447a0a6535943a7d7ce282d8d415f125a170", null ],
-      [ "INSTANCE_RESET_GROUP_LEAVE", "d4/d95/a00989.html#a85895841def625e565ac3122a1267447aa247d3a9d4e2cbb1ed24680fa3405bab", null ]
+    [ "SunsReachPhases", "d4/d95/a00989.html#aa3e8fbd653500f90fa1ebe182d4891d6", [
+      [ "SUNS_REACH_PHASE_1_STAGING_AREA", "d4/d95/a00989.html#aa3e8fbd653500f90fa1ebe182d4891d6ab65a732a0c383bd3d043a34e29c558ed", null ],
+      [ "SUNS_REACH_PHASE_2_SANCTUM", "d4/d95/a00989.html#aa3e8fbd653500f90fa1ebe182d4891d6a83392af6406c346fcc27d7ac61925c60", null ],
+      [ "SUNS_REACH_PHASE_3_ARMORY", "d4/d95/a00989.html#aa3e8fbd653500f90fa1ebe182d4891d6a0ea20d0c1efef719695c8d2a6959b4a2", null ],
+      [ "SUNS_REACH_PHASE_4_HARBOR", "d4/d95/a00989.html#aa3e8fbd653500f90fa1ebe182d4891d6ad46034efa280e589b555f346debbb938", null ]
     ] ],
-    [ "LevelRequirementVsMode", "d4/d95/a00989.html#a925afa52f886092b35ca06011fbe870d", [
-      [ "LEVELREQUIREMENT_HEROIC", "d4/d95/a00989.html#a925afa52f886092b35ca06011fbe870da44c9c26dfe61127eff417c34c5049dc2", null ]
+    [ "SunsReachSubPhases", "d4/d95/a00989.html#a1a971b6e72e7e5cd29d560dfaa9fdfe8", [
+      [ "SUBPHASE_PORTAL", "d4/d95/a00989.html#a1a971b6e72e7e5cd29d560dfaa9fdfe8ad4a4e1b4e65a4f58b9e10c41e1783956", null ],
+      [ "SUBPHASE_ANVIL", "d4/d95/a00989.html#a1a971b6e72e7e5cd29d560dfaa9fdfe8a4d77060db8b4d0bcdf14befefe656f13", null ],
+      [ "SUBPHASE_ALCHEMY_LAB", "d4/d95/a00989.html#a1a971b6e72e7e5cd29d560dfaa9fdfe8a2de7705acf58b5c9490bf1e95e3ead73", null ],
+      [ "SUBPHASE_MONUMENT", "d4/d95/a00989.html#a1a971b6e72e7e5cd29d560dfaa9fdfe8ac29321ac9e23150a2e3acb0dcc0b1764", null ],
+      [ "SUBPHASE_ALL", "d4/d95/a00989.html#a1a971b6e72e7e5cd29d560dfaa9fdfe8a449fd29e38beaff4aaa5c96915aa459f", null ]
     ] ],
-    [ "LineOfSightChecks", "d4/d95/a00989.html#abc95f0a7147fb553d023f994f003a1c6", [
-      [ "LINEOFSIGHT_CHECK_VMAP", "d4/d95/a00989.html#abc95f0a7147fb553d023f994f003a1c6a254543d4c2ff9c92ff0eb69aec072caf", null ],
-      [ "LINEOFSIGHT_CHECK_GOBJECT_WMO", "d4/d95/a00989.html#abc95f0a7147fb553d023f994f003a1c6a04ff8bf4653f852773d9bdf2838efb07", null ],
-      [ "LINEOFSIGHT_CHECK_GOBJECT_M2", "d4/d95/a00989.html#abc95f0a7147fb553d023f994f003a1c6a1b9463c69951824723107b569fdb32a3", null ],
-      [ "LINEOFSIGHT_CHECK_GOBJECT_ALL", "d4/d95/a00989.html#abc95f0a7147fb553d023f994f003a1c6a451588ecdb12620b9153952187873053", null ],
-      [ "LINEOFSIGHT_ALL_CHECKS", "d4/d95/a00989.html#abc95f0a7147fb553d023f994f003a1c6ac012f06f7e6897d0c7532b6eb155d19f", null ]
+    [ "SunwellGateCounters", "d4/d95/a00989.html#a4a3013381173d98f6b2e1b401f7bd34f", [
+      [ "COUNTER_AGAMATH_THE_FIRST_GATE", "d4/d95/a00989.html#a4a3013381173d98f6b2e1b401f7bd34fac5a40f22c82be22eb0ee2e6b1414a95c", null ],
+      [ "COUNTER_ROHENDOR_THE_SECOND_GATE", "d4/d95/a00989.html#a4a3013381173d98f6b2e1b401f7bd34fa19cae29dd7ad9ef6c31296f891eff82f", null ],
+      [ "COUNTER_ARCHONISUS_THE_FINAL_GATE", "d4/d95/a00989.html#a4a3013381173d98f6b2e1b401f7bd34fa7af124883dce8a02d45f5cfbb7b13c5d", null ],
+      [ "COUNTERS_MAX_GATES", "d4/d95/a00989.html#a4a3013381173d98f6b2e1b401f7bd34fa0247ea5e5a42ee81a890e65bc7876d78", null ]
+    ] ],
+    [ "SunwellGates", "d4/d95/a00989.html#a30222a7d596ba08b5141b96da67ec7eb", [
+      [ "SUNWELL_ALL_GATES_CLOSED", "d4/d95/a00989.html#a30222a7d596ba08b5141b96da67ec7eba8e9efb46ed96537c672046bd063481c4", null ],
+      [ "SUNWELL_AGAMATH_GATE1_OPEN", "d4/d95/a00989.html#a30222a7d596ba08b5141b96da67ec7ebab502da8d18813b99e43f7b4584f6e574", null ],
+      [ "SUNWELL_ROHENDOR_GATE2_OPEN", "d4/d95/a00989.html#a30222a7d596ba08b5141b96da67ec7ebad194a9ec7ca0ffecdcabcb6d7d8ebdb7", null ],
+      [ "SUNWELL_ARCHONISUS_GATE3_OPEN", "d4/d95/a00989.html#a30222a7d596ba08b5141b96da67ec7eba2c50969cc9ec8d5d0f0e217e85764fc4", null ]
+    ] ],
+    [ "WorldStateCondition", "d4/d95/a00989.html#afa57b7026eb6e127e388f149e349ccb6", [
+      [ "WORLD_STATE_CONDITION_TROLLBANES_COMMAND", "d4/d95/a00989.html#afa57b7026eb6e127e388f149e349ccb6af5369c5be7548a1e9ec08b006e73feeb", null ],
+      [ "WORLD_STATE_CONDITION_NAZGRELS_FAVOR", "d4/d95/a00989.html#afa57b7026eb6e127e388f149e349ccb6ab8441229f6aecd4dc9dd1e3f3f835f8e", null ],
+      [ "WORLD_STATE_CONDITION_THE_THUNDERCALLER", "d4/d95/a00989.html#afa57b7026eb6e127e388f149e349ccb6a5d0ef449051867fa252bdaaecb6f7e1f", null ],
+      [ "WORLD_STATE_CONDITION_THE_IRON_EAGLE", "d4/d95/a00989.html#afa57b7026eb6e127e388f149e349ccb6a9665ded148821c41501866620a5ba50f", null ],
+      [ "WORLD_STATE_CONDITION_THE_PURPLE_PRINCESS", "d4/d95/a00989.html#afa57b7026eb6e127e388f149e349ccb6af4db95d45b322084d64483ad02f862ff", null ]
+    ] ],
+    [ "WorldStateConditionState", "d4/d95/a00989.html#a4ecea2a2bb4e9623ef98bf8c32d546a4", [
+      [ "WORLD_STATE_CONDITION_STATE_NONE", "d4/d95/a00989.html#a4ecea2a2bb4e9623ef98bf8c32d546a4a0ecc6b01d71dceaffaf31c7620bea0de", null ]
+    ] ],
+    [ "WorldStateEvent", "d4/d95/a00989.html#adc7b7b38a655f2354624ac5335163266", [
+      [ "WORLD_STATE_CUSTOM_EVENT_ON_ADALS_SONG_OF_BATTLE", "d4/d95/a00989.html#adc7b7b38a655f2354624ac5335163266aa2c3350c135eec4653e10f9a416d4ae8", null ],
+      [ "WORLD_STATE_CUSTOM_EVENT_ON_MAGTHERIDON_HEAD_SPAWN", "d4/d95/a00989.html#adc7b7b38a655f2354624ac5335163266ae87a6f363d942d1928ba2b052ab2f88e", null ],
+      [ "WORLD_STATE_CUSTOM_EVENT_ON_MAGTHERIDON_HEAD_DESPAWN", "d4/d95/a00989.html#adc7b7b38a655f2354624ac5335163266a4c5ce93e17daa3d8df5b892b3d76af2b", null ]
+    ] ],
+    [ "WorldStateGameEvents", "d4/d95/a00989.html#a7f47feca28234245c0857650572c5780", [
+      [ "GAME_EVENT_QUEL_DANAS_PHASE_1", "d4/d95/a00989.html#a7f47feca28234245c0857650572c5780ae5520992190d7cad4d3003679f654164", null ],
+      [ "GAME_EVENT_QUEL_DANAS_PHASE_2_ONLY", "d4/d95/a00989.html#a7f47feca28234245c0857650572c5780ac5cb6f79cbb24ebcb7f9c508826b8f32", null ],
+      [ "GAME_EVENT_QUEL_DANAS_PHASE_2_PERMANENT", "d4/d95/a00989.html#a7f47feca28234245c0857650572c5780a865824023c30d8881ad0d473fc74d850", null ],
+      [ "GAME_EVENT_QUEL_DANAS_PHASE_2_NO_PORTAL", "d4/d95/a00989.html#a7f47feca28234245c0857650572c5780a955ffa53767730c30e65fb0b1a19cd2e", null ],
+      [ "GAME_EVENT_QUEL_DANAS_PHASE_2_PORTAL", "d4/d95/a00989.html#a7f47feca28234245c0857650572c5780a098f13784dc87ba5eb03fdb180918bd3", null ],
+      [ "GAME_EVENT_QUEL_DANAS_PHASE_3_ONLY", "d4/d95/a00989.html#a7f47feca28234245c0857650572c5780a3bbe84b7ad256db4c8a69f40d1d9906f", null ],
+      [ "GAME_EVENT_QUEL_DANAS_PHASE_3_PERMANENT", "d4/d95/a00989.html#a7f47feca28234245c0857650572c5780abc22f906ec988e522bb3fbd9d5f49b2b", null ],
+      [ "GAME_EVENT_QUEL_DANAS_PHASE_3_NO_ANVIL", "d4/d95/a00989.html#a7f47feca28234245c0857650572c5780a982866fd1ea3dc7295b56478278dcc6d", null ],
+      [ "GAME_EVENT_QUEL_DANAS_PHASE_3_ANVIL", "d4/d95/a00989.html#a7f47feca28234245c0857650572c5780a858498a06e8dad4b35e61d229573239f", null ],
+      [ "GAME_EVENT_QUEL_DANAS_PHASE_4", "d4/d95/a00989.html#a7f47feca28234245c0857650572c5780a98d4bd3e61e229b461dc177eece1e83a", null ],
+      [ "GAME_EVENT_QUEL_DANAS_PHASE_4_NO_MONUMENT", "d4/d95/a00989.html#a7f47feca28234245c0857650572c5780a9974731c2acb170f5647424100e43c7a", null ],
+      [ "GAME_EVENT_QUEL_DANAS_PHASE_4_MONUMENT", "d4/d95/a00989.html#a7f47feca28234245c0857650572c5780a2fbc409aeb61c5d20ff2393062741bff", null ],
+      [ "GAME_EVENT_QUEL_DANAS_PHASE_4_NO_ALCHEMY_LAB", "d4/d95/a00989.html#a7f47feca28234245c0857650572c5780a34ba50ef842ffe3bb0b34660b6da6c86", null ],
+      [ "GAME_EVENT_QUEL_DANAS_PHASE_4_ALCHEMY_LAB", "d4/d95/a00989.html#a7f47feca28234245c0857650572c5780afa50c0d5d0af7ac2567dca5d916f842c", null ],
+      [ "GAME_EVENT_QUEL_DANAS_PHASE_4_KIRU", "d4/d95/a00989.html#a7f47feca28234245c0857650572c5780a8272eb3e0a97f786160757d670d64b21", null ],
+      [ "GAME_EVENT_SWP_GATES_PHASE_0", "d4/d95/a00989.html#a7f47feca28234245c0857650572c5780ae77dd18a9c0bb1d3f2194ae6d402b423", null ],
+      [ "GAME_EVENT_SWP_GATES_PHASE_1", "d4/d95/a00989.html#a7f47feca28234245c0857650572c5780a9dfc64311fa072d23db3fd0f2602ec9b", null ],
+      [ "GAME_EVENT_SWP_GATES_PHASE_2", "d4/d95/a00989.html#a7f47feca28234245c0857650572c5780aef10a818749572edf44cfa356ecd4e2c", null ],
+      [ "GAME_EVENT_SWP_GATES_PHASE_3", "d4/d95/a00989.html#a7f47feca28234245c0857650572c5780ac22176a2f30abaea84dd6dd7d01cd3e8", null ]
+    ] ],
+    [ "WorldStateSaveIds", "d4/d95/a00989.html#affad9750ec1568c3314d687af290f2ac", [
+      [ "SAVE_ID_QUEL_DANAS", "d4/d95/a00989.html#affad9750ec1568c3314d687af290f2acaef8c621060f45cd17565368474467453", null ]
+    ] ],
+    [ "WorldStateSpells", "d4/d95/a00989.html#a882a758e503627632aa1d2a878086d91", [
+      [ "SPELL_ADAL_SONG_OF_BATTLE", "d4/d95/a00989.html#a882a758e503627632aa1d2a878086d91aee000da68d862de5291b513ea52734f8", null ],
+      [ "SPELL_TROLLBANES_COMMAND", "d4/d95/a00989.html#a882a758e503627632aa1d2a878086d91a73c7be494acfdbd7532eaf802ab4598d", null ],
+      [ "SPELL_NAZGRELS_FAVOR", "d4/d95/a00989.html#a882a758e503627632aa1d2a878086d91a02b7508a9e44658cb4bf28d1bb487d60", null ],
+      [ "SPELL_KIRU_SONG_OF_VICTORY", "d4/d95/a00989.html#a882a758e503627632aa1d2a878086d91ace9722c8f1cdbfc30998ca2e9cfbc5a3", null ]
     ] ]
 ];

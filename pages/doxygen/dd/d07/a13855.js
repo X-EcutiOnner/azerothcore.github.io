@@ -1,6 +1,6 @@
 var a13855 =
 [
-    [ "npc_zulian_prowlerAI", "d1/de9/a13859.html", "d1/de9/a13859" ],
-    [ "npc_zulian_prowler", "dd/d07/a13855.html#a27ae990985976d02bb221b6d669fa849", null ],
-    [ "GetAI", "dd/d07/a13855.html#a7e7d4f8164bbb728a1b83244c1e356f9", null ]
+    [ "boss_arlokkAI", "d1/de9/a13859.html", "d1/de9/a13859" ],
+    [ "boss_arlokk", "dd/d07/a13855.html#a55bb21239e05acff18d2fb147449800e", null ],
+    [ "GetAI", "dd/d07/a13855.html#a58b8cc7a198784b48faaab1b069d397c", null ]
 ];

@@ -1,14 +1,6 @@
 var a21791 =
 [
-    [ "npc_commander_eligor_dawnbringerAI", "da/d57/a21791.html#a84beab3be0d7e5d5d3674a57b1928f09", null ],
-    [ "ChangeImage", "da/d57/a21791.html#a815e5c67b282e2840676b5453d94d5dc", null ],
-    [ "MovementInform", "da/d57/a21791.html#a2ed09d31771e9c225d8d8b40ba8f0f82", null ],
-    [ "Reset", "da/d57/a21791.html#a71410a3e3e5134311bf7bc2ef3051eb3", null ],
-    [ "StoreTargets", "da/d57/a21791.html#a0732307643a442bc3f070b9cc91d78c9", null ],
-    [ "TurnAudience", "da/d57/a21791.html#afa7fce3a9cccfcc7b088e72df9f312a4", null ],
-    [ "UpdateAI", "da/d57/a21791.html#a454984668ca58c8a6fdd9ad4f630dece", null ],
-    [ "_events", "da/d57/a21791.html#a907626beb601f789a725d88d45689eb2", null ],
-    [ "audienceList", "da/d57/a21791.html#a5bdb09658bd93e46387df8eeb8cf0221", null ],
-    [ "imageList", "da/d57/a21791.html#a8177ed5bc5fd54b98f2f36c9389b8099", null ],
-    [ "talkWing", "da/d57/a21791.html#ace957ffe4fba8f229946d61d63c1798c", null ]
+    [ "npc_spiritual_insightAI", "d5/d40/a21795.html", "d5/d40/a21795" ],
+    [ "npc_spiritual_insight", "da/d57/a21791.html#afe7b9d5953462719407f03b33b8de564", null ],
+    [ "GetAI", "da/d57/a21791.html#ab2884e1160ccad9adb8e3ae69db55bc4", null ]
 ];

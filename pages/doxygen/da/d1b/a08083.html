@@ -148,7 +148,7 @@ Public Member Functions</h2></td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
 Private Attributes</h2></td></tr>
-<tr class="memitem:a49279a3943009f2d1475d792c2c3d21a"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../da/df7/a01457.html#a28ccb827087ab6cbda32538ffb7fd81c">QuestMenuItemList</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d1b/a08083.html#a49279a3943009f2d1475d792c2c3d21a">_questMenuItems</a></td></tr>
+<tr class="memitem:a49279a3943009f2d1475d792c2c3d21a"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/dd6/a00272.html#a28ccb827087ab6cbda32538ffb7fd81c">QuestMenuItemList</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d1b/a08083.html#a49279a3943009f2d1475d792c2c3d21a">_questMenuItems</a></td></tr>
 <tr class="separator:a49279a3943009f2d1475d792c2c3d21a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
@@ -226,10 +226,10 @@ Private Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  287</span>{</div>
-<div class="line"><span class="lineno">  288</span>    <span class="keywordflow">if</span> (!<a class="code hl_define" href="../../da/d17/a01046.html#a736e30da2b5261060ac6cdbb5de3b787">sObjectMgr</a>-&gt;GetQuestTemplate(QuestId))</div>
+<div class="line"><span class="lineno">  288</span>    <span class="keywordflow">if</span> (!<a class="code hl_define" href="../../dc/df9/a00554.html#a736e30da2b5261060ac6cdbb5de3b787">sObjectMgr</a>-&gt;GetQuestTemplate(QuestId))</div>
 <div class="line"><span class="lineno">  289</span>        <span class="keywordflow">return</span>;</div>
 <div class="line"><span class="lineno">  290</span> </div>
-<div class="line"><span class="lineno">  291</span>    <a class="code hl_define" href="../../d8/d19/a04259.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(<a class="code hl_variable" href="../../da/d1b/a08083.html#a49279a3943009f2d1475d792c2c3d21a">_questMenuItems</a>.size() &lt;= <a class="code hl_define" href="../../da/df7/a01457.html#a20e0466b2da25ea6a8d7d65264162e22">GOSSIP_MAX_MENU_ITEMS</a>);</div>
+<div class="line"><span class="lineno">  291</span>    <a class="code hl_define" href="../../d1/dd9/a04184.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(<a class="code hl_variable" href="../../da/d1b/a08083.html#a49279a3943009f2d1475d792c2c3d21a">_questMenuItems</a>.size() &lt;= <a class="code hl_define" href="../../d9/dd6/a00272.html#a20e0466b2da25ea6a8d7d65264162e22">GOSSIP_MAX_MENU_ITEMS</a>);</div>
 <div class="line"><span class="lineno">  292</span> </div>
 <div class="line"><span class="lineno">  293</span>    <a class="code hl_struct" href="../../dc/d82/a08075.html">QuestMenuItem</a> questMenuItem;</div>
 <div class="line"><span class="lineno">  294</span> </div>
@@ -238,14 +238,14 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  297</span> </div>
 <div class="line"><span class="lineno">  298</span>    <a class="code hl_variable" href="../../da/d1b/a08083.html#a49279a3943009f2d1475d792c2c3d21a">_questMenuItems</a>.push_back(questMenuItem);</div>
 <div class="line"><span class="lineno">  299</span>}</div>
-<div class="ttc" id="aa01046_html_a736e30da2b5261060ac6cdbb5de3b787"><div class="ttname"><a href="../../da/d17/a01046.html#a736e30da2b5261060ac6cdbb5de3b787">sObjectMgr</a></div><div class="ttdeci">#define sObjectMgr</div><div class="ttdef"><b>Definition:</b> ObjectMgr.h:1636</div></div>
-<div class="ttc" id="aa01457_html_a20e0466b2da25ea6a8d7d65264162e22"><div class="ttname"><a href="../../da/df7/a01457.html#a20e0466b2da25ea6a8d7d65264162e22">GOSSIP_MAX_MENU_ITEMS</a></div><div class="ttdeci">#define GOSSIP_MAX_MENU_ITEMS</div><div class="ttdef"><b>Definition:</b> GossipDef.h:30</div></div>
-<div class="ttc" id="aa04259_html_af343b20373ba49a92fce523e948f2ab3"><div class="ttname"><a href="../../d8/d19/a04259.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a></div><div class="ttdeci">#define ASSERT</div><div class="ttdef"><b>Definition:</b> Errors.h:68</div></div>
+<div class="ttc" id="aa00272_html_a20e0466b2da25ea6a8d7d65264162e22"><div class="ttname"><a href="../../d9/dd6/a00272.html#a20e0466b2da25ea6a8d7d65264162e22">GOSSIP_MAX_MENU_ITEMS</a></div><div class="ttdeci">#define GOSSIP_MAX_MENU_ITEMS</div><div class="ttdef"><b>Definition:</b> GossipDef.h:30</div></div>
+<div class="ttc" id="aa00554_html_a736e30da2b5261060ac6cdbb5de3b787"><div class="ttname"><a href="../../dc/df9/a00554.html#a736e30da2b5261060ac6cdbb5de3b787">sObjectMgr</a></div><div class="ttdeci">#define sObjectMgr</div><div class="ttdef"><b>Definition:</b> ObjectMgr.h:1650</div></div>
+<div class="ttc" id="aa04184_html_af343b20373ba49a92fce523e948f2ab3"><div class="ttname"><a href="../../d1/dd9/a04184.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a></div><div class="ttdeci">#define ASSERT</div><div class="ttdef"><b>Definition:</b> Errors.h:68</div></div>
 <div class="ttc" id="aa08075_html"><div class="ttname"><a href="../../dc/d82/a08075.html">QuestMenuItem</a></div><div class="ttdef"><b>Definition:</b> GossipDef.h:155</div></div>
 <div class="ttc" id="aa08075_html_a522a4fcb28daec3e1a620b6f02c3d8fe"><div class="ttname"><a href="../../dc/d82/a08075.html#a522a4fcb28daec3e1a620b6f02c3d8fe">QuestMenuItem::QuestId</a></div><div class="ttdeci">uint32 QuestId</div><div class="ttdef"><b>Definition:</b> GossipDef.h:156</div></div>
 <div class="ttc" id="aa08075_html_ad8bbfe08780eaa68a8205e2634d211b8"><div class="ttname"><a href="../../dc/d82/a08075.html#ad8bbfe08780eaa68a8205e2634d211b8">QuestMenuItem::QuestIcon</a></div><div class="ttdeci">uint8 QuestIcon</div><div class="ttdef"><b>Definition:</b> GossipDef.h:157</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00255">_questMenuItems</a>, <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00030">GOSSIP_MAX_MENU_ITEMS</a>, <a class="el" href="../../#l00157">QuestMenuItem::QuestIcon</a>, <a class="el" href="../../#l00156">QuestMenuItem::QuestId</a>, and <a class="el" href="../../#l01636">sObjectMgr</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00255">_questMenuItems</a>, <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00030">GOSSIP_MAX_MENU_ITEMS</a>, <a class="el" href="../../#l00157">QuestMenuItem::QuestIcon</a>, <a class="el" href="../../#l00156">QuestMenuItem::QuestId</a>, and <a class="el" href="../../#l01650">sObjectMgr</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00409">npc_wg_quest_giver::OnGossipHello()</a>, <a class="el" href="../../#l00039">Player::PrepareQuestMenu()</a>, and <a class="el" href="../../#l00451">npc_costumed_orphan_matron::sGossipHello()</a>.</p>
 
@@ -410,7 +410,7 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../da/df7/a01457.html#a28ccb827087ab6cbda32538ffb7fd81c">QuestMenuItemList</a> QuestMenu::_questMenuItems</td>
+          <td class="memname"><a class="el" href="../../d9/dd6/a00272.html#a28ccb827087ab6cbda32538ffb7fd81c">QuestMenuItemList</a> QuestMenu::_questMenuItems</td>
         </tr>
       </table>
   </td>
@@ -430,7 +430,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../da/d1b/a08083.html">QuestMenu</a></li>
-    <li class="footer">Generated on Mon May 26 2025 20:45:40 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Jun 2 2025 20:47:32 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

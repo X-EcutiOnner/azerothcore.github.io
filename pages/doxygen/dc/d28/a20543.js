@@ -1,6 +1,11 @@
 var a20543 =
 [
-    [ "boss_thorim_trapAI", "dd/d3e/a20547.html", "dd/d3e/a20547" ],
-    [ "boss_thorim_trap", "dc/d28/a20543.html#af529112badd88f9ebe4cec216d9edaeb", null ],
-    [ "GetAI", "dc/d28/a20543.html#afd4ee85d73354b790c0d55abbfad75fd", null ]
+    [ "boss_thorim_sifAI", "dc/d28/a20543.html#af63f344d3a5650baaa9b96204abc39a9", null ],
+    [ "AttackStart", "dc/d28/a20543.html#ae9354f2e97c88cd1af86fae050e810d6", null ],
+    [ "DoAction", "dc/d28/a20543.html#a8aac66a64c5ca6491595c2b3b6cbbd95", null ],
+    [ "MoveInLineOfSight", "dc/d28/a20543.html#a3e7d07ca6fc8f4619173f3fd74d63ccb", null ],
+    [ "Reset", "dc/d28/a20543.html#ab30d73613bafac5b92021677d69b3aae", null ],
+    [ "UpdateAI", "dc/d28/a20543.html#a09ee3373177e84a5e4e51ebb48c68525", null ],
+    [ "_allowCast", "dc/d28/a20543.html#ade272764f09375d8e5fda937d42aad90", null ],
+    [ "events", "dc/d28/a20543.html#a8fd3c7073a250d054e3edc73d5867fbd", null ]
 ];

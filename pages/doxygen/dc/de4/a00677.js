@@ -1,4 +1,11 @@
 var a00677 =
 [
-    [ "ScriptRegistry< BattlegroundScript >", "dc/de4/a00677.html#a954046a61096ecb9db321b0a35da5f77", null ]
+    [ "BanMgr", "d6/d2f/a09847.html", "d6/d2f/a09847" ],
+    [ "sBan", "dc/de4/a00677.html#a7d5e9b6aab3c8157bcf25fa0f070bb17", null ],
+    [ "BanReturn", "dc/de4/a00677.html#a4dd4670ead55e2780d09a66ab39943a7", [
+      [ "BAN_SUCCESS", "dc/de4/a00677.html#a4dd4670ead55e2780d09a66ab39943a7ab48bdf9afe21b115b7550bf103d1dc28", null ],
+      [ "BAN_SYNTAX_ERROR", "dc/de4/a00677.html#a4dd4670ead55e2780d09a66ab39943a7a7ec21f8f8ea6d0904423dded4b8f0dc8", null ],
+      [ "BAN_NOTFOUND", "dc/de4/a00677.html#a4dd4670ead55e2780d09a66ab39943a7aaefc3ea320005c27d70704fb92aed7ad", null ],
+      [ "BAN_LONGER_EXISTS", "dc/de4/a00677.html#a4dd4670ead55e2780d09a66ab39943a7ac441589615fb2fe9c7decb985f6f0d3c", null ]
+    ] ]
 ];

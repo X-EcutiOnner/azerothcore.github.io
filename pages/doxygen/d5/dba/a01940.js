@@ -1,15 +1,6 @@
 var a01940 =
 [
-    [ "MySQLType< T >", "d1/d64/a05739.html", null ],
-    [ "MySQLType< uint8 >", "d2/dac/a05743.html", null ],
-    [ "MySQLType< uint16 >", "d6/df4/a05747.html", null ],
-    [ "MySQLType< uint32 >", "dd/d80/a05751.html", null ],
-    [ "MySQLType< uint64 >", "d9/dd4/a05755.html", null ],
-    [ "MySQLType< int8 >", "d8/dbc/a05759.html", null ],
-    [ "MySQLType< int16 >", "d8/d36/a05763.html", null ],
-    [ "MySQLType< int32 >", "d5/d1a/a05767.html", null ],
-    [ "MySQLType< int64 >", "de/dc1/a05771.html", null ],
-    [ "MySQLType< float >", "d2/d2d/a05775.html", null ],
-    [ "MySQLType< double >", "d6/d64/a05779.html", null ],
-    [ "ParamenterIndexAssertFail", "d5/dba/a01940.html#a4c2b053ff0b94326f3c01cc7c6e61e8a", null ]
+    [ "GetLibraryVersion", "d5/dba/a01940.html#aefa4bd51f34aad2d1a141c00a2310092", null ],
+    [ "Library_End", "d5/dba/a01940.html#aff44554b66bd7ef0e21f1db5beb0b81a", null ],
+    [ "Library_Init", "d5/dba/a01940.html#a70b74137156f0a22792c3cf95c54decc", null ]
 ];

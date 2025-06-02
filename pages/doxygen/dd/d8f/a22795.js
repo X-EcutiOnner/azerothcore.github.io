@@ -1,6 +1,7 @@
 var a22795 =
 [
-    [ "PrepareAuraScript", "dd/d8f/a22795.html#a5cba6aaa06f8ec6e083ee0c5064414e4", null ],
-    [ "Register", "dd/d8f/a22795.html#a75d0cf142e299783b06903ea03287e28", null ],
-    [ "Update", "dd/d8f/a22795.html#ac027b02ed0ba70d65621a6af157c98f6", null ]
+    [ "PrepareAuraScript", "dd/d8f/a22795.html#ae6879f1d8c27f19cf3e3ada0b34d568f", null ],
+    [ "ReflectDamage", "dd/d8f/a22795.html#acde2cbf4d196cba1fa2c02393c08fe9f", null ],
+    [ "Register", "dd/d8f/a22795.html#aa1f27d25209f14dd8bf711bc15cb9165", null ],
+    [ "Validate", "dd/d8f/a22795.html#aa730b912aadcde53f6cd94c2a8c99493", null ]
 ];

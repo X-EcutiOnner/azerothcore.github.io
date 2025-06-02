@@ -1,5 +1,6 @@
 var a22927 =
 [
-    [ "npc_vengeful_spirit", "de/dca/a22927.html#a06bd2b08a7719ae35dd6ad844ce3b3bd", null ],
-    [ "OnCharmed", "de/dca/a22927.html#a8aec87a3e6a7af96253035dbd9e813ad", null ]
+    [ "npc_supremus_punch_invisible_stalker", "de/dca/a22927.html#add7d0e711ef02a16ef58d90cfc8ee733", null ],
+    [ "IsSummonedBy", "de/dca/a22927.html#a467d5a43bb6d2349ad859a0ef7de4c00", null ],
+    [ "UpdateAI", "de/dca/a22927.html#a90ecfe4257ef77a6d6a200a2f017c51a", null ]
 ];

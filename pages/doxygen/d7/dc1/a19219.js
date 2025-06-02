@@ -1,6 +1,5 @@
 var a19219 =
 [
-    [ "instance_eye_of_eternity_InstanceMapScript", "d6/de7/a19223.html", "d6/de7/a19223" ],
-    [ "instance_eye_of_eternity", "d7/dc1/a19219.html#afcab4ba969d0423871a4e398627a323d", null ],
-    [ "GetInstanceScript", "d7/dc1/a19219.html#af51319609d355fe87a77a87eb697f434", null ]
+    [ "go_the_focusing_iris", "d7/dc1/a19219.html#a9c2fa1e739ff98ebdd9b9fdcc2ab5ece", null ],
+    [ "OnGossipHello", "d7/dc1/a19219.html#a7f3f1170713d63f912ca5732453a7e33", null ]
 ];

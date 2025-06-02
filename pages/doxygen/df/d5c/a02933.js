@@ -1,18 +1,43 @@
 var a02933 =
 [
-    [ "instance_ruins_of_ahnqiraj", "d5/dc8/a14963.html", "d5/dc8/a14963" ],
-    [ "instance_ruins_of_ahnqiraj::instance_ruins_of_ahnqiraj_InstanceMapScript", "dc/dee/a14967.html", "dc/dee/a14967" ],
-    [ "RajaxxWaveEvent", "df/d5c/a02933.html#a4be5bd3adfc6d188ef97fd3885ddbeb8", [
-      [ "SAY_WAVE3", "df/d5c/a02933.html#a4be5bd3adfc6d188ef97fd3885ddbeb8a2c4234c075da474e1859f08d620f20d3", null ],
-      [ "SAY_WAVE4", "df/d5c/a02933.html#a4be5bd3adfc6d188ef97fd3885ddbeb8af13e872cbd347b8a5bc80c2e8666381d", null ],
-      [ "SAY_WAVE5", "df/d5c/a02933.html#a4be5bd3adfc6d188ef97fd3885ddbeb8a3caa1ed6a429617e3127b0ee596a1538", null ],
-      [ "SAY_WAVE6", "df/d5c/a02933.html#a4be5bd3adfc6d188ef97fd3885ddbeb8a36b35bf4fc7c3385646f3b75fd2eef4f", null ],
-      [ "SAY_WAVE7", "df/d5c/a02933.html#a4be5bd3adfc6d188ef97fd3885ddbeb8afc3fb1faeaa852c362f467426a19905e", null ],
-      [ "SAY_ENGAGE", "df/d5c/a02933.html#a4be5bd3adfc6d188ef97fd3885ddbeb8a60c202ec07ce9f93a9c0eff3a8a1fba9", null ],
-      [ "DATA_RAJAXX_WAVE_ENGAGED", "df/d5c/a02933.html#a4be5bd3adfc6d188ef97fd3885ddbeb8a6e46287d316eb0a2009039db3c6ed592", null ],
-      [ "GROUP_RAJAXX_WAVE_TIMER", "df/d5c/a02933.html#a4be5bd3adfc6d188ef97fd3885ddbeb8a002d2a7e164b95da570f1ee400495b15", null ]
+    [ "npc_ranger_lilatha", "d8/d32/a13503.html", "d8/d32/a13503" ],
+    [ "npc_sentinel_leader", "de/d47/a13507.html", "de/d47/a13507" ],
+    [ "npc_sentinel_infiltrator", "df/d73/a13511.html", "df/d73/a13511" ],
+    [ "RangerLilatha", "df/d5c/a02933.html#a74dc890829d87be230ff5350c12e090a", [
+      [ "SAY_START", "df/d5c/a02933.html#a74dc890829d87be230ff5350c12e090aa2eae21cbf7d110ee89a9798ef6f00239", null ],
+      [ "SAY_PROGRESS1", "df/d5c/a02933.html#a74dc890829d87be230ff5350c12e090aa1a7ff39fa30eb8719e4a1d4d8eea41bd", null ],
+      [ "SAY_PROGRESS2", "df/d5c/a02933.html#a74dc890829d87be230ff5350c12e090aa6b66c233baa6dd334abb1b7798066894", null ],
+      [ "SAY_PROGRESS3", "df/d5c/a02933.html#a74dc890829d87be230ff5350c12e090aa541cce8e829316638c92542a766209b6", null ],
+      [ "SAY_END1", "df/d5c/a02933.html#a74dc890829d87be230ff5350c12e090aa944891a3d2f715c9e1c8f47d65f16eca", null ],
+      [ "SAY_END2", "df/d5c/a02933.html#a74dc890829d87be230ff5350c12e090aaa0efc3eab3d2447cc17568f7ceed8cba", null ],
+      [ "SAY_CAPTAIN_ANSWER", "df/d5c/a02933.html#a74dc890829d87be230ff5350c12e090aaf92ec5f68682db4db5c776edd0e207c0", null ],
+      [ "QUEST_ESCAPE_FROM_THE_CATACOMBS", "df/d5c/a02933.html#a74dc890829d87be230ff5350c12e090aaf838b4afb069e6a501691db32ccd1e16", null ],
+      [ "GO_CAGE", "df/d5c/a02933.html#a74dc890829d87be230ff5350c12e090aab8d35951eed2c9e47bed2aa4da3fab8b", null ],
+      [ "NPC_CAPTAIN_HELIOS", "df/d5c/a02933.html#a74dc890829d87be230ff5350c12e090aaf9140f9834cba6679a2dd4d3dccc02a8", null ],
+      [ "NPC_MUMMIFIED_HEADHUNTER", "df/d5c/a02933.html#a74dc890829d87be230ff5350c12e090aa981d62936965028299a53927f91db057", null ],
+      [ "NPC_SHADOWPINE_ORACLE", "df/d5c/a02933.html#a74dc890829d87be230ff5350c12e090aa84adb37d4c2fc9348d6fc31abfd0306a", null ]
     ] ],
-    [ "AddSC_instance_ruins_of_ahnqiraj", "df/d5c/a02933.html#ad39c6347a486714f364a0a6e068595f6", null ],
-    [ "creatureData", "df/d5c/a02933.html#a412286b689bd324fedd65ddd8dde8afb", null ],
-    [ "RajaxxWavesData", "df/d5c/a02933.html#aef812d08d9553915de270214cf8bd837", null ]
+    [ "SentinelInfiltrator", "df/d5c/a02933.html#a0b373714eadff6852c9ed5560abd70e5", [
+      [ "EMOTE_FLEE", "df/d5c/a02933.html#a0b373714eadff6852c9ed5560abd70e5a9d88a2f0a0929d045f07a5386f6a4431", null ],
+      [ "EVENT_TALK2", "df/d5c/a02933.html#a0b373714eadff6852c9ed5560abd70e5a5fbd3336be08db01eeeefc355f4fa541", null ],
+      [ "EVENT_QUESTION2", "df/d5c/a02933.html#a0b373714eadff6852c9ed5560abd70e5a16f3686cedbbcd372b458f36b8fef69d", null ],
+      [ "EVENT_EXCLAMATION", "df/d5c/a02933.html#a0b373714eadff6852c9ed5560abd70e5a235ba44e8ac06bf6c5da1072784d2736", null ],
+      [ "EVENT_SALUTE", "df/d5c/a02933.html#a0b373714eadff6852c9ed5560abd70e5a20c28745aea8562e2f30166e0ceec0ea", null ],
+      [ "EVENT_GOUGE2", "df/d5c/a02933.html#a0b373714eadff6852c9ed5560abd70e5a9c0323353380c86a1dd4583ba40430da", null ],
+      [ "EVENT_BACKSTAB2", "df/d5c/a02933.html#a0b373714eadff6852c9ed5560abd70e5aaf1d9b7bb592c2a5e42e3e0f3e2671cc", null ],
+      [ "NPC_SENTINEL_INFILTRATOR", "df/d5c/a02933.html#a0b373714eadff6852c9ed5560abd70e5a7cb437b950b46596afc196f0864a74fe", null ],
+      [ "PATH_ONE", "df/d5c/a02933.html#a0b373714eadff6852c9ed5560abd70e5a9dabcd3a092570c71edfb732f847d854", null ],
+      [ "PATH_TWO", "df/d5c/a02933.html#a0b373714eadff6852c9ed5560abd70e5a5c1049e5a354a320e8c4ead179675760", null ],
+      [ "SPELL_GOUGE", "df/d5c/a02933.html#a0b373714eadff6852c9ed5560abd70e5ad29cb58b32c3fccaec3fde84e2355de6", null ]
+    ] ],
+    [ "SentinelLeader", "df/d5c/a02933.html#acb58e7629bec88c770da1efed549d96c", [
+      [ "EVENT_QUESTION", "df/d5c/a02933.html#acb58e7629bec88c770da1efed549d96cae7206febd87cb3058c3f99ed717131a7", null ],
+      [ "EVENT_TALK", "df/d5c/a02933.html#acb58e7629bec88c770da1efed549d96cad8d5fcaf7b3bfdd91e6337d222c1620f", null ],
+      [ "EVENT_SINISTER_STRIKE", "df/d5c/a02933.html#acb58e7629bec88c770da1efed549d96ca23b5677e1eb390f2bbe16d2b30a05498", null ],
+      [ "EVENT_BACKSTAB", "df/d5c/a02933.html#acb58e7629bec88c770da1efed549d96ca1c1d8055d31bb2fb8238437b243852ca", null ],
+      [ "NPC_SENTINEL_SPY", "df/d5c/a02933.html#acb58e7629bec88c770da1efed549d96cae75b24a241dff855e6dc0e3d51e0c9e9", null ],
+      [ "SPELL_SINISTER_STRIKE", "df/d5c/a02933.html#acb58e7629bec88c770da1efed549d96ca3217132d497cc70e674432067fd431a7", null ],
+      [ "SPELL_BACKSTAB", "df/d5c/a02933.html#acb58e7629bec88c770da1efed549d96ca4ff7524487add866a452db82c2791b68", null ]
+    ] ],
+    [ "AddSC_ghostlands", "df/d5c/a02933.html#a1093517f6bb08d3a1c9e52cf36b6a054", null ]
 ];

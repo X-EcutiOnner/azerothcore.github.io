@@ -1,6 +1,5 @@
 var a04514 =
 [
-    [ "Acore::Impl::GenericHMAC< HashCreator, DigestLength >", "d7/d05/a05163.html", "d7/d05/a05163" ],
-    [ "HMAC_SHA1", "d1/d24/a04514.html#a5186a2a02e2301ec3ea7b37d8b41097f", null ],
-    [ "HMAC_SHA256", "d1/d24/a04514.html#a80d906d20826d6c963f50eba5f7c4c2a", null ]
+    [ "getOutOfWater", "d1/d24/a04514.html#a92646d631d9334b64b0b487ebf87d769", null ],
+    [ "getWeight", "d1/d24/a04514.html#a44526122378fe7ee8622f1ffc822dc20", null ]
 ];

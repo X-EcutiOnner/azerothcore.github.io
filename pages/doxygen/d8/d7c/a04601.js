@@ -1,7 +1,6 @@
 var a04601 =
 [
-    [ "GameobjectModelData", "de/ddd/a05031.html", "de/ddd/a05031" ],
-    [ "ModelList", "d8/d7c/a04601.html#a2f908ce58f8fea2d0606bfe603d719d1", null ],
-    [ "LoadGameObjectModelList", "d8/d7c/a04601.html#a5a80774080fc05f90c7d92213fda6788", null ],
-    [ "model_list", "d8/d7c/a04601.html#aa0a0fd13eaa3eba090a3085d41303f12", null ]
+    [ "SetupLibrariesForWindows", "d8/d7c/a04601.html#ab801d0877d7ea0652bb6f94fb17842e4", null ],
+    [ "DefaultProvider", "d8/d7c/a04601.html#ab217c6bb86b0f962ea820f3ffe079708", null ],
+    [ "LegacyProvider", "d8/d7c/a04601.html#a81b4206923925a193dca5c3acd946bc2", null ]
 ];

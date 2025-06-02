@@ -1,12 +1,10 @@
 var a22883 =
 [
-    [ "boss_shade_of_akama", "d3/d89/a22883.html#a385bf995d19652254d6ae8a447c23c37", null ],
-    [ "EnterEvadeMode", "d3/d89/a22883.html#a690f8058fb4358b98960177d76864275", null ],
-    [ "JustDied", "d3/d89/a22883.html#aa22052befeb48c0c7ec3a3cedd91daff", null ],
-    [ "MovementInform", "d3/d89/a22883.html#a345707efebd5027c01a25a563d1e6f43", null ],
-    [ "Reset", "d3/d89/a22883.html#a19a1aca1a599704612ac845001895b4f", null ],
-    [ "SpellHit", "d3/d89/a22883.html#a5a49f0dab7ce6ee81b9ed8deb5704720", null ],
-    [ "UpdateAI", "d3/d89/a22883.html#a25ffed5526b1f25eb1cf790745e2a7c7", null ],
-    [ "channelers", "d3/d89/a22883.html#a63372527172d3f96f533b5776221c2e7", null ],
-    [ "generators", "d3/d89/a22883.html#a3ebaa870a9c3c9b5a0590b8cdc32d857", null ]
+    [ "CalculateAmount", "d3/d89/a22883.html#a19dcb71e46cc6fb08fda251829afae6f", null ],
+    [ "CheckProc", "d3/d89/a22883.html#a8c4f5c9f3db8710aafd687a7bf304572", null ],
+    [ "HandleProc", "d3/d89/a22883.html#ab5fc5ad25ab1d7451f0b8801894ae400", null ],
+    [ "PrepareAuraScript", "d3/d89/a22883.html#a6e066884663276dbba82e46ca5f66e59", null ],
+    [ "Register", "d3/d89/a22883.html#ac4154f0746e77229e8d349021d5b9c30", null ],
+    [ "Update", "d3/d89/a22883.html#a9f5f3767f52f9755de6592f00f62a3d4", null ],
+    [ "Validate", "d3/d89/a22883.html#a4f10d23f63c47b408b70373623b877a8", null ]
 ];

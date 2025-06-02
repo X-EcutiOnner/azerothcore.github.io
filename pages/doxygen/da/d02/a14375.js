@@ -1,4 +1,5 @@
 var a14375 =
 [
-    [ "npc_midsummer_bonfire_despawner", "da/d02/a14375.html#aacb82b08ec0fef0f53d7e251e010abd8", null ]
+    [ "MidsummerPlayerScript", "da/d02/a14375.html#ace19c3dfaec5aa5bdfab46552a759306", null ],
+    [ "OnPlayerUpdateZone", "da/d02/a14375.html#af512e1744264ac69fe2b7f7ba3836760", null ]
 ];

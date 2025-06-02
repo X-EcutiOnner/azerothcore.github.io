@@ -1,5 +1,7 @@
 var a17059 =
 [
-    [ "endPosition", "d8/d73/a17059.html#a8a88b0191d28ef6af8f41db627552602", null ],
-    [ "entry", "d8/d73/a17059.html#ac4e55af666e269440953ced038c1a8de", null ]
+    [ "HandleEffectPeriodic", "d8/d73/a17059.html#a4802c810efd7dd8a9954845366398e7f", null ],
+    [ "PrepareAuraScript", "d8/d73/a17059.html#a008166d25e7a278507e953325f40ccd5", null ],
+    [ "Register", "d8/d73/a17059.html#ac239d0f42eea59b63c3d31ed275846ea", null ],
+    [ "Validate", "d8/d73/a17059.html#a3fc78060f881262c59151b6eb6a943f8", null ]
 ];

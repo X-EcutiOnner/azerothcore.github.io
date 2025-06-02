@@ -1,6 +1,6 @@
 var a04517 =
 [
-    [ "IpLocationRecord", "da/d6b/a05303.html", "da/d6b/a05303" ],
-    [ "IpLocationStore", "d3/dac/a05307.html", "d3/dac/a05307" ],
-    [ "sIPLocation", "d8/df9/a04517.html#a85e62bd98f395189fea9c9514d44fc31", null ]
+    [ "mean", "d8/df9/a04517.html#a64ba279a3d3edca415239118167c0206", null ],
+    [ "median", "d8/df9/a04517.html#a4840fd449eb626bea901860e4c1be22a", null ],
+    [ "standard_deviation", "d8/df9/a04517.html#a60ce9c7718ec2901f037e2368f93026d", null ]
 ];

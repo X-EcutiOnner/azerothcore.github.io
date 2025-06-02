@@ -1,10 +1,6 @@
 var a23863 =
 [
-    [ "npc_raging_flames", "da/d3b/a23863.html#aa2cc5c8af07c202a7f0fab1af259a0db", null ],
-    [ "EnterEvadeMode", "da/d3b/a23863.html#a24a878560153dcf9cf5282c6d0a8f7f0", null ],
-    [ "FixateRandomTarget", "da/d3b/a23863.html#a0e015aa73efdafb1bb9683b2f3c1ba34", null ],
-    [ "InitializeAI", "da/d3b/a23863.html#a96d3a8ef364dc6bc3f15ffc82b14c4c0", null ],
-    [ "IsSummonedBy", "da/d3b/a23863.html#ae42c4329be355807af92c1c803e61500", null ],
-    [ "Reset", "da/d3b/a23863.html#a34ac2249e507784d81c4040e87a646e0", null ],
-    [ "UpdateAI", "da/d3b/a23863.html#a3e4feafe10e59ad9cb1d2275dc7954b0", null ]
+    [ "HandleAfterRemove", "da/d3b/a23863.html#ac9756a8f206c114ff6443331ca266184", null ],
+    [ "PrepareAuraScript", "da/d3b/a23863.html#a2f67291e6e4291c9d01cdbcbe04a7db7", null ],
+    [ "Register", "da/d3b/a23863.html#ac36d76ad8a5ecb2e437dcb8f1248386d", null ]
 ];

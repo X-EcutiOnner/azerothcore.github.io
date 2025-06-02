@@ -1,7 +1,6 @@
 var a22643 =
 [
-    [ "HandleProc", "d2/dbc/a22643.html#a4d12ab1b286105fdad5eb2dd20131408", null ],
-    [ "PrepareAuraScript", "d2/dbc/a22643.html#a94b6499dc2e1fa95a50bd9c3c491e858", null ],
-    [ "Register", "d2/dbc/a22643.html#a6b764182501a1d192f90dc20bbd6549e", null ],
-    [ "Validate", "d2/dbc/a22643.html#ad89123425cca5bd02a18526a11595a1a", null ]
+    [ "PrepareSpellScript", "d2/dbc/a22643.html#abd6b61e7efbed1427b7603640ac7d474", null ],
+    [ "RecalculateDamage", "d2/dbc/a22643.html#a02b59e5ac84c8556c9a9441ff6414461", null ],
+    [ "Register", "d2/dbc/a22643.html#ab6183bf9e49d3c11c256e54053c13aa2", null ]
 ];

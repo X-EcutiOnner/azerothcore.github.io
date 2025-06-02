@@ -1,6 +1,8 @@
 var a21823 =
 [
-    [ "npc_mrfloppyAI", "d9/dbe/a21827.html", "d9/dbe/a21827" ],
-    [ "npc_mrfloppy", "d8/d27/a21823.html#a0515ca75aba9b7f6f5577b53e7520f6e", null ],
-    [ "GetAI", "d8/d27/a21823.html#a88590566309f3fc155eb6dc26055a161", null ]
+    [ "AfterApply", "d8/d27/a21823.html#a57279552b867251e9d2ee6a4ff5d7914", null ],
+    [ "PeriodicTick", "d8/d27/a21823.html#a2e86aa6efe6ab137926c1dfd1bd26a95", null ],
+    [ "PrepareAuraScript", "d8/d27/a21823.html#a9e1b74bf2d28a367caefdc90c34743c8", null ],
+    [ "Register", "d8/d27/a21823.html#a69eb0ca43a15d4995ad219459c2b39d6", null ],
+    [ "Validate", "d8/d27/a21823.html#a946248656cb755f85dd93fd4d607c9a7", null ]
 ];

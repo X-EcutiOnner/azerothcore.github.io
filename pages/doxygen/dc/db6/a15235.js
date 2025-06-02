@@ -1,6 +1,11 @@
 var a15235 =
 [
-    [ "npc_injured_draeneiAI", "da/dd6/a15239.html", "da/dd6/a15239" ],
-    [ "npc_injured_draenei", "dc/db6/a15235.html#a660c0f0c4ed41d70ad0a50cde25c1d14", null ],
-    [ "GetAI", "dc/db6/a15235.html#a753bd4a5bb1ddc9feb540a3bedc7d7bb", null ]
+    [ "npc_depth_chargeAI", "dc/db6/a15235.html#a088848c16418964973107e125c20f508", null ],
+    [ "AttackStart", "dc/db6/a15235.html#a1ec6e2ea0cc61262932f63f764273cdb", null ],
+    [ "JustEngagedWith", "dc/db6/a15235.html#a90cc6eab8b63588f2567f59941eafc59", null ],
+    [ "MoveInLineOfSight", "dc/db6/a15235.html#a8342b7fc7677ac94757c725ec4063e9e", null ],
+    [ "Reset", "dc/db6/a15235.html#aaccf632a50749c0f6d6f29bb1b1bf5a4", null ],
+    [ "UpdateAI", "dc/db6/a15235.html#af34e55c3aee40f840edf695adc06495e", null ],
+    [ "WeMustDie", "dc/db6/a15235.html#a7b25b1228cf5029f1ebe653c76cf9843", null ],
+    [ "WeMustDieTimer", "dc/db6/a15235.html#a23e4f1f7079d12e78c74c21171d95cc7", null ]
 ];

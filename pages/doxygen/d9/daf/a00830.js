@@ -1,14 +1,20 @@
 var a00830 =
 [
-    [ "AllMapScript", "dd/d4e/a10191.html", "dd/d4e/a10191" ],
-    [ "AllMapHook", "d9/daf/a00830.html#a78db4e64fe232d8b547270090d8e3b92", [
-      [ "ALLMAPHOOK_ON_PLAYER_ENTER_ALL", "d9/daf/a00830.html#a78db4e64fe232d8b547270090d8e3b92afd97726f6bef6f766e85787ec7f03dfa", null ],
-      [ "ALLMAPHOOK_ON_PLAYER_LEAVE_ALL", "d9/daf/a00830.html#a78db4e64fe232d8b547270090d8e3b92acb0a85f676691164c5745f89720426ae", null ],
-      [ "ALLMAPHOOK_ON_BEFORE_CREATE_INSTANCE_SCRIPT", "d9/daf/a00830.html#a78db4e64fe232d8b547270090d8e3b92aaedb63ed509b91e62a54f71648956182", null ],
-      [ "ALLMAPHOOK_ON_DESTROY_INSTANCE", "d9/daf/a00830.html#a78db4e64fe232d8b547270090d8e3b92aed47c964869552afdecaa285111a2ac0", null ],
-      [ "ALLMAPHOOK_ON_CREATE_MAP", "d9/daf/a00830.html#a78db4e64fe232d8b547270090d8e3b92ae8c905ed5a1df193a9dd91640d43de02", null ],
-      [ "ALLMAPHOOK_ON_DESTROY_MAP", "d9/daf/a00830.html#a78db4e64fe232d8b547270090d8e3b92a2bd9320aa3f2418da854778f1dbbc3b5", null ],
-      [ "ALLMAPHOOK_ON_MAP_UPDATE", "d9/daf/a00830.html#a78db4e64fe232d8b547270090d8e3b92a192adf70dc3f5a3873df8e56a2c3dcfb", null ],
-      [ "ALLMAPHOOK_END", "d9/daf/a00830.html#a78db4e64fe232d8b547270090d8e3b92a51af3c739d320ca228fb73e3d7c48b95", null ]
-    ] ]
+    [ "WorldPackets::InvalidStringValueException", "db/d4a/a10779.html", "db/d4a/a10779" ],
+    [ "WorldPackets::InvalidUtf8ValueException", "d0/d0c/a10783.html", "d0/d0c/a10783" ],
+    [ "WorldPackets::InvalidHyperlinkException", "d0/d9a/a10787.html", "d0/d9a/a10787" ],
+    [ "WorldPackets::IllegalHyperlinkException", "d4/daf/a10791.html", "d4/daf/a10791" ],
+    [ "WorldPackets::Strings::RawBytes", "dd/ddf/a10795.html", "dd/ddf/a10795" ],
+    [ "WorldPackets::Strings::ByteSize< MaxBytesWithoutNullTerminator >", "d3/dee/a10799.html", "d3/dee/a10799" ],
+    [ "WorldPackets::Strings::Utf8", "d9/df4/a10803.html", "d9/df4/a10803" ],
+    [ "WorldPackets::Strings::Hyperlinks", "dd/d19/a10807.html", "dd/d19/a10807" ],
+    [ "WorldPackets::Strings::NoHyperlinks", "d7/d50/a10811.html", "d7/d50/a10811" ],
+    [ "WorldPackets::String< MaxBytesWithoutNullTerminator, Validators >", "dc/d33/a10815.html", "dc/d33/a10815" ],
+    [ "WorldPackets::PacketArrayMaxCapacityException", "d0/dc2/a10819.html", "d0/dc2/a10819" ],
+    [ "WorldPackets::Array< T, N >", "d9/d8f/a10823.html", "d9/d8f/a10823" ],
+    [ "WorldPackets::CompactArray< T >", "d2/d0b/a10827.html", "d2/d0b/a10827" ],
+    [ "fmt::formatter< WorldPackets::String< MaxBytesWithoutNullTerminator, Validators... > >", "d0/d7c/a10831.html", "d0/d7c/a10831" ],
+    [ "CheckCompactArrayMaskOverflow", "d9/daf/a00830.html#afb4909c8c4c13b14c8eceda2e9b4246d", null ],
+    [ "operator<<", "d9/daf/a00830.html#a82e35db0d6b671a4f4a581aac05828dc", null ],
+    [ "operator>>", "d9/daf/a00830.html#ab21e8e534a45a2a33d69cd11562a45c6", null ]
 ];

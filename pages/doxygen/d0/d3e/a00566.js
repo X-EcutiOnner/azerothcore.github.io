@@ -1,7 +1,9 @@
 var a00566 =
 [
-    [ "instance_obsidian_sanctum", "d8/d43/a15911.html", "d8/d43/a15911" ],
-    [ "instance_obsidian_sanctum::instance_obsidian_sanctum_InstanceMapScript", "dc/dde/a15915.html", "dc/dde/a15915" ],
-    [ "AddSC_instance_obsidian_sanctum", "d0/d3e/a00566.html#ac4abea2a912b12612a4c884df63abe00", null ],
-    [ "boundaries", "d0/d3e/a00566.html#aa75d7d0ffe0cef214f982966c33db1c1", null ]
+    [ "MapType", "d0/d3e/a00566.html#a2a540ae6cb73c9914f0253464b155227", null ],
+    [ "Find", "d0/d3e/a00566.html#a42d065468e6e62b7161ba0c17e1d75ea", null ],
+    [ "Insert", "d0/d3e/a00566.html#a3ba44f9ba2a1ff4fd122944f95ef06bd", null ],
+    [ "Remove", "d0/d3e/a00566.html#a8f833a3f02f1e431170dd5d052b0f919", null ],
+    [ "RemoveByName", "d0/d3e/a00566.html#a9c5298580060e7a6078ffb5f4008c549", null ],
+    [ "PlayerNameMap", "d0/d3e/a00566.html#aa8fcdd0ac947e92edddddd4e2daf61dd", null ]
 ];

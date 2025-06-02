@@ -1,10 +1,7 @@
 var a01679 =
 [
-    [ "spell_razelikh_teleport_group", "dd/d24/a13423.html", "dd/d24/a13423" ],
-    [ "DeathlyUsher", "d2/d34/a01679.html#aaff0e89586a03a5c2b80f93a4fe0ded7", [
-      [ "SPELL_TELEPORT_SINGLE", "d2/d34/a01679.html#aaff0e89586a03a5c2b80f93a4fe0ded7a3cdd675db7120b3a968f19df07485e7d", null ],
-      [ "SPELL_TELEPORT_SINGLE_IN_GROUP", "d2/d34/a01679.html#aaff0e89586a03a5c2b80f93a4fe0ded7a138ccf86c6441c7347a973d3e04c62a5", null ],
-      [ "SPELL_TELEPORT_GROUP", "d2/d34/a01679.html#aaff0e89586a03a5c2b80f93a4fe0ded7a3efb41f1943511af5c5c1abbced10dcc", null ]
-    ] ],
-    [ "AddSC_blasted_lands", "d2/d34/a01679.html#a8c45aaff0bee880d1bac07d32d1747f1", null ]
+    [ "AddTime", "d2/d34/a01679.html#aae074176c44fa3d99280320c869fde46", null ],
+    [ "GetTime", "d2/d34/a01679.html#ae44f550ac340528abe454269c2273d73", null ],
+    [ "IsCorrectDelay", "d2/d34/a01679.html#a18121c73cd31656af9ee5e5da754e4bd", null ],
+    [ "_players", "d2/d34/a01679.html#af8ad5db2c36ddfbca0b6b18e3478c2c5", null ]
 ];

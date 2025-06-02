@@ -1,5 +1,6 @@
 var a13603 =
 [
-    [ "npc_tyrion", "dd/d2b/a13603.html#a85b1abd4910729c17099174def6507b1", null ],
-    [ "OnQuestAccept", "dd/d2b/a13603.html#af8388a07e52a8c5708434a70d0d28cbb", null ]
+    [ "npc_tyrion_spybotAI", "d0/d4d/a13607.html", "d0/d4d/a13607" ],
+    [ "npc_tyrion_spybot", "dd/d2b/a13603.html#a7e0eed1b51ffe1df2d8ae2ad37f26528", null ],
+    [ "GetAI", "dd/d2b/a13603.html#af81b70437703edc8d99fe24249891dd6", null ]
 ];

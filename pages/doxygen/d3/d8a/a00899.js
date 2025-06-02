@@ -1,5 +1,6 @@
 var a00899 =
 [
-    [ "ForeachMaps", "d3/d8a/a00899.html#a899f6a046cdda33d737030dd4923ca7d", null ],
-    [ "ScriptRegistry< AllMapScript >", "d3/d8a/a00899.html#ada370fef23e6d206da686c8bb6149104", null ]
+    [ "LogHeader", "d2/d93/a10915.html", "d2/d93/a10915" ],
+    [ "PacketHeader", "d1/df8/a10919.html", "d1/df8/a10919" ],
+    [ "PacketHeader::OptionalData", "d9/dc6/a10923.html", "d9/dc6/a10923" ]
 ];

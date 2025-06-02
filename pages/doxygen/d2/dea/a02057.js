@@ -1,5 +1,5 @@
 var a02057 =
 [
-    [ "achievement_commandscript", "d3/dd5/a11531.html", "d3/dd5/a11531" ],
-    [ "AddSC_achievement_commandscript", "d2/dea/a02057.html#afeb482a8cffe8416071764bc4e78bff2", null ]
+    [ "AuthSocketMgr", "d7/d9a/a05639.html", "d7/d9a/a05639" ],
+    [ "sAuthSocketMgr", "d2/dea/a02057.html#abd297ee25e8d77bf56f22d43561d9451", null ]
 ];

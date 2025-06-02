@@ -1,6 +1,9 @@
 var a20591 =
 [
-    [ "boss_thorim_ancient_rune_giantAI", "d3/dc5/a20595.html", "d3/dc5/a20595" ],
-    [ "boss_thorim_ancient_rune_giant", "d8/d2f/a20591.html#ad87dca7c6058e4b8b1234410644523dd", null ],
-    [ "GetAI", "d8/d2f/a20591.html#aa8a0ff1416d5678a5d6bb7bdc36d6617", null ]
+    [ "boss_thorim_gauntlet_npcsAI", "d8/d2f/a20591.html#aaa7e94f653a1db001cd0c962fb855098", null ],
+    [ "JustEngagedWith", "d8/d2f/a20591.html#afaf0a05b1fd2fc2187b52328340b65bb", null ],
+    [ "Reset", "d8/d2f/a20591.html#a9e4c25742785809d788f2e910f7840bc", null ],
+    [ "UpdateAI", "d8/d2f/a20591.html#a4dd5a9cbbb10d514a0473dfd7cdd3c29", null ],
+    [ "_isCaster", "d8/d2f/a20591.html#a104f447cc52c285d59653a8ebff20fef", null ],
+    [ "events", "d8/d2f/a20591.html#a650508e05b6fa1af538a0b34e04c8bf5", null ]
 ];

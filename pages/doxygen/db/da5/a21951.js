@@ -1,6 +1,7 @@
 var a21951 =
 [
-    [ "npc_plaguehound_trackerAI", "db/da5/a21951.html#a7530f500b42ad9bb38593193d3113da8", null ],
-    [ "Reset", "db/da5/a21951.html#a05c351ab3aca0cd18209405075bb0f47", null ],
-    [ "WaypointReached", "db/da5/a21951.html#a67c345f49572cde76d9109a1baff6788", null ]
+    [ "npc_Apothecary_HanesAI", "d3/d78/a21955.html", "d3/d78/a21955" ],
+    [ "npc_apothecary_hanes", "db/da5/a21951.html#a90480bee491e8fe1c9e7b2c71aac28c8", null ],
+    [ "GetAI", "db/da5/a21951.html#a7f3f86efb9a6146b86aa5d882b751e1f", null ],
+    [ "OnQuestAccept", "db/da5/a21951.html#ae116e49b0e8865f9b5735e72c8c850fd", null ]
 ];

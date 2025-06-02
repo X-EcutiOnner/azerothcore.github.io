@@ -1,33 +1,22 @@
 var a01604 =
 [
-    [ "WardenModuleUse", "da/dfd/a11427.html", "da/dfd/a11427" ],
-    [ "WardenModuleTransfer", "d1/d63/a11431.html", "d1/d63/a11431" ],
-    [ "WardenHashRequest", "d3/d67/a11435.html", "d3/d67/a11435" ],
-    [ "ClientWardenModule", "df/dee/a11439.html", "df/dee/a11439" ],
-    [ "Warden", "d5/d80/a11443.html", "d5/d80/a11443" ],
-    [ "WardenCheckType", "dc/dd2/a01604.html#a7598131f87414a66259189a0518ca6f2", [
-      [ "MEM_CHECK", "dc/dd2/a01604.html#a7598131f87414a66259189a0518ca6f2aba449b452d425f871a9c01be028b5074", null ],
-      [ "PAGE_CHECK_A", "dc/dd2/a01604.html#a7598131f87414a66259189a0518ca6f2a331b64b77a83e62b070746aab1ea995f", null ],
-      [ "PAGE_CHECK_B", "dc/dd2/a01604.html#a7598131f87414a66259189a0518ca6f2a366d33d737ecb1b63b92e5c4fc13ed87", null ],
-      [ "MPQ_CHECK", "dc/dd2/a01604.html#a7598131f87414a66259189a0518ca6f2ab22116b6a319b5c4ad88eaf90291090b", null ],
-      [ "LUA_EVAL_CHECK", "dc/dd2/a01604.html#a7598131f87414a66259189a0518ca6f2a88364ba9c51997e2baa92428922caada", null ],
-      [ "DRIVER_CHECK", "dc/dd2/a01604.html#a7598131f87414a66259189a0518ca6f2a2b63e52f1c3146183a59fffa98919c93", null ],
-      [ "TIMING_CHECK", "dc/dd2/a01604.html#a7598131f87414a66259189a0518ca6f2ad11a9e323f324f0c3b2b439fec521018", null ],
-      [ "PROC_CHECK", "dc/dd2/a01604.html#a7598131f87414a66259189a0518ca6f2a19186939917116389af429c3c658293d", null ],
-      [ "MODULE_CHECK", "dc/dd2/a01604.html#a7598131f87414a66259189a0518ca6f2adc2e09d27e8f622121d11ba931c4ff77", null ]
+    [ "AISpellInfoType", "de/d49/a06155.html", "de/d49/a06155" ],
+    [ "AI_DEFAULT_COOLDOWN", "dc/dd2/a01604.html#a41c947edd84b4f2bb45133dc7aa00cad", null ],
+    [ "AICondition", "dc/dd2/a01604.html#ac43b18581ae7a7b66984b1003502d5af", [
+      [ "AICOND_AGGRO", "dc/dd2/a01604.html#ac43b18581ae7a7b66984b1003502d5afac41d9d90387a55a0b5be34e13683f9c8", null ],
+      [ "AICOND_COMBAT", "dc/dd2/a01604.html#ac43b18581ae7a7b66984b1003502d5afa6be0faa08bd4f7bb7891ce5e2b7e4642", null ],
+      [ "AICOND_DIE", "dc/dd2/a01604.html#ac43b18581ae7a7b66984b1003502d5afaeda5ad2d2df79acf7c72e4785011cf6e", null ]
     ] ],
-    [ "WardenOpcodes", "dc/dd2/a01604.html#a8d0de714c4a4cf7a125c6187a7d19e51", [
-      [ "WARDEN_CMSG_MODULE_MISSING", "dc/dd2/a01604.html#a8d0de714c4a4cf7a125c6187a7d19e51a334622303a3ea504196a3807f5da22f4", null ],
-      [ "WARDEN_CMSG_MODULE_OK", "dc/dd2/a01604.html#a8d0de714c4a4cf7a125c6187a7d19e51a7636fd5a47dd45d2bf69a4625d77939c", null ],
-      [ "WARDEN_CMSG_CHEAT_CHECKS_RESULT", "dc/dd2/a01604.html#a8d0de714c4a4cf7a125c6187a7d19e51a713a20be2d2cf1fa7d46ee2b788bc6f5", null ],
-      [ "WARDEN_CMSG_MEM_CHECKS_RESULT", "dc/dd2/a01604.html#a8d0de714c4a4cf7a125c6187a7d19e51adaac6c4f6f3ac87386438a5228ba617f", null ],
-      [ "WARDEN_CMSG_HASH_RESULT", "dc/dd2/a01604.html#a8d0de714c4a4cf7a125c6187a7d19e51a51c0070c4347129060a6714ae0f483ed", null ],
-      [ "WARDEN_CMSG_MODULE_FAILED", "dc/dd2/a01604.html#a8d0de714c4a4cf7a125c6187a7d19e51a5a2e35d214965eb7dccec345e261fadc", null ],
-      [ "WARDEN_SMSG_MODULE_USE", "dc/dd2/a01604.html#a8d0de714c4a4cf7a125c6187a7d19e51ad8b63ed3f3ec8941563402a5eacf9d30", null ],
-      [ "WARDEN_SMSG_MODULE_CACHE", "dc/dd2/a01604.html#a8d0de714c4a4cf7a125c6187a7d19e51aa12b4718a7515d81608ba46205625a11", null ],
-      [ "WARDEN_SMSG_CHEAT_CHECKS_REQUEST", "dc/dd2/a01604.html#a8d0de714c4a4cf7a125c6187a7d19e51ae5eafc7b23b0d14c934e9eb48fa73709", null ],
-      [ "WARDEN_SMSG_MODULE_INITIALIZE", "dc/dd2/a01604.html#a8d0de714c4a4cf7a125c6187a7d19e51aafdff6ee4abd8ad4511d527f09154da8", null ],
-      [ "WARDEN_SMSG_MEM_CHECKS_REQUEST", "dc/dd2/a01604.html#a8d0de714c4a4cf7a125c6187a7d19e51a41d76534b91d6af9e1b3ca116c4eda82", null ],
-      [ "WARDEN_SMSG_HASH_REQUEST", "dc/dd2/a01604.html#a8d0de714c4a4cf7a125c6187a7d19e51a69c3028f1b435c282c384008e49eb451", null ]
-    ] ]
+    [ "AITarget", "dc/dd2/a01604.html#a0160eb61118b5e41325297a2e1691805", [
+      [ "AITARGET_SELF", "dc/dd2/a01604.html#a0160eb61118b5e41325297a2e1691805a4b428b5bdc3edc7ea5f9ca4c9780e7f2", null ],
+      [ "AITARGET_VICTIM", "dc/dd2/a01604.html#a0160eb61118b5e41325297a2e1691805a7a53e2d219f908fcf583c5c00d5d9452", null ],
+      [ "AITARGET_ENEMY", "dc/dd2/a01604.html#a0160eb61118b5e41325297a2e1691805a96629d4be8c89fe161fecd4a8fc34439", null ],
+      [ "AITARGET_ALLY", "dc/dd2/a01604.html#a0160eb61118b5e41325297a2e1691805a0a4905e11672a2854778c1c2c8221b56", null ],
+      [ "AITARGET_BUFF", "dc/dd2/a01604.html#a0160eb61118b5e41325297a2e1691805a1dedb7d4847bb64f81a7760ce25670ed", null ],
+      [ "AITARGET_DEBUFF", "dc/dd2/a01604.html#a0160eb61118b5e41325297a2e1691805aad9b55cf2a0d16b9eb1620544f0e3654", null ]
+    ] ],
+    [ "GetAISpellInfo", "dc/dd2/a01604.html#a1ed41ad074263f6c0c63f38b7f51414b", null ],
+    [ "GetInstanceAI", "dc/dd2/a01604.html#a6650ccba23715eea545340cd3e712233", null ],
+    [ "InstanceHasScript", "dc/dd2/a01604.html#aad76768c8aee9ce3ac24657437adb0de", null ],
+    [ "RAND", "dc/dd2/a01604.html#a95d9a0c5ba0d54645670ba51c16ed33c", null ]
 ];

@@ -1,9 +1,7 @@
 var a22779 =
 [
-    [ "HandleAfterCast", "d0/da5/a22779.html#a32928b579ef42f377e911ef27197ed61", null ],
-    [ "HandleDummy", "d0/da5/a22779.html#a2adec08f0cc42cb21e97007b5f1214bc", null ],
-    [ "Load", "d0/da5/a22779.html#ac870bd626367bdc704e63d2f3b061b1f", null ],
-    [ "PrepareSpellScript", "d0/da5/a22779.html#a1f51d5562d5caac8d7d0f71de0051989", null ],
-    [ "Register", "d0/da5/a22779.html#adf8c87e9f6a3fb36bf26ed1c8dbb722f", null ],
-    [ "_targetCount", "d0/da5/a22779.html#a84d46608f7141d68b1a67fffc3493cbb", null ]
+    [ "boss_veras_darkshadow", "d0/da5/a22779.html#a7b33a5c8257954951ed19a2f8ce17b95", null ],
+    [ "JustEngagedWith", "d0/da5/a22779.html#a5eec3e70a7950073eced60d680ff6298", null ],
+    [ "JustSummoned", "d0/da5/a22779.html#afd6cb716cfdebccde99d71e1eb797d33", null ],
+    [ "UpdateAI", "d0/da5/a22779.html#a21f23998e3c3ecb79cbfa3c0d778f2d5", null ]
 ];

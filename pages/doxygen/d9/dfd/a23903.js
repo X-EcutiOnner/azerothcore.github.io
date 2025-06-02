@@ -1,6 +1,6 @@
 var a23903 =
 [
-    [ "npc_nether_drakeAI", "dd/d50/a23907.html", "dd/d50/a23907" ],
-    [ "npc_nether_drake", "d9/dfd/a23903.html#a253ec3c91857b899ea9e2c824870b760", null ],
-    [ "GetAI", "d9/dfd/a23903.html#a58d269e2c73cae07bb507162b742fe8f", null ]
+    [ "npc_deaths_fel_cannonAI", "dd/d50/a23907.html", "dd/d50/a23907" ],
+    [ "npc_deaths_fel_cannon", "d9/dfd/a23903.html#a87ecaca75061928600b5114d3913dd26", null ],
+    [ "GetAI", "d9/dfd/a23903.html#a4cf91cd1f28637f359e06bccd30e0338", null ]
 ];

@@ -1,6 +1,6 @@
 var a17771 =
 [
-    [ "npc_volatile_oozeAI", "db/d56/a17775.html", "db/d56/a17775" ],
-    [ "npc_volatile_ooze", "d0/d41/a17771.html#a22847e44812a0b13b92cfcca3a70204e", null ],
-    [ "GetAI", "d0/d41/a17771.html#a66b4918c14d90d5550ddc8dbe90c2e01", null ]
+    [ "boss_professor_putricideAI", "db/d56/a17775.html", "db/d56/a17775" ],
+    [ "boss_professor_putricide", "d0/d41/a17771.html#a80776dad5c0205aa6a98752f43e85e32", null ],
+    [ "GetAI", "d0/d41/a17771.html#a7c84089d24bb0c77a5203884254e0925", null ]
 ];

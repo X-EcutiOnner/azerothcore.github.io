@@ -1,6 +1,7 @@
 var a17007 =
 [
-    [ "npc_pos_martin_or_gorkun_secondAI", "d6/dd6/a17011.html", "d6/dd6/a17011" ],
-    [ "npc_pos_martin_or_gorkun_second", "d8/df3/a17007.html#a3027c88a65aa523cc99f2fa79e1e376c", null ],
-    [ "GetAI", "d8/df3/a17007.html#a180936e3bb98eb55d29ebd51350906c0", null ]
+    [ "npc_pos_icicle_triggerAI", "d8/df3/a17007.html#a28477c5f88b5ec77dc3e021ec01401ce", null ],
+    [ "UpdateAI", "d8/df3/a17007.html#a32d9b6bd2f0b994adb33e2bd99dd34ce", null ],
+    [ "pInstance", "d8/df3/a17007.html#ad4ed0e2380c62cc6dd7d309edfd34ac1", null ],
+    [ "timer", "d8/df3/a17007.html#a91277c41ddebffed7e9dac7098cd78bd", null ]
 ];

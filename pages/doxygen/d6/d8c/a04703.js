@@ -1,5 +1,6 @@
 var a04703 =
 [
-    [ "threadsCleanup", "d6/d8c/a04703.html#af868d9171650614810772c5675c47fd3", null ],
-    [ "threadsSetup", "d6/d8c/a04703.html#ae2c343f2efc8fa69b50e1bd35bf410fd", null ]
+    [ "_CRT_SECURE_NO_DEPRECATE", "d6/d8c/a04703.html#a411c46599e926f8cdf49c63957255359", null ],
+    [ "MAINMagic", "d6/d8c/a04703.html#a026039bd50ec58444fa975da328951ec", null ],
+    [ "MPHDMagic", "d6/d8c/a04703.html#aac8041bc8ca704e28f2b3054649b3752", null ]
 ];

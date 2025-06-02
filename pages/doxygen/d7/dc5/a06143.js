@@ -64,6 +64,7 @@ var a06143 =
     [ "TriggerAlert", "d7/dc5/a06143.html#a3a8fee035f2cd3ed05f46f6ab042cd50", null ],
     [ "UpdateVictim", "d7/dc5/a06143.html#ae03ccfe1e27501ed9ccbfecdbd3c4e39", null ],
     [ "UpdateVictimWithGaze", "d7/dc5/a06143.html#a9249068ab66d6be483bd5a610b616eae", null ],
+    [ "VisualizeBoundary", "d7/dc5/a06143.html#af032facb2f4d2a5953b8193a69a11c47", null ],
     [ "_boundary", "d7/dc5/a06143.html#a3e4f2f89c0db37331135074c50285b47", null ],
     [ "_negateBoundary", "d7/dc5/a06143.html#a7f2ae661d30adaded885764ad0f1df22", null ],
     [ "events", "d7/dc5/a06143.html#a7066c4909aefe3f44ad24f910003aa59", null ],

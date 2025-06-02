@@ -1,21 +1,16 @@
 var a01571 =
 [
-    [ "Totem", "d7/d39/a08619.html", "d7/d39/a08619" ],
-    [ "EARTHBIND_TOTEM_ENTRY", "d5/d10/a01571.html#a6cae59b1369b7371cefb92be8fc73fa5", null ],
-    [ "SENTRY_TOTEM_ENTRY", "d5/d10/a01571.html#a2bd46e1df17fdee45cd35896306092fb", null ],
-    [ "TotemImmunitySpells", "d5/d10/a01571.html#a526213bf692d4f8d189a61617f4a59c9", [
-      [ "SPELL_CYCLONE", "d5/d10/a01571.html#a526213bf692d4f8d189a61617f4a59c9ab0dea4de61535b7690ae66cfa6440f58", null ],
-      [ "SPELL_STONECLAW", "d5/d10/a01571.html#a526213bf692d4f8d189a61617f4a59c9ad0896fc7fa22551f57cc65fd56ee8649", null ],
-      [ "SPELL_BIND_SIGHT", "d5/d10/a01571.html#a526213bf692d4f8d189a61617f4a59c9a1f48e779f72284c7b1140c6be1a5a81a", null ],
-      [ "SPELL_INTERVENE", "d5/d10/a01571.html#a526213bf692d4f8d189a61617f4a59c9ac663f276cbe6aa86a2ae46813fc14b8c", null ]
-    ] ],
-    [ "TotemSpellIds", "d5/d10/a01571.html#a7092ec93c941969cd2cdd2291c6de0be", [
-      [ "SentryTotemSpell", "d5/d10/a01571.html#a7092ec93c941969cd2cdd2291c6de0bea2ff316c1216f8b3e5f60a3700214c8c3", null ],
-      [ "FireTotemSpell", "d5/d10/a01571.html#a7092ec93c941969cd2cdd2291c6de0bea52ad0e17d0d0699c294f9434023aeea7", null ]
-    ] ],
-    [ "TotemType", "d5/d10/a01571.html#a65151889ab4b03cf02268cc7a7ff0ba3", [
-      [ "TOTEM_PASSIVE", "d5/d10/a01571.html#a65151889ab4b03cf02268cc7a7ff0ba3a63f155f3367aa262aae567b57c623069", null ],
-      [ "TOTEM_ACTIVE", "d5/d10/a01571.html#a65151889ab4b03cf02268cc7a7ff0ba3a3c3ecb49d653993abf86f289019e27b0", null ],
-      [ "TOTEM_STATUE", "d5/d10/a01571.html#a65151889ab4b03cf02268cc7a7ff0ba3ab0fbf32f7d371a34f276dfdf6552e300", null ]
-    ] ]
+    [ "SummonList", "d0/dca/a06175.html", "d0/dca/a06175" ],
+    [ "EntryCheckPredicate", "dd/d16/a06179.html", "dd/d16/a06179" ],
+    [ "PlayerOrPetCheck", "df/d46/a06183.html", "df/d46/a06183" ],
+    [ "ScriptedAI", "d0/d79/a06187.html", "d0/d79/a06187" ],
+    [ "HealthCheckEventData", "d8/d67/a06191.html", "d8/d67/a06191" ],
+    [ "BossAI", "d6/d4c/a06195.html", "d6/d4c/a06195" ],
+    [ "WorldBossAI", "d9/d57/a06199.html", "d9/d57/a06199" ],
+    [ "ObjectList", "d5/d10/a01571.html#acc68161fe019b33e9356ea1473fba71d", null ],
+    [ "GetClosestCreatureWithEntry", "d5/d10/a01571.html#a9ffd6f6c01576a8d3369c3a4f6dbaa0b", null ],
+    [ "GetClosestGameObjectWithEntry", "d5/d10/a01571.html#acaba34b4ac104e5289c265c1f8524b15", null ],
+    [ "GetCreatureListWithEntryInGrid", "d5/d10/a01571.html#ab6a8246d473139627106be4651f6329d", null ],
+    [ "GetDeadCreatureListInGrid", "d5/d10/a01571.html#a4a92c9585e18b56cdbe0d0c0976de7d1", null ],
+    [ "GetGameObjectListWithEntryInGrid", "d5/d10/a01571.html#ae9abb80c4e811509bca88e65cf817276", null ]
 ];

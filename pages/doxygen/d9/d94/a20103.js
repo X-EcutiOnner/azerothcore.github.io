@@ -1,6 +1,6 @@
 var a20103 =
 [
-    [ "npc_ulduar_icicleAI", "d9/d75/a20107.html", "d9/d75/a20107" ],
-    [ "npc_ulduar_icicle", "d9/d94/a20103.html#a1ab79b2fa3e64779f62b96c195222683", null ],
-    [ "GetAI", "d9/d94/a20103.html#a71dd83d544307b11bcde58f9aeea097c", null ]
+    [ "id", "d9/d94/a20103.html#accc6fc59e13a0897ae168fae33ee4c7d", null ],
+    [ "x", "d9/d94/a20103.html#afb67a1dce0819e0da0ceb9b303f43eb9", null ],
+    [ "y", "d9/d94/a20103.html#aaf4fd9f1d5b020e102c0fec3863f7020", null ]
 ];

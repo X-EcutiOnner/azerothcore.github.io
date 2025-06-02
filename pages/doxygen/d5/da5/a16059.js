@@ -1,8 +1,10 @@
 var a16059 =
 [
-    [ "Load", "d5/da5/a16059.html#a55dc086667f0fe23e513608e951276ed", null ],
-    [ "Phase", "d5/da5/a16059.html#af66a6bff13803e54b6ed1447d1285ad4", null ],
-    [ "PrepareSpellScript", "d5/da5/a16059.html#ae2c7cbd68ccf893144e38581a6f86f04", null ],
-    [ "Register", "d5/da5/a16059.html#a8ab7e05e98771abcf9bed9995875b71d", null ],
-    [ "Validate", "d5/da5/a16059.html#a87192df547adaf3cb060155d9cf4da79", null ]
+    [ "spell_halion_marks_aura", "d5/da5/a16059.html#a3351eb9a4b497e1d92bd0021c0fa01f8", null ],
+    [ "BeforeDispel", "d5/da5/a16059.html#a48fb48567091c8fd9d365ea3ff8730cc", null ],
+    [ "OnRemove", "d5/da5/a16059.html#a1c9fefecd33db13e06f267c41e6b0375", null ],
+    [ "PrepareAuraScript", "d5/da5/a16059.html#acd5285ea5c378b31526440d263c54770", null ],
+    [ "Register", "d5/da5/a16059.html#ac84d4ab83e56314ff15ee363cafd2feb", null ],
+    [ "_removeSpellId", "d5/da5/a16059.html#aeef9d928c6a8739337251e144558b169", null ],
+    [ "_summonSpellId", "d5/da5/a16059.html#a01e8677e4f55dbb55cca1bf16dec48b2", null ]
 ];

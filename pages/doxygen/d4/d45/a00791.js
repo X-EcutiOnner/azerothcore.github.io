@@ -1,11 +1,9 @@
 var a00791 =
 [
-    [ "AllCommandScript", "d0/dac/a10175.html", "d0/dac/a10175" ],
-    [ "CommandSC", "d4/d45/a00791.html#a0c35d8c2fdd730a0360fd00502881c03", null ],
-    [ "AllCommandHook", "d4/d45/a00791.html#a57c7df35e0370887ade698d62704997b", [
-      [ "ALLCOMMANDHOOK_ON_HANDLE_DEV_COMMAND", "d4/d45/a00791.html#a57c7df35e0370887ade698d62704997bab762a34db533207a5f8f5b0db870f0b0", null ],
-      [ "ALLCOMMANDHOOK_ON_TRY_EXECUTE_COMMAND", "d4/d45/a00791.html#a57c7df35e0370887ade698d62704997bac267dc607dca6da8a2195d77a9def327", null ],
-      [ "ALLCOMMANDHOOK_ON_BEFORE_IS_INVOKER_VISIBLE", "d4/d45/a00791.html#a57c7df35e0370887ade698d62704997ba7d51819392ef067de524c06437fab836", null ],
-      [ "ALLCOMMANDHOOK_END", "d4/d45/a00791.html#a57c7df35e0370887ade698d62704997bac10a14231ce403ff1812e0ec03700812", null ]
-    ] ]
+    [ "AddWeather", "d4/d45/a00791.html#ga1f76350b68494335d48ae206b87e190c", null ],
+    [ "FindWeather", "d4/d45/a00791.html#gadd11deec2098fed61adf7910b8f09cc6", null ],
+    [ "LoadWeatherData", "d4/d45/a00791.html#ga6c7d8a9fc5dfce0880220f4b5b8cd623", null ],
+    [ "RemoveWeather", "d4/d45/a00791.html#ga296a3324a3a38984149fae3e5d62435f", null ],
+    [ "SendFineWeatherUpdateToPlayer", "d4/d45/a00791.html#gac86b4e254146468a7412d8fc7b0c27f2", null ],
+    [ "Update", "d4/d45/a00791.html#ga45f0da6cf9e14a99380b4b9be2890801", null ]
 ];

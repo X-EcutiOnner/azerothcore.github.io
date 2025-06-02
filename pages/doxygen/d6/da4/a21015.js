@@ -1,6 +1,7 @@
 var a21015 =
 [
-    [ "instance_utgarde_keep_InstanceMapScript", "d8/daf/a21019.html", "d8/daf/a21019" ],
-    [ "instance_utgarde_keep", "d6/da4/a21015.html#abe013e4f086f63722a6398b2b7928c80", null ],
-    [ "GetInstanceScript", "d6/da4/a21015.html#a9a42e0dde1c7598eb2ef665f11e25e92", null ]
+    [ "HandleEffectPeriodic", "d6/da4/a21015.html#a5741a78ba0cc8c723e80b1847b3eb1bc", null ],
+    [ "PrepareAuraScript", "d6/da4/a21015.html#a748cd347867557b5048d9ba0c112cd80", null ],
+    [ "Register", "d6/da4/a21015.html#a3c24d37ab4a6e16a577983c3f6bc2722", null ],
+    [ "Validate", "d6/da4/a21015.html#afa86789ef14b1d06094705ba6cfb9205", null ]
 ];

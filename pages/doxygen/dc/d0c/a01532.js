@@ -1,6 +1,7 @@
 var a01532 =
 [
-    [ "GenerateEnchSuffixFactor", "dc/d0c/a01532.html#a25026e783b088b45eebd4db8295b1b87", null ],
-    [ "GetItemEnchantMod", "dc/d0c/a01532.html#a76d03c9ceb2d3ac35582eaea4624544f", null ],
-    [ "LoadRandomEnchantmentsTable", "dc/d0c/a01532.html#a376fabf7bba54eaf928217f860f1c33b", null ]
+    [ "UpdateTime", "db/ddf/a11375.html", "db/ddf/a11375" ],
+    [ "WorldUpdateTime", "d6/d75/a11379.html", "d6/d75/a11379" ],
+    [ "AVG_DIFF_COUNT", "dc/d0c/a01532.html#ac09527fd6979f77130f2ef6be46850eb", null ],
+    [ "sWorldUpdateTime", "dc/d0c/a01532.html#a911ff49ac052e337a0927c080aec20b2", null ]
 ];

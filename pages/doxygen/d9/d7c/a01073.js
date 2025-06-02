@@ -1,4 +1,4 @@
 var a01073 =
 [
-    [ "ApplySpellFix", "d9/d7c/a01073.html#ab2692a866ddb9539875213c10f37b84e", null ]
+    [ "AllItemScript", "d0/d6b/a10187.html", "d0/d6b/a10187" ]
 ];

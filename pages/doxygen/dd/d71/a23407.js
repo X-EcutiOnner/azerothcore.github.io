@@ -1,6 +1,11 @@
 var a23407 =
 [
-    [ "HandleScriptEffect", "dd/d71/a23407.html#abba5817280db6579e3e6e0b964655c6e", null ],
-    [ "PrepareSpellScript", "dd/d71/a23407.html#a846fa43c9907ddb6243c006327757a1c", null ],
-    [ "Register", "dd/d71/a23407.html#a7daa26f4035912bff4811b0bfee35fee", null ]
+    [ "boss_gruul", "dd/d71/a23407.html#a9a14e75144c79d7ad4f65192edd385f9", null ],
+    [ "JustDied", "dd/d71/a23407.html#a92d9e524dfaa0e4a22daf9b7bc6ac10d", null ],
+    [ "JustEngagedWith", "dd/d71/a23407.html#afb0cc9bb5acad80cea8d3e572d45da94", null ],
+    [ "KilledUnit", "dd/d71/a23407.html#afec4bb1b631cab0b167afb7cc2578b7d", null ],
+    [ "Reset", "dd/d71/a23407.html#ace9cf892fc1cc345d6f82d6e9816e301", null ],
+    [ "UpdateAI", "dd/d71/a23407.html#a3503b84f4fb896d439ccd49a997e4087", null ],
+    [ "_caveInTimer", "dd/d71/a23407.html#a66766f93a5ff543bbb0c9b805aaf253c", null ],
+    [ "_recentlySpoken", "dd/d71/a23407.html#a411ec67153dd4715eb397a420c45bb12", null ]
 ];

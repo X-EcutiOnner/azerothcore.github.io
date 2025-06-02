@@ -1,7 +1,6 @@
 var a20247 =
 [
-    [ "HandleScript", "dc/d4b/a20247.html#a760bb60198017605111d02af98c827b1", null ],
-    [ "PrepareSpellScript", "dc/d4b/a20247.html#a6128956f1037b62fff2e6f10ec22d956", null ],
-    [ "Register", "dc/d4b/a20247.html#ae445c98f5543df2f45b77b6cd54d58e7", null ],
-    [ "Validate", "dc/d4b/a20247.html#a3bb460d50928bd1b57566dd6a50fa5cd", null ]
+    [ "boss_ignisAI", "db/d7e/a20251.html", "db/d7e/a20251" ],
+    [ "boss_ignis", "dc/d4b/a20247.html#a15f42f252e4f9472707d5b81f7fdaece", null ],
+    [ "GetAI", "dc/d4b/a20247.html#ac11ff148e9cbc985875f859268a3de01", null ]
 ];

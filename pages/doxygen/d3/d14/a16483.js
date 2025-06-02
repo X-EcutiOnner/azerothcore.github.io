@@ -1,22 +1,14 @@
 var a16483 =
 [
-    [ "boss_jormungarAI", "d3/d14/a16483.html#ab5291ccd06b4a0601e3426a89a86d99d", null ],
-    [ "AttackStart", "d3/d14/a16483.html#acabeffd2f9978b25a0b27abfbb3f5220", null ],
-    [ "DoAction", "d3/d14/a16483.html#a5ce0f99d3889933633e1d88b4bacee88", null ],
-    [ "EnterEvadeMode", "d3/d14/a16483.html#aa3cd34a173b92dd2b54a28bb1b17fae7", null ],
-    [ "JustDied", "d3/d14/a16483.html#a2a9278b547776c84b756b6fb2fc89e67", null ],
-    [ "JustEngagedWith", "d3/d14/a16483.html#af5a266b577c5bb8ef8f7bbd7fddc163e", null ],
-    [ "JustReachedHome", "d3/d14/a16483.html#afd345729b079d2dacd8f37f4481968f1", null ],
-    [ "ScheduleEvents", "d3/d14/a16483.html#a6fd24ecd0be5692e9e389833a6134de5", null ],
-    [ "UpdateAI", "d3/d14/a16483.html#ad8e5bf4176dfa37c3af476f6f71e699e", null ],
-    [ "_MODEL_MOBILE", "d3/d14/a16483.html#a4be09bf0ae4c96d77edd5b1577b8aa28", null ],
-    [ "_MODEL_STATIONARY", "d3/d14/a16483.html#adb7d8c493523dadcd0168899621cd246", null ],
-    [ "_SPELL_BITE", "d3/d14/a16483.html#a604bcb56112044c4e437a9c447f0db51", null ],
-    [ "_SPELL_SPEW", "d3/d14/a16483.html#af8f47b7cbad0adb835c1bdcf40ca5288", null ],
-    [ "_SPELL_SPIT", "d3/d14/a16483.html#a4bdfcadfd0ebcc98b0a2c221b3a387b2", null ],
-    [ "_SPELL_SPRAY", "d3/d14/a16483.html#ac73edc1b85cd78b045657279335a7564", null ],
-    [ "_TYPE_OTHER", "d3/d14/a16483.html#a4c341523dfc63b6c9b73f9e3a49ce854", null ],
-    [ "bIsStationary", "d3/d14/a16483.html#a16e42748b51576e6acb7cb30794b47bf", null ],
-    [ "events", "d3/d14/a16483.html#a08cfa4cc7bf270926bf1d3fc8089318f", null ],
-    [ "pInstance", "d3/d14/a16483.html#a981495f258c2fdeec9d0139ab02cf044", null ]
+    [ "npc_snobold_vassalAI", "d3/d14/a16483.html#a2ecc5e8289252b2936f36de9921294e0", null ],
+    [ "AttackStart", "d3/d14/a16483.html#a50afc82c80cede8dcf3240a116463411", null ],
+    [ "DoAction", "d3/d14/a16483.html#a8beac97ea5f7c797d2ae52e2f3c3be50", null ],
+    [ "JustDied", "d3/d14/a16483.html#aef408460584a17f15a84e8a6435c6348", null ],
+    [ "JustEngagedWith", "d3/d14/a16483.html#a60c1704617e99239d60d24d6b7513c1a", null ],
+    [ "MoveInLineOfSight", "d3/d14/a16483.html#aae75a4e69e27c1e4778a7f76caff04ba", null ],
+    [ "Reset", "d3/d14/a16483.html#af794f46b1a7af97b52683954b556c27d", null ],
+    [ "UpdateAI", "d3/d14/a16483.html#ac1d282da6f2d9133619a212a349c777f", null ],
+    [ "events", "d3/d14/a16483.html#adfb6df0ee8ab19b58de24da8d4e6d9df", null ],
+    [ "pInstance", "d3/d14/a16483.html#afc140e6f9fc1ec78914aecc5150345b0", null ],
+    [ "TargetGUID", "d3/d14/a16483.html#a0d36e4903448c5a03115df0dff3480c8", null ]
 ];

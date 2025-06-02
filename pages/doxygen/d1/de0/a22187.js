@@ -1,11 +1,6 @@
 var a22187 =
 [
-    [ "npc_iron_watcherAI", "d1/de0/a22187.html#a5f0c3d759dfba81cb2010d2a0b479909", null ],
-    [ "MovementInform", "d1/de0/a22187.html#aaf329f0160efa778abdebf86b1cf230b", null ],
-    [ "Reset", "d1/de0/a22187.html#a878f26cd41ccb9d777f9db00e2e30568", null ],
-    [ "SpellHit", "d1/de0/a22187.html#afce7cebdb4a49d9e5618ac211b235c6b", null ],
-    [ "UpdateAI", "d1/de0/a22187.html#a50391c9950fbbaf170600f13bab1e6bb", null ],
-    [ "charging", "d1/de0/a22187.html#af5be6fc6d7d234cfd2ac78f636b0ad7c", null ],
-    [ "hpTimer", "d1/de0/a22187.html#afcbb113387345361baf0351a19e6eb1d", null ],
-    [ "spellTimer", "d1/de0/a22187.html#a9bcd8d80b0a74c7abf0fc8b3bb32aa30", null ]
+    [ "npc_frosthoundAI", "db/df1/a22191.html", "db/df1/a22191" ],
+    [ "npc_frosthound", "d1/de0/a22187.html#a3266f5186d1db0c010f586d3272725a6", null ],
+    [ "GetAI", "d1/de0/a22187.html#a49cd41753c715f166fc903df9dcfdd6b", null ]
 ];

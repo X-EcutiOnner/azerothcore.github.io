@@ -1,8 +1,11 @@
 var a20847 =
 [
-    [ "OnApply", "dd/dba/a20847.html#a3046fa845b6763c5602ca7b50aefd68f", null ],
-    [ "OnRemove", "dd/dba/a20847.html#ad3f482f9fff9798cc6e7a06183344742", null ],
-    [ "PrepareAuraScript", "dd/dba/a20847.html#ab830a7a6c5ed432f8718071345c99b57", null ],
-    [ "Register", "dd/dba/a20847.html#ac83a8d085d02feec64b6012cacb60dce", null ],
-    [ "Validate", "dd/dba/a20847.html#a69a3e0a6c06e3c4085bf0ad25e40edf9", null ]
+    [ "boss_yoggsaron_neltharionAI", "dd/dba/a20847.html#aacefe32de32513bdf46c0dd526768e25", null ],
+    [ "NextStep", "dd/dba/a20847.html#a4770948240ac56ec151c262c8996e4e4", null ],
+    [ "Reset", "dd/dba/a20847.html#a03841acfd21e920bc6589203448709a0", null ],
+    [ "Say", "dd/dba/a20847.html#ae45f051ab64ce1f96f32e5b8d073356e", null ],
+    [ "UpdateAI", "dd/dba/a20847.html#a80c174a8ffa15550627ed27ab0d8925d", null ],
+    [ "_checkTimer", "dd/dba/a20847.html#a7eef651198e09cf25c2f039bcb4a1876", null ],
+    [ "_running", "dd/dba/a20847.html#a6b2f01ed2ffe8113cbddd4a033886059", null ],
+    [ "_step", "dd/dba/a20847.html#a0ac37717e940b094d322a7e492202718", null ]
 ];

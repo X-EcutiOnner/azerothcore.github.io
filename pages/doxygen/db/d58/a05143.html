@@ -139,8 +139,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:adb31d31425a3b0ed50ffd828fc58b09d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a57746ee046901c640e1fc363b204b867"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d58/a05143.html#a57746ee046901c640e1fc363b204b867">SetBinary</a> (<a class="el" href="../../da/d71/a04649.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> const *bytes, <a class="el" href="../../da/d71/a04649.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> len, bool littleEndian=true)</td></tr>
 <tr class="separator:a57746ee046901c640e1fc363b204b867"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a93b90bce7034febfe487215dd0b10478"><td class="memTemplParams" colspan="2">template&lt;typename <a class="el" href="../../d0/deb/a01508.html#abe8666ac87665ba963053cdd2b014750a0e7278cda02a9c0446dcc75a4df34eb2">Container</a> &gt; </td></tr>
-<tr class="memitem:a93b90bce7034febfe487215dd0b10478"><td class="memTemplItemLeft" align="right" valign="top">auto&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../db/d58/a05143.html#a93b90bce7034febfe487215dd0b10478">SetBinary</a> (<a class="el" href="../../d0/deb/a01508.html#abe8666ac87665ba963053cdd2b014750a0e7278cda02a9c0446dcc75a4df34eb2">Container</a> const &amp;c, bool littleEndian=true) -&gt; std::enable_if_t&lt;!std::is_pointer_v&lt; std::decay_t&lt; <a class="el" href="../../d0/deb/a01508.html#abe8666ac87665ba963053cdd2b014750a0e7278cda02a9c0446dcc75a4df34eb2">Container</a> &gt; &gt; &gt;</td></tr>
+<tr class="memitem:a93b90bce7034febfe487215dd0b10478"><td class="memTemplParams" colspan="2">template&lt;typename <a class="el" href="../../d6/d7d/a00161.html#abe8666ac87665ba963053cdd2b014750a0e7278cda02a9c0446dcc75a4df34eb2">Container</a> &gt; </td></tr>
+<tr class="memitem:a93b90bce7034febfe487215dd0b10478"><td class="memTemplItemLeft" align="right" valign="top">auto&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../db/d58/a05143.html#a93b90bce7034febfe487215dd0b10478">SetBinary</a> (<a class="el" href="../../d6/d7d/a00161.html#abe8666ac87665ba963053cdd2b014750a0e7278cda02a9c0446dcc75a4df34eb2">Container</a> const &amp;c, bool littleEndian=true) -&gt; std::enable_if_t&lt;!std::is_pointer_v&lt; std::decay_t&lt; <a class="el" href="../../d6/d7d/a00161.html#abe8666ac87665ba963053cdd2b014750a0e7278cda02a9c0446dcc75a4df34eb2">Container</a> &gt; &gt; &gt;</td></tr>
 <tr class="separator:a93b90bce7034febfe487215dd0b10478"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:afeefbcfb38816531e8b4879be770f730"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d58/a05143.html#afeefbcfb38816531e8b4879be770f730">SetHexStr</a> (char const *str)</td></tr>
 <tr class="separator:afeefbcfb38816531e8b4879be770f730"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -620,9 +620,9 @@ template&lt;std::size_t Size&gt; </div>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  186</span>{</div>
 <div class="line"><span class="lineno">  187</span>    <span class="keywordtype">int</span> res = littleEndian ? BN_bn2lebinpad(<a class="code hl_variable" href="../../db/d58/a05143.html#a97db62040b8cb3cdefeeee9e697b0cd2">_bn</a>, buf, bufsize) : BN_bn2binpad(<a class="code hl_variable" href="../../db/d58/a05143.html#a97db62040b8cb3cdefeeee9e697b0cd2">_bn</a>, buf, bufsize);</div>
-<div class="line"><span class="lineno">  188</span>    <a class="code hl_define" href="../../d8/d19/a04259.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(res &gt; 0, <span class="stringliteral">&quot;Buffer of size {} is too small to hold bignum with {} bytes.\n&quot;</span>, bufsize, BN_num_bytes(<a class="code hl_variable" href="../../db/d58/a05143.html#a97db62040b8cb3cdefeeee9e697b0cd2">_bn</a>));</div>
+<div class="line"><span class="lineno">  188</span>    <a class="code hl_define" href="../../d1/dd9/a04184.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(res &gt; 0, <span class="stringliteral">&quot;Buffer of size {} is too small to hold bignum with {} bytes.\n&quot;</span>, bufsize, BN_num_bytes(<a class="code hl_variable" href="../../db/d58/a05143.html#a97db62040b8cb3cdefeeee9e697b0cd2">_bn</a>));</div>
 <div class="line"><span class="lineno">  189</span>}</div>
-<div class="ttc" id="aa04259_html_af343b20373ba49a92fce523e948f2ab3"><div class="ttname"><a href="../../d8/d19/a04259.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a></div><div class="ttdeci">#define ASSERT</div><div class="ttdef"><b>Definition:</b> Errors.h:68</div></div>
+<div class="ttc" id="aa04184_html_af343b20373ba49a92fce523e948f2ab3"><div class="ttname"><a href="../../d1/dd9/a04184.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a></div><div class="ttdeci">#define ASSERT</div><div class="ttdef"><b>Definition:</b> Errors.h:68</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00134">_bn</a>, and <a class="el" href="../../#l00068">ASSERT</a>.</p>
 
@@ -1248,7 +1248,7 @@ template&lt;std::size_t Size&gt; </div>
 <div class="memitem">
 <div class="memproto">
 <div class="memtemplate">
-template&lt;typename <a class="el" href="../../d0/deb/a01508.html#abe8666ac87665ba963053cdd2b014750a0e7278cda02a9c0446dcc75a4df34eb2">Container</a> &gt; </div>
+template&lt;typename <a class="el" href="../../d6/d7d/a00161.html#abe8666ac87665ba963053cdd2b014750a0e7278cda02a9c0446dcc75a4df34eb2">Container</a> &gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
@@ -1256,7 +1256,7 @@ template&lt;typename <a class="el" href="../../d0/deb/a01508.html#abe8666ac87665
         <tr>
           <td class="memname">auto BigNumber::SetBinary </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d0/deb/a01508.html#abe8666ac87665ba963053cdd2b014750a0e7278cda02a9c0446dcc75a4df34eb2">Container</a> const &amp;&#160;</td>
+          <td class="paramtype"><a class="el" href="../../d6/d7d/a00161.html#abe8666ac87665ba963053cdd2b014750a0e7278cda02a9c0446dcc75a4df34eb2">Container</a> const &amp;&#160;</td>
           <td class="paramname"><em>c</em>, </td>
         </tr>
         <tr>
@@ -1268,7 +1268,7 @@ template&lt;typename <a class="el" href="../../d0/deb/a01508.html#abe8666ac87665
         <tr>
           <td></td>
           <td>)</td>
-          <td></td><td> -&gt; std::enable_if_t&lt;!std::is_pointer_v&lt;std::decay_t&lt;<a class="el" href="../../d0/deb/a01508.html#abe8666ac87665ba963053cdd2b014750a0e7278cda02a9c0446dcc75a4df34eb2">Container</a>&gt;&gt;&gt; </td>
+          <td></td><td> -&gt; std::enable_if_t&lt;!std::is_pointer_v&lt;std::decay_t&lt;<a class="el" href="../../d6/d7d/a00161.html#abe8666ac87665ba963053cdd2b014750a0e7278cda02a9c0446dcc75a4df34eb2">Container</a>&gt;&gt;&gt; </td>
         </tr>
       </table>
   </td>
@@ -1591,7 +1591,7 @@ template&lt;std::size_t Size&gt; </div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../db/d58/a05143.html">BigNumber</a></li>
-    <li class="footer">Generated on Mon May 26 2025 20:44:51 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Jun 2 2025 20:46:42 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

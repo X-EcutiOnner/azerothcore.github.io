@@ -1,6 +1,6 @@
 var a22323 =
 [
-    [ "CheckCast", "db/dda/a22323.html#afde7c1e90f2faa9c587490ce358a59b2", null ],
-    [ "PrepareSpellScript", "db/dda/a22323.html#a5139e3e9cb1c9079798cefc3cb04d387", null ],
-    [ "Register", "db/dda/a22323.html#a01225e48eaf2a6dfe13da245725b0a64", null ]
+    [ "HandleSummon", "db/dda/a22323.html#ac2f7b0d0772d72d69d58bb4b66616e21", null ],
+    [ "PrepareSpellScript", "db/dda/a22323.html#ae7f071e9d9a82892be31090385679c9f", null ],
+    [ "Register", "db/dda/a22323.html#a516ab0801cc93f15da434a0f0952c7e4", null ]
 ];

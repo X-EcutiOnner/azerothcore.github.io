@@ -1,43 +1,9 @@
 var a03806 =
 [
-    [ "npc_ranger_lilatha", "d0/d6e/a13495.html", "d0/d6e/a13495" ],
-    [ "npc_sentinel_leader", "de/d3e/a13499.html", "de/d3e/a13499" ],
-    [ "npc_sentinel_infiltrator", "d8/d32/a13503.html", "d8/d32/a13503" ],
-    [ "RangerLilatha", "dc/d19/a03806.html#a74dc890829d87be230ff5350c12e090a", [
-      [ "SAY_START", "dc/d19/a03806.html#a74dc890829d87be230ff5350c12e090aa2eae21cbf7d110ee89a9798ef6f00239", null ],
-      [ "SAY_PROGRESS1", "dc/d19/a03806.html#a74dc890829d87be230ff5350c12e090aa1a7ff39fa30eb8719e4a1d4d8eea41bd", null ],
-      [ "SAY_PROGRESS2", "dc/d19/a03806.html#a74dc890829d87be230ff5350c12e090aa6b66c233baa6dd334abb1b7798066894", null ],
-      [ "SAY_PROGRESS3", "dc/d19/a03806.html#a74dc890829d87be230ff5350c12e090aa541cce8e829316638c92542a766209b6", null ],
-      [ "SAY_END1", "dc/d19/a03806.html#a74dc890829d87be230ff5350c12e090aa944891a3d2f715c9e1c8f47d65f16eca", null ],
-      [ "SAY_END2", "dc/d19/a03806.html#a74dc890829d87be230ff5350c12e090aaa0efc3eab3d2447cc17568f7ceed8cba", null ],
-      [ "SAY_CAPTAIN_ANSWER", "dc/d19/a03806.html#a74dc890829d87be230ff5350c12e090aaf92ec5f68682db4db5c776edd0e207c0", null ],
-      [ "QUEST_ESCAPE_FROM_THE_CATACOMBS", "dc/d19/a03806.html#a74dc890829d87be230ff5350c12e090aaf838b4afb069e6a501691db32ccd1e16", null ],
-      [ "GO_CAGE", "dc/d19/a03806.html#a74dc890829d87be230ff5350c12e090aab8d35951eed2c9e47bed2aa4da3fab8b", null ],
-      [ "NPC_CAPTAIN_HELIOS", "dc/d19/a03806.html#a74dc890829d87be230ff5350c12e090aaf9140f9834cba6679a2dd4d3dccc02a8", null ],
-      [ "NPC_MUMMIFIED_HEADHUNTER", "dc/d19/a03806.html#a74dc890829d87be230ff5350c12e090aa981d62936965028299a53927f91db057", null ],
-      [ "NPC_SHADOWPINE_ORACLE", "dc/d19/a03806.html#a74dc890829d87be230ff5350c12e090aa84adb37d4c2fc9348d6fc31abfd0306a", null ]
-    ] ],
-    [ "SentinelInfiltrator", "dc/d19/a03806.html#a0b373714eadff6852c9ed5560abd70e5", [
-      [ "EMOTE_FLEE", "dc/d19/a03806.html#a0b373714eadff6852c9ed5560abd70e5a9d88a2f0a0929d045f07a5386f6a4431", null ],
-      [ "EVENT_TALK2", "dc/d19/a03806.html#a0b373714eadff6852c9ed5560abd70e5a5fbd3336be08db01eeeefc355f4fa541", null ],
-      [ "EVENT_QUESTION2", "dc/d19/a03806.html#a0b373714eadff6852c9ed5560abd70e5a16f3686cedbbcd372b458f36b8fef69d", null ],
-      [ "EVENT_EXCLAMATION", "dc/d19/a03806.html#a0b373714eadff6852c9ed5560abd70e5a235ba44e8ac06bf6c5da1072784d2736", null ],
-      [ "EVENT_SALUTE", "dc/d19/a03806.html#a0b373714eadff6852c9ed5560abd70e5a20c28745aea8562e2f30166e0ceec0ea", null ],
-      [ "EVENT_GOUGE2", "dc/d19/a03806.html#a0b373714eadff6852c9ed5560abd70e5a9c0323353380c86a1dd4583ba40430da", null ],
-      [ "EVENT_BACKSTAB2", "dc/d19/a03806.html#a0b373714eadff6852c9ed5560abd70e5aaf1d9b7bb592c2a5e42e3e0f3e2671cc", null ],
-      [ "NPC_SENTINEL_INFILTRATOR", "dc/d19/a03806.html#a0b373714eadff6852c9ed5560abd70e5a7cb437b950b46596afc196f0864a74fe", null ],
-      [ "PATH_ONE", "dc/d19/a03806.html#a0b373714eadff6852c9ed5560abd70e5a9dabcd3a092570c71edfb732f847d854", null ],
-      [ "PATH_TWO", "dc/d19/a03806.html#a0b373714eadff6852c9ed5560abd70e5a5c1049e5a354a320e8c4ead179675760", null ],
-      [ "SPELL_GOUGE", "dc/d19/a03806.html#a0b373714eadff6852c9ed5560abd70e5ad29cb58b32c3fccaec3fde84e2355de6", null ]
-    ] ],
-    [ "SentinelLeader", "dc/d19/a03806.html#acb58e7629bec88c770da1efed549d96c", [
-      [ "EVENT_QUESTION", "dc/d19/a03806.html#acb58e7629bec88c770da1efed549d96cae7206febd87cb3058c3f99ed717131a7", null ],
-      [ "EVENT_TALK", "dc/d19/a03806.html#acb58e7629bec88c770da1efed549d96cad8d5fcaf7b3bfdd91e6337d222c1620f", null ],
-      [ "EVENT_SINISTER_STRIKE", "dc/d19/a03806.html#acb58e7629bec88c770da1efed549d96ca23b5677e1eb390f2bbe16d2b30a05498", null ],
-      [ "EVENT_BACKSTAB", "dc/d19/a03806.html#acb58e7629bec88c770da1efed549d96ca1c1d8055d31bb2fb8238437b243852ca", null ],
-      [ "NPC_SENTINEL_SPY", "dc/d19/a03806.html#acb58e7629bec88c770da1efed549d96cae75b24a241dff855e6dc0e3d51e0c9e9", null ],
-      [ "SPELL_SINISTER_STRIKE", "dc/d19/a03806.html#acb58e7629bec88c770da1efed549d96ca3217132d497cc70e674432067fd431a7", null ],
-      [ "SPELL_BACKSTAB", "dc/d19/a03806.html#acb58e7629bec88c770da1efed549d96ca4ff7524487add866a452db82c2791b68", null ]
-    ] ],
-    [ "AddSC_ghostlands", "dc/d19/a03806.html#a1093517f6bb08d3a1c9e52cf36b6a054", null ]
+    [ "instance_magtheridons_lair", "d2/db6/a23563.html", "d2/db6/a23563" ],
+    [ "instance_magtheridons_lair::instance_magtheridons_lair_InstanceMapScript", "d5/d79/a23567.html", "d5/d79/a23567" ],
+    [ "AddSC_instance_magtheridons_lair", "dc/d19/a03806.html#a77e256ce8ca932c8d162a30715dc7c6f", null ],
+    [ "boundaries", "dc/d19/a03806.html#aa75d7d0ffe0cef214f982966c33db1c1", null ],
+    [ "doorData", "dc/d19/a03806.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
+    [ "minionData", "dc/d19/a03806.html#a6720238df140a3c574a711042b7f5bd3", null ]
 ];

@@ -1,8 +1,6 @@
 var a16795 =
 [
-    [ "npc_phantom_hallucinationAI", "dd/d69/a16795.html#a7b27d1c859d77220dc1c3c8323e9eef9", null ],
-    [ "EnterEvadeMode", "dd/d69/a16795.html#a7ef7411ea780466d7c4dd185d9444aba", null ],
-    [ "JustDied", "dd/d69/a16795.html#a5a4f05c5930a7e5bd31df2e3131f4cec", null ],
-    [ "UpdateAI", "dd/d69/a16795.html#ad874a741c641dbac6380aa682d582d7c", null ],
-    [ "numOfUpd", "dd/d69/a16795.html#adb78f5dcd272e8223f895079885a5461", null ]
+    [ "npc_phantom_mageAI", "dc/dc7/a16799.html", "dc/dc7/a16799" ],
+    [ "npc_phantom_mage", "dd/d69/a16795.html#ad57414231c40917bf55d6155fa9c05db", null ],
+    [ "GetAI", "dd/d69/a16795.html#ae2134b8be3052da659390bde7c2aac2e", null ]
 ];

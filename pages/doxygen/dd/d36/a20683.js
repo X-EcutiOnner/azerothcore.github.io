@@ -1,6 +1,6 @@
 var a20683 =
 [
-    [ "PrepareSpellScript", "dd/d36/a20683.html#a525025d429743f9d606289ca1a660796", null ],
-    [ "Register", "dd/d36/a20683.html#a66f565c07d495f27aaba393fdcce9d24", null ],
-    [ "SelectTarget", "dd/d36/a20683.html#a1c55fabe15cdccb073e109e1d0f6e6ad", null ]
+    [ "npc_xt002_life_sparkAI", "dd/d47/a20687.html", "dd/d47/a20687" ],
+    [ "npc_xt002_life_spark", "dd/d36/a20683.html#a9644718d192708e391b833468a0ff21e", null ],
+    [ "GetAI", "dd/d36/a20683.html#a09a1ce332d55fad146947c94bb53f564", null ]
 ];

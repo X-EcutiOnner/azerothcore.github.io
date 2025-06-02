@@ -1,6 +1,6 @@
 var a21119 =
 [
-    [ "CalculateAmount", "de/d3c/a21119.html#a79019ef395c9b66f6a88759b0517005d", null ],
-    [ "PrepareAuraScript", "de/d3c/a21119.html#a1336ab2b7f560deeeeaaf017578bd524", null ],
-    [ "Register", "de/d3c/a21119.html#a9bce52699983fe798c903385faa42462", null ]
+    [ "npc_ritual_channelerAI", "d5/db6/a21123.html", "d5/db6/a21123" ],
+    [ "npc_ritual_channeler", "de/d3c/a21119.html#adab372002549b009e3f937ec67e49f3f", null ],
+    [ "GetAI", "de/d3c/a21119.html#aa416545438d701cbfc2567ba5ae536c8", null ]
 ];

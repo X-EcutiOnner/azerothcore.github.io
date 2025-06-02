@@ -1,5 +1,4 @@
 var a02081 =
 [
-    [ "Acore::BattlegroundChatBuilder", "d0/daa/a07251.html", "d0/daa/a07251" ],
-    [ "Acore::Battleground2ChatBuilder", "d4/dc4/a07255.html", "d4/dc4/a07255" ]
+    [ "CliThread", "d2/d6c/a04754.html#ga2a2e263e5224262317a4728b5a4c18ac", null ]
 ];

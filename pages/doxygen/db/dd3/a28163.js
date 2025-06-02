@@ -1,7 +1,9 @@
 var a28163 =
 [
-    [ "Id", "db/dd3/a28163.html#a94843a6f0cb39332f39a9630945f1fc8", null ],
-    [ "SoundBank", "db/dd3/a28163.html#a1dd2e40caf515186c831dc8cc82c095b", null ],
-    [ "SpellId", "db/dd3/a28163.html#aa010947f5fbec6867b005b25728e720b", null ],
-    [ "Type", "db/dd3/a28163.html#a7f610dd6a9944b4634bb981c0cb8e230", null ]
+    [ "itemId", "db/dd3/a28163.html#ae125712e5569c9699b4748b6a15fbc12", null ],
+    [ "items_to_triggerspell", "db/dd3/a28163.html#a8496a2f3fa3e230def04b996fc585760", null ],
+    [ "name", "db/dd3/a28163.html#a9b62f843833d524f200782d44151503d", null ],
+    [ "required_skill_id", "db/dd3/a28163.html#ab3058ac725fb8f105b9359d5a5147942", null ],
+    [ "required_skill_value", "db/dd3/a28163.html#a58d0997a73cf48061545edbc0201f544", null ],
+    [ "spells", "db/dd3/a28163.html#a8aac032992efe1bfbba0e49693562c7f", null ]
 ];

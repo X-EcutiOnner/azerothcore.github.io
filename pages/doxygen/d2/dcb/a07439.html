@@ -120,7 +120,7 @@ $(document).ready(function(){initNavTree('d2/dcb/a07439.html','../../'); initRes
 Public Member Functions</h2></td></tr>
 <tr class="memitem:a3db2ef832cf1413fb2e565ca0d922a80"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dcb/a07439.html#a3db2ef832cf1413fb2e565ca0d922a80">Update</a> ()</td></tr>
 <tr class="separator:a3db2ef832cf1413fb2e565ca0d922a80"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4dec6544342fdc5052b69dcc61148453"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/da4/a01343.html#a88bd249c0903724edb2c2d5416962534">WhoListInfoVector</a> const &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dcb/a07439.html#a4dec6544342fdc5052b69dcc61148453">GetWhoList</a> () const</td></tr>
+<tr class="memitem:a4dec6544342fdc5052b69dcc61148453"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/db6/a00074.html#a88bd249c0903724edb2c2d5416962534">WhoListInfoVector</a> const &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dcb/a07439.html#a4dec6544342fdc5052b69dcc61148453">GetWhoList</a> () const</td></tr>
 <tr class="separator:a4dec6544342fdc5052b69dcc61148453"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-methods" name="pub-static-methods"></a>
@@ -130,7 +130,7 @@ Static Public Member Functions</h2></td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pro-attribs" name="pro-attribs"></a>
 Protected Attributes</h2></td></tr>
-<tr class="memitem:a75495cb910c6de65d60a5080248e1e25"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/da4/a01343.html#a88bd249c0903724edb2c2d5416962534">WhoListInfoVector</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dcb/a07439.html#a75495cb910c6de65d60a5080248e1e25">_whoListStorage</a></td></tr>
+<tr class="memitem:a75495cb910c6de65d60a5080248e1e25"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/db6/a00074.html#a88bd249c0903724edb2c2d5416962534">WhoListInfoVector</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dcb/a07439.html#a75495cb910c6de65d60a5080248e1e25">_whoListStorage</a></td></tr>
 <tr class="separator:a75495cb910c6de65d60a5080248e1e25"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-methods" name="pri-methods"></a>
@@ -263,7 +263,7 @@ Private Member Functions</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d3/da4/a01343.html#a88bd249c0903724edb2c2d5416962534">WhoListInfoVector</a> const  &amp; WhoListCacheMgr::GetWhoList </td>
+          <td class="memname"><a class="el" href="../../db/db6/a00074.html#a88bd249c0903724edb2c2d5416962534">WhoListInfoVector</a> const  &amp; WhoListCacheMgr::GetWhoList </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td> const</td>
@@ -384,7 +384,7 @@ Private Member Functions</h2></td></tr>
 <div class="fragment"><div class="line"><span class="lineno">   32</span>{</div>
 <div class="line"><span class="lineno">   33</span>    <span class="comment">// clear current list</span></div>
 <div class="line"><span class="lineno">   34</span>    <a class="code hl_variable" href="../../d2/dcb/a07439.html#a75495cb910c6de65d60a5080248e1e25">_whoListStorage</a>.clear();</div>
-<div class="line"><span class="lineno">   35</span>    <a class="code hl_variable" href="../../d2/dcb/a07439.html#a75495cb910c6de65d60a5080248e1e25">_whoListStorage</a>.reserve(<a class="code hl_define" href="../../d0/da4/a01631.html#a57dd9797e2282d27210248275f47ab85">sWorldSessionMgr</a>-&gt;GetPlayerCount() + 1);</div>
+<div class="line"><span class="lineno">   35</span>    <a class="code hl_variable" href="../../d2/dcb/a07439.html#a75495cb910c6de65d60a5080248e1e25">_whoListStorage</a>.reserve(<a class="code hl_define" href="../../d5/dd3/a00902.html#a57dd9797e2282d27210248275f47ab85">sWorldSessionMgr</a>-&gt;GetPlayerCount() + 1);</div>
 <div class="line"><span class="lineno">   36</span> </div>
 <div class="line"><span class="lineno">   37</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; [guid, player] : <a class="code hl_function" href="../../d0/d6d/a04809.html#a868ecab21b3e6e3ac68beed32f4ea793">ObjectAccessor::GetPlayers</a>())</div>
 <div class="line"><span class="lineno">   38</span>    {</div>
@@ -394,30 +394,30 @@ Private Member Functions</h2></td></tr>
 <div class="line"><span class="lineno">   42</span>        std::string playerName = player-&gt;GetName();</div>
 <div class="line"><span class="lineno">   43</span>        std::wstring widePlayerName;</div>
 <div class="line"><span class="lineno">   44</span> </div>
-<div class="line"><span class="lineno">   45</span>        <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../dd/db4/a04367.html#a096388bd1034eb78e43e5d60cc4f657a">Utf8toWStr</a>(playerName, widePlayerName))</div>
+<div class="line"><span class="lineno">   45</span>        <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../dc/d39/a04529.html#a096388bd1034eb78e43e5d60cc4f657a">Utf8toWStr</a>(playerName, widePlayerName))</div>
 <div class="line"><span class="lineno">   46</span>            <span class="keywordflow">continue</span>;</div>
 <div class="line"><span class="lineno">   47</span> </div>
-<div class="line"><span class="lineno">   48</span>        <a class="code hl_function" href="../../dd/db4/a04367.html#a58af07e1af657c56b4a20b6c7ef83615">wstrToLower</a>(widePlayerName);</div>
+<div class="line"><span class="lineno">   48</span>        <a class="code hl_function" href="../../dc/d39/a04529.html#a58af07e1af657c56b4a20b6c7ef83615">wstrToLower</a>(widePlayerName);</div>
 <div class="line"><span class="lineno">   49</span> </div>
-<div class="line"><span class="lineno">   50</span>        std::string guildName = <a class="code hl_define" href="../../d5/d16/a00029.html#aef171903a38e30c347ff11360f682f81">sGuildMgr</a>-&gt;GetGuildNameById(player-&gt;GetGuildId());</div>
+<div class="line"><span class="lineno">   50</span>        std::string guildName = <a class="code hl_define" href="../../d5/d54/a00938.html#aef171903a38e30c347ff11360f682f81">sGuildMgr</a>-&gt;GetGuildNameById(player-&gt;GetGuildId());</div>
 <div class="line"><span class="lineno">   51</span>        std::wstring wideGuildName;</div>
 <div class="line"><span class="lineno">   52</span> </div>
-<div class="line"><span class="lineno">   53</span>        <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../dd/db4/a04367.html#a096388bd1034eb78e43e5d60cc4f657a">Utf8toWStr</a>(guildName, wideGuildName))</div>
+<div class="line"><span class="lineno">   53</span>        <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../dc/d39/a04529.html#a096388bd1034eb78e43e5d60cc4f657a">Utf8toWStr</a>(guildName, wideGuildName))</div>
 <div class="line"><span class="lineno">   54</span>            <span class="keywordflow">continue</span>;</div>
 <div class="line"><span class="lineno">   55</span> </div>
-<div class="line"><span class="lineno">   56</span>        <a class="code hl_function" href="../../dd/db4/a04367.html#a58af07e1af657c56b4a20b6c7ef83615">wstrToLower</a>(wideGuildName);</div>
+<div class="line"><span class="lineno">   56</span>        <a class="code hl_function" href="../../dc/d39/a04529.html#a58af07e1af657c56b4a20b6c7ef83615">wstrToLower</a>(wideGuildName);</div>
 <div class="line"><span class="lineno">   57</span> </div>
 <div class="line"><span class="lineno">   58</span>        <a class="code hl_variable" href="../../d2/dcb/a07439.html#a75495cb910c6de65d60a5080248e1e25">_whoListStorage</a>.emplace_back(player-&gt;GetGUID(), player-&gt;GetTeamId(), player-&gt;GetSession()-&gt;GetSecurity(), player-&gt;GetLevel(),</div>
 <div class="line"><span class="lineno">   59</span>            player-&gt;getClass(), player-&gt;getRace(),</div>
-<div class="line"><span class="lineno">   60</span>            (player-&gt;IsSpectator() ? <a class="code hl_enumvalue" href="../../d9/d9a/a00998.html#ad26fccabf338d55f9fdcce090c8a0aa3aa55f807a4a2f472e4445abafb6327d3b">AREA_DALARAN</a> : player-&gt;GetZoneId()), player-&gt;getGender(), player-&gt;IsVisible(),</div>
+<div class="line"><span class="lineno">   60</span>            (player-&gt;IsSpectator() ? <a class="code hl_enumvalue" href="../../dc/d25/a00596.html#ad26fccabf338d55f9fdcce090c8a0aa3aa55f807a4a2f472e4445abafb6327d3b">AREA_DALARAN</a> : player-&gt;GetZoneId()), player-&gt;getGender(), player-&gt;IsVisible(),</div>
 <div class="line"><span class="lineno">   61</span>            widePlayerName, wideGuildName, playerName, guildName);</div>
 <div class="line"><span class="lineno">   62</span>    }</div>
 <div class="line"><span class="lineno">   63</span>}</div>
-<div class="ttc" id="aa00029_html_aef171903a38e30c347ff11360f682f81"><div class="ttname"><a href="../../d5/d16/a00029.html#aef171903a38e30c347ff11360f682f81">sGuildMgr</a></div><div class="ttdeci">#define sGuildMgr</div><div class="ttdef"><b>Definition:</b> GuildMgr.h:51</div></div>
-<div class="ttc" id="aa00998_html_ad26fccabf338d55f9fdcce090c8a0aa3aa55f807a4a2f472e4445abafb6327d3b"><div class="ttname"><a href="../../d9/d9a/a00998.html#ad26fccabf338d55f9fdcce090c8a0aa3aa55f807a4a2f472e4445abafb6327d3b">AREA_DALARAN</a></div><div class="ttdeci">@ AREA_DALARAN</div><div class="ttdef"><b>Definition:</b> AreaDefines.h:149</div></div>
-<div class="ttc" id="aa01631_html_a57dd9797e2282d27210248275f47ab85"><div class="ttname"><a href="../../d0/da4/a01631.html#a57dd9797e2282d27210248275f47ab85">sWorldSessionMgr</a></div><div class="ttdeci">#define sWorldSessionMgr</div><div class="ttdef"><b>Definition:</b> WorldSessionMgr.h:110</div></div>
-<div class="ttc" id="aa04367_html_a096388bd1034eb78e43e5d60cc4f657a"><div class="ttname"><a href="../../dd/db4/a04367.html#a096388bd1034eb78e43e5d60cc4f657a">Utf8toWStr</a></div><div class="ttdeci">bool Utf8toWStr(char const *utf8str, std::size_t csize, wchar_t *wstr, std::size_t &amp;wsize)</div><div class="ttdef"><b>Definition:</b> Util.cpp:281</div></div>
-<div class="ttc" id="aa04367_html_a58af07e1af657c56b4a20b6c7ef83615"><div class="ttname"><a href="../../dd/db4/a04367.html#a58af07e1af657c56b4a20b6c7ef83615">wstrToLower</a></div><div class="ttdeci">void wstrToLower(std::wstring &amp;str)</div><div class="ttdef"><b>Definition:</b> Util.cpp:382</div></div>
+<div class="ttc" id="aa00596_html_ad26fccabf338d55f9fdcce090c8a0aa3aa55f807a4a2f472e4445abafb6327d3b"><div class="ttname"><a href="../../dc/d25/a00596.html#ad26fccabf338d55f9fdcce090c8a0aa3aa55f807a4a2f472e4445abafb6327d3b">AREA_DALARAN</a></div><div class="ttdeci">@ AREA_DALARAN</div><div class="ttdef"><b>Definition:</b> AreaDefines.h:149</div></div>
+<div class="ttc" id="aa00902_html_a57dd9797e2282d27210248275f47ab85"><div class="ttname"><a href="../../d5/dd3/a00902.html#a57dd9797e2282d27210248275f47ab85">sWorldSessionMgr</a></div><div class="ttdeci">#define sWorldSessionMgr</div><div class="ttdef"><b>Definition:</b> WorldSessionMgr.h:110</div></div>
+<div class="ttc" id="aa00938_html_aef171903a38e30c347ff11360f682f81"><div class="ttname"><a href="../../d5/d54/a00938.html#aef171903a38e30c347ff11360f682f81">sGuildMgr</a></div><div class="ttdeci">#define sGuildMgr</div><div class="ttdef"><b>Definition:</b> GuildMgr.h:51</div></div>
+<div class="ttc" id="aa04529_html_a096388bd1034eb78e43e5d60cc4f657a"><div class="ttname"><a href="../../dc/d39/a04529.html#a096388bd1034eb78e43e5d60cc4f657a">Utf8toWStr</a></div><div class="ttdeci">bool Utf8toWStr(char const *utf8str, std::size_t csize, wchar_t *wstr, std::size_t &amp;wsize)</div><div class="ttdef"><b>Definition:</b> Util.cpp:281</div></div>
+<div class="ttc" id="aa04529_html_a58af07e1af657c56b4a20b6c7ef83615"><div class="ttname"><a href="../../dc/d39/a04529.html#a58af07e1af657c56b4a20b6c7ef83615">wstrToLower</a></div><div class="ttdeci">void wstrToLower(std::wstring &amp;str)</div><div class="ttdef"><b>Definition:</b> Util.cpp:382</div></div>
 <div class="ttc" id="aa04809_html_a868ecab21b3e6e3ac68beed32f4ea793"><div class="ttname"><a href="../../d0/d6d/a04809.html#a868ecab21b3e6e3ac68beed32f4ea793">ObjectAccessor::GetPlayers</a></div><div class="ttdeci">HashMapHolder&lt; Player &gt;::MapType const &amp; GetPlayers()</div><div class="ttdef"><b>Definition:</b> ObjectAccessor.cpp:75</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00093">_whoListStorage</a>, <a class="el" href="../../#l00149">AREA_DALARAN</a>, <a class="el" href="../../#l00075">ObjectAccessor::GetPlayers()</a>, <a class="el" href="../../#l00051">sGuildMgr</a>, <a class="el" href="../../#l00110">sWorldSessionMgr</a>, <a class="el" href="../../#l00281">Utf8toWStr()</a>, and <a class="el" href="../../#l00382">wstrToLower()</a>.</p>
@@ -435,7 +435,7 @@ Private Member Functions</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d3/da4/a01343.html#a88bd249c0903724edb2c2d5416962534">WhoListInfoVector</a> WhoListCacheMgr::_whoListStorage</td>
+          <td class="memname"><a class="el" href="../../db/db6/a00074.html#a88bd249c0903724edb2c2d5416962534">WhoListInfoVector</a> WhoListCacheMgr::_whoListStorage</td>
         </tr>
       </table>
   </td>
@@ -455,7 +455,7 @@ Private Member Functions</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d2/dcb/a07439.html">WhoListCacheMgr</a></li>
-    <li class="footer">Generated on Mon May 26 2025 20:46:04 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Jun 2 2025 20:47:56 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

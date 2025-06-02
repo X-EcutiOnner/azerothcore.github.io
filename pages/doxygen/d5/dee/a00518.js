@@ -1,5 +1,5 @@
 var a00518 =
 [
-    [ "HyperlinkDataTokenizer", "dd/dbb/a07787.html", "dd/dbb/a07787" ],
-    [ "HYPERLINK_DATA_DELIMITER", "d5/dee/a00518.html#a306ae32a610f410bc85994a15699c867", null ]
+    [ "AddonHandler", "d7/dfc/a09543.html", "d7/dfc/a09543" ],
+    [ "sAddOnHandler", "d5/dee/a00518.html#a53c18d341aaa47d117be75333e4ab43d", null ]
 ];

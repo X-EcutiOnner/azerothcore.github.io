@@ -1,6 +1,6 @@
 var a17499 =
 [
-    [ "npc_igb_ship_crewAI", "d5/d27/a17499.html#a3ca741b305e3235b0521f094d7abe732", null ],
-    [ "CanAIAttack", "d5/d27/a17499.html#a2c834dc151493957fc116865699ae7f5", null ],
-    [ "_instance", "d5/d27/a17499.html#a288bd5f8b4eaed7b1a960ed738330ae4", null ]
+    [ "npc_zafod_boomboxAI", "da/dee/a17503.html", "da/dee/a17503" ],
+    [ "npc_zafod_boombox", "d5/d27/a17499.html#a7124746ed3f25ae6d96a2fa1910d98d0", null ],
+    [ "GetAI", "d5/d27/a17499.html#af80f6913cef53d39cafdcd47b2cd07f0", null ]
 ];

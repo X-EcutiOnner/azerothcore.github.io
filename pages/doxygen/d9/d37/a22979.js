@@ -1,6 +1,6 @@
 var a22979 =
 [
-    [ "HandleScriptEffect", "d9/d37/a22979.html#a0810dd4ad4d324c1a53e192fc99d1d35", null ],
-    [ "PrepareSpellScript", "d9/d37/a22979.html#a0ece61d7bed3e19ee6f6175a55c0733d", null ],
-    [ "Register", "d9/d37/a22979.html#a827cefe322562f0e8ea7cfa58b9a776b", null ]
+    [ "instance_black_temple_InstanceMapScript", "dc/de1/a22983.html", "dc/de1/a22983" ],
+    [ "instance_black_temple", "d9/d37/a22979.html#a2efd6c7fff15c8fd03652ef9a65088eb", null ],
+    [ "GetInstanceScript", "d9/d37/a22979.html#a947a1279eabde75d9884b1ef84b295a3", null ]
 ];

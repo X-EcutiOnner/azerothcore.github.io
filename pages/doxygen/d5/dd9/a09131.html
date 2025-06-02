@@ -181,7 +181,7 @@ Private Attributes</h2></td></tr>
 <tr class="separator:a521501abfc11a97c8d398b5c9b348367"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a081fdfe5f2af218798043a906b656a57"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/dd9/a09131.html#a081fdfe5f2af218798043a906b656a57">_objectDataLoaded</a></td></tr>
 <tr class="separator:a081fdfe5f2af218798043a906b656a57"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1b5ecce0a217108fd9bf0d026c0da91c"><td class="memItemLeft" align="right" valign="top">std::array&lt; std::array&lt; std::unique_ptr&lt; <a class="el" href="../../d5/dd9/a09131.html#aa4825c7b620815619c5cdefc36caeae6">GridCellType</a> &gt;, <a class="el" href="../../d4/d1c/a04208.html#a2c6994ea025f427f1485c1c7aaee01fe">MAX_NUMBER_OF_CELLS</a> &gt;, <a class="el" href="../../d4/d1c/a04208.html#a2c6994ea025f427f1485c1c7aaee01fe">MAX_NUMBER_OF_CELLS</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/dd9/a09131.html#a1b5ecce0a217108fd9bf0d026c0da91c">_cells</a></td></tr>
+<tr class="memitem:a1b5ecce0a217108fd9bf0d026c0da91c"><td class="memItemLeft" align="right" valign="top">std::array&lt; std::array&lt; std::unique_ptr&lt; <a class="el" href="../../d5/dd9/a09131.html#aa4825c7b620815619c5cdefc36caeae6">GridCellType</a> &gt;, <a class="el" href="../../d2/d27/a04301.html#a2c6994ea025f427f1485c1c7aaee01fe">MAX_NUMBER_OF_CELLS</a> &gt;, <a class="el" href="../../d2/d27/a04301.html#a2c6994ea025f427f1485c1c7aaee01fe">MAX_NUMBER_OF_CELLS</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/dd9/a09131.html#a1b5ecce0a217108fd9bf0d026c0da91c">_cells</a></td></tr>
 <tr class="separator:a1b5ecce0a217108fd9bf0d026c0da91c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a8703e5cf954324b1c659178364fe690c"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/d93/a09063.html">GridReference</a>&lt; <a class="el" href="../../d5/dd9/a09131.html">MapGrid</a>&lt; WORLD_OBJECT_TYPES, GRID_OBJECT_TYPES &gt; &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/dd9/a09131.html#a8703e5cf954324b1c659178364fe690c">_gridReference</a></td></tr>
 <tr class="separator:a8703e5cf954324b1c659178364fe690c"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -200,7 +200,7 @@ class MapGrid&lt; WORLD_OBJECT_TYPES, GRID_OBJECT_TYPES &gt;</div></div><h2 clas
 template&lt;class WORLD_OBJECT_TYPES , class GRID_OBJECT_TYPES &gt; </div>
       <table class="memname">
         <tr>
-          <td class="memname">typedef <a class="el" href="../../df/ddb/a09039.html">GridCell</a>&lt;WORLD_OBJECT_TYPES, GRID_OBJECT_TYPES&gt; <a class="el" href="../../d5/dd9/a09131.html">MapGrid</a>&lt; WORLD_OBJECT_TYPES, GRID_OBJECT_TYPES &gt;<a class="el" href="../../db/d3a/a00641.html#a679a3f15bd5a978e7d9dedab94f5baf6">::GridCellType</a></td>
+          <td class="memname">typedef <a class="el" href="../../df/ddb/a09039.html">GridCell</a>&lt;WORLD_OBJECT_TYPES, GRID_OBJECT_TYPES&gt; <a class="el" href="../../d5/dd9/a09131.html">MapGrid</a>&lt; WORLD_OBJECT_TYPES, GRID_OBJECT_TYPES &gt;<a class="el" href="../../d5/de8/a00749.html#a679a3f15bd5a978e7d9dedab94f5baf6">::GridCellType</a></td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -397,11 +397,11 @@ template&lt;class WORLD_OBJECT_TYPES , class GRID_OBJECT_TYPES &gt; </div>
 </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  132</span>    {</div>
-<div class="line"><span class="lineno">  133</span>        <a class="code hl_define" href="../../d8/d19/a04259.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(x &lt; <a class="code hl_define" href="../../d4/d1c/a04208.html#a2c6994ea025f427f1485c1c7aaee01fe">MAX_NUMBER_OF_CELLS</a> &amp;&amp; y &lt; <a class="code hl_define" href="../../d4/d1c/a04208.html#a2c6994ea025f427f1485c1c7aaee01fe">MAX_NUMBER_OF_CELLS</a>);</div>
+<div class="line"><span class="lineno">  133</span>        <a class="code hl_define" href="../../d1/dd9/a04184.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(x &lt; <a class="code hl_define" href="../../d2/d27/a04301.html#a2c6994ea025f427f1485c1c7aaee01fe">MAX_NUMBER_OF_CELLS</a> &amp;&amp; y &lt; <a class="code hl_define" href="../../d2/d27/a04301.html#a2c6994ea025f427f1485c1c7aaee01fe">MAX_NUMBER_OF_CELLS</a>);</div>
 <div class="line"><span class="lineno">  134</span>        <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d5/dd9/a09131.html#a1b5ecce0a217108fd9bf0d026c0da91c">_cells</a>[x][y].get();</div>
 <div class="line"><span class="lineno">  135</span>    }</div>
-<div class="ttc" id="aa04208_html_a2c6994ea025f427f1485c1c7aaee01fe"><div class="ttname"><a href="../../d4/d1c/a04208.html#a2c6994ea025f427f1485c1c7aaee01fe">MAX_NUMBER_OF_CELLS</a></div><div class="ttdeci">#define MAX_NUMBER_OF_CELLS</div><div class="ttdef"><b>Definition:</b> MapDefines.h:25</div></div>
-<div class="ttc" id="aa04259_html_af343b20373ba49a92fce523e948f2ab3"><div class="ttname"><a href="../../d8/d19/a04259.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a></div><div class="ttdeci">#define ASSERT</div><div class="ttdef"><b>Definition:</b> Errors.h:68</div></div>
+<div class="ttc" id="aa04184_html_af343b20373ba49a92fce523e948f2ab3"><div class="ttname"><a href="../../d1/dd9/a04184.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a></div><div class="ttdeci">#define ASSERT</div><div class="ttdef"><b>Definition:</b> Errors.h:68</div></div>
+<div class="ttc" id="aa04301_html_a2c6994ea025f427f1485c1c7aaee01fe"><div class="ttname"><a href="../../d2/d27/a04301.html#a2c6994ea025f427f1485c1c7aaee01fe">MAX_NUMBER_OF_CELLS</a></div><div class="ttdeci">#define MAX_NUMBER_OF_CELLS</div><div class="ttdef"><b>Definition:</b> MapDefines.h:25</div></div>
 <div class="ttc" id="aa09131_html_a1b5ecce0a217108fd9bf0d026c0da91c"><div class="ttname"><a href="../../d5/dd9/a09131.html#a1b5ecce0a217108fd9bf0d026c0da91c">MapGrid::_cells</a></div><div class="ttdeci">std::array&lt; std::array&lt; std::unique_ptr&lt; GridCellType &gt;, MAX_NUMBER_OF_CELLS &gt;, MAX_NUMBER_OF_CELLS &gt; _cells</div><div class="ttdef"><b>Definition:</b> MapGrid.h:147</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00147">MapGrid&lt; WORLD_OBJECT_TYPES, GRID_OBJECT_TYPES &gt;::_cells</a>, <a class="el" href="../../#l00068">ASSERT</a>, and <a class="el" href="../../#l00025">MAX_NUMBER_OF_CELLS</a>.</p>
@@ -446,7 +446,7 @@ template&lt;class WORLD_OBJECT_TYPES , class GRID_OBJECT_TYPES &gt; </div>
 </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  138</span>    {</div>
-<div class="line"><span class="lineno">  139</span>        <a class="code hl_define" href="../../d8/d19/a04259.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(x &lt; <a class="code hl_define" href="../../d4/d1c/a04208.html#a2c6994ea025f427f1485c1c7aaee01fe">MAX_NUMBER_OF_CELLS</a> &amp;&amp; y &lt; <a class="code hl_define" href="../../d4/d1c/a04208.html#a2c6994ea025f427f1485c1c7aaee01fe">MAX_NUMBER_OF_CELLS</a>);</div>
+<div class="line"><span class="lineno">  139</span>        <a class="code hl_define" href="../../d1/dd9/a04184.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(x &lt; <a class="code hl_define" href="../../d2/d27/a04301.html#a2c6994ea025f427f1485c1c7aaee01fe">MAX_NUMBER_OF_CELLS</a> &amp;&amp; y &lt; <a class="code hl_define" href="../../d2/d27/a04301.html#a2c6994ea025f427f1485c1c7aaee01fe">MAX_NUMBER_OF_CELLS</a>);</div>
 <div class="line"><span class="lineno">  140</span>        <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d5/dd9/a09131.html#a1b5ecce0a217108fd9bf0d026c0da91c">_cells</a>[x][y].get();</div>
 <div class="line"><span class="lineno">  141</span>    }</div>
 </div><!-- fragment -->
@@ -524,8 +524,8 @@ template&lt;class WORLD_OBJECT_TYPES , class GRID_OBJECT_TYPES &gt; </div>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   40</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d5/dd9/a09131.html#a521501abfc11a97c8d398b5c9b348367">_y</a> * <a class="code hl_define" href="../../d4/d1c/a04208.html#a857252154f120575d940ffbdf63bace6">MAX_NUMBER_OF_GRIDS</a> + <a class="code hl_variable" href="../../d5/dd9/a09131.html#aa27978c41d898b567085d788fd57b0fd">_x</a>; }</div>
-<div class="ttc" id="aa04208_html_a857252154f120575d940ffbdf63bace6"><div class="ttname"><a href="../../d4/d1c/a04208.html#a857252154f120575d940ffbdf63bace6">MAX_NUMBER_OF_GRIDS</a></div><div class="ttdeci">#define MAX_NUMBER_OF_GRIDS</div><div class="ttdef"><b>Definition:</b> MapDefines.h:24</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   40</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d5/dd9/a09131.html#a521501abfc11a97c8d398b5c9b348367">_y</a> * <a class="code hl_define" href="../../d2/d27/a04301.html#a857252154f120575d940ffbdf63bace6">MAX_NUMBER_OF_GRIDS</a> + <a class="code hl_variable" href="../../d5/dd9/a09131.html#aa27978c41d898b567085d788fd57b0fd">_x</a>; }</div>
+<div class="ttc" id="aa04301_html_a857252154f120575d940ffbdf63bace6"><div class="ttname"><a href="../../d2/d27/a04301.html#a857252154f120575d940ffbdf63bace6">MAX_NUMBER_OF_GRIDS</a></div><div class="ttdeci">#define MAX_NUMBER_OF_GRIDS</div><div class="ttdef"><b>Definition:</b> MapDefines.h:24</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00143">MapGrid&lt; WORLD_OBJECT_TYPES, GRID_OBJECT_TYPES &gt;::_x</a>, <a class="el" href="../../#l00144">MapGrid&lt; WORLD_OBJECT_TYPES, GRID_OBJECT_TYPES &gt;::_y</a>, and <a class="el" href="../../#l00024">MAX_NUMBER_OF_GRIDS</a>.</p>
 
@@ -1063,7 +1063,7 @@ template&lt;class WORLD_OBJECT_TYPES , class GRID_OBJECT_TYPES &gt; </div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">std::array&lt;std::array&lt;std::unique_ptr&lt;<a class="el" href="../../d5/dd9/a09131.html#aa4825c7b620815619c5cdefc36caeae6">GridCellType</a>&gt;, <a class="el" href="../../d4/d1c/a04208.html#a2c6994ea025f427f1485c1c7aaee01fe">MAX_NUMBER_OF_CELLS</a>&gt;, <a class="el" href="../../d4/d1c/a04208.html#a2c6994ea025f427f1485c1c7aaee01fe">MAX_NUMBER_OF_CELLS</a>&gt; <a class="el" href="../../d5/dd9/a09131.html">MapGrid</a>&lt; WORLD_OBJECT_TYPES, GRID_OBJECT_TYPES &gt;::_cells</td>
+          <td class="memname">std::array&lt;std::array&lt;std::unique_ptr&lt;<a class="el" href="../../d5/dd9/a09131.html#aa4825c7b620815619c5cdefc36caeae6">GridCellType</a>&gt;, <a class="el" href="../../d2/d27/a04301.html#a2c6994ea025f427f1485c1c7aaee01fe">MAX_NUMBER_OF_CELLS</a>&gt;, <a class="el" href="../../d2/d27/a04301.html#a2c6994ea025f427f1485c1c7aaee01fe">MAX_NUMBER_OF_CELLS</a>&gt; <a class="el" href="../../d5/dd9/a09131.html">MapGrid</a>&lt; WORLD_OBJECT_TYPES, GRID_OBJECT_TYPES &gt;::_cells</td>
         </tr>
       </table>
   </td>
@@ -1213,7 +1213,7 @@ template&lt;class WORLD_OBJECT_TYPES , class GRID_OBJECT_TYPES &gt; </div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d5/dd9/a09131.html">MapGrid</a></li>
-    <li class="footer">Generated on Mon May 26 2025 20:45:15 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Jun 2 2025 20:47:06 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

@@ -1,25 +1,20 @@
 var a00047 =
 [
-    [ "achievement_resilient_victory", "d5/d60/a26911.html", "d5/d60/a26911" ],
-    [ "achievement_bg_control_all_nodes", "d6/d71/a26915.html", "d6/d71/a26915" ],
-    [ "achievement_save_the_day", "d9/dbe/a26919.html", "d9/dbe/a26919" ],
-    [ "achievement_bg_ic_resource_glut", "d7/d8c/a26923.html", "d7/d8c/a26923" ],
-    [ "achievement_bg_ic_glaive_grave", "d6/d1f/a26927.html", "d6/d1f/a26927" ],
-    [ "achievement_bg_ic_mowed_down", "db/d36/a26931.html", "db/d36/a26931" ],
-    [ "achievement_bg_sa_artillery", "d9/dc7/a26935.html", "d9/dc7/a26935" ],
-    [ "achievement_arena_by_type", "dd/dcd/a26939.html", "dd/dcd/a26939" ],
-    [ "achievement_sickly_gazelle", "d2/d6c/a26943.html", "d2/d6c/a26943" ],
-    [ "achievement_everything_counts", "d2/d99/a26947.html", "d2/d99/a26947" ],
-    [ "achievement_bg_av_perfection", "d3/dec/a26951.html", "d3/dec/a26951" ],
-    [ "achievement_sa_defense_of_the_ancients", "d8/d8f/a26955.html", "d8/d8f/a26955" ],
-    [ "achievement_tilted", "d0/d9e/a26959.html", "d0/d9e/a26959" ],
-    [ "achievement_not_even_a_scratch", "d2/dd3/a26963.html", "d2/dd3/a26963" ],
-    [ "achievement_killed_exp_or_honor_target", "d9/d6e/a26967.html", "d9/d6e/a26967" ],
-    [ "achievement_flirt_with_disaster_perf_check", "d5/df0/a26971.html", "d5/df0/a26971" ],
-    [ "FlirtWithDisaster", "d6/d2d/a00047.html#a59d6aac4e950d8e6a0265a26e1898c13", [
-      [ "AURA_PERFUME_FOREVER", "d6/d2d/a00047.html#a59d6aac4e950d8e6a0265a26e1898c13a51aa967912af69dc7510017e558bbb85", null ],
-      [ "AURA_PERFUME_ENCHANTRESS", "d6/d2d/a00047.html#a59d6aac4e950d8e6a0265a26e1898c13a6f98457c5232039183c4be4588a067c6", null ],
-      [ "AURA_PERFUME_VICTORY", "d6/d2d/a00047.html#a59d6aac4e950d8e6a0265a26e1898c13afb194a6e19cf65f763d7975e5d842c9c", null ]
-    ] ],
-    [ "AddSC_achievement_scripts", "d6/d2d/a00047.html#a5091d6f933800f3313078304ad5c38ca", null ]
+    [ "lfg::LfgQueueData", "df/dbb/a07943.html", "df/dbb/a07943" ],
+    [ "lfg::LfgWaitTime", "db/d5b/a07947.html", "db/d5b/a07947" ],
+    [ "lfg::LFGQueue", "da/d68/a07951.html", "da/d68/a07951" ],
+    [ "LfgCompatibleContainer", "d6/d2d/a00047.html#a96438cca4cead6c1fc5d31ef643129e9", null ],
+    [ "LfgQueueDataContainer", "d6/d2d/a00047.html#aa2afec59ce753c11c3d8fddf4fb33991", null ],
+    [ "LfgWaitTimesContainer", "d6/d2d/a00047.html#a58714a43cbdc03f4008681528fb20447", null ],
+    [ "LfgCompatibility", "d6/d2d/a00047.html#a33c5b3513de4cd3c5a525f31008618b6", [
+      [ "LFG_COMPATIBILITY_PENDING", "d6/d2d/a00047.html#a33c5b3513de4cd3c5a525f31008618b6a9bd6f6c66c07537c541c6cf47da9311a", null ],
+      [ "LFG_INCOMPATIBLES_WRONG_GROUP_SIZE", "d6/d2d/a00047.html#a33c5b3513de4cd3c5a525f31008618b6ab6f6918e09882dce7eb53394dc960123", null ],
+      [ "LFG_INCOMPATIBLES_TOO_MUCH_PLAYERS", "d6/d2d/a00047.html#a33c5b3513de4cd3c5a525f31008618b6aab66f0e7b36ded30473ed953e96346a1", null ],
+      [ "LFG_INCOMPATIBLES_MULTIPLE_LFG_GROUPS", "d6/d2d/a00047.html#a33c5b3513de4cd3c5a525f31008618b6a5c52733040385425e0b4fafbbe962c57", null ],
+      [ "LFG_INCOMPATIBLES_HAS_IGNORES", "d6/d2d/a00047.html#a33c5b3513de4cd3c5a525f31008618b6a232b96c8bc336a74ef0d50fe5092b21b", null ],
+      [ "LFG_INCOMPATIBLES_NO_ROLES", "d6/d2d/a00047.html#a33c5b3513de4cd3c5a525f31008618b6ad009d10da76a97578ce600e26e253a63", null ],
+      [ "LFG_INCOMPATIBLES_NO_DUNGEONS", "d6/d2d/a00047.html#a33c5b3513de4cd3c5a525f31008618b6a6db8294000b56babf9050ec1fa80bd33", null ],
+      [ "LFG_COMPATIBLES_WITH_LESS_PLAYERS", "d6/d2d/a00047.html#a33c5b3513de4cd3c5a525f31008618b6a226ddd4cf32244952984c339a149c93e", null ],
+      [ "LFG_COMPATIBLES_MATCH", "d6/d2d/a00047.html#a33c5b3513de4cd3c5a525f31008618b6a9dc8d1185a27e48d0f6953fccaa49ba0", null ]
+    ] ]
 ];

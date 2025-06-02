@@ -1,6 +1,6 @@
 var a25415 =
 [
-    [ "HandleItemRemove", "d8/ddf/a25415.html#a28f8f8e6823bad14900d08ba10cab7e6", null ],
-    [ "PrepareSpellScript", "d8/ddf/a25415.html#a8b43e146724a2c8b3c495e886a79d021", null ],
-    [ "Register", "d8/ddf/a25415.html#af8b02c31b81dce516ea47d6a1235d683", null ]
+    [ "CheckProc", "d8/ddf/a25415.html#a393946dd3404c4b03a9a8ced7913ccaa", null ],
+    [ "PrepareAuraScript", "d8/ddf/a25415.html#ae28075d0d66c99fb77a2c7fef678f4e2", null ],
+    [ "Register", "d8/ddf/a25415.html#a3e0279f7dc724b4d49bfda4f0e417353", null ]
 ];

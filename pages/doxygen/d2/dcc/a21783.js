@@ -1,6 +1,6 @@
 var a21783 =
 [
-    [ "npc_spiritual_insightAI", "d2/dcc/a21783.html#ab173cd8b623fcf8c36406155c91bc4db", null ],
-    [ "GetSpeachId", "d2/dcc/a21783.html#ad2dd22651470f47e7a7ba6f687ba54e9", null ],
-    [ "IsSummonedBy", "d2/dcc/a21783.html#ab6b39190d1195915ea0b4b191d864da6", null ]
+    [ "npc_q24545_vegardAI", "dd/d5e/a21787.html", "dd/d5e/a21787" ],
+    [ "npc_q24545_vegard", "d2/dcc/a21783.html#ac12e2f143fab6b93950eaea06f5f7d85", null ],
+    [ "GetAI", "d2/dcc/a21783.html#a9a7accfb3eea9f08efbb82fbd4bd7e76", null ]
 ];

@@ -1,6 +1,6 @@
 var a21679 =
 [
-    [ "npc_mindless_ghoulAI", "db/d61/a21679.html#a4cc0dbd4aa2366115348bc1db273a5e2", null ],
-    [ "CanAIAttack", "db/d61/a21679.html#a18fbc44ad760a69d952d003622ec75b2", null ],
-    [ "JustDied", "db/d61/a21679.html#a272067bef6dbab24024f7de990c10b64", null ]
+    [ "npc_future_youAI", "d2/d69/a21683.html", "d2/d69/a21683" ],
+    [ "npc_future_you", "db/d61/a21679.html#a36e363156bcb32fee468989062817bd5", null ],
+    [ "GetAI", "db/d61/a21679.html#a2e1529fef3ce307d98057dc93ce5e5fe", null ]
 ];

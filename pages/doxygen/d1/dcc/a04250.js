@@ -1,5 +1,4 @@
 var a04250 =
 [
-    [ "BIHWrap< T, BoundsFunc >", "d3/d3a/a04891.html", "d3/d3a/a04891" ],
-    [ "BIHWrap< T, BoundsFunc >::MDLCallback< RayCallback >", "d7/d46/a04895.html", "d7/d46/a04895" ]
+    [ "LogMessage", "d5/d15/a05335.html", "d5/d15/a05335" ]
 ];

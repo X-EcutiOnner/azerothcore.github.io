@@ -1,8 +1,6 @@
 var a18271 =
 [
-    [ "Load", "d8/d8c/a18271.html#aabd997d6db5fd38b1fdd97d90b1347e9", null ],
-    [ "OnRemove", "d8/d8c/a18271.html#a43b23e5c53cca872a26737d790f2893d", null ],
-    [ "PrepareAuraScript", "d8/d8c/a18271.html#ae51bcb37894240c6fd064cd329698a55", null ],
-    [ "Register", "d8/d8c/a18271.html#ad6247c7f8abf41cd6190d5252ed6834e", null ],
-    [ "Validate", "d8/d8c/a18271.html#a45696018a8810cf1f11fbddcd853d1f4", null ]
+    [ "ModDestHeight", "d8/d8c/a18271.html#aafab48e58a2eb18c286f71fa907e9bc8", null ],
+    [ "PrepareSpellScript", "d8/d8c/a18271.html#a3c84b7044f448a5596e18f72e7b2f11a", null ],
+    [ "Register", "d8/d8c/a18271.html#ad3900c969dfb05a61ebc750eb3425bc0", null ]
 ];

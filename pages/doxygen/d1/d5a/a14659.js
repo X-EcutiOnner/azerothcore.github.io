@@ -1,13 +1,6 @@
 var a14659 =
 [
-    [ "boss_salrammAI", "d1/d5a/a14659.html#ae1055878b3919e29d44ee26efcbe044f", null ],
-    [ "ExplodeGhoul", "d1/d5a/a14659.html#adc64d8b10b28b98254c528732fff0516", null ],
-    [ "JustDied", "d1/d5a/a14659.html#a59bc42afcbb0ed2c2629bd0280836194", null ],
-    [ "JustEngagedWith", "d1/d5a/a14659.html#a8d3287cc74cc9d756a879c4ac796f860", null ],
-    [ "JustSummoned", "d1/d5a/a14659.html#afd70403a8644f310f37335c6c9bf5b55", null ],
-    [ "KilledUnit", "d1/d5a/a14659.html#ad3f4161c0e18c911a931d65e25693cdd", null ],
-    [ "Reset", "d1/d5a/a14659.html#a9ddecc950cac3fc392078df2810ec2a2", null ],
-    [ "UpdateAI", "d1/d5a/a14659.html#aa2350dc05884593b1361f9f09b8d9392", null ],
-    [ "events", "d1/d5a/a14659.html#a55c0bba93a90b5a3770c81b9c4d2fe5b", null ],
-    [ "summons", "d1/d5a/a14659.html#a813c09e121730d4ae2e623ac3c37d570", null ]
+    [ "boss_meathookAI", "de/dd0/a14663.html", "de/dd0/a14663" ],
+    [ "boss_meathook", "d1/d5a/a14659.html#a044c8ec4a419e5c5a8b290df9c0ad169", null ],
+    [ "GetAI", "d1/d5a/a14659.html#ae8ee3631ff1f80f4fad99e4eca042ad8", null ]
 ];

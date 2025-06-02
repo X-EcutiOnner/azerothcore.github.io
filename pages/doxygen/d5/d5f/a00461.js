@@ -1,7 +1,10 @@
 var a00461 =
 [
-    [ "Movement::FallInitializer", "de/d3f/a10011.html", "de/d3f/a10011" ],
-    [ "Movement::CommonInitializer", "d4/db5/a10015.html", "d4/db5/a10015" ],
-    [ "CHECK", "d5/d5f/a00461.html#a4005b3acaa5011bfc2cc027562c04dfb", null ],
-    [ "computeDuration", "d5/d5f/a00461.html#a0f9e26b66bd86bb9701c366e4f9529c3", null ]
+    [ "QEmote", "d9/d7e/a09555.html", "d9/d7e/a09555" ],
+    [ "GossipTextOption", "dd/d27/a09559.html", "dd/d27/a09559" ],
+    [ "GossipText", "d1/d88/a09563.html", "d1/d88/a09563" ],
+    [ "PageTextLocale", "dd/dfb/a09567.html", "dd/dfb/a09567" ],
+    [ "NpcTextLocale", "d0/dad/a09571.html", "d0/dad/a09571" ],
+    [ "MAX_GOSSIP_TEXT_EMOTES", "d5/d5f/a00461.html#a705783094711e028814c1c59a16c2c4f", null ],
+    [ "MAX_GOSSIP_TEXT_OPTIONS", "d5/d5f/a00461.html#a114c9636000e930cd1dc1ef7e444814f", null ]
 ];

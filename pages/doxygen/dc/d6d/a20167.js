@@ -1,10 +1,14 @@
 var a20167 =
 [
-    [ "HandleEffectPeriodic", "dc/d6d/a20167.html#aa62be73e00d9cb512806787eaf1c4144", null ],
-    [ "Load", "dc/d6d/a20167.html#ab31989a4abd6b5cb08818b0e082c7d9f", null ],
-    [ "PrepareAuraScript", "dc/d6d/a20167.html#ad9664bff267b330565d3c706e1752e9d", null ],
-    [ "Register", "dc/d6d/a20167.html#ad971837f4f0da07b21271fb2b5ac1715", null ],
-    [ "Validate", "dc/d6d/a20167.html#a3f6653b4ca202d9b0971189930e8b463", null ],
-    [ "_counter", "dc/d6d/a20167.html#a3e7343f124b66a55d9a6cbf0ab085309", null ],
-    [ "_prev", "dc/d6d/a20167.html#a9dd8f32c8ec709a14be15b46745b692b", null ]
+    [ "npc_ulduar_hodir_mageAI", "dc/d6d/a20167.html#a118059c877151a9f6b2b15a4070e2704", null ],
+    [ "AttackStart", "dc/d6d/a20167.html#a3217617eb3312c1da34dc7dce590fe0d", null ],
+    [ "CanAIAttack", "dc/d6d/a20167.html#a66ea56e856fcc706e4f938512def1590", null ],
+    [ "EnterEvadeMode", "dc/d6d/a20167.html#a6d4cd626dcd58f825a6c88b804bb38a7", null ],
+    [ "JustDied", "dc/d6d/a20167.html#a0176f8b45c20af1552e1a8b70e307442", null ],
+    [ "MoveInLineOfSight", "dc/d6d/a20167.html#aaf35c04462b1698e85df64190f4e2c8a", null ],
+    [ "ScheduleAbilities", "dc/d6d/a20167.html#a7927f399ef1c89b3eb83804fde9b2700", null ],
+    [ "SpellHit", "dc/d6d/a20167.html#aa814a46a45ce5eb9696c8f6c6de8c521", null ],
+    [ "UpdateAI", "dc/d6d/a20167.html#acbbe6667360e5bb7576c1ea741c2e2f1", null ],
+    [ "events", "dc/d6d/a20167.html#a556453c557df0be6a57255e400d98a87", null ],
+    [ "pInstance", "dc/d6d/a20167.html#ac4677898f5612c01d98ab242c7628e8f", null ]
 ];

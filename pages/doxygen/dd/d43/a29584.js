@@ -1,6 +1,7 @@
 var a29584 =
 [
-    [ "npc_pet_trainerAI", "d8/d1f/a29588.html", "d8/d1f/a29588" ],
-    [ "npc_pet_trainer", "dd/d43/a29584.html#ac2279bce52e911b1c339da5e68aa2501", null ],
-    [ "GetAI", "dd/d43/a29584.html#a4ecf9ac0abf43a00dc6bff2d2283eb37", null ]
+    [ "MPQArchive", "d6/d93/a28599.html", "d6/d93/a28599" ],
+    [ "MPQFile", "d8/d13/a28603.html", "d8/d13/a28603" ],
+    [ "ArchiveSet", "dd/d43/a29584.html#a8d76af4bfff910da40b4f93a1c465744", null ],
+    [ "flipcc", "dd/d43/a29584.html#aff3add09c98fece7ace91b0e7c90435e", null ]
 ];

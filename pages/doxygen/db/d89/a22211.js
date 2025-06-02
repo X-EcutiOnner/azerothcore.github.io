@@ -1,7 +1,6 @@
 var a22211 =
 [
-    [ "HandleDummy", "db/d89/a22211.html#a68c638c6e056cbadb101ddd025909f54", null ],
-    [ "PrepareSpellScript", "db/d89/a22211.html#a5a857bace5232d259145a0a095f70eec", null ],
-    [ "Register", "db/d89/a22211.html#af9c657e1fac6ee630af0bea337fbff62", null ],
-    [ "Validate", "db/d89/a22211.html#a21e9eaf2eea4b46986b8e8b911bd0508", null ]
+    [ "npc_wild_wyrmAI", "d6/d0e/a22215.html", "d6/d0e/a22215" ],
+    [ "npc_wild_wyrm", "db/d89/a22211.html#abce8c3a368e75b4be5e05381f9eb722b", null ],
+    [ "GetAI", "db/d89/a22211.html#aedba91446fe12997047070f123d925d2", null ]
 ];

@@ -1,5 +1,4 @@
 var a22483 =
 [
-    [ "OutdoorPvP_silithus", "d9/de2/a22483.html#a8b53dd86c265d277ad1cb49bd6a795bc", null ],
-    [ "GetOutdoorPvP", "d9/de2/a22483.html#a126d6acc77218addd10072199ccd2470", null ]
+    [ "idPatrol", "d9/de2/a22483.html#a1fbc40a9798b89ae8b903b1f5a6a8e67", null ]
 ];

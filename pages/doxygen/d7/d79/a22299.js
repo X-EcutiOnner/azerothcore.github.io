@@ -1,6 +1,7 @@
 var a22299 =
 [
-    [ "go_wg_vehicle_teleporterAI", "d3/de0/a22303.html", "d3/de0/a22303" ],
-    [ "go_wg_vehicle_teleporter", "d7/d79/a22299.html#a074ead770a3da6e9ffa4180a3525f4c8", null ],
-    [ "GetAI", "d7/d79/a22299.html#a113aaf42c095000c1a016bfe60df11e7", null ]
+    [ "npc_wg_quest_giver", "d7/d79/a22299.html#a68589ab4ce9f43247154f3c66d8107b8", null ],
+    [ "GetDialogStatus", "d7/d79/a22299.html#acd5c1462fe51a350c80af4f3ab46bac8", null ],
+    [ "OnGossipHello", "d7/d79/a22299.html#ad08debc749cbaea6fad9b7bcfb5548e0", null ],
+    [ "OnGossipSelect", "d7/d79/a22299.html#a9d42e558d68eee9f0f96ac1f8cd1a409", null ]
 ];

@@ -1,10 +1,10 @@
 var a01526 =
 [
-    [ "EnchStoreItem", "d5/d2a/a08299.html", "d5/d2a/a08299" ],
-    [ "EnchantmentStore", "da/d0a/a01526.html#ab462bc366dd954f1c0b539c408b74c01", null ],
-    [ "EnchStoreList", "da/d0a/a01526.html#ab5e9dd6a265a402e7a9499fdaae1e850", null ],
-    [ "GenerateEnchSuffixFactor", "da/d0a/a01526.html#a25026e783b088b45eebd4db8295b1b87", null ],
-    [ "GetItemEnchantMod", "da/d0a/a01526.html#a76d03c9ceb2d3ac35582eaea4624544f", null ],
-    [ "LoadRandomEnchantmentsTable", "da/d0a/a01526.html#a376fabf7bba54eaf928217f860f1c33b", null ],
-    [ "RandomItemEnch", "da/d0a/a01526.html#a6aeb6f30f019ca8d9839fcf41beb1ac7", null ]
+    [ "GetGameTime", "da/d0a/a01526.html#adbe1785d1327dedf2ac403b7cc8e99c2", null ],
+    [ "GetGameTimeMS", "da/d0a/a01526.html#a6d0d49f37e25e497391157b2a2ec90c1", null ],
+    [ "GetStartTime", "da/d0a/a01526.html#a872d34d3f9d420cfc749073c809931f9", null ],
+    [ "GetSystemTime", "da/d0a/a01526.html#a443eccf314fe436192278d425d6d8220", null ],
+    [ "GetUptime", "da/d0a/a01526.html#ae2ff9233756dd88fa1aafcc1e1c0be4d", null ],
+    [ "Now", "da/d0a/a01526.html#ae5cc9f17fc6b8b15c678fa7a84a6e117", null ],
+    [ "UpdateGameTimers", "da/d0a/a01526.html#a45712735241c9563a12fc3da54fb144d", null ]
 ];

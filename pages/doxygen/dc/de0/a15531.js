@@ -1,9 +1,6 @@
 var a15531 =
 [
-    [ "npc_custodian_of_timeAI", "dc/de0/a15531.html#a2434afcda3bc5681a124bdb1a2c8d56f", null ],
-    [ "JustEngagedWith", "dc/de0/a15531.html#a3b12c06566b0c1d567b6edd8b57b8332", null ],
-    [ "MoveInLineOfSight", "dc/de0/a15531.html#a97b21c4ecc89e4ddd5aef4dab30a7ecf", null ],
-    [ "Reset", "dc/de0/a15531.html#a56bcc694ac286488ed4b3f2328c30573", null ],
-    [ "UpdateAI", "dc/de0/a15531.html#a4b43c5f6eaf70fc93dcb18c183e456dc", null ],
-    [ "WaypointReached", "dc/de0/a15531.html#a963736e62fbd0caea631ee3fb69fca46", null ]
+    [ "npc_aquementasAI", "dc/d2d/a15535.html", "dc/d2d/a15535" ],
+    [ "npc_aquementas", "dc/de0/a15531.html#a81d0b010c2aef0ea329ff7656b76cbe5", null ],
+    [ "GetAI", "dc/de0/a15531.html#a8a071b3073d69306feb84aca347a22c8", null ]
 ];

@@ -1,5 +1,6 @@
 var a18351 =
 [
-    [ "achievement_neck_deep_in_vile", "d8/d2a/a18351.html#af0e54c236e7637d8c1a8cf7dbed5a195", null ],
-    [ "OnCheck", "d8/d2a/a18351.html#a9861c008f302279a4ac5f4ddc14ca2d0", null ]
+    [ "npc_lk_wicked_spiritAI", "d3/d33/a18355.html", "d3/d33/a18355" ],
+    [ "npc_lk_wicked_spirit", "d8/d2a/a18351.html#adb5f0d5db260b3e5b4df3725c0b62827", null ],
+    [ "GetAI", "d8/d2a/a18351.html#ad75b36f2f7242dea685cd67dc72d0d30", null ]
 ];

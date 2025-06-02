@@ -1,6 +1,6 @@
 var a20759 =
 [
-    [ "boss_yoggsaron_death_orbAI", "d1/da1/a20759.html#a6e87b98e89748585a9f28c6f0e3a85e9", null ],
-    [ "UpdateAI", "d1/da1/a20759.html#afde5311434966ff0459dca8ce0d6b8b0", null ],
-    [ "_startTimer", "d1/da1/a20759.html#aebc8edef5f84219e1c50f2394d129443", null ]
+    [ "boss_yoggsaron_brainAI", "db/dab/a20763.html", "db/dab/a20763" ],
+    [ "boss_yoggsaron_brain", "d1/da1/a20759.html#a8094e2a062f06c5a954c1d3401ca18d4", null ],
+    [ "GetAI", "d1/da1/a20759.html#a02e6b07087765d75d0f49b864e2f323f", null ]
 ];

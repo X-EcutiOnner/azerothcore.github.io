@@ -1,7 +1,7 @@
 var a24735 =
 [
-    [ "FilterTargets", "de/d43/a24735.html#a9abf4baaba572636dba3980e5ae777c5", null ],
-    [ "Load", "de/d43/a24735.html#a812e4e461c0ebed6f7c4cc36e88a3367", null ],
-    [ "PrepareSpellScript", "de/d43/a24735.html#a4e98fbf669c030263ed2e5759a5bd6e8", null ],
-    [ "Register", "de/d43/a24735.html#a2d72f5771d6563260a6e81122e4a2be5", null ]
+    [ "CalculateAmount", "de/d43/a24735.html#ab705e67f7abb72a13dfd32e7a6da4561", null ],
+    [ "Load", "de/d43/a24735.html#ac87f1c7ccb9aa9985d538c9d8611c850", null ],
+    [ "PrepareAuraScript", "de/d43/a24735.html#ae4a75ef8bc755c8220b768d5ac87a728", null ],
+    [ "Register", "de/d43/a24735.html#a636331452bc95a4434f1b85e85ea6e7b", null ]
 ];

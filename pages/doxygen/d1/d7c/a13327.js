@@ -1,7 +1,6 @@
 var a13327 =
 [
-    [ "FilterTargets", "d1/d7c/a13327.html#ae945b657d0fbee4d5ee5d6e7d15ef39b", null ],
-    [ "HandleHit", "d1/d7c/a13327.html#a7e28d5d89f1e622f308e1a1bf7d5dae9", null ],
-    [ "PrepareSpellScript", "d1/d7c/a13327.html#a905e1f979284a368463ad4829891b6ee", null ],
-    [ "Register", "d1/d7c/a13327.html#a6b0d2fc316bef6af20199b15795b00b4", null ]
+    [ "HandlePeriodic", "d1/d7c/a13327.html#ae090fc1fc8eab18cf6f744d9385fb713", null ],
+    [ "PrepareAuraScript", "d1/d7c/a13327.html#a2722b97e12e9371745d7f38504d9efdf", null ],
+    [ "Register", "d1/d7c/a13327.html#acb892b1e0281da08af07b2dd2a04ca03", null ]
 ];

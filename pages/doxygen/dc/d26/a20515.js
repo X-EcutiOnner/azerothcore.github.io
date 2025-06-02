@@ -1,5 +1,6 @@
 var a20515 =
 [
-    [ "achievement_iron_dwarf_medium_rare", "dc/d26/a20515.html#afb3716aab7693ba0493db24999e4b1ee", null ],
-    [ "OnCheck", "dc/d26/a20515.html#aabef3a345057265ac70c6cc0c98d552d", null ]
+    [ "npc_ulduar_dark_rune_sentinelAI", "d5/d9c/a20519.html", "d5/d9c/a20519" ],
+    [ "npc_ulduar_dark_rune_sentinel", "dc/d26/a20515.html#ac59aa042fd188eaf1eb6a04eb7d545a9", null ],
+    [ "GetAI", "dc/d26/a20515.html#a3884f50f894770ff94ad6977f62c45f3", null ]
 ];

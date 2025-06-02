@@ -1,6 +1,5 @@
 var a15815 =
 [
-    [ "boss_hadronoxAI", "d8/dac/a15819.html", "d8/dac/a15819" ],
-    [ "boss_hadronox", "d8/d1f/a15815.html#ae3457fd6108cc350cf9eedab3178f781", null ],
-    [ "GetAI", "d8/d1f/a15815.html#a90bf0ecb218e30e61852baffeabc3dc1", null ]
+    [ "PrepareAuraScript", "d8/d1f/a15815.html#a94b3a8e0a610afa69c3a9771f8f22b13", null ],
+    [ "Register", "d8/d1f/a15815.html#a1203cbec26f64aa97d10783b567c2d62", null ]
 ];

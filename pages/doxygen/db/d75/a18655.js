@@ -1,5 +1,6 @@
 var a18655 =
 [
-    [ "at_icc_start_blood_quickening", "db/d75/a18655.html#a544b0591b19a62e5c8a6efcfffd98326", null ],
-    [ "OnTrigger", "db/d75/a18655.html#a814670e127b1eace6068a553b23d00f7", null ]
+    [ "PrepareSpellScript", "db/d75/a18655.html#aac12da39c503615036120e3e0cd55622", null ],
+    [ "Register", "db/d75/a18655.html#a808d2283be9714c14f22a2df0a52dd61", null ],
+    [ "RelocateDest", "db/d75/a18655.html#a843c9dc403404ddd2de667e57e01f00c", null ]
 ];

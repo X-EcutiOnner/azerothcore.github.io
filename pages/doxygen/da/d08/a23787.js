@@ -1,7 +1,6 @@
 var a23787 =
 [
-    [ "Load", "da/d08/a23787.html#aba7e1a0b87607386649bb842b5058c3e", null ],
-    [ "OnRemove", "da/d08/a23787.html#ac2f7a4532f62fb49f54c60b79aceb2e8", null ],
-    [ "PrepareAuraScript", "da/d08/a23787.html#ac62b18eedbadb0b3581d772909175e96", null ],
-    [ "Register", "da/d08/a23787.html#a17e8be131f01b2434b18740b20a08d6e", null ]
+    [ "HandleScriptEffect", "da/d08/a23787.html#acfe80e22e6c78dba50155f7f20c0678b", null ],
+    [ "PrepareSpellScript", "da/d08/a23787.html#a17cb5f874343bd40c6aafaf9d627b047", null ],
+    [ "Register", "da/d08/a23787.html#a4bb5cfd2cc8503b3a840fc68624a33c1", null ]
 ];

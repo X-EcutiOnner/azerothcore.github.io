@@ -1,5 +1,5 @@
 var a23767 =
 [
-    [ "npc_thaladred", "d0/d4c/a23767.html#a2589c19d5cc48c0a5fd504aecddfaa90", null ],
-    [ "ScheduleEvents", "d0/d4c/a23767.html#a24febff1fc8b155bca0fb177a8119dbb", null ]
+    [ "npc_lord_sanguinar", "d0/d4c/a23767.html#aa5ec2023d72561fe9cf062a2ba5a5469", null ],
+    [ "ScheduleEvents", "d0/d4c/a23767.html#af9231da98547875527a519c5884cbec0", null ]
 ];

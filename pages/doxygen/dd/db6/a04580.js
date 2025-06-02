@@ -1,4 +1,4 @@
 var a04580 =
 [
-    [ "LogOperation", "dc/d54/a05339.html", "dc/d54/a05339" ]
+    [ "Acore::Crypto::TOTP", "dc/d66/a05171.html", "dc/d66/a05171" ]
 ];

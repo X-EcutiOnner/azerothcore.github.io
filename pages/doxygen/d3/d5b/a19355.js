@@ -1,8 +1,6 @@
 var a19355 =
 [
-    [ "npc_centrifuge_constructAI", "d3/d5b/a19355.html#a9219f4955ae82ca7f401ea1c63f66b09", null ],
-    [ "DamageTaken", "d3/d5b/a19355.html#aa568418de267a99108698e79baa1b3f4", null ],
-    [ "JustEngagedWith", "d3/d5b/a19355.html#ac6ecbb17624c2747253c68a50b93c40f", null ],
-    [ "Reset", "d3/d5b/a19355.html#a2f7750cea2f59d794c85e20b703370af", null ],
-    [ "UpdateAI", "d3/d5b/a19355.html#a28316416ad6c56d83c9e878511256445", null ]
+    [ "npc_oculus_drakeAI", "d9/d0b/a19359.html", "d9/d0b/a19359" ],
+    [ "npc_oculus_drake", "d3/d5b/a19355.html#ad2897dd72e9337af53ef2f043cd07d55", null ],
+    [ "GetAI", "d3/d5b/a19355.html#afd2f1678a7faef76a231e4c16bd015e5", null ]
 ];

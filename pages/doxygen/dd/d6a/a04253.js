@@ -1,12 +1,12 @@
 var a04253 =
 [
-    [ "CSymbolInfoPackage", "d7/d48/a05183.html", "d7/d48/a05183" ],
-    [ "_NO_CVCONST_H", "dd/d6a/a04253.html#af8660cbefcf140a8992e862e401bc473", null ],
-    [ "CrashFolder", "dd/d6a/a04253.html#a55b3d8676a4478f058eeb12d4e8b35b2", null ],
-    [ "EXCEPTION", "dd/d6a/a04253.html#a04a8ef8e5d1a39a04fed031f53ffa2db", null ],
-    [ "WIN32_LEAN_AND_MEAN", "dd/d6a/a04253.html#ac7bef5d85e3dcd73eef56ad39ffc84a9", null ],
-    [ "ErrorMessage", "dd/d6a/a04253.html#a75b4eb6a99991d301f7d44683ce13c9e", null ],
-    [ "ToTchar", "dd/d6a/a04253.html#a9f2ce59205c508258855d0568854e367", null ],
-    [ "ToTchar", "dd/d6a/a04253.html#a74d70382aec7501d6df3dcb969b85902", null ],
-    [ "g_WheatyExceptionReport", "dd/d6a/a04253.html#a9fff8ce906026fe3179e50e97182d90d", null ]
+    [ "MMAP::MMapFactory", "d9/d31/a04951.html", "d9/d31/a04951" ],
+    [ "MMAP_LOAD_RESULT", "dd/d6a/a04253.html#a329271d76c3ed7ad6d255d45094b4868", [
+      [ "MMAP_LOAD_RESULT_ERROR", "dd/d6a/a04253.html#a329271d76c3ed7ad6d255d45094b4868a66ec06574c26cbc0b14b939c3cb09f85", null ],
+      [ "MMAP_LOAD_RESULT_OK", "dd/d6a/a04253.html#a329271d76c3ed7ad6d255d45094b4868ad7493681e0258dd1099139230f17df10", null ],
+      [ "MMAP_LOAD_RESULT_IGNORED", "dd/d6a/a04253.html#a329271d76c3ed7ad6d255d45094b4868a87dfee65ac7d1c8acf69eea806a151c8", null ],
+      [ "MMAP_LOAD_RESULT_ERROR", "dd/d6a/a04253.html#a329271d76c3ed7ad6d255d45094b4868a66ec06574c26cbc0b14b939c3cb09f85", null ],
+      [ "MMAP_LOAD_RESULT_OK", "dd/d6a/a04253.html#a329271d76c3ed7ad6d255d45094b4868ad7493681e0258dd1099139230f17df10", null ],
+      [ "MMAP_LOAD_RESULT_IGNORED", "dd/d6a/a04253.html#a329271d76c3ed7ad6d255d45094b4868a87dfee65ac7d1c8acf69eea806a151c8", null ]
+    ] ]
 ];

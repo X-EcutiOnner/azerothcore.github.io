@@ -1,6 +1,6 @@
 var a14115 =
 [
-    [ "HandleEffectApply", "df/d36/a14115.html#a06d50e8c0f7bfd1b055d8a3f5c14d357", null ],
-    [ "PrepareAuraScript", "df/d36/a14115.html#a5f8abd33848c554f9a530ad23c86a7a0", null ],
-    [ "Register", "df/d36/a14115.html#a2b39daf6fe325cfa909b964da62c2571", null ]
+    [ "HandleEffectRemove", "df/d36/a14115.html#a8d5d43ae12fb6d65029008eadd56973a", null ],
+    [ "PrepareAuraScript", "df/d36/a14115.html#abe527a7a4fda32c833f4762e82e2bd3d", null ],
+    [ "Register", "df/d36/a14115.html#aa436788f638fedacb217ca508da5f426", null ]
 ];

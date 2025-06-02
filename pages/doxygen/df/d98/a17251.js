@@ -1,7 +1,7 @@
 var a17251 =
 [
-    [ "HandleScript", "df/d98/a17251.html#a4b1e392acea30a9259e65a75667704c5", null ],
-    [ "Load", "df/d98/a17251.html#a9af7bb4defb7c590aaff1a709dad4573", null ],
-    [ "PrepareSpellScript", "df/d98/a17251.html#a17301c4ef9623ec04ec3c15dfd4e316f", null ],
-    [ "Register", "df/d98/a17251.html#a77632d11a172e5552c0c49de830a1639", null ]
+    [ "HandleDummyTick", "df/d98/a17251.html#ac0aba414bc0f9f947b7bba9bd41f47b8", null ],
+    [ "PrepareAuraScript", "df/d98/a17251.html#a0e61ac6aa03aaad08d91883e587f1c40", null ],
+    [ "Register", "df/d98/a17251.html#a626900d1d0c8a471f4d100b2c2883a52", null ],
+    [ "Validate", "df/d98/a17251.html#aa6ea31d8757b42bdea42d30b758a9c6d", null ]
 ];

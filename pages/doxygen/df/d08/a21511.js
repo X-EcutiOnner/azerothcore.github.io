@@ -1,7 +1,7 @@
 var a21511 =
 [
-    [ "npc_valiance_keep_cannoneerAI", "df/d08/a21511.html#a0769e975c5c7ff1cfbfa6089e3e55e3f", null ],
-    [ "Reset", "df/d08/a21511.html#a65718076e65b68cae0a54ff4112fdb4b", null ],
-    [ "UpdateAI", "df/d08/a21511.html#a75f16f2b028ca341db6e08536be06bfa", null ],
-    [ "uiTimer", "df/d08/a21511.html#a0cf5f0413b1cded835252a38e272f835", null ]
+    [ "npc_bonker_togglevoltAI", "dd/d2e/a21515.html", "dd/d2e/a21515" ],
+    [ "npc_bonker_togglevolt", "df/d08/a21511.html#aa37a0ebc03b884b5a2a06d652d5dede3", null ],
+    [ "GetAI", "df/d08/a21511.html#a339c331e73497d2f7e1ee11e01ba4866", null ],
+    [ "OnQuestAccept", "df/d08/a21511.html#aaf1f65a1f6788a98705bc29fecc4c3fa", null ]
 ];

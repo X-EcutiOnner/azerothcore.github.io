@@ -1,6 +1,7 @@
 var a16951 =
 [
-    [ "instance_pit_of_saron_InstanceScript", "df/d80/a16955.html", "df/d80/a16955" ],
-    [ "instance_pit_of_saron", "d6/da9/a16951.html#a84526dbb5ac7eb6ff5ebe24ed339826b", null ],
-    [ "GetInstanceScript", "d6/da9/a16951.html#a2a1bc125bfe653a1da8b8c36b86aae67", null ]
+    [ "HandlePeriodicTick", "d6/da9/a16951.html#a61417176afec531ca2bf6e80eb72ac6a", null ],
+    [ "PrepareAuraScript", "d6/da9/a16951.html#ad5f954d5050bded2e6a5877cb9f81df5", null ],
+    [ "Register", "d6/da9/a16951.html#a4653ccb0d93d056adf3b14056865787c", null ],
+    [ "Validate", "d6/da9/a16951.html#a675b447cf1cf0e7d92c777ae31888a8c", null ]
 ];

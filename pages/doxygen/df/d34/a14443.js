@@ -1,7 +1,9 @@
 var a14443 =
 [
-    [ "GetVisualThrow", "df/d34/a14443.html#afe59e0c21eaa06e2b1d614613b1d2f73", null ],
-    [ "HandleDummy", "df/d34/a14443.html#adca1aacf89dcf452f1c98cae97f09690", null ],
-    [ "PrepareSpellScript", "df/d34/a14443.html#a642f2d3992e7e3a4393d2b0c6b521597", null ],
-    [ "Register", "df/d34/a14443.html#a68a6e9b307500a56e66bc19c41daf9dc", null ]
+    [ "HandlePeriodic", "df/d34/a14443.html#ae5f611f0643cdfc3d403cee89667b0f6", null ],
+    [ "Load", "df/d34/a14443.html#aa90cfb5fdb96e8670fa35dd3c16350c0", null ],
+    [ "PrepareAuraScript", "df/d34/a14443.html#afeb65196cbafc813bb02eb3907e59fc2", null ],
+    [ "Register", "df/d34/a14443.html#ac331de3219ae7da9e35e962011540bdf", null ],
+    [ "Validate", "df/d34/a14443.html#a7de36e3ee777b02ab6fc4671e4e9f5ab", null ],
+    [ "_buffGiven", "df/d34/a14443.html#aec2476ad5e046213b90af04ad91f0230", null ]
 ];

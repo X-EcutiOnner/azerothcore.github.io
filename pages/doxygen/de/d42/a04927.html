@@ -581,7 +581,7 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  234</span>    <span class="keywordtype">bool</span> result = <span class="keyword">false</span>;</div>
 <div class="line"><span class="lineno">  235</span>    <span class="keywordtype">float</span> maxDist = (endPos - startPos).magnitude();</div>
 <div class="line"><span class="lineno">  236</span>    <span class="comment">// valid map coords should *never ever* produce float overflow, but this would produce NaNs too</span></div>
-<div class="line"><span class="lineno">  237</span>    <a class="code hl_define" href="../../d8/d19/a04259.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(maxDist &lt; std::numeric_limits&lt;float&gt;::max());</div>
+<div class="line"><span class="lineno">  237</span>    <a class="code hl_define" href="../../d1/dd9/a04184.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(maxDist &lt; std::numeric_limits&lt;float&gt;::max());</div>
 <div class="line"><span class="lineno">  238</span>    <span class="comment">// prevent NaN values which can cause BIH intersection to enter infinite loop</span></div>
 <div class="line"><span class="lineno">  239</span>    <span class="keywordflow">if</span> (maxDist &lt; 1e-10f)</div>
 <div class="line"><span class="lineno">  240</span>    {</div>
@@ -619,7 +619,7 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  272</span>    }</div>
 <div class="line"><span class="lineno">  273</span>    <span class="keywordflow">return</span> result;</div>
 <div class="line"><span class="lineno">  274</span>}</div>
-<div class="ttc" id="aa04259_html_af343b20373ba49a92fce523e948f2ab3"><div class="ttname"><a href="../../d8/d19/a04259.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a></div><div class="ttdeci">#define ASSERT</div><div class="ttdef"><b>Definition:</b> Errors.h:68</div></div>
+<div class="ttc" id="aa04184_html_af343b20373ba49a92fce523e948f2ab3"><div class="ttname"><a href="../../d1/dd9/a04184.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a></div><div class="ttdeci">#define ASSERT</div><div class="ttdef"><b>Definition:</b> Errors.h:68</div></div>
 <div class="ttc" id="aa04927_html_a06e7f683147b9487dad5ca70f28e5aa6"><div class="ttname"><a href="../../de/d42/a04927.html#a06e7f683147b9487dad5ca70f28e5aa6">DynamicMapTree::GetIntersectionTime</a></div><div class="ttdeci">bool GetIntersectionTime(uint32 phasemask, const G3D::Ray &amp;ray, const G3D::Vector3 &amp;endPos, float &amp;maxDist) const</div><div class="ttdef"><b>Definition:</b> DynamicTree.cpp:218</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, and <a class="el" href="../../#l00218">GetIntersectionTime()</a>.</p>
@@ -844,7 +844,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../de/d42/a04927.html">DynamicMapTree</a></li>
-    <li class="footer">Generated on Mon May 26 2025 20:45:08 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Jun 2 2025 20:46:59 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

@@ -1,6 +1,6 @@
 var a21867 =
 [
-    [ "CheckRequirement", "d2/d68/a21867.html#ad58d71b5c2bc10d9ffbfe472bd5b1a32", null ],
-    [ "PrepareSpellScript", "d2/d68/a21867.html#ae621e95feb69b54f9aef5d77577a15ae", null ],
-    [ "Register", "d2/d68/a21867.html#ab0b03fd2d1a0ed6720acc45221a582f6", null ]
+    [ "npc_amberpine_woodsmanAI", "d3/d64/a21871.html", "d3/d64/a21871" ],
+    [ "npc_amberpine_woodsman", "d2/d68/a21867.html#a33bbec50a360b724bfe9cb8612cbb47d", null ],
+    [ "GetAI", "d2/d68/a21867.html#a9c1df6c01c163ca68712d72b14c46139", null ]
 ];

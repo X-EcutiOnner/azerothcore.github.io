@@ -1,7 +1,6 @@
 var a13559 =
 [
-    [ "npc_deathstalker_erlandAI", "d6/def/a13563.html", "d6/def/a13563" ],
-    [ "npc_deathstalker_erland", "d2/d12/a13559.html#ad49faf068e982f245f0d1e21f0700c40", null ],
-    [ "GetAI", "d2/d12/a13559.html#ab59235f212ddb985056cb8e32719b723", null ],
-    [ "OnQuestAccept", "d2/d12/a13559.html#a81b20bc8c7249a59d69ba63ab32a5f06", null ]
+    [ "npc_corporal_keeshanAI", "d6/def/a13563.html", "d6/def/a13563" ],
+    [ "npc_corporal_keeshan", "d2/d12/a13559.html#a0ca9459a7f283e040f14e0052762f587", null ],
+    [ "GetAI", "d2/d12/a13559.html#a2cc19f28dea9ea8597648339a160d1bc", null ]
 ];

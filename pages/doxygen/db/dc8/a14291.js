@@ -1,8 +1,7 @@
 var a14291 =
 [
-    [ "HandleDummy", "db/dc8/a14291.html#a47b5a6741f2782359449dcaebd40fe1c", null ],
-    [ "Load", "db/dc8/a14291.html#a7877187ad7afb2dfbd28fb7c74d40478", null ],
-    [ "PrepareSpellScript", "db/dc8/a14291.html#af1d1ad32d41d79008d650b388353346b", null ],
-    [ "Register", "db/dc8/a14291.html#a53a7c4c025324b205a29f92dd48aefde", null ],
-    [ "handled", "db/dc8/a14291.html#acf3a9296a36f131f852afbf60beb7ea4", null ]
+    [ "HandleEffectApply", "db/dc8/a14291.html#a22f3143b10155635194abe22994a397c", null ],
+    [ "HandleEffectRemove", "db/dc8/a14291.html#a2ecc50fa3c14918b6eace63eac75eb96", null ],
+    [ "PrepareAuraScript", "db/dc8/a14291.html#abb4f53a42e701323b2fc66598ec3503c", null ],
+    [ "Register", "db/dc8/a14291.html#ad1ff6d29459d9a38fcdef3f6c7007f6b", null ]
 ];

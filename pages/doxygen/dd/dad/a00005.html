@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/game/World/WorldState.h File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/test/server/game/Battlegrounds/ArenaSeason/ArenaSeasonRewardDistributorTest.cpp File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,583 +106,352 @@ $(document).ready(function(){initNavTree('dd/dad/a00005.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
-<a href="#define-members">Macros</a> &#124;
-<a href="#enum-members">Enumerations</a>  </div>
-  <div class="headertitle"><div class="title">WorldState.h File Reference</div></div>
+<a href="#func-members">Functions</a>  </div>
+  <div class="headertitle"><div class="title">ArenaSeasonRewardDistributorTest.cpp File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">AreaDefines.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Player.h</a>&quot;</code><br />
-<code>#include &lt;atomic&gt;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">Define.h</a>&quot;</code><br />
+<code>#include &quot;gmock/gmock.h&quot;</code><br />
+<code>#include &quot;gtest/gtest.h&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">ArenaSeasonRewardsDistributor.h</a>&quot;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d96/a11519.html">SunsReachReclamationData</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/db1/a28463.html">MockArenaSeasonTeamRewarder</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d61/a11523.html">WorldState</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d73/a28467.html">ArenaSeasonRewardDistributorTest</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="define-members" name="define-members"></a>
-Macros</h2></td></tr>
-<tr class="memitem:a3a4f495a024c9f1774c913dd8ac4929f"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dad/a00005.html#a3a4f495a024c9f1774c913dd8ac4929f">sWorldState</a>&#160;&#160;&#160;<a class="el" href="../../d7/d61/a11523.html#ab82b11875771d0efc209c452e4bc0ffd">WorldState::instance</a>()</td></tr>
-<tr class="separator:a3a4f495a024c9f1774c913dd8ac4929f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
-Enumerations</h2></td></tr>
-<tr class="memitem:afa57b7026eb6e127e388f149e349ccb6"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dad/a00005.html#afa57b7026eb6e127e388f149e349ccb6">WorldStateCondition</a> { <br />
-&#160;&#160;<a class="el" href="../../dd/dad/a00005.html#afa57b7026eb6e127e388f149e349ccb6af5369c5be7548a1e9ec08b006e73feeb">WORLD_STATE_CONDITION_TROLLBANES_COMMAND</a> = 39911
-, <br />
-&#160;&#160;<a class="el" href="../../dd/dad/a00005.html#afa57b7026eb6e127e388f149e349ccb6ab8441229f6aecd4dc9dd1e3f3f835f8e">WORLD_STATE_CONDITION_NAZGRELS_FAVOR</a> = 39913
-, <br />
-&#160;&#160;<a class="el" href="../../dd/dad/a00005.html#afa57b7026eb6e127e388f149e349ccb6a5d0ef449051867fa252bdaaecb6f7e1f">WORLD_STATE_CONDITION_THE_THUNDERCALLER</a> = 164871
-, <br />
-&#160;&#160;<a class="el" href="../../dd/dad/a00005.html#afa57b7026eb6e127e388f149e349ccb6a9665ded148821c41501866620a5ba50f">WORLD_STATE_CONDITION_THE_IRON_EAGLE</a> = 175080
-, <br />
-&#160;&#160;<a class="el" href="../../dd/dad/a00005.html#afa57b7026eb6e127e388f149e349ccb6af4db95d45b322084d64483ad02f862ff">WORLD_STATE_CONDITION_THE_PURPLE_PRINCESS</a> = 176495
-<br />
- }</td></tr>
-<tr class="separator:afa57b7026eb6e127e388f149e349ccb6"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4ecea2a2bb4e9623ef98bf8c32d546a4"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dad/a00005.html#a4ecea2a2bb4e9623ef98bf8c32d546a4">WorldStateConditionState</a> { <a class="el" href="../../dd/dad/a00005.html#a4ecea2a2bb4e9623ef98bf8c32d546a4a0ecc6b01d71dceaffaf31c7620bea0de">WORLD_STATE_CONDITION_STATE_NONE</a> = 0
- }</td></tr>
-<tr class="separator:a4ecea2a2bb4e9623ef98bf8c32d546a4"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:adc7b7b38a655f2354624ac5335163266"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dad/a00005.html#adc7b7b38a655f2354624ac5335163266">WorldStateEvent</a> { <br />
-&#160;&#160;<a class="el" href="../../dd/dad/a00005.html#adc7b7b38a655f2354624ac5335163266aa2c3350c135eec4653e10f9a416d4ae8">WORLD_STATE_CUSTOM_EVENT_ON_ADALS_SONG_OF_BATTLE</a> = 39953
-, <br />
-&#160;&#160;<a class="el" href="../../dd/dad/a00005.html#adc7b7b38a655f2354624ac5335163266ae87a6f363d942d1928ba2b052ab2f88e">WORLD_STATE_CUSTOM_EVENT_ON_MAGTHERIDON_HEAD_SPAWN</a> = 184640
-, <br />
-&#160;&#160;<a class="el" href="../../dd/dad/a00005.html#adc7b7b38a655f2354624ac5335163266a4c5ce93e17daa3d8df5b892b3d76af2b">WORLD_STATE_CUSTOM_EVENT_ON_MAGTHERIDON_HEAD_DESPAWN</a> = 184641
-<br />
- }</td></tr>
-<tr class="separator:adc7b7b38a655f2354624ac5335163266"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a882a758e503627632aa1d2a878086d91"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dad/a00005.html#a882a758e503627632aa1d2a878086d91">WorldStateSpells</a> { <br />
-&#160;&#160;<a class="el" href="../../dd/dad/a00005.html#a882a758e503627632aa1d2a878086d91aee000da68d862de5291b513ea52734f8">SPELL_ADAL_SONG_OF_BATTLE</a> = 39953
-, <br />
-&#160;&#160;<a class="el" href="../../dd/dad/a00005.html#a882a758e503627632aa1d2a878086d91a73c7be494acfdbd7532eaf802ab4598d">SPELL_TROLLBANES_COMMAND</a> = 39911
-, <br />
-&#160;&#160;<a class="el" href="../../dd/dad/a00005.html#a882a758e503627632aa1d2a878086d91a02b7508a9e44658cb4bf28d1bb487d60">SPELL_NAZGRELS_FAVOR</a> = 39913
-, <br />
-&#160;&#160;<a class="el" href="../../dd/dad/a00005.html#a882a758e503627632aa1d2a878086d91ace9722c8f1cdbfc30998ca2e9cfbc5a3">SPELL_KIRU_SONG_OF_VICTORY</a> = 46302
-<br />
- }</td></tr>
-<tr class="separator:a882a758e503627632aa1d2a878086d91"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:affad9750ec1568c3314d687af290f2ac"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dad/a00005.html#affad9750ec1568c3314d687af290f2ac">WorldStateSaveIds</a> { <a class="el" href="../../dd/dad/a00005.html#affad9750ec1568c3314d687af290f2acaef8c621060f45cd17565368474467453">SAVE_ID_QUEL_DANAS</a> = 20
- }</td></tr>
-<tr class="separator:affad9750ec1568c3314d687af290f2ac"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7f47feca28234245c0857650572c5780"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dad/a00005.html#a7f47feca28234245c0857650572c5780">WorldStateGameEvents</a> { <br />
-&#160;&#160;<a class="el" href="../../dd/dad/a00005.html#a7f47feca28234245c0857650572c5780ae5520992190d7cad4d3003679f654164">GAME_EVENT_QUEL_DANAS_PHASE_1</a> = 101
-, <br />
-&#160;&#160;<a class="el" href="../../dd/dad/a00005.html#a7f47feca28234245c0857650572c5780ac5cb6f79cbb24ebcb7f9c508826b8f32">GAME_EVENT_QUEL_DANAS_PHASE_2_ONLY</a> = 102
-, <br />
-&#160;&#160;<a class="el" href="../../dd/dad/a00005.html#a7f47feca28234245c0857650572c5780a865824023c30d8881ad0d473fc74d850">GAME_EVENT_QUEL_DANAS_PHASE_2_PERMANENT</a> = 103
-, <br />
-&#160;&#160;<a class="el" href="../../dd/dad/a00005.html#a7f47feca28234245c0857650572c5780a955ffa53767730c30e65fb0b1a19cd2e">GAME_EVENT_QUEL_DANAS_PHASE_2_NO_PORTAL</a> = 104
-, <br />
-&#160;&#160;<a class="el" href="../../dd/dad/a00005.html#a7f47feca28234245c0857650572c5780a098f13784dc87ba5eb03fdb180918bd3">GAME_EVENT_QUEL_DANAS_PHASE_2_PORTAL</a> = 105
-, <br />
-&#160;&#160;<a class="el" href="../../dd/dad/a00005.html#a7f47feca28234245c0857650572c5780a3bbe84b7ad256db4c8a69f40d1d9906f">GAME_EVENT_QUEL_DANAS_PHASE_3_ONLY</a> = 106
-, <br />
-&#160;&#160;<a class="el" href="../../dd/dad/a00005.html#a7f47feca28234245c0857650572c5780abc22f906ec988e522bb3fbd9d5f49b2b">GAME_EVENT_QUEL_DANAS_PHASE_3_PERMANENT</a> = 107
-, <br />
-&#160;&#160;<a class="el" href="../../dd/dad/a00005.html#a7f47feca28234245c0857650572c5780a982866fd1ea3dc7295b56478278dcc6d">GAME_EVENT_QUEL_DANAS_PHASE_3_NO_ANVIL</a> = 108
-, <br />
-&#160;&#160;<a class="el" href="../../dd/dad/a00005.html#a7f47feca28234245c0857650572c5780a858498a06e8dad4b35e61d229573239f">GAME_EVENT_QUEL_DANAS_PHASE_3_ANVIL</a> = 109
-, <br />
-&#160;&#160;<a class="el" href="../../dd/dad/a00005.html#a7f47feca28234245c0857650572c5780a98d4bd3e61e229b461dc177eece1e83a">GAME_EVENT_QUEL_DANAS_PHASE_4</a> = 110
-, <br />
-&#160;&#160;<a class="el" href="../../dd/dad/a00005.html#a7f47feca28234245c0857650572c5780a9974731c2acb170f5647424100e43c7a">GAME_EVENT_QUEL_DANAS_PHASE_4_NO_MONUMENT</a> = 111
-, <br />
-&#160;&#160;<a class="el" href="../../dd/dad/a00005.html#a7f47feca28234245c0857650572c5780a2fbc409aeb61c5d20ff2393062741bff">GAME_EVENT_QUEL_DANAS_PHASE_4_MONUMENT</a> = 112
-, <br />
-&#160;&#160;<a class="el" href="../../dd/dad/a00005.html#a7f47feca28234245c0857650572c5780a34ba50ef842ffe3bb0b34660b6da6c86">GAME_EVENT_QUEL_DANAS_PHASE_4_NO_ALCHEMY_LAB</a> = 113
-, <br />
-&#160;&#160;<a class="el" href="../../dd/dad/a00005.html#a7f47feca28234245c0857650572c5780afa50c0d5d0af7ac2567dca5d916f842c">GAME_EVENT_QUEL_DANAS_PHASE_4_ALCHEMY_LAB</a> = 114
-, <br />
-&#160;&#160;<a class="el" href="../../dd/dad/a00005.html#a7f47feca28234245c0857650572c5780a8272eb3e0a97f786160757d670d64b21">GAME_EVENT_QUEL_DANAS_PHASE_4_KIRU</a> = 115
-, <br />
-&#160;&#160;<a class="el" href="../../dd/dad/a00005.html#a7f47feca28234245c0857650572c5780ae77dd18a9c0bb1d3f2194ae6d402b423">GAME_EVENT_SWP_GATES_PHASE_0</a> = 116
-, <br />
-&#160;&#160;<a class="el" href="../../dd/dad/a00005.html#a7f47feca28234245c0857650572c5780a9dfc64311fa072d23db3fd0f2602ec9b">GAME_EVENT_SWP_GATES_PHASE_1</a> = 117
-, <br />
-&#160;&#160;<a class="el" href="../../dd/dad/a00005.html#a7f47feca28234245c0857650572c5780aef10a818749572edf44cfa356ecd4e2c">GAME_EVENT_SWP_GATES_PHASE_2</a> = 118
-, <br />
-&#160;&#160;<a class="el" href="../../dd/dad/a00005.html#a7f47feca28234245c0857650572c5780ac22176a2f30abaea84dd6dd7d01cd3e8">GAME_EVENT_SWP_GATES_PHASE_3</a> = 119
-<br />
- }</td></tr>
-<tr class="separator:a7f47feca28234245c0857650572c5780"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa3e8fbd653500f90fa1ebe182d4891d6"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dad/a00005.html#aa3e8fbd653500f90fa1ebe182d4891d6">SunsReachPhases</a> { <br />
-&#160;&#160;<a class="el" href="../../dd/dad/a00005.html#aa3e8fbd653500f90fa1ebe182d4891d6ab65a732a0c383bd3d043a34e29c558ed">SUNS_REACH_PHASE_1_STAGING_AREA</a>
-, <br />
-&#160;&#160;<a class="el" href="../../dd/dad/a00005.html#aa3e8fbd653500f90fa1ebe182d4891d6a83392af6406c346fcc27d7ac61925c60">SUNS_REACH_PHASE_2_SANCTUM</a>
-, <br />
-&#160;&#160;<a class="el" href="../../dd/dad/a00005.html#aa3e8fbd653500f90fa1ebe182d4891d6a0ea20d0c1efef719695c8d2a6959b4a2">SUNS_REACH_PHASE_3_ARMORY</a>
-, <br />
-&#160;&#160;<a class="el" href="../../dd/dad/a00005.html#aa3e8fbd653500f90fa1ebe182d4891d6ad46034efa280e589b555f346debbb938">SUNS_REACH_PHASE_4_HARBOR</a>
-<br />
- }</td></tr>
-<tr class="separator:aa3e8fbd653500f90fa1ebe182d4891d6"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1a971b6e72e7e5cd29d560dfaa9fdfe8"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dad/a00005.html#a1a971b6e72e7e5cd29d560dfaa9fdfe8">SunsReachSubPhases</a> { <br />
-&#160;&#160;<a class="el" href="../../dd/dad/a00005.html#a1a971b6e72e7e5cd29d560dfaa9fdfe8ad4a4e1b4e65a4f58b9e10c41e1783956">SUBPHASE_PORTAL</a> = 0x01
-, <br />
-&#160;&#160;<a class="el" href="../../dd/dad/a00005.html#a1a971b6e72e7e5cd29d560dfaa9fdfe8a4d77060db8b4d0bcdf14befefe656f13">SUBPHASE_ANVIL</a> = 0x02
-, <br />
-&#160;&#160;<a class="el" href="../../dd/dad/a00005.html#a1a971b6e72e7e5cd29d560dfaa9fdfe8a2de7705acf58b5c9490bf1e95e3ead73">SUBPHASE_ALCHEMY_LAB</a> = 0x04
-, <br />
-&#160;&#160;<a class="el" href="../../dd/dad/a00005.html#a1a971b6e72e7e5cd29d560dfaa9fdfe8ac29321ac9e23150a2e3acb0dcc0b1764">SUBPHASE_MONUMENT</a> = 0x08
-, <br />
-&#160;&#160;<a class="el" href="../../dd/dad/a00005.html#a1a971b6e72e7e5cd29d560dfaa9fdfe8a449fd29e38beaff4aaa5c96915aa459f">SUBPHASE_ALL</a> = SUBPHASE_PORTAL | SUBPHASE_ANVIL | SUBPHASE_ALCHEMY_LAB | SUBPHASE_MONUMENT
-<br />
- }</td></tr>
-<tr class="separator:a1a971b6e72e7e5cd29d560dfaa9fdfe8"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aaf07f00f32588714a5bb8a6b3662211c"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dad/a00005.html#aaf07f00f32588714a5bb8a6b3662211c">SunsReachCounters</a> { <br />
-&#160;&#160;<a class="el" href="../../dd/dad/a00005.html#aaf07f00f32588714a5bb8a6b3662211ca23b1e2d313de5eb6487c856608b41641">COUNTER_ERRATIC_BEHAVIOR</a>
-, <br />
-&#160;&#160;<a class="el" href="../../dd/dad/a00005.html#aaf07f00f32588714a5bb8a6b3662211caea0b3ede048b8fe9d88385bfb4dbb6de">COUNTER_SANCTUM_WARDS</a>
-, <br />
-&#160;&#160;<a class="el" href="../../dd/dad/a00005.html#aaf07f00f32588714a5bb8a6b3662211ca76338d51f6eec0825ff259bbd34dc5a2">COUNTER_BATTLE_FOR_THE_SUNS_REACH_ARMORY</a>
-, <br />
-&#160;&#160;<a class="el" href="../../dd/dad/a00005.html#aaf07f00f32588714a5bb8a6b3662211cae99c00ceb33ce528fc0de353f5449b86">COUNTER_DISTRACTION_AT_THE_DEAD_SCAR</a>
-, <br />
-&#160;&#160;<a class="el" href="../../dd/dad/a00005.html#aaf07f00f32588714a5bb8a6b3662211ca7ccae68e35a5ab24f91a3572989c08ec">COUNTER_INTERCEPTING_THE_MANA_CELLS</a>
-, <br />
-&#160;&#160;<a class="el" href="../../dd/dad/a00005.html#aaf07f00f32588714a5bb8a6b3662211cad58884bfc099d112c39cd40d06fca2f7">COUNTER_INTERCEPT_THE_REINFORCEMENTS</a>
-, <br />
-&#160;&#160;<a class="el" href="../../dd/dad/a00005.html#aaf07f00f32588714a5bb8a6b3662211ca9a71b7eefaf4fc97215caf53721a8593">COUNTER_TAKING_THE_HARBOR</a>
-, <br />
-&#160;&#160;<a class="el" href="../../dd/dad/a00005.html#aaf07f00f32588714a5bb8a6b3662211ca8cf21d7284a4dcb4d48b8130cc3f4671">COUNTER_MAKING_READY</a>
-, <br />
-&#160;&#160;<a class="el" href="../../dd/dad/a00005.html#aaf07f00f32588714a5bb8a6b3662211cadf87923459d77536d46ddd23bc3d5dfb">COUNTER_DISCOVERING_YOUR_ROOTS</a>
-, <br />
-&#160;&#160;<a class="el" href="../../dd/dad/a00005.html#aaf07f00f32588714a5bb8a6b3662211caba33bffee42a380d259c5af14e6e700f">COUNTER_A_CHARITABLE_DONATION</a>
-, <br />
-&#160;&#160;<a class="el" href="../../dd/dad/a00005.html#aaf07f00f32588714a5bb8a6b3662211ca24ad3fca42f73e77a99c93e0c788a4e8">COUNTERS_MAX</a>
-<br />
- }</td></tr>
-<tr class="separator:aaf07f00f32588714a5bb8a6b3662211c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a30222a7d596ba08b5141b96da67ec7eb"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dad/a00005.html#a30222a7d596ba08b5141b96da67ec7eb">SunwellGates</a> { <br />
-&#160;&#160;<a class="el" href="../../dd/dad/a00005.html#a30222a7d596ba08b5141b96da67ec7eba8e9efb46ed96537c672046bd063481c4">SUNWELL_ALL_GATES_CLOSED</a>
-, <br />
-&#160;&#160;<a class="el" href="../../dd/dad/a00005.html#a30222a7d596ba08b5141b96da67ec7ebab502da8d18813b99e43f7b4584f6e574">SUNWELL_AGAMATH_GATE1_OPEN</a>
-, <br />
-&#160;&#160;<a class="el" href="../../dd/dad/a00005.html#a30222a7d596ba08b5141b96da67ec7ebad194a9ec7ca0ffecdcabcb6d7d8ebdb7">SUNWELL_ROHENDOR_GATE2_OPEN</a>
-, <br />
-&#160;&#160;<a class="el" href="../../dd/dad/a00005.html#a30222a7d596ba08b5141b96da67ec7eba2c50969cc9ec8d5d0f0e217e85764fc4">SUNWELL_ARCHONISUS_GATE3_OPEN</a>
-<br />
- }</td></tr>
-<tr class="separator:a30222a7d596ba08b5141b96da67ec7eb"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4a3013381173d98f6b2e1b401f7bd34f"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dad/a00005.html#a4a3013381173d98f6b2e1b401f7bd34f">SunwellGateCounters</a> { <br />
-&#160;&#160;<a class="el" href="../../dd/dad/a00005.html#a4a3013381173d98f6b2e1b401f7bd34fac5a40f22c82be22eb0ee2e6b1414a95c">COUNTER_AGAMATH_THE_FIRST_GATE</a>
-, <br />
-&#160;&#160;<a class="el" href="../../dd/dad/a00005.html#a4a3013381173d98f6b2e1b401f7bd34fa19cae29dd7ad9ef6c31296f891eff82f">COUNTER_ROHENDOR_THE_SECOND_GATE</a>
-, <br />
-&#160;&#160;<a class="el" href="../../dd/dad/a00005.html#a4a3013381173d98f6b2e1b401f7bd34fa7af124883dce8a02d45f5cfbb7b13c5d">COUNTER_ARCHONISUS_THE_FINAL_GATE</a>
-, <br />
-&#160;&#160;<a class="el" href="../../dd/dad/a00005.html#a4a3013381173d98f6b2e1b401f7bd34fa0247ea5e5a42ee81a890e65bc7876d78">COUNTERS_MAX_GATES</a>
-<br />
- }</td></tr>
-<tr class="separator:a4a3013381173d98f6b2e1b401f7bd34f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
+Functions</h2></td></tr>
+<tr class="memitem:a74bb31c469b2f6e9691219589ac41a12"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dc/d10/a07243.html">ArenaTeam</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dad/a00005.html#a74bb31c469b2f6e9691219589ac41a12">ArenaTeamWithRating</a> (int rating, int gamesPlayed)</td></tr>
+<tr class="separator:a74bb31c469b2f6e9691219589ac41a12"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1ba0a1dda2222e2d5931f54c84ed5162"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dad/a00005.html#a1ba0a1dda2222e2d5931f54c84ed5162">TEST_F</a> (<a class="el" href="../../d8/d73/a28467.html">ArenaSeasonRewardDistributorTest</a>, SingleTeamMultiplePctRewardDistribution)</td></tr>
+<tr class="separator:a1ba0a1dda2222e2d5931f54c84ed5162"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5a69347e03ab5eeea43bfcbffb063d52"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dad/a00005.html#a5a69347e03ab5eeea43bfcbffb063d52">TEST_F</a> (<a class="el" href="../../d8/d73/a28467.html">ArenaSeasonRewardDistributorTest</a>, SingleTeamMultipleAbsRewardDistribution)</td></tr>
+<tr class="separator:a5a69347e03ab5eeea43bfcbffb063d52"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:acd40406191e1dacb6e7400210157262a"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dad/a00005.html#acd40406191e1dacb6e7400210157262a">TEST_F</a> (<a class="el" href="../../d8/d73/a28467.html">ArenaSeasonRewardDistributorTest</a>, ManyTeamsTwoRewardsDistribution)</td></tr>
+<tr class="separator:acd40406191e1dacb6e7400210157262a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7bfddbb1d9978546d0eff10b29942b32"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dad/a00005.html#a7bfddbb1d9978546d0eff10b29942b32">TEST_F</a> (<a class="el" href="../../d8/d73/a28467.html">ArenaSeasonRewardDistributorTest</a>, MinimumRequiredGamesFilter)</td></tr>
+<tr class="separator:a7bfddbb1d9978546d0eff10b29942b32"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Macro Definition Documentation</h2>
-<a id="a3a4f495a024c9f1774c913dd8ac4929f" name="a3a4f495a024c9f1774c913dd8ac4929f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a3a4f495a024c9f1774c913dd8ac4929f">&#9670;&#160;</a></span>sWorldState</h2>
+<h2 class="groupheader">Function Documentation</h2>
+<a id="a74bb31c469b2f6e9691219589ac41a12" name="a74bb31c469b2f6e9691219589ac41a12"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a74bb31c469b2f6e9691219589ac41a12">&#9670;&#160;</a></span>ArenaTeamWithRating()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">#define sWorldState&#160;&#160;&#160;<a class="el" href="../../d7/d61/a11523.html#ab82b11875771d0efc209c452e4bc0ffd">WorldState::instance</a>()</td>
+          <td class="memname"><a class="el" href="../../dc/d10/a07243.html">ArenaTeam</a> ArenaTeamWithRating </td>
+          <td>(</td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>rating</em>, </td>
         </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<h2 class="groupheader">Enumeration Type Documentation</h2>
-<a id="aaf07f00f32588714a5bb8a6b3662211c" name="aaf07f00f32588714a5bb8a6b3662211c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aaf07f00f32588714a5bb8a6b3662211c">&#9670;&#160;</a></span>SunsReachCounters</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
         <tr>
-          <td class="memname">enum <a class="el" href="../../dd/dad/a00005.html#aaf07f00f32588714a5bb8a6b3662211c">SunsReachCounters</a></td>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>gamesPlayed</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="aaf07f00f32588714a5bb8a6b3662211ca23b1e2d313de5eb6487c856608b41641" name="aaf07f00f32588714a5bb8a6b3662211ca23b1e2d313de5eb6487c856608b41641"></a>COUNTER_ERRATIC_BEHAVIOR&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aaf07f00f32588714a5bb8a6b3662211caea0b3ede048b8fe9d88385bfb4dbb6de" name="aaf07f00f32588714a5bb8a6b3662211caea0b3ede048b8fe9d88385bfb4dbb6de"></a>COUNTER_SANCTUM_WARDS&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aaf07f00f32588714a5bb8a6b3662211ca76338d51f6eec0825ff259bbd34dc5a2" name="aaf07f00f32588714a5bb8a6b3662211ca76338d51f6eec0825ff259bbd34dc5a2"></a>COUNTER_BATTLE_FOR_THE_SUNS_REACH_ARMORY&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aaf07f00f32588714a5bb8a6b3662211cae99c00ceb33ce528fc0de353f5449b86" name="aaf07f00f32588714a5bb8a6b3662211cae99c00ceb33ce528fc0de353f5449b86"></a>COUNTER_DISTRACTION_AT_THE_DEAD_SCAR&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aaf07f00f32588714a5bb8a6b3662211ca7ccae68e35a5ab24f91a3572989c08ec" name="aaf07f00f32588714a5bb8a6b3662211ca7ccae68e35a5ab24f91a3572989c08ec"></a>COUNTER_INTERCEPTING_THE_MANA_CELLS&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aaf07f00f32588714a5bb8a6b3662211cad58884bfc099d112c39cd40d06fca2f7" name="aaf07f00f32588714a5bb8a6b3662211cad58884bfc099d112c39cd40d06fca2f7"></a>COUNTER_INTERCEPT_THE_REINFORCEMENTS&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aaf07f00f32588714a5bb8a6b3662211ca9a71b7eefaf4fc97215caf53721a8593" name="aaf07f00f32588714a5bb8a6b3662211ca9a71b7eefaf4fc97215caf53721a8593"></a>COUNTER_TAKING_THE_HARBOR&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aaf07f00f32588714a5bb8a6b3662211ca8cf21d7284a4dcb4d48b8130cc3f4671" name="aaf07f00f32588714a5bb8a6b3662211ca8cf21d7284a4dcb4d48b8130cc3f4671"></a>COUNTER_MAKING_READY&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aaf07f00f32588714a5bb8a6b3662211cadf87923459d77536d46ddd23bc3d5dfb" name="aaf07f00f32588714a5bb8a6b3662211cadf87923459d77536d46ddd23bc3d5dfb"></a>COUNTER_DISCOVERING_YOUR_ROOTS&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aaf07f00f32588714a5bb8a6b3662211caba33bffee42a380d259c5af14e6e700f" name="aaf07f00f32588714a5bb8a6b3662211caba33bffee42a380d259c5af14e6e700f"></a>COUNTER_A_CHARITABLE_DONATION&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aaf07f00f32588714a5bb8a6b3662211ca24ad3fca42f73e77a99c93e0c788a4e8" name="aaf07f00f32588714a5bb8a6b3662211ca24ad3fca42f73e77a99c93e0c788a4e8"></a>COUNTERS_MAX&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">  105</span>{</div>
-<div class="line"><span class="lineno">  106</span>    <a class="code hl_enumvalue" href="../../dd/dad/a00005.html#aaf07f00f32588714a5bb8a6b3662211ca23b1e2d313de5eb6487c856608b41641">COUNTER_ERRATIC_BEHAVIOR</a>,</div>
-<div class="line"><span class="lineno">  107</span>    <a class="code hl_enumvalue" href="../../dd/dad/a00005.html#aaf07f00f32588714a5bb8a6b3662211caea0b3ede048b8fe9d88385bfb4dbb6de">COUNTER_SANCTUM_WARDS</a>,</div>
-<div class="line"><span class="lineno">  108</span>    <a class="code hl_enumvalue" href="../../dd/dad/a00005.html#aaf07f00f32588714a5bb8a6b3662211ca76338d51f6eec0825ff259bbd34dc5a2">COUNTER_BATTLE_FOR_THE_SUNS_REACH_ARMORY</a>,</div>
-<div class="line"><span class="lineno">  109</span>    <a class="code hl_enumvalue" href="../../dd/dad/a00005.html#aaf07f00f32588714a5bb8a6b3662211cae99c00ceb33ce528fc0de353f5449b86">COUNTER_DISTRACTION_AT_THE_DEAD_SCAR</a>,</div>
-<div class="line"><span class="lineno">  110</span>    <a class="code hl_enumvalue" href="../../dd/dad/a00005.html#aaf07f00f32588714a5bb8a6b3662211ca7ccae68e35a5ab24f91a3572989c08ec">COUNTER_INTERCEPTING_THE_MANA_CELLS</a>,</div>
-<div class="line"><span class="lineno">  111</span>    <a class="code hl_enumvalue" href="../../dd/dad/a00005.html#aaf07f00f32588714a5bb8a6b3662211cad58884bfc099d112c39cd40d06fca2f7">COUNTER_INTERCEPT_THE_REINFORCEMENTS</a>,</div>
-<div class="line"><span class="lineno">  112</span>    <a class="code hl_enumvalue" href="../../dd/dad/a00005.html#aaf07f00f32588714a5bb8a6b3662211ca9a71b7eefaf4fc97215caf53721a8593">COUNTER_TAKING_THE_HARBOR</a>,</div>
-<div class="line"><span class="lineno">  113</span>    <a class="code hl_enumvalue" href="../../dd/dad/a00005.html#aaf07f00f32588714a5bb8a6b3662211ca8cf21d7284a4dcb4d48b8130cc3f4671">COUNTER_MAKING_READY</a>,</div>
-<div class="line"><span class="lineno">  114</span>    <a class="code hl_enumvalue" href="../../dd/dad/a00005.html#aaf07f00f32588714a5bb8a6b3662211cadf87923459d77536d46ddd23bc3d5dfb">COUNTER_DISCOVERING_YOUR_ROOTS</a>,</div>
-<div class="line"><span class="lineno">  115</span>    <a class="code hl_enumvalue" href="../../dd/dad/a00005.html#aaf07f00f32588714a5bb8a6b3662211caba33bffee42a380d259c5af14e6e700f">COUNTER_A_CHARITABLE_DONATION</a>,</div>
-<div class="line"><span class="lineno">  116</span>    <a class="code hl_enumvalue" href="../../dd/dad/a00005.html#aaf07f00f32588714a5bb8a6b3662211ca24ad3fca42f73e77a99c93e0c788a4e8">COUNTERS_MAX</a>,</div>
-<div class="line"><span class="lineno">  117</span>};</div>
-<div class="ttc" id="aa00005_html_aaf07f00f32588714a5bb8a6b3662211ca23b1e2d313de5eb6487c856608b41641"><div class="ttname"><a href="../../dd/dad/a00005.html#aaf07f00f32588714a5bb8a6b3662211ca23b1e2d313de5eb6487c856608b41641">COUNTER_ERRATIC_BEHAVIOR</a></div><div class="ttdeci">@ COUNTER_ERRATIC_BEHAVIOR</div><div class="ttdef"><b>Definition:</b> WorldState.h:106</div></div>
-<div class="ttc" id="aa00005_html_aaf07f00f32588714a5bb8a6b3662211ca24ad3fca42f73e77a99c93e0c788a4e8"><div class="ttname"><a href="../../dd/dad/a00005.html#aaf07f00f32588714a5bb8a6b3662211ca24ad3fca42f73e77a99c93e0c788a4e8">COUNTERS_MAX</a></div><div class="ttdeci">@ COUNTERS_MAX</div><div class="ttdef"><b>Definition:</b> WorldState.h:116</div></div>
-<div class="ttc" id="aa00005_html_aaf07f00f32588714a5bb8a6b3662211ca76338d51f6eec0825ff259bbd34dc5a2"><div class="ttname"><a href="../../dd/dad/a00005.html#aaf07f00f32588714a5bb8a6b3662211ca76338d51f6eec0825ff259bbd34dc5a2">COUNTER_BATTLE_FOR_THE_SUNS_REACH_ARMORY</a></div><div class="ttdeci">@ COUNTER_BATTLE_FOR_THE_SUNS_REACH_ARMORY</div><div class="ttdef"><b>Definition:</b> WorldState.h:108</div></div>
-<div class="ttc" id="aa00005_html_aaf07f00f32588714a5bb8a6b3662211ca7ccae68e35a5ab24f91a3572989c08ec"><div class="ttname"><a href="../../dd/dad/a00005.html#aaf07f00f32588714a5bb8a6b3662211ca7ccae68e35a5ab24f91a3572989c08ec">COUNTER_INTERCEPTING_THE_MANA_CELLS</a></div><div class="ttdeci">@ COUNTER_INTERCEPTING_THE_MANA_CELLS</div><div class="ttdef"><b>Definition:</b> WorldState.h:110</div></div>
-<div class="ttc" id="aa00005_html_aaf07f00f32588714a5bb8a6b3662211ca8cf21d7284a4dcb4d48b8130cc3f4671"><div class="ttname"><a href="../../dd/dad/a00005.html#aaf07f00f32588714a5bb8a6b3662211ca8cf21d7284a4dcb4d48b8130cc3f4671">COUNTER_MAKING_READY</a></div><div class="ttdeci">@ COUNTER_MAKING_READY</div><div class="ttdef"><b>Definition:</b> WorldState.h:113</div></div>
-<div class="ttc" id="aa00005_html_aaf07f00f32588714a5bb8a6b3662211ca9a71b7eefaf4fc97215caf53721a8593"><div class="ttname"><a href="../../dd/dad/a00005.html#aaf07f00f32588714a5bb8a6b3662211ca9a71b7eefaf4fc97215caf53721a8593">COUNTER_TAKING_THE_HARBOR</a></div><div class="ttdeci">@ COUNTER_TAKING_THE_HARBOR</div><div class="ttdef"><b>Definition:</b> WorldState.h:112</div></div>
-<div class="ttc" id="aa00005_html_aaf07f00f32588714a5bb8a6b3662211caba33bffee42a380d259c5af14e6e700f"><div class="ttname"><a href="../../dd/dad/a00005.html#aaf07f00f32588714a5bb8a6b3662211caba33bffee42a380d259c5af14e6e700f">COUNTER_A_CHARITABLE_DONATION</a></div><div class="ttdeci">@ COUNTER_A_CHARITABLE_DONATION</div><div class="ttdef"><b>Definition:</b> WorldState.h:115</div></div>
-<div class="ttc" id="aa00005_html_aaf07f00f32588714a5bb8a6b3662211cad58884bfc099d112c39cd40d06fca2f7"><div class="ttname"><a href="../../dd/dad/a00005.html#aaf07f00f32588714a5bb8a6b3662211cad58884bfc099d112c39cd40d06fca2f7">COUNTER_INTERCEPT_THE_REINFORCEMENTS</a></div><div class="ttdeci">@ COUNTER_INTERCEPT_THE_REINFORCEMENTS</div><div class="ttdef"><b>Definition:</b> WorldState.h:111</div></div>
-<div class="ttc" id="aa00005_html_aaf07f00f32588714a5bb8a6b3662211cadf87923459d77536d46ddd23bc3d5dfb"><div class="ttname"><a href="../../dd/dad/a00005.html#aaf07f00f32588714a5bb8a6b3662211cadf87923459d77536d46ddd23bc3d5dfb">COUNTER_DISCOVERING_YOUR_ROOTS</a></div><div class="ttdeci">@ COUNTER_DISCOVERING_YOUR_ROOTS</div><div class="ttdef"><b>Definition:</b> WorldState.h:114</div></div>
-<div class="ttc" id="aa00005_html_aaf07f00f32588714a5bb8a6b3662211cae99c00ceb33ce528fc0de353f5449b86"><div class="ttname"><a href="../../dd/dad/a00005.html#aaf07f00f32588714a5bb8a6b3662211cae99c00ceb33ce528fc0de353f5449b86">COUNTER_DISTRACTION_AT_THE_DEAD_SCAR</a></div><div class="ttdeci">@ COUNTER_DISTRACTION_AT_THE_DEAD_SCAR</div><div class="ttdef"><b>Definition:</b> WorldState.h:109</div></div>
-<div class="ttc" id="aa00005_html_aaf07f00f32588714a5bb8a6b3662211caea0b3ede048b8fe9d88385bfb4dbb6de"><div class="ttname"><a href="../../dd/dad/a00005.html#aaf07f00f32588714a5bb8a6b3662211caea0b3ede048b8fe9d88385bfb4dbb6de">COUNTER_SANCTUM_WARDS</a></div><div class="ttdeci">@ COUNTER_SANCTUM_WARDS</div><div class="ttdef"><b>Definition:</b> WorldState.h:107</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   43</span>{</div>
+<div class="line"><span class="lineno">   44</span>    <a class="code hl_struct" href="../../d3/da3/a07239.html">ArenaTeamStats</a> stats;</div>
+<div class="line"><span class="lineno">   45</span>    stats.<a class="code hl_variable" href="../../d3/da3/a07239.html#ab43875cc3ae58eb636a490c2c0f5c1f6">Rating</a> = rating;</div>
+<div class="line"><span class="lineno">   46</span>    stats.<a class="code hl_variable" href="../../d3/da3/a07239.html#a124c6d64f22c13707764eedd79fe1912">SeasonGames</a> = gamesPlayed;</div>
+<div class="line"><span class="lineno">   47</span>    <a class="code hl_class" href="../../dc/d10/a07243.html">ArenaTeam</a> team;</div>
+<div class="line"><span class="lineno">   48</span>    team.<a class="code hl_function" href="../../dc/d10/a07243.html#af8231c5442a950532af331d64ad13bea">SetArenaTeamStats</a>(stats);</div>
+<div class="line"><span class="lineno">   49</span>    <span class="keywordflow">return</span> team;</div>
+<div class="line"><span class="lineno">   50</span>}</div>
+<div class="ttc" id="aa07239_html"><div class="ttname"><a href="../../d3/da3/a07239.html">ArenaTeamStats</a></div><div class="ttdef"><b>Definition:</b> ArenaTeam.h:125</div></div>
+<div class="ttc" id="aa07239_html_a124c6d64f22c13707764eedd79fe1912"><div class="ttname"><a href="../../d3/da3/a07239.html#a124c6d64f22c13707764eedd79fe1912">ArenaTeamStats::SeasonGames</a></div><div class="ttdeci">uint16 SeasonGames</div><div class="ttdef"><b>Definition:</b> ArenaTeam.h:129</div></div>
+<div class="ttc" id="aa07239_html_ab43875cc3ae58eb636a490c2c0f5c1f6"><div class="ttname"><a href="../../d3/da3/a07239.html#ab43875cc3ae58eb636a490c2c0f5c1f6">ArenaTeamStats::Rating</a></div><div class="ttdeci">uint16 Rating</div><div class="ttdef"><b>Definition:</b> ArenaTeam.h:126</div></div>
+<div class="ttc" id="aa07243_html"><div class="ttname"><a href="../../dc/d10/a07243.html">ArenaTeam</a></div><div class="ttdef"><b>Definition:</b> ArenaTeam.h:137</div></div>
+<div class="ttc" id="aa07243_html_af8231c5442a950532af331d64ad13bea"><div class="ttname"><a href="../../dc/d10/a07243.html#af8231c5442a950532af331d64ad13bea">ArenaTeam::SetArenaTeamStats</a></div><div class="ttdeci">void SetArenaTeamStats(ArenaTeamStats &amp;stats)</div><div class="ttdef"><b>Definition:</b> ArenaTeam.h:156</div></div>
 </div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00126">ArenaTeamStats::Rating</a>, <a class="el" href="../../#l00129">ArenaTeamStats::SeasonGames</a>, and <a class="el" href="../../#l00156">ArenaTeam::SetArenaTeamStats()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00053">TEST_F()</a>.</p>
+
 </div>
 </div>
-<a id="aa3e8fbd653500f90fa1ebe182d4891d6" name="aa3e8fbd653500f90fa1ebe182d4891d6"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa3e8fbd653500f90fa1ebe182d4891d6">&#9670;&#160;</a></span>SunsReachPhases</h2>
+<a id="acd40406191e1dacb6e7400210157262a" name="acd40406191e1dacb6e7400210157262a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#acd40406191e1dacb6e7400210157262a">&#9670;&#160;</a></span>TEST_F() <span class="overload">[1/4]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">enum <a class="el" href="../../dd/dad/a00005.html#aa3e8fbd653500f90fa1ebe182d4891d6">SunsReachPhases</a></td>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d8/d73/a28467.html">ArenaSeasonRewardDistributorTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">ManyTeamsTwoRewardsDistribution&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="aa3e8fbd653500f90fa1ebe182d4891d6ab65a732a0c383bd3d043a34e29c558ed" name="aa3e8fbd653500f90fa1ebe182d4891d6ab65a732a0c383bd3d043a34e29c558ed"></a>SUNS_REACH_PHASE_1_STAGING_AREA&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aa3e8fbd653500f90fa1ebe182d4891d6a83392af6406c346fcc27d7ac61925c60" name="aa3e8fbd653500f90fa1ebe182d4891d6a83392af6406c346fcc27d7ac61925c60"></a>SUNS_REACH_PHASE_2_SANCTUM&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aa3e8fbd653500f90fa1ebe182d4891d6a0ea20d0c1efef719695c8d2a6959b4a2" name="aa3e8fbd653500f90fa1ebe182d4891d6a0ea20d0c1efef719695c8d2a6959b4a2"></a>SUNS_REACH_PHASE_3_ARMORY&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aa3e8fbd653500f90fa1ebe182d4891d6ad46034efa280e589b555f346debbb938" name="aa3e8fbd653500f90fa1ebe182d4891d6ad46034efa280e589b555f346debbb938"></a>SUNS_REACH_PHASE_4_HARBOR&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">   88</span>{</div>
-<div class="line"><span class="lineno">   89</span>    <a class="code hl_enumvalue" href="../../dd/dad/a00005.html#aa3e8fbd653500f90fa1ebe182d4891d6ab65a732a0c383bd3d043a34e29c558ed">SUNS_REACH_PHASE_1_STAGING_AREA</a>,</div>
-<div class="line"><span class="lineno">   90</span>    <a class="code hl_enumvalue" href="../../dd/dad/a00005.html#aa3e8fbd653500f90fa1ebe182d4891d6a83392af6406c346fcc27d7ac61925c60">SUNS_REACH_PHASE_2_SANCTUM</a>,</div>
-<div class="line"><span class="lineno">   91</span>    <a class="code hl_enumvalue" href="../../dd/dad/a00005.html#aa3e8fbd653500f90fa1ebe182d4891d6a0ea20d0c1efef719695c8d2a6959b4a2">SUNS_REACH_PHASE_3_ARMORY</a>,</div>
-<div class="line"><span class="lineno">   92</span>    <a class="code hl_enumvalue" href="../../dd/dad/a00005.html#aa3e8fbd653500f90fa1ebe182d4891d6ad46034efa280e589b555f346debbb938">SUNS_REACH_PHASE_4_HARBOR</a>,</div>
-<div class="line"><span class="lineno">   93</span>};</div>
-<div class="ttc" id="aa00005_html_aa3e8fbd653500f90fa1ebe182d4891d6a0ea20d0c1efef719695c8d2a6959b4a2"><div class="ttname"><a href="../../dd/dad/a00005.html#aa3e8fbd653500f90fa1ebe182d4891d6a0ea20d0c1efef719695c8d2a6959b4a2">SUNS_REACH_PHASE_3_ARMORY</a></div><div class="ttdeci">@ SUNS_REACH_PHASE_3_ARMORY</div><div class="ttdef"><b>Definition:</b> WorldState.h:91</div></div>
-<div class="ttc" id="aa00005_html_aa3e8fbd653500f90fa1ebe182d4891d6a83392af6406c346fcc27d7ac61925c60"><div class="ttname"><a href="../../dd/dad/a00005.html#aa3e8fbd653500f90fa1ebe182d4891d6a83392af6406c346fcc27d7ac61925c60">SUNS_REACH_PHASE_2_SANCTUM</a></div><div class="ttdeci">@ SUNS_REACH_PHASE_2_SANCTUM</div><div class="ttdef"><b>Definition:</b> WorldState.h:90</div></div>
-<div class="ttc" id="aa00005_html_aa3e8fbd653500f90fa1ebe182d4891d6ab65a732a0c383bd3d043a34e29c558ed"><div class="ttname"><a href="../../dd/dad/a00005.html#aa3e8fbd653500f90fa1ebe182d4891d6ab65a732a0c383bd3d043a34e29c558ed">SUNS_REACH_PHASE_1_STAGING_AREA</a></div><div class="ttdeci">@ SUNS_REACH_PHASE_1_STAGING_AREA</div><div class="ttdef"><b>Definition:</b> WorldState.h:89</div></div>
-<div class="ttc" id="aa00005_html_aa3e8fbd653500f90fa1ebe182d4891d6ad46034efa280e589b555f346debbb938"><div class="ttname"><a href="../../dd/dad/a00005.html#aa3e8fbd653500f90fa1ebe182d4891d6ad46034efa280e589b555f346debbb938">SUNS_REACH_PHASE_4_HARBOR</a></div><div class="ttdeci">@ SUNS_REACH_PHASE_4_HARBOR</div><div class="ttdef"><b>Definition:</b> WorldState.h:92</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  106</span>{</div>
+<div class="line"><span class="lineno">  107</span>    <a class="code hl_typedef" href="../../d8/d2e/a07247.html#ac76e895599b64e0824e923faf9c08560">ArenaTeamMgr::ArenaTeamContainer</a> arenaTeams;</div>
+<div class="line"><span class="lineno">  108</span>    std::vector&lt;ArenaSeasonRewardGroup&gt; rewardGroups;</div>
+<div class="line"><span class="lineno">  109</span> </div>
+<div class="line"><span class="lineno">  110</span>    <span class="keyword">const</span> <span class="keywordtype">int</span> numTeams = 1000;</div>
+<div class="line"><span class="lineno">  111</span>    <a class="code hl_class" href="../../dc/d10/a07243.html">ArenaTeam</a> teams[numTeams + 1]; <span class="comment">// used just to prevent teams deletion</span></div>
+<div class="line"><span class="lineno">  112</span>    <span class="keywordflow">for</span> (<span class="keywordtype">int</span> i = 1; i &lt;= numTeams; i++)</div>
+<div class="line"><span class="lineno">  113</span>    {</div>
+<div class="line"><span class="lineno">  114</span>        teams[i] = <a class="code hl_function" href="../../dd/dad/a00005.html#a74bb31c469b2f6e9691219589ac41a12">ArenaTeamWithRating</a>(i, 50);</div>
+<div class="line"><span class="lineno">  115</span>        arenaTeams[i] = &amp;teams[i];</div>
+<div class="line"><span class="lineno">  116</span>    }</div>
+<div class="line"><span class="lineno">  117</span> </div>
+<div class="line"><span class="lineno">  118</span>    <a class="code hl_struct" href="../../d7/d4d/a07199.html">ArenaSeasonRewardGroup</a> rewardGroup1;</div>
+<div class="line"><span class="lineno">  119</span>    rewardGroup1.<a class="code hl_variable" href="../../d7/d4d/a07199.html#a16261356df6f5aed35bc3ec06ab49560">criteriaType</a> = <a class="code hl_enumvalue" href="../../d9/d79/a01658.html#a983281e9aada2538d6bc53ae4dd4d266a39f434bc965a3f4fafe78ece7d3f6422">ARENA_SEASON_REWARD_CRITERIA_TYPE_PERCENT_VALUE</a>;</div>
+<div class="line"><span class="lineno">  120</span>    rewardGroup1.<a class="code hl_variable" href="../../d7/d4d/a07199.html#a07507bd59265508a463aa328f343afa0">minCriteria</a> = 0.0;  <span class="comment">// 0%</span></div>
+<div class="line"><span class="lineno">  121</span>    rewardGroup1.<a class="code hl_variable" href="../../d7/d4d/a07199.html#aa3cf9a0ad2ed2170542ec360e61682e2">maxCriteria</a> = 0.5;  <span class="comment">// 0.5% of total teams</span></div>
+<div class="line"><span class="lineno">  122</span>    rewardGroups.push_back(rewardGroup1);</div>
+<div class="line"><span class="lineno">  123</span> </div>
+<div class="line"><span class="lineno">  124</span>    <a class="code hl_struct" href="../../d7/d4d/a07199.html">ArenaSeasonRewardGroup</a> rewardGroup2;</div>
+<div class="line"><span class="lineno">  125</span>    rewardGroup2.<a class="code hl_variable" href="../../d7/d4d/a07199.html#a16261356df6f5aed35bc3ec06ab49560">criteriaType</a> = <a class="code hl_enumvalue" href="../../d9/d79/a01658.html#a983281e9aada2538d6bc53ae4dd4d266a39f434bc965a3f4fafe78ece7d3f6422">ARENA_SEASON_REWARD_CRITERIA_TYPE_PERCENT_VALUE</a>;</div>
+<div class="line"><span class="lineno">  126</span>    rewardGroup2.<a class="code hl_variable" href="../../d7/d4d/a07199.html#a07507bd59265508a463aa328f343afa0">minCriteria</a> = 0.5;  <span class="comment">// 0.5% (the top 0.5% of the teams)</span></div>
+<div class="line"><span class="lineno">  127</span>    rewardGroup2.<a class="code hl_variable" href="../../d7/d4d/a07199.html#aa3cf9a0ad2ed2170542ec360e61682e2">maxCriteria</a> = 3.0;  <span class="comment">// 3% of total teams</span></div>
+<div class="line"><span class="lineno">  128</span>    rewardGroups.push_back(rewardGroup2);</div>
+<div class="line"><span class="lineno">  129</span> </div>
+<div class="line"><span class="lineno">  130</span>    <a class="code hl_struct" href="../../d7/d4d/a07199.html">ArenaSeasonRewardGroup</a> rewardGroup3;</div>
+<div class="line"><span class="lineno">  131</span>    rewardGroup3.<a class="code hl_variable" href="../../d7/d4d/a07199.html#a16261356df6f5aed35bc3ec06ab49560">criteriaType</a> = <a class="code hl_enumvalue" href="../../d9/d79/a01658.html#a983281e9aada2538d6bc53ae4dd4d266a39f434bc965a3f4fafe78ece7d3f6422">ARENA_SEASON_REWARD_CRITERIA_TYPE_PERCENT_VALUE</a>;</div>
+<div class="line"><span class="lineno">  132</span>    rewardGroup3.<a class="code hl_variable" href="../../d7/d4d/a07199.html#a07507bd59265508a463aa328f343afa0">minCriteria</a> = 3;</div>
+<div class="line"><span class="lineno">  133</span>    rewardGroup3.<a class="code hl_variable" href="../../d7/d4d/a07199.html#aa3cf9a0ad2ed2170542ec360e61682e2">maxCriteria</a> = 10;</div>
+<div class="line"><span class="lineno">  134</span>    rewardGroups.push_back(rewardGroup3);</div>
+<div class="line"><span class="lineno">  135</span> </div>
+<div class="line"><span class="lineno">  136</span>    <a class="code hl_struct" href="../../d7/d4d/a07199.html">ArenaSeasonRewardGroup</a> rewardGroup4;</div>
+<div class="line"><span class="lineno">  137</span>    rewardGroup4.<a class="code hl_variable" href="../../d7/d4d/a07199.html#a16261356df6f5aed35bc3ec06ab49560">criteriaType</a> = <a class="code hl_enumvalue" href="../../d9/d79/a01658.html#a983281e9aada2538d6bc53ae4dd4d266a39f434bc965a3f4fafe78ece7d3f6422">ARENA_SEASON_REWARD_CRITERIA_TYPE_PERCENT_VALUE</a>;</div>
+<div class="line"><span class="lineno">  138</span>    rewardGroup4.<a class="code hl_variable" href="../../d7/d4d/a07199.html#a07507bd59265508a463aa328f343afa0">minCriteria</a> = 10;</div>
+<div class="line"><span class="lineno">  139</span>    rewardGroup4.<a class="code hl_variable" href="../../d7/d4d/a07199.html#aa3cf9a0ad2ed2170542ec360e61682e2">maxCriteria</a> = 35;</div>
+<div class="line"><span class="lineno">  140</span>    rewardGroups.push_back(rewardGroup4);</div>
+<div class="line"><span class="lineno">  141</span> </div>
+<div class="line"><span class="lineno">  142</span>    <span class="comment">// Top 1</span></div>
+<div class="line"><span class="lineno">  143</span>    <a class="code hl_struct" href="../../d7/d4d/a07199.html">ArenaSeasonRewardGroup</a> rewardGroup5;</div>
+<div class="line"><span class="lineno">  144</span>    rewardGroup5.<a class="code hl_variable" href="../../d7/d4d/a07199.html#a16261356df6f5aed35bc3ec06ab49560">criteriaType</a> = <a class="code hl_enumvalue" href="../../d9/d79/a01658.html#a983281e9aada2538d6bc53ae4dd4d266a80897ebd11175aa1dd3435611c86dd63">ARENA_SEASON_REWARD_CRITERIA_TYPE_ABSOLUTE_VALUE</a>;</div>
+<div class="line"><span class="lineno">  145</span>    rewardGroup5.<a class="code hl_variable" href="../../d7/d4d/a07199.html#a07507bd59265508a463aa328f343afa0">minCriteria</a> = 1;</div>
+<div class="line"><span class="lineno">  146</span>    rewardGroup5.<a class="code hl_variable" href="../../d7/d4d/a07199.html#aa3cf9a0ad2ed2170542ec360e61682e2">maxCriteria</a> = 1;</div>
+<div class="line"><span class="lineno">  147</span>    rewardGroups.push_back(rewardGroup5);</div>
+<div class="line"><span class="lineno">  148</span> </div>
+<div class="line"><span class="lineno">  149</span>    <span class="comment">// Calculate expected reward distributions</span></div>
+<div class="line"><span class="lineno">  150</span>    <span class="keywordtype">int</span> expectedTeamsInGroup1 = <span class="keyword">static_cast&lt;</span><span class="keywordtype">int</span><span class="keyword">&gt;</span>(0.005 * numTeams);  <span class="comment">// 0.5% of 1000 = 5</span></div>
+<div class="line"><span class="lineno">  151</span>    <span class="keywordtype">int</span> expectedTeamsInGroup2 = <span class="keyword">static_cast&lt;</span><span class="keywordtype">int</span><span class="keyword">&gt;</span>(0.03 * numTeams);   <span class="comment">// 3% of 1000 = 30</span></div>
+<div class="line"><span class="lineno">  152</span>    <span class="keywordtype">int</span> expectedTeamsInGroup3 = <span class="keyword">static_cast&lt;</span><span class="keywordtype">int</span><span class="keyword">&gt;</span>(0.10 * numTeams);   <span class="comment">// 10% of 1000 = 100</span></div>
+<div class="line"><span class="lineno">  153</span>    <span class="keywordtype">int</span> expectedTeamsInGroup4 = <span class="keyword">static_cast&lt;</span><span class="keywordtype">int</span><span class="keyword">&gt;</span>(0.35 * numTeams);   <span class="comment">// 35% of 1000 = 350</span></div>
+<div class="line"><span class="lineno">  154</span> </div>
+<div class="line"><span class="lineno">  155</span>    <span class="keywordtype">int</span> teamsIndexCounter = numTeams;</div>
+<div class="line"><span class="lineno">  156</span> </div>
+<div class="line"><span class="lineno">  157</span>    <span class="comment">// Expectation for rewardGroup1 (top 0.5% of teams)</span></div>
+<div class="line"><span class="lineno">  158</span>    <span class="keywordflow">for</span> (; teamsIndexCounter &gt; numTeams - expectedTeamsInGroup1; --teamsIndexCounter)</div>
+<div class="line"><span class="lineno">  159</span>        EXPECT_CALL(*_mockRewarder, RewardTeamWithRewardGroup(&amp;teams[teamsIndexCounter], rewardGroup1)).<a class="code hl_enumeration" href="../../df/d12/a01703.html#a3c5d18364f664b5ad98e2ad610875cb5">Times</a>(1);</div>
+<div class="line"><span class="lineno">  160</span> </div>
+<div class="line"><span class="lineno">  161</span>    <span class="comment">// Expectation for rewardGroup2 (next 3% - 0.5% teams)</span></div>
+<div class="line"><span class="lineno">  162</span>    <span class="keywordflow">for</span> (; teamsIndexCounter &gt; numTeams - expectedTeamsInGroup2; --teamsIndexCounter)</div>
+<div class="line"><span class="lineno">  163</span>        EXPECT_CALL(*_mockRewarder, RewardTeamWithRewardGroup(&amp;teams[teamsIndexCounter], rewardGroup2)).<a class="code hl_enumeration" href="../../df/d12/a01703.html#a3c5d18364f664b5ad98e2ad610875cb5">Times</a>(1);</div>
+<div class="line"><span class="lineno">  164</span> </div>
+<div class="line"><span class="lineno">  165</span>    <span class="keywordflow">for</span> (; teamsIndexCounter &gt; numTeams - expectedTeamsInGroup3; --teamsIndexCounter)</div>
+<div class="line"><span class="lineno">  166</span>        EXPECT_CALL(*_mockRewarder, RewardTeamWithRewardGroup(&amp;teams[teamsIndexCounter], rewardGroup3)).<a class="code hl_enumeration" href="../../df/d12/a01703.html#a3c5d18364f664b5ad98e2ad610875cb5">Times</a>(1);</div>
+<div class="line"><span class="lineno">  167</span> </div>
+<div class="line"><span class="lineno">  168</span>    <span class="keywordflow">for</span> (; teamsIndexCounter &gt; numTeams - expectedTeamsInGroup4; --teamsIndexCounter)</div>
+<div class="line"><span class="lineno">  169</span>        EXPECT_CALL(*_mockRewarder, RewardTeamWithRewardGroup(&amp;teams[teamsIndexCounter], rewardGroup4)).<a class="code hl_enumeration" href="../../df/d12/a01703.html#a3c5d18364f664b5ad98e2ad610875cb5">Times</a>(1);</div>
+<div class="line"><span class="lineno">  170</span> </div>
+<div class="line"><span class="lineno">  171</span>    <span class="comment">// Top 1</span></div>
+<div class="line"><span class="lineno">  172</span>    EXPECT_CALL(*_mockRewarder, RewardTeamWithRewardGroup(&amp;teams[numTeams], rewardGroup5)).Times(1);</div>
+<div class="line"><span class="lineno">  173</span> </div>
+<div class="line"><span class="lineno">  174</span>    _distributor-&gt;DistributeRewards(arenaTeams, rewardGroups);</div>
+<div class="line"><span class="lineno">  175</span>}</div>
+<div class="ttc" id="aa00005_html_a74bb31c469b2f6e9691219589ac41a12"><div class="ttname"><a href="../../dd/dad/a00005.html#a74bb31c469b2f6e9691219589ac41a12">ArenaTeamWithRating</a></div><div class="ttdeci">ArenaTeam ArenaTeamWithRating(int rating, int gamesPlayed)</div><div class="ttdef"><b>Definition:</b> ArenaSeasonRewardDistributorTest.cpp:42</div></div>
+<div class="ttc" id="aa01658_html_a983281e9aada2538d6bc53ae4dd4d266a39f434bc965a3f4fafe78ece7d3f6422"><div class="ttname"><a href="../../d9/d79/a01658.html#a983281e9aada2538d6bc53ae4dd4d266a39f434bc965a3f4fafe78ece7d3f6422">ARENA_SEASON_REWARD_CRITERIA_TYPE_PERCENT_VALUE</a></div><div class="ttdeci">@ ARENA_SEASON_REWARD_CRITERIA_TYPE_PERCENT_VALUE</div><div class="ttdef"><b>Definition:</b> ArenaSeasonMgr.h:40</div></div>
+<div class="ttc" id="aa01658_html_a983281e9aada2538d6bc53ae4dd4d266a80897ebd11175aa1dd3435611c86dd63"><div class="ttname"><a href="../../d9/d79/a01658.html#a983281e9aada2538d6bc53ae4dd4d266a80897ebd11175aa1dd3435611c86dd63">ARENA_SEASON_REWARD_CRITERIA_TYPE_ABSOLUTE_VALUE</a></div><div class="ttdeci">@ ARENA_SEASON_REWARD_CRITERIA_TYPE_ABSOLUTE_VALUE</div><div class="ttdef"><b>Definition:</b> ArenaSeasonMgr.h:41</div></div>
+<div class="ttc" id="aa01703_html_a3c5d18364f664b5ad98e2ad610875cb5"><div class="ttname"><a href="../../df/d12/a01703.html#a3c5d18364f664b5ad98e2ad610875cb5">Times</a></div><div class="ttdeci">Times</div><div class="ttdef"><b>Definition:</b> BattlegroundIC.h:194</div></div>
+<div class="ttc" id="aa07199_html"><div class="ttname"><a href="../../d7/d4d/a07199.html">ArenaSeasonRewardGroup</a></div><div class="ttdef"><b>Definition:</b> ArenaSeasonMgr.h:62</div></div>
+<div class="ttc" id="aa07199_html_a07507bd59265508a463aa328f343afa0"><div class="ttname"><a href="../../d7/d4d/a07199.html#a07507bd59265508a463aa328f343afa0">ArenaSeasonRewardGroup::minCriteria</a></div><div class="ttdeci">float minCriteria</div><div class="ttdef"><b>Definition:</b> ArenaSeasonMgr.h:69</div></div>
+<div class="ttc" id="aa07199_html_a16261356df6f5aed35bc3ec06ab49560"><div class="ttname"><a href="../../d7/d4d/a07199.html#a16261356df6f5aed35bc3ec06ab49560">ArenaSeasonRewardGroup::criteriaType</a></div><div class="ttdeci">ArenaSeasonRewardGroupCriteriaType criteriaType</div><div class="ttdef"><b>Definition:</b> ArenaSeasonMgr.h:67</div></div>
+<div class="ttc" id="aa07199_html_aa3cf9a0ad2ed2170542ec360e61682e2"><div class="ttname"><a href="../../d7/d4d/a07199.html#aa3cf9a0ad2ed2170542ec360e61682e2">ArenaSeasonRewardGroup::maxCriteria</a></div><div class="ttdeci">float maxCriteria</div><div class="ttdef"><b>Definition:</b> ArenaSeasonMgr.h:70</div></div>
+<div class="ttc" id="aa07247_html_ac76e895599b64e0824e923faf9c08560"><div class="ttname"><a href="../../d8/d2e/a07247.html#ac76e895599b64e0824e923faf9c08560">ArenaTeamMgr::ArenaTeamContainer</a></div><div class="ttdeci">std::unordered_map&lt; uint32, ArenaTeam * &gt; ArenaTeamContainer</div><div class="ttdef"><b>Definition:</b> ArenaTeamMgr.h:34</div></div>
 </div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00041">ARENA_SEASON_REWARD_CRITERIA_TYPE_ABSOLUTE_VALUE</a>, <a class="el" href="../../#l00040">ARENA_SEASON_REWARD_CRITERIA_TYPE_PERCENT_VALUE</a>, <a class="el" href="../../#l00042">ArenaTeamWithRating()</a>, <a class="el" href="../../#l00067">ArenaSeasonRewardGroup::criteriaType</a>, <a class="el" href="../../#l00070">ArenaSeasonRewardGroup::maxCriteria</a>, and <a class="el" href="../../#l00069">ArenaSeasonRewardGroup::minCriteria</a>.</p>
+
 </div>
 </div>
-<a id="a1a971b6e72e7e5cd29d560dfaa9fdfe8" name="a1a971b6e72e7e5cd29d560dfaa9fdfe8"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1a971b6e72e7e5cd29d560dfaa9fdfe8">&#9670;&#160;</a></span>SunsReachSubPhases</h2>
+<a id="a7bfddbb1d9978546d0eff10b29942b32" name="a7bfddbb1d9978546d0eff10b29942b32"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7bfddbb1d9978546d0eff10b29942b32">&#9670;&#160;</a></span>TEST_F() <span class="overload">[2/4]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">enum <a class="el" href="../../dd/dad/a00005.html#a1a971b6e72e7e5cd29d560dfaa9fdfe8">SunsReachSubPhases</a></td>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d8/d73/a28467.html">ArenaSeasonRewardDistributorTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">MinimumRequiredGamesFilter&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a1a971b6e72e7e5cd29d560dfaa9fdfe8ad4a4e1b4e65a4f58b9e10c41e1783956" name="a1a971b6e72e7e5cd29d560dfaa9fdfe8ad4a4e1b4e65a4f58b9e10c41e1783956"></a>SUBPHASE_PORTAL&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a1a971b6e72e7e5cd29d560dfaa9fdfe8a4d77060db8b4d0bcdf14befefe656f13" name="a1a971b6e72e7e5cd29d560dfaa9fdfe8a4d77060db8b4d0bcdf14befefe656f13"></a>SUBPHASE_ANVIL&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a1a971b6e72e7e5cd29d560dfaa9fdfe8a2de7705acf58b5c9490bf1e95e3ead73" name="a1a971b6e72e7e5cd29d560dfaa9fdfe8a2de7705acf58b5c9490bf1e95e3ead73"></a>SUBPHASE_ALCHEMY_LAB&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a1a971b6e72e7e5cd29d560dfaa9fdfe8ac29321ac9e23150a2e3acb0dcc0b1764" name="a1a971b6e72e7e5cd29d560dfaa9fdfe8ac29321ac9e23150a2e3acb0dcc0b1764"></a>SUBPHASE_MONUMENT&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a1a971b6e72e7e5cd29d560dfaa9fdfe8a449fd29e38beaff4aaa5c96915aa459f" name="a1a971b6e72e7e5cd29d560dfaa9fdfe8a449fd29e38beaff4aaa5c96915aa459f"></a>SUBPHASE_ALL&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">   96</span>{</div>
-<div class="line"><span class="lineno">   97</span>    <a class="code hl_enumvalue" href="../../dd/dad/a00005.html#a1a971b6e72e7e5cd29d560dfaa9fdfe8ad4a4e1b4e65a4f58b9e10c41e1783956">SUBPHASE_PORTAL</a>         = 0x01,</div>
-<div class="line"><span class="lineno">   98</span>    <a class="code hl_enumvalue" href="../../dd/dad/a00005.html#a1a971b6e72e7e5cd29d560dfaa9fdfe8a4d77060db8b4d0bcdf14befefe656f13">SUBPHASE_ANVIL</a>          = 0x02,</div>
-<div class="line"><span class="lineno">   99</span>    <a class="code hl_enumvalue" href="../../dd/dad/a00005.html#a1a971b6e72e7e5cd29d560dfaa9fdfe8a2de7705acf58b5c9490bf1e95e3ead73">SUBPHASE_ALCHEMY_LAB</a>    = 0x04,</div>
-<div class="line"><span class="lineno">  100</span>    <a class="code hl_enumvalue" href="../../dd/dad/a00005.html#a1a971b6e72e7e5cd29d560dfaa9fdfe8ac29321ac9e23150a2e3acb0dcc0b1764">SUBPHASE_MONUMENT</a>       = 0x08,</div>
-<div class="line"><span class="lineno">  101</span>    <a class="code hl_enumvalue" href="../../dd/dad/a00005.html#a1a971b6e72e7e5cd29d560dfaa9fdfe8a449fd29e38beaff4aaa5c96915aa459f">SUBPHASE_ALL</a> = <a class="code hl_enumvalue" href="../../dd/dad/a00005.html#a1a971b6e72e7e5cd29d560dfaa9fdfe8ad4a4e1b4e65a4f58b9e10c41e1783956">SUBPHASE_PORTAL</a> | <a class="code hl_enumvalue" href="../../dd/dad/a00005.html#a1a971b6e72e7e5cd29d560dfaa9fdfe8a4d77060db8b4d0bcdf14befefe656f13">SUBPHASE_ANVIL</a> | <a class="code hl_enumvalue" href="../../dd/dad/a00005.html#a1a971b6e72e7e5cd29d560dfaa9fdfe8a2de7705acf58b5c9490bf1e95e3ead73">SUBPHASE_ALCHEMY_LAB</a> | <a class="code hl_enumvalue" href="../../dd/dad/a00005.html#a1a971b6e72e7e5cd29d560dfaa9fdfe8ac29321ac9e23150a2e3acb0dcc0b1764">SUBPHASE_MONUMENT</a>,</div>
-<div class="line"><span class="lineno">  102</span>};</div>
-<div class="ttc" id="aa00005_html_a1a971b6e72e7e5cd29d560dfaa9fdfe8a2de7705acf58b5c9490bf1e95e3ead73"><div class="ttname"><a href="../../dd/dad/a00005.html#a1a971b6e72e7e5cd29d560dfaa9fdfe8a2de7705acf58b5c9490bf1e95e3ead73">SUBPHASE_ALCHEMY_LAB</a></div><div class="ttdeci">@ SUBPHASE_ALCHEMY_LAB</div><div class="ttdef"><b>Definition:</b> WorldState.h:99</div></div>
-<div class="ttc" id="aa00005_html_a1a971b6e72e7e5cd29d560dfaa9fdfe8a449fd29e38beaff4aaa5c96915aa459f"><div class="ttname"><a href="../../dd/dad/a00005.html#a1a971b6e72e7e5cd29d560dfaa9fdfe8a449fd29e38beaff4aaa5c96915aa459f">SUBPHASE_ALL</a></div><div class="ttdeci">@ SUBPHASE_ALL</div><div class="ttdef"><b>Definition:</b> WorldState.h:101</div></div>
-<div class="ttc" id="aa00005_html_a1a971b6e72e7e5cd29d560dfaa9fdfe8a4d77060db8b4d0bcdf14befefe656f13"><div class="ttname"><a href="../../dd/dad/a00005.html#a1a971b6e72e7e5cd29d560dfaa9fdfe8a4d77060db8b4d0bcdf14befefe656f13">SUBPHASE_ANVIL</a></div><div class="ttdeci">@ SUBPHASE_ANVIL</div><div class="ttdef"><b>Definition:</b> WorldState.h:98</div></div>
-<div class="ttc" id="aa00005_html_a1a971b6e72e7e5cd29d560dfaa9fdfe8ac29321ac9e23150a2e3acb0dcc0b1764"><div class="ttname"><a href="../../dd/dad/a00005.html#a1a971b6e72e7e5cd29d560dfaa9fdfe8ac29321ac9e23150a2e3acb0dcc0b1764">SUBPHASE_MONUMENT</a></div><div class="ttdeci">@ SUBPHASE_MONUMENT</div><div class="ttdef"><b>Definition:</b> WorldState.h:100</div></div>
-<div class="ttc" id="aa00005_html_a1a971b6e72e7e5cd29d560dfaa9fdfe8ad4a4e1b4e65a4f58b9e10c41e1783956"><div class="ttname"><a href="../../dd/dad/a00005.html#a1a971b6e72e7e5cd29d560dfaa9fdfe8ad4a4e1b4e65a4f58b9e10c41e1783956">SUBPHASE_PORTAL</a></div><div class="ttdeci">@ SUBPHASE_PORTAL</div><div class="ttdef"><b>Definition:</b> WorldState.h:97</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  180</span>{</div>
+<div class="line"><span class="lineno">  181</span>    <a class="code hl_typedef" href="../../d8/d2e/a07247.html#ac76e895599b64e0824e923faf9c08560">ArenaTeamMgr::ArenaTeamContainer</a> arenaTeams;</div>
+<div class="line"><span class="lineno">  182</span>    std::vector&lt;ArenaSeasonRewardGroup&gt; rewardGroups;</div>
+<div class="line"><span class="lineno">  183</span> </div>
+<div class="line"><span class="lineno">  184</span>    <span class="comment">// Creating three teams: one below and two above the minRequiredGames threshold (30 games)</span></div>
+<div class="line"><span class="lineno">  185</span>    <a class="code hl_class" href="../../dc/d10/a07243.html">ArenaTeam</a> team1 = <a class="code hl_function" href="../../dd/dad/a00005.html#a74bb31c469b2f6e9691219589ac41a12">ArenaTeamWithRating</a>(1500, 50);  <span class="comment">// Eligible, as it has 50 games</span></div>
+<div class="line"><span class="lineno">  186</span>    <a class="code hl_class" href="../../dc/d10/a07243.html">ArenaTeam</a> team2 = <a class="code hl_function" href="../../dd/dad/a00005.html#a74bb31c469b2f6e9691219589ac41a12">ArenaTeamWithRating</a>(1100, 20);  <span class="comment">// Not eligible, as it has only 20 games</span></div>
+<div class="line"><span class="lineno">  187</span>    <a class="code hl_class" href="../../dc/d10/a07243.html">ArenaTeam</a> team3 = <a class="code hl_function" href="../../dd/dad/a00005.html#a74bb31c469b2f6e9691219589ac41a12">ArenaTeamWithRating</a>(1300, 40);  <span class="comment">// Eligible, as it has 40 games</span></div>
+<div class="line"><span class="lineno">  188</span> </div>
+<div class="line"><span class="lineno">  189</span>    <span class="comment">// Adding teams to the container</span></div>
+<div class="line"><span class="lineno">  190</span>    arenaTeams[1] = &amp;team1;</div>
+<div class="line"><span class="lineno">  191</span>    arenaTeams[2] = &amp;team2;</div>
+<div class="line"><span class="lineno">  192</span>    arenaTeams[3] = &amp;team3;</div>
+<div class="line"><span class="lineno">  193</span> </div>
+<div class="line"><span class="lineno">  194</span>    <span class="comment">// Creating a single reward group covering all teams</span></div>
+<div class="line"><span class="lineno">  195</span>    <a class="code hl_struct" href="../../d7/d4d/a07199.html">ArenaSeasonRewardGroup</a> rewardGroup;</div>
+<div class="line"><span class="lineno">  196</span>    rewardGroup.<a class="code hl_variable" href="../../d7/d4d/a07199.html#a16261356df6f5aed35bc3ec06ab49560">criteriaType</a> = <a class="code hl_enumvalue" href="../../d9/d79/a01658.html#a983281e9aada2538d6bc53ae4dd4d266a39f434bc965a3f4fafe78ece7d3f6422">ARENA_SEASON_REWARD_CRITERIA_TYPE_PERCENT_VALUE</a>;</div>
+<div class="line"><span class="lineno">  197</span>    rewardGroup.<a class="code hl_variable" href="../../d7/d4d/a07199.html#a07507bd59265508a463aa328f343afa0">minCriteria</a> = 0.0;</div>
+<div class="line"><span class="lineno">  198</span>    rewardGroup.<a class="code hl_variable" href="../../d7/d4d/a07199.html#aa3cf9a0ad2ed2170542ec360e61682e2">maxCriteria</a> = 100;</div>
+<div class="line"><span class="lineno">  199</span>    rewardGroups.push_back(rewardGroup);</div>
+<div class="line"><span class="lineno">  200</span> </div>
+<div class="line"><span class="lineno">  201</span>    <span class="comment">// We expect the rewarder to be called for team1 and team3, but not for team2.</span></div>
+<div class="line"><span class="lineno">  202</span>    EXPECT_CALL(*_mockRewarder, RewardTeamWithRewardGroup(&amp;team1, rewardGroup)).Times(1);</div>
+<div class="line"><span class="lineno">  203</span>    EXPECT_CALL(*_mockRewarder, RewardTeamWithRewardGroup(&amp;team3, rewardGroup)).Times(1);</div>
+<div class="line"><span class="lineno">  204</span>    EXPECT_CALL(*_mockRewarder, RewardTeamWithRewardGroup(&amp;team2, rewardGroup)).Times(0);</div>
+<div class="line"><span class="lineno">  205</span> </div>
+<div class="line"><span class="lineno">  206</span>    _distributor-&gt;DistributeRewards(arenaTeams, rewardGroups);</div>
+<div class="line"><span class="lineno">  207</span>}</div>
 </div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00040">ARENA_SEASON_REWARD_CRITERIA_TYPE_PERCENT_VALUE</a>, <a class="el" href="../../#l00042">ArenaTeamWithRating()</a>, <a class="el" href="../../#l00067">ArenaSeasonRewardGroup::criteriaType</a>, <a class="el" href="../../#l00070">ArenaSeasonRewardGroup::maxCriteria</a>, and <a class="el" href="../../#l00069">ArenaSeasonRewardGroup::minCriteria</a>.</p>
+
 </div>
 </div>
-<a id="a4a3013381173d98f6b2e1b401f7bd34f" name="a4a3013381173d98f6b2e1b401f7bd34f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4a3013381173d98f6b2e1b401f7bd34f">&#9670;&#160;</a></span>SunwellGateCounters</h2>
+<a id="a5a69347e03ab5eeea43bfcbffb063d52" name="a5a69347e03ab5eeea43bfcbffb063d52"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5a69347e03ab5eeea43bfcbffb063d52">&#9670;&#160;</a></span>TEST_F() <span class="overload">[3/4]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">enum <a class="el" href="../../dd/dad/a00005.html#a4a3013381173d98f6b2e1b401f7bd34f">SunwellGateCounters</a></td>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d8/d73/a28467.html">ArenaSeasonRewardDistributorTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">SingleTeamMultipleAbsRewardDistribution&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a4a3013381173d98f6b2e1b401f7bd34fac5a40f22c82be22eb0ee2e6b1414a95c" name="a4a3013381173d98f6b2e1b401f7bd34fac5a40f22c82be22eb0ee2e6b1414a95c"></a>COUNTER_AGAMATH_THE_FIRST_GATE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a4a3013381173d98f6b2e1b401f7bd34fa19cae29dd7ad9ef6c31296f891eff82f" name="a4a3013381173d98f6b2e1b401f7bd34fa19cae29dd7ad9ef6c31296f891eff82f"></a>COUNTER_ROHENDOR_THE_SECOND_GATE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a4a3013381173d98f6b2e1b401f7bd34fa7af124883dce8a02d45f5cfbb7b13c5d" name="a4a3013381173d98f6b2e1b401f7bd34fa7af124883dce8a02d45f5cfbb7b13c5d"></a>COUNTER_ARCHONISUS_THE_FINAL_GATE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a4a3013381173d98f6b2e1b401f7bd34fa0247ea5e5a42ee81a890e65bc7876d78" name="a4a3013381173d98f6b2e1b401f7bd34fa0247ea5e5a42ee81a890e65bc7876d78"></a>COUNTERS_MAX_GATES&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">  127</span>{</div>
-<div class="line"><span class="lineno">  128</span>    <a class="code hl_enumvalue" href="../../dd/dad/a00005.html#a4a3013381173d98f6b2e1b401f7bd34fac5a40f22c82be22eb0ee2e6b1414a95c">COUNTER_AGAMATH_THE_FIRST_GATE</a>,</div>
-<div class="line"><span class="lineno">  129</span>    <a class="code hl_enumvalue" href="../../dd/dad/a00005.html#a4a3013381173d98f6b2e1b401f7bd34fa19cae29dd7ad9ef6c31296f891eff82f">COUNTER_ROHENDOR_THE_SECOND_GATE</a>,</div>
-<div class="line"><span class="lineno">  130</span>    <a class="code hl_enumvalue" href="../../dd/dad/a00005.html#a4a3013381173d98f6b2e1b401f7bd34fa7af124883dce8a02d45f5cfbb7b13c5d">COUNTER_ARCHONISUS_THE_FINAL_GATE</a>,</div>
-<div class="line"><span class="lineno">  131</span>    <a class="code hl_enumvalue" href="../../dd/dad/a00005.html#a4a3013381173d98f6b2e1b401f7bd34fa0247ea5e5a42ee81a890e65bc7876d78">COUNTERS_MAX_GATES</a>,</div>
-<div class="line"><span class="lineno">  132</span>};</div>
-<div class="ttc" id="aa00005_html_a4a3013381173d98f6b2e1b401f7bd34fa0247ea5e5a42ee81a890e65bc7876d78"><div class="ttname"><a href="../../dd/dad/a00005.html#a4a3013381173d98f6b2e1b401f7bd34fa0247ea5e5a42ee81a890e65bc7876d78">COUNTERS_MAX_GATES</a></div><div class="ttdeci">@ COUNTERS_MAX_GATES</div><div class="ttdef"><b>Definition:</b> WorldState.h:131</div></div>
-<div class="ttc" id="aa00005_html_a4a3013381173d98f6b2e1b401f7bd34fa19cae29dd7ad9ef6c31296f891eff82f"><div class="ttname"><a href="../../dd/dad/a00005.html#a4a3013381173d98f6b2e1b401f7bd34fa19cae29dd7ad9ef6c31296f891eff82f">COUNTER_ROHENDOR_THE_SECOND_GATE</a></div><div class="ttdeci">@ COUNTER_ROHENDOR_THE_SECOND_GATE</div><div class="ttdef"><b>Definition:</b> WorldState.h:129</div></div>
-<div class="ttc" id="aa00005_html_a4a3013381173d98f6b2e1b401f7bd34fa7af124883dce8a02d45f5cfbb7b13c5d"><div class="ttname"><a href="../../dd/dad/a00005.html#a4a3013381173d98f6b2e1b401f7bd34fa7af124883dce8a02d45f5cfbb7b13c5d">COUNTER_ARCHONISUS_THE_FINAL_GATE</a></div><div class="ttdeci">@ COUNTER_ARCHONISUS_THE_FINAL_GATE</div><div class="ttdef"><b>Definition:</b> WorldState.h:130</div></div>
-<div class="ttc" id="aa00005_html_a4a3013381173d98f6b2e1b401f7bd34fac5a40f22c82be22eb0ee2e6b1414a95c"><div class="ttname"><a href="../../dd/dad/a00005.html#a4a3013381173d98f6b2e1b401f7bd34fac5a40f22c82be22eb0ee2e6b1414a95c">COUNTER_AGAMATH_THE_FIRST_GATE</a></div><div class="ttdeci">@ COUNTER_AGAMATH_THE_FIRST_GATE</div><div class="ttdef"><b>Definition:</b> WorldState.h:128</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   79</span>{</div>
+<div class="line"><span class="lineno">   80</span>    <a class="code hl_typedef" href="../../d8/d2e/a07247.html#ac76e895599b64e0824e923faf9c08560">ArenaTeamMgr::ArenaTeamContainer</a> arenaTeams;</div>
+<div class="line"><span class="lineno">   81</span>    std::vector&lt;ArenaSeasonRewardGroup&gt; rewardGroups;</div>
+<div class="line"><span class="lineno">   82</span> </div>
+<div class="line"><span class="lineno">   83</span>    <a class="code hl_class" href="../../dc/d10/a07243.html">ArenaTeam</a> team = <a class="code hl_function" href="../../dd/dad/a00005.html#a74bb31c469b2f6e9691219589ac41a12">ArenaTeamWithRating</a>(1500, 50);</div>
+<div class="line"><span class="lineno">   84</span>    arenaTeams[1] = &amp;team;</div>
+<div class="line"><span class="lineno">   85</span> </div>
+<div class="line"><span class="lineno">   86</span>    <a class="code hl_struct" href="../../d7/d4d/a07199.html">ArenaSeasonRewardGroup</a> rewardGroup;</div>
+<div class="line"><span class="lineno">   87</span>    rewardGroup.<a class="code hl_variable" href="../../d7/d4d/a07199.html#a16261356df6f5aed35bc3ec06ab49560">criteriaType</a> = <a class="code hl_enumvalue" href="../../d9/d79/a01658.html#a983281e9aada2538d6bc53ae4dd4d266a80897ebd11175aa1dd3435611c86dd63">ARENA_SEASON_REWARD_CRITERIA_TYPE_ABSOLUTE_VALUE</a>;</div>
+<div class="line"><span class="lineno">   88</span>    rewardGroup.<a class="code hl_variable" href="../../d7/d4d/a07199.html#a07507bd59265508a463aa328f343afa0">minCriteria</a> = 1;</div>
+<div class="line"><span class="lineno">   89</span>    rewardGroup.<a class="code hl_variable" href="../../d7/d4d/a07199.html#aa3cf9a0ad2ed2170542ec360e61682e2">maxCriteria</a> = 1;</div>
+<div class="line"><span class="lineno">   90</span>    rewardGroups.push_back(rewardGroup);</div>
+<div class="line"><span class="lineno">   91</span>    <a class="code hl_struct" href="../../d7/d4d/a07199.html">ArenaSeasonRewardGroup</a> rewardGroup2;</div>
+<div class="line"><span class="lineno">   92</span>    rewardGroup2.<a class="code hl_variable" href="../../d7/d4d/a07199.html#a16261356df6f5aed35bc3ec06ab49560">criteriaType</a> = <a class="code hl_enumvalue" href="../../d9/d79/a01658.html#a983281e9aada2538d6bc53ae4dd4d266a80897ebd11175aa1dd3435611c86dd63">ARENA_SEASON_REWARD_CRITERIA_TYPE_ABSOLUTE_VALUE</a>;</div>
+<div class="line"><span class="lineno">   93</span>    rewardGroup2.<a class="code hl_variable" href="../../d7/d4d/a07199.html#a07507bd59265508a463aa328f343afa0">minCriteria</a> = 2;</div>
+<div class="line"><span class="lineno">   94</span>    rewardGroup2.<a class="code hl_variable" href="../../d7/d4d/a07199.html#aa3cf9a0ad2ed2170542ec360e61682e2">maxCriteria</a> = 10;</div>
+<div class="line"><span class="lineno">   95</span>    rewardGroups.push_back(rewardGroup2);</div>
+<div class="line"><span class="lineno">   96</span> </div>
+<div class="line"><span class="lineno">   97</span>    EXPECT_CALL(*_mockRewarder, RewardTeamWithRewardGroup(&amp;team, rewardGroup)).Times(1);</div>
+<div class="line"><span class="lineno">   98</span> </div>
+<div class="line"><span class="lineno">   99</span>    _distributor-&gt;DistributeRewards(arenaTeams, rewardGroups);</div>
+<div class="line"><span class="lineno">  100</span>}</div>
 </div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00041">ARENA_SEASON_REWARD_CRITERIA_TYPE_ABSOLUTE_VALUE</a>, <a class="el" href="../../#l00042">ArenaTeamWithRating()</a>, <a class="el" href="../../#l00067">ArenaSeasonRewardGroup::criteriaType</a>, <a class="el" href="../../#l00070">ArenaSeasonRewardGroup::maxCriteria</a>, and <a class="el" href="../../#l00069">ArenaSeasonRewardGroup::minCriteria</a>.</p>
+
 </div>
 </div>
-<a id="a30222a7d596ba08b5141b96da67ec7eb" name="a30222a7d596ba08b5141b96da67ec7eb"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a30222a7d596ba08b5141b96da67ec7eb">&#9670;&#160;</a></span>SunwellGates</h2>
+<a id="a1ba0a1dda2222e2d5931f54c84ed5162" name="a1ba0a1dda2222e2d5931f54c84ed5162"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1ba0a1dda2222e2d5931f54c84ed5162">&#9670;&#160;</a></span>TEST_F() <span class="overload">[4/4]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">enum <a class="el" href="../../dd/dad/a00005.html#a30222a7d596ba08b5141b96da67ec7eb">SunwellGates</a></td>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d8/d73/a28467.html">ArenaSeasonRewardDistributorTest</a>&#160;</td>
+          <td class="paramname">, </td>
         </tr>
-      </table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a30222a7d596ba08b5141b96da67ec7eba8e9efb46ed96537c672046bd063481c4" name="a30222a7d596ba08b5141b96da67ec7eba8e9efb46ed96537c672046bd063481c4"></a>SUNWELL_ALL_GATES_CLOSED&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a30222a7d596ba08b5141b96da67ec7ebab502da8d18813b99e43f7b4584f6e574" name="a30222a7d596ba08b5141b96da67ec7ebab502da8d18813b99e43f7b4584f6e574"></a>SUNWELL_AGAMATH_GATE1_OPEN&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a30222a7d596ba08b5141b96da67ec7ebad194a9ec7ca0ffecdcabcb6d7d8ebdb7" name="a30222a7d596ba08b5141b96da67ec7ebad194a9ec7ca0ffecdcabcb6d7d8ebdb7"></a>SUNWELL_ROHENDOR_GATE2_OPEN&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a30222a7d596ba08b5141b96da67ec7eba2c50969cc9ec8d5d0f0e217e85764fc4" name="a30222a7d596ba08b5141b96da67ec7eba2c50969cc9ec8d5d0f0e217e85764fc4"></a>SUNWELL_ARCHONISUS_GATE3_OPEN&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">  120</span>{</div>
-<div class="line"><span class="lineno">  121</span>    <a class="code hl_enumvalue" href="../../dd/dad/a00005.html#a30222a7d596ba08b5141b96da67ec7eba8e9efb46ed96537c672046bd063481c4">SUNWELL_ALL_GATES_CLOSED</a>,</div>
-<div class="line"><span class="lineno">  122</span>    <a class="code hl_enumvalue" href="../../dd/dad/a00005.html#a30222a7d596ba08b5141b96da67ec7ebab502da8d18813b99e43f7b4584f6e574">SUNWELL_AGAMATH_GATE1_OPEN</a>,</div>
-<div class="line"><span class="lineno">  123</span>    <a class="code hl_enumvalue" href="../../dd/dad/a00005.html#a30222a7d596ba08b5141b96da67ec7ebad194a9ec7ca0ffecdcabcb6d7d8ebdb7">SUNWELL_ROHENDOR_GATE2_OPEN</a>,</div>
-<div class="line"><span class="lineno">  124</span>    <a class="code hl_enumvalue" href="../../dd/dad/a00005.html#a30222a7d596ba08b5141b96da67ec7eba2c50969cc9ec8d5d0f0e217e85764fc4">SUNWELL_ARCHONISUS_GATE3_OPEN</a>,</div>
-<div class="line"><span class="lineno">  125</span>};</div>
-<div class="ttc" id="aa00005_html_a30222a7d596ba08b5141b96da67ec7eba2c50969cc9ec8d5d0f0e217e85764fc4"><div class="ttname"><a href="../../dd/dad/a00005.html#a30222a7d596ba08b5141b96da67ec7eba2c50969cc9ec8d5d0f0e217e85764fc4">SUNWELL_ARCHONISUS_GATE3_OPEN</a></div><div class="ttdeci">@ SUNWELL_ARCHONISUS_GATE3_OPEN</div><div class="ttdef"><b>Definition:</b> WorldState.h:124</div></div>
-<div class="ttc" id="aa00005_html_a30222a7d596ba08b5141b96da67ec7eba8e9efb46ed96537c672046bd063481c4"><div class="ttname"><a href="../../dd/dad/a00005.html#a30222a7d596ba08b5141b96da67ec7eba8e9efb46ed96537c672046bd063481c4">SUNWELL_ALL_GATES_CLOSED</a></div><div class="ttdeci">@ SUNWELL_ALL_GATES_CLOSED</div><div class="ttdef"><b>Definition:</b> WorldState.h:121</div></div>
-<div class="ttc" id="aa00005_html_a30222a7d596ba08b5141b96da67ec7ebab502da8d18813b99e43f7b4584f6e574"><div class="ttname"><a href="../../dd/dad/a00005.html#a30222a7d596ba08b5141b96da67ec7ebab502da8d18813b99e43f7b4584f6e574">SUNWELL_AGAMATH_GATE1_OPEN</a></div><div class="ttdeci">@ SUNWELL_AGAMATH_GATE1_OPEN</div><div class="ttdef"><b>Definition:</b> WorldState.h:122</div></div>
-<div class="ttc" id="aa00005_html_a30222a7d596ba08b5141b96da67ec7ebad194a9ec7ca0ffecdcabcb6d7d8ebdb7"><div class="ttname"><a href="../../dd/dad/a00005.html#a30222a7d596ba08b5141b96da67ec7ebad194a9ec7ca0ffecdcabcb6d7d8ebdb7">SUNWELL_ROHENDOR_GATE2_OPEN</a></div><div class="ttdeci">@ SUNWELL_ROHENDOR_GATE2_OPEN</div><div class="ttdef"><b>Definition:</b> WorldState.h:123</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="afa57b7026eb6e127e388f149e349ccb6" name="afa57b7026eb6e127e388f149e349ccb6"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#afa57b7026eb6e127e388f149e349ccb6">&#9670;&#160;</a></span>WorldStateCondition</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
         <tr>
-          <td class="memname">enum <a class="el" href="../../dd/dad/a00005.html#afa57b7026eb6e127e388f149e349ccb6">WorldStateCondition</a></td>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">SingleTeamMultiplePctRewardDistribution&#160;</td>
+          <td class="paramname">&#160;</td>
         </tr>
-      </table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="afa57b7026eb6e127e388f149e349ccb6af5369c5be7548a1e9ec08b006e73feeb" name="afa57b7026eb6e127e388f149e349ccb6af5369c5be7548a1e9ec08b006e73feeb"></a>WORLD_STATE_CONDITION_TROLLBANES_COMMAND&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="afa57b7026eb6e127e388f149e349ccb6ab8441229f6aecd4dc9dd1e3f3f835f8e" name="afa57b7026eb6e127e388f149e349ccb6ab8441229f6aecd4dc9dd1e3f3f835f8e"></a>WORLD_STATE_CONDITION_NAZGRELS_FAVOR&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="afa57b7026eb6e127e388f149e349ccb6a5d0ef449051867fa252bdaaecb6f7e1f" name="afa57b7026eb6e127e388f149e349ccb6a5d0ef449051867fa252bdaaecb6f7e1f"></a>WORLD_STATE_CONDITION_THE_THUNDERCALLER&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="afa57b7026eb6e127e388f149e349ccb6a9665ded148821c41501866620a5ba50f" name="afa57b7026eb6e127e388f149e349ccb6a9665ded148821c41501866620a5ba50f"></a>WORLD_STATE_CONDITION_THE_IRON_EAGLE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="afa57b7026eb6e127e388f149e349ccb6af4db95d45b322084d64483ad02f862ff" name="afa57b7026eb6e127e388f149e349ccb6af4db95d45b322084d64483ad02f862ff"></a>WORLD_STATE_CONDITION_THE_PURPLE_PRINCESS&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">   26</span>{</div>
-<div class="line"><span class="lineno">   27</span>    <a class="code hl_enumvalue" href="../../dd/dad/a00005.html#afa57b7026eb6e127e388f149e349ccb6af5369c5be7548a1e9ec08b006e73feeb">WORLD_STATE_CONDITION_TROLLBANES_COMMAND</a>  = 39911,</div>
-<div class="line"><span class="lineno">   28</span>    <a class="code hl_enumvalue" href="../../dd/dad/a00005.html#afa57b7026eb6e127e388f149e349ccb6ab8441229f6aecd4dc9dd1e3f3f835f8e">WORLD_STATE_CONDITION_NAZGRELS_FAVOR</a>      = 39913,</div>
-<div class="line"><span class="lineno">   29</span>    <span class="comment">// Zeppelins</span></div>
-<div class="line"><span class="lineno">   30</span>    <a class="code hl_enumvalue" href="../../dd/dad/a00005.html#afa57b7026eb6e127e388f149e349ccb6a5d0ef449051867fa252bdaaecb6f7e1f">WORLD_STATE_CONDITION_THE_THUNDERCALLER</a>   = 164871,</div>
-<div class="line"><span class="lineno">   31</span>    <a class="code hl_enumvalue" href="../../dd/dad/a00005.html#afa57b7026eb6e127e388f149e349ccb6a9665ded148821c41501866620a5ba50f">WORLD_STATE_CONDITION_THE_IRON_EAGLE</a>      = 175080,</div>
-<div class="line"><span class="lineno">   32</span>    <a class="code hl_enumvalue" href="../../dd/dad/a00005.html#afa57b7026eb6e127e388f149e349ccb6af4db95d45b322084d64483ad02f862ff">WORLD_STATE_CONDITION_THE_PURPLE_PRINCESS</a> = 176495,</div>
-<div class="line"><span class="lineno">   33</span>};</div>
-<div class="ttc" id="aa00005_html_afa57b7026eb6e127e388f149e349ccb6a5d0ef449051867fa252bdaaecb6f7e1f"><div class="ttname"><a href="../../dd/dad/a00005.html#afa57b7026eb6e127e388f149e349ccb6a5d0ef449051867fa252bdaaecb6f7e1f">WORLD_STATE_CONDITION_THE_THUNDERCALLER</a></div><div class="ttdeci">@ WORLD_STATE_CONDITION_THE_THUNDERCALLER</div><div class="ttdef"><b>Definition:</b> WorldState.h:30</div></div>
-<div class="ttc" id="aa00005_html_afa57b7026eb6e127e388f149e349ccb6a9665ded148821c41501866620a5ba50f"><div class="ttname"><a href="../../dd/dad/a00005.html#afa57b7026eb6e127e388f149e349ccb6a9665ded148821c41501866620a5ba50f">WORLD_STATE_CONDITION_THE_IRON_EAGLE</a></div><div class="ttdeci">@ WORLD_STATE_CONDITION_THE_IRON_EAGLE</div><div class="ttdef"><b>Definition:</b> WorldState.h:31</div></div>
-<div class="ttc" id="aa00005_html_afa57b7026eb6e127e388f149e349ccb6ab8441229f6aecd4dc9dd1e3f3f835f8e"><div class="ttname"><a href="../../dd/dad/a00005.html#afa57b7026eb6e127e388f149e349ccb6ab8441229f6aecd4dc9dd1e3f3f835f8e">WORLD_STATE_CONDITION_NAZGRELS_FAVOR</a></div><div class="ttdeci">@ WORLD_STATE_CONDITION_NAZGRELS_FAVOR</div><div class="ttdef"><b>Definition:</b> WorldState.h:28</div></div>
-<div class="ttc" id="aa00005_html_afa57b7026eb6e127e388f149e349ccb6af4db95d45b322084d64483ad02f862ff"><div class="ttname"><a href="../../dd/dad/a00005.html#afa57b7026eb6e127e388f149e349ccb6af4db95d45b322084d64483ad02f862ff">WORLD_STATE_CONDITION_THE_PURPLE_PRINCESS</a></div><div class="ttdeci">@ WORLD_STATE_CONDITION_THE_PURPLE_PRINCESS</div><div class="ttdef"><b>Definition:</b> WorldState.h:32</div></div>
-<div class="ttc" id="aa00005_html_afa57b7026eb6e127e388f149e349ccb6af5369c5be7548a1e9ec08b006e73feeb"><div class="ttname"><a href="../../dd/dad/a00005.html#afa57b7026eb6e127e388f149e349ccb6af5369c5be7548a1e9ec08b006e73feeb">WORLD_STATE_CONDITION_TROLLBANES_COMMAND</a></div><div class="ttdeci">@ WORLD_STATE_CONDITION_TROLLBANES_COMMAND</div><div class="ttdef"><b>Definition:</b> WorldState.h:27</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="a4ecea2a2bb4e9623ef98bf8c32d546a4" name="a4ecea2a2bb4e9623ef98bf8c32d546a4"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4ecea2a2bb4e9623ef98bf8c32d546a4">&#9670;&#160;</a></span>WorldStateConditionState</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
         <tr>
-          <td class="memname">enum <a class="el" href="../../dd/dad/a00005.html#a4ecea2a2bb4e9623ef98bf8c32d546a4">WorldStateConditionState</a></td>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a4ecea2a2bb4e9623ef98bf8c32d546a4a0ecc6b01d71dceaffaf31c7620bea0de" name="a4ecea2a2bb4e9623ef98bf8c32d546a4a0ecc6b01d71dceaffaf31c7620bea0de"></a>WORLD_STATE_CONDITION_STATE_NONE&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">   36</span>{</div>
-<div class="line"><span class="lineno">   37</span>    <a class="code hl_enumvalue" href="../../dd/dad/a00005.html#a4ecea2a2bb4e9623ef98bf8c32d546a4a0ecc6b01d71dceaffaf31c7620bea0de">WORLD_STATE_CONDITION_STATE_NONE</a> = 0,</div>
-<div class="line"><span class="lineno">   38</span>};</div>
-<div class="ttc" id="aa00005_html_a4ecea2a2bb4e9623ef98bf8c32d546a4a0ecc6b01d71dceaffaf31c7620bea0de"><div class="ttname"><a href="../../dd/dad/a00005.html#a4ecea2a2bb4e9623ef98bf8c32d546a4a0ecc6b01d71dceaffaf31c7620bea0de">WORLD_STATE_CONDITION_STATE_NONE</a></div><div class="ttdeci">@ WORLD_STATE_CONDITION_STATE_NONE</div><div class="ttdef"><b>Definition:</b> WorldState.h:37</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   54</span>{</div>
+<div class="line"><span class="lineno">   55</span>    <a class="code hl_typedef" href="../../d8/d2e/a07247.html#ac76e895599b64e0824e923faf9c08560">ArenaTeamMgr::ArenaTeamContainer</a> arenaTeams;</div>
+<div class="line"><span class="lineno">   56</span>    std::vector&lt;ArenaSeasonRewardGroup&gt; rewardGroups;</div>
+<div class="line"><span class="lineno">   57</span> </div>
+<div class="line"><span class="lineno">   58</span>    <a class="code hl_class" href="../../dc/d10/a07243.html">ArenaTeam</a> team = <a class="code hl_function" href="../../dd/dad/a00005.html#a74bb31c469b2f6e9691219589ac41a12">ArenaTeamWithRating</a>(1500, 50);</div>
+<div class="line"><span class="lineno">   59</span>    arenaTeams[1] = &amp;team;</div>
+<div class="line"><span class="lineno">   60</span> </div>
+<div class="line"><span class="lineno">   61</span>    <a class="code hl_struct" href="../../d7/d4d/a07199.html">ArenaSeasonRewardGroup</a> rewardGroup;</div>
+<div class="line"><span class="lineno">   62</span>    rewardGroup.<a class="code hl_variable" href="../../d7/d4d/a07199.html#a16261356df6f5aed35bc3ec06ab49560">criteriaType</a> = <a class="code hl_enumvalue" href="../../d9/d79/a01658.html#a983281e9aada2538d6bc53ae4dd4d266a39f434bc965a3f4fafe78ece7d3f6422">ARENA_SEASON_REWARD_CRITERIA_TYPE_PERCENT_VALUE</a>;</div>
+<div class="line"><span class="lineno">   63</span>    rewardGroup.<a class="code hl_variable" href="../../d7/d4d/a07199.html#a07507bd59265508a463aa328f343afa0">minCriteria</a> = 0;</div>
+<div class="line"><span class="lineno">   64</span>    rewardGroup.<a class="code hl_variable" href="../../d7/d4d/a07199.html#aa3cf9a0ad2ed2170542ec360e61682e2">maxCriteria</a> = 0.5;</div>
+<div class="line"><span class="lineno">   65</span>    rewardGroups.push_back(rewardGroup);</div>
+<div class="line"><span class="lineno">   66</span>    <a class="code hl_struct" href="../../d7/d4d/a07199.html">ArenaSeasonRewardGroup</a> rewardGroup2;</div>
+<div class="line"><span class="lineno">   67</span>    rewardGroup2.<a class="code hl_variable" href="../../d7/d4d/a07199.html#a16261356df6f5aed35bc3ec06ab49560">criteriaType</a> = <a class="code hl_enumvalue" href="../../d9/d79/a01658.html#a983281e9aada2538d6bc53ae4dd4d266a39f434bc965a3f4fafe78ece7d3f6422">ARENA_SEASON_REWARD_CRITERIA_TYPE_PERCENT_VALUE</a>;</div>
+<div class="line"><span class="lineno">   68</span>    rewardGroup2.<a class="code hl_variable" href="../../d7/d4d/a07199.html#a07507bd59265508a463aa328f343afa0">minCriteria</a> = 0.5;</div>
+<div class="line"><span class="lineno">   69</span>    rewardGroup2.<a class="code hl_variable" href="../../d7/d4d/a07199.html#aa3cf9a0ad2ed2170542ec360e61682e2">maxCriteria</a> = 100;</div>
+<div class="line"><span class="lineno">   70</span>    rewardGroups.push_back(rewardGroup2);</div>
+<div class="line"><span class="lineno">   71</span> </div>
+<div class="line"><span class="lineno">   72</span>    EXPECT_CALL(*_mockRewarder, RewardTeamWithRewardGroup(&amp;team, rewardGroup2)).Times(1);</div>
+<div class="line"><span class="lineno">   73</span> </div>
+<div class="line"><span class="lineno">   74</span>    _distributor-&gt;DistributeRewards(arenaTeams, rewardGroups);</div>
+<div class="line"><span class="lineno">   75</span>}</div>
 </div><!-- fragment -->
-</div>
-</div>
-<a id="adc7b7b38a655f2354624ac5335163266" name="adc7b7b38a655f2354624ac5335163266"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#adc7b7b38a655f2354624ac5335163266">&#9670;&#160;</a></span>WorldStateEvent</h2>
+<p class="reference">References <a class="el" href="../../#l00040">ARENA_SEASON_REWARD_CRITERIA_TYPE_PERCENT_VALUE</a>, <a class="el" href="../../#l00042">ArenaTeamWithRating()</a>, <a class="el" href="../../#l00067">ArenaSeasonRewardGroup::criteriaType</a>, <a class="el" href="../../#l00070">ArenaSeasonRewardGroup::maxCriteria</a>, and <a class="el" href="../../#l00069">ArenaSeasonRewardGroup::minCriteria</a>.</p>
 
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">enum <a class="el" href="../../dd/dad/a00005.html#adc7b7b38a655f2354624ac5335163266">WorldStateEvent</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="adc7b7b38a655f2354624ac5335163266aa2c3350c135eec4653e10f9a416d4ae8" name="adc7b7b38a655f2354624ac5335163266aa2c3350c135eec4653e10f9a416d4ae8"></a>WORLD_STATE_CUSTOM_EVENT_ON_ADALS_SONG_OF_BATTLE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="adc7b7b38a655f2354624ac5335163266ae87a6f363d942d1928ba2b052ab2f88e" name="adc7b7b38a655f2354624ac5335163266ae87a6f363d942d1928ba2b052ab2f88e"></a>WORLD_STATE_CUSTOM_EVENT_ON_MAGTHERIDON_HEAD_SPAWN&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="adc7b7b38a655f2354624ac5335163266a4c5ce93e17daa3d8df5b892b3d76af2b" name="adc7b7b38a655f2354624ac5335163266a4c5ce93e17daa3d8df5b892b3d76af2b"></a>WORLD_STATE_CUSTOM_EVENT_ON_MAGTHERIDON_HEAD_DESPAWN&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">   41</span>{</div>
-<div class="line"><span class="lineno">   42</span>    <a class="code hl_enumvalue" href="../../dd/dad/a00005.html#adc7b7b38a655f2354624ac5335163266aa2c3350c135eec4653e10f9a416d4ae8">WORLD_STATE_CUSTOM_EVENT_ON_ADALS_SONG_OF_BATTLE</a>     = 39953,</div>
-<div class="line"><span class="lineno">   43</span>    <a class="code hl_enumvalue" href="../../dd/dad/a00005.html#adc7b7b38a655f2354624ac5335163266ae87a6f363d942d1928ba2b052ab2f88e">WORLD_STATE_CUSTOM_EVENT_ON_MAGTHERIDON_HEAD_SPAWN</a>   = 184640,</div>
-<div class="line"><span class="lineno">   44</span>    <a class="code hl_enumvalue" href="../../dd/dad/a00005.html#adc7b7b38a655f2354624ac5335163266a4c5ce93e17daa3d8df5b892b3d76af2b">WORLD_STATE_CUSTOM_EVENT_ON_MAGTHERIDON_HEAD_DESPAWN</a> = 184641,</div>
-<div class="line"><span class="lineno">   45</span>};</div>
-<div class="ttc" id="aa00005_html_adc7b7b38a655f2354624ac5335163266a4c5ce93e17daa3d8df5b892b3d76af2b"><div class="ttname"><a href="../../dd/dad/a00005.html#adc7b7b38a655f2354624ac5335163266a4c5ce93e17daa3d8df5b892b3d76af2b">WORLD_STATE_CUSTOM_EVENT_ON_MAGTHERIDON_HEAD_DESPAWN</a></div><div class="ttdeci">@ WORLD_STATE_CUSTOM_EVENT_ON_MAGTHERIDON_HEAD_DESPAWN</div><div class="ttdef"><b>Definition:</b> WorldState.h:44</div></div>
-<div class="ttc" id="aa00005_html_adc7b7b38a655f2354624ac5335163266aa2c3350c135eec4653e10f9a416d4ae8"><div class="ttname"><a href="../../dd/dad/a00005.html#adc7b7b38a655f2354624ac5335163266aa2c3350c135eec4653e10f9a416d4ae8">WORLD_STATE_CUSTOM_EVENT_ON_ADALS_SONG_OF_BATTLE</a></div><div class="ttdeci">@ WORLD_STATE_CUSTOM_EVENT_ON_ADALS_SONG_OF_BATTLE</div><div class="ttdef"><b>Definition:</b> WorldState.h:42</div></div>
-<div class="ttc" id="aa00005_html_adc7b7b38a655f2354624ac5335163266ae87a6f363d942d1928ba2b052ab2f88e"><div class="ttname"><a href="../../dd/dad/a00005.html#adc7b7b38a655f2354624ac5335163266ae87a6f363d942d1928ba2b052ab2f88e">WORLD_STATE_CUSTOM_EVENT_ON_MAGTHERIDON_HEAD_SPAWN</a></div><div class="ttdeci">@ WORLD_STATE_CUSTOM_EVENT_ON_MAGTHERIDON_HEAD_SPAWN</div><div class="ttdef"><b>Definition:</b> WorldState.h:43</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="a7f47feca28234245c0857650572c5780" name="a7f47feca28234245c0857650572c5780"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a7f47feca28234245c0857650572c5780">&#9670;&#160;</a></span>WorldStateGameEvents</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">enum <a class="el" href="../../dd/dad/a00005.html#a7f47feca28234245c0857650572c5780">WorldStateGameEvents</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a7f47feca28234245c0857650572c5780ae5520992190d7cad4d3003679f654164" name="a7f47feca28234245c0857650572c5780ae5520992190d7cad4d3003679f654164"></a>GAME_EVENT_QUEL_DANAS_PHASE_1&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a7f47feca28234245c0857650572c5780ac5cb6f79cbb24ebcb7f9c508826b8f32" name="a7f47feca28234245c0857650572c5780ac5cb6f79cbb24ebcb7f9c508826b8f32"></a>GAME_EVENT_QUEL_DANAS_PHASE_2_ONLY&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a7f47feca28234245c0857650572c5780a865824023c30d8881ad0d473fc74d850" name="a7f47feca28234245c0857650572c5780a865824023c30d8881ad0d473fc74d850"></a>GAME_EVENT_QUEL_DANAS_PHASE_2_PERMANENT&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a7f47feca28234245c0857650572c5780a955ffa53767730c30e65fb0b1a19cd2e" name="a7f47feca28234245c0857650572c5780a955ffa53767730c30e65fb0b1a19cd2e"></a>GAME_EVENT_QUEL_DANAS_PHASE_2_NO_PORTAL&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a7f47feca28234245c0857650572c5780a098f13784dc87ba5eb03fdb180918bd3" name="a7f47feca28234245c0857650572c5780a098f13784dc87ba5eb03fdb180918bd3"></a>GAME_EVENT_QUEL_DANAS_PHASE_2_PORTAL&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a7f47feca28234245c0857650572c5780a3bbe84b7ad256db4c8a69f40d1d9906f" name="a7f47feca28234245c0857650572c5780a3bbe84b7ad256db4c8a69f40d1d9906f"></a>GAME_EVENT_QUEL_DANAS_PHASE_3_ONLY&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a7f47feca28234245c0857650572c5780abc22f906ec988e522bb3fbd9d5f49b2b" name="a7f47feca28234245c0857650572c5780abc22f906ec988e522bb3fbd9d5f49b2b"></a>GAME_EVENT_QUEL_DANAS_PHASE_3_PERMANENT&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a7f47feca28234245c0857650572c5780a982866fd1ea3dc7295b56478278dcc6d" name="a7f47feca28234245c0857650572c5780a982866fd1ea3dc7295b56478278dcc6d"></a>GAME_EVENT_QUEL_DANAS_PHASE_3_NO_ANVIL&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a7f47feca28234245c0857650572c5780a858498a06e8dad4b35e61d229573239f" name="a7f47feca28234245c0857650572c5780a858498a06e8dad4b35e61d229573239f"></a>GAME_EVENT_QUEL_DANAS_PHASE_3_ANVIL&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a7f47feca28234245c0857650572c5780a98d4bd3e61e229b461dc177eece1e83a" name="a7f47feca28234245c0857650572c5780a98d4bd3e61e229b461dc177eece1e83a"></a>GAME_EVENT_QUEL_DANAS_PHASE_4&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a7f47feca28234245c0857650572c5780a9974731c2acb170f5647424100e43c7a" name="a7f47feca28234245c0857650572c5780a9974731c2acb170f5647424100e43c7a"></a>GAME_EVENT_QUEL_DANAS_PHASE_4_NO_MONUMENT&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a7f47feca28234245c0857650572c5780a2fbc409aeb61c5d20ff2393062741bff" name="a7f47feca28234245c0857650572c5780a2fbc409aeb61c5d20ff2393062741bff"></a>GAME_EVENT_QUEL_DANAS_PHASE_4_MONUMENT&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a7f47feca28234245c0857650572c5780a34ba50ef842ffe3bb0b34660b6da6c86" name="a7f47feca28234245c0857650572c5780a34ba50ef842ffe3bb0b34660b6da6c86"></a>GAME_EVENT_QUEL_DANAS_PHASE_4_NO_ALCHEMY_LAB&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a7f47feca28234245c0857650572c5780afa50c0d5d0af7ac2567dca5d916f842c" name="a7f47feca28234245c0857650572c5780afa50c0d5d0af7ac2567dca5d916f842c"></a>GAME_EVENT_QUEL_DANAS_PHASE_4_ALCHEMY_LAB&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a7f47feca28234245c0857650572c5780a8272eb3e0a97f786160757d670d64b21" name="a7f47feca28234245c0857650572c5780a8272eb3e0a97f786160757d670d64b21"></a>GAME_EVENT_QUEL_DANAS_PHASE_4_KIRU&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a7f47feca28234245c0857650572c5780ae77dd18a9c0bb1d3f2194ae6d402b423" name="a7f47feca28234245c0857650572c5780ae77dd18a9c0bb1d3f2194ae6d402b423"></a>GAME_EVENT_SWP_GATES_PHASE_0&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a7f47feca28234245c0857650572c5780a9dfc64311fa072d23db3fd0f2602ec9b" name="a7f47feca28234245c0857650572c5780a9dfc64311fa072d23db3fd0f2602ec9b"></a>GAME_EVENT_SWP_GATES_PHASE_1&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a7f47feca28234245c0857650572c5780aef10a818749572edf44cfa356ecd4e2c" name="a7f47feca28234245c0857650572c5780aef10a818749572edf44cfa356ecd4e2c"></a>GAME_EVENT_SWP_GATES_PHASE_2&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a7f47feca28234245c0857650572c5780ac22176a2f30abaea84dd6dd7d01cd3e8" name="a7f47feca28234245c0857650572c5780ac22176a2f30abaea84dd6dd7d01cd3e8"></a>GAME_EVENT_SWP_GATES_PHASE_3&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">   63</span>{</div>
-<div class="line"><span class="lineno">   64</span>   <span class="comment">// Isle phases</span></div>
-<div class="line"><span class="lineno">   65</span>    <a class="code hl_enumvalue" href="../../dd/dad/a00005.html#a7f47feca28234245c0857650572c5780ae5520992190d7cad4d3003679f654164">GAME_EVENT_QUEL_DANAS_PHASE_1</a>               = 101,</div>
-<div class="line"><span class="lineno">   66</span>    <a class="code hl_enumvalue" href="../../dd/dad/a00005.html#a7f47feca28234245c0857650572c5780ac5cb6f79cbb24ebcb7f9c508826b8f32">GAME_EVENT_QUEL_DANAS_PHASE_2_ONLY</a>          = 102,</div>
-<div class="line"><span class="lineno">   67</span>    <a class="code hl_enumvalue" href="../../dd/dad/a00005.html#a7f47feca28234245c0857650572c5780a865824023c30d8881ad0d473fc74d850">GAME_EVENT_QUEL_DANAS_PHASE_2_PERMANENT</a>     = 103,</div>
-<div class="line"><span class="lineno">   68</span>    <a class="code hl_enumvalue" href="../../dd/dad/a00005.html#a7f47feca28234245c0857650572c5780a955ffa53767730c30e65fb0b1a19cd2e">GAME_EVENT_QUEL_DANAS_PHASE_2_NO_PORTAL</a>     = 104,</div>
-<div class="line"><span class="lineno">   69</span>    <a class="code hl_enumvalue" href="../../dd/dad/a00005.html#a7f47feca28234245c0857650572c5780a098f13784dc87ba5eb03fdb180918bd3">GAME_EVENT_QUEL_DANAS_PHASE_2_PORTAL</a>        = 105,</div>
-<div class="line"><span class="lineno">   70</span>    <a class="code hl_enumvalue" href="../../dd/dad/a00005.html#a7f47feca28234245c0857650572c5780a3bbe84b7ad256db4c8a69f40d1d9906f">GAME_EVENT_QUEL_DANAS_PHASE_3_ONLY</a>          = 106,</div>
-<div class="line"><span class="lineno">   71</span>    <a class="code hl_enumvalue" href="../../dd/dad/a00005.html#a7f47feca28234245c0857650572c5780abc22f906ec988e522bb3fbd9d5f49b2b">GAME_EVENT_QUEL_DANAS_PHASE_3_PERMANENT</a>     = 107,</div>
-<div class="line"><span class="lineno">   72</span>    <a class="code hl_enumvalue" href="../../dd/dad/a00005.html#a7f47feca28234245c0857650572c5780a982866fd1ea3dc7295b56478278dcc6d">GAME_EVENT_QUEL_DANAS_PHASE_3_NO_ANVIL</a>      = 108,</div>
-<div class="line"><span class="lineno">   73</span>    <a class="code hl_enumvalue" href="../../dd/dad/a00005.html#a7f47feca28234245c0857650572c5780a858498a06e8dad4b35e61d229573239f">GAME_EVENT_QUEL_DANAS_PHASE_3_ANVIL</a>         = 109,</div>
-<div class="line"><span class="lineno">   74</span>    <a class="code hl_enumvalue" href="../../dd/dad/a00005.html#a7f47feca28234245c0857650572c5780a98d4bd3e61e229b461dc177eece1e83a">GAME_EVENT_QUEL_DANAS_PHASE_4</a>               = 110,</div>
-<div class="line"><span class="lineno">   75</span>    <a class="code hl_enumvalue" href="../../dd/dad/a00005.html#a7f47feca28234245c0857650572c5780a9974731c2acb170f5647424100e43c7a">GAME_EVENT_QUEL_DANAS_PHASE_4_NO_MONUMENT</a>   = 111,</div>
-<div class="line"><span class="lineno">   76</span>    <a class="code hl_enumvalue" href="../../dd/dad/a00005.html#a7f47feca28234245c0857650572c5780a2fbc409aeb61c5d20ff2393062741bff">GAME_EVENT_QUEL_DANAS_PHASE_4_MONUMENT</a>      = 112,</div>
-<div class="line"><span class="lineno">   77</span>    <a class="code hl_enumvalue" href="../../dd/dad/a00005.html#a7f47feca28234245c0857650572c5780a34ba50ef842ffe3bb0b34660b6da6c86">GAME_EVENT_QUEL_DANAS_PHASE_4_NO_ALCHEMY_LAB</a>= 113,</div>
-<div class="line"><span class="lineno">   78</span>    <a class="code hl_enumvalue" href="../../dd/dad/a00005.html#a7f47feca28234245c0857650572c5780afa50c0d5d0af7ac2567dca5d916f842c">GAME_EVENT_QUEL_DANAS_PHASE_4_ALCHEMY_LAB</a>   = 114,</div>
-<div class="line"><span class="lineno">   79</span>    <a class="code hl_enumvalue" href="../../dd/dad/a00005.html#a7f47feca28234245c0857650572c5780a8272eb3e0a97f786160757d670d64b21">GAME_EVENT_QUEL_DANAS_PHASE_4_KIRU</a>          = 115,</div>
-<div class="line"><span class="lineno">   80</span>    <span class="comment">// SWP Phases</span></div>
-<div class="line"><span class="lineno">   81</span>    <a class="code hl_enumvalue" href="../../dd/dad/a00005.html#a7f47feca28234245c0857650572c5780ae77dd18a9c0bb1d3f2194ae6d402b423">GAME_EVENT_SWP_GATES_PHASE_0</a>                = 116, <span class="comment">// All Gates Closed</span></div>
-<div class="line"><span class="lineno">   82</span>    <a class="code hl_enumvalue" href="../../dd/dad/a00005.html#a7f47feca28234245c0857650572c5780a9dfc64311fa072d23db3fd0f2602ec9b">GAME_EVENT_SWP_GATES_PHASE_1</a>                = 117, <span class="comment">// First Gate Open</span></div>
-<div class="line"><span class="lineno">   83</span>    <a class="code hl_enumvalue" href="../../dd/dad/a00005.html#a7f47feca28234245c0857650572c5780aef10a818749572edf44cfa356ecd4e2c">GAME_EVENT_SWP_GATES_PHASE_2</a>                = 118, <span class="comment">// Second Gate Open</span></div>
-<div class="line"><span class="lineno">   84</span>    <a class="code hl_enumvalue" href="../../dd/dad/a00005.html#a7f47feca28234245c0857650572c5780ac22176a2f30abaea84dd6dd7d01cd3e8">GAME_EVENT_SWP_GATES_PHASE_3</a>                = 119, <span class="comment">// All Gates Open</span></div>
-<div class="line"><span class="lineno">   85</span>};</div>
-<div class="ttc" id="aa00005_html_a7f47feca28234245c0857650572c5780a098f13784dc87ba5eb03fdb180918bd3"><div class="ttname"><a href="../../dd/dad/a00005.html#a7f47feca28234245c0857650572c5780a098f13784dc87ba5eb03fdb180918bd3">GAME_EVENT_QUEL_DANAS_PHASE_2_PORTAL</a></div><div class="ttdeci">@ GAME_EVENT_QUEL_DANAS_PHASE_2_PORTAL</div><div class="ttdef"><b>Definition:</b> WorldState.h:69</div></div>
-<div class="ttc" id="aa00005_html_a7f47feca28234245c0857650572c5780a2fbc409aeb61c5d20ff2393062741bff"><div class="ttname"><a href="../../dd/dad/a00005.html#a7f47feca28234245c0857650572c5780a2fbc409aeb61c5d20ff2393062741bff">GAME_EVENT_QUEL_DANAS_PHASE_4_MONUMENT</a></div><div class="ttdeci">@ GAME_EVENT_QUEL_DANAS_PHASE_4_MONUMENT</div><div class="ttdef"><b>Definition:</b> WorldState.h:76</div></div>
-<div class="ttc" id="aa00005_html_a7f47feca28234245c0857650572c5780a34ba50ef842ffe3bb0b34660b6da6c86"><div class="ttname"><a href="../../dd/dad/a00005.html#a7f47feca28234245c0857650572c5780a34ba50ef842ffe3bb0b34660b6da6c86">GAME_EVENT_QUEL_DANAS_PHASE_4_NO_ALCHEMY_LAB</a></div><div class="ttdeci">@ GAME_EVENT_QUEL_DANAS_PHASE_4_NO_ALCHEMY_LAB</div><div class="ttdef"><b>Definition:</b> WorldState.h:77</div></div>
-<div class="ttc" id="aa00005_html_a7f47feca28234245c0857650572c5780a3bbe84b7ad256db4c8a69f40d1d9906f"><div class="ttname"><a href="../../dd/dad/a00005.html#a7f47feca28234245c0857650572c5780a3bbe84b7ad256db4c8a69f40d1d9906f">GAME_EVENT_QUEL_DANAS_PHASE_3_ONLY</a></div><div class="ttdeci">@ GAME_EVENT_QUEL_DANAS_PHASE_3_ONLY</div><div class="ttdef"><b>Definition:</b> WorldState.h:70</div></div>
-<div class="ttc" id="aa00005_html_a7f47feca28234245c0857650572c5780a8272eb3e0a97f786160757d670d64b21"><div class="ttname"><a href="../../dd/dad/a00005.html#a7f47feca28234245c0857650572c5780a8272eb3e0a97f786160757d670d64b21">GAME_EVENT_QUEL_DANAS_PHASE_4_KIRU</a></div><div class="ttdeci">@ GAME_EVENT_QUEL_DANAS_PHASE_4_KIRU</div><div class="ttdef"><b>Definition:</b> WorldState.h:79</div></div>
-<div class="ttc" id="aa00005_html_a7f47feca28234245c0857650572c5780a858498a06e8dad4b35e61d229573239f"><div class="ttname"><a href="../../dd/dad/a00005.html#a7f47feca28234245c0857650572c5780a858498a06e8dad4b35e61d229573239f">GAME_EVENT_QUEL_DANAS_PHASE_3_ANVIL</a></div><div class="ttdeci">@ GAME_EVENT_QUEL_DANAS_PHASE_3_ANVIL</div><div class="ttdef"><b>Definition:</b> WorldState.h:73</div></div>
-<div class="ttc" id="aa00005_html_a7f47feca28234245c0857650572c5780a865824023c30d8881ad0d473fc74d850"><div class="ttname"><a href="../../dd/dad/a00005.html#a7f47feca28234245c0857650572c5780a865824023c30d8881ad0d473fc74d850">GAME_EVENT_QUEL_DANAS_PHASE_2_PERMANENT</a></div><div class="ttdeci">@ GAME_EVENT_QUEL_DANAS_PHASE_2_PERMANENT</div><div class="ttdef"><b>Definition:</b> WorldState.h:67</div></div>
-<div class="ttc" id="aa00005_html_a7f47feca28234245c0857650572c5780a955ffa53767730c30e65fb0b1a19cd2e"><div class="ttname"><a href="../../dd/dad/a00005.html#a7f47feca28234245c0857650572c5780a955ffa53767730c30e65fb0b1a19cd2e">GAME_EVENT_QUEL_DANAS_PHASE_2_NO_PORTAL</a></div><div class="ttdeci">@ GAME_EVENT_QUEL_DANAS_PHASE_2_NO_PORTAL</div><div class="ttdef"><b>Definition:</b> WorldState.h:68</div></div>
-<div class="ttc" id="aa00005_html_a7f47feca28234245c0857650572c5780a982866fd1ea3dc7295b56478278dcc6d"><div class="ttname"><a href="../../dd/dad/a00005.html#a7f47feca28234245c0857650572c5780a982866fd1ea3dc7295b56478278dcc6d">GAME_EVENT_QUEL_DANAS_PHASE_3_NO_ANVIL</a></div><div class="ttdeci">@ GAME_EVENT_QUEL_DANAS_PHASE_3_NO_ANVIL</div><div class="ttdef"><b>Definition:</b> WorldState.h:72</div></div>
-<div class="ttc" id="aa00005_html_a7f47feca28234245c0857650572c5780a98d4bd3e61e229b461dc177eece1e83a"><div class="ttname"><a href="../../dd/dad/a00005.html#a7f47feca28234245c0857650572c5780a98d4bd3e61e229b461dc177eece1e83a">GAME_EVENT_QUEL_DANAS_PHASE_4</a></div><div class="ttdeci">@ GAME_EVENT_QUEL_DANAS_PHASE_4</div><div class="ttdef"><b>Definition:</b> WorldState.h:74</div></div>
-<div class="ttc" id="aa00005_html_a7f47feca28234245c0857650572c5780a9974731c2acb170f5647424100e43c7a"><div class="ttname"><a href="../../dd/dad/a00005.html#a7f47feca28234245c0857650572c5780a9974731c2acb170f5647424100e43c7a">GAME_EVENT_QUEL_DANAS_PHASE_4_NO_MONUMENT</a></div><div class="ttdeci">@ GAME_EVENT_QUEL_DANAS_PHASE_4_NO_MONUMENT</div><div class="ttdef"><b>Definition:</b> WorldState.h:75</div></div>
-<div class="ttc" id="aa00005_html_a7f47feca28234245c0857650572c5780a9dfc64311fa072d23db3fd0f2602ec9b"><div class="ttname"><a href="../../dd/dad/a00005.html#a7f47feca28234245c0857650572c5780a9dfc64311fa072d23db3fd0f2602ec9b">GAME_EVENT_SWP_GATES_PHASE_1</a></div><div class="ttdeci">@ GAME_EVENT_SWP_GATES_PHASE_1</div><div class="ttdef"><b>Definition:</b> WorldState.h:82</div></div>
-<div class="ttc" id="aa00005_html_a7f47feca28234245c0857650572c5780abc22f906ec988e522bb3fbd9d5f49b2b"><div class="ttname"><a href="../../dd/dad/a00005.html#a7f47feca28234245c0857650572c5780abc22f906ec988e522bb3fbd9d5f49b2b">GAME_EVENT_QUEL_DANAS_PHASE_3_PERMANENT</a></div><div class="ttdeci">@ GAME_EVENT_QUEL_DANAS_PHASE_3_PERMANENT</div><div class="ttdef"><b>Definition:</b> WorldState.h:71</div></div>
-<div class="ttc" id="aa00005_html_a7f47feca28234245c0857650572c5780ac22176a2f30abaea84dd6dd7d01cd3e8"><div class="ttname"><a href="../../dd/dad/a00005.html#a7f47feca28234245c0857650572c5780ac22176a2f30abaea84dd6dd7d01cd3e8">GAME_EVENT_SWP_GATES_PHASE_3</a></div><div class="ttdeci">@ GAME_EVENT_SWP_GATES_PHASE_3</div><div class="ttdef"><b>Definition:</b> WorldState.h:84</div></div>
-<div class="ttc" id="aa00005_html_a7f47feca28234245c0857650572c5780ac5cb6f79cbb24ebcb7f9c508826b8f32"><div class="ttname"><a href="../../dd/dad/a00005.html#a7f47feca28234245c0857650572c5780ac5cb6f79cbb24ebcb7f9c508826b8f32">GAME_EVENT_QUEL_DANAS_PHASE_2_ONLY</a></div><div class="ttdeci">@ GAME_EVENT_QUEL_DANAS_PHASE_2_ONLY</div><div class="ttdef"><b>Definition:</b> WorldState.h:66</div></div>
-<div class="ttc" id="aa00005_html_a7f47feca28234245c0857650572c5780ae5520992190d7cad4d3003679f654164"><div class="ttname"><a href="../../dd/dad/a00005.html#a7f47feca28234245c0857650572c5780ae5520992190d7cad4d3003679f654164">GAME_EVENT_QUEL_DANAS_PHASE_1</a></div><div class="ttdeci">@ GAME_EVENT_QUEL_DANAS_PHASE_1</div><div class="ttdef"><b>Definition:</b> WorldState.h:65</div></div>
-<div class="ttc" id="aa00005_html_a7f47feca28234245c0857650572c5780ae77dd18a9c0bb1d3f2194ae6d402b423"><div class="ttname"><a href="../../dd/dad/a00005.html#a7f47feca28234245c0857650572c5780ae77dd18a9c0bb1d3f2194ae6d402b423">GAME_EVENT_SWP_GATES_PHASE_0</a></div><div class="ttdeci">@ GAME_EVENT_SWP_GATES_PHASE_0</div><div class="ttdef"><b>Definition:</b> WorldState.h:81</div></div>
-<div class="ttc" id="aa00005_html_a7f47feca28234245c0857650572c5780aef10a818749572edf44cfa356ecd4e2c"><div class="ttname"><a href="../../dd/dad/a00005.html#a7f47feca28234245c0857650572c5780aef10a818749572edf44cfa356ecd4e2c">GAME_EVENT_SWP_GATES_PHASE_2</a></div><div class="ttdeci">@ GAME_EVENT_SWP_GATES_PHASE_2</div><div class="ttdef"><b>Definition:</b> WorldState.h:83</div></div>
-<div class="ttc" id="aa00005_html_a7f47feca28234245c0857650572c5780afa50c0d5d0af7ac2567dca5d916f842c"><div class="ttname"><a href="../../dd/dad/a00005.html#a7f47feca28234245c0857650572c5780afa50c0d5d0af7ac2567dca5d916f842c">GAME_EVENT_QUEL_DANAS_PHASE_4_ALCHEMY_LAB</a></div><div class="ttdeci">@ GAME_EVENT_QUEL_DANAS_PHASE_4_ALCHEMY_LAB</div><div class="ttdef"><b>Definition:</b> WorldState.h:78</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="affad9750ec1568c3314d687af290f2ac" name="affad9750ec1568c3314d687af290f2ac"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#affad9750ec1568c3314d687af290f2ac">&#9670;&#160;</a></span>WorldStateSaveIds</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">enum <a class="el" href="../../dd/dad/a00005.html#affad9750ec1568c3314d687af290f2ac">WorldStateSaveIds</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="affad9750ec1568c3314d687af290f2acaef8c621060f45cd17565368474467453" name="affad9750ec1568c3314d687af290f2acaef8c621060f45cd17565368474467453"></a>SAVE_ID_QUEL_DANAS&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">   58</span>{</div>
-<div class="line"><span class="lineno">   59</span>    <a class="code hl_enumvalue" href="../../dd/dad/a00005.html#affad9750ec1568c3314d687af290f2acaef8c621060f45cd17565368474467453">SAVE_ID_QUEL_DANAS</a> = 20,</div>
-<div class="line"><span class="lineno">   60</span>};</div>
-<div class="ttc" id="aa00005_html_affad9750ec1568c3314d687af290f2acaef8c621060f45cd17565368474467453"><div class="ttname"><a href="../../dd/dad/a00005.html#affad9750ec1568c3314d687af290f2acaef8c621060f45cd17565368474467453">SAVE_ID_QUEL_DANAS</a></div><div class="ttdeci">@ SAVE_ID_QUEL_DANAS</div><div class="ttdef"><b>Definition:</b> WorldState.h:59</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="a882a758e503627632aa1d2a878086d91" name="a882a758e503627632aa1d2a878086d91"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a882a758e503627632aa1d2a878086d91">&#9670;&#160;</a></span>WorldStateSpells</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">enum <a class="el" href="../../dd/dad/a00005.html#a882a758e503627632aa1d2a878086d91">WorldStateSpells</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a882a758e503627632aa1d2a878086d91aee000da68d862de5291b513ea52734f8" name="a882a758e503627632aa1d2a878086d91aee000da68d862de5291b513ea52734f8"></a>SPELL_ADAL_SONG_OF_BATTLE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a882a758e503627632aa1d2a878086d91a73c7be494acfdbd7532eaf802ab4598d" name="a882a758e503627632aa1d2a878086d91a73c7be494acfdbd7532eaf802ab4598d"></a>SPELL_TROLLBANES_COMMAND&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a882a758e503627632aa1d2a878086d91a02b7508a9e44658cb4bf28d1bb487d60" name="a882a758e503627632aa1d2a878086d91a02b7508a9e44658cb4bf28d1bb487d60"></a>SPELL_NAZGRELS_FAVOR&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a882a758e503627632aa1d2a878086d91ace9722c8f1cdbfc30998ca2e9cfbc5a3" name="a882a758e503627632aa1d2a878086d91ace9722c8f1cdbfc30998ca2e9cfbc5a3"></a>SPELL_KIRU_SONG_OF_VICTORY&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">   48</span>{</div>
-<div class="line"><span class="lineno">   49</span>    <a class="code hl_enumvalue" href="../../dd/dad/a00005.html#a882a758e503627632aa1d2a878086d91aee000da68d862de5291b513ea52734f8">SPELL_ADAL_SONG_OF_BATTLE</a>   = 39953,</div>
-<div class="line"><span class="lineno">   50</span> </div>
-<div class="line"><span class="lineno">   51</span>    <a class="code hl_enumvalue" href="../../dd/dad/a00005.html#a882a758e503627632aa1d2a878086d91a73c7be494acfdbd7532eaf802ab4598d">SPELL_TROLLBANES_COMMAND</a>    = 39911,</div>
-<div class="line"><span class="lineno">   52</span>    <a class="code hl_enumvalue" href="../../dd/dad/a00005.html#a882a758e503627632aa1d2a878086d91a02b7508a9e44658cb4bf28d1bb487d60">SPELL_NAZGRELS_FAVOR</a>        = 39913,</div>
-<div class="line"><span class="lineno">   53</span> </div>
-<div class="line"><span class="lineno">   54</span>    <a class="code hl_enumvalue" href="../../dd/dad/a00005.html#a882a758e503627632aa1d2a878086d91ace9722c8f1cdbfc30998ca2e9cfbc5a3">SPELL_KIRU_SONG_OF_VICTORY</a>  = 46302,</div>
-<div class="line"><span class="lineno">   55</span>};</div>
-<div class="ttc" id="aa00005_html_a882a758e503627632aa1d2a878086d91a02b7508a9e44658cb4bf28d1bb487d60"><div class="ttname"><a href="../../dd/dad/a00005.html#a882a758e503627632aa1d2a878086d91a02b7508a9e44658cb4bf28d1bb487d60">SPELL_NAZGRELS_FAVOR</a></div><div class="ttdeci">@ SPELL_NAZGRELS_FAVOR</div><div class="ttdef"><b>Definition:</b> WorldState.h:52</div></div>
-<div class="ttc" id="aa00005_html_a882a758e503627632aa1d2a878086d91a73c7be494acfdbd7532eaf802ab4598d"><div class="ttname"><a href="../../dd/dad/a00005.html#a882a758e503627632aa1d2a878086d91a73c7be494acfdbd7532eaf802ab4598d">SPELL_TROLLBANES_COMMAND</a></div><div class="ttdeci">@ SPELL_TROLLBANES_COMMAND</div><div class="ttdef"><b>Definition:</b> WorldState.h:51</div></div>
-<div class="ttc" id="aa00005_html_a882a758e503627632aa1d2a878086d91ace9722c8f1cdbfc30998ca2e9cfbc5a3"><div class="ttname"><a href="../../dd/dad/a00005.html#a882a758e503627632aa1d2a878086d91ace9722c8f1cdbfc30998ca2e9cfbc5a3">SPELL_KIRU_SONG_OF_VICTORY</a></div><div class="ttdeci">@ SPELL_KIRU_SONG_OF_VICTORY</div><div class="ttdef"><b>Definition:</b> WorldState.h:54</div></div>
-<div class="ttc" id="aa00005_html_a882a758e503627632aa1d2a878086d91aee000da68d862de5291b513ea52734f8"><div class="ttname"><a href="../../dd/dad/a00005.html#a882a758e503627632aa1d2a878086d91aee000da68d862de5291b513ea52734f8">SPELL_ADAL_SONG_OF_BATTLE</a></div><div class="ttdeci">@ SPELL_ADAL_SONG_OF_BATTLE</div><div class="ttdef"><b>Definition:</b> WorldState.h:49</div></div>
-</div><!-- fragment -->
 </div>
 </div>
 </div><!-- contents -->
@@ -690,8 +459,8 @@ Enumerations</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_6f2d0651f8bb60d9295230d3c0a9398e.html">World</a></li><li class="navelem"><a class="el" href="../../dd/dad/a00005.html">WorldState.h</a></li>
-    <li class="footer">Generated on Mon May 26 2025 20:43:48 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1e2b35566ac0cf24ea791bcb2545ed2e.html">test</a></li><li class="navelem"><a class="el" href="../../dir_337bdd013191c9d548b6f28390c35d04.html">server</a></li><li class="navelem"><a class="el" href="../../dir_432bda28dad7986d3a1dc3010dcbb57c.html">game</a></li><li class="navelem"><a class="el" href="../../dir_d68c8764f6b69d1180b66c35742ddf05.html">Battlegrounds</a></li><li class="navelem"><a class="el" href="../../dir_3adc8ed69e0e90d16469d218b57e0fdd.html">ArenaSeason</a></li><li class="navelem"><a class="el" href="../../dd/dad/a00005.html">ArenaSeasonRewardDistributorTest.cpp</a></li>
+    <li class="footer">Generated on Mon Jun 2 2025 20:46:36 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

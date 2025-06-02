@@ -1,13 +1,7 @@
 var a22751 =
 [
-    [ "boss_illidari_council_memberAI", "d5/dd7/a22751.html#ac32366dfad13cd37ced2428d041e25c9", null ],
-    [ "DamageTaken", "d5/dd7/a22751.html#a1006bbdb6e39b6ceb52037e1b3cdb788", null ],
-    [ "DoAction", "d5/dd7/a22751.html#a203310b84d71a24145b1c39e7faff182", null ],
-    [ "EnterEvadeMode", "d5/dd7/a22751.html#a9bf2376cd75e0dc825de3839eda857eb", null ],
-    [ "JustDied", "d5/dd7/a22751.html#a135c8e8f4113b1c9c05e5b26e61e639c", null ],
-    [ "JustEngagedWith", "d5/dd7/a22751.html#a5c43bfb6e1781a83bfad36668ac724f2", null ],
-    [ "KilledUnit", "d5/dd7/a22751.html#aa0cb7a373d521038e8e41e354f6bc3f7", null ],
-    [ "Reset", "d5/dd7/a22751.html#a8e75d47f56d14d9b66d10b74c3479839", null ],
-    [ "events", "d5/dd7/a22751.html#ad47a350f5ed066e04816e72961a80bd0", null ],
-    [ "instance", "d5/dd7/a22751.html#adb11720cd0fd87a42b9a78490a70251e", null ]
+    [ "OnPeriodic", "d5/dd7/a22751.html#a165d47b116b0a53e37b05f664960e6ec", null ],
+    [ "PrepareAuraScript", "d5/dd7/a22751.html#ac46af3566c5c03622f8146f1bb6f0ac7", null ],
+    [ "Register", "d5/dd7/a22751.html#a1ac8741542c921f5e4c42b0a9a02ed3c", null ],
+    [ "Validate", "d5/dd7/a22751.html#adf76f9183dd9c5e0f00c2115aaafb119", null ]
 ];

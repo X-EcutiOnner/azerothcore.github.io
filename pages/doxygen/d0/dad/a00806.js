@@ -1,4 +1,6 @@
 var a00806 =
 [
-    [ "ScriptRegistry< AllBattlegroundScript >", "d0/dad/a00806.html#a4a1c5c34c42d3aaca9edc12feb3f7575", null ]
+    [ "WorldPackets::WorldState::InitWorldStates", "d8/d9a/a10871.html", "d8/d9a/a10871" ],
+    [ "WorldPackets::WorldState::InitWorldStates::WorldStateInfo", "d2/d20/a10875.html", "d2/d20/a10875" ],
+    [ "WorldPackets::WorldState::UpdateWorldState", "d2/d8d/a10879.html", "d2/d8d/a10879" ]
 ];

@@ -1,6 +1,7 @@
 var a25543 =
 [
-    [ "PrepareSpellScript", "de/da0/a25543.html#a3a77016a3a8314969ce41cc6483761ec", null ],
-    [ "Register", "de/da0/a25543.html#ae1fa8b9e4a11c884d10b1f4cc0afd09e", null ],
-    [ "SetDest", "de/da0/a25543.html#a724217c09faa57ec2e6dad034e8709ed", null ]
+    [ "CheckProc", "de/da0/a25543.html#afbd6d4a64b7da0d0dc15c62eb81746c9", null ],
+    [ "HandleProc", "de/da0/a25543.html#a27569fe686e50246768fca4a7625fe0d", null ],
+    [ "PrepareAuraScript", "de/da0/a25543.html#a4f4eaa4aeeac9257804957671c16233f", null ],
+    [ "Register", "de/da0/a25543.html#ab9a662bebdb5e03c5c10a807b892a9bf", null ]
 ];

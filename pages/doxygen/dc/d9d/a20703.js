@@ -1,5 +1,6 @@
 var a20703 =
 [
-    [ "achievement_xt002_nerf_engineering", "dc/d9d/a20703.html#a5be8c0a8a51d81c4014ec0ab92c21f79", null ],
-    [ "OnCheck", "dc/d9d/a20703.html#a2b401f51d1ba7ed817f95d81d1048adf", null ]
+    [ "HandleScript", "dc/d9d/a20703.html#a8ebd18095bd826d4bf843961e4e8dc81", null ],
+    [ "PrepareSpellScript", "dc/d9d/a20703.html#a4fd05478a145157dbd8377532033ab95", null ],
+    [ "Register", "dc/d9d/a20703.html#a9b30f89493d5b8c8d1097dde5d017a93", null ]
 ];

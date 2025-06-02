@@ -1,6 +1,6 @@
 var a19919 =
 [
-    [ "CheckAreaTarget", "db/dbf/a19919.html#ad1930e308f450cb84dba4f4b28b19f58", null ],
-    [ "PrepareAuraScript", "db/dbf/a19919.html#a921b2f67c417244310398bd93061d61c", null ],
-    [ "Register", "db/dbf/a19919.html#ab21972706bae9fdc3fc6859da2f3f63e", null ]
+    [ "OnPeriodic", "db/dbf/a19919.html#a379c55df994c58932fef7e7a59fd8426", null ],
+    [ "PrepareAuraScript", "db/dbf/a19919.html#ab180f54264f0c90376587d1b4c4dfd40", null ],
+    [ "Register", "db/dbf/a19919.html#aacfaa385ca4cbe64217ef191a32936e2", null ]
 ];

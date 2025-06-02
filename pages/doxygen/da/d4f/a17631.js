@@ -1,7 +1,6 @@
 var a17631 =
 [
-    [ "PrepareSpellScript", "da/d4f/a17631.html#a21bd67c024c5dcfb8496778f67eb48eb", null ],
-    [ "Register", "da/d4f/a17631.html#aff4f05a5a4742a408646000b7cece38c", null ],
-    [ "RemovePassengers", "da/d4f/a17631.html#a77c63e85233e2ef14bf06c82ad27c4b2", null ],
-    [ "Validate", "da/d4f/a17631.html#a2a8da9d150804f979f2313f623ad7760", null ]
+    [ "IgbArtilleryCheck", "da/d4f/a17631.html#a78b65928551ed799cf3f446f0603c50e", null ],
+    [ "operator()", "da/d4f/a17631.html#ac083bfb9a5fa2b9888c4e31254baada6", null ],
+    [ "_entry", "da/d4f/a17631.html#a98a6a0836414da82c288e372e982f69f", null ]
 ];

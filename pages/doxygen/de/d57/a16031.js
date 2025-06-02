@@ -1,8 +1,6 @@
 var a16031 =
 [
-    [ "OnApply", "de/d57/a16031.html#a96321003a002be0e4838901f03f8a5d8", null ],
-    [ "OnRemove", "de/d57/a16031.html#af616afe7bf87eb7fdb44bf15e9ad85d4", null ],
-    [ "PrepareAuraScript", "de/d57/a16031.html#ae5c880210cb50cf5320ee3595791eaa8", null ],
-    [ "Register", "de/d57/a16031.html#aaa2a16cff2e9aae77cdc1bb75c38f26a", null ],
-    [ "Validate", "de/d57/a16031.html#ad09a31813a7a03f8abf6dc9c151bb002", null ]
+    [ "npc_orb_carrierAI", "d4/d13/a16035.html", "d4/d13/a16035" ],
+    [ "npc_orb_carrier", "de/d57/a16031.html#a69fdd8cb2f0cdf7cf6cf0bdabbc0cd03", null ],
+    [ "GetAI", "de/d57/a16031.html#ab5b7bbffc43b840c686dc889805ea401", null ]
 ];

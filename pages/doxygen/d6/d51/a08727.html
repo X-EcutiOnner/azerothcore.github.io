@@ -193,10 +193,10 @@ Protected Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 2245</span>: <a class="code hl_variable" href="../../d6/d51/a08727.html#aecfa190843c1493b47652ccdac7ae9c3">_self</a>(self), <a class="code hl_variable" href="../../d6/d51/a08727.html#a1b3fb598748362379fef15b3172d8e2b">_auraOwnerGUID</a>(auraOwnerGUID), <a class="code hl_variable" href="../../d6/d51/a08727.html#a010f14a7d389b4e9ae9896061fa18a65">_auraEffect</a>(auraEffect) { }</div>
-<div class="ttc" id="aa08727_html_a010f14a7d389b4e9ae9896061fa18a65"><div class="ttname"><a href="../../d6/d51/a08727.html#a010f14a7d389b4e9ae9896061fa18a65">RedirectSpellEvent::_auraEffect</a></div><div class="ttdeci">AuraEffect * _auraEffect</div><div class="ttdef"><b>Definition:</b> Unit.h:2251</div></div>
-<div class="ttc" id="aa08727_html_a1b3fb598748362379fef15b3172d8e2b"><div class="ttname"><a href="../../d6/d51/a08727.html#a1b3fb598748362379fef15b3172d8e2b">RedirectSpellEvent::_auraOwnerGUID</a></div><div class="ttdeci">ObjectGuid _auraOwnerGUID</div><div class="ttdef"><b>Definition:</b> Unit.h:2250</div></div>
-<div class="ttc" id="aa08727_html_aecfa190843c1493b47652ccdac7ae9c3"><div class="ttname"><a href="../../d6/d51/a08727.html#aecfa190843c1493b47652ccdac7ae9c3">RedirectSpellEvent::_self</a></div><div class="ttdeci">Unit &amp; _self</div><div class="ttdef"><b>Definition:</b> Unit.h:2249</div></div>
+<div class="fragment"><div class="line"><span class="lineno"> 2228</span>: <a class="code hl_variable" href="../../d6/d51/a08727.html#aecfa190843c1493b47652ccdac7ae9c3">_self</a>(self), <a class="code hl_variable" href="../../d6/d51/a08727.html#a1b3fb598748362379fef15b3172d8e2b">_auraOwnerGUID</a>(auraOwnerGUID), <a class="code hl_variable" href="../../d6/d51/a08727.html#a010f14a7d389b4e9ae9896061fa18a65">_auraEffect</a>(auraEffect) { }</div>
+<div class="ttc" id="aa08727_html_a010f14a7d389b4e9ae9896061fa18a65"><div class="ttname"><a href="../../d6/d51/a08727.html#a010f14a7d389b4e9ae9896061fa18a65">RedirectSpellEvent::_auraEffect</a></div><div class="ttdeci">AuraEffect * _auraEffect</div><div class="ttdef"><b>Definition:</b> Unit.h:2234</div></div>
+<div class="ttc" id="aa08727_html_a1b3fb598748362379fef15b3172d8e2b"><div class="ttname"><a href="../../d6/d51/a08727.html#a1b3fb598748362379fef15b3172d8e2b">RedirectSpellEvent::_auraOwnerGUID</a></div><div class="ttdeci">ObjectGuid _auraOwnerGUID</div><div class="ttdef"><b>Definition:</b> Unit.h:2233</div></div>
+<div class="ttc" id="aa08727_html_aecfa190843c1493b47652ccdac7ae9c3"><div class="ttname"><a href="../../d6/d51/a08727.html#aecfa190843c1493b47652ccdac7ae9c3">RedirectSpellEvent::_self</a></div><div class="ttdeci">Unit &amp; _self</div><div class="ttdef"><b>Definition:</b> Unit.h:2232</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -243,24 +243,24 @@ Protected Attributes</h2></td></tr>
 <div class="line"><span class="lineno">11048</span>        <span class="keywordflow">if</span> (!auraOwner-&gt;HasSpellMagnetAura())</div>
 <div class="line"><span class="lineno">11049</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
 <div class="line"><span class="lineno">11050</span> </div>
-<div class="line"><span class="lineno">11051</span>        <a class="code hl_typedef" href="../../dd/d58/a08715.html#adcdd87d0c137619dfc869536c1315dd7">Unit::AuraEffectList</a> <span class="keyword">const</span>&amp; magnetAuras = auraOwner-&gt;GetAuraEffectsByType(<a class="code hl_enumvalue" href="../../d3/dbd/a01100.html#a538cdc259460b365f406fe0b3a981799abf8eba241ed858a5a96b414e595c3933">SPELL_AURA_SPELL_MAGNET</a>);</div>
+<div class="line"><span class="lineno">11051</span>        <a class="code hl_typedef" href="../../dd/d58/a08715.html#adcdd87d0c137619dfc869536c1315dd7">Unit::AuraEffectList</a> <span class="keyword">const</span>&amp; magnetAuras = auraOwner-&gt;GetAuraEffectsByType(<a class="code hl_enumvalue" href="../../d1/d98/a00407.html#a538cdc259460b365f406fe0b3a981799abf8eba241ed858a5a96b414e595c3933">SPELL_AURA_SPELL_MAGNET</a>);</div>
 <div class="line"><span class="lineno">11052</span>        <span class="keywordflow">for</span> (Unit::AuraEffectList::const_iterator itr = magnetAuras.begin(); itr != magnetAuras.end(); ++itr)</div>
 <div class="line"><span class="lineno">11053</span>            <span class="keywordflow">if</span> (*itr == <a class="code hl_variable" href="../../d6/d51/a08727.html#a010f14a7d389b4e9ae9896061fa18a65">_auraEffect</a>)</div>
 <div class="line"><span class="lineno">11054</span>            {</div>
-<div class="line"><span class="lineno">11055</span>                (*itr)-&gt;GetBase()-&gt;DropCharge(<a class="code hl_enumvalue" href="../../d3/dbd/a01100.html#a56f7dd5627e22afd9eb73530b767115ea51dd2d6d8e90e4ea4113c02fb772b80c">AURA_REMOVE_BY_DEFAULT</a>);</div>
+<div class="line"><span class="lineno">11055</span>                (*itr)-&gt;GetBase()-&gt;DropCharge(<a class="code hl_enumvalue" href="../../d1/d98/a00407.html#a56f7dd5627e22afd9eb73530b767115ea51dd2d6d8e90e4ea4113c02fb772b80c">AURA_REMOVE_BY_DEFAULT</a>);</div>
 <div class="line"><span class="lineno">11056</span>                <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
 <div class="line"><span class="lineno">11057</span>            }</div>
 <div class="line"><span class="lineno">11058</span>    }</div>
 <div class="line"><span class="lineno">11059</span> </div>
 <div class="line"><span class="lineno">11060</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
 <div class="line"><span class="lineno">11061</span>}</div>
-<div class="ttc" id="aa01100_html_a538cdc259460b365f406fe0b3a981799abf8eba241ed858a5a96b414e595c3933"><div class="ttname"><a href="../../d3/dbd/a01100.html#a538cdc259460b365f406fe0b3a981799abf8eba241ed858a5a96b414e595c3933">SPELL_AURA_SPELL_MAGNET</a></div><div class="ttdeci">@ SPELL_AURA_SPELL_MAGNET</div><div class="ttdef"><b>Definition:</b> SpellAuraDefines.h:159</div></div>
-<div class="ttc" id="aa01100_html_a56f7dd5627e22afd9eb73530b767115ea51dd2d6d8e90e4ea4113c02fb772b80c"><div class="ttname"><a href="../../d3/dbd/a01100.html#a56f7dd5627e22afd9eb73530b767115ea51dd2d6d8e90e4ea4113c02fb772b80c">AURA_REMOVE_BY_DEFAULT</a></div><div class="ttdeci">@ AURA_REMOVE_BY_DEFAULT</div><div class="ttdef"><b>Definition:</b> SpellAuraDefines.h:392</div></div>
+<div class="ttc" id="aa00407_html_a538cdc259460b365f406fe0b3a981799abf8eba241ed858a5a96b414e595c3933"><div class="ttname"><a href="../../d1/d98/a00407.html#a538cdc259460b365f406fe0b3a981799abf8eba241ed858a5a96b414e595c3933">SPELL_AURA_SPELL_MAGNET</a></div><div class="ttdeci">@ SPELL_AURA_SPELL_MAGNET</div><div class="ttdef"><b>Definition:</b> SpellAuraDefines.h:159</div></div>
+<div class="ttc" id="aa00407_html_a56f7dd5627e22afd9eb73530b767115ea51dd2d6d8e90e4ea4113c02fb772b80c"><div class="ttname"><a href="../../d1/d98/a00407.html#a56f7dd5627e22afd9eb73530b767115ea51dd2d6d8e90e4ea4113c02fb772b80c">AURA_REMOVE_BY_DEFAULT</a></div><div class="ttdeci">@ AURA_REMOVE_BY_DEFAULT</div><div class="ttdef"><b>Definition:</b> SpellAuraDefines.h:392</div></div>
 <div class="ttc" id="aa04809_html_a02c2dfb59db7d7e2501dcc9a4f9baf07"><div class="ttname"><a href="../../d0/d6d/a04809.html#a02c2dfb59db7d7e2501dcc9a4f9baf07">ObjectAccessor::GetUnit</a></div><div class="ttdeci">Unit * GetUnit(WorldObject const &amp;, ObjectGuid const guid)</div><div class="ttdef"><b>Definition:</b> ObjectAccessor.cpp:199</div></div>
-<div class="ttc" id="aa08715_html"><div class="ttname"><a href="../../dd/d58/a08715.html">Unit</a></div><div class="ttdef"><b>Definition:</b> Unit.h:636</div></div>
-<div class="ttc" id="aa08715_html_adcdd87d0c137619dfc869536c1315dd7"><div class="ttname"><a href="../../dd/d58/a08715.html#adcdd87d0c137619dfc869536c1315dd7">Unit::AuraEffectList</a></div><div class="ttdeci">std::list&lt; AuraEffect * &gt; AuraEffectList</div><div class="ttdef"><b>Definition:</b> Unit.h:652</div></div>
+<div class="ttc" id="aa08715_html"><div class="ttname"><a href="../../dd/d58/a08715.html">Unit</a></div><div class="ttdef"><b>Definition:</b> Unit.h:620</div></div>
+<div class="ttc" id="aa08715_html_adcdd87d0c137619dfc869536c1315dd7"><div class="ttname"><a href="../../dd/d58/a08715.html#adcdd87d0c137619dfc869536c1315dd7">Unit::AuraEffectList</a></div><div class="ttdeci">std::list&lt; AuraEffect * &gt; AuraEffectList</div><div class="ttdef"><b>Definition:</b> Unit.h:636</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l02251">_auraEffect</a>, <a class="el" href="../../#l02250">_auraOwnerGUID</a>, <a class="el" href="../../#l02249">_self</a>, <a class="el" href="../../#l00392">AURA_REMOVE_BY_DEFAULT</a>, <a class="el" href="../../#l00199">ObjectAccessor::GetUnit()</a>, and <a class="el" href="../../#l00159">SPELL_AURA_SPELL_MAGNET</a>.</p>
+<p class="reference">References <a class="el" href="../../#l02234">_auraEffect</a>, <a class="el" href="../../#l02233">_auraOwnerGUID</a>, <a class="el" href="../../#l02232">_self</a>, <a class="el" href="../../#l00392">AURA_REMOVE_BY_DEFAULT</a>, <a class="el" href="../../#l00199">ObjectAccessor::GetUnit()</a>, and <a class="el" href="../../#l00159">SPELL_AURA_SPELL_MAGNET</a>.</p>
 
 </div>
 </div>
@@ -343,7 +343,7 @@ Protected Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d6/d51/a08727.html">RedirectSpellEvent</a></li>
-    <li class="footer">Generated on Mon May 26 2025 20:45:40 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Jun 2 2025 20:47:32 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

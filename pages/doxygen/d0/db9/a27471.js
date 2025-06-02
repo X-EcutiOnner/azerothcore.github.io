@@ -1,6 +1,7 @@
 var a27471 =
 [
-    [ "npc_target_dummyAI", "d1/dfc/a27475.html", "d1/dfc/a27475" ],
-    [ "npc_target_dummy", "d0/db9/a27471.html#a04847f9893a40c0f1c1879f448cc228d", null ],
-    [ "GetAI", "d0/db9/a27471.html#a1aff9199c160e20f9e92ee9f90178d63", null ]
+    [ "npc_riggle_bassbaitAI", "d0/db9/a27471.html#ad7a1a7a6f4c4ebb7ab93878ebb3a9a5b", null ],
+    [ "CheckTournamentState", "d0/db9/a27471.html#aa7b4393b93be92fbb595648cede832be", null ],
+    [ "UpdateAI", "d0/db9/a27471.html#ad0fca96e2c770ef179d98dcdd9aaca6e", null ],
+    [ "m_uiTimer", "d0/db9/a27471.html#aec45a971a5b7aa574e905e9a2338fe90", null ]
 ];

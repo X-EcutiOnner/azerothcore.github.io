@@ -1,14 +1,14 @@
 var a14707 =
 [
-    [ "boss_captain_skarloc", "dc/dfd/a14707.html#a196477160ab6d07dc644ddadf756a1e0", null ],
-    [ "InitializeAI", "dc/dfd/a14707.html#a1c67fb99984f666b63f8f79c6783341d", null ],
-    [ "JustDied", "dc/dfd/a14707.html#aca0d536010a53efdf9270146f15f9058", null ],
-    [ "JustEngagedWith", "dc/dfd/a14707.html#aaa516f26cdc0ccd88f5c529a0a4252d4", null ],
-    [ "JustSummoned", "dc/dfd/a14707.html#a5f5f08ab00d18bece28dde7490e52af8", null ],
-    [ "KilledUnit", "dc/dfd/a14707.html#a1ead95b7cf3c4fb5b36be083e852aa21", null ],
-    [ "MovementInform", "dc/dfd/a14707.html#a8e16d85ca8e41bc1cb7ac749dfaea075", null ],
-    [ "Reset", "dc/dfd/a14707.html#a73b728cd24c8cb124f93c0e637bc8a11", null ],
-    [ "UpdateAI", "dc/dfd/a14707.html#aa1a9d9e781f1bc2394e2ebf879fdf196", null ],
-    [ "_spawnedAdds", "dc/dfd/a14707.html#ad69432da4a5beb5fcc8bbac155608a87", null ],
-    [ "summons", "dc/dfd/a14707.html#a83a9e5971411de1c136cbad91f73f487", null ]
+    [ "npc_cos_stratholme_citizienAI", "dc/dfd/a14707.html#a591aaf16ef5befada12378acfbef9465", null ],
+    [ "DoAction", "dc/dfd/a14707.html#af9d6fa1dfa83a75194797e99ee80ae0e", null ],
+    [ "InfectMe", "dc/dfd/a14707.html#a9517132eeaf1a0ffd5cb8b5879ed5d5b", null ],
+    [ "MoveInLineOfSight", "dc/dfd/a14707.html#ab7a8f6423e12ca0ea9bcb085594013a2", null ],
+    [ "Reset", "dc/dfd/a14707.html#a0dbb5f295aa9061fa3457c9590ea9b10", null ],
+    [ "SpellHit", "dc/dfd/a14707.html#aa8b9a05d3c7d89aa054af919672a69ec", null ],
+    [ "UpdateAI", "dc/dfd/a14707.html#a81a1382493091a99cae1c2bb580a7f32", null ],
+    [ "allowTimer", "dc/dfd/a14707.html#ae92384763b3cfe4a4bc4180d1c404456", null ],
+    [ "changeTimer", "dc/dfd/a14707.html#aa757ab2eef813dceaaad65d84681099b", null ],
+    [ "locked", "dc/dfd/a14707.html#aa644050a5fc0b3cd04573e8b3def87ee", null ],
+    [ "pInstance", "dc/dfd/a14707.html#aadae06c487a7755114f856a835d48c7e", null ]
 ];

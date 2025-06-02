@@ -1,6 +1,6 @@
 var a16171 =
 [
-    [ "FilterTargets", "d1/d00/a16171.html#a40c4d2b624fe87e21263d1b137994cc3", null ],
-    [ "PrepareSpellScript", "d1/d00/a16171.html#a697a52cbc50eafd2b0377621afb01557", null ],
-    [ "Register", "d1/d00/a16171.html#a3d523f92cb8123f30cb068cbac39a9c3", null ]
+    [ "npc_argent_soldierAI", "dd/d94/a16175.html", "dd/d94/a16175" ],
+    [ "npc_argent_soldier", "d1/d00/a16171.html#aa308b4cf1df6edf0666d06e0ddab0797", null ],
+    [ "GetAI", "d1/d00/a16171.html#adfeed3d533104b9617dfbb06925a3d44", null ]
 ];

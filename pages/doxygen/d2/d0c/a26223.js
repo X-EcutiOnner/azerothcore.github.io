@@ -1,7 +1,6 @@
 var a26223 =
 [
-    [ "HandleEffectRemove", "d2/d0c/a26223.html#a814687d3938e966f8721438e1a722f77", null ],
-    [ "PrepareAuraScript", "d2/d0c/a26223.html#a2144b0602501471a4001883ce9de6db3", null ],
-    [ "Register", "d2/d0c/a26223.html#a9d696dc7e58692216fa1cf6cc7c011a9", null ],
-    [ "AuraEffectHandleModes", "d2/d0c/a26223.html#ab291f6c6f269ec7004df39a043f49efd", null ]
+    [ "HandleFinish", "d2/d0c/a26223.html#a53263ce51581f36c2df80b49c93fa9d3", null ],
+    [ "PrepareSpellScript", "d2/d0c/a26223.html#a8113f61816473399f0ceab18b104d058", null ],
+    [ "Register", "d2/d0c/a26223.html#a36bf50cdb7be7ba03eafd4848c6ceced", null ]
 ];

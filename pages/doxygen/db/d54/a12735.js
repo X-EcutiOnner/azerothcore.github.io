@@ -1,6 +1,8 @@
 var a12735 =
 [
-    [ "HandleAfterCast", "db/d54/a12735.html#a5ca38a2828359e4f373323d1d6cc91cf", null ],
-    [ "PrepareSpellScript", "db/d54/a12735.html#aa0956db2d03405a54893bc30516f5839", null ],
-    [ "Register", "db/d54/a12735.html#a45726adacf1d30b5488df54f57447c0c", null ]
+    [ "CheckProc", "db/d54/a12735.html#a085f6affd2bf76fe66f9023e67725848", null ],
+    [ "HandleProc", "db/d54/a12735.html#ae5c0f54c072fa5f4bb69af0acd74053c", null ],
+    [ "PrepareAuraScript", "db/d54/a12735.html#a001de2ce29c768b328b93c66c6aca2f9", null ],
+    [ "Register", "db/d54/a12735.html#ad4db3b85cab89e4922ac4935b0cdcbd5", null ],
+    [ "Validate", "db/d54/a12735.html#a42ae1d2f846815480dc02e7e5f92527e", null ]
 ];

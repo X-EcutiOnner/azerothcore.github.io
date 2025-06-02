@@ -1,11 +1,15 @@
 var a19335 =
 [
-    [ "npc_oculus_drakegiverAI", "d7/d5c/a19339.html", "d7/d5c/a19339" ],
-    [ "npc_oculus_drakegiver", "d3/d8c/a19335.html#add34aba22fb2ca16f6f055dd77a2994b", null ],
-    [ "GetAI", "d3/d8c/a19335.html#aa26a2b82c5e4076ce704d5884895d903", null ],
-    [ "OnGossipHello", "d3/d8c/a19335.html#ac00d09d2d81121d562e3303704229c18", null ],
-    [ "OnGossipSelect", "d3/d8c/a19335.html#ad0fc46e306080ccfe9988d416ef71e77", null ],
-    [ "RemoveEssence", "d3/d8c/a19335.html#a70513d873111c590ca4e33cb446a4438", null ],
-    [ "StoreEssence", "d3/d8c/a19335.html#ac8bbe890722aa924a7f0dee161d342c4", null ],
-    [ "openedMenu", "d3/d8c/a19335.html#a650d1cd18700e29328e0fc97b1709f38", null ]
+    [ "boss_varosAI", "d3/d8c/a19335.html#a3e6815b80a3f9f5e8c53bb762e9058f2", null ],
+    [ "EnterEvadeMode", "d3/d8c/a19335.html#a0b7eeef4529b47357d729852cdeab002", null ],
+    [ "JustDied", "d3/d8c/a19335.html#a2724167a66a059e1c0ca1612d8405d68", null ],
+    [ "JustEngagedWith", "d3/d8c/a19335.html#a2f25555ca2884f6bffb289d209e87740", null ],
+    [ "JustSummoned", "d3/d8c/a19335.html#a24b2a1e438b02c67e64b79adb0cfeafe", null ],
+    [ "MoveInLineOfSight", "d3/d8c/a19335.html#a87f743f03dc19659d0e77ee23cd2c327", null ],
+    [ "Reset", "d3/d8c/a19335.html#aef24d04954a26bb6381c860403e84288", null ],
+    [ "UpdateAI", "d3/d8c/a19335.html#acc1ac3c2bf5cb1a7732f375285467423", null ],
+    [ "events", "d3/d8c/a19335.html#a36746118770c936e7606962365e102d8", null ],
+    [ "pInstance", "d3/d8c/a19335.html#a9cf7c0159753512ae7dea8a2f6a9da74", null ],
+    [ "step", "d3/d8c/a19335.html#af4c8e11f0aad369f09902eb1ccc48059", null ],
+    [ "ZapAngle", "d3/d8c/a19335.html#aef225fcf580c5e500d3242ac4be24260", null ]
 ];

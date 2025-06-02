@@ -1,29 +1,20 @@
 var a01199 =
 [
-    [ "MAX_ACCOUNT_STR", "d0/d5a/a01199.html#a134ebf22666a6525929447b2d869d400", null ],
-    [ "MAX_EMAIL_STR", "d0/d5a/a01199.html#ad64d9bd18bac10ab1af09b042d734c64", null ],
-    [ "MAX_PASS_STR", "d0/d5a/a01199.html#a45827712253b6d66092106cef5ae724b", null ],
-    [ "AccountOpResult", "d0/d5a/a01199.html#a0161874ada0cecbbd1fd5d31da73703e", [
-      [ "AOR_OK", "d0/d5a/a01199.html#a0161874ada0cecbbd1fd5d31da73703ea73449863bb0d97def55bd65307e97f18", null ],
-      [ "AOR_NAME_TOO_LONG", "d0/d5a/a01199.html#a0161874ada0cecbbd1fd5d31da73703eaec4fb519d9e6032adc269ca4a27c38f4", null ],
-      [ "AOR_PASS_TOO_LONG", "d0/d5a/a01199.html#a0161874ada0cecbbd1fd5d31da73703eaed91b79b9e639b8f988c5f06fcfd901c", null ],
-      [ "AOR_EMAIL_TOO_LONG", "d0/d5a/a01199.html#a0161874ada0cecbbd1fd5d31da73703eaaf639a81cbf8cf6bd685e34d73e895a1", null ],
-      [ "AOR_NAME_ALREADY_EXIST", "d0/d5a/a01199.html#a0161874ada0cecbbd1fd5d31da73703eae0b6297de7a7e8b516f5fc98a4d8750c", null ],
-      [ "AOR_NAME_NOT_EXIST", "d0/d5a/a01199.html#a0161874ada0cecbbd1fd5d31da73703ea05e659ba76ce9dd582551a24f2923b24", null ],
-      [ "AOR_DB_INTERNAL_ERROR", "d0/d5a/a01199.html#a0161874ada0cecbbd1fd5d31da73703ea368516df3522ada12ce8a39c789a687d", null ]
-    ] ],
-    [ "ChangeEmail", "d0/d5a/a01199.html#a2a6c83e2d4e6121855beb252f23c905b", null ],
-    [ "ChangePassword", "d0/d5a/a01199.html#a6a9cb892c15d78b5de65738005234ff6", null ],
-    [ "ChangeUsername", "d0/d5a/a01199.html#a3382c6430bfbf14e32ca11b5ac68fc23", null ],
-    [ "CheckPassword", "d0/d5a/a01199.html#a17c28dfcb31af8f4241bb5210408185a", null ],
-    [ "CreateAccount", "d0/d5a/a01199.html#a7a7668ab60ae56c7e71fce77780bb214", null ],
-    [ "DeleteAccount", "d0/d5a/a01199.html#a120323b16b2a5aefa6aa69e8be5ccef6", null ],
-    [ "GetCharactersCount", "d0/d5a/a01199.html#a4fb760897161c3d463f842b28bcf7c20", null ],
-    [ "GetId", "d0/d5a/a01199.html#aa215c9a96c37b8a5d76d980ecf8de114", null ],
-    [ "GetName", "d0/d5a/a01199.html#af911e3860ec519c541d6df35468ee41b", null ],
-    [ "GetSecurity", "d0/d5a/a01199.html#a8280510b2564ec6ea76727218c1687b3", null ],
-    [ "GetSecurity", "d0/d5a/a01199.html#a30b6e5cf1733f0143f86aaeff600215c", null ],
-    [ "IsAdminAccount", "d0/d5a/a01199.html#adb1b210137b09011677c74011addeefa", null ],
-    [ "IsConsoleAccount", "d0/d5a/a01199.html#a81bbc2af33211a3130c6aa215f5607b7", null ],
-    [ "IsPlayerAccount", "d0/d5a/a01199.html#a63751f144cb7acb57fc20f0caf5e7043", null ]
+    [ "WorldScript", "dd/dd8/a10375.html", "dd/dd8/a10375" ],
+    [ "WorldHook", "d0/d5a/a01199.html#a4d497fc434376a9edca1897eabc39493", [
+      [ "WORLDHOOK_ON_OPEN_STATE_CHANGE", "d0/d5a/a01199.html#a4d497fc434376a9edca1897eabc39493a1115383e9c9ccf62f08548733c8f5f1c", null ],
+      [ "WORLDHOOK_ON_AFTER_CONFIG_LOAD", "d0/d5a/a01199.html#a4d497fc434376a9edca1897eabc39493af6efa892b7f5bfd295f23a9b8afc6ad7", null ],
+      [ "WORLDHOOK_ON_LOAD_CUSTOM_DATABASE_TABLE", "d0/d5a/a01199.html#a4d497fc434376a9edca1897eabc39493ab212a383f870b580ecf69fd1df3f9213", null ],
+      [ "WORLDHOOK_ON_BEFORE_CONFIG_LOAD", "d0/d5a/a01199.html#a4d497fc434376a9edca1897eabc39493ac0d62a83ca416843503c5c9eac516901", null ],
+      [ "WORLDHOOK_ON_MOTD_CHANGE", "d0/d5a/a01199.html#a4d497fc434376a9edca1897eabc39493a7080a363df28c0ffb71d52ee18b85f8c", null ],
+      [ "WORLDHOOK_ON_SHUTDOWN_INITIATE", "d0/d5a/a01199.html#a4d497fc434376a9edca1897eabc39493ab554902e66fb497dbb3ac74151fe8bb7", null ],
+      [ "WORLDHOOK_ON_SHUTDOWN_CANCEL", "d0/d5a/a01199.html#a4d497fc434376a9edca1897eabc39493a86b7bcb6f946ccb6d6c444773054ecb6", null ],
+      [ "WORLDHOOK_ON_UPDATE", "d0/d5a/a01199.html#a4d497fc434376a9edca1897eabc39493a891997df42f33b397fe3c92cf68e3aca", null ],
+      [ "WORLDHOOK_ON_STARTUP", "d0/d5a/a01199.html#a4d497fc434376a9edca1897eabc39493abaa74ee704d5eb3634a515fe131e66fa", null ],
+      [ "WORLDHOOK_ON_SHUTDOWN", "d0/d5a/a01199.html#a4d497fc434376a9edca1897eabc39493a804c550dd48cb62983e43dfed1ba2176", null ],
+      [ "WORLDHOOK_ON_AFTER_UNLOAD_ALL_MAPS", "d0/d5a/a01199.html#a4d497fc434376a9edca1897eabc39493a02253717dde1cc98a2643eefd76f0d91", null ],
+      [ "WORLDHOOK_ON_BEFORE_FINALIZE_PLAYER_WORLD_SESSION", "d0/d5a/a01199.html#a4d497fc434376a9edca1897eabc39493a962dfc07ec34ca7510d8759c193ba56e", null ],
+      [ "WORLDHOOK_ON_BEFORE_WORLD_INITIALIZED", "d0/d5a/a01199.html#a4d497fc434376a9edca1897eabc39493a2e95fec6ec46709803e187fe3c60f427", null ],
+      [ "WORLDHOOK_END", "d0/d5a/a01199.html#a4d497fc434376a9edca1897eabc39493a1a7e32e7ba7aec9dc7b8edd43a903800", null ]
+    ] ]
 ];

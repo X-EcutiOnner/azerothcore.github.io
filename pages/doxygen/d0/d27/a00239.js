@@ -1,4 +1,5 @@
 var a00239 =
 [
-    [ "GetMinPlayersPerTeam", "d0/d27/a00239.html#ab22bdb52b0357434faced9df19db9d81", null ]
+    [ "Vehicle", "d1/d45/a08747.html", "d1/d45/a08747" ],
+    [ "VehicleDespawnEvent", "d0/d6a/a08751.html", "d0/d6a/a08751" ]
 ];

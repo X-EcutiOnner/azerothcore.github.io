@@ -1,4 +1,4 @@
 var a04619 =
 [
-    [ "ObjectRegistry< T, Key >", "d3/d6e/a05227.html", "d3/d6e/a05227" ]
+    [ "GUARD_RETURN", "de/d22/a04619.html#a545bfab3f5e5f49c7d68774189728da8", null ]
 ];

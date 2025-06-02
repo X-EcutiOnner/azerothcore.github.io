@@ -1,7 +1,6 @@
 var a17839 =
 [
-    [ "CheckRequirement", "d9/d6f/a17839.html#a1568599758bdc757ae448ab5a77c1cc7", null ],
-    [ "CheckRequirementInternal", "d9/d6f/a17839.html#ac2559b4a925fc0960a902fa2b306dc54", null ],
-    [ "PrepareSpellScript", "d9/d6f/a17839.html#a0d6745dab09cdd228fc802e482c3d15c", null ],
-    [ "Register", "d9/d6f/a17839.html#a95a250aeb3a41922c529f476d39f18e4", null ]
+    [ "HandlePeriodic", "d9/d6f/a17839.html#a9583ccd7b642694a06bde4b88826ec7b", null ],
+    [ "PrepareAuraScript", "d9/d6f/a17839.html#a5d855d79247dff6f949a5e099abb9352", null ],
+    [ "Register", "d9/d6f/a17839.html#ae797de0ed29b3ca179c07d759b469228", null ]
 ];

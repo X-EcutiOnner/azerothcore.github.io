@@ -1,5 +1,5 @@
 var a04115 =
 [
-    [ "DBCStorageBase", "dc/d81/a27659.html", "dc/d81/a27659" ],
-    [ "DBCStorage< T >", "d4/dd7/a27663.html", "d4/dd7/a27663" ]
+    [ "ServerMailReward", "d0/d43/a27635.html", "d0/d43/a27635" ],
+    [ "AddSC_server_mail", "df/d30/a04115.html#a8c20fa2f42eb423e39f2aaafe8fadafc", null ]
 ];

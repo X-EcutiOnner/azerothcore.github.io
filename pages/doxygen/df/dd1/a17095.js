@@ -1,7 +1,10 @@
 var a17095 =
 [
-    [ "HandleDummy", "df/dd1/a17095.html#ab614c27fbeb0fc6cac42c3e8f981e11d", null ],
-    [ "PrepareSpellScript", "df/dd1/a17095.html#a3ef0564565ea49265800422c835432b0", null ],
-    [ "Register", "df/dd1/a17095.html#a7b685926a8d511397889616e97bbd563", null ],
-    [ "Validate", "df/dd1/a17095.html#aecd40c136e44dfc9c5e4dd572d577578", null ]
+    [ "boss_drakkari_elementalAI", "df/dd1/a17095.html#aad8f28b7e45a7897cb758dff90aa46d8", null ],
+    [ "DoAction", "df/dd1/a17095.html#afc16e2da1f40ec0c0257e3bedc04c8a7", null ],
+    [ "JustDied", "df/dd1/a17095.html#aec2878e51a12749914e3a30c0ddea900", null ],
+    [ "JustEngagedWith", "df/dd1/a17095.html#a75cbf6a164ab4337f86b600541c563f2", null ],
+    [ "Reset", "df/dd1/a17095.html#a3a0cd44c30eacac26bcfd1bbe2a18086", null ],
+    [ "UpdateAI", "df/dd1/a17095.html#adb9ad99bc784a76da238ed2ee694d4f2", null ],
+    [ "events", "df/dd1/a17095.html#abd9bef8fd2bd10a520d9569351bd925b", null ]
 ];

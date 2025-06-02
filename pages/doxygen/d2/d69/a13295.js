@@ -1,8 +1,11 @@
 var a13295 =
 [
-    [ "FilterTargets", "d2/d69/a13295.html#a3282eb4c27b4256705bba47f4934c9b8", null ],
-    [ "HandleScriptEffect", "d2/d69/a13295.html#a8622351d9984d2de69ccd67d37fd52b9", null ],
-    [ "PrepareSpellScript", "d2/d69/a13295.html#a6083e35b4289b8a960dd6b223e1d02b5", null ],
-    [ "Register", "d2/d69/a13295.html#a57b42bf7b94ef5b23092ed097ce016e8", null ],
-    [ "Validate", "d2/d69/a13295.html#a5493864b068de82015bc157f3d0899b3", null ]
+    [ "npc_kalecgos_kj", "d2/d69/a13295.html#aae30bdf82ff333ef02a1981717c54ea4", null ],
+    [ "DoAction", "d2/d69/a13295.html#a6b2743b9b6bfb4d687e54412fe66c17f", null ],
+    [ "JustSummoned", "d2/d69/a13295.html#acf92559a2b06b8c9cce5c4887dd1316b", null ],
+    [ "Reset", "d2/d69/a13295.html#ab3cd4229999bddc16fe8152acb187111", null ],
+    [ "UpdateAI", "d2/d69/a13295.html#a8a029eb2cf7fd96ed324d93f4d66a30d", null ],
+    [ "events", "d2/d69/a13295.html#ab5cc58e293e20172558e15fa28670633", null ],
+    [ "instance", "d2/d69/a13295.html#a5a6f22c34578ccb7a5c1696d8ed342d6", null ],
+    [ "summons", "d2/d69/a13295.html#a57af12b97c6e250a50283b224bc5cb6f", null ]
 ];

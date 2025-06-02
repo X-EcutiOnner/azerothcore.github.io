@@ -1,6 +1,8 @@
 var a17579 =
 [
-    [ "PrepareSpellScript", "da/d18/a17579.html#a4878ffa30feb16e98d3945f8a6e3c863", null ],
-    [ "Register", "da/d18/a17579.html#a651f52f7d242251ff69d100fd69376e4", null ],
-    [ "SelectTarget", "da/d18/a17579.html#aede083ebebe38deb5898ff028564ef95", null ]
+    [ "Load", "da/d18/a17579.html#a363d0afcf2f79b8219652de5a3a6d466", null ],
+    [ "PrepareSpellScript", "da/d18/a17579.html#a8df1abd311a1c32cd6ed296d75566eac", null ],
+    [ "Register", "da/d18/a17579.html#a61e8f66c7446e0587b5d743f0e6ead92", null ],
+    [ "RelocateDest", "da/d18/a17579.html#abad4acee4c0898fea6bfb57b8155cab2", null ],
+    [ "SelectTransport", "da/d18/a17579.html#a0564852176d80ee6593baa3abb18238a", null ]
 ];

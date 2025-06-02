@@ -1,12 +1,10 @@
 var a04037 =
 [
-    [ "instance_gnomeregan", "d4/dca/a12499.html", "d4/dca/a12499" ],
-    [ "instance_gnomeregan::instance_gnomeregan_InstanceMapScript", "df/daf/a12503.html", "df/daf/a12503" ],
-    [ "npc_kernobee", "df/d1b/a12507.html", "df/d1b/a12507" ],
-    [ "npc_kernobee::npc_kernobeeAI", "d9/d53/a12511.html", "d9/d53/a12511" ],
-    [ "spell_gnomeregan_radiation_bolt", "d4/d6a/a12515.html", "d4/d6a/a12515" ],
-    [ "eKernobee", "df/d11/a04037.html#a2abc5c19b823c78ec77c3d72114bf15a", [
-      [ "QUEST_A_FINE_MESS", "df/d11/a04037.html#a2abc5c19b823c78ec77c3d72114bf15aae96e14c539b411972be0ce6ad156b394", null ]
-    ] ],
-    [ "AddSC_instance_gnomeregan", "df/d11/a04037.html#afc9fa76575d58995fccc2f594a40114c", null ]
+    [ "OutdoorPvPGH", "d4/dbf/a22455.html", "d4/dbf/a22455" ],
+    [ "OPvPCapturePointGH", "db/d6c/a22459.html", "db/d6c/a22459" ],
+    [ "OutdoorPvPGHenum", "df/d11/a04037.html#a68fd4e51a6ab53a5f6bc93fe7800623b", [
+      [ "GH_ALLIANCE_DEFENSE_EVENT", "df/d11/a04037.html#a68fd4e51a6ab53a5f6bc93fe7800623ba4d9e1d2fb4e064d2ec502e86046044c3", null ],
+      [ "GH_HORDE_DEFENSE_EVENT", "df/d11/a04037.html#a68fd4e51a6ab53a5f6bc93fe7800623babf83508167d0dcdfb12a95048d098d10", null ],
+      [ "GH_ZONE", "df/d11/a04037.html#a68fd4e51a6ab53a5f6bc93fe7800623ba5b111447969af668c37b96bdcb8e4e0f", null ]
+    ] ]
 ];

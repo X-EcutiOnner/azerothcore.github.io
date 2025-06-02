@@ -1,6 +1,6 @@
 var a20807 =
 [
-    [ "boss_yoggsaron_immortal_guardianAI", "df/dbe/a20811.html", "df/dbe/a20811" ],
-    [ "boss_yoggsaron_immortal_guardian", "d1/de7/a20807.html#a4009759d284b54cb958ee0bb80c45f14", null ],
-    [ "GetAI", "d1/de7/a20807.html#ac532ca090d93ce6d11a0332329111f2b", null ]
+    [ "boss_yoggsaron_descend_portalAI", "d1/de7/a20807.html#a50ddd1d7b1d4a2e729657e53dfee43f2", null ],
+    [ "OnSpellClick", "d1/de7/a20807.html#aba032a7347230db028d1e939944d3f46", null ],
+    [ "_instance", "d1/de7/a20807.html#a477abf19a0b5bf9865550541877a29d7", null ]
 ];

@@ -1,7 +1,6 @@
 var a16379 =
 [
-    [ "npc_toc_warriorAI", "df/db1/a16379.html#a6eee7e4fc83ed56a0f775b6892dc8dcb", null ],
-    [ "myCanCast", "df/db1/a16379.html#ac815e13cbbe9a8833330e15213420c65", null ],
-    [ "UpdateAI", "df/db1/a16379.html#aa787deda09d9bbf2c54d51e618eb2a82", null ],
-    [ "events", "df/db1/a16379.html#ae8f9d3f5f2c9172442c7ba4a83275cc1", null ]
+    [ "npc_toc_boomkinAI", "d8/d47/a16383.html", "d8/d47/a16383" ],
+    [ "npc_toc_boomkin", "df/db1/a16379.html#a17274ff748cd364592a551ad2c547eac", null ],
+    [ "GetAI", "df/db1/a16379.html#a626fe854faade9bd96cd60b9e6e970bd", null ]
 ];

@@ -1,9 +1,9 @@
 var a23167 =
 [
-    [ "FilterTargets", "d4/dc6/a23167.html#a9049c113d65b15a9a8e1143980a84b23", null ],
-    [ "HandleDummy", "d4/dc6/a23167.html#a21fd59ba177fd7b04eb1fcafe869f33a", null ],
-    [ "Load", "d4/dc6/a23167.html#a8cad82701e0147e14f826243175e1c32", null ],
-    [ "PrepareSpellScript", "d4/dc6/a23167.html#aa05839a8dd785a2472e8e5f3a9fc58b0", null ],
-    [ "Register", "d4/dc6/a23167.html#a0e7e246c322b89c3b6ee08797984f7e6", null ],
-    [ "_targetNumber", "d4/dc6/a23167.html#a34f80edf782ade371e7a6fc908b47b4f", null ]
+    [ "CalcPeriodic", "d4/dc6/a23167.html#a5cd39919a088cab2fd160ea6e16ee7c8", null ],
+    [ "HandleEffectApply", "d4/dc6/a23167.html#adb983cc531fa666648bbdb432684ff1d", null ],
+    [ "HandleEffectRemove", "d4/dc6/a23167.html#a99c1bfc5aa4b67318bb3572589a42b1a", null ],
+    [ "OnPeriodic", "d4/dc6/a23167.html#aecefab535157dbe8e42aff3b23cd685b", null ],
+    [ "PrepareAuraScript", "d4/dc6/a23167.html#ad9ecc1fd4bcf1a2ecb5e2d1ec2ea37f7", null ],
+    [ "Register", "d4/dc6/a23167.html#a3771abcc829883ba0cbae9587adbe751", null ]
 ];

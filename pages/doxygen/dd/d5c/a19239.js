@@ -1,7 +1,6 @@
 var a19239 =
 [
-    [ "boss_commander_stoutbeard", "dd/d5c/a19239.html#a9489874e93ea9f425ff4e3748ba10ded", null ],
-    [ "JustDied", "dd/d5c/a19239.html#a2fd835408045715058ba476aa56cb4f7", null ],
-    [ "JustEngagedWith", "dd/d5c/a19239.html#af960c10b2b98d43b4b1311a0a7616aa8", null ],
-    [ "KilledUnit", "dd/d5c/a19239.html#acf7016c65f020dca9228bd2d2fd89299", null ]
+    [ "ChargeRifts", "dd/d5c/a19239.html#aec98a12dec1f2ad98e00d399b0e2a1d5", null ],
+    [ "Execute", "dd/d5c/a19239.html#a8d01bf861d37c25413dc14eee16a2939", null ],
+    [ "_caster", "dd/d5c/a19239.html#a3cbf5f7e26de337dadd9d96a43d728b0", null ]
 ];

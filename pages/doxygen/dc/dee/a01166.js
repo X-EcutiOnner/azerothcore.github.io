@@ -1,4 +1,4 @@
 var a01166 =
 [
-    [ "InstanceHasScript", "dc/dee/a01166.html#aad76768c8aee9ce3ac24657437adb0de", null ]
+    [ "ScriptRegistry< OutdoorPvPScript >", "dc/dee/a01166.html#a87dac516981f5c502b37a0500f6f7882", null ]
 ];

@@ -1,6 +1,6 @@
 var a18571 =
 [
-    [ "npc_captain_grondelAI", "df/d1e/a18571.html#afbc971fc03584b87229318309d51a2f5", null ],
-    [ "Reset", "df/d1e/a18571.html#a7d3878822e77fba66891e87e23bd3740", null ],
-    [ "UpdateAI", "df/d1e/a18571.html#a4af8548092b49653805224bd4c0ac0a2", null ]
+    [ "npc_captain_brandonAI", "da/db3/a18575.html", "da/db3/a18575" ],
+    [ "npc_captain_brandon", "df/d1e/a18571.html#ad522dd280882d894b5d32e7c888f2360", null ],
+    [ "GetAI", "df/d1e/a18571.html#a3d77951d8d9dbc14fad2fd52d84118a3", null ]
 ];

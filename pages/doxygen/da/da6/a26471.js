@@ -1,6 +1,6 @@
 var a26471 =
 [
-    [ "HandleScript", "da/da6/a26471.html#acde0ae837d0cd3af0f38481027200291", null ],
-    [ "PrepareSpellScript", "da/da6/a26471.html#ac1237e0af7f88f75ebc551af52fc301c", null ],
-    [ "Register", "da/da6/a26471.html#a2dc2628984358628afe7d9b62ced7794", null ]
+    [ "HandleEffectPeriodic", "da/da6/a26471.html#a29eb3f3dadd45ccab069222fc36cea09", null ],
+    [ "PrepareAuraScript", "da/da6/a26471.html#aaa8296439ffe69eafdd1cece8ec346ad", null ],
+    [ "Register", "da/da6/a26471.html#a0a62a0bcf39a781289e1467384ac82cb", null ]
 ];

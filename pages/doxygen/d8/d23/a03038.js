@@ -1,26 +1,21 @@
 var a03038 =
 [
-    [ "AzjolNerubScriptName", "d8/d23/a03038.html#a49c3c3627ce229fce6b1f55755bcb7d7", null ],
-    [ "DataHeader", "d8/d23/a03038.html#a042491ef36459046f3866e90f15aae0d", null ],
-    [ "ANData", "d8/d23/a03038.html#a38e14ca59c29a20c7d83feecae87365e", [
-      [ "DATA_KRIKTHIR_THE_GATEWATCHER_EVENT", "d8/d23/a03038.html#a38e14ca59c29a20c7d83feecae87365eafe7f087c1e8262a80b7f072fba6ae671", null ],
-      [ "DATA_HADRONOX_EVENT", "d8/d23/a03038.html#a38e14ca59c29a20c7d83feecae87365eae18e711c44710c678c33ec4816ecbcdf", null ],
-      [ "DATA_ANUBARAK_EVENT", "d8/d23/a03038.html#a38e14ca59c29a20c7d83feecae87365ea64e72a1a7491f71dc45c3ee0e6aba1a3", null ],
-      [ "MAX_ENCOUNTERS", "d8/d23/a03038.html#a38e14ca59c29a20c7d83feecae87365ea9cfa5bdc17e1d5a590d300b530b36a25", null ]
+    [ "LocationXYZ", "d2/d4b/a13515.html", "d2/d4b/a13515" ],
+    [ "npc_rinji", "d0/d93/a13519.html", "d0/d93/a13519" ],
+    [ "npc_rinji::npc_rinjiAI", "df/d87/a13523.html", "df/d87/a13523" ],
+    [ "Rinji", "d8/d23/a03038.html#ab769c87cc823749a5fe9cc0ed4f59133", [
+      [ "SAY_RIN_BY_OUTRUNNER", "d8/d23/a03038.html#ab769c87cc823749a5fe9cc0ed4f59133a3aaaf930cf9ab49ca1d76cc6ed5e766c", null ],
+      [ "SAY_RIN_FREE", "d8/d23/a03038.html#ab769c87cc823749a5fe9cc0ed4f59133a18a3ea60620bdbd5ef82292e56df01d3", null ],
+      [ "SAY_RIN_HELP", "d8/d23/a03038.html#ab769c87cc823749a5fe9cc0ed4f59133af6414cba0564a077856ea0ee01cde0e0", null ],
+      [ "SAY_RIN_COMPLETE", "d8/d23/a03038.html#ab769c87cc823749a5fe9cc0ed4f59133a2e8b271174b0c30e02c7d465daca4632", null ],
+      [ "SAY_RIN_PROGRESS_1", "d8/d23/a03038.html#ab769c87cc823749a5fe9cc0ed4f59133a8f06b066d2b30fd7440ab8d0c0450aa5", null ],
+      [ "SAY_RIN_PROGRESS_2", "d8/d23/a03038.html#ab769c87cc823749a5fe9cc0ed4f59133a9d77a031db4f3a40f412949a95be80c5", null ],
+      [ "QUEST_RINJI_TRAPPED", "d8/d23/a03038.html#ab769c87cc823749a5fe9cc0ed4f59133aeb5734ecb62da42fe708673351c073e8", null ],
+      [ "NPC_RANGER", "d8/d23/a03038.html#ab769c87cc823749a5fe9cc0ed4f59133aec7fcfc9b715f5aeadff781115a0e69e", null ],
+      [ "NPC_OUTRUNNER", "d8/d23/a03038.html#ab769c87cc823749a5fe9cc0ed4f59133abc36fa763814aa6d572492b462e191a2", null ],
+      [ "GO_RINJI_CAGE", "d8/d23/a03038.html#ab769c87cc823749a5fe9cc0ed4f59133a8b71e8dfde4865f3891f672d000410fb", null ]
     ] ],
-    [ "ANIds", "d8/d23/a03038.html#a13c2be6ee4ddd01bcdde2acfa66080eb", [
-      [ "NPC_SKITTERING_SWARMER", "d8/d23/a03038.html#a13c2be6ee4ddd01bcdde2acfa66080eba9bed6273aaeebfba195695ffaccff429", null ],
-      [ "NPC_SKITTERING_INFECTIOR", "d8/d23/a03038.html#a13c2be6ee4ddd01bcdde2acfa66080ebaade67b0305f29a278aeb81b4317cd58b", null ],
-      [ "NPC_KRIKTHIR_THE_GATEWATCHER", "d8/d23/a03038.html#a13c2be6ee4ddd01bcdde2acfa66080eba9a8e964886187a715fc6d9e12652b582", null ],
-      [ "NPC_HADRONOX", "d8/d23/a03038.html#a13c2be6ee4ddd01bcdde2acfa66080ebadb575f56f42e4d47c262ab2dfd220c8a", null ],
-      [ "NPC_ANUB_AR_CHAMPION", "d8/d23/a03038.html#a13c2be6ee4ddd01bcdde2acfa66080eba43c41eeac44b6c1e9a8f5f60faf047cc", null ],
-      [ "NPC_ANUB_AR_NECROMANCER", "d8/d23/a03038.html#a13c2be6ee4ddd01bcdde2acfa66080eba85576368648a94fdc7883c9b73fe6fea", null ],
-      [ "NPC_ANUB_AR_CRYPTFIEND", "d8/d23/a03038.html#a13c2be6ee4ddd01bcdde2acfa66080eba145b39b904161cf071df0d8136bb855c", null ],
-      [ "GO_KRIKTHIR_DOORS", "d8/d23/a03038.html#a13c2be6ee4ddd01bcdde2acfa66080eba9c746a2553132cc145054c043a2fe64b", null ],
-      [ "GO_ANUBARAK_DOORS1", "d8/d23/a03038.html#a13c2be6ee4ddd01bcdde2acfa66080ebadf4da3d7a3b1a8ab02f2e587fd9a2316", null ],
-      [ "GO_ANUBARAK_DOORS2", "d8/d23/a03038.html#a13c2be6ee4ddd01bcdde2acfa66080ebaf614c816cc31f5a04d07c0c8a30274dc", null ],
-      [ "GO_ANUBARAK_DOORS3", "d8/d23/a03038.html#a13c2be6ee4ddd01bcdde2acfa66080ebaf1d64fad51ac6f98962bbdac3b4a47e0", null ],
-      [ "SPELL_WEB_WRAP_TRIGGER", "d8/d23/a03038.html#a13c2be6ee4ddd01bcdde2acfa66080eba5de2c77a1e59e329fcfa4828043c428b", null ]
-    ] ],
-    [ "GetAzjolNerubAI", "d8/d23/a03038.html#a19b3f42ba299e1f42de805f494cd5812", null ]
+    [ "AddSC_hinterlands", "d8/d23/a03038.html#a0b6f7497a7db75be5fe9d90d14c46720", null ],
+    [ "AmbushMoveTo", "d8/d23/a03038.html#aa2e998c0f3d966c32be9106221fe957c", null ],
+    [ "AmbushSpawn", "d8/d23/a03038.html#ace1d91ebeb7be507ec886616fad7eef4", null ]
 ];

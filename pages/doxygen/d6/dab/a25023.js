@@ -1,8 +1,6 @@
 var a25023 =
 [
-    [ "AchievementCredit", "d6/dab/a25023.html#ab0ec836feb53875de355330e05367fe8", null ],
-    [ "Load", "d6/dab/a25023.html#ae48c67f363e399f076122cb6eee10ffb", null ],
-    [ "PrepareSpellScript", "d6/dab/a25023.html#af0bb22c618af5dca7f534bea32e7ee7f", null ],
-    [ "Register", "d6/dab/a25023.html#a793921687c96a39f7dd872b9721096ca", null ],
-    [ "Validate", "d6/dab/a25023.html#a5be222c322714ec62f8beaf69faab257", null ]
+    [ "HandleScriptEffect", "d6/dab/a25023.html#a514697f3fdcbf9274453d6d71c0c4816", null ],
+    [ "PrepareSpellScript", "d6/dab/a25023.html#a5bcff624e9a396a2f90115dc99d93ae9", null ],
+    [ "Register", "d6/dab/a25023.html#aebcc23e4f4a1c5ab90fb06a47755ec2b", null ]
 ];

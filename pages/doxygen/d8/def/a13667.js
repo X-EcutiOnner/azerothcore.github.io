@@ -1,6 +1,9 @@
 var a13667 =
 [
-    [ "npc_lady_sylvanas_windrunner_bfuAI", "d2/d0c/a13671.html", "d2/d0c/a13671" ],
-    [ "npc_lady_sylvanas_windrunner_bfu", "d8/def/a13667.html#a77e98bc345f7d27f145d4b29c4deb58e", null ],
-    [ "GetAI", "d8/def/a13667.html#a94fdd0778818fcc6a8b818d38dde6f75", null ]
+    [ "npc_thrall_bfuAI", "d2/d0c/a13671.html", "d2/d0c/a13671" ],
+    [ "npc_thrall_bfu", "d8/def/a13667.html#a43eb37b9a0cf06be0e2cb6180730b09f", null ],
+    [ "GetAI", "d8/def/a13667.html#a28b4030d189e4d967a1b16f3464c14ba", null ],
+    [ "OnGossipHello", "d8/def/a13667.html#a71a7108464de9245879c8a1c08932e2a", null ],
+    [ "OnGossipSelect", "d8/def/a13667.html#aea62ed8489bea23772a52ddefbf9c60e", null ],
+    [ "OnQuestReward", "d8/def/a13667.html#aee56e54615e2696dcd0e7299e4f416b5", null ]
 ];

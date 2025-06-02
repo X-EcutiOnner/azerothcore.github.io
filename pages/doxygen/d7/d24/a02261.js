@@ -1,10 +1,10 @@
 var a02261 =
 [
-    [ "OutdoorPvP_nagrand", "db/d05/a22463.html", "db/d05/a22463" ],
-    [ "outdoorpvp_na_halaa_creatures", "d9/d64/a22467.html", "d9/d64/a22467" ],
-    [ "AddSC_outdoorpvp_na", "d7/d24/a02261.html#a03015585e7619177355fefd05f85e1c7", null ],
-    [ "FlagPlayerPvP", "d7/d24/a02261.html#ab1d33448696056a0951a0c306a511f1e", null ],
-    [ "UpdateCreatureHalaa", "d7/d24/a02261.html#a37af66c813e135cc11bd1dc663b35697", null ],
-    [ "halaaNPCAlly", "d7/d24/a02261.html#a3428675268608e5372767fc629259d5c", null ],
-    [ "halaaNPCHorde", "d7/d24/a02261.html#a531a4e8a5291c048ad0f3b0fc64b29d9", null ]
+    [ "instance_ahnkahet", "d3/d91/a15795.html", "d3/d91/a15795" ],
+    [ "instance_ahnkahet::instance_ahnkahet_InstanceScript", "de/d61/a15799.html", "de/d61/a15799" ],
+    [ "spell_shadow_sickle_periodic_damage", "df/de5/a15803.html", "df/de5/a15803" ],
+    [ "AddSC_instance_ahnkahet", "d7/d24/a02261.html#a33aed24f64879c91101f7420c4d49cc3", null ],
+    [ "boundaries", "d7/d24/a02261.html#aa75d7d0ffe0cef214f982966c33db1c1", null ],
+    [ "creatureData", "d7/d24/a02261.html#a412286b689bd324fedd65ddd8dde8afb", null ],
+    [ "doorData", "d7/d24/a02261.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ]
 ];

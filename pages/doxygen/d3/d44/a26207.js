@@ -1,6 +1,8 @@
 var a26207 =
 [
-    [ "HandleDummyEffect", "d3/d44/a26207.html#ad5421ca3dd5bf802952f98e6d1170003", null ],
-    [ "PrepareSpellScript", "d3/d44/a26207.html#a9489556e1e16cd2e0d5c43b38d7ea5ee", null ],
-    [ "Register", "d3/d44/a26207.html#a2ad2c00807d07aeb55a8fd848a69f9d1", null ]
+    [ "AfterCheckProc", "d3/d44/a26207.html#ad817bc9b07538434956bf64ea1dd0367", null ],
+    [ "HandleProc", "d3/d44/a26207.html#af972e6ed5524dadd618d6cd907c0241b", null ],
+    [ "PrepareAuraScript", "d3/d44/a26207.html#a0fbc28d9a524b6dff6783077ecd0b3b9", null ],
+    [ "Register", "d3/d44/a26207.html#a2cab6b2b0ff567fca6530fa4d917aec1", null ],
+    [ "Validate", "d3/d44/a26207.html#aa15febbd22621da12b567fc429917bf0", null ]
 ];

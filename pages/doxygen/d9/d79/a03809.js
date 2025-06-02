@@ -1,10 +1,9 @@
 var a03809 =
 [
-    [ "spell_razelikh_teleport_group", "d3/d81/a13435.html", "d3/d81/a13435" ],
-    [ "DeathlyUsher", "d9/d79/a03809.html#aaff0e89586a03a5c2b80f93a4fe0ded7", [
-      [ "SPELL_TELEPORT_SINGLE", "d9/d79/a03809.html#aaff0e89586a03a5c2b80f93a4fe0ded7a3cdd675db7120b3a968f19df07485e7d", null ],
-      [ "SPELL_TELEPORT_SINGLE_IN_GROUP", "d9/d79/a03809.html#aaff0e89586a03a5c2b80f93a4fe0ded7a138ccf86c6441c7347a973d3e04c62a5", null ],
-      [ "SPELL_TELEPORT_GROUP", "d9/d79/a03809.html#aaff0e89586a03a5c2b80f93a4fe0ded7a3efb41f1943511af5c5c1abbced10dcc", null ]
-    ] ],
-    [ "AddSC_blasted_lands", "d9/d79/a03809.html#a8c45aaff0bee880d1bac07d32d1747f1", null ]
+    [ "instance_blood_furnace", "d8/d4e/a23483.html", "d8/d4e/a23483" ],
+    [ "instance_blood_furnace::instance_blood_furnace_InstanceMapScript", "d1/d59/a23487.html", "d1/d59/a23487" ],
+    [ "AddSC_instance_blood_furnace", "d9/d79/a03809.html#af803a0e2dfb7f53b6682e02b90bef865", null ],
+    [ "creatureData", "d9/d79/a03809.html#a412286b689bd324fedd65ddd8dde8afb", null ],
+    [ "doorData", "d9/d79/a03809.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
+    [ "gameobjectData", "d9/d79/a03809.html#a845a92716bd40c99a93eb0715cd737b0", null ]
 ];

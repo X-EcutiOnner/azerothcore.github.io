@@ -1,6 +1,9 @@
 var a19619 =
 [
-    [ "npc_living_constellationAI", "d7/d78/a19623.html", "d7/d78/a19623" ],
-    [ "npc_living_constellation", "d8/dc4/a19619.html#a6ee651a525498cb5715ccfedaa26e05d", null ],
-    [ "GetAI", "d8/dc4/a19619.html#a4533812a4da72c0d9eff6d6c9eaf772a", null ]
+    [ "npc_brann_bronzebeard_algalonAI", "d8/dc4/a19619.html#a5ab0ff088866cf9d6af99ee3f42e897a", null ],
+    [ "DoAction", "d8/dc4/a19619.html#a9de9e9b19b8a635ec4bc0a4f8c8d13c6", null ],
+    [ "MovementInform", "d8/dc4/a19619.html#a7f8d3efed49f0d43a5e9e73ee8bd36e0", null ],
+    [ "UpdateAI", "d8/dc4/a19619.html#a16e3fcd7f082e04f648d2341a7e83cba", null ],
+    [ "_currentPoint", "d8/dc4/a19619.html#ae9da41b5b4cae16e1ed4709ab41b8964", null ],
+    [ "events", "d8/dc4/a19619.html#ab71b71ac63517349cb8702bb29d76334", null ]
 ];

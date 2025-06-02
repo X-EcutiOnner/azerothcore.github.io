@@ -1,5 +1,6 @@
 var a21111 =
 [
-    [ "npc_ritual_channelerAI", "db/dd6/a21111.html#aa770f8f2b9dd5fca86f9e63de7b4000f", null ],
-    [ "AttackStart", "db/dd6/a21111.html#aff09fbdc1e701853c9953882ca73ce2a", null ]
+    [ "boss_svalaAI", "d6/d01/a21115.html", "d6/d01/a21115" ],
+    [ "boss_svala", "db/dd6/a21111.html#a7ac5866eb6a013cb03f3d459b13b4a62", null ],
+    [ "GetAI", "db/dd6/a21111.html#a0c3b94635eca667a28496cf799efad25", null ]
 ];

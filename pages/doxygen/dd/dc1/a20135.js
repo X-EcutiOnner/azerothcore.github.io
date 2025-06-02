@@ -1,6 +1,6 @@
 var a20135 =
 [
-    [ "npc_ulduar_hodir_druidAI", "dd/d69/a20139.html", "dd/d69/a20139" ],
-    [ "npc_ulduar_hodir_druid", "dd/dc1/a20135.html#a07809d61d55756a847467043b0e90989", null ],
-    [ "GetAI", "dd/dc1/a20135.html#a4b0503e20bf8caddf0ea544a88124263", null ]
+    [ "npc_ulduar_toasty_fireAI", "dd/dc1/a20135.html#a145001c6f1c1d505f810ae545ec62c69", null ],
+    [ "DoAction", "dd/dc1/a20135.html#a8ab71582cc5d8386f788fb95203fbab5", null ],
+    [ "SpellHit", "dd/dc1/a20135.html#a0e4475382dfd754dc119d2e8dba61b7e", null ]
 ];

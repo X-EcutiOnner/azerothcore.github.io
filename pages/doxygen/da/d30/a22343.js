@@ -1,5 +1,6 @@
 var a22343 =
 [
-    [ "achievement_wg_within_our_grasp", "da/d30/a22343.html#a9edbd15bc6989c6948e21391a683d22d", null ],
-    [ "OnCheck", "da/d30/a22343.html#a10b659c4b52322536333e3d191796c27", null ]
+    [ "PrepareSpellScript", "da/d30/a22343.html#ae9a4734c9b12473f86c91a49860d56dd", null ],
+    [ "RecalculateDamage", "da/d30/a22343.html#ad47d51e68c6ffe60f15beceaffc60b19", null ],
+    [ "Register", "da/d30/a22343.html#a0dbeb30ba0eb22f4eb762f0a14cc6f39", null ]
 ];

@@ -1,7 +1,5 @@
 var a14339 =
 [
-    [ "npc_love_in_air_supply_sentry", "d9/da1/a14339.html#ab2742c3be0ed661a509b9eb32326bee5", null ],
-    [ "MoveInLineOfSight", "d9/da1/a14339.html#a9df110324c74277e07183c7db231bbda", null ],
-    [ "UpdateAI", "d9/da1/a14339.html#aaa658222954f96d45b75daf83555f6f8", null ],
-    [ "lock", "d9/da1/a14339.html#a59bf67b114014542538165c21aa109a6", null ]
+    [ "go_loosely_turned_soilAI", "d9/da1/a14339.html#a603641bc52d26521d64afaaeed3abc4d", null ],
+    [ "CanBeSeen", "d9/da1/a14339.html#a424b51b08d17ceb04b015cd535256889", null ]
 ];

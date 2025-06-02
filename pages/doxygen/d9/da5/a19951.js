@@ -1,5 +1,6 @@
 var a19951 =
 [
-    [ "achievement_flame_leviathan_unbroken", "d9/da5/a19951.html#a30a94a92aacc558d6833994c11f3ee8a", null ],
-    [ "OnCheck", "d9/da5/a19951.html#a78c69e3217b6598ab238a4f51ba598eb", null ]
+    [ "achievement_flame_leviathan_towers", "d9/da5/a19951.html#a491d66bdd373b6044e406126719ef910", null ],
+    [ "OnCheck", "d9/da5/a19951.html#ad6e9dee3f05afaca0a355b714bf75ea6", null ],
+    [ "_towerCount", "d9/da5/a19951.html#a1099385340b30a1a75655e2e7d2ba3cc", null ]
 ];

@@ -1,5 +1,6 @@
 var a18051 =
 [
-    [ "at_sindragosa_lair", "d5/d5a/a18051.html#a60ce46f248e66faa1f13a8b5c088bdc6", null ],
-    [ "OnTrigger", "d5/d5a/a18051.html#a07074bff20272042ed05be83dd818ee9", null ]
+    [ "npc_rimefangAI", "d3/db9/a18055.html", "d3/db9/a18055" ],
+    [ "npc_rimefang", "d5/d5a/a18051.html#af8ab4e318726b5250de56e3c6d09fcd2", null ],
+    [ "GetAI", "d5/d5a/a18051.html#a2fce9c36b7ef1861c9dcb5db2cacf438", null ]
 ];

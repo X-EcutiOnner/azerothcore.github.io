@@ -1,10 +1,9 @@
 var a24383 =
 [
-    [ "npc_pet_hunter_snake_trap", "dd/d9b/a24383.html#aaf5df574c4ac53661c0bb1968f84c6ea", null ],
-    [ "EnterEvadeMode", "dd/d9b/a24383.html#a819add0c7b968063403d10275fdc289f", null ],
-    [ "MoveInLineOfSight", "dd/d9b/a24383.html#a32d5ed7f4d436f2678b34f4a1d572721", null ],
-    [ "Reset", "dd/d9b/a24383.html#a831cf6eea8bd03247cd9877d3be6e1ee", null ],
-    [ "UpdateAI", "dd/d9b/a24383.html#a41a37efe6d39c6d97b3dcc5fabbcc812", null ],
-    [ "_init", "dd/d9b/a24383.html#a1b5c1301389749f82667c35f3daff847", null ],
-    [ "_spellTimer", "dd/d9b/a24383.html#ab9397451e2e8320ca77560a19baeee3f", null ]
+    [ "npc_pet_gen_fetch_ball", "dd/d9b/a24383.html#a4cd4dabd5df72ad1e64bdc8d6efb2f1b", null ],
+    [ "IsSummonedBy", "dd/d9b/a24383.html#abaf6308f7c47fd05acb86055bec0aea8", null ],
+    [ "SpellHitTarget", "dd/d9b/a24383.html#a87bdded236f6584d9b71507a1253f7d0", null ],
+    [ "UpdateAI", "dd/d9b/a24383.html#a1e0f75d5cd438d500ad94c5024bf83ae", null ],
+    [ "checkTimer", "dd/d9b/a24383.html#ab8d0a3a9ba2a8e0d6f58b3867f20974e", null ],
+    [ "targetGUID", "dd/d9b/a24383.html#ae474374af7c2270e218ed236d90c789c", null ]
 ];

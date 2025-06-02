@@ -1,7 +1,8 @@
 var a15319 =
 [
-    [ "npc_tharnarianAI", "d7/d5a/a15323.html", "d7/d5a/a15323" ],
-    [ "npc_tharnarian", "d7/d6c/a15319.html#a39d9d9842a7a42c5381e38d10285aa15", null ],
-    [ "GetAI", "d7/d6c/a15319.html#aaff8dad5d2bdb1571ed2e7a14c64899f", null ],
-    [ "OnQuestReward", "d7/d6c/a15319.html#aedf88edfd99292a68b8e08f9f05d8f00", null ]
+    [ "npc_prospector_remtravelAI", "d7/d6c/a15319.html#a61f26115382f16f3d65c3d4e1c720f02", null ],
+    [ "JustEngagedWith", "d7/d6c/a15319.html#adf388d36c17b69f881e3cb92d9b78b9b", null ],
+    [ "JustSummoned", "d7/d6c/a15319.html#a6b3dd1552b5313dd04d07dc80eef06fe", null ],
+    [ "Reset", "d7/d6c/a15319.html#ac145a4a4a24be227c31fcc5aefd922eb", null ],
+    [ "WaypointReached", "d7/d6c/a15319.html#a7b02b22e9dc63e1fad6b15a44b2ff9b6", null ]
 ];

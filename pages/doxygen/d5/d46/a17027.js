@@ -1,11 +1,6 @@
 var a17027 =
 [
-    [ "npc_pos_leader_secondAI", "d5/d46/a17027.html#a2ded8591da2548921cd016d592d1f1c8", null ],
-    [ "DoAction", "d5/d46/a17027.html#a941d3b42d6a0e58496b724af56fee44a", null ],
-    [ "MovementInform", "d5/d46/a17027.html#a32f4c5c48f1a63ded0ac9b8ee763090b", null ],
-    [ "SpellHitTarget", "d5/d46/a17027.html#ae630b7b225379831d15a11f66507bc6a", null ],
-    [ "UpdateAI", "d5/d46/a17027.html#a640aea9ce4a47dd13d417748e533fc33", null ],
-    [ "barrierGUID", "d5/d46/a17027.html#a452c096475581c12bf2f4ccb12448026", null ],
-    [ "events", "d5/d46/a17027.html#a1e1ab6c1d349a9543815a29ae185feec", null ],
-    [ "pInstance", "d5/d46/a17027.html#aee9dac9efee94db3d84eb9c5fb8c88a2", null ]
+    [ "npc_pos_freed_slaveAI", "d3/d68/a17031.html", "d3/d68/a17031" ],
+    [ "npc_pos_freed_slave", "d5/d46/a17027.html#a19fd79279646cb1c49c04056636615fc", null ],
+    [ "GetAI", "d5/d46/a17027.html#ac798c2584d48892162cc2bc779701e16", null ]
 ];

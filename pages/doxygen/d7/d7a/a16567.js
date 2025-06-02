@@ -1,6 +1,6 @@
 var a16567 =
 [
-    [ "boss_dredAI", "db/dfc/a16571.html", "db/dfc/a16571" ],
-    [ "boss_dred", "d7/d7a/a16567.html#a60a913f53c63f95680c29c72f48f9a1a", null ],
-    [ "GetAI", "d7/d7a/a16567.html#ab8276b185f80a92a54327ea28b19c704", null ]
+    [ "instance_trial_of_the_crusader_InstanceMapScript", "db/dfc/a16571.html", "db/dfc/a16571" ],
+    [ "instance_trial_of_the_crusader", "d7/d7a/a16567.html#a764d871d02e4ff53b7cc3a8637dcddf9", null ],
+    [ "GetInstanceScript", "d7/d7a/a16567.html#a792034e9e5687bf5fa543175692bed66", null ]
 ];

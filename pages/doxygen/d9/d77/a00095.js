@@ -1,11 +1,11 @@
 var a00095 =
 [
-    [ "StableResultCode", "d9/d77/a00095.html#abee8740a43e35bc796d1287225999514", [
-      [ "STABLE_ERR_MONEY", "d9/d77/a00095.html#abee8740a43e35bc796d1287225999514a2e1a0a641b8771fd5ac124129e76b8c2", null ],
-      [ "STABLE_ERR_STABLE", "d9/d77/a00095.html#abee8740a43e35bc796d1287225999514af3160ddc997ae8fc32c4420aa8169898", null ],
-      [ "STABLE_SUCCESS_STABLE", "d9/d77/a00095.html#abee8740a43e35bc796d1287225999514a87d687b90cdb7cc884567156b95da61e", null ],
-      [ "STABLE_SUCCESS_UNSTABLE", "d9/d77/a00095.html#abee8740a43e35bc796d1287225999514afb9c62c9485c5e5f50c502a61a8f0ab1", null ],
-      [ "STABLE_SUCCESS_BUY_SLOT", "d9/d77/a00095.html#abee8740a43e35bc796d1287225999514aaa2a19926ebaa7372be4a798c5513317", null ],
-      [ "STABLE_ERR_EXOTIC", "d9/d77/a00095.html#abee8740a43e35bc796d1287225999514ac96f0f7b1cccb7a29b30b8152c780f47", null ]
-    ] ]
+    [ "ThreatCalcHelper", "d2/dc5/a07795.html", "d2/dc5/a07795" ],
+    [ "HostileReference", "dd/d7d/a07799.html", "dd/d7d/a07799" ],
+    [ "ThreatContainer", "da/dde/a07803.html", "da/dde/a07803" ],
+    [ "ThreatMgr", "d8/ddb/a07807.html", "d8/ddb/a07807" ],
+    [ "RedirectThreatInfo", "d2/dda/a07811.html", "d2/dda/a07811" ],
+    [ "Acore::ThreatOrderPred", "d1/d33/a07815.html", "d1/d33/a07815" ],
+    [ "THREAT_UPDATE_INTERVAL", "d9/d77/a00095.html#a7173807ed06286e3a91f0497a3588f6b", null ],
+    [ "ThreatReference", "d9/d77/a00095.html#a62695703be4c945be07f18d2fe6a9a18", null ]
 ];

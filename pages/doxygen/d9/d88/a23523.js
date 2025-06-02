@@ -1,8 +1,6 @@
 var a23523 =
 [
-    [ "npc_target_trigger", "d9/d88/a23523.html#a238058ba80130c6239b7267db3247196", null ],
-    [ "Reset", "d9/d88/a23523.html#ad23d465bfd78ede0a1556f2ce1742349", null ],
-    [ "UpdateAI", "d9/d88/a23523.html#ab5f482e209d2d8aa5c27666d3e1934f3", null ],
-    [ "_cast", "d9/d88/a23523.html#a4ec89ca960323f7ad135d5a425a82416", null ],
-    [ "_scheduler", "d9/d88/a23523.html#a9b418b09e25c8f96692b4e2626339c96", null ]
+    [ "instance_hellfire_ramparts_InstanceMapScript", "df/d6a/a23527.html", "df/d6a/a23527" ],
+    [ "instance_hellfire_ramparts", "d9/d88/a23523.html#ab6ee671123dd0d736e9745e45e04b8da", null ],
+    [ "GetInstanceScript", "d9/d88/a23523.html#a6f2dc361984b33c1d14d62d67a563e8d", null ]
 ];

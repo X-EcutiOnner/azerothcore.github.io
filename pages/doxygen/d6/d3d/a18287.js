@@ -1,11 +1,6 @@
 var a18287 =
 [
-    [ "npc_terenas_menethilAI", "d6/d3d/a18287.html#aa2e95b96928b033ef374843ad1fb9f3c", null ],
-    [ "CanAIAttack", "d6/d3d/a18287.html#a1414da7f20e0f93486eb77c9b9450fa9", null ],
-    [ "DamageTaken", "d6/d3d/a18287.html#ae62a6f965ffb11d633190f1ca4122bc9", null ],
-    [ "DoAction", "d6/d3d/a18287.html#a4f261b19a7a8676dfd6d76d428a4f1b1", null ],
-    [ "EnterEvadeMode", "d6/d3d/a18287.html#ada5313b34e8c20c82ac97396e54e27df", null ],
-    [ "UpdateAI", "d6/d3d/a18287.html#a6210ca6e5e954d5c66d2108359efc888", null ],
-    [ "_events", "d6/d3d/a18287.html#ae61e4919b99a2b9195a389992947a125", null ],
-    [ "_instance", "d6/d3d/a18287.html#a60aae54e5e54526ba12a9468a3f45c88", null ]
+    [ "npc_strangulate_vehicleAI", "d4/df2/a18291.html", "d4/df2/a18291" ],
+    [ "npc_strangulate_vehicle", "d6/d3d/a18287.html#a04532bc5902af45b1e9c76cf1cec9add", null ],
+    [ "GetAI", "d6/d3d/a18287.html#aa5813442234d7b18fc4e7ed44a0b30bc", null ]
 ];

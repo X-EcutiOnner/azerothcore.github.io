@@ -1,6 +1,9 @@
 var a23831 =
 [
-    [ "PrepareAuraScript", "d1/dba/a23831.html#a14d4d1a75130a77e7e59e41720491bec", null ],
-    [ "PrepareProc", "d1/dba/a23831.html#abea217f4bfdffc70007fbc29849e9a49", null ],
-    [ "Register", "d1/dba/a23831.html#a9dbcd4c940f5941472bebb64829125e3", null ]
+    [ "boss_void_reaver", "d1/dba/a23831.html#aa6373ef5b27255eca4d85345ae5fa729", null ],
+    [ "JustDied", "d1/dba/a23831.html#a49e6f52b11177bdac07adff92c2675f5", null ],
+    [ "JustEngagedWith", "d1/dba/a23831.html#a9260d05e11f4dec6fc25432a0524706b", null ],
+    [ "KilledUnit", "d1/dba/a23831.html#adc234fc43308771a42d99049876cad1b", null ],
+    [ "Reset", "d1/dba/a23831.html#a02c36ea960de24991f879943991a93c6", null ],
+    [ "_recentlySpoken", "d1/dba/a23831.html#adc1bb9a6a3340f157c3ffcbd7dcd71ac", null ]
 ];

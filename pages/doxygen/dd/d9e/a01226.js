@@ -1,10 +1,12 @@
 var a01226 =
 [
-    [ "AddGossipItemFor", "dd/d9e/a01226.html#a21e32e886a589c9093660b3c4c58f72c", null ],
-    [ "AddGossipItemFor", "dd/d9e/a01226.html#a1d54254ae4ddb1bb0e9e2c74dffe5bf5", null ],
-    [ "AddGossipItemFor", "dd/d9e/a01226.html#acd7e8e52a911742a99728cf9408e23b8", null ],
-    [ "ClearGossipMenuFor", "dd/d9e/a01226.html#af077a82741577a63a075c7d40b3b3dc5", null ],
-    [ "CloseGossipMenuFor", "dd/d9e/a01226.html#af8f7e54dac5ecc86e92d780c3918cb09", null ],
-    [ "SendGossipMenuFor", "dd/d9e/a01226.html#ad893abf2b09592b57715ef4a3222a2b3", null ],
-    [ "SendGossipMenuFor", "dd/d9e/a01226.html#a18599cfc6649557de0d505ed4d4a0210", null ]
+    [ "WorldObjectScript", "de/d80/a10371.html", "de/d80/a10371" ],
+    [ "WorldObjectHook", "dd/d9e/a01226.html#ab8a14556853bd2637a19973d68ba6d1c", [
+      [ "WORLDOBJECTHOOK_ON_WORLD_OBJECT_DESTROY", "dd/d9e/a01226.html#ab8a14556853bd2637a19973d68ba6d1ca19911e8e8d81b83808647214673201ce", null ],
+      [ "WORLDOBJECTHOOK_ON_WORLD_OBJECT_CREATE", "dd/d9e/a01226.html#ab8a14556853bd2637a19973d68ba6d1caa4f7a14c3e5de3e6ace4c9a4bacc656c", null ],
+      [ "WORLDOBJECTHOOK_ON_WORLD_OBJECT_SET_MAP", "dd/d9e/a01226.html#ab8a14556853bd2637a19973d68ba6d1ca06f900f1b11de87d54d283b4433d5100", null ],
+      [ "WORLDOBJECTHOOK_ON_WORLD_OBJECT_RESET_MAP", "dd/d9e/a01226.html#ab8a14556853bd2637a19973d68ba6d1cac1f7c2d5eb2a8755ef8e628c8c769241", null ],
+      [ "WORLDOBJECTHOOK_ON_WORLD_OBJECT_UPDATE", "dd/d9e/a01226.html#ab8a14556853bd2637a19973d68ba6d1ca7fcc241c6d7db7844d86f1d88fb06144", null ],
+      [ "WORLDOBJECTHOOK_END", "dd/d9e/a01226.html#ab8a14556853bd2637a19973d68ba6d1ca4efa80e98b34555980ec0b06142a4c59", null ]
+    ] ]
 ];

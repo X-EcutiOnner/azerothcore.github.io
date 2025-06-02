@@ -1,12 +1,12 @@
 var a13243 =
 [
-    [ "boss_sathrovarr", "d7/d9f/a13243.html#a92bff830219f795d0aae4511f3d524bb", null ],
-    [ "CanAIAttack", "d7/d9f/a13243.html#a053dcf604aed91ac7c888d682653da54", null ],
-    [ "DoAction", "d7/d9f/a13243.html#ad0b549678e5b4eb7dfc1c1879885b45a", null ],
-    [ "JustDied", "d7/d9f/a13243.html#aa6683f0ccb70260e24f79d86ec4ae2d1", null ],
-    [ "JustEngagedWith", "d7/d9f/a13243.html#a1f3a74ac6f83673eed9b2a4276a5cf49", null ],
-    [ "KilledUnit", "d7/d9f/a13243.html#a17e2a5d253536c25cd04269b71a5c0ed", null ],
-    [ "Reset", "d7/d9f/a13243.html#a171c0e2c07ddf4c5271af8ed83f15257", null ],
-    [ "UpdateAI", "d7/d9f/a13243.html#a99c5c8801333f2eaf6b9fee287588093", null ],
-    [ "_instance", "d7/d9f/a13243.html#af7bfd6a65db102b5010f7b300e4acd27", null ]
+    [ "boss_kalecgos", "d7/d9f/a13243.html#a9a3eaee76ada967445cc0ed3d5ed21d2", null ],
+    [ "CanAIAttack", "d7/d9f/a13243.html#aa810a7eae5a6b1102e2e96022eaf5085", null ],
+    [ "CheckInRoom", "d7/d9f/a13243.html#a99cf385b11044c364b23fa8fc7e755ee", null ],
+    [ "ClearPlayerAuras", "d7/d9f/a13243.html#a17ffb7ec1b591acb0e5c359cb73ed2f6", null ],
+    [ "DoAction", "d7/d9f/a13243.html#aaccfa519a7290eb56990e43de4beea97", null ],
+    [ "JustEngagedWith", "d7/d9f/a13243.html#ab4d440dd0b66002b840bc4b3d3a8f7ef", null ],
+    [ "KilledUnit", "d7/d9f/a13243.html#a9844d54a8334ae5d20689593cd8a5e1a", null ],
+    [ "Reset", "d7/d9f/a13243.html#ad30cbd6d6fe343b9eb44fb96b0779551", null ],
+    [ "_sathBanished", "d7/d9f/a13243.html#a595eb66eb6f820efa29fcc5d631fe159", null ]
 ];

@@ -1,9 +1,6 @@
 var a19607 =
 [
-    [ "npc_brann_bronzebeard_algalonAI", "da/db8/a19607.html#a5ab0ff088866cf9d6af99ee3f42e897a", null ],
-    [ "DoAction", "da/db8/a19607.html#a9de9e9b19b8a635ec4bc0a4f8c8d13c6", null ],
-    [ "MovementInform", "da/db8/a19607.html#a7f8d3efed49f0d43a5e9e73ee8bd36e0", null ],
-    [ "UpdateAI", "da/db8/a19607.html#a16e3fcd7f082e04f648d2341a7e83cba", null ],
-    [ "_currentPoint", "da/db8/a19607.html#ae9da41b5b4cae16e1ed4709ab41b8964", null ],
-    [ "events", "da/db8/a19607.html#ab71b71ac63517349cb8702bb29d76334", null ]
+    [ "boss_algalon_the_observerAI", "d2/d41/a19611.html", "d2/d41/a19611" ],
+    [ "boss_algalon_the_observer", "da/db8/a19607.html#a0691b47a116401da58b246203ecba2cb", null ],
+    [ "GetAI", "da/db8/a19607.html#a4c30c6ddf8dcbc7c478250846f27a261", null ]
 ];

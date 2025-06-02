@@ -1,7 +1,7 @@
 var a13311 =
 [
-    [ "HandleScriptEffect", "d7/d88/a13311.html#ae631c634c77cc207338e3549a664969b", null ],
-    [ "PrepareSpellScript", "d7/d88/a13311.html#ac9f825f10512be5849c46460e9cdbec8", null ],
-    [ "Register", "d7/d88/a13311.html#ac8a4d26de8c78942efc5cfbf78c64633", null ],
-    [ "Validate", "d7/d88/a13311.html#ab05236bc29c00cfc7a5dfb88a8c2ee98", null ]
+    [ "HandleSchoolDamage", "d7/d88/a13311.html#a4fee3e37f347d1dcfa84c1dc0454c9fa", null ],
+    [ "PrepareSpellScript", "d7/d88/a13311.html#a8063f3d669e07dc0768607feb9a2f763", null ],
+    [ "Register", "d7/d88/a13311.html#a83aad24c7111d1f68196fcb9765dcd97", null ],
+    [ "Validate", "d7/d88/a13311.html#af90ae09274b0082bd8bd674ca43596f6", null ]
 ];

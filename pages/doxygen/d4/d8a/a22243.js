@@ -1,9 +1,8 @@
 var a22243 =
 [
-    [ "npc_hyldsmeet_protodrakeAI", "de/d08/a22247.html", "de/d08/a22247" ],
-    [ "NPCs", "d4/d8a/a22243.html#a8f2ea95c836ba6bab370301fbf3e6822", [
-      [ "NPC_HYLDSMEET_DRAKERIDER", "d4/d8a/a22243.html#a8f2ea95c836ba6bab370301fbf3e6822a1b77c38a75142cff5392a89db3e765df", null ]
-    ] ],
-    [ "npc_hyldsmeet_protodrake", "d4/d8a/a22243.html#a2471f1d858d7ae8f801208e35860a95e", null ],
-    [ "GetAI", "d4/d8a/a22243.html#a791e5cff3901f9a3ec365d4049b82d25", null ]
+    [ "npc_freed_protodrakeAI", "d4/d8a/a22243.html#a9e80808035be749c87a1170f37ac3daf", null ],
+    [ "MovementInform", "d4/d8a/a22243.html#af056f3c12a314acd8a7e8c6c381b9436", null ],
+    [ "Reset", "d4/d8a/a22243.html#ab5781438300442bb7bcb4510aec9d233", null ],
+    [ "UpdateAI", "d4/d8a/a22243.html#a9e83b133444e977c35e90b700149472c", null ],
+    [ "events", "d4/d8a/a22243.html#ac2e34b9a53ff55d177327ec95dca5466", null ]
 ];

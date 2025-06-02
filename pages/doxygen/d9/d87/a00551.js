@@ -1,7 +1,11 @@
 var a00551 =
 [
-    [ "Acore::Impl::ChatCommands::FilteredCommandListIterator", "d7/d68/a07491.html", "d7/d68/a07491" ],
-    [ "ChatSubCommandMap", "d9/d87/a00551.html#a306b7e46fd4791f088a8919720238f3d", null ],
-    [ "LogCommandUsage", "d9/d87/a00551.html#a8dc2bbcf5b90559262a46829632f332e", null ],
-    [ "COMMAND_MAP", "d9/d87/a00551.html#a569e79432c3876f4ac0b961e8a783003", null ]
+    [ "StableResultCode", "d9/d87/a00551.html#abee8740a43e35bc796d1287225999514", [
+      [ "STABLE_ERR_MONEY", "d9/d87/a00551.html#abee8740a43e35bc796d1287225999514a2e1a0a641b8771fd5ac124129e76b8c2", null ],
+      [ "STABLE_ERR_STABLE", "d9/d87/a00551.html#abee8740a43e35bc796d1287225999514af3160ddc997ae8fc32c4420aa8169898", null ],
+      [ "STABLE_SUCCESS_STABLE", "d9/d87/a00551.html#abee8740a43e35bc796d1287225999514a87d687b90cdb7cc884567156b95da61e", null ],
+      [ "STABLE_SUCCESS_UNSTABLE", "d9/d87/a00551.html#abee8740a43e35bc796d1287225999514afb9c62c9485c5e5f50c502a61a8f0ab1", null ],
+      [ "STABLE_SUCCESS_BUY_SLOT", "d9/d87/a00551.html#abee8740a43e35bc796d1287225999514aaa2a19926ebaa7372be4a798c5513317", null ],
+      [ "STABLE_ERR_EXOTIC", "d9/d87/a00551.html#abee8740a43e35bc796d1287225999514ac96f0f7b1cccb7a29b30b8152c780f47", null ]
+    ] ]
 ];

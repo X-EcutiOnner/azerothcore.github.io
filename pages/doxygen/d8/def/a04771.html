@@ -130,7 +130,7 @@ Functions</h2></td></tr>
 <tr class="separator:ab1ffb5b5ec6ef364da691218a1f840ed"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a037f48efd9ff4f980901dc23f9062cfe"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/def/a04771.html#a037f48efd9ff4f980901dc23f9062cfe">GetEnvVarName</a> (std::string const &amp;configName)</td></tr>
 <tr class="separator:a037f48efd9ff4f980901dc23f9062cfe"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4b39ee4aeace82542c39141c4c052417"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d5/d22/a04394.html#aaf8f4d77efd311ec7818ab421294ef82">Optional</a>&lt; std::string &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/def/a04771.html#a4b39ee4aeace82542c39141c4c052417">EnvVarForIniKey</a> (std::string const &amp;key)</td></tr>
+<tr class="memitem:a4b39ee4aeace82542c39141c4c052417"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d1/d6c/a04478.html#aaf8f4d77efd311ec7818ab421294ef82">Optional</a>&lt; std::string &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/def/a04771.html#a4b39ee4aeace82542c39141c4c052417">EnvVarForIniKey</a> (std::string const &amp;key)</td></tr>
 <tr class="separator:a4b39ee4aeace82542c39141c4c052417"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
@@ -205,7 +205,7 @@ Variables</h2></td></tr>
 <div class="line"><span class="lineno">   89</span>                <a class="code hl_function" href="../../d8/def/a04771.html#a31b53ef96726f745da939de555373737">PrintError</a>(fileName, <span class="stringliteral">&quot;&gt; Config::LoadFile: Found incorrect option &#39;{}&#39; in config file &#39;{}&#39;. Skip&quot;</span>, optionName, fileName);</div>
 <div class="line"><span class="lineno">   90</span> </div>
 <div class="line"><span class="lineno">   91</span><span class="preprocessor">#ifdef CONFIG_ABORT_INCORRECT_OPTIONS</span></div>
-<div class="line"><span class="lineno">   92</span>                <a class="code hl_define" href="../../d8/d19/a04259.html#a5376571bbf4cdc9782683635f366f89a">ABORT</a>(<span class="stringliteral">&quot;&gt; Core can&#39;t start if found incorrect options&quot;</span>);</div>
+<div class="line"><span class="lineno">   92</span>                <a class="code hl_define" href="../../d1/dd9/a04184.html#a5376571bbf4cdc9782683635f366f89a">ABORT</a>(<span class="stringliteral">&quot;&gt; Core can&#39;t start if found incorrect options&quot;</span>);</div>
 <div class="line"><span class="lineno">   93</span><span class="preprocessor">#endif</span></div>
 <div class="line"><span class="lineno">   94</span> </div>
 <div class="line"><span class="lineno">   95</span>                <span class="keywordflow">return</span>;</div>
@@ -220,7 +220,7 @@ Variables</h2></td></tr>
 <div class="line"><span class="lineno">  104</span> </div>
 <div class="line"><span class="lineno">  105</span>        <a class="code hl_variable" href="../../d8/def/a04771.html#a4c4d5bd9313e617a40ed0f27d79dbae9">_configOptions</a>.emplace(optionName, optionKey);</div>
 <div class="line"><span class="lineno">  106</span>    }</div>
-<div class="ttc" id="aa04259_html_a5376571bbf4cdc9782683635f366f89a"><div class="ttname"><a href="../../d8/d19/a04259.html#a5376571bbf4cdc9782683635f366f89a">ABORT</a></div><div class="ttdeci">#define ABORT</div><div class="ttdef"><b>Definition:</b> Errors.h:76</div></div>
+<div class="ttc" id="aa04184_html_a5376571bbf4cdc9782683635f366f89a"><div class="ttname"><a href="../../d1/dd9/a04184.html#a5376571bbf4cdc9782683635f366f89a">ABORT</a></div><div class="ttdeci">#define ABORT</div><div class="ttdef"><b>Definition:</b> Errors.h:76</div></div>
 <div class="ttc" id="aa04771_html_a31b53ef96726f745da939de555373737"><div class="ttname"><a href="../../d8/def/a04771.html#a31b53ef96726f745da939de555373737">anonymous_namespace{Config.cpp}::PrintError</a></div><div class="ttdeci">void PrintError(std::string_view filename, Format &amp;&amp;fmt, Args &amp;&amp;... args)</div><div class="ttdef"><b>Definition:</b> Config.cpp:66</div></div>
 <div class="ttc" id="aa04771_html_a4c4d5bd9313e617a40ed0f27d79dbae9"><div class="ttname"><a href="../../d8/def/a04771.html#a4c4d5bd9313e617a40ed0f27d79dbae9">anonymous_namespace{Config.cpp}::_configOptions</a></div><div class="ttdeci">std::unordered_map&lt; std::string, std::string &gt; _configOptions</div><div class="ttdef"><b>Definition:</b> Config.cpp:34</div></div>
 <div class="ttc" id="aa04771_html_a874bf90eeee29a9e6e9348805c0b8ca8"><div class="ttname"><a href="../../d8/def/a04771.html#a874bf90eeee29a9e6e9348805c0b8ca8">anonymous_namespace{Config.cpp}::IsLoggingSystemOptions</a></div><div class="ttdeci">bool IsLoggingSystemOptions(std::string_view optionName)</div><div class="ttdef"><b>Definition:</b> Config.cpp:57</div></div>
@@ -238,7 +238,7 @@ Variables</h2></td></tr>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d5/d22/a04394.html#aaf8f4d77efd311ec7818ab421294ef82">Optional</a>&lt; std::string &gt; anonymous_namespace{Config.cpp}::EnvVarForIniKey </td>
+          <td class="memname"><a class="el" href="../../d1/d6c/a04478.html#aaf8f4d77efd311ec7818ab421294ef82">Optional</a>&lt; std::string &gt; anonymous_namespace{Config.cpp}::EnvVarForIniKey </td>
           <td>(</td>
           <td class="paramtype">std::string const &amp;&#160;</td>
           <td class="paramname"><em>key</em></td><td>)</td>
@@ -337,8 +337,8 @@ Variables</h2></td></tr>
 <div class="line"><span class="lineno">  253</span>                    <span class="keywordflow">continue</span>;</div>
 <div class="line"><span class="lineno">  254</span>                }</div>
 <div class="line"><span class="lineno">  255</span> </div>
-<div class="line"><span class="lineno">  256</span>                currIsNumeric = <a class="code hl_function" href="../../d0/dd0/a04400.html#a74a75edd0e748f689b84a7dfaf88af5f">isNumeric</a>(curr);</div>
-<div class="line"><span class="lineno">  257</span>                nextIsNumeric = <a class="code hl_function" href="../../d0/dd0/a04400.html#a74a75edd0e748f689b84a7dfaf88af5f">isNumeric</a>(str[i + 1]);</div>
+<div class="line"><span class="lineno">  256</span>                currIsNumeric = <a class="code hl_function" href="../../d3/d9a/a04433.html#a74a75edd0e748f689b84a7dfaf88af5f">isNumeric</a>(curr);</div>
+<div class="line"><span class="lineno">  257</span>                nextIsNumeric = <a class="code hl_function" href="../../d3/d9a/a04433.html#a74a75edd0e748f689b84a7dfaf88af5f">isNumeric</a>(str[i + 1]);</div>
 <div class="line"><span class="lineno">  258</span> </div>
 <div class="line"><span class="lineno">  259</span>                <span class="comment">// handle &quot;a1&quot; to &quot;a_1&quot;</span></div>
 <div class="line"><span class="lineno">  260</span>                <span class="keywordflow">if</span> (!currIsNumeric &amp;&amp; nextIsNumeric)</div>
@@ -361,7 +361,7 @@ Variables</h2></td></tr>
 <div class="line"><span class="lineno">  277</span>        }</div>
 <div class="line"><span class="lineno">  278</span>        <span class="keywordflow">return</span> result;</div>
 <div class="line"><span class="lineno">  279</span>    }</div>
-<div class="ttc" id="aa04400_html_a74a75edd0e748f689b84a7dfaf88af5f"><div class="ttname"><a href="../../d0/dd0/a04400.html#a74a75edd0e748f689b84a7dfaf88af5f">isNumeric</a></div><div class="ttdeci">bool isNumeric(wchar_t wchar)</div><div class="ttdef"><b>Definition:</b> Util.h:204</div></div>
+<div class="ttc" id="aa04433_html_a74a75edd0e748f689b84a7dfaf88af5f"><div class="ttname"><a href="../../d3/d9a/a04433.html#a74a75edd0e748f689b84a7dfaf88af5f">isNumeric</a></div><div class="ttdeci">bool isNumeric(wchar_t wchar)</div><div class="ttdef"><b>Definition:</b> Util.h:204</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00204">isNumeric()</a>.</p>
 
@@ -656,10 +656,10 @@ template&lt;typename Format , typename... Args&gt; </div>
 <div class="line"><span class="lineno">   73</span>        }</div>
 <div class="line"><span class="lineno">   74</span>        <span class="keywordflow">else</span></div>
 <div class="line"><span class="lineno">   75</span>        {</div>
-<div class="line"><span class="lineno">   76</span>            <a class="code hl_define" href="../../d6/d71/a04598.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, message);</div>
+<div class="line"><span class="lineno">   76</span>            <a class="code hl_define" href="../../df/dce/a04214.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, message);</div>
 <div class="line"><span class="lineno">   77</span>        }</div>
 <div class="line"><span class="lineno">   78</span>    }</div>
-<div class="ttc" id="aa04598_html_a43832e3fa8508deb4ce43e520005fcd9"><div class="ttname"><a href="../../d6/d71/a04598.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a></div><div class="ttdeci">#define LOG_ERROR(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:157</div></div>
+<div class="ttc" id="aa04214_html_a43832e3fa8508deb4ce43e520005fcd9"><div class="ttname"><a href="../../df/dce/a04214.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a></div><div class="ttdeci">#define LOG_ERROR(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:157</div></div>
 <div class="ttc" id="aa04771_html_ac70d5ef108e0df78183c2c28431f34cc"><div class="ttname"><a href="../../d8/def/a04771.html#ac70d5ef108e0df78183c2c28431f34cc">anonymous_namespace{Config.cpp}::IsAppConfig</a></div><div class="ttdeci">bool IsAppConfig(std::string_view fileName)</div><div class="ttdef"><b>Definition:</b> Config.cpp:47</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00047">IsAppConfig()</a>, <a class="el" href="../../#l00157">LOG_ERROR</a>, and <a class="el" href="../../#l00034">Acore::StringFormat()</a>.</p>
@@ -788,7 +788,7 @@ template&lt;typename Format , typename... Args&gt; </div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d8/def/a04771.html">anonymous_namespace{Config.cpp}</a></li>
-    <li class="footer">Generated on Mon May 26 2025 20:46:07 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Jun 2 2025 20:47:59 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

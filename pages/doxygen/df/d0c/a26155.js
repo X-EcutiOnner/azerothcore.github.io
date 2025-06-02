@@ -1,6 +1,6 @@
 var a26155 =
 [
-    [ "HandleEffectScriptEffect", "df/d0c/a26155.html#a852a621f0b008dc1294dbeb9e9877a04", null ],
-    [ "PrepareSpellScript", "df/d0c/a26155.html#a8b0f656994289f260645a2ae60d9ee4b", null ],
-    [ "Register", "df/d0c/a26155.html#a1fa4dca7bae36c5e2acde0fe8b8cd801", null ]
+    [ "HandleAfterHit", "df/d0c/a26155.html#a6f0ec02c8b1429a6be76465dd9badd1c", null ],
+    [ "PrepareSpellScript", "df/d0c/a26155.html#af2e6c3bfc233ee86fa2c9186cdd6b5a4", null ],
+    [ "Register", "df/d0c/a26155.html#a2a780069022e62b14992a7b69626ac3d", null ]
 ];

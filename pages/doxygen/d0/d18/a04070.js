@@ -1,5 +1,11 @@
 var a04070 =
 [
-    [ "AsyncAcceptor", "d3/d76/a28375.html", "d3/d76/a28375" ],
-    [ "ACORE_MAX_LISTEN_CONNECTIONS", "d0/d18/a04070.html#af747a74d5d7546f9c862f3516a0c028f", null ]
+    [ "AddOutdoorPvPScripts", "d0/d18/a04070.html#a489bdfb4854732e561b6b13b70f67a0f", null ],
+    [ "AddSC_outdoorpvp_ep", "d0/d18/a04070.html#ac97adfc1efbcf82840cffa915a55fecb", null ],
+    [ "AddSC_outdoorpvp_gh", "d0/d18/a04070.html#a04eaa29ec2e34f71e4f7addacc0405c0", null ],
+    [ "AddSC_outdoorpvp_hp", "d0/d18/a04070.html#a69303ad6f661d8c009ee493dc4fd486c", null ],
+    [ "AddSC_outdoorpvp_na", "d0/d18/a04070.html#a03015585e7619177355fefd05f85e1c7", null ],
+    [ "AddSC_outdoorpvp_si", "d0/d18/a04070.html#a6dfd2849f525333510ae4febbbc3ae1f", null ],
+    [ "AddSC_outdoorpvp_tf", "d0/d18/a04070.html#a6df553c8dd6e9b81e83110e7beab3646", null ],
+    [ "AddSC_outdoorpvp_zm", "d0/d18/a04070.html#a3077d08865fa83f84cf956c392a9091c", null ]
 ];

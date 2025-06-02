@@ -1,7 +1,7 @@
 var a14359 =
 [
-    [ "OnApply", "dc/de3/a14359.html#a42148069675e663456bb5495fa5c8702", null ],
-    [ "OnPeriodic", "dc/de3/a14359.html#ad3582b02b369e3029e20817dd19aede0", null ],
-    [ "PrepareAuraScript", "dc/de3/a14359.html#a4e53e6cc02ce44d85fdf5497c006d7d9", null ],
-    [ "Register", "dc/de3/a14359.html#a8970b2ae63e0ba2e238aa6309d713b62", null ]
+    [ "HandleEffectApply", "dc/de3/a14359.html#ad48d832fef881bfb517fb8df694b7507", null ],
+    [ "HandleEffectRemove", "dc/de3/a14359.html#a1534b010301dbaff66d41443142c50b7", null ],
+    [ "PrepareAuraScript", "dc/de3/a14359.html#ab4bba02a5e2196ad65ccea94a4615a9d", null ],
+    [ "Register", "dc/de3/a14359.html#a97a0003cca808e5b03f720bb3be07419", null ]
 ];

@@ -1,6 +1,6 @@
 var a21543 =
 [
-    [ "npc_thassarianAI", "db/dbc/a21547.html", "db/dbc/a21547" ],
-    [ "npc_thassarian", "da/d26/a21543.html#a82bde4555821f84a6d07a69669528313", null ],
-    [ "GetAI", "da/d26/a21543.html#af4bbf5f6a63c3765355d6b70c2bda55b", null ]
+    [ "HandleEffect", "da/d26/a21543.html#a6732d51d5de34b3e737cc785fb2ab43e", null ],
+    [ "PrepareSpellScript", "da/d26/a21543.html#aec199e9f9651267fac88bd86be326bb4", null ],
+    [ "Register", "da/d26/a21543.html#a14bd854db86750704c8377d457dea360", null ]
 ];

@@ -1,18 +1,10 @@
 var a14927 =
 [
-    [ "boss_ossirian", "df/d52/a14927.html#ab03a53ee2c0dc70ab86328e9a7ad1495", null ],
-    [ "InitializeAI", "df/d52/a14927.html#a76731e2594cfadf5305d8abc502f665a", null ],
-    [ "JustEngagedWith", "df/d52/a14927.html#a78616bb875bd51d5727e85d0b65d1a73", null ],
-    [ "JustSummoned", "df/d52/a14927.html#ad462996cd1b12395f6cdaa33a7b876f1", null ],
-    [ "KilledUnit", "df/d52/a14927.html#a716acecfc8e38eb663557fafb56719fd", null ],
-    [ "MoveInLineOfSight", "df/d52/a14927.html#a16aa4ac59c1c8f6f844c311745b6e969", null ],
-    [ "Reset", "df/d52/a14927.html#a17a31cf7827cdb904efa64d954b19c4a", null ],
-    [ "SetGUID", "df/d52/a14927.html#a20dcef7e211a7aecbf46ecf6ba3d3fed", null ],
-    [ "SpawnNextCrystal", "df/d52/a14927.html#a2a95c315af6a9e2bcedc8a9c9a9d9789", null ],
-    [ "SpellHit", "df/d52/a14927.html#a0b5b92a9bce9a5dd0054cb833a56d32f", null ],
-    [ "SummonedCreatureDespawn", "df/d52/a14927.html#a5c3ac7bddf52e2390f91599bb3ce3a64", null ],
-    [ "UpdateAI", "df/d52/a14927.html#a8f3822d1cc3354efa5292d88fedd4087", null ],
-    [ "_crystalIterator", "df/d52/a14927.html#adc049248fa851c954d5fcbf643d47c16", null ],
-    [ "_firstCrystalGUID", "df/d52/a14927.html#a498d562d4ceeaecc6a01047bc4559235", null ],
-    [ "_saidIntro", "df/d52/a14927.html#a5a9b0b7ae7421a4554f4c4abc8850220", null ]
+    [ "boss_moam", "df/d52/a14927.html#a9a7a9f410efc5a05e46fd05f331e96c9", null ],
+    [ "InitializeAI", "df/d52/a14927.html#a2c8bde24fb3811e29c91a57258a243e5", null ],
+    [ "JustDied", "df/d52/a14927.html#a06b843bddd8f2759fa733c5169e0a5e6", null ],
+    [ "JustEngagedWith", "df/d52/a14927.html#ad33ba2f2cf9c83f37856aa6f2212637b", null ],
+    [ "Reset", "df/d52/a14927.html#a4112940fbe1f8be8e7adee7dbc48a9ae", null ],
+    [ "SummonedCreatureDies", "df/d52/a14927.html#a8401c5e2bd216deee197617b78d85222", null ],
+    [ "UpdateAI", "df/d52/a14927.html#aadd8320c6194923b113967d3d6c49a5e", null ]
 ];

@@ -1,6 +1,7 @@
 var a24423 =
 [
-    [ "PrepareSpellScript", "d8/d1b/a24423.html#a2585b06bbebf291d170df58daf6fdd4e", null ],
-    [ "RecalculateDamage", "d8/d1b/a24423.html#a1fe9f9d4892b0ca8cb6699b555fb9268", null ],
-    [ "Register", "d8/d1b/a24423.html#a834484683d2d782b4f4c027091108172", null ]
+    [ "CheckCast", "d8/d1b/a24423.html#a0e4e62a9b1763619170b6da8487e7ee1", null ],
+    [ "HandleDummy", "d8/d1b/a24423.html#ac7084a563e98760d58dfbcafdd7cde11", null ],
+    [ "PrepareSpellScript", "d8/d1b/a24423.html#a465da282630352a289d5daae7ccb1d01", null ],
+    [ "Register", "d8/d1b/a24423.html#ae668f0c45a74d56d1be5be29309c9f6d", null ]
 ];

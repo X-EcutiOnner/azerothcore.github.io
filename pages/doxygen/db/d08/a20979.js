@@ -1,5 +1,6 @@
 var a20979 =
 [
-    [ "AreaTrigger_at_celestial_planetarium_enterance", "db/d08/a20979.html#ae1503a754a05a77991d9955a2fb74265", null ],
-    [ "OnTrigger", "db/d08/a20979.html#aa7aa93e00170313de251af4e562c422c", null ]
+    [ "npc_ulduar_arachnopod_destroyerAI", "d5/d97/a20983.html", "d5/d97/a20983" ],
+    [ "npc_ulduar_arachnopod_destroyer", "db/d08/a20979.html#aec69c3c143ec27734dd3f2d8db0da9fd", null ],
+    [ "GetAI", "db/d08/a20979.html#ad667e7bacc181e79cb002181c71aac7c", null ]
 ];

@@ -1,8 +1,8 @@
 var dir_e56388218ded62e9fe679e8749c12bd9 =
 [
-    [ "boss_nexusprince_shaffar.cpp", "db/de8/a02525.html", "db/de8/a02525" ],
-    [ "boss_pandemonius.cpp", "d2/dab/a02516.html", "d2/dab/a02516" ],
-    [ "boss_tavarok.cpp", "d8/d65/a02528.html", "d8/d65/a02528" ],
-    [ "instance_mana_tombs.cpp", "d9/dce/a02519.html", "d9/dce/a02519" ],
-    [ "mana_tombs.h", "d7/da8/a02522.html", "d7/da8/a02522" ]
+    [ "boss_nexusprince_shaffar.cpp", "d9/d2b/a03977.html", "d9/d2b/a03977" ],
+    [ "boss_pandemonius.cpp", "d4/d2e/a03974.html", "d4/d2e/a03974" ],
+    [ "boss_tavarok.cpp", "d0/dce/a03971.html", "d0/dce/a03971" ],
+    [ "instance_mana_tombs.cpp", "d1/de2/a03983.html", "d1/de2/a03983" ],
+    [ "mana_tombs.h", "dd/d78/a03980.html", "dd/d78/a03980" ]
 ];

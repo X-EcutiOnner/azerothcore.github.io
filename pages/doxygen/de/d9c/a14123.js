@@ -1,7 +1,6 @@
 var a14123 =
 [
-    [ "GetEmptyEntry", "de/d9c/a14123.html#a46dfe7b2f8598d24f17868266d1571c6", null ],
-    [ "HandleAfterHit", "de/d9c/a14123.html#a4f8ab6e42ddf2188ccca2640363b9925", null ],
-    [ "PrepareSpellScript", "de/d9c/a14123.html#a35f0ab4b36df3d9ec1191cbd9ba88c9e", null ],
-    [ "Register", "de/d9c/a14123.html#a25e1858e1f81891443f4b7de50a5d495", null ]
+    [ "HandleEffectApply", "de/d9c/a14123.html#a06d50e8c0f7bfd1b055d8a3f5c14d357", null ],
+    [ "PrepareAuraScript", "de/d9c/a14123.html#a5f8abd33848c554f9a530ad23c86a7a0", null ],
+    [ "Register", "de/d9c/a14123.html#a2b39daf6fe325cfa909b964da62c2571", null ]
 ];

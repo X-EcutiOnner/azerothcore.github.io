@@ -1,6 +1,7 @@
 var a20259 =
 [
-    [ "boss_kologarnAI", "d8/d37/a20263.html", "d8/d37/a20263" ],
-    [ "boss_kologarn", "d8/d23/a20259.html#a5f654a0f534c4ec6c1164ea08e40a476", null ],
-    [ "GetAI", "d8/d23/a20259.html#ad78c2d269e68d8c3bbd86b844ada9435", null ]
+    [ "HandleScript", "d8/d23/a20259.html#a760bb60198017605111d02af98c827b1", null ],
+    [ "PrepareSpellScript", "d8/d23/a20259.html#a6128956f1037b62fff2e6f10ec22d956", null ],
+    [ "Register", "d8/d23/a20259.html#ae445c98f5543df2f45b77b6cd54d58e7", null ],
+    [ "Validate", "d8/d23/a20259.html#a3bb460d50928bd1b57566dd6a50fa5cd", null ]
 ];

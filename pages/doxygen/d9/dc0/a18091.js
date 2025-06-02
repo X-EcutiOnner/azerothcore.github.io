@@ -1,6 +1,7 @@
 var a18091 =
 [
-    [ "DefileTargetSelector", "d9/dc0/a18091.html#a9c13a04378d6550dd135d2cb41c9bc1c", null ],
-    [ "operator()", "d9/dc0/a18091.html#a2ffea7bb2c62e0fa069e3d1ffec3ab11", null ],
-    [ "_source", "d9/dc0/a18091.html#a427b4304b5a93f26741eda90d20ff13b", null ]
+    [ "HandleInfusion", "d9/dc0/a18091.html#a9f77330d81fef646dd5d5399800cba66", null ],
+    [ "PrepareSpellScript", "d9/dc0/a18091.html#ae0a272902b0a9f74058c1dbe62974358", null ],
+    [ "Register", "d9/dc0/a18091.html#ad759f6215e722f799156b4bdddcb7af1", null ],
+    [ "Validate", "d9/dc0/a18091.html#a7b7254e7c6cb0d819dd003ffd19d0731", null ]
 ];

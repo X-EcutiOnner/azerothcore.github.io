@@ -1,6 +1,6 @@
 var a22311 =
 [
-    [ "HandleSummon", "d3/d63/a22311.html#ac2f7b0d0772d72d69d58bb4b66616e21", null ],
-    [ "PrepareSpellScript", "d3/d63/a22311.html#ae7f071e9d9a82892be31090385679c9f", null ],
-    [ "Register", "d3/d63/a22311.html#a516ab0801cc93f15da434a0f0952c7e4", null ]
+    [ "go_wg_vehicle_teleporterAI", "d2/d51/a22315.html", "d2/d51/a22315" ],
+    [ "go_wg_vehicle_teleporter", "d3/d63/a22311.html#a074ead770a3da6e9ffa4180a3525f4c8", null ],
+    [ "GetAI", "d3/d63/a22311.html#a113aaf42c095000c1a016bfe60df11e7", null ]
 ];

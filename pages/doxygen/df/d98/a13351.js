@@ -1,7 +1,7 @@
 var a13351 =
 [
-    [ "OnPeriodic", "df/d98/a13351.html#a25e7a59384f262a36c74696a1befa01d", null ],
-    [ "PrepareAuraScript", "df/d98/a13351.html#a9b82fde3e38054b686f9b2a110cfaa1e", null ],
-    [ "Register", "df/d98/a13351.html#a65e469ba04d8cd2aa23d934bf2915721", null ],
-    [ "Validate", "df/d98/a13351.html#a6843deda5be8b684c06a86920714f255", null ]
+    [ "npc_singularity", "df/d98/a13351.html#a4ed61ec65ed94d8d5e42ae7ff9ecd41d", null ],
+    [ "FindAndFollowTarget", "df/d98/a13351.html#a76c21129756dec05f6f2d88cebe948c5", null ],
+    [ "Reset", "df/d98/a13351.html#ae81c2e5865beb00df8683fa0fb6e7872", null ],
+    [ "UpdateAI", "df/d98/a13351.html#ad019d234ca9ee719612d59e5bb0b53ea", null ]
 ];

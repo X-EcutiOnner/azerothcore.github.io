@@ -1,6 +1,7 @@
 var a25271 =
 [
-    [ "CalculateDamage", "d3/d27/a25271.html#a2b0d2465c42bb32a2e0a2be1884eddb6", null ],
-    [ "PrepareSpellScript", "d3/d27/a25271.html#a4271f026fd9cddeb109761e9b864c381", null ],
-    [ "Register", "d3/d27/a25271.html#a03bb4cf19328efa783600273663b609a", null ]
+    [ "HandleScript", "d3/d27/a25271.html#a27e2575e538732ac76add53f2f8f6832", null ],
+    [ "PrepareSpellScript", "d3/d27/a25271.html#ad7c98be6cca23fb1484a6b77bcc7bc9d", null ],
+    [ "Register", "d3/d27/a25271.html#a4ee74f6d8a61a8ba38ece33176c18f84", null ],
+    [ "Validate", "d3/d27/a25271.html#aef9eef1819652e0fce1cd4b3ba9c387c", null ]
 ];

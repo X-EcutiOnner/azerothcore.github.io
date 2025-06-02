@@ -1,6 +1,4 @@
 var a01652 =
 [
-    [ "WorldPackets::WorldState::InitWorldStates", "d8/d9a/a10871.html", "d8/d9a/a10871" ],
-    [ "WorldPackets::WorldState::InitWorldStates::WorldStateInfo", "d2/d20/a10875.html", "d2/d20/a10875" ],
-    [ "WorldPackets::WorldState::UpdateWorldState", "d2/d8d/a10879.html", "d2/d8d/a10879" ]
+    [ "UPDATE_TARGET", "d0/dc0/a01652.html#a7147e15125e75e9e1624cd480f4afb5f", null ]
 ];

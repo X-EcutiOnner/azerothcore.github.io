@@ -1,5 +1,5 @@
 var a20619 =
 [
-    [ "achievement_thorim_stand_in_the_lightning", "da/d63/a20619.html#a9339e89e4eb76151fdeacb6bcd53d7bc", null ],
-    [ "OnCheck", "da/d63/a20619.html#ade1aec4de4c503be5a62da3e6c35e90f", null ]
+    [ "go_thorim_lever", "da/d63/a20619.html#a7641a89c3c369d26753a6e97dd435802", null ],
+    [ "OnGossipHello", "da/d63/a20619.html#aa48cd4d5728bd2d012a91f51299827a0", null ]
 ];

@@ -1,14 +1,22 @@
 var a04745 =
 [
-    [ "_CRT_SECURE_NO_DEPRECATE", "d4/d1e/a04745.html#a411c46599e926f8cdf49c63957255359", null ],
-    [ "isHole", "d4/d1e/a04745.html#a3a7e248f31dc8d832dc118d469a98bd4", null ],
-    [ "holetab_h", "d4/d1e/a04745.html#a7424dd5c858116f845a676e31fe5ae5d", null ],
-    [ "holetab_v", "d4/d1e/a04745.html#a2b1bf69bcdb58ff1605821d486da3acb", null ],
-    [ "MCINMagic", "d4/d1e/a04745.html#a6f946547b65d321100fd6efa2966180c", null ],
-    [ "MCLQMagic", "d4/d1e/a04745.html#a35ae9924cb4e3ad0020167b89d5ea86f", null ],
-    [ "MCNKMagic", "d4/d1e/a04745.html#aa2d85d3b667d3755f6f7a993e60c574b", null ],
-    [ "MCVTMagic", "d4/d1e/a04745.html#a32010e610a970d3891ae5effca03de37", null ],
-    [ "MFBOMagic", "d4/d1e/a04745.html#a329d005a0989137286469e197dc0c812", null ],
-    [ "MH2OMagic", "d4/d1e/a04745.html#aaeaf747e4bc5c25257f9e0ef1153b5a7", null ],
-    [ "MHDRMagic", "d4/d1e/a04745.html#ac97bd684dd5bacba0e790f355a3bdddf", null ]
+    [ "WMO::MODS", "d5/ddf/a28715.html", "d5/ddf/a28715" ],
+    [ "WMO::MODD", "d0/d42/a28719.html", "d0/d42/a28719" ],
+    [ "WMODoodadData", "dc/d41/a28723.html", "dc/d41/a28723" ],
+    [ "WMORoot", "de/daf/a28727.html", "de/daf/a28727" ],
+    [ "WMOLiquidHeader", "d7/d9a/a28731.html", "d7/d9a/a28731" ],
+    [ "WMOLiquidVert", "d1/dc0/a28735.html", "d1/dc0/a28735" ],
+    [ "WMOGroup", "dc/da7/a28739.html", "dc/da7/a28739" ],
+    [ "MopyFlags", "d4/d1e/a04745.html#a0673ad4a8399eb24693f8694a261e3da", [
+      [ "WHO_MATERIAL_UNK01", "d4/d1e/a04745.html#a0673ad4a8399eb24693f8694a261e3daa4887238124bff7f472762f37b14f084b", null ],
+      [ "WMO_MATERIAL_NOCAMCOLLIDE", "d4/d1e/a04745.html#a0673ad4a8399eb24693f8694a261e3daae8fbdf74c986d20ec35a1bc8540ab5f6", null ],
+      [ "WMO_MATERIAL_DETAIL", "d4/d1e/a04745.html#a0673ad4a8399eb24693f8694a261e3daa02dedf8ad6e2e81ec7ce4f51c2003d20", null ],
+      [ "WMO_MATERIAL_COLLISION", "d4/d1e/a04745.html#a0673ad4a8399eb24693f8694a261e3daa26cd74a7fba8ff77edd7fcad4b174192", null ],
+      [ "WMO_MATERIAL_HINT", "d4/d1e/a04745.html#a0673ad4a8399eb24693f8694a261e3daaeda4c860284ded0a951980ea981503f2", null ],
+      [ "WMO_MATERIAL_RENDER", "d4/d1e/a04745.html#a0673ad4a8399eb24693f8694a261e3daa79016e869a8c491c5e7c762416645edc", null ],
+      [ "WMO_MATERIAL_WALL_SURFACE", "d4/d1e/a04745.html#a0673ad4a8399eb24693f8694a261e3daaa806842158937b60f3b6af093b50497a", null ],
+      [ "WMO_MATERIAL_COLLIDE_HIT", "d4/d1e/a04745.html#a0673ad4a8399eb24693f8694a261e3daad1b64a17d5df9a320ad54ab47e9c0885", null ]
+    ] ],
+    [ "Extract", "d4/d1e/a04745.html#a9148b3ef5b412564a285737b0bd104dd", null ],
+    [ "fixCoords", "d4/d1e/a04745.html#ab265837fe64577975f97318431c69e9c", null ]
 ];

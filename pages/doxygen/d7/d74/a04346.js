@@ -1,9 +1,8 @@
 var a04346 =
 [
-    [ "getAngle", "d7/d74/a04346.html#a5ce837ff4fb41332a25e6b0dc0f5b848", null ],
-    [ "getCircleAreaByRadius", "d7/d74/a04346.html#a18ed540c327b1fd656065d8cbfc4844f", null ],
-    [ "getCirclePerimeterByRadius", "d7/d74/a04346.html#a62641094ea3c1b9506faefa7a35ba456", null ],
-    [ "getCylinderVolume", "d7/d74/a04346.html#a95ce6760beb476a4c24ff46d3069103f", null ],
-    [ "getSlopeAngle", "d7/d74/a04346.html#a61d2d33d44f335480a833a04436620ba", null ],
-    [ "getSlopeAngleAbs", "d7/d74/a04346.html#a0b02845f56a27df498d0598d259ca5e1", null ]
+    [ "CleanStringForMysqlQuery", "d7/d74/a04346.html#a4750695bf6f728da1b0356af3ddaabc9", null ],
+    [ "GetLocaleByName", "d7/d74/a04346.html#a8051d28826d995169bd4ce60310d5d65", null ],
+    [ "GetNameByLocaleConstant", "d7/d74/a04346.html#a3a6dbe16dbe45905c1f3aabc858c1fe1", null ],
+    [ "IsLocaleValid", "d7/d74/a04346.html#ac2f3763b8ee770808af7ecec42dfaa76", null ],
+    [ "localeNames", "d7/d74/a04346.html#a32b3de4eb98b686cc6472385a449e4e9", null ]
 ];

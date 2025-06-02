@@ -1,9 +1,6 @@
 var a18083 =
 [
-    [ "ShadowTrapLKTargetSelector", "d9/d77/a18083.html#a33561775948e07ac6ade2037f237441d", null ],
-    [ "operator()", "d9/d77/a18083.html#a3770329509c6ab2f16ae369ea8d72645", null ],
-    [ "_maxDist", "d9/d77/a18083.html#a6ee78b1ca184a05d01aa053afe499a95", null ],
-    [ "_playerOnly", "d9/d77/a18083.html#acfb3a657e430bc2ca26680bef6cf0159", null ],
-    [ "_reqLOS", "d9/d77/a18083.html#a7911be23196f59d55028affc3be23c20", null ],
-    [ "_source", "d9/d77/a18083.html#af416013aabf3b217b07228072076603d", null ]
+    [ "HandleScript", "d9/d77/a18083.html#a038a827f7fe179ff56ab581efdf08790", null ],
+    [ "PrepareSpellScript", "d9/d77/a18083.html#a9ffd37bb54ce5e4a73d7d93eaddda2dd", null ],
+    [ "Register", "d9/d77/a18083.html#a6018f3a74a1b61042bb0ff6c02b76611", null ]
 ];

@@ -1,6 +1,6 @@
 var a19203 =
 [
-    [ "npc_eoe_wyrmrest_skytalonAI", "dd/de5/a19203.html#a0878695bc4179e3b6e92dde9f2b5cf19", null ],
-    [ "JustDied", "dd/de5/a19203.html#aaa88ff236fd49a9c672ab29feb7377b8", null ],
-    [ "PassengerBoarded", "dd/de5/a19203.html#aa3352276e87d805cc8722eb97d10ca46", null ]
+    [ "npc_alexstraszaAI", "d8/d85/a19207.html", "d8/d85/a19207" ],
+    [ "npc_alexstrasza", "dd/de5/a19203.html#aa28858e8368031c2882e7e3c1c5968dd", null ],
+    [ "GetAI", "dd/de5/a19203.html#ad155ccc4f7bca786229ee015d365e3ce", null ]
 ];

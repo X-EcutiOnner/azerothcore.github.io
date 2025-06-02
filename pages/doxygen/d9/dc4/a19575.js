@@ -1,7 +1,8 @@
 var a19575 =
 [
-    [ "HandleEffectRemove", "d9/dc4/a19575.html#af61220cb739baef9b33aecddb1cfe5ea", null ],
-    [ "PrepareAuraScript", "d9/dc4/a19575.html#ad8035b1b676751fcc299e4ad8df62ed8", null ],
-    [ "Register", "d9/dc4/a19575.html#abe52dbfdbd42c860e0a79873dd19e22d", null ],
-    [ "Validate", "d9/dc4/a19575.html#a7c4f9df92b501720e30372fa9e9dbad7", null ]
+    [ "dark_rune_stormcallerAI", "d9/dc4/a19575.html#ad889fb0c50e879c958c9b8bb681e4bf7", null ],
+    [ "JustEngagedWith", "d9/dc4/a19575.html#a7ddfb8afac3ff28a84b26255628fab50", null ],
+    [ "Reset", "d9/dc4/a19575.html#afa9cc2e1a9f7d21cd885479e9afdcd12", null ],
+    [ "UpdateAI", "d9/dc4/a19575.html#adbd245fc5180dc7c78704595a9592864", null ],
+    [ "events", "d9/dc4/a19575.html#aa7d8d1d075eeb03952b47cc16846a3db", null ]
 ];

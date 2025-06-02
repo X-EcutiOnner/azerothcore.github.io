@@ -1,7 +1,11 @@
 var a15367 =
 [
-    [ "HandleEffectPeriodic", "d7/d01/a15367.html#ac47c157dbd193bc131d281666ae2097f", null ],
-    [ "PrepareAuraScript", "d7/d01/a15367.html#ac650ece6e2d9e9e7ff9b863d77f84975", null ],
-    [ "Register", "d7/d01/a15367.html#ac3c158fdddd007d1d7986470032bfc25", null ],
-    [ "Validate", "d7/d01/a15367.html#a26b117dc8a3b104dec9de27597fbe55d", null ]
+    [ "npc_tiger_matriarchAI", "d7/d01/a15367.html#accbe5feed1eb7363575f297d1b50f6ab", null ],
+    [ "DamageTaken", "d7/d01/a15367.html#ab41c4275fe4f42b36615f746a100ccda", null ],
+    [ "IsSummonedBy", "d7/d01/a15367.html#a8b02683be93944a65b38658bba0af4d8", null ],
+    [ "JustEngagedWith", "d7/d01/a15367.html#a9a9295008552f5330f778dd3a0c591ea", null ],
+    [ "KilledUnit", "d7/d01/a15367.html#aabde7633ac07966ee1cd2d9817582189", null ],
+    [ "UpdateAI", "d7/d01/a15367.html#af8ed5b16a3f1ed04d439bc1ce1a07ede", null ],
+    [ "_events", "d7/d01/a15367.html#a44632ddc3c4e57bee1791cda4027bc93", null ],
+    [ "_tigerGuid", "d7/d01/a15367.html#ad557591ddebd4cece99b0e5793be3eb5", null ]
 ];

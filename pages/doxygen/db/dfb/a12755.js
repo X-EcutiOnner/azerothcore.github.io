@@ -1,5 +1,6 @@
 var a12755 =
 [
-    [ "boss_eramas_brightblaze", "db/dfb/a12755.html#a14d1528750036f27948f5de8a2b44bd3", null ],
-    [ "JustEngagedWith", "db/dfb/a12755.html#ad34613d2795f7371a43891488044392a", null ]
+    [ "boss_kagani_nightstrike", "db/dfb/a12755.html#aeb4cfab6c4caafcf64d5e54cf481fd6a", null ],
+    [ "JustEngagedWith", "db/dfb/a12755.html#aba5ca4ce6fe6b39bb85aadddbcd9891e", null ],
+    [ "MovementInform", "db/dfb/a12755.html#af1010b7aa7434a92f1168eceda47cc2e", null ]
 ];

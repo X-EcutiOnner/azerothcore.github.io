@@ -1,11 +1,12 @@
 var a22587 =
 [
-    [ "boss_talon_king_ikiss", "da/d68/a22587.html#acf8cbda5f7a33c026bfc0d6e7b31f43c", null ],
-    [ "CanAIAttack", "da/d68/a22587.html#ab4858d845f149b6333941d8f8ab59afb", null ],
-    [ "JustDied", "da/d68/a22587.html#ada1d993842d04453d6afad91e186a3fe", null ],
-    [ "JustEngagedWith", "da/d68/a22587.html#a325312ce6695435fcca701720434c64f", null ],
-    [ "KilledUnit", "da/d68/a22587.html#ae8d94f89a67f3a321c88327c076ddd77", null ],
-    [ "MoveInLineOfSight", "da/d68/a22587.html#ab13808b75b1ca79b856e5b2e64e67d89", null ],
-    [ "Reset", "da/d68/a22587.html#adcb1dca375ec548499da5a7690babc21", null ],
-    [ "_spoken", "da/d68/a22587.html#a3e9e3a8575dbf21262ba2b4226182373", null ]
+    [ "boss_anzu", "da/d68/a22587.html#aef8c5c57afa95936d8c2809fa1257799", null ],
+    [ "JustEngagedWith", "da/d68/a22587.html#a2384a1ea128ad5a43d3b8fb36fe39aba", null ],
+    [ "Reset", "da/d68/a22587.html#a61c75d6d96aa5cfb41e87faa74ec2fa5", null ],
+    [ "SummonBroods", "da/d68/a22587.html#a7f3f8868a5648bdeccd03d08203e4cf1", null ],
+    [ "SummonedCreatureDies", "da/d68/a22587.html#a2e35df609db069c8d31afffabcfead34", null ],
+    [ "SummonSpirits", "da/d68/a22587.html#a23e03d1718fba49a3bd57609abb77c6a", null ],
+    [ "UpdateAI", "da/d68/a22587.html#a06373460d454bfaf8db793e591cc0abd", null ],
+    [ "AnzuSpiritPos", "da/d68/a22587.html#a64e42ce8856b9d10c7f24fefc0c1e0b2", null ],
+    [ "talkTimer", "da/d68/a22587.html#a2afae53534d9e777c90d09456f834b5d", null ]
 ];

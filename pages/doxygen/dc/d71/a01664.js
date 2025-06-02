@@ -1,4 +1,6 @@
 var a01664 =
 [
-    [ "WorldPackets::Combat::SetSheathed", "d1/d36/a10495.html", "d1/d36/a10495" ]
+    [ "ArenaSeasonTeamRewarder", "da/d80/a07207.html", "da/d80/a07207" ],
+    [ "ArenaSeasonTeamRewarderImpl", "d2/d2a/a07211.html", "d2/d2a/a07211" ],
+    [ "ArenaSeasonRewardDistributor", "d2/d9e/a07215.html", "d2/d9e/a07215" ]
 ];

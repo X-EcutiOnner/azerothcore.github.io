@@ -1,7 +1,9 @@
 var a21887 =
 [
-    [ "HandleScript", "d9/d23/a21887.html#a95de3ae27cfd764380ab1648b49af38d", null ],
-    [ "Load", "d9/d23/a21887.html#a1aafe141985bc1e9c5b9467d4896d96b", null ],
-    [ "PrepareSpellScript", "d9/d23/a21887.html#a442138710213b9b120d8ce57b733205a", null ],
-    [ "Register", "d9/d23/a21887.html#af9d8f764a6a02737f8b559f067156df6", null ]
+    [ "npc_venture_co_stragglerAI", "d9/d23/a21887.html#abc3cc04b89b95fd45969ba5859bf810c", null ],
+    [ "Reset", "d9/d23/a21887.html#acfeaad9db95d0b391a64cc65ca3a1cee", null ],
+    [ "SpellHit", "d9/d23/a21887.html#ae1919454c270d10342079b60a727a306", null ],
+    [ "UpdateAI", "d9/d23/a21887.html#a0846336d8d1333e2c2f50731a722c3b7", null ],
+    [ "_events", "d9/d23/a21887.html#a9cd6e6b549e10900f35838f04e10e0f5", null ],
+    [ "_playerGUID", "d9/d23/a21887.html#a649493944b143782d995b5bdda3714b4", null ]
 ];

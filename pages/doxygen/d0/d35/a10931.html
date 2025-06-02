@@ -171,7 +171,7 @@ Public Attributes</h2></td></tr>
 <div class="line"><span class="lineno">   32</span>        <a class="code hl_typedef" href="../../da/d71/a04649.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> headerIndex=0;</div>
 <div class="line"><span class="lineno">   33</span>        <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d0/d35/a10931.html#a4f4e13fc8e2a6ec6de70f4432f25ffe2">isLargePacket</a>())</div>
 <div class="line"><span class="lineno">   34</span>        {</div>
-<div class="line"><span class="lineno">   35</span>            <a class="code hl_define" href="../../d6/d71/a04598.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;network&quot;</span>, <span class="stringliteral">&quot;initializing large server to client packet. Size: {}, cmd: {}&quot;</span>, <a class="code hl_variable" href="../../d0/d35/a10931.html#a5d5cf573cebe47a10e3f17b840c7a4e1">size</a>, cmd);</div>
+<div class="line"><span class="lineno">   35</span>            <a class="code hl_define" href="../../df/dce/a04214.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;network&quot;</span>, <span class="stringliteral">&quot;initializing large server to client packet. Size: {}, cmd: {}&quot;</span>, <a class="code hl_variable" href="../../d0/d35/a10931.html#a5d5cf573cebe47a10e3f17b840c7a4e1">size</a>, cmd);</div>
 <div class="line"><span class="lineno">   36</span>            <a class="code hl_variable" href="../../d0/d35/a10931.html#adc69128832b16124c284c584e7540b11">header</a>[headerIndex++] = 0x80 | (0xFF &amp; (<a class="code hl_variable" href="../../d0/d35/a10931.html#a5d5cf573cebe47a10e3f17b840c7a4e1">size</a> &gt;&gt; 16));</div>
 <div class="line"><span class="lineno">   37</span>        }</div>
 <div class="line"><span class="lineno">   38</span>        <a class="code hl_variable" href="../../d0/d35/a10931.html#adc69128832b16124c284c584e7540b11">header</a>[headerIndex++] = 0xFF &amp;(<a class="code hl_variable" href="../../d0/d35/a10931.html#a5d5cf573cebe47a10e3f17b840c7a4e1">size</a> &gt;&gt; 8);</div>
@@ -180,7 +180,7 @@ Public Attributes</h2></td></tr>
 <div class="line"><span class="lineno">   41</span>        <a class="code hl_variable" href="../../d0/d35/a10931.html#adc69128832b16124c284c584e7540b11">header</a>[headerIndex++] = 0xFF &amp; cmd;</div>
 <div class="line"><span class="lineno">   42</span>        <a class="code hl_variable" href="../../d0/d35/a10931.html#adc69128832b16124c284c584e7540b11">header</a>[headerIndex++] = 0xFF &amp; (cmd &gt;&gt; 8);</div>
 <div class="line"><span class="lineno">   43</span>    }</div>
-<div class="ttc" id="aa04598_html_a47ac782b14a7531c6232777165a1a161"><div class="ttname"><a href="../../d6/d71/a04598.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a></div><div class="ttdeci">#define LOG_DEBUG(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:169</div></div>
+<div class="ttc" id="aa04214_html_a47ac782b14a7531c6232777165a1a161"><div class="ttname"><a href="../../df/dce/a04214.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a></div><div class="ttdeci">#define LOG_DEBUG(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:169</div></div>
 <div class="ttc" id="aa04649_html_a15a8d014fadf85c99a2268d8cbd00767"><div class="ttname"><a href="../../da/d71/a04649.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></div><div class="ttdeci">std::uint8_t uint8</div><div class="ttdef"><b>Definition:</b> Define.h:109</div></div>
 <div class="ttc" id="aa10931_html_a4f4e13fc8e2a6ec6de70f4432f25ffe2"><div class="ttname"><a href="../../d0/d35/a10931.html#a4f4e13fc8e2a6ec6de70f4432f25ffe2">ServerPktHeader::isLargePacket</a></div><div class="ttdeci">bool isLargePacket() const</div><div class="ttdef"><b>Definition:</b> ServerPktHeader.h:51</div></div>
 <div class="ttc" id="aa10931_html_a5d5cf573cebe47a10e3f17b840c7a4e1"><div class="ttname"><a href="../../d0/d35/a10931.html#a5d5cf573cebe47a10e3f17b840c7a4e1">ServerPktHeader::size</a></div><div class="ttdeci">const uint32 size</div><div class="ttdef"><b>Definition:</b> ServerPktHeader.h:56</div></div>
@@ -295,7 +295,7 @@ Public Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d0/d35/a10931.html">ServerPktHeader</a></li>
-    <li class="footer">Generated on Mon May 26 2025 20:45:42 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Jun 2 2025 20:47:33 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

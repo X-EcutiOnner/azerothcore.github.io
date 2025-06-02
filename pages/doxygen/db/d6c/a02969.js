@@ -1,6 +1,59 @@
 var a02969 =
 [
-    [ "instance_razorfen_kraul", "d6/d85/a14855.html", "d6/d85/a14855" ],
-    [ "instance_razorfen_kraul::instance_razorfen_kraul_InstanceMapScript", "d8/da6/a14859.html", "d8/da6/a14859" ],
-    [ "AddSC_instance_razorfen_kraul", "db/d6c/a02969.html#a27080d618fc76ad4f3d6b9e8ad4cc3c0", null ]
+    [ "boss_apothecary_hummel", "d3/d22/a13047.html", "d3/d22/a13047" ],
+    [ "boss_apothecary_hummel::boss_apothecary_hummelAI", "d3/dd4/a13051.html", "d3/dd4/a13051" ],
+    [ "npc_apothecary_genericAI", "db/d66/a13055.html", "db/d66/a13055" ],
+    [ "npc_apothecary_frye", "db/d88/a13059.html", "db/d88/a13059" ],
+    [ "npc_apothecary_baxter", "db/d12/a13063.html", "db/d12/a13063" ],
+    [ "spell_apothecary_lingering_fumes", "d7/de0/a13067.html", "d7/de0/a13067" ],
+    [ "spell_apothecary_validate_area", "d8/dbc/a13071.html", "d8/dbc/a13071" ],
+    [ "spell_apothecary_throw_cologne", "d0/d88/a13075.html", "d0/d88/a13075" ],
+    [ "spell_apothecary_throw_perfume", "d7/dcf/a13079.html", "d7/dcf/a13079" ],
+    [ "spell_apothecary_perfume_spill", "d6/dd0/a13083.html", "d6/dd0/a13083" ],
+    [ "spell_apothecary_cologne_spill", "d4/d12/a13087.html", "d4/d12/a13087" ],
+    [ "ApothecaryMisc", "db/d6c/a02969.html#a089375166ea95171e0a3dae74f9740cf", [
+      [ "ACTION_START_EVENT", "db/d6c/a02969.html#a089375166ea95171e0a3dae74f9740cfa5a9d00590152ece2beb2305c6f271dd9", null ],
+      [ "ACTION_START_FIGHT", "db/d6c/a02969.html#a089375166ea95171e0a3dae74f9740cfafd2662e5ad45793954d7eca931443e2a", null ],
+      [ "GOSSIP_OPTION_START", "db/d6c/a02969.html#a089375166ea95171e0a3dae74f9740cfa38ec399ecfd73857e6ac074ad74c6abc", null ],
+      [ "GOSSIP_MENU_HUMMEL", "db/d6c/a02969.html#a089375166ea95171e0a3dae74f9740cfaeb346bca5ab5cddf0b0a25165f3a4199", null ],
+      [ "QUEST_YOUVE_BEEN_SERVED", "db/d6c/a02969.html#a089375166ea95171e0a3dae74f9740cfa0f13a9ab27738db33921fada71beed26", null ],
+      [ "NPC_APOTHECARY_FRYE", "db/d6c/a02969.html#a089375166ea95171e0a3dae74f9740cfafd2ba1f7e82dcf23f65a9fa54ed9bfc5", null ],
+      [ "NPC_APOTHECARY_BAXTER", "db/d6c/a02969.html#a089375166ea95171e0a3dae74f9740cfa767550e8e2397ec4a5c3e3a95db51c6b", null ],
+      [ "NPC_VIAL_BUNNY", "db/d6c/a02969.html#a089375166ea95171e0a3dae74f9740cfa6d34ef27621fd6744c37d007684718f8", null ],
+      [ "NPC_CROWN_APOTHECARY", "db/d6c/a02969.html#a089375166ea95171e0a3dae74f9740cfa730c801d900c7f7ed204cef975f51520", null ],
+      [ "PHASE_ALL", "db/d6c/a02969.html#a089375166ea95171e0a3dae74f9740cfa5a174c07b8602efe54b08ead7652a3fe", null ],
+      [ "PHASE_INTRO", "db/d6c/a02969.html#a089375166ea95171e0a3dae74f9740cfa4759cf00b99e3a6f4a2f65af817bd203", null ],
+      [ "PHASE_COMBAT", "db/d6c/a02969.html#a089375166ea95171e0a3dae74f9740cfaddfe924b2f0ce0eceb2a811186f83825", null ]
+    ] ],
+    [ "ApothecarySays", "db/d6c/a02969.html#a6edaee5ce05b16d8360c059a2718a302", [
+      [ "SAY_INTRO_0", "db/d6c/a02969.html#a6edaee5ce05b16d8360c059a2718a302ab67c13990cd545e383e96877a2f2c102", null ],
+      [ "SAY_INTRO_1", "db/d6c/a02969.html#a6edaee5ce05b16d8360c059a2718a302a5d62121fc78e6a1cfc703c5caba40b23", null ],
+      [ "SAY_INTRO_2", "db/d6c/a02969.html#a6edaee5ce05b16d8360c059a2718a302a262c474ec2073ec78c48eb44023e0069", null ],
+      [ "SAY_CALL_BAXTER", "db/d6c/a02969.html#a6edaee5ce05b16d8360c059a2718a302a9674e0b6f0f4d0ea65fb2377204ba0b8", null ],
+      [ "SAY_CALL_FRYE", "db/d6c/a02969.html#a6edaee5ce05b16d8360c059a2718a302aecf0479145c53d045a90ad70e2a59d6d", null ],
+      [ "SAY_HUMMEL_DEATH", "db/d6c/a02969.html#a6edaee5ce05b16d8360c059a2718a302afdac4195099aa5b26bced2feaace598f", null ],
+      [ "SAY_SUMMON_ADDS", "db/d6c/a02969.html#a6edaee5ce05b16d8360c059a2718a302a1cad39247cfc635e8fbbd28507a4565f", null ],
+      [ "SAY_BAXTER_DEATH", "db/d6c/a02969.html#a6edaee5ce05b16d8360c059a2718a302a794a973d0b60b2cd1bc8f581c4dc06f4", null ],
+      [ "SAY_FRYE_DEATH", "db/d6c/a02969.html#a6edaee5ce05b16d8360c059a2718a302a893047362d85cb096ff4abaf274fe7f8", null ]
+    ] ],
+    [ "ApothecarySpells", "db/d6c/a02969.html#a3be9e655b163b9e96e0e91053ab5340e", [
+      [ "SPELL_ALLURING_PERFUME", "db/d6c/a02969.html#a3be9e655b163b9e96e0e91053ab5340ea69e62e4d2a0c36190609d18be6674684", null ],
+      [ "SPELL_PERFUME_SPRAY", "db/d6c/a02969.html#a3be9e655b163b9e96e0e91053ab5340ea3a0f87dc02eb714afeea065d3bd80e28", null ],
+      [ "SPELL_CHAIN_REACTION", "db/d6c/a02969.html#a3be9e655b163b9e96e0e91053ab5340ea95ae132067c31fcc5af6b66e12581081", null ],
+      [ "SPELL_SUMMON_TABLE", "db/d6c/a02969.html#a3be9e655b163b9e96e0e91053ab5340ea2809eac4da3842244003e94b953e1f04", null ],
+      [ "SPELL_PERMANENT_FEIGN_DEATH", "db/d6c/a02969.html#a3be9e655b163b9e96e0e91053ab5340eae088c5aedcf64c242ca695d8b31ba6a4", null ],
+      [ "SPELL_QUIET_SUICIDE", "db/d6c/a02969.html#a3be9e655b163b9e96e0e91053ab5340ead860f54409f76f306c7f49aad1365de5", null ],
+      [ "SPELL_COLOGNE_SPRAY", "db/d6c/a02969.html#a3be9e655b163b9e96e0e91053ab5340ea11b1817b24a59f85e97c1dd313d02902", null ],
+      [ "SPELL_VALIDATE_AREA", "db/d6c/a02969.html#a3be9e655b163b9e96e0e91053ab5340ea63e5ea59169bf85814945448afb792df", null ],
+      [ "SPELL_THROW_COLOGNE", "db/d6c/a02969.html#a3be9e655b163b9e96e0e91053ab5340eadbd7d9f1050873a59721ce23dab4aa90", null ],
+      [ "SPELL_BUNNY_LOCKDOWN", "db/d6c/a02969.html#a3be9e655b163b9e96e0e91053ab5340eacca7aad4d6e4f18aae288ac50699630d", null ],
+      [ "SPELL_THROW_PERFUME", "db/d6c/a02969.html#a3be9e655b163b9e96e0e91053ab5340ea56000b1d92ac98403554f3ad14c37daa", null ],
+      [ "SPELL_PERFUME_SPILL", "db/d6c/a02969.html#a3be9e655b163b9e96e0e91053ab5340eae81ec956be144a73ba51a356116d2b23", null ],
+      [ "SPELL_COLOGNE_SPILL", "db/d6c/a02969.html#a3be9e655b163b9e96e0e91053ab5340ea73c84cecf746db87cde2d73e163ce8f4", null ],
+      [ "SPELL_PERFUME_SPILL_DAMAGE", "db/d6c/a02969.html#a3be9e655b163b9e96e0e91053ab5340ea8f376fef41ce78675e6973a885d0d8aa", null ],
+      [ "SPELL_COLOGNE_SPILL_DAMAGE", "db/d6c/a02969.html#a3be9e655b163b9e96e0e91053ab5340ea0ec910ff2192c226a2014a1c4c23086f", null ]
+    ] ],
+    [ "AddSC_boss_apothecary_hummel", "db/d6c/a02969.html#aae2a7d6c56f8a7f3dff6f6146ec59a73", null ],
+    [ "BaxterMovePos", "db/d6c/a02969.html#a8ff29d1fe0be700e07d22e86b6593b69", null ],
+    [ "FryeMovePos", "db/d6c/a02969.html#a4e21cd5458c7f5e47183151858fd0776", null ]
 ];

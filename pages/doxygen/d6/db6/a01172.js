@@ -1,10 +1,12 @@
 var a01172 =
 [
-    [ "GetGameTime", "d6/db6/a01172.html#adbe1785d1327dedf2ac403b7cc8e99c2", null ],
-    [ "GetGameTimeMS", "d6/db6/a01172.html#a6d0d49f37e25e497391157b2a2ec90c1", null ],
-    [ "GetStartTime", "d6/db6/a01172.html#a872d34d3f9d420cfc749073c809931f9", null ],
-    [ "GetSystemTime", "d6/db6/a01172.html#a443eccf314fe436192278d425d6d8220", null ],
-    [ "GetUptime", "d6/db6/a01172.html#ae2ff9233756dd88fa1aafcc1e1c0be4d", null ],
-    [ "Now", "d6/db6/a01172.html#ae5cc9f17fc6b8b15c678fa7a84a6e117", null ],
-    [ "UpdateGameTimers", "d6/db6/a01172.html#a45712735241c9563a12fc3da54fb144d", null ]
+    [ "ArenaScript", "db/dd0/a10207.html", "db/dd0/a10207" ],
+    [ "ArenaHook", "d6/db6/a01172.html#a93515f145fed15b3645f2240f39214ba", [
+      [ "ARENAHOOK_CAN_ADD_MEMBER", "d6/db6/a01172.html#a93515f145fed15b3645f2240f39214baa0eec08769f1e2848ef510ae5bc1980d0", null ],
+      [ "ARENAHOOK_ON_GET_POINTS", "d6/db6/a01172.html#a93515f145fed15b3645f2240f39214baab3934eeceaededbb59ec277bc4275588", null ],
+      [ "ARENAHOOK_CAN_SAVE_TO_DB", "d6/db6/a01172.html#a93515f145fed15b3645f2240f39214baa707580e05d247690d89335a46d576657", null ],
+      [ "ARENAHOOK_ON_BEFORE_CHECK_WIN_CONDITION", "d6/db6/a01172.html#a93515f145fed15b3645f2240f39214baa8f35d3e6970c95df27f631f3f5558a5e", null ],
+      [ "ARENAHOOK_ON_ARENA_START", "d6/db6/a01172.html#a93515f145fed15b3645f2240f39214baac02079e51af3fd7c3507a8a6f88fee09", null ],
+      [ "ARENAHOOK_END", "d6/db6/a01172.html#a93515f145fed15b3645f2240f39214baa2958c395c6475e07a7dff62d1014ae58", null ]
+    ] ]
 ];

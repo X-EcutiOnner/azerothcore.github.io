@@ -1,7 +1,6 @@
 var a22931 =
 [
-    [ "Absorb", "d5/d50/a22931.html#a227cf7329d7dee564c3f8f9f67378ffe", null ],
-    [ "HandleEffectRemove", "d5/d50/a22931.html#a3d4026e5208acb948c089a4bedba0de8", null ],
-    [ "PrepareAuraScript", "d5/d50/a22931.html#af66dc1cba6aa7511c11a071ea9a381bb", null ],
-    [ "Register", "d5/d50/a22931.html#a983cf678001efcbccc4b34a9ad919881", null ]
+    [ "ShadowOfDeathSelector", "d5/d50/a22931.html#a1190094fbde74ccffd954fea742ab0ae", null ],
+    [ "operator()", "d5/d50/a22931.html#a3c91b315ce6d6c523d4bdb8a8206a3c8", null ],
+    [ "_tank", "d5/d50/a22931.html#adc238645eec306e00918dbab05549fc8", null ]
 ];

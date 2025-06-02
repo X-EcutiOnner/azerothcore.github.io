@@ -1,7 +1,6 @@
 var a24135 =
 [
-    [ "o", "dc/d16/a24135.html#a3785e9b55ea3a7140086ce1f86232109", null ],
-    [ "x", "dc/d16/a24135.html#ac81cc1119b7ac8ac70ee635f2e3d4bb7", null ],
-    [ "y", "dc/d16/a24135.html#a10fbad67977d8dd3911eb629c1797684", null ],
-    [ "z", "dc/d16/a24135.html#a69fc2438e52f6c0de3af13900ff38166", null ]
+    [ "npcs_flanis_swiftwing_and_kagrosh", "dc/d16/a24135.html#aa95eceea94521947bd443805c8ddb52d", null ],
+    [ "OnGossipHello", "dc/d16/a24135.html#a7f331c38ec82d2c69bce4b1f861527a0", null ],
+    [ "OnGossipSelect", "dc/d16/a24135.html#aff34165955ba93e1fcd2b9731894d871", null ]
 ];

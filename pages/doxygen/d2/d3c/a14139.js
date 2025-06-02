@@ -1,6 +1,6 @@
 var a14139 =
 [
-    [ "OnApply", "d2/d3c/a14139.html#a4a276b00d4912c210598057620368934", null ],
-    [ "PrepareAuraScript", "d2/d3c/a14139.html#a20cb3aec994ffc0a06d9b4ba4f575844", null ],
-    [ "Register", "d2/d3c/a14139.html#adf9962252dec76f324b8cdbf8f6b9155", null ]
+    [ "HandleDummyEffect", "d2/d3c/a14139.html#a3860ad8a34e37601f7a4cef395f7ab2a", null ],
+    [ "PrepareSpellScript", "d2/d3c/a14139.html#a1c69fb2fd3fa623d62647fca738d27d6", null ],
+    [ "Register", "d2/d3c/a14139.html#ad1cbf7ed8f7d119bb56d06fb62358458", null ]
 ];

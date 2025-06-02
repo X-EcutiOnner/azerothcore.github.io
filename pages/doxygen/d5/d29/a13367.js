@@ -1,6 +1,7 @@
 var a13367 =
 [
-    [ "ChangeSummonPos", "d5/d29/a13367.html#ae24a7c8279a92f1018748a0e930736ac", null ],
-    [ "PrepareSpellScript", "d5/d29/a13367.html#a7b6cd9464f27676f0c74224ef1b1a9cc", null ],
-    [ "Register", "d5/d29/a13367.html#a03a1a1e5501452eacaceadd9725f2287", null ]
+    [ "HandlePull", "d5/d29/a13367.html#a5a43bb53d3c534054498f8366d617e5a", null ],
+    [ "PrepareSpellScript", "d5/d29/a13367.html#aec00f82a35c8154e7d4c1f47c52d486f", null ],
+    [ "RaycastToObstacle", "d5/d29/a13367.html#ad6dfdf70e9ffd43510c4791f804ce340", null ],
+    [ "Register", "d5/d29/a13367.html#a6da76afd5feaa0d60be70ff8469d78bc", null ]
 ];

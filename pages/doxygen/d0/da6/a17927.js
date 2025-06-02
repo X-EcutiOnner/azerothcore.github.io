@@ -1,6 +1,7 @@
 var a17927 =
 [
-    [ "npc_precious_iccAI", "dd/d18/a17931.html", "dd/d18/a17931" ],
-    [ "npc_precious_icc", "d0/da6/a17927.html#a463eb0df1edb17e154658dac131f0898", null ],
-    [ "GetAI", "d0/da6/a17927.html#aa63840c5968a089bff41dcd9c86d5849", null ]
+    [ "HandleCast", "d0/da6/a17927.html#aaa3262bc782e342825d4caba2954e95d", null ],
+    [ "PrepareSpellScript", "d0/da6/a17927.html#ae4d1f05b978e2a46d7dc3410def73978", null ],
+    [ "Register", "d0/da6/a17927.html#ac59fb77c6a52d7a603dbb27e933a6814", null ],
+    [ "Validate", "d0/da6/a17927.html#a6ca80316fe7bcbb4ebda095d633bb1bc", null ]
 ];

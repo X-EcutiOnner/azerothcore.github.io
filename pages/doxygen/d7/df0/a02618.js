@@ -1,186 +1,150 @@
 var a02618 =
 [
-    [ "spell_q10612_10613_the_fel_and_the_furious", "d2/d63/a24075.html", "d2/d63/a24075" ],
-    [ "spell_q10563_q10596_to_legion_hold_aura", "db/d75/a24079.html", "db/d75/a24079" ],
-    [ "npc_invis_infernal_caster", "db/d45/a24083.html", "db/d45/a24083" ],
-    [ "npc_invis_infernal_caster::npc_invis_infernal_casterAI", "d9/dc5/a24087.html", "d9/dc5/a24087" ],
-    [ "npc_infernal_attacker", "dd/d40/a24091.html", "dd/d40/a24091" ],
-    [ "npc_infernal_attacker::npc_infernal_attackerAI", "d9/de2/a24095.html", "d9/de2/a24095" ],
-    [ "npc_mature_netherwing_drake", "dd/d7d/a24099.html", "dd/d7d/a24099" ],
-    [ "npc_mature_netherwing_drake::npc_mature_netherwing_drakeAI", "d5/d35/a24103.html", "d5/d35/a24103" ],
-    [ "npc_enslaved_netherwing_drake", "d2/d5b/a24107.html", "d2/d5b/a24107" ],
-    [ "npc_dragonmaw_peon", "de/d9a/a24111.html", "de/d9a/a24111" ],
-    [ "npc_dragonmaw_peon::npc_dragonmaw_peonAI", "d4/d67/a24115.html", "d4/d67/a24115" ],
-    [ "npc_drake_dealer_hurlunk", "d4/d75/a24119.html", "d4/d75/a24119" ],
-    [ "npcs_flanis_swiftwing_and_kagrosh", "d4/d1c/a24123.html", "d4/d1c/a24123" ],
-    [ "npc_karynaku", "d2/d68/a24127.html", "d2/d68/a24127" ],
-    [ "TorlothCinematic", "d0/de2/a24131.html", "d0/de2/a24131" ],
-    [ "Location", "dc/d16/a24135.html", "dc/d16/a24135" ],
-    [ "WaveDataCreature", "df/d49/a24139.html", "df/d49/a24139" ],
-    [ "SpawnSpells", "d2/d58/a15463.html", "d2/d58/a15463" ],
-    [ "npc_torloth_the_magnificent", "d0/d76/a24143.html", "d0/d76/a24143" ],
-    [ "npc_torloth_the_magnificent::npc_torloth_the_magnificentAI", "d6/d2b/a24147.html", "d6/d2b/a24147" ],
-    [ "npc_lord_illidan_stormrage", "de/d91/a24151.html", "de/d91/a24151" ],
-    [ "npc_lord_illidan_stormrage::npc_lord_illidan_stormrageAI", "dd/dc4/a24155.html", "dd/dc4/a24155" ],
-    [ "npc_illidari_spawn", "d2/d6a/a24159.html", "d2/d6a/a24159" ],
-    [ "npc_illidari_spawn::npc_illidari_spawnAI", "d7/d8f/a24163.html", "d7/d8f/a24163" ],
-    [ "go_crystal_prison", "d5/de6/a24167.html", "d5/de6/a24167" ],
-    [ "npc_enraged_spirit", "d8/df2/a24171.html", "d8/df2/a24171" ],
-    [ "npc_enraged_spirit::npc_enraged_spiritAI", "d4/d10/a24175.html", "d4/d10/a24175" ],
-    [ "npc_shadowmoon_tuber_node", "d1/dce/a24179.html", "d1/dce/a24179" ],
-    [ "npc_shadowmoon_tuber_node::npc_shadowmoon_tuber_nodeAI", "d7/d81/a24183.html", "d7/d81/a24183" ],
-    [ "npc_korkron_or_wildhammer", "d2/ddb/a24187.html", "d2/ddb/a24187" ],
-    [ "spell_calling_korkron_or_wildhammer", "d1/d7f/a24191.html", "d1/d7f/a24191" ],
-    [ "spell_disrupt_summoning_ritual", "db/d3c/a24195.html", "db/d3c/a24195" ],
-    [ "dragonmaw_race_npc", "d1/d53/a24199.html", "d1/d53/a24199" ],
-    [ "EVENT_AREA_RADIUS", "d7/df0/a02618.html#ab69ef601d31d0264381d9af5e06f7769", null ],
-    [ "EVENT_COOLDOWN", "d7/df0/a02618.html#a4154053cb93b323fc74dd05d04a20d7e", null ],
-    [ "QUEST_BATTLE_OF_THE_CRIMSON_WATCH", "d7/df0/a02618.html#a310a37ec148e2e37c1123f9ced34020f", null ],
-    [ "DragonmawPeon", "d7/df0/a02618.html#ae554d834b3961877059bec92621b0103", [
-      [ "SAY_1", "d7/df0/a02618.html#ae554d834b3961877059bec92621b0103a307d891e05530d70a32ad2047cfe6dab", null ],
-      [ "SAY_POISONED_1", "d7/df0/a02618.html#ae554d834b3961877059bec92621b0103a1b5f3041ee91b4a664528018eed0166e", null ],
-      [ "SPELL_POISON", "d7/df0/a02618.html#ae554d834b3961877059bec92621b0103a6ab0bda74bcf7baf41bcd485a9ce0edc", null ],
-      [ "SPELL_KICK", "d7/df0/a02618.html#ae554d834b3961877059bec92621b0103a4de29e3fa18189011f62fd209e6be3fc", null ],
-      [ "SPELL_SUNDER", "d7/df0/a02618.html#ae554d834b3961877059bec92621b0103af263a112c1204e3125fcc7b0209ef285", null ],
-      [ "SPELL_VOMIT", "d7/df0/a02618.html#ae554d834b3961877059bec92621b0103aab5234463aa64c76c909cd2b30631be7", null ],
-      [ "EVENT_KICK", "d7/df0/a02618.html#ae554d834b3961877059bec92621b0103aa8873414cf1cfe9b65c801881b4229ab", null ],
-      [ "EVENT_SUNDER", "d7/df0/a02618.html#ae554d834b3961877059bec92621b0103a774aeafbcc7fcca150af234e9f5ba8d3", null ],
-      [ "EVENT_CHECK_POISON", "d7/df0/a02618.html#ae554d834b3961877059bec92621b0103a11bf80402c002fde8b32ece6a60dff2f", null ],
-      [ "EVENT_WALK_TO_MUTTON", "d7/df0/a02618.html#ae554d834b3961877059bec92621b0103a70ce837fb348f11956c1228a3ef9c325", null ],
-      [ "EVENT_POISONED", "d7/df0/a02618.html#ae554d834b3961877059bec92621b0103a8d45870c3c95c1b297f0b27948d74e01", null ],
-      [ "EVENT_KILL", "d7/df0/a02618.html#ae554d834b3961877059bec92621b0103aa370ba4e92a593f2bb65c2198b275380", null ],
-      [ "DELICIOUS_MUTTON", "d7/df0/a02618.html#ae554d834b3961877059bec92621b0103a76d74da4ee3587eb152886c89f67abc9", null ],
-      [ "QUEST_A_SLOW_DEATH", "d7/df0/a02618.html#ae554d834b3961877059bec92621b0103ad9223a935bb2b9781e91f78f175d41c2", null ],
-      [ "DRAGONMAW_PEON_KILL_CREDIT", "d7/df0/a02618.html#ae554d834b3961877059bec92621b0103a9705e75b428b543df1304a85eee62ac1", null ]
+    [ "npc_emily", "d9/dbe/a21827.html", "d9/dbe/a21827" ],
+    [ "npc_emily::npc_emilyAI", "d0/dcd/a21831.html", "d0/dcd/a21831" ],
+    [ "npc_mrfloppy", "db/d26/a21835.html", "db/d26/a21835" ],
+    [ "npc_mrfloppy::npc_mrfloppyAI", "d2/dbd/a21839.html", "d2/dbd/a21839" ],
+    [ "npc_ravenous_worg", "d6/d0f/a21843.html", "d6/d0f/a21843" ],
+    [ "npc_ravenous_worg::npc_ravenous_worgAI", "d0/de6/a21847.html", "d0/de6/a21847" ],
+    [ "spell_q12227_outhouse_groans", "d3/d9f/a21851.html", "d3/d9f/a21851" ],
+    [ "spell_q12227_camera_shake", "df/db1/a21855.html", "df/db1/a21855" ],
+    [ "npc_tallhorn_stag", "d9/d40/a21859.html", "d9/d40/a21859" ],
+    [ "npc_tallhorn_stag::npc_tallhorn_stagAI", "da/daf/a21863.html", "da/daf/a21863" ],
+    [ "npc_amberpine_woodsman", "d2/d68/a21867.html", "d2/d68/a21867" ],
+    [ "npc_amberpine_woodsman::npc_amberpine_woodsmanAI", "d3/d64/a21871.html", "d3/d64/a21871" ],
+    [ "npc_wounded_skirmisher", "de/d73/a21875.html", "de/d73/a21875" ],
+    [ "spell_renew_skirmisher", "d6/d4a/a21879.html", "d6/d4a/a21879" ],
+    [ "npc_venture_co_straggler", "d3/d4f/a21883.html", "d3/d4f/a21883" ],
+    [ "npc_venture_co_straggler::npc_venture_co_stragglerAI", "d9/d23/a21887.html", "d9/d23/a21887" ],
+    [ "npc_lake_frog", "d5/dfc/a21891.html", "d5/dfc/a21891" ],
+    [ "npc_lake_frog::npc_lake_frogAI", "de/d25/a21895.html", "de/d25/a21895" ],
+    [ "spell_shredder_delivery", "da/d98/a21899.html", "da/d98/a21899" ],
+    [ "spell_infected_worgen_bite_aura", "d1/d0a/a21903.html", "d1/d0a/a21903" ],
+    [ "npc_rocket_propelled_warhead", "de/d3e/a21907.html", "de/d3e/a21907" ],
+    [ "npc_rocket_propelled_warhead::npc_rocket_propelled_warheadAI", "d7/d56/a21911.html", "d7/d56/a21911" ],
+    [ "spell_vehicle_warhead_fuse", "da/db5/a21915.html", "da/db5/a21915" ],
+    [ "spell_warhead_detonate", "da/d38/a21919.html", "da/d38/a21919" ],
+    [ "spell_z_check_aura", "d8/d5f/a21923.html", "d8/d5f/a21923" ],
+    [ "spell_warhead_fuse_aura", "da/dc4/a21927.html", "da/dc4/a21927" ],
+    [ "spell_frog_kiss", "de/d4f/a21931.html", "de/d4f/a21931" ],
+    [ "AmberpineWoodsman", "d7/df0/a02618.html#a2481d0a3a1ce71a0f4ff320582eb107e", [
+      [ "NPC_TALLHORN_STAG", "d7/df0/a02618.html#a2481d0a3a1ce71a0f4ff320582eb107ea9bda1d7448864e7f142ccf1779a35c07", null ]
     ] ],
-    [ "DragonmawRaces", "d7/df0/a02618.html#a5e61d423ee71ecfd4c27c4eab4769d2f", [
-      [ "QUEST_MUCKJAW", "d7/df0/a02618.html#a5e61d423ee71ecfd4c27c4eab4769d2fa34fa68eaba2f8570dcd2ae4523622a97", null ],
-      [ "QUEST_TROPE", "d7/df0/a02618.html#a5e61d423ee71ecfd4c27c4eab4769d2fa4e611bf780946301b6110d3e6be85194", null ],
-      [ "QUEST_CORLOK", "d7/df0/a02618.html#a5e61d423ee71ecfd4c27c4eab4769d2fae8604471332b15783e947502873b1dd8", null ],
-      [ "QUEST_ICHMAN", "d7/df0/a02618.html#a5e61d423ee71ecfd4c27c4eab4769d2fa11b3c7958186463c328f8b167dfecd51", null ],
-      [ "QUEST_MULVERICK", "d7/df0/a02618.html#a5e61d423ee71ecfd4c27c4eab4769d2fa827cdfeef78f25048873836ecc30dd97", null ],
-      [ "QUEST_SKYSHATTER", "d7/df0/a02618.html#a5e61d423ee71ecfd4c27c4eab4769d2faad1de9f83a5ef1abe7193109e680f519", null ],
-      [ "NPC_MUCKJAW", "d7/df0/a02618.html#a5e61d423ee71ecfd4c27c4eab4769d2faeb9112acc0070483b465dee50f2f801b", null ],
-      [ "NPC_TROPE", "d7/df0/a02618.html#a5e61d423ee71ecfd4c27c4eab4769d2fa56bc14f24bde5fd540a9806ed74cac75", null ],
-      [ "NPC_CORLOK", "d7/df0/a02618.html#a5e61d423ee71ecfd4c27c4eab4769d2fa7bb3395ddfb1787d40a90f84dc08b0ae", null ],
-      [ "NPC_ICHMAN", "d7/df0/a02618.html#a5e61d423ee71ecfd4c27c4eab4769d2fa1f076e1b94e0013d4a909d84bfa13bd1", null ],
-      [ "NPC_MULVERICK", "d7/df0/a02618.html#a5e61d423ee71ecfd4c27c4eab4769d2facebe1b474856993ba1503cdf3b5e34dd", null ],
-      [ "NPC_SKYSHATTER", "d7/df0/a02618.html#a5e61d423ee71ecfd4c27c4eab4769d2fa3bb7192f9ae4d9634f86782f9505ede0", null ],
-      [ "PATH_MUCKJAW", "d7/df0/a02618.html#a5e61d423ee71ecfd4c27c4eab4769d2fadd9a22561edeeb3b281a292f356d3208", null ],
-      [ "PATH_TROPE", "d7/df0/a02618.html#a5e61d423ee71ecfd4c27c4eab4769d2fa90aca00694c2c262b62cdc0ff00910ee", null ],
-      [ "PATH_CORLOK", "d7/df0/a02618.html#a5e61d423ee71ecfd4c27c4eab4769d2fab0f04154669f0400e1074bb5b8f2d77e", null ],
-      [ "PATH_ICHMAN", "d7/df0/a02618.html#a5e61d423ee71ecfd4c27c4eab4769d2fa2f28314923d51a16fb6b9fc5ba2382b8", null ],
-      [ "PATH_MULVERICK", "d7/df0/a02618.html#a5e61d423ee71ecfd4c27c4eab4769d2fa9993e577d829afdb7f559044d492740d", null ],
-      [ "PATH_SKYSHATTER", "d7/df0/a02618.html#a5e61d423ee71ecfd4c27c4eab4769d2fafd0798cb85b5cc6c8065a7bd9efdb7d4", null ],
-      [ "NPC_TARGET_MUCKJAW", "d7/df0/a02618.html#a5e61d423ee71ecfd4c27c4eab4769d2fa3492c6dac2cdf5f64ab2dcea455045ba", null ],
-      [ "NPC_TARGET_TROPE", "d7/df0/a02618.html#a5e61d423ee71ecfd4c27c4eab4769d2fadb31645c53b38fe1d8ca06b54eeecbed", null ],
-      [ "NPC_TARGET_CORLOK", "d7/df0/a02618.html#a5e61d423ee71ecfd4c27c4eab4769d2fa976a4a44b3a9b8297ef4071b92e6b446", null ],
-      [ "NPC_TARGET_ICHMAN", "d7/df0/a02618.html#a5e61d423ee71ecfd4c27c4eab4769d2fab92da90bc84140babb5ac3865d29979e", null ],
-      [ "NPC_TARGET_MULVERICK", "d7/df0/a02618.html#a5e61d423ee71ecfd4c27c4eab4769d2fa739b302be302db5253d70c9a79dfeda2", null ],
-      [ "NPC_TARGET_SKYSHATTER", "d7/df0/a02618.html#a5e61d423ee71ecfd4c27c4eab4769d2fa45ef6860c2f767d2152721dc81038980", null ],
-      [ "SAY_START", "d7/df0/a02618.html#a5e61d423ee71ecfd4c27c4eab4769d2fa2eae21cbf7d110ee89a9798ef6f00239", null ],
-      [ "SAY_COMPLETE", "d7/df0/a02618.html#a5e61d423ee71ecfd4c27c4eab4769d2fac31c61437b536671a4aac2cfc0a66fdd", null ],
-      [ "SAY_SKYSHATTER_SPECIAL", "d7/df0/a02618.html#a5e61d423ee71ecfd4c27c4eab4769d2fa6c92d56e10745978739c4d55d9fc1b8f", null ]
+    [ "AmberpineWoodsmanEvents", "d7/df0/a02618.html#ab497765271686da90c5a54779670f26a", [
+      [ "EVENT_WOODSMAN_1", "d7/df0/a02618.html#ab497765271686da90c5a54779670f26aa3cc87a4d1160ed0a94150838414883f3", null ],
+      [ "EVENT_WOODSMAN_2", "d7/df0/a02618.html#ab497765271686da90c5a54779670f26aa15d81ffc64f16e7b41710173ab817e78", null ]
     ] ],
-    [ "Enraged_Dpirits", "d7/df0/a02618.html#a90c0d27144e43f3959fcc5d52db82e89", [
-      [ "QUEST_ENRAGED_SPIRITS_FIRE_EARTH", "d7/df0/a02618.html#a90c0d27144e43f3959fcc5d52db82e89a00af6a5cf882aa60dbd00b72682e62f4", null ],
-      [ "QUEST_ENRAGED_SPIRITS_AIR", "d7/df0/a02618.html#a90c0d27144e43f3959fcc5d52db82e89ac10d744c3b0fe0744414ac6287da8582", null ],
-      [ "QUEST_ENRAGED_SPIRITS_WATER", "d7/df0/a02618.html#a90c0d27144e43f3959fcc5d52db82e89af28f06266655235767f00124047eb0cf", null ],
-      [ "ENTRY_TOTEM_OF_SPIRITS", "d7/df0/a02618.html#a90c0d27144e43f3959fcc5d52db82e89aae37f2ca0fb9f937d7b9a4978fd01129", null ],
-      [ "RADIUS_TOTEM_OF_SPIRITS", "d7/df0/a02618.html#a90c0d27144e43f3959fcc5d52db82e89a8cc75aff50e4b588c0c03b68843d8dd2", null ],
-      [ "NPC_ENRAGED_EARTH_SPIRIT", "d7/df0/a02618.html#a90c0d27144e43f3959fcc5d52db82e89a7960db784552c9c9e6844cdd45abe658", null ],
-      [ "NPC_ENRAGED_FIRE_SPIRIT", "d7/df0/a02618.html#a90c0d27144e43f3959fcc5d52db82e89af2a1f731d0c25557696e9cd443d290ea", null ],
-      [ "NPC_ENRAGED_AIR_SPIRIT", "d7/df0/a02618.html#a90c0d27144e43f3959fcc5d52db82e89a0aec9f00588d40567cb7dd671db50fed", null ],
-      [ "NPC_ENRAGED_WATER_SPIRIT", "d7/df0/a02618.html#a90c0d27144e43f3959fcc5d52db82e89a785b1b1793ba985baa020374d34ca3e0", null ],
-      [ "SPELL_STORMBOLT", "d7/df0/a02618.html#a90c0d27144e43f3959fcc5d52db82e89a8a2e1108c381ff2b790a4b57839b6754", null ],
-      [ "SPELL_AIR_SPIRIT_CHAIN_LIGHTNING", "d7/df0/a02618.html#a90c0d27144e43f3959fcc5d52db82e89a2ea40a0c10fd532d1c6d13fe72683bf9", null ],
-      [ "SPELL_HURRICANE", "d7/df0/a02618.html#a90c0d27144e43f3959fcc5d52db82e89acc28d36f2859b93e18fa1a0c8e2e0f88", null ],
-      [ "SPELL_ENRAGE", "d7/df0/a02618.html#a90c0d27144e43f3959fcc5d52db82e89a2a20f56307679be4d4f01a0d3d93cc7e", null ],
-      [ "SPELL_FEL_FIREBALL", "d7/df0/a02618.html#a90c0d27144e43f3959fcc5d52db82e89a99ac159470e5ec6df42c6b4e8d239f19", null ],
-      [ "SPELL_FEL_FIRE_AURA", "d7/df0/a02618.html#a90c0d27144e43f3959fcc5d52db82e89a3a3ace68ae8e52f1ba035dfc34b9d113", null ],
-      [ "SPELL_FIERY_BOULDER", "d7/df0/a02618.html#a90c0d27144e43f3959fcc5d52db82e89a20aef8173bae9da58cf133712a8e9aa6", null ],
-      [ "SPELL_SUMMON_ENRAGED_EARTH_SHARD", "d7/df0/a02618.html#a90c0d27144e43f3959fcc5d52db82e89afd5151bfc238f19eb8763743dccf425a", null ],
-      [ "NPC_EARTHEN_SOUL", "d7/df0/a02618.html#a90c0d27144e43f3959fcc5d52db82e89a7a6e0dbed6931227c0a227c71ab4f60d", null ],
-      [ "NPC_FIERY_SOUL", "d7/df0/a02618.html#a90c0d27144e43f3959fcc5d52db82e89ae00c2ae7cc2379845930d79d7945a2f9", null ],
-      [ "NPC_ENRAGED_AIRY_SOUL", "d7/df0/a02618.html#a90c0d27144e43f3959fcc5d52db82e89af0e74bb51810c096483e41a3186f4387", null ],
-      [ "NPC_ENRAGED_WATERY_SOUL", "d7/df0/a02618.html#a90c0d27144e43f3959fcc5d52db82e89a994bd23bad1aa3506d5acbaead2f0686", null ],
-      [ "SPELL_EARTHEN_SOUL_CAPTURED_CREDIT", "d7/df0/a02618.html#a90c0d27144e43f3959fcc5d52db82e89a041b06322abed018c2c8e5e4d5c1fc74", null ],
-      [ "SPELL_FIERY_SOUL_CAPTURED_CREDIT", "d7/df0/a02618.html#a90c0d27144e43f3959fcc5d52db82e89ad2fd0ec562d50f32148c9252379bb20f", null ],
-      [ "SPELL_AIRY_SOUL_CAPTURED_CREDIT", "d7/df0/a02618.html#a90c0d27144e43f3959fcc5d52db82e89aaeda6e62797e83728e0f89966984c7a6", null ],
-      [ "SPELL_WATERY_SOUL_CAPTURED_CREDIT", "d7/df0/a02618.html#a90c0d27144e43f3959fcc5d52db82e89aa042c1a7cb5e61b67522597aa19f03bd", null ],
-      [ "NPC_CREDIT_FIRE", "d7/df0/a02618.html#a90c0d27144e43f3959fcc5d52db82e89adf1cf0863ae1a073c5715469f763a51c", null ],
-      [ "NPC_CREDIT_WATER", "d7/df0/a02618.html#a90c0d27144e43f3959fcc5d52db82e89a75a68f28eff876a9f96b31591d24b49d", null ],
-      [ "NPC_CREDIT_AIR", "d7/df0/a02618.html#a90c0d27144e43f3959fcc5d52db82e89a8942f47767ef2d47701cd2211925c693", null ],
-      [ "NPC_CREDIT_EARTH", "d7/df0/a02618.html#a90c0d27144e43f3959fcc5d52db82e89a96b0475391ed7efa5605477301d6911f", null ],
-      [ "SPELL_SOUL_CAPTURED", "d7/df0/a02618.html#a90c0d27144e43f3959fcc5d52db82e89a41055491c9356e1ef93a9e68820237ce", null ]
+    [ "Floppy", "d7/df0/a02618.html#ab1bd007b7ebb943adde818cfcf94f6c8", [
+      [ "NPC_MRFLOPPY", "d7/df0/a02618.html#ab1bd007b7ebb943adde818cfcf94f6c8a754d24d698857ba9da624cb55ebd7539", null ],
+      [ "NPC_HUNGRY_WORG", "d7/df0/a02618.html#ab1bd007b7ebb943adde818cfcf94f6c8ac0fa400226b2f4b7b50046653adaf4ec", null ],
+      [ "NPC_RAVENOUS_WORG", "d7/df0/a02618.html#ab1bd007b7ebb943adde818cfcf94f6c8a0aa4cf13d685e5f9a2dfb4e73e2c0aaf", null ],
+      [ "NPC_EMILY", "d7/df0/a02618.html#ab1bd007b7ebb943adde818cfcf94f6c8a343db2db56b01a8c00252b99c81201e2", null ],
+      [ "QUEST_PERILOUS_ADVENTURE", "d7/df0/a02618.html#ab1bd007b7ebb943adde818cfcf94f6c8a624fd56e33da0d4cdbc1d0cccaa40995", null ],
+      [ "SPELL_MRFLOPPY", "d7/df0/a02618.html#ab1bd007b7ebb943adde818cfcf94f6c8a8e8e2ceb6d7d223924eb89e9c6c45472", null ],
+      [ "SAY_WORGHAGGRO1", "d7/df0/a02618.html#ab1bd007b7ebb943adde818cfcf94f6c8a842e80024768af50fbef1ceb2c13aeed", null ],
+      [ "SAY_WORGHAGGRO2", "d7/df0/a02618.html#ab1bd007b7ebb943adde818cfcf94f6c8a93d3c0aa673ef405062b10b99b5b0f68", null ],
+      [ "SAY_WORGRAGGRO3", "d7/df0/a02618.html#ab1bd007b7ebb943adde818cfcf94f6c8a5ea4c443cdf136d58f98541869a0d3a7", null ],
+      [ "SAY_WORGRAGGRO4", "d7/df0/a02618.html#ab1bd007b7ebb943adde818cfcf94f6c8a5eac235efc73e11d15cbd086ac1c7bc3", null ],
+      [ "SAY_RANDOMAGGRO", "d7/df0/a02618.html#ab1bd007b7ebb943adde818cfcf94f6c8a3565b34d1a34ff58648c1ac6c3d2c13b", null ],
+      [ "SAY_VICTORY1", "d7/df0/a02618.html#ab1bd007b7ebb943adde818cfcf94f6c8a120459a2f592bd2fc7d08cf129e0196a", null ],
+      [ "SAY_VICTORY2", "d7/df0/a02618.html#ab1bd007b7ebb943adde818cfcf94f6c8a46b0a895be7ae9d5a29ff6273df0fe9a", null ],
+      [ "SAY_VICTORY3", "d7/df0/a02618.html#ab1bd007b7ebb943adde818cfcf94f6c8a32f469e5e5aed28b9631a2b628bfbce0", null ],
+      [ "SAY_VICTORY4", "d7/df0/a02618.html#ab1bd007b7ebb943adde818cfcf94f6c8a942902449244f40dbe31e3aede7da07d", null ],
+      [ "TEXT_EMOTE_WP1", "d7/df0/a02618.html#ab1bd007b7ebb943adde818cfcf94f6c8ac9851e1644bf34924fc12e14ab97ade3", null ],
+      [ "TEXT_EMOTE_AGGRO", "d7/df0/a02618.html#ab1bd007b7ebb943adde818cfcf94f6c8a0ddf44afe5a3eac3373d1875a5637b79", null ],
+      [ "SAY_QUEST_ACCEPT", "d7/df0/a02618.html#ab1bd007b7ebb943adde818cfcf94f6c8a654866eef91583480a526472b3ddb469", null ],
+      [ "SAY_QUEST_COMPLETE", "d7/df0/a02618.html#ab1bd007b7ebb943adde818cfcf94f6c8a09e48617dc91d7eeb65b87bd3baf1549", null ]
     ] ],
-    [ "EnshlavedNetherwingDrake", "d7/df0/a02618.html#adac4495636f524e96492a9b0806ca846", [
-      [ "QUEST_THE_FORCE_OF_NELTHARAKU", "d7/df0/a02618.html#adac4495636f524e96492a9b0806ca846a93acae0ff55559589c7c1a187ccae952", null ],
-      [ "SPELL_HIT_FORCE_OF_NELTHARAKU", "d7/df0/a02618.html#adac4495636f524e96492a9b0806ca846a7eced2a85eb71427d5b4afdb72d815b2", null ],
-      [ "SPELL_FORCE_OF_NELTHARAKU", "d7/df0/a02618.html#adac4495636f524e96492a9b0806ca846afe2033feee6894144f1ecd7c91ab32b1", null ],
-      [ "NPC_DRAGONMAW_SUBJUGATOR", "d7/df0/a02618.html#adac4495636f524e96492a9b0806ca846a71553bfde406198e8a89cc5436a381b6", null ],
-      [ "NPC_DRAGONMAW_WRANGLER", "d7/df0/a02618.html#adac4495636f524e96492a9b0806ca846a3f3aa3bdb53c70326742c2d62aaa3dc5", null ],
-      [ "NPC_ESCAPE_DUMMY", "d7/df0/a02618.html#adac4495636f524e96492a9b0806ca846a08ffe87232f0c55b72bd5e43b9570800", null ],
-      [ "POINT_DESPAWN", "d7/df0/a02618.html#adac4495636f524e96492a9b0806ca846a193b32ae3e767cdd2899238b38950ddf", null ]
+    [ "InfectedWorgenBite", "d7/df0/a02618.html#a42ff7cedc8c70364f479dfe29cfe6b9f", [
+      [ "SPELL_INFECTED_WORGEN_BITE", "d7/df0/a02618.html#a42ff7cedc8c70364f479dfe29cfe6b9fab6ca2112e7ebf9bcd12134b27cafb96b", null ],
+      [ "SPELL_WORGENS_CALL", "d7/df0/a02618.html#a42ff7cedc8c70364f479dfe29cfe6b9fa27cf7e77e607ee640d70a9fce4dc3ab3", null ]
     ] ],
-    [ "Flanis", "d7/df0/a02618.html#a954375235f2df9db6615f7f93286c537", [
-      [ "QUEST_THE_FATE_OF_FLANIS", "d7/df0/a02618.html#a954375235f2df9db6615f7f93286c537a19a57e186b8adea2503d432562389fa9", null ],
-      [ "ITEM_FLAUNISS_PACK", "d7/df0/a02618.html#a954375235f2df9db6615f7f93286c537a255556fffe624599c901bb11edb37417", null ],
-      [ "GOSSIP_MENU_FLANIS", "d7/df0/a02618.html#a954375235f2df9db6615f7f93286c537ac9040b837bc1d0468e6ab3496e3ac37c", null ]
+    [ "LakeFrog", "d7/df0/a02618.html#a8ff884dc5fcfc3ddf81fa0d2be4aac82", [
+      [ "NPC_LAKE_FROG", "d7/df0/a02618.html#a8ff884dc5fcfc3ddf81fa0d2be4aac82a29db798f76700bcf3588da6a03f90389", null ],
+      [ "NPC_LAKE_FROG_QUEST", "d7/df0/a02618.html#a8ff884dc5fcfc3ddf81fa0d2be4aac82aa7a715042fd825541f28330e0eb75964", null ],
+      [ "NPC_MAIDEN_OF_ASHWOOD_LAKE", "d7/df0/a02618.html#a8ff884dc5fcfc3ddf81fa0d2be4aac82af2d6e65e986a7d92bf0217e9fbac6049", null ],
+      [ "ITEM_WARTS_B_GONE_LIP_BALM", "d7/df0/a02618.html#a8ff884dc5fcfc3ddf81fa0d2be4aac82a57b168aff7bc0131ad7dd1251d3dbab4", null ],
+      [ "SPELL_WARTSBGONE_LIP_BALM", "d7/df0/a02618.html#a8ff884dc5fcfc3ddf81fa0d2be4aac82a8ca55067cf9ed1d0c28e2bb3dd82ff7b", null ],
+      [ "SPELL_FROG_LOVE", "d7/df0/a02618.html#a8ff884dc5fcfc3ddf81fa0d2be4aac82ab6e7a3bb5201f4580e1c7a08633ff909", null ],
+      [ "SPELL_WARTS", "d7/df0/a02618.html#a8ff884dc5fcfc3ddf81fa0d2be4aac82ad34abfb73cb2da6fc9fecaaaf00ef32e", null ],
+      [ "SPELL_MAIDEN_OF_ASHWOOD_LAKE_TRANSFORM", "d7/df0/a02618.html#a8ff884dc5fcfc3ddf81fa0d2be4aac82af40785ac72cb17cf664c9618f1891e43", null ],
+      [ "SPELL_SUMMON_ASHWOOD_BRAND", "d7/df0/a02618.html#a8ff884dc5fcfc3ddf81fa0d2be4aac82a89131323897170905fdb14093af866ba", null ],
+      [ "SPELL_FROG_KISS", "d7/df0/a02618.html#a8ff884dc5fcfc3ddf81fa0d2be4aac82a53ae3a822ed71e38c0c89b5a98340dd6", null ],
+      [ "SAY_MAIDEN_0", "d7/df0/a02618.html#a8ff884dc5fcfc3ddf81fa0d2be4aac82ac8e2c26038cd9c7df7af75f622abbd77", null ],
+      [ "SAY_MAIDEN_1", "d7/df0/a02618.html#a8ff884dc5fcfc3ddf81fa0d2be4aac82a5e3cd612c9c83e48874a20d45ea49a9c", null ]
     ] ],
-    [ "InfernalOversoul", "d7/df0/a02618.html#a8d4967324c50feaf8e302ea3abcd2450", [
-      [ "NPC_INFERNAL_OVERSOUL", "d7/df0/a02618.html#a8d4967324c50feaf8e302ea3abcd2450ac6269d3a05c187898364dbf0cd47890f", null ],
-      [ "SPELL_DISRUPT_SUMMONING_RITUAL", "d7/df0/a02618.html#a8d4967324c50feaf8e302ea3abcd2450ad4745e17de850ec8e563ee709e8af8a8", null ]
+    [ "LakeFrogEvents", "d7/df0/a02618.html#ad837ae5bbaaefb5e6e7b60a2bb5a587a", [
+      [ "EVENT_LAKEFROG_1", "d7/df0/a02618.html#ad837ae5bbaaefb5e6e7b60a2bb5a587aae8e535ff3425a55b5f81bab068fcfb3b", null ],
+      [ "EVENT_LAKEFROG_2", "d7/df0/a02618.html#ad837ae5bbaaefb5e6e7b60a2bb5a587aa96638050468cdc99f580bad067c1d23e", null ],
+      [ "EVENT_LAKEFROG_3", "d7/df0/a02618.html#ad837ae5bbaaefb5e6e7b60a2bb5a587aa453ade35c06a31825f2cf5b9ecf36ebb", null ],
+      [ "EVENT_LAKEFROG_4", "d7/df0/a02618.html#ad837ae5bbaaefb5e6e7b60a2bb5a587aa2b1d615a0a23dead8c66bb54fe10a2ec", null ],
+      [ "EVENT_LAKEFROG_5", "d7/df0/a02618.html#ad837ae5bbaaefb5e6e7b60a2bb5a587aa557fb11a28e0741c4d9fc9f564184594", null ]
     ] ],
-    [ "InvisInfernalCaster", "d7/df0/a02618.html#afc71d3d9676b2a12bfa07cf43efa1981", [
-      [ "EVENT_CAST_SUMMON_INFERNAL", "d7/df0/a02618.html#afc71d3d9676b2a12bfa07cf43efa1981a899ef19a4cdbde17f4b142ab87f22a2c", null ],
-      [ "NPC_INFERNAL_ATTACKER", "d7/df0/a02618.html#afc71d3d9676b2a12bfa07cf43efa1981afbefec58dbc4796010d20c4461668228", null ],
-      [ "MODEL_INVISIBLE", "d7/df0/a02618.html#afc71d3d9676b2a12bfa07cf43efa1981a116fbb11cfd55f4f743ab6e6b1e169c4", null ],
-      [ "MODEL_INFERNAL", "d7/df0/a02618.html#afc71d3d9676b2a12bfa07cf43efa1981a490991c939197eb08d5889b53ef448be", null ],
-      [ "SPELL_SUMMON_INFERNAL", "d7/df0/a02618.html#afc71d3d9676b2a12bfa07cf43efa1981ade42ab46d5d7f906d8fb7bd16cdcc241", null ],
-      [ "TYPE_INFERNAL", "d7/df0/a02618.html#afc71d3d9676b2a12bfa07cf43efa1981ad8a8f951d8f106aa11eed28742d7a6c8", null ],
-      [ "DATA_DIED", "d7/df0/a02618.html#afc71d3d9676b2a12bfa07cf43efa1981a04a6cbcda450d7a68236e4f4df039e36", null ]
+    [ "Outhouse", "d7/df0/a02618.html#ae6a86a430917408e4ae1069c216df8ca", [
+      [ "SOUND_FEMALE", "d7/df0/a02618.html#ae6a86a430917408e4ae1069c216df8caa9787290a639d1b44d8eb4580c17d905a", null ],
+      [ "SOUND_MALE", "d7/df0/a02618.html#ae6a86a430917408e4ae1069c216df8caae126fd8a2a7ca0c45aec6d897d50c331", null ],
+      [ "SPELL_CAMERA_SHAKE", "d7/df0/a02618.html#ae6a86a430917408e4ae1069c216df8caa99dfcda224e38c33771d6bf70abb5b66", null ],
+      [ "SPELL_DUST_FIELD", "d7/df0/a02618.html#ae6a86a430917408e4ae1069c216df8caa082c55dac60e1f7decc47914ff323ecb", null ],
+      [ "ITEM_ANDERHOLS_SLIDER_CIDER", "d7/df0/a02618.html#ae6a86a430917408e4ae1069c216df8caa87dd31147530587136b5ad9170479572", null ],
+      [ "NPC_OUTHOUSE_BUNNY_GRIZZLY", "d7/df0/a02618.html#ae6a86a430917408e4ae1069c216df8caa9612c8f571f4554fb83167760aff32b1", null ]
     ] ],
-    [ "Kagrosh", "d7/df0/a02618.html#acf24b0c484b7b6811a4d54e4c870f6f0", [
-      [ "QUEST_THE_FATE_OF_KAGROSH", "d7/df0/a02618.html#acf24b0c484b7b6811a4d54e4c870f6f0a42d86cd1fce27ed52b16e1fa816f2d40", null ],
-      [ "ITEM_KAGROSHS_PACK", "d7/df0/a02618.html#acf24b0c484b7b6811a4d54e4c870f6f0a94af56a7ae4437fec24f8fe79b6cc54e", null ],
-      [ "GOSSIP_MENU_KAGROSH", "d7/df0/a02618.html#acf24b0c484b7b6811a4d54e4c870f6f0aff0e297296a4075024da992fd5b774c8", null ]
+    [ "RedRocket", "d7/df0/a02618.html#a81d7daf10166354a83e33fdfe66b4ce3", [
+      [ "SPELL_VEHICLE_WARHEAD_FUSE", "d7/df0/a02618.html#a81d7daf10166354a83e33fdfe66b4ce3a79483ed902914f899ef143e7bd1a4c6c", null ],
+      [ "SPELL_ALLIANCE_KILL_CREDIT_TORPEDO", "d7/df0/a02618.html#a81d7daf10166354a83e33fdfe66b4ce3a56fdaf664b4594fcb8f6c1b634d1c80f", null ],
+      [ "SPELL_HORDE_KILL_CREDIT_TORPEDO", "d7/df0/a02618.html#a81d7daf10166354a83e33fdfe66b4ce3a3efc661e39b23d4900a6d76175934ea4", null ],
+      [ "NPC_HORDE_LUMBERBOAT", "d7/df0/a02618.html#a81d7daf10166354a83e33fdfe66b4ce3a60f8d241ef458c2a3a90c493bf65e66d", null ],
+      [ "NPC_ALLIANCE_LUMBERBOAT", "d7/df0/a02618.html#a81d7daf10166354a83e33fdfe66b4ce3ae54f1f7988d3d9d1b0421a2c8364d4f3", null ],
+      [ "SPELL_DETONATE", "d7/df0/a02618.html#a81d7daf10166354a83e33fdfe66b4ce3a099e1b0a1c67eedbc029402cc5b43653", null ]
     ] ],
-    [ "Karynaku", "d7/df0/a02618.html#a123c4b1ebb762013db19c932e44a4e24", [
-      [ "QUEST_ALLY_OF_NETHER", "d7/df0/a02618.html#a123c4b1ebb762013db19c932e44a4e24a0cea5be66aa00f0a720a75b2dfe52849", null ],
-      [ "QUEST_ZUHULED_THE_WACK", "d7/df0/a02618.html#a123c4b1ebb762013db19c932e44a4e24a8a25a8632e923dc91043d53eb9d8d45c", null ],
-      [ "NPC_ZUHULED_THE_WACKED", "d7/df0/a02618.html#a123c4b1ebb762013db19c932e44a4e24a9071f3130c4bfcd8cdaee5304999a930", null ],
-      [ "TAXI_PATH_ID", "d7/df0/a02618.html#a123c4b1ebb762013db19c932e44a4e24a5e1e78493c55a69bd98f896ff332f0f1", null ]
+    [ "renewskirmisher", "d7/df0/a02618.html#a61340ebbe92b0d68f329d315640b1b8b", [
+      [ "NPC_WOUNDED_SKIRMISHER", "d7/df0/a02618.html#a61340ebbe92b0d68f329d315640b1b8ba3a5bea5a9e88625c715ee7a262041564", null ]
     ] ],
-    [ "KorWild", "d7/df0/a02618.html#a1926a7ae3a01665143776b73cc14a69e", [
-      [ "SAY_LAND", "d7/df0/a02618.html#a1926a7ae3a01665143776b73cc14a69eadf43d003a14e71c42d8231786a77106e", null ],
-      [ "POINT_LAND", "d7/df0/a02618.html#a1926a7ae3a01665143776b73cc14a69ea858ba1dc5b34b3ff5f41a194feea519f", null ]
+    [ "ShredderDelivery", "d7/df0/a02618.html#ab6a9d4aa08c7d298acf5950f5b97e0b3", [
+      [ "NPC_BROKEN_DOWN_SHREDDER", "d7/df0/a02618.html#ab6a9d4aa08c7d298acf5950f5b97e0b3a8e3cfb1bafbc4a623824d7963a48159a", null ]
     ] ],
-    [ "MatureNetherwing", "d7/df0/a02618.html#ac3fa044cb8f97b19130eb0644fd422ec", [
-      [ "SAY_JUST_EATEN", "d7/df0/a02618.html#ac3fa044cb8f97b19130eb0644fd422ecad453298ccc9b6b3ab0523dfafb9f548f", null ],
-      [ "SPELL_PLACE_CARCASS", "d7/df0/a02618.html#ac3fa044cb8f97b19130eb0644fd422eca4f9d035431da4bdb746a4e08fc6425e0", null ],
-      [ "SPELL_JUST_EATEN", "d7/df0/a02618.html#ac3fa044cb8f97b19130eb0644fd422eca6cadc7fa90937b8d5727d19ad97478dc", null ],
-      [ "SPELL_NETHER_BREATH", "d7/df0/a02618.html#ac3fa044cb8f97b19130eb0644fd422eca1f64ef182504e0be2caa5bb708cbd0fa", null ],
-      [ "POINT_ID", "d7/df0/a02618.html#ac3fa044cb8f97b19130eb0644fd422ecac7fd29ccba65af8d63b83beb9cdbb597", null ],
-      [ "GO_CARCASS", "d7/df0/a02618.html#ac3fa044cb8f97b19130eb0644fd422eca84c159e72b76bf1699302c28c7da3016", null ],
-      [ "QUEST_KINDNESS", "d7/df0/a02618.html#ac3fa044cb8f97b19130eb0644fd422eca0b8ea699ea2283c1b89030430b100428", null ],
-      [ "NPC_EVENT_PINGER", "d7/df0/a02618.html#ac3fa044cb8f97b19130eb0644fd422eca353ae26eabea41367f83995cef9290e1", null ]
+    [ "Skirmisher", "d7/df0/a02618.html#aaf1bc1106d94f173cb963d729989decb", [
+      [ "QUEST_OVERWHELMED", "d7/df0/a02618.html#aaf1bc1106d94f173cb963d729989decbac7b7264f3ed2f23ac1abe23f74fd84c2", null ],
+      [ "SPELL_RENEW_SKIRMISHER", "d7/df0/a02618.html#aaf1bc1106d94f173cb963d729989decbacf0e09ec5d3579ff8de698c1cd310978", null ],
+      [ "SPELL_KILL_CREDIT", "d7/df0/a02618.html#aaf1bc1106d94f173cb963d729989decba536196f84b83e4eaf3b3fe78c9df2cc8", null ],
+      [ "SPELL_CLEAVE", "d7/df0/a02618.html#aaf1bc1106d94f173cb963d729989decba0de0a536dbf18ec5c2e76cfee1d751eb", null ],
+      [ "SPELL_HAMSTRING", "d7/df0/a02618.html#aaf1bc1106d94f173cb963d729989decba079fdbedeb449ce76d26fa93301be553", null ],
+      [ "SPELL_MORTAL_STRIKE", "d7/df0/a02618.html#aaf1bc1106d94f173cb963d729989decba7794ace87705e2898f8b60f1f5228110", null ],
+      [ "SAY_RANDOM", "d7/df0/a02618.html#aaf1bc1106d94f173cb963d729989decbad798849daf50b1b5f9f7d5428b5ab49a", null ],
+      [ "EVENT_WOUNDED_MOVE", "d7/df0/a02618.html#aaf1bc1106d94f173cb963d729989decba9cf2faff07cd45e6ad2b3079df78c447", null ],
+      [ "EVENT_CLEAVE", "d7/df0/a02618.html#aaf1bc1106d94f173cb963d729989decbad4266671217cc53e473a6844d92ef36a", null ],
+      [ "EVENT_HAMSTRING", "d7/df0/a02618.html#aaf1bc1106d94f173cb963d729989decba555c0f944c1b69b930b96c21c2f0b3ff", null ],
+      [ "EVENT_MORTAL_STRIKE", "d7/df0/a02618.html#aaf1bc1106d94f173cb963d729989decbadbcdc7932b4e3141c4e5fb1a807bc236", null ],
+      [ "WOUNDED_MOVE_1", "d7/df0/a02618.html#aaf1bc1106d94f173cb963d729989decba3752b368fc612cd40c80f4892f83b7d8", null ],
+      [ "WOUNDED_MOVE_2", "d7/df0/a02618.html#aaf1bc1106d94f173cb963d729989decba2640d9bea1496d424ff1cf024cbf34a6", null ],
+      [ "WOUNDED_MOVE_3", "d7/df0/a02618.html#aaf1bc1106d94f173cb963d729989decba1ce7e55c8a3b1ff03b5986a0f71fab12", null ]
     ] ],
-    [ "ShadowMoonTuberEnum", "d7/df0/a02618.html#a291915ace633b26b8dce599d6e9ee70d", [
-      [ "SPELL_WHISTLE", "d7/df0/a02618.html#a291915ace633b26b8dce599d6e9ee70da67567999784143ab1ea8cd3ba26ea1fd", null ],
-      [ "SPELL_SHADOWMOON_TUBER", "d7/df0/a02618.html#a291915ace633b26b8dce599d6e9ee70da85b62e76374bbd3bf54e760e565bf080", null ],
-      [ "NPC_BOAR_ENTRY", "d7/df0/a02618.html#a291915ace633b26b8dce599d6e9ee70daf6bc3f9354df41639b1d269f90c7b3eb", null ],
-      [ "GO_SHADOWMOON_TUBER_MOUND", "d7/df0/a02618.html#a291915ace633b26b8dce599d6e9ee70dafe9c76701fdd7f4c9ee827d727255719", null ],
-      [ "POINT_TUBER", "d7/df0/a02618.html#a291915ace633b26b8dce599d6e9ee70dae3723de3df9db38a012d0f0cd70ead61", null ],
-      [ "TYPE_BOAR", "d7/df0/a02618.html#a291915ace633b26b8dce599d6e9ee70da550a96f6a5f527aed2108c53d44a0c85", null ],
-      [ "DATA_BOAR", "d7/df0/a02618.html#a291915ace633b26b8dce599d6e9ee70dab9c4a21bb24ba5bc3a604a720b5056de", null ]
+    [ "SmokeEmOut", "d7/df0/a02618.html#a5bfc63041f8eef0296a858a61f8b33d9", [
+      [ "QUEST_SMOKE_EM_OUT_A", "d7/df0/a02618.html#a5bfc63041f8eef0296a858a61f8b33d9af996feb97aede072694c80641a53acce", null ],
+      [ "QUEST_SMOKE_EM_OUT_H", "d7/df0/a02618.html#a5bfc63041f8eef0296a858a61f8b33d9ae41138ec9554795c1b1629e9f028377d", null ],
+      [ "SPELL_SMOKE_BOMB", "d7/df0/a02618.html#a5bfc63041f8eef0296a858a61f8b33d9a584bfd73f3d6a8efe6ffe50988247013", null ],
+      [ "SPELL_CHOP", "d7/df0/a02618.html#a5bfc63041f8eef0296a858a61f8b33d9ade76f731ba7b91855f4b2d9b7da2998f", null ],
+      [ "SPELL_VENTURE_STRAGGLER_CREDIT", "d7/df0/a02618.html#a5bfc63041f8eef0296a858a61f8b33d9a2cd59bde3ee8f8a17d86748ee11aea19", null ],
+      [ "SAY_SEO", "d7/df0/a02618.html#a5bfc63041f8eef0296a858a61f8b33d9a8043534c36bc75f78406ec9e8a8b8516", null ]
     ] ],
-    [ "TheFelAndTheFurious", "d7/df0/a02618.html#a031324fb60958a651c8b6175879342e2", [
-      [ "SPELL_ROCKET_LAUNCHER", "d7/df0/a02618.html#a031324fb60958a651c8b6175879342e2a3646c22bed20357d2c98d41f6562fb2e", null ]
+    [ "StragglerEvents", "d7/df0/a02618.html#abebd8dab501f326c5ae89500145c96a0", [
+      [ "EVENT_STRAGGLER_1", "d7/df0/a02618.html#abebd8dab501f326c5ae89500145c96a0a446170252bedb99c0f4fd9db5190d599", null ],
+      [ "EVENT_STRAGGLER_2", "d7/df0/a02618.html#abebd8dab501f326c5ae89500145c96a0a62bed6e4b0c4231185a0afd795496290", null ],
+      [ "EVENT_STRAGGLER_3", "d7/df0/a02618.html#abebd8dab501f326c5ae89500145c96a0a153337d35888c768586b16945aeab0db", null ],
+      [ "EVENT_STRAGGLER_4", "d7/df0/a02618.html#abebd8dab501f326c5ae89500145c96a0a981730ec63bc9362a60905f2c485ba69", null ],
+      [ "EVENT_CHOP", "d7/df0/a02618.html#abebd8dab501f326c5ae89500145c96a0af1a459e1e4ac32608277cef4939a02a1", null ]
     ] ],
-    [ "AddSC_shadowmoon_valley", "d7/df0/a02618.html#a787e8b63075b328932e0fa7237d4f3c5", null ],
-    [ "SpawnCast", "d7/df0/a02618.html#a1d25fd6452855fb4166558c34940caff", null ],
-    [ "SpawnLocation", "d7/df0/a02618.html#a49b9a0d378851fc27feacce144995fc1", null ],
-    [ "TorlothAnim", "d7/df0/a02618.html#a7c2e0b764b580aefde5c593f077642a0", null ],
-    [ "WavesInfo", "d7/df0/a02618.html#acdf75daa27951ff92fc1ee8b171d064a", null ]
+    [ "TallhornStage", "d7/df0/a02618.html#adfdcfce0226bbf9a76589dc22942d111", [
+      [ "OBJECT_HAUNCH", "d7/df0/a02618.html#adfdcfce0226bbf9a76589dc22942d111a1be59b93a1b6b1119cbaac8759f934b2", null ]
+    ] ],
+    [ "WarheadDenonate", "d7/df0/a02618.html#af53d541bd7e5f88ba27ddb5d6beefcbe", [
+      [ "SPELL_PARACHUTE", "d7/df0/a02618.html#af53d541bd7e5f88ba27ddb5d6beefcbea0e716768b8b569aa1680571370c2109b", null ],
+      [ "SPELL_TORPEDO_EXPLOSION", "d7/df0/a02618.html#af53d541bd7e5f88ba27ddb5d6beefcbea0d72f93652e342e1fe02b41e9bebab23", null ],
+      [ "NPC_ALLIANCE_LUMBERBOAT_EXPLOSIONS", "d7/df0/a02618.html#af53d541bd7e5f88ba27ddb5d6beefcbea1e12b7ffbc7fab0fa75976e942414587", null ]
+    ] ],
+    [ "WarheadSpells", "d7/df0/a02618.html#a2242654c68923d8e477579bbcec70ec7", [
+      [ "SPELL_WARHEAD_Z_CHECK", "d7/df0/a02618.html#a2242654c68923d8e477579bbcec70ec7a40ed354c4be481c91623f3471bcc9ac1", null ],
+      [ "SPELL_WARHEAD_SEEKING_LUMBERSHIP", "d7/df0/a02618.html#a2242654c68923d8e477579bbcec70ec7a0ea81fb1a346aeb6e14f9085ccce37f1", null ],
+      [ "SPELL_WARHEAD_FUSE", "d7/df0/a02618.html#a2242654c68923d8e477579bbcec70ec7aea27e2759fcc77c9f25163592fe32f6d", null ]
+    ] ],
+    [ "AddSC_grizzly_hills", "d7/df0/a02618.html#a2b97ed405a382cb7c383c958798fb4df", null ]
 ];

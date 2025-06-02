@@ -1,6 +1,6 @@
 var a13547 =
 [
-    [ "CheckProc", "dd/d09/a13547.html#af6d00234388ceb5d1c9acd8775c66788", null ],
-    [ "PrepareAuraScript", "dd/d09/a13547.html#abdbb7406693a59372fe6783fbe4fb0f1", null ],
-    [ "Register", "dd/d09/a13547.html#acad1e829a317d15e73549047ece67eda", null ]
+    [ "npc_greengill_slaveAI", "d4/dc6/a13551.html", "d4/dc6/a13551" ],
+    [ "npc_greengill_slave", "dd/d09/a13547.html#a46fb36fadb5ed5fc94a563473edd8732", null ],
+    [ "GetAI", "dd/d09/a13547.html#ab2cb9adfeef75384becfbb3c5188b8d7", null ]
 ];

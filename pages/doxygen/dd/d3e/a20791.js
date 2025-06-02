@@ -1,6 +1,6 @@
 var a20791 =
 [
-    [ "boss_yoggsaron_descend_portalAI", "dd/d34/a20795.html", "dd/d34/a20795" ],
-    [ "boss_yoggsaron_descend_portal", "dd/d3e/a20791.html#aaf546e4e546d87818bd501b4934e8ab2", null ],
-    [ "GetAI", "dd/d3e/a20791.html#aceb50c808eed17ca468a80b823af1907", null ]
+    [ "boss_yoggsaron_constrictor_tentacleAI", "dd/d34/a20795.html", "dd/d34/a20795" ],
+    [ "boss_yoggsaron_constrictor_tentacle", "dd/d3e/a20791.html#a131809f1c691e55a33863caf6fe0c5dc", null ],
+    [ "GetAI", "dd/d3e/a20791.html#ac469d5661eb664c73bf5ab38084cb03e", null ]
 ];

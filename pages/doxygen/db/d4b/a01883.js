@@ -1,8 +1,6 @@
 var a01883 =
 [
-    [ "TransactionBase", "d8/d07/a05847.html", "d8/d07/a05847" ],
-    [ "Transaction< T >", "da/dde/a05663.html", "da/dde/a05663" ],
-    [ "TransactionTask", "dd/d01/a05851.html", "dd/d01/a05851" ],
-    [ "TransactionWithResultTask", "d4/d27/a05855.html", "d4/d27/a05855" ],
-    [ "TransactionCallback", "d7/d4b/a05859.html", "d7/d4b/a05859" ]
+    [ "CharacterDatabase", "db/d4b/a01883.html#af8239cd04c4137e1e621226a6d919ed4", null ],
+    [ "LoginDatabase", "db/d4b/a01883.html#ae753c5c60b556b0cb7998e7424be5cbf", null ],
+    [ "WorldDatabase", "db/d4b/a01883.html#af42e9d262f732792d1e81568ae38ea2e", null ]
 ];

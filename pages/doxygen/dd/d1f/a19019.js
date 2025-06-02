@@ -1,6 +1,6 @@
 var a19019 =
 [
-    [ "boss_maexxnaAI", "df/dd6/a19023.html", "df/dd6/a19023" ],
-    [ "boss_maexxna", "dd/d1f/a19019.html#ae47a789ac8abe50932b9e000c83b02b2", null ],
-    [ "GetAI", "dd/d1f/a19019.html#ab438df4cb61625da35552ca7c867dc64", null ]
+    [ "boss_loathebAI", "df/dd6/a19023.html", "df/dd6/a19023" ],
+    [ "boss_loatheb", "dd/d1f/a19019.html#a93bf8055a9ed900c880ef8b81b87bafd", null ],
+    [ "GetAI", "dd/d1f/a19019.html#aca9b3a2515777f81b354c01a9727276e", null ]
 ];

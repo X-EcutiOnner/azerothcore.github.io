@@ -1,6 +1,8 @@
 var a20699 =
 [
-    [ "OnRemove", "df/dbf/a20699.html#a492bd9e9c82937e00897e19362b40901", null ],
-    [ "PrepareAuraScript", "df/dbf/a20699.html#a1ae24bb18b5570ebe9b4b0698d3cc2f2", null ],
-    [ "Register", "df/dbf/a20699.html#adfcaf82ff48225ea0e0314d421795644", null ]
+    [ "OnPeriodic", "df/dbf/a20699.html#aa49d1186ca6f5cdd628728a8a30c06a0", null ],
+    [ "OnRemove", "df/dbf/a20699.html#ad3a81506d71ed3d6ddffce7d8f902eb4", null ],
+    [ "PrepareAuraScript", "df/dbf/a20699.html#a63b654cf540e331e4d2b4f4ece5c1fcc", null ],
+    [ "Register", "df/dbf/a20699.html#a004ba2e0e83a14bef3cae208a45f222b", null ],
+    [ "Validate", "df/dbf/a20699.html#aa56622a1e57c157260940023a6c70a35", null ]
 ];

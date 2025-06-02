@@ -1,7 +1,6 @@
 var a19003 =
 [
-    [ "HandleScript", "dd/d0a/a19003.html#a66db3976fe6ec7ee8712c5788ce5f3ec", null ],
-    [ "PrepareAuraScript", "dd/d0a/a19003.html#aa3053519be0101f55450d76b1291f0f7", null ],
-    [ "Register", "dd/d0a/a19003.html#ada596a7f19115c7178fd07fb9e956f58", null ],
-    [ "Validate", "dd/d0a/a19003.html#a768dec18bc0e879c457a64135ec27ad9", null ]
+    [ "boss_kelthuzad_minionAI", "dc/d1e/a19007.html", "dc/d1e/a19007" ],
+    [ "boss_kelthuzad_minion", "dd/d0a/a19003.html#a4c6d430035c964b4063139c0cda6bfff", null ],
+    [ "GetAI", "dd/d0a/a19003.html#ab951068fedced148653ebf9124ba5e3d", null ]
 ];

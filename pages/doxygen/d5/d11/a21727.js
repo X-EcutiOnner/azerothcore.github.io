@@ -1,6 +1,6 @@
 var a21727 =
 [
-    [ "npc_q24545_lich_kingAI", "d4/db8/a21731.html", "d4/db8/a21731" ],
-    [ "npc_q24545_lich_king", "d5/d11/a21727.html#a1864564dee4f66f1b29850b8b0f6fa29", null ],
-    [ "GetAI", "d5/d11/a21727.html#aade5ad8ba215d0571185596aa40cf9b2", null ]
+    [ "HandleSendEvent", "d5/d11/a21727.html#a8b8276833404f3f69c3b7f97d95b6982", null ],
+    [ "PrepareSpellScript", "d5/d11/a21727.html#aa632d381ac415feaf226f55fc2cd8520", null ],
+    [ "Register", "d5/d11/a21727.html#a72673f5054cf269cc8da511441f7bd66", null ]
 ];

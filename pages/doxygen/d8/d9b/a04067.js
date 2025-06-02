@@ -1,10 +1,10 @@
 var a04067 =
 [
-    [ "SecretMgr", "d1/d97/a28431.html", "d1/d97/a28431" ],
-    [ "SecretMgr::Secret", "d9/d80/a28435.html", "d9/d80/a28435" ],
-    [ "sSecretMgr", "d8/d9b/a04067.html#a5104e1ebeb8cbf71ec16e9492a3ad622", null ],
-    [ "Secrets", "d8/d9b/a04067.html#ab54b0ec728a299f0ff9e8a7796297a01", [
-      [ "SECRET_TOTP_MASTER_KEY", "d8/d9b/a04067.html#ab54b0ec728a299f0ff9e8a7796297a01a414121b0e05fa3a392ffe0da5afe0fe9", null ],
-      [ "NUM_SECRETS", "d8/d9b/a04067.html#ab54b0ec728a299f0ff9e8a7796297a01a087643d0aa89a708bad0f254697489c6", null ]
-    ] ]
+    [ "OutdoorPvP_nagrand", "d5/d6a/a22475.html", "d5/d6a/a22475" ],
+    [ "outdoorpvp_na_halaa_creatures", "d0/dfe/a22479.html", "d0/dfe/a22479" ],
+    [ "AddSC_outdoorpvp_na", "d8/d9b/a04067.html#a03015585e7619177355fefd05f85e1c7", null ],
+    [ "FlagPlayerPvP", "d8/d9b/a04067.html#ab1d33448696056a0951a0c306a511f1e", null ],
+    [ "UpdateCreatureHalaa", "d8/d9b/a04067.html#a37af66c813e135cc11bd1dc663b35697", null ],
+    [ "halaaNPCAlly", "d8/d9b/a04067.html#a3428675268608e5372767fc629259d5c", null ],
+    [ "halaaNPCHorde", "d8/d9b/a04067.html#a531a4e8a5291c048ad0f3b0fc64b29d9", null ]
 ];

@@ -1,10 +1,6 @@
 var a14799 =
 [
-    [ "instance_maraudon_InstanceMapScript", "d2/d6f/a14799.html#a9c46508320d3973006561444feae0586", null ],
-    [ "Initialize", "d2/d6f/a14799.html#a61cb2b2bf09bb997457bc01a41e092e9", null ],
-    [ "OnGameObjectCreate", "d2/d6f/a14799.html#a3a287b97db58c3489815f20ee0d37977", null ],
-    [ "ReadSaveDataMore", "d2/d6f/a14799.html#ac2cd336874b25ad20dac104037de1df5", null ],
-    [ "SetData", "d2/d6f/a14799.html#a6e90bf60a076c164e432128f7ec62fba", null ],
-    [ "WriteSaveDataMore", "d2/d6f/a14799.html#a6e4072342e66689d343912de85e66b34", null ],
-    [ "_encounters", "d2/d6f/a14799.html#af2e752a791d75e50001060c4a9f18173", null ]
+    [ "instance_dire_maul_InstanceMapScript", "de/dca/a14803.html", "de/dca/a14803" ],
+    [ "instance_dire_maul", "d2/d6f/a14799.html#a54ac2c7095a99481c7efbe4237533fac", null ],
+    [ "GetInstanceScript", "d2/d6f/a14799.html#a7fc2511e0c9475512286006f0bbaed0b", null ]
 ];

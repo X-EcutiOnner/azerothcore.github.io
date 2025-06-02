@@ -1,5 +1,7 @@
 var a18491 =
 [
-    [ "achievement_portal_jockey", "de/d26/a18491.html#a6c6c4779072386ab7b64bad92762e2ac", null ],
-    [ "OnCheck", "de/d26/a18491.html#a2695b1fee353be7340f319c632a43efc", null ]
+    [ "PeriodicTick", "de/d26/a18491.html#ac1bace4fc66349364c84b5784967e9bf", null ],
+    [ "PrepareAuraScript", "de/d26/a18491.html#a358193e3340112c04f79c043548c3de0", null ],
+    [ "Register", "de/d26/a18491.html#a28f52bc253899aa407e67f9a089c815c", null ],
+    [ "Validate", "de/d26/a18491.html#a0dde3447e38e45cea94df44449a19a01", null ]
 ];

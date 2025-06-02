@@ -574,8 +574,8 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  113</span>{</div>
-<div class="line"><span class="lineno">  114</span>    ModelList::const_iterator it = <a class="code hl_variable" href="../../df/d88/a04241.html#aa0a0fd13eaa3eba090a3085d41303f12">model_list</a>.find(modelOwner-&gt;GetDisplayId());</div>
-<div class="line"><span class="lineno">  115</span>    <span class="keywordflow">if</span> (it == <a class="code hl_variable" href="../../df/d88/a04241.html#aa0a0fd13eaa3eba090a3085d41303f12">model_list</a>.end())</div>
+<div class="line"><span class="lineno">  114</span>    ModelList::const_iterator it = <a class="code hl_variable" href="../../d5/d25/a04322.html#aa0a0fd13eaa3eba090a3085d41303f12">model_list</a>.find(modelOwner-&gt;GetDisplayId());</div>
+<div class="line"><span class="lineno">  115</span>    <span class="keywordflow">if</span> (it == <a class="code hl_variable" href="../../d5/d25/a04322.html#aa0a0fd13eaa3eba090a3085d41303f12">model_list</a>.end())</div>
 <div class="line"><span class="lineno">  116</span>    {</div>
 <div class="line"><span class="lineno">  117</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
 <div class="line"><span class="lineno">  118</span>    }</div>
@@ -584,7 +584,7 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  121</span>    <span class="comment">// ignore models with no bounds</span></div>
 <div class="line"><span class="lineno">  122</span>    <span class="keywordflow">if</span> (mdl_box == G3D::AABox::zero())</div>
 <div class="line"><span class="lineno">  123</span>    {</div>
-<div class="line"><span class="lineno">  124</span>        <a class="code hl_define" href="../../d6/d71/a04598.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;maps&quot;</span>, <span class="stringliteral">&quot;GameObject model {} has zero bounds, loading skipped&quot;</span>, it-&gt;second.name);</div>
+<div class="line"><span class="lineno">  124</span>        <a class="code hl_define" href="../../df/dce/a04214.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;maps&quot;</span>, <span class="stringliteral">&quot;GameObject model {} has zero bounds, loading skipped&quot;</span>, it-&gt;second.name);</div>
 <div class="line"><span class="lineno">  125</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
 <div class="line"><span class="lineno">  126</span>    }</div>
 <div class="line"><span class="lineno">  127</span> </div>
@@ -627,8 +627,8 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  164</span>    <a class="code hl_variable" href="../../d4/d6b/a05039.html#a83c4f6f0c45910fb6b86288bb809e787">isWmo</a> = it-&gt;second.isWmo;</div>
 <div class="line"><span class="lineno">  165</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
 <div class="line"><span class="lineno">  166</span>}</div>
-<div class="ttc" id="aa04241_html_aa0a0fd13eaa3eba090a3085d41303f12"><div class="ttname"><a href="../../df/d88/a04241.html#aa0a0fd13eaa3eba090a3085d41303f12">model_list</a></div><div class="ttdeci">ModelList model_list</div><div class="ttdef"><b>Definition:</b> GameObjectModel.cpp:43</div></div>
-<div class="ttc" id="aa04598_html_a43832e3fa8508deb4ce43e520005fcd9"><div class="ttname"><a href="../../d6/d71/a04598.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a></div><div class="ttdeci">#define LOG_ERROR(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:157</div></div>
+<div class="ttc" id="aa04214_html_a43832e3fa8508deb4ce43e520005fcd9"><div class="ttname"><a href="../../df/dce/a04214.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a></div><div class="ttdeci">#define LOG_ERROR(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:157</div></div>
+<div class="ttc" id="aa04322_html_aa0a0fd13eaa3eba090a3085d41303f12"><div class="ttname"><a href="../../d5/d25/a04322.html#aa0a0fd13eaa3eba090a3085d41303f12">model_list</a></div><div class="ttdeci">ModelList model_list</div><div class="ttdef"><b>Definition:</b> GameObjectModel.cpp:43</div></div>
 <div class="ttc" id="aa04768_html_ac540ff16efadcc07eeb9d8511b94cccea3a6165ebc7b838e28ef59670dc84dc46"><div class="ttname"><a href="../../d5/d7a/a04768.html#ac540ff16efadcc07eeb9d8511b94cccea3a6165ebc7b838e28ef59670dc84dc46">VMAP::MOD_WORLDSPAWN</a></div><div class="ttdeci">@ MOD_WORLDSPAWN</div><div class="ttdef"><b>Definition:</b> ModelInstance.h:37</div></div>
 <div class="ttc" id="aa04768_html_ac540ff16efadcc07eeb9d8511b94ccceadfad2b6f6278e720b00314cd5117b673"><div class="ttname"><a href="../../d5/d7a/a04768.html#ac540ff16efadcc07eeb9d8511b94ccceadfad2b6f6278e720b00314cd5117b673">VMAP::MOD_M2</a></div><div class="ttdeci">@ MOD_M2</div><div class="ttdef"><b>Definition:</b> ModelInstance.h:36</div></div>
 <div class="ttc" id="aa04971_html_aa9b0d1fc87bed0cd7e9cc58b6ed75c2e"><div class="ttname"><a href="../../da/dd4/a04971.html#aa9b0d1fc87bed0cd7e9cc58b6ed75c2e">VMAP::VMapMgr2::acquireModelInstance</a></div><div class="ttdeci">WorldModel * acquireModelInstance(const std::string &amp;basepath, const std::string &amp;filename, uint32 flags)</div><div class="ttdef"><b>Definition:</b> VMapMgr2.cpp:340</div></div>
@@ -854,8 +854,8 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  273</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
 <div class="line"><span class="lineno">  274</span>    }</div>
 <div class="line"><span class="lineno">  275</span> </div>
-<div class="line"><span class="lineno">  276</span>    ModelList::const_iterator it = <a class="code hl_variable" href="../../df/d88/a04241.html#aa0a0fd13eaa3eba090a3085d41303f12">model_list</a>.find(<a class="code hl_variable" href="../../d4/d6b/a05039.html#af1b565e8ee52c9c19d6f945bfb06b889">owner</a>-&gt;GetDisplayId());</div>
-<div class="line"><span class="lineno">  277</span>    <span class="keywordflow">if</span> (it == <a class="code hl_variable" href="../../df/d88/a04241.html#aa0a0fd13eaa3eba090a3085d41303f12">model_list</a>.end())</div>
+<div class="line"><span class="lineno">  276</span>    ModelList::const_iterator it = <a class="code hl_variable" href="../../d5/d25/a04322.html#aa0a0fd13eaa3eba090a3085d41303f12">model_list</a>.find(<a class="code hl_variable" href="../../d4/d6b/a05039.html#af1b565e8ee52c9c19d6f945bfb06b889">owner</a>-&gt;GetDisplayId());</div>
+<div class="line"><span class="lineno">  277</span>    <span class="keywordflow">if</span> (it == <a class="code hl_variable" href="../../d5/d25/a04322.html#aa0a0fd13eaa3eba090a3085d41303f12">model_list</a>.end())</div>
 <div class="line"><span class="lineno">  278</span>    {</div>
 <div class="line"><span class="lineno">  279</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
 <div class="line"><span class="lineno">  280</span>    }</div>
@@ -1140,7 +1140,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d4/d6b/a05039.html">GameObjectModel</a></li>
-    <li class="footer">Generated on Mon May 26 2025 20:45:09 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Jun 2 2025 20:47:01 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

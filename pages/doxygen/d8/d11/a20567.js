@@ -1,6 +1,10 @@
 var a20567 =
 [
-    [ "boss_thorim_start_npcsAI", "de/da9/a20571.html", "de/da9/a20571" ],
-    [ "boss_thorim_start_npcs", "d8/d11/a20567.html#a3aa11a487ae00b2e397fd25ed2e42702", null ],
-    [ "GetAI", "d8/d11/a20567.html#a6c529b19d071b4966ccc74b44279cb08", null ]
+    [ "boss_thorim_sif_blizzardAI", "d8/d11/a20567.html#a99d1c529126452e580ebc7e3e513b367", null ],
+    [ "AttackStart", "d8/d11/a20567.html#a1f05551f323fa410a699497f3875b21f", null ],
+    [ "InitWaypoint", "d8/d11/a20567.html#a1e0a384081750bdf38cc8e0065070ec8", null ],
+    [ "JustEngagedWith", "d8/d11/a20567.html#a9fea5617dccb493c7af435c485462ff3", null ],
+    [ "MoveInLineOfSight", "d8/d11/a20567.html#ab91a2a71ff00e38d2eca50ccc654d9f3", null ],
+    [ "Reset", "d8/d11/a20567.html#a193ba575c4f3f16d850e56f12f190c77", null ],
+    [ "WaypointReached", "d8/d11/a20567.html#a961f90068f25d81f55159763fe2677f8", null ]
 ];

@@ -1,7 +1,6 @@
 var a16331 =
 [
-    [ "npc_toc_priestAI", "d7/d1a/a16331.html#aa362d2136193a8738e311bba18b87c90", null ],
-    [ "myCanCast", "d7/d1a/a16331.html#ad2d4286d8f51a2d5a4901487e56506dc", null ],
-    [ "UpdateAI", "d7/d1a/a16331.html#ae51d2ac95320909150c673b76c9856c7", null ],
-    [ "events", "d7/d1a/a16331.html#aa5be20e87351424e0e4698540fc1fef4", null ]
+    [ "npc_toc_paladinAI", "d9/def/a16335.html", "d9/def/a16335" ],
+    [ "npc_toc_paladin", "d7/d1a/a16331.html#af11025a2a4be2b2c982ad31241d47180", null ],
+    [ "GetAI", "d7/d1a/a16331.html#a15766ea4414701040c738251302177af", null ]
 ];

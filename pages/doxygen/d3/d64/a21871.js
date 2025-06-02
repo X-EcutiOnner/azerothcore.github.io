@@ -1,6 +1,7 @@
 var a21871 =
 [
-    [ "npc_venture_co_stragglerAI", "de/d73/a21875.html", "de/d73/a21875" ],
-    [ "npc_venture_co_straggler", "d3/d64/a21871.html#a9d928b33dfcd3a6ccb7e1f7a1964762f", null ],
-    [ "GetAI", "d3/d64/a21871.html#a5f95d20c67553ae8a27f00ebb92e3627", null ]
+    [ "npc_amberpine_woodsmanAI", "d3/d64/a21871.html#aa0f37b54c5bfc2f923d09437b8b30424", null ],
+    [ "Reset", "d3/d64/a21871.html#a8da613c7bbaadf331c95667e7a361702", null ],
+    [ "UpdateAI", "d3/d64/a21871.html#a64dbf41424a710c400d51507f6457b41", null ],
+    [ "_events", "d3/d64/a21871.html#aac8cd045a5518e3eaa9c24e0fb83ddaa", null ]
 ];

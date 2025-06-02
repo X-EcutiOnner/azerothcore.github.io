@@ -1,10 +1,17 @@
 var a03050 =
 [
-    [ "instance_ahnkahet", "d9/d01/a15783.html", "d9/d01/a15783" ],
-    [ "instance_ahnkahet::instance_ahnkahet_InstanceScript", "d0/d6c/a15787.html", "d0/d6c/a15787" ],
-    [ "spell_shadow_sickle_periodic_damage", "df/d7a/a15791.html", "df/d7a/a15791" ],
-    [ "AddSC_instance_ahnkahet", "d4/d47/a03050.html#a33aed24f64879c91101f7420c4d49cc3", null ],
-    [ "boundaries", "d4/d47/a03050.html#aa75d7d0ffe0cef214f982966c33db1c1", null ],
-    [ "creatureData", "d4/d47/a03050.html#a412286b689bd324fedd65ddd8dde8afb", null ],
-    [ "doorData", "d4/d47/a03050.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ]
+    [ "npc_daphne_stilwell", "dc/df9/a13699.html", "dc/df9/a13699" ],
+    [ "npc_daphne_stilwell::npc_daphne_stilwellAI", "d1/da4/a13703.html", "d1/da4/a13703" ],
+    [ "DaphneStilwell", "d4/d47/a03050.html#a49d1cb4d511d2524f3bf3459da05a2fd", [
+      [ "SAY_DS_START", "d4/d47/a03050.html#a49d1cb4d511d2524f3bf3459da05a2fdaa12c38d2f57b101a5272dde45bbf430e", null ],
+      [ "SAY_DS_DOWN_1", "d4/d47/a03050.html#a49d1cb4d511d2524f3bf3459da05a2fda75bd441fc5d22c60e256684d8664aa46", null ],
+      [ "SAY_DS_DOWN_2", "d4/d47/a03050.html#a49d1cb4d511d2524f3bf3459da05a2fda2fd750f4c8a0d85a69375e139be43d75", null ],
+      [ "SAY_DS_DOWN_3", "d4/d47/a03050.html#a49d1cb4d511d2524f3bf3459da05a2fda14433601b23e5a16dcc971ea746d1128", null ],
+      [ "SAY_DS_PROLOGUE", "d4/d47/a03050.html#a49d1cb4d511d2524f3bf3459da05a2fda402570a024e9b48018ca6b53ff7b83f8", null ],
+      [ "SPELL_SHOOT", "d4/d47/a03050.html#a49d1cb4d511d2524f3bf3459da05a2fda1b728fa1bb0194534b5b491d35ed871c", null ],
+      [ "QUEST_TOME_VALOR", "d4/d47/a03050.html#a49d1cb4d511d2524f3bf3459da05a2fda041a2f4b3f03948fc2f61e32e673973c", null ],
+      [ "NPC_DEFIAS_RAIDER", "d4/d47/a03050.html#a49d1cb4d511d2524f3bf3459da05a2fda8455beedf9f49cb74c0f11bfb5a83050", null ],
+      [ "EQUIP_ID_RIFLE", "d4/d47/a03050.html#a49d1cb4d511d2524f3bf3459da05a2fda31e0ac414da424f6923680055dd801d3", null ]
+    ] ],
+    [ "AddSC_westfall", "d4/d47/a03050.html#a9c6e961944f462fc3c48a6400c76266c", null ]
 ];

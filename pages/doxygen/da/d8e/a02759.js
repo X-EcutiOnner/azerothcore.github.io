@@ -1,6 +1,5 @@
 var a02759 =
 [
-    [ "instance_razorfen_downs", "d0/db5/a14831.html", "d0/db5/a14831" ],
-    [ "instance_razorfen_downs::instance_razorfen_downs_InstanceMapScript", "d7/d56/a14835.html", "d7/d56/a14835" ],
-    [ "AddSC_instance_razorfen_downs", "da/d8e/a02759.html#a0db4d34b8ea594cf2808b93c362a49c4", null ]
+    [ "cast_commandscript", "d5/d92/a11555.html", "d5/d92/a11555" ],
+    [ "AddSC_cast_commandscript", "da/d8e/a02759.html#a7b374923a29bdbff68b6e78d2ef4a3e0", null ]
 ];

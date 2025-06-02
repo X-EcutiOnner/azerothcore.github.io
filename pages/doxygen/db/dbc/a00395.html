@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/game/Movement/MovementGenerators/PathGenerator.h File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/game/Spells/Spell.cpp File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,162 +106,132 @@ $(document).ready(function(){initNavTree('db/dbc/a00395.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
+<a href="#namespaces">Namespaces</a> &#124;
 <a href="#define-members">Macros</a> &#124;
-<a href="#enum-members">Enumerations</a>  </div>
-  <div class="headertitle"><div class="title">PathGenerator.h File Reference</div></div>
+<a href="#enum-members">Enumerations</a> &#124;
+<a href="#func-members">Functions</a> &#124;
+<a href="#var-members">Variables</a>  </div>
+  <div class="headertitle"><div class="title">Spell.cpp File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;DetourNavMesh.h&quot;</code><br />
-<code>#include &quot;DetourNavMeshQuery.h&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">MMapMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">MapDefines.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">MoveSplineInitArgs.h</a>&quot;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">Spell.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">ArenaSpectator.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">BattlefieldMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Battleground.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">BattlegroundIC.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">CharmInfo.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">CellImpl.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Common.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">ConditionMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">DisableMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">DynamicObject.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">GameObjectAI.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">GameTime.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">GridNotifiers.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Group.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">InstanceScript.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Log.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">LootMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">MapMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">ObjectAccessor.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">ObjectMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Opcodes.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Pet.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Player.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">ScriptMgr.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">SharedDefines.h</a>&quot;</code><br />
-<code>#include &lt;G3D/Vector3.h&gt;</code><br />
+<code>#include &quot;<a class="el" href="../../">SpellAuraEffects.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">SpellInfo.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">SpellMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">SpellScript.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">TemporarySummon.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Unit.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Util.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">VMapFactory.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Vehicle.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">World.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">WorldPacket.h</a>&quot;</code><br />
+<code>#include &lt;cmath&gt;</code><br />
+<code>#include &quot;<a class="el" href="../../">GridNotifiersImpl.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">IVMapMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">VMapMgr2.h</a>&quot;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d7d/a09951.html">PathGenerator</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d4f/a11047.html">SpellEvent</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="namespaces" name="namespaces"></a>
+Namespaces</h2></td></tr>
+<tr class="memitem:db/d75/a04761"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d75/a04761.html">Acore</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="define-members" name="define-members"></a>
 Macros</h2></td></tr>
-<tr class="memitem:a9eb6992d76f02128388ae95c0415604a"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dbc/a00395.html#a9eb6992d76f02128388ae95c0415604a">MAX_PATH_LENGTH</a>&#160;&#160;&#160;74</td></tr>
-<tr class="separator:a9eb6992d76f02128388ae95c0415604a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac4c3ae34e2d3733cc39fc1c207d4b814"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dbc/a00395.html#ac4c3ae34e2d3733cc39fc1c207d4b814">MAX_POINT_PATH_LENGTH</a>&#160;&#160;&#160;74</td></tr>
-<tr class="separator:ac4c3ae34e2d3733cc39fc1c207d4b814"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab1ec8eeebdd39a1cceb896f6fcb996bc"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dbc/a00395.html#ab1ec8eeebdd39a1cceb896f6fcb996bc">SMOOTH_PATH_STEP_SIZE</a>&#160;&#160;&#160;4.0f</td></tr>
-<tr class="separator:ab1ec8eeebdd39a1cceb896f6fcb996bc"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9439d6d260a5bf3c1bba446a935b2ce4"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dbc/a00395.html#a9439d6d260a5bf3c1bba446a935b2ce4">SMOOTH_PATH_SLOP</a>&#160;&#160;&#160;0.3f</td></tr>
-<tr class="separator:a9439d6d260a5bf3c1bba446a935b2ce4"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad29d27e72c40ec9a02fbdc29ee093857"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dbc/a00395.html#ad29d27e72c40ec9a02fbdc29ee093857">DISALLOW_TIME_AFTER_FAIL</a>&#160;&#160;&#160;3</td></tr>
-<tr class="separator:ad29d27e72c40ec9a02fbdc29ee093857"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a14571eb5f0eee95bf614e04c59b0207a"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dbc/a00395.html#a14571eb5f0eee95bf614e04c59b0207a">VERTEX_SIZE</a>&#160;&#160;&#160;3</td></tr>
-<tr class="separator:a14571eb5f0eee95bf614e04c59b0207a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6ed37c24cf4f8cd0008c13f111e01092"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dbc/a00395.html#a6ed37c24cf4f8cd0008c13f111e01092">INVALID_POLYREF</a>&#160;&#160;&#160;0</td></tr>
-<tr class="separator:a6ed37c24cf4f8cd0008c13f111e01092"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac27bc73435b380df600d6da0b753a144"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dbc/a00395.html#ac27bc73435b380df600d6da0b753a144">DEBUG_TRAJ</a>(a)</td></tr>
+<tr class="separator:ac27bc73435b380df600d6da0b753a144"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa16c8b27baa496c2fdf0afffaf4485a0"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dbc/a00395.html#aa16c8b27baa496c2fdf0afffaf4485a0">CHECK_DIST</a></td></tr>
+<tr class="separator:aa16c8b27baa496c2fdf0afffaf4485a0"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
 Enumerations</h2></td></tr>
-<tr class="memitem:ae093c9a96eda0463cdd2501ba83f10c3"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dbc/a00395.html#ae093c9a96eda0463cdd2501ba83f10c3">PathType</a> { <br />
-&#160;&#160;<a class="el" href="../../db/dbc/a00395.html#ae093c9a96eda0463cdd2501ba83f10c3ae3e554bae74ad71bf12ba2eea8cc74d0">PATHFIND_BLANK</a> = 0x00
+<tr class="memitem:aea36520bcbaa2ebe9c062b9c5d9df777"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dbc/a00395.html#aea36520bcbaa2ebe9c062b9c5d9df777">GCDLimits</a> { <br />
+&#160;&#160;<a class="el" href="../../db/dbc/a00395.html#aea36520bcbaa2ebe9c062b9c5d9df777a08310e07fc7bc96f8485dbcc9487785f">MIN_GCD</a> = 1000
 , <br />
-&#160;&#160;<a class="el" href="../../db/dbc/a00395.html#ae093c9a96eda0463cdd2501ba83f10c3a58a5a66492944c141d0f386ce330b2c1">PATHFIND_NORMAL</a> = 0x01
-, <br />
-&#160;&#160;<a class="el" href="../../db/dbc/a00395.html#ae093c9a96eda0463cdd2501ba83f10c3ae3c910a168f98f0694e99440aad8028f">PATHFIND_SHORTCUT</a> = 0x02
-, <br />
-&#160;&#160;<a class="el" href="../../db/dbc/a00395.html#ae093c9a96eda0463cdd2501ba83f10c3aee2f2083277a36e471f1bf1170fba3be">PATHFIND_INCOMPLETE</a> = 0x04
-, <br />
-&#160;&#160;<a class="el" href="../../db/dbc/a00395.html#ae093c9a96eda0463cdd2501ba83f10c3a5ab66bcba6eb689d881b4ebc85188984">PATHFIND_NOPATH</a> = 0x08
-, <br />
-&#160;&#160;<a class="el" href="../../db/dbc/a00395.html#ae093c9a96eda0463cdd2501ba83f10c3a4246537a1b739abb599260d9fbb83cdf">PATHFIND_NOT_USING_PATH</a> = 0x10
-, <br />
-&#160;&#160;<a class="el" href="../../db/dbc/a00395.html#ae093c9a96eda0463cdd2501ba83f10c3a8a25c1fe0f8142291e2183102e647cc2">PATHFIND_SHORT</a> = 0x20
-, <br />
-&#160;&#160;<a class="el" href="../../db/dbc/a00395.html#ae093c9a96eda0463cdd2501ba83f10c3a6a98cd66fb2172475b98b7fa120a64ab">PATHFIND_FARFROMPOLY_START</a> = 0x40
-, <br />
-&#160;&#160;<a class="el" href="../../db/dbc/a00395.html#ae093c9a96eda0463cdd2501ba83f10c3a100828592997ee8c90d192befefac0a9">PATHFIND_FARFROMPOLY_END</a> = 0x80
-, <br />
-&#160;&#160;<a class="el" href="../../db/dbc/a00395.html#ae093c9a96eda0463cdd2501ba83f10c3a71d670c0e84fb7296854813de6452e6c">PATHFIND_FARFROMPOLY</a> = PATHFIND_FARFROMPOLY_START | PATHFIND_FARFROMPOLY_END
+&#160;&#160;<a class="el" href="../../db/dbc/a00395.html#aea36520bcbaa2ebe9c062b9c5d9df777accf1639a1cf684725784e02ddf1aef8c">MAX_GCD</a> = 1500
 <br />
  }</td></tr>
-<tr class="separator:ae093c9a96eda0463cdd2501ba83f10c3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="separator:aea36520bcbaa2ebe9c062b9c5d9df777"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
+Functions</h2></td></tr>
+<tr class="memitem:a885f76b28cf9930383ddf099d75ccef1"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dbc/a00395.html#a885f76b28cf9930383ddf099d75ccef1">tangent</a> (float x)</td></tr>
+<tr class="separator:a885f76b28cf9930383ddf099d75ccef1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
+Variables</h2></td></tr>
+<tr class="memitem:a294b5954f08aebdafe9e5a6f00e2dc82"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dc/dc9/a00389.html#ac4912996788d32123000e7fc35065c29">pEffect</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dbc/a00395.html#a294b5954f08aebdafe9e5a6f00e2dc82">SpellEffects</a> [<a class="el" href="../../d0/d2b/a01997.html#a292c893150c454dd75628b719db1fe97ac913ee875debc7ace072a1079d0f1cbc">TOTAL_SPELL_EFFECTS</a>]</td></tr>
+<tr class="separator:a294b5954f08aebdafe9e5a6f00e2dc82"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Macro Definition Documentation</h2>
-<a id="ad29d27e72c40ec9a02fbdc29ee093857" name="ad29d27e72c40ec9a02fbdc29ee093857"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad29d27e72c40ec9a02fbdc29ee093857">&#9670;&#160;</a></span>DISALLOW_TIME_AFTER_FAIL</h2>
+<a id="aa16c8b27baa496c2fdf0afffaf4485a0" name="aa16c8b27baa496c2fdf0afffaf4485a0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa16c8b27baa496c2fdf0afffaf4485a0">&#9670;&#160;</a></span>CHECK_DIST</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">#define DISALLOW_TIME_AFTER_FAIL&#160;&#160;&#160;3</td>
+          <td class="memname">#define CHECK_DIST</td>
         </tr>
       </table>
 </div><div class="memdoc">
-
+<b>Value:</b><div class="fragment"><div class="line">            {\</div>
+<div class="line">            LOG_DEBUG(<span class="stringliteral">&quot;spells&quot;</span>, <span class="stringliteral">&quot;Spell::SelectTrajTargets: dist {}, height {}.&quot;</span>, dist, height);\</div>
+<div class="line">            if (dist &gt; bestDist)\</div>
+<div class="line">                <span class="keywordflow">continue</span>;\</div>
+<div class="line">            if (dist &lt; objDist2d + size &amp;&amp; dist &gt; objDist2d - size)\</div>
+<div class="line">            {\</div>
+<div class="line">                bestDist = dist;\</div>
+<div class="line">                <span class="keywordflow">break</span>;\</div>
+<div class="line">            }\</div>
+<div class="line">        }</div>
+</div><!-- fragment -->
 </div>
 </div>
-<a id="a6ed37c24cf4f8cd0008c13f111e01092" name="a6ed37c24cf4f8cd0008c13f111e01092"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a6ed37c24cf4f8cd0008c13f111e01092">&#9670;&#160;</a></span>INVALID_POLYREF</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">#define INVALID_POLYREF&#160;&#160;&#160;0</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a9eb6992d76f02128388ae95c0415604a" name="a9eb6992d76f02128388ae95c0415604a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a9eb6992d76f02128388ae95c0415604a">&#9670;&#160;</a></span>MAX_PATH_LENGTH</h2>
+<a id="ac27bc73435b380df600d6da0b753a144" name="ac27bc73435b380df600d6da0b753a144"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac27bc73435b380df600d6da0b753a144">&#9670;&#160;</a></span>DEBUG_TRAJ</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">#define MAX_PATH_LENGTH&#160;&#160;&#160;74</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="ac4c3ae34e2d3733cc39fc1c207d4b814" name="ac4c3ae34e2d3733cc39fc1c207d4b814"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac4c3ae34e2d3733cc39fc1c207d4b814">&#9670;&#160;</a></span>MAX_POINT_PATH_LENGTH</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">#define MAX_POINT_PATH_LENGTH&#160;&#160;&#160;74</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a9439d6d260a5bf3c1bba446a935b2ce4" name="a9439d6d260a5bf3c1bba446a935b2ce4"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a9439d6d260a5bf3c1bba446a935b2ce4">&#9670;&#160;</a></span>SMOOTH_PATH_SLOP</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">#define SMOOTH_PATH_SLOP&#160;&#160;&#160;0.3f</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="ab1ec8eeebdd39a1cceb896f6fcb996bc" name="ab1ec8eeebdd39a1cceb896f6fcb996bc"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab1ec8eeebdd39a1cceb896f6fcb996bc">&#9670;&#160;</a></span>SMOOTH_PATH_STEP_SIZE</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">#define SMOOTH_PATH_STEP_SIZE&#160;&#160;&#160;4.0f</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a14571eb5f0eee95bf614e04c59b0207a" name="a14571eb5f0eee95bf614e04c59b0207a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a14571eb5f0eee95bf614e04c59b0207a">&#9670;&#160;</a></span>VERTEX_SIZE</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">#define VERTEX_SIZE&#160;&#160;&#160;3</td>
+          <td class="memname">#define DEBUG_TRAJ</td>
+          <td>(</td>
+          <td class="paramtype">&#160;</td>
+          <td class="paramname">a</td><td>)</td>
+          <td></td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -269,52 +239,84 @@ Enumerations</h2></td></tr>
 </div>
 </div>
 <h2 class="groupheader">Enumeration Type Documentation</h2>
-<a id="ae093c9a96eda0463cdd2501ba83f10c3" name="ae093c9a96eda0463cdd2501ba83f10c3"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae093c9a96eda0463cdd2501ba83f10c3">&#9670;&#160;</a></span>PathType</h2>
+<a id="aea36520bcbaa2ebe9c062b9c5d9df777" name="aea36520bcbaa2ebe9c062b9c5d9df777"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aea36520bcbaa2ebe9c062b9c5d9df777">&#9670;&#160;</a></span>GCDLimits</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">enum <a class="el" href="../../db/dbc/a00395.html#ae093c9a96eda0463cdd2501ba83f10c3">PathType</a></td>
+          <td class="memname">enum <a class="el" href="../../db/dbc/a00395.html#aea36520bcbaa2ebe9c062b9c5d9df777">GCDLimits</a></td>
         </tr>
       </table>
 </div><div class="memdoc">
 <table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="ae093c9a96eda0463cdd2501ba83f10c3ae3e554bae74ad71bf12ba2eea8cc74d0" name="ae093c9a96eda0463cdd2501ba83f10c3ae3e554bae74ad71bf12ba2eea8cc74d0"></a>PATHFIND_BLANK&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ae093c9a96eda0463cdd2501ba83f10c3a58a5a66492944c141d0f386ce330b2c1" name="ae093c9a96eda0463cdd2501ba83f10c3a58a5a66492944c141d0f386ce330b2c1"></a>PATHFIND_NORMAL&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ae093c9a96eda0463cdd2501ba83f10c3ae3c910a168f98f0694e99440aad8028f" name="ae093c9a96eda0463cdd2501ba83f10c3ae3c910a168f98f0694e99440aad8028f"></a>PATHFIND_SHORTCUT&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ae093c9a96eda0463cdd2501ba83f10c3aee2f2083277a36e471f1bf1170fba3be" name="ae093c9a96eda0463cdd2501ba83f10c3aee2f2083277a36e471f1bf1170fba3be"></a>PATHFIND_INCOMPLETE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ae093c9a96eda0463cdd2501ba83f10c3a5ab66bcba6eb689d881b4ebc85188984" name="ae093c9a96eda0463cdd2501ba83f10c3a5ab66bcba6eb689d881b4ebc85188984"></a>PATHFIND_NOPATH&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ae093c9a96eda0463cdd2501ba83f10c3a4246537a1b739abb599260d9fbb83cdf" name="ae093c9a96eda0463cdd2501ba83f10c3a4246537a1b739abb599260d9fbb83cdf"></a>PATHFIND_NOT_USING_PATH&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ae093c9a96eda0463cdd2501ba83f10c3a8a25c1fe0f8142291e2183102e647cc2" name="ae093c9a96eda0463cdd2501ba83f10c3a8a25c1fe0f8142291e2183102e647cc2"></a>PATHFIND_SHORT&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ae093c9a96eda0463cdd2501ba83f10c3a6a98cd66fb2172475b98b7fa120a64ab" name="ae093c9a96eda0463cdd2501ba83f10c3a6a98cd66fb2172475b98b7fa120a64ab"></a>PATHFIND_FARFROMPOLY_START&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ae093c9a96eda0463cdd2501ba83f10c3a100828592997ee8c90d192befefac0a9" name="ae093c9a96eda0463cdd2501ba83f10c3a100828592997ee8c90d192befefac0a9"></a>PATHFIND_FARFROMPOLY_END&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ae093c9a96eda0463cdd2501ba83f10c3a71d670c0e84fb7296854813de6452e6c" name="ae093c9a96eda0463cdd2501ba83f10c3a71d670c0e84fb7296854813de6452e6c"></a>PATHFIND_FARFROMPOLY&#160;</td><td class="fielddoc"></td></tr>
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="aea36520bcbaa2ebe9c062b9c5d9df777a08310e07fc7bc96f8485dbcc9487785f" name="aea36520bcbaa2ebe9c062b9c5d9df777a08310e07fc7bc96f8485dbcc9487785f"></a>MIN_GCD&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aea36520bcbaa2ebe9c062b9c5d9df777accf1639a1cf684725784e02ddf1aef8c" name="aea36520bcbaa2ebe9c062b9c5d9df777accf1639a1cf684725784e02ddf1aef8c"></a>MAX_GCD&#160;</td><td class="fielddoc"></td></tr>
 </table>
-<div class="fragment"><div class="line"><span class="lineno">   45</span>{</div>
-<div class="line"><span class="lineno">   46</span>    <a class="code hl_enumvalue" href="../../db/dbc/a00395.html#ae093c9a96eda0463cdd2501ba83f10c3ae3e554bae74ad71bf12ba2eea8cc74d0">PATHFIND_BLANK</a>             = 0x00,   <span class="comment">// path not built yet</span></div>
-<div class="line"><span class="lineno">   47</span>    <a class="code hl_enumvalue" href="../../db/dbc/a00395.html#ae093c9a96eda0463cdd2501ba83f10c3a58a5a66492944c141d0f386ce330b2c1">PATHFIND_NORMAL</a>            = 0x01,   <span class="comment">// normal path</span></div>
-<div class="line"><span class="lineno">   48</span>    <a class="code hl_enumvalue" href="../../db/dbc/a00395.html#ae093c9a96eda0463cdd2501ba83f10c3ae3c910a168f98f0694e99440aad8028f">PATHFIND_SHORTCUT</a>          = 0x02,   <span class="comment">// travel through obstacles, terrain, air, etc (old behavior)</span></div>
-<div class="line"><span class="lineno">   49</span>    <a class="code hl_enumvalue" href="../../db/dbc/a00395.html#ae093c9a96eda0463cdd2501ba83f10c3aee2f2083277a36e471f1bf1170fba3be">PATHFIND_INCOMPLETE</a>        = 0x04,   <span class="comment">// we have partial path to follow - getting closer to target</span></div>
-<div class="line"><span class="lineno">   50</span>    <a class="code hl_enumvalue" href="../../db/dbc/a00395.html#ae093c9a96eda0463cdd2501ba83f10c3a5ab66bcba6eb689d881b4ebc85188984">PATHFIND_NOPATH</a>            = 0x08,   <span class="comment">// no valid path at all or error in generating one</span></div>
-<div class="line"><span class="lineno">   51</span>    <a class="code hl_enumvalue" href="../../db/dbc/a00395.html#ae093c9a96eda0463cdd2501ba83f10c3a4246537a1b739abb599260d9fbb83cdf">PATHFIND_NOT_USING_PATH</a>    = 0x10,   <span class="comment">// used when we are either flying/swiming or on map w/o mmaps</span></div>
-<div class="line"><span class="lineno">   52</span>    <a class="code hl_enumvalue" href="../../db/dbc/a00395.html#ae093c9a96eda0463cdd2501ba83f10c3a8a25c1fe0f8142291e2183102e647cc2">PATHFIND_SHORT</a>             = 0x20,   <span class="comment">// path is longer or equal to its limited path length</span></div>
-<div class="line"><span class="lineno">   53</span>    <a class="code hl_enumvalue" href="../../db/dbc/a00395.html#ae093c9a96eda0463cdd2501ba83f10c3a6a98cd66fb2172475b98b7fa120a64ab">PATHFIND_FARFROMPOLY_START</a> = 0x40,   <span class="comment">// start position is far from the mmap poligon</span></div>
-<div class="line"><span class="lineno">   54</span>    <a class="code hl_enumvalue" href="../../db/dbc/a00395.html#ae093c9a96eda0463cdd2501ba83f10c3a100828592997ee8c90d192befefac0a9">PATHFIND_FARFROMPOLY_END</a>   = 0x80,   <span class="comment">// end positions is far from the mmap poligon</span></div>
-<div class="line"><span class="lineno">   55</span>    <a class="code hl_enumvalue" href="../../db/dbc/a00395.html#ae093c9a96eda0463cdd2501ba83f10c3a71d670c0e84fb7296854813de6452e6c">PATHFIND_FARFROMPOLY</a>       = <a class="code hl_enumvalue" href="../../db/dbc/a00395.html#ae093c9a96eda0463cdd2501ba83f10c3a6a98cd66fb2172475b98b7fa120a64ab">PATHFIND_FARFROMPOLY_START</a> | <a class="code hl_enumvalue" href="../../db/dbc/a00395.html#ae093c9a96eda0463cdd2501ba83f10c3a100828592997ee8c90d192befefac0a9">PATHFIND_FARFROMPOLY_END</a>, <span class="comment">// start or end positions are far from the mmap poligon</span></div>
-<div class="line"><span class="lineno">   56</span>};</div>
-<div class="ttc" id="aa00395_html_ae093c9a96eda0463cdd2501ba83f10c3a100828592997ee8c90d192befefac0a9"><div class="ttname"><a href="../../db/dbc/a00395.html#ae093c9a96eda0463cdd2501ba83f10c3a100828592997ee8c90d192befefac0a9">PATHFIND_FARFROMPOLY_END</a></div><div class="ttdeci">@ PATHFIND_FARFROMPOLY_END</div><div class="ttdef"><b>Definition:</b> PathGenerator.h:54</div></div>
-<div class="ttc" id="aa00395_html_ae093c9a96eda0463cdd2501ba83f10c3a4246537a1b739abb599260d9fbb83cdf"><div class="ttname"><a href="../../db/dbc/a00395.html#ae093c9a96eda0463cdd2501ba83f10c3a4246537a1b739abb599260d9fbb83cdf">PATHFIND_NOT_USING_PATH</a></div><div class="ttdeci">@ PATHFIND_NOT_USING_PATH</div><div class="ttdef"><b>Definition:</b> PathGenerator.h:51</div></div>
-<div class="ttc" id="aa00395_html_ae093c9a96eda0463cdd2501ba83f10c3a58a5a66492944c141d0f386ce330b2c1"><div class="ttname"><a href="../../db/dbc/a00395.html#ae093c9a96eda0463cdd2501ba83f10c3a58a5a66492944c141d0f386ce330b2c1">PATHFIND_NORMAL</a></div><div class="ttdeci">@ PATHFIND_NORMAL</div><div class="ttdef"><b>Definition:</b> PathGenerator.h:47</div></div>
-<div class="ttc" id="aa00395_html_ae093c9a96eda0463cdd2501ba83f10c3a5ab66bcba6eb689d881b4ebc85188984"><div class="ttname"><a href="../../db/dbc/a00395.html#ae093c9a96eda0463cdd2501ba83f10c3a5ab66bcba6eb689d881b4ebc85188984">PATHFIND_NOPATH</a></div><div class="ttdeci">@ PATHFIND_NOPATH</div><div class="ttdef"><b>Definition:</b> PathGenerator.h:50</div></div>
-<div class="ttc" id="aa00395_html_ae093c9a96eda0463cdd2501ba83f10c3a6a98cd66fb2172475b98b7fa120a64ab"><div class="ttname"><a href="../../db/dbc/a00395.html#ae093c9a96eda0463cdd2501ba83f10c3a6a98cd66fb2172475b98b7fa120a64ab">PATHFIND_FARFROMPOLY_START</a></div><div class="ttdeci">@ PATHFIND_FARFROMPOLY_START</div><div class="ttdef"><b>Definition:</b> PathGenerator.h:53</div></div>
-<div class="ttc" id="aa00395_html_ae093c9a96eda0463cdd2501ba83f10c3a71d670c0e84fb7296854813de6452e6c"><div class="ttname"><a href="../../db/dbc/a00395.html#ae093c9a96eda0463cdd2501ba83f10c3a71d670c0e84fb7296854813de6452e6c">PATHFIND_FARFROMPOLY</a></div><div class="ttdeci">@ PATHFIND_FARFROMPOLY</div><div class="ttdef"><b>Definition:</b> PathGenerator.h:55</div></div>
-<div class="ttc" id="aa00395_html_ae093c9a96eda0463cdd2501ba83f10c3a8a25c1fe0f8142291e2183102e647cc2"><div class="ttname"><a href="../../db/dbc/a00395.html#ae093c9a96eda0463cdd2501ba83f10c3a8a25c1fe0f8142291e2183102e647cc2">PATHFIND_SHORT</a></div><div class="ttdeci">@ PATHFIND_SHORT</div><div class="ttdef"><b>Definition:</b> PathGenerator.h:52</div></div>
-<div class="ttc" id="aa00395_html_ae093c9a96eda0463cdd2501ba83f10c3ae3c910a168f98f0694e99440aad8028f"><div class="ttname"><a href="../../db/dbc/a00395.html#ae093c9a96eda0463cdd2501ba83f10c3ae3c910a168f98f0694e99440aad8028f">PATHFIND_SHORTCUT</a></div><div class="ttdeci">@ PATHFIND_SHORTCUT</div><div class="ttdef"><b>Definition:</b> PathGenerator.h:48</div></div>
-<div class="ttc" id="aa00395_html_ae093c9a96eda0463cdd2501ba83f10c3ae3e554bae74ad71bf12ba2eea8cc74d0"><div class="ttname"><a href="../../db/dbc/a00395.html#ae093c9a96eda0463cdd2501ba83f10c3ae3e554bae74ad71bf12ba2eea8cc74d0">PATHFIND_BLANK</a></div><div class="ttdeci">@ PATHFIND_BLANK</div><div class="ttdef"><b>Definition:</b> PathGenerator.h:46</div></div>
-<div class="ttc" id="aa00395_html_ae093c9a96eda0463cdd2501ba83f10c3aee2f2083277a36e471f1bf1170fba3be"><div class="ttname"><a href="../../db/dbc/a00395.html#ae093c9a96eda0463cdd2501ba83f10c3aee2f2083277a36e471f1bf1170fba3be">PATHFIND_INCOMPLETE</a></div><div class="ttdeci">@ PATHFIND_INCOMPLETE</div><div class="ttdef"><b>Definition:</b> PathGenerator.h:49</div></div>
+<div class="fragment"><div class="line"><span class="lineno"> 8865</span>{</div>
+<div class="line"><span class="lineno"> 8866</span>    <a class="code hl_enumvalue" href="../../db/dbc/a00395.html#aea36520bcbaa2ebe9c062b9c5d9df777a08310e07fc7bc96f8485dbcc9487785f">MIN_GCD</a> = 1000,</div>
+<div class="line"><span class="lineno"> 8867</span>    <a class="code hl_enumvalue" href="../../db/dbc/a00395.html#aea36520bcbaa2ebe9c062b9c5d9df777accf1639a1cf684725784e02ddf1aef8c">MAX_GCD</a> = 1500</div>
+<div class="line"><span class="lineno"> 8868</span>};</div>
+<div class="ttc" id="aa00395_html_aea36520bcbaa2ebe9c062b9c5d9df777a08310e07fc7bc96f8485dbcc9487785f"><div class="ttname"><a href="../../db/dbc/a00395.html#aea36520bcbaa2ebe9c062b9c5d9df777a08310e07fc7bc96f8485dbcc9487785f">MIN_GCD</a></div><div class="ttdeci">@ MIN_GCD</div><div class="ttdef"><b>Definition:</b> Spell.cpp:8866</div></div>
+<div class="ttc" id="aa00395_html_aea36520bcbaa2ebe9c062b9c5d9df777accf1639a1cf684725784e02ddf1aef8c"><div class="ttname"><a href="../../db/dbc/a00395.html#aea36520bcbaa2ebe9c062b9c5d9df777accf1639a1cf684725784e02ddf1aef8c">MAX_GCD</a></div><div class="ttdeci">@ MAX_GCD</div><div class="ttdef"><b>Definition:</b> Spell.cpp:8867</div></div>
 </div><!-- fragment -->
+</div>
+</div>
+<h2 class="groupheader">Function Documentation</h2>
+<a id="a885f76b28cf9930383ddf099d75ccef1" name="a885f76b28cf9930383ddf099d75ccef1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a885f76b28cf9930383ddf099d75ccef1">&#9670;&#160;</a></span>tangent()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">float tangent </td>
+          <td>(</td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>x</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno"> 1866</span>{</div>
+<div class="line"><span class="lineno"> 1867</span>    x = tan(x);</div>
+<div class="line"><span class="lineno"> 1868</span>    <span class="comment">//if (x &lt; std::numeric_limits&lt;float&gt;::max() &amp;&amp; x &gt; -std::numeric_limits&lt;float&gt;::max()) return x;</span></div>
+<div class="line"><span class="lineno"> 1869</span>    <span class="comment">//if (x &gt;= std::numeric_limits&lt;float&gt;::max()) return std::numeric_limits&lt;float&gt;::max();</span></div>
+<div class="line"><span class="lineno"> 1870</span>    <span class="comment">//if (x &lt;= -std::numeric_limits&lt;float&gt;::max()) return -std::numeric_limits&lt;float&gt;::max();</span></div>
+<div class="line"><span class="lineno"> 1871</span>    <span class="keywordflow">if</span> (x &lt; 100000.0f &amp;&amp; x &gt; -100000.0f) <span class="keywordflow">return</span> x;</div>
+<div class="line"><span class="lineno"> 1872</span>    <span class="keywordflow">if</span> (x &gt;= 100000.0f) <span class="keywordflow">return</span> 100000.0f;</div>
+<div class="line"><span class="lineno"> 1873</span>    <span class="keywordflow">if</span> (x &lt;= 100000.0f) <span class="keywordflow">return</span> -100000.0f;</div>
+<div class="line"><span class="lineno"> 1874</span>    <span class="keywordflow">return</span> 0.0f;</div>
+<div class="line"><span class="lineno"> 1875</span>}</div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l01879">Spell::SelectImplicitTrajTargets()</a>.</p>
+
+</div>
+</div>
+<h2 class="groupheader">Variable Documentation</h2>
+<a id="a294b5954f08aebdafe9e5a6f00e2dc82" name="a294b5954f08aebdafe9e5a6f00e2dc82"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a294b5954f08aebdafe9e5a6f00e2dc82">&#9670;&#160;</a></span>SpellEffects</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../dc/dc9/a00389.html#ac4912996788d32123000e7fc35065c29">pEffect</a> <a class="el" href="../../d0/d2b/a01997.html#a292c893150c454dd75628b719db1fe97">SpellEffects</a>[<a class="el" href="../../d0/d2b/a01997.html#a292c893150c454dd75628b719db1fe97ac913ee875debc7ace072a1079d0f1cbc">TOTAL_SPELL_EFFECTS</a>]</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">extern</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<dl class="todo"><dt><b><a class="el" href="../../da/d9d/a04751.html#_todo000126">Todo:</a></b></dt><dd>: this import is not necessary for compilation and marked as unused by the IDE </dd></dl>
+<dl class="todo"><dt><b><a class="el" href="../../da/d9d/a04751.html#_todo000144">Todo:</a></b></dt><dd>: this import is not necessary for compilation and marked as unused by the IDE </dd></dl>
+
 </div>
 </div>
 </div><!-- contents -->
@@ -322,8 +324,8 @@ Enumerations</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_0787b0a4fdc11b0654465feaa92c32a3.html">Movement</a></li><li class="navelem"><a class="el" href="../../dir_5b912817ccf0063e74cbee75ff3a7169.html">MovementGenerators</a></li><li class="navelem"><a class="el" href="../../db/dbc/a00395.html">PathGenerator.h</a></li>
-    <li class="footer">Generated on Mon May 26 2025 20:43:48 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_ef7aca743453a8310aabb86ba904b3f6.html">Spells</a></li><li class="navelem"><a class="el" href="../../db/dbc/a00395.html">Spell.cpp</a></li>
+    <li class="footer">Generated on Mon Jun 2 2025 20:45:47 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

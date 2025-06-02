@@ -1,4 +1,5 @@
 var a28207 =
 [
-    [ "id", "d2/de3/a28207.html#a61c817f16c280ee29e1c91bdb0c2fda8", null ]
+    [ "id", "d2/de3/a28207.html#a22e48015dd880199e131089e35b1ce05", null ],
+    [ "spellId", "d2/de3/a28207.html#a956d683b42f34eae3a1ea3f8882716fd", null ]
 ];

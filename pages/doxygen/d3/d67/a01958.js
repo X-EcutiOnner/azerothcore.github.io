@@ -1,9 +1,10 @@
 var a01958 =
 [
-    [ "MySQLHandle", "d8/d2e/a05719.html", null ],
-    [ "MySQLResult", "d1/d27/a05723.html", null ],
-    [ "MySQLField", "d5/da4/a05727.html", null ],
-    [ "MySQLBind", "d9/d52/a05731.html", null ],
-    [ "MySQLStmt", "d0/df5/a05735.html", null ],
-    [ "MySQLBool", "d3/d67/a01958.html#a9962b927652e90357369e67230dbc127", null ]
+    [ "UpdateException", "de/d29/a05867.html", "de/d29/a05867" ],
+    [ "DBUpdaterUtil", "d5/dfd/a05871.html", "d5/dfd/a05871" ],
+    [ "DBUpdater< T >", "dd/dc3/a05875.html", "dd/dc3/a05875" ],
+    [ "BaseLocation", "d3/d67/a01958.html#a0c382fe144b0dc101a8b2b9d4ef51010", [
+      [ "LOCATION_REPOSITORY", "d3/d67/a01958.html#a0c382fe144b0dc101a8b2b9d4ef51010a7c7f50c7daf1a5f1773676cc90cc9550", null ],
+      [ "LOCATION_DOWNLOAD", "d3/d67/a01958.html#a0c382fe144b0dc101a8b2b9d4ef51010a02f1af050478ebf9488ea00a47c7e11c", null ]
+    ] ]
 ];

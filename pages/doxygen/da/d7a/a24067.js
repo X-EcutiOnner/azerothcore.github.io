@@ -1,6 +1,7 @@
 var a24067 =
 [
-    [ "HandleEffectRemove", "da/d7a/a24067.html#a2e73fd55dd7e6e658bc6c6623b650732", null ],
-    [ "PrepareAuraScript", "da/d7a/a24067.html#a9aabae3a6c57be9b17394d4a39fe24ec", null ],
-    [ "Register", "da/d7a/a24067.html#ac02217c103db141d75377e233e1e4242", null ]
+    [ "npc_maxx_a_million_escortAI", "dd/d96/a24071.html", "dd/d96/a24071" ],
+    [ "npc_maxx_a_million_escort", "da/d7a/a24067.html#a958a88b495594dd8e14919d950ac917a", null ],
+    [ "GetAI", "da/d7a/a24067.html#af79619087908d442f503e0b0d633937d", null ],
+    [ "OnQuestAccept", "da/d7a/a24067.html#af3c2f2708702f7d25e712c63a45e69e0", null ]
 ];

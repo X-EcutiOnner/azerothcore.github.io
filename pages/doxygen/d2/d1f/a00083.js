@@ -1,5 +1,6 @@
 var a00083 =
 [
-    [ "ServerMailReward", "d7/d45/a27603.html", "d7/d45/a27603" ],
-    [ "AddSC_server_mail", "d2/d1f/a00083.html#a8c20fa2f42eb423e39f2aaafe8fadafc", null ]
+    [ "CharacterCacheEntry", "d8/dcd/a07427.html", "d8/dcd/a07427" ],
+    [ "CharacterCache", "d1/df6/a07431.html", "d1/df6/a07431" ],
+    [ "sCharacterCache", "d2/d1f/a00083.html#a7a32c898b33d6163d83a32f46d58517c", null ]
 ];

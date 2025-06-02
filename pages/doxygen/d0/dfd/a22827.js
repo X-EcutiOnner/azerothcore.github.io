@@ -1,6 +1,9 @@
 var a22827 =
 [
-    [ "boss_reliquary_of_soulsAI", "db/d06/a22831.html", "db/d06/a22831" ],
-    [ "boss_reliquary_of_souls", "d0/dfd/a22827.html#a0c73fc6221da0b19903e534932ca6406", null ],
-    [ "GetAI", "d0/dfd/a22827.html#a55b717fe2b1bfdda84fec6c63852ae7c", null ]
+    [ "FilterTargets", "d0/dfd/a22827.html#aa8f0401dd004e816b8071381289116fa", null ],
+    [ "HandleTeleportUnits", "d0/dfd/a22827.html#a4333f10a29ef3e5643f637899a0ab5c5", null ],
+    [ "PrepareSpellScript", "d0/dfd/a22827.html#a47898c213cdd125714c80d327bf42d8c", null ],
+    [ "Register", "d0/dfd/a22827.html#a6036577cd7b4fbbc55e90e9ab067f13a", null ],
+    [ "SetDest", "d0/dfd/a22827.html#a4cf75d96a0d1de62bc989826204b04c9", null ],
+    [ "Validate", "d0/dfd/a22827.html#a814083360970284a325621f45e109b5b", null ]
 ];

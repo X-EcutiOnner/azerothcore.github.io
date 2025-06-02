@@ -1,7 +1,6 @@
 var a23947 =
 [
-    [ "HandleDummy", "df/dbd/a23947.html#a08f2f0aef00ce075572ff84643905a0a", null ],
-    [ "PrepareSpellScript", "df/dbd/a23947.html#ac1aacfbd71224d80eaed0b9a76ff673f", null ],
-    [ "Register", "df/dbd/a23947.html#a2046ac7f24989ff0bf50a3ee66dda104", null ],
-    [ "Validate", "df/dbd/a23947.html#aded9f2e46cc3bf46f5699ce6fdf154ba", null ]
+    [ "npc_oscillating_frequency_scanner_master_bunnyAI", "d5/d77/a23951.html", "d5/d77/a23951" ],
+    [ "npc_oscillating_frequency_scanner_master_bunny", "df/dbd/a23947.html#a8ae11cadbd5e883bf12f8f5201700b4e", null ],
+    [ "GetAI", "df/dbd/a23947.html#a60d55e2eda4484ceea4e475ac8653977", null ]
 ];

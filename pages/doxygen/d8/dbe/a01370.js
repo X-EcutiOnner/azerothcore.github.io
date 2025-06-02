@@ -1,10 +1,18 @@
 var a01370 =
 [
-    [ "TradeData", "db/dd6/a08615.html", "db/dd6/a08615" ],
-    [ "TradeSlots", "d8/dbe/a01370.html#ad8fd978c4198825d89a1f02643d20c62", [
-      [ "TRADE_SLOT_COUNT", "d8/dbe/a01370.html#ad8fd978c4198825d89a1f02643d20c62a1e8d56a5a22d784c5d388fd8bd206488", null ],
-      [ "TRADE_SLOT_TRADED_COUNT", "d8/dbe/a01370.html#ad8fd978c4198825d89a1f02643d20c62ab52f8b8c3be8445987c622e4dfacaa79", null ],
-      [ "TRADE_SLOT_NONTRADED", "d8/dbe/a01370.html#ad8fd978c4198825d89a1f02643d20c62abdab7c30065c4b145dd2e6ce0e27c45f", null ],
-      [ "TRADE_SLOT_INVALID", "d8/dbe/a01370.html#ad8fd978c4198825d89a1f02643d20c62ab98427dca4bc30e207c0433e5e307ad4", null ]
-    ] ]
+    [ "Acore::Impl::ChatCommands::ArgInfo< T, typename >", "d8/d98/a07551.html", null ],
+    [ "Acore::Impl::ChatCommands::ArgInfo< T, std::enable_if_t< std::is_integral_v< T >||std::is_floating_point_v< T > > >", "d3/da5/a07555.html", "d3/da5/a07555" ],
+    [ "Acore::Impl::ChatCommands::ArgInfo< std::string_view, void >", "df/dcb/a07559.html", "df/dcb/a07559" ],
+    [ "Acore::Impl::ChatCommands::ArgInfo< std::string, void >", "d6/d8f/a07563.html", "d6/d8f/a07563" ],
+    [ "Acore::Impl::ChatCommands::ArgInfo< std::wstring, void >", "db/d1c/a07567.html", "db/d1c/a07567" ],
+    [ "Acore::Impl::ChatCommands::ArgInfo< T, std::enable_if_t< std::is_enum_v< T > > >", "d0/df8/a07571.html", "d0/df8/a07571" ],
+    [ "Acore::Impl::ChatCommands::ArgInfo< T, std::enable_if_t< std::is_base_of_v< ContainerTag, T > > >", "da/db4/a07575.html", "da/db4/a07575" ],
+    [ "Acore::Impl::ChatCommands::ArgInfo< std::vector< T >, void >", "de/de7/a07579.html", "de/de7/a07579" ],
+    [ "Acore::Impl::ChatCommands::ArgInfo< std::array< T, N >, void >", "df/ddb/a07583.html", "df/ddb/a07583" ],
+    [ "Acore::Impl::ChatCommands::ArgInfo< Acore::ChatCommands::Variant< Ts... > >", "d6/d84/a07587.html", "d6/d84/a07587" ],
+    [ "Acore::Impl::ChatCommands::ArgInfo< AchievementEntry const * >", "d8/dd8/a07591.html", "d8/dd8/a07591" ],
+    [ "Acore::Impl::ChatCommands::ArgInfo< GameTele const * >", "dd/d55/a07595.html", "dd/d55/a07595" ],
+    [ "Acore::Impl::ChatCommands::ArgInfo< ItemTemplate const * >", "d1/dad/a07599.html", "d1/dad/a07599" ],
+    [ "Acore::Impl::ChatCommands::ArgInfo< SpellInfo const * >", "d1/d38/a07603.html", "d1/d38/a07603" ],
+    [ "Acore::Impl::ChatCommands::ArgInfo< Quest const * >", "d2/d08/a07607.html", "d2/d08/a07607" ]
 ];

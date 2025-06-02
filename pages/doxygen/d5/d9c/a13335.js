@@ -1,9 +1,7 @@
 var a13335 =
 [
-    [ "boss_entropius", "d5/d9c/a13335.html#a458deaa80c9694cd2608150bc5519c76", null ],
-    [ "EnterEvadeMode", "d5/d9c/a13335.html#a01889b192525af082471d092bff28c88", null ],
-    [ "JustDied", "d5/d9c/a13335.html#aed1313073a44bc15f87432a85e6c2d8e", null ],
-    [ "JustEngagedWith", "d5/d9c/a13335.html#afb07fc44fd14b9f78fbc97b2670b8b5e", null ],
-    [ "Reset", "d5/d9c/a13335.html#ad9da990a540703d38cb45dd2da72c179", null ],
-    [ "UpdateAI", "d5/d9c/a13335.html#ab7fbeb67059c48b5f1aff071990ece5e", null ]
+    [ "FilterTargets", "d5/d9c/a13335.html#ae945b657d0fbee4d5ee5d6e7d15ef39b", null ],
+    [ "HandleHit", "d5/d9c/a13335.html#a7e28d5d89f1e622f308e1a1bf7d5dae9", null ],
+    [ "PrepareSpellScript", "d5/d9c/a13335.html#a905e1f979284a368463ad4829891b6ee", null ],
+    [ "Register", "d5/d9c/a13335.html#a6b0d2fc316bef6af20199b15795b00b4", null ]
 ];

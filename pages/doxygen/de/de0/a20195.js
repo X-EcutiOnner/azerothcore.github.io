@@ -1,6 +1,7 @@
 var a20195 =
 [
-    [ "HandleAfterEffectApply", "de/de0/a20195.html#ac8b5cddcf66c1f43c4ab0461354e97f1", null ],
-    [ "PrepareAuraScript", "de/de0/a20195.html#a439799df0d6ca43e6a81930e3e4b5334", null ],
-    [ "Register", "de/de0/a20195.html#adce13201dd11c6ba83883b12ad32d1f6", null ]
+    [ "HandleEffectPeriodic", "de/de0/a20195.html#af6c50396e9b47cd909184aea80244728", null ],
+    [ "PrepareAuraScript", "de/de0/a20195.html#aeb41825334049c8e3a39b48cbf271477", null ],
+    [ "Register", "de/de0/a20195.html#aaa44ceb54aa928c4436120f435bcdc4b", null ],
+    [ "Validate", "de/de0/a20195.html#a0098e4949fc75b1a2464128f4df869aa", null ]
 ];

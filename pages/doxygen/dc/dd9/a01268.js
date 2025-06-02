@@ -1,4 +1,4 @@
 var a01268 =
 [
-    [ "Initialize", "dc/dd9/a01268.html#a9ddfbc9345acf19d3b4bcb7ce7804c94", null ]
+    [ "ScriptRegistry< WorldScript >", "dc/dd9/a01268.html#a4b01e55b7bd36b85062bfc12bfef108f", null ]
 ];

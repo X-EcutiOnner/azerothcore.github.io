@@ -1,8 +1,7 @@
 var a22279 =
 [
-    [ "npc_wg_queueAI", "d2/de2/a22283.html", "d2/de2/a22283" ],
-    [ "npc_wg_queue", "d4/dff/a22279.html#a2cc9825e08e982ef195f117a4512c4ae", null ],
-    [ "GetAI", "d4/dff/a22279.html#ad2d7746a32b520d37ea826b03627de4e", null ],
-    [ "OnGossipHello", "d4/dff/a22279.html#a20fc6ae4e4377f237a620b7f5b1de8ee", null ],
-    [ "OnGossipSelect", "d4/dff/a22279.html#afb707da5d85affc65f7ab5a0fc018c93", null ]
+    [ "npc_wg_demolisher_engineer", "d4/dff/a22279.html#a722ff6bac34730bfb5f36584d7a62ff8", null ],
+    [ "canBuild", "d4/dff/a22279.html#a5dd51b0d0a05ebfb648faab570e27881", null ],
+    [ "OnGossipHello", "d4/dff/a22279.html#ac3b0bbfd66bb94f29a6d733999b8c6ba", null ],
+    [ "OnGossipSelect", "d4/dff/a22279.html#a3ecf69f45918bef0cb51023327ac9693", null ]
 ];

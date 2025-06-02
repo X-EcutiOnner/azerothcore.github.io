@@ -1,55 +1,16 @@
 var a00278 =
 [
-    [ "BattlegroundDS", "d2/d91/a07343.html", "d2/d91/a07343" ],
-    [ "BattlegroundDSCreatures", "dc/d5d/a00278.html#a239235ff6a77dc70519faae59c868202", [
-      [ "BG_DS_NPC_TYPE_WATER_SPOUT", "dc/d5d/a00278.html#a239235ff6a77dc70519faae59c868202ad40b08b0df1abb642f3f0caf18301171", null ]
+    [ "PlayerSetting", "d4/dd0/a08595.html", "d4/dd0/a08595" ],
+    [ "PlayerSettingMap", "dc/d5d/a00278.html#a03676554928fdf5649c8c7f77a128d04", null ],
+    [ "PlayerSettingVector", "dc/d5d/a00278.html#a5c88535ec12f87cc432b1c594bf05326", null ],
+    [ "AnnouncerFlags", "dc/d5d/a00278.html#a32dfba2d10d91879403874fc75b928fd", [
+      [ "ANNOUNCER_FLAG_DISABLE_BG_QUEUE", "dc/d5d/a00278.html#a32dfba2d10d91879403874fc75b928fdade902d5cd94d828fb33601d0d2461828", null ],
+      [ "ANNOUNCER_FLAG_DISABLE_ARENA_QUEUE", "dc/d5d/a00278.html#a32dfba2d10d91879403874fc75b928fda9135a4bbd55879aac0e222d69a6a1704", null ],
+      [ "ANNOUNCER_FLAG_DISABLE_AUTOBROADCAST", "dc/d5d/a00278.html#a32dfba2d10d91879403874fc75b928fda8cc308de4e117be878954235d6580c5e", null ]
     ] ],
-    [ "BattlegroundDSCreatureTypes", "dc/d5d/a00278.html#aca2990bbe9b2261c7f9f9761c063c3f4", [
-      [ "BG_DS_NPC_WATERFALL_KNOCKBACK", "dc/d5d/a00278.html#aca2990bbe9b2261c7f9f9761c063c3f4a79cd4de05b72abd60374190c7802850a", null ],
-      [ "BG_DS_NPC_PIPE_KNOCKBACK_1", "dc/d5d/a00278.html#aca2990bbe9b2261c7f9f9761c063c3f4a499e73119219ab047050066925863cbf", null ],
-      [ "BG_DS_NPC_PIPE_KNOCKBACK_2", "dc/d5d/a00278.html#aca2990bbe9b2261c7f9f9761c063c3f4a0f7c473d66f71a2692f1a7b5e1c110b4", null ],
-      [ "BG_DS_NPC_MAX", "dc/d5d/a00278.html#aca2990bbe9b2261c7f9f9761c063c3f4aea764dbeaf590cb06750d0b4146c581a", null ]
+    [ "CharacterSettingIndexes", "dc/d5d/a00278.html#acd2ee27596acf5e6804faaf9e7b6a1f5", [
+      [ "SETTING_ANNOUNCER_FLAGS", "dc/d5d/a00278.html#acd2ee27596acf5e6804faaf9e7b6a1f5a87ac7ec64e9a96e600fff40b442b4ca4", null ],
+      [ "MAX_CHAR_SETTINGS", "dc/d5d/a00278.html#acd2ee27596acf5e6804faaf9e7b6a1f5af9d926aa507c306441abf0cd93f9412c", null ]
     ] ],
-    [ "BattlegroundDSData", "dc/d5d/a00278.html#aa31b86760427e7e9348ef8bf69da141c", [
-      [ "BG_DS_PIPE_KNOCKBACK_FIRST_DELAY", "dc/d5d/a00278.html#aa31b86760427e7e9348ef8bf69da141cabbf10d8eecab52ccb852376f82fd018d", null ],
-      [ "BG_DS_PIPE_KNOCKBACK_DELAY", "dc/d5d/a00278.html#aa31b86760427e7e9348ef8bf69da141ca35f8577eea8f26daf33a3dd21e2231b5", null ],
-      [ "BG_DS_PIPE_KNOCKBACK_TOTAL_COUNT", "dc/d5d/a00278.html#aa31b86760427e7e9348ef8bf69da141cafa0805e6bb3bad41fe68cd2697758704", null ]
-    ] ],
-    [ "BattlegroundDSEvents", "dc/d5d/a00278.html#a28c190d1bc1cda7ce04873badd8dd1b9", [
-      [ "BG_DS_EVENT_WATERFALL_WARNING", "dc/d5d/a00278.html#a28c190d1bc1cda7ce04873badd8dd1b9a556b41865c0cb90edad807f781c04185", null ],
-      [ "BG_DS_EVENT_WATERFALL_ON", "dc/d5d/a00278.html#a28c190d1bc1cda7ce04873badd8dd1b9a146cc864281f18ab4b717202919f44ce", null ],
-      [ "BG_DS_EVENT_WATERFALL_OFF", "dc/d5d/a00278.html#a28c190d1bc1cda7ce04873badd8dd1b9adb0372ad161febcd2fb2b195e52da56d", null ],
-      [ "BG_DS_EVENT_WATERFALL_KNOCKBACK", "dc/d5d/a00278.html#a28c190d1bc1cda7ce04873badd8dd1b9a90015d0b077cd7e296410208637e46b4", null ],
-      [ "BG_DS_EVENT_PIPE_KNOCKBACK", "dc/d5d/a00278.html#a28c190d1bc1cda7ce04873badd8dd1b9a7fed7cfa0547c6e8ceeb5e3453fa6268", null ]
-    ] ],
-    [ "BattlegroundDSGameObjects", "dc/d5d/a00278.html#a71d8aad7096e6f4e538eadab51fc76f8", [
-      [ "BG_DS_OBJECT_TYPE_DOOR_1", "dc/d5d/a00278.html#a71d8aad7096e6f4e538eadab51fc76f8a8117a9fd3e3221f5980949e5150fe737", null ],
-      [ "BG_DS_OBJECT_TYPE_DOOR_2", "dc/d5d/a00278.html#a71d8aad7096e6f4e538eadab51fc76f8a687d200b385c99eca799508a8a3da61d", null ],
-      [ "BG_DS_OBJECT_TYPE_WATER_1", "dc/d5d/a00278.html#a71d8aad7096e6f4e538eadab51fc76f8ae42c0b118aa8e527eabad9d8302c86db", null ],
-      [ "BG_DS_OBJECT_TYPE_WATER_2", "dc/d5d/a00278.html#a71d8aad7096e6f4e538eadab51fc76f8a90ec16bb076db4028cbf2a5dbb327f1d", null ],
-      [ "BG_DS_OBJECT_TYPE_BUFF_1", "dc/d5d/a00278.html#a71d8aad7096e6f4e538eadab51fc76f8a141655234e2fa43143622578cf71ec71", null ],
-      [ "BG_DS_OBJECT_TYPE_BUFF_2", "dc/d5d/a00278.html#a71d8aad7096e6f4e538eadab51fc76f8affd7ba30f4f2024dd6429f065d5edb9f", null ]
-    ] ],
-    [ "BattlegroundDSObjectTypes", "dc/d5d/a00278.html#a8d5224d87e17a7242576ee301e628de6", [
-      [ "BG_DS_OBJECT_DOOR_1", "dc/d5d/a00278.html#a8d5224d87e17a7242576ee301e628de6a8610bd7f4f1a8e7eb1e9f2429aac5b42", null ],
-      [ "BG_DS_OBJECT_DOOR_2", "dc/d5d/a00278.html#a8d5224d87e17a7242576ee301e628de6a330db292ad2569c554efbb54f9683a65", null ],
-      [ "BG_DS_OBJECT_WATER_1", "dc/d5d/a00278.html#a8d5224d87e17a7242576ee301e628de6ad7b7d41afc57c57dfb26c89c33cc6d30", null ],
-      [ "BG_DS_OBJECT_WATER_2", "dc/d5d/a00278.html#a8d5224d87e17a7242576ee301e628de6a4afa2177f1262bb3fb3c015047d6c1f1", null ],
-      [ "BG_DS_OBJECT_BUFF_1", "dc/d5d/a00278.html#a8d5224d87e17a7242576ee301e628de6ab65c1a961954720559d3b7d2114d0f1a", null ],
-      [ "BG_DS_OBJECT_BUFF_2", "dc/d5d/a00278.html#a8d5224d87e17a7242576ee301e628de6aba69c00240803bc3130e93706ca3fd03", null ],
-      [ "BG_DS_OBJECT_READY_MARKER_1", "dc/d5d/a00278.html#a8d5224d87e17a7242576ee301e628de6a2463d4010bc80f717036a5c0980eb00e", null ],
-      [ "BG_DS_OBJECT_READY_MARKER_2", "dc/d5d/a00278.html#a8d5224d87e17a7242576ee301e628de6aaa0509a954fa3bb165e7a8b021c81720", null ],
-      [ "BG_DS_OBJECT_MAX", "dc/d5d/a00278.html#a8d5224d87e17a7242576ee301e628de6a6067df4d0384c2cbc7b6b11a0ad6abef", null ]
-    ] ],
-    [ "BattlegroundDSSpells", "dc/d5d/a00278.html#a41065fade7598429191146de35f52e86", [
-      [ "BG_DS_SPELL_FLUSH", "dc/d5d/a00278.html#a41065fade7598429191146de35f52e86a92b5731f68ff7782811d2ed6ecc27d50", null ],
-      [ "BG_DS_SPELL_FLUSH_KNOCKBACK", "dc/d5d/a00278.html#a41065fade7598429191146de35f52e86a048190b79973e03b8a950faa2e702817", null ],
-      [ "BG_DS_SPELL_WATER_SPOUT", "dc/d5d/a00278.html#a41065fade7598429191146de35f52e86a9fddcfba49dc5538f51c0d537c440f67", null ],
-      [ "SPELL_WARL_DEMONIC_CIRCLE", "dc/d5d/a00278.html#a41065fade7598429191146de35f52e86ae21b8d7e5a28c9d4fac00f918d272f71", null ]
-    ] ],
-    [ "BG_DS_WATERFALL_DURATION", "dc/d5d/a00278.html#a5ab9e4c80e884fe70b5ec7fa8a804467", null ],
-    [ "BG_DS_WATERFALL_KNOCKBACK_TIMER", "dc/d5d/a00278.html#a1b36a98e6aeda4fffe6eb42b5b97d8b9", null ],
-    [ "BG_DS_WATERFALL_TIMER_MAX", "dc/d5d/a00278.html#aa60e58163a826a5883866a7acc392a69", null ],
-    [ "BG_DS_WATERFALL_TIMER_MIN", "dc/d5d/a00278.html#a42d81786420a8cf7be3391223230530a", null ],
-    [ "BG_DS_WATERFALL_WARNING_DURATION", "dc/d5d/a00278.html#ad0d7dc59c1690e15c35f7ba622eb2fef", null ]
+    [ "AzerothcorePSSource", "dc/d5d/a00278.html#a50fa156f5e934ed3fa7108da4c510f28", null ]
 ];

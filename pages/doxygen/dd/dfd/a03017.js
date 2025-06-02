@@ -1,10 +1,12 @@
 var a03017 =
 [
-    [ "npc_webbed_creature", "d1/d69/a15279.html", "d1/d69/a15279" ],
-    [ "npc_webbed_creature::npc_webbed_creatureAI", "d7/d29/a15283.html", "d7/d29/a15283" ],
-    [ "WebbedCreature", "dd/dfd/a03017.html#aa14073eff8de36ab4c416f5ae7bd8cd0", [
-      [ "NPC_EXPEDITION_RESEARCHER", "dd/dfd/a03017.html#aa14073eff8de36ab4c416f5ae7bd8cd0afbd11004b44bf2d153ac8e084395b3b3", null ]
+    [ "instance_gnomeregan", "d4/dca/a12499.html", "d4/dca/a12499" ],
+    [ "instance_gnomeregan::instance_gnomeregan_InstanceMapScript", "df/daf/a12503.html", "df/daf/a12503" ],
+    [ "npc_kernobee", "df/d1b/a12507.html", "df/d1b/a12507" ],
+    [ "npc_kernobee::npc_kernobeeAI", "d9/d53/a12511.html", "d9/d53/a12511" ],
+    [ "spell_gnomeregan_radiation_bolt", "d4/d6a/a12515.html", "d4/d6a/a12515" ],
+    [ "eKernobee", "dd/dfd/a03017.html#a2abc5c19b823c78ec77c3d72114bf15a", [
+      [ "QUEST_A_FINE_MESS", "dd/dfd/a03017.html#a2abc5c19b823c78ec77c3d72114bf15aae96e14c539b411972be0ce6ad156b394", null ]
     ] ],
-    [ "AddSC_bloodmyst_isle", "dd/dfd/a03017.html#a6b9832f4bb6cfefde5bab6937fd46fae", null ],
-    [ "possibleSpawns", "dd/dfd/a03017.html#ab3e43a66e02bf6f3b8cbd7c154f9d70d", null ]
+    [ "AddSC_instance_gnomeregan", "dd/dfd/a03017.html#afc9fa76575d58995fccc2f594a40114c", null ]
 ];

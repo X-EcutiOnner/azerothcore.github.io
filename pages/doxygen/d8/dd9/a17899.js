@@ -1,6 +1,6 @@
 var a17899 =
 [
-    [ "ExtraRemoveEffect", "d8/dd9/a17899.html#a49b1087d66606ddeebe6918ad05d4b37", null ],
-    [ "PrepareAuraScript", "d8/dd9/a17899.html#a41992ed6c23275d3a910915755b682f9", null ],
-    [ "Register", "d8/dd9/a17899.html#ab956cb95473cf0c5fc9fb2af14fc945e", null ]
+    [ "npc_big_oozeAI", "d1/dc5/a17903.html", "d1/dc5/a17903" ],
+    [ "npc_big_ooze", "d8/dd9/a17899.html#a8ae667b2782c53cd808f2e02e29713ee", null ],
+    [ "GetAI", "d8/dd9/a17899.html#ad06308602d69b51ff3f269bda6c465b5", null ]
 ];

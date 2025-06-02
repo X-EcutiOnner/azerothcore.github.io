@@ -1,6 +1,6 @@
 var a20627 =
 [
-    [ "boss_xt002AI", "dc/d0e/a20631.html", "dc/d0e/a20631" ],
-    [ "boss_xt002", "dc/d43/a20627.html#aebd7e513b3bef6a25ad0f9766d18174e", null ],
-    [ "GetAI", "dc/d43/a20627.html#a146e4a10da7d81213e7f63d6e86c79f2", null ]
+    [ "OnPeriodic", "dc/d43/a20627.html#a5247db3b621d1d499b9e22e16c7a951a", null ],
+    [ "PrepareAuraScript", "dc/d43/a20627.html#a6aa46e818199da206e6543005a7fe87f", null ],
+    [ "Register", "dc/d43/a20627.html#ab64dfdda3c09e65cfaeb90d20a5212ed", null ]
 ];

@@ -1,5 +1,5 @@
 var a19139 =
 [
-    [ "at_naxxramas_hub_portal", "d0/df1/a19139.html#a946086e8a4651240b84526a1b2d54065", null ],
-    [ "OnTrigger", "d0/df1/a19139.html#af967b0f61b3257c8b8d802d4ed3af1da", null ]
+    [ "npc_mr_bigglesworth", "d0/df1/a19139.html#a51e81be4146e8e40a82ecf4018cb955d", null ],
+    [ "JustDied", "d0/df1/a19139.html#a3d5957253ef3af4f48f5bfaf4d93ce0f", null ]
 ];

@@ -1,8 +1,10 @@
 var a14047 =
 [
-    [ "boss_venoxis", "df/d5d/a14047.html#a3e91a9022163a726cbc077d38459a5f5", null ],
-    [ "InitializeAI", "df/d5d/a14047.html#a1373b5fc673fce6aea1de40d970ac00d", null ],
-    [ "JustDied", "df/d5d/a14047.html#a63ccc5a9520ee30b0ebaf8c4d31e59b8", null ],
-    [ "JustEngagedWith", "df/d5d/a14047.html#afaa68ffbd5fecae48a044009326bcaed", null ],
-    [ "Reset", "df/d5d/a14047.html#a40cbcd4d41ff85ff71d5d913d8e62368", null ]
+    [ "npc_zealot_lorkhan", "df/d5d/a14047.html#a7df2ab658c1fda0d130815581ffbae4e", null ],
+    [ "JustDied", "df/d5d/a14047.html#abda06af9ccc78763e70ebf98f0a9dc03", null ],
+    [ "JustEngagedWith", "df/d5d/a14047.html#a7cb7da94799fa1689a5f16ef33d4d874", null ],
+    [ "Reset", "df/d5d/a14047.html#abecbd4a2ea2cf3281244933fe7484239", null ],
+    [ "UpdateAI", "df/d5d/a14047.html#a68c35734f8886b2c241dcbc178899206", null ],
+    [ "_scheduler", "df/d5d/a14047.html#a50ded84f7cdb698118b406c9cfab7e5c", null ],
+    [ "instance", "df/d5d/a14047.html#aa677f42d562fa6dc90a4913eed3763c8", null ]
 ];

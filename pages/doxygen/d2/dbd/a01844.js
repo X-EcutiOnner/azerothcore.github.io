@@ -1,14 +1,8 @@
 var a01844 =
 [
-    [ "AccountInfo", "da/da1/a05627.html", "da/da1/a05627" ],
-    [ "AuthSession", "dc/d03/a05631.html", "dc/d03/a05631" ],
-    [ "AuthHandler", "dd/df1/a05635.html", "dd/df1/a05635" ],
-    [ "AuthStatus", "d2/dbd/a01844.html#a9bc15a6035dd7c4983d87a5ccb3d5834", [
-      [ "STATUS_CHALLENGE", "d2/dbd/a01844.html#a9bc15a6035dd7c4983d87a5ccb3d5834a90b814e742d5a0b33f968164487ecac4", null ],
-      [ "STATUS_LOGON_PROOF", "d2/dbd/a01844.html#a9bc15a6035dd7c4983d87a5ccb3d5834a940d23c4c5ae99bdf01c40c4e975df16", null ],
-      [ "STATUS_RECONNECT_PROOF", "d2/dbd/a01844.html#a9bc15a6035dd7c4983d87a5ccb3d5834a2a06e7508d5944327eec6c08c11db734", null ],
-      [ "STATUS_AUTHED", "d2/dbd/a01844.html#a9bc15a6035dd7c4983d87a5ccb3d5834ad7eacfaf1a48a468f2383034940ef72b", null ],
-      [ "STATUS_WAITING_FOR_REALM_LIST", "d2/dbd/a01844.html#a9bc15a6035dd7c4983d87a5ccb3d5834a570e0aef98212ddcd09f1ec9254ffdf0", null ],
-      [ "STATUS_CLOSED", "d2/dbd/a01844.html#a9bc15a6035dd7c4983d87a5ccb3d5834a78785eb1e6f5b92eaea5c78b3cc0dd94", null ]
-    ] ]
+    [ "PingOperation", "d6/d3e/a05683.html", "d6/d3e/a05683" ],
+    [ "DatabaseIncompatibleVersion", "d2/dbd/a01844.html#a31d71bc4748fa66e040eb20dc995e12e", null ],
+    [ "DatabaseWorkerPool< CharacterDatabaseConnection >", "d2/dbd/a01844.html#aa3cb93fc2ebcb628d94ae0dd8ddf8a18", null ],
+    [ "DatabaseWorkerPool< LoginDatabaseConnection >", "d2/dbd/a01844.html#a8751940b74a554bf0a86046325e0c5ed", null ],
+    [ "DatabaseWorkerPool< WorldDatabaseConnection >", "d2/dbd/a01844.html#a25e66781580e4e7fcbd8e8ca6ef9f13a", null ]
 ];

@@ -1,6 +1,7 @@
 var a17107 =
 [
-    [ "boss_eckAI", "d9/dc9/a17111.html", "d9/dc9/a17111" ],
-    [ "boss_eck", "df/dca/a17107.html#aa445927936d7759a8c3289e2899181e5", null ],
-    [ "GetAI", "df/dca/a17107.html#a335755ec7416d3e00a4070e03569293a", null ]
+    [ "HandleDummy", "df/dca/a17107.html#ab614c27fbeb0fc6cac42c3e8f981e11d", null ],
+    [ "PrepareSpellScript", "df/dca/a17107.html#a3ef0564565ea49265800422c835432b0", null ],
+    [ "Register", "df/dca/a17107.html#a7b685926a8d511397889616e97bbd563", null ],
+    [ "Validate", "df/dca/a17107.html#aecd40c136e44dfc9c5e4dd572d577578", null ]
 ];

@@ -1,4 +1,4 @@
 var a00698 =
 [
-    [ "ScriptRegistry< ElunaScript >", "df/dbb/a00698.html#a15bab1416715725970c75b4acdc0ea37", null ]
+    [ "GetAge", "df/dbb/a00698.html#a347e0449afd73dbcc6c084dbe72af6c8", null ]
 ];

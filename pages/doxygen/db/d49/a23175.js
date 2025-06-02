@@ -1,6 +1,10 @@
 var a23175 =
 [
-    [ "instance_serpentshrine_cavern_InstanceMapScript", "d5/d76/a23179.html", "d5/d76/a23179" ],
-    [ "instance_serpent_shrine", "db/d49/a23175.html#aac4fc7113307805138ba4ce4a9adff09", null ],
-    [ "GetInstanceScript", "db/d49/a23175.html#aa81add2f4aeb8b2084bcc81c05b606c7", null ]
+    [ "boss_morogrim_tidewalker", "db/d49/a23175.html#a138a200da298f64697e2e47fb8004ccb", null ],
+    [ "JustDied", "db/d49/a23175.html#a139d87e7cffe03183538eb493e063195", null ],
+    [ "JustEngagedWith", "db/d49/a23175.html#a3244672aeb994673e1f46708699bcc2c", null ],
+    [ "JustSummoned", "db/d49/a23175.html#a2b669007520094948138c95468b77f9f", null ],
+    [ "KilledUnit", "db/d49/a23175.html#a2db94919e6d6f3d4eda4addc4248976e", null ],
+    [ "Reset", "db/d49/a23175.html#a78ed1d1f8c55407497a4fb679587975d", null ],
+    [ "_recentlySpoken", "db/d49/a23175.html#a63edb4b20baa9e1cf5238c3db5974c56", null ]
 ];

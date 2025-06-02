@@ -1,4 +1,6 @@
 var a00914 =
 [
-    [ "ScriptRegistry< BattlegroundMapScript >", "d3/dd1/a00914.html#a79e6d39d74f9bbf97afe75113cd4db80", null ]
+    [ "WorldPackets::Packet", "dd/d78/a10407.html", "dd/d78/a10407" ],
+    [ "WorldPackets::ServerPacket", "d7/d12/a10411.html", "d7/d12/a10411" ],
+    [ "WorldPackets::ClientPacket", "d6/db0/a10415.html", "d6/db0/a10415" ]
 ];

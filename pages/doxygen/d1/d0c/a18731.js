@@ -1,8 +1,9 @@
 var a18731 =
 [
-    [ "Class", "d1/d0c/a18731.html#a095390e9023609f5836c4481ed79e1af", null ],
-    [ "cooldown_ms", "d1/d0c/a18731.html#a6f1fdab250e8557d16066c03a54fb2a4", null ],
-    [ "id", "d1/d0c/a18731.html#ae9fdf89271339b93f306c4aa0871f844", null ],
-    [ "range", "d1/d0c/a18731.html#aad126da206abceb6a66dcda1cbd3b28b", null ],
-    [ "targetType", "d1/d0c/a18731.html#ae5fc8cb423536f631591d3b72bfd06dd", null ]
+    [ "npc_icc_skybreaker_luminaryAI", "d1/d0c/a18731.html#a91868021309239f5582bb7ee89baec13", null ],
+    [ "AttackStart", "d1/d0c/a18731.html#acf8d1eaebdc68cb53866155d8aad6e48", null ],
+    [ "JustEngagedWith", "d1/d0c/a18731.html#a12927240144022174e3d190be6b34976", null ],
+    [ "Reset", "d1/d0c/a18731.html#ac925b84b81ec1d1e118f3e62edfbdd15", null ],
+    [ "UpdateAI", "d1/d0c/a18731.html#a969a36e147006971a93711349f90c193", null ],
+    [ "events", "d1/d0c/a18731.html#a8521aef674b9a295c27f7e5725af4ffe", null ]
 ];

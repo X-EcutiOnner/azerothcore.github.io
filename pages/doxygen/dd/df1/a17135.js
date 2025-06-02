@@ -1,6 +1,7 @@
 var a17135 =
 [
-    [ "boss_moorabiAI", "de/d5c/a17139.html", "de/d5c/a17139" ],
-    [ "boss_moorabi", "dd/df1/a17135.html#a94e14b2a9b06143985f785e781d1c302", null ],
-    [ "GetAI", "dd/df1/a17135.html#ae90c7dd46fb1335a525c3c3e27040420", null ]
+    [ "HandleApplyAura", "dd/df1/a17135.html#ac71784d7d135df4828ddcf5c85c4301c", null ],
+    [ "PrepareSpellScript", "dd/df1/a17135.html#a097bf3b27e4b2d9ceddea07b9c0b8ce9", null ],
+    [ "Register", "dd/df1/a17135.html#a80638966202cb9e27d204ea621e379ef", null ],
+    [ "Validate", "dd/df1/a17135.html#aaa3505a74905b91f52e37b0ded0ba7fd", null ]
 ];

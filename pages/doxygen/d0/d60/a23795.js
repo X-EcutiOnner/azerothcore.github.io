@@ -1,8 +1,6 @@
 var a23795 =
 [
-    [ "HandleScriptEffect", "d0/d60/a23795.html#a7cde39fc0844f19604c8026a853e8216", null ],
-    [ "Load", "d0/d60/a23795.html#a5d3eb86208c4aa9c6592349d28c5df79", null ],
-    [ "PrepareSpellScript", "d0/d60/a23795.html#a962de50d1fa35ca16b4753f55e5cbd47", null ],
-    [ "Register", "d0/d60/a23795.html#aee6bd90e8b39132d4b53b67c22d6c331", null ],
-    [ "_currentSpellId", "d0/d60/a23795.html#a0ad25535ba345fe9672150af67687305", null ]
+    [ "HandlePeriodic", "d0/d60/a23795.html#a0a6da7aad8b7fcc92092f7a3c5bc0768", null ],
+    [ "PrepareAuraScript", "d0/d60/a23795.html#a75d72d196ded2ee109d0231d4342890a", null ],
+    [ "Register", "d0/d60/a23795.html#a148013ea68bbc573bddc1c3639dba019", null ]
 ];

@@ -1,7 +1,6 @@
 var a24471 =
 [
-    [ "CheckProc", "d0/daf/a24471.html#a64414347ed5e132c3268451653082821", null ],
-    [ "HandleProc", "d0/daf/a24471.html#a8a3eab47b8214b59275aeaa8a02e4240", null ],
-    [ "PrepareAuraScript", "d0/daf/a24471.html#a88277eeea14f7799e27a4a897e6e8c0c", null ],
-    [ "Register", "d0/daf/a24471.html#a3ce0dcd5becd38e10e2bb6e3d2f28e89", null ]
+    [ "PrepareSpellScript", "d0/daf/a24471.html#a6c49fad4dc5d080b9a5550f8f30cae4d", null ],
+    [ "RecalculateDamage", "d0/daf/a24471.html#ab6a781160532d7cbb3bb3304eb412514", null ],
+    [ "Register", "d0/daf/a24471.html#a82395d00066e90abc58103b18a5ef4dc", null ]
 ];

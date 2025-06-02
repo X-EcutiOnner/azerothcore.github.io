@@ -1,8 +1,7 @@
 var a12807 =
 [
-    [ "npc_death_knight_initiateAI", "de/d9d/a12811.html", "de/d9d/a12811" ],
-    [ "npc_death_knight_initiate", "d5/db8/a12807.html#a0c1b552035bed7be9af1fbdf8205b4b6", null ],
-    [ "GetAI", "d5/db8/a12807.html#ac38e0ed0ea1eac8e0de6f08664cb095a", null ],
-    [ "OnGossipHello", "d5/db8/a12807.html#a24f1b91ad0a69e4468e812747225d303", null ],
-    [ "OnGossipSelect", "d5/db8/a12807.html#ab0712bc84003b5eb72f11b49ef6e57a7", null ]
+    [ "HandleScriptEffect", "d5/db8/a12807.html#a1cdba27f7311021407307bcd35235fed", null ],
+    [ "PrepareSpellScript", "d5/db8/a12807.html#a9c97b6702a02fe78e1f6e76d8a00c598", null ],
+    [ "Register", "d5/db8/a12807.html#a9794991aa1710ce37112888eeb572796", null ],
+    [ "Validate", "d5/db8/a12807.html#a1e7c77b45c1abf4aee5491f02d75b6d1", null ]
 ];

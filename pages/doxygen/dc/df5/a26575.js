@@ -1,6 +1,6 @@
 var a26575 =
 [
-    [ "HandlePeriodic", "dc/df5/a26575.html#af875d62dd47650c9f2e9c3a4508ed05b", null ],
-    [ "PrepareAuraScript", "dc/df5/a26575.html#a2efdcd0902e9cb5c47e285492dd93789", null ],
-    [ "Register", "dc/df5/a26575.html#ac90afe9f5d9d55faba2282a875469311", null ]
+    [ "HandleAfterCast", "dc/df5/a26575.html#a6f21938e84e45848fad74a16f1f52c48", null ],
+    [ "PrepareSpellScript", "dc/df5/a26575.html#ac7abeee05c117595696faf1ec55e11bd", null ],
+    [ "Register", "dc/df5/a26575.html#a9e90a6fa037627ac682f4ea050f557de", null ]
 ];

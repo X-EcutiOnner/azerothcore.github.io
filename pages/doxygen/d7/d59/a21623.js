@@ -1,9 +1,9 @@
 var a21623 =
 [
-    [ "npc_minigob_manabonk", "d7/d59/a21623.html#aade5e005b68b25ede4e653629390ceb9", null ],
-    [ "Reset", "d7/d59/a21623.html#a18b3fcf1e2ada8f0178a0efd2e206a8e", null ],
-    [ "SelectTargetInDalaran", "d7/d59/a21623.html#a74a14a6e1839d7b8cc81712d57666ec5", null ],
-    [ "SendMailToPlayer", "d7/d59/a21623.html#a1973b7885c9fce15aab9843722bf112e", null ],
-    [ "UpdateAI", "d7/d59/a21623.html#abca8214a8c13d9d9c5c03f659fef53a9", null ],
-    [ "playerGUID", "d7/d59/a21623.html#ac8dccd333691f717fdbffe22126330d5", null ]
+    [ "npc_archmage_landalockAI", "d7/d59/a21623.html#a8e2b48a9cf243b0d6f11286cf1e301c8", null ],
+    [ "GetImageEntry", "d7/d59/a21623.html#ae09841969253c0baf72cc235b6fa058e", null ],
+    [ "JustSummoned", "d7/d59/a21623.html#af9016bfeca3db7611fdafe4337e5f64a", null ],
+    [ "UpdateAI", "d7/d59/a21623.html#abad2f45c0a5c43cc7aa7867a0291133d", null ],
+    [ "_summonGUID", "d7/d59/a21623.html#a8b59c414dfd46209dcc3d00531e2b98b", null ],
+    [ "_switchImageTimer", "d7/d59/a21623.html#a5e2fb6556bbb5cf22b77a72e9ccbc548", null ]
 ];

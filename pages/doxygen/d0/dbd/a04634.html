@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/common/Dynamic/TypeContainerFunctions.h File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/common/Threading/ProcessPriority.h File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,105 +105,193 @@ $(document).ready(function(){initNavTree('d0/dbd/a04634.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#namespaces">Namespaces</a> &#124;
+<a href="#define-members">Macros</a> &#124;
 <a href="#func-members">Functions</a>  </div>
-  <div class="headertitle"><div class="title">TypeContainerFunctions.h File Reference</div></div>
+  <div class="headertitle"><div class="title">ProcessPriority.h File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">Dynamic/TypeList.h</a>&quot;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">Define.h</a>&quot;</code><br />
+<code>#include &lt;string&gt;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="namespaces" name="namespaces"></a>
-Namespaces</h2></td></tr>
-<tr class="memitem:db/d75/a04761"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d75/a04761.html">Acore</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="define-members" name="define-members"></a>
+Macros</h2></td></tr>
+<tr class="memitem:a714853b6677573f2aa289978eee5b83f"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dbd/a04634.html#a714853b6677573f2aa289978eee5b83f">CONFIG_PROCESSOR_AFFINITY</a>&#160;&#160;&#160;&quot;UseProcessors&quot;</td></tr>
+<tr class="separator:a714853b6677573f2aa289978eee5b83f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a04727fe99a83f6b774ac1fb1b8468f3e"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dbd/a04634.html#a04727fe99a83f6b774ac1fb1b8468f3e">CONFIG_HIGH_PRIORITY</a>&#160;&#160;&#160;&quot;ProcessPriority&quot;</td></tr>
+<tr class="separator:a04727fe99a83f6b774ac1fb1b8468f3e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:aa25dd64d4a28b7d93e2c8bf4cf93d888"><td class="memTemplParams" colspan="2">template&lt;class SPECIFIC_TYPE , class KEY_TYPE &gt; </td></tr>
-<tr class="memitem:aa25dd64d4a28b7d93e2c8bf4cf93d888"><td class="memTemplItemLeft" align="right" valign="top">bool&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../db/d75/a04761.html#aa25dd64d4a28b7d93e2c8bf4cf93d888">Acore::Insert</a> (<a class="el" href="../../da/dc9/a05243.html">ContainerUnorderedMap</a>&lt; SPECIFIC_TYPE, KEY_TYPE &gt; &amp;elements, KEY_TYPE const &amp;handle, SPECIFIC_TYPE *obj)</td></tr>
-<tr class="separator:aa25dd64d4a28b7d93e2c8bf4cf93d888"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:adc541838e8b1ccc593ef03b3a8be6b20"><td class="memTemplParams" colspan="2">template&lt;class SPECIFIC_TYPE , class KEY_TYPE &gt; </td></tr>
-<tr class="memitem:adc541838e8b1ccc593ef03b3a8be6b20"><td class="memTemplItemLeft" align="right" valign="top">bool&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../db/d75/a04761.html#adc541838e8b1ccc593ef03b3a8be6b20">Acore::Insert</a> (<a class="el" href="../../da/dc9/a05243.html">ContainerUnorderedMap</a>&lt; TypeNull, KEY_TYPE &gt; &amp;, KEY_TYPE const &amp;, SPECIFIC_TYPE *)</td></tr>
-<tr class="separator:adc541838e8b1ccc593ef03b3a8be6b20"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a826d2d5fc544299a171fc4d192b13b70"><td class="memTemplParams" colspan="2">template&lt;class SPECIFIC_TYPE , class KEY_TYPE , class T &gt; </td></tr>
-<tr class="memitem:a826d2d5fc544299a171fc4d192b13b70"><td class="memTemplItemLeft" align="right" valign="top">bool&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../db/d75/a04761.html#a826d2d5fc544299a171fc4d192b13b70">Acore::Insert</a> (<a class="el" href="../../da/dc9/a05243.html">ContainerUnorderedMap</a>&lt; T, KEY_TYPE &gt; &amp;, KEY_TYPE const &amp;, SPECIFIC_TYPE *)</td></tr>
-<tr class="separator:a826d2d5fc544299a171fc4d192b13b70"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:affed0a39c687fd0d71e1838f7d91d106"><td class="memTemplParams" colspan="2">template&lt;class SPECIFIC_TYPE , class KEY_TYPE , class H , class T &gt; </td></tr>
-<tr class="memitem:affed0a39c687fd0d71e1838f7d91d106"><td class="memTemplItemLeft" align="right" valign="top">bool&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../db/d75/a04761.html#affed0a39c687fd0d71e1838f7d91d106">Acore::Insert</a> (<a class="el" href="../../da/dc9/a05243.html">ContainerUnorderedMap</a>&lt; <a class="el" href="../../d5/d60/a05279.html">TypeList</a>&lt; H, T &gt;, KEY_TYPE &gt; &amp;elements, KEY_TYPE const &amp;handle, SPECIFIC_TYPE *obj)</td></tr>
-<tr class="separator:affed0a39c687fd0d71e1838f7d91d106"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab54306147e78491102a30b754f9add91"><td class="memTemplParams" colspan="2">template&lt;class SPECIFIC_TYPE , class KEY_TYPE &gt; </td></tr>
-<tr class="memitem:ab54306147e78491102a30b754f9add91"><td class="memTemplItemLeft" align="right" valign="top">SPECIFIC_TYPE *&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../db/d75/a04761.html#ab54306147e78491102a30b754f9add91">Acore::Find</a> (<a class="el" href="../../da/dc9/a05243.html">ContainerUnorderedMap</a>&lt; SPECIFIC_TYPE, KEY_TYPE &gt; const &amp;elements, KEY_TYPE const &amp;handle, SPECIFIC_TYPE *)</td></tr>
-<tr class="separator:ab54306147e78491102a30b754f9add91"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a339e193b2696d368e3fd5ba8ac348ba9"><td class="memTemplParams" colspan="2">template&lt;class SPECIFIC_TYPE , class KEY_TYPE &gt; </td></tr>
-<tr class="memitem:a339e193b2696d368e3fd5ba8ac348ba9"><td class="memTemplItemLeft" align="right" valign="top">SPECIFIC_TYPE *&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../db/d75/a04761.html#a339e193b2696d368e3fd5ba8ac348ba9">Acore::Find</a> (<a class="el" href="../../da/dc9/a05243.html">ContainerUnorderedMap</a>&lt; TypeNull, KEY_TYPE &gt; const &amp;, KEY_TYPE const &amp;, SPECIFIC_TYPE *)</td></tr>
-<tr class="separator:a339e193b2696d368e3fd5ba8ac348ba9"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a3c90455877023c17b2305a358a1e8e05"><td class="memTemplParams" colspan="2">template&lt;class SPECIFIC_TYPE , class KEY_TYPE , class T &gt; </td></tr>
-<tr class="memitem:a3c90455877023c17b2305a358a1e8e05"><td class="memTemplItemLeft" align="right" valign="top">SPECIFIC_TYPE *&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../db/d75/a04761.html#a3c90455877023c17b2305a358a1e8e05">Acore::Find</a> (<a class="el" href="../../da/dc9/a05243.html">ContainerUnorderedMap</a>&lt; T, KEY_TYPE &gt; const &amp;, KEY_TYPE const &amp;, SPECIFIC_TYPE *)</td></tr>
-<tr class="separator:a3c90455877023c17b2305a358a1e8e05"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6c4691a788e1b4403de11caa6a13222d"><td class="memTemplParams" colspan="2">template&lt;class SPECIFIC_TYPE , class KEY_TYPE , class H , class T &gt; </td></tr>
-<tr class="memitem:a6c4691a788e1b4403de11caa6a13222d"><td class="memTemplItemLeft" align="right" valign="top">SPECIFIC_TYPE *&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../db/d75/a04761.html#a6c4691a788e1b4403de11caa6a13222d">Acore::Find</a> (<a class="el" href="../../da/dc9/a05243.html">ContainerUnorderedMap</a>&lt; <a class="el" href="../../d5/d60/a05279.html">TypeList</a>&lt; H, T &gt;, KEY_TYPE &gt; const &amp;elements, KEY_TYPE const &amp;handle, SPECIFIC_TYPE *)</td></tr>
-<tr class="separator:a6c4691a788e1b4403de11caa6a13222d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac6cb156df4b425a40366655daf1ba776"><td class="memTemplParams" colspan="2">template&lt;class SPECIFIC_TYPE , class KEY_TYPE &gt; </td></tr>
-<tr class="memitem:ac6cb156df4b425a40366655daf1ba776"><td class="memTemplItemLeft" align="right" valign="top">bool&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../db/d75/a04761.html#ac6cb156df4b425a40366655daf1ba776">Acore::Remove</a> (<a class="el" href="../../da/dc9/a05243.html">ContainerUnorderedMap</a>&lt; SPECIFIC_TYPE, KEY_TYPE &gt; &amp;elements, KEY_TYPE const &amp;handle, SPECIFIC_TYPE *)</td></tr>
-<tr class="separator:ac6cb156df4b425a40366655daf1ba776"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2858d11acb15c35a59d35c9bb163d7c6"><td class="memTemplParams" colspan="2">template&lt;class SPECIFIC_TYPE , class KEY_TYPE &gt; </td></tr>
-<tr class="memitem:a2858d11acb15c35a59d35c9bb163d7c6"><td class="memTemplItemLeft" align="right" valign="top">bool&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../db/d75/a04761.html#a2858d11acb15c35a59d35c9bb163d7c6">Acore::Remove</a> (<a class="el" href="../../da/dc9/a05243.html">ContainerUnorderedMap</a>&lt; TypeNull, KEY_TYPE &gt; &amp;, KEY_TYPE const &amp;, SPECIFIC_TYPE *)</td></tr>
-<tr class="separator:a2858d11acb15c35a59d35c9bb163d7c6"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:afe44e70d4fae1d3c112291bd985e82b1"><td class="memTemplParams" colspan="2">template&lt;class SPECIFIC_TYPE , class KEY_TYPE , class T &gt; </td></tr>
-<tr class="memitem:afe44e70d4fae1d3c112291bd985e82b1"><td class="memTemplItemLeft" align="right" valign="top">bool&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../db/d75/a04761.html#afe44e70d4fae1d3c112291bd985e82b1">Acore::Remove</a> (<a class="el" href="../../da/dc9/a05243.html">ContainerUnorderedMap</a>&lt; T, KEY_TYPE &gt; &amp;, KEY_TYPE const &amp;, SPECIFIC_TYPE *)</td></tr>
-<tr class="separator:afe44e70d4fae1d3c112291bd985e82b1"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab412b2504203d71c6f46869b32a4a5ef"><td class="memTemplParams" colspan="2">template&lt;class SPECIFIC_TYPE , class KEY_TYPE , class H , class T &gt; </td></tr>
-<tr class="memitem:ab412b2504203d71c6f46869b32a4a5ef"><td class="memTemplItemLeft" align="right" valign="top">bool&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../db/d75/a04761.html#ab412b2504203d71c6f46869b32a4a5ef">Acore::Remove</a> (<a class="el" href="../../da/dc9/a05243.html">ContainerUnorderedMap</a>&lt; <a class="el" href="../../d5/d60/a05279.html">TypeList</a>&lt; H, T &gt;, KEY_TYPE &gt; &amp;elements, KEY_TYPE const &amp;handle, SPECIFIC_TYPE *)</td></tr>
-<tr class="separator:ab412b2504203d71c6f46869b32a4a5ef"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a5161a06285195a661d1f827f51265471"><td class="memTemplParams" colspan="2">template&lt;class SPECIFIC_TYPE , class KEY_TYPE &gt; </td></tr>
-<tr class="memitem:a5161a06285195a661d1f827f51265471"><td class="memTemplItemLeft" align="right" valign="top">bool&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../db/d75/a04761.html#a5161a06285195a661d1f827f51265471">Acore::Size</a> (<a class="el" href="../../da/dc9/a05243.html">ContainerUnorderedMap</a>&lt; SPECIFIC_TYPE, KEY_TYPE &gt; const &amp;elements, std::size_t *size, SPECIFIC_TYPE *)</td></tr>
-<tr class="separator:a5161a06285195a661d1f827f51265471"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7eb6517212935878abc51faf4bcca654"><td class="memTemplParams" colspan="2">template&lt;class SPECIFIC_TYPE , class KEY_TYPE &gt; </td></tr>
-<tr class="memitem:a7eb6517212935878abc51faf4bcca654"><td class="memTemplItemLeft" align="right" valign="top">bool&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../db/d75/a04761.html#a7eb6517212935878abc51faf4bcca654">Acore::Size</a> (<a class="el" href="../../da/dc9/a05243.html">ContainerUnorderedMap</a>&lt; TypeNull, KEY_TYPE &gt; const &amp;, std::size_t *, SPECIFIC_TYPE *)</td></tr>
-<tr class="separator:a7eb6517212935878abc51faf4bcca654"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa0fbdf0f576bf824c7502b6254a7e6f5"><td class="memTemplParams" colspan="2">template&lt;class SPECIFIC_TYPE , class KEY_TYPE , class T &gt; </td></tr>
-<tr class="memitem:aa0fbdf0f576bf824c7502b6254a7e6f5"><td class="memTemplItemLeft" align="right" valign="top">bool&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../db/d75/a04761.html#aa0fbdf0f576bf824c7502b6254a7e6f5">Acore::Size</a> (<a class="el" href="../../da/dc9/a05243.html">ContainerUnorderedMap</a>&lt; T, KEY_TYPE &gt; const &amp;, std::size_t *, SPECIFIC_TYPE *)</td></tr>
-<tr class="separator:aa0fbdf0f576bf824c7502b6254a7e6f5"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a33dad9e8e49e78c8486f2a91b49c0984"><td class="memTemplParams" colspan="2">template&lt;class SPECIFIC_TYPE , class KEY_TYPE , class H , class T &gt; </td></tr>
-<tr class="memitem:a33dad9e8e49e78c8486f2a91b49c0984"><td class="memTemplItemLeft" align="right" valign="top">bool&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../db/d75/a04761.html#a33dad9e8e49e78c8486f2a91b49c0984">Acore::Size</a> (<a class="el" href="../../da/dc9/a05243.html">ContainerUnorderedMap</a>&lt; <a class="el" href="../../d5/d60/a05279.html">TypeList</a>&lt; H, T &gt;, KEY_TYPE &gt; const &amp;elements, std::size_t *size, SPECIFIC_TYPE *)</td></tr>
-<tr class="separator:a33dad9e8e49e78c8486f2a91b49c0984"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2d87541d6d2eceb7467b09f7fa5bd51b"><td class="memTemplParams" colspan="2">template&lt;class SPECIFIC_TYPE &gt; </td></tr>
-<tr class="memitem:a2d87541d6d2eceb7467b09f7fa5bd51b"><td class="memTemplItemLeft" align="right" valign="top">std::size_t&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../db/d75/a04761.html#a2d87541d6d2eceb7467b09f7fa5bd51b">Acore::Count</a> (const <a class="el" href="../../d4/d54/a05231.html">ContainerMapList</a>&lt; SPECIFIC_TYPE &gt; &amp;elements, SPECIFIC_TYPE *)</td></tr>
-<tr class="separator:a2d87541d6d2eceb7467b09f7fa5bd51b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a31fef0ae214e75ee3251ee75539b5933"><td class="memTemplParams" colspan="2">template&lt;class SPECIFIC_TYPE &gt; </td></tr>
-<tr class="memitem:a31fef0ae214e75ee3251ee75539b5933"><td class="memTemplItemLeft" align="right" valign="top">std::size_t&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../db/d75/a04761.html#a31fef0ae214e75ee3251ee75539b5933">Acore::Count</a> (const <a class="el" href="../../d4/d54/a05231.html">ContainerMapList</a>&lt; TypeNull &gt; &amp;, SPECIFIC_TYPE *)</td></tr>
-<tr class="separator:a31fef0ae214e75ee3251ee75539b5933"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aca0eb3f176889f6cc837d75915f5d668"><td class="memTemplParams" colspan="2">template&lt;class SPECIFIC_TYPE , class T &gt; </td></tr>
-<tr class="memitem:aca0eb3f176889f6cc837d75915f5d668"><td class="memTemplItemLeft" align="right" valign="top">std::size_t&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../db/d75/a04761.html#aca0eb3f176889f6cc837d75915f5d668">Acore::Count</a> (const <a class="el" href="../../d4/d54/a05231.html">ContainerMapList</a>&lt; T &gt; &amp;, SPECIFIC_TYPE *)</td></tr>
-<tr class="separator:aca0eb3f176889f6cc837d75915f5d668"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:abce75cbdcbf4a58be36bf161fe79f9c0"><td class="memTemplParams" colspan="2">template&lt;class SPECIFIC_TYPE , class T &gt; </td></tr>
-<tr class="memitem:abce75cbdcbf4a58be36bf161fe79f9c0"><td class="memTemplItemLeft" align="right" valign="top">std::size_t&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../db/d75/a04761.html#abce75cbdcbf4a58be36bf161fe79f9c0">Acore::Count</a> (const <a class="el" href="../../d4/d54/a05231.html">ContainerMapList</a>&lt; <a class="el" href="../../d5/d60/a05279.html">TypeList</a>&lt; SPECIFIC_TYPE, T &gt; &gt; &amp;elements, SPECIFIC_TYPE *fake)</td></tr>
-<tr class="separator:abce75cbdcbf4a58be36bf161fe79f9c0"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9e588c84ac0874cf6273cffcc353bd8c"><td class="memTemplParams" colspan="2">template&lt;class SPECIFIC_TYPE , class H , class T &gt; </td></tr>
-<tr class="memitem:a9e588c84ac0874cf6273cffcc353bd8c"><td class="memTemplItemLeft" align="right" valign="top">std::size_t&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../db/d75/a04761.html#a9e588c84ac0874cf6273cffcc353bd8c">Acore::Count</a> (const <a class="el" href="../../d4/d54/a05231.html">ContainerMapList</a>&lt; <a class="el" href="../../d5/d60/a05279.html">TypeList</a>&lt; H, T &gt; &gt; &amp;elements, SPECIFIC_TYPE *fake)</td></tr>
-<tr class="separator:a9e588c84ac0874cf6273cffcc353bd8c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a5f6cfb84d3b9010f1cccee55575aeb8f"><td class="memTemplParams" colspan="2">template&lt;class SPECIFIC_TYPE &gt; </td></tr>
-<tr class="memitem:a5f6cfb84d3b9010f1cccee55575aeb8f"><td class="memTemplItemLeft" align="right" valign="top">SPECIFIC_TYPE *&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../db/d75/a04761.html#a5f6cfb84d3b9010f1cccee55575aeb8f">Acore::Insert</a> (<a class="el" href="../../d4/d54/a05231.html">ContainerMapList</a>&lt; SPECIFIC_TYPE &gt; &amp;elements, SPECIFIC_TYPE *obj)</td></tr>
-<tr class="separator:a5f6cfb84d3b9010f1cccee55575aeb8f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a808ff1ee05e1b5c2775ccb20325a5b2e"><td class="memTemplParams" colspan="2">template&lt;class SPECIFIC_TYPE &gt; </td></tr>
-<tr class="memitem:a808ff1ee05e1b5c2775ccb20325a5b2e"><td class="memTemplItemLeft" align="right" valign="top">SPECIFIC_TYPE *&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../db/d75/a04761.html#a808ff1ee05e1b5c2775ccb20325a5b2e">Acore::Insert</a> (<a class="el" href="../../d4/d54/a05231.html">ContainerMapList</a>&lt; TypeNull &gt; &amp;, SPECIFIC_TYPE *)</td></tr>
-<tr class="separator:a808ff1ee05e1b5c2775ccb20325a5b2e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9ef193f0c3493fdaeeaa5b0816714d1c"><td class="memTemplParams" colspan="2">template&lt;class SPECIFIC_TYPE , class T &gt; </td></tr>
-<tr class="memitem:a9ef193f0c3493fdaeeaa5b0816714d1c"><td class="memTemplItemLeft" align="right" valign="top">SPECIFIC_TYPE *&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../db/d75/a04761.html#a9ef193f0c3493fdaeeaa5b0816714d1c">Acore::Insert</a> (<a class="el" href="../../d4/d54/a05231.html">ContainerMapList</a>&lt; T &gt; &amp;, SPECIFIC_TYPE *)</td></tr>
-<tr class="separator:a9ef193f0c3493fdaeeaa5b0816714d1c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aace2fb0f6527ad522bb0604bfd39afaf"><td class="memTemplParams" colspan="2">template&lt;class SPECIFIC_TYPE , class H , class T &gt; </td></tr>
-<tr class="memitem:aace2fb0f6527ad522bb0604bfd39afaf"><td class="memTemplItemLeft" align="right" valign="top">SPECIFIC_TYPE *&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../db/d75/a04761.html#aace2fb0f6527ad522bb0604bfd39afaf">Acore::Insert</a> (<a class="el" href="../../d4/d54/a05231.html">ContainerMapList</a>&lt; <a class="el" href="../../d5/d60/a05279.html">TypeList</a>&lt; H, T &gt; &gt; &amp;elements, SPECIFIC_TYPE *obj)</td></tr>
-<tr class="separator:aace2fb0f6527ad522bb0604bfd39afaf"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac0ccc1e4fc992fb43f068cb8f6b3fd7b"><td class="memItemLeft" align="right" valign="top">void <a class="el" href="../../da/d71/a04649.html#aae2dc50bce825b002235487401b252e8">AC_COMMON_API</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dbd/a04634.html#ac0ccc1e4fc992fb43f068cb8f6b3fd7b">SetProcessPriority</a> (std::string const &amp;logChannel, <a class="el" href="../../da/d71/a04649.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> affinity, bool highPriority)</td></tr>
+<tr class="separator:ac0ccc1e4fc992fb43f068cb8f6b3fd7b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
+<h2 class="groupheader">Macro Definition Documentation</h2>
+<a id="a04727fe99a83f6b774ac1fb1b8468f3e" name="a04727fe99a83f6b774ac1fb1b8468f3e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a04727fe99a83f6b774ac1fb1b8468f3e">&#9670;&#160;</a></span>CONFIG_HIGH_PRIORITY</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">#define CONFIG_HIGH_PRIORITY&#160;&#160;&#160;&quot;ProcessPriority&quot;</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a714853b6677573f2aa289978eee5b83f" name="a714853b6677573f2aa289978eee5b83f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a714853b6677573f2aa289978eee5b83f">&#9670;&#160;</a></span>CONFIG_PROCESSOR_AFFINITY</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">#define CONFIG_PROCESSOR_AFFINITY&#160;&#160;&#160;&quot;UseProcessors&quot;</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<h2 class="groupheader">Function Documentation</h2>
+<a id="ac0ccc1e4fc992fb43f068cb8f6b3fd7b" name="ac0ccc1e4fc992fb43f068cb8f6b3fd7b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac0ccc1e4fc992fb43f068cb8f6b3fd7b">&#9670;&#160;</a></span>SetProcessPriority()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void <a class="el" href="../../da/d71/a04649.html#aae2dc50bce825b002235487401b252e8">AC_COMMON_API</a> SetProcessPriority </td>
+          <td>(</td>
+          <td class="paramtype">std::string const &amp;&#160;</td>
+          <td class="paramname"><em>logChannel</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../da/d71/a04649.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>affinity</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">bool&#160;</td>
+          <td class="paramname"><em>highPriority</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<ul>
+<li>Handle affinity for multiple processors and process priority</li>
+</ul>
+<div class="fragment"><div class="line"><span class="lineno">   30</span>{</div>
+<div class="line"><span class="lineno">   32</span><span class="preprocessor">#ifdef _WIN32 </span><span class="comment">// Windows</span></div>
+<div class="line"><span class="lineno">   33</span> </div>
+<div class="line"><span class="lineno">   34</span>    HANDLE hProcess = GetCurrentProcess();</div>
+<div class="line"><span class="lineno">   35</span>    <span class="keywordflow">if</span> (affinity &gt; 0)</div>
+<div class="line"><span class="lineno">   36</span>    {</div>
+<div class="line"><span class="lineno">   37</span>        ULONG_PTR appAff;</div>
+<div class="line"><span class="lineno">   38</span>        ULONG_PTR sysAff;</div>
+<div class="line"><span class="lineno">   39</span> </div>
+<div class="line"><span class="lineno">   40</span>        <span class="keywordflow">if</span> (GetProcessAffinityMask(hProcess, &amp;appAff, &amp;sysAff))</div>
+<div class="line"><span class="lineno">   41</span>        {</div>
+<div class="line"><span class="lineno">   42</span>            <span class="comment">// remove non accessible processors</span></div>
+<div class="line"><span class="lineno">   43</span>            ULONG_PTR currentAffinity = affinity &amp; appAff;</div>
+<div class="line"><span class="lineno">   44</span> </div>
+<div class="line"><span class="lineno">   45</span>            <span class="keywordflow">if</span> (!currentAffinity)</div>
+<div class="line"><span class="lineno">   46</span>            {</div>
+<div class="line"><span class="lineno">   47</span>                <a class="code hl_define" href="../../df/dce/a04214.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(logChannel, <span class="stringliteral">&quot;Processors marked in UseProcessors bitmask (hex) {:x} are not accessible. Accessible processors bitmask (hex): {:x}&quot;</span>, affinity, appAff);</div>
+<div class="line"><span class="lineno">   48</span>            }</div>
+<div class="line"><span class="lineno">   49</span>            <span class="keywordflow">else</span> <span class="keywordflow">if</span> (SetProcessAffinityMask(hProcess, currentAffinity))</div>
+<div class="line"><span class="lineno">   50</span>            {</div>
+<div class="line"><span class="lineno">   51</span>                <a class="code hl_define" href="../../df/dce/a04214.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(logChannel, <span class="stringliteral">&quot;Using processors (bitmask, hex): {:x}&quot;</span>, currentAffinity);</div>
+<div class="line"><span class="lineno">   52</span>            }</div>
+<div class="line"><span class="lineno">   53</span>            <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">   54</span>            {</div>
+<div class="line"><span class="lineno">   55</span>                <a class="code hl_define" href="../../df/dce/a04214.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(logChannel, <span class="stringliteral">&quot;Can&#39;t set used processors (hex): {:x}&quot;</span>, currentAffinity);</div>
+<div class="line"><span class="lineno">   56</span>            }</div>
+<div class="line"><span class="lineno">   57</span>        }</div>
+<div class="line"><span class="lineno">   58</span>    }</div>
+<div class="line"><span class="lineno">   59</span> </div>
+<div class="line"><span class="lineno">   60</span>    <span class="keywordflow">if</span> (highPriority)</div>
+<div class="line"><span class="lineno">   61</span>    {</div>
+<div class="line"><span class="lineno">   62</span>        <span class="keywordflow">if</span> (SetPriorityClass(hProcess, HIGH_PRIORITY_CLASS))</div>
+<div class="line"><span class="lineno">   63</span>        {</div>
+<div class="line"><span class="lineno">   64</span>            <a class="code hl_define" href="../../df/dce/a04214.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(logChannel, <span class="stringliteral">&quot;Process priority class set to HIGH&quot;</span>);</div>
+<div class="line"><span class="lineno">   65</span>        }</div>
+<div class="line"><span class="lineno">   66</span>        <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">   67</span>        {</div>
+<div class="line"><span class="lineno">   68</span>            <a class="code hl_define" href="../../df/dce/a04214.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(logChannel, <span class="stringliteral">&quot;Can&#39;t set process priority class.&quot;</span>);</div>
+<div class="line"><span class="lineno">   69</span>        }</div>
+<div class="line"><span class="lineno">   70</span>    }</div>
+<div class="line"><span class="lineno">   71</span> </div>
+<div class="line"><span class="lineno">   72</span><span class="preprocessor">#elif defined(__linux__) </span><span class="comment">// Linux</span></div>
+<div class="line"><span class="lineno">   73</span> </div>
+<div class="line"><span class="lineno">   74</span>    <span class="keywordflow">if</span> (affinity &gt; 0)</div>
+<div class="line"><span class="lineno">   75</span>    {</div>
+<div class="line"><span class="lineno">   76</span>        cpu_set_t mask;</div>
+<div class="line"><span class="lineno">   77</span>        CPU_ZERO(&amp;mask);</div>
+<div class="line"><span class="lineno">   78</span> </div>
+<div class="line"><span class="lineno">   79</span>        <span class="keywordflow">for</span> (<span class="keywordtype">unsigned</span> <span class="keywordtype">int</span> i = 0; i &lt; <span class="keyword">sizeof</span>(affinity) * 8; ++i)</div>
+<div class="line"><span class="lineno">   80</span>            <span class="keywordflow">if</span> (affinity &amp; (1 &lt;&lt; i))</div>
+<div class="line"><span class="lineno">   81</span>            {</div>
+<div class="line"><span class="lineno">   82</span>                CPU_SET(i, &amp;mask);</div>
+<div class="line"><span class="lineno">   83</span>            }</div>
+<div class="line"><span class="lineno">   84</span> </div>
+<div class="line"><span class="lineno">   85</span>        <span class="keywordflow">if</span> (sched_setaffinity(0, <span class="keyword">sizeof</span>(mask), &amp;mask))</div>
+<div class="line"><span class="lineno">   86</span>        {</div>
+<div class="line"><span class="lineno">   87</span>            <a class="code hl_define" href="../../df/dce/a04214.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(logChannel, <span class="stringliteral">&quot;Can&#39;t set used processors (hex): {:x}, error: {}&quot;</span>, affinity, strerror(errno));</div>
+<div class="line"><span class="lineno">   88</span>        }</div>
+<div class="line"><span class="lineno">   89</span>        <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">   90</span>        {</div>
+<div class="line"><span class="lineno">   91</span>            CPU_ZERO(&amp;mask);</div>
+<div class="line"><span class="lineno">   92</span>            sched_getaffinity(0, <span class="keyword">sizeof</span>(mask), &amp;mask);</div>
+<div class="line"><span class="lineno">   93</span>            <a class="code hl_define" href="../../df/dce/a04214.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(logChannel, <span class="stringliteral">&quot;Using processors (bitmask, hex): {:x}&quot;</span>, *(__cpu_mask*)(&amp;mask));</div>
+<div class="line"><span class="lineno">   94</span>        }</div>
+<div class="line"><span class="lineno">   95</span>    }</div>
+<div class="line"><span class="lineno">   96</span> </div>
+<div class="line"><span class="lineno">   97</span>    <span class="keywordflow">if</span> (highPriority)</div>
+<div class="line"><span class="lineno">   98</span>    {</div>
+<div class="line"><span class="lineno">   99</span>        <span class="keywordflow">if</span> (setpriority(PRIO_PROCESS, 0, PROCESS_HIGH_PRIORITY))</div>
+<div class="line"><span class="lineno">  100</span>        {</div>
+<div class="line"><span class="lineno">  101</span>            <a class="code hl_define" href="../../df/dce/a04214.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(logChannel, <span class="stringliteral">&quot;Can&#39;t set process priority class, error: {}&quot;</span>, strerror(errno));</div>
+<div class="line"><span class="lineno">  102</span>        }</div>
+<div class="line"><span class="lineno">  103</span>        <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  104</span>        {</div>
+<div class="line"><span class="lineno">  105</span>            <a class="code hl_define" href="../../df/dce/a04214.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(logChannel, <span class="stringliteral">&quot;Process priority class set to {}&quot;</span>, getpriority(PRIO_PROCESS, 0));</div>
+<div class="line"><span class="lineno">  106</span>        }</div>
+<div class="line"><span class="lineno">  107</span>    }</div>
+<div class="line"><span class="lineno">  108</span> </div>
+<div class="line"><span class="lineno">  109</span><span class="preprocessor">#else</span></div>
+<div class="line"><span class="lineno">  110</span>    <span class="comment">// Suppresses unused argument warning for all other platforms</span></div>
+<div class="line"><span class="lineno">  111</span>    (void)logChannel;</div>
+<div class="line"><span class="lineno">  112</span>    (void)affinity;</div>
+<div class="line"><span class="lineno">  113</span>    (void)highPriority;</div>
+<div class="line"><span class="lineno">  114</span><span class="preprocessor">#endif</span></div>
+<div class="line"><span class="lineno">  115</span>}</div>
+<div class="ttc" id="aa04214_html_a271e427d8e8481efd5cd5f537ec9e419"><div class="ttname"><a href="../../df/dce/a04214.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a></div><div class="ttdeci">#define LOG_INFO(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:165</div></div>
+<div class="ttc" id="aa04214_html_a43832e3fa8508deb4ce43e520005fcd9"><div class="ttname"><a href="../../df/dce/a04214.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a></div><div class="ttdeci">#define LOG_ERROR(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:157</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00157">LOG_ERROR</a>, and <a class="el" href="../../#l00165">LOG_INFO</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00068">main()</a>.</p>
+
+</div>
+</div>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1070012e9e40376f8468ff0aa5b77c71.html">common</a></li><li class="navelem"><a class="el" href="../../dir_5e90094e25781d2f0c122fad038cf6ce.html">Dynamic</a></li><li class="navelem"><a class="el" href="../../d0/dbd/a04634.html">TypeContainerFunctions.h</a></li>
-    <li class="footer">Generated on Mon May 26 2025 20:43:46 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1070012e9e40376f8468ff0aa5b77c71.html">common</a></li><li class="navelem"><a class="el" href="../../dir_f69d3ac9ea0d79b27cfca1b33f4c68de.html">Threading</a></li><li class="navelem"><a class="el" href="../../d0/dbd/a04634.html">ProcessPriority.h</a></li>
+    <li class="footer">Generated on Mon Jun 2 2025 20:45:45 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

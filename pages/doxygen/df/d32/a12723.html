@@ -190,7 +190,7 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  571</span>: <a class="code hl_class" href="../../d7/df7/a10203.html">OnlyOnceAreaTriggerScript</a>(<span class="stringliteral">&quot;at_karazhan_side_entrance&quot;</span>) { }</div>
+<div class="fragment"><div class="line"><span class="lineno">  569</span>: <a class="code hl_class" href="../../d7/df7/a10203.html">OnlyOnceAreaTriggerScript</a>(<span class="stringliteral">&quot;at_karazhan_side_entrance&quot;</span>) { }</div>
 <div class="ttc" id="aa10203_html"><div class="ttname"><a href="../../d7/df7/a10203.html">OnlyOnceAreaTriggerScript</a></div><div class="ttdef"><b>Definition:</b> AreaTriggerScript.h:36</div></div>
 </div><!-- fragment -->
 </div>
@@ -231,25 +231,25 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../d7/df7/a10203.html#a6da93a21c84345bd77e467377810e756">OnlyOnceAreaTriggerScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  574</span>    {</div>
-<div class="line"><span class="lineno">  575</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d8/d1c/a09627.html">InstanceScript</a>* instance = player-&gt;<a class="code hl_function" href="../../dc/d84/a08371.html#a29762f86d0726e4d229df51281b9d710">GetInstanceScript</a>())</div>
-<div class="line"><span class="lineno">  576</span>        {</div>
-<div class="line"><span class="lineno">  577</span>            <span class="keywordflow">if</span> (instance-&gt;GetBossState(<a class="code hl_enumvalue" href="../../d2/df3/a03890.html#ac1c8b8b6be9767f56555c40adf01ee94af60c19ee0917a7b80fcfaead15b64c11">DATA_OPERA_PERFORMANCE</a>) == <a class="code hl_enumvalue" href="../../d7/daf/a01169.html#ab6cf09cd975286c705a19a75a947d438a9c954bcf443428c80b0f107b3bc48749">DONE</a>)</div>
-<div class="line"><span class="lineno">  578</span>            {</div>
-<div class="line"><span class="lineno">  579</span>                <span class="keywordflow">if</span> (<a class="code hl_class" href="../../da/ddf/a08143.html">GameObject</a>* door = instance-&gt;GetGameObject(<a class="code hl_enumvalue" href="../../d2/df3/a03890.html#ac1c8b8b6be9767f56555c40adf01ee94abcbdbfaa7ef0fccace731fad0f4ab24e">DATA_GO_SIDE_ENTRANCE_DOOR</a>))</div>
-<div class="line"><span class="lineno">  580</span>                {</div>
-<div class="line"><span class="lineno">  581</span>                    instance-&gt;HandleGameObject(<a class="code hl_variable" href="../../d3/d9a/a08387.html#a14039d3f3df79203693f713495503165">ObjectGuid::Empty</a>, <span class="keyword">true</span>, door);</div>
-<div class="line"><span class="lineno">  582</span>                    door-&gt;RemoveGameObjectFlag(<a class="code hl_enumvalue" href="../../dd/d90/a04127.html#a7716f26c46ee49831358c2993e79582fad1623a1af36edbfc51574daf60d7500a">GO_FLAG_LOCKED</a>);</div>
-<div class="line"><span class="lineno">  583</span>                }</div>
-<div class="line"><span class="lineno">  584</span>            }</div>
-<div class="line"><span class="lineno">  585</span>        }</div>
-<div class="line"><span class="lineno">  586</span> </div>
-<div class="line"><span class="lineno">  587</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  588</span>    }</div>
-<div class="ttc" id="aa01169_html_ab6cf09cd975286c705a19a75a947d438a9c954bcf443428c80b0f107b3bc48749"><div class="ttname"><a href="../../d7/daf/a01169.html#ab6cf09cd975286c705a19a75a947d438a9c954bcf443428c80b0f107b3bc48749">DONE</a></div><div class="ttdeci">@ DONE</div><div class="ttdef"><b>Definition:</b> InstanceScript.h:61</div></div>
-<div class="ttc" id="aa03890_html_ac1c8b8b6be9767f56555c40adf01ee94abcbdbfaa7ef0fccace731fad0f4ab24e"><div class="ttname"><a href="../../d2/df3/a03890.html#ac1c8b8b6be9767f56555c40adf01ee94abcbdbfaa7ef0fccace731fad0f4ab24e">DATA_GO_SIDE_ENTRANCE_DOOR</a></div><div class="ttdeci">@ DATA_GO_SIDE_ENTRANCE_DOOR</div><div class="ttdef"><b>Definition:</b> karazhan.h:56</div></div>
-<div class="ttc" id="aa03890_html_ac1c8b8b6be9767f56555c40adf01ee94af60c19ee0917a7b80fcfaead15b64c11"><div class="ttname"><a href="../../d2/df3/a03890.html#ac1c8b8b6be9767f56555c40adf01ee94af60c19ee0917a7b80fcfaead15b64c11">DATA_OPERA_PERFORMANCE</a></div><div class="ttdeci">@ DATA_OPERA_PERFORMANCE</div><div class="ttdef"><b>Definition:</b> karazhan.h:34</div></div>
-<div class="ttc" id="aa04127_html_a7716f26c46ee49831358c2993e79582fad1623a1af36edbfc51574daf60d7500a"><div class="ttname"><a href="../../dd/d90/a04127.html#a7716f26c46ee49831358c2993e79582fad1623a1af36edbfc51574daf60d7500a">GO_FLAG_LOCKED</a></div><div class="ttdeci">@ GO_FLAG_LOCKED</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:1604</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  572</span>    {</div>
+<div class="line"><span class="lineno">  573</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d8/d1c/a09627.html">InstanceScript</a>* instance = player-&gt;<a class="code hl_function" href="../../dc/d84/a08371.html#a29762f86d0726e4d229df51281b9d710">GetInstanceScript</a>())</div>
+<div class="line"><span class="lineno">  574</span>        {</div>
+<div class="line"><span class="lineno">  575</span>            <span class="keywordflow">if</span> (instance-&gt;GetBossState(<a class="code hl_enumvalue" href="../../dc/d05/a02855.html#ac1c8b8b6be9767f56555c40adf01ee94af60c19ee0917a7b80fcfaead15b64c11">DATA_OPERA_PERFORMANCE</a>) == <a class="code hl_enumvalue" href="../../d6/dfc/a01814.html#ab6cf09cd975286c705a19a75a947d438a9c954bcf443428c80b0f107b3bc48749">DONE</a>)</div>
+<div class="line"><span class="lineno">  576</span>            {</div>
+<div class="line"><span class="lineno">  577</span>                <span class="keywordflow">if</span> (<a class="code hl_class" href="../../da/ddf/a08143.html">GameObject</a>* door = instance-&gt;GetGameObject(<a class="code hl_enumvalue" href="../../dc/d05/a02855.html#ac1c8b8b6be9767f56555c40adf01ee94abcbdbfaa7ef0fccace731fad0f4ab24e">DATA_GO_SIDE_ENTRANCE_DOOR</a>))</div>
+<div class="line"><span class="lineno">  578</span>                {</div>
+<div class="line"><span class="lineno">  579</span>                    instance-&gt;HandleGameObject(<a class="code hl_variable" href="../../d3/d9a/a08387.html#a14039d3f3df79203693f713495503165">ObjectGuid::Empty</a>, <span class="keyword">true</span>, door);</div>
+<div class="line"><span class="lineno">  580</span>                    door-&gt;RemoveGameObjectFlag(<a class="code hl_enumvalue" href="../../d0/d2b/a01997.html#a7716f26c46ee49831358c2993e79582fad1623a1af36edbfc51574daf60d7500a">GO_FLAG_LOCKED</a>);</div>
+<div class="line"><span class="lineno">  581</span>                }</div>
+<div class="line"><span class="lineno">  582</span>            }</div>
+<div class="line"><span class="lineno">  583</span>        }</div>
+<div class="line"><span class="lineno">  584</span> </div>
+<div class="line"><span class="lineno">  585</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  586</span>    }</div>
+<div class="ttc" id="aa01814_html_ab6cf09cd975286c705a19a75a947d438a9c954bcf443428c80b0f107b3bc48749"><div class="ttname"><a href="../../d6/dfc/a01814.html#ab6cf09cd975286c705a19a75a947d438a9c954bcf443428c80b0f107b3bc48749">DONE</a></div><div class="ttdeci">@ DONE</div><div class="ttdef"><b>Definition:</b> InstanceScript.h:61</div></div>
+<div class="ttc" id="aa01997_html_a7716f26c46ee49831358c2993e79582fad1623a1af36edbfc51574daf60d7500a"><div class="ttname"><a href="../../d0/d2b/a01997.html#a7716f26c46ee49831358c2993e79582fad1623a1af36edbfc51574daf60d7500a">GO_FLAG_LOCKED</a></div><div class="ttdeci">@ GO_FLAG_LOCKED</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:1604</div></div>
+<div class="ttc" id="aa02855_html_ac1c8b8b6be9767f56555c40adf01ee94abcbdbfaa7ef0fccace731fad0f4ab24e"><div class="ttname"><a href="../../dc/d05/a02855.html#ac1c8b8b6be9767f56555c40adf01ee94abcbdbfaa7ef0fccace731fad0f4ab24e">DATA_GO_SIDE_ENTRANCE_DOOR</a></div><div class="ttdeci">@ DATA_GO_SIDE_ENTRANCE_DOOR</div><div class="ttdef"><b>Definition:</b> karazhan.h:56</div></div>
+<div class="ttc" id="aa02855_html_ac1c8b8b6be9767f56555c40adf01ee94af60c19ee0917a7b80fcfaead15b64c11"><div class="ttname"><a href="../../dc/d05/a02855.html#ac1c8b8b6be9767f56555c40adf01ee94af60c19ee0917a7b80fcfaead15b64c11">DATA_OPERA_PERFORMANCE</a></div><div class="ttdeci">@ DATA_OPERA_PERFORMANCE</div><div class="ttdef"><b>Definition:</b> karazhan.h:34</div></div>
 <div class="ttc" id="aa08143_html"><div class="ttname"><a href="../../da/ddf/a08143.html">GameObject</a></div><div class="ttdef"><b>Definition:</b> GameObject.h:120</div></div>
 <div class="ttc" id="aa08371_html_a29762f86d0726e4d229df51281b9d710"><div class="ttname"><a href="../../dc/d84/a08371.html#a29762f86d0726e4d229df51281b9d710">WorldObject::GetInstanceScript</a></div><div class="ttdeci">InstanceScript * GetInstanceScript() const</div><div class="ttdef"><b>Definition:</b> Object.cpp:1203</div></div>
 <div class="ttc" id="aa08387_html_a14039d3f3df79203693f713495503165"><div class="ttname"><a href="../../d3/d9a/a08387.html#a14039d3f3df79203693f713495503165">ObjectGuid::Empty</a></div><div class="ttdeci">static ObjectGuid const Empty</div><div class="ttdef"><b>Definition:</b> ObjectGuid.h:120</div></div>
@@ -265,7 +265,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../df/d32/a12723.html">at_karazhan_side_entrance</a></li>
-    <li class="footer">Generated on Mon May 26 2025 20:44:48 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Jun 2 2025 20:46:39 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

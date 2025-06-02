@@ -1,5 +1,10 @@
 var a00167 =
 [
-    [ "GroupMgr", "d0/d76/a09475.html", "d0/d76/a09475" ],
-    [ "sGroupMgr", "dc/de6/a00167.html#a9b001b22670103435cf11551af9fa71e", null ]
+    [ "ObjectPosSelector", "d6/db9/a08407.html", "d6/db9/a08407" ],
+    [ "ObjectPosSelector::UsedPos", "d3/da9/a08411.html", "d3/da9/a08411" ],
+    [ "UsedPosType", "dc/de6/a00167.html#a2f1e7723f9d73cff4490d29d2b3df397", [
+      [ "USED_POS_PLUS", "dc/de6/a00167.html#a2f1e7723f9d73cff4490d29d2b3df397abe9dd4cb0505777b122e4a2187d30f0e", null ],
+      [ "USED_POS_MINUS", "dc/de6/a00167.html#a2f1e7723f9d73cff4490d29d2b3df397ae6abf81c53f379fbbcad5001197f8816", null ]
+    ] ],
+    [ "operator~", "dc/de6/a00167.html#a083d37b8f4388d54d83aeb6562b5fe09", null ]
 ];

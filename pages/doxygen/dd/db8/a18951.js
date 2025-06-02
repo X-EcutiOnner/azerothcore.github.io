@@ -1,6 +1,6 @@
 var a18951 =
 [
-    [ "boss_grobbulusAI", "db/d98/a18955.html", "db/d98/a18955" ],
-    [ "boss_grobbulus", "dd/db8/a18951.html#acf1b781e86e33a363b68354d34d3c015", null ],
-    [ "GetAI", "dd/db8/a18951.html#ae918614566a0b9979aef4e1aeaac394c", null ]
+    [ "npc_gothik_triggerAI", "db/d98/a18955.html", "db/d98/a18955" ],
+    [ "npc_gothik_trigger", "dd/db8/a18951.html#a6975122d49b0d76fb2b33b310a7ccb71", null ],
+    [ "GetAI", "dd/db8/a18951.html#a9b3b47e95d2c41c109a9ccd3915b89ff", null ]
 ];

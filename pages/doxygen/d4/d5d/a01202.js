@@ -1,17 +1,8 @@
 var a01202 =
 [
-    [ "ChangeEmail", "d4/d5d/a01202.html#a2a6c83e2d4e6121855beb252f23c905b", null ],
-    [ "ChangePassword", "d4/d5d/a01202.html#a6a9cb892c15d78b5de65738005234ff6", null ],
-    [ "ChangeUsername", "d4/d5d/a01202.html#a3382c6430bfbf14e32ca11b5ac68fc23", null ],
-    [ "CheckPassword", "d4/d5d/a01202.html#a17c28dfcb31af8f4241bb5210408185a", null ],
-    [ "CreateAccount", "d4/d5d/a01202.html#a7a7668ab60ae56c7e71fce77780bb214", null ],
-    [ "DeleteAccount", "d4/d5d/a01202.html#a120323b16b2a5aefa6aa69e8be5ccef6", null ],
-    [ "GetCharactersCount", "d4/d5d/a01202.html#a4fb760897161c3d463f842b28bcf7c20", null ],
-    [ "GetId", "d4/d5d/a01202.html#aa215c9a96c37b8a5d76d980ecf8de114", null ],
-    [ "GetName", "d4/d5d/a01202.html#af911e3860ec519c541d6df35468ee41b", null ],
-    [ "GetSecurity", "d4/d5d/a01202.html#a8280510b2564ec6ea76727218c1687b3", null ],
-    [ "GetSecurity", "d4/d5d/a01202.html#a30b6e5cf1733f0143f86aaeff600215c", null ],
-    [ "IsAdminAccount", "d4/d5d/a01202.html#adb1b210137b09011677c74011addeefa", null ],
-    [ "IsConsoleAccount", "d4/d5d/a01202.html#a81bbc2af33211a3130c6aa215f5607b7", null ],
-    [ "IsPlayerAccount", "d4/d5d/a01202.html#a63751f144cb7acb57fc20f0caf5e7043", null ]
+    [ "MailScript", "df/da3/a10307.html", "df/da3/a10307" ],
+    [ "MailHook", "d4/d5d/a01202.html#a7a2fb0cc0937712e8aff65574e1068d6", [
+      [ "MAILHOOK_ON_BEFORE_MAIL_DRAFT_SEND_MAIL_TO", "d4/d5d/a01202.html#a7a2fb0cc0937712e8aff65574e1068d6a8f3555a10968fd2749e256067782760f", null ],
+      [ "MAILHOOK_END", "d4/d5d/a01202.html#a7a2fb0cc0937712e8aff65574e1068d6a97af521f76b0d427812db0ac3303f285", null ]
+    ] ]
 ];

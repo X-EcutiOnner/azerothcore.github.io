@@ -1,8 +1,14 @@
 var a02972 =
 [
-    [ "spell_gordunni_trap", "dd/dde/a15399.html", "dd/dde/a15399" ],
-    [ "GordunniTrap", "d0/daf/a02972.html#ae11511f5835ecdfec73fde1f9f29431c", [
-      [ "GO_GORDUNNI_DIRT_MOUND", "d0/daf/a02972.html#ae11511f5835ecdfec73fde1f9f29431ca12df131fc84f6cc9bcf7d02eaf65e1ab", null ]
+    [ "npc_tapoke_slim_jahn", "db/d8e/a13707.html", "db/d8e/a13707" ],
+    [ "npc_tapoke_slim_jahn::npc_tapoke_slim_jahnAI", "df/de9/a13711.html", "df/de9/a13711" ],
+    [ "npc_mikhail", "d6/d58/a13715.html", "d6/d58/a13715" ],
+    [ "TapokeSlim", "d0/daf/a02972.html#ad5b3ef2d2393f509f0cbf4e70303fab9", [
+      [ "QUEST_MISSING_DIPLO_PT11", "d0/daf/a02972.html#ad5b3ef2d2393f509f0cbf4e70303fab9afdacf3720ad6627ab1c120619b4628a2", null ],
+      [ "SPELL_STEALTH", "d0/daf/a02972.html#ad5b3ef2d2393f509f0cbf4e70303fab9ab05b1ff486cc81800d4e40014eae5576", null ],
+      [ "SPELL_CALL_FRIENDS", "d0/daf/a02972.html#ad5b3ef2d2393f509f0cbf4e70303fab9a6cc72f5b401e64cbeb4986e9dc90c779", null ],
+      [ "NPC_SLIMS_FRIEND", "d0/daf/a02972.html#ad5b3ef2d2393f509f0cbf4e70303fab9afc7e4b6611738777f37002c70bb946c1", null ],
+      [ "NPC_TAPOKE_SLIM_JAHN", "d0/daf/a02972.html#ad5b3ef2d2393f509f0cbf4e70303fab9a2853dfe2482cee57da6a01e6bc030bda", null ]
     ] ],
-    [ "AddSC_feralas", "d0/daf/a02972.html#a06e54e3edc2df068be660ac788b402e3", null ]
+    [ "AddSC_wetlands", "d0/daf/a02972.html#a96be3075a4a99658d93ffe3d69ba369a", null ]
 ];

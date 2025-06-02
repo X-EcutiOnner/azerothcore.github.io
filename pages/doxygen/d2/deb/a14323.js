@@ -1,10 +1,25 @@
 var a14323 =
 [
-    [ "boss_headless_horseman_pumpkin", "d2/deb/a14323.html#a62191ae523401ac57a947db96a245f7a", null ],
-    [ "AttackStart", "d2/deb/a14323.html#a2d7cb1bc5f25f87b1452d6c1267958c4", null ],
-    [ "MoveInLineOfSight", "d2/deb/a14323.html#a212f9803f66d297cd276ef842247776a", null ],
-    [ "Reset", "d2/deb/a14323.html#a9d5f6922a52146b61168f1c50b378294", null ],
-    [ "SpellHit", "d2/deb/a14323.html#a401db237c45efde3a30cdca6cb4f95c0", null ],
-    [ "UpdateAI", "d2/deb/a14323.html#aca53b8839bce5e180ba8583490d694c3", null ],
-    [ "timer", "d2/deb/a14323.html#a1f236cdfeec366f0d830e0fceafa6d25", null ]
+    [ "boss_headless_horseman", "d2/deb/a14323.html#a4f791099607d7861cfa193f9b5fc265b", null ],
+    [ "DamageTaken", "d2/deb/a14323.html#a76c6eddf1005774403498d0954571c19", null ],
+    [ "DoAction", "d2/deb/a14323.html#ad5d8645b879a2c97c68e815463a97b49", null ],
+    [ "GetRhymePlayer", "d2/deb/a14323.html#ad4bc4c5364d1c07c21f29747934efc01", null ],
+    [ "JustDied", "d2/deb/a14323.html#aea5a5ee1fce56cefd84ebde29bcc5a1d", null ],
+    [ "JustEngagedWith", "d2/deb/a14323.html#a149ae2b8c688c5b24d3db480b888e36e", null ],
+    [ "JustReachedHome", "d2/deb/a14323.html#a888d573450a2b09d22def41884ed2d30", null ],
+    [ "JustSummoned", "d2/deb/a14323.html#a06a654a822967c02dbab2c75f211e072", null ],
+    [ "KilledUnit", "d2/deb/a14323.html#ad98d9d303815f538e194a55578ae909a", null ],
+    [ "MoveInLineOfSight", "d2/deb/a14323.html#a57a5935e31ef5cc4df2657ddd358afdc", null ],
+    [ "MovementInform", "d2/deb/a14323.html#abccf1fc3c5475e50d45bbd596ff98ce9", null ],
+    [ "Reset", "d2/deb/a14323.html#ac52c6590f78c23149abfb062d5814ded", null ],
+    [ "SpellHit", "d2/deb/a14323.html#ace502054c0e570655be9ea1990b48f9f", null ],
+    [ "SpellHitTarget", "d2/deb/a14323.html#afa5e099de3899e41b3ee04f348c3d6a0", null ],
+    [ "UpdateAI", "d2/deb/a14323.html#aa6741999e5a9a826efb279e014ea4ab8", null ],
+    [ "events", "d2/deb/a14323.html#a2fe31482b5267bfc94d5d68062a46e0c", null ],
+    [ "health", "d2/deb/a14323.html#a076037b8bad3648551997915d97fb9b2", null ],
+    [ "inFight", "d2/deb/a14323.html#a8e33d87467086dc3eae778a579216256", null ],
+    [ "phase", "d2/deb/a14323.html#a9dde0cfcc41ec7d8b9f53e55057adab9", null ],
+    [ "playerGUID", "d2/deb/a14323.html#af0ee0c6da6398d6a84457aab942bb29c", null ],
+    [ "summons", "d2/deb/a14323.html#a5de04d5c0da7c199ec89de9ef40a59fd", null ],
+    [ "talkCount", "d2/deb/a14323.html#a091a925d7040e29efc54a4c5f123591d", null ]
 ];

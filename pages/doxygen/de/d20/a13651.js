@@ -1,7 +1,7 @@
 var a13651 =
 [
-    [ "boss_blight_wormAI", "de/d20/a13651.html#af267e395fbd539f871e498dc6745c610", null ],
-    [ "Reset", "de/d20/a13651.html#a96e27eaba5c9e422981d78123ed9c83d", null ],
-    [ "UpdateAI", "de/d20/a13651.html#ac8e4c5a7a251173a2afb369498c88a1d", null ],
-    [ "_events", "de/d20/a13651.html#a65f7fd4f73c727eeb5988d7ec77b94ce", null ]
+    [ "npc_jaina_proudmoore_bfuAI", "de/d20/a13651.html#ad5ad1d05ef8210409c700e47b5442e24", null ],
+    [ "Reset", "de/d20/a13651.html#a18de805428ce0954a5fbfffbf5975342", null ],
+    [ "UpdateAI", "de/d20/a13651.html#a48b191d0812bfe3212511a52ef0df817", null ],
+    [ "_events", "de/d20/a13651.html#a87e99e0b5fd0a3823b009025019b1fa4", null ]
 ];

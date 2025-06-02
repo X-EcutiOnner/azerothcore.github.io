@@ -1,5 +1,4 @@
 var a01673 =
 [
-    [ "WorldPackets::LFG::LFGJoin", "d9/d85/a10719.html", "d9/d85/a10719" ],
-    [ "WorldPackets::LFG::LFGLeave", "d8/d95/a10723.html", "d8/d95/a10723" ]
+    [ "GetMinPlayersPerTeam", "d9/df5/a01673.html#ab22bdb52b0357434faced9df19db9d81", null ]
 ];

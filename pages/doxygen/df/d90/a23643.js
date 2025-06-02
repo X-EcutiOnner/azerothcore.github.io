@@ -1,9 +1,6 @@
 var a23643 =
 [
-    [ "boss_dalliah_the_doomsayer", "df/d90/a23643.html#ad6edf9623942297b28bc7420ec0cc733", null ],
-    [ "InitializeAI", "df/d90/a23643.html#a85342ef80a64ce05f87cf7d90a8bfe79", null ],
-    [ "JustDied", "df/d90/a23643.html#a431edc9c25fb125d7d267073eb1c1423", null ],
-    [ "JustEngagedWith", "df/d90/a23643.html#a6d3d8d027ddb08417dd11f1606a1418f", null ],
-    [ "KilledUnit", "df/d90/a23643.html#af28bfc1166ad45bf7bc046f5906a8b11", null ],
-    [ "Reset", "df/d90/a23643.html#a5b4f186225a55afdf1de80b7126d10eb", null ]
+    [ "npc_warden_mellicharAI", "d1/d45/a23647.html", "d1/d45/a23647" ],
+    [ "npc_warden_mellichar", "df/d90/a23643.html#aba5c3d005097430941bd40bbbb0d3562", null ],
+    [ "GetAI", "df/d90/a23643.html#a7cb7437a61b49d8110c3b7fee43e495b", null ]
 ];

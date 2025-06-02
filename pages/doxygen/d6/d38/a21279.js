@@ -1,12 +1,6 @@
 var a21279 =
 [
-    [ "boss_moraggAI", "d6/d38/a21279.html#a3ae881c9adca20a2cb894af85297d53e", null ],
-    [ "EnterEvadeMode", "d6/d38/a21279.html#a4e70e42407f452c4685c732949fd2b52", null ],
-    [ "JustDied", "d6/d38/a21279.html#a97516e6ad5f7f35d0329674130e76dd3", null ],
-    [ "JustEngagedWith", "d6/d38/a21279.html#ab1d4d863a537a3c567eeda6f95f385ca", null ],
-    [ "MoveInLineOfSight", "d6/d38/a21279.html#a52a99d72dfa017baacb76717e6db931b", null ],
-    [ "Reset", "d6/d38/a21279.html#a8b7419c94e36b4b2292cf110a2eccb01", null ],
-    [ "UpdateAI", "d6/d38/a21279.html#aec7645eaae190d1e7982aae181ff9224", null ],
-    [ "events", "d6/d38/a21279.html#acd021e4216e3920f0534da95d69ba5eb", null ],
-    [ "pInstance", "d6/d38/a21279.html#a9f179ea9b180095a1e6df11b4842c5e5", null ]
+    [ "boss_lavanthorAI", "dd/de0/a21283.html", "dd/de0/a21283" ],
+    [ "boss_lavanthor", "d6/d38/a21279.html#aa935ffe07f59db59b9b8484f22927026", null ],
+    [ "GetAI", "d6/d38/a21279.html#aae09ecbe56efac6538bdfb6120e0be40", null ]
 ];

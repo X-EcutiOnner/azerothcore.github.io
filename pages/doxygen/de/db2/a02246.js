@@ -1,9 +1,9 @@
 var a02246 =
 [
-    [ "OutdoorPvP_hellfire_peninsula", "df/df8/a22451.html", "df/df8/a22451" ],
-    [ "AddSC_outdoorpvp_hp", "de/db2/a02246.html#a69303ad6f661d8c009ee493dc4fd486c", null ],
-    [ "HP_LANG_CAPTURE_A", "de/db2/a02246.html#a642fe1233b764402bae812604b684442", null ],
-    [ "HP_LANG_CAPTURE_H", "de/db2/a02246.html#a3ae9bb2c949b7f3c852ce2e4552d8ccd", null ],
-    [ "HP_LANG_LOSE_A", "de/db2/a02246.html#a1b9adf9c71e549e4545c2e4eabe58dd5", null ],
-    [ "HP_LANG_LOSE_H", "de/db2/a02246.html#ad62cd8f07ac98311202494985c6ae9c8", null ]
+    [ "instance_ruby_sanctum", "d7/dab/a16135.html", "d7/dab/a16135" ],
+    [ "instance_ruby_sanctum::instance_ruby_sanctum_InstanceMapScript", "d4/d15/a16139.html", "d4/d15/a16139" ],
+    [ "spell_ruby_sanctum_rallying_shout", "d2/dc7/a16143.html", "d2/dc7/a16143" ],
+    [ "AddSC_instance_ruby_sanctum", "de/db2/a02246.html#a93f8126d2e36ad7caab980f1c3f83a14", null ],
+    [ "boundaries", "de/db2/a02246.html#aa75d7d0ffe0cef214f982966c33db1c1", null ],
+    [ "doorData", "de/db2/a02246.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ]
 ];

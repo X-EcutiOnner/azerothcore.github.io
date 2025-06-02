@@ -1,6 +1,7 @@
 var a14823 =
 [
-    [ "instance_ragefire_chasm_InstanceMapScript", "d7/d7d/a14827.html", "d7/d7d/a14827" ],
-    [ "instance_ragefire_chasm", "d8/ddd/a14823.html#ab7f27d3e73b24d16dcf9b114f7dd4b36", null ],
-    [ "GetInstanceScript", "d8/ddd/a14823.html#a0568996a61ef91688b9f223cb3782e5a", null ]
+    [ "npc_onyxian_lair_guard", "d8/ddd/a14823.html#ae72d86cddafd8829fc9edd479a01ab1d", null ],
+    [ "JustEngagedWith", "d8/ddd/a14823.html#a7b1d3bc68684202f9b4b95f6dc078be0", null ],
+    [ "UpdateAI", "d8/ddd/a14823.html#ac8649636d5847813e49d2ada05f78645", null ],
+    [ "events", "d8/ddd/a14823.html#a99acb2010853fcf9f7ac6f08143d06ed", null ]
 ];

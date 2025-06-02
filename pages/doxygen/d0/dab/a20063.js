@@ -1,7 +1,6 @@
 var a20063 =
 [
-    [ "HandleEffectPeriodic", "d0/dab/a20063.html#ae1c6062123fb62a48f542e43b34c7bcd", null ],
-    [ "PrepareAuraScript", "d0/dab/a20063.html#a1c54b6c86fc39d96d601b24c5b30fbdd", null ],
-    [ "Register", "d0/dab/a20063.html#af7a5a98b5cf784d2de8b57a183c19142", null ],
-    [ "Validate", "d0/dab/a20063.html#a16c536c913d003826ef4b86c7a497fec", null ]
+    [ "npc_ulduar_saronite_animusAI", "d4/d77/a20067.html", "d4/d77/a20067" ],
+    [ "npc_ulduar_saronite_animus", "d0/dab/a20063.html#a22d552adc9db3f7d2a533ab7f58a2470", null ],
+    [ "GetAI", "d0/dab/a20063.html#a1fdd851e9d6e399f8f57d063a7dbd6d9", null ]
 ];

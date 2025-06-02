@@ -1,4 +1,4 @@
 var a01271 =
 [
-    [ "Initialize", "dd/d39/a01271.html#a9ddfbc9345acf19d3b4bcb7ce7804c94", null ]
+    [ "ScriptRegistry< AccountScript >", "dd/d39/a01271.html#a737db11e5096ba1c596f469d64c2cc97", null ]
 ];

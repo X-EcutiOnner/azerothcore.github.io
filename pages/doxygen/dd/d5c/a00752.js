@@ -1,4 +1,5 @@
 var a00752 =
 [
-    [ "ScriptRegistry< GameEventScript >", "dd/d5c/a00752.html#a4026f0cd70a2a24f741b1579c24ec594", null ]
+    [ "GridTerrainLoader", "d5/d49/a09123.html", "d5/d49/a09123" ],
+    [ "GridTerrainUnloader", "d3/d88/a09127.html", "d3/d88/a09127" ]
 ];

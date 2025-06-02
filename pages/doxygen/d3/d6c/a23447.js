@@ -1,8 +1,10 @@
 var a23447 =
 [
-    [ "instance_gruuls_lair_InstanceMapScript", "d3/d6c/a23447.html#a1ad656ccd4d41c756c4f525d079fd9b6", null ],
-    [ "GetData", "d3/d6c/a23447.html#a410630dbbe00acf0b69603cfc357d503", null ],
-    [ "SetBossState", "d3/d6c/a23447.html#a9f0752eb0ec1d9ca0681ddc5fc8d3752", null ],
-    [ "SetData", "d3/d6c/a23447.html#a4cbe09489797fa0076d976f9a717a2bd", null ],
-    [ "_addsKilled", "d3/d6c/a23447.html#a7a003811fcf620f3c2d11ff3498cb298", null ]
+    [ "boss_blindeye_the_seer", "d3/d6c/a23447.html#a8b95c6f0a822adf018c5aefe59ecef5b", null ],
+    [ "JustDied", "d3/d6c/a23447.html#ad70a72b18587da82d26bde8f10d63700", null ],
+    [ "JustEngagedWith", "d3/d6c/a23447.html#a0cf082eefe75eac19cc09d2f714d5ff1", null ],
+    [ "Reset", "d3/d6c/a23447.html#aabbda75266615f64ce88ce092e68bfa4", null ],
+    [ "UpdateAI", "d3/d6c/a23447.html#a8ff8ae03cc528b9a2c71cfc2c7ff3f88", null ],
+    [ "_scheduler", "d3/d6c/a23447.html#a0c5ec6cf114a289e22d890c61d4bdc93", null ],
+    [ "instance", "d3/d6c/a23447.html#a74462f26d66da3ca370825858060b1c2", null ]
 ];

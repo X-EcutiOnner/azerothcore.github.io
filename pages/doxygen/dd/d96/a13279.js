@@ -1,10 +1,12 @@
 var a13279 =
 [
-    [ "MoveDelayed", "dd/d96/a13279.html#a3bf695ce31bb531b134c6c7018f4f197", null ],
-    [ "Execute", "dd/d96/a13279.html#aa0db97475196b58bbed1f6bff1440fc6", null ],
-    [ "_o", "dd/d96/a13279.html#ad0d76a04b7e85ea8667b05ec438316a0", null ],
-    [ "_owner", "dd/d96/a13279.html#a2f7baa4bc22adeac8136df7269eb2895", null ],
-    [ "_x", "dd/d96/a13279.html#aa490d19022c27932e76af38281fe158b", null ],
-    [ "_y", "dd/d96/a13279.html#a195fc5719683ad645f36b06fd4f60d9f", null ],
-    [ "_z", "dd/d96/a13279.html#a6aafdee829472bf22102645e1ff5e7a6", null ]
+    [ "npc_kiljaeden_controller", "dd/d96/a13279.html#aabe4e5af5ad142bac6cdaa4f6787a7bc", null ],
+    [ "JustDied", "dd/d96/a13279.html#a86c4d79a8caf8a838e353bbf1b78c56d", null ],
+    [ "JustSummoned", "dd/d96/a13279.html#af28211012d8398a450439b8e24bf60ce", null ],
+    [ "Reset", "dd/d96/a13279.html#a11f6f8e86c3ecdecf8e4c5bcb76f8664", null ],
+    [ "ResetOrbs", "dd/d96/a13279.html#a4daacfe92ddb39ade57df3a1bbcd79fd", null ],
+    [ "SummonedCreatureDies", "dd/d96/a13279.html#aed2772552dd500c180c3db4aeef8359a", null ],
+    [ "UpdateAI", "dd/d96/a13279.html#a9f24328d9ffd94ecf3d15303a71acb9b", null ],
+    [ "instance", "dd/d96/a13279.html#a2cb872334b9dd6a4f87468b41f164fc4", null ],
+    [ "summons", "dd/d96/a13279.html#a116a739b2bff3257b35ff7946a3d1995", null ]
 ];

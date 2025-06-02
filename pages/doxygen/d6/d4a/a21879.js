@@ -1,6 +1,6 @@
 var a21879 =
 [
-    [ "npc_lake_frogAI", "d3/d4f/a21883.html", "d3/d4f/a21883" ],
-    [ "npc_lake_frog", "d6/d4a/a21879.html#ac7c56b2a6443356523b468c05c36bc6c", null ],
-    [ "GetAI", "d6/d4a/a21879.html#a9730da684a81fced304f10b2806c10e5", null ]
+    [ "CheckRequirement", "d6/d4a/a21879.html#ad58d71b5c2bc10d9ffbfe472bd5b1a32", null ],
+    [ "PrepareSpellScript", "d6/d4a/a21879.html#ae621e95feb69b54f9aef5d77577a15ae", null ],
+    [ "Register", "d6/d4a/a21879.html#ab0b03fd2d1a0ed6720acc45221a582f6", null ]
 ];

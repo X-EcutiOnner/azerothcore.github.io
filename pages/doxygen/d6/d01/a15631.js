@@ -1,14 +1,7 @@
 var a15631 =
 [
-    [ "npc_ringoAI", "d6/d01/a15631.html#a816dcad96afa6bec595f4b2dfe6fb11c", null ],
-    [ "ClearFaint", "d6/d01/a15631.html#abd24108debcafafa601958824d44abbb", null ],
-    [ "MoveInLineOfSight", "d6/d01/a15631.html#a6758ef2fe371338826dfc8582d6d03f0", null ],
-    [ "Reset", "d6/d01/a15631.html#a5b2cf17642bd4a560abb54b8d42bcd25", null ],
-    [ "SetFaint", "d6/d01/a15631.html#a09d3770aade34afe5a3a15e17cc64933", null ],
-    [ "SpellHit", "d6/d01/a15631.html#ad30d1a9fb84cc777d48b1363cf571d72", null ],
-    [ "UpdateFollowerAI", "d6/d01/a15631.html#a3b0effa8ec4d335a1d24d2238346b04a", null ],
-    [ "EndEventProgress", "d6/d01/a15631.html#a4df563b83103bbd7e1f0d81a78f6401a", null ],
-    [ "EndEventTimer", "d6/d01/a15631.html#a03f20114ca340c7c710bd77ee3c905ef", null ],
-    [ "FaintTimer", "d6/d01/a15631.html#a37d12c7edf3100837c99e3fb572f4bf1", null ],
-    [ "SpraggleGUID", "d6/d01/a15631.html#a3b58d34a1263355e7b11e22e0eef00a5", null ]
+    [ "npc_ameAI", "de/dd4/a15635.html", "de/dd4/a15635" ],
+    [ "npc_ame", "d6/d01/a15631.html#a6b4a20b06bc88393dd08b4eae83c1d50", null ],
+    [ "GetAI", "d6/d01/a15631.html#a09f7688c38d56319791f7543eb32f317", null ],
+    [ "OnQuestAccept", "d6/d01/a15631.html#a69b8ec6558e70e34f7e405b397b09f43", null ]
 ];

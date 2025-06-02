@@ -1,6 +1,6 @@
 var a16487 =
 [
-    [ "boss_acidmawAI", "d0/d3d/a16491.html", "d0/d3d/a16491" ],
-    [ "boss_acidmaw", "dc/dfb/a16487.html#a86e71bf9ae950a4f8efa58d6f679e8bf", null ],
-    [ "GetAI", "dc/dfb/a16487.html#aacbd4c83e6e9c9790e6cf9a87e3aa9a0", null ]
+    [ "boss_gormokAI", "d0/d3d/a16491.html", "d0/d3d/a16491" ],
+    [ "boss_gormok", "dc/dfb/a16487.html#a86ce0681be4370198c44dde5aa98a593", null ],
+    [ "GetAI", "dc/dfb/a16487.html#a45cff2e7ee0525de37382cf09b116a32", null ]
 ];

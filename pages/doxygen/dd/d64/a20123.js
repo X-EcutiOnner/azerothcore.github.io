@@ -1,6 +1,6 @@
 var a20123 =
 [
-    [ "npc_ulduar_toasty_fireAI", "dd/d64/a20123.html#a145001c6f1c1d505f810ae545ec62c69", null ],
-    [ "DoAction", "dd/d64/a20123.html#a8ab71582cc5d8386f788fb95203fbab5", null ],
-    [ "SpellHit", "dd/d64/a20123.html#a0e4475382dfd754dc119d2e8dba61b7e", null ]
+    [ "npc_ulduar_flash_freezeAI", "d2/d35/a20127.html", "d2/d35/a20127" ],
+    [ "npc_ulduar_flash_freeze", "dd/d64/a20123.html#a0301ed1231d3b0d113e9fc9389e8f160", null ],
+    [ "GetAI", "dd/d64/a20123.html#a933f99c8d38ab98c8454919b6373bb41", null ]
 ];

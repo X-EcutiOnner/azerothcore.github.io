@@ -1,14 +1,6 @@
 var a17227 =
 [
-    [ "npc_ball_of_flameAI", "dd/d52/a17227.html#a90314990bc6404bf2a4005bb94213926", null ],
-    [ "AttackStart", "dd/d52/a17227.html#a34d51c96005f620c0010948acb6c89ec", null ],
-    [ "DamageDealt", "dd/d52/a17227.html#ac2d36bc12bb86c329721a2af224d037f", null ],
-    [ "DoAction", "dd/d52/a17227.html#ac589db56562987de5bbed27a2bead49f", null ],
-    [ "MoveInLineOfSight", "dd/d52/a17227.html#a7bb96de89b9dc6b6f97443e9aec3ad61", null ],
-    [ "MovementInform", "dd/d52/a17227.html#ab18870c29224fc3fa5e7b76c1aa981f4", null ],
-    [ "SetGUID", "dd/d52/a17227.html#a809a33d832264eba92bf0847222bd23a", null ],
-    [ "_chaseGUID", "dd/d52/a17227.html#a30dc40f8922f8f34d6ad7ec3053413e4", null ],
-    [ "_exploded", "dd/d52/a17227.html#a724de41f7b14755d704d5de335da380b", null ],
-    [ "_instance", "dd/d52/a17227.html#af5d8717572176409eca01ae214910c7f", null ],
-    [ "_started", "dd/d52/a17227.html#a508a5e3f0acafa98956bba6eb41f28fb", null ]
+    [ "npc_dark_nucleusAI", "d9/dc3/a17231.html", "d9/dc3/a17231" ],
+    [ "npc_dark_nucleus", "dd/d52/a17227.html#a14459f4f41ef568decbc952fdcd4ffd5", null ],
+    [ "GetAI", "dd/d52/a17227.html#a1f59ae45c1a84a6faca5a8bb62fc16fc", null ]
 ];

@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/game/Movement/MovementGenerator.h File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/game/Handlers/CalendarHandler.cpp File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,82 +105,88 @@ $(document).ready(function(){initNavTree('d6/d60/a00491.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#nested-classes">Classes</a> &#124;
-<a href="#define-members">Macros</a> &#124;
-<a href="#typedef-members">Typedefs</a>  </div>
-  <div class="headertitle"><div class="title">MovementGenerator.h File Reference</div></div>
+<a href="#func-members">Functions</a>  </div>
+  <div class="headertitle"><div class="title">CalendarHandler.cpp File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">Define.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">FactoryHolder.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">MotionMaster.h</a>&quot;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">ArenaTeamMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">CalendarMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">DatabaseEnv.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">DisableMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">GameEventMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">GameTime.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">GuildMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">InstanceSaveMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Log.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">ObjectAccessor.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Opcodes.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Player.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">SocialMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">WorldSession.h</a>&quot;</code><br />
+<code>#include &lt;utf8.h&gt;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
-Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/dd7/a09895.html">MovementGenerator</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d37/a09899.html">MovementGeneratorMedium&lt; T, D &gt;</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d7d/a09903.html">MovementGeneratorFactory&lt; Movement &gt;</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/da9/a09907.html">IdleMovementFactory</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="define-members" name="define-members"></a>
-Macros</h2></td></tr>
-<tr class="memitem:aa270c1b96e4671274975a07340ba687a"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d60/a00491.html#aa270c1b96e4671274975a07340ba687a">sMovementGeneratorRegistry</a>&#160;&#160;&#160;MovementGeneratorRegistry::instance()</td></tr>
-<tr class="separator:aa270c1b96e4671274975a07340ba687a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="typedef-members" name="typedef-members"></a>
-Typedefs</h2></td></tr>
-<tr class="memitem:ae7a6c44762ef974149bfb8d00247a013"><td class="memItemLeft" align="right" valign="top">typedef <a class="el" href="../../d4/ddd/a05199.html">FactoryHolder</a>&lt; <a class="el" href="../../d7/dd7/a09895.html">MovementGenerator</a>, <a class="el" href="../../dd/d58/a08715.html">Unit</a>, <a class="el" href="../../d4/da8/a00437.html#a4f12806b915efea564eae942207002f9">MovementGeneratorType</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d60/a00491.html#ae7a6c44762ef974149bfb8d00247a013">MovementGeneratorCreator</a></td></tr>
-<tr class="separator:ae7a6c44762ef974149bfb8d00247a013"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae78e82cd7b1aea7744a0dbb2e65f8e79"><td class="memItemLeft" align="right" valign="top">typedef <a class="el" href="../../d4/ddd/a05199.html#a5384598eca62a35bc617a4c395353ecd">MovementGeneratorCreator::FactoryHolderRegistry</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d60/a00491.html#ae78e82cd7b1aea7744a0dbb2e65f8e79">MovementGeneratorRegistry</a></td></tr>
-<tr class="separator:ae78e82cd7b1aea7744a0dbb2e65f8e79"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
+Functions</h2></td></tr>
+<tr class="memitem:a15c437e1d990c60d0d271ab1773b7d97"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d60/a00491.html#a15c437e1d990c60d0d271ab1773b7d97">validUtf8String</a> (<a class="el" href="../../db/ddc/a10935.html">WorldPacket</a> &amp;recvData, std::string &amp;s, std::string action, <a class="el" href="../../d3/d9a/a08387.html">ObjectGuid</a> playerGUID)</td></tr>
+<tr class="separator:a15c437e1d990c60d0d271ab1773b7d97"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Macro Definition Documentation</h2>
-<a id="aa270c1b96e4671274975a07340ba687a" name="aa270c1b96e4671274975a07340ba687a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa270c1b96e4671274975a07340ba687a">&#9670;&#160;</a></span>sMovementGeneratorRegistry</h2>
+<h2 class="groupheader">Function Documentation</h2>
+<a id="a15c437e1d990c60d0d271ab1773b7d97" name="a15c437e1d990c60d0d271ab1773b7d97"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a15c437e1d990c60d0d271ab1773b7d97">&#9670;&#160;</a></span>validUtf8String()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">#define sMovementGeneratorRegistry&#160;&#160;&#160;MovementGeneratorRegistry::instance()</td>
+          <td class="memname">bool validUtf8String </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../db/ddc/a10935.html">WorldPacket</a> &amp;&#160;</td>
+          <td class="paramname"><em>recvData</em>, </td>
         </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<h2 class="groupheader">Typedef Documentation</h2>
-<a id="ae7a6c44762ef974149bfb8d00247a013" name="ae7a6c44762ef974149bfb8d00247a013"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae7a6c44762ef974149bfb8d00247a013">&#9670;&#160;</a></span>MovementGeneratorCreator</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
         <tr>
-          <td class="memname">typedef <a class="el" href="../../d4/ddd/a05199.html">FactoryHolder</a>&lt;<a class="el" href="../../d7/dd7/a09895.html">MovementGenerator</a>, <a class="el" href="../../dd/d58/a08715.html">Unit</a>, <a class="el" href="../../d4/da8/a00437.html#a4f12806b915efea564eae942207002f9">MovementGeneratorType</a>&gt; <a class="el" href="../../d6/d60/a00491.html#ae7a6c44762ef974149bfb8d00247a013">MovementGeneratorCreator</a></td>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">std::string &amp;&#160;</td>
+          <td class="paramname"><em>s</em>, </td>
         </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="ae78e82cd7b1aea7744a0dbb2e65f8e79" name="ae78e82cd7b1aea7744a0dbb2e65f8e79"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae78e82cd7b1aea7744a0dbb2e65f8e79">&#9670;&#160;</a></span>MovementGeneratorRegistry</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
         <tr>
-          <td class="memname">typedef <a class="el" href="../../d4/ddd/a05199.html#a5384598eca62a35bc617a4c395353ecd">MovementGeneratorCreator::FactoryHolderRegistry</a> <a class="el" href="../../d6/d60/a00491.html#ae78e82cd7b1aea7744a0dbb2e65f8e79">MovementGeneratorRegistry</a></td>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">std::string&#160;</td>
+          <td class="paramname"><em>action</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d3/d9a/a08387.html">ObjectGuid</a>&#160;</td>
+          <td class="paramname"><em>playerGUID</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
 </div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  228</span>{</div>
+<div class="line"><span class="lineno">  229</span>    <span class="keywordflow">if</span> (!utf8::is_valid(s.begin(), s.end()))</div>
+<div class="line"><span class="lineno">  230</span>    {</div>
+<div class="line"><span class="lineno">  231</span>        <a class="code hl_define" href="../../df/dce/a04214.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;network.opcode&quot;</span>, <span class="stringliteral">&quot;CalendarHandler: Player ({}) attempt to {} an event with invalid name or description (packet modification)&quot;</span>,</div>
+<div class="line"><span class="lineno">  232</span>            playerGUID.<a class="code hl_function" href="../../d3/d9a/a08387.html#a78f5fb47e3b35addf8984000c175125b">ToString</a>(), action);</div>
+<div class="line"><span class="lineno">  233</span>        recvData.<a class="code hl_function" href="../../d3/d92/a28419.html#a68aceada27f7897fbb59c13264ad9517">rfinish</a>();</div>
+<div class="line"><span class="lineno">  234</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  235</span>    }</div>
+<div class="line"><span class="lineno">  236</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  237</span>}</div>
+<div class="ttc" id="aa04214_html_a271e427d8e8481efd5cd5f537ec9e419"><div class="ttname"><a href="../../df/dce/a04214.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a></div><div class="ttdeci">#define LOG_INFO(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:165</div></div>
+<div class="ttc" id="aa08387_html_a78f5fb47e3b35addf8984000c175125b"><div class="ttname"><a href="../../d3/d9a/a08387.html#a78f5fb47e3b35addf8984000c175125b">ObjectGuid::ToString</a></div><div class="ttdeci">std::string ToString() const</div><div class="ttdef"><b>Definition:</b> ObjectGuid.cpp:47</div></div>
+<div class="ttc" id="aa28419_html_a68aceada27f7897fbb59c13264ad9517"><div class="ttname"><a href="../../d3/d92/a28419.html#a68aceada27f7897fbb59c13264ad9517">ByteBuffer::rfinish</a></div><div class="ttdeci">void rfinish()</div><div class="ttdef"><b>Definition:</b> ByteBuffer.h:325</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00165">LOG_INFO</a>, <a class="el" href="../../#l00325">ByteBuffer::rfinish()</a>, and <a class="el" href="../../#l00047">ObjectGuid::ToString()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00239">WorldSession::HandleCalendarAddEvent()</a>, and <a class="el" href="../../#l00368">WorldSession::HandleCalendarUpdateEvent()</a>.</p>
 
 </div>
 </div>
@@ -189,8 +195,8 @@ Typedefs</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_0787b0a4fdc11b0654465feaa92c32a3.html">Movement</a></li><li class="navelem"><a class="el" href="../../d6/d60/a00491.html">MovementGenerator.h</a></li>
-    <li class="footer">Generated on Mon May 26 2025 20:43:48 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_c6aa1690377d4e56e32ba0c89772ac1d.html">Handlers</a></li><li class="navelem"><a class="el" href="../../d6/d60/a00491.html">CalendarHandler.cpp</a></li>
+    <li class="footer">Generated on Mon Jun 2 2025 20:45:46 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

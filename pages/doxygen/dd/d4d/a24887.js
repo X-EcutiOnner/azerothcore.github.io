@@ -1,6 +1,5 @@
 var a24887 =
 [
-    [ "ModDest", "dd/d4d/a24887.html#a99d08536d2555390a7399a6d2fc199e6", null ],
-    [ "PrepareSpellScript", "dd/d4d/a24887.html#a361aed7e74a9f01d665018fd0c3addb1", null ],
-    [ "Register", "dd/d4d/a24887.html#aa96b1ff5297d670481d1d8afa9356ef9", null ]
+    [ "PrepareSpellScript", "dd/d4d/a24887.html#a054677572d74a740f1c14715608f7b1b", null ],
+    [ "Register", "dd/d4d/a24887.html#ae6556b58f0a4e6d3762bc3dc4c1643b3", null ]
 ];

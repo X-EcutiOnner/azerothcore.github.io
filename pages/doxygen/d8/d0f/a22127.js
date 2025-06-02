@@ -1,7 +1,6 @@
 var a22127 =
 [
-    [ "npc_engineer_heliceAI", "db/d24/a22131.html", "db/d24/a22131" ],
-    [ "npc_engineer_helice", "d8/d0f/a22127.html#a445ed6b85e95db817c8117d5473a3c9d", null ],
-    [ "GetAI", "d8/d0f/a22127.html#ad48e3c1ed22a71e8a45273e1338dd0f8", null ],
-    [ "OnQuestAccept", "d8/d0f/a22127.html#ae0979d68744372d5d4669b6f014eb123", null ]
+    [ "npc_avatar_of_freya", "d8/d0f/a22127.html#a3a6c4f6d8f05d606c6f545d91acdb2c1", null ],
+    [ "OnGossipHello", "d8/d0f/a22127.html#a020e8e41b32eb65ff906c9ca934a03fe", null ],
+    [ "OnGossipSelect", "d8/d0f/a22127.html#aba1b13e922873e939b2510b4bc77f49d", null ]
 ];

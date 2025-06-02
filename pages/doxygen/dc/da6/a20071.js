@@ -1,7 +1,8 @@
 var a20071 =
 [
-    [ "HandleAfterEffectApply", "dc/da6/a20071.html#a672526de2c71dcae79bacef88f34dc26", null ],
-    [ "PrepareAuraScript", "dc/da6/a20071.html#a1da221b63cb7fcd0dbb580e8cf0003ce", null ],
-    [ "Register", "dc/da6/a20071.html#a9ba7c109fe96881dd47ba47366890e2b", null ],
-    [ "Validate", "dc/da6/a20071.html#ab5833f6218760a7d9829b5d453436302", null ]
+    [ "OnApply", "dc/da6/a20071.html#a101aab87e9f45ebab1cbe77ecca65c5a", null ],
+    [ "OnRemove", "dc/da6/a20071.html#a4709f570f9014eb36bc8c65269470373", null ],
+    [ "PrepareAuraScript", "dc/da6/a20071.html#a6ac96ce73f9983915a05686eb5d411e7", null ],
+    [ "Register", "dc/da6/a20071.html#a7b4f44d86df652df78a10466bf64a2cf", null ],
+    [ "Validate", "dc/da6/a20071.html#a3b98409fa1ed8d4e53e526686bc25987", null ]
 ];

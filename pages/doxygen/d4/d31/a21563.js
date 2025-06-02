@@ -1,5 +1,6 @@
 var a21563 =
 [
-    [ "npc_leryssaAI", "d4/d31/a21563.html#ad21a1e1572880ba8cbf6625e658989eb", null ],
-    [ "MovementInform", "d4/d31/a21563.html#a36180f7351ab11a9942ec59ee24ae6ad", null ]
+    [ "npc_thassarian2AI", "df/d2d/a21567.html", "df/d2d/a21567" ],
+    [ "npc_thassarian2", "d4/d31/a21563.html#a8a2f1e1595349e4fa9968e85f17d0468", null ],
+    [ "GetAI", "d4/d31/a21563.html#adb87c99f3375f88eca55b39e1cd0bbd5", null ]
 ];

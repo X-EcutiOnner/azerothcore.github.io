@@ -1,6 +1,4 @@
 var a00521 =
 [
-    [ "ChatHandler", "db/d2e/a07479.html", "db/d2e/a07479" ],
-    [ "CliHandler", "da/d94/a07483.html", "da/d94/a07483" ],
-    [ "AddonChannelCommandHandler", "dc/d19/a07487.html", "dc/d19/a07487" ]
+    [ "MOVEMENT_PACKET_TIME_DELAY", "d7/def/a00521.html#a69e254ae3a119a96053add6b9732296c", null ]
 ];

@@ -499,9 +499,9 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">   91</span>        <span class="keywordflow">return</span>;</div>
 <div class="line"><span class="lineno">   92</span> </div>
 <div class="line"><span class="lineno">   93</span>    itr-&gt;second-&gt;HandlePlayerEnterZone(player, zoneid);</div>
-<div class="line"><span class="lineno">   94</span>    <a class="code hl_define" href="../../d6/d71/a04598.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;bg.battlefield&quot;</span>, <span class="stringliteral">&quot;Player {} entered outdoorpvp id {}&quot;</span>, player-&gt;<a class="code hl_function" href="../../d6/d3a/a08339.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>().<a class="code hl_function" href="../../d3/d9a/a08387.html#a78f5fb47e3b35addf8984000c175125b">ToString</a>(), itr-&gt;second-&gt;GetTypeId());</div>
+<div class="line"><span class="lineno">   94</span>    <a class="code hl_define" href="../../df/dce/a04214.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;bg.battlefield&quot;</span>, <span class="stringliteral">&quot;Player {} entered outdoorpvp id {}&quot;</span>, player-&gt;<a class="code hl_function" href="../../d6/d3a/a08339.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>().<a class="code hl_function" href="../../d3/d9a/a08387.html#a78f5fb47e3b35addf8984000c175125b">ToString</a>(), itr-&gt;second-&gt;GetTypeId());</div>
 <div class="line"><span class="lineno">   95</span>}</div>
-<div class="ttc" id="aa04598_html_a47ac782b14a7531c6232777165a1a161"><div class="ttname"><a href="../../d6/d71/a04598.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a></div><div class="ttdeci">#define LOG_DEBUG(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:169</div></div>
+<div class="ttc" id="aa04214_html_a47ac782b14a7531c6232777165a1a161"><div class="ttname"><a href="../../df/dce/a04214.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a></div><div class="ttdeci">#define LOG_DEBUG(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:169</div></div>
 <div class="ttc" id="aa08339_html_ad23b997e2442fa6a6228ba73a7ecc138"><div class="ttname"><a href="../../d6/d3a/a08339.html#ad23b997e2442fa6a6228ba73a7ecc138">Object::GetGUID</a></div><div class="ttdeci">static ObjectGuid GetGUID(Object const *o)</div><div class="ttdef"><b>Definition:</b> Object.h:113</div></div>
 <div class="ttc" id="aa08387_html_a78f5fb47e3b35addf8984000c175125b"><div class="ttname"><a href="../../d3/d9a/a08387.html#a78f5fb47e3b35addf8984000c175125b">ObjectGuid::ToString</a></div><div class="ttdeci">std::string ToString() const</div><div class="ttdef"><b>Definition:</b> ObjectGuid.cpp:47</div></div>
 </div><!-- fragment -->
@@ -543,7 +543,7 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  104</span>    <span class="keywordflow">if</span> (!itr-&gt;second-&gt;HasPlayer(player))</div>
 <div class="line"><span class="lineno">  105</span>        <span class="keywordflow">return</span>;</div>
 <div class="line"><span class="lineno">  106</span>    itr-&gt;second-&gt;HandlePlayerLeaveZone(player, zoneid);</div>
-<div class="line"><span class="lineno">  107</span>    <a class="code hl_define" href="../../d6/d71/a04598.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;bg.battlefield&quot;</span>, <span class="stringliteral">&quot;Player {} left outdoorpvp id {}&quot;</span>, player-&gt;<a class="code hl_function" href="../../d6/d3a/a08339.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>().<a class="code hl_function" href="../../d3/d9a/a08387.html#a78f5fb47e3b35addf8984000c175125b">ToString</a>(), itr-&gt;second-&gt;GetTypeId());</div>
+<div class="line"><span class="lineno">  107</span>    <a class="code hl_define" href="../../df/dce/a04214.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;bg.battlefield&quot;</span>, <span class="stringliteral">&quot;Player {} left outdoorpvp id {}&quot;</span>, player-&gt;<a class="code hl_function" href="../../d6/d3a/a08339.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>().<a class="code hl_function" href="../../d3/d9a/a08387.html#a78f5fb47e3b35addf8984000c175125b">ToString</a>(), itr-&gt;second-&gt;GetTypeId());</div>
 <div class="line"><span class="lineno">  108</span>}</div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00113">Object::GetGUID()</a>, <a class="el" href="../../#l00169">LOG_DEBUG</a>, <a class="el" href="../../#l00072">m_BattlefieldMap</a>, and <a class="el" href="../../#l00047">ObjectGuid::ToString()</a>.</p>
@@ -593,25 +593,25 @@ Private Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">   42</span>{</div>
-<div class="line"><span class="lineno">   43</span>    <span class="keywordflow">if</span> (<a class="code hl_define" href="../../d8/dfa/a04756.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>-&gt;getIntConfig(<a class="code hl_enumvalue" href="../../d4/dee/a00008.html#a17aac4c166ebe43e3b8fdccf9e012e41aa64237bf7ab70e8554559907e4d54c8a">CONFIG_WINTERGRASP_ENABLE</a>) == 2)</div>
+<div class="line"><span class="lineno">   43</span>    <span class="keywordflow">if</span> (<a class="code hl_define" href="../../d8/dfa/a04756.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>-&gt;getIntConfig(<a class="code hl_enumvalue" href="../../d7/d76/a00992.html#a17aac4c166ebe43e3b8fdccf9e012e41aa64237bf7ab70e8554559907e4d54c8a">CONFIG_WINTERGRASP_ENABLE</a>) == 2)</div>
 <div class="line"><span class="lineno">   44</span>    {</div>
-<div class="line"><span class="lineno">   45</span>        <a class="code hl_define" href="../../d6/d71/a04598.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;Battlefield: Wintergrasp is disabled.&quot;</span>);</div>
-<div class="line"><span class="lineno">   46</span>        <a class="code hl_define" href="../../d6/d71/a04598.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot; &quot;</span>);</div>
+<div class="line"><span class="lineno">   45</span>        <a class="code hl_define" href="../../df/dce/a04214.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;Battlefield: Wintergrasp is disabled.&quot;</span>);</div>
+<div class="line"><span class="lineno">   46</span>        <a class="code hl_define" href="../../df/dce/a04214.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot; &quot;</span>);</div>
 <div class="line"><span class="lineno">   47</span>        <span class="keywordflow">return</span>;</div>
 <div class="line"><span class="lineno">   48</span>    }</div>
 <div class="line"><span class="lineno">   49</span>    <a class="code hl_class" href="../../df/d83/a07127.html">Battlefield</a>* pBf = <span class="keyword">new</span> <a class="code hl_class" href="../../df/d78/a07147.html">BattlefieldWG</a>;</div>
 <div class="line"><span class="lineno">   50</span>    <span class="comment">// respawn, init variables</span></div>
 <div class="line"><span class="lineno">   51</span>    <span class="keywordflow">if</span> (!pBf-&gt;<a class="code hl_function" href="../../df/d83/a07127.html#a505d37f7c94cc081d9d3b8db1d362220">SetupBattlefield</a>())</div>
 <div class="line"><span class="lineno">   52</span>    {</div>
-<div class="line"><span class="lineno">   53</span>        <a class="code hl_define" href="../../d6/d71/a04598.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;Battlefield: Wintergrasp init failed.&quot;</span>);</div>
-<div class="line"><span class="lineno">   54</span>        <a class="code hl_define" href="../../d6/d71/a04598.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot; &quot;</span>);</div>
+<div class="line"><span class="lineno">   53</span>        <a class="code hl_define" href="../../df/dce/a04214.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;Battlefield: Wintergrasp init failed.&quot;</span>);</div>
+<div class="line"><span class="lineno">   54</span>        <a class="code hl_define" href="../../df/dce/a04214.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot; &quot;</span>);</div>
 <div class="line"><span class="lineno">   55</span>        <span class="keyword">delete</span> pBf;</div>
 <div class="line"><span class="lineno">   56</span>    }</div>
 <div class="line"><span class="lineno">   57</span>    <span class="keywordflow">else</span></div>
 <div class="line"><span class="lineno">   58</span>    {</div>
 <div class="line"><span class="lineno">   59</span>        <a class="code hl_variable" href="../../dd/d0b/a07131.html#a0ca3259d6262b725ee46c5d29f375585">m_BattlefieldSet</a>.push_back(pBf);</div>
-<div class="line"><span class="lineno">   60</span>        <a class="code hl_define" href="../../d6/d71/a04598.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;Battlefield: Wintergrasp successfully initiated.&quot;</span>);</div>
-<div class="line"><span class="lineno">   61</span>        <a class="code hl_define" href="../../d6/d71/a04598.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot; &quot;</span>);</div>
+<div class="line"><span class="lineno">   60</span>        <a class="code hl_define" href="../../df/dce/a04214.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;Battlefield: Wintergrasp successfully initiated.&quot;</span>);</div>
+<div class="line"><span class="lineno">   61</span>        <a class="code hl_define" href="../../df/dce/a04214.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot; &quot;</span>);</div>
 <div class="line"><span class="lineno">   62</span>    }</div>
 <div class="line"><span class="lineno">   63</span> </div>
 <div class="line"><span class="lineno">   64</span>    <span class="comment">/* For Cataclysm: Tol Barad</span></div>
@@ -628,9 +628,9 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">   75</span><span class="comment">       LOG_DEBUG(&quot;bg.battlefield&quot;, &quot;Battlefield : Tol Barad successfully initiated.&quot;);</span></div>
 <div class="line"><span class="lineno">   76</span><span class="comment">       } */</span></div>
 <div class="line"><span class="lineno">   77</span>}</div>
-<div class="ttc" id="aa00008_html_a17aac4c166ebe43e3b8fdccf9e012e41aa64237bf7ab70e8554559907e4d54c8a"><div class="ttname"><a href="../../d4/dee/a00008.html#a17aac4c166ebe43e3b8fdccf9e012e41aa64237bf7ab70e8554559907e4d54c8a">CONFIG_WINTERGRASP_ENABLE</a></div><div class="ttdeci">@ CONFIG_WINTERGRASP_ENABLE</div><div class="ttdef"><b>Definition:</b> IWorld.h:327</div></div>
-<div class="ttc" id="aa04598_html_a271e427d8e8481efd5cd5f537ec9e419"><div class="ttname"><a href="../../d6/d71/a04598.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a></div><div class="ttdeci">#define LOG_INFO(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:165</div></div>
-<div class="ttc" id="aa04598_html_a43832e3fa8508deb4ce43e520005fcd9"><div class="ttname"><a href="../../d6/d71/a04598.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a></div><div class="ttdeci">#define LOG_ERROR(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:157</div></div>
+<div class="ttc" id="aa00992_html_a17aac4c166ebe43e3b8fdccf9e012e41aa64237bf7ab70e8554559907e4d54c8a"><div class="ttname"><a href="../../d7/d76/a00992.html#a17aac4c166ebe43e3b8fdccf9e012e41aa64237bf7ab70e8554559907e4d54c8a">CONFIG_WINTERGRASP_ENABLE</a></div><div class="ttdeci">@ CONFIG_WINTERGRASP_ENABLE</div><div class="ttdef"><b>Definition:</b> IWorld.h:327</div></div>
+<div class="ttc" id="aa04214_html_a271e427d8e8481efd5cd5f537ec9e419"><div class="ttname"><a href="../../df/dce/a04214.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a></div><div class="ttdeci">#define LOG_INFO(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:165</div></div>
+<div class="ttc" id="aa04214_html_a43832e3fa8508deb4ce43e520005fcd9"><div class="ttname"><a href="../../df/dce/a04214.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a></div><div class="ttdeci">#define LOG_ERROR(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:157</div></div>
 <div class="ttc" id="aa04756_html_ga05dfb35c344e5b947a19e4284e7f5fa7"><div class="ttname"><a href="../../d8/dfa/a04756.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a></div><div class="ttdeci">#define sWorld</div><div class="ttdef"><b>Definition:</b> World.h:357</div></div>
 <div class="ttc" id="aa07127_html"><div class="ttname"><a href="../../df/d83/a07127.html">Battlefield</a></div><div class="ttdef"><b>Definition:</b> Battlefield.h:204</div></div>
 <div class="ttc" id="aa07127_html_a505d37f7c94cc081d9d3b8db1d362220"><div class="ttname"><a href="../../df/d83/a07127.html#a505d37f7c94cc081d9d3b8db1d362220">Battlefield::SetupBattlefield</a></div><div class="ttdeci">virtual bool SetupBattlefield()</div><div class="ttdoc">Call this to init the Battlefield.</div><div class="ttdef"><b>Definition:</b> Battlefield.h:217</div></div>
@@ -692,7 +692,7 @@ Private Attributes</h2></td></tr>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  134</span>{</div>
 <div class="line"><span class="lineno">  135</span>    <a class="code hl_variable" href="../../dd/d0b/a07131.html#a4818f48ea741ae5b6b588eed9719d0ec">m_UpdateTimer</a> += diff;</div>
-<div class="line"><span class="lineno">  136</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../dd/d0b/a07131.html#a4818f48ea741ae5b6b588eed9719d0ec">m_UpdateTimer</a> &gt; <a class="code hl_variable" href="../../dd/d20/a01772.html#a79df696836c3edc53ca1868aab7f6e76">BATTLEFIELD_OBJECTIVE_UPDATE_INTERVAL</a>)</div>
+<div class="line"><span class="lineno">  136</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../dd/d0b/a07131.html#a4818f48ea741ae5b6b588eed9719d0ec">m_UpdateTimer</a> &gt; <a class="code hl_variable" href="../../d2/d45/a01826.html#a79df696836c3edc53ca1868aab7f6e76">BATTLEFIELD_OBJECTIVE_UPDATE_INTERVAL</a>)</div>
 <div class="line"><span class="lineno">  137</span>    {</div>
 <div class="line"><span class="lineno">  138</span>        <span class="keywordflow">for</span> (BattlefieldSet::iterator itr = <a class="code hl_variable" href="../../dd/d0b/a07131.html#a0ca3259d6262b725ee46c5d29f375585">m_BattlefieldSet</a>.begin(); itr != <a class="code hl_variable" href="../../dd/d0b/a07131.html#a0ca3259d6262b725ee46c5d29f375585">m_BattlefieldSet</a>.end(); ++itr)</div>
 <div class="line"><span class="lineno">  139</span>            <span class="comment">//if ((*itr)-&gt;IsEnabled())</span></div>
@@ -700,7 +700,7 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  141</span>        <a class="code hl_variable" href="../../dd/d0b/a07131.html#a4818f48ea741ae5b6b588eed9719d0ec">m_UpdateTimer</a> = 0;</div>
 <div class="line"><span class="lineno">  142</span>    }</div>
 <div class="line"><span class="lineno">  143</span>}</div>
-<div class="ttc" id="aa01772_html_a79df696836c3edc53ca1868aab7f6e76"><div class="ttname"><a href="../../dd/d20/a01772.html#a79df696836c3edc53ca1868aab7f6e76">BATTLEFIELD_OBJECTIVE_UPDATE_INTERVAL</a></div><div class="ttdeci">constexpr auto BATTLEFIELD_OBJECTIVE_UPDATE_INTERVAL</div><div class="ttdef"><b>Definition:</b> Battlefield.h:56</div></div>
+<div class="ttc" id="aa01826_html_a79df696836c3edc53ca1868aab7f6e76"><div class="ttname"><a href="../../d2/d45/a01826.html#a79df696836c3edc53ca1868aab7f6e76">BATTLEFIELD_OBJECTIVE_UPDATE_INTERVAL</a></div><div class="ttdeci">constexpr auto BATTLEFIELD_OBJECTIVE_UPDATE_INTERVAL</div><div class="ttdef"><b>Definition:</b> Battlefield.h:56</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00056">BATTLEFIELD_OBJECTIVE_UPDATE_INTERVAL</a>, <a class="el" href="../../#l00069">m_BattlefieldSet</a>, and <a class="el" href="../../#l00074">m_UpdateTimer</a>.</p>
 
@@ -785,7 +785,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dd/d0b/a07131.html">BattlefieldMgr</a></li>
-    <li class="footer">Generated on Mon May 26 2025 20:44:50 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Jun 2 2025 20:46:41 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

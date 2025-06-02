@@ -1,6 +1,7 @@
 var a22331 =
 [
-    [ "PrepareSpellScript", "d6/d68/a22331.html#ae9a4734c9b12473f86c91a49860d56dd", null ],
-    [ "RecalculateDamage", "d6/d68/a22331.html#ad47d51e68c6ffe60f15beceaffc60b19", null ],
-    [ "Register", "d6/d68/a22331.html#a0dbeb30ba0eb22f4eb762f0a14cc6f39", null ]
+    [ "HandleScript", "d6/d68/a22331.html#a1811115f1732912bdfaeeb8272db2304", null ],
+    [ "PrepareSpellScript", "d6/d68/a22331.html#a50c24464dd88717bf78971d679715d7b", null ],
+    [ "Register", "d6/d68/a22331.html#ab48b37db40865d60d7cda3260ec15ba8", null ],
+    [ "Validate", "d6/d68/a22331.html#a0f0e4621965ea7ed7a108bca6d232ad0", null ]
 ];

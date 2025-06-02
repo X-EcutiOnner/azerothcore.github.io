@@ -1,6 +1,9 @@
 var a18715 =
 [
-    [ "npc_icc_skybreaker_luminaryAI", "d6/db3/a18719.html", "d6/db3/a18719" ],
-    [ "npc_icc_skybreaker_luminary", "de/d23/a18715.html#aff97d0425cf86a8b411ef3e2bd0cc054", null ],
-    [ "GetAI", "de/d23/a18715.html#ad1378aaa7438758f8a796d8e74ae0ce8", null ]
+    [ "npc_icc_skybreaker_marksmanAI", "de/d23/a18715.html#af6d3e79627102acbf764aa7ee8c7433b", null ],
+    [ "AttackStart", "de/d23/a18715.html#a82403eecdea07bfc8ed9509eb5a30dcd", null ],
+    [ "JustEngagedWith", "de/d23/a18715.html#a7648c626ded6d3abef798b46c77f991d", null ],
+    [ "Reset", "de/d23/a18715.html#acaaac3624e262d89920fa8a7da9e3cc0", null ],
+    [ "UpdateAI", "de/d23/a18715.html#affcd7c16fe4a50a0743c0f9bb5a9d321", null ],
+    [ "events", "de/d23/a18715.html#a5aaffc1e78c255c95893be1537e520d6", null ]
 ];

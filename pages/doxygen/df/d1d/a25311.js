@@ -1,6 +1,6 @@
 var a25311 =
 [
-    [ "CalculateAmount", "df/d1d/a25311.html#ac0018b57967a3d3ae71aa81745032f15", null ],
-    [ "PrepareAuraScript", "df/d1d/a25311.html#ab249a493050c5527eeec8913e94cfc64", null ],
-    [ "Register", "df/d1d/a25311.html#a8f078f8370eacba197ceb2068b6a538d", null ]
+    [ "CheckCast", "df/d1d/a25311.html#a712900d0c9e9cc78b5de2886e416f34d", null ],
+    [ "PrepareSpellScript", "df/d1d/a25311.html#a0bc2de519e0c84688fad609444d28afa", null ],
+    [ "Register", "df/d1d/a25311.html#a7f438fb8ce7eda520a366437df65c6e8", null ]
 ];

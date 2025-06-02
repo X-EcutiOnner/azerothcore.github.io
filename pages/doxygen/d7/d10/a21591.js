@@ -1,6 +1,7 @@
 var a21591 =
 [
-    [ "npc_mei_francis_mountAI", "de/d53/a21595.html", "de/d53/a21595" ],
-    [ "npc_mei_francis_mount", "d7/d10/a21591.html#ab34facb1d4d9a542710340493488eaa8", null ],
-    [ "GetAI", "d7/d10/a21591.html#ac1f14e0b94662432b399d6dfeb8a8107", null ]
+    [ "npc_warmage_violetstand", "d7/d10/a21591.html#a1f67c9521cc3bd63886a8936b28e6622", null ],
+    [ "Reset", "d7/d10/a21591.html#a99015610597f43f184cc686c9fab2fa9", null ],
+    [ "UpdateAI", "d7/d10/a21591.html#aa0eac837ab697c3e0cd5ab753f0bd0b4", null ],
+    [ "targetGUID", "d7/d10/a21591.html#a46560aa7aa90778967a79c931a81721b", null ]
 ];

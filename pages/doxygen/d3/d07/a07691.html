@@ -154,9 +154,9 @@ Static Public Member Functions</h2></td></tr>
 </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  175</span>    {</div>
-<div class="line"><span class="lineno">  176</span>        <span class="keywordflow">return</span> c == <a class="code hl_variable" href="../../dd/d90/a04127.html#a683db3fe009c60f8cedefbea5f00f58f">ItemQualityColors</a>[data.Item-&gt;Quality];</div>
+<div class="line"><span class="lineno">  176</span>        <span class="keywordflow">return</span> c == <a class="code hl_variable" href="../../d0/d2b/a01997.html#a683db3fe009c60f8cedefbea5f00f58f">ItemQualityColors</a>[data.Item-&gt;Quality];</div>
 <div class="line"><span class="lineno">  177</span>    }</div>
-<div class="ttc" id="aa04127_html_a683db3fe009c60f8cedefbea5f00f58f"><div class="ttname"><a href="../../dd/d90/a04127.html#a683db3fe009c60f8cedefbea5f00f58f">ItemQualityColors</a></div><div class="ttdeci">const uint32 ItemQualityColors[MAX_ITEM_QUALITY]</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:353</div></div>
+<div class="ttc" id="aa01997_html_a683db3fe009c60f8cedefbea5f00f58f"><div class="ttname"><a href="../../d0/d2b/a01997.html#a683db3fe009c60f8cedefbea5f00f58f">ItemQualityColors</a></div><div class="ttdeci">const uint32 ItemQualityColors[MAX_ITEM_QUALITY]</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:353</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00058">Acore::Hyperlinks::ItemLinkData::Item</a>, <a class="el" href="../../#l00353">ItemQualityColors</a>, and <a class="el" href="../../#l00626">ItemTemplate::Quality</a>.</p>
 
@@ -196,7 +196,7 @@ Static Public Member Functions</h2></td></tr>
 </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  136</span>    {</div>
-<div class="line"><span class="lineno">  137</span>        <a class="code hl_struct" href="../../df/dd4/a08323.html">ItemLocale</a> <span class="keyword">const</span>* locale = <a class="code hl_define" href="../../da/d17/a01046.html#a736e30da2b5261060ac6cdbb5de3b787">sObjectMgr</a>-&gt;GetItemLocale(data.Item-&gt;ItemId);</div>
+<div class="line"><span class="lineno">  137</span>        <a class="code hl_struct" href="../../df/dd4/a08323.html">ItemLocale</a> <span class="keyword">const</span>* locale = <a class="code hl_define" href="../../dc/df9/a00554.html#a736e30da2b5261060ac6cdbb5de3b787">sObjectMgr</a>-&gt;GetItemLocale(data.Item-&gt;ItemId);</div>
 <div class="line"><span class="lineno">  138</span> </div>
 <div class="line"><span class="lineno">  139</span>        std::array&lt;char const*, 16&gt; <span class="keyword">const</span>* randomSuffixes = <span class="keyword">nullptr</span>;</div>
 <div class="line"><span class="lineno">  140</span> </div>
@@ -208,12 +208,12 @@ Static Public Member Functions</h2></td></tr>
 <div class="line"><span class="lineno">  146</span>        <span class="keywordflow">if</span> (data.IsBuggedInspectLink) <span class="comment">/* DBC lookup will have failed on the client, so the link should&#39;ve arrived without suffix */</span></div>
 <div class="line"><span class="lineno">  147</span>            randomSuffixes = <span class="keyword">nullptr</span>;</div>
 <div class="line"><span class="lineno">  148</span> </div>
-<div class="line"><span class="lineno">  149</span>        <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../da/d71/a04649.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> i = 0; i &lt; <a class="code hl_enumvalue" href="../../db/d49/a04289.html#a54c9b637be7283ba1a04fb5215594332a7f84fea169b93e300da83986234a30d8">TOTAL_LOCALES</a>; ++i)</div>
+<div class="line"><span class="lineno">  149</span>        <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../da/d71/a04649.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> i = 0; i &lt; <a class="code hl_enumvalue" href="../../d7/d23/a04538.html#a54c9b637be7283ba1a04fb5215594332a7f84fea169b93e300da83986234a30d8">TOTAL_LOCALES</a>; ++i)</div>
 <div class="line"><span class="lineno">  150</span>        {</div>
-<div class="line"><span class="lineno">  151</span>            <span class="keywordflow">if</span> (!locale &amp;&amp; i != <a class="code hl_define" href="../../db/d49/a04289.html#a900ed91bceba26c1e05048bd3a9ec4fd">DEFAULT_LOCALE</a>)</div>
+<div class="line"><span class="lineno">  151</span>            <span class="keywordflow">if</span> (!locale &amp;&amp; i != <a class="code hl_define" href="../../d7/d23/a04538.html#a900ed91bceba26c1e05048bd3a9ec4fd">DEFAULT_LOCALE</a>)</div>
 <div class="line"><span class="lineno">  152</span>                <span class="keywordflow">continue</span>;</div>
 <div class="line"><span class="lineno">  153</span> </div>
-<div class="line"><span class="lineno">  154</span>            std::string_view name = (i == <a class="code hl_define" href="../../db/d49/a04289.html#a900ed91bceba26c1e05048bd3a9ec4fd">DEFAULT_LOCALE</a>) ? data.Item-&gt;Name1 : <a class="code hl_function" href="../../dd/d46/a09007.html#afaf0c44e499261c10276edc4c3cb15a0">ObjectMgr::GetLocaleString</a>(locale-&gt;<a class="code hl_variable" href="../../df/dd4/a08323.html#a787ca2c05ddac7ee5c3a5c28a02b8494">Name</a>, i);</div>
+<div class="line"><span class="lineno">  154</span>            std::string_view name = (i == <a class="code hl_define" href="../../d7/d23/a04538.html#a900ed91bceba26c1e05048bd3a9ec4fd">DEFAULT_LOCALE</a>) ? data.Item-&gt;Name1 : <a class="code hl_function" href="../../dd/d46/a09007.html#afaf0c44e499261c10276edc4c3cb15a0">ObjectMgr::GetLocaleString</a>(locale-&gt;<a class="code hl_variable" href="../../df/dd4/a08323.html#a787ca2c05ddac7ee5c3a5c28a02b8494">Name</a>, i);</div>
 <div class="line"><span class="lineno">  155</span>            <span class="keywordflow">if</span> (name.empty())</div>
 <div class="line"><span class="lineno">  156</span>                <span class="keywordflow">continue</span>;</div>
 <div class="line"><span class="lineno">  157</span> </div>
@@ -232,15 +232,15 @@ Static Public Member Functions</h2></td></tr>
 <div class="line"><span class="lineno">  170</span>        }</div>
 <div class="line"><span class="lineno">  171</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
 <div class="line"><span class="lineno">  172</span>    }</div>
-<div class="ttc" id="aa01046_html_a736e30da2b5261060ac6cdbb5de3b787"><div class="ttname"><a href="../../da/d17/a01046.html#a736e30da2b5261060ac6cdbb5de3b787">sObjectMgr</a></div><div class="ttdeci">#define sObjectMgr</div><div class="ttdef"><b>Definition:</b> ObjectMgr.h:1636</div></div>
-<div class="ttc" id="aa04289_html_a54c9b637be7283ba1a04fb5215594332a7f84fea169b93e300da83986234a30d8"><div class="ttname"><a href="../../db/d49/a04289.html#a54c9b637be7283ba1a04fb5215594332a7f84fea169b93e300da83986234a30d8">TOTAL_LOCALES</a></div><div class="ttdeci">@ TOTAL_LOCALES</div><div class="ttdef"><b>Definition:</b> Common.h:76</div></div>
-<div class="ttc" id="aa04289_html_a900ed91bceba26c1e05048bd3a9ec4fd"><div class="ttname"><a href="../../db/d49/a04289.html#a900ed91bceba26c1e05048bd3a9ec4fd">DEFAULT_LOCALE</a></div><div class="ttdeci">#define DEFAULT_LOCALE</div><div class="ttdef"><b>Definition:</b> Common.h:79</div></div>
+<div class="ttc" id="aa00554_html_a736e30da2b5261060ac6cdbb5de3b787"><div class="ttname"><a href="../../dc/df9/a00554.html#a736e30da2b5261060ac6cdbb5de3b787">sObjectMgr</a></div><div class="ttdeci">#define sObjectMgr</div><div class="ttdef"><b>Definition:</b> ObjectMgr.h:1650</div></div>
+<div class="ttc" id="aa04538_html_a54c9b637be7283ba1a04fb5215594332a7f84fea169b93e300da83986234a30d8"><div class="ttname"><a href="../../d7/d23/a04538.html#a54c9b637be7283ba1a04fb5215594332a7f84fea169b93e300da83986234a30d8">TOTAL_LOCALES</a></div><div class="ttdeci">@ TOTAL_LOCALES</div><div class="ttdef"><b>Definition:</b> Common.h:76</div></div>
+<div class="ttc" id="aa04538_html_a900ed91bceba26c1e05048bd3a9ec4fd"><div class="ttname"><a href="../../d7/d23/a04538.html#a900ed91bceba26c1e05048bd3a9ec4fd">DEFAULT_LOCALE</a></div><div class="ttdeci">#define DEFAULT_LOCALE</div><div class="ttdef"><b>Definition:</b> Common.h:79</div></div>
 <div class="ttc" id="aa04649_html_a15a8d014fadf85c99a2268d8cbd00767"><div class="ttname"><a href="../../da/d71/a04649.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></div><div class="ttdeci">std::uint8_t uint8</div><div class="ttdef"><b>Definition:</b> Define.h:109</div></div>
 <div class="ttc" id="aa08323_html"><div class="ttname"><a href="../../df/dd4/a08323.html">ItemLocale</a></div><div class="ttdef"><b>Definition:</b> ItemTemplate.h:838</div></div>
 <div class="ttc" id="aa08323_html_a787ca2c05ddac7ee5c3a5c28a02b8494"><div class="ttname"><a href="../../df/dd4/a08323.html#a787ca2c05ddac7ee5c3a5c28a02b8494">ItemLocale::Name</a></div><div class="ttdeci">std::vector&lt; std::string &gt; Name</div><div class="ttdef"><b>Definition:</b> ItemTemplate.h:839</div></div>
-<div class="ttc" id="aa09007_html_afaf0c44e499261c10276edc4c3cb15a0"><div class="ttname"><a href="../../dd/d46/a09007.html#afaf0c44e499261c10276edc4c3cb15a0">ObjectMgr::GetLocaleString</a></div><div class="ttdeci">static std::string_view GetLocaleString(std::vector&lt; std::string &gt; const &amp;data, std::size_t locale)</div><div class="ttdef"><b>Definition:</b> ObjectMgr.h:1409</div></div>
+<div class="ttc" id="aa09007_html_afaf0c44e499261c10276edc4c3cb15a0"><div class="ttname"><a href="../../dd/d46/a09007.html#afaf0c44e499261c10276edc4c3cb15a0">ObjectMgr::GetLocaleString</a></div><div class="ttdeci">static std::string_view GetLocaleString(std::vector&lt; std::string &gt; const &amp;data, std::size_t locale)</div><div class="ttdef"><b>Definition:</b> ObjectMgr.h:1419</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00079">DEFAULT_LOCALE</a>, <a class="el" href="../../#l01409">ObjectMgr::GetLocaleString()</a>, <a class="el" href="../../#l00065">Acore::Hyperlinks::ItemLinkData::IsBuggedInspectLink</a>, <a class="el" href="../../#l00058">Acore::Hyperlinks::ItemLinkData::Item</a>, <a class="el" href="../../#l00620">ItemTemplate::ItemId</a>, <a class="el" href="../../#l00839">ItemLocale::Name</a>, <a class="el" href="../../#l01213">ItemRandomPropertiesEntry::Name</a>, <a class="el" href="../../#l01220">ItemRandomSuffixEntry::Name</a>, <a class="el" href="../../#l00624">ItemTemplate::Name1</a>, <a class="el" href="../../#l00061">Acore::Hyperlinks::ItemLinkData::RandomProperty</a>, <a class="el" href="../../#l00062">Acore::Hyperlinks::ItemLinkData::RandomSuffix</a>, <a class="el" href="../../#l01636">sObjectMgr</a>, and <a class="el" href="../../#l00076">TOTAL_LOCALES</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00079">DEFAULT_LOCALE</a>, <a class="el" href="../../#l01419">ObjectMgr::GetLocaleString()</a>, <a class="el" href="../../#l00065">Acore::Hyperlinks::ItemLinkData::IsBuggedInspectLink</a>, <a class="el" href="../../#l00058">Acore::Hyperlinks::ItemLinkData::Item</a>, <a class="el" href="../../#l00620">ItemTemplate::ItemId</a>, <a class="el" href="../../#l00839">ItemLocale::Name</a>, <a class="el" href="../../#l01213">ItemRandomPropertiesEntry::Name</a>, <a class="el" href="../../#l01220">ItemRandomSuffixEntry::Name</a>, <a class="el" href="../../#l00624">ItemTemplate::Name1</a>, <a class="el" href="../../#l00061">Acore::Hyperlinks::ItemLinkData::RandomProperty</a>, <a class="el" href="../../#l00062">Acore::Hyperlinks::ItemLinkData::RandomSuffix</a>, <a class="el" href="../../#l01650">sObjectMgr</a>, and <a class="el" href="../../#l00076">TOTAL_LOCALES</a>.</p>
 
 </div>
 </div>
@@ -250,7 +250,7 @@ Static Public Member Functions</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d3/d07/a07691.html">LinkValidator&lt; LinkTags::item &gt;</a></li>
-    <li class="footer">Generated on Mon May 26 2025 20:45:14 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Jun 2 2025 20:47:06 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

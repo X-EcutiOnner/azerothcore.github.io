@@ -1,7 +1,8 @@
 var a27971 =
 [
-    [ "bit_index", "dc/d90/a27971.html#a1e5cb3fc001169a204507a084435a211", null ],
-    [ "ID", "dc/d90/a27971.html#a63fe7a87e019780d20e86e48efb02eac", null ],
-    [ "nameFemale", "dc/d90/a27971.html#ad0380caf2526715faaddc9330062d90a", null ],
-    [ "nameMale", "dc/d90/a27971.html#a74a767731c96d3d815ddde5a06f68599", null ]
+    [ "gender", "dc/d90/a27971.html#a571684c3aa6f2b0192b545d2a38ab333", null ],
+    [ "hair_id", "dc/d90/a27971.html#af4646a9adb0a1dc18b34158de2116b84", null ],
+    [ "Id", "dc/d90/a27971.html#a05de87081cf628e806d6518eef1424e4", null ],
+    [ "race", "dc/d90/a27971.html#a458f5a1e2aca1fd34bb1afadeb5f6db2", null ],
+    [ "type", "dc/d90/a27971.html#a289bb362ba13235c754647ba67be1e56", null ]
 ];

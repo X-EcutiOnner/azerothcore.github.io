@@ -1,8 +1,7 @@
 var a23255 =
 [
-    [ "FilterTargets", "d3/deb/a23255.html#a8687ba9c22299e62e5911a3729fa4a0a", null ],
-    [ "HandleDummy", "d3/deb/a23255.html#addb3580259be74126b7de36d1b0a8a97", null ],
-    [ "PrepareSpellScript", "d3/deb/a23255.html#aba82de0886d03037de4564f9908b8c89", null ],
-    [ "Register", "d3/deb/a23255.html#a1650962493d48f5553a9e2771e594f1f", null ],
-    [ "Validate", "d3/deb/a23255.html#a0a29926e43bd5ff58ca7ad79df6f8cc1", null ]
+    [ "PeriodicTick", "d3/deb/a23255.html#a789d2d4d2bc75e412abe80a33102fa06", null ],
+    [ "PrepareAuraScript", "d3/deb/a23255.html#a49db8ade3bc3a3da9e043e8b9ad1759d", null ],
+    [ "Register", "d3/deb/a23255.html#aec2d7f564107f5b294a5d5c3dd3f9b25", null ],
+    [ "Validate", "d3/deb/a23255.html#a7c2309d3192b2a18d8035c8067849d6d", null ]
 ];

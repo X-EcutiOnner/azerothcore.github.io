@@ -1,6 +1,6 @@
 var a22183 =
 [
-    [ "npc_iron_watcherAI", "d1/de0/a22187.html", "d1/de0/a22187" ],
-    [ "npc_iron_watcher", "df/df3/a22183.html#a174e19241ca6cd1619fbae074d11c8ba", null ],
-    [ "GetAI", "df/df3/a22183.html#af3b80b838e192737762ceed599b0be9a", null ]
+    [ "HandleScriptEffect", "df/df3/a22183.html#a1dac2806b74471332aec0595118005a3", null ],
+    [ "PrepareSpellScript", "df/df3/a22183.html#adb1efd90b7ffa23887ca4aa3afb6d99e", null ],
+    [ "Register", "df/df3/a22183.html#a2ff0986c88dcbd9aac263f62b772c992", null ]
 ];

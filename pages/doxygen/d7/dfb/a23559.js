@@ -1,5 +1,5 @@
 var a23559 =
 [
-    [ "spellId", "d7/dfb/a23559.html#acc63d01d5095adef28b9746c520be973", null ],
-    [ "textId", "d7/dfb/a23559.html#a5b366c702c1cda6ea10ad0b58935f97c", null ]
+    [ "go_manticron_cube", "d7/dfb/a23559.html#a87d9571aea57f16d38067ebd9e22200d", null ],
+    [ "OnGossipHello", "d7/dfb/a23559.html#accab4a61f00f5e465fb795b4cbe672bf", null ]
 ];

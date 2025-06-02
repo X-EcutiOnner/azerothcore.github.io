@@ -1,6 +1,6 @@
 var a20851 =
 [
-    [ "FilterTargets", "d4/d7c/a20851.html#adaeee235184ddc36e90e532091183056", null ],
-    [ "PrepareSpellScript", "d4/d7c/a20851.html#a599f604e872d3a5a4ed2b155caefdc9f", null ],
-    [ "Register", "d4/d7c/a20851.html#ab79041a2536878498744555475bce5c8", null ]
+    [ "boss_yoggsaron_voiceAI", "d0/deb/a20855.html", "d0/deb/a20855" ],
+    [ "boss_yoggsaron_voice", "d4/d7c/a20851.html#ae5d10416bb83e57c0e9d3ef5d6f5adc6", null ],
+    [ "GetAI", "d4/d7c/a20851.html#a50abcde0313df06a114a2f5f44a1d481", null ]
 ];

@@ -407,7 +407,7 @@ Protected Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  124</span>                instanceTree = <a class="code hl_variable" href="../../da/dd4/a04971.html#ac298aeb50ad8c1215b639f7d1dd8fc05">iInstanceMapTrees</a>.insert(InstanceTreeMap::value_type(mapId, <span class="keyword">nullptr</span>)).first;</div>
 <div class="line"><span class="lineno">  125</span>            }</div>
 <div class="line"><span class="lineno">  126</span>            <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  127</span>                <a class="code hl_define" href="../../d8/d19/a04259.html#a5376571bbf4cdc9782683635f366f89a">ABORT</a>(<span class="stringliteral">&quot;Invalid mapId {} tile [{}, {}] passed to VMapMgr2 after startup in thread unsafe environment&quot;</span>,</div>
+<div class="line"><span class="lineno">  127</span>                <a class="code hl_define" href="../../d1/dd9/a04184.html#a5376571bbf4cdc9782683635f366f89a">ABORT</a>(<span class="stringliteral">&quot;Invalid mapId {} tile [{}, {}] passed to VMapMgr2 after startup in thread unsafe environment&quot;</span>,</div>
 <div class="line"><span class="lineno">  128</span>                       mapId, tileX, tileY);</div>
 <div class="line"><span class="lineno">  129</span>        }</div>
 <div class="line"><span class="lineno">  130</span> </div>
@@ -425,7 +425,7 @@ Protected Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  142</span> </div>
 <div class="line"><span class="lineno">  143</span>        <span class="keywordflow">return</span> instanceTree-&gt;second-&gt;LoadMapTile(tileX, tileY, <span class="keyword">this</span>);</div>
 <div class="line"><span class="lineno">  144</span>    }</div>
-<div class="ttc" id="aa04259_html_a5376571bbf4cdc9782683635f366f89a"><div class="ttname"><a href="../../d8/d19/a04259.html#a5376571bbf4cdc9782683635f366f89a">ABORT</a></div><div class="ttdeci">#define ABORT</div><div class="ttdef"><b>Definition:</b> Errors.h:76</div></div>
+<div class="ttc" id="aa04184_html_a5376571bbf4cdc9782683635f366f89a"><div class="ttname"><a href="../../d1/dd9/a04184.html#a5376571bbf4cdc9782683635f366f89a">ABORT</a></div><div class="ttdeci">#define ABORT</div><div class="ttdef"><b>Definition:</b> Errors.h:76</div></div>
 <div class="ttc" id="aa04971_html_aecec356ccb3fd3ddb52c7d889bd2c80d"><div class="ttname"><a href="../../da/dd4/a04971.html#aecec356ccb3fd3ddb52c7d889bd2c80d">VMAP::VMapMgr2::getMapFileName</a></div><div class="ttdeci">static std::string getMapFileName(unsigned int mapId)</div><div class="ttdef"><b>Definition:</b> VMapMgr2.cpp:89</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00076">ABORT</a>, <a class="el" href="../../#l00089">getMapFileName()</a>, <a class="el" href="../../#l00080">iInstanceMapTrees</a>, <a class="el" href="../../#l00294">VMAP::StaticMapTree::InitMap()</a>, <a class="el" href="../../#l00363">VMAP::StaticMapTree::LoadMapTile()</a>, and <a class="el" href="../../#l00081">thread_safe_environment</a>.</p>
@@ -475,11 +475,11 @@ Protected Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  348</span>            WorldModel* worldmodel = <span class="keyword">new</span> WorldModel();</div>
 <div class="line"><span class="lineno">  349</span>            <span class="keywordflow">if</span> (!worldmodel-&gt;readFile(basepath + filename + <span class="stringliteral">&quot;.vmo&quot;</span>))</div>
 <div class="line"><span class="lineno">  350</span>            {</div>
-<div class="line"><span class="lineno">  351</span>                <a class="code hl_define" href="../../d6/d71/a04598.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;maps&quot;</span>, <span class="stringliteral">&quot;VMapMgr2: could not load &#39;{}{}.vmo&#39;&quot;</span>, basepath, filename);</div>
+<div class="line"><span class="lineno">  351</span>                <a class="code hl_define" href="../../df/dce/a04214.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;maps&quot;</span>, <span class="stringliteral">&quot;VMapMgr2: could not load &#39;{}{}.vmo&#39;&quot;</span>, basepath, filename);</div>
 <div class="line"><span class="lineno">  352</span>                <span class="keyword">delete</span> worldmodel;</div>
 <div class="line"><span class="lineno">  353</span>                <span class="keywordflow">return</span> <span class="keyword">nullptr</span>;</div>
 <div class="line"><span class="lineno">  354</span>            }</div>
-<div class="line"><span class="lineno">  355</span>            <a class="code hl_define" href="../../d6/d71/a04598.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;maps&quot;</span>, <span class="stringliteral">&quot;VMapMgr2: loading file &#39;{}{}&#39;&quot;</span>, basepath, filename);</div>
+<div class="line"><span class="lineno">  355</span>            <a class="code hl_define" href="../../df/dce/a04214.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;maps&quot;</span>, <span class="stringliteral">&quot;VMapMgr2: loading file &#39;{}{}&#39;&quot;</span>, basepath, filename);</div>
 <div class="line"><span class="lineno">  356</span> </div>
 <div class="line"><span class="lineno">  357</span>            worldmodel-&gt;Flags = flags;</div>
 <div class="line"><span class="lineno">  358</span> </div>
@@ -489,8 +489,8 @@ Protected Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  362</span> </div>
 <div class="line"><span class="lineno">  363</span>        <span class="keywordflow">return</span> model-&gt;second.getModel();</div>
 <div class="line"><span class="lineno">  364</span>    }</div>
-<div class="ttc" id="aa04598_html_a43832e3fa8508deb4ce43e520005fcd9"><div class="ttname"><a href="../../d6/d71/a04598.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a></div><div class="ttdeci">#define LOG_ERROR(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:157</div></div>
-<div class="ttc" id="aa04598_html_a47ac782b14a7531c6232777165a1a161"><div class="ttname"><a href="../../d6/d71/a04598.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a></div><div class="ttdeci">#define LOG_DEBUG(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:169</div></div>
+<div class="ttc" id="aa04214_html_a43832e3fa8508deb4ce43e520005fcd9"><div class="ttname"><a href="../../df/dce/a04214.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a></div><div class="ttdeci">#define LOG_ERROR(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:157</div></div>
+<div class="ttc" id="aa04214_html_a47ac782b14a7531c6232777165a1a161"><div class="ttname"><a href="../../df/dce/a04214.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a></div><div class="ttdeci">#define LOG_DEBUG(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:169</div></div>
 <div class="ttc" id="aa04971_html_a699396b98d011390dc85fe2da9b1a8fe"><div class="ttname"><a href="../../da/dd4/a04971.html#a699396b98d011390dc85fe2da9b1a8fe">VMAP::VMapMgr2::LoadedModelFilesLock</a></div><div class="ttdeci">std::mutex LoadedModelFilesLock</div><div class="ttdef"><b>Definition:</b> VMapMgr2.h:84</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00117">VMAP::WorldModel::Flags</a>, <a class="el" href="../../#l00079">iLoadedModelFiles</a>, <a class="el" href="../../#l00084">LoadedModelFilesLock</a>, <a class="el" href="../../#l00169">LOG_DEBUG</a>, <a class="el" href="../../#l00157">LOG_ERROR</a>, and <a class="el" href="../../#l00656">VMAP::WorldModel::readFile()</a>.</p>
@@ -532,15 +532,15 @@ Protected Attributes</h2></td></tr>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">   66</span>    {</div>
 <div class="line"><span class="lineno">   67</span>        Vector3 pos;</div>
-<div class="line"><span class="lineno">   68</span>        <span class="keyword">const</span> <span class="keywordtype">float</span> mid = 0.5f * <a class="code hl_define" href="../../d4/d1c/a04208.html#a857252154f120575d940ffbdf63bace6">MAX_NUMBER_OF_GRIDS</a> * <a class="code hl_define" href="../../d4/d1c/a04208.html#a55c9adba46c0c14cd4ac80ab51228816">SIZE_OF_GRIDS</a>;</div>
+<div class="line"><span class="lineno">   68</span>        <span class="keyword">const</span> <span class="keywordtype">float</span> mid = 0.5f * <a class="code hl_define" href="../../d2/d27/a04301.html#a857252154f120575d940ffbdf63bace6">MAX_NUMBER_OF_GRIDS</a> * <a class="code hl_define" href="../../d2/d27/a04301.html#a55c9adba46c0c14cd4ac80ab51228816">SIZE_OF_GRIDS</a>;</div>
 <div class="line"><span class="lineno">   69</span>        pos.x = mid - x;</div>
 <div class="line"><span class="lineno">   70</span>        pos.y = mid - y;</div>
 <div class="line"><span class="lineno">   71</span>        pos.z = z;</div>
 <div class="line"><span class="lineno">   72</span> </div>
 <div class="line"><span class="lineno">   73</span>        <span class="keywordflow">return</span> pos;</div>
 <div class="line"><span class="lineno">   74</span>    }</div>
-<div class="ttc" id="aa04208_html_a55c9adba46c0c14cd4ac80ab51228816"><div class="ttname"><a href="../../d4/d1c/a04208.html#a55c9adba46c0c14cd4ac80ab51228816">SIZE_OF_GRIDS</a></div><div class="ttdeci">#define SIZE_OF_GRIDS</div><div class="ttdef"><b>Definition:</b> MapDefines.h:26</div></div>
-<div class="ttc" id="aa04208_html_a857252154f120575d940ffbdf63bace6"><div class="ttname"><a href="../../d4/d1c/a04208.html#a857252154f120575d940ffbdf63bace6">MAX_NUMBER_OF_GRIDS</a></div><div class="ttdeci">#define MAX_NUMBER_OF_GRIDS</div><div class="ttdef"><b>Definition:</b> MapDefines.h:24</div></div>
+<div class="ttc" id="aa04301_html_a55c9adba46c0c14cd4ac80ab51228816"><div class="ttname"><a href="../../d2/d27/a04301.html#a55c9adba46c0c14cd4ac80ab51228816">SIZE_OF_GRIDS</a></div><div class="ttdeci">#define SIZE_OF_GRIDS</div><div class="ttdef"><b>Definition:</b> MapDefines.h:26</div></div>
+<div class="ttc" id="aa04301_html_a857252154f120575d940ffbdf63bace6"><div class="ttname"><a href="../../d2/d27/a04301.html#a857252154f120575d940ffbdf63bace6">MAX_NUMBER_OF_GRIDS</a></div><div class="ttdeci">#define MAX_NUMBER_OF_GRIDS</div><div class="ttdef"><b>Definition:</b> MapDefines.h:24</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00024">MAX_NUMBER_OF_GRIDS</a>, and <a class="el" href="../../#l00026">SIZE_OF_GRIDS</a>.</p>
 
@@ -922,16 +922,16 @@ Protected Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  243</span>                <span class="keywordtype">float</span> height = instanceTree-&gt;second-&gt;getHeight(pos, maxSearchDist);</div>
 <div class="line"><span class="lineno">  244</span>                <span class="keywordflow">if</span> (height &gt;= G3D::finf())</div>
 <div class="line"><span class="lineno">  245</span>                {</div>
-<div class="line"><span class="lineno">  246</span>                    <span class="keywordflow">return</span> height = <a class="code hl_define" href="../../d7/dbe/a04193.html#a6d0d846568e1fbb60e05aacfa9c1c73c">VMAP_INVALID_HEIGHT_VALUE</a>;    <span class="comment">// No height</span></div>
+<div class="line"><span class="lineno">  246</span>                    <span class="keywordflow">return</span> height = <a class="code hl_define" href="../../d3/d45/a04280.html#a6d0d846568e1fbb60e05aacfa9c1c73c">VMAP_INVALID_HEIGHT_VALUE</a>;    <span class="comment">// No height</span></div>
 <div class="line"><span class="lineno">  247</span>                }</div>
 <div class="line"><span class="lineno">  248</span> </div>
 <div class="line"><span class="lineno">  249</span>                <span class="keywordflow">return</span> height;</div>
 <div class="line"><span class="lineno">  250</span>            }</div>
 <div class="line"><span class="lineno">  251</span>        }</div>
 <div class="line"><span class="lineno">  252</span> </div>
-<div class="line"><span class="lineno">  253</span>        <span class="keywordflow">return</span> <a class="code hl_define" href="../../d7/dbe/a04193.html#a6d0d846568e1fbb60e05aacfa9c1c73c">VMAP_INVALID_HEIGHT_VALUE</a>;</div>
+<div class="line"><span class="lineno">  253</span>        <span class="keywordflow">return</span> <a class="code hl_define" href="../../d3/d45/a04280.html#a6d0d846568e1fbb60e05aacfa9c1c73c">VMAP_INVALID_HEIGHT_VALUE</a>;</div>
 <div class="line"><span class="lineno">  254</span>    }</div>
-<div class="ttc" id="aa04193_html_a6d0d846568e1fbb60e05aacfa9c1c73c"><div class="ttname"><a href="../../d7/dbe/a04193.html#a6d0d846568e1fbb60e05aacfa9c1c73c">VMAP_INVALID_HEIGHT_VALUE</a></div><div class="ttdeci">#define VMAP_INVALID_HEIGHT_VALUE</div><div class="ttdef"><b>Definition:</b> IVMapMgr.h:49</div></div>
+<div class="ttc" id="aa04280_html_a6d0d846568e1fbb60e05aacfa9c1c73c"><div class="ttname"><a href="../../d3/d45/a04280.html#a6d0d846568e1fbb60e05aacfa9c1c73c">VMAP_INVALID_HEIGHT_VALUE</a></div><div class="ttdeci">#define VMAP_INVALID_HEIGHT_VALUE</div><div class="ttdef"><b>Definition:</b> IVMapMgr.h:49</div></div>
 <div class="ttc" id="aa04768_html_ae6fa86a61cff3bac928739b18ffb8c1ba2f9e18e9b167ecc25202f607e29af926"><div class="ttname"><a href="../../d5/d7a/a04768.html#ae6fa86a61cff3bac928739b18ffb8c1ba2f9e18e9b167ecc25202f607e29af926">VMAP::VMAP_DISABLE_HEIGHT</a></div><div class="ttdeci">@ VMAP_DISABLE_HEIGHT</div><div class="ttdef"><b>Definition:</b> VMapMgr2.h:70</div></div>
 <div class="ttc" id="aa04947_html_a0a3b250f0674709fac851c6e63bedd51"><div class="ttname"><a href="../../d7/dda/a04947.html#a0a3b250f0674709fac851c6e63bedd51">VMAP::IVMapMgr::isHeightCalcEnabled</a></div><div class="ttdeci">bool isHeightCalcEnabled() const</div><div class="ttdef"><b>Definition:</b> IVMapMgr.h:119</div></div>
 </div><!-- fragment -->
@@ -1081,7 +1081,7 @@ Protected Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  287</span>                <span class="keywordflow">if</span> (instanceTree-&gt;second-&gt;GetLocationInfo(pos, info))</div>
 <div class="line"><span class="lineno">  288</span>                {</div>
 <div class="line"><span class="lineno">  289</span>                    floor = info.ground_Z;</div>
-<div class="line"><span class="lineno">  290</span>                    <a class="code hl_define" href="../../d8/d19/a04259.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(floor &lt; std::numeric_limits&lt;float&gt;::max());</div>
+<div class="line"><span class="lineno">  290</span>                    <a class="code hl_define" href="../../d1/dd9/a04184.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(floor &lt; std::numeric_limits&lt;float&gt;::max());</div>
 <div class="line"><span class="lineno">  291</span>                    type = info.hitModel-&gt;GetLiquidType();  <span class="comment">// entry from LiquidType.dbc</span></div>
 <div class="line"><span class="lineno">  292</span>                    mogpFlags = info.hitModel-&gt;GetMogpFlags();</div>
 <div class="line"><span class="lineno">  293</span>                    <span class="keywordflow">if</span> (reqLiquidType &amp;&amp; !(<a class="code hl_variable" href="../../da/dd4/a04971.html#ae6be88472cb03382ebd998178371cb60">GetLiquidFlagsPtr</a>(type) &amp; reqLiquidType))</div>
@@ -1098,7 +1098,7 @@ Protected Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  304</span> </div>
 <div class="line"><span class="lineno">  305</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
 <div class="line"><span class="lineno">  306</span>    }</div>
-<div class="ttc" id="aa04259_html_af343b20373ba49a92fce523e948f2ab3"><div class="ttname"><a href="../../d8/d19/a04259.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a></div><div class="ttdeci">#define ASSERT</div><div class="ttdef"><b>Definition:</b> Errors.h:68</div></div>
+<div class="ttc" id="aa04184_html_af343b20373ba49a92fce523e948f2ab3"><div class="ttname"><a href="../../d1/dd9/a04184.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a></div><div class="ttdeci">#define ASSERT</div><div class="ttdef"><b>Definition:</b> Errors.h:68</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00065">convertPositionToInternalRep()</a>, <a class="el" href="../../#l00134">GetLiquidFlagsPtr</a>, <a class="el" href="../../#l00144">VMAP::ModelInstance::GetLiquidLevel()</a>, <a class="el" href="../../#l00480">VMAP::GroupModel::GetLiquidType()</a>, <a class="el" href="../../#l00076">GetMapTree()</a>, <a class="el" href="../../#l00090">VMAP::GroupModel::GetMogpFlags()</a>, <a class="el" href="../../#l00038">VMAP::LocationInfo::ground_Z</a>, <a class="el" href="../../#l00036">VMAP::LocationInfo::hitInstance</a>, <a class="el" href="../../#l00037">VMAP::LocationInfo::hitModel</a>, <a class="el" href="../../#l00080">iInstanceMapTrees</a>, <a class="el" href="../../#l00137">IsVMAPDisabledForPtr</a>, and <a class="el" href="../../#l00072">VMAP::VMAP_DISABLE_LIQUIDSTATUS</a>.</p>
 
@@ -1130,11 +1130,11 @@ Protected Attributes</h2></td></tr>
 <div class="fragment"><div class="line"><span class="lineno">   90</span>    {</div>
 <div class="line"><span class="lineno">   91</span>        std::stringstream fname;</div>
 <div class="line"><span class="lineno">   92</span>        fname.width(3);</div>
-<div class="line"><span class="lineno">   93</span>        fname &lt;&lt; std::setfill(<span class="charliteral">&#39;0&#39;</span>) &lt;&lt; mapId &lt;&lt; std::string(<a class="code hl_define" href="../../df/d4b/a04169.html#aad39c14e5fae9fd5141df154332ae6fd">MAP_FILENAME_EXTENSION2</a>);</div>
+<div class="line"><span class="lineno">   93</span>        fname &lt;&lt; std::setfill(<span class="charliteral">&#39;0&#39;</span>) &lt;&lt; mapId &lt;&lt; std::string(<a class="code hl_define" href="../../da/dfb/a04274.html#aad39c14e5fae9fd5141df154332ae6fd">MAP_FILENAME_EXTENSION2</a>);</div>
 <div class="line"><span class="lineno">   94</span> </div>
 <div class="line"><span class="lineno">   95</span>        <span class="keywordflow">return</span> fname.str();</div>
 <div class="line"><span class="lineno">   96</span>    }</div>
-<div class="ttc" id="aa04169_html_aad39c14e5fae9fd5141df154332ae6fd"><div class="ttname"><a href="../../df/d4b/a04169.html#aad39c14e5fae9fd5141df154332ae6fd">MAP_FILENAME_EXTENSION2</a></div><div class="ttdeci">#define MAP_FILENAME_EXTENSION2</div><div class="ttdef"><b>Definition:</b> VMapMgr2.h:28</div></div>
+<div class="ttc" id="aa04274_html_aad39c14e5fae9fd5141df154332ae6fd"><div class="ttname"><a href="../../da/dfb/a04274.html#aad39c14e5fae9fd5141df154332ae6fd">MAP_FILENAME_EXTENSION2</a></div><div class="ttdeci">#define MAP_FILENAME_EXTENSION2</div><div class="ttdef"><b>Definition:</b> VMapMgr2.h:28</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00028">MAP_FILENAME_EXTENSION2</a>.</p>
 
@@ -1602,12 +1602,12 @@ Protected Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  371</span>        ModelFileMap::iterator model = <a class="code hl_variable" href="../../da/dd4/a04971.html#ade2f4197e955eccae6a7e8143b776d41">iLoadedModelFiles</a>.find(filename);</div>
 <div class="line"><span class="lineno">  372</span>        <span class="keywordflow">if</span> (model == <a class="code hl_variable" href="../../da/dd4/a04971.html#ade2f4197e955eccae6a7e8143b776d41">iLoadedModelFiles</a>.end())</div>
 <div class="line"><span class="lineno">  373</span>        {</div>
-<div class="line"><span class="lineno">  374</span>            <a class="code hl_define" href="../../d6/d71/a04598.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;maps&quot;</span>, <span class="stringliteral">&quot;VMapMgr2: trying to unload non-loaded file &#39;{}&#39;&quot;</span>, filename);</div>
+<div class="line"><span class="lineno">  374</span>            <a class="code hl_define" href="../../df/dce/a04214.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;maps&quot;</span>, <span class="stringliteral">&quot;VMapMgr2: trying to unload non-loaded file &#39;{}&#39;&quot;</span>, filename);</div>
 <div class="line"><span class="lineno">  375</span>            <span class="keywordflow">return</span>;</div>
 <div class="line"><span class="lineno">  376</span>        }</div>
 <div class="line"><span class="lineno">  377</span>        <span class="keywordflow">if</span> (model-&gt;second.decRefCount() == 0)</div>
 <div class="line"><span class="lineno">  378</span>        {</div>
-<div class="line"><span class="lineno">  379</span>            <a class="code hl_define" href="../../d6/d71/a04598.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;maps&quot;</span>, <span class="stringliteral">&quot;VMapMgr2: unloading file &#39;{}&#39;&quot;</span>, filename);</div>
+<div class="line"><span class="lineno">  379</span>            <a class="code hl_define" href="../../df/dce/a04214.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;maps&quot;</span>, <span class="stringliteral">&quot;VMapMgr2: unloading file &#39;{}&#39;&quot;</span>, filename);</div>
 <div class="line"><span class="lineno">  380</span>            <span class="keyword">delete</span> model-&gt;second.getModel();</div>
 <div class="line"><span class="lineno">  381</span>            <a class="code hl_variable" href="../../da/dd4/a04971.html#ade2f4197e955eccae6a7e8143b776d41">iLoadedModelFiles</a>.erase(model);</div>
 <div class="line"><span class="lineno">  382</span>        }</div>
@@ -1856,7 +1856,7 @@ Protected Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d5/d7a/a04768.html">VMAP</a></li><li class="navelem"><a class="el" href="../../da/dd4/a04971.html">VMapMgr2</a></li>
-    <li class="footer">Generated on Mon May 26 2025 20:46:08 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Jun 2 2025 20:48:00 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

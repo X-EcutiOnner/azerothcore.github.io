@@ -1,5 +1,4 @@
 var a01253 =
 [
-    [ "SmartScript", "d6/d4a/a06227.html", "d6/d4a/a06227" ],
-    [ "SmartScript::SmartScriptFrame", "dd/d85/a06231.html", "dd/d85/a06231" ]
+    [ "OutdoorPvPScript", "d1/d2a/a10323.html", "d1/d2a/a10323" ]
 ];

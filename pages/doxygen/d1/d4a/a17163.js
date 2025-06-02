@@ -1,5 +1,6 @@
 var a17163 =
 [
-    [ "achievement_snakes_whyd_it_have_to_be_snakes", "d1/d4a/a17163.html#a4245e53260b83f77f9b4313e13f1f7d3", null ],
-    [ "OnCheck", "d1/d4a/a17163.html#a1bc62ef6dbdb98b9ca8ea3f3bfc742b0", null ]
+    [ "boss_slad_ranAI", "d4/de0/a17167.html", "d4/de0/a17167" ],
+    [ "boss_slad_ran", "d1/d4a/a17163.html#a9b960242e2f186d334d7ce04b999e274", null ],
+    [ "GetAI", "d1/d4a/a17163.html#a26651b7ca111bd64549283c37e34db11", null ]
 ];

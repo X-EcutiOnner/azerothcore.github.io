@@ -1,9 +1,14 @@
 var a21539 =
 [
-    [ "npc_bloodmage_laurithAI", "db/d91/a21539.html#a75dca4f2e90318f334e7e6385d4f7a6f", null ],
-    [ "Reset", "db/d91/a21539.html#afe9b10dfcee3b241a48e6f2e40eec657", null ],
-    [ "SetGUID", "db/d91/a21539.html#a50a144cf1545117d79268d3a18a4b4ec", null ],
-    [ "UpdateAI", "db/d91/a21539.html#a9752f518441071dd4a60cd63423bf9a3", null ],
-    [ "_events", "db/d91/a21539.html#a35facab84094071d952792a4c3e5015d", null ],
-    [ "_playerGUID", "db/d91/a21539.html#a6aab8db1d55d4fe3251b544c292711e8", null ]
+    [ "npc_hidden_cultistAI", "db/d91/a21539.html#a970aaa2401664337147696624cc8cac4", null ],
+    [ "AttackPlayer", "db/d91/a21539.html#a55e3b02d05f35d134fc605a13efe9018", null ],
+    [ "Initialize", "db/d91/a21539.html#ab9199126a5a19cc3c6dc612bc428d79c", null ],
+    [ "PreScript", "db/d91/a21539.html#a92be5361e2b28152adcca0629b286bb8", null ],
+    [ "Reset", "db/d91/a21539.html#afe38e448d86cdf910870d72a3890ae1f", null ],
+    [ "sGossipSelect", "db/d91/a21539.html#adf6d85bc5a32c8bd7c125d24f67411d9", null ],
+    [ "UpdateAI", "db/d91/a21539.html#a0bba4d10439d47d44ff856c7fec18595", null ],
+    [ "_emoteState", "db/d91/a21539.html#adb4e884787dc480358c5be22d276ec49", null ],
+    [ "_events", "db/d91/a21539.html#ab0494e33d16a43aa1426784d1882e41c", null ],
+    [ "_npcFlags", "db/d91/a21539.html#aea867d06cb737e2a44445c2c8c7d6e45", null ],
+    [ "_playerGUID", "db/d91/a21539.html#ac7ecf525ed8c0d2a3d00b34f7afdbf18", null ]
 ];

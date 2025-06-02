@@ -1,23 +1,28 @@
 var a00569 =
 [
-    [ "CreatureTextEntry", "d0/d73/a11347.html", "d0/d73/a11347" ],
-    [ "CreatureTextLocale", "db/d78/a11351.html", "db/d78/a11351" ],
-    [ "CreatureTextId", "d6/d95/a11355.html", "d6/d95/a11355" ],
-    [ "CreatureTextMgr", "d1/d2f/a11359.html", "d1/d2f/a11359" ],
-    [ "CreatureTextLocalizer< Builder >", "d9/d42/a11363.html", "d9/d42/a11363" ],
-    [ "sCreatureTextMgr", "d4/d9e/a00569.html#a2dc428da007cefe454220dcb355a1cde", null ],
-    [ "CreatureTextGroup", "d4/d9e/a00569.html#a9baeb5ff5e542c90d9058942cf0b4bbd", null ],
-    [ "CreatureTextHolder", "d4/d9e/a00569.html#aad09b58ddf486cb766cdeb242824cd2d", null ],
-    [ "CreatureTextMap", "d4/d9e/a00569.html#ac48698bcbe36b82577c41f42f3f23f09", null ],
-    [ "CreatureTextRepeatGroup", "d4/d9e/a00569.html#aa92b7ce1a721a3955751ae25cf01b22a", null ],
-    [ "CreatureTextRepeatIds", "d4/d9e/a00569.html#a4a74e5d0af63228e47e1f663570018ae", null ],
-    [ "CreatureTextRepeatMap", "d4/d9e/a00569.html#a919aeba9f103d29372eb10a72f3b1142", null ],
-    [ "LocaleCreatureTextMap", "d4/d9e/a00569.html#ab39b2d82775a84108d19ed009bd14747", null ],
-    [ "CreatureTextRange", "d4/d9e/a00569.html#adf847039afbebeda9e21210c1f4eb052", [
-      [ "TEXT_RANGE_NORMAL", "d4/d9e/a00569.html#adf847039afbebeda9e21210c1f4eb052a649e811a5e8853fa24088dbb708ce9ab", null ],
-      [ "TEXT_RANGE_AREA", "d4/d9e/a00569.html#adf847039afbebeda9e21210c1f4eb052a1982e7a678f4ba541ea6ecbfec493385", null ],
-      [ "TEXT_RANGE_ZONE", "d4/d9e/a00569.html#adf847039afbebeda9e21210c1f4eb052a182bd5362916ba67bcf6660ce37fae0a", null ],
-      [ "TEXT_RANGE_MAP", "d4/d9e/a00569.html#adf847039afbebeda9e21210c1f4eb052a90bf8cfe8ac6e4bac224bd3dd9fbc3a3", null ],
-      [ "TEXT_RANGE_WORLD", "d4/d9e/a00569.html#adf847039afbebeda9e21210c1f4eb052a3a88078985d9e80a4543acf0acde52d9", null ]
-    ] ]
+    [ "LanguageType", "d4/d9e/a00569.html#ada735c6d6b04a8714b2751f0c4053e34", [
+      [ "LT_BASIC_LATIN", "d4/d9e/a00569.html#ada735c6d6b04a8714b2751f0c4053e34ab693cfd22bb1894887b280b4d51ea3f5", null ],
+      [ "LT_EXTENDEN_LATIN", "d4/d9e/a00569.html#ada735c6d6b04a8714b2751f0c4053e34a42315588f1a9e4d3e29a1b49e7d973b8", null ],
+      [ "LT_CYRILLIC", "d4/d9e/a00569.html#ada735c6d6b04a8714b2751f0c4053e34aef4a14b5eb73e84982c14ba00e70b402", null ],
+      [ "LT_EAST_ASIA", "d4/d9e/a00569.html#ada735c6d6b04a8714b2751f0c4053e34aa059d83464c94afd9e5a7257238efa40", null ],
+      [ "LT_ANY", "d4/d9e/a00569.html#ada735c6d6b04a8714b2751f0c4053e34a400f6aeeb5f21442c121cccfda55689c", null ]
+    ] ],
+    [ "CheckAndFixGOChairHeightId", "d4/d9e/a00569.html#a4fb11f3d6b7a6d3bd9bf49578906fc10", null ],
+    [ "CheckGOConsumable", "d4/d9e/a00569.html#a9be9514be7df6dd6a73a9b3889eccb7c", null ],
+    [ "CheckGOLinkedTrapId", "d4/d9e/a00569.html#aa667048b6811121b380981beec1541fd", null ],
+    [ "CheckGOLockId", "d4/d9e/a00569.html#abc01124dd1fecdf98bbe1948541557b0", null ],
+    [ "CheckGONoDamageImmuneId", "d4/d9e/a00569.html#a288e20914d793779cf9f2bfd9951b812", null ],
+    [ "CheckGOSpellId", "d4/d9e/a00569.html#a288fa8c196f7adce5d43050849366b84", null ],
+    [ "GetLanguageDescByID", "d4/d9e/a00569.html#a5e723b66ad85198f3b0625903f5edac6", null ],
+    [ "GetRealmLanguageType", "d4/d9e/a00569.html#a1d95dafadc9b3a7d7bc91fa7f188d464", null ],
+    [ "GetScriptCommandName", "d4/d9e/a00569.html#a46371802334fe0589dc4f2b065b590e5", null ],
+    [ "GetScriptsMapByType", "d4/d9e/a00569.html#a34339a53afbec181844cc9d936d1d9a2", null ],
+    [ "GetScriptsTableNameByType", "d4/d9e/a00569.html#acc60b4b0ead06280f2b3289f8da57cb9", null ],
+    [ "GetSkillRangeType", "d4/d9e/a00569.html#a2e3e576d2e15a5033a24dec106b42453", null ],
+    [ "isValidString", "d4/d9e/a00569.html#a4f5a667f6078863c869b5c92387532fa", null ],
+    [ "normalizePlayerName", "d4/d9e/a00569.html#af55111c173fd16ba2898f3046dfa3d9a", null ],
+    [ "lang_description", "d4/d9e/a00569.html#a04765c27af649777907160e1147fb8fa", null ],
+    [ "sEventScripts", "d4/d9e/a00569.html#a99fc90e0f89dbe2684b6563324d8c23b", null ],
+    [ "sSpellScripts", "d4/d9e/a00569.html#a3c2a9c06ca944c1ce8c2f02692bda619", null ],
+    [ "sWaypointScripts", "d4/d9e/a00569.html#ad3bd41d0f54f2baa59f94e7fb1b426d1", null ]
 ];

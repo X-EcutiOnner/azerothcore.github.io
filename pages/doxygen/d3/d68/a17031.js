@@ -1,7 +1,6 @@
 var a17031 =
 [
-    [ "HandleEffectPeriodic", "d3/d68/a17031.html#a370e2cbf796c1bc0a891243b61c057e1", null ],
-    [ "PrepareAuraScript", "d3/d68/a17031.html#ac0cb90fe9bfa7f371cc5469626ce2467", null ],
-    [ "Register", "d3/d68/a17031.html#a5a44978cec95fef30c9ea4308bda2508", null ],
-    [ "Validate", "d3/d68/a17031.html#a8b9f7d76f86f1a5abffdead3ebee694a", null ]
+    [ "npc_pos_freed_slaveAI", "d3/d68/a17031.html#ad5728e427f9f4a65cea13ec2c5a01453", null ],
+    [ "CanAIAttack", "d3/d68/a17031.html#a76818ee5fcfcc5678fa9d0957a424d9b", null ],
+    [ "EnterEvadeMode", "d3/d68/a17031.html#a234135e6bea0d91611fbdbae4dec2ea1", null ]
 ];

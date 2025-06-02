@@ -1,20 +1,9 @@
 var a01583 =
 [
-    [ "WardenCheck", "d9/d11/a11447.html", "d9/d11/a11447" ],
-    [ "WardenCheckResult", "dd/da7/a11451.html", "dd/da7/a11451" ],
-    [ "WardenCheckMgr", "d9/d63/a11455.html", "d9/d63/a11455" ],
-    [ "sWardenCheckMgr", "d9/d1b/a01583.html#a367963ecc82479f8bea3aea9e235a85c", null ],
-    [ "WardenActions", "d9/d1b/a01583.html#acd25f1c729cc9c78338c6bc117dcd5e1", [
-      [ "WARDEN_ACTION_LOG", "d9/d1b/a01583.html#acd25f1c729cc9c78338c6bc117dcd5e1a886d1d7fc710f19b1f98a28dd6652d81", null ],
-      [ "WARDEN_ACTION_KICK", "d9/d1b/a01583.html#acd25f1c729cc9c78338c6bc117dcd5e1a3e6856d34f7e97f6cafcce4a86315d13", null ],
-      [ "WARDEN_ACTION_BAN", "d9/d1b/a01583.html#acd25f1c729cc9c78338c6bc117dcd5e1a420c50c42a2e76090d4a4ab690885ae0", null ]
+    [ "ePoints", "d9/d1b/a01583.html#a2604bd06487e34b78d3e50cd892f3c4d", [
+      [ "POINT_LAST_POINT", "d9/df5/a01574.html#a2604bd06487e34b78d3e50cd892f3c4da7d10089a0c5a8c42786b90cd3ba643cb", null ],
+      [ "POINT_HOME", "d9/df5/a01574.html#a2604bd06487e34b78d3e50cd892f3c4da032be97ee26935943c3313fb24491162", null ],
+      [ "POINT_COMBAT_START", "d9/d1b/a01583.html#a2604bd06487e34b78d3e50cd892f3c4da91adf90069f0b0a515897fbdc91e20b4", null ]
     ] ],
-    [ "WardenCheckTypes", "d9/d1b/a01583.html#ad353d1b1b229bf72b97440ac296da2f0", [
-      [ "WARDEN_CHECK_MEM_TYPE", "d9/d1b/a01583.html#ad353d1b1b229bf72b97440ac296da2f0a3a995022793f145e1eb48b42d3aadfb3", null ],
-      [ "WARDEN_CHECK_LUA_TYPE", "d9/d1b/a01583.html#ad353d1b1b229bf72b97440ac296da2f0a78405e80a7b4bf4186706d64389e96af", null ],
-      [ "WARDEN_CHECK_OTHER_TYPE", "d9/d1b/a01583.html#ad353d1b1b229bf72b97440ac296da2f0ab3ea81385a6db9185a94c0715749ffe2", null ]
-    ] ],
-    [ "MAX_WARDEN_ACTION", "d9/d1b/a01583.html#afa0b1cff6db4dd71ef500011182f2834", null ],
-    [ "MAX_WARDEN_CHECK_TYPES", "d9/d1b/a01583.html#a80604a840828219101f07100a7a48dad", null ],
-    [ "WARDEN_MAX_LUA_CHECK_LENGTH", "d9/d1b/a01583.html#a005df8388201fb598a4eedfeac422fbc", null ]
+    [ "MAX_PLAYER_DISTANCE", "d9/d1b/a01583.html#acd0b392fc88f24b24201fba8b76d33a2", null ]
 ];

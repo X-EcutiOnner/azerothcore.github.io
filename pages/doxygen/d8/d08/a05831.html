@@ -318,9 +318,9 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  244</span>{</div>
-<div class="line"><span class="lineno">  245</span>    <a class="code hl_define" href="../../d8/d19/a04259.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(sizeRows == <a class="code hl_variable" href="../../d8/d08/a05831.html#a050d86e2b341e4a17aaff6614be227f5">_fieldCount</a>);</div>
+<div class="line"><span class="lineno">  245</span>    <a class="code hl_define" href="../../d1/dd9/a04184.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(sizeRows == <a class="code hl_variable" href="../../d8/d08/a05831.html#a050d86e2b341e4a17aaff6614be227f5">_fieldCount</a>);</div>
 <div class="line"><span class="lineno">  246</span>}</div>
-<div class="ttc" id="aa04259_html_af343b20373ba49a92fce523e948f2ab3"><div class="ttname"><a href="../../d8/d19/a04259.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a></div><div class="ttdeci">#define ASSERT</div><div class="ttdef"><b>Definition:</b> Errors.h:68</div></div>
+<div class="ttc" id="aa04184_html_af343b20373ba49a92fce523e948f2ab3"><div class="ttname"><a href="../../d1/dd9/a04184.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a></div><div class="ttdeci">#define ASSERT</div><div class="ttdef"><b>Definition:</b> Errors.h:68</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00085">_fieldCount</a>, and <a class="el" href="../../#l00068">ASSERT</a>.</p>
 
@@ -532,7 +532,7 @@ template&lt;typename... Ts&gt; </div>
       </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  217</span>{</div>
-<div class="line"><span class="lineno">  218</span>    <a class="code hl_define" href="../../d8/d19/a04259.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(index &lt; <a class="code hl_variable" href="../../d8/d08/a05831.html#a050d86e2b341e4a17aaff6614be227f5">_fieldCount</a>);</div>
+<div class="line"><span class="lineno">  218</span>    <a class="code hl_define" href="../../d1/dd9/a04184.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(index &lt; <a class="code hl_variable" href="../../d8/d08/a05831.html#a050d86e2b341e4a17aaff6614be227f5">_fieldCount</a>);</div>
 <div class="line"><span class="lineno">  219</span>    <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d8/d08/a05831.html#a6c6df427c8f223bde84929df62b906ae">_fields</a>[index].name;</div>
 <div class="line"><span class="lineno">  220</span>}</div>
 </div><!-- fragment -->
@@ -598,7 +598,7 @@ template&lt;typename... Ts&gt; </div>
 <div class="line"><span class="lineno">  202</span>    <span class="keywordtype">unsigned</span> <span class="keywordtype">long</span>* lengths = mysql_fetch_lengths(<a class="code hl_variable" href="../../d8/d08/a05831.html#ae4021491a4cdc89d2c69a83e8dbc1a4c">_result</a>);</div>
 <div class="line"><span class="lineno">  203</span>    <span class="keywordflow">if</span> (!lengths)</div>
 <div class="line"><span class="lineno">  204</span>    {</div>
-<div class="line"><span class="lineno">  205</span>        <a class="code hl_define" href="../../d6/d71/a04598.html#adf09840a666e1d86bcd3439105db6edc">LOG_WARN</a>(<span class="stringliteral">&quot;sql.sql&quot;</span>, <span class="stringliteral">&quot;{}:mysql_fetch_lengths, cannot retrieve value lengths. Error {}.&quot;</span>, __FUNCTION__, mysql_error(<a class="code hl_variable" href="../../d8/d08/a05831.html#ae4021491a4cdc89d2c69a83e8dbc1a4c">_result</a>-&gt;handle));</div>
+<div class="line"><span class="lineno">  205</span>        <a class="code hl_define" href="../../df/dce/a04214.html#adf09840a666e1d86bcd3439105db6edc">LOG_WARN</a>(<span class="stringliteral">&quot;sql.sql&quot;</span>, <span class="stringliteral">&quot;{}:mysql_fetch_lengths, cannot retrieve value lengths. Error {}.&quot;</span>, __FUNCTION__, mysql_error(<a class="code hl_variable" href="../../d8/d08/a05831.html#ae4021491a4cdc89d2c69a83e8dbc1a4c">_result</a>-&gt;handle));</div>
 <div class="line"><span class="lineno">  206</span>        <a class="code hl_function" href="../../d8/d08/a05831.html#a1bceb52e28ae6337c9e485bc0d16884c">CleanUp</a>();</div>
 <div class="line"><span class="lineno">  207</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
 <div class="line"><span class="lineno">  208</span>    }</div>
@@ -608,7 +608,7 @@ template&lt;typename... Ts&gt; </div>
 <div class="line"><span class="lineno">  212</span> </div>
 <div class="line"><span class="lineno">  213</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
 <div class="line"><span class="lineno">  214</span>}</div>
-<div class="ttc" id="aa04598_html_adf09840a666e1d86bcd3439105db6edc"><div class="ttname"><a href="../../d6/d71/a04598.html#adf09840a666e1d86bcd3439105db6edc">LOG_WARN</a></div><div class="ttdeci">#define LOG_WARN(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:161</div></div>
+<div class="ttc" id="aa04214_html_adf09840a666e1d86bcd3439105db6edc"><div class="ttname"><a href="../../df/dce/a04214.html#adf09840a666e1d86bcd3439105db6edc">LOG_WARN</a></div><div class="ttdeci">#define LOG_WARN(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:161</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00084">_currentRow</a>, <a class="el" href="../../#l00085">_fieldCount</a>, <a class="el" href="../../#l00091">_result</a>, <a class="el" href="../../#l00222">CleanUp()</a>, and <a class="el" href="../../#l00161">LOG_WARN</a>.</p>
 
@@ -658,7 +658,7 @@ template&lt;typename... Ts&gt; </div>
       </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  238</span>{</div>
-<div class="line"><span class="lineno">  239</span>    <a class="code hl_define" href="../../d8/d19/a04259.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(index &lt; <a class="code hl_variable" href="../../d8/d08/a05831.html#a050d86e2b341e4a17aaff6614be227f5">_fieldCount</a>);</div>
+<div class="line"><span class="lineno">  239</span>    <a class="code hl_define" href="../../d1/dd9/a04184.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(index &lt; <a class="code hl_variable" href="../../d8/d08/a05831.html#a050d86e2b341e4a17aaff6614be227f5">_fieldCount</a>);</div>
 <div class="line"><span class="lineno">  240</span>    <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d8/d08/a05831.html#a063bf701c2219869bc15c9bb2cb4574f">_currentRow</a>[index];</div>
 <div class="line"><span class="lineno">  241</span>}</div>
 </div><!-- fragment -->
@@ -815,7 +815,7 @@ template&lt;typename... Ts&gt; </div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d8/d08/a05831.html">ResultSet</a></li>
-    <li class="footer">Generated on Mon May 26 2025 20:45:41 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Jun 2 2025 20:47:32 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

@@ -1,6 +1,6 @@
 var a22171 =
 [
-    [ "HandleScriptEffect", "d0/d35/a22171.html#a1dac2806b74471332aec0595118005a3", null ],
-    [ "PrepareSpellScript", "d0/d35/a22171.html#adb1efd90b7ffa23887ca4aa3afb6d99e", null ],
-    [ "Register", "d0/d35/a22171.html#a2ff0986c88dcbd9aac263f62b772c992", null ]
+    [ "npc_vics_flying_machineAI", "dd/d8a/a22175.html", "dd/d8a/a22175" ],
+    [ "npc_vics_flying_machine", "d0/d35/a22171.html#ac0f1e83a9f53f1e38e81804f0332e3fd", null ],
+    [ "GetAI", "d0/d35/a22171.html#aac2a7cabd2e87705e9a1b3bfebb89eae", null ]
 ];

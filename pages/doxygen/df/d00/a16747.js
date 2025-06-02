@@ -1,6 +1,6 @@
 var a16747 =
 [
-    [ "boss_falricAI", "d6/d9b/a16751.html", "d6/d9b/a16751" ],
-    [ "boss_falric", "df/d00/a16747.html#aa64253f502f79db5947c09788fb66deb", null ],
-    [ "GetAI", "df/d00/a16747.html#a95249877208d19bb54edd8de18616158", null ]
+    [ "entry", "df/d00/a16747.html#a80e1510436336f4ed17748a06b27178d", null ],
+    [ "pathId", "df/d00/a16747.html#a0b7e499d633e11b314852fb1154ea8e6", null ],
+    [ "startPosition", "df/d00/a16747.html#ac8c0dd74d76778aa2f5948b5c8c5ada4", null ]
 ];

@@ -288,14 +288,14 @@ Static Public Attributes</h2></td></tr>
 <div class="line"><span class="lineno">   32</span> </div>
 <div class="line"><span class="lineno">   33</span>        <span class="keywordflow">if</span> (payloadId &gt; <a class="code hl_variable" href="../../df/dab/a11475.html#a0a6537e719e9f8f4c371340d0d1b4db7">WardenPayloadMgr::WardenPayloadOffsetMax</a>)</div>
 <div class="line"><span class="lineno">   34</span>        {</div>
-<div class="line"><span class="lineno">   35</span>            <a class="code hl_define" href="../../d6/d71/a04598.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;warden&quot;</span>, <span class="stringliteral">&quot;Max warden payload id of &#39;{}&#39; passed!&quot;</span>, <a class="code hl_variable" href="../../df/dab/a11475.html#a0a6537e719e9f8f4c371340d0d1b4db7">WardenPayloadMgr::WardenPayloadOffsetMax</a>);</div>
+<div class="line"><span class="lineno">   35</span>            <a class="code hl_define" href="../../df/dce/a04214.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;warden&quot;</span>, <span class="stringliteral">&quot;Max warden payload id of &#39;{}&#39; passed!&quot;</span>, <a class="code hl_variable" href="../../df/dab/a11475.html#a0a6537e719e9f8f4c371340d0d1b4db7">WardenPayloadMgr::WardenPayloadOffsetMax</a>);</div>
 <div class="line"><span class="lineno">   36</span>            <span class="keywordflow">return</span> 0;</div>
 <div class="line"><span class="lineno">   37</span>        }</div>
 <div class="line"><span class="lineno">   38</span>    }</div>
 <div class="line"><span class="lineno">   39</span> </div>
 <div class="line"><span class="lineno">   40</span>    <span class="keywordflow">return</span> payloadId;</div>
 <div class="line"><span class="lineno">   41</span>}</div>
-<div class="ttc" id="aa04598_html_a43832e3fa8508deb4ce43e520005fcd9"><div class="ttname"><a href="../../d6/d71/a04598.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a></div><div class="ttdeci">#define LOG_ERROR(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:157</div></div>
+<div class="ttc" id="aa04214_html_a43832e3fa8508deb4ce43e520005fcd9"><div class="ttname"><a href="../../df/dce/a04214.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a></div><div class="ttdeci">#define LOG_ERROR(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:157</div></div>
 <div class="ttc" id="aa04649_html_ad9c79638db63f1dfe2b085743b5cbf7b"><div class="ttname"><a href="../../da/d71/a04649.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a></div><div class="ttdeci">std::uint16_t uint16</div><div class="ttdef"><b>Definition:</b> Define.h:108</div></div>
 <div class="ttc" id="aa11475_html_a0a6537e719e9f8f4c371340d0d1b4db7"><div class="ttname"><a href="../../df/dab/a11475.html#a0a6537e719e9f8f4c371340d0d1b4db7">WardenPayloadMgr::WardenPayloadOffsetMax</a></div><div class="ttdeci">static uint16 constexpr WardenPayloadOffsetMax</div><div class="ttdoc">The maximum id available for custom payloads.</div><div class="ttdef"><b>Definition:</b> WardenPayloadMgr.h:120</div></div>
 <div class="ttc" id="aa11475_html_a65c6878274bc49b921714278d77eed56"><div class="ttname"><a href="../../df/dab/a11475.html#a65c6878274bc49b921714278d77eed56">WardenPayloadMgr::CachedChecks</a></div><div class="ttdeci">std::map&lt; uint16, WardenCheck &gt; CachedChecks</div><div class="ttdoc">The cached payloads that are accessed by payload id.</div><div class="ttdef"><b>Definition:</b> WardenPayloadMgr.h:135</div></div>
@@ -436,7 +436,7 @@ Static Public Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  112</span>    <span class="comment">//Do not queue a payload if there is no payload matching the payloadId.</span></div>
 <div class="line"><span class="lineno">  113</span>    <span class="keywordflow">if</span> (it == <a class="code hl_variable" href="../../df/dab/a11475.html#a65c6878274bc49b921714278d77eed56">CachedChecks</a>.end())</div>
 <div class="line"><span class="lineno">  114</span>    {</div>
-<div class="line"><span class="lineno">  115</span>        <a class="code hl_define" href="../../d6/d71/a04598.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;warden&quot;</span>, <span class="stringliteral">&quot;Failed to queue payload id &#39;{}&#39; as it does not exist in CachedChecks.&quot;</span>, payloadId);</div>
+<div class="line"><span class="lineno">  115</span>        <a class="code hl_define" href="../../df/dce/a04214.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;warden&quot;</span>, <span class="stringliteral">&quot;Failed to queue payload id &#39;{}&#39; as it does not exist in CachedChecks.&quot;</span>, payloadId);</div>
 <div class="line"><span class="lineno">  116</span>        <span class="keywordflow">return</span>;</div>
 <div class="line"><span class="lineno">  117</span>    }</div>
 <div class="line"><span class="lineno">  118</span> </div>
@@ -487,7 +487,7 @@ Static Public Attributes</h2></td></tr>
 <div class="line"><span class="lineno">   46</span> </div>
 <div class="line"><span class="lineno">   47</span>    <span class="keywordflow">if</span> (!payloadId || !<a class="code hl_function" href="../../df/dab/a11475.html#ab3b7d9cbbb94eab430a0caff00448a4a">RegisterPayload</a>(payload, payloadId, <span class="keyword">false</span>))</div>
 <div class="line"><span class="lineno">   48</span>    {</div>
-<div class="line"><span class="lineno">   49</span>        <a class="code hl_define" href="../../d6/d71/a04598.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;warden&quot;</span>, <span class="stringliteral">&quot;Failed to register payload.&quot;</span>);</div>
+<div class="line"><span class="lineno">   49</span>        <a class="code hl_define" href="../../df/dce/a04214.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;warden&quot;</span>, <span class="stringliteral">&quot;Failed to register payload.&quot;</span>);</div>
 <div class="line"><span class="lineno">   50</span>        <span class="keywordflow">return</span> 0;</div>
 <div class="line"><span class="lineno">   51</span>    }</div>
 <div class="line"><span class="lineno">   52</span> </div>
@@ -553,14 +553,14 @@ Static Public Attributes</h2></td></tr>
 <div class="line"><span class="lineno">   58</span>    <span class="comment">//Payload id should be over or equal to the offset to prevent conflicts.</span></div>
 <div class="line"><span class="lineno">   59</span>    <span class="keywordflow">if</span> (payloadId &lt; <a class="code hl_variable" href="../../df/dab/a11475.html#a9f7e5a100c56a6ee9a6bd39a792b9e44">WardenPayloadMgr::WardenPayloadOffsetMin</a>)</div>
 <div class="line"><span class="lineno">   60</span>    {</div>
-<div class="line"><span class="lineno">   61</span>        <a class="code hl_define" href="../../d6/d71/a04598.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;warden&quot;</span>, <span class="stringliteral">&quot;Tried to register payloadId lower than &#39;{}&#39;.&quot;</span>, <a class="code hl_variable" href="../../df/dab/a11475.html#a9f7e5a100c56a6ee9a6bd39a792b9e44">WardenPayloadMgr::WardenPayloadOffsetMin</a>);</div>
+<div class="line"><span class="lineno">   61</span>        <a class="code hl_define" href="../../df/dce/a04214.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;warden&quot;</span>, <span class="stringliteral">&quot;Tried to register payloadId lower than &#39;{}&#39;.&quot;</span>, <a class="code hl_variable" href="../../df/dab/a11475.html#a9f7e5a100c56a6ee9a6bd39a792b9e44">WardenPayloadMgr::WardenPayloadOffsetMin</a>);</div>
 <div class="line"><span class="lineno">   62</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
 <div class="line"><span class="lineno">   63</span>    }</div>
 <div class="line"><span class="lineno">   64</span> </div>
 <div class="line"><span class="lineno">   65</span>    <span class="keyword">auto</span> it = <a class="code hl_variable" href="../../df/dab/a11475.html#a65c6878274bc49b921714278d77eed56">CachedChecks</a>.find(payloadId);</div>
 <div class="line"><span class="lineno">   66</span>    <span class="keywordflow">if</span> (it != <a class="code hl_variable" href="../../df/dab/a11475.html#a65c6878274bc49b921714278d77eed56">CachedChecks</a>.end() &amp;&amp; !replace)</div>
 <div class="line"><span class="lineno">   67</span>    {</div>
-<div class="line"><span class="lineno">   68</span>        <a class="code hl_define" href="../../d6/d71/a04598.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;warden&quot;</span>, <span class="stringliteral">&quot;Payload Id &#39;{}&#39; already exists in CachedChecks.&quot;</span>, payloadId);</div>
+<div class="line"><span class="lineno">   68</span>        <a class="code hl_define" href="../../df/dce/a04214.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;warden&quot;</span>, <span class="stringliteral">&quot;Payload Id &#39;{}&#39; already exists in CachedChecks.&quot;</span>, payloadId);</div>
 <div class="line"><span class="lineno">   69</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
 <div class="line"><span class="lineno">   70</span>    }</div>
 <div class="line"><span class="lineno">   71</span> </div>
@@ -570,7 +570,7 @@ Static Public Attributes</h2></td></tr>
 <div class="line"><span class="lineno">   75</span>    wCheck.<a class="code hl_variable" href="../../d9/d11/a11447.html#a51a0cea0381f2b64e9d240ac39591172">CheckId</a> = payloadId;</div>
 <div class="line"><span class="lineno">   76</span> </div>
 <div class="line"><span class="lineno">   77</span>    std::string idStr = <a class="code hl_function" href="../../db/d75/a04761.html#a868406b9609960d4ae0189588c8cbbf4">Acore::StringFormat</a>(<span class="stringliteral">&quot;{:04}&quot;</span>, payloadId);</div>
-<div class="line"><span class="lineno">   78</span>    <a class="code hl_define" href="../../d8/d19/a04259.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(idStr.size() == 4);</div>
+<div class="line"><span class="lineno">   78</span>    <a class="code hl_define" href="../../d1/dd9/a04184.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(idStr.size() == 4);</div>
 <div class="line"><span class="lineno">   79</span>    std::copy(idStr.begin(), idStr.end(), wCheck.<a class="code hl_variable" href="../../d9/d11/a11447.html#a15ecbc1a6582666a14423fa157d2fb84">IdStr</a>.begin());</div>
 <div class="line"><span class="lineno">   80</span> </div>
 <div class="line"><span class="lineno">   81</span>    <span class="keywordflow">if</span> (replace)</div>
@@ -582,7 +582,7 @@ Static Public Attributes</h2></td></tr>
 <div class="line"><span class="lineno">   87</span> </div>
 <div class="line"><span class="lineno">   88</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
 <div class="line"><span class="lineno">   89</span>}</div>
-<div class="ttc" id="aa04259_html_af343b20373ba49a92fce523e948f2ab3"><div class="ttname"><a href="../../d8/d19/a04259.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a></div><div class="ttdeci">#define ASSERT</div><div class="ttdef"><b>Definition:</b> Errors.h:68</div></div>
+<div class="ttc" id="aa04184_html_af343b20373ba49a92fce523e948f2ab3"><div class="ttname"><a href="../../d1/dd9/a04184.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a></div><div class="ttdeci">#define ASSERT</div><div class="ttdef"><b>Definition:</b> Errors.h:68</div></div>
 <div class="ttc" id="aa04761_html_a868406b9609960d4ae0189588c8cbbf4"><div class="ttname"><a href="../../db/d75/a04761.html#a868406b9609960d4ae0189588c8cbbf4">Acore::StringFormat</a></div><div class="ttdeci">std::string StringFormat(FormatString&lt; Args... &gt; fmt, Args &amp;&amp;... args)</div><div class="ttdoc">Default AC string format function.</div><div class="ttdef"><b>Definition:</b> StringFormat.h:34</div></div>
 <div class="ttc" id="aa11447_html"><div class="ttname"><a href="../../d9/d11/a11447.html">WardenCheck</a></div><div class="ttdef"><b>Definition:</b> WardenCheckMgr.h:44</div></div>
 <div class="ttc" id="aa11447_html_a15ecbc1a6582666a14423fa157d2fb84"><div class="ttname"><a href="../../d9/d11/a11447.html#a15ecbc1a6582666a14423fa157d2fb84">WardenCheck::IdStr</a></div><div class="ttdeci">std::array&lt; char, 4 &gt; IdStr</div><div class="ttdef"><b>Definition:</b> WardenCheckMgr.h:52</div></div>
@@ -748,7 +748,7 @@ Static Public Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../df/dab/a11475.html">WardenPayloadMgr</a></li>
-    <li class="footer">Generated on Mon May 26 2025 20:46:04 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Jun 2 2025 20:47:56 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

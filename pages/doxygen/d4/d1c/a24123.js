@@ -1,6 +1,6 @@
 var a24123 =
 [
-    [ "npcs_flanis_swiftwing_and_kagrosh", "d4/d1c/a24123.html#aa95eceea94521947bd443805c8ddb52d", null ],
-    [ "OnGossipHello", "d4/d1c/a24123.html#a7f331c38ec82d2c69bce4b1f861527a0", null ],
-    [ "OnGossipSelect", "d4/d1c/a24123.html#aff34165955ba93e1fcd2b9731894d871", null ]
+    [ "npc_dragonmaw_peonAI", "d2/d68/a24127.html", "d2/d68/a24127" ],
+    [ "npc_dragonmaw_peon", "d4/d1c/a24123.html#a356f8f1181d62dd5a4bc41c98ab21720", null ],
+    [ "GetAI", "d4/d1c/a24123.html#aab1e4aee65a5465bc545a9c067200d2a", null ]
 ];

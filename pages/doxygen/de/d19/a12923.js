@@ -1,6 +1,10 @@
 var a12923 =
 [
-    [ "npc_high_inquisitor_valrothAI", "d1/d7c/a12927.html", "d1/d7c/a12927" ],
-    [ "npc_high_inquisitor_valroth", "de/d19/a12923.html#a6e244a411249667a84f0d34ca1b1f17b", null ],
-    [ "GetAI", "de/d19/a12923.html#a6374b80425da8bc41d9d076e6e7d7bef", null ]
+    [ "npc_scarlet_courierAI", "de/d19/a12923.html#a83c5e32659d38a513790322e46dcc283", null ],
+    [ "JustEngagedWith", "de/d19/a12923.html#aa470197f0949a413c421bda8c7c09279", null ],
+    [ "MovementInform", "de/d19/a12923.html#add19812d92d62b602f96ffc5fb513d6c", null ],
+    [ "Reset", "de/d19/a12923.html#ab642188631b67ae5ff5fd312eaf37ff0", null ],
+    [ "UpdateAI", "de/d19/a12923.html#ac37287a77e37785b606c742ff8d6eeeb", null ],
+    [ "uiStage", "de/d19/a12923.html#a2f920922f8c6f1a878d0e4978e081257", null ],
+    [ "uiStage_timer", "de/d19/a12923.html#a8ee22a276535a3a9c2f12a62e984d55b", null ]
 ];

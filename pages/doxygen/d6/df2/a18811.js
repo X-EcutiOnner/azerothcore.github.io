@@ -1,6 +1,6 @@
 var a18811 =
 [
-    [ "RespawnEvent", "d6/df2/a18811.html#accc0d5638ff7a493fa116ac2e8f2e58b", null ],
-    [ "Execute", "d6/df2/a18811.html#a2e58f4e472fb72cf5401f11be6e5e136", null ],
-    [ "_owner", "d6/df2/a18811.html#adb0835b4a2e7a2795bb81f0a1e3c911a", null ]
+    [ "icecrown_citadel_teleport", "d6/df2/a18811.html#ab74d5962073dcf3b4488c33aaa935377", null ],
+    [ "OnGossipHello", "d6/df2/a18811.html#a97b0d94a5c7388a5dfce76f3bd3be24f", null ],
+    [ "OnGossipSelect", "d6/df2/a18811.html#a0b160bd86341542ddb1c80f3d4bd691f", null ]
 ];

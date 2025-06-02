@@ -1,13 +1,18 @@
 var a04049 =
 [
-    [ "instance_sunken_temple", "d5/ddf/a13127.html", "d5/ddf/a13127" ],
-    [ "instance_sunken_temple::instance_sunken_temple_InstanceMapScript", "d3/df1/a13131.html", "d3/df1/a13131" ],
-    [ "at_malfurion_stormrage", "d0/d0d/a13135.html", "d0/d0d/a13135" ],
-    [ "spell_temple_of_atal_hakkar_hex_of_jammal_an_aura", "dd/dcf/a13139.html", "dd/dcf/a13139" ],
-    [ "spell_temple_of_atal_hakkar_awaken_the_soulflayer", "d0/d10/a13143.html", "d0/d10/a13143" ],
-    [ "MalfurionMisc", "db/dfa/a04049.html#a754fcfafd80b5a6c2ea444f49cfbc7d1", [
-      [ "QUEST_ERANIKUS_TYRANT_OF_DREAMS", "db/dfa/a04049.html#a754fcfafd80b5a6c2ea444f49cfbc7d1a99089f2ff32693b053abae21941aed5d", null ],
-      [ "QUEST_THE_CHARGE_OF_DRAGONFLIGHTS", "db/dfa/a04049.html#a754fcfafd80b5a6c2ea444f49cfbc7d1aabeeb62adbb72d2616aa2e6e393f2526", null ]
+    [ "OutdoorPvPSI", "d6/d3c/a22499.html", "d6/d3c/a22499" ],
+    [ "OutdoorPvPSISpells", "db/dfa/a04049.html#a62a8c4b8a007cc2da63e91f039a9b0f5", [
+      [ "SI_SILITHYST_FLAG_GO_SPELL", "db/dfa/a04049.html#a62a8c4b8a007cc2da63e91f039a9b0f5add71e365726ced6250de08c4c883f055", null ],
+      [ "SI_SILITHYST_FLAG", "db/dfa/a04049.html#a62a8c4b8a007cc2da63e91f039a9b0f5a1bf0ed27bacc509ec19e1648e1a9ec74", null ],
+      [ "SI_TRACES_OF_SILITHYST", "db/dfa/a04049.html#a62a8c4b8a007cc2da63e91f039a9b0f5a8f61c4e11367451aa4b95455a9086410", null ],
+      [ "SI_CENARION_FAVOR", "db/dfa/a04049.html#a62a8c4b8a007cc2da63e91f039a9b0f5a113a47f651228b031a6d40c36d34d2fb", null ]
     ] ],
-    [ "AddSC_instance_sunken_temple", "db/dfa/a04049.html#ab3f2a91fe096585f54078e8884cb25f7", null ]
+    [ "OutdoorPvPSIBuffZones", "db/dfa/a04049.html#a155bfb73bcc562d8eaaa4d62d52e59bc", null ],
+    [ "OutdoorPvPSIBuffZonesNum", "db/dfa/a04049.html#aaf633cff2fc1b3449acb7753f698c4d4", null ],
+    [ "SI_AREATRIGGER_A", "db/dfa/a04049.html#aca1406dea9e721dc32c834e8b85b2d9a", null ],
+    [ "SI_AREATRIGGER_H", "db/dfa/a04049.html#abb17804eb9913c298a5dae804e1c7206", null ],
+    [ "SI_MAX_RESOURCES", "db/dfa/a04049.html#a9558d0ea12ff1048686daf5bf0ff999c", null ],
+    [ "SI_SILITHYST_MOUND", "db/dfa/a04049.html#a5a6a1265e5e65971f8d86be718ea3bb3", null ],
+    [ "SI_TURNIN_QUEST_CM_A", "db/dfa/a04049.html#a18c47c74867642b4bd8cc166d9fe1e79", null ],
+    [ "SI_TURNIN_QUEST_CM_H", "db/dfa/a04049.html#ad1787da9136bc956357571149e1f6b60", null ]
 ];

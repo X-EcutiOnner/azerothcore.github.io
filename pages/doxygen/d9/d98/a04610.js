@@ -1,6 +1,5 @@
 var a04610 =
 [
-    [ "GameObjectModelOwnerBase", "d1/d9f/a05035.html", "d1/d9f/a05035" ],
-    [ "GameObjectModel", "d4/d6b/a05039.html", "d4/d6b/a05039" ],
-    [ "LoadGameObjectModelList", "d9/d98/a04610.html#a5a80774080fc05f90c7d92213fda6788", null ]
+    [ "HMAC_RESULT_SIZE", "d9/d98/a04610.html#abdb09168f87cd99a498636550843012d", null ],
+    [ "TOTP_INTERVAL", "d9/d98/a04610.html#abcaccdfb09251b1b2856cc0c48c64eda", null ]
 ];

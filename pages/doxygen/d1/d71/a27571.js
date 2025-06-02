@@ -1,6 +1,6 @@
 var a27571 =
 [
-    [ "npc_experience", "d1/d71/a27571.html#a48ea13099fd32bcae1543a152de0bdf4", null ],
-    [ "OnGossipHello", "d1/d71/a27571.html#a78fccaa36d1c42e33774a9b23f867a72", null ],
-    [ "OnGossipSelect", "d1/d71/a27571.html#a140ece91c8b6d91bd91d64d6e9b625e8", null ]
+    [ "npc_pet_trainerAI", "d2/d65/a27575.html", "d2/d65/a27575" ],
+    [ "npc_pet_trainer", "d1/d71/a27571.html#ac2279bce52e911b1c339da5e68aa2501", null ],
+    [ "GetAI", "d1/d71/a27571.html#a4ecf9ac0abf43a00dc6bff2d2283eb37", null ]
 ];

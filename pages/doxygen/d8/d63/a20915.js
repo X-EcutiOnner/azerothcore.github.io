@@ -1,7 +1,7 @@
 var a20915 =
 [
-    [ "HandleProc", "d8/d63/a20915.html#a1b8782a4f22522cfe224073515abdf45", null ],
-    [ "PrepareAuraScript", "d8/d63/a20915.html#ab4a8a98564d561082243c0f7a2dda1bf", null ],
-    [ "Register", "d8/d63/a20915.html#a8e9b7613131ef7ea05b853df337faa4e", null ],
-    [ "Validate", "d8/d63/a20915.html#ab3a99392d06ba0bea8e3f4b345acb23d", null ]
+    [ "HandleScriptEffect", "d8/d63/a20915.html#a173ee086127655cdfcca507fd5b15b2e", null ],
+    [ "PrepareSpellScript", "d8/d63/a20915.html#a005d47b18a820c35ec596b5539db94eb", null ],
+    [ "Register", "d8/d63/a20915.html#a20a0d554e80707c1517422cb747f38e8", null ],
+    [ "Validate", "d8/d63/a20915.html#a5ca44686e26def56adc2b98d88145235", null ]
 ];

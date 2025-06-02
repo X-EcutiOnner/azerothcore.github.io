@@ -1,6 +1,8 @@
 var a21847 =
 [
-    [ "npc_tallhorn_stagAI", "d3/d9f/a21851.html", "d3/d9f/a21851" ],
-    [ "npc_tallhorn_stag", "d0/de6/a21847.html#aff7f23376c27312894c9a042f6a0f848", null ],
-    [ "GetAI", "d0/de6/a21847.html#a3d993542271c80982adcee9a9d60e46b", null ]
+    [ "npc_ravenous_worgAI", "d0/de6/a21847.html#a5404516869e171c84b774f2a7b8be15d", null ],
+    [ "AttackStart", "d0/de6/a21847.html#a593d218d8cb083a7e37f81d3952c6d4c", null ],
+    [ "UpdateAI", "d0/de6/a21847.html#aeb64d5bde5ef9d8c2a62662bb72d3049", null ],
+    [ "_attack", "d0/de6/a21847.html#a3df5c98821ba33a40e25e7b050858b96", null ],
+    [ "_pacified", "d0/de6/a21847.html#a0da1f59a6fc9cdf39c9cced1eb52acba", null ]
 ];

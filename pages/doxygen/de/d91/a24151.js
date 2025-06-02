@@ -1,6 +1,8 @@
 var a24151 =
 [
-    [ "npc_lord_illidan_stormrageAI", "dd/dc4/a24155.html", "dd/dc4/a24155" ],
-    [ "npc_lord_illidan_stormrage", "de/d91/a24151.html#ad2f213749e170ec4f9903396d132f5f3", null ],
-    [ "GetAI", "de/d91/a24151.html#a9aaedc4326b90621965dad522f4af897", null ]
+    [ "CreatureId", "de/d91/a24151.html#a127341c70f8785ceb556b1c11b23f477", null ],
+    [ "SpawnCount", "de/d91/a24151.html#ad51fb68e41e04490f658a4c4f62612bd", null ],
+    [ "SpawnTimer", "de/d91/a24151.html#aa57ff686c5fde12269e231333d8a8bef", null ],
+    [ "UsedSpawnPoint", "de/d91/a24151.html#a2d5f42a6b1a309c8db74febcedf457eb", null ],
+    [ "YellTimer", "de/d91/a24151.html#a6346259269af7f2936f959f87288dd69", null ]
 ];
