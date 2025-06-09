@@ -1,6 +1,6 @@
 var a03938 =
 [
-    [ "boss_darkweaver_syth", "d5/dbc/a22595.html", "d5/dbc/a22595" ],
+    [ "boss_darkweaver_syth", "d0/d5b/a22599.html", "d0/d5b/a22599" ],
     [ "Spells", "d4/dc4/a03938.html#a5bd342133be8c2137b831460acc9298c", [
       [ "SPELL_OIL_REFINERY", "df/d12/a01703.html#a5bd342133be8c2137b831460acc9298cae2eb4db3c46b45e80cc2feb9c34f2ada", null ],
       [ "SPELL_QUARRY", "df/d12/a01703.html#a5bd342133be8c2137b831460acc9298ca5a0922923b24c4bb6661ad8396a76e01", null ],

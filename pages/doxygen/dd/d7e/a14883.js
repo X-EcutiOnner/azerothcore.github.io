@@ -1,5 +1,7 @@
 var a14883 =
 [
-    [ "npc_hive_zara_swarmer", "dd/d7e/a14883.html#a374fa63e210e0be8a074af9199126a9e", null ],
-    [ "PathEndReached", "dd/d7e/a14883.html#a3b3510bd00853395b756e1d83d96a474", null ]
+    [ "npc_hive_zara_larva", "dd/d7e/a14883.html#a50fb5738d7b0818689216fee0915a0de", null ],
+    [ "JustSummoned", "dd/d7e/a14883.html#a2a1d80f70ae265b1db50e3a7165fa099", null ],
+    [ "MovementInform", "dd/d7e/a14883.html#a6890c58106450d654062f548a80cb42f", null ],
+    [ "_instance", "dd/d7e/a14883.html#aa8333a25c0e184dd75db580b03ef9cb2", null ]
 ];

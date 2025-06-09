@@ -1,6 +1,7 @@
 var a15531 =
 [
-    [ "npc_aquementasAI", "dc/d2d/a15535.html", "dc/d2d/a15535" ],
-    [ "npc_aquementas", "dc/de0/a15531.html#a81d0b010c2aef0ea329ff7656b76cbe5", null ],
-    [ "GetAI", "dc/de0/a15531.html#a8a071b3073d69306feb84aca347a22c8", null ]
+    [ "npc_kaya_flathoofAI", "dc/de0/a15531.html#a3b43992dfeeb7b3b19e777b9629c55ce", null ],
+    [ "JustSummoned", "dc/de0/a15531.html#ac365753a428009f4fc4d01ead8fe46fd", null ],
+    [ "Reset", "dc/de0/a15531.html#af9be00be9867622a16103bd21311327f", null ],
+    [ "WaypointReached", "dc/de0/a15531.html#a8fcbb19279b925138ba96d2a450fc404", null ]
 ];

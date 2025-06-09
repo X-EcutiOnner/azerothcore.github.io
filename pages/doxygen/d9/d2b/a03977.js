@@ -1,7 +1,7 @@
 var a03977 =
 [
-    [ "boss_nexusprince_shaffar", "d1/d91/a22563.html", "d1/d91/a22563" ],
-    [ "npc_yor", "d2/d68/a22567.html", "d2/d68/a22567" ],
+    [ "boss_nexusprince_shaffar", "d2/d68/a22567.html", "d2/d68/a22567" ],
+    [ "npc_yor", "d9/de3/a22571.html", "d9/de3/a22571" ],
     [ "Npc", "d9/d2b/a03977.html#a8d8031a9ef6bd14633aa0a1bc87e2753", [
       [ "NPC_IRON_SLUDGE", "d5/d88/a02141.html#a8d8031a9ef6bd14633aa0a1bc87e2753a8ef27256382a54362848418fa570723e", null ],
       [ "NPC_DWARFES_FRIENDLY", "d5/d88/a02141.html#a8d8031a9ef6bd14633aa0a1bc87e2753a0bd0bac75b5f94a8f392db802d5d55b7", null ],

@@ -1,9 +1,9 @@
 var a02243 =
 [
-    [ "boss_saviana_ragefire", "d1/d06/a16119.html", "d1/d06/a16119" ],
-    [ "boss_saviana_ragefire::boss_saviana_ragefireAI", "d0/d69/a16123.html", "d0/d69/a16123" ],
-    [ "spell_saviana_conflagration_init", "dc/d3a/a16127.html", "dc/d3a/a16127" ],
-    [ "spell_saviana_conflagration_throwback", "d1/db1/a16131.html", "d1/db1/a16131" ],
+    [ "boss_saviana_ragefire", "d0/d69/a16123.html", "d0/d69/a16123" ],
+    [ "boss_saviana_ragefire::boss_saviana_ragefireAI", "dc/d3a/a16127.html", "dc/d3a/a16127" ],
+    [ "spell_saviana_conflagration_init", "d1/db1/a16131.html", "d1/db1/a16131" ],
+    [ "spell_saviana_conflagration_throwback", "d7/dab/a16135.html", "d7/dab/a16135" ],
     [ "Events", "d6/dd2/a02243.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_CHARGE_TARGET", "da/dcd/a02987.html#af60e00b78607064c5be6aa9397ea49c1ae9b5b6a7dd72b493b6874d7408585a02", null ],
       [ "EVENT_CLEAVE", "da/dcd/a02987.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a", null ],

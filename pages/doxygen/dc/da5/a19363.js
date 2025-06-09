@@ -1,6 +1,12 @@
 var a19363 =
 [
-    [ "npc_centrifuge_constructAI", "dd/d6a/a19367.html", "dd/d6a/a19367" ],
-    [ "npc_centrifuge_construct", "dc/da5/a19363.html#a3822eca10ab4a96126e0b4685751f4d3", null ],
-    [ "GetAI", "dc/da5/a19363.html#a7356047de8a6d7bc6e903e982db2bc00", null ]
+    [ "npc_oculus_drakeAI", "dc/da5/a19363.html#a214d9b77a5653f1a5f60106081eaf683", null ],
+    [ "IsSummonedBy", "dc/da5/a19363.html#a151e59f7b6032d5ed62f9f0ed2923f40", null ],
+    [ "MovementInform", "dc/da5/a19363.html#a5f6de11b9cd3c0d6593d7d249cb59555", null ],
+    [ "PassengerBoarded", "dc/da5/a19363.html#a5efc6f166b5fd77fa329b17e1e143379", null ],
+    [ "SpellHitTarget", "dc/da5/a19363.html#aebb8fb75777d7fc3ddc69dc558b08f7e", null ],
+    [ "UpdateAI", "dc/da5/a19363.html#a8ecaebfcf1c1fbe8ed263be6148ccef6", null ],
+    [ "despawnTimer", "dc/da5/a19363.html#a560dc0936a78267a4036b209c6718732", null ],
+    [ "JustSummoned", "dc/da5/a19363.html#a8b656a464525e881944e72e9486b0eb9", null ],
+    [ "m_pInstance", "dc/da5/a19363.html#a4df6c06ec857086f7a2747cab2c4703c", null ]
 ];

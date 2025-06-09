@@ -1,7 +1,7 @@
 var a03563 =
 [
-    [ "boss_anetheron", "d2/d3c/a14531.html", "d2/d3c/a14531" ],
-    [ "spell_anetheron_sleep", "d2/dd0/a14535.html", "d2/dd0/a14535" ],
+    [ "boss_anetheron", "d2/dd0/a14535.html", "d2/dd0/a14535" ],
+    [ "spell_anetheron_sleep", "de/d05/a14539.html", "de/d05/a14539" ],
     [ "Spells", "d4/dbd/a03563.html#a5bd342133be8c2137b831460acc9298c", [
       [ "SPELL_OIL_REFINERY", "df/d12/a01703.html#a5bd342133be8c2137b831460acc9298cae2eb4db3c46b45e80cc2feb9c34f2ada", null ],
       [ "SPELL_QUARRY", "df/d12/a01703.html#a5bd342133be8c2137b831460acc9298ca5a0922923b24c4bb6661ad8396a76e01", null ],

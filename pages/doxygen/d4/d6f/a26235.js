@@ -1,7 +1,6 @@
 var a26235 =
 [
-    [ "HandleEffectRemove", "d4/d6f/a26235.html#a814687d3938e966f8721438e1a722f77", null ],
-    [ "PrepareAuraScript", "d4/d6f/a26235.html#a2144b0602501471a4001883ce9de6db3", null ],
-    [ "Register", "d4/d6f/a26235.html#a9d696dc7e58692216fa1cf6cc7c011a9", null ],
-    [ "AuraEffectHandleModes", "d4/d6f/a26235.html#ab291f6c6f269ec7004df39a043f49efd", null ]
+    [ "HandleScriptEffect", "d4/d6f/a26235.html#a8b60ae77f13045a582548fe5d1186d54", null ],
+    [ "PrepareSpellScript", "d4/d6f/a26235.html#ad68619783c4a1aad5a24826bf5d89858", null ],
+    [ "Register", "d4/d6f/a26235.html#a929c49d6dd30b6a0dedfbc23c877eb36", null ]
 ];

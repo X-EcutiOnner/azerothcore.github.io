@@ -1,6 +1,5 @@
 var a28455 =
 [
-    [ "SetUp", "d0/d24/a28455.html#af04bbb2661f10d3bf442c590ebdf1a2b", null ],
-    [ "TearDown", "d0/d24/a28455.html#a3bc271279472966f9dae906f9f77119b", null ],
-    [ "confFilePath", "d0/d24/a28455.html#aaaccdda1669c76b94483bf2db2615d4e", null ]
+    [ "type", "d0/d24/a28455.html#af749459df7757d1bab17a54be813f6b6", null ],
+    [ "_type", "d0/d24/a28455.html#ab0344571616786baef4511c647a3abea", null ]
 ];

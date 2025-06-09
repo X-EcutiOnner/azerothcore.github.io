@@ -1,7 +1,6 @@
 var a19923 =
 [
-    [ "HandleScript", "d4/d02/a19923.html#a9580f04e1543262026818f0944bb96c3", null ],
-    [ "PrepareSpellScript", "d4/d02/a19923.html#a924ae640d448da777ce3ecb059c1c9b6", null ],
-    [ "Register", "d4/d02/a19923.html#ac05e58e9b5618b1f079bd1c4924a0f9f", null ],
-    [ "Validate", "d4/d02/a19923.html#a8fc8712a76939dea6831a9eb5b95f946", null ]
+    [ "OnPeriodic", "d4/d02/a19923.html#a379c55df994c58932fef7e7a59fd8426", null ],
+    [ "PrepareAuraScript", "d4/d02/a19923.html#ab180f54264f0c90376587d1b4c4dfd40", null ],
+    [ "Register", "d4/d02/a19923.html#aacfaa385ca4cbe64217ef191a32936e2", null ]
 ];

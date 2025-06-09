@@ -1,9 +1,10 @@
 var a14759 =
 [
-    [ "boss_chrono_lord_deja", "da/d35/a14759.html#a85f82d4bde99b7e1d05fba82177916e6", null ],
-    [ "JustDied", "da/d35/a14759.html#a68eb4941364f9fac121aa3d610d45f48", null ],
-    [ "JustEngagedWith", "da/d35/a14759.html#ab5324b2993f2fd1ec3290eb962ef6065", null ],
-    [ "KilledUnit", "da/d35/a14759.html#a02c279fb1cfccd38dc60ba7c610cf859", null ],
-    [ "MoveInLineOfSight", "da/d35/a14759.html#a535c0c157c60804188ad8c4413c277dd", null ],
-    [ "OwnTalk", "da/d35/a14759.html#acdef53bd447c30d87bd15af3bf4200bc", null ]
+    [ "boss_aeonus", "da/d35/a14759.html#af823ef2187b852dc72d2f63020e1701b", null ],
+    [ "IsSummonedBy", "da/d35/a14759.html#a5f95e19dfec210d4da1f1f48145ff047", null ],
+    [ "JustDied", "da/d35/a14759.html#a649275c31e61f542a13fd791ee85277b", null ],
+    [ "JustEngagedWith", "da/d35/a14759.html#a5f193144e36a889630d5dbadb4aa665f", null ],
+    [ "JustReachedHome", "da/d35/a14759.html#a62df4db3ead6f9be5c3ead974613c8d5", null ],
+    [ "KilledUnit", "da/d35/a14759.html#a4aa2f3d82aaaf5cd3a938ad92aad059d", null ],
+    [ "MoveInLineOfSight", "da/d35/a14759.html#a3147774fa5bff34d01947fdcf254ba7b", null ]
 ];

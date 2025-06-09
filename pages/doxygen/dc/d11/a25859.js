@@ -1,6 +1,6 @@
 var a25859 =
 [
-    [ "HandleEffect", "dc/d11/a25859.html#a41b46d8918b59a1617f383b3eedfe343", null ],
-    [ "PrepareSpellScript", "dc/d11/a25859.html#acfc69e6323292e6c64fbe8d2e10efcdc", null ],
-    [ "Register", "dc/d11/a25859.html#a78f1476ed28eb1e80356dbf3d32918f5", null ]
+    [ "CheckProc", "dc/d11/a25859.html#a1da9fe2fa918a8f92a53de8eee9d1830", null ],
+    [ "PrepareAuraScript", "dc/d11/a25859.html#a3fa05a39b003805f405d814214f4366e", null ],
+    [ "Register", "dc/d11/a25859.html#a9b7f633b60dd7798b8f2f85d14c26ca2", null ]
 ];

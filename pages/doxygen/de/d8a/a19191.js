@@ -1,10 +1,6 @@
 var a19191 =
 [
-    [ "npc_scion_of_eternityAI", "de/d8a/a19191.html#a2893db70b6a1ffa14d02dd5cea7f7c0a", null ],
-    [ "AttackStart", "de/d8a/a19191.html#a1335f9e34ff73d5501455062be025ada", null ],
-    [ "JustDied", "de/d8a/a19191.html#a81dcae5ef2bbd28b891e46c377fbe153", null ],
-    [ "MoveInLineOfSight", "de/d8a/a19191.html#a74a69fa532f0921285ef678bbd2fa761", null ],
-    [ "UpdateAI", "de/d8a/a19191.html#adb16afb6ea1583a7156b80a8d833951a", null ],
-    [ "events", "de/d8a/a19191.html#ae0e194a24a14033a499e68524da1699d", null ],
-    [ "pInstance", "de/d8a/a19191.html#aa828ca4a75696645d7aa350f1f981f40", null ]
+    [ "npc_scion_of_eternityAI", "dc/d9d/a19195.html", "dc/d9d/a19195" ],
+    [ "npc_scion_of_eternity", "de/d8a/a19191.html#ac1d66d65b5d4468b908443a64dc2de1c", null ],
+    [ "GetAI", "de/d8a/a19191.html#a7c27a55f177fb9e31f73fa1cb227fa27", null ]
 ];

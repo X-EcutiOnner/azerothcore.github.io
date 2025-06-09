@@ -1,6 +1,8 @@
 var a21435 =
 [
-    [ "npc_sinkhole_kill_creditAI", "db/d85/a21439.html", "db/d85/a21439" ],
-    [ "npc_sinkhole_kill_credit", "d4/d2d/a21435.html#a627d01aaaa3408986f2b4d171624e680", null ],
-    [ "GetAI", "d4/d2d/a21435.html#a4d734432f132bea2c4525d049fbcfa67", null ]
+    [ "HandleEffectRemove", "d4/d2d/a21435.html#aa2b05befb775244423264f6b5e2387c1", null ],
+    [ "Load", "d4/d2d/a21435.html#a02ea4c29f2c7e15a5039b93d7a0d3c5e", null ],
+    [ "PrepareAuraScript", "d4/d2d/a21435.html#a632e81cc39bdcd0f5adcc684231d1171", null ],
+    [ "Register", "d4/d2d/a21435.html#aba5483b1d35c1b58841fad2b1086f07c", null ],
+    [ "Validate", "d4/d2d/a21435.html#ada90e1f06ced8f4e353fe2bda3d31637", null ]
 ];

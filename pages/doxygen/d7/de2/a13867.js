@@ -1,12 +1,6 @@
 var a13867 =
 [
-    [ "npc_zulian_prowlerAI", "d7/de2/a13867.html#a367613efead335b060173011267ddcff", null ],
-    [ "JustDied", "d7/de2/a13867.html#a31258aadddfbf6c6e9e1d729452dd8b2", null ],
-    [ "JustEngagedWith", "d7/de2/a13867.html#a207504b15ecd22b78088593b80433581", null ],
-    [ "Reset", "d7/de2/a13867.html#a62d14bae970d8a70a997c683e0e94259", null ],
-    [ "SpellHit", "d7/de2/a13867.html#a4051cd786d8c1974cf80c28f907cc02a", null ],
-    [ "UpdateAI", "d7/de2/a13867.html#a708df3a95395f99f6ba3eebcc90a22ab", null ],
-    [ "_events", "d7/de2/a13867.html#a994ae5b4e72429141155d1342830e5ad", null ],
-    [ "_instance", "d7/de2/a13867.html#ad37ba6b6ff7f52a88d2a96dc4ea00c34", null ],
-    [ "_sideData", "d7/de2/a13867.html#afa44e09c5677c2fc567be6a67b766bde", null ]
+    [ "npc_zulian_prowlerAI", "d5/d48/a13871.html", "d5/d48/a13871" ],
+    [ "npc_zulian_prowler", "d7/de2/a13867.html#a27ae990985976d02bb221b6d669fa849", null ],
+    [ "GetAI", "d7/de2/a13867.html#a7e7d4f8164bbb728a1b83244c1e356f9", null ]
 ];

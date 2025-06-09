@@ -1,11 +1,11 @@
 var a14207 =
 [
-    [ "npc_snowfall_glade_playmate", "dc/d50/a14207.html#aa31b472ad55b240faff4bc2c1ee02ebc", null ],
-    [ "MoveInLineOfSight", "dc/d50/a14207.html#a92143d0bd0eb57b59069ca7a66e16195", null ],
-    [ "Reset", "dc/d50/a14207.html#a89040d9843852b01123e102b49509857", null ],
-    [ "UpdateAI", "dc/d50/a14207.html#a6dedc1cae1e568a792341842e8a922e8", null ],
-    [ "orphanGUID", "dc/d50/a14207.html#ad9bdbee8ec178b0a6c7ff125dc698279", null ],
-    [ "phase", "dc/d50/a14207.html#a9a5b2348313063bc389b99158fc72e3f", null ],
-    [ "playerGUID", "dc/d50/a14207.html#a4ca4198fdbf3c98291255916ee53c637", null ],
-    [ "timer", "dc/d50/a14207.html#ac3d736f2cd62289b88940e0a6ddcd957", null ]
+    [ "npc_winterfin_playmate", "dc/d50/a14207.html#a9c07fb9115c21ba5c3ef7459662e8f38", null ],
+    [ "MoveInLineOfSight", "dc/d50/a14207.html#a7e8640e3bfe0a8f960ce22a2daf136a4", null ],
+    [ "Reset", "dc/d50/a14207.html#aae6b51c22dc0448608c1cf9412565e25", null ],
+    [ "UpdateAI", "dc/d50/a14207.html#a8e04dc18ee8a6d9412cd574994908eb6", null ],
+    [ "orphanGUID", "dc/d50/a14207.html#a9189bf7b93e7c46e559c22f3504f919f", null ],
+    [ "phase", "dc/d50/a14207.html#a0a1051dc971ef393843bd1ba655a2e1b", null ],
+    [ "playerGUID", "dc/d50/a14207.html#a142fe7a438ee22384f682f26ff4a9f9c", null ],
+    [ "timer", "dc/d50/a14207.html#abf4b5f3e16f32a3385b71ef002c5ee64", null ]
 ];

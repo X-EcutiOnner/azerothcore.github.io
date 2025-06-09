@@ -1,6 +1,7 @@
 var a23963 =
 [
-    [ "npc_aeranasAI", "d1/ddc/a23967.html", "d1/ddc/a23967" ],
-    [ "npc_aeranas", "d2/d53/a23963.html#a6ea71481ef6a223a329b805081122537", null ],
-    [ "GetAI", "d2/d53/a23963.html#a81167df6665bdca81ee13468dec19643", null ]
+    [ "HandleDummy", "d2/d53/a23963.html#a08f2f0aef00ce075572ff84643905a0a", null ],
+    [ "PrepareSpellScript", "d2/d53/a23963.html#ac1aacfbd71224d80eaed0b9a76ff673f", null ],
+    [ "Register", "d2/d53/a23963.html#a2046ac7f24989ff0bf50a3ee66dda104", null ],
+    [ "Validate", "d2/d53/a23963.html#aded9f2e46cc3bf46f5699ce6fdf154ba", null ]
 ];

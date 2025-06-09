@@ -1,7 +1,6 @@
 var a20927 =
 [
-    [ "HandleProc", "db/dd9/a20927.html#a1b8782a4f22522cfe224073515abdf45", null ],
-    [ "PrepareAuraScript", "db/dd9/a20927.html#ab4a8a98564d561082243c0f7a2dda1bf", null ],
-    [ "Register", "db/dd9/a20927.html#a8e9b7613131ef7ea05b853df337faa4e", null ],
-    [ "Validate", "db/dd9/a20927.html#ab3a99392d06ba0bea8e3f4b345acb23d", null ]
+    [ "HandleScript", "db/dd9/a20927.html#ac7fc87a7585c866aa3fa1001c803bb00", null ],
+    [ "PrepareSpellScript", "db/dd9/a20927.html#ab2a4155f6029850c61e84d7c180addae", null ],
+    [ "Register", "db/dd9/a20927.html#a7e03062d9e28ed1917b7aa63d65f22ba", null ]
 ];

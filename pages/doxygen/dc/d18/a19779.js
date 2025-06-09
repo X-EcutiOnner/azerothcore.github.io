@@ -1,5 +1,6 @@
 var a19779 =
 [
-    [ "achievement_auriaya_crazy_cat_lady", "dc/d18/a19779.html#a1eb5d931c7c520b7cd6f516bfcb819e4", null ],
-    [ "OnCheck", "dc/d18/a19779.html#a905b9a4389521fde6d26d3c19a0fe21c", null ]
+    [ "FilterTargets", "dc/d18/a19779.html#a38c693dd3d8fb7e04fc1e26359f12399", null ],
+    [ "PrepareSpellScript", "dc/d18/a19779.html#a86c4bb91547d8ea7eebb8e4d7bfd592e", null ],
+    [ "Register", "dc/d18/a19779.html#a4e803984a3eded2736825f631786c204", null ]
 ];

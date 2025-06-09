@@ -1,6 +1,6 @@
 var a23299 =
 [
-    [ "instance_the_slave_pens_InstanceMapScript", "d9/d8a/a23303.html", "d9/d8a/a23303" ],
-    [ "instance_the_slave_pens", "d5/d94/a23299.html#a765f7b66ad3bed1828524ecb143742f2", null ],
-    [ "GetInstanceScript", "d5/d94/a23299.html#a0eedcecf1ddc27e139898cacf6f48965", null ]
+    [ "boss_rokmar_the_crackler", "d5/d94/a23299.html#a0aca6a30d045bbea6f434979f4f1d2e9", null ],
+    [ "JustEngagedWith", "d5/d94/a23299.html#ae376e6a96fa07136790f3ed04ee1023b", null ],
+    [ "Reset", "d5/d94/a23299.html#aed9cf4a866d5e70647125a08885fb809", null ]
 ];

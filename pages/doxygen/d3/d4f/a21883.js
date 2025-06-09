@@ -1,6 +1,6 @@
 var a21883 =
 [
-    [ "npc_venture_co_stragglerAI", "d9/d23/a21887.html", "d9/d23/a21887" ],
-    [ "npc_venture_co_straggler", "d3/d4f/a21883.html#a9d928b33dfcd3a6ccb7e1f7a1964762f", null ],
-    [ "GetAI", "d3/d4f/a21883.html#a5f95d20c67553ae8a27f00ebb92e3627", null ]
+    [ "CheckRequirement", "d3/d4f/a21883.html#ad58d71b5c2bc10d9ffbfe472bd5b1a32", null ],
+    [ "PrepareSpellScript", "d3/d4f/a21883.html#ae621e95feb69b54f9aef5d77577a15ae", null ],
+    [ "Register", "d3/d4f/a21883.html#ab0b03fd2d1a0ed6720acc45221a582f6", null ]
 ];

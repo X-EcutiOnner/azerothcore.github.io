@@ -1,8 +1,6 @@
 var a15115 =
 [
-    [ "boss_veklor", "d4/dc8/a15115.html#acbbe1a2e6ffcb00a28f7ae5413cd02c1", null ],
-    [ "AttackStart", "d4/dc8/a15115.html#a7ecfff13457bf177c1ec250bbee75cbf", null ],
-    [ "IAmVeklor", "d4/dc8/a15115.html#a4c43713c24b5537f292be1e0fcaee703", null ],
-    [ "JustEngagedWith", "d4/dc8/a15115.html#a05913da666b1715eac68441195dd9df4", null ],
-    [ "SpellHit", "d4/dc8/a15115.html#ab5d9ec12c18e360ce2c8749dd97f2ab0", null ]
+    [ "boss_veknilash", "d4/dc8/a15115.html#a73a4095c3dd0ffbd9d7ef5a8a837f13f", null ],
+    [ "IAmVeklor", "d4/dc8/a15115.html#a454027d829b962ee0feebb6fd5687714", null ],
+    [ "JustEngagedWith", "d4/dc8/a15115.html#ace8de3d9a397d0571da1f5bdd2ba84d5", null ]
 ];

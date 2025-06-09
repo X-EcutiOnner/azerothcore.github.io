@@ -91,7 +91,7 @@ var a09495 =
     [ "HandleSetEmblem", "d5/d4f/a09495.html#ae80fe1e6c8c5aa4eddb2e9a55802dd9c", null ],
     [ "HandleSetInfo", "d5/d4f/a09495.html#a01bedc65f1be1b4f56583cdc9810d321", null ],
     [ "HandleSetLeader", "d5/d4f/a09495.html#a0145f8793b5a59d72e6409a68fa2de6f", null ],
-    [ "HandleSetMemberNote", "d5/d4f/a09495.html#ac97c74c59d3b92c3867f987edaa18292", null ],
+    [ "HandleSetMemberNote", "d5/d4f/a09495.html#abc9e9a957d651237b6b78ea685c44f2d", null ],
     [ "HandleSetMOTD", "d5/d4f/a09495.html#a1cf2f6743e8ca60a2ea0a384e5efbb72", null ],
     [ "HandleSetRankInfo", "d5/d4f/a09495.html#a4e136ed59e07705a4ebbded2b792eb4e", null ],
     [ "HandleUpdateMemberRank", "d5/d4f/a09495.html#a7a36dcb109e06049519062cc505cbdef", null ],

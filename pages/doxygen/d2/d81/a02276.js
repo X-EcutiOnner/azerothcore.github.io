@@ -1,9 +1,9 @@
 var a02276 =
 [
-    [ "boss_jedoga_shadowseeker", "db/d35/a15763.html", "db/d35/a15763" ],
-    [ "npc_twilight_volunteer", "d9/d94/a15767.html", "d9/d94/a15767" ],
-    [ "spell_random_lightning_visual_effect", "df/dd3/a15771.html", "df/dd3/a15771" ],
-    [ "achievement_volunteer_work", "df/d47/a15775.html", "df/d47/a15775" ],
+    [ "boss_jedoga_shadowseeker", "d9/d94/a15767.html", "d9/d94/a15767" ],
+    [ "npc_twilight_volunteer", "df/dd3/a15771.html", "df/dd3/a15771" ],
+    [ "spell_random_lightning_visual_effect", "df/d47/a15775.html", "df/d47/a15775" ],
+    [ "achievement_volunteer_work", "d3/da9/a15779.html", "d3/da9/a15779" ],
     [ "Actions", "d2/d81/a02276.html#a250372292659bed7ae290d8621f88ccf", [
       [ "ACTION_GUNSHIP_READY", "df/d12/a01703.html#a250372292659bed7ae290d8621f88ccfaae8bb35d65ee37e4d232e2a67aeca581", null ],
       [ "ACTION_TELEPORT_PLAYER_TO_TRANSPORT", "df/d12/a01703.html#a250372292659bed7ae290d8621f88ccfa6b86b0986a459bb245b3a3cd8b75040c", null ],

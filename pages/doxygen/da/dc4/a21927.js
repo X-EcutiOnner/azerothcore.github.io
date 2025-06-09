@@ -1,6 +1,8 @@
 var a21927 =
 [
-    [ "HandleOnEffectRemove", "da/dc4/a21927.html#a5aeae7d8fc2fb8c8a1ce446ba1887c51", null ],
-    [ "PrepareAuraScript", "da/dc4/a21927.html#af415e4d7ea0b4b881af94eb7ea0c3f4c", null ],
-    [ "Register", "da/dc4/a21927.html#a242faa8822f9cdb7762d8ec3b6245b30", null ]
+    [ "HandleEffectApply", "da/dc4/a21927.html#a8ebf9488a7eed99c3651424754cc95c5", null ],
+    [ "HandleEffectPeriodic", "da/dc4/a21927.html#a183976530ebf604656db12e41449427e", null ],
+    [ "PrepareAuraScript", "da/dc4/a21927.html#a03faa2eda84ac74dcff9a7a6a4e57440", null ],
+    [ "Register", "da/dc4/a21927.html#a76be53d506933d4b3c758578b7c33d5f", null ],
+    [ "_posZ", "da/dc4/a21927.html#a488ded8ff40240fe8fbef1567eb091b9", null ]
 ];

@@ -1,6 +1,8 @@
 var a23623 =
 [
-    [ "instance_shattered_halls_InstanceMapScript", "d3/d8d/a23627.html", "d3/d8d/a23627" ],
-    [ "instance_shattered_halls", "d7/da9/a23623.html#a9d0d3b6baec34c679151791610cff3a7", null ],
-    [ "GetInstanceScript", "d7/da9/a23623.html#a82388466811b022a725ba721845cadf3", null ]
+    [ "FilterTargets", "d7/da9/a23623.html#ae366594b668331a19f384ceb48654c0c", null ],
+    [ "HandleOnHit", "d7/da9/a23623.html#abe5665fde7f01fafdfb55c58d8edbcf1", null ],
+    [ "PrepareSpellScript", "d7/da9/a23623.html#a71aa4018d293391a73d3317c1e80951d", null ],
+    [ "Register", "d7/da9/a23623.html#a3da162fd2cafc2e1236db0c6d4f65440", null ],
+    [ "Validate", "d7/da9/a23623.html#a3747ad271dc659436ae7a8203b964554", null ]
 ];

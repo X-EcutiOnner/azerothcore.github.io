@@ -1,6 +1,6 @@
 var a16751 =
 [
-    [ "instance_forge_of_souls_InstanceScript", "d3/d9c/a16755.html", "d3/d9c/a16755" ],
-    [ "instance_forge_of_souls", "d6/d9b/a16751.html#a504896f6e191c87ce77231c4ef267b27", null ],
-    [ "GetInstanceScript", "d6/d9b/a16751.html#a64982b527cfa6057315b8e628549480b", null ]
+    [ "entry", "d6/d9b/a16751.html#a80e1510436336f4ed17748a06b27178d", null ],
+    [ "pathId", "d6/d9b/a16751.html#a0b7e499d633e11b314852fb1154ea8e6", null ],
+    [ "startPosition", "d6/d9b/a16751.html#ac8c0dd74d76778aa2f5948b5c8c5ada4", null ]
 ];

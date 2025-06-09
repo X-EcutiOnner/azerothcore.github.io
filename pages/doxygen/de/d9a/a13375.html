@@ -316,17 +316,17 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  556</span>    {</div>
-<div class="line"><span class="lineno">  557</span>        <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../dc/d90/a11215.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>())</div>
-<div class="line"><span class="lineno">  558</span>            <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  559</span> </div>
-<div class="line"><span class="lineno">  560</span>        <a class="code hl_class" href="../../da/dd0/a08431.html">WorldLocation</a> summonPos = *<a class="code hl_function" href="../../dc/d90/a11215.html#a127150f1d3edb4f1d217884f882b015f">GetExplTargetDest</a>();</div>
-<div class="line"><span class="lineno">  561</span>        <span class="keywordtype">float</span> destZ = summonPos.<a class="code hl_function" href="../../de/d5d/a08415.html#a4e813a59345a6275e8b87b96be03e60b">GetPositionZ</a>() - <a class="code hl_function" href="../../dc/d90/a11215.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;<a class="code hl_function" href="../../dc/d84/a08371.html#ac6c188d445c62a56714e2ba8dd2ab684">GetMapWaterOrGroundLevel</a>(summonPos);</div>
-<div class="line"><span class="lineno">  562</span>        <a class="code hl_struct" href="../../de/d5d/a08415.html">Position</a> offset = { 0.0f, 0.0f, -destZ, 0.0f};</div>
-<div class="line"><span class="lineno">  563</span>        summonPos.<a class="code hl_function" href="../../de/d5d/a08415.html#a1ee5670db2621e59adf12c225e726cd7">RelocateOffset</a>(offset);</div>
-<div class="line"><span class="lineno">  564</span>        <a class="code hl_function" href="../../dc/d90/a11215.html#a256e6f9b002c24080d76850bd2828b01">SetExplTargetDest</a>(summonPos);</div>
-<div class="line"><span class="lineno">  565</span>        <a class="code hl_function" href="../../dc/d90/a11215.html#a85b9373e02f5abbec6c6cde8c9784e0a">GetHitDest</a>()-&gt;<a class="code hl_function" href="../../de/d5d/a08415.html#a1ee5670db2621e59adf12c225e726cd7">RelocateOffset</a>(offset);</div>
-<div class="line"><span class="lineno">  566</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  515</span>    {</div>
+<div class="line"><span class="lineno">  516</span>        <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../dc/d90/a11215.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>())</div>
+<div class="line"><span class="lineno">  517</span>            <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  518</span> </div>
+<div class="line"><span class="lineno">  519</span>        <a class="code hl_class" href="../../da/dd0/a08431.html">WorldLocation</a> summonPos = *<a class="code hl_function" href="../../dc/d90/a11215.html#a127150f1d3edb4f1d217884f882b015f">GetExplTargetDest</a>();</div>
+<div class="line"><span class="lineno">  520</span>        <span class="keywordtype">float</span> destZ = summonPos.<a class="code hl_function" href="../../de/d5d/a08415.html#a4e813a59345a6275e8b87b96be03e60b">GetPositionZ</a>() - <a class="code hl_function" href="../../dc/d90/a11215.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;<a class="code hl_function" href="../../dc/d84/a08371.html#ac6c188d445c62a56714e2ba8dd2ab684">GetMapWaterOrGroundLevel</a>(summonPos);</div>
+<div class="line"><span class="lineno">  521</span>        <a class="code hl_struct" href="../../de/d5d/a08415.html">Position</a> offset = { 0.0f, 0.0f, -destZ, 0.0f};</div>
+<div class="line"><span class="lineno">  522</span>        summonPos.<a class="code hl_function" href="../../de/d5d/a08415.html#a1ee5670db2621e59adf12c225e726cd7">RelocateOffset</a>(offset);</div>
+<div class="line"><span class="lineno">  523</span>        <a class="code hl_function" href="../../dc/d90/a11215.html#a256e6f9b002c24080d76850bd2828b01">SetExplTargetDest</a>(summonPos);</div>
+<div class="line"><span class="lineno">  524</span>        <a class="code hl_function" href="../../dc/d90/a11215.html#a85b9373e02f5abbec6c6cde8c9784e0a">GetHitDest</a>()-&gt;<a class="code hl_function" href="../../de/d5d/a08415.html#a1ee5670db2621e59adf12c225e726cd7">RelocateOffset</a>(offset);</div>
+<div class="line"><span class="lineno">  525</span>    }</div>
 <div class="ttc" id="aa08371_html_ac6c188d445c62a56714e2ba8dd2ab684"><div class="ttname"><a href="../../dc/d84/a08371.html#ac6c188d445c62a56714e2ba8dd2ab684">WorldObject::GetMapWaterOrGroundLevel</a></div><div class="ttdeci">float GetMapWaterOrGroundLevel(Position pos, float *ground=nullptr) const</div><div class="ttdef"><b>Definition:</b> Object.h:615</div></div>
 <div class="ttc" id="aa08415_html"><div class="ttname"><a href="../../de/d5d/a08415.html">Position</a></div><div class="ttdef"><b>Definition:</b> Position.h:27</div></div>
 <div class="ttc" id="aa08415_html_a1ee5670db2621e59adf12c225e726cd7"><div class="ttname"><a href="../../de/d5d/a08415.html#a1ee5670db2621e59adf12c225e726cd7">Position::RelocateOffset</a></div><div class="ttdeci">void RelocateOffset(const Position &amp;offset)</div><div class="ttdef"><b>Definition:</b> Position.cpp:59</div></div>
@@ -339,7 +339,7 @@ Additional Inherited Members</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00401">SpellScript::GetCaster()</a>, <a class="el" href="../../#l00416">SpellScript::GetExplTargetDest()</a>, <a class="el" href="../../#l00504">SpellScript::GetHitDest()</a>, <a class="el" href="../../#l00615">WorldObject::GetMapWaterOrGroundLevel()</a>, <a class="el" href="../../#l00123">Position::GetPositionZ()</a>, <a class="el" href="../../#l00059">Position::RelocateOffset()</a>, and <a class="el" href="../../#l00423">SpellScript::SetExplTargetDest()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00568">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00527">Register()</a>.</p>
 
 </div>
 </div>
@@ -393,16 +393,16 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../d2/d90/a11199.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  569</span>    {</div>
-<div class="line"><span class="lineno">  570</span>        <a class="code hl_variable" href="../../dc/d90/a11215.html#a55b352390f66a1d2314566de232343f9">OnEffectHit</a> += <a class="code hl_define" href="../../d1/d7e/a00434.html#a551b0adb8eaf82985a7e55cef0695dcb">SpellEffectFn</a>(<a class="code hl_function" href="../../de/d9a/a13375.html#ae24a7c8279a92f1018748a0e930736ac">spell_gen_summon_target_floor::ChangeSummonPos</a>, <a class="code hl_enumvalue" href="../../d0/d2b/a01997.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../d0/d2b/a01997.html#a292c893150c454dd75628b719db1fe97aa7be476935ce81144c2b383b7af7bf47">SPELL_EFFECT_SUMMON</a>);</div>
-<div class="line"><span class="lineno">  571</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  528</span>    {</div>
+<div class="line"><span class="lineno">  529</span>        <a class="code hl_variable" href="../../dc/d90/a11215.html#a55b352390f66a1d2314566de232343f9">OnEffectHit</a> += <a class="code hl_define" href="../../d1/d7e/a00434.html#a551b0adb8eaf82985a7e55cef0695dcb">SpellEffectFn</a>(<a class="code hl_function" href="../../de/d9a/a13375.html#ae24a7c8279a92f1018748a0e930736ac">spell_gen_summon_target_floor::ChangeSummonPos</a>, <a class="code hl_enumvalue" href="../../d0/d2b/a01997.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../d0/d2b/a01997.html#a292c893150c454dd75628b719db1fe97aa7be476935ce81144c2b383b7af7bf47">SPELL_EFFECT_SUMMON</a>);</div>
+<div class="line"><span class="lineno">  530</span>    }</div>
 <div class="ttc" id="aa00434_html_a551b0adb8eaf82985a7e55cef0695dcb"><div class="ttname"><a href="../../d1/d7e/a00434.html#a551b0adb8eaf82985a7e55cef0695dcb">SpellEffectFn</a></div><div class="ttdeci">#define SpellEffectFn(F, I, N)</div><div class="ttdef"><b>Definition:</b> SpellScript.h:337</div></div>
 <div class="ttc" id="aa01997_html_a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d"><div class="ttname"><a href="../../d0/d2b/a01997.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a></div><div class="ttdeci">@ EFFECT_0</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:31</div></div>
 <div class="ttc" id="aa01997_html_a292c893150c454dd75628b719db1fe97aa7be476935ce81144c2b383b7af7bf47"><div class="ttname"><a href="../../d0/d2b/a01997.html#a292c893150c454dd75628b719db1fe97aa7be476935ce81144c2b383b7af7bf47">SPELL_EFFECT_SUMMON</a></div><div class="ttdeci">@ SPELL_EFFECT_SUMMON</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:806</div></div>
 <div class="ttc" id="aa11215_html_a55b352390f66a1d2314566de232343f9"><div class="ttname"><a href="../../dc/d90/a11215.html#a55b352390f66a1d2314566de232343f9">SpellScript::OnEffectHit</a></div><div class="ttdeci">HookList&lt; EffectHandler &gt; OnEffectHit</div><div class="ttdef"><b>Definition:</b> SpellScript.h:335</div></div>
-<div class="ttc" id="aa13375_html_ae24a7c8279a92f1018748a0e930736ac"><div class="ttname"><a href="../../de/d9a/a13375.html#ae24a7c8279a92f1018748a0e930736ac">spell_gen_summon_target_floor::ChangeSummonPos</a></div><div class="ttdeci">void ChangeSummonPos(SpellEffIndex)</div><div class="ttdef"><b>Definition:</b> boss_muru.cpp:555</div></div>
+<div class="ttc" id="aa13375_html_ae24a7c8279a92f1018748a0e930736ac"><div class="ttname"><a href="../../de/d9a/a13375.html#ae24a7c8279a92f1018748a0e930736ac">spell_gen_summon_target_floor::ChangeSummonPos</a></div><div class="ttdeci">void ChangeSummonPos(SpellEffIndex)</div><div class="ttdef"><b>Definition:</b> boss_muru.cpp:514</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00555">ChangeSummonPos()</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l00335">SpellScript::OnEffectHit</a>, <a class="el" href="../../#l00806">SPELL_EFFECT_SUMMON</a>, and <a class="el" href="../../#l00337">SpellEffectFn</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00514">ChangeSummonPos()</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l00335">SpellScript::OnEffectHit</a>, <a class="el" href="../../#l00806">SPELL_EFFECT_SUMMON</a>, and <a class="el" href="../../#l00337">SpellEffectFn</a>.</p>
 
 </div>
 </div>
@@ -412,7 +412,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../de/d9a/a13375.html">spell_gen_summon_target_floor</a></li>
-    <li class="footer">Generated on Mon Jun 2 2025 20:47:39 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Jun 9 2025 20:47:59 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

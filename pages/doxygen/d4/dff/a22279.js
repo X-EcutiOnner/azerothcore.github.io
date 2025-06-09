@@ -1,7 +1,6 @@
 var a22279 =
 [
-    [ "npc_wg_demolisher_engineer", "d4/dff/a22279.html#a722ff6bac34730bfb5f36584d7a62ff8", null ],
-    [ "canBuild", "d4/dff/a22279.html#a5dd51b0d0a05ebfb648faab570e27881", null ],
-    [ "OnGossipHello", "d4/dff/a22279.html#ac3b0bbfd66bb94f29a6d733999b8c6ba", null ],
-    [ "OnGossipSelect", "d4/dff/a22279.html#a3ecf69f45918bef0cb51023327ac9693", null ]
+    [ "npc_vehicle_d16_propelled_deliveryAI", "d4/dff/a22279.html#afd54b130725aa724b80f150f968ce09d", null ],
+    [ "MovementInform", "d4/dff/a22279.html#a37800436af47a8f6fbc6f6eb25eab9f9", null ],
+    [ "PassengerBoarded", "d4/dff/a22279.html#a588ed86f5b8316feafd938d85ac65aa0", null ]
 ];

@@ -1,8 +1,6 @@
 var a16695 =
 [
-    [ "npc_fos_corrupted_soul_fragmentAI", "d3/d47/a16695.html#a61797329ecddde6da2e23e951fa92ca2", null ],
-    [ "Reset", "d3/d47/a16695.html#a5bb03371b24593ca2de995bf85857782", null ],
-    [ "UpdateAI", "d3/d47/a16695.html#ac6e651186c5edfd8e5279ddd38a15eb9", null ],
-    [ "pInstance", "d3/d47/a16695.html#a6ced23b3b4150b31020a636559d6eec6", null ],
-    [ "timer", "d3/d47/a16695.html#aa19c9928e3979bb01d89dc81b8feb4fc", null ]
+    [ "npc_fos_corrupted_soul_fragmentAI", "d9/d1b/a16699.html", "d9/d1b/a16699" ],
+    [ "npc_fos_corrupted_soul_fragment", "d3/d47/a16695.html#a4caefccfdfee2e906eb94e34bceb064c", null ],
+    [ "GetAI", "d3/d47/a16695.html#aed663e0a313223fcaa988b89b1b02df3", null ]
 ];

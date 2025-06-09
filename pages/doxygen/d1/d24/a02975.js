@@ -7,6 +7,10 @@ var a02975 =
     [ "npc_tyrion_spybot", "dd/d2b/a13603.html", "dd/d2b/a13603" ],
     [ "npc_tyrion_spybot::npc_tyrion_spybotAI", "d0/d4d/a13607.html", "d0/d4d/a13607" ],
     [ "npc_tyrion", "dc/d22/a13611.html", "dc/d22/a13611" ],
+    [ "npc_king_varian_wrynn", "d4/d8a/a13615.html", "d4/d8a/a13615" ],
+    [ "KingVarianWrynn", "d1/d24/a02975.html#a4d5b8ecc1cc8ab2e4f86d7cca68d78bd", [
+      [ "QUEST_WHERE_KINGS_WALK", "d1/d24/a02975.html#a4d5b8ecc1cc8ab2e4f86d7cca68d78bda9e049b42d363915086263f2809d9e2f0", null ]
+    ] ],
     [ "LordGregorLescovar", "d1/d24/a02975.html#a1e4dca432ca60e815b6e871483cbe4e7", [
       [ "SAY_GUARD_2", "d1/d24/a02975.html#a1e4dca432ca60e815b6e871483cbe4e7aab262efa326f919e2608524a5f839c91", null ],
       [ "SAY_LESCOVAR_2", "d1/d24/a02975.html#a1e4dca432ca60e815b6e871483cbe4e7a56a4966e9106db7ffda929b1e7e67603", null ],

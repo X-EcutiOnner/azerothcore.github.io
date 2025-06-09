@@ -1,5 +1,6 @@
 var a21575 =
 [
-    [ "npc_leryssaAI", "d5/d92/a21575.html#ad21a1e1572880ba8cbf6625e658989eb", null ],
-    [ "MovementInform", "d5/d92/a21575.html#a36180f7351ab11a9942ec59ee24ae6ad", null ]
+    [ "npc_leryssaAI", "db/d7a/a21579.html", "db/d7a/a21579" ],
+    [ "npc_leryssa", "d5/d92/a21575.html#a549bed4476f88c313e6b42c0fe1fffb8", null ],
+    [ "GetAI", "d5/d92/a21575.html#a4725831580b206d91dbd8c21a703893f", null ]
 ];

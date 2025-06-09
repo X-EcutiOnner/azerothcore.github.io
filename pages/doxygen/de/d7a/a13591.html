@@ -666,7 +666,7 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   71</span>: <a class="code hl_struct" href="../../d3/d2f/a06207.html">npc_escortAI</a>(creature) { }</div>
+<div class="fragment"><div class="line"><span class="lineno">   56</span>: <a class="code hl_struct" href="../../d3/d2f/a06207.html">npc_escortAI</a>(creature) { }</div>
 <div class="ttc" id="aa06207_html"><div class="ttname"><a href="../../d3/d2f/a06207.html">npc_escortAI</a></div><div class="ttdef"><b>Definition:</b> ScriptedEscortAI.h:53</div></div>
 </div><!-- fragment -->
 </div>
@@ -694,26 +694,26 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  130</span>        {</div>
-<div class="line"><span class="lineno">  131</span>            std::list&lt;Creature*&gt; GuardList;</div>
-<div class="line"><span class="lineno">  132</span>            <a class="code hl_variable" href="../../d0/d79/a06187.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../dc/d84/a08371.html#aa0a6f93bf47966d32dae1ef3fee55ac7">GetCreatureListWithEntryInGrid</a>(GuardList, <a class="code hl_enumvalue" href="../../d1/d24/a02975.html#a1e4dca432ca60e815b6e871483cbe4e7af9d88994485cf4511078f883c1db22db">NPC_STORMWIND_ROYAL</a>, 8.0f);</div>
-<div class="line"><span class="lineno">  133</span>            <span class="keywordflow">if</span> (!GuardList.empty())</div>
-<div class="line"><span class="lineno">  134</span>            {</div>
-<div class="line"><span class="lineno">  135</span>                <span class="keywordflow">for</span> (std::list&lt;Creature*&gt;::const_iterator itr = GuardList.begin(); itr != GuardList.end(); ++itr)</div>
-<div class="line"><span class="lineno">  136</span>                {</div>
-<div class="line"><span class="lineno">  137</span>                    <span class="keywordflow">if</span> (<a class="code hl_class" href="../../da/d4d/a07967.html">Creature</a>* pGuard = *itr)</div>
-<div class="line"><span class="lineno">  138</span>                        pGuard-&gt;DisappearAndDie();</div>
-<div class="line"><span class="lineno">  139</span>                }</div>
-<div class="line"><span class="lineno">  140</span>            }</div>
-<div class="line"><span class="lineno">  141</span>        }</div>
-<div class="ttc" id="aa02975_html_a1e4dca432ca60e815b6e871483cbe4e7af9d88994485cf4511078f883c1db22db"><div class="ttname"><a href="../../d1/d24/a02975.html#a1e4dca432ca60e815b6e871483cbe4e7af9d88994485cf4511078f883c1db22db">NPC_STORMWIND_ROYAL</a></div><div class="ttdeci">@ NPC_STORMWIND_ROYAL</div><div class="ttdef"><b>Definition:</b> zone_stormwind_city.cpp:52</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  115</span>        {</div>
+<div class="line"><span class="lineno">  116</span>            std::list&lt;Creature*&gt; GuardList;</div>
+<div class="line"><span class="lineno">  117</span>            <a class="code hl_variable" href="../../d0/d79/a06187.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../dc/d84/a08371.html#aa0a6f93bf47966d32dae1ef3fee55ac7">GetCreatureListWithEntryInGrid</a>(GuardList, <a class="code hl_enumvalue" href="../../d1/d24/a02975.html#a1e4dca432ca60e815b6e871483cbe4e7af9d88994485cf4511078f883c1db22db">NPC_STORMWIND_ROYAL</a>, 8.0f);</div>
+<div class="line"><span class="lineno">  118</span>            <span class="keywordflow">if</span> (!GuardList.empty())</div>
+<div class="line"><span class="lineno">  119</span>            {</div>
+<div class="line"><span class="lineno">  120</span>                <span class="keywordflow">for</span> (std::list&lt;Creature*&gt;::const_iterator itr = GuardList.begin(); itr != GuardList.end(); ++itr)</div>
+<div class="line"><span class="lineno">  121</span>                {</div>
+<div class="line"><span class="lineno">  122</span>                    <span class="keywordflow">if</span> (<a class="code hl_class" href="../../da/d4d/a07967.html">Creature</a>* pGuard = *itr)</div>
+<div class="line"><span class="lineno">  123</span>                        pGuard-&gt;DisappearAndDie();</div>
+<div class="line"><span class="lineno">  124</span>                }</div>
+<div class="line"><span class="lineno">  125</span>            }</div>
+<div class="line"><span class="lineno">  126</span>        }</div>
+<div class="ttc" id="aa02975_html_a1e4dca432ca60e815b6e871483cbe4e7af9d88994485cf4511078f883c1db22db"><div class="ttname"><a href="../../d1/d24/a02975.html#a1e4dca432ca60e815b6e871483cbe4e7af9d88994485cf4511078f883c1db22db">NPC_STORMWIND_ROYAL</a></div><div class="ttdeci">@ NPC_STORMWIND_ROYAL</div><div class="ttdef"><b>Definition:</b> zone_stormwind_city.cpp:37</div></div>
 <div class="ttc" id="aa06187_html_a5da7193f0a8713b8fa5e7ff2f19ac3bb"><div class="ttname"><a href="../../d0/d79/a06187.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">ScriptedAI::me</a></div><div class="ttdeci">Creature * me</div><div class="ttdef"><b>Definition:</b> ScriptedCreature.h:280</div></div>
 <div class="ttc" id="aa07967_html"><div class="ttname"><a href="../../da/d4d/a07967.html">Creature</a></div><div class="ttdef"><b>Definition:</b> Creature.h:43</div></div>
 <div class="ttc" id="aa08371_html_aa0a6f93bf47966d32dae1ef3fee55ac7"><div class="ttname"><a href="../../dc/d84/a08371.html#aa0a6f93bf47966d32dae1ef3fee55ac7">WorldObject::GetCreatureListWithEntryInGrid</a></div><div class="ttdeci">void GetCreatureListWithEntryInGrid(std::list&lt; Creature * &gt; &amp;lList, uint32 uiEntry, float fMaxSearchRange) const</div><div class="ttdef"><b>Definition:</b> Object.cpp:2513</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l02513">WorldObject::GetCreatureListWithEntryInGrid()</a>, <a class="el" href="../../#l00280">ScriptedAI::me</a>, and <a class="el" href="../../#l00052">NPC_STORMWIND_ROYAL</a>.</p>
+<p class="reference">References <a class="el" href="../../#l02513">WorldObject::GetCreatureListWithEntryInGrid()</a>, <a class="el" href="../../#l00280">ScriptedAI::me</a>, and <a class="el" href="../../#l00037">NPC_STORMWIND_ROYAL</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00143">UpdateAI()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00128">UpdateAI()</a>.</p>
 
 </div>
 </div>
@@ -742,20 +742,20 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d3/d2f/a06207.html#a02a04466099a97b80c86bf47ad9cb7b6">npc_escortAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">   87</span>        {</div>
-<div class="line"><span class="lineno">   88</span>            <a class="code hl_variable" href="../../d0/d79/a06187.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../da/d4d/a07967.html#afb2c9a581a6cb7f5e4ad66e3f5086002">DisappearAndDie</a>();</div>
-<div class="line"><span class="lineno">   89</span> </div>
-<div class="line"><span class="lineno">   90</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../da/d4d/a07967.html">Creature</a>* pMarzon = <a class="code hl_function" href="../../d0/d6d/a04809.html#ae42e503fe79bbeaea1aaa665418c43f8">ObjectAccessor::GetCreature</a>(*<a class="code hl_variable" href="../../d0/d79/a06187.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>, <a class="code hl_variable" href="../../de/d7a/a13591.html#a68779dfa5643ffbf0065964d72ba5ddc">MarzonGUID</a>))</div>
-<div class="line"><span class="lineno">   91</span>            {</div>
-<div class="line"><span class="lineno">   92</span>                <span class="keywordflow">if</span> (pMarzon-&gt;IsAlive())</div>
-<div class="line"><span class="lineno">   93</span>                    pMarzon-&gt;DisappearAndDie();</div>
-<div class="line"><span class="lineno">   94</span>            }</div>
-<div class="line"><span class="lineno">   95</span>        }</div>
+<div class="fragment"><div class="line"><span class="lineno">   72</span>        {</div>
+<div class="line"><span class="lineno">   73</span>            <a class="code hl_variable" href="../../d0/d79/a06187.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../da/d4d/a07967.html#afb2c9a581a6cb7f5e4ad66e3f5086002">DisappearAndDie</a>();</div>
+<div class="line"><span class="lineno">   74</span> </div>
+<div class="line"><span class="lineno">   75</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../da/d4d/a07967.html">Creature</a>* pMarzon = <a class="code hl_function" href="../../d0/d6d/a04809.html#ae42e503fe79bbeaea1aaa665418c43f8">ObjectAccessor::GetCreature</a>(*<a class="code hl_variable" href="../../d0/d79/a06187.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>, <a class="code hl_variable" href="../../de/d7a/a13591.html#a68779dfa5643ffbf0065964d72ba5ddc">MarzonGUID</a>))</div>
+<div class="line"><span class="lineno">   76</span>            {</div>
+<div class="line"><span class="lineno">   77</span>                <span class="keywordflow">if</span> (pMarzon-&gt;IsAlive())</div>
+<div class="line"><span class="lineno">   78</span>                    pMarzon-&gt;DisappearAndDie();</div>
+<div class="line"><span class="lineno">   79</span>            }</div>
+<div class="line"><span class="lineno">   80</span>        }</div>
 <div class="ttc" id="aa04809_html_ae42e503fe79bbeaea1aaa665418c43f8"><div class="ttname"><a href="../../d0/d6d/a04809.html#ae42e503fe79bbeaea1aaa665418c43f8">ObjectAccessor::GetCreature</a></div><div class="ttdeci">Creature * GetCreature(WorldObject const &amp;u, ObjectGuid const guid)</div><div class="ttdef"><b>Definition:</b> ObjectAccessor.cpp:210</div></div>
 <div class="ttc" id="aa07967_html_afb2c9a581a6cb7f5e4ad66e3f5086002"><div class="ttname"><a href="../../da/d4d/a07967.html#afb2c9a581a6cb7f5e4ad66e3f5086002">Creature::DisappearAndDie</a></div><div class="ttdeci">void DisappearAndDie()</div><div class="ttdef"><b>Definition:</b> Creature.cpp:373</div></div>
-<div class="ttc" id="aa13591_html_a68779dfa5643ffbf0065964d72ba5ddc"><div class="ttname"><a href="../../de/d7a/a13591.html#a68779dfa5643ffbf0065964d72ba5ddc">npc_lord_gregor_lescovar::npc_lord_gregor_lescovarAI::MarzonGUID</a></div><div class="ttdeci">ObjectGuid MarzonGUID</div><div class="ttdef"><b>Definition:</b> zone_stormwind_city.cpp:76</div></div>
+<div class="ttc" id="aa13591_html_a68779dfa5643ffbf0065964d72ba5ddc"><div class="ttname"><a href="../../de/d7a/a13591.html#a68779dfa5643ffbf0065964d72ba5ddc">npc_lord_gregor_lescovar::npc_lord_gregor_lescovarAI::MarzonGUID</a></div><div class="ttdeci">ObjectGuid MarzonGUID</div><div class="ttdef"><b>Definition:</b> zone_stormwind_city.cpp:61</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00373">Creature::DisappearAndDie()</a>, <a class="el" href="../../#l00210">ObjectAccessor::GetCreature()</a>, <a class="el" href="../../#l00076">MarzonGUID</a>, and <a class="el" href="../../#l00280">ScriptedAI::me</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00373">Creature::DisappearAndDie()</a>, <a class="el" href="../../#l00210">ObjectAccessor::GetCreature()</a>, <a class="el" href="../../#l00061">MarzonGUID</a>, and <a class="el" href="../../#l00280">ScriptedAI::me</a>.</p>
 
 </div>
 </div>
@@ -786,15 +786,15 @@ Additional Inherited Members</h2></td></tr>
 <p>Called for reaction when initially engaged. </p>
 
 <p>Reimplemented from <a class="el" href="../../d0/d79/a06187.html#ac2ce21ab709e349abb8206ce2368cd37">ScriptedAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">   98</span>        {</div>
-<div class="line"><span class="lineno">   99</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../da/d4d/a07967.html">Creature</a>* pMarzon = <a class="code hl_function" href="../../d0/d6d/a04809.html#ae42e503fe79bbeaea1aaa665418c43f8">ObjectAccessor::GetCreature</a>(*<a class="code hl_variable" href="../../d0/d79/a06187.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>, <a class="code hl_variable" href="../../de/d7a/a13591.html#a68779dfa5643ffbf0065964d72ba5ddc">MarzonGUID</a>))</div>
-<div class="line"><span class="lineno">  100</span>            {</div>
-<div class="line"><span class="lineno">  101</span>                <span class="keywordflow">if</span> (pMarzon-&gt;IsAlive() &amp;&amp; !pMarzon-&gt;IsInCombat())</div>
-<div class="line"><span class="lineno">  102</span>                    pMarzon-&gt;AI()-&gt;AttackStart(who);</div>
-<div class="line"><span class="lineno">  103</span>            }</div>
-<div class="line"><span class="lineno">  104</span>        }</div>
+<div class="fragment"><div class="line"><span class="lineno">   83</span>        {</div>
+<div class="line"><span class="lineno">   84</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../da/d4d/a07967.html">Creature</a>* pMarzon = <a class="code hl_function" href="../../d0/d6d/a04809.html#ae42e503fe79bbeaea1aaa665418c43f8">ObjectAccessor::GetCreature</a>(*<a class="code hl_variable" href="../../d0/d79/a06187.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>, <a class="code hl_variable" href="../../de/d7a/a13591.html#a68779dfa5643ffbf0065964d72ba5ddc">MarzonGUID</a>))</div>
+<div class="line"><span class="lineno">   85</span>            {</div>
+<div class="line"><span class="lineno">   86</span>                <span class="keywordflow">if</span> (pMarzon-&gt;IsAlive() &amp;&amp; !pMarzon-&gt;IsInCombat())</div>
+<div class="line"><span class="lineno">   87</span>                    pMarzon-&gt;AI()-&gt;AttackStart(who);</div>
+<div class="line"><span class="lineno">   88</span>            }</div>
+<div class="line"><span class="lineno">   89</span>        }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00210">ObjectAccessor::GetCreature()</a>, <a class="el" href="../../#l00076">MarzonGUID</a>, and <a class="el" href="../../#l00280">ScriptedAI::me</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00210">ObjectAccessor::GetCreature()</a>, <a class="el" href="../../#l00061">MarzonGUID</a>, and <a class="el" href="../../#l00280">ScriptedAI::me</a>.</p>
 
 </div>
 </div>
@@ -822,17 +822,17 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d0/d79/a06187.html#a26600c116d20a33461fc884bdb82eda9">ScriptedAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">   79</span>        {</div>
-<div class="line"><span class="lineno">   80</span>            <a class="code hl_variable" href="../../de/d7a/a13591.html#a70e6be2f5c0f88664c6bbe3f29e1d184">uiTimer</a> = 0;</div>
-<div class="line"><span class="lineno">   81</span>            <a class="code hl_variable" href="../../de/d7a/a13591.html#a3eaf47541cabaac9ce12f830d7d3ef41">uiPhase</a> = 0;</div>
-<div class="line"><span class="lineno">   82</span> </div>
-<div class="line"><span class="lineno">   83</span>            <a class="code hl_variable" href="../../de/d7a/a13591.html#a68779dfa5643ffbf0065964d72ba5ddc">MarzonGUID</a>.<a class="code hl_function" href="../../d3/d9a/a08387.html#af6aafb4610723c7f14523fef243b1b65">Clear</a>();</div>
-<div class="line"><span class="lineno">   84</span>        }</div>
+<div class="fragment"><div class="line"><span class="lineno">   64</span>        {</div>
+<div class="line"><span class="lineno">   65</span>            <a class="code hl_variable" href="../../de/d7a/a13591.html#a70e6be2f5c0f88664c6bbe3f29e1d184">uiTimer</a> = 0;</div>
+<div class="line"><span class="lineno">   66</span>            <a class="code hl_variable" href="../../de/d7a/a13591.html#a3eaf47541cabaac9ce12f830d7d3ef41">uiPhase</a> = 0;</div>
+<div class="line"><span class="lineno">   67</span> </div>
+<div class="line"><span class="lineno">   68</span>            <a class="code hl_variable" href="../../de/d7a/a13591.html#a68779dfa5643ffbf0065964d72ba5ddc">MarzonGUID</a>.<a class="code hl_function" href="../../d3/d9a/a08387.html#af6aafb4610723c7f14523fef243b1b65">Clear</a>();</div>
+<div class="line"><span class="lineno">   69</span>        }</div>
 <div class="ttc" id="aa08387_html_af6aafb4610723c7f14523fef243b1b65"><div class="ttname"><a href="../../d3/d9a/a08387.html#af6aafb4610723c7f14523fef243b1b65">ObjectGuid::Clear</a></div><div class="ttdeci">void Clear()</div><div class="ttdef"><b>Definition:</b> ObjectGuid.h:138</div></div>
-<div class="ttc" id="aa13591_html_a3eaf47541cabaac9ce12f830d7d3ef41"><div class="ttname"><a href="../../de/d7a/a13591.html#a3eaf47541cabaac9ce12f830d7d3ef41">npc_lord_gregor_lescovar::npc_lord_gregor_lescovarAI::uiPhase</a></div><div class="ttdeci">uint32 uiPhase</div><div class="ttdef"><b>Definition:</b> zone_stormwind_city.cpp:74</div></div>
-<div class="ttc" id="aa13591_html_a70e6be2f5c0f88664c6bbe3f29e1d184"><div class="ttname"><a href="../../de/d7a/a13591.html#a70e6be2f5c0f88664c6bbe3f29e1d184">npc_lord_gregor_lescovar::npc_lord_gregor_lescovarAI::uiTimer</a></div><div class="ttdeci">uint32 uiTimer</div><div class="ttdef"><b>Definition:</b> zone_stormwind_city.cpp:73</div></div>
+<div class="ttc" id="aa13591_html_a3eaf47541cabaac9ce12f830d7d3ef41"><div class="ttname"><a href="../../de/d7a/a13591.html#a3eaf47541cabaac9ce12f830d7d3ef41">npc_lord_gregor_lescovar::npc_lord_gregor_lescovarAI::uiPhase</a></div><div class="ttdeci">uint32 uiPhase</div><div class="ttdef"><b>Definition:</b> zone_stormwind_city.cpp:59</div></div>
+<div class="ttc" id="aa13591_html_a70e6be2f5c0f88664c6bbe3f29e1d184"><div class="ttname"><a href="../../de/d7a/a13591.html#a70e6be2f5c0f88664c6bbe3f29e1d184">npc_lord_gregor_lescovar::npc_lord_gregor_lescovarAI::uiTimer</a></div><div class="ttdeci">uint32 uiTimer</div><div class="ttdef"><b>Definition:</b> zone_stormwind_city.cpp:58</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00138">ObjectGuid::Clear()</a>, <a class="el" href="../../#l00076">MarzonGUID</a>, <a class="el" href="../../#l00074">uiPhase</a>, and <a class="el" href="../../#l00073">uiTimer</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00138">ObjectGuid::Clear()</a>, <a class="el" href="../../#l00061">MarzonGUID</a>, <a class="el" href="../../#l00059">uiPhase</a>, and <a class="el" href="../../#l00058">uiTimer</a>.</p>
 
 </div>
 </div>
@@ -863,87 +863,87 @@ Additional Inherited Members</h2></td></tr>
 <p>Use to start attacking a target. Called just before <a class="el" href="../../de/d7a/a13591.html#ad0ca7d80d68b9623b99c644daa8f4c57" title="Called for reaction when initially engaged.">JustEngagedWith()</a> </p>
 
 <p>Reimplemented from <a class="el" href="../../d3/d2f/a06207.html#a5e9c333411c54ff4d644812e53ba1831">npc_escortAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  144</span>        {</div>
-<div class="line"><span class="lineno">  145</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../de/d7a/a13591.html#a3eaf47541cabaac9ce12f830d7d3ef41">uiPhase</a>)</div>
-<div class="line"><span class="lineno">  146</span>            {</div>
-<div class="line"><span class="lineno">  147</span>                <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../de/d7a/a13591.html#a70e6be2f5c0f88664c6bbe3f29e1d184">uiTimer</a> &lt;= uiDiff)</div>
-<div class="line"><span class="lineno">  148</span>                {</div>
-<div class="line"><span class="lineno">  149</span>                    <span class="keywordflow">switch</span> (<a class="code hl_variable" href="../../de/d7a/a13591.html#a3eaf47541cabaac9ce12f830d7d3ef41">uiPhase</a>)</div>
-<div class="line"><span class="lineno">  150</span>                    {</div>
-<div class="line"><span class="lineno">  151</span>                        <span class="keywordflow">case</span> 1:</div>
-<div class="line"><span class="lineno">  152</span>                            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../da/d4d/a07967.html">Creature</a>* pGuard = <a class="code hl_variable" href="../../d0/d79/a06187.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../dc/d84/a08371.html#aa7cc61d571dbc39ca8ac6ac10ffd18ab">FindNearestCreature</a>(<a class="code hl_enumvalue" href="../../d1/d24/a02975.html#a1e4dca432ca60e815b6e871483cbe4e7af9d88994485cf4511078f883c1db22db">NPC_STORMWIND_ROYAL</a>, 8.0f, <span class="keyword">true</span>))</div>
-<div class="line"><span class="lineno">  153</span>                                pGuard-&gt;AI()-&gt;Talk(<a class="code hl_enumvalue" href="../../d1/d24/a02975.html#a1e4dca432ca60e815b6e871483cbe4e7aab262efa326f919e2608524a5f839c91">SAY_GUARD_2</a>);</div>
-<div class="line"><span class="lineno">  154</span>                            <a class="code hl_variable" href="../../de/d7a/a13591.html#a70e6be2f5c0f88664c6bbe3f29e1d184">uiTimer</a> = 3000;</div>
-<div class="line"><span class="lineno">  155</span>                            <a class="code hl_variable" href="../../de/d7a/a13591.html#a3eaf47541cabaac9ce12f830d7d3ef41">uiPhase</a> = 2;</div>
+<div class="fragment"><div class="line"><span class="lineno">  129</span>        {</div>
+<div class="line"><span class="lineno">  130</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../de/d7a/a13591.html#a3eaf47541cabaac9ce12f830d7d3ef41">uiPhase</a>)</div>
+<div class="line"><span class="lineno">  131</span>            {</div>
+<div class="line"><span class="lineno">  132</span>                <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../de/d7a/a13591.html#a70e6be2f5c0f88664c6bbe3f29e1d184">uiTimer</a> &lt;= uiDiff)</div>
+<div class="line"><span class="lineno">  133</span>                {</div>
+<div class="line"><span class="lineno">  134</span>                    <span class="keywordflow">switch</span> (<a class="code hl_variable" href="../../de/d7a/a13591.html#a3eaf47541cabaac9ce12f830d7d3ef41">uiPhase</a>)</div>
+<div class="line"><span class="lineno">  135</span>                    {</div>
+<div class="line"><span class="lineno">  136</span>                        <span class="keywordflow">case</span> 1:</div>
+<div class="line"><span class="lineno">  137</span>                            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../da/d4d/a07967.html">Creature</a>* pGuard = <a class="code hl_variable" href="../../d0/d79/a06187.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../dc/d84/a08371.html#aa7cc61d571dbc39ca8ac6ac10ffd18ab">FindNearestCreature</a>(<a class="code hl_enumvalue" href="../../d1/d24/a02975.html#a1e4dca432ca60e815b6e871483cbe4e7af9d88994485cf4511078f883c1db22db">NPC_STORMWIND_ROYAL</a>, 8.0f, <span class="keyword">true</span>))</div>
+<div class="line"><span class="lineno">  138</span>                                pGuard-&gt;AI()-&gt;Talk(<a class="code hl_enumvalue" href="../../d1/d24/a02975.html#a1e4dca432ca60e815b6e871483cbe4e7aab262efa326f919e2608524a5f839c91">SAY_GUARD_2</a>);</div>
+<div class="line"><span class="lineno">  139</span>                            <a class="code hl_variable" href="../../de/d7a/a13591.html#a70e6be2f5c0f88664c6bbe3f29e1d184">uiTimer</a> = 3000;</div>
+<div class="line"><span class="lineno">  140</span>                            <a class="code hl_variable" href="../../de/d7a/a13591.html#a3eaf47541cabaac9ce12f830d7d3ef41">uiPhase</a> = 2;</div>
+<div class="line"><span class="lineno">  141</span>                            <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  142</span>                        <span class="keywordflow">case</span> 2:</div>
+<div class="line"><span class="lineno">  143</span>                            <a class="code hl_function" href="../../de/d7a/a13591.html#a8588cae3dc8aa3dd46c55439d355df9b">DoGuardsDisappearAndDie</a>();</div>
+<div class="line"><span class="lineno">  144</span>                            <a class="code hl_variable" href="../../de/d7a/a13591.html#a70e6be2f5c0f88664c6bbe3f29e1d184">uiTimer</a> = 2000;</div>
+<div class="line"><span class="lineno">  145</span>                            <a class="code hl_variable" href="../../de/d7a/a13591.html#a3eaf47541cabaac9ce12f830d7d3ef41">uiPhase</a> = 3;</div>
+<div class="line"><span class="lineno">  146</span>                            <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  147</span>                        <span class="keywordflow">case</span> 3:</div>
+<div class="line"><span class="lineno">  148</span>                            <a class="code hl_function" href="../../d3/d2f/a06207.html#aab2ae80bf9d5b6382fc6f8390808bc74">SetEscortPaused</a>(<span class="keyword">false</span>);</div>
+<div class="line"><span class="lineno">  149</span>                            <a class="code hl_variable" href="../../de/d7a/a13591.html#a70e6be2f5c0f88664c6bbe3f29e1d184">uiTimer</a> = 0;</div>
+<div class="line"><span class="lineno">  150</span>                            <a class="code hl_variable" href="../../de/d7a/a13591.html#a3eaf47541cabaac9ce12f830d7d3ef41">uiPhase</a> = 0;</div>
+<div class="line"><span class="lineno">  151</span>                            <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  152</span>                        <span class="keywordflow">case</span> 4:</div>
+<div class="line"><span class="lineno">  153</span>                            <a class="code hl_enumeration" href="../../d0/d20/a03557.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a>(<a class="code hl_enumvalue" href="../../d1/d24/a02975.html#a1e4dca432ca60e815b6e871483cbe4e7ab0afa663e4044b81b4b05e29a88cd45a">SAY_LESCOVAR_3</a>);</div>
+<div class="line"><span class="lineno">  154</span>                            <a class="code hl_variable" href="../../de/d7a/a13591.html#a70e6be2f5c0f88664c6bbe3f29e1d184">uiTimer</a> = 0;</div>
+<div class="line"><span class="lineno">  155</span>                            <a class="code hl_variable" href="../../de/d7a/a13591.html#a3eaf47541cabaac9ce12f830d7d3ef41">uiPhase</a> = 0;</div>
 <div class="line"><span class="lineno">  156</span>                            <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  157</span>                        <span class="keywordflow">case</span> 2:</div>
-<div class="line"><span class="lineno">  158</span>                            <a class="code hl_function" href="../../de/d7a/a13591.html#a8588cae3dc8aa3dd46c55439d355df9b">DoGuardsDisappearAndDie</a>();</div>
-<div class="line"><span class="lineno">  159</span>                            <a class="code hl_variable" href="../../de/d7a/a13591.html#a70e6be2f5c0f88664c6bbe3f29e1d184">uiTimer</a> = 2000;</div>
-<div class="line"><span class="lineno">  160</span>                            <a class="code hl_variable" href="../../de/d7a/a13591.html#a3eaf47541cabaac9ce12f830d7d3ef41">uiPhase</a> = 3;</div>
-<div class="line"><span class="lineno">  161</span>                            <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  162</span>                        <span class="keywordflow">case</span> 3:</div>
-<div class="line"><span class="lineno">  163</span>                            <a class="code hl_function" href="../../d3/d2f/a06207.html#aab2ae80bf9d5b6382fc6f8390808bc74">SetEscortPaused</a>(<span class="keyword">false</span>);</div>
-<div class="line"><span class="lineno">  164</span>                            <a class="code hl_variable" href="../../de/d7a/a13591.html#a70e6be2f5c0f88664c6bbe3f29e1d184">uiTimer</a> = 0;</div>
-<div class="line"><span class="lineno">  165</span>                            <a class="code hl_variable" href="../../de/d7a/a13591.html#a3eaf47541cabaac9ce12f830d7d3ef41">uiPhase</a> = 0;</div>
-<div class="line"><span class="lineno">  166</span>                            <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  167</span>                        <span class="keywordflow">case</span> 4:</div>
-<div class="line"><span class="lineno">  168</span>                            <a class="code hl_enumeration" href="../../d0/d20/a03557.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a>(<a class="code hl_enumvalue" href="../../d1/d24/a02975.html#a1e4dca432ca60e815b6e871483cbe4e7ab0afa663e4044b81b4b05e29a88cd45a">SAY_LESCOVAR_3</a>);</div>
-<div class="line"><span class="lineno">  169</span>                            <a class="code hl_variable" href="../../de/d7a/a13591.html#a70e6be2f5c0f88664c6bbe3f29e1d184">uiTimer</a> = 0;</div>
-<div class="line"><span class="lineno">  170</span>                            <a class="code hl_variable" href="../../de/d7a/a13591.html#a3eaf47541cabaac9ce12f830d7d3ef41">uiPhase</a> = 0;</div>
-<div class="line"><span class="lineno">  171</span>                            <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  172</span>                        <span class="keywordflow">case</span> 5:</div>
+<div class="line"><span class="lineno">  157</span>                        <span class="keywordflow">case</span> 5:</div>
+<div class="line"><span class="lineno">  158</span>                            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../da/d4d/a07967.html">Creature</a>* pMarzon = <a class="code hl_function" href="../../d0/d6d/a04809.html#ae42e503fe79bbeaea1aaa665418c43f8">ObjectAccessor::GetCreature</a>(*<a class="code hl_variable" href="../../d0/d79/a06187.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>, <a class="code hl_variable" href="../../de/d7a/a13591.html#a68779dfa5643ffbf0065964d72ba5ddc">MarzonGUID</a>))</div>
+<div class="line"><span class="lineno">  159</span>                                pMarzon-&gt;AI()-&gt;Talk(<a class="code hl_enumvalue" href="../../d1/d24/a02975.html#a1e4dca432ca60e815b6e871483cbe4e7ad19de95b33b84ba449bdc585d534f3bb">SAY_MARZON_1</a>);</div>
+<div class="line"><span class="lineno">  160</span>                            <a class="code hl_variable" href="../../de/d7a/a13591.html#a70e6be2f5c0f88664c6bbe3f29e1d184">uiTimer</a> = 3000;</div>
+<div class="line"><span class="lineno">  161</span>                            <a class="code hl_variable" href="../../de/d7a/a13591.html#a3eaf47541cabaac9ce12f830d7d3ef41">uiPhase</a> = 6;</div>
+<div class="line"><span class="lineno">  162</span>                            <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  163</span>                        <span class="keywordflow">case</span> 6:</div>
+<div class="line"><span class="lineno">  164</span>                            <a class="code hl_enumeration" href="../../d0/d20/a03557.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a>(<a class="code hl_enumvalue" href="../../d1/d24/a02975.html#a1e4dca432ca60e815b6e871483cbe4e7a560401a00335748429691c21614a4c76">SAY_LESCOVAR_4</a>);</div>
+<div class="line"><span class="lineno">  165</span>                            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d2/d95/a08583.html">Player</a>* player = <a class="code hl_function" href="../../d3/d2f/a06207.html#a689a50e0af6c80ef59ee207ac518df45">GetPlayerForEscort</a>())</div>
+<div class="line"><span class="lineno">  166</span>                                player-&gt;GroupEventHappens(<a class="code hl_enumvalue" href="../../d1/d24/a02975.html#a1e4dca432ca60e815b6e871483cbe4e7a2035fa37d7029761409d06dfdbfcfc68">QUEST_THE_ATTACK</a>, <a class="code hl_variable" href="../../d0/d79/a06187.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>);</div>
+<div class="line"><span class="lineno">  167</span>                            <a class="code hl_variable" href="../../de/d7a/a13591.html#a70e6be2f5c0f88664c6bbe3f29e1d184">uiTimer</a> = 2000;</div>
+<div class="line"><span class="lineno">  168</span>                            <a class="code hl_variable" href="../../de/d7a/a13591.html#a3eaf47541cabaac9ce12f830d7d3ef41">uiPhase</a> = 7;</div>
+<div class="line"><span class="lineno">  169</span>                            <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  170</span>                        <span class="keywordflow">case</span> 7:</div>
+<div class="line"><span class="lineno">  171</span>                            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../da/d4d/a07967.html">Creature</a>* pTyrion = <a class="code hl_variable" href="../../d0/d79/a06187.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../dc/d84/a08371.html#aa7cc61d571dbc39ca8ac6ac10ffd18ab">FindNearestCreature</a>(<a class="code hl_enumvalue" href="../../d1/d24/a02975.html#a1e4dca432ca60e815b6e871483cbe4e7a87ee81f943a1bcb5ee89b1c646035696">NPC_TYRION</a>, 20.0f, <span class="keyword">true</span>))</div>
+<div class="line"><span class="lineno">  172</span>                                pTyrion-&gt;AI()-&gt;Talk(<a class="code hl_enumvalue" href="../../d1/d24/a02975.html#a1e4dca432ca60e815b6e871483cbe4e7a83253082d516a61481fa2396e8e421db">SAY_TYRION_2</a>);</div>
 <div class="line"><span class="lineno">  173</span>                            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../da/d4d/a07967.html">Creature</a>* pMarzon = <a class="code hl_function" href="../../d0/d6d/a04809.html#ae42e503fe79bbeaea1aaa665418c43f8">ObjectAccessor::GetCreature</a>(*<a class="code hl_variable" href="../../d0/d79/a06187.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>, <a class="code hl_variable" href="../../de/d7a/a13591.html#a68779dfa5643ffbf0065964d72ba5ddc">MarzonGUID</a>))</div>
-<div class="line"><span class="lineno">  174</span>                                pMarzon-&gt;AI()-&gt;Talk(<a class="code hl_enumvalue" href="../../d1/d24/a02975.html#a1e4dca432ca60e815b6e871483cbe4e7ad19de95b33b84ba449bdc585d534f3bb">SAY_MARZON_1</a>);</div>
-<div class="line"><span class="lineno">  175</span>                            <a class="code hl_variable" href="../../de/d7a/a13591.html#a70e6be2f5c0f88664c6bbe3f29e1d184">uiTimer</a> = 3000;</div>
-<div class="line"><span class="lineno">  176</span>                            <a class="code hl_variable" href="../../de/d7a/a13591.html#a3eaf47541cabaac9ce12f830d7d3ef41">uiPhase</a> = 6;</div>
-<div class="line"><span class="lineno">  177</span>                            <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  178</span>                        <span class="keywordflow">case</span> 6:</div>
-<div class="line"><span class="lineno">  179</span>                            <a class="code hl_enumeration" href="../../d0/d20/a03557.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a>(<a class="code hl_enumvalue" href="../../d1/d24/a02975.html#a1e4dca432ca60e815b6e871483cbe4e7a560401a00335748429691c21614a4c76">SAY_LESCOVAR_4</a>);</div>
-<div class="line"><span class="lineno">  180</span>                            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d2/d95/a08583.html">Player</a>* player = <a class="code hl_function" href="../../d3/d2f/a06207.html#a689a50e0af6c80ef59ee207ac518df45">GetPlayerForEscort</a>())</div>
-<div class="line"><span class="lineno">  181</span>                                player-&gt;GroupEventHappens(<a class="code hl_enumvalue" href="../../d1/d24/a02975.html#a1e4dca432ca60e815b6e871483cbe4e7a2035fa37d7029761409d06dfdbfcfc68">QUEST_THE_ATTACK</a>, <a class="code hl_variable" href="../../d0/d79/a06187.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>);</div>
-<div class="line"><span class="lineno">  182</span>                            <a class="code hl_variable" href="../../de/d7a/a13591.html#a70e6be2f5c0f88664c6bbe3f29e1d184">uiTimer</a> = 2000;</div>
-<div class="line"><span class="lineno">  183</span>                            <a class="code hl_variable" href="../../de/d7a/a13591.html#a3eaf47541cabaac9ce12f830d7d3ef41">uiPhase</a> = 7;</div>
-<div class="line"><span class="lineno">  184</span>                            <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  185</span>                        <span class="keywordflow">case</span> 7:</div>
-<div class="line"><span class="lineno">  186</span>                            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../da/d4d/a07967.html">Creature</a>* pTyrion = <a class="code hl_variable" href="../../d0/d79/a06187.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../dc/d84/a08371.html#aa7cc61d571dbc39ca8ac6ac10ffd18ab">FindNearestCreature</a>(<a class="code hl_enumvalue" href="../../d1/d24/a02975.html#a1e4dca432ca60e815b6e871483cbe4e7a87ee81f943a1bcb5ee89b1c646035696">NPC_TYRION</a>, 20.0f, <span class="keyword">true</span>))</div>
-<div class="line"><span class="lineno">  187</span>                                pTyrion-&gt;AI()-&gt;Talk(<a class="code hl_enumvalue" href="../../d1/d24/a02975.html#a1e4dca432ca60e815b6e871483cbe4e7a83253082d516a61481fa2396e8e421db">SAY_TYRION_2</a>);</div>
-<div class="line"><span class="lineno">  188</span>                            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../da/d4d/a07967.html">Creature</a>* pMarzon = <a class="code hl_function" href="../../d0/d6d/a04809.html#ae42e503fe79bbeaea1aaa665418c43f8">ObjectAccessor::GetCreature</a>(*<a class="code hl_variable" href="../../d0/d79/a06187.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>, <a class="code hl_variable" href="../../de/d7a/a13591.html#a68779dfa5643ffbf0065964d72ba5ddc">MarzonGUID</a>))</div>
-<div class="line"><span class="lineno">  189</span>                                pMarzon-&gt;SetFaction(<a class="code hl_enumvalue" href="../../d0/d2b/a01997.html#ac5c8e776fe109c83a63abe41eb5e80f2ad5df5c249f2a8680cdf3cdf81931f1a9">FACTION_MONSTER</a>);</div>
-<div class="line"><span class="lineno">  190</span>                            <a class="code hl_variable" href="../../d0/d79/a06187.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../dd/d58/a08715.html#a2579e2b71959daec99048b4bcf7f6bf3">SetFaction</a>(<a class="code hl_enumvalue" href="../../d0/d2b/a01997.html#ac5c8e776fe109c83a63abe41eb5e80f2ad5df5c249f2a8680cdf3cdf81931f1a9">FACTION_MONSTER</a>);</div>
-<div class="line"><span class="lineno">  191</span>                            <a class="code hl_variable" href="../../de/d7a/a13591.html#a70e6be2f5c0f88664c6bbe3f29e1d184">uiTimer</a> = 0;</div>
-<div class="line"><span class="lineno">  192</span>                            <a class="code hl_variable" href="../../de/d7a/a13591.html#a3eaf47541cabaac9ce12f830d7d3ef41">uiPhase</a> = 0;</div>
-<div class="line"><span class="lineno">  193</span>                            <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  194</span>                    }</div>
-<div class="line"><span class="lineno">  195</span>                }</div>
-<div class="line"><span class="lineno">  196</span>                <span class="keywordflow">else</span> <a class="code hl_variable" href="../../de/d7a/a13591.html#a70e6be2f5c0f88664c6bbe3f29e1d184">uiTimer</a> -= uiDiff;</div>
-<div class="line"><span class="lineno">  197</span>            }</div>
-<div class="line"><span class="lineno">  198</span>            <a class="code hl_function" href="../../d3/d2f/a06207.html#a5e9c333411c54ff4d644812e53ba1831">npc_escortAI::UpdateAI</a>(uiDiff);</div>
-<div class="line"><span class="lineno">  199</span> </div>
-<div class="line"><span class="lineno">  200</span>            <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../d7/dc5/a06143.html#ae03ccfe1e27501ed9ccbfecdbd3c4e39">UpdateVictim</a>())</div>
-<div class="line"><span class="lineno">  201</span>                <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  202</span> </div>
-<div class="line"><span class="lineno">  203</span>            <a class="code hl_function" href="../../d4/d84/a06131.html#a348a472089a9be6210b58aace8fafa9f">DoMeleeAttackIfReady</a>();</div>
-<div class="line"><span class="lineno">  204</span>        }</div>
+<div class="line"><span class="lineno">  174</span>                                pMarzon-&gt;SetFaction(<a class="code hl_enumvalue" href="../../d0/d2b/a01997.html#ac5c8e776fe109c83a63abe41eb5e80f2ad5df5c249f2a8680cdf3cdf81931f1a9">FACTION_MONSTER</a>);</div>
+<div class="line"><span class="lineno">  175</span>                            <a class="code hl_variable" href="../../d0/d79/a06187.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../dd/d58/a08715.html#a2579e2b71959daec99048b4bcf7f6bf3">SetFaction</a>(<a class="code hl_enumvalue" href="../../d0/d2b/a01997.html#ac5c8e776fe109c83a63abe41eb5e80f2ad5df5c249f2a8680cdf3cdf81931f1a9">FACTION_MONSTER</a>);</div>
+<div class="line"><span class="lineno">  176</span>                            <a class="code hl_variable" href="../../de/d7a/a13591.html#a70e6be2f5c0f88664c6bbe3f29e1d184">uiTimer</a> = 0;</div>
+<div class="line"><span class="lineno">  177</span>                            <a class="code hl_variable" href="../../de/d7a/a13591.html#a3eaf47541cabaac9ce12f830d7d3ef41">uiPhase</a> = 0;</div>
+<div class="line"><span class="lineno">  178</span>                            <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  179</span>                    }</div>
+<div class="line"><span class="lineno">  180</span>                }</div>
+<div class="line"><span class="lineno">  181</span>                <span class="keywordflow">else</span> <a class="code hl_variable" href="../../de/d7a/a13591.html#a70e6be2f5c0f88664c6bbe3f29e1d184">uiTimer</a> -= uiDiff;</div>
+<div class="line"><span class="lineno">  182</span>            }</div>
+<div class="line"><span class="lineno">  183</span>            <a class="code hl_function" href="../../d3/d2f/a06207.html#a5e9c333411c54ff4d644812e53ba1831">npc_escortAI::UpdateAI</a>(uiDiff);</div>
+<div class="line"><span class="lineno">  184</span> </div>
+<div class="line"><span class="lineno">  185</span>            <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../d7/dc5/a06143.html#ae03ccfe1e27501ed9ccbfecdbd3c4e39">UpdateVictim</a>())</div>
+<div class="line"><span class="lineno">  186</span>                <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  187</span> </div>
+<div class="line"><span class="lineno">  188</span>            <a class="code hl_function" href="../../d4/d84/a06131.html#a348a472089a9be6210b58aace8fafa9f">DoMeleeAttackIfReady</a>();</div>
+<div class="line"><span class="lineno">  189</span>        }</div>
 <div class="ttc" id="aa01997_html_ac5c8e776fe109c83a63abe41eb5e80f2ad5df5c249f2a8680cdf3cdf81931f1a9"><div class="ttname"><a href="../../d0/d2b/a01997.html#ac5c8e776fe109c83a63abe41eb5e80f2ad5df5c249f2a8680cdf3cdf81931f1a9">FACTION_MONSTER</a></div><div class="ttdeci">@ FACTION_MONSTER</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:195</div></div>
-<div class="ttc" id="aa02975_html_a1e4dca432ca60e815b6e871483cbe4e7a2035fa37d7029761409d06dfdbfcfc68"><div class="ttname"><a href="../../d1/d24/a02975.html#a1e4dca432ca60e815b6e871483cbe4e7a2035fa37d7029761409d06dfdbfcfc68">QUEST_THE_ATTACK</a></div><div class="ttdeci">@ QUEST_THE_ATTACK</div><div class="ttdef"><b>Definition:</b> zone_stormwind_city.cpp:56</div></div>
-<div class="ttc" id="aa02975_html_a1e4dca432ca60e815b6e871483cbe4e7a560401a00335748429691c21614a4c76"><div class="ttname"><a href="../../d1/d24/a02975.html#a1e4dca432ca60e815b6e871483cbe4e7a560401a00335748429691c21614a4c76">SAY_LESCOVAR_4</a></div><div class="ttdeci">@ SAY_LESCOVAR_4</div><div class="ttdef"><b>Definition:</b> zone_stormwind_city.cpp:47</div></div>
-<div class="ttc" id="aa02975_html_a1e4dca432ca60e815b6e871483cbe4e7a83253082d516a61481fa2396e8e421db"><div class="ttname"><a href="../../d1/d24/a02975.html#a1e4dca432ca60e815b6e871483cbe4e7a83253082d516a61481fa2396e8e421db">SAY_TYRION_2</a></div><div class="ttdeci">@ SAY_TYRION_2</div><div class="ttdef"><b>Definition:</b> zone_stormwind_city.cpp:50</div></div>
-<div class="ttc" id="aa02975_html_a1e4dca432ca60e815b6e871483cbe4e7a87ee81f943a1bcb5ee89b1c646035696"><div class="ttname"><a href="../../d1/d24/a02975.html#a1e4dca432ca60e815b6e871483cbe4e7a87ee81f943a1bcb5ee89b1c646035696">NPC_TYRION</a></div><div class="ttdeci">@ NPC_TYRION</div><div class="ttdef"><b>Definition:</b> zone_stormwind_city.cpp:54</div></div>
-<div class="ttc" id="aa02975_html_a1e4dca432ca60e815b6e871483cbe4e7aab262efa326f919e2608524a5f839c91"><div class="ttname"><a href="../../d1/d24/a02975.html#a1e4dca432ca60e815b6e871483cbe4e7aab262efa326f919e2608524a5f839c91">SAY_GUARD_2</a></div><div class="ttdeci">@ SAY_GUARD_2</div><div class="ttdef"><b>Definition:</b> zone_stormwind_city.cpp:44</div></div>
-<div class="ttc" id="aa02975_html_a1e4dca432ca60e815b6e871483cbe4e7ab0afa663e4044b81b4b05e29a88cd45a"><div class="ttname"><a href="../../d1/d24/a02975.html#a1e4dca432ca60e815b6e871483cbe4e7ab0afa663e4044b81b4b05e29a88cd45a">SAY_LESCOVAR_3</a></div><div class="ttdeci">@ SAY_LESCOVAR_3</div><div class="ttdef"><b>Definition:</b> zone_stormwind_city.cpp:46</div></div>
-<div class="ttc" id="aa02975_html_a1e4dca432ca60e815b6e871483cbe4e7ad19de95b33b84ba449bdc585d534f3bb"><div class="ttname"><a href="../../d1/d24/a02975.html#a1e4dca432ca60e815b6e871483cbe4e7ad19de95b33b84ba449bdc585d534f3bb">SAY_MARZON_1</a></div><div class="ttdeci">@ SAY_MARZON_1</div><div class="ttdef"><b>Definition:</b> zone_stormwind_city.cpp:48</div></div>
+<div class="ttc" id="aa02975_html_a1e4dca432ca60e815b6e871483cbe4e7a2035fa37d7029761409d06dfdbfcfc68"><div class="ttname"><a href="../../d1/d24/a02975.html#a1e4dca432ca60e815b6e871483cbe4e7a2035fa37d7029761409d06dfdbfcfc68">QUEST_THE_ATTACK</a></div><div class="ttdeci">@ QUEST_THE_ATTACK</div><div class="ttdef"><b>Definition:</b> zone_stormwind_city.cpp:41</div></div>
+<div class="ttc" id="aa02975_html_a1e4dca432ca60e815b6e871483cbe4e7a560401a00335748429691c21614a4c76"><div class="ttname"><a href="../../d1/d24/a02975.html#a1e4dca432ca60e815b6e871483cbe4e7a560401a00335748429691c21614a4c76">SAY_LESCOVAR_4</a></div><div class="ttdeci">@ SAY_LESCOVAR_4</div><div class="ttdef"><b>Definition:</b> zone_stormwind_city.cpp:32</div></div>
+<div class="ttc" id="aa02975_html_a1e4dca432ca60e815b6e871483cbe4e7a83253082d516a61481fa2396e8e421db"><div class="ttname"><a href="../../d1/d24/a02975.html#a1e4dca432ca60e815b6e871483cbe4e7a83253082d516a61481fa2396e8e421db">SAY_TYRION_2</a></div><div class="ttdeci">@ SAY_TYRION_2</div><div class="ttdef"><b>Definition:</b> zone_stormwind_city.cpp:35</div></div>
+<div class="ttc" id="aa02975_html_a1e4dca432ca60e815b6e871483cbe4e7a87ee81f943a1bcb5ee89b1c646035696"><div class="ttname"><a href="../../d1/d24/a02975.html#a1e4dca432ca60e815b6e871483cbe4e7a87ee81f943a1bcb5ee89b1c646035696">NPC_TYRION</a></div><div class="ttdeci">@ NPC_TYRION</div><div class="ttdef"><b>Definition:</b> zone_stormwind_city.cpp:39</div></div>
+<div class="ttc" id="aa02975_html_a1e4dca432ca60e815b6e871483cbe4e7aab262efa326f919e2608524a5f839c91"><div class="ttname"><a href="../../d1/d24/a02975.html#a1e4dca432ca60e815b6e871483cbe4e7aab262efa326f919e2608524a5f839c91">SAY_GUARD_2</a></div><div class="ttdeci">@ SAY_GUARD_2</div><div class="ttdef"><b>Definition:</b> zone_stormwind_city.cpp:29</div></div>
+<div class="ttc" id="aa02975_html_a1e4dca432ca60e815b6e871483cbe4e7ab0afa663e4044b81b4b05e29a88cd45a"><div class="ttname"><a href="../../d1/d24/a02975.html#a1e4dca432ca60e815b6e871483cbe4e7ab0afa663e4044b81b4b05e29a88cd45a">SAY_LESCOVAR_3</a></div><div class="ttdeci">@ SAY_LESCOVAR_3</div><div class="ttdef"><b>Definition:</b> zone_stormwind_city.cpp:31</div></div>
+<div class="ttc" id="aa02975_html_a1e4dca432ca60e815b6e871483cbe4e7ad19de95b33b84ba449bdc585d534f3bb"><div class="ttname"><a href="../../d1/d24/a02975.html#a1e4dca432ca60e815b6e871483cbe4e7ad19de95b33b84ba449bdc585d534f3bb">SAY_MARZON_1</a></div><div class="ttdeci">@ SAY_MARZON_1</div><div class="ttdef"><b>Definition:</b> zone_stormwind_city.cpp:33</div></div>
 <div class="ttc" id="aa03557_html_a747a224b6b3195f9a33c56ddc6c7e268"><div class="ttname"><a href="../../d0/d20/a03557.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a></div><div class="ttdeci">Talk</div><div class="ttdef"><b>Definition:</b> hyjal.cpp:82</div></div>
 <div class="ttc" id="aa06131_html_a348a472089a9be6210b58aace8fafa9f"><div class="ttname"><a href="../../d4/d84/a06131.html#a348a472089a9be6210b58aace8fafa9f">UnitAI::DoMeleeAttackIfReady</a></div><div class="ttdeci">void DoMeleeAttackIfReady()</div><div class="ttdef"><b>Definition:</b> UnitAI.cpp:39</div></div>
 <div class="ttc" id="aa06143_html_ae03ccfe1e27501ed9ccbfecdbd3c4e39"><div class="ttname"><a href="../../d7/dc5/a06143.html#ae03ccfe1e27501ed9ccbfecdbd3c4e39">CreatureAI::UpdateVictim</a></div><div class="ttdeci">bool UpdateVictim()</div><div class="ttdef"><b>Definition:</b> CreatureAI.cpp:282</div></div>
-<div class="ttc" id="aa06207_html_a5e9c333411c54ff4d644812e53ba1831"><div class="ttname"><a href="../../d3/d2f/a06207.html#a5e9c333411c54ff4d644812e53ba1831">npc_escortAI::UpdateAI</a></div><div class="ttdeci">void UpdateAI(uint32 diff) override</div><div class="ttdoc">Use to start attacking a target. Called just before JustEngagedWith()</div><div class="ttdef"><b>Definition:</b> ScriptedEscortAI.cpp:240</div></div>
+<div class="ttc" id="aa06207_html_a5e9c333411c54ff4d644812e53ba1831"><div class="ttname"><a href="../../d3/d2f/a06207.html#a5e9c333411c54ff4d644812e53ba1831">npc_escortAI::UpdateAI</a></div><div class="ttdeci">void UpdateAI(uint32 diff) override</div><div class="ttdoc">Use to start attacking a target. Called just before JustEngagedWith()</div><div class="ttdef"><b>Definition:</b> ScriptedEscortAI.cpp:233</div></div>
 <div class="ttc" id="aa06207_html_a689a50e0af6c80ef59ee207ac518df45"><div class="ttname"><a href="../../d3/d2f/a06207.html#a689a50e0af6c80ef59ee207ac518df45">npc_escortAI::GetPlayerForEscort</a></div><div class="ttdeci">Player * GetPlayerForEscort()</div><div class="ttdef"><b>Definition:</b> ScriptedEscortAI.h:114</div></div>
-<div class="ttc" id="aa06207_html_aab2ae80bf9d5b6382fc6f8390808bc74"><div class="ttname"><a href="../../d3/d2f/a06207.html#aab2ae80bf9d5b6382fc6f8390808bc74">npc_escortAI::SetEscortPaused</a></div><div class="ttdeci">void SetEscortPaused(bool on)</div><div class="ttdef"><b>Definition:</b> ScriptedEscortAI.cpp:523</div></div>
+<div class="ttc" id="aa06207_html_aab2ae80bf9d5b6382fc6f8390808bc74"><div class="ttname"><a href="../../d3/d2f/a06207.html#aab2ae80bf9d5b6382fc6f8390808bc74">npc_escortAI::SetEscortPaused</a></div><div class="ttdeci">void SetEscortPaused(bool on)</div><div class="ttdef"><b>Definition:</b> ScriptedEscortAI.cpp:516</div></div>
 <div class="ttc" id="aa08371_html_aa7cc61d571dbc39ca8ac6ac10ffd18ab"><div class="ttname"><a href="../../dc/d84/a08371.html#aa7cc61d571dbc39ca8ac6ac10ffd18ab">WorldObject::FindNearestCreature</a></div><div class="ttdeci">Creature * FindNearestCreature(uint32 entry, float range, bool alive=true) const</div><div class="ttdef"><b>Definition:</b> Object.cpp:2459</div></div>
 <div class="ttc" id="aa08583_html"><div class="ttname"><a href="../../d2/d95/a08583.html">Player</a></div><div class="ttdef"><b>Definition:</b> Player.h:1082</div></div>
 <div class="ttc" id="aa08715_html_a2579e2b71959daec99048b4bcf7f6bf3"><div class="ttname"><a href="../../dd/d58/a08715.html#a2579e2b71959daec99048b4bcf7f6bf3">Unit::SetFaction</a></div><div class="ttdeci">void SetFaction(uint32 faction)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:10096</div></div>
-<div class="ttc" id="aa13591_html_a8588cae3dc8aa3dd46c55439d355df9b"><div class="ttname"><a href="../../de/d7a/a13591.html#a8588cae3dc8aa3dd46c55439d355df9b">npc_lord_gregor_lescovar::npc_lord_gregor_lescovarAI::DoGuardsDisappearAndDie</a></div><div class="ttdeci">void DoGuardsDisappearAndDie()</div><div class="ttdef"><b>Definition:</b> zone_stormwind_city.cpp:129</div></div>
+<div class="ttc" id="aa13591_html_a8588cae3dc8aa3dd46c55439d355df9b"><div class="ttname"><a href="../../de/d7a/a13591.html#a8588cae3dc8aa3dd46c55439d355df9b">npc_lord_gregor_lescovar::npc_lord_gregor_lescovarAI::DoGuardsDisappearAndDie</a></div><div class="ttdeci">void DoGuardsDisappearAndDie()</div><div class="ttdef"><b>Definition:</b> zone_stormwind_city.cpp:114</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00129">DoGuardsDisappearAndDie()</a>, <a class="el" href="../../#l00039">UnitAI::DoMeleeAttackIfReady()</a>, <a class="el" href="../../#l00195">FACTION_MONSTER</a>, <a class="el" href="../../#l02459">WorldObject::FindNearestCreature()</a>, <a class="el" href="../../#l00210">ObjectAccessor::GetCreature()</a>, <a class="el" href="../../#l00114">npc_escortAI::GetPlayerForEscort()</a>, <a class="el" href="../../#l00076">MarzonGUID</a>, <a class="el" href="../../#l00280">ScriptedAI::me</a>, <a class="el" href="../../#l00052">NPC_STORMWIND_ROYAL</a>, <a class="el" href="../../#l00054">NPC_TYRION</a>, <a class="el" href="../../#l00056">QUEST_THE_ATTACK</a>, <a class="el" href="../../#l00044">SAY_GUARD_2</a>, <a class="el" href="../../#l00046">SAY_LESCOVAR_3</a>, <a class="el" href="../../#l00047">SAY_LESCOVAR_4</a>, <a class="el" href="../../#l00048">SAY_MARZON_1</a>, <a class="el" href="../../#l00050">SAY_TYRION_2</a>, <a class="el" href="../../#l00523">npc_escortAI::SetEscortPaused()</a>, <a class="el" href="../../#l10096">Unit::SetFaction()</a>, <a class="el" href="../../#l00074">uiPhase</a>, <a class="el" href="../../#l00073">uiTimer</a>, <a class="el" href="../../#l00240">npc_escortAI::UpdateAI()</a>, and <a class="el" href="../../#l00282">CreatureAI::UpdateVictim()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00114">DoGuardsDisappearAndDie()</a>, <a class="el" href="../../#l00039">UnitAI::DoMeleeAttackIfReady()</a>, <a class="el" href="../../#l00195">FACTION_MONSTER</a>, <a class="el" href="../../#l02459">WorldObject::FindNearestCreature()</a>, <a class="el" href="../../#l00210">ObjectAccessor::GetCreature()</a>, <a class="el" href="../../#l00114">npc_escortAI::GetPlayerForEscort()</a>, <a class="el" href="../../#l00061">MarzonGUID</a>, <a class="el" href="../../#l00280">ScriptedAI::me</a>, <a class="el" href="../../#l00037">NPC_STORMWIND_ROYAL</a>, <a class="el" href="../../#l00039">NPC_TYRION</a>, <a class="el" href="../../#l00041">QUEST_THE_ATTACK</a>, <a class="el" href="../../#l00029">SAY_GUARD_2</a>, <a class="el" href="../../#l00031">SAY_LESCOVAR_3</a>, <a class="el" href="../../#l00032">SAY_LESCOVAR_4</a>, <a class="el" href="../../#l00033">SAY_MARZON_1</a>, <a class="el" href="../../#l00035">SAY_TYRION_2</a>, <a class="el" href="../../#l00516">npc_escortAI::SetEscortPaused()</a>, <a class="el" href="../../#l10096">Unit::SetFaction()</a>, <a class="el" href="../../#l00059">uiPhase</a>, <a class="el" href="../../#l00058">uiTimer</a>, <a class="el" href="../../#l00233">npc_escortAI::UpdateAI()</a>, and <a class="el" href="../../#l00282">CreatureAI::UpdateVictim()</a>.</p>
 
 </div>
 </div>
@@ -972,33 +972,33 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../d3/d2f/a06207.html#a59830f742b9967303df22f5bcf0d2b9d">npc_escortAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  107</span>        {</div>
-<div class="line"><span class="lineno">  108</span>            <span class="keywordflow">switch</span> (waypointId)</div>
-<div class="line"><span class="lineno">  109</span>            {</div>
-<div class="line"><span class="lineno">  110</span>                <span class="keywordflow">case</span> 14:</div>
-<div class="line"><span class="lineno">  111</span>                    <a class="code hl_function" href="../../d3/d2f/a06207.html#aab2ae80bf9d5b6382fc6f8390808bc74">SetEscortPaused</a>(<span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">  112</span>                    <a class="code hl_enumeration" href="../../d0/d20/a03557.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a>(<a class="code hl_enumvalue" href="../../d1/d24/a02975.html#a1e4dca432ca60e815b6e871483cbe4e7a56a4966e9106db7ffda929b1e7e67603">SAY_LESCOVAR_2</a>);</div>
-<div class="line"><span class="lineno">  113</span>                    <a class="code hl_variable" href="../../de/d7a/a13591.html#a70e6be2f5c0f88664c6bbe3f29e1d184">uiTimer</a> = 3000;</div>
-<div class="line"><span class="lineno">  114</span>                    <a class="code hl_variable" href="../../de/d7a/a13591.html#a3eaf47541cabaac9ce12f830d7d3ef41">uiPhase</a> = 1;</div>
-<div class="line"><span class="lineno">  115</span>                    <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  116</span>                <span class="keywordflow">case</span> 16:</div>
-<div class="line"><span class="lineno">  117</span>                    <a class="code hl_function" href="../../d3/d2f/a06207.html#aab2ae80bf9d5b6382fc6f8390808bc74">SetEscortPaused</a>(<span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">  118</span>                    <span class="keywordflow">if</span> (<a class="code hl_class" href="../../da/d4d/a07967.html">Creature</a>* pMarzon = <a class="code hl_variable" href="../../d0/d79/a06187.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../dc/d84/a08371.html#a1077c11c335f60013fdf7e7684bba519">SummonCreature</a>(<a class="code hl_enumvalue" href="../../d1/d24/a02975.html#a1e4dca432ca60e815b6e871483cbe4e7a3100dd88fab725a47c86deb05c2a57cd">NPC_MARZON_BLADE</a>, -8411.360352f, 480.069733f, 123.760895f, 4.941504f, <a class="code hl_enumvalue" href="../../d7/d25/a00182.html#a38c6d8d01cbe0c49b035f348f7724148ae10d0bfbb29fbbfe0e3c50203548d01a">TEMPSUMMON_CORPSE_TIMED_DESPAWN</a>, 1000))</div>
-<div class="line"><span class="lineno">  119</span>                    {</div>
-<div class="line"><span class="lineno">  120</span>                        pMarzon-&gt;GetMotionMaster()-&gt;MovePoint(0, -8408.000977f, 468.611450f, 123.759903f);</div>
-<div class="line"><span class="lineno">  121</span>                        <a class="code hl_variable" href="../../de/d7a/a13591.html#a68779dfa5643ffbf0065964d72ba5ddc">MarzonGUID</a> = pMarzon-&gt;GetGUID();</div>
-<div class="line"><span class="lineno">  122</span>                    }</div>
-<div class="line"><span class="lineno">  123</span>                    <a class="code hl_variable" href="../../de/d7a/a13591.html#a70e6be2f5c0f88664c6bbe3f29e1d184">uiTimer</a> = 2000;</div>
-<div class="line"><span class="lineno">  124</span>                    <a class="code hl_variable" href="../../de/d7a/a13591.html#a3eaf47541cabaac9ce12f830d7d3ef41">uiPhase</a> = 4;</div>
-<div class="line"><span class="lineno">  125</span>                    <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  126</span>            }</div>
-<div class="line"><span class="lineno">  127</span>        }</div>
+<div class="fragment"><div class="line"><span class="lineno">   92</span>        {</div>
+<div class="line"><span class="lineno">   93</span>            <span class="keywordflow">switch</span> (waypointId)</div>
+<div class="line"><span class="lineno">   94</span>            {</div>
+<div class="line"><span class="lineno">   95</span>                <span class="keywordflow">case</span> 14:</div>
+<div class="line"><span class="lineno">   96</span>                    <a class="code hl_function" href="../../d3/d2f/a06207.html#aab2ae80bf9d5b6382fc6f8390808bc74">SetEscortPaused</a>(<span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">   97</span>                    <a class="code hl_enumeration" href="../../d0/d20/a03557.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a>(<a class="code hl_enumvalue" href="../../d1/d24/a02975.html#a1e4dca432ca60e815b6e871483cbe4e7a56a4966e9106db7ffda929b1e7e67603">SAY_LESCOVAR_2</a>);</div>
+<div class="line"><span class="lineno">   98</span>                    <a class="code hl_variable" href="../../de/d7a/a13591.html#a70e6be2f5c0f88664c6bbe3f29e1d184">uiTimer</a> = 3000;</div>
+<div class="line"><span class="lineno">   99</span>                    <a class="code hl_variable" href="../../de/d7a/a13591.html#a3eaf47541cabaac9ce12f830d7d3ef41">uiPhase</a> = 1;</div>
+<div class="line"><span class="lineno">  100</span>                    <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  101</span>                <span class="keywordflow">case</span> 16:</div>
+<div class="line"><span class="lineno">  102</span>                    <a class="code hl_function" href="../../d3/d2f/a06207.html#aab2ae80bf9d5b6382fc6f8390808bc74">SetEscortPaused</a>(<span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  103</span>                    <span class="keywordflow">if</span> (<a class="code hl_class" href="../../da/d4d/a07967.html">Creature</a>* pMarzon = <a class="code hl_variable" href="../../d0/d79/a06187.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../dc/d84/a08371.html#a1077c11c335f60013fdf7e7684bba519">SummonCreature</a>(<a class="code hl_enumvalue" href="../../d1/d24/a02975.html#a1e4dca432ca60e815b6e871483cbe4e7a3100dd88fab725a47c86deb05c2a57cd">NPC_MARZON_BLADE</a>, -8411.360352f, 480.069733f, 123.760895f, 4.941504f, <a class="code hl_enumvalue" href="../../d7/d25/a00182.html#a38c6d8d01cbe0c49b035f348f7724148ae10d0bfbb29fbbfe0e3c50203548d01a">TEMPSUMMON_CORPSE_TIMED_DESPAWN</a>, 1000))</div>
+<div class="line"><span class="lineno">  104</span>                    {</div>
+<div class="line"><span class="lineno">  105</span>                        pMarzon-&gt;GetMotionMaster()-&gt;MovePoint(0, -8408.000977f, 468.611450f, 123.759903f);</div>
+<div class="line"><span class="lineno">  106</span>                        <a class="code hl_variable" href="../../de/d7a/a13591.html#a68779dfa5643ffbf0065964d72ba5ddc">MarzonGUID</a> = pMarzon-&gt;GetGUID();</div>
+<div class="line"><span class="lineno">  107</span>                    }</div>
+<div class="line"><span class="lineno">  108</span>                    <a class="code hl_variable" href="../../de/d7a/a13591.html#a70e6be2f5c0f88664c6bbe3f29e1d184">uiTimer</a> = 2000;</div>
+<div class="line"><span class="lineno">  109</span>                    <a class="code hl_variable" href="../../de/d7a/a13591.html#a3eaf47541cabaac9ce12f830d7d3ef41">uiPhase</a> = 4;</div>
+<div class="line"><span class="lineno">  110</span>                    <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  111</span>            }</div>
+<div class="line"><span class="lineno">  112</span>        }</div>
 <div class="ttc" id="aa00182_html_a38c6d8d01cbe0c49b035f348f7724148ae10d0bfbb29fbbfe0e3c50203548d01a"><div class="ttname"><a href="../../d7/d25/a00182.html#a38c6d8d01cbe0c49b035f348f7724148ae10d0bfbb29fbbfe0e3c50203548d01a">TEMPSUMMON_CORPSE_TIMED_DESPAWN</a></div><div class="ttdeci">@ TEMPSUMMON_CORPSE_TIMED_DESPAWN</div><div class="ttdef"><b>Definition:</b> Object.h:52</div></div>
-<div class="ttc" id="aa02975_html_a1e4dca432ca60e815b6e871483cbe4e7a3100dd88fab725a47c86deb05c2a57cd"><div class="ttname"><a href="../../d1/d24/a02975.html#a1e4dca432ca60e815b6e871483cbe4e7a3100dd88fab725a47c86deb05c2a57cd">NPC_MARZON_BLADE</a></div><div class="ttdeci">@ NPC_MARZON_BLADE</div><div class="ttdef"><b>Definition:</b> zone_stormwind_city.cpp:53</div></div>
-<div class="ttc" id="aa02975_html_a1e4dca432ca60e815b6e871483cbe4e7a56a4966e9106db7ffda929b1e7e67603"><div class="ttname"><a href="../../d1/d24/a02975.html#a1e4dca432ca60e815b6e871483cbe4e7a56a4966e9106db7ffda929b1e7e67603">SAY_LESCOVAR_2</a></div><div class="ttdeci">@ SAY_LESCOVAR_2</div><div class="ttdef"><b>Definition:</b> zone_stormwind_city.cpp:45</div></div>
+<div class="ttc" id="aa02975_html_a1e4dca432ca60e815b6e871483cbe4e7a3100dd88fab725a47c86deb05c2a57cd"><div class="ttname"><a href="../../d1/d24/a02975.html#a1e4dca432ca60e815b6e871483cbe4e7a3100dd88fab725a47c86deb05c2a57cd">NPC_MARZON_BLADE</a></div><div class="ttdeci">@ NPC_MARZON_BLADE</div><div class="ttdef"><b>Definition:</b> zone_stormwind_city.cpp:38</div></div>
+<div class="ttc" id="aa02975_html_a1e4dca432ca60e815b6e871483cbe4e7a56a4966e9106db7ffda929b1e7e67603"><div class="ttname"><a href="../../d1/d24/a02975.html#a1e4dca432ca60e815b6e871483cbe4e7a56a4966e9106db7ffda929b1e7e67603">SAY_LESCOVAR_2</a></div><div class="ttdeci">@ SAY_LESCOVAR_2</div><div class="ttdef"><b>Definition:</b> zone_stormwind_city.cpp:30</div></div>
 <div class="ttc" id="aa08371_html_a1077c11c335f60013fdf7e7684bba519"><div class="ttname"><a href="../../dc/d84/a08371.html#a1077c11c335f60013fdf7e7684bba519">WorldObject::SummonCreature</a></div><div class="ttdeci">TempSummon * SummonCreature(uint32 id, const Position &amp;pos, TempSummonType spwtype=TEMPSUMMON_MANUAL_DESPAWN, uint32 despwtime=0, uint32 vehId=0, SummonPropertiesEntry const *properties=nullptr, bool visibleBySummonerOnly=false) const</div><div class="ttdef"><b>Definition:</b> Object.cpp:2368</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00076">MarzonGUID</a>, <a class="el" href="../../#l00280">ScriptedAI::me</a>, <a class="el" href="../../#l00053">NPC_MARZON_BLADE</a>, <a class="el" href="../../#l00045">SAY_LESCOVAR_2</a>, <a class="el" href="../../#l00523">npc_escortAI::SetEscortPaused()</a>, <a class="el" href="../../#l02368">WorldObject::SummonCreature()</a>, <a class="el" href="../../#l00052">TEMPSUMMON_CORPSE_TIMED_DESPAWN</a>, <a class="el" href="../../#l00074">uiPhase</a>, and <a class="el" href="../../#l00073">uiTimer</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00061">MarzonGUID</a>, <a class="el" href="../../#l00280">ScriptedAI::me</a>, <a class="el" href="../../#l00038">NPC_MARZON_BLADE</a>, <a class="el" href="../../#l00030">SAY_LESCOVAR_2</a>, <a class="el" href="../../#l00516">npc_escortAI::SetEscortPaused()</a>, <a class="el" href="../../#l02368">WorldObject::SummonCreature()</a>, <a class="el" href="../../#l00052">TEMPSUMMON_CORPSE_TIMED_DESPAWN</a>, <a class="el" href="../../#l00059">uiPhase</a>, and <a class="el" href="../../#l00058">uiTimer</a>.</p>
 
 </div>
 </div>
@@ -1015,7 +1015,7 @@ Additional Inherited Members</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00086">EnterEvadeMode()</a>, <a class="el" href="../../#l00097">JustEngagedWith()</a>, <a class="el" href="../../#l00078">Reset()</a>, <a class="el" href="../../#l00143">UpdateAI()</a>, and <a class="el" href="../../#l00106">WaypointReached()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00071">EnterEvadeMode()</a>, <a class="el" href="../../#l00082">JustEngagedWith()</a>, <a class="el" href="../../#l00063">Reset()</a>, <a class="el" href="../../#l00128">UpdateAI()</a>, and <a class="el" href="../../#l00091">WaypointReached()</a>.</p>
 
 </div>
 </div>
@@ -1031,7 +1031,7 @@ Additional Inherited Members</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00262">npc_marzon_silent_blade::npc_marzon_silent_bladeAI::MovementInform()</a>, <a class="el" href="../../#l00078">Reset()</a>, <a class="el" href="../../#l00143">UpdateAI()</a>, and <a class="el" href="../../#l00106">WaypointReached()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00247">npc_marzon_silent_blade::npc_marzon_silent_bladeAI::MovementInform()</a>, <a class="el" href="../../#l00063">Reset()</a>, <a class="el" href="../../#l00128">UpdateAI()</a>, and <a class="el" href="../../#l00091">WaypointReached()</a>.</p>
 
 </div>
 </div>
@@ -1047,7 +1047,7 @@ Additional Inherited Members</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00262">npc_marzon_silent_blade::npc_marzon_silent_bladeAI::MovementInform()</a>, <a class="el" href="../../#l00078">Reset()</a>, <a class="el" href="../../#l00143">UpdateAI()</a>, and <a class="el" href="../../#l00106">WaypointReached()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00247">npc_marzon_silent_blade::npc_marzon_silent_bladeAI::MovementInform()</a>, <a class="el" href="../../#l00063">Reset()</a>, <a class="el" href="../../#l00128">UpdateAI()</a>, and <a class="el" href="../../#l00091">WaypointReached()</a>.</p>
 
 </div>
 </div>
@@ -1057,7 +1057,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../df/db1/a13587.html">npc_lord_gregor_lescovar</a></li><li class="navelem"><a class="el" href="../../de/d7a/a13591.html">npc_lord_gregor_lescovarAI</a></li>
-    <li class="footer">Generated on Mon Jun 2 2025 20:47:17 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Jun 9 2025 20:47:37 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

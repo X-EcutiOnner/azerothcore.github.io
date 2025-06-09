@@ -1,7 +1,7 @@
 var a03572 =
 [
-    [ "instance_hyjal", "db/d7f/a14627.html", "db/d7f/a14627" ],
-    [ "instance_hyjal::instance_mount_hyjal_InstanceMapScript", "d2/d38/a14631.html", "d2/d38/a14631" ],
+    [ "instance_hyjal", "d2/d38/a14631.html", "d2/d38/a14631" ],
+    [ "instance_hyjal::instance_mount_hyjal_InstanceMapScript", "d0/d7f/a14635.html", "d0/d7f/a14635" ],
     [ "AddSC_instance_mount_hyjal", "d8/db0/a03572.html#a5c7a0ad3a2ae9f82eb9c45fbf90d5b41", null ],
     [ "creatureData", "d8/db0/a03572.html#a412286b689bd324fedd65ddd8dde8afb", null ],
     [ "doorData", "d8/db0/a03572.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],

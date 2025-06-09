@@ -1,5 +1,6 @@
 var a22671 =
 [
-    [ "ChargeTargetSelector", "d3/d96/a22671.html#a064e7d9008bfc85b7c636490c7aaf714", null ],
-    [ "operator()", "d3/d96/a22671.html#a596223da822f5a08281fe709cca95909", null ]
+    [ "HandleScriptEffect", "d3/d96/a22671.html#a21740b341acce23e284a3d4ceea9b6e0", null ],
+    [ "PrepareSpellScript", "d3/d96/a22671.html#addcd30a673390ca8b76eab5ccb5f4245", null ],
+    [ "Register", "d3/d96/a22671.html#aad6959f74932db219e991efd3b3af44a", null ]
 ];

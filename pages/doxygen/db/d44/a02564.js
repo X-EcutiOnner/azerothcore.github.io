@@ -1,7 +1,7 @@
 var a02564 =
 [
-    [ "boss_faerlina", "df/d3c/a18899.html", "df/d3c/a18899" ],
-    [ "boss_faerlina::boss_faerlinaAI", "df/d3c/a18903.html", "df/d3c/a18903" ],
+    [ "boss_faerlina", "df/d3c/a18903.html", "df/d3c/a18903" ],
+    [ "boss_faerlina::boss_faerlinaAI", "dd/d62/a18907.html", "dd/d62/a18907" ],
     [ "Groups", "db/d44/a02564.html#aab072245ab577ff0e12efe20a536b99a", [
       [ "GROUP_PRECOMBAT_TALK", "da/d47/a02864.html#aab072245ab577ff0e12efe20a536b99aa3e7953992f23b2eba8d8498bfc66e01d", null ],
       [ "PORTAL_PHASE", "d0/d82/a02831.html#aab072245ab577ff0e12efe20a536b99aa8f7d8b62b79ce76fc356b355521db829", null ],

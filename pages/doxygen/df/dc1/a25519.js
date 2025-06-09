@@ -1,6 +1,6 @@
 var a25519 =
 [
-    [ "HandleDummy", "df/dc1/a25519.html#a7b56d07d46647a2790553d40e75da79d", null ],
-    [ "PrepareSpellScript", "df/dc1/a25519.html#aad36c108f4531c19ba552064ba0d3248", null ],
-    [ "Register", "df/dc1/a25519.html#a754fcf618f53b4b17c2bcae4740e561f", null ]
+    [ "HandleDummy", "df/dc1/a25519.html#ade4c16273ebefaeefac3bfb51c61d19a", null ],
+    [ "PrepareSpellScript", "df/dc1/a25519.html#adfa89e065aa18b3e11998331c426151a", null ],
+    [ "Register", "df/dc1/a25519.html#ab37569c6b2362220cbce92eb184cc6db", null ]
 ];

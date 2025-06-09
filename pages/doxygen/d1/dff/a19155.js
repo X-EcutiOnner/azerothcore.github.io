@@ -1,6 +1,5 @@
 var a19155 =
 [
-    [ "boss_malygosAI", "d5/d99/a19159.html", "d5/d99/a19159" ],
-    [ "boss_malygos", "d1/dff/a19155.html#aeac3c63d4ccd2947a6f7e4c007dc6aa1", null ],
-    [ "GetAI", "d1/dff/a19155.html#a9e1d821311fa8b92318a99ea79ddb1e3", null ]
+    [ "at_naxxramas_hub_portal", "d1/dff/a19155.html#a946086e8a4651240b84526a1b2d54065", null ],
+    [ "OnTrigger", "d1/dff/a19155.html#af967b0f61b3257c8b8d802d4ed3af1da", null ]
 ];

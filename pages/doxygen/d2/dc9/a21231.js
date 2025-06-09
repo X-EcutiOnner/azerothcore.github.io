@@ -1,6 +1,6 @@
 var a21231 =
 [
-    [ "instance_vault_of_archavon_InstanceMapScript", "dd/de3/a21235.html", "dd/de3/a21235" ],
-    [ "instance_vault_of_archavon", "d2/dc9/a21231.html#a0be8d95ff0f3b751e6f833689e436310", null ],
-    [ "GetInstanceScript", "d2/dc9/a21231.html#abb955a8873a3a3021e164225dd1f857a", null ]
+    [ "npc_frozen_orb_stalkerAI", "d2/dc9/a21231.html#afd8d187ecbf508d02824d1ff8f3cb5cf", null ],
+    [ "JustSummoned", "d2/dc9/a21231.html#a73d7d5e55d2a00c9aee6f595e2678b17", null ],
+    [ "Reset", "d2/dc9/a21231.html#a064ccb90afeb9b36d501850482c60bc4", null ]
 ];

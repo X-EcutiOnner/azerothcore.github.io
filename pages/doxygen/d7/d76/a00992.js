@@ -453,6 +453,7 @@ var a00992 =
       [ "CONFIG_GUILD_BANK_TAB_COST_3", "d7/d76/a00992.html#a17aac4c166ebe43e3b8fdccf9e012e41a674f305590e59d581832bef259163a68", null ],
       [ "CONFIG_GUILD_BANK_TAB_COST_4", "d7/d76/a00992.html#a17aac4c166ebe43e3b8fdccf9e012e41a38d0693ed23bf914d249ec0a5bd94a73", null ],
       [ "CONFIG_GUILD_BANK_TAB_COST_5", "d7/d76/a00992.html#a17aac4c166ebe43e3b8fdccf9e012e41a9900ae61d056234c1888f37aa7b268a8", null ],
+      [ "CONFIG_GUILD_MEMBER_LIMIT", "d7/d76/a00992.html#a17aac4c166ebe43e3b8fdccf9e012e41af28ef5514d2944ccdfdf48bfb0c85ba2", null ],
       [ "CONFIG_GM_LEVEL_CHANNEL_MODERATION", "d7/d76/a00992.html#a17aac4c166ebe43e3b8fdccf9e012e41a6dffc0b6c07505beae3babc13b035804", null ],
       [ "CONFIG_TOGGLE_XP_COST", "d7/d76/a00992.html#a17aac4c166ebe43e3b8fdccf9e012e41af1655587f05a59f0273209a63b22dbbd", null ],
       [ "CONFIG_NPC_EVADE_IF_NOT_REACHABLE", "d7/d76/a00992.html#a17aac4c166ebe43e3b8fdccf9e012e41a38d9b4af88bc0b10cf772c336947d7a5", null ],

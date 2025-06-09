@@ -1,6 +1,7 @@
 var a19231 =
 [
-    [ "instance_eye_of_eternity_InstanceMapScript", "de/d6b/a19235.html", "de/d6b/a19235" ],
-    [ "instance_eye_of_eternity", "d9/d2b/a19231.html#afcab4ba969d0423871a4e398627a323d", null ],
-    [ "GetInstanceScript", "d9/d2b/a19231.html#af51319609d355fe87a77a87eb697f434", null ]
+    [ "EoEDrakeEnterVehicleEvent", "d9/d2b/a19231.html#afc529efe07da017e529dc6d5ebc6e7dc", null ],
+    [ "Execute", "d9/d2b/a19231.html#a368a613ba7861f7903b80e6f7f0dd64f", null ],
+    [ "_owner", "d9/d2b/a19231.html#ab48302fdff800afddfeec2c0d756873c", null ],
+    [ "_playerGUID", "d9/d2b/a19231.html#add56bff0695453e01f300e0434a39ec8", null ]
 ];

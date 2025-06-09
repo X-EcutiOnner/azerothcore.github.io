@@ -1,7 +1,7 @@
 var a03947 =
 [
-    [ "instance_sethekk_halls", "d9/d35/a22607.html", "d9/d35/a22607" ],
-    [ "instance_sethekk_halls::instance_sethekk_halls_InstanceMapScript", "db/dee/a22611.html", "db/dee/a22611" ],
+    [ "instance_sethekk_halls", "db/dee/a22611.html", "db/dee/a22611" ],
+    [ "instance_sethekk_halls::instance_sethekk_halls_InstanceMapScript", "d5/db9/a22615.html", "d5/db9/a22615" ],
     [ "AddSC_instance_sethekk_halls", "da/d1d/a03947.html#a14325c1667938972a51bf364b00fe3c3", null ],
     [ "anzuSummonEventId", "da/d1d/a03947.html#aa1fc295d418ed62b1c08ea6d11e111e3", null ],
     [ "creatureData", "da/d1d/a03947.html#a412286b689bd324fedd65ddd8dde8afb", null ],

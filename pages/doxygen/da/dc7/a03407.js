@@ -1,9 +1,9 @@
 var a03407 =
 [
-    [ "npc_cork_gizelton", "dd/d39/a15339.html", "dd/d39/a15339" ],
-    [ "npc_cork_gizelton::npc_cork_gizeltonAI", "d3/d99/a15343.html", "d3/d99/a15343" ],
-    [ "npc_aged_dying_ancient_kodo", "de/d07/a15347.html", "de/d07/a15347" ],
-    [ "npc_aged_dying_ancient_kodo::npc_aged_dying_ancient_kodoAI", "d4/db6/a15351.html", "d4/db6/a15351" ],
+    [ "npc_cork_gizelton", "d3/d99/a15343.html", "d3/d99/a15343" ],
+    [ "npc_cork_gizelton::npc_cork_gizeltonAI", "de/d07/a15347.html", "de/d07/a15347" ],
+    [ "npc_aged_dying_ancient_kodo", "d4/db6/a15351.html", "d4/db6/a15351" ],
+    [ "npc_aged_dying_ancient_kodo::npc_aged_dying_ancient_kodoAI", "d0/d65/a15355.html", "d0/d65/a15355" ],
     [ "Caravan", "da/dc7/a03407.html#aec2c916c560ca6ceedd660d3b140e728", [
       [ "QUEST_BODYGUARD_FOR_HIRE", "da/dc7/a03407.html#aec2c916c560ca6ceedd660d3b140e728a07d8fdc2ba6f3382ab9a9c0ccb910712", null ],
       [ "QUEST_GIZELTON_CARAVAN", "da/dc7/a03407.html#aec2c916c560ca6ceedd660d3b140e728af1f220a5094995c40054b8afcfc956f9", null ],

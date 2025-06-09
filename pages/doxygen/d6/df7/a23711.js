@@ -1,6 +1,7 @@
 var a23711 =
 [
-    [ "instance_the_botanica_InstanceMapScript", "d3/db3/a23715.html", "d3/db3/a23715" ],
-    [ "instance_the_botanica", "d6/df7/a23711.html#a8f8acda65f37e45e2439707f3979cf7c", null ],
-    [ "GetInstanceScript", "d6/df7/a23711.html#a335f671443ca0fb9db5956cefdf37182", null ]
+    [ "boss_warp_splinter", "d6/df7/a23711.html#a1d0e8720baaadd1f6f4f6026597c9f63", null ],
+    [ "JustDied", "d6/df7/a23711.html#a7e7850cf545e57f9fcd8d1aff42f8eb3", null ],
+    [ "JustEngagedWith", "d6/df7/a23711.html#afc05b2f366e518d5e9ea3fbbfcba05cc", null ],
+    [ "KilledUnit", "d6/df7/a23711.html#a0e974eb2bfae50383040fe9c7ccf74c1", null ]
 ];

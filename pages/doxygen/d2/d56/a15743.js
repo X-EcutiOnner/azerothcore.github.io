@@ -1,7 +1,7 @@
 var a15743 =
 [
-    [ "HandleDummy", "d2/d56/a15743.html#a5d619c13c620fedeea803a0802fd9ee6", null ],
-    [ "PrepareSpellScript", "d2/d56/a15743.html#a04ed0daa21e66b842b8443b5e102ec1d", null ],
-    [ "Register", "d2/d56/a15743.html#a4359ad73b513a368509a066a039ddf53", null ],
-    [ "_targetCount", "d2/d56/a15743.html#a3ba108d63ef38af0a8730c1bf1aa69e9", null ]
+    [ "npc_ahnkahar_nerubian", "d2/d56/a15743.html#ae18cdf09bae50751e266e95caf165f8e", null ],
+    [ "Reset", "d2/d56/a15743.html#a387831015ec8e4bc65cff8c8550bb176", null ],
+    [ "UpdateAI", "d2/d56/a15743.html#a9a773127e4f94bcdf142718355eae0e8", null ],
+    [ "uiSprintTimer", "d2/d56/a15743.html#a27a6f57a6b145cc595896d1ad453064f", null ]
 ];

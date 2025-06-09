@@ -1,6 +1,11 @@
 var a17003 =
 [
-    [ "npc_pos_icicle_triggerAI", "d8/df3/a17007.html", "d8/df3/a17007" ],
-    [ "npc_pos_icicle_trigger", "de/d84/a17003.html#ae38155ce579f50ff7de0fa5ca50a1c3e", null ],
-    [ "GetAI", "de/d84/a17003.html#ad2f984f5b2b713b8307efdf4bcbcf8da", null ]
+    [ "npc_pos_tyrannus_eventsAI", "de/d84/a17003.html#a51769d22a4cb448fae90d827e2494581", null ],
+    [ "MovementInform", "de/d84/a17003.html#ac0d1550855988fe6f562e8a0a6ada80f", null ],
+    [ "SetData", "de/d84/a17003.html#a8f8bbb06c50215c90cf11ddbc925ba5d", null ],
+    [ "UpdateAI", "de/d84/a17003.html#a6c4d82c46547bbb2f86dd7f9fa88c743", null ],
+    [ "deathbringerGUID", "de/d84/a17003.html#a21ea8c66374403d0eca83e4d24c80a7a", null ],
+    [ "events", "de/d84/a17003.html#a317d48c75a93ef5abaa3329ab10a1c8e", null ],
+    [ "killsLeft", "de/d84/a17003.html#ac81d85e0ceb0b571373f44475baa36df", null ],
+    [ "pInstance", "de/d84/a17003.html#a44460335986bcedf35dc295c242df6da", null ]
 ];

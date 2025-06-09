@@ -1,12 +1,6 @@
 var a21291 =
 [
-    [ "boss_moraggAI", "da/dfa/a21291.html#a3ae881c9adca20a2cb894af85297d53e", null ],
-    [ "EnterEvadeMode", "da/dfa/a21291.html#a4e70e42407f452c4685c732949fd2b52", null ],
-    [ "JustDied", "da/dfa/a21291.html#a97516e6ad5f7f35d0329674130e76dd3", null ],
-    [ "JustEngagedWith", "da/dfa/a21291.html#ab1d4d863a537a3c567eeda6f95f385ca", null ],
-    [ "MoveInLineOfSight", "da/dfa/a21291.html#a52a99d72dfa017baacb76717e6db931b", null ],
-    [ "Reset", "da/dfa/a21291.html#a8b7419c94e36b4b2292cf110a2eccb01", null ],
-    [ "UpdateAI", "da/dfa/a21291.html#aec7645eaae190d1e7982aae181ff9224", null ],
-    [ "events", "da/dfa/a21291.html#acd021e4216e3920f0534da95d69ba5eb", null ],
-    [ "pInstance", "da/dfa/a21291.html#a9f179ea9b180095a1e6df11b4842c5e5", null ]
+    [ "boss_moraggAI", "d1/dd0/a21295.html", "d1/dd0/a21295" ],
+    [ "boss_moragg", "da/dfa/a21291.html#aeb43f9cc4c41f049fd0a13e79cadfcd1", null ],
+    [ "GetAI", "da/dfa/a21291.html#a5ea2f210038b3e44bf2cb9c402e1b761", null ]
 ];

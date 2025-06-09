@@ -1,6 +1,7 @@
 var a17423 =
 [
-    [ "boss_festergutAI", "d1/d98/a17427.html", "d1/d98/a17427" ],
-    [ "boss_festergut", "de/d25/a17423.html#a07ac6be688118cc57e6fdc1d8e961953", null ],
-    [ "GetAI", "de/d25/a17423.html#ab2624e1908bb376f1b195a88e4b9b146", null ]
+    [ "npc_icc_blood_beastAI", "de/d25/a17423.html#af52eff9f66451444c5acba6930c1bff6", null ],
+    [ "DoAction", "de/d25/a17423.html#a5de6e46fd21fd073fde2f0aaa5dc947a", null ],
+    [ "UpdateAI", "de/d25/a17423.html#ac9da073c33dd33097f03ca35d36ea15e", null ],
+    [ "timer1", "de/d25/a17423.html#a1074059162f818088808795119f081be", null ]
 ];

@@ -1,8 +1,6 @@
 var a19367 =
 [
-    [ "npc_centrifuge_constructAI", "dd/d6a/a19367.html#a9219f4955ae82ca7f401ea1c63f66b09", null ],
-    [ "DamageTaken", "dd/d6a/a19367.html#aa568418de267a99108698e79baa1b3f4", null ],
-    [ "JustEngagedWith", "dd/d6a/a19367.html#ac6ecbb17624c2747253c68a50b93c40f", null ],
-    [ "Reset", "dd/d6a/a19367.html#a2f7750cea2f59d794c85e20b703370af", null ],
-    [ "UpdateAI", "dd/d6a/a19367.html#a28316416ad6c56d83c9e878511256445", null ]
+    [ "npc_centrifuge_constructAI", "d8/d2a/a19371.html", "d8/d2a/a19371" ],
+    [ "npc_centrifuge_construct", "dd/d6a/a19367.html#a3822eca10ab4a96126e0b4685751f4d3", null ],
+    [ "GetAI", "dd/d6a/a19367.html#a7356047de8a6d7bc6e903e982db2bc00", null ]
 ];

@@ -1,8 +1,8 @@
 var a02891 =
 [
-    [ "boss_janalai", "d7/da4/a13755.html", "d7/da4/a13755" ],
-    [ "npc_janalai_hatcher", "dd/d4c/a13759.html", "dd/d4c/a13759" ],
-    [ "spell_summon_all_players_dummy", "de/da6/a13763.html", "de/da6/a13763" ],
+    [ "boss_janalai", "dd/d4c/a13759.html", "dd/d4c/a13759" ],
+    [ "npc_janalai_hatcher", "de/da6/a13763.html", "de/da6/a13763" ],
+    [ "spell_summon_all_players_dummy", "d8/d2a/a13767.html", "d8/d2a/a13767" ],
     [ "Creatures", "dc/d5e/a02891.html#a25a619e6b66096a4f05d048e4a96df08", [
       [ "NPC_NORTH_MARSHAL", "da/dcd/a02987.html#a25a619e6b66096a4f05d048e4a96df08abeb6d3b1ff8238f7c57911ab8acde69e", null ],
       [ "NPC_SOUTH_MARSHAL", "da/dcd/a02987.html#a25a619e6b66096a4f05d048e4a96df08a9a3360dc10641daabdef8158f42ee00e", null ],

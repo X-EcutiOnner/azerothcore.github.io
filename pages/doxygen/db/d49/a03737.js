@@ -1,8 +1,8 @@
 var a03737 =
 [
-    [ "boss_commander_sarannis", "d3/dc5/a23679.html", "d3/dc5/a23679" ],
-    [ "spell_commander_sarannis_arcane_devastation", "d3/d96/a23683.html", "d3/d96/a23683" ],
-    [ "spell_commander_sarannis_summon_reinforcements", "d7/d21/a23687.html", "d7/d21/a23687" ],
+    [ "boss_commander_sarannis", "d3/d96/a23683.html", "d3/d96/a23683" ],
+    [ "spell_commander_sarannis_arcane_devastation", "d7/d21/a23687.html", "d7/d21/a23687" ],
+    [ "spell_commander_sarannis_summon_reinforcements", "d7/d23/a23691.html", "d7/d23/a23691" ],
     [ "Says", "db/d49/a03737.html#a16774215bba3b38580ea51987d64cff1", [
       [ "SAY_START_FIGHT", "d0/d04/a03161.html#a16774215bba3b38580ea51987d64cff1a8faddecee02adff0c6fb321d27621e1e", null ],
       [ "EMOTE_DEATH", "d1/d44/a03074.html#a16774215bba3b38580ea51987d64cff1a532dda2af249d6245366a455505ac407", null ],

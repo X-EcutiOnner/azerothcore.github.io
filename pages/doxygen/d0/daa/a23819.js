@@ -1,6 +1,6 @@
 var a23819 =
 [
-    [ "FilterTargets", "d0/daa/a23819.html#a0b0a4e033a1410a5b0def33cf87c853c", null ],
-    [ "PrepareSpellScript", "d0/daa/a23819.html#afa186c0b0728e3462f8984189613f9a7", null ],
-    [ "Register", "d0/daa/a23819.html#a14aafc65b554c0ada5684c46ae1f57c8", null ]
+    [ "HandleScriptEffect", "d0/daa/a23819.html#a724e857ad8604ef4546c8823bb7bd632", null ],
+    [ "PrepareSpellScript", "d0/daa/a23819.html#a7a67cdf9c3c8017fd065549a499831fc", null ],
+    [ "Register", "d0/daa/a23819.html#aadbf9ca8c4b5fa0f72b967f059ee22ab", null ]
 ];

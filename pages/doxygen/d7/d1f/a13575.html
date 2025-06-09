@@ -600,16 +600,16 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  166</span>                                                  : <a class="code hl_struct" href="../../d0/d79/a06187.html">ScriptedAI</a>(creature), <a class="code hl_variable" href="../../d7/d1f/a13575.html#a79dc171af9ef5057039f9a6b87c49bd1">_summons</a>(<a class="code hl_variable" href="../../d0/d79/a06187.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>)</div>
-<div class="line"><span class="lineno">  167</span>    {</div>
-<div class="line"><span class="lineno">  168</span>        <a class="code hl_variable" href="../../d7/d1f/a13575.html#a899a4a0c3c70236be66ee2028f3423c7">_questInProgress</a> = <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  169</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  154</span>                                                  : <a class="code hl_struct" href="../../d0/d79/a06187.html">ScriptedAI</a>(creature), <a class="code hl_variable" href="../../d7/d1f/a13575.html#a79dc171af9ef5057039f9a6b87c49bd1">_summons</a>(<a class="code hl_variable" href="../../d0/d79/a06187.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>)</div>
+<div class="line"><span class="lineno">  155</span>    {</div>
+<div class="line"><span class="lineno">  156</span>        <a class="code hl_variable" href="../../d7/d1f/a13575.html#a899a4a0c3c70236be66ee2028f3423c7">_questInProgress</a> = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  157</span>    }</div>
 <div class="ttc" id="aa06187_html"><div class="ttname"><a href="../../d0/d79/a06187.html">ScriptedAI</a></div><div class="ttdef"><b>Definition:</b> ScriptedCreature.h:190</div></div>
 <div class="ttc" id="aa06187_html_a5da7193f0a8713b8fa5e7ff2f19ac3bb"><div class="ttname"><a href="../../d0/d79/a06187.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">ScriptedAI::me</a></div><div class="ttdeci">Creature * me</div><div class="ttdef"><b>Definition:</b> ScriptedCreature.h:280</div></div>
-<div class="ttc" id="aa13575_html_a79dc171af9ef5057039f9a6b87c49bd1"><div class="ttname"><a href="../../d7/d1f/a13575.html#a79dc171af9ef5057039f9a6b87c49bd1">npc_deathstalker_fearleia::_summons</a></div><div class="ttdeci">SummonList _summons</div><div class="ttdef"><b>Definition:</b> zone_silverpine_forest.cpp:279</div></div>
-<div class="ttc" id="aa13575_html_a899a4a0c3c70236be66ee2028f3423c7"><div class="ttname"><a href="../../d7/d1f/a13575.html#a899a4a0c3c70236be66ee2028f3423c7">npc_deathstalker_fearleia::_questInProgress</a></div><div class="ttdeci">bool _questInProgress</div><div class="ttdef"><b>Definition:</b> zone_silverpine_forest.cpp:280</div></div>
+<div class="ttc" id="aa13575_html_a79dc171af9ef5057039f9a6b87c49bd1"><div class="ttname"><a href="../../d7/d1f/a13575.html#a79dc171af9ef5057039f9a6b87c49bd1">npc_deathstalker_fearleia::_summons</a></div><div class="ttdeci">SummonList _summons</div><div class="ttdef"><b>Definition:</b> zone_silverpine_forest.cpp:267</div></div>
+<div class="ttc" id="aa13575_html_a899a4a0c3c70236be66ee2028f3423c7"><div class="ttname"><a href="../../d7/d1f/a13575.html#a899a4a0c3c70236be66ee2028f3423c7">npc_deathstalker_fearleia::_questInProgress</a></div><div class="ttdeci">bool _questInProgress</div><div class="ttdef"><b>Definition:</b> zone_silverpine_forest.cpp:268</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00280">_questInProgress</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00268">_questInProgress</a>.</p>
 
 </div>
 </div>
@@ -639,18 +639,18 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d0/d79/a06187.html#a4cc209e047dcbd29cf57e689e3945ff7">ScriptedAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  260</span>    {</div>
-<div class="line"><span class="lineno">  261</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d2/d95/a08583.html">Player</a>* player = <a class="code hl_function" href="../../d0/d6d/a04809.html#aeb3657e7ad09335b9a9ffa50473aa216">ObjectAccessor::GetPlayer</a>(*<a class="code hl_variable" href="../../d0/d79/a06187.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>, <a class="code hl_variable" href="../../d7/d1f/a13575.html#a7135b977e1d7ef47c62f4dace25908fd">_playerGUID</a>))</div>
-<div class="line"><span class="lineno">  262</span>            <span class="keywordflow">if</span> (player-&gt;GetQuestStatus(<a class="code hl_enumvalue" href="../../d4/d97/a02816.html#a877721d69d53f57a970e68fafa98f026a92b54f289feb991fd918a0e654bd6c77">QUEST_PYREWOOD_AMBUSH</a>) == <a class="code hl_enumvalue" href="../../db/d23/a01025.html#abfc87d39d69176ad25e800fb4aa6f0d8a9d062f65bead287785d9b540987bb484">QUEST_STATUS_INCOMPLETE</a>)</div>
-<div class="line"><span class="lineno">  263</span>                player-&gt;FailQuest(<a class="code hl_enumvalue" href="../../d4/d97/a02816.html#a877721d69d53f57a970e68fafa98f026a92b54f289feb991fd918a0e654bd6c77">QUEST_PYREWOOD_AMBUSH</a>);</div>
-<div class="line"><span class="lineno">  264</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  248</span>    {</div>
+<div class="line"><span class="lineno">  249</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d2/d95/a08583.html">Player</a>* player = <a class="code hl_function" href="../../d0/d6d/a04809.html#aeb3657e7ad09335b9a9ffa50473aa216">ObjectAccessor::GetPlayer</a>(*<a class="code hl_variable" href="../../d0/d79/a06187.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>, <a class="code hl_variable" href="../../d7/d1f/a13575.html#a7135b977e1d7ef47c62f4dace25908fd">_playerGUID</a>))</div>
+<div class="line"><span class="lineno">  250</span>            <span class="keywordflow">if</span> (player-&gt;GetQuestStatus(<a class="code hl_enumvalue" href="../../d4/d97/a02816.html#a877721d69d53f57a970e68fafa98f026a92b54f289feb991fd918a0e654bd6c77">QUEST_PYREWOOD_AMBUSH</a>) == <a class="code hl_enumvalue" href="../../db/d23/a01025.html#abfc87d39d69176ad25e800fb4aa6f0d8a9d062f65bead287785d9b540987bb484">QUEST_STATUS_INCOMPLETE</a>)</div>
+<div class="line"><span class="lineno">  251</span>                player-&gt;FailQuest(<a class="code hl_enumvalue" href="../../d4/d97/a02816.html#a877721d69d53f57a970e68fafa98f026a92b54f289feb991fd918a0e654bd6c77">QUEST_PYREWOOD_AMBUSH</a>);</div>
+<div class="line"><span class="lineno">  252</span>    }</div>
 <div class="ttc" id="aa01025_html_abfc87d39d69176ad25e800fb4aa6f0d8a9d062f65bead287785d9b540987bb484"><div class="ttname"><a href="../../db/d23/a01025.html#abfc87d39d69176ad25e800fb4aa6f0d8a9d062f65bead287785d9b540987bb484">QUEST_STATUS_INCOMPLETE</a></div><div class="ttdeci">@ QUEST_STATUS_INCOMPLETE</div><div class="ttdef"><b>Definition:</b> QuestDef.h:103</div></div>
-<div class="ttc" id="aa02816_html_a877721d69d53f57a970e68fafa98f026a92b54f289feb991fd918a0e654bd6c77"><div class="ttname"><a href="../../d4/d97/a02816.html#a877721d69d53f57a970e68fafa98f026a92b54f289feb991fd918a0e654bd6c77">QUEST_PYREWOOD_AMBUSH</a></div><div class="ttdeci">@ QUEST_PYREWOOD_AMBUSH</div><div class="ttdef"><b>Definition:</b> zone_silverpine_forest.cpp:144</div></div>
+<div class="ttc" id="aa02816_html_a877721d69d53f57a970e68fafa98f026a92b54f289feb991fd918a0e654bd6c77"><div class="ttname"><a href="../../d4/d97/a02816.html#a877721d69d53f57a970e68fafa98f026a92b54f289feb991fd918a0e654bd6c77">QUEST_PYREWOOD_AMBUSH</a></div><div class="ttdeci">@ QUEST_PYREWOOD_AMBUSH</div><div class="ttdef"><b>Definition:</b> zone_silverpine_forest.cpp:132</div></div>
 <div class="ttc" id="aa04809_html_aeb3657e7ad09335b9a9ffa50473aa216"><div class="ttname"><a href="../../d0/d6d/a04809.html#aeb3657e7ad09335b9a9ffa50473aa216">ObjectAccessor::GetPlayer</a></div><div class="ttdeci">Player * GetPlayer(Map const *, ObjectGuid const guid)</div><div class="ttdef"><b>Definition:</b> ObjectAccessor.cpp:220</div></div>
 <div class="ttc" id="aa08583_html"><div class="ttname"><a href="../../d2/d95/a08583.html">Player</a></div><div class="ttdef"><b>Definition:</b> Player.h:1082</div></div>
-<div class="ttc" id="aa13575_html_a7135b977e1d7ef47c62f4dace25908fd"><div class="ttname"><a href="../../d7/d1f/a13575.html#a7135b977e1d7ef47c62f4dace25908fd">npc_deathstalker_fearleia::_playerGUID</a></div><div class="ttdeci">ObjectGuid _playerGUID</div><div class="ttdef"><b>Definition:</b> zone_silverpine_forest.cpp:278</div></div>
+<div class="ttc" id="aa13575_html_a7135b977e1d7ef47c62f4dace25908fd"><div class="ttname"><a href="../../d7/d1f/a13575.html#a7135b977e1d7ef47c62f4dace25908fd">npc_deathstalker_fearleia::_playerGUID</a></div><div class="ttdeci">ObjectGuid _playerGUID</div><div class="ttdef"><b>Definition:</b> zone_silverpine_forest.cpp:266</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00220">ObjectAccessor::GetPlayer()</a>, <a class="el" href="../../#l00144">QUEST_PYREWOOD_AMBUSH</a>, and <a class="el" href="../../#l00103">QUEST_STATUS_INCOMPLETE</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00220">ObjectAccessor::GetPlayer()</a>, <a class="el" href="../../#l00132">QUEST_PYREWOOD_AMBUSH</a>, and <a class="el" href="../../#l00103">QUEST_STATUS_INCOMPLETE</a>.</p>
 
 </div>
 </div>
@@ -681,7 +681,7 @@ Additional Inherited Members</h2></td></tr>
 <p>Called for reaction when initially engaged. </p>
 
 <p>Reimplemented from <a class="el" href="../../d0/d79/a06187.html#ac2ce21ab709e349abb8206ce2368cd37">ScriptedAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  229</span>{}</div>
+<div class="fragment"><div class="line"><span class="lineno">  217</span>{}</div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -710,9 +710,9 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d0/d79/a06187.html#a1625d27c60b9833cc9bdebffb80833cb">ScriptedAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  232</span>    {</div>
-<div class="line"><span class="lineno">  233</span>        <a class="code hl_variable" href="../../d7/d1f/a13575.html#a79dc171af9ef5057039f9a6b87c49bd1">_summons</a>.<a class="code hl_function" href="../../d0/dca/a06175.html#a4b10347a4407bb6351230423019d9786">Summon</a>(summoned);</div>
-<div class="line"><span class="lineno">  234</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  220</span>    {</div>
+<div class="line"><span class="lineno">  221</span>        <a class="code hl_variable" href="../../d7/d1f/a13575.html#a79dc171af9ef5057039f9a6b87c49bd1">_summons</a>.<a class="code hl_function" href="../../d0/dca/a06175.html#a4b10347a4407bb6351230423019d9786">Summon</a>(summoned);</div>
+<div class="line"><span class="lineno">  222</span>    }</div>
 <div class="ttc" id="aa06175_html_a4b10347a4407bb6351230423019d9786"><div class="ttname"><a href="../../d0/dca/a06175.html#a4b10347a4407bb6351230423019d9786">SummonList::Summon</a></div><div class="ttdeci">void Summon(Creature const *summon)</div><div class="ttdef"><b>Definition:</b> ScriptedCreature.h:88</div></div>
 </div><!-- fragment -->
 </div>
@@ -741,22 +741,22 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d0/d79/a06187.html#a26600c116d20a33461fc884bdb82eda9">ScriptedAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  172</span>    {</div>
-<div class="line"><span class="lineno">  173</span>        <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d7/d1f/a13575.html#a899a4a0c3c70236be66ee2028f3423c7">_questInProgress</a>)</div>
-<div class="line"><span class="lineno">  174</span>        {</div>
-<div class="line"><span class="lineno">  175</span>            <a class="code hl_variable" href="../../d7/d1f/a13575.html#a7135b977e1d7ef47c62f4dace25908fd">_playerGUID</a>.<a class="code hl_function" href="../../d3/d9a/a08387.html#af6aafb4610723c7f14523fef243b1b65">Clear</a>();</div>
-<div class="line"><span class="lineno">  176</span>            <a class="code hl_variable" href="../../d7/d1f/a13575.html#a79dc171af9ef5057039f9a6b87c49bd1">_summons</a>.<a class="code hl_function" href="../../d0/dca/a06175.html#a902c1d4535ccdb1b82801547a94151bb">DespawnAll</a>();</div>
-<div class="line"><span class="lineno">  177</span>            <a class="code hl_variable" href="../../d0/d79/a06187.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../dd/d58/a08715.html#a9c5739d268705d03fc40799b7c3d3239">SetNpcFlag</a>(<a class="code hl_enumvalue" href="../../d3/dd5/a00215.html#ab054baf099d873bce22a0e84ae1090e2aa6620004c6d23c46e0472598d5ab0b5d">UNIT_NPC_FLAG_QUESTGIVER</a>);</div>
-<div class="line"><span class="lineno">  178</span>        }</div>
-<div class="line"><span class="lineno">  179</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  160</span>    {</div>
+<div class="line"><span class="lineno">  161</span>        <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d7/d1f/a13575.html#a899a4a0c3c70236be66ee2028f3423c7">_questInProgress</a>)</div>
+<div class="line"><span class="lineno">  162</span>        {</div>
+<div class="line"><span class="lineno">  163</span>            <a class="code hl_variable" href="../../d7/d1f/a13575.html#a7135b977e1d7ef47c62f4dace25908fd">_playerGUID</a>.<a class="code hl_function" href="../../d3/d9a/a08387.html#af6aafb4610723c7f14523fef243b1b65">Clear</a>();</div>
+<div class="line"><span class="lineno">  164</span>            <a class="code hl_variable" href="../../d7/d1f/a13575.html#a79dc171af9ef5057039f9a6b87c49bd1">_summons</a>.<a class="code hl_function" href="../../d0/dca/a06175.html#a902c1d4535ccdb1b82801547a94151bb">DespawnAll</a>();</div>
+<div class="line"><span class="lineno">  165</span>            <a class="code hl_variable" href="../../d0/d79/a06187.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../dd/d58/a08715.html#a9c5739d268705d03fc40799b7c3d3239">SetNpcFlag</a>(<a class="code hl_enumvalue" href="../../d3/dd5/a00215.html#ab054baf099d873bce22a0e84ae1090e2aa6620004c6d23c46e0472598d5ab0b5d">UNIT_NPC_FLAG_QUESTGIVER</a>);</div>
+<div class="line"><span class="lineno">  166</span>        }</div>
+<div class="line"><span class="lineno">  167</span>    }</div>
 <div class="ttc" id="aa00215_html_ab054baf099d873bce22a0e84ae1090e2aa6620004c6d23c46e0472598d5ab0b5d"><div class="ttname"><a href="../../d3/dd5/a00215.html#ab054baf099d873bce22a0e84ae1090e2aa6620004c6d23c46e0472598d5ab0b5d">UNIT_NPC_FLAG_QUESTGIVER</a></div><div class="ttdeci">@ UNIT_NPC_FLAG_QUESTGIVER</div><div class="ttdef"><b>Definition:</b> UnitDefines.h:316</div></div>
 <div class="ttc" id="aa06175_html_a902c1d4535ccdb1b82801547a94151bb"><div class="ttname"><a href="../../d0/dca/a06175.html#a902c1d4535ccdb1b82801547a94151bb">SummonList::DespawnAll</a></div><div class="ttdeci">void DespawnAll(uint32 delay=0)</div><div class="ttdef"><b>Definition:</b> ScriptedCreature.cpp:71</div></div>
 <div class="ttc" id="aa08387_html_af6aafb4610723c7f14523fef243b1b65"><div class="ttname"><a href="../../d3/d9a/a08387.html#af6aafb4610723c7f14523fef243b1b65">ObjectGuid::Clear</a></div><div class="ttdeci">void Clear()</div><div class="ttdef"><b>Definition:</b> ObjectGuid.h:138</div></div>
 <div class="ttc" id="aa08715_html_a9c5739d268705d03fc40799b7c3d3239"><div class="ttname"><a href="../../dd/d58/a08715.html#a9c5739d268705d03fc40799b7c3d3239">Unit::SetNpcFlag</a></div><div class="ttdeci">void SetNpcFlag(NPCFlags flags)</div><div class="ttdef"><b>Definition:</b> Unit.h:719</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00278">_playerGUID</a>, <a class="el" href="../../#l00280">_questInProgress</a>, <a class="el" href="../../#l00279">_summons</a>, <a class="el" href="../../#l00138">ObjectGuid::Clear()</a>, <a class="el" href="../../#l00071">SummonList::DespawnAll()</a>, <a class="el" href="../../#l00280">ScriptedAI::me</a>, <a class="el" href="../../#l00719">Unit::SetNpcFlag()</a>, and <a class="el" href="../../#l00316">UNIT_NPC_FLAG_QUESTGIVER</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00266">_playerGUID</a>, <a class="el" href="../../#l00268">_questInProgress</a>, <a class="el" href="../../#l00267">_summons</a>, <a class="el" href="../../#l00138">ObjectGuid::Clear()</a>, <a class="el" href="../../#l00071">SummonList::DespawnAll()</a>, <a class="el" href="../../#l00280">ScriptedAI::me</a>, <a class="el" href="../../#l00719">Unit::SetNpcFlag()</a>, and <a class="el" href="../../#l00316">UNIT_NPC_FLAG_QUESTGIVER</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00181">sQuestAccept()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00169">sQuestAccept()</a>.</p>
 
 </div>
 </div>
@@ -795,53 +795,53 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d4/d84/a06131.html#a03076e2d142052af78e6d9e85f390fd1">UnitAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  182</span>    {</div>
-<div class="line"><span class="lineno">  183</span>        <span class="keywordflow">if</span> (quest-&gt;GetQuestId() == <a class="code hl_enumvalue" href="../../d4/d97/a02816.html#a877721d69d53f57a970e68fafa98f026a92b54f289feb991fd918a0e654bd6c77">QUEST_PYREWOOD_AMBUSH</a> &amp;&amp; !<a class="code hl_variable" href="../../d7/d1f/a13575.html#a899a4a0c3c70236be66ee2028f3423c7">_questInProgress</a>)</div>
-<div class="line"><span class="lineno">  184</span>        {</div>
-<div class="line"><span class="lineno">  185</span>            <a class="code hl_variable" href="../../d7/d1f/a13575.html#a899a4a0c3c70236be66ee2028f3423c7">_questInProgress</a> = <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  186</span>            <a class="code hl_variable" href="../../d7/d1f/a13575.html#a7135b977e1d7ef47c62f4dace25908fd">_playerGUID</a> = player-&gt;<a class="code hl_function" href="../../d6/d3a/a08339.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>();</div>
-<div class="line"><span class="lineno">  187</span>            <a class="code hl_variable" href="../../d0/d79/a06187.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../dd/d58/a08715.html#a629e9a4f8c5987b034e409c9c74297b9">RemoveNpcFlag</a>(<a class="code hl_enumvalue" href="../../d3/dd5/a00215.html#ab054baf099d873bce22a0e84ae1090e2aa6620004c6d23c46e0472598d5ab0b5d">UNIT_NPC_FLAG_QUESTGIVER</a>);</div>
-<div class="line"><span class="lineno">  188</span>        }</div>
-<div class="line"><span class="lineno">  189</span> </div>
-<div class="line"><span class="lineno">  190</span>        <a class="code hl_enumeration" href="../../d0/d20/a03557.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a>(<a class="code hl_enumvalue" href="../../d4/d97/a02816.html#a877721d69d53f57a970e68fafa98f026aaa92536cc818f1566c861be10809e186">NPCSAY_INIT</a>, player);</div>
-<div class="line"><span class="lineno">  191</span> </div>
-<div class="line"><span class="lineno">  192</span>        <a class="code hl_variable" href="../../d7/dc5/a06143.html#a7a708f334e3ff40b7e1bbdfbff7ba765">scheduler</a>.<a class="code hl_function" href="../../d9/d91/a05523.html#a0e0579d2a2397de5a79c756d5e59a830">Schedule</a>(6s, [<span class="keyword">this</span>](<a class="code hl_class" href="../../d6/d15/a05539.html">TaskContext</a> context)</div>
-<div class="line"><span class="lineno">  193</span>        {</div>
-<div class="line"><span class="lineno">  194</span>            <span class="keywordflow">switch</span> (context.<a class="code hl_function" href="../../d6/d15/a05539.html#aab7910aa171d409afa3f074858eacd0e">GetRepeatCounter</a>())</div>
-<div class="line"><span class="lineno">  195</span>            {</div>
-<div class="line"><span class="lineno">  196</span>                case 0:</div>
-<div class="line"><span class="lineno">  197</span>                    SummonCreatureWithRandomTarget(2060, 1);</div>
-<div class="line"><span class="lineno">  198</span>                    break;</div>
-<div class="line"><span class="lineno">  199</span>                case 2:</div>
-<div class="line"><span class="lineno">  200</span>                    SummonCreatureWithRandomTarget(2061, 2);</div>
-<div class="line"><span class="lineno">  201</span>                    SummonCreatureWithRandomTarget(2062, 0);</div>
-<div class="line"><span class="lineno">  202</span>                    break;</div>
-<div class="line"><span class="lineno">  203</span>                case 3:</div>
-<div class="line"><span class="lineno">  204</span>                    SummonCreatureWithRandomTarget(2063, 1);</div>
-<div class="line"><span class="lineno">  205</span>                    SummonCreatureWithRandomTarget(2064, 2);</div>
-<div class="line"><span class="lineno">  206</span>                    SummonCreatureWithRandomTarget(2065, 0);</div>
-<div class="line"><span class="lineno">  207</span>                    break;</div>
-<div class="line"><span class="lineno">  208</span>                case 4:</div>
-<div class="line"><span class="lineno">  209</span>                    SummonCreatureWithRandomTarget(2066, 1);</div>
-<div class="line"><span class="lineno">  210</span>                    SummonCreatureWithRandomTarget(2067, 0);</div>
-<div class="line"><span class="lineno">  211</span>                    SummonCreatureWithRandomTarget(2068, 2);</div>
-<div class="line"><span class="lineno">  212</span>                    break;</div>
-<div class="line"><span class="lineno">  213</span>                case 5: <span class="comment">//end</span></div>
-<div class="line"><span class="lineno">  214</span>                    if (Player* player = ObjectAccessor::GetPlayer(*me, _playerGUID))</div>
-<div class="line"><span class="lineno">  215</span>                    {</div>
-<div class="line"><span class="lineno">  216</span>                        Talk(NPCSAY_END, player);</div>
-<div class="line"><span class="lineno">  217</span>                        player-&gt;GroupEventHappens(QUEST_PYREWOOD_AMBUSH, me);</div>
-<div class="line"><span class="lineno">  218</span>                    }</div>
-<div class="line"><span class="lineno">  219</span>                    <a class="code hl_variable" href="../../d7/d1f/a13575.html#a899a4a0c3c70236be66ee2028f3423c7">_questInProgress</a> = <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  220</span>                    <a class="code hl_function" href="../../d7/d1f/a13575.html#a5f7f40e2d702fae5242cfc347d44a1fe">Reset</a>();</div>
-<div class="line"><span class="lineno">  221</span>                    <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  222</span>            }</div>
-<div class="line"><span class="lineno">  223</span> </div>
-<div class="line"><span class="lineno">  224</span>            <span class="keywordflow">if</span> (context.<a class="code hl_function" href="../../d6/d15/a05539.html#aab7910aa171d409afa3f074858eacd0e">GetRepeatCounter</a>() &lt; 5)</div>
-<div class="line"><span class="lineno">  225</span>                context.<a class="code hl_function" href="../../d6/d15/a05539.html#a380c596857dd0030414db5e8d28a3dda">Repeat</a>();</div>
-<div class="line"><span class="lineno">  226</span>        });</div>
-<div class="line"><span class="lineno">  227</span>    }</div>
-<div class="ttc" id="aa02816_html_a877721d69d53f57a970e68fafa98f026aaa92536cc818f1566c861be10809e186"><div class="ttname"><a href="../../d4/d97/a02816.html#a877721d69d53f57a970e68fafa98f026aaa92536cc818f1566c861be10809e186">NPCSAY_INIT</a></div><div class="ttdeci">@ NPCSAY_INIT</div><div class="ttdef"><b>Definition:</b> zone_silverpine_forest.cpp:145</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  170</span>    {</div>
+<div class="line"><span class="lineno">  171</span>        <span class="keywordflow">if</span> (quest-&gt;GetQuestId() == <a class="code hl_enumvalue" href="../../d4/d97/a02816.html#a877721d69d53f57a970e68fafa98f026a92b54f289feb991fd918a0e654bd6c77">QUEST_PYREWOOD_AMBUSH</a> &amp;&amp; !<a class="code hl_variable" href="../../d7/d1f/a13575.html#a899a4a0c3c70236be66ee2028f3423c7">_questInProgress</a>)</div>
+<div class="line"><span class="lineno">  172</span>        {</div>
+<div class="line"><span class="lineno">  173</span>            <a class="code hl_variable" href="../../d7/d1f/a13575.html#a899a4a0c3c70236be66ee2028f3423c7">_questInProgress</a> = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  174</span>            <a class="code hl_variable" href="../../d7/d1f/a13575.html#a7135b977e1d7ef47c62f4dace25908fd">_playerGUID</a> = player-&gt;<a class="code hl_function" href="../../d6/d3a/a08339.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>();</div>
+<div class="line"><span class="lineno">  175</span>            <a class="code hl_variable" href="../../d0/d79/a06187.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../dd/d58/a08715.html#a629e9a4f8c5987b034e409c9c74297b9">RemoveNpcFlag</a>(<a class="code hl_enumvalue" href="../../d3/dd5/a00215.html#ab054baf099d873bce22a0e84ae1090e2aa6620004c6d23c46e0472598d5ab0b5d">UNIT_NPC_FLAG_QUESTGIVER</a>);</div>
+<div class="line"><span class="lineno">  176</span>        }</div>
+<div class="line"><span class="lineno">  177</span> </div>
+<div class="line"><span class="lineno">  178</span>        <a class="code hl_enumeration" href="../../d0/d20/a03557.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a>(<a class="code hl_enumvalue" href="../../d4/d97/a02816.html#a877721d69d53f57a970e68fafa98f026aaa92536cc818f1566c861be10809e186">NPCSAY_INIT</a>, player);</div>
+<div class="line"><span class="lineno">  179</span> </div>
+<div class="line"><span class="lineno">  180</span>        <a class="code hl_variable" href="../../d7/dc5/a06143.html#a7a708f334e3ff40b7e1bbdfbff7ba765">scheduler</a>.<a class="code hl_function" href="../../d9/d91/a05523.html#a0e0579d2a2397de5a79c756d5e59a830">Schedule</a>(6s, [<span class="keyword">this</span>](<a class="code hl_class" href="../../d6/d15/a05539.html">TaskContext</a> context)</div>
+<div class="line"><span class="lineno">  181</span>        {</div>
+<div class="line"><span class="lineno">  182</span>            <span class="keywordflow">switch</span> (context.<a class="code hl_function" href="../../d6/d15/a05539.html#aab7910aa171d409afa3f074858eacd0e">GetRepeatCounter</a>())</div>
+<div class="line"><span class="lineno">  183</span>            {</div>
+<div class="line"><span class="lineno">  184</span>                case 0:</div>
+<div class="line"><span class="lineno">  185</span>                    SummonCreatureWithRandomTarget(2060, 1);</div>
+<div class="line"><span class="lineno">  186</span>                    break;</div>
+<div class="line"><span class="lineno">  187</span>                case 2:</div>
+<div class="line"><span class="lineno">  188</span>                    SummonCreatureWithRandomTarget(2061, 2);</div>
+<div class="line"><span class="lineno">  189</span>                    SummonCreatureWithRandomTarget(2062, 0);</div>
+<div class="line"><span class="lineno">  190</span>                    break;</div>
+<div class="line"><span class="lineno">  191</span>                case 3:</div>
+<div class="line"><span class="lineno">  192</span>                    SummonCreatureWithRandomTarget(2063, 1);</div>
+<div class="line"><span class="lineno">  193</span>                    SummonCreatureWithRandomTarget(2064, 2);</div>
+<div class="line"><span class="lineno">  194</span>                    SummonCreatureWithRandomTarget(2065, 0);</div>
+<div class="line"><span class="lineno">  195</span>                    break;</div>
+<div class="line"><span class="lineno">  196</span>                case 4:</div>
+<div class="line"><span class="lineno">  197</span>                    SummonCreatureWithRandomTarget(2066, 1);</div>
+<div class="line"><span class="lineno">  198</span>                    SummonCreatureWithRandomTarget(2067, 0);</div>
+<div class="line"><span class="lineno">  199</span>                    SummonCreatureWithRandomTarget(2068, 2);</div>
+<div class="line"><span class="lineno">  200</span>                    break;</div>
+<div class="line"><span class="lineno">  201</span>                case 5: <span class="comment">//end</span></div>
+<div class="line"><span class="lineno">  202</span>                    if (Player* player = ObjectAccessor::GetPlayer(*me, _playerGUID))</div>
+<div class="line"><span class="lineno">  203</span>                    {</div>
+<div class="line"><span class="lineno">  204</span>                        Talk(NPCSAY_END, player);</div>
+<div class="line"><span class="lineno">  205</span>                        player-&gt;GroupEventHappens(QUEST_PYREWOOD_AMBUSH, me);</div>
+<div class="line"><span class="lineno">  206</span>                    }</div>
+<div class="line"><span class="lineno">  207</span>                    <a class="code hl_variable" href="../../d7/d1f/a13575.html#a899a4a0c3c70236be66ee2028f3423c7">_questInProgress</a> = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  208</span>                    <a class="code hl_function" href="../../d7/d1f/a13575.html#a5f7f40e2d702fae5242cfc347d44a1fe">Reset</a>();</div>
+<div class="line"><span class="lineno">  209</span>                    <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  210</span>            }</div>
+<div class="line"><span class="lineno">  211</span> </div>
+<div class="line"><span class="lineno">  212</span>            <span class="keywordflow">if</span> (context.<a class="code hl_function" href="../../d6/d15/a05539.html#aab7910aa171d409afa3f074858eacd0e">GetRepeatCounter</a>() &lt; 5)</div>
+<div class="line"><span class="lineno">  213</span>                context.<a class="code hl_function" href="../../d6/d15/a05539.html#a380c596857dd0030414db5e8d28a3dda">Repeat</a>();</div>
+<div class="line"><span class="lineno">  214</span>        });</div>
+<div class="line"><span class="lineno">  215</span>    }</div>
+<div class="ttc" id="aa02816_html_a877721d69d53f57a970e68fafa98f026aaa92536cc818f1566c861be10809e186"><div class="ttname"><a href="../../d4/d97/a02816.html#a877721d69d53f57a970e68fafa98f026aaa92536cc818f1566c861be10809e186">NPCSAY_INIT</a></div><div class="ttdeci">@ NPCSAY_INIT</div><div class="ttdef"><b>Definition:</b> zone_silverpine_forest.cpp:133</div></div>
 <div class="ttc" id="aa03557_html_a747a224b6b3195f9a33c56ddc6c7e268"><div class="ttname"><a href="../../d0/d20/a03557.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a></div><div class="ttdeci">Talk</div><div class="ttdef"><b>Definition:</b> hyjal.cpp:82</div></div>
 <div class="ttc" id="aa05523_html_a0e0579d2a2397de5a79c756d5e59a830"><div class="ttname"><a href="../../d9/d91/a05523.html#a0e0579d2a2397de5a79c756d5e59a830">TaskScheduler::Schedule</a></div><div class="ttdeci">TaskScheduler &amp; Schedule(std::chrono::duration&lt; _Rep, _Period &gt; const &amp;time, task_handler_t const &amp;task)</div><div class="ttdef"><b>Definition:</b> TaskScheduler.h:232</div></div>
 <div class="ttc" id="aa05539_html"><div class="ttname"><a href="../../d6/d15/a05539.html">TaskContext</a></div><div class="ttdef"><b>Definition:</b> TaskScheduler.h:421</div></div>
@@ -850,9 +850,9 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aa06143_html_a7a708f334e3ff40b7e1bbdfbff7ba765"><div class="ttname"><a href="../../d7/dc5/a06143.html#a7a708f334e3ff40b7e1bbdfbff7ba765">CreatureAI::scheduler</a></div><div class="ttdeci">TaskScheduler scheduler</div><div class="ttdef"><b>Definition:</b> CreatureAI.h:75</div></div>
 <div class="ttc" id="aa08339_html_ad23b997e2442fa6a6228ba73a7ecc138"><div class="ttname"><a href="../../d6/d3a/a08339.html#ad23b997e2442fa6a6228ba73a7ecc138">Object::GetGUID</a></div><div class="ttdeci">static ObjectGuid GetGUID(Object const *o)</div><div class="ttdef"><b>Definition:</b> Object.h:113</div></div>
 <div class="ttc" id="aa08715_html_a629e9a4f8c5987b034e409c9c74297b9"><div class="ttname"><a href="../../dd/d58/a08715.html#a629e9a4f8c5987b034e409c9c74297b9">Unit::RemoveNpcFlag</a></div><div class="ttdeci">void RemoveNpcFlag(NPCFlags flags)</div><div class="ttdef"><b>Definition:</b> Unit.h:720</div></div>
-<div class="ttc" id="aa13575_html_a5f7f40e2d702fae5242cfc347d44a1fe"><div class="ttname"><a href="../../d7/d1f/a13575.html#a5f7f40e2d702fae5242cfc347d44a1fe">npc_deathstalker_fearleia::Reset</a></div><div class="ttdeci">void Reset() override</div><div class="ttdef"><b>Definition:</b> zone_silverpine_forest.cpp:171</div></div>
+<div class="ttc" id="aa13575_html_a5f7f40e2d702fae5242cfc347d44a1fe"><div class="ttname"><a href="../../d7/d1f/a13575.html#a5f7f40e2d702fae5242cfc347d44a1fe">npc_deathstalker_fearleia::Reset</a></div><div class="ttdeci">void Reset() override</div><div class="ttdef"><b>Definition:</b> zone_silverpine_forest.cpp:159</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00278">_playerGUID</a>, <a class="el" href="../../#l00280">_questInProgress</a>, <a class="el" href="../../#l00113">Object::GetGUID()</a>, <a class="el" href="../../#l00228">Quest::GetQuestId()</a>, <a class="el" href="../../#l00243">TaskContext::GetRepeatCounter()</a>, <a class="el" href="../../#l00280">ScriptedAI::me</a>, <a class="el" href="../../#l00145">NPCSAY_INIT</a>, <a class="el" href="../../#l00144">QUEST_PYREWOOD_AMBUSH</a>, <a class="el" href="../../#l00720">Unit::RemoveNpcFlag()</a>, <a class="el" href="../../#l00493">TaskContext::Repeat()</a>, <a class="el" href="../../#l00171">Reset()</a>, <a class="el" href="../../#l00232">TaskScheduler::Schedule()</a>, <a class="el" href="../../#l00075">CreatureAI::scheduler</a>, and <a class="el" href="../../#l00316">UNIT_NPC_FLAG_QUESTGIVER</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00266">_playerGUID</a>, <a class="el" href="../../#l00268">_questInProgress</a>, <a class="el" href="../../#l00113">Object::GetGUID()</a>, <a class="el" href="../../#l00228">Quest::GetQuestId()</a>, <a class="el" href="../../#l00243">TaskContext::GetRepeatCounter()</a>, <a class="el" href="../../#l00280">ScriptedAI::me</a>, <a class="el" href="../../#l00133">NPCSAY_INIT</a>, <a class="el" href="../../#l00132">QUEST_PYREWOOD_AMBUSH</a>, <a class="el" href="../../#l00720">Unit::RemoveNpcFlag()</a>, <a class="el" href="../../#l00493">TaskContext::Repeat()</a>, <a class="el" href="../../#l00159">Reset()</a>, <a class="el" href="../../#l00232">TaskScheduler::Schedule()</a>, <a class="el" href="../../#l00075">CreatureAI::scheduler</a>, and <a class="el" href="../../#l00316">UNIT_NPC_FLAG_QUESTGIVER</a>.</p>
 
 </div>
 </div>
@@ -889,32 +889,32 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  242</span>    {</div>
-<div class="line"><span class="lineno">  243</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../da/d4d/a07967.html">Creature</a>* summoned = <a class="code hl_variable" href="../../d0/d79/a06187.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../dc/d84/a08371.html#a1077c11c335f60013fdf7e7684bba519">SummonCreature</a>(creatureId, <a class="code hl_variable" href="../../d4/d97/a02816.html#aa6dde45459ce647040655253e287cd41">PyrewoodSpawnPoints</a>[position][0], <a class="code hl_variable" href="../../d4/d97/a02816.html#aa6dde45459ce647040655253e287cd41">PyrewoodSpawnPoints</a>[position][1], <a class="code hl_variable" href="../../d4/d97/a02816.html#aa6dde45459ce647040655253e287cd41">PyrewoodSpawnPoints</a>[position][2], <a class="code hl_variable" href="../../d4/d97/a02816.html#aa6dde45459ce647040655253e287cd41">PyrewoodSpawnPoints</a>[position][3], <a class="code hl_enumvalue" href="../../d7/d25/a00182.html#a38c6d8d01cbe0c49b035f348f7724148ae10d0bfbb29fbbfe0e3c50203548d01a">TEMPSUMMON_CORPSE_TIMED_DESPAWN</a>, 15000))</div>
-<div class="line"><span class="lineno">  244</span>        {</div>
-<div class="line"><span class="lineno">  245</span>            <a class="code hl_class" href="../../dd/d58/a08715.html">Unit</a>* target = <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">  246</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d2/d95/a08583.html">Player</a>* player = <a class="code hl_function" href="../../d0/d6d/a04809.html#aeb3657e7ad09335b9a9ffa50473aa216">ObjectAccessor::GetPlayer</a>(*<a class="code hl_variable" href="../../d0/d79/a06187.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>, <a class="code hl_variable" href="../../d7/d1f/a13575.html#a7135b977e1d7ef47c62f4dace25908fd">_playerGUID</a>))</div>
-<div class="line"><span class="lineno">  247</span>                <span class="keywordflow">if</span> (player-&gt;IsAlive() &amp;&amp; <a class="code hl_function" href="../../dc/dd2/a01604.html#a95d9a0c5ba0d54645670ba51c16ed33c">RAND</a>(0, 1))</div>
-<div class="line"><span class="lineno">  248</span>                    target = player;</div>
-<div class="line"><span class="lineno">  249</span> </div>
-<div class="line"><span class="lineno">  250</span>            <span class="keywordflow">if</span> (!target)</div>
-<div class="line"><span class="lineno">  251</span>                target = <a class="code hl_variable" href="../../d0/d79/a06187.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>;</div>
-<div class="line"><span class="lineno">  252</span> </div>
-<div class="line"><span class="lineno">  253</span>            summoned-&gt;<a class="code hl_function" href="../../dd/d58/a08715.html#a2579e2b71959daec99048b4bcf7f6bf3">SetFaction</a>(<a class="code hl_enumvalue" href="../../d0/d2b/a01997.html#ac5c8e776fe109c83a63abe41eb5e80f2a87e3b4d6e82b248419a121d71045317f">FACTION_STORMWIND</a>);</div>
-<div class="line"><span class="lineno">  254</span>            summoned-&gt;AddThreat(target, 32.0f);</div>
-<div class="line"><span class="lineno">  255</span>            summoned-&gt;AI()-&gt;AttackStart(target);</div>
-<div class="line"><span class="lineno">  256</span>        }</div>
-<div class="line"><span class="lineno">  257</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  230</span>    {</div>
+<div class="line"><span class="lineno">  231</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../da/d4d/a07967.html">Creature</a>* summoned = <a class="code hl_variable" href="../../d0/d79/a06187.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../dc/d84/a08371.html#a1077c11c335f60013fdf7e7684bba519">SummonCreature</a>(creatureId, <a class="code hl_variable" href="../../d4/d97/a02816.html#aa6dde45459ce647040655253e287cd41">PyrewoodSpawnPoints</a>[position][0], <a class="code hl_variable" href="../../d4/d97/a02816.html#aa6dde45459ce647040655253e287cd41">PyrewoodSpawnPoints</a>[position][1], <a class="code hl_variable" href="../../d4/d97/a02816.html#aa6dde45459ce647040655253e287cd41">PyrewoodSpawnPoints</a>[position][2], <a class="code hl_variable" href="../../d4/d97/a02816.html#aa6dde45459ce647040655253e287cd41">PyrewoodSpawnPoints</a>[position][3], <a class="code hl_enumvalue" href="../../d7/d25/a00182.html#a38c6d8d01cbe0c49b035f348f7724148ae10d0bfbb29fbbfe0e3c50203548d01a">TEMPSUMMON_CORPSE_TIMED_DESPAWN</a>, 15000))</div>
+<div class="line"><span class="lineno">  232</span>        {</div>
+<div class="line"><span class="lineno">  233</span>            <a class="code hl_class" href="../../dd/d58/a08715.html">Unit</a>* target = <span class="keyword">nullptr</span>;</div>
+<div class="line"><span class="lineno">  234</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d2/d95/a08583.html">Player</a>* player = <a class="code hl_function" href="../../d0/d6d/a04809.html#aeb3657e7ad09335b9a9ffa50473aa216">ObjectAccessor::GetPlayer</a>(*<a class="code hl_variable" href="../../d0/d79/a06187.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>, <a class="code hl_variable" href="../../d7/d1f/a13575.html#a7135b977e1d7ef47c62f4dace25908fd">_playerGUID</a>))</div>
+<div class="line"><span class="lineno">  235</span>                <span class="keywordflow">if</span> (player-&gt;IsAlive() &amp;&amp; <a class="code hl_function" href="../../dc/dd2/a01604.html#a95d9a0c5ba0d54645670ba51c16ed33c">RAND</a>(0, 1))</div>
+<div class="line"><span class="lineno">  236</span>                    target = player;</div>
+<div class="line"><span class="lineno">  237</span> </div>
+<div class="line"><span class="lineno">  238</span>            <span class="keywordflow">if</span> (!target)</div>
+<div class="line"><span class="lineno">  239</span>                target = <a class="code hl_variable" href="../../d0/d79/a06187.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>;</div>
+<div class="line"><span class="lineno">  240</span> </div>
+<div class="line"><span class="lineno">  241</span>            summoned-&gt;<a class="code hl_function" href="../../dd/d58/a08715.html#a2579e2b71959daec99048b4bcf7f6bf3">SetFaction</a>(<a class="code hl_enumvalue" href="../../d0/d2b/a01997.html#ac5c8e776fe109c83a63abe41eb5e80f2a87e3b4d6e82b248419a121d71045317f">FACTION_STORMWIND</a>);</div>
+<div class="line"><span class="lineno">  242</span>            summoned-&gt;AddThreat(target, 32.0f);</div>
+<div class="line"><span class="lineno">  243</span>            summoned-&gt;AI()-&gt;AttackStart(target);</div>
+<div class="line"><span class="lineno">  244</span>        }</div>
+<div class="line"><span class="lineno">  245</span>    }</div>
 <div class="ttc" id="aa00182_html_a38c6d8d01cbe0c49b035f348f7724148ae10d0bfbb29fbbfe0e3c50203548d01a"><div class="ttname"><a href="../../d7/d25/a00182.html#a38c6d8d01cbe0c49b035f348f7724148ae10d0bfbb29fbbfe0e3c50203548d01a">TEMPSUMMON_CORPSE_TIMED_DESPAWN</a></div><div class="ttdeci">@ TEMPSUMMON_CORPSE_TIMED_DESPAWN</div><div class="ttdef"><b>Definition:</b> Object.h:52</div></div>
 <div class="ttc" id="aa01604_html_a95d9a0c5ba0d54645670ba51c16ed33c"><div class="ttname"><a href="../../dc/dd2/a01604.html#a95d9a0c5ba0d54645670ba51c16ed33c">RAND</a></div><div class="ttdeci">static First const &amp; RAND(First const &amp;first, Second const &amp;second, Rest const &amp;... rest)</div><div class="ttdef"><b>Definition:</b> CreatureAIImpl.h:25</div></div>
 <div class="ttc" id="aa01997_html_ac5c8e776fe109c83a63abe41eb5e80f2a87e3b4d6e82b248419a121d71045317f"><div class="ttname"><a href="../../d0/d2b/a01997.html#ac5c8e776fe109c83a63abe41eb5e80f2a87e3b4d6e82b248419a121d71045317f">FACTION_STORMWIND</a></div><div class="ttdeci">@ FACTION_STORMWIND</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:212</div></div>
-<div class="ttc" id="aa02816_html_aa6dde45459ce647040655253e287cd41"><div class="ttname"><a href="../../d4/d97/a02816.html#aa6dde45459ce647040655253e287cd41">PyrewoodSpawnPoints</a></div><div class="ttdeci">static float PyrewoodSpawnPoints[3][4]</div><div class="ttdef"><b>Definition:</b> zone_silverpine_forest.cpp:149</div></div>
+<div class="ttc" id="aa02816_html_aa6dde45459ce647040655253e287cd41"><div class="ttname"><a href="../../d4/d97/a02816.html#aa6dde45459ce647040655253e287cd41">PyrewoodSpawnPoints</a></div><div class="ttdeci">static float PyrewoodSpawnPoints[3][4]</div><div class="ttdef"><b>Definition:</b> zone_silverpine_forest.cpp:137</div></div>
 <div class="ttc" id="aa07967_html"><div class="ttname"><a href="../../da/d4d/a07967.html">Creature</a></div><div class="ttdef"><b>Definition:</b> Creature.h:43</div></div>
 <div class="ttc" id="aa08371_html_a1077c11c335f60013fdf7e7684bba519"><div class="ttname"><a href="../../dc/d84/a08371.html#a1077c11c335f60013fdf7e7684bba519">WorldObject::SummonCreature</a></div><div class="ttdeci">TempSummon * SummonCreature(uint32 id, const Position &amp;pos, TempSummonType spwtype=TEMPSUMMON_MANUAL_DESPAWN, uint32 despwtime=0, uint32 vehId=0, SummonPropertiesEntry const *properties=nullptr, bool visibleBySummonerOnly=false) const</div><div class="ttdef"><b>Definition:</b> Object.cpp:2368</div></div>
 <div class="ttc" id="aa08715_html"><div class="ttname"><a href="../../dd/d58/a08715.html">Unit</a></div><div class="ttdef"><b>Definition:</b> Unit.h:620</div></div>
 <div class="ttc" id="aa08715_html_a2579e2b71959daec99048b4bcf7f6bf3"><div class="ttname"><a href="../../dd/d58/a08715.html#a2579e2b71959daec99048b4bcf7f6bf3">Unit::SetFaction</a></div><div class="ttdeci">void SetFaction(uint32 faction)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:10096</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00212">FACTION_STORMWIND</a>, <a class="el" href="../../#l00220">ObjectAccessor::GetPlayer()</a>, <a class="el" href="../../#l00149">PyrewoodSpawnPoints</a>, <a class="el" href="../../#l00025">RAND()</a>, <a class="el" href="../../#l10096">Unit::SetFaction()</a>, <a class="el" href="../../#l02368">WorldObject::SummonCreature()</a>, and <a class="el" href="../../#l00052">TEMPSUMMON_CORPSE_TIMED_DESPAWN</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00212">FACTION_STORMWIND</a>, <a class="el" href="../../#l00220">ObjectAccessor::GetPlayer()</a>, <a class="el" href="../../#l00137">PyrewoodSpawnPoints</a>, <a class="el" href="../../#l00025">RAND()</a>, <a class="el" href="../../#l10096">Unit::SetFaction()</a>, <a class="el" href="../../#l02368">WorldObject::SummonCreature()</a>, and <a class="el" href="../../#l00052">TEMPSUMMON_CORPSE_TIMED_DESPAWN</a>.</p>
 
 </div>
 </div>
@@ -943,9 +943,9 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d0/d79/a06187.html#a36dac2235051431e12efb9ea595f2902">ScriptedAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  237</span>    {</div>
-<div class="line"><span class="lineno">  238</span>        <a class="code hl_variable" href="../../d7/d1f/a13575.html#a79dc171af9ef5057039f9a6b87c49bd1">_summons</a>.<a class="code hl_function" href="../../d0/dca/a06175.html#a2022b190043330dce78fdd60a15670a7">Despawn</a>(summoned);</div>
-<div class="line"><span class="lineno">  239</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  225</span>    {</div>
+<div class="line"><span class="lineno">  226</span>        <a class="code hl_variable" href="../../d7/d1f/a13575.html#a79dc171af9ef5057039f9a6b87c49bd1">_summons</a>.<a class="code hl_function" href="../../d0/dca/a06175.html#a2022b190043330dce78fdd60a15670a7">Despawn</a>(summoned);</div>
+<div class="line"><span class="lineno">  227</span>    }</div>
 <div class="ttc" id="aa06175_html_a2022b190043330dce78fdd60a15670a7"><div class="ttname"><a href="../../d0/dca/a06175.html#a2022b190043330dce78fdd60a15670a7">SummonList::Despawn</a></div><div class="ttdeci">void Despawn(Creature const *summon)</div><div class="ttdef"><b>Definition:</b> ScriptedCreature.h:89</div></div>
 </div><!-- fragment -->
 </div>
@@ -977,15 +977,15 @@ Additional Inherited Members</h2></td></tr>
 <p>Use to start attacking a target. Called just before <a class="el" href="../../d7/d1f/a13575.html#a248f13c2fff27a9ec8075d5b1429fec8" title="Called for reaction when initially engaged.">JustEngagedWith()</a> </p>
 
 <p>Reimplemented from <a class="el" href="../../d0/d79/a06187.html#aff5fd4e142a5cf930ffacbfc7259cce5">ScriptedAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  267</span>    {</div>
-<div class="line"><span class="lineno">  268</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d7/d1f/a13575.html#a899a4a0c3c70236be66ee2028f3423c7">_questInProgress</a> &amp;&amp; !<a class="code hl_variable" href="../../d7/d1f/a13575.html#a79dc171af9ef5057039f9a6b87c49bd1">_summons</a>.<a class="code hl_function" href="../../d0/dca/a06175.html#a78727fdd4dd2f4824e3cd7b610922508">IsAnyCreatureAlive</a>())</div>
-<div class="line"><span class="lineno">  269</span>            <a class="code hl_variable" href="../../d7/dc5/a06143.html#a7a708f334e3ff40b7e1bbdfbff7ba765">scheduler</a>.<a class="code hl_function" href="../../d9/d91/a05523.html#a35c0891c7aded13c6ae7ecd2e6d480a9">Update</a>(diff);</div>
-<div class="line"><span class="lineno">  270</span> </div>
-<div class="line"><span class="lineno">  271</span>        <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../d7/dc5/a06143.html#ae03ccfe1e27501ed9ccbfecdbd3c4e39">UpdateVictim</a>())</div>
-<div class="line"><span class="lineno">  272</span>            <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  273</span> </div>
-<div class="line"><span class="lineno">  274</span>        <a class="code hl_function" href="../../d4/d84/a06131.html#a348a472089a9be6210b58aace8fafa9f">DoMeleeAttackIfReady</a>();</div>
-<div class="line"><span class="lineno">  275</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  255</span>    {</div>
+<div class="line"><span class="lineno">  256</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d7/d1f/a13575.html#a899a4a0c3c70236be66ee2028f3423c7">_questInProgress</a> &amp;&amp; !<a class="code hl_variable" href="../../d7/d1f/a13575.html#a79dc171af9ef5057039f9a6b87c49bd1">_summons</a>.<a class="code hl_function" href="../../d0/dca/a06175.html#a78727fdd4dd2f4824e3cd7b610922508">IsAnyCreatureAlive</a>())</div>
+<div class="line"><span class="lineno">  257</span>            <a class="code hl_variable" href="../../d7/dc5/a06143.html#a7a708f334e3ff40b7e1bbdfbff7ba765">scheduler</a>.<a class="code hl_function" href="../../d9/d91/a05523.html#a35c0891c7aded13c6ae7ecd2e6d480a9">Update</a>(diff);</div>
+<div class="line"><span class="lineno">  258</span> </div>
+<div class="line"><span class="lineno">  259</span>        <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../d7/dc5/a06143.html#ae03ccfe1e27501ed9ccbfecdbd3c4e39">UpdateVictim</a>())</div>
+<div class="line"><span class="lineno">  260</span>            <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  261</span> </div>
+<div class="line"><span class="lineno">  262</span>        <a class="code hl_function" href="../../d4/d84/a06131.html#a348a472089a9be6210b58aace8fafa9f">DoMeleeAttackIfReady</a>();</div>
+<div class="line"><span class="lineno">  263</span>    }</div>
 <div class="ttc" id="aa05523_html_a35c0891c7aded13c6ae7ecd2e6d480a9"><div class="ttname"><a href="../../d9/d91/a05523.html#a35c0891c7aded13c6ae7ecd2e6d480a9">TaskScheduler::Update</a></div><div class="ttdeci">TaskScheduler &amp; Update(success_t const &amp;callback=EmptyCallback)</div><div class="ttdef"><b>Definition:</b> TaskScheduler.cpp:27</div></div>
 <div class="ttc" id="aa06131_html_a348a472089a9be6210b58aace8fafa9f"><div class="ttname"><a href="../../d4/d84/a06131.html#a348a472089a9be6210b58aace8fafa9f">UnitAI::DoMeleeAttackIfReady</a></div><div class="ttdeci">void DoMeleeAttackIfReady()</div><div class="ttdef"><b>Definition:</b> UnitAI.cpp:39</div></div>
 <div class="ttc" id="aa06143_html_ae03ccfe1e27501ed9ccbfecdbd3c4e39"><div class="ttname"><a href="../../d7/dc5/a06143.html#ae03ccfe1e27501ed9ccbfecdbd3c4e39">CreatureAI::UpdateVictim</a></div><div class="ttdeci">bool UpdateVictim()</div><div class="ttdef"><b>Definition:</b> CreatureAI.cpp:282</div></div>
@@ -1014,7 +1014,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00171">Reset()</a>, and <a class="el" href="../../#l00181">sQuestAccept()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00159">Reset()</a>, and <a class="el" href="../../#l00169">sQuestAccept()</a>.</p>
 
 </div>
 </div>
@@ -1038,7 +1038,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00166">npc_deathstalker_fearleia()</a>, <a class="el" href="../../#l00171">Reset()</a>, and <a class="el" href="../../#l00181">sQuestAccept()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00154">npc_deathstalker_fearleia()</a>, <a class="el" href="../../#l00159">Reset()</a>, and <a class="el" href="../../#l00169">sQuestAccept()</a>.</p>
 
 </div>
 </div>
@@ -1062,7 +1062,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00171">Reset()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00159">Reset()</a>.</p>
 
 </div>
 </div>
@@ -1072,7 +1072,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d7/d1f/a13575.html">npc_deathstalker_fearleia</a></li>
-    <li class="footer">Generated on Mon Jun 2 2025 20:47:12 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Jun 9 2025 20:47:32 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

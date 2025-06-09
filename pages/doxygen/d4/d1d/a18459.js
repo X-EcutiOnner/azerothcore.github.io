@@ -1,6 +1,8 @@
 var a18459 =
 [
-    [ "npc_gluttonous_abominationAI", "dd/d80/a18463.html", "dd/d80/a18463" ],
-    [ "npc_gluttonous_abomination", "d4/d1d/a18459.html#a895d1afcfc62bcaac6cc0d20465f1e7a", null ],
-    [ "GetAI", "d4/d1d/a18459.html#aedbd808da5e8ea0e2111e78be9d846ce", null ]
+    [ "npc_blistering_zombieAI", "d4/d1d/a18459.html#acf278cd2249ac45a4b043427ba36b3ce", null ],
+    [ "DamageTaken", "d4/d1d/a18459.html#adf031992078214f90d859df2b54aac91", null ],
+    [ "UpdateAI", "d4/d1d/a18459.html#ae081898b8dcaf45cd3069e79021de452", null ],
+    [ "casted", "d4/d1d/a18459.html#a0f70f5d58ef0bb20f64b0aec4df04905", null ],
+    [ "timer", "d4/d1d/a18459.html#a8b865c2a87b1fc020d8250767febab0a", null ]
 ];

@@ -1,7 +1,7 @@
 var a15451 =
 [
-    [ "npc_shenthulAI", "d3/d2f/a15455.html", "d3/d2f/a15455" ],
-    [ "npc_shenthul", "da/d38/a15451.html#a77815503c7d9c811fe3821232e308714", null ],
-    [ "GetAI", "da/d38/a15451.html#a1683f8c89add6270277c59951c74027e", null ],
-    [ "OnQuestAccept", "da/d38/a15451.html#a3a63fec338dca74eb7d071dfcc9c95b5", null ]
+    [ "npc_giant_spotlightAI", "da/d38/a15451.html#ae0f6686aaeacafce193e0d4590cf8c09", null ],
+    [ "Reset", "da/d38/a15451.html#a79f6703107eed52a3aeae30393507c0f", null ],
+    [ "UpdateAI", "da/d38/a15451.html#a8567f936dd15933300497d5abe80a272", null ],
+    [ "events", "da/d38/a15451.html#a20d1087e59daae9189d78f04ea2b2d05", null ]
 ];

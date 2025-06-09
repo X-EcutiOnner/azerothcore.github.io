@@ -1,7 +1,7 @@
 var a03743 =
 [
-    [ "LajTransformData", "da/dfd/a23695.html", "da/dfd/a23695" ],
-    [ "boss_laj", "de/d02/a23699.html", "de/d02/a23699" ],
+    [ "LajTransformData", "de/d02/a23699.html", "de/d02/a23699" ],
+    [ "boss_laj", "d4/dd5/a23703.html", "d4/dd5/a23703" ],
     [ "Misc", "d1/dd8/a03743.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
       [ "DATA_SKILLPOINT_MIN", "d0/d04/a03161.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a3093ddfcacf2742f4fb344843e2e7ce6", null ],
       [ "NEFARIUS_PATH_2", "d5/d37/a03092.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a09833188939fe77088ed4fb2cfedb875", null ],

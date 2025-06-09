@@ -1,6 +1,5 @@
 var a14235 =
 [
-    [ "npc_cw_area_triggerAI", "d8/dbe/a14239.html", "d8/dbe/a14239" ],
-    [ "npc_cw_area_trigger", "d8/d40/a14235.html#a11af64ac4ab078566bf8f68a36781939", null ],
-    [ "GetAI", "d8/d40/a14235.html#a66c55b2984bab71be89ad7b6b96e3784", null ]
+    [ "at_bring_your_orphan_to", "d8/d40/a14235.html#a160aae23dd3423dbc1afc8e3f8dbec7c", null ],
+    [ "OnTrigger", "d8/d40/a14235.html#af5cb73f6ba0657eff8809711a5dba84c", null ]
 ];

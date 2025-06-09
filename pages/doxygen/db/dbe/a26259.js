@@ -1,8 +1,7 @@
 var a26259 =
 [
-    [ "HandleEffectRemove", "db/dbe/a26259.html#a770b7ad0bb00114400a73f50c4aa6c81", null ],
-    [ "if", "db/dbe/a26259.html#a7123c451bce0f95ad75e5acfbe58a135", null ],
-    [ "PrepareAuraScript", "db/dbe/a26259.html#a531f51626ae4527282ad1e628911a9ea", null ],
-    [ "Register", "db/dbe/a26259.html#ae68bd9a92239a4796f9d8040787a68b3", null ],
-    [ "AuraEffectHandleModes", "db/dbe/a26259.html#a8af86c58f438e78d8bf878f79d4a27e2", null ]
+    [ "CheckRequirement", "db/dbe/a26259.html#afc9206b1d92834943c9825dfd97439c9", null ],
+    [ "HandleScriptEffect", "db/dbe/a26259.html#acef8bf4c93226e1b4c95f8b8cdd80f40", null ],
+    [ "PrepareSpellScript", "db/dbe/a26259.html#a0223c05b5832c64b248e82eba770f7fa", null ],
+    [ "Register", "db/dbe/a26259.html#aef93e3c5a60633f69871bbd49d40caf5", null ]
 ];

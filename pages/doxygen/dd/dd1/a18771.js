@@ -1,6 +1,5 @@
 var a18771 =
 [
-    [ "npc_icc_nerubar_broodkeeperAI", "d1/d21/a18775.html", "d1/d21/a18775" ],
-    [ "npc_icc_nerubar_broodkeeper", "dd/dd1/a18771.html#adf9c3bfb444fed50420c2e780b373f34", null ],
-    [ "GetAI", "dd/dd1/a18771.html#ad12186da36f7bbf99275a746bc874bfc", null ]
+    [ "npc_icc_buff_switcher", "dd/dd1/a18771.html#aeabc3d97c88bf12177b824524af3ae1d", null ],
+    [ "OnGossipSelect", "dd/dd1/a18771.html#abb3310d3eb5cf4f1c2a0a3ac46ddd7ba", null ]
 ];

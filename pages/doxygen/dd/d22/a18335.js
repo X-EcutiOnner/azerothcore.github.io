@@ -1,6 +1,5 @@
 var a18335 =
 [
-    [ "HandleScript", "dd/d22/a18335.html#a910663e3fb2534c0e3aefcfd0adfe2fb", null ],
-    [ "PrepareSpellScript", "dd/d22/a18335.html#a2c6acef52962f606130d643cbd93104b", null ],
-    [ "Register", "dd/d22/a18335.html#a03ed4f257c313ba33361c16f313fdfcc", null ]
+    [ "npc_icc_lk_checktargetAI", "dd/d22/a18335.html#a9a5953a9353be61a3fa96eaf7df7c489", null ],
+    [ "CanAIAttack", "dd/d22/a18335.html#a4dfce75e23f1093c3de0ce75b049a20a", null ]
 ];

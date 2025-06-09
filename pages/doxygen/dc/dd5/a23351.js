@@ -1,7 +1,8 @@
 var a23351 =
 [
-    [ "npc_underbog_mushroom", "dc/dd5/a23351.html#a2b77b2590d46c14c783d2df4a3699c44", null ],
-    [ "InitializeAI", "dc/dd5/a23351.html#a7c192010cc63715eaa3f38b1d1372936", null ],
-    [ "UpdateAI", "dc/dd5/a23351.html#a9a8ed51b12809152ebe78dda69944d77", null ],
-    [ "_scheduler", "dc/dd5/a23351.html#a407cdb1096e5212dd0a50ea4fa401112", null ]
+    [ "boss_hungarfen", "dc/dd5/a23351.html#a009b8d34731d2310a53195024b434935", null ],
+    [ "JustEngagedWith", "dc/dd5/a23351.html#a3612bb373ecdba4245587fd94257ba62", null ],
+    [ "Reset", "dc/dd5/a23351.html#a4b310eff8af9a33c50ae8f2035ba76ad", null ],
+    [ "UpdateAI", "dc/dd5/a23351.html#a1765bd54c04a3479e837b3d0e241300e", null ],
+    [ "_scheduler", "dc/dd5/a23351.html#a702185681abb6cfc4add7078ff5bbb52", null ]
 ];

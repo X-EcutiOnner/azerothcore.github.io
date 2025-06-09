@@ -1,6 +1,6 @@
 var a19595 =
 [
-    [ "instance_halls_of_stone_InstanceMapScript", "d9/daf/a19599.html", "d9/daf/a19599" ],
-    [ "instance_halls_of_stone", "da/d1e/a19595.html#ad0237cfaf2e48036f45181fd7746df2b", null ],
-    [ "GetInstanceScript", "da/d1e/a19595.html#a784906c7710a216016101cf7a6a915f3", null ]
+    [ "HandleApplyTouch", "da/d1e/a19595.html#a0c46c506f78f46f17c0de6caae774316", null ],
+    [ "PrepareSpellScript", "da/d1e/a19595.html#a2f32b735a8a72a6ef52744d3ce8ada8b", null ],
+    [ "Register", "da/d1e/a19595.html#a70382055564e4ead8b5da0d6bd20c67f", null ]
 ];

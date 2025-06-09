@@ -1,8 +1,6 @@
 var a23807 =
 [
-    [ "HandleScriptEffect", "d1/db4/a23807.html#a7cde39fc0844f19604c8026a853e8216", null ],
-    [ "Load", "d1/db4/a23807.html#a5d3eb86208c4aa9c6592349d28c5df79", null ],
-    [ "PrepareSpellScript", "d1/db4/a23807.html#a962de50d1fa35ca16b4753f55e5cbd47", null ],
-    [ "Register", "d1/db4/a23807.html#aee6bd90e8b39132d4b53b67c22d6c331", null ],
-    [ "_currentSpellId", "d1/db4/a23807.html#a0ad25535ba345fe9672150af67687305", null ]
+    [ "lapseTeleport", "d1/db4/a23807.html#a55c4330397214bf3a43628b3067d4634", null ],
+    [ "Execute", "d1/db4/a23807.html#a122023ed13fce2f5bb3721e459964443", null ],
+    [ "_owner", "d1/db4/a23807.html#a0e678c5cdb862390ea50c8d6057b7093", null ]
 ];

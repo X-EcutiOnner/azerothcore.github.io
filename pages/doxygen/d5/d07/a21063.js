@@ -1,6 +1,14 @@
 var a21063 =
 [
-    [ "npc_ferocious_rhinoAI", "dd/da8/a21067.html", "dd/da8/a21067" ],
-    [ "npc_ferocious_rhino", "d5/d07/a21063.html#a480c1d0c24cdbe7cd3c47332ee925466", null ],
-    [ "GetAI", "d5/d07/a21063.html#aa5c3cba6b1ed6cffaac578c5449b9b4e", null ]
+    [ "npc_massive_jormungarAI", "d5/d07/a21063.html#aa0b9acaec1aab155f7e4442d12d40c3e", null ],
+    [ "DoAction", "d5/d07/a21063.html#a8084994ba056c907b2e487568fa7502a", null ],
+    [ "JustDied", "d5/d07/a21063.html#a02b4e75227811250e2210f754e6e04f2", null ],
+    [ "JustEngagedWith", "d5/d07/a21063.html#a93769dbb2f7d2136e5ab2603927a5f12", null ],
+    [ "JustReachedHome", "d5/d07/a21063.html#a8ea0fe40cb4b113abadc091ab8085636", null ],
+    [ "MoveInLineOfSight", "d5/d07/a21063.html#a55c817111fab479c3abcfca8942f16e8", null ],
+    [ "Reset", "d5/d07/a21063.html#aca0d8ebe3b47a075a8b87666c0207620", null ],
+    [ "UpdateAI", "d5/d07/a21063.html#a9201c4cdf74d55bb3cde52eb265aa3d9", null ],
+    [ "events", "d5/d07/a21063.html#a92334b8178317a91a7d4336096d75f33", null ],
+    [ "m_pInstance", "d5/d07/a21063.html#ad50a9852370798817fda318f71f27653", null ],
+    [ "summons", "d5/d07/a21063.html#acfa84efc38b994706015e6d82fe1f653", null ]
 ];

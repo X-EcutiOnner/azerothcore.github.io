@@ -1,9 +1,9 @@
 var a02543 =
 [
-    [ "boss_zuramat", "d1/d11/a21307.html", "d1/d11/a21307" ],
-    [ "boss_zuramat::boss_zuramatAI", "dc/d0e/a21311.html", "dc/d0e/a21311" ],
-    [ "npc_vh_void_sentry", "d6/df9/a21315.html", "d6/df9/a21315" ],
-    [ "npc_vh_void_sentry::npc_vh_void_sentryAI", "d2/df1/a21319.html", "d2/df1/a21319" ],
+    [ "boss_zuramat", "dc/d0e/a21311.html", "dc/d0e/a21311" ],
+    [ "boss_zuramat::boss_zuramatAI", "d6/df9/a21315.html", "d6/df9/a21315" ],
+    [ "npc_vh_void_sentry", "d2/df1/a21319.html", "d2/df1/a21319" ],
+    [ "npc_vh_void_sentry::npc_vh_void_sentryAI", "d0/d6a/a21323.html", "d0/d6a/a21323" ],
     [ "NPC_VOID_SENTRY_BALL", "d1/d57/a02543.html#ad5b8f2597f257f84fe802e98918f9f6a", null ],
     [ "eEvents", "d1/d57/a02543.html#a1d3512b0adb171bd0db6aad2c9e70516", [
       [ "EVENT_NULL", "d5/d73/a02423.html#a1d3512b0adb171bd0db6aad2c9e70516afc8e2e36b7d0f732f5f52e0a94155c7a", null ],

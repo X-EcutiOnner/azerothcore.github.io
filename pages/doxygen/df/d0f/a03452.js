@@ -1,6 +1,6 @@
 var a03452 =
 [
-    [ "boss_fankriss", "d3/d8c/a15063.html", "d3/d8c/a15063" ],
+    [ "boss_fankriss", "d6/da3/a15067.html", "d6/da3/a15067" ],
     [ "Misc", "df/d0f/a03452.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
       [ "DATA_SKILLPOINT_MIN", "d0/d04/a03161.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a3093ddfcacf2742f4fb344843e2e7ce6", null ],
       [ "NEFARIUS_PATH_2", "d5/d37/a03092.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a09833188939fe77088ed4fb2cfedb875", null ],

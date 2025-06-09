@@ -1,9 +1,9 @@
 var a03470 =
 [
-    [ "npc_shenthul", "da/d38/a15451.html", "da/d38/a15451" ],
-    [ "npc_shenthul::npc_shenthulAI", "d3/d2f/a15455.html", "d3/d2f/a15455" ],
-    [ "npc_thrall_warchief", "df/d7e/a15459.html", "df/d7e/a15459" ],
-    [ "npc_thrall_warchief::npc_thrall_warchiefAI", "d2/d58/a15463.html", "d2/d58/a15463" ],
+    [ "npc_shenthul", "d3/d2f/a15455.html", "d3/d2f/a15455" ],
+    [ "npc_shenthul::npc_shenthulAI", "df/d7e/a15459.html", "df/d7e/a15459" ],
+    [ "npc_thrall_warchief", "d2/d58/a15463.html", "d2/d58/a15463" ],
+    [ "npc_thrall_warchief::npc_thrall_warchiefAI", "d2/d0f/a15467.html", "d2/d0f/a15467" ],
     [ "Shenthul", "df/d5c/a03470.html#a032512bb2693fda342f4d77dba794fbe", [
       [ "QUEST_SHATTERED_SALUTE", "df/d5c/a03470.html#a032512bb2693fda342f4d77dba794fbea38993f500c01e7bc0ae8dd3a83848ff0", null ]
     ] ],
@@ -19,7 +19,8 @@ var a03470 =
       [ "GO_UNADORNED_SPIKE", "df/d5c/a03470.html#a1cdad3bda3b93500c342a64dce6d15d9a544ea295d906cebdf38aecb93e7ac153", null ],
       [ "QUEST_WHAT_THE_WIND_CARRIES", "df/d5c/a03470.html#a1cdad3bda3b93500c342a64dce6d15d9a5bc18876e7da8ddfc493ea155bb75287", null ],
       [ "GOSSIP_MENU_THRALL", "df/d5c/a03470.html#a1cdad3bda3b93500c342a64dce6d15d9a502d5aed1ed2917d36573a355656ce86", null ],
-      [ "GOSSIP_RESPONSE_THRALL_FIRST", "df/d5c/a03470.html#a1cdad3bda3b93500c342a64dce6d15d9a710a8ed7a2d8ddb38e5e0f7db188132d", null ]
+      [ "GOSSIP_RESPONSE_THRALL_FIRST", "df/d5c/a03470.html#a1cdad3bda3b93500c342a64dce6d15d9a710a8ed7a2d8ddb38e5e0f7db188132d", null ],
+      [ "QUEST_WARCHIEFS_BLESSING", "df/d5c/a03470.html#a1cdad3bda3b93500c342a64dce6d15d9ab698e2206a77782e1893a2230085a047", null ]
     ] ],
     [ "AddSC_orgrimmar", "df/d5c/a03470.html#aec4388ea6d2e4bbc1d279b3a4687c4c6", null ],
     [ "heraldOfThrallPos", "df/d5c/a03470.html#a016aeee1d0eac9c78c522520663670f0", null ]

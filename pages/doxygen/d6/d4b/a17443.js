@@ -1,5 +1,7 @@
 var a17443 =
 [
-    [ "achievement_flu_shot_shortage", "d6/d4b/a17443.html#af448c773bcdf31cec7ae9d7c85e9e595", null ],
-    [ "OnCheck", "d6/d4b/a17443.html#a3195af1d4504ffc200c99bef84eaaa5a", null ]
+    [ "HandleScript", "d6/d4b/a17443.html#a101e5e995dd27dcc6b6a4b475eed0989", null ],
+    [ "PrepareSpellScript", "d6/d4b/a17443.html#a8f668b88a41585cabeace574b30b4f85", null ],
+    [ "Register", "d6/d4b/a17443.html#a8fae161a91fae297b99079bde218ced8", null ],
+    [ "Validate", "d6/d4b/a17443.html#a4d1a8c28eefff22afdbf15ab57a6a7fd", null ]
 ];

@@ -1,7 +1,7 @@
 var a18199 =
 [
-    [ "CheckTargetCount", "db/da8/a18199.html#a67a1cbbf74fe91a32a51d9ad5056f048", null ],
-    [ "PrepareSpellScript", "db/da8/a18199.html#abd32198867e7f01b21b7de6224a597d4", null ],
-    [ "Register", "db/da8/a18199.html#a671bede7fbc68085cd6075f412822869", null ],
-    [ "Validate", "db/da8/a18199.html#a2f64421bb71988f06a7e2cb71a097d75", null ]
+    [ "OnRemove", "db/da8/a18199.html#a106935d92ef6ba7909c57264e26b5522", null ],
+    [ "PrepareAuraScript", "db/da8/a18199.html#a8ce8f5d4ebd4279fdfd192ba3b01b894", null ],
+    [ "Register", "db/da8/a18199.html#a095e7530a0f2e7a76dc8bd3f75759089", null ],
+    [ "Validate", "db/da8/a18199.html#a0b4283bdb19a4ceef505aab41c99abe8", null ]
 ];

@@ -1,5 +1,6 @@
 var a26943 =
 [
-    [ "achievement_resilient_victory", "d2/d6c/a26943.html#a6224c8a4b1b1ee7c1ab09d8873e86aa8", null ],
-    [ "OnCheck", "d2/d6c/a26943.html#a21445d406f67771a20608260b3f9b033", null ]
+    [ "HandleOnHit", "d2/d6c/a26943.html#a32a6f464057fbfb3bbffe0e10d1d4141", null ],
+    [ "PrepareSpellScript", "d2/d6c/a26943.html#adfa4da76e8c2486fbcc2b3bea0f50005", null ],
+    [ "Register", "d2/d6c/a26943.html#a1742dc0c039f7f981cae8114ff9ae59a", null ]
 ];

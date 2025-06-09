@@ -1,10 +1,6 @@
 var a15439 =
 [
-    [ "npc_omenAI", "d8/dd5/a15439.html#a042c0854b4cc08861fabbd347acbb9d7", null ],
-    [ "JustDied", "d8/dd5/a15439.html#a5a5d61081c2c59d637739de0f2fe39d4", null ],
-    [ "JustEngagedWith", "d8/dd5/a15439.html#aa2dbe46d16d7059c57876e000fcf1bb5", null ],
-    [ "MovementInform", "d8/dd5/a15439.html#a92e59bde1f0da2ee537a836304a3c385", null ],
-    [ "SpellHit", "d8/dd5/a15439.html#a4e3960d506fd0435de055a365906a9c9", null ],
-    [ "UpdateAI", "d8/dd5/a15439.html#a6f114ab4bbe3e6e1fd6d74da93a36027", null ],
-    [ "events", "d8/dd5/a15439.html#aaaaff29ffd8f216eb3e09b51a67f7321", null ]
+    [ "npc_omenAI", "da/dd7/a15443.html", "da/dd7/a15443" ],
+    [ "npc_omen", "d8/dd5/a15439.html#aff955303a8b9741838779a59dd496f62", null ],
+    [ "GetAI", "d8/dd5/a15439.html#a8023ad3298000d9819c46f46a93166d4", null ]
 ];

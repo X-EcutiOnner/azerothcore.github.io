@@ -1,7 +1,7 @@
 var a14923 =
 [
-    [ "go_sand_trap", "d1/dd3/a14923.html#a58d45acac672cb05988ddca78185b469", null ],
-    [ "Reset", "d1/dd3/a14923.html#a7071a3e420e9137ca133b471bc217bf3", null ],
-    [ "UpdateAI", "d1/dd3/a14923.html#a2e4a5fec4d4c790233ca97e6a7732ac4", null ],
-    [ "_scheduler", "d1/dd3/a14923.html#af845c0efb3d8ebe53d3620970a84f1e4", null ]
+    [ "boss_kurinnaxx", "d1/dd3/a14923.html#aa8b471e6239080b2a5f70e50e07a9621", null ],
+    [ "InitializeAI", "d1/dd3/a14923.html#a0e249007d5bf29eb0cff307045ef9eb3", null ],
+    [ "JustDied", "d1/dd3/a14923.html#adb749c8737888a099ad7a3d58292a612", null ],
+    [ "JustEngagedWith", "d1/dd3/a14923.html#a451cd7ee80b0428a199c33012562bdb3", null ]
 ];

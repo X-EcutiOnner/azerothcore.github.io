@@ -1,6 +1,12 @@
 var a19723 =
 [
-    [ "boss_stormcaller_brundirAI", "d6/db6/a19727.html", "d6/db6/a19727" ],
-    [ "boss_stormcaller_brundir", "d1/d60/a19723.html#aa966d1534a58e3832c46772043956533", null ],
-    [ "GetAI", "d1/d60/a19723.html#a399b1b7cf2ee74c1e672231e922ff4fa", null ]
+    [ "npc_assembly_lightningAI", "d1/d60/a19723.html#a4b778b6545e7c93e66a07160db793651", null ],
+    [ "AttackStart", "d1/d60/a19723.html#afd4657e8c6a2eb39346e99cb54a7ab1a", null ],
+    [ "EnterEvadeMode", "d1/d60/a19723.html#a4c0bb838053412a3945648ed1a5a13b9", null ],
+    [ "MoveInLineOfSight", "d1/d60/a19723.html#a077f788e67cdb67683ac13f3a3d1322b", null ],
+    [ "MovementInform", "d1/d60/a19723.html#a95227f93c5ac6871bfcea603ebb2188d", null ],
+    [ "OnCharmed", "d1/d60/a19723.html#aa08e4c286723c76251bd75aa54b24f5f", null ],
+    [ "Reset", "d1/d60/a19723.html#a1f03885bfd91d9b9cdde1d90b51d2c96", null ],
+    [ "UpdateAI", "d1/d60/a19723.html#a94edd1ea5278bd5ca8d5d64619e9c8b4", null ],
+    [ "_boomed", "d1/d60/a19723.html#aa6b4a46674a7d4106a49ef308ec27b9e", null ]
 ];

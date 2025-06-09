@@ -1,13 +1,13 @@
 var a03584 =
 [
-    [ "npc_arthas", "d9/d93/a14679.html", "d9/d93/a14679" ],
-    [ "npc_arthas::npc_arthasAI", "d7/d4a/a14683.html", "d7/d4a/a14683" ],
-    [ "npc_crate_helper", "db/da4/a14687.html", "db/da4/a14687" ],
-    [ "npc_crate_helper::npc_crate_helperAI", "d5/d3a/a14691.html", "d5/d3a/a14691" ],
-    [ "npc_cos_chromie_start", "dd/dee/a14695.html", "dd/dee/a14695" ],
-    [ "npc_cos_chromie_middle", "d5/d78/a14699.html", "d5/d78/a14699" ],
-    [ "npc_cos_stratholme_citizien", "da/d26/a14703.html", "da/d26/a14703" ],
-    [ "npc_cos_stratholme_citizien::npc_cos_stratholme_citizienAI", "dc/dfd/a14707.html", "dc/dfd/a14707" ],
+    [ "npc_arthas", "d7/d4a/a14683.html", "d7/d4a/a14683" ],
+    [ "npc_arthas::npc_arthasAI", "db/da4/a14687.html", "db/da4/a14687" ],
+    [ "npc_crate_helper", "d5/d3a/a14691.html", "d5/d3a/a14691" ],
+    [ "npc_crate_helper::npc_crate_helperAI", "dd/dee/a14695.html", "dd/dee/a14695" ],
+    [ "npc_cos_chromie_start", "d5/d78/a14699.html", "d5/d78/a14699" ],
+    [ "npc_cos_chromie_middle", "da/d26/a14703.html", "da/d26/a14703" ],
+    [ "npc_cos_stratholme_citizien", "dc/dfd/a14707.html", "dc/dfd/a14707" ],
+    [ "npc_cos_stratholme_citizien::npc_cos_stratholme_citizienAI", "dc/d1e/a14711.html", "dc/d1e/a14711" ],
     [ "chromie", "dd/dda/a03584.html#a57afdde1f716bba8c87448af7cad7789", [
       [ "ITEM_ARCANE_DISRUPTOR", "dd/dda/a03584.html#a57afdde1f716bba8c87448af7cad7789a1aba293237d434c6b08ff568880b3e23", null ],
       [ "QUEST_DISPELLING_ILLUSIONS", "dd/dda/a03584.html#a57afdde1f716bba8c87448af7cad7789a4647fb793847c95144cb48cfa4107b47", null ],

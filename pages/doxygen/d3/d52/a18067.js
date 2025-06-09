@@ -1,6 +1,5 @@
 var a18067 =
 [
-    [ "npc_sindragosa_trashAI", "d0/d24/a18071.html", "d0/d24/a18071" ],
-    [ "npc_sindragosa_trash", "d3/d52/a18067.html#a9634ea10e767b4d6e293fc3fdd491702", null ],
-    [ "GetAI", "d3/d52/a18067.html#ab1de715d98236a853a793d830bc601d7", null ]
+    [ "at_sindragosa_lair", "d3/d52/a18067.html#a60ce46f248e66faa1f13a8b5c088bdc6", null ],
+    [ "OnTrigger", "d3/d52/a18067.html#a07074bff20272042ed05be83dd818ee9", null ]
 ];

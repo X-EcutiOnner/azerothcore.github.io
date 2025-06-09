@@ -1,6 +1,7 @@
 var a20015 =
 [
-    [ "boss_freya_healthy_sporeAI", "dd/dcb/a20019.html", "dd/dcb/a20019" ],
-    [ "boss_freya_healthy_spore", "df/d37/a20015.html#a16633136393061aa98c7a98f535d421e", null ],
-    [ "GetAI", "df/d37/a20015.html#ae76eb3b334f82c536f71fdcfc86e4382", null ]
+    [ "boss_freya_lifebinderAI", "df/d37/a20015.html#ae421aa209690e4a2908995b6b7d322cd", null ],
+    [ "Reset", "df/d37/a20015.html#a972bd7d390d444e0ea2bc513d5d3816a", null ],
+    [ "UpdateAI", "df/d37/a20015.html#afb06c217c1012d6463e44689359eada9", null ],
+    [ "_healTimer", "df/d37/a20015.html#a7021d13dceb9af343f0e820cf086046e", null ]
 ];

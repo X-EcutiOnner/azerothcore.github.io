@@ -1,6 +1,8 @@
 var a16363 =
 [
-    [ "npc_toc_mageAI", "d9/d47/a16367.html", "d9/d47/a16367" ],
-    [ "npc_toc_mage", "d8/d62/a16363.html#a8270875c1da3e2e96f767362ef90cdc6", null ],
-    [ "GetAI", "d8/d62/a16363.html#a64b5b8b3a5933a0264537f2187e81e15", null ]
+    [ "npc_toc_warlockAI", "d8/d62/a16363.html#a4c4c2f502f00ca48bb7419434d88ea3a", null ],
+    [ "JustSummoned", "d8/d62/a16363.html#a203ef748afaa400aa1f8365b5d7bf6b1", null ],
+    [ "myCanCast", "d8/d62/a16363.html#a62b2df362bc07aa4a9c14cbc63a10e05", null ],
+    [ "UpdateAI", "d8/d62/a16363.html#a554849d02d923439bd810b7d8c242afa", null ],
+    [ "events", "d8/d62/a16363.html#a3b84c70d246bbf5b70ab4dec06c647b3", null ]
 ];

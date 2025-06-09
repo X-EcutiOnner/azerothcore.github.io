@@ -1,6 +1,8 @@
 var a17547 =
 [
-    [ "npc_gunship_gunnerAI", "d5/d68/a17551.html", "d5/d68/a17551" ],
-    [ "npc_gunship_gunner", "db/d3f/a17547.html#a409711f22b35eae0c0d48bc23545e592", null ],
-    [ "GetAI", "db/d3f/a17547.html#a2b28f5edfddf7a8c94a2a5475ec575dc", null ]
+    [ "npc_gunship_mageAI", "db/d3f/a17547.html#ac79cb67f21820ef88ac9cd671ca9e4c7", null ],
+    [ "AttackStart", "db/d3f/a17547.html#a41bd517c360538f568fb56bc9d2f5e55", null ],
+    [ "CanAIAttack", "db/d3f/a17547.html#aadcb217a9df96bee02287d75a23e32c2", null ],
+    [ "MovementInform", "db/d3f/a17547.html#ac0f233fa5a34cd6e080f44c798b4fc62", null ],
+    [ "UpdateAI", "db/d3f/a17547.html#aa767fc4cb2f7eba37fedaec57c4bc175", null ]
 ];

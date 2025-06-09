@@ -1,7 +1,7 @@
 var searchData=
 [
-  ['jainaguid_0',['JainaGUID',['../d2/d0c/a13671.html#aaf200bc2ab00524cd78d7cccc141d31d',1,'npc_thrall_bfu::npc_thrall_bfuAI']]],
-  ['jainaguid_1',['jainaGUID',['../d5/dc6/a13643.html#a4bb7979acbcdbe3345289a5194dc6737',1,'npc_varian_wrynn::npc_varian_wrynnAI']]],
+  ['jainaguid_0',['JainaGUID',['../d4/dee/a13675.html#aaf200bc2ab00524cd78d7cccc141d31d',1,'npc_thrall_bfu::npc_thrall_bfuAI']]],
+  ['jainaguid_1',['jainaGUID',['../dd/d2d/a13647.html#a4bb7979acbcdbe3345289a5194dc6737',1,'npc_varian_wrynn::npc_varian_wrynnAI']]],
   ['jainaspawnpos_2',['JainaSpawnPos',['../df/def/a02369.html#aff26eada4fd391d31073d6376a089160',1,'instance_icecrown_citadel.cpp']]],
   ['janalainpos_3',['janalainPos',['../dc/d5e/a02891.html#a221fad04fa8f0cb38b93a539fbd03d2e',1,'boss_janalai.cpp']]],
   ['jedogaposition_4',['JedogaPosition',['../d2/d81/a02276.html#a478ab8fa49ee82fd1260096de7ab6b0d',1,'boss_jedoga_shadowseeker.cpp']]],
@@ -11,7 +11,7 @@ var searchData=
   ['jointime_8',['joinTime',['../df/dbb/a07943.html#a240fcc11f3fd9d27fa913f80828522f2',1,'lfg::LfgQueueData']]],
   ['jointime_9',['JoinTime',['../d7/dba/a07283.html#a44939a98ff1ec940e42e79faf31a2e9a',1,'GroupQueueInfo']]],
   ['jump_10',['jump',['../d3/d9c/a06419.html#a85ce78a3fa69eb45aeeb951d94492e53',1,'SmartAction::jump()'],['../dd/d95/a08347.html#a920a536b873fcc63dd6bb22882a7a8ea',1,'MovementInfo::jump()']]],
-  ['jumping_11',['jumping',['../d3/d81/a24375.html#a8486512b7594f2ce759fcb580f1baf34',1,'npc_pet_gen_plump_turkey']]],
-  ['jumptimer_12',['jumpTimer',['../d3/d81/a24375.html#ad53a9abad41ab6a792a55b854155135d',1,'npc_pet_gen_plump_turkey::jumpTimer()'],['../dc/d72/a27599.html#a5c17e00187ac87b23482dfbabb89809b',1,'npc_spring_rabbit::npc_spring_rabbitAI::jumpTimer()']]],
-  ['justsummoned_13',['JustSummoned',['../d9/d0b/a19359.html#a8b656a464525e881944e72e9486b0eb9',1,'npc_oculus_drake::npc_oculus_drakeAI']]]
+  ['jumping_11',['jumping',['../df/dc7/a24379.html#a8486512b7594f2ce759fcb580f1baf34',1,'npc_pet_gen_plump_turkey']]],
+  ['jumptimer_12',['jumpTimer',['../df/dc7/a24379.html#ad53a9abad41ab6a792a55b854155135d',1,'npc_pet_gen_plump_turkey::jumpTimer()'],['../d7/d45/a27603.html#a5c17e00187ac87b23482dfbabb89809b',1,'npc_spring_rabbit::npc_spring_rabbitAI::jumpTimer()']]],
+  ['justsummoned_13',['JustSummoned',['../dc/da5/a19363.html#a8b656a464525e881944e72e9486b0eb9',1,'npc_oculus_drake::npc_oculus_drakeAI']]]
 ];

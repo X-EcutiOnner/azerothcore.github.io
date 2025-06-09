@@ -1,5 +1,7 @@
 var a18039 =
 [
-    [ "achievement_all_you_can_eat", "dc/d05/a18039.html#a0995024862a445ea1f0ff5c82475fc64", null ],
-    [ "OnCheck", "dc/d05/a18039.html#a0baa07a7cbd239e4a5fcfd3e687aedf6", null ]
+    [ "PeriodicTick", "dc/d05/a18039.html#a0c365bbb4ae9b77bb9e00a1eb41b96e4", null ],
+    [ "PrepareAuraScript", "dc/d05/a18039.html#afcadfbdd84608e827b89c64bf03c8501", null ],
+    [ "Register", "dc/d05/a18039.html#a0e8e8685ce8c1eea2b60e8bf6aeed782", null ],
+    [ "Validate", "dc/d05/a18039.html#a879b657d94c1faf6225fe64f907cdf82", null ]
 ];

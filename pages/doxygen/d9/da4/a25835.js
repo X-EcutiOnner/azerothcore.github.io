@@ -1,6 +1,9 @@
 var a25835 =
 [
-    [ "PrepareSpellScript", "d9/da4/a25835.html#a738e105a48f6c603f3d9a690f44b8745", null ],
-    [ "Register", "d9/da4/a25835.html#a6bc9791d0f08440e19b89daa9b65892c", null ],
-    [ "SetDest", "d9/da4/a25835.html#a59641895cead08de4a4503262505ee73", null ]
+    [ "OnEffectHitTargetDisarm", "d9/da4/a25835.html#ae8ce5a315886ede30eda7d3682e4ef06", null ],
+    [ "OnEffectHitTargetStun", "d9/da4/a25835.html#a5a5253b6d152b1af78de663c09451536", null ],
+    [ "OnEffectLaunchTargetDisarm", "d9/da4/a25835.html#a2bbcf5ee2d41362c80a4649a4cf7e260", null ],
+    [ "OnEffectLaunchTargetStun", "d9/da4/a25835.html#ac3d5052bf045082fb8bc02c72a0dba39", null ],
+    [ "PrepareSpellScript", "d9/da4/a25835.html#a113219d3376a23f8889f26f10744e7cb", null ],
+    [ "Register", "d9/da4/a25835.html#a12ef13dbc3e9cd95fb1d57bf393735e3", null ]
 ];

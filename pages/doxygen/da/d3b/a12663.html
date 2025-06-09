@@ -586,7 +586,7 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  653</span>: <a class="code hl_struct" href="../../d0/d79/a06187.html">ScriptedAI</a>(creature) { }</div>
+<div class="fragment"><div class="line"><span class="lineno">  646</span>: <a class="code hl_struct" href="../../d0/d79/a06187.html">ScriptedAI</a>(creature) { }</div>
 <div class="ttc" id="aa06187_html"><div class="ttname"><a href="../../d0/d79/a06187.html">ScriptedAI</a></div><div class="ttdef"><b>Definition:</b> ScriptedCreature.h:190</div></div>
 </div><!-- fragment -->
 </div>
@@ -619,14 +619,14 @@ Additional Inherited Members</h2></td></tr>
 <p>Called for reaction when initially engaged. </p>
 
 <p>Reimplemented from <a class="el" href="../../d0/d79/a06187.html#ac2ce21ab709e349abb8206ce2368cd37">ScriptedAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  658</span>    {</div>
-<div class="line"><span class="lineno">  659</span>        <a class="code hl_variable" href="../../da/d3b/a12663.html#a77f4d42ff45e0565f2d9ee5b27787ffd">_scheduler</a>.<a class="code hl_function" href="../../d9/d91/a05523.html#a0e0579d2a2397de5a79c756d5e59a830">Schedule</a>(1s, [<span class="keyword">this</span>](<a class="code hl_class" href="../../d6/d15/a05539.html">TaskContext</a> context)</div>
-<div class="line"><span class="lineno">  660</span>        {</div>
-<div class="line"><span class="lineno">  661</span>            <a class="code hl_struct" href="../../de/d5d/a08415.html">Position</a> pos = <a class="code hl_variable" href="../../d0/d79/a06187.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../dc/d84/a08371.html#a7889cc2ed6e3ef398fbc091c6144bd04">GetRandomNearPosition</a>(10);</div>
-<div class="line"><span class="lineno">  662</span>            <a class="code hl_variable" href="../../d0/d79/a06187.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../dd/d58/a08715.html#a4a04a3f22c3b0d6f4933993ac0cc7aa4">GetMotionMaster</a>()-&gt;MovePoint(0, pos);</div>
-<div class="line"><span class="lineno">  663</span>            context.<a class="code hl_function" href="../../d6/d15/a05539.html#a380c596857dd0030414db5e8d28a3dda">Repeat</a>(3s, 5s);</div>
-<div class="line"><span class="lineno">  664</span>        });</div>
-<div class="line"><span class="lineno">  665</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  651</span>    {</div>
+<div class="line"><span class="lineno">  652</span>        <a class="code hl_variable" href="../../da/d3b/a12663.html#a77f4d42ff45e0565f2d9ee5b27787ffd">_scheduler</a>.<a class="code hl_function" href="../../d9/d91/a05523.html#a0e0579d2a2397de5a79c756d5e59a830">Schedule</a>(1s, [<span class="keyword">this</span>](<a class="code hl_class" href="../../d6/d15/a05539.html">TaskContext</a> context)</div>
+<div class="line"><span class="lineno">  653</span>        {</div>
+<div class="line"><span class="lineno">  654</span>            <a class="code hl_struct" href="../../de/d5d/a08415.html">Position</a> pos = <a class="code hl_variable" href="../../d0/d79/a06187.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../dc/d84/a08371.html#a7889cc2ed6e3ef398fbc091c6144bd04">GetRandomNearPosition</a>(10);</div>
+<div class="line"><span class="lineno">  655</span>            <a class="code hl_variable" href="../../d0/d79/a06187.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../dd/d58/a08715.html#a4a04a3f22c3b0d6f4933993ac0cc7aa4">GetMotionMaster</a>()-&gt;MovePoint(0, pos);</div>
+<div class="line"><span class="lineno">  656</span>            context.<a class="code hl_function" href="../../d6/d15/a05539.html#a380c596857dd0030414db5e8d28a3dda">Repeat</a>(3s, 5s);</div>
+<div class="line"><span class="lineno">  657</span>        });</div>
+<div class="line"><span class="lineno">  658</span>    }</div>
 <div class="ttc" id="aa05523_html_a0e0579d2a2397de5a79c756d5e59a830"><div class="ttname"><a href="../../d9/d91/a05523.html#a0e0579d2a2397de5a79c756d5e59a830">TaskScheduler::Schedule</a></div><div class="ttdeci">TaskScheduler &amp; Schedule(std::chrono::duration&lt; _Rep, _Period &gt; const &amp;time, task_handler_t const &amp;task)</div><div class="ttdef"><b>Definition:</b> TaskScheduler.h:232</div></div>
 <div class="ttc" id="aa05539_html"><div class="ttname"><a href="../../d6/d15/a05539.html">TaskContext</a></div><div class="ttdef"><b>Definition:</b> TaskScheduler.h:421</div></div>
 <div class="ttc" id="aa05539_html_a380c596857dd0030414db5e8d28a3dda"><div class="ttname"><a href="../../d6/d15/a05539.html#a380c596857dd0030414db5e8d28a3dda">TaskContext::Repeat</a></div><div class="ttdeci">TaskContext &amp; Repeat(std::chrono::duration&lt; _Rep, _Period &gt; const &amp;duration)</div><div class="ttdef"><b>Definition:</b> TaskScheduler.h:493</div></div>
@@ -634,9 +634,9 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aa08371_html_a7889cc2ed6e3ef398fbc091c6144bd04"><div class="ttname"><a href="../../dc/d84/a08371.html#a7889cc2ed6e3ef398fbc091c6144bd04">WorldObject::GetRandomNearPosition</a></div><div class="ttdeci">Position GetRandomNearPosition(float radius)</div><div class="ttdef"><b>Definition:</b> Object.cpp:2748</div></div>
 <div class="ttc" id="aa08415_html"><div class="ttname"><a href="../../de/d5d/a08415.html">Position</a></div><div class="ttdef"><b>Definition:</b> Position.h:27</div></div>
 <div class="ttc" id="aa08715_html_a4a04a3f22c3b0d6f4933993ac0cc7aa4"><div class="ttname"><a href="../../dd/d58/a08715.html#a4a04a3f22c3b0d6f4933993ac0cc7aa4">Unit::GetMotionMaster</a></div><div class="ttdeci">MotionMaster * GetMotionMaster()</div><div class="ttdef"><b>Definition:</b> Unit.h:1664</div></div>
-<div class="ttc" id="aa12663_html_a77f4d42ff45e0565f2d9ee5b27787ffd"><div class="ttname"><a href="../../da/d3b/a12663.html#a77f4d42ff45e0565f2d9ee5b27787ffd">npc_cyclone::_scheduler</a></div><div class="ttdeci">TaskScheduler _scheduler</div><div class="ttdef"><b>Definition:</b> bosses_opera.cpp:675</div></div>
+<div class="ttc" id="aa12663_html_a77f4d42ff45e0565f2d9ee5b27787ffd"><div class="ttname"><a href="../../da/d3b/a12663.html#a77f4d42ff45e0565f2d9ee5b27787ffd">npc_cyclone::_scheduler</a></div><div class="ttdeci">TaskScheduler _scheduler</div><div class="ttdef"><b>Definition:</b> bosses_opera.cpp:668</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00675">_scheduler</a>, <a class="el" href="../../#l01664">Unit::GetMotionMaster()</a>, <a class="el" href="../../#l02748">WorldObject::GetRandomNearPosition()</a>, <a class="el" href="../../#l00280">ScriptedAI::me</a>, <a class="el" href="../../#l00493">TaskContext::Repeat()</a>, and <a class="el" href="../../#l00232">TaskScheduler::Schedule()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00668">_scheduler</a>, <a class="el" href="../../#l01664">Unit::GetMotionMaster()</a>, <a class="el" href="../../#l02748">WorldObject::GetRandomNearPosition()</a>, <a class="el" href="../../#l00280">ScriptedAI::me</a>, <a class="el" href="../../#l00493">TaskContext::Repeat()</a>, and <a class="el" href="../../#l00232">TaskScheduler::Schedule()</a>.</p>
 
 </div>
 </div>
@@ -664,7 +664,7 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d0/d79/a06187.html#a26600c116d20a33461fc884bdb82eda9">ScriptedAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  655</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  648</span>{ }</div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -695,18 +695,18 @@ Additional Inherited Members</h2></td></tr>
 <p>Use to start attacking a target. Called just before <a class="el" href="../../da/d3b/a12663.html#a61d0710868c91f707643a436c0d79485" title="Called for reaction when initially engaged.">JustEngagedWith()</a> </p>
 
 <p>Reimplemented from <a class="el" href="../../d0/d79/a06187.html#aff5fd4e142a5cf930ffacbfc7259cce5">ScriptedAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  668</span>    {</div>
-<div class="line"><span class="lineno">  669</span>        <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d0/d79/a06187.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../dd/d58/a08715.html#a69c5ac45b65cf0dede6e0ee837361f61">HasAura</a>(<a class="code hl_enumvalue" href="../../d0/d45/a02843.html#a5bd342133be8c2137b831460acc9298ca27fe30ac398369e590388303632044c8">SPELL_KNOCKBACK</a>))</div>
-<div class="line"><span class="lineno">  670</span>            <a class="code hl_function" href="../../d4/d84/a06131.html#aeebcad9b6effa45145c50f06af60b23d">DoCast</a>(<a class="code hl_variable" href="../../d0/d79/a06187.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>, <a class="code hl_enumvalue" href="../../d0/d45/a02843.html#a5bd342133be8c2137b831460acc9298ca27fe30ac398369e590388303632044c8">SPELL_KNOCKBACK</a>, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">  671</span> </div>
-<div class="line"><span class="lineno">  672</span>        <a class="code hl_variable" href="../../da/d3b/a12663.html#a77f4d42ff45e0565f2d9ee5b27787ffd">_scheduler</a>.<a class="code hl_function" href="../../d9/d91/a05523.html#a35c0891c7aded13c6ae7ecd2e6d480a9">Update</a>(diff);</div>
-<div class="line"><span class="lineno">  673</span>    }</div>
-<div class="ttc" id="aa02843_html_a5bd342133be8c2137b831460acc9298ca27fe30ac398369e590388303632044c8"><div class="ttname"><a href="../../d0/d45/a02843.html#a5bd342133be8c2137b831460acc9298ca27fe30ac398369e590388303632044c8">SPELL_KNOCKBACK</a></div><div class="ttdeci">@ SPELL_KNOCKBACK</div><div class="ttdef"><b>Definition:</b> bosses_opera.cpp:89</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  661</span>    {</div>
+<div class="line"><span class="lineno">  662</span>        <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d0/d79/a06187.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../dd/d58/a08715.html#a69c5ac45b65cf0dede6e0ee837361f61">HasAura</a>(<a class="code hl_enumvalue" href="../../d0/d45/a02843.html#a5bd342133be8c2137b831460acc9298ca27fe30ac398369e590388303632044c8">SPELL_KNOCKBACK</a>))</div>
+<div class="line"><span class="lineno">  663</span>            <a class="code hl_function" href="../../d4/d84/a06131.html#aeebcad9b6effa45145c50f06af60b23d">DoCast</a>(<a class="code hl_variable" href="../../d0/d79/a06187.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>, <a class="code hl_enumvalue" href="../../d0/d45/a02843.html#a5bd342133be8c2137b831460acc9298ca27fe30ac398369e590388303632044c8">SPELL_KNOCKBACK</a>, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  664</span> </div>
+<div class="line"><span class="lineno">  665</span>        <a class="code hl_variable" href="../../da/d3b/a12663.html#a77f4d42ff45e0565f2d9ee5b27787ffd">_scheduler</a>.<a class="code hl_function" href="../../d9/d91/a05523.html#a35c0891c7aded13c6ae7ecd2e6d480a9">Update</a>(diff);</div>
+<div class="line"><span class="lineno">  666</span>    }</div>
+<div class="ttc" id="aa02843_html_a5bd342133be8c2137b831460acc9298ca27fe30ac398369e590388303632044c8"><div class="ttname"><a href="../../d0/d45/a02843.html#a5bd342133be8c2137b831460acc9298ca27fe30ac398369e590388303632044c8">SPELL_KNOCKBACK</a></div><div class="ttdeci">@ SPELL_KNOCKBACK</div><div class="ttdef"><b>Definition:</b> bosses_opera.cpp:82</div></div>
 <div class="ttc" id="aa05523_html_a35c0891c7aded13c6ae7ecd2e6d480a9"><div class="ttname"><a href="../../d9/d91/a05523.html#a35c0891c7aded13c6ae7ecd2e6d480a9">TaskScheduler::Update</a></div><div class="ttdeci">TaskScheduler &amp; Update(success_t const &amp;callback=EmptyCallback)</div><div class="ttdef"><b>Definition:</b> TaskScheduler.cpp:27</div></div>
 <div class="ttc" id="aa06131_html_aeebcad9b6effa45145c50f06af60b23d"><div class="ttname"><a href="../../d4/d84/a06131.html#aeebcad9b6effa45145c50f06af60b23d">UnitAI::DoCast</a></div><div class="ttdeci">SpellCastResult DoCast(uint32 spellId)</div><div class="ttdef"><b>Definition:</b> UnitAI.cpp:177</div></div>
 <div class="ttc" id="aa08715_html_a69c5ac45b65cf0dede6e0ee837361f61"><div class="ttname"><a href="../../dd/d58/a08715.html#a69c5ac45b65cf0dede6e0ee837361f61">Unit::HasAura</a></div><div class="ttdeci">bool HasAura(uint32 spellId, ObjectGuid casterGUID=ObjectGuid::Empty, ObjectGuid itemCasterGUID=ObjectGuid::Empty, uint8 reqEffMask=0) const</div><div class="ttdef"><b>Definition:</b> Unit.cpp:5754</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00675">_scheduler</a>, <a class="el" href="../../#l00177">UnitAI::DoCast()</a>, <a class="el" href="../../#l05754">Unit::HasAura()</a>, <a class="el" href="../../#l00280">ScriptedAI::me</a>, <a class="el" href="../../#l00089">SPELL_KNOCKBACK</a>, and <a class="el" href="../../#l00027">TaskScheduler::Update()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00668">_scheduler</a>, <a class="el" href="../../#l00177">UnitAI::DoCast()</a>, <a class="el" href="../../#l05754">Unit::HasAura()</a>, <a class="el" href="../../#l00280">ScriptedAI::me</a>, <a class="el" href="../../#l00082">SPELL_KNOCKBACK</a>, and <a class="el" href="../../#l00027">TaskScheduler::Update()</a>.</p>
 
 </div>
 </div>
@@ -731,7 +731,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00657">JustEngagedWith()</a>, and <a class="el" href="../../#l00667">UpdateAI()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00650">JustEngagedWith()</a>, and <a class="el" href="../../#l00660">UpdateAI()</a>.</p>
 
 </div>
 </div>
@@ -741,7 +741,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../da/d3b/a12663.html">npc_cyclone</a></li>
-    <li class="footer">Generated on Mon Jun 2 2025 20:47:11 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Jun 9 2025 20:47:31 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

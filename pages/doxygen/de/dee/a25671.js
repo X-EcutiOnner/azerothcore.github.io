@@ -1,8 +1,7 @@
 var a25671 =
 [
-    [ "HandleDummy", "de/dee/a25671.html#ac6db67f521a8fd1e8de4cd22220b45fe", null ],
-    [ "Load", "de/dee/a25671.html#af767de9953372e5e56509a0be9e90958", null ],
-    [ "PrepareSpellScript", "de/dee/a25671.html#a0385a22f908ac62ab987fe9f84cad330", null ],
-    [ "Register", "de/dee/a25671.html#a1212726a4fcbac06b527648dff58c546", null ],
-    [ "Validate", "de/dee/a25671.html#ab014db76cf4656e10665f12fb18c5997", null ]
+    [ "HandleDummy", "de/dee/a25671.html#ae1f9429b4e5b8965c65f246e03efbaf0", null ],
+    [ "PrepareSpellScript", "de/dee/a25671.html#abde4e8528f1af9a595fb32741e397397", null ],
+    [ "Register", "de/dee/a25671.html#a3f10fa7accb675d36560ef5bb6ccb84e", null ],
+    [ "Validate", "de/dee/a25671.html#af1658e856195d22042de5beab1eec212", null ]
 ];

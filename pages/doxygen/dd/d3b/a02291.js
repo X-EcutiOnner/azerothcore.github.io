@@ -1,12 +1,12 @@
 var a02291 =
 [
-    [ "boss_hadronox", "d8/d4c/a15827.html", "d8/d4c/a15827" ],
-    [ "boss_hadronox::boss_hadronoxAI", "dc/dcc/a15831.html", "dc/dcc/a15831" ],
-    [ "npc_anub_ar_crusher", "d8/dfa/a15835.html", "d8/dfa/a15835" ],
-    [ "npc_anub_ar_crusher::npc_anub_ar_crusherAI", "d5/d28/a15839.html", "d5/d28/a15839" ],
-    [ "spell_hadronox_summon_periodic_aura", "da/d31/a15843.html", "da/d31/a15843" ],
-    [ "spell_hadronox_leech_poison_aura", "d5/d68/a15847.html", "d5/d68/a15847" ],
-    [ "achievement_hadronox_denied", "d6/d6f/a15851.html", "d6/d6f/a15851" ],
+    [ "boss_hadronox", "dc/dcc/a15831.html", "dc/dcc/a15831" ],
+    [ "boss_hadronox::boss_hadronoxAI", "d8/dfa/a15835.html", "d8/dfa/a15835" ],
+    [ "npc_anub_ar_crusher", "d5/d28/a15839.html", "d5/d28/a15839" ],
+    [ "npc_anub_ar_crusher::npc_anub_ar_crusherAI", "da/d31/a15843.html", "da/d31/a15843" ],
+    [ "spell_hadronox_summon_periodic_aura", "d5/d68/a15847.html", "d5/d68/a15847" ],
+    [ "spell_hadronox_leech_poison_aura", "d6/d6f/a15851.html", "d6/d6f/a15851" ],
+    [ "achievement_hadronox_denied", "d5/df9/a15855.html", "d5/df9/a15855" ],
     [ "Events", "dd/d3b/a02291.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_CHARGE_TARGET", "da/dcd/a02987.html#af60e00b78607064c5be6aa9397ea49c1ae9b5b6a7dd72b493b6874d7408585a02", null ],
       [ "EVENT_CLEAVE", "da/dcd/a02987.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a", null ],

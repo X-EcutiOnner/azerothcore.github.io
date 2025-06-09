@@ -1,9 +1,9 @@
 var a03542 =
 [
-    [ "npc_ame", "d6/d01/a15631.html", "d6/d01/a15631" ],
-    [ "npc_ame::npc_ameAI", "de/dd4/a15635.html", "de/dd4/a15635" ],
-    [ "npc_ringo", "d3/daf/a15639.html", "d3/daf/a15639" ],
-    [ "npc_ringo::npc_ringoAI", "de/da9/a15643.html", "de/da9/a15643" ],
+    [ "npc_ame", "de/dd4/a15635.html", "de/dd4/a15635" ],
+    [ "npc_ame::npc_ameAI", "d3/daf/a15639.html", "d3/daf/a15639" ],
+    [ "npc_ringo", "de/da9/a15643.html", "de/da9/a15643" ],
+    [ "npc_ringo::npc_ringoAI", "d3/dfb/a15647.html", "d3/dfb/a15647" ],
     [ "AmeData", "d4/d5e/a03542.html#abbb0f5e31bd003a50e94cc712dbab7c0", [
       [ "SAY_READY", "d4/d5e/a03542.html#abbb0f5e31bd003a50e94cc712dbab7c0a82af2bd2787802be3ff2ee4588ea9be4", null ],
       [ "SAY_AGGRO1", "d4/d5e/a03542.html#abbb0f5e31bd003a50e94cc712dbab7c0a17fd4d94120185f67ee94a41652285a5", null ],

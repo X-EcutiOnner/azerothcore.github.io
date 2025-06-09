@@ -1,8 +1,8 @@
 var a04079 =
 [
-    [ "HalaaIds", "d9/de2/a22483.html", "d9/de2/a22483" ],
-    [ "OPvPCapturePointNA", "dd/d44/a22487.html", "dd/d44/a22487" ],
-    [ "OutdoorPvPNA", "d4/d4c/a22491.html", "d4/d4c/a22491" ],
+    [ "HalaaIds", "dd/d44/a22487.html", "dd/d44/a22487" ],
+    [ "OPvPCapturePointNA", "d4/d4c/a22491.html", "d4/d4c/a22491" ],
+    [ "OutdoorPvPNA", "dd/d1e/a22495.html", "dd/d1e/a22495" ],
     [ "HalaaNPCS", "da/d33/a04079.html#a3951c5b11bab0eeb9b06c1e19b25c036", null ],
     [ "ControlGOTypes", "da/d33/a04079.html#a671e2c9be7783733226427ebd264eb19", [
       [ "NA_ROOST_S", "da/d33/a04079.html#a671e2c9be7783733226427ebd264eb19afa875929ebc8b1c2db3a195ee37095ad", null ],

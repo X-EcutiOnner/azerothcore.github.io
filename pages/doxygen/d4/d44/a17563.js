@@ -1,8 +1,7 @@
 var a17563 =
 [
-    [ "HandlePeriodic", "d4/d44/a17563.html#a5ff571c616b69bb50c736622feb9ed96", null ],
-    [ "HandleRemove", "d4/d44/a17563.html#a624887bb5e6d8b72d6c0591661d6ba38", null ],
-    [ "PrepareAuraScript", "d4/d44/a17563.html#a1b140274e283dd95e28fcb773e30f965", null ],
-    [ "Register", "d4/d44/a17563.html#abcce83ef6ecbe539a3d8eaef83fb2d33", null ],
-    [ "Validate", "d4/d44/a17563.html#a94c644e730c51c8edb6a74d68d6228a8", null ]
+    [ "npc_gunship_rocketeerAI", "d4/d44/a17563.html#aa9e722f32cd95fff8c72db5a41d0e84c", null ],
+    [ "CanAIAttack", "d4/d44/a17563.html#a4b4e2839e426bdb752beea09394f13dc", null ],
+    [ "MovementInform", "d4/d44/a17563.html#a7dd7f3625b177a96bcfdc5e46d944562", null ],
+    [ "UpdateAI", "d4/d44/a17563.html#af73d71750f116fb90be1c2acba75ca70", null ]
 ];

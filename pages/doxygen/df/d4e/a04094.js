@@ -1,6 +1,6 @@
 var a04094 =
 [
-    [ "NPCStaveQuestAI", "dd/d12/a27451.html", "dd/d12/a27451" ],
+    [ "NPCStaveQuestAI", "d2/dc0/a27455.html", "d2/dc0/a27455" ],
     [ "Common", "df/d4e/a04094.html#a2898ea5b5bdc6f6ebd68c36327a6cecd", [
       [ "GOSSIP_EVENT_START_OPTION_ID", "df/d4e/a04094.html#a2898ea5b5bdc6f6ebd68c36327a6cecdaf2a660132a0a17288b1831007b938936", null ],
       [ "EVENT_ENCOUNTER_START", "df/d4e/a04094.html#a2898ea5b5bdc6f6ebd68c36327a6cecda0f5bec07177a7a6bdbdf76abcbadf05a", null ],

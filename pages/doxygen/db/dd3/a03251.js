@@ -1,7 +1,7 @@
 var a03251 =
 [
-    [ "boss_wushoolay", "de/d1f/a14059.html", "de/d1f/a14059" ],
-    [ "boss_wushoolay::boss_wushoolayAI", "d8/dd4/a14063.html", "d8/dd4/a14063" ],
+    [ "boss_wushoolay", "d8/dd4/a14063.html", "d8/dd4/a14063" ],
+    [ "boss_wushoolay::boss_wushoolayAI", "dc/d90/a14067.html", "dc/d90/a14067" ],
     [ "Events", "db/dd3/a03251.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_CHARGE_TARGET", "da/dcd/a02987.html#af60e00b78607064c5be6aa9397ea49c1ae9b5b6a7dd72b493b6874d7408585a02", null ],
       [ "EVENT_CLEAVE", "da/dcd/a02987.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a", null ],

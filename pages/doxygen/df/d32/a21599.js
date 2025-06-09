@@ -1,5 +1,6 @@
 var a21599 =
 [
-    [ "npc_steam_powered_auctioneerAI", "df/d32/a21599.html#a5ef3dfd385ee3e5a49bd5c0e165103fc", null ],
-    [ "CanBeSeen", "df/d32/a21599.html#a3352588abda326f7c72d0764a3f53370", null ]
+    [ "npc_steam_powered_auctioneerAI", "d5/d1a/a21603.html", "d5/d1a/a21603" ],
+    [ "npc_steam_powered_auctioneer", "df/d32/a21599.html#ae8c918c639ce0c3ddc14b8cf7f0ef855", null ],
+    [ "GetAI", "df/d32/a21599.html#a39a2f0c187078c759bc4a391e0a81068", null ]
 ];

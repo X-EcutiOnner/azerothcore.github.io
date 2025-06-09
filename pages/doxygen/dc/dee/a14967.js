@@ -1,6 +1,7 @@
 var a14967 =
 [
-    [ "HandleDamageCalc", "dc/dee/a14967.html#a03eb92eff300872cd5fca452a99375ab", null ],
-    [ "PrepareSpellScript", "dc/dee/a14967.html#ac07421b62bb6044dad89431839a70bd8", null ],
-    [ "Register", "dc/dee/a14967.html#a70cbf764ab475e2358fa6630798cab9d", null ]
+    [ "boss_rajaxx", "dc/dee/a14967.html#afca05f7afabb4c0e181ce3757acb3bcb", null ],
+    [ "JustDied", "dc/dee/a14967.html#a9231a20150ed6eae0cbc79c8386f7371", null ],
+    [ "JustEngagedWith", "dc/dee/a14967.html#a8dad79921559359b6aa7149641925fe5", null ],
+    [ "UpdateAI", "dc/dee/a14967.html#a9b949bea61ceb45ec1b3e452f218c227", null ]
 ];

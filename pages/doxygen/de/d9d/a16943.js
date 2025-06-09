@@ -1,8 +1,6 @@
 var a16943 =
 [
-    [ "boss_krickAI", "de/d9d/a16943.html#ac085bae551fd4d9e48b05481a86cca9f", null ],
-    [ "DoAction", "de/d9d/a16943.html#ace248881cb71c1e91f33ff93489b6f3f", null ],
-    [ "UpdateAI", "de/d9d/a16943.html#aea8dd89c8e4de1bebd94a26ead852119", null ],
-    [ "events", "de/d9d/a16943.html#a75349e2fc35832e7944fa4f772380baa", null ],
-    [ "pInstance", "de/d9d/a16943.html#aecc2cdee32c4e4fa14ecaeca9b3eb65f", null ]
+    [ "boss_krickAI", "dc/db0/a16947.html", "dc/db0/a16947" ],
+    [ "boss_krick", "de/d9d/a16943.html#a8921ff79c0af7db7f7910634239bcd0c", null ],
+    [ "GetAI", "de/d9d/a16943.html#a9aa994da7c667b20c00b1bd1e994fed1", null ]
 ];

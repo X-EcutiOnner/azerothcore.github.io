@@ -1,16 +1,6 @@
 var a19455 =
 [
-    [ "boss_lokenAI", "dc/d39/a19455.html#abdadd98c337f97f6a1daf1657f2f3ab2", null ],
-    [ "JustDied", "dc/d39/a19455.html#a2ab2adb8c9fb2048e2c3c341d8c2ff37", null ],
-    [ "JustEngagedWith", "dc/d39/a19455.html#afd9634d8665b946991ccd777072cf70a", null ],
-    [ "KilledUnit", "dc/d39/a19455.html#af6f6ebfffa9e2719c3a18bd53d704018", null ],
-    [ "LokenSpeach", "dc/d39/a19455.html#a853a371812a856f39137c665fcc09b86", null ],
-    [ "MoveInLineOfSight", "dc/d39/a19455.html#a0855580a471661925fdf272dedb418fd", null ],
-    [ "Reset", "dc/d39/a19455.html#a51c7ca1ce5a0b4837d2fbc033c06a864", null ],
-    [ "UpdateAI", "dc/d39/a19455.html#acc5b453efca847a6cada43606b8a08ed", null ],
-    [ "events", "dc/d39/a19455.html#ac3b98aeba2741ee49d262b33d30f8b2a", null ],
-    [ "HealthCheck", "dc/d39/a19455.html#ad9f9e369ce64bab66f29899659440b62", null ],
-    [ "IntroTimer", "dc/d39/a19455.html#ae92b9ff0abd8580baf7a2fca56e0df23", null ],
-    [ "isActive", "dc/d39/a19455.html#a8f20ce4cddf7eae09ddc659b9bf75919", null ],
-    [ "m_pInstance", "dc/d39/a19455.html#aba89a46dae1d4d195c8be10d89fb72ab", null ]
+    [ "boss_lokenAI", "da/d41/a19459.html", "da/d41/a19459" ],
+    [ "boss_loken", "dc/d39/a19455.html#a44ba0ee009dcdfca6ff8739e297ec786", null ],
+    [ "GetAI", "dc/d39/a19455.html#affb73db8ecdc2d035f8076ecca0c9a99", null ]
 ];

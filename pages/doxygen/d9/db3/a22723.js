@@ -1,6 +1,7 @@
 var a22723 =
 [
-    [ "FilterTargets", "d9/db3/a22723.html#a91b9fdebdffcae06da1882d7d46f5460", null ],
-    [ "PrepareSpellScript", "d9/db3/a22723.html#ae8f3906007580963bda33cd0e420299b", null ],
-    [ "Register", "d9/db3/a22723.html#a5e191d4fca7cc95ddec8730cc3fd8ffe", null ]
+    [ "OnPeriodic", "d9/db3/a22723.html#aa5d2f7530277a6a4d4a85ec5d244b9bc", null ],
+    [ "PrepareAuraScript", "d9/db3/a22723.html#a973ccf17f6499bc84306a18b07fcef7b", null ],
+    [ "Register", "d9/db3/a22723.html#a07b3b1df6626a9fb657270eb1d9f386a", null ],
+    [ "Validate", "d9/db3/a22723.html#a006d67e9e82cce68930b90b00d3555a4", null ]
 ];

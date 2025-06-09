@@ -1,7 +1,7 @@
 var a17639 =
 [
-    [ "DamageGunship", "d2/dc4/a17639.html#a1dc0145cfff777b18b9241dfc0966f32", null ],
-    [ "PrepareSpellScript", "d2/dc4/a17639.html#aa698d016ae58d665c081976f20ec0385", null ],
-    [ "Register", "d2/dc4/a17639.html#ab8836babdea1fd963fdd53415db0a3ba", null ],
-    [ "Validate", "d2/dc4/a17639.html#ae80cd93b2f01ddb83493f9f818fc0ea1", null ]
+    [ "HandleScript", "d2/dc4/a17639.html#ae3e8d811d3ad6561768dfff3a16ec9bd", null ],
+    [ "PrepareSpellScript", "d2/dc4/a17639.html#ab69926839f72ee76eba2b225aba9690c", null ],
+    [ "Register", "d2/dc4/a17639.html#aad8925e891d7537993f02f3bc2552fea", null ],
+    [ "SelectRandomTarget", "d2/dc4/a17639.html#aae77f6693a3e5d01e3d05cb990fd1fe5", null ]
 ];

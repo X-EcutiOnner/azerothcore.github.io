@@ -1,6 +1,6 @@
 var a22135 =
 [
-    [ "npc_bushwhackerAI", "dd/d86/a22135.html#a0cf480b75aa45a9f3572c4a65df2daee", null ],
-    [ "InitializeAI", "dd/d86/a22135.html#a18db5870e62378ff49472f7a5881861c", null ],
-    [ "UpdateAI", "dd/d86/a22135.html#aadc3384626d728942897fe93750f0c02", null ]
+    [ "npc_bushwhackerAI", "df/dc9/a22139.html", "df/dc9/a22139" ],
+    [ "npc_bushwhacker", "dd/d86/a22135.html#ad87a9fdec3d5dbaef429c88905a5f6e8", null ],
+    [ "GetAI", "dd/d86/a22135.html#ab3190b66069e820abf3637bb877066a0", null ]
 ];

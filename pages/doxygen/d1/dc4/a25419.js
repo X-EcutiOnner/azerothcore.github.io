@@ -1,6 +1,6 @@
 var a25419 =
 [
-    [ "CheckCast", "d1/dc4/a25419.html#ac1bc3f881c31c5ab90785a62a5f5b5ae", null ],
-    [ "PrepareSpellScript", "d1/dc4/a25419.html#a2a9c657ccffbacfc661c6bb1dc41d9de", null ],
-    [ "Register", "d1/dc4/a25419.html#a4b34bd5ce9d3e948d6c712d71ed71b2d", null ]
+    [ "CheckProc", "d1/dc4/a25419.html#a393946dd3404c4b03a9a8ced7913ccaa", null ],
+    [ "PrepareAuraScript", "d1/dc4/a25419.html#ae28075d0d66c99fb77a2c7fef678f4e2", null ],
+    [ "Register", "d1/dc4/a25419.html#a3e0279f7dc724b4d49bfda4f0e417353", null ]
 ];

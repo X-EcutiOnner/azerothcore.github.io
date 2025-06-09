@@ -1,8 +1,7 @@
 var a28291 =
 [
-    [ "NoRuneCost", "da/de2/a28291.html#a599b2089d52bf4a009c5fbac3b0d3279", null ],
-    [ "NoRunicPowerGain", "da/de2/a28291.html#a97da075ecd116ef27fd4265bb8380667", null ],
-    [ "ID", "da/de2/a28291.html#aed245962cf1830cfa66e369b22a7ba6f", null ],
-    [ "RuneCost", "da/de2/a28291.html#a18c2e6daaaefe1c8be4a83c55a3670ff", null ],
-    [ "runePowerGain", "da/de2/a28291.html#ac5f9c69d83ff9cf230124b9dad10008b", null ]
+    [ "Flags", "da/de2/a28291.html#a12b3cb0e28ed0f47ff5ccea09fc8b860", null ],
+    [ "ID", "da/de2/a28291.html#ab6ccf4a64672a6ade01f59cdeeeb85cb", null ],
+    [ "RangeMax", "da/de2/a28291.html#a9691134e5cb1e15e3c93ea05a653975d", null ],
+    [ "RangeMin", "da/de2/a28291.html#a127a46f2382edea750ca567d5ea3d304", null ]
 ];

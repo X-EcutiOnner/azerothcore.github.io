@@ -1,7 +1,6 @@
 var a17623 =
 [
-    [ "FilterTargets", "dc/d1b/a17623.html#a77afd0b56c9bddd74999d5df30457b7f", null ],
-    [ "HandleDummy", "dc/d1b/a17623.html#a04166e4e5a4ba082755433555855cb30", null ],
-    [ "PrepareSpellScript", "dc/d1b/a17623.html#aaefa58014db12fb76e3416ae807c69e8", null ],
-    [ "Register", "dc/d1b/a17623.html#a497ee30669d45341023abe549c91ddaf", null ]
+    [ "BurningPitchFilterCheck", "dc/d1b/a17623.html#a11a4816f3d29cb1a6c4845cdaaeaa3cf", null ],
+    [ "operator()", "dc/d1b/a17623.html#a24be987c8471d8a7096025debf6e60b1", null ],
+    [ "_entry", "dc/d1b/a17623.html#a7bd20aed2db0e24ad34cbcc94d9a89d6", null ]
 ];

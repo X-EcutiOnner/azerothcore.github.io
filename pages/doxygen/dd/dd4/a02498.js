@@ -1,6 +1,6 @@
 var a02498 =
 [
-    [ "boss_ingvar_the_plunderer", "d0/dc5/a20999.html", "d0/dc5/a20999" ],
+    [ "boss_ingvar_the_plunderer", "d1/dc8/a21003.html", "d1/dc8/a21003" ],
     [ "SPELL_DREADFUL_ROAR", "dd/dd4/a02498.html#ac1e0e2698ab0ecb24bebdfa4c7ff14ca", null ],
     [ "SPELL_ENRAGE", "dd/dd4/a02498.html#a101191d5841177786224ce21dc4ee986", null ],
     [ "SPELL_SMASH", "dd/dd4/a02498.html#a29597657a2021b4ce69510ef57e5c532", null ],

@@ -1,8 +1,8 @@
 var a02261 =
 [
-    [ "instance_ahnkahet", "d3/d91/a15795.html", "d3/d91/a15795" ],
-    [ "instance_ahnkahet::instance_ahnkahet_InstanceScript", "de/d61/a15799.html", "de/d61/a15799" ],
-    [ "spell_shadow_sickle_periodic_damage", "df/de5/a15803.html", "df/de5/a15803" ],
+    [ "instance_ahnkahet", "de/d61/a15799.html", "de/d61/a15799" ],
+    [ "instance_ahnkahet::instance_ahnkahet_InstanceScript", "df/de5/a15803.html", "df/de5/a15803" ],
+    [ "spell_shadow_sickle_periodic_damage", "db/d52/a15807.html", "db/d52/a15807" ],
     [ "AddSC_instance_ahnkahet", "d7/d24/a02261.html#a33aed24f64879c91101f7420c4d49cc3", null ],
     [ "boundaries", "d7/d24/a02261.html#aa75d7d0ffe0cef214f982966c33db1c1", null ],
     [ "creatureData", "d7/d24/a02261.html#a412286b689bd324fedd65ddd8dde8afb", null ],

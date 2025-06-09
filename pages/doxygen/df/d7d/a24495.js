@@ -1,6 +1,6 @@
 var a24495 =
 [
-    [ "CheckProc", "df/d7d/a24495.html#ace3662e092d02de975929741c470230d", null ],
-    [ "PrepareAuraScript", "df/d7d/a24495.html#aed547ead2b8822f08eb1530f4b29e2f8", null ],
-    [ "Register", "df/d7d/a24495.html#ae6432106538261827c3eac3dde1450f2", null ]
+    [ "HandleEffectApply", "df/d7d/a24495.html#a4bc121ecc9357709ec2f1ea395d0b6b1", null ],
+    [ "PrepareAuraScript", "df/d7d/a24495.html#ac7f16aed55aedba6da0672c3102a5fae", null ],
+    [ "Register", "df/d7d/a24495.html#a83e15d7db1b9aa4ce4fbc8a359795091", null ]
 ];
