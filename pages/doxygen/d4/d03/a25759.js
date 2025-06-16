@@ -1,7 +1,9 @@
 var a25759 =
 [
-    [ "HandleDummy", "d4/d03/a25759.html#a630b3359dcecdb65992df67fbc4b197b", null ],
-    [ "PrepareSpellScript", "d4/d03/a25759.html#a9960211eda513e642a386e0ff3bcd4c5", null ],
-    [ "Register", "d4/d03/a25759.html#aaa1c9db89ddd7a7590b3b41b377d4cec", null ],
-    [ "Validate", "d4/d03/a25759.html#a9af89aba8006d93b8c0ae2ce7143255e", null ]
+    [ "CheckRequirement", "d4/d03/a25759.html#adab261a5221ca54b15cc414d291908fe", null ],
+    [ "HandleDummy", "d4/d03/a25759.html#abb7a734244bb18d75304a0510f9efb8d", null ],
+    [ "Load", "d4/d03/a25759.html#a418eef16d1e3aeff67013f45409c092a", null ],
+    [ "PrepareSpellScript", "d4/d03/a25759.html#ab3e73a456ec7384720827a4ff7f5abc7", null ],
+    [ "Register", "d4/d03/a25759.html#a5dbf60e33f2cdca3921f623cd1098948", null ],
+    [ "Validate", "d4/d03/a25759.html#a1dcba4f3c2874a952ca422b0a3cdafb1", null ]
 ];

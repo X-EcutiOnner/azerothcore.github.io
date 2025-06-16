@@ -1,4 +1,4 @@
 var a00314 =
 [
-    [ "KillRewarder", "d5/d25/a08467.html", "d5/d25/a08467" ]
+    [ "GetAge", "d0/d39/a00314.html#a347e0449afd73dbcc6c084dbe72af6c8", null ]
 ];

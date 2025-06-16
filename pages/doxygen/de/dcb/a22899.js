@@ -1,12 +1,12 @@
 var a22899 =
 [
-    [ "boss_shade_of_akama", "de/dcb/a22899.html#a385bf995d19652254d6ae8a447c23c37", null ],
-    [ "EnterEvadeMode", "de/dcb/a22899.html#a690f8058fb4358b98960177d76864275", null ],
-    [ "JustDied", "de/dcb/a22899.html#aa22052befeb48c0c7ec3a3cedd91daff", null ],
-    [ "MovementInform", "de/dcb/a22899.html#a345707efebd5027c01a25a563d1e6f43", null ],
-    [ "Reset", "de/dcb/a22899.html#a19a1aca1a599704612ac845001895b4f", null ],
-    [ "SpellHit", "de/dcb/a22899.html#a5a49f0dab7ce6ee81b9ed8deb5704720", null ],
-    [ "UpdateAI", "de/dcb/a22899.html#a25ffed5526b1f25eb1cf790745e2a7c7", null ],
-    [ "channelers", "de/dcb/a22899.html#a63372527172d3f96f533b5776221c2e7", null ],
-    [ "generators", "de/dcb/a22899.html#a3ebaa870a9c3c9b5a0590b8cdc32d857", null ]
+    [ "npc_creature_generator_akama", "de/dcb/a22899.html#a8e91cadea7f135ff692635e4d39923e0", null ],
+    [ "DoAction", "de/dcb/a22899.html#a01efeecd374056da287e4a1e468472b6", null ],
+    [ "JustSummoned", "de/dcb/a22899.html#af58d7b130ed3b6c209c08ae14444bfe3", null ],
+    [ "Reset", "de/dcb/a22899.html#a23cf08661802f247147bb23cff30eeab", null ],
+    [ "SummonedCreatureDies", "de/dcb/a22899.html#a35b7ecfa659d80a869868b9a2732d92b", null ],
+    [ "UpdateAI", "de/dcb/a22899.html#a8c6e3ca67691e7625700f22c5b1c09c5", null ],
+    [ "instance", "de/dcb/a22899.html#a109aea7bb0747f8572c1d46e9df2d2a5", null ],
+    [ "spawnCounter", "de/dcb/a22899.html#a02d8acace195438fe6e8d4705a043078", null ],
+    [ "summons", "de/dcb/a22899.html#a3d532e607c48298ca0464ee630dd27b3", null ]
 ];

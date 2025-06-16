@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/game/Instances/InstanceSaveMgr.h File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/game/Scripting/ScriptDefines/ServerScript.h File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,106 +106,79 @@ $(document).ready(function(){initNavTree('d7/d02/a01808.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
-<a href="#define-members">Macros</a> &#124;
-<a href="#typedef-members">Typedefs</a>  </div>
-  <div class="headertitle"><div class="title">InstanceSaveMgr.h File Reference</div></div>
+<a href="#enum-members">Enumerations</a>  </div>
+  <div class="headertitle"><div class="title">ServerScript.h File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">DBCEnums.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">DatabaseEnv.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Define.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ObjectDefines.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ObjectGuid.h</a>&quot;</code><br />
-<code>#include &lt;list&gt;</code><br />
-<code>#include &lt;map&gt;</code><br />
-<code>#include &lt;mutex&gt;</code><br />
-<code>#include &lt;unordered_map&gt;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">ScriptObject.h</a>&quot;</code><br />
+<code>#include &lt;vector&gt;</code><br />
+<code>#include &lt;memory&gt;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d02/a09575.html">InstancePlayerBind</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d30/a09579.html">BoundInstancesMapWrapper</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dff/a09583.html">InstanceSave</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dcb/a09587.html">InstanceSaveMgr</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d3b/a09591.html">InstanceSaveMgr::InstResetEvent</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d80/a10335.html">ServerScript</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="define-members" name="define-members"></a>
-Macros</h2></td></tr>
-<tr class="memitem:ae1d3c96dbd749e40f06799fa52eeb9a2"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d02/a01808.html#ae1d3c96dbd749e40f06799fa52eeb9a2">sInstanceSaveMgr</a>&#160;&#160;&#160;<a class="el" href="../../dd/dcb/a09587.html#ac5e7fc8903711de02ef8a1028c2e7662">InstanceSaveMgr::instance</a>()</td></tr>
-<tr class="separator:ae1d3c96dbd749e40f06799fa52eeb9a2"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="typedef-members" name="typedef-members"></a>
-Typedefs</h2></td></tr>
-<tr class="memitem:aaa779bf09b703eb355cb51ac3481a19e"><td class="memItemLeft" align="right" valign="top">typedef std::unordered_map&lt; <a class="el" href="../../da/d71/a04649.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../d2/d02/a09575.html">InstancePlayerBind</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d02/a01808.html#aaa779bf09b703eb355cb51ac3481a19e">BoundInstancesMap</a></td></tr>
-<tr class="separator:aaa779bf09b703eb355cb51ac3481a19e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2e2e3e31db4cc3be56b24e732c84106b"><td class="memItemLeft" align="right" valign="top">typedef std::unordered_map&lt; <a class="el" href="../../d3/d9a/a08387.html">ObjectGuid</a>, <a class="el" href="../../da/d30/a09579.html">BoundInstancesMapWrapper</a> * &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d02/a01808.html#a2e2e3e31db4cc3be56b24e732c84106b">PlayerBindStorage</a></td></tr>
-<tr class="separator:a2e2e3e31db4cc3be56b24e732c84106b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aecf15b673beb714ef0acaa3bac23696a"><td class="memItemLeft" align="right" valign="top">typedef std::unordered_map&lt; <a class="el" href="../../da/d71/a04649.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, time_t &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d02/a01808.html#aecf15b673beb714ef0acaa3bac23696a">ResetTimeByMapDifficultyMap</a></td></tr>
-<tr class="separator:aecf15b673beb714ef0acaa3bac23696a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
+Enumerations</h2></td></tr>
+<tr class="memitem:af8cee964a488266c6dec6c3b76b1a2d9"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d02/a01808.html#af8cee964a488266c6dec6c3b76b1a2d9">ServerHook</a> { <br />
+&#160;&#160;<a class="el" href="../../d7/d02/a01808.html#af8cee964a488266c6dec6c3b76b1a2d9aa644f9d52a55cf9cf2a11293c30d53e3">SERVERHOOK_ON_NETWORK_START</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d7/d02/a01808.html#af8cee964a488266c6dec6c3b76b1a2d9a750717da9270f21f519c8d5a05d7a3b4">SERVERHOOK_ON_NETWORK_STOP</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d7/d02/a01808.html#af8cee964a488266c6dec6c3b76b1a2d9af5241aced10e2c6c6077ac764206c6bd">SERVERHOOK_ON_SOCKET_OPEN</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d7/d02/a01808.html#af8cee964a488266c6dec6c3b76b1a2d9ace5af0b477d230f9aa1e51c82789dc8d">SERVERHOOK_ON_SOCKET_CLOSE</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d7/d02/a01808.html#af8cee964a488266c6dec6c3b76b1a2d9a7efd4b6dcfe8fd03b250b045c1dcaf12">SERVERHOOK_CAN_PACKET_SEND</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d7/d02/a01808.html#af8cee964a488266c6dec6c3b76b1a2d9ad4bcaa584ee5ee3556aabfe396d2e971">SERVERHOOK_CAN_PACKET_RECEIVE</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d7/d02/a01808.html#af8cee964a488266c6dec6c3b76b1a2d9a9292463242a21cee981d7f24a964e6dc">SERVERHOOK_END</a>
+<br />
+ }</td></tr>
+<tr class="separator:af8cee964a488266c6dec6c3b76b1a2d9"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Macro Definition Documentation</h2>
-<a id="ae1d3c96dbd749e40f06799fa52eeb9a2" name="ae1d3c96dbd749e40f06799fa52eeb9a2"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae1d3c96dbd749e40f06799fa52eeb9a2">&#9670;&#160;</a></span>sInstanceSaveMgr</h2>
+<h2 class="groupheader">Enumeration Type Documentation</h2>
+<a id="af8cee964a488266c6dec6c3b76b1a2d9" name="af8cee964a488266c6dec6c3b76b1a2d9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af8cee964a488266c6dec6c3b76b1a2d9">&#9670;&#160;</a></span>ServerHook</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">#define sInstanceSaveMgr&#160;&#160;&#160;<a class="el" href="../../dd/dcb/a09587.html#ac5e7fc8903711de02ef8a1028c2e7662">InstanceSaveMgr::instance</a>()</td>
+          <td class="memname">enum <a class="el" href="../../d7/d02/a01808.html#af8cee964a488266c6dec6c3b76b1a2d9">ServerHook</a></td>
         </tr>
       </table>
 </div><div class="memdoc">
-
-</div>
-</div>
-<h2 class="groupheader">Typedef Documentation</h2>
-<a id="aaa779bf09b703eb355cb51ac3481a19e" name="aaa779bf09b703eb355cb51ac3481a19e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aaa779bf09b703eb355cb51ac3481a19e">&#9670;&#160;</a></span>BoundInstancesMap</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">typedef std::unordered_map&lt;<a class="el" href="../../da/d71/a04649.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> , <a class="el" href="../../d2/d02/a09575.html">InstancePlayerBind</a> &gt; <a class="el" href="../../d7/d02/a01808.html#aaa779bf09b703eb355cb51ac3481a19e">BoundInstancesMap</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a2e2e3e31db4cc3be56b24e732c84106b" name="a2e2e3e31db4cc3be56b24e732c84106b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a2e2e3e31db4cc3be56b24e732c84106b">&#9670;&#160;</a></span>PlayerBindStorage</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">typedef std::unordered_map&lt;<a class="el" href="../../d3/d9a/a08387.html">ObjectGuid</a> , <a class="el" href="../../da/d30/a09579.html">BoundInstancesMapWrapper</a>* &gt; <a class="el" href="../../d7/d02/a01808.html#a2e2e3e31db4cc3be56b24e732c84106b">PlayerBindStorage</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="aecf15b673beb714ef0acaa3bac23696a" name="aecf15b673beb714ef0acaa3bac23696a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aecf15b673beb714ef0acaa3bac23696a">&#9670;&#160;</a></span>ResetTimeByMapDifficultyMap</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">typedef std::unordered_map&lt;<a class="el" href="../../da/d71/a04649.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> , time_t &gt; <a class="el" href="../../d7/d02/a01808.html#aecf15b673beb714ef0acaa3bac23696a">ResetTimeByMapDifficultyMap</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="af8cee964a488266c6dec6c3b76b1a2d9aa644f9d52a55cf9cf2a11293c30d53e3" name="af8cee964a488266c6dec6c3b76b1a2d9aa644f9d52a55cf9cf2a11293c30d53e3"></a>SERVERHOOK_ON_NETWORK_START&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="af8cee964a488266c6dec6c3b76b1a2d9a750717da9270f21f519c8d5a05d7a3b4" name="af8cee964a488266c6dec6c3b76b1a2d9a750717da9270f21f519c8d5a05d7a3b4"></a>SERVERHOOK_ON_NETWORK_STOP&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="af8cee964a488266c6dec6c3b76b1a2d9af5241aced10e2c6c6077ac764206c6bd" name="af8cee964a488266c6dec6c3b76b1a2d9af5241aced10e2c6c6077ac764206c6bd"></a>SERVERHOOK_ON_SOCKET_OPEN&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="af8cee964a488266c6dec6c3b76b1a2d9ace5af0b477d230f9aa1e51c82789dc8d" name="af8cee964a488266c6dec6c3b76b1a2d9ace5af0b477d230f9aa1e51c82789dc8d"></a>SERVERHOOK_ON_SOCKET_CLOSE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="af8cee964a488266c6dec6c3b76b1a2d9a7efd4b6dcfe8fd03b250b045c1dcaf12" name="af8cee964a488266c6dec6c3b76b1a2d9a7efd4b6dcfe8fd03b250b045c1dcaf12"></a>SERVERHOOK_CAN_PACKET_SEND&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="af8cee964a488266c6dec6c3b76b1a2d9ad4bcaa584ee5ee3556aabfe396d2e971" name="af8cee964a488266c6dec6c3b76b1a2d9ad4bcaa584ee5ee3556aabfe396d2e971"></a>SERVERHOOK_CAN_PACKET_RECEIVE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="af8cee964a488266c6dec6c3b76b1a2d9a9292463242a21cee981d7f24a964e6dc" name="af8cee964a488266c6dec6c3b76b1a2d9a9292463242a21cee981d7f24a964e6dc"></a>SERVERHOOK_END&#160;</td><td class="fielddoc"></td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno">   26</span>{</div>
+<div class="line"><span class="lineno">   27</span>    <a class="code hl_enumvalue" href="../../d7/d02/a01808.html#af8cee964a488266c6dec6c3b76b1a2d9aa644f9d52a55cf9cf2a11293c30d53e3">SERVERHOOK_ON_NETWORK_START</a>,</div>
+<div class="line"><span class="lineno">   28</span>    <a class="code hl_enumvalue" href="../../d7/d02/a01808.html#af8cee964a488266c6dec6c3b76b1a2d9a750717da9270f21f519c8d5a05d7a3b4">SERVERHOOK_ON_NETWORK_STOP</a>,</div>
+<div class="line"><span class="lineno">   29</span>    <a class="code hl_enumvalue" href="../../d7/d02/a01808.html#af8cee964a488266c6dec6c3b76b1a2d9af5241aced10e2c6c6077ac764206c6bd">SERVERHOOK_ON_SOCKET_OPEN</a>,</div>
+<div class="line"><span class="lineno">   30</span>    <a class="code hl_enumvalue" href="../../d7/d02/a01808.html#af8cee964a488266c6dec6c3b76b1a2d9ace5af0b477d230f9aa1e51c82789dc8d">SERVERHOOK_ON_SOCKET_CLOSE</a>,</div>
+<div class="line"><span class="lineno">   31</span>    <a class="code hl_enumvalue" href="../../d7/d02/a01808.html#af8cee964a488266c6dec6c3b76b1a2d9a7efd4b6dcfe8fd03b250b045c1dcaf12">SERVERHOOK_CAN_PACKET_SEND</a>,</div>
+<div class="line"><span class="lineno">   32</span>    <a class="code hl_enumvalue" href="../../d7/d02/a01808.html#af8cee964a488266c6dec6c3b76b1a2d9ad4bcaa584ee5ee3556aabfe396d2e971">SERVERHOOK_CAN_PACKET_RECEIVE</a>,</div>
+<div class="line"><span class="lineno">   33</span>    <a class="code hl_enumvalue" href="../../d7/d02/a01808.html#af8cee964a488266c6dec6c3b76b1a2d9a9292463242a21cee981d7f24a964e6dc">SERVERHOOK_END</a></div>
+<div class="line"><span class="lineno">   34</span>};</div>
+<div class="ttc" id="aa01808_html_af8cee964a488266c6dec6c3b76b1a2d9a750717da9270f21f519c8d5a05d7a3b4"><div class="ttname"><a href="../../d7/d02/a01808.html#af8cee964a488266c6dec6c3b76b1a2d9a750717da9270f21f519c8d5a05d7a3b4">SERVERHOOK_ON_NETWORK_STOP</a></div><div class="ttdeci">@ SERVERHOOK_ON_NETWORK_STOP</div><div class="ttdef"><b>Definition:</b> ServerScript.h:28</div></div>
+<div class="ttc" id="aa01808_html_af8cee964a488266c6dec6c3b76b1a2d9a7efd4b6dcfe8fd03b250b045c1dcaf12"><div class="ttname"><a href="../../d7/d02/a01808.html#af8cee964a488266c6dec6c3b76b1a2d9a7efd4b6dcfe8fd03b250b045c1dcaf12">SERVERHOOK_CAN_PACKET_SEND</a></div><div class="ttdeci">@ SERVERHOOK_CAN_PACKET_SEND</div><div class="ttdef"><b>Definition:</b> ServerScript.h:31</div></div>
+<div class="ttc" id="aa01808_html_af8cee964a488266c6dec6c3b76b1a2d9a9292463242a21cee981d7f24a964e6dc"><div class="ttname"><a href="../../d7/d02/a01808.html#af8cee964a488266c6dec6c3b76b1a2d9a9292463242a21cee981d7f24a964e6dc">SERVERHOOK_END</a></div><div class="ttdeci">@ SERVERHOOK_END</div><div class="ttdef"><b>Definition:</b> ServerScript.h:33</div></div>
+<div class="ttc" id="aa01808_html_af8cee964a488266c6dec6c3b76b1a2d9aa644f9d52a55cf9cf2a11293c30d53e3"><div class="ttname"><a href="../../d7/d02/a01808.html#af8cee964a488266c6dec6c3b76b1a2d9aa644f9d52a55cf9cf2a11293c30d53e3">SERVERHOOK_ON_NETWORK_START</a></div><div class="ttdeci">@ SERVERHOOK_ON_NETWORK_START</div><div class="ttdef"><b>Definition:</b> ServerScript.h:27</div></div>
+<div class="ttc" id="aa01808_html_af8cee964a488266c6dec6c3b76b1a2d9ace5af0b477d230f9aa1e51c82789dc8d"><div class="ttname"><a href="../../d7/d02/a01808.html#af8cee964a488266c6dec6c3b76b1a2d9ace5af0b477d230f9aa1e51c82789dc8d">SERVERHOOK_ON_SOCKET_CLOSE</a></div><div class="ttdeci">@ SERVERHOOK_ON_SOCKET_CLOSE</div><div class="ttdef"><b>Definition:</b> ServerScript.h:30</div></div>
+<div class="ttc" id="aa01808_html_af8cee964a488266c6dec6c3b76b1a2d9ad4bcaa584ee5ee3556aabfe396d2e971"><div class="ttname"><a href="../../d7/d02/a01808.html#af8cee964a488266c6dec6c3b76b1a2d9ad4bcaa584ee5ee3556aabfe396d2e971">SERVERHOOK_CAN_PACKET_RECEIVE</a></div><div class="ttdeci">@ SERVERHOOK_CAN_PACKET_RECEIVE</div><div class="ttdef"><b>Definition:</b> ServerScript.h:32</div></div>
+<div class="ttc" id="aa01808_html_af8cee964a488266c6dec6c3b76b1a2d9af5241aced10e2c6c6077ac764206c6bd"><div class="ttname"><a href="../../d7/d02/a01808.html#af8cee964a488266c6dec6c3b76b1a2d9af5241aced10e2c6c6077ac764206c6bd">SERVERHOOK_ON_SOCKET_OPEN</a></div><div class="ttdeci">@ SERVERHOOK_ON_SOCKET_OPEN</div><div class="ttdef"><b>Definition:</b> ServerScript.h:29</div></div>
+</div><!-- fragment -->
 </div>
 </div>
 </div><!-- contents -->
@@ -213,8 +186,8 @@ Typedefs</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_30c9e1c4d37d57a0d16649fdbaa5324a.html">Instances</a></li><li class="navelem"><a class="el" href="../../d7/d02/a01808.html">InstanceSaveMgr.h</a></li>
-    <li class="footer">Generated on Mon Jun 9 2025 20:46:07 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_824c567499771b11a8d1959386aa27e6.html">Scripting</a></li><li class="navelem"><a class="el" href="../../dir_a0aac0519f50cbe40c54d5948ed285d0.html">ScriptDefines</a></li><li class="navelem"><a class="el" href="../../d7/d02/a01808.html">ServerScript.h</a></li>
+    <li class="footer">Generated on Mon Jun 16 2025 20:47:11 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

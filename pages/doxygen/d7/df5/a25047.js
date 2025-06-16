@@ -1,6 +1,6 @@
 var a25047 =
 [
-    [ "CalculateAmount", "d7/df5/a25047.html#a66b009487462241e573ea23f081a140a", null ],
-    [ "PrepareAuraScript", "d7/df5/a25047.html#a0eee16c77a3c3cea882b67c78826a140", null ],
-    [ "Register", "d7/df5/a25047.html#afeafc6922b0a0389fec969e3c7191dda", null ]
+    [ "CheckSeat", "d7/df5/a25047.html#ab4e2376e084bc2cf0e30a91e3e5a270c", null ],
+    [ "PrepareSpellScript", "d7/df5/a25047.html#aaa9a6f31ec57542dcd657874c4eb52aa", null ],
+    [ "Register", "d7/df5/a25047.html#a6feb7c77ba258688a83bdb86e9ee53f8", null ]
 ];

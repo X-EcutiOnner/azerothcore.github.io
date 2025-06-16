@@ -1,8 +1,10 @@
 var a23655 =
 [
-    [ "HandleEffectApply", "d6/da5/a23655.html#ad75c8c6279e606d6a557a61d97ee8f42", null ],
-    [ "HandleEffectRemove", "d6/da5/a23655.html#a7cd59f7ca82a6507024842ebcb1ba093", null ],
-    [ "PrepareAuraScript", "d6/da5/a23655.html#a438a8ba3688e0832853bae4183695494", null ],
-    [ "Register", "d6/da5/a23655.html#a52a86cce0afa66203cc5982ddbe5de4f", null ],
-    [ "Validate", "d6/da5/a23655.html#ab07b244e53b397bc9e9842655617a80d", null ]
+    [ "boss_harbinger_skyriss", "d6/da5/a23655.html#a245179f74d61c2671b397e8f2473b599", null ],
+    [ "EnterEvadeMode", "d6/da5/a23655.html#a873413da06569343225e6659f8277b2c", null ],
+    [ "JustDied", "d6/da5/a23655.html#a2b5152ddeb53d382294bd0fe7455a21e", null ],
+    [ "JustEngagedWith", "d6/da5/a23655.html#adb4cdec41f4b61f82efdb78fe995c313", null ],
+    [ "JustSummoned", "d6/da5/a23655.html#a97d84139a3e970e22d7d422f2f825f12", null ],
+    [ "KilledUnit", "d6/da5/a23655.html#a8f9e1bd87c80041e07b428ec300ceef8", null ],
+    [ "Reset", "d6/da5/a23655.html#a045ec2371ad99c3465b8f089eb604e0a", null ]
 ];

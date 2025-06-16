@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/database/Database/Field.h File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/game/Scripting/ScriptDefines/GlobalScript.h File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,138 +106,151 @@ $(document).ready(function(){initNavTree('de/da9/a01934.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
-<a href="#namespaces">Namespaces</a> &#124;
-<a href="#typedef-members">Typedefs</a> &#124;
 <a href="#enum-members">Enumerations</a>  </div>
-  <div class="headertitle"><div class="title">Field.h File Reference</div></div>
+  <div class="headertitle"><div class="title">GlobalScript.h File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">Define.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Duration.h</a>&quot;</code><br />
-<code>#include &lt;array&gt;</code><br />
-<code>#include &lt;string_view&gt;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">DatabaseEnvFwd.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">DBCEnums.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">ObjectGuid.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">ScriptObject.h</a>&quot;</code><br />
+<code>#include &lt;map&gt;</code><br />
 <code>#include &lt;vector&gt;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/de1/a05687.html">QueryResultFieldMetadata</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/dff/a10279.html">GlobalScript</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d58/a05691.html">Field</a></td></tr>
-<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Class used to access individual fields of database query result.  <a href="../../d8/d58/a05691.html#details">More...</a><br /></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="namespaces" name="namespaces"></a>
-Namespaces</h2></td></tr>
-<tr class="memitem:db/d75/a04761"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d75/a04761.html">Acore</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:d9/da4/a04789"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/da4/a04789.html">Acore::Types</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="typedef-members" name="typedef-members"></a>
-Typedefs</h2></td></tr>
-<tr class="memitem:aa6a7b1e80be2ae7ec2efb76185ee7b44"><td class="memTemplParams" colspan="2">template&lt;typename T &gt; </td></tr>
-<tr class="memitem:aa6a7b1e80be2ae7ec2efb76185ee7b44"><td class="memTemplItemLeft" align="right" valign="top">using&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d9/da4/a04789.html#aa6a7b1e80be2ae7ec2efb76185ee7b44">Acore::Types::is_chrono_v</a> = std::enable_if_t&lt; std::is_same_v&lt; <a class="el" href="../../d0/dc5/a04415.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a>, T &gt;||std::is_same_v&lt; <a class="el" href="../../d0/dc5/a04415.html#a3cd82f1c195a0b935b4d66b02a41acd8">Seconds</a>, T &gt;||std::is_same_v&lt; <a class="el" href="../../d0/dc5/a04415.html#af2161f9db850581e2228078614990df8">Minutes</a>, T &gt;||std::is_same_v&lt; <a class="el" href="../../d0/dc5/a04415.html#aa0f87984d2b3835a61dffc22ae8bf083">Hours</a>, T &gt;||std::is_same_v&lt; <a class="el" href="../../d0/dc5/a04415.html#af5dc5e7ad7b3f6d8e84530de842d125b">Days</a>, T &gt;||std::is_same_v&lt; <a class="el" href="../../d0/dc5/a04415.html#a983745490d3d3a0322c4ccf0f418f179">Weeks</a>, T &gt;||std::is_same_v&lt; <a class="el" href="../../d0/dc5/a04415.html#ab4fa20b33a9b5ee358963159b01d72f3">Years</a>, T &gt;||std::is_same_v&lt; <a class="el" href="../../d0/dc5/a04415.html#a5f2ffeea2459944dfaa4443f1efb7f42">Months</a>, T &gt;, T &gt;</td></tr>
-<tr class="separator:aa6a7b1e80be2ae7ec2efb76185ee7b44"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a45c2b15f675e85c1f4462be09f27c59e"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/da9/a01934.html#a45c2b15f675e85c1f4462be09f27c59e">Binary</a> = std::vector&lt; <a class="el" href="../../da/d71/a04649.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> &gt;</td></tr>
-<tr class="separator:a45c2b15f675e85c1f4462be09f27c59e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
 Enumerations</h2></td></tr>
-<tr class="memitem:a52858f4c2cc23ac9372ab466fb82c091"><td class="memItemLeft" align="right" valign="top">enum class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/da9/a01934.html#a52858f4c2cc23ac9372ab466fb82c091">DatabaseFieldTypes</a> : uint8 { <br />
-&#160;&#160;<a class="el" href="../../de/da9/a01934.html#a52858f4c2cc23ac9372ab466fb82c091abbb93ef26e3c101ff11cdd21cab08a94">Null</a>
+<tr class="memitem:a9442fcdfa182319eedd41c65183aa54f"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/da9/a01934.html#a9442fcdfa182319eedd41c65183aa54f">GlobalHook</a> { <br />
+&#160;&#160;<a class="el" href="../../de/da9/a01934.html#a9442fcdfa182319eedd41c65183aa54fa3fee3c5c76e67faee134aa5f3004fb3a">GLOBALHOOK_ON_ITEM_DEL_FROM_DB</a>
 , <br />
-&#160;&#160;<a class="el" href="../../de/da9/a01934.html#a52858f4c2cc23ac9372ab466fb82c091a7d839b2c12bfd40ac121b4cc9e81c539">Int8</a>
+&#160;&#160;<a class="el" href="../../de/da9/a01934.html#a9442fcdfa182319eedd41c65183aa54fa54996842f471924462c858b424771301">GLOBALHOOK_ON_MIRRORIMAGE_DISPLAY_ITEM</a>
 , <br />
-&#160;&#160;<a class="el" href="../../de/da9/a01934.html#a52858f4c2cc23ac9372ab466fb82c091a39bc2ae44b184207f560ff8619823208">Int16</a>
+&#160;&#160;<a class="el" href="../../de/da9/a01934.html#a9442fcdfa182319eedd41c65183aa54fadf7277c0c7e7daf6f206ad30076ca6b0">GLOBALHOOK_ON_AFTER_REF_COUNT</a>
 , <br />
-&#160;&#160;<a class="el" href="../../de/da9/a01934.html#a52858f4c2cc23ac9372ab466fb82c091ac06129f6e6e15c09328365e553f1dc31">Int32</a>
+&#160;&#160;<a class="el" href="../../de/da9/a01934.html#a9442fcdfa182319eedd41c65183aa54fab9f74534592d5b25eac4afa022f0afb8">GLOBALHOOK_ON_AFTER_CALCULATE_LOOT_GROUP_AMOUNT</a>
 , <br />
-&#160;&#160;<a class="el" href="../../de/da9/a01934.html#a52858f4c2cc23ac9372ab466fb82c091afbde23b11d7e59af7828e81144c8b487">Int64</a>
+&#160;&#160;<a class="el" href="../../de/da9/a01934.html#a9442fcdfa182319eedd41c65183aa54fa0023a1c24752cf2d5bf1373304031616">GLOBALHOOK_ON_BEFORE_DROP_ADD_ITEM</a>
 , <br />
-&#160;&#160;<a class="el" href="../../de/da9/a01934.html#a52858f4c2cc23ac9372ab466fb82c091a22ae0e2b89e5e3d477f988cc36d3272b">Float</a>
+&#160;&#160;<a class="el" href="../../de/da9/a01934.html#a9442fcdfa182319eedd41c65183aa54fa1910f8cb74757454664169058b78e315">GLOBALHOOK_ON_ITEM_ROLL</a>
 , <br />
-&#160;&#160;<a class="el" href="../../de/da9/a01934.html#a52858f4c2cc23ac9372ab466fb82c091ad909d38d705ce75386dd86e611a82f5b">Double</a>
+&#160;&#160;<a class="el" href="../../de/da9/a01934.html#a9442fcdfa182319eedd41c65183aa54fac9c482aae055a76e845712ea267cbf54">GLOBALHOOK_ON_BEFORE_LOOT_EQUAL_CHANCED</a>
 , <br />
-&#160;&#160;<a class="el" href="../../de/da9/a01934.html#a52858f4c2cc23ac9372ab466fb82c091a937504f318f04eaf0f1d701df4c4d7f3">Decimal</a>
+&#160;&#160;<a class="el" href="../../de/da9/a01934.html#a9442fcdfa182319eedd41c65183aa54faff3a42ff936243662b474b34bdf3eaaf">GLOBALHOOK_ON_INITIALIZE_LOCKED_DUNGEONS</a>
 , <br />
-&#160;&#160;<a class="el" href="../../de/da9/a01934.html#a52858f4c2cc23ac9372ab466fb82c091a44749712dbec183e983dcd78a7736c41">Date</a>
+&#160;&#160;<a class="el" href="../../de/da9/a01934.html#a9442fcdfa182319eedd41c65183aa54fa4a73293aee8407b7b998c4b054b1f441">GLOBALHOOK_ON_AFTER_INITIALIZE_LOCKED_DUNGEONS</a>
 , <br />
-&#160;&#160;<a class="el" href="../../de/da9/a01934.html#a52858f4c2cc23ac9372ab466fb82c091a6ce976e8f061b2b5cfe4d0c50c3405dd">Binary</a>
+&#160;&#160;<a class="el" href="../../de/da9/a01934.html#a9442fcdfa182319eedd41c65183aa54fa5b66ed30713c1b3afbbeb93e0185721f">GLOBALHOOK_ON_BEFORE_UPDATE_ARENA_POINTS</a>
+, <br />
+&#160;&#160;<a class="el" href="../../de/da9/a01934.html#a9442fcdfa182319eedd41c65183aa54fade9db726b6ebfefed02d9958ba2352d1">GLOBALHOOK_ON_AFTER_UPDATE_ENCOUNTER_STATE</a>
+, <br />
+&#160;&#160;<a class="el" href="../../de/da9/a01934.html#a9442fcdfa182319eedd41c65183aa54fa46e286ea2fa14ba1003d3f921bc174b6">GLOBALHOOK_ON_BEFORE_WORLDOBJECT_SET_PHASEMASK</a>
+, <br />
+&#160;&#160;<a class="el" href="../../de/da9/a01934.html#a9442fcdfa182319eedd41c65183aa54fa47d4b00882af22c458fd791f70844d1b">GLOBALHOOK_ON_IS_AFFECTED_BY_SPELL_MOD_CHECK</a>
+, <br />
+&#160;&#160;<a class="el" href="../../de/da9/a01934.html#a9442fcdfa182319eedd41c65183aa54fa1efd25cc1c4e57becd0c5acf89c12857">GLOBALHOOK_ON_SPELL_HEALING_BONUS_TAKEN_NEGATIVE_MODIFIERS</a>
+, <br />
+&#160;&#160;<a class="el" href="../../de/da9/a01934.html#a9442fcdfa182319eedd41c65183aa54fa53ea8c3814440b2cc9bc99760a365ffc">GLOBALHOOK_ON_LOAD_SPELL_CUSTOM_ATTR</a>
+, <br />
+&#160;&#160;<a class="el" href="../../de/da9/a01934.html#a9442fcdfa182319eedd41c65183aa54faac2ab4f02438b0689dcb2fd4e4b6e689">GLOBALHOOK_ON_ALLOWED_FOR_PLAYER_LOOT_CHECK</a>
+, <br />
+&#160;&#160;<a class="el" href="../../de/da9/a01934.html#a9442fcdfa182319eedd41c65183aa54fa484cdc863db646dfef82e9bd93fab517">GLOBALHOOK_ON_ALLOWED_TO_LOOT_CONTAINER_CHECK</a>
+, <br />
+&#160;&#160;<a class="el" href="../../de/da9/a01934.html#a9442fcdfa182319eedd41c65183aa54faca0b78e4f7e01f485fa13984516ad19c">GLOBALHOOK_ON_INSTANCEID_REMOVED</a>
+, <br />
+&#160;&#160;<a class="el" href="../../de/da9/a01934.html#a9442fcdfa182319eedd41c65183aa54faaa74d1171724a0c0ef83fe371e38b203">GLOBALHOOK_ON_BEFORE_SET_BOSS_STATE</a>
+, <br />
+&#160;&#160;<a class="el" href="../../de/da9/a01934.html#a9442fcdfa182319eedd41c65183aa54faf8f95fca3547e7cb68711a197b935872">GLOBALHOOK_AFTER_INSTANCE_GAME_OBJECT_CREATE</a>
+, <br />
+&#160;&#160;<a class="el" href="../../de/da9/a01934.html#a9442fcdfa182319eedd41c65183aa54faaf8763605020a918c2880562446d020a">GLOBALHOOK_END</a>
 <br />
  }</td></tr>
-<tr class="separator:a52858f4c2cc23ac9372ab466fb82c091"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="separator:a9442fcdfa182319eedd41c65183aa54f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Typedef Documentation</h2>
-<a id="a45c2b15f675e85c1f4462be09f27c59e" name="a45c2b15f675e85c1f4462be09f27c59e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a45c2b15f675e85c1f4462be09f27c59e">&#9670;&#160;</a></span>Binary</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">using <a class="el" href="../../de/da9/a01934.html#a45c2b15f675e85c1f4462be09f27c59e">Binary</a> =  std::vector&lt;<a class="el" href="../../da/d71/a04649.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&gt;</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
 <h2 class="groupheader">Enumeration Type Documentation</h2>
-<a id="a52858f4c2cc23ac9372ab466fb82c091" name="a52858f4c2cc23ac9372ab466fb82c091"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a52858f4c2cc23ac9372ab466fb82c091">&#9670;&#160;</a></span>DatabaseFieldTypes</h2>
+<a id="a9442fcdfa182319eedd41c65183aa54f" name="a9442fcdfa182319eedd41c65183aa54f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9442fcdfa182319eedd41c65183aa54f">&#9670;&#160;</a></span>GlobalHook</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">enum class <a class="el" href="../../de/da9/a01934.html#a52858f4c2cc23ac9372ab466fb82c091">DatabaseFieldTypes</a> : <a class="el" href="../../da/d71/a04649.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></td>
+          <td class="memname">enum <a class="el" href="../../de/da9/a01934.html#a9442fcdfa182319eedd41c65183aa54f">GlobalHook</a></td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">strong</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
 <table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a52858f4c2cc23ac9372ab466fb82c091abbb93ef26e3c101ff11cdd21cab08a94" name="a52858f4c2cc23ac9372ab466fb82c091abbb93ef26e3c101ff11cdd21cab08a94"></a>Null&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a52858f4c2cc23ac9372ab466fb82c091a7d839b2c12bfd40ac121b4cc9e81c539" name="a52858f4c2cc23ac9372ab466fb82c091a7d839b2c12bfd40ac121b4cc9e81c539"></a>Int8&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a52858f4c2cc23ac9372ab466fb82c091a39bc2ae44b184207f560ff8619823208" name="a52858f4c2cc23ac9372ab466fb82c091a39bc2ae44b184207f560ff8619823208"></a>Int16&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a52858f4c2cc23ac9372ab466fb82c091ac06129f6e6e15c09328365e553f1dc31" name="a52858f4c2cc23ac9372ab466fb82c091ac06129f6e6e15c09328365e553f1dc31"></a>Int32&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a52858f4c2cc23ac9372ab466fb82c091afbde23b11d7e59af7828e81144c8b487" name="a52858f4c2cc23ac9372ab466fb82c091afbde23b11d7e59af7828e81144c8b487"></a>Int64&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a52858f4c2cc23ac9372ab466fb82c091a22ae0e2b89e5e3d477f988cc36d3272b" name="a52858f4c2cc23ac9372ab466fb82c091a22ae0e2b89e5e3d477f988cc36d3272b"></a>Float&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a52858f4c2cc23ac9372ab466fb82c091ad909d38d705ce75386dd86e611a82f5b" name="a52858f4c2cc23ac9372ab466fb82c091ad909d38d705ce75386dd86e611a82f5b"></a>Double&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a52858f4c2cc23ac9372ab466fb82c091a937504f318f04eaf0f1d701df4c4d7f3" name="a52858f4c2cc23ac9372ab466fb82c091a937504f318f04eaf0f1d701df4c4d7f3"></a>Decimal&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a52858f4c2cc23ac9372ab466fb82c091a44749712dbec183e983dcd78a7736c41" name="a52858f4c2cc23ac9372ab466fb82c091a44749712dbec183e983dcd78a7736c41"></a>Date&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a52858f4c2cc23ac9372ab466fb82c091a6ce976e8f061b2b5cfe4d0c50c3405dd" name="a52858f4c2cc23ac9372ab466fb82c091a6ce976e8f061b2b5cfe4d0c50c3405dd"></a>Binary&#160;</td><td class="fielddoc"></td></tr>
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a9442fcdfa182319eedd41c65183aa54fa3fee3c5c76e67faee134aa5f3004fb3a" name="a9442fcdfa182319eedd41c65183aa54fa3fee3c5c76e67faee134aa5f3004fb3a"></a>GLOBALHOOK_ON_ITEM_DEL_FROM_DB&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a9442fcdfa182319eedd41c65183aa54fa54996842f471924462c858b424771301" name="a9442fcdfa182319eedd41c65183aa54fa54996842f471924462c858b424771301"></a>GLOBALHOOK_ON_MIRRORIMAGE_DISPLAY_ITEM&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a9442fcdfa182319eedd41c65183aa54fadf7277c0c7e7daf6f206ad30076ca6b0" name="a9442fcdfa182319eedd41c65183aa54fadf7277c0c7e7daf6f206ad30076ca6b0"></a>GLOBALHOOK_ON_AFTER_REF_COUNT&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a9442fcdfa182319eedd41c65183aa54fab9f74534592d5b25eac4afa022f0afb8" name="a9442fcdfa182319eedd41c65183aa54fab9f74534592d5b25eac4afa022f0afb8"></a>GLOBALHOOK_ON_AFTER_CALCULATE_LOOT_GROUP_AMOUNT&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a9442fcdfa182319eedd41c65183aa54fa0023a1c24752cf2d5bf1373304031616" name="a9442fcdfa182319eedd41c65183aa54fa0023a1c24752cf2d5bf1373304031616"></a>GLOBALHOOK_ON_BEFORE_DROP_ADD_ITEM&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a9442fcdfa182319eedd41c65183aa54fa1910f8cb74757454664169058b78e315" name="a9442fcdfa182319eedd41c65183aa54fa1910f8cb74757454664169058b78e315"></a>GLOBALHOOK_ON_ITEM_ROLL&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a9442fcdfa182319eedd41c65183aa54fac9c482aae055a76e845712ea267cbf54" name="a9442fcdfa182319eedd41c65183aa54fac9c482aae055a76e845712ea267cbf54"></a>GLOBALHOOK_ON_BEFORE_LOOT_EQUAL_CHANCED&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a9442fcdfa182319eedd41c65183aa54faff3a42ff936243662b474b34bdf3eaaf" name="a9442fcdfa182319eedd41c65183aa54faff3a42ff936243662b474b34bdf3eaaf"></a>GLOBALHOOK_ON_INITIALIZE_LOCKED_DUNGEONS&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a9442fcdfa182319eedd41c65183aa54fa4a73293aee8407b7b998c4b054b1f441" name="a9442fcdfa182319eedd41c65183aa54fa4a73293aee8407b7b998c4b054b1f441"></a>GLOBALHOOK_ON_AFTER_INITIALIZE_LOCKED_DUNGEONS&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a9442fcdfa182319eedd41c65183aa54fa5b66ed30713c1b3afbbeb93e0185721f" name="a9442fcdfa182319eedd41c65183aa54fa5b66ed30713c1b3afbbeb93e0185721f"></a>GLOBALHOOK_ON_BEFORE_UPDATE_ARENA_POINTS&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a9442fcdfa182319eedd41c65183aa54fade9db726b6ebfefed02d9958ba2352d1" name="a9442fcdfa182319eedd41c65183aa54fade9db726b6ebfefed02d9958ba2352d1"></a>GLOBALHOOK_ON_AFTER_UPDATE_ENCOUNTER_STATE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a9442fcdfa182319eedd41c65183aa54fa46e286ea2fa14ba1003d3f921bc174b6" name="a9442fcdfa182319eedd41c65183aa54fa46e286ea2fa14ba1003d3f921bc174b6"></a>GLOBALHOOK_ON_BEFORE_WORLDOBJECT_SET_PHASEMASK&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a9442fcdfa182319eedd41c65183aa54fa47d4b00882af22c458fd791f70844d1b" name="a9442fcdfa182319eedd41c65183aa54fa47d4b00882af22c458fd791f70844d1b"></a>GLOBALHOOK_ON_IS_AFFECTED_BY_SPELL_MOD_CHECK&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a9442fcdfa182319eedd41c65183aa54fa1efd25cc1c4e57becd0c5acf89c12857" name="a9442fcdfa182319eedd41c65183aa54fa1efd25cc1c4e57becd0c5acf89c12857"></a>GLOBALHOOK_ON_SPELL_HEALING_BONUS_TAKEN_NEGATIVE_MODIFIERS&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a9442fcdfa182319eedd41c65183aa54fa53ea8c3814440b2cc9bc99760a365ffc" name="a9442fcdfa182319eedd41c65183aa54fa53ea8c3814440b2cc9bc99760a365ffc"></a>GLOBALHOOK_ON_LOAD_SPELL_CUSTOM_ATTR&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a9442fcdfa182319eedd41c65183aa54faac2ab4f02438b0689dcb2fd4e4b6e689" name="a9442fcdfa182319eedd41c65183aa54faac2ab4f02438b0689dcb2fd4e4b6e689"></a>GLOBALHOOK_ON_ALLOWED_FOR_PLAYER_LOOT_CHECK&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a9442fcdfa182319eedd41c65183aa54fa484cdc863db646dfef82e9bd93fab517" name="a9442fcdfa182319eedd41c65183aa54fa484cdc863db646dfef82e9bd93fab517"></a>GLOBALHOOK_ON_ALLOWED_TO_LOOT_CONTAINER_CHECK&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a9442fcdfa182319eedd41c65183aa54faca0b78e4f7e01f485fa13984516ad19c" name="a9442fcdfa182319eedd41c65183aa54faca0b78e4f7e01f485fa13984516ad19c"></a>GLOBALHOOK_ON_INSTANCEID_REMOVED&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a9442fcdfa182319eedd41c65183aa54faaa74d1171724a0c0ef83fe371e38b203" name="a9442fcdfa182319eedd41c65183aa54faaa74d1171724a0c0ef83fe371e38b203"></a>GLOBALHOOK_ON_BEFORE_SET_BOSS_STATE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a9442fcdfa182319eedd41c65183aa54faf8f95fca3547e7cb68711a197b935872" name="a9442fcdfa182319eedd41c65183aa54faf8f95fca3547e7cb68711a197b935872"></a>GLOBALHOOK_AFTER_INSTANCE_GAME_OBJECT_CREATE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a9442fcdfa182319eedd41c65183aa54faaf8763605020a918c2880562446d020a" name="a9442fcdfa182319eedd41c65183aa54faaf8763605020a918c2880562446d020a"></a>GLOBALHOOK_END&#160;</td><td class="fielddoc"></td></tr>
 </table>
-<div class="fragment"><div class="line"><span class="lineno">   43</span>{</div>
-<div class="line"><span class="lineno">   44</span>    <a class="code hl_enumvalue" href="../../de/da9/a01934.html#a52858f4c2cc23ac9372ab466fb82c091abbb93ef26e3c101ff11cdd21cab08a94">Null</a>,</div>
-<div class="line"><span class="lineno">   45</span>    <a class="code hl_enumvalue" href="../../de/da9/a01934.html#a52858f4c2cc23ac9372ab466fb82c091a7d839b2c12bfd40ac121b4cc9e81c539">Int8</a>,</div>
-<div class="line"><span class="lineno">   46</span>    <a class="code hl_enumvalue" href="../../de/da9/a01934.html#a52858f4c2cc23ac9372ab466fb82c091a39bc2ae44b184207f560ff8619823208">Int16</a>,</div>
-<div class="line"><span class="lineno">   47</span>    <a class="code hl_enumvalue" href="../../de/da9/a01934.html#a52858f4c2cc23ac9372ab466fb82c091ac06129f6e6e15c09328365e553f1dc31">Int32</a>,</div>
-<div class="line"><span class="lineno">   48</span>    <a class="code hl_enumvalue" href="../../de/da9/a01934.html#a52858f4c2cc23ac9372ab466fb82c091afbde23b11d7e59af7828e81144c8b487">Int64</a>,</div>
-<div class="line"><span class="lineno">   49</span>    <a class="code hl_enumvalue" href="../../de/da9/a01934.html#a52858f4c2cc23ac9372ab466fb82c091a22ae0e2b89e5e3d477f988cc36d3272b">Float</a>,</div>
-<div class="line"><span class="lineno">   50</span>    <a class="code hl_enumvalue" href="../../de/da9/a01934.html#a52858f4c2cc23ac9372ab466fb82c091ad909d38d705ce75386dd86e611a82f5b">Double</a>,</div>
-<div class="line"><span class="lineno">   51</span>    <a class="code hl_enumvalue" href="../../de/da9/a01934.html#a52858f4c2cc23ac9372ab466fb82c091a937504f318f04eaf0f1d701df4c4d7f3">Decimal</a>,</div>
-<div class="line"><span class="lineno">   52</span>    <a class="code hl_enumvalue" href="../../de/da9/a01934.html#a52858f4c2cc23ac9372ab466fb82c091a44749712dbec183e983dcd78a7736c41">Date</a>,</div>
-<div class="line"><span class="lineno">   53</span>    <a class="code hl_typedef" href="../../de/da9/a01934.html#a45c2b15f675e85c1f4462be09f27c59e">Binary</a></div>
-<div class="line"><span class="lineno">   54</span>};</div>
-<div class="ttc" id="aa01934_html_a45c2b15f675e85c1f4462be09f27c59e"><div class="ttname"><a href="../../de/da9/a01934.html#a45c2b15f675e85c1f4462be09f27c59e">Binary</a></div><div class="ttdeci">std::vector&lt; uint8 &gt; Binary</div><div class="ttdef"><b>Definition:</b> Field.h:40</div></div>
-<div class="ttc" id="aa01934_html_a52858f4c2cc23ac9372ab466fb82c091a22ae0e2b89e5e3d477f988cc36d3272b"><div class="ttname"><a href="../../de/da9/a01934.html#a52858f4c2cc23ac9372ab466fb82c091a22ae0e2b89e5e3d477f988cc36d3272b">DatabaseFieldTypes::Float</a></div><div class="ttdeci">@ Float</div></div>
-<div class="ttc" id="aa01934_html_a52858f4c2cc23ac9372ab466fb82c091a39bc2ae44b184207f560ff8619823208"><div class="ttname"><a href="../../de/da9/a01934.html#a52858f4c2cc23ac9372ab466fb82c091a39bc2ae44b184207f560ff8619823208">DatabaseFieldTypes::Int16</a></div><div class="ttdeci">@ Int16</div></div>
-<div class="ttc" id="aa01934_html_a52858f4c2cc23ac9372ab466fb82c091a44749712dbec183e983dcd78a7736c41"><div class="ttname"><a href="../../de/da9/a01934.html#a52858f4c2cc23ac9372ab466fb82c091a44749712dbec183e983dcd78a7736c41">DatabaseFieldTypes::Date</a></div><div class="ttdeci">@ Date</div></div>
-<div class="ttc" id="aa01934_html_a52858f4c2cc23ac9372ab466fb82c091a7d839b2c12bfd40ac121b4cc9e81c539"><div class="ttname"><a href="../../de/da9/a01934.html#a52858f4c2cc23ac9372ab466fb82c091a7d839b2c12bfd40ac121b4cc9e81c539">DatabaseFieldTypes::Int8</a></div><div class="ttdeci">@ Int8</div></div>
-<div class="ttc" id="aa01934_html_a52858f4c2cc23ac9372ab466fb82c091a937504f318f04eaf0f1d701df4c4d7f3"><div class="ttname"><a href="../../de/da9/a01934.html#a52858f4c2cc23ac9372ab466fb82c091a937504f318f04eaf0f1d701df4c4d7f3">DatabaseFieldTypes::Decimal</a></div><div class="ttdeci">@ Decimal</div></div>
-<div class="ttc" id="aa01934_html_a52858f4c2cc23ac9372ab466fb82c091abbb93ef26e3c101ff11cdd21cab08a94"><div class="ttname"><a href="../../de/da9/a01934.html#a52858f4c2cc23ac9372ab466fb82c091abbb93ef26e3c101ff11cdd21cab08a94">DatabaseFieldTypes::Null</a></div><div class="ttdeci">@ Null</div></div>
-<div class="ttc" id="aa01934_html_a52858f4c2cc23ac9372ab466fb82c091ac06129f6e6e15c09328365e553f1dc31"><div class="ttname"><a href="../../de/da9/a01934.html#a52858f4c2cc23ac9372ab466fb82c091ac06129f6e6e15c09328365e553f1dc31">DatabaseFieldTypes::Int32</a></div><div class="ttdeci">@ Int32</div></div>
-<div class="ttc" id="aa01934_html_a52858f4c2cc23ac9372ab466fb82c091ad909d38d705ce75386dd86e611a82f5b"><div class="ttname"><a href="../../de/da9/a01934.html#a52858f4c2cc23ac9372ab466fb82c091ad909d38d705ce75386dd86e611a82f5b">DatabaseFieldTypes::Double</a></div><div class="ttdeci">@ Double</div></div>
-<div class="ttc" id="aa01934_html_a52858f4c2cc23ac9372ab466fb82c091afbde23b11d7e59af7828e81144c8b487"><div class="ttname"><a href="../../de/da9/a01934.html#a52858f4c2cc23ac9372ab466fb82c091afbde23b11d7e59af7828e81144c8b487">DatabaseFieldTypes::Int64</a></div><div class="ttdeci">@ Int64</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   29</span>{</div>
+<div class="line"><span class="lineno">   30</span>    <a class="code hl_enumvalue" href="../../de/da9/a01934.html#a9442fcdfa182319eedd41c65183aa54fa3fee3c5c76e67faee134aa5f3004fb3a">GLOBALHOOK_ON_ITEM_DEL_FROM_DB</a>,</div>
+<div class="line"><span class="lineno">   31</span>    <a class="code hl_enumvalue" href="../../de/da9/a01934.html#a9442fcdfa182319eedd41c65183aa54fa54996842f471924462c858b424771301">GLOBALHOOK_ON_MIRRORIMAGE_DISPLAY_ITEM</a>,</div>
+<div class="line"><span class="lineno">   32</span>    <a class="code hl_enumvalue" href="../../de/da9/a01934.html#a9442fcdfa182319eedd41c65183aa54fadf7277c0c7e7daf6f206ad30076ca6b0">GLOBALHOOK_ON_AFTER_REF_COUNT</a>,</div>
+<div class="line"><span class="lineno">   33</span>    <a class="code hl_enumvalue" href="../../de/da9/a01934.html#a9442fcdfa182319eedd41c65183aa54fab9f74534592d5b25eac4afa022f0afb8">GLOBALHOOK_ON_AFTER_CALCULATE_LOOT_GROUP_AMOUNT</a>,</div>
+<div class="line"><span class="lineno">   34</span>    <a class="code hl_enumvalue" href="../../de/da9/a01934.html#a9442fcdfa182319eedd41c65183aa54fa0023a1c24752cf2d5bf1373304031616">GLOBALHOOK_ON_BEFORE_DROP_ADD_ITEM</a>,</div>
+<div class="line"><span class="lineno">   35</span>    <a class="code hl_enumvalue" href="../../de/da9/a01934.html#a9442fcdfa182319eedd41c65183aa54fa1910f8cb74757454664169058b78e315">GLOBALHOOK_ON_ITEM_ROLL</a>,</div>
+<div class="line"><span class="lineno">   36</span>    <a class="code hl_enumvalue" href="../../de/da9/a01934.html#a9442fcdfa182319eedd41c65183aa54fac9c482aae055a76e845712ea267cbf54">GLOBALHOOK_ON_BEFORE_LOOT_EQUAL_CHANCED</a>,</div>
+<div class="line"><span class="lineno">   37</span>    <a class="code hl_enumvalue" href="../../de/da9/a01934.html#a9442fcdfa182319eedd41c65183aa54faff3a42ff936243662b474b34bdf3eaaf">GLOBALHOOK_ON_INITIALIZE_LOCKED_DUNGEONS</a>,</div>
+<div class="line"><span class="lineno">   38</span>    <a class="code hl_enumvalue" href="../../de/da9/a01934.html#a9442fcdfa182319eedd41c65183aa54fa4a73293aee8407b7b998c4b054b1f441">GLOBALHOOK_ON_AFTER_INITIALIZE_LOCKED_DUNGEONS</a>,</div>
+<div class="line"><span class="lineno">   39</span>    <a class="code hl_enumvalue" href="../../de/da9/a01934.html#a9442fcdfa182319eedd41c65183aa54fa5b66ed30713c1b3afbbeb93e0185721f">GLOBALHOOK_ON_BEFORE_UPDATE_ARENA_POINTS</a>,</div>
+<div class="line"><span class="lineno">   40</span>    <a class="code hl_enumvalue" href="../../de/da9/a01934.html#a9442fcdfa182319eedd41c65183aa54fade9db726b6ebfefed02d9958ba2352d1">GLOBALHOOK_ON_AFTER_UPDATE_ENCOUNTER_STATE</a>,</div>
+<div class="line"><span class="lineno">   41</span>    <a class="code hl_enumvalue" href="../../de/da9/a01934.html#a9442fcdfa182319eedd41c65183aa54fa46e286ea2fa14ba1003d3f921bc174b6">GLOBALHOOK_ON_BEFORE_WORLDOBJECT_SET_PHASEMASK</a>,</div>
+<div class="line"><span class="lineno">   42</span>    <a class="code hl_enumvalue" href="../../de/da9/a01934.html#a9442fcdfa182319eedd41c65183aa54fa47d4b00882af22c458fd791f70844d1b">GLOBALHOOK_ON_IS_AFFECTED_BY_SPELL_MOD_CHECK</a>,</div>
+<div class="line"><span class="lineno">   43</span>    <a class="code hl_enumvalue" href="../../de/da9/a01934.html#a9442fcdfa182319eedd41c65183aa54fa1efd25cc1c4e57becd0c5acf89c12857">GLOBALHOOK_ON_SPELL_HEALING_BONUS_TAKEN_NEGATIVE_MODIFIERS</a>,</div>
+<div class="line"><span class="lineno">   44</span>    <a class="code hl_enumvalue" href="../../de/da9/a01934.html#a9442fcdfa182319eedd41c65183aa54fa53ea8c3814440b2cc9bc99760a365ffc">GLOBALHOOK_ON_LOAD_SPELL_CUSTOM_ATTR</a>,</div>
+<div class="line"><span class="lineno">   45</span>    <a class="code hl_enumvalue" href="../../de/da9/a01934.html#a9442fcdfa182319eedd41c65183aa54faac2ab4f02438b0689dcb2fd4e4b6e689">GLOBALHOOK_ON_ALLOWED_FOR_PLAYER_LOOT_CHECK</a>,</div>
+<div class="line"><span class="lineno">   46</span>    <a class="code hl_enumvalue" href="../../de/da9/a01934.html#a9442fcdfa182319eedd41c65183aa54fa484cdc863db646dfef82e9bd93fab517">GLOBALHOOK_ON_ALLOWED_TO_LOOT_CONTAINER_CHECK</a>,</div>
+<div class="line"><span class="lineno">   47</span>    <a class="code hl_enumvalue" href="../../de/da9/a01934.html#a9442fcdfa182319eedd41c65183aa54faca0b78e4f7e01f485fa13984516ad19c">GLOBALHOOK_ON_INSTANCEID_REMOVED</a>,</div>
+<div class="line"><span class="lineno">   48</span>    <a class="code hl_enumvalue" href="../../de/da9/a01934.html#a9442fcdfa182319eedd41c65183aa54faaa74d1171724a0c0ef83fe371e38b203">GLOBALHOOK_ON_BEFORE_SET_BOSS_STATE</a>,</div>
+<div class="line"><span class="lineno">   49</span>    <a class="code hl_enumvalue" href="../../de/da9/a01934.html#a9442fcdfa182319eedd41c65183aa54faf8f95fca3547e7cb68711a197b935872">GLOBALHOOK_AFTER_INSTANCE_GAME_OBJECT_CREATE</a>,</div>
+<div class="line"><span class="lineno">   50</span>    <a class="code hl_enumvalue" href="../../de/da9/a01934.html#a9442fcdfa182319eedd41c65183aa54faaf8763605020a918c2880562446d020a">GLOBALHOOK_END</a></div>
+<div class="line"><span class="lineno">   51</span>};</div>
+<div class="ttc" id="aa01934_html_a9442fcdfa182319eedd41c65183aa54fa0023a1c24752cf2d5bf1373304031616"><div class="ttname"><a href="../../de/da9/a01934.html#a9442fcdfa182319eedd41c65183aa54fa0023a1c24752cf2d5bf1373304031616">GLOBALHOOK_ON_BEFORE_DROP_ADD_ITEM</a></div><div class="ttdeci">@ GLOBALHOOK_ON_BEFORE_DROP_ADD_ITEM</div><div class="ttdef"><b>Definition:</b> GlobalScript.h:34</div></div>
+<div class="ttc" id="aa01934_html_a9442fcdfa182319eedd41c65183aa54fa1910f8cb74757454664169058b78e315"><div class="ttname"><a href="../../de/da9/a01934.html#a9442fcdfa182319eedd41c65183aa54fa1910f8cb74757454664169058b78e315">GLOBALHOOK_ON_ITEM_ROLL</a></div><div class="ttdeci">@ GLOBALHOOK_ON_ITEM_ROLL</div><div class="ttdef"><b>Definition:</b> GlobalScript.h:35</div></div>
+<div class="ttc" id="aa01934_html_a9442fcdfa182319eedd41c65183aa54fa1efd25cc1c4e57becd0c5acf89c12857"><div class="ttname"><a href="../../de/da9/a01934.html#a9442fcdfa182319eedd41c65183aa54fa1efd25cc1c4e57becd0c5acf89c12857">GLOBALHOOK_ON_SPELL_HEALING_BONUS_TAKEN_NEGATIVE_MODIFIERS</a></div><div class="ttdeci">@ GLOBALHOOK_ON_SPELL_HEALING_BONUS_TAKEN_NEGATIVE_MODIFIERS</div><div class="ttdef"><b>Definition:</b> GlobalScript.h:43</div></div>
+<div class="ttc" id="aa01934_html_a9442fcdfa182319eedd41c65183aa54fa3fee3c5c76e67faee134aa5f3004fb3a"><div class="ttname"><a href="../../de/da9/a01934.html#a9442fcdfa182319eedd41c65183aa54fa3fee3c5c76e67faee134aa5f3004fb3a">GLOBALHOOK_ON_ITEM_DEL_FROM_DB</a></div><div class="ttdeci">@ GLOBALHOOK_ON_ITEM_DEL_FROM_DB</div><div class="ttdef"><b>Definition:</b> GlobalScript.h:30</div></div>
+<div class="ttc" id="aa01934_html_a9442fcdfa182319eedd41c65183aa54fa46e286ea2fa14ba1003d3f921bc174b6"><div class="ttname"><a href="../../de/da9/a01934.html#a9442fcdfa182319eedd41c65183aa54fa46e286ea2fa14ba1003d3f921bc174b6">GLOBALHOOK_ON_BEFORE_WORLDOBJECT_SET_PHASEMASK</a></div><div class="ttdeci">@ GLOBALHOOK_ON_BEFORE_WORLDOBJECT_SET_PHASEMASK</div><div class="ttdef"><b>Definition:</b> GlobalScript.h:41</div></div>
+<div class="ttc" id="aa01934_html_a9442fcdfa182319eedd41c65183aa54fa47d4b00882af22c458fd791f70844d1b"><div class="ttname"><a href="../../de/da9/a01934.html#a9442fcdfa182319eedd41c65183aa54fa47d4b00882af22c458fd791f70844d1b">GLOBALHOOK_ON_IS_AFFECTED_BY_SPELL_MOD_CHECK</a></div><div class="ttdeci">@ GLOBALHOOK_ON_IS_AFFECTED_BY_SPELL_MOD_CHECK</div><div class="ttdef"><b>Definition:</b> GlobalScript.h:42</div></div>
+<div class="ttc" id="aa01934_html_a9442fcdfa182319eedd41c65183aa54fa484cdc863db646dfef82e9bd93fab517"><div class="ttname"><a href="../../de/da9/a01934.html#a9442fcdfa182319eedd41c65183aa54fa484cdc863db646dfef82e9bd93fab517">GLOBALHOOK_ON_ALLOWED_TO_LOOT_CONTAINER_CHECK</a></div><div class="ttdeci">@ GLOBALHOOK_ON_ALLOWED_TO_LOOT_CONTAINER_CHECK</div><div class="ttdef"><b>Definition:</b> GlobalScript.h:46</div></div>
+<div class="ttc" id="aa01934_html_a9442fcdfa182319eedd41c65183aa54fa4a73293aee8407b7b998c4b054b1f441"><div class="ttname"><a href="../../de/da9/a01934.html#a9442fcdfa182319eedd41c65183aa54fa4a73293aee8407b7b998c4b054b1f441">GLOBALHOOK_ON_AFTER_INITIALIZE_LOCKED_DUNGEONS</a></div><div class="ttdeci">@ GLOBALHOOK_ON_AFTER_INITIALIZE_LOCKED_DUNGEONS</div><div class="ttdef"><b>Definition:</b> GlobalScript.h:38</div></div>
+<div class="ttc" id="aa01934_html_a9442fcdfa182319eedd41c65183aa54fa53ea8c3814440b2cc9bc99760a365ffc"><div class="ttname"><a href="../../de/da9/a01934.html#a9442fcdfa182319eedd41c65183aa54fa53ea8c3814440b2cc9bc99760a365ffc">GLOBALHOOK_ON_LOAD_SPELL_CUSTOM_ATTR</a></div><div class="ttdeci">@ GLOBALHOOK_ON_LOAD_SPELL_CUSTOM_ATTR</div><div class="ttdef"><b>Definition:</b> GlobalScript.h:44</div></div>
+<div class="ttc" id="aa01934_html_a9442fcdfa182319eedd41c65183aa54fa54996842f471924462c858b424771301"><div class="ttname"><a href="../../de/da9/a01934.html#a9442fcdfa182319eedd41c65183aa54fa54996842f471924462c858b424771301">GLOBALHOOK_ON_MIRRORIMAGE_DISPLAY_ITEM</a></div><div class="ttdeci">@ GLOBALHOOK_ON_MIRRORIMAGE_DISPLAY_ITEM</div><div class="ttdef"><b>Definition:</b> GlobalScript.h:31</div></div>
+<div class="ttc" id="aa01934_html_a9442fcdfa182319eedd41c65183aa54fa5b66ed30713c1b3afbbeb93e0185721f"><div class="ttname"><a href="../../de/da9/a01934.html#a9442fcdfa182319eedd41c65183aa54fa5b66ed30713c1b3afbbeb93e0185721f">GLOBALHOOK_ON_BEFORE_UPDATE_ARENA_POINTS</a></div><div class="ttdeci">@ GLOBALHOOK_ON_BEFORE_UPDATE_ARENA_POINTS</div><div class="ttdef"><b>Definition:</b> GlobalScript.h:39</div></div>
+<div class="ttc" id="aa01934_html_a9442fcdfa182319eedd41c65183aa54faaa74d1171724a0c0ef83fe371e38b203"><div class="ttname"><a href="../../de/da9/a01934.html#a9442fcdfa182319eedd41c65183aa54faaa74d1171724a0c0ef83fe371e38b203">GLOBALHOOK_ON_BEFORE_SET_BOSS_STATE</a></div><div class="ttdeci">@ GLOBALHOOK_ON_BEFORE_SET_BOSS_STATE</div><div class="ttdef"><b>Definition:</b> GlobalScript.h:48</div></div>
+<div class="ttc" id="aa01934_html_a9442fcdfa182319eedd41c65183aa54faac2ab4f02438b0689dcb2fd4e4b6e689"><div class="ttname"><a href="../../de/da9/a01934.html#a9442fcdfa182319eedd41c65183aa54faac2ab4f02438b0689dcb2fd4e4b6e689">GLOBALHOOK_ON_ALLOWED_FOR_PLAYER_LOOT_CHECK</a></div><div class="ttdeci">@ GLOBALHOOK_ON_ALLOWED_FOR_PLAYER_LOOT_CHECK</div><div class="ttdef"><b>Definition:</b> GlobalScript.h:45</div></div>
+<div class="ttc" id="aa01934_html_a9442fcdfa182319eedd41c65183aa54faaf8763605020a918c2880562446d020a"><div class="ttname"><a href="../../de/da9/a01934.html#a9442fcdfa182319eedd41c65183aa54faaf8763605020a918c2880562446d020a">GLOBALHOOK_END</a></div><div class="ttdeci">@ GLOBALHOOK_END</div><div class="ttdef"><b>Definition:</b> GlobalScript.h:50</div></div>
+<div class="ttc" id="aa01934_html_a9442fcdfa182319eedd41c65183aa54fab9f74534592d5b25eac4afa022f0afb8"><div class="ttname"><a href="../../de/da9/a01934.html#a9442fcdfa182319eedd41c65183aa54fab9f74534592d5b25eac4afa022f0afb8">GLOBALHOOK_ON_AFTER_CALCULATE_LOOT_GROUP_AMOUNT</a></div><div class="ttdeci">@ GLOBALHOOK_ON_AFTER_CALCULATE_LOOT_GROUP_AMOUNT</div><div class="ttdef"><b>Definition:</b> GlobalScript.h:33</div></div>
+<div class="ttc" id="aa01934_html_a9442fcdfa182319eedd41c65183aa54fac9c482aae055a76e845712ea267cbf54"><div class="ttname"><a href="../../de/da9/a01934.html#a9442fcdfa182319eedd41c65183aa54fac9c482aae055a76e845712ea267cbf54">GLOBALHOOK_ON_BEFORE_LOOT_EQUAL_CHANCED</a></div><div class="ttdeci">@ GLOBALHOOK_ON_BEFORE_LOOT_EQUAL_CHANCED</div><div class="ttdef"><b>Definition:</b> GlobalScript.h:36</div></div>
+<div class="ttc" id="aa01934_html_a9442fcdfa182319eedd41c65183aa54faca0b78e4f7e01f485fa13984516ad19c"><div class="ttname"><a href="../../de/da9/a01934.html#a9442fcdfa182319eedd41c65183aa54faca0b78e4f7e01f485fa13984516ad19c">GLOBALHOOK_ON_INSTANCEID_REMOVED</a></div><div class="ttdeci">@ GLOBALHOOK_ON_INSTANCEID_REMOVED</div><div class="ttdef"><b>Definition:</b> GlobalScript.h:47</div></div>
+<div class="ttc" id="aa01934_html_a9442fcdfa182319eedd41c65183aa54fade9db726b6ebfefed02d9958ba2352d1"><div class="ttname"><a href="../../de/da9/a01934.html#a9442fcdfa182319eedd41c65183aa54fade9db726b6ebfefed02d9958ba2352d1">GLOBALHOOK_ON_AFTER_UPDATE_ENCOUNTER_STATE</a></div><div class="ttdeci">@ GLOBALHOOK_ON_AFTER_UPDATE_ENCOUNTER_STATE</div><div class="ttdef"><b>Definition:</b> GlobalScript.h:40</div></div>
+<div class="ttc" id="aa01934_html_a9442fcdfa182319eedd41c65183aa54fadf7277c0c7e7daf6f206ad30076ca6b0"><div class="ttname"><a href="../../de/da9/a01934.html#a9442fcdfa182319eedd41c65183aa54fadf7277c0c7e7daf6f206ad30076ca6b0">GLOBALHOOK_ON_AFTER_REF_COUNT</a></div><div class="ttdeci">@ GLOBALHOOK_ON_AFTER_REF_COUNT</div><div class="ttdef"><b>Definition:</b> GlobalScript.h:32</div></div>
+<div class="ttc" id="aa01934_html_a9442fcdfa182319eedd41c65183aa54faf8f95fca3547e7cb68711a197b935872"><div class="ttname"><a href="../../de/da9/a01934.html#a9442fcdfa182319eedd41c65183aa54faf8f95fca3547e7cb68711a197b935872">GLOBALHOOK_AFTER_INSTANCE_GAME_OBJECT_CREATE</a></div><div class="ttdeci">@ GLOBALHOOK_AFTER_INSTANCE_GAME_OBJECT_CREATE</div><div class="ttdef"><b>Definition:</b> GlobalScript.h:49</div></div>
+<div class="ttc" id="aa01934_html_a9442fcdfa182319eedd41c65183aa54faff3a42ff936243662b474b34bdf3eaaf"><div class="ttname"><a href="../../de/da9/a01934.html#a9442fcdfa182319eedd41c65183aa54faff3a42ff936243662b474b34bdf3eaaf">GLOBALHOOK_ON_INITIALIZE_LOCKED_DUNGEONS</a></div><div class="ttdeci">@ GLOBALHOOK_ON_INITIALIZE_LOCKED_DUNGEONS</div><div class="ttdef"><b>Definition:</b> GlobalScript.h:37</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -246,8 +259,8 @@ Enumerations</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_3906e801b468713a6f5b1f193c7ea10d.html">database</a></li><li class="navelem"><a class="el" href="../../dir_4135abd5956581eb408665f16b5c495d.html">Database</a></li><li class="navelem"><a class="el" href="../../de/da9/a01934.html">Field.h</a></li>
-    <li class="footer">Generated on Mon Jun 9 2025 20:46:06 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_824c567499771b11a8d1959386aa27e6.html">Scripting</a></li><li class="navelem"><a class="el" href="../../dir_a0aac0519f50cbe40c54d5948ed285d0.html">ScriptDefines</a></li><li class="navelem"><a class="el" href="../../de/da9/a01934.html">GlobalScript.h</a></li>
+    <li class="footer">Generated on Mon Jun 16 2025 20:47:11 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

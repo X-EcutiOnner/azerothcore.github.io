@@ -1,4 +1,5 @@
 var a04478 =
 [
-    [ "Optional", "d1/d6c/a04478.html#aaf8f4d77efd311ec7818ab421294ef82", null ]
+    [ "BIHWrap< T, BoundsFunc >", "d3/d3a/a04891.html", "d3/d3a/a04891" ],
+    [ "BIHWrap< T, BoundsFunc >::MDLCallback< RayCallback >", "d7/d46/a04895.html", "d7/d46/a04895" ]
 ];

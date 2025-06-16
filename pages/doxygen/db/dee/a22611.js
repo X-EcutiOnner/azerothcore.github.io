@@ -1,6 +1,17 @@
 var a22611 =
 [
-    [ "instance_sethekk_halls_InstanceMapScript", "d5/db9/a22615.html", "d5/db9/a22615" ],
-    [ "instance_sethekk_halls", "db/dee/a22611.html#ab50d296266cf377bfb34750ec36963ef", null ],
-    [ "GetInstanceScript", "db/dee/a22611.html#adc07afe1aa8132f70474f9a534ecb76c", null ]
+    [ "boss_ambassador_hellmaw", "db/dee/a22611.html#ae774dfa4379b7321ff194a796c9eb842", null ],
+    [ "AttackStart", "db/dee/a22611.html#aa072ff0e9ce6e68f3ba0b4e51fb92f04", null ],
+    [ "CanAIAttack", "db/dee/a22611.html#a35579b31dec1d0c110b459230ee129e4", null ],
+    [ "DoAction", "db/dee/a22611.html#a3cbd58fb11fe8d297907bb40d69e4ccb", null ],
+    [ "DoMeleeAttackIfReady", "db/dee/a22611.html#a8dd75d368f0f567561db45e1c53ad785", null ],
+    [ "InitializeAI", "db/dee/a22611.html#a9b0170a49751def614126265240bb87c", null ],
+    [ "JustDied", "db/dee/a22611.html#ae0e04500073a4c02c9656b4bcd63be9c", null ],
+    [ "JustEngagedWith", "db/dee/a22611.html#a9ea9d60b8fa90a228951a38fc2f59325", null ],
+    [ "KilledUnit", "db/dee/a22611.html#a5f7564ef25a36395cddf4e2c2dbc2dfc", null ],
+    [ "MoveInLineOfSight", "db/dee/a22611.html#af3949b46f82863af699396729e88928b", null ],
+    [ "PathEndReached", "db/dee/a22611.html#a46b9b96ec5e4c121d994560e85266dfe", null ],
+    [ "Reset", "db/dee/a22611.html#a4881f868ac11eb66f3d15b44c94938bf", null ],
+    [ "UpdateAI", "db/dee/a22611.html#a44dae5d6517e22dd2be399d08fa67a71", null ],
+    [ "isBanished", "db/dee/a22611.html#a4805244997c42f5791400c5b1f5e6204", null ]
 ];

@@ -1,6 +1,6 @@
 var a22183 =
 [
-    [ "HandleScript", "df/df3/a22183.html#acb343eafcfddf6fedcdef26c9b86e0ec", null ],
-    [ "PrepareSpellScript", "df/df3/a22183.html#a5a4ce9453638d61fe52514240f0a9384", null ],
-    [ "Register", "df/df3/a22183.html#a889f931aaa37d3a283f4d585b384a68e", null ]
+    [ "npc_frosthoundAI", "d1/de0/a22187.html", "d1/de0/a22187" ],
+    [ "npc_frosthound", "df/df3/a22183.html#a3266f5186d1db0c010f586d3272725a6", null ],
+    [ "GetAI", "df/df3/a22183.html#a49cd41753c715f166fc903df9dcfdd6b", null ]
 ];

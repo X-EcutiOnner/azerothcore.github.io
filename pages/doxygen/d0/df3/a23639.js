@@ -1,6 +1,6 @@
 var a23639 =
 [
-    [ "npc_millhouse_manastormAI", "df/d90/a23643.html", "df/d90/a23643" ],
-    [ "npc_millhouse_manastorm", "d0/df3/a23639.html#aebc8efc48d207ad7f1105fa636b9c104", null ],
-    [ "GetAI", "d0/df3/a23639.html#ac4516785f7daf544718fc201197ba977", null ]
+    [ "npc_warden_mellicharAI", "df/d90/a23643.html", "df/d90/a23643" ],
+    [ "npc_warden_mellichar", "d0/df3/a23639.html#aba5c3d005097430941bd40bbbb0d3562", null ],
+    [ "GetAI", "d0/df3/a23639.html#a7cb7437a61b49d8110c3b7fee43e495b", null ]
 ];

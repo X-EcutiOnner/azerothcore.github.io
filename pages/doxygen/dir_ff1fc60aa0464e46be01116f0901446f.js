@@ -1,10 +1,10 @@
 var dir_ff1fc60aa0464e46be01116f0901446f =
 [
-    [ "pet_dk.cpp", "df/de4/a02651.html", "df/de4/a02651" ],
-    [ "pet_generic.cpp", "dc/dcb/a02648.html", "dc/dcb/a02648" ],
-    [ "pet_hunter.cpp", "da/de8/a02657.html", "da/de8/a02657" ],
-    [ "pet_mage.cpp", "d5/d96/a02642.html", "d5/d96/a02642" ],
-    [ "pet_priest.cpp", "de/d7b/a02660.html", "de/d7b/a02660" ],
-    [ "pet_shaman.cpp", "d2/d80/a02645.html", "d2/d80/a02645" ],
-    [ "pets_script_loader.cpp", "db/d4d/a02654.html", "db/d4d/a02654" ]
+    [ "pet_dk.cpp", "d5/d45/a03887.html", "d5/d45/a03887" ],
+    [ "pet_generic.cpp", "d0/d84/a03872.html", "d0/d84/a03872" ],
+    [ "pet_hunter.cpp", "d5/d3c/a03875.html", "d5/d3c/a03875" ],
+    [ "pet_mage.cpp", "d8/d46/a03881.html", "d8/d46/a03881" ],
+    [ "pet_priest.cpp", "d6/db7/a03884.html", "d6/db7/a03884" ],
+    [ "pet_shaman.cpp", "d6/da9/a03869.html", "d6/da9/a03869" ],
+    [ "pets_script_loader.cpp", "d0/d60/a03878.html", "d0/d60/a03878" ]
 ];

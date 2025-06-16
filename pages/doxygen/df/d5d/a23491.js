@@ -1,20 +1,12 @@
 var a23491 =
 [
-    [ "instance_blood_furnace_InstanceMapScript", "df/d5d/a23491.html#adb0173cb42642836f7734d8b0fb3e98f", null ],
-    [ "ActivateCell", "df/d5d/a23491.html#abd718216778850455c758d79a5866958", null ],
-    [ "ActivatePrisoners", "df/d5d/a23491.html#a18488afb78747a35ce7e3b4b9a2468b5", null ],
-    [ "GetGuidData", "df/d5d/a23491.html#af7f6acc97bf16f4d31236dcbb2d94007", null ],
-    [ "Initialize", "df/d5d/a23491.html#a3441a24486ec686d42b7320e6f105139", null ],
-    [ "OnCreatureCreate", "df/d5d/a23491.html#ac58da5acec155e596791464c48f29773", null ],
-    [ "OnGameObjectCreate", "df/d5d/a23491.html#a3894ce1d0dff79cee2ff0df51d19e1ea", null ],
-    [ "OnUnitDeath", "df/d5d/a23491.html#a78b07bfe30c7f329046ff572f783c4b9", null ],
-    [ "PrisonerDied", "df/d5d/a23491.html#a16315f7921b1960c7720f855cdddee96", null ],
-    [ "ResetPrisoner", "df/d5d/a23491.html#a57f58c502b5fb2064307adb8c4976979", null ],
-    [ "ResetPrisoners", "df/d5d/a23491.html#ac46b0ed98e69ac0d5b8582bb21a81dc8", null ],
-    [ "ResetPrisons", "df/d5d/a23491.html#a728bbc185bb91cf024f8ff3bd878a10e", null ],
-    [ "SetBossState", "df/d5d/a23491.html#aad428e00762795d8f817d6cfa25505fe", null ],
-    [ "StorePrisoner", "df/d5d/a23491.html#ade72b3e7a2129b8a4f722990aef5ac5f", null ],
-    [ "_prisonerCounter", "df/d5d/a23491.html#a50c371edc425191f610a0e8a6b44d2ab", null ],
-    [ "_prisonersCell", "df/d5d/a23491.html#a3492a327f4c0d637fd5701f3997c1887", null ],
-    [ "_prisonGUIDs", "df/d5d/a23491.html#a9a737e495b638ec65fbd306c6aa0267c", null ]
+    [ "boss_vazruden_the_herald", "df/d5d/a23491.html#a97f761b2e3477a22cdc65c68700de72c", null ],
+    [ "AttackStart", "df/d5d/a23491.html#a190621f4130b913348a49d6dfe76b591", null ],
+    [ "JustSummoned", "df/d5d/a23491.html#a66d8c6252e6baf88144da3af57bf65a4", null ],
+    [ "MovementInform", "df/d5d/a23491.html#abd89aa3911c626864f8aada889ce99c9", null ],
+    [ "Reset", "df/d5d/a23491.html#a18076b0fd12bc9a002394d5fe3aa5f81", null ],
+    [ "SetData", "df/d5d/a23491.html#a7dcbec1c99fdf4f740656a8379a99080", null ],
+    [ "SummonedCreatureDespawn", "df/d5d/a23491.html#a7621077082a3b53d1d21265e6dd00dce", null ],
+    [ "SummonedCreatureDies", "df/d5d/a23491.html#a336feba0d88e4fccce28b2730a9aea9e", null ],
+    [ "UpdateAI", "df/d5d/a23491.html#adc98e358a751fd9881589aada4baf320", null ]
 ];

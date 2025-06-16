@@ -1,21 +1,12 @@
 var a03530 =
 [
-    [ "npcs_riverbreeze_and_silversky", "d6/da7/a15407.html", "d6/da7/a15407" ],
-    [ "at_ancient_leaf", "dd/d6d/a15411.html", "dd/d6d/a15411" ],
-    [ "GOSSIP_ITEM_BEACON", "d0/de9/a03530.html#aed16a0d3c0f5042443d68996e30f15bd", null ],
-    [ "AncientMisc", "d0/de9/a03530.html#adaffe09a7c2b9f9bfdc48d5068c18068", [
-      [ "QUEST_ANCIENT_LEAF", "d0/de9/a03530.html#adaffe09a7c2b9f9bfdc48d5068c18068aa825be5f41ad67f6007d3509e9bb87e3", null ],
-      [ "NPC_VARTRUS", "d0/de9/a03530.html#adaffe09a7c2b9f9bfdc48d5068c18068aa3648d60ebaeb2cef5c0578018150e99", null ],
-      [ "NPC_STOMA", "d0/de9/a03530.html#adaffe09a7c2b9f9bfdc48d5068c18068ab30f7bd203d11ff87b0030b3578a5e81", null ],
-      [ "NPC_HASTAT", "d0/de9/a03530.html#adaffe09a7c2b9f9bfdc48d5068c18068acc6ef71bcba7f2d82bc3164636733e04", null ],
-      [ "CREATURE_GROUP_ANCIENTS", "d0/de9/a03530.html#adaffe09a7c2b9f9bfdc48d5068c18068a929e77d337e49edf4de033ddb8ccf149", null ]
+    [ "ACScriptName", "d0/de9/a03530.html#a44e28f969fff2c33cf76b8eaaff1898c", null ],
+    [ "DataHeader", "d0/de9/a03530.html#a042491ef36459046f3866e90f15aae0d", null ],
+    [ "RegisterAuchenaiCryptsCreatureAI", "d0/de9/a03530.html#abf97bec93b670890ad0eaa7d6b4bd4b9", null ],
+    [ "ACDataTypes", "d0/de9/a03530.html#aae3060cf5aa0b4d27bcbbfeee3db2856", [
+      [ "DATA_SHIRRAK_THE_DEAD_WATCHER", "d0/de9/a03530.html#aae3060cf5aa0b4d27bcbbfeee3db2856a5d80917a3a5f108f9e625372181b85fe", null ],
+      [ "DATA_EXARCH_MALADAAR", "d0/de9/a03530.html#aae3060cf5aa0b4d27bcbbfeee3db2856aa54edd3601b7953b0bf046fa8b1bd3f8", null ]
     ] ],
-    [ "RiverbreezeAndSilversky", "d0/de9/a03530.html#acc75d54553750c832fe50b6cb0c42427", [
-      [ "SPELL_CENARION_BEACON", "d0/de9/a03530.html#acc75d54553750c832fe50b6cb0c42427aefb9fe5d61b5fc5b810f077e47334d49", null ],
-      [ "NPC_ARATHANDRIS_SILVERSKY", "d0/de9/a03530.html#acc75d54553750c832fe50b6cb0c42427a15af7b53355112caefafe032f27b15d6", null ],
-      [ "NPC_MAYBESS_RIVERBREEZE", "d0/de9/a03530.html#acc75d54553750c832fe50b6cb0c42427a3362be702aaaa11f11e1df72d0a8e149", null ],
-      [ "QUEST_CLEASING_FELWOOD_A", "d0/de9/a03530.html#acc75d54553750c832fe50b6cb0c42427ab52d337e733144a5a21fce9825f80fff", null ],
-      [ "QUEST_CLEASING_FELWOOD_H", "d0/de9/a03530.html#acc75d54553750c832fe50b6cb0c42427a24da8ad4e5cec47c9a66a1e03e07383f", null ]
-    ] ],
-    [ "AddSC_felwood", "d0/de9/a03530.html#a63ae28c9f250057b35a18fb585c6a2cf", null ]
+    [ "GetAuchenaiCryptsAI", "d0/de9/a03530.html#a8c9b9cbd7dca7c2e86d7ad3fe7bfd961", null ],
+    [ "EncounterCount", "d0/de9/a03530.html#a31d630c40753c29f94ceac2db5e451a8", null ]
 ];

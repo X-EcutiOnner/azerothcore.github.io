@@ -1,6 +1,6 @@
 var a22243 =
 [
-    [ "npc_freed_protodrakeAI", "de/d08/a22247.html", "de/d08/a22247" ],
-    [ "npc_freed_protodrake", "d4/d8a/a22243.html#a56e33e186800efa3fb86ca6a614e3b0b", null ],
-    [ "GetAI", "d4/d8a/a22243.html#a9680bf65cb97327396f58c297df1c8f5", null ]
+    [ "npc_icefangAI", "de/d08/a22247.html", "de/d08/a22247" ],
+    [ "npc_icefang", "d4/d8a/a22243.html#a2e13be89b110abaa2509e597e4cf883a", null ],
+    [ "GetAI", "d4/d8a/a22243.html#ad1a936b1eef30271912054a817e0c9f8", null ]
 ];

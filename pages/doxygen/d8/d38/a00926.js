@@ -1,25 +1,47 @@
 var a00926 =
 [
-    [ "PlayerDump", "d2/dd2/a11407.html", "d2/dd2/a11407" ],
-    [ "PlayerDumpWriter", "d6/d15/a11411.html", "d6/d15/a11411" ],
-    [ "PlayerDumpReader", "df/dd0/a11415.html", "df/dd0/a11415" ],
-    [ "DumpReturn", "d8/d38/a00926.html#a4471667403db9bc7532f371d28743866", [
-      [ "DUMP_SUCCESS", "d8/d38/a00926.html#a4471667403db9bc7532f371d28743866a6516d3543697022dbf635913b248e48e", null ],
-      [ "DUMP_FILE_OPEN_ERROR", "d8/d38/a00926.html#a4471667403db9bc7532f371d28743866a01a5aec7fbe2bac9208d139b46a23656", null ],
-      [ "DUMP_TOO_MANY_CHARS", "d8/d38/a00926.html#a4471667403db9bc7532f371d28743866a73b27eff0adff2ab7bfd73e34aeb307d", null ],
-      [ "DUMP_FILE_BROKEN", "d8/d38/a00926.html#a4471667403db9bc7532f371d28743866a86acf22616e301a2ffef9ba80e227ed6", null ],
-      [ "DUMP_CHARACTER_DELETED", "d8/d38/a00926.html#a4471667403db9bc7532f371d28743866a08aa6d880c4d2da0ad4c8c1b27a5cc47", null ]
+    [ "SpellModPredicate", "d5/d6c/a08471.html", "d5/d6c/a08471" ],
+    [ "CharacterCustomizeFlags", "d8/d38/a00926.html#a3a8c2696b2e9a6bf9d90ce80438aa578", [
+      [ "CHAR_CUSTOMIZE_FLAG_NONE", "d8/d38/a00926.html#a3a8c2696b2e9a6bf9d90ce80438aa578a6f6dac768618381b22f3ab44ba494533", null ],
+      [ "CHAR_CUSTOMIZE_FLAG_CUSTOMIZE", "d8/d38/a00926.html#a3a8c2696b2e9a6bf9d90ce80438aa578aadb876a16cbe9fa5facd96601b6a4626", null ],
+      [ "CHAR_CUSTOMIZE_FLAG_FACTION", "d8/d38/a00926.html#a3a8c2696b2e9a6bf9d90ce80438aa578a70c1f08c7db8077b7cf4387b15320dbd", null ],
+      [ "CHAR_CUSTOMIZE_FLAG_RACE", "d8/d38/a00926.html#a3a8c2696b2e9a6bf9d90ce80438aa578a02cee8912e6f3e69aff23e8f2603dbd5", null ]
     ] ],
-    [ "DumpTableType", "d8/d38/a00926.html#ad4739d865080bb5590831b606365e7ef", [
-      [ "DTT_CHARACTER", "d8/d38/a00926.html#ad4739d865080bb5590831b606365e7efaea3cb16043024e5fdfc4f3301d2df323", null ],
-      [ "DTT_CHAR_TABLE", "d8/d38/a00926.html#ad4739d865080bb5590831b606365e7efa3c784c38ccd07be78692e3e03bb53d94", null ],
-      [ "DTT_EQSET_TABLE", "d8/d38/a00926.html#ad4739d865080bb5590831b606365e7efa0588b27b8e9c5cd1cd20d4324cad45de", null ],
-      [ "DTT_INVENTORY", "d8/d38/a00926.html#ad4739d865080bb5590831b606365e7efa137a1112df8b9582403fec12c50fea7f", null ],
-      [ "DTT_MAIL", "d8/d38/a00926.html#ad4739d865080bb5590831b606365e7efa581ecbcaf9623d952b28fd4e964ae67d", null ],
-      [ "DTT_MAIL_ITEM", "d8/d38/a00926.html#ad4739d865080bb5590831b606365e7efa917099d0dd625e7aa46b6358fb4c036b", null ],
-      [ "DTT_ITEM", "d8/d38/a00926.html#ad4739d865080bb5590831b606365e7efad5be0dba7076e09532f3eb8760b8501d", null ],
-      [ "DTT_ITEM_GIFT", "d8/d38/a00926.html#ad4739d865080bb5590831b606365e7efadead833bce15df38e80b9eee85b1d847", null ],
-      [ "DTT_PET", "d8/d38/a00926.html#ad4739d865080bb5590831b606365e7efacb52988d860dbf41c2e2a5e2650d95c8", null ],
-      [ "DTT_PET_TABLE", "d8/d38/a00926.html#ad4739d865080bb5590831b606365e7efa4b50591bf81a27c7f6300f7733b14ac4", null ]
-    ] ]
+    [ "CharacterFlags", "d8/d38/a00926.html#aaba5b1cb73e3834489f98e5f6f0fc6de", [
+      [ "CHARACTER_FLAG_NONE", "d8/d38/a00926.html#aaba5b1cb73e3834489f98e5f6f0fc6dead5a7499a6c1f3eb27d35f01be67f400c", null ],
+      [ "CHARACTER_FLAG_UNK1", "d8/d38/a00926.html#aaba5b1cb73e3834489f98e5f6f0fc6dea092d0044d3d9007a2b863daabc208179", null ],
+      [ "CHARACTER_FLAG_UNK2", "d8/d38/a00926.html#aaba5b1cb73e3834489f98e5f6f0fc6dea40bc4e4edc46c4d502a99b8b5e39cba0", null ],
+      [ "CHARACTER_LOCKED_FOR_TRANSFER", "d8/d38/a00926.html#aaba5b1cb73e3834489f98e5f6f0fc6deac53c54ed596141ee95313054fc0ef3e6", null ],
+      [ "CHARACTER_FLAG_UNK4", "d8/d38/a00926.html#aaba5b1cb73e3834489f98e5f6f0fc6dea622731fb5fcaa439a008543afe91e0ae", null ],
+      [ "CHARACTER_FLAG_UNK5", "d8/d38/a00926.html#aaba5b1cb73e3834489f98e5f6f0fc6dea657ec519983809e892b66a4bbcc420f9", null ],
+      [ "CHARACTER_FLAG_UNK6", "d8/d38/a00926.html#aaba5b1cb73e3834489f98e5f6f0fc6deae7f3c8351b12fbd90cd6dd6b0070e3da", null ],
+      [ "CHARACTER_FLAG_UNK7", "d8/d38/a00926.html#aaba5b1cb73e3834489f98e5f6f0fc6dead47e923a1edb4d4671e9662a63d92994", null ],
+      [ "CHARACTER_FLAG_UNK8", "d8/d38/a00926.html#aaba5b1cb73e3834489f98e5f6f0fc6dea7b52e8cea3f9c3167d92decd72098a3b", null ],
+      [ "CHARACTER_FLAG_UNK9", "d8/d38/a00926.html#aaba5b1cb73e3834489f98e5f6f0fc6deab057f340ae5124c15001b623b6a394a6", null ],
+      [ "CHARACTER_FLAG_UNK10", "d8/d38/a00926.html#aaba5b1cb73e3834489f98e5f6f0fc6dea498fa883ff24092e936e5177beebb785", null ],
+      [ "CHARACTER_FLAG_HIDE_HELM", "d8/d38/a00926.html#aaba5b1cb73e3834489f98e5f6f0fc6dea66535a9bc1fcff584512d527a0e445ad", null ],
+      [ "CHARACTER_FLAG_HIDE_CLOAK", "d8/d38/a00926.html#aaba5b1cb73e3834489f98e5f6f0fc6dea6cc2ad36253f710d071f6ac2f4d5d989", null ],
+      [ "CHARACTER_FLAG_UNK13", "d8/d38/a00926.html#aaba5b1cb73e3834489f98e5f6f0fc6dead6058e570765e54acdb0bad2ccc37cbe", null ],
+      [ "CHARACTER_FLAG_GHOST", "d8/d38/a00926.html#aaba5b1cb73e3834489f98e5f6f0fc6dea5542926bc198b33f9a2bfa3f8e85f59f", null ],
+      [ "CHARACTER_FLAG_RENAME", "d8/d38/a00926.html#aaba5b1cb73e3834489f98e5f6f0fc6deacb51a14db555ce9a87615b0aad13ea9c", null ],
+      [ "CHARACTER_FLAG_UNK16", "d8/d38/a00926.html#aaba5b1cb73e3834489f98e5f6f0fc6dea8e36178c90ba01bda3e3cfb4f0acc26a", null ],
+      [ "CHARACTER_FLAG_UNK17", "d8/d38/a00926.html#aaba5b1cb73e3834489f98e5f6f0fc6dead045598a678f05d5a6e48657a2ff5454", null ],
+      [ "CHARACTER_FLAG_UNK18", "d8/d38/a00926.html#aaba5b1cb73e3834489f98e5f6f0fc6dea52d3c6406ca1ca64d241da3aa0840494", null ],
+      [ "CHARACTER_FLAG_UNK19", "d8/d38/a00926.html#aaba5b1cb73e3834489f98e5f6f0fc6dea20daaff29ba350494a4ac43cb371baa2", null ],
+      [ "CHARACTER_FLAG_UNK20", "d8/d38/a00926.html#aaba5b1cb73e3834489f98e5f6f0fc6dea78d41c1489bfe1594e5b47b53f48dfcc", null ],
+      [ "CHARACTER_FLAG_UNK21", "d8/d38/a00926.html#aaba5b1cb73e3834489f98e5f6f0fc6deaa040a897bd55c5a2bc0cbf54fa598bc0", null ],
+      [ "CHARACTER_FLAG_UNK22", "d8/d38/a00926.html#aaba5b1cb73e3834489f98e5f6f0fc6deaefb3d9df73b012a574c9cd555df01617", null ],
+      [ "CHARACTER_FLAG_UNK23", "d8/d38/a00926.html#aaba5b1cb73e3834489f98e5f6f0fc6dea93ff5e89a80da229bb8bb32c3347c1ec", null ],
+      [ "CHARACTER_FLAG_UNK24", "d8/d38/a00926.html#aaba5b1cb73e3834489f98e5f6f0fc6dea493ef27dbee4dad8aa8d304ad45bff29", null ],
+      [ "CHARACTER_FLAG_LOCKED_BY_BILLING", "d8/d38/a00926.html#aaba5b1cb73e3834489f98e5f6f0fc6deab0f9ad7514233fbaa1def50233bb8bfc", null ],
+      [ "CHARACTER_FLAG_DECLINED", "d8/d38/a00926.html#aaba5b1cb73e3834489f98e5f6f0fc6dea6098faf3414ed441768bb232095b4d7e", null ],
+      [ "CHARACTER_FLAG_UNK27", "d8/d38/a00926.html#aaba5b1cb73e3834489f98e5f6f0fc6dea3ffb56c9015b39dfd2c565a4959847aa", null ],
+      [ "CHARACTER_FLAG_UNK28", "d8/d38/a00926.html#aaba5b1cb73e3834489f98e5f6f0fc6dead435b5efb35339b5235a8122e465ef9e", null ],
+      [ "CHARACTER_FLAG_UNK29", "d8/d38/a00926.html#aaba5b1cb73e3834489f98e5f6f0fc6deace4621701b17986236789bb2b7076e17", null ],
+      [ "CHARACTER_FLAG_UNK30", "d8/d38/a00926.html#aaba5b1cb73e3834489f98e5f6f0fc6dea4403a51ec915d185419571435ae9d4ef", null ],
+      [ "CHARACTER_FLAG_UNK31", "d8/d38/a00926.html#aaba5b1cb73e3834489f98e5f6f0fc6dea6dc33aaf3064bb368a764a60bcb4a6ba", null ],
+      [ "CHARACTER_FLAG_UNK32", "d8/d38/a00926.html#aaba5b1cb73e3834489f98e5f6f0fc6deaf4b59210a530d6a1c19fb816841c2258", null ]
+    ] ],
+    [ "copseReclaimDelay", "d8/d38/a00926.html#abc12a88106c15ea8ca079d4ddcf9c620", null ],
+    [ "runeSlotTypes", "d8/d38/a00926.html#a3c9e0541a7758d9d6e543e883b89d62f", null ]
 ];

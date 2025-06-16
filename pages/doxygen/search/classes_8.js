@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['halaaids_0',['HalaaIds',['../dd/d44/a22487.html',1,'']]],
+  ['halaaids_0',['HalaaIds',['../d0/dfe/a22479.html',1,'']]],
   ['handlertotuple_1',['HandlerToTuple',['../d0/d06/a07503.html',1,'Acore::Impl::ChatCommands']]],
   ['handlertotuple_3c_20bool_28chathandler_20_2a_2c_20ts_2e_2e_2e_29_3e_2',['HandlerToTuple&lt; bool(ChatHandler *, Ts...)&gt;',['../df/d3b/a07507.html',1,'Acore::Impl::ChatCommands']]],
   ['has_5ftype_3',['has_type',['../d6/d63/a05559.html',1,'Acore']]],
@@ -16,7 +16,7 @@ var searchData=
   ['hithandler_13',['HitHandler',['../df/db3/a11235.html',1,'SpellScript']]],
   ['hittriggerspell_14',['HitTriggerSpell',['../de/d87/a11087.html',1,'Spell']]],
   ['hodirhelperdata_15',['HodirHelperData',['../d9/d75/a20107.html',1,'']]],
-  ['holidaysentry_16',['HolidaysEntry',['../d5/d0b/a28135.html',1,'']]],
+  ['holidaysentry_16',['HolidaysEntry',['../dc/de4/a28131.html',1,'']]],
   ['homemovementgenerator_17',['HomeMovementGenerator',['../d7/d40/a09927.html',1,'']]],
   ['homemovementgenerator_3c_20creature_20_3e_18',['HomeMovementGenerator&lt; Creature &gt;',['../d5/d57/a09931.html',1,'']]],
   ['honor_5fcommandscript_19',['honor_commandscript',['../d5/d4a/a11615.html',1,'']]],

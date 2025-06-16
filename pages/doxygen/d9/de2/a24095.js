@@ -1,7 +1,11 @@
 var a24095 =
 [
-    [ "HandleEffectApply", "d9/de2/a24095.html#a362b5b818ab0029956fd22bd10b4b9ac", null ],
-    [ "HandleEffectRemove", "d9/de2/a24095.html#a96769390468dc132df62b5a0ec3a2da4", null ],
-    [ "PrepareAuraScript", "d9/de2/a24095.html#a7bad0d577281829e60c0fb577d6a7d6e", null ],
-    [ "Register", "d9/de2/a24095.html#a95905ec163c42463314a5f5bb023b4d6", null ]
+    [ "npc_invis_infernal_casterAI", "d9/de2/a24095.html#a1188ecc4752d5ab1c2f81602187282f2", null ],
+    [ "Reset", "d9/de2/a24095.html#a05a8d5fd4828d7b1edb3b29ff8a6e61c", null ],
+    [ "SetData", "d9/de2/a24095.html#aee88dc141757384f96da969fcdc20671", null ],
+    [ "SummonInfernal", "d9/de2/a24095.html#a78d53d09e5544b3fe8301da4415d297b", null ],
+    [ "UpdateAI", "d9/de2/a24095.html#a80be204b493768ceb5f5d99d1e81f1b1", null ],
+    [ "events", "d9/de2/a24095.html#aab7aca330ae36dd2de7761984dd2a0a3", null ],
+    [ "ground", "d9/de2/a24095.html#a4c943d67b25d7c9f4ac6f16d96bbbc4f", null ],
+    [ "infernalGUID", "d9/de2/a24095.html#a5619136f90c181ecf3e4389bc2fcdafc", null ]
 ];

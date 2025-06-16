@@ -1,7 +1,6 @@
 var a04457 =
 [
-    [ "EnumText", "d6/d94/a05479.html", "d6/d94/a05479" ],
-    [ "Acore::Impl::EnumUtilsImpl::EnumUtils< Enum >", "d1/d27/a05483.html", "d1/d27/a05483" ],
-    [ "EnumUtils", "d6/ddb/a05487.html", "d6/ddb/a05487" ],
-    [ "EnumUtils::Iterator< Enum >", "df/d51/a05491.html", "df/d51/a05491" ]
+    [ "VMAP::LocationInfo", "d1/da2/a04991.html", "d1/da2/a04991" ],
+    [ "VMAP::StaticMapTree", "d6/d54/a04995.html", "d6/d54/a04995" ],
+    [ "VMAP::AreaInfo", "d9/d7c/a04999.html", "d9/d7c/a04999" ]
 ];

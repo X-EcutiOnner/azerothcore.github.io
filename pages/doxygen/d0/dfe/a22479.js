@@ -1,5 +1,4 @@
 var a22479 =
 [
-    [ "OutdoorPvP_nagrand", "d0/dfe/a22479.html#ac6e0f41eafb915604bd1b1d84e915f87", null ],
-    [ "GetOutdoorPvP", "d0/dfe/a22479.html#ae8ce0bf210e2be8229b9ac4d8615b058", null ]
+    [ "idPatrol", "d0/dfe/a22479.html#a1fbc40a9798b89ae8b903b1f5a6a8e67", null ]
 ];

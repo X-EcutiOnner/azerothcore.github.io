@@ -1,4 +1,5 @@
 var a01085 =
 [
-    [ "ScriptRegistry< AllCreatureScript >", "d2/df3/a01085.html#a1fdf1f4f0e165d771b9e1e9064529256", null ]
+    [ "AddonHandler", "d7/dfc/a09543.html", "d7/dfc/a09543" ],
+    [ "sAddOnHandler", "d2/df3/a01085.html#a53c18d341aaa47d117be75333e4ab43d", null ]
 ];

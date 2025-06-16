@@ -1,6 +1,6 @@
 var a23739 =
 [
-    [ "HandlePeriodic", "db/d32/a23739.html#ad47e8edce33f9b923aa7bbfe8d0c082a", null ],
-    [ "PrepareAuraScript", "db/d32/a23739.html#a2aa04c3c08ffc15b481b740d88a54918", null ],
-    [ "Register", "db/d32/a23739.html#acf77c76f02671da215c7103b60ed77ac", null ]
+    [ "OnApply", "db/d32/a23739.html#a472220f22165c6d21eab5f4b5f75921e", null ],
+    [ "PrepareAuraScript", "db/d32/a23739.html#a12dba24d5aa3d41671980d8dd509d6f2", null ],
+    [ "Register", "db/d32/a23739.html#aa8530071a4053e6c6f8b194a9cc723e2", null ]
 ];

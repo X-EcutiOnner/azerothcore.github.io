@@ -1,6 +1,8 @@
 var a22215 =
 [
-    [ "npc_wild_wyrmAI", "d1/d38/a22219.html", "d1/d38/a22219" ],
-    [ "npc_wild_wyrm", "d6/d0e/a22215.html#abce8c3a368e75b4be5e05381f9eb722b", null ],
-    [ "GetAI", "d6/d0e/a22215.html#aedba91446fe12997047070f123d925d2", null ]
+    [ "AfterRemove", "d6/d0e/a22215.html#a06fd72c7754f34dbc62a99a9ed839302", null ],
+    [ "HandlePeriodic", "d6/d0e/a22215.html#a5aaadeed42e6a3cf1e2216a13c2d3ff9", null ],
+    [ "OnApply", "d6/d0e/a22215.html#a6617555d302923e5e95e7b1c6d8d74d6", null ],
+    [ "PrepareAuraScript", "d6/d0e/a22215.html#a47a6281c42dc9368357cc86912331c77", null ],
+    [ "Register", "d6/d0e/a22215.html#a868c79cda98b97b27b74d46f86cb980a", null ]
 ];

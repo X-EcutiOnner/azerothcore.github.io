@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/apps/authserver/Authentication/AuthCodes.h File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/scripts/Spells/spell_paladin.cpp File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,325 +105,470 @@ $(document).ready(function(){initNavTree('d1/d39/a02048.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#namespaces">Namespaces</a> &#124;
+<a href="#nested-classes">Classes</a> &#124;
 <a href="#enum-members">Enumerations</a> &#124;
 <a href="#func-members">Functions</a>  </div>
-  <div class="headertitle"><div class="title">AuthCodes.h File Reference</div></div>
+  <div class="headertitle"><div class="title">spell_paladin.cpp File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">Define.h</a>&quot;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">Group.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Player.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">SpellAuraEffects.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">SpellMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">SpellScript.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">SpellScriptLoader.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">UnitAI.h</a>&quot;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="namespaces" name="namespaces"></a>
-Namespaces</h2></td></tr>
-<tr class="memitem:d2/df3/a04787"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/df3/a04787.html">AuthHelper</a></td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
+Classes</h2></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/da1/a26007.html">spell_pal_seal_of_command_aura</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d44/a26011.html">spell_pal_seal_of_command</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d86/a26015.html">spell_pal_divine_intervention</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dd8/a26019.html">spell_pal_seal_of_light</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/df0/a26023.html">spell_pal_sacred_shield_base</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/dda/a26027.html">spell_pal_ardent_defender</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d2c/a26031.html">spell_pal_avenging_wrath</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dc1/a26035.html">spell_pal_blessing_of_faith</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dbc/a26039.html">spell_pal_blessing_of_sanctuary</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d88/a26043.html">spell_pal_divine_sacrifice</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d3c/a26047.html">spell_pal_divine_storm</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d2f/a26051.html">spell_pal_divine_storm_dummy</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dd3/a26055.html">spell_pal_exorcism_and_holy_wrath_damage</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d4b/a26059.html">spell_pal_eye_for_an_eye</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d1f/a26063.html">spell_pal_glyph_of_holy_light</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d96/a26067.html">spell_pal_guarded_by_the_light</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d9c/a26071.html">spell_pal_hand_of_sacrifice_aura</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d29/a26075.html">spell_pal_hand_of_sacrifice</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d14/a26079.html">spell_pal_hand_of_salvation</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/def/a26083.html">spell_pal_holy_shock</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d57/a26087.html">spell_pal_judgement</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d74/a26091.html">spell_pal_judgement_of_command</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d04/a26095.html">spell_pal_lay_on_hands</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dc7/a26099.html">spell_pal_righteous_defense</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dd5/a26103.html">spell_pal_seal_of_righteousness</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d80/a26107.html">spell_pal_seal_of_vengeance</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/dba/a26111.html">spell_pal_hand_of_protection</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
 Enumerations</h2></td></tr>
-<tr class="memitem:a87ba9bd5edfd749f4729620dbadd5fce"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d39/a02048.html#a87ba9bd5edfd749f4729620dbadd5fce">AuthResult</a> { <br />
-&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#a87ba9bd5edfd749f4729620dbadd5fcea17cfb08be7c0da21b3a4ec0fb76ed688">WOW_SUCCESS</a> = 0x00
+<tr class="memitem:a0d9fc6ef3866d56692ca47a1a36dc997"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997">PaladinSpells</a> { <br />
+&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997a90b8d4b96753977c3a37a7c3f52eb930">SPELL_PALADIN_DIVINE_PLEA</a> = 54428
 , <br />
-&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#a87ba9bd5edfd749f4729620dbadd5fcea550e2d0697129df245f04a9c28454630">WOW_FAIL_BANNED</a> = 0x03
+&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997a42570eacd4fc3c86a6095f906b2ff011">SPELL_PALADIN_BLESSING_OF_SANCTUARY_BUFF</a> = 67480
 , <br />
-&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#a87ba9bd5edfd749f4729620dbadd5fcea4614f07045c585583364e857c3421114">WOW_FAIL_UNKNOWN_ACCOUNT</a> = 0x04
+&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997ab78c206cdfd6c33856eae4f43043c84f">SPELL_PALADIN_BLESSING_OF_SANCTUARY_ENERGIZE</a> = 57319
 , <br />
-&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#a87ba9bd5edfd749f4729620dbadd5fcea435627e6ceddf5214798b0ffee9379f3">WOW_FAIL_INCORRECT_PASSWORD</a> = 0x05
+&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997af4bfe8574c1cf0f1c342e05fea2f232a">SPELL_PALADIN_HOLY_SHOCK_R1</a> = 20473
 , <br />
-&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#a87ba9bd5edfd749f4729620dbadd5fcea71848ab60dcf958e95af1caaa1060a5c">WOW_FAIL_ALREADY_ONLINE</a> = 0x06
+&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997a025899e97617212364a7bf3174d200de">SPELL_PALADIN_HOLY_SHOCK_R1_DAMAGE</a> = 25912
 , <br />
-&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#a87ba9bd5edfd749f4729620dbadd5fceac6b47ed0785815782ffcaa9ddcc61f34">WOW_FAIL_NO_TIME</a> = 0x07
+&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997a102ddef0ca316849f71ab2776c431507">SPELL_PALADIN_HOLY_SHOCK_R1_HEALING</a> = 25914
 , <br />
-&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#a87ba9bd5edfd749f4729620dbadd5fcea8a6d51e1086aa22c9409807b01e8db96">WOW_FAIL_DB_BUSY</a> = 0x08
+&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997a8784d668b3811647b8d6e75527795dca">SPELL_PALADIN_BLESSING_OF_LOWER_CITY_DRUID</a> = 37878
 , <br />
-&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#a87ba9bd5edfd749f4729620dbadd5fceaf7e9abc937534a7f909fcb07b744942d">WOW_FAIL_VERSION_INVALID</a> = 0x09
+&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997a87098532674dfee7cbec4eb68f137c7a">SPELL_PALADIN_BLESSING_OF_LOWER_CITY_PALADIN</a> = 37879
 , <br />
-&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#a87ba9bd5edfd749f4729620dbadd5fcea6ff71ce07c1a0c0d5321d82cd9803aae">WOW_FAIL_VERSION_UPDATE</a> = 0x0A
+&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997ac7ce94f95589a1fd9de8b2fd940c2554">SPELL_PALADIN_BLESSING_OF_LOWER_CITY_PRIEST</a> = 37880
 , <br />
-&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#a87ba9bd5edfd749f4729620dbadd5fceae2aacd0fb4634fa66489baa619e4955d">WOW_FAIL_INVALID_SERVER</a> = 0x0B
+&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997a78a441de6d3c3b036bb89494d0eef94c">SPELL_PALADIN_BLESSING_OF_LOWER_CITY_SHAMAN</a> = 37881
 , <br />
-&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#a87ba9bd5edfd749f4729620dbadd5fcea2686cc24f58e96f7956d5d6ef9f18e04">WOW_FAIL_SUSPENDED</a> = 0x0C
+&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997adeab8bca6bc061ff58205ba827f7be2a">SPELL_PALADIN_DIVINE_STORM</a> = 53385
 , <br />
-&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#a87ba9bd5edfd749f4729620dbadd5fcea7335fc931139834357fb93d3fdde0ee8">WOW_FAIL_FAIL_NOACCESS</a> = 0x0D
+&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997abe8a72d828e14bfb019987f642bfb57b">SPELL_PALADIN_DIVINE_STORM_DUMMY</a> = 54171
 , <br />
-&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#a87ba9bd5edfd749f4729620dbadd5fcea664860e55648321e7ef00ffd2b26013a">WOW_SUCCESS_SURVEY</a> = 0x0E
+&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997ad4b43b320120743ea433fa50c19e321a">SPELL_PALADIN_DIVINE_STORM_HEAL</a> = 54172
 , <br />
-&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#a87ba9bd5edfd749f4729620dbadd5fcea5e8d5fb949ecfd0cafdc81cee3b7f81d">WOW_FAIL_PARENTCONTROL</a> = 0x0F
+&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997a5208edfecb44364d889b3a2077b03610">SPELL_PALADIN_EYE_FOR_AN_EYE_DAMAGE</a> = 25997
 , <br />
-&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#a87ba9bd5edfd749f4729620dbadd5fcea18dcd4a3797de3f107178a0a6d6389b3">WOW_FAIL_LOCKED_ENFORCED</a> = 0x10
+&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997a9e95c58cacee6e93d45b58d780f6cbc1">SPELL_PALADIN_FORBEARANCE</a> = 25771
 , <br />
-&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#a87ba9bd5edfd749f4729620dbadd5fcea22f7a1ff157487225ffc1261a977a3a6">WOW_FAIL_TRIAL_ENDED</a> = 0x11
+&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997a3edca6d5e38d251f2304f57452f20db6">SPELL_PALADIN_AVENGING_WRATH_MARKER</a> = 61987
 , <br />
-&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#a87ba9bd5edfd749f4729620dbadd5fcea8ed1410eefb917a04764590ea82b447c">WOW_FAIL_USE_BATTLENET</a> = 0x12
+&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997ab186496ea740e2f5f7a43e8cb9ad3332">SPELL_PALADIN_IMMUNE_SHIELD_MARKER</a> = 61988
 , <br />
-&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#a87ba9bd5edfd749f4729620dbadd5fcea6a965940cfced1a61d60b74e87f083c3">WOW_FAIL_ANTI_INDULGENCE</a> = 0x13
+&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997aa7f1722c04bf111b33fd255860eb28ee">SPELL_PALADIN_HAND_OF_SACRIFICE</a> = 6940
 , <br />
-&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#a87ba9bd5edfd749f4729620dbadd5fceaaa299fabdc18e5c6c89cf53c18f039b9">WOW_FAIL_EXPIRED</a> = 0x14
+&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997a1d0092615ebcf819786174669b07e310">SPELL_PALADIN_DIVINE_SACRIFICE</a> = 64205
 , <br />
-&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#a87ba9bd5edfd749f4729620dbadd5fcea3fc06700ec90ca46aa67b5b0d5facfdf">WOW_FAIL_NO_GAME_ACCOUNT</a> = 0x15
+&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997a7996ccbd740716b0ed0638d9d6f6f2f5">SPELL_PALADIN_JUDGEMENT_DAMAGE</a> = 54158
 , <br />
-&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#a87ba9bd5edfd749f4729620dbadd5fcea38ff8e9b9d3dee3d43ab419735a83a05">WOW_FAIL_CHARGEBACK</a> = 0x16
+&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997ac0d213e9b3f3961d0eee5bedc3cfa7b5">SPELL_PALADIN_JUDGEMENT_OF_JUSTICE</a> = 20184
 , <br />
-&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#a87ba9bd5edfd749f4729620dbadd5fceaa30377fa80b0edb3b9826f7294c009d9">WOW_FAIL_INTERNET_GAME_ROOM_WITHOUT_BNET</a> = 0x17
+&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997ad19416dd5cf9361a11a5e31a7db8e4ac">SPELL_PALADIN_JUDGEMENT_OF_LIGHT</a> = 20185
 , <br />
-&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#a87ba9bd5edfd749f4729620dbadd5fcea3cb53338783b02f6f4adbd6d4cf8de55">WOW_FAIL_GAME_ACCOUNT_LOCKED</a> = 0x18
+&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997adf2f861d24f3b72f6b19d18448464317">SPELL_PALADIN_JUDGEMENT_OF_WISDOM</a> = 20186
 , <br />
-&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#a87ba9bd5edfd749f4729620dbadd5fceaa49aaf129ee38c581c43adac5e0dc47e">WOW_FAIL_UNLOCKABLE_LOCK</a> = 0x19
+&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997ad226fe296b9beba4249f9167cb077ded">SPELL_PALADIN_GLYPH_OF_SALVATION</a> = 63225
 , <br />
-&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#a87ba9bd5edfd749f4729620dbadd5fceaa57c56a0afc1fe774f661feddaaa1739">WOW_FAIL_CONVERSION_REQUIRED</a> = 0x20
+&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997a8d2e9c77e658d9208f978dd55aa92e2d">SPELL_PALADIN_RIGHTEOUS_DEFENSE_TAUNT</a> = 31790
 , <br />
-&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#a87ba9bd5edfd749f4729620dbadd5fcea45adfe6f21bb136d789120fb4ade5d65">WOW_FAIL_DISCONNECTED</a> = 0xFF
+&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997a3762b7f5c61c1ea510b9f5ed982f4259">SPELL_PALADIN_SANCTIFIED_WRATH</a> = 57318
+, <br />
+&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997a31e4829b98bcf66572027a5a66196b50">SPELL_PALADIN_SANCTIFIED_WRATH_TALENT_R1</a> = 53375
+, <br />
+&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997a838fe12702dda38a84230bec6ce2b931">SPELL_PALADIN_SEAL_OF_RIGHTEOUSNESS</a> = 25742
+, <br />
+&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997a9e68b448e59e19457cdd35ba5f94fdf5">SPELL_PALADIN_CONCENTRACTION_AURA</a> = 19746
+, <br />
+&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997a90a5d2b7327d3b1e72ac8b7731299938">SPELL_PALADIN_SANCTIFIED_RETRIBUTION_R1</a> = 31869
+, <br />
+&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997ab6aa4b3a2cb3fc10973d44b2f9cbf117">SPELL_PALADIN_SWIFT_RETRIBUTION_R1</a> = 53379
+, <br />
+&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997a627e056f1e358280c4dc2228d5ddbfb9">SPELL_PALADIN_IMPROVED_CONCENTRACTION_AURA</a> = 63510
+, <br />
+&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997ac019ade4907151f471f3c55bcb638814">SPELL_PALADIN_IMPROVED_DEVOTION_AURA</a> = 63514
+, <br />
+&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997a24fa5c0890d964f26e1b616b498693f5">SPELL_PALADIN_SANCTIFIED_RETRIBUTION_AURA</a> = 63531
+, <br />
+&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997a068a5d12032c28a6abdcf144964077e9">SPELL_PALADIN_AURA_MASTERY_IMMUNE</a> = 64364
+, <br />
+&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997ab45849c2d9dd8159716148da84cd14dd">SPELL_JUDGEMENTS_OF_THE_JUST</a> = 68055
+, <br />
+&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997ae0d41f174ff2a7de11777c3692560e20">SPELL_JUDGEMENT_OF_VENGEANCE_EFFECT</a> = 31804
+, <br />
+&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997a3ac6f0e5ffa3f5d39ba9c6fe13cb7f37">SPELL_HOLY_VENGEANCE</a> = 31803
+, <br />
+&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997abfb3ebc9575cb371cb968052f029534e">SPELL_JUDGEMENT_OF_CORRUPTION_EFFECT</a> = 53733
+, <br />
+&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997aef13de7305034f841aaf427f32b5926b">SPELL_BLOOD_CORRUPTION</a> = 53742
+, <br />
+&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997a60a12ecf7b0c16a82500a97110ff35f0">SPELL_GENERIC_ARENA_DAMPENING</a> = 74410
+, <br />
+&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997af1c99f5067e5ef0ef1fb7f96bd317bf4">SPELL_GENERIC_BATTLEGROUND_DAMPENING</a> = 74411
+, <br />
+&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997a8797d61ee5f61c06887d57564aa5aa1d">SPELL_IMPROVED_JUDGEMENT</a> = 37188
+, <br />
+&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997ae18f09f0b0f9822f06e5b1f5cfb646eb">SPELL_IMPROVED_JUDGEMENT_ENERGIZE</a> = 43838
+, <br />
+&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997aa04478bfbd9088482d32a2b9be1baf68">SPELL_PALADIN_HOLY_VENGEANCE</a> = 31803
+, <br />
+&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997aab5e92129a532ae938e29dec3ac9119f">SPELL_PALADIN_BLOOD_CORRUPTION</a> = 53742
+, <br />
+&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997a17a5199969f77714058e81d1fb044dd6">SPELL_PALADIN_SEAL_OF_VENGEANCE_EFFECT</a> = 42463
+, <br />
+&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997a5db1f4deefccd6b5e2bef81f44b801a9">SPELL_PALADIN_SEAL_OF_CORRUPTION_EFFECT</a> = 53739
 <br />
  }</td></tr>
-<tr class="separator:a87ba9bd5edfd749f4729620dbadd5fce"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a3b6904b8a00ed8f7a67396dee6e9aef5"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d39/a02048.html#a3b6904b8a00ed8f7a67396dee6e9aef5">LoginResult</a> { <br />
-&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#a3b6904b8a00ed8f7a67396dee6e9aef5a9da8cbfbe2c1a4f3ebd3d44a961adabb">LOGIN_OK</a> = 0x00
-, <br />
-&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#a3b6904b8a00ed8f7a67396dee6e9aef5ad57e6995e0b5105bfeb9bde15ed0a7a0">LOGIN_FAILED</a> = 0x01
-, <br />
-&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#a3b6904b8a00ed8f7a67396dee6e9aef5a501cd3d3224142afdb0ddd84933f7b56">LOGIN_FAILED2</a> = 0x02
-, <br />
-&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#a3b6904b8a00ed8f7a67396dee6e9aef5abd5993385d5cc24dd420523a27166005">LOGIN_BANNED</a> = 0x03
-, <br />
-&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#a3b6904b8a00ed8f7a67396dee6e9aef5a09d810ee618be6b94e3f65997504e6b3">LOGIN_UNKNOWN_ACCOUNT</a> = 0x04
-, <br />
-&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#a3b6904b8a00ed8f7a67396dee6e9aef5a9cd182cb4b751e7fb72928ec376b15bc">LOGIN_UNKNOWN_ACCOUNT3</a> = 0x05
-, <br />
-&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#a3b6904b8a00ed8f7a67396dee6e9aef5a9a53be7e776883d12703dcbb4ed651e5">LOGIN_ALREADYONLINE</a> = 0x06
-, <br />
-&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#a3b6904b8a00ed8f7a67396dee6e9aef5a2ce8ce1e836148b73775ad265ab0f342">LOGIN_NOTIME</a> = 0x07
-, <br />
-&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#a3b6904b8a00ed8f7a67396dee6e9aef5af4f0024867276f532e675c24aadcfce8">LOGIN_DBBUSY</a> = 0x08
-, <br />
-&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#a3b6904b8a00ed8f7a67396dee6e9aef5ae585e165f05e752918e316544b78a91c">LOGIN_BADVERSION</a> = 0x09
-, <br />
-&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#a3b6904b8a00ed8f7a67396dee6e9aef5a37d9b65d118199e570e0dbfc227bd309">LOGIN_DOWNLOAD_FILE</a> = 0x0A
-, <br />
-&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#a3b6904b8a00ed8f7a67396dee6e9aef5af97075f074e84f11375e22e912235aa3">LOGIN_FAILED3</a> = 0x0B
-, <br />
-&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#a3b6904b8a00ed8f7a67396dee6e9aef5a401d988d19cea26726562ab92417060b">LOGIN_SUSPENDED</a> = 0x0C
-, <br />
-&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#a3b6904b8a00ed8f7a67396dee6e9aef5a09338db3247d56c3cc7e41d4de1ed06e">LOGIN_FAILED4</a> = 0x0D
-, <br />
-&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#a3b6904b8a00ed8f7a67396dee6e9aef5a1bbff3f5057ee056e293eb7ca46968ae">LOGIN_CONNECTED</a> = 0x0E
-, <br />
-&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#a3b6904b8a00ed8f7a67396dee6e9aef5afcb2d09c101442419ef3262095e9b860">LOGIN_PARENTALCONTROL</a> = 0x0F
-, <br />
-&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#a3b6904b8a00ed8f7a67396dee6e9aef5a683788d94491faa7b0ce45a64e0a2c02">LOGIN_LOCKED_ENFORCED</a> = 0x10
-<br />
+<tr class="separator:a0d9fc6ef3866d56692ca47a1a36dc997"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afcd3af8358f8e093e96dc37cd9caba75"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d39/a02048.html#afcd3af8358f8e093e96dc37cd9caba75">PaladinSpellIcons</a> { <a class="el" href="../../d1/d39/a02048.html#afcd3af8358f8e093e96dc37cd9caba75a4846eaf42f17564133602bfaefc563d7">PALADIN_ICON_ID_RETRIBUTION_AURA</a> = 555
  }</td></tr>
-<tr class="separator:a3b6904b8a00ed8f7a67396dee6e9aef5"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa4677c9d14c49d7eb90bf81f278756e2"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d39/a02048.html#aa4677c9d14c49d7eb90bf81f278756e2">ExpansionFlags</a> { <br />
-&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#aa4677c9d14c49d7eb90bf81f278756e2ac848c9323f3ff5625ac2122c586c09bb">POST_BC_EXP_FLAG</a> = 0x2
-, <br />
-&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#aa4677c9d14c49d7eb90bf81f278756e2aeee886490e199b04b3ef987de2fefb64">PRE_BC_EXP_FLAG</a> = 0x1
-, <br />
-&#160;&#160;<a class="el" href="../../d1/d39/a02048.html#aa4677c9d14c49d7eb90bf81f278756e2ad8e812d2ea9331912047df7fce86831d">NO_VALID_EXP_FLAG</a> = 0x0
-<br />
- }</td></tr>
-<tr class="separator:aa4677c9d14c49d7eb90bf81f278756e2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="separator:afcd3af8358f8e093e96dc37cd9caba75"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:a50a906b5a3fdca3508aee0997881a717"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/df3/a04787.html#a50a906b5a3fdca3508aee0997881a717">AuthHelper::IsAcceptedClientBuild</a> (<a class="el" href="../../da/d71/a04649.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> build)</td></tr>
-<tr class="separator:a50a906b5a3fdca3508aee0997881a717"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad4f22daf9d88367d90d92416f470a28c"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/df3/a04787.html#ad4f22daf9d88367d90d92416f470a28c">AuthHelper::IsPostBCAcceptedClientBuild</a> (<a class="el" href="../../da/d71/a04649.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> build)</td></tr>
-<tr class="separator:ad4f22daf9d88367d90d92416f470a28c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a96896fc9dad2c304f681a24776f6726b"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/df3/a04787.html#a96896fc9dad2c304f681a24776f6726b">AuthHelper::IsPreBCAcceptedClientBuild</a> (<a class="el" href="../../da/d71/a04649.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> build)</td></tr>
-<tr class="separator:a96896fc9dad2c304f681a24776f6726b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1b3a1eb790e51c96829e92e5c922f437"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d39/a02048.html#a1b3a1eb790e51c96829e92e5c922f437">AddSC_paladin_spell_scripts</a> ()</td></tr>
+<tr class="separator:a1b3a1eb790e51c96829e92e5c922f437"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Enumeration Type Documentation</h2>
-<a id="a87ba9bd5edfd749f4729620dbadd5fce" name="a87ba9bd5edfd749f4729620dbadd5fce"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a87ba9bd5edfd749f4729620dbadd5fce">&#9670;&#160;</a></span>AuthResult</h2>
+<a id="afcd3af8358f8e093e96dc37cd9caba75" name="afcd3af8358f8e093e96dc37cd9caba75"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#afcd3af8358f8e093e96dc37cd9caba75">&#9670;&#160;</a></span>PaladinSpellIcons</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">enum <a class="el" href="../../d1/d39/a02048.html#a87ba9bd5edfd749f4729620dbadd5fce">AuthResult</a></td>
+          <td class="memname">enum <a class="el" href="../../d1/d39/a02048.html#afcd3af8358f8e093e96dc37cd9caba75">PaladinSpellIcons</a></td>
         </tr>
       </table>
 </div><div class="memdoc">
 <table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a87ba9bd5edfd749f4729620dbadd5fcea17cfb08be7c0da21b3a4ec0fb76ed688" name="a87ba9bd5edfd749f4729620dbadd5fcea17cfb08be7c0da21b3a4ec0fb76ed688"></a>WOW_SUCCESS&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a87ba9bd5edfd749f4729620dbadd5fcea550e2d0697129df245f04a9c28454630" name="a87ba9bd5edfd749f4729620dbadd5fcea550e2d0697129df245f04a9c28454630"></a>WOW_FAIL_BANNED&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a87ba9bd5edfd749f4729620dbadd5fcea4614f07045c585583364e857c3421114" name="a87ba9bd5edfd749f4729620dbadd5fcea4614f07045c585583364e857c3421114"></a>WOW_FAIL_UNKNOWN_ACCOUNT&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a87ba9bd5edfd749f4729620dbadd5fcea435627e6ceddf5214798b0ffee9379f3" name="a87ba9bd5edfd749f4729620dbadd5fcea435627e6ceddf5214798b0ffee9379f3"></a>WOW_FAIL_INCORRECT_PASSWORD&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a87ba9bd5edfd749f4729620dbadd5fcea71848ab60dcf958e95af1caaa1060a5c" name="a87ba9bd5edfd749f4729620dbadd5fcea71848ab60dcf958e95af1caaa1060a5c"></a>WOW_FAIL_ALREADY_ONLINE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a87ba9bd5edfd749f4729620dbadd5fceac6b47ed0785815782ffcaa9ddcc61f34" name="a87ba9bd5edfd749f4729620dbadd5fceac6b47ed0785815782ffcaa9ddcc61f34"></a>WOW_FAIL_NO_TIME&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a87ba9bd5edfd749f4729620dbadd5fcea8a6d51e1086aa22c9409807b01e8db96" name="a87ba9bd5edfd749f4729620dbadd5fcea8a6d51e1086aa22c9409807b01e8db96"></a>WOW_FAIL_DB_BUSY&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a87ba9bd5edfd749f4729620dbadd5fceaf7e9abc937534a7f909fcb07b744942d" name="a87ba9bd5edfd749f4729620dbadd5fceaf7e9abc937534a7f909fcb07b744942d"></a>WOW_FAIL_VERSION_INVALID&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a87ba9bd5edfd749f4729620dbadd5fcea6ff71ce07c1a0c0d5321d82cd9803aae" name="a87ba9bd5edfd749f4729620dbadd5fcea6ff71ce07c1a0c0d5321d82cd9803aae"></a>WOW_FAIL_VERSION_UPDATE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a87ba9bd5edfd749f4729620dbadd5fceae2aacd0fb4634fa66489baa619e4955d" name="a87ba9bd5edfd749f4729620dbadd5fceae2aacd0fb4634fa66489baa619e4955d"></a>WOW_FAIL_INVALID_SERVER&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a87ba9bd5edfd749f4729620dbadd5fcea2686cc24f58e96f7956d5d6ef9f18e04" name="a87ba9bd5edfd749f4729620dbadd5fcea2686cc24f58e96f7956d5d6ef9f18e04"></a>WOW_FAIL_SUSPENDED&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a87ba9bd5edfd749f4729620dbadd5fcea7335fc931139834357fb93d3fdde0ee8" name="a87ba9bd5edfd749f4729620dbadd5fcea7335fc931139834357fb93d3fdde0ee8"></a>WOW_FAIL_FAIL_NOACCESS&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a87ba9bd5edfd749f4729620dbadd5fcea664860e55648321e7ef00ffd2b26013a" name="a87ba9bd5edfd749f4729620dbadd5fcea664860e55648321e7ef00ffd2b26013a"></a>WOW_SUCCESS_SURVEY&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a87ba9bd5edfd749f4729620dbadd5fcea5e8d5fb949ecfd0cafdc81cee3b7f81d" name="a87ba9bd5edfd749f4729620dbadd5fcea5e8d5fb949ecfd0cafdc81cee3b7f81d"></a>WOW_FAIL_PARENTCONTROL&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a87ba9bd5edfd749f4729620dbadd5fcea18dcd4a3797de3f107178a0a6d6389b3" name="a87ba9bd5edfd749f4729620dbadd5fcea18dcd4a3797de3f107178a0a6d6389b3"></a>WOW_FAIL_LOCKED_ENFORCED&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a87ba9bd5edfd749f4729620dbadd5fcea22f7a1ff157487225ffc1261a977a3a6" name="a87ba9bd5edfd749f4729620dbadd5fcea22f7a1ff157487225ffc1261a977a3a6"></a>WOW_FAIL_TRIAL_ENDED&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a87ba9bd5edfd749f4729620dbadd5fcea8ed1410eefb917a04764590ea82b447c" name="a87ba9bd5edfd749f4729620dbadd5fcea8ed1410eefb917a04764590ea82b447c"></a>WOW_FAIL_USE_BATTLENET&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a87ba9bd5edfd749f4729620dbadd5fcea6a965940cfced1a61d60b74e87f083c3" name="a87ba9bd5edfd749f4729620dbadd5fcea6a965940cfced1a61d60b74e87f083c3"></a>WOW_FAIL_ANTI_INDULGENCE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a87ba9bd5edfd749f4729620dbadd5fceaaa299fabdc18e5c6c89cf53c18f039b9" name="a87ba9bd5edfd749f4729620dbadd5fceaaa299fabdc18e5c6c89cf53c18f039b9"></a>WOW_FAIL_EXPIRED&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a87ba9bd5edfd749f4729620dbadd5fcea3fc06700ec90ca46aa67b5b0d5facfdf" name="a87ba9bd5edfd749f4729620dbadd5fcea3fc06700ec90ca46aa67b5b0d5facfdf"></a>WOW_FAIL_NO_GAME_ACCOUNT&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a87ba9bd5edfd749f4729620dbadd5fcea38ff8e9b9d3dee3d43ab419735a83a05" name="a87ba9bd5edfd749f4729620dbadd5fcea38ff8e9b9d3dee3d43ab419735a83a05"></a>WOW_FAIL_CHARGEBACK&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a87ba9bd5edfd749f4729620dbadd5fceaa30377fa80b0edb3b9826f7294c009d9" name="a87ba9bd5edfd749f4729620dbadd5fceaa30377fa80b0edb3b9826f7294c009d9"></a>WOW_FAIL_INTERNET_GAME_ROOM_WITHOUT_BNET&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a87ba9bd5edfd749f4729620dbadd5fcea3cb53338783b02f6f4adbd6d4cf8de55" name="a87ba9bd5edfd749f4729620dbadd5fcea3cb53338783b02f6f4adbd6d4cf8de55"></a>WOW_FAIL_GAME_ACCOUNT_LOCKED&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a87ba9bd5edfd749f4729620dbadd5fceaa49aaf129ee38c581c43adac5e0dc47e" name="a87ba9bd5edfd749f4729620dbadd5fceaa49aaf129ee38c581c43adac5e0dc47e"></a>WOW_FAIL_UNLOCKABLE_LOCK&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a87ba9bd5edfd749f4729620dbadd5fceaa57c56a0afc1fe774f661feddaaa1739" name="a87ba9bd5edfd749f4729620dbadd5fceaa57c56a0afc1fe774f661feddaaa1739"></a>WOW_FAIL_CONVERSION_REQUIRED&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a87ba9bd5edfd749f4729620dbadd5fcea45adfe6f21bb136d789120fb4ade5d65" name="a87ba9bd5edfd749f4729620dbadd5fcea45adfe6f21bb136d789120fb4ade5d65"></a>WOW_FAIL_DISCONNECTED&#160;</td><td class="fielddoc"></td></tr>
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="afcd3af8358f8e093e96dc37cd9caba75a4846eaf42f17564133602bfaefc563d7" name="afcd3af8358f8e093e96dc37cd9caba75a4846eaf42f17564133602bfaefc563d7"></a>PALADIN_ICON_ID_RETRIBUTION_AURA&#160;</td><td class="fielddoc"></td></tr>
 </table>
-<div class="fragment"><div class="line"><span class="lineno">   24</span>{</div>
-<div class="line"><span class="lineno">   25</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a87ba9bd5edfd749f4729620dbadd5fcea17cfb08be7c0da21b3a4ec0fb76ed688">WOW_SUCCESS</a>                                  = 0x00,</div>
-<div class="line"><span class="lineno">   26</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a87ba9bd5edfd749f4729620dbadd5fcea550e2d0697129df245f04a9c28454630">WOW_FAIL_BANNED</a>                              = 0x03,</div>
-<div class="line"><span class="lineno">   27</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a87ba9bd5edfd749f4729620dbadd5fcea4614f07045c585583364e857c3421114">WOW_FAIL_UNKNOWN_ACCOUNT</a>                     = 0x04,</div>
-<div class="line"><span class="lineno">   28</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a87ba9bd5edfd749f4729620dbadd5fcea435627e6ceddf5214798b0ffee9379f3">WOW_FAIL_INCORRECT_PASSWORD</a>                  = 0x05,</div>
-<div class="line"><span class="lineno">   29</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a87ba9bd5edfd749f4729620dbadd5fcea71848ab60dcf958e95af1caaa1060a5c">WOW_FAIL_ALREADY_ONLINE</a>                      = 0x06,</div>
-<div class="line"><span class="lineno">   30</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a87ba9bd5edfd749f4729620dbadd5fceac6b47ed0785815782ffcaa9ddcc61f34">WOW_FAIL_NO_TIME</a>                             = 0x07,</div>
-<div class="line"><span class="lineno">   31</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a87ba9bd5edfd749f4729620dbadd5fcea8a6d51e1086aa22c9409807b01e8db96">WOW_FAIL_DB_BUSY</a>                             = 0x08,</div>
-<div class="line"><span class="lineno">   32</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a87ba9bd5edfd749f4729620dbadd5fceaf7e9abc937534a7f909fcb07b744942d">WOW_FAIL_VERSION_INVALID</a>                     = 0x09,</div>
-<div class="line"><span class="lineno">   33</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a87ba9bd5edfd749f4729620dbadd5fcea6ff71ce07c1a0c0d5321d82cd9803aae">WOW_FAIL_VERSION_UPDATE</a>                      = 0x0A,</div>
-<div class="line"><span class="lineno">   34</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a87ba9bd5edfd749f4729620dbadd5fceae2aacd0fb4634fa66489baa619e4955d">WOW_FAIL_INVALID_SERVER</a>                      = 0x0B,</div>
-<div class="line"><span class="lineno">   35</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a87ba9bd5edfd749f4729620dbadd5fcea2686cc24f58e96f7956d5d6ef9f18e04">WOW_FAIL_SUSPENDED</a>                           = 0x0C,</div>
-<div class="line"><span class="lineno">   36</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a87ba9bd5edfd749f4729620dbadd5fcea7335fc931139834357fb93d3fdde0ee8">WOW_FAIL_FAIL_NOACCESS</a>                       = 0x0D,</div>
-<div class="line"><span class="lineno">   37</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a87ba9bd5edfd749f4729620dbadd5fcea664860e55648321e7ef00ffd2b26013a">WOW_SUCCESS_SURVEY</a>                           = 0x0E,</div>
-<div class="line"><span class="lineno">   38</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a87ba9bd5edfd749f4729620dbadd5fcea5e8d5fb949ecfd0cafdc81cee3b7f81d">WOW_FAIL_PARENTCONTROL</a>                       = 0x0F,</div>
-<div class="line"><span class="lineno">   39</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a87ba9bd5edfd749f4729620dbadd5fcea18dcd4a3797de3f107178a0a6d6389b3">WOW_FAIL_LOCKED_ENFORCED</a>                     = 0x10,</div>
-<div class="line"><span class="lineno">   40</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a87ba9bd5edfd749f4729620dbadd5fcea22f7a1ff157487225ffc1261a977a3a6">WOW_FAIL_TRIAL_ENDED</a>                         = 0x11,</div>
-<div class="line"><span class="lineno">   41</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a87ba9bd5edfd749f4729620dbadd5fcea8ed1410eefb917a04764590ea82b447c">WOW_FAIL_USE_BATTLENET</a>                       = 0x12,</div>
-<div class="line"><span class="lineno">   42</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a87ba9bd5edfd749f4729620dbadd5fcea6a965940cfced1a61d60b74e87f083c3">WOW_FAIL_ANTI_INDULGENCE</a>                     = 0x13,</div>
-<div class="line"><span class="lineno">   43</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a87ba9bd5edfd749f4729620dbadd5fceaaa299fabdc18e5c6c89cf53c18f039b9">WOW_FAIL_EXPIRED</a>                             = 0x14,</div>
-<div class="line"><span class="lineno">   44</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a87ba9bd5edfd749f4729620dbadd5fcea3fc06700ec90ca46aa67b5b0d5facfdf">WOW_FAIL_NO_GAME_ACCOUNT</a>                     = 0x15,</div>
-<div class="line"><span class="lineno">   45</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a87ba9bd5edfd749f4729620dbadd5fcea38ff8e9b9d3dee3d43ab419735a83a05">WOW_FAIL_CHARGEBACK</a>                          = 0x16,</div>
-<div class="line"><span class="lineno">   46</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a87ba9bd5edfd749f4729620dbadd5fceaa30377fa80b0edb3b9826f7294c009d9">WOW_FAIL_INTERNET_GAME_ROOM_WITHOUT_BNET</a>     = 0x17,</div>
-<div class="line"><span class="lineno">   47</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a87ba9bd5edfd749f4729620dbadd5fcea3cb53338783b02f6f4adbd6d4cf8de55">WOW_FAIL_GAME_ACCOUNT_LOCKED</a>                 = 0x18,</div>
-<div class="line"><span class="lineno">   48</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a87ba9bd5edfd749f4729620dbadd5fceaa49aaf129ee38c581c43adac5e0dc47e">WOW_FAIL_UNLOCKABLE_LOCK</a>                     = 0x19,</div>
-<div class="line"><span class="lineno">   49</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a87ba9bd5edfd749f4729620dbadd5fceaa57c56a0afc1fe774f661feddaaa1739">WOW_FAIL_CONVERSION_REQUIRED</a>                 = 0x20,</div>
-<div class="line"><span class="lineno">   50</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a87ba9bd5edfd749f4729620dbadd5fcea45adfe6f21bb136d789120fb4ade5d65">WOW_FAIL_DISCONNECTED</a>                        = 0xFF</div>
-<div class="line"><span class="lineno">   51</span>};</div>
-<div class="ttc" id="aa02048_html_a87ba9bd5edfd749f4729620dbadd5fcea17cfb08be7c0da21b3a4ec0fb76ed688"><div class="ttname"><a href="../../d1/d39/a02048.html#a87ba9bd5edfd749f4729620dbadd5fcea17cfb08be7c0da21b3a4ec0fb76ed688">WOW_SUCCESS</a></div><div class="ttdeci">@ WOW_SUCCESS</div><div class="ttdef"><b>Definition:</b> AuthCodes.h:25</div></div>
-<div class="ttc" id="aa02048_html_a87ba9bd5edfd749f4729620dbadd5fcea18dcd4a3797de3f107178a0a6d6389b3"><div class="ttname"><a href="../../d1/d39/a02048.html#a87ba9bd5edfd749f4729620dbadd5fcea18dcd4a3797de3f107178a0a6d6389b3">WOW_FAIL_LOCKED_ENFORCED</a></div><div class="ttdeci">@ WOW_FAIL_LOCKED_ENFORCED</div><div class="ttdef"><b>Definition:</b> AuthCodes.h:39</div></div>
-<div class="ttc" id="aa02048_html_a87ba9bd5edfd749f4729620dbadd5fcea22f7a1ff157487225ffc1261a977a3a6"><div class="ttname"><a href="../../d1/d39/a02048.html#a87ba9bd5edfd749f4729620dbadd5fcea22f7a1ff157487225ffc1261a977a3a6">WOW_FAIL_TRIAL_ENDED</a></div><div class="ttdeci">@ WOW_FAIL_TRIAL_ENDED</div><div class="ttdef"><b>Definition:</b> AuthCodes.h:40</div></div>
-<div class="ttc" id="aa02048_html_a87ba9bd5edfd749f4729620dbadd5fcea2686cc24f58e96f7956d5d6ef9f18e04"><div class="ttname"><a href="../../d1/d39/a02048.html#a87ba9bd5edfd749f4729620dbadd5fcea2686cc24f58e96f7956d5d6ef9f18e04">WOW_FAIL_SUSPENDED</a></div><div class="ttdeci">@ WOW_FAIL_SUSPENDED</div><div class="ttdef"><b>Definition:</b> AuthCodes.h:35</div></div>
-<div class="ttc" id="aa02048_html_a87ba9bd5edfd749f4729620dbadd5fcea38ff8e9b9d3dee3d43ab419735a83a05"><div class="ttname"><a href="../../d1/d39/a02048.html#a87ba9bd5edfd749f4729620dbadd5fcea38ff8e9b9d3dee3d43ab419735a83a05">WOW_FAIL_CHARGEBACK</a></div><div class="ttdeci">@ WOW_FAIL_CHARGEBACK</div><div class="ttdef"><b>Definition:</b> AuthCodes.h:45</div></div>
-<div class="ttc" id="aa02048_html_a87ba9bd5edfd749f4729620dbadd5fcea3cb53338783b02f6f4adbd6d4cf8de55"><div class="ttname"><a href="../../d1/d39/a02048.html#a87ba9bd5edfd749f4729620dbadd5fcea3cb53338783b02f6f4adbd6d4cf8de55">WOW_FAIL_GAME_ACCOUNT_LOCKED</a></div><div class="ttdeci">@ WOW_FAIL_GAME_ACCOUNT_LOCKED</div><div class="ttdef"><b>Definition:</b> AuthCodes.h:47</div></div>
-<div class="ttc" id="aa02048_html_a87ba9bd5edfd749f4729620dbadd5fcea3fc06700ec90ca46aa67b5b0d5facfdf"><div class="ttname"><a href="../../d1/d39/a02048.html#a87ba9bd5edfd749f4729620dbadd5fcea3fc06700ec90ca46aa67b5b0d5facfdf">WOW_FAIL_NO_GAME_ACCOUNT</a></div><div class="ttdeci">@ WOW_FAIL_NO_GAME_ACCOUNT</div><div class="ttdef"><b>Definition:</b> AuthCodes.h:44</div></div>
-<div class="ttc" id="aa02048_html_a87ba9bd5edfd749f4729620dbadd5fcea435627e6ceddf5214798b0ffee9379f3"><div class="ttname"><a href="../../d1/d39/a02048.html#a87ba9bd5edfd749f4729620dbadd5fcea435627e6ceddf5214798b0ffee9379f3">WOW_FAIL_INCORRECT_PASSWORD</a></div><div class="ttdeci">@ WOW_FAIL_INCORRECT_PASSWORD</div><div class="ttdef"><b>Definition:</b> AuthCodes.h:28</div></div>
-<div class="ttc" id="aa02048_html_a87ba9bd5edfd749f4729620dbadd5fcea45adfe6f21bb136d789120fb4ade5d65"><div class="ttname"><a href="../../d1/d39/a02048.html#a87ba9bd5edfd749f4729620dbadd5fcea45adfe6f21bb136d789120fb4ade5d65">WOW_FAIL_DISCONNECTED</a></div><div class="ttdeci">@ WOW_FAIL_DISCONNECTED</div><div class="ttdef"><b>Definition:</b> AuthCodes.h:50</div></div>
-<div class="ttc" id="aa02048_html_a87ba9bd5edfd749f4729620dbadd5fcea4614f07045c585583364e857c3421114"><div class="ttname"><a href="../../d1/d39/a02048.html#a87ba9bd5edfd749f4729620dbadd5fcea4614f07045c585583364e857c3421114">WOW_FAIL_UNKNOWN_ACCOUNT</a></div><div class="ttdeci">@ WOW_FAIL_UNKNOWN_ACCOUNT</div><div class="ttdef"><b>Definition:</b> AuthCodes.h:27</div></div>
-<div class="ttc" id="aa02048_html_a87ba9bd5edfd749f4729620dbadd5fcea550e2d0697129df245f04a9c28454630"><div class="ttname"><a href="../../d1/d39/a02048.html#a87ba9bd5edfd749f4729620dbadd5fcea550e2d0697129df245f04a9c28454630">WOW_FAIL_BANNED</a></div><div class="ttdeci">@ WOW_FAIL_BANNED</div><div class="ttdef"><b>Definition:</b> AuthCodes.h:26</div></div>
-<div class="ttc" id="aa02048_html_a87ba9bd5edfd749f4729620dbadd5fcea5e8d5fb949ecfd0cafdc81cee3b7f81d"><div class="ttname"><a href="../../d1/d39/a02048.html#a87ba9bd5edfd749f4729620dbadd5fcea5e8d5fb949ecfd0cafdc81cee3b7f81d">WOW_FAIL_PARENTCONTROL</a></div><div class="ttdeci">@ WOW_FAIL_PARENTCONTROL</div><div class="ttdef"><b>Definition:</b> AuthCodes.h:38</div></div>
-<div class="ttc" id="aa02048_html_a87ba9bd5edfd749f4729620dbadd5fcea664860e55648321e7ef00ffd2b26013a"><div class="ttname"><a href="../../d1/d39/a02048.html#a87ba9bd5edfd749f4729620dbadd5fcea664860e55648321e7ef00ffd2b26013a">WOW_SUCCESS_SURVEY</a></div><div class="ttdeci">@ WOW_SUCCESS_SURVEY</div><div class="ttdef"><b>Definition:</b> AuthCodes.h:37</div></div>
-<div class="ttc" id="aa02048_html_a87ba9bd5edfd749f4729620dbadd5fcea6a965940cfced1a61d60b74e87f083c3"><div class="ttname"><a href="../../d1/d39/a02048.html#a87ba9bd5edfd749f4729620dbadd5fcea6a965940cfced1a61d60b74e87f083c3">WOW_FAIL_ANTI_INDULGENCE</a></div><div class="ttdeci">@ WOW_FAIL_ANTI_INDULGENCE</div><div class="ttdef"><b>Definition:</b> AuthCodes.h:42</div></div>
-<div class="ttc" id="aa02048_html_a87ba9bd5edfd749f4729620dbadd5fcea6ff71ce07c1a0c0d5321d82cd9803aae"><div class="ttname"><a href="../../d1/d39/a02048.html#a87ba9bd5edfd749f4729620dbadd5fcea6ff71ce07c1a0c0d5321d82cd9803aae">WOW_FAIL_VERSION_UPDATE</a></div><div class="ttdeci">@ WOW_FAIL_VERSION_UPDATE</div><div class="ttdef"><b>Definition:</b> AuthCodes.h:33</div></div>
-<div class="ttc" id="aa02048_html_a87ba9bd5edfd749f4729620dbadd5fcea71848ab60dcf958e95af1caaa1060a5c"><div class="ttname"><a href="../../d1/d39/a02048.html#a87ba9bd5edfd749f4729620dbadd5fcea71848ab60dcf958e95af1caaa1060a5c">WOW_FAIL_ALREADY_ONLINE</a></div><div class="ttdeci">@ WOW_FAIL_ALREADY_ONLINE</div><div class="ttdef"><b>Definition:</b> AuthCodes.h:29</div></div>
-<div class="ttc" id="aa02048_html_a87ba9bd5edfd749f4729620dbadd5fcea7335fc931139834357fb93d3fdde0ee8"><div class="ttname"><a href="../../d1/d39/a02048.html#a87ba9bd5edfd749f4729620dbadd5fcea7335fc931139834357fb93d3fdde0ee8">WOW_FAIL_FAIL_NOACCESS</a></div><div class="ttdeci">@ WOW_FAIL_FAIL_NOACCESS</div><div class="ttdef"><b>Definition:</b> AuthCodes.h:36</div></div>
-<div class="ttc" id="aa02048_html_a87ba9bd5edfd749f4729620dbadd5fcea8a6d51e1086aa22c9409807b01e8db96"><div class="ttname"><a href="../../d1/d39/a02048.html#a87ba9bd5edfd749f4729620dbadd5fcea8a6d51e1086aa22c9409807b01e8db96">WOW_FAIL_DB_BUSY</a></div><div class="ttdeci">@ WOW_FAIL_DB_BUSY</div><div class="ttdef"><b>Definition:</b> AuthCodes.h:31</div></div>
-<div class="ttc" id="aa02048_html_a87ba9bd5edfd749f4729620dbadd5fcea8ed1410eefb917a04764590ea82b447c"><div class="ttname"><a href="../../d1/d39/a02048.html#a87ba9bd5edfd749f4729620dbadd5fcea8ed1410eefb917a04764590ea82b447c">WOW_FAIL_USE_BATTLENET</a></div><div class="ttdeci">@ WOW_FAIL_USE_BATTLENET</div><div class="ttdef"><b>Definition:</b> AuthCodes.h:41</div></div>
-<div class="ttc" id="aa02048_html_a87ba9bd5edfd749f4729620dbadd5fceaa30377fa80b0edb3b9826f7294c009d9"><div class="ttname"><a href="../../d1/d39/a02048.html#a87ba9bd5edfd749f4729620dbadd5fceaa30377fa80b0edb3b9826f7294c009d9">WOW_FAIL_INTERNET_GAME_ROOM_WITHOUT_BNET</a></div><div class="ttdeci">@ WOW_FAIL_INTERNET_GAME_ROOM_WITHOUT_BNET</div><div class="ttdef"><b>Definition:</b> AuthCodes.h:46</div></div>
-<div class="ttc" id="aa02048_html_a87ba9bd5edfd749f4729620dbadd5fceaa49aaf129ee38c581c43adac5e0dc47e"><div class="ttname"><a href="../../d1/d39/a02048.html#a87ba9bd5edfd749f4729620dbadd5fceaa49aaf129ee38c581c43adac5e0dc47e">WOW_FAIL_UNLOCKABLE_LOCK</a></div><div class="ttdeci">@ WOW_FAIL_UNLOCKABLE_LOCK</div><div class="ttdef"><b>Definition:</b> AuthCodes.h:48</div></div>
-<div class="ttc" id="aa02048_html_a87ba9bd5edfd749f4729620dbadd5fceaa57c56a0afc1fe774f661feddaaa1739"><div class="ttname"><a href="../../d1/d39/a02048.html#a87ba9bd5edfd749f4729620dbadd5fceaa57c56a0afc1fe774f661feddaaa1739">WOW_FAIL_CONVERSION_REQUIRED</a></div><div class="ttdeci">@ WOW_FAIL_CONVERSION_REQUIRED</div><div class="ttdef"><b>Definition:</b> AuthCodes.h:49</div></div>
-<div class="ttc" id="aa02048_html_a87ba9bd5edfd749f4729620dbadd5fceaaa299fabdc18e5c6c89cf53c18f039b9"><div class="ttname"><a href="../../d1/d39/a02048.html#a87ba9bd5edfd749f4729620dbadd5fceaaa299fabdc18e5c6c89cf53c18f039b9">WOW_FAIL_EXPIRED</a></div><div class="ttdeci">@ WOW_FAIL_EXPIRED</div><div class="ttdef"><b>Definition:</b> AuthCodes.h:43</div></div>
-<div class="ttc" id="aa02048_html_a87ba9bd5edfd749f4729620dbadd5fceac6b47ed0785815782ffcaa9ddcc61f34"><div class="ttname"><a href="../../d1/d39/a02048.html#a87ba9bd5edfd749f4729620dbadd5fceac6b47ed0785815782ffcaa9ddcc61f34">WOW_FAIL_NO_TIME</a></div><div class="ttdeci">@ WOW_FAIL_NO_TIME</div><div class="ttdef"><b>Definition:</b> AuthCodes.h:30</div></div>
-<div class="ttc" id="aa02048_html_a87ba9bd5edfd749f4729620dbadd5fceae2aacd0fb4634fa66489baa619e4955d"><div class="ttname"><a href="../../d1/d39/a02048.html#a87ba9bd5edfd749f4729620dbadd5fceae2aacd0fb4634fa66489baa619e4955d">WOW_FAIL_INVALID_SERVER</a></div><div class="ttdeci">@ WOW_FAIL_INVALID_SERVER</div><div class="ttdef"><b>Definition:</b> AuthCodes.h:34</div></div>
-<div class="ttc" id="aa02048_html_a87ba9bd5edfd749f4729620dbadd5fceaf7e9abc937534a7f909fcb07b744942d"><div class="ttname"><a href="../../d1/d39/a02048.html#a87ba9bd5edfd749f4729620dbadd5fceaf7e9abc937534a7f909fcb07b744942d">WOW_FAIL_VERSION_INVALID</a></div><div class="ttdeci">@ WOW_FAIL_VERSION_INVALID</div><div class="ttdef"><b>Definition:</b> AuthCodes.h:32</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  102</span>{</div>
+<div class="line"><span class="lineno">  103</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#afcd3af8358f8e093e96dc37cd9caba75a4846eaf42f17564133602bfaefc563d7">PALADIN_ICON_ID_RETRIBUTION_AURA</a>             = 555</div>
+<div class="line"><span class="lineno">  104</span>};</div>
+<div class="ttc" id="aa02048_html_afcd3af8358f8e093e96dc37cd9caba75a4846eaf42f17564133602bfaefc563d7"><div class="ttname"><a href="../../d1/d39/a02048.html#afcd3af8358f8e093e96dc37cd9caba75a4846eaf42f17564133602bfaefc563d7">PALADIN_ICON_ID_RETRIBUTION_AURA</a></div><div class="ttdeci">@ PALADIN_ICON_ID_RETRIBUTION_AURA</div><div class="ttdef"><b>Definition:</b> spell_paladin.cpp:103</div></div>
 </div><!-- fragment -->
 </div>
 </div>
-<a id="aa4677c9d14c49d7eb90bf81f278756e2" name="aa4677c9d14c49d7eb90bf81f278756e2"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa4677c9d14c49d7eb90bf81f278756e2">&#9670;&#160;</a></span>ExpansionFlags</h2>
+<a id="a0d9fc6ef3866d56692ca47a1a36dc997" name="a0d9fc6ef3866d56692ca47a1a36dc997"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0d9fc6ef3866d56692ca47a1a36dc997">&#9670;&#160;</a></span>PaladinSpells</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">enum <a class="el" href="../../d1/d39/a02048.html#aa4677c9d14c49d7eb90bf81f278756e2">ExpansionFlags</a></td>
+          <td class="memname">enum <a class="el" href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997">PaladinSpells</a></td>
         </tr>
       </table>
 </div><div class="memdoc">
 <table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="aa4677c9d14c49d7eb90bf81f278756e2ac848c9323f3ff5625ac2122c586c09bb" name="aa4677c9d14c49d7eb90bf81f278756e2ac848c9323f3ff5625ac2122c586c09bb"></a>POST_BC_EXP_FLAG&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aa4677c9d14c49d7eb90bf81f278756e2aeee886490e199b04b3ef987de2fefb64" name="aa4677c9d14c49d7eb90bf81f278756e2aeee886490e199b04b3ef987de2fefb64"></a>PRE_BC_EXP_FLAG&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aa4677c9d14c49d7eb90bf81f278756e2ad8e812d2ea9331912047df7fce86831d" name="aa4677c9d14c49d7eb90bf81f278756e2ad8e812d2ea9331912047df7fce86831d"></a>NO_VALID_EXP_FLAG&#160;</td><td class="fielddoc"></td></tr>
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a0d9fc6ef3866d56692ca47a1a36dc997a90b8d4b96753977c3a37a7c3f52eb930" name="a0d9fc6ef3866d56692ca47a1a36dc997a90b8d4b96753977c3a37a7c3f52eb930"></a>SPELL_PALADIN_DIVINE_PLEA&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a0d9fc6ef3866d56692ca47a1a36dc997a42570eacd4fc3c86a6095f906b2ff011" name="a0d9fc6ef3866d56692ca47a1a36dc997a42570eacd4fc3c86a6095f906b2ff011"></a>SPELL_PALADIN_BLESSING_OF_SANCTUARY_BUFF&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a0d9fc6ef3866d56692ca47a1a36dc997ab78c206cdfd6c33856eae4f43043c84f" name="a0d9fc6ef3866d56692ca47a1a36dc997ab78c206cdfd6c33856eae4f43043c84f"></a>SPELL_PALADIN_BLESSING_OF_SANCTUARY_ENERGIZE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a0d9fc6ef3866d56692ca47a1a36dc997af4bfe8574c1cf0f1c342e05fea2f232a" name="a0d9fc6ef3866d56692ca47a1a36dc997af4bfe8574c1cf0f1c342e05fea2f232a"></a>SPELL_PALADIN_HOLY_SHOCK_R1&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a0d9fc6ef3866d56692ca47a1a36dc997a025899e97617212364a7bf3174d200de" name="a0d9fc6ef3866d56692ca47a1a36dc997a025899e97617212364a7bf3174d200de"></a>SPELL_PALADIN_HOLY_SHOCK_R1_DAMAGE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a0d9fc6ef3866d56692ca47a1a36dc997a102ddef0ca316849f71ab2776c431507" name="a0d9fc6ef3866d56692ca47a1a36dc997a102ddef0ca316849f71ab2776c431507"></a>SPELL_PALADIN_HOLY_SHOCK_R1_HEALING&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a0d9fc6ef3866d56692ca47a1a36dc997a8784d668b3811647b8d6e75527795dca" name="a0d9fc6ef3866d56692ca47a1a36dc997a8784d668b3811647b8d6e75527795dca"></a>SPELL_PALADIN_BLESSING_OF_LOWER_CITY_DRUID&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a0d9fc6ef3866d56692ca47a1a36dc997a87098532674dfee7cbec4eb68f137c7a" name="a0d9fc6ef3866d56692ca47a1a36dc997a87098532674dfee7cbec4eb68f137c7a"></a>SPELL_PALADIN_BLESSING_OF_LOWER_CITY_PALADIN&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a0d9fc6ef3866d56692ca47a1a36dc997ac7ce94f95589a1fd9de8b2fd940c2554" name="a0d9fc6ef3866d56692ca47a1a36dc997ac7ce94f95589a1fd9de8b2fd940c2554"></a>SPELL_PALADIN_BLESSING_OF_LOWER_CITY_PRIEST&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a0d9fc6ef3866d56692ca47a1a36dc997a78a441de6d3c3b036bb89494d0eef94c" name="a0d9fc6ef3866d56692ca47a1a36dc997a78a441de6d3c3b036bb89494d0eef94c"></a>SPELL_PALADIN_BLESSING_OF_LOWER_CITY_SHAMAN&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a0d9fc6ef3866d56692ca47a1a36dc997adeab8bca6bc061ff58205ba827f7be2a" name="a0d9fc6ef3866d56692ca47a1a36dc997adeab8bca6bc061ff58205ba827f7be2a"></a>SPELL_PALADIN_DIVINE_STORM&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a0d9fc6ef3866d56692ca47a1a36dc997abe8a72d828e14bfb019987f642bfb57b" name="a0d9fc6ef3866d56692ca47a1a36dc997abe8a72d828e14bfb019987f642bfb57b"></a>SPELL_PALADIN_DIVINE_STORM_DUMMY&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a0d9fc6ef3866d56692ca47a1a36dc997ad4b43b320120743ea433fa50c19e321a" name="a0d9fc6ef3866d56692ca47a1a36dc997ad4b43b320120743ea433fa50c19e321a"></a>SPELL_PALADIN_DIVINE_STORM_HEAL&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a0d9fc6ef3866d56692ca47a1a36dc997a5208edfecb44364d889b3a2077b03610" name="a0d9fc6ef3866d56692ca47a1a36dc997a5208edfecb44364d889b3a2077b03610"></a>SPELL_PALADIN_EYE_FOR_AN_EYE_DAMAGE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a0d9fc6ef3866d56692ca47a1a36dc997a9e95c58cacee6e93d45b58d780f6cbc1" name="a0d9fc6ef3866d56692ca47a1a36dc997a9e95c58cacee6e93d45b58d780f6cbc1"></a>SPELL_PALADIN_FORBEARANCE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a0d9fc6ef3866d56692ca47a1a36dc997a3edca6d5e38d251f2304f57452f20db6" name="a0d9fc6ef3866d56692ca47a1a36dc997a3edca6d5e38d251f2304f57452f20db6"></a>SPELL_PALADIN_AVENGING_WRATH_MARKER&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a0d9fc6ef3866d56692ca47a1a36dc997ab186496ea740e2f5f7a43e8cb9ad3332" name="a0d9fc6ef3866d56692ca47a1a36dc997ab186496ea740e2f5f7a43e8cb9ad3332"></a>SPELL_PALADIN_IMMUNE_SHIELD_MARKER&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a0d9fc6ef3866d56692ca47a1a36dc997aa7f1722c04bf111b33fd255860eb28ee" name="a0d9fc6ef3866d56692ca47a1a36dc997aa7f1722c04bf111b33fd255860eb28ee"></a>SPELL_PALADIN_HAND_OF_SACRIFICE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a0d9fc6ef3866d56692ca47a1a36dc997a1d0092615ebcf819786174669b07e310" name="a0d9fc6ef3866d56692ca47a1a36dc997a1d0092615ebcf819786174669b07e310"></a>SPELL_PALADIN_DIVINE_SACRIFICE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a0d9fc6ef3866d56692ca47a1a36dc997a7996ccbd740716b0ed0638d9d6f6f2f5" name="a0d9fc6ef3866d56692ca47a1a36dc997a7996ccbd740716b0ed0638d9d6f6f2f5"></a>SPELL_PALADIN_JUDGEMENT_DAMAGE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a0d9fc6ef3866d56692ca47a1a36dc997ac0d213e9b3f3961d0eee5bedc3cfa7b5" name="a0d9fc6ef3866d56692ca47a1a36dc997ac0d213e9b3f3961d0eee5bedc3cfa7b5"></a>SPELL_PALADIN_JUDGEMENT_OF_JUSTICE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a0d9fc6ef3866d56692ca47a1a36dc997ad19416dd5cf9361a11a5e31a7db8e4ac" name="a0d9fc6ef3866d56692ca47a1a36dc997ad19416dd5cf9361a11a5e31a7db8e4ac"></a>SPELL_PALADIN_JUDGEMENT_OF_LIGHT&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a0d9fc6ef3866d56692ca47a1a36dc997adf2f861d24f3b72f6b19d18448464317" name="a0d9fc6ef3866d56692ca47a1a36dc997adf2f861d24f3b72f6b19d18448464317"></a>SPELL_PALADIN_JUDGEMENT_OF_WISDOM&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a0d9fc6ef3866d56692ca47a1a36dc997ad226fe296b9beba4249f9167cb077ded" name="a0d9fc6ef3866d56692ca47a1a36dc997ad226fe296b9beba4249f9167cb077ded"></a>SPELL_PALADIN_GLYPH_OF_SALVATION&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a0d9fc6ef3866d56692ca47a1a36dc997a8d2e9c77e658d9208f978dd55aa92e2d" name="a0d9fc6ef3866d56692ca47a1a36dc997a8d2e9c77e658d9208f978dd55aa92e2d"></a>SPELL_PALADIN_RIGHTEOUS_DEFENSE_TAUNT&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a0d9fc6ef3866d56692ca47a1a36dc997a3762b7f5c61c1ea510b9f5ed982f4259" name="a0d9fc6ef3866d56692ca47a1a36dc997a3762b7f5c61c1ea510b9f5ed982f4259"></a>SPELL_PALADIN_SANCTIFIED_WRATH&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a0d9fc6ef3866d56692ca47a1a36dc997a31e4829b98bcf66572027a5a66196b50" name="a0d9fc6ef3866d56692ca47a1a36dc997a31e4829b98bcf66572027a5a66196b50"></a>SPELL_PALADIN_SANCTIFIED_WRATH_TALENT_R1&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a0d9fc6ef3866d56692ca47a1a36dc997a838fe12702dda38a84230bec6ce2b931" name="a0d9fc6ef3866d56692ca47a1a36dc997a838fe12702dda38a84230bec6ce2b931"></a>SPELL_PALADIN_SEAL_OF_RIGHTEOUSNESS&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a0d9fc6ef3866d56692ca47a1a36dc997a9e68b448e59e19457cdd35ba5f94fdf5" name="a0d9fc6ef3866d56692ca47a1a36dc997a9e68b448e59e19457cdd35ba5f94fdf5"></a>SPELL_PALADIN_CONCENTRACTION_AURA&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a0d9fc6ef3866d56692ca47a1a36dc997a90a5d2b7327d3b1e72ac8b7731299938" name="a0d9fc6ef3866d56692ca47a1a36dc997a90a5d2b7327d3b1e72ac8b7731299938"></a>SPELL_PALADIN_SANCTIFIED_RETRIBUTION_R1&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a0d9fc6ef3866d56692ca47a1a36dc997ab6aa4b3a2cb3fc10973d44b2f9cbf117" name="a0d9fc6ef3866d56692ca47a1a36dc997ab6aa4b3a2cb3fc10973d44b2f9cbf117"></a>SPELL_PALADIN_SWIFT_RETRIBUTION_R1&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a0d9fc6ef3866d56692ca47a1a36dc997a627e056f1e358280c4dc2228d5ddbfb9" name="a0d9fc6ef3866d56692ca47a1a36dc997a627e056f1e358280c4dc2228d5ddbfb9"></a>SPELL_PALADIN_IMPROVED_CONCENTRACTION_AURA&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a0d9fc6ef3866d56692ca47a1a36dc997ac019ade4907151f471f3c55bcb638814" name="a0d9fc6ef3866d56692ca47a1a36dc997ac019ade4907151f471f3c55bcb638814"></a>SPELL_PALADIN_IMPROVED_DEVOTION_AURA&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a0d9fc6ef3866d56692ca47a1a36dc997a24fa5c0890d964f26e1b616b498693f5" name="a0d9fc6ef3866d56692ca47a1a36dc997a24fa5c0890d964f26e1b616b498693f5"></a>SPELL_PALADIN_SANCTIFIED_RETRIBUTION_AURA&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a0d9fc6ef3866d56692ca47a1a36dc997a068a5d12032c28a6abdcf144964077e9" name="a0d9fc6ef3866d56692ca47a1a36dc997a068a5d12032c28a6abdcf144964077e9"></a>SPELL_PALADIN_AURA_MASTERY_IMMUNE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a0d9fc6ef3866d56692ca47a1a36dc997ab45849c2d9dd8159716148da84cd14dd" name="a0d9fc6ef3866d56692ca47a1a36dc997ab45849c2d9dd8159716148da84cd14dd"></a>SPELL_JUDGEMENTS_OF_THE_JUST&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a0d9fc6ef3866d56692ca47a1a36dc997ae0d41f174ff2a7de11777c3692560e20" name="a0d9fc6ef3866d56692ca47a1a36dc997ae0d41f174ff2a7de11777c3692560e20"></a>SPELL_JUDGEMENT_OF_VENGEANCE_EFFECT&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a0d9fc6ef3866d56692ca47a1a36dc997a3ac6f0e5ffa3f5d39ba9c6fe13cb7f37" name="a0d9fc6ef3866d56692ca47a1a36dc997a3ac6f0e5ffa3f5d39ba9c6fe13cb7f37"></a>SPELL_HOLY_VENGEANCE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a0d9fc6ef3866d56692ca47a1a36dc997abfb3ebc9575cb371cb968052f029534e" name="a0d9fc6ef3866d56692ca47a1a36dc997abfb3ebc9575cb371cb968052f029534e"></a>SPELL_JUDGEMENT_OF_CORRUPTION_EFFECT&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a0d9fc6ef3866d56692ca47a1a36dc997aef13de7305034f841aaf427f32b5926b" name="a0d9fc6ef3866d56692ca47a1a36dc997aef13de7305034f841aaf427f32b5926b"></a>SPELL_BLOOD_CORRUPTION&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a0d9fc6ef3866d56692ca47a1a36dc997a60a12ecf7b0c16a82500a97110ff35f0" name="a0d9fc6ef3866d56692ca47a1a36dc997a60a12ecf7b0c16a82500a97110ff35f0"></a>SPELL_GENERIC_ARENA_DAMPENING&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a0d9fc6ef3866d56692ca47a1a36dc997af1c99f5067e5ef0ef1fb7f96bd317bf4" name="a0d9fc6ef3866d56692ca47a1a36dc997af1c99f5067e5ef0ef1fb7f96bd317bf4"></a>SPELL_GENERIC_BATTLEGROUND_DAMPENING&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a0d9fc6ef3866d56692ca47a1a36dc997a8797d61ee5f61c06887d57564aa5aa1d" name="a0d9fc6ef3866d56692ca47a1a36dc997a8797d61ee5f61c06887d57564aa5aa1d"></a>SPELL_IMPROVED_JUDGEMENT&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a0d9fc6ef3866d56692ca47a1a36dc997ae18f09f0b0f9822f06e5b1f5cfb646eb" name="a0d9fc6ef3866d56692ca47a1a36dc997ae18f09f0b0f9822f06e5b1f5cfb646eb"></a>SPELL_IMPROVED_JUDGEMENT_ENERGIZE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a0d9fc6ef3866d56692ca47a1a36dc997aa04478bfbd9088482d32a2b9be1baf68" name="a0d9fc6ef3866d56692ca47a1a36dc997aa04478bfbd9088482d32a2b9be1baf68"></a>SPELL_PALADIN_HOLY_VENGEANCE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a0d9fc6ef3866d56692ca47a1a36dc997aab5e92129a532ae938e29dec3ac9119f" name="a0d9fc6ef3866d56692ca47a1a36dc997aab5e92129a532ae938e29dec3ac9119f"></a>SPELL_PALADIN_BLOOD_CORRUPTION&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a0d9fc6ef3866d56692ca47a1a36dc997a17a5199969f77714058e81d1fb044dd6" name="a0d9fc6ef3866d56692ca47a1a36dc997a17a5199969f77714058e81d1fb044dd6"></a>SPELL_PALADIN_SEAL_OF_VENGEANCE_EFFECT&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a0d9fc6ef3866d56692ca47a1a36dc997a5db1f4deefccd6b5e2bef81f44b801a9" name="a0d9fc6ef3866d56692ca47a1a36dc997a5db1f4deefccd6b5e2bef81f44b801a9"></a>SPELL_PALADIN_SEAL_OF_CORRUPTION_EFFECT&#160;</td><td class="fielddoc"></td></tr>
 </table>
-<div class="fragment"><div class="line"><span class="lineno">   75</span>{</div>
-<div class="line"><span class="lineno">   76</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#aa4677c9d14c49d7eb90bf81f278756e2ac848c9323f3ff5625ac2122c586c09bb">POST_BC_EXP_FLAG</a>                            = 0x2,</div>
-<div class="line"><span class="lineno">   77</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#aa4677c9d14c49d7eb90bf81f278756e2aeee886490e199b04b3ef987de2fefb64">PRE_BC_EXP_FLAG</a>                             = 0x1,</div>
-<div class="line"><span class="lineno">   78</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#aa4677c9d14c49d7eb90bf81f278756e2ad8e812d2ea9331912047df7fce86831d">NO_VALID_EXP_FLAG</a>                           = 0x0</div>
-<div class="line"><span class="lineno">   79</span>};</div>
-<div class="ttc" id="aa02048_html_aa4677c9d14c49d7eb90bf81f278756e2ac848c9323f3ff5625ac2122c586c09bb"><div class="ttname"><a href="../../d1/d39/a02048.html#aa4677c9d14c49d7eb90bf81f278756e2ac848c9323f3ff5625ac2122c586c09bb">POST_BC_EXP_FLAG</a></div><div class="ttdeci">@ POST_BC_EXP_FLAG</div><div class="ttdef"><b>Definition:</b> AuthCodes.h:76</div></div>
-<div class="ttc" id="aa02048_html_aa4677c9d14c49d7eb90bf81f278756e2ad8e812d2ea9331912047df7fce86831d"><div class="ttname"><a href="../../d1/d39/a02048.html#aa4677c9d14c49d7eb90bf81f278756e2ad8e812d2ea9331912047df7fce86831d">NO_VALID_EXP_FLAG</a></div><div class="ttdeci">@ NO_VALID_EXP_FLAG</div><div class="ttdef"><b>Definition:</b> AuthCodes.h:78</div></div>
-<div class="ttc" id="aa02048_html_aa4677c9d14c49d7eb90bf81f278756e2aeee886490e199b04b3ef987de2fefb64"><div class="ttname"><a href="../../d1/d39/a02048.html#aa4677c9d14c49d7eb90bf81f278756e2aeee886490e199b04b3ef987de2fefb64">PRE_BC_EXP_FLAG</a></div><div class="ttdeci">@ PRE_BC_EXP_FLAG</div><div class="ttdef"><b>Definition:</b> AuthCodes.h:77</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   32</span>{</div>
+<div class="line"><span class="lineno">   33</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997a90b8d4b96753977c3a37a7c3f52eb930">SPELL_PALADIN_DIVINE_PLEA</a>                    = 54428,</div>
+<div class="line"><span class="lineno">   34</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997a42570eacd4fc3c86a6095f906b2ff011">SPELL_PALADIN_BLESSING_OF_SANCTUARY_BUFF</a>     = 67480,</div>
+<div class="line"><span class="lineno">   35</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997ab78c206cdfd6c33856eae4f43043c84f">SPELL_PALADIN_BLESSING_OF_SANCTUARY_ENERGIZE</a> = 57319,</div>
+<div class="line"><span class="lineno">   36</span> </div>
+<div class="line"><span class="lineno">   37</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997af4bfe8574c1cf0f1c342e05fea2f232a">SPELL_PALADIN_HOLY_SHOCK_R1</a>                  = 20473,</div>
+<div class="line"><span class="lineno">   38</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997a025899e97617212364a7bf3174d200de">SPELL_PALADIN_HOLY_SHOCK_R1_DAMAGE</a>           = 25912,</div>
+<div class="line"><span class="lineno">   39</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997a102ddef0ca316849f71ab2776c431507">SPELL_PALADIN_HOLY_SHOCK_R1_HEALING</a>          = 25914,</div>
+<div class="line"><span class="lineno">   40</span> </div>
+<div class="line"><span class="lineno">   41</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997a8784d668b3811647b8d6e75527795dca">SPELL_PALADIN_BLESSING_OF_LOWER_CITY_DRUID</a>   = 37878,</div>
+<div class="line"><span class="lineno">   42</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997a87098532674dfee7cbec4eb68f137c7a">SPELL_PALADIN_BLESSING_OF_LOWER_CITY_PALADIN</a> = 37879,</div>
+<div class="line"><span class="lineno">   43</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997ac7ce94f95589a1fd9de8b2fd940c2554">SPELL_PALADIN_BLESSING_OF_LOWER_CITY_PRIEST</a>  = 37880,</div>
+<div class="line"><span class="lineno">   44</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997a78a441de6d3c3b036bb89494d0eef94c">SPELL_PALADIN_BLESSING_OF_LOWER_CITY_SHAMAN</a>  = 37881,</div>
+<div class="line"><span class="lineno">   45</span> </div>
+<div class="line"><span class="lineno">   46</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997adeab8bca6bc061ff58205ba827f7be2a">SPELL_PALADIN_DIVINE_STORM</a>                   = 53385,</div>
+<div class="line"><span class="lineno">   47</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997abe8a72d828e14bfb019987f642bfb57b">SPELL_PALADIN_DIVINE_STORM_DUMMY</a>             = 54171,</div>
+<div class="line"><span class="lineno">   48</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997ad4b43b320120743ea433fa50c19e321a">SPELL_PALADIN_DIVINE_STORM_HEAL</a>              = 54172,</div>
+<div class="line"><span class="lineno">   49</span> </div>
+<div class="line"><span class="lineno">   50</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997a5208edfecb44364d889b3a2077b03610">SPELL_PALADIN_EYE_FOR_AN_EYE_DAMAGE</a>          = 25997,</div>
+<div class="line"><span class="lineno">   51</span> </div>
+<div class="line"><span class="lineno">   52</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997a9e95c58cacee6e93d45b58d780f6cbc1">SPELL_PALADIN_FORBEARANCE</a>                    = 25771,</div>
+<div class="line"><span class="lineno">   53</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997a3edca6d5e38d251f2304f57452f20db6">SPELL_PALADIN_AVENGING_WRATH_MARKER</a>          = 61987,</div>
+<div class="line"><span class="lineno">   54</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997ab186496ea740e2f5f7a43e8cb9ad3332">SPELL_PALADIN_IMMUNE_SHIELD_MARKER</a>           = 61988,</div>
+<div class="line"><span class="lineno">   55</span> </div>
+<div class="line"><span class="lineno">   56</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997aa7f1722c04bf111b33fd255860eb28ee">SPELL_PALADIN_HAND_OF_SACRIFICE</a>              = 6940,</div>
+<div class="line"><span class="lineno">   57</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997a1d0092615ebcf819786174669b07e310">SPELL_PALADIN_DIVINE_SACRIFICE</a>               = 64205,</div>
+<div class="line"><span class="lineno">   58</span> </div>
+<div class="line"><span class="lineno">   59</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997a7996ccbd740716b0ed0638d9d6f6f2f5">SPELL_PALADIN_JUDGEMENT_DAMAGE</a>               = 54158,</div>
+<div class="line"><span class="lineno">   60</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997ac0d213e9b3f3961d0eee5bedc3cfa7b5">SPELL_PALADIN_JUDGEMENT_OF_JUSTICE</a>           = 20184,</div>
+<div class="line"><span class="lineno">   61</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997ad19416dd5cf9361a11a5e31a7db8e4ac">SPELL_PALADIN_JUDGEMENT_OF_LIGHT</a>             = 20185,</div>
+<div class="line"><span class="lineno">   62</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997adf2f861d24f3b72f6b19d18448464317">SPELL_PALADIN_JUDGEMENT_OF_WISDOM</a>            = 20186,</div>
+<div class="line"><span class="lineno">   63</span> </div>
+<div class="line"><span class="lineno">   64</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997ad226fe296b9beba4249f9167cb077ded">SPELL_PALADIN_GLYPH_OF_SALVATION</a>             = 63225,</div>
+<div class="line"><span class="lineno">   65</span> </div>
+<div class="line"><span class="lineno">   66</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997a8d2e9c77e658d9208f978dd55aa92e2d">SPELL_PALADIN_RIGHTEOUS_DEFENSE_TAUNT</a>        = 31790,</div>
+<div class="line"><span class="lineno">   67</span> </div>
+<div class="line"><span class="lineno">   68</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997a3762b7f5c61c1ea510b9f5ed982f4259">SPELL_PALADIN_SANCTIFIED_WRATH</a>               = 57318,</div>
+<div class="line"><span class="lineno">   69</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997a31e4829b98bcf66572027a5a66196b50">SPELL_PALADIN_SANCTIFIED_WRATH_TALENT_R1</a>     = 53375,</div>
+<div class="line"><span class="lineno">   70</span> </div>
+<div class="line"><span class="lineno">   71</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997a838fe12702dda38a84230bec6ce2b931">SPELL_PALADIN_SEAL_OF_RIGHTEOUSNESS</a>          = 25742,</div>
+<div class="line"><span class="lineno">   72</span> </div>
+<div class="line"><span class="lineno">   73</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997a9e68b448e59e19457cdd35ba5f94fdf5">SPELL_PALADIN_CONCENTRACTION_AURA</a>            = 19746,</div>
+<div class="line"><span class="lineno">   74</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997a90a5d2b7327d3b1e72ac8b7731299938">SPELL_PALADIN_SANCTIFIED_RETRIBUTION_R1</a>      = 31869,</div>
+<div class="line"><span class="lineno">   75</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997ab6aa4b3a2cb3fc10973d44b2f9cbf117">SPELL_PALADIN_SWIFT_RETRIBUTION_R1</a>           = 53379,</div>
+<div class="line"><span class="lineno">   76</span> </div>
+<div class="line"><span class="lineno">   77</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997a627e056f1e358280c4dc2228d5ddbfb9">SPELL_PALADIN_IMPROVED_CONCENTRACTION_AURA</a>   = 63510,</div>
+<div class="line"><span class="lineno">   78</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997ac019ade4907151f471f3c55bcb638814">SPELL_PALADIN_IMPROVED_DEVOTION_AURA</a>         = 63514,</div>
+<div class="line"><span class="lineno">   79</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997a24fa5c0890d964f26e1b616b498693f5">SPELL_PALADIN_SANCTIFIED_RETRIBUTION_AURA</a>    = 63531,</div>
+<div class="line"><span class="lineno">   80</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997a068a5d12032c28a6abdcf144964077e9">SPELL_PALADIN_AURA_MASTERY_IMMUNE</a>            = 64364,</div>
+<div class="line"><span class="lineno">   81</span> </div>
+<div class="line"><span class="lineno">   82</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997ab45849c2d9dd8159716148da84cd14dd">SPELL_JUDGEMENTS_OF_THE_JUST</a>                 = 68055,</div>
+<div class="line"><span class="lineno">   83</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997ae0d41f174ff2a7de11777c3692560e20">SPELL_JUDGEMENT_OF_VENGEANCE_EFFECT</a>          = 31804,</div>
+<div class="line"><span class="lineno">   84</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997a3ac6f0e5ffa3f5d39ba9c6fe13cb7f37">SPELL_HOLY_VENGEANCE</a>                         = 31803,</div>
+<div class="line"><span class="lineno">   85</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997abfb3ebc9575cb371cb968052f029534e">SPELL_JUDGEMENT_OF_CORRUPTION_EFFECT</a>         = 53733,</div>
+<div class="line"><span class="lineno">   86</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997aef13de7305034f841aaf427f32b5926b">SPELL_BLOOD_CORRUPTION</a>                       = 53742,</div>
+<div class="line"><span class="lineno">   87</span> </div>
+<div class="line"><span class="lineno">   88</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997a60a12ecf7b0c16a82500a97110ff35f0">SPELL_GENERIC_ARENA_DAMPENING</a>                = 74410,</div>
+<div class="line"><span class="lineno">   89</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997af1c99f5067e5ef0ef1fb7f96bd317bf4">SPELL_GENERIC_BATTLEGROUND_DAMPENING</a>         = 74411,</div>
+<div class="line"><span class="lineno">   90</span> </div>
+<div class="line"><span class="lineno">   91</span>    <span class="comment">// Crystalforge Raiment - Tier 5 Holy 2 Set</span></div>
+<div class="line"><span class="lineno">   92</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997a8797d61ee5f61c06887d57564aa5aa1d">SPELL_IMPROVED_JUDGEMENT</a>                     = 37188,</div>
+<div class="line"><span class="lineno">   93</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997ae18f09f0b0f9822f06e5b1f5cfb646eb">SPELL_IMPROVED_JUDGEMENT_ENERGIZE</a>            = 43838,</div>
+<div class="line"><span class="lineno">   94</span> </div>
+<div class="line"><span class="lineno">   95</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997aa04478bfbd9088482d32a2b9be1baf68">SPELL_PALADIN_HOLY_VENGEANCE</a>                 = 31803,</div>
+<div class="line"><span class="lineno">   96</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997aab5e92129a532ae938e29dec3ac9119f">SPELL_PALADIN_BLOOD_CORRUPTION</a>               = 53742,</div>
+<div class="line"><span class="lineno">   97</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997a17a5199969f77714058e81d1fb044dd6">SPELL_PALADIN_SEAL_OF_VENGEANCE_EFFECT</a>       = 42463,</div>
+<div class="line"><span class="lineno">   98</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997a5db1f4deefccd6b5e2bef81f44b801a9">SPELL_PALADIN_SEAL_OF_CORRUPTION_EFFECT</a>      = 53739</div>
+<div class="line"><span class="lineno">   99</span>};</div>
+<div class="ttc" id="aa02048_html_a0d9fc6ef3866d56692ca47a1a36dc997a025899e97617212364a7bf3174d200de"><div class="ttname"><a href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997a025899e97617212364a7bf3174d200de">SPELL_PALADIN_HOLY_SHOCK_R1_DAMAGE</a></div><div class="ttdeci">@ SPELL_PALADIN_HOLY_SHOCK_R1_DAMAGE</div><div class="ttdef"><b>Definition:</b> spell_paladin.cpp:38</div></div>
+<div class="ttc" id="aa02048_html_a0d9fc6ef3866d56692ca47a1a36dc997a068a5d12032c28a6abdcf144964077e9"><div class="ttname"><a href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997a068a5d12032c28a6abdcf144964077e9">SPELL_PALADIN_AURA_MASTERY_IMMUNE</a></div><div class="ttdeci">@ SPELL_PALADIN_AURA_MASTERY_IMMUNE</div><div class="ttdef"><b>Definition:</b> spell_paladin.cpp:80</div></div>
+<div class="ttc" id="aa02048_html_a0d9fc6ef3866d56692ca47a1a36dc997a102ddef0ca316849f71ab2776c431507"><div class="ttname"><a href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997a102ddef0ca316849f71ab2776c431507">SPELL_PALADIN_HOLY_SHOCK_R1_HEALING</a></div><div class="ttdeci">@ SPELL_PALADIN_HOLY_SHOCK_R1_HEALING</div><div class="ttdef"><b>Definition:</b> spell_paladin.cpp:39</div></div>
+<div class="ttc" id="aa02048_html_a0d9fc6ef3866d56692ca47a1a36dc997a17a5199969f77714058e81d1fb044dd6"><div class="ttname"><a href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997a17a5199969f77714058e81d1fb044dd6">SPELL_PALADIN_SEAL_OF_VENGEANCE_EFFECT</a></div><div class="ttdeci">@ SPELL_PALADIN_SEAL_OF_VENGEANCE_EFFECT</div><div class="ttdef"><b>Definition:</b> spell_paladin.cpp:97</div></div>
+<div class="ttc" id="aa02048_html_a0d9fc6ef3866d56692ca47a1a36dc997a1d0092615ebcf819786174669b07e310"><div class="ttname"><a href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997a1d0092615ebcf819786174669b07e310">SPELL_PALADIN_DIVINE_SACRIFICE</a></div><div class="ttdeci">@ SPELL_PALADIN_DIVINE_SACRIFICE</div><div class="ttdef"><b>Definition:</b> spell_paladin.cpp:57</div></div>
+<div class="ttc" id="aa02048_html_a0d9fc6ef3866d56692ca47a1a36dc997a24fa5c0890d964f26e1b616b498693f5"><div class="ttname"><a href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997a24fa5c0890d964f26e1b616b498693f5">SPELL_PALADIN_SANCTIFIED_RETRIBUTION_AURA</a></div><div class="ttdeci">@ SPELL_PALADIN_SANCTIFIED_RETRIBUTION_AURA</div><div class="ttdef"><b>Definition:</b> spell_paladin.cpp:79</div></div>
+<div class="ttc" id="aa02048_html_a0d9fc6ef3866d56692ca47a1a36dc997a31e4829b98bcf66572027a5a66196b50"><div class="ttname"><a href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997a31e4829b98bcf66572027a5a66196b50">SPELL_PALADIN_SANCTIFIED_WRATH_TALENT_R1</a></div><div class="ttdeci">@ SPELL_PALADIN_SANCTIFIED_WRATH_TALENT_R1</div><div class="ttdef"><b>Definition:</b> spell_paladin.cpp:69</div></div>
+<div class="ttc" id="aa02048_html_a0d9fc6ef3866d56692ca47a1a36dc997a3762b7f5c61c1ea510b9f5ed982f4259"><div class="ttname"><a href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997a3762b7f5c61c1ea510b9f5ed982f4259">SPELL_PALADIN_SANCTIFIED_WRATH</a></div><div class="ttdeci">@ SPELL_PALADIN_SANCTIFIED_WRATH</div><div class="ttdef"><b>Definition:</b> spell_paladin.cpp:68</div></div>
+<div class="ttc" id="aa02048_html_a0d9fc6ef3866d56692ca47a1a36dc997a3ac6f0e5ffa3f5d39ba9c6fe13cb7f37"><div class="ttname"><a href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997a3ac6f0e5ffa3f5d39ba9c6fe13cb7f37">SPELL_HOLY_VENGEANCE</a></div><div class="ttdeci">@ SPELL_HOLY_VENGEANCE</div><div class="ttdef"><b>Definition:</b> spell_paladin.cpp:84</div></div>
+<div class="ttc" id="aa02048_html_a0d9fc6ef3866d56692ca47a1a36dc997a3edca6d5e38d251f2304f57452f20db6"><div class="ttname"><a href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997a3edca6d5e38d251f2304f57452f20db6">SPELL_PALADIN_AVENGING_WRATH_MARKER</a></div><div class="ttdeci">@ SPELL_PALADIN_AVENGING_WRATH_MARKER</div><div class="ttdef"><b>Definition:</b> spell_paladin.cpp:53</div></div>
+<div class="ttc" id="aa02048_html_a0d9fc6ef3866d56692ca47a1a36dc997a42570eacd4fc3c86a6095f906b2ff011"><div class="ttname"><a href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997a42570eacd4fc3c86a6095f906b2ff011">SPELL_PALADIN_BLESSING_OF_SANCTUARY_BUFF</a></div><div class="ttdeci">@ SPELL_PALADIN_BLESSING_OF_SANCTUARY_BUFF</div><div class="ttdef"><b>Definition:</b> spell_paladin.cpp:34</div></div>
+<div class="ttc" id="aa02048_html_a0d9fc6ef3866d56692ca47a1a36dc997a5208edfecb44364d889b3a2077b03610"><div class="ttname"><a href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997a5208edfecb44364d889b3a2077b03610">SPELL_PALADIN_EYE_FOR_AN_EYE_DAMAGE</a></div><div class="ttdeci">@ SPELL_PALADIN_EYE_FOR_AN_EYE_DAMAGE</div><div class="ttdef"><b>Definition:</b> spell_paladin.cpp:50</div></div>
+<div class="ttc" id="aa02048_html_a0d9fc6ef3866d56692ca47a1a36dc997a5db1f4deefccd6b5e2bef81f44b801a9"><div class="ttname"><a href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997a5db1f4deefccd6b5e2bef81f44b801a9">SPELL_PALADIN_SEAL_OF_CORRUPTION_EFFECT</a></div><div class="ttdeci">@ SPELL_PALADIN_SEAL_OF_CORRUPTION_EFFECT</div><div class="ttdef"><b>Definition:</b> spell_paladin.cpp:98</div></div>
+<div class="ttc" id="aa02048_html_a0d9fc6ef3866d56692ca47a1a36dc997a60a12ecf7b0c16a82500a97110ff35f0"><div class="ttname"><a href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997a60a12ecf7b0c16a82500a97110ff35f0">SPELL_GENERIC_ARENA_DAMPENING</a></div><div class="ttdeci">@ SPELL_GENERIC_ARENA_DAMPENING</div><div class="ttdef"><b>Definition:</b> spell_paladin.cpp:88</div></div>
+<div class="ttc" id="aa02048_html_a0d9fc6ef3866d56692ca47a1a36dc997a627e056f1e358280c4dc2228d5ddbfb9"><div class="ttname"><a href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997a627e056f1e358280c4dc2228d5ddbfb9">SPELL_PALADIN_IMPROVED_CONCENTRACTION_AURA</a></div><div class="ttdeci">@ SPELL_PALADIN_IMPROVED_CONCENTRACTION_AURA</div><div class="ttdef"><b>Definition:</b> spell_paladin.cpp:77</div></div>
+<div class="ttc" id="aa02048_html_a0d9fc6ef3866d56692ca47a1a36dc997a78a441de6d3c3b036bb89494d0eef94c"><div class="ttname"><a href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997a78a441de6d3c3b036bb89494d0eef94c">SPELL_PALADIN_BLESSING_OF_LOWER_CITY_SHAMAN</a></div><div class="ttdeci">@ SPELL_PALADIN_BLESSING_OF_LOWER_CITY_SHAMAN</div><div class="ttdef"><b>Definition:</b> spell_paladin.cpp:44</div></div>
+<div class="ttc" id="aa02048_html_a0d9fc6ef3866d56692ca47a1a36dc997a7996ccbd740716b0ed0638d9d6f6f2f5"><div class="ttname"><a href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997a7996ccbd740716b0ed0638d9d6f6f2f5">SPELL_PALADIN_JUDGEMENT_DAMAGE</a></div><div class="ttdeci">@ SPELL_PALADIN_JUDGEMENT_DAMAGE</div><div class="ttdef"><b>Definition:</b> spell_paladin.cpp:59</div></div>
+<div class="ttc" id="aa02048_html_a0d9fc6ef3866d56692ca47a1a36dc997a838fe12702dda38a84230bec6ce2b931"><div class="ttname"><a href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997a838fe12702dda38a84230bec6ce2b931">SPELL_PALADIN_SEAL_OF_RIGHTEOUSNESS</a></div><div class="ttdeci">@ SPELL_PALADIN_SEAL_OF_RIGHTEOUSNESS</div><div class="ttdef"><b>Definition:</b> spell_paladin.cpp:71</div></div>
+<div class="ttc" id="aa02048_html_a0d9fc6ef3866d56692ca47a1a36dc997a87098532674dfee7cbec4eb68f137c7a"><div class="ttname"><a href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997a87098532674dfee7cbec4eb68f137c7a">SPELL_PALADIN_BLESSING_OF_LOWER_CITY_PALADIN</a></div><div class="ttdeci">@ SPELL_PALADIN_BLESSING_OF_LOWER_CITY_PALADIN</div><div class="ttdef"><b>Definition:</b> spell_paladin.cpp:42</div></div>
+<div class="ttc" id="aa02048_html_a0d9fc6ef3866d56692ca47a1a36dc997a8784d668b3811647b8d6e75527795dca"><div class="ttname"><a href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997a8784d668b3811647b8d6e75527795dca">SPELL_PALADIN_BLESSING_OF_LOWER_CITY_DRUID</a></div><div class="ttdeci">@ SPELL_PALADIN_BLESSING_OF_LOWER_CITY_DRUID</div><div class="ttdef"><b>Definition:</b> spell_paladin.cpp:41</div></div>
+<div class="ttc" id="aa02048_html_a0d9fc6ef3866d56692ca47a1a36dc997a8797d61ee5f61c06887d57564aa5aa1d"><div class="ttname"><a href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997a8797d61ee5f61c06887d57564aa5aa1d">SPELL_IMPROVED_JUDGEMENT</a></div><div class="ttdeci">@ SPELL_IMPROVED_JUDGEMENT</div><div class="ttdef"><b>Definition:</b> spell_paladin.cpp:92</div></div>
+<div class="ttc" id="aa02048_html_a0d9fc6ef3866d56692ca47a1a36dc997a8d2e9c77e658d9208f978dd55aa92e2d"><div class="ttname"><a href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997a8d2e9c77e658d9208f978dd55aa92e2d">SPELL_PALADIN_RIGHTEOUS_DEFENSE_TAUNT</a></div><div class="ttdeci">@ SPELL_PALADIN_RIGHTEOUS_DEFENSE_TAUNT</div><div class="ttdef"><b>Definition:</b> spell_paladin.cpp:66</div></div>
+<div class="ttc" id="aa02048_html_a0d9fc6ef3866d56692ca47a1a36dc997a90a5d2b7327d3b1e72ac8b7731299938"><div class="ttname"><a href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997a90a5d2b7327d3b1e72ac8b7731299938">SPELL_PALADIN_SANCTIFIED_RETRIBUTION_R1</a></div><div class="ttdeci">@ SPELL_PALADIN_SANCTIFIED_RETRIBUTION_R1</div><div class="ttdef"><b>Definition:</b> spell_paladin.cpp:74</div></div>
+<div class="ttc" id="aa02048_html_a0d9fc6ef3866d56692ca47a1a36dc997a90b8d4b96753977c3a37a7c3f52eb930"><div class="ttname"><a href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997a90b8d4b96753977c3a37a7c3f52eb930">SPELL_PALADIN_DIVINE_PLEA</a></div><div class="ttdeci">@ SPELL_PALADIN_DIVINE_PLEA</div><div class="ttdef"><b>Definition:</b> spell_paladin.cpp:33</div></div>
+<div class="ttc" id="aa02048_html_a0d9fc6ef3866d56692ca47a1a36dc997a9e68b448e59e19457cdd35ba5f94fdf5"><div class="ttname"><a href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997a9e68b448e59e19457cdd35ba5f94fdf5">SPELL_PALADIN_CONCENTRACTION_AURA</a></div><div class="ttdeci">@ SPELL_PALADIN_CONCENTRACTION_AURA</div><div class="ttdef"><b>Definition:</b> spell_paladin.cpp:73</div></div>
+<div class="ttc" id="aa02048_html_a0d9fc6ef3866d56692ca47a1a36dc997a9e95c58cacee6e93d45b58d780f6cbc1"><div class="ttname"><a href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997a9e95c58cacee6e93d45b58d780f6cbc1">SPELL_PALADIN_FORBEARANCE</a></div><div class="ttdeci">@ SPELL_PALADIN_FORBEARANCE</div><div class="ttdef"><b>Definition:</b> spell_paladin.cpp:52</div></div>
+<div class="ttc" id="aa02048_html_a0d9fc6ef3866d56692ca47a1a36dc997aa04478bfbd9088482d32a2b9be1baf68"><div class="ttname"><a href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997aa04478bfbd9088482d32a2b9be1baf68">SPELL_PALADIN_HOLY_VENGEANCE</a></div><div class="ttdeci">@ SPELL_PALADIN_HOLY_VENGEANCE</div><div class="ttdef"><b>Definition:</b> spell_paladin.cpp:95</div></div>
+<div class="ttc" id="aa02048_html_a0d9fc6ef3866d56692ca47a1a36dc997aa7f1722c04bf111b33fd255860eb28ee"><div class="ttname"><a href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997aa7f1722c04bf111b33fd255860eb28ee">SPELL_PALADIN_HAND_OF_SACRIFICE</a></div><div class="ttdeci">@ SPELL_PALADIN_HAND_OF_SACRIFICE</div><div class="ttdef"><b>Definition:</b> spell_paladin.cpp:56</div></div>
+<div class="ttc" id="aa02048_html_a0d9fc6ef3866d56692ca47a1a36dc997aab5e92129a532ae938e29dec3ac9119f"><div class="ttname"><a href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997aab5e92129a532ae938e29dec3ac9119f">SPELL_PALADIN_BLOOD_CORRUPTION</a></div><div class="ttdeci">@ SPELL_PALADIN_BLOOD_CORRUPTION</div><div class="ttdef"><b>Definition:</b> spell_paladin.cpp:96</div></div>
+<div class="ttc" id="aa02048_html_a0d9fc6ef3866d56692ca47a1a36dc997ab186496ea740e2f5f7a43e8cb9ad3332"><div class="ttname"><a href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997ab186496ea740e2f5f7a43e8cb9ad3332">SPELL_PALADIN_IMMUNE_SHIELD_MARKER</a></div><div class="ttdeci">@ SPELL_PALADIN_IMMUNE_SHIELD_MARKER</div><div class="ttdef"><b>Definition:</b> spell_paladin.cpp:54</div></div>
+<div class="ttc" id="aa02048_html_a0d9fc6ef3866d56692ca47a1a36dc997ab45849c2d9dd8159716148da84cd14dd"><div class="ttname"><a href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997ab45849c2d9dd8159716148da84cd14dd">SPELL_JUDGEMENTS_OF_THE_JUST</a></div><div class="ttdeci">@ SPELL_JUDGEMENTS_OF_THE_JUST</div><div class="ttdef"><b>Definition:</b> spell_paladin.cpp:82</div></div>
+<div class="ttc" id="aa02048_html_a0d9fc6ef3866d56692ca47a1a36dc997ab6aa4b3a2cb3fc10973d44b2f9cbf117"><div class="ttname"><a href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997ab6aa4b3a2cb3fc10973d44b2f9cbf117">SPELL_PALADIN_SWIFT_RETRIBUTION_R1</a></div><div class="ttdeci">@ SPELL_PALADIN_SWIFT_RETRIBUTION_R1</div><div class="ttdef"><b>Definition:</b> spell_paladin.cpp:75</div></div>
+<div class="ttc" id="aa02048_html_a0d9fc6ef3866d56692ca47a1a36dc997ab78c206cdfd6c33856eae4f43043c84f"><div class="ttname"><a href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997ab78c206cdfd6c33856eae4f43043c84f">SPELL_PALADIN_BLESSING_OF_SANCTUARY_ENERGIZE</a></div><div class="ttdeci">@ SPELL_PALADIN_BLESSING_OF_SANCTUARY_ENERGIZE</div><div class="ttdef"><b>Definition:</b> spell_paladin.cpp:35</div></div>
+<div class="ttc" id="aa02048_html_a0d9fc6ef3866d56692ca47a1a36dc997abe8a72d828e14bfb019987f642bfb57b"><div class="ttname"><a href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997abe8a72d828e14bfb019987f642bfb57b">SPELL_PALADIN_DIVINE_STORM_DUMMY</a></div><div class="ttdeci">@ SPELL_PALADIN_DIVINE_STORM_DUMMY</div><div class="ttdef"><b>Definition:</b> spell_paladin.cpp:47</div></div>
+<div class="ttc" id="aa02048_html_a0d9fc6ef3866d56692ca47a1a36dc997abfb3ebc9575cb371cb968052f029534e"><div class="ttname"><a href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997abfb3ebc9575cb371cb968052f029534e">SPELL_JUDGEMENT_OF_CORRUPTION_EFFECT</a></div><div class="ttdeci">@ SPELL_JUDGEMENT_OF_CORRUPTION_EFFECT</div><div class="ttdef"><b>Definition:</b> spell_paladin.cpp:85</div></div>
+<div class="ttc" id="aa02048_html_a0d9fc6ef3866d56692ca47a1a36dc997ac019ade4907151f471f3c55bcb638814"><div class="ttname"><a href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997ac019ade4907151f471f3c55bcb638814">SPELL_PALADIN_IMPROVED_DEVOTION_AURA</a></div><div class="ttdeci">@ SPELL_PALADIN_IMPROVED_DEVOTION_AURA</div><div class="ttdef"><b>Definition:</b> spell_paladin.cpp:78</div></div>
+<div class="ttc" id="aa02048_html_a0d9fc6ef3866d56692ca47a1a36dc997ac0d213e9b3f3961d0eee5bedc3cfa7b5"><div class="ttname"><a href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997ac0d213e9b3f3961d0eee5bedc3cfa7b5">SPELL_PALADIN_JUDGEMENT_OF_JUSTICE</a></div><div class="ttdeci">@ SPELL_PALADIN_JUDGEMENT_OF_JUSTICE</div><div class="ttdef"><b>Definition:</b> spell_paladin.cpp:60</div></div>
+<div class="ttc" id="aa02048_html_a0d9fc6ef3866d56692ca47a1a36dc997ac7ce94f95589a1fd9de8b2fd940c2554"><div class="ttname"><a href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997ac7ce94f95589a1fd9de8b2fd940c2554">SPELL_PALADIN_BLESSING_OF_LOWER_CITY_PRIEST</a></div><div class="ttdeci">@ SPELL_PALADIN_BLESSING_OF_LOWER_CITY_PRIEST</div><div class="ttdef"><b>Definition:</b> spell_paladin.cpp:43</div></div>
+<div class="ttc" id="aa02048_html_a0d9fc6ef3866d56692ca47a1a36dc997ad19416dd5cf9361a11a5e31a7db8e4ac"><div class="ttname"><a href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997ad19416dd5cf9361a11a5e31a7db8e4ac">SPELL_PALADIN_JUDGEMENT_OF_LIGHT</a></div><div class="ttdeci">@ SPELL_PALADIN_JUDGEMENT_OF_LIGHT</div><div class="ttdef"><b>Definition:</b> spell_paladin.cpp:61</div></div>
+<div class="ttc" id="aa02048_html_a0d9fc6ef3866d56692ca47a1a36dc997ad226fe296b9beba4249f9167cb077ded"><div class="ttname"><a href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997ad226fe296b9beba4249f9167cb077ded">SPELL_PALADIN_GLYPH_OF_SALVATION</a></div><div class="ttdeci">@ SPELL_PALADIN_GLYPH_OF_SALVATION</div><div class="ttdef"><b>Definition:</b> spell_paladin.cpp:64</div></div>
+<div class="ttc" id="aa02048_html_a0d9fc6ef3866d56692ca47a1a36dc997ad4b43b320120743ea433fa50c19e321a"><div class="ttname"><a href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997ad4b43b320120743ea433fa50c19e321a">SPELL_PALADIN_DIVINE_STORM_HEAL</a></div><div class="ttdeci">@ SPELL_PALADIN_DIVINE_STORM_HEAL</div><div class="ttdef"><b>Definition:</b> spell_paladin.cpp:48</div></div>
+<div class="ttc" id="aa02048_html_a0d9fc6ef3866d56692ca47a1a36dc997adeab8bca6bc061ff58205ba827f7be2a"><div class="ttname"><a href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997adeab8bca6bc061ff58205ba827f7be2a">SPELL_PALADIN_DIVINE_STORM</a></div><div class="ttdeci">@ SPELL_PALADIN_DIVINE_STORM</div><div class="ttdef"><b>Definition:</b> spell_paladin.cpp:46</div></div>
+<div class="ttc" id="aa02048_html_a0d9fc6ef3866d56692ca47a1a36dc997adf2f861d24f3b72f6b19d18448464317"><div class="ttname"><a href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997adf2f861d24f3b72f6b19d18448464317">SPELL_PALADIN_JUDGEMENT_OF_WISDOM</a></div><div class="ttdeci">@ SPELL_PALADIN_JUDGEMENT_OF_WISDOM</div><div class="ttdef"><b>Definition:</b> spell_paladin.cpp:62</div></div>
+<div class="ttc" id="aa02048_html_a0d9fc6ef3866d56692ca47a1a36dc997ae0d41f174ff2a7de11777c3692560e20"><div class="ttname"><a href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997ae0d41f174ff2a7de11777c3692560e20">SPELL_JUDGEMENT_OF_VENGEANCE_EFFECT</a></div><div class="ttdeci">@ SPELL_JUDGEMENT_OF_VENGEANCE_EFFECT</div><div class="ttdef"><b>Definition:</b> spell_paladin.cpp:83</div></div>
+<div class="ttc" id="aa02048_html_a0d9fc6ef3866d56692ca47a1a36dc997ae18f09f0b0f9822f06e5b1f5cfb646eb"><div class="ttname"><a href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997ae18f09f0b0f9822f06e5b1f5cfb646eb">SPELL_IMPROVED_JUDGEMENT_ENERGIZE</a></div><div class="ttdeci">@ SPELL_IMPROVED_JUDGEMENT_ENERGIZE</div><div class="ttdef"><b>Definition:</b> spell_paladin.cpp:93</div></div>
+<div class="ttc" id="aa02048_html_a0d9fc6ef3866d56692ca47a1a36dc997aef13de7305034f841aaf427f32b5926b"><div class="ttname"><a href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997aef13de7305034f841aaf427f32b5926b">SPELL_BLOOD_CORRUPTION</a></div><div class="ttdeci">@ SPELL_BLOOD_CORRUPTION</div><div class="ttdef"><b>Definition:</b> spell_paladin.cpp:86</div></div>
+<div class="ttc" id="aa02048_html_a0d9fc6ef3866d56692ca47a1a36dc997af1c99f5067e5ef0ef1fb7f96bd317bf4"><div class="ttname"><a href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997af1c99f5067e5ef0ef1fb7f96bd317bf4">SPELL_GENERIC_BATTLEGROUND_DAMPENING</a></div><div class="ttdeci">@ SPELL_GENERIC_BATTLEGROUND_DAMPENING</div><div class="ttdef"><b>Definition:</b> spell_paladin.cpp:89</div></div>
+<div class="ttc" id="aa02048_html_a0d9fc6ef3866d56692ca47a1a36dc997af4bfe8574c1cf0f1c342e05fea2f232a"><div class="ttname"><a href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997af4bfe8574c1cf0f1c342e05fea2f232a">SPELL_PALADIN_HOLY_SHOCK_R1</a></div><div class="ttdeci">@ SPELL_PALADIN_HOLY_SHOCK_R1</div><div class="ttdef"><b>Definition:</b> spell_paladin.cpp:37</div></div>
 </div><!-- fragment -->
 </div>
 </div>
-<a id="a3b6904b8a00ed8f7a67396dee6e9aef5" name="a3b6904b8a00ed8f7a67396dee6e9aef5"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a3b6904b8a00ed8f7a67396dee6e9aef5">&#9670;&#160;</a></span>LoginResult</h2>
+<h2 class="groupheader">Function Documentation</h2>
+<a id="a1b3a1eb790e51c96829e92e5c922f437" name="a1b3a1eb790e51c96829e92e5c922f437"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1b3a1eb790e51c96829e92e5c922f437">&#9670;&#160;</a></span>AddSC_paladin_spell_scripts()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">enum <a class="el" href="../../d1/d39/a02048.html#a3b6904b8a00ed8f7a67396dee6e9aef5">LoginResult</a></td>
+          <td class="memname">void AddSC_paladin_spell_scripts </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a3b6904b8a00ed8f7a67396dee6e9aef5a9da8cbfbe2c1a4f3ebd3d44a961adabb" name="a3b6904b8a00ed8f7a67396dee6e9aef5a9da8cbfbe2c1a4f3ebd3d44a961adabb"></a>LOGIN_OK&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a3b6904b8a00ed8f7a67396dee6e9aef5ad57e6995e0b5105bfeb9bde15ed0a7a0" name="a3b6904b8a00ed8f7a67396dee6e9aef5ad57e6995e0b5105bfeb9bde15ed0a7a0"></a>LOGIN_FAILED&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a3b6904b8a00ed8f7a67396dee6e9aef5a501cd3d3224142afdb0ddd84933f7b56" name="a3b6904b8a00ed8f7a67396dee6e9aef5a501cd3d3224142afdb0ddd84933f7b56"></a>LOGIN_FAILED2&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a3b6904b8a00ed8f7a67396dee6e9aef5abd5993385d5cc24dd420523a27166005" name="a3b6904b8a00ed8f7a67396dee6e9aef5abd5993385d5cc24dd420523a27166005"></a>LOGIN_BANNED&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a3b6904b8a00ed8f7a67396dee6e9aef5a09d810ee618be6b94e3f65997504e6b3" name="a3b6904b8a00ed8f7a67396dee6e9aef5a09d810ee618be6b94e3f65997504e6b3"></a>LOGIN_UNKNOWN_ACCOUNT&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a3b6904b8a00ed8f7a67396dee6e9aef5a9cd182cb4b751e7fb72928ec376b15bc" name="a3b6904b8a00ed8f7a67396dee6e9aef5a9cd182cb4b751e7fb72928ec376b15bc"></a>LOGIN_UNKNOWN_ACCOUNT3&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a3b6904b8a00ed8f7a67396dee6e9aef5a9a53be7e776883d12703dcbb4ed651e5" name="a3b6904b8a00ed8f7a67396dee6e9aef5a9a53be7e776883d12703dcbb4ed651e5"></a>LOGIN_ALREADYONLINE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a3b6904b8a00ed8f7a67396dee6e9aef5a2ce8ce1e836148b73775ad265ab0f342" name="a3b6904b8a00ed8f7a67396dee6e9aef5a2ce8ce1e836148b73775ad265ab0f342"></a>LOGIN_NOTIME&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a3b6904b8a00ed8f7a67396dee6e9aef5af4f0024867276f532e675c24aadcfce8" name="a3b6904b8a00ed8f7a67396dee6e9aef5af4f0024867276f532e675c24aadcfce8"></a>LOGIN_DBBUSY&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a3b6904b8a00ed8f7a67396dee6e9aef5ae585e165f05e752918e316544b78a91c" name="a3b6904b8a00ed8f7a67396dee6e9aef5ae585e165f05e752918e316544b78a91c"></a>LOGIN_BADVERSION&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a3b6904b8a00ed8f7a67396dee6e9aef5a37d9b65d118199e570e0dbfc227bd309" name="a3b6904b8a00ed8f7a67396dee6e9aef5a37d9b65d118199e570e0dbfc227bd309"></a>LOGIN_DOWNLOAD_FILE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a3b6904b8a00ed8f7a67396dee6e9aef5af97075f074e84f11375e22e912235aa3" name="a3b6904b8a00ed8f7a67396dee6e9aef5af97075f074e84f11375e22e912235aa3"></a>LOGIN_FAILED3&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a3b6904b8a00ed8f7a67396dee6e9aef5a401d988d19cea26726562ab92417060b" name="a3b6904b8a00ed8f7a67396dee6e9aef5a401d988d19cea26726562ab92417060b"></a>LOGIN_SUSPENDED&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a3b6904b8a00ed8f7a67396dee6e9aef5a09338db3247d56c3cc7e41d4de1ed06e" name="a3b6904b8a00ed8f7a67396dee6e9aef5a09338db3247d56c3cc7e41d4de1ed06e"></a>LOGIN_FAILED4&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a3b6904b8a00ed8f7a67396dee6e9aef5a1bbff3f5057ee056e293eb7ca46968ae" name="a3b6904b8a00ed8f7a67396dee6e9aef5a1bbff3f5057ee056e293eb7ca46968ae"></a>LOGIN_CONNECTED&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a3b6904b8a00ed8f7a67396dee6e9aef5afcb2d09c101442419ef3262095e9b860" name="a3b6904b8a00ed8f7a67396dee6e9aef5afcb2d09c101442419ef3262095e9b860"></a>LOGIN_PARENTALCONTROL&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a3b6904b8a00ed8f7a67396dee6e9aef5a683788d94491faa7b0ce45a64e0a2c02" name="a3b6904b8a00ed8f7a67396dee6e9aef5a683788d94491faa7b0ce45a64e0a2c02"></a>LOGIN_LOCKED_ENFORCED&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">   54</span>{</div>
-<div class="line"><span class="lineno">   55</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a3b6904b8a00ed8f7a67396dee6e9aef5a9da8cbfbe2c1a4f3ebd3d44a961adabb">LOGIN_OK</a>                                     = 0x00,</div>
-<div class="line"><span class="lineno">   56</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a3b6904b8a00ed8f7a67396dee6e9aef5ad57e6995e0b5105bfeb9bde15ed0a7a0">LOGIN_FAILED</a>                                 = 0x01,</div>
-<div class="line"><span class="lineno">   57</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a3b6904b8a00ed8f7a67396dee6e9aef5a501cd3d3224142afdb0ddd84933f7b56">LOGIN_FAILED2</a>                                = 0x02,</div>
-<div class="line"><span class="lineno">   58</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a3b6904b8a00ed8f7a67396dee6e9aef5abd5993385d5cc24dd420523a27166005">LOGIN_BANNED</a>                                 = 0x03,</div>
-<div class="line"><span class="lineno">   59</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a3b6904b8a00ed8f7a67396dee6e9aef5a09d810ee618be6b94e3f65997504e6b3">LOGIN_UNKNOWN_ACCOUNT</a>                        = 0x04,</div>
-<div class="line"><span class="lineno">   60</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a3b6904b8a00ed8f7a67396dee6e9aef5a9cd182cb4b751e7fb72928ec376b15bc">LOGIN_UNKNOWN_ACCOUNT3</a>                       = 0x05,</div>
-<div class="line"><span class="lineno">   61</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a3b6904b8a00ed8f7a67396dee6e9aef5a9a53be7e776883d12703dcbb4ed651e5">LOGIN_ALREADYONLINE</a>                          = 0x06,</div>
-<div class="line"><span class="lineno">   62</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a3b6904b8a00ed8f7a67396dee6e9aef5a2ce8ce1e836148b73775ad265ab0f342">LOGIN_NOTIME</a>                                 = 0x07,</div>
-<div class="line"><span class="lineno">   63</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a3b6904b8a00ed8f7a67396dee6e9aef5af4f0024867276f532e675c24aadcfce8">LOGIN_DBBUSY</a>                                 = 0x08,</div>
-<div class="line"><span class="lineno">   64</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a3b6904b8a00ed8f7a67396dee6e9aef5ae585e165f05e752918e316544b78a91c">LOGIN_BADVERSION</a>                             = 0x09,</div>
-<div class="line"><span class="lineno">   65</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a3b6904b8a00ed8f7a67396dee6e9aef5a37d9b65d118199e570e0dbfc227bd309">LOGIN_DOWNLOAD_FILE</a>                          = 0x0A,</div>
-<div class="line"><span class="lineno">   66</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a3b6904b8a00ed8f7a67396dee6e9aef5af97075f074e84f11375e22e912235aa3">LOGIN_FAILED3</a>                                = 0x0B,</div>
-<div class="line"><span class="lineno">   67</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a3b6904b8a00ed8f7a67396dee6e9aef5a401d988d19cea26726562ab92417060b">LOGIN_SUSPENDED</a>                              = 0x0C,</div>
-<div class="line"><span class="lineno">   68</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a3b6904b8a00ed8f7a67396dee6e9aef5a09338db3247d56c3cc7e41d4de1ed06e">LOGIN_FAILED4</a>                                = 0x0D,</div>
-<div class="line"><span class="lineno">   69</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a3b6904b8a00ed8f7a67396dee6e9aef5a1bbff3f5057ee056e293eb7ca46968ae">LOGIN_CONNECTED</a>                              = 0x0E,</div>
-<div class="line"><span class="lineno">   70</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a3b6904b8a00ed8f7a67396dee6e9aef5afcb2d09c101442419ef3262095e9b860">LOGIN_PARENTALCONTROL</a>                        = 0x0F,</div>
-<div class="line"><span class="lineno">   71</span>    <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a3b6904b8a00ed8f7a67396dee6e9aef5a683788d94491faa7b0ce45a64e0a2c02">LOGIN_LOCKED_ENFORCED</a>                        = 0x10</div>
-<div class="line"><span class="lineno">   72</span>};</div>
-<div class="ttc" id="aa02048_html_a3b6904b8a00ed8f7a67396dee6e9aef5a09338db3247d56c3cc7e41d4de1ed06e"><div class="ttname"><a href="../../d1/d39/a02048.html#a3b6904b8a00ed8f7a67396dee6e9aef5a09338db3247d56c3cc7e41d4de1ed06e">LOGIN_FAILED4</a></div><div class="ttdeci">@ LOGIN_FAILED4</div><div class="ttdef"><b>Definition:</b> AuthCodes.h:68</div></div>
-<div class="ttc" id="aa02048_html_a3b6904b8a00ed8f7a67396dee6e9aef5a09d810ee618be6b94e3f65997504e6b3"><div class="ttname"><a href="../../d1/d39/a02048.html#a3b6904b8a00ed8f7a67396dee6e9aef5a09d810ee618be6b94e3f65997504e6b3">LOGIN_UNKNOWN_ACCOUNT</a></div><div class="ttdeci">@ LOGIN_UNKNOWN_ACCOUNT</div><div class="ttdef"><b>Definition:</b> AuthCodes.h:59</div></div>
-<div class="ttc" id="aa02048_html_a3b6904b8a00ed8f7a67396dee6e9aef5a1bbff3f5057ee056e293eb7ca46968ae"><div class="ttname"><a href="../../d1/d39/a02048.html#a3b6904b8a00ed8f7a67396dee6e9aef5a1bbff3f5057ee056e293eb7ca46968ae">LOGIN_CONNECTED</a></div><div class="ttdeci">@ LOGIN_CONNECTED</div><div class="ttdef"><b>Definition:</b> AuthCodes.h:69</div></div>
-<div class="ttc" id="aa02048_html_a3b6904b8a00ed8f7a67396dee6e9aef5a2ce8ce1e836148b73775ad265ab0f342"><div class="ttname"><a href="../../d1/d39/a02048.html#a3b6904b8a00ed8f7a67396dee6e9aef5a2ce8ce1e836148b73775ad265ab0f342">LOGIN_NOTIME</a></div><div class="ttdeci">@ LOGIN_NOTIME</div><div class="ttdef"><b>Definition:</b> AuthCodes.h:62</div></div>
-<div class="ttc" id="aa02048_html_a3b6904b8a00ed8f7a67396dee6e9aef5a37d9b65d118199e570e0dbfc227bd309"><div class="ttname"><a href="../../d1/d39/a02048.html#a3b6904b8a00ed8f7a67396dee6e9aef5a37d9b65d118199e570e0dbfc227bd309">LOGIN_DOWNLOAD_FILE</a></div><div class="ttdeci">@ LOGIN_DOWNLOAD_FILE</div><div class="ttdef"><b>Definition:</b> AuthCodes.h:65</div></div>
-<div class="ttc" id="aa02048_html_a3b6904b8a00ed8f7a67396dee6e9aef5a401d988d19cea26726562ab92417060b"><div class="ttname"><a href="../../d1/d39/a02048.html#a3b6904b8a00ed8f7a67396dee6e9aef5a401d988d19cea26726562ab92417060b">LOGIN_SUSPENDED</a></div><div class="ttdeci">@ LOGIN_SUSPENDED</div><div class="ttdef"><b>Definition:</b> AuthCodes.h:67</div></div>
-<div class="ttc" id="aa02048_html_a3b6904b8a00ed8f7a67396dee6e9aef5a501cd3d3224142afdb0ddd84933f7b56"><div class="ttname"><a href="../../d1/d39/a02048.html#a3b6904b8a00ed8f7a67396dee6e9aef5a501cd3d3224142afdb0ddd84933f7b56">LOGIN_FAILED2</a></div><div class="ttdeci">@ LOGIN_FAILED2</div><div class="ttdef"><b>Definition:</b> AuthCodes.h:57</div></div>
-<div class="ttc" id="aa02048_html_a3b6904b8a00ed8f7a67396dee6e9aef5a683788d94491faa7b0ce45a64e0a2c02"><div class="ttname"><a href="../../d1/d39/a02048.html#a3b6904b8a00ed8f7a67396dee6e9aef5a683788d94491faa7b0ce45a64e0a2c02">LOGIN_LOCKED_ENFORCED</a></div><div class="ttdeci">@ LOGIN_LOCKED_ENFORCED</div><div class="ttdef"><b>Definition:</b> AuthCodes.h:71</div></div>
-<div class="ttc" id="aa02048_html_a3b6904b8a00ed8f7a67396dee6e9aef5a9a53be7e776883d12703dcbb4ed651e5"><div class="ttname"><a href="../../d1/d39/a02048.html#a3b6904b8a00ed8f7a67396dee6e9aef5a9a53be7e776883d12703dcbb4ed651e5">LOGIN_ALREADYONLINE</a></div><div class="ttdeci">@ LOGIN_ALREADYONLINE</div><div class="ttdef"><b>Definition:</b> AuthCodes.h:61</div></div>
-<div class="ttc" id="aa02048_html_a3b6904b8a00ed8f7a67396dee6e9aef5a9cd182cb4b751e7fb72928ec376b15bc"><div class="ttname"><a href="../../d1/d39/a02048.html#a3b6904b8a00ed8f7a67396dee6e9aef5a9cd182cb4b751e7fb72928ec376b15bc">LOGIN_UNKNOWN_ACCOUNT3</a></div><div class="ttdeci">@ LOGIN_UNKNOWN_ACCOUNT3</div><div class="ttdef"><b>Definition:</b> AuthCodes.h:60</div></div>
-<div class="ttc" id="aa02048_html_a3b6904b8a00ed8f7a67396dee6e9aef5a9da8cbfbe2c1a4f3ebd3d44a961adabb"><div class="ttname"><a href="../../d1/d39/a02048.html#a3b6904b8a00ed8f7a67396dee6e9aef5a9da8cbfbe2c1a4f3ebd3d44a961adabb">LOGIN_OK</a></div><div class="ttdeci">@ LOGIN_OK</div><div class="ttdef"><b>Definition:</b> AuthCodes.h:55</div></div>
-<div class="ttc" id="aa02048_html_a3b6904b8a00ed8f7a67396dee6e9aef5abd5993385d5cc24dd420523a27166005"><div class="ttname"><a href="../../d1/d39/a02048.html#a3b6904b8a00ed8f7a67396dee6e9aef5abd5993385d5cc24dd420523a27166005">LOGIN_BANNED</a></div><div class="ttdeci">@ LOGIN_BANNED</div><div class="ttdef"><b>Definition:</b> AuthCodes.h:58</div></div>
-<div class="ttc" id="aa02048_html_a3b6904b8a00ed8f7a67396dee6e9aef5ad57e6995e0b5105bfeb9bde15ed0a7a0"><div class="ttname"><a href="../../d1/d39/a02048.html#a3b6904b8a00ed8f7a67396dee6e9aef5ad57e6995e0b5105bfeb9bde15ed0a7a0">LOGIN_FAILED</a></div><div class="ttdeci">@ LOGIN_FAILED</div><div class="ttdef"><b>Definition:</b> AuthCodes.h:56</div></div>
-<div class="ttc" id="aa02048_html_a3b6904b8a00ed8f7a67396dee6e9aef5ae585e165f05e752918e316544b78a91c"><div class="ttname"><a href="../../d1/d39/a02048.html#a3b6904b8a00ed8f7a67396dee6e9aef5ae585e165f05e752918e316544b78a91c">LOGIN_BADVERSION</a></div><div class="ttdeci">@ LOGIN_BADVERSION</div><div class="ttdef"><b>Definition:</b> AuthCodes.h:64</div></div>
-<div class="ttc" id="aa02048_html_a3b6904b8a00ed8f7a67396dee6e9aef5af4f0024867276f532e675c24aadcfce8"><div class="ttname"><a href="../../d1/d39/a02048.html#a3b6904b8a00ed8f7a67396dee6e9aef5af4f0024867276f532e675c24aadcfce8">LOGIN_DBBUSY</a></div><div class="ttdeci">@ LOGIN_DBBUSY</div><div class="ttdef"><b>Definition:</b> AuthCodes.h:63</div></div>
-<div class="ttc" id="aa02048_html_a3b6904b8a00ed8f7a67396dee6e9aef5af97075f074e84f11375e22e912235aa3"><div class="ttname"><a href="../../d1/d39/a02048.html#a3b6904b8a00ed8f7a67396dee6e9aef5af97075f074e84f11375e22e912235aa3">LOGIN_FAILED3</a></div><div class="ttdeci">@ LOGIN_FAILED3</div><div class="ttdef"><b>Definition:</b> AuthCodes.h:66</div></div>
-<div class="ttc" id="aa02048_html_a3b6904b8a00ed8f7a67396dee6e9aef5afcb2d09c101442419ef3262095e9b860"><div class="ttname"><a href="../../d1/d39/a02048.html#a3b6904b8a00ed8f7a67396dee6e9aef5afcb2d09c101442419ef3262095e9b860">LOGIN_PARENTALCONTROL</a></div><div class="ttdeci">@ LOGIN_PARENTALCONTROL</div><div class="ttdef"><b>Definition:</b> AuthCodes.h:70</div></div>
+<div class="fragment"><div class="line"><span class="lineno"> 1184</span>{</div>
+<div class="line"><span class="lineno"> 1185</span>    <a class="code hl_define" href="../../db/d6b/a01853.html#a69b21d1b83cecaba944f4e9379bc866c">RegisterSpellAndAuraScriptPair</a>(<a class="code hl_class" href="../../d9/d44/a26011.html">spell_pal_seal_of_command</a>, <a class="code hl_class" href="../../de/da1/a26007.html">spell_pal_seal_of_command_aura</a>);</div>
+<div class="line"><span class="lineno"> 1186</span>    <a class="code hl_define" href="../../db/d6b/a01853.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d0/d86/a26015.html">spell_pal_divine_intervention</a>);</div>
+<div class="line"><span class="lineno"> 1187</span>    <a class="code hl_define" href="../../db/d6b/a01853.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d1/dd8/a26019.html">spell_pal_seal_of_light</a>);</div>
+<div class="line"><span class="lineno"> 1188</span>    <a class="code hl_define" href="../../db/d6b/a01853.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d6/df0/a26023.html">spell_pal_sacred_shield_base</a>);</div>
+<div class="line"><span class="lineno"> 1189</span>    <a class="code hl_define" href="../../db/d6b/a01853.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d6/dda/a26027.html">spell_pal_ardent_defender</a>);</div>
+<div class="line"><span class="lineno"> 1190</span>    <a class="code hl_define" href="../../db/d6b/a01853.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d5/d2c/a26031.html">spell_pal_avenging_wrath</a>);</div>
+<div class="line"><span class="lineno"> 1191</span>    <a class="code hl_define" href="../../db/d6b/a01853.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d0/dc1/a26035.html">spell_pal_blessing_of_faith</a>);</div>
+<div class="line"><span class="lineno"> 1192</span>    <a class="code hl_define" href="../../db/d6b/a01853.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../db/dbc/a26039.html">spell_pal_blessing_of_sanctuary</a>);</div>
+<div class="line"><span class="lineno"> 1193</span>    <a class="code hl_define" href="../../db/d6b/a01853.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d9/d88/a26043.html">spell_pal_divine_sacrifice</a>);</div>
+<div class="line"><span class="lineno"> 1194</span>    <a class="code hl_define" href="../../db/d6b/a01853.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d1/d3c/a26047.html">spell_pal_divine_storm</a>);</div>
+<div class="line"><span class="lineno"> 1195</span>    <a class="code hl_define" href="../../db/d6b/a01853.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../db/d2f/a26051.html">spell_pal_divine_storm_dummy</a>);</div>
+<div class="line"><span class="lineno"> 1196</span>    <a class="code hl_define" href="../../db/d6b/a01853.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d8/dd3/a26055.html">spell_pal_exorcism_and_holy_wrath_damage</a>);</div>
+<div class="line"><span class="lineno"> 1197</span>    <a class="code hl_define" href="../../db/d6b/a01853.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d8/d4b/a26059.html">spell_pal_eye_for_an_eye</a>);</div>
+<div class="line"><span class="lineno"> 1198</span>    <a class="code hl_define" href="../../db/d6b/a01853.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../de/d1f/a26063.html">spell_pal_glyph_of_holy_light</a>);</div>
+<div class="line"><span class="lineno"> 1199</span>    <a class="code hl_define" href="../../db/d6b/a01853.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d6/d96/a26067.html">spell_pal_guarded_by_the_light</a>);</div>
+<div class="line"><span class="lineno"> 1200</span>    <a class="code hl_define" href="../../db/d6b/a01853.html#a69b21d1b83cecaba944f4e9379bc866c">RegisterSpellAndAuraScriptPair</a>(<a class="code hl_class" href="../../da/d29/a26075.html">spell_pal_hand_of_sacrifice</a>, <a class="code hl_class" href="../../d8/d9c/a26071.html">spell_pal_hand_of_sacrifice_aura</a>);</div>
+<div class="line"><span class="lineno"> 1201</span>    <a class="code hl_define" href="../../db/d6b/a01853.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d6/d14/a26079.html">spell_pal_hand_of_salvation</a>);</div>
+<div class="line"><span class="lineno"> 1202</span>    <a class="code hl_define" href="../../db/d6b/a01853.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d3/def/a26083.html">spell_pal_holy_shock</a>);</div>
+<div class="line"><span class="lineno"> 1203</span>    <a class="code hl_define" href="../../db/d6b/a01853.html#aedecf91f4fce46852db865deae243e1f">RegisterSpellScriptWithArgs</a>(<a class="code hl_class" href="../../da/d57/a26087.html">spell_pal_judgement</a>, <span class="stringliteral">&quot;spell_pal_judgement_of_justice&quot;</span>, <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997ac0d213e9b3f3961d0eee5bedc3cfa7b5">SPELL_PALADIN_JUDGEMENT_OF_JUSTICE</a>);</div>
+<div class="line"><span class="lineno"> 1204</span>    <a class="code hl_define" href="../../db/d6b/a01853.html#aedecf91f4fce46852db865deae243e1f">RegisterSpellScriptWithArgs</a>(<a class="code hl_class" href="../../da/d57/a26087.html">spell_pal_judgement</a>, <span class="stringliteral">&quot;spell_pal_judgement_of_light&quot;</span>, <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997ad19416dd5cf9361a11a5e31a7db8e4ac">SPELL_PALADIN_JUDGEMENT_OF_LIGHT</a>);</div>
+<div class="line"><span class="lineno"> 1205</span>    <a class="code hl_define" href="../../db/d6b/a01853.html#aedecf91f4fce46852db865deae243e1f">RegisterSpellScriptWithArgs</a>(<a class="code hl_class" href="../../da/d57/a26087.html">spell_pal_judgement</a>, <span class="stringliteral">&quot;spell_pal_judgement_of_wisdom&quot;</span>, <a class="code hl_enumvalue" href="../../d1/d39/a02048.html#a0d9fc6ef3866d56692ca47a1a36dc997adf2f861d24f3b72f6b19d18448464317">SPELL_PALADIN_JUDGEMENT_OF_WISDOM</a>);</div>
+<div class="line"><span class="lineno"> 1206</span>    <a class="code hl_define" href="../../db/d6b/a01853.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d8/d74/a26091.html">spell_pal_judgement_of_command</a>);</div>
+<div class="line"><span class="lineno"> 1207</span>    <a class="code hl_define" href="../../db/d6b/a01853.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../da/d04/a26095.html">spell_pal_lay_on_hands</a>);</div>
+<div class="line"><span class="lineno"> 1208</span>    <a class="code hl_define" href="../../db/d6b/a01853.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d0/dc7/a26099.html">spell_pal_righteous_defense</a>);</div>
+<div class="line"><span class="lineno"> 1209</span>    <a class="code hl_define" href="../../db/d6b/a01853.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d3/dd5/a26103.html">spell_pal_seal_of_righteousness</a>);</div>
+<div class="line"><span class="lineno"> 1210</span>    <a class="code hl_define" href="../../db/d6b/a01853.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../df/d80/a26107.html">spell_pal_seal_of_vengeance</a>);</div>
+<div class="line"><span class="lineno"> 1211</span>    <a class="code hl_define" href="../../db/d6b/a01853.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d5/dba/a26111.html">spell_pal_hand_of_protection</a>);</div>
+<div class="line"><span class="lineno"> 1212</span>}</div>
+<div class="ttc" id="aa01853_html_a69b21d1b83cecaba944f4e9379bc866c"><div class="ttname"><a href="../../db/d6b/a01853.html#a69b21d1b83cecaba944f4e9379bc866c">RegisterSpellAndAuraScriptPair</a></div><div class="ttdeci">#define RegisterSpellAndAuraScriptPair(script_1, script_2)</div><div class="ttdef"><b>Definition:</b> SpellScriptLoader.h:90</div></div>
+<div class="ttc" id="aa01853_html_ae221e5976ab29ba14fec3b073a03670f"><div class="ttname"><a href="../../db/d6b/a01853.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a></div><div class="ttdeci">#define RegisterSpellScript(spell_script)</div><div class="ttdef"><b>Definition:</b> SpellScriptLoader.h:88</div></div>
+<div class="ttc" id="aa01853_html_aedecf91f4fce46852db865deae243e1f"><div class="ttname"><a href="../../db/d6b/a01853.html#aedecf91f4fce46852db865deae243e1f">RegisterSpellScriptWithArgs</a></div><div class="ttdeci">#define RegisterSpellScriptWithArgs(spell_script, script_name,...)</div><div class="ttdef"><b>Definition:</b> SpellScriptLoader.h:87</div></div>
+<div class="ttc" id="aa26007_html"><div class="ttname"><a href="../../de/da1/a26007.html">spell_pal_seal_of_command_aura</a></div><div class="ttdef"><b>Definition:</b> spell_paladin.cpp:107</div></div>
+<div class="ttc" id="aa26011_html"><div class="ttname"><a href="../../d9/d44/a26011.html">spell_pal_seal_of_command</a></div><div class="ttdef"><b>Definition:</b> spell_paladin.cpp:158</div></div>
+<div class="ttc" id="aa26015_html"><div class="ttname"><a href="../../d0/d86/a26015.html">spell_pal_divine_intervention</a></div><div class="ttdef"><b>Definition:</b> spell_paladin.cpp:176</div></div>
+<div class="ttc" id="aa26019_html"><div class="ttname"><a href="../../d1/dd8/a26019.html">spell_pal_seal_of_light</a></div><div class="ttdef"><b>Definition:</b> spell_paladin.cpp:192</div></div>
+<div class="ttc" id="aa26023_html"><div class="ttname"><a href="../../d6/df0/a26023.html">spell_pal_sacred_shield_base</a></div><div class="ttdef"><b>Definition:</b> spell_paladin.cpp:208</div></div>
+<div class="ttc" id="aa26027_html"><div class="ttname"><a href="../../d6/dda/a26027.html">spell_pal_ardent_defender</a></div><div class="ttdef"><b>Definition:</b> spell_paladin.cpp:304</div></div>
+<div class="ttc" id="aa26031_html"><div class="ttname"><a href="../../d5/d2c/a26031.html">spell_pal_avenging_wrath</a></div><div class="ttdef"><b>Definition:</b> spell_paladin.cpp:382</div></div>
+<div class="ttc" id="aa26035_html"><div class="ttname"><a href="../../d0/dc1/a26035.html">spell_pal_blessing_of_faith</a></div><div class="ttdef"><b>Definition:</b> spell_paladin.cpp:414</div></div>
+<div class="ttc" id="aa26039_html"><div class="ttname"><a href="../../db/dbc/a26039.html">spell_pal_blessing_of_sanctuary</a></div><div class="ttdef"><b>Definition:</b> spell_paladin.cpp:464</div></div>
+<div class="ttc" id="aa26043_html"><div class="ttname"><a href="../../d9/d88/a26043.html">spell_pal_divine_sacrifice</a></div><div class="ttdef"><b>Definition:</b> spell_paladin.cpp:511</div></div>
+<div class="ttc" id="aa26047_html"><div class="ttname"><a href="../../d1/d3c/a26047.html">spell_pal_divine_storm</a></div><div class="ttdef"><b>Definition:</b> spell_paladin.cpp:555</div></div>
+<div class="ttc" id="aa26051_html"><div class="ttname"><a href="../../db/d2f/a26051.html">spell_pal_divine_storm_dummy</a></div><div class="ttdef"><b>Definition:</b> spell_paladin.cpp:586</div></div>
+<div class="ttc" id="aa26055_html"><div class="ttname"><a href="../../d8/dd3/a26055.html">spell_pal_exorcism_and_holy_wrath_damage</a></div><div class="ttdef"><b>Definition:</b> spell_paladin.cpp:620</div></div>
+<div class="ttc" id="aa26059_html"><div class="ttname"><a href="../../d8/d4b/a26059.html">spell_pal_eye_for_an_eye</a></div><div class="ttdef"><b>Definition:</b> spell_paladin.cpp:645</div></div>
+<div class="ttc" id="aa26063_html"><div class="ttname"><a href="../../de/d1f/a26063.html">spell_pal_glyph_of_holy_light</a></div><div class="ttdef"><b>Definition:</b> spell_paladin.cpp:677</div></div>
+<div class="ttc" id="aa26067_html"><div class="ttname"><a href="../../d6/d96/a26067.html">spell_pal_guarded_by_the_light</a></div><div class="ttdef"><b>Definition:</b> spell_paladin.cpp:700</div></div>
+<div class="ttc" id="aa26071_html"><div class="ttname"><a href="../../d8/d9c/a26071.html">spell_pal_hand_of_sacrifice_aura</a></div><div class="ttdef"><b>Definition:</b> spell_paladin.cpp:723</div></div>
+<div class="ttc" id="aa26075_html"><div class="ttname"><a href="../../da/d29/a26075.html">spell_pal_hand_of_sacrifice</a></div><div class="ttdef"><b>Definition:</b> spell_paladin.cpp:755</div></div>
+<div class="ttc" id="aa26079_html"><div class="ttname"><a href="../../d6/d14/a26079.html">spell_pal_hand_of_salvation</a></div><div class="ttdef"><b>Definition:</b> spell_paladin.cpp:775</div></div>
+<div class="ttc" id="aa26083_html"><div class="ttname"><a href="../../d3/def/a26083.html">spell_pal_holy_shock</a></div><div class="ttdef"><b>Definition:</b> spell_paladin.cpp:797</div></div>
+<div class="ttc" id="aa26087_html"><div class="ttname"><a href="../../da/d57/a26087.html">spell_pal_judgement</a></div><div class="ttdef"><b>Definition:</b> spell_paladin.cpp:860</div></div>
+<div class="ttc" id="aa26091_html"><div class="ttname"><a href="../../d8/d74/a26091.html">spell_pal_judgement_of_command</a></div><div class="ttdef"><b>Definition:</b> spell_paladin.cpp:931</div></div>
+<div class="ttc" id="aa26095_html"><div class="ttname"><a href="../../da/d04/a26095.html">spell_pal_lay_on_hands</a></div><div class="ttdef"><b>Definition:</b> spell_paladin.cpp:949</div></div>
+<div class="ttc" id="aa26099_html"><div class="ttname"><a href="../../d0/dc7/a26099.html">spell_pal_righteous_defense</a></div><div class="ttdef"><b>Definition:</b> spell_paladin.cpp:1014</div></div>
+<div class="ttc" id="aa26103_html"><div class="ttname"><a href="../../d3/dd5/a26103.html">spell_pal_seal_of_righteousness</a></div><div class="ttdef"><b>Definition:</b> spell_paladin.cpp:1065</div></div>
+<div class="ttc" id="aa26107_html"><div class="ttname"><a href="../../df/d80/a26107.html">spell_pal_seal_of_vengeance</a></div><div class="ttdef"><b>Definition:</b> spell_paladin.cpp:1117</div></div>
+<div class="ttc" id="aa26111_html"><div class="ttname"><a href="../../d5/dba/a26111.html">spell_pal_hand_of_protection</a></div><div class="ttdef"><b>Definition:</b> spell_paladin.cpp:1155</div></div>
 </div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00090">RegisterSpellAndAuraScriptPair</a>, <a class="el" href="../../#l00088">RegisterSpellScript</a>, <a class="el" href="../../#l00087">RegisterSpellScriptWithArgs</a>, <a class="el" href="../../#l00060">SPELL_PALADIN_JUDGEMENT_OF_JUSTICE</a>, <a class="el" href="../../#l00061">SPELL_PALADIN_JUDGEMENT_OF_LIGHT</a>, and <a class="el" href="../../#l00062">SPELL_PALADIN_JUDGEMENT_OF_WISDOM</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00035">AddSpellsScripts()</a>.</p>
+
 </div>
 </div>
 </div><!-- contents -->
@@ -431,8 +576,8 @@ Functions</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c8498b4bff487486cc5ffdac4c412cf7.html">apps</a></li><li class="navelem"><a class="el" href="../../dir_5048a8ff141d56662c703e95f88ef858.html">authserver</a></li><li class="navelem"><a class="el" href="../../dir_9cb3b0d623cd4274c7a9c8ac2a66c533.html">Authentication</a></li><li class="navelem"><a class="el" href="../../d1/d39/a02048.html">AuthCodes.h</a></li>
-    <li class="footer">Generated on Mon Jun 9 2025 20:46:06 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_a5c81565c813a087452a284baefe3cb6.html">Spells</a></li><li class="navelem"><a class="el" href="../../d1/d39/a02048.html">spell_paladin.cpp</a></li>
+    <li class="footer">Generated on Mon Jun 16 2025 20:48:05 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

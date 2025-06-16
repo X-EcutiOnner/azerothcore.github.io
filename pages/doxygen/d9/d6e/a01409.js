@@ -1,4 +1,5 @@
 var a01409 =
 [
-    [ "Movement::MoveSplineFlag", "d9/d66/a10027.html", "d9/d66/a10027" ]
+    [ "CreatureTextBuilder", "de/d33/a11339.html", "de/d33/a11339" ],
+    [ "PlayerTextBuilder", "d4/d61/a11343.html", "d4/d61/a11343" ]
 ];

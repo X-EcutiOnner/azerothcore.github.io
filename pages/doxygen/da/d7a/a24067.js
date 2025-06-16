@@ -1,8 +1,10 @@
 var a24067 =
 [
-    [ "npc_bessyAI", "da/d7a/a24067.html#ad1300a563888b34689bedf97c387707c", null ],
-    [ "JustDied", "da/d7a/a24067.html#af98e9235b2432b619e4cc01c0c1111ef", null ],
-    [ "JustSummoned", "da/d7a/a24067.html#a4197fb122299fd152e5da335bb832ae5", null ],
-    [ "Reset", "da/d7a/a24067.html#aed64386629e52c3b65abadde54a63cc4", null ],
-    [ "WaypointReached", "da/d7a/a24067.html#a4611a8f41f66a1a846fb42ba1d4062c8", null ]
+    [ "npc_maxx_a_million_escortAI", "da/d7a/a24067.html#ab827933527ed7b4a04b162034876ced8", null ],
+    [ "JustDied", "da/d7a/a24067.html#a2106ab4d32d0f221f62eeffd93f71380", null ],
+    [ "Reset", "da/d7a/a24067.html#a6b9b2ed76e26f908ff2272ad8744a59e", null ],
+    [ "UpdateAI", "da/d7a/a24067.html#a3b022feb2303875d32ad981e84f66854", null ],
+    [ "WaypointReached", "da/d7a/a24067.html#acd6f45abb93f3f043cd85647405a50f6", null ],
+    [ "bTake", "da/d7a/a24067.html#ac697fc6cbc20c7f316845ed26436049b", null ],
+    [ "uiTakeTimer", "da/d7a/a24067.html#a5d4826dcf893f444a42dedba57460110", null ]
 ];

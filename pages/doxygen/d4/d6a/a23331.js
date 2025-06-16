@@ -1,5 +1,6 @@
 var a23331 =
 [
-    [ "go_main_chambers_access_panel", "d4/d6a/a23331.html#a30c3c20be1892b5107ef53683d593b75", null ],
-    [ "OnGossipHello", "d4/d6a/a23331.html#af4b3a4a0260de68dcfac7202e0a728ee", null ]
+    [ "instance_steam_vault_InstanceMapScript", "d4/d6a/a23331.html#a1ca8d6b10fabe1a8b829dbf62b77ed51", null ],
+    [ "OnGameObjectCreate", "d4/d6a/a23331.html#ace71fc6f1d7bc4b49bc2a2507f481fc2", null ],
+    [ "SetBossState", "d4/d6a/a23331.html#ab1e344fbf169ee40f28741217f3dca14", null ]
 ];

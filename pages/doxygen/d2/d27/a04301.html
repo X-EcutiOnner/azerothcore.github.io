@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/common/Collision/Maps/MapDefines.h File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/common/Utilities/ByteConverter.h File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,174 +105,328 @@ $(document).ready(function(){initNavTree('d2/d27/a04301.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#nested-classes">Classes</a> &#124;
-<a href="#define-members">Macros</a> &#124;
-<a href="#enum-members">Enumerations</a>  </div>
-  <div class="headertitle"><div class="title">MapDefines.h File Reference</div></div>
+<a href="#namespaces">Namespaces</a> &#124;
+<a href="#func-members">Functions</a>  </div>
+  <div class="headertitle"><div class="title">ByteConverter.h File Reference</div></div>
 </div><!--header-->
 <div class="contents">
 <div class="textblock"><code>#include &quot;<a class="el" href="../../">Define.h</a>&quot;</code><br />
-<code>#include &quot;DetourNavMesh.h&quot;</code><br />
+<code>#include &lt;vector&gt;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
-Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d42/a04975.html">MmapTileHeader</a></td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="namespaces" name="namespaces"></a>
+Namespaces</h2></td></tr>
+<tr class="memitem:d6/db2/a04780"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/db2/a04780.html">ByteConverter</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="define-members" name="define-members"></a>
-Macros</h2></td></tr>
-<tr class="memitem:a857252154f120575d940ffbdf63bace6"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d27/a04301.html#a857252154f120575d940ffbdf63bace6">MAX_NUMBER_OF_GRIDS</a>&#160;&#160;&#160;64</td></tr>
-<tr class="separator:a857252154f120575d940ffbdf63bace6"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2c6994ea025f427f1485c1c7aaee01fe"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d27/a04301.html#a2c6994ea025f427f1485c1c7aaee01fe">MAX_NUMBER_OF_CELLS</a>&#160;&#160;&#160;8</td></tr>
-<tr class="separator:a2c6994ea025f427f1485c1c7aaee01fe"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a55c9adba46c0c14cd4ac80ab51228816"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d27/a04301.html#a55c9adba46c0c14cd4ac80ab51228816">SIZE_OF_GRIDS</a>&#160;&#160;&#160;533.3333f</td></tr>
-<tr class="separator:a55c9adba46c0c14cd4ac80ab51228816"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af7a9a5e840ab3ad1c160e832500016d1"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d27/a04301.html#af7a9a5e840ab3ad1c160e832500016d1">MMAP_MAGIC</a>&#160;&#160;&#160;0x4d4d4150</td></tr>
-<tr class="separator:af7a9a5e840ab3ad1c160e832500016d1"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aea71555fdd0af33ccc21c76c67574421"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d27/a04301.html#aea71555fdd0af33ccc21c76c67574421">MMAP_VERSION</a>&#160;&#160;&#160;16</td></tr>
-<tr class="separator:aea71555fdd0af33ccc21c76c67574421"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
-Enumerations</h2></td></tr>
-<tr class="memitem:a8a4d0b36dd46d60b691b894fb8c1c5db"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d27/a04301.html#a8a4d0b36dd46d60b691b894fb8c1c5db">NavTerrain</a> { <br />
-&#160;&#160;<a class="el" href="../../d2/d27/a04301.html#a8a4d0b36dd46d60b691b894fb8c1c5dba7e7367494e3519c95f1b756726fec9a5">NAV_EMPTY</a> = 0x00
-, <br />
-&#160;&#160;<a class="el" href="../../d2/d27/a04301.html#a8a4d0b36dd46d60b691b894fb8c1c5dbac2c74d40490a8ea42121c00a8249bd98">NAV_GROUND</a> = 0x01
-, <br />
-&#160;&#160;<a class="el" href="../../d2/d27/a04301.html#a8a4d0b36dd46d60b691b894fb8c1c5dba9ea5d0550a08be7bb291557f1fc4f670">NAV_MAGMA</a> = 0x02
-, <br />
-&#160;&#160;<a class="el" href="../../d2/d27/a04301.html#a8a4d0b36dd46d60b691b894fb8c1c5dbad892c321d39d49cdb700eb27fc249f75">NAV_SLIME</a> = 0x04
-, <br />
-&#160;&#160;<a class="el" href="../../d2/d27/a04301.html#a8a4d0b36dd46d60b691b894fb8c1c5dbae258322a4a7d7928a89ac183ecf137d1">NAV_WATER</a> = 0x08
-, <br />
-&#160;&#160;<a class="el" href="../../d2/d27/a04301.html#a8a4d0b36dd46d60b691b894fb8c1c5dba55b6c76a11113bfd585b61366a3f6d03">NAV_UNUSED1</a> = 0x10
-, <br />
-&#160;&#160;<a class="el" href="../../d2/d27/a04301.html#a8a4d0b36dd46d60b691b894fb8c1c5dba4c61900269be6dee2e26cbeb4e09d0bb">NAV_UNUSED2</a> = 0x20
-, <br />
-&#160;&#160;<a class="el" href="../../d2/d27/a04301.html#a8a4d0b36dd46d60b691b894fb8c1c5dba3055dd71ec523facb0cba2976316d530">NAV_UNUSED3</a> = 0x40
-, <br />
-&#160;&#160;<a class="el" href="../../d2/d27/a04301.html#a8a4d0b36dd46d60b691b894fb8c1c5dba94351935a3c7389b4667144d53923d56">NAV_UNUSED4</a> = 0x80
-<br />
- }</td></tr>
-<tr class="separator:a8a4d0b36dd46d60b691b894fb8c1c5db"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
+Functions</h2></td></tr>
+<tr class="memitem:a5628479f846d755da3ff53b0e2a66c26"><td class="memTemplParams" colspan="2">template&lt;std::size_t T&gt; </td></tr>
+<tr class="memitem:a5628479f846d755da3ff53b0e2a66c26"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d6/db2/a04780.html#a5628479f846d755da3ff53b0e2a66c26">ByteConverter::convert</a> (char *val)</td></tr>
+<tr class="separator:a5628479f846d755da3ff53b0e2a66c26"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa8017307aa0aa935f062b4f701563d09"><td class="memItemLeft" align="right" valign="top">template&lt;&gt; </td></tr>
+<tr class="memitem:aa8017307aa0aa935f062b4f701563d09"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d6/db2/a04780.html#aa8017307aa0aa935f062b4f701563d09">ByteConverter::convert&lt; 0 &gt;</a> (char *)</td></tr>
+<tr class="separator:aa8017307aa0aa935f062b4f701563d09"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3717e304a2b8b074fcd513ca8e0db116"><td class="memItemLeft" align="right" valign="top">template&lt;&gt; </td></tr>
+<tr class="memitem:a3717e304a2b8b074fcd513ca8e0db116"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d6/db2/a04780.html#a3717e304a2b8b074fcd513ca8e0db116">ByteConverter::convert&lt; 1 &gt;</a> (char *)</td></tr>
+<tr class="separator:a3717e304a2b8b074fcd513ca8e0db116"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6177d7ac84a4ea6819c57a124345540e"><td class="memTemplParams" colspan="2">template&lt;typename T &gt; </td></tr>
+<tr class="memitem:a6177d7ac84a4ea6819c57a124345540e"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d6/db2/a04780.html#a6177d7ac84a4ea6819c57a124345540e">ByteConverter::apply</a> (T *val)</td></tr>
+<tr class="separator:a6177d7ac84a4ea6819c57a124345540e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9d20b1e463a04f0a22d79ca802902be6"><td class="memTemplParams" colspan="2">template&lt;typename T &gt; </td></tr>
+<tr class="memitem:a9d20b1e463a04f0a22d79ca802902be6"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d2/d27/a04301.html#a9d20b1e463a04f0a22d79ca802902be6">EndianConvert</a> (T &amp;val)</td></tr>
+<tr class="separator:a9d20b1e463a04f0a22d79ca802902be6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a71946d011105dec5ad60c6875066ed86"><td class="memTemplParams" colspan="2">template&lt;typename T &gt; </td></tr>
+<tr class="memitem:a71946d011105dec5ad60c6875066ed86"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d2/d27/a04301.html#a71946d011105dec5ad60c6875066ed86">EndianConvertReverse</a> (T &amp;)</td></tr>
+<tr class="separator:a71946d011105dec5ad60c6875066ed86"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a73b1f88261dfd018f7f185b0ea941c88"><td class="memTemplParams" colspan="2">template&lt;typename T &gt; </td></tr>
+<tr class="memitem:a73b1f88261dfd018f7f185b0ea941c88"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d2/d27/a04301.html#a73b1f88261dfd018f7f185b0ea941c88">EndianConvertPtr</a> (void *val)</td></tr>
+<tr class="separator:a73b1f88261dfd018f7f185b0ea941c88"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8b9f1be37ef60cffbb862512d9374dd4"><td class="memTemplParams" colspan="2">template&lt;typename T &gt; </td></tr>
+<tr class="memitem:a8b9f1be37ef60cffbb862512d9374dd4"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d2/d27/a04301.html#a8b9f1be37ef60cffbb862512d9374dd4">EndianConvertPtrReverse</a> (void *)</td></tr>
+<tr class="separator:a8b9f1be37ef60cffbb862512d9374dd4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af2e19073fdc053bb0299b663fa1ee757"><td class="memTemplParams" colspan="2">template&lt;typename T &gt; </td></tr>
+<tr class="memitem:af2e19073fdc053bb0299b663fa1ee757"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d2/d27/a04301.html#af2e19073fdc053bb0299b663fa1ee757">EndianConvert</a> (T *)</td></tr>
+<tr class="separator:af2e19073fdc053bb0299b663fa1ee757"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1fa1c447bec92bbf436d429b422cc2e7"><td class="memTemplParams" colspan="2">template&lt;typename T &gt; </td></tr>
+<tr class="memitem:a1fa1c447bec92bbf436d429b422cc2e7"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d2/d27/a04301.html#a1fa1c447bec92bbf436d429b422cc2e7">EndianConvertReverse</a> (T *)</td></tr>
+<tr class="separator:a1fa1c447bec92bbf436d429b422cc2e7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7a138a6c8a71f6e9bd8eb436a598f628"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d27/a04301.html#a7a138a6c8a71f6e9bd8eb436a598f628">EndianConvert</a> (<a class="el" href="../../d4/d61/a04406.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> &amp;)</td></tr>
+<tr class="separator:a7a138a6c8a71f6e9bd8eb436a598f628"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a49a7404e8b8e7030c609822047db18e8"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d27/a04301.html#a49a7404e8b8e7030c609822047db18e8">EndianConvert</a> (<a class="el" href="../../d4/d61/a04406.html#a3bb8a71f4ae9af551f71e9eb2c9c3325">int8</a> &amp;)</td></tr>
+<tr class="separator:a49a7404e8b8e7030c609822047db18e8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2adbd00f9fd7adfc4bd3d26ae1565a0b"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d27/a04301.html#a2adbd00f9fd7adfc4bd3d26ae1565a0b">EndianConvertReverse</a> (<a class="el" href="../../d4/d61/a04406.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> &amp;)</td></tr>
+<tr class="separator:a2adbd00f9fd7adfc4bd3d26ae1565a0b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:acdb2b3cf0ea55e72e1d4047380cbd260"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d27/a04301.html#acdb2b3cf0ea55e72e1d4047380cbd260">EndianConvertReverse</a> (<a class="el" href="../../d4/d61/a04406.html#a3bb8a71f4ae9af551f71e9eb2c9c3325">int8</a> &amp;)</td></tr>
+<tr class="separator:acdb2b3cf0ea55e72e1d4047380cbd260"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Macro Definition Documentation</h2>
-<a id="a2c6994ea025f427f1485c1c7aaee01fe" name="a2c6994ea025f427f1485c1c7aaee01fe"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a2c6994ea025f427f1485c1c7aaee01fe">&#9670;&#160;</a></span>MAX_NUMBER_OF_CELLS</h2>
+<h2 class="groupheader">Function Documentation</h2>
+<a id="a49a7404e8b8e7030c609822047db18e8" name="a49a7404e8b8e7030c609822047db18e8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a49a7404e8b8e7030c609822047db18e8">&#9670;&#160;</a></span>EndianConvert() <span class="overload">[1/4]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">#define MAX_NUMBER_OF_CELLS&#160;&#160;&#160;8</td>
+          <td class="memname">void EndianConvert </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d4/d61/a04406.html#a3bb8a71f4ae9af551f71e9eb2c9c3325">int8</a> &amp;&#160;</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
         </tr>
       </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a857252154f120575d940ffbdf63bace6" name="a857252154f120575d940ffbdf63bace6"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a857252154f120575d940ffbdf63bace6">&#9670;&#160;</a></span>MAX_NUMBER_OF_GRIDS</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">#define MAX_NUMBER_OF_GRIDS&#160;&#160;&#160;64</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="af7a9a5e840ab3ad1c160e832500016d1" name="af7a9a5e840ab3ad1c160e832500016d1"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af7a9a5e840ab3ad1c160e832500016d1">&#9670;&#160;</a></span>MMAP_MAGIC</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">#define MMAP_MAGIC&#160;&#160;&#160;0x4d4d4150</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="aea71555fdd0af33ccc21c76c67574421" name="aea71555fdd0af33ccc21c76c67574421"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aea71555fdd0af33ccc21c76c67574421">&#9670;&#160;</a></span>MMAP_VERSION</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">#define MMAP_VERSION&#160;&#160;&#160;16</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a55c9adba46c0c14cd4ac80ab51228816" name="a55c9adba46c0c14cd4ac80ab51228816"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a55c9adba46c0c14cd4ac80ab51228816">&#9670;&#160;</a></span>SIZE_OF_GRIDS</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">#define SIZE_OF_GRIDS&#160;&#160;&#160;533.3333f</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<h2 class="groupheader">Enumeration Type Documentation</h2>
-<a id="a8a4d0b36dd46d60b691b894fb8c1c5db" name="a8a4d0b36dd46d60b691b894fb8c1c5db"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8a4d0b36dd46d60b691b894fb8c1c5db">&#9670;&#160;</a></span>NavTerrain</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">enum <a class="el" href="../../d2/d27/a04301.html#a8a4d0b36dd46d60b691b894fb8c1c5db">NavTerrain</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a8a4d0b36dd46d60b691b894fb8c1c5dba7e7367494e3519c95f1b756726fec9a5" name="a8a4d0b36dd46d60b691b894fb8c1c5dba7e7367494e3519c95f1b756726fec9a5"></a>NAV_EMPTY&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a8a4d0b36dd46d60b691b894fb8c1c5dbac2c74d40490a8ea42121c00a8249bd98" name="a8a4d0b36dd46d60b691b894fb8c1c5dbac2c74d40490a8ea42121c00a8249bd98"></a>NAV_GROUND&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a8a4d0b36dd46d60b691b894fb8c1c5dba9ea5d0550a08be7bb291557f1fc4f670" name="a8a4d0b36dd46d60b691b894fb8c1c5dba9ea5d0550a08be7bb291557f1fc4f670"></a>NAV_MAGMA&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a8a4d0b36dd46d60b691b894fb8c1c5dbad892c321d39d49cdb700eb27fc249f75" name="a8a4d0b36dd46d60b691b894fb8c1c5dbad892c321d39d49cdb700eb27fc249f75"></a>NAV_SLIME&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a8a4d0b36dd46d60b691b894fb8c1c5dbae258322a4a7d7928a89ac183ecf137d1" name="a8a4d0b36dd46d60b691b894fb8c1c5dbae258322a4a7d7928a89ac183ecf137d1"></a>NAV_WATER&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a8a4d0b36dd46d60b691b894fb8c1c5dba55b6c76a11113bfd585b61366a3f6d03" name="a8a4d0b36dd46d60b691b894fb8c1c5dba55b6c76a11113bfd585b61366a3f6d03"></a>NAV_UNUSED1&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a8a4d0b36dd46d60b691b894fb8c1c5dba4c61900269be6dee2e26cbeb4e09d0bb" name="a8a4d0b36dd46d60b691b894fb8c1c5dba4c61900269be6dee2e26cbeb4e09d0bb"></a>NAV_UNUSED2&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a8a4d0b36dd46d60b691b894fb8c1c5dba3055dd71ec523facb0cba2976316d530" name="a8a4d0b36dd46d60b691b894fb8c1c5dba3055dd71ec523facb0cba2976316d530"></a>NAV_UNUSED3&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a8a4d0b36dd46d60b691b894fb8c1c5dba94351935a3c7389b4667144d53923d56" name="a8a4d0b36dd46d60b691b894fb8c1c5dba94351935a3c7389b4667144d53923d56"></a>NAV_UNUSED4&#160;</td><td class="fielddoc"></td></tr>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
 </table>
-<div class="fragment"><div class="line"><span class="lineno">   53</span>{</div>
-<div class="line"><span class="lineno">   54</span>    <a class="code hl_enumvalue" href="../../d2/d27/a04301.html#a8a4d0b36dd46d60b691b894fb8c1c5dba7e7367494e3519c95f1b756726fec9a5">NAV_EMPTY</a>   = 0x00,</div>
-<div class="line"><span class="lineno">   55</span>    <a class="code hl_enumvalue" href="../../d2/d27/a04301.html#a8a4d0b36dd46d60b691b894fb8c1c5dbac2c74d40490a8ea42121c00a8249bd98">NAV_GROUND</a>  = 0x01,</div>
-<div class="line"><span class="lineno">   56</span>    <a class="code hl_enumvalue" href="../../d2/d27/a04301.html#a8a4d0b36dd46d60b691b894fb8c1c5dba9ea5d0550a08be7bb291557f1fc4f670">NAV_MAGMA</a>   = 0x02,</div>
-<div class="line"><span class="lineno">   57</span>    <a class="code hl_enumvalue" href="../../d2/d27/a04301.html#a8a4d0b36dd46d60b691b894fb8c1c5dbad892c321d39d49cdb700eb27fc249f75">NAV_SLIME</a>   = 0x04,</div>
-<div class="line"><span class="lineno">   58</span>    <a class="code hl_enumvalue" href="../../d2/d27/a04301.html#a8a4d0b36dd46d60b691b894fb8c1c5dbae258322a4a7d7928a89ac183ecf137d1">NAV_WATER</a>   = 0x08,</div>
-<div class="line"><span class="lineno">   59</span>    <a class="code hl_enumvalue" href="../../d2/d27/a04301.html#a8a4d0b36dd46d60b691b894fb8c1c5dba55b6c76a11113bfd585b61366a3f6d03">NAV_UNUSED1</a> = 0x10,</div>
-<div class="line"><span class="lineno">   60</span>    <a class="code hl_enumvalue" href="../../d2/d27/a04301.html#a8a4d0b36dd46d60b691b894fb8c1c5dba4c61900269be6dee2e26cbeb4e09d0bb">NAV_UNUSED2</a> = 0x20,</div>
-<div class="line"><span class="lineno">   61</span>    <a class="code hl_enumvalue" href="../../d2/d27/a04301.html#a8a4d0b36dd46d60b691b894fb8c1c5dba3055dd71ec523facb0cba2976316d530">NAV_UNUSED3</a> = 0x40,</div>
-<div class="line"><span class="lineno">   62</span>    <a class="code hl_enumvalue" href="../../d2/d27/a04301.html#a8a4d0b36dd46d60b691b894fb8c1c5dba94351935a3c7389b4667144d53923d56">NAV_UNUSED4</a> = 0x80</div>
-<div class="line"><span class="lineno">   63</span>                  <span class="comment">// we only have 8 bits</span></div>
-<div class="line"><span class="lineno">   64</span>};</div>
-<div class="ttc" id="aa04301_html_a8a4d0b36dd46d60b691b894fb8c1c5dba3055dd71ec523facb0cba2976316d530"><div class="ttname"><a href="../../d2/d27/a04301.html#a8a4d0b36dd46d60b691b894fb8c1c5dba3055dd71ec523facb0cba2976316d530">NAV_UNUSED3</a></div><div class="ttdeci">@ NAV_UNUSED3</div><div class="ttdef"><b>Definition:</b> MapDefines.h:61</div></div>
-<div class="ttc" id="aa04301_html_a8a4d0b36dd46d60b691b894fb8c1c5dba4c61900269be6dee2e26cbeb4e09d0bb"><div class="ttname"><a href="../../d2/d27/a04301.html#a8a4d0b36dd46d60b691b894fb8c1c5dba4c61900269be6dee2e26cbeb4e09d0bb">NAV_UNUSED2</a></div><div class="ttdeci">@ NAV_UNUSED2</div><div class="ttdef"><b>Definition:</b> MapDefines.h:60</div></div>
-<div class="ttc" id="aa04301_html_a8a4d0b36dd46d60b691b894fb8c1c5dba55b6c76a11113bfd585b61366a3f6d03"><div class="ttname"><a href="../../d2/d27/a04301.html#a8a4d0b36dd46d60b691b894fb8c1c5dba55b6c76a11113bfd585b61366a3f6d03">NAV_UNUSED1</a></div><div class="ttdeci">@ NAV_UNUSED1</div><div class="ttdef"><b>Definition:</b> MapDefines.h:59</div></div>
-<div class="ttc" id="aa04301_html_a8a4d0b36dd46d60b691b894fb8c1c5dba7e7367494e3519c95f1b756726fec9a5"><div class="ttname"><a href="../../d2/d27/a04301.html#a8a4d0b36dd46d60b691b894fb8c1c5dba7e7367494e3519c95f1b756726fec9a5">NAV_EMPTY</a></div><div class="ttdeci">@ NAV_EMPTY</div><div class="ttdef"><b>Definition:</b> MapDefines.h:54</div></div>
-<div class="ttc" id="aa04301_html_a8a4d0b36dd46d60b691b894fb8c1c5dba94351935a3c7389b4667144d53923d56"><div class="ttname"><a href="../../d2/d27/a04301.html#a8a4d0b36dd46d60b691b894fb8c1c5dba94351935a3c7389b4667144d53923d56">NAV_UNUSED4</a></div><div class="ttdeci">@ NAV_UNUSED4</div><div class="ttdef"><b>Definition:</b> MapDefines.h:62</div></div>
-<div class="ttc" id="aa04301_html_a8a4d0b36dd46d60b691b894fb8c1c5dba9ea5d0550a08be7bb291557f1fc4f670"><div class="ttname"><a href="../../d2/d27/a04301.html#a8a4d0b36dd46d60b691b894fb8c1c5dba9ea5d0550a08be7bb291557f1fc4f670">NAV_MAGMA</a></div><div class="ttdeci">@ NAV_MAGMA</div><div class="ttdef"><b>Definition:</b> MapDefines.h:56</div></div>
-<div class="ttc" id="aa04301_html_a8a4d0b36dd46d60b691b894fb8c1c5dbac2c74d40490a8ea42121c00a8249bd98"><div class="ttname"><a href="../../d2/d27/a04301.html#a8a4d0b36dd46d60b691b894fb8c1c5dbac2c74d40490a8ea42121c00a8249bd98">NAV_GROUND</a></div><div class="ttdeci">@ NAV_GROUND</div><div class="ttdef"><b>Definition:</b> MapDefines.h:55</div></div>
-<div class="ttc" id="aa04301_html_a8a4d0b36dd46d60b691b894fb8c1c5dbad892c321d39d49cdb700eb27fc249f75"><div class="ttname"><a href="../../d2/d27/a04301.html#a8a4d0b36dd46d60b691b894fb8c1c5dbad892c321d39d49cdb700eb27fc249f75">NAV_SLIME</a></div><div class="ttdeci">@ NAV_SLIME</div><div class="ttdef"><b>Definition:</b> MapDefines.h:57</div></div>
-<div class="ttc" id="aa04301_html_a8a4d0b36dd46d60b691b894fb8c1c5dbae258322a4a7d7928a89ac183ecf137d1"><div class="ttname"><a href="../../d2/d27/a04301.html#a8a4d0b36dd46d60b691b894fb8c1c5dbae258322a4a7d7928a89ac183ecf137d1">NAV_WATER</a></div><div class="ttdeci">@ NAV_WATER</div><div class="ttdef"><b>Definition:</b> MapDefines.h:58</div></div>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   62</span>{ }</div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="a9d20b1e463a04f0a22d79ca802902be6" name="a9d20b1e463a04f0a22d79ca802902be6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9d20b1e463a04f0a22d79ca802902be6">&#9670;&#160;</a></span>EndianConvert() <span class="overload">[2/4]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;typename T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void EndianConvert </td>
+          <td>(</td>
+          <td class="paramtype">T &amp;&#160;</td>
+          <td class="paramname"><em>val</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   47</span>{ ByteConverter::apply&lt;T&gt;(&amp;val); }</div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00129">ByteBuffer::append()</a>, <a class="el" href="../../#l00049">DBCFileLoader::Record::getFloat()</a>, <a class="el" href="../../#l00057">DBCFileLoader::Record::getUInt()</a>, <a class="el" href="../../#l00156">WardenWin::InitializeModule()</a>, <a class="el" href="../../#l00024">DBCFileLoader::Load()</a>, <a class="el" href="../../#l00137">ByteBuffer::put()</a>, <a class="el" href="../../#l00358">ByteBuffer::read()</a>, <a class="el" href="../../#l00305">WorldSocket::ReadHeaderHandler()</a>, and <a class="el" href="../../#l00073">Warden::RequestModule()</a>.</p>
+
+</div>
+</div>
+<a id="af2e19073fdc053bb0299b663fa1ee757" name="af2e19073fdc053bb0299b663fa1ee757"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af2e19073fdc053bb0299b663fa1ee757">&#9670;&#160;</a></span>EndianConvert() <span class="overload">[3/4]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;typename T &gt; </div>
+      <table class="memname">
+        <tr>
+          <td class="memname">void EndianConvert </td>
+          <td>(</td>
+          <td class="paramtype">T *&#160;</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a7a138a6c8a71f6e9bd8eb436a598f628" name="a7a138a6c8a71f6e9bd8eb436a598f628"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7a138a6c8a71f6e9bd8eb436a598f628">&#9670;&#160;</a></span>EndianConvert() <span class="overload">[4/4]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void EndianConvert </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d4/d61/a04406.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> &amp;&#160;</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   61</span>{ }</div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="a73b1f88261dfd018f7f185b0ea941c88" name="a73b1f88261dfd018f7f185b0ea941c88"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a73b1f88261dfd018f7f185b0ea941c88">&#9670;&#160;</a></span>EndianConvertPtr()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;typename T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void EndianConvertPtr </td>
+          <td>(</td>
+          <td class="paramtype">void *&#160;</td>
+          <td class="paramname"><em>val</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   49</span>{ ByteConverter::apply&lt;T&gt;(val); }</div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="a8b9f1be37ef60cffbb862512d9374dd4" name="a8b9f1be37ef60cffbb862512d9374dd4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8b9f1be37ef60cffbb862512d9374dd4">&#9670;&#160;</a></span>EndianConvertPtrReverse()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;typename T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void EndianConvertPtrReverse </td>
+          <td>(</td>
+          <td class="paramtype">void *&#160;</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   50</span>{ }</div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="acdb2b3cf0ea55e72e1d4047380cbd260" name="acdb2b3cf0ea55e72e1d4047380cbd260"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#acdb2b3cf0ea55e72e1d4047380cbd260">&#9670;&#160;</a></span>EndianConvertReverse() <span class="overload">[1/4]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void EndianConvertReverse </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d4/d61/a04406.html#a3bb8a71f4ae9af551f71e9eb2c9c3325">int8</a> &amp;&#160;</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   64</span>{ }</div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="a71946d011105dec5ad60c6875066ed86" name="a71946d011105dec5ad60c6875066ed86"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a71946d011105dec5ad60c6875066ed86">&#9670;&#160;</a></span>EndianConvertReverse() <span class="overload">[2/4]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;typename T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void EndianConvertReverse </td>
+          <td>(</td>
+          <td class="paramtype">T &amp;&#160;</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   48</span>{ }</div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00305">WorldSocket::ReadHeaderHandler()</a>.</p>
+
+</div>
+</div>
+<a id="a1fa1c447bec92bbf436d429b422cc2e7" name="a1fa1c447bec92bbf436d429b422cc2e7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1fa1c447bec92bbf436d429b422cc2e7">&#9670;&#160;</a></span>EndianConvertReverse() <span class="overload">[3/4]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;typename T &gt; </div>
+      <table class="memname">
+        <tr>
+          <td class="memname">void EndianConvertReverse </td>
+          <td>(</td>
+          <td class="paramtype">T *&#160;</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a2adbd00f9fd7adfc4bd3d26ae1565a0b" name="a2adbd00f9fd7adfc4bd3d26ae1565a0b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2adbd00f9fd7adfc4bd3d26ae1565a0b">&#9670;&#160;</a></span>EndianConvertReverse() <span class="overload">[4/4]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void EndianConvertReverse </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d4/d61/a04406.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> &amp;&#160;</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   63</span>{ }</div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -281,8 +435,8 @@ Enumerations</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1070012e9e40376f8468ff0aa5b77c71.html">common</a></li><li class="navelem"><a class="el" href="../../dir_34825b659a55315b272dfcc55a7a0f6a.html">Collision</a></li><li class="navelem"><a class="el" href="../../dir_8b777919d2ae980e2f3806300ea01226.html">Maps</a></li><li class="navelem"><a class="el" href="../../d2/d27/a04301.html">MapDefines.h</a></li>
-    <li class="footer">Generated on Mon Jun 9 2025 20:46:05 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1070012e9e40376f8468ff0aa5b77c71.html">common</a></li><li class="navelem"><a class="el" href="../../dir_5b60c41b3dc3977dce15646b3e6a9085.html">Utilities</a></li><li class="navelem"><a class="el" href="../../d2/d27/a04301.html">ByteConverter.h</a></li>
+    <li class="footer">Generated on Mon Jun 16 2025 20:47:09 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

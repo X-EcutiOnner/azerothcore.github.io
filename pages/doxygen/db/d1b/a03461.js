@@ -1,6 +1,6 @@
 var a03461 =
 [
-    [ "instance_razorfen_downs", "d7/d9a/a14847.html", "d7/d9a/a14847" ],
-    [ "instance_razorfen_downs::instance_razorfen_downs_InstanceMapScript", "d3/d9c/a14851.html", "d3/d9c/a14851" ],
-    [ "AddSC_instance_razorfen_downs", "db/d1b/a03461.html#a0db4d34b8ea594cf2808b93c362a49c4", null ]
+    [ "fireworkShowGameobjectThunderBluff", "db/d1b/a03461.html#ab3cf2de65fa26d7c56cf3a4e0f4a56e1", null ],
+    [ "fireworkShowScheduleThunderBluff", "db/d1b/a03461.html#ac35fd5df42f24906b21b6887860b96a5", null ],
+    [ "fireworkShowThunderBluff", "db/d1b/a03461.html#ae9cf9fa234ec7db55622bede66c21f78", null ]
 ];

@@ -1,7 +1,4 @@
 var a01838 =
 [
-    [ "SQLQueryHolderBase", "d2/df9/a05815.html", "d2/df9/a05815" ],
-    [ "SQLQueryHolder< T >", "d6/dda/a05667.html", "d6/dda/a05667" ],
-    [ "SQLQueryHolderTask", "d0/d47/a05819.html", "d0/d47/a05819" ],
-    [ "SQLQueryHolderCallback", "de/d27/a05823.html", "de/d27/a05823" ]
+    [ "ScriptRegistry< ElunaScript >", "db/d09/a01838.html#a15bab1416715725970c75b4acdc0ea37", null ]
 ];

@@ -1,9 +1,6 @@
 var a22331 =
 [
-    [ "HandleFinish", "d6/d68/a22331.html#a4511ae5227c3e4e931b04f2ba0d4a62e", null ],
-    [ "Load", "d6/d68/a22331.html#a6b6f6b4ab8f345199d8d2189f07df7f2", null ],
-    [ "PrepareSpellScript", "d6/d68/a22331.html#a8326b3f9f78aab65225e81d274cc37df", null ],
-    [ "Register", "d6/d68/a22331.html#a749858f56e15a0bb6074d15ba166625d", null ],
-    [ "Validate", "d6/d68/a22331.html#a64005c52e7112c466f6206b7f6c847c0", null ],
-    [ "handled", "d6/d68/a22331.html#a7afe3007a016cb553f437544f8fd6f89", null ]
+    [ "CheckCast", "d6/d68/a22331.html#afde7c1e90f2faa9c587490ce358a59b2", null ],
+    [ "PrepareSpellScript", "d6/d68/a22331.html#a5139e3e9cb1c9079798cefc3cb04d387", null ],
+    [ "Register", "d6/d68/a22331.html#a01225e48eaf2a6dfe13da245725b0a64", null ]
 ];

@@ -1,7 +1,6 @@
 var a02336 =
 [
-    [ "UtherBatteredHiltEvent", "d3/daa/a16911.html", "d3/daa/a16911" ],
-    [ "instance_halls_of_reflection", "d5/daf/a16915.html", "d5/daf/a16915" ],
-    [ "instance_halls_of_reflection::instance_halls_of_reflection_InstanceMapScript", "d9/ddd/a16919.html", "d9/ddd/a16919" ],
-    [ "AddSC_instance_halls_of_reflection", "d3/d9c/a02336.html#a0f581d4a1a046db6b8b7729c87457646", null ]
+    [ "instance_razorfen_kraul", "d4/dc7/a14871.html", "d4/dc7/a14871" ],
+    [ "instance_razorfen_kraul::instance_razorfen_kraul_InstanceMapScript", "d3/dca/a14875.html", "d3/dca/a14875" ],
+    [ "AddSC_instance_razorfen_kraul", "d3/d9c/a02336.html#a27080d618fc76ad4f3d6b9e8ad4cc3c0", null ]
 ];

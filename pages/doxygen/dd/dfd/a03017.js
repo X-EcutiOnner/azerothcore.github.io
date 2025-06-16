@@ -1,12 +1,6 @@
 var a03017 =
 [
-    [ "instance_gnomeregan", "d4/dca/a12499.html", "d4/dca/a12499" ],
-    [ "instance_gnomeregan::instance_gnomeregan_InstanceMapScript", "df/daf/a12503.html", "df/daf/a12503" ],
-    [ "npc_kernobee", "df/d1b/a12507.html", "df/d1b/a12507" ],
-    [ "npc_kernobee::npc_kernobeeAI", "d9/d53/a12511.html", "d9/d53/a12511" ],
-    [ "spell_gnomeregan_radiation_bolt", "d4/d6a/a12515.html", "d4/d6a/a12515" ],
-    [ "eKernobee", "dd/dfd/a03017.html#a2abc5c19b823c78ec77c3d72114bf15a", [
-      [ "QUEST_A_FINE_MESS", "dd/dfd/a03017.html#a2abc5c19b823c78ec77c3d72114bf15aae96e14c539b411972be0ce6ad156b394", null ]
-    ] ],
-    [ "AddSC_instance_gnomeregan", "dd/dfd/a03017.html#afc9fa76575d58995fccc2f594a40114c", null ]
+    [ "instance_oculus", "d0/dcf/a19343.html", "d0/dcf/a19343" ],
+    [ "instance_oculus::instance_oculus_InstanceMapScript", "d7/d8c/a19347.html", "d7/d8c/a19347" ],
+    [ "AddSC_instance_oculus", "dd/dfd/a03017.html#affab733b7501171ef164fa0b308883a7", null ]
 ];

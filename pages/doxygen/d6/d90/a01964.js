@@ -1,4 +1,4 @@
 var a01964 =
 [
-    [ "UpdateFetcher::DirectoryEntry", "de/d76/a05879.html", "de/d76/a05879" ]
+    [ "ScriptRegistry< DatabaseScript >", "d6/d90/a01964.html#aea9c85b8c04ac043bf7c7cb880a57d95", null ]
 ];

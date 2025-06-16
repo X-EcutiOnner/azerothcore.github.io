@@ -1,8 +1,7 @@
 var a23703 =
 [
-    [ "boss_laj", "d4/dd5/a23703.html#a3c9323ab4b5530504588ea62aed2edff", null ],
-    [ "Reset", "d4/dd5/a23703.html#ace690a0662376addaa40093f3f119c31", null ],
-    [ "ScheduleTasks", "d4/dd5/a23703.html#a6bd0db1ed4c963cdceb681c84469b06c", null ],
-    [ "_lastTransform", "d4/dd5/a23703.html#a097eacaaf77a09bec087530bad587b11", null ],
-    [ "_transformContainer", "d4/dd5/a23703.html#a313e66ceeb4e359251dad65383e7f568", null ]
+    [ "boss_warp_splinter", "d4/dd5/a23703.html#a1d0e8720baaadd1f6f4f6026597c9f63", null ],
+    [ "JustDied", "d4/dd5/a23703.html#a7e7850cf545e57f9fcd8d1aff42f8eb3", null ],
+    [ "JustEngagedWith", "d4/dd5/a23703.html#afc05b2f366e518d5e9ea3fbbfcba05cc", null ],
+    [ "KilledUnit", "d4/dd5/a23703.html#a0e974eb2bfae50383040fe9c7ccf74c1", null ]
 ];

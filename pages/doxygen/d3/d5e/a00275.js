@@ -1,10 +1,11 @@
 var a00275 =
 [
-    [ "TradeData", "db/dd6/a08615.html", "db/dd6/a08615" ],
-    [ "TradeSlots", "d3/d5e/a00275.html#ad8fd978c4198825d89a1f02643d20c62", [
-      [ "TRADE_SLOT_COUNT", "d3/d5e/a00275.html#ad8fd978c4198825d89a1f02643d20c62a1e8d56a5a22d784c5d388fd8bd206488", null ],
-      [ "TRADE_SLOT_TRADED_COUNT", "d3/d5e/a00275.html#ad8fd978c4198825d89a1f02643d20c62ab52f8b8c3be8445987c622e4dfacaa79", null ],
-      [ "TRADE_SLOT_NONTRADED", "d3/d5e/a00275.html#ad8fd978c4198825d89a1f02643d20c62abdab7c30065c4b145dd2e6ce0e27c45f", null ],
-      [ "TRADE_SLOT_INVALID", "d3/d5e/a00275.html#ad8fd978c4198825d89a1f02643d20c62ab98427dca4bc30e207c0433e5e307ad4", null ]
+    [ "AuraEffect", "df/d2c/a11023.html", "df/d2c/a11023" ],
+    [ "Acore::AbsorbAuraOrderPred", "d1/da1/a11027.html", "d1/da1/a11027" ],
+    [ "pAuraEffectHandler", "d3/d5e/a00275.html#a9e98d9a1c1cc41922f386b184fd7ce67", null ],
+    [ "BrewfestEntries", "d3/d5e/a00275.html#a4ee83f582e4ebba3a5aea9ab1a5c9354", [
+      [ "BREWFEST_KODO", "d3/d5e/a00275.html#a4ee83f582e4ebba3a5aea9ab1a5c9354acbc7617ce19ea8d214518ab0335275c5", null ],
+      [ "GREAT_BREWFEST_KODO", "d3/d5e/a00275.html#a4ee83f582e4ebba3a5aea9ab1a5c9354a9e68ffb636426417370cc6b94b7b46aa", null ],
+      [ "FRESH_BREWFEST_HOPS", "d3/d5e/a00275.html#a4ee83f582e4ebba3a5aea9ab1a5c9354a62ef26e3a60fddc8cbadbd349cb054bf", null ]
     ] ]
 ];

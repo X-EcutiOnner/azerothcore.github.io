@@ -1,6 +1,7 @@
 var a00380 =
 [
-    [ "TargetedMovementGeneratorBase", "d3/d06/a09971.html", "d3/d06/a09971" ],
-    [ "ChaseMovementGenerator< T >", "d7/d52/a09975.html", "d7/d52/a09975" ],
-    [ "FollowMovementGenerator< T >", "df/df3/a09979.html", "df/df3/a09979" ]
+    [ "IdleMovementGenerator", "d4/db5/a09935.html", "d4/db5/a09935" ],
+    [ "RotateMovementGenerator", "d4/d4a/a09939.html", "d4/d4a/a09939" ],
+    [ "DistractMovementGenerator", "de/dbb/a09943.html", "de/dbb/a09943" ],
+    [ "AssistanceDistractMovementGenerator", "d7/dd6/a09947.html", "d7/dd6/a09947" ]
 ];

@@ -1,14 +1,17 @@
 var a00260 =
 [
-    [ "TempSummonData", "d7/d3e/a08091.html", "d7/d3e/a08091" ],
-    [ "TempSummon", "d2/dae/a08095.html", "d2/dae/a08095" ],
-    [ "Minion", "dc/dc3/a08099.html", "dc/dc3/a08099" ],
-    [ "Guardian", "db/d47/a08103.html", "db/d47/a08103" ],
-    [ "Puppet", "da/d9e/a08107.html", "da/d9e/a08107" ],
-    [ "ForcedUnsummonDelayEvent", "d9/d69/a08111.html", "d9/d69/a08111" ],
-    [ "SummonerType", "dd/dd7/a00260.html#ac8a8d6d0515f6d559068f8aaae56e188", [
-      [ "SUMMONER_TYPE_CREATURE", "dd/dd7/a00260.html#ac8a8d6d0515f6d559068f8aaae56e188a13183f62876c427760b46d785c8dba3a", null ],
-      [ "SUMMONER_TYPE_GAMEOBJECT", "dd/dd7/a00260.html#ac8a8d6d0515f6d559068f8aaae56e188aadd184039208a2f49a392958ca9a2347", null ],
-      [ "SUMMONER_TYPE_MAP", "dd/dd7/a00260.html#ac8a8d6d0515f6d559068f8aaae56e188a0550300777cb9771bd92e040ccef0270", null ]
-    ] ]
+    [ "GuidLinkType", "dd/dd7/a00260.html#a7c58fae67eb0c9a1b6f18b403121b2f5", [
+      [ "SPELL_LINK_PLAYER", "dd/dd7/a00260.html#a7c58fae67eb0c9a1b6f18b403121b2f5a5d767348c5c4c24512c158282864e028", null ],
+      [ "SPELL_LINK_CREATURE", "dd/dd7/a00260.html#a7c58fae67eb0c9a1b6f18b403121b2f5aaed061119fe0e792ab485fd40a360bf8", null ],
+      [ "SPELL_LINK_GAMEOBJECT", "dd/dd7/a00260.html#a7c58fae67eb0c9a1b6f18b403121b2f5ad11a1fa40770cd0fbd5f0ef62ee244f7", null ]
+    ] ],
+    [ "SpellLinkType", "dd/dd7/a00260.html#a39157073e48b2e925e7227a28d1f09f9", [
+      [ "SPELL_LINK_SPELL", "dd/dd7/a00260.html#a39157073e48b2e925e7227a28d1f09f9a2670f404d5b38a26d1bd9e6567f5f2dd", null ],
+      [ "SPELL_LINK_TALENT", "dd/dd7/a00260.html#a39157073e48b2e925e7227a28d1f09f9ac802fa91fadd1123dd681fb41e79ba56", null ],
+      [ "SPELL_LINK_ENCHANT", "dd/dd7/a00260.html#a39157073e48b2e925e7227a28d1f09f9aea86b74d590ef750d18f0ea02a3a3654", null ],
+      [ "SPELL_LINK_TRADE", "dd/dd7/a00260.html#a39157073e48b2e925e7227a28d1f09f9afb3878bf9e3c79264f9b24165df84919", null ],
+      [ "SPELL_LINK_GLYPH", "dd/dd7/a00260.html#a39157073e48b2e925e7227a28d1f09f9a4560f8b79d96cfda475bb4ac266a255e", null ]
+    ] ],
+    [ "guidKeys", "dd/dd7/a00260.html#ae39447b85bcee503ddb354d2950d638a", null ],
+    [ "spellKeys", "dd/dd7/a00260.html#a493fba30c4b66be28baeb971844ea593", null ]
 ];

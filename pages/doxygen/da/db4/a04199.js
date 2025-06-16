@@ -1,6 +1,4 @@
 var a04199 =
 [
-    [ "ConfigMgr", "df/d84/a05115.html", "df/d84/a05115" ],
-    [ "ConfigException", "d3/d91/a05119.html", "d3/d91/a05119" ],
-    [ "sConfigMgr", "da/db4/a04199.html#a7236988e98bdd405bf435a029b70a26f", null ]
+    [ "ObjectRegistry< T, Key >", "d3/d6e/a05227.html", "d3/d6e/a05227" ]
 ];

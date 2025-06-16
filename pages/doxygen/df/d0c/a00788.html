@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/game/Weather/WeatherMgr.cpp File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/game/Entities/Creature/CreatureGroups.h File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,71 +105,167 @@ $(document).ready(function(){initNavTree('df/d0c/a00788.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#namespaces">Namespaces</a> &#124;
+<a href="#nested-classes">Classes</a> &#124;
+<a href="#define-members">Macros</a> &#124;
 <a href="#typedef-members">Typedefs</a> &#124;
-<a href="#func-members">Functions</a> &#124;
-<a href="#var-members">Variables</a>  </div>
-  <div class="headertitle"><div class="title">WeatherMgr.cpp File Reference<div class="ingroups"><a class="el" href="../../d8/dfa/a04756.html">The World</a></div></div></div>
+<a href="#enum-members">Enumerations</a>  </div>
+  <div class="headertitle"><div class="title">CreatureGroups.h File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">WeatherMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Log.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">MiscPackets.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ObjectMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Player.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Weather.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">WorldSession.h</a>&quot;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">Define.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">ObjectGuid.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Unit.h</a>&quot;</code><br />
+<code>#include &lt;map&gt;</code><br />
+<code>#include &lt;unordered_map&gt;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="namespaces" name="namespaces"></a>
-Namespaces</h2></td></tr>
-<tr class="memitem:d4/de4/a04834"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/de4/a04834.html">WeatherMgr</a></td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
+Classes</h2></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d34/a08055.html">FormationInfo</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:db/db4/a04835"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/db4/a04835.html">WeatherMgr::anonymous_namespace{WeatherMgr.cpp}</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d0e/a08059.html">FormationMgr</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/dad/a08063.html">CreatureGroup</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="define-members" name="define-members"></a>
+Macros</h2></td></tr>
+<tr class="memitem:ae80a51404625cee821a8727ed7369352"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d0c/a00788.html#ae80a51404625cee821a8727ed7369352">sFormationMgr</a>&#160;&#160;&#160;<a class="el" href="../../d9/d0e/a08059.html#a871fec234a94e4adae07315a008acec3">FormationMgr::instance</a>()</td></tr>
+<tr class="separator:ae80a51404625cee821a8727ed7369352"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="typedef-members" name="typedef-members"></a>
 Typedefs</h2></td></tr>
-<tr class="memitem:afdd64650acc01e75684c5ae2b269d5c1"><td class="memItemLeft" align="right" valign="top">typedef std::unordered_map&lt; <a class="el" href="../../da/d71/a04649.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, std::unique_ptr&lt; <a class="el" href="../../dd/dd9/a11495.html">Weather</a> &gt; &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/db4/a04835.html#afdd64650acc01e75684c5ae2b269d5c1">WeatherMgr::anonymous_namespace{WeatherMgr.cpp}::WeatherMap</a></td></tr>
-<tr class="separator:afdd64650acc01e75684c5ae2b269d5c1"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a77b1d830c50ce06ef7bb67f75cbd48b6"><td class="memItemLeft" align="right" valign="top">typedef std::unordered_map&lt; <a class="el" href="../../da/d71/a04649.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../da/d64/a11491.html">WeatherData</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/db4/a04835.html#a77b1d830c50ce06ef7bb67f75cbd48b6">WeatherMgr::anonymous_namespace{WeatherMgr.cpp}::WeatherZoneMap</a></td></tr>
-<tr class="separator:a77b1d830c50ce06ef7bb67f75cbd48b6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2c3447bf21f430bff136da6811d93a61"><td class="memItemLeft" align="right" valign="top">typedef std::unordered_map&lt; <a class="el" href="../../d3/d9a/a08387.html#aa278d50613c05dc1333df5185a6993eb">ObjectGuid::LowType</a>, <a class="el" href="../../d7/d34/a08055.html">FormationInfo</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d0c/a00788.html#a2c3447bf21f430bff136da6811d93a61">CreatureGroupInfoType</a></td></tr>
+<tr class="separator:a2c3447bf21f430bff136da6811d93a61"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
-Functions</h2></td></tr>
-<tr class="memitem:a8d453fe2bfb19b170807fe92e393bc51"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../da/d64/a11491.html">WeatherData</a> const *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/db4/a04835.html#a8d453fe2bfb19b170807fe92e393bc51">WeatherMgr::anonymous_namespace{WeatherMgr.cpp}::GetWeatherData</a> (<a class="el" href="../../da/d71/a04649.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> zone_id)</td></tr>
-<tr class="separator:a8d453fe2bfb19b170807fe92e393bc51"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:gadd11deec2098fed61adf7910b8f09cc6"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dd/dd9/a11495.html">Weather</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dfa/a04756.html#gadd11deec2098fed61adf7910b8f09cc6">WeatherMgr::FindWeather</a> (<a class="el" href="../../da/d71/a04649.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> id)</td></tr>
-<tr class="memdesc:gadd11deec2098fed61adf7910b8f09cc6"><td class="mdescLeft">&#160;</td><td class="mdescRight">Find a <a class="el" href="../../dd/dd9/a11495.html" title="Weather for one zone.">Weather</a> object by the given zoneid.  <a href="../../d8/dfa/a04756.html#gadd11deec2098fed61adf7910b8f09cc6">More...</a><br /></td></tr>
-<tr class="separator:gadd11deec2098fed61adf7910b8f09cc6"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ga296a3324a3a38984149fae3e5d62435f"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dfa/a04756.html#ga296a3324a3a38984149fae3e5d62435f">WeatherMgr::RemoveWeather</a> (<a class="el" href="../../da/d71/a04649.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> id)</td></tr>
-<tr class="memdesc:ga296a3324a3a38984149fae3e5d62435f"><td class="mdescLeft">&#160;</td><td class="mdescRight">Remove a <a class="el" href="../../dd/dd9/a11495.html" title="Weather for one zone.">Weather</a> object for the given zoneid.  <a href="../../d8/dfa/a04756.html#ga296a3324a3a38984149fae3e5d62435f">More...</a><br /></td></tr>
-<tr class="separator:ga296a3324a3a38984149fae3e5d62435f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ga1f76350b68494335d48ae206b87e190c"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dd/dd9/a11495.html">Weather</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dfa/a04756.html#ga1f76350b68494335d48ae206b87e190c">WeatherMgr::AddWeather</a> (<a class="el" href="../../da/d71/a04649.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> zone_id)</td></tr>
-<tr class="memdesc:ga1f76350b68494335d48ae206b87e190c"><td class="mdescLeft">&#160;</td><td class="mdescRight">Add a <a class="el" href="../../dd/dd9/a11495.html" title="Weather for one zone.">Weather</a> object to the list.  <a href="../../d8/dfa/a04756.html#ga1f76350b68494335d48ae206b87e190c">More...</a><br /></td></tr>
-<tr class="separator:ga1f76350b68494335d48ae206b87e190c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ga6c7d8a9fc5dfce0880220f4b5b8cd623"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dfa/a04756.html#ga6c7d8a9fc5dfce0880220f4b5b8cd623">WeatherMgr::LoadWeatherData</a> ()</td></tr>
-<tr class="separator:ga6c7d8a9fc5dfce0880220f4b5b8cd623"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:gac86b4e254146468a7412d8fc7b0c27f2"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dfa/a04756.html#gac86b4e254146468a7412d8fc7b0c27f2">WeatherMgr::SendFineWeatherUpdateToPlayer</a> (<a class="el" href="../../d2/d95/a08583.html">Player</a> *player)</td></tr>
-<tr class="separator:gac86b4e254146468a7412d8fc7b0c27f2"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ga45f0da6cf9e14a99380b4b9be2890801"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dfa/a04756.html#ga45f0da6cf9e14a99380b4b9be2890801">WeatherMgr::Update</a> (<a class="el" href="../../da/d71/a04649.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> diff)</td></tr>
-<tr class="separator:ga45f0da6cf9e14a99380b4b9be2890801"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
-Variables</h2></td></tr>
-<tr class="memitem:ac2bde7e8b2ecff6ab9b2705d01ce8b2c"><td class="memItemLeft" align="right" valign="top">WeatherMap&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/db4/a04835.html#ac2bde7e8b2ecff6ab9b2705d01ce8b2c">WeatherMgr::anonymous_namespace{WeatherMgr.cpp}::m_weathers</a></td></tr>
-<tr class="separator:ac2bde7e8b2ecff6ab9b2705d01ce8b2c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a977110fadc5eac5e2efa26106382d408"><td class="memItemLeft" align="right" valign="top">WeatherZoneMap&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/db4/a04835.html#a977110fadc5eac5e2efa26106382d408">WeatherMgr::anonymous_namespace{WeatherMgr.cpp}::mWeatherZoneMap</a></td></tr>
-<tr class="separator:a977110fadc5eac5e2efa26106382d408"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
+Enumerations</h2></td></tr>
+<tr class="memitem:a3754da8cc6b209da0180cd76de20869c"><td class="memItemLeft" align="right" valign="top">enum class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d0c/a00788.html#a3754da8cc6b209da0180cd76de20869c">GroupAIFlags</a> : uint16 { <br />
+&#160;&#160;<a class="el" href="../../df/d0c/a00788.html#a3754da8cc6b209da0180cd76de20869caa14252ac4ad9c188fc5d7ed9ca7656a2">GROUP_AI_FLAG_MEMBER_ASSIST_LEADER</a> = 0x001
+, <br />
+&#160;&#160;<a class="el" href="../../df/d0c/a00788.html#a3754da8cc6b209da0180cd76de20869ca28fae9fc8e2ffc5c42c7dd1812694f6e">GROUP_AI_FLAG_LEADER_ASSIST_MEMBER</a> = 0x002
+, <br />
+&#160;&#160;<a class="el" href="../../df/d0c/a00788.html#a3754da8cc6b209da0180cd76de20869ca928d7601145d6d43e75dcd4016b5168a">GROUP_AI_FLAG_EVADE_TOGETHER</a> = 0x004
+, <br />
+&#160;&#160;<a class="el" href="../../df/d0c/a00788.html#a3754da8cc6b209da0180cd76de20869cafd1b3cc36d34613f8cef22a23e0c6ee6">GROUP_AI_FLAG_RESPAWN_ON_EVADE</a> = 0x008
+, <br />
+&#160;&#160;<a class="el" href="../../df/d0c/a00788.html#a3754da8cc6b209da0180cd76de20869cabcc8bb1d4fe9589142cc0d244ce05043">GROUP_AI_FLAG_DONT_RESPAWN_LEADER_ON_EVADE</a> = 0x010
+, <br />
+&#160;&#160;<a class="el" href="../../df/d0c/a00788.html#a3754da8cc6b209da0180cd76de20869ca1a12d5efe0ba28476f98f73978bc912e">GROUP_AI_FLAG_ACQUIRE_NEW_TARGET_ON_EVADE</a> = 0x020
+, <br />
+&#160;&#160;<a class="el" href="../../df/d0c/a00788.html#a3754da8cc6b209da0180cd76de20869caee689adab992a48549490c861e29da87">GROUP_AI_FLAG_FOLLOW_LEADER</a> = 0x200
+, <br />
+&#160;&#160;<a class="el" href="../../df/d0c/a00788.html#a3754da8cc6b209da0180cd76de20869ca9fb1dd5025383fe38dc24bd42572256c">GROUP_AI_FLAG_ASSIST_MASK</a> = GROUP_AI_FLAG_MEMBER_ASSIST_LEADER | GROUP_AI_FLAG_LEADER_ASSIST_MEMBER
+, <br />
+&#160;&#160;<a class="el" href="../../df/d0c/a00788.html#a3754da8cc6b209da0180cd76de20869ca2b086f30dfcafa5d5b17145232d26acd">GROUP_AI_FLAG_EVADE_MASK</a> = GROUP_AI_FLAG_EVADE_TOGETHER | GROUP_AI_FLAG_RESPAWN_ON_EVADE
+, <br />
+&#160;&#160;<a class="el" href="../../df/d0c/a00788.html#a3754da8cc6b209da0180cd76de20869ca77e2c9b09a3c1f6ade309decc6d82c60">GROUP_AI_FLAG_SUPPORTED</a>
+<br />
+ }</td></tr>
+<tr class="separator:a3754da8cc6b209da0180cd76de20869c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
+<h2 class="groupheader">Macro Definition Documentation</h2>
+<a id="ae80a51404625cee821a8727ed7369352" name="ae80a51404625cee821a8727ed7369352"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae80a51404625cee821a8727ed7369352">&#9670;&#160;</a></span>sFormationMgr</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">#define sFormationMgr&#160;&#160;&#160;<a class="el" href="../../d9/d0e/a08059.html#a871fec234a94e4adae07315a008acec3">FormationMgr::instance</a>()</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<h2 class="groupheader">Typedef Documentation</h2>
+<a id="a2c3447bf21f430bff136da6811d93a61" name="a2c3447bf21f430bff136da6811d93a61"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2c3447bf21f430bff136da6811d93a61">&#9670;&#160;</a></span>CreatureGroupInfoType</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">typedef std::unordered_map&lt;<a class="el" href="../../d3/d9a/a08387.html#aa278d50613c05dc1333df5185a6993eb">ObjectGuid::LowType</a>, <a class="el" href="../../d7/d34/a08055.html">FormationInfo</a> &gt; <a class="el" href="../../df/d0c/a00788.html#a2c3447bf21f430bff136da6811d93a61">CreatureGroupInfoType</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<h2 class="groupheader">Enumeration Type Documentation</h2>
+<a id="a3754da8cc6b209da0180cd76de20869c" name="a3754da8cc6b209da0180cd76de20869c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3754da8cc6b209da0180cd76de20869c">&#9670;&#160;</a></span>GroupAIFlags</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum class <a class="el" href="../../df/d0c/a00788.html#a3754da8cc6b209da0180cd76de20869c">GroupAIFlags</a> : <a class="el" href="../../d4/d61/a04406.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">strong</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a3754da8cc6b209da0180cd76de20869caa14252ac4ad9c188fc5d7ed9ca7656a2" name="a3754da8cc6b209da0180cd76de20869caa14252ac4ad9c188fc5d7ed9ca7656a2"></a>GROUP_AI_FLAG_MEMBER_ASSIST_LEADER&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a3754da8cc6b209da0180cd76de20869ca28fae9fc8e2ffc5c42c7dd1812694f6e" name="a3754da8cc6b209da0180cd76de20869ca28fae9fc8e2ffc5c42c7dd1812694f6e"></a>GROUP_AI_FLAG_LEADER_ASSIST_MEMBER&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a3754da8cc6b209da0180cd76de20869ca928d7601145d6d43e75dcd4016b5168a" name="a3754da8cc6b209da0180cd76de20869ca928d7601145d6d43e75dcd4016b5168a"></a>GROUP_AI_FLAG_EVADE_TOGETHER&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a3754da8cc6b209da0180cd76de20869cafd1b3cc36d34613f8cef22a23e0c6ee6" name="a3754da8cc6b209da0180cd76de20869cafd1b3cc36d34613f8cef22a23e0c6ee6"></a>GROUP_AI_FLAG_RESPAWN_ON_EVADE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a3754da8cc6b209da0180cd76de20869cabcc8bb1d4fe9589142cc0d244ce05043" name="a3754da8cc6b209da0180cd76de20869cabcc8bb1d4fe9589142cc0d244ce05043"></a>GROUP_AI_FLAG_DONT_RESPAWN_LEADER_ON_EVADE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a3754da8cc6b209da0180cd76de20869ca1a12d5efe0ba28476f98f73978bc912e" name="a3754da8cc6b209da0180cd76de20869ca1a12d5efe0ba28476f98f73978bc912e"></a>GROUP_AI_FLAG_ACQUIRE_NEW_TARGET_ON_EVADE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a3754da8cc6b209da0180cd76de20869caee689adab992a48549490c861e29da87" name="a3754da8cc6b209da0180cd76de20869caee689adab992a48549490c861e29da87"></a>GROUP_AI_FLAG_FOLLOW_LEADER&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a3754da8cc6b209da0180cd76de20869ca9fb1dd5025383fe38dc24bd42572256c" name="a3754da8cc6b209da0180cd76de20869ca9fb1dd5025383fe38dc24bd42572256c"></a>GROUP_AI_FLAG_ASSIST_MASK&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a3754da8cc6b209da0180cd76de20869ca2b086f30dfcafa5d5b17145232d26acd" name="a3754da8cc6b209da0180cd76de20869ca2b086f30dfcafa5d5b17145232d26acd"></a>GROUP_AI_FLAG_EVADE_MASK&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a3754da8cc6b209da0180cd76de20869ca77e2c9b09a3c1f6ade309decc6d82c60" name="a3754da8cc6b209da0180cd76de20869ca77e2c9b09a3c1f6ade309decc6d82c60"></a>GROUP_AI_FLAG_SUPPORTED&#160;</td><td class="fielddoc"></td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno">   31</span>{</div>
+<div class="line"><span class="lineno">   32</span>    <a class="code hl_enumvalue" href="../../df/d0c/a00788.html#a3754da8cc6b209da0180cd76de20869caa14252ac4ad9c188fc5d7ed9ca7656a2">GROUP_AI_FLAG_MEMBER_ASSIST_LEADER</a>          = 0x001,</div>
+<div class="line"><span class="lineno">   33</span>    <a class="code hl_enumvalue" href="../../df/d0c/a00788.html#a3754da8cc6b209da0180cd76de20869ca28fae9fc8e2ffc5c42c7dd1812694f6e">GROUP_AI_FLAG_LEADER_ASSIST_MEMBER</a>          = 0x002,</div>
+<div class="line"><span class="lineno">   34</span>    <a class="code hl_enumvalue" href="../../df/d0c/a00788.html#a3754da8cc6b209da0180cd76de20869ca928d7601145d6d43e75dcd4016b5168a">GROUP_AI_FLAG_EVADE_TOGETHER</a>                = 0x004,</div>
+<div class="line"><span class="lineno">   35</span>    <a class="code hl_enumvalue" href="../../df/d0c/a00788.html#a3754da8cc6b209da0180cd76de20869cafd1b3cc36d34613f8cef22a23e0c6ee6">GROUP_AI_FLAG_RESPAWN_ON_EVADE</a>              = 0x008,</div>
+<div class="line"><span class="lineno">   36</span>    <a class="code hl_enumvalue" href="../../df/d0c/a00788.html#a3754da8cc6b209da0180cd76de20869cabcc8bb1d4fe9589142cc0d244ce05043">GROUP_AI_FLAG_DONT_RESPAWN_LEADER_ON_EVADE</a>  = 0x010,</div>
+<div class="line"><span class="lineno">   37</span>    <a class="code hl_enumvalue" href="../../df/d0c/a00788.html#a3754da8cc6b209da0180cd76de20869ca1a12d5efe0ba28476f98f73978bc912e">GROUP_AI_FLAG_ACQUIRE_NEW_TARGET_ON_EVADE</a>   = 0x020,</div>
+<div class="line"><span class="lineno">   38</span>    <span class="comment">//GROUP_AI_FLAG_UNK5                        = 0x040,</span></div>
+<div class="line"><span class="lineno">   39</span>    <span class="comment">//GROUP_AI_FLAG_UNK6                        = 0x080,</span></div>
+<div class="line"><span class="lineno">   40</span>    <span class="comment">//GROUP_AI_FLAG_UNK7                        = 0x100,</span></div>
+<div class="line"><span class="lineno">   41</span>    <a class="code hl_enumvalue" href="../../df/d0c/a00788.html#a3754da8cc6b209da0180cd76de20869caee689adab992a48549490c861e29da87">GROUP_AI_FLAG_FOLLOW_LEADER</a>                 = 0x200,</div>
+<div class="line"><span class="lineno">   42</span> </div>
+<div class="line"><span class="lineno">   43</span>    <a class="code hl_enumvalue" href="../../df/d0c/a00788.html#a3754da8cc6b209da0180cd76de20869ca9fb1dd5025383fe38dc24bd42572256c">GROUP_AI_FLAG_ASSIST_MASK</a>                   = <a class="code hl_enumvalue" href="../../df/d0c/a00788.html#a3754da8cc6b209da0180cd76de20869caa14252ac4ad9c188fc5d7ed9ca7656a2">GROUP_AI_FLAG_MEMBER_ASSIST_LEADER</a> | <a class="code hl_enumvalue" href="../../df/d0c/a00788.html#a3754da8cc6b209da0180cd76de20869ca28fae9fc8e2ffc5c42c7dd1812694f6e">GROUP_AI_FLAG_LEADER_ASSIST_MEMBER</a>,</div>
+<div class="line"><span class="lineno">   44</span>    <a class="code hl_enumvalue" href="../../df/d0c/a00788.html#a3754da8cc6b209da0180cd76de20869ca2b086f30dfcafa5d5b17145232d26acd">GROUP_AI_FLAG_EVADE_MASK</a>                    = <a class="code hl_enumvalue" href="../../df/d0c/a00788.html#a3754da8cc6b209da0180cd76de20869ca928d7601145d6d43e75dcd4016b5168a">GROUP_AI_FLAG_EVADE_TOGETHER</a> | <a class="code hl_enumvalue" href="../../df/d0c/a00788.html#a3754da8cc6b209da0180cd76de20869cafd1b3cc36d34613f8cef22a23e0c6ee6">GROUP_AI_FLAG_RESPAWN_ON_EVADE</a>,</div>
+<div class="line"><span class="lineno">   45</span> </div>
+<div class="line"><span class="lineno">   46</span>    <span class="comment">// Used to verify valid and usable flags</span></div>
+<div class="line"><span class="lineno">   47</span>    <a class="code hl_enumvalue" href="../../df/d0c/a00788.html#a3754da8cc6b209da0180cd76de20869ca77e2c9b09a3c1f6ade309decc6d82c60">GROUP_AI_FLAG_SUPPORTED</a>                     = <a class="code hl_enumvalue" href="../../df/d0c/a00788.html#a3754da8cc6b209da0180cd76de20869ca9fb1dd5025383fe38dc24bd42572256c">GROUP_AI_FLAG_ASSIST_MASK</a> | <a class="code hl_enumvalue" href="../../df/d0c/a00788.html#a3754da8cc6b209da0180cd76de20869ca2b086f30dfcafa5d5b17145232d26acd">GROUP_AI_FLAG_EVADE_MASK</a> | <a class="code hl_enumvalue" href="../../df/d0c/a00788.html#a3754da8cc6b209da0180cd76de20869cabcc8bb1d4fe9589142cc0d244ce05043">GROUP_AI_FLAG_DONT_RESPAWN_LEADER_ON_EVADE</a> |</div>
+<div class="line"><span class="lineno">   48</span>                                                  <a class="code hl_enumvalue" href="../../df/d0c/a00788.html#a3754da8cc6b209da0180cd76de20869caee689adab992a48549490c861e29da87">GROUP_AI_FLAG_FOLLOW_LEADER</a> | <a class="code hl_enumvalue" href="../../df/d0c/a00788.html#a3754da8cc6b209da0180cd76de20869ca1a12d5efe0ba28476f98f73978bc912e">GROUP_AI_FLAG_ACQUIRE_NEW_TARGET_ON_EVADE</a></div>
+<div class="line"><span class="lineno">   49</span>};</div>
+<div class="ttc" id="aa00788_html_a3754da8cc6b209da0180cd76de20869ca1a12d5efe0ba28476f98f73978bc912e"><div class="ttname"><a href="../../df/d0c/a00788.html#a3754da8cc6b209da0180cd76de20869ca1a12d5efe0ba28476f98f73978bc912e">GroupAIFlags::GROUP_AI_FLAG_ACQUIRE_NEW_TARGET_ON_EVADE</a></div><div class="ttdeci">@ GROUP_AI_FLAG_ACQUIRE_NEW_TARGET_ON_EVADE</div></div>
+<div class="ttc" id="aa00788_html_a3754da8cc6b209da0180cd76de20869ca28fae9fc8e2ffc5c42c7dd1812694f6e"><div class="ttname"><a href="../../df/d0c/a00788.html#a3754da8cc6b209da0180cd76de20869ca28fae9fc8e2ffc5c42c7dd1812694f6e">GroupAIFlags::GROUP_AI_FLAG_LEADER_ASSIST_MEMBER</a></div><div class="ttdeci">@ GROUP_AI_FLAG_LEADER_ASSIST_MEMBER</div></div>
+<div class="ttc" id="aa00788_html_a3754da8cc6b209da0180cd76de20869ca2b086f30dfcafa5d5b17145232d26acd"><div class="ttname"><a href="../../df/d0c/a00788.html#a3754da8cc6b209da0180cd76de20869ca2b086f30dfcafa5d5b17145232d26acd">GroupAIFlags::GROUP_AI_FLAG_EVADE_MASK</a></div><div class="ttdeci">@ GROUP_AI_FLAG_EVADE_MASK</div></div>
+<div class="ttc" id="aa00788_html_a3754da8cc6b209da0180cd76de20869ca77e2c9b09a3c1f6ade309decc6d82c60"><div class="ttname"><a href="../../df/d0c/a00788.html#a3754da8cc6b209da0180cd76de20869ca77e2c9b09a3c1f6ade309decc6d82c60">GroupAIFlags::GROUP_AI_FLAG_SUPPORTED</a></div><div class="ttdeci">@ GROUP_AI_FLAG_SUPPORTED</div></div>
+<div class="ttc" id="aa00788_html_a3754da8cc6b209da0180cd76de20869ca928d7601145d6d43e75dcd4016b5168a"><div class="ttname"><a href="../../df/d0c/a00788.html#a3754da8cc6b209da0180cd76de20869ca928d7601145d6d43e75dcd4016b5168a">GroupAIFlags::GROUP_AI_FLAG_EVADE_TOGETHER</a></div><div class="ttdeci">@ GROUP_AI_FLAG_EVADE_TOGETHER</div></div>
+<div class="ttc" id="aa00788_html_a3754da8cc6b209da0180cd76de20869ca9fb1dd5025383fe38dc24bd42572256c"><div class="ttname"><a href="../../df/d0c/a00788.html#a3754da8cc6b209da0180cd76de20869ca9fb1dd5025383fe38dc24bd42572256c">GroupAIFlags::GROUP_AI_FLAG_ASSIST_MASK</a></div><div class="ttdeci">@ GROUP_AI_FLAG_ASSIST_MASK</div></div>
+<div class="ttc" id="aa00788_html_a3754da8cc6b209da0180cd76de20869caa14252ac4ad9c188fc5d7ed9ca7656a2"><div class="ttname"><a href="../../df/d0c/a00788.html#a3754da8cc6b209da0180cd76de20869caa14252ac4ad9c188fc5d7ed9ca7656a2">GroupAIFlags::GROUP_AI_FLAG_MEMBER_ASSIST_LEADER</a></div><div class="ttdeci">@ GROUP_AI_FLAG_MEMBER_ASSIST_LEADER</div></div>
+<div class="ttc" id="aa00788_html_a3754da8cc6b209da0180cd76de20869cabcc8bb1d4fe9589142cc0d244ce05043"><div class="ttname"><a href="../../df/d0c/a00788.html#a3754da8cc6b209da0180cd76de20869cabcc8bb1d4fe9589142cc0d244ce05043">GroupAIFlags::GROUP_AI_FLAG_DONT_RESPAWN_LEADER_ON_EVADE</a></div><div class="ttdeci">@ GROUP_AI_FLAG_DONT_RESPAWN_LEADER_ON_EVADE</div></div>
+<div class="ttc" id="aa00788_html_a3754da8cc6b209da0180cd76de20869caee689adab992a48549490c861e29da87"><div class="ttname"><a href="../../df/d0c/a00788.html#a3754da8cc6b209da0180cd76de20869caee689adab992a48549490c861e29da87">GroupAIFlags::GROUP_AI_FLAG_FOLLOW_LEADER</a></div><div class="ttdeci">@ GROUP_AI_FLAG_FOLLOW_LEADER</div></div>
+<div class="ttc" id="aa00788_html_a3754da8cc6b209da0180cd76de20869cafd1b3cc36d34613f8cef22a23e0c6ee6"><div class="ttname"><a href="../../df/d0c/a00788.html#a3754da8cc6b209da0180cd76de20869cafd1b3cc36d34613f8cef22a23e0c6ee6">GroupAIFlags::GROUP_AI_FLAG_RESPAWN_ON_EVADE</a></div><div class="ttdeci">@ GROUP_AI_FLAG_RESPAWN_ON_EVADE</div></div>
+</div><!-- fragment -->
+</div>
+</div>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_adf5e23d7fbd2f278fda5650b14114ac.html">Weather</a></li><li class="navelem"><a class="el" href="../../df/d0c/a00788.html">WeatherMgr.cpp</a></li>
-    <li class="footer">Generated on Mon Jun 9 2025 20:46:08 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_e83c9d0a1780a629eb22febc87da63b1.html">Entities</a></li><li class="navelem"><a class="el" href="../../dir_27c47d768f113c084c0b575dcbf4137a.html">Creature</a></li><li class="navelem"><a class="el" href="../../df/d0c/a00788.html">CreatureGroups.h</a></li>
+    <li class="footer">Generated on Mon Jun 16 2025 20:47:10 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

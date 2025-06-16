@@ -1,7 +1,4 @@
 var a01961 =
 [
-    [ "UpdateResult", "df/df8/a05883.html", "df/df8/a05883" ],
-    [ "UpdateFetcher", "d9/d99/a05887.html", "d9/d99/a05887" ],
-    [ "UpdateFetcher::AppliedFileEntry", "db/d5e/a05891.html", "db/d5e/a05891" ],
-    [ "UpdateFetcher::PathCompare", "d0/d49/a05895.html", "d0/d49/a05895" ]
+    [ "ScriptRegistry< UnitScript >", "d2/d23/a01961.html#aced42ee6099fa72848b9b4aef527ebc3", null ]
 ];

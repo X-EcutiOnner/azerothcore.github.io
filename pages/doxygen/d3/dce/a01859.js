@@ -1,8 +1,12 @@
 var a01859 =
 [
-    [ "CliThread", "d2/d6c/a04754.html#ga2a2e263e5224262317a4728b5a4c18ac", null ],
-    [ "commandFinished", "d2/d6c/a04754.html#gaf86bc63df807e80b7a14688e48340fea", null ],
-    [ "PrintCliPrefix", "d2/d6c/a04754.html#ga6553c1ff0337c88fb9f9d94a97f49b9a", null ],
-    [ "utf8print", "d2/d6c/a04754.html#gacf6bc075c8e41c95b5633526721136ce", null ],
-    [ "CLI_PREFIX", "d2/d6c/a04754.html#ga77eabd925e8f9aa379616b264e287cea", null ]
+    [ "TicketScript", "d2/dc1/a10347.html", "d2/dc1/a10347" ],
+    [ "TicketHook", "d3/dce/a01859.html#af2de2d4afd6c8a1968e6e4b055620b72", [
+      [ "TICKETHOOK_ON_TICKET_CREATE", "d3/dce/a01859.html#af2de2d4afd6c8a1968e6e4b055620b72a048895a23d18ef1c7901256655315a61", null ],
+      [ "TICKETHOOK_ON_TICKET_UPDATE_LAST_CHANGE", "d3/dce/a01859.html#af2de2d4afd6c8a1968e6e4b055620b72a1777cc276841ae965f3636dc48161374", null ],
+      [ "TICKETHOOK_ON_TICKET_CLOSE", "d3/dce/a01859.html#af2de2d4afd6c8a1968e6e4b055620b72ac65b75869b3e3fb1dec5db5eb5701f38", null ],
+      [ "TICKETHOOK_ON_TICKET_STATUS_UPDATE", "d3/dce/a01859.html#af2de2d4afd6c8a1968e6e4b055620b72ad50ae60643438ce57485d63d8492a825", null ],
+      [ "TICKETHOOK_ON_TICKET_RESOLVE", "d3/dce/a01859.html#af2de2d4afd6c8a1968e6e4b055620b72a77a1b9c3448bbffacadaaa5c542086df", null ],
+      [ "TICKETHOOK_END", "d3/dce/a01859.html#af2de2d4afd6c8a1968e6e4b055620b72a12665f6e053ad59e5e6cb0ca56d92222", null ]
+    ] ]
 ];

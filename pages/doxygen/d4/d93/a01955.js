@@ -1,6 +1,12 @@
 var a01955 =
 [
-    [ "DBUpdater< CharacterDatabaseConnection >", "d4/d93/a01955.html#a753e207671f7af3815a056247f2de3ce", null ],
-    [ "DBUpdater< LoginDatabaseConnection >", "d4/d93/a01955.html#a16a33693c8570aff221401b100547fb7", null ],
-    [ "DBUpdater< WorldDatabaseConnection >", "d4/d93/a01955.html#ace05c45d1df6cb7f16487ef1aa8bc9f7", null ]
+    [ "ArenaTeamScript", "d7/d0f/a10211.html", "d7/d0f/a10211" ],
+    [ "ArenaTeamHook", "d4/d93/a01955.html#adfb7077026efd17516d6b85637c2b218", [
+      [ "ARENATEAMHOOK_ON_GET_SLOT_BY_TYPE", "d4/d93/a01955.html#adfb7077026efd17516d6b85637c2b218a138fd48dae9a6b0db50dd8a442045adc", null ],
+      [ "ARENATEAMHOOK_ON_GET_ARENA_POINTS", "d4/d93/a01955.html#adfb7077026efd17516d6b85637c2b218a3b21f54389f578130e4874fd75c7e6a9", null ],
+      [ "ARENATEAMHOOK_ON_TYPEID_TO_QUEUEID", "d4/d93/a01955.html#adfb7077026efd17516d6b85637c2b218ae5c1d8d5548693d43fdd43339ef152a7", null ],
+      [ "ARENATEAMHOOK_ON_QUEUEID_TO_ARENA_TYPE", "d4/d93/a01955.html#adfb7077026efd17516d6b85637c2b218a957830b5a4fb9d7a53b977999068031b", null ],
+      [ "ARENATEAMHOOK_ON_SET_ARENA_MAX_PLAYERS_PER_TEAM", "d4/d93/a01955.html#adfb7077026efd17516d6b85637c2b218aaf39f25b1610466743d5d839986bf6b6", null ],
+      [ "ARENATEAMHOOK_END", "d4/d93/a01955.html#adfb7077026efd17516d6b85637c2b218a5fe29b394fe4fe74fffe7988b90ccaf7", null ]
+    ] ]
 ];

@@ -1,4 +1,5 @@
 var a00428 =
 [
-    [ "ApplySpellFix", "d4/dd3/a00428.html#ab2692a866ddb9539875213c10f37b84e", null ]
+    [ "Movement::SplineBase", "dc/d3f/a10055.html", "dc/d3f/a10055" ],
+    [ "Movement::Spline< length_type >", "d3/dab/a10059.html", "d3/dab/a10059" ]
 ];

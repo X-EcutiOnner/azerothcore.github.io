@@ -1,6 +1,6 @@
 var a27187 =
 [
-    [ "go_heatAI", "db/dcc/a27187.html#a40e4ec3294126aaf3fc6875aa8b39f0a", null ],
-    [ "UpdateAI", "db/dcc/a27187.html#a2332206ee47b2cea9e4707d16ea79325", null ],
-    [ "timer", "db/dcc/a27187.html#a4f01692c9f39e2a40d2d5f9c22e0ac43", null ]
+    [ "go_bear_trapAI", "d1/d89/a27191.html", "d1/d89/a27191" ],
+    [ "go_bear_trap", "db/dcc/a27187.html#a6301aa23009ac2599fc37b81bb3a0750", null ],
+    [ "GetAI", "db/dcc/a27187.html#afb882fd4cc2e4379bb8d5afff210a679", null ]
 ];

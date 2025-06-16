@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/scripts/Kalimdor/CavernsOfTime/BattleForMountHyjal/instance_hyjal.cpp File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/scripts/Outland/Auchindoun/ManaTombs/mana_tombs.h File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,199 +105,177 @@ $(document).ready(function(){initNavTree('d8/db0/a03572.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#nested-classes">Classes</a> &#124;
+<a href="#define-members">Macros</a> &#124;
+<a href="#enum-members">Enumerations</a> &#124;
 <a href="#func-members">Functions</a> &#124;
 <a href="#var-members">Variables</a>  </div>
-  <div class="headertitle"><div class="title">instance_hyjal.cpp File Reference</div></div>
+  <div class="headertitle"><div class="title">mana_tombs.h File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">AreaDefines.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Chat.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">InstanceMapScript.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">InstanceScript.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Player.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">WorldStateDefines.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">hyjal.h</a>&quot;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">CreatureAIImpl.h</a>&quot;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
-Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d38/a14631.html">instance_hyjal</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d7f/a14635.html">instance_hyjal::instance_mount_hyjal_InstanceMapScript</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="define-members" name="define-members"></a>
+Macros</h2></td></tr>
+<tr class="memitem:a772413d8818d681e2261c99f58e1268c"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/db0/a03572.html#a772413d8818d681e2261c99f58e1268c">MTScriptName</a>&#160;&#160;&#160;&quot;instance_mana_tombs&quot;</td></tr>
+<tr class="separator:a772413d8818d681e2261c99f58e1268c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a042491ef36459046f3866e90f15aae0d"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/db0/a03572.html#a042491ef36459046f3866e90f15aae0d">DataHeader</a>&#160;&#160;&#160;&quot;MT&quot;</td></tr>
+<tr class="separator:a042491ef36459046f3866e90f15aae0d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7e2e8ea768842320ce5d953aeaddb176"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/db0/a03572.html#a7e2e8ea768842320ce5d953aeaddb176">RegisterManaTombsCreatureAI</a>(ai_name)&#160;&#160;&#160;<a class="el" href="../../d0/d9d/a01760.html#a25cc02ecf50f52ec8cdff096060b8be1">RegisterCreatureAIWithFactory</a>(ai_name, <a class="el" href="../../d8/db0/a03572.html#aaec5771a3ce0808b0a1bb0116b4fb9e3">GetManaTombsAI</a>)</td></tr>
+<tr class="separator:a7e2e8ea768842320ce5d953aeaddb176"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
+Enumerations</h2></td></tr>
+<tr class="memitem:a9ffea4a6410ded9f327ba6e91f8766ee"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/db0/a03572.html#a9ffea4a6410ded9f327ba6e91f8766ee">MTDataTypes</a> { <br />
+&#160;&#160;<a class="el" href="../../d8/db0/a03572.html#a9ffea4a6410ded9f327ba6e91f8766eeab1efde1b4aaad2daab0c383563a9f02a">DATA_PANDEMONIUS</a> = 0
+, <br />
+&#160;&#160;<a class="el" href="../../d8/db0/a03572.html#a9ffea4a6410ded9f327ba6e91f8766eea9245929feb24a0840eeff34e8c87de57">DATA_TAVAROK</a> = 1
+, <br />
+&#160;&#160;<a class="el" href="../../d8/db0/a03572.html#a9ffea4a6410ded9f327ba6e91f8766eea07473250c26fb3874461362f93a75a97">DATA_NEXUSPRINCE_SHAFFAR</a> = 2
+, <br />
+&#160;&#160;<a class="el" href="../../d8/db0/a03572.html#a9ffea4a6410ded9f327ba6e91f8766eea738b876feae2daf42423688ca0f13289">DATA_YOR</a> = 3
+<br />
+ }</td></tr>
+<tr class="separator:a9ffea4a6410ded9f327ba6e91f8766ee"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:a5c7a0ad3a2ae9f82eb9c45fbf90d5b41"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/db0/a03572.html#a5c7a0ad3a2ae9f82eb9c45fbf90d5b41">AddSC_instance_mount_hyjal</a> ()</td></tr>
-<tr class="separator:a5c7a0ad3a2ae9f82eb9c45fbf90d5b41"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aaec5771a3ce0808b0a1bb0116b4fb9e3"><td class="memTemplParams" colspan="2">template&lt;class AI , class T &gt; </td></tr>
+<tr class="memitem:aaec5771a3ce0808b0a1bb0116b4fb9e3"><td class="memTemplItemLeft" align="right" valign="top">AI *&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d8/db0/a03572.html#aaec5771a3ce0808b0a1bb0116b4fb9e3">GetManaTombsAI</a> (T *obj)</td></tr>
+<tr class="separator:aaec5771a3ce0808b0a1bb0116b4fb9e3"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
 Variables</h2></td></tr>
-<tr class="memitem:a69c4a0ca4694d5ed1d42f0373dd5d80c"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d1/ddd/a09595.html">DoorData</a> const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/db0/a03572.html#a69c4a0ca4694d5ed1d42f0373dd5d80c">doorData</a> []</td></tr>
-<tr class="separator:a69c4a0ca4694d5ed1d42f0373dd5d80c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a412286b689bd324fedd65ddd8dde8afb"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dc/db8/a09611.html">ObjectData</a> const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/db0/a03572.html#a412286b689bd324fedd65ddd8dde8afb">creatureData</a> []</td></tr>
-<tr class="separator:a412286b689bd324fedd65ddd8dde8afb"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aaad50890c4534c5b5c848a9b85f3d8fe"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/dc5/a04415.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/db0/a03572.html#aaad50890c4534c5b5c848a9b85f3d8fe">hyjalWaveTimers</a> [4][<a class="el" href="../../d3/dbd/a03575.html#abd6cce1437900ab106eccd088558498eab56f8400a89abc853f99e7737219502c">MAX_WAVES_STANDARD</a>]</td></tr>
-<tr class="separator:aaad50890c4534c5b5c848a9b85f3d8fe"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a254787ab3a62d90e906ded9ef63aa229"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/dc5/a04415.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/db0/a03572.html#a254787ab3a62d90e906ded9ef63aa229">hyjalRetreatTimers</a> [2][<a class="el" href="../../d3/dbd/a03575.html#abd6cce1437900ab106eccd088558498ea1084aef6ff8543a3b9992e129436544f">MAX_WAVES_RETREAT</a>]</td></tr>
-<tr class="separator:a254787ab3a62d90e906ded9ef63aa229"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ade7b4d2fdf8cd15fa4985554885eb881"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/dc5/a04415.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/db0/a03572.html#ade7b4d2fdf8cd15fa4985554885eb881">hyjalNightElfWaveTimers</a> [1][<a class="el" href="../../d3/dbd/a03575.html#abd6cce1437900ab106eccd088558498eadcc87d7ad11c922e4c0dbae31b6b00db">MAX_WAVES_NIGHT_ELF</a>]</td></tr>
-<tr class="separator:ade7b4d2fdf8cd15fa4985554885eb881"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a31d630c40753c29f94ceac2db5e451a8"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d4/d61/a04406.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/db0/a03572.html#a31d630c40753c29f94ceac2db5e451a8">EncounterCount</a> = 4</td></tr>
+<tr class="separator:a31d630c40753c29f94ceac2db5e451a8"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Function Documentation</h2>
-<a id="a5c7a0ad3a2ae9f82eb9c45fbf90d5b41" name="a5c7a0ad3a2ae9f82eb9c45fbf90d5b41"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a5c7a0ad3a2ae9f82eb9c45fbf90d5b41">&#9670;&#160;</a></span>AddSC_instance_mount_hyjal()</h2>
+<h2 class="groupheader">Macro Definition Documentation</h2>
+<a id="a042491ef36459046f3866e90f15aae0d" name="a042491ef36459046f3866e90f15aae0d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a042491ef36459046f3866e90f15aae0d">&#9670;&#160;</a></span>DataHeader</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">void AddSC_instance_mount_hyjal </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
+          <td class="memname">#define DataHeader&#160;&#160;&#160;&quot;MT&quot;</td>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  603</span>{</div>
-<div class="line"><span class="lineno">  604</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d2/d38/a14631.html">instance_hyjal</a>();</div>
-<div class="line"><span class="lineno">  605</span>}</div>
-<div class="ttc" id="aa14631_html"><div class="ttname"><a href="../../d2/d38/a14631.html">instance_hyjal</a></div><div class="ttdef"><b>Definition:</b> instance_hyjal.cpp:74</div></div>
+
+</div>
+</div>
+<a id="a772413d8818d681e2261c99f58e1268c" name="a772413d8818d681e2261c99f58e1268c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a772413d8818d681e2261c99f58e1268c">&#9670;&#160;</a></span>MTScriptName</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">#define MTScriptName&#160;&#160;&#160;&quot;instance_mana_tombs&quot;</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a7e2e8ea768842320ce5d953aeaddb176" name="a7e2e8ea768842320ce5d953aeaddb176"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7e2e8ea768842320ce5d953aeaddb176">&#9670;&#160;</a></span>RegisterManaTombsCreatureAI</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">#define RegisterManaTombsCreatureAI</td>
+          <td>(</td>
+          <td class="paramtype">&#160;</td>
+          <td class="paramname">ai_name</td><td>)</td>
+          <td>&#160;&#160;&#160;<a class="el" href="../../d0/d9d/a01760.html#a25cc02ecf50f52ec8cdff096060b8be1">RegisterCreatureAIWithFactory</a>(ai_name, <a class="el" href="../../d8/db0/a03572.html#aaec5771a3ce0808b0a1bb0116b4fb9e3">GetManaTombsAI</a>)</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<h2 class="groupheader">Enumeration Type Documentation</h2>
+<a id="a9ffea4a6410ded9f327ba6e91f8766ee" name="a9ffea4a6410ded9f327ba6e91f8766ee"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9ffea4a6410ded9f327ba6e91f8766ee">&#9670;&#160;</a></span>MTDataTypes</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="../../d8/db0/a03572.html#a9ffea4a6410ded9f327ba6e91f8766ee">MTDataTypes</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a9ffea4a6410ded9f327ba6e91f8766eeab1efde1b4aaad2daab0c383563a9f02a" name="a9ffea4a6410ded9f327ba6e91f8766eeab1efde1b4aaad2daab0c383563a9f02a"></a>DATA_PANDEMONIUS&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a9ffea4a6410ded9f327ba6e91f8766eea9245929feb24a0840eeff34e8c87de57" name="a9ffea4a6410ded9f327ba6e91f8766eea9245929feb24a0840eeff34e8c87de57"></a>DATA_TAVAROK&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a9ffea4a6410ded9f327ba6e91f8766eea07473250c26fb3874461362f93a75a97" name="a9ffea4a6410ded9f327ba6e91f8766eea07473250c26fb3874461362f93a75a97"></a>DATA_NEXUSPRINCE_SHAFFAR&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a9ffea4a6410ded9f327ba6e91f8766eea738b876feae2daf42423688ca0f13289" name="a9ffea4a6410ded9f327ba6e91f8766eea738b876feae2daf42423688ca0f13289"></a>DATA_YOR&#160;</td><td class="fielddoc"></td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno">   29</span>{</div>
+<div class="line"><span class="lineno">   30</span>    <span class="comment">// Encounter States/Boss GUIDs</span></div>
+<div class="line"><span class="lineno">   31</span>    <a class="code hl_enumvalue" href="../../d8/db0/a03572.html#a9ffea4a6410ded9f327ba6e91f8766eeab1efde1b4aaad2daab0c383563a9f02a">DATA_PANDEMONIUS</a>            = 0,</div>
+<div class="line"><span class="lineno">   32</span>    <a class="code hl_enumvalue" href="../../d8/db0/a03572.html#a9ffea4a6410ded9f327ba6e91f8766eea9245929feb24a0840eeff34e8c87de57">DATA_TAVAROK</a>                = 1,</div>
+<div class="line"><span class="lineno">   33</span>    <a class="code hl_enumvalue" href="../../d8/db0/a03572.html#a9ffea4a6410ded9f327ba6e91f8766eea07473250c26fb3874461362f93a75a97">DATA_NEXUSPRINCE_SHAFFAR</a>    = 2,</div>
+<div class="line"><span class="lineno">   34</span>    <a class="code hl_enumvalue" href="../../d8/db0/a03572.html#a9ffea4a6410ded9f327ba6e91f8766eea738b876feae2daf42423688ca0f13289">DATA_YOR</a>                    = 3</div>
+<div class="line"><span class="lineno">   35</span>};</div>
+<div class="ttc" id="aa03572_html_a9ffea4a6410ded9f327ba6e91f8766eea07473250c26fb3874461362f93a75a97"><div class="ttname"><a href="../../d8/db0/a03572.html#a9ffea4a6410ded9f327ba6e91f8766eea07473250c26fb3874461362f93a75a97">DATA_NEXUSPRINCE_SHAFFAR</a></div><div class="ttdeci">@ DATA_NEXUSPRINCE_SHAFFAR</div><div class="ttdef"><b>Definition:</b> mana_tombs.h:33</div></div>
+<div class="ttc" id="aa03572_html_a9ffea4a6410ded9f327ba6e91f8766eea738b876feae2daf42423688ca0f13289"><div class="ttname"><a href="../../d8/db0/a03572.html#a9ffea4a6410ded9f327ba6e91f8766eea738b876feae2daf42423688ca0f13289">DATA_YOR</a></div><div class="ttdeci">@ DATA_YOR</div><div class="ttdef"><b>Definition:</b> mana_tombs.h:34</div></div>
+<div class="ttc" id="aa03572_html_a9ffea4a6410ded9f327ba6e91f8766eea9245929feb24a0840eeff34e8c87de57"><div class="ttname"><a href="../../d8/db0/a03572.html#a9ffea4a6410ded9f327ba6e91f8766eea9245929feb24a0840eeff34e8c87de57">DATA_TAVAROK</a></div><div class="ttdeci">@ DATA_TAVAROK</div><div class="ttdef"><b>Definition:</b> mana_tombs.h:32</div></div>
+<div class="ttc" id="aa03572_html_a9ffea4a6410ded9f327ba6e91f8766eeab1efde1b4aaad2daab0c383563a9f02a"><div class="ttname"><a href="../../d8/db0/a03572.html#a9ffea4a6410ded9f327ba6e91f8766eeab1efde1b4aaad2daab0c383563a9f02a">DATA_PANDEMONIUS</a></div><div class="ttdeci">@ DATA_PANDEMONIUS</div><div class="ttdef"><b>Definition:</b> mana_tombs.h:31</div></div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00100">AddKalimdorScripts()</a>.</p>
+</div>
+</div>
+<h2 class="groupheader">Function Documentation</h2>
+<a id="aaec5771a3ce0808b0a1bb0116b4fb9e3" name="aaec5771a3ce0808b0a1bb0116b4fb9e3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aaec5771a3ce0808b0a1bb0116b4fb9e3">&#9670;&#160;</a></span>GetManaTombsAI()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class AI , class T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">AI * GetManaTombsAI </td>
+          <td>(</td>
+          <td class="paramtype">T *&#160;</td>
+          <td class="paramname"><em>obj</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   39</span>{</div>
+<div class="line"><span class="lineno">   40</span>    <span class="keywordflow">return</span> GetInstanceAI&lt;AI&gt;(obj, <a class="code hl_define" href="../../d8/db0/a03572.html#a772413d8818d681e2261c99f58e1268c">MTScriptName</a>);</div>
+<div class="line"><span class="lineno">   41</span>}</div>
+<div class="ttc" id="aa03572_html_a772413d8818d681e2261c99f58e1268c"><div class="ttname"><a href="../../d8/db0/a03572.html#a772413d8818d681e2261c99f58e1268c">MTScriptName</a></div><div class="ttdeci">#define MTScriptName</div><div class="ttdef"><b>Definition:</b> mana_tombs.h:23</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00023">MTScriptName</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Variable Documentation</h2>
-<a id="a412286b689bd324fedd65ddd8dde8afb" name="a412286b689bd324fedd65ddd8dde8afb"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a412286b689bd324fedd65ddd8dde8afb">&#9670;&#160;</a></span>creatureData</h2>
+<a id="a31d630c40753c29f94ceac2db5e451a8" name="a31d630c40753c29f94ceac2db5e451a8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a31d630c40753c29f94ceac2db5e451a8">&#9670;&#160;</a></span>EncounterCount</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../dc/db8/a09611.html">ObjectData</a> const creatureData[]</td>
+          <td class="memname"><a class="el" href="../../d4/d61/a04406.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> const EncounterCount = 4</td>
         </tr>
       </table>
 </div><div class="memdoc">
-<b>Initial value:</b><div class="fragment"><div class="line">=</div>
-<div class="line">{</div>
-<div class="line">    { <a class="code hl_enumvalue" href="../../d3/dbd/a03575.html#a9e8dc23238e4b54d4a243b454a29c0e1a2588e66b425f4f4789b11722b7214efe">NPC_WINTERCHILL</a>, <a class="code hl_enumvalue" href="../../d3/dbd/a03575.html#afb6eb4f28419b652027fad41104a6d22af2461efd25d69bfd771e6f59f97043a8">DATA_WINTERCHILL</a> },</div>
-<div class="line">    { <a class="code hl_enumvalue" href="../../d3/dbd/a03575.html#a9e8dc23238e4b54d4a243b454a29c0e1addcb97e624c9e529f2b4d2cd4f50edac">NPC_ANETHERON</a>,   <a class="code hl_enumvalue" href="../../d3/dbd/a03575.html#afb6eb4f28419b652027fad41104a6d22af3b31a43f633b60dbaefd99ddc1772c1">DATA_ANETHERON</a>   },</div>
-<div class="line">    { <a class="code hl_enumvalue" href="../../d3/dbd/a03575.html#a9e8dc23238e4b54d4a243b454a29c0e1a34823ad17f9ba80a51c355f95555290b">NPC_KAZROGAL</a>,    <a class="code hl_enumvalue" href="../../d3/dbd/a03575.html#afb6eb4f28419b652027fad41104a6d22aab103d5c0a9dc6f49f6d6268c9a022a5">DATA_KAZROGAL</a>    },</div>
-<div class="line">    { <a class="code hl_enumvalue" href="../../d3/dbd/a03575.html#a9e8dc23238e4b54d4a243b454a29c0e1ae8b198a3b451b37037a1188099cf059d">NPC_AZGALOR</a>,     <a class="code hl_enumvalue" href="../../d3/dbd/a03575.html#afb6eb4f28419b652027fad41104a6d22ae0e98b64ea2b8d4165853c30b5857522">DATA_AZGALOR</a>     },</div>
-<div class="line">    { <a class="code hl_enumvalue" href="../../d3/dbd/a03575.html#a9e8dc23238e4b54d4a243b454a29c0e1ad9e4abbe68b2c78fe5c5fc7b043d7532">NPC_ARCHIMONDE</a>,  <a class="code hl_enumvalue" href="../../d3/dbd/a03575.html#afb6eb4f28419b652027fad41104a6d22af61041f0a41aa5b8372838917b127ed5">DATA_ARCHIMONDE</a>  },</div>
-<div class="line">    { <a class="code hl_enumvalue" href="../../d6/d92/a02867.html#abc1817310402e8975ffa012bf11a8506abb2c764d972352baa23c884a753e0f1f">NPC_THRALL</a>,      <a class="code hl_enumvalue" href="../../d3/dbd/a03575.html#afb6eb4f28419b652027fad41104a6d22a9c0f8b00a8caed9032b2171eebba98e8">DATA_THRALL</a>      },</div>
-<div class="line">    { <a class="code hl_enumvalue" href="../../d6/d92/a02867.html#a3340f88cbee80feb625844ccdee7eb8aaa34e63fb01c6c84f8efab30926afa448">NPC_JAINA</a>,       <a class="code hl_enumvalue" href="../../d3/dbd/a03575.html#afb6eb4f28419b652027fad41104a6d22a8594e5927441cca5f16396b5b0b7a0ac">DATA_JAINA</a>       },</div>
-<div class="line">    { <a class="code hl_enumvalue" href="../../d3/dbd/a03575.html#a9e8dc23238e4b54d4a243b454a29c0e1a5e3f8b59f3af576cef1bd46a74f68348">NPC_TYRANDE</a>,     <a class="code hl_enumvalue" href="../../d3/dbd/a03575.html#afb6eb4f28419b652027fad41104a6d22ac00c84976d87db5c2f2d2e8ab600b58f">DATA_TYRANDE</a>     },</div>
-<div class="line">    { 0,               0                }</div>
-<div class="line">}</div>
-<div class="ttc" id="aa02867_html_a3340f88cbee80feb625844ccdee7eb8aaa34e63fb01c6c84f8efab30926afa448"><div class="ttname"><a href="../../d6/d92/a02867.html#a3340f88cbee80feb625844ccdee7eb8aaa34e63fb01c6c84f8efab30926afa448">NPC_JAINA</a></div><div class="ttdeci">@ NPC_JAINA</div><div class="ttdef"><b>Definition:</b> zone_undercity.cpp:406</div></div>
-<div class="ttc" id="aa02867_html_abc1817310402e8975ffa012bf11a8506abb2c764d972352baa23c884a753e0f1f"><div class="ttname"><a href="../../d6/d92/a02867.html#abc1817310402e8975ffa012bf11a8506abb2c764d972352baa23c884a753e0f1f">NPC_THRALL</a></div><div class="ttdeci">@ NPC_THRALL</div><div class="ttdef"><b>Definition:</b> zone_undercity.cpp:435</div></div>
-<div class="ttc" id="aa03575_html_a9e8dc23238e4b54d4a243b454a29c0e1a2588e66b425f4f4789b11722b7214efe"><div class="ttname"><a href="../../d3/dbd/a03575.html#a9e8dc23238e4b54d4a243b454a29c0e1a2588e66b425f4f4789b11722b7214efe">NPC_WINTERCHILL</a></div><div class="ttdeci">@ NPC_WINTERCHILL</div><div class="ttdef"><b>Definition:</b> hyjal.h:107</div></div>
-<div class="ttc" id="aa03575_html_a9e8dc23238e4b54d4a243b454a29c0e1a34823ad17f9ba80a51c355f95555290b"><div class="ttname"><a href="../../d3/dbd/a03575.html#a9e8dc23238e4b54d4a243b454a29c0e1a34823ad17f9ba80a51c355f95555290b">NPC_KAZROGAL</a></div><div class="ttdeci">@ NPC_KAZROGAL</div><div class="ttdef"><b>Definition:</b> hyjal.h:109</div></div>
-<div class="ttc" id="aa03575_html_a9e8dc23238e4b54d4a243b454a29c0e1a5e3f8b59f3af576cef1bd46a74f68348"><div class="ttname"><a href="../../d3/dbd/a03575.html#a9e8dc23238e4b54d4a243b454a29c0e1a5e3f8b59f3af576cef1bd46a74f68348">NPC_TYRANDE</a></div><div class="ttdeci">@ NPC_TYRANDE</div><div class="ttdef"><b>Definition:</b> hyjal.h:96</div></div>
-<div class="ttc" id="aa03575_html_a9e8dc23238e4b54d4a243b454a29c0e1ad9e4abbe68b2c78fe5c5fc7b043d7532"><div class="ttname"><a href="../../d3/dbd/a03575.html#a9e8dc23238e4b54d4a243b454a29c0e1ad9e4abbe68b2c78fe5c5fc7b043d7532">NPC_ARCHIMONDE</a></div><div class="ttdeci">@ NPC_ARCHIMONDE</div><div class="ttdef"><b>Definition:</b> hyjal.h:111</div></div>
-<div class="ttc" id="aa03575_html_a9e8dc23238e4b54d4a243b454a29c0e1addcb97e624c9e529f2b4d2cd4f50edac"><div class="ttname"><a href="../../d3/dbd/a03575.html#a9e8dc23238e4b54d4a243b454a29c0e1addcb97e624c9e529f2b4d2cd4f50edac">NPC_ANETHERON</a></div><div class="ttdeci">@ NPC_ANETHERON</div><div class="ttdef"><b>Definition:</b> hyjal.h:108</div></div>
-<div class="ttc" id="aa03575_html_a9e8dc23238e4b54d4a243b454a29c0e1ae8b198a3b451b37037a1188099cf059d"><div class="ttname"><a href="../../d3/dbd/a03575.html#a9e8dc23238e4b54d4a243b454a29c0e1ae8b198a3b451b37037a1188099cf059d">NPC_AZGALOR</a></div><div class="ttdeci">@ NPC_AZGALOR</div><div class="ttdef"><b>Definition:</b> hyjal.h:110</div></div>
-<div class="ttc" id="aa03575_html_afb6eb4f28419b652027fad41104a6d22a8594e5927441cca5f16396b5b0b7a0ac"><div class="ttname"><a href="../../d3/dbd/a03575.html#afb6eb4f28419b652027fad41104a6d22a8594e5927441cca5f16396b5b0b7a0ac">DATA_JAINA</a></div><div class="ttdeci">@ DATA_JAINA</div><div class="ttdef"><b>Definition:</b> hyjal.h:40</div></div>
-<div class="ttc" id="aa03575_html_afb6eb4f28419b652027fad41104a6d22a9c0f8b00a8caed9032b2171eebba98e8"><div class="ttname"><a href="../../d3/dbd/a03575.html#afb6eb4f28419b652027fad41104a6d22a9c0f8b00a8caed9032b2171eebba98e8">DATA_THRALL</a></div><div class="ttdeci">@ DATA_THRALL</div><div class="ttdef"><b>Definition:</b> hyjal.h:41</div></div>
-<div class="ttc" id="aa03575_html_afb6eb4f28419b652027fad41104a6d22aab103d5c0a9dc6f49f6d6268c9a022a5"><div class="ttname"><a href="../../d3/dbd/a03575.html#afb6eb4f28419b652027fad41104a6d22aab103d5c0a9dc6f49f6d6268c9a022a5">DATA_KAZROGAL</a></div><div class="ttdeci">@ DATA_KAZROGAL</div><div class="ttdef"><b>Definition:</b> hyjal.h:33</div></div>
-<div class="ttc" id="aa03575_html_afb6eb4f28419b652027fad41104a6d22ac00c84976d87db5c2f2d2e8ab600b58f"><div class="ttname"><a href="../../d3/dbd/a03575.html#afb6eb4f28419b652027fad41104a6d22ac00c84976d87db5c2f2d2e8ab600b58f">DATA_TYRANDE</a></div><div class="ttdeci">@ DATA_TYRANDE</div><div class="ttdef"><b>Definition:</b> hyjal.h:42</div></div>
-<div class="ttc" id="aa03575_html_afb6eb4f28419b652027fad41104a6d22ae0e98b64ea2b8d4165853c30b5857522"><div class="ttname"><a href="../../d3/dbd/a03575.html#afb6eb4f28419b652027fad41104a6d22ae0e98b64ea2b8d4165853c30b5857522">DATA_AZGALOR</a></div><div class="ttdeci">@ DATA_AZGALOR</div><div class="ttdef"><b>Definition:</b> hyjal.h:34</div></div>
-<div class="ttc" id="aa03575_html_afb6eb4f28419b652027fad41104a6d22af2461efd25d69bfd771e6f59f97043a8"><div class="ttname"><a href="../../d3/dbd/a03575.html#afb6eb4f28419b652027fad41104a6d22af2461efd25d69bfd771e6f59f97043a8">DATA_WINTERCHILL</a></div><div class="ttdeci">@ DATA_WINTERCHILL</div><div class="ttdef"><b>Definition:</b> hyjal.h:31</div></div>
-<div class="ttc" id="aa03575_html_afb6eb4f28419b652027fad41104a6d22af3b31a43f633b60dbaefd99ddc1772c1"><div class="ttname"><a href="../../d3/dbd/a03575.html#afb6eb4f28419b652027fad41104a6d22af3b31a43f633b60dbaefd99ddc1772c1">DATA_ANETHERON</a></div><div class="ttdeci">@ DATA_ANETHERON</div><div class="ttdef"><b>Definition:</b> hyjal.h:32</div></div>
-<div class="ttc" id="aa03575_html_afb6eb4f28419b652027fad41104a6d22af61041f0a41aa5b8372838917b127ed5"><div class="ttname"><a href="../../d3/dbd/a03575.html#afb6eb4f28419b652027fad41104a6d22af61041f0a41aa5b8372838917b127ed5">DATA_ARCHIMONDE</a></div><div class="ttdeci">@ DATA_ARCHIMONDE</div><div class="ttdef"><b>Definition:</b> hyjal.h:35</div></div>
-</div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00085">instance_hyjal::instance_mount_hyjal_InstanceMapScript::instance_mount_hyjal_InstanceMapScript()</a>.</p>
-
-</div>
-</div>
-<a id="a69c4a0ca4694d5ed1d42f0373dd5d80c" name="a69c4a0ca4694d5ed1d42f0373dd5d80c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a69c4a0ca4694d5ed1d42f0373dd5d80c">&#9670;&#160;</a></span>doorData</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d1/ddd/a09595.html">DoorData</a> const doorData[]</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<b>Initial value:</b><div class="fragment"><div class="line">=</div>
-<div class="line">{</div>
-<div class="line">    { <a class="code hl_enumvalue" href="../../d3/dbd/a03575.html#aa7f1863c00e2eb24065eb303b9eca35ea4f87685d6c39a2004e7d8da00830fb60">GO_HORDE_ENCAMPMENT_PORTAL</a>,  <a class="code hl_enumvalue" href="../../d3/dbd/a03575.html#afb6eb4f28419b652027fad41104a6d22af3b31a43f633b60dbaefd99ddc1772c1">DATA_ANETHERON</a>,  <a class="code hl_enumvalue" href="../../d6/dfc/a01814.html#ac3549b9e861c142e11e5ad86b8b6947eabf8a73ae3dd3b7fd667a2c7f58414905">DOOR_TYPE_PASSAGE</a> },</div>
-<div class="line">    { <a class="code hl_enumvalue" href="../../d3/dbd/a03575.html#aa7f1863c00e2eb24065eb303b9eca35ea51cd33fcedb305b16dbd2c8b9fddff02">GO_NIGHT_ELF_VILLAGE_PORTAL</a>, <a class="code hl_enumvalue" href="../../d3/dbd/a03575.html#afb6eb4f28419b652027fad41104a6d22ae0e98b64ea2b8d4165853c30b5857522">DATA_AZGALOR</a>,    <a class="code hl_enumvalue" href="../../d6/dfc/a01814.html#ac3549b9e861c142e11e5ad86b8b6947eabf8a73ae3dd3b7fd667a2c7f58414905">DOOR_TYPE_PASSAGE</a> },</div>
-<div class="line">    { 0,                           0,               <a class="code hl_enumvalue" href="../../d6/dfc/a01814.html#ac3549b9e861c142e11e5ad86b8b6947eabf8a73ae3dd3b7fd667a2c7f58414905">DOOR_TYPE_PASSAGE</a> }</div>
-<div class="line">}</div>
-<div class="ttc" id="aa01814_html_ac3549b9e861c142e11e5ad86b8b6947eabf8a73ae3dd3b7fd667a2c7f58414905"><div class="ttname"><a href="../../d6/dfc/a01814.html#ac3549b9e861c142e11e5ad86b8b6947eabf8a73ae3dd3b7fd667a2c7f58414905">DOOR_TYPE_PASSAGE</a></div><div class="ttdeci">@ DOOR_TYPE_PASSAGE</div><div class="ttdef"><b>Definition:</b> InstanceScript.h:69</div></div>
-<div class="ttc" id="aa03575_html_aa7f1863c00e2eb24065eb303b9eca35ea4f87685d6c39a2004e7d8da00830fb60"><div class="ttname"><a href="../../d3/dbd/a03575.html#aa7f1863c00e2eb24065eb303b9eca35ea4f87685d6c39a2004e7d8da00830fb60">GO_HORDE_ENCAMPMENT_PORTAL</a></div><div class="ttdeci">@ GO_HORDE_ENCAMPMENT_PORTAL</div><div class="ttdef"><b>Definition:</b> hyjal.h:121</div></div>
-<div class="ttc" id="aa03575_html_aa7f1863c00e2eb24065eb303b9eca35ea51cd33fcedb305b16dbd2c8b9fddff02"><div class="ttname"><a href="../../d3/dbd/a03575.html#aa7f1863c00e2eb24065eb303b9eca35ea51cd33fcedb305b16dbd2c8b9fddff02">GO_NIGHT_ELF_VILLAGE_PORTAL</a></div><div class="ttdeci">@ GO_NIGHT_ELF_VILLAGE_PORTAL</div><div class="ttdef"><b>Definition:</b> hyjal.h:122</div></div>
-</div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00085">instance_hyjal::instance_mount_hyjal_InstanceMapScript::instance_mount_hyjal_InstanceMapScript()</a>.</p>
-
-</div>
-</div>
-<a id="ade7b4d2fdf8cd15fa4985554885eb881" name="ade7b4d2fdf8cd15fa4985554885eb881"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ade7b4d2fdf8cd15fa4985554885eb881">&#9670;&#160;</a></span>hyjalNightElfWaveTimers</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d0/dc5/a04415.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a> hyjalNightElfWaveTimers[1][<a class="el" href="../../d3/dbd/a03575.html#abd6cce1437900ab106eccd088558498eadcc87d7ad11c922e4c0dbae31b6b00db">MAX_WAVES_NIGHT_ELF</a>]</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<b>Initial value:</b><div class="fragment"><div class="line">{</div>
-<div class="line">    { 0ms }</div>
-<div class="line">}</div>
-</div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00267">instance_hyjal::instance_mount_hyjal_InstanceMapScript::SetData()</a>.</p>
-
-</div>
-</div>
-<a id="a254787ab3a62d90e906ded9ef63aa229" name="a254787ab3a62d90e906ded9ef63aa229"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a254787ab3a62d90e906ded9ef63aa229">&#9670;&#160;</a></span>hyjalRetreatTimers</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d0/dc5/a04415.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a> hyjalRetreatTimers[2][<a class="el" href="../../d3/dbd/a03575.html#abd6cce1437900ab106eccd088558498ea1084aef6ff8543a3b9992e129436544f">MAX_WAVES_RETREAT</a>]</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<b>Initial value:</b><div class="fragment"><div class="line">{</div>
-<div class="line">    { 10000ms, 6000ms , 0ms },   </div>
-<div class="line">    { 10000ms, 40000ms, 0ms }    </div>
-<div class="line">}</div>
-</div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00267">instance_hyjal::instance_mount_hyjal_InstanceMapScript::SetData()</a>.</p>
-
-</div>
-</div>
-<a id="aaad50890c4534c5b5c848a9b85f3d8fe" name="aaad50890c4534c5b5c848a9b85f3d8fe"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aaad50890c4534c5b5c848a9b85f3d8fe">&#9670;&#160;</a></span>hyjalWaveTimers</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d0/dc5/a04415.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a> hyjalWaveTimers[4][<a class="el" href="../../d3/dbd/a03575.html#abd6cce1437900ab106eccd088558498eab56f8400a89abc853f99e7737219502c">MAX_WAVES_STANDARD</a>]</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<b>Initial value:</b><div class="fragment"><div class="line">{</div>
-<div class="line">    { 130000ms, 130000ms, 130000ms, 130000ms, 130000ms, 130000ms, 130000ms, 190000ms, 0ms },    </div>
-<div class="line">    { 130000ms, 130000ms, 130000ms, 130000ms, 130000ms, 130000ms, 130000ms, 190000ms, 0ms },    </div>
-<div class="line">    { 130000ms, 155000ms, 130000ms, 155000ms, 130000ms, 130000ms, 155000ms, 225000ms, 0ms },    </div>
-<div class="line">    { 130000ms, 190000ms, 190000ms, 190000ms, 130000ms, 155000ms, 190000ms, 225000ms, 0ms }     </div>
-<div class="line">}</div>
-</div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00267">instance_hyjal::instance_mount_hyjal_InstanceMapScript::SetData()</a>.</p>
 
 </div>
 </div>
@@ -306,8 +284,8 @@ Variables</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_5ee14a0f6ab8ad29bd27b6821baacc69.html">Kalimdor</a></li><li class="navelem"><a class="el" href="../../dir_5833980719a36b6f6a864b11e72f0bc7.html">CavernsOfTime</a></li><li class="navelem"><a class="el" href="../../dir_e068b882fd581e5818b3e126213c1b22.html">BattleForMountHyjal</a></li><li class="navelem"><a class="el" href="../../d8/db0/a03572.html">instance_hyjal.cpp</a></li>
-    <li class="footer">Generated on Mon Jun 9 2025 20:46:26 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_aa56e8ce1c3e0d32a59f1a16b86dbc72.html">Outland</a></li><li class="navelem"><a class="el" href="../../dir_c7e05c53196747da9983be071547f846.html">Auchindoun</a></li><li class="navelem"><a class="el" href="../../dir_e56388218ded62e9fe679e8749c12bd9.html">ManaTombs</a></li><li class="navelem"><a class="el" href="../../d8/db0/a03572.html">mana_tombs.h</a></li>
+    <li class="footer">Generated on Mon Jun 16 2025 20:47:55 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

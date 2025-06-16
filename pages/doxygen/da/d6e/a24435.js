@@ -1,6 +1,6 @@
 var a24435 =
 [
-    [ "FilterTargets", "da/d6e/a24435.html#a991a944f31680e4d53cc2a46d8c8b8bf", null ],
-    [ "PrepareSpellScript", "da/d6e/a24435.html#aea49df3f6b93223ed72c3a9875232b74", null ],
-    [ "Register", "da/d6e/a24435.html#a8f0e0b6363303def780d35415c88b4d6", null ]
+    [ "HandlePeriodic", "da/d6e/a24435.html#a9d94b55656848d5b9f943b9b3bbfd889", null ],
+    [ "PrepareAuraScript", "da/d6e/a24435.html#a6b76add02d3a1eeddd845c4f97d0632a", null ],
+    [ "Register", "da/d6e/a24435.html#aa8c6fc66e1483370681ae6f7fdf5b676", null ]
 ];

@@ -1,25 +1,30 @@
 var a04118 =
 [
-    [ "achievement_resilient_victory", "d2/d99/a26947.html", "d2/d99/a26947" ],
-    [ "achievement_bg_control_all_nodes", "d3/dec/a26951.html", "d3/dec/a26951" ],
-    [ "achievement_save_the_day", "d8/d8f/a26955.html", "d8/d8f/a26955" ],
-    [ "achievement_bg_ic_resource_glut", "d0/d9e/a26959.html", "d0/d9e/a26959" ],
-    [ "achievement_bg_ic_glaive_grave", "d2/dd3/a26963.html", "d2/dd3/a26963" ],
-    [ "achievement_bg_ic_mowed_down", "d9/d6e/a26967.html", "d9/d6e/a26967" ],
-    [ "achievement_bg_sa_artillery", "d5/df0/a26971.html", "d5/df0/a26971" ],
-    [ "achievement_arena_by_type", "d8/d11/a26975.html", "d8/d11/a26975" ],
-    [ "achievement_sickly_gazelle", "dd/d89/a26979.html", "dd/d89/a26979" ],
-    [ "achievement_everything_counts", "d7/dca/a26983.html", "d7/dca/a26983" ],
-    [ "achievement_bg_av_perfection", "d7/d2c/a26987.html", "d7/d2c/a26987" ],
-    [ "achievement_sa_defense_of_the_ancients", "dc/d10/a26991.html", "dc/d10/a26991" ],
-    [ "achievement_tilted", "d5/d56/a26995.html", "d5/d56/a26995" ],
-    [ "achievement_not_even_a_scratch", "d9/d6f/a26999.html", "d9/d6f/a26999" ],
-    [ "achievement_killed_exp_or_honor_target", "d4/dc6/a27003.html", "d4/dc6/a27003" ],
-    [ "achievement_flirt_with_disaster_perf_check", "d9/d0b/a27007.html", "d9/d0b/a27007" ],
-    [ "FlirtWithDisaster", "d4/ddb/a04118.html#a59d6aac4e950d8e6a0265a26e1898c13", [
-      [ "AURA_PERFUME_FOREVER", "d4/ddb/a04118.html#a59d6aac4e950d8e6a0265a26e1898c13a51aa967912af69dc7510017e558bbb85", null ],
-      [ "AURA_PERFUME_ENCHANTRESS", "d4/ddb/a04118.html#a59d6aac4e950d8e6a0265a26e1898c13a6f98457c5232039183c4be4588a067c6", null ],
-      [ "AURA_PERFUME_VICTORY", "d4/ddb/a04118.html#a59d6aac4e950d8e6a0265a26e1898c13afb194a6e19cf65f763d7975e5d842c9c", null ]
+    [ "AUTH_LOGON_CHALLENGE_C", "db/de6/a05607.html", "db/de6/a05607" ],
+    [ "AUTH_LOGON_PROOF_C", "d6/df6/a05611.html", "d6/df6/a05611" ],
+    [ "AUTH_LOGON_PROOF_S", "da/d5c/a05615.html", "da/d5c/a05615" ],
+    [ "AUTH_LOGON_PROOF_S_OLD", "de/dba/a05619.html", "de/dba/a05619" ],
+    [ "AUTH_RECONNECT_PROOF_C", "d3/d4e/a05623.html", "d3/d4e/a05623" ],
+    [ "AUTH_LOGON_CHALLENGE_INITIAL_SIZE", "d4/ddb/a04118.html#a38c5f396c839f5f22ec0ec7a5b2a5019", null ],
+    [ "MAX_ACCEPTED_CHALLENGE_SIZE", "d4/ddb/a04118.html#a2507a44fb848704cf4f3624207c18ebe", null ],
+    [ "REALM_LIST_PACKET_SIZE", "d4/ddb/a04118.html#af848fed368789960f3d9e059f8002e11", null ],
+    [ "sAuthLogonChallenge_C", "d4/ddb/a04118.html#af2b75a713ab063d15c0f303555dab7c2", null ],
+    [ "sAuthLogonProof_C", "d4/ddb/a04118.html#ab50c6b56b4c56513ab11e4bee50a0116", null ],
+    [ "sAuthLogonProof_S", "d4/ddb/a04118.html#a1241a754e900fac64f49cadc4e806321", null ],
+    [ "sAuthLogonProof_S_Old", "d4/ddb/a04118.html#ad153c4ef5e20c186dfe08ed557a4100c", null ],
+    [ "sAuthReconnectProof_C", "d4/ddb/a04118.html#aef6ea8864e443cf0d192820bb670a8d8", null ],
+    [ "eAuthCmd", "d4/ddb/a04118.html#a345cff35e97e1d164879db077b96607b", [
+      [ "AUTH_LOGON_CHALLENGE", "d4/ddb/a04118.html#a345cff35e97e1d164879db077b96607ba62fe494e6ccbaae4d8869486af12ea48", null ],
+      [ "AUTH_LOGON_PROOF", "d4/ddb/a04118.html#a345cff35e97e1d164879db077b96607baec69892078638b4c3a04d6a717e3cb2e", null ],
+      [ "AUTH_RECONNECT_CHALLENGE", "d4/ddb/a04118.html#a345cff35e97e1d164879db077b96607bab5ca452edfc6d290784cefa1132ebfa4", null ],
+      [ "AUTH_RECONNECT_PROOF", "d4/ddb/a04118.html#a345cff35e97e1d164879db077b96607ba968b2c14a04df9db06c0fa6ca2c7c9d3", null ],
+      [ "REALM_LIST", "d4/ddb/a04118.html#a345cff35e97e1d164879db077b96607ba7de0619c3448ca95de937837fd5f27dc", null ],
+      [ "XFER_INITIATE", "d4/ddb/a04118.html#a345cff35e97e1d164879db077b96607ba0152ea9553a4a08a9568de879167adb5", null ],
+      [ "XFER_DATA", "d4/ddb/a04118.html#a345cff35e97e1d164879db077b96607bac4bf4cd27a0fa1424639c5d11cac02f7", null ],
+      [ "XFER_ACCEPT", "d4/ddb/a04118.html#a345cff35e97e1d164879db077b96607ba0faa0d818c7cac462c3b31df8adcbf01", null ],
+      [ "XFER_RESUME", "d4/ddb/a04118.html#a345cff35e97e1d164879db077b96607bae1d058bb15829274dff5133c8c041aa5", null ],
+      [ "XFER_CANCEL", "d4/ddb/a04118.html#a345cff35e97e1d164879db077b96607ba178f53b59478d4e635be98a41873c5e1", null ]
     ] ],
-    [ "AddSC_achievement_scripts", "d4/ddb/a04118.html#a5091d6f933800f3313078304ad5c38ca", null ]
+    [ "Handlers", "d4/ddb/a04118.html#a887a26fd84a0bf97f1016de6aeba4d4e", null ],
+    [ "VersionChallenge", "d4/ddb/a04118.html#a242dcc388ff0edb5d5eca57953e61317", null ]
 ];

@@ -1,7 +1,6 @@
 var a24751 =
 [
-    [ "FilterTargets", "d9/da1/a24751.html#a9abf4baaba572636dba3980e5ae777c5", null ],
-    [ "Load", "d9/da1/a24751.html#a812e4e461c0ebed6f7c4cc36e88a3367", null ],
-    [ "PrepareSpellScript", "d9/da1/a24751.html#a4e98fbf669c030263ed2e5759a5bd6e8", null ],
-    [ "Register", "d9/da1/a24751.html#a2d72f5771d6563260a6e81122e4a2be5", null ]
+    [ "HandleAfterCast", "d9/da1/a24751.html#a39572ebbeee6fe39bc4454088c622bcd", null ],
+    [ "PrepareSpellScript", "d9/da1/a24751.html#a602d7c920aa73a9c3c69222854093036", null ],
+    [ "Register", "d9/da1/a24751.html#addbbf508a0e1074c23ebd325dd62bbe9", null ]
 ];

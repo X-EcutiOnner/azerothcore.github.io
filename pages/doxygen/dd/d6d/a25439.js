@@ -1,5 +1,5 @@
 var a25439 =
 [
-    [ "PrepareSpellScript", "dd/d6d/a25439.html#aadb11335a487f83639260fc4246ba26f", null ],
-    [ "Register", "dd/d6d/a25439.html#a1b83195bdc148434f10a6c1ba3c0af0d", null ]
+    [ "PrepareSpellScript", "dd/d6d/a25439.html#acb39fd85035670fb98dcea66c29b2ff7", null ],
+    [ "Register", "dd/d6d/a25439.html#a7fe416070962ba582d59ddff70c13590", null ]
 ];

@@ -1,57 +1,49 @@
 var a04073 =
 [
-    [ "OPvPCapturePointEP_EWT", "dd/da8/a22435.html", "dd/da8/a22435" ],
-    [ "OPvPCapturePointEP_NPT", "d2/d26/a22439.html", "d2/d26/a22439" ],
-    [ "OPvPCapturePointEP_CGT", "db/d87/a22443.html", "db/d87/a22443" ],
-    [ "OPvPCapturePointEP_PWT", "d8/dc1/a22447.html", "d8/dc1/a22447" ],
-    [ "OutdoorPvPEP", "df/df8/a22451.html", "df/df8/a22451" ],
-    [ "EP_GoSummons", "d6/ddb/a04073.html#a0b5226d66242870e9f2bd6067ac871da", [
-      [ "EP_NPT_BUFF", "d6/ddb/a04073.html#a0b5226d66242870e9f2bd6067ac871daabd6b57d3cd665b36305c0aac5f5721d0", null ],
-      [ "EP_NPT_FLAGS", "d6/ddb/a04073.html#a0b5226d66242870e9f2bd6067ac871daa161f6913680b58a1eabe5ebbc4893cd9", null ],
-      [ "EP_EWT_FLAGS", "d6/ddb/a04073.html#a0b5226d66242870e9f2bd6067ac871daa4c73d6edbab9874b66f52c45839132a0", null ],
-      [ "EP_CGT_FLAGS", "d6/ddb/a04073.html#a0b5226d66242870e9f2bd6067ac871daa59ab547c79765b3a7d9bd772721ecdcc", null ],
-      [ "EP_PWT_FLAGS", "d6/ddb/a04073.html#a0b5226d66242870e9f2bd6067ac871daaccecd1b4caaa55e2c67bfe71db5c3e3d", null ]
+    [ "zm_beacon", "d7/db8/a22519.html", "d7/db8/a22519" ],
+    [ "OPvPCapturePointZM_Beacon", "db/d93/a22523.html", "db/d93/a22523" ],
+    [ "OPvPCapturePointZM_Graveyard", "de/de2/a22527.html", "de/de2/a22527" ],
+    [ "OutdoorPvPZM", "d1/d66/a22531.html", "d1/d66/a22531" ],
+    [ "OutdoorPvPZMSpells", "d6/ddb/a04073.html#ac31cd7a23fe2f82e25ababd3a8b700a1", [
+      [ "ZM_CAPTURE_BUFF", "d6/ddb/a04073.html#ac31cd7a23fe2f82e25ababd3a8b700a1a5039b0bd2a7689f857a4ecc871d5b16d", null ],
+      [ "ZM_BATTLE_STANDARD_A", "d6/ddb/a04073.html#ac31cd7a23fe2f82e25ababd3a8b700a1a2b2887aade90aad310f6f859f8482aa5", null ],
+      [ "ZM_BATTLE_STANDARD_H", "d6/ddb/a04073.html#ac31cd7a23fe2f82e25ababd3a8b700a1a0513ef6309adc490c793ee1dc5bc8614", null ],
+      [ "ZM_AlliancePlayerKillReward", "d6/ddb/a04073.html#ac31cd7a23fe2f82e25ababd3a8b700a1a53fad383bb7058d8c1a272bd6d9523a3", null ],
+      [ "ZM_HordePlayerKillReward", "d6/ddb/a04073.html#ac31cd7a23fe2f82e25ababd3a8b700a1a6f9de137a24ee5d457ee7e2c093b398b", null ]
     ] ],
-    [ "EP_Summons", "d6/ddb/a04073.html#ad9bf5a52eb45ee872984e5b5001e3847", [
-      [ "EP_EWT_COMMANDER", "d6/ddb/a04073.html#ad9bf5a52eb45ee872984e5b5001e3847a02e7088d225f255f315ccd7c0c3bfa9c", null ],
-      [ "EP_EWT_SOLDIER1", "d6/ddb/a04073.html#ad9bf5a52eb45ee872984e5b5001e3847ac57e6293c6754a601a94375add313fd3", null ],
-      [ "EP_EWT_SOLDIER2", "d6/ddb/a04073.html#ad9bf5a52eb45ee872984e5b5001e3847a692d9c882b6949c9954095e18bcbaaf7", null ],
-      [ "EP_EWT_SOLDIER3", "d6/ddb/a04073.html#ad9bf5a52eb45ee872984e5b5001e3847ac9c561614a0184c10a0f92efe3e49ddc", null ],
-      [ "EP_EWT_SOLDIER4", "d6/ddb/a04073.html#ad9bf5a52eb45ee872984e5b5001e3847a6f60ef02c8ecf993fde2ce5cb1dc281d", null ],
-      [ "EP_PWT_FLIGHTMASTER", "d6/ddb/a04073.html#ad9bf5a52eb45ee872984e5b5001e3847a1a3531875652cba7423a81d95710bc89", null ]
+    [ "ZM_BeaconType", "d6/ddb/a04073.html#a8493feec67db9c938c31465f24f60fe1", [
+      [ "ZM_BEACON_EAST", "d6/ddb/a04073.html#a8493feec67db9c938c31465f24f60fe1a034b065f7219f5b4a6d983ed694e7a80", null ],
+      [ "ZM_BEACON_WEST", "d6/ddb/a04073.html#a8493feec67db9c938c31465f24f60fe1a36b102e6d45f41b4db14e889ffac46e2", null ],
+      [ "ZM_NUM_BEACONS", "d6/ddb/a04073.html#a8493feec67db9c938c31465f24f60fe1a9e566b7b7f64cae5ea6a37a289f16ce3", null ]
     ] ],
-    [ "EP_Towers", "d6/ddb/a04073.html#acb017cec20a6986c80544c74f4755313", [
-      [ "EP_EWT", "d6/ddb/a04073.html#acb017cec20a6986c80544c74f4755313a886963cebfd5423ed826003d66282535", null ],
-      [ "EP_NPT", "d6/ddb/a04073.html#acb017cec20a6986c80544c74f4755313a325af9e8b22e4a01e1c6e1c2e98de869", null ],
-      [ "EP_PWT", "d6/ddb/a04073.html#acb017cec20a6986c80544c74f4755313a03b88e9657ca925556db1d3e7b6d253e", null ],
-      [ "EP_CGT", "d6/ddb/a04073.html#acb017cec20a6986c80544c74f4755313a7cb411796051126f28519def8023bdda", null ],
-      [ "EP_TOWER_NUM", "d6/ddb/a04073.html#acb017cec20a6986c80544c74f4755313a386ba14a38a78fe9be7eae87e7d30c73", null ]
+    [ "Zm_GraveyardState", "d6/ddb/a04073.html#ad13518df9718347908929a97748d3636", [
+      [ "ZM_GRAVEYARD_N", "d6/ddb/a04073.html#ad13518df9718347908929a97748d3636a87f32a40b9ae4243e7977085b4dab7c0", null ],
+      [ "ZM_GRAVEYARD_A", "d6/ddb/a04073.html#ad13518df9718347908929a97748d3636aef470c9322dded10641afcc6a153e329", null ],
+      [ "ZM_GRAVEYARD_H", "d6/ddb/a04073.html#ad13518df9718347908929a97748d3636a115a6845b9e0fbabbef2f3e28599f065", null ]
     ] ],
-    [ "EP_TowerStates", "d6/ddb/a04073.html#a803bc1884225e56dd663001b104aeb2c", [
-      [ "EP_TS_N", "d6/ddb/a04073.html#a803bc1884225e56dd663001b104aeb2ca114ce72e85bdab2aa278d07a3ed6f86c", null ],
-      [ "EP_TS_N_A", "d6/ddb/a04073.html#a803bc1884225e56dd663001b104aeb2ca374de4c147a53afd1e446644329ca589", null ],
-      [ "EP_TS_N_H", "d6/ddb/a04073.html#a803bc1884225e56dd663001b104aeb2ca3b9fcbaa216c28e21276e608aa77aee7", null ],
-      [ "EP_TS_A_P", "d6/ddb/a04073.html#a803bc1884225e56dd663001b104aeb2caff0b067d2f9e15a88447d855c711afcf", null ],
-      [ "EP_TS_H_P", "d6/ddb/a04073.html#a803bc1884225e56dd663001b104aeb2ca6f356a7dbe409b3f8fa98e0e30f17866", null ],
-      [ "EP_TS_A", "d6/ddb/a04073.html#a803bc1884225e56dd663001b104aeb2ca19f979dcdacbc0d3bb1c4babb4fcbdf0", null ],
-      [ "EP_TS_H", "d6/ddb/a04073.html#a803bc1884225e56dd663001b104aeb2cab9edf90a3d5c3e17ecb71fe92672e57b", null ]
+    [ "ZM_TowerStateMask", "d6/ddb/a04073.html#a5d44e96b24b1f1215d1b3788b212f11c", [
+      [ "ZM_TOWERSTATE_N", "d6/ddb/a04073.html#a5d44e96b24b1f1215d1b3788b212f11ca03d2918a6a9915b33da0f120feb7d5da", null ],
+      [ "ZM_TOWERSTATE_A", "d6/ddb/a04073.html#a5d44e96b24b1f1215d1b3788b212f11cab51c5d640c62f5336ec7c5a1028f73d0", null ],
+      [ "ZM_TOWERSTATE_H", "d6/ddb/a04073.html#a5d44e96b24b1f1215d1b3788b212f11ca206f55050d03bbc30f690c7e669e1831", null ]
     ] ],
-    [ "EP_AllianceBuffs", "d6/ddb/a04073.html#a39190e48b2170e2d0d0628b06d6da8f1", null ],
-    [ "EP_CGT_CM", "d6/ddb/a04073.html#a4eb66c50d410c58b22546406eda37e5f", null ],
-    [ "EP_EWT_CM", "d6/ddb/a04073.html#a9bf83dc59a4ca7a56297e572ee782e9e", null ],
-    [ "EP_EWT_NUM_CREATURES", "d6/ddb/a04073.html#aa62021ba8da0171188d5327cade2d79c", null ],
-    [ "EP_EWT_Summons_A", "d6/ddb/a04073.html#a13c9b3f39108790585875365648e6a51", null ],
-    [ "EP_EWT_Summons_H", "d6/ddb/a04073.html#adae054ab5e44ffc0c7a528c417aff670", null ],
-    [ "EP_GraveyardId", "d6/ddb/a04073.html#a1751b41516eaecd46b28e8a1f80c6f07", null ],
-    [ "EP_GraveyardZone", "d6/ddb/a04073.html#a3b7f1cd13477df42bd29e674cb329ad4", null ],
-    [ "EP_HordeBuffs", "d6/ddb/a04073.html#a870abed831404a02d171e9cf1bd741cb", null ],
-    [ "EP_NPT_CM", "d6/ddb/a04073.html#aad6c6d1e803fa77420b7d8bc5450975a", null ],
-    [ "EP_NPT_LordaeronShrine", "d6/ddb/a04073.html#ab95dc19577389e3d84821796921e3cc1", null ],
-    [ "EP_NUM_CREATURES", "d6/ddb/a04073.html#a60340c7ab3a1dd51078336de7759f588", null ],
-    [ "EP_PWT_CM", "d6/ddb/a04073.html#a25cbe7281f91d6a29b183f97340385ef", null ],
-    [ "EP_PWT_FlightMaster", "d6/ddb/a04073.html#ab9af729b1e6ed3b993d963037395a531", null ],
-    [ "EPBuffZones", "d6/ddb/a04073.html#a2acf7be696695ceaa968a2eac356e562", null ],
-    [ "EPBuffZonesNum", "d6/ddb/a04073.html#a8e411865d0acd6cd6c6f10172adf4ad4", null ],
-    [ "EPCapturePoints", "d6/ddb/a04073.html#a45924b22012276ef73ca0a50fa786e52", null ],
-    [ "EPTowerFlags", "d6/ddb/a04073.html#af18f636f66cc238611a1f2dd03b2ddcb", null ]
+    [ "ZMCreatureTypes", "d6/ddb/a04073.html#aa6fc4a297b329d62073dd503d4f647c5", [
+      [ "ZM_ALLIANCE_FIELD_SCOUT", "d6/ddb/a04073.html#aa6fc4a297b329d62073dd503d4f647c5ab0f9fb0eee307b47658f6742db0a4d82", null ],
+      [ "ZM_HORDE_FIELD_SCOUT", "d6/ddb/a04073.html#aa6fc4a297b329d62073dd503d4f647c5a51001197c09a749a8d042df6fc5d0d62", null ],
+      [ "ZM_CREATURE_NUM", "d6/ddb/a04073.html#aa6fc4a297b329d62073dd503d4f647c5a47e8909e9a6a41604775c672ec3587ae", null ]
+    ] ],
+    [ "OutdoorPvPZMBuffZones", "d6/ddb/a04073.html#a42debbed89bc9a37f04d7da9f1ba5362", null ],
+    [ "OutdoorPvPZMBuffZonesNum", "d6/ddb/a04073.html#afd164ef928ed19895648e76207433805", null ],
+    [ "ZM_AllianceFieldScout", "d6/ddb/a04073.html#a308db265dfb26d8d04ea2b44077d3b42", null ],
+    [ "ZM_Banner_A", "d6/ddb/a04073.html#a986fade5573769277e5c9e99dc243d78", null ],
+    [ "ZM_Banner_H", "d6/ddb/a04073.html#a5eae372f5bc43c36af04c8833002ca79", null ],
+    [ "ZM_Banner_N", "d6/ddb/a04073.html#a9bf0e9dee2e0ae4731dd302373e18542", null ],
+    [ "ZM_GRAVEYARD_ID", "d6/ddb/a04073.html#adc060a8578a0685e98f94a0d51c3613b", null ],
+    [ "ZM_GRAVEYARD_ZONE", "d6/ddb/a04073.html#a32c62572b4ea0ef1930cffc3e9e2c6fe", null ],
+    [ "ZM_HordeFieldScout", "d6/ddb/a04073.html#aa18435dfdf68c3f5ac5218ce2e4909d0", null ],
+    [ "ZMBeaconCaptureA", "d6/ddb/a04073.html#aefc7683d5c310d6513a4bc64e0562f24", null ],
+    [ "ZMBeaconCaptureH", "d6/ddb/a04073.html#a3cf4b21d832f1993b7bbef74516f4690", null ],
+    [ "ZMBeaconInfo", "d6/ddb/a04073.html#af392c2c0a8da38f6782ab0ed0501a448", null ],
+    [ "ZMBeaconLoseA", "d6/ddb/a04073.html#ace5e051bf69a2b4be978b04c832c5592", null ],
+    [ "ZMBeaconLoseH", "d6/ddb/a04073.html#a32e1a277d31ee3f4a23f291ccb4798e6", null ],
+    [ "ZMCapturePoints", "d6/ddb/a04073.html#a397f5867c1a3f99cf044124a4a621324", null ]
 ];

@@ -1,5 +1,4 @@
 var a00752 =
 [
-    [ "GridTerrainLoader", "d5/d49/a09123.html", "d5/d49/a09123" ],
-    [ "GridTerrainUnloader", "d3/d88/a09127.html", "d3/d88/a09127" ]
+    [ "GetMinPlayersPerTeam", "dd/d5c/a00752.html#ab22bdb52b0357434faced9df19db9d81", null ]
 ];

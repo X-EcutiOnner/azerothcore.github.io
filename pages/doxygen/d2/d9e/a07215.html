@@ -180,7 +180,7 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  111</span>    std::vector&lt;ArenaTeam*&gt; sortedTeams;</div>
 <div class="line"><span class="lineno">  112</span>    sortedTeams.reserve(arenaTeams.size());</div>
 <div class="line"><span class="lineno">  113</span> </div>
-<div class="line"><span class="lineno">  114</span>    <span class="keyword">static</span> <span class="keyword">constexpr</span> <a class="code hl_typedef" href="../../da/d71/a04649.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> minRequiredGames = 30;</div>
+<div class="line"><span class="lineno">  114</span>    <span class="keyword">static</span> <span class="keyword">constexpr</span> <a class="code hl_typedef" href="../../d4/d61/a04406.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> minRequiredGames = 30;</div>
 <div class="line"><span class="lineno">  115</span> </div>
 <div class="line"><span class="lineno">  116</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; [<span class="keywordtype">id</span>, team] : arenaTeams)</div>
 <div class="line"><span class="lineno">  117</span>        <span class="keywordflow">if</span> (team-&gt;GetStats().SeasonGames &gt;= minRequiredGames)</div>
@@ -195,7 +195,7 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  126</span> </div>
 <div class="line"><span class="lineno">  127</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; reward : rewardGroups)</div>
 <div class="line"><span class="lineno">  128</span>    {</div>
-<div class="line"><span class="lineno">  129</span>        <span class="keywordflow">if</span> (reward.criteriaType == <a class="code hl_enumvalue" href="../../d9/d79/a01658.html#a983281e9aada2538d6bc53ae4dd4d266a39f434bc965a3f4fafe78ece7d3f6422">ARENA_SEASON_REWARD_CRITERIA_TYPE_PERCENT_VALUE</a>)</div>
+<div class="line"><span class="lineno">  129</span>        <span class="keywordflow">if</span> (reward.criteriaType == <a class="code hl_enumvalue" href="../../db/d7c/a00722.html#a983281e9aada2538d6bc53ae4dd4d266a39f434bc965a3f4fafe78ece7d3f6422">ARENA_SEASON_REWARD_CRITERIA_TYPE_PERCENT_VALUE</a>)</div>
 <div class="line"><span class="lineno">  130</span>            pctRewardGroup.push_back(reward);</div>
 <div class="line"><span class="lineno">  131</span>        <span class="keywordflow">else</span></div>
 <div class="line"><span class="lineno">  132</span>            absRewardGroup.push_back(reward);</div>
@@ -233,8 +233,8 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  164</span>        }</div>
 <div class="line"><span class="lineno">  165</span>    }</div>
 <div class="line"><span class="lineno">  166</span>}</div>
-<div class="ttc" id="aa01658_html_a983281e9aada2538d6bc53ae4dd4d266a39f434bc965a3f4fafe78ece7d3f6422"><div class="ttname"><a href="../../d9/d79/a01658.html#a983281e9aada2538d6bc53ae4dd4d266a39f434bc965a3f4fafe78ece7d3f6422">ARENA_SEASON_REWARD_CRITERIA_TYPE_PERCENT_VALUE</a></div><div class="ttdeci">@ ARENA_SEASON_REWARD_CRITERIA_TYPE_PERCENT_VALUE</div><div class="ttdef"><b>Definition:</b> ArenaSeasonMgr.h:40</div></div>
-<div class="ttc" id="aa04649_html_ad9c79638db63f1dfe2b085743b5cbf7b"><div class="ttname"><a href="../../da/d71/a04649.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a></div><div class="ttdeci">std::uint16_t uint16</div><div class="ttdef"><b>Definition:</b> Define.h:108</div></div>
+<div class="ttc" id="aa00722_html_a983281e9aada2538d6bc53ae4dd4d266a39f434bc965a3f4fafe78ece7d3f6422"><div class="ttname"><a href="../../db/d7c/a00722.html#a983281e9aada2538d6bc53ae4dd4d266a39f434bc965a3f4fafe78ece7d3f6422">ARENA_SEASON_REWARD_CRITERIA_TYPE_PERCENT_VALUE</a></div><div class="ttdeci">@ ARENA_SEASON_REWARD_CRITERIA_TYPE_PERCENT_VALUE</div><div class="ttdef"><b>Definition:</b> ArenaSeasonMgr.h:40</div></div>
+<div class="ttc" id="aa04406_html_ad9c79638db63f1dfe2b085743b5cbf7b"><div class="ttname"><a href="../../d4/d61/a04406.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a></div><div class="ttdeci">std::uint16_t uint16</div><div class="ttdef"><b>Definition:</b> Define.h:108</div></div>
 <div class="ttc" id="aa07207_html_a2beaf893f95e16c4d388ad048885848b"><div class="ttname"><a href="../../da/d80/a07207.html#a2beaf893f95e16c4d388ad048885848b">ArenaSeasonTeamRewarder::RewardTeamWithRewardGroup</a></div><div class="ttdeci">virtual void RewardTeamWithRewardGroup(ArenaTeam *arenaTeam, ArenaSeasonRewardGroup const &amp;rewardGroup)=0</div></div>
 <div class="ttc" id="aa07243_html"><div class="ttname"><a href="../../dc/d10/a07243.html">ArenaTeam</a></div><div class="ttdef"><b>Definition:</b> ArenaTeam.h:137</div></div>
 </div><!-- fragment -->
@@ -275,7 +275,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d2/d9e/a07215.html">ArenaSeasonRewardDistributor</a></li>
-    <li class="footer">Generated on Mon Jun 9 2025 20:47:00 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Jun 16 2025 20:48:09 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

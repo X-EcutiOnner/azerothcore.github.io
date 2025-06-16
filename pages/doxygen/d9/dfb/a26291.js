@@ -1,5 +1,5 @@
 var a26291 =
 [
-    [ "PrepareSpellScript", "d9/dfb/a26291.html#aa2d9d885e55c1685c2ce9cbc5b4d4279", null ],
-    [ "Register", "d9/dfb/a26291.html#a721430db1738b255f114483bdddef5e2", null ]
+    [ "PrepareSpellScript", "d9/dfb/a26291.html#aee9595d4716fb2ea1bd9e2a66d26c39e", null ],
+    [ "Register", "d9/dfb/a26291.html#a6318da4bfeb63dee75a971106bdc2146", null ]
 ];

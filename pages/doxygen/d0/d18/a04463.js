@@ -1,8 +1,9 @@
 var a04463 =
 [
-    [ "Acore::find_type_if< Check >", "de/d98/a05579.html", "de/d98/a05579" ],
-    [ "Acore::find_type_if< Check, T1, Ts... >", "d0/d52/a05583.html", null ],
-    [ "Acore::dependant_false< T >", "dc/d4a/a05587.html", "dc/d4a/a05587" ],
-    [ "find_type_if_t", "d0/d18/a04463.html#a7d2aaeefa69dc846a6b27937f8213fab", null ],
-    [ "dependant_false_v", "d0/d18/a04463.html#a63263799191a40005e2214b3faf336d0", null ]
+    [ "BoundsTrait< VMAP::ModelSpawn * >", "d7/d3c/a05003.html", "d7/d3c/a05003" ],
+    [ "VMAP::WMOLiquidHeader", "db/d5b/a05007.html", "db/d5b/a05007" ],
+    [ "CMP_OR_RETURN", "d0/d18/a04463.html#abb356574335eee18efd5e1f4ed707637", null ],
+    [ "READ_OR_RETURN", "d0/d18/a04463.html#ab09a5bc19f9a9f62a1f60dd7741b4d6d", null ],
+    [ "READ_OR_RETURN_WITH_DELETE", "d0/d18/a04463.html#aaf506ecfd782214a75bd609db9bef004", null ],
+    [ "readChunk", "d0/d18/a04463.html#a166f3eeee53079ac9df4f15ccd577974", null ]
 ];

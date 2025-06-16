@@ -1,17 +1,11 @@
 var a22379 =
 [
-    [ "npc_overlord_drakuru_betrayalAI", "d9/d7e/a22379.html#a52cda9357a3672871d2c52312cec7304", null ],
-    [ "DamageTaken", "d9/d7e/a22379.html#a031c475bc9e3660f8efb01face303816", null ],
-    [ "EnterEvadeMode", "d9/d7e/a22379.html#a3ab85c07b6cc186d37cef571bb9539c0", null ],
-    [ "JustEngagedWith", "d9/d7e/a22379.html#a3e758268744c8f52410ebfa05f9d6635", null ],
-    [ "JustSummoned", "d9/d7e/a22379.html#a34b76f7a4df8f28a8e80ffc406d60d98", null ],
-    [ "MoveInLineOfSight", "d9/d7e/a22379.html#acf4ad45c1145c7b0cd6f05c847546005", null ],
-    [ "Reset", "d9/d7e/a22379.html#ad154b8027917a1402840ced87aacac7d", null ],
-    [ "SpellHit", "d9/d7e/a22379.html#a836f0886846ac3081a05800fffb0aa0b", null ],
-    [ "SpellHitTarget", "d9/d7e/a22379.html#a58eb77bbfec0279908c3ed9a111c6cce", null ],
-    [ "UpdateAI", "d9/d7e/a22379.html#aafcdcb353cdc6f19bebec63a31a0da6d", null ],
-    [ "events", "d9/d7e/a22379.html#a305f08c7ee071bfe10a4be81715b60f2", null ],
-    [ "lichGUID", "d9/d7e/a22379.html#a4cd410df9735a381800ec186572f2f74", null ],
-    [ "playerGUID", "d9/d7e/a22379.html#a396917f16afc3bd03ade6c6822bd379e", null ],
-    [ "summons", "d9/d7e/a22379.html#a8c2b70321771af8b668e5f76974f854b", null ]
+    [ "npc_drakuru_shacklesAI", "d9/d7e/a22379.html#aeb55bf23d97e963b0fb9a18596bb58b1", null ],
+    [ "LockRageclaw", "d9/d7e/a22379.html#aa58fff9ee8e6cbe4d2dd0d391215f1f4", null ],
+    [ "Reset", "d9/d7e/a22379.html#a566fba51edcddab8c5b0bf5688571f80", null ],
+    [ "SpellHit", "d9/d7e/a22379.html#a04a9f0cc28cd8cab89120e66972b74cf", null ],
+    [ "UnlockRageclaw", "d9/d7e/a22379.html#a65a4b408ac09ffa3155b955dc054d971", null ],
+    [ "UpdateAI", "d9/d7e/a22379.html#a8a04ac89e5ec9ce841445913765a1a73", null ],
+    [ "_rageclawGUID", "d9/d7e/a22379.html#a1c991305f4ef30146930747881e57de4", null ],
+    [ "timer", "d9/d7e/a22379.html#a2a6484216abd731ad016284a79575e1c", null ]
 ];

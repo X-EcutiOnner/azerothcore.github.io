@@ -1,10 +1,11 @@
 var a23219 =
 [
-    [ "Spells", "d0/da4/a23219.html#a70ca1841fb1db54e6f76b96331e05cf1", [
-      [ "SPELL_GROW", "d0/da4/a23219.html#a70ca1841fb1db54e6f76b96331e05cf1a287a03bdb61355baf071dd8aa5802ccd", null ],
-      [ "SPELL_SPORE_CLOUD", "d0/da4/a23219.html#a70ca1841fb1db54e6f76b96331e05cf1afae99ec87dcd6bdf3631b9f273fecbd5", null ]
-    ] ],
-    [ "npc_rancid_mushroom", "d0/da4/a23219.html#a15896957b94de57de9eda5a199a05d4c", null ],
-    [ "InitializeAI", "d0/da4/a23219.html#afff169ff9d7a8411cf6d21f4f9be2545", null ],
-    [ "UpdateAI", "d0/da4/a23219.html#a13bfd343bdf54c829b3fcb0a775c0852", null ]
+    [ "boss_ahune", "d0/da4/a23219.html#aa3d15e1ab37843761d9f7c56d2e5a319", null ],
+    [ "DoAction", "d0/da4/a23219.html#a9e197e8a5ecbad8487c7bad7647e6d2c", null ],
+    [ "Emerge", "d0/da4/a23219.html#a6404a8255566f2eaa061a89025e2bdcd", null ],
+    [ "EnterEvadeMode", "d0/da4/a23219.html#a2b906881621e59143a916c588beb70e7", null ],
+    [ "ExecuteEvent", "d0/da4/a23219.html#a46b477aef635de1d3ec88baa2465089f", null ],
+    [ "JustDied", "d0/da4/a23219.html#af2fc7c071321653a644ee569ead67d63", null ],
+    [ "JustEngagedWith", "d0/da4/a23219.html#aaffc4f54544c8aa4529b249560ddeeec", null ],
+    [ "Submerge", "d0/da4/a23219.html#aad68758720cc1cb703f8f2dc72c09af2", null ]
 ];

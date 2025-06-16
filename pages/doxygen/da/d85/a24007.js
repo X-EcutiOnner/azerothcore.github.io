@@ -1,6 +1,7 @@
 var a24007 =
 [
-    [ "go_beaconAI", "da/d85/a24007.html#a95f0f62d4e34da650c22a7ce796fc85f", null ],
-    [ "OnStateChanged", "da/d85/a24007.html#a10bd78bf6c2451fe95163eb9083bdf44", null ],
-    [ "creatureList", "da/d85/a24007.html#a8f406b85752e42cc26741aa5a13e69bc", null ]
+    [ "npc_maghar_captiveAI", "d2/d12/a24011.html", "d2/d12/a24011" ],
+    [ "npc_maghar_captive", "da/d85/a24007.html#a59e177f33306ed0bb3de9f640d3685e4", null ],
+    [ "GetAI", "da/d85/a24007.html#a7f1528549b55edfb5286db4afe6ce50e", null ],
+    [ "OnQuestAccept", "da/d85/a24007.html#a966fdfe66a65675eb1618b0698dfbb21", null ]
 ];

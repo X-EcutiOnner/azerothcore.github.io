@@ -1,4 +1,4 @@
 var a00713 =
 [
-    [ "ScriptRegistry< SpellScriptLoader >", "d1/d04/a00713.html#aae80ff7a03e35c91f47550f388c3f3bb", null ]
+    [ "minPctTeamGamesForMemberToGetReward", "d1/d04/a00713.html#a4d7ce2e01ab25ea6833099b2821b6b5b", null ]
 ];

@@ -1,12 +1,13 @@
 var a01808 =
 [
-    [ "InstancePlayerBind", "d2/d02/a09575.html", "d2/d02/a09575" ],
-    [ "BoundInstancesMapWrapper", "da/d30/a09579.html", "da/d30/a09579" ],
-    [ "InstanceSave", "db/dff/a09583.html", "db/dff/a09583" ],
-    [ "InstanceSaveMgr", "dd/dcb/a09587.html", "dd/dcb/a09587" ],
-    [ "InstanceSaveMgr::InstResetEvent", "d6/d3b/a09591.html", "d6/d3b/a09591" ],
-    [ "sInstanceSaveMgr", "d7/d02/a01808.html#ae1d3c96dbd749e40f06799fa52eeb9a2", null ],
-    [ "BoundInstancesMap", "d7/d02/a01808.html#aaa779bf09b703eb355cb51ac3481a19e", null ],
-    [ "PlayerBindStorage", "d7/d02/a01808.html#a2e2e3e31db4cc3be56b24e732c84106b", null ],
-    [ "ResetTimeByMapDifficultyMap", "d7/d02/a01808.html#aecf15b673beb714ef0acaa3bac23696a", null ]
+    [ "ServerScript", "d0/d80/a10335.html", "d0/d80/a10335" ],
+    [ "ServerHook", "d7/d02/a01808.html#af8cee964a488266c6dec6c3b76b1a2d9", [
+      [ "SERVERHOOK_ON_NETWORK_START", "d7/d02/a01808.html#af8cee964a488266c6dec6c3b76b1a2d9aa644f9d52a55cf9cf2a11293c30d53e3", null ],
+      [ "SERVERHOOK_ON_NETWORK_STOP", "d7/d02/a01808.html#af8cee964a488266c6dec6c3b76b1a2d9a750717da9270f21f519c8d5a05d7a3b4", null ],
+      [ "SERVERHOOK_ON_SOCKET_OPEN", "d7/d02/a01808.html#af8cee964a488266c6dec6c3b76b1a2d9af5241aced10e2c6c6077ac764206c6bd", null ],
+      [ "SERVERHOOK_ON_SOCKET_CLOSE", "d7/d02/a01808.html#af8cee964a488266c6dec6c3b76b1a2d9ace5af0b477d230f9aa1e51c82789dc8d", null ],
+      [ "SERVERHOOK_CAN_PACKET_SEND", "d7/d02/a01808.html#af8cee964a488266c6dec6c3b76b1a2d9a7efd4b6dcfe8fd03b250b045c1dcaf12", null ],
+      [ "SERVERHOOK_CAN_PACKET_RECEIVE", "d7/d02/a01808.html#af8cee964a488266c6dec6c3b76b1a2d9ad4bcaa584ee5ee3556aabfe396d2e971", null ],
+      [ "SERVERHOOK_END", "d7/d02/a01808.html#af8cee964a488266c6dec6c3b76b1a2d9a9292463242a21cee981d7f24a964e6dc", null ]
+    ] ]
 ];

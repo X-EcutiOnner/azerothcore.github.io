@@ -1,5 +1,8 @@
 var a01490 =
 [
-    [ "WorldObjectChangeAccumulator", "d6/d21/a08335.html", "d6/d21/a08335" ],
-    [ "VisibilityDistances", "de/d3c/a01490.html#a6165c6736a6e152a38f7dea1aa2c956b", null ]
+    [ "PassiveAI", "db/d2e/a06075.html", "db/d2e/a06075" ],
+    [ "PossessedAI", "d9/db8/a06079.html", "d9/db8/a06079" ],
+    [ "NullCreatureAI", "d8/d7a/a06083.html", "d8/d7a/a06083" ],
+    [ "CritterAI", "df/df6/a06087.html", "df/df6/a06087" ],
+    [ "TriggerAI", "d0/d1b/a06091.html", "d0/d1b/a06091" ]
 ];

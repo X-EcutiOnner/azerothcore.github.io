@@ -1,11 +1,11 @@
 var a04526 =
 [
-    [ "FormatString", "db/da2/a04526.html#a32c972cafca136b88de5b298d6cba338", null ],
-    [ "AddSuffixIfNotExists", "db/da2/a04526.html#a712bea71ec99d750664fd46c690a1ad9", null ],
-    [ "format_as", "db/da2/a04526.html#aaa7f21af5991452196a22cd79e127825", null ],
-    [ "IsFormatEmptyOrNull", "db/da2/a04526.html#a6f5584cc7346fd1972b3e8a74036467f", null ],
-    [ "IsFormatEmptyOrNull", "db/da2/a04526.html#a84459e91f517fc4f79414cc23370b9f1", null ],
-    [ "StringFormat", "db/da2/a04526.html#a868406b9609960d4ae0189588c8cbbf4", null ],
-    [ "Trim", "db/da2/a04526.html#a3213c569cd380bda3b76fe3f730899ff", null ],
-    [ "TrimRightInPlace", "db/da2/a04526.html#ac78200daa5bc5f1d4c50a1df47a7a4db", null ]
+    [ "Acore::GeneralLock< MUTEX >", "db/de3/a05387.html", "db/de3/a05387" ],
+    [ "Acore::SingleThreaded< T >", "d2/dc7/a05391.html", "d2/dc7/a05391" ],
+    [ "Acore::SingleThreaded< T >::Lock", "d7/dd1/a05395.html", "d7/dd1/a05395" ],
+    [ "Acore::ObjectLevelLockable< T, MUTEX >", "dc/daf/a05399.html", "dc/daf/a05399" ],
+    [ "Acore::ObjectLevelLockable< T, MUTEX >::Lock", "d1/d5e/a05403.html", "d1/d5e/a05403" ],
+    [ "Acore::ClassLevelLockable< T, MUTEX >", "dc/d06/a05407.html", "dc/d06/a05407" ],
+    [ "Acore::ClassLevelLockable< T, MUTEX >::Lock", "d8/d4f/a05411.html", "d8/d4f/a05411" ],
+    [ "INSTANTIATE_CLASS_MUTEX", "db/da2/a04526.html#a517f069300d9fa1587cf281664c72a75", null ]
 ];

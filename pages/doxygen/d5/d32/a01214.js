@@ -1,4 +1,5 @@
 var a01214 =
 [
-    [ "ScriptRegistry< AllSpellScript >", "d5/d32/a01214.html#a6fb50c7d667ae3d14a6d307b0862e957", null ]
+    [ "WorldPackets::Totem::TotemDestroyed", "d0/da5/a10863.html", "d0/da5/a10863" ],
+    [ "WorldPackets::Totem::TotemCreated", "d3/d64/a10867.html", "d3/d64/a10867" ]
 ];

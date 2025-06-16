@@ -1,7 +1,8 @@
 var a23611 =
 [
-    [ "HandleOnApply", "d6/de6/a23611.html#a4d14f81325ecd0bde345d60a135ad8ba", null ],
-    [ "HandleOnRemove", "d6/de6/a23611.html#aed5f87523c58d94c8f98b76c06abb140", null ],
-    [ "PrepareAuraScript", "d6/de6/a23611.html#ab32413873bec92540f9e85e8013b7ea2", null ],
-    [ "Register", "d6/de6/a23611.html#a0653d8688f98822580a3243a0d47c17a", null ]
+    [ "npc_warchief_portal", "d6/de6/a23611.html#a1a52395a5ae66f5cc5f92c6d4ce81893", null ],
+    [ "JustSummoned", "d6/de6/a23611.html#ad90c834dc059040f3922f58dc3bcf4a2", null ],
+    [ "SetData", "d6/de6/a23611.html#a538ab8c6e7683aa02e8c75f9dd900be8", null ],
+    [ "UpdateAI", "d6/de6/a23611.html#a8c400cf1b9f41696807e11f1f135c0ad", null ],
+    [ "_scheduler", "d6/de6/a23611.html#a76bb6a89f0922ed0bc0289ee4e0f20d4", null ]
 ];

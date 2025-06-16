@@ -1,7 +1,6 @@
 var a00944 =
 [
-    [ "EMBLEM_PRICE", "d9/dce/a00944.html#a6e37f394008ea3eb20a46c84e03512a5", null ],
-    [ "MAX_GUILD_BANK_TAB_TEXT_LEN", "d9/dce/a00944.html#a458eaf87a56d0ac3d92187c55b14f437", null ],
-    [ "_GetGuildBankTabPrice", "d9/dce/a00944.html#a039068bd46d84b88b1a6a2fa0ae07b80", null ],
-    [ "_GetGuildEventString", "d9/dce/a00944.html#a8e9e4c2d24b387f386cf2d9c02996b59", null ]
+    [ "CinematicMgr", "d9/da0/a08463.html", "d9/da0/a08463" ],
+    [ "CINEMATIC_LOOKAHEAD", "d9/dce/a00944.html#ae1b03a0a84708dbd9b5487f49762b4a9", null ],
+    [ "CINEMATIC_UPDATEDIFF", "d9/dce/a00944.html#afdc341ad7f2f8cdfcf101e128dd7bbbb", null ]
 ];

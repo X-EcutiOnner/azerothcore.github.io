@@ -1,13 +1,19 @@
 var a00722 =
 [
-    [ "SkillPerfectItemEntry", "df/dc5/a11015.html", "df/dc5/a11015" ],
-    [ "SkillExtraItemEntry", "dd/d69/a11019.html", "dd/d69/a11019" ],
-    [ "SkillExtraItemMap", "db/d7c/a00722.html#a9ba2d7d2e815aee57a701990b858db7b", null ],
-    [ "SkillPerfectItemMap", "db/d7c/a00722.html#ad732be66d93ed6e8f498077f27e2766b", null ],
-    [ "canCreateExtraItems", "db/d7c/a00722.html#a49687e255d65fa15dac5e6a428c5739d", null ],
-    [ "CanCreatePerfectItem", "db/d7c/a00722.html#a818c557864790091814604b6d2175e52", null ],
-    [ "LoadSkillExtraItemTable", "db/d7c/a00722.html#a3244d04018405bafe21acc8bc96cc743", null ],
-    [ "LoadSkillPerfectItemTable", "db/d7c/a00722.html#a121df170a82be5ab5b05999a6be27b69", null ],
-    [ "SkillExtraItemStore", "db/d7c/a00722.html#acc52416c05fbae29bcbfa9f0683485cd", null ],
-    [ "SkillPerfectItemStore", "db/d7c/a00722.html#ac676f0acbf782fa2d31bd66b8eaa8260", null ]
+    [ "ArenaSeasonReward", "d0/dd0/a07195.html", "d0/dd0/a07195" ],
+    [ "ArenaSeasonRewardGroup", "d7/d4d/a07199.html", "d7/d4d/a07199" ],
+    [ "ArenaSeasonMgr", "d7/d29/a07203.html", "d7/d29/a07203" ],
+    [ "sArenaSeasonMgr", "db/d7c/a00722.html#ac46c94dc4c6cf0de37233cdd42a97ccf", null ],
+    [ "ArenaSeasonRewardGroupCriteriaType", "db/d7c/a00722.html#a983281e9aada2538d6bc53ae4dd4d266", [
+      [ "ARENA_SEASON_REWARD_CRITERIA_TYPE_PERCENT_VALUE", "db/d7c/a00722.html#a983281e9aada2538d6bc53ae4dd4d266a39f434bc965a3f4fafe78ece7d3f6422", null ],
+      [ "ARENA_SEASON_REWARD_CRITERIA_TYPE_ABSOLUTE_VALUE", "db/d7c/a00722.html#a983281e9aada2538d6bc53ae4dd4d266a80897ebd11175aa1dd3435611c86dd63", null ]
+    ] ],
+    [ "ArenaSeasonRewardType", "db/d7c/a00722.html#a89a1f93759bb943ff9ef0e4991579265", [
+      [ "ARENA_SEASON_REWARD_TYPE_ITEM", "db/d7c/a00722.html#a89a1f93759bb943ff9ef0e4991579265a124351d53a1d14813bc7af90043d8a32", null ],
+      [ "ARENA_SEASON_REWARD_TYPE_ACHIEVEMENT", "db/d7c/a00722.html#a89a1f93759bb943ff9ef0e4991579265ad12571a956e334946d72aa118f464444", null ]
+    ] ],
+    [ "ArenaSeasonState", "db/d7c/a00722.html#a64f8715fead51dc9727d105bce4d0e38", [
+      [ "ARENA_SEASON_STATE_DISABLED", "db/d7c/a00722.html#a64f8715fead51dc9727d105bce4d0e38ac019cd8397ba38ebc1d327c337d48017", null ],
+      [ "ARENA_SEASON_STATE_IN_PROGRESS", "db/d7c/a00722.html#a64f8715fead51dc9727d105bce4d0e38a455a35a5e6e89efd32818e52ca82f5f8", null ]
+    ] ]
 ];

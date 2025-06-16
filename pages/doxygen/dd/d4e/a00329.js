@@ -1,6 +1,5 @@
 var a00329 =
 [
-    [ "CinematicMgr", "d9/da0/a08463.html", "d9/da0/a08463" ],
-    [ "CINEMATIC_LOOKAHEAD", "dd/d4e/a00329.html#ae1b03a0a84708dbd9b5487f49762b4a9", null ],
-    [ "CINEMATIC_UPDATEDIFF", "dd/d4e/a00329.html#afdc341ad7f2f8cdfcf101e128dd7bbbb", null ]
+    [ "ConfusedMovementGenerator< T >", "d5/d14/a09911.html", "d5/d14/a09911" ],
+    [ "MAX_CONF_WAYPOINTS", "dd/d4e/a00329.html#ad4f7a217e114623ec80b1743f39ed3ea", null ]
 ];

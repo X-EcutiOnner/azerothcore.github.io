@@ -1,14 +1,9 @@
 var a00971 =
 [
-    [ "NpcFlagText", "d3/d3f/a11663.html", "d3/d3f/a11663" ],
-    [ "MechanicImmune", "d4/de2/a11667.html", "d4/de2/a11667" ],
-    [ "SpellSchoolImmune", "d5/d7d/a11671.html", "d5/d7d/a11671" ],
-    [ "npc_commandscript", "d8/d7a/a11675.html", "d8/d7a/a11675" ],
-    [ "NPCFLAG_COUNT", "d0/d3c/a00971.html#afc1ed6083684621f30fbabb23d2986c0", null ],
-    [ "CreatureEntry", "d0/d3c/a00971.html#a220449830f7fe293c9d82dcd3b84acd9", null ],
-    [ "CreatureSpawnId", "d0/d3c/a00971.html#a5e5fd5f7a85fd4ad7fe92f2125f17acc", null ],
-    [ "AddSC_npc_commandscript", "d0/d3c/a00971.html#ae99689f5e8e57f75adfcf54370ed979d", null ],
-    [ "mechanicImmunes", "d0/d3c/a00971.html#a9e8359f68aec0f69f42fe7aee7934859", null ],
-    [ "npcFlagTexts", "d0/d3c/a00971.html#a048bdd249b6deeed66fba6bad126b30b", null ],
-    [ "spellSchoolImmunes", "d0/d3c/a00971.html#a8708a11856730666b04e749bc0952c8f", null ]
+    [ "PetSpell", "de/d2b/a08447.html", "de/d2b/a08447" ],
+    [ "Pet", "dc/d34/a08451.html", "dc/d34/a08451" ],
+    [ "AutoSpellList", "d0/d3c/a00971.html#a85baf40bd776b1c20b66ba7ad78e0356", null ],
+    [ "PetSpellMap", "d0/d3c/a00971.html#a5b33058abef8c309621a9029df331c0e", null ],
+    [ "HAPPINESS_LEVEL_SIZE", "d0/d3c/a00971.html#a892e58d225a828ccac38c7d241365e30", null ],
+    [ "PET_LOSE_HAPPINES_INTERVAL", "d0/d3c/a00971.html#aa23de8f28ae915637ac3f4f6429b59fb", null ]
 ];

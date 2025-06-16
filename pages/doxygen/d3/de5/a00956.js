@@ -1,27 +1,21 @@
 var a00956 =
 [
-    [ "go_type", "d6/d8f/a10071.html", "d6/d8f/a10071" ],
-    [ "creature_type", "d5/d38/a10075.html", "d5/d38/a10075" ],
-    [ "OPvPCapturePoint", "df/d54/a10079.html", "df/d54/a10079" ],
-    [ "OutdoorPvP", "d0/dc9/a10083.html", "d0/dc9/a10083" ],
-    [ "MAX_OUTDOORPVP_TYPES", "d3/de5/a00956.html#a61d2d26058751cc92ed3744e7216a061", null ],
-    [ "PlayerSet", "d3/de5/a00956.html#a080aeb08f4e15904e94076846a03e927", null ],
-    [ "ObjectiveStates", "d3/de5/a00956.html#a7908847b61cb33598912d94a2c0d153a", [
-      [ "OBJECTIVESTATE_NEUTRAL", "d3/de5/a00956.html#a7908847b61cb33598912d94a2c0d153aacdbca77e3430d64e7744a243553169b6", null ],
-      [ "OBJECTIVESTATE_ALLIANCE", "d3/de5/a00956.html#a7908847b61cb33598912d94a2c0d153aa6ba9fe25fdad4f881923232927d51e01", null ],
-      [ "OBJECTIVESTATE_HORDE", "d3/de5/a00956.html#a7908847b61cb33598912d94a2c0d153aa1c56fbf67a59f2723d09b72a2526e545", null ],
-      [ "OBJECTIVESTATE_NEUTRAL_ALLIANCE_CHALLENGE", "d3/de5/a00956.html#a7908847b61cb33598912d94a2c0d153aa8a761b613f1cc1791a30f2dd6c09a683", null ],
-      [ "OBJECTIVESTATE_NEUTRAL_HORDE_CHALLENGE", "d3/de5/a00956.html#a7908847b61cb33598912d94a2c0d153aa2b3829ced9f7338c806056bcbaf4f143", null ],
-      [ "OBJECTIVESTATE_ALLIANCE_HORDE_CHALLENGE", "d3/de5/a00956.html#a7908847b61cb33598912d94a2c0d153aafec9bd2a292f2ef3dba964bdcbff182b", null ],
-      [ "OBJECTIVESTATE_HORDE_ALLIANCE_CHALLENGE", "d3/de5/a00956.html#a7908847b61cb33598912d94a2c0d153aa9361cd97baf1e11b2ed70f50c26cdb4a", null ]
+    [ "Totem", "d7/d39/a08619.html", "d7/d39/a08619" ],
+    [ "EARTHBIND_TOTEM_ENTRY", "d3/de5/a00956.html#a6cae59b1369b7371cefb92be8fc73fa5", null ],
+    [ "SENTRY_TOTEM_ENTRY", "d3/de5/a00956.html#a2bd46e1df17fdee45cd35896306092fb", null ],
+    [ "TotemImmunitySpells", "d3/de5/a00956.html#a526213bf692d4f8d189a61617f4a59c9", [
+      [ "SPELL_CYCLONE", "d3/de5/a00956.html#a526213bf692d4f8d189a61617f4a59c9ab0dea4de61535b7690ae66cfa6440f58", null ],
+      [ "SPELL_STONECLAW", "d3/de5/a00956.html#a526213bf692d4f8d189a61617f4a59c9ad0896fc7fa22551f57cc65fd56ee8649", null ],
+      [ "SPELL_BIND_SIGHT", "d3/de5/a00956.html#a526213bf692d4f8d189a61617f4a59c9a1f48e779f72284c7b1140c6be1a5a81a", null ],
+      [ "SPELL_INTERVENE", "d3/de5/a00956.html#a526213bf692d4f8d189a61617f4a59c9ac663f276cbe6aa86a2ae46813fc14b8c", null ]
     ] ],
-    [ "OutdoorPvPTypes", "d3/de5/a00956.html#a56e7764289940901c2a230103f78adee", [
-      [ "OUTDOOR_PVP_HP", "d3/de5/a00956.html#a56e7764289940901c2a230103f78adeeaec0ceb2120bb05c7b67c96acb5f5c780", null ],
-      [ "OUTDOOR_PVP_NA", "d3/de5/a00956.html#a56e7764289940901c2a230103f78adeeade464dddf74821e2cae470176a593811", null ],
-      [ "OUTDOOR_PVP_TF", "d3/de5/a00956.html#a56e7764289940901c2a230103f78adeea62e94746420e27ec7bd9c56ea578caab", null ],
-      [ "OUTDOOR_PVP_ZM", "d3/de5/a00956.html#a56e7764289940901c2a230103f78adeea835e4d954507eb3cb658b3b0f9d59dfc", null ],
-      [ "OUTDOOR_PVP_SI", "d3/de5/a00956.html#a56e7764289940901c2a230103f78adeea30dd8f698b5a13bb149d2aefbb8d8b3e", null ],
-      [ "OUTDOOR_PVP_EP", "d3/de5/a00956.html#a56e7764289940901c2a230103f78adeeadb5d1cbc5e091b87603c561df5fb6125", null ],
-      [ "OUTDOOR_PVP_GH", "d3/de5/a00956.html#a56e7764289940901c2a230103f78adeead76b70163971bf73abcdc457607a60c6", null ]
+    [ "TotemSpellIds", "d3/de5/a00956.html#a7092ec93c941969cd2cdd2291c6de0be", [
+      [ "SentryTotemSpell", "d3/de5/a00956.html#a7092ec93c941969cd2cdd2291c6de0bea2ff316c1216f8b3e5f60a3700214c8c3", null ],
+      [ "FireTotemSpell", "d3/de5/a00956.html#a7092ec93c941969cd2cdd2291c6de0bea52ad0e17d0d0699c294f9434023aeea7", null ]
+    ] ],
+    [ "TotemType", "d3/de5/a00956.html#a65151889ab4b03cf02268cc7a7ff0ba3", [
+      [ "TOTEM_PASSIVE", "d3/de5/a00956.html#a65151889ab4b03cf02268cc7a7ff0ba3a63f155f3367aa262aae567b57c623069", null ],
+      [ "TOTEM_ACTIVE", "d3/de5/a00956.html#a65151889ab4b03cf02268cc7a7ff0ba3a3c3ecb49d653993abf86f289019e27b0", null ],
+      [ "TOTEM_STATUE", "d3/de5/a00956.html#a65151889ab4b03cf02268cc7a7ff0ba3ab0fbf32f7d371a34f276dfdf6552e300", null ]
     ] ]
 ];

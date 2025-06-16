@@ -1,5 +1,4 @@
 var a01988 =
 [
-    [ "DBCStorageBase", "d8/de9/a27675.html", "d8/de9/a27675" ],
-    [ "DBCStorage< T >", "d3/dab/a27679.html", "d3/dab/a27679" ]
+    [ "ScriptRegistry< BattlegroundScript >", "d5/da1/a01988.html#a954046a61096ecb9db321b0a35da5f77", null ]
 ];

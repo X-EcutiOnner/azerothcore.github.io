@@ -1,6 +1,5 @@
 var a04316 =
 [
-    [ "CONFIG_HIGH_PRIORITY", "de/d38/a04316.html#a04727fe99a83f6b774ac1fb1b8468f3e", null ],
-    [ "CONFIG_PROCESSOR_AFFINITY", "de/d38/a04316.html#a714853b6677573f2aa289978eee5b83f", null ],
-    [ "SetProcessPriority", "de/d38/a04316.html#ac0ccc1e4fc992fb43f068cb8f6b3fd7b", null ]
+    [ "getOutOfWater", "de/d38/a04316.html#a92646d631d9334b64b0b487ebf87d769", null ],
+    [ "getWeight", "de/d38/a04316.html#a44526122378fe7ee8622f1ffc822dc20", null ]
 ];

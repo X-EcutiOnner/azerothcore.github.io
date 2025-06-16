@@ -1,10 +1,14 @@
 var a00950 =
 [
-    [ "CALL_ENABLED_BOOLEAN_HOOKS", "df/d39/a00950.html#a6ed5893c246e1f2c46b3d33ef8729a64", null ],
-    [ "CALL_ENABLED_BOOLEAN_HOOKS_WITH_DEFAULT_FALSE", "df/d39/a00950.html#a370083225ad9db5b05a730ce4fb26d2f", null ],
-    [ "CALL_ENABLED_HOOKS", "df/d39/a00950.html#a9662d12a9f13490594165729108aa0b1", null ],
-    [ "ExecuteScript", "df/d39/a00950.html#a80951f767a7c77417a671490893db073", null ],
-    [ "GetReturnAIScript", "df/d39/a00950.html#aceff01aa3f5ab68a0253704ef30041df", null ],
-    [ "IsValidBoolScript", "df/d39/a00950.html#a9dedac0cb410c9d87f0470ffd0eb6c66", null ],
-    [ "ReturnValidBool", "df/d39/a00950.html#a670fda94f7e41c38816a1e12f9efec7c", null ]
+    [ "BeforeVisibilityDestroy", "df/d39/a00950.html#a8172910e1dfdc7b56ca3931dd2fab1fb", null ],
+    [ "BeforeVisibilityDestroy< Creature >", "df/d39/a00950.html#a62188ab6a72d08b62bf37442dbbfdaa6", null ],
+    [ "getProbabilityOfLevelUp", "df/d39/a00950.html#aa890f698ac89e4049e1107c05d065495", null ],
+    [ "SkillGainChance", "df/d39/a00950.html#a66adde9ba6a85d585f6e6e8355499aa6", null ],
+    [ "UpdateVisibilityOf_helper", "df/d39/a00950.html#a5f5d6b73fc1fb15a0cde612641ba3433", null ],
+    [ "UpdateVisibilityOf_helper", "df/d39/a00950.html#aa522147fa6130f7d54551f137424bd15", null ],
+    [ "UpdateVisibilityOf_helper", "df/d39/a00950.html#ac411c559a97e183268339b1ea63a84b6", null ],
+    [ "UpdateVisibilityOf_helper", "df/d39/a00950.html#a2fc4d5c4ae2f8ec6eecccbb6b6bf4e77", null ],
+    [ "bonusSkillLevels", "df/d39/a00950.html#a72b3624ee55553e28f82ef06d7c74c6a", null ],
+    [ "bonusSkillLevelsSize", "df/d39/a00950.html#ad103e97f7db0cfd188ab64f5748c7464", null ],
+    [ "ZONE_UPDATE_INTERVAL", "df/d39/a00950.html#afabbcd46bf6f03c5dca10b117810b710", null ]
 ];

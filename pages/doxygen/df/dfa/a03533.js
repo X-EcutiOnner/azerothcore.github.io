@@ -1,10 +1,12 @@
 var a03533 =
 [
-    [ "npc_webbed_creature", "d1/db2/a15295.html", "d1/db2/a15295" ],
-    [ "npc_webbed_creature::npc_webbed_creatureAI", "db/d8e/a15299.html", "db/d8e/a15299" ],
-    [ "WebbedCreature", "df/dfa/a03533.html#aa14073eff8de36ab4c416f5ae7bd8cd0", [
-      [ "NPC_EXPEDITION_RESEARCHER", "df/dfa/a03533.html#aa14073eff8de36ab4c416f5ae7bd8cd0afbd11004b44bf2d153ac8e084395b3b3", null ]
+    [ "instance_shadow_labyrinth", "d2/dbc/a22643.html", "d2/dbc/a22643" ],
+    [ "instance_shadow_labyrinth::instance_shadow_labyrinth_InstanceMapScript", "d8/d9f/a22647.html", "d8/d9f/a22647" ],
+    [ "spell_mark_of_malice", "d2/d4d/a22651.html", "d2/d4d/a22651" ],
+    [ "MarkOfMalice", "df/dfa/a03533.html#a5faa1e1ef40cd28efc7332da31667677", [
+      [ "SPELL_MARK_OF_MALICE_TRIGGERED", "df/dfa/a03533.html#a5faa1e1ef40cd28efc7332da31667677a3c3d2a42daa901d72ea35a7207267ecb", null ]
     ] ],
-    [ "AddSC_bloodmyst_isle", "df/dfa/a03533.html#a6b9832f4bb6cfefde5bab6937fd46fae", null ],
-    [ "possibleSpawns", "df/dfa/a03533.html#ab3e43a66e02bf6f3b8cbd7c154f9d70d", null ]
+    [ "AddSC_instance_shadow_labyrinth", "df/dfa/a03533.html#ad8948ff8ccd6c3cee367ad7227308846", null ],
+    [ "creatureData", "df/dfa/a03533.html#a412286b689bd324fedd65ddd8dde8afb", null ],
+    [ "doorData", "df/dfa/a03533.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ]
 ];

@@ -1,5 +1,5 @@
 var a01691 =
 [
-    [ "BGSpamProtect", "d0/d9c/a07307.html", "d0/d9c/a07307" ],
-    [ "sBGSpam", "d0/d54/a01691.html#ae37d7994736d43484a627d5de2af5fc1", null ]
+    [ "BattlefieldMgr", "dd/d0b/a07131.html", "dd/d0b/a07131" ],
+    [ "sBattlefieldMgr", "d0/d54/a01691.html#a4545b2a440043037e8dad52c0f644f48", null ]
 ];

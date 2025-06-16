@@ -1,17 +1,7 @@
 var a04646 =
 [
-    [ "GetBranch", "d4/de8/a04646.html#a0353e7a37f6f7102283a92975eb1f56f", null ],
-    [ "GetBuildDirectory", "d4/de8/a04646.html#a51523316de8184739b710e472a8ce843", null ],
-    [ "GetCMakeCommand", "d4/de8/a04646.html#a9d2cbfd79c6c215859ddad44996a8a8c", null ],
-    [ "GetCMakeVersion", "d4/de8/a04646.html#a83b62eaf53be851b0bd82c3a00b934d1", null ],
-    [ "GetCompanyNameStr", "d4/de8/a04646.html#a72b700a0bbbdb2829e283fe892f1ba51", null ],
-    [ "GetDate", "d4/de8/a04646.html#a10817e6a26ea352c0f79233d2ef552a8", null ],
-    [ "GetFileVersionStr", "d4/de8/a04646.html#a631c2811f3f8b72a16dfa2ceb7c4cb42", null ],
-    [ "GetFullVersion", "d4/de8/a04646.html#ad68b75fc60314941c3cbade8eafcda23", null ],
-    [ "GetHash", "d4/de8/a04646.html#addcf1401768f04ea13a6e868d9580605", null ],
-    [ "GetHostOSVersion", "d4/de8/a04646.html#ad63ab422bd364927fa88a394e82fc2a7", null ],
-    [ "GetLegalCopyrightStr", "d4/de8/a04646.html#abd1a810f85a1f404d88e3f7e61cc85cc", null ],
-    [ "GetMySQLExecutable", "d4/de8/a04646.html#a13f3b200d2427f6546ebddd3b54b7fcf", null ],
-    [ "GetProductVersionStr", "d4/de8/a04646.html#abbfa02a4b9aba10f263252be4d3f48fc", null ],
-    [ "GetSourceDirectory", "d4/de8/a04646.html#a1062fcec3676f562803f4775d95a9594", null ]
+    [ "Model", "db/d5c/a28687.html", "db/d5c/a28687" ],
+    [ "Extract", "d4/de8/a04646.html#aaece844099afc9d83362feb37427d5ae", null ],
+    [ "ExtractSet", "d4/de8/a04646.html#afd641f15b5ca6e58b68f26ef17a02912", null ],
+    [ "fixCoordSystem", "d4/de8/a04646.html#a8d0afbab5641bb7d88196fbad79e4cf1", null ]
 ];

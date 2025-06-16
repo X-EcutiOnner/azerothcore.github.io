@@ -1,7 +1,6 @@
 var a24259 =
 [
-    [ "HandleSendEvent", "d1/d69/a24259.html#a8b32db78a3b4d5a01be230968fda3a8d", null ],
-    [ "PrepareSpellScript", "d1/d69/a24259.html#a0adf10b63735dbdf1cb3d49c73f7da1d", null ],
-    [ "Register", "d1/d69/a24259.html#ad6aedfed88d4a921122fdc7a8b501f0e", null ],
-    [ "Validate", "d1/d69/a24259.html#a9b72b16ac81c53aaa7936640e5149e6c", null ]
+    [ "PrepareSpellScript", "d1/d69/a24259.html#a190f6dc3d9b336324da29f627a743fe9", null ],
+    [ "Register", "d1/d69/a24259.html#a3afc8035b852bc31abd3228e88d59819", null ],
+    [ "SetDest", "d1/d69/a24259.html#a85d66a58597954501305ad5b674cc8a2", null ]
 ];

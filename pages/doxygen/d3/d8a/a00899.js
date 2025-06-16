@@ -1,6 +1,4 @@
 var a00899 =
 [
-    [ "LogHeader", "d2/d93/a10915.html", "d2/d93/a10915" ],
-    [ "PacketHeader", "d1/df8/a10919.html", "d1/df8/a10919" ],
-    [ "PacketHeader::OptionalData", "d9/dc6/a10923.html", "d9/dc6/a10923" ]
+    [ "operator<<", "d3/d8a/a00899.html#aa8a947319a6f00895a3c443f5cb258ad", null ]
 ];

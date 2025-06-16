@@ -1,12 +1,5 @@
 var a01625 =
 [
-    [ "AggressorAI", "d1/dd7/a06039.html", "d1/dd7/a06039" ],
-    [ "CombatAI", "d3/df2/a06043.html", "d3/df2/a06043" ],
-    [ "CasterAI", "d2/d6a/a06047.html", "d2/d6a/a06047" ],
-    [ "ArcherAI", "d9/d4d/a06051.html", "d9/d4d/a06051" ],
-    [ "TurretAI", "de/d62/a06055.html", "de/d62/a06055" ],
-    [ "VehicleAI", "d7/d22/a06059.html", "d7/d22/a06059" ],
-    [ "VEHICLE_CONDITION_CHECK_TIME", "d3/d2d/a01625.html#a2842973ff947088648cd327dc9e1d379", null ],
-    [ "VEHICLE_DISMISS_TIME", "d3/d2d/a01625.html#a9b232fec810abbe5eaf5536e608b6e38", null ],
-    [ "SpellVct", "d3/d2d/a01625.html#aef8ccdd14344d9c395d613c21bafd91e", null ]
+    [ "MotdMap", "d3/d2d/a01625.html#a5c662919d486ab6fdecf6195e172bc0d", null ],
+    [ "MotdPackets", "d3/d2d/a01625.html#a58c795807a8c0ddf95b6dde3d1760c0a", null ]
 ];

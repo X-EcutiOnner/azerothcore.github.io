@@ -1,6 +1,4 @@
 var a01940 =
 [
-    [ "GetLibraryVersion", "d5/dba/a01940.html#aefa4bd51f34aad2d1a141c00a2310092", null ],
-    [ "Library_End", "d5/dba/a01940.html#aff44554b66bd7ef0e21f1db5beb0b81a", null ],
-    [ "Library_Init", "d5/dba/a01940.html#a70b74137156f0a22792c3cf95c54decc", null ]
+    [ "CommandScript", "d6/d1e/a10227.html", "d6/d1e/a10227" ]
 ];

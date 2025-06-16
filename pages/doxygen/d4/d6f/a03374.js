@@ -1,6 +1,7 @@
 var a03374 =
 [
-    [ "fireworkShowGameobjectUndercity", "d4/d6f/a03374.html#a67896d1b367cdcfcbee837b12ee9451c", null ],
-    [ "fireworkShowScheduleUndercity", "d4/d6f/a03374.html#ab00bea2179a021590447cb30da50fce1", null ],
-    [ "fireworkShowUndercity", "d4/d6f/a03374.html#afd61e001f4ea31858964426d56d2b3cf", null ]
+    [ "instance_forge_of_souls", "d3/d9c/a16755.html", "d3/d9c/a16755" ],
+    [ "instance_forge_of_souls::instance_forge_of_souls_InstanceScript", "dc/d99/a16759.html", "dc/d99/a16759" ],
+    [ "AddSC_instance_forge_of_souls", "d4/d6f/a03374.html#a1ec461fda59c652788d1a38e62cdea20", null ],
+    [ "boundaries", "d4/d6f/a03374.html#aa75d7d0ffe0cef214f982966c33db1c1", null ]
 ];

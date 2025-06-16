@@ -1,8 +1,8 @@
 var a00851 =
 [
-    [ "MovementHandlerScript", "d9/d1d/a10319.html", "d9/d1d/a10319" ],
-    [ "MovementHook", "df/d4c/a00851.html#a5763e953c65ba38409a14469a1fe2842", [
-      [ "MOVEMENTHOOK_ON_PLAYER_MOVE", "df/d4c/a00851.html#a5763e953c65ba38409a14469a1fe2842a9fb1a9d074f81a435e688f4cd7d12326", null ],
-      [ "MOVEMENTHOOK_END", "df/d4c/a00851.html#a5763e953c65ba38409a14469a1fe2842ae0cf6cfe134c99cc596bac2607905b9c", null ]
-    ] ]
+    [ "GUID_TRAIT_INSTANTIATE_GUID", "df/d4c/a00851.html#a62c17cbc4f3da3f26f9c1ae3ba2c4953", null ],
+    [ "operator<<", "df/d4c/a00851.html#a039758f4b57c94c411a4c3882334ada8", null ],
+    [ "operator<<", "df/d4c/a00851.html#a94ab551ce00fd82dea1532d47ad908bc", null ],
+    [ "operator>>", "df/d4c/a00851.html#a30aef535f2839648f0ae4648c746d3e2", null ],
+    [ "operator>>", "df/d4c/a00851.html#a95f3a6eef334b9fcdcaca879532c25d4", null ]
 ];

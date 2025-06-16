@@ -1,8 +1,7 @@
 var a26767 =
 [
-    [ "Detonate", "dd/d96/a26767.html#a89f46334c78fc190afd7b03706fa2513", null ],
-    [ "HandleProc", "dd/d96/a26767.html#a82ad88c757eed35f7e0f2af38ceb2273", null ],
-    [ "PrepareAuraScript", "dd/d96/a26767.html#a7268602da6dc74d7c501fb90c8167226", null ],
-    [ "Register", "dd/d96/a26767.html#ac1574e943840e5f15a808ed4d338cd5f", null ],
-    [ "Validate", "dd/d96/a26767.html#abbc5c9d069e716d9356ec366713abb84", null ]
+    [ "HandleDummy", "dd/d96/a26767.html#ab8916b5c232d7b55f4a6bb3e9f9ab122", null ],
+    [ "PrepareSpellScript", "dd/d96/a26767.html#ac8cfa0b54c585f12682602a678d7bf2d", null ],
+    [ "Register", "dd/d96/a26767.html#aee02661fa8845afd666ca27163b4a761", null ],
+    [ "Validate", "dd/d96/a26767.html#aba9079e2418281315029c839b22df1c5", null ]
 ];

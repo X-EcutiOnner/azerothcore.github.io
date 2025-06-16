@@ -1,20 +1,17 @@
 var a04301 =
 [
-    [ "MmapTileHeader", "de/d42/a04975.html", "de/d42/a04975" ],
-    [ "MAX_NUMBER_OF_CELLS", "d2/d27/a04301.html#a2c6994ea025f427f1485c1c7aaee01fe", null ],
-    [ "MAX_NUMBER_OF_GRIDS", "d2/d27/a04301.html#a857252154f120575d940ffbdf63bace6", null ],
-    [ "MMAP_MAGIC", "d2/d27/a04301.html#af7a9a5e840ab3ad1c160e832500016d1", null ],
-    [ "MMAP_VERSION", "d2/d27/a04301.html#aea71555fdd0af33ccc21c76c67574421", null ],
-    [ "SIZE_OF_GRIDS", "d2/d27/a04301.html#a55c9adba46c0c14cd4ac80ab51228816", null ],
-    [ "NavTerrain", "d2/d27/a04301.html#a8a4d0b36dd46d60b691b894fb8c1c5db", [
-      [ "NAV_EMPTY", "d2/d27/a04301.html#a8a4d0b36dd46d60b691b894fb8c1c5dba7e7367494e3519c95f1b756726fec9a5", null ],
-      [ "NAV_GROUND", "d2/d27/a04301.html#a8a4d0b36dd46d60b691b894fb8c1c5dbac2c74d40490a8ea42121c00a8249bd98", null ],
-      [ "NAV_MAGMA", "d2/d27/a04301.html#a8a4d0b36dd46d60b691b894fb8c1c5dba9ea5d0550a08be7bb291557f1fc4f670", null ],
-      [ "NAV_SLIME", "d2/d27/a04301.html#a8a4d0b36dd46d60b691b894fb8c1c5dbad892c321d39d49cdb700eb27fc249f75", null ],
-      [ "NAV_WATER", "d2/d27/a04301.html#a8a4d0b36dd46d60b691b894fb8c1c5dbae258322a4a7d7928a89ac183ecf137d1", null ],
-      [ "NAV_UNUSED1", "d2/d27/a04301.html#a8a4d0b36dd46d60b691b894fb8c1c5dba55b6c76a11113bfd585b61366a3f6d03", null ],
-      [ "NAV_UNUSED2", "d2/d27/a04301.html#a8a4d0b36dd46d60b691b894fb8c1c5dba4c61900269be6dee2e26cbeb4e09d0bb", null ],
-      [ "NAV_UNUSED3", "d2/d27/a04301.html#a8a4d0b36dd46d60b691b894fb8c1c5dba3055dd71ec523facb0cba2976316d530", null ],
-      [ "NAV_UNUSED4", "d2/d27/a04301.html#a8a4d0b36dd46d60b691b894fb8c1c5dba94351935a3c7389b4667144d53923d56", null ]
-    ] ]
+    [ "apply", "d2/d27/a04301.html#a6177d7ac84a4ea6819c57a124345540e", null ],
+    [ "convert", "d2/d27/a04301.html#a5628479f846d755da3ff53b0e2a66c26", null ],
+    [ "convert< 0 >", "d2/d27/a04301.html#aa8017307aa0aa935f062b4f701563d09", null ],
+    [ "convert< 1 >", "d2/d27/a04301.html#a3717e304a2b8b074fcd513ca8e0db116", null ],
+    [ "EndianConvert", "d2/d27/a04301.html#a49a7404e8b8e7030c609822047db18e8", null ],
+    [ "EndianConvert", "d2/d27/a04301.html#a9d20b1e463a04f0a22d79ca802902be6", null ],
+    [ "EndianConvert", "d2/d27/a04301.html#af2e19073fdc053bb0299b663fa1ee757", null ],
+    [ "EndianConvert", "d2/d27/a04301.html#a7a138a6c8a71f6e9bd8eb436a598f628", null ],
+    [ "EndianConvertPtr", "d2/d27/a04301.html#a73b1f88261dfd018f7f185b0ea941c88", null ],
+    [ "EndianConvertPtrReverse", "d2/d27/a04301.html#a8b9f1be37ef60cffbb862512d9374dd4", null ],
+    [ "EndianConvertReverse", "d2/d27/a04301.html#acdb2b3cf0ea55e72e1d4047380cbd260", null ],
+    [ "EndianConvertReverse", "d2/d27/a04301.html#a71946d011105dec5ad60c6875066ed86", null ],
+    [ "EndianConvertReverse", "d2/d27/a04301.html#a1fa1c447bec92bbf436d429b422cc2e7", null ],
+    [ "EndianConvertReverse", "d2/d27/a04301.html#a2adbd00f9fd7adfc4bd3d26ae1565a0b", null ]
 ];

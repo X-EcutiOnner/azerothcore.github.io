@@ -1,6 +1,6 @@
 var a23967 =
 [
-    [ "npc_aeranasAI", "df/deb/a23971.html", "df/deb/a23971" ],
-    [ "npc_aeranas", "d1/ddc/a23967.html#a6ea71481ef6a223a329b805081122537", null ],
-    [ "GetAI", "d1/ddc/a23967.html#a81167df6665bdca81ee13468dec19643", null ]
+    [ "npc_ancestral_wolfAI", "df/deb/a23971.html", "df/deb/a23971" ],
+    [ "npc_ancestral_wolf", "d1/ddc/a23967.html#a7cadf2848a086db63792f8068ee9463d", null ],
+    [ "GetAI", "d1/ddc/a23967.html#a201255a64d4e742ba8b118b4f2ec5cd5", null ]
 ];

@@ -1,15 +1,22 @@
 var a01418 =
 [
-    [ "MonsterMoveType", "d4/d3c/a01418.html#afd3f02560404659d901713e1228d9339", [
-      [ "MonsterMoveNormal", "d4/d3c/a01418.html#afd3f02560404659d901713e1228d9339aba693dab24bf78b0173914ecf339c558", null ],
-      [ "MonsterMoveStop", "d4/d3c/a01418.html#afd3f02560404659d901713e1228d9339a6520302858321c3083951d598e05a167", null ],
-      [ "MonsterMoveFacingSpot", "d4/d3c/a01418.html#afd3f02560404659d901713e1228d9339a395aabd5641c37343d08506cfc4e4323", null ],
-      [ "MonsterMoveFacingTarget", "d4/d3c/a01418.html#afd3f02560404659d901713e1228d9339a61f5156f5db570fd9f5db194179ea7f9", null ],
-      [ "MonsterMoveFacingAngle", "d4/d3c/a01418.html#afd3f02560404659d901713e1228d9339ac65e2c863bd6cadc1dc72c4720e61642", null ]
+    [ "GameEventFinishCondition", "d6/dbd/a08779.html", "d6/dbd/a08779" ],
+    [ "GameEventQuestToEventConditionNum", "d0/db3/a08783.html", "d0/db3/a08783" ],
+    [ "GameEventData", "dc/d09/a08787.html", "dc/d09/a08787" ],
+    [ "ModelEquip", "de/d8e/a08791.html", "de/d8e/a08791" ],
+    [ "NPCVendorEntry", "d6/d72/a08795.html", "d6/d72/a08795" ],
+    [ "GameEventMgr", "d6/d41/a08799.html", "d6/d41/a08799" ],
+    [ "max_ge_check_delay", "d4/d3c/a01418.html#adaa73d920934a951856f7ce003ce2342", null ],
+    [ "sGameEventMgr", "d4/d3c/a01418.html#a3c1c916d94272dfe845b9cc5e8fc292a", null ],
+    [ "GameEventConditionMap", "d4/d3c/a01418.html#ac4262be385ac879bb433e00533d835c0", null ],
+    [ "GameEventState", "d4/d3c/a01418.html#aeb9f2334f35e9f2b2fd8c2ac5630e3b5", [
+      [ "GAMEEVENT_NORMAL", "d4/d3c/a01418.html#aeb9f2334f35e9f2b2fd8c2ac5630e3b5a0951d2c0686f93e6e7d0e002b4521921", null ],
+      [ "GAMEEVENT_WORLD_INACTIVE", "d4/d3c/a01418.html#aeb9f2334f35e9f2b2fd8c2ac5630e3b5ac5c7f13cfd107dd2d1efb99ce8dd5136", null ],
+      [ "GAMEEVENT_WORLD_CONDITIONS", "d4/d3c/a01418.html#aeb9f2334f35e9f2b2fd8c2ac5630e3b5a627f133a79fe9018b98ee3646e334ff7", null ],
+      [ "GAMEEVENT_WORLD_NEXTPHASE", "d4/d3c/a01418.html#aeb9f2334f35e9f2b2fd8c2ac5630e3b5aa9ecd88c85a086ee5273110051a00bc0", null ],
+      [ "GAMEEVENT_WORLD_FINISHED", "d4/d3c/a01418.html#aeb9f2334f35e9f2b2fd8c2ac5630e3b5a50f420580ff8bcf744a958e2613085bf", null ],
+      [ "GAMEEVENT_INTERNAL", "d4/d3c/a01418.html#aeb9f2334f35e9f2b2fd8c2ac5630e3b5a2612ea68e0c9d21dae1af2e9ac04bc81", null ]
     ] ],
-    [ "operator<<", "d4/d3c/a01418.html#ac2e9418dfdb25149170911f2cd0dd948", null ],
-    [ "operator>>", "d4/d3c/a01418.html#ae394b26156a3fa0d1d828d30cee475b1", null ],
-    [ "WriteCatmullRomCyclicPath", "d4/d3c/a01418.html#ae740cc738fed507e64b3243ce62c5952", null ],
-    [ "WriteCatmullRomPath", "d4/d3c/a01418.html#a92efeab3fe080f348fa91cb9bc5a1b05", null ],
-    [ "WriteLinearPath", "d4/d3c/a01418.html#ad0db2c4fd496c84301b43d46fbffb460", null ]
+    [ "IsEventActive", "d4/d3c/a01418.html#ad54f33b2e05154d9c2a384ff579b9208", null ],
+    [ "IsHolidayActive", "d4/d3c/a01418.html#a429db26781d2673aa2f031fc1327ffaf", null ]
 ];

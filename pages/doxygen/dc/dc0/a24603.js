@@ -1,11 +1,6 @@
 var a24603 =
 [
-    [ "HandleAfterHit", "dc/dc0/a24603.html#a3cfb75da66372934ba5aaa1c9ad6c6f3", null ],
-    [ "HandleDummy", "dc/dc0/a24603.html#abb3f92850fa6fff94c682b990c361fe6", null ],
-    [ "Load", "dc/dc0/a24603.html#ae5900d64c9b9b2de48c494458d4bed8b", null ],
-    [ "PrepareSpellScript", "dc/dc0/a24603.html#adea0e24654cd87b3aee07ce2183b9517", null ],
-    [ "Register", "dc/dc0/a24603.html#a3e155e336d6a5a6a4d44eae422ef7939", null ],
-    [ "Validate", "dc/dc0/a24603.html#a28bb9111c8e5116a82d4e54b7eacb92b", null ],
-    [ "guid", "dc/dc0/a24603.html#a6e177d68e1d39dcb27e6643d267328a5", null ],
-    [ "multiplier", "dc/dc0/a24603.html#a04ed6aae0ea28a4f1b7c1ed5f4f73a0b", null ]
+    [ "CalculateAmount", "dc/dc0/a24603.html#ada4514ba7769ebceeed1e0ab1c3a33e8", null ],
+    [ "PrepareAuraScript", "dc/dc0/a24603.html#a1faa084b17776e826242293e2aaef2f4", null ],
+    [ "Register", "dc/dc0/a24603.html#a94b21c91954385201d4bad6aff2205fc", null ]
 ];

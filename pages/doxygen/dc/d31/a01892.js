@@ -1,8 +1,4 @@
 var a01892 =
 [
-    [ "TransactionBase", "d8/d07/a05847.html", "d8/d07/a05847" ],
-    [ "Transaction< T >", "da/dde/a05663.html", "da/dde/a05663" ],
-    [ "TransactionTask", "dd/d01/a05851.html", "dd/d01/a05851" ],
-    [ "TransactionWithResultTask", "d4/d27/a05855.html", "d4/d27/a05855" ],
-    [ "TransactionCallback", "d7/d4b/a05859.html", "d7/d4b/a05859" ]
+    [ "ScriptRegistry< AuctionHouseScript >", "dc/d31/a01892.html#ac2271f3a8c4323137893dfd21d8d0003", null ]
 ];

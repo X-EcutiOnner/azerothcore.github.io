@@ -1,6 +1,5 @@
 var a22343 =
 [
-    [ "HandlePeriodicDummy", "da/d30/a22343.html#a0096e0521c37a4f7f9ab1f2173a807d4", null ],
-    [ "PrepareAuraScript", "da/d30/a22343.html#ad55ab81c39e8bf53d1e2066bbeefa712", null ],
-    [ "Register", "da/d30/a22343.html#afeccfe29a0e0f192a4242217f9d4b7e5", null ]
+    [ "achievement_wg_didnt_stand_a_chance", "da/d30/a22343.html#afb397c74f00d1f5c59a24ef74b0cd1cd", null ],
+    [ "OnCheck", "da/d30/a22343.html#ae575bae454689e05c161e8480a13fa18", null ]
 ];

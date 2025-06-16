@@ -1,6 +1,7 @@
 var a23143 =
 [
-    [ "HandleDummy", "d9/d74/a23143.html#a3347413822ce083085bcf1418fbdbae2", null ],
-    [ "PrepareSpellScript", "d9/d74/a23143.html#ad7b15a8c5cf3e2d38a1ce54afb24b3e5", null ],
-    [ "Register", "d9/d74/a23143.html#af0c8bf6a5076a4171a9d70f6872a21d5", null ]
+    [ "HandleEffectApply", "d9/d74/a23143.html#a3893fffea480b47d06c4903deb051aa9", null ],
+    [ "HandleEffectRemove", "d9/d74/a23143.html#a8f120ed0d8cbce6dd0640f02ea488669", null ],
+    [ "PrepareAuraScript", "d9/d74/a23143.html#a246c20ab26d1490fe38afd558a7ae406", null ],
+    [ "Register", "d9/d74/a23143.html#aea639a3ae0f003c6213143427f3b1d23", null ]
 ];

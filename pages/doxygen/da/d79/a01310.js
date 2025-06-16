@@ -1,4 +1,5 @@
 var a01310 =
 [
-    [ "ScriptRegistry< AchievementScript >", "da/d79/a01310.html#ac6173262cca5c83f03287161a75446ab", null ]
+    [ "GetEnableModulesList", "da/d79/a01310.html#a2a2aa3aabfbef586b9a1e63fbae0e0f7", null ],
+    [ "SetEnableModulesList", "da/d79/a01310.html#ac16569c9333f642e54fa7a4ec6a948e3", null ]
 ];

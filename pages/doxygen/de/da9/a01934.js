@@ -1,19 +1,27 @@
 var a01934 =
 [
-    [ "QueryResultFieldMetadata", "d2/de1/a05687.html", "d2/de1/a05687" ],
-    [ "Field", "d8/d58/a05691.html", "d8/d58/a05691" ],
-    [ "Binary", "de/da9/a01934.html#a45c2b15f675e85c1f4462be09f27c59e", null ],
-    [ "is_chrono_v", "de/da9/a01934.html#aa6a7b1e80be2ae7ec2efb76185ee7b44", null ],
-    [ "DatabaseFieldTypes", "de/da9/a01934.html#a52858f4c2cc23ac9372ab466fb82c091", [
-      [ "Null", "de/da9/a01934.html#a52858f4c2cc23ac9372ab466fb82c091abbb93ef26e3c101ff11cdd21cab08a94", null ],
-      [ "Int8", "de/da9/a01934.html#a52858f4c2cc23ac9372ab466fb82c091a7d839b2c12bfd40ac121b4cc9e81c539", null ],
-      [ "Int16", "de/da9/a01934.html#a52858f4c2cc23ac9372ab466fb82c091a39bc2ae44b184207f560ff8619823208", null ],
-      [ "Int32", "de/da9/a01934.html#a52858f4c2cc23ac9372ab466fb82c091ac06129f6e6e15c09328365e553f1dc31", null ],
-      [ "Int64", "de/da9/a01934.html#a52858f4c2cc23ac9372ab466fb82c091afbde23b11d7e59af7828e81144c8b487", null ],
-      [ "Float", "de/da9/a01934.html#a52858f4c2cc23ac9372ab466fb82c091a22ae0e2b89e5e3d477f988cc36d3272b", null ],
-      [ "Double", "de/da9/a01934.html#a52858f4c2cc23ac9372ab466fb82c091ad909d38d705ce75386dd86e611a82f5b", null ],
-      [ "Decimal", "de/da9/a01934.html#a52858f4c2cc23ac9372ab466fb82c091a937504f318f04eaf0f1d701df4c4d7f3", null ],
-      [ "Date", "de/da9/a01934.html#a52858f4c2cc23ac9372ab466fb82c091a44749712dbec183e983dcd78a7736c41", null ],
-      [ "Binary", "de/da9/a01934.html#a52858f4c2cc23ac9372ab466fb82c091a6ce976e8f061b2b5cfe4d0c50c3405dd", null ]
+    [ "GlobalScript", "d9/dff/a10279.html", "d9/dff/a10279" ],
+    [ "GlobalHook", "de/da9/a01934.html#a9442fcdfa182319eedd41c65183aa54f", [
+      [ "GLOBALHOOK_ON_ITEM_DEL_FROM_DB", "de/da9/a01934.html#a9442fcdfa182319eedd41c65183aa54fa3fee3c5c76e67faee134aa5f3004fb3a", null ],
+      [ "GLOBALHOOK_ON_MIRRORIMAGE_DISPLAY_ITEM", "de/da9/a01934.html#a9442fcdfa182319eedd41c65183aa54fa54996842f471924462c858b424771301", null ],
+      [ "GLOBALHOOK_ON_AFTER_REF_COUNT", "de/da9/a01934.html#a9442fcdfa182319eedd41c65183aa54fadf7277c0c7e7daf6f206ad30076ca6b0", null ],
+      [ "GLOBALHOOK_ON_AFTER_CALCULATE_LOOT_GROUP_AMOUNT", "de/da9/a01934.html#a9442fcdfa182319eedd41c65183aa54fab9f74534592d5b25eac4afa022f0afb8", null ],
+      [ "GLOBALHOOK_ON_BEFORE_DROP_ADD_ITEM", "de/da9/a01934.html#a9442fcdfa182319eedd41c65183aa54fa0023a1c24752cf2d5bf1373304031616", null ],
+      [ "GLOBALHOOK_ON_ITEM_ROLL", "de/da9/a01934.html#a9442fcdfa182319eedd41c65183aa54fa1910f8cb74757454664169058b78e315", null ],
+      [ "GLOBALHOOK_ON_BEFORE_LOOT_EQUAL_CHANCED", "de/da9/a01934.html#a9442fcdfa182319eedd41c65183aa54fac9c482aae055a76e845712ea267cbf54", null ],
+      [ "GLOBALHOOK_ON_INITIALIZE_LOCKED_DUNGEONS", "de/da9/a01934.html#a9442fcdfa182319eedd41c65183aa54faff3a42ff936243662b474b34bdf3eaaf", null ],
+      [ "GLOBALHOOK_ON_AFTER_INITIALIZE_LOCKED_DUNGEONS", "de/da9/a01934.html#a9442fcdfa182319eedd41c65183aa54fa4a73293aee8407b7b998c4b054b1f441", null ],
+      [ "GLOBALHOOK_ON_BEFORE_UPDATE_ARENA_POINTS", "de/da9/a01934.html#a9442fcdfa182319eedd41c65183aa54fa5b66ed30713c1b3afbbeb93e0185721f", null ],
+      [ "GLOBALHOOK_ON_AFTER_UPDATE_ENCOUNTER_STATE", "de/da9/a01934.html#a9442fcdfa182319eedd41c65183aa54fade9db726b6ebfefed02d9958ba2352d1", null ],
+      [ "GLOBALHOOK_ON_BEFORE_WORLDOBJECT_SET_PHASEMASK", "de/da9/a01934.html#a9442fcdfa182319eedd41c65183aa54fa46e286ea2fa14ba1003d3f921bc174b6", null ],
+      [ "GLOBALHOOK_ON_IS_AFFECTED_BY_SPELL_MOD_CHECK", "de/da9/a01934.html#a9442fcdfa182319eedd41c65183aa54fa47d4b00882af22c458fd791f70844d1b", null ],
+      [ "GLOBALHOOK_ON_SPELL_HEALING_BONUS_TAKEN_NEGATIVE_MODIFIERS", "de/da9/a01934.html#a9442fcdfa182319eedd41c65183aa54fa1efd25cc1c4e57becd0c5acf89c12857", null ],
+      [ "GLOBALHOOK_ON_LOAD_SPELL_CUSTOM_ATTR", "de/da9/a01934.html#a9442fcdfa182319eedd41c65183aa54fa53ea8c3814440b2cc9bc99760a365ffc", null ],
+      [ "GLOBALHOOK_ON_ALLOWED_FOR_PLAYER_LOOT_CHECK", "de/da9/a01934.html#a9442fcdfa182319eedd41c65183aa54faac2ab4f02438b0689dcb2fd4e4b6e689", null ],
+      [ "GLOBALHOOK_ON_ALLOWED_TO_LOOT_CONTAINER_CHECK", "de/da9/a01934.html#a9442fcdfa182319eedd41c65183aa54fa484cdc863db646dfef82e9bd93fab517", null ],
+      [ "GLOBALHOOK_ON_INSTANCEID_REMOVED", "de/da9/a01934.html#a9442fcdfa182319eedd41c65183aa54faca0b78e4f7e01f485fa13984516ad19c", null ],
+      [ "GLOBALHOOK_ON_BEFORE_SET_BOSS_STATE", "de/da9/a01934.html#a9442fcdfa182319eedd41c65183aa54faaa74d1171724a0c0ef83fe371e38b203", null ],
+      [ "GLOBALHOOK_AFTER_INSTANCE_GAME_OBJECT_CREATE", "de/da9/a01934.html#a9442fcdfa182319eedd41c65183aa54faf8f95fca3547e7cb68711a197b935872", null ],
+      [ "GLOBALHOOK_END", "de/da9/a01934.html#a9442fcdfa182319eedd41c65183aa54faaf8763605020a918c2880562446d020a", null ]
     ] ]
 ];

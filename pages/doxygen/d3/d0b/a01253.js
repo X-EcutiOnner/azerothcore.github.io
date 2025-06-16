@@ -1,4 +1,4 @@
 var a01253 =
 [
-    [ "OutdoorPvPScript", "d1/d2a/a10323.html", "d1/d2a/a10323" ]
+    [ "sWorldSocketMgr", "df/d9b/a04755.html#ga43ae464e29649083953e305b20b3e27f", null ]
 ];

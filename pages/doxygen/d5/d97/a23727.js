@@ -1,10 +1,7 @@
 var a23727 =
 [
-    [ "CheckProc", "d5/d97/a23727.html#ac176c59497cc2196c19dc8a1b9f8056d", null ],
-    [ "Load", "d5/d97/a23727.html#aad39e53d6b3fc673c115f79ca0bc9b68", null ],
-    [ "PrepareAuraScript", "d5/d97/a23727.html#a990cab2c1d9fb544bf11c9fd4e5495ac", null ],
-    [ "Register", "d5/d97/a23727.html#ae2cf612df18cf249bc4a90ce9332fc9b", null ],
-    [ "_lastForm", "d5/d97/a23727.html#ad392a897546cb64e550dd8b0709ba0ab", null ],
-    [ "_lastSchool", "d5/d97/a23727.html#afc2e3e388615ed5cf0f4dd672f26de85", null ],
-    [ "_swapTime", "d5/d97/a23727.html#af832dc200e928df3849ab7d7f93cb412", null ]
+    [ "CastQuill", "d5/d97/a23727.html#a923234809186bcbdf02457f4be095519", null ],
+    [ "Execute", "d5/d97/a23727.html#a26a971a575e4b9503cd1da73d43ebd1e", null ],
+    [ "_caster", "d5/d97/a23727.html#af809b9279aff141ce4007c8d1fbcc331", null ],
+    [ "_spellId", "d5/d97/a23727.html#ad6f7d8eaf69873b0ba57be4189c145cf", null ]
 ];

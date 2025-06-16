@@ -1,44 +1,44 @@
 var a02264 =
 [
-    [ "AhnKahetScriptName", "d7/dc8/a02264.html#a506431ce00265fd3122a043804560c86", null ],
-    [ "DataHeader", "d7/dc8/a02264.html#a042491ef36459046f3866e90f15aae0d", null ],
-    [ "RegisterAhnKahetCreatureAI", "d7/dc8/a02264.html#aa9d11f00daa1d5fe3fccebf717ab93f6", null ],
-    [ "AhnKahetActions", "d7/dc8/a02264.html#ab602224ee107d47ea7a8fd34e7e11dcf", [
-      [ "ACTION_REMOVE_PRISON", "d7/dc8/a02264.html#ab602224ee107d47ea7a8fd34e7e11dcfa16fb04e016b069c88508a114006910a8", null ]
+    [ "npc_cork_gizelton", "d3/d99/a15343.html", "d3/d99/a15343" ],
+    [ "npc_cork_gizelton::npc_cork_gizeltonAI", "de/d07/a15347.html", "de/d07/a15347" ],
+    [ "npc_aged_dying_ancient_kodo", "d4/db6/a15351.html", "d4/db6/a15351" ],
+    [ "npc_aged_dying_ancient_kodo::npc_aged_dying_ancient_kodoAI", "d0/d65/a15355.html", "d0/d65/a15355" ],
+    [ "Caravan", "d7/dc8/a02264.html#aec2c916c560ca6ceedd660d3b140e728", [
+      [ "QUEST_BODYGUARD_FOR_HIRE", "d7/dc8/a02264.html#aec2c916c560ca6ceedd660d3b140e728a07d8fdc2ba6f3382ab9a9c0ccb910712", null ],
+      [ "QUEST_GIZELTON_CARAVAN", "d7/dc8/a02264.html#aec2c916c560ca6ceedd660d3b140e728af1f220a5094995c40054b8afcfc956f9", null ],
+      [ "EVENT_RESUME_PATH", "d7/dc8/a02264.html#aec2c916c560ca6ceedd660d3b140e728a69f42ceba9244cdbe2e7dfc9e833acc9", null ],
+      [ "EVENT_WAIT_FOR_ASSIST", "d7/dc8/a02264.html#aec2c916c560ca6ceedd660d3b140e728ac88ffb83ceecf13ef48bd0988529cba7", null ],
+      [ "EVENT_RESTART_ESCORT", "d7/dc8/a02264.html#aec2c916c560ca6ceedd660d3b140e728a7410480ad3fe5ae4742c8d12f885e2d1", null ],
+      [ "NPC_CORK_GIZELTON", "d7/dc8/a02264.html#aec2c916c560ca6ceedd660d3b140e728a3ac8ce9d7c78aa74818eb286eb1530ba", null ],
+      [ "NPC_RIGGER_GIZELTON", "d7/dc8/a02264.html#aec2c916c560ca6ceedd660d3b140e728a73d4fb993cb56f5e539c1255d432d1a5", null ],
+      [ "NPC_CARAVAN_KODO", "d7/dc8/a02264.html#aec2c916c560ca6ceedd660d3b140e728ae4dd98db048a9b333326fb52a0a08858", null ],
+      [ "NPC_VENDOR_TRON", "d7/dc8/a02264.html#aec2c916c560ca6ceedd660d3b140e728acb0c2bc0eea43af8bd0e1801fac8846f", null ],
+      [ "NPC_SUPER_SELLER", "d7/dc8/a02264.html#aec2c916c560ca6ceedd660d3b140e728a8329377778d66d3c939420b04264e573", null ],
+      [ "SAY_CARAVAN_LEAVE", "d7/dc8/a02264.html#aec2c916c560ca6ceedd660d3b140e728a52926a8d01b0b50f89cc5fb99e6919aa", null ],
+      [ "SAY_CARAVAN_HIRE", "d7/dc8/a02264.html#aec2c916c560ca6ceedd660d3b140e728ab0f9b346c5f60c1ec44e45615f360ef3", null ],
+      [ "MAX_CARAVAN_SUMMONS", "d7/dc8/a02264.html#aec2c916c560ca6ceedd660d3b140e728a4466b99c64cd47f91aec55ce7ef75362", null ],
+      [ "TIME_SHOP_STOP", "d7/dc8/a02264.html#aec2c916c560ca6ceedd660d3b140e728abbe7d7ba7ba0306763dbae08e8d04afd", null ],
+      [ "TIME_HIRE_STOP", "d7/dc8/a02264.html#aec2c916c560ca6ceedd660d3b140e728a988424f7f1f59cb5b30cef0ba4b8f3f7", null ],
+      [ "NPC_KOLKAR_WAYLAYER", "d7/dc8/a02264.html#aec2c916c560ca6ceedd660d3b140e728af42ec3a8ba079cb93c6ad5406dcc4ece", null ],
+      [ "NPC_KOLKAR_AMBUSHER", "d7/dc8/a02264.html#aec2c916c560ca6ceedd660d3b140e728a7a9eb27a8fb0e7ef6c66a86720d9233c", null ],
+      [ "NPC_LESSER_INFERNAL", "d7/dc8/a02264.html#aec2c916c560ca6ceedd660d3b140e728aae0903900c838cf1102ca86baa598224", null ],
+      [ "NPC_DOOMWARDER", "d7/dc8/a02264.html#aec2c916c560ca6ceedd660d3b140e728ae43176493b6aa526db1f2f2912bf6027", null ],
+      [ "NPC_NETHER", "d7/dc8/a02264.html#aec2c916c560ca6ceedd660d3b140e728ac95afd23fdda714496e33c6aab109eda", null ]
     ] ],
-    [ "AhnKahetCreatures", "d7/dc8/a02264.html#a0a7022dbeba8e4c5922bca61c1ac6be0", [
-      [ "NPC_ELDER_NADOX", "d7/dc8/a02264.html#a0a7022dbeba8e4c5922bca61c1ac6be0adefb6eeafb4e1c648ef5431666cee303", null ],
-      [ "NPC_PRINCE_TALDARAM", "d7/dc8/a02264.html#a0a7022dbeba8e4c5922bca61c1ac6be0ae7602060d95905d39d735be974c99c5f", null ],
-      [ "NPC_JEDOGA_SHADOWSEEKER", "d7/dc8/a02264.html#a0a7022dbeba8e4c5922bca61c1ac6be0a8f4808be30a572ba6dc967dde518e092", null ],
-      [ "NPC_HERALD_VOLAZJ", "d7/dc8/a02264.html#a0a7022dbeba8e4c5922bca61c1ac6be0a5c1e93f3700ea72caa137ad6848e3c85", null ],
-      [ "NPC_AMANITAR", "d7/dc8/a02264.html#a0a7022dbeba8e4c5922bca61c1ac6be0a34c1714ae003f663cb2b8951810d661f", null ],
-      [ "NPC_JEDOGA_CONTROLLER", "d7/dc8/a02264.html#a0a7022dbeba8e4c5922bca61c1ac6be0acf6f2f93580795c52ed4700df297d549", null ]
+    [ "DyingKodo", "d7/dc8/a02264.html#af45ec6fee60329d3c66726e0fa939663", [
+      [ "SAY_SMEED_HOME", "d7/dc8/a02264.html#af45ec6fee60329d3c66726e0fa939663a07ed71cb461662af72c9811505b9c955", null ],
+      [ "QUEST_KODO", "d7/dc8/a02264.html#af45ec6fee60329d3c66726e0fa939663a8019fb9754f039595728a149d4c3214f", null ],
+      [ "NPC_TEXT_KODO", "d7/dc8/a02264.html#af45ec6fee60329d3c66726e0fa939663a934cabb76d1cbddd53e5a682b3560c7e", null ],
+      [ "NPC_SMEED", "d7/dc8/a02264.html#af45ec6fee60329d3c66726e0fa939663ab289aa3f772d2e87dad418d075ab8dce", null ],
+      [ "NPC_AGED_KODO", "d7/dc8/a02264.html#af45ec6fee60329d3c66726e0fa939663ab93894e9256e085d45fb24b0d544e154", null ],
+      [ "NPC_DYING_KODO", "d7/dc8/a02264.html#af45ec6fee60329d3c66726e0fa939663a6116f630ddd9390420cc6aa4230a862e", null ],
+      [ "NPC_ANCIENT_KODO", "d7/dc8/a02264.html#af45ec6fee60329d3c66726e0fa939663a1267b33b446af4c80d35df16c24e2ac3", null ],
+      [ "NPC_TAMED_KODO", "d7/dc8/a02264.html#af45ec6fee60329d3c66726e0fa939663a47e69d141a6091158f3102f0ebc301e3", null ],
+      [ "SPELL_KODO_KOMBO_ITEM", "d7/dc8/a02264.html#af45ec6fee60329d3c66726e0fa939663ad0806f22dfe303368c6bfef3b25bdbe9", null ],
+      [ "SPELL_KODO_KOMBO_PLAYER_BUFF", "d7/dc8/a02264.html#af45ec6fee60329d3c66726e0fa939663a77343420c8740b50963dbc05382dc5ea", null ],
+      [ "SPELL_KODO_KOMBO_DESPAWN_BUFF", "d7/dc8/a02264.html#af45ec6fee60329d3c66726e0fa939663abf5a59eb8d83eefa21ea7e9b53e96ad5", null ],
+      [ "SPELL_KODO_KOMBO_GOSSIP", "d7/dc8/a02264.html#af45ec6fee60329d3c66726e0fa939663a08489d27d91546512009b1555fa59de3", null ]
     ] ],
-    [ "AhnkahetData", "d7/dc8/a02264.html#aff905f3bb30004af8919ddfe3d29e8dd", [
-      [ "DATA_ELDER_NADOX", "d7/dc8/a02264.html#aff905f3bb30004af8919ddfe3d29e8dda770adca9032e015945b302877eea180f", null ],
-      [ "DATA_PRINCE_TALDARAM", "d7/dc8/a02264.html#aff905f3bb30004af8919ddfe3d29e8ddaaedbd25489af19057ce8227250867ce0", null ],
-      [ "DATA_JEDOGA_SHADOWSEEKER", "d7/dc8/a02264.html#aff905f3bb30004af8919ddfe3d29e8dda5898d17f647609f063f3a809dc2fec66", null ],
-      [ "DATA_HERALD_VOLAZJ", "d7/dc8/a02264.html#aff905f3bb30004af8919ddfe3d29e8dda30b8528fb302a8f32b4db9e72b4889e5", null ],
-      [ "DATA_AMANITAR", "d7/dc8/a02264.html#aff905f3bb30004af8919ddfe3d29e8dda7146f172ca0fe8e80c667a510874a94f", null ],
-      [ "DATA_PRINCE_TALDARAM_PLATFORM", "d7/dc8/a02264.html#aff905f3bb30004af8919ddfe3d29e8dda75ab4b9865126fdcf77107ef317fe7cc", null ]
-    ] ],
-    [ "AhnkahetObjects", "d7/dc8/a02264.html#a497b1d427e80ac610cd1cc5e3bc2a02f", [
-      [ "GO_TELDARAM_DOOR", "d7/dc8/a02264.html#a497b1d427e80ac610cd1cc5e3bc2a02fa597526245130273d3e77a1e411a81811", null ],
-      [ "GO_TELDARAM_SPHERE1", "d7/dc8/a02264.html#a497b1d427e80ac610cd1cc5e3bc2a02fa4586ff1377f4e4c184e57a56e7f962ed", null ],
-      [ "GO_TELDARAM_SPHERE2", "d7/dc8/a02264.html#a497b1d427e80ac610cd1cc5e3bc2a02fa637eb0aff225b388e0c611a9cbccd03e", null ],
-      [ "GO_TELDARAM_PLATFORM", "d7/dc8/a02264.html#a497b1d427e80ac610cd1cc5e3bc2a02fa9ae027e64960ba5d20a93c5123469e74", null ]
-    ] ],
-    [ "AhnKahetPersistentData", "d7/dc8/a02264.html#acc056f2f7be3fe09395716ca57e7c7f3", [
-      [ "DATA_TELDRAM_SPHERE1", "d7/dc8/a02264.html#acc056f2f7be3fe09395716ca57e7c7f3a748636fe536f29e09b02edcebc095d56", null ],
-      [ "DATA_TELDRAM_SPHERE2", "d7/dc8/a02264.html#acc056f2f7be3fe09395716ca57e7c7f3aa71df9961714e4f37168c84236d3ca51", null ],
-      [ "MAX_PERSISTENT_DATA", "d7/dc8/a02264.html#acc056f2f7be3fe09395716ca57e7c7f3ade8daf2d97d89b7bc637c9b5550e0449", null ]
-    ] ],
-    [ "AhnkahetSpells", "d7/dc8/a02264.html#a04c8c0beb3d5fd05b695be78e77cfe8d", [
-      [ "SPELL_SHADOW_SICKLE", "d7/dc8/a02264.html#a04c8c0beb3d5fd05b695be78e77cfe8dacf16c95dd7397632ddf94f2d9f3c3c39", null ]
-    ] ],
-    [ "AhnKahetTexts", "d7/dc8/a02264.html#ad2ad73bb93c442e3d70b9efad1b6c305", [
-      [ "SAY_SPHERE_ACTIVATED", "d7/dc8/a02264.html#ad2ad73bb93c442e3d70b9efad1b6c305aea5e4c72402492816a8bafad5323cff8", null ]
-    ] ],
-    [ "GetAhnKahetAI", "d7/dc8/a02264.html#a7d67882176cbe7ff747f0bb785985b00", null ],
-    [ "MAX_ENCOUNTER", "d7/dc8/a02264.html#a42b654ad1177faa1b68541d8c6ca1fae", null ]
+    [ "AddSC_desolace", "d7/dc8/a02264.html#a626ec1db47701aabca9f7bda1c8b7c7a", null ]
 ];

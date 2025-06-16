@@ -1,6 +1,6 @@
 var a24003 =
 [
-    [ "go_beaconAI", "da/d85/a24007.html", "da/d85/a24007" ],
-    [ "go_beacon", "d9/d19/a24003.html#ad4224cabdc7210d9a0a46fb1eed1a23b", null ],
-    [ "GetAI", "d9/d19/a24003.html#abd168f0c1ac9a64cece280758f3120d4", null ]
+    [ "go_magtheridons_head", "d9/d19/a24003.html#af5816b083f1856196bec7a75f0a995f3", null ],
+    [ "InitializeAI", "d9/d19/a24003.html#a84fd97c0dfc2826a0b7795a9fbd70cd5", null ],
+    [ "OnStateChanged", "d9/d19/a24003.html#a28682d161074b71e1f2d70236ff2b897", null ]
 ];

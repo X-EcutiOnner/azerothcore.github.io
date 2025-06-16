@@ -1,6 +1,7 @@
 var a27547 =
 [
-    [ "npc_guardianAI", "d8/d06/a27551.html", "d8/d06/a27551" ],
-    [ "npc_guardian", "d4/d16/a27547.html#aa614e73ae6a6c128c323ac275652dbf1", null ],
-    [ "GetAI", "d4/d16/a27547.html#a3e65ccc70be9d25b2d8563c23146ef4f", null ]
+    [ "npc_guardianAI", "d4/d16/a27547.html#acc5d29a79e57fc023369c0dcd4b0d2a3", null ],
+    [ "JustEngagedWith", "d4/d16/a27547.html#a50257f80245bc59437e53083badcb056", null ],
+    [ "Reset", "d4/d16/a27547.html#a217df9bae079f56ffd70d27958fb2756", null ],
+    [ "UpdateAI", "d4/d16/a27547.html#ab42c39f088ef819a5ffb5f9f4ba2c3a3", null ]
 ];

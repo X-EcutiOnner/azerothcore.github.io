@@ -1,23 +1,20 @@
 var a01757 =
 [
-    [ "BattlegroundBE", "d8/d45/a07339.html", "d8/d45/a07339" ],
-    [ "BattlegroundBEGameObjects", "db/dc0/a01757.html#a1b0280d2208da5214e6132c85687575e", [
-      [ "BG_BE_OBJECT_TYPE_DOOR_1", "db/dc0/a01757.html#a1b0280d2208da5214e6132c85687575ea7668b0cb45bb8fcb5d169d52601f8ffc", null ],
-      [ "BG_BE_OBJECT_TYPE_DOOR_2", "db/dc0/a01757.html#a1b0280d2208da5214e6132c85687575ea4f5f05ba355663c10696918af17e7285", null ],
-      [ "BG_BE_OBJECT_TYPE_DOOR_3", "db/dc0/a01757.html#a1b0280d2208da5214e6132c85687575ea46f638ce865d69bfd79373d8105a8e83", null ],
-      [ "BG_BE_OBJECT_TYPE_DOOR_4", "db/dc0/a01757.html#a1b0280d2208da5214e6132c85687575eabd8ea2d0bde54698184bcfff07ffb6f6", null ],
-      [ "BG_BE_OBJECT_TYPE_BUFF_1", "db/dc0/a01757.html#a1b0280d2208da5214e6132c85687575ea828640a929b6a7559e1828cfdbf95f10", null ],
-      [ "BG_BE_OBJECT_TYPE_BUFF_2", "db/dc0/a01757.html#a1b0280d2208da5214e6132c85687575eac4122fbc499fb8d6ca4de47dfa6f3bab", null ]
-    ] ],
-    [ "BattlegroundBEObjectTypes", "db/dc0/a01757.html#ac30a97954fa7cc5e46429c1b15e02aa6", [
-      [ "BG_BE_OBJECT_DOOR_1", "db/dc0/a01757.html#ac30a97954fa7cc5e46429c1b15e02aa6a0df93d02d5b293963bebae8c18c3ae17", null ],
-      [ "BG_BE_OBJECT_DOOR_2", "db/dc0/a01757.html#ac30a97954fa7cc5e46429c1b15e02aa6a1bc43e32d61d4d2a6e605214b3498d0e", null ],
-      [ "BG_BE_OBJECT_DOOR_3", "db/dc0/a01757.html#ac30a97954fa7cc5e46429c1b15e02aa6a65b47239921b2cc82d549ec06684dcbb", null ],
-      [ "BG_BE_OBJECT_DOOR_4", "db/dc0/a01757.html#ac30a97954fa7cc5e46429c1b15e02aa6ac892d4ba71d39d87a754d48158edafc5", null ],
-      [ "BG_BE_OBJECT_BUFF_1", "db/dc0/a01757.html#ac30a97954fa7cc5e46429c1b15e02aa6a7467355220ec6cd486b4d31f2017b176", null ],
-      [ "BG_BE_OBJECT_BUFF_2", "db/dc0/a01757.html#ac30a97954fa7cc5e46429c1b15e02aa6ac11771a5f0517038daf7fe96e7cf00eb", null ],
-      [ "BG_BE_OBJECT_READY_MARKER_1", "db/dc0/a01757.html#ac30a97954fa7cc5e46429c1b15e02aa6a24a38ed55bbaaed44bea527c0b11cd09", null ],
-      [ "BG_BE_OBJECT_READY_MARKER_2", "db/dc0/a01757.html#ac30a97954fa7cc5e46429c1b15e02aa6a6bd3edd28c4d84ebc22f367173a2704d", null ],
-      [ "BG_BE_OBJECT_MAX", "db/dc0/a01757.html#ac30a97954fa7cc5e46429c1b15e02aa6a4f887547bcc1f47df4522c823c507d6f", null ]
+    [ "WorldScript", "dd/dd8/a10375.html", "dd/dd8/a10375" ],
+    [ "WorldHook", "db/dc0/a01757.html#a4d497fc434376a9edca1897eabc39493", [
+      [ "WORLDHOOK_ON_OPEN_STATE_CHANGE", "db/dc0/a01757.html#a4d497fc434376a9edca1897eabc39493a1115383e9c9ccf62f08548733c8f5f1c", null ],
+      [ "WORLDHOOK_ON_AFTER_CONFIG_LOAD", "db/dc0/a01757.html#a4d497fc434376a9edca1897eabc39493af6efa892b7f5bfd295f23a9b8afc6ad7", null ],
+      [ "WORLDHOOK_ON_LOAD_CUSTOM_DATABASE_TABLE", "db/dc0/a01757.html#a4d497fc434376a9edca1897eabc39493ab212a383f870b580ecf69fd1df3f9213", null ],
+      [ "WORLDHOOK_ON_BEFORE_CONFIG_LOAD", "db/dc0/a01757.html#a4d497fc434376a9edca1897eabc39493ac0d62a83ca416843503c5c9eac516901", null ],
+      [ "WORLDHOOK_ON_MOTD_CHANGE", "db/dc0/a01757.html#a4d497fc434376a9edca1897eabc39493a7080a363df28c0ffb71d52ee18b85f8c", null ],
+      [ "WORLDHOOK_ON_SHUTDOWN_INITIATE", "db/dc0/a01757.html#a4d497fc434376a9edca1897eabc39493ab554902e66fb497dbb3ac74151fe8bb7", null ],
+      [ "WORLDHOOK_ON_SHUTDOWN_CANCEL", "db/dc0/a01757.html#a4d497fc434376a9edca1897eabc39493a86b7bcb6f946ccb6d6c444773054ecb6", null ],
+      [ "WORLDHOOK_ON_UPDATE", "db/dc0/a01757.html#a4d497fc434376a9edca1897eabc39493a891997df42f33b397fe3c92cf68e3aca", null ],
+      [ "WORLDHOOK_ON_STARTUP", "db/dc0/a01757.html#a4d497fc434376a9edca1897eabc39493abaa74ee704d5eb3634a515fe131e66fa", null ],
+      [ "WORLDHOOK_ON_SHUTDOWN", "db/dc0/a01757.html#a4d497fc434376a9edca1897eabc39493a804c550dd48cb62983e43dfed1ba2176", null ],
+      [ "WORLDHOOK_ON_AFTER_UNLOAD_ALL_MAPS", "db/dc0/a01757.html#a4d497fc434376a9edca1897eabc39493a02253717dde1cc98a2643eefd76f0d91", null ],
+      [ "WORLDHOOK_ON_BEFORE_FINALIZE_PLAYER_WORLD_SESSION", "db/dc0/a01757.html#a4d497fc434376a9edca1897eabc39493a962dfc07ec34ca7510d8759c193ba56e", null ],
+      [ "WORLDHOOK_ON_BEFORE_WORLD_INITIALIZED", "db/dc0/a01757.html#a4d497fc434376a9edca1897eabc39493a2e95fec6ec46709803e187fe3c60f427", null ],
+      [ "WORLDHOOK_END", "db/dc0/a01757.html#a4d497fc434376a9edca1897eabc39493a1a7e32e7ba7aec9dc7b8edd43a903800", null ]
     ] ]
 ];

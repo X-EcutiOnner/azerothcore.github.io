@@ -1,7 +1,6 @@
 var a24091 =
 [
-    [ "HandleScriptEffect", "dd/d40/a24091.html#ad018d907a85ee31d3194823a4c02a1a5", null ],
-    [ "PrepareSpellScript", "dd/d40/a24091.html#a50b6bc43eaeee0ec760c02ac1685454e", null ],
-    [ "Register", "dd/d40/a24091.html#a2096673a3f57cc224aeb7d3ce84526cb", null ],
-    [ "Validate", "dd/d40/a24091.html#a5209de3456c374010502a94f67ff4544", null ]
+    [ "npc_invis_infernal_casterAI", "d9/de2/a24095.html", "d9/de2/a24095" ],
+    [ "npc_invis_infernal_caster", "dd/d40/a24091.html#a9aed081ef904075830428bbc76f53874", null ],
+    [ "GetAI", "dd/d40/a24091.html#aede0c5cc390ea423169b1cba66d929cd", null ]
 ];

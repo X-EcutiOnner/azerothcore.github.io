@@ -1,4 +1,7 @@
 var a01661 =
 [
-    [ "minPctTeamGamesForMemberToGetReward", "d4/d41/a01661.html#a4d7ce2e01ab25ea6833099b2821b6b5b", null ]
+    [ "OutdoorPvPData", "db/dfb/a10087.html", "db/dfb/a10087" ],
+    [ "OutdoorPvPMgr", "dc/de2/a10091.html", "dc/de2/a10091" ],
+    [ "OUTDOORPVP_OBJECTIVE_UPDATE_INTERVAL", "d4/d41/a01661.html#af3942e94a2b618e59d9a607df883023b", null ],
+    [ "sOutdoorPvPMgr", "d4/d41/a01661.html#a7f16e829e6dd717c8a6a20fd1aa783cc", null ]
 ];

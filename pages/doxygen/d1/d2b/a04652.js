@@ -1,9 +1,11 @@
 var a04652 =
 [
-    [ "ListFilesResult", "d1/d2b/a04652.html#a030b28c9f552c0de4a4b4844fc5e6101", [
-      [ "LISTFILE_DIRECTORY_NOT_FOUND", "d1/d2b/a04652.html#a030b28c9f552c0de4a4b4844fc5e6101a868c0f60f6afa222577730606ed493a6", null ],
-      [ "LISTFILE_OK", "d1/d2b/a04652.html#a030b28c9f552c0de4a4b4844fc5e6101a952e90f65bfd2eefbd80a8b830eb5687", null ]
-    ] ],
-    [ "getDirContents", "d1/d2b/a04652.html#a3620968f3c1f5c1a3bb0c809ab0eb4ab", null ],
-    [ "matchWildcardFilter", "d1/d2b/a04652.html#a0b1c31a5b3e8bebc7fa860b40f7997e1", null ]
+    [ "ADT::MDDF", "de/de8/a28671.html", "de/de8/a28671" ],
+    [ "ADT::MODF", "d2/d4c/a28675.html", "d2/d4c/a28675" ],
+    [ "ADTFile", "d7/d04/a28679.html", "d7/d04/a28679" ],
+    [ "fixname2", "d1/d2b/a04652.html#ac0029be4572a61d00eb1435db5526a74", null ],
+    [ "fixnamen", "d1/d2b/a04652.html#abdc56edc46e0804c456749761cff8daf", null ],
+    [ "GetExtension", "d1/d2b/a04652.html#ac3f75fc482c41471364c2c3e8bd1dd96", null ],
+    [ "GetPlainName", "d1/d2b/a04652.html#a5e577b4c8e75312883ba4e8c571908ca", null ],
+    [ "GetPlainName", "d1/d2b/a04652.html#a05f8969fb6d17548033afc24b906a83f", null ]
 ];

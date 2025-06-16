@@ -1,8 +1,8 @@
 var a01556 =
 [
-    [ "SelectableGameObjectAI", "d3/d61/a06163.html", "d3/d61/a06163" ],
-    [ "GameObjectAIFactory< REAL_GO_AI >", "da/da9/a06167.html", "da/da9/a06167" ],
-    [ "sGameObjectAIRegistry", "d7/db6/a01556.html#ac9d2663769f7235631c142a4346922a9", null ],
-    [ "GameObjectAICreator", "d7/db6/a01556.html#abf0182bf1e43c6ea243acb940a03e6fa", null ],
-    [ "GameObjectAIRegistry", "d7/db6/a01556.html#a9482a5649b9d911e3d058c099101f929", null ]
+    [ "SelectableAI", "d1/d10/a06147.html", "d1/d10/a06147" ],
+    [ "CreatureAIFactory< REAL_AI >", "d2/dc1/a06151.html", "d2/dc1/a06151" ],
+    [ "sCreatureAIRegistry", "d7/db6/a01556.html#a08e073e90e01d97b74e2331f15bf6122", null ],
+    [ "CreatureAICreator", "d7/db6/a01556.html#a0979444cdc957651f0b4bc9e3c24934b", null ],
+    [ "CreatureAIRegistry", "d7/db6/a01556.html#a3eebee4b886bee76d38357a472a9a5ae", null ]
 ];

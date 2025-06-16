@@ -1,8 +1,13 @@
 var a27439 =
 [
-    [ "npc_nelsonAI", "d0/de3/a27443.html", "d0/de3/a27443" ],
-    [ "npc_nelson", "dc/dd5/a27439.html#ada597926a6db1aa7823ddabc19945b11", null ],
-    [ "GetAI", "dc/dd5/a27439.html#a75fea281fb49249345c48236bf44b1c8", null ],
-    [ "OnGossipHello", "dc/dd5/a27439.html#aa693b365a15d4617f214f9c3c229bf89", null ],
-    [ "OnGossipSelect", "dc/dd5/a27439.html#aff8e412cfcabd7b653cd30d29878be6a", null ]
+    [ "npc_nelsonAI", "dc/dd5/a27439.html#af6aada5c34048ce6bda6d5c1541e0bf3", null ],
+    [ "DoAction", "dc/dd5/a27439.html#a13ec2adee9d671f949139dbf94c75cc3", null ],
+    [ "JustEngagedWith", "dc/dd5/a27439.html#accb9aeb3b3f3fc2233598b7fef40c3ec", null ],
+    [ "JustSummoned", "dc/dd5/a27439.html#a31d622d73a2540e159720d4c8ddc7d00", null ],
+    [ "Reset", "dc/dd5/a27439.html#a05fcb98153f0a24f50004f465d8f3c72", null ],
+    [ "SpellHit", "dc/dd5/a27439.html#afab81d8a6077c755c186bb619944d78d", null ],
+    [ "SummonedCreatureDies", "dc/dd5/a27439.html#ab3753c9b6848c1567ac596a5f6b498a1", null ],
+    [ "UpdateAI", "dc/dd5/a27439.html#ac68749942f37de5f9105556fe7b904b7", null ],
+    [ "events", "dc/dd5/a27439.html#a25eb289b79de306bbdc0dd099b23a2a0", null ],
+    [ "shouldDespawn", "dc/dd5/a27439.html#a09a68f903854fcedd8a4b2ee4c2597e2", null ]
 ];

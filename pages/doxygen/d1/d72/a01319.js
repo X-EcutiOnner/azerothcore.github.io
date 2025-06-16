@@ -1,30 +1,47 @@
 var a01319 =
 [
-    [ "UnitScript", "df/db8/a10355.html", "df/db8/a10355" ],
-    [ "UnitHook", "d1/d72/a01319.html#a4eaefcbbd1058569f55194299c218c26", [
-      [ "UNITHOOK_ON_HEAL", "d1/d72/a01319.html#a4eaefcbbd1058569f55194299c218c26afb576f10646cffe0868efddf3e7aa256", null ],
-      [ "UNITHOOK_ON_DAMAGE", "d1/d72/a01319.html#a4eaefcbbd1058569f55194299c218c26a62c0eeb1f01d869aab444cfe76e2116b", null ],
-      [ "UNITHOOK_MODIFY_PERIODIC_DAMAGE_AURAS_TICK", "d1/d72/a01319.html#a4eaefcbbd1058569f55194299c218c26a022b3554d4b0bded731bb10590f7abde", null ],
-      [ "UNITHOOK_MODIFY_MELEE_DAMAGE", "d1/d72/a01319.html#a4eaefcbbd1058569f55194299c218c26a740266abae12f6909df18d7f112b8bca", null ],
-      [ "UNITHOOK_MODIFY_SPELL_DAMAGE_TAKEN", "d1/d72/a01319.html#a4eaefcbbd1058569f55194299c218c26a9d3c4b797fc29f1adc4751d2fc6f507e", null ],
-      [ "UNITHOOK_MODIFY_HEAL_RECEIVED", "d1/d72/a01319.html#a4eaefcbbd1058569f55194299c218c26a46fbfaf61c3d0c65a02d8450baaae5cd", null ],
-      [ "UNITHOOK_ON_BEFORE_ROLL_MELEE_OUTCOME_AGAINST", "d1/d72/a01319.html#a4eaefcbbd1058569f55194299c218c26a5d1637c534db2ba75c473d0b4c225f49", null ],
-      [ "UNITHOOK_ON_AURA_APPLY", "d1/d72/a01319.html#a4eaefcbbd1058569f55194299c218c26ac928edfab8c8b1fc13c8f8126f5440ae", null ],
-      [ "UNITHOOK_ON_AURA_REMOVE", "d1/d72/a01319.html#a4eaefcbbd1058569f55194299c218c26aa3501eebed0af3d2470808a30f9c1a5e", null ],
-      [ "UNITHOOK_IF_NORMAL_REACTION", "d1/d72/a01319.html#a4eaefcbbd1058569f55194299c218c26acf1161bacf692693081683ef22f09c5c", null ],
-      [ "UNITHOOK_IS_NEEDMOD_SPELL_DAMAGE_PERCENT", "d1/d72/a01319.html#a4eaefcbbd1058569f55194299c218c26afcdac3c6c72041d7c2bed9c71811f223", null ],
-      [ "UNITHOOK_IS_NEEDMOD_MELEE_DAMAGE_PERCENT", "d1/d72/a01319.html#a4eaefcbbd1058569f55194299c218c26ad8b8880b23c3e9ce4ab482cc2ee2375a", null ],
-      [ "UNITHOOK_IS_NEEDMOD_HEAL_PERCENT", "d1/d72/a01319.html#a4eaefcbbd1058569f55194299c218c26ae15a260476ff0ce2435be2ed12bd5c6e", null ],
-      [ "UNITHOOK_CAN_SET_PHASE_MASK", "d1/d72/a01319.html#a4eaefcbbd1058569f55194299c218c26a1a63709d3c29f7cbdd99a4307bf8ed93", null ],
-      [ "UNITHOOK_IS_CUSTOM_BUILD_VALUES_UPDATE", "d1/d72/a01319.html#a4eaefcbbd1058569f55194299c218c26ac14c60774f62f84baef5839831e875c7", null ],
-      [ "UNITHOOK_SHOULD_TRACK_VALUES_UPDATE_POS_BY_INDEX", "d1/d72/a01319.html#a4eaefcbbd1058569f55194299c218c26ab6257ae823fecbde4bcb0c9c1cdf4762", null ],
-      [ "UNITHOOK_ON_PATCH_VALUES_UPDATE", "d1/d72/a01319.html#a4eaefcbbd1058569f55194299c218c26a4ed2a82b73990b4ba2e1d0c317df5d82", null ],
-      [ "UNITHOOK_ON_UNIT_UPDATE", "d1/d72/a01319.html#a4eaefcbbd1058569f55194299c218c26a2bc86ad3742f6fbc38e6030215587e6f", null ],
-      [ "UNITHOOK_ON_DISPLAYID_CHANGE", "d1/d72/a01319.html#a4eaefcbbd1058569f55194299c218c26a1f0200b57821e6e6bad8ea268ff4a6d1", null ],
-      [ "UNITHOOK_ON_UNIT_ENTER_EVADE_MODE", "d1/d72/a01319.html#a4eaefcbbd1058569f55194299c218c26a3cc39d8a6535a3347ce91048c9c7f27e", null ],
-      [ "UNITHOOK_ON_UNIT_ENTER_COMBAT", "d1/d72/a01319.html#a4eaefcbbd1058569f55194299c218c26a0b91b88b22f4354b14b1864afb187957", null ],
-      [ "UNITHOOK_ON_UNIT_DEATH", "d1/d72/a01319.html#a4eaefcbbd1058569f55194299c218c26aa21248825ee1e2f7e9f3eac05561ab57", null ],
-      [ "UNITHOOK_ON_UNIT_SET_SHAPESHIFT_FORM", "d1/d72/a01319.html#a4eaefcbbd1058569f55194299c218c26a6ade1eeb61b044e91d50f1f91c14bcd6", null ],
-      [ "UNITHOOK_END", "d1/d72/a01319.html#a4eaefcbbd1058569f55194299c218c26af159e92a1ac42831ecbad7dbb708f352", null ]
+    [ "MailSender", "d7/d95/a09683.html", "d7/d95/a09683" ],
+    [ "MailReceiver", "db/d4f/a09687.html", "db/d4f/a09687" ],
+    [ "MailDraft", "d6/db9/a09691.html", "d6/db9/a09691" ],
+    [ "MailItemInfo", "df/dc8/a09695.html", "df/dc8/a09695" ],
+    [ "Mail", "d1/d90/a09699.html", "d1/d90/a09699" ],
+    [ "MAIL_BODY_ITEM_TEMPLATE", "d1/d72/a01319.html#a400524cb6bb97f3dfaa616a2afae05db", null ],
+    [ "MAX_MAIL_ITEMS", "d1/d72/a01319.html#a92d79b5b2210d828abe28a8834a50770", null ],
+    [ "MailItemInfoVec", "d1/d72/a01319.html#a5f97bcac5adeb0d52a6360c8aa0d0938", null ],
+    [ "MailCheckMask", "d1/d72/a01319.html#a9738cb9d4ddff5f3b2a406f8d9c469cc", [
+      [ "MAIL_CHECK_MASK_NONE", "d1/d72/a01319.html#a9738cb9d4ddff5f3b2a406f8d9c469cca65bb77bc25220e08e3c065ad070b9888", null ],
+      [ "MAIL_CHECK_MASK_READ", "d1/d72/a01319.html#a9738cb9d4ddff5f3b2a406f8d9c469cca3b48ed5fecdcd88c0a15e74b0853c03b", null ],
+      [ "MAIL_CHECK_MASK_RETURNED", "d1/d72/a01319.html#a9738cb9d4ddff5f3b2a406f8d9c469cca5f7f5d671d1137cc0dd8b88a6579454a", null ],
+      [ "MAIL_CHECK_MASK_COPIED", "d1/d72/a01319.html#a9738cb9d4ddff5f3b2a406f8d9c469cca9170ec2a04d365ca0a6167cad4a2e2fb", null ],
+      [ "MAIL_CHECK_MASK_COD_PAYMENT", "d1/d72/a01319.html#a9738cb9d4ddff5f3b2a406f8d9c469cca4cef0afe6ff002d8e7089cb2eddf1468", null ],
+      [ "MAIL_CHECK_MASK_HAS_BODY", "d1/d72/a01319.html#a9738cb9d4ddff5f3b2a406f8d9c469cca348c2227a2767173436f2f88dfe37716", null ]
+    ] ],
+    [ "MailMessageType", "d1/d72/a01319.html#afb83216fd8c410f5d4bdfef0f9b302ed", [
+      [ "MAIL_NORMAL", "d1/d72/a01319.html#afb83216fd8c410f5d4bdfef0f9b302edaad2526a166df2caa50762ff348a2f54a", null ],
+      [ "MAIL_AUCTION", "d1/d72/a01319.html#afb83216fd8c410f5d4bdfef0f9b302eda1c6b723dd78af975a7ec8a3562361330", null ],
+      [ "MAIL_CREATURE", "d1/d72/a01319.html#afb83216fd8c410f5d4bdfef0f9b302eda462b01f59d339ec67b080f100e97256c", null ],
+      [ "MAIL_GAMEOBJECT", "d1/d72/a01319.html#afb83216fd8c410f5d4bdfef0f9b302eda4398082ad7546f3811f818835522100d", null ],
+      [ "MAIL_CALENDAR", "d1/d72/a01319.html#afb83216fd8c410f5d4bdfef0f9b302eda99dc24213703b6afb3639762a349c258", null ]
+    ] ],
+    [ "MailShowFlags", "d1/d72/a01319.html#a03de18fb5d90aaaa9daa333ddbe2d394", [
+      [ "MAIL_SHOW_UNK0", "d1/d72/a01319.html#a03de18fb5d90aaaa9daa333ddbe2d394a5d741597d486fff4283ab7bfeaa32ecc", null ],
+      [ "MAIL_SHOW_DELETE", "d1/d72/a01319.html#a03de18fb5d90aaaa9daa333ddbe2d394a7d87ac4c7be1c9b63837bd39706eba07", null ],
+      [ "MAIL_SHOW_AUCTION", "d1/d72/a01319.html#a03de18fb5d90aaaa9daa333ddbe2d394ac82b5f53ff29204c00b9479712bfeb72", null ],
+      [ "MAIL_SHOW_UNK2", "d1/d72/a01319.html#a03de18fb5d90aaaa9daa333ddbe2d394a2fe725e9d54355a13c1322a8d81da6a3", null ],
+      [ "MAIL_SHOW_RETURN", "d1/d72/a01319.html#a03de18fb5d90aaaa9daa333ddbe2d394a9bfa489acd6be01c57410679c81d5a9e", null ]
+    ] ],
+    [ "MailState", "d1/d72/a01319.html#a38d587a785c6fa4c4342574233684a20", [
+      [ "MAIL_STATE_UNCHANGED", "d1/d72/a01319.html#a38d587a785c6fa4c4342574233684a20ae16408762dbf072dd193ffe6b3097047", null ],
+      [ "MAIL_STATE_CHANGED", "d1/d72/a01319.html#a38d587a785c6fa4c4342574233684a20aac816c9be99273eb826bf89eda08f1bb", null ],
+      [ "MAIL_STATE_DELETED", "d1/d72/a01319.html#a38d587a785c6fa4c4342574233684a20a3645936325ffbfb6858bcbb312b9072a", null ]
+    ] ],
+    [ "MailStationery", "d1/d72/a01319.html#a97c589393fcefa82854f195693493094", [
+      [ "MAIL_STATIONERY_TEST", "d1/d72/a01319.html#a97c589393fcefa82854f195693493094a08c959967722eb59a73866b06fff4ee1", null ],
+      [ "MAIL_STATIONERY_DEFAULT", "d1/d72/a01319.html#a97c589393fcefa82854f195693493094ab18c50370e3504660676eeab1fed7a68", null ],
+      [ "MAIL_STATIONERY_GM", "d1/d72/a01319.html#a97c589393fcefa82854f195693493094a39230800d1e1c4dbd3c46fbaaba39541", null ],
+      [ "MAIL_STATIONERY_AUCTION", "d1/d72/a01319.html#a97c589393fcefa82854f195693493094aef86d2a36ec87427177f03b971bf4fcd", null ],
+      [ "MAIL_STATIONERY_VAL", "d1/d72/a01319.html#a97c589393fcefa82854f195693493094acf69185a7c40dad17bf89924f8c89cd5", null ],
+      [ "MAIL_STATIONERY_CHR", "d1/d72/a01319.html#a97c589393fcefa82854f195693493094a3f6ed9e1ee49995d1854786d3ab7b5a0", null ],
+      [ "MAIL_STATIONERY_ORP", "d1/d72/a01319.html#a97c589393fcefa82854f195693493094aa349afbb838c106b8d4e161b7611583c", null ]
     ] ]
 ];

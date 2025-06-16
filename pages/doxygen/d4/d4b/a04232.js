@@ -1,4 +1,4 @@
 var a04232 =
 [
-    [ "AppenderFile", "d6/daf/a05323.html", "d6/daf/a05323" ]
+    [ "Logger", "dc/d4e/a05331.html", "dc/d4e/a05331" ]
 ];

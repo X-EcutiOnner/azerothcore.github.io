@@ -1,11 +1,14 @@
 var a03572 =
 [
-    [ "instance_hyjal", "d2/d38/a14631.html", "d2/d38/a14631" ],
-    [ "instance_hyjal::instance_mount_hyjal_InstanceMapScript", "d0/d7f/a14635.html", "d0/d7f/a14635" ],
-    [ "AddSC_instance_mount_hyjal", "d8/db0/a03572.html#a5c7a0ad3a2ae9f82eb9c45fbf90d5b41", null ],
-    [ "creatureData", "d8/db0/a03572.html#a412286b689bd324fedd65ddd8dde8afb", null ],
-    [ "doorData", "d8/db0/a03572.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
-    [ "hyjalNightElfWaveTimers", "d8/db0/a03572.html#ade7b4d2fdf8cd15fa4985554885eb881", null ],
-    [ "hyjalRetreatTimers", "d8/db0/a03572.html#a254787ab3a62d90e906ded9ef63aa229", null ],
-    [ "hyjalWaveTimers", "d8/db0/a03572.html#aaad50890c4534c5b5c848a9b85f3d8fe", null ]
+    [ "DataHeader", "d8/db0/a03572.html#a042491ef36459046f3866e90f15aae0d", null ],
+    [ "MTScriptName", "d8/db0/a03572.html#a772413d8818d681e2261c99f58e1268c", null ],
+    [ "RegisterManaTombsCreatureAI", "d8/db0/a03572.html#a7e2e8ea768842320ce5d953aeaddb176", null ],
+    [ "MTDataTypes", "d8/db0/a03572.html#a9ffea4a6410ded9f327ba6e91f8766ee", [
+      [ "DATA_PANDEMONIUS", "d8/db0/a03572.html#a9ffea4a6410ded9f327ba6e91f8766eeab1efde1b4aaad2daab0c383563a9f02a", null ],
+      [ "DATA_TAVAROK", "d8/db0/a03572.html#a9ffea4a6410ded9f327ba6e91f8766eea9245929feb24a0840eeff34e8c87de57", null ],
+      [ "DATA_NEXUSPRINCE_SHAFFAR", "d8/db0/a03572.html#a9ffea4a6410ded9f327ba6e91f8766eea07473250c26fb3874461362f93a75a97", null ],
+      [ "DATA_YOR", "d8/db0/a03572.html#a9ffea4a6410ded9f327ba6e91f8766eea738b876feae2daf42423688ca0f13289", null ]
+    ] ],
+    [ "GetManaTombsAI", "d8/db0/a03572.html#aaec5771a3ce0808b0a1bb0116b4fb9e3", null ],
+    [ "EncounterCount", "d8/db0/a03572.html#a31d630c40753c29f94ceac2db5e451a8", null ]
 ];

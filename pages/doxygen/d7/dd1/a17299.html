@@ -185,16 +185,16 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  133</span>        <span class="keywordflow">if</span> (!target-&gt;IsPlayer())</div>
 <div class="line"><span class="lineno">  134</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
 <div class="line"><span class="lineno">  135</span> </div>
-<div class="line"><span class="lineno">  136</span>        <span class="keywordflow">if</span> (target-&gt;HasAura(<a class="code hl_enumvalue" href="../../d6/dd7/a02375.html#a5bd342133be8c2137b831460acc9298cad7478b442fe070fc8de3634e2ffd8455">SPELL_BLOOD_MIRROR_DAMAGE</a>))</div>
+<div class="line"><span class="lineno">  136</span>        <span class="keywordflow">if</span> (target-&gt;HasAura(<a class="code hl_enumvalue" href="../../dc/d94/a02999.html#a5bd342133be8c2137b831460acc9298cad7478b442fe070fc8de3634e2ffd8455">SPELL_BLOOD_MIRROR_DAMAGE</a>))</div>
 <div class="line"><span class="lineno">  137</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
 <div class="line"><span class="lineno">  138</span> </div>
-<div class="line"><span class="lineno">  139</span>        <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d6/dd7/a02375.html#a5dd8666b4a520a91ee7430a7b67a34a8">IsVampire</a>(target))</div>
+<div class="line"><span class="lineno">  139</span>        <span class="keywordflow">if</span> (<a class="code hl_function" href="../../dc/d94/a02999.html#a5dd8666b4a520a91ee7430a7b67a34a8">IsVampire</a>(target))</div>
 <div class="line"><span class="lineno">  140</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
 <div class="line"><span class="lineno">  141</span> </div>
 <div class="line"><span class="lineno">  142</span>        <span class="keywordflow">return</span> target != <a class="code hl_variable" href="../../d7/dd1/a17299.html#af23a69491c915909566249b109b1f0e8">_source</a>-&gt;<a class="code hl_function" href="../../dd/d58/a08715.html#aae09d03a474ea5517d671e64dc393739">GetVictim</a>();</div>
 <div class="line"><span class="lineno">  143</span>    }</div>
-<div class="ttc" id="aa02375_html_a5bd342133be8c2137b831460acc9298cad7478b442fe070fc8de3634e2ffd8455"><div class="ttname"><a href="../../d6/dd7/a02375.html#a5bd342133be8c2137b831460acc9298cad7478b442fe070fc8de3634e2ffd8455">SPELL_BLOOD_MIRROR_DAMAGE</a></div><div class="ttdeci">@ SPELL_BLOOD_MIRROR_DAMAGE</div><div class="ttdef"><b>Definition:</b> boss_blood_queen_lana_thel.cpp:60</div></div>
-<div class="ttc" id="aa02375_html_a5dd8666b4a520a91ee7430a7b67a34a8"><div class="ttname"><a href="../../d6/dd7/a02375.html#a5dd8666b4a520a91ee7430a7b67a34a8">IsVampire</a></div><div class="ttdeci">bool IsVampire(Unit const *unit)</div><div class="ttdef"><b>Definition:</b> boss_blood_queen_lana_thel.cpp:84</div></div>
+<div class="ttc" id="aa02999_html_a5bd342133be8c2137b831460acc9298cad7478b442fe070fc8de3634e2ffd8455"><div class="ttname"><a href="../../dc/d94/a02999.html#a5bd342133be8c2137b831460acc9298cad7478b442fe070fc8de3634e2ffd8455">SPELL_BLOOD_MIRROR_DAMAGE</a></div><div class="ttdeci">@ SPELL_BLOOD_MIRROR_DAMAGE</div><div class="ttdef"><b>Definition:</b> boss_blood_queen_lana_thel.cpp:60</div></div>
+<div class="ttc" id="aa02999_html_a5dd8666b4a520a91ee7430a7b67a34a8"><div class="ttname"><a href="../../dc/d94/a02999.html#a5dd8666b4a520a91ee7430a7b67a34a8">IsVampire</a></div><div class="ttdeci">bool IsVampire(Unit const *unit)</div><div class="ttdef"><b>Definition:</b> boss_blood_queen_lana_thel.cpp:84</div></div>
 <div class="ttc" id="aa08715_html_aae09d03a474ea5517d671e64dc393739"><div class="ttname"><a href="../../dd/d58/a08715.html#aae09d03a474ea5517d671e64dc393739">Unit::GetVictim</a></div><div class="ttdeci">Unit * GetVictim() const</div><div class="ttdef"><b>Definition:</b> Unit.h:846</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00146">_source</a>, <a class="el" href="../../#l00846">Unit::GetVictim()</a>, <a class="el" href="../../#l05754">Unit::HasAura()</a>, <a class="el" href="../../#l00201">Object::IsPlayer()</a>, <a class="el" href="../../#l00084">IsVampire()</a>, and <a class="el" href="../../#l00060">SPELL_BLOOD_MIRROR_DAMAGE</a>.</p>
@@ -232,7 +232,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d7/dd1/a17299.html">VampiricBiteTargetSelector</a></li>
-    <li class="footer">Generated on Mon Jun 9 2025 20:48:15 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Jun 16 2025 20:49:38 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

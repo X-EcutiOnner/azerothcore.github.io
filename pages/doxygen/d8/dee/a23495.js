@@ -1,12 +1,12 @@
 var a23495 =
 [
-    [ "boss_omor_the_unscarred", "d8/dee/a23495.html#aeef6af0274425d9af5b5ada0d6aa7a2b", null ],
-    [ "JustDied", "d8/dee/a23495.html#a9ddae483a0f8cefd8a19975b60002660", null ],
-    [ "JustEngagedWith", "d8/dee/a23495.html#aa874d266d9a5ced45ea2ceb750370b1a", null ],
-    [ "JustSummoned", "d8/dee/a23495.html#a3503f9d13a5191c71013d77b79a8a4a3", null ],
-    [ "KilledUnit", "d8/dee/a23495.html#afc5c12a69d51638b67fcdf8098ff7da6", null ],
-    [ "Reset", "d8/dee/a23495.html#a0ec22c50cd096677a20299ab45a3c344", null ],
-    [ "UpdateAI", "d8/dee/a23495.html#aeb478325ea00f996b4c3c1584fe3965d", null ],
-    [ "_hasSpoken", "d8/dee/a23495.html#a3fe7684742f783cb1e68fcc7cfc0de7a", null ],
-    [ "_targetGUID", "d8/dee/a23495.html#a5ea9161b949e99f0a61498ed05d66d27", null ]
+    [ "boss_nazan", "d8/dee/a23495.html#a4390d3e181c4db46e364df3302612763", null ],
+    [ "AttackStart", "d8/dee/a23495.html#a7acea69f908e7a004c2a78c103528975", null ],
+    [ "DoAction", "d8/dee/a23495.html#abdb49e50dabda61c5d16b420ae69ae77", null ],
+    [ "EnterEvadeMode", "d8/dee/a23495.html#ab6338a7d240014e548b22044b788ce8f", null ],
+    [ "JustEngagedWith", "d8/dee/a23495.html#a4d44b759530f32207a46a608fb7d6209", null ],
+    [ "MovementInform", "d8/dee/a23495.html#ad35866322ff55263b1f8b105d2cad952", null ],
+    [ "Reset", "d8/dee/a23495.html#a5c10e932075130399a9127869f45ce1d", null ],
+    [ "UpdateAI", "d8/dee/a23495.html#a17942f19444ad324058d7b8c8a9aa9de", null ],
+    [ "_scheduler", "d8/dee/a23495.html#a8915d84ec4ffb8dade18041d5e910018", null ]
 ];

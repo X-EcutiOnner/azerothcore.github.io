@@ -6,11 +6,11 @@ var a01580 =
       [ "NPC_JAN_ALAI", "da/dd5/a01580.html#abaecf87f40b40c4c71ec596a0b73e911a0c9f05f129ebeb37c7b6a6bd0444caca", null ],
       [ "NPC_SARTHARION", "da/dd5/a01580.html#abaecf87f40b40c4c71ec596a0b73e911ac5fc96320a852557e13f1d4a95c8ff10", null ],
       [ "NPC_FREYA", "da/dd5/a01580.html#abaecf87f40b40c4c71ec596a0b73e911a5406e0387cdb4e28fe7718f28ec3d752", null ],
-      [ "NPC_INGVAR_UNDEAD", "dd/dd4/a02498.html#abaecf87f40b40c4c71ec596a0b73e911ac5f7785a73b2ea4946e698f73996e906", null ],
-      [ "NPC_ANNHYLDE", "dd/dd4/a02498.html#abaecf87f40b40c4c71ec596a0b73e911a244024200627132843a0b95f2fdefcb4", null ],
-      [ "NPC_THROW", "dd/dd4/a02498.html#abaecf87f40b40c4c71ec596a0b73e911a5c7c851e12a8c23ef9569157753a2546", null ],
-      [ "NPC_FROST_TOMB", "d6/d90/a02492.html#abaecf87f40b40c4c71ec596a0b73e911a8d3888198310322d79e29632f594ac76", null ],
-      [ "NPC_SKELETON", "d6/d90/a02492.html#abaecf87f40b40c4c71ec596a0b73e911ae6d4da6ba356104e95b11d5cd561d0f3", null ]
+      [ "NPC_INGVAR_UNDEAD", "d9/dc9/a03347.html#abaecf87f40b40c4c71ec596a0b73e911ac5f7785a73b2ea4946e698f73996e906", null ],
+      [ "NPC_ANNHYLDE", "d9/dc9/a03347.html#abaecf87f40b40c4c71ec596a0b73e911a244024200627132843a0b95f2fdefcb4", null ],
+      [ "NPC_THROW", "d9/dc9/a03347.html#abaecf87f40b40c4c71ec596a0b73e911a5c7c851e12a8c23ef9569157753a2546", null ],
+      [ "NPC_FROST_TOMB", "d6/d83/a03332.html#abaecf87f40b40c4c71ec596a0b73e911a8d3888198310322d79e29632f594ac76", null ],
+      [ "NPC_SKELETON", "d6/d83/a03332.html#abaecf87f40b40c4c71ec596a0b73e911ae6d4da6ba356104e95b11d5cd561d0f3", null ]
     ] ],
     [ "GetClosestCreatureWithEntry", "da/dd5/a01580.html#a136c0c059281a05f9cb91237ce55be7b", null ],
     [ "GetClosestGameObjectWithEntry", "da/dd5/a01580.html#a80b13d7c0fa3b835b0834955ed0f93d8", null ],

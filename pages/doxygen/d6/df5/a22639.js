@@ -1,6 +1,6 @@
 var a22639 =
 [
-    [ "PrepareSpellScript", "d6/df5/a22639.html#ad8640f1c01d64f8bbca16e0b636f7f21", null ],
-    [ "Register", "d6/df5/a22639.html#aa41700bf097963c5a352442723181037", null ],
-    [ "SelectTarget", "d6/df5/a22639.html#a15d790b134de8a8c7497ee8d0a6217ba", null ]
+    [ "PrepareSpellScript", "d6/df5/a22639.html#abd6b61e7efbed1427b7603640ac7d474", null ],
+    [ "RecalculateDamage", "d6/df5/a22639.html#a02b59e5ac84c8556c9a9441ff6414461", null ],
+    [ "Register", "d6/df5/a22639.html#ab6183bf9e49d3c11c256e54053c13aa2", null ]
 ];

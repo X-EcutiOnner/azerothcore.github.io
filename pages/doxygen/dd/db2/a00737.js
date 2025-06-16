@@ -1,4 +1,5 @@
 var a00737 =
 [
-    [ "MapGrid< WORLD_OBJECT_TYPES, GRID_OBJECT_TYPES >", "d5/dd9/a09131.html", "d5/dd9/a09131" ]
+    [ "ArenaScore", "d9/df4/a07187.html", "d9/df4/a07187" ],
+    [ "ArenaTeamScore", "d8/da7/a07191.html", "d8/da7/a07191" ]
 ];

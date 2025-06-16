@@ -1,4 +1,4 @@
 var a01121 =
 [
-    [ "AllGameObjectScript", "d0/deb/a10183.html", "d0/deb/a10183" ]
+    [ "LoginQueryHolder", "d0/d6f/a09547.html", "d0/d6f/a09547" ]
 ];

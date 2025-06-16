@@ -1,12 +1,20 @@
 var a00887 =
 [
-    [ "PacketHandler< PacketClass, HandlerFunction >", "dd/dee/a10883.html", "dd/dee/a10883" ],
-    [ "PacketHandler< WorldPacket, HandlerFunction >", "de/def/a10887.html", "de/def/a10887" ],
-    [ "get_packet_class< T >", "dd/db5/a10891.html", null ],
-    [ "get_packet_class< void(WorldSession::*)(PacketClass &)>", "d3/d6e/a10895.html", "d3/d6e/a10895" ],
-    [ "DEFINE_HANDLER", "d7/d92/a00887.html#ab23af9582942bed23ea9ab4a8747c67c", null ],
-    [ "DEFINE_SERVER_OPCODE_HANDLER", "d7/d92/a00887.html#a4bcb2df62d580f2bb5ab3c2aa5b35f5e", null ],
-    [ "GetOpcodeNameForLogging", "df/d9b/a04755.html#ga699f5666ad5594443aa2ca21df85a1d3", null ],
-    [ "GetOpcodeNameForLoggingImpl", "d7/d92/a00887.html#a0adf4b5d8c638656581d9a62be18539e", null ],
-    [ "opcodeTable", "df/d9b/a04755.html#gaab348862a5b8f265e05e5b0ac296162a", null ]
+    [ "UpdatefieldFlags", "d7/d92/a00887.html#a811fc272bf3df65a461d871556356150", [
+      [ "UF_FLAG_NONE", "d7/d92/a00887.html#a811fc272bf3df65a461d871556356150a7d1b4f7f2db6116940d9d5939501821a", null ],
+      [ "UF_FLAG_PUBLIC", "d7/d92/a00887.html#a811fc272bf3df65a461d871556356150aa23748720df562a04ac4e80d7bd222da", null ],
+      [ "UF_FLAG_PRIVATE", "d7/d92/a00887.html#a811fc272bf3df65a461d871556356150ac5ff327c7c75208435488e55a3008b3c", null ],
+      [ "UF_FLAG_OWNER", "d7/d92/a00887.html#a811fc272bf3df65a461d871556356150ab1517a7b1049b7541d6de9ab69402715", null ],
+      [ "UF_FLAG_UNUSED1", "d7/d92/a00887.html#a811fc272bf3df65a461d871556356150aeead926260fb10c5449766745fd71106", null ],
+      [ "UF_FLAG_ITEM_OWNER", "d7/d92/a00887.html#a811fc272bf3df65a461d871556356150a590c2755c17b30efbb3bbff85036fb65", null ],
+      [ "UF_FLAG_SPECIAL_INFO", "d7/d92/a00887.html#a811fc272bf3df65a461d871556356150a5715410f0568125f85e318a57c281cd8", null ],
+      [ "UF_FLAG_PARTY_MEMBER", "d7/d92/a00887.html#a811fc272bf3df65a461d871556356150adabd2ae86a3e7c701374be7847446cb7", null ],
+      [ "UF_FLAG_UNUSED2", "d7/d92/a00887.html#a811fc272bf3df65a461d871556356150a6b9db4521b5b4cc023e15610eef397e1", null ],
+      [ "UF_FLAG_DYNAMIC", "d7/d92/a00887.html#a811fc272bf3df65a461d871556356150a3b75563c8e1c2bfbe672d128cce4b1e5", null ]
+    ] ],
+    [ "CorpseUpdateFieldFlags", "d7/d92/a00887.html#a4ba9132e74378f888b4724dbbaf147f3", null ],
+    [ "DynamicObjectUpdateFieldFlags", "d7/d92/a00887.html#aefe3be44e608ab4935e11ea44f8e0ce6", null ],
+    [ "GameObjectUpdateFieldFlags", "d7/d92/a00887.html#aee13b862f51557c371d3d93341128895", null ],
+    [ "ItemUpdateFieldFlags", "d7/d92/a00887.html#ac1cca7ecf1650663132e3e220d771adf", null ],
+    [ "UnitUpdateFieldFlags", "d7/d92/a00887.html#a310c5b2e3065e40ce04fe5ccd84fb51b", null ]
 ];

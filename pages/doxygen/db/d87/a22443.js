@@ -1,13 +1,15 @@
 var a22443 =
 [
-    [ "OPvPCapturePointEP_CGT", "db/d87/a22443.html#a82d8e9bff56eed1870b098dcf21f77cd", null ],
-    [ "ChangeState", "db/d87/a22443.html#ab9d32c9a60bbdca9fc54d7e0b2bf8a5d", null ],
-    [ "FillInitialWorldStates", "db/d87/a22443.html#ae7d57fe449bb38de013b18ecf2f9f07c", null ],
-    [ "HandlePlayerEnter", "db/d87/a22443.html#a48cb29473f25ed9b469c7ff54acc9d88", null ],
-    [ "HandlePlayerLeave", "db/d87/a22443.html#ad1886046ecf8c382e1fd0e01d6394614", null ],
-    [ "LinkGraveyard", "db/d87/a22443.html#ada14179a31fb6235b7882a190dc96c40", null ],
-    [ "SendChangePhase", "db/d87/a22443.html#a30d9f8701dd6a78740f7df0d2c7ceb9d", null ],
-    [ "UpdateTowerState", "db/d87/a22443.html#a764284d6143d4879b5bc003acc52048c", null ],
-    [ "m_GraveyardSide", "db/d87/a22443.html#aaf1f8440dc891ed45857bb7d15149d9a", null ],
-    [ "m_TowerState", "db/d87/a22443.html#a6f434f86ed97f88368e3194a3bc3183b", null ]
+    [ "OutdoorPvPEP", "db/d87/a22443.html#ab4915dfc03de08cad83eb48c4c789cb8", null ],
+    [ "BuffTeams", "db/d87/a22443.html#ac6a61c19ba96ca843eb12952d0c09078", null ],
+    [ "FillInitialWorldStates", "db/d87/a22443.html#ac1b185125fa1f8864d1062b65be24bdc", null ],
+    [ "HandlePlayerEnterZone", "db/d87/a22443.html#a9e7404160b1220dc3cc2766a07f42ad2", null ],
+    [ "HandlePlayerLeaveZone", "db/d87/a22443.html#a251b154abfaec9cbfb1a56e657ac5214", null ],
+    [ "SendRemoveWorldStates", "db/d87/a22443.html#afad47628bb4cfcc6060ce35396e33d9d", null ],
+    [ "SetControlledState", "db/d87/a22443.html#abef30d5cbe7c2cd52cd32ae29da1c9ce", null ],
+    [ "SetupOutdoorPvP", "db/d87/a22443.html#acecc8126180c027cb3d685231e55d873", null ],
+    [ "Update", "db/d87/a22443.html#a974910b2f7f2d8cfaf43b6694bf4c2c7", null ],
+    [ "EP_ControlsId", "db/d87/a22443.html#a7e8fcf50f88bdb56b189877721a1f006", null ],
+    [ "m_AllianceTowersControlled", "db/d87/a22443.html#a09e5cf029656af3fc740b236596d42ee", null ],
+    [ "m_HordeTowersControlled", "db/d87/a22443.html#a325c16f6b5f40bd5dd5f63a9d93a8cd1", null ]
 ];

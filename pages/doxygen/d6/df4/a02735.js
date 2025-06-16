@@ -1,5 +1,6 @@
 var a02735 =
 [
-    [ "bf_commandscript", "dd/dc8/a11547.html", "dd/dc8/a11547" ],
-    [ "AddSC_bf_commandscript", "d6/df4/a02735.html#a55cfeb06fb5af5d31e3c2627d0db8da8", null ]
+    [ "DataHeader", "d6/df4/a02735.html#a042491ef36459046f3866e90f15aae0d", null ],
+    [ "ScarletMonasteryScriptName", "d6/df4/a02735.html#ac64beb71a88e1265849782b79406b585", null ],
+    [ "GetScarletMonasteryAI", "d6/df4/a02735.html#aecdcabc87b1cc31996b702fd11416f35", null ]
 ];

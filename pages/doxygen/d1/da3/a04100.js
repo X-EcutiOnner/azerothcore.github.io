@@ -1,6 +1,5 @@
 var a04100 =
 [
-    [ "npc_suns_reach_reclamation", "df/d2b/a27643.html", "df/d2b/a27643" ],
-    [ "npc_sunwell_gate", "d2/dfc/a27647.html", "d2/dfc/a27647" ],
-    [ "AddSC_suns_reach_reclamation", "d1/da3/a04100.html#ae3e186d64e39803c404f1afb2144557b", null ]
+    [ "RASession", "d1/d19/a05651.html", "d1/d19/a05651" ],
+    [ "bufferSize", "d1/da3/a04100.html#af86f08ffe713b38f728cb02c7f06c0e1", null ]
 ];

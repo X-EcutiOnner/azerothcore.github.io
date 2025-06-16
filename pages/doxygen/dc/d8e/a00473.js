@@ -1,4 +1,6 @@
 var a00473 =
 [
-    [ "MAX_INBOX_CLIENT_CAPACITY", "dc/d8e/a00473.html#ae1d9c2394745301897af9c167e219ca8", null ]
+    [ "CharacterCacheEntry", "d8/dcd/a07427.html", "d8/dcd/a07427" ],
+    [ "CharacterCache", "d1/df6/a07431.html", "d1/df6/a07431" ],
+    [ "sCharacterCache", "dc/d8e/a00473.html#a7a32c898b33d6163d83a32f46d58517c", null ]
 ];

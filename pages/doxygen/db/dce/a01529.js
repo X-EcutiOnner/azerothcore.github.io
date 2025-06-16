@@ -1,15 +1,16 @@
 var a01529 =
 [
-    [ "GetGameTime", "db/dce/a01529.html#adbe1785d1327dedf2ac403b7cc8e99c2", null ],
-    [ "GetGameTimeMS", "db/dce/a01529.html#a6d0d49f37e25e497391157b2a2ec90c1", null ],
-    [ "GetStartTime", "db/dce/a01529.html#a872d34d3f9d420cfc749073c809931f9", null ],
-    [ "GetSystemTime", "db/dce/a01529.html#a443eccf314fe436192278d425d6d8220", null ],
-    [ "GetUptime", "db/dce/a01529.html#ae2ff9233756dd88fa1aafcc1e1c0be4d", null ],
-    [ "Now", "db/dce/a01529.html#ae5cc9f17fc6b8b15c678fa7a84a6e117", null ],
-    [ "UpdateGameTimers", "db/dce/a01529.html#a45712735241c9563a12fc3da54fb144d", null ],
-    [ "GameMSTime", "db/dce/a01529.html#ad5fc2a056410eeac2e2717f91cb8295c", null ],
-    [ "GameTime", "db/dce/a01529.html#a9a28ffdb4bb387919d2dd70a51080ce0", null ],
-    [ "GameTimeSteadyPoint", "db/dce/a01529.html#a874057035d37aa57afc5064acffba119", null ],
-    [ "GameTimeSystemPoint", "db/dce/a01529.html#aa393fef2187ebdd6aa34379b0f1504d7", null ],
-    [ "StartTime", "db/dce/a01529.html#a78088a0637670a1ab5125a1388f7ca52", null ]
+    [ "SmartAI", "d9/d20/a06219.html", "d9/d20/a06219" ],
+    [ "SmartGameObjectAI", "dd/de8/a06223.html", "dd/de8/a06223" ],
+    [ "SmartEscortState", "db/dce/a01529.html#a0911043eb49fd7958a828a60e0537d54", [
+      [ "SMART_ESCORT_NONE", "db/dce/a01529.html#a0911043eb49fd7958a828a60e0537d54ad51ea013b009290e4eba7f3591d0e889", null ],
+      [ "SMART_ESCORT_ESCORTING", "db/dce/a01529.html#a0911043eb49fd7958a828a60e0537d54a0756668fef1eacc6101e9113e974cc19", null ],
+      [ "SMART_ESCORT_RETURNING", "db/dce/a01529.html#a0911043eb49fd7958a828a60e0537d54a404e4c2ac36fc3f87779560b58af7fe8", null ],
+      [ "SMART_ESCORT_PAUSED", "db/dce/a01529.html#a0911043eb49fd7958a828a60e0537d54a35650bf0f6f9a142acfb5b6e5cd194f7", null ]
+    ] ],
+    [ "SmartEscortVars", "db/dce/a01529.html#a598eb331d977fa893d589fe3e6cebfbf", [
+      [ "SMART_ESCORT_MAX_PLAYER_DIST", "db/dce/a01529.html#a598eb331d977fa893d589fe3e6cebfbfa43349fe96bf29348a87944e39bacfdba", null ],
+      [ "SMART_MAX_AID_DIST", "db/dce/a01529.html#a598eb331d977fa893d589fe3e6cebfbfa74a5b65862962dfdb4c72589d5191c3f", null ]
+    ] ],
+    [ "AddSC_SmartScripts", "db/dce/a01529.html#ab6012619ba76775b314475ec60f8c7d7", null ]
 ];

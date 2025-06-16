@@ -1,56 +1,36 @@
 var a01361 =
 [
-    [ "go_shadowforge_brazier", "dc/df2/a11775.html", "dc/df2/a11775" ],
-    [ "ironhand_guardian", "da/d0f/a11779.html", "da/d0f/a11779" ],
-    [ "ironhand_guardian::ironhand_guardianAI", "dd/dbf/a11783.html", "dd/dbf/a11783" ],
-    [ "WaveCreature", "dd/d27/a11787.html", "dd/d27/a11787" ],
-    [ "at_ring_of_law", "d5/d1d/a11791.html", "d5/d1d/a11791" ],
-    [ "npc_grimstone", "de/d46/a11795.html", "de/d46/a11795" ],
-    [ "npc_grimstone::npc_grimstoneAI", "d6/d6c/a11799.html", "d6/d6c/a11799" ],
-    [ "npc_phalanx", "d6/db1/a11803.html", "d6/db1/a11803" ],
-    [ "npc_phalanx::npc_phalanxAI", "d0/dd1/a11807.html", "d0/dd1/a11807" ],
-    [ "npc_lokhtos_darkbargainer", "d9/d91/a11811.html", "d9/d91/a11811" ],
-    [ "npc_rocknot", "d2/d5f/a11815.html", "d2/d5f/a11815" ],
-    [ "npc_rocknot::npc_rocknotAI", "dc/dc9/a11819.html", "dc/dc9/a11819" ],
-    [ "GrimstoneTexts", "d2/d1f/a01361.html#a0c9ac53db659fd636b9dc88ea37a3954", [
-      [ "SAY_TEXT1", "d2/d1f/a01361.html#a0c9ac53db659fd636b9dc88ea37a3954abe56e2dc1daa55ecb206c40203e2c43f", null ],
-      [ "SAY_TEXT2", "d2/d1f/a01361.html#a0c9ac53db659fd636b9dc88ea37a3954ab6be9087c9f91d239f09f746f54c7134", null ],
-      [ "SAY_TEXT3", "d2/d1f/a01361.html#a0c9ac53db659fd636b9dc88ea37a3954a2ba8965d5901749a12d1480d8ac009b9", null ],
-      [ "SAY_TEXT4", "d2/d1f/a01361.html#a0c9ac53db659fd636b9dc88ea37a3954a07d6839dbfc7d4b3580bfa4dbafd9e5c", null ],
-      [ "SAY_TEXT5", "d2/d1f/a01361.html#a0c9ac53db659fd636b9dc88ea37a3954abb8aafd7f2dbaa933f3d2c0f858cc16d", null ],
-      [ "SAY_TEXT6", "d2/d1f/a01361.html#a0c9ac53db659fd636b9dc88ea37a3954a5b808298bfd32a4b30c81da55f921803", null ]
+    [ "ScriptAction", "d9/d9a/a09763.html", "d9/d9a/a09763" ],
+    [ "PositionFullTerrainStatus", "d5/dfe/a09767.html", "d5/dfe/a09767" ],
+    [ "InstanceTemplate", "d8/d88/a09771.html", "d8/d88/a09771" ],
+    [ "ZoneDynamicInfo", "da/d24/a09775.html", "da/d24/a09775" ],
+    [ "Map", "dd/d0b/a09779.html", "dd/d0b/a09779" ],
+    [ "InstanceMap", "d6/d17/a09783.html", "d6/d17/a09783" ],
+    [ "BattlegroundMap", "d1/ddb/a09787.html", "d1/ddb/a09787" ],
+    [ "DEFAULT_HEIGHT_SEARCH", "d2/d1f/a01361.html#a0c8d9f4ee232e2a0f72ae665fc6dc189", null ],
+    [ "MIN_UNLOAD_DELAY", "d2/d1f/a01361.html#a092c3d2c90fd46d14455e6ff2413dabb", null ],
+    [ "CreatureGroupHolderType", "d2/d1f/a01361.html#a37ba261cbc15afa0e5cb95e9d34fe115", null ],
+    [ "TransportsContainer", "d2/d1f/a01361.html#aa1d1667bce2cfb0f4337b52f9754cb73", null ],
+    [ "ZoneDynamicInfoMap", "d2/d1f/a01361.html#a1fae3a663f0e007e557bb415f89b8318", null ],
+    [ "EncounterCreditType", "d2/d1f/a01361.html#acea202894a6252d2df201860aa39d037", [
+      [ "ENCOUNTER_CREDIT_KILL_CREATURE", "d2/d1f/a01361.html#acea202894a6252d2df201860aa39d037a9f7df7852d0cd0994fbc5c531928a03f", null ],
+      [ "ENCOUNTER_CREDIT_CAST_SPELL", "d2/d1f/a01361.html#acea202894a6252d2df201860aa39d037aca618c5b7ae69c151ea4da7955578b02", null ]
     ] ],
-    [ "IronhandData", "d2/d1f/a01361.html#a2351df48f090013a8239bcb029c39779", [
-      [ "IRONHAND_FLAMES_TIMER", "d2/d1f/a01361.html#a2351df48f090013a8239bcb029c39779abbe9eb5c7fa7c6fdad2b47486ffaca97", null ],
-      [ "IRONHAND_FLAMES_TIMER_RAND", "d2/d1f/a01361.html#a2351df48f090013a8239bcb029c39779ac69d13ee833747626073318984c0b3eb", null ],
-      [ "IRONHAND_N_GROUPS", "d2/d1f/a01361.html#a2351df48f090013a8239bcb029c39779a066afe62759b3706fe8a3ad01ff12451", null ],
-      [ "SPELL_GOUT_OF_FLAMES", "d2/d1f/a01361.html#a2351df48f090013a8239bcb029c39779a3b6e8dcf51592d02d02bda14669cb90a", null ]
+    [ "InstanceResetMethod", "d2/d1f/a01361.html#a85895841def625e565ac3122a1267447", [
+      [ "INSTANCE_RESET_ALL", "d2/d1f/a01361.html#a85895841def625e565ac3122a1267447ab5ba7473d0bfac9d0f4dbc0e22a5a84d", null ],
+      [ "INSTANCE_RESET_CHANGE_DIFFICULTY", "d2/d1f/a01361.html#a85895841def625e565ac3122a1267447a364d607eec219f808901d16aeec31a8d", null ],
+      [ "INSTANCE_RESET_GLOBAL", "d2/d1f/a01361.html#a85895841def625e565ac3122a1267447a40c08a471edcbb547800e700e2341a8c", null ],
+      [ "INSTANCE_RESET_GROUP_JOIN", "d2/d1f/a01361.html#a85895841def625e565ac3122a1267447a0a6535943a7d7ce282d8d415f125a170", null ],
+      [ "INSTANCE_RESET_GROUP_LEAVE", "d2/d1f/a01361.html#a85895841def625e565ac3122a1267447aa247d3a9d4e2cbb1ed24680fa3405bab", null ]
     ] ],
-    [ "LokhtosItems", "d2/d1f/a01361.html#a2399740be44cbcc9b6a925a61d042f94", [
-      [ "ITEM_THRORIUM_BROTHERHOOD_CONTRACT", "d2/d1f/a01361.html#a2399740be44cbcc9b6a925a61d042f94a8abbc79e28968f5cdca0fc6e1b0df40b", null ],
-      [ "ITEM_SULFURON_INGOT", "d2/d1f/a01361.html#a2399740be44cbcc9b6a925a61d042f94ac62a268f952750403ff0af9ac3cc7700", null ]
+    [ "LevelRequirementVsMode", "d2/d1f/a01361.html#a925afa52f886092b35ca06011fbe870d", [
+      [ "LEVELREQUIREMENT_HEROIC", "d2/d1f/a01361.html#a925afa52f886092b35ca06011fbe870da44c9c26dfe61127eff417c34c5049dc2", null ]
     ] ],
-    [ "LokhtosQuests", "d2/d1f/a01361.html#a45b983ab1cb7b86457cb9e2996c3db7e", [
-      [ "QUEST_A_BINDING_CONTRACT", "d2/d1f/a01361.html#a45b983ab1cb7b86457cb9e2996c3db7ea67a74b63a45269bd88d4e62ac086b7e6", null ]
-    ] ],
-    [ "LokhtosSpells", "d2/d1f/a01361.html#afc72f18a766ff75425d24ce4bff0b174", [
-      [ "SPELL_CREATE_THORIUM_BROTHERHOOD_CONTRACT_DND", "d2/d1f/a01361.html#afc72f18a766ff75425d24ce4bff0b174a225499c386065b2bb904086ec6bc68c7", null ]
-    ] ],
-    [ "PhalanxSpells", "d2/d1f/a01361.html#a4e5bf673237e04bd7162baff3a0cec21", [
-      [ "SPELL_THUNDERCLAP", "d2/d1f/a01361.html#a4e5bf673237e04bd7162baff3a0cec21a7f4e66bb0a1b5b2705975420f645b16e", null ],
-      [ "SPELL_FIREBALLVOLLEY", "d2/d1f/a01361.html#a4e5bf673237e04bd7162baff3a0cec21a725c2e5b9167c2cb646bf3e8c31492df", null ],
-      [ "SPELL_MIGHTYBLOW", "d2/d1f/a01361.html#a4e5bf673237e04bd7162baff3a0cec21a16caf5a86b691c031c87f3f5ea65a251", null ]
-    ] ],
-    [ "RocknotQuests", "d2/d1f/a01361.html#a6b0d084d8af18bd5f9b8b009e51137db", [
-      [ "QUEST_ALE", "d2/d1f/a01361.html#a6b0d084d8af18bd5f9b8b009e51137dba736905032af28505a38a22a718e1c17a", null ]
-    ] ],
-    [ "RocknotSays", "d2/d1f/a01361.html#a0fcf46ec361ec3eb9f40c6701294d8e0", [
-      [ "SAY_GOT_BEER", "d2/d1f/a01361.html#a0fcf46ec361ec3eb9f40c6701294d8e0a907cae969cb1fc078f260cc54dc01e22", null ]
-    ] ],
-    [ "RocknotSpells", "d2/d1f/a01361.html#aecb1fc71fc0abbbddedbf095e934edb4", [
-      [ "SPELL_DRUNKEN_RAGE", "d2/d1f/a01361.html#aecb1fc71fc0abbbddedbf095e934edb4a4523bad97d4b588a1cf849bee5a67125", null ]
-    ] ],
-    [ "AddSC_blackrock_depths", "d2/d1f/a01361.html#a2070b23fe45e3ac60f1b2db9b07efb22", null ],
-    [ "RingBoss", "d2/d1f/a01361.html#af2fce71fa3dcd5348828dd274e1872ec", null ],
-    [ "RingMobs", "d2/d1f/a01361.html#a26123366b238dd51ab03de9e763db822", null ]
+    [ "LineOfSightChecks", "d2/d1f/a01361.html#abc95f0a7147fb553d023f994f003a1c6", [
+      [ "LINEOFSIGHT_CHECK_VMAP", "d2/d1f/a01361.html#abc95f0a7147fb553d023f994f003a1c6a254543d4c2ff9c92ff0eb69aec072caf", null ],
+      [ "LINEOFSIGHT_CHECK_GOBJECT_WMO", "d2/d1f/a01361.html#abc95f0a7147fb553d023f994f003a1c6a04ff8bf4653f852773d9bdf2838efb07", null ],
+      [ "LINEOFSIGHT_CHECK_GOBJECT_M2", "d2/d1f/a01361.html#abc95f0a7147fb553d023f994f003a1c6a1b9463c69951824723107b569fdb32a3", null ],
+      [ "LINEOFSIGHT_CHECK_GOBJECT_ALL", "d2/d1f/a01361.html#abc95f0a7147fb553d023f994f003a1c6a451588ecdb12620b9153952187873053", null ],
+      [ "LINEOFSIGHT_ALL_CHECKS", "d2/d1f/a01361.html#abc95f0a7147fb553d023f994f003a1c6ac012f06f7e6897d0c7532b6eb155d19f", null ]
+    ] ]
 ];

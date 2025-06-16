@@ -1,4 +1,4 @@
 var a01523 =
 [
-    [ "sWorldUpdateTime", "db/d8e/a01523.html#aa415d38dafe4c1c78c951de9fed8393b", null ]
+    [ "UPDATE_TARGET", "db/d8e/a01523.html#a7147e15125e75e9e1624cd480f4afb5f", null ]
 ];

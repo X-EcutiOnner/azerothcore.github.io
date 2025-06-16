@@ -1,7 +1,6 @@
 var a24151 =
 [
-    [ "o", "de/d91/a24151.html#a3785e9b55ea3a7140086ce1f86232109", null ],
-    [ "x", "de/d91/a24151.html#ac81cc1119b7ac8ac70ee635f2e3d4bb7", null ],
-    [ "y", "de/d91/a24151.html#a10fbad67977d8dd3911eb629c1797684", null ],
-    [ "z", "de/d91/a24151.html#a69fc2438e52f6c0de3af13900ff38166", null ]
+    [ "npc_torloth_the_magnificentAI", "dd/dc4/a24155.html", "dd/dc4/a24155" ],
+    [ "npc_torloth_the_magnificent", "de/d91/a24151.html#a252796a19dcebe210eecb4d9ae150e5d", null ],
+    [ "GetAI", "de/d91/a24151.html#a94c206fb75cc6f50c6127908b5b5205f", null ]
 ];

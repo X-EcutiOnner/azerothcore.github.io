@@ -1,6 +1,6 @@
 var a26751 =
 [
-    [ "HandleScriptEffect", "db/d98/a26751.html#a3f8988017d088d08df08ba8b696b552b", null ],
-    [ "PrepareSpellScript", "db/d98/a26751.html#a56f5c59c7dc8d4f8117dc64d5a5a3a0b", null ],
-    [ "Register", "db/d98/a26751.html#a4ebc3c83dd77134af2ee81a46b121d19", null ]
+    [ "HandleDummy", "db/d98/a26751.html#a2560417162a1c17cb067cdfeb2fc909d", null ],
+    [ "PrepareSpellScript", "db/d98/a26751.html#a1f9aa7ffef96365ad7c0c4ccd4a2814c", null ],
+    [ "Register", "db/d98/a26751.html#a27aece218c848064ae387491f9176099", null ]
 ];

@@ -1,6 +1,6 @@
 var a22175 =
 [
-    [ "npc_vics_flying_machineAI", "d0/db1/a22179.html", "d0/db1/a22179" ],
-    [ "npc_vics_flying_machine", "dd/d8a/a22175.html#ac0f1e83a9f53f1e38e81804f0332e3fd", null ],
-    [ "GetAI", "dd/d8a/a22175.html#aac2a7cabd2e87705e9a1b3bfebb89eae", null ]
+    [ "HandleScript", "dd/d8a/a22175.html#acb343eafcfddf6fedcdef26c9b86e0ec", null ],
+    [ "PrepareSpellScript", "dd/d8a/a22175.html#a5a4ce9453638d61fe52514240f0a9384", null ],
+    [ "Register", "dd/d8a/a22175.html#a889f931aaa37d3a283f4d585b384a68e", null ]
 ];

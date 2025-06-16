@@ -1,9 +1,11 @@
 var a01613 =
 [
-    [ "GetCheckPacketBaseSize", "d3/da1/a01613.html#aa48d9759919f0fb8415c0fd0731a23b1", null ],
-    [ "GetCheckPacketSize", "d3/da1/a01613.html#adfb39c1ce4f6159c2c70e3cdf26978c9", null ],
-    [ "GetMaxWardenChecksForType", "d3/da1/a01613.html#a1bcaaac66e1101e325fd62778b2f0c8d", null ],
-    [ "_luaEvalMidfix", "d3/da1/a01613.html#a5506a4e4233b2c380f79ad1225c4dc93", null ],
-    [ "_luaEvalPostfix", "d3/da1/a01613.html#ad14853510c2482e64bd81633e5074206", null ],
-    [ "_luaEvalPrefix", "d3/da1/a01613.html#a259abc7d98e16cefc14404b5886cbc09", null ]
+    [ "BanMgr", "d6/d2f/a09847.html", "d6/d2f/a09847" ],
+    [ "sBan", "d3/da1/a01613.html#a7d5e9b6aab3c8157bcf25fa0f070bb17", null ],
+    [ "BanReturn", "d3/da1/a01613.html#a4dd4670ead55e2780d09a66ab39943a7", [
+      [ "BAN_SUCCESS", "d3/da1/a01613.html#a4dd4670ead55e2780d09a66ab39943a7ab48bdf9afe21b115b7550bf103d1dc28", null ],
+      [ "BAN_SYNTAX_ERROR", "d3/da1/a01613.html#a4dd4670ead55e2780d09a66ab39943a7a7ec21f8f8ea6d0904423dded4b8f0dc8", null ],
+      [ "BAN_NOTFOUND", "d3/da1/a01613.html#a4dd4670ead55e2780d09a66ab39943a7aaefc3ea320005c27d70704fb92aed7ad", null ],
+      [ "BAN_LONGER_EXISTS", "d3/da1/a01613.html#a4dd4670ead55e2780d09a66ab39943a7ac441589615fb2fe9c7decb985f6f0d3c", null ]
+    ] ]
 ];

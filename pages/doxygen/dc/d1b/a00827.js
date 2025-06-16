@@ -1,5 +1,5 @@
 var a00827 =
 [
-    [ "operator<<", "dc/d1b/a00827.html#ae8a45300d819957eb5ed8c659180c750", null ],
-    [ "operator<<", "dc/d1b/a00827.html#abd3549ec2eebc439058205da8ae53eb3", null ]
+    [ "_ModifyUInt32", "dc/d1b/a00827.html#ab53d40bc3b1cf5c14440f3e212aa4f08", null ],
+    [ "m_diminishing_k", "dc/d1b/a00827.html#a826ceb2644eb2661137e2983dd779164", null ]
 ];

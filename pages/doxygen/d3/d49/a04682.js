@@ -1,14 +1,16 @@
 var a04682 =
 [
-    [ "_CRT_SECURE_NO_DEPRECATE", "d3/d49/a04682.html#a411c46599e926f8cdf49c63957255359", null ],
-    [ "isHole", "d3/d49/a04682.html#a3a7e248f31dc8d832dc118d469a98bd4", null ],
-    [ "holetab_h", "d3/d49/a04682.html#a7424dd5c858116f845a676e31fe5ae5d", null ],
-    [ "holetab_v", "d3/d49/a04682.html#a2b1bf69bcdb58ff1605821d486da3acb", null ],
-    [ "MCINMagic", "d3/d49/a04682.html#a6f946547b65d321100fd6efa2966180c", null ],
-    [ "MCLQMagic", "d3/d49/a04682.html#a35ae9924cb4e3ad0020167b89d5ea86f", null ],
-    [ "MCNKMagic", "d3/d49/a04682.html#aa2d85d3b667d3755f6f7a993e60c574b", null ],
-    [ "MCVTMagic", "d3/d49/a04682.html#a32010e610a970d3891ae5effca03de37", null ],
-    [ "MFBOMagic", "d3/d49/a04682.html#a329d005a0989137286469e197dc0c812", null ],
-    [ "MH2OMagic", "d3/d49/a04682.html#aaeaf747e4bc5c25257f9e0ef1153b5a7", null ],
-    [ "MHDRMagic", "d3/d49/a04682.html#ac97bd684dd5bacba0e790f355a3bdddf", null ]
+    [ "ModelFlags", "d3/d49/a04682.html#a829dc978e29d88ada1059ea4ca6c4cd3", [
+      [ "MOD_M2", "d3/d49/a04682.html#a829dc978e29d88ada1059ea4ca6c4cd3a36c4baaa0c832deca9bc0f05addf1168", null ],
+      [ "MOD_WORLDSPAWN", "d3/d49/a04682.html#a829dc978e29d88ada1059ea4ca6c4cd3aa5609345ab3d1b82637666503b9bb0b4", null ],
+      [ "MOD_HAS_BOUND", "d3/d49/a04682.html#a829dc978e29d88ada1059ea4ca6c4cd3ae86efc863566bd1ba59ca8ad8cb72851", null ]
+    ] ],
+    [ "ExtractGameobjectModels", "d3/d49/a04682.html#a7b3d0cbf404ed32359e354ccf6e34392", null ],
+    [ "ExtractSingleModel", "d3/d49/a04682.html#a6a96194f748b715f0400249583336ae5", null ],
+    [ "ExtractSingleWmo", "d3/d49/a04682.html#afc9839262206eb10094c1769141ae146", null ],
+    [ "FileExists", "d3/d49/a04682.html#aab524156a5705c5cd09f96106eaac92d", null ],
+    [ "GenerateUniqueObjectId", "d3/d49/a04682.html#a6a3d179f34597554b17a122f27cd6be5", null ],
+    [ "strToLower", "d3/d49/a04682.html#ac9e88429cc2168db83793cb7074bc69f", null ],
+    [ "szWorkDirWmo", "d3/d49/a04682.html#ac706bf73d4ee9783a3b882fad9c3cbea", null ],
+    [ "WmoDoodads", "d3/d49/a04682.html#a17b22c7645963c9e5c277b72605a4966", null ]
 ];

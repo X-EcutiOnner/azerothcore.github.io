@@ -1,12 +1,14 @@
 var a03929 =
 [
-    [ "ACScriptName", "d1/dd9/a03929.html#a44e28f969fff2c33cf76b8eaaff1898c", null ],
-    [ "DataHeader", "d1/dd9/a03929.html#a042491ef36459046f3866e90f15aae0d", null ],
-    [ "RegisterAuchenaiCryptsCreatureAI", "d1/dd9/a03929.html#abf97bec93b670890ad0eaa7d6b4bd4b9", null ],
-    [ "ACDataTypes", "d1/dd9/a03929.html#aae3060cf5aa0b4d27bcbbfeee3db2856", [
-      [ "DATA_SHIRRAK_THE_DEAD_WATCHER", "d1/dd9/a03929.html#aae3060cf5aa0b4d27bcbbfeee3db2856a5d80917a3a5f108f9e625372181b85fe", null ],
-      [ "DATA_EXARCH_MALADAAR", "d1/dd9/a03929.html#aae3060cf5aa0b4d27bcbbfeee3db2856aa54edd3601b7953b0bf046fa8b1bd3f8", null ]
-    ] ],
-    [ "GetAuchenaiCryptsAI", "d1/dd9/a03929.html#a8c9b9cbd7dca7c2e86d7ad3fe7bfd961", null ],
-    [ "EncounterCount", "d1/dd9/a03929.html#a31d630c40753c29f94ceac2db5e451a8", null ]
+    [ "NpcFlagText", "d3/d3f/a11663.html", "d3/d3f/a11663" ],
+    [ "MechanicImmune", "d4/de2/a11667.html", "d4/de2/a11667" ],
+    [ "SpellSchoolImmune", "d5/d7d/a11671.html", "d5/d7d/a11671" ],
+    [ "npc_commandscript", "d8/d7a/a11675.html", "d8/d7a/a11675" ],
+    [ "NPCFLAG_COUNT", "d1/dd9/a03929.html#afc1ed6083684621f30fbabb23d2986c0", null ],
+    [ "CreatureEntry", "d1/dd9/a03929.html#a220449830f7fe293c9d82dcd3b84acd9", null ],
+    [ "CreatureSpawnId", "d1/dd9/a03929.html#a5e5fd5f7a85fd4ad7fe92f2125f17acc", null ],
+    [ "AddSC_npc_commandscript", "d1/dd9/a03929.html#ae99689f5e8e57f75adfcf54370ed979d", null ],
+    [ "mechanicImmunes", "d1/dd9/a03929.html#a9e8359f68aec0f69f42fe7aee7934859", null ],
+    [ "npcFlagTexts", "d1/dd9/a03929.html#a048bdd249b6deeed66fba6bad126b30b", null ],
+    [ "spellSchoolImmunes", "d1/dd9/a03929.html#a8708a11856730666b04e749bc0952c8f", null ]
 ];

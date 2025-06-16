@@ -1,62 +1,58 @@
 var a04127 =
 [
-    [ "AreaTrigger_at_voltarus_middle", "da/d8d/a27023.html", "da/d8d/a27023" ],
-    [ "AreaTrigger_at_coilfang_waterfall", "d2/d04/a27027.html", "d2/d04/a27027" ],
-    [ "AreaTrigger_at_legion_teleporter", "d0/dec/a27031.html", "d0/dec/a27031" ],
-    [ "AreaTrigger_at_stormwright_shelf", "d0/db4/a27035.html", "d0/db4/a27035" ],
-    [ "AreaTrigger_at_scent_larkorwi", "d3/d4a/a27039.html", "d3/d4a/a27039" ],
-    [ "AreaTrigger_at_last_rites", "db/de8/a27043.html", "db/de8/a27043" ],
-    [ "AreaTrigger_at_nats_landing", "d5/dd0/a27047.html", "d5/dd0/a27047" ],
-    [ "AreaTrigger_at_sentry_point", "d2/dd5/a27051.html", "d2/dd5/a27051" ],
-    [ "AreaTrigger_at_brewfest", "dc/d1c/a27055.html", "dc/d1c/a27055" ],
-    [ "AreaTrigger_at_area_52_entrance", "dc/d08/a27059.html", "dc/d08/a27059" ],
-    [ "Area52Entrance", "dd/d90/a04127.html#a7ef276a75040392ab3315082a3518c67", [
-      [ "SPELL_A52_NEURALYZER", "dd/d90/a04127.html#a7ef276a75040392ab3315082a3518c67afa491a434774607e1e712c2f79ac322a", null ],
-      [ "NPC_SPOTLIGHT", "dd/d90/a04127.html#a7ef276a75040392ab3315082a3518c67acded8211c601c5b237d60a58f65b56ac", null ],
-      [ "SUMMON_COOLDOWN", "dd/d90/a04127.html#a7ef276a75040392ab3315082a3518c67aa4b7173ec61f2859f8649f0adcbb37d1", null ],
-      [ "AT_AREA_52_SOUTH", "dd/d90/a04127.html#a7ef276a75040392ab3315082a3518c67ac9b6a7b98c7a4b2013ccd61f637851f9", null ],
-      [ "AT_AREA_52_NORTH", "dd/d90/a04127.html#a7ef276a75040392ab3315082a3518c67a7eb1ed4b6c4f3ef99e5cdd9b1505a09e", null ],
-      [ "AT_AREA_52_WEST", "dd/d90/a04127.html#a7ef276a75040392ab3315082a3518c67a69d8c4647a15efe238a70b1f049ff97f", null ],
-      [ "AT_AREA_52_EAST", "dd/d90/a04127.html#a7ef276a75040392ab3315082a3518c67a3173f419da9cf80efa68ca3e99c10528", null ]
+    [ "AuthResult", "dd/d90/a04127.html#a87ba9bd5edfd749f4729620dbadd5fce", [
+      [ "WOW_SUCCESS", "dd/d90/a04127.html#a87ba9bd5edfd749f4729620dbadd5fcea17cfb08be7c0da21b3a4ec0fb76ed688", null ],
+      [ "WOW_FAIL_BANNED", "dd/d90/a04127.html#a87ba9bd5edfd749f4729620dbadd5fcea550e2d0697129df245f04a9c28454630", null ],
+      [ "WOW_FAIL_UNKNOWN_ACCOUNT", "dd/d90/a04127.html#a87ba9bd5edfd749f4729620dbadd5fcea4614f07045c585583364e857c3421114", null ],
+      [ "WOW_FAIL_INCORRECT_PASSWORD", "dd/d90/a04127.html#a87ba9bd5edfd749f4729620dbadd5fcea435627e6ceddf5214798b0ffee9379f3", null ],
+      [ "WOW_FAIL_ALREADY_ONLINE", "dd/d90/a04127.html#a87ba9bd5edfd749f4729620dbadd5fcea71848ab60dcf958e95af1caaa1060a5c", null ],
+      [ "WOW_FAIL_NO_TIME", "dd/d90/a04127.html#a87ba9bd5edfd749f4729620dbadd5fceac6b47ed0785815782ffcaa9ddcc61f34", null ],
+      [ "WOW_FAIL_DB_BUSY", "dd/d90/a04127.html#a87ba9bd5edfd749f4729620dbadd5fcea8a6d51e1086aa22c9409807b01e8db96", null ],
+      [ "WOW_FAIL_VERSION_INVALID", "dd/d90/a04127.html#a87ba9bd5edfd749f4729620dbadd5fceaf7e9abc937534a7f909fcb07b744942d", null ],
+      [ "WOW_FAIL_VERSION_UPDATE", "dd/d90/a04127.html#a87ba9bd5edfd749f4729620dbadd5fcea6ff71ce07c1a0c0d5321d82cd9803aae", null ],
+      [ "WOW_FAIL_INVALID_SERVER", "dd/d90/a04127.html#a87ba9bd5edfd749f4729620dbadd5fceae2aacd0fb4634fa66489baa619e4955d", null ],
+      [ "WOW_FAIL_SUSPENDED", "dd/d90/a04127.html#a87ba9bd5edfd749f4729620dbadd5fcea2686cc24f58e96f7956d5d6ef9f18e04", null ],
+      [ "WOW_FAIL_FAIL_NOACCESS", "dd/d90/a04127.html#a87ba9bd5edfd749f4729620dbadd5fcea7335fc931139834357fb93d3fdde0ee8", null ],
+      [ "WOW_SUCCESS_SURVEY", "dd/d90/a04127.html#a87ba9bd5edfd749f4729620dbadd5fcea664860e55648321e7ef00ffd2b26013a", null ],
+      [ "WOW_FAIL_PARENTCONTROL", "dd/d90/a04127.html#a87ba9bd5edfd749f4729620dbadd5fcea5e8d5fb949ecfd0cafdc81cee3b7f81d", null ],
+      [ "WOW_FAIL_LOCKED_ENFORCED", "dd/d90/a04127.html#a87ba9bd5edfd749f4729620dbadd5fcea18dcd4a3797de3f107178a0a6d6389b3", null ],
+      [ "WOW_FAIL_TRIAL_ENDED", "dd/d90/a04127.html#a87ba9bd5edfd749f4729620dbadd5fcea22f7a1ff157487225ffc1261a977a3a6", null ],
+      [ "WOW_FAIL_USE_BATTLENET", "dd/d90/a04127.html#a87ba9bd5edfd749f4729620dbadd5fcea8ed1410eefb917a04764590ea82b447c", null ],
+      [ "WOW_FAIL_ANTI_INDULGENCE", "dd/d90/a04127.html#a87ba9bd5edfd749f4729620dbadd5fcea6a965940cfced1a61d60b74e87f083c3", null ],
+      [ "WOW_FAIL_EXPIRED", "dd/d90/a04127.html#a87ba9bd5edfd749f4729620dbadd5fceaaa299fabdc18e5c6c89cf53c18f039b9", null ],
+      [ "WOW_FAIL_NO_GAME_ACCOUNT", "dd/d90/a04127.html#a87ba9bd5edfd749f4729620dbadd5fcea3fc06700ec90ca46aa67b5b0d5facfdf", null ],
+      [ "WOW_FAIL_CHARGEBACK", "dd/d90/a04127.html#a87ba9bd5edfd749f4729620dbadd5fcea38ff8e9b9d3dee3d43ab419735a83a05", null ],
+      [ "WOW_FAIL_INTERNET_GAME_ROOM_WITHOUT_BNET", "dd/d90/a04127.html#a87ba9bd5edfd749f4729620dbadd5fceaa30377fa80b0edb3b9826f7294c009d9", null ],
+      [ "WOW_FAIL_GAME_ACCOUNT_LOCKED", "dd/d90/a04127.html#a87ba9bd5edfd749f4729620dbadd5fcea3cb53338783b02f6f4adbd6d4cf8de55", null ],
+      [ "WOW_FAIL_UNLOCKABLE_LOCK", "dd/d90/a04127.html#a87ba9bd5edfd749f4729620dbadd5fceaa49aaf129ee38c581c43adac5e0dc47e", null ],
+      [ "WOW_FAIL_CONVERSION_REQUIRED", "dd/d90/a04127.html#a87ba9bd5edfd749f4729620dbadd5fceaa57c56a0afc1fe774f661feddaaa1739", null ],
+      [ "WOW_FAIL_DISCONNECTED", "dd/d90/a04127.html#a87ba9bd5edfd749f4729620dbadd5fcea45adfe6f21bb136d789120fb4ade5d65", null ]
     ] ],
-    [ "AtLastRites", "dd/d90/a04127.html#aedd9d40d0b524b4a5da323938c6f1c99", [
-      [ "QUEST_LAST_RITES", "dd/d90/a04127.html#aedd9d40d0b524b4a5da323938c6f1c99af622e93bef1f891f43c910aec65feef2", null ],
-      [ "QUEST_BREAKING_THROUGH", "dd/d90/a04127.html#aedd9d40d0b524b4a5da323938c6f1c99a0d528966459def04c2372cb96fb03057", null ]
+    [ "ExpansionFlags", "dd/d90/a04127.html#aa4677c9d14c49d7eb90bf81f278756e2", [
+      [ "POST_BC_EXP_FLAG", "dd/d90/a04127.html#aa4677c9d14c49d7eb90bf81f278756e2ac848c9323f3ff5625ac2122c586c09bb", null ],
+      [ "PRE_BC_EXP_FLAG", "dd/d90/a04127.html#aa4677c9d14c49d7eb90bf81f278756e2aeee886490e199b04b3ef987de2fefb64", null ],
+      [ "NO_VALID_EXP_FLAG", "dd/d90/a04127.html#aa4677c9d14c49d7eb90bf81f278756e2ad8e812d2ea9331912047df7fce86831d", null ]
     ] ],
-    [ "Brewfest", "dd/d90/a04127.html#a9b234b18092b711f6f11cda755fe0bfd", [
-      [ "NPC_TAPPER_SWINDLEKEG", "dd/d90/a04127.html#a9b234b18092b711f6f11cda755fe0bfda91dfef2ce070232ed51a69d9c6399130", null ],
-      [ "NPC_IPFELKOFER_IRONKEG", "dd/d90/a04127.html#a9b234b18092b711f6f11cda755fe0bfda39440d09522df095e726cb1da7ab817e", null ],
-      [ "AT_BREWFEST_DUROTAR", "dd/d90/a04127.html#a9b234b18092b711f6f11cda755fe0bfda6dbf4e730fdb44d7ceb232e60cee3091", null ],
-      [ "AT_BREWFEST_DUN_MOROGH", "dd/d90/a04127.html#a9b234b18092b711f6f11cda755fe0bfda91d9e35e7360f1d853d2f54f54548c61", null ],
-      [ "SAY_WELCOME", "dd/d90/a04127.html#a9b234b18092b711f6f11cda755fe0bfda53e43b5d6a57facfdbe1b6559295a32f", null ],
-      [ "AREATRIGGER_TALK_COOLDOWN", "dd/d90/a04127.html#a9b234b18092b711f6f11cda755fe0bfda7105e5d2474e31860a9bc9f5075c31e4", null ]
+    [ "LoginResult", "dd/d90/a04127.html#a3b6904b8a00ed8f7a67396dee6e9aef5", [
+      [ "LOGIN_OK", "dd/d90/a04127.html#a3b6904b8a00ed8f7a67396dee6e9aef5a9da8cbfbe2c1a4f3ebd3d44a961adabb", null ],
+      [ "LOGIN_FAILED", "dd/d90/a04127.html#a3b6904b8a00ed8f7a67396dee6e9aef5ad57e6995e0b5105bfeb9bde15ed0a7a0", null ],
+      [ "LOGIN_FAILED2", "dd/d90/a04127.html#a3b6904b8a00ed8f7a67396dee6e9aef5a501cd3d3224142afdb0ddd84933f7b56", null ],
+      [ "LOGIN_BANNED", "dd/d90/a04127.html#a3b6904b8a00ed8f7a67396dee6e9aef5abd5993385d5cc24dd420523a27166005", null ],
+      [ "LOGIN_UNKNOWN_ACCOUNT", "dd/d90/a04127.html#a3b6904b8a00ed8f7a67396dee6e9aef5a09d810ee618be6b94e3f65997504e6b3", null ],
+      [ "LOGIN_UNKNOWN_ACCOUNT3", "dd/d90/a04127.html#a3b6904b8a00ed8f7a67396dee6e9aef5a9cd182cb4b751e7fb72928ec376b15bc", null ],
+      [ "LOGIN_ALREADYONLINE", "dd/d90/a04127.html#a3b6904b8a00ed8f7a67396dee6e9aef5a9a53be7e776883d12703dcbb4ed651e5", null ],
+      [ "LOGIN_NOTIME", "dd/d90/a04127.html#a3b6904b8a00ed8f7a67396dee6e9aef5a2ce8ce1e836148b73775ad265ab0f342", null ],
+      [ "LOGIN_DBBUSY", "dd/d90/a04127.html#a3b6904b8a00ed8f7a67396dee6e9aef5af4f0024867276f532e675c24aadcfce8", null ],
+      [ "LOGIN_BADVERSION", "dd/d90/a04127.html#a3b6904b8a00ed8f7a67396dee6e9aef5ae585e165f05e752918e316544b78a91c", null ],
+      [ "LOGIN_DOWNLOAD_FILE", "dd/d90/a04127.html#a3b6904b8a00ed8f7a67396dee6e9aef5a37d9b65d118199e570e0dbfc227bd309", null ],
+      [ "LOGIN_FAILED3", "dd/d90/a04127.html#a3b6904b8a00ed8f7a67396dee6e9aef5af97075f074e84f11375e22e912235aa3", null ],
+      [ "LOGIN_SUSPENDED", "dd/d90/a04127.html#a3b6904b8a00ed8f7a67396dee6e9aef5a401d988d19cea26726562ab92417060b", null ],
+      [ "LOGIN_FAILED4", "dd/d90/a04127.html#a3b6904b8a00ed8f7a67396dee6e9aef5a09338db3247d56c3cc7e41d4de1ed06e", null ],
+      [ "LOGIN_CONNECTED", "dd/d90/a04127.html#a3b6904b8a00ed8f7a67396dee6e9aef5a1bbff3f5057ee056e293eb7ca46968ae", null ],
+      [ "LOGIN_PARENTALCONTROL", "dd/d90/a04127.html#a3b6904b8a00ed8f7a67396dee6e9aef5afcb2d09c101442419ef3262095e9b860", null ],
+      [ "LOGIN_LOCKED_ENFORCED", "dd/d90/a04127.html#a3b6904b8a00ed8f7a67396dee6e9aef5a683788d94491faa7b0ce45a64e0a2c02", null ]
     ] ],
-    [ "CoilfangGOs", "dd/d90/a04127.html#a9670aee8aef02c60b84d4c3d11c963b5", [
-      [ "GO_COILFANG_WATERFALL", "dd/d90/a04127.html#a9670aee8aef02c60b84d4c3d11c963b5a30520dfb9388b8cc7b4cbc9b3420d65d", null ]
-    ] ],
-    [ "LegionTeleporter", "dd/d90/a04127.html#ad9a6ea877cb24dbb530ccf0e03cb7012", [
-      [ "SPELL_TELE_A_TO", "dd/d90/a04127.html#ad9a6ea877cb24dbb530ccf0e03cb7012a09569d3491e5bf73c2d9e897077cd162", null ],
-      [ "QUEST_GAINING_ACCESS_A", "dd/d90/a04127.html#ad9a6ea877cb24dbb530ccf0e03cb7012a1746dcba888866f4914d5fa112323879", null ],
-      [ "SPELL_TELE_H_TO", "dd/d90/a04127.html#ad9a6ea877cb24dbb530ccf0e03cb7012a0373689ced7bf6fcd5453719eff7dff9", null ],
-      [ "QUEST_GAINING_ACCESS_H", "dd/d90/a04127.html#ad9a6ea877cb24dbb530ccf0e03cb7012a90bff047b5c92fa8418685d95440c5ea", null ]
-    ] ],
-    [ "NatsLanding", "dd/d90/a04127.html#a5ee4c50b08414290f73ada43c1c71151", [
-      [ "QUEST_NATS_BARGAIN", "dd/d90/a04127.html#a5ee4c50b08414290f73ada43c1c71151aeff02bfb540090dbb759b896b3b3627e", null ],
-      [ "SPELL_FISH_PASTE", "dd/d90/a04127.html#a5ee4c50b08414290f73ada43c1c71151a84c85ea415f324f0acec6a0e8d8eb8a6", null ],
-      [ "NPC_LURKING_SHARK", "dd/d90/a04127.html#a5ee4c50b08414290f73ada43c1c71151af67d7adb069812fe8e3d79aff3f18900", null ]
-    ] ],
-    [ "ScentLarkorwi", "dd/d90/a04127.html#a743ca0b810fe5b376233e725f346d416", [
-      [ "QUEST_SCENT_OF_LARKORWI", "dd/d90/a04127.html#a743ca0b810fe5b376233e725f346d416a105afbe1f1e3510efdd8ef9fbfe153ee", null ],
-      [ "NPC_LARKORWI_MATE", "dd/d90/a04127.html#a743ca0b810fe5b376233e725f346d416adb746f23675f0b248d264a0557ceff5d", null ]
-    ] ],
-    [ "SentryPoint", "dd/d90/a04127.html#a24ef89c28423d02750eff95a35b3a275", [
-      [ "SPELL_TELEPORT_VISUAL", "dd/d90/a04127.html#a24ef89c28423d02750eff95a35b3a275a73cc106ecf58fcd3a75fa23f9ff7a21c", null ],
-      [ "QUEST_MISSING_DIPLO_PT14", "dd/d90/a04127.html#a24ef89c28423d02750eff95a35b3a275a378a874d36260f01327d51d537b33d94", null ],
-      [ "NPC_TERVOSH", "dd/d90/a04127.html#a24ef89c28423d02750eff95a35b3a275a0ef56679b82214bad2e052fb8e979c50", null ]
-    ] ],
-    [ "StormwrightShelf", "dd/d90/a04127.html#abdd676bd524ed3ea6915b8b1348861dd", [
-      [ "QUEST_STRENGTH_OF_THE_TEMPEST", "dd/d90/a04127.html#abdd676bd524ed3ea6915b8b1348861ddae6b91cb73e581fe9558469357a90ec24", null ],
-      [ "SPELL_CREATE_TRUE_POWER_OF_THE_TEMPEST", "dd/d90/a04127.html#abdd676bd524ed3ea6915b8b1348861dda55079b9b218f67c0dcae1b7da0dcb277", null ]
-    ] ],
-    [ "AddSC_areatrigger_scripts", "dd/d90/a04127.html#a992f2da647f1f8748c7c9239b52079ad", null ]
+    [ "IsAcceptedClientBuild", "dd/d90/a04127.html#a50a906b5a3fdca3508aee0997881a717", null ],
+    [ "IsPostBCAcceptedClientBuild", "dd/d90/a04127.html#ad4f22daf9d88367d90d92416f470a28c", null ],
+    [ "IsPreBCAcceptedClientBuild", "dd/d90/a04127.html#a96896fc9dad2c304f681a24776f6726b", null ]
 ];

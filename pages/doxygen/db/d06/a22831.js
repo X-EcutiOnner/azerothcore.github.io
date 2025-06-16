@@ -1,9 +1,7 @@
 var a22831 =
 [
-    [ "FilterTargets", "db/d06/a22831.html#aa8f0401dd004e816b8071381289116fa", null ],
-    [ "HandleTeleportUnits", "db/d06/a22831.html#a4333f10a29ef3e5643f637899a0ab5c5", null ],
-    [ "PrepareSpellScript", "db/d06/a22831.html#a47898c213cdd125714c80d327bf42d8c", null ],
-    [ "Register", "db/d06/a22831.html#a6036577cd7b4fbbc55e90e9ab067f13a", null ],
-    [ "SetDest", "db/d06/a22831.html#a4cf75d96a0d1de62bc989826204b04c9", null ],
-    [ "Validate", "db/d06/a22831.html#a814083360970284a325621f45e109b5b", null ]
+    [ "SuckBackEvent", "db/d06/a22831.html#a6525e2aefec2680fde20e27ebf962f4c", null ],
+    [ "Execute", "db/d06/a22831.html#aae1664e6ef9d90ec8a0e12554b991bf0", null ],
+    [ "_action", "db/d06/a22831.html#abc54669df2dba0238723a40ababe4c0a", null ],
+    [ "_owner", "db/d06/a22831.html#a4d8bc09803f7786022c1836457ded488", null ]
 ];

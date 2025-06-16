@@ -1,6 +1,8 @@
 var a22419 =
 [
-    [ "npc_storm_cloudAI", "d5/dd3/a22423.html", "d5/dd3/a22423" ],
-    [ "npc_storm_cloud", "d0/d95/a22419.html#a8403185cdf54b2924024ba1d1d44a06a", null ],
-    [ "GetAI", "d0/d95/a22419.html#a952bd1cf5406b989182d8560d8b9e665", null ]
+    [ "HandleApply", "d0/d95/a22419.html#ad8ee9a50314c900b1507e25eaa70ece7", null ],
+    [ "HandleRemove", "d0/d95/a22419.html#a06c7c65d973fcf348f5c929503902520", null ],
+    [ "PrepareAuraScript", "d0/d95/a22419.html#a48b20c0f1997acd0f9f0800bf4b63bd0", null ],
+    [ "Register", "d0/d95/a22419.html#a7018a16262b94a573405e1bdc9fbdd10", null ],
+    [ "Validate", "d0/d95/a22419.html#a8135c492638557eec71189282e7f78a2", null ]
 ];

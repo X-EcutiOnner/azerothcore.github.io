@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/common/Dynamic/TypeList.h File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/common/DataStores/DBCFileLoader.h File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,250 +106,91 @@ $(document).ready(function(){initNavTree('d7/d62/a04379.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
-<a href="#define-members">Macros</a>  </div>
-  <div class="headertitle"><div class="title">TypeList.h File Reference</div></div>
+<a href="#enum-members">Enumerations</a>  </div>
+  <div class="headertitle"><div class="title">DBCFileLoader.h File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">Define.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Errors.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Utilities/ByteConverter.h</a>&quot;</code><br />
+</div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d60/a05279.html">TypeList&lt; HEAD, TAIL &gt;</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d07/a05175.html">DBCFileLoader</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/daa/a05179.html">DBCFileLoader::Record</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="define-members" name="define-members"></a>
-Macros</h2></td></tr>
-<tr class="memitem:a6a7a6aa3dece450c8d239713e2952df7"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d62/a04379.html#a6a7a6aa3dece450c8d239713e2952df7">TYPELIST_1</a>(T1)&#160;&#160;&#160;<a class="el" href="../../d5/d60/a05279.html">TypeList</a>&lt;T1, TypeNull&gt;</td></tr>
-<tr class="separator:a6a7a6aa3dece450c8d239713e2952df7"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a311cb99af993804c6737ae46c5cbfaff"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d62/a04379.html#a311cb99af993804c6737ae46c5cbfaff">TYPELIST_2</a>(T1,  T2)&#160;&#160;&#160;<a class="el" href="../../d5/d60/a05279.html">TypeList</a>&lt;T1, <a class="el" href="../../d7/d62/a04379.html#a6a7a6aa3dece450c8d239713e2952df7">TYPELIST_1</a>(T2) &gt;</td></tr>
-<tr class="separator:a311cb99af993804c6737ae46c5cbfaff"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0309f68a543c5c0994f9edc0e56dc59f"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d62/a04379.html#a0309f68a543c5c0994f9edc0e56dc59f">TYPELIST_3</a>(T1,  T2,  T3)&#160;&#160;&#160;<a class="el" href="../../d5/d60/a05279.html">TypeList</a>&lt;T1, <a class="el" href="../../d7/d62/a04379.html#a311cb99af993804c6737ae46c5cbfaff">TYPELIST_2</a>(T2, T3) &gt;</td></tr>
-<tr class="separator:a0309f68a543c5c0994f9edc0e56dc59f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7a156c571ab21a16b0495e1c882a07fa"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d62/a04379.html#a7a156c571ab21a16b0495e1c882a07fa">TYPELIST_4</a>(T1,  T2,  T3,  T4)&#160;&#160;&#160;<a class="el" href="../../d5/d60/a05279.html">TypeList</a>&lt;T1, <a class="el" href="../../d7/d62/a04379.html#a0309f68a543c5c0994f9edc0e56dc59f">TYPELIST_3</a>(T2, T3, T4) &gt;</td></tr>
-<tr class="separator:a7a156c571ab21a16b0495e1c882a07fa"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aad5d9b3c82c8503c85c625acd41c0a2f"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d62/a04379.html#aad5d9b3c82c8503c85c625acd41c0a2f">TYPELIST_5</a>(T1,  T2,  T3,  T4,  T5)&#160;&#160;&#160;<a class="el" href="../../d5/d60/a05279.html">TypeList</a>&lt;T1, <a class="el" href="../../d7/d62/a04379.html#a7a156c571ab21a16b0495e1c882a07fa">TYPELIST_4</a>(T2, T3, T4, T5) &gt;</td></tr>
-<tr class="separator:aad5d9b3c82c8503c85c625acd41c0a2f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac6f3277dcaade98ceeaa5c0e1c454816"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d62/a04379.html#ac6f3277dcaade98ceeaa5c0e1c454816">TYPELIST_6</a>(T1,  T2,  T3,  T4,  T5,  T6)&#160;&#160;&#160;<a class="el" href="../../d5/d60/a05279.html">TypeList</a>&lt;T1, <a class="el" href="../../d7/d62/a04379.html#aad5d9b3c82c8503c85c625acd41c0a2f">TYPELIST_5</a>(T2, T3, T4, T5, T6) &gt;</td></tr>
-<tr class="separator:ac6f3277dcaade98ceeaa5c0e1c454816"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
+Enumerations</h2></td></tr>
+<tr class="memitem:a969264ba91452f632e809db524c68960"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d62/a04379.html#a969264ba91452f632e809db524c68960">DbcFieldFormat</a> { <br />
+&#160;&#160;<a class="el" href="../../d7/d62/a04379.html#a969264ba91452f632e809db524c68960a0f8a37a34dd644e8432e79266f8e2f8c">FT_NA</a> = 'x'
+, <br />
+&#160;&#160;<a class="el" href="../../d7/d62/a04379.html#a969264ba91452f632e809db524c68960a974d335432036bc88ad76f044e8fca0c">FT_NA_BYTE</a> = 'X'
+, <br />
+&#160;&#160;<a class="el" href="../../d7/d62/a04379.html#a969264ba91452f632e809db524c68960a424189c585691c2ce732ea69a88f4f29">FT_STRING</a> = 's'
+, <br />
+&#160;&#160;<a class="el" href="../../d7/d62/a04379.html#a969264ba91452f632e809db524c68960a1091cfb22d5ff81a81948a92b96f8e9a">FT_FLOAT</a> = 'f'
+, <br />
+&#160;&#160;<a class="el" href="../../d7/d62/a04379.html#a969264ba91452f632e809db524c68960a9d5724546fec2b9d79741da7d3a8030a">FT_INT</a> = 'i'
+, <br />
+&#160;&#160;<a class="el" href="../../d7/d62/a04379.html#a969264ba91452f632e809db524c68960ae268574ec5607a27ec940656742b2095">FT_BYTE</a> = 'b'
+, <br />
+&#160;&#160;<a class="el" href="../../d7/d62/a04379.html#a969264ba91452f632e809db524c68960a496dcb8cfc6d702d15b9a603b242a642">FT_SORT</a> = 'd'
+, <br />
+&#160;&#160;<a class="el" href="../../d7/d62/a04379.html#a969264ba91452f632e809db524c68960a0e7ef1f172d0c33a975fbda2be046036">FT_IND</a> = 'n'
+, <br />
+&#160;&#160;<a class="el" href="../../d7/d62/a04379.html#a969264ba91452f632e809db524c68960aad79cbf0ed6b926353344f5abde2e4cc">FT_LOGIC</a> = 'l'
+<br />
+ }</td></tr>
+<tr class="separator:a969264ba91452f632e809db524c68960"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Macro Definition Documentation</h2>
-<a id="a6a7a6aa3dece450c8d239713e2952df7" name="a6a7a6aa3dece450c8d239713e2952df7"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a6a7a6aa3dece450c8d239713e2952df7">&#9670;&#160;</a></span>TYPELIST_1</h2>
+<h2 class="groupheader">Enumeration Type Documentation</h2>
+<a id="a969264ba91452f632e809db524c68960" name="a969264ba91452f632e809db524c68960"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a969264ba91452f632e809db524c68960">&#9670;&#160;</a></span>DbcFieldFormat</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">#define TYPELIST_1</td>
-          <td>(</td>
-          <td class="paramtype">&#160;</td>
-          <td class="paramname">T1</td><td>)</td>
-          <td>&#160;&#160;&#160;<a class="el" href="../../d5/d60/a05279.html">TypeList</a>&lt;T1, TypeNull&gt;</td>
+          <td class="memname">enum <a class="el" href="../../d7/d62/a04379.html#a969264ba91452f632e809db524c68960">DbcFieldFormat</a></td>
         </tr>
       </table>
 </div><div class="memdoc">
-
-</div>
-</div>
-<a id="a311cb99af993804c6737ae46c5cbfaff" name="a311cb99af993804c6737ae46c5cbfaff"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a311cb99af993804c6737ae46c5cbfaff">&#9670;&#160;</a></span>TYPELIST_2</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">#define TYPELIST_2</td>
-          <td>(</td>
-          <td class="paramtype">&#160;</td>
-          <td class="paramname">T1, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">&#160;</td>
-          <td class="paramname">T2&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td>&#160;&#160;&#160;<a class="el" href="../../d5/d60/a05279.html">TypeList</a>&lt;T1, <a class="el" href="../../d7/d62/a04379.html#a6a7a6aa3dece450c8d239713e2952df7">TYPELIST_1</a>(T2) &gt;</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a0309f68a543c5c0994f9edc0e56dc59f" name="a0309f68a543c5c0994f9edc0e56dc59f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0309f68a543c5c0994f9edc0e56dc59f">&#9670;&#160;</a></span>TYPELIST_3</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">#define TYPELIST_3</td>
-          <td>(</td>
-          <td class="paramtype">&#160;</td>
-          <td class="paramname">T1, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">&#160;</td>
-          <td class="paramname">T2, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">&#160;</td>
-          <td class="paramname">T3&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td>&#160;&#160;&#160;<a class="el" href="../../d5/d60/a05279.html">TypeList</a>&lt;T1, <a class="el" href="../../d7/d62/a04379.html#a311cb99af993804c6737ae46c5cbfaff">TYPELIST_2</a>(T2, T3) &gt;</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a7a156c571ab21a16b0495e1c882a07fa" name="a7a156c571ab21a16b0495e1c882a07fa"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a7a156c571ab21a16b0495e1c882a07fa">&#9670;&#160;</a></span>TYPELIST_4</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">#define TYPELIST_4</td>
-          <td>(</td>
-          <td class="paramtype">&#160;</td>
-          <td class="paramname">T1, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">&#160;</td>
-          <td class="paramname">T2, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">&#160;</td>
-          <td class="paramname">T3, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">&#160;</td>
-          <td class="paramname">T4&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td>&#160;&#160;&#160;<a class="el" href="../../d5/d60/a05279.html">TypeList</a>&lt;T1, <a class="el" href="../../d7/d62/a04379.html#a0309f68a543c5c0994f9edc0e56dc59f">TYPELIST_3</a>(T2, T3, T4) &gt;</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="aad5d9b3c82c8503c85c625acd41c0a2f" name="aad5d9b3c82c8503c85c625acd41c0a2f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aad5d9b3c82c8503c85c625acd41c0a2f">&#9670;&#160;</a></span>TYPELIST_5</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">#define TYPELIST_5</td>
-          <td>(</td>
-          <td class="paramtype">&#160;</td>
-          <td class="paramname">T1, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">&#160;</td>
-          <td class="paramname">T2, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">&#160;</td>
-          <td class="paramname">T3, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">&#160;</td>
-          <td class="paramname">T4, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">&#160;</td>
-          <td class="paramname">T5&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td>&#160;&#160;&#160;<a class="el" href="../../d5/d60/a05279.html">TypeList</a>&lt;T1, <a class="el" href="../../d7/d62/a04379.html#a7a156c571ab21a16b0495e1c882a07fa">TYPELIST_4</a>(T2, T3, T4, T5) &gt;</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="ac6f3277dcaade98ceeaa5c0e1c454816" name="ac6f3277dcaade98ceeaa5c0e1c454816"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac6f3277dcaade98ceeaa5c0e1c454816">&#9670;&#160;</a></span>TYPELIST_6</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">#define TYPELIST_6</td>
-          <td>(</td>
-          <td class="paramtype">&#160;</td>
-          <td class="paramname">T1, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">&#160;</td>
-          <td class="paramname">T2, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">&#160;</td>
-          <td class="paramname">T3, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">&#160;</td>
-          <td class="paramname">T4, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">&#160;</td>
-          <td class="paramname">T5, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">&#160;</td>
-          <td class="paramname">T6&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td>&#160;&#160;&#160;<a class="el" href="../../d5/d60/a05279.html">TypeList</a>&lt;T1, <a class="el" href="../../d7/d62/a04379.html#aad5d9b3c82c8503c85c625acd41c0a2f">TYPELIST_5</a>(T2, T3, T4, T5, T6) &gt;</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a969264ba91452f632e809db524c68960a0f8a37a34dd644e8432e79266f8e2f8c" name="a969264ba91452f632e809db524c68960a0f8a37a34dd644e8432e79266f8e2f8c"></a>FT_NA&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a969264ba91452f632e809db524c68960a974d335432036bc88ad76f044e8fca0c" name="a969264ba91452f632e809db524c68960a974d335432036bc88ad76f044e8fca0c"></a>FT_NA_BYTE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a969264ba91452f632e809db524c68960a424189c585691c2ce732ea69a88f4f29" name="a969264ba91452f632e809db524c68960a424189c585691c2ce732ea69a88f4f29"></a>FT_STRING&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a969264ba91452f632e809db524c68960a1091cfb22d5ff81a81948a92b96f8e9a" name="a969264ba91452f632e809db524c68960a1091cfb22d5ff81a81948a92b96f8e9a"></a>FT_FLOAT&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a969264ba91452f632e809db524c68960a9d5724546fec2b9d79741da7d3a8030a" name="a969264ba91452f632e809db524c68960a9d5724546fec2b9d79741da7d3a8030a"></a>FT_INT&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a969264ba91452f632e809db524c68960ae268574ec5607a27ec940656742b2095" name="a969264ba91452f632e809db524c68960ae268574ec5607a27ec940656742b2095"></a>FT_BYTE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a969264ba91452f632e809db524c68960a496dcb8cfc6d702d15b9a603b242a642" name="a969264ba91452f632e809db524c68960a496dcb8cfc6d702d15b9a603b242a642"></a>FT_SORT&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a969264ba91452f632e809db524c68960a0e7ef1f172d0c33a975fbda2be046036" name="a969264ba91452f632e809db524c68960a0e7ef1f172d0c33a975fbda2be046036"></a>FT_IND&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a969264ba91452f632e809db524c68960aad79cbf0ed6b926353344f5abde2e4cc" name="a969264ba91452f632e809db524c68960aad79cbf0ed6b926353344f5abde2e4cc"></a>FT_LOGIC&#160;</td><td class="fielddoc"></td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno">   26</span>{</div>
+<div class="line"><span class="lineno">   27</span>    <a class="code hl_enumvalue" href="../../d7/d62/a04379.html#a969264ba91452f632e809db524c68960a0f8a37a34dd644e8432e79266f8e2f8c">FT_NA</a> = <span class="charliteral">&#39;x&#39;</span>,                                              <span class="comment">//not used or unknown, 4 byte size</span></div>
+<div class="line"><span class="lineno">   28</span>    <a class="code hl_enumvalue" href="../../d7/d62/a04379.html#a969264ba91452f632e809db524c68960a974d335432036bc88ad76f044e8fca0c">FT_NA_BYTE</a> = <span class="charliteral">&#39;X&#39;</span>,                                         <span class="comment">//not used or unknown, byte</span></div>
+<div class="line"><span class="lineno">   29</span>    <a class="code hl_enumvalue" href="../../d7/d62/a04379.html#a969264ba91452f632e809db524c68960a424189c585691c2ce732ea69a88f4f29">FT_STRING</a> = <span class="charliteral">&#39;s&#39;</span>,                                          <span class="comment">//char*</span></div>
+<div class="line"><span class="lineno">   30</span>    <a class="code hl_enumvalue" href="../../d7/d62/a04379.html#a969264ba91452f632e809db524c68960a1091cfb22d5ff81a81948a92b96f8e9a">FT_FLOAT</a> = <span class="charliteral">&#39;f&#39;</span>,                                           <span class="comment">//float</span></div>
+<div class="line"><span class="lineno">   31</span>    <a class="code hl_enumvalue" href="../../d7/d62/a04379.html#a969264ba91452f632e809db524c68960a9d5724546fec2b9d79741da7d3a8030a">FT_INT</a> = <span class="charliteral">&#39;i&#39;</span>,                                             <span class="comment">//uint32</span></div>
+<div class="line"><span class="lineno">   32</span>    <a class="code hl_enumvalue" href="../../d7/d62/a04379.html#a969264ba91452f632e809db524c68960ae268574ec5607a27ec940656742b2095">FT_BYTE</a> = <span class="charliteral">&#39;b&#39;</span>,                                            <span class="comment">//uint8</span></div>
+<div class="line"><span class="lineno">   33</span>    <a class="code hl_enumvalue" href="../../d7/d62/a04379.html#a969264ba91452f632e809db524c68960a496dcb8cfc6d702d15b9a603b242a642">FT_SORT</a> = <span class="charliteral">&#39;d&#39;</span>,                                            <span class="comment">//sorted by this field, field is not included</span></div>
+<div class="line"><span class="lineno">   34</span>    <a class="code hl_enumvalue" href="../../d7/d62/a04379.html#a969264ba91452f632e809db524c68960a0e7ef1f172d0c33a975fbda2be046036">FT_IND</a> = <span class="charliteral">&#39;n&#39;</span>,                                             <span class="comment">//the same, but parsed to data</span></div>
+<div class="line"><span class="lineno">   35</span>    <a class="code hl_enumvalue" href="../../d7/d62/a04379.html#a969264ba91452f632e809db524c68960aad79cbf0ed6b926353344f5abde2e4cc">FT_LOGIC</a> = <span class="charliteral">&#39;l&#39;</span>                                           <span class="comment">//Logical (boolean)</span></div>
+<div class="line"><span class="lineno">   36</span>};</div>
+<div class="ttc" id="aa04379_html_a969264ba91452f632e809db524c68960a0e7ef1f172d0c33a975fbda2be046036"><div class="ttname"><a href="../../d7/d62/a04379.html#a969264ba91452f632e809db524c68960a0e7ef1f172d0c33a975fbda2be046036">FT_IND</a></div><div class="ttdeci">@ FT_IND</div><div class="ttdef"><b>Definition:</b> DBCFileLoader.h:34</div></div>
+<div class="ttc" id="aa04379_html_a969264ba91452f632e809db524c68960a0f8a37a34dd644e8432e79266f8e2f8c"><div class="ttname"><a href="../../d7/d62/a04379.html#a969264ba91452f632e809db524c68960a0f8a37a34dd644e8432e79266f8e2f8c">FT_NA</a></div><div class="ttdeci">@ FT_NA</div><div class="ttdef"><b>Definition:</b> DBCFileLoader.h:27</div></div>
+<div class="ttc" id="aa04379_html_a969264ba91452f632e809db524c68960a1091cfb22d5ff81a81948a92b96f8e9a"><div class="ttname"><a href="../../d7/d62/a04379.html#a969264ba91452f632e809db524c68960a1091cfb22d5ff81a81948a92b96f8e9a">FT_FLOAT</a></div><div class="ttdeci">@ FT_FLOAT</div><div class="ttdef"><b>Definition:</b> DBCFileLoader.h:30</div></div>
+<div class="ttc" id="aa04379_html_a969264ba91452f632e809db524c68960a424189c585691c2ce732ea69a88f4f29"><div class="ttname"><a href="../../d7/d62/a04379.html#a969264ba91452f632e809db524c68960a424189c585691c2ce732ea69a88f4f29">FT_STRING</a></div><div class="ttdeci">@ FT_STRING</div><div class="ttdef"><b>Definition:</b> DBCFileLoader.h:29</div></div>
+<div class="ttc" id="aa04379_html_a969264ba91452f632e809db524c68960a496dcb8cfc6d702d15b9a603b242a642"><div class="ttname"><a href="../../d7/d62/a04379.html#a969264ba91452f632e809db524c68960a496dcb8cfc6d702d15b9a603b242a642">FT_SORT</a></div><div class="ttdeci">@ FT_SORT</div><div class="ttdef"><b>Definition:</b> DBCFileLoader.h:33</div></div>
+<div class="ttc" id="aa04379_html_a969264ba91452f632e809db524c68960a974d335432036bc88ad76f044e8fca0c"><div class="ttname"><a href="../../d7/d62/a04379.html#a969264ba91452f632e809db524c68960a974d335432036bc88ad76f044e8fca0c">FT_NA_BYTE</a></div><div class="ttdeci">@ FT_NA_BYTE</div><div class="ttdef"><b>Definition:</b> DBCFileLoader.h:28</div></div>
+<div class="ttc" id="aa04379_html_a969264ba91452f632e809db524c68960a9d5724546fec2b9d79741da7d3a8030a"><div class="ttname"><a href="../../d7/d62/a04379.html#a969264ba91452f632e809db524c68960a9d5724546fec2b9d79741da7d3a8030a">FT_INT</a></div><div class="ttdeci">@ FT_INT</div><div class="ttdef"><b>Definition:</b> DBCFileLoader.h:31</div></div>
+<div class="ttc" id="aa04379_html_a969264ba91452f632e809db524c68960aad79cbf0ed6b926353344f5abde2e4cc"><div class="ttname"><a href="../../d7/d62/a04379.html#a969264ba91452f632e809db524c68960aad79cbf0ed6b926353344f5abde2e4cc">FT_LOGIC</a></div><div class="ttdeci">@ FT_LOGIC</div><div class="ttdef"><b>Definition:</b> DBCFileLoader.h:35</div></div>
+<div class="ttc" id="aa04379_html_a969264ba91452f632e809db524c68960ae268574ec5607a27ec940656742b2095"><div class="ttname"><a href="../../d7/d62/a04379.html#a969264ba91452f632e809db524c68960ae268574ec5607a27ec940656742b2095">FT_BYTE</a></div><div class="ttdeci">@ FT_BYTE</div><div class="ttdef"><b>Definition:</b> DBCFileLoader.h:32</div></div>
+</div><!-- fragment -->
 </div>
 </div>
 </div><!-- contents -->
@@ -357,8 +198,8 @@ Macros</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1070012e9e40376f8468ff0aa5b77c71.html">common</a></li><li class="navelem"><a class="el" href="../../dir_5e90094e25781d2f0c122fad038cf6ce.html">Dynamic</a></li><li class="navelem"><a class="el" href="../../d7/d62/a04379.html">TypeList.h</a></li>
-    <li class="footer">Generated on Mon Jun 9 2025 20:46:05 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1070012e9e40376f8468ff0aa5b77c71.html">common</a></li><li class="navelem"><a class="el" href="../../dir_26a560dca6d22ebb61b5c78a9f0b7562.html">DataStores</a></li><li class="navelem"><a class="el" href="../../d7/d62/a04379.html">DBCFileLoader.h</a></li>
+    <li class="footer">Generated on Mon Jun 16 2025 20:47:09 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

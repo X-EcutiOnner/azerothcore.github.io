@@ -1,6 +1,7 @@
 var a23543 =
 [
-    [ "HandleScriptEffect", "d8/d3f/a23543.html#af0841e5c67c981b792a8d8f0d0d18edc", null ],
-    [ "PrepareSpellScript", "d8/d3f/a23543.html#a287bff28e57a86f0176921500de78fa9", null ],
-    [ "Register", "d8/d3f/a23543.html#ad5fb101794dfdef0c08551dd9397b965", null ]
+    [ "HandleDummyApply", "d8/d3f/a23543.html#a8a982bbbda94a2cf981c845161f05bdc", null ],
+    [ "HandleDummyRemove", "d8/d3f/a23543.html#a5d68d9e15600119deca7179ffe00acda", null ],
+    [ "PrepareAuraScript", "d8/d3f/a23543.html#a34d09e48b69d32dae6c127fa0837be4b", null ],
+    [ "Register", "d8/d3f/a23543.html#a094004ccf6b4cae4d27bca639b76b899", null ]
 ];

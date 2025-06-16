@@ -1,72 +1,56 @@
 var a02507 =
 [
-    [ "DataHeader", "de/dbd/a02507.html#a042491ef36459046f3866e90f15aae0d", null ],
-    [ "RegisterUtgardeKeepCreatureAI", "de/dbd/a02507.html#a960a375dc6655df45bd889a1b1487dcc", null ],
-    [ "UtgardeKeepScriptName", "de/dbd/a02507.html#aa55ba53746fd3f7441c2cfe321fbf05f", null ],
-    [ "eCreatures", "de/dbd/a02507.html#a59602e8f26d052c0b6f6bdfe896510b8", [
-      [ "NPC_ONYXIA", "d0/d17/a03491.html#a59602e8f26d052c0b6f6bdfe896510b8ac5297157e46436388d2a4e835c06de6e", null ],
-      [ "NPC_ONYXIAN_WHELP", "d0/d17/a03491.html#a59602e8f26d052c0b6f6bdfe896510b8a29f399e186a17314b99be364d738371a", null ],
-      [ "NPC_ONYXIAN_LAIR_GUARD", "d0/d17/a03491.html#a59602e8f26d052c0b6f6bdfe896510b8ac5a305bf78c6e737c665da793df48e49", null ],
-      [ "NPC_KELESETH", "de/dbd/a02507.html#a59602e8f26d052c0b6f6bdfe896510b8a1aa34e102fe5c920939fbbed64fd3bdd", null ],
-      [ "NPC_DALRONN", "de/dbd/a02507.html#a59602e8f26d052c0b6f6bdfe896510b8adc8eb044588758e3cfb4ed8c699e483d", null ],
-      [ "NPC_DALRONN_GHOST", "de/dbd/a02507.html#a59602e8f26d052c0b6f6bdfe896510b8ad6b59b3f0fa1841b3dbce49b32ce88f7", null ],
-      [ "NPC_SKARVALD", "de/dbd/a02507.html#a59602e8f26d052c0b6f6bdfe896510b8a531d439e3ed6f40d45aaf591d93722af", null ],
-      [ "NPC_SKARVALD_GHOST", "de/dbd/a02507.html#a59602e8f26d052c0b6f6bdfe896510b8aa4eafbdfd4632f9b207feb03c1c9906e", null ],
-      [ "NPC_INGVAR", "de/dbd/a02507.html#a59602e8f26d052c0b6f6bdfe896510b8aa8071c2550f86111dabfe071bb8905ec", null ],
-      [ "NPC_DARK_RANGER_MARRAH", "de/dbd/a02507.html#a59602e8f26d052c0b6f6bdfe896510b8a629c86c326a68aa9c57e75b658644e27", null ],
-      [ "NPC_ENSLAVED_PROTO_DRAKE", "de/dbd/a02507.html#a59602e8f26d052c0b6f6bdfe896510b8ab4269b45260da78a67bfdab9a95d8c2c", null ],
-      [ "NPC_ICHOR_GLOBULE", "d1/d2e/a02537.html#a59602e8f26d052c0b6f6bdfe896510b8a5c39abb26566ef9fb1e3afe0cecc9762", null ]
+    [ "go_shadowforge_brazier", "dc/df2/a11775.html", "dc/df2/a11775" ],
+    [ "ironhand_guardian", "da/d0f/a11779.html", "da/d0f/a11779" ],
+    [ "ironhand_guardian::ironhand_guardianAI", "dd/dbf/a11783.html", "dd/dbf/a11783" ],
+    [ "WaveCreature", "dd/d27/a11787.html", "dd/d27/a11787" ],
+    [ "at_ring_of_law", "d5/d1d/a11791.html", "d5/d1d/a11791" ],
+    [ "npc_grimstone", "de/d46/a11795.html", "de/d46/a11795" ],
+    [ "npc_grimstone::npc_grimstoneAI", "d6/d6c/a11799.html", "d6/d6c/a11799" ],
+    [ "npc_phalanx", "d6/db1/a11803.html", "d6/db1/a11803" ],
+    [ "npc_phalanx::npc_phalanxAI", "d0/dd1/a11807.html", "d0/dd1/a11807" ],
+    [ "npc_lokhtos_darkbargainer", "d9/d91/a11811.html", "d9/d91/a11811" ],
+    [ "npc_rocknot", "d2/d5f/a11815.html", "d2/d5f/a11815" ],
+    [ "npc_rocknot::npc_rocknotAI", "dc/dc9/a11819.html", "dc/dc9/a11819" ],
+    [ "GrimstoneTexts", "de/dbd/a02507.html#a0c9ac53db659fd636b9dc88ea37a3954", [
+      [ "SAY_TEXT1", "de/dbd/a02507.html#a0c9ac53db659fd636b9dc88ea37a3954abe56e2dc1daa55ecb206c40203e2c43f", null ],
+      [ "SAY_TEXT2", "de/dbd/a02507.html#a0c9ac53db659fd636b9dc88ea37a3954ab6be9087c9f91d239f09f746f54c7134", null ],
+      [ "SAY_TEXT3", "de/dbd/a02507.html#a0c9ac53db659fd636b9dc88ea37a3954a2ba8965d5901749a12d1480d8ac009b9", null ],
+      [ "SAY_TEXT4", "de/dbd/a02507.html#a0c9ac53db659fd636b9dc88ea37a3954a07d6839dbfc7d4b3580bfa4dbafd9e5c", null ],
+      [ "SAY_TEXT5", "de/dbd/a02507.html#a0c9ac53db659fd636b9dc88ea37a3954abb8aafd7f2dbaa933f3d2c0f858cc16d", null ],
+      [ "SAY_TEXT6", "de/dbd/a02507.html#a0c9ac53db659fd636b9dc88ea37a3954a5b808298bfd32a4b30c81da55f921803", null ]
     ] ],
-    [ "eData", "de/dbd/a02507.html#a8d0deb2f48ff4560c08e13e9a1f92c19", [
-      [ "BOSS_GRAND_CHAMPIONS", "d5/d73/a02423.html#a8d0deb2f48ff4560c08e13e9a1f92c19a5806d1976bed173d983dd9a3991ba348", null ],
-      [ "BOSS_ARGENT_CHALLENGE", "d5/d73/a02423.html#a8d0deb2f48ff4560c08e13e9a1f92c19af4e06416d3f8096da97e8da8d825a7c3", null ],
-      [ "BOSS_BLACK_KNIGHT", "d5/d73/a02423.html#a8d0deb2f48ff4560c08e13e9a1f92c19a4cbd85f9cf78bdc13a11e7058fa26ed6", null ],
-      [ "MAX_ENCOUNTER", "d5/d73/a02423.html#a8d0deb2f48ff4560c08e13e9a1f92c19a7913656ef56deb3793c0c5f3d999d80d", null ],
-      [ "DATA_INSTANCE_PROGRESS", "d5/d73/a02423.html#a8d0deb2f48ff4560c08e13e9a1f92c19a2538f41a0dc11a9f5a05d543e2346e64", null ],
-      [ "DATA_ANNOUNCER", "d5/d73/a02423.html#a8d0deb2f48ff4560c08e13e9a1f92c19aed6e91b58a89d58d9a117c065201ed3d", null ],
-      [ "DATA_ANNOUNCER_GOSSIP_SELECT", "d5/d73/a02423.html#a8d0deb2f48ff4560c08e13e9a1f92c19ae327d558268132cc78f48afde7813c1c", null ],
-      [ "DATA_GRAND_CHAMPION_REACHED_DEST", "d5/d73/a02423.html#a8d0deb2f48ff4560c08e13e9a1f92c19a62d7693aff0b89f9ae2f8961610470ed", null ],
-      [ "DATA_MOUNT_DIED", "d5/d73/a02423.html#a8d0deb2f48ff4560c08e13e9a1f92c19ab71272c0048c67a869f3b2c54eb4a1fb", null ],
-      [ "DATA_REACHED_NEW_MOUNT", "d5/d73/a02423.html#a8d0deb2f48ff4560c08e13e9a1f92c19a3767e24ce8dd167fc1ec1aa6c7a1a995", null ],
-      [ "DATA_GRAND_CHAMPION_PICKED_NEW_VEHICLE", "d5/d73/a02423.html#a8d0deb2f48ff4560c08e13e9a1f92c19abb5ea8659950cd843a5e047c37fe0d8e", null ],
-      [ "DATA_GRAND_CHAMPION_DIED", "d5/d73/a02423.html#a8d0deb2f48ff4560c08e13e9a1f92c19a2edbdd1769e681f1a6e1608d3eddd291", null ],
-      [ "DATA_ARGENT_SOLDIER_DEFEATED", "d5/d73/a02423.html#a8d0deb2f48ff4560c08e13e9a1f92c19a72e96779738cdb8b7878c1e7184c595f", null ],
-      [ "DATA_SKELETAL_GRYPHON_LANDED", "d5/d73/a02423.html#a8d0deb2f48ff4560c08e13e9a1f92c19a09f670fffcb277f8eb1cf5203921ee11", null ],
-      [ "DATA_TEAMID_IN_INSTANCE", "d5/d73/a02423.html#a8d0deb2f48ff4560c08e13e9a1f92c19aa65ac0ac68c78f1c2ea895c7db9bf159", null ],
-      [ "DATA_PALETRESS", "d5/d73/a02423.html#a8d0deb2f48ff4560c08e13e9a1f92c19ae471545eff60a92540bc1dbb2c5c132a", null ],
-      [ "DATA_MEMORY_ENTRY", "d5/d73/a02423.html#a8d0deb2f48ff4560c08e13e9a1f92c19ae3870675f9b0ff52008d1e12ffb318c0", null ],
-      [ "DATA_ACHIEV_IVE_HAD_WORSE", "d5/d73/a02423.html#a8d0deb2f48ff4560c08e13e9a1f92c19a329cb468bbc0aae8a32d25611683bbca", null ],
-      [ "DATA_KELESETH", "de/dbd/a02507.html#a8d0deb2f48ff4560c08e13e9a1f92c19a91156271b279525b5e89bfbfef908dd2", null ],
-      [ "DATA_DALRONN_AND_SKARVALD", "de/dbd/a02507.html#a8d0deb2f48ff4560c08e13e9a1f92c19aec083d8bd0b158056e5bff0fa5365ce2", null ],
-      [ "DATA_INGVAR", "de/dbd/a02507.html#a8d0deb2f48ff4560c08e13e9a1f92c19ae83b52b50f79446e72f719162604a301", null ],
-      [ "MAX_ENCOUNTER", "de/dbd/a02507.html#a8d0deb2f48ff4560c08e13e9a1f92c19a7913656ef56deb3793c0c5f3d999d80d", null ],
-      [ "DATA_FORGE_EVENT_MASK", "de/dbd/a02507.html#a8d0deb2f48ff4560c08e13e9a1f92c19a5b89223911c2633f67f1a2216e76b9e9", null ],
-      [ "DATA_DALRONN", "de/dbd/a02507.html#a8d0deb2f48ff4560c08e13e9a1f92c19a4eea4f7a31453de43c34bf60104d2322", null ],
-      [ "DATA_SKARVALD", "de/dbd/a02507.html#a8d0deb2f48ff4560c08e13e9a1f92c19ae4984d96449b5f21602ac3200b4e878c", null ],
-      [ "DATA_DALRONN_GHOST", "de/dbd/a02507.html#a8d0deb2f48ff4560c08e13e9a1f92c19af1fea442f8fe91dcd9f636e8092d382a", null ],
-      [ "DATA_SKARVALD_GHOST", "de/dbd/a02507.html#a8d0deb2f48ff4560c08e13e9a1f92c19ab74c59643e93c2ff34170b8add4fb3a3", null ],
-      [ "DATA_DARK_RANGER_MARRAH", "de/dbd/a02507.html#a8d0deb2f48ff4560c08e13e9a1f92c19a879a87959c687ac7d45fefab89e9cd33", null ],
-      [ "DATA_ON_THE_ROCKS_ACHIEV", "de/dbd/a02507.html#a8d0deb2f48ff4560c08e13e9a1f92c19a7e8085beca3f86d995e9114bb692caa5", null ],
-      [ "DATA_SPECIAL_DRAKE", "de/dbd/a02507.html#a8d0deb2f48ff4560c08e13e9a1f92c19a0f739f109c96e6321817dfb79268576c", null ],
-      [ "DATA_FORGE_1", "de/dbd/a02507.html#a8d0deb2f48ff4560c08e13e9a1f92c19a93dc1a3744941a9325155e24066e57d3", null ],
-      [ "DATA_FORGE_2", "de/dbd/a02507.html#a8d0deb2f48ff4560c08e13e9a1f92c19a6649cdf4259f42e0a186448cffaa903b", null ],
-      [ "DATA_FORGE_3", "de/dbd/a02507.html#a8d0deb2f48ff4560c08e13e9a1f92c19aaf9bb08a5940dc5432628fb4c9fc914e", null ],
-      [ "DATA_UNLOCK_SKARVALD_LOOT", "de/dbd/a02507.html#a8d0deb2f48ff4560c08e13e9a1f92c19abe2a7bc19c24e5e9b3f9d52af57a0bc3", null ],
-      [ "DATA_UNLOCK_DALRONN_LOOT", "de/dbd/a02507.html#a8d0deb2f48ff4560c08e13e9a1f92c19a3224d1038b2c6ca502bf6fcd5c41c4a4", null ]
+    [ "IronhandData", "de/dbd/a02507.html#a2351df48f090013a8239bcb029c39779", [
+      [ "IRONHAND_FLAMES_TIMER", "de/dbd/a02507.html#a2351df48f090013a8239bcb029c39779abbe9eb5c7fa7c6fdad2b47486ffaca97", null ],
+      [ "IRONHAND_FLAMES_TIMER_RAND", "de/dbd/a02507.html#a2351df48f090013a8239bcb029c39779ac69d13ee833747626073318984c0b3eb", null ],
+      [ "IRONHAND_N_GROUPS", "de/dbd/a02507.html#a2351df48f090013a8239bcb029c39779a066afe62759b3706fe8a3ad01ff12451", null ],
+      [ "SPELL_GOUT_OF_FLAMES", "de/dbd/a02507.html#a2351df48f090013a8239bcb029c39779a3b6e8dcf51592d02d02bda14669cb90a", null ]
     ] ],
-    [ "eGameObject", "de/dbd/a02507.html#a6294cd8aa684acc2365fde03bde4f56b", [
-      [ "GO_BELLOW_1", "de/dbd/a02507.html#a6294cd8aa684acc2365fde03bde4f56ba56b578c66924fce09a5479fa8a6e2135", null ],
-      [ "GO_BELLOW_2", "de/dbd/a02507.html#a6294cd8aa684acc2365fde03bde4f56ba8ea298e6e56ff15cb48889cb8ddd9755", null ],
-      [ "GO_BELLOW_3", "de/dbd/a02507.html#a6294cd8aa684acc2365fde03bde4f56ba1d534c51481170f4846a341000e6bc79", null ],
-      [ "GO_FORGEFIRE_1", "de/dbd/a02507.html#a6294cd8aa684acc2365fde03bde4f56baca07587b3cd9005dcd44315277364e6e", null ],
-      [ "GO_FORGEFIRE_2", "de/dbd/a02507.html#a6294cd8aa684acc2365fde03bde4f56baba66705f45393cd20d34e9b05f4b53d3", null ],
-      [ "GO_FORGEFIRE_3", "de/dbd/a02507.html#a6294cd8aa684acc2365fde03bde4f56ba018a92a46dc1c940d1837a056dcd177b", null ],
-      [ "GO_GLOWING_ANVIL_1", "de/dbd/a02507.html#a6294cd8aa684acc2365fde03bde4f56ba27a98f2dddababbf0c029b45774073e4", null ],
-      [ "GO_GLOWING_ANVIL_2", "de/dbd/a02507.html#a6294cd8aa684acc2365fde03bde4f56ba4ba40f08e9c7709237cfd27da18cc825", null ],
-      [ "GO_GLOWING_ANVIL_3", "de/dbd/a02507.html#a6294cd8aa684acc2365fde03bde4f56babb6bd3527c8918c5ed89820a75822c46", null ],
-      [ "GO_GIANT_PORTCULLIS_1", "de/dbd/a02507.html#a6294cd8aa684acc2365fde03bde4f56ba0892492e251a03f74b2b3448c826b4fa", null ],
-      [ "GO_GIANT_PORTCULLIS_2", "de/dbd/a02507.html#a6294cd8aa684acc2365fde03bde4f56ba8677ebe93c3f10b258510218c4ae0b31", null ]
+    [ "LokhtosItems", "de/dbd/a02507.html#a2399740be44cbcc9b6a925a61d042f94", [
+      [ "ITEM_THRORIUM_BROTHERHOOD_CONTRACT", "de/dbd/a02507.html#a2399740be44cbcc9b6a925a61d042f94a8abbc79e28968f5cdca0fc6e1b0df40b", null ],
+      [ "ITEM_SULFURON_INGOT", "de/dbd/a02507.html#a2399740be44cbcc9b6a925a61d042f94ac62a268f952750403ff0af9ac3cc7700", null ]
     ] ],
-    [ "GetUtgardeKeepAI", "de/dbd/a02507.html#ae0ae037cccad7d1fe95c09509c7a2af9", null ],
-    [ "EncounterCount", "de/dbd/a02507.html#a31d630c40753c29f94ceac2db5e451a8", null ]
+    [ "LokhtosQuests", "de/dbd/a02507.html#a45b983ab1cb7b86457cb9e2996c3db7e", [
+      [ "QUEST_A_BINDING_CONTRACT", "de/dbd/a02507.html#a45b983ab1cb7b86457cb9e2996c3db7ea67a74b63a45269bd88d4e62ac086b7e6", null ]
+    ] ],
+    [ "LokhtosSpells", "de/dbd/a02507.html#afc72f18a766ff75425d24ce4bff0b174", [
+      [ "SPELL_CREATE_THORIUM_BROTHERHOOD_CONTRACT_DND", "de/dbd/a02507.html#afc72f18a766ff75425d24ce4bff0b174a225499c386065b2bb904086ec6bc68c7", null ]
+    ] ],
+    [ "PhalanxSpells", "de/dbd/a02507.html#a4e5bf673237e04bd7162baff3a0cec21", [
+      [ "SPELL_THUNDERCLAP", "de/dbd/a02507.html#a4e5bf673237e04bd7162baff3a0cec21a7f4e66bb0a1b5b2705975420f645b16e", null ],
+      [ "SPELL_FIREBALLVOLLEY", "de/dbd/a02507.html#a4e5bf673237e04bd7162baff3a0cec21a725c2e5b9167c2cb646bf3e8c31492df", null ],
+      [ "SPELL_MIGHTYBLOW", "de/dbd/a02507.html#a4e5bf673237e04bd7162baff3a0cec21a16caf5a86b691c031c87f3f5ea65a251", null ]
+    ] ],
+    [ "RocknotQuests", "de/dbd/a02507.html#a6b0d084d8af18bd5f9b8b009e51137db", [
+      [ "QUEST_ALE", "de/dbd/a02507.html#a6b0d084d8af18bd5f9b8b009e51137dba736905032af28505a38a22a718e1c17a", null ]
+    ] ],
+    [ "RocknotSays", "de/dbd/a02507.html#a0fcf46ec361ec3eb9f40c6701294d8e0", [
+      [ "SAY_GOT_BEER", "de/dbd/a02507.html#a0fcf46ec361ec3eb9f40c6701294d8e0a907cae969cb1fc078f260cc54dc01e22", null ]
+    ] ],
+    [ "RocknotSpells", "de/dbd/a02507.html#aecb1fc71fc0abbbddedbf095e934edb4", [
+      [ "SPELL_DRUNKEN_RAGE", "de/dbd/a02507.html#aecb1fc71fc0abbbddedbf095e934edb4a4523bad97d4b588a1cf849bee5a67125", null ]
+    ] ],
+    [ "AddSC_blackrock_depths", "de/dbd/a02507.html#a2070b23fe45e3ac60f1b2db9b07efb22", null ],
+    [ "RingBoss", "de/dbd/a02507.html#af2fce71fa3dcd5348828dd274e1872ec", null ],
+    [ "RingMobs", "de/dbd/a02507.html#a26123366b238dd51ab03de9e763db822", null ]
 ];

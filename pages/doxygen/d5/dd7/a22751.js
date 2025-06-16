@@ -1,8 +1,7 @@
 var a22751 =
 [
-    [ "HandleScriptEffect", "d5/dd7/a22751.html#a8e5b81581fff787f691521d03fed66fc", null ],
-    [ "Load", "d5/dd7/a22751.html#a8a74f3c6776f2613a6b2c63387d962e2", null ],
-    [ "PrepareSpellScript", "d5/dd7/a22751.html#a5dfe415b9c990e83b9e6c1ee06a33692", null ],
-    [ "Register", "d5/dd7/a22751.html#a5839b0e282fb2848c328cfaaca2c752f", null ],
-    [ "Validate", "d5/dd7/a22751.html#a8c1ee55a1122c62056250b3fa09357a8", null ]
+    [ "VerasEnvenom", "d5/dd7/a22751.html#ac8c5f4fcb63ea5141a71b56324de0b1f", null ],
+    [ "Execute", "d5/dd7/a22751.html#a4b7853bb835cf28aefe2d5b955372d70", null ],
+    [ "_owner", "d5/dd7/a22751.html#af9cf231119ab5592be9829784f20d2e0", null ],
+    [ "_targetGUID", "d5/dd7/a22751.html#a90d62907c775565765fa87903adb94ea", null ]
 ];

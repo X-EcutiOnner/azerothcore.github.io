@@ -1,9 +1,6 @@
 var a02246 =
 [
-    [ "instance_ruby_sanctum", "d4/d15/a16139.html", "d4/d15/a16139" ],
-    [ "instance_ruby_sanctum::instance_ruby_sanctum_InstanceMapScript", "d2/dc7/a16143.html", "d2/dc7/a16143" ],
-    [ "spell_ruby_sanctum_rallying_shout", "d9/dba/a16147.html", "d9/dba/a16147" ],
-    [ "AddSC_instance_ruby_sanctum", "de/db2/a02246.html#a93f8126d2e36ad7caab980f1c3f83a14", null ],
-    [ "boundaries", "de/db2/a02246.html#aa75d7d0ffe0cef214f982966c33db1c1", null ],
-    [ "doorData", "de/db2/a02246.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ]
+    [ "instance_wailing_caverns", "dd/de9/a15211.html", "dd/de9/a15211" ],
+    [ "instance_wailing_caverns::instance_wailing_caverns_InstanceMapScript", "d6/d70/a15215.html", "d6/d70/a15215" ],
+    [ "AddSC_instance_wailing_caverns", "de/db2/a02246.html#a67427453c8ec357648c276eaed523225", null ]
 ];

@@ -1,6 +1,6 @@
 var a22131 =
 [
-    [ "npc_avatar_of_freya", "db/d24/a22131.html#a3a6c4f6d8f05d606c6f545d91acdb2c1", null ],
-    [ "OnGossipHello", "db/d24/a22131.html#a020e8e41b32eb65ff906c9ca934a03fe", null ],
-    [ "OnGossipSelect", "db/d24/a22131.html#aba1b13e922873e939b2510b4bc77f49d", null ]
+    [ "npc_bushwhackerAI", "db/d24/a22131.html#a0cf480b75aa45a9f3572c4a65df2daee", null ],
+    [ "InitializeAI", "db/d24/a22131.html#a18db5870e62378ff49472f7a5881861c", null ],
+    [ "UpdateAI", "db/d24/a22131.html#aadc3384626d728942897fe93750f0c02", null ]
 ];

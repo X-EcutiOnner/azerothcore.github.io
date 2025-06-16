@@ -1,4 +1,6 @@
 var a00146 =
 [
-    [ "AH_MINIMUM_DEPOSIT", "d9/db6/a00146.html#ae6debe42dd0e5674dcf1b874cebafe98", null ]
+    [ "CharacterDatabase", "d9/db6/a00146.html#a7e7534bc66d79434bd280b77cb124eec", null ],
+    [ "LoginDatabase", "d9/db6/a00146.html#a2cf25eafe7f2f73b61ccde11d55daf0c", null ],
+    [ "WorldDatabase", "d9/db6/a00146.html#afa9a6509f9913c9c7dd3081523badd7c", null ]
 ];

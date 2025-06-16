@@ -1,6 +1,9 @@
 var a23715 =
 [
-    [ "instance_the_botanica_InstanceMapScript", "d6/db0/a23719.html", "d6/db0/a23719" ],
-    [ "instance_the_botanica", "d3/db3/a23715.html#a8f8acda65f37e45e2439707f3979cf7c", null ],
-    [ "GetInstanceScript", "d3/db3/a23715.html#a335f671443ca0fb9db5956cefdf37182", null ]
+    [ "HandleEffectApply", "d3/db3/a23715.html#ac9e030810cc1ffb3927943353bcbb764", null ],
+    [ "HandleEffectRemove", "d3/db3/a23715.html#a2524bb4614fa62fb703a3d3cf0c25da0", null ],
+    [ "Load", "d3/db3/a23715.html#a60f41c19f5104eef82048fd1e3416abd", null ],
+    [ "PrepareAuraScript", "d3/db3/a23715.html#a277d9865108acafac4b1a42bc5b5714b", null ],
+    [ "Register", "d3/db3/a23715.html#a5ffe5a8b3422382482f713ff6d8514b2", null ],
+    [ "_falconSet", "d3/db3/a23715.html#a1a20f75d251936bff7a0777831d79140", null ]
 ];

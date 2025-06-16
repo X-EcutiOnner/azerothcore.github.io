@@ -1,34 +1,5 @@
 var a04679 =
 [
-    [ "adt_MCVT", "dc/dc8/a28483.html", "dc/dc8/a28483" ],
-    [ "adt_MCLQ", "d4/d1a/a28491.html", "d4/d1a/a28491" ],
-    [ "adt_MCLQ::liquid_data", "d4/dd9/a28499.html", "d4/dd9/a28499" ],
-    [ "adt_MCNK", "de/ddd/a28503.html", "de/ddd/a28503" ],
-    [ "adt_MCIN", "d4/d32/a28511.html", "d4/d32/a28511" ],
-    [ "adt_MCIN::adt_CELLS", "df/d0f/a28519.html", "df/d0f/a28519" ],
-    [ "adt_liquid_instance", "da/dad/a28523.html", "da/dad/a28523" ],
-    [ "adt_liquid_attributes", "d4/d1e/a28527.html", "d4/d1e/a28527" ],
-    [ "adt_MH2O", "d6/d42/a28531.html", "d6/d42/a28531" ],
-    [ "adt_MH2O::adt_LIQUID", "d6/d88/a28539.html", "d6/d88/a28539" ],
-    [ "adt_MFBO", "d7/d2a/a28543.html", "d7/d2a/a28543" ],
-    [ "adt_MFBO::plane", "d9/d40/a28551.html", "d9/d40/a28551" ],
-    [ "adt_MHDR", "dc/d67/a28555.html", "dc/d67/a28555" ],
-    [ "ADT_file", "d0/dff/a28563.html", "d0/dff/a28563" ],
-    [ "ADT_CELL_SIZE", "de/d69/a04679.html#a1e3d5d05087dd429cb513f26211aaad1", null ],
-    [ "ADT_CELLS_PER_GRID", "de/d69/a04679.html#aaa17abcdb17267fda5cd146bec40af39", null ],
-    [ "ADT_GRID_SIZE", "de/d69/a04679.html#aa01c13bed63c283263ad2ad586721c77", null ],
-    [ "CHUNKSIZE", "de/d69/a04679.html#a239bebe1697b474e6f84945e9fb9faee", null ],
-    [ "TILESIZE", "de/d69/a04679.html#a07ae61ed7dc31e9cddbdf9da244567c7", null ],
-    [ "UNITSIZE", "de/d69/a04679.html#adad9f01017a76fb25b04611c100d3df7", null ],
-    [ "LiquidType", "de/d69/a04679.html#a623f699008200dd1aa3c00fb91bc7065", [
-      [ "LIQUID_TYPE_WATER", "de/d69/a04679.html#a623f699008200dd1aa3c00fb91bc7065a1959b1f042d34cdd8a79c9ee3223f043", null ],
-      [ "LIQUID_TYPE_OCEAN", "de/d69/a04679.html#a623f699008200dd1aa3c00fb91bc7065af157bf14abe6e407890f83a0fbdb82e3", null ],
-      [ "LIQUID_TYPE_MAGMA", "de/d69/a04679.html#a623f699008200dd1aa3c00fb91bc7065aad4df40b4ce0967a3c2c917bcd3b6300", null ],
-      [ "LIQUID_TYPE_SLIME", "de/d69/a04679.html#a623f699008200dd1aa3c00fb91bc7065a51f9de84786e092879920b28992da026", null ]
-    ] ],
-    [ "LiquidVertexFormatType", "de/d69/a04679.html#a5292fd275b2d01d81692c430af9dc51f", [
-      [ "HeightDepth", "de/d69/a04679.html#a5292fd275b2d01d81692c430af9dc51fadc5bae52022216a549f4d884bf4e2f73", null ],
-      [ "HeightTextureCoord", "de/d69/a04679.html#a5292fd275b2d01d81692c430af9dc51fad931d69dec9efae87a6040c1e60781cb", null ],
-      [ "Depth", "de/d69/a04679.html#a5292fd275b2d01d81692c430af9dc51fa675056ad1441b6375b2c5abd48c27ef1", null ]
-    ] ]
+    [ "ExtractGameobjectModels", "de/d69/a04679.html#a7b3d0cbf404ed32359e354ccf6e34392", null ],
+    [ "ExtractSingleModel", "de/d69/a04679.html#a6a96194f748b715f0400249583336ae5", null ]
 ];

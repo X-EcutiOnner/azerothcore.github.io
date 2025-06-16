@@ -1,9 +1,6 @@
 var a25595 =
 [
-    [ "spell_item_trigger_spell", "d9/d19/a25595.html#a619e9a5233e36157cbdaba70a3ba80da", null ],
-    [ "HandleDummy", "d9/d19/a25595.html#a49613255eea28e34cf5ff8a06798f89a", null ],
-    [ "PrepareSpellScript", "d9/d19/a25595.html#a78903f92c30fb23ff7297f7fa16c4861", null ],
-    [ "Register", "d9/d19/a25595.html#ab9abd9f01ce37c23d6502e6d86e3f998", null ],
-    [ "Validate", "d9/d19/a25595.html#a2f2df93e8f9d0e51273560665ea5c245", null ],
-    [ "_triggeredSpellId", "d9/d19/a25595.html#a610c5ac434fe788120ed101f7bf58f63", null ]
+    [ "CalculateAmount", "d9/d19/a25595.html#ad80edf403addb2d907d0d3d778b6745f", null ],
+    [ "PrepareAuraScript", "d9/d19/a25595.html#a96c2e2cdd259d96bb7aa12eb42856cf4", null ],
+    [ "Register", "d9/d19/a25595.html#a538ab0fdebbafa3c96183f639fe8968b", null ]
 ];

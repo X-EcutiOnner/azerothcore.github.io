@@ -1,8 +1,6 @@
 var a00194 =
 [
-    [ "CorpseUpdateFieldFlags", "dc/d57/a00194.html#a4ba9132e74378f888b4724dbbaf147f3", null ],
-    [ "DynamicObjectUpdateFieldFlags", "dc/d57/a00194.html#aefe3be44e608ab4935e11ea44f8e0ce6", null ],
-    [ "GameObjectUpdateFieldFlags", "dc/d57/a00194.html#aee13b862f51557c371d3d93341128895", null ],
-    [ "ItemUpdateFieldFlags", "dc/d57/a00194.html#ac1cca7ecf1650663132e3e220d771adf", null ],
-    [ "UnitUpdateFieldFlags", "dc/d57/a00194.html#a310c5b2e3065e40ce04fe5ccd84fb51b", null ]
+    [ "DatabaseWorkerPool< T >", "d4/d71/a05671.html", "d4/d71/a05671" ],
+    [ "MIN_MYSQL_CLIENT_VERSION", "dc/d57/a00194.html#abfde8cf59610848eff4ea61d09bb8ca7", null ],
+    [ "MIN_MYSQL_SERVER_VERSION", "dc/d57/a00194.html#acd4a83e86313ca0bb35cb66497bc79b2", null ]
 ];

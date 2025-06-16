@@ -1,7 +1,4 @@
 var a01379 =
 [
-    [ "ChannelMgr", "d9/d85/a07467.html", "d9/d85/a07467" ],
-    [ "AllianceChannelMgr", "d1/d33/a07471.html", "d1/d33/a07471" ],
-    [ "HordeChannelMgr", "dd/d24/a07475.html", "dd/d24/a07475" ],
-    [ "MAX_CHANNEL_PASS_STR", "d0/d9b/a01379.html#a06f16ee81d2214d67575f108b76f6333", null ]
+    [ "MapUpdater", "d6/d42/a09819.html", "d6/d42/a09819" ]
 ];

@@ -1,21 +1,23 @@
 var a00341 =
 [
-    [ "Totem", "d7/d39/a08619.html", "d7/d39/a08619" ],
-    [ "EARTHBIND_TOTEM_ENTRY", "d3/d93/a00341.html#a6cae59b1369b7371cefb92be8fc73fa5", null ],
-    [ "SENTRY_TOTEM_ENTRY", "d3/d93/a00341.html#a2bd46e1df17fdee45cd35896306092fb", null ],
-    [ "TotemImmunitySpells", "d3/d93/a00341.html#a526213bf692d4f8d189a61617f4a59c9", [
-      [ "SPELL_CYCLONE", "d3/d93/a00341.html#a526213bf692d4f8d189a61617f4a59c9ab0dea4de61535b7690ae66cfa6440f58", null ],
-      [ "SPELL_STONECLAW", "d3/d93/a00341.html#a526213bf692d4f8d189a61617f4a59c9ad0896fc7fa22551f57cc65fd56ee8649", null ],
-      [ "SPELL_BIND_SIGHT", "d3/d93/a00341.html#a526213bf692d4f8d189a61617f4a59c9a1f48e779f72284c7b1140c6be1a5a81a", null ],
-      [ "SPELL_INTERVENE", "d3/d93/a00341.html#a526213bf692d4f8d189a61617f4a59c9ac663f276cbe6aa86a2ae46813fc14b8c", null ]
-    ] ],
-    [ "TotemSpellIds", "d3/d93/a00341.html#a7092ec93c941969cd2cdd2291c6de0be", [
-      [ "SentryTotemSpell", "d3/d93/a00341.html#a7092ec93c941969cd2cdd2291c6de0bea2ff316c1216f8b3e5f60a3700214c8c3", null ],
-      [ "FireTotemSpell", "d3/d93/a00341.html#a7092ec93c941969cd2cdd2291c6de0bea52ad0e17d0d0699c294f9434023aeea7", null ]
-    ] ],
-    [ "TotemType", "d3/d93/a00341.html#a65151889ab4b03cf02268cc7a7ff0ba3", [
-      [ "TOTEM_PASSIVE", "d3/d93/a00341.html#a65151889ab4b03cf02268cc7a7ff0ba3a63f155f3367aa262aae567b57c623069", null ],
-      [ "TOTEM_ACTIVE", "d3/d93/a00341.html#a65151889ab4b03cf02268cc7a7ff0ba3a3c3ecb49d653993abf86f289019e27b0", null ],
-      [ "TOTEM_STATUE", "d3/d93/a00341.html#a65151889ab4b03cf02268cc7a7ff0ba3ab0fbf32f7d371a34f276dfdf6552e300", null ]
+    [ "PathGenerator", "d8/d7d/a09951.html", "d8/d7d/a09951" ],
+    [ "DISALLOW_TIME_AFTER_FAIL", "d3/d93/a00341.html#ad29d27e72c40ec9a02fbdc29ee093857", null ],
+    [ "INVALID_POLYREF", "d3/d93/a00341.html#a6ed37c24cf4f8cd0008c13f111e01092", null ],
+    [ "MAX_PATH_LENGTH", "d3/d93/a00341.html#a9eb6992d76f02128388ae95c0415604a", null ],
+    [ "MAX_POINT_PATH_LENGTH", "d3/d93/a00341.html#ac4c3ae34e2d3733cc39fc1c207d4b814", null ],
+    [ "SMOOTH_PATH_SLOP", "d3/d93/a00341.html#a9439d6d260a5bf3c1bba446a935b2ce4", null ],
+    [ "SMOOTH_PATH_STEP_SIZE", "d3/d93/a00341.html#ab1ec8eeebdd39a1cceb896f6fcb996bc", null ],
+    [ "VERTEX_SIZE", "d3/d93/a00341.html#a14571eb5f0eee95bf614e04c59b0207a", null ],
+    [ "PathType", "d3/d93/a00341.html#ae093c9a96eda0463cdd2501ba83f10c3", [
+      [ "PATHFIND_BLANK", "d3/d93/a00341.html#ae093c9a96eda0463cdd2501ba83f10c3ae3e554bae74ad71bf12ba2eea8cc74d0", null ],
+      [ "PATHFIND_NORMAL", "d3/d93/a00341.html#ae093c9a96eda0463cdd2501ba83f10c3a58a5a66492944c141d0f386ce330b2c1", null ],
+      [ "PATHFIND_SHORTCUT", "d3/d93/a00341.html#ae093c9a96eda0463cdd2501ba83f10c3ae3c910a168f98f0694e99440aad8028f", null ],
+      [ "PATHFIND_INCOMPLETE", "d3/d93/a00341.html#ae093c9a96eda0463cdd2501ba83f10c3aee2f2083277a36e471f1bf1170fba3be", null ],
+      [ "PATHFIND_NOPATH", "d3/d93/a00341.html#ae093c9a96eda0463cdd2501ba83f10c3a5ab66bcba6eb689d881b4ebc85188984", null ],
+      [ "PATHFIND_NOT_USING_PATH", "d3/d93/a00341.html#ae093c9a96eda0463cdd2501ba83f10c3a4246537a1b739abb599260d9fbb83cdf", null ],
+      [ "PATHFIND_SHORT", "d3/d93/a00341.html#ae093c9a96eda0463cdd2501ba83f10c3a8a25c1fe0f8142291e2183102e647cc2", null ],
+      [ "PATHFIND_FARFROMPOLY_START", "d3/d93/a00341.html#ae093c9a96eda0463cdd2501ba83f10c3a6a98cd66fb2172475b98b7fa120a64ab", null ],
+      [ "PATHFIND_FARFROMPOLY_END", "d3/d93/a00341.html#ae093c9a96eda0463cdd2501ba83f10c3a100828592997ee8c90d192befefac0a9", null ],
+      [ "PATHFIND_FARFROMPOLY", "d3/d93/a00341.html#ae093c9a96eda0463cdd2501ba83f10c3a71d670c0e84fb7296854813de6452e6c", null ]
     ] ]
 ];

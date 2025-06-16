@@ -1,6 +1,5 @@
 var a04202 =
 [
-    [ "VMAP::LocationInfo", "d1/da2/a04991.html", "d1/da2/a04991" ],
-    [ "VMAP::StaticMapTree", "d6/d54/a04995.html", "d6/d54/a04995" ],
-    [ "VMAP::AreaInfo", "d9/d7c/a04999.html", "d9/d7c/a04999" ]
+    [ "ACORE_LINKAGE_TYPE_STR", "d1/d8f/a04202.html#a498cc8d79612cf645e7afc2ceb4174f3", null ],
+    [ "AZEROTH_PLATFORM_STR", "d1/d8f/a04202.html#af7cd76a18bc19a0ec34ac7693e406971", null ]
 ];

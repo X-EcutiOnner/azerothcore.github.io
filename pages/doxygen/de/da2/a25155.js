@@ -1,9 +1,14 @@
 var a25155 =
 [
-    [ "spell_gen_lifebloom", "de/da2/a25155.html#a5cb52a4dda841d9d31fd00a31ddc3350", null ],
-    [ "AfterRemove", "de/da2/a25155.html#aea962f603e56c1bd33fccaef0c89d917", null ],
-    [ "PrepareAuraScript", "de/da2/a25155.html#ac11134bdc3588795ce6e256c5b02055f", null ],
-    [ "Register", "de/da2/a25155.html#ab4a552402ee9f90834320d6fc668cff3", null ],
-    [ "Validate", "de/da2/a25155.html#a599634d92b92a5635b89733b7bb3c3c8", null ],
-    [ "_spellId", "de/da2/a25155.html#a196484d01d2dc07163e18fdca9f60ca9", null ]
+    [ "spell_gen_mount", "de/da2/a25155.html#aae8c5c328dda0668bf8cdabc2c9cd29f", null ],
+    [ "HandleMount", "de/da2/a25155.html#a81085b5efd8d9bd7c82ebb1cf6604793", null ],
+    [ "PrepareSpellScript", "de/da2/a25155.html#a49e2046d30352a6e22dab2530e909fa7", null ],
+    [ "Register", "de/da2/a25155.html#a8175ecc0c407d5c4646f038d7b62e92b", null ],
+    [ "Validate", "de/da2/a25155.html#accef27fc13ff34af52860ad6ac62e7f3", null ],
+    [ "_mount0", "de/da2/a25155.html#abd6347074186b7c47ac5a2c760f4db33", null ],
+    [ "_mount100", "de/da2/a25155.html#a5e56853140f188ff1babc61c507f8300", null ],
+    [ "_mount150", "de/da2/a25155.html#a1237697623e4831c25efcde1ab370031", null ],
+    [ "_mount280", "de/da2/a25155.html#aa9d0a936795d06dd78ef3c4d5aaf0320", null ],
+    [ "_mount310", "de/da2/a25155.html#ac06b80d14cc106281c3e6bf3f6a5c727", null ],
+    [ "_mount60", "de/da2/a25155.html#a53ce7d1b5a39cce2bede77aad647dc7e", null ]
 ];

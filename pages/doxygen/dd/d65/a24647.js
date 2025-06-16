@@ -1,7 +1,6 @@
 var a24647 =
 [
-    [ "AfterApply", "dd/d65/a24647.html#a1849f49a9682627753b8bd39b3ff827e", null ],
-    [ "AfterRemove", "dd/d65/a24647.html#a7c08bea735cd36840463aa942e7529b4", null ],
-    [ "PrepareAuraScript", "dd/d65/a24647.html#ad27880f797137cae09381e860727e2f7", null ],
-    [ "Register", "dd/d65/a24647.html#a6c105609c1ee61a8f845018550b2e3ba", null ]
+    [ "CheckCast", "dd/d65/a24647.html#a583e19667a83ada4cd793fbf391f9e93", null ],
+    [ "PrepareSpellScript", "dd/d65/a24647.html#ac6adda0dbe544cf2457060647c01de0f", null ],
+    [ "Register", "dd/d65/a24647.html#a50d1284f1113bfdd0b39690efabe6b9b", null ]
 ];

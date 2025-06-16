@@ -1,7 +1,7 @@
 var a28235 =
 [
-    [ "EpicPropertiesPoints", "da/d63/a28235.html#a35dc60a15091357e03032226621340f7", null ],
-    [ "itemLevel", "da/d63/a28235.html#a35506e3235c2c24230058dc2fb9abc4f", null ],
-    [ "RarePropertiesPoints", "da/d63/a28235.html#a9359171635ef3e9a0029820fad286368", null ],
-    [ "UncommonPropertiesPoints", "da/d63/a28235.html#a74acb6861a84d5d193038eaa5ac9b12f", null ]
+    [ "Id", "da/d63/a28235.html#a5e2447dd0f6b60e322105d8fcafd0010", null ],
+    [ "MaxLevel", "da/d63/a28235.html#a0392e52a26bb4e1d1927fa7f76c674b8", null ],
+    [ "Modifier", "da/d63/a28235.html#a5ce5b18749d3c75878b310bdc8427b1f", null ],
+    [ "StatMod", "da/d63/a28235.html#ab639dd94c53707ca160e13f71342730d", null ]
 ];

@@ -1,11 +1,6 @@
 var a27535 =
 [
-    [ "npc_injured_patientAI", "d0/dc7/a27535.html#a0973487623f1771c598648bc06a6d9a3", null ],
-    [ "JustEngagedWith", "d0/dc7/a27535.html#a621a8cc3f6b9655760431d52766ca589", null ],
-    [ "Reset", "d0/dc7/a27535.html#a007c9c7a4047374574cad17e9309d7c1", null ],
-    [ "SpellHit", "d0/dc7/a27535.html#ac9381e7c958348ae7a5e98fea7dcbe37", null ],
-    [ "UpdateAI", "d0/dc7/a27535.html#a54d0a5574175747779878dce0ebfd44f", null ],
-    [ "_scheduler", "d0/dc7/a27535.html#a60428fa97c8f6520338d53ed368c4c35", null ],
-    [ "Coord", "d0/dc7/a27535.html#af5a6f87c0379edd07a8756018b0c8661", null ],
-    [ "DoctorGUID", "d0/dc7/a27535.html#ad1de0d556a784aa16d87b8367fdb38e3", null ]
+    [ "npc_garments_of_questsAI", "d2/dae/a27539.html", "d2/dae/a27539" ],
+    [ "npc_garments_of_quests", "d0/dc7/a27535.html#a7e4ad68e0187c0a392ed93097b2bf0ce", null ],
+    [ "GetAI", "d0/dc7/a27535.html#aa8ad1c654f00e054f9b424f61716eafd", null ]
 ];

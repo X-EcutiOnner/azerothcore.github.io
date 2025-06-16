@@ -1,8 +1,8 @@
 var a22171 =
 [
-    [ "CheckCast", "d0/d35/a22171.html#ab1584c391ac81b8338387acc6187001f", null ],
-    [ "HandleDummy", "d0/d35/a22171.html#abe856e2c3b986eeac0c1a62aa301eb6d", null ],
-    [ "PrepareSpellScript", "d0/d35/a22171.html#a08d9ffb7dcbe786071979166e0489336", null ],
-    [ "Register", "d0/d35/a22171.html#a5f0bbd57f3cbc0d0de3d8830dd4e6f2b", null ],
-    [ "Validate", "d0/d35/a22171.html#a82d931b4a15f6a60c27d932e8188ef78", null ]
+    [ "npc_vics_flying_machineAI", "d0/d35/a22171.html#a4464e0b1433c4ffb24ae7809b1a0eec5", null ],
+    [ "MovementInform", "d0/d35/a22171.html#ac4bbe0a3cccb6878d050b717b9efb320", null ],
+    [ "PassengerBoarded", "d0/d35/a22171.html#aa67dcbb4b43b047398fec2619ad61829", null ],
+    [ "SpellHit", "d0/d35/a22171.html#aa81229a104e1521d570abec4b6f7bca7", null ],
+    [ "pointId", "d0/d35/a22171.html#aa1412c23f0c3b964262e145c51aea974", null ]
 ];

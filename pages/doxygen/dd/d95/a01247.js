@@ -1,4 +1,6 @@
 var a01247 =
 [
-    [ "ScriptRegistry< TransportScript >", "dd/d95/a01247.html#ac3a26b1245888c6c41ca2359008afe20", null ]
+    [ "WorldPackets::Packet", "dd/d78/a10407.html", "dd/d78/a10407" ],
+    [ "WorldPackets::ServerPacket", "d7/d12/a10411.html", "d7/d12/a10411" ],
+    [ "WorldPackets::ClientPacket", "d6/db0/a10415.html", "d6/db0/a10415" ]
 ];

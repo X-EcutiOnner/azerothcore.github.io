@@ -1,6 +1,6 @@
 var a28083 =
 [
-    [ "Id", "d6/d7b/a28083.html#a9f283a7c8339cc5b4fa67f3974ce8621", null ],
-    [ "SpellId", "d6/d7b/a28083.html#ae8c119bacf706916f331d3f316fb1347", null ],
-    [ "TypeFlags", "d6/d7b/a28083.html#aae92871758e9a738a888cacf0946f16b", null ]
+    [ "Id", "d6/d7b/a28083.html#a5d7f2d5a2890593554ea841deb38abb2", null ],
+    [ "Order", "d6/d7b/a28083.html#a16fca42d9a0a98e034a93984c4362b53", null ],
+    [ "TypeFlags", "d6/d7b/a28083.html#ac7246adc7c6c3217de8ac093983b7553", null ]
 ];

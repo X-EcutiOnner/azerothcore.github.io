@@ -1,81 +1,46 @@
 var a00389 =
 [
-    [ "SpellDestination", "d0/d76/a11051.html", "d0/d76/a11051" ],
-    [ "SpellCastTargets", "d2/d03/a11055.html", "d2/d03/a11055" ],
-    [ "SpellValue", "dd/d2f/a11059.html", "dd/d2f/a11059" ],
-    [ "ChannelTargetData", "d7/d42/a11063.html", "d7/d42/a11063" ],
-    [ "TargetInfo", "d8/d6e/a11067.html", "d8/d6e/a11067" ],
-    [ "TriggeredByAuraSpellData", "d3/d6e/a11071.html", "d3/d6e/a11071" ],
-    [ "Spell", "dc/dcc/a11075.html", "dc/dcc/a11075" ],
-    [ "Spell::GOTargetInfo", "df/d0e/a11079.html", "df/d0e/a11079" ],
-    [ "Spell::ItemTargetInfo", "d5/d89/a11083.html", "d5/d89/a11083" ],
-    [ "Spell::HitTriggerSpell", "de/d87/a11087.html", "de/d87/a11087" ],
-    [ "Acore::WorldObjectSpellTargetCheck", "d1/db7/a11091.html", "d1/db7/a11091" ],
-    [ "Acore::WorldObjectSpellNearbyTargetCheck", "dc/da4/a11095.html", "dc/da4/a11095" ],
-    [ "Acore::WorldObjectSpellAreaTargetCheck", "d1/d88/a11099.html", "d1/d88/a11099" ],
-    [ "Acore::WorldObjectSpellConeTargetCheck", "d9/dc5/a11103.html", "d9/dc5/a11103" ],
-    [ "Acore::WorldObjectSpellTrajTargetCheck", "d4/d98/a11107.html", "d4/d98/a11107" ],
-    [ "ReflectEvent", "d9/d70/a11111.html", "d9/d70/a11111" ],
-    [ "SPELL_CHANNEL_UPDATE_INTERVAL", "dc/dc9/a00389.html#ab78935c66af944ba148b76e50b175514", null ],
-    [ "pEffect", "dc/dc9/a00389.html#ac4912996788d32123000e7fc35065c29", null ],
-    [ "SpellCastFlags", "dc/dc9/a00389.html#abed1822d323e37699c2c01a115a1d2f5", [
-      [ "CAST_FLAG_NONE", "dc/dc9/a00389.html#abed1822d323e37699c2c01a115a1d2f5ae3bc67bf88cf15e2d611b9cc1137a3ca", null ],
-      [ "CAST_FLAG_PENDING", "dc/dc9/a00389.html#abed1822d323e37699c2c01a115a1d2f5adf508e40eff69133b3b8a10b04a60c91", null ],
-      [ "CAST_FLAG_HAS_TRAJECTORY", "dc/dc9/a00389.html#abed1822d323e37699c2c01a115a1d2f5ab2313d979b965f12b7fe7a39464a3b16", null ],
-      [ "CAST_FLAG_UNKNOWN_3", "dc/dc9/a00389.html#abed1822d323e37699c2c01a115a1d2f5a4f105c09ee9daffaad3e19319d3fb0cf", null ],
-      [ "CAST_FLAG_UNKNOWN_4", "dc/dc9/a00389.html#abed1822d323e37699c2c01a115a1d2f5a685a318f11101697f90ec4ed5f68f2a9", null ],
-      [ "CAST_FLAG_UNKNOWN_5", "dc/dc9/a00389.html#abed1822d323e37699c2c01a115a1d2f5a0875247496f84f194a8ac95c4ad0306d", null ],
-      [ "CAST_FLAG_PROJECTILE", "dc/dc9/a00389.html#abed1822d323e37699c2c01a115a1d2f5a911b49cb2a1f6a041e3edaea2d29aaf2", null ],
-      [ "CAST_FLAG_UNKNOWN_7", "dc/dc9/a00389.html#abed1822d323e37699c2c01a115a1d2f5a9247c3beea696c57d23397a38118feec", null ],
-      [ "CAST_FLAG_UNKNOWN_8", "dc/dc9/a00389.html#abed1822d323e37699c2c01a115a1d2f5a269487e18646c34887cd2fd9123caa56", null ],
-      [ "CAST_FLAG_UNKNOWN_9", "dc/dc9/a00389.html#abed1822d323e37699c2c01a115a1d2f5a3e5d9d38c58f0b071164f170e9e853ec", null ],
-      [ "CAST_FLAG_UNKNOWN_10", "dc/dc9/a00389.html#abed1822d323e37699c2c01a115a1d2f5a0d0a297a8da35bb77fb59e6d61d783be", null ],
-      [ "CAST_FLAG_UNKNOWN_11", "dc/dc9/a00389.html#abed1822d323e37699c2c01a115a1d2f5a550c8883396d29c10d0a5cbfb37ed610", null ],
-      [ "CAST_FLAG_POWER_LEFT_SELF", "dc/dc9/a00389.html#abed1822d323e37699c2c01a115a1d2f5a9e0b6572c81f21766e219f800344f56a", null ],
-      [ "CAST_FLAG_UNKNOWN_13", "dc/dc9/a00389.html#abed1822d323e37699c2c01a115a1d2f5aa4cbe000cd9ede880c3b555b5b45272e", null ],
-      [ "CAST_FLAG_UNKNOWN_14", "dc/dc9/a00389.html#abed1822d323e37699c2c01a115a1d2f5acc1c433523d0fcdb7ef8c33a84f384c3", null ],
-      [ "CAST_FLAG_UNKNOWN_15", "dc/dc9/a00389.html#abed1822d323e37699c2c01a115a1d2f5acd5132a9f95bb2b053a8f6e8629db48c", null ],
-      [ "CAST_FLAG_UNKNOWN_16", "dc/dc9/a00389.html#abed1822d323e37699c2c01a115a1d2f5a81c62b8dcbbda6078376d1b95b4b44c6", null ],
-      [ "CAST_FLAG_UNKNOWN_17", "dc/dc9/a00389.html#abed1822d323e37699c2c01a115a1d2f5ae8b9bfb86fa26b82d9b6cadfe6372205", null ],
-      [ "CAST_FLAG_ADJUST_MISSILE", "dc/dc9/a00389.html#abed1822d323e37699c2c01a115a1d2f5a262d78c35fb74238ec4a1afdb28219db", null ],
-      [ "CAST_FLAG_NO_GCD", "dc/dc9/a00389.html#abed1822d323e37699c2c01a115a1d2f5a736df7bee6e7361d9637de90959f9169", null ],
-      [ "CAST_FLAG_VISUAL_CHAIN", "dc/dc9/a00389.html#abed1822d323e37699c2c01a115a1d2f5a20c95c624718076edc4b69e74aba3b69", null ],
-      [ "CAST_FLAG_UNKNOWN_21", "dc/dc9/a00389.html#abed1822d323e37699c2c01a115a1d2f5af6f1cba5f5cea12edf85ce89c85aa2ae", null ],
-      [ "CAST_FLAG_RUNE_LIST", "dc/dc9/a00389.html#abed1822d323e37699c2c01a115a1d2f5ab7e8e219d2f2a70a79ada779cc20dc15", null ],
-      [ "CAST_FLAG_UNKNOWN_23", "dc/dc9/a00389.html#abed1822d323e37699c2c01a115a1d2f5a78d1402d43146bbb8fc4582c78fc5251", null ],
-      [ "CAST_FLAG_UNKNOWN_24", "dc/dc9/a00389.html#abed1822d323e37699c2c01a115a1d2f5aa85382d7729b2724af2ef75c6be72a82", null ],
-      [ "CAST_FLAG_UNKNOWN_25", "dc/dc9/a00389.html#abed1822d323e37699c2c01a115a1d2f5a19055a268af4383f429e8768fbab8240", null ],
-      [ "CAST_FLAG_UNKNOWN_26", "dc/dc9/a00389.html#abed1822d323e37699c2c01a115a1d2f5a53f8c826c219cafa07184570131aff83", null ],
-      [ "CAST_FLAG_IMMUNITY", "dc/dc9/a00389.html#abed1822d323e37699c2c01a115a1d2f5aeb6eabdc1379fa5bc61395a9ea1d29ab", null ],
-      [ "CAST_FLAG_UNKNOWN_28", "dc/dc9/a00389.html#abed1822d323e37699c2c01a115a1d2f5aa7167080e0df5babfe7ffbb224795954", null ],
-      [ "CAST_FLAG_UNKNOWN_29", "dc/dc9/a00389.html#abed1822d323e37699c2c01a115a1d2f5a91d47a0d7d9d08089c952c586184f083", null ],
-      [ "CAST_FLAG_UNKNOWN_30", "dc/dc9/a00389.html#abed1822d323e37699c2c01a115a1d2f5a65bb1f85762c66130a1db9e717f96107", null ],
-      [ "CAST_FLAG_HEAL_PREDICTION", "dc/dc9/a00389.html#abed1822d323e37699c2c01a115a1d2f5a289146261b197957c9bbd893f48fb9cc", null ],
-      [ "CAST_FLAG_UNKNOWN_32", "dc/dc9/a00389.html#abed1822d323e37699c2c01a115a1d2f5a18cb827d6d2d906ccbab6403a281f953", null ]
+    [ "ChaseRange", "d1/d22/a09883.html", "d1/d22/a09883" ],
+    [ "ChaseAngle", "de/da2/a09887.html", "de/da2/a09887" ],
+    [ "MotionMaster", "df/d3f/a09891.html", "df/d3f/a09891" ],
+    [ "SPEED_CHARGE", "dc/dc9/a00389.html#a6386d0a4b64b17a25a60627bb55b360c", null ],
+    [ "VISUAL_WAYPOINT", "dc/dc9/a00389.html#af0544189c7fc748059c3075861102b40", null ],
+    [ "MMCleanFlag", "dc/dc9/a00389.html#a1a14fe34f2e738c20bcc4e3c5cc71de5", [
+      [ "MMCF_NONE", "dc/dc9/a00389.html#a1a14fe34f2e738c20bcc4e3c5cc71de5a94162d33d05261960508206156596b79", null ],
+      [ "MMCF_UPDATE", "dc/dc9/a00389.html#a1a14fe34f2e738c20bcc4e3c5cc71de5ab78b5bb4f06ecc2246991dc5660faca5", null ],
+      [ "MMCF_RESET", "dc/dc9/a00389.html#a1a14fe34f2e738c20bcc4e3c5cc71de5a52a6ffecbabca2148ffb0ad5ac3009f2", null ],
+      [ "MMCF_INUSE", "dc/dc9/a00389.html#a1a14fe34f2e738c20bcc4e3c5cc71de5ae59b5bbe7b7d76f6167d789502da8cb0", null ]
     ] ],
-    [ "SpellEffectHandleMode", "dc/dc9/a00389.html#a5f7398919556f987efbdbf8c7ed4b651", [
-      [ "SPELL_EFFECT_HANDLE_LAUNCH", "dc/dc9/a00389.html#a5f7398919556f987efbdbf8c7ed4b651a505182af284efeaf5427cd49ccdae48a", null ],
-      [ "SPELL_EFFECT_HANDLE_LAUNCH_TARGET", "dc/dc9/a00389.html#a5f7398919556f987efbdbf8c7ed4b651a35e58ffc84a8e4dbd99478f2848678b2", null ],
-      [ "SPELL_EFFECT_HANDLE_HIT", "dc/dc9/a00389.html#a5f7398919556f987efbdbf8c7ed4b651a68d09fc4591462cf7d4f4338753af548", null ],
-      [ "SPELL_EFFECT_HANDLE_HIT_TARGET", "dc/dc9/a00389.html#a5f7398919556f987efbdbf8c7ed4b651af4c5b99ead243a7fd18d4925aa310dc4", null ]
+    [ "MovementGeneratorType", "dc/dc9/a00389.html#a4f12806b915efea564eae942207002f9", [
+      [ "IDLE_MOTION_TYPE", "dc/dc9/a00389.html#a4f12806b915efea564eae942207002f9a35e951ebafcab180b4bd926e5760803e", null ],
+      [ "RANDOM_MOTION_TYPE", "dc/dc9/a00389.html#a4f12806b915efea564eae942207002f9aec7cad6c9576df1fca0eb4fa073e5ff2", null ],
+      [ "WAYPOINT_MOTION_TYPE", "dc/dc9/a00389.html#a4f12806b915efea564eae942207002f9a6158029efb794f0a586a62f35cef5ae9", null ],
+      [ "MAX_DB_MOTION_TYPE", "dc/dc9/a00389.html#a4f12806b915efea564eae942207002f9a06257c74c322baaae86bc2bfd1dd359b", null ],
+      [ "ANIMAL_RANDOM_MOTION_TYPE", "dc/dc9/a00389.html#a4f12806b915efea564eae942207002f9ae9aa98899960f240ae2de52288b2dbd6", null ],
+      [ "CONFUSED_MOTION_TYPE", "dc/dc9/a00389.html#a4f12806b915efea564eae942207002f9aaf0253f8d6a3f2a5219bcf9db3494611", null ],
+      [ "CHASE_MOTION_TYPE", "dc/dc9/a00389.html#a4f12806b915efea564eae942207002f9a4a7484b1c685865cef43981b61d3a881", null ],
+      [ "HOME_MOTION_TYPE", "dc/dc9/a00389.html#a4f12806b915efea564eae942207002f9ab50c687899070d507c7858b481807426", null ],
+      [ "FLIGHT_MOTION_TYPE", "dc/dc9/a00389.html#a4f12806b915efea564eae942207002f9ad1cbffaeac9c9f09b8aeedbaadef54f4", null ],
+      [ "POINT_MOTION_TYPE", "dc/dc9/a00389.html#a4f12806b915efea564eae942207002f9ad05105e19ca15912eceb8a1d856c7467", null ],
+      [ "FLEEING_MOTION_TYPE", "dc/dc9/a00389.html#a4f12806b915efea564eae942207002f9a96bdbc5913c5eb73d6eb7b28bbe9b05e", null ],
+      [ "DISTRACT_MOTION_TYPE", "dc/dc9/a00389.html#a4f12806b915efea564eae942207002f9a35aa056191b760ab18515a11f00f1759", null ],
+      [ "ASSISTANCE_MOTION_TYPE", "dc/dc9/a00389.html#a4f12806b915efea564eae942207002f9a32a9419cbc2b947d521e0ea050020a9c", null ],
+      [ "ASSISTANCE_DISTRACT_MOTION_TYPE", "dc/dc9/a00389.html#a4f12806b915efea564eae942207002f9aec81245314a6864c0e3561d3bfc04ec4", null ],
+      [ "TIMED_FLEEING_MOTION_TYPE", "dc/dc9/a00389.html#a4f12806b915efea564eae942207002f9a0358690810ecf133811aa6b73bc086fc", null ],
+      [ "FOLLOW_MOTION_TYPE", "dc/dc9/a00389.html#a4f12806b915efea564eae942207002f9ae99e76e1e80feb6d7ff6e1df01e98e9c", null ],
+      [ "ROTATE_MOTION_TYPE", "dc/dc9/a00389.html#a4f12806b915efea564eae942207002f9a5e3cb574fe15a9c73536dab95be16c3f", null ],
+      [ "EFFECT_MOTION_TYPE", "dc/dc9/a00389.html#a4f12806b915efea564eae942207002f9af4917c7ba7d6e157bc3b8c59773cc6ac", null ],
+      [ "ESCORT_MOTION_TYPE", "dc/dc9/a00389.html#a4f12806b915efea564eae942207002f9a61498726a0e9657284d8fb8b173cf4bf", null ],
+      [ "NULL_MOTION_TYPE", "dc/dc9/a00389.html#a4f12806b915efea564eae942207002f9a9e63cfaad6d8b0e2c14a8b53f6f02e0b", null ]
     ] ],
-    [ "SpellFlags", "dc/dc9/a00389.html#a68423826ac8d5f2d2aca7e83dfa9d2c2", [
-      [ "SPELL_FLAG_NORMAL", "dc/dc9/a00389.html#a68423826ac8d5f2d2aca7e83dfa9d2c2abc18f1a292e6163055b15c50854a6cbe", null ],
-      [ "SPELL_FLAG_REFLECTED", "dc/dc9/a00389.html#a68423826ac8d5f2d2aca7e83dfa9d2c2a821083f58cdc2d250afcee151634e757", null ],
-      [ "SPELL_FLAG_REDIRECTED", "dc/dc9/a00389.html#a68423826ac8d5f2d2aca7e83dfa9d2c2adfcc1624804cc74a9267c4608e9dd11a", null ]
+    [ "MovementSlot", "dc/dc9/a00389.html#a42f80f4e5d95e3ba656adbee43cfc3f5", [
+      [ "MOTION_SLOT_IDLE", "dc/dc9/a00389.html#a42f80f4e5d95e3ba656adbee43cfc3f5a8c7bb505a87bb49d9e66390133eed5a7", null ],
+      [ "MOTION_SLOT_ACTIVE", "dc/dc9/a00389.html#a42f80f4e5d95e3ba656adbee43cfc3f5a89ae2a485a626fc8f0ba275f61cc5fcc", null ],
+      [ "MOTION_SLOT_CONTROLLED", "dc/dc9/a00389.html#a42f80f4e5d95e3ba656adbee43cfc3f5a4b14f4870ac324393280d0d554f9c41e", null ],
+      [ "MAX_MOTION_SLOT", "dc/dc9/a00389.html#a42f80f4e5d95e3ba656adbee43cfc3f5a99e3f1c482d8a964a3613986a34658b5", null ]
     ] ],
-    [ "SpellRangeFlag", "dc/dc9/a00389.html#a23c4c89fd0ad7ff0f4e30f356a2bebc2", [
-      [ "SPELL_RANGE_DEFAULT", "dc/dc9/a00389.html#a23c4c89fd0ad7ff0f4e30f356a2bebc2a87a9dc2134a092ce47e269803da73049", null ],
-      [ "SPELL_RANGE_MELEE", "dc/dc9/a00389.html#a23c4c89fd0ad7ff0f4e30f356a2bebc2a724b22f40487687925b63b0d9661651a", null ],
-      [ "SPELL_RANGE_RANGED", "dc/dc9/a00389.html#a23c4c89fd0ad7ff0f4e30f356a2bebc2a7b43656e0f553be5f98a3f4c839236ab", null ]
-    ] ],
-    [ "SpellState", "dc/dc9/a00389.html#a821bd91389a0f4046989739b12e84f0a", [
-      [ "SPELL_STATE_NULL", "dc/dc9/a00389.html#a821bd91389a0f4046989739b12e84f0aa4c460c6c4469075ecc1b9134ca69d776", null ],
-      [ "SPELL_STATE_PREPARING", "dc/dc9/a00389.html#a821bd91389a0f4046989739b12e84f0aa626cba4f3a51caac32066af8b5e13da3", null ],
-      [ "SPELL_STATE_CASTING", "dc/dc9/a00389.html#a821bd91389a0f4046989739b12e84f0aae175109189bc7f989a42de7f088cb6fa", null ],
-      [ "SPELL_STATE_FINISHED", "dc/dc9/a00389.html#a821bd91389a0f4046989739b12e84f0aa620ae87eec478ce64981cb346d628a44", null ],
-      [ "SPELL_STATE_IDLE", "dc/dc9/a00389.html#a821bd91389a0f4046989739b12e84f0aafd1c8a760bdbbe80d8f6bc6a7de07197", null ],
-      [ "SPELL_STATE_DELAYED", "dc/dc9/a00389.html#a821bd91389a0f4046989739b12e84f0aa301d2895947dd39262654eb77e794452", null ]
-    ] ],
-    [ "SPELL_INTERRUPT_NONPLAYER", "dc/dc9/a00389.html#a925df27fa7c1cddda3066155bff0ef5c", null ]
+    [ "RotateDirection", "dc/dc9/a00389.html#a1978c8aa3f81d04079c45fe56aa51233", [
+      [ "ROTATE_DIRECTION_LEFT", "dc/dc9/a00389.html#a1978c8aa3f81d04079c45fe56aa51233af0378f46d4f9f1521d769f7c1c046d6a", null ],
+      [ "ROTATE_DIRECTION_RIGHT", "dc/dc9/a00389.html#a1978c8aa3f81d04079c45fe56aa51233adb74149191eeae76464e730abe95a4c5", null ]
+    ] ]
 ];

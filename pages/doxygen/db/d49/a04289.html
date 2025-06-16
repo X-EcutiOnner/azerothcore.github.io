@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/common/Collision/Maps/TileAssembler.cpp File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/common/Utilities/StringFormat.h File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,139 +105,76 @@ $(document).ready(function(){initNavTree('db/d49/a04289.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#nested-classes">Classes</a> &#124;
 <a href="#namespaces">Namespaces</a> &#124;
-<a href="#define-members">Macros</a> &#124;
+<a href="#typedef-members">Typedefs</a> &#124;
 <a href="#func-members">Functions</a>  </div>
-  <div class="headertitle"><div class="title">TileAssembler.cpp File Reference</div></div>
+  <div class="headertitle"><div class="title">StringFormat.h File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">TileAssembler.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">BoundingIntervalHierarchy.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">MapDefines.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">MapTree.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">VMapDefinitions.h</a>&quot;</code><br />
-<code>#include &lt;boost/filesystem.hpp&gt;</code><br />
-<code>#include &lt;iomanip&gt;</code><br />
-<code>#include &lt;set&gt;</code><br />
-<code>#include &lt;sstream&gt;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">Define.h</a>&quot;</code><br />
+<code>#include &lt;fmt/chrono.h&gt;</code><br />
+<code>#include &lt;fmt/format.h&gt;</code><br />
+<code>#include &lt;fmt/printf.h&gt;</code><br />
+<code>#include &lt;locale&gt;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
-Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d3c/a05003.html">BoundsTrait&lt; VMAP::ModelSpawn * &gt;</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d5b/a05007.html">VMAP::WMOLiquidHeader</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="namespaces" name="namespaces"></a>
 Namespaces</h2></td></tr>
-<tr class="memitem:d5/d7a/a04768"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d7a/a04768.html">VMAP</a></td></tr>
+<tr class="memitem:db/d75/a04761"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d75/a04761.html">Acore</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:d2/d13/a04784"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d13/a04784.html">Acore::String</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="define-members" name="define-members"></a>
-Macros</h2></td></tr>
-<tr class="memitem:ab09a5bc19f9a9f62a1f60dd7741b4d6d"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d49/a04289.html#ab09a5bc19f9a9f62a1f60dd7741b4d6d">READ_OR_RETURN</a>(V,  S)</td></tr>
-<tr class="separator:ab09a5bc19f9a9f62a1f60dd7741b4d6d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aaf506ecfd782214a75bd609db9bef004"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d49/a04289.html#aaf506ecfd782214a75bd609db9bef004">READ_OR_RETURN_WITH_DELETE</a>(V,  S)</td></tr>
-<tr class="separator:aaf506ecfd782214a75bd609db9bef004"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:abb356574335eee18efd5e1f4ed707637"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d49/a04289.html#abb356574335eee18efd5e1f4ed707637">CMP_OR_RETURN</a>(V,  S)</td></tr>
-<tr class="separator:abb356574335eee18efd5e1f4ed707637"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="typedef-members" name="typedef-members"></a>
+Typedefs</h2></td></tr>
+<tr class="memitem:a32c972cafca136b88de5b298d6cba338"><td class="memTemplParams" colspan="2">template&lt;typename... Args&gt; </td></tr>
+<tr class="memitem:a32c972cafca136b88de5b298d6cba338"><td class="memTemplItemLeft" align="right" valign="top">using&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../db/d75/a04761.html#a32c972cafca136b88de5b298d6cba338">Acore::FormatString</a> = fmt::format_string&lt; Args... &gt;</td></tr>
+<tr class="separator:a32c972cafca136b88de5b298d6cba338"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:a166f3eeee53079ac9df4f15ccd577974"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d7a/a04768.html#a166f3eeee53079ac9df4f15ccd577974">VMAP::readChunk</a> (FILE *rf, char *dest, const char *compare, <a class="el" href="../../da/d71/a04649.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> len)</td></tr>
-<tr class="separator:a166f3eeee53079ac9df4f15ccd577974"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a868406b9609960d4ae0189588c8cbbf4"><td class="memTemplParams" colspan="2">template&lt;typename... Args&gt; </td></tr>
+<tr class="memitem:a868406b9609960d4ae0189588c8cbbf4"><td class="memTemplItemLeft" align="right" valign="top">std::string&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../db/d75/a04761.html#a868406b9609960d4ae0189588c8cbbf4">Acore::StringFormat</a> (FormatString&lt; Args... &gt; fmt, Args &amp;&amp;... args)</td></tr>
+<tr class="memdesc:a868406b9609960d4ae0189588c8cbbf4"><td class="mdescLeft">&#160;</td><td class="mdescRight">Default AC string format function.  <a href="../../db/d75/a04761.html#a868406b9609960d4ae0189588c8cbbf4">More...</a><br /></td></tr>
+<tr class="separator:a868406b9609960d4ae0189588c8cbbf4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6f5584cc7346fd1972b3e8a74036467f"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d75/a04761.html#a6f5584cc7346fd1972b3e8a74036467f">Acore::IsFormatEmptyOrNull</a> (char const *fmt)</td></tr>
+<tr class="memdesc:a6f5584cc7346fd1972b3e8a74036467f"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns true if the given char pointer is null.  <a href="../../db/d75/a04761.html#a6f5584cc7346fd1972b3e8a74036467f">More...</a><br /></td></tr>
+<tr class="separator:a6f5584cc7346fd1972b3e8a74036467f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a84459e91f517fc4f79414cc23370b9f1"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d75/a04761.html#a84459e91f517fc4f79414cc23370b9f1">Acore::IsFormatEmptyOrNull</a> (std::string_view fmt)</td></tr>
+<tr class="memdesc:a84459e91f517fc4f79414cc23370b9f1"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns true if the given std::string is empty.  <a href="../../db/d75/a04761.html#a84459e91f517fc4f79414cc23370b9f1">More...</a><br /></td></tr>
+<tr class="separator:a84459e91f517fc4f79414cc23370b9f1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3213c569cd380bda3b76fe3f730899ff"><td class="memTemplParams" colspan="2">template&lt;class Str &gt; </td></tr>
+<tr class="memitem:a3213c569cd380bda3b76fe3f730899ff"><td class="memTemplItemLeft" align="right" valign="top"><a class="el" href="../../d4/d61/a04406.html#aae2dc50bce825b002235487401b252e8">AC_COMMON_API</a> Str&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d2/d13/a04784.html#a3213c569cd380bda3b76fe3f730899ff">Acore::String::Trim</a> (const Str &amp;s, const std::locale &amp;loc=std::locale())</td></tr>
+<tr class="separator:a3213c569cd380bda3b76fe3f730899ff"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac78200daa5bc5f1d4c50a1df47a7a4db"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d4/d61/a04406.html#aae2dc50bce825b002235487401b252e8">AC_COMMON_API</a> std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d13/a04784.html#ac78200daa5bc5f1d4c50a1df47a7a4db">Acore::String::TrimRightInPlace</a> (std::string &amp;str)</td></tr>
+<tr class="separator:ac78200daa5bc5f1d4c50a1df47a7a4db"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a712bea71ec99d750664fd46c690a1ad9"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d4/d61/a04406.html#aae2dc50bce825b002235487401b252e8">AC_COMMON_API</a> std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d13/a04784.html#a712bea71ec99d750664fd46c690a1ad9">Acore::String::AddSuffixIfNotExists</a> (std::string str, const char suffix)</td></tr>
+<tr class="memdesc:a712bea71ec99d750664fd46c690a1ad9"><td class="mdescLeft">&#160;</td><td class="mdescRight">Util function to add a suffix char. Can be used to add a slash at the end of a path.  <a href="../../d2/d13/a04784.html#a712bea71ec99d750664fd46c690a1ad9">More...</a><br /></td></tr>
+<tr class="separator:a712bea71ec99d750664fd46c690a1ad9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aaa7f21af5991452196a22cd79e127825"><td class="memTemplParams" colspan="2">template&lt;typename T , FMT_ENABLE_IF(std::is_enum_v&lt; T &gt;) &gt; </td></tr>
+<tr class="memitem:aaa7f21af5991452196a22cd79e127825"><td class="memTemplItemLeft" align="right" valign="top">auto&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../db/d49/a04289.html#aaa7f21af5991452196a22cd79e127825">format_as</a> (T f)</td></tr>
+<tr class="separator:aaa7f21af5991452196a22cd79e127825"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Macro Definition Documentation</h2>
-<a id="abb356574335eee18efd5e1f4ed707637" name="abb356574335eee18efd5e1f4ed707637"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#abb356574335eee18efd5e1f4ed707637">&#9670;&#160;</a></span>CMP_OR_RETURN</h2>
+<h2 class="groupheader">Function Documentation</h2>
+<a id="aaa7f21af5991452196a22cd79e127825" name="aaa7f21af5991452196a22cd79e127825"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aaa7f21af5991452196a22cd79e127825">&#9670;&#160;</a></span>format_as()</h2>
 
 <div class="memitem">
 <div class="memproto">
+<div class="memtemplate">
+template&lt;typename T , FMT_ENABLE_IF(std::is_enum_v&lt; T &gt;) &gt; </div>
       <table class="memname">
         <tr>
-          <td class="memname">#define CMP_OR_RETURN</td>
+          <td class="memname">auto format_as </td>
           <td>(</td>
-          <td class="paramtype">&#160;</td>
-          <td class="paramname">V, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
+          <td class="paramtype">T&#160;</td>
+          <td class="paramname"><em>f</em></td><td>)</td>
           <td></td>
-          <td class="paramtype">&#160;</td>
-          <td class="paramname">S&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<b>Value:</b><div class="fragment"><div class="line">                                        <span class="keywordflow">if</span> (strcmp((V), (S)) != 0)        { \</div>
-<div class="line">                                        fclose(rf); printf(<span class="stringliteral">&quot;cmpfail, %s!=%s\n&quot;</span>, V, S);<span class="keywordflow">return</span>(<span class="keyword">false</span>); }</div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="ab09a5bc19f9a9f62a1f60dd7741b4d6d" name="ab09a5bc19f9a9f62a1f60dd7741b4d6d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab09a5bc19f9a9f62a1f60dd7741b4d6d">&#9670;&#160;</a></span>READ_OR_RETURN</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">#define READ_OR_RETURN</td>
-          <td>(</td>
-          <td class="paramtype">&#160;</td>
-          <td class="paramname">V, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">&#160;</td>
-          <td class="paramname">S&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<b>Value:</b><div class="fragment"><div class="line">                                        <span class="keywordflow">if</span> (fread((V), (S), 1, rf) != 1) { \</div>
-<div class="line">                                        fclose(rf); printf(<span class="stringliteral">&quot;readfail, op = %i\n&quot;</span>, readOperation); <span class="keywordflow">return</span>(<span class="keyword">false</span>); }</div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="aaf506ecfd782214a75bd609db9bef004" name="aaf506ecfd782214a75bd609db9bef004"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aaf506ecfd782214a75bd609db9bef004">&#9670;&#160;</a></span>READ_OR_RETURN_WITH_DELETE</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">#define READ_OR_RETURN_WITH_DELETE</td>
-          <td>(</td>
-          <td class="paramtype">&#160;</td>
-          <td class="paramname">V, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">&#160;</td>
-          <td class="paramname">S&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<b>Value:</b><div class="fragment"><div class="line">                                        <span class="keywordflow">if</span> (fread((V), (S), 1, rf) != 1) { \</div>
-<div class="line">                                        fclose(rf); printf(<span class="stringliteral">&quot;readfail, op = %i\n&quot;</span>, readOperation); <span class="keyword">delete</span>[] V; <span class="keywordflow">return</span>(<span class="keyword">false</span>); };</div>
+<div class="fragment"><div class="line"><span class="lineno">   72</span>{ <span class="keywordflow">return</span> fmt::underlying(f); }</div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -246,8 +183,8 @@ Functions</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1070012e9e40376f8468ff0aa5b77c71.html">common</a></li><li class="navelem"><a class="el" href="../../dir_34825b659a55315b272dfcc55a7a0f6a.html">Collision</a></li><li class="navelem"><a class="el" href="../../dir_8b777919d2ae980e2f3806300ea01226.html">Maps</a></li><li class="navelem"><a class="el" href="../../db/d49/a04289.html">TileAssembler.cpp</a></li>
-    <li class="footer">Generated on Mon Jun 9 2025 20:46:05 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1070012e9e40376f8468ff0aa5b77c71.html">common</a></li><li class="navelem"><a class="el" href="../../dir_5b60c41b3dc3977dce15646b3e6a9085.html">Utilities</a></li><li class="navelem"><a class="el" href="../../db/d49/a04289.html">StringFormat.h</a></li>
+    <li class="footer">Generated on Mon Jun 16 2025 20:47:09 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

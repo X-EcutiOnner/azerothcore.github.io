@@ -1,4 +1,5 @@
 var a01244 =
 [
-    [ "ScriptRegistry< PetScript >", "d4/dd5/a01244.html#a24e9b0a598349bf70ac6cf5aa4e30043", null ]
+    [ "WorldPackets::LFG::LFGJoin", "d9/d85/a10719.html", "d9/d85/a10719" ],
+    [ "WorldPackets::LFG::LFGLeave", "d8/d95/a10723.html", "d8/d95/a10723" ]
 ];

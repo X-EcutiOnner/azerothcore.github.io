@@ -1,10 +1,16 @@
 var a04379 =
 [
-    [ "TypeList< HEAD, TAIL >", "d5/d60/a05279.html", "d5/d60/a05279" ],
-    [ "TYPELIST_1", "d7/d62/a04379.html#a6a7a6aa3dece450c8d239713e2952df7", null ],
-    [ "TYPELIST_2", "d7/d62/a04379.html#a311cb99af993804c6737ae46c5cbfaff", null ],
-    [ "TYPELIST_3", "d7/d62/a04379.html#a0309f68a543c5c0994f9edc0e56dc59f", null ],
-    [ "TYPELIST_4", "d7/d62/a04379.html#a7a156c571ab21a16b0495e1c882a07fa", null ],
-    [ "TYPELIST_5", "d7/d62/a04379.html#aad5d9b3c82c8503c85c625acd41c0a2f", null ],
-    [ "TYPELIST_6", "d7/d62/a04379.html#ac6f3277dcaade98ceeaa5c0e1c454816", null ]
+    [ "DBCFileLoader", "dc/d07/a05175.html", "dc/d07/a05175" ],
+    [ "DBCFileLoader::Record", "dc/daa/a05179.html", "dc/daa/a05179" ],
+    [ "DbcFieldFormat", "d7/d62/a04379.html#a969264ba91452f632e809db524c68960", [
+      [ "FT_NA", "d7/d62/a04379.html#a969264ba91452f632e809db524c68960a0f8a37a34dd644e8432e79266f8e2f8c", null ],
+      [ "FT_NA_BYTE", "d7/d62/a04379.html#a969264ba91452f632e809db524c68960a974d335432036bc88ad76f044e8fca0c", null ],
+      [ "FT_STRING", "d7/d62/a04379.html#a969264ba91452f632e809db524c68960a424189c585691c2ce732ea69a88f4f29", null ],
+      [ "FT_FLOAT", "d7/d62/a04379.html#a969264ba91452f632e809db524c68960a1091cfb22d5ff81a81948a92b96f8e9a", null ],
+      [ "FT_INT", "d7/d62/a04379.html#a969264ba91452f632e809db524c68960a9d5724546fec2b9d79741da7d3a8030a", null ],
+      [ "FT_BYTE", "d7/d62/a04379.html#a969264ba91452f632e809db524c68960ae268574ec5607a27ec940656742b2095", null ],
+      [ "FT_SORT", "d7/d62/a04379.html#a969264ba91452f632e809db524c68960a496dcb8cfc6d702d15b9a603b242a642", null ],
+      [ "FT_IND", "d7/d62/a04379.html#a969264ba91452f632e809db524c68960a0e7ef1f172d0c33a975fbda2be046036", null ],
+      [ "FT_LOGIC", "d7/d62/a04379.html#a969264ba91452f632e809db524c68960aad79cbf0ed6b926353344f5abde2e4cc", null ]
+    ] ]
 ];

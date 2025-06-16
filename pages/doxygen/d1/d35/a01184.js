@@ -1,8 +1,8 @@
 var a01184 =
 [
-    [ "LootScript", "d6/d62/a10303.html", "d6/d62/a10303" ],
-    [ "LootHook", "d1/d35/a01184.html#a39ce94de1e8ce6b7055130ac7f40632b", [
-      [ "LOOTHOOK_ON_LOOT_MONEY", "d1/d35/a01184.html#a39ce94de1e8ce6b7055130ac7f40632ba71990fd8692b46e728ad526346d0f1f1", null ],
-      [ "LOOTHOOK_END", "d1/d35/a01184.html#a39ce94de1e8ce6b7055130ac7f40632bab03a0874b2fda00aeb19e4b5ab077fea", null ]
-    ] ]
+    [ "WorldPackets::Bank::AutoBankItem", "dc/d3a/a10419.html", "dc/d3a/a10419" ],
+    [ "WorldPackets::Bank::AutoStoreBankItem", "d8/d87/a10423.html", "d8/d87/a10423" ],
+    [ "WorldPackets::Bank::BuyBankSlot", "d1/dd2/a10427.html", "d1/dd2/a10427" ],
+    [ "WorldPackets::Bank::BuyBankSlotResult", "d6/d51/a10431.html", "d6/d51/a10431" ],
+    [ "WorldPackets::Bank::ShowBank", "d3/dd8/a10435.html", "d3/dd8/a10435" ]
 ];

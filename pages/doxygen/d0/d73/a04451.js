@@ -1,8 +1,11 @@
 var a04451 =
 [
-    [ "TaskScheduler", "d9/d91/a05523.html", "d9/d91/a05523" ],
-    [ "TaskScheduler::Task", "d3/d68/a05527.html", "d3/d68/a05527" ],
-    [ "TaskScheduler::Compare", "d1/d01/a05531.html", "d1/d01/a05531" ],
-    [ "TaskScheduler::TaskQueue", "d7/dbb/a05535.html", "d7/dbb/a05535" ],
-    [ "TaskContext", "d6/d15/a05539.html", "d6/d15/a05539" ]
+    [ "VMAP::ModelPosition", "db/dc2/a05011.html", "db/dc2/a05011" ],
+    [ "VMAP::MapSpawns", "d0/d0c/a05015.html", "d0/d0c/a05015" ],
+    [ "VMAP::GroupModel_Raw", "de/d93/a05019.html", "de/d93/a05019" ],
+    [ "VMAP::WorldModel_Raw", "db/d39/a05023.html", "db/d39/a05023" ],
+    [ "VMAP::TileAssembler", "d1/d82/a05027.html", "d1/d82/a05027" ],
+    [ "MapData", "d0/d73/a04451.html#a28dc2e567f8620fed1128b6c4cf5b749", null ],
+    [ "TileMap", "d0/d73/a04451.html#abfe766a1b58bbf69ce3b17ff14d1c101", null ],
+    [ "UniqueEntryMap", "d0/d73/a04451.html#a3424b44a092b5f3d8074649ae11ee481", null ]
 ];
