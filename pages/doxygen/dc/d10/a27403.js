@@ -1,10 +1,10 @@
 var a27403 =
 [
-    [ "npc_prof_tailor", "dc/d10/a27403.html#a481157e49fb1c09f62a3cb9de85c9da1", null ],
-    [ "HasTailorSpell", "dc/d10/a27403.html#a188c0ac66b1972bccd031aca26f7fecd", null ],
-    [ "OnGossipHello", "dc/d10/a27403.html#a686098ac43916ea2f82b7c321527863d", null ],
-    [ "OnGossipSelect", "dc/d10/a27403.html#a03545eaacf3bae0d407e0e20c32740dc", null ],
-    [ "SendActionMenu", "dc/d10/a27403.html#a03ced7d6541535097a5e4e3bd9f415f2", null ],
-    [ "SendConfirmLearn", "dc/d10/a27403.html#a93a8692cb2c0b30ee752ae3ecd5561e5", null ],
-    [ "SendConfirmUnlearn", "dc/d10/a27403.html#ada0be1dc79f72b7b033191c8e17a8baf", null ]
+    [ "go_evil_book_for_dummies", "dc/d10/a27403.html#a69f599910bce0070c6b1af547c459b72", null ],
+    [ "HasLeatherSpecialty", "dc/d10/a27403.html#a3d755fa8777f33a318ffa6f004aecbed", null ],
+    [ "OnGossipHello", "dc/d10/a27403.html#aeb29351e2faf135298419488eb16cc7e", null ],
+    [ "OnGossipSelect", "dc/d10/a27403.html#ac4bc1c682b75c436a4d3fff118a20ca4", null ],
+    [ "SendActionMenu", "dc/d10/a27403.html#a0aa21b4619ea5cc8229eb56e09d3233d", null ],
+    [ "SendConfirmLearn", "dc/d10/a27403.html#a11a605c576a3c81b5ed96d413ec20f57", null ],
+    [ "SendConfirmUnlearn", "dc/d10/a27403.html#af9c10b0423327d8644020e8f5e26a603", null ]
 ];

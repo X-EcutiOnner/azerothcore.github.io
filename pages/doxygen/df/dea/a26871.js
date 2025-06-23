@@ -1,7 +1,8 @@
 var a26871 =
 [
-    [ "HandleDummy", "df/dea/a26871.html#a3af91500357eb127f813334bdf538dbd", null ],
-    [ "PrepareSpellScript", "df/dea/a26871.html#ae34ff5e6027efecc34fa770690df5887", null ],
-    [ "Register", "df/dea/a26871.html#add4e4d484008d1e1cf63e36c6b6e9757", null ],
-    [ "Validate", "df/dea/a26871.html#a0b107442c0b76a018cc019f776c0b785", null ]
+    [ "HandleDummy", "df/dea/a26871.html#ad2eec86cff225cc0bd806e31596fb127", null ],
+    [ "PrepareSpellScript", "df/dea/a26871.html#a59a04dcfee911c70e13ea8d27b4a49c4", null ],
+    [ "Register", "df/dea/a26871.html#a6c72b4c813368774283ae94036a43ee2", null ],
+    [ "SendMiss", "df/dea/a26871.html#a7c6d300e60ed492c82d5c017d3e73ed1", null ],
+    [ "Validate", "df/dea/a26871.html#a9a5014de08f73ad5dad29354812030ac", null ]
 ];

@@ -1,11 +1,6 @@
 var a21167 =
 [
-    [ "boss_archavonAI", "d8/d37/a21167.html#a101518193c0fb6bbd6892362a6f09b9c", null ],
-    [ "AttackStart", "d8/d37/a21167.html#ac9f82f61ee7fe945cb3fba23a69e704c", null ],
-    [ "JustDied", "d8/d37/a21167.html#a3974065a80dedf3e673452e7f6f8e449", null ],
-    [ "JustEngagedWith", "d8/d37/a21167.html#ace4a10f62eaa21ecd997ad1dbe15f3c8", null ],
-    [ "Reset", "d8/d37/a21167.html#a7d101626f39947dd54b574491a5e6d72", null ],
-    [ "UpdateAI", "d8/d37/a21167.html#a5abb4c2b4149172d2e7bf0d539237323", null ],
-    [ "events", "d8/d37/a21167.html#a8d7fef6dfcdc5be20f0531c34b09fc13", null ],
-    [ "pInstance", "d8/d37/a21167.html#ab51f09b76054d8bdb13f3c27396db87e", null ]
+    [ "boss_archavonAI", "d1/d63/a21171.html", "d1/d63/a21171" ],
+    [ "boss_archavon", "d8/d37/a21167.html#a44e20480f8d86cf763afe67de49c6c33", null ],
+    [ "GetAI", "d8/d37/a21167.html#a5eb62d54fe1559ef9df51c2bd01f7de4", null ]
 ];

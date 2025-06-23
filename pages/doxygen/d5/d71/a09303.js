@@ -1,8 +1,7 @@
 var a09303 =
 [
-    [ "FriendlyMissingBuffInRange", "d5/d71/a09303.html#a628fe94ce054a868977ef2a981bc5d6c", null ],
-    [ "operator()", "d5/d71/a09303.html#a6dce8a1248ebb4f3e57cd12a3d94b7b9", null ],
-    [ "i_obj", "d5/d71/a09303.html#aba43edf48b2b0184b52143707c3531f4", null ],
-    [ "i_range", "d5/d71/a09303.html#a54ba98f393a8bdf710f6bd65abee526c", null ],
-    [ "i_spell", "d5/d71/a09303.html#a7f34521e8789a1e1dabb867ed82ff438", null ]
+    [ "FriendlyCCedInRange", "d5/d71/a09303.html#ae8dcff3f285f208b0db8aa3efed202a1", null ],
+    [ "operator()", "d5/d71/a09303.html#a0e241f930cee855664aeac3604d5c023", null ],
+    [ "i_obj", "d5/d71/a09303.html#a73d3e29bbdc7fd4aa162be3cb7ecbe08", null ],
+    [ "i_range", "d5/d71/a09303.html#a49e79f3aea0c7e8c321c9f297b71a9b2", null ]
 ];

@@ -1,6 +1,6 @@
 var a01919 =
 [
-    [ "GameEventScript", "db/d17/a10263.html", "db/d17/a10263" ],
+    [ "GameEventScript", "da/dd8/a10267.html", "da/dd8/a10267" ],
     [ "GameEventHook", "de/d90/a01919.html#a6f634b591917b5ff2ab57f9739afa44b", [
       [ "GAMEEVENTHOOK_ON_START", "de/d90/a01919.html#a6f634b591917b5ff2ab57f9739afa44ba82c1717fbd1ba7a6739ce48d1fb3bab6", null ],
       [ "GAMEEVENTHOOK_ON_STOP", "de/d90/a01919.html#a6f634b591917b5ff2ab57f9739afa44ba598d3e2c3c0ff442208e1df830a02e5d", null ],

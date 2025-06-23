@@ -1,12 +1,12 @@
 var a03614 =
 [
-    [ "boss_fathomlord_karathress", "d9/dbd/a23055.html", "d9/dbd/a23055" ],
-    [ "LeechingThrowSelector", "db/d47/a23059.html", "db/d47/a23059" ],
-    [ "boss_fathomguard_sharkkis", "d3/d3a/a23063.html", "d3/d3a/a23063" ],
-    [ "boss_fathomguard_tidalvess", "d9/d4b/a23067.html", "d9/d4b/a23067" ],
-    [ "boss_fathomguard_caribdis", "dd/d85/a23071.html", "dd/d85/a23071" ],
-    [ "spell_karathress_power_of_tidalvess", "d2/dd0/a23075.html", "d2/dd0/a23075" ],
-    [ "spell_karathress_power_of_caribdis", "d1/d30/a23079.html", "d1/d30/a23079" ],
+    [ "boss_fathomlord_karathress", "da/d6a/a23051.html", "da/d6a/a23051" ],
+    [ "LeechingThrowSelector", "d9/dbd/a23055.html", "d9/dbd/a23055" ],
+    [ "boss_fathomguard_sharkkis", "db/d47/a23059.html", "db/d47/a23059" ],
+    [ "boss_fathomguard_tidalvess", "d3/d3a/a23063.html", "d3/d3a/a23063" ],
+    [ "boss_fathomguard_caribdis", "d9/d4b/a23067.html", "d9/d4b/a23067" ],
+    [ "spell_karathress_power_of_tidalvess", "dd/d85/a23071.html", "dd/d85/a23071" ],
+    [ "spell_karathress_power_of_caribdis", "d2/dd0/a23075.html", "d2/dd0/a23075" ],
     [ "Misc", "d3/df2/a03614.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
       [ "DATA_SKILLPOINT_MIN", "d9/dc8/a02531.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a3093ddfcacf2742f4fb344843e2e7ce6", null ],
       [ "NEFARIUS_PATH_2", "db/dab/a02567.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a09833188939fe77088ed4fb2cfedb875", null ],

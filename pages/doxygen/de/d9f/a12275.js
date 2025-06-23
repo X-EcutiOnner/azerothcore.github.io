@@ -1,6 +1,6 @@
 var a12275 =
 [
-    [ "boss_vaelAI", "d6/d91/a12279.html", "d6/d91/a12279" ],
-    [ "boss_vaelastrasz", "de/d9f/a12275.html#a0b51f3b50cde4907bd9064e8bf51c005", null ],
-    [ "GetAI", "de/d9f/a12275.html#a42dde198f5fc0ab2e7ca28ac32c42b7e", null ]
+    [ "HandleOnHit", "de/d9f/a12275.html#a804097903354ab3a730f0fe3eb5ec863", null ],
+    [ "PrepareSpellScript", "de/d9f/a12275.html#aea221ad6fb1a30bec6fee0c3a67d01b0", null ],
+    [ "Register", "de/d9f/a12275.html#a53bed6f1af71fd309a04bc004d07be80", null ]
 ];

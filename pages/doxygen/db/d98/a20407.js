@@ -1,7 +1,9 @@
 var a20407 =
 [
-    [ "HandleEffectPeriodic", "db/d98/a20407.html#a0fc0cf6cd635249a10aefd284d9ae789", null ],
-    [ "PrepareAuraScript", "db/d98/a20407.html#af432e810a46e35f95bb0b3b2eaada132", null ],
-    [ "Register", "db/d98/a20407.html#a41c3846c03ce1e37fc6858a676f61c48", null ],
-    [ "Validate", "db/d98/a20407.html#ac8e9521a6b8ab9a4642361085dbe517d", null ]
+    [ "npc_ulduar_bot_summon_triggerAI", "db/d98/a20407.html#a60e0706b9285cdf4b25b6f399cad18e9", null ],
+    [ "DoAction", "db/d98/a20407.html#ac5d0e28ee330741da3b287d965537f39", null ],
+    [ "Reset", "db/d98/a20407.html#a91207c04ecee6fc0e906133e054bf51b", null ],
+    [ "UpdateAI", "db/d98/a20407.html#aebec433e806d4f63f5593db0301612b4", null ],
+    [ "option", "db/d98/a20407.html#a98bb19fea19a05127b4b32df039acf05", null ],
+    [ "timer", "db/d98/a20407.html#a118d048557b0ed314180299c3cd2bcbc", null ]
 ];

@@ -1,6 +1,6 @@
 var a22011 =
 [
-    [ "npc_boneguard_footmanAI", "da/d32/a22011.html#a04eff1976824724b321f0c0d95e0940a", null ],
-    [ "UpdateAI", "da/d32/a22011.html#a9cba65867824daeb50cb2b39d68ad84b", null ],
-    [ "checkTimer", "da/d32/a22011.html#a46dd1fa8d111dca0584a8e6fb7a6a566", null ]
+    [ "npc_boneguard_footmanAI", "d9/dc6/a22015.html", "d9/dc6/a22015" ],
+    [ "npc_boneguard_footman", "da/d32/a22011.html#aba17f89b9546deff5401ad33224b2b3e", null ],
+    [ "GetAI", "da/d32/a22011.html#ab0b28f61e26f701db17a0d19bbde4492", null ]
 ];

@@ -1,6 +1,5 @@
 var a12303 =
 [
-    [ "boss_baron_geddonAI", "d0/d0c/a12307.html", "d0/d0c/a12307" ],
-    [ "boss_baron_geddon", "d8/d73/a12303.html#ad72caf30219b4295c0be4289b9d25498", null ],
-    [ "GetAI", "d8/d73/a12303.html#a8f328680a5f99fb275cb0b3e8adf9c63", null ]
+    [ "at_orb_of_command", "d8/d73/a12303.html#a1f0b196362b76e050eba66d3ce612623", null ],
+    [ "OnTrigger", "d8/d73/a12303.html#a8d30d303c72d5eaf59222c890ab13ca3", null ]
 ];

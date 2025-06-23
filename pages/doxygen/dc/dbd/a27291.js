@@ -1,6 +1,5 @@
 var a27291 =
 [
-    [ "go_soulwellAI", "de/d3b/a27295.html", "de/d3b/a27295" ],
-    [ "go_soulwell", "dc/dbd/a27291.html#a3747499bd05326ef6f7024c0ee91a4ce", null ],
-    [ "GetAI", "dc/dbd/a27291.html#a0c8b8cf09c26ad08c1c6dbb1a0c57861", null ]
+    [ "go_soulwellAI", "dc/dbd/a27291.html#af8c28f9d3ddf5fa3591433268d14fc98", null ],
+    [ "GossipHello", "dc/dbd/a27291.html#a3df147478af8930d9b6108a183e9478f", null ]
 ];

@@ -1,13 +1,13 @@
 var a03860 =
 [
-    [ "boss_magtheridon", "df/d6a/a23527.html", "df/d6a/a23527" ],
-    [ "npc_target_trigger", "d9/d57/a23531.html", "d9/d57/a23531" ],
-    [ "spell_magtheridon_blaze", "da/d63/a23535.html", "da/d63/a23535" ],
-    [ "spell_magtheridon_shadow_grasp", "d5/de2/a23539.html", "d5/de2/a23539" ],
-    [ "spell_magtheridon_shadow_grasp_visual", "d8/d3f/a23543.html", "d8/d3f/a23543" ],
-    [ "spell_magtheridon_quake", "d4/d1a/a23547.html", "d4/d1a/a23547" ],
-    [ "spell_magtheridon_debris_target_selector", "d1/d8c/a23551.html", "d1/d8c/a23551" ],
-    [ "go_manticron_cube", "dd/d68/a23555.html", "dd/d68/a23555" ],
+    [ "boss_magtheridon", "d9/d88/a23523.html", "d9/d88/a23523" ],
+    [ "npc_target_trigger", "df/d6a/a23527.html", "df/d6a/a23527" ],
+    [ "spell_magtheridon_blaze", "d9/d57/a23531.html", "d9/d57/a23531" ],
+    [ "spell_magtheridon_shadow_grasp", "da/d63/a23535.html", "da/d63/a23535" ],
+    [ "spell_magtheridon_shadow_grasp_visual", "d5/de2/a23539.html", "d5/de2/a23539" ],
+    [ "spell_magtheridon_quake", "d8/d3f/a23543.html", "d8/d3f/a23543" ],
+    [ "spell_magtheridon_debris_target_selector", "d4/d1a/a23547.html", "d4/d1a/a23547" ],
+    [ "go_manticron_cube", "d1/d8c/a23551.html", "d1/d8c/a23551" ],
     [ "Actions", "db/d62/a03860.html#a250372292659bed7ae290d8621f88ccf", [
       [ "ACTION_GUNSHIP_READY", "da/d46/a00665.html#a250372292659bed7ae290d8621f88ccfaae8bb35d65ee37e4d232e2a67aeca581", null ],
       [ "ACTION_TELEPORT_PLAYER_TO_TRANSPORT", "da/d46/a00665.html#a250372292659bed7ae290d8621f88ccfa6b86b0986a459bb245b3a3cd8b75040c", null ],

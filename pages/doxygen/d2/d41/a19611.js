@@ -1,6 +1,6 @@
 var a19611 =
 [
-    [ "boss_algalon_the_observerAI", "d9/d51/a19615.html", "d9/d51/a19615" ],
-    [ "boss_algalon_the_observer", "d2/d41/a19611.html#a0691b47a116401da58b246203ecba2cb", null ],
-    [ "GetAI", "d2/d41/a19611.html#a4c30c6ddf8dcbc7c478250846f27a261", null ]
+    [ "CosmicSmashDamageEvent", "d2/d41/a19611.html#a5c9606791b560d8be1825a9c73f2393e", null ],
+    [ "Execute", "d2/d41/a19611.html#a2d4b301e1b7e0852ec47280ad97871f2", null ],
+    [ "_caster", "d2/d41/a19611.html#ab7af2459d3962831812ee2362ee9de2b", null ]
 ];

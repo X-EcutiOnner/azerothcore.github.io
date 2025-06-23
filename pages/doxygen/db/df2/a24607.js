@@ -1,10 +1,11 @@
 var a24607 =
 [
-    [ "Absorb", "db/df2/a24607.html#a5ab2041dcc342b087d8c6fd9b8d2635f", null ],
-    [ "CalculateAmount", "db/df2/a24607.html#aed6e525b71f18dafb6f458bc255a6495", null ],
-    [ "Load", "db/df2/a24607.html#af73fcf4a73ba60e214c045471569f7b0", null ],
-    [ "PrepareAuraScript", "db/df2/a24607.html#a884927612b8ab2712a057da72f8180c6", null ],
-    [ "Register", "db/df2/a24607.html#a380b63aec7c567c8db60f4c69a4e6043", null ],
-    [ "Validate", "db/df2/a24607.html#af58ba552be9c91e8885ef1ccd567c96a", null ],
-    [ "absorbPct", "db/df2/a24607.html#a64e8bcde6ee27dd00e77d7bfa0864e81", null ]
+    [ "CalcPeriodic", "db/df2/a24607.html#a8dfb6d67b57e4ff0bd15e49c36d4ec2d", null ],
+    [ "CalculateAPAmount", "db/df2/a24607.html#ab23f26c3470f629f0a20f28faf272a68", null ],
+    [ "CalculateHealthAmount", "db/df2/a24607.html#a4f827a906ac279e143ba8545545090ad", null ],
+    [ "CalculateSPAmount", "db/df2/a24607.html#ae94493ffed217a218e21c05e002cec00", null ],
+    [ "HandleEffectApply", "db/df2/a24607.html#acaa3bd6385b05101cad38d4f0738b9d8", null ],
+    [ "HandlePeriodic", "db/df2/a24607.html#ac5a656d4fa474b1d0c82af7613bcac10", null ],
+    [ "PrepareAuraScript", "db/df2/a24607.html#a5052689d815e0a0543693b39b7454deb", null ],
+    [ "Register", "db/df2/a24607.html#a3226edbe6b24a827f2ef28ccfb815b7a", null ]
 ];

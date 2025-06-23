@@ -1,6 +1,6 @@
 var a02552 =
 [
-    [ "boss_quartermaster_zigris", "db/d98/a12031.html", "db/d98/a12031" ],
+    [ "boss_quartermaster_zigris", "de/d4b/a12035.html", "de/d4b/a12035" ],
     [ "Events", "de/d48/a02552.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_CHARGE_TARGET", "d4/d97/a02816.html#af60e00b78607064c5be6aa9397ea49c1ae9b5b6a7dd72b493b6874d7408585a02", null ],
       [ "EVENT_CLEAVE", "d4/d97/a02816.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a", null ],

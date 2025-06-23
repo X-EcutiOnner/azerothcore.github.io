@@ -1,6 +1,6 @@
 var a22267 =
 [
-    [ "npc_vehicle_d16_propelled_deliveryAI", "db/de1/a22271.html", "db/de1/a22271" ],
-    [ "npc_vehicle_d16_propelled_delivery", "d4/d47/a22267.html#a93bed362ae78231b21327994a3e4cafd", null ],
-    [ "GetAI", "d4/d47/a22267.html#abda3dbcb251d7f1e614d089f630d0d1c", null ]
+    [ "HandleScriptEffect", "d4/d47/a22267.html#a66849cb61f056e861d8887dc98f6ccbf", null ],
+    [ "PrepareSpellScript", "d4/d47/a22267.html#afa4ad1b205bf963b4230881738baf938", null ],
+    [ "Register", "d4/d47/a22267.html#a0d8925effced854471e2fbec9c631b91", null ]
 ];

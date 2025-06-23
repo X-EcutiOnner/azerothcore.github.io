@@ -1,6 +1,5 @@
 var a20275 =
 [
-    [ "boss_kologarnAI", "d4/de1/a20279.html", "d4/de1/a20279" ],
-    [ "boss_kologarn", "dc/dcc/a20275.html#a5f654a0f534c4ec6c1164ea08e40a476", null ],
-    [ "GetAI", "dc/dcc/a20275.html#ad78c2d269e68d8c3bbd86b844ada9435", null ]
+    [ "achievement_ignis_shattered", "dc/dcc/a20275.html#adbe893b0dd409eb3f10768f81f182f61", null ],
+    [ "OnCheck", "dc/dcc/a20275.html#a8a77a6e6979b4b09f5208e51b4faa4c1", null ]
 ];

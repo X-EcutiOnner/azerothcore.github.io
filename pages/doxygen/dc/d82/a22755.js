@@ -1,10 +1,13 @@
 var a22755 =
 [
-    [ "boss_illidari_council", "dc/d82/a22755.html#a078c36be39b377f6d1cdbf061d70270d", null ],
-    [ "AttackStart", "dc/d82/a22755.html#a260b15ec58164f17543aa044a89875a8", null ],
-    [ "DamageTaken", "dc/d82/a22755.html#af8e88c307efaba392cc2a1d2f3862078", null ],
-    [ "DoAction", "dc/d82/a22755.html#a6c3c57523ed2775ba553af1171b46463", null ],
-    [ "EnterEvadeMode", "dc/d82/a22755.html#a7dd21784b8f9a0eac17d56215c24028e", null ],
-    [ "MoveInLineOfSight", "dc/d82/a22755.html#a19ed88ab049e1323f529e0880af0a9dd", null ],
-    [ "UpdateAI", "dc/d82/a22755.html#a8b30df956aa4ce1727756f1d19e151be", null ]
+    [ "boss_illidari_council_memberAI", "dc/d82/a22755.html#ac32366dfad13cd37ced2428d041e25c9", null ],
+    [ "DamageTaken", "dc/d82/a22755.html#a1006bbdb6e39b6ceb52037e1b3cdb788", null ],
+    [ "DoAction", "dc/d82/a22755.html#a203310b84d71a24145b1c39e7faff182", null ],
+    [ "EnterEvadeMode", "dc/d82/a22755.html#a9bf2376cd75e0dc825de3839eda857eb", null ],
+    [ "JustDied", "dc/d82/a22755.html#a135c8e8f4113b1c9c05e5b26e61e639c", null ],
+    [ "JustEngagedWith", "dc/d82/a22755.html#a5c43bfb6e1781a83bfad36668ac724f2", null ],
+    [ "KilledUnit", "dc/d82/a22755.html#aa0cb7a373d521038e8e41e354f6bc3f7", null ],
+    [ "Reset", "dc/d82/a22755.html#a8e75d47f56d14d9b66d10b74c3479839", null ],
+    [ "events", "dc/d82/a22755.html#ad47a350f5ed066e04816e72961a80bd0", null ],
+    [ "instance", "dc/d82/a22755.html#adb11720cd0fd87a42b9a78490a70251e", null ]
 ];

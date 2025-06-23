@@ -239,7 +239,7 @@ Private Member Functions</h2></td></tr>
 <div class="line"><span class="lineno">   89</span>        <a class="code hl_class" href="../../d2/d95/a08583.html">Player</a>* player = <a class="code hl_function" href="../../d0/d6d/a04809.html#a9ede56180a13f102ad195136eadb97ee">ObjectAccessor::FindPlayer</a>(member.Guid);</div>
 <div class="line"><span class="lineno">   90</span>        <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; reward : rewardGroup.achievementRewards)</div>
 <div class="line"><span class="lineno">   91</span>        {</div>
-<div class="line"><span class="lineno">   92</span>            <a class="code hl_struct" href="../../dd/df5/a27683.html">AchievementEntry</a> <span class="keyword">const</span>* achievement = <a class="code hl_variable" href="../../d0/d00/a01286.html#a91e667648c436939ee79c55a276fc0bf">sAchievementStore</a>.LookupEntry(reward.entry);</div>
+<div class="line"><span class="lineno">   92</span>            <a class="code hl_struct" href="../../d3/dab/a27679.html">AchievementEntry</a> <span class="keyword">const</span>* achievement = <a class="code hl_variable" href="../../d0/d00/a01286.html#a91e667648c436939ee79c55a276fc0bf">sAchievementStore</a>.LookupEntry(reward.entry);</div>
 <div class="line"><span class="lineno">   93</span>            <span class="keywordflow">if</span> (!achievement)</div>
 <div class="line"><span class="lineno">   94</span>                <span class="keywordflow">continue</span>;</div>
 <div class="line"><span class="lineno">   95</span> </div>
@@ -260,7 +260,7 @@ Private Member Functions</h2></td></tr>
 <div class="ttc" id="aa07243_html_adfe6d092ca9e1ddcd6057dc7fb50958c"><div class="ttname"><a href="../../dc/d10/a07243.html#adfe6d092ca9e1ddcd6057dc7fb50958c">ArenaTeam::GetStats</a></div><div class="ttdeci">const ArenaTeamStats &amp; GetStats() const</div><div class="ttdef"><b>Definition:</b> ArenaTeam.h:155</div></div>
 <div class="ttc" id="aa08583_html"><div class="ttname"><a href="../../d2/d95/a08583.html">Player</a></div><div class="ttdef"><b>Definition:</b> Player.h:1082</div></div>
 <div class="ttc" id="aa08583_html_a48df95c9da37d12c7ec9762af371d9b5"><div class="ttname"><a href="../../d2/d95/a08583.html#a48df95c9da37d12c7ec9762af371d9b5">Player::CompletedAchievement</a></div><div class="ttdeci">void CompletedAchievement(AchievementEntry const *entry)</div><div class="ttdef"><b>Definition:</b> Player.cpp:13879</div></div>
-<div class="ttc" id="aa27683_html"><div class="ttname"><a href="../../dd/df5/a27683.html">AchievementEntry</a></div><div class="ttdef"><b>Definition:</b> DBCStructure.h:40</div></div>
+<div class="ttc" id="aa27679_html"><div class="ttname"><a href="../../d3/dab/a27679.html">AchievementEntry</a></div><div class="ttdef"><b>Definition:</b> DBCStructure.h:40</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00078">ArenaSeasonRewardGroup::achievementRewards</a>, <a class="el" href="../../#l13879">Player::CompletedAchievement()</a>, <a class="el" href="../../#l00245">ObjectAccessor::FindPlayer()</a>, <a class="el" href="../../#l00173">ArenaTeam::GetMembers()</a>, <a class="el" href="../../#l00155">ArenaTeam::GetStats()</a>, <a class="el" href="../../#l00025">minPctTeamGamesForMemberToGetReward</a>, <a class="el" href="../../#l00451">sAchievementMgr</a>, <a class="el" href="../../d0/d00/a01286.html#a91e667648c436939ee79c55a276fc0bf">sAchievementStore</a>, and <a class="el" href="../../#l00129">ArenaTeamStats::SeasonGames</a>.</p>
 
@@ -322,20 +322,20 @@ Private Member Functions</h2></td></tr>
 <div class="line"><span class="lineno">   52</span>        <a class="code hl_class" href="../../d2/d95/a08583.html">Player</a>* player = <a class="code hl_function" href="../../d0/d6d/a04809.html#a9ede56180a13f102ad195136eadb97ee">ObjectAccessor::FindPlayer</a>(member.Guid);</div>
 <div class="line"><span class="lineno">   53</span> </div>
 <div class="line"><span class="lineno">   54</span>        <span class="keyword">auto</span> draft = rewardGroup.rewardMailTemplateID &gt; 0 ?</div>
-<div class="line"><span class="lineno">   55</span>            <a class="code hl_class" href="../../d6/db9/a09691.html">MailDraft</a>(rewardGroup.rewardMailTemplateID, <span class="keyword">false</span>) :</div>
-<div class="line"><span class="lineno">   56</span>            <a class="code hl_class" href="../../d6/db9/a09691.html">MailDraft</a>(rewardGroup.rewardMailSubject, rewardGroup.rewardMailBody);</div>
+<div class="line"><span class="lineno">   55</span>            <a class="code hl_class" href="../../df/dc8/a09695.html">MailDraft</a>(rewardGroup.rewardMailTemplateID, <span class="keyword">false</span>) :</div>
+<div class="line"><span class="lineno">   56</span>            <a class="code hl_class" href="../../df/dc8/a09695.html">MailDraft</a>(rewardGroup.rewardMailSubject, rewardGroup.rewardMailBody);</div>
 <div class="line"><span class="lineno">   57</span> </div>
 <div class="line"><span class="lineno">   58</span>        <span class="keywordflow">if</span> (rewardGroup.goldReward &gt; 0)</div>
-<div class="line"><span class="lineno">   59</span>            draft.<a class="code hl_function" href="../../d6/db9/a09691.html#a4d0be4ea780f25c5302278b5748b6a6b">AddMoney</a>(rewardGroup.goldReward);</div>
+<div class="line"><span class="lineno">   59</span>            draft.<a class="code hl_function" href="../../df/dc8/a09695.html#a4d0be4ea780f25c5302278b5748b6a6b">AddMoney</a>(rewardGroup.goldReward);</div>
 <div class="line"><span class="lineno">   60</span> </div>
 <div class="line"><span class="lineno">   61</span>        <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; reward : rewardGroup.itemRewards)</div>
 <div class="line"><span class="lineno">   62</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d5/d66/a08295.html">Item</a>* item = <a class="code hl_function" href="../../d5/d66/a08295.html#a1eba1689f9ddd48d21394c4206aff398">Item::CreateItem</a>(reward.entry, 1))</div>
 <div class="line"><span class="lineno">   63</span>            {</div>
 <div class="line"><span class="lineno">   64</span>                item-&gt;SaveToDB(trans);</div>
-<div class="line"><span class="lineno">   65</span>                draft.<a class="code hl_function" href="../../d6/db9/a09691.html#ae0c2b4bac4dd8f2a8c53608c45cbb11a">AddItem</a>(item);</div>
+<div class="line"><span class="lineno">   65</span>                draft.<a class="code hl_function" href="../../df/dc8/a09695.html#ae0c2b4bac4dd8f2a8c53608c45cbb11a">AddItem</a>(item);</div>
 <div class="line"><span class="lineno">   66</span>            }</div>
 <div class="line"><span class="lineno">   67</span> </div>
-<div class="line"><span class="lineno">   68</span>        draft.<a class="code hl_function" href="../../d6/db9/a09691.html#aaee8965aaa66351954bdc7db246151d7">SendMailTo</a>(trans, <a class="code hl_class" href="../../db/d4f/a09687.html">MailReceiver</a>(player, member.Guid.GetCounter()), <a class="code hl_class" href="../../d7/d95/a09683.html">MailSender</a>(npcKingDondSender));</div>
+<div class="line"><span class="lineno">   68</span>        draft.<a class="code hl_function" href="../../df/dc8/a09695.html#aaee8965aaa66351954bdc7db246151d7">SendMailTo</a>(trans, <a class="code hl_class" href="../../d6/db9/a09691.html">MailReceiver</a>(player, member.Guid.GetCounter()), <a class="code hl_class" href="../../db/d4f/a09687.html">MailSender</a>(npcKingDondSender));</div>
 <div class="line"><span class="lineno">   69</span>    }</div>
 <div class="line"><span class="lineno">   70</span>    <a class="code hl_variable" href="../../d9/db6/a00146.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.CommitTransaction(trans);</div>
 <div class="line"><span class="lineno">   71</span>}</div>
@@ -343,12 +343,12 @@ Private Member Functions</h2></td></tr>
 <div class="ttc" id="aa00146_html_a7e7534bc66d79434bd280b77cb124eec"><div class="ttname"><a href="../../d9/db6/a00146.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a></div><div class="ttdeci">DatabaseWorkerPool&lt; CharacterDatabaseConnection &gt; CharacterDatabase</div><div class="ttdoc">Accessor to the character database.</div><div class="ttdef"><b>Definition:</b> DatabaseEnv.cpp:21</div></div>
 <div class="ttc" id="aa08295_html"><div class="ttname"><a href="../../d5/d66/a08295.html">Item</a></div><div class="ttdef"><b>Definition:</b> Item.h:220</div></div>
 <div class="ttc" id="aa08295_html_a1eba1689f9ddd48d21394c4206aff398"><div class="ttname"><a href="../../d5/d66/a08295.html#a1eba1689f9ddd48d21394c4206aff398">Item::CreateItem</a></div><div class="ttdeci">static Item * CreateItem(uint32 item, uint32 count, Player const *player=nullptr, bool clone=false, uint32 randomPropertyId=0)</div><div class="ttdef"><b>Definition:</b> Item.cpp:1087</div></div>
-<div class="ttc" id="aa09683_html"><div class="ttname"><a href="../../d7/d95/a09683.html">MailSender</a></div><div class="ttdef"><b>Definition:</b> Mail.h:83</div></div>
-<div class="ttc" id="aa09687_html"><div class="ttname"><a href="../../db/d4f/a09687.html">MailReceiver</a></div><div class="ttdef"><b>Definition:</b> Mail.h:105</div></div>
-<div class="ttc" id="aa09691_html"><div class="ttname"><a href="../../d6/db9/a09691.html">MailDraft</a></div><div class="ttdef"><b>Definition:</b> Mail.h:119</div></div>
-<div class="ttc" id="aa09691_html_a4d0be4ea780f25c5302278b5748b6a6b"><div class="ttname"><a href="../../d6/db9/a09691.html#a4d0be4ea780f25c5302278b5748b6a6b">MailDraft::AddMoney</a></div><div class="ttdeci">MailDraft &amp; AddMoney(uint32 money)</div><div class="ttdef"><b>Definition:</b> Mail.h:137</div></div>
-<div class="ttc" id="aa09691_html_aaee8965aaa66351954bdc7db246151d7"><div class="ttname"><a href="../../d6/db9/a09691.html#aaee8965aaa66351954bdc7db246151d7">MailDraft::SendMailTo</a></div><div class="ttdeci">void SendMailTo(CharacterDatabaseTransaction trans, MailReceiver const &amp;receiver, MailSender const &amp;sender, MailCheckMask checked=MAIL_CHECK_MASK_NONE, uint32 deliver_delay=0, uint32 custom_expiration=0, bool deleteMailItemsFromDB=false, bool sendMail=true)</div><div class="ttdef"><b>Definition:</b> Mail.cpp:185</div></div>
-<div class="ttc" id="aa09691_html_ae0c2b4bac4dd8f2a8c53608c45cbb11a"><div class="ttname"><a href="../../d6/db9/a09691.html#ae0c2b4bac4dd8f2a8c53608c45cbb11a">MailDraft::AddItem</a></div><div class="ttdeci">MailDraft &amp; AddItem(Item *item)</div><div class="ttdef"><b>Definition:</b> Mail.cpp:93</div></div>
+<div class="ttc" id="aa09687_html"><div class="ttname"><a href="../../db/d4f/a09687.html">MailSender</a></div><div class="ttdef"><b>Definition:</b> Mail.h:83</div></div>
+<div class="ttc" id="aa09691_html"><div class="ttname"><a href="../../d6/db9/a09691.html">MailReceiver</a></div><div class="ttdef"><b>Definition:</b> Mail.h:105</div></div>
+<div class="ttc" id="aa09695_html"><div class="ttname"><a href="../../df/dc8/a09695.html">MailDraft</a></div><div class="ttdef"><b>Definition:</b> Mail.h:119</div></div>
+<div class="ttc" id="aa09695_html_a4d0be4ea780f25c5302278b5748b6a6b"><div class="ttname"><a href="../../df/dc8/a09695.html#a4d0be4ea780f25c5302278b5748b6a6b">MailDraft::AddMoney</a></div><div class="ttdeci">MailDraft &amp; AddMoney(uint32 money)</div><div class="ttdef"><b>Definition:</b> Mail.h:137</div></div>
+<div class="ttc" id="aa09695_html_aaee8965aaa66351954bdc7db246151d7"><div class="ttname"><a href="../../df/dc8/a09695.html#aaee8965aaa66351954bdc7db246151d7">MailDraft::SendMailTo</a></div><div class="ttdeci">void SendMailTo(CharacterDatabaseTransaction trans, MailReceiver const &amp;receiver, MailSender const &amp;sender, MailCheckMask checked=MAIL_CHECK_MASK_NONE, uint32 deliver_delay=0, uint32 custom_expiration=0, bool deleteMailItemsFromDB=false, bool sendMail=true)</div><div class="ttdef"><b>Definition:</b> Mail.cpp:185</div></div>
+<div class="ttc" id="aa09695_html_ae0c2b4bac4dd8f2a8c53608c45cbb11a"><div class="ttname"><a href="../../df/dc8/a09695.html#ae0c2b4bac4dd8f2a8c53608c45cbb11a">MailDraft::AddItem</a></div><div class="ttdeci">MailDraft &amp; AddItem(Item *item)</div><div class="ttdef"><b>Definition:</b> Mail.cpp:93</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00021">CharacterDatabase</a>, <a class="el" href="../../#l01087">Item::CreateItem()</a>, <a class="el" href="../../#l00245">ObjectAccessor::FindPlayer()</a>, <a class="el" href="../../#l00173">ArenaTeam::GetMembers()</a>, <a class="el" href="../../#l00155">ArenaTeam::GetStats()</a>, <a class="el" href="../../#l00075">ArenaSeasonRewardGroup::goldReward</a>, <a class="el" href="../../#l00077">ArenaSeasonRewardGroup::itemRewards</a>, <a class="el" href="../../#l00025">minPctTeamGamesForMemberToGetReward</a>, <a class="el" href="../../#l00074">ArenaSeasonRewardGroup::rewardMailBody</a>, <a class="el" href="../../#l00073">ArenaSeasonRewardGroup::rewardMailSubject</a>, <a class="el" href="../../#l00072">ArenaSeasonRewardGroup::rewardMailTemplateID</a>, and <a class="el" href="../../#l00129">ArenaTeamStats::SeasonGames</a>.</p>
 
@@ -362,7 +362,7 @@ Private Member Functions</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d2/d2a/a07211.html">ArenaSeasonTeamRewarderImpl</a></li>
-    <li class="footer">Generated on Mon Jun 16 2025 20:48:09 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Jun 23 2025 20:47:36 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

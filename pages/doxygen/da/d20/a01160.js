@@ -1,6 +1,6 @@
 var a01160 =
 [
-    [ "WorldSession::DosProtection", "de/d56/a10983.html", "de/d56/a10983" ],
+    [ "WorldSession::DosProtection", "d6/de3/a10987.html", "d6/de3/a10987" ],
     [ "GLOBAL_CACHE_MASK", "df/d9b/a04755.html#gabaf56bd86a496e0886a553118d6ffb08", null ],
     [ "NUM_ACCOUNT_DATA_TYPES", "df/d9b/a04755.html#gafb353aeb5e84007c9b55aa50ba6e3ddc", null ],
     [ "PER_CHARACTER_CACHE_MASK", "df/d9b/a04755.html#ga38a03c6cd9103a9891842f233758fbe7", null ],

@@ -1,7 +1,6 @@
 var a22775 =
 [
-    [ "boss_veras_darkshadow", "dc/d41/a22775.html#a7b33a5c8257954951ed19a2f8ce17b95", null ],
-    [ "JustEngagedWith", "dc/d41/a22775.html#a5eec3e70a7950073eced60d680ff6298", null ],
-    [ "JustSummoned", "dc/d41/a22775.html#afd6cb716cfdebccde99d71e1eb797d33", null ],
-    [ "UpdateAI", "dc/d41/a22775.html#a21f23998e3c3ecb79cbfa3c0d778f2d5", null ]
+    [ "CalculateAmount", "dc/d41/a22775.html#aeeabfef0accc4e0d1f78f7422dc30a99", null ],
+    [ "PrepareAuraScript", "dc/d41/a22775.html#a5cf70fe73d01e08e78a2d00e5bc95e8e", null ],
+    [ "Register", "dc/d41/a22775.html#a0d2e97463f268892965e307628aaa931", null ]
 ];

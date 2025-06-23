@@ -1,8 +1,6 @@
 var a08667 =
 [
-    [ "DiminishingReturn", "d0/df5/a08667.html#acd4828637710636d0164fced285c854d", null ],
-    [ "DRGroup", "d0/df5/a08667.html#add3ab95d65e283a326e1922129941ae4", null ],
-    [ "hitCount", "d0/df5/a08667.html#a94b1fdc8e8d51b1c6f5e723e697ed323", null ],
-    [ "hitTime", "d0/df5/a08667.html#ae3f5eecc2bc88fe236fe4c7c297b68c5", null ],
-    [ "stack", "d0/df5/a08667.html#aeb40601df7e6507c7fd83e3152541ba5", null ]
+    [ "ResetToHomeOrientation", "d0/df5/a08667.html#a1009ddced98cc6fae6108aa36dfba671", null ],
+    [ "Execute", "d0/df5/a08667.html#ad46e2d8f0ae0a13bc40ebfaf8c3249aa", null ],
+    [ "_self", "d0/df5/a08667.html#a5233190cd777c3d65f2e1c4ce1d6efb2", null ]
 ];

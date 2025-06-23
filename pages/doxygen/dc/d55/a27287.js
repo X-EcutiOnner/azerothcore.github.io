@@ -1,5 +1,6 @@
 var a27287 =
 [
-    [ "go_table_theka", "dc/d55/a27287.html#a9e25a1c9313437b533e1d88a2db04a58", null ],
-    [ "OnGossipHello", "dc/d55/a27287.html#ab04480f032ce074daacdc0dcfa37ee12", null ]
+    [ "go_soulwellAI", "dc/dbd/a27291.html", "dc/dbd/a27291" ],
+    [ "go_soulwell", "dc/d55/a27287.html#a3747499bd05326ef6f7024c0ee91a4ce", null ],
+    [ "GetAI", "dc/d55/a27287.html#a0c8b8cf09c26ad08c1c6dbb1a0c57861", null ]
 ];

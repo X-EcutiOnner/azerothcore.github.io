@@ -1,7 +1,7 @@
 var a02636 =
 [
-    [ "boss_netherspite", "de/d35/a12567.html", "de/d35/a12567" ],
-    [ "spell_nether_portal_perseverence", "d1/d6e/a12571.html", "d1/d6e/a12571" ],
+    [ "boss_netherspite", "d1/d6e/a12571.html", "d1/d6e/a12571" ],
+    [ "spell_nether_portal_perseverence", "da/d90/a12575.html", "da/d90/a12575" ],
     [ "Emotes", "dd/d32/a02636.html#a2d0a63150f7988db8ff39124dc1cb21a", [
       [ "EMOTE_FRENZY", "d9/dd6/a02441.html#a2d0a63150f7988db8ff39124dc1cb21aa55f111609d7846e27c2f642b9f46b1ac", null ],
       [ "EMOTE_SHIMMER", "d9/dd6/a02441.html#a2d0a63150f7988db8ff39124dc1cb21aa706a7a036a41d3d1f2650ee226e9ec1e", null ],

@@ -1,8 +1,8 @@
 var a03758 =
 [
-    [ "boss_nethermancer_sepethrea", "d2/db0/a23867.html", "d2/db0/a23867" ],
-    [ "npc_raging_flames", "d2/d58/a23871.html", "d2/d58/a23871" ],
-    [ "spell_ragin_flames_inferno", "d2/dda/a23875.html", "d2/dda/a23875" ],
+    [ "boss_nethermancer_sepethrea", "da/d3b/a23863.html", "da/d3b/a23863" ],
+    [ "npc_raging_flames", "d2/db0/a23867.html", "d2/db0/a23867" ],
+    [ "spell_ragin_flames_inferno", "d2/d58/a23871.html", "d2/d58/a23871" ],
     [ "Says", "da/d85/a03758.html#a16774215bba3b38580ea51987d64cff1", [
       [ "SAY_START_FIGHT", "d9/dc8/a02531.html#a16774215bba3b38580ea51987d64cff1a8faddecee02adff0c6fb321d27621e1e", null ],
       [ "EMOTE_DEATH", "d1/d0c/a02570.html#a16774215bba3b38580ea51987d64cff1a532dda2af249d6245366a455505ac407", null ],

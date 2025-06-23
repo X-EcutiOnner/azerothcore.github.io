@@ -4,6 +4,7 @@ var a00824 =
     [ "spellIdImmunityPredicate", "d6/d1f/a08655.html", "d6/d1f/a08655" ],
     [ "ProcTriggeredData", "d0/dbb/a08659.html", "d0/dbb/a08659" ],
     [ "AuraMunchingQueue", "d4/d78/a08663.html", "d4/d78/a08663" ],
+    [ "ResetToHomeOrientation", "d0/df5/a08667.html", "d0/df5/a08667" ],
     [ "ProcTriggeredList", "d8/d1c/a00824.html#af5ec5d5b1ba4d4454c1bdcbc139de758", null ],
     [ "createProcExtendMask", "d8/d1c/a00824.html#afb539370dad036ff97905efdbb4270c0", null ],
     [ "createProcFlags", "d8/d1c/a00824.html#a7d920511c20f084098c0f68a75006159", null ],

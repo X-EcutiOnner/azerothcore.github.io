@@ -1,7 +1,6 @@
 var a22295 =
 [
-    [ "npc_wg_quest_giver", "d8/d84/a22295.html#a68589ab4ce9f43247154f3c66d8107b8", null ],
-    [ "GetDialogStatus", "d8/d84/a22295.html#acd5c1462fe51a350c80af4f3ab46bac8", null ],
-    [ "OnGossipHello", "d8/d84/a22295.html#ad08debc749cbaea6fad9b7bcfb5548e0", null ],
-    [ "OnGossipSelect", "d8/d84/a22295.html#a9d42e558d68eee9f0f96ac1f8cd1a409", null ]
+    [ "npc_wg_queueAI", "d8/d84/a22295.html#a3760738d61b6148042fc30bd96b88fdc", null ],
+    [ "UpdateAI", "d8/d84/a22295.html#a2e5f19a0f01eeb3d1585c7b02f2073b2", null ],
+    [ "events", "d8/d84/a22295.html#ab0eb949272e48120cff1c3df27ad8e92", null ]
 ];

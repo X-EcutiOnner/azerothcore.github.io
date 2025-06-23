@@ -1,8 +1,6 @@
 var a23971 =
 [
-    [ "npc_ancestral_wolfAI", "df/deb/a23971.html#a59ccca7093575f4bcac57a4751d977d4", null ],
-    [ "MoveInLineOfSight", "df/deb/a23971.html#aec5788f0be3c1dcb63b3e61b50ae39c1", null ],
-    [ "Reset", "df/deb/a23971.html#a9778a1648ca0007f7daf4ee98308d8d2", null ],
-    [ "WaypointReached", "df/deb/a23971.html#a2b553c29823e5ef888ee02a3ed413386", null ],
-    [ "ryga", "df/deb/a23971.html#ac238214604720e298124b58c35d58e05", null ]
+    [ "npc_wounded_blood_elfAI", "d3/d38/a23975.html", "d3/d38/a23975" ],
+    [ "npc_wounded_blood_elf", "df/deb/a23971.html#a40e79d1412f5f399869a4d2c6fbb4260", null ],
+    [ "GetAI", "df/deb/a23971.html#a39d4bd877bdf6596c65e3cb834f124aa", null ]
 ];

@@ -1,6 +1,7 @@
 var a21499 =
 [
-    [ "npc_imprisoned_beryl_sorcererAI", "da/d84/a21503.html", "da/d84/a21503" ],
-    [ "npc_imprisoned_beryl_sorcerer", "d5/d08/a21499.html#a6317eb89406cf6b99f63ecfa7f9999d1", null ],
-    [ "GetAI", "d5/d08/a21499.html#aedb301f6da8460f3ed1d81d4b5f2f63c", null ]
+    [ "HandleScriptEffect", "d5/d08/a21499.html#a23d220613a4133e01fb3d7cbacb3aa1c", null ],
+    [ "PrepareSpellScript", "d5/d08/a21499.html#a73b5af95ee4f593337c3803574d190db", null ],
+    [ "Register", "d5/d08/a21499.html#a930de2343532feb50b86304f32269e4c", null ],
+    [ "Validate", "d5/d08/a21499.html#ae9bfedf7e89487217ad927459e259c04", null ]
 ];

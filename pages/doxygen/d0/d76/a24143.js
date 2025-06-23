@@ -1,7 +1,8 @@
 var a24143 =
 [
-    [ "o", "d0/d76/a24143.html#a3785e9b55ea3a7140086ce1f86232109", null ],
-    [ "x", "d0/d76/a24143.html#ac81cc1119b7ac8ac70ee635f2e3d4bb7", null ],
-    [ "y", "d0/d76/a24143.html#a10fbad67977d8dd3911eb629c1797684", null ],
-    [ "z", "d0/d76/a24143.html#a69fc2438e52f6c0de3af13900ff38166", null ]
+    [ "CreatureId", "d0/d76/a24143.html#a127341c70f8785ceb556b1c11b23f477", null ],
+    [ "SpawnCount", "d0/d76/a24143.html#ad51fb68e41e04490f658a4c4f62612bd", null ],
+    [ "SpawnTimer", "d0/d76/a24143.html#aa57ff686c5fde12269e231333d8a8bef", null ],
+    [ "UsedSpawnPoint", "d0/d76/a24143.html#a2d5f42a6b1a309c8db74febcedf457eb", null ],
+    [ "YellTimer", "d0/d76/a24143.html#a6346259269af7f2936f959f87288dd69", null ]
 ];

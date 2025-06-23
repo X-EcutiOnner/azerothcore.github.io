@@ -1,6 +1,6 @@
 var a01736 =
 [
-    [ "AuctionHouseScript", "db/d6a/a10215.html", "db/d6a/a10215" ],
+    [ "AuctionHouseScript", "dc/de0/a10219.html", "dc/de0/a10219" ],
     [ "AuctionHouseHook", "de/daf/a01736.html#a12159e90d998de411ceb193c223f26c9", [
       [ "AUCTIONHOUSEHOOK_ON_AUCTION_ADD", "de/daf/a01736.html#a12159e90d998de411ceb193c223f26c9a421df825a260ea03c56931355ddf1ab0", null ],
       [ "AUCTIONHOUSEHOOK_ON_AUCTION_REMOVE", "de/daf/a01736.html#a12159e90d998de411ceb193c223f26c9a734ce8ea184a341e1f4f2cb623ca92f2", null ],

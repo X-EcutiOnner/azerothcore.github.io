@@ -1,11 +1,7 @@
 var a28323 =
 [
-    [ "addToSpellBook", "da/d59/a28323.html#ad312934d24abcc78c02d50cc5cb5403f", null ],
-    [ "Col", "da/d59/a28323.html#a0bc589c5b1425d5e889cd290b805169e", null ],
-    [ "DependsOn", "da/d59/a28323.html#a7b1aa1384777b8d94dceed3c387bb628", null ],
-    [ "DependsOnRank", "da/d59/a28323.html#a608f232669981da3423b959479ca8683", null ],
-    [ "RankID", "da/d59/a28323.html#a96d0fd120ed3aa7fbd287d104fd87c26", null ],
-    [ "Row", "da/d59/a28323.html#a136b889d2e8875b01fc7aa2be06847ac", null ],
-    [ "TalentID", "da/d59/a28323.html#aa769574106b0e5afdbc7c71c51c3b9a2", null ],
-    [ "TalentTab", "da/d59/a28323.html#acefe6f8c0a5b3893e2a9f828d500df68", null ]
+    [ "ClassMask", "da/d59/a28323.html#acae4582c147b5fd95780ae7b55d36fdc", null ],
+    [ "petTalentMask", "da/d59/a28323.html#a22ab1cf8ad05e57d91a63e3876ae2b77", null ],
+    [ "tabpage", "da/d59/a28323.html#aa6389276582adeb4cae76c257734795c", null ],
+    [ "TalentTabID", "da/d59/a28323.html#ae3a71c61223b59185365819164715dc2", null ]
 ];

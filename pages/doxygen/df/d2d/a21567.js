@@ -1,6 +1,7 @@
 var a21567 =
 [
-    [ "npc_thassarian2AI", "d4/d04/a21571.html", "d4/d04/a21571" ],
-    [ "npc_thassarian2", "df/d2d/a21567.html#a8a2f1e1595349e4fa9968e85f17d0468", null ],
-    [ "GetAI", "df/d2d/a21567.html#adb87c99f3375f88eca55b39e1cd0bbd5", null ]
+    [ "npc_thassarianAI", "df/d2d/a21567.html#a92e873dc3aa97f81919225ce75a5f894", null ],
+    [ "Reset", "df/d2d/a21567.html#a8611ef17700c739dbd5e7a70660f1379", null ],
+    [ "UpdateAI", "df/d2d/a21567.html#ad09a3a063d716bc43e23b5aad5e46a7b", null ],
+    [ "_events", "df/d2d/a21567.html#aaecb5a402e4ffca1e819303dbb94f5b5", null ]
 ];

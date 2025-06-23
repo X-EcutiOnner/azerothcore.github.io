@@ -1,10 +1,8 @@
 var a09295 =
 [
-    [ "MostHPPercentMissingInRange", "de/d58/a09295.html#aaef0deb21e2470b45cafc22a8c4d18a5", null ],
-    [ "operator()", "de/d58/a09295.html#ab1734490a3db95ad715756e85ecfaf77", null ],
-    [ "i_hpPct", "de/d58/a09295.html#a41a3b1c4d1f27a2d727e7a18e2e30a7d", null ],
-    [ "i_maxHpPct", "de/d58/a09295.html#afd12795ef0cd99e05e4e21f869582416", null ],
-    [ "i_minHpPct", "de/d58/a09295.html#a11c197d3eea1a8ded0b20f707e6ed5d0", null ],
-    [ "i_obj", "de/d58/a09295.html#a724cf058a6bcf02864a49bb288e32ce6", null ],
-    [ "i_range", "de/d58/a09295.html#a021acff6bdb6aef9ab24c19d8798884f", null ]
+    [ "MostHPMissingInRange", "de/d58/a09295.html#afaa26b685d4e6b0b8d3e7f062ae9fe72", null ],
+    [ "operator()", "de/d58/a09295.html#a420388204d8a1420552b902fbcb2bebe", null ],
+    [ "i_hp", "de/d58/a09295.html#a4a70531f3dc19e7a2eedde0a03142297", null ],
+    [ "i_obj", "de/d58/a09295.html#a6f803fd737b4cc81c7b9c890c49b497e", null ],
+    [ "i_range", "de/d58/a09295.html#acef63da9004997c7f25056651284efa9", null ]
 ];

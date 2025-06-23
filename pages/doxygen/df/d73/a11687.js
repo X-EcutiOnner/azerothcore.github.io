@@ -1,6 +1,7 @@
 var a11687 =
 [
-    [ "player_settings_commandscript", "df/d73/a11687.html#ab8585064d4d358d7d48eed97379a3a78", null ],
-    [ "GetCommands", "df/d73/a11687.html#ae545918310d22b4e66e4a668bbb7ba58", null ],
-    [ "HandleSettingsAnnouncerFlags", "df/d73/a11687.html#af505117caa66ed4222e52ff91c486b6e", null ]
+    [ "player_commandscript", "df/d73/a11687.html#a1565aa67743cfd3e5fe5179b4100bd20", null ],
+    [ "GetCommands", "df/d73/a11687.html#a0e1e8eec0fe449c95c5cf9dd06a0fced", null ],
+    [ "HandlePlayerLearnCommand", "df/d73/a11687.html#a6ca511bcecf73049665772cb80dbcf40", null ],
+    [ "HandlePlayerUnLearnCommand", "df/d73/a11687.html#a22fddb5da1278fe794a78a899c423bfd", null ]
 ];

@@ -1,13 +1,10 @@
 var a22759 =
 [
-    [ "boss_illidari_council_memberAI", "df/d8a/a22759.html#ac32366dfad13cd37ced2428d041e25c9", null ],
-    [ "DamageTaken", "df/d8a/a22759.html#a1006bbdb6e39b6ceb52037e1b3cdb788", null ],
-    [ "DoAction", "df/d8a/a22759.html#a203310b84d71a24145b1c39e7faff182", null ],
-    [ "EnterEvadeMode", "df/d8a/a22759.html#a9bf2376cd75e0dc825de3839eda857eb", null ],
-    [ "JustDied", "df/d8a/a22759.html#a135c8e8f4113b1c9c05e5b26e61e639c", null ],
-    [ "JustEngagedWith", "df/d8a/a22759.html#a5c43bfb6e1781a83bfad36668ac724f2", null ],
-    [ "KilledUnit", "df/d8a/a22759.html#aa0cb7a373d521038e8e41e354f6bc3f7", null ],
-    [ "Reset", "df/d8a/a22759.html#a8e75d47f56d14d9b66d10b74c3479839", null ],
-    [ "events", "df/d8a/a22759.html#ad47a350f5ed066e04816e72961a80bd0", null ],
-    [ "instance", "df/d8a/a22759.html#adb11720cd0fd87a42b9a78490a70251e", null ]
+    [ "boss_gathios_the_shatterer", "df/d8a/a22759.html#a34708f52c610e567c5acf62962e90d4e", null ],
+    [ "JustEngagedWith", "df/d8a/a22759.html#a98ad625cf2ac9b1d8d9b41001ba4fb34", null ],
+    [ "SelectCouncilMember", "df/d8a/a22759.html#a3d33c1a29b7ba2feb22ea9d3941b39ed", null ],
+    [ "UpdateAI", "df/d8a/a22759.html#a1541f1efd3978a4c91b80e411aec6442", null ],
+    [ "_toggleAura", "df/d8a/a22759.html#aa983e2d9018a9e53ee29840781f47c33", null ],
+    [ "_toggleBlessing", "df/d8a/a22759.html#a52e9b7d3b1af46d3ecb6ca9432ee3957", null ],
+    [ "_toggleSeal", "df/d8a/a22759.html#ad7e6f9e03968e2abac570d0c7a5de9e2", null ]
 ];

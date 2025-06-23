@@ -1,8 +1,5 @@
 var a22419 =
 [
-    [ "HandleApply", "d0/d95/a22419.html#ad8ee9a50314c900b1507e25eaa70ece7", null ],
-    [ "HandleRemove", "d0/d95/a22419.html#a06c7c65d973fcf348f5c929503902520", null ],
-    [ "PrepareAuraScript", "d0/d95/a22419.html#a48b20c0f1997acd0f9f0800bf4b63bd0", null ],
-    [ "Register", "d0/d95/a22419.html#a7018a16262b94a573405e1bdc9fbdd10", null ],
-    [ "Validate", "d0/d95/a22419.html#a8135c492638557eec71189282e7f78a2", null ]
+    [ "OutdoorPvP_eastern_plaguelands", "d0/d95/a22419.html#a5178152ee493eb90b1c1c0f611c6cd92", null ],
+    [ "GetOutdoorPvP", "d0/d95/a22419.html#abc4e99dfa8a600ef578b77ffc3956ada", null ]
 ];

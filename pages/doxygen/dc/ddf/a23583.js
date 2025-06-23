@@ -1,5 +1,6 @@
 var a23583 =
 [
-    [ "at_rp_nethekurse", "dc/ddf/a23583.html#ac0a1891f90b674ad0ccbeb27f170e643", null ],
-    [ "_OnTrigger", "dc/ddf/a23583.html#a93001d6dda7b2711f1efe100ffab5879", null ]
+    [ "boss_porung", "dc/ddf/a23583.html#acef31010461bbf716ac9b13d950807ee", null ],
+    [ "JustDied", "dc/ddf/a23583.html#ac5c36f875692f49d1d0195694d85e5c1", null ],
+    [ "JustEngagedWith", "dc/ddf/a23583.html#a9d44f51e4710e01bdc7d345ff3bba9dc", null ]
 ];

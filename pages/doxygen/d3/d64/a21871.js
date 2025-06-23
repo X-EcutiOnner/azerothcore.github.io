@@ -1,6 +1,7 @@
 var a21871 =
 [
-    [ "npc_amberpine_woodsmanAI", "de/d73/a21875.html", "de/d73/a21875" ],
-    [ "npc_amberpine_woodsman", "d3/d64/a21871.html#a33bbec50a360b724bfe9cb8612cbb47d", null ],
-    [ "GetAI", "d3/d64/a21871.html#a9c1df6c01c163ca68712d72b14c46139", null ]
+    [ "npc_tallhorn_stagAI", "d3/d64/a21871.html#a50947c450eece979193b45728e5e1f82", null ],
+    [ "Reset", "d3/d64/a21871.html#a67dce7ad60ddea63fcba5e1e2079fa7c", null ],
+    [ "UpdateAI", "d3/d64/a21871.html#adf60f62fa92238cb315c42e0179c3f17", null ],
+    [ "_phase", "d3/d64/a21871.html#ace2ac6f418876393d2f6d3457b1bc4c0", null ]
 ];

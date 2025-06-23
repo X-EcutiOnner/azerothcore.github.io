@@ -1,9 +1,10 @@
 var a23651 =
 [
-    [ "boss_dalliah_the_doomsayer", "d7/d2f/a23651.html#ad6edf9623942297b28bc7420ec0cc733", null ],
-    [ "InitializeAI", "d7/d2f/a23651.html#a85342ef80a64ce05f87cf7d90a8bfe79", null ],
-    [ "JustDied", "d7/d2f/a23651.html#a431edc9c25fb125d7d267073eb1c1423", null ],
-    [ "JustEngagedWith", "d7/d2f/a23651.html#a6d3d8d027ddb08417dd11f1606a1418f", null ],
-    [ "KilledUnit", "d7/d2f/a23651.html#af28bfc1166ad45bf7bc046f5906a8b11", null ],
-    [ "Reset", "d7/d2f/a23651.html#a5b4f186225a55afdf1de80b7126d10eb", null ]
+    [ "boss_harbinger_skyriss", "d7/d2f/a23651.html#a245179f74d61c2671b397e8f2473b599", null ],
+    [ "EnterEvadeMode", "d7/d2f/a23651.html#a873413da06569343225e6659f8277b2c", null ],
+    [ "JustDied", "d7/d2f/a23651.html#a2b5152ddeb53d382294bd0fe7455a21e", null ],
+    [ "JustEngagedWith", "d7/d2f/a23651.html#adb4cdec41f4b61f82efdb78fe995c313", null ],
+    [ "JustSummoned", "d7/d2f/a23651.html#a97d84139a3e970e22d7d422f2f825f12", null ],
+    [ "KilledUnit", "d7/d2f/a23651.html#a8f9e1bd87c80041e07b428ec300ceef8", null ],
+    [ "Reset", "d7/d2f/a23651.html#a045ec2371ad99c3465b8f089eb604e0a", null ]
 ];

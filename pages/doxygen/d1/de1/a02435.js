@@ -1,10 +1,10 @@
 var a02435 =
 [
-    [ "boss_broodlord", "d2/d24/a12139.html", "d2/d24/a12139" ],
-    [ "boss_broodlord::boss_broodlordAI", "d7/dce/a12143.html", "d7/dce/a12143" ],
-    [ "go_suppression_device", "df/dc8/a12147.html", "df/dc8/a12147" ],
-    [ "go_suppression_device::go_suppression_deviceAI", "d5/de3/a12151.html", "d5/de3/a12151" ],
-    [ "spell_suppression_aura", "dd/d99/a12155.html", "dd/d99/a12155" ],
+    [ "boss_broodlord", "d7/dce/a12143.html", "d7/dce/a12143" ],
+    [ "boss_broodlord::boss_broodlordAI", "df/dc8/a12147.html", "df/dc8/a12147" ],
+    [ "go_suppression_device", "d5/de3/a12151.html", "d5/de3/a12151" ],
+    [ "go_suppression_device::go_suppression_deviceAI", "dd/d99/a12155.html", "dd/d99/a12155" ],
+    [ "spell_suppression_aura", "d0/d4e/a12159.html", "d0/d4e/a12159" ],
     [ "Actions", "d1/de1/a02435.html#a250372292659bed7ae290d8621f88ccf", [
       [ "ACTION_GUNSHIP_READY", "da/d46/a00665.html#a250372292659bed7ae290d8621f88ccfaae8bb35d65ee37e4d232e2a67aeca581", null ],
       [ "ACTION_TELEPORT_PLAYER_TO_TRANSPORT", "da/d46/a00665.html#a250372292659bed7ae290d8621f88ccfa6b86b0986a459bb245b3a3cd8b75040c", null ],

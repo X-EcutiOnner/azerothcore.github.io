@@ -1,7 +1,12 @@
 var a22651 =
 [
-    [ "HandleProc", "d2/d4d/a22651.html#a4d12ab1b286105fdad5eb2dd20131408", null ],
-    [ "PrepareAuraScript", "d2/d4d/a22651.html#a94b6499dc2e1fa95a50bd9c3c491e858", null ],
-    [ "Register", "d2/d4d/a22651.html#a6b764182501a1d192f90dc20bbd6549e", null ],
-    [ "Validate", "d2/d4d/a22651.html#ad89123425cca5bd02a18526a11595a1a", null ]
+    [ "boss_gurtogg_bloodboil", "d2/d4d/a22651.html#af6abec4e4db5ce939e4c9593656d16fb", null ],
+    [ "CanAIAttack", "d2/d4d/a22651.html#a60e6439bab689eb88a18612b6b46c713", null ],
+    [ "CheckEvadeIfOutOfCombatArea", "d2/d4d/a22651.html#a42db4d9fab6edfc392e1886c7d2770cb", null ],
+    [ "JustDied", "d2/d4d/a22651.html#a10456695efc6ea0b8eace24b94c37cc3", null ],
+    [ "JustEngagedWith", "d2/d4d/a22651.html#a0847173efbae252c2fbbaf1be17097cb", null ],
+    [ "JustSummoned", "d2/d4d/a22651.html#ae718666a1da0e93cb0965c42c40b51df", null ],
+    [ "KilledUnit", "d2/d4d/a22651.html#ab2b8131fc06f0ff6dd9e3ac7799e72db", null ],
+    [ "Reset", "d2/d4d/a22651.html#add25677d422b8bddcb753465451f0584", null ],
+    [ "_recentlySpoken", "d2/d4d/a22651.html#a74af813b84f7787a5b764cfe574c087b", null ]
 ];

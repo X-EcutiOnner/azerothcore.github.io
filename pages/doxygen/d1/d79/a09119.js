@@ -1,26 +1,9 @@
 var a09119 =
 [
-    [ "GetHeightPtr", "d1/d79/a09119.html#a347927f9d7df887b2a6fd89d841e004c", null ],
-    [ "GridTerrainData", "d1/d79/a09119.html#a1cf2965cea22f5a98ad2d737e372ac18", null ],
-    [ "~GridTerrainData", "d1/d79/a09119.html#a7380c5dbf731134733b87cab470603a4", null ],
-    [ "getArea", "d1/d79/a09119.html#a938710a8304ef342373d41581018c623", null ],
-    [ "getHeight", "d1/d79/a09119.html#a1269f47abd6faf5304494c85628bb961", null ],
-    [ "getHeightFromFlat", "d1/d79/a09119.html#adc73b5d06468dbf30b7b6507f6ac6474", null ],
-    [ "getHeightFromFloat", "d1/d79/a09119.html#a43b34255bd40b0824ad161bd40c8a5ec", null ],
-    [ "getHeightFromUint16", "d1/d79/a09119.html#a4ae5997baa9f9905cf13a3a214781df9", null ],
-    [ "getHeightFromUint8", "d1/d79/a09119.html#af849394add099d86aa8ec9eb8c807f5d", null ],
-    [ "GetLiquidData", "d1/d79/a09119.html#afd6065e989b1c9ea28839b0c657edfa9", null ],
-    [ "getLiquidLevel", "d1/d79/a09119.html#a2e3b2ea01f5ce3f93944529d73fa70de", null ],
-    [ "getMinHeight", "d1/d79/a09119.html#ab39ef52957f9c1ece42c3fc11893a3fc", null ],
-    [ "isHole", "d1/d79/a09119.html#abdf3da449ed62b2d7a54547178d21110", null ],
-    [ "Load", "d1/d79/a09119.html#acacaa661126e761a863b5490a3e78e73", null ],
-    [ "LoadAreaData", "d1/d79/a09119.html#a28f80f4acdb72dd9641a261178df0859", null ],
-    [ "LoadHeightData", "d1/d79/a09119.html#ae50db87879b0b0bca66f0f0a625e2bc9", null ],
-    [ "LoadHolesData", "d1/d79/a09119.html#a0741c8d46e938fcf7b18fe7c9254b629", null ],
-    [ "LoadLiquidData", "d1/d79/a09119.html#ac3dc194ca16a7e9b604b2c2d14c478d8", null ],
-    [ "_gridGetHeight", "d1/d79/a09119.html#a2425f13f62b37931192acdc02127c243", null ],
-    [ "_loadedAreaData", "d1/d79/a09119.html#a6d4887b105ac3c7f6c49ef0d92a33780", null ],
-    [ "_loadedHeightData", "d1/d79/a09119.html#aea51fcf34105d685405203093ce67085", null ],
-    [ "_loadedHoleData", "d1/d79/a09119.html#a421f20b133fab6afa2295de1ebe5b51a", null ],
-    [ "_loadedLiquidData", "d1/d79/a09119.html#a3d72914b55d6c6413ade869503b259cc", null ]
+    [ "LiquidData", "d1/d79/a09119.html#ac2435178323f480d2dae449b49b39146", null ],
+    [ "DepthLevel", "d1/d79/a09119.html#ad84c7763a6253db7ae6117ecc7144f1d", null ],
+    [ "Entry", "d1/d79/a09119.html#abfed22cb0e920067c0f86a0083ef4ab6", null ],
+    [ "Flags", "d1/d79/a09119.html#aa0903ec4233bcfa34494cea5068cd19c", null ],
+    [ "Level", "d1/d79/a09119.html#a7c596e921e383bbdbdacbcd4307fe380", null ],
+    [ "Status", "d1/d79/a09119.html#acb79cdfb4221f158ce9b29127591a8a9", null ]
 ];

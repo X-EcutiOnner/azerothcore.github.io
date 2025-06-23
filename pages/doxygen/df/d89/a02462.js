@@ -1,9 +1,9 @@
 var a02462 =
 [
-    [ "npc_mc_core_hound", "d1/dc8/a12467.html", "d1/dc8/a12467" ],
-    [ "npc_mc_core_hound::npc_mc_core_houndAI", "d2/d01/a12471.html", "d2/d01/a12471" ],
-    [ "spell_mc_play_dead_aura", "df/ded/a12475.html", "df/ded/a12475" ],
-    [ "npc_lava_spawn", "df/db6/a12479.html", "df/db6/a12479" ],
+    [ "npc_mc_core_hound", "d2/d01/a12471.html", "d2/d01/a12471" ],
+    [ "npc_mc_core_hound::npc_mc_core_houndAI", "df/ded/a12475.html", "df/ded/a12475" ],
+    [ "spell_mc_play_dead_aura", "df/db6/a12479.html", "df/db6/a12479" ],
+    [ "npc_lava_spawn", "d3/dc6/a12483.html", "d3/dc6/a12483" ],
     [ "Spells", "df/d89/a02462.html#a5bd342133be8c2137b831460acc9298c", [
       [ "SPELL_OIL_REFINERY", "da/d46/a00665.html#a5bd342133be8c2137b831460acc9298cae2eb4db3c46b45e80cc2feb9c34f2ada", null ],
       [ "SPELL_QUARRY", "da/d46/a00665.html#a5bd342133be8c2137b831460acc9298ca5a0922923b24c4bb6661ad8396a76e01", null ],

@@ -1,6 +1,8 @@
 var a23799 =
 [
-    [ "lapseTeleport", "de/d30/a23799.html#a55c4330397214bf3a43628b3067d4634", null ],
-    [ "Execute", "de/d30/a23799.html#a122023ed13fce2f5bb3721e459964443", null ],
-    [ "_owner", "de/d30/a23799.html#a0e678c5cdb862390ea50c8d6057b7093", null ]
+    [ "HandleScriptEffect", "de/d30/a23799.html#a7cde39fc0844f19604c8026a853e8216", null ],
+    [ "Load", "de/d30/a23799.html#a5d3eb86208c4aa9c6592349d28c5df79", null ],
+    [ "PrepareSpellScript", "de/d30/a23799.html#a962de50d1fa35ca16b4753f55e5cbd47", null ],
+    [ "Register", "de/d30/a23799.html#aee6bd90e8b39132d4b53b67c22d6c331", null ],
+    [ "_currentSpellId", "de/d30/a23799.html#a0ad25535ba345fe9672150af67687305", null ]
 ];

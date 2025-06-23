@@ -1,7 +1,6 @@
 var a12943 =
 [
-    [ "CheckCast", "d1/dcb/a12943.html#a3fe12c32e49232c2ea80095e62b4f981", null ],
-    [ "HandleScriptEffect", "d1/dcb/a12943.html#af265f0bba7028f45763a7f9afea2d051", null ],
-    [ "PrepareSpellScript", "d1/dcb/a12943.html#a27518fd5482e65e0324100057e747d68", null ],
-    [ "Register", "d1/dcb/a12943.html#a07789d7d092eb1b6633200442466c52b", null ]
+    [ "OnRemove", "d1/dcb/a12943.html#aedad236b202300eee0925e3600b87bfa", null ],
+    [ "PrepareAuraScript", "d1/dcb/a12943.html#acfdeb98e274989e378d4d4c800306a24", null ],
+    [ "Register", "d1/dcb/a12943.html#a0d820ca108e3aabe87ab5867d997264c", null ]
 ];

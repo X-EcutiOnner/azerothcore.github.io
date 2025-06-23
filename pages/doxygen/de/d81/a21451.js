@@ -1,5 +1,6 @@
 var a21451 =
 [
-    [ "npc_khunok_the_behemothAI", "de/d81/a21451.html#a435ac0418fe4bba1d2877ce6bea6451c", null ],
-    [ "MoveInLineOfSight", "de/d81/a21451.html#a5d54954a159da764aa7b83579e03688c", null ]
+    [ "npc_khunok_the_behemothAI", "d7/d62/a21455.html", "d7/d62/a21455" ],
+    [ "npc_khunok_the_behemoth", "de/d81/a21451.html#a0370959631c00581495dbd7c37263236", null ],
+    [ "GetAI", "de/d81/a21451.html#a201aa35dd119d23126b192a1e3786c09", null ]
 ];

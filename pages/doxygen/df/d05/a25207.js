@@ -1,7 +1,7 @@
 var a25207 =
 [
-    [ "OnApply", "df/d05/a25207.html#afda219a18001505ae7a2d01b1d5b25c0", null ],
-    [ "OnRemove", "df/d05/a25207.html#a54bcd84599d6e5a6d7f538e2b40b890b", null ],
-    [ "PrepareAuraScript", "df/d05/a25207.html#a9a7b549e059b6bd2d22802f60e952658", null ],
-    [ "Register", "df/d05/a25207.html#aae603735281daf02ceca157e218d5c9f", null ]
+    [ "PrepareAuraScript", "df/d05/a25207.html#afeac0a8393b7d7bf787fca59988d0e14", null ],
+    [ "Register", "df/d05/a25207.html#a7cbcf46dbdddea12fd6ce04bcbcea097", null ],
+    [ "TriggerFoodBuff", "df/d05/a25207.html#a5d125413491dd377d61b8e30c4979fdd", null ],
+    [ "Validate", "df/d05/a25207.html#a6b69d7358eb8cfe6a8f9efd47882eb80", null ]
 ];

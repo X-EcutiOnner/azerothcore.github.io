@@ -1,12 +1,12 @@
 var a23491 =
 [
-    [ "boss_vazruden_the_herald", "df/d5d/a23491.html#a97f761b2e3477a22cdc65c68700de72c", null ],
-    [ "AttackStart", "df/d5d/a23491.html#a190621f4130b913348a49d6dfe76b591", null ],
-    [ "JustSummoned", "df/d5d/a23491.html#a66d8c6252e6baf88144da3af57bf65a4", null ],
-    [ "MovementInform", "df/d5d/a23491.html#abd89aa3911c626864f8aada889ce99c9", null ],
-    [ "Reset", "df/d5d/a23491.html#a18076b0fd12bc9a002394d5fe3aa5f81", null ],
-    [ "SetData", "df/d5d/a23491.html#a7dcbec1c99fdf4f740656a8379a99080", null ],
-    [ "SummonedCreatureDespawn", "df/d5d/a23491.html#a7621077082a3b53d1d21265e6dd00dce", null ],
-    [ "SummonedCreatureDies", "df/d5d/a23491.html#a336feba0d88e4fccce28b2730a9aea9e", null ],
-    [ "UpdateAI", "df/d5d/a23491.html#adc98e358a751fd9881589aada4baf320", null ]
+    [ "boss_nazan", "df/d5d/a23491.html#a4390d3e181c4db46e364df3302612763", null ],
+    [ "AttackStart", "df/d5d/a23491.html#a7acea69f908e7a004c2a78c103528975", null ],
+    [ "DoAction", "df/d5d/a23491.html#abdb49e50dabda61c5d16b420ae69ae77", null ],
+    [ "EnterEvadeMode", "df/d5d/a23491.html#ab6338a7d240014e548b22044b788ce8f", null ],
+    [ "JustEngagedWith", "df/d5d/a23491.html#a4d44b759530f32207a46a608fb7d6209", null ],
+    [ "MovementInform", "df/d5d/a23491.html#ad35866322ff55263b1f8b105d2cad952", null ],
+    [ "Reset", "df/d5d/a23491.html#a5c10e932075130399a9127869f45ce1d", null ],
+    [ "UpdateAI", "df/d5d/a23491.html#a17942f19444ad324058d7b8c8a9aa9de", null ],
+    [ "_scheduler", "df/d5d/a23491.html#a8915d84ec4ffb8dade18041d5e910018", null ]
 ];

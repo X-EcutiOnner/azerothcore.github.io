@@ -126,7 +126,7 @@ Functions</h2></td></tr>
 <tr class="separator:ad553c2186f078e696768d40d217738f8"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a10fef1ff3335f4642179ee423b1ff0d6"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d7/dc5/a06143.html">CreatureAI</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d7d/a04797.html#a10fef1ff3335f4642179ee423b1ff0d6">SelectAI</a> (<a class="el" href="../../da/d4d/a07967.html">Creature</a> *creature)</td></tr>
 <tr class="separator:a10fef1ff3335f4642179ee423b1ff0d6"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a203d17bf72c42c0d3fdb77626b01b679"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d7/dd7/a09895.html">MovementGenerator</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d7d/a04797.html#a203d17bf72c42c0d3fdb77626b01b679">SelectMovementGenerator</a> (<a class="el" href="../../dd/d58/a08715.html">Unit</a> *unit)</td></tr>
+<tr class="memitem:a203d17bf72c42c0d3fdb77626b01b679"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/d37/a09899.html">MovementGenerator</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d7d/a04797.html#a203d17bf72c42c0d3fdb77626b01b679">SelectMovementGenerator</a> (<a class="el" href="../../db/d05/a08719.html">Unit</a> *unit)</td></tr>
 <tr class="separator:a203d17bf72c42c0d3fdb77626b01b679"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a2ce404e9b85f551638d8783c01a19860"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/ddd/a06063.html">GameObjectAI</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d7d/a04797.html#a2ce404e9b85f551638d8783c01a19860">SelectGameObjectAI</a> (<a class="el" href="../../da/ddf/a08143.html">GameObject</a> *go)</td></tr>
 <tr class="separator:a2ce404e9b85f551638d8783c01a19860"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -198,7 +198,7 @@ template&lt;class T , class Value &gt; </div>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">   79</span>    {</div>
 <div class="line"><span class="lineno">   80</span>        <span class="comment">// special pet case, if a tamed creature uses AIName (example SmartAI) we need to override it</span></div>
-<div class="line"><span class="lineno">   81</span>        <span class="keywordflow">if</span> (creature-&gt;<a class="code hl_function" href="../../dd/d58/a08715.html#a4ad2fdcc45e2c3c85ad59ff49268b58c">IsPet</a>())</div>
+<div class="line"><span class="lineno">   81</span>        <span class="keywordflow">if</span> (creature-&gt;<a class="code hl_function" href="../../db/d05/a08719.html#a4ad2fdcc45e2c3c85ad59ff49268b58c">IsPet</a>())</div>
 <div class="line"><span class="lineno">   82</span>            <span class="keywordflow">return</span> <a class="code hl_define" href="../../d3/d74/a04418.html#aee2b3b5656453513bc51a5979b247a67">ASSERT_NOTNULL</a>(<a class="code hl_define" href="../../d7/db6/a01556.html#a08e073e90e01d97b74e2331f15bf6122">sCreatureAIRegistry</a>-&gt;GetRegistryItem(<span class="stringliteral">&quot;PetAI&quot;</span>))-&gt;Create(creature);</div>
 <div class="line"><span class="lineno">   83</span> </div>
 <div class="line"><span class="lineno">   84</span>        <span class="comment">// scriptname in db</span></div>
@@ -210,7 +210,7 @@ template&lt;class T , class Value &gt; </div>
 <div class="ttc" id="aa01556_html_a08e073e90e01d97b74e2331f15bf6122"><div class="ttname"><a href="../../d7/db6/a01556.html#a08e073e90e01d97b74e2331f15bf6122">sCreatureAIRegistry</a></div><div class="ttdeci">#define sCreatureAIRegistry</div><div class="ttdef"><b>Definition:</b> CreatureAIFactory.h:48</div></div>
 <div class="ttc" id="aa02024_html_ae8161e629869974bc49b1cbfc73c1087"><div class="ttname"><a href="../../d7/dbe/a02024.html#ae8161e629869974bc49b1cbfc73c1087">sScriptMgr</a></div><div class="ttdeci">#define sScriptMgr</div><div class="ttdef"><b>Definition:</b> ScriptMgr.h:727</div></div>
 <div class="ttc" id="aa06143_html"><div class="ttname"><a href="../../d7/dc5/a06143.html">CreatureAI</a></div><div class="ttdef"><b>Definition:</b> CreatureAI.h:70</div></div>
-<div class="ttc" id="aa08715_html_a4ad2fdcc45e2c3c85ad59ff49268b58c"><div class="ttname"><a href="../../dd/d58/a08715.html#a4ad2fdcc45e2c3c85ad59ff49268b58c">Unit::IsPet</a></div><div class="ttdeci">bool IsPet() const</div><div class="ttdef"><b>Definition:</b> Unit.h:747</div></div>
+<div class="ttc" id="aa08719_html_a4ad2fdcc45e2c3c85ad59ff49268b58c"><div class="ttname"><a href="../../db/d05/a08719.html#a4ad2fdcc45e2c3c85ad59ff49268b58c">Unit::IsPet</a></div><div class="ttdeci">bool IsPet() const</div><div class="ttdef"><b>Definition:</b> Unit.h:747</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00085">ASSERT_NOTNULL</a>, <a class="el" href="../../#l00747">Unit::IsPet()</a>, <a class="el" href="../../#l00048">sCreatureAIRegistry</a>, and <a class="el" href="../../#l00727">sScriptMgr</a>.</p>
 
@@ -313,9 +313,9 @@ template&lt;class AI , class T &gt; </div>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d4/d61/a04406.html#a00a04eccc2ca042486601576eccae409">AC_GAME_API</a> <a class="el" href="../../d7/dd7/a09895.html">MovementGenerator</a> * FactorySelector::SelectMovementGenerator </td>
+          <td class="memname"><a class="el" href="../../d4/d61/a04406.html#a00a04eccc2ca042486601576eccae409">AC_GAME_API</a> <a class="el" href="../../d6/d37/a09899.html">MovementGenerator</a> * FactorySelector::SelectMovementGenerator </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../dd/d58/a08715.html">Unit</a> *&#160;</td>
+          <td class="paramtype"><a class="el" href="../../db/d05/a08719.html">Unit</a> *&#160;</td>
           <td class="paramname"><em>unit</em></td><td>)</td>
           <td></td>
         </tr>
@@ -349,7 +349,7 @@ template&lt;class AI , class T &gt; </div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d3/d7d/a04797.html">FactorySelector</a></li>
-    <li class="footer">Generated on Mon Jun 16 2025 20:49:42 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Jun 23 2025 20:48:53 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

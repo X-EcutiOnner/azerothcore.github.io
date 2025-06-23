@@ -1,7 +1,6 @@
 var a26899 =
 [
-    [ "HandleEffect", "d0/d9c/a26899.html#a83b2bd3a3f9a9027766f15f23cae95f0", null ],
-    [ "PrepareSpellScript", "d0/d9c/a26899.html#a7645af1c876e1f6ad91ef92884d220ac", null ],
-    [ "Register", "d0/d9c/a26899.html#a15d4ce9c947ca2f25e29f97119c4106e", null ],
-    [ "Validate", "d0/d9c/a26899.html#ab6d78ecb650f13df3376baced8c40a63", null ]
+    [ "FilterTargets", "d0/d9c/a26899.html#a6224b3193474f569d09edaf29b40c2fb", null ],
+    [ "PrepareSpellScript", "d0/d9c/a26899.html#ad7478a1a70ebc52eda1c57dd4f143b67", null ],
+    [ "Register", "d0/d9c/a26899.html#a2fab1592d19331239b1ef63045389886", null ]
 ];

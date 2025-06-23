@@ -4,6 +4,7 @@ var a03140 =
     [ "boss_ionar::boss_ionarAI", "dc/d49/a19443.html", "dc/d49/a19443" ],
     [ "npc_spark_of_ionar", "d0/df9/a19447.html", "d0/df9/a19447" ],
     [ "npc_spark_of_ionar::npc_spark_of_ionarAI", "da/d57/a19451.html", "da/d57/a19451" ],
+    [ "spell_ionar_static_overload", "dc/d39/a19455.html", "dc/d39/a19455" ],
     [ "IonarEvents", "da/d72/a03140.html#a55c0c07978cfe70c0de268fffe25dc01", [
       [ "EVENT_BALL_LIGHTNING", "da/d72/a03140.html#a55c0c07978cfe70c0de268fffe25dc01a78c3786c67000c32de404a9427b52b06", null ],
       [ "EVENT_STATIC_OVERLOAD", "da/d72/a03140.html#a55c0c07978cfe70c0de268fffe25dc01ae3a111aaab2ee8146af4226e5480bd76", null ],
@@ -21,6 +22,7 @@ var a03140 =
       [ "SPELL_BALL_LIGHTNING_H", "da/d72/a03140.html#ad38e13b91473fd0a924fbda8426cdbd3af2d28468851fe3c0e7d1a6df0a10495b", null ],
       [ "SPELL_STATIC_OVERLOAD_N", "da/d72/a03140.html#ad38e13b91473fd0a924fbda8426cdbd3a7fa88501769e9abc9a35d7adb3f1561f", null ],
       [ "SPELL_STATIC_OVERLOAD_H", "da/d72/a03140.html#ad38e13b91473fd0a924fbda8426cdbd3aff67fb2f3aa6c3236ccb43015c0d4c7c", null ],
+      [ "SPELL_STATIC_OVERLOAD_KNOCK", "da/d72/a03140.html#ad38e13b91473fd0a924fbda8426cdbd3a7377a456730e145b98c742bbca47da29", null ],
       [ "SPELL_DISPERSE", "da/d72/a03140.html#ad38e13b91473fd0a924fbda8426cdbd3acbe24a984f278f1c76119e8c3fbbe6a3", null ],
       [ "SPELL_SUMMON_SPARK", "da/d72/a03140.html#ad38e13b91473fd0a924fbda8426cdbd3a12c06129c4f7d93c09671196ad95a854", null ],
       [ "SPELL_SPARK_DESPAWN", "da/d72/a03140.html#ad38e13b91473fd0a924fbda8426cdbd3a24659e9a7d70d9ade4cd1e63cdc76615", null ],

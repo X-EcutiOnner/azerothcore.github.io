@@ -1,7 +1,7 @@
 var a23027 =
 [
-    [ "OnPeriodic", "df/d64/a23027.html#ad64b9ba13ef7d77cd778afb8e412ad04", null ],
-    [ "PrepareAuraScript", "df/d64/a23027.html#a40faff90cb247203d3afafad9c44bfd7", null ],
-    [ "Register", "df/d64/a23027.html#a8b2d4235784396b8c29b8e7de51e5708", null ],
-    [ "Validate", "df/d64/a23027.html#a57b481cf462f53ec76f2db326b48c9b6", null ]
+    [ "HandleScriptEffect", "df/d64/a23027.html#a0038e566bc5054e4208fd727fcc266fa", null ],
+    [ "PrepareSpellScript", "df/d64/a23027.html#abb661bacf4cec1f2e15f4aeda2ab991e", null ],
+    [ "Register", "df/d64/a23027.html#a416b811c2676c598df0ac0e5906a94d3", null ],
+    [ "Validate", "df/d64/a23027.html#a11e82a2b40dbbd9949a1dda3bd715679", null ]
 ];

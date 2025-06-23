@@ -1,8 +1,8 @@
 var a28035 =
 [
-    [ "DamagedDisplayId", "d1/d9a/a28035.html#a84d606d69c51f5e1fdecf9bc0f5705be", null ],
-    [ "DestroyedDisplayId", "d1/d9a/a28035.html#afc891df0c9491a34f784e8f141434be5", null ],
-    [ "Id", "d1/d9a/a28035.html#a65d7e0933cb53864413781cdeb56b6c2", null ],
-    [ "RebuildingDisplayId", "d1/d9a/a28035.html#aa4e1e6be7b5b1d15872fb310c1c299af", null ],
-    [ "SmokeDisplayId", "d1/d9a/a28035.html#a1a06c3e04bc2bb7d5bc29592d40b9239", null ]
+    [ "difficulty", "d1/d9a/a28035.html#a2a04df701c13dc49053b09a9587a72a8", null ],
+    [ "encounterIndex", "d1/d9a/a28035.html#a3d35560824a3aaeecb8db4bf8628ebfd", null ],
+    [ "encounterName", "d1/d9a/a28035.html#af4f26f56526b945e392ddaf6b2d43fa1", null ],
+    [ "id", "d1/d9a/a28035.html#aa9828ccc644a11f9cb35fbcc7d31a827", null ],
+    [ "mapId", "d1/d9a/a28035.html#a61c1ac724c8eb96907d2ea9402a8f9ce", null ]
 ];

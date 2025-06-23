@@ -1,6 +1,7 @@
 var a19595 =
 [
-    [ "HandleApplyTouch", "da/d1e/a19595.html#a0c46c506f78f46f17c0de6caae774316", null ],
-    [ "PrepareSpellScript", "da/d1e/a19595.html#a2f32b735a8a72a6ef52744d3ce8ada8b", null ],
-    [ "Register", "da/d1e/a19595.html#a70382055564e4ead8b5da0d6bd20c67f", null ]
+    [ "HandleEffectRemove", "da/d1e/a19595.html#af61220cb739baef9b33aecddb1cfe5ea", null ],
+    [ "PrepareAuraScript", "da/d1e/a19595.html#ad8035b1b676751fcc299e4ad8df62ed8", null ],
+    [ "Register", "da/d1e/a19595.html#abe52dbfdbd42c860e0a79873dd19e22d", null ],
+    [ "Validate", "da/d1e/a19595.html#a7c4f9df92b501720e30372fa9e9dbad7", null ]
 ];

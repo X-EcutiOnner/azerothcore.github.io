@@ -1,6 +1,6 @@
 var a24903 =
 [
-    [ "HandleDummy", "d9/d4d/a24903.html#a80ab847f2528060b2e3e2e128cfc06af", null ],
-    [ "PrepareSpellScript", "d9/d4d/a24903.html#af310c2b28ed816b9fbe494f81c42043c", null ],
-    [ "Register", "d9/d4d/a24903.html#ae5e494ca801b35520bddb4a8a148efcd", null ]
+    [ "OnPeriodic", "d9/d4d/a24903.html#a5fdf44f34765d0386d5c5490620c944a", null ],
+    [ "PrepareAuraScript", "d9/d4d/a24903.html#a3c3044795e183eef2c801781100b11c7", null ],
+    [ "Register", "d9/d4d/a24903.html#a1221c3287c3fd7add356e84430508684", null ]
 ];

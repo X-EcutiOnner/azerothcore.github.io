@@ -1,6 +1,6 @@
 var a11895 =
 [
-    [ "boss_high_interrogator_gerstahnAI", "db/d10/a11899.html", "db/d10/a11899" ],
-    [ "boss_high_interrogator_gerstahn", "de/d67/a11895.html#a700eb542c041e9ca540f2676fc42aff9", null ],
-    [ "GetAI", "de/d67/a11895.html#ab4e92847a1ce6bf50f0ae460c1a7108f", null ]
+    [ "boss_hedrumAI", "de/d67/a11895.html#a95e4af51a8e24fa7b36b924c6cdfb86c", null ],
+    [ "JustEngagedWith", "de/d67/a11895.html#a1cf03b06598f2b36814062d47a73ed82", null ],
+    [ "UpdateAI", "de/d67/a11895.html#aa515ed081aaabdad751c1bbba56d3d96", null ]
 ];

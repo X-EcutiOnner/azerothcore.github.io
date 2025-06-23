@@ -1,5 +1,6 @@
 var a21611 =
 [
-    [ "npc_mei_francis_mountAI", "d0/d84/a21611.html#aa9886ead02754faebff8b21eeb85dee6", null ],
-    [ "CanBeSeen", "d0/d84/a21611.html#ad5e33495339a0315bc7b01351810157e", null ]
+    [ "npc_mei_francis_mountAI", "db/d90/a21615.html", "db/d90/a21615" ],
+    [ "npc_mei_francis_mount", "d0/d84/a21611.html#ab34facb1d4d9a542710340493488eaa8", null ],
+    [ "GetAI", "d0/d84/a21611.html#ac1f14e0b94662432b399d6dfeb8a8107", null ]
 ];

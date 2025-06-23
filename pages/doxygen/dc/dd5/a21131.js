@@ -1,6 +1,5 @@
 var a21131 =
 [
-    [ "HandleDummyEffect", "dc/dd5/a21131.html#a25bc99811aa2c7bf4bfbf8ad628a2771", null ],
-    [ "PrepareSpellScript", "dc/dd5/a21131.html#a07376c95cb2ec41d86a24be59094d207", null ],
-    [ "Register", "dc/dd5/a21131.html#aaa02dab30b29e6f646db52468fc35eb2", null ]
+    [ "npc_ritual_channelerAI", "dc/dd5/a21131.html#aa770f8f2b9dd5fca86f9e63de7b4000f", null ],
+    [ "AttackStart", "dc/dd5/a21131.html#aff09fbdc1e701853c9953882ca73ce2a", null ]
 ];

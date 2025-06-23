@@ -1,4 +1,5 @@
 var a08947 =
 [
-    [ "Content", "d6/d29/a08947.html#a2258fd4a2b331369a95988cfa6b42f4c", null ]
+    [ "creatures", "d6/d29/a08947.html#a9ae0351e4964d22bcf7c454c8b1027fe", null ],
+    [ "gameobjects", "d6/d29/a08947.html#a14fee7108cb388abd1ec2057cc7ed2a1", null ]
 ];

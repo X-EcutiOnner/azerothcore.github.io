@@ -1,5 +1,5 @@
 var a27351 =
 [
-    [ "item_incendiary_explosives", "de/d56/a27351.html#a3a10f4e40374cae75a5ed320385a67f9", null ],
-    [ "OnUse", "de/d56/a27351.html#a1e566a6a5b6cfb8b7e331a6ea94f77b4", null ]
+    [ "item_mysterious_egg", "de/d56/a27351.html#ac32e296dcb700f32f6d0296f2921e6c7", null ],
+    [ "OnExpire", "de/d56/a27351.html#a5ea72284626826b75819f89b3b91c540", null ]
 ];

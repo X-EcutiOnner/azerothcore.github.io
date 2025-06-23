@@ -1,9 +1,9 @@
 var a02447 =
 [
-    [ "instance_blackwing_lair", "df/df0/a12287.html", "df/df0/a12287" ],
-    [ "instance_blackwing_lair::instance_blackwing_lair_InstanceMapScript", "d4/df7/a12291.html", "d4/df7/a12291" ],
-    [ "spell_bwl_shadowflame", "d7/d69/a12295.html", "d7/d69/a12295" ],
-    [ "at_orb_of_command", "d8/d4c/a12299.html", "d8/d4c/a12299" ],
+    [ "instance_blackwing_lair", "d4/df7/a12291.html", "d4/df7/a12291" ],
+    [ "instance_blackwing_lair::instance_blackwing_lair_InstanceMapScript", "d7/d69/a12295.html", "d7/d69/a12295" ],
+    [ "spell_bwl_shadowflame", "d8/d4c/a12299.html", "d8/d4c/a12299" ],
+    [ "at_orb_of_command", "d8/d73/a12303.html", "d8/d73/a12303" ],
     [ "orb_of_command_misc", "d8/d9a/a02447.html#a5ddae3d5f11ae5a5d826e7e18d4cded5", [
       [ "QUEST_BLACKHANDS_COMMAND", "d8/d9a/a02447.html#a5ddae3d5f11ae5a5d826e7e18d4cded5ae1d5923d960c45957f7789ee3d943db5", null ]
     ] ],

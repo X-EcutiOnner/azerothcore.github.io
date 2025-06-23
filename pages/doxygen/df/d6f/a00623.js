@@ -1,7 +1,7 @@
 var a00623 =
 [
-    [ "CliCommandHolder", "d9/d06/a11499.html", "d9/d06/a11499" ],
-    [ "IWorld", "d2/d12/a11503.html", "d2/d12/a11503" ],
+    [ "CliCommandHolder", "d2/d12/a11503.html", "d2/d12/a11503" ],
+    [ "IWorld", "d7/d23/a11507.html", "d7/d23/a11507" ],
     [ "Rates", "df/d6f/a00623.html#a7ba5c3e6b385572c3bd751b6c9da9a20", [
       [ "RATE_HEALTH", "df/d6f/a00623.html#a7ba5c3e6b385572c3bd751b6c9da9a20a8bdee348b397c9fbaa19c38d23814cb2", null ],
       [ "RATE_POWER_MANA", "df/d6f/a00623.html#a7ba5c3e6b385572c3bd751b6c9da9a20a5f7f53b89eba684a78e954df438e9dcd", null ],

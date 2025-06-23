@@ -1,7 +1,7 @@
 var a00317 =
 [
-    [ "GmTicket", "d1/db9/a11367.html", "d1/db9/a11367" ],
-    [ "TicketMgr", "df/d72/a11371.html", "df/d72/a11371" ],
+    [ "GmTicket", "df/d72/a11371.html", "df/d72/a11371" ],
+    [ "TicketMgr", "db/ddf/a11375.html", "db/ddf/a11375" ],
     [ "sTicketMgr", "da/de0/a00317.html#a20db6dadbe20767eb03327894588c7be", null ],
     [ "GmTicketList", "da/de0/a00317.html#a697d75cf06a963bad84903696288001a", null ],
     [ "GMTicketEscalationStatus", "da/de0/a00317.html#a878f9ec26e56dd05dd8f956cfaba754d", [

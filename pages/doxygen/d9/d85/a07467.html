@@ -167,7 +167,7 @@ Private Types</h2></td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-methods" name="pri-methods"></a>
 Private Member Functions</h2></td></tr>
-<tr class="memitem:ae85b95eac40037d5066efa17fb484bc5"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d85/a07467.html#ae85b95eac40037d5066efa17fb484bc5">MakeNotOnPacket</a> (<a class="el" href="../../db/ddc/a10935.html">WorldPacket</a> *data, std::string const &amp;name)</td></tr>
+<tr class="memitem:ae85b95eac40037d5066efa17fb484bc5"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d85/a07467.html#ae85b95eac40037d5066efa17fb484bc5">MakeNotOnPacket</a> (<a class="el" href="../../d7/de2/a10939.html">WorldPacket</a> *data, std::string const &amp;name)</td></tr>
 <tr class="separator:ae85b95eac40037d5066efa17fb484bc5"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
@@ -379,7 +379,7 @@ Static Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  148</span>    {</div>
 <div class="line"><span class="lineno">  149</span>        <span class="keywordflow">if</span> (pkt)</div>
 <div class="line"><span class="lineno">  150</span>        {</div>
-<div class="line"><span class="lineno">  151</span>            <a class="code hl_class" href="../../db/ddc/a10935.html">WorldPacket</a> data;</div>
+<div class="line"><span class="lineno">  151</span>            <a class="code hl_class" href="../../d7/de2/a10939.html">WorldPacket</a> data;</div>
 <div class="line"><span class="lineno">  152</span>            <a class="code hl_function" href="../../d9/d85/a07467.html#ae85b95eac40037d5066efa17fb484bc5">MakeNotOnPacket</a>(&amp;data, name);</div>
 <div class="line"><span class="lineno">  153</span>            player-&gt;GetSession()-&gt;SendPacket(&amp;data);</div>
 <div class="line"><span class="lineno">  154</span>        }</div>
@@ -392,7 +392,7 @@ Static Private Attributes</h2></td></tr>
 <div class="ttc" id="aa04319_html_a096388bd1034eb78e43e5d60cc4f657a"><div class="ttname"><a href="../../de/dc3/a04319.html#a096388bd1034eb78e43e5d60cc4f657a">Utf8toWStr</a></div><div class="ttdeci">bool Utf8toWStr(char const *utf8str, std::size_t csize, wchar_t *wstr, std::size_t &amp;wsize)</div><div class="ttdef"><b>Definition:</b> Util.cpp:281</div></div>
 <div class="ttc" id="aa04319_html_a58af07e1af657c56b4a20b6c7ef83615"><div class="ttname"><a href="../../de/dc3/a04319.html#a58af07e1af657c56b4a20b6c7ef83615">wstrToLower</a></div><div class="ttdeci">void wstrToLower(std::wstring &amp;str)</div><div class="ttdef"><b>Definition:</b> Util.cpp:382</div></div>
 <div class="ttc" id="aa07467_html_ae85b95eac40037d5066efa17fb484bc5"><div class="ttname"><a href="../../d9/d85/a07467.html#ae85b95eac40037d5066efa17fb484bc5">ChannelMgr::MakeNotOnPacket</a></div><div class="ttdeci">void MakeNotOnPacket(WorldPacket *data, std::string const &amp;name)</div><div class="ttdef"><b>Definition:</b> ChannelMgr.cpp:225</div></div>
-<div class="ttc" id="aa10935_html"><div class="ttname"><a href="../../db/ddc/a10935.html">WorldPacket</a></div><div class="ttdef"><b>Definition:</b> WorldPacket.h:26</div></div>
+<div class="ttc" id="aa10939_html"><div class="ttname"><a href="../../d7/de2/a10939.html">WorldPacket</a></div><div class="ttdef"><b>Definition:</b> WorldPacket.h:26</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00051">channels</a>, <a class="el" href="../../#l02007">Player::GetSession()</a>, <a class="el" href="../../#l00225">MakeNotOnPacket()</a>, <a class="el" href="../../#l00226">WorldSession::SendPacket()</a>, <a class="el" href="../../#l00281">Utf8toWStr()</a>, and <a class="el" href="../../#l00382">wstrToLower()</a>.</p>
 
@@ -687,7 +687,7 @@ Static Private Attributes</h2></td></tr>
         <tr>
           <td class="memname">void ChannelMgr::MakeNotOnPacket </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../db/ddc/a10935.html">WorldPacket</a> *&#160;</td>
+          <td class="paramtype"><a class="el" href="../../d7/de2/a10939.html">WorldPacket</a> *&#160;</td>
           <td class="paramname"><em>data</em>, </td>
         </tr>
         <tr>
@@ -709,12 +709,12 @@ Static Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  226</span>{</div>
-<div class="line"><span class="lineno">  227</span>    data-&gt;<a class="code hl_function" href="../../db/ddc/a10935.html#a6b7d58fb0230383629fa888d3aa9dbd8">Initialize</a>(<a class="code hl_enumvalue" href="../../df/d9b/a04755.html#gga1073b6abb3a749f18bf1633020879e9ba46061daa881554bf58b14725b6cd969d">SMSG_CHANNEL_NOTIFY</a>, 1 + name.size());</div>
+<div class="line"><span class="lineno">  227</span>    data-&gt;<a class="code hl_function" href="../../d7/de2/a10939.html#a6b7d58fb0230383629fa888d3aa9dbd8">Initialize</a>(<a class="code hl_enumvalue" href="../../df/d9b/a04755.html#gga1073b6abb3a749f18bf1633020879e9ba46061daa881554bf58b14725b6cd969d">SMSG_CHANNEL_NOTIFY</a>, 1 + name.size());</div>
 <div class="line"><span class="lineno">  228</span>    (*data) &lt;&lt; <a class="code hl_typedef" href="../../d4/d61/a04406.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>(5) &lt;&lt; name;</div>
 <div class="line"><span class="lineno">  229</span>}</div>
 <div class="ttc" id="aa04406_html_a15a8d014fadf85c99a2268d8cbd00767"><div class="ttname"><a href="../../d4/d61/a04406.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></div><div class="ttdeci">std::uint8_t uint8</div><div class="ttdef"><b>Definition:</b> Define.h:109</div></div>
 <div class="ttc" id="aa04755_html_gga1073b6abb3a749f18bf1633020879e9ba46061daa881554bf58b14725b6cd969d"><div class="ttname"><a href="../../df/d9b/a04755.html#gga1073b6abb3a749f18bf1633020879e9ba46061daa881554bf58b14725b6cd969d">SMSG_CHANNEL_NOTIFY</a></div><div class="ttdeci">@ SMSG_CHANNEL_NOTIFY</div><div class="ttdef"><b>Definition:</b> Opcodes.h:183</div></div>
-<div class="ttc" id="aa10935_html_a6b7d58fb0230383629fa888d3aa9dbd8"><div class="ttname"><a href="../../db/ddc/a10935.html#a6b7d58fb0230383629fa888d3aa9dbd8">WorldPacket::Initialize</a></div><div class="ttdeci">void Initialize(uint16 opcode, std::size_t newres=200)</div><div class="ttdef"><b>Definition:</b> WorldPacket.h:68</div></div>
+<div class="ttc" id="aa10939_html_a6b7d58fb0230383629fa888d3aa9dbd8"><div class="ttname"><a href="../../d7/de2/a10939.html#a6b7d58fb0230383629fa888d3aa9dbd8">WorldPacket::Initialize</a></div><div class="ttdeci">void Initialize(uint16 opcode, std::size_t newres=200)</div><div class="ttdef"><b>Definition:</b> WorldPacket.h:68</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00068">WorldPacket::Initialize()</a>, and <a class="el" href="../../#l00183">SMSG_CHANNEL_NOTIFY</a>.</p>
 
@@ -919,7 +919,7 @@ Static Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d9/d85/a07467.html">ChannelMgr</a></li>
-    <li class="footer">Generated on Mon Jun 16 2025 20:48:29 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Jun 23 2025 20:47:53 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

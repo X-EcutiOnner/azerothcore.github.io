@@ -1,10 +1,11 @@
 var a02687 =
 [
-    [ "DelayedSummonEvent", "d1/df2/a12951.html", "d1/df2/a12951" ],
-    [ "npc_highlord_darion_mograine", "de/d65/a12955.html", "de/d65/a12955" ],
-    [ "npc_highlord_darion_mograine::npc_highlord_darion_mograineAI", "d4/df1/a12959.html", "d4/df1/a12959" ],
-    [ "spell_chapter5_light_of_dawn_aura", "d1/d4a/a12963.html", "d1/d4a/a12963" ],
-    [ "spell_chapter5_rebuke", "df/d16/a12967.html", "df/d16/a12967" ],
+    [ "DelayedSummonEvent", "d1/d07/a12947.html", "d1/d07/a12947" ],
+    [ "npc_highlord_darion_mograine", "d1/df2/a12951.html", "d1/df2/a12951" ],
+    [ "npc_highlord_darion_mograine::npc_highlord_darion_mograineAI", "de/d65/a12955.html", "de/d65/a12955" ],
+    [ "spell_chapter5_light_of_dawn_aura", "d4/df1/a12959.html", "d4/df1/a12959" ],
+    [ "spell_chapter5_rebuke", "d1/d4a/a12963.html", "d1/d4a/a12963" ],
+    [ "spell_chapter5_return_to_capital", "df/d16/a12967.html", "df/d16/a12967" ],
     [ "LightOfDawnEncounter", "d5/d25/a02687.html#a9d3fb23b03c75ccf48d0a02856878cad", [
       [ "EVENT_START_COUNTDOWN_1", "d5/d25/a02687.html#a9d3fb23b03c75ccf48d0a02856878cadae5fdda4bd97547b50b9d420139dd4be8", null ],
       [ "EVENT_START_COUNTDOWN_2", "d5/d25/a02687.html#a9d3fb23b03c75ccf48d0a02856878cada2a24ce4fa104b38b9e180002ad67029b", null ],
@@ -24,7 +25,7 @@ var a02687 =
       [ "EVENT_SPELL_DEATH_STRIKE", "d5/d25/a02687.html#a9d3fb23b03c75ccf48d0a02856878cadab5d2832f690c3c6c81103cff7f5f190c", null ],
       [ "EVENT_SPELL_DEATH_EMBRACE", "d5/d25/a02687.html#a9d3fb23b03c75ccf48d0a02856878cadaf23dfe013daf4c17081796357a59eaed", null ],
       [ "EVENT_SPELL_UNHOLY_BLIGHT", "d5/d25/a02687.html#a9d3fb23b03c75ccf48d0a02856878cada3c61b7344e31963a8546d32301b3eb22", null ],
-      [ "EVENT_SPELL_TALK", "d5/d25/a02687.html#a9d3fb23b03c75ccf48d0a02856878cadabef74cacfefecb35a7efd669d4cc2a09", null ],
+      [ "EVENT_SPELL_DARION_MOD_DAMAGE", "d5/d25/a02687.html#a9d3fb23b03c75ccf48d0a02856878cadaf39e52c0b87a32e709571cb38e189bb4", null ],
       [ "EVENT_FINISH_FIGHT_1", "d5/d25/a02687.html#a9d3fb23b03c75ccf48d0a02856878cadaf57e293ba894ea9a49bfde211a7cc0e0", null ],
       [ "EVENT_FINISH_FIGHT_2", "d5/d25/a02687.html#a9d3fb23b03c75ccf48d0a02856878cada40dd9762134361edcabbc7ad232b5723", null ],
       [ "EVENT_FINISH_FIGHT_3", "d5/d25/a02687.html#a9d3fb23b03c75ccf48d0a02856878cadab2715358fe90033a042ef9a27770fc4d", null ],
@@ -209,6 +210,7 @@ var a02687 =
       [ "SPELL_DEATH_EMBRACE", "d5/d25/a02687.html#a49c51006ae31940078fa2eb3ca6040b1a17645ad38bb5b7927ab2dff63cbdc924", null ],
       [ "SPELL_ICY_TOUCH1", "d5/d25/a02687.html#a49c51006ae31940078fa2eb3ca6040b1a9901698526c4b867603247e2486bbaf0", null ],
       [ "SPELL_UNHOLY_BLIGHT", "d5/d25/a02687.html#a49c51006ae31940078fa2eb3ca6040b1a50ffaf325566c41226a35d05efa52d26", null ],
+      [ "SPELL_DARION_MOD_DAMAGE", "d5/d25/a02687.html#a49c51006ae31940078fa2eb3ca6040b1a425c1f831c3622a2e7de70426262a77d", null ],
       [ "SPELL_THE_LIGHT_OF_DAWN", "d5/d25/a02687.html#a49c51006ae31940078fa2eb3ca6040b1a2a9cbf0779ce2b26fb025f4fc9831d96", null ],
       [ "SPELL_ALEXANDROS_MOGRAINE_SPAWN", "d5/d25/a02687.html#a49c51006ae31940078fa2eb3ca6040b1af1a666ea0d02fcaa052b6a4e232855f5", null ],
       [ "SPELL_ICEBOUND_VISAGE", "d5/d25/a02687.html#a49c51006ae31940078fa2eb3ca6040b1a54c30265668ffecdc07091dd92cee4d5", null ],
@@ -224,7 +226,23 @@ var a02687 =
       [ "SPELL_LAY_ON_HANDS", "d5/d25/a02687.html#a49c51006ae31940078fa2eb3ca6040b1aa1682889d7efa23bfdf6197ca365fdad", null ],
       [ "SPELL_THE_LIGHT_OF_DAWN_Q", "d5/d25/a02687.html#a49c51006ae31940078fa2eb3ca6040b1af0bfd11832b7b0c618f4f777cec9a666", null ]
     ] ],
+    [ "ReturnToCapital", "d5/d25/a02687.html#aed30148e36f529292aee0375972d6f64", [
+      [ "SPELL_RETURN_TO_ORGRIMMAR_APPLE", "d5/d25/a02687.html#aed30148e36f529292aee0375972d6f64a4fd124c494a8e74d20869f88e0208b62", null ],
+      [ "SPELL_RETURN_TO_ORGRIMMAR_BANANA", "d5/d25/a02687.html#aed30148e36f529292aee0375972d6f64a5b78205459a6b5e1f720249a6c64bd37", null ],
+      [ "SPELL_RETURN_TO_ORGRIMMAR_SPIT", "d5/d25/a02687.html#aed30148e36f529292aee0375972d6f64a1cef0f177cd2966e4518d2d3dbfb2954", null ],
+      [ "EMOTE_THROW_APPLE", "d5/d25/a02687.html#aed30148e36f529292aee0375972d6f64a33bb2c810a28c5cfaae4b4cec80e1b10", null ],
+      [ "EMOTE_THROW_BANANA", "d5/d25/a02687.html#aed30148e36f529292aee0375972d6f64a43371f715496aed6472c9b0ae7e21241", null ],
+      [ "EMOTE_THROW_SPIT", "d5/d25/a02687.html#aed30148e36f529292aee0375972d6f64aa4c7eb086dd1765b5e73ab54af249743", null ],
+      [ "SAY_INSULT_TO_DK", "d5/d25/a02687.html#aed30148e36f529292aee0375972d6f64a2f40ed3f965729d8ec33e2359ef5fc95", null ],
+      [ "NPC_SW_GUARD", "d5/d25/a02687.html#aed30148e36f529292aee0375972d6f64a481cb3d67e401ab106eba27b42ddfff8", null ],
+      [ "NPC_ROYAL_GUARD", "d5/d25/a02687.html#aed30148e36f529292aee0375972d6f64a6693716351aab589f99f56bb5622d072", null ],
+      [ "NPC_CITY_PATROLLER", "d5/d25/a02687.html#aed30148e36f529292aee0375972d6f64a281b29a4bf903ad047692a5d1a49ab85", null ],
+      [ "NPC_OG_GUARD", "d5/d25/a02687.html#aed30148e36f529292aee0375972d6f64a85ee00dae3c8b4b3d6979c122f325a8a", null ],
+      [ "NPC_KOR_ELITE", "d5/d25/a02687.html#aed30148e36f529292aee0375972d6f64ae6f909921129a9e11a1c3d26de905fe3", null ],
+      [ "TEXT_BROADCAST_COWER", "d5/d25/a02687.html#aed30148e36f529292aee0375972d6f64a608d56f35d323aa9a56f118fb29a0b61", null ]
+    ] ],
     [ "AddSC_the_scarlet_enclave_c5", "d5/d25/a02687.html#ae12754fa9b1801326b9eb6b618d6b48b", null ],
     [ "LightOfDawnFightPos", "d5/d25/a02687.html#a3ec3399c01c2d3c6799f5ee0758f0211", null ],
-    [ "LightOfDawnPos", "d5/d25/a02687.html#a946fafe9c84bca2b2b604d0729ca6bf7", null ]
+    [ "LightOfDawnPos", "d5/d25/a02687.html#a946fafe9c84bca2b2b604d0729ca6bf7", null ],
+    [ "ReturnToCapitalSpells", "d5/d25/a02687.html#aeb95da9b3eb8c0da9ad295722d84945b", null ]
 ];

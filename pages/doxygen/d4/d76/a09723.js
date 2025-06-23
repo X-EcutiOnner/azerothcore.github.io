@@ -1,14 +1,10 @@
 var a09723 =
 [
-    [ "DoublePosition", "d4/d76/a09723.html#a59190a2456f052c6ffa6e181ced94a4f", null ],
-    [ "DoublePosition", "d4/d76/a09723.html#a9900e06c36c6ebc4edd0ba45264990b8", null ],
-    [ "DoublePosition", "d4/d76/a09723.html#a543ff52f7b278f68cc36ee880932e744", null ],
-    [ "GetDoubleExactDist2dSq", "d4/d76/a09723.html#ae17b4e695ff23a8ec323405801f2013a", null ],
-    [ "GetDoublePositionX", "d4/d76/a09723.html#a7c769d1762f99150a46ceaa2b2bfa8e8", null ],
-    [ "GetDoublePositionY", "d4/d76/a09723.html#a201096c85022d54b1d9dbe9264df901f", null ],
-    [ "GetDoublePositionZ", "d4/d76/a09723.html#a01fc3985229b6bd03e6d1da95f871c17", null ],
-    [ "sync", "d4/d76/a09723.html#a75e75187d6663591a39c87bc1086aebd", null ],
-    [ "DoublePosX", "d4/d76/a09723.html#a4f9ffbbe4396f3ec26a81139f5868e2e", null ],
-    [ "DoublePosY", "d4/d76/a09723.html#a90839893f3a58a72a07177d3eee1d691", null ],
-    [ "DoublePosZ", "d4/d76/a09723.html#a19af503e9623ccaeb032bfe9f0a0ed63", null ]
+    [ "DoublePosition", "d9/d9c/a09727.html", "d9/d9c/a09727" ],
+    [ "~AreaBoundary", "d4/d76/a09723.html#a6050e91b3d485e75186a2df9a56e8d38", null ],
+    [ "AreaBoundary", "d4/d76/a09723.html#adf670910c492c08d3384c2dd1824e7ce", null ],
+    [ "IsWithinBoundary", "d4/d76/a09723.html#aac0ce1e801f3de8f3bb83b98ecd6e5c1", null ],
+    [ "IsWithinBoundary", "d4/d76/a09723.html#a1d407f77ce0388263fc0ee6224734213", null ],
+    [ "IsWithinBoundaryArea", "d4/d76/a09723.html#ae5580b0044dba24d100831fe51ee1abc", null ],
+    [ "_isInvertedBoundary", "d4/d76/a09723.html#ad416f29594688ce670549d6fdcce4314", null ]
 ];

@@ -1,7 +1,7 @@
 var a03593 =
 [
-    [ "boss_warlord_kalithresh", "d9/d01/a23315.html", "d9/d01/a23315" ],
-    [ "spell_warlords_rage", "d0/db2/a23319.html", "d0/db2/a23319" ],
+    [ "boss_warlord_kalithresh", "d1/d9f/a23311.html", "d1/d9f/a23311" ],
+    [ "spell_warlords_rage", "d9/d01/a23315.html", "d9/d01/a23315" ],
     [ "Misc", "d7/d7b/a03593.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
       [ "DATA_SKILLPOINT_MIN", "d9/dc8/a02531.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a3093ddfcacf2742f4fb344843e2e7ce6", null ],
       [ "NEFARIUS_PATH_2", "db/dab/a02567.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a09833188939fe77088ed4fb2cfedb875", null ],

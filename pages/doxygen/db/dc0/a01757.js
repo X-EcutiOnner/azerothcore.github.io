@@ -1,6 +1,6 @@
 var a01757 =
 [
-    [ "WorldScript", "dd/dd8/a10375.html", "dd/dd8/a10375" ],
+    [ "WorldScript", "d4/d29/a10379.html", "d4/d29/a10379" ],
     [ "WorldHook", "db/dc0/a01757.html#a4d497fc434376a9edca1897eabc39493", [
       [ "WORLDHOOK_ON_OPEN_STATE_CHANGE", "db/dc0/a01757.html#a4d497fc434376a9edca1897eabc39493a1115383e9c9ccf62f08548733c8f5f1c", null ],
       [ "WORLDHOOK_ON_AFTER_CONFIG_LOAD", "db/dc0/a01757.html#a4d497fc434376a9edca1897eabc39493af6efa892b7f5bfd295f23a9b8afc6ad7", null ],

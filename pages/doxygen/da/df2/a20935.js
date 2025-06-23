@@ -1,5 +1,7 @@
 var a20935 =
 [
-    [ "achievement_yogg_saron_drive_me_crazy", "da/df2/a20935.html#a381d8fd2e7b4806181959a1b915f3a8c", null ],
-    [ "OnCheck", "da/df2/a20935.html#a029fdd68e0643b53971efbb1056f19d8", null ]
+    [ "HandleProc", "da/df2/a20935.html#a1b8782a4f22522cfe224073515abdf45", null ],
+    [ "PrepareAuraScript", "da/df2/a20935.html#ab4a8a98564d561082243c0f7a2dda1bf", null ],
+    [ "Register", "da/df2/a20935.html#a8e9b7613131ef7ea05b853df337faa4e", null ],
+    [ "Validate", "da/df2/a20935.html#ab3a99392d06ba0bea8e3f4b345acb23d", null ]
 ];

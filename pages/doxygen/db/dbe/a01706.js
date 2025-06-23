@@ -1,8 +1,8 @@
 var a01706 =
 [
-    [ "Petition", "d1/dc6/a10095.html", "d1/dc6/a10095" ],
-    [ "Signatures", "dd/d50/a10099.html", "dd/d50/a10099" ],
-    [ "PetitionMgr", "d1/dd1/a10103.html", "d1/dd1/a10103" ],
+    [ "Petition", "dd/d50/a10099.html", "dd/d50/a10099" ],
+    [ "Signatures", "d1/dd1/a10103.html", "d1/dd1/a10103" ],
+    [ "PetitionMgr", "d0/d6b/a10107.html", "d0/d6b/a10107" ],
     [ "CHARTER_DISPLAY_ID", "db/dbe/a01706.html#a33856c1d078b61fa0516a63176297c49", null ],
     [ "sPetitionMgr", "db/dbe/a01706.html#a2910b9c8b8c58925b562acf66b3e46d2", null ],
     [ "PetitionContainer", "db/dbe/a01706.html#a223a8d1b8f865a0d4e8f100758e36bce", null ],

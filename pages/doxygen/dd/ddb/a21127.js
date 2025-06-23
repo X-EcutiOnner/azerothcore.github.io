@@ -1,5 +1,6 @@
 var a21127 =
 [
-    [ "npc_ritual_channelerAI", "dd/ddb/a21127.html#aa770f8f2b9dd5fca86f9e63de7b4000f", null ],
-    [ "AttackStart", "dd/ddb/a21127.html#aff09fbdc1e701853c9953882ca73ce2a", null ]
+    [ "npc_ritual_channelerAI", "dc/dd5/a21131.html", "dc/dd5/a21131" ],
+    [ "npc_ritual_channeler", "dd/ddb/a21127.html#adab372002549b009e3f937ec67e49f3f", null ],
+    [ "GetAI", "dd/ddb/a21127.html#aa416545438d701cbfc2567ba5ae536c8", null ]
 ];

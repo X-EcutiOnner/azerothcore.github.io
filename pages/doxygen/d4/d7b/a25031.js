@@ -1,8 +1,10 @@
 var a25031 =
 [
-    [ "AchievementCredit", "d4/d7b/a25031.html#ab0ec836feb53875de355330e05367fe8", null ],
-    [ "Load", "d4/d7b/a25031.html#ae48c67f363e399f076122cb6eee10ffb", null ],
-    [ "PrepareSpellScript", "d4/d7b/a25031.html#af0bb22c618af5dca7f534bea32e7ee7f", null ],
-    [ "Register", "d4/d7b/a25031.html#a793921687c96a39f7dd872b9721096ca", null ],
-    [ "Validate", "d4/d7b/a25031.html#a5be222c322714ec62f8beaf69faab257", null ]
+    [ "Load", "d4/d7b/a25031.html#a6ae104e97dc9c0aa50e115fe1f17e161", null ],
+    [ "OnPeriodic", "d4/d7b/a25031.html#ab1dc8acb8072f70625375480742fee5e", null ],
+    [ "PrepareAuraScript", "d4/d7b/a25031.html#a2e81d03893b23aa8dc9c615683206f75", null ],
+    [ "Register", "d4/d7b/a25031.html#ac2f2c8359487ad8c619e9faf8535b927", null ],
+    [ "Validate", "d4/d7b/a25031.html#a0c88acf48d0ea7dd7ac3ac85aa3a126d", null ],
+    [ "_applyTimes", "d4/d7b/a25031.html#a1bf9f3a1eb52bb64df59b381c412552f", null ],
+    [ "stackAmount", "d4/d7b/a25031.html#ac8d762bdb40366c93602497e9aaa42eb", null ]
 ];

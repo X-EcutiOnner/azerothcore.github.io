@@ -1,6 +1,6 @@
 var a20779 =
 [
-    [ "boss_yoggsaron_crusher_tentacleAI", "dc/d84/a20783.html", "dc/d84/a20783" ],
-    [ "boss_yoggsaron_crusher_tentacle", "de/db1/a20779.html#a9bb0c5535bf98e186d39f235f5786ff0", null ],
-    [ "GetAI", "de/db1/a20779.html#a82b6a328197ec81223c1d00dabb79a66", null ]
+    [ "boss_yoggsaron_death_orbAI", "de/db1/a20779.html#a6e87b98e89748585a9f28c6f0e3a85e9", null ],
+    [ "UpdateAI", "de/db1/a20779.html#afde5311434966ff0459dca8ce0d6b8b0", null ],
+    [ "_startTimer", "de/db1/a20779.html#aebc8edef5f84219e1c50f2394d129443", null ]
 ];

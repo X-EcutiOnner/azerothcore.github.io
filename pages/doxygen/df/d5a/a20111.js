@@ -1,6 +1,6 @@
 var a20111 =
 [
-    [ "boss_hodirAI", "d6/d64/a20115.html", "d6/d64/a20115" ],
-    [ "boss_hodir", "df/d5a/a20111.html#a5740f489f57380d2633a8ee5a18de339", null ],
-    [ "GetAI", "df/d5a/a20111.html#a8d6ce019e9c383d2eb9ac0d211f4bc4c", null ]
+    [ "id", "df/d5a/a20111.html#accc6fc59e13a0897ae168fae33ee4c7d", null ],
+    [ "x", "df/d5a/a20111.html#afb67a1dce0819e0da0ceb9b303f43eb9", null ],
+    [ "y", "df/d5a/a20111.html#aaf4fd9f1d5b020e102c0fec3863f7020", null ]
 ];

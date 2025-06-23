@@ -1,6 +1,5 @@
 var a20343 =
 [
-    [ "boss_mimironAI", "d2/d7e/a20347.html", "d2/d7e/a20347" ],
-    [ "boss_mimiron", "d6/d6c/a20343.html#a72904837bd85e9f711fcf3da04c459c3", null ],
-    [ "GetAI", "d6/d6c/a20343.html#a1d4f38ecee62a2c2a608afc158fad7f2", null ]
+    [ "achievement_kologarn_with_open_arms", "d6/d6c/a20343.html#a94af961be5bbdf7783925148731ce7e4", null ],
+    [ "OnCheck", "d6/d6c/a20343.html#a03c1fb5f141a15f8f63e28700b98f9b5", null ]
 ];

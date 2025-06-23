@@ -1,15 +1,10 @@
 var a09043 =
 [
-    [ "CoordPair", "d5/d1d/a09043.html#a53b5f24cfdf13b246549a0c1543924c9", null ],
-    [ "CoordPair", "d5/d1d/a09043.html#aab92ece0f01ebc00cdac4966e02fa8fd", null ],
-    [ "dec_x", "d5/d1d/a09043.html#a69be5b72b710722120104f0c502fbb70", null ],
-    [ "dec_y", "d5/d1d/a09043.html#aefa33f8766212bb71e5fd19a318142cc", null ],
-    [ "GetId", "d5/d1d/a09043.html#ae4f7f304faf2c2363cffe2170b4c5c97", null ],
-    [ "inc_x", "d5/d1d/a09043.html#aa6a4942253e87ae57e2d69a2563ddef1", null ],
-    [ "inc_y", "d5/d1d/a09043.html#a120946c5a8c8b49bbdf9a1ee54ded9ec", null ],
-    [ "IsCoordValid", "d5/d1d/a09043.html#a082960c54e2077df370f891c0534b44f", null ],
-    [ "normalize", "d5/d1d/a09043.html#afac8086374bfc499e3a8d74d6afc58db", null ],
-    [ "operator=", "d5/d1d/a09043.html#a27f81c359c4ae278d663e85eccbeebb9", null ],
-    [ "x_coord", "d5/d1d/a09043.html#a101dd71af6a2cba18140aea2e502ef8b", null ],
-    [ "y_coord", "d5/d1d/a09043.html#aacae12844cc0c0d70e26b137ad28f700", null ]
+    [ "~GridCell", "d5/d1d/a09043.html#ab6ca5fbc81f184597445b7aef70bb2ad", null ],
+    [ "AddGridObject", "d5/d1d/a09043.html#a22ac43b185d6a34c04fb5a36970d7df2", null ],
+    [ "AddWorldObject", "d5/d1d/a09043.html#a039ebb29cf4bd2eeb7fca43eba302542", null ],
+    [ "Visit", "d5/d1d/a09043.html#a6409c692a1f6ddfee1b3c2806d161d44", null ],
+    [ "Visit", "d5/d1d/a09043.html#a2d13e0178010836f05280c1b5b11ad57", null ],
+    [ "_gridObjects", "d5/d1d/a09043.html#a1a3fdbe9e3b937c05f82572d6f757e87", null ],
+    [ "_worldObjects", "d5/d1d/a09043.html#a29d0551bee2df852e262846d82e90dba", null ]
 ];

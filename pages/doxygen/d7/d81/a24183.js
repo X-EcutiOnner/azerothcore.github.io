@@ -1,9 +1,6 @@
 var a24183 =
 [
-    [ "npc_enraged_spiritAI", "d7/d81/a24183.html#aa487c906c1c0d15dc7761c7288e7d3c6", null ],
-    [ "JustDied", "d7/d81/a24183.html#a9322622f679dbc311bd8983f5037bd2e", null ],
-    [ "JustEngagedWith", "d7/d81/a24183.html#a1d192d0dd563dc2735b23a171b2bf659", null ],
-    [ "Reset", "d7/d81/a24183.html#a2d56572acf042ba34f468f0ff3b0bd1a", null ],
-    [ "UpdateAI", "d7/d81/a24183.html#adc3d04d66f2b4de7a970f2cd5e476a2b", null ],
-    [ "_scheduler", "d7/d81/a24183.html#afa6825696b0622849f877b392df4b326", null ]
+    [ "npc_shadowmoon_tuber_nodeAI", "d2/ddb/a24187.html", "d2/ddb/a24187" ],
+    [ "npc_shadowmoon_tuber_node", "d7/d81/a24183.html#a98e8c7a84789457900fa342cca209d41", null ],
+    [ "GetAI", "d7/d81/a24183.html#a5f641af77e2fd78fe67b34fa18bf6b73", null ]
 ];

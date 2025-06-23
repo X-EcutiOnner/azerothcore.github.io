@@ -112,9 +112,9 @@ $(document).ready(function(){initNavTree('da/d70/a04836.html','../../'); initRes
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:acbe37f872cbc981a27671ebdf10904de"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d70/a04836.html#acbe37f872cbc981a27671ebdf10904de">HandleLearnSpellCommand</a> (<a class="el" href="../../db/d2e/a07479.html">ChatHandler</a> *handler, <a class="el" href="../../d2/d95/a08583.html">Player</a> *targetPlayer, <a class="el" href="../../df/dea/a11139.html">SpellInfo</a> const *spell, <a class="el" href="../../d7/d74/a04346.html#aaf8f4d77efd311ec7818ab421294ef82">Optional</a>&lt; <a class="el" href="../../d0/d27/a00239.html#ac61bb0d0d29d3ccc94188eb93516adf5">EXACT_SEQUENCE</a>(&quot;all&quot;)&gt; allRanks)</td></tr>
+<tr class="memitem:acbe37f872cbc981a27671ebdf10904de"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d70/a04836.html#acbe37f872cbc981a27671ebdf10904de">HandleLearnSpellCommand</a> (<a class="el" href="../../db/d2e/a07479.html">ChatHandler</a> *handler, <a class="el" href="../../d2/d95/a08583.html">Player</a> *targetPlayer, <a class="el" href="../../d4/d4c/a11143.html">SpellInfo</a> const *spell, <a class="el" href="../../d7/d74/a04346.html#aaf8f4d77efd311ec7818ab421294ef82">Optional</a>&lt; <a class="el" href="../../d0/d27/a00239.html#ac61bb0d0d29d3ccc94188eb93516adf5">EXACT_SEQUENCE</a>(&quot;all&quot;)&gt; allRanks)</td></tr>
 <tr class="separator:acbe37f872cbc981a27671ebdf10904de"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad36f90f90b3d9aaf782f7efc859f7e7a"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d70/a04836.html#ad36f90f90b3d9aaf782f7efc859f7e7a">HandleUnlearnSpellCommand</a> (<a class="el" href="../../db/d2e/a07479.html">ChatHandler</a> *handler, <a class="el" href="../../d2/d95/a08583.html">Player</a> *targetPlayer, <a class="el" href="../../df/dea/a11139.html">SpellInfo</a> const *spell, <a class="el" href="../../d7/d74/a04346.html#aaf8f4d77efd311ec7818ab421294ef82">Optional</a>&lt; <a class="el" href="../../d0/d27/a00239.html#ac61bb0d0d29d3ccc94188eb93516adf5">EXACT_SEQUENCE</a>(&quot;all&quot;)&gt; allRanks)</td></tr>
+<tr class="memitem:ad36f90f90b3d9aaf782f7efc859f7e7a"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d70/a04836.html#ad36f90f90b3d9aaf782f7efc859f7e7a">HandleUnlearnSpellCommand</a> (<a class="el" href="../../db/d2e/a07479.html">ChatHandler</a> *handler, <a class="el" href="../../d2/d95/a08583.html">Player</a> *targetPlayer, <a class="el" href="../../d4/d4c/a11143.html">SpellInfo</a> const *spell, <a class="el" href="../../d7/d74/a04346.html#aaf8f4d77efd311ec7818ab421294ef82">Optional</a>&lt; <a class="el" href="../../d0/d27/a00239.html#ac61bb0d0d29d3ccc94188eb93516adf5">EXACT_SEQUENCE</a>(&quot;all&quot;)&gt; allRanks)</td></tr>
 <tr class="separator:ad36f90f90b3d9aaf782f7efc859f7e7a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Function Documentation</h2>
@@ -139,7 +139,7 @@ Functions</h2></td></tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="../../df/dea/a11139.html">SpellInfo</a> const *&#160;</td>
+          <td class="paramtype"><a class="el" href="../../d4/d4c/a11143.html">SpellInfo</a> const *&#160;</td>
           <td class="paramname"><em>spell</em>, </td>
         </tr>
         <tr>
@@ -156,7 +156,7 @@ Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">   25</span>{</div>
-<div class="line"><span class="lineno">   26</span>    <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../d4/d19/a11195.html#a8dfd3856cb381953bfeb1db1a4a4bad7">SpellMgr::IsSpellValid</a>(spell))</div>
+<div class="line"><span class="lineno">   26</span>    <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../d2/d90/a11199.html#a8dfd3856cb381953bfeb1db1a4a4bad7">SpellMgr::IsSpellValid</a>(spell))</div>
 <div class="line"><span class="lineno">   27</span>    {</div>
 <div class="line"><span class="lineno">   28</span>        handler-&gt;<a class="code hl_function" href="../../db/d2e/a07479.html#a92dbe6ed87759b9ed247973178d99a80">SendErrorMessage</a>(<a class="code hl_enumvalue" href="../../d1/dd8/a01022.html#af9ee42b1cf006ecb2d2e74fe71c0761aaef51c94173b2a9aca75898d46518b665">LANG_COMMAND_SPELL_BROKEN</a>, spell-&gt;Id);</div>
 <div class="line"><span class="lineno">   29</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
@@ -207,9 +207,9 @@ Functions</h2></td></tr>
 <div class="ttc" id="aa08583_html_a134bcbd463d0048b59372a89f6c455af"><div class="ttname"><a href="../../d2/d95/a08583.html#a134bcbd463d0048b59372a89f6c455af">Player::SendTalentsInfoData</a></div><div class="ttdeci">void SendTalentsInfoData(bool pet)</div><div class="ttdef"><b>Definition:</b> Player.cpp:14362</div></div>
 <div class="ttc" id="aa08583_html_a19ea15940b7b8e6ed7480b3dc3702bee"><div class="ttname"><a href="../../d2/d95/a08583.html#a19ea15940b7b8e6ed7480b3dc3702bee">Player::learnSpell</a></div><div class="ttdeci">void learnSpell(uint32 spellId, bool temporary=false, bool learnFromSkill=false)</div><div class="ttdef"><b>Definition:</b> Player.cpp:3290</div></div>
 <div class="ttc" id="aa08583_html_ad0b702ec9df9626312843eb9a44742df"><div class="ttname"><a href="../../d2/d95/a08583.html#ad0b702ec9df9626312843eb9a44742df">Player::HasSpell</a></div><div class="ttdeci">bool HasSpell(uint32 spell) const override</div><div class="ttdef"><b>Definition:</b> Player.cpp:3878</div></div>
-<div class="ttc" id="aa11195_html_a8dfd3856cb381953bfeb1db1a4a4bad7"><div class="ttname"><a href="../../d4/d19/a11195.html#a8dfd3856cb381953bfeb1db1a4a4bad7">SpellMgr::IsSpellValid</a></div><div class="ttdeci">static bool IsSpellValid(SpellInfo const *spellInfo)</div><div class="ttdef"><b>Definition:</b> SpellMgr.cpp:441</div></div>
+<div class="ttc" id="aa11199_html_a8dfd3856cb381953bfeb1db1a4a4bad7"><div class="ttname"><a href="../../d2/d90/a11199.html#a8dfd3856cb381953bfeb1db1a4a4bad7">SpellMgr::IsSpellValid</a></div><div class="ttdeci">static bool IsSpellValid(SpellInfo const *spellInfo)</div><div class="ttdef"><b>Definition:</b> SpellMgr.cpp:441</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l02502">SpellInfo::GetFirstRankSpell()</a>, <a class="el" href="../../#l00198">ChatHandler::GetNameLink()</a>, <a class="el" href="../../#l00036">ChatHandler::GetPlayer()</a>, <a class="el" href="../../#l00686">GetTalentSpellCost()</a>, <a class="el" href="../../#l03878">Player::HasSpell()</a>, <a class="el" href="../../#l00320">SpellInfo::Id</a>, <a class="el" href="../../#l00441">SpellMgr::IsSpellValid()</a>, <a class="el" href="../../#l00521">LANG_COMMAND_SPELL_BROKEN</a>, <a class="el" href="../../#l00529">LANG_TARGET_KNOWN_SPELL</a>, <a class="el" href="../../#l00528">LANG_YOU_KNOWN_SPELL</a>, <a class="el" href="../../#l03290">Player::learnSpell()</a>, <a class="el" href="../../#l00216">ChatHandler::SendErrorMessage()</a>, <a class="el" href="../../#l14362">Player::SendTalentsInfoData()</a>, and <a class="el" href="../../#l00825">sSpellMgr</a>.</p>
+<p class="reference">References <a class="el" href="../../#l02513">SpellInfo::GetFirstRankSpell()</a>, <a class="el" href="../../#l00198">ChatHandler::GetNameLink()</a>, <a class="el" href="../../#l00036">ChatHandler::GetPlayer()</a>, <a class="el" href="../../#l00686">GetTalentSpellCost()</a>, <a class="el" href="../../#l03878">Player::HasSpell()</a>, <a class="el" href="../../#l00320">SpellInfo::Id</a>, <a class="el" href="../../#l00441">SpellMgr::IsSpellValid()</a>, <a class="el" href="../../#l00521">LANG_COMMAND_SPELL_BROKEN</a>, <a class="el" href="../../#l00529">LANG_TARGET_KNOWN_SPELL</a>, <a class="el" href="../../#l00528">LANG_YOU_KNOWN_SPELL</a>, <a class="el" href="../../#l03290">Player::learnSpell()</a>, <a class="el" href="../../#l00216">ChatHandler::SendErrorMessage()</a>, <a class="el" href="../../#l14362">Player::SendTalentsInfoData()</a>, and <a class="el" href="../../#l00825">sSpellMgr</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00068">learn_commandscript::HandleLearnCommand()</a>, and <a class="el" href="../../#l00043">player_commandscript::HandlePlayerLearnCommand()</a>.</p>
 
@@ -236,7 +236,7 @@ Functions</h2></td></tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="../../df/dea/a11139.html">SpellInfo</a> const *&#160;</td>
+          <td class="paramtype"><a class="el" href="../../d4/d4c/a11143.html">SpellInfo</a> const *&#160;</td>
           <td class="paramname"><em>spell</em>, </td>
         </tr>
         <tr>
@@ -292,7 +292,7 @@ Functions</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../db/d75/a04761.html">Acore</a></li><li class="navelem"><a class="el" href="../../da/d70/a04836.html">PlayerCommand</a></li>
-    <li class="footer">Generated on Mon Jun 16 2025 20:49:42 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Jun 23 2025 20:48:53 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

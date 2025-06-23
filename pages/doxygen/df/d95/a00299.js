@@ -1,10 +1,10 @@
 var a00299 =
 [
-    [ "SpellImplicitTargetInfo", "d1/dbf/a11123.html", "d1/dbf/a11123" ],
-    [ "SpellImplicitTargetInfo::StaticData", "dc/de6/a11127.html", "dc/de6/a11127" ],
-    [ "SpellEffectInfo", "d8/d26/a11131.html", "d8/d26/a11131" ],
-    [ "SpellEffectInfo::StaticData", "df/dd5/a11135.html", "df/dd5/a11135" ],
-    [ "SpellInfo", "df/dea/a11139.html", "df/dea/a11139" ],
+    [ "SpellImplicitTargetInfo", "dc/de6/a11127.html", "dc/de6/a11127" ],
+    [ "SpellImplicitTargetInfo::StaticData", "d8/d26/a11131.html", "d8/d26/a11131" ],
+    [ "SpellEffectInfo", "df/dd5/a11135.html", "df/dd5/a11135" ],
+    [ "SpellEffectInfo::StaticData", "df/dea/a11139.html", "df/dea/a11139" ],
+    [ "SpellInfo", "d4/d4c/a11143.html", "d4/d4c/a11143" ],
     [ "SpellCastTargetFlags", "df/d95/a00299.html#a3c11f0d0cd9689554b34ccbc325da54f", [
       [ "TARGET_FLAG_NONE", "df/d95/a00299.html#a3c11f0d0cd9689554b34ccbc325da54fa26e47021cbf69aa137c5a028560ee0bc", null ],
       [ "TARGET_FLAG_UNUSED_1", "df/d95/a00299.html#a3c11f0d0cd9689554b34ccbc325da54fa841fdb1e05b75499a9296ae914477bca", null ],

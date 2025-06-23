@@ -1,6 +1,6 @@
 var a23243 =
 [
-    [ "go_ahune_ice_stone", "db/dc2/a23243.html#ab7b665f01da80751ea97705c5113bde7", null ],
-    [ "GossipSelect", "db/dc2/a23243.html#aadb4db41ed84922c0a2d0463b8616876", null ],
-    [ "_instance", "db/dc2/a23243.html#a43651f471ac777b59fb8ba67b830cd35", null ]
+    [ "HandleScript", "db/dc2/a23243.html#ad81007cd08ee18bfc7cda4221cbc8482", null ],
+    [ "PrepareSpellScript", "db/dc2/a23243.html#a60f0bb4882d3f75f0839cd0d8ab2707d", null ],
+    [ "Register", "db/dc2/a23243.html#ac06f4246c5cecc4875bc93811eaeb839", null ]
 ];

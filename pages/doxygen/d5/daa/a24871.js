@@ -1,6 +1,6 @@
 var a24871 =
 [
-    [ "CheckLevel", "d5/daa/a24871.html#a9c0f4404275b274bd8af7be621eaa5b9", null ],
-    [ "PrepareSpellScript", "d5/daa/a24871.html#abc2bcce83810661ab462f56594066df3", null ],
-    [ "Register", "d5/daa/a24871.html#add6731563bd9a26d8f286bd29ffc8709", null ]
+    [ "OnPeriodic", "d5/daa/a24871.html#a3bcef6bd4501489320ef1242a66c50e8", null ],
+    [ "PrepareAuraScript", "d5/daa/a24871.html#ab18f839ab70cc61e52c5e9ddb4847140", null ],
+    [ "Register", "d5/daa/a24871.html#afbc707f30b7db0329f24b9ab8e8134e0", null ]
 ];

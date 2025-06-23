@@ -1,8 +1,8 @@
 var a03809 =
 [
-    [ "boss_high_astromancer_solarian", "d1/db2/a23743.html", "d1/db2/a23743" ],
-    [ "spell_astromancer_wrath_of_the_astromancer", "d5/d51/a23747.html", "d5/d51/a23747" ],
-    [ "spell_astromancer_solarian_transform", "d5/db6/a23751.html", "d5/db6/a23751" ],
+    [ "boss_high_astromancer_solarian", "db/d32/a23739.html", "db/d32/a23739" ],
+    [ "spell_astromancer_wrath_of_the_astromancer", "d1/db2/a23743.html", "d1/db2/a23743" ],
+    [ "spell_astromancer_solarian_transform", "d5/d51/a23747.html", "d5/d51/a23747" ],
     [ "CENTER_O", "d9/d79/a03809.html#a1b683ec7a35f03622bada41f50aac881", null ],
     [ "CENTER_X", "d9/d79/a03809.html#affb36ca3a6519ca609cfa9a0d70a682a", null ],
     [ "CENTER_Y", "d9/d79/a03809.html#a65dba9379097de8ea0bb4afd9d504b2b", null ],

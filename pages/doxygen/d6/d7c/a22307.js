@@ -1,6 +1,7 @@
 var a22307 =
 [
-    [ "go_wg_vehicle_teleporterAI", "d3/d63/a22311.html", "d3/d63/a22311" ],
-    [ "go_wg_vehicle_teleporter", "d6/d7c/a22307.html#a074ead770a3da6e9ffa4180a3525f4c8", null ],
-    [ "GetAI", "d6/d7c/a22307.html#a113aaf42c095000c1a016bfe60df11e7", null ]
+    [ "npc_wg_siege_machineAI", "d6/d7c/a22307.html#aaeca9e73520701ce28f2cc9d1483cc6b", null ],
+    [ "CanControlVehicle", "d6/d7c/a22307.html#a7ce79406da48e245a0baa2fdd23622b9", null ],
+    [ "UpdateAI", "d6/d7c/a22307.html#a8ddd21047a857facc767a9edc0ec5408", null ],
+    [ "checkTimer", "d6/d7c/a22307.html#abf4b06eae50adeefedba02e2186ea48a", null ]
 ];

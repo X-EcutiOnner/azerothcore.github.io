@@ -1,6 +1,6 @@
 var a01256 =
 [
-    [ "EncryptableAndCompressiblePacket", "d9/d45/a10991.html", "d9/d45/a10991" ],
-    [ "ClientPktHeader", "da/d04/a10995.html", "da/d04/a10995" ],
-    [ "WorldSocket", "d5/dc6/a10999.html", "d5/dc6/a10999" ]
+    [ "EncryptableAndCompressiblePacket", "da/d04/a10995.html", "da/d04/a10995" ],
+    [ "ClientPktHeader", "d5/dc6/a10999.html", "d5/dc6/a10999" ],
+    [ "WorldSocket", "dc/d65/a11003.html", "dc/d65/a11003" ]
 ];

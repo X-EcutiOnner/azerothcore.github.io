@@ -1,7 +1,8 @@
 var a26647 =
 [
-    [ "HandleDummy", "d0/ded/a26647.html#a00d36b914f5fd0466ae775e1fc95aa4f", null ],
-    [ "PrepareSpellScript", "d0/ded/a26647.html#a86a5c2b8ff373af7e98645b8b380145c", null ],
-    [ "Register", "d0/ded/a26647.html#a1b879ab84b8d6227ee5b2cccccd38bc2", null ],
-    [ "Validate", "d0/ded/a26647.html#aa7d437146a96bb40c1a66a453e3e4339", null ]
+    [ "ApplyDebuff", "d0/ded/a26647.html#a76ecb96d27c54b18f3628476dae4cc73", null ],
+    [ "PrepareSpellScript", "d0/ded/a26647.html#aeff4dce89b0d893b90571e0ff63e1aaa", null ],
+    [ "Register", "d0/ded/a26647.html#ae53dfd7f60a1c4132c441f7cd1595b95", null ],
+    [ "RemoveInvalidTargets", "d0/ded/a26647.html#a1374c764b20b95febbca44c593bde218", null ],
+    [ "Validate", "d0/ded/a26647.html#a2eb14ea281b41b08acd4514c01aa938f", null ]
 ];

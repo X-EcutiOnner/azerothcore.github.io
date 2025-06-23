@@ -1,6 +1,6 @@
 var a26419 =
 [
-    [ "HandleDummy", "d6/d5c/a26419.html#a73628636431d3549d6e3530c6ef23c08", null ],
-    [ "PrepareSpellScript", "d6/d5c/a26419.html#ab90d3031b356e8004fa62c9562f1ba1f", null ],
-    [ "Register", "d6/d5c/a26419.html#a7f42cf47831d3c8544453530a1454ddc", null ]
+    [ "HandleEffectPeriodic", "d6/d5c/a26419.html#ab283b40ceb6dcd0a835550531321ce92", null ],
+    [ "PrepareAuraScript", "d6/d5c/a26419.html#a6d6efe0be7cefeb20c386c83dee561d4", null ],
+    [ "Register", "d6/d5c/a26419.html#a4c69f350a68c1f4dd429ab52a791f3cd", null ]
 ];

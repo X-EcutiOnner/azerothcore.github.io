@@ -1,6 +1,7 @@
 var a11935 =
 [
-    [ "boss_gloomrel", "dc/d1e/a11935.html#ad655acba7b2d88779f849a685bb9fbb7", null ],
-    [ "OnGossipHello", "dc/d1e/a11935.html#a6ce6898142d767a130ec09769f2be488", null ],
-    [ "OnGossipSelect", "dc/d1e/a11935.html#ab7c623cdd2301f3a0a74d6b1e187a8c5", null ]
+    [ "boss_okthorAI", "dc/d1e/a11935.html#a8007cfade5c04d8b4e0b787ac5a5beff", null ],
+    [ "JustEngagedWith", "dc/d1e/a11935.html#a466a618e52f40e04e873dd50f3728755", null ],
+    [ "UpdateAI", "dc/d1e/a11935.html#a246c3bd9aa96eb11d2fa48be8654d726", null ],
+    [ "nextArcaneExplosionTime", "dc/d1e/a11935.html#a89d8cdd528775ee77caeac1d0465d4f2", null ]
 ];

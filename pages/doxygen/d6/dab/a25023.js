@@ -1,6 +1,10 @@
 var a25023 =
 [
-    [ "HandleScriptEffect", "d6/dab/a25023.html#ab3f415ae783f2a778178cc3319b32773", null ],
-    [ "PrepareSpellScript", "d6/dab/a25023.html#a4ba7f7935c4acda891190dc375086dee", null ],
-    [ "Register", "d6/dab/a25023.html#ad9b1571b4faf7d0fc6df7f6a8eb05c8a", null ]
+    [ "Load", "d6/dab/a25023.html#a18e05511c2dc0b934a97e323fccc3f50", null ],
+    [ "OnApply", "d6/dab/a25023.html#a1fe8240f5c553ba56ce9c2ff9338f75b", null ],
+    [ "OnRemove", "d6/dab/a25023.html#a29834c598d6ef8299d54e48a3461e603", null ],
+    [ "PrepareAuraScript", "d6/dab/a25023.html#a0529b56b30fa7bb97c014bbc2ee4a96a", null ],
+    [ "Register", "d6/dab/a25023.html#a5174f07fde3469c2314a3c1fbba5f432", null ],
+    [ "Validate", "d6/dab/a25023.html#aeaf16594f569af671d221234a4aa2c8b", null ],
+    [ "prevItem", "d6/dab/a25023.html#ad4c0402ae71e663534ed8fd137a9afd2", null ]
 ];

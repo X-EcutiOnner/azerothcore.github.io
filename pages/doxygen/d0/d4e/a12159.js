@@ -1,6 +1,6 @@
 var a12159 =
 [
-    [ "boss_chromaggusAI", "d0/d9c/a12163.html", "d0/d9c/a12163" ],
-    [ "boss_chromaggus", "d0/d4e/a12159.html#a55847fc0d5430d3f22074b53d7caca4b", null ],
-    [ "GetAI", "d0/d4e/a12159.html#ace78172cafb122ce5961ed837201c32b", null ]
+    [ "FilterTargets", "d0/d4e/a12159.html#ac630fb5f068e4d26adb078b118994c45", null ],
+    [ "PrepareSpellScript", "d0/d4e/a12159.html#a5f4986bfad79573e65d56ff276c49914", null ],
+    [ "Register", "d0/d4e/a12159.html#aa1f5838d43871fd7908ea3b914666000", null ]
 ];

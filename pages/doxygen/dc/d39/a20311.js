@@ -1,7 +1,7 @@
 var a20311 =
 [
-    [ "FilterTargetsInitial", "dc/d39/a20311.html#a2477349cffb8da02936545ba0bd03d0f", null ],
-    [ "Load", "dc/d39/a20311.html#a4606d10a2699e3fb5290cefdc0876505", null ],
-    [ "PrepareSpellScript", "dc/d39/a20311.html#aa28f3565bddf70b98c945be7a7a37bad", null ],
-    [ "Register", "dc/d39/a20311.html#ae9bbe2d4ce5413f040b8b5f73f985822", null ]
+    [ "StoneGripTargetSelector", "dc/d39/a20311.html#a74fc772e2bc0694dee05fe82de4463e2", null ],
+    [ "operator()", "dc/d39/a20311.html#ae40653def55e656f2347029a97605395", null ],
+    [ "_me", "dc/d39/a20311.html#ae5781d6b553491a1e3e8bfde2b965c3a", null ],
+    [ "_victim", "dc/d39/a20311.html#a09c3c6f832c20776f11b72a468a4b0bb", null ]
 ];

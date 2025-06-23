@@ -1,21 +1,12 @@
 var a11599 =
 [
-    [ "go_commandscript", "db/dd2/a11599.html#a03cfe4efbd8ed05680308c08b40c8f1b", null ],
-    [ "DoTeleport", "db/dd2/a11599.html#a7c89031f2df751d1699627c901abd80a", null ],
-    [ "GetCommands", "db/dd2/a11599.html#a672e84a91c30f7378adce918608a6a94", null ],
-    [ "GetCreatureData", "db/dd2/a11599.html#a4ddbfdfa0f8bc74b956dd881c55065c0", null ],
-    [ "GetGameObjectData", "db/dd2/a11599.html#a4cc325ee1ecbb3dc9997d522fa15ebaa", null ],
-    [ "HandleGoCreatureCIdCommand", "db/dd2/a11599.html#af5f60591fb6576161878270f4f967a08", null ],
-    [ "HandleGoCreatureNameCommand", "db/dd2/a11599.html#a8ba4cf43263d267e29efa76d6b92149d", null ],
-    [ "HandleGoCreatureSpawnIdCommand", "db/dd2/a11599.html#ab7fbdfbfdd9b1f94966044f4873e18a7", null ],
-    [ "HandleGoGameObjectGOIdCommand", "db/dd2/a11599.html#a1b47eda64c4c33da4b973a1e6a5d651b", null ],
-    [ "HandleGoGameObjectSpawnIdCommand", "db/dd2/a11599.html#ae8ee37da2d5a4cbf5e6ee64a635b804b", null ],
-    [ "HandleGoGraveyardCommand", "db/dd2/a11599.html#a4138d8299e150a55ae38613cac8e4c8b", null ],
-    [ "HandleGoGridCommand", "db/dd2/a11599.html#a88a8a00453f822322720476dfe91e866", null ],
-    [ "HandleGoQuestCommand", "db/dd2/a11599.html#a4d48d4a889033f7eac9a8473fb6cf3aa", null ],
-    [ "HandleGoTaxinodeCommand", "db/dd2/a11599.html#a7ac0084020d81c574193668aad6e3d95", null ],
-    [ "HandleGoTicketCommand", "db/dd2/a11599.html#ab74a387cae5095d9ea26bf70158d6a14", null ],
-    [ "HandleGoTriggerCommand", "db/dd2/a11599.html#a98149f3632dbbce523926229ebd9c15a", null ],
-    [ "HandleGoXYZCommand", "db/dd2/a11599.html#a9aee7c1cbfe76d988ad28cd64840222b", null ],
-    [ "HandleGoZoneXYCommand", "db/dd2/a11599.html#ae01287fc270a629b5b81117e71ac4ee8", null ]
+    [ "gm_commandscript", "db/dd2/a11599.html#a1b24112b70818778755ef9b5b062b2e8", null ],
+    [ "GetCommands", "db/dd2/a11599.html#a17c725e18324de7aadff260c77d75c45", null ],
+    [ "HandleGMChatCommand", "db/dd2/a11599.html#a15a18b1179a602da3eeba7e8247fbbac", null ],
+    [ "HandleGMFlyCommand", "db/dd2/a11599.html#a29829660f39c9bfa4190bbb118f482ba", null ],
+    [ "HandleGMListFullCommand", "db/dd2/a11599.html#add9bd1e64f98964e68cd1be3df6295e7", null ],
+    [ "HandleGMListIngameCommand", "db/dd2/a11599.html#ab6d59a1c29bd66b699ae597351b969d9", null ],
+    [ "HandleGMOffCommand", "db/dd2/a11599.html#a66de9b1d6abaad56419a43d65861b5b3", null ],
+    [ "HandleGMOnCommand", "db/dd2/a11599.html#afb0f18226aac1f581d09f3b7fe9d0ce7", null ],
+    [ "HandleGMVisibleCommand", "db/dd2/a11599.html#a7af08caf6d3fba1b6ee29ea90b20fef8", null ]
 ];

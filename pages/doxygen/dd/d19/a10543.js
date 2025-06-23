@@ -1,8 +1,6 @@
 var a10543 =
 [
-    [ "GuildCommandResult", "dd/d19/a10543.html#a9b82d7f9fe8f9b42fb4ed74c14cba03d", null ],
-    [ "Write", "dd/d19/a10543.html#a621e211342b3bf9b5de01a9a3b66291b", null ],
-    [ "Command", "dd/d19/a10543.html#a099cf9f39c403f76971d006245b03f29", null ],
-    [ "Name", "dd/d19/a10543.html#a122ee78cb5fc38aa7ecd7a2cad8a33cc", null ],
-    [ "Result", "dd/d19/a10543.html#a8b6b2127aa39807a61bf0cc3cce15921", null ]
+    [ "GuildUpdateMotdText", "dd/d19/a10543.html#ab3b248450b0dcdde6b51e381e910b15d", null ],
+    [ "Read", "dd/d19/a10543.html#a55cfd6f4797e61ca01ee7aa5c65d9a69", null ],
+    [ "MotdText", "dd/d19/a10543.html#a5b2ee458a919be7f912d49cf984490ac", null ]
 ];

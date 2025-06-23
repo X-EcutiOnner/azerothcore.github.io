@@ -1,7 +1,7 @@
 var a24079 =
 [
-    [ "CheckRequirement", "db/d75/a24079.html#a4ad521364c6156c0ecef818a23ce7aff", null ],
-    [ "PrepareSpellScript", "db/d75/a24079.html#a0d995c6ae6d1da0014c053a62b37a7b7", null ],
-    [ "Register", "db/d75/a24079.html#a25f275e84570f674071bfae03aeb0ddc", null ],
-    [ "Validate", "db/d75/a24079.html#adc648151e2c61a61a0dc5883d9fa4ae0", null ]
+    [ "HandleScriptEffect", "db/d75/a24079.html#ad018d907a85ee31d3194823a4c02a1a5", null ],
+    [ "PrepareSpellScript", "db/d75/a24079.html#a50b6bc43eaeee0ec760c02ac1685454e", null ],
+    [ "Register", "db/d75/a24079.html#a2096673a3f57cc224aeb7d3ce84526cb", null ],
+    [ "Validate", "db/d75/a24079.html#a5209de3456c374010502a94f67ff4544", null ]
 ];

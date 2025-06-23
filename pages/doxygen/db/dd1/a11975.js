@@ -1,8 +1,11 @@
 var a11975 =
 [
-    [ "CheckProc", "db/dd1/a11975.html#a08e84f2b2ff25ed7e260e61251f9cdb9", null ],
-    [ "HandleProc", "db/dd1/a11975.html#afd3d4786f739566056b69390553d9c71", null ],
-    [ "PrepareAuraScript", "db/dd1/a11975.html#a3ba84d4fd311a91efa685980ffec8d77", null ],
-    [ "Register", "db/dd1/a11975.html#aa36a2e10a6fd67fa74d08e20dc806744", null ],
-    [ "Validate", "db/dd1/a11975.html#aeff8b89300bb5d3589a46a4f66cfd77d", null ]
+    [ "boss_gythAI", "db/dd1/a11975.html#aeec049af24b3a6f94051f1008ce107e6", null ],
+    [ "EnterEvadeMode", "db/dd1/a11975.html#a20296c618ad366d7ac956f16671cc408", null ],
+    [ "IsSummonedBy", "db/dd1/a11975.html#a6800421a2e9e889e649e792ee642d8ac", null ],
+    [ "JustDied", "db/dd1/a11975.html#a979da1f3922d9575b6c237b85952fb6c", null ],
+    [ "JustEngagedWith", "db/dd1/a11975.html#a6c0ca15d87851c205d94679ea65e5193", null ],
+    [ "JustSummoned", "db/dd1/a11975.html#ab9024ce261129c82d4304d2a13834a5f", null ],
+    [ "Reset", "db/dd1/a11975.html#aa3c86b403af5394a4e4cb30781bcb46b", null ],
+    [ "UpdateAI", "db/dd1/a11975.html#a66f27f6d49b40dcc2894f177b281570f", null ]
 ];
