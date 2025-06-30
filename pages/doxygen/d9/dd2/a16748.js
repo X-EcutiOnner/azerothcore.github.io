@@ -1,8 +1,8 @@
 var a16748 =
 [
-    [ "npc_hor_leaderAI", "db/d38/a16752.html", "db/d38/a16752" ],
-    [ "npc_hor_leader", "d9/dd2/a16748.html#a5c8d6cce242d144755fb14879f7f17d3", null ],
-    [ "GetAI", "d9/dd2/a16748.html#a55e7357aa6dff1efdff08541e88413e9", null ],
-    [ "OnGossipHello", "d9/dd2/a16748.html#afb46ea0b6926ad5d9b87b1d6a5e04591", null ],
-    [ "OnGossipSelect", "d9/dd2/a16748.html#ab5d01ae2803bab43b2c701d0cb1d4280", null ]
+    [ "npc_fos_leaderAI", "d9/dd2/a16748.html#ae6a80f77558e0f5a62efc3b5ef1f61d6", null ],
+    [ "DoAction", "d9/dd2/a16748.html#a1fd8cea6f8a6d8f76ba3c484b15c4054", null ],
+    [ "Reset", "d9/dd2/a16748.html#a33364da3af4681de9f9e21b9dcf7f16c", null ],
+    [ "UpdateAI", "d9/dd2/a16748.html#ac6f2aedc40e415ac0f7e8c212d4deae5", null ],
+    [ "events", "d9/dd2/a16748.html#ac02a0c34096086e7baf1dc004811f4c1", null ]
 ];

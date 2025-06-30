@@ -1,6 +1,8 @@
 var a25276 =
 [
-    [ "CheckCast", "df/ddd/a25276.html#a712900d0c9e9cc78b5de2886e416f34d", null ],
-    [ "PrepareSpellScript", "df/ddd/a25276.html#a0bc2de519e0c84688fad609444d28afa", null ],
-    [ "Register", "df/ddd/a25276.html#a7f438fb8ce7eda520a366437df65c6e8", null ]
+    [ "OnApply", "df/ddd/a25276.html#acf25199409ab6f991db15a784749aaf1", null ],
+    [ "OnRemove", "df/ddd/a25276.html#a700513c27a2ae22581bbc61c8c4b523a", null ],
+    [ "PrepareAuraScript", "df/ddd/a25276.html#ae6f93ab542d8f05a95745d7b10d1856a", null ],
+    [ "Register", "df/ddd/a25276.html#a9332cb72f66e83f648b4ed02c8c074eb", null ],
+    [ "Validate", "df/ddd/a25276.html#a09017d12ecf0ae0c3091cea17640782c", null ]
 ];

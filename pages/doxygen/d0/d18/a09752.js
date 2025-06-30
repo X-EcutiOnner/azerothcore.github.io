@@ -1,8 +1,8 @@
 var a09752 =
 [
-    [ "BoundaryIntersectBoundary", "d0/d18/a09752.html#ad92d938418434a1cb6a0eb68c88d281c", null ],
-    [ "~BoundaryIntersectBoundary", "d0/d18/a09752.html#ad8bbf96e48d18ef87ac31dea8bcb023b", null ],
-    [ "IsWithinBoundaryArea", "d0/d18/a09752.html#a09c8440d1ddb8264bff4065910b7e0a5", null ],
-    [ "_b1", "d0/d18/a09752.html#ab0239437fa92e39d144bf3856eb347c7", null ],
-    [ "_b2", "d0/d18/a09752.html#a41e100c17db99990981293399660824c", null ]
+    [ "EllipseBoundary", "d0/d18/a09752.html#aeb8c822a8c4c745de0c848721a624545", null ],
+    [ "IsWithinBoundaryArea", "d0/d18/a09752.html#a203ccf7ca23f1d66f834bdadb8b18b31", null ],
+    [ "_center", "d0/d18/a09752.html#aa84bae8bced77e38fec652e473cf39c7", null ],
+    [ "_radiusYSq", "d0/d18/a09752.html#ae933c6b1e62967f98c95cfbd4822b818", null ],
+    [ "_scaleXSq", "d0/d18/a09752.html#ad781cadd6c09e482d3a93ad71440a4c2", null ]
 ];

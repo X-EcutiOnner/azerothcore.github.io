@@ -1,6 +1,7 @@
 var a18876 =
 [
-    [ "boss_four_horsemenAI", "d3/dec/a18880.html", "d3/dec/a18880" ],
-    [ "boss_four_horsemen", "d3/dd0/a18876.html#a6bcaf9a12d854a322f50ac2f98dbb72b", null ],
-    [ "GetAI", "d3/dd0/a18876.html#a3ee27da1d0da48306cc10c17c9411d1a", null ]
+    [ "npc_ioc_gunship_captainAI", "d3/dd0/a18876.html#a23477a6f29b13308067c1f42ced1e9fe", null ],
+    [ "DoAction", "d3/dd0/a18876.html#a89fb251869d6bfbefbca1e2d3178178a", null ],
+    [ "UpdateAI", "d3/dd0/a18876.html#a222b304633143bba47d3edde67ea093b", null ],
+    [ "_events", "d3/dd0/a18876.html#aa8b7c262641a5f1f86c5ae39f8b62dca", null ]
 ];

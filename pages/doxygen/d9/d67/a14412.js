@@ -1,8 +1,6 @@
 var a14412 =
 [
-    [ "CheckCast", "d9/d67/a14412.html#a1e63e7798ab5e55415eb0277f3160fa3", null ],
-    [ "HandleDummy", "d9/d67/a14412.html#ad39da0510c21855dd74abd93f33621c9", null ],
-    [ "PrepareSpellScript", "d9/d67/a14412.html#a727093fec8cc8422cbbaa79d821338c8", null ],
-    [ "Register", "d9/d67/a14412.html#a8cc68fadf4ae20a9de24c75d2f61301f", null ],
-    [ "Validate", "d9/d67/a14412.html#aacd60538c8410fc313a09b1044ad6c7a", null ]
+    [ "OnApply", "d9/d67/a14412.html#a30d33268b58507c228a4628031bffca0", null ],
+    [ "PrepareAuraScript", "d9/d67/a14412.html#a16dc3f52152d63b5512690c761f9915a", null ],
+    [ "Register", "d9/d67/a14412.html#a6494e4d7277e910ffa3b30c333117f00", null ]
 ];

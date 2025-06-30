@@ -1,8 +1,15 @@
 var a11164 =
 [
-    [ "target_mapId", "d8/da5/a11164.html#a6dbbb558810388e0d051d84a0279a444", null ],
-    [ "target_Orientation", "d8/da5/a11164.html#a7e30264eff9ece771dfaa421ef987b2a", null ],
-    [ "target_X", "d8/da5/a11164.html#aa78b3d4cfb4277bcb1bf6a31ffc87546", null ],
-    [ "target_Y", "d8/da5/a11164.html#a6f432d8770adebf513346713b7890b5c", null ],
-    [ "target_Z", "d8/da5/a11164.html#a3af706b81f8fbef12277c518964f717a", null ]
+    [ "AttributesMask", "d8/da5/a11164.html#a7cc9dfa91e034f5052ebd3bf8eaea42a", null ],
+    [ "Chance", "d8/da5/a11164.html#aea5ca609c75ea7b314aec8ae0246297e", null ],
+    [ "Charges", "d8/da5/a11164.html#a75f0484dad60eec59b399a188fd9908f", null ],
+    [ "Cooldown", "d8/da5/a11164.html#a4e6185aea35599a3efc2e806145cb1d2", null ],
+    [ "HitMask", "d8/da5/a11164.html#a8ac3331576b4eb761157fa3d0d622bea", null ],
+    [ "ProcFlags", "d8/da5/a11164.html#a9e5de790c4f61537397a1ce2bce8a9b0", null ],
+    [ "ProcsPerMinute", "d8/da5/a11164.html#a3815765c08f6b95cae6efb93fa98623b", null ],
+    [ "SchoolMask", "d8/da5/a11164.html#acf72c4a783235770bbff952bdc002324", null ],
+    [ "SpellFamilyMask", "d8/da5/a11164.html#a8688e9282cb78d4f24b310cc2521c22b", null ],
+    [ "SpellFamilyName", "d8/da5/a11164.html#a2cb738b0d4579503fcb9bca7988f7e36", null ],
+    [ "SpellPhaseMask", "d8/da5/a11164.html#ab4c4bfa1493a7a5924d3cd094127f973", null ],
+    [ "SpellTypeMask", "d8/da5/a11164.html#a99e20d3979a532e1ca90ee83edcff3eb", null ]
 ];

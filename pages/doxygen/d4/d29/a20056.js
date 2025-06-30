@@ -1,7 +1,9 @@
 var a20056 =
 [
-    [ "HandleAfterHit", "d4/d29/a20056.html#a75953cbb3a288fd373e602ed07d84441", null ],
-    [ "PrepareSpellScript", "d4/d29/a20056.html#a55c604f072fd0bbdcb886635fb53eaa8", null ],
-    [ "Register", "d4/d29/a20056.html#af963f0dcdf2a1bc040a597c06983f0a7", null ],
-    [ "Validate", "d4/d29/a20056.html#aea2b951dd2353800958f654df58d8fd8", null ]
+    [ "boss_freya_nature_bombAI", "d4/d29/a20056.html#acbf4d330bb5bf4a032732895e8f7e35b", null ],
+    [ "Reset", "d4/d29/a20056.html#a60738702870e2cacbcdf600e9e7073b5", null ],
+    [ "UpdateAI", "d4/d29/a20056.html#a4bfa9df3e3151743485f59c4d318d7f9", null ],
+    [ "_explodeTimer", "d4/d29/a20056.html#a2af9ed2067097eec2a647f17f8b1ef71", null ],
+    [ "_goGUID", "d4/d29/a20056.html#a1a7579cc6957a52d65a1d302d5ba1da0", null ],
+    [ "Timer", "d4/d29/a20056.html#a714a582c6ec552b969624244d709d14d", null ]
 ];

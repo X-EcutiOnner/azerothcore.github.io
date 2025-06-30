@@ -1,9 +1,8 @@
 var a07920 =
 [
-    [ "cancelTime", "dc/d2e/a07920.html#ac1d5edf075556c488aff36799ee6cb96", null ],
-    [ "dungeons", "dc/d2e/a07920.html#a1e6c1deaf47dc835bbab7a1741a57fe2", null ],
-    [ "leader", "dc/d2e/a07920.html#ad92b0bd391dae5f934b7d6f8a39351d8", null ],
-    [ "rDungeonId", "dc/d2e/a07920.html#af07fdfed0b56211af723db06959013f6", null ],
-    [ "roles", "dc/d2e/a07920.html#a3759dc8140194b09be842365dc0053d7", null ],
-    [ "state", "dc/d2e/a07920.html#aa70ef2d83084359af7bcc9e2de60ce77", null ]
+    [ "LfgPlayerRewardData", "dc/d2e/a07920.html#afe99288f8d7028a5a54317e73e3f2c01", null ],
+    [ "done", "dc/d2e/a07920.html#a91ba12acf66d631af2de45513f20b702", null ],
+    [ "quest", "dc/d2e/a07920.html#abd051091fec6835f63bafa98a045142b", null ],
+    [ "rdungeonEntry", "dc/d2e/a07920.html#a87623ce14ef1d123d226e37e227a566d", null ],
+    [ "sdungeonEntry", "dc/d2e/a07920.html#abe9c93ab7f3a421dd3c44414a0987277", null ]
 ];

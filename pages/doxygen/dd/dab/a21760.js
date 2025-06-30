@@ -1,6 +1,6 @@
 var a21760 =
 [
-    [ "npc_spiritual_insightAI", "dd/d62/a21764.html", "dd/d62/a21764" ],
-    [ "npc_spiritual_insight", "dd/dab/a21760.html#afe7b9d5953462719407f03b33b8de564", null ],
-    [ "GetAI", "dd/dab/a21760.html#ab2884e1160ccad9adb8e3ae69db55bc4", null ]
+    [ "npc_q24545_lich_kingAI", "dd/d62/a21764.html", "dd/d62/a21764" ],
+    [ "npc_q24545_lich_king", "dd/dab/a21760.html#a1864564dee4f66f1b29850b8b0f6fa29", null ],
+    [ "GetAI", "dd/dab/a21760.html#aade5ad8ba215d0571185596aa40cf9b2", null ]
 ];

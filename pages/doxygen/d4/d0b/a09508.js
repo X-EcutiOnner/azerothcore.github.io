@@ -1,16 +1,16 @@
 var a09508 =
 [
-    [ "BankEventLogEntry", "d4/d0b/a09508.html#a31275c6a36f7b79d7532345d38a3739b", null ],
-    [ "BankEventLogEntry", "d4/d0b/a09508.html#a1a87a93c90b6a0b6766ac46228fd1761", null ],
-    [ "~BankEventLogEntry", "d4/d0b/a09508.html#a8033da0f1bd56926bd306e1cbdc1ecb9", null ],
-    [ "IsMoneyEvent", "d4/d0b/a09508.html#a9a38b7966bdcc3ec9e871c024c928ce1", null ],
-    [ "IsMoneyEvent", "d4/d0b/a09508.html#a49c76ead144b21da7cb1059af54a2482", null ],
-    [ "SaveToDB", "d4/d0b/a09508.html#a9010bb7bd849aa6ba25b31596ac30831", null ],
-    [ "WritePacket", "d4/d0b/a09508.html#a930223d8596264801d7b0cf04cea62f8", null ],
-    [ "m_bankTabId", "d4/d0b/a09508.html#a836df4449b5190b4404482e46a5e5449", null ],
-    [ "m_destTabId", "d4/d0b/a09508.html#a57a6aeaae26781df310a2c98fcf7164d", null ],
-    [ "m_eventType", "d4/d0b/a09508.html#a180246a8eaca99431383916776a4f7ad", null ],
-    [ "m_itemOrMoney", "d4/d0b/a09508.html#a689ea5c40d39fe5dc8a80351c4884b18", null ],
-    [ "m_itemStackCount", "d4/d0b/a09508.html#ad4ed0df79ff061a4735538067fa4a372", null ],
-    [ "m_playerGuid", "d4/d0b/a09508.html#a3b2127e193ff9f5b54cf6520cd2a2458", null ]
+    [ "GuildBankRightsAndSlots", "d4/d0b/a09508.html#ae00a8b8f227d7afdcf08847e3787ee0d", null ],
+    [ "GuildBankRightsAndSlots", "d4/d0b/a09508.html#af5f0087090a7145a22baa1396822318b", null ],
+    [ "GuildBankRightsAndSlots", "d4/d0b/a09508.html#a4bdf40d99704211b9e80b554ebade54f", null ],
+    [ "GetRights", "d4/d0b/a09508.html#a19b76bebdb62434191189ba789c2810f", null ],
+    [ "GetSlots", "d4/d0b/a09508.html#a51780060b5699bed6b78cc9ba4e95371", null ],
+    [ "GetTabId", "d4/d0b/a09508.html#a6ba7c49480a1c5325d3702fb61d397cc", null ],
+    [ "SetGuildMasterValues", "d4/d0b/a09508.html#a1399f191b3b0a44dc1e76fc49adc1412", null ],
+    [ "SetRights", "d4/d0b/a09508.html#abf4e1f1556554e7f756dc566fbdd7f40", null ],
+    [ "SetSlots", "d4/d0b/a09508.html#a8ed33a4e1d2a957d61c5f7556533f225", null ],
+    [ "SetTabId", "d4/d0b/a09508.html#abe84f6bcdfd48d70b894470d025f3aae", null ],
+    [ "rights", "d4/d0b/a09508.html#a2a8f5acf21828bfa15d0b3dd6874b5cb", null ],
+    [ "slots", "d4/d0b/a09508.html#a5a327399d94704bc290199baa21ff8d7", null ],
+    [ "tabId", "d4/d0b/a09508.html#ab09825a02a7a21a4915595230d2a5839", null ]
 ];

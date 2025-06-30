@@ -1,5 +1,5 @@
 var a22484 =
 [
-    [ "OutdoorPvP_zangarmarsh", "dd/d18/a22484.html#ae287d5df21bf75efab6c651f4f3d875e", null ],
-    [ "GetOutdoorPvP", "dd/d18/a22484.html#a145ddfe383663ed3fb46960e39691f8f", null ]
+    [ "outdoorpvp_na_halaa_creatures", "dd/d18/a22484.html#a9656bb7620967f1c9db6ff28a1c6bfe2", null ],
+    [ "UpdateAI", "dd/d18/a22484.html#a16c8cb2d19396e6db4700a37e0d02feb", null ]
 ];

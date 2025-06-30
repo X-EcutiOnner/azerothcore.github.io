@@ -1,7 +1,6 @@
 var a22284 =
 [
-    [ "HandleScript", "d5/db6/a22284.html#a26eb647b6c938df3aeff7981571dc475", null ],
-    [ "PrepareSpellScript", "d5/db6/a22284.html#a10114d8fa956aabff64aa0df7708f635", null ],
-    [ "Register", "d5/db6/a22284.html#a0c6c379f5dcbb417d94d8e6315aa49dd", null ],
-    [ "Validate", "d5/db6/a22284.html#adb477d34d8012c6fb45c5548fc49e127", null ]
+    [ "npc_vehicle_d16_propelled_deliveryAI", "d5/dab/a22288.html", "d5/dab/a22288" ],
+    [ "npc_vehicle_d16_propelled_delivery", "d5/db6/a22284.html#a93bed362ae78231b21327994a3e4cafd", null ],
+    [ "GetAI", "d5/db6/a22284.html#abda3dbcb251d7f1e614d089f630d0d1c", null ]
 ];

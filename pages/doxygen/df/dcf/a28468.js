@@ -1,10 +1,9 @@
 var a28468 =
 [
-    [ "adt_CELLS", "dc/d90/a28476.html", "dc/d90/a28476" ],
-    [ "getMCNK", "df/dcf/a28468.html#a8330b7cb405146399d3d20e6952a8b40", null ],
-    [ "prepareLoadedData", "df/dcf/a28468.html#adc7346499aa51f4422c810b7e757f835", null ],
-    [ "cells", "df/dcf/a28468.html#a434ed0ca354ec27d5334cc63e5650038", null ],
-    [ "fcc", "df/dcf/a28468.html#ae7d4acf20e102b6b8f19ded3fe219a7d", null ],
-    [ "fcc_txt", "df/dcf/a28468.html#a514bae36851623daf76b26a9d63f1ae0", null ],
-    [ "size", "df/dcf/a28468.html#a1a40f52ea9eef3add8207da89cb71210", null ]
+    [ "SetUp", "df/dcf/a28468.html#abb28ef64461635a540dad471b7b12ebc", null ],
+    [ "TearDown", "df/dcf/a28468.html#ace0b9a0c578a6b8ec1d33ad584aaf911", null ],
+    [ "arenaTeams", "df/dcf/a28468.html#ab40dacafdb3c5de73cf66426d014a4fe", null ],
+    [ "team1", "df/dcf/a28468.html#a325d8058950e53d17e16fd90cd105776", null ],
+    [ "team2", "df/dcf/a28468.html#ac6336ffa31e59a5d3acc227c674e9ea8", null ],
+    [ "team3", "df/dcf/a28468.html#af3c2e86874e53ae812debbe1abfbcf05", null ]
 ];

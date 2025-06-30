@@ -1,6 +1,6 @@
 var a11284 =
 [
-    [ "EffectCalcSpellModHandler", "d9/da9/a11284.html#abe81396a3f1c1b3b07c10cf0e191546c", null ],
-    [ "Call", "d9/da9/a11284.html#a5ca2a9c329a7dbbb7e835849ca4479aa", null ],
-    [ "pEffectHandlerScript", "d9/da9/a11284.html#a15c0b24641cb04f31bb3d651dae59448", null ]
+    [ "EffectBase", "d9/da9/a11284.html#ab02f9f344e2f32ad59b35993d5c8f819", null ],
+    [ "CheckEffect", "d9/da9/a11284.html#a8c300ca68c3ff6f74b230835c566fd60", null ],
+    [ "ToString", "d9/da9/a11284.html#ab6f5b2a7ec1183206110eac9a21a7de5", null ]
 ];

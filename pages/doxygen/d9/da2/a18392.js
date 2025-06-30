@@ -1,7 +1,9 @@
 var a18392 =
 [
-    [ "npc_valithria_portalAI", "d9/da2/a18392.html#a18c1b9d2b149fbc34a17c9e87a8c70b6", null ],
-    [ "GetData", "d9/da2/a18392.html#a598ba7930900aa211bb7e7dc12f366c0", null ],
-    [ "OnSpellClick", "d9/da2/a18392.html#a457f2725e6580d7e6f3bb0445ba796a8", null ],
-    [ "_used", "d9/da2/a18392.html#a92cc0c2aaa6add0c6c641719d6846bb3", null ]
+    [ "DelayedCastEvent", "d9/da2/a18392.html#ae6d57612065d56ce79197aedebedf9f9", null ],
+    [ "Execute", "d9/da2/a18392.html#ae2925429b3049e44d2afd2e8b990af71", null ],
+    [ "_despawnTime", "d9/da2/a18392.html#acc9e22eb1908e4c458199fc4cccd56c6", null ],
+    [ "_originalCaster", "d9/da2/a18392.html#adb07c24a947d59d2ef1f61b8ab18d328", null ],
+    [ "_spellId", "d9/da2/a18392.html#abe28a6749101233302634ed226a289e8", null ],
+    [ "_trigger", "d9/da2/a18392.html#a85471a151a3165cc906f3a41103c3f5d", null ]
 ];

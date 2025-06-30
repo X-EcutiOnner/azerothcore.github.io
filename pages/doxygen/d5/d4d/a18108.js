@@ -1,6 +1,7 @@
 var a18108 =
 [
-    [ "boss_the_lich_kingAI", "d0/d08/a18112.html", "d0/d08/a18112" ],
-    [ "boss_the_lich_king", "d5/d4d/a18108.html#a10e2789a98a85907d24eabae6d7655f4", null ],
-    [ "GetAI", "d5/d4d/a18108.html#ab12d8cdfdb1c5428423f6db9dda6c97e", null ]
+    [ "HandleInfusion", "d5/d4d/a18108.html#a9f77330d81fef646dd5d5399800cba66", null ],
+    [ "PrepareSpellScript", "d5/d4d/a18108.html#ae0a272902b0a9f74058c1dbe62974358", null ],
+    [ "Register", "d5/d4d/a18108.html#ad759f6215e722f799156b4bdddcb7af1", null ],
+    [ "Validate", "d5/d4d/a18108.html#a7b7254e7c6cb0d819dd003ffd19d0731", null ]
 ];

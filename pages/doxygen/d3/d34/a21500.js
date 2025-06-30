@@ -1,9 +1,12 @@
 var a21500 =
 [
-    [ "npc_warmage_coldarraAI", "d3/d34/a21500.html#a9a8c2afff61ad8457aab8a9c23a4b755", null ],
-    [ "AttackStart", "d3/d34/a21500.html#a41277824ae3f6bd9a099894b6dfc7537", null ],
-    [ "JustEngagedWith", "d3/d34/a21500.html#a23a8999e34142201c6ceadc64a3df6c2", null ],
-    [ "Reset", "d3/d34/a21500.html#adf5094ba2bee34ec793124e798d5af8f", null ],
-    [ "UpdateAI", "d3/d34/a21500.html#a14b221265cc38b4061c52b687274a398", null ],
-    [ "m_uiTimer", "d3/d34/a21500.html#a338ad26d40d395dfc6ed7e8fedcc6d60", null ]
+    [ "npc_beryl_sorcererAI", "d3/d34/a21500.html#a8f99f5f2ad6ccb1b068a86904bb1b864", null ],
+    [ "Initialize", "d3/d34/a21500.html#a40400e4e993d20d9bbe4faf063102521", null ],
+    [ "JustEngagedWith", "d3/d34/a21500.html#afae877e8dac583c9420d214f77c2b438", null ],
+    [ "Reset", "d3/d34/a21500.html#a17a16337c09013483c58cae38576d969", null ],
+    [ "SpellHit", "d3/d34/a21500.html#a762ee3ae8df3757279821af13101e0be", null ],
+    [ "UpdateAI", "d3/d34/a21500.html#a42ec665b06988d13be6cbee646afc898", null ],
+    [ "_chainsCast", "d3/d34/a21500.html#ab6238d539b10a7db9191bdc685ea67eb", null ],
+    [ "_events", "d3/d34/a21500.html#ac640099ca01ae2183b84ae9ee3407cc1", null ],
+    [ "_playerGUID", "d3/d34/a21500.html#a96f9b39c09b7a5fb484ae9069412751f", null ]
 ];

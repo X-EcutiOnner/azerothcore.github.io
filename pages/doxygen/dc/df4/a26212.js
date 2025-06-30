@@ -1,9 +1,6 @@
 var a26212 =
 [
-    [ "HandleAfterCast", "dc/df4/a26212.html#ac08e632064c407346649f525d030d335", null ],
-    [ "HandleDummy", "dc/df4/a26212.html#a9c1dadd5a3e2e039b50a414ac589ebf4", null ],
-    [ "Load", "dc/df4/a26212.html#a177525c755b036a79263c0fa6fa4082e", null ],
-    [ "PrepareSpellScript", "dc/df4/a26212.html#aed99b07a53068b19bddb4daff3449a52", null ],
-    [ "Register", "dc/df4/a26212.html#a946e56a325d83656d9b43af80d065e45", null ],
-    [ "_triggerSpellId", "dc/df4/a26212.html#a6697a22b684784853cb1999d41fcaaa7", null ]
+    [ "HandleDummyEffect", "dc/df4/a26212.html#ad5421ca3dd5bf802952f98e6d1170003", null ],
+    [ "PrepareSpellScript", "dc/df4/a26212.html#a9489556e1e16cd2e0d5c43b38d7ea5ee", null ],
+    [ "Register", "dc/df4/a26212.html#a2ad2c00807d07aeb55a8fd848a69f9d1", null ]
 ];

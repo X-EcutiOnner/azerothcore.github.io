@@ -1,5 +1,5 @@
 var a04628 =
 [
-    [ "SHA1", "d3/d6e/a04628.html#af1f12790805678378554ea1c14b0c1df", null ],
-    [ "SRP6", "d3/d6e/a04628.html#a80857313fb18764ec6d5834e183889f8", null ]
+    [ "HMAC_RESULT_SIZE", "d3/d6e/a04628.html#abdb09168f87cd99a498636550843012d", null ],
+    [ "TOTP_INTERVAL", "d3/d6e/a04628.html#abcaccdfb09251b1b2856cc0c48c64eda", null ]
 ];

@@ -1,6 +1,5 @@
 var a23636 =
 [
-    [ "instance_arcatraz_InstanceMapScript", "d2/d41/a23640.html", "d2/d41/a23640" ],
-    [ "instance_arcatraz", "d5/dd6/a23636.html#a6fc8860651573353b54fd26bddea32aa", null ],
-    [ "GetInstanceScript", "d5/dd6/a23636.html#ad3f78e41ef2c96443ed3bd1ba4ab55bb", null ]
+    [ "at_shattered_halls_execution", "d5/dd6/a23636.html#a73f1d1f03960acd070b7996257f7a526", null ],
+    [ "OnTrigger", "d5/dd6/a23636.html#ad35f9736371b091dc0780e5bf0caf9f5", null ]
 ];

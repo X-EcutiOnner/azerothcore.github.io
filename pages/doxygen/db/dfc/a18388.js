@@ -1,6 +1,6 @@
 var a18388 =
 [
-    [ "npc_valithria_portalAI", "d9/da2/a18392.html", "d9/da2/a18392" ],
-    [ "npc_valithria_portal", "db/dfc/a18388.html#a6014d7a57dfe5d21f63c03b3efcbdfc8", null ],
-    [ "GetAI", "db/dfc/a18388.html#a9770ad0bc3732f2271876bbc84885dc0", null ]
+    [ "ManaVoidSelector", "db/dfc/a18388.html#aa57a0960e7ce90b8de23f01ae72a1fff", null ],
+    [ "operator()", "db/dfc/a18388.html#a464d63f2cf8cfe7d0c6bb5293e788a28", null ],
+    [ "_source", "db/dfc/a18388.html#ae45c999db51bc153bba7f2fdfb99f6ba", null ]
 ];

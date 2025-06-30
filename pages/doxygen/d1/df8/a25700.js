@@ -1,6 +1,6 @@
 var a25700 =
 [
-    [ "HandleTriggerSpell", "d1/df8/a25700.html#a2c9f565aec4c42900037dd387549df18", null ],
-    [ "PrepareAuraScript", "d1/df8/a25700.html#a5864bbba50001cdb84b0015d08134c56", null ],
-    [ "Register", "d1/df8/a25700.html#a5a41ac9e41201ec3defc05c324a792c9", null ]
+    [ "CalculateAmount", "d1/df8/a25700.html#a6faee23ed5947a904e58bfb38cf01d05", null ],
+    [ "PrepareAuraScript", "d1/df8/a25700.html#a5e7d089dd117b6b3a605ea2e8aea0b04", null ],
+    [ "Register", "d1/df8/a25700.html#a37e277143b2ae6cd88260776941b59bf", null ]
 ];

@@ -1,6 +1,5 @@
 var a27012 =
 [
-    [ "AreaTrigger_at_brewfest", "df/d8c/a27012.html#ad7e2916aefc6efbfb9f747a75a4a14a3", null ],
-    [ "OnTrigger", "df/d8c/a27012.html#a17e4a8d671136466c7673789e4f69a84", null ],
-    [ "_triggerTimes", "df/d8c/a27012.html#ab763765427796ad17338bcc8d63cf891", null ]
+    [ "AreaTrigger_at_voltarus_middle", "df/d8c/a27012.html#a45ca444350fe4cfde02ab33da4ce8466", null ],
+    [ "OnTrigger", "df/d8c/a27012.html#a296b300feb6cf999e9e2c2625a911e9b", null ]
 ];

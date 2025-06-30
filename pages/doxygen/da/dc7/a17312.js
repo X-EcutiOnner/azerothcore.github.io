@@ -1,6 +1,6 @@
 var a17312 =
 [
-    [ "HandleScript", "da/dc7/a17312.html#acd11d50f398857dc2a24bd2d63e52222", null ],
-    [ "PrepareSpellScript", "da/dc7/a17312.html#a3d218b009c195b6e0fab5152a95da8ad", null ],
-    [ "Register", "da/dc7/a17312.html#ad7f12515dc21ab6b19148370fd491629", null ]
+    [ "VampiricBiteTargetSelector", "da/dc7/a17312.html#ab683a4d67f5ad319e3b680ba5bacc7c6", null ],
+    [ "operator()", "da/dc7/a17312.html#ac16204f50f62cb2568998d1ea137f55d", null ],
+    [ "_source", "da/dc7/a17312.html#af23a69491c915909566249b109b1f0e8", null ]
 ];

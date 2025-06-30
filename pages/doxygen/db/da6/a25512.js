@@ -1,6 +1,6 @@
 var a25512 =
 [
-    [ "HandleProc", "db/da6/a25512.html#a9a38fab6b581e9f9b4e092d7a4ecaebd", null ],
-    [ "PrepareAuraScript", "db/da6/a25512.html#a5299aaeacead013e00e81ec7960528f8", null ],
-    [ "Register", "db/da6/a25512.html#a3b46c5dd891d856e08cbcb9a494f2dd2", null ]
+    [ "HandleScriptEffect", "db/da6/a25512.html#a94bbfc928beab8c8f27d84d1c9ab1558", null ],
+    [ "PrepareSpellScript", "db/da6/a25512.html#a479832175a4c77ce0c0a2f3d3f98f08c", null ],
+    [ "Register", "db/da6/a25512.html#aff9efad03d94958c29c84ea3c0d19fdb", null ]
 ];

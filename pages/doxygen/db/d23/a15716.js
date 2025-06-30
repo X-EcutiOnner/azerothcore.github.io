@@ -1,5 +1,6 @@
 var a15716 =
 [
-    [ "achievement_respect_your_elders", "db/d23/a15716.html#a2fd66ada0ff7482c00b2cb417a12e88e", null ],
-    [ "OnCheck", "db/d23/a15716.html#a770922be3ab19848f7a8f43a82d78b88", null ]
+    [ "go_troll_cageAI", "d8/d4e/a15720.html", "d8/d4e/a15720" ],
+    [ "go_troll_cage", "db/d23/a15716.html#ac571df719edabd9e9ecf5c8bb0e153c2", null ],
+    [ "GetAI", "db/d23/a15716.html#a807f526225dc9a6b27ac64a7f4a3d9b8", null ]
 ];

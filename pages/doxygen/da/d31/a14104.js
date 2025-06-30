@@ -1,7 +1,6 @@
 var a14104 =
 [
-    [ "GetEmptyEntry", "da/d31/a14104.html#a46dfe7b2f8598d24f17868266d1571c6", null ],
-    [ "HandleAfterHit", "da/d31/a14104.html#a4f8ab6e42ddf2188ccca2640363b9925", null ],
-    [ "PrepareSpellScript", "da/d31/a14104.html#a35f0ab4b36df3d9ec1191cbd9ba88c9e", null ],
-    [ "Register", "da/d31/a14104.html#a25e1858e1f81891443f4b7de50a5d495", null ]
+    [ "npc_brewfest_keg_reciver", "da/d31/a14104.html#af12e7608f3f715650e6c265ac18920e4", null ],
+    [ "MoveInLineOfSight", "da/d31/a14104.html#ae719a770598c6347d4ee6b9e77d30eae", null ],
+    [ "sGossipSelect", "da/d31/a14104.html#ad56ba9921e94cbd4ba1d6c1ddd1efe24", null ]
 ];

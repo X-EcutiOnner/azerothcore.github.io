@@ -1,4 +1,4 @@
 var a01907 =
 [
-    [ "ScriptRegistry< MovementHandlerScript >", "de/dca/a01907.html#adecbf467a875ee8886c336d96a2f97dc", null ]
+    [ "ScriptRegistry< AllCreatureScript >", "de/dca/a01907.html#a1fdf1f4f0e165d771b9e1e9064529256", null ]
 ];

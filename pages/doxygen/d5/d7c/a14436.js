@@ -1,6 +1,8 @@
 var a14436 =
 [
-    [ "OnAuraRemove", "d5/d7c/a14436.html#ad16e8b64999771154360afad71454c07", null ],
-    [ "PrepareAuraScript", "d5/d7c/a14436.html#a70963be80861e10ecd093e40b77e7078", null ],
-    [ "Register", "d5/d7c/a14436.html#a7381cbea873fb57485e4539aa478d236", null ]
+    [ "HandleEffectApply", "d5/d7c/a14436.html#a31d4e0da71893a8a673a2ac4f7c26c70", null ],
+    [ "HandleEffectRemove", "d5/d7c/a14436.html#af8661463589640c9550bc62e8f74afcd", null ],
+    [ "PrepareAuraScript", "d5/d7c/a14436.html#a2885eb37d4af8f1e90e2a4967f5acc75", null ],
+    [ "Register", "d5/d7c/a14436.html#ada4a148e0b50f5853eaf02c465f6e876", null ],
+    [ "torchGUID", "d5/d7c/a14436.html#a8ccf51241d3792c8c36d983bf471167e", null ]
 ];

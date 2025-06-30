@@ -1,7 +1,11 @@
 var a15916 =
 [
-    [ "DelayedTalk", "dc/d5d/a15916.html#a8a7ea9e6ddebd73996cfe8d9723276bc", null ],
-    [ "Execute", "dc/d5d/a15916.html#a88c1915e73bcbd8ec253a537c416caf7", null ],
-    [ "_owner", "dc/d5d/a15916.html#a9d13769bb3fbaed32919fc919da35006", null ],
-    [ "_talkId", "dc/d5d/a15916.html#a3f3a1688a36807c653a5d071dd2bb389", null ]
+    [ "boss_sartharion_tenebronAI", "dc/d5d/a15916.html#a9996fce9320390ead967ad82bcef9554", null ],
+    [ "ClearInstance", "dc/d5d/a15916.html#af9e0459fff845bf4f6e53d06e4a9447f", null ],
+    [ "ExecuteEvent", "dc/d5d/a15916.html#a6a7f8255aa1dcbb979354467d0e6949d", null ],
+    [ "HandleExtraEvent", "dc/d5d/a15916.html#ad78a939f0584b775e29341ff08f0eee1", null ],
+    [ "JustDied", "dc/d5d/a15916.html#ac3e03263a174dd147854fa6d714ec003", null ],
+    [ "JustSummoned", "dc/d5d/a15916.html#a50d000b322e3d3a61cc02dea96c2979d", null ],
+    [ "Reset", "dc/d5d/a15916.html#a1aa8277ddc91989ed7480d4221a6e534", null ],
+    [ "summons2", "dc/d5d/a15916.html#a5060b01175ece5ad782e96bdf3d2c82d", null ]
 ];

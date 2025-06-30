@@ -1,8 +1,9 @@
 var a07164 =
 [
-    [ "nbTowerCannonBottom", "d1/de9/a07164.html#a06e8dcf63efd928b72f3ec7d433ccb89", null ],
-    [ "nbTurretTop", "d1/de9/a07164.html#a5a728dccad89da190131cd93b62390b7", null ],
-    [ "TowerCannonBottom", "d1/de9/a07164.html#a21fa09356b3349bf45865aa3f0920268", null ],
-    [ "towerEntry", "d1/de9/a07164.html#a37e171a06a6e7bf5c0832417c597c2e1", null ],
-    [ "TurretTop", "d1/de9/a07164.html#a6849ba6967fa275950da9fec16df9bec", null ]
+    [ "entryAlliance", "d1/de9/a07164.html#a0e5dba26d6d335a9d1e5f40e737acddd", null ],
+    [ "entryHorde", "d1/de9/a07164.html#a374fff4b069e89489395246f378b4900", null ],
+    [ "o", "d1/de9/a07164.html#af8a4ec46795bcdbc77c76302a4cfe639", null ],
+    [ "x", "d1/de9/a07164.html#ab557bbe497fc769b390cf0799b6aaed9", null ],
+    [ "y", "d1/de9/a07164.html#a44a8f3fd8d3cac7cfe61471d8b785ad4", null ],
+    [ "z", "d1/de9/a07164.html#adebb903a00687e17d9088f5da2c97f4a", null ]
 ];

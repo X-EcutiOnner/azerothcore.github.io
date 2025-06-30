@@ -1,6 +1,6 @@
 var a22936 =
 [
-    [ "HandleSchoolDamage", "d0/dc7/a22936.html#ab105ff1efd0fe20585ac3dc6c60f81a2", null ],
-    [ "PrepareSpellScript", "d0/dc7/a22936.html#a0296aa3d00d0d12e213d95b8520c50dc", null ],
-    [ "Register", "d0/dc7/a22936.html#a4cd7135ff9e4ef605635f1eccc01ba65", null ]
+    [ "ShadowOfDeathSelector", "d0/dc7/a22936.html#a1190094fbde74ccffd954fea742ab0ae", null ],
+    [ "operator()", "d0/dc7/a22936.html#a3c91b315ce6d6c523d4bdb8a8206a3c8", null ],
+    [ "_tank", "d0/dc7/a22936.html#adc238645eec306e00918dbab05549fc8", null ]
 ];

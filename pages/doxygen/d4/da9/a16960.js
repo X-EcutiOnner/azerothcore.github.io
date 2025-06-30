@@ -1,9 +1,8 @@
 var a16960 =
 [
-    [ "npc_pos_after_first_bossAI", "d4/da9/a16960.html#a622df71849da1e10e2b73068f0adea98", null ],
-    [ "MovementInform", "d4/da9/a16960.html#a1751506f27d4b2fc9ddb2f8a6a82dc9e", null ],
-    [ "Reset", "d4/da9/a16960.html#ad248aa4cbfbd24e4fe47b99b38c4dd8c", null ],
-    [ "UpdateAI", "d4/da9/a16960.html#ac45111887fd7833a041355658dd26158", null ],
-    [ "events", "d4/da9/a16960.html#a3aaf303ee389a10edc4feeec7c38a2a6", null ],
-    [ "pInstance", "d4/da9/a16960.html#a17a0e1e7a35f608a9ec86ce4e959b52e", null ]
+    [ "boss_krickAI", "d4/da9/a16960.html#ac085bae551fd4d9e48b05481a86cca9f", null ],
+    [ "DoAction", "d4/da9/a16960.html#ace248881cb71c1e91f33ff93489b6f3f", null ],
+    [ "UpdateAI", "d4/da9/a16960.html#aea8dd89c8e4de1bebd94a26ead852119", null ],
+    [ "events", "d4/da9/a16960.html#a75349e2fc35832e7944fa4f772380baa", null ],
+    [ "pInstance", "d4/da9/a16960.html#aecc2cdee32c4e4fa14ecaeca9b3eb65f", null ]
 ];

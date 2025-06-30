@@ -1,5 +1,6 @@
 var a18328 =
 [
-    [ "achievement_been_waiting_long_time", "d7/dff/a18328.html#a839ec8cb50512bbae7125ead3ed35aec", null ],
-    [ "OnCheck", "d7/dff/a18328.html#a5e72304220d3a649d2182cb287215da6", null ]
+    [ "npc_spirit_wardenAI", "d0/dd0/a18332.html", "d0/dd0/a18332" ],
+    [ "npc_spirit_warden", "d7/dff/a18328.html#ab585d20eadb7876752d731702db44293", null ],
+    [ "GetAI", "d7/dff/a18328.html#ab33ab494d7fee64eed7c75464ce60489", null ]
 ];

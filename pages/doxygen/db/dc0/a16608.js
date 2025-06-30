@@ -1,6 +1,6 @@
 var a16608 =
 [
-    [ "HandleScript", "db/dc0/a16608.html#a4786e0c38f03f7e671174d0641526681", null ],
-    [ "PrepareSpellScript", "db/dc0/a16608.html#a7d260468f409a7fb41a39f80db5f9d63", null ],
-    [ "Register", "db/dc0/a16608.html#a943117bfb56b846e99d04bd9a348af8d", null ]
+    [ "HandleDummy", "db/dc0/a16608.html#a84fb6e08a523f375cd8bc43e9cc73eab", null ],
+    [ "PrepareSpellScript", "db/dc0/a16608.html#accbf8f40b1ab123a2be81a514c94c836", null ],
+    [ "Register", "db/dc0/a16608.html#a1805904d5e50bbf5aeccf37d2cadd09e", null ]
 ];

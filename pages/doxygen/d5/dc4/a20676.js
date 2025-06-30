@@ -1,6 +1,6 @@
 var a20676 =
 [
-    [ "PrepareSpellScript", "d5/dc4/a20676.html#ac84dedbb3343c15e32ae3c57d80a4561", null ],
-    [ "Register", "d5/dc4/a20676.html#a27c5665b64c50df5d9c67d5136ab7567", null ],
-    [ "SelectTarget", "d5/dc4/a20676.html#a0f9c85168ad0c0fda61f4bb1e97bd518", null ]
+    [ "npc_xt002_scrapbotAI", "d2/da6/a20680.html", "d2/da6/a20680" ],
+    [ "npc_xt002_scrapbot", "d5/dc4/a20676.html#accfd75266d058af3856bdb625728c18d", null ],
+    [ "GetAI", "d5/dc4/a20676.html#aa3639c32c94f0e031ba774e4eed659cd", null ]
 ];

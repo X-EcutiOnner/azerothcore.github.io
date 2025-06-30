@@ -1,6 +1,9 @@
 var a17632 =
 [
-    [ "boss_lady_deathwhisperAI", "da/dbf/a17636.html", "da/dbf/a17636" ],
-    [ "boss_lady_deathwhisper", "d7/d31/a17632.html#a979411cb834611b1239f3bf9058d316d", null ],
-    [ "GetAI", "d7/d31/a17632.html#ac0b86fee1e2e9dbf794ed1b53aab11d2", null ]
+    [ "CalculateDamage", "d7/d31/a17632.html#a6a9e90d9463825b38b69afc234b35b39", null ],
+    [ "PrepareSpellScript", "d7/d31/a17632.html#ae7a8d0cc36708b11f8eefebd5df0a980", null ],
+    [ "Register", "d7/d31/a17632.html#a2722814a55469e5bae572766ed36309b", null ],
+    [ "RemoveEnergy", "d7/d31/a17632.html#a0f16b4b35985d658dc185aa88ab099ed", null ],
+    [ "StoreEnergy", "d7/d31/a17632.html#aca3ecc5a6219cb3813f17be404142c6d", null ],
+    [ "_energyLeft", "d7/d31/a17632.html#af082a763f6524aeb5ae2eb3c82fd12e5", null ]
 ];

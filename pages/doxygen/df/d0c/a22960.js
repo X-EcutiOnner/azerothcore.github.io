@@ -1,8 +1,7 @@
 var a22960 =
 [
-    [ "CalcPeriodic", "df/d0c/a22960.html#aad87c25b9b3255a4871bec39d9787299", null ],
-    [ "PrepareAuraScript", "df/d0c/a22960.html#a7494c41e41ffc55811c57208f80c7eb6", null ],
-    [ "Register", "df/d0c/a22960.html#acce25abc58a29dfe5a5287a8b00242ae", null ],
-    [ "Update", "df/d0c/a22960.html#a4e2a5a2d666419ccbb0ca71670332b8c", null ],
-    [ "Validate", "df/d0c/a22960.html#ae4f7bfb1cd95666acada217173876352", null ]
+    [ "HandleEffectApply", "df/d0c/a22960.html#aff0dbed165d0e751db725f7eaaf76a11", null ],
+    [ "Load", "df/d0c/a22960.html#a1dfb5b2004041e7165cc9f5deb4b1e82", null ],
+    [ "PrepareAuraScript", "df/d0c/a22960.html#a3dbd01e52ed2a630f0c014f941fc1b5e", null ],
+    [ "Register", "df/d0c/a22960.html#a647f21e79e3fef72cf84439fc84e708f", null ]
 ];

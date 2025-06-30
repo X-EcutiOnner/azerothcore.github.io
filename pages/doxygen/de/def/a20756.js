@@ -1,7 +1,6 @@
 var a20756 =
 [
-    [ "boss_yoggsaron_corruptor_tentacleAI", "de/def/a20756.html#a5f8fbd8ac772fad79f809de4d3128574", null ],
-    [ "DoAction", "de/def/a20756.html#abac26b3be775eea734403be36cbed4d2", null ],
-    [ "SelectCorruptionTarget", "de/def/a20756.html#a1d61b34d31794cd2bdcddfe91dc1103e", null ],
-    [ "UpdateAI", "de/def/a20756.html#a0269d1dc655af5680d7074cb093740b8", null ]
+    [ "boss_yoggsaron_cloudAI", "d6/d81/a20760.html", "d6/d81/a20760" ],
+    [ "boss_yoggsaron_cloud", "de/def/a20756.html#ab52cc1fa8b45b70dde340b9f463ef2f1", null ],
+    [ "GetAI", "de/def/a20756.html#a2005f062eb9d78c7b09b045eba570b98", null ]
 ];

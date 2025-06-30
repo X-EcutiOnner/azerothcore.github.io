@@ -1,14 +1,9 @@
 var a18732 =
 [
-    [ "npc_icc_vengeful_fleshreaperAI", "dc/d3e/a18732.html#a4a459289a55871990abc0adc4ba8278c", null ],
-    [ "AttackStart", "dc/d3e/a18732.html#a3412c5664c1c1354b615e8f798824b91", null ],
-    [ "JustReachedHome", "dc/d3e/a18732.html#a161fd53eca71cb0a3b8fb8d483b7e49b", null ],
-    [ "MoveInLineOfSight", "dc/d3e/a18732.html#acfbaa73491940a916f8d0a0b852bcc61", null ],
-    [ "MovementInform", "dc/d3e/a18732.html#ad14a1d8cfe749d54a801a3902aa49e1d", null ],
-    [ "Reset", "dc/d3e/a18732.html#aa60d5d2d534aa6e9fe7c77703bab5fce", null ],
-    [ "UpdateAI", "dc/d3e/a18732.html#a8946357cad01050641bcdf51edce192f", null ],
-    [ "currPipeWP", "dc/d3e/a18732.html#af8a298ccbd6f22a0a4416ed6cb082e67", null ],
-    [ "events", "dc/d3e/a18732.html#aa39171910383c74583f24663d6c23f3b", null ],
-    [ "forward", "dc/d3e/a18732.html#a28eb6d3f007f45b9db4eafafe71b779c", null ],
-    [ "needMove", "dc/d3e/a18732.html#ae08f9c54d08b0eae5ad71d69f06a6544", null ]
+    [ "npc_icc_skybreaker_marksmanAI", "dc/d3e/a18732.html#af6d3e79627102acbf764aa7ee8c7433b", null ],
+    [ "AttackStart", "dc/d3e/a18732.html#a82403eecdea07bfc8ed9509eb5a30dcd", null ],
+    [ "JustEngagedWith", "dc/d3e/a18732.html#a7648c626ded6d3abef798b46c77f991d", null ],
+    [ "Reset", "dc/d3e/a18732.html#acaaac3624e262d89920fa8a7da9e3cc0", null ],
+    [ "UpdateAI", "dc/d3e/a18732.html#affcd7c16fe4a50a0743c0f9bb5a9d321", null ],
+    [ "events", "dc/d3e/a18732.html#a5aaffc1e78c255c95893be1537e520d6", null ]
 ];

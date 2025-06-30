@@ -1,7 +1,7 @@
 var a22920 =
 [
-    [ "HandleEffectApply", "df/d96/a22920.html#aff0dbed165d0e751db725f7eaaf76a11", null ],
-    [ "Load", "df/d96/a22920.html#a1dfb5b2004041e7165cc9f5deb4b1e82", null ],
-    [ "PrepareAuraScript", "df/d96/a22920.html#a3dbd01e52ed2a630f0c014f941fc1b5e", null ],
-    [ "Register", "df/d96/a22920.html#a647f21e79e3fef72cf84439fc84e708f", null ]
+    [ "HandleEffectApply", "df/d96/a22920.html#a5857dbdb088de67cc15717dca0c5f7b5", null ],
+    [ "HandleEffectRemove", "df/d96/a22920.html#aab0536f7f73d9e354a526f56f587fff0", null ],
+    [ "PrepareAuraScript", "df/d96/a22920.html#a80a6b51bc6c1457edc0fb8a0089513d1", null ],
+    [ "Register", "df/d96/a22920.html#a194ff31e6168bca23881f3804154d479", null ]
 ];

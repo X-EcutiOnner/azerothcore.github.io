@@ -1,8 +1,22 @@
 var a19252 =
 [
-    [ "npc_crystal_spike", "dd/d59/a19252.html#aa6a6e12aba63c589e71b5ca28b924fd4", null ],
-    [ "Reset", "dd/d59/a19252.html#a8cdca606ce482147d87ad5248665099e", null ],
-    [ "UpdateAI", "dd/d59/a19252.html#abc04c8fba427c12630b4faf1d39bdb32", null ],
-    [ "_damageTimer", "dd/d59/a19252.html#a36c70729a0c0281d467f870bfcde80ae", null ],
-    [ "_gameObjectGUID", "dd/d59/a19252.html#a0c0e9a1883cee51201b039947b5bacf3", null ]
+    [ "instance_eye_of_eternity_InstanceMapScript", "dd/d59/a19252.html#a5d98695d6090d3805de4c26db0fb2d23", null ],
+    [ "CheckAchievementCriteriaMeet", "dd/d59/a19252.html#a91fd1a35177ce6f29167ec20701e5ea6", null ],
+    [ "GetGuidData", "dd/d59/a19252.html#a06adfadbd168118756fa457cfa814cf1", null ],
+    [ "Initialize", "dd/d59/a19252.html#a9febece0b333f19b00ed3672bc24acf9", null ],
+    [ "IsEncounterInProgress", "dd/d59/a19252.html#aa7a833aa22e9f99c10bc3f9c6b06fc9b", null ],
+    [ "OnCreatureCreate", "dd/d59/a19252.html#abe14c696da1e452c2d79f20e4a729c12", null ],
+    [ "OnGameObjectCreate", "dd/d59/a19252.html#accc79892118cce948568d7810ce64e23", null ],
+    [ "OnPlayerEnter", "dd/d59/a19252.html#ae196d774c296cd8230946418832d158a", null ],
+    [ "ProcessEvent", "dd/d59/a19252.html#a70b9ae907b6fe2a28333ea7f1a0999d9", null ],
+    [ "ReadSaveDataMore", "dd/d59/a19252.html#a424b9a865e3d4f7953990b072599e98c", null ],
+    [ "SetData", "dd/d59/a19252.html#a7795b115419ed6f74735535c2c9f3b74", null ],
+    [ "WriteSaveDataMore", "dd/d59/a19252.html#ab03a08d80116947107b0279fa27d92f6", null ],
+    [ "bPokeAchiev", "dd/d59/a19252.html#ae9ac88ac934fa86e28f5d4905b8defba", null ],
+    [ "EncounterStatus", "dd/d59/a19252.html#acb95c03060aac2c7b022ffe9c09da7b2", null ],
+    [ "GO_ExitPortalGUID", "dd/d59/a19252.html#a0ecf94e919fe425ea283a7929f33e96f", null ],
+    [ "GO_IrisGUID", "dd/d59/a19252.html#a34fe2223ca6b0572357cc0c9f0a7ef52", null ],
+    [ "GO_PlatformGUID", "dd/d59/a19252.html#a26cac92965b6eb53d5ceb0bb1a92773d", null ],
+    [ "NPC_MalygosGUID", "dd/d59/a19252.html#a90666367e40a567c1adea7d444004db8", null ],
+    [ "str_data", "dd/d59/a19252.html#a00839e8d0b4bc3673f576990dfc932cc", null ]
 ];

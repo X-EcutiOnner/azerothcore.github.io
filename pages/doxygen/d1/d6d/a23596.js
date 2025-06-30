@@ -1,5 +1,6 @@
 var a23596 =
 [
-    [ "at_shattered_halls_execution", "d1/d6d/a23596.html#a73f1d1f03960acd070b7996257f7a526", null ],
-    [ "OnTrigger", "d1/d6d/a23596.html#ad35f9736371b091dc0780e5bf0caf9f5", null ]
+    [ "boss_porung", "d1/d6d/a23596.html#acef31010461bbf716ac9b13d950807ee", null ],
+    [ "JustDied", "d1/d6d/a23596.html#ac5c36f875692f49d1d0195694d85e5c1", null ],
+    [ "JustEngagedWith", "d1/d6d/a23596.html#a9d44f51e4710e01bdc7d345ff3bba9dc", null ]
 ];

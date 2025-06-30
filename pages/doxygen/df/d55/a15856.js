@@ -1,25 +1,11 @@
 var a15856 =
 [
-    [ "boss_sartharionAI", "df/d55/a15856.html#aea51fa7b0e55c9ae635a95f7a1aea161", null ],
-    [ "DamageTaken", "df/d55/a15856.html#a0f16f9865159338c46e140c01650a728", null ],
-    [ "DoAction", "df/d55/a15856.html#af3c28d7eff6df494bbca6156df5fb014", null ],
-    [ "GetData", "df/d55/a15856.html#a6d45699d2efacdc0aca88dba3f67d20a", null ],
-    [ "IsTargetInBounds", "df/d55/a15856.html#a5ed942da2e53ecc63ec15fa8cf8c3325", null ],
-    [ "JustDied", "df/d55/a15856.html#ac0a2915976f7dfb21786c161d5e43d3f", null ],
-    [ "JustEngagedWith", "df/d55/a15856.html#a15c50a40ae2a6caa873993c6e330600c", null ],
-    [ "JustSummoned", "df/d55/a15856.html#ac5dc745f044bdf673b7f92b194063d94", null ],
-    [ "KilledUnit", "df/d55/a15856.html#a8502d5c79b7baac2f9a68349e99b7b16", null ],
-    [ "Reset", "df/d55/a15856.html#ab72889e00eb1fad659f807620e81e23e", null ],
-    [ "RespawnDragons", "df/d55/a15856.html#a5014e6aebdda3b84cd22fd2f66ed691b", null ],
-    [ "SendLavaWaves", "df/d55/a15856.html#a14384c3853570d0f7580d72d0008b986", null ],
-    [ "SetData", "df/d55/a15856.html#ad992cf36966069dc00d5509a54445213", null ],
-    [ "SummonLavaWaves", "df/d55/a15856.html#aadd3b8f29b49b67685d67036c5f2775f", null ],
-    [ "SummonStartingTriggers", "df/d55/a15856.html#a17f64c07e9c83c7e25bf9fba5b9f3ba4", null ],
-    [ "UpdateAI", "df/d55/a15856.html#a7aaca15038bf53ff3baaeb39c7713bff", null ],
-    [ "below11PctReached", "df/d55/a15856.html#ae838ffe0fdee72f4d4b1c02a9cbde949", null ],
-    [ "dragonsCount", "df/d55/a15856.html#a3bb9defa2a2a3acc6caadaaa361027ee", null ],
-    [ "extraEvents", "df/d55/a15856.html#a4d2e7a5aae63664e437c1e9ac22846cb", null ],
-    [ "lastLavaSide", "df/d55/a15856.html#ab9c3a5d19c966e547328ce2a28674069", null ],
-    [ "usedBerserk", "df/d55/a15856.html#a4790e98b3e8d02021b00e14aafec3aff", null ],
-    [ "volcanoBlows", "df/d55/a15856.html#a1d6e306084fb64742d28beb1f65ef338", null ]
+    [ "npc_anub_ar_crusherAI", "df/d55/a15856.html#a35866e3cad208bb70bbc5a146301c28d", null ],
+    [ "DoAction", "df/d55/a15856.html#ac11795153811d2465b106bc1fdea508a", null ],
+    [ "JustEngagedWith", "df/d55/a15856.html#a02d3b78427bc247cde28620470c43331", null ],
+    [ "JustSummoned", "df/d55/a15856.html#a6d484f8d3f54bb7c7ad572027501f2ab", null ],
+    [ "Reset", "df/d55/a15856.html#a85f60e0733ac4ccd8f7941e8df0f88d9", null ],
+    [ "UpdateAI", "df/d55/a15856.html#aaeda7e00410766857ee4bd73a8e15b89", null ],
+    [ "events", "df/d55/a15856.html#ad4a2111d4301f0b928fbd01b6783fb6c", null ],
+    [ "summons", "df/d55/a15856.html#a3136ecd40bf228fade0e40d3c5d22e5d", null ]
 ];

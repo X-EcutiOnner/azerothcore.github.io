@@ -1,6 +1,6 @@
 var a17900 =
 [
-    [ "CheckTarget", "dd/dd4/a17900.html#afce64ba75f8370cab6b8f1e561b10587", null ],
-    [ "PrepareSpellScript", "dd/dd4/a17900.html#a6b6eaf3e761f2c173c2e72f46b25595a", null ],
-    [ "Register", "dd/dd4/a17900.html#a6964ca668f02a8b5b1c3015503a41eef", null ]
+    [ "boss_rotfaceAI", "d1/d0e/a17904.html", "d1/d0e/a17904" ],
+    [ "boss_rotface", "dd/dd4/a17900.html#a8896f5ed16c728d72a123b2e92a174fb", null ],
+    [ "GetAI", "dd/dd4/a17900.html#a8a3ff9ef99da7d72ce2f7827bfc2564b", null ]
 ];

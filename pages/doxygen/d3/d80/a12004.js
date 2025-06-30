@@ -1,6 +1,8 @@
 var a12004 =
 [
-    [ "boss_overlordwyrmthalakAI", "d5/dcf/a12008.html", "d5/dcf/a12008" ],
-    [ "boss_overlord_wyrmthalak", "d3/d80/a12004.html#a2af6edf776c189d43cb82cc35bb838fe", null ],
-    [ "GetAI", "d3/d80/a12004.html#a56de538f25cbabc9346b987dbfe680a1", null ]
+    [ "boss_halyconAI", "d3/d80/a12004.html#acc110d5d802fc0da3ea630f667167748", null ],
+    [ "JustDied", "d3/d80/a12004.html#a7d71e135a8edf3d3b99ccfcb3b071eaa", null ],
+    [ "JustEngagedWith", "d3/d80/a12004.html#a5735567462167fffa4d01800d696296e", null ],
+    [ "Reset", "d3/d80/a12004.html#ac5622260b0b40cb584cf3037521cc5b8", null ],
+    [ "UpdateAI", "d3/d80/a12004.html#a6e72949b63de3d32d8369c7122b6060d", null ]
 ];

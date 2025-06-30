@@ -1,6 +1,5 @@
 var a20476 =
 [
-    [ "npc_ulduar_dark_rune_watcherAI", "d6/dfe/a20480.html", "d6/dfe/a20480" ],
-    [ "npc_ulduar_dark_rune_watcher", "d5/d7f/a20476.html#a0536c61d70d5c6d61496fc1720d37950", null ],
-    [ "GetAI", "d5/d7f/a20476.html#a6677d6dc0d07b508e921064f3299b302", null ]
+    [ "achievement_mimiron_set_up_us_the_bomb_12", "d5/d7f/a20476.html#adc7f5769894c59710fa70604878b1e2c", null ],
+    [ "OnCheck", "d5/d7f/a20476.html#ad604fa41b8c8d34b996dbdc709faac66", null ]
 ];

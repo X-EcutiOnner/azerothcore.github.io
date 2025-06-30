@@ -1,5 +1,6 @@
 var a14976 =
 [
-    [ "boss_yauj", "da/d70/a14976.html#a15ab7b6b35d29fb1552b11586163320e", null ],
-    [ "JustEngagedWith", "da/d70/a14976.html#a94a2fa960e6924bde9ba6934a56ed684", null ]
+    [ "FilterTargets", "da/d70/a14976.html#ab0cd088c750e9538e2087f58fdaac20e", null ],
+    [ "PrepareSpellScript", "da/d70/a14976.html#ae252cbce0ebc63eb4e54bedfc88640ad", null ],
+    [ "Register", "da/d70/a14976.html#a3168a3f97ddb38b261a0730405ba27db", null ]
 ];

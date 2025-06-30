@@ -1,7 +1,6 @@
 var a05168 =
 [
-    [ "Secret", "df/d18/a05168.html#aae38427994c1f4ddf3838c4e1f3f7e03", null ],
-    [ "GenerateToken", "df/d18/a05168.html#a44829d44e78247991d9c3dde270cab5c", null ],
-    [ "ValidateToken", "df/d18/a05168.html#ab6b27542814e577106ad587a5807d663", null ],
-    [ "RECOMMENDED_SECRET_LENGTH", "df/d18/a05168.html#a885fc6c1a5bda166416f161ea202eb72", null ]
+    [ "HashCreator", "df/d18/a05168.html#a03a4f6e31f0cb838b857997a0272f90b", null ],
+    [ "DestroyCTX", "df/d18/a05168.html#a7e607b03e0758d10156e201e8d601db4", null ],
+    [ "MakeCTX", "df/d18/a05168.html#a59487cdc54d416f8b2a88eb54ae21c8d", null ]
 ];

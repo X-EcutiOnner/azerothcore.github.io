@@ -1,7 +1,6 @@
 var a27520 =
 [
-    [ "npc_steam_tonkAI", "d4/d2f/a27520.html#a64bc74af412304d50526e5c93e01a333", null ],
-    [ "JustEngagedWith", "d4/d2f/a27520.html#a95b023adf0a2e62788e0d5646b17b319", null ],
-    [ "OnPossess", "d4/d2f/a27520.html#a954208c1a9826ae84a7402f59e1d7055", null ],
-    [ "Reset", "d4/d2f/a27520.html#a5c76625843b30302b2af0a4ae8b85bd2", null ]
+    [ "npc_injured_patientAI", "df/d35/a27524.html", "df/d35/a27524" ],
+    [ "npc_injured_patient", "d4/d2f/a27520.html#a0b7ef214aa1b20df088dee0976c73783", null ],
+    [ "GetAI", "d4/d2f/a27520.html#a0c042bb81e684f903d28d7879af99d4a", null ]
 ];

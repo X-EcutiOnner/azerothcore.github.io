@@ -1,6 +1,6 @@
 var a26396 =
 [
-    [ "PrepareSpellScript", "df/dd1/a26396.html#a882d87de64d0e2c64b17c26d9e40d616", null ],
-    [ "Register", "df/dd1/a26396.html#ab58938808e460e843e42f2b6fa644e8a", null ],
-    [ "SetDest", "df/dd1/a26396.html#ab87932c73a2e53647bda584aeb58f789", null ]
+    [ "HandleDummy", "df/dd1/a26396.html#abac8aa528d6d83748cf4cdbdaa8313f6", null ],
+    [ "PrepareSpellScript", "df/dd1/a26396.html#ae80dda98f66c1fbaa37741ffd52a1108", null ],
+    [ "Register", "df/dd1/a26396.html#a90fbc5d1b22cbc59550a430a63c08032", null ]
 ];

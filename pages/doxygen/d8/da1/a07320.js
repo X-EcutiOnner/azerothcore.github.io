@@ -1,9 +1,5 @@
 var a07320 =
 [
-    [ "CapturePointInfo", "d8/da1/a07320.html#a47ba3bbadd15909726e87dc5adc67686", null ],
-    [ "_captured", "d8/da1/a07320.html#aac26833d9951853183095b3985254e03", null ],
-    [ "_iconCapture", "d8/da1/a07320.html#a58adc22a7246dd7362efcf9d9a1891ad", null ],
-    [ "_iconNone", "d8/da1/a07320.html#a43228afe59b8fa004d2c740dd6262f8e", null ],
-    [ "_ownerTeamId", "d8/da1/a07320.html#aad378d1b07f1ef8c45b0bb1bcce7a028", null ],
-    [ "_state", "d8/da1/a07320.html#a98cb154218423e295b8007c62222831c", null ]
+    [ "CanAnnounce", "d8/da1/a07320.html#ab791cf85fc2e08330d3f777e1797c01c", null ],
+    [ "instance", "d8/da1/a07320.html#ad76f570ce82ffcde5484e612c10c6f59", null ]
 ];

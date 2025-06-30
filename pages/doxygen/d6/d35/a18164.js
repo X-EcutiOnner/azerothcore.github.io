@@ -1,7 +1,6 @@
 var a18164 =
 [
-    [ "OnRemove", "d6/d35/a18164.html#a106935d92ef6ba7909c57264e26b5522", null ],
-    [ "PrepareAuraScript", "d6/d35/a18164.html#a8ce8f5d4ebd4279fdfd192ba3b01b894", null ],
-    [ "Register", "d6/d35/a18164.html#a095e7530a0f2e7a76dc8bd3f75759089", null ],
-    [ "Validate", "d6/d35/a18164.html#a0b4283bdb19a4ceef505aab41c99abe8", null ]
+    [ "npc_tirion_fordringAI", "d3/d75/a18168.html", "d3/d75/a18168" ],
+    [ "npc_tirion_fordring_tft", "d6/d35/a18164.html#a04036d958e7ac643c9ba8d9073bca404", null ],
+    [ "GetAI", "d6/d35/a18164.html#a41dcfa415831091531cbf46e946f442d", null ]
 ];

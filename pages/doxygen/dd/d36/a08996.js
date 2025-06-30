@@ -1,6 +1,6 @@
 var a08996 =
 [
-    [ "lang_id", "dd/d36/a08996.html#a1fa900a467834103ac595a8a96dd28c0", null ],
-    [ "skill_id", "dd/d36/a08996.html#a37ffc91876a998fe354ca1b7dffc512a", null ],
-    [ "spell_id", "dd/d36/a08996.html#ac0acb5dfb8af32b382b3b51db4daa0f0", null ]
+    [ "EmoteDelay", "dd/d36/a08996.html#a053adbedc95026b192360e13d32c9401", null ],
+    [ "EmoteType", "dd/d36/a08996.html#aa5189cb250b3f46086ecd69dee23414b", null ],
+    [ "Greeting", "dd/d36/a08996.html#a84aa5fced9b8989487d1468c4eccb976", null ]
 ];

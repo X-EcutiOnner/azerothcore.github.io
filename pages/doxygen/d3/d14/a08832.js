@@ -1,9 +1,10 @@
 var a08832 =
 [
-    [ "VisibleChangesNotifier", "d3/d14/a08832.html#aacb0239ed44c9705eeeebf5ab198f7e0", null ],
-    [ "Visit", "d3/d14/a08832.html#abfc60c91aaa823cb99cdfc17a287e23e", null ],
-    [ "Visit", "d3/d14/a08832.html#aaf1dab341f34f75e56da63370af0ecd3", null ],
-    [ "Visit", "d3/d14/a08832.html#a103a8ef30ce4c0753913b6ecb6cf4e92", null ],
-    [ "Visit", "d3/d14/a08832.html#a6e856249a08d0a90b9d19f2449f30fba", null ],
-    [ "i_object", "d3/d14/a08832.html#a496b982d081957cfc288f29b99b8739d", null ]
+    [ "mapId", "d3/d14/a08832.html#a828d8b93918ea8ba695e0c5e597c855d", null ],
+    [ "name", "d3/d14/a08832.html#a9dd0dacb5825cf3afd117c22ac5ebf21", null ],
+    [ "orientation", "d3/d14/a08832.html#a49b4a83290dbe39ab0be79a8ae2f03a6", null ],
+    [ "position_x", "d3/d14/a08832.html#a65e7390a1dbb615a155c4f163b830e11", null ],
+    [ "position_y", "d3/d14/a08832.html#a3d3f398cd23566dce721fefeae7af33c", null ],
+    [ "position_z", "d3/d14/a08832.html#a9ff9a74b00016df6df7c27ebce8ff3fb", null ],
+    [ "wnameLow", "d3/d14/a08832.html#ac63cbb609eadc584fe61d33fb709c4d6", null ]
 ];

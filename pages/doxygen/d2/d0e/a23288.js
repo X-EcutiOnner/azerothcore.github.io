@@ -1,6 +1,7 @@
 var a23288 =
 [
-    [ "HandleAfterRemove", "d2/d0e/a23288.html#a74610b06095572aa2c898cd84e0fb229", null ],
-    [ "PrepareAuraScript", "d2/d0e/a23288.html#ac0d686490ff37810e0116dea4d0b6077", null ],
-    [ "Register", "d2/d0e/a23288.html#aad72f4aaa19f92f7a71241311f5d0582", null ]
+    [ "HandleScriptEffect", "d2/d0e/a23288.html#ace1bb0dd5a76aa75038060af16b2e09f", null ],
+    [ "PrepareSpellScript", "d2/d0e/a23288.html#ab3f6d24643b75482d5f96779a5bdda11", null ],
+    [ "Register", "d2/d0e/a23288.html#a14772c25b70078c0034b8de17de5b77a", null ],
+    [ "Validate", "d2/d0e/a23288.html#a8318385367bf6c6b09e0978c461f5d59", null ]
 ];

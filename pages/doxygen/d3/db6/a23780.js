@@ -1,6 +1,5 @@
 var a23780 =
 [
-    [ "HandleScriptEffect", "d3/db6/a23780.html#a724e857ad8604ef4546c8823bb7bd632", null ],
-    [ "PrepareSpellScript", "d3/db6/a23780.html#a7a67cdf9c3c8017fd065549a499831fc", null ],
-    [ "Register", "d3/db6/a23780.html#aadbf9ca8c4b5fa0f72b967f059ee22ab", null ]
+    [ "npc_telonicus", "d3/db6/a23780.html#af8ba6be2d39463725bbbaf7770319a93", null ],
+    [ "ScheduleEvents", "d3/db6/a23780.html#a49501a607aeb901aa99e94d9dd0e161b", null ]
 ];

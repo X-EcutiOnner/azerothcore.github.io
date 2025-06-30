@@ -1,7 +1,7 @@
 var a16336 =
 [
-    [ "npc_toc_mageAI", "d7/da0/a16336.html#a188831088c892f68cef7498468b24899", null ],
-    [ "myCanCast", "d7/da0/a16336.html#aaf7fd7b143a4eb410465c7cb34c32d2f", null ],
-    [ "UpdateAI", "d7/da0/a16336.html#a0f4393341a6c565aef2c0b79a39c0699", null ],
-    [ "events", "d7/da0/a16336.html#ab1910ce98f3d1b14e45acba22782d536", null ]
+    [ "npc_toc_druidAI", "d7/da0/a16336.html#adb456f1f93be5329174a3199c9092825", null ],
+    [ "myCanCast", "d7/da0/a16336.html#af82baa22ae49ba268f494cb07287845e", null ],
+    [ "UpdateAI", "d7/da0/a16336.html#a82a22a557db647f73690d8838a635eaf", null ],
+    [ "events", "d7/da0/a16336.html#a6bb27baf17f0286db3222287a8073bd7", null ]
 ];

@@ -1,9 +1,7 @@
 var a23932 =
 [
-    [ "npc_aeranasAI", "dc/d50/a23932.html#a2142cebc84e64919fa5c2ef630453282", null ],
-    [ "Reset", "dc/d50/a23932.html#a2c1bbe079c065745782adfa13b030515", null ],
-    [ "UpdateAI", "dc/d50/a23932.html#ae192a3b38c0ec65cddfce3b95d15555a", null ],
-    [ "envelopingWinds_Timer", "dc/d50/a23932.html#a566b5d648abe630efc191f9d6d4938a2", null ],
-    [ "faction_Timer", "dc/d50/a23932.html#aac071887c100f91cc7ffc545ea6439d9", null ],
-    [ "shock_Timer", "dc/d50/a23932.html#aba8ad016f0e470b07163fef07b603380", null ]
+    [ "npc_daranelleAI", "dc/d50/a23932.html#a49eeff6e0aea079a0375a92074227d12", null ],
+    [ "JustEngagedWith", "dc/d50/a23932.html#aeff39dfd84986186057cdaf7632eed4f", null ],
+    [ "MoveInLineOfSight", "dc/d50/a23932.html#a353e27c1485b88f0751a64260898d35b", null ],
+    [ "Reset", "dc/d50/a23932.html#a33b2fbec775257e3ba0bebe37fb86349", null ]
 ];

@@ -1,7 +1,7 @@
 var a22760 =
 [
-    [ "PrepareAuraScript", "d2/d9c/a22760.html#ae6879f1d8c27f19cf3e3ada0b34d568f", null ],
-    [ "ReflectDamage", "d2/d9c/a22760.html#acde2cbf4d196cba1fa2c02393c08fe9f", null ],
-    [ "Register", "d2/d9c/a22760.html#aa1f27d25209f14dd8bf711bc15cb9165", null ],
-    [ "Validate", "d2/d9c/a22760.html#aa730b912aadcde53f6cd94c2a8c99493", null ]
+    [ "VerasEnvenom", "d2/d9c/a22760.html#ac8c5f4fcb63ea5141a71b56324de0b1f", null ],
+    [ "Execute", "d2/d9c/a22760.html#a4b7853bb835cf28aefe2d5b955372d70", null ],
+    [ "_owner", "d2/d9c/a22760.html#af9cf231119ab5592be9829784f20d2e0", null ],
+    [ "_targetGUID", "d2/d9c/a22760.html#a90d62907c775565765fa87903adb94ea", null ]
 ];

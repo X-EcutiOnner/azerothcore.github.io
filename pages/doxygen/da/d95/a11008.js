@@ -1,8 +1,9 @@
 var a11008 =
 [
-    [ "SkillDiscoveryEntry", "da/d95/a11008.html#a54c0f12153c6e63a37e5da44d233b271", null ],
-    [ "SkillDiscoveryEntry", "da/d95/a11008.html#a301cae078fe1943cae045e94dc3d38ad", null ],
-    [ "chance", "da/d95/a11008.html#a71cf2c48937e5a2a3c6dd8c499a860a7", null ],
-    [ "reqSkillValue", "da/d95/a11008.html#a61e0edc8fee1fa4045d846668d08449c", null ],
-    [ "spellId", "da/d95/a11008.html#a75ca40729917317173b2953c8f47f833", null ]
+    [ "EncryptableAndCompressiblePacket", "da/d95/a11008.html#a64eb3fa6b02a6aff486aa2d9a4d09fc6", null ],
+    [ "CompressIfNeeded", "da/d95/a11008.html#a113d89a8f2832c5db01611ff71d2bc73", null ],
+    [ "NeedsCompression", "da/d95/a11008.html#ad376b973f02c1b0cd2afbb43cc081917", null ],
+    [ "NeedsEncryption", "da/d95/a11008.html#a114e5d6da2e81a26e478f7aea287d08a", null ],
+    [ "_encrypt", "da/d95/a11008.html#a37a68eddad23001a85a4a2f77e237810", null ],
+    [ "SocketQueueLink", "da/d95/a11008.html#a88f11ce75f439fd290bdc09156d559c2", null ]
 ];

@@ -1,7 +1,15 @@
 var a18616 =
 [
-    [ "Land", "dd/d42/a18616.html#ad2fd3d7c81e3ef22cb3767914f649fd0", null ],
-    [ "PrepareSpellScript", "dd/d42/a18616.html#a31e45adb87719c311fb5b94b2b744487", null ],
-    [ "Register", "dd/d42/a18616.html#a652eca6ec8079b2835d911807857c8a8", null ],
-    [ "RemoveAliveTarget", "dd/d42/a18616.html#abdb5f624b30a046eed9ca6ad7c347010", null ]
+    [ "npc_frostwing_vrykulAI", "dd/d42/a18616.html#ab68f844aa58f5d22586ba6d7526fc7ae", null ],
+    [ "AttackStart", "dd/d42/a18616.html#a42a53fedc36aa71f52900a416e414fc6", null ],
+    [ "CanAIAttack", "dd/d42/a18616.html#a91300d1178a2b433bd8830ec1066368e", null ],
+    [ "JustEngagedWith", "dd/d42/a18616.html#abc75688914cd4f984448dd3f21527d89", null ],
+    [ "JustSummoned", "dd/d42/a18616.html#a116908f5689d6d75570379f13ed0bd90", null ],
+    [ "Reset", "dd/d42/a18616.html#a4baa20089b50acee617c4b85bc6b8478", null ],
+    [ "SpellHitTarget", "dd/d42/a18616.html#a645dd6d85676cdd7ec1845c184dd2f93", null ],
+    [ "UpdateAI", "dd/d42/a18616.html#a810d1b1829623836f88b5a3ddfc277c5", null ],
+    [ "events", "dd/d42/a18616.html#accae0992a349361d85200863f5ac4f81", null ],
+    [ "events2", "dd/d42/a18616.html#a16682657d7cfb03ccd9f31d481c7af83", null ],
+    [ "isRanged", "dd/d42/a18616.html#a6f2e29ca9c859fe96648a2b55ccb773f", null ],
+    [ "summons", "dd/d42/a18616.html#ac75d1c18a8f70ff88f5925a3df6e5924", null ]
 ];

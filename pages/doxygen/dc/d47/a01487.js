@@ -1,21 +1,20 @@
 var a01487 =
 [
-    [ "DefaultTargetSelector", "dc/dda/a06111.html", "dc/dda/a06111" ],
-    [ "SpellTargetSelector", "db/d41/a06115.html", "db/d41/a06115" ],
-    [ "NonTankTargetSelector", "db/d9d/a06119.html", "db/d9d/a06119" ],
-    [ "PowerUsersSelector", "d4/d17/a06123.html", "d4/d17/a06123" ],
-    [ "FarthestTargetSelector", "df/d5c/a06127.html", "df/d5c/a06127" ],
-    [ "UnitAI", "d4/d84/a06131.html", "d4/d84/a06131" ],
-    [ "PlayerAI", "d8/d3d/a06135.html", "d8/d3d/a06135" ],
-    [ "SimpleCharmedAI", "d3/d0b/a06139.html", "d3/d0b/a06139" ],
-    [ "CAST_AI", "dc/d47/a01487.html#a0476b18cfebeb691aabb4344ec4f8af3", null ],
-    [ "ENSURE_AI", "dc/d47/a01487.html#afbd9552e4d9ae2fb45fe846c8e9775cf", null ],
-    [ "SelectTargetMethod", "dc/d47/a01487.html#a482ee472018cb5f0e11addaabad35c3d", [
-      [ "Random", "dc/d47/a01487.html#a482ee472018cb5f0e11addaabad35c3da64663f4646781c9c0110838b905daa23", null ],
-      [ "MaxThreat", "dc/d47/a01487.html#a482ee472018cb5f0e11addaabad35c3da8a65bf968cbf5bef0f097c4f6cc842c0", null ],
-      [ "MinThreat", "dc/d47/a01487.html#a482ee472018cb5f0e11addaabad35c3da01cd0e3f1d186cc67cb2235ac1e02fa4", null ],
-      [ "MaxDistance", "dc/d47/a01487.html#a482ee472018cb5f0e11addaabad35c3da26566fa367c162fcc3c6639f66c6b611", null ],
-      [ "MinDistance", "dc/d47/a01487.html#a482ee472018cb5f0e11addaabad35c3da334b6577674b84a8854d5281a52e48b1", null ]
-    ] ],
-    [ "EnsureAI", "dc/d47/a01487.html#a1c66b73f1d3e1e8031c25ae739f094e6", null ]
+    [ "PetAI", "d9/d60/a06108.html", "d9/d60/a06108" ],
+    [ "SpecialPets", "dc/d47/a01487.html#a22fe79e956db2d74e141a56fef6d1cff", [
+      [ "ENTRY_IMP", "dc/d47/a01487.html#a22fe79e956db2d74e141a56fef6d1cffab9abb8f92c8fdad08f49606aafda6896", null ],
+      [ "ENTRY_WATER_ELEMENTAL", "dc/d47/a01487.html#a22fe79e956db2d74e141a56fef6d1cffa8ef9e2169f6035568dc57b89cb823cd5", null ],
+      [ "ENTRY_WATER_ELEMENTAL_PERM", "dc/d47/a01487.html#a22fe79e956db2d74e141a56fef6d1cffa2cec2788a794b1b4d9559fb23d4a5a99", null ],
+      [ "IMP_FIREBOLT_RANK_1", "dc/d47/a01487.html#a22fe79e956db2d74e141a56fef6d1cffaa00bd8f04ba86fd6ec18af50421dcf1c", null ],
+      [ "IMP_FIREBOLT_RANK_2", "dc/d47/a01487.html#a22fe79e956db2d74e141a56fef6d1cffa641520548259a83c82be403219e71406", null ],
+      [ "IMP_FIREBOLT_RANK_3", "dc/d47/a01487.html#a22fe79e956db2d74e141a56fef6d1cffad5d762472639e0c0e4c4e12facf8cab6", null ],
+      [ "IMP_FIREBOLT_RANK_4", "dc/d47/a01487.html#a22fe79e956db2d74e141a56fef6d1cffa7eccd511642f2e5d0537d5059511aba7", null ],
+      [ "IMP_FIREBOLT_RANK_5", "dc/d47/a01487.html#a22fe79e956db2d74e141a56fef6d1cffaf3a0d7d7c4554f335bec7b31ac1821ac", null ],
+      [ "IMP_FIREBOLT_RANK_6", "dc/d47/a01487.html#a22fe79e956db2d74e141a56fef6d1cffa6741051a9b4416d85efce89c68ebd2c5", null ],
+      [ "IMP_FIREBOLT_RANK_7", "dc/d47/a01487.html#a22fe79e956db2d74e141a56fef6d1cffa789304c4db65564436821950d063de7a", null ],
+      [ "IMP_FIREBOLT_RANK_8", "dc/d47/a01487.html#a22fe79e956db2d74e141a56fef6d1cffaeda3e66d9782a330597fe42f0babfb25", null ],
+      [ "IMP_FIREBOLT_RANK_9", "dc/d47/a01487.html#a22fe79e956db2d74e141a56fef6d1cffab0b0d7d2597750db196c82204e5fa948", null ],
+      [ "WATER_ELEMENTAL_WATERBOLT_1", "dc/d47/a01487.html#a22fe79e956db2d74e141a56fef6d1cffa1afbd4a095d65be61fa03e05a1c49e1d", null ],
+      [ "WATER_ELEMENTAL_WATERBOLT_2", "dc/d47/a01487.html#a22fe79e956db2d74e141a56fef6d1cffa5d7df8261631aa8076f63045a79896e1", null ]
+    ] ]
 ];

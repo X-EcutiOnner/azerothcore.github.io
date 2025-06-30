@@ -1,9 +1,9 @@
 var a10748 =
 [
-    [ "RandomRoll", "d9/dab/a10748.html#abc64acf498b3dc70b9afd23c399e3db8", null ],
-    [ "Write", "d9/dab/a10748.html#aab5879874745603dd448a7f5084d60d4", null ],
-    [ "Max", "d9/dab/a10748.html#a21460b09eddfbee6ba022f88b5f37cc7", null ],
-    [ "Min", "d9/dab/a10748.html#aee5564c9fc17613b9f30fc8ce88944c6", null ],
-    [ "Result", "d9/dab/a10748.html#a34fd2c1d018bb292836724671163ff07", null ],
-    [ "Roller", "d9/dab/a10748.html#af02aa97826259885791d0f4afc0c1a84", null ]
+    [ "LevelUpInfo", "d9/dab/a10748.html#ae856bb717d6ae4b03775b7bfb026850d", null ],
+    [ "Write", "d9/dab/a10748.html#af09dd1c6470516ea9422d22ed22e6d10", null ],
+    [ "HealthDelta", "d9/dab/a10748.html#ab654fc42947c0c783d3a26e6df32b29d", null ],
+    [ "Level", "d9/dab/a10748.html#a1765f693918fdd1f51d7b8dc7b2494a2", null ],
+    [ "PowerDelta", "d9/dab/a10748.html#a697da64ac234c24fe73e68d408697ee6", null ],
+    [ "StatDelta", "d9/dab/a10748.html#a580e4a3cd77631e960b7753542375d6d", null ]
 ];

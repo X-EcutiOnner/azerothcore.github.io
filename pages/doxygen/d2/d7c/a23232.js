@@ -1,8 +1,10 @@
 var a23232 =
 [
-    [ "FilterTargets", "d2/d7c/a23232.html#a8687ba9c22299e62e5911a3729fa4a0a", null ],
-    [ "HandleDummy", "d2/d7c/a23232.html#addb3580259be74126b7de36d1b0a8a97", null ],
-    [ "PrepareSpellScript", "d2/d7c/a23232.html#aba82de0886d03037de4564f9908b8c89", null ],
-    [ "Register", "d2/d7c/a23232.html#a1650962493d48f5553a9e2771e594f1f", null ],
-    [ "Validate", "d2/d7c/a23232.html#a0a29926e43bd5ff58ca7ad79df6f8cc1", null ]
+    [ "npc_frozen_core", "d2/d7c/a23232.html#af00f67392d96aa1ab8ccdab5b168fc04", null ],
+    [ "DoAction", "d2/d7c/a23232.html#a7b2c684f0c4e88720fb0d921815026ab", null ],
+    [ "Initialize", "d2/d7c/a23232.html#a7e5824e31f600d10c3177e00ae443c7f", null ],
+    [ "JustDied", "d2/d7c/a23232.html#a476e086b0379e0cef3a44d250b020d6a", null ],
+    [ "UpdateAI", "d2/d7c/a23232.html#af09168b57b79d14d9a7ef6861e85cc1a", null ],
+    [ "_events", "d2/d7c/a23232.html#a3a5efec3279644ef713722e1556a3c84", null ],
+    [ "_instance", "d2/d7c/a23232.html#a80fa517cc7dffd4bf15f3393d1f4af14", null ]
 ];

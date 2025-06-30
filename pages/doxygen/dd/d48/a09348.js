@@ -1,8 +1,9 @@
 var a09348 =
 [
-    [ "CallOfHelpCreatureInRangeDo", "dd/d48/a09348.html#a6ff932341f415b659d486e63cbeb5fe4", null ],
-    [ "operator()", "dd/d48/a09348.html#a06eb5dd0f8969c20ca1234e01ae15377", null ],
-    [ "i_enemy", "dd/d48/a09348.html#a8e2e259c0159fd9418777787e4c68ccd", null ],
-    [ "i_funit", "dd/d48/a09348.html#aff1768cd844e4e23821cf78f9d360e06", null ],
-    [ "i_range", "dd/d48/a09348.html#ab0544cf93f94766701b72dbb6b3b55c1", null ]
+    [ "AnyGroupedUnitInObjectRangeCheck", "dd/d48/a09348.html#a2c775f62eeabcb8af5306cbcedae322e", null ],
+    [ "operator()", "dd/d48/a09348.html#a3c316eacdd1c74c69d8297871f84d7b9", null ],
+    [ "_raid", "dd/d48/a09348.html#a6a9cffd02435913a5d7ee53cd1e8cc0b", null ],
+    [ "_range", "dd/d48/a09348.html#a01b4592ac61d58ff39e5bb2eb1a1b997", null ],
+    [ "_refUnit", "dd/d48/a09348.html#ad083243ef5487aa374b19e3c82b0457c", null ],
+    [ "_source", "dd/d48/a09348.html#a91de967d2376ea96b1fc0838094915cf", null ]
 ];

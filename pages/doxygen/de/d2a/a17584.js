@@ -1,9 +1,9 @@
 var a17584 =
 [
-    [ "CalculateDamage", "de/d2a/a17584.html#a6a9e90d9463825b38b69afc234b35b39", null ],
-    [ "PrepareSpellScript", "de/d2a/a17584.html#ae7a8d0cc36708b11f8eefebd5df0a980", null ],
-    [ "Register", "de/d2a/a17584.html#a2722814a55469e5bae572766ed36309b", null ],
-    [ "RemoveEnergy", "de/d2a/a17584.html#a0f16b4b35985d658dc185aa88ab099ed", null ],
-    [ "StoreEnergy", "de/d2a/a17584.html#aca3ecc5a6219cb3813f17be404142c6d", null ],
-    [ "_energyLeft", "de/d2a/a17584.html#af082a763f6524aeb5ae2eb3c82fd12e5", null ]
+    [ "CheckAreaTarget", "de/d2a/a17584.html#afd45699e853a5b57f3e9ae7bc4165bfb", null ],
+    [ "HandleApply", "de/d2a/a17584.html#a9ce86d32957af07313af379b4176d0b3", null ],
+    [ "HandleRemove", "de/d2a/a17584.html#a04f449a062b20e6f9ebc35857a051ed3", null ],
+    [ "Load", "de/d2a/a17584.html#aa10821981f3e80262850e5c46449d5d0", null ],
+    [ "PrepareAuraScript", "de/d2a/a17584.html#ac98e9c47a7cb177c0624cda37d1836e2", null ],
+    [ "Register", "de/d2a/a17584.html#ab5b7bc1cc347ea368a9f2753b4c020a7", null ]
 ];

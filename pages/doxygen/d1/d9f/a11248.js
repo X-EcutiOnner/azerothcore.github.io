@@ -1,6 +1,6 @@
 var a11248 =
 [
-    [ "DestinationTargetSelectHandler", "d1/d9f/a11248.html#ab5ffcc89b7232afddd6bc47e7c347b79", null ],
-    [ "Call", "d1/d9f/a11248.html#a81ae2eb856507ee22308ae2739854382", null ],
-    [ "DestinationTargetSelectHandlerScript", "d1/d9f/a11248.html#a95e882b892a79b464a521a8367b2e9b7", null ]
+    [ "BeforeHitHandler", "d1/d9f/a11248.html#a0c2f048fc10f408a299a8b537ad7551d", null ],
+    [ "Call", "d1/d9f/a11248.html#a393057cca72c41e193508bf150ed0b1f", null ],
+    [ "_pBeforeHitHandlerScript", "d1/d9f/a11248.html#acecb7a8844155ff6eeb3f09582d7a475", null ]
 ];

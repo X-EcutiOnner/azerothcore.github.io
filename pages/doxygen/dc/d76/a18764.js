@@ -1,5 +1,6 @@
 var a18764 =
 [
-    [ "at_icc_gauntlet_event", "dc/d76/a18764.html#ae8790bad655661aeda887f56b9393847", null ],
-    [ "OnTrigger", "dc/d76/a18764.html#a9329ec078db088b1c13144ac7ed7a13a", null ]
+    [ "npc_icc_severed_essenceAI", "d5/d63/a18768.html", "d5/d63/a18768" ],
+    [ "npc_icc_severed_essence", "dc/d76/a18764.html#ace5b55755ef1dff3bd08a67fe2f64f94", null ],
+    [ "GetAI", "dc/d76/a18764.html#a74b8dbb95f3dc31b514a2d7ac1f18190", null ]
 ];

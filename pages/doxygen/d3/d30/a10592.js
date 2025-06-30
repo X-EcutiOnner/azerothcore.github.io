@@ -1,6 +1,6 @@
 var a10592 =
 [
-    [ "GuildAddRank", "d3/d30/a10592.html#a59c75f3e40e57b5e64f6fa9753a7e0b9", null ],
-    [ "Read", "d3/d30/a10592.html#a23636e4b8bd37ea85a282fb1630a969e", null ],
-    [ "Name", "d3/d30/a10592.html#a25969282befa638dfb08cf12f14bce53", null ]
+    [ "GuildEventLogQueryResults", "d3/d30/a10592.html#af12c732cd5c81792c6f0cb5cacc096f9", null ],
+    [ "Write", "d3/d30/a10592.html#aa24738cdd040a883782b50189abdf240", null ],
+    [ "Entry", "d3/d30/a10592.html#a227ab5555fccf5c8c78ca10fa229d3d4", null ]
 ];

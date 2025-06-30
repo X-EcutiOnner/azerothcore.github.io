@@ -1,7 +1,7 @@
 var a24940 =
 [
-    [ "HandleScript", "d1/d3f/a24940.html#ad1ca4c264e1f89adf479254e6436dd55", null ],
-    [ "Load", "d1/d3f/a24940.html#a66db2b82a0f014e49bbfeeaade4d1731", null ],
-    [ "PrepareSpellScript", "d1/d3f/a24940.html#a7616d761e7a7a708c88918302b488bb9", null ],
-    [ "Register", "d1/d3f/a24940.html#a8ca351c9e0e254369328865eefa3ff91", null ]
+    [ "HandleProc", "d1/d3f/a24940.html#af768269d315e998fc2042794c3a03b58", null ],
+    [ "PrepareAuraScript", "d1/d3f/a24940.html#ae3da67d626ee11c57a85a3af99ff07a5", null ],
+    [ "Register", "d1/d3f/a24940.html#a2df1cff47861cbf3198e573c6031b54e", null ],
+    [ "Validate", "d1/d3f/a24940.html#a84f40eec148c55108085db5e7b05cb0e", null ]
 ];

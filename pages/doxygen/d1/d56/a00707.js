@@ -1,8 +1,6 @@
 var a00707 =
 [
-    [ "instance_the_black_morass", "da/d35/a14739.html", "da/d35/a14739" ],
-    [ "instance_the_black_morass::instance_the_black_morass_InstanceMapScript", "d4/def/a14743.html", "d4/def/a14743" ],
-    [ "AddSC_instance_the_black_morass", "d1/d56/a00707.html#a665f808519def7182fa25d9c0a4525f6", null ],
-    [ "creatureData", "d1/d56/a00707.html#a412286b689bd324fedd65ddd8dde8afb", null ],
-    [ "PortalLocation", "d1/d56/a00707.html#a744b7235a198467a51550de127971bb1", null ]
+    [ "BG_SA_BOAT_START", "d1/d56/a00707.html#a2ec6635cf59771fcfd56b16cd670eebc", null ],
+    [ "BG_SA_ROUNDLENGTH", "d1/d56/a00707.html#a1197e8f288608511601a41e8e8ea80ce", null ],
+    [ "BG_SA_WARMUPLENGTH", "d1/d56/a00707.html#a7447506b77b9babea7568349335ea705", null ]
 ];

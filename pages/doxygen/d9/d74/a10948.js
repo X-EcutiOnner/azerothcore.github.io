@@ -1,7 +1,8 @@
 var a10948 =
 [
-    [ "MapSessionFilter", "d9/d74/a10948.html#ad11a700c36f8f45640402e96edc74b49", null ],
-    [ "~MapSessionFilter", "d9/d74/a10948.html#a82960e741c8f64d24a764a915f14e2b8", null ],
-    [ "Process", "d9/d74/a10948.html#a54483596fe2a5a0d30fab9a13506b375", null ],
-    [ "ProcessUnsafe", "d9/d74/a10948.html#a8e3a7dd5affb24305435aea2c57718fa", null ]
+    [ "ServerPktHeader", "d9/d74/a10948.html#a761e294fccc02055a46bfc46656da706", null ],
+    [ "getHeaderLength", "d9/d74/a10948.html#a75ff3550b7794fed0e69bfc4d1418dee", null ],
+    [ "isLargePacket", "d9/d74/a10948.html#a4f4e13fc8e2a6ec6de70f4432f25ffe2", null ],
+    [ "header", "d9/d74/a10948.html#adc69128832b16124c284c584e7540b11", null ],
+    [ "size", "d9/d74/a10948.html#a5d5cf573cebe47a10e3f17b840c7a4e1", null ]
 ];

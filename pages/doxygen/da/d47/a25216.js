@@ -1,7 +1,11 @@
 var a25216 =
 [
-    [ "OnPeriodic", "da/d47/a25216.html#a58f13f947b4daac98651f7fa46d7d674", null ],
-    [ "PrepareAuraScript", "da/d47/a25216.html#a85c4d84408becf2fb4ac55d9da369b25", null ],
-    [ "Register", "da/d47/a25216.html#ad0c688255e340c428624de7071b5df56", null ],
-    [ "Validate", "da/d47/a25216.html#a5ecd0e840bd94d4414acfb0aef9abd28", null ]
+    [ "spell_gen_apply_aura_after_expiration", "da/d47/a25216.html#a391e5089eb034618c5e3edde26685a00", null ],
+    [ "AfterRemove", "da/d47/a25216.html#afea2221ceeebf90cf352084d8aacf7c9", null ],
+    [ "PrepareAuraScript", "da/d47/a25216.html#a494123635eda4c43d92a08c9c8cd5627", null ],
+    [ "Register", "da/d47/a25216.html#a3189ba65a1d9adf252d9f0dfb70abd16", null ],
+    [ "Validate", "da/d47/a25216.html#ad405128104d8a6528e8db96281ad0f0b", null ],
+    [ "_aura", "da/d47/a25216.html#a8a79aef777e1397b031149c54ae9d81d", null ],
+    [ "_effect", "da/d47/a25216.html#aa276a986ba9b67964ddeec56d6455cf9", null ],
+    [ "_spellId", "da/d47/a25216.html#a330f1311911ba9f3ebd704c7f9a09246", null ]
 ];

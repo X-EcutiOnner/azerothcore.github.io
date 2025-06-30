@@ -1,7 +1,8 @@
 var a16268 =
 [
-    [ "HandleEffectPeriodic", "dd/d79/a16268.html#a7d6d15b8eecfcfb4c36d6504920bd119", null ],
-    [ "PrepareAuraScript", "dd/d79/a16268.html#a4506f7d723b85c7555296f5ade11cd29", null ],
-    [ "Register", "dd/d79/a16268.html#aeac7e6abc89209e14451439cdf1d416e", null ],
-    [ "Validate", "dd/d79/a16268.html#a9d6f9cd0495de03878ed5137542ea89d", null ]
+    [ "npc_announcer_toc5AI", "dd/d79/a16268.html#a96e1bd089dfd21fa252bc6422d20bada", null ],
+    [ "DamageTaken", "dd/d79/a16268.html#a53458483699ac026ff2cd36b5f061571", null ],
+    [ "MovementInform", "dd/d79/a16268.html#acdcf4110b3815635ad173a70e7a1e603", null ],
+    [ "Reset", "dd/d79/a16268.html#ab3dca17e0350d6d46a9069f97f2d12ef", null ],
+    [ "UpdateAI", "dd/d79/a16268.html#ad2c596253d67d051f497a8d77859846d", null ]
 ];

@@ -1,6 +1,5 @@
 var a20240 =
 [
-    [ "boss_kologarnAI", "d7/da3/a20244.html", "d7/da3/a20244" ],
-    [ "boss_kologarn", "d2/dcf/a20240.html#a5f654a0f534c4ec6c1164ea08e40a476", null ],
-    [ "GetAI", "d2/dcf/a20240.html#ad78c2d269e68d8c3bbd86b844ada9435", null ]
+    [ "achievement_getting_cold_in_here", "d2/dcf/a20240.html#a57fe7262a09036ffa88e985cb7e2f123", null ],
+    [ "OnCheck", "d2/dcf/a20240.html#aeafd382d378381f754da6ee04d382276", null ]
 ];

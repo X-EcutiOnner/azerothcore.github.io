@@ -1,11 +1,8 @@
 var a22596 =
 [
-    [ "boss_murmur", "d4/dd5/a22596.html#ad89ea433764c3017a3d33b37eb9e5602", null ],
-    [ "CanAIAttack", "d4/dd5/a22596.html#a6b89c95747c0a37c0b37527cd360e524", null ],
-    [ "CastSuppressionOOC", "d4/dd5/a22596.html#aab66339a7436c3c483297b25f6859558", null ],
-    [ "EnterEvadeMode", "d4/dd5/a22596.html#aa0f549c83a92302ece2323c75dd29acc", null ],
-    [ "JustEngagedWith", "d4/dd5/a22596.html#a3d872beeee7bf6ecd0c4aeaa3f8c603d", null ],
-    [ "Reset", "d4/dd5/a22596.html#a1f40ead1b2269b97c69bd4db808d6bae", null ],
-    [ "SetGUID", "d4/dd5/a22596.html#a88e18fd646a807ee92f1b24b43d500a6", null ],
-    [ "ShouldCastResonance", "d4/dd5/a22596.html#ade07217a85655a513d7a472d24589691", null ]
+    [ "npc_anzu_spirit", "d4/dd5/a22596.html#adb1b66d6bf6ec1991465f85a504397d5", null ],
+    [ "IsSummonedBy", "d4/dd5/a22596.html#a26f0928593f75d242c8bbcc541f7b59b", null ],
+    [ "Reset", "d4/dd5/a22596.html#acef3f7093f93b6c227d145523cdc487a", null ],
+    [ "UpdateAI", "d4/dd5/a22596.html#a9866d91ffc04548a96cfcdc3a5c7496a", null ],
+    [ "_scheduler", "d4/dd5/a22596.html#ad14937df9ddddabcf96e2d1104ca153c", null ]
 ];

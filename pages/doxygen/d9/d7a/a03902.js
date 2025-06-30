@@ -1,5 +1,5 @@
 var a03902 =
 [
-    [ "cast_commandscript", "d7/d9d/a11559.html", "d7/d9d/a11559" ],
-    [ "AddSC_cast_commandscript", "d9/d7a/a03902.html#a7b374923a29bdbff68b6e78d2ef4a3e0", null ]
+    [ "arena_commandscript", "d6/dbf/a11556.html", "d6/dbf/a11556" ],
+    [ "AddSC_arena_commandscript", "d9/d7a/a03902.html#aa94d37f012ac02e97a1021713b7dbeeb", null ]
 ];

@@ -1,6 +1,6 @@
 var a17564 =
 [
-    [ "IgbTeleportOnVictoryCheck", "d1/d86/a17564.html#a29ee8cac93b9920e598da9205406e608", null ],
-    [ "operator()", "d1/d86/a17564.html#acf85943e238179e911434358f1593be2", null ],
-    [ "_inst", "d1/d86/a17564.html#a015353ecb66da16c697152b7ad3c527e", null ]
+    [ "npc_gunship_gunnerAI", "d0/dc4/a17568.html", "d0/dc4/a17568" ],
+    [ "npc_gunship_gunner", "d1/d86/a17564.html#a409711f22b35eae0c0d48bc23545e592", null ],
+    [ "GetAI", "d1/d86/a17564.html#a2b28f5edfddf7a8c94a2a5475ec575dc", null ]
 ];

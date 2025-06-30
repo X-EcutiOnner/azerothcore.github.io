@@ -1,6 +1,6 @@
 var a22144 =
 [
-    [ "HandleScript", "df/da9/a22144.html#acb343eafcfddf6fedcdef26c9b86e0ec", null ],
-    [ "PrepareSpellScript", "df/da9/a22144.html#a5a4ce9453638d61fe52514240f0a9384", null ],
-    [ "Register", "df/da9/a22144.html#a889f931aaa37d3a283f4d585b384a68e", null ]
+    [ "npc_bushwhackerAI", "d8/daf/a22148.html", "d8/daf/a22148" ],
+    [ "npc_bushwhacker", "df/da9/a22144.html#ad87a9fdec3d5dbaef429c88905a5f6e8", null ],
+    [ "GetAI", "df/da9/a22144.html#ab3190b66069e820abf3637bb877066a0", null ]
 ];

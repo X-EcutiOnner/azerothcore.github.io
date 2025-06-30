@@ -1,5 +1,12 @@
 var a13884 =
 [
-    [ "at_zulgurub_temple_speech", "dc/dda/a13884.html#ab727ad7cb7f0a0e8309bbab233766cde", null ],
-    [ "_OnTrigger", "dc/dda/a13884.html#afd42cd408df7562a9dcd91e33750f3d4", null ]
+    [ "npc_zulian_prowlerAI", "dc/dda/a13884.html#a367613efead335b060173011267ddcff", null ],
+    [ "JustDied", "dc/dda/a13884.html#a31258aadddfbf6c6e9e1d729452dd8b2", null ],
+    [ "JustEngagedWith", "dc/dda/a13884.html#a207504b15ecd22b78088593b80433581", null ],
+    [ "Reset", "dc/dda/a13884.html#a62d14bae970d8a70a997c683e0e94259", null ],
+    [ "SpellHit", "dc/dda/a13884.html#a4051cd786d8c1974cf80c28f907cc02a", null ],
+    [ "UpdateAI", "dc/dda/a13884.html#a708df3a95395f99f6ba3eebcc90a22ab", null ],
+    [ "_events", "dc/dda/a13884.html#a994ae5b4e72429141155d1342830e5ad", null ],
+    [ "_instance", "dc/dda/a13884.html#ad37ba6b6ff7f52a88d2a96dc4ea00c34", null ],
+    [ "_sideData", "dc/dda/a13884.html#afa44e09c5677c2fc567be6a67b766bde", null ]
 ];

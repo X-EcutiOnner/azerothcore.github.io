@@ -1,15 +1,19 @@
 var a15800 =
 [
-    [ "boss_hadronoxAI", "d0/d14/a15800.html#a75430465e2329252581c2522ff14d82b", null ],
-    [ "AnyPlayerValid", "d0/d14/a15800.html#a5b4dc381ff6df8a4badc61196e2687bd", null ],
-    [ "CheckEvadeIfOutOfCombatArea", "d0/d14/a15800.html#aa5c858b2702744f24ac1d22078df1d7b", null ],
-    [ "DamageTaken", "d0/d14/a15800.html#a31ddd8521366da9cb862334c659288b3", null ],
-    [ "DoAction", "d0/d14/a15800.html#ab3bf3ca6a2adcf4c50a9bf1ddc8bac0e", null ],
-    [ "GetData", "d0/d14/a15800.html#a6fdb9b9650382600086f5646a627af52", null ],
-    [ "JustDied", "d0/d14/a15800.html#a42ffdf5a3d2ee43ddf0fc0d29f580491", null ],
-    [ "JustEngagedWith", "d0/d14/a15800.html#af8bcc00fbf757e0a0129111cca0a0a5c", null ],
-    [ "JustSummoned", "d0/d14/a15800.html#a65b93a213a69edf864ca123b6560b0a8", null ],
-    [ "KilledUnit", "d0/d14/a15800.html#ac4b6a589939bdc8a23f182ebf955e242", null ],
-    [ "Reset", "d0/d14/a15800.html#a1063db2596a0d57381011c2a6ceeb34e", null ],
-    [ "UpdateAI", "d0/d14/a15800.html#a10aa0f67aeb12d3d9a34f6213fe3d28f", null ]
+    [ "boss_taldaram", "d0/d14/a15800.html#a6438d3534aca5e4a92afb3e6c6e24f73", null ],
+    [ "DamageTaken", "d0/d14/a15800.html#a44d94f39e23720810acb40550f1c178a", null ],
+    [ "DoAction", "d0/d14/a15800.html#aee1cf0553e8c7ebebea4a83f2d7e6d5d", null ],
+    [ "InitializeAI", "d0/d14/a15800.html#a3d5b4628d6fb2db91ed073b042eefdc4", null ],
+    [ "JustDied", "d0/d14/a15800.html#a4b6c0f51fd3a2a8c00ef095eeeea785d", null ],
+    [ "JustEngagedWith", "d0/d14/a15800.html#a07e1cb5b53906f92a1f485340aa004e5", null ],
+    [ "JustSummoned", "d0/d14/a15800.html#a5ae9201a71fa665908f924647b262825", null ],
+    [ "KilledUnit", "d0/d14/a15800.html#a8fe516a08547ec03e8114b07e9c87d1f", null ],
+    [ "MovementInform", "d0/d14/a15800.html#a17ca98f742a06b1496b2216e984811d8", null ],
+    [ "Reset", "d0/d14/a15800.html#ae26fec572206d2f1f9acc229ee797496", null ],
+    [ "ScheduleCombatEvents", "d0/d14/a15800.html#a247e5357fcdf8da8e00bef09f3568ca3", null ],
+    [ "SpellHitTarget", "d0/d14/a15800.html#a0f228ea10a538a9ecf70b9f54d399150", null ],
+    [ "UpdateAI", "d0/d14/a15800.html#a8ae18c5fd1c5df67edaf1921b5504ce1", null ],
+    [ "vanishDamage", "d0/d14/a15800.html#a85d8c95320e6f1f486a39043218f0350", null ],
+    [ "vanishTarget_GUID", "d0/d14/a15800.html#a211707b3e9476a22be011567882f018a", null ],
+    [ "victimSperePos", "d0/d14/a15800.html#a06efb376b0d08207a0efce74770f21dc", null ]
 ];

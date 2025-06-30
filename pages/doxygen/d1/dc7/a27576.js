@@ -1,6 +1,6 @@
 var a27576 =
 [
-    [ "npc_venomhide_hatchlingAI", "d1/dc7/a27576.html#aa5929973ae39166ef381a3ed3c42a29c", null ],
-    [ "IsSummonedBy", "d1/dc7/a27576.html#a6e1b76f43217f1eb855b50d58a069518", null ],
-    [ "SpellHit", "d1/dc7/a27576.html#ac6c255438dc2f6c750ee47b61fbc20a3", null ]
+    [ "npc_experience", "d1/dc7/a27576.html#a48ea13099fd32bcae1543a152de0bdf4", null ],
+    [ "OnGossipHello", "d1/dc7/a27576.html#a78fccaa36d1c42e33774a9b23f867a72", null ],
+    [ "OnGossipSelect", "d1/dc7/a27576.html#a140ece91c8b6d91bd91d64d6e9b625e8", null ]
 ];

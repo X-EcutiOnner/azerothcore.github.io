@@ -1,6 +1,8 @@
 var a27496 =
 [
-    [ "npc_garments_of_questsAI", "d8/d92/a27500.html", "d8/d92/a27500" ],
-    [ "npc_garments_of_quests", "d0/d1b/a27496.html#a7e4ad68e0187c0a392ed93097b2bf0ce", null ],
-    [ "GetAI", "d0/d1b/a27496.html#aa8ad1c654f00e054f9b424f61716eafd", null ]
+    [ "npc_chicken_cluckAI", "d8/d92/a27500.html", "d8/d92/a27500" ],
+    [ "npc_chicken_cluck", "d0/d1b/a27496.html#a7bc08c81fca730886c47e0f3a3d8062c", null ],
+    [ "GetAI", "d0/d1b/a27496.html#abf986f555672823477c3c17e0f59bdbe", null ],
+    [ "OnQuestAccept", "d0/d1b/a27496.html#acca62c027b5b0cdff107e04cf2c276ea", null ],
+    [ "OnQuestComplete", "d0/d1b/a27496.html#a8f22520166a557e066502eb16bdae774", null ]
 ];

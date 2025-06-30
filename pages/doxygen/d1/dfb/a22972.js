@@ -1,6 +1,6 @@
 var a22972 =
 [
-    [ "PrepareAuraScript", "d1/dfb/a22972.html#a0dca39c324a5431d4861c1f20a34355e", null ],
-    [ "Register", "d1/dfb/a22972.html#a8f52092f25bdbf453d4126c56ff69f0a", null ],
-    [ "Update", "d1/dfb/a22972.html#a6201eaa3b961e838a535b80679996ada", null ]
+    [ "HandleDummy", "d1/dfb/a22972.html#a85cbe85873c5f04c8fb94ad52e94afda", null ],
+    [ "PrepareSpellScript", "d1/dfb/a22972.html#ae483ea2ecc541f52f37456f6e9d4b380", null ],
+    [ "Register", "d1/dfb/a22972.html#a972574075c86c32593982add71dc893f", null ]
 ];

@@ -1,10 +1,7 @@
 var a19032 =
 [
-    [ "boss_patchwerkAI", "d8/d2c/a19032.html#a74dfcf9ef921aa2a53d877c0e5ee9a34", null ],
-    [ "JustDied", "d8/d2c/a19032.html#aaed18187aa8e0058c70b29b1ccbe955f", null ],
-    [ "JustEngagedWith", "d8/d2c/a19032.html#a1317cb819d6247f62e0c6c725157db30", null ],
-    [ "KilledUnit", "d8/d2c/a19032.html#a17ccb5b2a1841656813a9408f5a05c4e", null ],
-    [ "Reset", "d8/d2c/a19032.html#a1d03058bf53e670f4fe9384e9f047891", null ],
-    [ "UpdateAI", "d8/d2c/a19032.html#a2db0df50a0faa88ebeaa035ea048157e", null ],
-    [ "events", "d8/d2c/a19032.html#a00c98ee5cdb3c512ba0d92a48d441006", null ]
+    [ "HandleScript", "d8/d2c/a19032.html#a66db3976fe6ec7ee8712c5788ce5f3ec", null ],
+    [ "PrepareAuraScript", "d8/d2c/a19032.html#aa3053519be0101f55450d76b1291f0f7", null ],
+    [ "Register", "d8/d2c/a19032.html#ada596a7f19115c7178fd07fb9e956f58", null ],
+    [ "Validate", "d8/d2c/a19032.html#a768dec18bc0e879c457a64135ec27ad9", null ]
 ];

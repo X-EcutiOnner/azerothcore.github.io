@@ -1,9 +1,21 @@
 var a01586 =
 [
-    [ "ePoints", "d2/d2f/a01586.html#a2604bd06487e34b78d3e50cd892f3c4d", [
-      [ "POINT_LAST_POINT", "d5/d10/a01571.html#a2604bd06487e34b78d3e50cd892f3c4da7d10089a0c5a8c42786b90cd3ba643cb", null ],
-      [ "POINT_HOME", "d5/d10/a01571.html#a2604bd06487e34b78d3e50cd892f3c4da032be97ee26935943c3313fb24491162", null ],
-      [ "POINT_COMBAT_START", "d2/d2f/a01586.html#a2604bd06487e34b78d3e50cd892f3c4da91adf90069f0b0a515897fbdc91e20b4", null ]
+    [ "TSpellSummary", "d9/d07/a06184.html", "d9/d07/a06184" ],
+    [ "eNPCs", "d2/d2f/a01586.html#abaecf87f40b40c4c71ec596a0b73e911", [
+      [ "NPC_BROODLORD", "d2/d2f/a01586.html#abaecf87f40b40c4c71ec596a0b73e911a0429b55864dc1628ebf2cc160a93c1dc", null ],
+      [ "NPC_JAN_ALAI", "d2/d2f/a01586.html#abaecf87f40b40c4c71ec596a0b73e911a0c9f05f129ebeb37c7b6a6bd0444caca", null ],
+      [ "NPC_SARTHARION", "d2/d2f/a01586.html#abaecf87f40b40c4c71ec596a0b73e911ac5fc96320a852557e13f1d4a95c8ff10", null ],
+      [ "NPC_FREYA", "d2/d2f/a01586.html#abaecf87f40b40c4c71ec596a0b73e911a5406e0387cdb4e28fe7718f28ec3d752", null ],
+      [ "NPC_INGVAR_UNDEAD", "d1/d3a/a03353.html#abaecf87f40b40c4c71ec596a0b73e911ac5f7785a73b2ea4946e698f73996e906", null ],
+      [ "NPC_ANNHYLDE", "d1/d3a/a03353.html#abaecf87f40b40c4c71ec596a0b73e911a244024200627132843a0b95f2fdefcb4", null ],
+      [ "NPC_THROW", "d1/d3a/a03353.html#abaecf87f40b40c4c71ec596a0b73e911a5c7c851e12a8c23ef9569157753a2546", null ],
+      [ "NPC_FROST_TOMB", "db/dee/a03338.html#abaecf87f40b40c4c71ec596a0b73e911a8d3888198310322d79e29632f594ac76", null ],
+      [ "NPC_SKELETON", "db/dee/a03338.html#abaecf87f40b40c4c71ec596a0b73e911ae6d4da6ba356104e95b11d5cd561d0f3", null ]
     ] ],
-    [ "MAX_PLAYER_DISTANCE", "d2/d2f/a01586.html#acd0b392fc88f24b24201fba8b76d33a2", null ]
+    [ "GetClosestCreatureWithEntry", "d2/d2f/a01586.html#a136c0c059281a05f9cb91237ce55be7b", null ],
+    [ "GetClosestGameObjectWithEntry", "d2/d2f/a01586.html#a80b13d7c0fa3b835b0834955ed0f93d8", null ],
+    [ "GetCreatureListWithEntryInGrid", "d2/d2f/a01586.html#ab6a8246d473139627106be4651f6329d", null ],
+    [ "GetDeadCreatureListInGrid", "d2/d2f/a01586.html#a2e3edf6fd8a6865d815af4f8acb184af", null ],
+    [ "GetGameObjectListWithEntryInGrid", "d2/d2f/a01586.html#ae9abb80c4e811509bca88e65cf817276", null ],
+    [ "SpellSummary", "d2/d2f/a01586.html#ae56af266ccaa1794f1f014938b07e9cc", null ]
 ];

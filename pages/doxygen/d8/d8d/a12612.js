@@ -1,9 +1,19 @@
 var a12612 =
 [
-    [ "FilterTargets", "d8/d8d/a12612.html#a88b91e40b330d39bd04a7873128fb858", null ],
-    [ "HandleFinish", "d8/d8d/a12612.html#a762ea4cc1cd0a50a65daf22cbbf4ce9c", null ],
-    [ "PrepareSpellScript", "d8/d8d/a12612.html#ab4ef82283e4d651d2e5304e49970efa8", null ],
-    [ "Register", "d8/d8d/a12612.html#ab2008e585589cbf313170064d37c4aa9", null ],
-    [ "Validate", "d8/d8d/a12612.html#af4963be6c544a1706a6dc30dcbf18309", null ],
-    [ "_targets", "d8/d8d/a12612.html#a2f75199a90e52cff770f46bce76d5149", null ]
+    [ "boss_malchezaar", "d8/d8d/a12612.html#a68adb0f05177316f9e39a48669f60829", null ],
+    [ "clearweapons", "d8/d8d/a12612.html#a354e07cb1f9ae86d96d07cb80f911474", null ],
+    [ "EnfeebleResetHealth", "d8/d8d/a12612.html#a7fcaec7c991f9d6df816aef650e53855", null ],
+    [ "Initialize", "d8/d8d/a12612.html#a1b48e2c117ac4c60f11310e43d34264b", null ],
+    [ "JustDied", "d8/d8d/a12612.html#aee066b4a67c61ae70fc487adf0be00e0", null ],
+    [ "JustEngagedWith", "d8/d8d/a12612.html#a5cfd1284c572f72ecde9d9ad94922d2b", null ],
+    [ "KilledUnit", "d8/d8d/a12612.html#a0d91be1d9ad3a0876bec8b694edd44be", null ],
+    [ "MaxSpawns", "d8/d8d/a12612.html#a25ef9558fcccee430ef92703af903d91", null ],
+    [ "PickTarget", "d8/d8d/a12612.html#a2c825f7f116891601ef2c3809c7db15c", null ],
+    [ "Reset", "d8/d8d/a12612.html#a72b54fd786c064114df3b8a09835e841", null ],
+    [ "SpawnInfernal", "d8/d8d/a12612.html#a58d1823940988f6f55aec8a5da44fd54", null ],
+    [ "SpellHitTarget", "d8/d8d/a12612.html#a9eb75b54ea480b38590695635a9cb4fe", null ],
+    [ "_enfeebleTargets", "d8/d8d/a12612.html#adc405cdbcc17eabade5794a7801c5323", null ],
+    [ "_phase", "d8/d8d/a12612.html#a94be6cf7bb8cd7857fe82638d0d0e853", null ],
+    [ "infernalTargets", "d8/d8d/a12612.html#a55b8c2dd25af193e078fdb0315863783", null ],
+    [ "relays", "d8/d8d/a12612.html#a7695c12779ada381cb04085dcf8dbb2c", null ]
 ];

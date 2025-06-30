@@ -1,8 +1,7 @@
 var a27388 =
 [
-    [ "npc_simoneAI", "d8/d15/a27392.html", "d8/d15/a27392" ],
-    [ "npc_simone", "dc/da9/a27388.html#acf3e759dea12cc5fbe1376213bd3585c", null ],
-    [ "GetAI", "dc/da9/a27388.html#a36d94c5ab6c910cd3853e579d6a5ab5a", null ],
-    [ "OnGossipHello", "dc/da9/a27388.html#ae1a0cd1fbee6bee0a54a1a666c8367dd", null ],
-    [ "OnGossipSelect", "dc/da9/a27388.html#ae2b1a653be3767881769b54607219757", null ]
+    [ "npc_engineering_tele_trinket", "dc/da9/a27388.html#ab891a8378a7b1b63151d05801b8b2fd1", null ],
+    [ "CanLearn", "dc/da9/a27388.html#a8a35f1c09a9df609561e76f4ed578647", null ],
+    [ "OnGossipHello", "dc/da9/a27388.html#ad11f576fb7efad0f6ea4cf22d3bc4e59", null ],
+    [ "OnGossipSelect", "dc/da9/a27388.html#a4d7125cf0333d4e5ebc299019c8feb1a", null ]
 ];

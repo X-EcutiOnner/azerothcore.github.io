@@ -1,5 +1,6 @@
 var a23744 =
 [
-    [ "npc_thaladred", "d9/d8d/a23744.html#a2589c19d5cc48c0a5fd504aecddfaa90", null ],
-    [ "ScheduleEvents", "d9/d8d/a23744.html#a24febff1fc8b155bca0fb177a8119dbb", null ]
+    [ "HandleCast", "d9/d8d/a23744.html#a912dc3b17ab7d0818089c32610d82a16", null ],
+    [ "PrepareSpellScript", "d9/d8d/a23744.html#a6590aab70049aa5e94ed48aeb99ab1d0", null ],
+    [ "Register", "d9/d8d/a23744.html#a09d4af96e2d5a69b1b61a6055bcb04d4", null ]
 ];

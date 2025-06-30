@@ -1,6 +1,6 @@
 var a16124 =
 [
-    [ "boss_paletressAI", "dc/d8e/a16128.html", "dc/d8e/a16128" ],
-    [ "boss_paletress", "d9/d62/a16124.html#a04cbd31e71cc349b8c1058780ee6f673", null ],
-    [ "GetAI", "d9/d62/a16124.html#a2c20ff397d115cf0e8a1801184e5a3f9", null ]
+    [ "HandleHealPct", "d9/d62/a16124.html#ad13b3924815ac3da7902c8292a760943", null ],
+    [ "PrepareSpellScript", "d9/d62/a16124.html#aeea718bce7dd5aa4ac33bbd1a95a65c0", null ],
+    [ "Register", "d9/d62/a16124.html#a3016c31c072d6417bbe47c2891059718", null ]
 ];

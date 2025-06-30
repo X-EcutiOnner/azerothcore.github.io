@@ -1,6 +1,5 @@
 var a21016 =
 [
-    [ "boss_palehoofAI", "d5/dfd/a21020.html", "d5/dfd/a21020" ],
-    [ "boss_palehoof", "db/daa/a21016.html#ac0e541befaad7e1e6e318d64ca4a1d94", null ],
-    [ "GetAI", "db/daa/a21016.html#ae33ca6e71b251214be50168a5940d058", null ]
+    [ "npc_salvaged_siege_engine", "db/daa/a21016.html#aa8cde891a19ebb1e53be2a81a2432442", null ],
+    [ "BeforeSpellClick", "db/daa/a21016.html#aed2500b2315b5e508ea3d06a2355d023", null ]
 ];

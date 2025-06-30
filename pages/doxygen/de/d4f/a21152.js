@@ -1,6 +1,6 @@
 var a21152 =
 [
-    [ "HandleOnHit", "de/d4f/a21152.html#aa3f90eb49ae947b5729f722750cb8711", null ],
-    [ "PrepareSpellScript", "de/d4f/a21152.html#a3b62711a0ba478d6321a93d436359939", null ],
-    [ "Register", "de/d4f/a21152.html#af7bdde31f1221d5679983a41e3eca204", null ]
+    [ "CalculateAmount", "de/d4f/a21152.html#a79019ef395c9b66f6a88759b0517005d", null ],
+    [ "PrepareAuraScript", "de/d4f/a21152.html#a1336ab2b7f560deeeeaaf017578bd524", null ],
+    [ "Register", "de/d4f/a21152.html#a9bce52699983fe798c903385faa42462", null ]
 ];

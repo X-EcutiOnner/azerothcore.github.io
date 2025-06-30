@@ -1,6 +1,6 @@
 var a18000 =
 [
-    [ "FilterTargets", "d4/d9a/a18000.html#ad5a004ddfdc888c38e95c3a0b49ca73e", null ],
-    [ "PrepareSpellScript", "d4/d9a/a18000.html#a24466e7a04722cc7559b086f89d2edc8", null ],
-    [ "Register", "d4/d9a/a18000.html#a9ecea534f3dffdedf7d23b3b2461509d", null ]
+    [ "UnchainedMagicTargetSelector", "d4/d9a/a18000.html#ae412c72884e6cfb1ceef8ed9fb347fbf", null ],
+    [ "operator()", "d4/d9a/a18000.html#af28ce8f46154ae6152e9025775a7f84f", null ],
+    [ "_removeHealers", "d4/d9a/a18000.html#a35a7981ce5495cba8b3a5391e4031431", null ]
 ];

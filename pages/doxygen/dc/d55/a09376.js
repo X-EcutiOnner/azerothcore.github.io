@@ -1,10 +1,9 @@
 var a09376 =
 [
-    [ "NearestCreatureEntryWithLiveStateInObjectRangeCheck", "dc/d55/a09376.html#aa9f15d071efe7ca7bb975489fec2afbd", null ],
-    [ "NearestCreatureEntryWithLiveStateInObjectRangeCheck", "dc/d55/a09376.html#a1e25384d08beeee84d83e401f5a5a565", null ],
-    [ "operator()", "dc/d55/a09376.html#abc2ab6f33a6a58a6e692cc32e8139839", null ],
-    [ "i_alive", "dc/d55/a09376.html#a7a01388f86d25fa0728d94c6e1a7f752", null ],
-    [ "i_entry", "dc/d55/a09376.html#ae2bf2c0a0f431f5de445fbee26b60a57", null ],
-    [ "i_obj", "dc/d55/a09376.html#aa0340c79c37f3494b01c52f034705aa4", null ],
-    [ "i_range", "dc/d55/a09376.html#a695af00612b17e0182ad76a5c3be2356", null ]
+    [ "NearestHostileUnitCheck", "dc/d55/a09376.html#aa1d706a1eb1de6168b568e70008e2d3b", null ],
+    [ "NearestHostileUnitCheck", "dc/d55/a09376.html#a2fe620370289850eb0362823de2072d1", null ],
+    [ "operator()", "dc/d55/a09376.html#a04c85a77d660bbc74279d1062dabc375", null ],
+    [ "i_playerOnly", "dc/d55/a09376.html#a64c5fce466521a6d6d78eeda0708d65e", null ],
+    [ "m_range", "dc/d55/a09376.html#a801d56a180e196943cfc2cefb6c5dda5", null ],
+    [ "me", "dc/d55/a09376.html#a67cef25e6f725ea42f0377df34d48495", null ]
 ];

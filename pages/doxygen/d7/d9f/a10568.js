@@ -1,5 +1,5 @@
 var a10568 =
 [
-    [ "GuildEventLogQuery", "d7/d9f/a10568.html#af66d667a4b722745fa4f855870ef332c", null ],
-    [ "Read", "d7/d9f/a10568.html#a48881f116070d5a7c03e7cace86656f6", null ]
+    [ "GuildDeclineInvitation", "d7/d9f/a10568.html#a11a70a9974bb139e53f76c8b78944fe7", null ],
+    [ "Read", "d7/d9f/a10568.html#ad034438e18a7feddbac376a599c1e01a", null ]
 ];

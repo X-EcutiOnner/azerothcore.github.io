@@ -1,6 +1,6 @@
 var a26900 =
 [
-    [ "HandleOnHit", "d0/dbb/a26900.html#a32a6f464057fbfb3bbffe0e10d1d4141", null ],
-    [ "PrepareSpellScript", "d0/dbb/a26900.html#adfa4da76e8c2486fbcc2b3bea0f50005", null ],
-    [ "Register", "d0/dbb/a26900.html#a1742dc0c039f7f981cae8114ff9ae59a", null ]
+    [ "CalculateAmount", "d0/dbb/a26900.html#a94b6fab25e8cb298650f2a1e2d0b4347", null ],
+    [ "PrepareAuraScript", "d0/dbb/a26900.html#a845476e27b3751fd5aab505d41d8696d", null ],
+    [ "Register", "d0/dbb/a26900.html#aa5141f11bcd97cc501297a5309df1079", null ]
 ];

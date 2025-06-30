@@ -1,21 +1,18 @@
 var a02753 =
 [
-    [ "instance_scholomance", "d8/db3/a13023.html", "d8/db3/a13023" ],
-    [ "instance_scholomance::instance_scholomance_InstanceMapScript", "dc/d17/a13027.html", "dc/d17/a13027" ],
-    [ "spell_scholomance_fixate_aura", "d1/dc5/a13031.html", "d1/dc5/a13031" ],
-    [ "spell_scholomance_boon_of_life_aura", "d7/d77/a13035.html", "d7/d77/a13035" ],
-    [ "npc_scholomance_occultist", "d4/dbc/a13039.html", "d4/dbc/a13039" ],
-    [ "npc_scholomance_occultist::npc_scholomance_occultistAI", "d8/d3d/a13043.html", "d8/d3d/a13043" ],
-    [ "OccultistEntries", "d9/d93/a02753.html#a8b43fe18f8176260ed382582db3c3818", [
-      [ "CASTER_ENTRY", "d9/d93/a02753.html#a8b43fe18f8176260ed382582db3c3818a5bb832c5eb17f3850f1178b2b3590a5a", null ],
-      [ "DARK_SHADE_ENTRY", "d9/d93/a02753.html#a8b43fe18f8176260ed382582db3c3818a404c94392628f9372866677c936edb15", null ]
+    [ "npc_maredis_firestar", "da/d6b/a13460.html", "da/d6b/a13460" ],
+    [ "npc_maredis_firestar::npc_maredis_firestarAI", "dc/dd7/a13464.html", "dc/dd7/a13464" ],
+    [ "MaredisFirestar", "d9/d93/a02753.html#a85e4eeb368c070d1186f1c7c07ab1a42", [
+      [ "ITEM_LIBRAM_OF_RUMINATION", "d9/d93/a02753.html#a85e4eeb368c070d1186f1c7c07ab1a42a677909b58ffc52e1a197d376f77a711e", null ],
+      [ "ITEM_LIBRAM_OF_CONSTITUTION", "d9/d93/a02753.html#a85e4eeb368c070d1186f1c7c07ab1a42a160f2d52664367620f0ef85b255b3277", null ],
+      [ "ITEM_LIBRAM_OF_TENACITY", "d9/d93/a02753.html#a85e4eeb368c070d1186f1c7c07ab1a42acee05c856cffac557e6f7f8b4b32f173", null ],
+      [ "ITEM_LIBRAM_OF_RESILIENCE", "d9/d93/a02753.html#a85e4eeb368c070d1186f1c7c07ab1a42a1dc0b7882355b2615ad112a6ffb2d5eb", null ],
+      [ "ITEM_LIBRAM_OF_VORACITY", "d9/d93/a02753.html#a85e4eeb368c070d1186f1c7c07ab1a42a500bb7292e2d51375145250bffb2031f", null ],
+      [ "GOSSIP_LIBRAM_OF_RUMINATION", "d9/d93/a02753.html#a85e4eeb368c070d1186f1c7c07ab1a42a25fa31f89537239dc264cdc4afa11c44", null ],
+      [ "GOSSIP_LIBRAM_OF_CONSTITUTION", "d9/d93/a02753.html#a85e4eeb368c070d1186f1c7c07ab1a42ab11fb925c43c8e71171b5468f9bfbb41", null ],
+      [ "GOSSIP_LIBRAM_OF_TENACITY", "d9/d93/a02753.html#a85e4eeb368c070d1186f1c7c07ab1a42a7e1d61976fe826333b77ae3822af1d4e", null ],
+      [ "GOSSIP_LIBRAM_OF_RESILIENCE", "d9/d93/a02753.html#a85e4eeb368c070d1186f1c7c07ab1a42a5c617ffeaa015ea23b065a79ac6e8bde", null ],
+      [ "GOSSIP_LIBRAM_OF_VORACITY", "d9/d93/a02753.html#a85e4eeb368c070d1186f1c7c07ab1a42a2bc47c8c26124b40bfcf34e4fc21d733", null ]
     ] ],
-    [ "OccultistSpells", "d9/d93/a02753.html#a9f85ef6fae02a6e177aa60a656ac2b3d", [
-      [ "BONE_ARMOR_SPELL", "d9/d93/a02753.html#a9f85ef6fae02a6e177aa60a656ac2b3da89e933b806d06611ede39194aec55c1a", null ],
-      [ "COUNTER_SPELL", "d9/d93/a02753.html#a9f85ef6fae02a6e177aa60a656ac2b3da8b221e5c5dc36e75186eb2b8bdc0e313", null ],
-      [ "DRAIN_MANA_SPELL", "d9/d93/a02753.html#a9f85ef6fae02a6e177aa60a656ac2b3da5a3228d15aeb4d8cb7c29650200766af", null ],
-      [ "SHADOWBOLT_VOLLEY_SPELL", "d9/d93/a02753.html#a9f85ef6fae02a6e177aa60a656ac2b3da2e1fda31c0d43a826ad22b89a62cfb8c", null ]
-    ] ],
-    [ "AddSC_instance_scholomance", "d9/d93/a02753.html#a57729392acbf8df56faae2a7865f65b4", null ],
-    [ "KirtonosSpawn", "d9/d93/a02753.html#a5e00a038de93e0b1fc4ac53b49bf47da", null ]
+    [ "AddSC_burning_steppes", "d9/d93/a02753.html#a8cf2165dba1d5e845d5e20fbc1ce33d6", null ]
 ];

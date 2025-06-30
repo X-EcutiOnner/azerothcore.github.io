@@ -1,5 +1,5 @@
 var a03989 =
 [
-    [ "reload_commandscript", "d5/d88/a11699.html", "d5/d88/a11699" ],
-    [ "AddSC_reload_commandscript", "dd/d27/a03989.html#ab72bc0a4ad4d6f90fa1e05f5591ed68f", null ]
+    [ "honor_commandscript", "d9/d60/a11636.html", "d9/d60/a11636" ],
+    [ "AddSC_honor_commandscript", "dd/d27/a03989.html#ab7c57f853cb45a82b5563b703a1ee041", null ]
 ];

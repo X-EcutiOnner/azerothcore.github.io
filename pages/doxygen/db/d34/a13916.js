@@ -1,10 +1,11 @@
 var a13916 =
 [
-    [ "boss_jeklik", "db/d34/a13916.html#a826bdba66fee3bb82b64ca6174b66c44", null ],
-    [ "EnterEvadeMode", "db/d34/a13916.html#a70dc363e0690e72846db5f779375edc1", null ],
-    [ "JustDied", "db/d34/a13916.html#ae648ba9ff49f4970612a8c3351789b66", null ],
-    [ "JustEngagedWith", "db/d34/a13916.html#aeb57cfc66104f6e2b2e36b6551207dd8", null ],
-    [ "PathEndReached", "db/d34/a13916.html#a689e8f91361de45e6f885fea0dec900a", null ],
-    [ "Reset", "db/d34/a13916.html#a7959106123e60e3584b32b50a272746c", null ],
-    [ "batRidersCount", "db/d34/a13916.html#a3d81395ec4518d4e2ca7f273fc658395", null ]
+    [ "boss_hakkarAI", "db/d34/a13916.html#ae29c8c0816fc3efb83d7912c559747e4", null ],
+    [ "ApplyHakkarPowerStacks", "db/d34/a13916.html#aca5b7ee8d026ff7ee808e9ebd64c8dcf", null ],
+    [ "CheckInRoom", "db/d34/a13916.html#a8a70e82f6c72760143148d9c9f8095cc", null ],
+    [ "EnterEvadeMode", "db/d34/a13916.html#a6ca87d663714ddecfe562f0c705fa6f8", null ],
+    [ "JustDied", "db/d34/a13916.html#ae6b8c72ad3d36ee6eea624a7d79ca26b", null ],
+    [ "JustEngagedWith", "db/d34/a13916.html#ae023eb68fc066ba5713baaf3b0595f0c", null ],
+    [ "Reset", "db/d34/a13916.html#a52db5743c09088e2e9f1aff1513960f2", null ],
+    [ "UpdateAI", "db/d34/a13916.html#a1119212465bcf293991d7a520c6ffe42", null ]
 ];

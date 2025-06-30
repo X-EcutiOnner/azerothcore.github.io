@@ -1,6 +1,6 @@
 var a20956 =
 [
-    [ "HandleEffectPeriodic", "d0/d35/a20956.html#a3dd6eaa3e5800b92e19c12e47b0ad132", null ],
-    [ "PrepareAuraScript", "d0/d35/a20956.html#a0b24e94cfce6b57d2dc8b36c3fe1c39f", null ],
-    [ "Register", "d0/d35/a20956.html#a4dd779cac93c2f847495dadc67c0beb2", null ]
+    [ "achievement_yogg_saron_darkness", "d0/d35/a20956.html#a536c7156305d47c41a062d3c1a1b16eb", null ],
+    [ "OnCheck", "d0/d35/a20956.html#a809902fca87abaeb4334132763624ed6", null ],
+    [ "_keepersCount", "d0/d35/a20956.html#a765ec4606bb489760ed1e15db10de1dc", null ]
 ];

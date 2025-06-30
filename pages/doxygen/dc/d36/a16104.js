@@ -1,6 +1,6 @@
 var a16104 =
 [
-    [ "instance_ruby_sanctum_InstanceMapScript", "dd/d4a/a16108.html", "dd/d4a/a16108" ],
-    [ "instance_ruby_sanctum", "dc/d36/a16104.html#a9fc9d56cfcd7d0163f25f49e1ed0baeb", null ],
-    [ "GetInstanceScript", "dc/d36/a16104.html#ad0329f328d4be2c475d8bcd5ccefd4e1", null ]
+    [ "HandlePeriodic", "dc/d36/a16104.html#a7753587518171689f86f3f76269c1b8a", null ],
+    [ "PrepareAuraScript", "dc/d36/a16104.html#aa73351e7200bee94b0068fb8dabfada5", null ],
+    [ "Register", "dc/d36/a16104.html#ab126fe8d4387609e8834898c3b3a67ea", null ]
 ];

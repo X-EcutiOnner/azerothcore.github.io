@@ -1,6 +1,5 @@
 var a03926 =
 [
-    [ "character_commandscript", "d8/dc7/a11563.html", "d8/dc7/a11563" ],
-    [ "character_commandscript::DeletedInfo", "dd/d35/a11567.html", "dd/d35/a11567" ],
-    [ "AddSC_character_commandscript", "d1/d59/a03926.html#a97f9cac12c34068d5e63b2ed28ddf9e2", null ]
+    [ "send_commandscript", "d4/d3f/a11724.html", "d4/d3f/a11724" ],
+    [ "AddSC_send_commandscript", "d1/d59/a03926.html#a9f3fee551f6ca7aa7dad83edb2dfe480", null ]
 ];

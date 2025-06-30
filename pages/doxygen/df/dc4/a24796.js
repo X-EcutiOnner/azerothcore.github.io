@@ -1,6 +1,5 @@
 var a24796 =
 [
-    [ "CheckAreaTarget", "df/dc4/a24796.html#aab7e3693e5744cf444e643f7cdfdf738", null ],
-    [ "PrepareAuraScript", "df/dc4/a24796.html#a551d8d6dd43c83d9a693c5971fa5c224", null ],
-    [ "Register", "df/dc4/a24796.html#a6647a8e35009cf8559e4957a666f037a", null ]
+    [ "PrepareSpellScript", "df/dc4/a24796.html#a41169895bb29fe136e3fb0c2dd50d9fb", null ],
+    [ "Register", "df/dc4/a24796.html#ab6a32b26cc0277f71a71b9fd1d567bf1", null ]
 ];

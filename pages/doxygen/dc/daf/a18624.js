@@ -1,6 +1,7 @@
 var a18624 =
 [
-    [ "PrepareSpellScript", "dc/daf/a18624.html#aac12da39c503615036120e3e0cd55622", null ],
-    [ "Register", "dc/daf/a18624.html#a808d2283be9714c14f22a2df0a52dd61", null ],
-    [ "RelocateDest", "dc/daf/a18624.html#a843c9dc403404ddd2de667e57e01f00c", null ]
+    [ "npc_impaling_spearAI", "dc/daf/a18624.html#ae8fbc36a15324b210a24a0e98357adc3", null ],
+    [ "Reset", "dc/daf/a18624.html#a43fa8bf8f22f0635261decd8b15ed6f5", null ],
+    [ "UpdateAI", "dc/daf/a18624.html#acb187a58b0ba256b4e003655ac36db34", null ],
+    [ "_vehicleCheckTimer", "dc/daf/a18624.html#a264874b9f6f0609792d4b3a325e54f59", null ]
 ];

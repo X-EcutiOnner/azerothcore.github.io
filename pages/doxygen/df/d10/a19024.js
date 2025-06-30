@@ -1,18 +1,15 @@
 var a19024 =
 [
-    [ "boss_nothAI", "df/d10/a19024.html#a0a1f8e88396b04d070c4034b2419f0bb", null ],
-    [ "EnterEvadeMode", "df/d10/a19024.html#af0c4cfb04564b23840ee88dfa1badf55", null ],
-    [ "IsInRoom", "df/d10/a19024.html#a8e9c27804ae01e46285a3bed42091754", null ],
-    [ "JustDied", "df/d10/a19024.html#a18dd73c178eff3170d371c4bd4062b76", null ],
-    [ "JustEngagedWith", "df/d10/a19024.html#aed044bf36d56b2241e591eb45999900b", null ],
-    [ "JustSummoned", "df/d10/a19024.html#a61e814ce0a861ba98ccc21d8d6df128a", null ],
-    [ "KilledUnit", "df/d10/a19024.html#a1d5b013cdbaab702a85fc1d344ad6f6a", null ],
-    [ "Reset", "df/d10/a19024.html#a311754fa1fa1b112272395179e3b1bff", null ],
-    [ "StartBalconyPhase", "df/d10/a19024.html#ac890e5f4e6e9e40d78e75d2c86bd6740", null ],
-    [ "StartGroundPhase", "df/d10/a19024.html#a3ae5f948e2faf051b1cb88cd638c612e", null ],
-    [ "SummonHelper", "df/d10/a19024.html#abfe6252bec42fdc3d7738aef3dd2ec74", null ],
-    [ "UpdateAI", "df/d10/a19024.html#a87f4e825fb8f9f48991d5dcf94af78e3", null ],
-    [ "events", "df/d10/a19024.html#a3f3e282c6ee1d259f1f2a401f6195251", null ],
-    [ "summons", "df/d10/a19024.html#a4e95ad18274331e402124d4a8424cb18", null ],
-    [ "timesInBalcony", "df/d10/a19024.html#a249c96d4230bd2b43c4be733317c4bc4", null ]
+    [ "boss_kelthuzad_minionAI", "df/d10/a19024.html#addeb3112e8b6da5713e6c25878c7e785", null ],
+    [ "AttackStart", "df/d10/a19024.html#ae6e2b0dd529f819b5b62348059dacb02", null ],
+    [ "DoAction", "df/d10/a19024.html#acd08aa78c1620f5552bbbc77c06b4344", null ],
+    [ "JustDied", "df/d10/a19024.html#abc6db76c9dcdbdb1c51b7f67d4c39551", null ],
+    [ "JustEngagedWith", "df/d10/a19024.html#a135dd028f95eeb34b2852e8dafebbe63", null ],
+    [ "JustReachedHome", "df/d10/a19024.html#aedfaf037ddf66d0e3aa990b4ea5b171c", null ],
+    [ "KilledUnit", "df/d10/a19024.html#ac8a2297a89310f4902fdc544ef71b673", null ],
+    [ "MoveInLineOfSight", "df/d10/a19024.html#aee871ff356bcfd38162a5f6c9bd3c994", null ],
+    [ "Reset", "df/d10/a19024.html#a01db0df4ec5f49d0915e90c418ebba75", null ],
+    [ "UpdateAI", "df/d10/a19024.html#ad60ec485144e447fd9d43b0cd5d6c87c", null ],
+    [ "callHelp", "df/d10/a19024.html#a6c6935e058bc18c013bc31f03f5a914b", null ],
+    [ "events", "df/d10/a19024.html#a2885d65bfaf345e7c3dfa42d8c80a892", null ]
 ];

@@ -1,11 +1,14 @@
 var a15960 =
 [
-    [ "boss_general_zarithrianAI", "db/d6b/a15960.html#a4168a5883052810d137f59d3b104bc24", null ],
-    [ "CheckEvadeIfOutOfCombatArea", "db/d6b/a15960.html#a22f6ff041e61c94df73a938162fa26f5", null ],
-    [ "JustDied", "db/d6b/a15960.html#a49be533142c82a95a136dc2dcbf4843c", null ],
-    [ "JustEngagedWith", "db/d6b/a15960.html#a9ec34e473b9d478277f472ab3bb7c7ef", null ],
-    [ "JustSummoned", "db/d6b/a15960.html#acb694d20b35d57a315aa4662562af210", null ],
-    [ "KilledUnit", "db/d6b/a15960.html#ad385477740b728e63acff7c184df3c09", null ],
-    [ "Reset", "db/d6b/a15960.html#a3093369d5f3c7e2a1a5828671ac0af0a", null ],
-    [ "UpdateAI", "db/d6b/a15960.html#a3a7e578d64a760cd38712c725eecc97d", null ]
+    [ "instance_obsidian_sanctum_InstanceMapScript", "db/d6b/a15960.html#a17e64475b7433b3dc0d87028c11c9c7f", null ],
+    [ "CheckAchievementCriteriaMeet", "db/d6b/a15960.html#a62a5603b9063b4cbb773eb177aa2d0bc", null ],
+    [ "DoAction", "db/d6b/a15960.html#abc08b37f23721ff2ce7a6662605a66ab", null ],
+    [ "GetGuidData", "db/d6b/a15960.html#a01da8216f57e19b5bf8697700089118c", null ],
+    [ "OnCreatureCreate", "db/d6b/a15960.html#aa0fd6fae9a274e483765c0b5c1ff7ba3", null ],
+    [ "m_uiPortalGUID", "db/d6b/a15960.html#a166db22fd409d0387085053852e5ad30", null ],
+    [ "m_uiSartharionGUID", "db/d6b/a15960.html#a17b8e9a050eb6302258119c3b4f5f1bf", null ],
+    [ "m_uiShadronGUID", "db/d6b/a15960.html#a5c6a46069a87340f9e8d5e4830b8a2ed", null ],
+    [ "m_uiTenebronGUID", "db/d6b/a15960.html#afc7daf2b0eb18fa999ff3dae42fc4da2", null ],
+    [ "m_uiVesperonGUID", "db/d6b/a15960.html#a7408fc1c0d61c7db01bdd4f517080139", null ],
+    [ "portalCount", "db/d6b/a15960.html#ab7cec8a8a80713e436e4e4e80c5c1383", null ]
 ];

@@ -1,9 +1,6 @@
 var a01262 =
 [
-    [ "PacketLog", "d0/d35/a10931.html", "d0/d35/a10931" ],
-    [ "sPacketLog", "d3/d53/a01262.html#a14b702138c7f0a62a900dfc8eecc1f6f", null ],
-    [ "Direction", "d3/d53/a01262.html#a224b9163917ac32fc95a60d8c1eec3aa", [
-      [ "CLIENT_TO_SERVER", "d3/d53/a01262.html#a224b9163917ac32fc95a60d8c1eec3aaae4561e948350e841223c3dc44738f476", null ],
-      [ "SERVER_TO_CLIENT", "d3/d53/a01262.html#a224b9163917ac32fc95a60d8c1eec3aaa0df224cab9714b02d0718697fbce48a3", null ]
-    ] ]
+    [ "EncryptableAndCompressiblePacket", "da/d95/a11008.html", "da/d95/a11008" ],
+    [ "ClientPktHeader", "d0/d19/a11012.html", "d0/d19/a11012" ],
+    [ "WorldSocket", "d6/d60/a11016.html", "d6/d60/a11016" ]
 ];

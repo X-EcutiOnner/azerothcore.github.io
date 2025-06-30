@@ -1,246 +1,62 @@
 var a02390 =
 [
-    [ "go_seer_of_zebhalak", "dd/d03/a27127.html", "dd/d03/a27127" ],
-    [ "go_mistwhisper_treasure", "d3/dbe/a27131.html", "d3/dbe/a27131" ],
-    [ "go_witherbark_totem_bundle", "dd/d3e/a27135.html", "dd/d3e/a27135" ],
-    [ "go_witherbark_totem_bundle::go_witherbark_totem_bundleAI", "d6/d31/a27139.html", "d6/d31/a27139" ],
-    [ "go_arena_ready_marker", "dc/d89/a27143.html", "dc/d89/a27143" ],
-    [ "go_ethereum_prison", "de/d8a/a27147.html", "de/d8a/a27147" ],
-    [ "go_ethereum_stasis", "d3/dca/a27151.html", "d3/dca/a27151" ],
-    [ "go_resonite_cask", "d1/dbd/a27155.html", "d1/dbd/a27155" ],
-    [ "go_tadpole_cage", "dd/d26/a27159.html", "dd/d26/a27159" ],
-    [ "go_tadpole_cage::go_tadpole_cageAI", "d8/de5/a27163.html", "d8/de5/a27163" ],
-    [ "go_flames", "d9/d8a/a27167.html", "d9/d8a/a27167" ],
-    [ "go_flames::go_flamesAI", "d1/de9/a27171.html", "d1/de9/a27171" ],
-    [ "go_heat", "dd/dcc/a27175.html", "dd/dcc/a27175" ],
-    [ "go_heat::go_heatAI", "de/d11/a27179.html", "de/d11/a27179" ],
-    [ "go_bear_trap", "d8/d45/a27183.html", "d8/d45/a27183" ],
-    [ "go_bear_trap::go_bear_trapAI", "db/dcc/a27187.html", "db/dcc/a27187" ],
-    [ "go_l70_etc_music", "d1/d89/a27191.html", "d1/d89/a27191" ],
-    [ "go_l70_etc_music::go_l70_etc_musicAI", "d7/dd7/a27195.html", "d7/dd7/a27195" ],
-    [ "go_brewfest_music", "dc/dc7/a27199.html", "dc/dc7/a27199" ],
-    [ "go_brewfest_music::go_brewfest_musicAI", "d5/d52/a27203.html", "d5/d52/a27203" ],
-    [ "go_pirate_day_music", "d2/d3c/a27207.html", "d2/d3c/a27207" ],
-    [ "go_pirate_day_music::go_pirate_day_musicAI", "dc/d00/a27211.html", "dc/d00/a27211" ],
-    [ "go_darkmoon_faire_music", "d8/d60/a27215.html", "d8/d60/a27215" ],
-    [ "go_darkmoon_faire_music::go_darkmoon_faire_musicAI", "dd/dd3/a27219.html", "dd/dd3/a27219" ],
-    [ "go_midsummer_music", "d9/dcc/a27223.html", "d9/dcc/a27223" ],
-    [ "go_midsummer_music::go_midsummer_musicAI", "d0/d62/a27227.html", "d0/d62/a27227" ],
-    [ "go_gilded_brazier", "db/d00/a27231.html", "db/d00/a27231" ],
-    [ "go_gilded_brazier::go_gilded_brazierAI", "db/d61/a27235.html", "db/d61/a27235" ],
-    [ "go_tablet_of_the_seven", "db/d18/a27239.html", "db/d18/a27239" ],
-    [ "go_jump_a_tron", "d1/d25/a27243.html", "d1/d25/a27243" ],
-    [ "go_sacred_fire_of_life", "d7/d9d/a27247.html", "d7/d9d/a27247" ],
-    [ "go_southfury_moonstone", "d1/dd4/a27251.html", "d1/dd4/a27251" ],
-    [ "go_tele_to_dalaran_crystal", "d5/d6b/a27255.html", "d5/d6b/a27255" ],
-    [ "go_tele_to_violet_stand", "d6/d45/a27259.html", "d6/d45/a27259" ],
-    [ "go_fel_crystalforge", "de/d96/a27263.html", "de/d96/a27263" ],
-    [ "go_bashir_crystalforge", "da/d61/a27267.html", "da/d61/a27267" ],
-    [ "go_scourge_cage", "d1/dc6/a27271.html", "d1/dc6/a27271" ],
-    [ "go_arcane_prison", "d0/d28/a27275.html", "d0/d28/a27275" ],
-    [ "go_jotunheim_cage", "d9/dd3/a27279.html", "d9/dd3/a27279" ],
-    [ "go_table_theka", "d8/d44/a27283.html", "d8/d44/a27283" ],
-    [ "go_soulwell", "dc/d55/a27287.html", "dc/d55/a27287" ],
-    [ "go_soulwell::go_soulwellAI", "dc/dbd/a27291.html", "dc/dbd/a27291" ],
-    [ "go_dragonflayer_cage", "de/d3b/a27295.html", "de/d3b/a27295" ],
-    [ "go_amberpine_outhouse", "d1/de7/a27299.html", "d1/de7/a27299" ],
-    [ "go_hive_pod", "d3/d79/a27303.html", "d3/d79/a27303" ],
-    [ "go_massive_seaforium_charge", "dc/d00/a27307.html", "dc/d00/a27307" ],
-    [ "go_veil_skith_cage", "dd/df3/a27311.html", "dd/df3/a27311" ],
-    [ "go_bells", "da/dd0/a27315.html", "da/dd0/a27315" ],
-    [ "go_bells::go_bellsAI", "d9/d8e/a27319.html", "d9/d8e/a27319" ],
-    [ "go_duskwither_spire_power_source", "df/daa/a27323.html", "df/daa/a27323" ],
-    [ "GO_ANDERHOLS_SLIDER_CIDER_NOT_FOUND", "d6/dff/a02390.html#a15e95edb3a432c2276b12e06ee1d25f5", null ],
-    [ "GO_TELE_TO_DALARAN_CRYSTAL_FAILED", "d6/dff/a02390.html#a251537f34eed1ef24db9d554dd02f6fc", null ],
-    [ "GOSSIP_BASHIR_CRYSTALFORGE_ITEM_1", "d6/dff/a02390.html#ab3bd73bdd88e936930a8eb84b4b95a62", null ],
-    [ "GOSSIP_BASHIR_CRYSTALFORGE_ITEM_5", "d6/dff/a02390.html#adf584257acd0715545b9fd85af9b4b26", null ],
-    [ "GOSSIP_BASHIR_CRYSTALFORGE_ITEM_RETURN", "d6/dff/a02390.html#a4a16a502e538a89cea3901ab0fef7514", null ],
-    [ "GOSSIP_BASHIR_CRYSTALFORGE_ITEM_TEXT_RETURN", "d6/dff/a02390.html#a8cacd7bf0ec09541e2b63cb4e6c4a1ac", null ],
-    [ "GOSSIP_BASHIR_CRYSTALFORGE_TEXT", "d6/dff/a02390.html#a7d47f26f8b89415908625e4896e0e8c6", null ],
-    [ "GOSSIP_FEL_CRYSTALFORGE_ITEM_1", "d6/dff/a02390.html#a9a5872ac0107bd51af8cb73c2452d5b9", null ],
-    [ "GOSSIP_FEL_CRYSTALFORGE_ITEM_5", "d6/dff/a02390.html#acaed40aad5cd8d9ba2dfe703ed18b436", null ],
-    [ "GOSSIP_FEL_CRYSTALFORGE_ITEM_RETURN", "d6/dff/a02390.html#a7bad93736ddb1d33778864fcf6788c44", null ],
-    [ "GOSSIP_FEL_CRYSTALFORGE_ITEM_TEXT_RETURN", "d6/dff/a02390.html#a1c2e2dfcc8611abf2b74384416e9d07c", null ],
-    [ "GOSSIP_FEL_CRYSTALFORGE_TEXT", "d6/dff/a02390.html#acdaa5e2498550d493fb2006b11ab6b22", null ],
-    [ "AmberpineOuthouse", "d6/dff/a02390.html#a07b88edc032123dd2823904f2f4bbcb5", [
-      [ "QUEST_DOING_YOUR_DUTY", "d6/dff/a02390.html#a07b88edc032123dd2823904f2f4bbcb5a4389108dbe12ffc01dd5a03fee33f7ac", null ],
-      [ "SPELL_INDISPOSED", "d6/dff/a02390.html#a07b88edc032123dd2823904f2f4bbcb5a73f8f5f559193c507f19dfa3b60b5147", null ],
-      [ "SPELL_INDISPOSED_II", "d6/dff/a02390.html#a07b88edc032123dd2823904f2f4bbcb5a2264c8049d9b0b5f54a70ee31c0d4c50", null ],
-      [ "SPELL_INDISPOSED_III", "d6/dff/a02390.html#a07b88edc032123dd2823904f2f4bbcb5a63300779615323ee6c136ef363e76eeb", null ],
-      [ "GOSSIP_OUTHOUSE_INUSE", "d6/dff/a02390.html#a07b88edc032123dd2823904f2f4bbcb5a8ea6d407949a26f6201c64b851ac7d1a", null ],
-      [ "GOSSIP_OUTHOUSE_VACANT", "d6/dff/a02390.html#a07b88edc032123dd2823904f2f4bbcb5aeb1b8d27de342c6446f4a5fb2d8fbe8e", null ],
-      [ "GOSSIP_USE_OUTHOUSE", "d6/dff/a02390.html#a07b88edc032123dd2823904f2f4bbcb5a8e6b5927eb7eec248300c9bb81fc69cd", null ]
+    [ "AreaTrigger_at_voltarus_middle", "df/d8c/a27012.html", "df/d8c/a27012" ],
+    [ "AreaTrigger_at_coilfang_waterfall", "d9/dda/a27016.html", "d9/dda/a27016" ],
+    [ "AreaTrigger_at_legion_teleporter", "d9/d2f/a27020.html", "d9/d2f/a27020" ],
+    [ "AreaTrigger_at_stormwright_shelf", "d2/d23/a27024.html", "d2/d23/a27024" ],
+    [ "AreaTrigger_at_scent_larkorwi", "db/dec/a27028.html", "db/dec/a27028" ],
+    [ "AreaTrigger_at_last_rites", "dc/d21/a27032.html", "dc/d21/a27032" ],
+    [ "AreaTrigger_at_nats_landing", "d8/d69/a27036.html", "d8/d69/a27036" ],
+    [ "AreaTrigger_at_sentry_point", "dd/da8/a27040.html", "dd/da8/a27040" ],
+    [ "AreaTrigger_at_brewfest", "dc/d9d/a27044.html", "dc/d9d/a27044" ],
+    [ "AreaTrigger_at_area_52_entrance", "da/de6/a27048.html", "da/de6/a27048" ],
+    [ "Area52Entrance", "d6/dff/a02390.html#a7ef276a75040392ab3315082a3518c67", [
+      [ "SPELL_A52_NEURALYZER", "d6/dff/a02390.html#a7ef276a75040392ab3315082a3518c67afa491a434774607e1e712c2f79ac322a", null ],
+      [ "NPC_SPOTLIGHT", "d6/dff/a02390.html#a7ef276a75040392ab3315082a3518c67acded8211c601c5b237d60a58f65b56ac", null ],
+      [ "SUMMON_COOLDOWN", "d6/dff/a02390.html#a7ef276a75040392ab3315082a3518c67aa4b7173ec61f2859f8649f0adcbb37d1", null ],
+      [ "AT_AREA_52_SOUTH", "d6/dff/a02390.html#a7ef276a75040392ab3315082a3518c67ac9b6a7b98c7a4b2013ccd61f637851f9", null ],
+      [ "AT_AREA_52_NORTH", "d6/dff/a02390.html#a7ef276a75040392ab3315082a3518c67a7eb1ed4b6c4f3ef99e5cdd9b1505a09e", null ],
+      [ "AT_AREA_52_WEST", "d6/dff/a02390.html#a7ef276a75040392ab3315082a3518c67a69d8c4647a15efe238a70b1f049ff97f", null ],
+      [ "AT_AREA_52_EAST", "d6/dff/a02390.html#a7ef276a75040392ab3315082a3518c67a3173f419da9cf80efa68ca3e99c10528", null ]
     ] ],
-    [ "ArcanePrison", "d6/dff/a02390.html#a9db4934c439fa28011f80f576c937514", [
-      [ "QUEST_PRISON_BREAK", "d6/dff/a02390.html#a9db4934c439fa28011f80f576c937514a94558787541d54d4c0ff786dc2abd4c6", null ],
-      [ "SPELL_ARCANE_PRISONER_KILL_CREDIT", "d6/dff/a02390.html#a9db4934c439fa28011f80f576c937514aaa1481cbe1b1ee5ed774b64adce2e233", null ]
+    [ "AtLastRites", "d6/dff/a02390.html#aedd9d40d0b524b4a5da323938c6f1c99", [
+      [ "QUEST_LAST_RITES", "d6/dff/a02390.html#aedd9d40d0b524b4a5da323938c6f1c99af622e93bef1f891f43c910aec65feef2", null ],
+      [ "QUEST_BREAKING_THROUGH", "d6/dff/a02390.html#aedd9d40d0b524b4a5da323938c6f1c99a0d528966459def04c2372cb96fb03057", null ]
     ] ],
-    [ "BashirCrystalforge", "d6/dff/a02390.html#a4b0fc60d9588e0078fb9a8ab52591972", [
-      [ "SPELL_CREATE_1_FLASK_OF_SORCERER", "d6/dff/a02390.html#a4b0fc60d9588e0078fb9a8ab52591972a984bae28adeea49a9eccf483551e5465", null ],
-      [ "SPELL_CREATE_5_FLASK_OF_SORCERER", "d6/dff/a02390.html#a4b0fc60d9588e0078fb9a8ab52591972a1005ef375fef0e8064dc83db0cf1370b", null ]
+    [ "Brewfest", "d6/dff/a02390.html#a9b234b18092b711f6f11cda755fe0bfd", [
+      [ "NPC_TAPPER_SWINDLEKEG", "d6/dff/a02390.html#a9b234b18092b711f6f11cda755fe0bfda91dfef2ce070232ed51a69d9c6399130", null ],
+      [ "NPC_IPFELKOFER_IRONKEG", "d6/dff/a02390.html#a9b234b18092b711f6f11cda755fe0bfda39440d09522df095e726cb1da7ab817e", null ],
+      [ "AT_BREWFEST_DUROTAR", "d6/dff/a02390.html#a9b234b18092b711f6f11cda755fe0bfda6dbf4e730fdb44d7ceb232e60cee3091", null ],
+      [ "AT_BREWFEST_DUN_MOROGH", "d6/dff/a02390.html#a9b234b18092b711f6f11cda755fe0bfda91d9e35e7360f1d853d2f54f54548c61", null ],
+      [ "SAY_WELCOME", "d6/dff/a02390.html#a9b234b18092b711f6f11cda755fe0bfda53e43b5d6a57facfdbe1b6559295a32f", null ],
+      [ "AREATRIGGER_TALK_COOLDOWN", "d6/dff/a02390.html#a9b234b18092b711f6f11cda755fe0bfda7105e5d2474e31860a9bc9f5075c31e4", null ]
     ] ],
-    [ "BellHourlyMisc", "d6/dff/a02390.html#a30ebe09f92269b0ecf33b3d0865a3e18", [
-      [ "GAME_EVENT_HOURLY_BELLS", "d6/dff/a02390.html#a30ebe09f92269b0ecf33b3d0865a3e18aa237d3f5a602ffd414af9f62fe5da60c", null ],
-      [ "EVENT_RING_BELL", "d6/dff/a02390.html#a30ebe09f92269b0ecf33b3d0865a3e18aeac3ba497c7abe6379f714275584bf0d", null ],
-      [ "EVENT_TIME", "d6/dff/a02390.html#a30ebe09f92269b0ecf33b3d0865a3e18a3c04eb101efda30d7c1f73678eae701b", null ]
+    [ "CoilfangGOs", "d6/dff/a02390.html#a9670aee8aef02c60b84d4c3d11c963b5", [
+      [ "GO_COILFANG_WATERFALL", "d6/dff/a02390.html#a9670aee8aef02c60b84d4c3d11c963b5a30520dfb9388b8cc7b4cbc9b3420d65d", null ]
     ] ],
-    [ "BellHourlyObjects", "d6/dff/a02390.html#a34fc42b84d94303ffa0825e8c0f922b3", [
-      [ "GO_HORDE_BELL", "d6/dff/a02390.html#a34fc42b84d94303ffa0825e8c0f922b3a902afce21bc38a8bd15dead3f321e957", null ],
-      [ "GO_ALLIANCE_BELL", "d6/dff/a02390.html#a34fc42b84d94303ffa0825e8c0f922b3a0dab569e9ded0955c5a53b07f71a52c1", null ],
-      [ "GO_KHARAZHAN_BELL", "d6/dff/a02390.html#a34fc42b84d94303ffa0825e8c0f922b3a8e249767760a017a8f397b7885544557", null ]
+    [ "LegionTeleporter", "d6/dff/a02390.html#ad9a6ea877cb24dbb530ccf0e03cb7012", [
+      [ "SPELL_TELE_A_TO", "d6/dff/a02390.html#ad9a6ea877cb24dbb530ccf0e03cb7012a09569d3491e5bf73c2d9e897077cd162", null ],
+      [ "QUEST_GAINING_ACCESS_A", "d6/dff/a02390.html#ad9a6ea877cb24dbb530ccf0e03cb7012a1746dcba888866f4914d5fa112323879", null ],
+      [ "SPELL_TELE_H_TO", "d6/dff/a02390.html#ad9a6ea877cb24dbb530ccf0e03cb7012a0373689ced7bf6fcd5453719eff7dff9", null ],
+      [ "QUEST_GAINING_ACCESS_H", "d6/dff/a02390.html#ad9a6ea877cb24dbb530ccf0e03cb7012a90bff047b5c92fa8418685d95440c5ea", null ]
     ] ],
-    [ "BellHourlySoundFX", "d6/dff/a02390.html#acf70bf5aef6a5c87e11c5a783bf28bbe", [
-      [ "BELLTOLLHORDE", "d6/dff/a02390.html#acf70bf5aef6a5c87e11c5a783bf28bbeaa10106ffc02139319351b94eb8f77b1b", null ],
-      [ "BELLTOLLTRIBAL", "d6/dff/a02390.html#acf70bf5aef6a5c87e11c5a783bf28bbeab97f413b0b7481dc69fad37ab15aa1ee", null ],
-      [ "BELLTOLLALLIANCE", "d6/dff/a02390.html#acf70bf5aef6a5c87e11c5a783bf28bbea6602f47011fe059e673d7ed981778279", null ],
-      [ "BELLTOLLNIGHTELF", "d6/dff/a02390.html#acf70bf5aef6a5c87e11c5a783bf28bbea4194c31ad685b4aaf8721d4382b850d8", null ],
-      [ "BELLTOLLDWARFGNOME", "d6/dff/a02390.html#acf70bf5aef6a5c87e11c5a783bf28bbeae72761714f81f491e8d5bd55f336d615", null ],
-      [ "BELLTOLLKHARAZHAN", "d6/dff/a02390.html#acf70bf5aef6a5c87e11c5a783bf28bbea931fe46d052fd8a6e36aa1c9931a7c89", null ],
-      [ "LIGHTHOUSEFOGHORN", "d6/dff/a02390.html#acf70bf5aef6a5c87e11c5a783bf28bbea1793a7d1a1a3da24135c59906166779b", null ]
+    [ "NatsLanding", "d6/dff/a02390.html#a5ee4c50b08414290f73ada43c1c71151", [
+      [ "QUEST_NATS_BARGAIN", "d6/dff/a02390.html#a5ee4c50b08414290f73ada43c1c71151aeff02bfb540090dbb759b896b3b3627e", null ],
+      [ "SPELL_FISH_PASTE", "d6/dff/a02390.html#a5ee4c50b08414290f73ada43c1c71151a84c85ea415f324f0acec6a0e8d8eb8a6", null ],
+      [ "NPC_LURKING_SHARK", "d6/dff/a02390.html#a5ee4c50b08414290f73ada43c1c71151af67d7adb069812fe8e3d79aff3f18900", null ]
     ] ],
-    [ "BrewfestMusic", "d6/dff/a02390.html#a8252c989bb2e1eba66a22ecca709f564", [
-      [ "EVENT_BREWFESTDWARF01", "d6/dff/a02390.html#a8252c989bb2e1eba66a22ecca709f564a88789829db8a93162b1d05164419cab8", null ],
-      [ "EVENT_BREWFESTDWARF02", "d6/dff/a02390.html#a8252c989bb2e1eba66a22ecca709f564a3f83ee9e66dd1cafe729ace62e3fe750", null ],
-      [ "EVENT_BREWFESTDWARF03", "d6/dff/a02390.html#a8252c989bb2e1eba66a22ecca709f564aa5d4774ba92c55a0e2ff32f7259bbfb1", null ],
-      [ "EVENT_BREWFESTGOBLIN01", "d6/dff/a02390.html#a8252c989bb2e1eba66a22ecca709f564ade41a4f3dd7199b8ba227476db8b5c67", null ],
-      [ "EVENT_BREWFESTGOBLIN02", "d6/dff/a02390.html#a8252c989bb2e1eba66a22ecca709f564ac454101fa9ed0642363b53f00be63f01", null ],
-      [ "EVENT_BREWFESTGOBLIN03", "d6/dff/a02390.html#a8252c989bb2e1eba66a22ecca709f564a057297ac9ac83c5484599c5216940bbe", null ]
+    [ "ScentLarkorwi", "d6/dff/a02390.html#a743ca0b810fe5b376233e725f346d416", [
+      [ "QUEST_SCENT_OF_LARKORWI", "d6/dff/a02390.html#a743ca0b810fe5b376233e725f346d416a105afbe1f1e3510efdd8ef9fbfe153ee", null ],
+      [ "NPC_LARKORWI_MATE", "d6/dff/a02390.html#a743ca0b810fe5b376233e725f346d416adb746f23675f0b248d264a0557ceff5d", null ]
     ] ],
-    [ "BrewfestMusicEvents", "d6/dff/a02390.html#a293cc7f2c3a00fda78cf9095ed587754", [
-      [ "EVENT_BM_SELECT_MUSIC", "d6/dff/a02390.html#a293cc7f2c3a00fda78cf9095ed587754a9872f5e337c0487193d65486f5aa1230", null ],
-      [ "EVENT_BM_START_MUSIC", "d6/dff/a02390.html#a293cc7f2c3a00fda78cf9095ed587754aaf65f53796fb05df9667bac4db0883bf", null ]
+    [ "SentryPoint", "d6/dff/a02390.html#a24ef89c28423d02750eff95a35b3a275", [
+      [ "SPELL_TELEPORT_VISUAL", "d6/dff/a02390.html#a24ef89c28423d02750eff95a35b3a275a73cc106ecf58fcd3a75fa23f9ff7a21c", null ],
+      [ "QUEST_MISSING_DIPLO_PT14", "d6/dff/a02390.html#a24ef89c28423d02750eff95a35b3a275a378a874d36260f01327d51d537b33d94", null ],
+      [ "NPC_TERVOSH", "d6/dff/a02390.html#a24ef89c28423d02750eff95a35b3a275a0ef56679b82214bad2e052fb8e979c50", null ]
     ] ],
-    [ "BrewfestMusicTime", "d6/dff/a02390.html#a5303c6cb3569261af3a3c3e2eb979514", [
-      [ "EVENT_BREWFESTDWARF01_TIME", "d6/dff/a02390.html#a5303c6cb3569261af3a3c3e2eb979514ad74bc2fac0b21c1b284989297b3a714f", null ],
-      [ "EVENT_BREWFESTDWARF02_TIME", "d6/dff/a02390.html#a5303c6cb3569261af3a3c3e2eb979514ae44738b283f7ee2223d595c677b55a5e", null ],
-      [ "EVENT_BREWFESTDWARF03_TIME", "d6/dff/a02390.html#a5303c6cb3569261af3a3c3e2eb979514a7340a4a606adf2de5d12323199601106", null ],
-      [ "EVENT_BREWFESTGOBLIN01_TIME", "d6/dff/a02390.html#a5303c6cb3569261af3a3c3e2eb979514a6525b251fb13f1c31fab3f15a36dbdbd", null ],
-      [ "EVENT_BREWFESTGOBLIN02_TIME", "d6/dff/a02390.html#a5303c6cb3569261af3a3c3e2eb979514a13e8973bb9e6a05ce7102c35b84ea104", null ],
-      [ "EVENT_BREWFESTGOBLIN03_TIME", "d6/dff/a02390.html#a5303c6cb3569261af3a3c3e2eb979514a0c230db496ff28f6fe23037ba7a5e3e8", null ]
+    [ "StormwrightShelf", "d6/dff/a02390.html#abdd676bd524ed3ea6915b8b1348861dd", [
+      [ "QUEST_STRENGTH_OF_THE_TEMPEST", "d6/dff/a02390.html#abdd676bd524ed3ea6915b8b1348861ddae6b91cb73e581fe9558469357a90ec24", null ],
+      [ "SPELL_CREATE_TRUE_POWER_OF_THE_TEMPEST", "d6/dff/a02390.html#abdd676bd524ed3ea6915b8b1348861dda55079b9b218f67c0dcae1b7da0dcb277", null ]
     ] ],
-    [ "DalaranCrystal", "d6/dff/a02390.html#ade3a4e0d612bfa05079d991c96e29ced", [
-      [ "QUEST_LEARN_LEAVE_RETURN", "d6/dff/a02390.html#ade3a4e0d612bfa05079d991c96e29cedae2e298b0385483a254dfe93caea9ea7c", null ],
-      [ "QUEST_TELE_CRYSTAL_FLAG", "d6/dff/a02390.html#ade3a4e0d612bfa05079d991c96e29ceda3a62854b3a4bf50563697b1f3d8522e5", null ]
-    ] ],
-    [ "DarkmoonFaireMusic", "d6/dff/a02390.html#ae025fd503d338829244816661253f72b", [
-      [ "MUSIC_DARKMOON_FAIRE_MUSIC", "d6/dff/a02390.html#ae025fd503d338829244816661253f72ba83d0dd412977abc7617591f50cb2ee25", null ]
-    ] ],
-    [ "DarkmoonFaireMusicEvents", "d6/dff/a02390.html#aeb45547dcb7fcfa8a220196202e29ead", [
-      [ "EVENT_DFM_START_MUSIC", "d6/dff/a02390.html#aeb45547dcb7fcfa8a220196202e29eada8a6d9cfd8e359afb76b8eb63a183a59d", null ]
-    ] ],
-    [ "DuskwitherSpirePowersource", "d6/dff/a02390.html#ac6b02a297c94062e319baae58b848232", [
-      [ "NPC_POWER_SOURCE_INVISIBLE_BUNNY", "d6/dff/a02390.html#ac6b02a297c94062e319baae58b848232acd254d27323a70361e354e43562727b8", null ]
-    ] ],
-    [ "eBearTrap", "d6/dff/a02390.html#a5d966ea1d3d0e449b23e83c8f8b0edf0", [
-      [ "EVENT_CHECK", "d6/dff/a02390.html#a5d966ea1d3d0e449b23e83c8f8b0edf0afda49efdcecab7f5dbf2499d16a880c7", null ],
-      [ "NPC_RABID_THISTLE_BEAR", "d6/dff/a02390.html#a5d966ea1d3d0e449b23e83c8f8b0edf0abcc4c74b391ab174a8afb399448b9d29", null ],
-      [ "SPELL_BEAR_CAPTURED_IN_TRAP", "d6/dff/a02390.html#a5d966ea1d3d0e449b23e83c8f8b0edf0aabd6de46cc001c141b9bb935b6d6e973", null ]
-    ] ],
-    [ "EthereumPrison", "d6/dff/a02390.html#a623349239137431b9858d9534528aa65", [
-      [ "SPELL_REP_LC", "d6/dff/a02390.html#a623349239137431b9858d9534528aa65aa4ac36d48d7de8beedbe7ef572f7a059", null ],
-      [ "SPELL_REP_SHAT", "d6/dff/a02390.html#a623349239137431b9858d9534528aa65ae8df816977c3e15f5cf16bdd2ec62f35", null ],
-      [ "SPELL_REP_CE", "d6/dff/a02390.html#a623349239137431b9858d9534528aa65af65b29400a83ec355eb6c8e5a5e2c0fa", null ],
-      [ "SPELL_REP_CON", "d6/dff/a02390.html#a623349239137431b9858d9534528aa65a24894ff6554ebaf75e1bf7ec4a489bbc", null ],
-      [ "SPELL_REP_KT", "d6/dff/a02390.html#a623349239137431b9858d9534528aa65a2103792b0b05004c6da77c8c90404eea", null ],
-      [ "SPELL_REP_SPOR", "d6/dff/a02390.html#a623349239137431b9858d9534528aa65a3abd8970683b2ced8b1c361f5235a076", null ]
-    ] ],
-    [ "FelCrystalforge", "d6/dff/a02390.html#a1cbcf411e679384ad8d04a2e4245f8d4", [
-      [ "SPELL_CREATE_1_FLASK_OF_BEAST", "d6/dff/a02390.html#a1cbcf411e679384ad8d04a2e4245f8d4a8e680b4efb1b7ce94b11eb2236e9d1d8", null ],
-      [ "SPELL_CREATE_5_FLASK_OF_BEAST", "d6/dff/a02390.html#a1cbcf411e679384ad8d04a2e4245f8d4a51af179aa68c4c75d99cb928e3285882", null ]
-    ] ],
-    [ "Flames", "d6/dff/a02390.html#a86fc43e3cc7466f40ccad6b24f41be22", [
-      [ "SPELL_FLAMES", "d6/dff/a02390.html#a86fc43e3cc7466f40ccad6b24f41be22a783c7b41db9c6b8418d0e3f1a7d5257f", null ]
-    ] ],
-    [ "GildedBrazier", "d6/dff/a02390.html#a347a6419e778b823e4a710cccc32373e", [
-      [ "EVENT_STILLBLADE_SPAWN", "d6/dff/a02390.html#a347a6419e778b823e4a710cccc32373eafba1423598e540151dde7c62715071be", null ],
-      [ "EVENT_RESET_BRAZIER", "d6/dff/a02390.html#a347a6419e778b823e4a710cccc32373eafbc8b546982b065b53e6baf035876310", null ],
-      [ "NPC_STILLBLADE", "d6/dff/a02390.html#a347a6419e778b823e4a710cccc32373eacca99fdfb73aa6e8eb169b184cfed371", null ],
-      [ "QUEST_THE_FIRST_TRIAL", "d6/dff/a02390.html#a347a6419e778b823e4a710cccc32373ea35e07db4aff89a4b282cd425703e3a3f", null ]
-    ] ],
-    [ "Heat", "d6/dff/a02390.html#acb117480e1211071a9d8031a50fb1286", [
-      [ "SPELL_HEAT", "d6/dff/a02390.html#acb117480e1211071a9d8031a50fb1286a9329da13a5cbfa0d7dad14d7aeceeac7", null ]
-    ] ],
-    [ "Hives", "d6/dff/a02390.html#a2faa009fcb80f6db3bbd9b2d106a6234", [
-      [ "QUEST_HIVE_IN_THE_TOWER", "d6/dff/a02390.html#a2faa009fcb80f6db3bbd9b2d106a6234ad8ff16021ccf6355a9a31a52e4e639fd", null ],
-      [ "NPC_HIVE_AMBUSHER", "d6/dff/a02390.html#a2faa009fcb80f6db3bbd9b2d106a6234a19bc649762c576b9ed3bd07b266561f5", null ]
-    ] ],
-    [ "JotunheimCage", "d6/dff/a02390.html#a0ff7af590f3037be7611d256e9099e7b", [
-      [ "NPC_EBON_BLADE_PRISONER_HUMAN", "d6/dff/a02390.html#a0ff7af590f3037be7611d256e9099e7bacbb78d20aba3f8d9378ed932aa9b4516", null ],
-      [ "NPC_EBON_BLADE_PRISONER_NE", "d6/dff/a02390.html#a0ff7af590f3037be7611d256e9099e7ba6a9a7936e2b74aed43db7777b5ea3ceb", null ],
-      [ "NPC_EBON_BLADE_PRISONER_TROLL", "d6/dff/a02390.html#a0ff7af590f3037be7611d256e9099e7ba08baf99dc1bf69a95e924ac226cac019", null ],
-      [ "NPC_EBON_BLADE_PRISONER_ORC", "d6/dff/a02390.html#a0ff7af590f3037be7611d256e9099e7ba9c354aa5df1a8b9bf4d8f599dd0cb1f1", null ],
-      [ "SPELL_SUMMON_BLADE_KNIGHT_H", "d6/dff/a02390.html#a0ff7af590f3037be7611d256e9099e7ba8b480ab412fc2497f0faea4e83dbf849", null ],
-      [ "SPELL_SUMMON_BLADE_KNIGHT_NE", "d6/dff/a02390.html#a0ff7af590f3037be7611d256e9099e7ba0d3ea38b4e032b371b8dd2f76c6cdc14", null ],
-      [ "SPELL_SUMMON_BLADE_KNIGHT_ORC", "d6/dff/a02390.html#a0ff7af590f3037be7611d256e9099e7ba90772d660ff6278d2d18be3a427a7c8f", null ],
-      [ "SPELL_SUMMON_BLADE_KNIGHT_TROLL", "d6/dff/a02390.html#a0ff7af590f3037be7611d256e9099e7bad0b17cb3e545d3ecef964b3e92c0bcfa", null ]
-    ] ],
-    [ "L70ETCMusic", "d6/dff/a02390.html#a59d13d14f2f300cebbf6190096553948", [
-      [ "MUSIC_L70_ETC_MUSIC", "d6/dff/a02390.html#a59d13d14f2f300cebbf6190096553948ad3219dcc896897dbe1e4e2411ac068a6", null ],
-      [ "MUSIC_L70_ETC_MUSIC_LOUD", "d6/dff/a02390.html#a59d13d14f2f300cebbf6190096553948acbf8bf280ef0469e9944c8d5b1ce8352", null ]
-    ] ],
-    [ "L70ETCMusicEvents", "d6/dff/a02390.html#a63e8543fdde38edca1a929bf78b7eae5", [
-      [ "EVENT_ETC_START_MUSIC", "d6/dff/a02390.html#a63e8543fdde38edca1a929bf78b7eae5ae97b97c692a7052f64061415302ca04b", null ]
-    ] ],
-    [ "MidsummerMusic", "d6/dff/a02390.html#afb6224fffef0ad81bb5368a9a386f3fc", [
-      [ "EVENTMIDSUMMERFIREFESTIVAL_A", "d6/dff/a02390.html#afb6224fffef0ad81bb5368a9a386f3fca51957276e00d01081d2a598d1055985b", null ],
-      [ "EVENTMIDSUMMERFIREFESTIVAL_H", "d6/dff/a02390.html#afb6224fffef0ad81bb5368a9a386f3fca65bfe4ffff93d1df9a6fdfcb6e760f0c", null ]
-    ] ],
-    [ "MidsummerMusicEvents", "d6/dff/a02390.html#adc61da6c657a244735b14c8dea5f8b22", [
-      [ "EVENT_MM_START_MUSIC", "d6/dff/a02390.html#adc61da6c657a244735b14c8dea5f8b22a48b8c7eb34fb1be4c3ce19bf76d46bcc", null ]
-    ] ],
-    [ "MissingFriends", "d6/dff/a02390.html#adfd97b04315971acc0c9d330812c4548", [
-      [ "QUEST_MISSING_FRIENDS", "d6/dff/a02390.html#adfd97b04315971acc0c9d330812c4548ac5848524316682d4842a48191971de33", null ],
-      [ "NPC_CAPTIVE_CHILD", "d6/dff/a02390.html#adfd97b04315971acc0c9d330812c4548a577a6598330417dc1d106fea0bbd214f", null ],
-      [ "SAY_FREE_0", "d6/dff/a02390.html#adfd97b04315971acc0c9d330812c4548a5a1dd659f4a6438f260cddfc7a9faaf4", null ]
-    ] ],
-    [ "PirateDayMusic", "d6/dff/a02390.html#a389c53b4909666608f9054330b601fd1", [
-      [ "MUSIC_PIRATE_DAY_MUSIC", "d6/dff/a02390.html#a389c53b4909666608f9054330b601fd1a02835584af75215c801e4bf424b70557", null ]
-    ] ],
-    [ "PirateDayMusicEvents", "d6/dff/a02390.html#a90070712c532a8c26b7acca5702f0737", [
-      [ "EVENT_PDM_START_MUSIC", "d6/dff/a02390.html#a90070712c532a8c26b7acca5702f0737a53a10f03018ca8517c37544f34675e65", null ]
-    ] ],
-    [ "PrisonersOfWyrmskull", "d6/dff/a02390.html#a4d6f25f7ca33d24de63375fd80f65464", [
-      [ "QUEST_PRISONERS_OF_WYRMSKULL", "d6/dff/a02390.html#a4d6f25f7ca33d24de63375fd80f65464a62f108ce2306c4739dfa8dd750aeac78", null ],
-      [ "NPC_PRISONER_PRIEST", "d6/dff/a02390.html#a4d6f25f7ca33d24de63375fd80f65464aa22418d4ecffba02287c2e32913bb81d", null ],
-      [ "NPC_PRISONER_MAGE", "d6/dff/a02390.html#a4d6f25f7ca33d24de63375fd80f65464a50000c03d26a85aa7a0a29e5a6702537", null ],
-      [ "NPC_PRISONER_WARRIOR", "d6/dff/a02390.html#a4d6f25f7ca33d24de63375fd80f65464a68d3afb31a92f0c6667512c1dcbf1e46", null ],
-      [ "NPC_PRISONER_PALADIN", "d6/dff/a02390.html#a4d6f25f7ca33d24de63375fd80f65464a061231939c8de775b288710eca21bf40", null ]
-    ] ],
-    [ "ResoniteCask", "d6/dff/a02390.html#ad5f44f5d67016ff7f12124be418b2021", [
-      [ "NPC_GOGGEROC", "d6/dff/a02390.html#ad5f44f5d67016ff7f12124be418b2021aee6ef9664911bce121f3a3bec8d3e343", null ]
-    ] ],
-    [ "SacredFireOfLife", "d6/dff/a02390.html#a697c0075930ebe1517fa49abf16f83eb", [
-      [ "NPC_ARIKARA", "d6/dff/a02390.html#a697c0075930ebe1517fa49abf16f83eba296cf0a698aea241a26d22c3191ef8a0", null ]
-    ] ],
-    [ "ScourgeCage", "d6/dff/a02390.html#ad3497c9e799c29ee7456d5df987187c1", [
-      [ "NPC_SCOURGE_PRISONER", "d6/dff/a02390.html#ad3497c9e799c29ee7456d5df987187c1a1cd21a24b067e64504a529ad7549a733", null ]
-    ] ],
-    [ "SoulWellData", "d6/dff/a02390.html#aa4a4802cff073e110549b83a996eb79b", [
-      [ "GO_SOUL_WELL_R1", "d6/dff/a02390.html#aa4a4802cff073e110549b83a996eb79ba1084df477a73b857891a5775ef212c00", null ],
-      [ "GO_SOUL_WELL_R2", "d6/dff/a02390.html#aa4a4802cff073e110549b83a996eb79ba913685e89a78ccb97f5c089c064f9faf", null ],
-      [ "SPELL_IMPROVED_HEALTH_STONE_R1", "d6/dff/a02390.html#aa4a4802cff073e110549b83a996eb79ba317e189a5cf5b01e4b6d99feccacafca", null ],
-      [ "SPELL_IMPROVED_HEALTH_STONE_R2", "d6/dff/a02390.html#aa4a4802cff073e110549b83a996eb79ba0d560c4f48145026393e9528b36d4554", null ],
-      [ "SPELL_CREATE_MASTER_HEALTH_STONE_R0", "d6/dff/a02390.html#aa4a4802cff073e110549b83a996eb79ba7b05caf02fe0a92cf685a8add1e47e0f", null ],
-      [ "SPELL_CREATE_MASTER_HEALTH_STONE_R1", "d6/dff/a02390.html#aa4a4802cff073e110549b83a996eb79ba1fc1e9c412f7fa724113e107cf223bd4", null ],
-      [ "SPELL_CREATE_MASTER_HEALTH_STONE_R2", "d6/dff/a02390.html#aa4a4802cff073e110549b83a996eb79ba62452df477db11e876f8eaec42d3e9b7", null ],
-      [ "SPELL_CREATE_FEL_HEALTH_STONE_R0", "d6/dff/a02390.html#aa4a4802cff073e110549b83a996eb79baea59b299494301cbf54f39c2c95fa676", null ],
-      [ "SPELL_CREATE_FEL_HEALTH_STONE_R1", "d6/dff/a02390.html#aa4a4802cff073e110549b83a996eb79ba1ac5ca668833328f0b3e6110b028cbef", null ],
-      [ "SPELL_CREATE_FEL_HEALTH_STONE_R2", "d6/dff/a02390.html#aa4a4802cff073e110549b83a996eb79ba41c2f1476d204bbe311a8717267ca675", null ]
-    ] ],
-    [ "Southfury", "d6/dff/a02390.html#ad784f07f99f6ed64508c001519a95e32", [
-      [ "NPC_RIZZLE", "d6/dff/a02390.html#ad784f07f99f6ed64508c001519a95e32ae867798151e6822d90985ba96e4bb1c6", null ],
-      [ "SPELL_BLACKJACK", "d6/dff/a02390.html#ad784f07f99f6ed64508c001519a95e32abfb09b4768724b1ac9a3fa492cb202f1", null ],
-      [ "SPELL_SUMMON_RIZZLE", "d6/dff/a02390.html#ad784f07f99f6ed64508c001519a95e32ad900f7ca6393655ba8caaf61274e1e03", null ]
-    ] ],
-    [ "TableTheka", "d6/dff/a02390.html#a587e949385cbfdf0f1c4258824ddf613", [
-      [ "GOSSIP_TABLE_THEKA", "d6/dff/a02390.html#a587e949385cbfdf0f1c4258824ddf613a2792d3d6516001848663222a1238b74c", null ],
-      [ "QUEST_SPIDER_GOLD", "d6/dff/a02390.html#a587e949385cbfdf0f1c4258824ddf613a5b3668bdd62aeab47be5ccad2ef062ce", null ]
-    ] ],
-    [ "Tadpoles", "d6/dff/a02390.html#a5837f163fbede79a2e128c803b8c205f", [
-      [ "QUEST_OH_NOES_THE_TADPOLES", "d6/dff/a02390.html#a5837f163fbede79a2e128c803b8c205fa2a051f777a14f3a821f8562daeae7d30", null ],
-      [ "NPC_WINTERFIN_TADPOLE", "d6/dff/a02390.html#a5837f163fbede79a2e128c803b8c205fa209cd862cd12d8e15eaebe3f74172f46", null ]
-    ] ],
-    [ "AddSC_go_scripts", "d6/dff/a02390.html#a279b19d9fff015d16fc8bbd2fbc9325a", null ],
-    [ "NpcPrisonEntry", "d6/dff/a02390.html#a6365b842c73f0ec2257c6e8933ee63e0", null ],
-    [ "NpcStasisEntry", "d6/dff/a02390.html#adaf5cc3bde92e64d742c2afd8184d0b8", null ]
+    [ "AddSC_areatrigger_scripts", "d6/dff/a02390.html#a992f2da647f1f8748c7c9239b52079ad", null ]
 ];

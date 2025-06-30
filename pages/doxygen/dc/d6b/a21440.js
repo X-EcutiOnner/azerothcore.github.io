@@ -1,10 +1,14 @@
 var a21440 =
 [
-    [ "npc_jenny", "dc/d6b/a21440.html#ab845ba4551900a03c5a995d348a1be55", null ],
-    [ "DamageTaken", "dc/d6b/a21440.html#a8700091c82bfff473f3d5563deb69e0b", null ],
-    [ "Initialize", "dc/d6b/a21440.html#aab8c540ebb90ebbaef961b1feb3013a3", null ],
-    [ "MoveInLineOfSight", "dc/d6b/a21440.html#acd0939cee3ecb9d961d09815d9c50f71", null ],
-    [ "UpdateFollowerAI", "dc/d6b/a21440.html#afbd142855602bcf7a8cd8e4cc4760cf0", null ],
-    [ "_events", "dc/d6b/a21440.html#aa98caf8b706551470c943b4b722a85ae", null ],
-    [ "_fezzix", "dc/d6b/a21440.html#ac2115c122c2eac2d5a36d1795d1e6bf0", null ]
+    [ "npc_azure_saboteurAI", "dc/d6b/a21440.html#a09fc1e8f171209471c5403af33b05a58", null ],
+    [ "FinishPointReached", "dc/d6b/a21440.html#a322380edef5dbefe5ac4ab0040183010", null ],
+    [ "MoveInLineOfSight", "dc/d6b/a21440.html#a21868549892cdd0e67d6403dece9efce", null ],
+    [ "UpdateAI", "dc/d6b/a21440.html#a9ccbb54a41aef3a252a46545649c2c91", null ],
+    [ "WaypointReached", "dc/d6b/a21440.html#ac17dc46bfe75582a789a2056978218fb", null ],
+    [ "bAddedWPs", "dc/d6b/a21440.html#a9cabb9053b3c6b51be184b2144e5ec54", null ],
+    [ "bOpening", "dc/d6b/a21440.html#a924ceb13552f0f01d55375af0324bf5a", null ],
+    [ "count", "dc/d6b/a21440.html#a38bf10a96c8eae45b4aa0bd095924f85", null ],
+    [ "pInstance", "dc/d6b/a21440.html#a1375420fe4bf16f122aa93f5c847a464", null ],
+    [ "timer", "dc/d6b/a21440.html#a30745320b9cc64fb690fa7bd6d7525f2", null ],
+    [ "uiBoss", "dc/d6b/a21440.html#a36f60e44bd8f1de85429a75f3e928d77", null ]
 ];

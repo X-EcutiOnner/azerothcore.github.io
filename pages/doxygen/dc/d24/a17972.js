@@ -1,6 +1,7 @@
 var a17972 =
 [
-    [ "HandleSpecial", "dc/d24/a17972.html#afa540e8c748ca3083667528e2449bc65", null ],
-    [ "PrepareSpellScript", "dc/d24/a17972.html#a9472211ffdaa33802099b22b2a721645", null ],
-    [ "Register", "dc/d24/a17972.html#ab868b10372ff2ef401d19b126acf00c6", null ]
+    [ "IceTombSummonEvent", "dc/d24/a17972.html#a2ead0e5f6eb0c32f5c11f38e667b65d3", null ],
+    [ "Execute", "dc/d24/a17972.html#aa708b67e60ba0b4fe2334c43aaaca5c7", null ],
+    [ "_owner", "dc/d24/a17972.html#a1b95617b511dfa7868c59dbdf7e6c4c7", null ],
+    [ "_sindragosaGUID", "dc/d24/a17972.html#abe61867b29cd4fe3d02268f18b3618ee", null ]
 ];

@@ -1,7 +1,6 @@
 var a10732 =
 [
-    [ "PlayMusic", "d2/d32/a10732.html#afee4b7ae9ac5f4f2b7365d3d00e7b581", null ],
-    [ "PlayMusic", "d2/d32/a10732.html#ad3d833f70de5937365c2351aa5206bbf", null ],
-    [ "Write", "d2/d32/a10732.html#ad01a67d76fe9dff269eac9108a27c75a", null ],
-    [ "SoundKitID", "d2/d32/a10732.html#ad2342dd0c1461283c595af29c3bc9fe6", null ]
+    [ "PlayerSaveGuildEmblem", "d2/d32/a10732.html#ae1269fb7583f0ce1703cd89d592b1485", null ],
+    [ "Write", "d2/d32/a10732.html#a0427be2f46cba4ff6b2ca072924bca7b", null ],
+    [ "Error", "d2/d32/a10732.html#a76930d3b74bf7b84a311b24b53d03b21", null ]
 ];

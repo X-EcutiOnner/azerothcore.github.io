@@ -1,10 +1,7 @@
 var a22732 =
 [
-    [ "boss_gathios_the_shatterer", "de/d32/a22732.html#a34708f52c610e567c5acf62962e90d4e", null ],
-    [ "JustEngagedWith", "de/d32/a22732.html#a98ad625cf2ac9b1d8d9b41001ba4fb34", null ],
-    [ "SelectCouncilMember", "de/d32/a22732.html#a3d33c1a29b7ba2feb22ea9d3941b39ed", null ],
-    [ "UpdateAI", "de/d32/a22732.html#a1541f1efd3978a4c91b80e411aec6442", null ],
-    [ "_toggleAura", "de/d32/a22732.html#aa983e2d9018a9e53ee29840781f47c33", null ],
-    [ "_toggleBlessing", "de/d32/a22732.html#a52e9b7d3b1af46d3ecb6ca9432ee3957", null ],
-    [ "_toggleSeal", "de/d32/a22732.html#ad7e6f9e03968e2abac570d0c7a5de9e2", null ]
+    [ "HandleOnEffectApply", "de/d32/a22732.html#a01d6ca6f8ec21ad42445b5e581c0f79b", null ],
+    [ "HandleOnEffectRemove", "de/d32/a22732.html#a59952b33d7c4705a6bfe7f3443bbf005", null ],
+    [ "PrepareAuraScript", "de/d32/a22732.html#a45df29f911b1232e306e04a182648904", null ],
+    [ "Register", "de/d32/a22732.html#a71fbf189fc116eb7d14944ff4060a9a9", null ]
 ];

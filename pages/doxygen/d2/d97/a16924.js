@@ -1,6 +1,7 @@
 var a16924 =
 [
-    [ "boss_tyrannusAI", "de/d96/a16928.html", "de/d96/a16928" ],
-    [ "boss_tyrannus", "d2/d97/a16924.html#a81373192ffea8817cb72b80f4629da43", null ],
-    [ "GetAI", "d2/d97/a16924.html#ad107030de1427d070305f5dcef96c016", null ]
+    [ "UtherBatteredHiltEvent", "d2/d97/a16924.html#a7bb34b75a3e371260a231aea72f75b40", null ],
+    [ "Execute", "d2/d97/a16924.html#ad2eb37877155b6dbc9916338e30d0306", null ],
+    [ "_eventId", "d2/d97/a16924.html#a5045e057b2c5d468aa579751d2c799b8", null ],
+    [ "_owner", "d2/d97/a16924.html#a588974708f4a48f5a7b097a63a0c0899", null ]
 ];

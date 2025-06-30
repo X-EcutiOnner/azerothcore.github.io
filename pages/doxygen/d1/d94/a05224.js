@@ -1,12 +1,19 @@
 var a05224 =
 [
-    [ "RegistryMapType", "d1/d94/a05224.html#ab6a131bc0c7d0ddcb9ad34044b9c8ac2", null ],
-    [ "ObjectRegistry", "d1/d94/a05224.html#aa3bcc30791e82bc900eacf1c5833b7f8", null ],
-    [ "~ObjectRegistry", "d1/d94/a05224.html#a2734a0e6001f597b43e006bc9d84a6b1", null ],
-    [ "GetRegisteredItems", "d1/d94/a05224.html#aba4a4fcc7ee59afbb4dea6df7410dc02", null ],
-    [ "GetRegistryItem", "d1/d94/a05224.html#a474bdff0ab0f0a3db5f914b9dfaa48d1", null ],
-    [ "HasItem", "d1/d94/a05224.html#a3c95897734a780c1f299d24a058b3595", null ],
-    [ "InsertItem", "d1/d94/a05224.html#a55416824a5dff4138f5d828e352e3d7c", null ],
-    [ "instance", "d1/d94/a05224.html#a7a6582a84361d5ad1142f29c9e1d9cb5", null ],
-    [ "_registeredObjects", "d1/d94/a05224.html#a61e6a6eb75512241e82092abfeba7a65", null ]
+    [ "Iterator", "d6/dd5/a05228.html", "d6/dd5/a05228" ],
+    [ "iterator", "d1/d94/a05224.html#a57ec2565e503df8ef86e1df2889c8ee3", null ],
+    [ "LinkedListHead", "d1/d94/a05224.html#ab9a10897505b9315f7abef37ca53ae3d", null ],
+    [ "decSize", "d1/d94/a05224.html#ada0bbfaadb9944b904fd023291d7454e", null ],
+    [ "getFirst", "d1/d94/a05224.html#a3bdb6df345043767ce9b319593102371", null ],
+    [ "getFirst", "d1/d94/a05224.html#a2b67ea8030683685e442b534f6ac14ae", null ],
+    [ "getLast", "d1/d94/a05224.html#a523c918451eb358014e821b11f000b9b", null ],
+    [ "getLast", "d1/d94/a05224.html#a4f858b06a17f5bc17db10aebd3493142", null ],
+    [ "getSize", "d1/d94/a05224.html#aa9c03e05aa61c1fc9fad84efd8f82db7", null ],
+    [ "incSize", "d1/d94/a05224.html#a46d97d5710de2958555d37687df58fcb", null ],
+    [ "insertFirst", "d1/d94/a05224.html#af28714c2195a3609871f42fa7a9dc74b", null ],
+    [ "insertLast", "d1/d94/a05224.html#a20c91c0ace1d4404b55802fbc7704bb5", null ],
+    [ "IsEmpty", "d1/d94/a05224.html#a5f450b83a615d010bedc7b0c6aa18d70", null ],
+    [ "iFirst", "d1/d94/a05224.html#aee68918c2ddc42306a60a6858a2994f1", null ],
+    [ "iLast", "d1/d94/a05224.html#a6b9e8b60fdabf4780567265f5e1ba9fa", null ],
+    [ "iSize", "d1/d94/a05224.html#a7ebab224bc9412426c18fa3a8a9ea345", null ]
 ];

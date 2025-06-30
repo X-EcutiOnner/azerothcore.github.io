@@ -1,12 +1,6 @@
 var a22860 =
 [
-    [ "boss_shade_of_akama", "d4/dfa/a22860.html#a385bf995d19652254d6ae8a447c23c37", null ],
-    [ "EnterEvadeMode", "d4/dfa/a22860.html#a690f8058fb4358b98960177d76864275", null ],
-    [ "JustDied", "d4/dfa/a22860.html#aa22052befeb48c0c7ec3a3cedd91daff", null ],
-    [ "MovementInform", "d4/dfa/a22860.html#a345707efebd5027c01a25a563d1e6f43", null ],
-    [ "Reset", "d4/dfa/a22860.html#a19a1aca1a599704612ac845001895b4f", null ],
-    [ "SpellHit", "d4/dfa/a22860.html#a5a49f0dab7ce6ee81b9ed8deb5704720", null ],
-    [ "UpdateAI", "d4/dfa/a22860.html#a25ffed5526b1f25eb1cf790745e2a7c7", null ],
-    [ "channelers", "d4/dfa/a22860.html#a63372527172d3f96f533b5776221c2e7", null ],
-    [ "generators", "d4/dfa/a22860.html#a3ebaa870a9c3c9b5a0590b8cdc32d857", null ]
+    [ "boss_essence_of_desireAI", "da/dce/a22864.html", "da/dce/a22864" ],
+    [ "boss_essence_of_desire", "d4/dfa/a22860.html#a5006ce57dd19c2a80e961dedca8c503d", null ],
+    [ "GetAI", "d4/dfa/a22860.html#a14b66470c508fa24e214062aeec0aae6", null ]
 ];

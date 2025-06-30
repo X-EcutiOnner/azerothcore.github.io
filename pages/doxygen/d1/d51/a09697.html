@@ -104,23 +104,30 @@ $(document).ready(function(){initNavTree('db/d31/a09700.html','../../'); initRes
 </div>
 
 <div class="header">
-  <div class="headertitle"><div class="title">ServerMailCondition Member List</div></div>
+  <div class="headertitle"><div class="title">MailSender Member List</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p>This is the complete list of members for <a class="el" href="../../db/d31/a09700.html">ServerMailCondition</a>, including all inherited members.</p>
+<p>This is the complete list of members for <a class="el" href="../../db/d31/a09700.html">MailSender</a>, including all inherited members.</p>
 <table class="directory">
-  <tr class="even"><td class="entry"><a class="el" href="../../db/d31/a09700.html#a3c223658629357f05d8879555717f624">CheckCondition</a>(Player *player) const</td><td class="entry"><a class="el" href="../../db/d31/a09700.html">ServerMailCondition</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../db/d31/a09700.html#a2ee7d2f3587159c95883fe32674cb586">ServerMailCondition</a>()=default</td><td class="entry"><a class="el" href="../../db/d31/a09700.html">ServerMailCondition</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../db/d31/a09700.html#a309f739872afaf644331335b27649561">state</a></td><td class="entry"><a class="el" href="../../db/d31/a09700.html">ServerMailCondition</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../db/d31/a09700.html#a3b318e7743ca48fcf8ba849398a06968">type</a></td><td class="entry"><a class="el" href="../../db/d31/a09700.html">ServerMailCondition</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../db/d31/a09700.html#af709199aed99633cc70d9118ee4fd4fc">value</a></td><td class="entry"><a class="el" href="../../db/d31/a09700.html">ServerMailCondition</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../db/d31/a09700.html#a64c99a49ec01d2226b6bf740edb380fb">GetMailMessageType</a>() const</td><td class="entry"><a class="el" href="../../db/d31/a09700.html">MailSender</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../db/d31/a09700.html#a03145c3fdc5bbabc64019e63e121132b">GetSenderId</a>() const</td><td class="entry"><a class="el" href="../../db/d31/a09700.html">MailSender</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../db/d31/a09700.html#a6a4446e52e20ad7ab4817bf024b38631">GetStationery</a>() const</td><td class="entry"><a class="el" href="../../db/d31/a09700.html">MailSender</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../db/d31/a09700.html#a45a312eda342d2197f15d73b47d7787b">m_messageType</a></td><td class="entry"><a class="el" href="../../db/d31/a09700.html">MailSender</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../db/d31/a09700.html#a0954b3514cfcba4258b1b266dfd71ddb">m_senderId</a></td><td class="entry"><a class="el" href="../../db/d31/a09700.html">MailSender</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../db/d31/a09700.html#a1bbced35b4600f9a45a421d28a33393b">m_stationery</a></td><td class="entry"><a class="el" href="../../db/d31/a09700.html">MailSender</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../db/d31/a09700.html#a16466924bf75ea8203ba27c0f3e6188b">MailSender</a>(MailMessageType messageType, uint32 sender_guidlow_or_entry, MailStationery stationery=MAIL_STATIONERY_DEFAULT)</td><td class="entry"><a class="el" href="../../db/d31/a09700.html">MailSender</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../db/d31/a09700.html#a735cfef6950357644d6965978dde0309">MailSender</a>(Object *sender, MailStationery stationery=MAIL_STATIONERY_DEFAULT)</td><td class="entry"><a class="el" href="../../db/d31/a09700.html">MailSender</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../db/d31/a09700.html#a145000f5ef63627ee26a5699846e06cf">MailSender</a>(CalendarEvent *sender)</td><td class="entry"><a class="el" href="../../db/d31/a09700.html">MailSender</a></td><td class="entry"></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../db/d31/a09700.html#a9ddda06cf5ecc55efdc4525353471c5b">MailSender</a>(AuctionEntry *sender)</td><td class="entry"><a class="el" href="../../db/d31/a09700.html">MailSender</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../db/d31/a09700.html#a7d5a5e40aa20de720f310b739f159225">MailSender</a>(Player *sender)</td><td class="entry"><a class="el" href="../../db/d31/a09700.html">MailSender</a></td><td class="entry"></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../db/d31/a09700.html#a12c87bb414a3e8889c95091f3b51716b">MailSender</a>(uint32 senderEntry)</td><td class="entry"><a class="el" href="../../db/d31/a09700.html">MailSender</a></td><td class="entry"></td></tr>
 </table></div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Mon May 5 2025 20:46:47 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Jun 30 2025 20:47:22 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

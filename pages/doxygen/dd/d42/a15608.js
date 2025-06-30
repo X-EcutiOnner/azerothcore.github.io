@@ -1,7 +1,12 @@
 var a15608 =
 [
-    [ "npc_ringoAI", "d3/dfa/a15612.html", "d3/dfa/a15612" ],
-    [ "npc_ringo", "dd/d42/a15608.html#aabccd10a446986487bbb09fc2d33cfd9", null ],
-    [ "GetAI", "dd/d42/a15608.html#aee6c9988f0c038c74b0deb3d44617ef1", null ],
-    [ "OnQuestAccept", "dd/d42/a15608.html#abdf4e5e1b26c1b1a288047e24188ad10", null ]
+    [ "npc_wizzlecrank_shredderAI", "dd/d42/a15608.html#a055c4b426219aa3372a83d2e2021d916", null ],
+    [ "JustSummoned", "dd/d42/a15608.html#a7cad21f0b3286ed75256a49c315069ce", null ],
+    [ "Reset", "dd/d42/a15608.html#a86929e8a2f3433f37e4dda03e3011193", null ],
+    [ "UpdateEscortAI", "dd/d42/a15608.html#acb95eeebd0317f1d95bc48d6b9e7e962", null ],
+    [ "WaypointReached", "dd/d42/a15608.html#a369ae3d62d1289a1c840bdc3184b463d", null ],
+    [ "WaypointStart", "dd/d42/a15608.html#a00857e372e53950338ed71d672edb780", null ],
+    [ "IsPostEvent", "dd/d42/a15608.html#a9207ffdb39627b1262ec209fe41d6d0a", null ],
+    [ "PostEventCount", "dd/d42/a15608.html#aa5284a284c074f32cee85d29aea00f2f", null ],
+    [ "PostEventTimer", "dd/d42/a15608.html#a3c43ede2df7b1ea61b0f1625e2e1461c", null ]
 ];

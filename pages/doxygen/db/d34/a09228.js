@@ -1,8 +1,10 @@
 var a09228 =
 [
-    [ "CreatureWorker", "db/d34/a09228.html#a4b4dc219d034565cd83748c5f1cab2a5", null ],
-    [ "Visit", "db/d34/a09228.html#ae67044250380c521055f80c55de0bba5", null ],
-    [ "Visit", "db/d34/a09228.html#aa9a450b147aafe46a49135f5c5be668e", null ],
-    [ "i_do", "db/d34/a09228.html#ac22f86d9a41701e7527d4840da256f11", null ],
-    [ "i_phaseMask", "db/d34/a09228.html#adf514c89c894cdf2b44fc75d14c4f5b0", null ]
+    [ "UnitLastSearcher", "db/d34/a09228.html#a7924240df139cf0814282eaff8a898b6", null ],
+    [ "Visit", "db/d34/a09228.html#a95a5148e040daf44ed19e3118621a4ca", null ],
+    [ "Visit", "db/d34/a09228.html#ae9992afc09771d4f1e1517642075f17e", null ],
+    [ "Visit", "db/d34/a09228.html#aadfcfdd95a9f2b61cb9ff4c7db43a014", null ],
+    [ "i_check", "db/d34/a09228.html#a6cf23e7ed9198798da03e6ec3526ee97", null ],
+    [ "i_object", "db/d34/a09228.html#a7bd2407800c461de70b217a4b48f9921", null ],
+    [ "i_phaseMask", "db/d34/a09228.html#aee39e2b567813e1e7420de07b3fe9b08", null ]
 ];

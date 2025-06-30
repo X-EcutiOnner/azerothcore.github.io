@@ -1,12 +1,12 @@
 var a22552 =
 [
-    [ "boss_anzu", "d3/d3a/a22552.html#aef8c5c57afa95936d8c2809fa1257799", null ],
-    [ "JustEngagedWith", "d3/d3a/a22552.html#a2384a1ea128ad5a43d3b8fb36fe39aba", null ],
-    [ "Reset", "d3/d3a/a22552.html#a61c75d6d96aa5cfb41e87faa74ec2fa5", null ],
-    [ "SummonBroods", "d3/d3a/a22552.html#a7f3f8868a5648bdeccd03d08203e4cf1", null ],
-    [ "SummonedCreatureDies", "d3/d3a/a22552.html#a2e35df609db069c8d31afffabcfead34", null ],
-    [ "SummonSpirits", "d3/d3a/a22552.html#a23e03d1718fba49a3bd57609abb77c6a", null ],
-    [ "UpdateAI", "d3/d3a/a22552.html#a06373460d454bfaf8db793e591cc0abd", null ],
-    [ "AnzuSpiritPos", "d3/d3a/a22552.html#a64e42ce8856b9d10c7f24fefc0c1e0b2", null ],
-    [ "talkTimer", "d3/d3a/a22552.html#a2afae53534d9e777c90d09456f834b5d", null ]
+    [ "boss_shirrak_the_dead_watcher", "d3/d3a/a22552.html#aaa6826de3b6563342b89544b38386d93", null ],
+    [ "EnterEvadeMode", "d3/d3a/a22552.html#a23768629c4ab48954880c3c29099f432", null ],
+    [ "getStackCount", "d3/d3a/a22552.html#aabca8240dfdc6603f0c244286a4d2cfe", null ],
+    [ "JustEngagedWith", "d3/d3a/a22552.html#a095ce3401bf0e40255e3104c01ce5fb0", null ],
+    [ "JustSummoned", "d3/d3a/a22552.html#a0a8e0d5126d14bd6d15004320b311f36", null ],
+    [ "Reset", "d3/d3a/a22552.html#aa16810aeadfac21c53a28ffbca3babdc", null ],
+    [ "SpellHitTarget", "d3/d3a/a22552.html#a7cb51a74e53dd6a22a3dbfe4e2220d37", null ],
+    [ "UpdateAI", "d3/d3a/a22552.html#a855505f949f53f979187abcb5b2f617f", null ],
+    [ "focusGUID", "d3/d3a/a22552.html#a81a7eade42ef595c173d7828ce59ef88", null ]
 ];

@@ -1,6 +1,6 @@
 var a06164 =
 [
-    [ "GameObjectAIFactory", "dc/d55/a06164.html#a2f658540a81d207694b6d2d783009380", null ],
-    [ "Create", "dc/d55/a06164.html#a94fa057baafbbad4b81b97aea34354a3", null ],
-    [ "Permit", "dc/d55/a06164.html#ae8b7e45a73f87249e27a4dae596b0d52", null ]
+    [ "CreatureAIFactory", "dc/d55/a06164.html#a978af64c2793b92ee2fe57763500f8d9", null ],
+    [ "Create", "dc/d55/a06164.html#ab5f691811cc23c5079a7a0a7f3503638", null ],
+    [ "Permit", "dc/d55/a06164.html#ae5e76ee1d1f8949214dd5421bf7e4deb", null ]
 ];

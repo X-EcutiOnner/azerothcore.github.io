@@ -1,8 +1,7 @@
 var a16696 =
 [
-    [ "npc_fos_leaderAI", "d3/d43/a16700.html", "d3/d43/a16700" ],
-    [ "npc_fos_leader", "d3/da2/a16696.html#a4223072bc180e990ff9e01bf772def5b", null ],
-    [ "GetAI", "d3/da2/a16696.html#a6eca5c95aa3a8498790d8bf52f0741f8", null ],
-    [ "OnGossipHello", "d3/da2/a16696.html#a3858054505d439902624378b9355f40d", null ],
-    [ "OnGossipSelect", "d3/da2/a16696.html#a1b743c6f270a2bdbd09940a414a1b437", null ]
+    [ "HandleScriptEffect", "d3/da2/a16696.html#a667e50b01f431dba025f692484f6e7ba", null ],
+    [ "PrepareSpellScript", "d3/da2/a16696.html#a9a5ffd28102a519c06f3715d7f2b1039", null ],
+    [ "Register", "d3/da2/a16696.html#a7ffa6eb498e9ec06d5cb4f81cff44389", null ],
+    [ "Validate", "d3/da2/a16696.html#a0ab270193a95f9043afd40c9ffd2a46b", null ]
 ];

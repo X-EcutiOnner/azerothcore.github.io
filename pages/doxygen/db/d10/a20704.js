@@ -1,6 +1,6 @@
 var a20704 =
 [
-    [ "boss_yoggsaron_cloudAI", "d4/dca/a20708.html", "d4/dca/a20708" ],
-    [ "boss_yoggsaron_cloud", "db/d10/a20704.html#ab52cc1fa8b45b70dde340b9f463ef2f1", null ],
-    [ "GetAI", "db/d10/a20704.html#a2005f062eb9d78c7b09b045eba570b98", null ]
+    [ "npc_xt002_life_sparkAI", "d4/dca/a20708.html", "d4/dca/a20708" ],
+    [ "npc_xt002_life_spark", "db/d10/a20704.html#a9644718d192708e391b833468a0ff21e", null ],
+    [ "GetAI", "db/d10/a20704.html#a09a1ce332d55fad146947c94bb53f564", null ]
 ];

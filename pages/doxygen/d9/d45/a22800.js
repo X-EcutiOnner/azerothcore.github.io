@@ -1,7 +1,7 @@
 var a22800 =
 [
-    [ "SuckBackEvent", "d9/d45/a22800.html#a6525e2aefec2680fde20e27ebf962f4c", null ],
-    [ "Execute", "d9/d45/a22800.html#aae1664e6ef9d90ec8a0e12554b991bf0", null ],
-    [ "_action", "d9/d45/a22800.html#abc54669df2dba0238723a40ababe4c0a", null ],
-    [ "_owner", "d9/d45/a22800.html#a4d8bc09803f7786022c1836457ded488", null ]
+    [ "PrepareAuraScript", "d9/d45/a22800.html#ae6879f1d8c27f19cf3e3ada0b34d568f", null ],
+    [ "ReflectDamage", "d9/d45/a22800.html#acde2cbf4d196cba1fa2c02393c08fe9f", null ],
+    [ "Register", "d9/d45/a22800.html#aa1f27d25209f14dd8bf711bc15cb9165", null ],
+    [ "Validate", "d9/d45/a22800.html#aa730b912aadcde53f6cd94c2a8c99493", null ]
 ];

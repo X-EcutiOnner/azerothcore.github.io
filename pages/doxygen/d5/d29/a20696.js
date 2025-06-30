@@ -1,6 +1,6 @@
 var a20696 =
 [
-    [ "boss_yoggsaron_saraAI", "de/d6e/a20700.html", "de/d6e/a20700" ],
-    [ "boss_yoggsaron_sara", "d5/d29/a20696.html#aaf5bd5440122f6c97315b0e3b9d47586", null ],
-    [ "GetAI", "d5/d29/a20696.html#abc83e0f3a7d12a84ea283e5b2a69826d", null ]
+    [ "npc_xt002_boombotAI", "de/d6e/a20700.html", "de/d6e/a20700" ],
+    [ "npc_xt002_boombot", "d5/d29/a20696.html#a6e2f7dd0d26d140a5b73b0f66ea434af", null ],
+    [ "GetAI", "d5/d29/a20696.html#a27237e7a60042ed7163b19d80537c1b3", null ]
 ];

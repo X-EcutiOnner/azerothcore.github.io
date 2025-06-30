@@ -1,8 +1,6 @@
 var a15920 =
 [
-    [ "RestoreFight", "d2/d30/a15920.html#a0149cccce8c3120b1e988e9a7c96f75c", null ],
-    [ "RestoreFight", "d2/d30/a15920.html#a0149cccce8c3120b1e988e9a7c96f75c", null ],
-    [ "Execute", "d2/d30/a15920.html#a019eb3c08dc8c3b97fc27b989ec8ab77", null ],
-    [ "Execute", "d2/d30/a15920.html#a019eb3c08dc8c3b97fc27b989ec8ab77", null ],
-    [ "_owner", "d2/d30/a15920.html#ae35c9b4547fcd7e8ea0f4b6ee4c637a0", null ]
+    [ "boss_sartharion_shadronAI", "da/ded/a15924.html", "da/ded/a15924" ],
+    [ "boss_sartharion_shadron", "d2/d30/a15920.html#ac297719abff8c795af10973492fc6fbe", null ],
+    [ "GetAI", "d2/d30/a15920.html#a95c7184ee7589f01920adc57a7df963b", null ]
 ];

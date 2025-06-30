@@ -1,119 +1,125 @@
 var a00698 =
 [
-    [ "ABNodeInfo", "d4/dcf/a07311.html", "d4/dcf/a07311" ],
-    [ "BattlegroundABScore", "d3/de5/a07315.html", "d3/de5/a07315" ],
-    [ "BattlegroundAB", "dc/d1f/a07319.html", "dc/d1f/a07319" ],
-    [ "BattlegroundAB::CapturePointInfo", "dd/d99/a07323.html", "dd/d99/a07323" ],
-    [ "BG_AB_BattlegroundNodes", "df/dbb/a00698.html#a7cb15f4d123cdbe557e15c7daaf014ad", [
-      [ "BG_AB_NODE_STABLES", "df/dbb/a00698.html#a7cb15f4d123cdbe557e15c7daaf014ada1659f989b2c934ff7bbb18ddf3889f0f", null ],
-      [ "BG_AB_NODE_BLACKSMITH", "df/dbb/a00698.html#a7cb15f4d123cdbe557e15c7daaf014ada0d2696d111c150a16896fc7a9b88af53", null ],
-      [ "BG_AB_NODE_FARM", "df/dbb/a00698.html#a7cb15f4d123cdbe557e15c7daaf014adacbdce42b70229b7f8558d07e72159232", null ],
-      [ "BG_AB_NODE_LUMBER_MILL", "df/dbb/a00698.html#a7cb15f4d123cdbe557e15c7daaf014ada4ba9970fd23b48756d7a9cb2774752d7", null ],
-      [ "BG_AB_NODE_GOLD_MINE", "df/dbb/a00698.html#a7cb15f4d123cdbe557e15c7daaf014adaf43583c1b4343a79b3d0a67deaac6aaa", null ],
-      [ "BG_AB_DYNAMIC_NODES_COUNT", "df/dbb/a00698.html#a7cb15f4d123cdbe557e15c7daaf014ada8caa41b70cbe057ad7a24b7834400e3e", null ],
-      [ "BG_AB_SPIRIT_ALIANCE", "df/dbb/a00698.html#a7cb15f4d123cdbe557e15c7daaf014adaff156e654b47fd901f6fb6c8144b459b", null ],
-      [ "BG_AB_SPIRIT_HORDE", "df/dbb/a00698.html#a7cb15f4d123cdbe557e15c7daaf014adacd23166727913397068457490e34ed16", null ],
-      [ "BG_AB_ALL_NODES_COUNT", "df/dbb/a00698.html#a7cb15f4d123cdbe557e15c7daaf014ada24a3b25885e054c2107989e87e2008e1", null ]
+    [ "BattlegroundWGScore", "da/dfa/a07432.html", "da/dfa/a07432" ],
+    [ "BattlegroundWS", "dc/d6f/a07436.html", "dc/d6f/a07436" ],
+    [ "BG_WS_BroadcastTexts", "df/dbb/a00698.html#a7c9154e6ca4e1207a973b539247c437e", [
+      [ "BG_WS_TEXT_START_ONE_MINUTE", "df/dbb/a00698.html#a7c9154e6ca4e1207a973b539247c437ead7db7cd7c39b7d45b4fde846f6ce35ab", null ],
+      [ "BG_WS_TEXT_START_HALF_MINUTE", "df/dbb/a00698.html#a7c9154e6ca4e1207a973b539247c437ea143eab6f072004d7ef36368cb8c5a6a3", null ],
+      [ "BG_WS_TEXT_BATTLE_HAS_BEGUN", "df/dbb/a00698.html#a7c9154e6ca4e1207a973b539247c437ea77ad95d4c0d7d63c715ae047e8ee5eb5", null ],
+      [ "BG_WS_TEXT_CAPTURED_HORDE_FLAG", "df/dbb/a00698.html#a7c9154e6ca4e1207a973b539247c437ea59a76ae693811bbdab4546b3fc0ef127", null ],
+      [ "BG_WS_TEXT_CAPTURED_ALLIANCE_FLAG", "df/dbb/a00698.html#a7c9154e6ca4e1207a973b539247c437ea7c745804a8ebe1e31fce50cac86e9e6a", null ],
+      [ "BG_WS_TEXT_FLAGS_PLACED", "df/dbb/a00698.html#a7c9154e6ca4e1207a973b539247c437eaf835536dab77f927f8b0813d4dc8609a", null ],
+      [ "BG_WS_TEXT_ALLIANCE_FLAG_PICKED_UP", "df/dbb/a00698.html#a7c9154e6ca4e1207a973b539247c437ea5991d30e9de154a6093c3f21dc2bc44b", null ],
+      [ "BG_WS_TEXT_ALLIANCE_FLAG_DROPPED", "df/dbb/a00698.html#a7c9154e6ca4e1207a973b539247c437ea4f5b487f8295f37e178068745a94bda6", null ],
+      [ "BG_WS_TEXT_HORDE_FLAG_PICKED_UP", "df/dbb/a00698.html#a7c9154e6ca4e1207a973b539247c437ea36af47cda77304e638481f35504abea3", null ],
+      [ "BG_WS_TEXT_HORDE_FLAG_DROPPED", "df/dbb/a00698.html#a7c9154e6ca4e1207a973b539247c437ea9051cae14ae8f58f9de645c87a45e01c", null ],
+      [ "BG_WS_TEXT_ALLIANCE_FLAG_RETURNED", "df/dbb/a00698.html#a7c9154e6ca4e1207a973b539247c437ea51f1a9dded781ca1a5242035967c4564", null ],
+      [ "BG_WS_TEXT_HORDE_FLAG_RETURNED", "df/dbb/a00698.html#a7c9154e6ca4e1207a973b539247c437eae9561cf1891c2ddbc53f79f43240adf7", null ]
     ] ],
-    [ "BG_AB_BroadcastTexts", "df/dbb/a00698.html#a563cb2a5b26f5e1887d6c53bb865e253", [
-      [ "BG_AB_TEXT_ALLIANCE_NEAR_VICTORY", "df/dbb/a00698.html#a563cb2a5b26f5e1887d6c53bb865e253aa7be5eb32d89899ab0f1d8cf8f00d391", null ],
-      [ "BG_AB_TEXT_HORDE_NEAR_VICTORY", "df/dbb/a00698.html#a563cb2a5b26f5e1887d6c53bb865e253aad167154b48b31856448de2351a98247", null ]
+    [ "BG_WS_CreatureTypes", "df/dbb/a00698.html#a559917f94b9cc817260b06ee0137bfc7", [
+      [ "WS_SPIRIT_MAIN_ALLIANCE", "df/dbb/a00698.html#a559917f94b9cc817260b06ee0137bfc7ab6099a4d7aa46ad9f6db1f0bfd2efc42", null ],
+      [ "WS_SPIRIT_MAIN_HORDE", "df/dbb/a00698.html#a559917f94b9cc817260b06ee0137bfc7a924867f3bf3b25b589b6df70fc89fceb", null ],
+      [ "BG_CREATURES_MAX_WS", "df/dbb/a00698.html#a559917f94b9cc817260b06ee0137bfc7a3562e2aed8f61f03a2b993a415bc9cea", null ]
     ] ],
-    [ "BG_AB_Events", "df/dbb/a00698.html#a5cb056ea89447224f409c66204c5435f", [
-      [ "BG_AB_EVENT_UPDATE_BANNER_STABLE", "df/dbb/a00698.html#a5cb056ea89447224f409c66204c5435fa46302f010fc13f632807c7331495602c", null ],
-      [ "BG_AB_EVENT_UPDATE_BANNER_FARM", "df/dbb/a00698.html#a5cb056ea89447224f409c66204c5435fa2f47d54a471f0afe71575cb09e67cac2", null ],
-      [ "BG_AB_EVENT_UPDATE_BANNER_BLACKSMITH", "df/dbb/a00698.html#a5cb056ea89447224f409c66204c5435fa4acaff786c323505722687b6fa76006f", null ],
-      [ "BG_AB_EVENT_UPDATE_BANNER_LUMBERMILL", "df/dbb/a00698.html#a5cb056ea89447224f409c66204c5435fa4a943966e6266381e373a62ff168ba3f", null ],
-      [ "BG_AB_EVENT_UPDATE_BANNER_GOLDMINE", "df/dbb/a00698.html#a5cb056ea89447224f409c66204c5435fa05ab1d3dfa7aca56f38869c7add7d8c6", null ],
-      [ "BG_AB_EVENT_CAPTURE_STABLE", "df/dbb/a00698.html#a5cb056ea89447224f409c66204c5435fac8d82aeaabdf25e5accfb734b861d09e", null ],
-      [ "BG_AB_EVENT_CAPTURE_FARM", "df/dbb/a00698.html#a5cb056ea89447224f409c66204c5435faf6081991f59a4655ecd5bd229467e81e", null ],
-      [ "BG_AB_EVENT_CAPTURE_BLACKSMITH", "df/dbb/a00698.html#a5cb056ea89447224f409c66204c5435faa0dbd19f5177a6ba9962e8ece5267e2b", null ],
-      [ "BG_AB_EVENT_CAPTURE_LUMBERMILL", "df/dbb/a00698.html#a5cb056ea89447224f409c66204c5435fa61e7c3afc033e53d7b81427b15be6599", null ],
-      [ "BG_AB_EVENT_CAPTURE_GOLDMINE", "df/dbb/a00698.html#a5cb056ea89447224f409c66204c5435fa347e16892a3c59b031988efd49c6adf9", null ],
-      [ "BG_AB_EVENT_ALLIANCE_TICK", "df/dbb/a00698.html#a5cb056ea89447224f409c66204c5435fa2e4e8add94027de8044faddefb510479", null ],
-      [ "BG_AB_EVENT_HORDE_TICK", "df/dbb/a00698.html#a5cb056ea89447224f409c66204c5435fa8be4179231a4470cc8dcc40e489398e2", null ]
+    [ "BG_WS_Events", "df/dbb/a00698.html#a6145482dfe4a795cbed7af3313c3599c", [
+      [ "BG_WS_EVENT_UPDATE_GAME_TIME", "df/dbb/a00698.html#a6145482dfe4a795cbed7af3313c3599cab48e71386d01f6fd1d4d4372c631c2a4", null ],
+      [ "BG_WS_EVENT_NO_TIME_LEFT", "df/dbb/a00698.html#a6145482dfe4a795cbed7af3313c3599caffaff5a3f1ac530038e8a7ef9517b42c", null ],
+      [ "BG_WS_EVENT_RESPAWN_BOTH_FLAGS", "df/dbb/a00698.html#a6145482dfe4a795cbed7af3313c3599ca81d50edb05943545e5942a4eac34e7fc", null ],
+      [ "BG_WS_EVENT_ALLIANCE_DROP_FLAG", "df/dbb/a00698.html#a6145482dfe4a795cbed7af3313c3599ca023378674ff061d5ab6bf4d083fce61d", null ],
+      [ "BG_WS_EVENT_HORDE_DROP_FLAG", "df/dbb/a00698.html#a6145482dfe4a795cbed7af3313c3599cac67a03f933461192c6993405bad36c5c", null ],
+      [ "BG_WS_EVENT_BOTH_FLAGS_KEPT10", "df/dbb/a00698.html#a6145482dfe4a795cbed7af3313c3599ca9ccd3db9cbab2c3e0ec02e8a6c78f401", null ],
+      [ "BG_WS_EVENT_BOTH_FLAGS_KEPT15", "df/dbb/a00698.html#a6145482dfe4a795cbed7af3313c3599ca2ff5a57dbd3f5e4bc90c35c48d7b45b2", null ],
+      [ "BG_WS_EVENT_DESPAWN_DOORS", "df/dbb/a00698.html#a6145482dfe4a795cbed7af3313c3599cae0a26e7dd63feb2ead3557c0d8a7df97", null ]
     ] ],
-    [ "BG_AB_Misc", "df/dbb/a00698.html#a5fdbcfc2e08c809423685172cb1e9bab", [
-      [ "BG_AB_OBJECTIVE_ASSAULT_BASE", "df/dbb/a00698.html#a5fdbcfc2e08c809423685172cb1e9bababa1c289a4cc48f49d5158962c7a654ea", null ],
-      [ "BG_AB_OBJECTIVE_DEFEND_BASE", "df/dbb/a00698.html#a5fdbcfc2e08c809423685172cb1e9babae98af0ae16845e907101c448a4b27981", null ],
-      [ "BG_AB_EVENT_START_BATTLE", "df/dbb/a00698.html#a5fdbcfc2e08c809423685172cb1e9babacf222243191f9ac4a83ff33723f923b4", null ],
-      [ "BG_AB_QUEST_CREDIT_BASE", "df/dbb/a00698.html#a5fdbcfc2e08c809423685172cb1e9baba6db06b2b26df09a77ac22be870092a9f", null ],
-      [ "BG_AB_HONOR_TICK_NORMAL", "df/dbb/a00698.html#a5fdbcfc2e08c809423685172cb1e9baba6190a7037359672935918608ee40a92b", null ],
-      [ "BG_AB_HONOR_TICK_WEEKEND", "df/dbb/a00698.html#a5fdbcfc2e08c809423685172cb1e9babacbe3a72209c0fb6f9567d37056c651d3", null ],
-      [ "BG_AB_REP_TICK_NORMAL", "df/dbb/a00698.html#a5fdbcfc2e08c809423685172cb1e9baba1546a9ed57db30f84bf7171a342cd3d2", null ],
-      [ "BG_AB_REP_TICK_WEEKEND", "df/dbb/a00698.html#a5fdbcfc2e08c809423685172cb1e9baba1b44cf78923307fdbb2d2d48579928f9", null ],
-      [ "BG_AB_WARNING_NEAR_VICTORY_SCORE", "df/dbb/a00698.html#a5fdbcfc2e08c809423685172cb1e9baba3f2ba4902de6da31bbf923ed4dee5d9b", null ],
-      [ "BG_AB_MAX_TEAM_SCORE", "df/dbb/a00698.html#a5fdbcfc2e08c809423685172cb1e9baba83d800e593f1a661408cffc977d441ba", null ],
-      [ "BG_AB_FLAG_CAPTURING_TIME", "df/dbb/a00698.html#a5fdbcfc2e08c809423685172cb1e9baba3de28f8d2bbeffeb1df9d791dda332db", null ],
-      [ "BG_AB_BANNER_UPDATE_TIME", "df/dbb/a00698.html#a5fdbcfc2e08c809423685172cb1e9baba5bf93a57912ec884f19961a82ab6488f", null ]
+    [ "BG_WS_FlagState", "df/dbb/a00698.html#a15d72f3f072bc0cabaf5f1bef80b64e0", [
+      [ "BG_WS_FLAG_STATE_ON_BASE", "df/dbb/a00698.html#a15d72f3f072bc0cabaf5f1bef80b64e0afa30eb723a0561b597261f3fd8a12ade", null ],
+      [ "BG_WS_FLAG_STATE_ON_PLAYER", "df/dbb/a00698.html#a15d72f3f072bc0cabaf5f1bef80b64e0a894046e91503d915c4d7f722ed988e6a", null ],
+      [ "BG_WS_FLAG_STATE_ON_GROUND", "df/dbb/a00698.html#a15d72f3f072bc0cabaf5f1bef80b64e0a02eaf89f2607dfe9d7b222d7a142642d", null ]
     ] ],
-    [ "BG_AB_NodeStatus", "df/dbb/a00698.html#a57b60dbaa9b05ef4b896e2b8ffebf130", [
-      [ "BG_AB_NODE_STATE_NEUTRAL", "df/dbb/a00698.html#a57b60dbaa9b05ef4b896e2b8ffebf130a462423d2f622b94627c152cb7e50618e", null ],
-      [ "BG_AB_NODE_STATE_ALLY_OCCUPIED", "df/dbb/a00698.html#a57b60dbaa9b05ef4b896e2b8ffebf130a62576a15524760857f73e97756c1e140", null ],
-      [ "BG_AB_NODE_STATE_HORDE_OCCUPIED", "df/dbb/a00698.html#a57b60dbaa9b05ef4b896e2b8ffebf130a9e536b4b805f5085efd3d6e570e3218d", null ],
-      [ "BG_AB_NODE_STATE_ALLY_CONTESTED", "df/dbb/a00698.html#a57b60dbaa9b05ef4b896e2b8ffebf130ae8f3a516a978e5c6f67b40db96ccb8ce", null ],
-      [ "BG_AB_NODE_STATE_HORDE_CONTESTED", "df/dbb/a00698.html#a57b60dbaa9b05ef4b896e2b8ffebf130a810ee85ad827c3be4e2e64c5b69d4dc1", null ]
+    [ "BG_WS_Graveyards", "df/dbb/a00698.html#afb194929fa7fa28ba1362df96d98f48c", [
+      [ "WS_GRAVEYARD_FLAGROOM_ALLIANCE", "df/dbb/a00698.html#afb194929fa7fa28ba1362df96d98f48ca0393e94e3ca8bdb8f88c188ae4651300", null ],
+      [ "WS_GRAVEYARD_FLAGROOM_HORDE", "df/dbb/a00698.html#afb194929fa7fa28ba1362df96d98f48ca40a02f455e9bb74cef1f2955d86d2f7a", null ],
+      [ "WS_GRAVEYARD_MAIN_ALLIANCE", "df/dbb/a00698.html#afb194929fa7fa28ba1362df96d98f48ca2f36e1a66bfe840de8d0b2c4f24c122d", null ],
+      [ "WS_GRAVEYARD_MAIN_HORDE", "df/dbb/a00698.html#afb194929fa7fa28ba1362df96d98f48caabc7b651d7611a592759d4c5bd37cdfe", null ]
     ] ],
-    [ "BG_AB_ObjectIds", "df/dbb/a00698.html#a36633fb23fb5fa96337b4ec4aec93716", [
-      [ "BG_AB_OBJECTID_NODE_BANNER_0", "df/dbb/a00698.html#a36633fb23fb5fa96337b4ec4aec93716a93e1309e94d06c4fe7ddc4d43f0578ad", null ],
-      [ "BG_AB_OBJECTID_NODE_BANNER_1", "df/dbb/a00698.html#a36633fb23fb5fa96337b4ec4aec93716a3ea520d3276170ed756998e7c0942cf3", null ],
-      [ "BG_AB_OBJECTID_NODE_BANNER_2", "df/dbb/a00698.html#a36633fb23fb5fa96337b4ec4aec93716a3835fcccd4c338e87ed1656132abbba8", null ],
-      [ "BG_AB_OBJECTID_NODE_BANNER_3", "df/dbb/a00698.html#a36633fb23fb5fa96337b4ec4aec93716a146558afedbeebd53f7238f9e5f66b7c", null ],
-      [ "BG_AB_OBJECTID_NODE_BANNER_4", "df/dbb/a00698.html#a36633fb23fb5fa96337b4ec4aec93716a2be89d7ac0803872fa01a4a7af2b3db2", null ],
-      [ "BG_AB_OBJECTID_BANNER_A", "df/dbb/a00698.html#a36633fb23fb5fa96337b4ec4aec93716a07243f3875cf9eb069122dd4ac8def88", null ],
-      [ "BG_AB_OBJECTID_BANNER_CONT_A", "df/dbb/a00698.html#a36633fb23fb5fa96337b4ec4aec93716a003bd627e1e2937f456930df39bd54fe", null ],
-      [ "BG_AB_OBJECTID_BANNER_H", "df/dbb/a00698.html#a36633fb23fb5fa96337b4ec4aec93716a29a3a47c4fafcf2b84f9a4753669c70c", null ],
-      [ "BG_AB_OBJECTID_BANNER_CONT_H", "df/dbb/a00698.html#a36633fb23fb5fa96337b4ec4aec93716ab1a69f0a8b53e5406e44255ab186665b", null ],
-      [ "BG_AB_OBJECTID_AURA_A", "df/dbb/a00698.html#a36633fb23fb5fa96337b4ec4aec93716a25e7dba7ba015e623d9fc78a4453b0ef", null ],
-      [ "BG_AB_OBJECTID_AURA_H", "df/dbb/a00698.html#a36633fb23fb5fa96337b4ec4aec93716a55e87dca2606aeb16eaba3f5fa60737a", null ],
-      [ "BG_AB_OBJECTID_AURA_C", "df/dbb/a00698.html#a36633fb23fb5fa96337b4ec4aec93716a539a8ec0aaa490643c16a4bd2c5cae6e", null ],
-      [ "BG_AB_OBJECTID_GATE_A", "df/dbb/a00698.html#a36633fb23fb5fa96337b4ec4aec93716a88d1f2c03d7b8fc4738c354b87f1445f", null ],
-      [ "BG_AB_OBJECTID_GATE_H", "df/dbb/a00698.html#a36633fb23fb5fa96337b4ec4aec93716af707fbb75af1cb857a961a58690fbc57", null ]
+    [ "BG_WS_ObjectEntry", "df/dbb/a00698.html#a9bad07d2619ccf292c169deab76e5e86", [
+      [ "BG_OBJECT_DOOR_A_1_WS_ENTRY", "df/dbb/a00698.html#a9bad07d2619ccf292c169deab76e5e86a46e8b3d9040dbc0fc30b2e202e7ec353", null ],
+      [ "BG_OBJECT_DOOR_A_2_WS_ENTRY", "df/dbb/a00698.html#a9bad07d2619ccf292c169deab76e5e86ac18d753a8273ee2e7491ed505496187c", null ],
+      [ "BG_OBJECT_DOOR_A_3_WS_ENTRY", "df/dbb/a00698.html#a9bad07d2619ccf292c169deab76e5e86a658f7dfd42849cb06cd0f19db120807b", null ],
+      [ "BG_OBJECT_DOOR_A_4_WS_ENTRY", "df/dbb/a00698.html#a9bad07d2619ccf292c169deab76e5e86a39f5924857062954a5b8aebf064b31a4", null ],
+      [ "BG_OBJECT_DOOR_A_5_WS_ENTRY", "df/dbb/a00698.html#a9bad07d2619ccf292c169deab76e5e86ad5f2e0d93cca63d1851913e2f2106084", null ],
+      [ "BG_OBJECT_DOOR_A_6_WS_ENTRY", "df/dbb/a00698.html#a9bad07d2619ccf292c169deab76e5e86a7232e833cd7e3e2df3f1c89fcea4a199", null ],
+      [ "BG_OBJECT_DOOR_H_1_WS_ENTRY", "df/dbb/a00698.html#a9bad07d2619ccf292c169deab76e5e86abf9f3b772d033ef1a76e81c4cc1ae060", null ],
+      [ "BG_OBJECT_DOOR_H_2_WS_ENTRY", "df/dbb/a00698.html#a9bad07d2619ccf292c169deab76e5e86a9aee3a2ada30bce2253551c4d6ef89a2", null ],
+      [ "BG_OBJECT_DOOR_H_3_WS_ENTRY", "df/dbb/a00698.html#a9bad07d2619ccf292c169deab76e5e86ad67a39572196019af2aa979a9c5929e2", null ],
+      [ "BG_OBJECT_DOOR_H_4_WS_ENTRY", "df/dbb/a00698.html#a9bad07d2619ccf292c169deab76e5e86aadfb0d680a0b67a28ad8414e7b9db43e", null ],
+      [ "BG_OBJECT_A_FLAG_WS_ENTRY", "df/dbb/a00698.html#a9bad07d2619ccf292c169deab76e5e86ad8e1321f07d95c44c6485983e9bad69d", null ],
+      [ "BG_OBJECT_H_FLAG_WS_ENTRY", "df/dbb/a00698.html#a9bad07d2619ccf292c169deab76e5e86af6a0024c110d5588d483c36f0e1b4f8c", null ],
+      [ "BG_OBJECT_A_FLAG_GROUND_WS_ENTRY", "df/dbb/a00698.html#a9bad07d2619ccf292c169deab76e5e86aa0d8344a5d215c72b13515d0df96d360", null ],
+      [ "BG_OBJECT_H_FLAG_GROUND_WS_ENTRY", "df/dbb/a00698.html#a9bad07d2619ccf292c169deab76e5e86a36c0ec2d028cd2ba5f484e5a9e5ebb14", null ]
     ] ],
-    [ "BG_AB_ObjectType", "df/dbb/a00698.html#a3d45322a0b7ad0e3e2e88e55e0ddd254", [
-      [ "BG_AB_OBJECT_BANNER_NEUTRAL", "df/dbb/a00698.html#a3d45322a0b7ad0e3e2e88e55e0ddd254a9cde6affef60e332122963574c994230", null ],
-      [ "BG_AB_OBJECT_BANNER_ALLY", "df/dbb/a00698.html#a3d45322a0b7ad0e3e2e88e55e0ddd254a2098795ff583a05546cfb1d4b65be4d3", null ],
-      [ "BG_AB_OBJECT_BANNER_HORDE", "df/dbb/a00698.html#a3d45322a0b7ad0e3e2e88e55e0ddd254a0df153dab1ff6150d5a1f951bbf1cefe", null ],
-      [ "BG_AB_OBJECT_BANNER_CONT_A", "df/dbb/a00698.html#a3d45322a0b7ad0e3e2e88e55e0ddd254ac63dd312ad214b3f93840958d324e19d", null ],
-      [ "BG_AB_OBJECT_BANNER_CONT_H", "df/dbb/a00698.html#a3d45322a0b7ad0e3e2e88e55e0ddd254aaf1ed05e79654c99430e1acfd7ee208f", null ],
-      [ "BG_AB_OBJECT_AURA_ALLY", "df/dbb/a00698.html#a3d45322a0b7ad0e3e2e88e55e0ddd254ac8102c580d0a56079f2462f95bd14bf1", null ],
-      [ "BG_AB_OBJECT_AURA_HORDE", "df/dbb/a00698.html#a3d45322a0b7ad0e3e2e88e55e0ddd254a450f73e1468e38cb6b534dad2169d40d", null ],
-      [ "BG_AB_OBJECT_AURA_CONTESTED", "df/dbb/a00698.html#a3d45322a0b7ad0e3e2e88e55e0ddd254ae51881c9fa5e34d03f8b6622476aef68", null ],
-      [ "BG_AB_OBJECTS_PER_NODE", "df/dbb/a00698.html#a3d45322a0b7ad0e3e2e88e55e0ddd254aa501df1803557d6bf095074604206b66", null ],
-      [ "BG_AB_OBJECT_GATE_A", "df/dbb/a00698.html#a3d45322a0b7ad0e3e2e88e55e0ddd254a2162382f9fb7ed5babb7b0d26c848d96", null ],
-      [ "BG_AB_OBJECT_GATE_H", "df/dbb/a00698.html#a3d45322a0b7ad0e3e2e88e55e0ddd254a7ba8860dd59d25ccaf62bbbb7013b273", null ],
-      [ "BG_AB_OBJECT_SPEEDBUFF_STABLES", "df/dbb/a00698.html#a3d45322a0b7ad0e3e2e88e55e0ddd254ac4100a1f28c5573ab7dea73d50298873", null ],
-      [ "BG_AB_OBJECT_REGENBUFF_STABLES", "df/dbb/a00698.html#a3d45322a0b7ad0e3e2e88e55e0ddd254acdcd098c1835da288726d6adf45e506f", null ],
-      [ "BG_AB_OBJECT_BERSERKBUFF_STABLES", "df/dbb/a00698.html#a3d45322a0b7ad0e3e2e88e55e0ddd254abf84e4f0e1e7f3c5d5ef2adffb21ea9d", null ],
-      [ "BG_AB_OBJECT_SPEEDBUFF_BLACKSMITH", "df/dbb/a00698.html#a3d45322a0b7ad0e3e2e88e55e0ddd254a5fccf6f7c794fa9a3b5d84fa16b3e103", null ],
-      [ "BG_AB_OBJECT_REGENBUFF_BLACKSMITH", "df/dbb/a00698.html#a3d45322a0b7ad0e3e2e88e55e0ddd254a020c79cac3c9ad40feee4d25e39d7f89", null ],
-      [ "BG_AB_OBJECT_BERSERKBUFF_BLACKSMITH", "df/dbb/a00698.html#a3d45322a0b7ad0e3e2e88e55e0ddd254a4b77b0df124be1f9e77637feeef4af17", null ],
-      [ "BG_AB_OBJECT_SPEEDBUFF_FARM", "df/dbb/a00698.html#a3d45322a0b7ad0e3e2e88e55e0ddd254a46f103b7cf27050acc515398fd3e869a", null ],
-      [ "BG_AB_OBJECT_REGENBUFF_FARM", "df/dbb/a00698.html#a3d45322a0b7ad0e3e2e88e55e0ddd254a06846ababc9148ffcf9b1918c3911001", null ],
-      [ "BG_AB_OBJECT_BERSERKBUFF_FARM", "df/dbb/a00698.html#a3d45322a0b7ad0e3e2e88e55e0ddd254a8cd23628f5cb3d874e2b6799430ca4c5", null ],
-      [ "BG_AB_OBJECT_SPEEDBUFF_LUMBER_MILL", "df/dbb/a00698.html#a3d45322a0b7ad0e3e2e88e55e0ddd254aa3b9498412e6798dbe0619f472849a7b", null ],
-      [ "BG_AB_OBJECT_REGENBUFF_LUMBER_MILL", "df/dbb/a00698.html#a3d45322a0b7ad0e3e2e88e55e0ddd254a16b4786413200180dbd3039de1a094f2", null ],
-      [ "BG_AB_OBJECT_BERSERKBUFF_LUMBER_MILL", "df/dbb/a00698.html#a3d45322a0b7ad0e3e2e88e55e0ddd254ac88f0eb5f1bff68883c7c6c15160cd5d", null ],
-      [ "BG_AB_OBJECT_SPEEDBUFF_GOLD_MINE", "df/dbb/a00698.html#a3d45322a0b7ad0e3e2e88e55e0ddd254a103933bda044ac8a918b223c4973ebd1", null ],
-      [ "BG_AB_OBJECT_REGENBUFF_GOLD_MINE", "df/dbb/a00698.html#a3d45322a0b7ad0e3e2e88e55e0ddd254a928f8a26d7ddcc2cec91cb204e743817", null ],
-      [ "BG_AB_OBJECT_BERSERKBUFF_GOLD_MINE", "df/dbb/a00698.html#a3d45322a0b7ad0e3e2e88e55e0ddd254ac28800a8fe47d19f4f22a6e4158d245d", null ],
-      [ "BG_AB_OBJECT_MAX", "df/dbb/a00698.html#a3d45322a0b7ad0e3e2e88e55e0ddd254a4d4b2d0c09eebec8e2fbf2048239f905", null ]
+    [ "BG_WS_Objectives", "df/dbb/a00698.html#a6d8cea6a81013f7c893b4dfc018882f3", [
+      [ "WS_OBJECTIVE_CAPTURE_FLAG", "df/dbb/a00698.html#a6d8cea6a81013f7c893b4dfc018882f3ab9257434c616a0cc0436327e52aef48b", null ],
+      [ "WS_OBJECTIVE_RETURN_FLAG", "df/dbb/a00698.html#a6d8cea6a81013f7c893b4dfc018882f3a6b4943d0cae9e621788fc327c3089ce9", null ],
+      [ "WS_EVENT_START_BATTLE", "df/dbb/a00698.html#a6d8cea6a81013f7c893b4dfc018882f3a0c41277a6bfc0399862a1375dd348add", null ]
     ] ],
-    [ "BG_AB_Sounds", "df/dbb/a00698.html#afa4330ec402735b2df3a043a6b018338", [
-      [ "BG_AB_SOUND_NODE_CLAIMED", "df/dbb/a00698.html#afa4330ec402735b2df3a043a6b018338a82345118263a37caa33c0f0fa160ee58", null ],
-      [ "BG_AB_SOUND_NODE_CAPTURED_ALLIANCE", "df/dbb/a00698.html#afa4330ec402735b2df3a043a6b018338adec8cd5886a496342cf2ade674f4edf6", null ],
-      [ "BG_AB_SOUND_NODE_CAPTURED_HORDE", "df/dbb/a00698.html#afa4330ec402735b2df3a043a6b018338a294a068637e38497ebf3b514ea17c1f1", null ],
-      [ "BG_AB_SOUND_NODE_ASSAULTED_ALLIANCE", "df/dbb/a00698.html#afa4330ec402735b2df3a043a6b018338a6619c65dabbb9b7b10de5cf313681b77", null ],
-      [ "BG_AB_SOUND_NODE_ASSAULTED_HORDE", "df/dbb/a00698.html#afa4330ec402735b2df3a043a6b018338a6b49dfb9c85315c1a68adf6db98dc5fe", null ],
-      [ "BG_AB_SOUND_NEAR_VICTORY_ALLIANCE", "df/dbb/a00698.html#afa4330ec402735b2df3a043a6b018338a205e3df14587d1fa5b8a83f206e8a8bf", null ],
-      [ "BG_AB_SOUND_NEAR_VICTORY_HORDE", "df/dbb/a00698.html#afa4330ec402735b2df3a043a6b018338a70dc7021ef277eafceea927b23e73e4b", null ]
+    [ "BG_WS_ObjectTypes", "df/dbb/a00698.html#a29059eb2d46fa5c2398a2ee393c1ad0a", [
+      [ "BG_WS_OBJECT_DOOR_A_1", "df/dbb/a00698.html#a29059eb2d46fa5c2398a2ee393c1ad0aa647f2b00ead73ecf376a16dce961acc2", null ],
+      [ "BG_WS_OBJECT_DOOR_A_2", "df/dbb/a00698.html#a29059eb2d46fa5c2398a2ee393c1ad0aa74dd4c96aba9b7c7dc7f5ceeeec6dab4", null ],
+      [ "BG_WS_OBJECT_DOOR_A_3", "df/dbb/a00698.html#a29059eb2d46fa5c2398a2ee393c1ad0aad1c8b1dbff96860bbb739fd1f72ac849", null ],
+      [ "BG_WS_OBJECT_DOOR_A_4", "df/dbb/a00698.html#a29059eb2d46fa5c2398a2ee393c1ad0aa20e5c7d62fecbec10fcfdda765f8b32f", null ],
+      [ "BG_WS_OBJECT_DOOR_A_5", "df/dbb/a00698.html#a29059eb2d46fa5c2398a2ee393c1ad0aa20e28848fc9cbaa023235874af30b220", null ],
+      [ "BG_WS_OBJECT_DOOR_A_6", "df/dbb/a00698.html#a29059eb2d46fa5c2398a2ee393c1ad0aac1111d5be83298a8484f5f7c3a3792bb", null ],
+      [ "BG_WS_OBJECT_DOOR_H_1", "df/dbb/a00698.html#a29059eb2d46fa5c2398a2ee393c1ad0aa346507dbf347665a961cde5ca840d4e4", null ],
+      [ "BG_WS_OBJECT_DOOR_H_2", "df/dbb/a00698.html#a29059eb2d46fa5c2398a2ee393c1ad0aaaefc2aac0eb75ac2f5150fc524860066", null ],
+      [ "BG_WS_OBJECT_DOOR_H_3", "df/dbb/a00698.html#a29059eb2d46fa5c2398a2ee393c1ad0aa1c3058ae3c3b8261f64c349ccbffe844", null ],
+      [ "BG_WS_OBJECT_DOOR_H_4", "df/dbb/a00698.html#a29059eb2d46fa5c2398a2ee393c1ad0aa908ff1e05de104cee49c6e6e0ca6e82f", null ],
+      [ "BG_WS_OBJECT_A_FLAG", "df/dbb/a00698.html#a29059eb2d46fa5c2398a2ee393c1ad0aa1bffb213e51280963ab67dd8126dc1de", null ],
+      [ "BG_WS_OBJECT_H_FLAG", "df/dbb/a00698.html#a29059eb2d46fa5c2398a2ee393c1ad0aa776d0686c8e83d704d0b1ef08d11c16c", null ],
+      [ "BG_WS_OBJECT_SPEEDBUFF_1", "df/dbb/a00698.html#a29059eb2d46fa5c2398a2ee393c1ad0aa8d977924b5ee1b173ce4b8c6d3c4a8c9", null ],
+      [ "BG_WS_OBJECT_SPEEDBUFF_2", "df/dbb/a00698.html#a29059eb2d46fa5c2398a2ee393c1ad0aace33b571daeb36050d0bcacbe2f0135a", null ],
+      [ "BG_WS_OBJECT_REGENBUFF_1", "df/dbb/a00698.html#a29059eb2d46fa5c2398a2ee393c1ad0aac6cc1155e19bc7ca6e70231e21caf011", null ],
+      [ "BG_WS_OBJECT_REGENBUFF_2", "df/dbb/a00698.html#a29059eb2d46fa5c2398a2ee393c1ad0aa3735ef2d50f496447691acf3720f3ffd", null ],
+      [ "BG_WS_OBJECT_BERSERKBUFF_1", "df/dbb/a00698.html#a29059eb2d46fa5c2398a2ee393c1ad0aa2c82069928025a6fe976022f7af536a8", null ],
+      [ "BG_WS_OBJECT_BERSERKBUFF_2", "df/dbb/a00698.html#a29059eb2d46fa5c2398a2ee393c1ad0aade5a2c8385638165501d495eacd74843", null ],
+      [ "BG_WS_OBJECT_MAX", "df/dbb/a00698.html#a29059eb2d46fa5c2398a2ee393c1ad0aa29510d51b670ce5742c0e5e2e023cdb5", null ]
     ] ],
-    [ "ABNodes", "df/dbb/a00698.html#a5ce5aced5b18a9136cfd7a03348a9979", null ],
-    [ "BG_AB_BuffPositions", "df/dbb/a00698.html#a51ad679e6affe77350ba6d21554463c3", null ],
-    [ "BG_AB_DoorPositions", "df/dbb/a00698.html#a6d6a352719d503f3002b193c412ec53b", null ],
-    [ "BG_AB_GraveyardIds", "df/dbb/a00698.html#a6f996d495e116848d3bd6384e501d51e", null ],
-    [ "BG_AB_NodePositions", "df/dbb/a00698.html#af981815b69f9cc306f4740e809a90f77", null ],
-    [ "BG_AB_SpiritGuidePos", "df/dbb/a00698.html#a86650176a2fbeee8806e5281e56c0a42", null ],
-    [ "BG_AB_TickIntervals", "df/dbb/a00698.html#accc3ec988e6f59e7774947ed53d23bc4", null ],
-    [ "BG_AB_TickPoints", "df/dbb/a00698.html#acc55e240ec4cc628722f56c5fa4d2c84", null ]
+    [ "BG_WS_Sound", "df/dbb/a00698.html#a57475685e7e9485731450b3d705d5ca5", [
+      [ "BG_WS_SOUND_FLAG_CAPTURED_ALLIANCE", "df/dbb/a00698.html#a57475685e7e9485731450b3d705d5ca5a997f8b8527dfbcb80664778885733896", null ],
+      [ "BG_WS_SOUND_FLAG_CAPTURED_HORDE", "df/dbb/a00698.html#a57475685e7e9485731450b3d705d5ca5a32ffcf2c65e6cbacbfdb5790460cf65f", null ],
+      [ "BG_WS_SOUND_FLAG_PLACED", "df/dbb/a00698.html#a57475685e7e9485731450b3d705d5ca5a308b9670204904fe7404572046075eb4", null ],
+      [ "BG_WS_SOUND_FLAG_RETURNED", "df/dbb/a00698.html#a57475685e7e9485731450b3d705d5ca5abd9a65bbcd72bd56f8bdc9f8da47585a", null ],
+      [ "BG_WS_SOUND_HORDE_FLAG_PICKED_UP", "df/dbb/a00698.html#a57475685e7e9485731450b3d705d5ca5aa29d2519be11c8f28b7e1d38c1b43a2f", null ],
+      [ "BG_WS_SOUND_ALLIANCE_FLAG_PICKED_UP", "df/dbb/a00698.html#a57475685e7e9485731450b3d705d5ca5aae5caaadc49a60a2da8a1e9490c8f67f", null ],
+      [ "BG_WS_SOUND_FLAGS_RESPAWNED", "df/dbb/a00698.html#a57475685e7e9485731450b3d705d5ca5a566491875872716060e137f006eaad5a", null ]
+    ] ],
+    [ "BG_WS_SpellId", "df/dbb/a00698.html#a3c368811f9c49f0276a9d115a8672d4b", [
+      [ "BG_WS_SPELL_WARSONG_FLAG", "df/dbb/a00698.html#a3c368811f9c49f0276a9d115a8672d4ba3ff5e866002dc9c96e76b65bd922c110", null ],
+      [ "BG_WS_SPELL_WARSONG_FLAG_DROPPED", "df/dbb/a00698.html#a3c368811f9c49f0276a9d115a8672d4bab8f74356870d6e130953b79269fa416a", null ],
+      [ "BG_WS_SPELL_WARSONG_FLAG_PICKED", "df/dbb/a00698.html#a3c368811f9c49f0276a9d115a8672d4ba77bf10c0836c63eb86b920c3dfaffe69", null ],
+      [ "BG_WS_SPELL_SILVERWING_FLAG", "df/dbb/a00698.html#a3c368811f9c49f0276a9d115a8672d4baba32f31f837fa712a15bc8f298005437", null ],
+      [ "BG_WS_SPELL_SILVERWING_FLAG_DROPPED", "df/dbb/a00698.html#a3c368811f9c49f0276a9d115a8672d4ba553cd677ac7e0285223bea1c0ac3fcdf", null ],
+      [ "BG_WS_SPELL_SILVERWING_FLAG_PICKED", "df/dbb/a00698.html#a3c368811f9c49f0276a9d115a8672d4ba30d91497534a00b1cf56f40bbc5ca40d", null ],
+      [ "BG_WS_SPELL_FOCUSED_ASSAULT", "df/dbb/a00698.html#a3c368811f9c49f0276a9d115a8672d4ba7657a768b886fd84df67dd5df54968b9", null ],
+      [ "BG_WS_SPELL_BRUTAL_ASSAULT", "df/dbb/a00698.html#a3c368811f9c49f0276a9d115a8672d4ba4b20bb1716673783e705f88c13be66c3", null ]
+    ] ],
+    [ "BG_WS_TimerOrScore", "df/dbb/a00698.html#ae5f8a7cd4f42f719752da8c95249214a", [
+      [ "BG_WS_MAX_TEAM_SCORE", "df/dbb/a00698.html#ae5f8a7cd4f42f719752da8c95249214aaa68a8480363b87d5a538eb6716f8efb8", null ],
+      [ "BG_WS_TOTAL_GAME_TIME", "df/dbb/a00698.html#ae5f8a7cd4f42f719752da8c95249214aabe9a2e0c527ac4dbe235b6f04a64f016", null ],
+      [ "BG_WS_FLAG_RESPAWN_TIME", "df/dbb/a00698.html#ae5f8a7cd4f42f719752da8c95249214aa0960ca9313b2915b96ae434eca282313", null ],
+      [ "BG_WS_FLAG_DROP_TIME", "df/dbb/a00698.html#ae5f8a7cd4f42f719752da8c95249214aa5e494f66c9a370bdd7e65aea0e2cdfa5", null ],
+      [ "BG_WS_SPELL_FORCE_TIME", "df/dbb/a00698.html#ae5f8a7cd4f42f719752da8c95249214aa4876641eeb6401cce978679a1150de48", null ],
+      [ "BG_WS_SPELL_BRUTAL_TIME", "df/dbb/a00698.html#ae5f8a7cd4f42f719752da8c95249214aaf00f7ef0f4d9e0cc43ecfb8b5d6ef743", null ],
+      [ "BG_WS_DOOR_DESPAWN_TIME", "df/dbb/a00698.html#ae5f8a7cd4f42f719752da8c95249214aaf3a9212e0ca0569e162e8cf96de4dc44", null ]
+    ] ],
+    [ "BG_WS_Trigger", "df/dbb/a00698.html#a50801b1baa78c499341bfe44d88ffcf3", [
+      [ "BG_WS_TRIGGER_ALLIANCE_FLAG_SPAWN", "df/dbb/a00698.html#a50801b1baa78c499341bfe44d88ffcf3afe1ff0fad52fd52ab78965a7465113d3", null ],
+      [ "BG_WS_TRIGGER_HORDE_FLAG_SPAWN", "df/dbb/a00698.html#a50801b1baa78c499341bfe44d88ffcf3afcae781e82c805094dd5f1dcb7c0e788", null ],
+      [ "BG_WS_TRIGGER_ALLIANCE_ELIXIR_SPEED_SPAWN", "df/dbb/a00698.html#a50801b1baa78c499341bfe44d88ffcf3a43afe4d9d703643da4e168353290b485", null ],
+      [ "BG_WS_TRIGGER_HORDE_ELIXIR_SPEED_SPAWN", "df/dbb/a00698.html#a50801b1baa78c499341bfe44d88ffcf3a313c7878a07f89f6e25b7e31d51b197c", null ],
+      [ "BG_WS_TRIGGER_ALLIANCE_ELIXIR_REGEN_SPAWN", "df/dbb/a00698.html#a50801b1baa78c499341bfe44d88ffcf3a3ac726ccd0b7dbb57612489d2f33f3d0", null ],
+      [ "BG_WS_TRIGGER_HORDE_ELIXIR_REGEN_SPAWN", "df/dbb/a00698.html#a50801b1baa78c499341bfe44d88ffcf3a8bc4e07db5aeeb0e5cb7b391be15b292", null ],
+      [ "BG_WS_TRIGGER_ALLIANCE_ELIXIR_BERSERK_SPAWN", "df/dbb/a00698.html#a50801b1baa78c499341bfe44d88ffcf3aedcf50e072c7fbdbf39f7421e29c09fe", null ],
+      [ "BG_WS_TRIGGER_HORDE_ELIXIR_BERSERK_SPAWN", "df/dbb/a00698.html#a50801b1baa78c499341bfe44d88ffcf3aea7c50de78560ae6831d5b51cf33034e", null ]
+    ] ]
 ];

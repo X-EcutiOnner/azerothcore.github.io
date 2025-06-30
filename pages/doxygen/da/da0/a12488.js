@@ -1,6 +1,6 @@
 var a12488 =
 [
-    [ "instance_deadmines_InstanceMapScript", "d5/d97/a12492.html", "d5/d97/a12492" ],
-    [ "instance_deadmines", "da/da0/a12488.html#a91ec4b9d2c4dcb3b8a2822431259bc08", null ],
-    [ "GetInstanceScript", "da/da0/a12488.html#ac5cb65972d52324cedf662cc44dca626", null ]
+    [ "npc_mc_core_houndAI", "d5/d97/a12492.html", "d5/d97/a12492" ],
+    [ "npc_mc_core_hound", "da/da0/a12488.html#aee1ef71447dbd1494de5e0065bd5ae78", null ],
+    [ "GetAI", "da/da0/a12488.html#a3aa8c5332b509b4d5498cd726ab47e40", null ]
 ];

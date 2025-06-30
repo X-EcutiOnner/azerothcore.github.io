@@ -1,6 +1,7 @@
 var a21216 =
 [
-    [ "boss_erekemAI", "df/dab/a21220.html", "df/dab/a21220" ],
-    [ "boss_erekem", "d7/d65/a21216.html#ab618380bd8f8c199ca85f1fe8a67db4d", null ],
-    [ "GetAI", "d7/d65/a21216.html#aa472a21bf4a855ba75bc7de05cce494c", null ]
+    [ "HandleDummy", "d7/d65/a21216.html#af524c771ef3a314f3c1dbaacae4f4538", null ],
+    [ "PrepareSpellScript", "d7/d65/a21216.html#a2ad8abf39847c79ac5bc53093c487fc0", null ],
+    [ "Register", "d7/d65/a21216.html#a45a33c0b51ed6c1dfed8d52d2f99e239", null ],
+    [ "Validate", "d7/d65/a21216.html#a92f99501ee1582873586d2405b224f4f", null ]
 ];

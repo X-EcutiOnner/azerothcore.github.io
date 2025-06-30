@@ -1,6 +1,7 @@
 var a24232 =
 [
-    [ "PrepareSpellScript", "d2/ddd/a24232.html#ac781a5ff389268d1f18867ff5585ca71", null ],
-    [ "Register", "d2/ddd/a24232.html#a5cb9e02774ea6c307e76183253ffb472", null ],
-    [ "SetDest", "d2/ddd/a24232.html#a5fec9885b1dd6cf80fb47af321fad98e", null ]
+    [ "npc_kservantAI", "d2/ddd/a24232.html#a0687712690f2bacd24da1c94d222e761", null ],
+    [ "IsSummonedBy", "d2/ddd/a24232.html#a6aa9c1544fffdd9916eda7a0941dc828", null ],
+    [ "Reset", "d2/ddd/a24232.html#a0756ffacb97c83a3028afc620b32f349", null ],
+    [ "WaypointReached", "d2/ddd/a24232.html#a577a2ebb91c08bfe2e09bc67eeebb4ef", null ]
 ];

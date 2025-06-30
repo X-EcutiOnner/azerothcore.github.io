@@ -1,25 +1,6 @@
 var a17272 =
 [
-    [ "boss_blood_queen_lana_thelAI", "df/d52/a17272.html#ab28467f9b11a87162dae0306a1f2fb20", null ],
-    [ "CanAIAttack", "df/d52/a17272.html#a4b6ce34090fcf21eb68560c078278303", null ],
-    [ "CleanAuras", "df/d52/a17272.html#a78b0d391090e9d2424da315bf1f696e9", null ],
-    [ "DoAction", "df/d52/a17272.html#a2e7d45ce9d7a0e05b60c9e94f736d1b3", null ],
-    [ "EnterEvadeMode", "df/d52/a17272.html#afb02799e3fad05e2e0d48ea5b3be7526", null ],
-    [ "GoToMinchar", "df/d52/a17272.html#acb939a02a912d1db13947a939f4c554c", null ],
-    [ "JustDied", "df/d52/a17272.html#a475fcf43849c5cd2144020f57c2a461f", null ],
-    [ "JustEngagedWith", "df/d52/a17272.html#a01866a1f5a20bd9b4ccf754051dedd10", null ],
-    [ "KilledUnit", "df/d52/a17272.html#aebb53f7599dd3a55953946b7cc9e76d6", null ],
-    [ "MovementInform", "df/d52/a17272.html#a4b74cb2b2f36ae115327e8a0532fdc23", null ],
-    [ "Reset", "df/d52/a17272.html#abc58e7c6c384ea4c342d6b153557c4b1", null ],
-    [ "SetGUID", "df/d52/a17272.html#ac1620cfe6e8f20a8ef54b211a5641bea", null ],
-    [ "UpdateAI", "df/d52/a17272.html#a13fe9d7463efbecf63d78fce59fc4fab", null ],
-    [ "WasBloodbolted", "df/d52/a17272.html#a76f5eca557f9d25c8025a909b1de8faf", null ],
-    [ "WasVampire", "df/d52/a17272.html#a7a74b7241f0ff736bdff7088ee384695", null ],
-    [ "_bloodboltedPlayers", "df/d52/a17272.html#a1c5ef6d44112d67a29dde74371ab644a", null ],
-    [ "_creditBloodQuickening", "df/d52/a17272.html#a3534b15706cd35ad8de485fc430207b1", null ],
-    [ "_killMinchar", "df/d52/a17272.html#ac617b5511beacd7b98d0e9ae8773e7dc", null ],
-    [ "_offtankGUID", "df/d52/a17272.html#a8a4d21d7ab9ad827c88a7869000c3628", null ],
-    [ "_tankGUID", "df/d52/a17272.html#a231f68b31fdd105559c186d4edbfc47b", null ],
-    [ "_vampires", "df/d52/a17272.html#af808b2b543ea9b27b4b03d0e561fb90e", null ],
-    [ "bEnteredCombat", "df/d52/a17272.html#aca37d322e154ae01ceb4e96b3b42d5d0", null ]
+    [ "AddExtraDamage", "df/d52/a17272.html#adeedfdd7555dfd009c99db6f002f7488", null ],
+    [ "PrepareSpellScript", "df/d52/a17272.html#a5d5c32f102c525f6c25d12281a58f5f4", null ],
+    [ "Register", "df/d52/a17272.html#affe1d9a5e9c4776d1651fdb95283caf4", null ]
 ];

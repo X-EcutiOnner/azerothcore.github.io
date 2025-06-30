@@ -1,8 +1,8 @@
 var a09308 =
 [
-    [ "AnyUnfriendlyNoTotemUnitInObjectRangeCheck", "d7/d3d/a09308.html#ac4378cfa8fedb3453c0e810d497cb99c", null ],
-    [ "operator()", "d7/d3d/a09308.html#ad9e3486316cf297ba79a588c60b4ce15", null ],
-    [ "i_funit", "d7/d3d/a09308.html#ace766830b26d8aae3ec673d2102a9969", null ],
-    [ "i_obj", "d7/d3d/a09308.html#ae12f4176e49438cfa248345cfe7c9947", null ],
-    [ "i_range", "d7/d3d/a09308.html#a8335ef8fd7376e7c920dfbca2318d646", null ]
+    [ "MostHPMissingInRange", "d7/d3d/a09308.html#afaa26b685d4e6b0b8d3e7f062ae9fe72", null ],
+    [ "operator()", "d7/d3d/a09308.html#a420388204d8a1420552b902fbcb2bebe", null ],
+    [ "i_hp", "d7/d3d/a09308.html#a4a70531f3dc19e7a2eedde0a03142297", null ],
+    [ "i_obj", "d7/d3d/a09308.html#a6f803fd737b4cc81c7b9c890c49b497e", null ],
+    [ "i_range", "d7/d3d/a09308.html#acef63da9004997c7f25056651284efa9", null ]
 ];

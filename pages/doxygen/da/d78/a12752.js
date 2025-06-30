@@ -1,5 +1,7 @@
 var a12752 =
 [
-    [ "boss_eramas_brightblaze", "da/d78/a12752.html#a14d1528750036f27948f5de8a2b44bd3", null ],
-    [ "JustEngagedWith", "da/d78/a12752.html#ad34613d2795f7371a43891488044392a", null ]
+    [ "HandleDummy", "da/d78/a12752.html#ac2889b1744117f8c0bffcce04952d7c2", null ],
+    [ "PrepareSpellScript", "da/d78/a12752.html#a5738144c85424e11f33aada38273e24e", null ],
+    [ "Register", "da/d78/a12752.html#a206a4d40e082246193ba36c9080cdac1", null ],
+    [ "Validate", "da/d78/a12752.html#a0718461731d563d2c948848f60101d49", null ]
 ];

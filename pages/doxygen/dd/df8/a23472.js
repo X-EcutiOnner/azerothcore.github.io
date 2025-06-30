@@ -1,6 +1,5 @@
 var a23472 =
 [
-    [ "HandleScriptEffect", "dd/df8/a23472.html#adf350bccc5862252f6928faa4ae3a001", null ],
-    [ "PrepareSpellScript", "dd/df8/a23472.html#a0d1ff479da3b8f50ed698da9f9029589", null ],
-    [ "Register", "dd/df8/a23472.html#afaf23967ede6e120caa7758ff2d3c974", null ]
+    [ "go_broggok_lever", "dd/df8/a23472.html#af91c2e283c357d2f38c9932dcfb5c375", null ],
+    [ "OnGossipHello", "dd/df8/a23472.html#af00fe1da1cfa40dc3ece286cef45090c", null ]
 ];

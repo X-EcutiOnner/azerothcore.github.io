@@ -1,8 +1,10 @@
 var a19080 =
 [
-    [ "HandleDamage", "d4/d03/a19080.html#ab8948b09b685ad970f5292ca4c5d97ba", null ],
-    [ "HandleTargets", "d4/d03/a19080.html#ac36e689bad93aa17738f390680764a7e", null ],
-    [ "PrepareSpellScript", "d4/d03/a19080.html#a149db071722ce12cded16087c8eec1df", null ],
-    [ "Register", "d4/d03/a19080.html#abd073f34a414fab7ee23ee933863f1c7", null ],
-    [ "Validate", "d4/d03/a19080.html#a177320de9c3a2c2f29120fcaa413ab13", null ]
+    [ "boss_patchwerkAI", "d4/d03/a19080.html#a74dfcf9ef921aa2a53d877c0e5ee9a34", null ],
+    [ "JustDied", "d4/d03/a19080.html#aaed18187aa8e0058c70b29b1ccbe955f", null ],
+    [ "JustEngagedWith", "d4/d03/a19080.html#a1317cb819d6247f62e0c6c725157db30", null ],
+    [ "KilledUnit", "d4/d03/a19080.html#a17ccb5b2a1841656813a9408f5a05c4e", null ],
+    [ "Reset", "d4/d03/a19080.html#a1d03058bf53e670f4fe9384e9f047891", null ],
+    [ "UpdateAI", "d4/d03/a19080.html#a2db0df50a0faa88ebeaa035ea048157e", null ],
+    [ "events", "d4/d03/a19080.html#a00c98ee5cdb3c512ba0d92a48d441006", null ]
 ];

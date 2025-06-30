@@ -1,7 +1,12 @@
 var a16288 =
 [
-    [ "npc_toc_druidAI", "de/dfa/a16288.html#adb456f1f93be5329174a3199c9092825", null ],
-    [ "myCanCast", "de/dfa/a16288.html#af82baa22ae49ba268f494cb07287845e", null ],
-    [ "UpdateAI", "de/dfa/a16288.html#a82a22a557db647f73690d8838a635eaf", null ],
-    [ "events", "de/dfa/a16288.html#a6bb27baf17f0286db3222287a8073bd7", null ]
+    [ "npc_swarm_scarabAI", "de/dfa/a16288.html#a0d0cefd52543044773e7df772f90fd37", null ],
+    [ "CanAIAttack", "de/dfa/a16288.html#a95a27742f4f7fa1af45964b6270a9558", null ],
+    [ "DoAction", "de/dfa/a16288.html#ac1fe6742ef1e7bdee4c81a3933a31659", null ],
+    [ "JustDied", "de/dfa/a16288.html#a0fe99c71cac6d3ee8d360f0d46d03fcd", null ],
+    [ "JustEngagedWith", "de/dfa/a16288.html#a585e1e8800e97b2aa3d6c893d54c1d2b", null ],
+    [ "Reset", "de/dfa/a16288.html#aa24cc2f2b7aa4c5c534e8d2ce2957237", null ],
+    [ "UpdateAI", "de/dfa/a16288.html#aa33d9e101ba7de2a25a6213baccf6df1", null ],
+    [ "despawnTimer", "de/dfa/a16288.html#a6d35e43af695ac112b972badb665f06d", null ],
+    [ "determinationTimer", "de/dfa/a16288.html#af319dbf16bc1d3939602465f0a87d30c", null ]
 ];

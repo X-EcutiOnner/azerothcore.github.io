@@ -1,10 +1,9 @@
 var a05412 =
 [
-    [ "AsyncCallbackProcessor", "d8/d73/a05412.html#aee6f273ab86fad749de85cd12ea32a98", null ],
-    [ "~AsyncCallbackProcessor", "d8/d73/a05412.html#a0a1b8fb7112485c9461387b6effcd56b", null ],
-    [ "AsyncCallbackProcessor", "d8/d73/a05412.html#af575ef04d5b2440ad3a787348e5baf9a", null ],
-    [ "AddCallback", "d8/d73/a05412.html#a47ef165fe4c31f46998f69e8e16625f1", null ],
-    [ "operator=", "d8/d73/a05412.html#ae95508c8bd67d6246279f37cbe6ca8d3", null ],
-    [ "ProcessReadyCallbacks", "d8/d73/a05412.html#a4fce127f587a9da913a9e9061ba538e7", null ],
-    [ "_callbacks", "d8/d73/a05412.html#a372d9496b9a1b3e3f718cefe50164209", null ]
+    [ "Lock", "d3/d7f/a05416.html", "d3/d7f/a05416" ],
+    [ "ObjectLevelLockable", "d8/d73/a05412.html#a56f2f2722e7f56857ef1d6e7ae52891d", null ],
+    [ "ObjectLevelLockable", "d8/d73/a05412.html#a133cb19ac25d346ba24b8405595dd174", null ],
+    [ "operator=", "d8/d73/a05412.html#a8ebb63f3adccf1bf121f569f1d527e17", null ],
+    [ "Lock", "d8/d73/a05412.html#a5bf7608e05250fb524a1229bcf83ece3", null ],
+    [ "i_mtx", "d8/d73/a05412.html#ae373bee24a50a7eda232b51769c042aa", null ]
 ];

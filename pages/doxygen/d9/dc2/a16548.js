@@ -1,6 +1,5 @@
 var a16548 =
 [
-    [ "boss_dredAI", "d9/d14/a16552.html", "d9/d14/a16552" ],
-    [ "boss_dred", "d9/dc2/a16548.html#a60a913f53c63f95680c29c72f48f9a1a", null ],
-    [ "GetAI", "d9/dc2/a16548.html#ab8276b185f80a92a54327ea28b19c704", null ]
+    [ "boss_eydisAI", "d9/dc2/a16548.html#a0e97e184b2a2f610730cd3d455702955", null ],
+    [ "JustSummoned", "d9/dc2/a16548.html#aa5ae64cfe003a25859364a12cb871199", null ]
 ];

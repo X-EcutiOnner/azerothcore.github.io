@@ -1,7 +1,6 @@
 var a17776 =
 [
-    [ "HandleTriggerSpell", "d3/dad/a17776.html#a7d7f1731c453e5d0b70e6093aeedea87", null ],
-    [ "PrepareAuraScript", "d3/dad/a17776.html#afff0c81696ddcb427ce105d510ef93b1", null ],
-    [ "Register", "d3/dad/a17776.html#aa50c6066115d7b60704eff48e77d10bd", null ],
-    [ "Validate", "d3/dad/a17776.html#a6ef56d3d18bab2f81c810160ecf3ae96", null ]
+    [ "AbominationDespawner", "d3/dad/a17776.html#a3bbf8c5d4e42569ffe993a3c3b8ff95e", null ],
+    [ "operator()", "d3/dad/a17776.html#a58b8faac1cdffa7230783a1d6439fcfb", null ],
+    [ "_owner", "d3/dad/a17776.html#af9089e566905b885887a5714ad5b0741", null ]
 ];

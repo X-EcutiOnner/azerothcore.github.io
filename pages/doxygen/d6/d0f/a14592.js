@@ -1,10 +1,6 @@
 var a14592 =
 [
-    [ "npc_hyjal_frost_wyrm", "d6/d0f/a14592.html#a7cdc8ef87d5ccb88777fa823e199b9ce", null ],
-    [ "AttackStart", "d6/d0f/a14592.html#abaaea3bcbb8806ed9d807742273eb06d", null ],
-    [ "DoAction", "d6/d0f/a14592.html#adab2b42c582cee234aea37d187b66138", null ],
-    [ "JustEngagedWith", "d6/d0f/a14592.html#a23dace13bb2811dea43b63f0b970a2ce", null ],
-    [ "PathEndReached", "d6/d0f/a14592.html#a2ec3137dad743e4766ca402282d913c7", null ],
-    [ "Reset", "d6/d0f/a14592.html#a550c20113f4ebe4015f9a8088888f99b", null ],
-    [ "UpdateAI", "d6/d0f/a14592.html#a182c3b440f74a4ebe6dee64651bf701f", null ]
+    [ "FilterTargets", "d6/d0f/a14592.html#a45b0713b2942199bf0e19752fe765aac", null ],
+    [ "PrepareSpellScript", "d6/d0f/a14592.html#a7f7177d7754a99743202f69a0342f587", null ],
+    [ "Register", "d6/d0f/a14592.html#a27b432d8571d48c3f5fb025bbbd29271", null ]
 ];

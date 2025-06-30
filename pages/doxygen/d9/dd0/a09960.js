@@ -1,10 +1,10 @@
 var a09960 =
 [
-    [ "EffectMovementGenerator", "d9/dd0/a09960.html#a4b574eb9865cffe1277d9012db653d98", null ],
-    [ "Finalize", "d9/dd0/a09960.html#a50cad77c4261bea67428b9dcd5a37ea1", null ],
-    [ "GetMovementGeneratorType", "d9/dd0/a09960.html#a42c56bc35cf3d752e24ccc36adcd2e82", null ],
-    [ "Initialize", "d9/dd0/a09960.html#a376f554231bc5dc4c95790e6c85dcb01", null ],
-    [ "Reset", "d9/dd0/a09960.html#a9627573a7206e12ff469e8e6e076862b", null ],
-    [ "Update", "d9/dd0/a09960.html#adff45ee4ce3cc72b6cc88e626c3bd0a5", null ],
-    [ "m_Id", "d9/dd0/a09960.html#a56f483336fe5c86c6d186ec4d7772d4b", null ]
+    [ "DistractMovementGenerator", "d9/dd0/a09960.html#a55879290b06f4fc86a1da791c07b7afb", null ],
+    [ "Finalize", "d9/dd0/a09960.html#aa4a2b943ecde8750bd764290d65872df", null ],
+    [ "GetMovementGeneratorType", "d9/dd0/a09960.html#a0b30745bf1cd7b5a264e970273595592", null ],
+    [ "Initialize", "d9/dd0/a09960.html#a71410ddbda2be6b34bb2276a83fea5c9", null ],
+    [ "Reset", "d9/dd0/a09960.html#ad544709b2873b63b28d27ab414c280ba", null ],
+    [ "Update", "d9/dd0/a09960.html#ad5a15c1507b8ab315b658351077629b3", null ],
+    [ "m_timer", "d9/dd0/a09960.html#a8b520d8e97704ac39ce28c2256557b42", null ]
 ];

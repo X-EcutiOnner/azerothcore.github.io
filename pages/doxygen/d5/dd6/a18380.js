@@ -1,6 +1,5 @@
 var a18380 =
 [
-    [ "npc_risen_archmageAI", "d1/d25/a18384.html", "d1/d25/a18384" ],
-    [ "npc_risen_archmage", "d5/dd6/a18380.html#adf6dfe2a00325955939c84bcc1e4eb68", null ],
-    [ "GetAI", "d5/dd6/a18380.html#a8e8c4913e163c5d649fa79c2eb424864", null ]
+    [ "achievement_neck_deep_in_vile", "d5/dd6/a18380.html#af0e54c236e7637d8c1a8cf7dbed5a195", null ],
+    [ "OnCheck", "d5/dd6/a18380.html#a9861c008f302279a4ac5f4ddc14ca2d0", null ]
 ];

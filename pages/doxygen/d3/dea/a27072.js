@@ -1,7 +1,6 @@
 var a27072 =
 [
-    [ "FilterTargets", "d3/dea/a27072.html#a5ee420ce696d23d836ff6e9e1def6405", null ],
-    [ "HandleEffect", "d3/dea/a27072.html#a064fdac9158e35f290b51ecf9bf537b1", null ],
-    [ "PrepareSpellScript", "d3/dea/a27072.html#a53b5772c87574beb5b295c26fe983b76", null ],
-    [ "Register", "d3/dea/a27072.html#a5e93d0d708d2304d9166c47ad285ada5", null ]
+    [ "boss_lethonAI", "d4/d07/a27076.html", "d4/d07/a27076" ],
+    [ "boss_lethon", "d3/dea/a27072.html#a5d758979b061646830373de64b2b3af4", null ],
+    [ "GetAI", "d3/dea/a27072.html#a493baf37aac400635dd0409e79375a1c", null ]
 ];

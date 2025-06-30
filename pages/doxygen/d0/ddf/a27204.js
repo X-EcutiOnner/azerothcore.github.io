@@ -1,5 +1,6 @@
 var a27204 =
 [
-    [ "go_tablet_of_the_seven", "d0/ddf/a27204.html#aa5bcd36c6d0250571f6721f71864ab59", null ],
-    [ "OnGossipHello", "d0/ddf/a27204.html#a54d27dc2a52d69d8fd9605c358a855fc", null ]
+    [ "go_pirate_day_musicAI", "d5/d05/a27208.html", "d5/d05/a27208" ],
+    [ "go_pirate_day_music", "d0/ddf/a27204.html#aa8d19102357639bd160eae9e90a87505", null ],
+    [ "GetAI", "d0/ddf/a27204.html#a3bce105696415c9a31c5cbeb9607fa95", null ]
 ];

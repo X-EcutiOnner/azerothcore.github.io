@@ -1,7 +1,6 @@
 var a18620 =
 [
-    [ "HandleScript", "df/dda/a18620.html#a87a2b32a9a20f032157df5ddb2cd9979", null ],
-    [ "PrepareSpellScript", "df/dda/a18620.html#a9aca3a2a981a0cb61569200d77ca527a", null ],
-    [ "Register", "df/dda/a18620.html#afb0289c9906d0383a22dfd0e848573f8", null ],
-    [ "Validate", "df/dda/a18620.html#a69344370af56f033e1c1ba16f4dee174", null ]
+    [ "npc_impaling_spearAI", "dc/daf/a18624.html", "dc/daf/a18624" ],
+    [ "npc_impaling_spear", "df/dda/a18620.html#af546ed9684fc085ad651bf5bd93e5bf7", null ],
+    [ "GetAI", "df/dda/a18620.html#aad49164a3e7541b755c1c622b996bb9a", null ]
 ];

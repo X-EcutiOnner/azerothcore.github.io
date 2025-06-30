@@ -1,7 +1,6 @@
 var a20660 =
 [
-    [ "FilterTargets", "df/df3/a20660.html#a582691eca81b6db6d78ca925ad8fb084", null ],
-    [ "PrepareSpellScript", "df/df3/a20660.html#a28ce9d2750c79b2b0061b00df5ae9e8b", null ],
-    [ "RecalculateDamage", "df/df3/a20660.html#a02c1af0414de344056b2375488f23c01", null ],
-    [ "Register", "df/df3/a20660.html#a1e030067944878000b731edf456d6bc8", null ]
+    [ "boss_xt002AI", "dd/db5/a20664.html", "dd/db5/a20664" ],
+    [ "boss_xt002", "df/df3/a20660.html#aebd7e513b3bef6a25ad0f9766d18174e", null ],
+    [ "GetAI", "df/df3/a20660.html#a146e4a10da7d81213e7f63d6e86c79f2", null ]
 ];

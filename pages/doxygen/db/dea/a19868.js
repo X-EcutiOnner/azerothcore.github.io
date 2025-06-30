@@ -1,8 +1,9 @@
 var a19868 =
 [
-    [ "FilterTargets", "db/dea/a19868.html#a93b41db0e89710c6e0e3c764d51d37ad", null ],
-    [ "HandleScript", "db/dea/a19868.html#a0c7d9007a9401b96a3c1f8614dc1a2db", null ],
-    [ "PrepareSpellScript", "db/dea/a19868.html#aea46762f43b31923617f740e0545fe98", null ],
-    [ "Register", "db/dea/a19868.html#a6ccde780ea9fba273b96d6fd9558a2d1", null ],
-    [ "Validate", "db/dea/a19868.html#af526a7a7a82ec7621f8842e884d7b14f", null ]
+    [ "npc_thorims_hammerAI", "db/dea/a19868.html#aafda36c8d784252d271ef031ab6a3d34", null ],
+    [ "Reset", "db/dea/a19868.html#a57975d0dc00c86946e547ba43c7151ec", null ],
+    [ "UpdateAI", "db/dea/a19868.html#a4e01a61d09c11647e06c3547d6fa91fa", null ],
+    [ "_beamTimer", "db/dea/a19868.html#aba7c6c078977a8187a7e673ba3126bfd", null ],
+    [ "_finishTime", "db/dea/a19868.html#a218bd28d18a2c2f0aef6906619437209", null ],
+    [ "_removeTimer", "db/dea/a19868.html#a958e4c975d1ae634745107af7d204f82", null ]
 ];

@@ -1,6 +1,9 @@
 var a10536 =
 [
-    [ "GuildUpdateMotdText", "d8/d22/a10536.html#ab3b248450b0dcdde6b51e381e910b15d", null ],
-    [ "Read", "d8/d22/a10536.html#a55cfd6f4797e61ca01ee7aa5c65d9a69", null ],
-    [ "MotdText", "d8/d22/a10536.html#a5b2ee458a919be7f912d49cf984490ac", null ]
+    [ "GuildInfoResponse", "d8/d22/a10536.html#a256cb81ad2e08050be99c9e1061c2009", null ],
+    [ "Write", "d8/d22/a10536.html#a3222d0018c9593400d3d01258b82371e", null ],
+    [ "CreateDate", "d8/d22/a10536.html#a1a0acf334d88751e94257ff76c9e3fd8", null ],
+    [ "GuildName", "d8/d22/a10536.html#ad8efc926197e955ed0cf8df6a74b41e8", null ],
+    [ "NumAccounts", "d8/d22/a10536.html#a21b42f1654aa10f7872d87635fea66ac", null ],
+    [ "NumMembers", "d8/d22/a10536.html#a7e748a70029e867ba8c90eaba85bf8c9", null ]
 ];

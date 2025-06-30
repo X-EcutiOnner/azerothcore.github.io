@@ -1,9 +1,9 @@
 var a09356 =
 [
-    [ "NearestHostileUnitCheck", "dc/d11/a09356.html#aa1d706a1eb1de6168b568e70008e2d3b", null ],
-    [ "NearestHostileUnitCheck", "dc/d11/a09356.html#a2fe620370289850eb0362823de2072d1", null ],
-    [ "operator()", "dc/d11/a09356.html#a04c85a77d660bbc74279d1062dabc375", null ],
-    [ "i_playerOnly", "dc/d11/a09356.html#a64c5fce466521a6d6d78eeda0708d65e", null ],
-    [ "m_range", "dc/d11/a09356.html#a801d56a180e196943cfc2cefb6c5dda5", null ],
-    [ "me", "dc/d11/a09356.html#a67cef25e6f725ea42f0377df34d48495", null ]
+    [ "NearestAttackableUnitInObjectRangeCheck", "dc/d11/a09356.html#ae2f43e2036047622ec88de3db08ea668", null ],
+    [ "NearestAttackableUnitInObjectRangeCheck", "dc/d11/a09356.html#a8deef14a2c11f9ccd9613614124a7d8e", null ],
+    [ "operator()", "dc/d11/a09356.html#a2f966e38682e6a02a120ad90ba19f7a4", null ],
+    [ "i_funit", "dc/d11/a09356.html#a88be7342d10008fc394f21b9a5e14162", null ],
+    [ "i_obj", "dc/d11/a09356.html#a6c1c4e5b85f6f7958578afb6c6f2af98", null ],
+    [ "i_range", "dc/d11/a09356.html#a26242657d6f2eb61d6f8fcac30357381", null ]
 ];

@@ -1,8 +1,7 @@
 var a20096 =
 [
-    [ "npc_ulduar_flash_freezeAI", "d1/d75/a20096.html#a478e7bc76a7b7ffeb25a0df731cb5ed8", null ],
-    [ "DamageTaken", "d1/d75/a20096.html#af0c18460b4cc331f51c44a3306f516b8", null ],
-    [ "UpdateAI", "d1/d75/a20096.html#ab2efa0a8d06297bff05502c40079efe9", null ],
-    [ "pInstance", "d1/d75/a20096.html#a28be7874fee6dcaea6f205cb75f1450f", null ],
-    [ "timer", "d1/d75/a20096.html#a590117afe9e9943d8dc8a44af9386066", null ]
+    [ "HandleEffectPeriodic", "d1/d75/a20096.html#ae1c6062123fb62a48f542e43b34c7bcd", null ],
+    [ "PrepareAuraScript", "d1/d75/a20096.html#a1c54b6c86fc39d96d601b24c5b30fbdd", null ],
+    [ "Register", "d1/d75/a20096.html#af7a5a98b5cf784d2de8b57a183c19142", null ],
+    [ "Validate", "d1/d75/a20096.html#a16c536c913d003826ef4b86c7a497fec", null ]
 ];

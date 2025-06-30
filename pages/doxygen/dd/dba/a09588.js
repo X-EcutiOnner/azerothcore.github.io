@@ -1,8 +1,6 @@
 var a09588 =
 [
-    [ "InstResetEvent", "dd/dba/a09588.html#aefa8f2b1b2cf29ad3472712278741fa4", null ],
-    [ "InstResetEvent", "dd/dba/a09588.html#af6f80b924e52cd5296d21f4a5d1374c2", null ],
-    [ "difficulty", "dd/dba/a09588.html#a67afe513dd42370ac4bb385a7128a324", null ],
-    [ "mapid", "dd/dba/a09588.html#ad02e00b2782304fbd75973fe58eefd33", null ],
-    [ "type", "dd/dba/a09588.html#ad211513c7ed39269d464190398dabaed", null ]
+    [ "NpcTextLocale", "dd/dba/a09588.html#af1ddddeff75a1a51c51ebb1fec3f4f05", null ],
+    [ "Text_0", "dd/dba/a09588.html#adf17307b9d00e0b63b9c2827fca96320", null ],
+    [ "Text_1", "dd/dba/a09588.html#a40f69a13a202c350fdce2177288727e9", null ]
 ];

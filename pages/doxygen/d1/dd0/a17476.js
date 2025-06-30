@@ -1,6 +1,9 @@
 var a17476 =
 [
-    [ "npc_igb_ship_crewAI", "d9/d40/a17480.html", "d9/d40/a17480" ],
-    [ "npc_igb_ship_crew", "d1/dd0/a17476.html#a5f4380aba94766a6a75b97026998b881", null ],
-    [ "GetAI", "d1/dd0/a17476.html#a48955817e21a01a726b50685b467c229", null ]
+    [ "BattleExperienceEvent", "d1/dd0/a17476.html#a3091b403089533ce2ebbb40fa38f28c9", null ],
+    [ "Execute", "d1/dd0/a17476.html#a3971962ec90f682baeae96fe6098fa97", null ],
+    [ "_creature", "d1/dd0/a17476.html#a0155536d5c2be329a1f3b57c4d852098", null ],
+    [ "_level", "d1/dd0/a17476.html#a22f0d7e59f579362be4576180d0977b8", null ],
+    [ "ExperiencedSpells", "d1/dd0/a17476.html#a5e2e06a386059ba2d9aff676648fa56b", null ],
+    [ "ExperiencedTimes", "d1/dd0/a17476.html#a4daf5818472ebe7c8d3938e2189d8e02", null ]
 ];

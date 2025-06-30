@@ -1,6 +1,9 @@
 var a13620 =
 [
-    [ "npc_jaina_proudmoore_bfuAI", "d8/d89/a13624.html", "d8/d89/a13624" ],
-    [ "npc_jaina_proudmoore_bfu", "d0/dd7/a13620.html#af96c4fac318f44cf6e70817b6960999f", null ],
-    [ "GetAI", "d0/dd7/a13620.html#a4ed6349a5ebdd90053f9d67d24ab6991", null ]
+    [ "npc_tyrion_spybotAI", "d0/dd7/a13620.html#aedad685279012266637d29069ead9063", null ],
+    [ "Reset", "d0/dd7/a13620.html#a16f8f9fd368832aac7906c3fd8cb9698", null ],
+    [ "UpdateAI", "d0/dd7/a13620.html#ad8fc713bb9673e74bfd11bc653c71587", null ],
+    [ "WaypointReached", "d0/dd7/a13620.html#a819e987eeb8eb8d580a5ad22001a641d", null ],
+    [ "uiPhase", "d0/dd7/a13620.html#af5dbb99fe18d96665efd04bd53294636", null ],
+    [ "uiTimer", "d0/dd7/a13620.html#ab41fdff3612b29e7d0d94fb6aaa8c085", null ]
 ];

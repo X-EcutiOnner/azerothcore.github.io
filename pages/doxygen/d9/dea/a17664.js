@@ -1,6 +1,9 @@
 var a17664 =
 [
-    [ "npc_darnavanAI", "da/d40/a17668.html", "da/d40/a17668" ],
-    [ "npc_darnavan", "d9/dea/a17664.html#ac358ca123155165395fa5f7ec02c9dab", null ],
-    [ "GetAI", "d9/dea/a17664.html#a9eeb6e5fba1e6d671af1f23f443c509a", null ]
+    [ "CheckAreaTarget", "d9/dea/a17664.html#a770ca8aa441a7c5ddc3e26968d7861a4", null ],
+    [ "HandleApply", "d9/dea/a17664.html#a2aaf88ee6fee8aff23f8ee99b30e369f", null ],
+    [ "Load", "d9/dea/a17664.html#aac27c3377b48bc8c602fa7f12dec491a", null ],
+    [ "PrepareAuraScript", "d9/dea/a17664.html#a105c93dea246a84b73e13bdf3d04f8f4", null ],
+    [ "Register", "d9/dea/a17664.html#a8f476129e0678149463c4b16232f6cb6", null ],
+    [ "_teamIdInInstance", "d9/dea/a17664.html#a78b8e04586e328f89a44f41eb8c478c9", null ]
 ];

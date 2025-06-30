@@ -1,14 +1,9 @@
 var a11712 =
 [
-    [ "tele_commandscript", "dd/da1/a11712.html#a13d522c3480c5b82071d5f77bd41f942", null ],
-    [ "DoNameTeleport", "dd/da1/a11712.html#aeab9bf62f33fd1d55055ba2ae7925f82", null ],
-    [ "GetCommands", "dd/da1/a11712.html#a296b26e39d5d575ebe68728ff1b49f68", null ],
-    [ "HandleTeleAddCommand", "dd/da1/a11712.html#a8d429a38c01a19f8c89c87937ef24248", null ],
-    [ "HandleTeleCommand", "dd/da1/a11712.html#ac7d7dbb28f3a908fa5116ffb9ca6f7fa", null ],
-    [ "HandleTeleDelCommand", "dd/da1/a11712.html#ad3d85b0057797de2aceeb620cf62efc0", null ],
-    [ "HandleTeleGroupCommand", "dd/da1/a11712.html#af83e529b482654851a7a1ee77beb107e", null ],
-    [ "HandleTeleNameCommand", "dd/da1/a11712.html#a70fcde1c7c5a9e5297035862adca55c4", null ],
-    [ "HandleTeleNameNpcIdCommand", "dd/da1/a11712.html#a52852b7f3d7a6bbf68164e6918b9a141", null ],
-    [ "HandleTeleNameNpcNameCommand", "dd/da1/a11712.html#a2f68bad0f1af5d40fcefb8c394472b65", null ],
-    [ "HandleTeleNameNpcSpawnIdCommand", "dd/da1/a11712.html#a7a45fa39afa6bae2359a68b11a504bc5", null ]
+    [ "quest_commandscript", "dd/da1/a11712.html#a98804583ded14bc50d252475289dda4f", null ],
+    [ "GetCommands", "dd/da1/a11712.html#afaf8c4b169a2bc7457b8ab97d13a367c", null ],
+    [ "HandleQuestAdd", "dd/da1/a11712.html#acd1410f224a1d69bba1321999ebf25bc", null ],
+    [ "HandleQuestComplete", "dd/da1/a11712.html#a044c30fdaedd07060284bd37fd2e226c", null ],
+    [ "HandleQuestRemove", "dd/da1/a11712.html#ac0a87854f99c510c8309e9e337d1e71f", null ],
+    [ "HandleQuestReward", "dd/da1/a11712.html#ab8d38057b3630b75cf21c8e88c1ebaf0", null ]
 ];

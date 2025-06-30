@@ -1,5 +1,6 @@
 var a24272 =
 [
-    [ "npc_pet_dk_ghoulAI", "d7/d7b/a24272.html#a7e747ba9e709eb532b0c16c8a1c1763a", null ],
-    [ "JustDied", "d7/d7b/a24272.html#a7d964fafeb0a7746a7749a9e0eb93080", null ]
+    [ "PrepareSpellScript", "d7/d7b/a24272.html#ac781a5ff389268d1f18867ff5585ca71", null ],
+    [ "Register", "d7/d7b/a24272.html#a5cb9e02774ea6c307e76183253ffb472", null ],
+    [ "SetDest", "d7/d7b/a24272.html#a5fec9885b1dd6cf80fb47af321fad98e", null ]
 ];

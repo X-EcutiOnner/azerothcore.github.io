@@ -1,6 +1,7 @@
 var a22896 =
 [
-    [ "ShadowOfDeathSelector", "d2/df0/a22896.html#a1190094fbde74ccffd954fea742ab0ae", null ],
-    [ "operator()", "d2/df0/a22896.html#a3c91b315ce6d6c523d4bdb8a8206a3c8", null ],
-    [ "_tank", "d2/df0/a22896.html#adc238645eec306e00918dbab05549fc8", null ]
+    [ "HandleEffectRemove", "d2/df0/a22896.html#a6adc572bb13dde9b83a44a1c27833019", null ],
+    [ "PrepareAuraScript", "d2/df0/a22896.html#a877c26735531508d1806273117f3e8bc", null ],
+    [ "Register", "d2/df0/a22896.html#a1b3e9eb2f6979ac2f17ac47eb38c8bb5", null ],
+    [ "Validate", "d2/df0/a22896.html#a8c45ba806d865f7b9d56950013bdd81c", null ]
 ];

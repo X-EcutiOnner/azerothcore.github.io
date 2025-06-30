@@ -1,6 +1,6 @@
 var a16640 =
 [
-    [ "instance_drak_tharon_keep_InstanceScript", "d8/dce/a16640.html#a15f13e67c33a7d5cfb4793b6b641842c", null ],
-    [ "OnGameObjectCreate", "d8/dce/a16640.html#ab727f29fc768c00ab48bfd7e7717a29a", null ],
-    [ "OnGameObjectRemove", "d8/dce/a16640.html#ad8115d5e1ee45a586ec0c1149d690db5", null ]
+    [ "boss_tharon_jaAI", "d7/d4e/a16644.html", "d7/d4e/a16644" ],
+    [ "boss_tharon_ja", "d8/dce/a16640.html#ac34f8f33ea75dc0107222d3720788f7a", null ],
+    [ "GetAI", "d8/dce/a16640.html#ab24612418cb66ed0c1e64fba5ebaa50f", null ]
 ];

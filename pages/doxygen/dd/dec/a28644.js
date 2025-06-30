@@ -1,8 +1,8 @@
 var a28644 =
 [
-    [ "Color", "dd/dec/a28644.html#a379e4cf61345dbb4d93da5a8603138c0", null ],
-    [ "NameIndex", "dd/dec/a28644.html#add893e045d13a3633fd7346457a10477", null ],
-    [ "Position", "dd/dec/a28644.html#afae9056582e71160c151de2c172bc60a", null ],
-    [ "Rotation", "dd/dec/a28644.html#a48d372bc1371fa5f94db9aa39669942a", null ],
-    [ "Scale", "dd/dec/a28644.html#aefacaaf0be0745c95ffc53f410da6e8d", null ]
+    [ "TileInfo", "dd/dec/a28644.html#af1a25ded4212f141ab4f32db95709210", null ],
+    [ "m_mapId", "dd/dec/a28644.html#a41f4be7d3fce716754b9ac0310b9ecf9", null ],
+    [ "m_navMeshParams", "dd/dec/a28644.html#a9d7c909370359edafa8a9b6a91cef354", null ],
+    [ "m_tileX", "dd/dec/a28644.html#a54cc23d82dfe690e0d62b6156d440fc1", null ],
+    [ "m_tileY", "dd/dec/a28644.html#ab7fba310dd471fddcf2e7d6fba3205ed", null ]
 ];

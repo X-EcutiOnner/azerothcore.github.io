@@ -1,7 +1,7 @@
 var a09448 =
 [
-    [ "RaidCheck", "d5/df9/a09448.html#ad8c3717b9a645c7806c8c027a8d90ef5", null ],
-    [ "operator()", "d5/df9/a09448.html#a0c076b737e8e1eacb9aab0981ff66f51", null ],
-    [ "_compare", "d5/df9/a09448.html#a5fffdd5901fb03c5e9a9adfb58e3d759", null ],
-    [ "_equals", "d5/df9/a09448.html#a7d253c94403bd50012722a9a9b113c3a", null ]
+    [ "ObjectGUIDCheck", "d5/df9/a09448.html#a4932b3610ddc148ee5a30a6ce91c6f27", null ],
+    [ "operator()", "d5/df9/a09448.html#a0f3f6e89a9e621a208cd6795722ae4ef", null ],
+    [ "_equals", "d5/df9/a09448.html#a413d991eeee0294a54f3c803e296c3ac", null ],
+    [ "_GUID", "d5/df9/a09448.html#a0e97bfe0e160177549a831df8e9b4555", null ]
 ];

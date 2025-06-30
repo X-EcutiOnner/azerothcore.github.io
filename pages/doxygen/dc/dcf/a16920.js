@@ -1,7 +1,5 @@
 var a16920 =
 [
-    [ "HandlePeriodicTick", "dc/dcf/a16920.html#a61417176afec531ca2bf6e80eb72ac6a", null ],
-    [ "PrepareAuraScript", "dc/dcf/a16920.html#ad5f954d5050bded2e6a5877cb9f81df5", null ],
-    [ "Register", "dc/dcf/a16920.html#a4653ccb0d93d056adf3b14056865787c", null ],
-    [ "Validate", "dc/dcf/a16920.html#a675b447cf1cf0e7d92c777ae31888a8c", null ]
+    [ "at_hor_battered_hilt_throw", "dc/dcf/a16920.html#a857812bd67ee2e62c5e450fae591cd9d", null ],
+    [ "OnTrigger", "dc/dcf/a16920.html#a30c72b4dc7e48fc87374cbfc2cdf0f50", null ]
 ];

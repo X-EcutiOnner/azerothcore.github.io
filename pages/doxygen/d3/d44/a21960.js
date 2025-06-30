@@ -1,8 +1,6 @@
 var a21960 =
 [
-    [ "npc_llod_genericAI", "d3/d44/a21960.html#ac75d85ae4b59416952788102cd1db132", null ],
-    [ "Reset", "d3/d44/a21960.html#a15bd7442fef36a551cc8797f7919f57c", null ],
-    [ "UpdateAI", "d3/d44/a21960.html#aa7dce553fb699127f63281b2c47a2f02", null ],
-    [ "attackTimer", "d3/d44/a21960.html#a28a6e700d24995e477e7e7c4cc8b5d68", null ],
-    [ "summonTimer", "d3/d44/a21960.html#aeeeef545aee565c14d86d8587923c677", null ]
+    [ "npc_attracted_reef_bullAI", "d3/d44/a21960.html#aa8917a912fb31a5987332e53e8d268e7", null ],
+    [ "MovementInform", "d3/d44/a21960.html#a79d9539243f178a2989f017c5f9ebc8c", null ],
+    [ "SpellHit", "d3/d44/a21960.html#ab06ee7ef84d881262ae682b69fae3135", null ]
 ];

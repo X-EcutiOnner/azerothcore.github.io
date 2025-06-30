@@ -1,7 +1,6 @@
 var a15556 =
 [
-    [ "npc_wizzlecrank_shredderAI", "df/d96/a15560.html", "df/d96/a15560" ],
-    [ "npc_wizzlecrank_shredder", "d9/d58/a15556.html#a56a29a61d6f1a5981019f6c059b4da64", null ],
-    [ "GetAI", "d9/d58/a15556.html#a5c42cc6d8cf2642333731138077af66e", null ],
-    [ "OnQuestAccept", "d9/d58/a15556.html#afcd5aaea5234b6510825d9ce5e809aa6", null ]
+    [ "npc_custodian_of_timeAI", "df/d96/a15560.html", "df/d96/a15560" ],
+    [ "npc_custodian_of_time", "d9/d58/a15556.html#a6018b30119ce819853a3c662b3d5347e", null ],
+    [ "GetAI", "d9/d58/a15556.html#a57217b2dab1cab110f1c59526ca13c86", null ]
 ];

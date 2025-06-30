@@ -1,6 +1,5 @@
 var a28036 =
 [
-    [ "color", "d2/d7a/a28036.html#a2e4ee1d687af07445684907d1bcec4f4", null ],
-    [ "ID", "d2/d7a/a28036.html#ac125147c2dc5546a0116f48e08f36e59", null ],
-    [ "spellitemenchantement", "d2/d7a/a28036.html#a3a6329c8f5caa3cd6e61138339f37f4d", null ]
+    [ "Itemlvl", "d2/d7a/a28036.html#a39d9dcee397a1f5984184c769f9b8b17", null ],
+    [ "multiplier", "d2/d7a/a28036.html#a5c6c206a6185a546223de7501ff846f6", null ]
 ];

@@ -1,7 +1,6 @@
 var a25444 =
 [
-    [ "HandleJump", "d1/d6e/a25444.html#ac70f6d53e85af1ee2591e761e21872db", null ],
-    [ "HandleScriptEffect", "d1/d6e/a25444.html#abdaa3c5356f84429cf6d2e053a3238ff", null ],
-    [ "PrepareSpellScript", "d1/d6e/a25444.html#a7daa7cef660e9f08b8e60c7788783c99", null ],
-    [ "Register", "d1/d6e/a25444.html#a0cbd40958551e0f38850a9fdcd6f0048", null ]
+    [ "HandlePreventAura", "d1/d6e/a25444.html#a62b9a62f5379f4ca98921c7fe4278b58", null ],
+    [ "PrepareSpellScript", "d1/d6e/a25444.html#a61b2f1d5634219f9c48a9ea75e90d423", null ],
+    [ "Register", "d1/d6e/a25444.html#ab1a90b7939c146b40badfd6424c35cf7", null ]
 ];

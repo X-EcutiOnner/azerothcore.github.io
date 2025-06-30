@@ -1,6 +1,6 @@
 var a20100 =
 [
-    [ "npc_ulduar_toasty_fireAI", "d8/d39/a20104.html", "d8/d39/a20104" ],
-    [ "npc_ulduar_toasty_fire", "dc/d97/a20100.html#a5a5b77088b24f1c5743c58034190d5ab", null ],
-    [ "GetAI", "dc/d97/a20100.html#a2518ec39c3cea2f3efc5000e0a7779d0", null ]
+    [ "FilterTargets", "dc/d97/a20100.html#adb438b9bcf4be347aeabf6608fbfb8a4", null ],
+    [ "PrepareSpellScript", "dc/d97/a20100.html#a88f5ca3aaa575cff0ba778f9b575d656", null ],
+    [ "Register", "dc/d97/a20100.html#ac7337b4ee8511f72b129fccc83b3241e", null ]
 ];

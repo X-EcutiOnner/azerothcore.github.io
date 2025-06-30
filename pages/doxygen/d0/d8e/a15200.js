@@ -1,6 +1,7 @@
 var a15200 =
 [
-    [ "npc_depth_chargeAI", "d3/d97/a15204.html", "d3/d97/a15204" ],
-    [ "npc_depth_charge", "d0/d8e/a15200.html#ad16e3431b06fdd6797bfb51dda9005f5", null ],
-    [ "GetAI", "d0/d8e/a15200.html#a16de1a207304ea2ad7f47d5674deeec1", null ]
+    [ "npc_anubisath_warder", "d0/d8e/a15200.html#aebe14673e5c31000a9626e39d87c6775", null ],
+    [ "JustEngagedWith", "d0/d8e/a15200.html#a579318fa519eb669573b2cea78c2fee3", null ],
+    [ "Reset", "d0/d8e/a15200.html#aea0fac8f1eb28591b141ace55c49beeb", null ],
+    [ "UpdateAI", "d0/d8e/a15200.html#aba428f1f1a016191aa4f168c616c3a29", null ]
 ];

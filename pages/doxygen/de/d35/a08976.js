@@ -1,6 +1,8 @@
 var a08976 =
 [
-    [ "EmoteDelay", "de/d35/a08976.html#a053adbedc95026b192360e13d32c9401", null ],
-    [ "EmoteType", "de/d35/a08976.html#aa5189cb250b3f46086ecd69dee23414b", null ],
-    [ "Greeting", "de/d35/a08976.html#a84aa5fced9b8989487d1468c4eccb976", null ]
+    [ "MailLevelReward", "de/d35/a08976.html#accd52642cbbab457b69dba54a6ffa23b", null ],
+    [ "MailLevelReward", "de/d35/a08976.html#a3e98aa5c30b0b5648784f9aaf5349a76", null ],
+    [ "mailTemplateId", "de/d35/a08976.html#afdf6684bcd2751822bd00ba1509ef933", null ],
+    [ "raceMask", "de/d35/a08976.html#a341088acd89b79161d932367f4f1798d", null ],
+    [ "senderEntry", "de/d35/a08976.html#a2b678ac953209691b38d583cffab55b5", null ]
 ];

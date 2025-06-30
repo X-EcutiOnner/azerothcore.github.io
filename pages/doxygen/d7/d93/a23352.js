@@ -1,6 +1,8 @@
 var a23352 =
 [
-    [ "instance_the_underbog_InstanceMapScript", "d8/de0/a23356.html", "d8/de0/a23356" ],
-    [ "instance_the_underbog", "d7/d93/a23352.html#afaf8740a3e367a1a54eaa3e76ffa483e", null ],
-    [ "GetInstanceScript", "d7/d93/a23352.html#ace939fb7fd89e7c9c84c17d3ca31208b", null ]
+    [ "boss_hungarfen", "d7/d93/a23352.html#a009b8d34731d2310a53195024b434935", null ],
+    [ "JustEngagedWith", "d7/d93/a23352.html#a3612bb373ecdba4245587fd94257ba62", null ],
+    [ "Reset", "d7/d93/a23352.html#a4b310eff8af9a33c50ae8f2035ba76ad", null ],
+    [ "UpdateAI", "d7/d93/a23352.html#a1765bd54c04a3479e837b3d0e241300e", null ],
+    [ "_scheduler", "d7/d93/a23352.html#a702185681abb6cfc4add7078ff5bbb52", null ]
 ];

@@ -1,12 +1,11 @@
 var a17912 =
 [
-    [ "npc_precious_iccAI", "dd/dbe/a17912.html#a90dff89c652339ecf7479d2c9233962a", null ],
-    [ "JustDied", "dd/dbe/a17912.html#a06671144929a3783f17397b818016032", null ],
-    [ "JustEngagedWith", "dd/dbe/a17912.html#a05cd30f0bf149d16c75ad3f717cb9dcc", null ],
-    [ "JustSummoned", "dd/dbe/a17912.html#adafed6974cbd70ccfc0f9ee83732d162", null ],
-    [ "Reset", "dd/dbe/a17912.html#a9ecb9771140d1248c08c56886c8d4ca9", null ],
-    [ "SummonedCreatureDespawn", "dd/dbe/a17912.html#af59e24c588861fe7d1bcd456780f571a", null ],
-    [ "UpdateAI", "dd/dbe/a17912.html#a1fd3a4d7d16bb93be68d8b135546ab1e", null ],
-    [ "events", "dd/dbe/a17912.html#a4ac57f4ffe0886f463378b42525e2e4d", null ],
-    [ "summons", "dd/dbe/a17912.html#ab752e504c7cf463a4447a07fbb67211c", null ]
+    [ "npc_little_oozeAI", "dd/dbe/a17912.html#a6fb3ac6e3f2c39b96ee4fe265e4940dd", null ],
+    [ "EnterEvadeMode", "dd/dbe/a17912.html#a0bd4bfcc8c373a449f297011289e5530", null ],
+    [ "IsSummonedBy", "dd/dbe/a17912.html#afb9763ade36bd742398a8bca961c136b", null ],
+    [ "JustDied", "dd/dbe/a17912.html#a37e5898e3dc1704be9fba2178567fd2a", null ],
+    [ "UpdateAI", "dd/dbe/a17912.html#a6ee56789d528c2b6dcb04abaff6806cb", null ],
+    [ "events", "dd/dbe/a17912.html#aa0d2113458887b73fe2af36f9d3ab0f1", null ],
+    [ "firstUpdate", "dd/dbe/a17912.html#aa3aca24bc97bcd9a2030fccf6782cf9c", null ],
+    [ "instance", "dd/dbe/a17912.html#a8a4ec828f144f071c0c6f2bf48b69cc0", null ]
 ];

@@ -1,6 +1,6 @@
 var a20608 =
 [
-    [ "boss_xt002AI", "d9/dda/a20612.html", "d9/dda/a20612" ],
-    [ "boss_xt002", "dd/d43/a20608.html#aebd7e513b3bef6a25ad0f9766d18174e", null ],
-    [ "GetAI", "dd/d43/a20608.html#a146e4a10da7d81213e7f63d6e86c79f2", null ]
+    [ "boss_thorim_gauntlet_npcsAI", "d9/dda/a20612.html", "d9/dda/a20612" ],
+    [ "boss_thorim_gauntlet_npcs", "dd/d43/a20608.html#abdf2e90c5b86d3724fac46bff5e15d97", null ],
+    [ "GetAI", "dd/d43/a20608.html#a2a71153ed2a9091de6668ab0b6f7674f", null ]
 ];

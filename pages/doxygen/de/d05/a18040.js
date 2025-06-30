@@ -1,15 +1,9 @@
 var a18040 =
 [
-    [ "npc_sindragosa_trashAI", "de/d05/a18040.html#a7401a422bc4c2140c631bc118f396f25", null ],
-    [ "GetData", "de/d05/a18040.html#a701b8189869bf20d2b3da31b73aed9da", null ],
-    [ "InitializeAI", "de/d05/a18040.html#a3a8b341c7304faa2c238305f9dde29b0", null ],
-    [ "JustEngagedWith", "de/d05/a18040.html#a0a7a0012105dea55fe4c8b51d9df5fc7", null ],
-    [ "JustRespawned", "de/d05/a18040.html#a6438b9f864f178dc4e35e24a48066980", null ],
-    [ "Reset", "de/d05/a18040.html#a823df6bb8b36ab38aa059e6d1313f2c0", null ],
-    [ "SetData", "de/d05/a18040.html#a4aaa7f3963b24ac03e2fb8aaea7b62b2", null ],
-    [ "UpdateAI", "de/d05/a18040.html#a12b995cc8c836efbf0eecc6591c85ff4", null ],
-    [ "_events", "de/d05/a18040.html#ab789c21e742fe261f9f8aa63509a7d45", null ],
-    [ "_frostwyrmId", "de/d05/a18040.html#ac2853246532bd913211fc743f4723ce0", null ],
-    [ "_instance", "de/d05/a18040.html#aa2199507fdabe850b6af9a5ae0283fdc", null ],
-    [ "_isTaunted", "de/d05/a18040.html#a50632ee1a85936748aabc5fb10f5e982", null ]
+    [ "AfterApply", "de/d05/a18040.html#a0ee1a701f75e9f0a70dc21528ffea683", null ],
+    [ "ExtraRemoveEffect", "de/d05/a18040.html#a9f427761fcca9029eb75d586e5876fcd", null ],
+    [ "PeriodicTick", "de/d05/a18040.html#a82430399e44001343f322b2c3b7769a5", null ],
+    [ "PrepareAuraScript", "de/d05/a18040.html#a9c8e0ed8fde28588e11ebf5e8abd02dc", null ],
+    [ "Register", "de/d05/a18040.html#a68be7f7edecd1bae8c962aaa9d556c3e", null ],
+    [ "Validate", "de/d05/a18040.html#ae20873e93fbace6272a793993fb45349", null ]
 ];

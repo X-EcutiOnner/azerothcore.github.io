@@ -1,7 +1,7 @@
 var a21528 =
 [
-    [ "npc_thassarianAI", "d6/d83/a21528.html#a92e873dc3aa97f81919225ce75a5f894", null ],
-    [ "Reset", "d6/d83/a21528.html#a8611ef17700c739dbd5e7a70660f1379", null ],
-    [ "UpdateAI", "d6/d83/a21528.html#ad09a3a063d716bc43e23b5aad5e46a7b", null ],
-    [ "_events", "d6/d83/a21528.html#aaecb5a402e4ffca1e819303dbb94f5b5", null ]
+    [ "npc_mootoo_the_youngerAI", "d6/d83/a21528.html#a70a5a502dab9a90a790a90eabc5c3acd", null ],
+    [ "JustDied", "d6/d83/a21528.html#a766612f646a6d22d3f0e6f93298e34bc", null ],
+    [ "Reset", "d6/d83/a21528.html#a04624b9b4d552d6b27308edc3ad44644", null ],
+    [ "WaypointReached", "d6/d83/a21528.html#ac758a992ed0d62a272930c84d617b348", null ]
 ];

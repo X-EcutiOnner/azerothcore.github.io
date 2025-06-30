@@ -1,7 +1,6 @@
 var a16412 =
 [
-    [ "HandleDispel", "dd/dae/a16412.html#a7b24f38bbb7813826520f928b22d30aa", null ],
-    [ "PrepareAuraScript", "dd/dae/a16412.html#a0e0424bd590cfc4f85f40728bf6efd22", null ],
-    [ "Register", "dd/dae/a16412.html#a2bf6921550da3c13730fd98bded2c927", null ],
-    [ "Validate", "dd/dae/a16412.html#ad8b0bb389d232c74acf106b711414fa1", null ]
+    [ "npc_toc_dkAI", "db/d2e/a16416.html", "db/d2e/a16416" ],
+    [ "npc_toc_dk", "dd/dae/a16412.html#ac8b2c11f64f9cc6f4be91be1e3184b8a", null ],
+    [ "GetAI", "dd/dae/a16412.html#ac5252f0f7ab993c8187aff17dac7a795", null ]
 ];

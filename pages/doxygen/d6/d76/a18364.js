@@ -1,6 +1,6 @@
 var a18364 =
 [
-    [ "npc_green_dragon_combat_triggerAI", "d5/dc6/a18368.html", "d5/dc6/a18368" ],
-    [ "npc_green_dragon_combat_trigger", "d6/d76/a18364.html#acec675494f5e5e9609bf34b7f25cb569", null ],
-    [ "GetAI", "d6/d76/a18364.html#a945b7cd0084873c17d52b3c2cc3ede22", null ]
+    [ "ActivateSpirit", "d6/d76/a18364.html#ae5c9f8e693a98c828e0e922870552952", null ],
+    [ "PrepareSpellScript", "d6/d76/a18364.html#aa55f0fe4e27520b8a7ae1bb0f810838d", null ],
+    [ "Register", "d6/d76/a18364.html#a2b1d27e93a879681098a83d17c4d686a", null ]
 ];

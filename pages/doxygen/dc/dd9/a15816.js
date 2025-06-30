@@ -1,7 +1,8 @@
 var a15816 =
 [
-    [ "HandleEffectRemove", "dc/dd9/a15816.html#a45ed6d3f1c80dcef3ee6c59e744f13c6", null ],
-    [ "PrepareAuraScript", "dc/dd9/a15816.html#a34b88963dd81e6a8855daaedb9c238d4", null ],
-    [ "Register", "dc/dd9/a15816.html#a7c0533650e772713233ea45b0264cbff", null ],
-    [ "Validate", "dc/dd9/a15816.html#a7690603bd7b01ca6da2a73ac8ed36114", null ]
+    [ "instance_ahnkahet_InstanceScript", "dc/dd9/a15816.html#aa9a72f2f757d0b3065a6e4e25b14e86d", null ],
+    [ "IsAllSpheresActivated", "dc/dd9/a15816.html#a048a2b16ae9917c7edc9bf7023986ac3", null ],
+    [ "OnGameObjectCreate", "dc/dd9/a15816.html#ad00fdc90a61e1c927323daa2149f8466", null ],
+    [ "SetData", "dc/dd9/a15816.html#a8986038a2f25b16b9ab8ba4d41b5221a", null ],
+    [ "taldaramPlatform_GUID", "dc/dd9/a15816.html#a840ce69595c384be321c1167513d151e", null ]
 ];

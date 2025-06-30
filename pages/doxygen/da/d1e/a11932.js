@@ -1,6 +1,7 @@
 var a11932 =
 [
-    [ "boss_gloomrel", "da/d1e/a11932.html#ad655acba7b2d88779f849a685bb9fbb7", null ],
-    [ "OnGossipHello", "da/d1e/a11932.html#a6ce6898142d767a130ec09769f2be488", null ],
-    [ "OnGossipSelect", "da/d1e/a11932.html#ab7c623cdd2301f3a0a74d6b1e187a8c5", null ]
+    [ "boss_moira_bronzebeardAI", "da/d1e/a11932.html#a11265b6aad76574c2c76253128c79165", null ],
+    [ "CastOnEmperorIfPossible", "da/d1e/a11932.html#a3f42c37e9f4cc14974106bf67ee4e583", null ],
+    [ "JustEngagedWith", "da/d1e/a11932.html#a40ae00eb86e2bec048a9394d4deef106", null ],
+    [ "UpdateAI", "da/d1e/a11932.html#ae3f22a059330fb564cd30e581fc0198d", null ]
 ];

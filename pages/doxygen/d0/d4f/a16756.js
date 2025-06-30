@@ -1,6 +1,5 @@
 var a16756 =
 [
-    [ "npc_ghostly_priestAI", "d9/dc4/a16760.html", "d9/dc4/a16760" ],
-    [ "npc_ghostly_priest", "d0/d4f/a16756.html#a7c03bb327cfc65f4df515969da482ddb", null ],
-    [ "GetAI", "d0/d4f/a16756.html#a0fab76345c5459efcedff02123e4fc8d", null ]
+    [ "npc_fos_leader_secondAI", "d0/d4f/a16756.html#a25df0b8760e9eb7d330779e10e3ac548", null ],
+    [ "MovementInform", "d0/d4f/a16756.html#a9cc0b500f1289dc8b764b3755468e639", null ]
 ];

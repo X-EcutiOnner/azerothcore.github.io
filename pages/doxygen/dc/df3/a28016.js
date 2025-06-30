@@ -1,5 +1,5 @@
 var a28016 =
 [
-    [ "Id", "dc/df3/a28016.html#a2c41c957524b31ad9f7fa361ec0e9d01", null ],
-    [ "textid", "dc/df3/a28016.html#a7e50690fa335b759dba5ac265c9a0dd0", null ]
+    [ "ID", "dc/df3/a28016.html#a01bcdc3543d3ff250354acf5e0724c14", null ],
+    [ "spellId", "dc/df3/a28016.html#aabbb95c091e0b0946bcb05746b1c23f3", null ]
 ];

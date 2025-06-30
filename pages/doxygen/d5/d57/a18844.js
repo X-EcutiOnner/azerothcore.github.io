@@ -1,7 +1,7 @@
 var a18844 =
 [
-    [ "HandleGameObjectDamage", "d5/d57/a18844.html#a811edfe01c1784664b5b4253d2305b4e", null ],
-    [ "PrepareSpellScript", "d5/d57/a18844.html#a0cfedeba2a747777de292b8f30b6752b", null ],
-    [ "Register", "d5/d57/a18844.html#a2d3b99dfe386777cf71ccb2ccac9f3a7", null ],
-    [ "Validate", "d5/d57/a18844.html#ab74d5c88a910fe191b071db3ac2c0381", null ]
+    [ "DelayedCastMincharEvent", "d5/d57/a18844.html#a76d8a08ca273eec5b2e083d136336a15", null ],
+    [ "Execute", "d5/d57/a18844.html#a12aeff246d07e541ed192974320842cb", null ],
+    [ "_spellId", "d5/d57/a18844.html#af4ea90407b2c8a283f137d213ffe97be", null ],
+    [ "_trigger", "d5/d57/a18844.html#a9f3cd02e77ad35b98a6753b792383548", null ]
 ];

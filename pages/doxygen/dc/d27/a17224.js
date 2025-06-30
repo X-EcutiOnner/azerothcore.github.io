@@ -1,6 +1,25 @@
 var a17224 =
 [
-    [ "AddExtraDamage", "dc/d27/a17224.html#adeedfdd7555dfd009c99db6f002f7488", null ],
-    [ "PrepareSpellScript", "dc/d27/a17224.html#a5d5c32f102c525f6c25d12281a58f5f4", null ],
-    [ "Register", "dc/d27/a17224.html#affe1d9a5e9c4776d1651fdb95283caf4", null ]
+    [ "boss_prince_taldaramAI", "dc/d27/a17224.html#a8887ecc2d5eae177dbc7adbd087b9c7e", null ],
+    [ "DamageDealt", "dc/d27/a17224.html#a7fdce83dce5c425aa6ba266860808f8a", null ],
+    [ "DamageTaken", "dc/d27/a17224.html#aeb85f808b766fb8e7a27c778c25b79f0", null ],
+    [ "DoAction", "dc/d27/a17224.html#ace782c6784cccf5dee01aa4de57ca0fb", null ],
+    [ "EnterEvadeMode", "dc/d27/a17224.html#a145d62ce132c3cdaeb7918790122967b", null ],
+    [ "InitializeAI", "dc/d27/a17224.html#a86ffd0e0da7bff506bad5508c32de505", null ],
+    [ "JustDied", "dc/d27/a17224.html#a5433de81912a208ea79533e0650d8687", null ],
+    [ "JustEngagedWith", "dc/d27/a17224.html#ae9b82e54daa62b196c6064143253b0d7", null ],
+    [ "JustReachedHome", "dc/d27/a17224.html#a448dcc055b5a4f57b6ad1ed09a4e19de", null ],
+    [ "JustRespawned", "dc/d27/a17224.html#a692da5cd278c64a6e14c9a997e02a433", null ],
+    [ "JustSummoned", "dc/d27/a17224.html#af62d0d20e8f7f312c1cd57ba3816bf70", null ],
+    [ "KilledUnit", "dc/d27/a17224.html#a1b3b2ce6d33becceb9a0426932b351be", null ],
+    [ "Reset", "dc/d27/a17224.html#acb777001e906749c81328df787732938", null ],
+    [ "SpellHit", "dc/d27/a17224.html#ae6258962c56bb67fdc09abe695a48fd7", null ],
+    [ "SummonedCreatureDespawn", "dc/d27/a17224.html#af512a9920b3e21641776197a570d87fa", null ],
+    [ "UpdateAI", "dc/d27/a17224.html#a1c15de4b477bbab2bb7d73df9f524d77", null ],
+    [ "_canDie", "dc/d27/a17224.html#aabe7cd8c61d97e1b3ea5a5736245aba0", null ],
+    [ "_evading", "dc/d27/a17224.html#a9dd90a58ca89477b9d18e3931edfec45", null ],
+    [ "_isEmpowered", "dc/d27/a17224.html#af5299914d228a49622524c13a63bb5cb", null ],
+    [ "events", "dc/d27/a17224.html#ae6e957dbd34e2c10d26875647faabe6b", null ],
+    [ "instance", "dc/d27/a17224.html#a45e9131b837b3967cc5b8d08ce7946cd", null ],
+    [ "summons", "dc/d27/a17224.html#aa198916309f31e243afc879c289269f8", null ]
 ];

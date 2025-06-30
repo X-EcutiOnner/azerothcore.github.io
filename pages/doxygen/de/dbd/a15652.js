@@ -1,6 +1,10 @@
 var a15652 =
 [
-    [ "HandleSummon", "de/dbd/a15652.html#a730e0c865f8c0c12544be951a48fe9ff", null ],
-    [ "PrepareSpellScript", "de/dbd/a15652.html#a31271cd4668d3cbc4f4bdbeb693fe141", null ],
-    [ "Register", "de/dbd/a15652.html#ae388ee1b08891f021ab1308ec7ffebaa", null ]
+    [ "npc_ameAI", "de/dbd/a15652.html#ad3d0ee584859b2b0fb7c6c5dbf204ad6", null ],
+    [ "JustDied", "de/dbd/a15652.html#a9b77f94f112477509c3163945ceb8201", null ],
+    [ "JustSummoned", "de/dbd/a15652.html#ab09c72c4ea50313c23a53d3862aeddea", null ],
+    [ "Reset", "de/dbd/a15652.html#a0bda0f95bd97b9e755a745a8ea41ba49", null ],
+    [ "UpdateAI", "de/dbd/a15652.html#a0a073e4c216985607aa51099044ff6c5", null ],
+    [ "WaypointReached", "de/dbd/a15652.html#a44b06a6a977d20b03ed663f1090ed43c", null ],
+    [ "DemoralizingShoutTimer", "de/dbd/a15652.html#ab5d1786735adea4bce1bba8adf42a877", null ]
 ];

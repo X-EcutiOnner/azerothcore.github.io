@@ -1,7 +1,6 @@
 var a21992 =
 [
-    [ "HandleDummy", "d7/dad/a21992.html#abfb58e49821e6a563940e8ba518db850", null ],
-    [ "PrepareSpellScript", "d7/dad/a21992.html#a61ca2f71b0fa323a54f716415b25b75e", null ],
-    [ "Register", "d7/dad/a21992.html#a7a2cc833ae8d079b821caabf55b6f0e5", null ],
-    [ "Validate", "d7/dad/a21992.html#a21daeadffbfd28621d897dfe67dd11a8", null ]
+    [ "npc_black_knight_graveyardAI", "d8/d2a/a21996.html", "d8/d2a/a21996" ],
+    [ "npc_black_knight_graveyard", "d7/dad/a21992.html#a2ce61ba254916f1f8b7a7658f96b67d5", null ],
+    [ "GetAI", "d7/dad/a21992.html#aab382cd1b7561c0db9c9f4c81247e540", null ]
 ];

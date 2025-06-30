@@ -1,14 +1,5 @@
 var a20120 =
 [
-    [ "npc_ulduar_hodir_druidAI", "d6/db4/a20120.html#ab41b2be29f20b35bfb8a7f330440b744", null ],
-    [ "AttackStart", "d6/db4/a20120.html#a037716c58f70f1367d618cda52bea044", null ],
-    [ "CanAIAttack", "d6/db4/a20120.html#adcae1d217637d700bb42f039a2a63e01", null ],
-    [ "EnterEvadeMode", "d6/db4/a20120.html#a8a13962ed8962bc32f40243711a6676d", null ],
-    [ "JustDied", "d6/db4/a20120.html#a7ed2930deae3eb1ae3216bc42dd99241", null ],
-    [ "MoveInLineOfSight", "d6/db4/a20120.html#abf9548764493ad92cf766d6009e2177f", null ],
-    [ "ScheduleAbilities", "d6/db4/a20120.html#a79cffc023d756e7a874d3d993d540269", null ],
-    [ "SpellHit", "d6/db4/a20120.html#a8f8e93dc55da0a77e0ae29416524c6ae", null ],
-    [ "UpdateAI", "d6/db4/a20120.html#abca58c8543365e16391a867389af27d9", null ],
-    [ "events", "d6/db4/a20120.html#a77408c09f78e25eb350b6c37bc2c9c41", null ],
-    [ "pInstance", "d6/db4/a20120.html#a679d03d94422d9686095658c9f4b1a87", null ]
+    [ "go_ulduar_pure_saronite_deposit", "d6/db4/a20120.html#a39da51a78b9f27392ed7494e18e89b93", null ],
+    [ "OnGossipHello", "d6/db4/a20120.html#ab69c5b514e0b79ff7155e0080841d4a2", null ]
 ];

@@ -1,48 +1,41 @@
 var a02123 =
 [
-    [ "DataHeader", "d5/d63/a02123.html#a042491ef36459046f3866e90f15aae0d", null ],
-    [ "OnyxiasLairScriptName", "d5/d63/a02123.html#a411397a87d359be66de671f07dbefefe", null ],
-    [ "RegisterOnyxiasLairCreatureAI", "d5/d63/a02123.html#a4becd56438e0f64fd4e609bda9b542a4", null ],
-    [ "eAchievementData", "d5/d63/a02123.html#aca087c1cb2fbca0c938185dd321856c4", [
-      [ "ACHIEV_CRITERIA_MANY_WHELPS_10_PLAYER", "d5/d63/a02123.html#aca087c1cb2fbca0c938185dd321856c4a57918d5eb6d9b6dad01b98eec717c611", null ],
-      [ "ACHIEV_CRITERIA_MANY_WHELPS_25_PLAYER", "d5/d63/a02123.html#aca087c1cb2fbca0c938185dd321856c4ab4cb5a7391642e00f98bf8c4feca4931", null ],
-      [ "ACHIEV_CRITERIA_DEEP_BREATH_10_PLAYER", "d5/d63/a02123.html#aca087c1cb2fbca0c938185dd321856c4a7d5dc918b0b3edc2fc3863242904bb22", null ],
-      [ "ACHIEV_CRITERIA_DEEP_BREATH_25_PLAYER", "d5/d63/a02123.html#aca087c1cb2fbca0c938185dd321856c4a7c0f8695a55dfedf6c942dead4b86bb9", null ],
-      [ "ACHIEV_TIMED_START_EVENT", "d5/d63/a02123.html#aca087c1cb2fbca0c938185dd321856c4a6ac3776ff6343c84361329e38055da04", null ]
+    [ "npc_sergeant_bly", "dc/d69/a15708.html", "dc/d69/a15708" ],
+    [ "npc_sergeant_bly::npc_sergeant_blyAI", "d6/d25/a15712.html", "d6/d25/a15712" ],
+    [ "go_troll_cage", "db/d23/a15716.html", "db/d23/a15716" ],
+    [ "go_troll_cage::go_troll_cageAI", "d8/d4e/a15720.html", "d8/d4e/a15720" ],
+    [ "npc_weegli_blastfuse", "d8/da8/a15724.html", "d8/da8/a15724" ],
+    [ "npc_weegli_blastfuse::npc_weegli_blastfuseAI", "d8/d57/a15728.html", "d8/d57/a15728" ],
+    [ "npc_shadowpriest_sezziz", "df/d8b/a15732.html", "df/d8b/a15732" ],
+    [ "npc_shadowpriest_sezziz::npc_shadowpriest_sezzizAI", "d3/d0f/a15736.html", "d3/d0f/a15736" ],
+    [ "GOSSIP_BLY", "d5/d63/a02123.html#acf686abbef9b59acbf66095340991aab", null ],
+    [ "GOSSIP_WEEGLI", "d5/d63/a02123.html#abd5fb74b4c5971cd2993555c6ac4d1eb", null ],
+    [ "blySays", "d5/d63/a02123.html#a0170bb25aee4171b17fd972a5eb000a9", [
+      [ "SAY_1", "d5/d63/a02123.html#a0170bb25aee4171b17fd972a5eb000a9a307d891e05530d70a32ad2047cfe6dab", null ],
+      [ "SAY_2", "d5/d63/a02123.html#a0170bb25aee4171b17fd972a5eb000a9a73b0208d974ac93026e31ca8864dd390", null ]
     ] ],
-    [ "eCreatures", "d5/d63/a02123.html#a59602e8f26d052c0b6f6bdfe896510b8", [
-      [ "NPC_ONYXIA", "d5/d63/a02123.html#a59602e8f26d052c0b6f6bdfe896510b8ac5297157e46436388d2a4e835c06de6e", null ],
-      [ "NPC_ONYXIAN_WHELP", "d5/d63/a02123.html#a59602e8f26d052c0b6f6bdfe896510b8a29f399e186a17314b99be364d738371a", null ],
-      [ "NPC_ONYXIAN_LAIR_GUARD", "d5/d63/a02123.html#a59602e8f26d052c0b6f6bdfe896510b8ac5a305bf78c6e737c665da793df48e49", null ],
-      [ "NPC_KELESETH", "da/dcf/a03344.html#a59602e8f26d052c0b6f6bdfe896510b8a1aa34e102fe5c920939fbbed64fd3bdd", null ],
-      [ "NPC_DALRONN", "da/dcf/a03344.html#a59602e8f26d052c0b6f6bdfe896510b8adc8eb044588758e3cfb4ed8c699e483d", null ],
-      [ "NPC_DALRONN_GHOST", "da/dcf/a03344.html#a59602e8f26d052c0b6f6bdfe896510b8ad6b59b3f0fa1841b3dbce49b32ce88f7", null ],
-      [ "NPC_SKARVALD", "da/dcf/a03344.html#a59602e8f26d052c0b6f6bdfe896510b8a531d439e3ed6f40d45aaf591d93722af", null ],
-      [ "NPC_SKARVALD_GHOST", "da/dcf/a03344.html#a59602e8f26d052c0b6f6bdfe896510b8aa4eafbdfd4632f9b207feb03c1c9906e", null ],
-      [ "NPC_INGVAR", "da/dcf/a03344.html#a59602e8f26d052c0b6f6bdfe896510b8aa8071c2550f86111dabfe071bb8905ec", null ],
-      [ "NPC_DARK_RANGER_MARRAH", "da/dcf/a03344.html#a59602e8f26d052c0b6f6bdfe896510b8a629c86c326a68aa9c57e75b658644e27", null ],
-      [ "NPC_ENSLAVED_PROTO_DRAKE", "da/dcf/a03344.html#a59602e8f26d052c0b6f6bdfe896510b8ab4269b45260da78a67bfdab9a95d8c2c", null ],
-      [ "NPC_ICHOR_GLOBULE", "d1/d42/a03419.html#a59602e8f26d052c0b6f6bdfe896510b8a5c39abb26566ef9fb1e3afe0cecc9762", null ]
+    [ "blySpells", "d5/d63/a02123.html#ac73b1b4ffaee22ad6c602a211a9bfccf", [
+      [ "SPELL_BLYS_BAND_ESCAPE", "d5/d63/a02123.html#ac73b1b4ffaee22ad6c602a211a9bfccfaa9a43afdd35ceaa8e5947c583cda6c83", null ],
+      [ "SPELL_SHIELD_BASH", "d5/d63/a02123.html#ac73b1b4ffaee22ad6c602a211a9bfccfa0d74cfe7662c959a043f01770a2c7bf4", null ],
+      [ "SPELL_REVENGE", "d5/d63/a02123.html#ac73b1b4ffaee22ad6c602a211a9bfccfa3494dd9ccea3b72ec038a01f6f6fd66f", null ]
     ] ],
-    [ "eGameObjects", "d5/d63/a02123.html#a0b356f44d43edb1bff30f404c9469250", [
-      [ "GO_WHELP_SPAWNER", "d5/d63/a02123.html#a0b356f44d43edb1bff30f404c9469250adf4548283b784850a8154cefa0fd360d", null ],
-      [ "GO_WHELP_EGG", "d5/d63/a02123.html#a0b356f44d43edb1bff30f404c9469250a4695e1a78b0f6094399a19023996f851", null ],
-      [ "GO_MAIN_GATE", "d5/d43/a03101.html#a0b356f44d43edb1bff30f404c9469250af7f4bfc022fbae9247e3389c3e755e0b", null ],
-      [ "GO_SOUTH_PORTCULLIS", "d5/d43/a03101.html#a0b356f44d43edb1bff30f404c9469250a5ebaf585ae3da6d909256800aebebbfc", null ],
-      [ "GO_EAST_PORTCULLIS", "d5/d43/a03101.html#a0b356f44d43edb1bff30f404c9469250a8a57a3fcd514b7a621e04ae73c2647c9", null ],
-      [ "GO_NORTH_PORTCULLIS", "d5/d43/a03101.html#a0b356f44d43edb1bff30f404c9469250af8f7a209e9b9e0909610ffbcb8fe94ca", null ],
-      [ "GO_CHAMPIONS_LOOT", "d5/d43/a03101.html#a0b356f44d43edb1bff30f404c9469250af347b8590e6d6688cd7cd8a901a01839", null ],
-      [ "GO_CHAMPIONS_LOOT_H", "d5/d43/a03101.html#a0b356f44d43edb1bff30f404c9469250a911cbac98e241072502109aef1a58966", null ],
-      [ "GO_EADRIC_LOOT", "d5/d43/a03101.html#a0b356f44d43edb1bff30f404c9469250ad29f747e71326720660778477708682f", null ],
-      [ "GO_EADRIC_LOOT_H", "d5/d43/a03101.html#a0b356f44d43edb1bff30f404c9469250afec277328734b29a227e6942dcc303e1", null ],
-      [ "GO_PALETRESS_LOOT", "d5/d43/a03101.html#a0b356f44d43edb1bff30f404c9469250a22dab9e0abcb8bbe36c42b492a6ae6b1", null ],
-      [ "GO_PALETRESS_LOOT_H", "d5/d43/a03101.html#a0b356f44d43edb1bff30f404c9469250a558835744936913cd5345f9435739ee0", null ]
+    [ "ShadowPriestSezzizEnum", "d5/d63/a02123.html#a4e0ee96bd227c57408d323b236131e7d", [
+      [ "SPELL_SHADOW_BOLT", "d5/d63/a02123.html#a4e0ee96bd227c57408d323b236131e7da8872edea8a2ac8c4e895c975482b9413", null ],
+      [ "SPELL_PSYCHIC_SCREEM", "d5/d63/a02123.html#a4e0ee96bd227c57408d323b236131e7da804b244c7e3d670c7c0c96c2deac50aa", null ],
+      [ "SPELL_RENEW", "d5/d63/a02123.html#a4e0ee96bd227c57408d323b236131e7daaf085a0eea027f75c291005b97cb46bd", null ],
+      [ "SPELL_HEAL", "d5/d63/a02123.html#a4e0ee96bd227c57408d323b236131e7da69fcca2d13e03c684fa0459f960ef9a7", null ]
     ] ],
-    [ "eInstanceData", "d5/d63/a02123.html#a7395e25d8049b2c60a1c7191d197f5cc", [
-      [ "DATA_ONYXIA", "d5/d63/a02123.html#a7395e25d8049b2c60a1c7191d197f5cca8fddf4be448f687691188b276d390817", null ],
-      [ "MAX_ENCOUNTER", "d5/d63/a02123.html#a7395e25d8049b2c60a1c7191d197f5cca7913656ef56deb3793c0c5f3d999d80d", null ],
-      [ "DATA_WHELP_SUMMONED", "d5/d63/a02123.html#a7395e25d8049b2c60a1c7191d197f5cca620ba8d85c596c11f1df0132b0117fbc", null ],
-      [ "DATA_DEEP_BREATH_FAILED", "d5/d63/a02123.html#a7395e25d8049b2c60a1c7191d197f5cca3678a84e6e3ed1c831e230a816a5475d", null ]
+    [ "weegliSays", "d5/d63/a02123.html#a326e8498672fa7a2db9a390d360f7391", [
+      [ "SAY_WEEGLI_OHNO", "d5/d63/a02123.html#a326e8498672fa7a2db9a390d360f7391aa1b27f3d4e49ae3cbea7b8b49371b41d", null ],
+      [ "SAY_WEEGLI_OK_I_GO", "d5/d63/a02123.html#a326e8498672fa7a2db9a390d360f7391aa92731cc39b2cffc724a22e3189198ea", null ],
+      [ "SAY_WEEGLI_OUT_OF_HERE", "d5/d63/a02123.html#a326e8498672fa7a2db9a390d360f7391aaa6eaf7f9cc5bb0b7c42aed2439da05c", null ]
     ] ],
-    [ "GetOnyxiasLairAI", "d5/d63/a02123.html#a3573a392c09a4df350f96df672ce58ad", null ]
+    [ "weegliSpells", "d5/d63/a02123.html#aa5d64b9165276a134e188d143807850c", [
+      [ "SPELL_BOMB", "d5/d63/a02123.html#aa5d64b9165276a134e188d143807850ca436b889374ecd412c15675983fdae5be", null ],
+      [ "SPELL_GOBLIN_LAND_MINE", "d5/d63/a02123.html#aa5d64b9165276a134e188d143807850ca04bb850750b0183913ab1008cba1833f", null ],
+      [ "SPELL_SHOOT", "d5/d63/a02123.html#aa5d64b9165276a134e188d143807850ca1b728fa1bb0194534b5b491d35ed871c", null ],
+      [ "SPELL_WEEGLIS_BARREL", "d5/d63/a02123.html#aa5d64b9165276a134e188d143807850ca1e379d7bc2f35c29e7b00ee0bf88357f", null ]
+    ] ],
+    [ "AddSC_zulfarrak", "d5/d63/a02123.html#a43b63d5d69b80ee6283471aacf5c9c87", null ],
+    [ "shadowpriestSezzizAdds", "d5/d63/a02123.html#ab3c6a2de23edecc492c7ca4de5c860c7", null ]
 ];

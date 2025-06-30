@@ -1,6 +1,8 @@
 var a20908 =
 [
-    [ "achievement_yogg_saron_he_waits_dreaming", "d1/d03/a20908.html#a25f4950d1ccffe77aa9cf5de7a14ea37", null ],
-    [ "OnCheck", "d1/d03/a20908.html#a7ef7dfb0235fb2db5932e7415e3e6f61", null ],
-    [ "_requiredIllusion", "d1/d03/a20908.html#aa3e107cb3be6fa02687709e07466a094", null ]
+    [ "Absorb", "d1/d03/a20908.html#a36a7237d7bcd50626e7a07a32c91cfb4", null ],
+    [ "CalculateAmount", "d1/d03/a20908.html#afe50bf22d07e68757caffb056ad55811", null ],
+    [ "PrepareAuraScript", "d1/d03/a20908.html#afa4ef1f7faa36a521c208dde10d09437", null ],
+    [ "Register", "d1/d03/a20908.html#aae020936d42da81c445f7d296660987b", null ],
+    [ "Validate", "d1/d03/a20908.html#a5852135c5214ee3938603632b0f21917", null ]
 ];

@@ -1,6 +1,6 @@
 var a19584 =
 [
-    [ "npc_brann_bronzebeard_algalonAI", "df/dbd/a19588.html", "df/dbd/a19588" ],
-    [ "npc_brann_bronzebeard_algalon", "de/df9/a19584.html#a2760d42de8f78250ca5862bfcb23ed2e", null ],
-    [ "GetAI", "de/df9/a19584.html#ad8bc8bde865adcce1e9f6fd6234f1a0a", null ]
+    [ "dark_rune_protectorsAI", "df/dbd/a19588.html", "df/dbd/a19588" ],
+    [ "dark_rune_protectors", "de/df9/a19584.html#a14225a2369a8deea416fc640a2d7b075", null ],
+    [ "GetAI", "de/df9/a19584.html#a359e4049b7ec828177d9a36d23e9b4ef", null ]
 ];

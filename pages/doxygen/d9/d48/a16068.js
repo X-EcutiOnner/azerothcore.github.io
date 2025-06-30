@@ -1,6 +1,6 @@
 var a16068 =
 [
-    [ "OnSummon", "d9/d48/a16068.html#ae2766d12fb686356b46126848f356c5a", null ],
-    [ "PrepareSpellScript", "d9/d48/a16068.html#a6b9af3b70d2ce07fe8aee5292367a982", null ],
-    [ "Register", "d9/d48/a16068.html#a717394bfbea621ae637f9e87efddda62", null ]
+    [ "HandleForceCast", "d9/d48/a16068.html#a975b69649aba9de341f4e52c82a3c111", null ],
+    [ "PrepareSpellScript", "d9/d48/a16068.html#a2dde8402cc4e8552faf3d8a1f4c6e60e", null ],
+    [ "Register", "d9/d48/a16068.html#a794a59e5fd3bda75f30d559f422895b5", null ]
 ];

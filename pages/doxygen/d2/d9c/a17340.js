@@ -1,12 +1,9 @@
 var a17340 =
 [
-    [ "npc_muradin_bronzebeard_iccAI", "d2/d9c/a17340.html#a4313164857ebd174fe33a9a16340b332", null ],
-    [ "DoAction", "d2/d9c/a17340.html#a16eeb7d0ed6c943c088285462131cd51", null ],
-    [ "MovementInform", "d2/d9c/a17340.html#a9a2e367f30ee16ca55e634de8e22551e", null ],
-    [ "Reset", "d2/d9c/a17340.html#ad5d5a9de05e472d24fe399b4de79a3d0", null ],
-    [ "SpellHit", "d2/d9c/a17340.html#a19b42ca678e7bf93c86891b4ea0a2dce", null ],
-    [ "UpdateAI", "d2/d9c/a17340.html#a1ae2393871e0f4ebeb86521f06959a7a", null ],
-    [ "_events", "d2/d9c/a17340.html#ae7079b335373cc06a040756328e7f714", null ],
-    [ "_guardList", "d2/d9c/a17340.html#a1cbd87af34584979b37dfff8b29f9623", null ],
-    [ "_instance", "d2/d9c/a17340.html#af1d8694678b10e5393c658ba0b20f47a", null ]
+    [ "FilterTargets", "d2/d9c/a17340.html#a7b490400378893a19cdaf52af25f3a51", null ],
+    [ "HandleScript", "d2/d9c/a17340.html#acee46fb0af45364478a92db59fcc3f24", null ],
+    [ "Load", "d2/d9c/a17340.html#a46a43b9a8dec2f61aee3dccad4178a78", null ],
+    [ "PrepareSpellScript", "d2/d9c/a17340.html#abb8fac43566f92b19e644edc38ab5d73", null ],
+    [ "Register", "d2/d9c/a17340.html#a1add221102b7067ffc130969f5172eae", null ],
+    [ "Validate", "d2/d9c/a17340.html#a4d2b60161f5aed31132f0fc554aab7b6", null ]
 ];

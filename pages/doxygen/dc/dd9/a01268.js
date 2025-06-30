@@ -1,12 +1,9 @@
 var a01268 =
 [
-    [ "PacketHandler< PacketClass, HandlerFunction >", "de/def/a10887.html", "de/def/a10887" ],
-    [ "PacketHandler< WorldPacket, HandlerFunction >", "dd/db5/a10891.html", "dd/db5/a10891" ],
-    [ "get_packet_class< T >", "d3/d6e/a10895.html", null ],
-    [ "get_packet_class< void(WorldSession::*)(PacketClass &)>", "d6/d5a/a10899.html", "d6/d5a/a10899" ],
-    [ "DEFINE_HANDLER", "dc/dd9/a01268.html#ab23af9582942bed23ea9ab4a8747c67c", null ],
-    [ "DEFINE_SERVER_OPCODE_HANDLER", "dc/dd9/a01268.html#a4bcb2df62d580f2bb5ab3c2aa5b35f5e", null ],
-    [ "GetOpcodeNameForLogging", "df/d9b/a04755.html#ga699f5666ad5594443aa2ca21df85a1d3", null ],
-    [ "GetOpcodeNameForLoggingImpl", "dc/dd9/a01268.html#a0adf4b5d8c638656581d9a62be18539e", null ],
-    [ "opcodeTable", "df/d9b/a04755.html#gaab348862a5b8f265e05e5b0ac296162a", null ]
+    [ "PacketLog", "dd/d3a/a10944.html", "dd/d3a/a10944" ],
+    [ "sPacketLog", "dc/dd9/a01268.html#a14b702138c7f0a62a900dfc8eecc1f6f", null ],
+    [ "Direction", "dc/dd9/a01268.html#a224b9163917ac32fc95a60d8c1eec3aa", [
+      [ "CLIENT_TO_SERVER", "dc/dd9/a01268.html#a224b9163917ac32fc95a60d8c1eec3aaae4561e948350e841223c3dc44738f476", null ],
+      [ "SERVER_TO_CLIENT", "dc/dd9/a01268.html#a224b9163917ac32fc95a60d8c1eec3aaa0df224cab9714b02d0718697fbce48a3", null ]
+    ] ]
 ];

@@ -1,11 +1,8 @@
 var a23400 =
 [
-    [ "boss_high_king_maulgar", "d6/d7a/a23400.html#a8a835570bd4ff5361b2025b2aaeec91f", null ],
-    [ "DoAction", "d6/d7a/a23400.html#a210e9c3d42e9201b9fbee0d7776cbcc5", null ],
-    [ "JustDied", "d6/d7a/a23400.html#ad235febd755745313b72394c633c3723", null ],
-    [ "JustEngagedWith", "d6/d7a/a23400.html#a6ad48aba60a01df62c1ae62e6480a14d", null ],
-    [ "KilledUnit", "d6/d7a/a23400.html#a2059016597039929103c053d6524ebf7", null ],
-    [ "Reset", "d6/d7a/a23400.html#adf1bf1c8c75fc9bbed871af157c6663c", null ],
-    [ "UpdateAI", "d6/d7a/a23400.html#ae540909dbbb3cf93e37503cd755c3001", null ],
-    [ "_recentlySpoken", "d6/d7a/a23400.html#a306f8492d83703b339a8fbe044e0cbbd", null ]
+    [ "npc_underbat", "d6/d7a/a23400.html#a710a010d3425b7171ee45d8465fd6b2b", null ],
+    [ "JustEngagedWith", "d6/d7a/a23400.html#ae137b6b763b3df6096c3bfd4dd7ee676", null ],
+    [ "Reset", "d6/d7a/a23400.html#aae771ad526e8f72a90fe70ebbd91b472", null ],
+    [ "UpdateAI", "d6/d7a/a23400.html#ab3a9b97543aee3fdf22c17e94f768c0e", null ],
+    [ "_scheduler", "d6/d7a/a23400.html#a7644a73c2a5bcbbe0a3db5c782169752", null ]
 ];

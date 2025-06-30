@@ -1,6 +1,8 @@
 var a17344 =
 [
-    [ "npc_saurfang_eventAI", "d8/d36/a17348.html", "d8/d36/a17348" ],
-    [ "npc_saurfang_event", "d1/dc5/a17344.html#a3bfce5457466360458498833098d660c", null ],
-    [ "GetAI", "d1/dc5/a17344.html#a953842d2fa3380a8331faf3a42cb3177", null ]
+    [ "OnApply", "d1/dc5/a17344.html#a4741bfaaea8bc956fd1020aca13a51c2", null ],
+    [ "OnRemove", "d1/dc5/a17344.html#a21aad38fe91580d3b8e0cc71dce7b1ad", null ],
+    [ "PrepareAuraScript", "d1/dc5/a17344.html#a54b2ab23915e84b9c9728eb624dae47b", null ],
+    [ "Register", "d1/dc5/a17344.html#a6d552ff58f7bb267cf4d20f2f5aedc7a", null ],
+    [ "Validate", "d1/dc5/a17344.html#a5542dca73b5cc2ec1c724fe536e8a15f", null ]
 ];

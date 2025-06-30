@@ -1,7 +1,6 @@
 var a17768 =
 [
-    [ "HandleScript", "d5/ded/a17768.html#afc76149cb44a4d2aab48350fb4392036", null ],
-    [ "PrepareSpellScript", "d5/ded/a17768.html#a8598de219c2402596fe97b5dd32c534e", null ],
-    [ "Register", "d5/ded/a17768.html#ac9d4842632431e52932f66d09042ea70", null ],
-    [ "ScaleRange", "d5/ded/a17768.html#a9bcc80bd2a8df20ac7fc8f2256f519d9", null ]
+    [ "PrepareSpellScript", "d5/ded/a17768.html#a9041ce6139de9a48621d6898ddcca673", null ],
+    [ "RecalculateDamage", "d5/ded/a17768.html#abfb7c002577a59864fb2aa069b713c0a", null ],
+    [ "Register", "d5/ded/a17768.html#a4308449e8cbe7ed59598a837024141cb", null ]
 ];

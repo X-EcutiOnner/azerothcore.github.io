@@ -1,7 +1,7 @@
 var a22720 =
 [
-    [ "VerasEnvenom", "d3/d4a/a22720.html#ac8c5f4fcb63ea5141a71b56324de0b1f", null ],
-    [ "Execute", "d3/d4a/a22720.html#a4b7853bb835cf28aefe2d5b955372d70", null ],
-    [ "_owner", "d3/d4a/a22720.html#af9cf231119ab5592be9829784f20d2e0", null ],
-    [ "_targetGUID", "d3/d4a/a22720.html#a90d62907c775565765fa87903adb94ea", null ]
+    [ "HandleDummy", "d3/d4a/a22720.html#af5ac581f7d471300fba2c23548037eea", null ],
+    [ "PrepareSpellScript", "d3/d4a/a22720.html#adda61c05b544b52d98af5b7a76d4f808", null ],
+    [ "Register", "d3/d4a/a22720.html#a270a64dffdce230d97515f116ec49706", null ],
+    [ "Validate", "d3/d4a/a22720.html#a7cf3637ea33ad30913723b4fd33e5546", null ]
 ];

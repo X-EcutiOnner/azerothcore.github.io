@@ -1,6 +1,6 @@
 var a13492 =
 [
-    [ "x", "d4/d37/a13492.html#afeb59642abc7d5114668b2c27e315228", null ],
-    [ "y", "d4/d37/a13492.html#a3e2454dd579de689289003a343e7f29c", null ],
-    [ "z", "d4/d37/a13492.html#a4fbcf991d732545b4f9c19689ff9d805", null ]
+    [ "npc_augustus_the_touched", "d4/d37/a13492.html#abc84c884345f44cf780410569cdee10c", null ],
+    [ "OnGossipHello", "d4/d37/a13492.html#a81e0d4f2aaa685cd5231ea430c86e7b4", null ],
+    [ "OnGossipSelect", "d4/d37/a13492.html#a992da9b22693c1fac1148b4ba545b819", null ]
 ];

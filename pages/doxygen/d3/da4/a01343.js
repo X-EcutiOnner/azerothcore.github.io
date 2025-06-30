@@ -1,18 +1,21 @@
 var a01343 =
 [
-    [ "UnitBaseEvent", "df/d91/a07819.html", "df/d91/a07819" ],
-    [ "ThreatRefStatusChangeEvent", "d8/d49/a07823.html", "d8/d49/a07823" ],
-    [ "ThreatMgrEvent", "de/dfe/a07831.html", "de/dfe/a07831" ],
-    [ "UEV_ALL_EVENT_MASK", "d3/da4/a01343.html#a99af7f8805c877a694d51ab4feb1e58b", null ],
-    [ "UEV_THREAT_MANAGER_EVENT_MASK", "d3/da4/a01343.html#a28d3aa8f148208fa65f5ef1af46913cc", null ],
-    [ "UEV_THREAT_REF_EVENT_MASK", "d3/da4/a01343.html#aca3c8db6dd274b113d9c3c7755ff5d7a", null ],
-    [ "UNIT_EVENT_TYPE", "d3/da4/a01343.html#a5207de6e2fb421d2579a9baf4c471e97", [
-      [ "UEV_THREAT_REF_ONLINE_STATUS", "d3/da4/a01343.html#a5207de6e2fb421d2579a9baf4c471e97a77f8da111f54455d20c58ae0fd4156f9", null ],
-      [ "UEV_THREAT_REF_THREAT_CHANGE", "d3/da4/a01343.html#a5207de6e2fb421d2579a9baf4c471e97a5c74b5ccc46cdc399916b41b6d97bfb0", null ],
-      [ "UEV_THREAT_REF_REMOVE_FROM_LIST", "d3/da4/a01343.html#a5207de6e2fb421d2579a9baf4c471e97aa8b5a9d97c235e1f56e98ff4103b08d0", null ],
-      [ "UEV_THREAT_REF_ASSECCIBLE_STATUS", "d3/da4/a01343.html#a5207de6e2fb421d2579a9baf4c471e97abd7481924e1cb036704820e5be0407db", null ],
-      [ "UEV_THREAT_SORT_LIST", "d3/da4/a01343.html#a5207de6e2fb421d2579a9baf4c471e97a74092d5fa151b78ce0de1ddf3ed05865", null ],
-      [ "UEV_THREAT_SET_NEXT_TARGET", "d3/da4/a01343.html#a5207de6e2fb421d2579a9baf4c471e97ac45249081756ba40d712bd7e08626ed9", null ],
-      [ "UEV_THREAT_VICTIM_CHANGED", "d3/da4/a01343.html#a5207de6e2fb421d2579a9baf4c471e97af02166c466fbff650b908cd08c7e4669", null ]
-    ] ]
+    [ "CleaningFlags", "d3/da4/a01343.html#ad8ba5c50a4cd2d5193e35ccc83798c67", [
+      [ "CLEANING_FLAG_ACHIEVEMENT_PROGRESS", "d3/da4/a01343.html#ad8ba5c50a4cd2d5193e35ccc83798c67afdcd00f9b75d683b143cbbe0ac22d748", null ],
+      [ "CLEANING_FLAG_SKILLS", "d3/da4/a01343.html#ad8ba5c50a4cd2d5193e35ccc83798c67ac23b2648d4cf0fe8d9ff4cd96722a714", null ],
+      [ "CLEANING_FLAG_SPELLS", "d3/da4/a01343.html#ad8ba5c50a4cd2d5193e35ccc83798c67a39fa10b14e68e92b74ab6697d0e1d564", null ],
+      [ "CLEANING_FLAG_TALENTS", "d3/da4/a01343.html#ad8ba5c50a4cd2d5193e35ccc83798c67a06a3fa1596c0c32ec619b9b9cb1d1550", null ],
+      [ "CLEANING_FLAG_QUESTSTATUS", "d3/da4/a01343.html#ad8ba5c50a4cd2d5193e35ccc83798c67ae0367424104049d29ca9dcf3d5b7273c", null ]
+    ] ],
+    [ "AchievementProgressCheck", "d3/da4/a01343.html#afe5cf638b3ba626c9dc18258d4c528fa", null ],
+    [ "CheckUnique", "d3/da4/a01343.html#ab98182e5f92f72090600314cc41f0d39", null ],
+    [ "CleanCharacterAchievementProgress", "d3/da4/a01343.html#ae5939466cf9b4fbb63eb136baf62767f", null ],
+    [ "CleanCharacterQuestStatus", "d3/da4/a01343.html#a9f512823f852120bf4c3ec78eb4bbeaa", null ],
+    [ "CleanCharacterSkills", "d3/da4/a01343.html#ae8c5d4dc123b8a900254bcbc82c1ffbe", null ],
+    [ "CleanCharacterSpell", "d3/da4/a01343.html#aca5826d283031348e5d6ae6eb75ad605", null ],
+    [ "CleanCharacterTalent", "d3/da4/a01343.html#a344f61fb209b507b775a0bbfb1315fac", null ],
+    [ "CleanDatabase", "d3/da4/a01343.html#a357c8a07f912c6efb55a13cc9bc089b9", null ],
+    [ "SkillCheck", "d3/da4/a01343.html#a0f72cf24646d1ece0eb793890840992d", null ],
+    [ "SpellCheck", "d3/da4/a01343.html#a02688f57778d28a7bcc4ca6cee2074ad", null ],
+    [ "TalentCheck", "d3/da4/a01343.html#aac707369555aa95807c11b1578ae80d2", null ]
 ];

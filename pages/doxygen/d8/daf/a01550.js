@@ -1,4 +1,5 @@
 var a01550 =
 [
-    [ "Initialize", "d8/daf/a01550.html#a9ddfbc9345acf19d3b4bcb7ce7804c94", null ]
+    [ "SmartScript", "d1/d65/a06240.html", "d1/d65/a06240" ],
+    [ "SmartScript::SmartScriptFrame", "da/da7/a06244.html", "da/da7/a06244" ]
 ];

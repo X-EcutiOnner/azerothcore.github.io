@@ -1,5 +1,6 @@
 var a16564 =
 [
-    [ "achievement_better_off_dred", "db/d22/a16564.html#a1ff3442ab3e166a4001c4c10777bdf8a", null ],
-    [ "OnCheck", "db/d22/a16564.html#a9aab68b43fbf9f3c71c237b149f23b2d", null ]
+    [ "npc_concentrated_ballAI", "d3/d38/a16568.html", "d3/d38/a16568" ],
+    [ "npc_concentrated_ball", "db/d22/a16564.html#a1f3a873baf61157e704bcb7e524b1d46", null ],
+    [ "GetAI", "db/d22/a16564.html#add43f8cb27a699ba732d62fedd9d2f02", null ]
 ];

@@ -1,5 +1,10 @@
 var a10224 =
 [
-    [ "CommandScript", "d1/dc1/a10224.html#afb9ef0145bb5eedee7fd61609868ba20", null ],
-    [ "GetCommands", "d1/dc1/a10224.html#a97dc7d00b78e0030ba2a950d23b2ebd2", null ]
+    [ "ArenaScript", "d1/dc1/a10224.html#acba88d9008e08873f3f20b92d69e8912", null ],
+    [ "CanAddMember", "d1/dc1/a10224.html#aa85728dd471c2f4d58ed1794e741d060", null ],
+    [ "CanSaveToDB", "d1/dc1/a10224.html#a164257b5ed4a0808d709870cdf73ed3b", null ],
+    [ "IsDatabaseBound", "d1/dc1/a10224.html#ab6c90bb55c238fada3e9ddc993333d0d", null ],
+    [ "OnArenaStart", "d1/dc1/a10224.html#ae67b000b16f56309da56f672a9f2b423", null ],
+    [ "OnBeforeArenaCheckWinConditions", "d1/dc1/a10224.html#a2b46190a3243f2306a74295975dca317", null ],
+    [ "OnGetPoints", "d1/dc1/a10224.html#a13b22ad00d3742589532e6e522258834", null ]
 ];

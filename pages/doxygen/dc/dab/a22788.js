@@ -1,7 +1,6 @@
 var a22788 =
 [
-    [ "CheckProc", "dc/dab/a22788.html#a0968b7b32f2d2bef6035e030f544088a", null ],
-    [ "PrepareAuraScript", "dc/dab/a22788.html#ac424e41948196a6e60b790ebcf40783f", null ],
-    [ "Register", "dc/dab/a22788.html#a06bdac68e36b43ee534e937ffd974086", null ],
-    [ "Update", "dc/dab/a22788.html#af6c228840f6af96e353ba964fdd01e54", null ]
+    [ "CalculateAmount", "dc/dab/a22788.html#aeeabfef0accc4e0d1f78f7422dc30a99", null ],
+    [ "PrepareAuraScript", "dc/dab/a22788.html#a5cf70fe73d01e08e78a2d00e5bc95e8e", null ],
+    [ "Register", "dc/dab/a22788.html#a0d2e97463f268892965e307628aaa931", null ]
 ];

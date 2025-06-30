@@ -1,6 +1,9 @@
 var a17628 =
 [
-    [ "DaranavanMoveEvent", "d3/d99/a17628.html#add38d87b9108c09aa9b9fd60f12abcde", null ],
-    [ "Execute", "d3/d99/a17628.html#ada0ebc4a9c9f949dd0155a554a553543", null ],
-    [ "_darnavan", "d3/d99/a17628.html#a7585edb957755efbc6064f232d50ea4e", null ]
+    [ "CalculatePower", "d3/d99/a17628.html#a66acc23548f88c31e9fe45db76af2bcc", null ],
+    [ "Load", "d3/d99/a17628.html#a820032e169929fd9969ecf1ee2c7f1be", null ],
+    [ "PrepareSpellScript", "d3/d99/a17628.html#a49489a8e4e39735efa560f53236dfc2c", null ],
+    [ "PreventPowerGainOnHit", "d3/d99/a17628.html#a5eebe6f82a6d7306d6e232b755531939", null ],
+    [ "Register", "d3/d99/a17628.html#a67b59c096848adaad5566cbc2140da59", null ],
+    [ "Validate", "d3/d99/a17628.html#a355500a6f3bfed084030738041d0e3b9", null ]
 ];

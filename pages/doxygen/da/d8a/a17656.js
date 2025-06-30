@@ -1,6 +1,7 @@
 var a17656 =
 [
-    [ "npc_vengeful_shadeAI", "d6/d17/a17660.html", "d6/d17/a17660" ],
-    [ "npc_vengeful_shade", "da/d8a/a17656.html#a99c535efd94fbd5bded8fd9555bb6eaf", null ],
-    [ "GetAI", "da/d8a/a17656.html#afa2c672015b43d83bd55050ed020f7e5", null ]
+    [ "DamageGunship", "da/d8a/a17656.html#a1dc0145cfff777b18b9241dfc0966f32", null ],
+    [ "PrepareSpellScript", "da/d8a/a17656.html#aa698d016ae58d665c081976f20ec0385", null ],
+    [ "Register", "da/d8a/a17656.html#ab8836babdea1fd963fdd53415db0a3ba", null ],
+    [ "Validate", "da/d8a/a17656.html#ae80cd93b2f01ddb83493f9f818fc0ea1", null ]
 ];

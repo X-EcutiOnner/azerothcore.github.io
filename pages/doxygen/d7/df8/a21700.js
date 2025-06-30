@@ -1,7 +1,6 @@
 var a21700 =
 [
-    [ "HandleApplyEffect", "d7/df8/a21700.html#aab7bd30368c51a6a209f6cad5a93ba79", null ],
-    [ "HandleRemoveEffect", "d7/df8/a21700.html#a243933fec9ccd650303ea5badbea725b", null ],
-    [ "PrepareAuraScript", "d7/df8/a21700.html#ac0e1fc0694dd51e245340d3658592447", null ],
-    [ "Register", "d7/df8/a21700.html#a0f6e6c6892d56a6fceb927f68c734bde", null ]
+    [ "npc_future_youAI", "d2/d15/a21704.html", "d2/d15/a21704" ],
+    [ "npc_future_you", "d7/df8/a21700.html#a36e363156bcb32fee468989062817bd5", null ],
+    [ "GetAI", "d7/df8/a21700.html#a2e1529fef3ce307d98057dc93ce5e5fe", null ]
 ];

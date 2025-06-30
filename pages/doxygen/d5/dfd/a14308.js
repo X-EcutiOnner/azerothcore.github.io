@@ -1,7 +1,7 @@
 var a14308 =
 [
-    [ "go_loosely_turned_soilAI", "d4/da1/a14312.html", "d4/da1/a14312" ],
-    [ "go_loosely_turned_soil", "d5/dfd/a14308.html#a3b4d51e2b3a604e030962127269236f1", null ],
-    [ "GetAI", "d5/dfd/a14308.html#acead5810a848f8837fa65af1f2ac00bd", null ],
-    [ "OnQuestReward", "d5/dfd/a14308.html#a1ac57b34c5b3e21c033330eaeefaa6a8", null ]
+    [ "HandleEffectApply", "d5/dfd/a14308.html#a22f3143b10155635194abe22994a397c", null ],
+    [ "HandleEffectRemove", "d5/dfd/a14308.html#a2ecc50fa3c14918b6eace63eac75eb96", null ],
+    [ "PrepareAuraScript", "d5/dfd/a14308.html#abb4f53a42e701323b2fc66598ec3503c", null ],
+    [ "Register", "d5/dfd/a14308.html#ad1ff6d29459d9a38fcdef3f6c7007f6b", null ]
 ];

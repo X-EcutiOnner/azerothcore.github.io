@@ -1,12 +1,17 @@
 var a22504 =
 [
-    [ "boss_exarch_maladaar", "d8/d5c/a22504.html#a5dac68e3dc6fc37736bf85b84eadd417", null ],
-    [ "JustDied", "d8/d5c/a22504.html#ab1179a19af8948d430559db4074c41ed", null ],
-    [ "JustEngagedWith", "d8/d5c/a22504.html#a69427e7a0ca70253ad8035b5e6b1e01e", null ],
-    [ "JustSummoned", "d8/d5c/a22504.html#a8f59e1b093af8c85da8c2fd38e01ca1b", null ],
-    [ "KilledUnit", "d8/d5c/a22504.html#adf35cb8b039676500d4040baa08b0d48", null ],
-    [ "MoveInLineOfSight", "d8/d5c/a22504.html#a14baacd30b9186c7492c981313421d5b", null ],
-    [ "Reset", "d8/d5c/a22504.html#accb21d3c4a6856d2de9641cf84c42ce9", null ],
-    [ "UpdateAI", "d8/d5c/a22504.html#a7646c4477135d3d3b8580432902babd4", null ],
-    [ "_talked", "d8/d5c/a22504.html#a15c4f122529b9f52823ea407c43433c5", null ]
+    [ "OutdoorPvPSI", "d8/d5c/a22504.html#a89bf2d913b7d68ee921ef4b9aeea61e1", null ],
+    [ "FillInitialWorldStates", "d8/d5c/a22504.html#a7392eed60ec3307bdea4ed35cd859077", null ],
+    [ "HandleAreaTrigger", "d8/d5c/a22504.html#a7c6d70d7a611752456c55d13420ff840", null ],
+    [ "HandleCustomSpell", "d8/d5c/a22504.html#a10853a2f5766b6fc75044a20b281a198", null ],
+    [ "HandleDropFlag", "d8/d5c/a22504.html#a9238a5007253d84d66192bd340d8311a", null ],
+    [ "HandlePlayerEnterZone", "d8/d5c/a22504.html#ad2cabd461406a61e40411850b3d31c0c", null ],
+    [ "HandlePlayerLeaveZone", "d8/d5c/a22504.html#aa06088b1d80072577e6fc7653a214512", null ],
+    [ "SendRemoveWorldStates", "d8/d5c/a22504.html#aae7deda0662b28f6fc0e16115a65304b", null ],
+    [ "SetupOutdoorPvP", "d8/d5c/a22504.html#a401da5bef2350c4eb21b249b4f8b3e40", null ],
+    [ "Update", "d8/d5c/a22504.html#a56bda08a795a4b0cd1c52ec448920fac", null ],
+    [ "UpdateWorldState", "d8/d5c/a22504.html#a81f4362ece83f37f14471926e9a85fb3", null ],
+    [ "m_Gathered_A", "d8/d5c/a22504.html#ab532337ab7e66e1489221e3189e48bac", null ],
+    [ "m_Gathered_H", "d8/d5c/a22504.html#abcd36fe918edbbea387573bd5fab89e7", null ],
+    [ "m_LastController", "d8/d5c/a22504.html#a05c33cec2d0c1a9fe31cb3d9ba3f3c1c", null ]
 ];

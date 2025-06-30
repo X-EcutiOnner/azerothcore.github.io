@@ -1,9 +1,8 @@
 var a23656 =
 [
-    [ "boss_high_botanist_freywinn", "d2/d7e/a23656.html#aeecf6ed56e34cf1d9a552aab82f1f64a", null ],
-    [ "JustDied", "d2/d7e/a23656.html#a7b370482ea195d0305cba339ce0cbab3", null ],
-    [ "JustEngagedWith", "d2/d7e/a23656.html#a841c6f08d8d8c0e47bd8d06bfed7ab8b", null ],
-    [ "KilledUnit", "d2/d7e/a23656.html#a80a997e0d12c175da0a46d7362890b9c", null ],
-    [ "ResumeEncounter", "d2/d7e/a23656.html#a06adcf26cb264d35a16ca416661ab4bd", null ],
-    [ "SummonedCreatureDies", "d2/d7e/a23656.html#a7f1a02d4b944191471f59ba728b6372e", null ]
+    [ "HandleEffectApply", "d2/d7e/a23656.html#ad75c8c6279e606d6a557a61d97ee8f42", null ],
+    [ "HandleEffectRemove", "d2/d7e/a23656.html#a7cd59f7ca82a6507024842ebcb1ba093", null ],
+    [ "PrepareAuraScript", "d2/d7e/a23656.html#a438a8ba3688e0832853bae4183695494", null ],
+    [ "Register", "d2/d7e/a23656.html#a52a86cce0afa66203cc5982ddbe5de4f", null ],
+    [ "Validate", "d2/d7e/a23656.html#ab07b244e53b397bc9e9842655617a80d", null ]
 ];

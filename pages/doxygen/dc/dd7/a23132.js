@@ -1,9 +1,12 @@
 var a23132 =
 [
-    [ "CalcPeriodic", "dc/dd7/a23132.html#a5cd39919a088cab2fd160ea6e16ee7c8", null ],
-    [ "HandleEffectApply", "dc/dd7/a23132.html#adb983cc531fa666648bbdb432684ff1d", null ],
-    [ "HandleEffectRemove", "dc/dd7/a23132.html#a99c1bfc5aa4b67318bb3572589a42b1a", null ],
-    [ "OnPeriodic", "dc/dd7/a23132.html#aecefab535157dbe8e42aff3b23cd685b", null ],
-    [ "PrepareAuraScript", "dc/dd7/a23132.html#ad9ecc1fd4bcf1a2ecb5e2d1ec2ea37f7", null ],
-    [ "Register", "dc/dd7/a23132.html#a3771abcc829883ba0cbae9587adbe751", null ]
+    [ "boss_leotheras_the_blind", "dc/dd7/a23132.html#a9229850f996812366a20508931965a87", null ],
+    [ "AttackStart", "dc/dd7/a23132.html#a678ed3eba7d53976fd6efa9051d11124", null ],
+    [ "DemonTime", "dc/dd7/a23132.html#af62091f4c045b1a85ef022fdc81b6d30", null ],
+    [ "DoAction", "dc/dd7/a23132.html#a4f3fd791f12b3f176ce109237c516889", null ],
+    [ "ElfTime", "dc/dd7/a23132.html#a52f101530de8883231faa7f5fe689691", null ],
+    [ "MoveToTargetIfOutOfRange", "dc/dd7/a23132.html#a3481cfa1883988b8c1c3f65b9009860d", null ],
+    [ "Reset", "dc/dd7/a23132.html#a5d4be42da1c7ae15c98b608f39ef82db", null ],
+    [ "UpdateAI", "dc/dd7/a23132.html#a89deeb1888046d1f4756bcb6447d8f0d", null ],
+    [ "_recentlySpoken", "dc/dd7/a23132.html#ad5231f13a247247dd7095b16c381fc7c", null ]
 ];

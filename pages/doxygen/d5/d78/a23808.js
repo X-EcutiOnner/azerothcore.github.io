@@ -1,6 +1,6 @@
 var a23808 =
 [
-    [ "PrepareAuraScript", "d5/d78/a23808.html#a14d4d1a75130a77e7e59e41720491bec", null ],
-    [ "PrepareProc", "d5/d78/a23808.html#abea217f4bfdffc70007fbc29849e9a49", null ],
-    [ "Register", "d5/d78/a23808.html#a9dbcd4c940f5941472bebb64829125e3", null ]
+    [ "lapseTeleport", "d5/d78/a23808.html#a55c4330397214bf3a43628b3067d4634", null ],
+    [ "Execute", "d5/d78/a23808.html#a122023ed13fce2f5bb3721e459964443", null ],
+    [ "_owner", "d5/d78/a23808.html#a0e678c5cdb862390ea50c8d6057b7093", null ]
 ];

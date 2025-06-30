@@ -1,8 +1,8 @@
 var a15288 =
 [
-    [ "npc_prospector_remtravelAI", "de/d36/a15288.html#a61f26115382f16f3d65c3d4e1c720f02", null ],
-    [ "JustEngagedWith", "de/d36/a15288.html#adf388d36c17b69f881e3cb92d9b78b9b", null ],
-    [ "JustSummoned", "de/d36/a15288.html#a6b3dd1552b5313dd04d07dc80eef06fe", null ],
-    [ "Reset", "de/d36/a15288.html#ac145a4a4a24be227c31fcc5aefd922eb", null ],
-    [ "WaypointReached", "de/d36/a15288.html#a7b02b22e9dc63e1fad6b15a44b2ff9b6", null ]
+    [ "npc_death_ravagerAI", "de/d36/a15288.html#ad18242b078db0883029537562a41cc20", null ],
+    [ "Reset", "de/d36/a15288.html#ac0fdbfe2f324785569fa742e0b244b83", null ],
+    [ "UpdateAI", "de/d36/a15288.html#ac3dce7d79e67f20d7a8fe161da9d5279", null ],
+    [ "EnragingBiteTimer", "de/d36/a15288.html#af33898ebd9bea6b1a58b673373de3c64", null ],
+    [ "RendTimer", "de/d36/a15288.html#ad7ff02fe6e11a0fb0d8a3ae869ed5f6d", null ]
 ];

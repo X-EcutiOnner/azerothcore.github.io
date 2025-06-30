@@ -1,4 +1,8 @@
 var a01190 =
 [
-    [ "WorldPackets::CombatLog::EnvironmentalDamageLog", "d1/d36/a10495.html", "d1/d36/a10495" ]
+    [ "WorldPackets::Bank::AutoBankItem", "d9/dbb/a10436.html", "d9/dbb/a10436" ],
+    [ "WorldPackets::Bank::AutoStoreBankItem", "dd/d72/a10440.html", "dd/d72/a10440" ],
+    [ "WorldPackets::Bank::BuyBankSlot", "dd/d31/a10444.html", "dd/d31/a10444" ],
+    [ "WorldPackets::Bank::BuyBankSlotResult", "d9/dc8/a10448.html", "d9/dc8/a10448" ],
+    [ "WorldPackets::Bank::ShowBank", "d6/da4/a10452.html", "d6/da4/a10452" ]
 ];

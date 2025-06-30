@@ -1,6 +1,6 @@
 var a02150 =
 [
-    [ "instance_maraudon", "de/d06/a14811.html", "de/d06/a14811" ],
-    [ "instance_maraudon::instance_maraudon_InstanceMapScript", "db/dc5/a14815.html", "db/dc5/a14815" ],
-    [ "AddSC_instance_maraudon", "d4/d5d/a02150.html#a6ab7baf162a5cf99b16fb0a26d7973cb", null ]
+    [ "instance_ragefire_chasm", "d2/d08/a14852.html", "d2/d08/a14852" ],
+    [ "instance_ragefire_chasm::instance_ragefire_chasm_InstanceMapScript", "d8/dba/a14856.html", "d8/dba/a14856" ],
+    [ "AddSC_instance_ragefire_chasm", "d4/d5d/a02150.html#ace0e54ffe3a81b932d5ce1977698f5ac", null ]
 ];

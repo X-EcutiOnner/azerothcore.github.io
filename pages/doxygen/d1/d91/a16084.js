@@ -1,6 +1,7 @@
 var a16084 =
 [
-    [ "npc_living_infernoAI", "d1/d91/a16084.html#ab33eeac6aab8e18778fc7d4ffe5038f1", null ],
-    [ "IsSummonedBy", "d1/d91/a16084.html#a4b6986a392aee0741ba47651e809c76c", null ],
-    [ "JustDied", "d1/d91/a16084.html#a60b2e31d24e182e97d604d91223e2dc8", null ]
+    [ "HandleScriptEffect", "d1/d91/a16084.html#a9582a8faa1b8ba973a76d651a7479348", null ],
+    [ "PrepareSpellScript", "d1/d91/a16084.html#a681102507df3aa365ee2e2f064be5e54", null ],
+    [ "Register", "d1/d91/a16084.html#aebfea5eb3339ede812b43a08a8cb82b9", null ],
+    [ "Validate", "d1/d91/a16084.html#ae4a5c7952856caf2a2d3919b24b61949", null ]
 ];

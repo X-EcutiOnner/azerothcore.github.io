@@ -1,6 +1,6 @@
 var a21276 =
 [
-    [ "boss_zuramatAI", "dc/dac/a21280.html", "dc/dac/a21280" ],
-    [ "boss_zuramat", "da/d86/a21276.html#a1d169e786dcf846026b48d9be389f9ab", null ],
-    [ "GetAI", "da/d86/a21276.html#a1008c053a2c9ad14cf9ce994db931670", null ]
+    [ "npc_erekem_guardAI", "dc/dac/a21280.html", "dc/dac/a21280" ],
+    [ "npc_erekem_guard", "da/d86/a21276.html#a78592996e90f77f81eec0325a7f11956", null ],
+    [ "GetAI", "da/d86/a21276.html#a844a6a29eda4f41547ea37a4c08fb723", null ]
 ];

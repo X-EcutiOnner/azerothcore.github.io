@@ -1,6 +1,6 @@
 var a19744 =
 [
-    [ "FilterTargets", "d2/d18/a19744.html#a38c693dd3d8fb7e04fc1e26359f12399", null ],
-    [ "PrepareSpellScript", "d2/d18/a19744.html#a86c4bb91547d8ea7eebb8e4d7bfd592e", null ],
-    [ "Register", "d2/d18/a19744.html#a4e803984a3eded2736825f631786c204", null ]
+    [ "boss_stormcaller_brundirAI", "d3/dd7/a19748.html", "d3/dd7/a19748" ],
+    [ "boss_stormcaller_brundir", "d2/d18/a19744.html#aa966d1534a58e3832c46772043956533", null ],
+    [ "GetAI", "d2/d18/a19744.html#a399b1b7cf2ee74c1e672231e922ff4fa", null ]
 ];

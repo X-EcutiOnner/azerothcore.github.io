@@ -1,12 +1,13 @@
 var a15736 =
 [
-    [ "npc_twilight_volunteer", "d3/d0f/a15736.html#a3062041fcabf972e0a3d4753363c37b3", null ],
-    [ "AttackStart", "d3/d0f/a15736.html#abc2e12fb7be5b1a7dabc4c2211e7de13", null ],
-    [ "DoAction", "d3/d0f/a15736.html#ae95bcb02ee4f0ead76e249de0cba2d88", null ],
-    [ "EnterEvadeMode", "d3/d0f/a15736.html#abd88e6fe0565babb92ccae17df0421d6", null ],
-    [ "MovementInform", "d3/d0f/a15736.html#a4f27ae97ccf2c349a6352a0f5ba1681a", null ],
-    [ "UpdateAI", "d3/d0f/a15736.html#a93288a45982b172c201e2442a4c91114", null ],
-    [ "events", "d3/d0f/a15736.html#ad8cc52c1462d7adbfbe566c55c0ed244", null ],
-    [ "isSacraficeTarget", "d3/d0f/a15736.html#a8350dba2c41754a2e5d15c94731ef27d", null ],
-    [ "pInstance", "d3/d0f/a15736.html#ad58453e078520fa23238a96115e5f38f", null ]
+    [ "npc_shadowpriest_sezzizAI", "d3/d0f/a15736.html#a14c5cee1c3032b8df4ad902eb273e9b0", null ],
+    [ "AttackStart", "d3/d0f/a15736.html#a8278a73501ea33164cbdef8599144f4a", null ],
+    [ "Reset", "d3/d0f/a15736.html#ab08cc327c4206e4526e77eea3bf17e0b", null ],
+    [ "UpdateAI", "d3/d0f/a15736.html#a1c0236b52d4cd87634659991e0dfc728", null ],
+    [ "_missingHPForHealTimer", "d3/d0f/a15736.html#a1171f0cd40bd3d7198bab15b12edc131", null ],
+    [ "_missingHPForRenewTimer", "d3/d0f/a15736.html#a8df4e1046348599cd5d1e31e3dc4eb0c", null ],
+    [ "_physicScreemTimer", "d3/d0f/a15736.html#a43de246b93f3380d5b79ffba6434aa5a", null ],
+    [ "_shadowBoltTimer", "d3/d0f/a15736.html#a34a18991ff2c0aafac15694ed9667193", null ],
+    [ "_summmonAddsCount", "d3/d0f/a15736.html#a8ce2b172757d1f7d188152ecc0fe30f5", null ],
+    [ "_summonAddsTimer", "d3/d0f/a15736.html#aff413ce6f4106d212f35fb7abbfa047e", null ]
 ];

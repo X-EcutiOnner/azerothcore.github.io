@@ -1,7 +1,8 @@
 var a17888 =
 [
-    [ "HandleScript", "d5/de4/a17888.html#a802f667b20bccd3395c233482aa2485b", null ],
-    [ "PrepareSpellScript", "d5/de4/a17888.html#ad371e6387d5df422eaa05acc9efe2f46", null ],
-    [ "Register", "d5/de4/a17888.html#a730fded490df68f501010f952ceea40b", null ],
-    [ "Validate", "d5/de4/a17888.html#a8ec4a10d4d3c348029256fec28a19ed6", null ]
+    [ "HandleScript", "d5/de4/a17888.html#a9f3cef57312626ae1884c36ad4bfdca6", null ],
+    [ "PrepareSpellScript", "d5/de4/a17888.html#a2ba03324afacf8da8e5fe6bc725e4d2f", null ],
+    [ "Register", "d5/de4/a17888.html#a9b0e0427b7f8abbd0e9d556ccc581aeb", null ],
+    [ "SelectTarget", "d5/de4/a17888.html#a36d575c6a63e94905bf435bc9d39e588", null ],
+    [ "Validate", "d5/de4/a17888.html#afc4a6277e3a7419b6a4aaa99f6697b91", null ]
 ];

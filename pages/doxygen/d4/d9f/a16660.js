@@ -1,6 +1,6 @@
 var a16660 =
 [
-    [ "npc_fos_corrupted_soul_fragmentAI", "d5/da9/a16664.html", "d5/da9/a16664" ],
-    [ "npc_fos_corrupted_soul_fragment", "d4/d9f/a16660.html#a4caefccfdfee2e906eb94e34bceb064c", null ],
-    [ "GetAI", "d4/d9f/a16660.html#aed663e0a313223fcaa988b89b1b02df3", null ]
+    [ "boss_trollgoreAI", "d5/da9/a16664.html", "d5/da9/a16664" ],
+    [ "boss_trollgore", "d4/d9f/a16660.html#a95102f1fae6c667e0780b8b388fc156b", null ],
+    [ "GetAI", "d4/d9f/a16660.html#a6da1349da296a3dc3d29527a8e3c2b7d", null ]
 ];

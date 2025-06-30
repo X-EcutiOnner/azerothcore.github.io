@@ -1,9 +1,6 @@
 var a12536 =
 [
-    [ "boss_curator", "dc/d3b/a12536.html#a41b65078d0822ba87f3e40fc7bb10a40", null ],
-    [ "JustDied", "dc/d3b/a12536.html#a5617f51f51304682d48af11fdb0c6b8b", null ],
-    [ "JustEngagedWith", "dc/d3b/a12536.html#a848f477a101956662389cab5ffcc0727", null ],
-    [ "JustSummoned", "dc/d3b/a12536.html#ac779d275e03e6ba190617d215b217ce5", null ],
-    [ "KilledUnit", "dc/d3b/a12536.html#a9bfb89a8747251e4a84eb2f94a547f0d", null ],
-    [ "Reset", "dc/d3b/a12536.html#af6fbf3c3d77f9f052f11974f7b54feab", null ]
+    [ "HandleTriggerSpell", "dc/d3b/a12536.html#a5f30f2af73eae022b9596939b2f88c0b", null ],
+    [ "PrepareSpellScript", "dc/d3b/a12536.html#a4fa2709a456e9e75f5c11b7f2e04912b", null ],
+    [ "Register", "dc/d3b/a12536.html#a7e9c140aecea892ee6971bc97d385640", null ]
 ];

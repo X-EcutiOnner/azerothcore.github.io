@@ -1,6 +1,5 @@
 var a12136 =
 [
-    [ "boss_broodlordAI", "db/daf/a12140.html", "db/daf/a12140" ],
-    [ "boss_broodlord", "d5/d98/a12136.html#a936f7eb723111877e2a5e3a85cb95b2b", null ],
-    [ "GetAI", "d5/d98/a12136.html#a5bd506c6f397608ce84496fa0fea2679", null ]
+    [ "go_father_flame", "d5/d98/a12136.html#aa992bd7029a56faca4b92637688fe845", null ],
+    [ "OnLootStateChanged", "d5/d98/a12136.html#a84c7055e791a3dac66b75d327c7662c3", null ]
 ];

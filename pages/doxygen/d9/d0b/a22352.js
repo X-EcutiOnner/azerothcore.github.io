@@ -1,6 +1,6 @@
 var a22352 =
 [
-    [ "npc_captured_rageclawAI", "d0/d28/a22356.html", "d0/d28/a22356" ],
-    [ "npc_captured_rageclaw", "d9/d0b/a22352.html#ad49176279e9d16a6a24c0649c576c0be", null ],
-    [ "GetAI", "d9/d0b/a22352.html#aa39b6c518fe22d91b8673cfd576866a4", null ]
+    [ "HandlePeriodicDummy", "d9/d0b/a22352.html#a0096e0521c37a4f7f9ab1f2173a807d4", null ],
+    [ "PrepareAuraScript", "d9/d0b/a22352.html#ad55ab81c39e8bf53d1e2066bbeefa712", null ],
+    [ "Register", "d9/d0b/a22352.html#afeccfe29a0e0f192a4242217f9d4b7e5", null ]
 ];

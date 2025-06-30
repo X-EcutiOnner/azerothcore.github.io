@@ -1,11 +1,8 @@
 var a16264 =
 [
-    [ "npc_anubarak_spikeAI", "d0/d02/a16264.html#a1982ce33ce76e15d33bfcc222f5ad734", null ],
-    [ "DamageTaken", "d0/d02/a16264.html#a3b548e629d2c6217f21644136ca7ba4b", null ],
-    [ "DoAction", "d0/d02/a16264.html#ab583d97745ea69e95a1ecc0b68ac9878", null ],
-    [ "Reset", "d0/d02/a16264.html#af5b4a1227467d86d9dbba57362fdf360", null ],
-    [ "SelectNewTarget", "d0/d02/a16264.html#ab9ed5d53703464c488267f578a214fb8", null ],
-    [ "UpdateAI", "d0/d02/a16264.html#af8d6d840785c718d963c7b150cd12d9c", null ],
-    [ "events", "d0/d02/a16264.html#a52ff0006b5194edcb55f49e970a15ab8", null ],
-    [ "TargetGUID", "d0/d02/a16264.html#a2f7cbaf81e159035476ee9576a0e3990", null ]
+    [ "npc_announcer_toc5AI", "dd/d79/a16268.html", "dd/d79/a16268" ],
+    [ "npc_announcer_toc5", "d0/d02/a16264.html#abf50bb7deb9e0bb04d9ac802aff5fa41", null ],
+    [ "GetAI", "d0/d02/a16264.html#a06767a8fd1e940d4efee6dd752520e9e", null ],
+    [ "OnGossipHello", "d0/d02/a16264.html#ad2cc55ddc6696b9bfb22e68eab965fb0", null ],
+    [ "OnGossipSelect", "d0/d02/a16264.html#a9017488c652fd75882db75914f4a2db2", null ]
 ];

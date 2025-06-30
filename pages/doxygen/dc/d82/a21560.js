@@ -1,7 +1,14 @@
 var a21560 =
 [
-    [ "npc_warmage_violetstand", "dc/d82/a21560.html#a1f67c9521cc3bd63886a8936b28e6622", null ],
-    [ "Reset", "dc/d82/a21560.html#a99015610597f43f184cc686c9fab2fa9", null ],
-    [ "UpdateAI", "dc/d82/a21560.html#aa0eac837ab697c3e0cd5ab753f0bd0b4", null ],
-    [ "targetGUID", "dc/d82/a21560.html#a46560aa7aa90778967a79c931a81721b", null ]
+    [ "npc_hidden_cultistAI", "dc/d82/a21560.html#a970aaa2401664337147696624cc8cac4", null ],
+    [ "AttackPlayer", "dc/d82/a21560.html#a55e3b02d05f35d134fc605a13efe9018", null ],
+    [ "Initialize", "dc/d82/a21560.html#ab9199126a5a19cc3c6dc612bc428d79c", null ],
+    [ "PreScript", "dc/d82/a21560.html#a92be5361e2b28152adcca0629b286bb8", null ],
+    [ "Reset", "dc/d82/a21560.html#afe38e448d86cdf910870d72a3890ae1f", null ],
+    [ "sGossipSelect", "dc/d82/a21560.html#adf6d85bc5a32c8bd7c125d24f67411d9", null ],
+    [ "UpdateAI", "dc/d82/a21560.html#a0bba4d10439d47d44ff856c7fec18595", null ],
+    [ "_emoteState", "dc/d82/a21560.html#adb4e884787dc480358c5be22d276ec49", null ],
+    [ "_events", "dc/d82/a21560.html#ab0494e33d16a43aa1426784d1882e41c", null ],
+    [ "_npcFlags", "dc/d82/a21560.html#aea867d06cb737e2a44445c2c8c7d6e45", null ],
+    [ "_playerGUID", "dc/d82/a21560.html#ac7ecf525ed8c0d2a3d00b34f7afdbf18", null ]
 ];

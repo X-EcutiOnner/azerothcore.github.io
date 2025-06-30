@@ -1,6 +1,6 @@
 var a14140 =
 [
-    [ "npc_direbrew_antagonist", "df/d20/a14140.html#a30fed4e6888d98af576dea8e13c510d3", null ],
-    [ "DoAction", "df/d20/a14140.html#a924891e5d4e3f30d78186bedf76cf7d1", null ],
-    [ "JustEngagedWith", "df/d20/a14140.html#aaf54b03d66d726901c289ff28d362787", null ]
+    [ "HandleEffectApply", "df/d20/a14140.html#a06d50e8c0f7bfd1b055d8a3f5c14d357", null ],
+    [ "PrepareAuraScript", "df/d20/a14140.html#a5f8abd33848c554f9a530ad23c86a7a0", null ],
+    [ "Register", "df/d20/a14140.html#a2b39daf6fe325cfa909b964da62c2571", null ]
 ];

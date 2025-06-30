@@ -1,12 +1,15 @@
 var a14800 =
 [
-    [ "instance_onyxias_lair_InstanceMapScript", "d7/d0b/a14800.html#a15c6f3f16f9cfa1f9fc1b7a2c62bcc64", null ],
-    [ "CheckAchievementCriteriaMeet", "d7/d0b/a14800.html#a20761aa41e0f70836c4525f17faf064f", null ],
-    [ "Initialize", "d7/d0b/a14800.html#a5d109b5acfa2e21e3c50e35dcdf119dd", null ],
-    [ "OnGameObjectCreate", "d7/d0b/a14800.html#a1e99600992673d165382d99236e0c59f", null ],
-    [ "SetBossState", "d7/d0b/a14800.html#a2a28e42ec49fce2ef47288c1ad4b6e61", null ],
-    [ "SetData", "d7/d0b/a14800.html#ac5df2ecb9f88dbedbb1f59ad2bdc8b96", null ],
-    [ "bDeepBreath", "d7/d0b/a14800.html#a96211e4e0e033e16d4de57b6e40f2023", null ],
-    [ "ManyWhelpsCounter", "d7/d0b/a14800.html#aea148b562a4f2cd752ac73240f902993", null ],
-    [ "str_data", "d7/d0b/a14800.html#ad0b65a3cfccdf07d017757751f4e15fa", null ]
+    [ "npc_time_rift", "d7/d0b/a14800.html#ab553bcc40699a63310feaaa7b1bd2604", null ],
+    [ "DoSelectSummon", "d7/d0b/a14800.html#af2932c60efaea64d27d52b118b9a8095", null ],
+    [ "DoSummonAtRift", "d7/d0b/a14800.html#a6cb4717848efe7e5e0b0113a9ff7dcb5", null ],
+    [ "JustSummoned", "d7/d0b/a14800.html#a1d96b081db3cb2a9c40f5adb1c9b109d", null ],
+    [ "Reset", "d7/d0b/a14800.html#ad08ca716f120a45ee1688e03d2049aba", null ],
+    [ "SummonedCreatureDies", "d7/d0b/a14800.html#ae0ebd0268454ac0cac83235afd7f6363", null ],
+    [ "UpdateAI", "d7/d0b/a14800.html#ab5924378c7978c6fae95f9861040c63d", null ],
+    [ "_events", "d7/d0b/a14800.html#a12ffd459f8d63f299269da5b65f60128", null ],
+    [ "_instance", "d7/d0b/a14800.html#a8eab9c3011c885321d59e2884318d0e8", null ],
+    [ "_riftKeeperGUID", "d7/d0b/a14800.html#ad554d8266ded70cadd8c00a3ff5a3321", null ],
+    [ "waveMobIndex", "d7/d0b/a14800.html#aa312223ece9f0f1c4ac2861aed3988a9", null ],
+    [ "waveMobs", "d7/d0b/a14800.html#a7872706f9b5bdee7e6ca2d94e39e592f", null ]
 ];

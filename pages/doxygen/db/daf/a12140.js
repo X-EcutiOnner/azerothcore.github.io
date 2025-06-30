@@ -1,7 +1,6 @@
 var a12140 =
 [
-    [ "boss_broodlordAI", "db/daf/a12140.html#aa7a5b16b22633439e5d20f9d47a91041", null ],
-    [ "JustDied", "db/daf/a12140.html#ab0c4dfdd5abc8edcf039d5207e8a63e8", null ],
-    [ "JustEngagedWith", "db/daf/a12140.html#ae6e26d9cd6e22426caf6ce031551f8a8", null ],
-    [ "UpdateAI", "db/daf/a12140.html#aea6fbbe31c96e94c2116733c3c66b59b", null ]
+    [ "near_scarshield_infiltrator", "db/daf/a12140.html#a38d2e75946c429b4d80b007f190406bc", null ],
+    [ "OnTrigger", "db/daf/a12140.html#aeb761433e3210ce85c1de4dab653a87c", null ],
+    [ "whisperedTargets", "db/daf/a12140.html#a5655e241d2551798a960cb6375c7df23", null ]
 ];

@@ -1,6 +1,9 @@
 var a12496 =
 [
-    [ "instance_gnomeregan_InstanceMapScript", "d6/d49/a12500.html", "d6/d49/a12500" ],
-    [ "instance_gnomeregan", "db/deb/a12496.html#a3fca2b3399f41e88c0c30ae05763a09c", null ],
-    [ "GetInstanceScript", "db/deb/a12496.html#ad2130ba5eb3cd37cd2cc464a62381eda", null ]
+    [ "HandleEffectApply", "db/deb/a12496.html#ab1f4879fd9bd3982b9695bda886b0b99", null ],
+    [ "HandleEffectRemove", "db/deb/a12496.html#a8e38bc0ebf6b62982eee84e4c2722413", null ],
+    [ "Load", "db/deb/a12496.html#a8259745e21c561e4eedabc87ca8bdf73", null ],
+    [ "PrepareAuraScript", "db/deb/a12496.html#abec6d69d331e9952c129dc4cc24f0f13", null ],
+    [ "Register", "db/deb/a12496.html#a201bafab6c483b08a6ae27054392dea9", null ],
+    [ "Validate", "db/deb/a12496.html#a94aa1bd618035323b1fd4817fa7f9687", null ]
 ];

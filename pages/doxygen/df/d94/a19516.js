@@ -1,9 +1,6 @@
 var a19516 =
 [
-    [ "boss_sjonnir_malformed_oozeAI", "df/d94/a19516.html#a0624f769d0ce5a95ea2bb877811b0409", null ],
-    [ "JustEngagedWith", "df/d94/a19516.html#a9e6527bc46d7b685d938833d18796cee", null ],
-    [ "MoveInLineOfSight", "df/d94/a19516.html#a7449e135f088a2d4b22a423c71118093", null ],
-    [ "MovementInform", "df/d94/a19516.html#ac04d90e974f85282737bb5081a123106", null ],
-    [ "UpdateAI", "df/d94/a19516.html#afccd77c8e90d129fb3a347205a2102db", null ],
-    [ "events", "df/d94/a19516.html#a73c135ec94b41a752fc203c5e20128d0", null ]
+    [ "boss_krystallusAI", "dd/d08/a19520.html", "dd/d08/a19520" ],
+    [ "boss_krystallus", "df/d94/a19516.html#a1d7453c9d67594bfdbd650fea897666a", null ],
+    [ "GetAI", "df/d94/a19516.html#aba14bcfa00a5d997959abd94af647bf4", null ]
 ];

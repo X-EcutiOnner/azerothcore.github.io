@@ -1,14 +1,9 @@
 var a21508 =
 [
-    [ "npc_hidden_cultistAI", "db/d1d/a21508.html#a970aaa2401664337147696624cc8cac4", null ],
-    [ "AttackPlayer", "db/d1d/a21508.html#a55e3b02d05f35d134fc605a13efe9018", null ],
-    [ "Initialize", "db/d1d/a21508.html#ab9199126a5a19cc3c6dc612bc428d79c", null ],
-    [ "PreScript", "db/d1d/a21508.html#a92be5361e2b28152adcca0629b286bb8", null ],
-    [ "Reset", "db/d1d/a21508.html#afe38e448d86cdf910870d72a3890ae1f", null ],
-    [ "sGossipSelect", "db/d1d/a21508.html#adf6d85bc5a32c8bd7c125d24f67411d9", null ],
-    [ "UpdateAI", "db/d1d/a21508.html#a0bba4d10439d47d44ff856c7fec18595", null ],
-    [ "_emoteState", "db/d1d/a21508.html#adb4e884787dc480358c5be22d276ec49", null ],
-    [ "_events", "db/d1d/a21508.html#ab0494e33d16a43aa1426784d1882e41c", null ],
-    [ "_npcFlags", "db/d1d/a21508.html#aea867d06cb737e2a44445c2c8c7d6e45", null ],
-    [ "_playerGUID", "db/d1d/a21508.html#ac7ecf525ed8c0d2a3d00b34f7afdbf18", null ]
+    [ "npc_captured_beryl_sorcererAI", "db/d1d/a21508.html#a3c3f47022aee418f228803a2504470a3", null ],
+    [ "Initialize", "db/d1d/a21508.html#a98b2ff2f0e152a41106eaace5273aa69", null ],
+    [ "MoveInLineOfSight", "db/d1d/a21508.html#a4f7edf7bc7480bf0c9f6aec113b2e058", null ],
+    [ "Reset", "db/d1d/a21508.html#ac96af1fd018e88950d1c58562dffdb83", null ],
+    [ "UpdateAI", "db/d1d/a21508.html#a1bbefa59abce0c7b3d7b343ddc467c98", null ],
+    [ "_events", "db/d1d/a21508.html#a0ba1f7ffa792c93ccd4df8ec2c80fb42", null ]
 ];

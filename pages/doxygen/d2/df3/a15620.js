@@ -1,6 +1,7 @@
 var a15620 =
 [
-    [ "SayerEntry", "d2/df3/a15620.html#a3f9e374ec2a49823d942c29572ac2fa0", null ],
-    [ "SayTimer", "d2/df3/a15620.html#a942073f24fd12da712184243d9f098f2", null ],
-    [ "TextEntry", "d2/df3/a15620.html#a360822e4c069be6019c0a465cb2499cf", null ]
+    [ "npc_paoka_swiftmountainAI", "d0/d0a/a15624.html", "d0/d0a/a15624" ],
+    [ "npc_paoka_swiftmountain", "d2/df3/a15620.html#abb3f6fab7cca158c2e139159430f880a", null ],
+    [ "GetAI", "d2/df3/a15620.html#a3f41d2caae5acb4b79bcc75780db03d2", null ],
+    [ "OnQuestAccept", "d2/df3/a15620.html#a5bd4442350daf5a19bee1037a1b4d7b3", null ]
 ];

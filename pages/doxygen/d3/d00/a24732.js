@@ -1,10 +1,7 @@
 var a24732 =
 [
-    [ "HandleEffectApply", "d3/d00/a24732.html#ac977d07e0b054af33345538f10d80c56", null ],
-    [ "HandleEffectRemove", "d3/d00/a24732.html#acd9c460acb60eae5db8874c246014147", null ],
-    [ "PrepareAuraScript", "d3/d00/a24732.html#a1527c59b43a26db344e5a4d2900ea9b0", null ],
-    [ "Register", "d3/d00/a24732.html#ab0de0c0459d3414f69a0dde7669b6f79", null ],
-    [ "_hasFlag", "d3/d00/a24732.html#adb5058ba54ea53db9fdc9251a44619aa", null ],
-    [ "_itemId", "d3/d00/a24732.html#a28c06ecd352466e0d1076d9eb4fa8e9b", null ],
-    [ "_modelId", "d3/d00/a24732.html#ae77b9ae8a1092e0dc144e83db4c0758c", null ]
+    [ "FilterTargets", "d3/d00/a24732.html#a9abf4baaba572636dba3980e5ae777c5", null ],
+    [ "Load", "d3/d00/a24732.html#a812e4e461c0ebed6f7c4cc36e88a3367", null ],
+    [ "PrepareSpellScript", "d3/d00/a24732.html#a4e98fbf669c030263ed2e5759a5bd6e8", null ],
+    [ "Register", "d3/d00/a24732.html#a2d72f5771d6563260a6e81122e4a2be5", null ]
 ];

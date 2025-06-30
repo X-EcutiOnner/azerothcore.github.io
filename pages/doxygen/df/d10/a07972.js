@@ -1,10 +1,9 @@
 var a07972 =
 [
-    [ "AssistDelayEvent", "df/d10/a07972.html#a022b9cf38b8e059df2dceca38e366b7d", null ],
-    [ "AssistDelayEvent", "df/d10/a07972.html#a5371fc2a2f9334b821058b96d0c6bc13", null ],
-    [ "AddAssistant", "df/d10/a07972.html#a987303ec41927528e9a5abfd9ab75512", null ],
-    [ "Execute", "df/d10/a07972.html#a5afd295abeb1295e43f48b8951b24c35", null ],
-    [ "m_assistants", "df/d10/a07972.html#ac6de6befda582bd38f92afda01204e94", null ],
-    [ "m_owner", "df/d10/a07972.html#aabcce364c8009e8172b9d090059ce48c", null ],
-    [ "m_victim", "df/d10/a07972.html#a47aff9ce39f5fec3718d6564e53b799e", null ]
+    [ "LFGGroupScript", "df/d10/a07972.html#adb7730ba67910121a255a6da535d2fc2", null ],
+    [ "OnAddMember", "df/d10/a07972.html#a43c29f1c4b0f78b203a8798e34e9bc4c", null ],
+    [ "OnChangeLeader", "df/d10/a07972.html#a3616c537eb39fe130c8fb24d93a0ead9", null ],
+    [ "OnDisband", "df/d10/a07972.html#a7d8d28f1919e407ed93474d970733d86", null ],
+    [ "OnInviteMember", "df/d10/a07972.html#a25add922fa708babe08c3bdaaa0c0d92", null ],
+    [ "OnRemoveMember", "df/d10/a07972.html#a1385adec817221a83653a6fa03e57858", null ]
 ];

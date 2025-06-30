@@ -1,25 +1,10 @@
 var a12944 =
 [
-    [ "npc_highlord_darion_mograineAI", "d1/dfc/a12944.html#a04be4c12a255c082b2a00daf40e86d96", null ],
-    [ "DoAction", "d1/dfc/a12944.html#a7103aa11bc2dff6942f4a4de5cd8d759", null ],
-    [ "FinishFight", "d1/dfc/a12944.html#ab3fef458ca3180f49d78579f7485e76c", null ],
-    [ "GetData", "d1/dfc/a12944.html#aa3eae106cf85eb7cb163f9780bf16b9f", null ],
-    [ "GetEntryFromSummons", "d1/dfc/a12944.html#a2c9e336d14667aabc3e1a8f3a99fc1e7", null ],
-    [ "JustDied", "d1/dfc/a12944.html#a2875789a251381677106f74e61efaa77", null ],
-    [ "JustEngagedWith", "d1/dfc/a12944.html#ac6ca07a76351dfc5a82b0a57fdfa08d8", null ],
-    [ "JustRespawned", "d1/dfc/a12944.html#a3116088116fe6b4a6b42014f7f5fb3a8", null ],
-    [ "JustSummoned", "d1/dfc/a12944.html#a9ddc2350ffbbf6e3ae91410da55bd326", null ],
-    [ "MovementInform", "d1/dfc/a12944.html#a205b7ebb74ca3be7a6a11fb2d8670288", null ],
-    [ "Reset", "d1/dfc/a12944.html#a7dde645763bab79e34fa7421dbec518e", null ],
-    [ "SendInitialWorldStates", "d1/dfc/a12944.html#ab49e38e481fcb263337f5224c1db7383", null ],
-    [ "SendUpdateWorldState", "d1/dfc/a12944.html#a32fed806170c3664eeb1dd2a1bfdf278", null ],
-    [ "SummonedCreatureDies", "d1/dfc/a12944.html#aa0935ab5c5a8a3ad41719e520703ff92", null ],
-    [ "UpdateAI", "d1/dfc/a12944.html#a086efd646a7298ce17f7ead4688fa022", null ],
-    [ "battleStarted", "d1/dfc/a12944.html#aecb7e1bdebf943e1793656f8a9c39917", null ],
-    [ "defendersRemaining", "d1/dfc/a12944.html#a49b41a9719548bffd2020caea7a94a3d", null ],
-    [ "events", "d1/dfc/a12944.html#a2155cbea373225904a3645a77738dea4", null ],
-    [ "resetExecuted", "d1/dfc/a12944.html#ae1431b2f46cf2ae096e7ddfb22e54a28", null ],
-    [ "scourgeRemaining", "d1/dfc/a12944.html#aabaa1fb49467d4dc5abf2a14ec833d15", null ],
-    [ "startTimeRemaining", "d1/dfc/a12944.html#a503f8e5166ec08664085ae032611de61", null ],
-    [ "summons", "d1/dfc/a12944.html#ae592eef844350ca8fa8415f343d8dffc", null ]
+    [ "npc_scarlet_courierAI", "d1/dfc/a12944.html#a83c5e32659d38a513790322e46dcc283", null ],
+    [ "JustEngagedWith", "d1/dfc/a12944.html#aa470197f0949a413c421bda8c7c09279", null ],
+    [ "MovementInform", "d1/dfc/a12944.html#add19812d92d62b602f96ffc5fb513d6c", null ],
+    [ "Reset", "d1/dfc/a12944.html#ab642188631b67ae5ff5fd312eaf37ff0", null ],
+    [ "UpdateAI", "d1/dfc/a12944.html#ac37287a77e37785b606c742ff8d6eeeb", null ],
+    [ "uiStage", "d1/dfc/a12944.html#a2f920922f8c6f1a878d0e4978e081257", null ],
+    [ "uiStage_timer", "d1/dfc/a12944.html#a8ee22a276535a3a9c2f12a62e984d55b", null ]
 ];

@@ -1,6 +1,6 @@
 var a18044 =
 [
-    [ "OrderWhelpTargetSelector", "d0/d86/a18044.html#a5e433367ebbf88c6bb8fef9d43eafcfa", null ],
-    [ "operator()", "d0/d86/a18044.html#abf98b730a2b794012c28b61ab8bb6b6c", null ],
-    [ "_owner", "d0/d86/a18044.html#ae475da3cca3d6288ce7df0b84d59005e", null ]
+    [ "MysticBuffetTargetFilter", "d0/d86/a18044.html#a5cc25dc0c6de036ec8fa3e7f10ffb2ea", null ],
+    [ "operator()", "d0/d86/a18044.html#a76536b8960aa5e64fa8f7a02939d4295", null ],
+    [ "_caster", "d0/d86/a18044.html#a60ef55fa8d6f511bba566ac3c8f8328a", null ]
 ];

@@ -1,8 +1,6 @@
 var a14868 =
 [
-    [ "HandleScript", "d9/dfc/a14868.html#ac58aef1b295e32c8a44852278edc18f8", null ],
-    [ "Load", "d9/dfc/a14868.html#a2f7b9372dd36444c5161f3bc50424d99", null ],
-    [ "PrepareSpellScript", "d9/dfc/a14868.html#adc1301a318f86b4e147a191f4c63e3bf", null ],
-    [ "Register", "d9/dfc/a14868.html#a95f4abd67d6baf75980ff28a7518503d", null ],
-    [ "Validate", "d9/dfc/a14868.html#a98271e7adb17b11e39241154a83b0d0d", null ]
+    [ "npc_belnistraszAI", "d0/d97/a14872.html", "d0/d97/a14872" ],
+    [ "npc_belnistrasz", "d9/dfc/a14868.html#a7aa0e9bfcfaf74febe67cbcb94c01ddb", null ],
+    [ "GetAI", "d9/dfc/a14868.html#aac9d4389ec1c88be9afb6b9a828da511", null ]
 ];

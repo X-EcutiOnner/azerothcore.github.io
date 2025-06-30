@@ -1,9 +1,6 @@
 var a18776 =
 [
-    [ "spell_trigger_spell_from_caster", "d6/deb/a18776.html#a0dc389ab8bd51fcfd839250a3bbc2dcd", null ],
-    [ "HandleTrigger", "d6/deb/a18776.html#afc11c9408ea11cb04e476999a9bdf522", null ],
-    [ "PrepareSpellScript", "d6/deb/a18776.html#a24a9bd70a58f051cd6c4ceaff5d7fffe", null ],
-    [ "Register", "d6/deb/a18776.html#ae44cc1a87267c1d08603d1aff2384957", null ],
-    [ "Validate", "d6/deb/a18776.html#a3aace9a309bc848b887b03c949c921bd", null ],
-    [ "_triggerId", "d6/deb/a18776.html#a29af52a9035f18936515a464889fefe5", null ]
+    [ "npc_icc_vengeful_fleshreaperAI", "db/dbc/a18780.html", "db/dbc/a18780" ],
+    [ "npc_icc_vengeful_fleshreaper", "d6/deb/a18776.html#aa95ec1e021f3d123e5a95c356765ac36", null ],
+    [ "GetAI", "d6/deb/a18776.html#abf1903616dbf52718313c8b404b504a5", null ]
 ];

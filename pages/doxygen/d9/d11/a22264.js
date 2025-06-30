@@ -1,7 +1,12 @@
 var a22264 =
 [
-    [ "npc_wg_quest_giver", "d9/d11/a22264.html#a68589ab4ce9f43247154f3c66d8107b8", null ],
-    [ "GetDialogStatus", "d9/d11/a22264.html#acd5c1462fe51a350c80af4f3ab46bac8", null ],
-    [ "OnGossipHello", "d9/d11/a22264.html#ad08debc749cbaea6fad9b7bcfb5548e0", null ],
-    [ "OnGossipSelect", "d9/d11/a22264.html#a9d42e558d68eee9f0f96ac1f8cd1a409", null ]
+    [ "npc_icefangAI", "d9/d11/a22264.html#ab74b58a77e3c1349ed308f7febef794a", null ],
+    [ "AttackStart", "d9/d11/a22264.html#a56615ecdb45389aa793374d26a636d45", null ],
+    [ "EnterEvadeMode", "d9/d11/a22264.html#a1465c4779ea8b080f934163c8db6c99c", null ],
+    [ "JustDied", "d9/d11/a22264.html#a3140c8306a384833cca1580ad964d73a", null ],
+    [ "JustEngagedWith", "d9/d11/a22264.html#a8455dd4afb5ef5a694ca9237848df907", null ],
+    [ "OnCharmed", "d9/d11/a22264.html#ad7f3465f5730cd9ebd42bb4092ec8e68", null ],
+    [ "PassengerBoarded", "d9/d11/a22264.html#acf6e8e273830d022eaca3a28a4bd5320", null ],
+    [ "UpdateAI", "d9/d11/a22264.html#ab4d752f2273062c48339b53e611e617c", null ],
+    [ "WaypointReached", "d9/d11/a22264.html#ae315a1d22317edb2864e4d796f808ffb", null ]
 ];

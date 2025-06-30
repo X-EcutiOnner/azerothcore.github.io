@@ -1,6 +1,6 @@
 var a19412 =
 [
-    [ "npc_spark_of_ionarAI", "db/d88/a19416.html", "db/d88/a19416" ],
-    [ "npc_spark_of_ionar", "dc/d17/a19412.html#a63578a0d77331849b7a48272870af04d", null ],
-    [ "GetAI", "dc/d17/a19412.html#aa1e524327b76ddc11a32e7a094e39dd1", null ]
+    [ "PrepareSpellScript", "dc/d17/a19412.html#a65c3b2c9a416b7d1bbd3c14057e5f8fc", null ],
+    [ "Register", "dc/d17/a19412.html#ad8470ed0d09c2b7e79fa4ecb1867e9bf", null ],
+    [ "SetDest", "dc/d17/a19412.html#a24341aae14ed77101d4c31f2fbe11463", null ]
 ];

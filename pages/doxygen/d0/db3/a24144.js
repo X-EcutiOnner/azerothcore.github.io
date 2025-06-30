@@ -1,5 +1,5 @@
 var a24144 =
 [
-    [ "go_crystal_prison", "d0/db3/a24144.html#a0faca8b76f9650ee5cc7825b90463365", null ],
-    [ "OnQuestAccept", "d0/db3/a24144.html#ad19d8bdf8361d5d7fca2917a6bf0977a", null ]
+    [ "npc_karynaku", "d0/db3/a24144.html#aa6a3cb409cdbc990f1eee4137c7519d2", null ],
+    [ "OnQuestAccept", "d0/db3/a24144.html#a4cae1950fe3b7b4ae6f2e6691800ec47", null ]
 ];

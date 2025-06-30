@@ -1,8 +1,8 @@
 var a13084 =
 [
-    [ "CalcPeriodic", "d6/dab/a13084.html#a9aaca3bb1d762c9bddf3b91205f48d00", null ],
-    [ "HandleDummyTick", "d6/dab/a13084.html#acd3616df94f888ad5fb1c5b0607f6f25", null ],
-    [ "HandleUpdatePeriodic", "d6/dab/a13084.html#a70ef86fd58eec1422bac6b61a4123842", null ],
-    [ "PrepareAuraScript", "d6/dab/a13084.html#a9a97a6ab249728dbad4d3603640a7963", null ],
-    [ "Register", "d6/dab/a13084.html#ab6b223ed68a521ea9a3cbc2a6e21ac49", null ]
+    [ "FilterTargets", "d6/dab/a13084.html#a4c7627dc20c4dafcee4d6faf97d3914e", null ],
+    [ "HandleScript", "d6/dab/a13084.html#aecb62c147905d0a4fe60086b8028df0b", null ],
+    [ "PrepareSpellScript", "d6/dab/a13084.html#a84ed93d5235781d9d53a47fff39d3ad2", null ],
+    [ "Register", "d6/dab/a13084.html#a2832f131d99608923ade8070e17da86d", null ],
+    [ "Validate", "d6/dab/a13084.html#a1a510f9cf49df69c5904cb79c8cdc860", null ]
 ];

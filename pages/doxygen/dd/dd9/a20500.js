@@ -1,6 +1,6 @@
 var a20500 =
 [
-    [ "boss_thorimAI", "df/dcd/a20504.html", "df/dcd/a20504" ],
-    [ "boss_thorim", "dd/dd9/a20500.html#a23a52a05aea5092cef8fe47be28b4bfb", null ],
-    [ "GetAI", "dd/dd9/a20500.html#a70895451317569f50adc11474e653515", null ]
+    [ "npc_ulduar_harpoonfirestateAI", "df/dcd/a20504.html", "df/dcd/a20504" ],
+    [ "npc_ulduar_harpoonfirestate", "dd/dd9/a20500.html#a85043e64606ba7c9ce2da7a37bbf0e8e", null ],
+    [ "GetAI", "dd/dd9/a20500.html#a8c9e1882c0706cb0b576c24b62215238", null ]
 ];

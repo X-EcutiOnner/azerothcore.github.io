@@ -1,6 +1,7 @@
 var a12316 =
 [
-    [ "boss_garrAI", "df/da2/a12320.html", "df/da2/a12320" ],
-    [ "boss_garr", "d1/d5a/a12316.html#ab489eb068430a6aaa83c93104dd54d65", null ],
-    [ "GetAI", "d1/d5a/a12316.html#abc673a3db7fce0101a0b95d5efbdefa3", null ]
+    [ "HandleEffectScriptEffect", "d1/d5a/a12316.html#a8157c4b213b3b4e260222976e283e2ae", null ],
+    [ "PrepareSpellScript", "d1/d5a/a12316.html#aa8a4fdd0dc5c06a836ac05cec0dccd75", null ],
+    [ "Register", "d1/d5a/a12316.html#aeda056b568b4956ba35b32a3f20c053e", null ],
+    [ "Validate", "d1/d5a/a12316.html#a29a7f51f01e1ccf71dcc53ad68f032ae", null ]
 ];

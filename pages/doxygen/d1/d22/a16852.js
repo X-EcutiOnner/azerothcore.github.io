@@ -1,9 +1,6 @@
 var a16852 =
 [
-    [ "npc_hor_risen_witch_doctorAI", "d1/d22/a16852.html#acd33d4811521f6d41bce21270198db45", null ],
-    [ "JustDied", "d1/d22/a16852.html#a49eb1c20ef810d0e4aeea8f99fcabebb", null ],
-    [ "JustEngagedWith", "d1/d22/a16852.html#a54378daf294fcbee4ba1abf14927cc52", null ],
-    [ "Reset", "d1/d22/a16852.html#a20742bb0fe610367283cd5dc7e8b36ff", null ],
-    [ "UpdateAI", "d1/d22/a16852.html#af9baaf71fa53a42ab5d1507fdd6aa9fd", null ],
-    [ "events", "d1/d22/a16852.html#abb39744cdcdc8e1fbf8fd06508af35f9", null ]
+    [ "boss_frostsworn_generalAI", "d9/d8e/a16856.html", "d9/d8e/a16856" ],
+    [ "boss_frostsworn_general", "d1/d22/a16852.html#a33023712cf056eedfed1cb38e18af5dd", null ],
+    [ "GetAI", "d1/d22/a16852.html#a8e958e13999f23a81a7230fa9ece276b", null ]
 ];

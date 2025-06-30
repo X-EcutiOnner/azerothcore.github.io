@@ -1,6 +1,6 @@
 var a13312 =
 [
-    [ "PrepareSpellScript", "da/daa/a13312.html#a6a9436d744865971e635f23c2b331688", null ],
-    [ "Register", "da/daa/a13312.html#a5f8a755040c9972e1bd6f68ceacf3dff", null ],
-    [ "SetDest", "da/daa/a13312.html#a2d43c0d5230f7be2d9a33e8527fd8c02", null ]
+    [ "HandlePeriodic", "da/daa/a13312.html#aec1ff41f0051a6c6dfbd11ea7741b1af", null ],
+    [ "PrepareAuraScript", "da/daa/a13312.html#a7ac99d626990f068a00f403847bfa6bc", null ],
+    [ "Register", "da/daa/a13312.html#ad3c0a2c270d1b8c31761674f89500b8a", null ]
 ];

@@ -1,5 +1,7 @@
 var a25912 =
 [
-    [ "Trigger", "d0/d93/a25912.html#aa16aba75a066e83cb56660a0e29e7453", null ],
-    [ "Validate", "d0/d93/a25912.html#a6c38df91dbe0cf277d1d50a40edd4589", null ]
+    [ "CalcPeriodic", "d0/d93/a25912.html#a404e5309016cfcaa3071c0216978699e", null ],
+    [ "PrepareAuraScript", "d0/d93/a25912.html#a9675e5c417e5e9a5a358a3ffb371073e", null ],
+    [ "Register", "d0/d93/a25912.html#a60ffc059d00fd58abe7e758f06bbf35c", null ],
+    [ "AuraEffectHandleModes", "d0/d93/a25912.html#aa66ee788b7e09815b827a0f4ac954e1f", null ]
 ];

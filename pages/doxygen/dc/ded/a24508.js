@@ -1,7 +1,7 @@
 var a24508 =
 [
-    [ "CheckCast", "dc/ded/a24508.html#ab215bbeea333d250ecbff0482f4f0966", null ],
-    [ "FilterTargets", "dc/ded/a24508.html#a6ee8387c7fed3fd3042852a2f542c5bd", null ],
-    [ "PrepareSpellScript", "dc/ded/a24508.html#a83447d184bb2299987d0c54d5af4c910", null ],
-    [ "Register", "dc/ded/a24508.html#a6107ba00471dd346c363db80fe81b698", null ]
+    [ "CorpseExplosionCheck", "dc/ded/a24508.html#aa8b7957705df1d878f5123ffa31a7fd7", null ],
+    [ "operator()", "dc/ded/a24508.html#aeab379880a8d912d6d0f7b41639edbd4", null ],
+    [ "_allowGhoul", "dc/ded/a24508.html#abd42a0731af969ceccdfceae722ba276", null ],
+    [ "_casterGUID", "dc/ded/a24508.html#a497df87745f452716c652e9b1be6d46f", null ]
 ];

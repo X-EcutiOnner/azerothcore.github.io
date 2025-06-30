@@ -1,6 +1,6 @@
 var a20340 =
 [
-    [ "npc_ulduar_proximity_mineAI", "de/d34/a20344.html", "de/d34/a20344" ],
-    [ "npc_ulduar_proximity_mine", "dd/d10/a20340.html#ac33beb07e17712cdda1b3434d9dc8222", null ],
-    [ "GetAI", "dd/d10/a20340.html#a7d8237b965699004f9df731e357b4020", null ]
+    [ "FilterTargets", "dd/d10/a20340.html#ae8d940a89be9b63286911bd55dcd3844", null ],
+    [ "PrepareSpellScript", "dd/d10/a20340.html#a8f4b4d82e53c8f820b620896478681a9", null ],
+    [ "Register", "dd/d10/a20340.html#a744d5cb8de927410ab1bf72008fff8b3", null ]
 ];

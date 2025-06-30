@@ -1,11 +1,8 @@
 var a22736 =
 [
-    [ "boss_high_nethermancer_zerevor", "de/d7c/a22736.html#a2d3ce1a6d972c0b58efe5aad31014c09", null ],
-    [ "AttackStart", "de/d7c/a22736.html#a270961bd3af6ce65eebc79130f4e3d47", null ],
-    [ "CastDampenMagicIfPossible", "de/d7c/a22736.html#ab0af23baf43d377935811c52a346c566", null ],
-    [ "JustEngagedWith", "de/d7c/a22736.html#a390f939ba01ee189fc55670eb4ff1a7e", null ],
-    [ "OnAuraRemove", "de/d7c/a22736.html#a7dd31808dbf00f77b59fce84249778fe", null ],
-    [ "Reset", "de/d7c/a22736.html#afd7a419de217b3d129f783ddc87780af", null ],
-    [ "UpdateAI", "de/d7c/a22736.html#ae1ec04a655525cbb2a6a3c7e382cf078", null ],
-    [ "_canCastDampenMagic", "de/d7c/a22736.html#a72c89454c2b0754690ae72fd7aacb0e8", null ]
+    [ "Load", "de/d7c/a22736.html#a4ff26763f05b07d882cd8d209464910e", null ],
+    [ "OnPeriodic", "de/d7c/a22736.html#a3e3bb503a6b5f90741a4df668851accf", null ],
+    [ "PrepareAuraScript", "de/d7c/a22736.html#a4126d35669859963f10ed1425a054298", null ],
+    [ "Register", "de/d7c/a22736.html#adb6a44892d80aeaaf4c15c71a47f422e", null ],
+    [ "Validate", "de/d7c/a22736.html#a22d6c338ea1f2af9be0eb02aceba42bd", null ]
 ];

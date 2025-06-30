@@ -1,12 +1,10 @@
 var a11088 =
 [
-    [ "WorldObjectSpellTargetCheck", "dc/d2c/a11088.html#a370a66c484d486ac6d2d3419a019c7cd", null ],
-    [ "~WorldObjectSpellTargetCheck", "dc/d2c/a11088.html#a1d519b04f171d230b21da3cc637497cf", null ],
-    [ "operator()", "dc/d2c/a11088.html#a2ae263977948d2195b22a737c36bad20", null ],
-    [ "_caster", "dc/d2c/a11088.html#ac090f8e47bcdfccb85fb791856355827", null ],
-    [ "_condList", "dc/d2c/a11088.html#a70b9331b5871e2e4d92d642715c8192a", null ],
-    [ "_condSrcInfo", "dc/d2c/a11088.html#a288c53998aa7b744f6e3eaeba68fe6d8", null ],
-    [ "_referer", "dc/d2c/a11088.html#a1a24eaafdf716de984a5943e049d10f7", null ],
-    [ "_spellInfo", "dc/d2c/a11088.html#a66bd07338943ee307be19f22326b29b7", null ],
-    [ "_targetSelectionType", "dc/d2c/a11088.html#a0e629a6fd0da179ea0c98c93d2337603", null ]
+    [ "TriggeredByAuraSpellData", "dc/d2c/a11088.html#a3f4704eed73af1e37a3d09434cfcddae", null ],
+    [ "Init", "dc/d2c/a11088.html#a782e0056967e006748318af3112c0e43", null ],
+    [ "operator bool", "dc/d2c/a11088.html#a85d4782b76b060c172aaa6f914d400da", null ],
+    [ "operator!", "dc/d2c/a11088.html#af7290a4c37b1829a98e436486fa8b6cd", null ],
+    [ "effectIndex", "dc/d2c/a11088.html#a9bbee8d48d4beb8a21721a10e0380c41", null ],
+    [ "spellInfo", "dc/d2c/a11088.html#af58f62fb168e9da7011f7b570f08e977", null ],
+    [ "tickNumber", "dc/d2c/a11088.html#afbb1ffd006dc6eb00ccd65add87b1b22", null ]
 ];

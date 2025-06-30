@@ -1,7 +1,6 @@
 var a20168 =
 [
-    [ "HandleAfterEffectApply", "d3/dde/a20168.html#adab765d78094eec673abce5140145267", null ],
-    [ "OnApply", "d3/dde/a20168.html#aab4331a7a55dc6f713db02726ec22e3a", null ],
-    [ "PrepareAuraScript", "d3/dde/a20168.html#acb827ae4299ae482d9b7f3fb09bbcc52", null ],
-    [ "Register", "d3/dde/a20168.html#ac1007ce2ee5e046639829558855f0188", null ]
+    [ "npc_ulduar_hodir_druidAI", "df/ddf/a20172.html", "df/ddf/a20172" ],
+    [ "npc_ulduar_hodir_druid", "d3/dde/a20168.html#a07809d61d55756a847467043b0e90989", null ],
+    [ "GetAI", "d3/dde/a20168.html#a4b0503e20bf8caddf0ea544a88124263", null ]
 ];

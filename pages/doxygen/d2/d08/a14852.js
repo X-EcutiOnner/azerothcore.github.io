@@ -1,5 +1,6 @@
 var a14852 =
 [
-    [ "npc_hive_zara_swarmer", "d2/d08/a14852.html#a374fa63e210e0be8a074af9199126a9e", null ],
-    [ "PathEndReached", "d2/d08/a14852.html#a3b3510bd00853395b756e1d83d96a474", null ]
+    [ "instance_ragefire_chasm_InstanceMapScript", "d8/dba/a14856.html", "d8/dba/a14856" ],
+    [ "instance_ragefire_chasm", "d2/d08/a14852.html#ab7f27d3e73b24d16dcf9b114f7dd4b36", null ],
+    [ "GetInstanceScript", "d2/d08/a14852.html#a0568996a61ef91688b9f223cb3782e5a", null ]
 ];

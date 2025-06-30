@@ -1,8 +1,8 @@
 var a20976 =
 [
-    [ "boss_keleseth", "d2/d62/a20976.html#ad2f0f020b0c92852dedadea5730e4e80", null ],
-    [ "AttackStart", "d2/d62/a20976.html#a731ebf8e9ff4f64582a8f9373ce08a39", null ],
-    [ "JustDied", "d2/d62/a20976.html#ad23ede5c869ab12dc1c2f6a783e9b539", null ],
-    [ "JustEngagedWith", "d2/d62/a20976.html#a8d5cba1dd481bdfaf93f6e2427880b2e", null ],
-    [ "KilledUnit", "d2/d62/a20976.html#a64d14f1b8f169128bbbc507730f4f1eb", null ]
+    [ "npc_ulduar_keeperAI", "d6/d11/a20980.html", "d6/d11/a20980" ],
+    [ "npc_ulduar_keeper", "d2/d62/a20976.html#a252b781061a2e21dc961ea94f7120d59", null ],
+    [ "GetAI", "d2/d62/a20976.html#ad0c0f5d3786e3f3b3394a599f3ee6256", null ],
+    [ "OnGossipHello", "d2/d62/a20976.html#a4db12efd22c7d2a5f18144fd16543230", null ],
+    [ "OnGossipSelect", "d2/d62/a20976.html#acf8681577117107d16d45705e4b8463f", null ]
 ];

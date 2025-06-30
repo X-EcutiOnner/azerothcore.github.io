@@ -1,9 +1,13 @@
 var a08636 =
 [
-    [ "GlobalCooldownMgr", "d7/d02/a08636.html#a116f4af13a4e10dc5eb3c3c6a17ad863", null ],
-    [ "AddGlobalCooldown", "d7/d02/a08636.html#acc0291e56fe4d3594d079e357f6ea3ed", null ],
-    [ "CancelGlobalCooldown", "d7/d02/a08636.html#aed6b479416104dc536116fdb1e24fcf3", null ],
-    [ "GetGlobalCooldown", "d7/d02/a08636.html#ae44caed35e93f834ff68394c1ab6434b", null ],
-    [ "HasGlobalCooldown", "d7/d02/a08636.html#a7487d19ae8c59e5c5e871b2e1afabfba", null ],
-    [ "m_GlobalCooldowns", "d7/d02/a08636.html#a80d03691d36758733f326b65992f266e", null ]
+    [ "PassengerSet", "d7/d02/a08636.html#aa6421ebd51e84c819604e18e93729d27", null ],
+    [ "Transport", "d7/d02/a08636.html#a36928c178aa490c02aa25b4b12e2bf63", null ],
+    [ "AddPassenger", "d7/d02/a08636.html#ac5c328f816b0358a68265322219357c1", null ],
+    [ "CalculatePassengerOffset", "d7/d02/a08636.html#a327d37eef797c4197b8bba503bd8a3f8", null ],
+    [ "CalculatePassengerPosition", "d7/d02/a08636.html#ae4e716194ce5e9c466a8fe5c53ee0980", null ],
+    [ "GetPassengers", "d7/d02/a08636.html#a3f70c977ba2450d4244e54e4260f6ea1", null ],
+    [ "GetPathProgress", "d7/d02/a08636.html#a4ecab9f8617918aea3a26cc0feb9c021", null ],
+    [ "RemovePassenger", "d7/d02/a08636.html#a1d70745a16a1cbf3307a25ff4a53c75d", null ],
+    [ "SetPathProgress", "d7/d02/a08636.html#acb68e75a78fa196a4b514abd24c0e322", null ],
+    [ "_passengers", "d7/d02/a08636.html#adc2089495aadaab23414ecae3b2df180", null ]
 ];

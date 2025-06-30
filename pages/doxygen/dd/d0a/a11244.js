@@ -1,6 +1,8 @@
 var a11244 =
 [
-    [ "ObjectTargetSelectHandler", "dd/d0a/a11244.html#abe96c3e266375ab64f8dec54a047a5b8", null ],
-    [ "Call", "dd/d0a/a11244.html#a7e18103fb5c68b2cf85f54bf7caf4b3b", null ],
-    [ "pObjectTargetSelectHandlerScript", "dd/d0a/a11244.html#a6982985537c0ddb8dd79647766c9ae70", null ]
+    [ "EffectHandler", "dd/d0a/a11244.html#aebdff9758b3ec51a75220be43b0d7b44", null ],
+    [ "Call", "dd/d0a/a11244.html#a7696d64688fa8b10cd58220fdd5fa5ba", null ],
+    [ "CheckEffect", "dd/d0a/a11244.html#a8eeff14be65159b6f9a88b04abe14e8b", null ],
+    [ "ToString", "dd/d0a/a11244.html#a5b583dc87f0146f06c9a38a5db92f4fb", null ],
+    [ "pEffectHandlerScript", "dd/d0a/a11244.html#a88fbf00b2e35c462423ddeff55ac3dee", null ]
 ];

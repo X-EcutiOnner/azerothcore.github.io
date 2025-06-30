@@ -1,8 +1,7 @@
 var a11012 =
 [
-    [ "SkillPerfectItemEntry", "d0/d19/a11012.html#a683f3c6f5e9c5ef2a0f0fa09d546d2a3", null ],
-    [ "SkillPerfectItemEntry", "d0/d19/a11012.html#a678f9908440187faad38c0e1ffaf82de", null ],
-    [ "perfectCreateChance", "d0/d19/a11012.html#a750d5ab6bc3df0026e640f1c84de8547", null ],
-    [ "perfectItemType", "d0/d19/a11012.html#a057605f8867d4df5cb290318598a2908", null ],
-    [ "requiredSpecialization", "d0/d19/a11012.html#aa7ad968ab1b8804ee8f0f8f40bc6f762", null ]
+    [ "IsValidOpcode", "d0/d19/a11012.html#afdba55f89a1c7ffb9e7c302f2269687f", null ],
+    [ "IsValidSize", "d0/d19/a11012.html#aec5192f7f57a16c9dfa244ff3874e693", null ],
+    [ "cmd", "d0/d19/a11012.html#ad0a112cb2a8a71e6e8c20e320af63f49", null ],
+    [ "size", "d0/d19/a11012.html#ac1d551036381db4f85b8dc92ea55d4ee", null ]
 ];

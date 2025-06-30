@@ -1,7 +1,7 @@
 var a12884 =
 [
-    [ "HandleEffectApply", "dd/d16/a12884.html#a8d52c4ea09e1d58d2dc44ff73d71faf5", null ],
-    [ "PrepareAuraScript", "dd/d16/a12884.html#a9829789fe5544429454e29d228ce0daf", null ],
-    [ "Register", "dd/d16/a12884.html#a7f5a26d10f48d863477ec902e6f5ff1e", null ],
-    [ "Validate", "dd/d16/a12884.html#ae81a441757ab9f10c29a7b313b99cf5f", null ]
+    [ "npc_unworthy_initiate_anchorAI", "dd/d16/a12884.html#a2d1a90c4f3c5047a41c7e9f80db13a99", null ],
+    [ "GetGUID", "dd/d16/a12884.html#a83cca82e7d75231a6aa586f67dad766e", null ],
+    [ "SetGUID", "dd/d16/a12884.html#a3d2ccbeeddc28002a4eb2392a62ba031", null ],
+    [ "prisonerGUID", "dd/d16/a12884.html#a38a3e7e7207bb6d809d03c90e67f7742", null ]
 ];

@@ -1,7 +1,7 @@
 var a14692 =
 [
-    [ "boss_epoch_hunter", "d6/dac/a14692.html#a652d14ebfced39b8164687a713780600", null ],
-    [ "JustDied", "d6/dac/a14692.html#a38d3cbed2ce8f810fd169e0004fd91dc", null ],
-    [ "JustEngagedWith", "d6/dac/a14692.html#a2571f98f36d1271f3911617e0fdfba54", null ],
-    [ "KilledUnit", "d6/dac/a14692.html#a61456e680e9108dd841e83d97536ef1b", null ]
+    [ "OnRemove", "d6/dac/a14692.html#a98bf88bd917b441d2ad81716dcd38ec1", null ],
+    [ "PrepareAuraScript", "d6/dac/a14692.html#ab082adc51983f124d0467cbff63cffb7", null ],
+    [ "Register", "d6/dac/a14692.html#a2feb8adaad212ee29d9ec6d9957575a4", null ],
+    [ "Validate", "d6/dac/a14692.html#a73421b82f483e73314dbb862fb0a11c7", null ]
 ];

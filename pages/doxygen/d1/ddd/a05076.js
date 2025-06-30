@@ -1,26 +1,10 @@
 var a05076 =
 [
-    [ "GroupModel", "d1/ddd/a05076.html#a04394355a9e29ac711f1eac8e1b8f598", null ],
-    [ "GroupModel", "d1/ddd/a05076.html#ae80a3f105bb90f9c53c79e120493a080", null ],
-    [ "GroupModel", "d1/ddd/a05076.html#abd91bd31c5ec616718cf20f6a1bbb3dc", null ],
-    [ "~GroupModel", "d1/ddd/a05076.html#ac4995a270e70f74e6019d35054257c0d", null ],
-    [ "GetBound", "d1/ddd/a05076.html#ad7aed338a07d1b34a70d014d099fcbdd", null ],
-    [ "GetLiquidLevel", "d1/ddd/a05076.html#a7d40df575640d6af6f07a8d2fac3d2b3", null ],
-    [ "GetLiquidType", "d1/ddd/a05076.html#a18a06e1abd1bd1631252d984fc6523bf", null ],
-    [ "GetMeshData", "d1/ddd/a05076.html#aca4c1cbe22c8f294295eaeda61a41b9a", null ],
-    [ "GetMogpFlags", "d1/ddd/a05076.html#a3a9097772a45d937f95bd2388fca9832", null ],
-    [ "GetWmoID", "d1/ddd/a05076.html#a688249a2be14b24567ec46628c9f54b3", null ],
-    [ "IntersectRay", "d1/ddd/a05076.html#a993fe26ded8eae40979501ca2004cc76", null ],
-    [ "IsInsideObject", "d1/ddd/a05076.html#af9fb3af93970e609c72025856030adbe", null ],
-    [ "readFromFile", "d1/ddd/a05076.html#a26ef5a949f7534384d5e18ce3559b174", null ],
-    [ "setLiquidData", "d1/ddd/a05076.html#aa7ad91aae0543c338dc6a997bf32cce5", null ],
-    [ "setMeshData", "d1/ddd/a05076.html#ad8d7db03ddd9996a77798e5a2e639f5c", null ],
-    [ "writeToFile", "d1/ddd/a05076.html#ad1e9c0a3541accf4e4b3c71d1df5c215", null ],
-    [ "iBound", "d1/ddd/a05076.html#aec53fdbb6149933298aefbee61d0f442", null ],
-    [ "iGroupWMOID", "d1/ddd/a05076.html#adce0e8627021d63217e9efa20e007e36", null ],
-    [ "iLiquid", "d1/ddd/a05076.html#a5ad484131e1ec589aa5e9d6f61753c0b", null ],
-    [ "iMogpFlags", "d1/ddd/a05076.html#a729f44ee16b082afa174718cb4fdf802", null ],
-    [ "meshTree", "d1/ddd/a05076.html#a4c7b308534724048e724265fb1e2adf9", null ],
-    [ "triangles", "d1/ddd/a05076.html#a70053fa0535dd38ea81e1e3f2be123e8", null ],
-    [ "vertices", "d1/ddd/a05076.html#a0e784e5b8967ee5c475fab8e2e80ca88", null ]
+    [ "WModelAreaCallback", "d1/ddd/a05076.html#ad59e5b281d60d2489d0100e728612e65", null ],
+    [ "operator()", "d1/ddd/a05076.html#a4c0bb86ba4d8238e8f7740c4699dfa0f", null ],
+    [ "hit", "d1/ddd/a05076.html#a136cf475a8246611c52b3af41707fe83", null ],
+    [ "minVol", "d1/ddd/a05076.html#a169a35e4d1b33b28014ad753993a1c27", null ],
+    [ "prims", "d1/ddd/a05076.html#a7a45b1c8e16c7840a45b96b15ca200b4", null ],
+    [ "zDist", "d1/ddd/a05076.html#ade19ec7931454c375bf8564f05556c8e", null ],
+    [ "zVec", "d1/ddd/a05076.html#a423995c8ce4c4846da978cc49aeee2b9", null ]
 ];

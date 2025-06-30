@@ -1,7 +1,7 @@
 var a09316 =
 [
-    [ "AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck", "dc/dd3/a09316.html#a038f512c564e4ae18571ac1836897edb", null ],
-    [ "operator()", "dc/dd3/a09316.html#a3bc09bf6fc4481c67190f57dc4198f6e", null ],
-    [ "i_funit", "dc/dd3/a09316.html#a3a0742f36f0a0a22c4ae6a2c8b8269b6", null ],
-    [ "i_range", "dc/dd3/a09316.html#a953943e53e25b6887bfab8cc1c19620a", null ]
+    [ "FriendlyCCedInRange", "dc/dd3/a09316.html#ae8dcff3f285f208b0db8aa3efed202a1", null ],
+    [ "operator()", "dc/dd3/a09316.html#a0e241f930cee855664aeac3604d5c023", null ],
+    [ "i_obj", "dc/dd3/a09316.html#a73d3e29bbdc7fd4aa162be3cb7ecbe08", null ],
+    [ "i_range", "dc/dd3/a09316.html#a49e79f3aea0c7e8c321c9f297b71a9b2", null ]
 ];

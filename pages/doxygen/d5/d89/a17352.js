@@ -1,9 +1,9 @@
 var a17352 =
 [
-    [ "CheckProc", "d5/d89/a17352.html#a13426f7a45e9434f980b42f174b22da8", null ],
-    [ "HandlePeriodicTick", "d5/d89/a17352.html#a6380b4d03e4c48cd1a1f89227a1ebae8", null ],
-    [ "HandleProc", "d5/d89/a17352.html#abf744d64dae5835bff3877eeaa919af3", null ],
-    [ "PrepareAuraScript", "d5/d89/a17352.html#a5836fb240ae612d36a9e80c88bebdc48", null ],
-    [ "Register", "d5/d89/a17352.html#a1b72c10256365de71b8f9fadf5886338", null ],
-    [ "Validate", "d5/d89/a17352.html#acc3a0e0ae60291646514c1ae6f41f421", null ]
+    [ "CheckTarget", "d5/d89/a17352.html#a43fc6a16aca217ef043fa34a58391357", null ],
+    [ "HandlePresence", "d5/d89/a17352.html#a52ea6041c5fe004c1e996a974cc59d5d", null ],
+    [ "OnCast", "d5/d89/a17352.html#a96cec6f1b51a2c0c03f89447c5306b5a", null ],
+    [ "PrepareSpellScript", "d5/d89/a17352.html#abe559b32aa82f19abb0a6d664b75c748", null ],
+    [ "Register", "d5/d89/a17352.html#ad8c7a9935e85c06f837e694ebcaffba1", null ],
+    [ "Validate", "d5/d89/a17352.html#a2301414a88dcbf4bdc8a486ec4be994e", null ]
 ];

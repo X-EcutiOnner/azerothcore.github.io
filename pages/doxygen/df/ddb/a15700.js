@@ -1,6 +1,6 @@
 var a15700 =
 [
-    [ "HandleApply", "df/ddb/a15700.html#aee4d5908035d06be2f1469a50db02e26", null ],
-    [ "PrepareAuraScript", "df/ddb/a15700.html#ac8349deb2e9c8861194e80132bd72fc5", null ],
-    [ "Register", "df/ddb/a15700.html#ac83962bef84b68cef6d7937769730598", null ]
+    [ "HandleSummon", "df/ddb/a15700.html#a730e0c865f8c0c12544be951a48fe9ff", null ],
+    [ "PrepareSpellScript", "df/ddb/a15700.html#a31271cd4668d3cbc4f4bdbeb693fe141", null ],
+    [ "Register", "df/ddb/a15700.html#ae388ee1b08891f021ab1308ec7ffebaa", null ]
 ];

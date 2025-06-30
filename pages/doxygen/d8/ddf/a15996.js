@@ -1,14 +1,10 @@
 var a15996 =
 [
-    [ "npc_halion_controllerAI", "d8/ddf/a15996.html#aabe03dbe5652db6687e7f2857ea33a20", null ],
-    [ "DoAction", "d8/ddf/a15996.html#a8d295797e21c03e7d2c3d504c40ba128", null ],
-    [ "Reset", "d8/ddf/a15996.html#a3004aecb50815287d5f832f2a8a0d250", null ],
-    [ "SetData", "d8/ddf/a15996.html#a3ce9a62d3e44b3ccc279803d5ef87a47", null ],
-    [ "UpdateAI", "d8/ddf/a15996.html#ac3ad9df40560ba8acfcd7fbabd303fde", null ],
-    [ "UpdateCorporeality", "d8/ddf/a15996.html#ac82987f2b2b069b90c509c477004bae6", null ],
-    [ "_corporeality", "d8/ddf/a15996.html#a4c23df1bb774ac724bdf537453592671", null ],
-    [ "_events", "d8/ddf/a15996.html#a92e3f116260265a2d0dbeef769eee03e", null ],
-    [ "_instance", "d8/ddf/a15996.html#a5cce2f56e6ef0b4baeb6f2f7dbfd2f73", null ],
-    [ "_materialDamage", "d8/ddf/a15996.html#afcc510b0d4be10ed057d1a304b803b69", null ],
-    [ "_twilightDamage", "d8/ddf/a15996.html#a13a9efcb11ed31725c45011508407287", null ]
+    [ "npc_xerestraszaAI", "d8/ddf/a15996.html#a768ae45296e16b8fcada6359dfd6c7e5", null ],
+    [ "DoAction", "d8/ddf/a15996.html#af696ecee315892b2bf0233113d2f89f9", null ],
+    [ "Reset", "d8/ddf/a15996.html#a0eceae8fb9bf5071bc8d9cddf783507b", null ],
+    [ "UpdateAI", "d8/ddf/a15996.html#a6389ab58f4b44c668590113ec75f2adf", null ],
+    [ "_events", "d8/ddf/a15996.html#ae998fc6aaee14bc313ff38bb76d79e43", null ],
+    [ "_introDone", "d8/ddf/a15996.html#a9d01014297290dafbb7ed25bffbe6fe6", null ],
+    [ "_isIntro", "d8/ddf/a15996.html#a71ffbf3fedb77bd693beabb4ee52f57a", null ]
 ];

@@ -1,9 +1,6 @@
 var a12984 =
 [
-    [ "npc_risen_guardianAI", "df/dba/a12984.html#a50eb3de52205fc1bbc6936f0708c68a6", null ],
-    [ "IsSummonedBy", "df/dba/a12984.html#ad9f45b9007c1ff74d0f725fbf7f00abe", null ],
-    [ "KilledUnit", "df/dba/a12984.html#abc7afaa685a436b34ff76edcc6c25e54", null ],
-    [ "Gandling", "df/dba/a12984.html#a93013b905260aa51341b22d1627cc986", null ],
-    [ "instance", "df/dba/a12984.html#a96f1835989f646c708b8ef0cc9999e63", null ],
-    [ "room", "df/dba/a12984.html#a5862a184b6daa92da133cc6c360a993d", null ]
+    [ "npc_valkyr_battle_maidenAI", "d3/db6/a12988.html", "d3/db6/a12988" ],
+    [ "npc_valkyr_battle_maiden", "df/dba/a12984.html#a4316dd483b262e637ea39ba9e972744b", null ],
+    [ "GetAI", "df/dba/a12984.html#ab067ea6f5f92039d471708039089e79c", null ]
 ];

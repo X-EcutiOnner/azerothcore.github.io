@@ -1,8 +1,7 @@
 var a22696 =
 [
-    [ "Load", "df/de2/a22696.html#a4ff26763f05b07d882cd8d209464910e", null ],
-    [ "OnPeriodic", "df/de2/a22696.html#a3e3bb503a6b5f90741a4df668851accf", null ],
-    [ "PrepareAuraScript", "df/de2/a22696.html#a4126d35669859963f10ed1425a054298", null ],
-    [ "Register", "df/de2/a22696.html#adb6a44892d80aeaaf4c15c71a47f422e", null ],
-    [ "Validate", "df/de2/a22696.html#a22d6c338ea1f2af9be0eb02aceba42bd", null ]
+    [ "npc_blade_of_azzinoth", "df/de2/a22696.html#a55afe56313c237afe8080662b2ed2dba", null ],
+    [ "DoAction", "df/de2/a22696.html#a8e746da7672c0177c4b6c91b1e9d2eb5", null ],
+    [ "IsSummonedBy", "df/de2/a22696.html#af2925da1235b809ee81469fe32ab0f92", null ],
+    [ "JustSummoned", "df/de2/a22696.html#a501e2d1ae9af813fd9c30395e7774983", null ]
 ];

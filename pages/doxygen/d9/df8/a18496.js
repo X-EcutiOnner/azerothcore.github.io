@@ -1,6 +1,6 @@
 var a18496 =
 [
-    [ "npc_rotting_frost_giantAI", "d0/d75/a18500.html", "d0/d75/a18500" ],
-    [ "npc_rotting_frost_giant", "d9/df8/a18496.html#ad4440216e11a00d97af43dc5f3957e95", null ],
-    [ "GetAI", "d9/df8/a18496.html#aabc388b3690f2d03e903c7f480d52842", null ]
+    [ "PeriodicTick", "d9/df8/a18496.html#ac0b2cf06027c2f658745d6a90dfc76a1", null ],
+    [ "PrepareAuraScript", "d9/df8/a18496.html#a0767ac60151517b803e871a0fcb25967", null ],
+    [ "Register", "d9/df8/a18496.html#afd1e28b224035aef5ac109f38d7e118d", null ]
 ];

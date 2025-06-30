@@ -1,8 +1,6 @@
 var a14708 =
 [
-    [ "npc_thrall_old_hillsbradAI", "d0/d9d/a14712.html", "d0/d9d/a14712" ],
-    [ "npc_thrall_old_hillsbrad", "da/d63/a14708.html#a3e6fa750b095af3beac806a619e18328", null ],
-    [ "GetAI", "da/d63/a14708.html#a7b7baeb3e2e33dcb4ffb0af5d1f5930c", null ],
-    [ "OnGossipHello", "da/d63/a14708.html#a9b3f622ab9c0dc06011cb36cd084f2e7", null ],
-    [ "OnGossipSelect", "da/d63/a14708.html#a17fcb00850503903f430506654e035c0", null ]
+    [ "npc_crate_helperAI", "da/d63/a14708.html#ad58a2f3746da7862658fb3b9e1580836", null ],
+    [ "SpellHit", "da/d63/a14708.html#a785bb6fdb254a050a5c5e3e9df49a850", null ],
+    [ "_marked", "da/d63/a14708.html#a0e718e519af661b73ed7bcd87ffbea32", null ]
 ];

@@ -1,6 +1,6 @@
 var a18484 =
 [
-    [ "CaptainSurviveTalk", "d0/daa/a18484.html#a43a1b1da17ed41ae765aabc47c858f80", null ],
-    [ "Execute", "d0/daa/a18484.html#a871cf08e8c7fced2971cae8abbc20454", null ],
-    [ "_owner", "d0/daa/a18484.html#ac8de506afb4688560ea637918d07b01e", null ]
+    [ "HandleScript", "d0/daa/a18484.html#a567509ccadbc74b3ba9e420f08a0c2b4", null ],
+    [ "PrepareSpellScript", "d0/daa/a18484.html#aac5f2cb3e5f498ae46598e95eece825d", null ],
+    [ "Register", "d0/daa/a18484.html#a11c40abf4db37e1498b1a7ee5089f083", null ]
 ];

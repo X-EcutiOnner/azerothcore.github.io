@@ -1,7 +1,7 @@
 var a14716 =
 [
-    [ "npc_tarethaAI", "de/d86/a14720.html", "de/d86/a14720" ],
-    [ "npc_taretha", "d5/dd8/a14716.html#a54379e06518ff972e91e25e295731f5a", null ],
-    [ "GetAI", "d5/dd8/a14716.html#a5045bb7119b12800ee0053818fcae5fe", null ],
-    [ "OnGossipHello", "d5/dd8/a14716.html#ac689e97b3fd54e9c9e40ed5b9aeca099", null ]
+    [ "npc_cos_chromie_middle", "d5/dd8/a14716.html#a1bb7229781c122d362e781d2737d0fd3", null ],
+    [ "OnGossipHello", "d5/dd8/a14716.html#a105b62bd24fe3912c0f66c234a6dc670", null ],
+    [ "OnGossipSelect", "d5/dd8/a14716.html#a37ebdd257ef22554c81cf3c062856141", null ],
+    [ "OnQuestAccept", "d5/dd8/a14716.html#a6af52ce23a90e7d8418e2c414c9c0fd4", null ]
 ];

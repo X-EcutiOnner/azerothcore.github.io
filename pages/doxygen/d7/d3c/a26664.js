@@ -1,6 +1,6 @@
 var a26664 =
 [
-    [ "HandleSchoolDMG", "d7/d3c/a26664.html#a8f3ff0a48d5de4dcd33831400de0ba28", null ],
-    [ "PrepareSpellScript", "d7/d3c/a26664.html#a42bb397aa53fb43ba1b1799a7f162d9b", null ],
-    [ "Register", "d7/d3c/a26664.html#ac1271959fe8de3c11403b1e76acdbf15", null ]
+    [ "HandleDummy", "d7/d3c/a26664.html#af5bccd5dfb9aa37215b083438b6749ea", null ],
+    [ "PrepareSpellScript", "d7/d3c/a26664.html#a6c2b858c893ed215d1192073b06db81d", null ],
+    [ "Register", "d7/d3c/a26664.html#a1b23dc4a7a04e4c910bb738d45a8df1f", null ]
 ];

@@ -1,7 +1,9 @@
 var a17400 =
 [
-    [ "HandleScript", "de/d36/a17400.html#a5fe0b684473bd5dd1ff9b12432ff3de8", null ],
-    [ "Load", "de/d36/a17400.html#ab1d81386ae3ccd332c01864d7f456017", null ],
-    [ "PrepareSpellScript", "de/d36/a17400.html#ae3ef753ff4c99aa8bed20ce3369a7e0f", null ],
-    [ "Register", "de/d36/a17400.html#a7edb44f70501c2e760d29c8f78a4e087", null ]
+    [ "CheckProc", "de/d36/a17400.html#a13426f7a45e9434f980b42f174b22da8", null ],
+    [ "HandlePeriodicTick", "de/d36/a17400.html#a6380b4d03e4c48cd1a1f89227a1ebae8", null ],
+    [ "HandleProc", "de/d36/a17400.html#abf744d64dae5835bff3877eeaa919af3", null ],
+    [ "PrepareAuraScript", "de/d36/a17400.html#a5836fb240ae612d36a9e80c88bebdc48", null ],
+    [ "Register", "de/d36/a17400.html#a1b72c10256365de71b8f9fadf5886338", null ],
+    [ "Validate", "de/d36/a17400.html#acc3a0e0ae60291646514c1ae6f41f421", null ]
 ];

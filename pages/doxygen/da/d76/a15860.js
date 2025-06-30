@@ -1,19 +1,11 @@
 var a15860 =
 [
-    [ "boss_sartharion_dragonAI", "da/d76/a15860.html#afffee05f402a1960232c7920beb9beb9", null ],
-    [ "ClearInstance", "da/d76/a15860.html#a9e1fb29994441dd2d41aeb2c04205d7b", null ],
-    [ "DoAction", "da/d76/a15860.html#aeb49e63300a317f0e969159266fd8ea1", null ],
-    [ "HandleExtraEvent", "da/d76/a15860.html#a406b4d5957efb872de3bff5c8012de2a", null ],
-    [ "JustDied", "da/d76/a15860.html#a9c664ff661a3e83b98e1a28c81d662b0", null ],
-    [ "JustEngagedWith", "da/d76/a15860.html#a2988e9a5a8edd9aa807d8b13867fe6d7", null ],
-    [ "JustSummoned", "da/d76/a15860.html#a16582179f25ddc130f97bb70fe80316f", null ],
-    [ "KilledUnit", "da/d76/a15860.html#a09428ec63c8589a527accf8b024f6666", null ],
-    [ "MoveInLineOfSight", "da/d76/a15860.html#a75cd7f27019e4013adde104e7663e5bc", null ],
-    [ "MovementInform", "da/d76/a15860.html#a6870b91b1d36c79add8bd86a8e1fac4d", null ],
-    [ "RemoveTwilightPortal", "da/d76/a15860.html#a26aff742f99b04bfaf56fa46158ce306", null ],
-    [ "Reset", "da/d76/a15860.html#a86acfe30f898bd6b709c4743ae808867", null ],
-    [ "UpdateAI", "da/d76/a15860.html#a0e9382d8dce8251336d81539b7d82e15", null ],
-    [ "extraEvents", "da/d76/a15860.html#a0018fdf6e4567a74e5b16e4e09a00836", null ],
-    [ "isCalledBySartharion", "da/d76/a15860.html#a45a92a0754572b8d619fddbd1bdb234f", null ],
-    [ "portalGUID", "da/d76/a15860.html#a852ab0dabe5b6d8e6b0a53e6425ff085", null ]
+    [ "spell_hadronox_summon_periodic_aura", "da/d76/a15860.html#afcca15cddf71c0d46bd811eab9174f1a", null ],
+    [ "HandlePeriodic", "da/d76/a15860.html#a048695baf71d307e5aaa00e54586c9f7", null ],
+    [ "OnApply", "da/d76/a15860.html#a4466547bc1a5259a33354f2008d6cce7", null ],
+    [ "PrepareAuraScript", "da/d76/a15860.html#a4205560054e5baed86aecba3b98fc202", null ],
+    [ "Register", "da/d76/a15860.html#a09efdcddaed4af2833139ca20ef94376", null ],
+    [ "Validate", "da/d76/a15860.html#a20827683249c17625242e205bb51f9e8", null ],
+    [ "_delay", "da/d76/a15860.html#a191d7eec948e0753835bd41eef66f1ec", null ],
+    [ "_spellEntry", "da/d76/a15860.html#a52e45512e2bbe34b0bdbfaa273aeb997", null ]
 ];

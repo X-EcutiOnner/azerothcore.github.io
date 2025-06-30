@@ -1,7 +1,6 @@
 var a15900 =
 [
-    [ "HandleHit", "d3/d27/a15900.html#abd59d91ab50eb8945a4a00157d9d5564", null ],
-    [ "PrepareSpellScript", "d3/d27/a15900.html#a27549f3cacc1732bbc1e61209e0f4905", null ],
-    [ "Register", "d3/d27/a15900.html#af132eee38064c5123f4e01d52efb9314", null ],
-    [ "Validate", "d3/d27/a15900.html#accad8dfdf29a1475b6f272259f1ed9bf", null ]
+    [ "boss_sartharionAI", "d5/d4e/a15904.html", "d5/d4e/a15904" ],
+    [ "boss_sartharion", "d3/d27/a15900.html#a6605aee69372d08fba8f4b4523896588", null ],
+    [ "GetAI", "d3/d27/a15900.html#aca5d66e0f5cdcafd6f9cd2c173f43839", null ]
 ];

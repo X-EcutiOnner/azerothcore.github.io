@@ -1,9 +1,6 @@
 var a23252 =
 [
-    [ "boss_mennu_the_betrayer", "d3/d93/a23252.html#a3f881a89d1da70d066ce9a3fe0b29a3e", null ],
-    [ "JustDied", "d3/d93/a23252.html#acf87c54cc2a3ee5c8378ef40553ab51c", null ],
-    [ "JustEngagedWith", "d3/d93/a23252.html#a535b9af1677b8af50515818a18e88d27", null ],
-    [ "JustSummoned", "d3/d93/a23252.html#a59949872270890ef794a77029074210b", null ],
-    [ "KilledUnit", "d3/d93/a23252.html#a1a55fb7f1dacc5e514e71901d66bd35e", null ],
-    [ "Reset", "d3/d93/a23252.html#a6f0043e73a55cd1cccae22a806d702ea", null ]
+    [ "go_ahune_ice_stone", "d3/d93/a23252.html#ab7b665f01da80751ea97705c5113bde7", null ],
+    [ "GossipSelect", "d3/d93/a23252.html#aadb4db41ed84922c0a2d0463b8616876", null ],
+    [ "_instance", "d3/d93/a23252.html#a43651f471ac777b59fb8ba67b830cd35", null ]
 ];

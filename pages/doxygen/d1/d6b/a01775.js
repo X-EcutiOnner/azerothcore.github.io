@@ -1,5 +1,4 @@
 var a01775 =
 [
-    [ "AreaTriggerScript", "d7/df7/a10203.html", "d7/df7/a10203" ],
-    [ "OnlyOnceAreaTriggerScript", "db/dd0/a10207.html", "db/dd0/a10207" ]
+    [ "ScriptRegistry< MiscScript >", "d1/d6b/a01775.html#a925ee1bbb5e173c3d816d0ae35b38a67", null ]
 ];

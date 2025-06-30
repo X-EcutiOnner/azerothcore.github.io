@@ -1,5 +1,6 @@
 var a12296 =
 [
-    [ "at_orb_of_command", "df/de1/a12296.html#a1f0b196362b76e050eba66d3ce612623", null ],
-    [ "OnTrigger", "df/de1/a12296.html#a8d30d303c72d5eaf59222c890ab13ca3", null ]
+    [ "boss_vaelAI", "d6/d17/a12300.html", "d6/d17/a12300" ],
+    [ "boss_vaelastrasz", "df/de1/a12296.html#a0b51f3b50cde4907bd9064e8bf51c005", null ],
+    [ "GetAI", "df/de1/a12296.html#a42dde198f5fc0ab2e7ca28ac32c42b7e", null ]
 ];

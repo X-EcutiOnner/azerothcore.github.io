@@ -1,8 +1,7 @@
 var a21188 =
 [
-    [ "npc_frozen_orbAI", "d0/ddd/a21188.html#aa7456d1d876690e3723ee0a36866348b", null ],
-    [ "JustEngagedWith", "d0/ddd/a21188.html#afd9686dbb8503d7f756b670269aed33d", null ],
-    [ "Reset", "d0/ddd/a21188.html#a376dc1fcef9752e235008c4ba66e2463", null ],
-    [ "UpdateAI", "d0/ddd/a21188.html#a37d7cf81197fe4344c8b847753997e93", null ],
-    [ "switchTimer", "d0/ddd/a21188.html#afc63a3cf6b814df81a35b53278d722c9", null ]
+    [ "HandleScript", "d0/ddd/a21188.html#a47b991c20c523d151893fefd9d487714", null ],
+    [ "PrepareSpellScript", "d0/ddd/a21188.html#ab2db47d0a2694c0734db600e810e190d", null ],
+    [ "Register", "d0/ddd/a21188.html#a3c2e7eb24506b43730f2e971fab81c75", null ],
+    [ "Validate", "d0/ddd/a21188.html#a89d601f6036fe38238767281f3427e54", null ]
 ];

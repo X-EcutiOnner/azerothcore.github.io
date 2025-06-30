@@ -1,5 +1,6 @@
 var a18580 =
 [
-    [ "npc_alchemist_adrianna", "d0/d7b/a18580.html#a310d375bc73c51e407580b063a6543fa", null ],
-    [ "OnGossipHello", "d0/d7b/a18580.html#a02ec6a66037d72e30bbe821ceee38691", null ]
+    [ "npc_captain_arnathAI", "d8/d28/a18584.html", "d8/d28/a18584" ],
+    [ "npc_captain_arnath", "d0/d7b/a18580.html#ab96afce64a7714ea84bab932f80c9302", null ],
+    [ "GetAI", "d0/d7b/a18580.html#a302ec007389e677011334d78f410207b", null ]
 ];

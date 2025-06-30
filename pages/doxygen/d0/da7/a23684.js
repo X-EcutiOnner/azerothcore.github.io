@@ -1,9 +1,8 @@
 var a23684 =
 [
-    [ "HandleEffectApply", "d0/da7/a23684.html#ac9e030810cc1ffb3927943353bcbb764", null ],
-    [ "HandleEffectRemove", "d0/da7/a23684.html#a2524bb4614fa62fb703a3d3cf0c25da0", null ],
-    [ "Load", "d0/da7/a23684.html#a60f41c19f5104eef82048fd1e3416abd", null ],
-    [ "PrepareAuraScript", "d0/da7/a23684.html#a277d9865108acafac4b1a42bc5b5714b", null ],
-    [ "Register", "d0/da7/a23684.html#a5ffe5a8b3422382482f713ff6d8514b2", null ],
-    [ "_falconSet", "d0/da7/a23684.html#a1a20f75d251936bff7a0777831d79140", null ]
+    [ "boss_commander_sarannis", "d0/da7/a23684.html#ace0957feb37f864798008849be25f607", null ],
+    [ "JustDied", "d0/da7/a23684.html#a7796429f04c049549a4a02a1eb8d35fc", null ],
+    [ "JustEngagedWith", "d0/da7/a23684.html#ad4273db7c169c6cfa9917dd3b76c9c95", null ],
+    [ "KilledUnit", "d0/da7/a23684.html#a64e77321adc5eea9d3494a3e1030f9de", null ],
+    [ "ScheduleReinforcements", "d0/da7/a23684.html#a293f0b860a66396a30c6d255eef85309", null ]
 ];

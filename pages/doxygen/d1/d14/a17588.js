@@ -1,6 +1,6 @@
 var a17588 =
 [
-    [ "BurningPitchFilterCheck", "d1/d14/a17588.html#a11a4816f3d29cb1a6c4845cdaaeaa3cf", null ],
-    [ "operator()", "d1/d14/a17588.html#a24be987c8471d8a7096025debf6e60b1", null ],
-    [ "_entry", "d1/d14/a17588.html#a7bd20aed2db0e24ad34cbcc94d9a89d6", null ]
+    [ "PrepareSpellScript", "d1/d14/a17588.html#a47df21229183b628c1d82bf34cbbe396", null ],
+    [ "Register", "d1/d14/a17588.html#a3cc4a1180f66cd9fe19020c1e5f2fccb", null ],
+    [ "RelocateTransportOffset", "d1/d14/a17588.html#acab29d77b4806f5d59ddc5dc3493c8ae", null ]
 ];

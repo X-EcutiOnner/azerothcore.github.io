@@ -1,7 +1,7 @@
 var a22744 =
 [
-    [ "boss_veras_darkshadow", "d2/da0/a22744.html#a7b33a5c8257954951ed19a2f8ce17b95", null ],
-    [ "JustEngagedWith", "d2/da0/a22744.html#a5eec3e70a7950073eced60d680ff6298", null ],
-    [ "JustSummoned", "d2/da0/a22744.html#afd6cb716cfdebccde99d71e1eb797d33", null ],
-    [ "UpdateAI", "d2/da0/a22744.html#a21f23998e3c3ecb79cbfa3c0d778f2d5", null ]
+    [ "HandleScriptEffect", "d2/da0/a22744.html#a16f131e42272bc75c99df2a9cf43470e", null ],
+    [ "PrepareSpellScript", "d2/da0/a22744.html#a510e80ef85ae3057e30c7c710aaf187b", null ],
+    [ "Register", "d2/da0/a22744.html#ae26ff6be3b2d4a1975ace3734603ab41", null ],
+    [ "Validate", "d2/da0/a22744.html#a58ff628906f3077a354ed486d3c56d23", null ]
 ];

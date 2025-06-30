@@ -1,6 +1,6 @@
 var a04019 =
 [
-    [ "bg_commandscript", "db/d6b/a11543.html", "db/d6b/a11543" ],
-    [ "AddSC_bag_commandscript", "da/d6d/a04019.html#a8fa1e803122341d611168b2b62fde4e5", null ],
-    [ "itemQualityToString", "da/d6d/a04019.html#af266597924b9d3f439ffc9908001d2cb", null ]
+    [ "debug_commandscript", "d7/d24/a11592.html", "d7/d24/a11592" ],
+    [ "debug_commandscript::CreatureCountWorker", "d7/d6c/a11596.html", "d7/d6c/a11596" ],
+    [ "AddSC_debug_commandscript", "da/d6d/a04019.html#abae44bbc8eb2fb66a5596017ea83583f", null ]
 ];

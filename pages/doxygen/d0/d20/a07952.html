@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: Member List</title>
+<title>AzerothCore: lfg::LfgPlayerData Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -78,7 +78,7 @@ $(function() {
 </div>
 <script type="text/javascript">
 /* @license magnet:?xt=urn:btih:d3d9a9a6595521f9666a5e94cc830dab83b65699&amp;dn=expat.txt MIT */
-$(document).ready(function(){initNavTree('d6/d79/a07955.html','../../'); initResizable(); });
+$(document).ready(function(){initNavTree('d0/d20/a07952.html','../../'); initResizable(); });
 /* @license-end */
 </script>
 <div id="doc-content">
@@ -104,209 +104,920 @@ $(document).ready(function(){initNavTree('d6/d79/a07955.html','../../'); initRes
 </div>
 
 <div class="header">
-  <div class="headertitle"><div class="title">lfg::LFGPlayerScript Member List</div></div>
+  <div class="summary">
+<a href="#pub-methods">Public Member Functions</a> &#124;
+<a href="#pri-attribs">Private Attributes</a> &#124;
+<a href="../../d0/d86/a07949.html">List of all members</a>  </div>
+  <div class="headertitle"><div class="title">lfg::LfgPlayerData Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p>This is the complete list of members for <a class="el" href="../../d6/d79/a07955.html">lfg::LFGPlayerScript</a>, including all inherited members.</p>
-<table class="directory">
-  <tr class="even"><td class="entry"><a class="el" href="../../d4/d2b/a10391.html#a90b63e382cac17922ae57fe22b84718c">_name</a></td><td class="entry"><a class="el" href="../../d4/d2b/a10391.html">ScriptObject</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d4/d2b/a10391.html#ab9ecac7620b4319c634d7e5f30c30f49">_totalAvailableHooks</a></td><td class="entry"><a class="el" href="../../d4/d2b/a10391.html">ScriptObject</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a24ea964cdfd442a28789e578fe843146">AnticheatCheckMovementInfo</a>(Player *, MovementInfo const &amp;, Unit *, bool)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a74cbb5207c77ee2167de0767b70b0332">AnticheatHandleDoubleJump</a>(Player *, Unit *)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#af8af279f295984499a2c86383bab7fc7">AnticheatSetCanFlybyServer</a>(Player *, bool)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a96f09ec9354565e8ecfde90629d8c99d">AnticheatSetJumpingbyOpcode</a>(Player *, bool)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a735f1f8a92a2c8fd8ffafb2870f5721f">AnticheatSetRootACKUpd</a>(Player *)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#ac8351600ffd067181b6d64a32039c6d0">AnticheatSetUnderACKmount</a>(Player *)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#aa59a7c07db907eff3549779f5f5fc2cc">AnticheatUpdateMovementInfo</a>(Player *, MovementInfo const &amp;)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d4/d2b/a10391.html#a585e75e34aed7aa32205daad85f8fe08">checkValidity</a>()</td><td class="entry"><a class="el" href="../../d4/d2b/a10391.html">ScriptObject</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d4/d2b/a10391.html#a79588d839860d2f5caab60c5f1368f10">GetName</a>() const</td><td class="entry"><a class="el" href="../../d4/d2b/a10391.html">ScriptObject</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d4/d2b/a10391.html#a69ee35ec7d54226264efef558022c1c0">GetTotalAvailableHooks</a>()</td><td class="entry"><a class="el" href="../../d4/d2b/a10391.html">ScriptObject</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d4/d2b/a10391.html#a2f66339b1cdf1fde795c61cd24c8b0a2">isAfterLoadScript</a>() const</td><td class="entry"><a class="el" href="../../d4/d2b/a10391.html">ScriptObject</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d4/d2b/a10391.html#a37da453729d5c8fbe2d06f905563f47c">IsDatabaseBound</a>() const</td><td class="entry"><a class="el" href="../../d4/d2b/a10391.html">ScriptObject</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d6/d79/a07955.html#ad27ca48d9e573ad0ba155a3f7eb1ae88">LFGPlayerScript</a>()</td><td class="entry"><a class="el" href="../../d6/d79/a07955.html">lfg::LFGPlayerScript</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#adfda4aa782ba4e0b8a5827c76fea3f5b">OnPlayerAchievementComplete</a>(Player *, AchievementEntry const *)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a007db305efd34c5f27c023bcd2bbedcc">OnPlayerAchievementSave</a>(CharacterDatabaseTransaction, Player *, uint16, CompletedAchievementData)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a58b748506e55253a54b814565f2bc773">OnPlayerAddToBattleground</a>(Player *, Battleground *)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#aa141c00b213322487df457193d52c18e">OnPlayerAfterCreatureLoot</a>(Player *)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#aaf088b928f0bf7a9c69dd6c852daa2be">OnPlayerAfterCreatureLootMoney</a>(Player *)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a59bdcf895e1c9e20e9cb3334d0e87e73">OnPlayerAfterGuardianInitStatsForLevel</a>(Player *, Guardian *)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a14f343d8f00f07fa163a1858af8cd145">OnPlayerAfterMoveItemFromInventory</a>(Player *, Item *, uint8, uint8, bool)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a7d277fedc1dca8a89130dc04fcadab43">OnPlayerAfterSetVisibleItemSlot</a>(Player *, uint8, Item *)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a65ce1321c271287bc000c17b59b5c3c4">OnPlayerAfterSpecSlotChanged</a>(Player *, uint8)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a5553337a25dda601bffda85144c5d82e">OnPlayerAfterStoreOrEquipNewItem</a>(Player *, uint32, Item *, uint8, uint8, uint8, ItemTemplate const *, Creature *, VendorItem const *, bool)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#ad576006710a730f81cb0e309e9b05d66">OnPlayerAfterUpdateAttackPowerAndDamage</a>(Player *, float &amp;, float &amp;, float &amp;, float &amp;, bool)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a515f04a573d37304af530c04ec17ec5f">OnPlayerAfterUpdateMaxHealth</a>(Player *, float &amp;)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a08c7f3a7cb36d4ed9bbc2e1f1c636a54">OnPlayerAfterUpdateMaxPower</a>(Player *, Powers &amp;, float &amp;)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#afb7a7ef38ae08790d17679d59505dc47">OnPlayerApplyAmmoBonuses</a>(Player *, ItemTemplate const *, float &amp;)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a1d5c2effb74f35fe67e3725633f38009">OnPlayerApplyEnchantmentItemModsBefore</a>(Player *, Item *, EnchantmentSlot, bool, uint32, uint32 &amp;)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a2dc6338118e0f8eb387103e03e4eab60">OnPlayerApplyItemModsBefore</a>(Player *, uint8, bool, uint8, uint32, int32 &amp;)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#ab3563edb3c0b947ef09de8abfabe48f4">OnPlayerApplyWeaponDamage</a>(Player *, uint8, ItemTemplate const *, float &amp;, float &amp;, uint8)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#ae6ac207073b363e179a7f659ad0cd660">OnPlayerBattlegroundDesertion</a>(Player *, BattlegroundDesertionType const)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a6ef12f103350a3b169d5eb10173b927b">OnPlayerBeforeAchievementComplete</a>(Player *, AchievementEntry const *)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a818eb5bdfe5fc7972359399662f81e07">OnPlayerBeforeBuyItemFromVendor</a>(Player *, ObjectGuid, uint32, uint32 &amp;, uint8, uint8, uint8)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a66011213c045819266d716de82c22a3c">OnPlayerBeforeChooseGraveyard</a>(Player *, TeamId, bool, uint32 &amp;)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a34ed7754ea926ab69321a5e8680d4bb7">OnPlayerBeforeCriteriaProgress</a>(Player *, AchievementCriteriaEntry const *)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a5952ee1a1fa98564d01bb544b9a503da">OnPlayerBeforeDurabilityRepair</a>(Player *, ObjectGuid, ObjectGuid, float &amp;, uint8)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a7d3250477cf00d53e734f63cd9a5854d">OnPlayerBeforeFillQuestLootItem</a>(Player *, LootItem &amp;)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#afd1ea56109b58e3493e4708a7bfdded0">OnPlayerBeforeGuardianInitStatsForLevel</a>(Player *, Guardian *, CreatureTemplate const *, PetType &amp;)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#accc79f88b2781a3d301e7d918913cfd6">OnPlayerBeforeInitTalentForLevel</a>(Player *, uint8 &amp;, uint32 &amp;)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#add3286b9f45d3d9a355cef84f89aa02e">OnPlayerBeforeLoadPetFromDB</a>(Player *, uint32 &amp;, uint32 &amp;, bool &amp;, bool &amp;)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#ac363719cf6fc784048815572cc5956e0">OnPlayerBeforeLogout</a>(Player *)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a1b2a2ebe6f7e90dc496cc6ba7eb420a5">OnPlayerBeforeLootMoney</a>(Player *, Loot *)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a9f48c69c4175cce68f2510c7905f6076">OnPlayerBeforeOpenItem</a>(Player *, Item *)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a8c8e54d47a69b730d31778074d55c8d0">OnPlayerBeforeQuestComplete</a>(Player *, uint32)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#ac89251dbe51ea1848084b500405ae951">OnPlayerBeforeSendChatMessage</a>(Player *, uint32 &amp;, uint32 &amp;, std::string &amp;)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#aca95b71de2d0f06122dcd7eb184b41fa">OnPlayerBeforeStoreOrEquipNewItem</a>(Player *, uint32, uint32 &amp;, uint8, uint8, uint8, ItemTemplate const *, Creature *, VendorItem const *, bool)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a822b10b6aa750f2a449c80dccf27998e">OnPlayerBeforeTeleport</a>(Player *, uint32, float, float, float, float, uint32, Unit *)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a1eeaaf871d40e940fab5cb646cbdf6e7">OnPlayerBeforeTempSummonInitStats</a>(Player *, TempSummon *, uint32 &amp;)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a60756e3bc90b3fc8818a07e75513519e">OnPlayerBeforeUpdate</a>(Player *, uint32)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#abb060f98479027752c80d2708c85b6f2">OnPlayerBeforeUpdateAttackPowerAndDamage</a>(Player *, float &amp;, float &amp;, bool)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#ab987f4d35e6e93962ced501c2a85033c">OnPlayerBeforeUpdateSkill</a>(Player *, uint32, uint32 &amp;, uint32, uint32)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a4ac1a0b1cee9d012e620685b03479d0a">OnPlayerBeingCharmed</a>(Player *, Unit *, uint32, uint32)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d6/d79/a07955.html#aeb3fd4e39ed8ba345cf3c76a232f241d">OnPlayerBindToInstance</a>(Player *player, Difficulty difficulty, uint32 mapId, bool permanent) override</td><td class="entry"><a class="el" href="../../d6/d79/a07955.html">lfg::LFGPlayerScript</a></td><td class="entry"><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#af91db3833d5f39249561f19999f74b6c">OnPlayerCalculateTalentsPoints</a>(Player const *, uint32 &amp;)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a2b3833479913543c11a9ef9f8112a7fa">OnPlayerCanApplyEnchantment</a>(Player *, Item *, EnchantmentSlot, bool, bool, bool)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#aa1c6852b8cb25354af24a0ca2e90a8c3">OnPlayerCanApplyEquipSpell</a>(Player *, SpellInfo const *, Item *, bool, bool)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a166cf44004f28c16e157a693f574cd91">OnPlayerCanApplyEquipSpellsItemSet</a>(Player *, ItemSetEffect *)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#acf4fad631c7f98fbe5173b9622d64ed1">OnPlayerCanApplyWeaponDependentAuraDamageMod</a>(Player *, Item *, WeaponAttackType, AuraEffect const *, bool)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a09b5eaedeacaf5a65388586144e34791">OnPlayerCanAreaExploreAndOutdoor</a>(Player *)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a9867822adffccc9d08d339caac3748e5">OnPlayerCanArmorDamageModifier</a>(Player *)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a26defaa8b91dfe8c4a7ffc2d1d35abbb">OnPlayerCanBattleFieldPort</a>(Player *, uint8, BattlegroundTypeId, uint8)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a74460aba44efc99c1bf08f9d7f3ede4e">OnPlayerCanCastItemCombatSpell</a>(Player *, Unit *, WeaponAttackType, uint32, uint32, Item *, ItemTemplate const *)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a4526aeac52337568506411cc5d9f7a32">OnPlayerCanCastItemUseSpell</a>(Player *, Item *, SpellCastTargets const &amp;, uint8, uint32)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a6babdb76d4eea0956bd811a4cad6f743">OnPlayerCanEnterMap</a>(Player *, MapEntry const *, InstanceTemplate const *, MapDifficulty const *, bool)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a2ef349f20f0f546e046a5dab47771ac2">OnPlayerCanEquipItem</a>(Player *, uint8, uint16 &amp;, Item *, bool, bool)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#ae44ab67f5748f8ca8c1c9a87bc38c654">OnPlayerCanFlyInZone</a>(Player *, uint32, uint32, SpellInfo const *)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#ab1b576bf4850da8b38ec6d22cf4d3d5c">OnPlayerCanGiveLevel</a>(Player *, uint8)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a9f7f3350bbc08d2f348df1ab2bbe0886">OnPlayerCanGiveMailRewardAtGiveLevel</a>(Player *, uint8)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a05543bac33b9e0ac5d4492b671144c4f">OnPlayerCanGroupAccept</a>(Player *, Group *)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a4ebacfe83742d63511652041d41a4f12">OnPlayerCanGroupInvite</a>(Player *, std::string &amp;)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a40f2adf16006991bc044a92c3eb93175">OnPlayerCanInitTrade</a>(Player *, Player *)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#ad43d75de0c95360d8ce296d2415613e2">OnPlayerCanJoinInArenaQueue</a>(Player *, ObjectGuid, uint8, BattlegroundTypeId, uint8, uint8, GroupJoinBattlegroundResult &amp;)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a20848bb0164df83c152f4a7de89b14ec">OnPlayerCanJoinInBattlegroundQueue</a>(Player *, ObjectGuid, BattlegroundTypeId, uint8, GroupJoinBattlegroundResult &amp;)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a9fb3b566553250bf325cf4b9c0ed7c92">OnPlayerCanJoinLfg</a>(Player *, uint8, std::set&lt; uint32 &gt; &amp;, const std::string &amp;)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a3b94bc0974c5f7564fd98b848546b676">OnPlayerCanPlaceAuctionBid</a>(Player *, AuctionEntry *)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#aa78bd0f92ec5282196d3723fe0488d64">OnPlayerCanRepopAtGraveyard</a>(Player *)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a6383a1107e66713eaceee27a08f869e8">OnPlayerCanResurrect</a>(Player *)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#ad75ac09627a784418b99d283e6dd71c3">OnPlayerCanSaveEquipNewItem</a>(Player *, Item *, uint16, bool)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#aff27d01a92654d33b6b682df96b72892">OnPlayerCanSellItem</a>(Player *, Item *, Creature *)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a610ff70105814e8aaa534cb285eaed35">OnPlayerCanSendErrorAlreadyLooted</a>(Player *)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a45e08ab8ba42ef8205f56fcfdaf7c7d1">OnPlayerCanSendMail</a>(Player *, ObjectGuid, ObjectGuid, std::string &amp;, std::string &amp;, uint32, uint32, Item *)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a61af25953c5be86e15d87b6b714ca818">OnPlayerCanSetTradeItem</a>(Player *, Item *, uint8)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a5e638e22a2a917df3d2b3885f28b511a">OnPlayerCanUnequipItem</a>(Player *, uint16, bool)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a70cdc27660ed927fb989389f7ea423f4">OnPlayerCanUpdateSkill</a>(Player *, uint32)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#ae0899bf8a7bd336ae28de910ec822ee4">OnPlayerCanUseChat</a>(Player *, uint32, uint32, std::string &amp;)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#ab8703c043755ca3a63af322b61a30562">OnPlayerCanUseChat</a>(Player *, uint32, uint32, std::string &amp;, Player *)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a5d0668c69542893034e7ce9053083c9c">OnPlayerCanUseChat</a>(Player *, uint32, uint32, std::string &amp;, Group *)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#aeea3fd5686c9d985c5b0c9842e53f9a3">OnPlayerCanUseChat</a>(Player *, uint32, uint32, std::string &amp;, Guild *)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a35b897e38cfd156c332d3258acdbc26a">OnPlayerCanUseChat</a>(Player *, uint32, uint32, std::string &amp;, Channel *)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a5cadcdfb2f9e7622b60bf44e35e7281c">OnPlayerCanUseItem</a>(Player *, ItemTemplate const *, InventoryResult &amp;)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#acd37ed4d0ba007cafd71112dbc6cb497">OnPlayerChat</a>(Player *, uint32, uint32, std::string &amp;)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a97795e12844a3f25c21d3e2df590cb73">OnPlayerChat</a>(Player *, uint32, uint32, std::string &amp;, Player *)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#ace80ff81e9fb957029d1c71126bcc780">OnPlayerChat</a>(Player *, uint32, uint32, std::string &amp;, Group *)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a6c1fa1ad975b51f2433935387bca2d15">OnPlayerChat</a>(Player *, uint32, uint32, std::string &amp;, Guild *)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a8378e9ad8dade2fb42c2e358d269a6eb">OnPlayerChat</a>(Player *, uint32, uint32, std::string &amp;, Channel *)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a7fdd03a8e3ea8c45c4b56535dd469d14">OnPlayerCheckItemInSlotAtLoadInventory</a>(Player *, Item *, uint8, uint8 &amp;, uint16 &amp;)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a15a60aa20ccac522f3400af23f6bdabe">OnPlayerCompleteQuest</a>(Player *, Quest const *)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a29c017efd441935b197da6e46017839d">OnPlayerCreate</a>(Player *)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a78b1a3bb14f9bdb842a8f1cc21c0e9f2">OnPlayerCreateItem</a>(Player *, Item *, uint32)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a84bbcb205014817c3658b32864b9d0c5">OnPlayerCreatureKill</a>(Player *, Creature *)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a3462c09567bfcd1f006f31575d688b9e">OnPlayerCreatureKilledByPet</a>(Player *, Creature *)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a4acdfb1946291ba844cffcf29d073c8f">OnPlayerCriteriaProgress</a>(Player *, AchievementCriteriaEntry const *)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a30fcfea536c9a0568b2783607e446748">OnPlayerCriteriaSave</a>(CharacterDatabaseTransaction, Player *, uint16, CriteriaProgress)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a3251eab858fbea2be8b1a9624a830558">OnPlayerCustomScalingStatValue</a>(Player *, ItemTemplate const *, uint32 &amp;, int32 &amp;, uint8, uint32, ScalingStatValuesEntry const *)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#aad0970e43dcd43a47f10e366cb330157">OnPlayerCustomScalingStatValueBefore</a>(Player *, ItemTemplate const *, uint8, bool, uint32 &amp;)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a712f8197b8d7f05e2c5df4cbcb0f3075">OnPlayerDelete</a>(ObjectGuid, uint32)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a7f622046c41db5f39818db80d3b119c9">OnPlayerDeleteFromDB</a>(CharacterDatabaseTransaction, uint32)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a02c60caaf408a63173a3b6aa44ee0548">OnPlayerDuelEnd</a>(Player *, Player *, DuelCompleteType)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#addd53995cfb67fbb53b016417e1f1dd7">OnPlayerDuelRequest</a>(Player *, Player *)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#add58ba07161cec383120ca6268e70d84">OnPlayerDuelStart</a>(Player *, Player *)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a367b7bae5fdebefa38c9ecde79ed647d">OnPlayerEmote</a>(Player *, uint32)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a97dff9768aa70c9e7a4d945ada5d51da">OnPlayerEnterCombat</a>(Player *, Unit *)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a7539e1c9159811d8c879f13afd88d782">OnPlayerEquip</a>(Player *, Item *, uint8, uint8, bool)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a175648bcaf1ab89b65003f6cc24b083a">OnPlayerFailedDelete</a>(ObjectGuid, uint32)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#ac3fcfa978fb414b1cd96fd97699f1c12">OnPlayerFfaPvpStateUpdate</a>(Player *, bool)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#afb8ef3b6b7f2293ad8f08de85a415168">OnPlayerFirstLogin</a>(Player *)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a59b90cda095160dd1659220e1bddda3b">OnPlayerForgotSpell</a>(Player *, uint32)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a43ad8b40935efa0521f7188b5877988b">OnPlayerFreeTalentPointsChanged</a>(Player *, uint32)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a0603d8ed8547be29cc9777d70b57d1aa">OnPlayerGetArenaPersonalRating</a>(Player *, uint8, uint32 &amp;)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a6cd887e626a421dfca8efd1d6a622942">OnPlayerGetArenaTeamId</a>(Player *, uint8, uint32 &amp;)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#ac8fa429cc5526e677da361fcfee15708">OnPlayerGetFeralApBonus</a>(Player *, int32 &amp;, int32, ItemTemplate const *, ScalingStatValuesEntry const *)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a753c80423e28928a2d10e4c70fc3b218">OnPlayerGetMaxPersonalArenaRatingRequirement</a>(Player const *, uint32, uint32 &amp;) const</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a1c5388025a13fbb65f2a8b7a580c070e">OnPlayerGetMaxSkillValue</a>(Player *, uint32, int32 &amp;, bool)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a51766dc484aff74274971aec5a809369">OnPlayerGetMaxSkillValueForLevel</a>(Player *, uint16 &amp;)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a9239ede3a7f820cbc67bf1227738a89e">OnPlayerGetQuestRate</a>(Player *, float &amp;)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a6c551a0298321975bdc82854a96631b6">OnPlayerGiveXP</a>(Player *, uint32 &amp;, Unit *, uint8)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a029041b780393eb50916111cee237486">OnPlayerGossipSelect</a>(Player *, uint32, uint32, uint32)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#adebc479bb5d0ba38ab37607f8da3c22c">OnPlayerGossipSelectCode</a>(Player *, uint32, uint32, uint32, const char *)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a05e289a55570181ee3ff2c8934abe284">OnPlayerGroupRollRewardItem</a>(Player *, Item *, uint32, RollVote, Roll *)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a080a93a771d0b5785582de95e3a8d4e9">OnPlayerHasActivePowerType</a>(Player const *, Powers)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#aad9c53f38209b82f76e73a8bf847c452">OnPlayerIsClass</a>(Player const *, Classes, ClassContext)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#aa4b329a65a4c815f9138f563dc759ce3">OnPlayerIsFFAPvP</a>(Player *, bool &amp;)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a1417e1d37937bb9b6116be7160368de6">OnPlayerIsPvP</a>(Player *, bool &amp;)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a1ff7dab5ba016059ae3ac9ad880e72c8">OnPlayerJoinArena</a>(Player *)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a855d0b447c23e6ac412bc6932c762e60">OnPlayerJoinBG</a>(Player *)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a9290e5f8f665e58c12e2b0c3f954e224">OnPlayerJustDied</a>(Player *)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#aea9b3ff2882fd0a3c511c8b7c0193f85">OnPlayerKilledByCreature</a>(Creature *, Player *)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#ad49b8284773c1a88cc60093247a4fa6e">OnPlayerLearnSpell</a>(Player *, uint32)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a4eab0a3195d658a1a2caa8e620cd4b7f">OnPlayerLearnTalents</a>(Player *, uint32, uint32, uint32)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#ab1aa7309009b5fa7422d0358e659ccc5">OnPlayerLeaveCombat</a>(Player *)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d6/d79/a07955.html#afd530a2823a7187b49645c9d0625c8ba">OnPlayerLevelChanged</a>(Player *player, uint8 oldLevel) override</td><td class="entry"><a class="el" href="../../d6/d79/a07955.html">lfg::LFGPlayerScript</a></td><td class="entry"><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a0825f8c0b2a86e23e9e9606cae561951">OnPlayerLoadFromDB</a>(Player *)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d6/d79/a07955.html#a3b4e8775787feb8266edc52fddc7ab3a">OnPlayerLogin</a>(Player *player) override</td><td class="entry"><a class="el" href="../../d6/d79/a07955.html">lfg::LFGPlayerScript</a></td><td class="entry"><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d6/d79/a07955.html#a13c365770c90d1a44f72ab4cb8c7f903">OnPlayerLogout</a>(Player *player) override</td><td class="entry"><a class="el" href="../../d6/d79/a07955.html">lfg::LFGPlayerScript</a></td><td class="entry"><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a019f4412ae48444340aa7c9b0adb8c7a">OnPlayerLootItem</a>(Player *, Item *, uint32, ObjectGuid)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d6/d79/a07955.html#ab3022d19b8d32bf0f269b2e991150a1c">OnPlayerMapChanged</a>(Player *player) override</td><td class="entry"><a class="el" href="../../d6/d79/a07955.html">lfg::LFGPlayerScript</a></td><td class="entry"><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a3ecb4cd2f8d43224df55a30be3d94ba5">OnPlayerMoneyChanged</a>(Player *, int32 &amp;)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#adbff3e0ab4627aa442448fb304bb406e">OnPlayerNotAvoidSatisfy</a>(Player *, DungeonProgressionRequirements const *, uint32, bool)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a2e8ecb981bef47673c0a55f877a3b687">OnPlayerNotSetArenaTeamInfoField</a>(Player *, uint8, ArenaTeamInfoType, uint32)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#abec118d2d4288679346006e45fb1ac77">OnPlayerNotVisibleGloballyFor</a>(Player *, Player const *)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a5fa21a2a1214ab18ff00a468645be9f5">OnPlayerPassedQuestKilledMonsterCredit</a>(Player *, Quest const *, uint32, uint32, ObjectGuid)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a269119a4d7a3b2d07d07cc3916c9e49c">OnPlayerPetitionBuy</a>(Player *, Creature *, uint32 &amp;, uint32 &amp;, uint32 &amp;)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a86a5d6d950ed7581419cbd5d6ffa478a">OnPlayerPetitionShowList</a>(Player *, Creature *, uint32 &amp;, uint32 &amp;, uint32 &amp;)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a884c63379ce7059a68f5d194ea0c05d6">OnPlayerPVPFlagChange</a>(Player *, bool)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#aaa5e48e7d6efe680151c5fb43da1f396">OnPlayerPVPKill</a>(Player *, Player *)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a09d7ed50203cb9459826070584bb227c">OnPlayerQuestAbandon</a>(Player *, uint32)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#ae9df260c8f1ffd17334a60144dbbdc84">OnPlayerQuestComputeXP</a>(Player *, Quest const *, uint32 &amp;)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a7cfa904bfa1ef63b1374215514da5fe6">OnPlayerQuestRewardItem</a>(Player *, Item *, uint32)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a63bae0fc0ddd555987656c167317856d">OnPlayerQueueRandomDungeon</a>(Player *, uint32 &amp;)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#ab9adc58fb2876abff2c7b856ae8aba72">OnPlayerReleasedGhost</a>(Player *)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a74fcd7575a5ef26db28f411779336a19">OnPlayerRemoveFromBattleground</a>(Player *, Battleground *)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a9ab15f7d630448eb438fa09340c49764">OnPlayerReputationChange</a>(Player *, uint32, int32 &amp;, bool)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a29461fafa9ee3f5781e8cdc4204f4a07">OnPlayerReputationRankChange</a>(Player *, uint32, ReputationRank, ReputationRank, bool)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a3031e35fdc06606d7d9b6de18fd08d7d">OnPlayerResurrect</a>(Player *, float, bool)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#af395a893e54efeb4493f80c945be512e">OnPlayerRewardKillRewarder</a>(Player *, KillRewarder *, bool, float &amp;)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#adf5e7994101d601bc3da89b7a7b65789">OnPlayerSave</a>(Player *)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#adf7e18448a0b2bd7bf665f758ddd9dea">OnPlayerSendInitialPacketsBeforeAddToMap</a>(Player *, WorldPacket &amp;)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a61bcb10650fcf0be3625d5ba7a71eb1e">OnPlayerSendListInventory</a>(Player *, ObjectGuid, uint32 &amp;)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#aa8049d8f999c983d032c4a83f44d384d">OnPlayerSetMaxLevel</a>(Player *, uint32 &amp;)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a426e85a617ff5bde90d46918e5fd5b4f">OnPlayerSetServerSideVisibility</a>(Player *, ServerSideVisibilityType &amp;, AccountTypes &amp;)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#afc51f607a2a09dfbebf941afb6d78848">OnPlayerSetServerSideVisibilityDetect</a>(Player *, ServerSideVisibilityType &amp;, AccountTypes &amp;)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a25dbc0a3cea9caf42fce43e7507098d8">OnPlayerShouldBeRewardedWithMoneyInsteadOfExp</a>(Player *)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a2eb26bdd3b1989286ee366c12d058f9f">OnPlayerSpellCast</a>(Player *, Spell *, bool)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a7ce4b3df298df0320a73322a684baada">OnPlayerStoreNewItem</a>(Player *, Item *, uint32)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a380a6f92932c8c594299771944ea424d">OnPlayerTalentsReset</a>(Player *, bool)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#aecc401350811d0abd6c5722a54209a2c">OnPlayerTextEmote</a>(Player *, uint32, uint32, ObjectGuid)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a23530e61904f730220f3a5fb1b4550e6">OnPlayerUpdate</a>(Player *, uint32)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a8136dbb5af76d5ef658cab44798f6649">OnPlayerUpdateArea</a>(Player *, uint32, uint32)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a816bced318f7c0b55b9a0a0a2a0e9dd8">OnPlayerUpdateCraftingSkill</a>(Player *, SkillLineAbilityEntry const *, uint32, uint32 &amp;)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a53120e56168e268837ef23ee24393349">OnPlayerUpdateFaction</a>(Player *)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a88e202895426b3c07d3e3fd3d1569c22">OnPlayerUpdateFishingSkill</a>(Player *, int32, int32, int32, int32)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a76c33e19e482b55e101ad2d02da63670">OnPlayerUpdateGatheringSkill</a>(Player *, uint32, uint32, uint32, uint32, uint32, uint32 &amp;)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#a8150190df8eae991a67889c8bcb8a052">OnPlayerUpdateSkill</a>(Player *, uint32, uint32, uint32, uint32, uint32)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#ad8046ffb37b7cd18ff7072e9017f4a7e">OnPlayerUpdateZone</a>(Player *, uint32, uint32)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#af77ff360bd5beb69eb17eb68967b3469">OnPlayerVictimRewardAfter</a>(Player *, Player *, uint32 &amp;, uint32 &amp;, float &amp;)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#ad92bf8f83e46259c1febe52f98657f7e">OnPlayerVictimRewardBefore</a>(Player *, Player *, uint32 &amp;, uint32 &amp;)</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d0/d80/a10335.html#ae5a7eb549a6bd087874e948dd62a2ed2">PlayerScript</a>(const char *name, std::vector&lt; uint16 &gt; enabledHooks=std::vector&lt; uint16 &gt;())</td><td class="entry"><a class="el" href="../../d0/d80/a10335.html">PlayerScript</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d4/d2b/a10391.html#ae4ca97cf587379c94354e4889ff8c0c2">ScriptObject</a>(const char *name, uint16 totalAvailableHooks=0)</td><td class="entry"><a class="el" href="../../d4/d2b/a10391.html">ScriptObject</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">protected</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d4/d2b/a10391.html#a80c704c939f54eee6655d68509598c42">~ScriptObject</a>()=default</td><td class="entry"><a class="el" href="../../d4/d2b/a10391.html">ScriptObject</a></td><td class="entry"><span class="mlabel">protected</span><span class="mlabel">virtual</span></td></tr>
-</table></div><!-- contents -->
+<p><code>#include &quot;<a class="el" href="../../">LFGPlayerData.h</a>&quot;</code></p>
+<table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
+Public Member Functions</h2></td></tr>
+<tr class="memitem:ad706491892b7287d613887448e89e202"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d20/a07952.html#ad706491892b7287d613887448e89e202">LfgPlayerData</a> ()</td></tr>
+<tr class="separator:ad706491892b7287d613887448e89e202"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad55f230b10e6a958a03af4d14b71a5e6"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d20/a07952.html#ad55f230b10e6a958a03af4d14b71a5e6">~LfgPlayerData</a> ()</td></tr>
+<tr class="separator:ad55f230b10e6a958a03af4d14b71a5e6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a59d7e2f5fd939117fc982a49aa8332e9"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d20/a07952.html#a59d7e2f5fd939117fc982a49aa8332e9">SetState</a> (<a class="el" href="../../d0/de6/a04814.html#a246dcd646c556ecaff639514ef9a80bd">LfgState</a> state)</td></tr>
+<tr class="separator:a59d7e2f5fd939117fc982a49aa8332e9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6ae73bfc834b52c6ceefc733f16093dc"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d20/a07952.html#a6ae73bfc834b52c6ceefc733f16093dc">RestoreState</a> ()</td></tr>
+<tr class="separator:a6ae73bfc834b52c6ceefc733f16093dc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8d62d0991ee1d5d1457758b9bc8db7fc"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d20/a07952.html#a8d62d0991ee1d5d1457758b9bc8db7fc">SetLockedDungeons</a> (<a class="el" href="../../d0/de6/a04814.html#a7ad66b24daa968c5b9615224ddc10659">LfgLockMap</a> const &amp;lock)</td></tr>
+<tr class="separator:a8d62d0991ee1d5d1457758b9bc8db7fc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae6808d69731bb6c831800df170cb9540"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d20/a07952.html#ae6808d69731bb6c831800df170cb9540">SetTeam</a> (<a class="el" href="../../de/de1/a00065.html#abfb349736a7699bdfcdb134035ef7865">TeamId</a> teamId)</td></tr>
+<tr class="separator:ae6808d69731bb6c831800df170cb9540"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a73282cd56d37152ac240dd1ebe8de534"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d20/a07952.html#a73282cd56d37152ac240dd1ebe8de534">SetGroup</a> (<a class="el" href="../../d0/d9f/a08400.html">ObjectGuid</a> group)</td></tr>
+<tr class="separator:a73282cd56d37152ac240dd1ebe8de534"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a756f52515fe8e0501f11e38ca9278919"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d20/a07952.html#a756f52515fe8e0501f11e38ca9278919">SetRandomPlayersCount</a> (<a class="el" href="../../db/daf/a04412.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> count)</td></tr>
+<tr class="separator:a756f52515fe8e0501f11e38ca9278919"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad2c983e3fef664ce246f8b85ed74729c"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d20/a07952.html#ad2c983e3fef664ce246f8b85ed74729c">SetRoles</a> (<a class="el" href="../../db/daf/a04412.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> roles)</td></tr>
+<tr class="separator:ad2c983e3fef664ce246f8b85ed74729c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:add9dbb98d84003e8da0f748046fe3d1d"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d20/a07952.html#add9dbb98d84003e8da0f748046fe3d1d">SetComment</a> (std::string const &amp;comment)</td></tr>
+<tr class="separator:add9dbb98d84003e8da0f748046fe3d1d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a868de4b6386494041c166801ba9649d4"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d20/a07952.html#a868de4b6386494041c166801ba9649d4">SetSelectedDungeons</a> (const <a class="el" href="../../d0/de6/a04814.html#a7f47ec56c1412d2da0ff629b760e7f5f">LfgDungeonSet</a> &amp;dungeons)</td></tr>
+<tr class="separator:a868de4b6386494041c166801ba9649d4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac9cce4ac56745354fd684e8c61a10caf"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/de6/a04814.html#a246dcd646c556ecaff639514ef9a80bd">LfgState</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d20/a07952.html#ac9cce4ac56745354fd684e8c61a10caf">GetState</a> () const</td></tr>
+<tr class="separator:ac9cce4ac56745354fd684e8c61a10caf"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3499b49fcb473dbeee324cbaf4bce7c4"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/de6/a04814.html#a246dcd646c556ecaff639514ef9a80bd">LfgState</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d20/a07952.html#a3499b49fcb473dbeee324cbaf4bce7c4">GetOldState</a> () const</td></tr>
+<tr class="separator:a3499b49fcb473dbeee324cbaf4bce7c4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a83b37dec8bf335d712ab984264acc9ab"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/de6/a04814.html#a7ad66b24daa968c5b9615224ddc10659">LfgLockMap</a> const &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d20/a07952.html#a83b37dec8bf335d712ab984264acc9ab">GetLockedDungeons</a> () const</td></tr>
+<tr class="separator:a83b37dec8bf335d712ab984264acc9ab"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a30f2af0f974f5c5d6ece2950c32bddc1"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/de1/a00065.html#abfb349736a7699bdfcdb134035ef7865">TeamId</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d20/a07952.html#a30f2af0f974f5c5d6ece2950c32bddc1">GetTeam</a> () const</td></tr>
+<tr class="separator:a30f2af0f974f5c5d6ece2950c32bddc1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a460906251286d0472525b851196f0c9b"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d9f/a08400.html">ObjectGuid</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d20/a07952.html#a460906251286d0472525b851196f0c9b">GetGroup</a> () const</td></tr>
+<tr class="separator:a460906251286d0472525b851196f0c9b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab041def3d1d08645d14af03b0e9ac6cb"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/daf/a04412.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d20/a07952.html#ab041def3d1d08645d14af03b0e9ac6cb">GetRandomPlayersCount</a> () const</td></tr>
+<tr class="separator:ab041def3d1d08645d14af03b0e9ac6cb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5754695f67df76aaa0940ff125b2f397"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d20/a07952.html#a5754695f67df76aaa0940ff125b2f397">SetCanOverrideRBState</a> (bool val)</td></tr>
+<tr class="separator:a5754695f67df76aaa0940ff125b2f397"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4570985d3990f9d85ecb030a1f2a4f82"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d20/a07952.html#a4570985d3990f9d85ecb030a1f2a4f82">CanOverrideRBState</a> () const</td></tr>
+<tr class="separator:a4570985d3990f9d85ecb030a1f2a4f82"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac7432bb4d4a18d20bea1eab30eb79f09"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/daf/a04412.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d20/a07952.html#ac7432bb4d4a18d20bea1eab30eb79f09">GetRoles</a> () const</td></tr>
+<tr class="separator:ac7432bb4d4a18d20bea1eab30eb79f09"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a57d868f67dda5f89ff6582b87db12128"><td class="memItemLeft" align="right" valign="top">std::string const &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d20/a07952.html#a57d868f67dda5f89ff6582b87db12128">GetComment</a> () const</td></tr>
+<tr class="separator:a57d868f67dda5f89ff6582b87db12128"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af10339209e14c5c43907f42385226409"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/de6/a04814.html#a7f47ec56c1412d2da0ff629b760e7f5f">LfgDungeonSet</a> const &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d20/a07952.html#af10339209e14c5c43907f42385226409">GetSelectedDungeons</a> () const</td></tr>
+<tr class="separator:af10339209e14c5c43907f42385226409"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
+Private Attributes</h2></td></tr>
+<tr class="memitem:a69d6593c13826e56b79340966b4adebe"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/de6/a04814.html#a246dcd646c556ecaff639514ef9a80bd">LfgState</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d20/a07952.html#a69d6593c13826e56b79340966b4adebe">m_State</a></td></tr>
+<tr class="memdesc:a69d6593c13826e56b79340966b4adebe"><td class="mdescLeft">&#160;</td><td class="mdescRight">State if group in LFG.  <a href="../../d0/d20/a07952.html#a69d6593c13826e56b79340966b4adebe">More...</a><br /></td></tr>
+<tr class="separator:a69d6593c13826e56b79340966b4adebe"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1bd7c3b7ca93815a019ae9281d375177"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/de6/a04814.html#a246dcd646c556ecaff639514ef9a80bd">LfgState</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d20/a07952.html#a1bd7c3b7ca93815a019ae9281d375177">m_OldState</a></td></tr>
+<tr class="memdesc:a1bd7c3b7ca93815a019ae9281d375177"><td class="mdescLeft">&#160;</td><td class="mdescRight">Old State - Used to restore state after failed Rolecheck/Proposal.  <a href="../../d0/d20/a07952.html#a1bd7c3b7ca93815a019ae9281d375177">More...</a><br /></td></tr>
+<tr class="separator:a1bd7c3b7ca93815a019ae9281d375177"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad36ea91d015c3eb647834e9f3a8a1c39"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d20/a07952.html#ad36ea91d015c3eb647834e9f3a8a1c39">m_canOverrideRBState</a></td></tr>
+<tr class="memdesc:ad36ea91d015c3eb647834e9f3a8a1c39"><td class="mdescLeft">&#160;</td><td class="mdescRight">pussywizard  <a href="../../d0/d20/a07952.html#ad36ea91d015c3eb647834e9f3a8a1c39">More...</a><br /></td></tr>
+<tr class="separator:ad36ea91d015c3eb647834e9f3a8a1c39"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a85c836d9524e9c305c02e8cae56be4ad"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/de6/a04814.html#a7ad66b24daa968c5b9615224ddc10659">LfgLockMap</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d20/a07952.html#a85c836d9524e9c305c02e8cae56be4ad">m_LockedDungeons</a></td></tr>
+<tr class="memdesc:a85c836d9524e9c305c02e8cae56be4ad"><td class="mdescLeft">&#160;</td><td class="mdescRight">Dungeons player can't do and reason.  <a href="../../d0/d20/a07952.html#a85c836d9524e9c305c02e8cae56be4ad">More...</a><br /></td></tr>
+<tr class="separator:a85c836d9524e9c305c02e8cae56be4ad"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad23c0a5be55ea0b546994dcc670e3462"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/de1/a00065.html#abfb349736a7699bdfcdb134035ef7865">TeamId</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d20/a07952.html#ad23c0a5be55ea0b546994dcc670e3462">m_TeamId</a></td></tr>
+<tr class="memdesc:ad23c0a5be55ea0b546994dcc670e3462"><td class="mdescLeft">&#160;</td><td class="mdescRight"><a class="el" href="../../da/dd6/a08596.html">Player</a> team - determines the queue to join.  <a href="../../d0/d20/a07952.html#ad23c0a5be55ea0b546994dcc670e3462">More...</a><br /></td></tr>
+<tr class="separator:ad23c0a5be55ea0b546994dcc670e3462"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a625b6a6644dc56ae957656876130997a"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d9f/a08400.html">ObjectGuid</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d20/a07952.html#a625b6a6644dc56ae957656876130997a">m_Group</a></td></tr>
+<tr class="memdesc:a625b6a6644dc56ae957656876130997a"><td class="mdescLeft">&#160;</td><td class="mdescRight">Original group of player when joined LFG.  <a href="../../d0/d20/a07952.html#a625b6a6644dc56ae957656876130997a">More...</a><br /></td></tr>
+<tr class="separator:a625b6a6644dc56ae957656876130997a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a260d81d65194b4d9ff962e535f9c2315"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/daf/a04412.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d20/a07952.html#a260d81d65194b4d9ff962e535f9c2315">m_randomPlayers</a></td></tr>
+<tr class="memdesc:a260d81d65194b4d9ff962e535f9c2315"><td class="mdescLeft">&#160;</td><td class="mdescRight">Xinef: Amount of random players you raid with.  <a href="../../d0/d20/a07952.html#a260d81d65194b4d9ff962e535f9c2315">More...</a><br /></td></tr>
+<tr class="separator:a260d81d65194b4d9ff962e535f9c2315"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a44134cf95a6a3dd4e313c95eb327cdbc"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/daf/a04412.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d20/a07952.html#a44134cf95a6a3dd4e313c95eb327cdbc">m_Roles</a></td></tr>
+<tr class="memdesc:a44134cf95a6a3dd4e313c95eb327cdbc"><td class="mdescLeft">&#160;</td><td class="mdescRight">Roles the player selected when joined LFG.  <a href="../../d0/d20/a07952.html#a44134cf95a6a3dd4e313c95eb327cdbc">More...</a><br /></td></tr>
+<tr class="separator:a44134cf95a6a3dd4e313c95eb327cdbc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa1fae4ea5d431ae44dd7b87f58018402"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d20/a07952.html#aa1fae4ea5d431ae44dd7b87f58018402">m_Comment</a></td></tr>
+<tr class="memdesc:aa1fae4ea5d431ae44dd7b87f58018402"><td class="mdescLeft">&#160;</td><td class="mdescRight"><a class="el" href="../../da/dd6/a08596.html">Player</a> comment used when joined LFG.  <a href="../../d0/d20/a07952.html#aa1fae4ea5d431ae44dd7b87f58018402">More...</a><br /></td></tr>
+<tr class="separator:aa1fae4ea5d431ae44dd7b87f58018402"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a89acffbc489cf28b9949065e0f6c5c03"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/de6/a04814.html#a7f47ec56c1412d2da0ff629b760e7f5f">LfgDungeonSet</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d20/a07952.html#a89acffbc489cf28b9949065e0f6c5c03">m_SelectedDungeons</a></td></tr>
+<tr class="memdesc:a89acffbc489cf28b9949065e0f6c5c03"><td class="mdescLeft">&#160;</td><td class="mdescRight">Selected Dungeons when joined LFG.  <a href="../../d0/d20/a07952.html#a89acffbc489cf28b9949065e0f6c5c03">More...</a><br /></td></tr>
+<tr class="separator:a89acffbc489cf28b9949065e0f6c5c03"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table>
+<a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
+<div class="textblock"><p >Stores all lfg data needed about the player. </p>
+</div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a id="ad706491892b7287d613887448e89e202" name="ad706491892b7287d613887448e89e202"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad706491892b7287d613887448e89e202">&#9670;&#160;</a></span>LfgPlayerData()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">lfg::LfgPlayerData::LfgPlayerData </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   23</span>                                : <a class="code hl_variable" href="../../d0/d20/a07952.html#a69d6593c13826e56b79340966b4adebe">m_State</a>(<a class="code hl_enumvalue" href="../../d0/de6/a04814.html#a246dcd646c556ecaff639514ef9a80bdacfbad3fe693a63f528f32509a78c79f0">LFG_STATE_NONE</a>), <a class="code hl_variable" href="../../d0/d20/a07952.html#a1bd7c3b7ca93815a019ae9281d375177">m_OldState</a>(<a class="code hl_enumvalue" href="../../d0/de6/a04814.html#a246dcd646c556ecaff639514ef9a80bdacfbad3fe693a63f528f32509a78c79f0">LFG_STATE_NONE</a>), <a class="code hl_variable" href="../../d0/d20/a07952.html#ad36ea91d015c3eb647834e9f3a8a1c39">m_canOverrideRBState</a>(<span class="keyword">false</span>),</div>
+<div class="line"><span class="lineno">   24</span>        <a class="code hl_variable" href="../../d0/d20/a07952.html#ad23c0a5be55ea0b546994dcc670e3462">m_TeamId</a>(<a class="code hl_enumvalue" href="../../de/de1/a00065.html#abfb349736a7699bdfcdb134035ef7865a77ec52d5d5f9771c1ac94fddaf7fb84e">TEAM_ALLIANCE</a>), <a class="code hl_variable" href="../../d0/d20/a07952.html#a44134cf95a6a3dd4e313c95eb327cdbc">m_Roles</a>(0), <a class="code hl_variable" href="../../d0/d20/a07952.html#aa1fae4ea5d431ae44dd7b87f58018402">m_Comment</a>(<span class="stringliteral">&quot;&quot;</span>)</div>
+<div class="line"><span class="lineno">   25</span>    {}</div>
+<div class="ttc" id="aa00065_html_abfb349736a7699bdfcdb134035ef7865a77ec52d5d5f9771c1ac94fddaf7fb84e"><div class="ttname"><a href="../../de/de1/a00065.html#abfb349736a7699bdfcdb134035ef7865a77ec52d5d5f9771c1ac94fddaf7fb84e">TEAM_ALLIANCE</a></div><div class="ttdeci">@ TEAM_ALLIANCE</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:760</div></div>
+<div class="ttc" id="aa04814_html_a246dcd646c556ecaff639514ef9a80bdacfbad3fe693a63f528f32509a78c79f0"><div class="ttname"><a href="../../d0/de6/a04814.html#a246dcd646c556ecaff639514ef9a80bdacfbad3fe693a63f528f32509a78c79f0">lfg::LFG_STATE_NONE</a></div><div class="ttdeci">@ LFG_STATE_NONE</div><div class="ttdef"><b>Definition:</b> LFG.h:68</div></div>
+<div class="ttc" id="aa07952_html_a1bd7c3b7ca93815a019ae9281d375177"><div class="ttname"><a href="../../d0/d20/a07952.html#a1bd7c3b7ca93815a019ae9281d375177">lfg::LfgPlayerData::m_OldState</a></div><div class="ttdeci">LfgState m_OldState</div><div class="ttdoc">Old State - Used to restore state after failed Rolecheck/Proposal.</div><div class="ttdef"><b>Definition:</b> LFGPlayerData.h:68</div></div>
+<div class="ttc" id="aa07952_html_a44134cf95a6a3dd4e313c95eb327cdbc"><div class="ttname"><a href="../../d0/d20/a07952.html#a44134cf95a6a3dd4e313c95eb327cdbc">lfg::LfgPlayerData::m_Roles</a></div><div class="ttdeci">uint8 m_Roles</div><div class="ttdoc">Roles the player selected when joined LFG.</div><div class="ttdef"><b>Definition:</b> LFGPlayerData.h:77</div></div>
+<div class="ttc" id="aa07952_html_a69d6593c13826e56b79340966b4adebe"><div class="ttname"><a href="../../d0/d20/a07952.html#a69d6593c13826e56b79340966b4adebe">lfg::LfgPlayerData::m_State</a></div><div class="ttdeci">LfgState m_State</div><div class="ttdoc">State if group in LFG.</div><div class="ttdef"><b>Definition:</b> LFGPlayerData.h:67</div></div>
+<div class="ttc" id="aa07952_html_aa1fae4ea5d431ae44dd7b87f58018402"><div class="ttname"><a href="../../d0/d20/a07952.html#aa1fae4ea5d431ae44dd7b87f58018402">lfg::LfgPlayerData::m_Comment</a></div><div class="ttdeci">std::string m_Comment</div><div class="ttdoc">Player comment used when joined LFG.</div><div class="ttdef"><b>Definition:</b> LFGPlayerData.h:78</div></div>
+<div class="ttc" id="aa07952_html_ad23c0a5be55ea0b546994dcc670e3462"><div class="ttname"><a href="../../d0/d20/a07952.html#ad23c0a5be55ea0b546994dcc670e3462">lfg::LfgPlayerData::m_TeamId</a></div><div class="ttdeci">TeamId m_TeamId</div><div class="ttdoc">Player team - determines the queue to join.</div><div class="ttdef"><b>Definition:</b> LFGPlayerData.h:72</div></div>
+<div class="ttc" id="aa07952_html_ad36ea91d015c3eb647834e9f3a8a1c39"><div class="ttname"><a href="../../d0/d20/a07952.html#ad36ea91d015c3eb647834e9f3a8a1c39">lfg::LfgPlayerData::m_canOverrideRBState</a></div><div class="ttdeci">bool m_canOverrideRBState</div><div class="ttdoc">pussywizard</div><div class="ttdef"><b>Definition:</b> LFGPlayerData.h:69</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="ad55f230b10e6a958a03af4d14b71a5e6" name="ad55f230b10e6a958a03af4d14b71a5e6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad55f230b10e6a958a03af4d14b71a5e6">&#9670;&#160;</a></span>~LfgPlayerData()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">lfg::LfgPlayerData::~LfgPlayerData </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   28</span>    {</div>
+<div class="line"><span class="lineno">   29</span>    }</div>
+</div><!-- fragment -->
+</div>
+</div>
+<h2 class="groupheader">Member Function Documentation</h2>
+<a id="a4570985d3990f9d85ecb030a1f2a4f82" name="a4570985d3990f9d85ecb030a1f2a4f82"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4570985d3990f9d85ecb030a1f2a4f82">&#9670;&#160;</a></span>CanOverrideRBState()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool lfg::LfgPlayerData::CanOverrideRBState </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   58</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d0/d20/a07952.html#ad36ea91d015c3eb647834e9f3a8a1c39">m_canOverrideRBState</a>; }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00069">m_canOverrideRBState</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00052">RestoreState()</a>, and <a class="el" href="../../#l00031">SetState()</a>.</p>
+
+</div>
+</div>
+<a id="a57d868f67dda5f89ff6582b87db12128" name="a57d868f67dda5f89ff6582b87db12128"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a57d868f67dda5f89ff6582b87db12128">&#9670;&#160;</a></span>GetComment()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::string const  &amp; lfg::LfgPlayerData::GetComment </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  136</span>    {</div>
+<div class="line"><span class="lineno">  137</span>        <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d0/d20/a07952.html#aa1fae4ea5d431ae44dd7b87f58018402">m_Comment</a>;</div>
+<div class="line"><span class="lineno">  138</span>    }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00078">m_Comment</a>.</p>
+
+</div>
+</div>
+<a id="a460906251286d0472525b851196f0c9b" name="a460906251286d0472525b851196f0c9b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a460906251286d0472525b851196f0c9b">&#9670;&#160;</a></span>GetGroup()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d0/d9f/a08400.html">ObjectGuid</a> lfg::LfgPlayerData::GetGroup </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  126</span>    {</div>
+<div class="line"><span class="lineno">  127</span>        <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d0/d20/a07952.html#a625b6a6644dc56ae957656876130997a">m_Group</a>;</div>
+<div class="line"><span class="lineno">  128</span>    }</div>
+<div class="ttc" id="aa07952_html_a625b6a6644dc56ae957656876130997a"><div class="ttname"><a href="../../d0/d20/a07952.html#a625b6a6644dc56ae957656876130997a">lfg::LfgPlayerData::m_Group</a></div><div class="ttdeci">ObjectGuid m_Group</div><div class="ttdoc">Original group of player when joined LFG.</div><div class="ttdef"><b>Definition:</b> LFGPlayerData.h:73</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00073">m_Group</a>.</p>
+
+</div>
+</div>
+<a id="a83b37dec8bf335d712ab984264acc9ab" name="a83b37dec8bf335d712ab984264acc9ab"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a83b37dec8bf335d712ab984264acc9ab">&#9670;&#160;</a></span>GetLockedDungeons()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">const <a class="el" href="../../d0/de6/a04814.html#a7ad66b24daa968c5b9615224ddc10659">LfgLockMap</a> &amp; lfg::LfgPlayerData::GetLockedDungeons </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  116</span>    {</div>
+<div class="line"><span class="lineno">  117</span>        <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d0/d20/a07952.html#a85c836d9524e9c305c02e8cae56be4ad">m_LockedDungeons</a>;</div>
+<div class="line"><span class="lineno">  118</span>    }</div>
+<div class="ttc" id="aa07952_html_a85c836d9524e9c305c02e8cae56be4ad"><div class="ttname"><a href="../../d0/d20/a07952.html#a85c836d9524e9c305c02e8cae56be4ad">lfg::LfgPlayerData::m_LockedDungeons</a></div><div class="ttdeci">LfgLockMap m_LockedDungeons</div><div class="ttdoc">Dungeons player can't do and reason.</div><div class="ttdef"><b>Definition:</b> LFGPlayerData.h:71</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00071">m_LockedDungeons</a>.</p>
+
+</div>
+</div>
+<a id="a3499b49fcb473dbeee324cbaf4bce7c4" name="a3499b49fcb473dbeee324cbaf4bce7c4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3499b49fcb473dbeee324cbaf4bce7c4">&#9670;&#160;</a></span>GetOldState()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d0/de6/a04814.html#a246dcd646c556ecaff639514ef9a80bd">LfgState</a> lfg::LfgPlayerData::GetOldState </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  111</span>    {</div>
+<div class="line"><span class="lineno">  112</span>        <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d0/d20/a07952.html#a1bd7c3b7ca93815a019ae9281d375177">m_OldState</a>;</div>
+<div class="line"><span class="lineno">  113</span>    }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00068">m_OldState</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l02463">lfg::LFGMgr::SetState()</a>.</p>
+
+</div>
+</div>
+<a id="ab041def3d1d08645d14af03b0e9ac6cb" name="ab041def3d1d08645d14af03b0e9ac6cb"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab041def3d1d08645d14af03b0e9ac6cb">&#9670;&#160;</a></span>GetRandomPlayersCount()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../db/daf/a04412.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> lfg::LfgPlayerData::GetRandomPlayersCount </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  101</span>    {</div>
+<div class="line"><span class="lineno">  102</span>        <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d0/d20/a07952.html#a260d81d65194b4d9ff962e535f9c2315">m_randomPlayers</a>;</div>
+<div class="line"><span class="lineno">  103</span>    }</div>
+<div class="ttc" id="aa07952_html_a260d81d65194b4d9ff962e535f9c2315"><div class="ttname"><a href="../../d0/d20/a07952.html#a260d81d65194b4d9ff962e535f9c2315">lfg::LfgPlayerData::m_randomPlayers</a></div><div class="ttdeci">uint8 m_randomPlayers</div><div class="ttdoc">Xinef: Amount of random players you raid with.</div><div class="ttdef"><b>Definition:</b> LFGPlayerData.h:74</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00074">m_randomPlayers</a>.</p>
+
+</div>
+</div>
+<a id="ac7432bb4d4a18d20bea1eab30eb79f09" name="ac7432bb4d4a18d20bea1eab30eb79f09"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac7432bb4d4a18d20bea1eab30eb79f09">&#9670;&#160;</a></span>GetRoles()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../db/daf/a04412.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> lfg::LfgPlayerData::GetRoles </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  131</span>    {</div>
+<div class="line"><span class="lineno">  132</span>        <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d0/d20/a07952.html#a44134cf95a6a3dd4e313c95eb327cdbc">m_Roles</a>;</div>
+<div class="line"><span class="lineno">  133</span>    }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00077">m_Roles</a>.</p>
+
+</div>
+</div>
+<a id="af10339209e14c5c43907f42385226409" name="af10339209e14c5c43907f42385226409"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af10339209e14c5c43907f42385226409">&#9670;&#160;</a></span>GetSelectedDungeons()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d0/de6/a04814.html#a7f47ec56c1412d2da0ff629b760e7f5f">LfgDungeonSet</a> const  &amp; lfg::LfgPlayerData::GetSelectedDungeons </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  141</span>    {</div>
+<div class="line"><span class="lineno">  142</span>        <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d0/d20/a07952.html#a89acffbc489cf28b9949065e0f6c5c03">m_SelectedDungeons</a>;</div>
+<div class="line"><span class="lineno">  143</span>    }</div>
+<div class="ttc" id="aa07952_html_a89acffbc489cf28b9949065e0f6c5c03"><div class="ttname"><a href="../../d0/d20/a07952.html#a89acffbc489cf28b9949065e0f6c5c03">lfg::LfgPlayerData::m_SelectedDungeons</a></div><div class="ttdeci">LfgDungeonSet m_SelectedDungeons</div><div class="ttdoc">Selected Dungeons when joined LFG.</div><div class="ttdef"><b>Definition:</b> LFGPlayerData.h:79</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00079">m_SelectedDungeons</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l02744">lfg::LFGMgr::GetLfgStatus()</a>.</p>
+
+</div>
+</div>
+<a id="ac9cce4ac56745354fd684e8c61a10caf" name="ac9cce4ac56745354fd684e8c61a10caf"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac9cce4ac56745354fd684e8c61a10caf">&#9670;&#160;</a></span>GetState()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d0/de6/a04814.html#a246dcd646c556ecaff639514ef9a80bd">LfgState</a> lfg::LfgPlayerData::GetState </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  106</span>    {</div>
+<div class="line"><span class="lineno">  107</span>        <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d0/d20/a07952.html#a69d6593c13826e56b79340966b4adebe">m_State</a>;</div>
+<div class="line"><span class="lineno">  108</span>    }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00067">m_State</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l02744">lfg::LFGMgr::GetLfgStatus()</a>, and <a class="el" href="../../#l02463">lfg::LFGMgr::SetState()</a>.</p>
+
+</div>
+</div>
+<a id="a30f2af0f974f5c5d6ece2950c32bddc1" name="a30f2af0f974f5c5d6ece2950c32bddc1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a30f2af0f974f5c5d6ece2950c32bddc1">&#9670;&#160;</a></span>GetTeam()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../de/de1/a00065.html#abfb349736a7699bdfcdb134035ef7865">TeamId</a> lfg::LfgPlayerData::GetTeam </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  121</span>    {</div>
+<div class="line"><span class="lineno">  122</span>        <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d0/d20/a07952.html#ad23c0a5be55ea0b546994dcc670e3462">m_TeamId</a>;</div>
+<div class="line"><span class="lineno">  123</span>    }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00072">m_TeamId</a>.</p>
+
+</div>
+</div>
+<a id="a6ae73bfc834b52c6ceefc733f16093dc" name="a6ae73bfc834b52c6ceefc733f16093dc"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6ae73bfc834b52c6ceefc733f16093dc">&#9670;&#160;</a></span>RestoreState()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void lfg::LfgPlayerData::RestoreState </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   53</span>    {</div>
+<div class="line"><span class="lineno">   54</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d0/d20/a07952.html#a69d6593c13826e56b79340966b4adebe">m_State</a> == <a class="code hl_enumvalue" href="../../d0/de6/a04814.html#a246dcd646c556ecaff639514ef9a80bda07544e99a884feb5e7d9bc8d9b336167">LFG_STATE_RAIDBROWSER</a> &amp;&amp; <a class="code hl_variable" href="../../d0/d20/a07952.html#a1bd7c3b7ca93815a019ae9281d375177">m_OldState</a> != <a class="code hl_enumvalue" href="../../d0/de6/a04814.html#a246dcd646c556ecaff639514ef9a80bda07544e99a884feb5e7d9bc8d9b336167">LFG_STATE_RAIDBROWSER</a> &amp;&amp; !<a class="code hl_function" href="../../d0/d20/a07952.html#a4570985d3990f9d85ecb030a1f2a4f82">CanOverrideRBState</a>())</div>
+<div class="line"><span class="lineno">   55</span>            <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">   56</span> </div>
+<div class="line"><span class="lineno">   57</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d0/d20/a07952.html#a1bd7c3b7ca93815a019ae9281d375177">m_OldState</a> == <a class="code hl_enumvalue" href="../../d0/de6/a04814.html#a246dcd646c556ecaff639514ef9a80bdacfbad3fe693a63f528f32509a78c79f0">LFG_STATE_NONE</a>)</div>
+<div class="line"><span class="lineno">   58</span>        {</div>
+<div class="line"><span class="lineno">   59</span>            <a class="code hl_variable" href="../../d0/d20/a07952.html#a89acffbc489cf28b9949065e0f6c5c03">m_SelectedDungeons</a>.clear();</div>
+<div class="line"><span class="lineno">   60</span>            <a class="code hl_variable" href="../../d0/d20/a07952.html#a44134cf95a6a3dd4e313c95eb327cdbc">m_Roles</a> = 0;</div>
+<div class="line"><span class="lineno">   61</span>        }</div>
+<div class="line"><span class="lineno">   62</span>        <a class="code hl_variable" href="../../d0/d20/a07952.html#a69d6593c13826e56b79340966b4adebe">m_State</a> = <a class="code hl_variable" href="../../d0/d20/a07952.html#a1bd7c3b7ca93815a019ae9281d375177">m_OldState</a>;</div>
+<div class="line"><span class="lineno">   63</span>    }</div>
+<div class="ttc" id="aa04814_html_a246dcd646c556ecaff639514ef9a80bda07544e99a884feb5e7d9bc8d9b336167"><div class="ttname"><a href="../../d0/de6/a04814.html#a246dcd646c556ecaff639514ef9a80bda07544e99a884feb5e7d9bc8d9b336167">lfg::LFG_STATE_RAIDBROWSER</a></div><div class="ttdeci">@ LFG_STATE_RAIDBROWSER</div><div class="ttdef"><b>Definition:</b> LFG.h:75</div></div>
+<div class="ttc" id="aa07952_html_a4570985d3990f9d85ecb030a1f2a4f82"><div class="ttname"><a href="../../d0/d20/a07952.html#a4570985d3990f9d85ecb030a1f2a4f82">lfg::LfgPlayerData::CanOverrideRBState</a></div><div class="ttdeci">bool CanOverrideRBState() const</div><div class="ttdef"><b>Definition:</b> LFGPlayerData.h:58</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00058">CanOverrideRBState()</a>, <a class="el" href="../../#l00068">lfg::LFG_STATE_NONE</a>, <a class="el" href="../../#l00075">lfg::LFG_STATE_RAIDBROWSER</a>, <a class="el" href="../../#l00068">m_OldState</a>, <a class="el" href="../../#l00077">m_Roles</a>, <a class="el" href="../../#l00079">m_SelectedDungeons</a>, and <a class="el" href="../../#l00067">m_State</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l02434">lfg::LFGMgr::RestoreState()</a>.</p>
+
+</div>
+</div>
+<a id="a5754695f67df76aaa0940ff125b2f397" name="a5754695f67df76aaa0940ff125b2f397"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5754695f67df76aaa0940ff125b2f397">&#9670;&#160;</a></span>SetCanOverrideRBState()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void lfg::LfgPlayerData::SetCanOverrideRBState </td>
+          <td>(</td>
+          <td class="paramtype">bool&#160;</td>
+          <td class="paramname"><em>val</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   57</span>{ <a class="code hl_variable" href="../../d0/d20/a07952.html#ad36ea91d015c3eb647834e9f3a8a1c39">m_canOverrideRBState</a> = val; }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00069">m_canOverrideRBState</a>.</p>
+
+</div>
+</div>
+<a id="add9dbb98d84003e8da0f748046fe3d1d" name="add9dbb98d84003e8da0f748046fe3d1d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#add9dbb98d84003e8da0f748046fe3d1d">&#9670;&#160;</a></span>SetComment()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void lfg::LfgPlayerData::SetComment </td>
+          <td>(</td>
+          <td class="paramtype">std::string const &amp;&#160;</td>
+          <td class="paramname"><em>comment</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   86</span>    {</div>
+<div class="line"><span class="lineno">   87</span>        <a class="code hl_variable" href="../../d0/d20/a07952.html#aa1fae4ea5d431ae44dd7b87f58018402">m_Comment</a> = comment;</div>
+<div class="line"><span class="lineno">   88</span>    }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00078">m_Comment</a>.</p>
+
+</div>
+</div>
+<a id="a73282cd56d37152ac240dd1ebe8de534" name="a73282cd56d37152ac240dd1ebe8de534"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a73282cd56d37152ac240dd1ebe8de534">&#9670;&#160;</a></span>SetGroup()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void lfg::LfgPlayerData::SetGroup </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d0/d9f/a08400.html">ObjectGuid</a>&#160;</td>
+          <td class="paramname"><em>group</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   76</span>    {</div>
+<div class="line"><span class="lineno">   77</span>        <a class="code hl_variable" href="../../d0/d20/a07952.html#a625b6a6644dc56ae957656876130997a">m_Group</a> = group;</div>
+<div class="line"><span class="lineno">   78</span>    }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00073">m_Group</a>.</p>
+
+</div>
+</div>
+<a id="a8d62d0991ee1d5d1457758b9bc8db7fc" name="a8d62d0991ee1d5d1457758b9bc8db7fc"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8d62d0991ee1d5d1457758b9bc8db7fc">&#9670;&#160;</a></span>SetLockedDungeons()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void lfg::LfgPlayerData::SetLockedDungeons </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d0/de6/a04814.html#a7ad66b24daa968c5b9615224ddc10659">LfgLockMap</a> const &amp;&#160;</td>
+          <td class="paramname"><em>lock</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   66</span>    {</div>
+<div class="line"><span class="lineno">   67</span>        <a class="code hl_variable" href="../../d0/d20/a07952.html#a85c836d9524e9c305c02e8cae56be4ad">m_LockedDungeons</a> = lockStatus;</div>
+<div class="line"><span class="lineno">   68</span>    }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00071">m_LockedDungeons</a>.</p>
+
+</div>
+</div>
+<a id="a756f52515fe8e0501f11e38ca9278919" name="a756f52515fe8e0501f11e38ca9278919"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a756f52515fe8e0501f11e38ca9278919">&#9670;&#160;</a></span>SetRandomPlayersCount()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void lfg::LfgPlayerData::SetRandomPlayersCount </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../db/daf/a04412.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td>
+          <td class="paramname"><em>count</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   96</span>    {</div>
+<div class="line"><span class="lineno">   97</span>        <a class="code hl_variable" href="../../d0/d20/a07952.html#a260d81d65194b4d9ff962e535f9c2315">m_randomPlayers</a> = count;</div>
+<div class="line"><span class="lineno">   98</span>    }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00074">m_randomPlayers</a>.</p>
+
+</div>
+</div>
+<a id="ad2c983e3fef664ce246f8b85ed74729c" name="ad2c983e3fef664ce246f8b85ed74729c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad2c983e3fef664ce246f8b85ed74729c">&#9670;&#160;</a></span>SetRoles()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void lfg::LfgPlayerData::SetRoles </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../db/daf/a04412.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td>
+          <td class="paramname"><em>roles</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   81</span>    {</div>
+<div class="line"><span class="lineno">   82</span>        <a class="code hl_variable" href="../../d0/d20/a07952.html#a44134cf95a6a3dd4e313c95eb327cdbc">m_Roles</a> = roles;</div>
+<div class="line"><span class="lineno">   83</span>    }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00077">m_Roles</a>.</p>
+
+</div>
+</div>
+<a id="a868de4b6386494041c166801ba9649d4" name="a868de4b6386494041c166801ba9649d4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a868de4b6386494041c166801ba9649d4">&#9670;&#160;</a></span>SetSelectedDungeons()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void lfg::LfgPlayerData::SetSelectedDungeons </td>
+          <td>(</td>
+          <td class="paramtype">const <a class="el" href="../../d0/de6/a04814.html#a7f47ec56c1412d2da0ff629b760e7f5f">LfgDungeonSet</a> &amp;&#160;</td>
+          <td class="paramname"><em>dungeons</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   91</span>    {</div>
+<div class="line"><span class="lineno">   92</span>        <a class="code hl_variable" href="../../d0/d20/a07952.html#a89acffbc489cf28b9949065e0f6c5c03">m_SelectedDungeons</a> = dungeons;</div>
+<div class="line"><span class="lineno">   93</span>    }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00079">m_SelectedDungeons</a>.</p>
+
+</div>
+</div>
+<a id="a59d7e2f5fd939117fc982a49aa8332e9" name="a59d7e2f5fd939117fc982a49aa8332e9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a59d7e2f5fd939117fc982a49aa8332e9">&#9670;&#160;</a></span>SetState()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void lfg::LfgPlayerData::SetState </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d0/de6/a04814.html#a246dcd646c556ecaff639514ef9a80bd">LfgState</a>&#160;</td>
+          <td class="paramname"><em>state</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   32</span>    {</div>
+<div class="line"><span class="lineno">   33</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d0/d20/a07952.html#a69d6593c13826e56b79340966b4adebe">m_State</a> == <a class="code hl_enumvalue" href="../../d0/de6/a04814.html#a246dcd646c556ecaff639514ef9a80bda07544e99a884feb5e7d9bc8d9b336167">LFG_STATE_RAIDBROWSER</a> &amp;&amp; state != <a class="code hl_enumvalue" href="../../d0/de6/a04814.html#a246dcd646c556ecaff639514ef9a80bda07544e99a884feb5e7d9bc8d9b336167">LFG_STATE_RAIDBROWSER</a> &amp;&amp; !<a class="code hl_function" href="../../d0/d20/a07952.html#a4570985d3990f9d85ecb030a1f2a4f82">CanOverrideRBState</a>())</div>
+<div class="line"><span class="lineno">   34</span>            <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">   35</span> </div>
+<div class="line"><span class="lineno">   36</span>        <span class="keywordflow">switch</span> (state)</div>
+<div class="line"><span class="lineno">   37</span>        {</div>
+<div class="line"><span class="lineno">   38</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d0/de6/a04814.html#a246dcd646c556ecaff639514ef9a80bdacfbad3fe693a63f528f32509a78c79f0">LFG_STATE_NONE</a>:</div>
+<div class="line"><span class="lineno">   39</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d0/de6/a04814.html#a246dcd646c556ecaff639514ef9a80bda6a43b274b2bb76912ca0fff4b7fc024d">LFG_STATE_FINISHED_DUNGEON</a>:</div>
+<div class="line"><span class="lineno">   40</span>                <a class="code hl_variable" href="../../d0/d20/a07952.html#a44134cf95a6a3dd4e313c95eb327cdbc">m_Roles</a> = 0;</div>
+<div class="line"><span class="lineno">   41</span>                <a class="code hl_variable" href="../../d0/d20/a07952.html#a89acffbc489cf28b9949065e0f6c5c03">m_SelectedDungeons</a>.clear();</div>
+<div class="line"><span class="lineno">   42</span>                <a class="code hl_variable" href="../../d0/d20/a07952.html#aa1fae4ea5d431ae44dd7b87f58018402">m_Comment</a> = <span class="stringliteral">&quot;&quot;</span>;</div>
+<div class="line"><span class="lineno">   43</span>                [[fallthrough]];</div>
+<div class="line"><span class="lineno">   44</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d0/de6/a04814.html#a246dcd646c556ecaff639514ef9a80bda6e3997033ed801ae9e367d9e213ca2fb">LFG_STATE_DUNGEON</a>:</div>
+<div class="line"><span class="lineno">   45</span>                <a class="code hl_variable" href="../../d0/d20/a07952.html#a1bd7c3b7ca93815a019ae9281d375177">m_OldState</a> = state;</div>
+<div class="line"><span class="lineno">   46</span>                [[fallthrough]];</div>
+<div class="line"><span class="lineno">   47</span>            <span class="keywordflow">default</span>:</div>
+<div class="line"><span class="lineno">   48</span>                <a class="code hl_variable" href="../../d0/d20/a07952.html#a69d6593c13826e56b79340966b4adebe">m_State</a> = state;</div>
+<div class="line"><span class="lineno">   49</span>        }</div>
+<div class="line"><span class="lineno">   50</span>    }</div>
+<div class="ttc" id="aa04814_html_a246dcd646c556ecaff639514ef9a80bda6a43b274b2bb76912ca0fff4b7fc024d"><div class="ttname"><a href="../../d0/de6/a04814.html#a246dcd646c556ecaff639514ef9a80bda6a43b274b2bb76912ca0fff4b7fc024d">lfg::LFG_STATE_FINISHED_DUNGEON</a></div><div class="ttdeci">@ LFG_STATE_FINISHED_DUNGEON</div><div class="ttdef"><b>Definition:</b> LFG.h:74</div></div>
+<div class="ttc" id="aa04814_html_a246dcd646c556ecaff639514ef9a80bda6e3997033ed801ae9e367d9e213ca2fb"><div class="ttname"><a href="../../d0/de6/a04814.html#a246dcd646c556ecaff639514ef9a80bda6e3997033ed801ae9e367d9e213ca2fb">lfg::LFG_STATE_DUNGEON</a></div><div class="ttdeci">@ LFG_STATE_DUNGEON</div><div class="ttdef"><b>Definition:</b> LFG.h:73</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00058">CanOverrideRBState()</a>, <a class="el" href="../../#l00073">lfg::LFG_STATE_DUNGEON</a>, <a class="el" href="../../#l00074">lfg::LFG_STATE_FINISHED_DUNGEON</a>, <a class="el" href="../../#l00068">lfg::LFG_STATE_NONE</a>, <a class="el" href="../../#l00075">lfg::LFG_STATE_RAIDBROWSER</a>, <a class="el" href="../../#l00078">m_Comment</a>, <a class="el" href="../../#l00068">m_OldState</a>, <a class="el" href="../../#l00077">m_Roles</a>, <a class="el" href="../../#l00079">m_SelectedDungeons</a>, and <a class="el" href="../../#l00067">m_State</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l02463">lfg::LFGMgr::SetState()</a>.</p>
+
+</div>
+</div>
+<a id="ae6808d69731bb6c831800df170cb9540" name="ae6808d69731bb6c831800df170cb9540"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae6808d69731bb6c831800df170cb9540">&#9670;&#160;</a></span>SetTeam()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void lfg::LfgPlayerData::SetTeam </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../de/de1/a00065.html#abfb349736a7699bdfcdb134035ef7865">TeamId</a>&#160;</td>
+          <td class="paramname"><em>teamId</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   71</span>    {</div>
+<div class="line"><span class="lineno">   72</span>        <a class="code hl_variable" href="../../d0/d20/a07952.html#ad23c0a5be55ea0b546994dcc670e3462">m_TeamId</a> = teamId;</div>
+<div class="line"><span class="lineno">   73</span>    }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00072">m_TeamId</a>.</p>
+
+</div>
+</div>
+<h2 class="groupheader">Member Data Documentation</h2>
+<a id="ad36ea91d015c3eb647834e9f3a8a1c39" name="ad36ea91d015c3eb647834e9f3a8a1c39"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad36ea91d015c3eb647834e9f3a8a1c39">&#9670;&#160;</a></span>m_canOverrideRBState</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool lfg::LfgPlayerData::m_canOverrideRBState</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>pussywizard </p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00058">CanOverrideRBState()</a>, and <a class="el" href="../../#l00057">SetCanOverrideRBState()</a>.</p>
+
+</div>
+</div>
+<a id="aa1fae4ea5d431ae44dd7b87f58018402" name="aa1fae4ea5d431ae44dd7b87f58018402"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa1fae4ea5d431ae44dd7b87f58018402">&#9670;&#160;</a></span>m_Comment</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::string lfg::LfgPlayerData::m_Comment</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p><a class="el" href="../../da/dd6/a08596.html">Player</a> comment used when joined LFG. </p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00135">GetComment()</a>, <a class="el" href="../../#l00085">SetComment()</a>, and <a class="el" href="../../#l00031">SetState()</a>.</p>
+
+</div>
+</div>
+<a id="a625b6a6644dc56ae957656876130997a" name="a625b6a6644dc56ae957656876130997a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a625b6a6644dc56ae957656876130997a">&#9670;&#160;</a></span>m_Group</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d0/d9f/a08400.html">ObjectGuid</a> lfg::LfgPlayerData::m_Group</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Original group of player when joined LFG. </p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00125">GetGroup()</a>, and <a class="el" href="../../#l00075">SetGroup()</a>.</p>
+
+</div>
+</div>
+<a id="a85c836d9524e9c305c02e8cae56be4ad" name="a85c836d9524e9c305c02e8cae56be4ad"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a85c836d9524e9c305c02e8cae56be4ad">&#9670;&#160;</a></span>m_LockedDungeons</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d0/de6/a04814.html#a7ad66b24daa968c5b9615224ddc10659">LfgLockMap</a> lfg::LfgPlayerData::m_LockedDungeons</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Dungeons player can't do and reason. </p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00115">GetLockedDungeons()</a>, and <a class="el" href="../../#l00065">SetLockedDungeons()</a>.</p>
+
+</div>
+</div>
+<a id="a1bd7c3b7ca93815a019ae9281d375177" name="a1bd7c3b7ca93815a019ae9281d375177"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1bd7c3b7ca93815a019ae9281d375177">&#9670;&#160;</a></span>m_OldState</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d0/de6/a04814.html#a246dcd646c556ecaff639514ef9a80bd">LfgState</a> lfg::LfgPlayerData::m_OldState</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Old State - Used to restore state after failed Rolecheck/Proposal. </p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00110">GetOldState()</a>, <a class="el" href="../../#l00052">RestoreState()</a>, and <a class="el" href="../../#l00031">SetState()</a>.</p>
+
+</div>
+</div>
+<a id="a260d81d65194b4d9ff962e535f9c2315" name="a260d81d65194b4d9ff962e535f9c2315"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a260d81d65194b4d9ff962e535f9c2315">&#9670;&#160;</a></span>m_randomPlayers</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../db/daf/a04412.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> lfg::LfgPlayerData::m_randomPlayers</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Xinef: Amount of random players you raid with. </p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00100">GetRandomPlayersCount()</a>, and <a class="el" href="../../#l00095">SetRandomPlayersCount()</a>.</p>
+
+</div>
+</div>
+<a id="a44134cf95a6a3dd4e313c95eb327cdbc" name="a44134cf95a6a3dd4e313c95eb327cdbc"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a44134cf95a6a3dd4e313c95eb327cdbc">&#9670;&#160;</a></span>m_Roles</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../db/daf/a04412.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> lfg::LfgPlayerData::m_Roles</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Roles the player selected when joined LFG. </p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00130">GetRoles()</a>, <a class="el" href="../../#l00052">RestoreState()</a>, <a class="el" href="../../#l00080">SetRoles()</a>, and <a class="el" href="../../#l00031">SetState()</a>.</p>
+
+</div>
+</div>
+<a id="a89acffbc489cf28b9949065e0f6c5c03" name="a89acffbc489cf28b9949065e0f6c5c03"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a89acffbc489cf28b9949065e0f6c5c03">&#9670;&#160;</a></span>m_SelectedDungeons</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d0/de6/a04814.html#a7f47ec56c1412d2da0ff629b760e7f5f">LfgDungeonSet</a> lfg::LfgPlayerData::m_SelectedDungeons</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Selected Dungeons when joined LFG. </p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00140">GetSelectedDungeons()</a>, <a class="el" href="../../#l00052">RestoreState()</a>, <a class="el" href="../../#l00090">SetSelectedDungeons()</a>, and <a class="el" href="../../#l00031">SetState()</a>.</p>
+
+</div>
+</div>
+<a id="a69d6593c13826e56b79340966b4adebe" name="a69d6593c13826e56b79340966b4adebe"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a69d6593c13826e56b79340966b4adebe">&#9670;&#160;</a></span>m_State</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d0/de6/a04814.html#a246dcd646c556ecaff639514ef9a80bd">LfgState</a> lfg::LfgPlayerData::m_State</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>State if group in LFG. </p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00105">GetState()</a>, <a class="el" href="../../#l00052">RestoreState()</a>, and <a class="el" href="../../#l00031">SetState()</a>.</p>
+
+</div>
+</div>
+<a id="ad23c0a5be55ea0b546994dcc670e3462" name="ad23c0a5be55ea0b546994dcc670e3462"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad23c0a5be55ea0b546994dcc670e3462">&#9670;&#160;</a></span>m_TeamId</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../de/de1/a00065.html#abfb349736a7699bdfcdb134035ef7865">TeamId</a> lfg::LfgPlayerData::m_TeamId</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p><a class="el" href="../../da/dd6/a08596.html">Player</a> team - determines the queue to join. </p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00120">GetTeam()</a>, and <a class="el" href="../../#l00070">SetTeam()</a>.</p>
+
+</div>
+</div>
+</div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Mon Jun 23 2025 20:48:54 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d0/de6/a04814.html">lfg</a></li><li class="navelem"><a class="el" href="../../d0/d20/a07952.html">LfgPlayerData</a></li>
+    <li class="footer">Generated on Mon Jun 30 2025 20:48:22 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

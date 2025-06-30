@@ -1,5 +1,6 @@
 var a22084 =
 [
-    [ "go_brazier", "da/db8/a22084.html#a432a07256fde679a889de7ba0f64f092", null ],
-    [ "OnGossipHello", "da/db8/a22084.html#a3e0be690d58be4d7bbbb5b624ac4bd5b", null ]
+    [ "npc_tournament_training_dummyAI", "d0/dea/a22088.html", "d0/dea/a22088" ],
+    [ "npc_tournament_training_dummy", "da/db8/a22084.html#ab5308cfddfef00da9692dddd21ce4a14", null ],
+    [ "GetAI", "da/db8/a22084.html#a31257c155c3a49c69771156800cf6340", null ]
 ];

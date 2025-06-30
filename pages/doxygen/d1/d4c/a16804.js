@@ -1,6 +1,6 @@
 var a16804 =
 [
-    [ "boss_frostsworn_generalAI", "d0/dd9/a16808.html", "d0/dd9/a16808" ],
-    [ "boss_frostsworn_general", "d1/d4c/a16804.html#a33023712cf056eedfed1cb38e18af5dd", null ],
-    [ "GetAI", "d1/d4c/a16804.html#a8e958e13999f23a81a7230fa9ece276b", null ]
+    [ "npc_ghostly_priestAI", "d0/dd9/a16808.html", "d0/dd9/a16808" ],
+    [ "npc_ghostly_priest", "d1/d4c/a16804.html#a7c03bb327cfc65f4df515969da482ddb", null ],
+    [ "GetAI", "d1/d4c/a16804.html#a0fab76345c5459efcedff02123e4fc8d", null ]
 ];

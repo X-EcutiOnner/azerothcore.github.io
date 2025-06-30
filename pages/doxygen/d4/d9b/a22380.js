@@ -1,6 +1,5 @@
 var a22380 =
 [
-    [ "npc_storm_cloudAI", "dc/d45/a22384.html", "dc/d45/a22384" ],
-    [ "npc_storm_cloud", "d4/d9b/a22380.html#a8403185cdf54b2924024ba1d1d44a06a", null ],
-    [ "GetAI", "d4/d9b/a22380.html#a952bd1cf5406b989182d8560d8b9e665", null ]
+    [ "go_finklestein_cauldron", "d4/d9b/a22380.html#a8aa352319c54526069588dacd75ab883", null ],
+    [ "OnGossipHello", "d4/d9b/a22380.html#aa04f55e8a6cc21cf4a1e4cdc35c6a1ae", null ]
 ];

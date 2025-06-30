@@ -1,6 +1,7 @@
 var a16668 =
 [
-    [ "PrepareSpellScript", "d7/dd9/a16668.html#a5ed268ac2642b2df3c5eb1dc93a675fc", null ],
-    [ "RecalculateDamage", "d7/dd9/a16668.html#a3fae6ceaa67716004c664dd40a4679ed", null ],
-    [ "Register", "d7/dd9/a16668.html#a1a740e697fc84f5f035f2ec251872009", null ]
+    [ "HandleScriptEffect", "d7/dd9/a16668.html#a62cef31900cd61167823f3e66aa2d64b", null ],
+    [ "PrepareSpellScript", "d7/dd9/a16668.html#aff3fc5d7d6185bcb09d14f1408a67aad", null ],
+    [ "Register", "d7/dd9/a16668.html#ac73b3f568ce54f9b59b2b23f069da3c1", null ],
+    [ "Validate", "d7/dd9/a16668.html#aab4d84e896c8225d8d131558aaa71dbe", null ]
 ];

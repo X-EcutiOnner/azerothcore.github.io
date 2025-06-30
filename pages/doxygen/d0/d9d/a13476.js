@@ -1,9 +1,7 @@
 var a13476 =
 [
-    [ "npc_partygoer", "d0/d9d/a13476.html#af053caedfd1fa8173b875f521d279418", null ],
-    [ "Initialize", "d0/d9d/a13476.html#a9012ff95e5cead3c02f9eeb30f29a9f6", null ],
-    [ "Reset", "d0/d9d/a13476.html#ad1936099ec5696a2a593e5041b0360c6", null ],
-    [ "UpdateAI", "d0/d9d/a13476.html#a423df8a3de7d23221ea4d62a0c65fefc", null ],
-    [ "_events", "d0/d9d/a13476.html#ad5095ee005ecb89ca54b0663d41e20ac", null ],
-    [ "_facing", "d0/d9d/a13476.html#a9e934091894987ec091b03090bf733e5", null ]
+    [ "npc_eris_hevenfireAI", "da/dc7/a13480.html", "da/dc7/a13480" ],
+    [ "npc_eris_hevenfire", "d0/d9d/a13476.html#a77f0836dc0b19114316b8b67839d8033", null ],
+    [ "GetAI", "d0/d9d/a13476.html#ad67a81ad20fac785c199c16fea8fe6f8", null ],
+    [ "OnQuestAccept", "d0/d9d/a13476.html#a1e0baec5706cfddd678b58eb9359997e", null ]
 ];

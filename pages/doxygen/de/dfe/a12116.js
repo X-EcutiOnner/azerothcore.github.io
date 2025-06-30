@@ -1,6 +1,7 @@
 var a12116 =
 [
-    [ "near_scarshield_infiltrator", "de/dfe/a12116.html#a38d2e75946c429b4d80b007f190406bc", null ],
-    [ "OnTrigger", "de/dfe/a12116.html#aeb761433e3210ce85c1de4dab653a87c", null ],
-    [ "whisperedTargets", "de/dfe/a12116.html#a5655e241d2551798a960cb6375c7df23", null ]
+    [ "boss_warmastervooneAI", "de/dfe/a12116.html#aa22519c8d3037cf07c275080b9bedcaf", null ],
+    [ "DamageTaken", "de/dfe/a12116.html#adce28de25fa74557000d60188346e2d2", null ],
+    [ "ExecuteEvent", "de/dfe/a12116.html#ac9dc6ef78503a87ea68d0e232b0376da", null ],
+    [ "JustEngagedWith", "de/dfe/a12116.html#ac419c5118a45264e24e391f7575d90fb", null ]
 ];

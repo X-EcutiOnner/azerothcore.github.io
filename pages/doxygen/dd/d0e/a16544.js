@@ -1,6 +1,6 @@
 var a16544 =
 [
-    [ "npc_announcer_toc10", "dd/d0e/a16544.html#ae495b19328c6a743dfd8f1cbf37a0bd6", null ],
-    [ "OnGossipHello", "dd/d0e/a16544.html#afcc5262e7c49b7456af146de14805a06", null ],
-    [ "OnGossipSelect", "dd/d0e/a16544.html#a9a2bf1d3a215332744ca473041cc0520", null ]
+    [ "boss_eydisAI", "d9/dc2/a16548.html", "d9/dc2/a16548" ],
+    [ "boss_eydis", "dd/d0e/a16544.html#aa555f80882499bc4627e622fbb48b2a4", null ],
+    [ "GetAI", "dd/d0e/a16544.html#ad49a673431c479fa2f5d9b6da42bbf55", null ]
 ];

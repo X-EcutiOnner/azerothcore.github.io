@@ -1,9 +1,6 @@
 var a10724 =
 [
-    [ "Weather", "d5/d35/a10724.html#aa404c94fec05b825454a7309827767c6", null ],
-    [ "Weather", "d5/d35/a10724.html#a28f45d81441d2dde6917380978dfb4d0", null ],
-    [ "Write", "d5/d35/a10724.html#a641c7de3e527dcdff07b3f602880b5c8", null ],
-    [ "Abrupt", "d5/d35/a10724.html#a0abe1fcb36d21ac246174cdc98c0e261", null ],
-    [ "Intensity", "d5/d35/a10724.html#ac37cee2364921a50e2b1ec1b19ed69b7", null ],
-    [ "WeatherID", "d5/d35/a10724.html#a32e56458b1e562c124cfc0288a578134", null ]
+    [ "GuildSetGuildMaster", "d5/d35/a10724.html#ae6ca07252de719cc506042c8d3e8285e", null ],
+    [ "Read", "d5/d35/a10724.html#a94f16e55a840c7cba991a119af5d8263", null ],
+    [ "NewMasterName", "d5/d35/a10724.html#a02f37610492c75373266bb93000adcbf", null ]
 ];

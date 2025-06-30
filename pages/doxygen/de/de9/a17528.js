@@ -1,7 +1,6 @@
 var a17528 =
 [
-    [ "npc_gunship_rocketeerAI", "de/de9/a17528.html#aa9e722f32cd95fff8c72db5a41d0e84c", null ],
-    [ "CanAIAttack", "de/de9/a17528.html#a4b4e2839e426bdb752beea09394f13dc", null ],
-    [ "MovementInform", "de/de9/a17528.html#a7dd7f3625b177a96bcfdc5e46d944562", null ],
-    [ "UpdateAI", "de/de9/a17528.html#af73d71750f116fb90be1c2acba75ca70", null ]
+    [ "npc_igb_ship_crewAI", "de/de9/a17528.html#a3ca741b305e3235b0521f094d7abe732", null ],
+    [ "CanAIAttack", "de/de9/a17528.html#a2c834dc151493957fc116865699ae7f5", null ],
+    [ "_instance", "de/de9/a17528.html#a288bd5f8b4eaed7b1a960ed738330ae4", null ]
 ];

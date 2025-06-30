@@ -1,5 +1,5 @@
 var a27248 =
 [
-    [ "go_table_theka", "db/dee/a27248.html#a9e25a1c9313437b533e1d88a2db04a58", null ],
-    [ "OnGossipHello", "db/dee/a27248.html#ab04480f032ce074daacdc0dcfa37ee12", null ]
+    [ "go_southfury_moonstone", "db/dee/a27248.html#aed27e57e8232e156177c293ad0c0b4bb", null ],
+    [ "OnGossipHello", "db/dee/a27248.html#a4c0870f0e03708f1fdc073abadbe5de8", null ]
 ];

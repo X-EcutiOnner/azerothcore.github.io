@@ -1,6 +1,12 @@
 var a14672 =
 [
-    [ "npc_cos_stratholme_citizienAI", "d3/df0/a14676.html", "d3/df0/a14676" ],
-    [ "npc_cos_stratholme_citizien", "db/d19/a14672.html#a92f8d88ecfa9cc47d6799107e5de0107", null ],
-    [ "GetAI", "db/d19/a14672.html#a4f5f132b903241021a4e53dd60c0f43b", null ]
+    [ "boss_mal_ganisAI", "db/d19/a14672.html#aa8b70930372cd0729686f7c6032d3152", null ],
+    [ "DamageTaken", "db/d19/a14672.html#a4873386266ce3b4b849377028ff746a5", null ],
+    [ "JustDied", "db/d19/a14672.html#a83690f4a55cfa22a979ad6897b661fcc", null ],
+    [ "JustEngagedWith", "db/d19/a14672.html#ad04c571e9e485a95d194946c1b3b7ffa", null ],
+    [ "KilledUnit", "db/d19/a14672.html#a0ec8c95f3e6ea8c243cc28d0c893c7eb", null ],
+    [ "Reset", "db/d19/a14672.html#abb9d38b3c26af6245bb98e131be07d4d", null ],
+    [ "UpdateAI", "db/d19/a14672.html#a9466254da12c3aa3c1a69e812ff1a068", null ],
+    [ "events", "db/d19/a14672.html#a194c002efe244b8c94a072faf72be771", null ],
+    [ "finished", "db/d19/a14672.html#ac4c90c814aa55781f863c958253e9df2", null ]
 ];

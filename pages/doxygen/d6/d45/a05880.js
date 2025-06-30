@@ -1,8 +1,7 @@
 var a05880 =
 [
-    [ "UpdateResult", "d6/d45/a05880.html#af32cdf09d32607955c98353fbfa7d392", null ],
-    [ "UpdateResult", "d6/d45/a05880.html#a225eb6b9ff745dcd72d623ca79c007c6", null ],
-    [ "archived", "d6/d45/a05880.html#adee274af5f5d6981e28b3587008d690c", null ],
-    [ "recent", "d6/d45/a05880.html#aea54f4388b659def734957a47e9cca8c", null ],
-    [ "updated", "d6/d45/a05880.html#a12b3fffe01639493fc405bd5a797f463", null ]
+    [ "UpdateException", "d6/d45/a05880.html#ace39ae1801ac7dcd055bcdce2411866e", null ],
+    [ "~UpdateException", "d6/d45/a05880.html#a38e016e210bf287d2adc21811497c95c", null ],
+    [ "what", "d6/d45/a05880.html#ab7bc552819bf9620dd670fb5a627b2dd", null ],
+    [ "_msg", "d6/d45/a05880.html#a7b4ba1e0d2829249afb2922f385016b3", null ]
 ];

@@ -1,6 +1,6 @@
 var a14628 =
 [
-    [ "boss_meathookAI", "d3/d7b/a14632.html", "d3/d7b/a14632" ],
-    [ "boss_meathook", "dd/dfe/a14628.html#a044c8ec4a419e5c5a8b290df9c0ad169", null ],
-    [ "GetAI", "dd/dfe/a14628.html#ae8ee3631ff1f80f4fad99e4eca042ad8", null ]
+    [ "HandleHeal", "dd/dfe/a14628.html#a953536a9a393af9472bdd89018449df0", null ],
+    [ "PrepareSpellScript", "dd/dfe/a14628.html#a70503fc6042001a860d361f2597b7153", null ],
+    [ "Register", "dd/dfe/a14628.html#a383479896e6deb96e50b827370ccfd4d", null ]
 ];

@@ -1,7 +1,6 @@
 var a17108 =
 [
-    [ "HandleScriptEffect", "d7/d0d/a17108.html#a6469efa0e1fabaf1cb366f119a1158c1", null ],
-    [ "PrepareSpellScript", "d7/d0d/a17108.html#aac410690d906867216b40a49d8f15318", null ],
-    [ "Register", "d7/d0d/a17108.html#ae8c7acabe93fc33d13f0b8848415eabf", null ],
-    [ "Validate", "d7/d0d/a17108.html#a88c3961d5757dd0c75be4acc7de6e45b", null ]
+    [ "boss_drakkari_elementalAI", "d6/dcb/a17112.html", "d6/dcb/a17112" ],
+    [ "boss_drakkari_elemental", "d7/d0d/a17108.html#a143dd5d52ea7bb3c3c1d96da45af81ee", null ],
+    [ "GetAI", "d7/d0d/a17108.html#aab2f9c71ddb77164bd644d18b9e88313", null ]
 ];

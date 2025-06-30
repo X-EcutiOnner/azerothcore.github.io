@@ -1,14 +1,7 @@
 var a23864 =
 [
-    [ "npc_deaths_door_fell_cannon_target_bunnyAI", "d9/df3/a23864.html#a258f55153ad857fbf35545cfb87c3d3a", null ],
-    [ "Initialize", "d9/df3/a23864.html#a187340b00067f2f65a7e48845a6edaba", null ],
-    [ "JustSummoned", "d9/df3/a23864.html#a10a3b9b4a2763bac4c9fe5f680850052", null ],
-    [ "Reset", "d9/df3/a23864.html#a92a6cbe0515752440284d18bae0adf66", null ],
-    [ "SpellHit", "d9/df3/a23864.html#a517f7412208de83604d0d6806fbc0b34", null ],
-    [ "UpdateAI", "d9/df3/a23864.html#ab4fb75f1b84c2722f936387a6942028b", null ],
-    [ "CannonGUID", "d9/df3/a23864.html#a220e111467cfb6f02e996f012123e09b", null ],
-    [ "count", "d9/df3/a23864.html#ac78f94033239dcf247be9a48d0535081", null ],
-    [ "events", "d9/df3/a23864.html#acf362c9e3eb844db9f66cc8c969cd22e", null ],
-    [ "PartyTime", "d9/df3/a23864.html#a1780c656fb539be6dcd74e271cea4c53", null ],
-    [ "PlayerGUID", "d9/df3/a23864.html#a686314ffe4a588a1ba8722a6cab56fc7", null ]
+    [ "HandleDamage", "d9/df3/a23864.html#add7e78111217d00bfa3dfa5b3eb490f9", null ],
+    [ "HandleTargets", "d9/df3/a23864.html#ac9e455d4ef5cc7b7ce424b70b4387c78", null ],
+    [ "PrepareSpellScript", "d9/df3/a23864.html#a46b62a09ea23cb102b0e5cf075c727d4", null ],
+    [ "Register", "d9/df3/a23864.html#a8873614ae22c908cb2cf49129fc53be2", null ]
 ];

@@ -1,7 +1,8 @@
 var a22740 =
 [
-    [ "boss_lady_malande", "d4/d90/a22740.html#a8cb693d203463dcba809e7ffc23c6868", null ],
-    [ "AttackStart", "d4/d90/a22740.html#ad5cf6e7b0000c7f96d8606088fb13d31", null ],
-    [ "JustEngagedWith", "d4/d90/a22740.html#af4b5f376e387851e15517de03636acde", null ],
-    [ "UpdateAI", "d4/d90/a22740.html#a6d9d09a49fc87bbbda02387f78bb3739", null ]
+    [ "Load", "d4/d90/a22740.html#a038301fbb547469574efff88455be663", null ],
+    [ "OnPeriodic", "d4/d90/a22740.html#a8df384cc329cf20ddc5ac0d7bed0345f", null ],
+    [ "PrepareAuraScript", "d4/d90/a22740.html#a386df1300e6a99b02efd13ef4968e99a", null ],
+    [ "Register", "d4/d90/a22740.html#a1b7b9bff5b3d906fa491846a4d5c6743", null ],
+    [ "Validate", "d4/d90/a22740.html#ad64a3fc1a66b9e8914099e501992f2aa", null ]
 ];

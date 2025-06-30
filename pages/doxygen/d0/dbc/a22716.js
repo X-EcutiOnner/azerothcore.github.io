@@ -1,7 +1,7 @@
 var a22716 =
 [
-    [ "OnPeriodic", "d0/dbc/a22716.html#a165d47b116b0a53e37b05f664960e6ec", null ],
-    [ "PrepareAuraScript", "d0/dbc/a22716.html#ac46af3566c5c03622f8146f1bb6f0ac7", null ],
-    [ "Register", "d0/dbc/a22716.html#a1ac8741542c921f5e4c42b0a9a02ed3c", null ],
-    [ "Validate", "d0/dbc/a22716.html#adf76f9183dd9c5e0f00c2115aaafb119", null ]
+    [ "HandleEffectRemove", "d0/dbc/a22716.html#a09124a4351930a35e33359e95ca88580", null ],
+    [ "PrepareAuraScript", "d0/dbc/a22716.html#a6ac4aa40f00e7ca03a3a5cf36d6e5d33", null ],
+    [ "Register", "d0/dbc/a22716.html#a8b59d3d74816b41a65f9c5bd07226c4e", null ],
+    [ "Validate", "d0/dbc/a22716.html#a5bf3ac4b8ff19bdbde604c4d8931d1bc", null ]
 ];

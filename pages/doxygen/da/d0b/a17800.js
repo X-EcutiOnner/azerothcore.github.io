@@ -1,7 +1,6 @@
 var a17800 =
 [
-    [ "HandleTriggerSpell", "da/d0b/a17800.html#a109dc4f189a64ac3b5949191d6abd2be", null ],
-    [ "OnRemove", "da/d0b/a17800.html#a238adc96e80c1890934b23dd4a2685b4", null ],
-    [ "PrepareAuraScript", "da/d0b/a17800.html#af9ce7433b620fdf1dea570561c514b3b", null ],
-    [ "Register", "da/d0b/a17800.html#ab36a001ea8cd87703e2694e0765635c0", null ]
+    [ "npc_volatile_oozeAI", "d1/d3d/a17804.html", "d1/d3d/a17804" ],
+    [ "npc_volatile_ooze", "da/d0b/a17800.html#a22847e44812a0b13b92cfcca3a70204e", null ],
+    [ "GetAI", "da/d0b/a17800.html#a66b4918c14d90d5550ddc8dbe90c2e01", null ]
 ];

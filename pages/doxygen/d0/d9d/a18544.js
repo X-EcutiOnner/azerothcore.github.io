@@ -1,6 +1,6 @@
 var a18544 =
 [
-    [ "npc_captain_brandonAI", "d0/d9d/a18544.html#a1fe09b93be658660ba3c127c142e2ee6", null ],
-    [ "Reset", "d0/d9d/a18544.html#a13226b321707eee9faf5f073c81403e4", null ],
-    [ "UpdateAI", "d0/d9d/a18544.html#a721f8f7395cd57d4dba74f66ae40169f", null ]
+    [ "npc_rotting_frost_giantAI", "dc/d1b/a18548.html", "dc/d1b/a18548" ],
+    [ "npc_rotting_frost_giant", "d0/d9d/a18544.html#ad4440216e11a00d97af43dc5f3957e95", null ],
+    [ "GetAI", "d0/d9d/a18544.html#aabc388b3690f2d03e903c7f480d52842", null ]
 ];

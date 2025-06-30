@@ -1,7 +1,7 @@
 var a26576 =
 [
-    [ "HandleDummy", "db/d38/a26576.html#a96c5064738653ce16f06634196218a88", null ],
-    [ "PrepareSpellScript", "db/d38/a26576.html#a2fa51a29d2c8ce74c8a4351712ccdeb9", null ],
-    [ "Register", "db/d38/a26576.html#a080969e035143ac8527443025dbacef2", null ],
-    [ "Validate", "db/d38/a26576.html#a66fd30d7cffdc7307b4c9dc821ccdf92", null ]
+    [ "CheckProc", "db/d38/a26576.html#aa03bd8b92debda29f0b236fdbef73f16", null ],
+    [ "HandleProc", "db/d38/a26576.html#a91ee1b654a3a26e027407635a45b80b3", null ],
+    [ "PrepareAuraScript", "db/d38/a26576.html#ad2796a924fbe36dc9cd1c9de60eb9b16", null ],
+    [ "Register", "db/d38/a26576.html#ab06a732203303d5533bdc4b217640d2d", null ]
 ];

@@ -1,6 +1,6 @@
 var a18560 =
 [
-    [ "npc_captain_rupertAI", "d5/d56/a18560.html#ae91de64c440e71e612f34e37b90076d5", null ],
-    [ "Reset", "d5/d56/a18560.html#a8ebaca725aba2c3aed8856fb23228ae1", null ],
-    [ "UpdateAI", "d5/d56/a18560.html#a2edf4e51c9a5bde61a1875c067e963f2", null ]
+    [ "npc_crok_scourgebaneAI", "d8/d26/a18564.html", "d8/d26/a18564" ],
+    [ "npc_crok_scourgebane", "d5/d56/a18560.html#a5f560e2c62aa618eadb5a11e2c9b90a3", null ],
+    [ "GetAI", "d5/d56/a18560.html#afa4fcbb9d7281fbee3f8bc0f318d2e6b", null ]
 ];

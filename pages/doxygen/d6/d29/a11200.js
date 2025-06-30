@@ -1,10 +1,7 @@
 var a11200 =
 [
-    [ "EffectHook", "d6/d29/a11200.html#a4a197e061d918dfba2bc486f3393b00d", null ],
-    [ "~EffectHook", "d6/d29/a11200.html#aa234f63b530764d12064acbe3f5c9299", null ],
-    [ "CheckEffect", "d6/d29/a11200.html#ae8823c5d649d182f572818bf3db72902", null ],
-    [ "EffIndexToString", "d6/d29/a11200.html#ab818ed274cfd66ecc565b8535b751517", null ],
-    [ "GetAffectedEffectsMask", "d6/d29/a11200.html#a31faa86590e22f5ab3ca518f4df02840", null ],
-    [ "IsEffectAffected", "d6/d29/a11200.html#a697041ffa562bb6fff792beb159c7af2", null ],
-    [ "effIndex", "d6/d29/a11200.html#ab5eb48ef7ac903938f92db0e856e0295", null ]
+    [ "maxvalue", "d6/d29/a11200.html#a1dd2289b0d3505cb50e8613595ad8c8e", null ],
+    [ "skill", "d6/d29/a11200.html#a8bcbe05ff6a3220f9f05f52b16925f5d", null ],
+    [ "step", "d6/d29/a11200.html#a1c882f7d43c65954cb99566225660312", null ],
+    [ "value", "d6/d29/a11200.html#a064fece53cdaf07b072510b14200a968", null ]
 ];

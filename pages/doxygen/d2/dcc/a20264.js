@@ -1,7 +1,12 @@
 var a20264 =
 [
-    [ "FilterTargetsInitial", "d2/dcc/a20264.html#a5632307d9a1a89d530a63e71c8abad1c", null ],
-    [ "Load", "d2/dcc/a20264.html#a5467818535c6c7239e185d7c6c3bbd27", null ],
-    [ "PrepareSpellScript", "d2/dcc/a20264.html#a4d1e588557fa3fa432d4015fda930877", null ],
-    [ "Register", "d2/dcc/a20264.html#a0428375ddb89907e7f1728757d55d052", null ]
+    [ "npc_ulduar_iron_constructAI", "d2/dcc/a20264.html#ab81224d24ab1925cde97ab76c2a514d1", null ],
+    [ "DamageTaken", "d2/dcc/a20264.html#a5235538b755dd83615d80a1f7d0ec1b9", null ],
+    [ "JustDied", "d2/dcc/a20264.html#a5b8e1c38257fc13c59bcaf8cb251fee2", null ],
+    [ "JustReachedHome", "d2/dcc/a20264.html#a12416ffe731f96a1ca2949d995eb909c", null ],
+    [ "MoveInLineOfSight", "d2/dcc/a20264.html#a12b228a1edb9460ddcb2b8232bb8209e", null ],
+    [ "Reset", "d2/dcc/a20264.html#ac6dba374d72247be14923aa54898b9b5", null ],
+    [ "SpellHit", "d2/dcc/a20264.html#a10a5444576af84ae50ad8af930ed5970", null ],
+    [ "UpdateAI", "d2/dcc/a20264.html#ac5aabd4a48b6a2f5057eb5ee8a8c99f8", null ],
+    [ "timer", "d2/dcc/a20264.html#ae1996cf79f8a82df7fe02cd60e5ce3a4", null ]
 ];

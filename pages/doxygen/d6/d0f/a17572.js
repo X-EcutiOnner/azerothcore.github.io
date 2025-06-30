@@ -1,6 +1,6 @@
 var a17572 =
 [
-    [ "HandlePeriodicTick", "d6/d0f/a17572.html#accfe8a0cea8af9c9474d25fc3e7c7e22", null ],
-    [ "PrepareAuraScript", "d6/d0f/a17572.html#a9962029ce4a5223d7aa05068e8d83326", null ],
-    [ "Register", "d6/d0f/a17572.html#a64cf56299c8ab5292dbc9cddcee5f841", null ]
+    [ "npc_gunship_rocketeerAI", "d0/da9/a17576.html", "d0/da9/a17576" ],
+    [ "npc_gunship_rocketeer", "d6/d0f/a17572.html#a7ed2cf258269f239bb73f2f06411db07", null ],
+    [ "GetAI", "d6/d0f/a17572.html#a4f9c1b09e9e5b9dd337fe9210ab7038c", null ]
 ];

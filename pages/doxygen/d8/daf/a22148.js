@@ -1,6 +1,6 @@
 var a22148 =
 [
-    [ "HandleScriptEffect", "d8/daf/a22148.html#a1dac2806b74471332aec0595118005a3", null ],
-    [ "PrepareSpellScript", "d8/daf/a22148.html#adb1efd90b7ffa23887ca4aa3afb6d99e", null ],
-    [ "Register", "d8/daf/a22148.html#a2ff0986c88dcbd9aac263f62b772c992", null ]
+    [ "npc_bushwhackerAI", "d8/daf/a22148.html#a0cf480b75aa45a9f3572c4a65df2daee", null ],
+    [ "InitializeAI", "d8/daf/a22148.html#a18db5870e62378ff49472f7a5881861c", null ],
+    [ "UpdateAI", "d8/daf/a22148.html#aadc3384626d728942897fe93750f0c02", null ]
 ];

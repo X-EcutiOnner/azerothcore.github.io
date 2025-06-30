@@ -1,19 +1,11 @@
 var a07400 =
 [
-    [ "BattlegroundRV", "db/d8f/a07400.html#ad8c16fa336cd5b0d98eb0009ef094632", null ],
-    [ "CheckPositionForUnit", "db/d8f/a07400.html#a17665265c5ab837b4e2a0cdc461a7d0a", null ],
-    [ "FillInitialWorldStates", "db/d8f/a07400.html#a62c7201196fabb6000d2df52b8323e6a", null ],
-    [ "GetPillarAtPosition", "db/d8f/a07400.html#a0cd6f84233993bde76be990abab75f23", null ],
-    [ "GetPillarIdForPos", "db/d8f/a07400.html#a4edb8efce09dece515e8b833142d2c55", null ],
-    [ "HandleAreaTrigger", "db/d8f/a07400.html#aa75f63f77d1f7e8bafffe1d8cb7de9b8", null ],
-    [ "HandlePlayerUnderMap", "db/d8f/a07400.html#a4cb2e77a45fd02a5db85b6979d622afa", null ],
-    [ "Init", "db/d8f/a07400.html#a67853fccaddfcd946015a96c5b108641", null ],
-    [ "PostUpdateImpl", "db/d8f/a07400.html#a9707d8805f031c01c14d78fdc1790a64", null ],
-    [ "SetupBattleground", "db/d8f/a07400.html#abbd1a364665655cfc4f059fa63384536", null ],
-    [ "StartingEventOpenDoors", "db/d8f/a07400.html#a450c1d8a9ad4712ab4042256ba7d9d08", null ],
-    [ "TeleportUnitToNewZ", "db/d8f/a07400.html#ac5b158259ccc5168275c0e00ea041db0", null ],
-    [ "UpdatePillars", "db/d8f/a07400.html#a76d16c8ab6778a6fc8a4c988a46f0306", null ],
-    [ "_checkPlayersTimer", "db/d8f/a07400.html#a7c876ff9156f81b168aec7cf673d39b3", null ],
-    [ "_state", "db/d8f/a07400.html#acce3fce40dbbb403749dcdb986e1d970", null ],
-    [ "_timer", "db/d8f/a07400.html#ac5f9a8627e919eb224d78d726da1a7a1", null ]
+    [ "BattlegroundICScore", "db/d8f/a07400.html#a3b8798fdb479885fbe4b7cecb2f84f68", null ],
+    [ "BuildObjectivesBlock", "db/d8f/a07400.html#a4a10d0be9c318048feb4e76ffae9472c", null ],
+    [ "GetAttr1", "db/d8f/a07400.html#af6c42bbd1b8f3f94fe838ce5df610a80", null ],
+    [ "GetAttr2", "db/d8f/a07400.html#a758fa51038f232c7d65cd0168a4608c2", null ],
+    [ "UpdateScore", "db/d8f/a07400.html#a690ede108b8ce8dfa45a2b7457e53a3c", null ],
+    [ "BattlegroundIC", "db/d8f/a07400.html#a2d7503354e4bdce9f2a06d48b649da2f", null ],
+    [ "BasesAssaulted", "db/d8f/a07400.html#a5050b80f9d1855cb8b97830f9e80124f", null ],
+    [ "BasesDefended", "db/d8f/a07400.html#a70c2965b6b1e99239e0dcc1c03ccb552", null ]
 ];

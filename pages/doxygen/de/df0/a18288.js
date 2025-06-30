@@ -1,7 +1,6 @@
 var a18288 =
 [
-    [ "HandleProc", "de/df0/a18288.html#af06730a865009127c7d3e5423afd4d44", null ],
-    [ "PrepareAuraScript", "de/df0/a18288.html#a71a81a19a0c543a4aa43d6bf002b7bb9", null ],
-    [ "Register", "de/df0/a18288.html#a6c97b787ce00491a259c575d26189f8c", null ],
-    [ "Validate", "de/df0/a18288.html#aed9c98e20d916359629e119d6dd2a94f", null ]
+    [ "ModDestHeight", "de/df0/a18288.html#aafab48e58a2eb18c286f71fa907e9bc8", null ],
+    [ "PrepareSpellScript", "de/df0/a18288.html#a3c84b7044f448a5596e18f72e7b2f11a", null ],
+    [ "Register", "de/df0/a18288.html#ad3900c969dfb05a61ebc750eb3425bc0", null ]
 ];

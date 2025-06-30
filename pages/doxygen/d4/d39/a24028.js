@@ -1,8 +1,7 @@
 var a24028 =
 [
-    [ "npc_bessyAI", "d4/d39/a24028.html#ad1300a563888b34689bedf97c387707c", null ],
-    [ "JustDied", "d4/d39/a24028.html#af98e9235b2432b619e4cc01c0c1111ef", null ],
-    [ "JustSummoned", "d4/d39/a24028.html#a4197fb122299fd152e5da335bb832ae5", null ],
-    [ "Reset", "d4/d39/a24028.html#aed64386629e52c3b65abadde54a63cc4", null ],
-    [ "WaypointReached", "d4/d39/a24028.html#a4611a8f41f66a1a846fb42ba1d4062c8", null ]
+    [ "npc_creditmarker_visit_with_ancestorsAI", "d4/d39/a24028.html#a483e8fb0d73561e34a1078fdde1a1b5b", null ],
+    [ "JustEngagedWith", "d4/d39/a24028.html#a4038d707731f64f588e307c22c859902", null ],
+    [ "MoveInLineOfSight", "d4/d39/a24028.html#a40d92122cd4f879f52ff78a4f172c3b8", null ],
+    [ "Reset", "d4/d39/a24028.html#a29132346f117ba785039057619edb9e7", null ]
 ];

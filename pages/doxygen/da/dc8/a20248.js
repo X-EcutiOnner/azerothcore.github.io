@@ -1,6 +1,5 @@
 var a20248 =
 [
-    [ "boss_kologarn_armsAI", "d7/d58/a20252.html", "d7/d58/a20252" ],
-    [ "boss_kologarn_arms", "da/dc8/a20248.html#ad540d28bb4b8a2be0ca0769f114c3eda", null ],
-    [ "GetAI", "da/dc8/a20248.html#a9ffe4db97d937e01c5ab2008a011f67d", null ]
+    [ "achievement_i_have_the_coolest_friends", "da/dc8/a20248.html#a87fd2d5702fe33ee8b09042c66897636", null ],
+    [ "OnCheck", "da/dc8/a20248.html#aa77aa6129967601ede2f3fc44b2ee1aa", null ]
 ];

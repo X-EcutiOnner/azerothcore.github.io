@@ -1,7 +1,6 @@
 var a19556 =
 [
-    [ "HandleEffectRemove", "d0/dce/a19556.html#af61220cb739baef9b33aecddb1cfe5ea", null ],
-    [ "PrepareAuraScript", "d0/dce/a19556.html#ad8035b1b676751fcc299e4ad8df62ed8", null ],
-    [ "Register", "d0/dce/a19556.html#abe52dbfdbd42c860e0a79873dd19e22d", null ],
-    [ "Validate", "d0/dce/a19556.html#a7c4f9df92b501720e30372fa9e9dbad7", null ]
+    [ "boss_sjonnir_iron_sludgeAI", "d2/db3/a19560.html", "d2/db3/a19560" ],
+    [ "boss_sjonnir_iron_sludge", "d0/dce/a19556.html#ae1c523266aab3e8e2c337dede7390c7b", null ],
+    [ "GetAI", "d0/dce/a19556.html#a2d077bfeac6479d83240ee00ca5aa0e0", null ]
 ];

@@ -1,7 +1,6 @@
 var a19472 =
 [
-    [ "HandleScript", "d7/d2a/a19472.html#a5d778f906e1ee820cc97b0b32839cc78", null ],
-    [ "PrepareSpellScript", "d7/d2a/a19472.html#a34337690029eedb60a17572dbbf1e1f9", null ],
-    [ "Register", "d7/d2a/a19472.html#ad554d79e1a98490085b22f5038d058da", null ],
-    [ "Validate", "d7/d2a/a19472.html#a0932ccc5652bc4901aacbe2cf8d6c7d8", null ]
+    [ "boss_lokenAI", "dd/d67/a19476.html", "dd/d67/a19476" ],
+    [ "boss_loken", "d7/d2a/a19472.html#a44ba0ee009dcdfca6ff8739e297ec786", null ],
+    [ "GetAI", "d7/d2a/a19472.html#affb73db8ecdc2d035f8076ecca0c9a99", null ]
 ];

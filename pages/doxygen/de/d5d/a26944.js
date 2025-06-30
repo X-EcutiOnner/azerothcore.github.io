@@ -1,5 +1,5 @@
 var a26944 =
 [
-    [ "achievement_bg_av_perfection", "de/d5d/a26944.html#a8a0ef996bdb1244026268922b301184c", null ],
-    [ "OnCheck", "de/d5d/a26944.html#a17e700c17b5144b571f2aeed92a77749", null ]
+    [ "achievement_save_the_day", "de/d5d/a26944.html#a193e4060b6634a87b499b7c8a5e287a1", null ],
+    [ "OnCheck", "de/d5d/a26944.html#a95cfea6cd9ff955ba6800ebdf3a30eb7", null ]
 ];

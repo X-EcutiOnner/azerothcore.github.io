@@ -1,6 +1,7 @@
 var a19000 =
 [
-    [ "boss_maexxnaAI", "d9/ddd/a19004.html", "d9/ddd/a19004" ],
-    [ "boss_maexxna", "d0/dd4/a19000.html#ae47a789ac8abe50932b9e000c83b02b2", null ],
-    [ "GetAI", "d0/dd4/a19000.html#ab438df4cb61625da35552ca7c867dc64", null ]
+    [ "HandleRemove", "d0/dd4/a19000.html#a7c81c567ae10bf4fd4d3c1eb480b5761", null ],
+    [ "PrepareAuraScript", "d0/dd4/a19000.html#aaefd5b15f7a3725b2663c0717fe22c92", null ],
+    [ "Register", "d0/dd4/a19000.html#ad7ba015a7878adad0820cf378d2632ca", null ],
+    [ "Validate", "d0/dd4/a19000.html#a570bb63c6ed7af58b0b886e8a954dea9", null ]
 ];

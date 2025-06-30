@@ -1,12 +1,8 @@
 var a10664 =
 [
-    [ "Charges", "de/dbc/a10664.html#ada45d7e00efb3bf27afcf9db1ad4d813", null ],
-    [ "Count", "de/dbc/a10664.html#a6f31a3d750d5c5f1b316f05e7ad9dbe9", null ],
-    [ "EnchantmentID", "de/dbc/a10664.html#a249a204f5d72d42f562c989b1cb92fc9", null ],
-    [ "Flags", "de/dbc/a10664.html#a3ca816132a756d3dc939877c57f6045d", null ],
-    [ "ItemID", "de/dbc/a10664.html#a5dc7e8b40834dba07c63322d80ed73ae", null ],
-    [ "RandomPropertiesID", "de/dbc/a10664.html#ad98a20548478fe99f9d6d345c5a3b732", null ],
-    [ "RandomPropertiesSeed", "de/dbc/a10664.html#ae5d493dd4798e11f02d8f02a57ba4274", null ],
-    [ "Slot", "de/dbc/a10664.html#afcc0a78c2f9a3061830679fece476a64", null ],
-    [ "SocketEnchant", "de/dbc/a10664.html#a55545d4d1b752e4f08bd05350b22892c", null ]
+    [ "GuildBankQueryTab", "de/dbc/a10664.html#a29fc27016b597f051898db7bb30214c8", null ],
+    [ "Read", "de/dbc/a10664.html#ab4e17c592b05ce041f5f52f2bc711d41", null ],
+    [ "Banker", "de/dbc/a10664.html#af21ec3aa4cf912fd5b82e6ae16459e06", null ],
+    [ "FullUpdate", "de/dbc/a10664.html#a4f9758c10f7c7294dffaa01b8e0b723f", null ],
+    [ "Tab", "de/dbc/a10664.html#a949488c1696f92cb0a081cf28bffb48f", null ]
 ];

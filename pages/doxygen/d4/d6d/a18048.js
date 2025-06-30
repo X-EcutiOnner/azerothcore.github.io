@@ -1,8 +1,6 @@
 var a18048 =
 [
-    [ "FilterTargets", "d4/d6d/a18048.html#a14e392760361b95578bc95de10cdd8aa", null ],
-    [ "HandleForcedCast", "d4/d6d/a18048.html#afbf6d0ee66d192a81ed12f2e28e195f1", null ],
-    [ "PrepareSpellScript", "d4/d6d/a18048.html#a8bb53a933c5a2ec33966c6acd1a6da65", null ],
-    [ "Register", "d4/d6d/a18048.html#ac2105e66f692c6a991ac9190b1901505", null ],
-    [ "Validate", "d4/d6d/a18048.html#a1746786ad6daaac11aefd32e00c8d1ea", null ]
+    [ "FilterTargets", "d4/d6d/a18048.html#ad5a004ddfdc888c38e95c3a0b49ca73e", null ],
+    [ "PrepareSpellScript", "d4/d6d/a18048.html#a24466e7a04722cc7559b086f89d2edc8", null ],
+    [ "Register", "d4/d6d/a18048.html#a9ecea534f3dffdedf7d23b3b2461509d", null ]
 ];

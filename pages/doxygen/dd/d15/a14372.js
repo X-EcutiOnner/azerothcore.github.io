@@ -1,8 +1,8 @@
 var a14372 =
 [
-    [ "OnApply", "dd/d15/a14372.html#a6bc23ff885f4fbc25d00fe35173bad3e", null ],
-    [ "OnRemove", "dd/d15/a14372.html#aed62006fe08bfaad0a8bb51d5e739c67", null ],
-    [ "PrepareAuraScript", "dd/d15/a14372.html#ac7388aa4c0746ce963cbbb97dbfb4765", null ],
-    [ "Register", "dd/d15/a14372.html#a95c3af6d3f1d510ad8a2d9be7e28b2dc", null ],
-    [ "Validate", "dd/d15/a14372.html#a0ed19bc16fa8e2da2332766bbc1110e5", null ]
+    [ "npc_love_in_air_snivel_real", "dd/d15/a14372.html#a9f5b36d35ced9eb27375ca13fcfbc55d", null ],
+    [ "Talk", "dd/d15/a14372.html#a0b5cc8dd6bdf7c4fbd7b7aa2ba02b028", null ],
+    [ "UpdateAI", "dd/d15/a14372.html#a22ed25da8fe3441ef0e4183390983f40", null ],
+    [ "actionCounter", "dd/d15/a14372.html#ab1685b1ee34c81c689af3c3466b185f0", null ],
+    [ "actionTimer", "dd/d15/a14372.html#a3bbee1ff355581772b337268775b8fbc", null ]
 ];

@@ -1,12 +1,9 @@
 var a22816 =
 [
-    [ "boss_essence_of_sufferingAI", "d4/dea/a22816.html#a98de7f0b7d12d0981854129cbeab0d0d", null ],
-    [ "DamageTaken", "d4/dea/a22816.html#a347ef26e4ecdc83ca80c9fd9a93bd97d", null ],
-    [ "DoAction", "d4/dea/a22816.html#a08724d74523866969b12d13846eb4c1e", null ],
-    [ "JustEngagedWith", "d4/dea/a22816.html#aa2fce36768ad6e23a955cd215ca759db", null ],
-    [ "KilledUnit", "d4/dea/a22816.html#a3699b19f23cf15115ff8c92691a6d334", null ],
-    [ "MovementInform", "d4/dea/a22816.html#a4ff66e57277bc3bc6e8d2fb8bc585cd7", null ],
-    [ "Reset", "d4/dea/a22816.html#affa55b69784d8f881598189c361c986e", null ],
-    [ "UpdateAI", "d4/dea/a22816.html#abb60432720b3720832ccc83d454a3808", null ],
-    [ "_recentlySpoken", "d4/dea/a22816.html#a71a28a61e97f6278836649411493484f", null ]
+    [ "boss_mother_shahraz", "d4/dea/a22816.html#adba94363f74975301472d79f24894df8", null ],
+    [ "JustDied", "d4/dea/a22816.html#ab69d81acde4e6e2a3f6adb032090b958", null ],
+    [ "JustEngagedWith", "d4/dea/a22816.html#a021c702e7eff266308fee8a4220a6ec7", null ],
+    [ "KilledUnit", "d4/dea/a22816.html#a81ed314ae9737c0989b62c27c9ce4cc9", null ],
+    [ "Reset", "d4/dea/a22816.html#ab9e4162ac92e786b84b6497c37251386", null ],
+    [ "_canTalk", "d4/dea/a22816.html#a821d91439c60a60ffcff07b6bdbbc070", null ]
 ];

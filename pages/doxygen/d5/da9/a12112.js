@@ -1,5 +1,6 @@
 var a12112 =
 [
-    [ "go_father_flame", "d5/da9/a12112.html#aa992bd7029a56faca4b92637688fe845", null ],
-    [ "OnLootStateChanged", "d5/da9/a12112.html#a84c7055e791a3dac66b75d327c7662c3", null ]
+    [ "boss_warmastervooneAI", "de/dfe/a12116.html", "de/dfe/a12116" ],
+    [ "boss_warmaster_voone", "d5/da9/a12112.html#ac363118e4201adccd4be0028a558442f", null ],
+    [ "GetAI", "d5/da9/a12112.html#a560469e60fda04b2c7d8fd3994493868", null ]
 ];

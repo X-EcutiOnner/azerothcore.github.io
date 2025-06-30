@@ -1,6 +1,6 @@
 var a21328 =
 [
-    [ "npc_azure_binderAI", "d6/df0/a21332.html", "d6/df0/a21332" ],
-    [ "npc_azure_binder", "d9/d14/a21328.html#a25b8b19b6ccdae92418c47fe68537c42", null ],
-    [ "GetAI", "d9/d14/a21328.html#aad091206a8bd06a1064b68b81510eb56", null ]
+    [ "boss_zuramatAI", "d6/df0/a21332.html", "d6/df0/a21332" ],
+    [ "boss_zuramat", "d9/d14/a21328.html#a1d169e786dcf846026b48d9be389f9ab", null ],
+    [ "GetAI", "d9/d14/a21328.html#a1008c053a2c9ad14cf9ce994db931670", null ]
 ];

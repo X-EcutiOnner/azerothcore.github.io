@@ -1,18 +1,9 @@
 var a15052 =
 [
-    [ "boss_ouro", "d3/d5a/a15052.html#a624700c5010edda9e7880070bd7495d7", null ],
-    [ "CanAIAttack", "d3/d5a/a15052.html#a7b9682b239a2d436069b9e6be1d90648", null ],
-    [ "CastGroundRupture", "d3/d5a/a15052.html#a2b8d88aeb824890a090f3bec544f5de2", null ],
-    [ "DamageTaken", "d3/d5a/a15052.html#aa571cee2fee8a79917f4c63b94a9a1b6", null ],
-    [ "Emerge", "d3/d5a/a15052.html#ac0b0c890f8cec105e6c284f6c1c5dd78", null ],
-    [ "EnterEvadeMode", "d3/d5a/a15052.html#aee5769af48127617d40fa440d042e434", null ],
-    [ "IsPlayerWithinMeleeRange", "d3/d5a/a15052.html#a9f9b4a53cf5c7e9d4e98d2d57e500172", null ],
-    [ "JustEngagedWith", "d3/d5a/a15052.html#a20b0b4a3770564595f40e1375b2811d7", null ],
-    [ "Reset", "d3/d5a/a15052.html#a8d8e471d0a76950d4bcbdb3e6d1b77bf", null ],
-    [ "SpellHitTarget", "d3/d5a/a15052.html#a53fb0c076ce60d769d21fa740fa73308", null ],
-    [ "Submerge", "d3/d5a/a15052.html#aa39a371112f585da952331c200b8b5aa", null ],
-    [ "UpdateAI", "d3/d5a/a15052.html#ab59237535be7a86cb4c0db4819a4d9d5", null ],
-    [ "_enraged", "d3/d5a/a15052.html#a14a147b2cb47bbc5bd7cdeb49fd22328", null ],
-    [ "_submerged", "d3/d5a/a15052.html#aff594fd1558ac0c150ef7dc44b185863", null ],
-    [ "_submergeMelee", "d3/d5a/a15052.html#a1f9afe42fad602f470456929214f40d3", null ]
+    [ "npc_claw_tentacle", "d3/d5a/a15052.html#a10f1c68d5f49dd1614e7e939498db37b", null ],
+    [ "JustDied", "d3/d5a/a15052.html#aa566b417d1b766668133dd1d6a58293f", null ],
+    [ "JustEngagedWith", "d3/d5a/a15052.html#a9fbe9b30f973d3c8509ab4bbfcfe5bcc", null ],
+    [ "Reset", "d3/d5a/a15052.html#aaf3a3380a33aadc2023d192dfa85cfb2", null ],
+    [ "UpdateAI", "d3/d5a/a15052.html#ae7d521445680167add653717c7ae4c86", null ],
+    [ "_portalGUID", "d3/d5a/a15052.html#ab979781a8f77267348595cfa17341bae", null ]
 ];

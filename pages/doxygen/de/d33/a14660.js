@@ -1,6 +1,6 @@
 var a14660 =
 [
-    [ "npc_crate_helperAI", "de/d33/a14660.html#ad58a2f3746da7862658fb3b9e1580836", null ],
-    [ "SpellHit", "de/d33/a14660.html#a785bb6fdb254a050a5c5e3e9df49a850", null ],
-    [ "_marked", "de/d33/a14660.html#a0e718e519af661b73ed7bcd87ffbea32", null ]
+    [ "boss_infinite_corruptorAI", "dd/dfc/a14664.html", "dd/dfc/a14664" ],
+    [ "boss_infinite_corruptor", "de/d33/a14660.html#a78a939073ab44b818cefdb25419f92be", null ],
+    [ "GetAI", "de/d33/a14660.html#ab6eaf2f9d1928817e45b092a3a87bda4", null ]
 ];

@@ -1,6 +1,6 @@
 var a21100 =
 [
-    [ "CalculateAmount", "d6/d6d/a21100.html#a79019ef395c9b66f6a88759b0517005d", null ],
-    [ "PrepareAuraScript", "d6/d6d/a21100.html#a1336ab2b7f560deeeeaaf017578bd524", null ],
-    [ "Register", "d6/d6d/a21100.html#a9bce52699983fe798c903385faa42462", null ]
+    [ "npc_frenzied_worgenAI", "d3/dea/a21104.html", "d3/dea/a21104" ],
+    [ "npc_frenzied_worgen", "d6/d6d/a21100.html#ad46eb89ab86876950652f6dd6b7dc91a", null ],
+    [ "GetAI", "d6/d6d/a21100.html#a1ed46e8e6bd001f8f35492f340ab1d56", null ]
 ];

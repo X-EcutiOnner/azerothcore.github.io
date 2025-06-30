@@ -1,6 +1,13 @@
 var a18540 =
 [
-    [ "npc_captain_brandonAI", "d0/d9d/a18544.html", "d0/d9d/a18544" ],
-    [ "npc_captain_brandon", "d6/d10/a18540.html#ad522dd280882d894b5d32e7c888f2360", null ],
-    [ "GetAI", "d6/d10/a18540.html#a3d77951d8d9dbc14fad2fd52d84118a3", null ]
+    [ "npc_highlord_tirion_fordringAI", "d6/d10/a18540.html#a8852f9196a6609f317b6113ac2eee9ee", null ],
+    [ "Reset", "d6/d10/a18540.html#a80051b1b2a663997304b1754a3f9ff25", null ],
+    [ "SetData", "d6/d10/a18540.html#a5642aab7afc50a7494c43ae7a130d571", null ],
+    [ "UpdateAI", "d6/d10/a18540.html#ac3c8dc2e5bf6e0c3f380f395a785ad49", null ],
+    [ "_bolvarFordragon", "d6/d10/a18540.html#a8e8ae990a6e70a70ce6de3a13300261c", null ],
+    [ "_damnedKills", "d6/d10/a18540.html#a56e035884d2ab94629c133efc1fc8feb", null ],
+    [ "_events", "d6/d10/a18540.html#a8d8d6f1b8dc65b28a8117426e3767762", null ],
+    [ "_factionNPC", "d6/d10/a18540.html#acf9a436edcbfe3fcf47f56c5cf90cfb2", null ],
+    [ "_instance", "d6/d10/a18540.html#acd16d6200b08df23576aa9ccbb060d31", null ],
+    [ "_theLichKing", "d6/d10/a18540.html#afbe85d7002e34cfcb9414f2beda4e0a2", null ]
 ];

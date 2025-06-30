@@ -1,6 +1,6 @@
 var a25268 =
 [
-    [ "OnProc", "d1/da2/a25268.html#ac7f0a86f2d0c5dcb945eb7ccb9cd5c88", null ],
-    [ "PrepareAuraScript", "d1/da2/a25268.html#a6a7b011f151ff81672221b84eb4456b8", null ],
-    [ "Register", "d1/da2/a25268.html#a15b05d352f94d2aabeb75a6bfd996fc6", null ]
+    [ "CalculateDamage", "d1/da2/a25268.html#a2b0d2465c42bb32a2e0a2be1884eddb6", null ],
+    [ "PrepareSpellScript", "d1/da2/a25268.html#a4271f026fd9cddeb109761e9b864c381", null ],
+    [ "Register", "d1/da2/a25268.html#a03bb4cf19328efa783600273663b609a", null ]
 ];

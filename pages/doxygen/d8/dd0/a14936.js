@@ -1,6 +1,7 @@
 var a14936 =
 [
-    [ "HandleDamageCalc", "d8/dd0/a14936.html#a03eb92eff300872cd5fca452a99375ab", null ],
-    [ "PrepareSpellScript", "d8/dd0/a14936.html#ac07421b62bb6044dad89431839a70bd8", null ],
-    [ "Register", "d8/dd0/a14936.html#a70cbf764ab475e2358fa6630798cab9d", null ]
+    [ "boss_kurinnaxx", "d8/dd0/a14936.html#aa8b471e6239080b2a5f70e50e07a9621", null ],
+    [ "InitializeAI", "d8/dd0/a14936.html#a0e249007d5bf29eb0cff307045ef9eb3", null ],
+    [ "JustDied", "d8/dd0/a14936.html#adb749c8737888a099ad7a3d58292a612", null ],
+    [ "JustEngagedWith", "d8/dd0/a14936.html#a451cd7ee80b0428a199c33012562bdb3", null ]
 ];

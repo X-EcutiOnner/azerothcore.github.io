@@ -1,6 +1,7 @@
 var a22632 =
 [
-    [ "HandleScriptEffect", "da/d0b/a22632.html#a21740b341acce23e284a3d4ceea9b6e0", null ],
-    [ "PrepareSpellScript", "da/d0b/a22632.html#addcd30a673390ca8b76eab5ccb5f4245", null ],
-    [ "Register", "da/d0b/a22632.html#aad6959f74932db219e991efd3b3af44a", null ]
+    [ "npc_voidtraveler", "da/d0b/a22632.html#a07e473c14836a0612acd52078a93f2d8", null ],
+    [ "Reset", "da/d0b/a22632.html#a6efe0725917c92657220de2b60579289", null ],
+    [ "UpdateAI", "da/d0b/a22632.html#aaa907fe2f6ef1029a23fd819af0a44c3", null ],
+    [ "_scheduler", "da/d0b/a22632.html#a1809494e7803103f6bc1698e780dcfbc", null ]
 ];

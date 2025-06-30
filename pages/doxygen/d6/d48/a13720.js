@@ -1,10 +1,12 @@
 var a13720 =
 [
-    [ "boss_alyson_antille", "d6/d48/a13720.html#a8b95891ced3f17f67470d1ec7b1a9a3e", null ],
-    [ "GetNearbyFriendlies", "d6/d48/a13720.html#ab99596d5c2eafac8c678378d509bf585", null ],
-    [ "JustEngagedWith", "d6/d48/a13720.html#a7a7d62c52a403ac1d8e5d275a74cad6e", null ],
-    [ "RandomReverseFriendlyList", "d6/d48/a13720.html#afef27de229ba2c3b8beb30809a313237", null ],
-    [ "Reset", "d6/d48/a13720.html#a40d901bde9f8419a1c73aa073f6fb334", null ],
-    [ "UpdateAI", "d6/d48/a13720.html#a15157be42d166a239ab658fc04292e44", null ],
-    [ "_friendlyList", "d6/d48/a13720.html#a0168c4a0f1e9862fe0d83ffac89aa634", null ]
+    [ "npc_daphne_stilwellAI", "d6/d48/a13720.html#ac2e9f940bc64a70ff8a386e4f483a65e", null ],
+    [ "AttackStart", "d6/d48/a13720.html#a30056a45adb91a12cf7bcc4e9f0b2d54", null ],
+    [ "JustSummoned", "d6/d48/a13720.html#ae56554d30e9de7644efab891555c57e0", null ],
+    [ "Reset", "d6/d48/a13720.html#ae6f0b271478aecf7fd1f3e1c733d77f0", null ],
+    [ "SummonedCreatureDies", "d6/d48/a13720.html#aa6fdcf9e09031522d342b603b4c70aed", null ],
+    [ "Update", "d6/d48/a13720.html#a4099d75c4a6bca1525781a5753ef9972", null ],
+    [ "WaypointReached", "d6/d48/a13720.html#a1035eb0a1696730d8304593b5fb079e4", null ],
+    [ "summons", "d6/d48/a13720.html#a0cbf5aaf1cb2f234e725074de0acc7e6", null ],
+    [ "textCounter", "d6/d48/a13720.html#a62ab24169c1b7c3028ab33303b217f63", null ]
 ];

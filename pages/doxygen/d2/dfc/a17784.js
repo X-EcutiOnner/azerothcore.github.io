@@ -1,6 +1,6 @@
 var a17784 =
 [
-    [ "FilterTargets", "d2/dfc/a17784.html#ac2396cbd000a8d58ff22dbb08c81dfb4", null ],
-    [ "PrepareSpellScript", "d2/dfc/a17784.html#abcdfe528430e299c2eb64b24f7ff8eb0", null ],
-    [ "Register", "d2/dfc/a17784.html#a32e04a1110d651701b8eab1648c69a57", null ]
+    [ "MalleableGooSelector", "d2/dfc/a17784.html#a5adb1e89ab7d5733514a8fefc5de6a35", null ],
+    [ "operator()", "d2/dfc/a17784.html#adf73957539fdcc604f849944473e0015", null ],
+    [ "me", "d2/dfc/a17784.html#a6cd991b360895b4b3405f0cd9e63879f", null ]
 ];

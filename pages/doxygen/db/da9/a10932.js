@@ -1,17 +1,12 @@
 var a10932 =
 [
-    [ "WorldPacket", "db/da9/a10932.html#a6329945c46586b75f41f4f3b0410a046", null ],
-    [ "WorldPacket", "db/da9/a10932.html#a121222c627cfce905891be1611705a1a", null ],
-    [ "WorldPacket", "db/da9/a10932.html#af406fe2f357035990fd5eccf37f3fb93", null ],
-    [ "WorldPacket", "db/da9/a10932.html#a2880e36e172096407778fcbbdfe917bc", null ],
-    [ "WorldPacket", "db/da9/a10932.html#a251580581b403cc113aa743c0196ceea", null ],
-    [ "WorldPacket", "db/da9/a10932.html#a224a2ad18da5d8dd7a7bcbb887870243", null ],
-    [ "GetOpcode", "db/da9/a10932.html#a666547feae3b83bfbba424a541287239", null ],
-    [ "GetReceivedTime", "db/da9/a10932.html#a467aa36509adcb07f51bc8af24137c3e", null ],
-    [ "Initialize", "db/da9/a10932.html#a6b7d58fb0230383629fa888d3aa9dbd8", null ],
-    [ "operator=", "db/da9/a10932.html#ad44064a3c2c73f6289a9db539b408f50", null ],
-    [ "operator=", "db/da9/a10932.html#aa1196a05e7b338543b3b94188e59721f", null ],
-    [ "SetOpcode", "db/da9/a10932.html#acb55a3f9540c39bf88300473c29605ed", null ],
-    [ "m_opcode", "db/da9/a10932.html#a4ff77d8a27744f07bbab70cdc4a3ef91", null ],
-    [ "m_receivedTime", "db/da9/a10932.html#abb78776ad3a0f19e5e3d226666612b49", null ]
+    [ "Build", "db/da9/a10932.html#aa5ed2806342a36723f1317105ebc13fa", null ],
+    [ "FormatVersion", "db/da9/a10932.html#abf0c90aa56c9f74e4139b4a1ead3115e", null ],
+    [ "Locale", "db/da9/a10932.html#acdcbe4c10ad6143b756638349c185ae5", null ],
+    [ "OptionalDataSize", "db/da9/a10932.html#a88c79f6e69197e23ce191bcef187c0fe", null ],
+    [ "SessionKey", "db/da9/a10932.html#aff4e4f46725d72923bac3e197ae7d2e3", null ],
+    [ "Signature", "db/da9/a10932.html#a34b88d6d83daeee7827176993c152de4", null ],
+    [ "SnifferId", "db/da9/a10932.html#a95d3f116ef30a096970ee4f3dd10e2ed", null ],
+    [ "SniffStartTicks", "db/da9/a10932.html#a1884076ea4fe5af08964471d0058fd4d", null ],
+    [ "SniffStartUnixtime", "db/da9/a10932.html#a8923983e21b7a7f1dd3ee4f21b7df592", null ]
 ];

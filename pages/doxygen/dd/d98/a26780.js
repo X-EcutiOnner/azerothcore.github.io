@@ -1,10 +1,8 @@
 var a26780 =
 [
-    [ "CheckProc", "dd/d98/a26780.html#a257202ac9b80a67ce58d9e3491164d22", null ],
-    [ "HandleProc", "dd/d98/a26780.html#aa3c74b25fbe63ac77e10260159adb8ca", null ],
-    [ "HandleTick", "dd/d98/a26780.html#a5e436c530e5ef70bc4de4305676ed196", null ],
-    [ "PrepareAuraScript", "dd/d98/a26780.html#aef7d1a2bbd59af36cc130f07e1204081", null ],
-    [ "Register", "dd/d98/a26780.html#a11b0120ea8c8ccf1c96e5d1053d64895", null ],
-    [ "RemoveEffect", "dd/d98/a26780.html#a333ad80d8478f59713ee049f935d7885", null ],
-    [ "Validate", "dd/d98/a26780.html#aed3cb37f0230463978b210add84bd31d", null ]
+    [ "CheckProc", "dd/d98/a26780.html#a610313f5085c7c0109b5936e94de00fe", null ],
+    [ "OnProc", "dd/d98/a26780.html#ad87c4cbd332dc19be3bc8ec9982a385b", null ],
+    [ "PrepareAuraScript", "dd/d98/a26780.html#aae4d26e262f80681811c9b50c2a63642", null ],
+    [ "Register", "dd/d98/a26780.html#a8fdcd2b4489011294d9f58d5ff0beb3f", null ],
+    [ "Validate", "dd/d98/a26780.html#a00ef3cd4b2ee5739f5f7288ccbd6a1c6", null ]
 ];

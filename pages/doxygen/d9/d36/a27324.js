@@ -1,5 +1,6 @@
 var a27324 =
 [
-    [ "item_petrov_cluster_bombs", "d9/d36/a27324.html#a1a76760f7c4617a40d96b9833e7466df", null ],
-    [ "OnUse", "d9/d36/a27324.html#a14e8a00a532b5aebc8469ff538848f53", null ]
+    [ "guard_shattrath_scryerAI", "dd/d38/a27328.html", "dd/d38/a27328" ],
+    [ "guard_shattrath_scryer", "d9/d36/a27324.html#a2ee4d6881d7c24cd848c590b84207663", null ],
+    [ "GetAI", "d9/d36/a27324.html#ab1d937102f63c63de4c92e45eff2c21c", null ]
 ];

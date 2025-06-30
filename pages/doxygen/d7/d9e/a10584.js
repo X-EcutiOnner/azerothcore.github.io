@@ -1,5 +1,8 @@
 var a10584 =
 [
-    [ "Flags", "d7/d9e/a10584.html#af1d25fa760cdbfa907a1b6e0002f0e70", null ],
-    [ "WithdrawItemLimit", "d7/d9e/a10584.html#aa7bb5355ee174f3b9dd32c659e0f7806", null ]
+    [ "OtherGUID", "d7/d9e/a10584.html#a3f7486a2e4e07fef318414eaaa9037da", null ],
+    [ "PlayerGUID", "d7/d9e/a10584.html#ae3d1217ddbfccd601fcbc57b78739a94", null ],
+    [ "RankID", "d7/d9e/a10584.html#a1aebcb39f85c2b44101a311a6ccefdfd", null ],
+    [ "TransactionDate", "d7/d9e/a10584.html#a4a8054876b35134e5dfe2cf84887e66f", null ],
+    [ "TransactionType", "d7/d9e/a10584.html#aa48b69aa9078fb150470d66201b34786", null ]
 ];

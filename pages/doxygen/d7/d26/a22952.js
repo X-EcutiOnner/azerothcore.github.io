@@ -1,9 +1,7 @@
 var a22952 =
 [
-    [ "HandleEffectApply", "d7/d26/a22952.html#aca8ff864832d30e45bccfca12256560a", null ],
-    [ "HandleEffectRemove", "d7/d26/a22952.html#a2e16e86ce6e3231cf3fabc1d5bb1a6e7", null ],
-    [ "Load", "d7/d26/a22952.html#a3b9838f26673ce344ca40f9f487ef878", null ],
-    [ "PrepareAuraScript", "d7/d26/a22952.html#a79b93c86a01d31d08cba15436856b794", null ],
-    [ "Register", "d7/d26/a22952.html#aa6c04279944abd31c42bb5dc4319aaf2", null ],
-    [ "_turtleSet", "d7/d26/a22952.html#a308b9e032576ae058e9f2469dcc8ff23", null ]
+    [ "CalculateAmount", "d7/d26/a22952.html#af0db71393c0b4a7bd5f4e11bd0212d06", null ],
+    [ "PrepareAuraScript", "d7/d26/a22952.html#a5af876b76d9239808ac72c5b6177cdcb", null ],
+    [ "Register", "d7/d26/a22952.html#a6d0d47536e6ef74a88c97019843d478c", null ],
+    [ "Update", "d7/d26/a22952.html#afd2ed6f36d1596a2de753f04c5563c5f", null ]
 ];

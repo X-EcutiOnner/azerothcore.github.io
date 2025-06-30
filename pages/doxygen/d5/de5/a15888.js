@@ -1,6 +1,7 @@
 var a15888 =
 [
-    [ "npc_twilight_summonAI", "d4/de5/a15892.html", "d4/de5/a15892" ],
-    [ "npc_twilight_summon", "d5/de5/a15888.html#a2406ee3b02d9f1b1ebef54623d9a3c11", null ],
-    [ "GetAI", "d5/de5/a15888.html#a98bf5ce96c25bc252acd46163644bf33", null ]
+    [ "instance_azjol_nerub_InstanceScript", "d5/de5/a15888.html#a886ed4c1485fdedcc176341210eee31a", null ],
+    [ "OnCreatureCreate", "d5/de5/a15888.html#a7a99d985a4b465ae87c04211a7a83a77", null ],
+    [ "OnGameObjectCreate", "d5/de5/a15888.html#a1ef3dc88400345998d03f3c993b9a181", null ],
+    [ "OnGameObjectRemove", "d5/de5/a15888.html#a3a2776b83272d81de9ddcb0c90ac881c", null ]
 ];

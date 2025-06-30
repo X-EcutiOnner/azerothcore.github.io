@@ -1,5 +1,8 @@
 var a05716 =
 [
-    [ "changed", "da/de9/a05716.html#a98ad429a8aa7a190e94f943a2ec5edf2", null ],
-    [ "date", "da/de9/a05716.html#a3c6c1cca7f125fc98323669e4e9c775d", null ]
+    [ "Statements", "da/de9/a05716.html#a6dc31cb64a22e90cc5275bf6fcaaf000", null ],
+    [ "LoginDatabaseConnection", "da/de9/a05716.html#aed22866380f9331ff73d4437a779206c", null ],
+    [ "LoginDatabaseConnection", "da/de9/a05716.html#a27fa1397706cf8b986fe0a05a82a910b", null ],
+    [ "~LoginDatabaseConnection", "da/de9/a05716.html#a7514a6e42889d5d75dcce2e804fff7b8", null ],
+    [ "DoPrepareStatements", "da/de9/a05716.html#a3f826d59e4efa55d7825f90f434ae889", null ]
 ];

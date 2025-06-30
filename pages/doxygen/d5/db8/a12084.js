@@ -1,7 +1,6 @@
 var a12084 =
 [
-    [ "boss_urok_doomhowlAI", "d5/db8/a12084.html#ade3d87a05eed0fd077b2e3245099ed74", null ],
-    [ "InitializeAI", "d5/db8/a12084.html#a530bef523a27523827d3a94aa5f88698", null ],
-    [ "JustEngagedWith", "d5/db8/a12084.html#abd74d844bcae5f9bd8fdd3797323af2c", null ],
-    [ "UpdateAI", "d5/db8/a12084.html#a6ab5793a48534b7c338a915a7ed8faf9", null ]
+    [ "OrcDeathEvent", "d5/db8/a12084.html#ae4088ee95c3c0de9ae524a82803b0ea2", null ],
+    [ "Execute", "d5/db8/a12084.html#a293ec6667da669a27fe75965f919cd68", null ],
+    [ "_me", "d5/db8/a12084.html#a56cdf23ed08cbb800ba6fe7fb5e284b7", null ]
 ];

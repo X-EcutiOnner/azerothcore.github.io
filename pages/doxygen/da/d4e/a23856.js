@@ -1,8 +1,7 @@
 var a23856 =
 [
-    [ "instance_mechanar_InstanceMapScript", "da/d4e/a23856.html#a728d427162c0f56e7d229c55ff88bfbd", null ],
-    [ "OnCreatureCreate", "da/d4e/a23856.html#aa0c6a84a6ace9299b18f0cc54263b398", null ],
-    [ "OnGameObjectCreate", "da/d4e/a23856.html#a236a8c67ca57ffc7d2161c00e8acbd64", null ],
-    [ "OnGameObjectRemove", "da/d4e/a23856.html#ac79c4f1dad7f2caf1278e242ec8fadc9", null ],
-    [ "_pathaleonGUID", "da/d4e/a23856.html#aaf5c80af5ba2ba46b3c53ccffaaa1d3b", null ]
+    [ "boss_gatewatcher_iron_hand", "da/d4e/a23856.html#aef70e713007af38b510f0a3b8c082b24", null ],
+    [ "JustDied", "da/d4e/a23856.html#a36b10cd02b35b6e106687b08bc80bfa6", null ],
+    [ "JustEngagedWith", "da/d4e/a23856.html#aa6a9f456d158e4c0332816c7e65ec155", null ],
+    [ "KilledUnit", "da/d4e/a23856.html#a1973142412b4094dbd9fa51600741148", null ]
 ];

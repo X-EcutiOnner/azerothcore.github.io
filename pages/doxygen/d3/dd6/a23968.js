@@ -1,6 +1,6 @@
 var a23968 =
 [
-    [ "go_beaconAI", "d3/dd6/a23968.html#a95f0f62d4e34da650c22a7ce796fc85f", null ],
-    [ "OnStateChanged", "d3/dd6/a23968.html#a10bd78bf6c2451fe95163eb9083bdf44", null ],
-    [ "creatureList", "d3/dd6/a23968.html#a8f406b85752e42cc26741aa5a13e69bc", null ]
+    [ "npc_aeranasAI", "d3/d66/a23972.html", "d3/d66/a23972" ],
+    [ "npc_aeranas", "d3/dd6/a23968.html#a6ea71481ef6a223a329b805081122537", null ],
+    [ "GetAI", "d3/dd6/a23968.html#a81167df6665bdca81ee13468dec19643", null ]
 ];

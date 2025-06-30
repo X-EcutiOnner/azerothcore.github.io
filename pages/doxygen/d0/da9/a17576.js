@@ -1,9 +1,7 @@
 var a17576 =
 [
-    [ "HandleApply", "d0/da9/a17576.html#a5f23d41765ec949486094a0da45be7e8", null ],
-    [ "HandleRemove", "d0/da9/a17576.html#a8737bad17bf7aa3e52cb2e0b7fbc9178", null ],
-    [ "Load", "d0/da9/a17576.html#a7c2644d06592b0d929a0b59cf8fa0f1b", null ],
-    [ "PrepareAuraScript", "d0/da9/a17576.html#aabf5fdf4578935db11e041e638fba187", null ],
-    [ "Register", "d0/da9/a17576.html#a6bdc66b6028002b5fc873803a434b6b1", null ],
-    [ "SendClientControl", "d0/da9/a17576.html#a24f79a4c59d4bf615a6de745ffa11d81", null ]
+    [ "npc_gunship_rocketeerAI", "d0/da9/a17576.html#aa9e722f32cd95fff8c72db5a41d0e84c", null ],
+    [ "CanAIAttack", "d0/da9/a17576.html#a4b4e2839e426bdb752beea09394f13dc", null ],
+    [ "MovementInform", "d0/da9/a17576.html#a7dd7f3625b177a96bcfdc5e46d944562", null ],
+    [ "UpdateAI", "d0/da9/a17576.html#af73d71750f116fb90be1c2acba75ca70", null ]
 ];

@@ -1,8 +1,10 @@
 var a09312 =
 [
-    [ "NearestAttackableNoTotemUnitInObjectRangeCheck", "dd/dc7/a09312.html#a1f0bf90a7b9c57d05c54e3db6827aec1", null ],
-    [ "operator()", "dd/dc7/a09312.html#a08f8e473914c8a7bddbf26568294c18b", null ],
-    [ "i_obj", "dd/dc7/a09312.html#a949ff3bcc3530206d83512d293647a2b", null ],
-    [ "i_owner", "dd/dc7/a09312.html#a64f58427bbab3276bdc53450b33eca12", null ],
-    [ "i_range", "dd/dc7/a09312.html#af52388830cec17e32b1d368739b4555a", null ]
+    [ "MostHPPercentMissingInRange", "dd/dc7/a09312.html#aaef0deb21e2470b45cafc22a8c4d18a5", null ],
+    [ "operator()", "dd/dc7/a09312.html#ab1734490a3db95ad715756e85ecfaf77", null ],
+    [ "i_hpPct", "dd/dc7/a09312.html#a41a3b1c4d1f27a2d727e7a18e2e30a7d", null ],
+    [ "i_maxHpPct", "dd/dc7/a09312.html#afd12795ef0cd99e05e4e21f869582416", null ],
+    [ "i_minHpPct", "dd/dc7/a09312.html#a11c197d3eea1a8ded0b20f707e6ed5d0", null ],
+    [ "i_obj", "dd/dc7/a09312.html#a724cf058a6bcf02864a49bb288e32ce6", null ],
+    [ "i_range", "dd/dc7/a09312.html#a021acff6bdb6aef9ab24c19d8798884f", null ]
 ];

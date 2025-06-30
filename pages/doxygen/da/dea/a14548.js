@@ -1,7 +1,11 @@
 var a14548 =
 [
-    [ "OnPeriodic", "da/dea/a14548.html#a4ed63f32afe3831d7fb08333ff1d379f", null ],
-    [ "PrepareAuraScript", "da/dea/a14548.html#a74be4e2b0f9c6254a87a7cfb8159fc9b", null ],
-    [ "Register", "da/dea/a14548.html#aeb388d608830aeb3b30f707304403b41", null ],
-    [ "Validate", "da/dea/a14548.html#af27768000c5c3232a1264f4f1f2bd7b3", null ]
+    [ "boss_anetheron", "da/dea/a14548.html#a6c103caa3f137756599a75bff03a6648", null ],
+    [ "DoAction", "da/dea/a14548.html#a2fd485de26c820fec5240f9141a09964", null ],
+    [ "JustDied", "da/dea/a14548.html#a7c8b2039ee7e379bed8387b7236b7ee5", null ],
+    [ "JustEngagedWith", "da/dea/a14548.html#aa34ac87ad4014fbecb481be7896c577c", null ],
+    [ "JustSummoned", "da/dea/a14548.html#af9c156e28c7eca710d8367bd2a99387d", null ],
+    [ "KilledUnit", "da/dea/a14548.html#a4471af823278a3664574729bf5c749be", null ],
+    [ "PathEndReached", "da/dea/a14548.html#a75ed708e2769a77defa5c9a0b22dcae9", null ],
+    [ "_recentlySpoken", "da/dea/a14548.html#accd9455c3b1d536ca177be6028f3503d", null ]
 ];

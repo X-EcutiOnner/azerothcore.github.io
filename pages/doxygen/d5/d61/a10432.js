@@ -1,6 +1,7 @@
 var a10432 =
 [
-    [ "ShowBank", "d5/d61/a10432.html#a57c189db7f6338f73d4e0028d846cfcf", null ],
-    [ "Write", "d5/d61/a10432.html#a39e1b86a7d4d6163ab504797be1af505", null ],
-    [ "Banker", "d5/d61/a10432.html#aeceda879d837508d95b79fbd3ee8d892", null ]
+    [ "ClientPacket", "d5/d61/a10432.html#aa1d1946c07e248bae5927e83fdad9500", null ],
+    [ "ClientPacket", "d5/d61/a10432.html#a1cdaaacca2695c4366647c7611073ff0", null ],
+    [ "GetOpcode", "d5/d61/a10432.html#aa51558bb8faa96a665fe40b1bddf9d14", null ],
+    [ "Write", "d5/d61/a10432.html#a16e5b9fa05e35fa1e32e33bef2688487", null ]
 ];

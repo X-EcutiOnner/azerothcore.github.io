@@ -1,8 +1,9 @@
 var a07968 =
 [
-    [ "TemporaryThreatModifierEvent", "dc/dd7/a07968.html#afd58a1128ac6629d7541ba1bfd4ef886", null ],
-    [ "Execute", "dc/dd7/a07968.html#a2bbd75ad5e293e78e4bffe880f371d1e", null ],
-    [ "m_owner", "dc/dd7/a07968.html#ab786c99d73f0048a993ce7cee8c3b875", null ],
-    [ "m_threatValue", "dc/dd7/a07968.html#aacb0f6e66d22a93ff074b4cbcf12b788", null ],
-    [ "m_threatVictimGUID", "dc/dd7/a07968.html#aeae82bd80c9b8b08573c6e3baf359f55", null ]
+    [ "LFGPlayerScript", "dc/dd7/a07968.html#ad27ca48d9e573ad0ba155a3f7eb1ae88", null ],
+    [ "OnPlayerBindToInstance", "dc/dd7/a07968.html#aeb3fd4e39ed8ba345cf3c76a232f241d", null ],
+    [ "OnPlayerLevelChanged", "dc/dd7/a07968.html#afd530a2823a7187b49645c9d0625c8ba", null ],
+    [ "OnPlayerLogin", "dc/dd7/a07968.html#a3b4e8775787feb8266edc52fddc7ab3a", null ],
+    [ "OnPlayerLogout", "dc/dd7/a07968.html#a13c365770c90d1a44f72ab4cb8c7f903", null ],
+    [ "OnPlayerMapChanged", "dc/dd7/a07968.html#ab3022d19b8d32bf0f269b2e991150a1c", null ]
 ];

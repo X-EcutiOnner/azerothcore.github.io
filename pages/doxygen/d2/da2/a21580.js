@@ -1,8 +1,7 @@
 var a21580 =
 [
-    [ "npc_shandy_dalaranAI", "df/db2/a21584.html", "df/db2/a21584" ],
-    [ "npc_shandy_dalaran", "d2/da2/a21580.html#a7077c769a252af8ba37b5ff5d524463e", null ],
-    [ "GetAI", "d2/da2/a21580.html#a641551a2aef739e1679912ae27ddb888", null ],
-    [ "OnGossipHello", "d2/da2/a21580.html#a91287aaba09fce091c9d826e75208f84", null ],
-    [ "OnGossipSelect", "d2/da2/a21580.html#ad005a17da187e0cfd03d2faf0099c448", null ]
+    [ "npc_thassarianAI", "d2/da2/a21580.html#a92e873dc3aa97f81919225ce75a5f894", null ],
+    [ "Reset", "d2/da2/a21580.html#a8611ef17700c739dbd5e7a70660f1379", null ],
+    [ "UpdateAI", "d2/da2/a21580.html#ad09a3a063d716bc43e23b5aad5e46a7b", null ],
+    [ "_events", "d2/da2/a21580.html#aaecb5a402e4ffca1e819303dbb94f5b5", null ]
 ];

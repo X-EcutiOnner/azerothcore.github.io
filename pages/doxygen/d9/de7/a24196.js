@@ -1,5 +1,6 @@
 var a24196 =
 [
-    [ "npc_shattrath_daily_quest", "d9/de7/a24196.html#ab6aa71e4738fdce1b59d379249a868d5", null ],
-    [ "DoAction", "d9/de7/a24196.html#ac3e8c6de30ad7567fe5e52cd1ddfeb2c", null ]
+    [ "npc_shadowmoon_tuber_nodeAI", "d5/dff/a24200.html", "d5/dff/a24200" ],
+    [ "npc_shadowmoon_tuber_node", "d9/de7/a24196.html#a98e8c7a84789457900fa342cca209d41", null ],
+    [ "GetAI", "d9/de7/a24196.html#a5f641af77e2fd78fe67b34fa18bf6b73", null ]
 ];

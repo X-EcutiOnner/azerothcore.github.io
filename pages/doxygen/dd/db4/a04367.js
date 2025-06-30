@@ -1,9 +1,12 @@
 var a04367 =
 [
-    [ "Acore::Impl::StringConvertImpl::For< T, typename >", "d0/d2f/a05507.html", null ],
-    [ "Acore::Impl::StringConvertImpl::For< T, std::enable_if_t< std::is_integral_v< T > &&!std::is_same_v< T, bool > > >", "d4/da8/a05511.html", "d4/da8/a05511" ],
-    [ "Acore::Impl::StringConvertImpl::For< bool, void >", "d1/dab/a05515.html", "d1/dab/a05515" ],
-    [ "Acore::Impl::StringConvertImpl::For< T, std::enable_if_t< std::is_floating_point_v< T > > >", "de/d01/a05519.html", "de/d01/a05519" ],
-    [ "StringTo", "dd/db4/a04367.html#a71739ada07c2f1b12bcd0aa811eea903", null ],
-    [ "ToString", "dd/db4/a04367.html#ac2cb308fb001c35fbaa90489ea6cf478", null ]
+    [ "EnumFlag< T >", "d9/d21/a05448.html", "d9/d21/a05448" ],
+    [ "DEFINE_ENUM_FLAG", "dd/db4/a04367.html#a9f556f9c539f21ae6fd639abe4c39c75", null ],
+    [ "IsFlag", "dd/db4/a04367.html#a7294b75cb336d554d5ce2b75b05c37d6", null ],
+    [ "IsEnumFlag", "dd/db4/a04367.html#ae0992e010612850442fc56bcf2d44b47", null ],
+    [ "operator&", "dd/db4/a04367.html#a27ef39aed098304d7387af8257f7cee3", null ],
+    [ "operator&=", "dd/db4/a04367.html#a24a78ca9e9dcd1b92829560e580c3134", null ],
+    [ "operator|", "dd/db4/a04367.html#ac8aaa198de31cb5a3b217d0968f30a3b", null ],
+    [ "operator|=", "dd/db4/a04367.html#a7808a2b72bed2b70553d802ed11e27c4", null ],
+    [ "operator~", "dd/db4/a04367.html#abe3f4d2eafbceebe9ec46ffcd15cfa76", null ]
 ];

@@ -1,7 +1,8 @@
 var a15628 =
 [
-    [ "npc_ranshallaAI", "d3/d99/a15632.html", "d3/d99/a15632" ],
-    [ "npc_ranshalla", "db/d4e/a15628.html#a0b9848c68cf955d24024071ae9beb8e5", null ],
-    [ "GetAI", "db/d4e/a15628.html#a1a81651366cc05d3ad6e9929160fe059", null ],
-    [ "OnQuestAccept", "db/d4e/a15628.html#a4ed77a4c0a48dc4922fa5ebb71949e28", null ]
+    [ "npc_pluckyAI", "d3/d99/a15632.html", "d3/d99/a15632" ],
+    [ "npc_plucky", "db/d4e/a15628.html#a86bb2992b8af5893987145117aaf3608", null ],
+    [ "GetAI", "db/d4e/a15628.html#a51e73f4e1f618aee5a000e31328efefc", null ],
+    [ "OnGossipHello", "db/d4e/a15628.html#a3443f3e8c2b3fcc96955ab2e55e7fd61", null ],
+    [ "OnGossipSelect", "db/d4e/a15628.html#a88fa465246b4c657b921ebdc96f7a112", null ]
 ];

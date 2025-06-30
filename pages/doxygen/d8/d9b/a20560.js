@@ -1,9 +1,6 @@
 var a20560 =
 [
-    [ "boss_thorim_gauntlet_npcsAI", "d8/d9b/a20560.html#aaa7e94f653a1db001cd0c962fb855098", null ],
-    [ "JustEngagedWith", "d8/d9b/a20560.html#afaf0a05b1fd2fc2187b52328340b65bb", null ],
-    [ "Reset", "d8/d9b/a20560.html#a9e4c25742785809d788f2e910f7840bc", null ],
-    [ "UpdateAI", "d8/d9b/a20560.html#a4dd5a9cbbb10d514a0473dfd7cdd3c29", null ],
-    [ "_isCaster", "d8/d9b/a20560.html#a104f447cc52c285d59653a8ebff20fef", null ],
-    [ "events", "d8/d9b/a20560.html#a650508e05b6fa1af538a0b34e04c8bf5", null ]
+    [ "boss_thorim_sifAI", "df/d1c/a20564.html", "df/d1c/a20564" ],
+    [ "boss_thorim_sif", "d8/d9b/a20560.html#a71ef8a92f648cbea6553ed1cc657f13d", null ],
+    [ "GetAI", "d8/d9b/a20560.html#ae4eadf2bf83c41a8f05b853267b5fcf9", null ]
 ];

@@ -1,6 +1,9 @@
 var a21032 =
 [
-    [ "npc_ferocious_rhinoAI", "d1/d53/a21036.html", "d1/d53/a21036" ],
-    [ "npc_ferocious_rhino", "d9/dd4/a21032.html#a480c1d0c24cdbe7cd3c47332ee925466", null ],
-    [ "GetAI", "d9/dd4/a21032.html#aa5c3cba6b1ed6cffaac578c5449b9b4e", null ]
+    [ "npc_vrykul_skeleton", "d9/dd4/a21032.html#afda2014efb0ce63ee41c46cf2ad6c130", null ],
+    [ "DamageTaken", "d9/dd4/a21032.html#a840244c4183987e4fda533edb2ddeff2", null ],
+    [ "Reset", "d9/dd4/a21032.html#af950342b2177c84c101485736855b998", null ],
+    [ "UpdateAI", "d9/dd4/a21032.html#a80cd072eef6b0bf03a9a6a2fe22e252a", null ],
+    [ "events", "d9/dd4/a21032.html#a897bb5b5519f6f507bca49c5c5de17f6", null ],
+    [ "pInstance", "d9/dd4/a21032.html#a834f0162540683c20f9fa0f9e32eee33", null ]
 ];

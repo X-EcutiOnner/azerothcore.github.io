@@ -1,6 +1,8 @@
 var a22600 =
 [
-    [ "PrepareSpellScript", "d7/d40/a22600.html#ad8640f1c01d64f8bbca16e0b636f7f21", null ],
-    [ "Register", "d7/d40/a22600.html#aa41700bf097963c5a352442723181037", null ],
-    [ "SelectTarget", "d7/d40/a22600.html#a15d790b134de8a8c7497ee8d0a6217ba", null ]
+    [ "boss_darkweaver_syth", "d7/d40/a22600.html#a4f719165e07206c5a378412b3f82ff86", null ],
+    [ "JustDied", "d7/d40/a22600.html#adf7e44e3fdc7241baa5f9eddafcb6d40", null ],
+    [ "JustEngagedWith", "d7/d40/a22600.html#aaf6dab75e66734e930c5732749f3d69a", null ],
+    [ "KilledUnit", "d7/d40/a22600.html#a1904c2596dd455f84625974beec4a2c8", null ],
+    [ "Reset", "d7/d40/a22600.html#a484a6dea12ca9e5a20f0a0761461c1f5", null ]
 ];

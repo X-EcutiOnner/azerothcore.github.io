@@ -1,10 +1,10 @@
 var a10164 =
 [
-    [ "AchievementScript", "d2/dd2/a10164.html#a85f0d7a676e7e31bc87ca64040b29489", null ],
-    [ "CanCheckCriteria", "d2/dd2/a10164.html#aca4cb16b55f7990c676267b8f10b4e57", null ],
-    [ "IsCompletedCriteria", "d2/dd2/a10164.html#a33d7ba1a6bf82da8e2de367553c0fb52", null ],
-    [ "IsDatabaseBound", "d2/dd2/a10164.html#a9ea2ed91c281e881404c31a948de0fc9", null ],
-    [ "IsRealmCompleted", "d2/dd2/a10164.html#abc54c295c1bcad45e21aed99e43a3713", null ],
-    [ "OnBeforeCheckCriteria", "d2/dd2/a10164.html#afac6fc03c2ba91165fbdf2ccc5422063", null ],
-    [ "SetRealmCompleted", "d2/dd2/a10164.html#acf6a63ba96da7b33a92d48a95a549d4e", null ]
+    [ "QuestStatusData", "d2/dd2/a10164.html#ae71725a7f75e10aacb6f4a9ca4b72f27", null ],
+    [ "CreatureOrGOCount", "d2/dd2/a10164.html#aa5892dc0744a41ac565568307f12ad35", null ],
+    [ "Explored", "d2/dd2/a10164.html#a734f6a61aa35c77689d33031e88f0c0b", null ],
+    [ "ItemCount", "d2/dd2/a10164.html#a466999cea52f65bf58916bc34750bf95", null ],
+    [ "PlayerCount", "d2/dd2/a10164.html#a170a1e54fe45b7fd0c7934f1309f7969", null ],
+    [ "Status", "d2/dd2/a10164.html#a4ce7af3a64737d7961b6dfa19189c932", null ],
+    [ "Timer", "d2/dd2/a10164.html#a16343f7a162e5b7b6a1a18345420c77a", null ]
 ];

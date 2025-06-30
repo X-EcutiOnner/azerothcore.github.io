@@ -1,16 +1,8 @@
 var a12968 =
 [
-    [ "instance_scarlet_monastery_InstanceMapScript", "db/d91/a12968.html#a4abdd53f735be815cb2d43497d1531e0", null ],
-    [ "GetData", "db/d91/a12968.html#a07d9bcc1b1daa29f31be146aaa85993c", null ],
-    [ "GetGuidData", "db/d91/a12968.html#a49ac1088399ef71b1fcd7c90c6a34fac", null ],
-    [ "OnCreatureCreate", "db/d91/a12968.html#a71fcfc166f945325a4ee149645a9ccef", null ],
-    [ "OnGameObjectCreate", "db/d91/a12968.html#a5e90e8cadff18b19c9a1d451dbe675c9", null ],
-    [ "SetData", "db/d91/a12968.html#aaf498d563d070d6250a182f583651777", null ],
-    [ "_ashbringerNpcGUID", "db/d91/a12968.html#a1abdafc284def7ab4069a17c0aeda535", null ],
-    [ "_ashencounter", "db/d91/a12968.html#ac6f544cf00bb6d987c9128cce9c1aa10", null ],
-    [ "_doorChapelGUID", "db/d91/a12968.html#a9f5070bfd7326ccaa1ebe697524a814b", null ],
-    [ "_doorHighInquisitorGUID", "db/d91/a12968.html#a1c9c74f06b2e1db77d5e6c75e720290c", null ],
-    [ "_encounter", "db/d91/a12968.html#a9d025f0d9740eaec42fe4f45971a6cf9", null ],
-    [ "_mograineGUID", "db/d91/a12968.html#ad34fc11ed5bd36a8f3a84f183627deb1", null ],
-    [ "_whitemaneGUID", "db/d91/a12968.html#af6c6214f8d506815afeeb2af4ad4a71b", null ]
+    [ "npc_highlord_darion_mograineAI", "dc/dd6/a12972.html", "dc/dd6/a12972" ],
+    [ "npc_highlord_darion_mograine", "db/d91/a12968.html#a86680b1a140c706b10fd48befc572286", null ],
+    [ "GetAI", "db/d91/a12968.html#a350539ed741fa372ffff92ffbc6e6260", null ],
+    [ "OnGossipHello", "db/d91/a12968.html#a35afc9d80b4570163af9f6013949a70c", null ],
+    [ "OnGossipSelect", "db/d91/a12968.html#a0539d24556c16a1a72be8258c752f5f5", null ]
 ];

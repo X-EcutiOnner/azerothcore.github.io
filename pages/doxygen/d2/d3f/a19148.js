@@ -1,6 +1,6 @@
 var a19148 =
 [
-    [ "npc_nexus_lordAI", "dd/d0d/a19152.html", "dd/d0d/a19152" ],
-    [ "npc_nexus_lord", "d2/d3f/a19148.html#a6e58f0074451dfd04b95b3ecaa0201e3", null ],
-    [ "GetAI", "d2/d3f/a19148.html#a1cea0b189b2ef8e932b51caf3d70d6ba", null ]
+    [ "DespawnTime", "d2/d3f/a19148.html#ae14c357137f16666c74e5f7e3f77aed5", null ],
+    [ "End", "d2/d3f/a19148.html#ac87ea314ccf946eb1fa35985e35c81fd", null ],
+    [ "Start", "d2/d3f/a19148.html#a985271de503fa704a58abe3e64c3b268", null ]
 ];

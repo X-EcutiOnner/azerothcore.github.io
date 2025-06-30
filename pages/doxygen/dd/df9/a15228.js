@@ -1,11 +1,13 @@
 var a15228 =
 [
-    [ "npc_magwinAI", "dd/df9/a15228.html#ad4a352dd0c7c6f76e74f110b00ec9053", null ],
-    [ "JustEngagedWith", "dd/df9/a15228.html#aea2ab8bf79d6fcc3d2036d160274fab8", null ],
-    [ "Reset", "dd/df9/a15228.html#a883ef3cd1b097847de148ccb9bd3e903", null ],
-    [ "sQuestAccept", "dd/df9/a15228.html#aafef28bc7879e29d1fa79ec08f58da55", null ],
-    [ "UpdateEscortAI", "dd/df9/a15228.html#a34236331be8842a9e2a98036ea382e18", null ],
-    [ "WaypointReached", "dd/df9/a15228.html#a7278a3cff406af2ecb3d29c7bf90febc", null ],
-    [ "_events", "dd/df9/a15228.html#a32dad2bde92efab7e0f0d16e809df665", null ],
-    [ "_player", "dd/df9/a15228.html#ac3d7059ee67abcafa0586f0bed5df9cc", null ]
+    [ "instance_wailing_caverns_InstanceMapScript", "dd/df9/a15228.html#a47e596ca151268b9c3419ff2a2fffc1c", null ],
+    [ "GetData", "dd/df9/a15228.html#a17e62e8fe06617868baf85caedc3a0fc", null ],
+    [ "Initialize", "dd/df9/a15228.html#a870ab2322971767fa37986743b31d20c", null ],
+    [ "OnCreatureCreate", "dd/df9/a15228.html#aed3807432711105589d0b060a21836cc", null ],
+    [ "ReadSaveDataMore", "dd/df9/a15228.html#ad348102f71e070e7ef12da62238c7b0f", null ],
+    [ "SetData", "dd/df9/a15228.html#a0333b4728e9288937711174743f19f60", null ],
+    [ "WriteSaveDataMore", "dd/df9/a15228.html#a78bece51279e3f9e62800e4d80b00f64", null ],
+    [ "_encounters", "dd/df9/a15228.html#a0f049806007e59363418d4e39f9e389b", null ],
+    [ "DiscipleOfNaralexGUID", "dd/df9/a15228.html#affed3fb16f4e578fe86ae171e5b641d6", null ],
+    [ "SerpentisGUID", "dd/df9/a15228.html#a7ba205e4988a20404f5e597331dd5d56", null ]
 ];

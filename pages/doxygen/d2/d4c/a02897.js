@@ -1,35 +1,43 @@
 var a02897 =
 [
-    [ "npc_attracted_reef_bull", "d2/df9/a21943.html", "d2/df9/a21943" ],
-    [ "npc_attracted_reef_bull::npc_attracted_reef_bullAI", "d3/da7/a21947.html", "d3/da7/a21947" ],
-    [ "npc_your_inner_turmoil", "db/da5/a21951.html", "db/da5/a21951" ],
-    [ "npc_your_inner_turmoil::npc_your_inner_turmoilAI", "d3/d78/a21955.html", "d3/d78/a21955" ],
-    [ "npc_apothecary_hanes", "d1/d67/a21959.html", "d1/d67/a21959" ],
-    [ "npc_apothecary_hanes::npc_Apothecary_HanesAI", "d4/dbc/a21963.html", "d4/dbc/a21963" ],
-    [ "npc_plaguehound_tracker", "dd/dcd/a21967.html", "dd/dcd/a21967" ],
-    [ "npc_plaguehound_tracker::npc_plaguehound_trackerAI", "d7/d84/a21971.html", "d7/d84/a21971" ],
-    [ "npc_razael_and_lyana", "db/d98/a21975.html", "db/d98/a21975" ],
-    [ "Entries", "d2/d4c/a02897.html#a06de533fb3e7ec530f0493022ad98889", [
-      [ "NPC_APOTHECARY_HANES", "d2/d4c/a02897.html#a06de533fb3e7ec530f0493022ad98889acf2750295b6eec6dd126edd3e314b704", null ],
-      [ "NPC_HANES_FIRE_TRIGGER", "d2/d4c/a02897.html#a06de533fb3e7ec530f0493022ad98889a1d184f3197ea2249507f226925f86d51", null ],
-      [ "QUEST_TRAIL_OF_FIRE", "d2/d4c/a02897.html#a06de533fb3e7ec530f0493022ad98889a3b04eef2d1544dfd01157f3936b8931e", null ],
-      [ "SPELL_COSMETIC_LOW_POLY_FIRE", "d2/d4c/a02897.html#a06de533fb3e7ec530f0493022ad98889a3e64d85cd00e4529984f105930950743", null ],
-      [ "SPELL_HEALING_POTION", "d2/d4c/a02897.html#a06de533fb3e7ec530f0493022ad98889a13bb6f847a01b8a989be597f21d79b75", null ]
+    [ "npc_ranger_lilatha", "d2/d7b/a13516.html", "d2/d7b/a13516" ],
+    [ "npc_sentinel_leader", "de/daf/a13520.html", "de/daf/a13520" ],
+    [ "npc_sentinel_infiltrator", "d4/d16/a13524.html", "d4/d16/a13524" ],
+    [ "RangerLilatha", "d2/d4c/a02897.html#a74dc890829d87be230ff5350c12e090a", [
+      [ "SAY_START", "d2/d4c/a02897.html#a74dc890829d87be230ff5350c12e090aa2eae21cbf7d110ee89a9798ef6f00239", null ],
+      [ "SAY_PROGRESS1", "d2/d4c/a02897.html#a74dc890829d87be230ff5350c12e090aa1a7ff39fa30eb8719e4a1d4d8eea41bd", null ],
+      [ "SAY_PROGRESS2", "d2/d4c/a02897.html#a74dc890829d87be230ff5350c12e090aa6b66c233baa6dd334abb1b7798066894", null ],
+      [ "SAY_PROGRESS3", "d2/d4c/a02897.html#a74dc890829d87be230ff5350c12e090aa541cce8e829316638c92542a766209b6", null ],
+      [ "SAY_END1", "d2/d4c/a02897.html#a74dc890829d87be230ff5350c12e090aa944891a3d2f715c9e1c8f47d65f16eca", null ],
+      [ "SAY_END2", "d2/d4c/a02897.html#a74dc890829d87be230ff5350c12e090aaa0efc3eab3d2447cc17568f7ceed8cba", null ],
+      [ "SAY_CAPTAIN_ANSWER", "d2/d4c/a02897.html#a74dc890829d87be230ff5350c12e090aaf92ec5f68682db4db5c776edd0e207c0", null ],
+      [ "QUEST_ESCAPE_FROM_THE_CATACOMBS", "d2/d4c/a02897.html#a74dc890829d87be230ff5350c12e090aaf838b4afb069e6a501691db32ccd1e16", null ],
+      [ "GO_CAGE", "d2/d4c/a02897.html#a74dc890829d87be230ff5350c12e090aab8d35951eed2c9e47bed2aa4da3fab8b", null ],
+      [ "NPC_CAPTAIN_HELIOS", "d2/d4c/a02897.html#a74dc890829d87be230ff5350c12e090aaf9140f9834cba6679a2dd4d3dccc02a8", null ],
+      [ "NPC_MUMMIFIED_HEADHUNTER", "d2/d4c/a02897.html#a74dc890829d87be230ff5350c12e090aa981d62936965028299a53927f91db057", null ],
+      [ "NPC_SHADOWPINE_ORACLE", "d2/d4c/a02897.html#a74dc890829d87be230ff5350c12e090aa84adb37d4c2fc9348d6fc31abfd0306a", null ]
     ] ],
-    [ "Razael", "d2/d4c/a02897.html#a7fbd4804d568fc6fbf46da35d3c3ffbc", [
-      [ "QUEST_REPORTS_FROM_THE_FIELD", "d2/d4c/a02897.html#a7fbd4804d568fc6fbf46da35d3c3ffbca7babf6a26e3dc43b61fa6284e07f955a", null ],
-      [ "NPC_RAZAEL", "d2/d4c/a02897.html#a7fbd4804d568fc6fbf46da35d3c3ffbcae04ab9caff2861d2f49da40755b84e1c", null ],
-      [ "NPC_LYANA", "d2/d4c/a02897.html#a7fbd4804d568fc6fbf46da35d3c3ffbca5efa419daacf74521ba680f68bed979e", null ],
-      [ "GOSSIP_TEXTID_RAZAEL1", "d2/d4c/a02897.html#a7fbd4804d568fc6fbf46da35d3c3ffbca65b20fa216028b36c1a98b0af4e4239a", null ],
-      [ "GOSSIP_TEXTID_RAZAEL2", "d2/d4c/a02897.html#a7fbd4804d568fc6fbf46da35d3c3ffbca313a7629a69c0bf528e79730249c4d51", null ],
-      [ "GOSSIP_TEXTID_LYANA1", "d2/d4c/a02897.html#a7fbd4804d568fc6fbf46da35d3c3ffbca141f525bef4cf496e2f8aaf8cfa2799b", null ],
-      [ "GOSSIP_TEXTID_LYANA2", "d2/d4c/a02897.html#a7fbd4804d568fc6fbf46da35d3c3ffbca43caf287e871cac2d4a7d2e821727377", null ]
+    [ "SentinelInfiltrator", "d2/d4c/a02897.html#a0b373714eadff6852c9ed5560abd70e5", [
+      [ "EMOTE_FLEE", "d2/d4c/a02897.html#a0b373714eadff6852c9ed5560abd70e5a9d88a2f0a0929d045f07a5386f6a4431", null ],
+      [ "EVENT_TALK2", "d2/d4c/a02897.html#a0b373714eadff6852c9ed5560abd70e5a5fbd3336be08db01eeeefc355f4fa541", null ],
+      [ "EVENT_QUESTION2", "d2/d4c/a02897.html#a0b373714eadff6852c9ed5560abd70e5a16f3686cedbbcd372b458f36b8fef69d", null ],
+      [ "EVENT_EXCLAMATION", "d2/d4c/a02897.html#a0b373714eadff6852c9ed5560abd70e5a235ba44e8ac06bf6c5da1072784d2736", null ],
+      [ "EVENT_SALUTE", "d2/d4c/a02897.html#a0b373714eadff6852c9ed5560abd70e5a20c28745aea8562e2f30166e0ceec0ea", null ],
+      [ "EVENT_GOUGE2", "d2/d4c/a02897.html#a0b373714eadff6852c9ed5560abd70e5a9c0323353380c86a1dd4583ba40430da", null ],
+      [ "EVENT_BACKSTAB2", "d2/d4c/a02897.html#a0b373714eadff6852c9ed5560abd70e5aaf1d9b7bb592c2a5e42e3e0f3e2671cc", null ],
+      [ "NPC_SENTINEL_INFILTRATOR", "d2/d4c/a02897.html#a0b373714eadff6852c9ed5560abd70e5a7cb437b950b46596afc196f0864a74fe", null ],
+      [ "PATH_ONE", "d2/d4c/a02897.html#a0b373714eadff6852c9ed5560abd70e5a9dabcd3a092570c71edfb732f847d854", null ],
+      [ "PATH_TWO", "d2/d4c/a02897.html#a0b373714eadff6852c9ed5560abd70e5a5c1049e5a354a320e8c4ead179675760", null ],
+      [ "SPELL_GOUGE", "d2/d4c/a02897.html#a0b373714eadff6852c9ed5560abd70e5ad29cb58b32c3fccaec3fde84e2355de6", null ]
     ] ],
-    [ "TurmoilTexts", "d2/d4c/a02897.html#ae01e16ebe34a24a598f4b4fb26dbf919", [
-      [ "SAY_TURMOIL_0", "d2/d4c/a02897.html#ae01e16ebe34a24a598f4b4fb26dbf919a942b14a6948f52ce8970c678198ca200", null ],
-      [ "SAY_TURMOIL_1", "d2/d4c/a02897.html#ae01e16ebe34a24a598f4b4fb26dbf919a552b3da685e5d5c0ee068936387378c8", null ],
-      [ "SAY_TURMOIL_HALF_HP", "d2/d4c/a02897.html#ae01e16ebe34a24a598f4b4fb26dbf919a378c2c631bf845c1710a9d8cc64a2541", null ],
-      [ "SAY_TURMOIL_DEATH", "d2/d4c/a02897.html#ae01e16ebe34a24a598f4b4fb26dbf919ae008192ae78fbdcce408850140f26eb8", null ]
+    [ "SentinelLeader", "d2/d4c/a02897.html#acb58e7629bec88c770da1efed549d96c", [
+      [ "EVENT_QUESTION", "d2/d4c/a02897.html#acb58e7629bec88c770da1efed549d96cae7206febd87cb3058c3f99ed717131a7", null ],
+      [ "EVENT_TALK", "d2/d4c/a02897.html#acb58e7629bec88c770da1efed549d96cad8d5fcaf7b3bfdd91e6337d222c1620f", null ],
+      [ "EVENT_SINISTER_STRIKE", "d2/d4c/a02897.html#acb58e7629bec88c770da1efed549d96ca23b5677e1eb390f2bbe16d2b30a05498", null ],
+      [ "EVENT_BACKSTAB", "d2/d4c/a02897.html#acb58e7629bec88c770da1efed549d96ca1c1d8055d31bb2fb8238437b243852ca", null ],
+      [ "NPC_SENTINEL_SPY", "d2/d4c/a02897.html#acb58e7629bec88c770da1efed549d96cae75b24a241dff855e6dc0e3d51e0c9e9", null ],
+      [ "SPELL_SINISTER_STRIKE", "d2/d4c/a02897.html#acb58e7629bec88c770da1efed549d96ca3217132d497cc70e674432067fd431a7", null ],
+      [ "SPELL_BACKSTAB", "d2/d4c/a02897.html#acb58e7629bec88c770da1efed549d96ca4ff7524487add866a452db82c2791b68", null ]
     ] ],
-    [ "AddSC_howling_fjord", "d2/d4c/a02897.html#a1f2f485d0649e510913e07a28b6082a5", null ]
+    [ "AddSC_ghostlands", "d2/d4c/a02897.html#a1093517f6bb08d3a1c9e52cf36b6a054", null ]
 ];

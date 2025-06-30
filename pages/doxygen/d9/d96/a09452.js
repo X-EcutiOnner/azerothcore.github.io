@@ -1,8 +1,9 @@
 var a09452 =
 [
-    [ "LocalizedPacketDo", "d9/d96/a09452.html#a9b7700f2a4958b91a67375ec9a40072c", null ],
-    [ "~LocalizedPacketDo", "d9/d96/a09452.html#a4296260b2011e1f7c300987073863ca9", null ],
-    [ "operator()", "d9/d96/a09452.html#a43449bdf0302e426b8cb4341326196b1", null ],
-    [ "i_builder", "d9/d96/a09452.html#a2c794905898feb502bfc5d3760f962b8", null ],
-    [ "i_data_cache", "d9/d96/a09452.html#a2bbff655e1a5268981c48e3ee028b104", null ]
+    [ "UnitAuraCheck", "d9/d96/a09452.html#acbc0c969db8b768720ab3b8235c28352", null ],
+    [ "operator()", "d9/d96/a09452.html#abc385cad226ac51c09a908864d360fd3", null ],
+    [ "operator()", "d9/d96/a09452.html#a1c85e9d5d517a852cf4c92063e6f3ed1", null ],
+    [ "_casterGUID", "d9/d96/a09452.html#ab2bdf4c05792dd83e4e9542fc3083cc3", null ],
+    [ "_present", "d9/d96/a09452.html#af553a0c4db5b11ec69ae7fbe9ce5ff78", null ],
+    [ "_spellId", "d9/d96/a09452.html#a0dd71c851f803fb70a4543c77b672889", null ]
 ];

@@ -1,9 +1,7 @@
 var a12304 =
 [
-    [ "boss_baron_geddonAI", "db/d4d/a12304.html#a3a85b2a6e958a965e52a9fde87c08177", null ],
-    [ "DamageTaken", "db/d4d/a12304.html#ad339cb7149b50cf5accc24b5a2d0bf82", null ],
-    [ "ExecuteEvent", "db/d4d/a12304.html#a2c3ed57dd0336ce8ac1a85c957da9e4a", null ],
-    [ "JustEngagedWith", "db/d4d/a12304.html#a8c5e43b4b4e0583db7dcc93694202bd8", null ],
-    [ "Reset", "db/d4d/a12304.html#aaf47fc993e672877f51b5095f682906c", null ],
-    [ "armageddonCasted", "db/d4d/a12304.html#a1a034601a7dda94becbf1801bda63d55", null ]
+    [ "HandleRemove", "db/d4d/a12304.html#a754b44b62c131e20e1be94b3407e2006", null ],
+    [ "PrepareAuraScript", "db/d4d/a12304.html#a92a58e6bcde5f80c6962ce1da47aca2d", null ],
+    [ "Register", "db/d4d/a12304.html#a02cd375ec140f7614104b7e56df13430", null ],
+    [ "Validate", "db/d4d/a12304.html#a4dd592093c1b00388a54fd8aa1b86904", null ]
 ];

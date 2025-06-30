@@ -1,13 +1,7 @@
 var a16120 =
 [
-    [ "boss_eadricAI", "df/d4a/a16120.html#a461043fe1bff0f5478e2a57504e7477c", null ],
-    [ "DamageTaken", "df/d4a/a16120.html#a440899ffdeda7794ef4fa5530638eecc", null ],
-    [ "JustEngagedWith", "df/d4a/a16120.html#a09a0cebcdffb00e37e9d60111c582669", null ],
-    [ "KilledUnit", "df/d4a/a16120.html#a0bc5d9ba3f45460e62eebdad4e68b8bd", null ],
-    [ "MovementInform", "df/d4a/a16120.html#aa20253b3f0aec2678b2e3b1c3a9d1a47", null ],
-    [ "Reset", "df/d4a/a16120.html#a8776bc2937ed9dc4decd1e71929edf65", null ],
-    [ "SpellHit", "df/d4a/a16120.html#aef7c66b9ff0a728c140899940a2d7e85", null ],
-    [ "UpdateAI", "df/d4a/a16120.html#a38e8052f3e5d8d81bb4b79fb41717efb", null ],
-    [ "events", "df/d4a/a16120.html#a5804ea238fd1c32201c3be943d2fe5ca", null ],
-    [ "pInstance", "df/d4a/a16120.html#a43a8f2beebae9bb27ff03e0e9af2d36b", null ]
+    [ "HandleDummy", "df/d4a/a16120.html#a96b430cb0546fb599da22cd675660187", null ],
+    [ "PrepareSpellScript", "df/d4a/a16120.html#ad0330cb78a330f05c18f33375f231fbc", null ],
+    [ "Register", "df/d4a/a16120.html#a70a36683a235dec6044a8a32f20c606c", null ],
+    [ "Validate", "df/d4a/a16120.html#affa7ccf869e98eacd3a153cc645d704e", null ]
 ];

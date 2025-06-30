@@ -1,9 +1,8 @@
 var a11804 =
 [
-    [ "npc_phalanxAI", "d9/dc0/a11804.html#a1a09cd0b0cf765dec20ca9c3c5bb9373", null ],
-    [ "Reset", "d9/dc0/a11804.html#a41a14315d82b169528bd764335c16d52", null ],
-    [ "UpdateAI", "d9/dc0/a11804.html#a78092bfb2d9b8455b5348d872afc6521", null ],
-    [ "FireballVolley_Timer", "d9/dc0/a11804.html#a0e7bedf19d7a69707fcfec9cbd3649e5", null ],
-    [ "MightyBlow_Timer", "d9/dc0/a11804.html#ae8fe8a7313f573e910763d5a82303e66", null ],
-    [ "ThunderClap_Timer", "d9/dc0/a11804.html#ab68781dcd728e2a0d021a0d52e43fd71", null ]
+    [ "ironhand_guardianAI", "d9/dc0/a11804.html#ab109b4ba9d399bd8c7d7dd5c04f2c618", null ],
+    [ "SetData", "d9/dc0/a11804.html#ab4e6402951bf45910fb3399ea107b207", null ],
+    [ "UpdateAI", "d9/dc0/a11804.html#a095b11f44935c8ddb43a20c095495507", null ],
+    [ "events", "d9/dc0/a11804.html#a13ed887285809d2fcad0d23fdf37face", null ],
+    [ "flames_enabled", "d9/dc0/a11804.html#ab54e1eac19a8b51e2aa9fe4bc5f08e46", null ]
 ];

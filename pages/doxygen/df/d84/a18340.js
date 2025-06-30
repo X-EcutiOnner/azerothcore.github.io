@@ -1,6 +1,7 @@
 var a18340 =
 [
-    [ "ManaVoidSelector", "df/d84/a18340.html#aa57a0960e7ce90b8de23f01ae72a1fff", null ],
-    [ "operator()", "df/d84/a18340.html#a464d63f2cf8cfe7d0c6bb5293e788a28", null ],
-    [ "_source", "df/d84/a18340.html#ae45c999db51bc153bba7f2fdfb99f6ba", null ]
+    [ "OnPeriodic", "df/d84/a18340.html#adfbfcf4ad8671ca4eaa439705f7b6c2a", null ],
+    [ "PrepareAuraScript", "df/d84/a18340.html#a5bb82c03f7c34e6febd3fe8aa57d4723", null ],
+    [ "Register", "df/d84/a18340.html#a0fc7ca43a0d82058fc04277742231388", null ],
+    [ "Validate", "df/d84/a18340.html#ae52c7c189a45a0bb5f3a627f502e3730", null ]
 ];

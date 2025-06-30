@@ -1,13 +1,5 @@
 var a10256 =
 [
-    [ "FormulaScript", "db/d38/a10256.html#a0c850c1a09bc78a4ceee5f27615d50d7", null ],
-    [ "OnAfterArenaRatingCalculation", "db/d38/a10256.html#aa3510b1cfb4661cf6028e1b9f443c865", null ],
-    [ "OnBaseGainCalculation", "db/d38/a10256.html#ab154eaf469d5fe3e86c364940816270a", null ],
-    [ "OnBeforeUpdatingPersonalRating", "db/d38/a10256.html#a2208a5684c95b936aa9ca1ae863d9682", null ],
-    [ "OnColorCodeCalculation", "db/d38/a10256.html#a83893099062d1fb7ce69fe38bf8c4699", null ],
-    [ "OnGainCalculation", "db/d38/a10256.html#aa83fab65cc89bd03021da2805e935ffb", null ],
-    [ "OnGrayLevelCalculation", "db/d38/a10256.html#affeb57234f961b9e01f5898c7738f38f", null ],
-    [ "OnGroupRateCalculation", "db/d38/a10256.html#a1098d29595b4f9206cccf3c3c1dad5f3", null ],
-    [ "OnHonorCalculation", "db/d38/a10256.html#a54a5e523ad5a9d3eb2dd061ced2d209f", null ],
-    [ "OnZeroDifferenceCalculation", "db/d38/a10256.html#a7755c35bc56e6645e36de08c12a4847d", null ]
+    [ "GenericCreatureScript", "db/d38/a10256.html#a52157430320e253a5897612623eb796c", null ],
+    [ "GetAI", "db/d38/a10256.html#a9e8eb28ece41af0c4159710c6eb51395", null ]
 ];

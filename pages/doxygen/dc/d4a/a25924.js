@@ -1,8 +1,12 @@
 var a25924 =
 [
-    [ "Absorb", "dc/d4a/a25924.html#a9378cde1cc6daab0dc111b94aef4f6c8", null ],
-    [ "CalculateAmount", "dc/d4a/a25924.html#a20d5b4776ebeb859b0641af640e41d80", null ],
-    [ "PrepareAuraScript", "dc/d4a/a25924.html#ae1a70e11e89c4252e481ad737ad00ae0", null ],
-    [ "Register", "dc/d4a/a25924.html#a8c5399ba68554f4c2e842c5492ad715c", null ],
-    [ "Validate", "dc/d4a/a25924.html#aa6264e4dbff71b0d82e3403984c59c03", null ]
+    [ "CalcPeriodic", "dc/d4a/a25924.html#a5b57273e0d9fc39a000c7bf4e232acb4", null ],
+    [ "CalculateAPAmount", "dc/d4a/a25924.html#a65b6f1a2b322c928fd9a5992380d2e95", null ],
+    [ "CalculateResistanceAmount", "dc/d4a/a25924.html#a3860e12ea334cb61a437941b6f9b81e0", null ],
+    [ "CalculateSPAmount", "dc/d4a/a25924.html#abf0d76c220911d88990f3071f14a9d5a", null ],
+    [ "CalculateStatAmount", "dc/d4a/a25924.html#a56489b52592e63dd00640de388926512", null ],
+    [ "HandleEffectApply", "dc/d4a/a25924.html#a5180cc8beb5244bd0b957dfc89dc9cf4", null ],
+    [ "HandlePeriodic", "dc/d4a/a25924.html#a67cb7b817f29dd41aa7d0dc8c87dc820", null ],
+    [ "PrepareAuraScript", "dc/d4a/a25924.html#a5b65221c67283a29cbeb63cafe64457a", null ],
+    [ "Register", "dc/d4a/a25924.html#acc22795ea812f31b0b9e21e6494c2d19", null ]
 ];

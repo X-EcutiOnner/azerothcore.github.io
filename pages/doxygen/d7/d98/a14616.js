@@ -1,13 +1,8 @@
 var a14616 =
 [
-    [ "boss_infinite_corruptorAI", "d7/d98/a14616.html#add36192941eaabf7f3d1d41c572783bd", null ],
-    [ "DoAction", "d7/d98/a14616.html#a8ff0a9731ad7bc118a1014bdbb0e1daf", null ],
-    [ "JustDied", "d7/d98/a14616.html#a6d2f445bf0819ac644d7de14d3b7034d", null ],
-    [ "JustEngagedWith", "d7/d98/a14616.html#a644725505db4fc7a98c4255d0eb34616", null ],
-    [ "JustSummoned", "d7/d98/a14616.html#a2b12c03184b169a56a0e6696a107dc35", null ],
-    [ "Reset", "d7/d98/a14616.html#a4dbff495bfcda6fb715dec68616e1764", null ],
-    [ "UpdateAI", "d7/d98/a14616.html#aaa0a45066ab7ad7d5a7543822d399947", null ],
-    [ "beamTimer", "d7/d98/a14616.html#a2f8048e591a818f073a65bfcfa49e66c", null ],
-    [ "events", "d7/d98/a14616.html#a5491db8f5e063ca84f18f1ca63c1e846", null ],
-    [ "summons", "d7/d98/a14616.html#aa5de5f986f8a6d3ba5f3aad84422eab6", null ]
+    [ "hyjalThrallAI", "d7/d98/a14616.html#a5bc01b52edeaac62e3a9c3e48f90feb2", null ],
+    [ "JustDied", "d7/d98/a14616.html#aa13cb18c91802ad402e5fd97ec78572a", null ],
+    [ "JustEngagedWith", "d7/d98/a14616.html#a96706138634275ae7639c14f53cdd842", null ],
+    [ "Reset", "d7/d98/a14616.html#a6a341bfcc9d697dde64584a5a0231d73", null ],
+    [ "UpdateAI", "d7/d98/a14616.html#a57046716d7c45a5fa4e203d73c4a7b87", null ]
 ];

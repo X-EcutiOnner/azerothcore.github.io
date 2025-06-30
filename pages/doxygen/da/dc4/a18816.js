@@ -1,6 +1,5 @@
 var a18816 =
 [
-    [ "npc_four_car_garageAI", "d3/d86/a18820.html", "d3/d86/a18820" ],
-    [ "npc_four_car_garage", "da/dc4/a18816.html#ae9b811544ab5cbdcb9c44abdc2da41a8", null ],
-    [ "GetAI", "da/dc4/a18816.html#ac55346f9733c5502a9e9f2d6d48feefb", null ]
+    [ "at_icc_putricide_trap", "da/dc4/a18816.html#a9d4183629deada9c22750b8a34e94583", null ],
+    [ "OnTrigger", "da/dc4/a18816.html#ad59c2f694c50fabf1946d2c7ae726413", null ]
 ];

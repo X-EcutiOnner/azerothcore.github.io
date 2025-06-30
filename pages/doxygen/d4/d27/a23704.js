@@ -1,6 +1,8 @@
 var a23704 =
 [
-    [ "HandleCast", "d4/d27/a23704.html#a912dc3b17ab7d0818089c32610d82a16", null ],
-    [ "PrepareSpellScript", "d4/d27/a23704.html#a6590aab70049aa5e94ed48aeb99ab1d0", null ],
-    [ "Register", "d4/d27/a23704.html#a09d4af96e2d5a69b1b61a6055bcb04d4", null ]
+    [ "boss_laj", "d4/d27/a23704.html#a3c9323ab4b5530504588ea62aed2edff", null ],
+    [ "Reset", "d4/d27/a23704.html#ace690a0662376addaa40093f3f119c31", null ],
+    [ "ScheduleTasks", "d4/d27/a23704.html#a6bd0db1ed4c963cdceb681c84469b06c", null ],
+    [ "_lastTransform", "d4/d27/a23704.html#a097eacaaf77a09bec087530bad587b11", null ],
+    [ "_transformContainer", "d4/d27/a23704.html#a313e66ceeb4e359251dad65383e7f568", null ]
 ];

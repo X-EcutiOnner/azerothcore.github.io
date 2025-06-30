@@ -1,5 +1,6 @@
 var a23256 =
 [
-    [ "boss_quagmirran", "d5/d15/a23256.html#a7f6289b86216b052f434a1417023e22c", null ],
-    [ "JustEngagedWith", "d5/d15/a23256.html#a28253b6653bd2e26e7f246c71a88b625", null ]
+    [ "HandleScript", "d5/d15/a23256.html#ad81007cd08ee18bfc7cda4221cbc8482", null ],
+    [ "PrepareSpellScript", "d5/d15/a23256.html#a60f0bb4882d3f75f0839cd0d8ab2707d", null ],
+    [ "Register", "d5/d15/a23256.html#ac06f4246c5cecc4875bc93811eaeb839", null ]
 ];

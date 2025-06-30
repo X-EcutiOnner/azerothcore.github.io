@@ -1,6 +1,6 @@
 var a15668 =
 [
-    [ "go_troll_cageAI", "d2/d81/a15672.html", "d2/d81/a15672" ],
-    [ "go_troll_cage", "d7/d78/a15668.html#ac571df719edabd9e9ecf5c8bb0e153c2", null ],
-    [ "GetAI", "d7/d78/a15668.html#a807f526225dc9a6b27ac64a7f4a3d9b8", null ]
+    [ "SayerEntry", "d7/d78/a15668.html#a3f9e374ec2a49823d942c29572ac2fa0", null ],
+    [ "SayTimer", "d7/d78/a15668.html#a942073f24fd12da712184243d9f098f2", null ],
+    [ "TextEntry", "d7/d78/a15668.html#a360822e4c069be6019c0a465cb2499cf", null ]
 ];

@@ -1,9 +1,11 @@
 var a22928 =
 [
-    [ "boss_najentus", "d7/dbb/a22928.html#ac5d3d54a49524892fe844925d483c244", null ],
-    [ "JustDied", "d7/dbb/a22928.html#afee32dd32033c7a45068ce12e961797c", null ],
-    [ "JustEngagedWith", "d7/dbb/a22928.html#a46e3aab64c21b24ac6457acd598679ec", null ],
-    [ "KilledUnit", "d7/dbb/a22928.html#ad55e1de3aa7a636b3d30b0d61a17dab9", null ],
-    [ "Reset", "d7/dbb/a22928.html#ab7e0bdb8954722c9080146a88a3c5aa2", null ],
-    [ "_canTalk", "d7/dbb/a22928.html#a25ac29a79cdcfb4ebc48de13d677f1d4", null ]
+    [ "boss_supremus", "d7/dbb/a22928.html#af1f094534b0e2dec70422839a02327cd", null ],
+    [ "CheckEvadeIfOutOfCombatArea", "d7/dbb/a22928.html#a2654bf5b1d5b6da723d4968219e069a9", null ],
+    [ "FindHatefulStrikeTarget", "d7/dbb/a22928.html#af560466902d0d372662020e1a67b627c", null ],
+    [ "JustEngagedWith", "d7/dbb/a22928.html#a7d3a5e2c183db7639a7c25f309359ed1", null ],
+    [ "JustSummoned", "d7/dbb/a22928.html#a7265a01fa79213ab6d8b82a4c92b7661", null ],
+    [ "Reset", "d7/dbb/a22928.html#a0eaa29849a2571417d4826d238d72e25", null ],
+    [ "SchedulePhase", "d7/dbb/a22928.html#a87e3943d6c645138853aa97644f9df0e", null ],
+    [ "SummonedCreatureDespawn", "d7/dbb/a22928.html#a2ae72bfef577654e676a64eb2e4efa7a", null ]
 ];

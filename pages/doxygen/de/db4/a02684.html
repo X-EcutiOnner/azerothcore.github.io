@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/scripts/EasternKingdoms/ScarletEnclave/chapter3.cpp File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/scripts/EasternKingdoms/ScarletEnclave/chapter2.cpp File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -108,90 +108,449 @@ $(document).ready(function(){initNavTree('de/db4/a02684.html','../../'); initRes
 <a href="#nested-classes">Classes</a> &#124;
 <a href="#enum-members">Enumerations</a> &#124;
 <a href="#func-members">Functions</a>  </div>
-  <div class="headertitle"><div class="title">chapter3.cpp File Reference</div></div>
+  <div class="headertitle"><div class="title">chapter2.cpp File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">CreatureScript.h</a>&quot;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">CombatAI.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">CreatureScript.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">CreatureTextMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">ScriptedGossip.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Player.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">ScriptedCreature.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">SpellAuras.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">ScriptedEscortAI.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">SpellInfo.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">SpellScript.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">SpellScriptLoader.h</a>&quot;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d29/a12939.html">spell_q12779_an_end_to_all_things</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d9a/a12924.html">npc_crusade_persuaded</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dcb/a12943.html">spell_q12779_an_end_to_all_things_devour_aura</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dde/a12928.html">npc_crusade_persuaded::npc_crusade_persuadedAI</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d75/a12932.html">npc_koltira_deathweaver</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d04/a12936.html">npc_koltira_deathweaver::npc_koltira_deathweaverAI</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/df5/a12940.html">npc_scarlet_courier</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dfc/a12944.html">npc_scarlet_courier::npc_scarlet_courierAI</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d4d/a12948.html">npc_a_special_surprise</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d2e/a12952.html">npc_a_special_surprise::npc_a_special_surpriseAI</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
 Enumerations</h2></td></tr>
-<tr class="memitem:a4a9cc76e41bd77e034f57ac5663bfbe8"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/db4/a02684.html#a4a9cc76e41bd77e034f57ac5663bfbe8">DevourHumanoid</a> { <br />
-&#160;&#160;<a class="el" href="../../de/db4/a02684.html#a4a9cc76e41bd77e034f57ac5663bfbe8a5bcd1929ca343fde7380dbf2f02650d7">NPC_HEARTHGLEN_CRUSADER</a> = 29102
+<tr class="memitem:a4c1e144641d137d320608174c3ada70b"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/db4/a02684.html#a4c1e144641d137d320608174c3ada70b">win_friends</a> { <br />
+&#160;&#160;<a class="el" href="../../de/db4/a02684.html#a4c1e144641d137d320608174c3ada70ba47c752fff069f3e55065795eef2a9bfe">SAY_AGGRO</a> = 0
 , <br />
-&#160;&#160;<a class="el" href="../../de/db4/a02684.html#a4a9cc76e41bd77e034f57ac5663bfbe8a1808abd83c367810e3ca5ac70b35dcd8">NPC_TIRISFAL_CRUSADER</a> = 29103
+&#160;&#160;<a class="el" href="../../de/db4/a02684.html#a4c1e144641d137d320608174c3ada70ba0cfa69eb44105ba8b55095f367891967">SAY_CRUSADER</a> = 1
+, <br />
+&#160;&#160;<a class="el" href="../../de/db4/a02684.html#a4c1e144641d137d320608174c3ada70bac8fbe16451ed71344028995e920a6b36">SAY_PERSUADED1</a> = 2
+, <br />
+&#160;&#160;<a class="el" href="../../de/db4/a02684.html#a4c1e144641d137d320608174c3ada70ba767561556d5645f840a29d37fef15d57">SAY_PERSUADED2</a> = 3
+, <br />
+&#160;&#160;<a class="el" href="../../de/db4/a02684.html#a4c1e144641d137d320608174c3ada70ba6b5f1c188d7d5fadd2ffc4d79e76285b">SAY_PERSUADED3</a> = 4
+, <br />
+&#160;&#160;<a class="el" href="../../de/db4/a02684.html#a4c1e144641d137d320608174c3ada70ba1131d1fd4c5913ab2c56c07a61d576d6">SAY_PERSUADED4</a> = 5
+, <br />
+&#160;&#160;<a class="el" href="../../de/db4/a02684.html#a4c1e144641d137d320608174c3ada70ba3dd690c17e20fc2deca9963debbcb36b">SAY_PERSUADED5</a> = 6
+, <br />
+&#160;&#160;<a class="el" href="../../de/db4/a02684.html#a4c1e144641d137d320608174c3ada70bac6c794baa7f292cc7e8c8bfc70120928">SAY_PERSUADED6</a> = 7
+, <br />
+&#160;&#160;<a class="el" href="../../de/db4/a02684.html#a4c1e144641d137d320608174c3ada70ba77e1040a5f80ad6a54ae0af5ecdec01b">SAY_PERSUADE_RAND</a> = 8
+, <br />
+&#160;&#160;<a class="el" href="../../de/db4/a02684.html#a4c1e144641d137d320608174c3ada70ba4b7723fc952c73a8959348ac339fecbf">SPELL_PERSUASIVE_STRIKE</a> = 52781
+, <br />
+&#160;&#160;<a class="el" href="../../de/db4/a02684.html#a4c1e144641d137d320608174c3ada70ba46c467599f797bb6282c4d94bc07aa73">SPELL_THREAT_PULSE</a> = 58111
+, <br />
+&#160;&#160;<a class="el" href="../../de/db4/a02684.html#a4c1e144641d137d320608174c3ada70ba263b82da9ff2a85f24592bb6a39f4951">QUEST_HOW_TO_WIN_FRIENDS</a> = 12720
 <br />
  }</td></tr>
-<tr class="separator:a4a9cc76e41bd77e034f57ac5663bfbe8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="separator:a4c1e144641d137d320608174c3ada70b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2b56f12a5305ced51b0059ef1dbc37b4"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/db4/a02684.html#a2b56f12a5305ced51b0059ef1dbc37b4">Koltira</a> { <br />
+&#160;&#160;<a class="el" href="../../de/db4/a02684.html#a2b56f12a5305ced51b0059ef1dbc37b4a6a8b157222c2252cf8da36c25da1b7dc">SAY_BREAKOUT0</a> = 0
+, <br />
+&#160;&#160;<a class="el" href="../../de/db4/a02684.html#a2b56f12a5305ced51b0059ef1dbc37b4a094396cb1532cbff467d039ac9cc6ac6">SAY_BREAKOUT1</a> = 1
+, <br />
+&#160;&#160;<a class="el" href="../../de/db4/a02684.html#a2b56f12a5305ced51b0059ef1dbc37b4a13e18bd4726cb3fbe75b71e6b6c6554c">SAY_BREAKOUT2</a> = 2
+, <br />
+&#160;&#160;<a class="el" href="../../de/db4/a02684.html#a2b56f12a5305ced51b0059ef1dbc37b4a86af95c0cf3a510c60a58eca6a745c9b">SAY_BREAKOUT3</a> = 3
+, <br />
+&#160;&#160;<a class="el" href="../../de/db4/a02684.html#a2b56f12a5305ced51b0059ef1dbc37b4ac756683588818c8c234c345799a44fb1">SAY_BREAKOUT4</a> = 4
+, <br />
+&#160;&#160;<a class="el" href="../../de/db4/a02684.html#a2b56f12a5305ced51b0059ef1dbc37b4a2710018d85ac588bb3ac6a2e80969d3a">SAY_BREAKOUT5</a> = 5
+, <br />
+&#160;&#160;<a class="el" href="../../de/db4/a02684.html#a2b56f12a5305ced51b0059ef1dbc37b4a298ab0b6af72e36096cf2f7d8b0e3a7b">SAY_BREAKOUT6</a> = 6
+, <br />
+&#160;&#160;<a class="el" href="../../de/db4/a02684.html#a2b56f12a5305ced51b0059ef1dbc37b4a57df20e18bba48c21e32b1cbd2704356">SAY_BREAKOUT7</a> = 7
+, <br />
+&#160;&#160;<a class="el" href="../../de/db4/a02684.html#a2b56f12a5305ced51b0059ef1dbc37b4a177482cab7ed071275f904b2d7b4339b">SAY_BREAKOUT8</a> = 8
+, <br />
+&#160;&#160;<a class="el" href="../../de/db4/a02684.html#a2b56f12a5305ced51b0059ef1dbc37b4aa797326fa41cffd7206a62ce2f67e932">SAY_BREAKOUT9</a> = 9
+, <br />
+&#160;&#160;<a class="el" href="../../de/db4/a02684.html#a2b56f12a5305ced51b0059ef1dbc37b4ab4c8196716ada2907e5e89bd23a492aa">SAY_BREAKOUT10</a> = 10
+, <br />
+&#160;&#160;<a class="el" href="../../de/db4/a02684.html#a2b56f12a5305ced51b0059ef1dbc37b4ace8cdeb54416e82b4126c9607684aef2">EMOTE_KOLTIRA_COLLAPSES</a> = 11
+, <br />
+&#160;&#160;<a class="el" href="../../de/db4/a02684.html#a2b56f12a5305ced51b0059ef1dbc37b4add85d0bf9091ea4e8568d53c087f14e1">SAY_VALROTH_WAVE3</a> = 0
+, <br />
+&#160;&#160;<a class="el" href="../../de/db4/a02684.html#a2b56f12a5305ced51b0059ef1dbc37b4ab9162631c8867f6ae3417bb38654afda">SAY_VALROTH_AGGRO</a> = 1
+, <br />
+&#160;&#160;<a class="el" href="../../de/db4/a02684.html#a2b56f12a5305ced51b0059ef1dbc37b4a5180bd862351818035a55ced9912f20a">SAY_VALROTH_WAVE1</a> = 4
+, <br />
+&#160;&#160;<a class="el" href="../../de/db4/a02684.html#a2b56f12a5305ced51b0059ef1dbc37b4ad48472c3123542f061d5b7a63921ba0d">SAY_VALROTH_WAVE2</a> = 5
+, <br />
+&#160;&#160;<a class="el" href="../../de/db4/a02684.html#a2b56f12a5305ced51b0059ef1dbc37b4a3dd26a672e67dd057ea741e47e791b8e">SPELL_KOLTIRA_TRANSFORM</a> = 52899
+, <br />
+&#160;&#160;<a class="el" href="../../de/db4/a02684.html#a2b56f12a5305ced51b0059ef1dbc37b4a254cc161ba0a08197d3676dad0fda9f2">SPELL_ANTI_MAGIC_ZONE</a> = 52894
+, <br />
+&#160;&#160;<a class="el" href="../../de/db4/a02684.html#a2b56f12a5305ced51b0059ef1dbc37b4a4ab1c01eb14cf41a048becfaa15870be">QUEST_BREAKOUT</a> = 12727
+, <br />
+&#160;&#160;<a class="el" href="../../de/db4/a02684.html#a2b56f12a5305ced51b0059ef1dbc37b4ad3ea46349fdb48ebcfa30c1ac63d178a">NPC_CRIMSON_ACOLYTE</a> = 29007
+, <br />
+&#160;&#160;<a class="el" href="../../de/db4/a02684.html#a2b56f12a5305ced51b0059ef1dbc37b4a2a5242e867c9033963eced30f48a1899">NPC_HIGH_INQUISITOR_VALROTH</a> = 29001
+, <br />
+&#160;&#160;<a class="el" href="../../de/db4/a02684.html#a2b56f12a5305ced51b0059ef1dbc37b4a42e041017c8f5b8e31870eefdc10f790">MODEL_DEATH_KNIGHT_MOUNT</a> = 25278
+, <br />
+&#160;&#160;<a class="el" href="../../de/db4/a02684.html#a2b56f12a5305ced51b0059ef1dbc37b4ac91453bb5043a7aead60feb820a6bd6b">POINT_STAND_UP</a> = 0
+, <br />
+&#160;&#160;<a class="el" href="../../de/db4/a02684.html#a2b56f12a5305ced51b0059ef1dbc37b4a09b9e9bb7a5fc24d7a7405cbc45c3518">POINT_BOX</a> = 1
+, <br />
+&#160;&#160;<a class="el" href="../../de/db4/a02684.html#a2b56f12a5305ced51b0059ef1dbc37b4a3340ce874f4b9e725f5dc48864ff172d">POINT_ANTI_MAGIC_ZONE</a> = 2
+, <br />
+&#160;&#160;<a class="el" href="../../de/db4/a02684.html#a2b56f12a5305ced51b0059ef1dbc37b4ab753bbca5d915f53037e13bcdbed0f12">POINT_MOUNT</a> = 0
+, <br />
+&#160;&#160;<a class="el" href="../../de/db4/a02684.html#a2b56f12a5305ced51b0059ef1dbc37b4a193b32ae3e767cdd2899238b38950ddf">POINT_DESPAWN</a> = 1
+<br />
+ }</td></tr>
+<tr class="separator:a2b56f12a5305ced51b0059ef1dbc37b4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3fe46eb19e3256cc2367013d9300f8a4"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/db4/a02684.html#a3fe46eb19e3256cc2367013d9300f8a4">ScarletCourierEnum</a> { <br />
+&#160;&#160;<a class="el" href="../../de/db4/a02684.html#a3fe46eb19e3256cc2367013d9300f8a4a2f4e22f3584ef5be240f77d5bd850794">SAY_TREE1</a> = 0
+, <br />
+&#160;&#160;<a class="el" href="../../de/db4/a02684.html#a3fe46eb19e3256cc2367013d9300f8a4ad804a4374f9760c921f530c1712de8dc">SAY_TREE2</a> = 1
+, <br />
+&#160;&#160;<a class="el" href="../../de/db4/a02684.html#a3fe46eb19e3256cc2367013d9300f8a4a1b728fa1bb0194534b5b491d35ed871c">SPELL_SHOOT</a> = 52818
+, <br />
+&#160;&#160;<a class="el" href="../../de/db4/a02684.html#a3fe46eb19e3256cc2367013d9300f8a4a53367093a2729d0166b440148bc56bbc">GO_INCONSPICUOUS_TREE</a> = 191144
+, <br />
+&#160;&#160;<a class="el" href="../../de/db4/a02684.html#a3fe46eb19e3256cc2367013d9300f8a4a3b66e7e1d525ed843528cf663d361981">NPC_SCARLET_COURIER</a> = 29076
+<br />
+ }</td></tr>
+<tr class="separator:a3fe46eb19e3256cc2367013d9300f8a4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a39d9f90bc43829f5faf92e7b78c46c41"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/db4/a02684.html#a39d9f90bc43829f5faf92e7b78c46c41">SpecialSurprise</a> { <br />
+&#160;&#160;<a class="el" href="../../de/db4/a02684.html#a39d9f90bc43829f5faf92e7b78c46c41ae8e19e9553a530c5b5048208c88d65e5">SAY_EXEC_START</a> = 0
+, <br />
+&#160;&#160;<a class="el" href="../../de/db4/a02684.html#a39d9f90bc43829f5faf92e7b78c46c41a1fab31c66f796691c67a2498638e3175">SAY_EXEC_PROG</a> = 1
+, <br />
+&#160;&#160;<a class="el" href="../../de/db4/a02684.html#a39d9f90bc43829f5faf92e7b78c46c41a232dd35d50b1347e00f4eab406b77a0d">SAY_EXEC_NAME</a> = 2
+, <br />
+&#160;&#160;<a class="el" href="../../de/db4/a02684.html#a39d9f90bc43829f5faf92e7b78c46c41af3601727efa384a7818ea45ba16aefc6">SAY_EXEC_RECOG</a> = 3
+, <br />
+&#160;&#160;<a class="el" href="../../de/db4/a02684.html#a39d9f90bc43829f5faf92e7b78c46c41a50f98188751f2e80dca735efce0b92c0">SAY_EXEC_NOREM</a> = 4
+, <br />
+&#160;&#160;<a class="el" href="../../de/db4/a02684.html#a39d9f90bc43829f5faf92e7b78c46c41a43005d3320111e6925a0e23177d69d32">SAY_EXEC_THINK</a> = 5
+, <br />
+&#160;&#160;<a class="el" href="../../de/db4/a02684.html#a39d9f90bc43829f5faf92e7b78c46c41ae324ebc8cfef92b79ad478e18529e2e4">SAY_EXEC_LISTEN</a> = 6
+, <br />
+&#160;&#160;<a class="el" href="../../de/db4/a02684.html#a39d9f90bc43829f5faf92e7b78c46c41a3330c6cc3b04296f07d9766443ed6eb2">SAY_EXEC_TIME</a> = 7
+, <br />
+&#160;&#160;<a class="el" href="../../de/db4/a02684.html#a39d9f90bc43829f5faf92e7b78c46c41adaddf2c220fcd7c66f0f61a811a98d36">SAY_EXEC_WAITING</a> = 8
+, <br />
+&#160;&#160;<a class="el" href="../../de/db4/a02684.html#a39d9f90bc43829f5faf92e7b78c46c41a1b942bcbae4fe8e343cc371a3e5d2560">EMOTE_DIES</a> = 9
+, <br />
+&#160;&#160;<a class="el" href="../../de/db4/a02684.html#a39d9f90bc43829f5faf92e7b78c46c41ac6253854fcd623ea9589f7962bf08499">SAY_PLAGUEFIST</a> = 0
+, <br />
+&#160;&#160;<a class="el" href="../../de/db4/a02684.html#a39d9f90bc43829f5faf92e7b78c46c41a36e93ebdaa9af83fbb08411737af6819">NPC_PLAGUEFIST</a> = 29053
+<br />
+ }</td></tr>
+<tr class="separator:a39d9f90bc43829f5faf92e7b78c46c41"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:add963c2bc2b515348b9b7c636d176927"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/db4/a02684.html#add963c2bc2b515348b9b7c636d176927">AddSC_the_scarlet_enclave_c3</a> ()</td></tr>
-<tr class="separator:add963c2bc2b515348b9b7c636d176927"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aae283a7ae2c577c738ccad6a34533fec"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/db4/a02684.html#aae283a7ae2c577c738ccad6a34533fec">AddSC_the_scarlet_enclave_c2</a> ()</td></tr>
+<tr class="separator:aae283a7ae2c577c738ccad6a34533fec"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Enumeration Type Documentation</h2>
-<a id="a4a9cc76e41bd77e034f57ac5663bfbe8" name="a4a9cc76e41bd77e034f57ac5663bfbe8"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4a9cc76e41bd77e034f57ac5663bfbe8">&#9670;&#160;</a></span>DevourHumanoid</h2>
+<a id="a2b56f12a5305ced51b0059ef1dbc37b4" name="a2b56f12a5305ced51b0059ef1dbc37b4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2b56f12a5305ced51b0059ef1dbc37b4">&#9670;&#160;</a></span>Koltira</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">enum <a class="el" href="../../de/db4/a02684.html#a4a9cc76e41bd77e034f57ac5663bfbe8">DevourHumanoid</a></td>
+          <td class="memname">enum <a class="el" href="../../de/db4/a02684.html#a2b56f12a5305ced51b0059ef1dbc37b4">Koltira</a></td>
         </tr>
       </table>
 </div><div class="memdoc">
 <table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a4a9cc76e41bd77e034f57ac5663bfbe8a5bcd1929ca343fde7380dbf2f02650d7" name="a4a9cc76e41bd77e034f57ac5663bfbe8a5bcd1929ca343fde7380dbf2f02650d7"></a>NPC_HEARTHGLEN_CRUSADER&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a4a9cc76e41bd77e034f57ac5663bfbe8a1808abd83c367810e3ca5ac70b35dcd8" name="a4a9cc76e41bd77e034f57ac5663bfbe8a1808abd83c367810e3ca5ac70b35dcd8"></a>NPC_TIRISFAL_CRUSADER&#160;</td><td class="fielddoc"></td></tr>
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a2b56f12a5305ced51b0059ef1dbc37b4a6a8b157222c2252cf8da36c25da1b7dc" name="a2b56f12a5305ced51b0059ef1dbc37b4a6a8b157222c2252cf8da36c25da1b7dc"></a>SAY_BREAKOUT0&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a2b56f12a5305ced51b0059ef1dbc37b4a094396cb1532cbff467d039ac9cc6ac6" name="a2b56f12a5305ced51b0059ef1dbc37b4a094396cb1532cbff467d039ac9cc6ac6"></a>SAY_BREAKOUT1&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a2b56f12a5305ced51b0059ef1dbc37b4a13e18bd4726cb3fbe75b71e6b6c6554c" name="a2b56f12a5305ced51b0059ef1dbc37b4a13e18bd4726cb3fbe75b71e6b6c6554c"></a>SAY_BREAKOUT2&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a2b56f12a5305ced51b0059ef1dbc37b4a86af95c0cf3a510c60a58eca6a745c9b" name="a2b56f12a5305ced51b0059ef1dbc37b4a86af95c0cf3a510c60a58eca6a745c9b"></a>SAY_BREAKOUT3&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a2b56f12a5305ced51b0059ef1dbc37b4ac756683588818c8c234c345799a44fb1" name="a2b56f12a5305ced51b0059ef1dbc37b4ac756683588818c8c234c345799a44fb1"></a>SAY_BREAKOUT4&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a2b56f12a5305ced51b0059ef1dbc37b4a2710018d85ac588bb3ac6a2e80969d3a" name="a2b56f12a5305ced51b0059ef1dbc37b4a2710018d85ac588bb3ac6a2e80969d3a"></a>SAY_BREAKOUT5&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a2b56f12a5305ced51b0059ef1dbc37b4a298ab0b6af72e36096cf2f7d8b0e3a7b" name="a2b56f12a5305ced51b0059ef1dbc37b4a298ab0b6af72e36096cf2f7d8b0e3a7b"></a>SAY_BREAKOUT6&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a2b56f12a5305ced51b0059ef1dbc37b4a57df20e18bba48c21e32b1cbd2704356" name="a2b56f12a5305ced51b0059ef1dbc37b4a57df20e18bba48c21e32b1cbd2704356"></a>SAY_BREAKOUT7&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a2b56f12a5305ced51b0059ef1dbc37b4a177482cab7ed071275f904b2d7b4339b" name="a2b56f12a5305ced51b0059ef1dbc37b4a177482cab7ed071275f904b2d7b4339b"></a>SAY_BREAKOUT8&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a2b56f12a5305ced51b0059ef1dbc37b4aa797326fa41cffd7206a62ce2f67e932" name="a2b56f12a5305ced51b0059ef1dbc37b4aa797326fa41cffd7206a62ce2f67e932"></a>SAY_BREAKOUT9&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a2b56f12a5305ced51b0059ef1dbc37b4ab4c8196716ada2907e5e89bd23a492aa" name="a2b56f12a5305ced51b0059ef1dbc37b4ab4c8196716ada2907e5e89bd23a492aa"></a>SAY_BREAKOUT10&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a2b56f12a5305ced51b0059ef1dbc37b4ace8cdeb54416e82b4126c9607684aef2" name="a2b56f12a5305ced51b0059ef1dbc37b4ace8cdeb54416e82b4126c9607684aef2"></a>EMOTE_KOLTIRA_COLLAPSES&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a2b56f12a5305ced51b0059ef1dbc37b4add85d0bf9091ea4e8568d53c087f14e1" name="a2b56f12a5305ced51b0059ef1dbc37b4add85d0bf9091ea4e8568d53c087f14e1"></a>SAY_VALROTH_WAVE3&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a2b56f12a5305ced51b0059ef1dbc37b4ab9162631c8867f6ae3417bb38654afda" name="a2b56f12a5305ced51b0059ef1dbc37b4ab9162631c8867f6ae3417bb38654afda"></a>SAY_VALROTH_AGGRO&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a2b56f12a5305ced51b0059ef1dbc37b4a5180bd862351818035a55ced9912f20a" name="a2b56f12a5305ced51b0059ef1dbc37b4a5180bd862351818035a55ced9912f20a"></a>SAY_VALROTH_WAVE1&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a2b56f12a5305ced51b0059ef1dbc37b4ad48472c3123542f061d5b7a63921ba0d" name="a2b56f12a5305ced51b0059ef1dbc37b4ad48472c3123542f061d5b7a63921ba0d"></a>SAY_VALROTH_WAVE2&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a2b56f12a5305ced51b0059ef1dbc37b4a3dd26a672e67dd057ea741e47e791b8e" name="a2b56f12a5305ced51b0059ef1dbc37b4a3dd26a672e67dd057ea741e47e791b8e"></a>SPELL_KOLTIRA_TRANSFORM&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a2b56f12a5305ced51b0059ef1dbc37b4a254cc161ba0a08197d3676dad0fda9f2" name="a2b56f12a5305ced51b0059ef1dbc37b4a254cc161ba0a08197d3676dad0fda9f2"></a>SPELL_ANTI_MAGIC_ZONE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a2b56f12a5305ced51b0059ef1dbc37b4a4ab1c01eb14cf41a048becfaa15870be" name="a2b56f12a5305ced51b0059ef1dbc37b4a4ab1c01eb14cf41a048becfaa15870be"></a>QUEST_BREAKOUT&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a2b56f12a5305ced51b0059ef1dbc37b4ad3ea46349fdb48ebcfa30c1ac63d178a" name="a2b56f12a5305ced51b0059ef1dbc37b4ad3ea46349fdb48ebcfa30c1ac63d178a"></a>NPC_CRIMSON_ACOLYTE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a2b56f12a5305ced51b0059ef1dbc37b4a2a5242e867c9033963eced30f48a1899" name="a2b56f12a5305ced51b0059ef1dbc37b4a2a5242e867c9033963eced30f48a1899"></a>NPC_HIGH_INQUISITOR_VALROTH&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a2b56f12a5305ced51b0059ef1dbc37b4a42e041017c8f5b8e31870eefdc10f790" name="a2b56f12a5305ced51b0059ef1dbc37b4a42e041017c8f5b8e31870eefdc10f790"></a>MODEL_DEATH_KNIGHT_MOUNT&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a2b56f12a5305ced51b0059ef1dbc37b4ac91453bb5043a7aead60feb820a6bd6b" name="a2b56f12a5305ced51b0059ef1dbc37b4ac91453bb5043a7aead60feb820a6bd6b"></a>POINT_STAND_UP&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a2b56f12a5305ced51b0059ef1dbc37b4a09b9e9bb7a5fc24d7a7405cbc45c3518" name="a2b56f12a5305ced51b0059ef1dbc37b4a09b9e9bb7a5fc24d7a7405cbc45c3518"></a>POINT_BOX&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a2b56f12a5305ced51b0059ef1dbc37b4a3340ce874f4b9e725f5dc48864ff172d" name="a2b56f12a5305ced51b0059ef1dbc37b4a3340ce874f4b9e725f5dc48864ff172d"></a>POINT_ANTI_MAGIC_ZONE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a2b56f12a5305ced51b0059ef1dbc37b4ab753bbca5d915f53037e13bcdbed0f12" name="a2b56f12a5305ced51b0059ef1dbc37b4ab753bbca5d915f53037e13bcdbed0f12"></a>POINT_MOUNT&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a2b56f12a5305ced51b0059ef1dbc37b4a193b32ae3e767cdd2899238b38950ddf" name="a2b56f12a5305ced51b0059ef1dbc37b4a193b32ae3e767cdd2899238b38950ddf"></a>POINT_DESPAWN&#160;</td><td class="fielddoc"></td></tr>
 </table>
-<div class="fragment"><div class="line"><span class="lineno">   26</span>{</div>
-<div class="line"><span class="lineno">   27</span>    <a class="code hl_enumvalue" href="../../de/db4/a02684.html#a4a9cc76e41bd77e034f57ac5663bfbe8a5bcd1929ca343fde7380dbf2f02650d7">NPC_HEARTHGLEN_CRUSADER</a> = 29102,</div>
-<div class="line"><span class="lineno">   28</span>    <a class="code hl_enumvalue" href="../../de/db4/a02684.html#a4a9cc76e41bd77e034f57ac5663bfbe8a1808abd83c367810e3ca5ac70b35dcd8">NPC_TIRISFAL_CRUSADER</a>   = 29103</div>
-<div class="line"><span class="lineno">   29</span>};</div>
-<div class="ttc" id="aa02684_html_a4a9cc76e41bd77e034f57ac5663bfbe8a1808abd83c367810e3ca5ac70b35dcd8"><div class="ttname"><a href="../../de/db4/a02684.html#a4a9cc76e41bd77e034f57ac5663bfbe8a1808abd83c367810e3ca5ac70b35dcd8">NPC_TIRISFAL_CRUSADER</a></div><div class="ttdeci">@ NPC_TIRISFAL_CRUSADER</div><div class="ttdef"><b>Definition:</b> chapter3.cpp:28</div></div>
-<div class="ttc" id="aa02684_html_a4a9cc76e41bd77e034f57ac5663bfbe8a5bcd1929ca343fde7380dbf2f02650d7"><div class="ttname"><a href="../../de/db4/a02684.html#a4a9cc76e41bd77e034f57ac5663bfbe8a5bcd1929ca343fde7380dbf2f02650d7">NPC_HEARTHGLEN_CRUSADER</a></div><div class="ttdeci">@ NPC_HEARTHGLEN_CRUSADER</div><div class="ttdef"><b>Definition:</b> chapter3.cpp:27</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  188</span>{</div>
+<div class="line"><span class="lineno">  189</span>    <a class="code hl_enumvalue" href="../../de/db4/a02684.html#a2b56f12a5305ced51b0059ef1dbc37b4a6a8b157222c2252cf8da36c25da1b7dc">SAY_BREAKOUT0</a>                   = 0,</div>
+<div class="line"><span class="lineno">  190</span>    <a class="code hl_enumvalue" href="../../de/db4/a02684.html#a2b56f12a5305ced51b0059ef1dbc37b4a094396cb1532cbff467d039ac9cc6ac6">SAY_BREAKOUT1</a>                   = 1,</div>
+<div class="line"><span class="lineno">  191</span>    <a class="code hl_enumvalue" href="../../de/db4/a02684.html#a2b56f12a5305ced51b0059ef1dbc37b4a13e18bd4726cb3fbe75b71e6b6c6554c">SAY_BREAKOUT2</a>                   = 2,</div>
+<div class="line"><span class="lineno">  192</span>    <a class="code hl_enumvalue" href="../../de/db4/a02684.html#a2b56f12a5305ced51b0059ef1dbc37b4a86af95c0cf3a510c60a58eca6a745c9b">SAY_BREAKOUT3</a>                   = 3,</div>
+<div class="line"><span class="lineno">  193</span>    <a class="code hl_enumvalue" href="../../de/db4/a02684.html#a2b56f12a5305ced51b0059ef1dbc37b4ac756683588818c8c234c345799a44fb1">SAY_BREAKOUT4</a>                   = 4,</div>
+<div class="line"><span class="lineno">  194</span>    <a class="code hl_enumvalue" href="../../de/db4/a02684.html#a2b56f12a5305ced51b0059ef1dbc37b4a2710018d85ac588bb3ac6a2e80969d3a">SAY_BREAKOUT5</a>                   = 5,</div>
+<div class="line"><span class="lineno">  195</span>    <a class="code hl_enumvalue" href="../../de/db4/a02684.html#a2b56f12a5305ced51b0059ef1dbc37b4a298ab0b6af72e36096cf2f7d8b0e3a7b">SAY_BREAKOUT6</a>                   = 6,</div>
+<div class="line"><span class="lineno">  196</span>    <a class="code hl_enumvalue" href="../../de/db4/a02684.html#a2b56f12a5305ced51b0059ef1dbc37b4a57df20e18bba48c21e32b1cbd2704356">SAY_BREAKOUT7</a>                   = 7,</div>
+<div class="line"><span class="lineno">  197</span>    <a class="code hl_enumvalue" href="../../de/db4/a02684.html#a2b56f12a5305ced51b0059ef1dbc37b4a177482cab7ed071275f904b2d7b4339b">SAY_BREAKOUT8</a>                   = 8,</div>
+<div class="line"><span class="lineno">  198</span>    <a class="code hl_enumvalue" href="../../de/db4/a02684.html#a2b56f12a5305ced51b0059ef1dbc37b4aa797326fa41cffd7206a62ce2f67e932">SAY_BREAKOUT9</a>                   = 9,</div>
+<div class="line"><span class="lineno">  199</span>    <a class="code hl_enumvalue" href="../../de/db4/a02684.html#a2b56f12a5305ced51b0059ef1dbc37b4ab4c8196716ada2907e5e89bd23a492aa">SAY_BREAKOUT10</a>                  = 10,</div>
+<div class="line"><span class="lineno">  200</span>    <a class="code hl_enumvalue" href="../../de/db4/a02684.html#a2b56f12a5305ced51b0059ef1dbc37b4ace8cdeb54416e82b4126c9607684aef2">EMOTE_KOLTIRA_COLLAPSES</a>         = 11,</div>
+<div class="line"><span class="lineno">  201</span> </div>
+<div class="line"><span class="lineno">  202</span>    <a class="code hl_enumvalue" href="../../de/db4/a02684.html#a2b56f12a5305ced51b0059ef1dbc37b4add85d0bf9091ea4e8568d53c087f14e1">SAY_VALROTH_WAVE3</a>               = 0,</div>
+<div class="line"><span class="lineno">  203</span>    <a class="code hl_enumvalue" href="../../de/db4/a02684.html#a2b56f12a5305ced51b0059ef1dbc37b4ab9162631c8867f6ae3417bb38654afda">SAY_VALROTH_AGGRO</a>               = 1,</div>
+<div class="line"><span class="lineno">  204</span>    <a class="code hl_enumvalue" href="../../de/db4/a02684.html#a2b56f12a5305ced51b0059ef1dbc37b4a5180bd862351818035a55ced9912f20a">SAY_VALROTH_WAVE1</a>               = 4,</div>
+<div class="line"><span class="lineno">  205</span>    <a class="code hl_enumvalue" href="../../de/db4/a02684.html#a2b56f12a5305ced51b0059ef1dbc37b4ad48472c3123542f061d5b7a63921ba0d">SAY_VALROTH_WAVE2</a>               = 5,</div>
+<div class="line"><span class="lineno">  206</span> </div>
+<div class="line"><span class="lineno">  207</span>    <a class="code hl_enumvalue" href="../../de/db4/a02684.html#a2b56f12a5305ced51b0059ef1dbc37b4a3dd26a672e67dd057ea741e47e791b8e">SPELL_KOLTIRA_TRANSFORM</a>         = 52899,</div>
+<div class="line"><span class="lineno">  208</span>    <a class="code hl_enumvalue" href="../../de/db4/a02684.html#a2b56f12a5305ced51b0059ef1dbc37b4a254cc161ba0a08197d3676dad0fda9f2">SPELL_ANTI_MAGIC_ZONE</a>           = 52894,</div>
+<div class="line"><span class="lineno">  209</span> </div>
+<div class="line"><span class="lineno">  210</span>    <a class="code hl_enumvalue" href="../../de/db4/a02684.html#a2b56f12a5305ced51b0059ef1dbc37b4a4ab1c01eb14cf41a048becfaa15870be">QUEST_BREAKOUT</a>                  = 12727,</div>
+<div class="line"><span class="lineno">  211</span> </div>
+<div class="line"><span class="lineno">  212</span>    <a class="code hl_enumvalue" href="../../de/db4/a02684.html#a2b56f12a5305ced51b0059ef1dbc37b4ad3ea46349fdb48ebcfa30c1ac63d178a">NPC_CRIMSON_ACOLYTE</a>             = 29007,</div>
+<div class="line"><span class="lineno">  213</span>    <a class="code hl_enumvalue" href="../../de/db4/a02684.html#a2b56f12a5305ced51b0059ef1dbc37b4a2a5242e867c9033963eced30f48a1899">NPC_HIGH_INQUISITOR_VALROTH</a>     = 29001,</div>
+<div class="line"><span class="lineno">  214</span> </div>
+<div class="line"><span class="lineno">  215</span>    <span class="comment">//not sure about this id</span></div>
+<div class="line"><span class="lineno">  216</span>    <span class="comment">//NPC_DEATH_KNIGHT_MOUNT        = 29201,</span></div>
+<div class="line"><span class="lineno">  217</span>    <a class="code hl_enumvalue" href="../../de/db4/a02684.html#a2b56f12a5305ced51b0059ef1dbc37b4a42e041017c8f5b8e31870eefdc10f790">MODEL_DEATH_KNIGHT_MOUNT</a>        = 25278,</div>
+<div class="line"><span class="lineno">  218</span> </div>
+<div class="line"><span class="lineno">  219</span>    <a class="code hl_enumvalue" href="../../de/db4/a02684.html#a2b56f12a5305ced51b0059ef1dbc37b4ac91453bb5043a7aead60feb820a6bd6b">POINT_STAND_UP</a>                  = 0,</div>
+<div class="line"><span class="lineno">  220</span>    <a class="code hl_enumvalue" href="../../de/db4/a02684.html#a2b56f12a5305ced51b0059ef1dbc37b4a09b9e9bb7a5fc24d7a7405cbc45c3518">POINT_BOX</a>                       = 1,</div>
+<div class="line"><span class="lineno">  221</span>    <a class="code hl_enumvalue" href="../../de/db4/a02684.html#a2b56f12a5305ced51b0059ef1dbc37b4a3340ce874f4b9e725f5dc48864ff172d">POINT_ANTI_MAGIC_ZONE</a>           = 2,</div>
+<div class="line"><span class="lineno">  222</span> </div>
+<div class="line"><span class="lineno">  223</span>    <a class="code hl_enumvalue" href="../../de/db4/a02684.html#a2b56f12a5305ced51b0059ef1dbc37b4ab753bbca5d915f53037e13bcdbed0f12">POINT_MOUNT</a>                     = 0,</div>
+<div class="line"><span class="lineno">  224</span>    <a class="code hl_enumvalue" href="../../de/db4/a02684.html#a2b56f12a5305ced51b0059ef1dbc37b4a193b32ae3e767cdd2899238b38950ddf">POINT_DESPAWN</a>                   = 1</div>
+<div class="line"><span class="lineno">  225</span>};</div>
+<div class="ttc" id="aa02684_html_a2b56f12a5305ced51b0059ef1dbc37b4a094396cb1532cbff467d039ac9cc6ac6"><div class="ttname"><a href="../../de/db4/a02684.html#a2b56f12a5305ced51b0059ef1dbc37b4a094396cb1532cbff467d039ac9cc6ac6">SAY_BREAKOUT1</a></div><div class="ttdeci">@ SAY_BREAKOUT1</div><div class="ttdef"><b>Definition:</b> chapter2.cpp:190</div></div>
+<div class="ttc" id="aa02684_html_a2b56f12a5305ced51b0059ef1dbc37b4a09b9e9bb7a5fc24d7a7405cbc45c3518"><div class="ttname"><a href="../../de/db4/a02684.html#a2b56f12a5305ced51b0059ef1dbc37b4a09b9e9bb7a5fc24d7a7405cbc45c3518">POINT_BOX</a></div><div class="ttdeci">@ POINT_BOX</div><div class="ttdef"><b>Definition:</b> chapter2.cpp:220</div></div>
+<div class="ttc" id="aa02684_html_a2b56f12a5305ced51b0059ef1dbc37b4a13e18bd4726cb3fbe75b71e6b6c6554c"><div class="ttname"><a href="../../de/db4/a02684.html#a2b56f12a5305ced51b0059ef1dbc37b4a13e18bd4726cb3fbe75b71e6b6c6554c">SAY_BREAKOUT2</a></div><div class="ttdeci">@ SAY_BREAKOUT2</div><div class="ttdef"><b>Definition:</b> chapter2.cpp:191</div></div>
+<div class="ttc" id="aa02684_html_a2b56f12a5305ced51b0059ef1dbc37b4a177482cab7ed071275f904b2d7b4339b"><div class="ttname"><a href="../../de/db4/a02684.html#a2b56f12a5305ced51b0059ef1dbc37b4a177482cab7ed071275f904b2d7b4339b">SAY_BREAKOUT8</a></div><div class="ttdeci">@ SAY_BREAKOUT8</div><div class="ttdef"><b>Definition:</b> chapter2.cpp:197</div></div>
+<div class="ttc" id="aa02684_html_a2b56f12a5305ced51b0059ef1dbc37b4a193b32ae3e767cdd2899238b38950ddf"><div class="ttname"><a href="../../de/db4/a02684.html#a2b56f12a5305ced51b0059ef1dbc37b4a193b32ae3e767cdd2899238b38950ddf">POINT_DESPAWN</a></div><div class="ttdeci">@ POINT_DESPAWN</div><div class="ttdef"><b>Definition:</b> chapter2.cpp:224</div></div>
+<div class="ttc" id="aa02684_html_a2b56f12a5305ced51b0059ef1dbc37b4a254cc161ba0a08197d3676dad0fda9f2"><div class="ttname"><a href="../../de/db4/a02684.html#a2b56f12a5305ced51b0059ef1dbc37b4a254cc161ba0a08197d3676dad0fda9f2">SPELL_ANTI_MAGIC_ZONE</a></div><div class="ttdeci">@ SPELL_ANTI_MAGIC_ZONE</div><div class="ttdef"><b>Definition:</b> chapter2.cpp:208</div></div>
+<div class="ttc" id="aa02684_html_a2b56f12a5305ced51b0059ef1dbc37b4a2710018d85ac588bb3ac6a2e80969d3a"><div class="ttname"><a href="../../de/db4/a02684.html#a2b56f12a5305ced51b0059ef1dbc37b4a2710018d85ac588bb3ac6a2e80969d3a">SAY_BREAKOUT5</a></div><div class="ttdeci">@ SAY_BREAKOUT5</div><div class="ttdef"><b>Definition:</b> chapter2.cpp:194</div></div>
+<div class="ttc" id="aa02684_html_a2b56f12a5305ced51b0059ef1dbc37b4a298ab0b6af72e36096cf2f7d8b0e3a7b"><div class="ttname"><a href="../../de/db4/a02684.html#a2b56f12a5305ced51b0059ef1dbc37b4a298ab0b6af72e36096cf2f7d8b0e3a7b">SAY_BREAKOUT6</a></div><div class="ttdeci">@ SAY_BREAKOUT6</div><div class="ttdef"><b>Definition:</b> chapter2.cpp:195</div></div>
+<div class="ttc" id="aa02684_html_a2b56f12a5305ced51b0059ef1dbc37b4a2a5242e867c9033963eced30f48a1899"><div class="ttname"><a href="../../de/db4/a02684.html#a2b56f12a5305ced51b0059ef1dbc37b4a2a5242e867c9033963eced30f48a1899">NPC_HIGH_INQUISITOR_VALROTH</a></div><div class="ttdeci">@ NPC_HIGH_INQUISITOR_VALROTH</div><div class="ttdef"><b>Definition:</b> chapter2.cpp:213</div></div>
+<div class="ttc" id="aa02684_html_a2b56f12a5305ced51b0059ef1dbc37b4a3340ce874f4b9e725f5dc48864ff172d"><div class="ttname"><a href="../../de/db4/a02684.html#a2b56f12a5305ced51b0059ef1dbc37b4a3340ce874f4b9e725f5dc48864ff172d">POINT_ANTI_MAGIC_ZONE</a></div><div class="ttdeci">@ POINT_ANTI_MAGIC_ZONE</div><div class="ttdef"><b>Definition:</b> chapter2.cpp:221</div></div>
+<div class="ttc" id="aa02684_html_a2b56f12a5305ced51b0059ef1dbc37b4a3dd26a672e67dd057ea741e47e791b8e"><div class="ttname"><a href="../../de/db4/a02684.html#a2b56f12a5305ced51b0059ef1dbc37b4a3dd26a672e67dd057ea741e47e791b8e">SPELL_KOLTIRA_TRANSFORM</a></div><div class="ttdeci">@ SPELL_KOLTIRA_TRANSFORM</div><div class="ttdef"><b>Definition:</b> chapter2.cpp:207</div></div>
+<div class="ttc" id="aa02684_html_a2b56f12a5305ced51b0059ef1dbc37b4a42e041017c8f5b8e31870eefdc10f790"><div class="ttname"><a href="../../de/db4/a02684.html#a2b56f12a5305ced51b0059ef1dbc37b4a42e041017c8f5b8e31870eefdc10f790">MODEL_DEATH_KNIGHT_MOUNT</a></div><div class="ttdeci">@ MODEL_DEATH_KNIGHT_MOUNT</div><div class="ttdef"><b>Definition:</b> chapter2.cpp:217</div></div>
+<div class="ttc" id="aa02684_html_a2b56f12a5305ced51b0059ef1dbc37b4a4ab1c01eb14cf41a048becfaa15870be"><div class="ttname"><a href="../../de/db4/a02684.html#a2b56f12a5305ced51b0059ef1dbc37b4a4ab1c01eb14cf41a048becfaa15870be">QUEST_BREAKOUT</a></div><div class="ttdeci">@ QUEST_BREAKOUT</div><div class="ttdef"><b>Definition:</b> chapter2.cpp:210</div></div>
+<div class="ttc" id="aa02684_html_a2b56f12a5305ced51b0059ef1dbc37b4a5180bd862351818035a55ced9912f20a"><div class="ttname"><a href="../../de/db4/a02684.html#a2b56f12a5305ced51b0059ef1dbc37b4a5180bd862351818035a55ced9912f20a">SAY_VALROTH_WAVE1</a></div><div class="ttdeci">@ SAY_VALROTH_WAVE1</div><div class="ttdef"><b>Definition:</b> chapter2.cpp:204</div></div>
+<div class="ttc" id="aa02684_html_a2b56f12a5305ced51b0059ef1dbc37b4a57df20e18bba48c21e32b1cbd2704356"><div class="ttname"><a href="../../de/db4/a02684.html#a2b56f12a5305ced51b0059ef1dbc37b4a57df20e18bba48c21e32b1cbd2704356">SAY_BREAKOUT7</a></div><div class="ttdeci">@ SAY_BREAKOUT7</div><div class="ttdef"><b>Definition:</b> chapter2.cpp:196</div></div>
+<div class="ttc" id="aa02684_html_a2b56f12a5305ced51b0059ef1dbc37b4a6a8b157222c2252cf8da36c25da1b7dc"><div class="ttname"><a href="../../de/db4/a02684.html#a2b56f12a5305ced51b0059ef1dbc37b4a6a8b157222c2252cf8da36c25da1b7dc">SAY_BREAKOUT0</a></div><div class="ttdeci">@ SAY_BREAKOUT0</div><div class="ttdef"><b>Definition:</b> chapter2.cpp:189</div></div>
+<div class="ttc" id="aa02684_html_a2b56f12a5305ced51b0059ef1dbc37b4a86af95c0cf3a510c60a58eca6a745c9b"><div class="ttname"><a href="../../de/db4/a02684.html#a2b56f12a5305ced51b0059ef1dbc37b4a86af95c0cf3a510c60a58eca6a745c9b">SAY_BREAKOUT3</a></div><div class="ttdeci">@ SAY_BREAKOUT3</div><div class="ttdef"><b>Definition:</b> chapter2.cpp:192</div></div>
+<div class="ttc" id="aa02684_html_a2b56f12a5305ced51b0059ef1dbc37b4aa797326fa41cffd7206a62ce2f67e932"><div class="ttname"><a href="../../de/db4/a02684.html#a2b56f12a5305ced51b0059ef1dbc37b4aa797326fa41cffd7206a62ce2f67e932">SAY_BREAKOUT9</a></div><div class="ttdeci">@ SAY_BREAKOUT9</div><div class="ttdef"><b>Definition:</b> chapter2.cpp:198</div></div>
+<div class="ttc" id="aa02684_html_a2b56f12a5305ced51b0059ef1dbc37b4ab4c8196716ada2907e5e89bd23a492aa"><div class="ttname"><a href="../../de/db4/a02684.html#a2b56f12a5305ced51b0059ef1dbc37b4ab4c8196716ada2907e5e89bd23a492aa">SAY_BREAKOUT10</a></div><div class="ttdeci">@ SAY_BREAKOUT10</div><div class="ttdef"><b>Definition:</b> chapter2.cpp:199</div></div>
+<div class="ttc" id="aa02684_html_a2b56f12a5305ced51b0059ef1dbc37b4ab753bbca5d915f53037e13bcdbed0f12"><div class="ttname"><a href="../../de/db4/a02684.html#a2b56f12a5305ced51b0059ef1dbc37b4ab753bbca5d915f53037e13bcdbed0f12">POINT_MOUNT</a></div><div class="ttdeci">@ POINT_MOUNT</div><div class="ttdef"><b>Definition:</b> chapter2.cpp:223</div></div>
+<div class="ttc" id="aa02684_html_a2b56f12a5305ced51b0059ef1dbc37b4ab9162631c8867f6ae3417bb38654afda"><div class="ttname"><a href="../../de/db4/a02684.html#a2b56f12a5305ced51b0059ef1dbc37b4ab9162631c8867f6ae3417bb38654afda">SAY_VALROTH_AGGRO</a></div><div class="ttdeci">@ SAY_VALROTH_AGGRO</div><div class="ttdef"><b>Definition:</b> chapter2.cpp:203</div></div>
+<div class="ttc" id="aa02684_html_a2b56f12a5305ced51b0059ef1dbc37b4ac756683588818c8c234c345799a44fb1"><div class="ttname"><a href="../../de/db4/a02684.html#a2b56f12a5305ced51b0059ef1dbc37b4ac756683588818c8c234c345799a44fb1">SAY_BREAKOUT4</a></div><div class="ttdeci">@ SAY_BREAKOUT4</div><div class="ttdef"><b>Definition:</b> chapter2.cpp:193</div></div>
+<div class="ttc" id="aa02684_html_a2b56f12a5305ced51b0059ef1dbc37b4ac91453bb5043a7aead60feb820a6bd6b"><div class="ttname"><a href="../../de/db4/a02684.html#a2b56f12a5305ced51b0059ef1dbc37b4ac91453bb5043a7aead60feb820a6bd6b">POINT_STAND_UP</a></div><div class="ttdeci">@ POINT_STAND_UP</div><div class="ttdef"><b>Definition:</b> chapter2.cpp:219</div></div>
+<div class="ttc" id="aa02684_html_a2b56f12a5305ced51b0059ef1dbc37b4ace8cdeb54416e82b4126c9607684aef2"><div class="ttname"><a href="../../de/db4/a02684.html#a2b56f12a5305ced51b0059ef1dbc37b4ace8cdeb54416e82b4126c9607684aef2">EMOTE_KOLTIRA_COLLAPSES</a></div><div class="ttdeci">@ EMOTE_KOLTIRA_COLLAPSES</div><div class="ttdef"><b>Definition:</b> chapter2.cpp:200</div></div>
+<div class="ttc" id="aa02684_html_a2b56f12a5305ced51b0059ef1dbc37b4ad3ea46349fdb48ebcfa30c1ac63d178a"><div class="ttname"><a href="../../de/db4/a02684.html#a2b56f12a5305ced51b0059ef1dbc37b4ad3ea46349fdb48ebcfa30c1ac63d178a">NPC_CRIMSON_ACOLYTE</a></div><div class="ttdeci">@ NPC_CRIMSON_ACOLYTE</div><div class="ttdef"><b>Definition:</b> chapter2.cpp:212</div></div>
+<div class="ttc" id="aa02684_html_a2b56f12a5305ced51b0059ef1dbc37b4ad48472c3123542f061d5b7a63921ba0d"><div class="ttname"><a href="../../de/db4/a02684.html#a2b56f12a5305ced51b0059ef1dbc37b4ad48472c3123542f061d5b7a63921ba0d">SAY_VALROTH_WAVE2</a></div><div class="ttdeci">@ SAY_VALROTH_WAVE2</div><div class="ttdef"><b>Definition:</b> chapter2.cpp:205</div></div>
+<div class="ttc" id="aa02684_html_a2b56f12a5305ced51b0059ef1dbc37b4add85d0bf9091ea4e8568d53c087f14e1"><div class="ttname"><a href="../../de/db4/a02684.html#a2b56f12a5305ced51b0059ef1dbc37b4add85d0bf9091ea4e8568d53c087f14e1">SAY_VALROTH_WAVE3</a></div><div class="ttdeci">@ SAY_VALROTH_WAVE3</div><div class="ttdef"><b>Definition:</b> chapter2.cpp:202</div></div>
 </div><!-- fragment -->
 </div>
 </div>
-<h2 class="groupheader">Function Documentation</h2>
-<a id="add963c2bc2b515348b9b7c636d176927" name="add963c2bc2b515348b9b7c636d176927"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#add963c2bc2b515348b9b7c636d176927">&#9670;&#160;</a></span>AddSC_the_scarlet_enclave_c3()</h2>
+<a id="a3fe46eb19e3256cc2367013d9300f8a4" name="a3fe46eb19e3256cc2367013d9300f8a4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3fe46eb19e3256cc2367013d9300f8a4">&#9670;&#160;</a></span>ScarletCourierEnum</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">void AddSC_the_scarlet_enclave_c3 </td>
+          <td class="memname">enum <a class="el" href="../../de/db4/a02684.html#a3fe46eb19e3256cc2367013d9300f8a4">ScarletCourierEnum</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a3fe46eb19e3256cc2367013d9300f8a4a2f4e22f3584ef5be240f77d5bd850794" name="a3fe46eb19e3256cc2367013d9300f8a4a2f4e22f3584ef5be240f77d5bd850794"></a>SAY_TREE1&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a3fe46eb19e3256cc2367013d9300f8a4ad804a4374f9760c921f530c1712de8dc" name="a3fe46eb19e3256cc2367013d9300f8a4ad804a4374f9760c921f530c1712de8dc"></a>SAY_TREE2&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a3fe46eb19e3256cc2367013d9300f8a4a1b728fa1bb0194534b5b491d35ed871c" name="a3fe46eb19e3256cc2367013d9300f8a4a1b728fa1bb0194534b5b491d35ed871c"></a>SPELL_SHOOT&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a3fe46eb19e3256cc2367013d9300f8a4a53367093a2729d0166b440148bc56bbc" name="a3fe46eb19e3256cc2367013d9300f8a4a53367093a2729d0166b440148bc56bbc"></a>GO_INCONSPICUOUS_TREE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a3fe46eb19e3256cc2367013d9300f8a4a3b66e7e1d525ed843528cf663d361981" name="a3fe46eb19e3256cc2367013d9300f8a4a3b66e7e1d525ed843528cf663d361981"></a>NPC_SCARLET_COURIER&#160;</td><td class="fielddoc"></td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno">  434</span>{</div>
+<div class="line"><span class="lineno">  435</span>    <a class="code hl_enumvalue" href="../../de/db4/a02684.html#a3fe46eb19e3256cc2367013d9300f8a4a2f4e22f3584ef5be240f77d5bd850794">SAY_TREE1</a>                          = 0,</div>
+<div class="line"><span class="lineno">  436</span>    <a class="code hl_enumvalue" href="../../de/db4/a02684.html#a3fe46eb19e3256cc2367013d9300f8a4ad804a4374f9760c921f530c1712de8dc">SAY_TREE2</a>                          = 1,</div>
+<div class="line"><span class="lineno">  437</span>    <a class="code hl_enumvalue" href="../../de/db4/a02684.html#a3fe46eb19e3256cc2367013d9300f8a4a1b728fa1bb0194534b5b491d35ed871c">SPELL_SHOOT</a>                        = 52818,</div>
+<div class="line"><span class="lineno">  438</span>    <a class="code hl_enumvalue" href="../../de/db4/a02684.html#a3fe46eb19e3256cc2367013d9300f8a4a53367093a2729d0166b440148bc56bbc">GO_INCONSPICUOUS_TREE</a>              = 191144,</div>
+<div class="line"><span class="lineno">  439</span>    <a class="code hl_enumvalue" href="../../de/db4/a02684.html#a3fe46eb19e3256cc2367013d9300f8a4a3b66e7e1d525ed843528cf663d361981">NPC_SCARLET_COURIER</a>                = 29076</div>
+<div class="line"><span class="lineno">  440</span>};</div>
+<div class="ttc" id="aa02684_html_a3fe46eb19e3256cc2367013d9300f8a4a1b728fa1bb0194534b5b491d35ed871c"><div class="ttname"><a href="../../de/db4/a02684.html#a3fe46eb19e3256cc2367013d9300f8a4a1b728fa1bb0194534b5b491d35ed871c">SPELL_SHOOT</a></div><div class="ttdeci">@ SPELL_SHOOT</div><div class="ttdef"><b>Definition:</b> chapter2.cpp:437</div></div>
+<div class="ttc" id="aa02684_html_a3fe46eb19e3256cc2367013d9300f8a4a2f4e22f3584ef5be240f77d5bd850794"><div class="ttname"><a href="../../de/db4/a02684.html#a3fe46eb19e3256cc2367013d9300f8a4a2f4e22f3584ef5be240f77d5bd850794">SAY_TREE1</a></div><div class="ttdeci">@ SAY_TREE1</div><div class="ttdef"><b>Definition:</b> chapter2.cpp:435</div></div>
+<div class="ttc" id="aa02684_html_a3fe46eb19e3256cc2367013d9300f8a4a3b66e7e1d525ed843528cf663d361981"><div class="ttname"><a href="../../de/db4/a02684.html#a3fe46eb19e3256cc2367013d9300f8a4a3b66e7e1d525ed843528cf663d361981">NPC_SCARLET_COURIER</a></div><div class="ttdeci">@ NPC_SCARLET_COURIER</div><div class="ttdef"><b>Definition:</b> chapter2.cpp:439</div></div>
+<div class="ttc" id="aa02684_html_a3fe46eb19e3256cc2367013d9300f8a4a53367093a2729d0166b440148bc56bbc"><div class="ttname"><a href="../../de/db4/a02684.html#a3fe46eb19e3256cc2367013d9300f8a4a53367093a2729d0166b440148bc56bbc">GO_INCONSPICUOUS_TREE</a></div><div class="ttdeci">@ GO_INCONSPICUOUS_TREE</div><div class="ttdef"><b>Definition:</b> chapter2.cpp:438</div></div>
+<div class="ttc" id="aa02684_html_a3fe46eb19e3256cc2367013d9300f8a4ad804a4374f9760c921f530c1712de8dc"><div class="ttname"><a href="../../de/db4/a02684.html#a3fe46eb19e3256cc2367013d9300f8a4ad804a4374f9760c921f530c1712de8dc">SAY_TREE2</a></div><div class="ttdeci">@ SAY_TREE2</div><div class="ttdef"><b>Definition:</b> chapter2.cpp:436</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="a39d9f90bc43829f5faf92e7b78c46c41" name="a39d9f90bc43829f5faf92e7b78c46c41"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a39d9f90bc43829f5faf92e7b78c46c41">&#9670;&#160;</a></span>SpecialSurprise</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="../../de/db4/a02684.html#a39d9f90bc43829f5faf92e7b78c46c41">SpecialSurprise</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a39d9f90bc43829f5faf92e7b78c46c41ae8e19e9553a530c5b5048208c88d65e5" name="a39d9f90bc43829f5faf92e7b78c46c41ae8e19e9553a530c5b5048208c88d65e5"></a>SAY_EXEC_START&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a39d9f90bc43829f5faf92e7b78c46c41a1fab31c66f796691c67a2498638e3175" name="a39d9f90bc43829f5faf92e7b78c46c41a1fab31c66f796691c67a2498638e3175"></a>SAY_EXEC_PROG&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a39d9f90bc43829f5faf92e7b78c46c41a232dd35d50b1347e00f4eab406b77a0d" name="a39d9f90bc43829f5faf92e7b78c46c41a232dd35d50b1347e00f4eab406b77a0d"></a>SAY_EXEC_NAME&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a39d9f90bc43829f5faf92e7b78c46c41af3601727efa384a7818ea45ba16aefc6" name="a39d9f90bc43829f5faf92e7b78c46c41af3601727efa384a7818ea45ba16aefc6"></a>SAY_EXEC_RECOG&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a39d9f90bc43829f5faf92e7b78c46c41a50f98188751f2e80dca735efce0b92c0" name="a39d9f90bc43829f5faf92e7b78c46c41a50f98188751f2e80dca735efce0b92c0"></a>SAY_EXEC_NOREM&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a39d9f90bc43829f5faf92e7b78c46c41a43005d3320111e6925a0e23177d69d32" name="a39d9f90bc43829f5faf92e7b78c46c41a43005d3320111e6925a0e23177d69d32"></a>SAY_EXEC_THINK&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a39d9f90bc43829f5faf92e7b78c46c41ae324ebc8cfef92b79ad478e18529e2e4" name="a39d9f90bc43829f5faf92e7b78c46c41ae324ebc8cfef92b79ad478e18529e2e4"></a>SAY_EXEC_LISTEN&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a39d9f90bc43829f5faf92e7b78c46c41a3330c6cc3b04296f07d9766443ed6eb2" name="a39d9f90bc43829f5faf92e7b78c46c41a3330c6cc3b04296f07d9766443ed6eb2"></a>SAY_EXEC_TIME&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a39d9f90bc43829f5faf92e7b78c46c41adaddf2c220fcd7c66f0f61a811a98d36" name="a39d9f90bc43829f5faf92e7b78c46c41adaddf2c220fcd7c66f0f61a811a98d36"></a>SAY_EXEC_WAITING&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a39d9f90bc43829f5faf92e7b78c46c41a1b942bcbae4fe8e343cc371a3e5d2560" name="a39d9f90bc43829f5faf92e7b78c46c41a1b942bcbae4fe8e343cc371a3e5d2560"></a>EMOTE_DIES&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a39d9f90bc43829f5faf92e7b78c46c41ac6253854fcd623ea9589f7962bf08499" name="a39d9f90bc43829f5faf92e7b78c46c41ac6253854fcd623ea9589f7962bf08499"></a>SAY_PLAGUEFIST&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a39d9f90bc43829f5faf92e7b78c46c41a36e93ebdaa9af83fbb08411737af6819" name="a39d9f90bc43829f5faf92e7b78c46c41a36e93ebdaa9af83fbb08411737af6819"></a>NPC_PLAGUEFIST&#160;</td><td class="fielddoc"></td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno">  525</span>{</div>
+<div class="line"><span class="lineno">  526</span>    <a class="code hl_enumvalue" href="../../de/db4/a02684.html#a39d9f90bc43829f5faf92e7b78c46c41ae8e19e9553a530c5b5048208c88d65e5">SAY_EXEC_START</a> = 0,</div>
+<div class="line"><span class="lineno">  527</span>    <a class="code hl_enumvalue" href="../../de/db4/a02684.html#a39d9f90bc43829f5faf92e7b78c46c41a1fab31c66f796691c67a2498638e3175">SAY_EXEC_PROG</a> = 1,</div>
+<div class="line"><span class="lineno">  528</span>    <a class="code hl_enumvalue" href="../../de/db4/a02684.html#a39d9f90bc43829f5faf92e7b78c46c41a232dd35d50b1347e00f4eab406b77a0d">SAY_EXEC_NAME</a> = 2,</div>
+<div class="line"><span class="lineno">  529</span>    <a class="code hl_enumvalue" href="../../de/db4/a02684.html#a39d9f90bc43829f5faf92e7b78c46c41af3601727efa384a7818ea45ba16aefc6">SAY_EXEC_RECOG</a> = 3,</div>
+<div class="line"><span class="lineno">  530</span>    <a class="code hl_enumvalue" href="../../de/db4/a02684.html#a39d9f90bc43829f5faf92e7b78c46c41a50f98188751f2e80dca735efce0b92c0">SAY_EXEC_NOREM</a> = 4,</div>
+<div class="line"><span class="lineno">  531</span>    <a class="code hl_enumvalue" href="../../de/db4/a02684.html#a39d9f90bc43829f5faf92e7b78c46c41a43005d3320111e6925a0e23177d69d32">SAY_EXEC_THINK</a> = 5,</div>
+<div class="line"><span class="lineno">  532</span>    <a class="code hl_enumvalue" href="../../de/db4/a02684.html#a39d9f90bc43829f5faf92e7b78c46c41ae324ebc8cfef92b79ad478e18529e2e4">SAY_EXEC_LISTEN</a> = 6,</div>
+<div class="line"><span class="lineno">  533</span>    <a class="code hl_enumvalue" href="../../de/db4/a02684.html#a39d9f90bc43829f5faf92e7b78c46c41a3330c6cc3b04296f07d9766443ed6eb2">SAY_EXEC_TIME</a> = 7,</div>
+<div class="line"><span class="lineno">  534</span>    <a class="code hl_enumvalue" href="../../de/db4/a02684.html#a39d9f90bc43829f5faf92e7b78c46c41adaddf2c220fcd7c66f0f61a811a98d36">SAY_EXEC_WAITING</a> = 8,</div>
+<div class="line"><span class="lineno">  535</span>    <a class="code hl_enumvalue" href="../../de/db4/a02684.html#a39d9f90bc43829f5faf92e7b78c46c41a1b942bcbae4fe8e343cc371a3e5d2560">EMOTE_DIES</a> = 9,</div>
+<div class="line"><span class="lineno">  536</span> </div>
+<div class="line"><span class="lineno">  537</span>    <a class="code hl_enumvalue" href="../../de/db4/a02684.html#a39d9f90bc43829f5faf92e7b78c46c41ac6253854fcd623ea9589f7962bf08499">SAY_PLAGUEFIST</a> = 0,</div>
+<div class="line"><span class="lineno">  538</span>    <a class="code hl_enumvalue" href="../../de/db4/a02684.html#a39d9f90bc43829f5faf92e7b78c46c41a36e93ebdaa9af83fbb08411737af6819">NPC_PLAGUEFIST</a> = 29053</div>
+<div class="line"><span class="lineno">  539</span>};</div>
+<div class="ttc" id="aa02684_html_a39d9f90bc43829f5faf92e7b78c46c41a1b942bcbae4fe8e343cc371a3e5d2560"><div class="ttname"><a href="../../de/db4/a02684.html#a39d9f90bc43829f5faf92e7b78c46c41a1b942bcbae4fe8e343cc371a3e5d2560">EMOTE_DIES</a></div><div class="ttdeci">@ EMOTE_DIES</div><div class="ttdef"><b>Definition:</b> chapter2.cpp:535</div></div>
+<div class="ttc" id="aa02684_html_a39d9f90bc43829f5faf92e7b78c46c41a1fab31c66f796691c67a2498638e3175"><div class="ttname"><a href="../../de/db4/a02684.html#a39d9f90bc43829f5faf92e7b78c46c41a1fab31c66f796691c67a2498638e3175">SAY_EXEC_PROG</a></div><div class="ttdeci">@ SAY_EXEC_PROG</div><div class="ttdef"><b>Definition:</b> chapter2.cpp:527</div></div>
+<div class="ttc" id="aa02684_html_a39d9f90bc43829f5faf92e7b78c46c41a232dd35d50b1347e00f4eab406b77a0d"><div class="ttname"><a href="../../de/db4/a02684.html#a39d9f90bc43829f5faf92e7b78c46c41a232dd35d50b1347e00f4eab406b77a0d">SAY_EXEC_NAME</a></div><div class="ttdeci">@ SAY_EXEC_NAME</div><div class="ttdef"><b>Definition:</b> chapter2.cpp:528</div></div>
+<div class="ttc" id="aa02684_html_a39d9f90bc43829f5faf92e7b78c46c41a3330c6cc3b04296f07d9766443ed6eb2"><div class="ttname"><a href="../../de/db4/a02684.html#a39d9f90bc43829f5faf92e7b78c46c41a3330c6cc3b04296f07d9766443ed6eb2">SAY_EXEC_TIME</a></div><div class="ttdeci">@ SAY_EXEC_TIME</div><div class="ttdef"><b>Definition:</b> chapter2.cpp:533</div></div>
+<div class="ttc" id="aa02684_html_a39d9f90bc43829f5faf92e7b78c46c41a36e93ebdaa9af83fbb08411737af6819"><div class="ttname"><a href="../../de/db4/a02684.html#a39d9f90bc43829f5faf92e7b78c46c41a36e93ebdaa9af83fbb08411737af6819">NPC_PLAGUEFIST</a></div><div class="ttdeci">@ NPC_PLAGUEFIST</div><div class="ttdef"><b>Definition:</b> chapter2.cpp:538</div></div>
+<div class="ttc" id="aa02684_html_a39d9f90bc43829f5faf92e7b78c46c41a43005d3320111e6925a0e23177d69d32"><div class="ttname"><a href="../../de/db4/a02684.html#a39d9f90bc43829f5faf92e7b78c46c41a43005d3320111e6925a0e23177d69d32">SAY_EXEC_THINK</a></div><div class="ttdeci">@ SAY_EXEC_THINK</div><div class="ttdef"><b>Definition:</b> chapter2.cpp:531</div></div>
+<div class="ttc" id="aa02684_html_a39d9f90bc43829f5faf92e7b78c46c41a50f98188751f2e80dca735efce0b92c0"><div class="ttname"><a href="../../de/db4/a02684.html#a39d9f90bc43829f5faf92e7b78c46c41a50f98188751f2e80dca735efce0b92c0">SAY_EXEC_NOREM</a></div><div class="ttdeci">@ SAY_EXEC_NOREM</div><div class="ttdef"><b>Definition:</b> chapter2.cpp:530</div></div>
+<div class="ttc" id="aa02684_html_a39d9f90bc43829f5faf92e7b78c46c41ac6253854fcd623ea9589f7962bf08499"><div class="ttname"><a href="../../de/db4/a02684.html#a39d9f90bc43829f5faf92e7b78c46c41ac6253854fcd623ea9589f7962bf08499">SAY_PLAGUEFIST</a></div><div class="ttdeci">@ SAY_PLAGUEFIST</div><div class="ttdef"><b>Definition:</b> chapter2.cpp:537</div></div>
+<div class="ttc" id="aa02684_html_a39d9f90bc43829f5faf92e7b78c46c41adaddf2c220fcd7c66f0f61a811a98d36"><div class="ttname"><a href="../../de/db4/a02684.html#a39d9f90bc43829f5faf92e7b78c46c41adaddf2c220fcd7c66f0f61a811a98d36">SAY_EXEC_WAITING</a></div><div class="ttdeci">@ SAY_EXEC_WAITING</div><div class="ttdef"><b>Definition:</b> chapter2.cpp:534</div></div>
+<div class="ttc" id="aa02684_html_a39d9f90bc43829f5faf92e7b78c46c41ae324ebc8cfef92b79ad478e18529e2e4"><div class="ttname"><a href="../../de/db4/a02684.html#a39d9f90bc43829f5faf92e7b78c46c41ae324ebc8cfef92b79ad478e18529e2e4">SAY_EXEC_LISTEN</a></div><div class="ttdeci">@ SAY_EXEC_LISTEN</div><div class="ttdef"><b>Definition:</b> chapter2.cpp:532</div></div>
+<div class="ttc" id="aa02684_html_a39d9f90bc43829f5faf92e7b78c46c41ae8e19e9553a530c5b5048208c88d65e5"><div class="ttname"><a href="../../de/db4/a02684.html#a39d9f90bc43829f5faf92e7b78c46c41ae8e19e9553a530c5b5048208c88d65e5">SAY_EXEC_START</a></div><div class="ttdeci">@ SAY_EXEC_START</div><div class="ttdef"><b>Definition:</b> chapter2.cpp:526</div></div>
+<div class="ttc" id="aa02684_html_a39d9f90bc43829f5faf92e7b78c46c41af3601727efa384a7818ea45ba16aefc6"><div class="ttname"><a href="../../de/db4/a02684.html#a39d9f90bc43829f5faf92e7b78c46c41af3601727efa384a7818ea45ba16aefc6">SAY_EXEC_RECOG</a></div><div class="ttdeci">@ SAY_EXEC_RECOG</div><div class="ttdef"><b>Definition:</b> chapter2.cpp:529</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="a4c1e144641d137d320608174c3ada70b" name="a4c1e144641d137d320608174c3ada70b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4c1e144641d137d320608174c3ada70b">&#9670;&#160;</a></span>win_friends</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="../../de/db4/a02684.html#a4c1e144641d137d320608174c3ada70b">win_friends</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a4c1e144641d137d320608174c3ada70ba47c752fff069f3e55065795eef2a9bfe" name="a4c1e144641d137d320608174c3ada70ba47c752fff069f3e55065795eef2a9bfe"></a>SAY_AGGRO&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a4c1e144641d137d320608174c3ada70ba0cfa69eb44105ba8b55095f367891967" name="a4c1e144641d137d320608174c3ada70ba0cfa69eb44105ba8b55095f367891967"></a>SAY_CRUSADER&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a4c1e144641d137d320608174c3ada70bac8fbe16451ed71344028995e920a6b36" name="a4c1e144641d137d320608174c3ada70bac8fbe16451ed71344028995e920a6b36"></a>SAY_PERSUADED1&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a4c1e144641d137d320608174c3ada70ba767561556d5645f840a29d37fef15d57" name="a4c1e144641d137d320608174c3ada70ba767561556d5645f840a29d37fef15d57"></a>SAY_PERSUADED2&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a4c1e144641d137d320608174c3ada70ba6b5f1c188d7d5fadd2ffc4d79e76285b" name="a4c1e144641d137d320608174c3ada70ba6b5f1c188d7d5fadd2ffc4d79e76285b"></a>SAY_PERSUADED3&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a4c1e144641d137d320608174c3ada70ba1131d1fd4c5913ab2c56c07a61d576d6" name="a4c1e144641d137d320608174c3ada70ba1131d1fd4c5913ab2c56c07a61d576d6"></a>SAY_PERSUADED4&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a4c1e144641d137d320608174c3ada70ba3dd690c17e20fc2deca9963debbcb36b" name="a4c1e144641d137d320608174c3ada70ba3dd690c17e20fc2deca9963debbcb36b"></a>SAY_PERSUADED5&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a4c1e144641d137d320608174c3ada70bac6c794baa7f292cc7e8c8bfc70120928" name="a4c1e144641d137d320608174c3ada70bac6c794baa7f292cc7e8c8bfc70120928"></a>SAY_PERSUADED6&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a4c1e144641d137d320608174c3ada70ba77e1040a5f80ad6a54ae0af5ecdec01b" name="a4c1e144641d137d320608174c3ada70ba77e1040a5f80ad6a54ae0af5ecdec01b"></a>SAY_PERSUADE_RAND&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a4c1e144641d137d320608174c3ada70ba4b7723fc952c73a8959348ac339fecbf" name="a4c1e144641d137d320608174c3ada70ba4b7723fc952c73a8959348ac339fecbf"></a>SPELL_PERSUASIVE_STRIKE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a4c1e144641d137d320608174c3ada70ba46c467599f797bb6282c4d94bc07aa73" name="a4c1e144641d137d320608174c3ada70ba46c467599f797bb6282c4d94bc07aa73"></a>SPELL_THREAT_PULSE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a4c1e144641d137d320608174c3ada70ba263b82da9ff2a85f24592bb6a39f4951" name="a4c1e144641d137d320608174c3ada70ba263b82da9ff2a85f24592bb6a39f4951"></a>QUEST_HOW_TO_WIN_FRIENDS&#160;</td><td class="fielddoc"></td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno">   31</span>{</div>
+<div class="line"><span class="lineno">   32</span>    <a class="code hl_enumvalue" href="../../de/db4/a02684.html#a4c1e144641d137d320608174c3ada70ba47c752fff069f3e55065795eef2a9bfe">SAY_AGGRO</a>                         = 0,</div>
+<div class="line"><span class="lineno">   33</span>    <a class="code hl_enumvalue" href="../../de/db4/a02684.html#a4c1e144641d137d320608174c3ada70ba0cfa69eb44105ba8b55095f367891967">SAY_CRUSADER</a>                      = 1,</div>
+<div class="line"><span class="lineno">   34</span>    <a class="code hl_enumvalue" href="../../de/db4/a02684.html#a4c1e144641d137d320608174c3ada70bac8fbe16451ed71344028995e920a6b36">SAY_PERSUADED1</a>                    = 2,</div>
+<div class="line"><span class="lineno">   35</span>    <a class="code hl_enumvalue" href="../../de/db4/a02684.html#a4c1e144641d137d320608174c3ada70ba767561556d5645f840a29d37fef15d57">SAY_PERSUADED2</a>                    = 3,</div>
+<div class="line"><span class="lineno">   36</span>    <a class="code hl_enumvalue" href="../../de/db4/a02684.html#a4c1e144641d137d320608174c3ada70ba6b5f1c188d7d5fadd2ffc4d79e76285b">SAY_PERSUADED3</a>                    = 4,</div>
+<div class="line"><span class="lineno">   37</span>    <a class="code hl_enumvalue" href="../../de/db4/a02684.html#a4c1e144641d137d320608174c3ada70ba1131d1fd4c5913ab2c56c07a61d576d6">SAY_PERSUADED4</a>                    = 5,</div>
+<div class="line"><span class="lineno">   38</span>    <a class="code hl_enumvalue" href="../../de/db4/a02684.html#a4c1e144641d137d320608174c3ada70ba3dd690c17e20fc2deca9963debbcb36b">SAY_PERSUADED5</a>                    = 6,</div>
+<div class="line"><span class="lineno">   39</span>    <a class="code hl_enumvalue" href="../../de/db4/a02684.html#a4c1e144641d137d320608174c3ada70bac6c794baa7f292cc7e8c8bfc70120928">SAY_PERSUADED6</a>                    = 7,</div>
+<div class="line"><span class="lineno">   40</span>    <a class="code hl_enumvalue" href="../../de/db4/a02684.html#a4c1e144641d137d320608174c3ada70ba77e1040a5f80ad6a54ae0af5ecdec01b">SAY_PERSUADE_RAND</a>                 = 8,</div>
+<div class="line"><span class="lineno">   41</span>    <a class="code hl_enumvalue" href="../../de/db4/a02684.html#a4c1e144641d137d320608174c3ada70ba4b7723fc952c73a8959348ac339fecbf">SPELL_PERSUASIVE_STRIKE</a>           = 52781,</div>
+<div class="line"><span class="lineno">   42</span>    <a class="code hl_enumvalue" href="../../de/db4/a02684.html#a4c1e144641d137d320608174c3ada70ba46c467599f797bb6282c4d94bc07aa73">SPELL_THREAT_PULSE</a>                = 58111,</div>
+<div class="line"><span class="lineno">   43</span>    <a class="code hl_enumvalue" href="../../de/db4/a02684.html#a4c1e144641d137d320608174c3ada70ba263b82da9ff2a85f24592bb6a39f4951">QUEST_HOW_TO_WIN_FRIENDS</a>          = 12720,</div>
+<div class="line"><span class="lineno">   44</span>};</div>
+<div class="ttc" id="aa02684_html_a4c1e144641d137d320608174c3ada70ba0cfa69eb44105ba8b55095f367891967"><div class="ttname"><a href="../../de/db4/a02684.html#a4c1e144641d137d320608174c3ada70ba0cfa69eb44105ba8b55095f367891967">SAY_CRUSADER</a></div><div class="ttdeci">@ SAY_CRUSADER</div><div class="ttdef"><b>Definition:</b> chapter2.cpp:33</div></div>
+<div class="ttc" id="aa02684_html_a4c1e144641d137d320608174c3ada70ba1131d1fd4c5913ab2c56c07a61d576d6"><div class="ttname"><a href="../../de/db4/a02684.html#a4c1e144641d137d320608174c3ada70ba1131d1fd4c5913ab2c56c07a61d576d6">SAY_PERSUADED4</a></div><div class="ttdeci">@ SAY_PERSUADED4</div><div class="ttdef"><b>Definition:</b> chapter2.cpp:37</div></div>
+<div class="ttc" id="aa02684_html_a4c1e144641d137d320608174c3ada70ba263b82da9ff2a85f24592bb6a39f4951"><div class="ttname"><a href="../../de/db4/a02684.html#a4c1e144641d137d320608174c3ada70ba263b82da9ff2a85f24592bb6a39f4951">QUEST_HOW_TO_WIN_FRIENDS</a></div><div class="ttdeci">@ QUEST_HOW_TO_WIN_FRIENDS</div><div class="ttdef"><b>Definition:</b> chapter2.cpp:43</div></div>
+<div class="ttc" id="aa02684_html_a4c1e144641d137d320608174c3ada70ba3dd690c17e20fc2deca9963debbcb36b"><div class="ttname"><a href="../../de/db4/a02684.html#a4c1e144641d137d320608174c3ada70ba3dd690c17e20fc2deca9963debbcb36b">SAY_PERSUADED5</a></div><div class="ttdeci">@ SAY_PERSUADED5</div><div class="ttdef"><b>Definition:</b> chapter2.cpp:38</div></div>
+<div class="ttc" id="aa02684_html_a4c1e144641d137d320608174c3ada70ba46c467599f797bb6282c4d94bc07aa73"><div class="ttname"><a href="../../de/db4/a02684.html#a4c1e144641d137d320608174c3ada70ba46c467599f797bb6282c4d94bc07aa73">SPELL_THREAT_PULSE</a></div><div class="ttdeci">@ SPELL_THREAT_PULSE</div><div class="ttdef"><b>Definition:</b> chapter2.cpp:42</div></div>
+<div class="ttc" id="aa02684_html_a4c1e144641d137d320608174c3ada70ba47c752fff069f3e55065795eef2a9bfe"><div class="ttname"><a href="../../de/db4/a02684.html#a4c1e144641d137d320608174c3ada70ba47c752fff069f3e55065795eef2a9bfe">SAY_AGGRO</a></div><div class="ttdeci">@ SAY_AGGRO</div><div class="ttdef"><b>Definition:</b> chapter2.cpp:32</div></div>
+<div class="ttc" id="aa02684_html_a4c1e144641d137d320608174c3ada70ba4b7723fc952c73a8959348ac339fecbf"><div class="ttname"><a href="../../de/db4/a02684.html#a4c1e144641d137d320608174c3ada70ba4b7723fc952c73a8959348ac339fecbf">SPELL_PERSUASIVE_STRIKE</a></div><div class="ttdeci">@ SPELL_PERSUASIVE_STRIKE</div><div class="ttdef"><b>Definition:</b> chapter2.cpp:41</div></div>
+<div class="ttc" id="aa02684_html_a4c1e144641d137d320608174c3ada70ba6b5f1c188d7d5fadd2ffc4d79e76285b"><div class="ttname"><a href="../../de/db4/a02684.html#a4c1e144641d137d320608174c3ada70ba6b5f1c188d7d5fadd2ffc4d79e76285b">SAY_PERSUADED3</a></div><div class="ttdeci">@ SAY_PERSUADED3</div><div class="ttdef"><b>Definition:</b> chapter2.cpp:36</div></div>
+<div class="ttc" id="aa02684_html_a4c1e144641d137d320608174c3ada70ba767561556d5645f840a29d37fef15d57"><div class="ttname"><a href="../../de/db4/a02684.html#a4c1e144641d137d320608174c3ada70ba767561556d5645f840a29d37fef15d57">SAY_PERSUADED2</a></div><div class="ttdeci">@ SAY_PERSUADED2</div><div class="ttdef"><b>Definition:</b> chapter2.cpp:35</div></div>
+<div class="ttc" id="aa02684_html_a4c1e144641d137d320608174c3ada70ba77e1040a5f80ad6a54ae0af5ecdec01b"><div class="ttname"><a href="../../de/db4/a02684.html#a4c1e144641d137d320608174c3ada70ba77e1040a5f80ad6a54ae0af5ecdec01b">SAY_PERSUADE_RAND</a></div><div class="ttdeci">@ SAY_PERSUADE_RAND</div><div class="ttdef"><b>Definition:</b> chapter2.cpp:40</div></div>
+<div class="ttc" id="aa02684_html_a4c1e144641d137d320608174c3ada70bac6c794baa7f292cc7e8c8bfc70120928"><div class="ttname"><a href="../../de/db4/a02684.html#a4c1e144641d137d320608174c3ada70bac6c794baa7f292cc7e8c8bfc70120928">SAY_PERSUADED6</a></div><div class="ttdeci">@ SAY_PERSUADED6</div><div class="ttdef"><b>Definition:</b> chapter2.cpp:39</div></div>
+<div class="ttc" id="aa02684_html_a4c1e144641d137d320608174c3ada70bac8fbe16451ed71344028995e920a6b36"><div class="ttname"><a href="../../de/db4/a02684.html#a4c1e144641d137d320608174c3ada70bac8fbe16451ed71344028995e920a6b36">SAY_PERSUADED1</a></div><div class="ttdeci">@ SAY_PERSUADED1</div><div class="ttdef"><b>Definition:</b> chapter2.cpp:34</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<h2 class="groupheader">Function Documentation</h2>
+<a id="aae283a7ae2c577c738ccad6a34533fec" name="aae283a7ae2c577c738ccad6a34533fec"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aae283a7ae2c577c738ccad6a34533fec">&#9670;&#160;</a></span>AddSC_the_scarlet_enclave_c2()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void AddSC_the_scarlet_enclave_c2 </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   88</span>{</div>
-<div class="line"><span class="lineno">   89</span>    <a class="code hl_define" href="../../db/d6b/a01853.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d1/d29/a12939.html">spell_q12779_an_end_to_all_things</a>);</div>
-<div class="line"><span class="lineno">   90</span>    <a class="code hl_define" href="../../db/d6b/a01853.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d1/dcb/a12943.html">spell_q12779_an_end_to_all_things_devour_aura</a>);</div>
-<div class="line"><span class="lineno">   91</span>}</div>
-<div class="ttc" id="aa01853_html_ae221e5976ab29ba14fec3b073a03670f"><div class="ttname"><a href="../../db/d6b/a01853.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a></div><div class="ttdeci">#define RegisterSpellScript(spell_script)</div><div class="ttdef"><b>Definition:</b> SpellScriptLoader.h:88</div></div>
-<div class="ttc" id="aa12939_html"><div class="ttname"><a href="../../d1/d29/a12939.html">spell_q12779_an_end_to_all_things</a></div><div class="ttdef"><b>Definition:</b> chapter3.cpp:33</div></div>
-<div class="ttc" id="aa12943_html"><div class="ttname"><a href="../../d1/dcb/a12943.html">spell_q12779_an_end_to_all_things_devour_aura</a></div><div class="ttdef"><b>Definition:</b> chapter3.cpp:64</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  705</span>{</div>
+<div class="line"><span class="lineno">  706</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d8/d9a/a12924.html">npc_crusade_persuaded</a>();</div>
+<div class="line"><span class="lineno">  707</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d2/df5/a12940.html">npc_scarlet_courier</a>();</div>
+<div class="line"><span class="lineno">  708</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d2/d75/a12932.html">npc_koltira_deathweaver</a>();</div>
+<div class="line"><span class="lineno">  709</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d6/d4d/a12948.html">npc_a_special_surprise</a>();</div>
+<div class="line"><span class="lineno">  710</span>}</div>
+<div class="ttc" id="aa12924_html"><div class="ttname"><a href="../../d8/d9a/a12924.html">npc_crusade_persuaded</a></div><div class="ttdef"><b>Definition:</b> chapter2.cpp:47</div></div>
+<div class="ttc" id="aa12932_html"><div class="ttname"><a href="../../d2/d75/a12932.html">npc_koltira_deathweaver</a></div><div class="ttdef"><b>Definition:</b> chapter2.cpp:228</div></div>
+<div class="ttc" id="aa12940_html"><div class="ttname"><a href="../../d2/df5/a12940.html">npc_scarlet_courier</a></div><div class="ttdef"><b>Definition:</b> chapter2.cpp:443</div></div>
+<div class="ttc" id="aa12948_html"><div class="ttname"><a href="../../d6/d4d/a12948.html">npc_a_special_surprise</a></div><div class="ttdef"><b>Definition:</b> chapter2.cpp:542</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00088">RegisterSpellScript</a>.</p>
-
 <p class="reference">Referenced by <a class="el" href="../../#l00168">AddEasternKingdomsScripts()</a>.</p>
 
 </div>
@@ -201,8 +560,8 @@ Functions</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_ddeb450e5fe586f747c0635391d1d1d6.html">EasternKingdoms</a></li><li class="navelem"><a class="el" href="../../dir_eac4a77c7e1bc9a8e4dbb016e4f56c0e.html">ScarletEnclave</a></li><li class="navelem"><a class="el" href="../../de/db4/a02684.html">chapter3.cpp</a></li>
-    <li class="footer">Generated on Mon Jun 23 2025 20:46:55 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_ddeb450e5fe586f747c0635391d1d1d6.html">EasternKingdoms</a></li><li class="navelem"><a class="el" href="../../dir_eac4a77c7e1bc9a8e4dbb016e4f56c0e.html">ScarletEnclave</a></li><li class="navelem"><a class="el" href="../../de/db4/a02684.html">chapter2.cpp</a></li>
+    <li class="footer">Generated on Mon Jun 30 2025 20:46:08 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

@@ -1,7 +1,9 @@
 var a12252 =
 [
-    [ "HandleDummy", "d1/df3/a12252.html#a21c5eb1511cb4035f795ff1d22797e34", null ],
-    [ "PrepareSpellScript", "d1/df3/a12252.html#a5308de47023b89e4ff8680158a502ac0", null ],
-    [ "Register", "d1/df3/a12252.html#a5f148d259b1102b1046e6a3ac096fea8", null ],
-    [ "Validate", "d1/df3/a12252.html#a75f89d90b9e68288e54e1e0bd3b2ce98", null ]
+    [ "FilterTargets", "d1/df3/a12252.html#ae1029dd58a48c099e8bbd071898f1b12", null ],
+    [ "HandleOnHitRogue", "d1/df3/a12252.html#a57cd6d2c45a9a73bb284272db21d1fce", null ],
+    [ "HandleOnHitWarlock", "d1/df3/a12252.html#a76f9e5e11a6f2e25868dba567d798002", null ],
+    [ "PrepareSpellScript", "d1/df3/a12252.html#a4792a25aa6fe6126a94900784798dbee", null ],
+    [ "Register", "d1/df3/a12252.html#a0f6146c64a86e953c042f8404bbfe683", null ],
+    [ "Validate", "d1/df3/a12252.html#af65d372cdbb365eff73edb8cf18734c8", null ]
 ];

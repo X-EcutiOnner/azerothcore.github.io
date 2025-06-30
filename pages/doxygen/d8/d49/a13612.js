@@ -1,8 +1,9 @@
 var a13612 =
 [
-    [ "npc_varian_wrynnAI", "d8/d5b/a13616.html", "d8/d5b/a13616" ],
-    [ "npc_varian_wrynn", "d8/d49/a13612.html#a1dd8e4664da693f3e4ecdd4581b96c87", null ],
-    [ "GetAI", "d8/d49/a13612.html#aa5aa46f24a128e84ac2a837c012b2e02", null ],
-    [ "OnGossipHello", "d8/d49/a13612.html#a95f6ff3f2a7db807b278d019e187ddec", null ],
-    [ "OnGossipSelect", "d8/d49/a13612.html#a65d02bafebe9c5a45d707f8990d680a3", null ]
+    [ "npc_marzon_silent_bladeAI", "d8/d49/a13612.html#a9f29c3b56e26421dabc2c95b8cd0407e", null ],
+    [ "EnterEvadeMode", "d8/d49/a13612.html#a0b42596550d045f5ca0096ceee80c0ac", null ],
+    [ "JustEngagedWith", "d8/d49/a13612.html#a116b3458f342811e378713e6a67f76a6", null ],
+    [ "MovementInform", "d8/d49/a13612.html#a32201d45f0c19212becb6319a48366f8", null ],
+    [ "Reset", "d8/d49/a13612.html#a51c2b16c767ce2922564dc9e4048e089", null ],
+    [ "UpdateAI", "d8/d49/a13612.html#aa6686399b41d32429d530dcc2ec41185", null ]
 ];

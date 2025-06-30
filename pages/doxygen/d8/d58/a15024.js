@@ -1,5 +1,5 @@
 var a15024 =
 [
-    [ "at_cthun_stomach_exit", "d8/d58/a15024.html#ab37174eff353cdbba1f300464645ac63", null ],
-    [ "OnTrigger", "d8/d58/a15024.html#ab56dca3fe200dc7822459a22912247bf", null ]
+    [ "boss_yauj", "d8/d58/a15024.html#a15ab7b6b35d29fb1552b11586163320e", null ],
+    [ "JustEngagedWith", "d8/d58/a15024.html#a94a2fa960e6924bde9ba6934a56ed684", null ]
 ];

@@ -1,6 +1,6 @@
 var a22160 =
 [
-    [ "npc_iron_watcherAI", "df/d03/a22164.html", "df/d03/a22164" ],
-    [ "npc_iron_watcher", "d4/dbe/a22160.html#a174e19241ca6cd1619fbae074d11c8ba", null ],
-    [ "GetAI", "d4/dbe/a22160.html#af3b80b838e192737762ceed599b0be9a", null ]
+    [ "npc_jungle_punch_targetAI", "df/d03/a22164.html", "df/d03/a22164" ],
+    [ "npc_jungle_punch_target", "d4/dbe/a22160.html#a69220634d9d6b84e464cdc4e0cba91a7", null ],
+    [ "GetAI", "d4/dbe/a22160.html#abb38ccb55abfe0f48f360469031c6902", null ]
 ];

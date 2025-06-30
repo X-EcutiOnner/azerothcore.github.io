@@ -1,7 +1,7 @@
 var a01667 =
 [
-    [ "ArenaTeamFilter", "db/db6/a07219.html", "db/db6/a07219" ],
-    [ "ArenaTeamFilterByTypes", "de/dbb/a07223.html", "de/dbb/a07223" ],
-    [ "ArenaTeamFilterAllTeams", "d7/d46/a07227.html", "d7/d46/a07227" ],
-    [ "ArenaTeamFilterFactoryByUserInput", "d7/dbb/a07231.html", "d7/dbb/a07231" ]
+    [ "OutdoorPvPData", "df/dcd/a10104.html", "df/dcd/a10104" ],
+    [ "OutdoorPvPMgr", "d9/da6/a10108.html", "d9/da6/a10108" ],
+    [ "OUTDOORPVP_OBJECTIVE_UPDATE_INTERVAL", "dd/d8d/a01667.html#af3942e94a2b618e59d9a607df883023b", null ],
+    [ "sOutdoorPvPMgr", "dd/d8d/a01667.html#a7f16e829e6dd717c8a6a20fd1aa783cc", null ]
 ];

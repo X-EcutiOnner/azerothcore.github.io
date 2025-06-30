@@ -1,6 +1,6 @@
 var a17308 =
 [
-    [ "FilterTargets", "da/ddd/a17308.html#a59255a2cee0f9d8a75ca183647851779", null ],
-    [ "PrepareSpellScript", "da/ddd/a17308.html#af8d1cc9c709aeb3a68d1f452bb605c71", null ],
-    [ "Register", "da/ddd/a17308.html#a6b6dbeaa8feb8eac4441a87cdf371a36", null ]
+    [ "PrepareSpellScript", "da/ddd/a17308.html#a86609d6cd708de9ead02c6134cbb6f64", null ],
+    [ "Register", "da/ddd/a17308.html#aceb3da4aec68cb44bcbee36f599afd62", null ],
+    [ "SetDest", "da/ddd/a17308.html#a9ed93e44df4e759fda72a63474e01b3b", null ]
 ];

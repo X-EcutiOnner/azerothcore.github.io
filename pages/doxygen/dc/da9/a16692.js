@@ -1,9 +1,7 @@
 var a16692 =
 [
-    [ "HandlePeriodicTick", "dc/da9/a16692.html#a8d3713d113cbcfd610938544e52fe6ec", null ],
-    [ "Load", "dc/da9/a16692.html#a6f2cb6a9dd83a887314cdd9f7741acae", null ],
-    [ "PrepareAuraScript", "dc/da9/a16692.html#a0d00fd1bbc8dfce6cbc3234865bab42b", null ],
-    [ "Register", "dc/da9/a16692.html#a75dbd486e1ccb8c12bbf8001434ae66a", null ],
-    [ "Validate", "dc/da9/a16692.html#aae7b42d8e7fa2dc76d2584534877625c", null ],
-    [ "dir", "dc/da9/a16692.html#a7dd1959596e8ad1628498215249eb7a2", null ]
+    [ "HandleEffectRemove", "dc/da9/a16692.html#aa6a118f956cbdc5ad1ce0109c3a0e8e3", null ],
+    [ "Load", "dc/da9/a16692.html#a71a31b421f192662c14bd6bf3d5eed9f", null ],
+    [ "PrepareAuraScript", "dc/da9/a16692.html#a97411ddf89a10a962ba74d294eb653e7", null ],
+    [ "Register", "dc/da9/a16692.html#a1207c9b2ba2e110c3f6c1309f5329d2a", null ]
 ];

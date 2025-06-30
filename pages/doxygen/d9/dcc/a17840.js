@@ -1,8 +1,11 @@
 var a17840 =
 [
-    [ "HandleScript", "d9/dcc/a17840.html#a9f3cef57312626ae1884c36ad4bfdca6", null ],
-    [ "PrepareSpellScript", "d9/dcc/a17840.html#a2ba03324afacf8da8e5fe6bc725e4d2f", null ],
-    [ "Register", "d9/dcc/a17840.html#a9b0e0427b7f8abbd0e9d556ccc581aeb", null ],
-    [ "SelectTarget", "d9/dcc/a17840.html#a36d575c6a63e94905bf435bc9d39e588", null ],
-    [ "Validate", "d9/dcc/a17840.html#afc4a6277e3a7419b6a4aaa99f6697b91", null ]
+    [ "Load", "d9/dcc/a17840.html#a0dab3a666abd6d8c1486a6e71ce98c20", null ],
+    [ "PrepareSpellScript", "d9/dcc/a17840.html#a8338cc31a3c494c1cb24d015a11fbd64", null ],
+    [ "Register", "d9/dcc/a17840.html#a9adbad7cc2185b22fb16135e78114548", null ],
+    [ "SelectTarget", "d9/dcc/a17840.html#a296ec09cec9661123ea5c86f3f262f32", null ],
+    [ "SetTarget", "d9/dcc/a17840.html#a15373dc2a0767e011faf504f6377e24d", null ],
+    [ "StartAttack", "d9/dcc/a17840.html#a17b20a391d70ae487774d52ed0e5dbd7", null ],
+    [ "Validate", "d9/dcc/a17840.html#a7619f7ec6dc0ce14293414729731ed00", null ],
+    [ "_target", "d9/dcc/a17840.html#abe6d3ad0f06b2370f1a5985878d6af3d", null ]
 ];

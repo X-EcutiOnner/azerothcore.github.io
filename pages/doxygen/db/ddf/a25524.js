@@ -1,6 +1,6 @@
 var a25524 =
 [
-    [ "HandlePeriodicTick", "db/ddf/a25524.html#a1bd15727da421fdbfc3a60136bfa9bc9", null ],
-    [ "PrepareAuraScript", "db/ddf/a25524.html#a1c4f592511c8886d0b9a5e64eb19cda7", null ],
-    [ "Register", "db/ddf/a25524.html#ac019a52a6f62f1251d20efcfadba1e78", null ]
+    [ "PrepareSpellScript", "db/ddf/a25524.html#a72e57e8a4bdb9a4fcd73e3519b6025ea", null ],
+    [ "Register", "db/ddf/a25524.html#aac4d3c8ecde3652c65c05abad5c8eaeb", null ],
+    [ "SelectTarget", "db/ddf/a25524.html#a3153b6c6814922cd7220e19b06f2a602", null ]
 ];

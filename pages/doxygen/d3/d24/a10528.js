@@ -1,7 +1,6 @@
 var a10528 =
 [
-    [ "Flags", "d3/d24/a10528.html#a46bfcae3e4788d6ea4e6ee71b8a16edd", null ],
-    [ "TabFlags", "d3/d24/a10528.html#af9c7b68d1bd48da88f65fa40a01ccc72", null ],
-    [ "TabWithdrawItemLimit", "d3/d24/a10528.html#af16392abbddf27a8b21fd21d998501e6", null ],
-    [ "WithdrawGoldLimit", "d3/d24/a10528.html#a3dc50115a24b686d3a2fa9e28a7042af", null ]
+    [ "GuildCreate", "d3/d24/a10528.html#a4dd11d2c4d009b1e495f792f4842d598", null ],
+    [ "Read", "d3/d24/a10528.html#a7d4573196f53d1f068c43b4e7e466fce", null ],
+    [ "GuildName", "d3/d24/a10528.html#a95a0859dd32b6eaf31ea53311ffaa293", null ]
 ];

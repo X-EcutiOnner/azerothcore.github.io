@@ -1,6 +1,6 @@
 var a21444 =
 [
-    [ "npc_beryl_sorcererAI", "d9/d0e/a21448.html", "d9/d0e/a21448" ],
-    [ "npc_beryl_sorcerer", "dc/dd7/a21444.html#a4f74ee45ee0730fcfd044418771a9ee1", null ],
-    [ "GetAI", "dc/dd7/a21444.html#a963646eed9f121f87efe480312957286", null ]
+    [ "HandleEffectPeriodic", "dc/dd7/a21444.html#affa7fb949d4b1a05813df0da17fef3bb", null ],
+    [ "PrepareAuraScript", "dc/dd7/a21444.html#a79dbb866c06cd1c031cae2f1370146d5", null ],
+    [ "Register", "dc/dd7/a21444.html#a1fb46036f0860440f3a9201e0d86cdc4", null ]
 ];

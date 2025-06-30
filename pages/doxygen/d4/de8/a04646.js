@@ -1,7 +1,6 @@
 var a04646 =
 [
-    [ "Model", "da/d77/a28683.html", "da/d77/a28683" ],
-    [ "Extract", "d4/de8/a04646.html#aaece844099afc9d83362feb37427d5ae", null ],
-    [ "ExtractSet", "d4/de8/a04646.html#afd641f15b5ca6e58b68f26ef17a02912", null ],
-    [ "fixCoordSystem", "d4/de8/a04646.html#a8d0afbab5641bb7d88196fbad79e4cf1", null ]
+    [ "SetupLibrariesForWindows", "d4/de8/a04646.html#ab801d0877d7ea0652bb6f94fb17842e4", null ],
+    [ "DefaultProvider", "d4/de8/a04646.html#ab217c6bb86b0f962ea820f3ffe079708", null ],
+    [ "LegacyProvider", "d4/de8/a04646.html#a81b4206923925a193dca5c3acd946bc2", null ]
 ];

@@ -1,6 +1,7 @@
 var a23244 =
 [
-    [ "HandleScript", "de/d4f/a23244.html#a9451ed26358c77ab4d35781fd8fb4b55", null ],
-    [ "PrepareSpellScript", "de/d4f/a23244.html#ad24e7fa45f35f2cd6071328c60cb2732", null ],
-    [ "Register", "de/d4f/a23244.html#a1bd01e1103d4959a5b3116e178a16a8f", null ]
+    [ "npc_ahune_ice_spear_bunny", "de/d4f/a23244.html#aecc30efddcf4ae9bd93504e1d727ee87", null ],
+    [ "InitializeAI", "de/d4f/a23244.html#a5e7eb38f6bf4a947bd1e09ee198eb45d", null ],
+    [ "UpdateAI", "de/d4f/a23244.html#ac7fd9b174f2ee1b1adf9d20d59c67bc2", null ],
+    [ "_scheduler", "de/d4f/a23244.html#a1a1a8b066a3cab9e15710fa97a8c83e6", null ]
 ];

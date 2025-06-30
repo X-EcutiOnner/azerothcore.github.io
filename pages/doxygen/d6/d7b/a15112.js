@@ -1,6 +1,7 @@
 var a15112 =
 [
-    [ "HandleOnHit", "d6/d7b/a15112.html#a65818c4421ea83869d36a116d1bc6d2c", null ],
-    [ "PrepareSpellScript", "d6/d7b/a15112.html#a9e568a1608715973fc438ff5e4356714", null ],
-    [ "Register", "d6/d7b/a15112.html#a752d697aada626440fdff2bd889f890f", null ]
+    [ "npc_sartura_royal_guard", "d6/d7b/a15112.html#a3ce2aeec4e5f26916ef50bdeea624c9d", null ],
+    [ "JustEngagedWith", "d6/d7b/a15112.html#a0b162e1fcc925f65fedbfe235b59eb0e", null ],
+    [ "Reset", "d6/d7b/a15112.html#a2b604aada12ca7f3e712cdbd1a3f397a", null ],
+    [ "UpdateAI", "d6/d7b/a15112.html#a2ed50f65847133c897facecbaa4711d8", null ]
 ];

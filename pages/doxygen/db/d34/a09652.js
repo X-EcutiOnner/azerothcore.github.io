@@ -1,7 +1,14 @@
 var a09652 =
 [
-    [ "QuestItem", "db/d34/a09652.html#a1d6e1d5de83a397b17115dbeba2a58b3", null ],
-    [ "QuestItem", "db/d34/a09652.html#a51b978ee64ec979ebe097f3b3f4c3cd0", null ],
-    [ "index", "db/d34/a09652.html#a0e48289882a1eabb6c8ff30032193bd2", null ],
-    [ "is_looted", "db/d34/a09652.html#a48f2baabd2d5a07313dc38a27c6f4713", null ]
+    [ "LootItemStorage", "db/d34/a09652.html#aa6ece474f05744f2ce24a9fef42734af", null ],
+    [ "~LootItemStorage", "db/d34/a09652.html#a36faeed6ef556fd13118c4ad34e38548", null ],
+    [ "AddNewStoredLoot", "db/d34/a09652.html#a4c463773b50ae1b312865fbf72dfed18", null ],
+    [ "instance", "db/d34/a09652.html#a58d6dc6afa42364ca1dd6cbdcfb55b2b", null ],
+    [ "LoadStorageFromDB", "db/d34/a09652.html#a377c75f9d06eb246072b29d19baf2b62", null ],
+    [ "LoadStoredLoot", "db/d34/a09652.html#ad9804f564302d6ea4db4b84a6cbb093b", null ],
+    [ "RemoveEntryFromDB", "db/d34/a09652.html#a8ab68725c0525d162d325a2131db4c49", null ],
+    [ "RemoveStoredLoot", "db/d34/a09652.html#a414dee93f9852a64f01f9d9bf8dc8b40", null ],
+    [ "RemoveStoredLootItem", "db/d34/a09652.html#a6fd3f2ac820784ba51413b3781df3bcc", null ],
+    [ "RemoveStoredLootMoney", "db/d34/a09652.html#ab22d267a6701fedf824f801e4b703f70", null ],
+    [ "lootItemStore", "db/d34/a09652.html#a58ae52b9812e5752ba00d00a58eb56b0", null ]
 ];

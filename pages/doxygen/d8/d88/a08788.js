@@ -1,7 +1,9 @@
 var a08788 =
 [
-    [ "EquipementIdPrev", "d8/d88/a08788.html#a719c716f8914a200bfde4f5bb3275f26", null ],
-    [ "EquipmentId", "d8/d88/a08788.html#af7f6e5bbb8327e5abf4e17a8a164cc4d", null ],
-    [ "ModelId", "d8/d88/a08788.html#ade2b2413020be410428b9fee9aa284d6", null ],
-    [ "ModelIdPrev", "d8/d88/a08788.html#a9de7aa11788b22692738b72718193057", null ]
+    [ "TransportBase", "d8/d88/a08788.html#a6dba8e37217dae4e5da8f52780e63f70", null ],
+    [ "~TransportBase", "d8/d88/a08788.html#a81dca3435a1a1666a90acd8e154e3287", null ],
+    [ "CalculatePassengerOffset", "d8/d88/a08788.html#ae8c9eb64027f8e7c781f0af192e3f6c1", null ],
+    [ "CalculatePassengerOffset", "d8/d88/a08788.html#aa4d00f15dc0e6c53b4a175b0ca53021b", null ],
+    [ "CalculatePassengerPosition", "d8/d88/a08788.html#a7cb7586a6935ca4e08aa3e658982abec", null ],
+    [ "CalculatePassengerPosition", "d8/d88/a08788.html#a328fbc464c56eca89138380182a0108c", null ]
 ];

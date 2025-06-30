@@ -1,7 +1,6 @@
 var a18468 =
 [
-    [ "OnApply", "d1/dbc/a18468.html#ac35f5d98980f54470a75a72b3578681f", null ],
-    [ "OnRemove", "d1/dbc/a18468.html#a9844b3d82680bfc9756b141fcf29e1f9", null ],
-    [ "PrepareAuraScript", "d1/dbc/a18468.html#a83c90d16fa151026a1e02927e31922ee", null ],
-    [ "Register", "d1/dbc/a18468.html#a255e44ac6db7fd779d98fc3660ee91c6", null ]
+    [ "npc_blistering_zombieAI", "d6/d7c/a18472.html", "d6/d7c/a18472" ],
+    [ "npc_blistering_zombie", "d1/dbc/a18468.html#aade4afec51e5ee77df8a39cff83e1f44", null ],
+    [ "GetAI", "d1/dbc/a18468.html#a08ef7c13b1755ac665507cd8397a2f93", null ]
 ];

@@ -1,9 +1,8 @@
 var a09320 =
 [
-    [ "AnyFriendlyUnitInObjectRangeCheck", "df/de6/a09320.html#a4ed3a469f35cb7b64ad5f144281b7910", null ],
-    [ "operator()", "df/de6/a09320.html#a6e1026191fd4b1b45696a60f45b1b7b8", null ],
-    [ "i_funit", "df/de6/a09320.html#a9ebd1a1d9716dfda55509396947c1a83", null ],
-    [ "i_obj", "df/de6/a09320.html#adacade7450b0af19540ea705e1bd438b", null ],
-    [ "i_playerOnly", "df/de6/a09320.html#a6b0d852333ee74a20281ce7de5a45b98", null ],
-    [ "i_range", "df/de6/a09320.html#a2af638499152888a698b0fc1570e46ed", null ]
+    [ "FriendlyMissingBuffInRange", "df/de6/a09320.html#a628fe94ce054a868977ef2a981bc5d6c", null ],
+    [ "operator()", "df/de6/a09320.html#a6dce8a1248ebb4f3e57cd12a3d94b7b9", null ],
+    [ "i_obj", "df/de6/a09320.html#aba43edf48b2b0184b52143707c3531f4", null ],
+    [ "i_range", "df/de6/a09320.html#a54ba98f393a8bdf710f6bd65abee526c", null ],
+    [ "i_spell", "df/de6/a09320.html#a7f34521e8789a1e1dabb867ed82ff438", null ]
 ];

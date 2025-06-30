@@ -1,9 +1,6 @@
 var a08772 =
 [
-    [ "GameEventAIHookWorker", "df/ddb/a08772.html#ad72640a18d2d32a9201c965089ee49cf", null ],
-    [ "Visit", "df/ddb/a08772.html#a23d979ee43838e7d58e9123e36474a5a", null ],
-    [ "Visit", "df/ddb/a08772.html#a79106ec550d072d690bbf3496d76cb0a", null ],
-    [ "Visit", "df/ddb/a08772.html#a165476edd8b252bbb90b8b78fae963a6", null ],
-    [ "_activate", "df/ddb/a08772.html#a756665eafa08f3c8c51ccef69bdd619f", null ],
-    [ "_eventId", "df/ddb/a08772.html#ab1ee68bb7134e84780772eba2cfac766", null ]
+    [ "Reset", "df/ddb/a08772.html#acccf504073283011dc32b05a5a87b85a", null ],
+    [ "Guid", "df/ddb/a08772.html#a738a014abc8cb5df525642acc218576b", null ],
+    [ "IsUnselectable", "df/ddb/a08772.html#a037411c58c414d0c5a39915b7acd578d", null ]
 ];

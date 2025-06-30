@@ -1,6 +1,9 @@
 var a12156 =
 [
-    [ "boss_chromaggusAI", "db/ddb/a12160.html", "db/ddb/a12160" ],
-    [ "boss_chromaggus", "da/d1b/a12156.html#a55847fc0d5430d3f22074b53d7caca4b", null ],
-    [ "GetAI", "da/d1b/a12156.html#ace78172cafb122ce5961ed837201c32b", null ]
+    [ "npc_vaelastrasz_the_redAI", "da/d1b/a12156.html#aa800617f887a21d8a61cac099c86faed", null ],
+    [ "IsSummonedBy", "da/d1b/a12156.html#ab0eb414e7c9385e4831c4fbc6ba1de49", null ],
+    [ "UpdateAI", "da/d1b/a12156.html#a4dd74c81dc67291ed04861cf542b0d24", null ],
+    [ "_combatEnabled", "da/d1b/a12156.html#ae82e9f70dbfd6a4a75206d358de4504e", null ],
+    [ "_events2", "da/d1b/a12156.html#aa31a968cb89f2c4bb4fde836fd600ab9", null ],
+    [ "_victorGUID", "da/d1b/a12156.html#a8a4af969b8d340d5492f89499e3e90c2", null ]
 ];

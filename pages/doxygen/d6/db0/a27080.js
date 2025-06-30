@@ -1,7 +1,6 @@
 var a27080 =
 [
-    [ "HandlePeriodic", "d6/db0/a27080.html#a3da4cc5322f2e34244729fe3b3876482", null ],
-    [ "PrepareAuraScript", "d6/db0/a27080.html#aab7f5c5bdfdd2b440f59f16ab321765a", null ],
-    [ "Register", "d6/db0/a27080.html#a53b6067f46912648413fc6d6f107b0d8", null ],
-    [ "Validate", "d6/db0/a27080.html#aa03222717b3c06316b232a6ac0270ec0", null ]
+    [ "npc_spirit_shadeAI", "d2/d17/a27084.html", "d2/d17/a27084" ],
+    [ "npc_spirit_shade", "d6/db0/a27080.html#a891ede5651789274496d6426daf9937d", null ],
+    [ "GetAI", "d6/db0/a27080.html#a166f6a9abf7c0e33374c2f998c0524c3", null ]
 ];

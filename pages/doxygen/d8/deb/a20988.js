@@ -1,12 +1,10 @@
 var a20988 =
 [
-    [ "boss_skarvald_the_constructor", "d8/deb/a20988.html#a32d092ecf17aaafc61cefb4c0efce639", null ],
-    [ "DoAction", "d8/deb/a20988.html#a63c9e981a198f6fefe8d1fa4d8ede20e", null ],
-    [ "JustDied", "d8/deb/a20988.html#a9180dcb3c22944c75e5e424dc1a78339", null ],
-    [ "JustEngagedWith", "d8/deb/a20988.html#a529439d257abf78f76db0043549964e6", null ],
-    [ "KilledUnit", "d8/deb/a20988.html#a9d65e24161dd1f7bac9fe991624c5c80", null ],
-    [ "Reset", "d8/deb/a20988.html#ada2068f8b5d125062ec0b7fde0d05c7f", null ],
-    [ "UpdateAI", "d8/deb/a20988.html#a9c1f74c20a5a9f47f9430450742938a2", null ],
-    [ "events", "d8/deb/a20988.html#a28837280e161f6971564a4725c97a154", null ],
-    [ "pInstance", "d8/deb/a20988.html#ab5b773a9960f611a6383578a607ba258", null ]
+    [ "npc_ulduar_snow_mound", "d8/deb/a20988.html#a3f66ad92d616050bb67cb1a5e33ffa74", null ],
+    [ "MoveInLineOfSight", "d8/deb/a20988.html#ae5a09062d87aa1c0d446310df2ddd621", null ],
+    [ "UpdateAI", "d8/deb/a20988.html#a9d18fdaf83a2cfeea9b3ac6adbbd2687", null ],
+    [ "_activated", "d8/deb/a20988.html#ac48f6985d857276e0e59c2a429f5b359", null ],
+    [ "_count", "d8/deb/a20988.html#a1856c3bba24842f33720a83e1de40421", null ],
+    [ "_counter", "d8/deb/a20988.html#aca94a744c23b7f9771c728997ba4b8f3", null ],
+    [ "_scheduler", "d8/deb/a20988.html#aafe42af9ba1402cad91326eb1037e476", null ]
 ];

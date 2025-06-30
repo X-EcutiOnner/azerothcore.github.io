@@ -1,6 +1,7 @@
 var a18440 =
 [
-    [ "HandleScript", "d2/d50/a18440.html#a930b8a515b5d156c16925dc218cf8172", null ],
-    [ "PrepareSpellScript", "d2/d50/a18440.html#a892b0ba0f6541b3557a0200be5028479", null ],
-    [ "Register", "d2/d50/a18440.html#a1eb85bc675a89ef9679e673c1fea9a08", null ]
+    [ "npc_valithria_portalAI", "d2/d50/a18440.html#a18c1b9d2b149fbc34a17c9e87a8c70b6", null ],
+    [ "GetData", "d2/d50/a18440.html#a598ba7930900aa211bb7e7dc12f366c0", null ],
+    [ "OnSpellClick", "d2/d50/a18440.html#a457f2725e6580d7e6f3bb0445ba796a8", null ],
+    [ "_used", "d2/d50/a18440.html#a92cc0c2aaa6add0c6c641719d6846bb3", null ]
 ];

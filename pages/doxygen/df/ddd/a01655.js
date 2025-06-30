@@ -1,5 +1,5 @@
 var a01655 =
 [
-    [ "WorldPackets::Totem::TotemDestroyed", "d0/da5/a10863.html", "d0/da5/a10863" ],
-    [ "WorldPackets::Totem::TotemCreated", "d3/d64/a10867.html", "d3/d64/a10867" ]
+    [ "GroupMgr", "d2/da7/a09492.html", "d2/da7/a09492" ],
+    [ "sGroupMgr", "df/ddd/a01655.html#a9b001b22670103435cf11551af9fa71e", null ]
 ];

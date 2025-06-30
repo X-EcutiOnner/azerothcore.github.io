@@ -1,7 +1,6 @@
 var a22244 =
 [
-    [ "npc_wg_demolisher_engineer", "d2/d6f/a22244.html#a722ff6bac34730bfb5f36584d7a62ff8", null ],
-    [ "canBuild", "d2/d6f/a22244.html#a5dd51b0d0a05ebfb648faab570e27881", null ],
-    [ "OnGossipHello", "d2/d6f/a22244.html#ac3b0bbfd66bb94f29a6d733999b8c6ba", null ],
-    [ "OnGossipSelect", "d2/d6f/a22244.html#a3ecf69f45918bef0cb51023327ac9693", null ]
+    [ "npc_brunnhildar_prisonerAI", "dd/d40/a22248.html", "dd/d40/a22248" ],
+    [ "npc_brunnhildar_prisoner", "d2/d6f/a22244.html#a4dd1b440366c0a5c4fa7c1dfab7607b5", null ],
+    [ "GetAI", "d2/d6f/a22244.html#aa2a1787849c74a5163a39137c9d03d57", null ]
 ];

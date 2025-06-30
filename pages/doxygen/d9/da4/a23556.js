@@ -1,6 +1,6 @@
 var a23556 =
 [
-    [ "boss_porung", "d9/da4/a23556.html#acef31010461bbf716ac9b13d950807ee", null ],
-    [ "JustDied", "d9/da4/a23556.html#ac5c36f875692f49d1d0195694d85e5c1", null ],
-    [ "JustEngagedWith", "d9/da4/a23556.html#a9d44f51e4710e01bdc7d345ff3bba9dc", null ]
+    [ "HandleHit", "d9/da4/a23556.html#ab948b958955c2413ad6e15dfa09fd3cd", null ],
+    [ "PrepareSpellScript", "d9/da4/a23556.html#a37ff09e6b82d69c85b5bd98e84968569", null ],
+    [ "Register", "d9/da4/a23556.html#acb1b681f587817614c2b3684585369db", null ]
 ];

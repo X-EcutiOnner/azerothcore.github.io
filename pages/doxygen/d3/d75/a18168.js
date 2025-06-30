@@ -1,7 +1,15 @@
 var a18168 =
 [
-    [ "CheckTargetCount", "d3/d75/a18168.html#a67a1cbbf74fe91a32a51d9ad5056f048", null ],
-    [ "PrepareSpellScript", "d3/d75/a18168.html#abd32198867e7f01b21b7de6224a597d4", null ],
-    [ "Register", "d3/d75/a18168.html#a671bede7fbc68085cd6075f412822869", null ],
-    [ "Validate", "d3/d75/a18168.html#a2f64421bb71988f06a7e2cb71a097d75", null ]
+    [ "npc_tirion_fordringAI", "d3/d75/a18168.html#aa0f94cef85e96cda4a2e280eaa7110de", null ],
+    [ "CanAIAttack", "d3/d75/a18168.html#a1bdef323e9c7364fab789abc39ef00a0", null ],
+    [ "DoAction", "d3/d75/a18168.html#a5fd5b3fde84ed04c794546d11fe946d7", null ],
+    [ "EnterEvadeMode", "d3/d75/a18168.html#a1275cee8f49c67920041ad8d50c62aa4", null ],
+    [ "JustReachedHome", "d3/d75/a18168.html#a6e6c7c2f4f8e60126fd4adc42fe3b4f4", null ],
+    [ "MovementInform", "d3/d75/a18168.html#a7284240c4eafbc80748d5e2867a64a9f", null ],
+    [ "Reset", "d3/d75/a18168.html#ac41e569535322bb5907fa4116bbac739", null ],
+    [ "sGossipSelect", "d3/d75/a18168.html#a56599a97f019121160b2f6ac43019772", null ],
+    [ "SpellHit", "d3/d75/a18168.html#ae68b900f87c646cfb3ece5518b59e687", null ],
+    [ "UpdateAI", "d3/d75/a18168.html#a3f729624820266f1cf1e5577c5047c3b", null ],
+    [ "_events", "d3/d75/a18168.html#a7bb0d243cc9b3e836dd99864f2a5e669", null ],
+    [ "_instance", "d3/d75/a18168.html#a223a7f09ae03971487bb55e770503f7e", null ]
 ];

@@ -1,8 +1,6 @@
 var a11972 =
 [
-    [ "CheckProc", "d3/d0a/a11972.html#a08e84f2b2ff25ed7e260e61251f9cdb9", null ],
-    [ "HandleProc", "d3/d0a/a11972.html#afd3d4786f739566056b69390553d9c71", null ],
-    [ "PrepareAuraScript", "d3/d0a/a11972.html#a3ba84d4fd311a91efa685980ffec8d77", null ],
-    [ "Register", "d3/d0a/a11972.html#aa36a2e10a6fd67fa74d08e20dc806744", null ],
-    [ "Validate", "d3/d0a/a11972.html#aeff8b89300bb5d3589a46a4f66cfd77d", null ]
+    [ "instance_blackrock_depths_InstanceMapScript", "d4/dea/a11976.html", "d4/dea/a11976" ],
+    [ "instance_blackrock_depths", "d3/d0a/a11972.html#a8d906bdb520b2c7907b94b0e22b5cdf4", null ],
+    [ "GetInstanceScript", "d3/d0a/a11972.html#af8f8c9929cae50c098efc5a0dbdd727a", null ]
 ];

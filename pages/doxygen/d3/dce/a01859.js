@@ -1,12 +1,11 @@
 var a01859 =
 [
-    [ "TicketScript", "d5/d80/a10351.html", "d5/d80/a10351" ],
-    [ "TicketHook", "d3/dce/a01859.html#af2de2d4afd6c8a1968e6e4b055620b72", [
-      [ "TICKETHOOK_ON_TICKET_CREATE", "d3/dce/a01859.html#af2de2d4afd6c8a1968e6e4b055620b72a048895a23d18ef1c7901256655315a61", null ],
-      [ "TICKETHOOK_ON_TICKET_UPDATE_LAST_CHANGE", "d3/dce/a01859.html#af2de2d4afd6c8a1968e6e4b055620b72a1777cc276841ae965f3636dc48161374", null ],
-      [ "TICKETHOOK_ON_TICKET_CLOSE", "d3/dce/a01859.html#af2de2d4afd6c8a1968e6e4b055620b72ac65b75869b3e3fb1dec5db5eb5701f38", null ],
-      [ "TICKETHOOK_ON_TICKET_STATUS_UPDATE", "d3/dce/a01859.html#af2de2d4afd6c8a1968e6e4b055620b72ad50ae60643438ce57485d63d8492a825", null ],
-      [ "TICKETHOOK_ON_TICKET_RESOLVE", "d3/dce/a01859.html#af2de2d4afd6c8a1968e6e4b055620b72a77a1b9c3448bbffacadaaa5c542086df", null ],
-      [ "TICKETHOOK_END", "d3/dce/a01859.html#af2de2d4afd6c8a1968e6e4b055620b72a12665f6e053ad59e5e6cb0ca56d92222", null ]
-    ] ]
+    [ "SpellScriptLoader", "db/d5f/a10356.html", "db/d5f/a10356" ],
+    [ "GenericSpellAndAuraScriptLoader< Ts >", "dc/d6b/a10360.html", "dc/d6b/a10360" ],
+    [ "RegisterSpellAndAuraScriptPair", "d3/dce/a01859.html#a69b21d1b83cecaba944f4e9379bc866c", null ],
+    [ "RegisterSpellAndAuraScriptPairWithArgs", "d3/dce/a01859.html#aeffc3c8d08a35d5969c33508488e9051", null ],
+    [ "RegisterSpellScript", "d3/dce/a01859.html#ae221e5976ab29ba14fec3b073a03670f", null ],
+    [ "RegisterSpellScriptWithArgs", "d3/dce/a01859.html#aedecf91f4fce46852db865deae243e1f", null ],
+    [ "is_AuraScript", "d3/dce/a01859.html#a08facc7292565931370e1cc514f726e1", null ],
+    [ "is_SpellScript", "d3/dce/a01859.html#a2b573b538dcbf3da43ae603709d93bf2", null ]
 ];

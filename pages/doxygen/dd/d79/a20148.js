@@ -1,10 +1,8 @@
 var a20148 =
 [
-    [ "HandleEffectPeriodic", "dd/d79/a20148.html#aa62be73e00d9cb512806787eaf1c4144", null ],
-    [ "Load", "dd/d79/a20148.html#ab31989a4abd6b5cb08818b0e082c7d9f", null ],
-    [ "PrepareAuraScript", "dd/d79/a20148.html#ad9664bff267b330565d3c706e1752e9d", null ],
-    [ "Register", "dd/d79/a20148.html#ad971837f4f0da07b21271fb2b5ac1715", null ],
-    [ "Validate", "dd/d79/a20148.html#a3f6653b4ca202d9b0971189930e8b463", null ],
-    [ "_counter", "dd/d79/a20148.html#a3e7343f124b66a55d9a6cbf0ab085309", null ],
-    [ "_prev", "dd/d79/a20148.html#a9dd8f32c8ec709a14be15b46745b692b", null ]
+    [ "npc_ulduar_flash_freezeAI", "dd/d79/a20148.html#a478e7bc76a7b7ffeb25a0df731cb5ed8", null ],
+    [ "DamageTaken", "dd/d79/a20148.html#af0c18460b4cc331f51c44a3306f516b8", null ],
+    [ "UpdateAI", "dd/d79/a20148.html#ab2efa0a8d06297bff05502c40079efe9", null ],
+    [ "pInstance", "dd/d79/a20148.html#a28be7874fee6dcaea6f205cb75f1450f", null ],
+    [ "timer", "dd/d79/a20148.html#a590117afe9e9943d8dc8a44af9386066", null ]
 ];

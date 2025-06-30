@@ -1,8 +1,6 @@
 var a15160 =
 [
-    [ "npc_ahnqiraji_critter", "d8/df3/a15160.html#a60e2dc1c52579a410d3435126bf39684", null ],
-    [ "JustDied", "d8/df3/a15160.html#a71d3d5262bde847a18932fea89cb6648", null ],
-    [ "JustEngagedWith", "d8/df3/a15160.html#aca1df706306f9181db26cd77e5b66452", null ],
-    [ "Reset", "d8/df3/a15160.html#a645e16e9da29f6579320394201d0ada7", null ],
-    [ "UpdateAI", "d8/df3/a15160.html#a68c5ded8563c2de9429a13cdb7d38f89", null ]
+    [ "HandleOnHit", "d8/df3/a15160.html#a65818c4421ea83869d36a116d1bc6d2c", null ],
+    [ "PrepareSpellScript", "d8/df3/a15160.html#a9e568a1608715973fc438ff5e4356714", null ],
+    [ "Register", "d8/df3/a15160.html#a752d697aada626440fdff2bd889f890f", null ]
 ];

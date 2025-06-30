@@ -1,6 +1,6 @@
 var a10320 =
 [
-    [ "OutdoorPvPScript", "df/db1/a10320.html#ad7882db48419888c7968007e30c2f3f7", null ],
-    [ "GetOutdoorPvP", "df/db1/a10320.html#aa213974f384c88ab65f7b7308dadb026", null ],
-    [ "IsDatabaseBound", "df/db1/a10320.html#ac22c6a9945738270452848f997d2818f", null ]
+    [ "LootScript", "df/db1/a10320.html#a57fd5dffc97f62a595f0ff4c2856dbd4", null ],
+    [ "IsDatabaseBound", "df/db1/a10320.html#ad60b605eac89be48efd339127e9cb9cd", null ],
+    [ "OnLootMoney", "df/db1/a10320.html#a56a57baead49f6815a9979b181a55375", null ]
 ];

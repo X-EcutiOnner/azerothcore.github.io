@@ -1,6 +1,7 @@
 var a12868 =
 [
-    [ "npc_scarlet_minerAI", "d1/d4f/a12872.html", "d1/d4f/a12872" ],
-    [ "npc_scarlet_miner", "d2/def/a12868.html#a8948afd8a41c23ab3afbda9949d9019d", null ],
-    [ "GetAI", "d2/def/a12868.html#abd2973972788ce9b39572aaa819d0690", null ]
+    [ "npc_scarlet_cannonAI", "d2/def/a12868.html#a26720b34088b8063544f8c5db3b8d67c", null ],
+    [ "PassengerBoarded", "d2/def/a12868.html#a71241dfc9b3ebe1f664d0adf03439c41", null ],
+    [ "UpdateAI", "d2/def/a12868.html#a18ebb585e9b83f3781d3c49de5dc73b5", null ],
+    [ "summonAttackers", "d2/def/a12868.html#a9e8eeb6995dae9a9d9ec3cb0ca6a07f5", null ]
 ];

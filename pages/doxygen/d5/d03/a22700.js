@@ -1,8 +1,9 @@
 var a22700 =
 [
-    [ "Load", "d5/d03/a22700.html#a038301fbb547469574efff88455be663", null ],
-    [ "OnPeriodic", "d5/d03/a22700.html#a8df384cc329cf20ddc5ac0d7bed0345f", null ],
-    [ "PrepareAuraScript", "d5/d03/a22700.html#a386df1300e6a99b02efd13ef4968e99a", null ],
-    [ "Register", "d5/d03/a22700.html#a1b7b9bff5b3d906fa491846a4d5c6743", null ],
-    [ "Validate", "d5/d03/a22700.html#ad64a3fc1a66b9e8914099e501992f2aa", null ]
+    [ "npc_flame_of_azzinoth", "d5/d03/a22700.html#acdeb046c2214bd449257ba1b932c8a5c", null ],
+    [ "IsSummonedBy", "d5/d03/a22700.html#a5254057af0371a08ea01fe91502c2a20", null ],
+    [ "JustEngagedWith", "d5/d03/a22700.html#a24eba1a6cdea4971573a6f4b2dd34fb3", null ],
+    [ "JustSummoned", "d5/d03/a22700.html#ad2e7085fcd985a08cc2e317485a8fff1", null ],
+    [ "UpdateAI", "d5/d03/a22700.html#a7a1c9b967e6a79721dea8cbca44cbb5b", null ],
+    [ "_bladeGUID", "d5/d03/a22700.html#ae797d929b0e9c8953a4c9efd392a21f3", null ]
 ];

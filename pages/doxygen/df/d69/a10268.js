@@ -1,5 +1,4 @@
 var a10268 =
 [
-    [ "GenericGameObjectScript", "df/d69/a10268.html#a7d1d46c8d325619637aef9b9dc5419f7", null ],
-    [ "GetAI", "df/d69/a10268.html#a7e3ba0f4a88489de522ae714d628c9ab", null ]
+    [ "DynamicObjectScript", "df/d69/a10268.html#a8bbdc4e8f2da8ab49b817ca5d7f89f6f", null ]
 ];

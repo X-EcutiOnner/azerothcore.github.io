@@ -1,6 +1,6 @@
 var a14040 =
 [
-    [ "instance_zulgurub_InstanceMapScript", "d9/d96/a14044.html", "d9/d96/a14044" ],
-    [ "instance_zulgurub", "d4/d75/a14040.html#aedc8c70e880ed9ccaf58b7154f9ba341", null ],
-    [ "GetInstanceScript", "d4/d75/a14040.html#a51f17d1135c7e97ff082d0d95ec3ffa4", null ]
+    [ "HandleObjectAreaTargetSelect", "d4/d75/a14040.html#aa7695bddd766d5adefb04710d41894f6", null ],
+    [ "PrepareSpellScript", "d4/d75/a14040.html#a77ba184428cfbb8ec3cc4670f78741e0", null ],
+    [ "Register", "d4/d75/a14040.html#adbc2f1c4ec64b95ec72c82f36f12d928", null ]
 ];

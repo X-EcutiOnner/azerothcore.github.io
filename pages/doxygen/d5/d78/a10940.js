@@ -1,6 +1,5 @@
 var a10940 =
 [
-    [ "AccountData", "d5/d78/a10940.html#a593303fb86ec3ac592ee933b8d057fe8", null ],
-    [ "Data", "d5/d78/a10940.html#aa45f3f93f643b4dd9ea4d269e3b5462d", null ],
-    [ "Time", "d5/d78/a10940.html#a38b2049e50845641cc380b6786e68ac5", null ]
+    [ "SocketIPBytes", "d5/d78/a10940.html#aa10551a3c7371bafa9b27919e37b16ff", null ],
+    [ "SocketPort", "d5/d78/a10940.html#a6e6fb49cad093530f6ba650ca2ff57af", null ]
 ];

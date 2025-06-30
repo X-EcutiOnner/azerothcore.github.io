@@ -1,11 +1,8 @@
 var a10964 =
 [
-    [ "Player", "d8/d7d/a10964.html#a7f4241aa9ecc051c75f779af132a52ed", null ],
-    [ "WorldSession", "d8/d7d/a10964.html#a65b5c30bf4f5f118a199e378d903aaf6", null ],
-    [ "Face", "d8/d7d/a10964.html#a6334464eea38be514f3faa7538b39a5a", null ],
-    [ "FacialHair", "d8/d7d/a10964.html#a44643270b211d275eb94283842791407", null ],
-    [ "Gender", "d8/d7d/a10964.html#a14321ea3595debe2836eceab8a82f944", null ],
-    [ "HairColor", "d8/d7d/a10964.html#aeaa7ce4ecea7f42def63049424a2dd6b", null ],
-    [ "HairStyle", "d8/d7d/a10964.html#ade5b2dff213547ab4d707070f8979085", null ],
-    [ "Skin", "d8/d7d/a10964.html#a2876110e687e7248e8c64fcb3a3a80db", null ]
+    [ "PacketFilter", "d8/d7d/a10964.html#accfa43359c62d2e9d6c38086c77374bd", null ],
+    [ "~PacketFilter", "d8/d7d/a10964.html#a669531cfd9c06d5cf525986069117687", null ],
+    [ "Process", "d8/d7d/a10964.html#a03679e3c241a535757608c63ca933ac9", null ],
+    [ "ProcessUnsafe", "d8/d7d/a10964.html#a3e2bdc6d15cfd5cac1b9c130937599e3", null ],
+    [ "m_pSession", "d8/d7d/a10964.html#ad3723289ea93f1095cf82584268335d9", null ]
 ];

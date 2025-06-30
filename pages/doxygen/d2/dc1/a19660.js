@@ -1,5 +1,6 @@
 var a19660 =
 [
-    [ "achievement_algalon_herald_of_the_titans", "d2/dc1/a19660.html#a13c75b878f4669d212eeb09b55336384", null ],
-    [ "OnCheck", "d2/dc1/a19660.html#a20811d7bb453b1758967c11545e630e9", null ]
+    [ "npc_algalon_worm_holeAI", "dc/de0/a19664.html", "dc/de0/a19664" ],
+    [ "npc_algalon_worm_hole", "d2/dc1/a19660.html#a72516a4824fa61a331caff46d2784c64", null ],
+    [ "GetAI", "d2/dc1/a19660.html#aac6ff3a41f08f5a11baa78c0526a3556", null ]
 ];

@@ -1,6 +1,6 @@
 var a17284 =
 [
-    [ "FilterTargets", "df/dda/a17284.html#aede4900c9b71bf60ca61e03dd0b63aa8", null ],
-    [ "PrepareSpellScript", "df/dda/a17284.html#a2ddc1dc9c04297a80f6708e546fe5a58", null ],
-    [ "Register", "df/dda/a17284.html#add40d7731b07b30b595f76f7d4e983f4", null ]
+    [ "ModAuraStack", "df/dda/a17284.html#a7535ef148e047e32a5f7a1944585e396", null ],
+    [ "PrepareSpellScript", "df/dda/a17284.html#ad5305dd5a32a18802a9fce5daccf3051", null ],
+    [ "Register", "df/dda/a17284.html#ab44b362197e74b98b3ffeb98eff52742", null ]
 ];

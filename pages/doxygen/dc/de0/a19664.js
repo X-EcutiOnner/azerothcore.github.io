@@ -1,6 +1,8 @@
 var a19664 =
 [
-    [ "boss_steelbreakerAI", "d0/d89/a19668.html", "d0/d89/a19668" ],
-    [ "boss_steelbreaker", "dc/de0/a19664.html#af6e4c3729874e59959b35ca67a46aa44", null ],
-    [ "GetAI", "dc/de0/a19664.html#ac4189ffbba997719fb36a10ecdabd26c", null ]
+    [ "npc_algalon_worm_holeAI", "dc/de0/a19664.html#a07b36b40972bebea6b17890aa8fee50c", null ],
+    [ "JustSummoned", "dc/de0/a19664.html#a148de5da4502813e369ec6c52b1671a0", null ],
+    [ "Reset", "dc/de0/a19664.html#a915a8e5e23062cb10da9a3dbe387cf51", null ],
+    [ "UpdateAI", "dc/de0/a19664.html#a9df88d81aa4f4dd7e1dcdf6209832c32", null ],
+    [ "_summonTimer", "dc/de0/a19664.html#a73a55560e5ff7957d883f732bc0d2a82", null ]
 ];

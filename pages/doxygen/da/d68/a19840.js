@@ -1,7 +1,6 @@
 var a19840 =
 [
-    [ "npc_storm_beacon_spawnAI", "da/d68/a19840.html#a031c1941f177a18af58efcf4a1270654", null ],
-    [ "UpdateAI", "da/d68/a19840.html#a249bf56b905ef0c8b34c737d95518c91", null ],
-    [ "_amount", "da/d68/a19840.html#a3d2286247853cb04b9cc23cd8c0bfdd6", null ],
-    [ "_checkTimer", "da/d68/a19840.html#a7fd6d449b6a20ba9463896244c513a67", null ]
+    [ "npc_freya_wardAI", "dc/dfd/a19844.html", "dc/dfd/a19844" ],
+    [ "npc_freya_ward", "da/d68/a19840.html#aebaadcc001922c78e8ec43084a827ac9", null ],
+    [ "GetAI", "da/d68/a19840.html#a90c0e7a0be1717bf1793415b6fcafbed", null ]
 ];

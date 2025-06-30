@@ -1,6 +1,6 @@
 var a11276 =
 [
-    [ "EffectCalcAmountHandler", "d8/d40/a11276.html#a4fe66bbf0433e80b602683a278e3a709", null ],
-    [ "Call", "d8/d40/a11276.html#a4b5af2593dcb80930c6a45b7035767ca", null ],
-    [ "pEffectHandlerScript", "d8/d40/a11276.html#aa52c8c780dcc157e16d11f8222706f7a", null ]
+    [ "CheckAreaTargetHandler", "d8/d40/a11276.html#a641b633e37079949c8b1b71a32f4222e", null ],
+    [ "Call", "d8/d40/a11276.html#ab434cb7ba8927c16e2b63c2ad8ae9a25", null ],
+    [ "pHandlerScript", "d8/d40/a11276.html#a7c1e677d10a89ea7f1ea06f8de10e0f9", null ]
 ];

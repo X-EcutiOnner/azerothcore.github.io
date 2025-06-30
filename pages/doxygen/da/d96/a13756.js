@@ -1,7 +1,6 @@
 var a13756 =
 [
-    [ "npc_zuljin_vortex", "da/d96/a13756.html#af3af996adc0a0dba4af992234f8356fb", null ],
-    [ "ChangeToNewPlayer", "da/d96/a13756.html#ab353794ef978151999fdd2294783e757", null ],
-    [ "Reset", "da/d96/a13756.html#a1331e714c5cafdc32033e73b6f3169aa", null ],
-    [ "UpdateAI", "da/d96/a13756.html#a1ae6a08fe247e7bc812ed4f5ffebc519", null ]
+    [ "cooldown", "da/d96/a13756.html#aaf4772a0ac55280355e61d8c50198b3f", null ],
+    [ "spell", "da/d96/a13756.html#a00ee3238030686e1cc66562f7cefb27a", null ],
+    [ "target", "da/d96/a13756.html#a16e54dbd059baac1b6e7229621339d83", null ]
 ];

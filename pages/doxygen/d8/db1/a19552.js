@@ -1,8 +1,5 @@
 var a19552 =
 [
-    [ "iron_golem_custodianAI", "d8/db1/a19552.html#aeeeed1383f5d221eb7b5cd5d3a6ea4fb", null ],
-    [ "JustEngagedWith", "d8/db1/a19552.html#acd67b8d4df95eb8b0d0365184e47a29c", null ],
-    [ "Reset", "d8/db1/a19552.html#af3193696d665746eecd9c62128d8684d", null ],
-    [ "UpdateAI", "d8/db1/a19552.html#ab1d3910b07a6c5c53f5388a10dc48775", null ],
-    [ "events", "d8/db1/a19552.html#a9e0bcc9ae6918f9fa40cbf8085d4ec42", null ]
+    [ "boss_sjonnir_dwarfAI", "d8/db1/a19552.html#aee7608282bef500a7eb3e0d3130fa01c", null ],
+    [ "UpdateAI", "d8/db1/a19552.html#afef50cec19e4cb2018c7c8a9e36ef41c", null ]
 ];

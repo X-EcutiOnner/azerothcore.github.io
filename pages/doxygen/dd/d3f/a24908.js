@@ -1,8 +1,8 @@
 var a24908 =
 [
-    [ "CheckIfCorpseNear", "dd/d3f/a24908.html#afdf1bca2e23057d99962fb1000e9245e", null ],
-    [ "HandleDummy", "dd/d3f/a24908.html#a9e1bf4884a32e515d8e6b3edf7f5d462", null ],
-    [ "PrepareSpellScript", "dd/d3f/a24908.html#af4a1aa22ed9ccf4df29d05d3f7fb0214", null ],
-    [ "Register", "dd/d3f/a24908.html#a22f4c5321769384b2b708f19edea1a66", null ],
-    [ "Validate", "dd/d3f/a24908.html#a855fdba79c4fa087253505ed419b9966", null ]
+    [ "HandleEffectCalcPeriodic", "dd/d3f/a24908.html#a78c46695cab8da2280686ea49d88f036", null ],
+    [ "HandleEffectPeriodic", "dd/d3f/a24908.html#a65b8a9dcd836cb538d5d2bec3d03d4a2", null ],
+    [ "HandleOnEffectRemove", "dd/d3f/a24908.html#af722cf30e478802784178a9346bd1bdd", null ],
+    [ "PrepareAuraScript", "dd/d3f/a24908.html#a6352d1ab3dd67efd9be171f7db20a62d", null ],
+    [ "Register", "dd/d3f/a24908.html#ae6c2b365463345c71ed1a4acdee04a15", null ]
 ];

@@ -1,8 +1,8 @@
 var a21400 =
 [
-    [ "HandleEffectRemove", "dd/d7c/a21400.html#aa2b05befb775244423264f6b5e2387c1", null ],
-    [ "Load", "dd/d7c/a21400.html#a02ea4c29f2c7e15a5039b93d7a0d3c5e", null ],
-    [ "PrepareAuraScript", "dd/d7c/a21400.html#a632e81cc39bdcd0f5adcc684231d1171", null ],
-    [ "Register", "dd/d7c/a21400.html#aba5483b1d35c1b58841fad2b1086f07c", null ],
-    [ "Validate", "dd/d7c/a21400.html#ada90e1f06ced8f4e353fe2bda3d31637", null ]
+    [ "npc_azure_raiderAI", "dd/d7c/a21400.html#a6928428a9dc1ed483a682c8f2a281ebf", null ],
+    [ "Reset", "dd/d7c/a21400.html#a80d9e586e5c03d19b6b9f0e0f7607b20", null ],
+    [ "UpdateAI", "dd/d7c/a21400.html#a2e9833d0d25fd8c442f7ab279de6a40a", null ],
+    [ "uiConcussionBlowTimer", "dd/d7c/a21400.html#a4e7dfb8d4991bf7ad3d0eeb72dff770b", null ],
+    [ "uiMagicReflectionTimer", "dd/d7c/a21400.html#acb262ab506ea58201abfe2057525c548", null ]
 ];

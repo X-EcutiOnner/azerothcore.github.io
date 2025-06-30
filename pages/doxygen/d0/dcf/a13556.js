@@ -1,13 +1,10 @@
 var a13556 =
 [
-    [ "npc_ravenclaw_apparitionAI", "d0/dcf/a13556.html#a2a8a6cdb3d74e55cc3d6786ebcfb5328", null ],
-    [ "EmoteCrowd", "d0/dcf/a13556.html#a7a407c9b00bb24c4c3d057ec2a4b0fdc", null ],
-    [ "JustDied", "d0/dcf/a13556.html#a88f9d4e72273f8f835e809b27d5b52d8", null ],
-    [ "JustSummoned", "d0/dcf/a13556.html#a1ab2f2a6b0514d192a7962cf8315ee16", null ],
-    [ "SummonCrowd", "d0/dcf/a13556.html#af3f6ea6094b82e06ce7ef2d4432bd88a", null ],
-    [ "UpdateAI", "d0/dcf/a13556.html#ab3c6c27a31f12443efcad314cbfa1129", null ],
-    [ "events", "d0/dcf/a13556.html#a27522107b5e1f54909294f800f26663f", null ],
-    [ "HasEnded", "d0/dcf/a13556.html#a1b7a57b7204f51304ef05ee3d2265774", null ],
-    [ "summons", "d0/dcf/a13556.html#a85cde0a9d4903c89b29f68318730ab7f", null ],
-    [ "TalkRNG", "d0/dcf/a13556.html#a4b41f348e6756298d6a13b09fbf13fd0", null ]
+    [ "npc_grand_magister_rommathAI", "d0/dcf/a13556.html#a5e9404dd8bf4b513e05daac53c076314", null ],
+    [ "DoAction", "d0/dcf/a13556.html#a138bc8cd6f1312d83fefdf5499a479b7", null ],
+    [ "MoveInLineOfSight", "d0/dcf/a13556.html#ad35b64b37915484b133bcd185a832011", null ],
+    [ "UpdateAI", "d0/dcf/a13556.html#ac687bd20f0ae66b21ce52c21561af417", null ],
+    [ "announced", "d0/dcf/a13556.html#a4c9107ef5d4a85d7487ff4cf7bf6464a", null ],
+    [ "events", "d0/dcf/a13556.html#a4c1b6616bc88a9ad5074670843315bc6", null ],
+    [ "playerGUID", "d0/dcf/a13556.html#ad0ac0647feb998e837a44b0a688694e9", null ]
 ];

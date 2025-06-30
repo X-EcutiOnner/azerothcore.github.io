@@ -1,5 +1,5 @@
 var a03920 =
 [
-    [ "send_commandscript", "d7/d18/a11707.html", "d7/d18/a11707" ],
-    [ "AddSC_send_commandscript", "d7/d01/a03920.html#a9f3fee551f6ca7aa7dad83edb2dfe480", null ]
+    [ "instance_commandscript", "da/d07/a11640.html", "da/d07/a11640" ],
+    [ "AddSC_instance_commandscript", "d7/d01/a03920.html#a3d7dc88b6e95322f2f3dc69ad367fa0c", null ]
 ];

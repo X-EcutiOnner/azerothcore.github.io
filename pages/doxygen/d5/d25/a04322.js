@@ -1,5 +1,5 @@
 var a04322 =
 [
-    [ "Acore::IteratorPair< iterator >", "db/d24/a05459.html", "db/d24/a05459" ],
-    [ "MapEqualRange", "d5/d25/a04322.html#a8700eb31c04be5cf6c6ecc86e76cadad", null ]
+    [ "getOutOfWater", "d5/d25/a04322.html#a92646d631d9334b64b0b487ebf87d769", null ],
+    [ "getWeight", "d5/d25/a04322.html#a44526122378fe7ee8622f1ffc822dc20", null ]
 ];

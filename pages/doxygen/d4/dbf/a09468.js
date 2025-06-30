@@ -1,8 +1,7 @@
 var a09468 =
 [
-    [ "flags", "d4/dbf/a09468.html#a7ecce103d428ed7f91aa12fa5547561c", null ],
-    [ "group", "d4/dbf/a09468.html#a0902606d44c8baa1a20b5b2cdd9b4787", null ],
-    [ "guid", "d4/dbf/a09468.html#a97a20b4ccf1978165a5f5c7ff4ffb2b4", null ],
-    [ "name", "d4/dbf/a09468.html#ab0719bb9805048b58a3e4c75e09d1ee7", null ],
-    [ "roles", "d4/dbf/a09468.html#a2109aae0b3ebf74b065b97cc929c2954", null ]
+    [ "RaidCheck", "d4/dbf/a09468.html#ad8c3717b9a645c7806c8c027a8d90ef5", null ],
+    [ "operator()", "d4/dbf/a09468.html#a0c076b737e8e1eacb9aab0981ff66f51", null ],
+    [ "_compare", "d4/dbf/a09468.html#a5fffdd5901fb03c5e9a9adfb58e3d759", null ],
+    [ "_equals", "d4/dbf/a09468.html#a7d253c94403bd50012722a9a9b113c3a", null ]
 ];

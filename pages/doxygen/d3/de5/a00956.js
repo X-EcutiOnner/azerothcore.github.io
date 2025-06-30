@@ -1,21 +1,14 @@
 var a00956 =
 [
-    [ "Totem", "d7/d39/a08619.html", "d7/d39/a08619" ],
-    [ "EARTHBIND_TOTEM_ENTRY", "d3/de5/a00956.html#a6cae59b1369b7371cefb92be8fc73fa5", null ],
-    [ "SENTRY_TOTEM_ENTRY", "d3/de5/a00956.html#a2bd46e1df17fdee45cd35896306092fb", null ],
-    [ "TotemImmunitySpells", "d3/de5/a00956.html#a526213bf692d4f8d189a61617f4a59c9", [
-      [ "SPELL_CYCLONE", "d3/de5/a00956.html#a526213bf692d4f8d189a61617f4a59c9ab0dea4de61535b7690ae66cfa6440f58", null ],
-      [ "SPELL_STONECLAW", "d3/de5/a00956.html#a526213bf692d4f8d189a61617f4a59c9ad0896fc7fa22551f57cc65fd56ee8649", null ],
-      [ "SPELL_BIND_SIGHT", "d3/de5/a00956.html#a526213bf692d4f8d189a61617f4a59c9a1f48e779f72284c7b1140c6be1a5a81a", null ],
-      [ "SPELL_INTERVENE", "d3/de5/a00956.html#a526213bf692d4f8d189a61617f4a59c9ac663f276cbe6aa86a2ae46813fc14b8c", null ]
-    ] ],
-    [ "TotemSpellIds", "d3/de5/a00956.html#a7092ec93c941969cd2cdd2291c6de0be", [
-      [ "SentryTotemSpell", "d3/de5/a00956.html#a7092ec93c941969cd2cdd2291c6de0bea2ff316c1216f8b3e5f60a3700214c8c3", null ],
-      [ "FireTotemSpell", "d3/de5/a00956.html#a7092ec93c941969cd2cdd2291c6de0bea52ad0e17d0d0699c294f9434023aeea7", null ]
-    ] ],
-    [ "TotemType", "d3/de5/a00956.html#a65151889ab4b03cf02268cc7a7ff0ba3", [
-      [ "TOTEM_PASSIVE", "d3/de5/a00956.html#a65151889ab4b03cf02268cc7a7ff0ba3a63f155f3367aa262aae567b57c623069", null ],
-      [ "TOTEM_ACTIVE", "d3/de5/a00956.html#a65151889ab4b03cf02268cc7a7ff0ba3a3c3ecb49d653993abf86f289019e27b0", null ],
-      [ "TOTEM_STATUE", "d3/de5/a00956.html#a65151889ab4b03cf02268cc7a7ff0ba3ab0fbf32f7d371a34f276dfdf6552e300", null ]
-    ] ]
+    [ "BeforeVisibilityDestroy", "d3/de5/a00956.html#a8172910e1dfdc7b56ca3931dd2fab1fb", null ],
+    [ "BeforeVisibilityDestroy< Creature >", "d3/de5/a00956.html#a62188ab6a72d08b62bf37442dbbfdaa6", null ],
+    [ "getProbabilityOfLevelUp", "d3/de5/a00956.html#aa890f698ac89e4049e1107c05d065495", null ],
+    [ "SkillGainChance", "d3/de5/a00956.html#a66adde9ba6a85d585f6e6e8355499aa6", null ],
+    [ "UpdateVisibilityOf_helper", "d3/de5/a00956.html#a5f5d6b73fc1fb15a0cde612641ba3433", null ],
+    [ "UpdateVisibilityOf_helper", "d3/de5/a00956.html#aa522147fa6130f7d54551f137424bd15", null ],
+    [ "UpdateVisibilityOf_helper", "d3/de5/a00956.html#ac411c559a97e183268339b1ea63a84b6", null ],
+    [ "UpdateVisibilityOf_helper", "d3/de5/a00956.html#a2fc4d5c4ae2f8ec6eecccbb6b6bf4e77", null ],
+    [ "bonusSkillLevels", "d3/de5/a00956.html#a72b3624ee55553e28f82ef06d7c74c6a", null ],
+    [ "bonusSkillLevelsSize", "d3/de5/a00956.html#ad103e97f7db0cfd188ab64f5748c7464", null ],
+    [ "ZONE_UPDATE_INTERVAL", "d3/de5/a00956.html#afabbcd46bf6f03c5dca10b117810b710", null ]
 ];

@@ -1,6 +1,7 @@
 var a20948 =
 [
-    [ "npc_ulduar_arachnopod_destroyerAI", "d9/d71/a20952.html", "d9/d71/a20952" ],
-    [ "npc_ulduar_arachnopod_destroyer", "d0/dd6/a20948.html#aec69c3c143ec27734dd3f2d8db0da9fd", null ],
-    [ "GetAI", "d0/dd6/a20948.html#ad667e7bacc181e79cb002181c71aac7c", null ]
+    [ "HandleProc", "d0/dd6/a20948.html#a1b8782a4f22522cfe224073515abdf45", null ],
+    [ "PrepareAuraScript", "d0/dd6/a20948.html#ab4a8a98564d561082243c0f7a2dda1bf", null ],
+    [ "Register", "d0/dd6/a20948.html#a8e9b7613131ef7ea05b853df337faa4e", null ],
+    [ "Validate", "d0/dd6/a20948.html#ab3a99392d06ba0bea8e3f4b345acb23d", null ]
 ];

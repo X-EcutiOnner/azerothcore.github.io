@@ -1,6 +1,6 @@
 var a16372 =
 [
-    [ "npc_toc_rogueAI", "df/dae/a16376.html", "df/dae/a16376" ],
-    [ "npc_toc_rogue", "d8/d80/a16372.html#a925840be9698e381358235a827c20b8a", null ],
-    [ "GetAI", "d8/d80/a16372.html#a6f0246b284ffd800e3870d70e9c52aac", null ]
+    [ "npc_toc_warlockAI", "df/dae/a16376.html", "df/dae/a16376" ],
+    [ "npc_toc_warlock", "d8/d80/a16372.html#a75ac1d6f6835860fed8a9197fa1cf3c2", null ],
+    [ "GetAI", "d8/d80/a16372.html#ad3162c9414be83d53d9513c7aa6b75d7", null ]
 ];

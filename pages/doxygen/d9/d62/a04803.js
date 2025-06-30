@@ -1,14 +1,13 @@
 var a04803 =
 [
-    [ "LinkTags", "d5/dc9/a04804.html", "d5/dc9/a04804" ],
-    [ "AchievementLinkData", "d2/d6b/a07719.html", "d2/d6b/a07719" ],
-    [ "GlyphLinkData", "d6/da1/a07723.html", "d6/da1/a07723" ],
-    [ "HyperlinkColor", "db/dba/a07779.html", "db/dba/a07779" ],
-    [ "HyperlinkInfo", "da/dff/a07783.html", "da/dff/a07783" ],
-    [ "ItemLinkData", "d8/d20/a07727.html", "d8/d20/a07727" ],
-    [ "QuestLinkData", "d3/d50/a07731.html", "d3/d50/a07731" ],
-    [ "TalentLinkData", "db/dfa/a07735.html", "db/dfa/a07735" ],
-    [ "TradeskillLinkData", "d2/dc4/a07739.html", "d2/dc4/a07739" ],
-    [ "CheckAllLinks", "d9/d62/a04803.html#a02761d9aa335689ff1b8dc1155b2a3c6", null ],
-    [ "ParseSingleHyperlink", "d9/d62/a04803.html#a2c5596879f4531eeedbe15d1e4987918", null ]
+    [ "anonymous_namespace{AddonMgr.cpp}", "d5/dc9/a04804.html", [
+      [ "SavedAddonsList", "d5/dc9/a04804.html#afa468163a23ed58507a89e5724c06eac", null ],
+      [ "m_bannedAddons", "d5/dc9/a04804.html#a83195dfb437a3f713fa0ccd6c24477ed", null ],
+      [ "m_knownAddons", "d5/dc9/a04804.html#a6cd3e278f71724491a7a3b8167eab60e", null ]
+    ] ],
+    [ "BannedAddonList", "d9/d62/a04803.html#a2ea3deb6be3c64b7b58ed27ccf60c779", null ],
+    [ "GetAddonInfo", "d9/d62/a04803.html#a65cb6a88902972060e44c57d7d9ec738", null ],
+    [ "GetBannedAddons", "d9/d62/a04803.html#ad7d0938e7463238a86e8c811e1a58800", null ],
+    [ "LoadFromDB", "d9/d62/a04803.html#aaa12f5b754e6b664dbfb2428478bee03", null ],
+    [ "SaveAddon", "d9/d62/a04803.html#a85021021149b7eb4d78cbe81e43d3d45", null ]
 ];

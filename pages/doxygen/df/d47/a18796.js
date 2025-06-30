@@ -1,7 +1,6 @@
 var a18796 =
 [
-    [ "DelayedCastMincharEvent", "df/d47/a18796.html#a76d8a08ca273eec5b2e083d136336a15", null ],
-    [ "Execute", "df/d47/a18796.html#a12aeff246d07e541ed192974320842cb", null ],
-    [ "_spellId", "df/d47/a18796.html#af4ea90407b2c8a283f137d213ffe97be", null ],
-    [ "_trigger", "df/d47/a18796.html#a9f3cd02e77ad35b98a6753b792383548", null ]
+    [ "npc_icc_gauntlet_controllerAI", "d6/d76/a18800.html", "d6/d76/a18800" ],
+    [ "npc_icc_gauntlet_controller", "df/d47/a18796.html#a5fc4c941842e25bc3da93686e588627b", null ],
+    [ "GetAI", "df/d47/a18796.html#a4ed1a69fb537e7ce547a3a57253990c4", null ]
 ];

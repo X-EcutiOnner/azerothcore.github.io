@@ -1,12 +1,10 @@
 var a16760 =
 [
-    [ "npc_ghostly_priestAI", "d9/dc4/a16760.html#abb6815d1395b68654eeb6ab8b4217388", null ],
-    [ "AttackStart", "d9/dc4/a16760.html#a9719d1ad6e58b727bc1720cb815be3e9", null ],
-    [ "DoAction", "d9/dc4/a16760.html#a89c991a1d4c07f1229436871f503c949", null ],
-    [ "EnterEvadeMode", "d9/dc4/a16760.html#ab8fd2df32ef12f5f648b8af9abcc3201", null ],
-    [ "JustDied", "d9/dc4/a16760.html#a004e8aec05741b9ee36b0695840e6c2a", null ],
-    [ "JustEngagedWith", "d9/dc4/a16760.html#a780d530e224ca1f72e26db17cd57f44a", null ],
-    [ "Reset", "d9/dc4/a16760.html#ab8f7559110be76633153842e0714554a", null ],
-    [ "UpdateAI", "d9/dc4/a16760.html#ab431f451963d0b608f11129934496700", null ],
-    [ "events", "d9/dc4/a16760.html#a9b49c143b5a29b4f9b4ce34ce0aecca7", null ]
+    [ "HandleAfterEffectAbsorb", "d9/dc4/a16760.html#a4af67c41afd7843a5cfe2b2e2e9e8055", null ],
+    [ "Load", "d9/dc4/a16760.html#abab656d4ba7e14bf1ffdb1d40c395b5d", null ],
+    [ "PrepareAuraScript", "d9/dc4/a16760.html#a0856d66c801715f16cd251ddf9b25a59", null ],
+    [ "Register", "d9/dc4/a16760.html#a69d8dfebb981b51592770b7b5807bc80", null ],
+    [ "Validate", "d9/dc4/a16760.html#a55ec42ce316978220103a3a39f3939a3", null ],
+    [ "amount", "d9/dc4/a16760.html#aaf34ee04ae619a3ac108a8fd1c9dac99", null ],
+    [ "fired", "d9/dc4/a16760.html#a6a7afa99044644608b16e83328bfd5fa", null ]
 ];

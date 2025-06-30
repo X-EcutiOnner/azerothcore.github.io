@@ -1,5 +1,6 @@
 var a17620 =
 [
-    [ "achievement_im_on_a_boat", "d7/d21/a17620.html#aa25d330534aab023ec798e86976a6d50", null ],
-    [ "OnCheck", "d7/d21/a17620.html#ab4fffc061b9ff77563e7e0a5a796be1e", null ]
+    [ "HandlePeriodicTick", "d7/d21/a17620.html#accfe8a0cea8af9c9474d25fc3e7c7e22", null ],
+    [ "PrepareAuraScript", "d7/d21/a17620.html#a9962029ce4a5223d7aa05068e8d83326", null ],
+    [ "Register", "d7/d21/a17620.html#a64cf56299c8ab5292dbc9cddcee5f841", null ]
 ];

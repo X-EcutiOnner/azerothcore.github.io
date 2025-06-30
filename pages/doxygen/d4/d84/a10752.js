@@ -1,12 +1,7 @@
 var a10752 =
 [
-    [ "StartMirrorTimer", "d4/d84/a10752.html#a86039d4a721636477f266712682883f0", null ],
-    [ "StartMirrorTimer", "d4/d84/a10752.html#a5202945882fb3cb5dd8574b6e6f8d5b0", null ],
-    [ "Write", "d4/d84/a10752.html#afa6cc6032804e3d8f3f7797b2231847f", null ],
-    [ "MaxValue", "d4/d84/a10752.html#a3f26c682d547be40d2800eff2189348d", null ],
-    [ "Paused", "d4/d84/a10752.html#af3994b2c6a57e734f9d1ebeedcab7759", null ],
-    [ "Scale", "d4/d84/a10752.html#a5879b6c796d7d7c2fd59001d2813a6b3", null ],
-    [ "SpellID", "d4/d84/a10752.html#a3d90aa3046eb6272249f8fe171d7cd2f", null ],
-    [ "Timer", "d4/d84/a10752.html#abb9dbec2c5df4b2dfbc96314a0465011", null ],
-    [ "Value", "d4/d84/a10752.html#ad0f2f8f95fdea9a7555e3056bb49cc53", null ]
+    [ "PlayMusic", "d4/d84/a10752.html#afee4b7ae9ac5f4f2b7365d3d00e7b581", null ],
+    [ "PlayMusic", "d4/d84/a10752.html#ad3d833f70de5937365c2351aa5206bbf", null ],
+    [ "Write", "d4/d84/a10752.html#ad01a67d76fe9dff269eac9108a27c75a", null ],
+    [ "SoundKitID", "d4/d84/a10752.html#ad2342dd0c1461283c595af29c3bc9fe6", null ]
 ];

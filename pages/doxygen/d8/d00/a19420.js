@@ -1,6 +1,8 @@
 var a19420 =
 [
-    [ "boss_lokenAI", "d2/dc7/a19424.html", "d2/dc7/a19424" ],
-    [ "boss_loken", "d8/d00/a19420.html#a44ba0ee009dcdfca6ff8739e297ec786", null ],
-    [ "GetAI", "d8/d00/a19420.html#affb73db8ecdc2d035f8076ecca0c9a99", null ]
+    [ "HandleOnEffectApply", "d8/d00/a19420.html#ac852d761940494f78b50ba3b060057a2", null ],
+    [ "HandleOnEffectRemove", "d8/d00/a19420.html#a6764750586be8b57d52a2dba87d89e76", null ],
+    [ "PrepareAuraScript", "d8/d00/a19420.html#acc93a6d463501a23b73bd1ac1f99854e", null ],
+    [ "Register", "d8/d00/a19420.html#a2cb77175d7341752bdd8733cfcfe8ed3", null ],
+    [ "Validate", "d8/d00/a19420.html#a4de69fb4aa8e1506581ed01c42dc8f76", null ]
 ];

@@ -1,6 +1,6 @@
 var a27136 =
 [
-    [ "go_flamesAI", "d9/df9/a27136.html#a6473bff84b5c99cc616aa2d0912ed308", null ],
-    [ "UpdateAI", "d9/df9/a27136.html#a2d4c91f0bff924335881d1096c0af313", null ],
-    [ "timer", "d9/df9/a27136.html#ae53c7c6c669e982babf304f173b58b1a", null ]
+    [ "go_witherbark_totem_bundleAI", "d9/df9/a27136.html#a955625e2315008a2e36936d44f825060", null ],
+    [ "UpdateAI", "d9/df9/a27136.html#af688bab2dc3d938951adb303e8b8d88b", null ],
+    [ "_timer", "d9/df9/a27136.html#a509e6d8401380c326a0f565a6b903d7a", null ]
 ];

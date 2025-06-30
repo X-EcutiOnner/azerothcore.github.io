@@ -1,7 +1,6 @@
 var a10700 =
 [
-    [ "GuildBankSetTabText", "d1/da2/a10700.html#aba353d3f94a88b71f49b9c0dc096be2c", null ],
-    [ "Read", "d1/da2/a10700.html#a24f580f6addcd08945c05016b3f0e544", null ],
-    [ "Tab", "d1/da2/a10700.html#ada6707c2105410d78d4335dbf4747141", null ],
-    [ "TabText", "d1/da2/a10700.html#a9bb8c3f539fdcf389caf57ed818c6164", null ]
+    [ "GuildBankLogQuery", "d1/da2/a10700.html#ab094e91a48d0259b4247157b92997bb2", null ],
+    [ "Read", "d1/da2/a10700.html#a5eed269e9285a33ffc61fcfa7d639083", null ],
+    [ "Tab", "d1/da2/a10700.html#ae966e3ac144b86e20f65b742ff3be9e3", null ]
 ];

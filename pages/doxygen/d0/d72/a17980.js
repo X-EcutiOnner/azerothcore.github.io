@@ -1,5 +1,6 @@
 var a17980 =
 [
-    [ "operator()", "d0/d72/a17980.html#a6a8c02f9b797ed7df8960e5ddc44f93f", null ],
-    [ "operator()", "d0/d72/a17980.html#a3847988d35a9cb0c5aab4ad73ff1a427", null ]
+    [ "boss_sindragosaAI", "d4/d15/a17984.html", "d4/d15/a17984" ],
+    [ "boss_sindragosa", "d0/d72/a17980.html#af5cdf4798b8b87467fa45dbda7fcbee1", null ],
+    [ "GetAI", "d0/d72/a17980.html#a005a6da9f4f9690416a108872b3c2b36", null ]
 ];

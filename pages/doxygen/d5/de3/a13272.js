@@ -1,6 +1,8 @@
 var a13272 =
 [
-    [ "FixOrientation", "d5/de3/a13272.html#ac4a9654d37a73f9d5ddc73ff90ce145b", null ],
-    [ "Execute", "d5/de3/a13272.html#a7af72679731c9b86b9ae36d19d1621e5", null ],
-    [ "_owner", "d5/de3/a13272.html#a5f12db3774bdeef25a300780c00db1fb", null ]
+    [ "FilterTargets", "d5/de3/a13272.html#a3aac5e364d04a4a086aaa911051417d5", null ],
+    [ "HandleDummy", "d5/de3/a13272.html#aa0705dee3edeca7b61f82581f367e94a", null ],
+    [ "PrepareSpellScript", "d5/de3/a13272.html#a1efa036eac25d789850849dc1b209379", null ],
+    [ "Register", "d5/de3/a13272.html#a656b512d5bef657004a72acbf7875760", null ],
+    [ "Validate", "d5/de3/a13272.html#a33534d9fd70af99bbde1e4a908d22084", null ]
 ];

@@ -1,8 +1,6 @@
 var a20864 =
 [
-    [ "FilterTargets", "d0/dad/a20864.html#a45d300e8cb6fbc499345b3bb2fb0d34f", null ],
-    [ "HandleDummyEffect", "d0/dad/a20864.html#ab1f662fa107d176386067ffc6467d90f", null ],
-    [ "PrepareSpellScript", "d0/dad/a20864.html#a069cc54bf009830ad781c790b4fcedad", null ],
-    [ "Register", "d0/dad/a20864.html#ac91532151b689bde35d7120b1e9aec5b", null ],
-    [ "Validate", "d0/dad/a20864.html#ad225dcdb1325a855f1909a8c66ca577b", null ]
+    [ "boss_yoggsaron_neltharionAI", "dc/d62/a20868.html", "dc/d62/a20868" ],
+    [ "boss_yoggsaron_neltharion", "d0/dad/a20864.html#a9910e0d6043e7738cba0fe9ae7e92898", null ],
+    [ "GetAI", "d0/dad/a20864.html#abce5f59c35f7af3e1d5b30cc55ff48e6", null ]
 ];

@@ -1,5 +1,6 @@
 var a20684 =
 [
-    [ "achievement_xt002_nerf_engineering", "d3/d48/a20684.html#a5be8c0a8a51d81c4014ec0ab92c21f79", null ],
-    [ "OnCheck", "d3/d48/a20684.html#a2b401f51d1ba7ed817f95d81d1048adf", null ]
+    [ "npc_xt002_pummellerAI", "d6/d86/a20688.html", "d6/d86/a20688" ],
+    [ "npc_xt002_pummeller", "d3/d48/a20684.html#af620e31a231ca8fb812324521bad4673", null ],
+    [ "GetAI", "d3/d48/a20684.html#a9ec4e452a3763c3d03e581a17e5d7efe", null ]
 ];

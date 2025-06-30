@@ -1,11 +1,7 @@
 var a18400 =
 [
-    [ "npc_valithria_cloudAI", "d7/d96/a18400.html#a5b550d0154f302cecc509fbd868a53bb", null ],
-    [ "AttackStart", "d7/d96/a18400.html#a5835d5ba19e1480016e585c1e49489c9", null ],
-    [ "EnterEvadeMode", "d7/d96/a18400.html#a346fd998d41451d7d1e605afdb13b65c", null ],
-    [ "MoveInLineOfSight", "d7/d96/a18400.html#a8d4c8d082f12b96b2b77447d0b942c2c", null ],
-    [ "Reset", "d7/d96/a18400.html#abca34d7285ef23c062006df8f8ae6d53", null ],
-    [ "UpdateAI", "d7/d96/a18400.html#a6908f5731915bf7d15bb4921c960aa30", null ],
-    [ "_events", "d7/d96/a18400.html#afc5c9299d7f1f73c087a19dcfb19e096", null ],
-    [ "_instance", "d7/d96/a18400.html#a20cc2bba9d1005cc93b55dfba8bfbcf3", null ]
+    [ "ValithriaDespawner", "d7/d96/a18400.html#adf6f71ad9b97489f1e35781e491b28d8", null ],
+    [ "Execute", "d7/d96/a18400.html#a4f8c63f52996da14078a7196cae3a00d", null ],
+    [ "operator()", "d7/d96/a18400.html#a05bae39d642f294f2ef98151d66ba382", null ],
+    [ "_creature", "d7/d96/a18400.html#a64bf6181ad867efd987edec141ca3bf0", null ]
 ];

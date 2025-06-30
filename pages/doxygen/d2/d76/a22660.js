@@ -1,9 +1,7 @@
 var a22660 =
 [
-    [ "npc_flame_of_azzinoth", "d2/d76/a22660.html#acdeb046c2214bd449257ba1b932c8a5c", null ],
-    [ "IsSummonedBy", "d2/d76/a22660.html#a5254057af0371a08ea01fe91502c2a20", null ],
-    [ "JustEngagedWith", "d2/d76/a22660.html#a24eba1a6cdea4971573a6f4b2dd34fb3", null ],
-    [ "JustSummoned", "d2/d76/a22660.html#ad2e7085fcd985a08cc2e317485a8fff1", null ],
-    [ "UpdateAI", "d2/d76/a22660.html#a7a1c9b967e6a79721dea8cbca44cbb5b", null ],
-    [ "_bladeGUID", "d2/d76/a22660.html#ae797d929b0e9c8953a4c9efd392a21f3", null ]
+    [ "HandleProc", "d2/d76/a22660.html#a4d12ab1b286105fdad5eb2dd20131408", null ],
+    [ "PrepareAuraScript", "d2/d76/a22660.html#a94b6499dc2e1fa95a50bd9c3c491e858", null ],
+    [ "Register", "d2/d76/a22660.html#a6b764182501a1d192f90dc20bbd6549e", null ],
+    [ "Validate", "d2/d76/a22660.html#ad89123425cca5bd02a18526a11595a1a", null ]
 ];

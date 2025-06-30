@@ -1,6 +1,7 @@
 var a11836 =
 [
-    [ "boss_anubshiahAI", "df/d7d/a11840.html", "df/d7d/a11840" ],
-    [ "boss_anubshiah", "db/dc8/a11836.html#a7176d98f966dac62f7ac1a10d3f2afa1", null ],
-    [ "GetAI", "db/dc8/a11836.html#a157420b5f0c4c05e7dc2ee327ef81cb9", null ]
+    [ "npc_rocknotAI", "df/d7d/a11840.html", "df/d7d/a11840" ],
+    [ "npc_rocknot", "db/dc8/a11836.html#a64a0cd215c1f4881948e5a49cf1b86d7", null ],
+    [ "GetAI", "db/dc8/a11836.html#ac8a90d54e9303c40f0313fda1dcfea86", null ],
+    [ "OnQuestReward", "db/dc8/a11836.html#abd8ad3d7e6dd1e557398e268409a2c98", null ]
 ];

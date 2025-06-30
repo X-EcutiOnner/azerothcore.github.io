@@ -1,43 +1,13 @@
 var a02594 =
 [
-    [ "DataHeader", "db/d8b/a02594.html#a042491ef36459046f3866e90f15aae0d", null ],
-    [ "MTScriptName", "db/d8b/a02594.html#a772413d8818d681e2261c99f58e1268c", null ],
-    [ "RegisterMagistersTerraceCreatureAI", "db/d8b/a02594.html#a679c3c5e0520ffcbc6ca0827cddafeb0", null ],
-    [ "CreatureTexts", "db/d8b/a02594.html#a98b0f0ed8e23c5a3936ff695705d37e9", [
-      [ "SAY_KALECGOS_SPAWN", "db/d8b/a02594.html#a98b0f0ed8e23c5a3936ff695705d37e9afb263d1cd011b49bf7cda725281fa940", null ]
+    [ "instance_sunken_temple", "dc/d4a/a13144.html", "dc/d4a/a13144" ],
+    [ "instance_sunken_temple::instance_sunken_temple_InstanceMapScript", "df/d2a/a13148.html", "df/d2a/a13148" ],
+    [ "at_malfurion_stormrage", "d0/de7/a13152.html", "d0/de7/a13152" ],
+    [ "spell_temple_of_atal_hakkar_hex_of_jammal_an_aura", "d5/d2c/a13156.html", "d5/d2c/a13156" ],
+    [ "spell_temple_of_atal_hakkar_awaken_the_soulflayer", "d0/d96/a13160.html", "d0/d96/a13160" ],
+    [ "MalfurionMisc", "db/d8b/a02594.html#a754fcfafd80b5a6c2ea444f49cfbc7d1", [
+      [ "QUEST_ERANIKUS_TYRANT_OF_DREAMS", "db/d8b/a02594.html#a754fcfafd80b5a6c2ea444f49cfbc7d1a99089f2ff32693b053abae21941aed5d", null ],
+      [ "QUEST_THE_CHARGE_OF_DRAGONFLIGHTS", "db/d8b/a02594.html#a754fcfafd80b5a6c2ea444f49cfbc7d1aabeeb62adbb72d2616aa2e6e393f2526", null ]
     ] ],
-    [ "InstanceEventIds", "db/d8b/a02594.html#ab51342a4a8f5976e51b0074f9a5746f8", [
-      [ "EVENT_SPAWN_KALECGOS", "db/d8b/a02594.html#ab51342a4a8f5976e51b0074f9a5746f8a2e000620a7210a65a43ee87d48b5d283", null ]
-    ] ],
-    [ "MovementData", "db/d8b/a02594.html#aed5999eedcf185b65654ded53dc601d3", [
-      [ "PATH_KALECGOS_FLIGHT", "db/d8b/a02594.html#aed5999eedcf185b65654ded53dc601d3a6b4587e5a1bc789ca7ac972cd1e54222", null ]
-    ] ],
-    [ "MTCreatures", "db/d8b/a02594.html#a402e3e622f03a1eed719db587960e18b", [
-      [ "NPC_DELRISSA", "db/d8b/a02594.html#a402e3e622f03a1eed719db587960e18ba5d0ab26a56a5212e4bbd0d2bd26b7127", null ],
-      [ "NPC_FEL_CRYSTAL", "db/d8b/a02594.html#a402e3e622f03a1eed719db587960e18bad5c5384a148b47a2c59d671014db6d35", null ],
-      [ "NPC_KAEL_THAS", "db/d8b/a02594.html#a402e3e622f03a1eed719db587960e18ba1cc740bbad14c06e879fe922c561957c", null ],
-      [ "NPC_PHOENIX", "db/d8b/a02594.html#a402e3e622f03a1eed719db587960e18ba93173f126c0dd252197a841ed9321048", null ],
-      [ "NPC_PHOENIX_EGG", "db/d8b/a02594.html#a402e3e622f03a1eed719db587960e18ba37c8f15ed65139715f18d3d09d17a970", null ],
-      [ "NPC_KALECGOS", "db/d8b/a02594.html#a402e3e622f03a1eed719db587960e18ba7434f1d158db88e1befb3cf56e801613", null ]
-    ] ],
-    [ "MTData", "db/d8b/a02594.html#abdc560adf84eb5994b289f952995d059", [
-      [ "DATA_SELIN_FIREHEART", "db/d8b/a02594.html#abdc560adf84eb5994b289f952995d059afd8c24b35ae0b3270c6446ed912864b8", null ],
-      [ "DATA_VEXALLUS", "db/d8b/a02594.html#abdc560adf84eb5994b289f952995d059a7d511ceaf5f4b75dc6bf642fd4c002c3", null ],
-      [ "DATA_DELRISSA", "db/d8b/a02594.html#abdc560adf84eb5994b289f952995d059af977a73eff024af1676aeb0fe6503c2f", null ],
-      [ "DATA_KAELTHAS", "db/d8b/a02594.html#abdc560adf84eb5994b289f952995d059a9459cb9bb83f7a23115debb607cb25a3", null ],
-      [ "MAX_ENCOUNTER", "db/d8b/a02594.html#abdc560adf84eb5994b289f952995d059a7913656ef56deb3793c0c5f3d999d80d", null ],
-      [ "DATA_KALECGOS", "db/d8b/a02594.html#abdc560adf84eb5994b289f952995d059a053405afb85048224c161919aebd795d", null ],
-      [ "DATA_ESCAPE_ORB", "db/d8b/a02594.html#abdc560adf84eb5994b289f952995d059a6c76e50a19d944f081dbe8c87034974f", null ],
-      [ "DATA_KAEL_INTRO", "db/d8b/a02594.html#abdc560adf84eb5994b289f952995d059ad20d84b9105a6e9e87a44161e54c1d15", null ],
-      [ "MAX_PERSISTENT_DATA", "db/d8b/a02594.html#abdc560adf84eb5994b289f952995d059ade8daf2d97d89b7bc637c9b5550e0449", null ]
-    ] ],
-    [ "MTGameObjects", "db/d8b/a02594.html#a2b0621589774d4cc3afba085bc39867d", [
-      [ "GO_VEXALLUS_DOOR", "db/d8b/a02594.html#a2b0621589774d4cc3afba085bc39867da660139f819500a248283735c336cf4e7", null ],
-      [ "GO_SELIN_DOOR", "db/d8b/a02594.html#a2b0621589774d4cc3afba085bc39867da7ccc42cdb5402db90adb2298e29d4e64", null ],
-      [ "GO_SELIN_ENCOUNTER_DOOR", "db/d8b/a02594.html#a2b0621589774d4cc3afba085bc39867da8b457fe7255a77748f94f13974791086", null ],
-      [ "GO_DELRISSA_DOOR", "db/d8b/a02594.html#a2b0621589774d4cc3afba085bc39867da2ec22f0e669bef8a7bde879208fa8f6a", null ],
-      [ "GO_KAEL_DOOR", "db/d8b/a02594.html#a2b0621589774d4cc3afba085bc39867dacafc1a0b7422ea5365367a4c964fee25", null ],
-      [ "GO_ESCAPE_ORB", "db/d8b/a02594.html#a2b0621589774d4cc3afba085bc39867daf0d8c802b02ba5d48c9d4126534812fd", null ]
-    ] ],
-    [ "GetMagistersTerraceAI", "db/d8b/a02594.html#ace003ea34649a460da4afbd65b38c987", null ]
+    [ "AddSC_instance_sunken_temple", "db/d8b/a02594.html#ab3f2a91fe096585f54078e8884cb25f7", null ]
 ];

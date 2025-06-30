@@ -1,6 +1,9 @@
 var a16184 =
 [
-    [ "npc_toc5_player_vehicleAI", "db/df8/a16188.html", "db/df8/a16188" ],
-    [ "npc_toc5_player_vehicle", "d8/db6/a16184.html#a8786627999d3d1681d9de58cd8c46744", null ],
-    [ "GetAI", "d8/db6/a16184.html#af89c559eff828130df821c0c30c61f7a", null ]
+    [ "npc_memoryAI", "d8/db6/a16184.html#ad927d377d60b44f43808469042f5feb9", null ],
+    [ "JustDied", "d8/db6/a16184.html#a7b0484919d671877f29dfa05ca1265d9", null ],
+    [ "Reset", "d8/db6/a16184.html#a985c51bbfa2cceeb7601432491253aaf", null ],
+    [ "UpdateAI", "d8/db6/a16184.html#a6cb74389f5aea91d2062e007ea08acd7", null ],
+    [ "events", "d8/db6/a16184.html#a2ed2993e89728a3723456a67e13581f7", null ],
+    [ "pInstance", "d8/db6/a16184.html#a31bcb5041844ea5e3a076ad1366897e1", null ]
 ];

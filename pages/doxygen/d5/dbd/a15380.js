@@ -1,6 +1,6 @@
 var a15380 =
 [
-    [ "HandleDummy", "d5/dbd/a15380.html#af9c26a7e5f6cba4f1146cb626dbcf8ed", null ],
-    [ "PrepareSpellScript", "d5/dbd/a15380.html#adc581ed46587afcc8be3800ae79105f6", null ],
-    [ "Register", "d5/dbd/a15380.html#a7d09808ea2fdec450fcd129e996bd245", null ]
+    [ "npc_tiger_matriarchAI", "d1/d75/a15384.html", "d1/d75/a15384" ],
+    [ "npc_tiger_matriarch", "d5/dbd/a15380.html#a05a08bfa64c428213a4b534a982afb71", null ],
+    [ "GetAI", "d5/dbd/a15380.html#a6d5664ca125a775c2d71f322f5a57655", null ]
 ];

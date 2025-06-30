@@ -1,6 +1,6 @@
 var a21504 =
 [
-    [ "npc_hidden_cultistAI", "db/d1d/a21508.html", "db/d1d/a21508" ],
-    [ "npc_hidden_cultist", "dc/d40/a21504.html#ab455b35fea966360e01fb8975adad989", null ],
-    [ "GetAI", "dc/d40/a21504.html#a4897006d9416f1177b0bc0e41df60293", null ]
+    [ "npc_captured_beryl_sorcererAI", "db/d1d/a21508.html", "db/d1d/a21508" ],
+    [ "npc_captured_beryl_sorcerer", "dc/d40/a21504.html#ace67e76e96e3be9fa5976dc4c90041e6", null ],
+    [ "GetAI", "dc/d40/a21504.html#aa5a31390ff3c6277ebff2a5eebe72b3d", null ]
 ];

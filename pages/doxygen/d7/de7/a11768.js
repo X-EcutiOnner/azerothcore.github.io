@@ -1,15 +1,12 @@
 var a11768 =
 [
-    [ "boss_vanndarAI", "d7/de7/a11768.html#ada061b4363340602fd1f4744433d9cf9", null ],
-    [ "AttackStart", "d7/de7/a11768.html#a76ab9327e04b82b534a9b3ea59b377d1", null ],
-    [ "EnterEvadeMode", "d7/de7/a11768.html#a9ba6e2620a25728bf30d4d813a82b781", null ],
-    [ "JustEngagedWith", "d7/de7/a11768.html#abde00baf4099361b8c26e6e0cf6c1517", null ],
-    [ "Reset", "d7/de7/a11768.html#a1c2fdf4351a43047f02bec1d46423cb8", null ],
-    [ "UpdateAI", "d7/de7/a11768.html#ab410ed8d64cd91bd6c4b78b2ed678eab", null ],
-    [ "Attacked", "d7/de7/a11768.html#ac5994c76a9d84cf303021a9298673d68", null ],
-    [ "AvatarTimer", "d7/de7/a11768.html#a3bed38b10a87baf50e9c9a57229bd464", null ],
-    [ "ResetTimer", "d7/de7/a11768.html#ae1c4e16cd9ad68e4700d68ed64baa8e2", null ],
-    [ "StormboltTimer", "d7/de7/a11768.html#a71ef70c1b504be2b00be1a70e85bc18a", null ],
-    [ "ThunderclapTimer", "d7/de7/a11768.html#a681a103b6cf937dad3fb15e5be358c26", null ],
-    [ "YellTimer", "d7/de7/a11768.html#a2b8503aaae0fd5e8cd92bb9650ee6ee3", null ]
+    [ "boss_balinda", "d7/de7/a11768.html#a2f3ce696dbc66843cddc13196800866b", null ],
+    [ "DamageTaken", "d7/de7/a11768.html#a826ad90ac15b3421e16fc3faa96784e7", null ],
+    [ "JustDied", "d7/de7/a11768.html#aeb10053198b9b4c43e963d23957ba9ba", null ],
+    [ "JustEngagedWith", "d7/de7/a11768.html#aa0b78302a92bf39ffee51ce3a71fb534", null ],
+    [ "JustSummoned", "d7/de7/a11768.html#a3c2306326d2f85fbb6766352117a1f91", null ],
+    [ "Reset", "d7/de7/a11768.html#a1ecfa5d743682997076a47cce44b19f5", null ],
+    [ "UpdateAI", "d7/de7/a11768.html#af3506dd75baef12fd0328aed21636978", null ],
+    [ "_hasCastIceBlock", "d7/de7/a11768.html#a05c24746060d7c9a3712d9f269b4af8e", null ],
+    [ "summons", "d7/de7/a11768.html#a83df5856391f0ba62dcb0538b7f44e2d", null ]
 ];

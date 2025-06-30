@@ -1,6 +1,5 @@
 var a24184 =
 [
-    [ "npc_zephyr", "d7/d49/a24184.html#a3bad7bf2bd3b193960f1f53cd7d8349d", null ],
-    [ "OnGossipHello", "d7/d49/a24184.html#a31e132e80a19bb6e63787fcdf7ffd466", null ],
-    [ "OnGossipSelect", "d7/d49/a24184.html#a9b1f5a0d4ba24e65dda521bc94574ad8", null ]
+    [ "go_crystal_prison", "d7/d49/a24184.html#a0faca8b76f9650ee5cc7825b90463365", null ],
+    [ "OnQuestAccept", "d7/d49/a24184.html#ad19d8bdf8361d5d7fca2917a6bf0977a", null ]
 ];

@@ -1,12 +1,11 @@
 var a16800 =
 [
-    [ "npc_tortured_riflemanAI", "d1/dee/a16800.html#a65dc1d2ba5769aed1a0b2487322ff2b1", null ],
-    [ "AttackStart", "d1/dee/a16800.html#aaf2b73d0b60791f887207842580d91dc", null ],
-    [ "DoAction", "d1/dee/a16800.html#acb941c20d911a567c93bb0f92105fdfd", null ],
-    [ "EnterEvadeMode", "d1/dee/a16800.html#aabd56fc4aaed247a9ac3ce5bcdc4cb50", null ],
-    [ "JustDied", "d1/dee/a16800.html#a5796a96626937e1026cc1fec0eba4e0b", null ],
-    [ "JustEngagedWith", "d1/dee/a16800.html#ac5d8f17c48269da06c14643e82c88567", null ],
-    [ "Reset", "d1/dee/a16800.html#a04f9c7056e063d436df66f079127d1a7", null ],
-    [ "UpdateAI", "d1/dee/a16800.html#a194a615eef3651cdc97d4e4ad57bf017", null ],
-    [ "events", "d1/dee/a16800.html#a958f27c1f917dc1ae0a9f84549481f93", null ]
+    [ "npc_hor_leaderAI", "d1/dee/a16800.html#a2072f9facbc476bb97f1a3ca9c24fcb7", null ],
+    [ "DoAction", "d1/dee/a16800.html#a610700732a6cc197a40106adef654a62", null ],
+    [ "Reset", "d1/dee/a16800.html#a40749d0294400e15bc28f6e728c6cb3c", null ],
+    [ "UpdateAI", "d1/dee/a16800.html#acb29a6ddb6d06616e79f7431b66f167a", null ],
+    [ "events", "d1/dee/a16800.html#a94128223bddd84b8a678e49f3189cb75", null ],
+    [ "first", "d1/dee/a16800.html#add878d336fa7e20bee4d05ac0383dd0a", null ],
+    [ "pInstance", "d1/dee/a16800.html#a8dd77a92b151acad640f1272acf0b65f", null ],
+    [ "shortver", "d1/dee/a16800.html#a6e7b5d6f1b73bacb54d9aa1eb21fe6ee", null ]
 ];

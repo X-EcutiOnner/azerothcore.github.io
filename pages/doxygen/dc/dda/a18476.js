@@ -1,7 +1,6 @@
 var a18476 =
 [
-    [ "FrostwingVrykulSearcher", "dc/dda/a18476.html#a10aa54184b42a0538dc4f325204399e9", null ],
-    [ "operator()", "dc/dda/a18476.html#afbf32ce600cee12930fefcf9b5e87f16", null ],
-    [ "_range", "dc/dda/a18476.html#a04b2913aae7fbf6547a960d0876d4d02", null ],
-    [ "_source", "dc/dda/a18476.html#af5d3c93f41698e71c867336d0453d40a", null ]
+    [ "npc_gluttonous_abominationAI", "df/d30/a18480.html", "df/d30/a18480" ],
+    [ "npc_gluttonous_abomination", "dc/dda/a18476.html#a895d1afcfc62bcaac6cc0d20465f1e7a", null ],
+    [ "GetAI", "dc/dda/a18476.html#aedbd808da5e8ea0e2111e78be9d846ce", null ]
 ];

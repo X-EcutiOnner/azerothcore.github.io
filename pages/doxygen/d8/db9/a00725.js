@@ -1,5 +1,6 @@
 var a00725 =
 [
-    [ "Acore::BattlegroundChatBuilder", "d0/daa/a07251.html", "d0/daa/a07251" ],
-    [ "Acore::Battleground2ChatBuilder", "d4/dc4/a07255.html", "d4/dc4/a07255" ]
+    [ "ArenaSeasonTeamRewarder", "d2/d73/a07220.html", "d2/d73/a07220" ],
+    [ "ArenaSeasonTeamRewarderImpl", "de/de6/a07224.html", "de/de6/a07224" ],
+    [ "ArenaSeasonRewardDistributor", "df/da9/a07228.html", "df/da9/a07228" ]
 ];

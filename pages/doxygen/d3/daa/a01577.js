@@ -1,16 +1,8 @@
 var a01577 =
 [
-    [ "SummonList", "d0/dca/a06175.html", "d0/dca/a06175" ],
-    [ "EntryCheckPredicate", "dd/d16/a06179.html", "dd/d16/a06179" ],
-    [ "PlayerOrPetCheck", "df/d46/a06183.html", "df/d46/a06183" ],
-    [ "ScriptedAI", "d0/d79/a06187.html", "d0/d79/a06187" ],
-    [ "HealthCheckEventData", "d8/d67/a06191.html", "d8/d67/a06191" ],
-    [ "BossAI", "d6/d4c/a06195.html", "d6/d4c/a06195" ],
-    [ "WorldBossAI", "d9/d57/a06199.html", "d9/d57/a06199" ],
-    [ "ObjectList", "d3/daa/a01577.html#acc68161fe019b33e9356ea1473fba71d", null ],
-    [ "GetClosestCreatureWithEntry", "d3/daa/a01577.html#a9ffd6f6c01576a8d3369c3a4f6dbaa0b", null ],
-    [ "GetClosestGameObjectWithEntry", "d3/daa/a01577.html#acaba34b4ac104e5289c265c1f8524b15", null ],
-    [ "GetCreatureListWithEntryInGrid", "d3/daa/a01577.html#ab6a8246d473139627106be4651f6329d", null ],
-    [ "GetDeadCreatureListInGrid", "d3/daa/a01577.html#a4a92c9585e18b56cdbe0d0c0976de7d1", null ],
-    [ "GetGameObjectListWithEntryInGrid", "d3/daa/a01577.html#ae9abb80c4e811509bca88e65cf817276", null ]
+    [ "ePoints", "d3/daa/a01577.html#a2604bd06487e34b78d3e50cd892f3c4d", [
+      [ "POINT_LAST_POINT", "d3/daa/a01577.html#a2604bd06487e34b78d3e50cd892f3c4da7d10089a0c5a8c42786b90cd3ba643cb", null ],
+      [ "POINT_HOME", "d3/daa/a01577.html#a2604bd06487e34b78d3e50cd892f3c4da032be97ee26935943c3313fb24491162", null ],
+      [ "POINT_COMBAT_START", "de/d40/a01592.html#a2604bd06487e34b78d3e50cd892f3c4da91adf90069f0b0a515897fbdc91e20b4", null ]
+    ] ]
 ];

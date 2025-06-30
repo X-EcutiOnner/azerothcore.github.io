@@ -1,10 +1,7 @@
 var a13652 =
 [
-    [ "npc_lady_sylvanas_windrunner_bfuAI", "dd/d57/a13652.html#af7d495f489979690615d091bbd9d539b", null ],
-    [ "CanAIAttack", "dd/d57/a13652.html#af332a66852c9499912d8ef4959f394f5", null ],
-    [ "InitializeAI", "dd/d57/a13652.html#a66fcb4b5130ff03f1926eec3b4d9ff6a", null ],
-    [ "JustRespawned", "dd/d57/a13652.html#a70b83dd31e8a8214b5d09f9a4ca7347a", null ],
-    [ "Reset", "dd/d57/a13652.html#a2c5e519bd2a1699b74811c92bb217d20", null ],
-    [ "UpdateAI", "dd/d57/a13652.html#ae1e9308f730ac948f96d4fceba914cdb", null ],
-    [ "_events", "dd/d57/a13652.html#a7078f4c552f741afdc8ecbd1746e31c4", null ]
+    [ "o", "dd/d57/a13652.html#a455ab33d372dd2aeac9d591f3cce1013", null ],
+    [ "x", "dd/d57/a13652.html#a49ad07d6ecb902ae4818923a6414f3c1", null ],
+    [ "y", "dd/d57/a13652.html#a45ec9c234e9d909eb8fcc0db6e0d641e", null ],
+    [ "z", "dd/d57/a13652.html#abf42d988d416ebe409100c4b860d26db", null ]
 ];

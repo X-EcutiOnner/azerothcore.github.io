@@ -1,18 +1,16 @@
 var a04843 =
 [
-    [ "DynamicMapTree", "d4/d06/a04843.html#ae1abe2e5e0464f2cfc6b87338698983d", null ],
-    [ "~DynamicMapTree", "d4/d06/a04843.html#a6d33c22d53a1c2b8120e80c1f508cfb0", null ],
-    [ "balance", "d4/d06/a04843.html#a1af866551a1ea151551ebb856797528d", null ],
-    [ "contains", "d4/d06/a04843.html#a0d1cb7c5e805b637b392afe95ce0286a", null ],
-    [ "GetAreaAndLiquidData", "d4/d06/a04843.html#a9b8307e7b6d80932c584ca1764be9014", null ],
-    [ "GetAreaInfo", "d4/d06/a04843.html#ab250f8be8196cda7f6ba67c5b4388ce0", null ],
-    [ "getHeight", "d4/d06/a04843.html#ac10680b14e3849bd17926cef24765d9d", null ],
-    [ "GetIntersectionTime", "d4/d06/a04843.html#a06e7f683147b9487dad5ca70f28e5aa6", null ],
-    [ "GetObjectHitPos", "d4/d06/a04843.html#ab664ac39063402dea9f587e9808a358d", null ],
-    [ "insert", "d4/d06/a04843.html#a28ccab96fd4249f15485c89501da597b", null ],
-    [ "isInLineOfSight", "d4/d06/a04843.html#a0e585c88cf1f457ad7018ad9c6a4c542", null ],
-    [ "remove", "d4/d06/a04843.html#af75f1e6b52135ca8a9b4b7cd9fb6f42e", null ],
-    [ "size", "d4/d06/a04843.html#aa97347b2172f8f80e360d6fcc132dbd9", null ],
-    [ "update", "d4/d06/a04843.html#a97597eac8b03eccf1f61a6f2b0a9e562", null ],
-    [ "impl", "d4/d06/a04843.html#a7d3a6c5c88df501d6d89e917fb44b1d0", null ]
+    [ "anonymous_namespace{WeatherMgr.cpp}", "de/df4/a04844.html", [
+      [ "WeatherMap", "de/df4/a04844.html#afdd64650acc01e75684c5ae2b269d5c1", null ],
+      [ "WeatherZoneMap", "de/df4/a04844.html#a77b1d830c50ce06ef7bb67f75cbd48b6", null ],
+      [ "GetWeatherData", "de/df4/a04844.html#a8d453fe2bfb19b170807fe92e393bc51", null ],
+      [ "m_weathers", "de/df4/a04844.html#ac2bde7e8b2ecff6ab9b2705d01ce8b2c", null ],
+      [ "mWeatherZoneMap", "de/df4/a04844.html#a977110fadc5eac5e2efa26106382d408", null ]
+    ] ],
+    [ "AddWeather", "d7/d46/a04765.html#ga1f76350b68494335d48ae206b87e190c", null ],
+    [ "FindWeather", "d7/d46/a04765.html#gadd11deec2098fed61adf7910b8f09cc6", null ],
+    [ "LoadWeatherData", "d7/d46/a04765.html#ga6c7d8a9fc5dfce0880220f4b5b8cd623", null ],
+    [ "RemoveWeather", "d7/d46/a04765.html#ga296a3324a3a38984149fae3e5d62435f", null ],
+    [ "SendFineWeatherUpdateToPlayer", "d7/d46/a04765.html#gac86b4e254146468a7412d8fc7b0c27f2", null ],
+    [ "Update", "d7/d46/a04765.html#ga45f0da6cf9e14a99380b4b9be2890801", null ]
 ];

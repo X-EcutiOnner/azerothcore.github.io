@@ -1,5 +1,5 @@
 var a20964 =
 [
-    [ "npc_salvaged_siege_engine", "de/dfd/a20964.html#aa8cde891a19ebb1e53be2a81a2432442", null ],
-    [ "BeforeSpellClick", "de/dfd/a20964.html#aed2500b2315b5e508ea3d06a2355d023", null ]
+    [ "achievement_yogg_saron_kiss_and_make_up", "de/dfd/a20964.html#a9f2e5fe9de59a9b5a00c0e73e8f9b376", null ],
+    [ "OnCheck", "de/dfd/a20964.html#a8ce7df713b804d5bdd5f6f47d77fc1b8", null ]
 ];

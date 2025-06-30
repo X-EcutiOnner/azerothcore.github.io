@@ -1,6 +1,6 @@
 var a17392 =
 [
-    [ "boss_festergutAI", "d6/da9/a17396.html", "d6/da9/a17396" ],
-    [ "boss_festergut", "d7/d72/a17392.html#a07ac6be688118cc57e6fdc1d8e961953", null ],
-    [ "GetAI", "d7/d72/a17392.html#ab2624e1908bb376f1b195a88e4b9b146", null ]
+    [ "npc_saurfang_eventAI", "d6/da9/a17396.html", "d6/da9/a17396" ],
+    [ "npc_saurfang_event", "d7/d72/a17392.html#a3bfce5457466360458498833098d660c", null ],
+    [ "GetAI", "d7/d72/a17392.html#a953842d2fa3380a8331faf3a42cb3177", null ]
 ];

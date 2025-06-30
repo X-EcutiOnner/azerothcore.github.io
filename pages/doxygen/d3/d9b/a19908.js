@@ -1,8 +1,8 @@
 var a19908 =
 [
-    [ "HandleOnEffectApply", "d3/d9b/a19908.html#a83ff54727e886161c5568a60833932d1", null ],
-    [ "HandleOnEffectRemove", "d3/d9b/a19908.html#a9e48d1c9dc26f882ee685a2cbf59667e", null ],
-    [ "PrepareAuraScript", "d3/d9b/a19908.html#a5ec8ffeceae335423dff10f54e096e8a", null ],
-    [ "Register", "d3/d9b/a19908.html#ae07af138c6f9c565799574b4f8343492", null ],
-    [ "Validate", "d3/d9b/a19908.html#a3a24a25c9b9b118d20ca2b14fbfc5869", null ]
+    [ "npc_mechanoliftAI", "d3/d9b/a19908.html#ad772427e03c2bd2c3a51556b6e5968b5", null ],
+    [ "Reset", "d3/d9b/a19908.html#a8198e7db2c6f4f2ceec984cfd53982b1", null ],
+    [ "UpdateAI", "d3/d9b/a19908.html#a3f8634abde6b3aa00acf03c77df433be", null ],
+    [ "_evadeTimer", "d3/d9b/a19908.html#a53da6899ad0dcea569ca29f57e45bf61", null ],
+    [ "_startTimer", "d3/d9b/a19908.html#a9b1587bbadd8f0044e1d404d55b8ba1f", null ]
 ];

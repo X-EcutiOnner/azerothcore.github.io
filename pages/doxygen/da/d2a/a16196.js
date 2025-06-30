@@ -1,11 +1,6 @@
 var a16196 =
 [
-    [ "npc_toc5_grand_champion_minionAI", "da/d2a/a16196.html#a06ff16fe0076de4e34ba20e0bbc49009", null ],
-    [ "JustDied", "da/d2a/a16196.html#a23e5001255c6d49a6b217b9606aa53c5", null ],
-    [ "JustEngagedWith", "da/d2a/a16196.html#a37a04ac2d6f30e415410f3806abaabb8", null ],
-    [ "Reset", "da/d2a/a16196.html#ad35a26c28485b1976c55d49fcd32fb19", null ],
-    [ "UpdateAI", "da/d2a/a16196.html#a2b9fdd3daa725921819ae2acee418d51", null ],
-    [ "events", "da/d2a/a16196.html#a1b405c2acd53a4e5f1179f52c8c2261b", null ],
-    [ "pInstance", "da/d2a/a16196.html#a6edd3dc8070edd031143e7a750f4d7a8", null ],
-    [ "ShieldTimer", "da/d2a/a16196.html#a080916d385f4157afbe4c455033b88ba", null ]
+    [ "FilterTargets", "da/d2a/a16196.html#a79d34d7e517b27e44c6a91d6056dfec7", null ],
+    [ "PrepareSpellScript", "da/d2a/a16196.html#a5ede43deece629a38f5482280983b59a", null ],
+    [ "Register", "da/d2a/a16196.html#aec3d0ed996e9cbfed9fb78c5f16e254f", null ]
 ];

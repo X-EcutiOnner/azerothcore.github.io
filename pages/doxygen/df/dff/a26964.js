@@ -1,5 +1,6 @@
 var a26964 =
 [
-    [ "achievement_flirt_with_disaster_perf_check", "df/dff/a26964.html#a8cb843ed26248ceff594ef552b0ae9ae", null ],
-    [ "OnCheck", "df/dff/a26964.html#a15e620be2f37f930477ba94293dbaf63", null ]
+    [ "achievement_arena_by_type", "df/dff/a26964.html#a2042c808304e8ddf1849820491b9f1a3", null ],
+    [ "OnCheck", "df/dff/a26964.html#abebdbf19fbf1b79c30114a9cf4ff98a4", null ],
+    [ "_arenaType", "df/dff/a26964.html#a5c38e5fef5eaf3d037864ba2aa80584a", null ]
 ];

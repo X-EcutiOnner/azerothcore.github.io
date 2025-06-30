@@ -1,10 +1,5 @@
 var a07668 =
 [
-    [ "storage_type", "db/d04/a07668.html#a054c554d9d812e571455bce39655a9ac", null ],
-    [ "value_type", "db/d04/a07668.html#a5c55c97d4dd08c5e71563596e0c59111", null ],
-    [ "operator value_type", "db/d04/a07668.html#a2d439c3664d398cebfc503b2769bfa9c", null ],
-    [ "operator*", "db/d04/a07668.html#a9d4cf547beb996e5945acb84f5305200", null ],
-    [ "operator->", "db/d04/a07668.html#afb5bb4e6e4a32db89e3b8a68e9c0d901", null ],
-    [ "TryConsume", "db/d04/a07668.html#a57892ca7457ca93bdcdbbb8309311c8f", null ],
-    [ "val", "db/d04/a07668.html#aef50fdfc79df3ca784eb90a69bd43076", null ]
+    [ "value_type", "db/d04/a07668.html#ae75362e108b0a7323fe92cae75c4729c", null ],
+    [ "TryConsume", "db/d04/a07668.html#a19112294c2e36c8e36fb3f77f2ccabba", null ]
 ];

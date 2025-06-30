@@ -1,6 +1,6 @@
 var a12080 =
 [
-    [ "boss_urok_doomhowlAI", "d5/db8/a12084.html", "d5/db8/a12084" ],
-    [ "boss_urok_doomhowl", "d4/d1c/a12080.html#a0ca9cea9919648baa5ff7db2d5a5b530", null ],
-    [ "GetAI", "d4/d1c/a12080.html#ac77756af77191e02df49161da0ace268", null ]
+    [ "OrcMoveEvent", "d4/d1c/a12080.html#a71f7fe243741a1629bdd846fc97f0112", null ],
+    [ "Execute", "d4/d1c/a12080.html#a58a3c88ed3c6b534016179949b85ff9e", null ],
+    [ "_me", "d4/d1c/a12080.html#ad8d09bbb659d44e9f4b9171cea7ef7e8", null ]
 ];

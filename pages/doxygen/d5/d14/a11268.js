@@ -1,6 +1,6 @@
 var a11268 =
 [
-    [ "EffectPeriodicHandler", "d5/d14/a11268.html#aad44956783e9c044eb92065cc62e97f6", null ],
-    [ "Call", "d5/d14/a11268.html#a938e987363972fbd58e42f19880016d8", null ],
-    [ "pEffectHandlerScript", "d5/d14/a11268.html#a803108e6a515d2d210d8e79a9fb6ce18", null ]
+    [ "DestinationTargetSelectHandler", "d5/d14/a11268.html#ab5ffcc89b7232afddd6bc47e7c347b79", null ],
+    [ "Call", "d5/d14/a11268.html#a81ae2eb856507ee22308ae2739854382", null ],
+    [ "DestinationTargetSelectHandlerScript", "d5/d14/a11268.html#a95e882b892a79b464a521a8367b2e9b7", null ]
 ];

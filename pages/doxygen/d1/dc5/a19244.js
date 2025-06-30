@@ -1,5 +1,7 @@
 var a19244 =
 [
-    [ "achievement_split_personality", "d1/dc5/a19244.html#aac29ae7c321306a663e55493987af45d", null ],
-    [ "OnCheck", "d1/dc5/a19244.html#ab5379f3c1191eeb747cb6762fc42ce01", null ]
+    [ "EoEDrakeEnterVehicleEvent", "d1/dc5/a19244.html#afc529efe07da017e529dc6d5ebc6e7dc", null ],
+    [ "Execute", "d1/dc5/a19244.html#a368a613ba7861f7903b80e6f7f0dd64f", null ],
+    [ "_owner", "d1/dc5/a19244.html#ab48302fdff800afddfeec2c0d756873c", null ],
+    [ "_playerGUID", "d1/dc5/a19244.html#add56bff0695453e01f300e0434a39ec8", null ]
 ];

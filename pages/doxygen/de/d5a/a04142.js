@@ -1,4 +1,4 @@
 var a04142 =
 [
-    [ "Acore::Impl::GenericBaseEncoding< Encoding >", "db/d87/a05299.html", "db/d87/a05299" ]
+    [ "B32Impl", "d0/d27/a05296.html", "d0/d27/a05296" ]
 ];

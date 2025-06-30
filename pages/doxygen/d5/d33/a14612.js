@@ -1,6 +1,7 @@
 var a14612 =
 [
-    [ "boss_infinite_corruptorAI", "d7/d98/a14616.html", "d7/d98/a14616" ],
-    [ "boss_infinite_corruptor", "d5/d33/a14612.html#a78a939073ab44b818cefdb25419f92be", null ],
-    [ "GetAI", "d5/d33/a14612.html#ab6eaf2f9d1928817e45b092a3a87bda4", null ]
+    [ "hyjalThrallAI", "d7/d98/a14616.html", "d7/d98/a14616" ],
+    [ "npc_hyjal_thrall", "d5/d33/a14612.html#a232f085f208a47f7fae08128de1d06b8", null ],
+    [ "GetAI", "d5/d33/a14612.html#a699b5df19e4e84166348ecfba2dd0172", null ],
+    [ "OnGossipSelect", "d5/d33/a14612.html#af833f26d79d34655c010aa04f984a94a", null ]
 ];

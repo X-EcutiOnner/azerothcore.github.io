@@ -1,9 +1,8 @@
 var a23620 =
 [
-    [ "boss_dalliah_the_doomsayer", "d0/d32/a23620.html#ad6edf9623942297b28bc7420ec0cc733", null ],
-    [ "InitializeAI", "d0/d32/a23620.html#a85342ef80a64ce05f87cf7d90a8bfe79", null ],
-    [ "JustDied", "d0/d32/a23620.html#a431edc9c25fb125d7d267073eb1c1423", null ],
-    [ "JustEngagedWith", "d0/d32/a23620.html#a6d3d8d027ddb08417dd11f1606a1418f", null ],
-    [ "KilledUnit", "d0/d32/a23620.html#af28bfc1166ad45bf7bc046f5906a8b11", null ],
-    [ "Reset", "d0/d32/a23620.html#a5b4f186225a55afdf1de80b7126d10eb", null ]
+    [ "npc_warchief_portal", "d0/d32/a23620.html#a1a52395a5ae66f5cc5f92c6d4ce81893", null ],
+    [ "JustSummoned", "d0/d32/a23620.html#ad90c834dc059040f3922f58dc3bcf4a2", null ],
+    [ "SetData", "d0/d32/a23620.html#a538ab8c6e7683aa02e8c75f9dd900be8", null ],
+    [ "UpdateAI", "d0/d32/a23620.html#a8c400cf1b9f41696807e11f1f135c0ad", null ],
+    [ "_scheduler", "d0/d32/a23620.html#a76bb6a89f0922ed0bc0289ee4e0f20d4", null ]
 ];

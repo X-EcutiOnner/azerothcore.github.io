@@ -1,9 +1,11 @@
 var a20628 =
 [
-    [ "npc_xt002_scrapbotAI", "d1/dad/a20628.html#a21be97bb49ff06ef090cbbe6f5006f56", null ],
-    [ "JustDied", "d1/dad/a20628.html#adcab192d017e6a9e8d103a6e8b91cb26", null ],
-    [ "MovementInform", "d1/dad/a20628.html#a48fd29d42280ae91852ef2ef0cecc8f6", null ],
-    [ "Reset", "d1/dad/a20628.html#aab71d2a49ee96e88a2858c07c455e78d", null ],
-    [ "UpdateAI", "d1/dad/a20628.html#ae2de6767f8ab502833971e4171d48c13", null ],
-    [ "_locked", "d1/dad/a20628.html#add3bfe992d635629ac7e07e04c4334c9", null ]
+    [ "boss_thorim_ancient_rune_giantAI", "d1/dad/a20628.html#a75df92817fb5eafa28e5d9c33679dcf8", null ],
+    [ "DoAction", "d1/dad/a20628.html#a1ee097badabf5264517bc0e9d9a45051", null ],
+    [ "JustDied", "d1/dad/a20628.html#ac69a6187be136fa53c65a7eb13bf19d4", null ],
+    [ "JustEngagedWith", "d1/dad/a20628.html#acbfd05bbbae2f5b8a6fa2ee8bc440498", null ],
+    [ "Reset", "d1/dad/a20628.html#a280a68af0d6b65bc99bb9b7116b801ad", null ],
+    [ "UpdateAI", "d1/dad/a20628.html#aef980c0fe0c50beca167ea0ef46ff0c7", null ],
+    [ "_isInCombat", "d1/dad/a20628.html#ab015a6dc76067be1d51d3ce67b6a7aff", null ],
+    [ "events", "d1/dad/a20628.html#afff251a2cc56b7ce686a5b58c196c16c", null ]
 ];

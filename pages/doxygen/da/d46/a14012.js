@@ -1,16 +1,12 @@
 var a14012 =
 [
-    [ "boss_renatakiAI", "da/d46/a14012.html#ac154bfadeb99d67f59e1682de257e8bf", null ],
-    [ "CanAIAttack", "da/d46/a14012.html#af20dc14dc56500e568a3a11bfb34a227", null ],
-    [ "CanAlwaysBeDetectable", "da/d46/a14012.html#af75108eacb982586f43a175beede78ef", null ],
-    [ "CanBeSeen", "da/d46/a14012.html#ac79db0d4488702be0cd12b5e03a9bcb9", null ],
-    [ "CanSeeAlways", "da/d46/a14012.html#a6e4a1e9bec67a1bdac4c9cef3da4b17d", null ],
-    [ "DamageTaken", "da/d46/a14012.html#a62d97adb310b55a2235737b854dc4aca", null ],
-    [ "JustEngagedWith", "da/d46/a14012.html#a72e9a85d2215d3da197d50b6aa0b769e", null ],
-    [ "Reset", "da/d46/a14012.html#ad50d8e24fb4168186497c5cdb5b39a68", null ],
-    [ "UpdateAI", "da/d46/a14012.html#a3a1abaef460d9abe1298080080d74c9d", null ],
-    [ "_dynamicFlags", "da/d46/a14012.html#a502bfa737cf97ae909144278a3e39bd0", null ],
-    [ "_enraged", "da/d46/a14012.html#a71e717a2ea732729762aff7970439f74", null ],
-    [ "_thousandBladesCount", "da/d46/a14012.html#a29dd57c66245f30d12f32d31cc25cd55", null ],
-    [ "_thousandBladesTargets", "da/d46/a14012.html#ab8b2b52a2ef8ea6586381234c9a3e3fc", null ]
+    [ "npc_chained_spirit", "da/d46/a14012.html#a5f407e700a2086f971bed0e8c0def0db", null ],
+    [ "DoAction", "da/d46/a14012.html#a7205ef13ca0d164a9222c049bc582254", null ],
+    [ "JustDied", "da/d46/a14012.html#a3b405503231173e7ff7aa52e34f63da5", null ],
+    [ "MovementInform", "da/d46/a14012.html#a469a8fdc4a40857ff1dc0af9ead74d3c", null ],
+    [ "Reset", "da/d46/a14012.html#a2a8a8a429492511aac697878b5dc4cc3", null ],
+    [ "SetGUID", "da/d46/a14012.html#acbe42c0692e8c1d671f2745ff8c2f9bb", null ],
+    [ "UpdateAI", "da/d46/a14012.html#a38d14b69c71bf2902a916028580fbfad", null ],
+    [ "instance", "da/d46/a14012.html#ad5dd92208d6a23954fef6348f4abbd23", null ],
+    [ "revivePlayerGUID", "da/d46/a14012.html#a193fddae1d3eb84bc36842adbb1fe86a", null ]
 ];

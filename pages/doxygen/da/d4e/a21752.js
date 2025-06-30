@@ -1,6 +1,7 @@
 var a21752 =
 [
-    [ "npc_q24545_vegardAI", "d5/df5/a21756.html", "d5/df5/a21756" ],
-    [ "npc_q24545_vegard", "da/d4e/a21752.html#ac12e2f143fab6b93950eaea06f5f7d85", null ],
-    [ "GetAI", "da/d4e/a21752.html#a9a7accfb3eea9f08efbb82fbd4bd7e76", null ]
+    [ "HandleApplyEffect", "da/d4e/a21752.html#aab7bd30368c51a6a209f6cad5a93ba79", null ],
+    [ "HandleRemoveEffect", "da/d4e/a21752.html#a243933fec9ccd650303ea5badbea725b", null ],
+    [ "PrepareAuraScript", "da/d4e/a21752.html#ac0e1fc0694dd51e245340d3658592447", null ],
+    [ "Register", "da/d4e/a21752.html#a0f6e6c6892d56a6fceb927f68c734bde", null ]
 ];

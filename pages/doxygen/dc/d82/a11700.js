@@ -1,9 +1,8 @@
 var a11700 =
 [
-    [ "send_commandscript", "dc/d82/a11700.html#a3aa5d7cc0b5dcd4875e99dfd6f3dbdde", null ],
-    [ "GetCommands", "dc/d82/a11700.html#a2dc60c8c414c9131b4cda1ff82f7beed", null ],
-    [ "HandleSendItemsCommand", "dc/d82/a11700.html#a7ffcd07e0ad08be2eb8a1ebac0fec717", null ],
-    [ "HandleSendMailCommand", "dc/d82/a11700.html#a5ad6f9387c6fb00bf536629c760ba374", null ],
-    [ "HandleSendMessageCommand", "dc/d82/a11700.html#a91017e6171ac9e4dfff6c2036228de47", null ],
-    [ "HandleSendMoneyCommand", "dc/d82/a11700.html#a26938bb54bb3cb678c49737a92cadb56", null ]
+    [ "pet_commandscript", "dc/d82/a11700.html#a84595dcb908398e80deee0b0aa47e335", null ],
+    [ "GetCommands", "dc/d82/a11700.html#a01026a4936774d2225d10e0f6e27b08c", null ],
+    [ "HandlePetCreateCommand", "dc/d82/a11700.html#a993d06169aa0b0c4bbda38e124b6eea9", null ],
+    [ "HandlePetLearnCommand", "dc/d82/a11700.html#a59a2a6bd9af23fe3a775319216337bda", null ],
+    [ "HandlePetUnlearnCommand", "dc/d82/a11700.html#ae6d785cdde773b107ba5e619b039f7b8", null ]
 ];

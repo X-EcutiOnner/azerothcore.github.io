@@ -1,4 +1,5 @@
 var a01175 =
 [
-    [ "ScriptRegistry< FormulaScript >", "d6/df2/a01175.html#a774b8f7659d09535a55ac9bbdcf46025", null ]
+    [ "WorldSessionMgr", "d6/dd8/a11004.html", "d6/dd8/a11004" ],
+    [ "sWorldSessionMgr", "d6/df2/a01175.html#a57dd9797e2282d27210248275f47ab85", null ]
 ];

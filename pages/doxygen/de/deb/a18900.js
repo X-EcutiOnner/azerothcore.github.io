@@ -1,6 +1,7 @@
 var a18900 =
 [
-    [ "NotOnSameSide", "de/deb/a18900.html#ac3189b202a8c0ca4c8f52799ed54e284", null ],
-    [ "operator()", "de/deb/a18900.html#a59ea48b9633049180ec62d3616fe4dea", null ],
-    [ "m_inLiveSide", "de/deb/a18900.html#a77c1d18f54609a5f4da2e9c13f62293d", null ]
+    [ "HandleTriggerSpell", "de/deb/a18900.html#a0e75076c2aed1544c544b976ee9cfbcd", null ],
+    [ "PrepareAuraScript", "de/deb/a18900.html#a6ce4c5c2b6797b38225ac3348aad5892", null ],
+    [ "Register", "de/deb/a18900.html#af87272995f6eeb3bc53cf472f5c3e9d3", null ],
+    [ "Validate", "de/deb/a18900.html#a813bad39641956fff697580f271416d2", null ]
 ];

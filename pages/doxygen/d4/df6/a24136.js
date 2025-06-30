@@ -1,6 +1,6 @@
 var a24136 =
 [
-    [ "npc_illidari_spawnAI", "dc/da2/a24140.html", "dc/da2/a24140" ],
-    [ "npc_illidari_spawn", "d4/df6/a24136.html#ac8dbb30fe7f40d29a3434c8a888ace60", null ],
-    [ "GetAI", "d4/df6/a24136.html#a7198f506b0d4fd55d22fc72a90f42a09", null ]
+    [ "npc_drake_dealer_hurlunk", "d4/df6/a24136.html#ae6d095365d23c30d5b772b047b459ddb", null ],
+    [ "OnGossipHello", "d4/df6/a24136.html#ad04b7f906f029d9935e29c585b0de421", null ],
+    [ "OnGossipSelect", "d4/df6/a24136.html#aa23833dcdefb909899120c25d5376111", null ]
 ];

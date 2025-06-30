@@ -1,7 +1,7 @@
 var a11208 =
 [
-    [ "EffectAuraNameCheck", "d7/d10/a11208.html#a4b10ec0fcb3ffd841cf790574875017d", null ],
-    [ "Check", "d7/d10/a11208.html#a7fff405a99c65d3e846463ca29a8ddfd", null ],
-    [ "ToString", "d7/d10/a11208.html#a602fc1ddafe663e2e5ddceaeaec8b118", null ],
-    [ "effAurName", "d7/d10/a11208.html#abcf90ed5a832b5fe5ce3913a812da05d", null ]
+    [ "CategoryRecoveryTime", "d7/d10/a11208.html#a5a089aa55b5db1f3e3d3fa0ff61bbfdd", null ],
+    [ "RecoveryTime", "d7/d10/a11208.html#ac0e514cfe760baf23f4f05d871e6779a", null ],
+    [ "StartRecoveryCategory", "d7/d10/a11208.html#abb7ca704f04612ddcec3e2e52470ca77", null ],
+    [ "StartRecoveryTime", "d7/d10/a11208.html#a3155069a4ef8d87d4c952f92df2ec42d", null ]
 ];

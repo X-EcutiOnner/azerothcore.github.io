@@ -1,8 +1,5 @@
 var a10016 =
 [
-    [ "Location", "d1/d7c/a10016.html#a0c601d413eeb398eb75d386c264ef5ab", null ],
-    [ "Location", "d1/d7c/a10016.html#ae013ab2bf44bb250644573625bf93265", null ],
-    [ "Location", "d1/d7c/a10016.html#a0d50c28ba40b409a0c5a9776bfe8ef42", null ],
-    [ "Location", "d1/d7c/a10016.html#a1270aec177f47a607cb5a1472819c738", null ],
-    [ "orientation", "d1/d7c/a10016.html#a9fc2637d4441d90c528eaef0f0414b98", null ]
+    [ "Cost", "d1/d7c/a10016.html#a6de1eebdd222f71e874a46e5daa354a4", null ],
+    [ "PathIndex", "d1/d7c/a10016.html#aa5f8bc350f2c5aeac9d5e135c34eb662", null ]
 ];

@@ -1,6 +1,8 @@
 var a15776 =
 [
-    [ "boss_anub_arakAI", "db/d32/a15780.html", "db/d32/a15780" ],
-    [ "boss_anub_arak", "d0/d14/a15776.html#ac2594f561b07069a312ed38c01d9c7da", null ],
-    [ "GetAI", "d0/d14/a15776.html#a8687594354d514b99e026797ee71c70d", null ]
+    [ "HandleScriptEffect", "d0/d14/a15776.html#af3e18fa5befc7124f2a3dbcd36259e6b", null ],
+    [ "Load", "d0/d14/a15776.html#ab293f8b536957558fa8886e1f4a23e74", null ],
+    [ "PrepareSpellScript", "d0/d14/a15776.html#ae4a1abf2e39c6806d804dea9ce5808ef", null ],
+    [ "Register", "d0/d14/a15776.html#a9fb54f0662982dec90c2e6f8568421ed", null ],
+    [ "Validate", "d0/d14/a15776.html#a2bee81d684c4739bb6247bfbdb74a21b", null ]
 ];

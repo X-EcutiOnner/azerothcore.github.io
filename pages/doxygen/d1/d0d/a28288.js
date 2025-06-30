@@ -1,7 +1,10 @@
 var a28288 =
 [
-    [ "ClassMask", "d1/d0d/a28288.html#acae4582c147b5fd95780ae7b55d36fdc", null ],
-    [ "petTalentMask", "d1/d0d/a28288.html#a22ab1cf8ad05e57d91a63e3876ae2b77", null ],
-    [ "tabpage", "d1/d0d/a28288.html#aa6389276582adeb4cae76c257734795c", null ],
-    [ "TalentTabID", "d1/d0d/a28288.html#ae3a71c61223b59185365819164715dc2", null ]
+    [ "attackSpeed", "d1/d0d/a28288.html#ab5242f7367e8799a556176178c72fc88", null ],
+    [ "creatureType", "d1/d0d/a28288.html#a3dff9074b85261932ed8a8a550c5395b", null ],
+    [ "flags1", "d1/d0d/a28288.html#a026745f2ce754d754858d69ee219b518", null ],
+    [ "ID", "d1/d0d/a28288.html#a72853ed36016e05e4cd14a9d89e9d6a8", null ],
+    [ "modelID_A", "d1/d0d/a28288.html#a86dfa61342583d920b7d8496bce4b49d", null ],
+    [ "modelID_H", "d1/d0d/a28288.html#a1ee597d6fd02507b682874929645e01d", null ],
+    [ "stanceSpell", "d1/d0d/a28288.html#a08f54b905e905fb5a59e449f8c613c08", null ]
 ];

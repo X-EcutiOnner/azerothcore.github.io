@@ -1,5 +1,6 @@
 var a15636 =
 [
-    [ "go_elune_fire", "dc/ddc/a15636.html#a84d1b8e5a10e57cf717e10e413cb6027", null ],
-    [ "OnGossipHello", "dc/ddc/a15636.html#a31e3cad89090bb7d2933e8758dbb56c4", null ]
+    [ "HandleDummy", "dc/ddc/a15636.html#a2750ae788168e7496ea2345c5535509c", null ],
+    [ "PrepareSpellScript", "dc/ddc/a15636.html#a66b4187decbfb0b5623ce5630a8fa9d3", null ],
+    [ "Register", "dc/ddc/a15636.html#ab6c961d89d22761402eb4f5881cbd318", null ]
 ];

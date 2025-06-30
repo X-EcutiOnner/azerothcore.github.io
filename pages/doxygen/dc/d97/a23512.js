@@ -1,7 +1,6 @@
 var a23512 =
 [
-    [ "HandleDummyApply", "dc/d97/a23512.html#a8a982bbbda94a2cf981c845161f05bdc", null ],
-    [ "HandleDummyRemove", "dc/d97/a23512.html#a5d68d9e15600119deca7179ffe00acda", null ],
-    [ "PrepareAuraScript", "dc/d97/a23512.html#a34d09e48b69d32dae6c127fa0837be4b", null ],
-    [ "Register", "dc/d97/a23512.html#a094004ccf6b4cae4d27bca639b76b899", null ]
+    [ "HandleScriptEffect", "dc/d97/a23512.html#adf350bccc5862252f6928faa4ae3a001", null ],
+    [ "PrepareSpellScript", "dc/d97/a23512.html#a0d1ff479da3b8f50ed698da9f9029589", null ],
+    [ "Register", "dc/d97/a23512.html#afaf23967ede6e120caa7758ff2d3c974", null ]
 ];

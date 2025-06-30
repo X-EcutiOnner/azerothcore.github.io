@@ -1,7 +1,8 @@
 var a20880 =
 [
-    [ "HandleScriptEffect", "d9/d9a/a20880.html#aae469190c1edc1fe45914bad1dac4e93", null ],
-    [ "PrepareSpellScript", "d9/d9a/a20880.html#a1bced7e9364a1abb7b718b6786eada9f", null ],
-    [ "Register", "d9/d9a/a20880.html#a97265071f226fbd17c37d432cf9e2350", null ],
-    [ "Validate", "d9/d9a/a20880.html#aeec0bdd2e39db2da657247376ddcd195", null ]
+    [ "OnApply", "d9/d9a/a20880.html#a3046fa845b6763c5602ca7b50aefd68f", null ],
+    [ "OnRemove", "d9/d9a/a20880.html#ad3f482f9fff9798cc6e7a06183344742", null ],
+    [ "PrepareAuraScript", "d9/d9a/a20880.html#ab830a7a6c5ed432f8718071345c99b57", null ],
+    [ "Register", "d9/d9a/a20880.html#ac83a8d085d02feec64b6012cacb60dce", null ],
+    [ "Validate", "d9/d9a/a20880.html#a69a3e0a6c06e3c4085bf0ad25e40edf9", null ]
 ];

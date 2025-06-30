@@ -1,6 +1,7 @@
 var a12956 =
 [
-    [ "npc_valkyr_battle_maidenAI", "d0/d81/a12960.html", "d0/d81/a12960" ],
-    [ "npc_valkyr_battle_maiden", "de/daa/a12956.html#a4316dd483b262e637ea39ba9e972744b", null ],
-    [ "GetAI", "de/daa/a12956.html#ab067ea6f5f92039d471708039089e79c", null ]
+    [ "CheckCast", "de/daa/a12956.html#a3fe12c32e49232c2ea80095e62b4f981", null ],
+    [ "HandleScriptEffect", "de/daa/a12956.html#af265f0bba7028f45763a7f9afea2d051", null ],
+    [ "PrepareSpellScript", "de/daa/a12956.html#a27518fd5482e65e0324100057e747d68", null ],
+    [ "Register", "de/daa/a12956.html#a07789d7d092eb1b6633200442466c52b", null ]
 ];

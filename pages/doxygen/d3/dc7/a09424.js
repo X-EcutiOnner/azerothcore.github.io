@@ -1,7 +1,8 @@
 var a09424 =
 [
-    [ "ObjectTypeIdCheck", "d3/dc7/a09424.html#a40af6d4d15e92aaaf2c9bb53ce9bb290", null ],
-    [ "operator()", "d3/dc7/a09424.html#a9cbd09a6021bef7819a0002952264293", null ],
-    [ "_equals", "d3/dc7/a09424.html#ab08a6e18731ccb822a71a1530f6966c3", null ],
-    [ "_typeId", "d3/dc7/a09424.html#a70e9a07e4c2c559bc55b8003db3af3be", null ]
+    [ "MostHPMissingGroupInRange", "d3/dc7/a09424.html#ab7cd80daa30d8a39289c704cc0a2064f", null ],
+    [ "operator()", "d3/dc7/a09424.html#ad1b4a4894dd652237a7a789ef5619f4b", null ],
+    [ "i_hp", "d3/dc7/a09424.html#ae61cafc52cb6d33cd78422c41bd3bb08", null ],
+    [ "i_obj", "d3/dc7/a09424.html#ae0d85f9738301b40c3e950b02ee20026", null ],
+    [ "i_range", "d3/dc7/a09424.html#a712e9b1ff341ccde4a6d6962ba6002a4", null ]
 ];

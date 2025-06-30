@@ -1,17 +1,13 @@
 var a10176 =
 [
-    [ "AllCreatureScript", "d6/d23/a10176.html#ae933414c901fc5d3606fd5c239156f1b", null ],
-    [ "CanCreatureGossipHello", "d6/d23/a10176.html#a2cf3bd5ad27bf97fde905bc69a6dec5e", null ],
-    [ "CanCreatureGossipSelect", "d6/d23/a10176.html#a551633c543dd01e876ee10452b98fb5e", null ],
-    [ "CanCreatureGossipSelectCode", "d6/d23/a10176.html#aa193e968ecc1639ca33fee052dafb0b3", null ],
-    [ "CanCreatureQuestAccept", "d6/d23/a10176.html#af45ef5e7a0a6b3ca6126d5af87753b5c", null ],
-    [ "CanCreatureQuestReward", "d6/d23/a10176.html#a31659a18df4206122a56ce69f3e4809d", null ],
-    [ "Creature_SelectLevel", "d6/d23/a10176.html#a53699365c09e80de805be89545a28968", null ],
-    [ "GetCreatureAI", "d6/d23/a10176.html#a1e568b6f85a8b60a65a987c8d081ca3e", null ],
-    [ "OnAllCreatureUpdate", "d6/d23/a10176.html#abba47678a4f5e73c2db3b27b4cfa3dbe", null ],
-    [ "OnBeforeCreatureSelectLevel", "d6/d23/a10176.html#a136f18625787127115566bb4625fc490", null ],
-    [ "OnCreatureAddWorld", "d6/d23/a10176.html#aa5ba65ba430a95724a814311382c9a67", null ],
-    [ "OnCreatureRemoveWorld", "d6/d23/a10176.html#aba119c6b59f3dd4a489bb227c1b1208d", null ],
-    [ "OnCreatureSaveToDB", "d6/d23/a10176.html#acad4f67abbd5906f38be136be2ae1f53", null ],
-    [ "OnFfaPvpStateUpdate", "d6/d23/a10176.html#a8022ccb5b3d0b6d900512f3d8ea6dbfa", null ]
+    [ "AccountScript", "d6/d23/a10176.html#a3720bf412499a13ba4b41fc5c9f96b7c", null ],
+    [ "CanAccountCreateCharacter", "d6/d23/a10176.html#a6b5b94c1ac64bf8d926928d8401cd533", null ],
+    [ "OnAccountLogin", "d6/d23/a10176.html#afbebc7186ba77b0fefe0a6d32a774601", null ],
+    [ "OnBeforeAccountDelete", "d6/d23/a10176.html#a631f7deca08644da2613142c667618a8", null ],
+    [ "OnEmailChange", "d6/d23/a10176.html#adf20bd20cdc97b91db664dca95f82670", null ],
+    [ "OnFailedAccountLogin", "d6/d23/a10176.html#aae3401d74bdc9e8328a5f084462ae740", null ],
+    [ "OnFailedEmailChange", "d6/d23/a10176.html#a23261a238db9ddd618ebb6a45aaabcbf", null ],
+    [ "OnFailedPasswordChange", "d6/d23/a10176.html#a45d58c0f669f37b24e3dabf0ac4b2423", null ],
+    [ "OnLastIpUpdate", "d6/d23/a10176.html#a3de6453c132bb3d76b6888b87f988d2d", null ],
+    [ "OnPasswordChange", "d6/d23/a10176.html#aefa30b298f52d7c1a44e7648d088c3f0", null ]
 ];

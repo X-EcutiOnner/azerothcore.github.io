@@ -1,10 +1,10 @@
 var a09056 =
 [
-    [ "iterator", "d4/de4/a09056.html#a6bf9d06cfe6cb2e7df465ebf2acc099f", null ],
-    [ "begin", "d4/de4/a09056.html#a1e4e67ba11ac8da077942a6581647bf3", null ],
-    [ "end", "d4/de4/a09056.html#a266acb421cfc6ccc56dc2acff3202971", null ],
-    [ "getFirst", "d4/de4/a09056.html#aa0156c2ad3ec5ca0df6f6a4c55d71a05", null ],
-    [ "getLast", "d4/de4/a09056.html#a46a36813eaf752815a3f8c739db88a5d", null ],
-    [ "rbegin", "d4/de4/a09056.html#ae69734978b5eec009a696861b7b7152b", null ],
-    [ "rend", "d4/de4/a09056.html#a3f7b88b333f1da3a6ffdfc8ec31d8f52", null ]
+    [ "~GridCell", "d4/de4/a09056.html#ab6ca5fbc81f184597445b7aef70bb2ad", null ],
+    [ "AddGridObject", "d4/de4/a09056.html#a22ac43b185d6a34c04fb5a36970d7df2", null ],
+    [ "AddWorldObject", "d4/de4/a09056.html#a039ebb29cf4bd2eeb7fca43eba302542", null ],
+    [ "Visit", "d4/de4/a09056.html#a6409c692a1f6ddfee1b3c2806d161d44", null ],
+    [ "Visit", "d4/de4/a09056.html#a2d13e0178010836f05280c1b5b11ad57", null ],
+    [ "_gridObjects", "d4/de4/a09056.html#a1a3fdbe9e3b937c05f82572d6f757e87", null ],
+    [ "_worldObjects", "d4/de4/a09056.html#a29d0551bee2df852e262846d82e90dba", null ]
 ];

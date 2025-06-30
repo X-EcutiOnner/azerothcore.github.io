@@ -1,9 +1,7 @@
 var a15584 =
 [
-    [ "npc_pluckyAI", "db/d1d/a15584.html#a490198dfcf06b04f7ee9a6a5354dec7e", null ],
-    [ "ReceiveEmote", "db/d1d/a15584.html#a4a4a09d6a462011154a8d871562dcaf5", null ],
-    [ "Reset", "db/d1d/a15584.html#a1a6c4a479bbbfced1ad17f2604bdba32", null ],
-    [ "UpdateAI", "db/d1d/a15584.html#a4775a736e3568940c1b92e0cdae4de4b", null ],
-    [ "NormFaction", "db/d1d/a15584.html#afd9c6fccf4c30b4fbc62bfa951665949", null ],
-    [ "ResetTimer", "db/d1d/a15584.html#ac9808c21666cd17b0603e7e67a61d015", null ]
+    [ "npc_giltharesAI", "db/d1d/a15584.html#af22e42b2180987febd964784b6d49b5e", null ],
+    [ "JustEngagedWith", "db/d1d/a15584.html#ae9ba65652db3d2d32920d1a98594727a", null ],
+    [ "Reset", "db/d1d/a15584.html#a34d57ef71b60fe71c749f790cecf70b2", null ],
+    [ "WaypointReached", "db/d1d/a15584.html#a9308c73760e50e0f3d04031b508526d1", null ]
 ];

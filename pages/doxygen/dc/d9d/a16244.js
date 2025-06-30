@@ -1,6 +1,11 @@
 var a16244 =
 [
-    [ "npc_frost_sphereAI", "d8/ddd/a16248.html", "d8/ddd/a16248" ],
-    [ "npc_frost_sphere", "dc/d9d/a16244.html#a0256ba1c53853307f8b66e22b10bef24", null ],
-    [ "GetAI", "dc/d9d/a16244.html#a3e6de3551306fb4c35aabbd4fc656ee6", null ]
+    [ "npc_toc5_grand_champion_minionAI", "dc/d9d/a16244.html#a06ff16fe0076de4e34ba20e0bbc49009", null ],
+    [ "JustDied", "dc/d9d/a16244.html#a23e5001255c6d49a6b217b9606aa53c5", null ],
+    [ "JustEngagedWith", "dc/d9d/a16244.html#a37a04ac2d6f30e415410f3806abaabb8", null ],
+    [ "Reset", "dc/d9d/a16244.html#ad35a26c28485b1976c55d49fcd32fb19", null ],
+    [ "UpdateAI", "dc/d9d/a16244.html#a2b9fdd3daa725921819ae2acee418d51", null ],
+    [ "events", "dc/d9d/a16244.html#a1b405c2acd53a4e5f1179f52c8c2261b", null ],
+    [ "pInstance", "dc/d9d/a16244.html#a6edd3dc8070edd031143e7a750f4d7a8", null ],
+    [ "ShieldTimer", "dc/d9d/a16244.html#a080916d385f4157afbe4c455033b88ba", null ]
 ];

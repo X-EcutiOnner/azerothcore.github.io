@@ -1,7 +1,10 @@
 var a17140 =
 [
-    [ "HandlePeriodic", "d3/d45/a17140.html#a2087e4de62f7aabb72315e92c28c7bd6", null ],
-    [ "PrepareAuraScript", "d3/d45/a17140.html#ab71db011b1cc1f3a2e85cd6b6f115242", null ],
-    [ "Register", "d3/d45/a17140.html#ad8a16d599a11fa4409d132f66e37e04e", null ],
-    [ "Validate", "d3/d45/a17140.html#afe821a7eb4eaf959d803c7c846f3bdf0", null ]
+    [ "boss_eckAI", "d3/d45/a17140.html#a9de9ad13286c625241242a72c8c3ef2b", null ],
+    [ "InitializeAI", "d3/d45/a17140.html#a37ed08383c43c53ea5a46ad8e03adb35", null ],
+    [ "JustDied", "d3/d45/a17140.html#afa625b388a7495e7f83ea3149ad2020c", null ],
+    [ "JustEngagedWith", "d3/d45/a17140.html#a393630157bb1b9d80a19b2da3bf0b377", null ],
+    [ "MovementInform", "d3/d45/a17140.html#a4826dee262817fbdfa38bcf17f5723da", null ],
+    [ "Reset", "d3/d45/a17140.html#afc33618907cb06591cc57751dfc14ca5", null ],
+    [ "UpdateAI", "d3/d45/a17140.html#a697ceea1e138d484d80b39c80078de58", null ]
 ];

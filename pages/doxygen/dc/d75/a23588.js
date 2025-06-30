@@ -1,6 +1,6 @@
 var a23588 =
 [
-    [ "instance_shattered_halls_InstanceMapScript", "d6/d65/a23592.html", "d6/d65/a23592" ],
-    [ "instance_shattered_halls", "dc/d75/a23588.html#a9d0d3b6baec34c679151791610cff3a7", null ],
-    [ "GetInstanceScript", "dc/d75/a23588.html#a82388466811b022a725ba721845cadf3", null ]
+    [ "HandleEffect", "dc/d75/a23588.html#a47c4b4da3b06d063fd2a6a612cea29da", null ],
+    [ "PrepareSpellScript", "dc/d75/a23588.html#a37ef368735fa2879871bc3ce8a52c8b1", null ],
+    [ "Register", "dc/d75/a23588.html#abc6d5b845d9b76ed7abdf4132640824e", null ]
 ];

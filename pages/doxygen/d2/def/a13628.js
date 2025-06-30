@@ -1,6 +1,5 @@
 var a13628 =
 [
-    [ "boss_blight_wormAI", "d1/de1/a13632.html", "d1/de1/a13632" ],
-    [ "boss_blight_worm", "d2/def/a13628.html#a6dea51baebc6b44ef94342565136e56d", null ],
-    [ "GetAI", "d2/def/a13628.html#a1cb9043482e9b3c3eff3fd75057a2fb2", null ]
+    [ "npc_king_varian_wrynn", "d2/def/a13628.html#a33b7c492a7435b3f80e508be9e3440e9", null ],
+    [ "OnQuestReward", "d2/def/a13628.html#a1255cca95a7a2b039702b30db377a19f", null ]
 ];

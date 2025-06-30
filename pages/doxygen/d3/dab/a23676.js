@@ -1,6 +1,6 @@
 var a23676 =
 [
-    [ "instance_the_botanica_InstanceMapScript", "d8/da2/a23680.html", "d8/da2/a23680" ],
-    [ "instance_the_botanica", "d3/dab/a23676.html#a8f8acda65f37e45e2439707f3979cf7c", null ],
-    [ "GetInstanceScript", "d3/dab/a23676.html#a335f671443ca0fb9db5956cefdf37182", null ]
+    [ "instance_arcatraz_InstanceMapScript", "d8/da2/a23680.html", "d8/da2/a23680" ],
+    [ "instance_arcatraz", "d3/dab/a23676.html#a6fc8860651573353b54fd26bddea32aa", null ],
+    [ "GetInstanceScript", "d3/dab/a23676.html#ad3f78e41ef2c96443ed3bd1ba4ab55bb", null ]
 ];

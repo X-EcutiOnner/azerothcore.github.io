@@ -1,13 +1,14 @@
 var a21044 =
 [
-    [ "npc_ravenous_furbolgAI", "d6/d5b/a21044.html#a3e2a0cac8a02d2d6105b06b5c21f1628", null ],
-    [ "DoAction", "d6/d5b/a21044.html#a837b442d7812b0c5708995d35c0d45f6", null ],
-    [ "JustDied", "d6/d5b/a21044.html#a03e5dd969fcc2e3dcebc714247e18bf2", null ],
-    [ "JustEngagedWith", "d6/d5b/a21044.html#a003eb350a11f3f5c2355a58958633f36", null ],
-    [ "JustReachedHome", "d6/d5b/a21044.html#a09fc5ba4680c1e5a7a49a81c50cee540", null ],
-    [ "MoveInLineOfSight", "d6/d5b/a21044.html#a0b4db9708b9b0288ddb1be2f2205e03a", null ],
-    [ "Reset", "d6/d5b/a21044.html#aca5ae47050590ec22e6e929f44e09276", null ],
-    [ "UpdateAI", "d6/d5b/a21044.html#ad044c04381a8d61a8fefc55129453ddf", null ],
-    [ "events", "d6/d5b/a21044.html#a8bf068c63d7ae10c6edf0af3aab1a6c3", null ],
-    [ "m_pInstance", "d6/d5b/a21044.html#aeb0a7644ada4d44e649b4ae45e0d2dc2", null ]
+    [ "boss_dalronn_the_controller", "d6/d5b/a21044.html#a57718e928fa273bba3c40a05d5888a3d", null ],
+    [ "DoAction", "d6/d5b/a21044.html#ad11e43d40a61f093b5e51482437467b8", null ],
+    [ "JustDied", "d6/d5b/a21044.html#a28a669b56392b599e124573778e33134", null ],
+    [ "JustEngagedWith", "d6/d5b/a21044.html#aad89cfa81c69058adc633e85ded5b4e3", null ],
+    [ "JustSummoned", "d6/d5b/a21044.html#a1d419cec78a9a8d6ceee3651c8054762", null ],
+    [ "KilledUnit", "d6/d5b/a21044.html#a96a173e30ad81c77217b0693d1d15839", null ],
+    [ "Reset", "d6/d5b/a21044.html#a452f1bd3428cc0f4b4413d253c5f29e7", null ],
+    [ "UpdateAI", "d6/d5b/a21044.html#a1c3e44fe347e9c1ec45db19865bb5110", null ],
+    [ "events", "d6/d5b/a21044.html#a44c463df3aeb8010fa1a1cc5de82b9f1", null ],
+    [ "pInstance", "d6/d5b/a21044.html#a53e17abc63ce51830c1bcd5bd47f2a95", null ],
+    [ "summons", "d6/d5b/a21044.html#ac2845d24aa036372cd0084d2b5e8090b", null ]
 ];

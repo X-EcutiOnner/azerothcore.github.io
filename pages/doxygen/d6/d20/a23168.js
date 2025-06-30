@@ -1,6 +1,5 @@
 var a23168 =
 [
-    [ "HandleApplyAura", "d6/d20/a23168.html#a4fde347d339f08cd01e2a47883d4b988", null ],
-    [ "PrepareSpellScript", "d6/d20/a23168.html#ab22bd56638a6adc8d111250780221cb9", null ],
-    [ "Register", "d6/d20/a23168.html#a1dd967ad59159faf694b8e0bfcd369ac", null ]
+    [ "go_strange_pool", "d6/d20/a23168.html#aa44feb353ad1cb440e5b6707112af680", null ],
+    [ "OnGossipHello", "d6/d20/a23168.html#a5a2ee56e277b062e6b4757cb8b8b09a0", null ]
 ];

@@ -1,11 +1,10 @@
 var a14176 =
 [
-    [ "npc_winterfin_playmate", "d7/df4/a14176.html#a9c07fb9115c21ba5c3ef7459662e8f38", null ],
-    [ "MoveInLineOfSight", "d7/df4/a14176.html#a7e8640e3bfe0a8f960ce22a2daf136a4", null ],
-    [ "Reset", "d7/df4/a14176.html#aae6b51c22dc0448608c1cf9412565e25", null ],
-    [ "UpdateAI", "d7/df4/a14176.html#a8e04dc18ee8a6d9412cd574994908eb6", null ],
-    [ "orphanGUID", "d7/df4/a14176.html#a9189bf7b93e7c46e559c22f3504f919f", null ],
-    [ "phase", "d7/df4/a14176.html#a0a1051dc971ef393843bd1ba655a2e1b", null ],
-    [ "playerGUID", "d7/df4/a14176.html#a142fe7a438ee22384f682f26ff4a9f9c", null ],
-    [ "timer", "d7/df4/a14176.html#abf4b5f3e16f32a3385b71ef002c5ee64", null ]
+    [ "npc_coren_direbrew_sisters", "d7/df4/a14176.html#a415ea0ebd044236f5f4c4d6c28896e00", null ],
+    [ "GetGUID", "d7/df4/a14176.html#a61863117e71ebfb7f1c4c83780ece7bc", null ],
+    [ "JustEngagedWith", "d7/df4/a14176.html#a34e0b6af032240c152c463c221d99335", null ],
+    [ "SetGUID", "d7/df4/a14176.html#ada2e446a929bbba088d3c7e09d117f93", null ],
+    [ "UpdateAI", "d7/df4/a14176.html#a7434b08d12d3f0902d1944b75323560c", null ],
+    [ "_scheduler", "d7/df4/a14176.html#a9d8ca85e7bbd3cc9c61c2bbb38b7d222", null ],
+    [ "_targetGUID", "d7/df4/a14176.html#a801a6811124a7db3a31ec492ef954b20", null ]
 ];

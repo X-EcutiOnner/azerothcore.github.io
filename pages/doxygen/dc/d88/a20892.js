@@ -1,6 +1,7 @@
 var a20892 =
 [
-    [ "HandleScript", "dc/d88/a20892.html#ac7fc87a7585c866aa3fa1001c803bb00", null ],
-    [ "PrepareSpellScript", "dc/d88/a20892.html#ab2a4155f6029850c61e84d7c180addae", null ],
-    [ "Register", "dc/d88/a20892.html#a7e03062d9e28ed1917b7aa63d65f22ba", null ]
+    [ "OnApply", "dc/d88/a20892.html#a7dd5b6217db77373dfba5958a2376ff1", null ],
+    [ "OnRemove", "dc/d88/a20892.html#a39510971a0e1dbd800efc37c2e09c74f", null ],
+    [ "PrepareAuraScript", "dc/d88/a20892.html#a35c1e8f81229565e5d333ec42aa2e92c", null ],
+    [ "Register", "dc/d88/a20892.html#a27fdfe00e5201b6472a282f4589a66cc", null ]
 ];

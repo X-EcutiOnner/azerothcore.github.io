@@ -1,10 +1,9 @@
 var a10368 =
 [
-    [ "WorldObjectScript", "d4/d9d/a10368.html#af044c3699a591c137abc5e03c772890b", null ],
-    [ "IsDatabaseBound", "d4/d9d/a10368.html#a48f037dd6152ff68ebef672de68df45e", null ],
-    [ "OnWorldObjectCreate", "d4/d9d/a10368.html#a2b32bc661e5a377de98902f3bc16679b", null ],
-    [ "OnWorldObjectDestroy", "d4/d9d/a10368.html#a7856d4b561cd99a7f405f86fffd57fef", null ],
-    [ "OnWorldObjectResetMap", "d4/d9d/a10368.html#a32e6b907a20d84377e1ddfce79b5cfe1", null ],
-    [ "OnWorldObjectSetMap", "d4/d9d/a10368.html#a12cf83d65dded66b41ca54a3c1bd31cb", null ],
-    [ "OnWorldObjectUpdate", "d4/d9d/a10368.html#abc139d1aa728f8a70886eed65d28f566", null ]
+    [ "TransportScript", "d4/d9d/a10368.html#a4b83123b122fa98831d304670a3de50a", null ],
+    [ "IsDatabaseBound", "d4/d9d/a10368.html#a956f0d757e5d974566fa8fac0df731e5", null ],
+    [ "OnAddCreaturePassenger", "d4/d9d/a10368.html#a5afb1f1dca2264089238ddd68b38a86d", null ],
+    [ "OnAddPassenger", "d4/d9d/a10368.html#a806f4829b47429900271f6dde7eaa625", null ],
+    [ "OnRelocate", "d4/d9d/a10368.html#a10334c1929c80fc80c76791cbd52f6dd", null ],
+    [ "OnRemovePassenger", "d4/d9d/a10368.html#a6d6a3af4fcde46101b78cfdb787a2248", null ]
 ];

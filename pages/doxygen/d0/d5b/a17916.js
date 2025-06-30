@@ -1,7 +1,6 @@
 var a17916 =
 [
-    [ "FrostwyrmLandEvent", "d0/d5b/a17916.html#a6b6a467c474a5b03be40e4d9a86eddc8", null ],
-    [ "Execute", "d0/d5b/a17916.html#a4da77796a223e6233ac6d908f7700623", null ],
-    [ "_dest", "d0/d5b/a17916.html#a7f5b4c41c459b65e30dea66f7459a7e9", null ],
-    [ "_owner", "d0/d5b/a17916.html#a6336050092606ebb27a180abff55dfa2", null ]
+    [ "npc_big_oozeAI", "d0/d49/a17920.html", "d0/d49/a17920" ],
+    [ "npc_big_ooze", "d0/d5b/a17916.html#a8ae667b2782c53cd808f2e02e29713ee", null ],
+    [ "GetAI", "d0/d5b/a17916.html#ad06308602d69b51ff3f269bda6c465b5", null ]
 ];

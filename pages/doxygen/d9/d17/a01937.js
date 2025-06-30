@@ -1,4 +1,4 @@
 var a01937 =
 [
-    [ "ScriptRegistry< ModuleScript >", "d9/d17/a01937.html#a7749cbcc2b6820dc30c515ebb6cefe36", null ]
+    [ "ScriptRegistry< AchievementCriteriaScript >", "d9/d17/a01937.html#a691565a1335cabfa534300dece8e65e8", null ]
 ];

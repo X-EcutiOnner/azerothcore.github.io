@@ -1,6 +1,7 @@
 var a18280 =
 [
-    [ "npc_spirit_wardenAI", "d9/d68/a18284.html", "d9/d68/a18284" ],
-    [ "npc_spirit_warden", "d3/d41/a18280.html#ab585d20eadb7876752d731702db44293", null ],
-    [ "GetAI", "d3/d41/a18280.html#ab33ab494d7fee64eed7c75464ce60489", null ]
+    [ "PrepareSpellScript", "d3/d41/a18280.html#a3283e829757b50bb52f66ee1e64033ae", null ],
+    [ "Register", "d3/d41/a18280.html#a0162c92c32210f2873686610f4f00b87", null ],
+    [ "TriggerHeal", "d3/d41/a18280.html#a3cdfca33a535bad0942beea24aefa1bb", null ],
+    [ "Validate", "d3/d41/a18280.html#a6545fe9f40c0aed036192008a2d6e28e", null ]
 ];

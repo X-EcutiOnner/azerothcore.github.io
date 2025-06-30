@@ -1,6 +1,8 @@
 var a18372 =
 [
-    [ "npc_the_lich_king_controllerAI", "dd/de2/a18376.html", "dd/de2/a18376" ],
-    [ "npc_the_lich_king_controller", "dd/da3/a18372.html#a32b14d699737497ba7c90d8ef17557d7", null ],
-    [ "GetAI", "dd/da3/a18372.html#ae9b6dacb0f4e8e6f12f187ab0dfd2165", null ]
+    [ "npc_lk_wicked_spiritAI", "dd/da3/a18372.html#a6323ddd6c0932f3d73a6de4bd3c4d5dd", null ],
+    [ "CanAIAttack", "dd/da3/a18372.html#ae094420b1a6e134632baa0b086c806c6", null ],
+    [ "JustDied", "dd/da3/a18372.html#adf153fab1c8639b2b5790ed418afb85d", null ],
+    [ "JustRespawned", "dd/da3/a18372.html#a1acfbead42b66dd8f70a85efc8ce2e6f", null ],
+    [ "Reset", "dd/da3/a18372.html#a8b15079251b6855679d738a342126006", null ]
 ];

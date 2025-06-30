@@ -1,6 +1,6 @@
 var a07748 =
 [
-    [ "value_type", "d7/dc7/a07748.html#abd675e353289166cc5c92524915d46af", null ],
-    [ "StoreTo", "d7/dc7/a07748.html#a9fa4a3c03be31b6f6c3c8996c5a7bf6f", null ],
-    [ "tag", "d7/dc7/a07748.html#a102ade7c095fcac914b95708958352f1", null ]
+    [ "Rank", "d7/dc7/a07748.html#abd26e25c76d5344dfdd94547b2f310d4", null ],
+    [ "Spell", "d7/dc7/a07748.html#a0cb15c7c1e640b5a6acc8f8d94e6c719", null ],
+    [ "Talent", "d7/dc7/a07748.html#ae39546dc8db233709131b388a3868c1a", null ]
 ];

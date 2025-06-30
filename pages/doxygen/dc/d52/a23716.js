@@ -1,6 +1,6 @@
 var a23716 =
 [
-    [ "AfterRemove", "dc/d52/a23716.html#a1794dcf8ebca0bd0c4fce5acb8b45de0", null ],
-    [ "PrepareAuraScript", "dc/d52/a23716.html#ad5871ce865820456177362c6b790778f", null ],
-    [ "Register", "dc/d52/a23716.html#a41e19fb2509051bbd2d9e43c59f16486", null ]
+    [ "instance_the_botanica_InstanceMapScript", "d6/dea/a23720.html", "d6/dea/a23720" ],
+    [ "instance_the_botanica", "dc/d52/a23716.html#a8f8acda65f37e45e2439707f3979cf7c", null ],
+    [ "GetInstanceScript", "dc/d52/a23716.html#a335f671443ca0fb9db5956cefdf37182", null ]
 ];

@@ -1,11 +1,6 @@
 var a14584 =
 [
-    [ "npc_hyjal_ground_trash", "df/dec/a14584.html#a06b590bf9ef983b1ef2b94058144fc7d", null ],
-    [ "AttackStart", "df/dec/a14584.html#a0ab86d651644dcc579585176c2b5c07e", null ],
-    [ "DoAction", "df/dec/a14584.html#aa92481bcf993c4eda5ef271145200d77", null ],
-    [ "GetNearbyFriendlyTrashCreature", "df/dec/a14584.html#ad94fe6d4dca64fa8eec183481f82bb39", null ],
-    [ "JustEngagedWith", "df/dec/a14584.html#a576b909d65ae862af5dcc6500d2ff7e1", null ],
-    [ "PathEndReached", "df/dec/a14584.html#a035610284a56e690200f978b0fd496ab", null ],
-    [ "Reset", "df/dec/a14584.html#aa38b45f63841c049a2add0a9832268ef", null ],
-    [ "UpdateAI", "df/dec/a14584.html#a91b3ee049bf199271618afd3ad0c5f77", null ]
+    [ "OnRemove", "df/dec/a14584.html#af9da33426d8ea4462f7d9957c4312019", null ],
+    [ "PrepareAuraScript", "df/dec/a14584.html#a594f2b65fdbe30f3d52e608f9b7c9731", null ],
+    [ "Register", "df/dec/a14584.html#a4b04c70fd9c55d20261d9d256ea0966f", null ]
 ];

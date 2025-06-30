@@ -1,7 +1,7 @@
 var a23276 =
 [
-    [ "boss_hydromancer_thespia", "d2/d16/a23276.html#a5747c2da9914dcf4118ee0fb37a3a3fd", null ],
-    [ "JustDied", "d2/d16/a23276.html#ad0662daabd636bbf544a6791187d71fa", null ],
-    [ "JustEngagedWith", "d2/d16/a23276.html#af230e57ec259e5c92c4034a674d1b6a5", null ],
-    [ "KilledUnit", "d2/d16/a23276.html#ae1bb4819867ef5718cb5d9130d62fa20", null ]
+    [ "HandleScriptEffect", "d2/d16/a23276.html#ad5e905710a20436f120c979c865571c9", null ],
+    [ "PrepareSpellScript", "d2/d16/a23276.html#ab44aa98f47162b50f30622d67ac75395", null ],
+    [ "Register", "d2/d16/a23276.html#ad4c2bf1a8556b6fb85c05d3c83494fed", null ],
+    [ "Validate", "d2/d16/a23276.html#a9b1baeb7a677d5b0f72bbeeeab9a94a2", null ]
 ];

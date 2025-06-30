@@ -1,6 +1,7 @@
 var a12168 =
 [
-    [ "go_chromaggus_leverAI", "d8/dff/a12168.html#a51406a7e313702282cebfbf067c9ce4e", null ],
-    [ "GossipHello", "d8/dff/a12168.html#a44ece597fcfcf290234cc1ef073fbf18", null ],
-    [ "_instance", "d8/dff/a12168.html#a364f66c7cf0a7bc4a3ea97b87ebe9f90", null ]
+    [ "go_suppression_deviceAI", "d0/daa/a12172.html", "d0/daa/a12172" ],
+    [ "go_suppression_device", "d8/dff/a12168.html#a900713d6b029015f8868a96e5e1b9018", null ],
+    [ "GetAI", "d8/dff/a12168.html#aa51bb6f9616022c1f4e1e711ca1130e8", null ],
+    [ "OnLootStateChanged", "d8/dff/a12168.html#a684546c3ce0c0785d52a87eb011ef313", null ]
 ];

@@ -1,7 +1,6 @@
 var a27656 =
 [
-    [ "OnRemove", "dd/dcc/a27656.html#a1f4f852ef6d5b2313df20af540eee7da", null ],
-    [ "PrepareAuraScript", "dd/dcc/a27656.html#a8abf8084dd8bb1ac74b3884380cda809", null ],
-    [ "Register", "dd/dcc/a27656.html#a35a8adc4944fc2333488e72498f6d252", null ],
-    [ "Validate", "dd/dcc/a27656.html#aa312f28f03cc0929eb9ea8ba526ebb54", null ]
+    [ "X", "dd/dcc/a27656.html#a55bda49b2eb919415afaf780ca1977de", null ],
+    [ "Y", "dd/dcc/a27656.html#a0bf22799258050a9b12ddc14bb2b4b11", null ],
+    [ "Z", "dd/dcc/a27656.html#a7f0ceece775146d825d19a3cd22e5da3", null ]
 ];

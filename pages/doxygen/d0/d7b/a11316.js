@@ -1,6 +1,6 @@
 var a11316 =
 [
-    [ "EffectProcHandler", "d0/d7b/a11316.html#a613d5e85c3a7449e4f31719966dcdcc1", null ],
-    [ "Call", "d0/d7b/a11316.html#ae03d27451f687319629b3c54c5a7eed5", null ],
-    [ "_EffectHandlerScript", "d0/d7b/a11316.html#a8cb9ec4cfee59bc44063ac5cbf25844f", null ]
+    [ "EffectManaShieldHandler", "d0/d7b/a11316.html#a234fb0f6749072f9cc6310f80b3b9583", null ],
+    [ "Call", "d0/d7b/a11316.html#a30ac72ee0a22ac3e71bcb2eeda903dbc", null ],
+    [ "pEffectHandlerScript", "d0/d7b/a11316.html#a1aec2af2a69a90b8038d612d9ebddc2b", null ]
 ];

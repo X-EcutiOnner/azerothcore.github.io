@@ -1,14 +1,14 @@
 var a09912 =
 [
-    [ "EscortMovementGenerator", "d8/d97/a09912.html#a9d653e50662103f5f6661da5226ae99e", null ],
-    [ "DoFinalize", "d8/d97/a09912.html#a4c191a86f5ecc30ae5b34d7578d58d3e", null ],
-    [ "DoInitialize", "d8/d97/a09912.html#ad068798c6e186c1eb1a79f3872955e97", null ],
-    [ "DoReset", "d8/d97/a09912.html#ac4934d70ab62e08488cfc29c13355a7f", null ],
-    [ "DoUpdate", "d8/d97/a09912.html#a524bb8f72836dc5d1b63e429436b3a77", null ],
-    [ "GetMovementGeneratorType", "d8/d97/a09912.html#a0733162a5a0cab2593150f288edeb27b", null ],
-    [ "GetSplineId", "d8/d97/a09912.html#a61d74b098d1ae692ce305fa493aaa6d2", null ],
-    [ "unitSpeedChanged", "d8/d97/a09912.html#a235e330c4c3368af00d37028915684ff", null ],
-    [ "_splineId", "d8/d97/a09912.html#af6286fa4ed6afcc8a6c5f03575c774e6", null ],
-    [ "i_recalculateSpeed", "d8/d97/a09912.html#a9f7048c5e49cc09f809496312a0c6550", null ],
-    [ "m_precomputedPath", "d8/d97/a09912.html#a46eb2812a1b2a56e584b925cae2169eb", null ]
+    [ "~MovementGenerator", "d8/d97/a09912.html#a13c3c432ac2a91dd4d07b090ec06b903", null ],
+    [ "Finalize", "d8/d97/a09912.html#aef4cf800aa06dddac4efd36e3c058d2b", null ],
+    [ "GetMovementGeneratorType", "d8/d97/a09912.html#a60bac341b438ea7258986f234a952324", null ],
+    [ "GetResetPosition", "d8/d97/a09912.html#a60ac9e99f41d1f5c320441cf78b4b46a", null ],
+    [ "GetSplineId", "d8/d97/a09912.html#a99865a1b7cf84b02784bfa8df958585f", null ],
+    [ "Initialize", "d8/d97/a09912.html#a0040e427ac4a09273641a96a13fd4c1f", null ],
+    [ "Pause", "d8/d97/a09912.html#a37530e5cd743faecabd21eba08dce939", null ],
+    [ "Reset", "d8/d97/a09912.html#aa6641fa1182551421fc8572afad8e083", null ],
+    [ "Resume", "d8/d97/a09912.html#a51988a8b0a45459242467e38ca46303c", null ],
+    [ "unitSpeedChanged", "d8/d97/a09912.html#a0f9c4fd52947688dcda1161924e829bb", null ],
+    [ "Update", "d8/d97/a09912.html#ae3014d8c6e728799c86134ef64737ed5", null ]
 ];

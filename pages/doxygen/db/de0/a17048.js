@@ -1,6 +1,6 @@
 var a17048 =
 [
-    [ "entry", "db/de0/a17048.html#af2cf5df64adf9ac1575a8217b103e738", null ],
-    [ "x", "db/de0/a17048.html#aad21475d521921ea30cc0ae5d260ce69", null ],
-    [ "y", "db/de0/a17048.html#abd69e1c28ad36466c82807ea0ffb0fb7", null ]
+    [ "npc_pos_freed_slaveAI", "db/de0/a17048.html#ad5728e427f9f4a65cea13ec2c5a01453", null ],
+    [ "CanAIAttack", "db/de0/a17048.html#a76818ee5fcfcc5678fa9d0957a424d9b", null ],
+    [ "EnterEvadeMode", "db/de0/a17048.html#a234135e6bea0d91611fbdbae4dec2ea1", null ]
 ];

@@ -1,6 +1,7 @@
 var a17024 =
 [
-    [ "HandleDummy", "d3/d71/a17024.html#a5b56eabdba4e6c9e23fe5a40b20417fe", null ],
-    [ "PrepareSpellScript", "d3/d71/a17024.html#a6c53fed364a1a31cd170102d4d6878b1", null ],
-    [ "Register", "d3/d71/a17024.html#ac49eaa96ebb95a38f54a9bb6321f5585", null ]
+    [ "npc_pos_icicle_triggerAI", "d3/d71/a17024.html#a28477c5f88b5ec77dc3e021ec01401ce", null ],
+    [ "UpdateAI", "d3/d71/a17024.html#a32d9b6bd2f0b994adb33e2bd99dd34ce", null ],
+    [ "pInstance", "d3/d71/a17024.html#ad4ed0e2380c62cc6dd7d309edfd34ac1", null ],
+    [ "timer", "d3/d71/a17024.html#a91277c41ddebffed7e9dac7098cd78bd", null ]
 ];

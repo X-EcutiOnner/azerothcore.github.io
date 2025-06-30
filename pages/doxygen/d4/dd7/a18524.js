@@ -1,13 +1,7 @@
 var a18524 =
 [
-    [ "boss_sister_svalnaAI", "d4/dd7/a18524.html#a8ffe7c40e6de53455caa86e1487c1234", null ],
-    [ "DoAction", "d4/dd7/a18524.html#a43c5be9641399b1fec35ef9b34d4fa7b", null ],
-    [ "JustDied", "d4/dd7/a18524.html#ab397adda97c8b21e9a53edccdadb8760", null ],
-    [ "JustEngagedWith", "d4/dd7/a18524.html#af930733e0f143c7fd0f214043b7fa9ef", null ],
-    [ "KilledUnit", "d4/dd7/a18524.html#a95c259d62cd4aab4a0b8a38ba98feb7a", null ],
-    [ "MovementInform", "d4/dd7/a18524.html#a4f1da0ead975b554704f4a068b1edb1d", null ],
-    [ "Reset", "d4/dd7/a18524.html#a4ba1ac914a7ae5c3b229d648b8fac9ee", null ],
-    [ "SpellHit", "d4/dd7/a18524.html#a9b5533f2f3a985f42bac098cc08e4cd1", null ],
-    [ "SpellHitTarget", "d4/dd7/a18524.html#a5236b715548c9c1b310a3227f8bf2bc8", null ],
-    [ "UpdateAI", "d4/dd7/a18524.html#a87e4f558db85e2c1ec192d35bde1eb8a", null ]
+    [ "FrostwingVrykulSearcher", "d4/dd7/a18524.html#a10aa54184b42a0538dc4f325204399e9", null ],
+    [ "operator()", "d4/dd7/a18524.html#afbf32ce600cee12930fefcf9b5e87f16", null ],
+    [ "_range", "d4/dd7/a18524.html#a04b2913aae7fbf6547a960d0876d4d02", null ],
+    [ "_source", "d4/dd7/a18524.html#af5d3c93f41698e71c867336d0453d40a", null ]
 ];

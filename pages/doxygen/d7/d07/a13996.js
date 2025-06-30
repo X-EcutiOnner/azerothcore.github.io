@@ -1,6 +1,6 @@
 var a13996 =
 [
-    [ "HandleObjectAreaTargetSelect", "d7/d07/a13996.html#aa7695bddd766d5adefb04710d41894f6", null ],
-    [ "PrepareSpellScript", "d7/d07/a13996.html#a77ba184428cfbb8ec3cc4670f78741e0", null ],
-    [ "Register", "d7/d07/a13996.html#adbc2f1c4ec64b95ec72c82f36f12d928", null ]
+    [ "boss_mandokirAI", "de/d48/a14000.html", "de/d48/a14000" ],
+    [ "boss_mandokir", "d7/d07/a13996.html#aad13c8302cef7fb4981f0d2178630def", null ],
+    [ "GetAI", "d7/d07/a13996.html#a215842d5ab23824ec20db64e2fa4407e", null ]
 ];

@@ -1,6 +1,6 @@
 var a23776 =
 [
-    [ "HandleScriptEffect", "d3/d51/a23776.html#a32c5e4743adeb3085a6eac062b8f6226", null ],
-    [ "PrepareSpellScript", "d3/d51/a23776.html#a0c51d5a108d8225387ce8a149a0a0c86", null ],
-    [ "Register", "d3/d51/a23776.html#a4b940caf98f1164be5e2f4e748811fc6", null ]
+    [ "npc_capernian", "d3/d51/a23776.html#a0acb568664c777797eeb7104f454699d", null ],
+    [ "AttackStart", "d3/d51/a23776.html#a81e89eacbae30a1229fda5e9fe924e2b", null ],
+    [ "ScheduleEvents", "d3/d51/a23776.html#a6bd26f5584a1c960b84b574abd723ad1", null ]
 ];

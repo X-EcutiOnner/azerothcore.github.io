@@ -1,8 +1,8 @@
 var a09248 =
 [
-    [ "PlayerWorker", "d2/de1/a09248.html#ac7c16ec87b533b7b58b768cac116d7a2", null ],
-    [ "Visit", "d2/de1/a09248.html#a018b799be67c284d6ed5c7a368ef1985", null ],
-    [ "Visit", "d2/de1/a09248.html#a19c56b5bde9e57ea0152a89ac05e292b", null ],
-    [ "i_do", "d2/de1/a09248.html#ae09b42f770e895b1c283ea7ca7527b7a", null ],
-    [ "i_phaseMask", "d2/de1/a09248.html#aa23944bde7aa8e3a77f33b0a93f92c57", null ]
+    [ "CreatureWorker", "d2/de1/a09248.html#a4b4dc219d034565cd83748c5f1cab2a5", null ],
+    [ "Visit", "d2/de1/a09248.html#ae67044250380c521055f80c55de0bba5", null ],
+    [ "Visit", "d2/de1/a09248.html#aa9a450b147aafe46a49135f5c5be668e", null ],
+    [ "i_do", "d2/de1/a09248.html#ac22f86d9a41701e7527d4840da256f11", null ],
+    [ "i_phaseMask", "d2/de1/a09248.html#adf514c89c894cdf2b44fc75d14c4f5b0", null ]
 ];

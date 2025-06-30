@@ -1,11 +1,10 @@
 var a15344 =
 [
-    [ "npc_troll_volunteerAI", "d9/dbd/a15344.html#a7eb0c508122616a6781c8b23210e4062", null ],
-    [ "GetMountId", "d9/dbd/a15344.html#a5edc586ded0a1146bb1bd82ca14062cc", null ],
-    [ "InitializeAI", "d9/dbd/a15344.html#a1c758c7601624e0620778e13e8ec60a0", null ],
-    [ "MovementInform", "d9/dbd/a15344.html#aa1d34a4f3701354899ebdd9b38670b31", null ],
-    [ "Reset", "d9/dbd/a15344.html#a31439533de41c2a459af2b4d3af76139", null ],
-    [ "SpellHit", "d9/dbd/a15344.html#a0604cdade2ce4da23915ca1fc4a4f475", null ],
-    [ "_complete", "d9/dbd/a15344.html#ac7e1cc5f0e4f675d6aad0f6e9b449c15", null ],
-    [ "_mountModel", "d9/dbd/a15344.html#ae226345bd324b9c337dc96570117d82b", null ]
+    [ "npc_rabid_thistle_bearAI", "d9/dbd/a15344.html#a7fb4b6e26dd2fe66fb3e444c260999a6", null ],
+    [ "Initialize", "d9/dbd/a15344.html#a466ec20c65535777c60b5c4aac4e45bd", null ],
+    [ "Reset", "d9/dbd/a15344.html#aedc6834fef78ad7a0e5ab99bb844ace1", null ],
+    [ "SpellHit", "d9/dbd/a15344.html#a62bde5a122748564cc806046bf9dcbaa", null ],
+    [ "UpdateAI", "d9/dbd/a15344.html#a8f6c5b873756a58760b2861bc8b86804", null ],
+    [ "_events", "d9/dbd/a15344.html#ad3852bf4588c453642e75fcdc544767b", null ],
+    [ "_playerGUID", "d9/dbd/a15344.html#ac4df0c9b8be03ce4e45fbb4efcad6892", null ]
 ];

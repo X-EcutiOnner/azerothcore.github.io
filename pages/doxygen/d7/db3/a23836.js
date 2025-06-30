@@ -1,9 +1,9 @@
 var a23836 =
 [
-    [ "boss_nethermancer_sepethrea", "d7/db3/a23836.html#aae77446e9a8f2ac41601049d3fe9ffd4", null ],
-    [ "EnterEvadeMode", "d7/db3/a23836.html#a0ac9dd29b73e8734318851ffd9a09162", null ],
-    [ "JustDied", "d7/db3/a23836.html#a2ac13176ebffa245fd9e0ba6173f30cc", null ],
-    [ "JustEngagedWith", "d7/db3/a23836.html#a89851b9f6eb94270fe22151d3a968bec", null ],
-    [ "JustSummoned", "d7/db3/a23836.html#acf98dbddcd55131cb9cdebe6d319e2c2", null ],
-    [ "KilledUnit", "d7/db3/a23836.html#ad9606ca8c1fe6f68f72ec415cc70ef2f", null ]
+    [ "boss_void_reaver", "d7/db3/a23836.html#aa6373ef5b27255eca4d85345ae5fa729", null ],
+    [ "JustDied", "d7/db3/a23836.html#a49e6f52b11177bdac07adff92c2675f5", null ],
+    [ "JustEngagedWith", "d7/db3/a23836.html#a9260d05e11f4dec6fc25432a0524706b", null ],
+    [ "KilledUnit", "d7/db3/a23836.html#adc234fc43308771a42d99049876cad1b", null ],
+    [ "Reset", "d7/db3/a23836.html#a02c36ea960de24991f879943991a93c6", null ],
+    [ "_recentlySpoken", "d7/db3/a23836.html#adc1bb9a6a3340f157c3ffcbd7dcd71ac", null ]
 ];

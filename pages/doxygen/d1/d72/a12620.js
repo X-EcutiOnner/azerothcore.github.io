@@ -1,5 +1,7 @@
 var a12620 =
 [
-    [ "at_karazhan_atiesh_aran", "d1/d72/a12620.html#ac84f5848b8a26cbfdd2544108567a6cc", null ],
-    [ "OnTrigger", "d1/d72/a12620.html#a5a6646c573b6e0bab0cbc288e594979e", null ]
+    [ "npc_malchezaar_axe", "d1/d72/a12620.html#a1a5615f2def10add30e7917b770ebc74", null ],
+    [ "Initialize", "d1/d72/a12620.html#a078e7f0997c026b73a4e0ab8a1c209b8", null ],
+    [ "JustEngagedWith", "d1/d72/a12620.html#a4a9f90e66359b304622d4f79653f9fd0", null ],
+    [ "UpdateAI", "d1/d72/a12620.html#a202ba6922a426f87909eefbccd070175", null ]
 ];

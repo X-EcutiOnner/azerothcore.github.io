@@ -1,4 +1,4 @@
 var a01805 =
 [
-    [ "lfg::LfgPlayerData", "d0/d73/a07939.html", "d0/d73/a07939" ]
+    [ "ScriptRegistry< DynamicObjectScript >", "d7/d62/a01805.html#a81c3616d496bf8bc2392d79508d2e446", null ]
 ];

@@ -1,6 +1,6 @@
 var a22016 =
 [
-    [ "ChangeSummonPos", "d2/ddd/a22016.html#aeb2cf0a5d2e563e4983ddd237a2b1001", null ],
-    [ "PrepareSpellScript", "d2/ddd/a22016.html#a1654fec971696e613b5102b3ca5030f1", null ],
-    [ "Register", "d2/ddd/a22016.html#ab1e7d44914952dfb7f7ccf2de4da286f", null ]
+    [ "npc_lord_areteAI", "d1/dd9/a22020.html", "d1/dd9/a22020" ],
+    [ "npc_lord_arete", "d2/ddd/a22016.html#a929e3f3346bf4dbaee127463eaf4ffcc", null ],
+    [ "GetAI", "d2/ddd/a22016.html#a212d003e9acb5f141197b5c4d10163a4", null ]
 ];

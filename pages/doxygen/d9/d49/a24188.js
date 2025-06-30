@@ -1,6 +1,6 @@
 var a24188 =
 [
-    [ "npc_kservantAI", "d5/dcb/a24192.html", "d5/dcb/a24192" ],
-    [ "npc_kservant", "d9/d49/a24188.html#af04c8a87516e41f7d35071664034af9d", null ],
-    [ "GetAI", "d9/d49/a24188.html#a3ae7327ec2ead5a2d3ffb043f18ccc09", null ]
+    [ "npc_enraged_spiritAI", "d5/dcb/a24192.html", "d5/dcb/a24192" ],
+    [ "npc_enraged_spirit", "d9/d49/a24188.html#a17d9e2e5fb8f2795fdeff26567bbf85f", null ],
+    [ "GetAI", "d9/d49/a24188.html#aa10d5f0147cf4064a49df735ac95575e", null ]
 ];

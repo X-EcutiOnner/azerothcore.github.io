@@ -1,6 +1,7 @@
 var a17060 =
 [
-    [ "boss_drakkari_elementalAI", "da/dce/a17064.html", "da/dce/a17064" ],
-    [ "boss_drakkari_elemental", "d6/de0/a17060.html#a143dd5d52ea7bb3c3c1d96da45af81ee", null ],
-    [ "GetAI", "d6/de0/a17060.html#aab2f9c71ddb77164bd644d18b9e88313", null ]
+    [ "HandleEffectPeriodic", "d6/de0/a17060.html#a370e2cbf796c1bc0a891243b61c057e1", null ],
+    [ "PrepareAuraScript", "d6/de0/a17060.html#ac0cb90fe9bfa7f371cc5469626ce2467", null ],
+    [ "Register", "d6/de0/a17060.html#a5a44978cec95fef30c9ea4308bda2508", null ],
+    [ "Validate", "d6/de0/a17060.html#a8b9f7d76f86f1a5abffdead3ebee694a", null ]
 ];

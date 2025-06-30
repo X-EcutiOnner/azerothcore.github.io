@@ -1,6 +1,7 @@
 var a21936 =
 [
-    [ "npc_razael_and_lyana", "d9/d57/a21936.html#aec7257a1136a3580e2b4542e032429d6", null ],
-    [ "OnGossipHello", "d9/d57/a21936.html#a9c9085db92853d5275c12e804a68b0fc", null ],
-    [ "OnGossipSelect", "d9/d57/a21936.html#a407d8344280e8e38efb3991fda1d52cd", null ]
+    [ "HandleDummy", "d9/d57/a21936.html#abb5726c8afa66a946eefc8767094ea9b", null ],
+    [ "PrepareSpellScript", "d9/d57/a21936.html#ab5d9f8125c75bbd8fbb2717516d3eddd", null ],
+    [ "Register", "d9/d57/a21936.html#a38efc59fcbb40469521419723a1dceb3", null ],
+    [ "Validate", "d9/d57/a21936.html#a93cf1b5dbc23bb25c4fe8aa24da0fd2e", null ]
 ];

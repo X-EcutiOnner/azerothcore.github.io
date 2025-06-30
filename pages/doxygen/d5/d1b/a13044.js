@@ -1,5 +1,7 @@
 var a13044 =
 [
-    [ "npc_apothecary_frye", "d5/d1b/a13044.html#a5546099958a9a267d237e65720588456", null ],
-    [ "JustDied", "d5/d1b/a13044.html#ab1dc310e90c591b44ce4d5bcf1bac930", null ]
+    [ "HandleEffectApply", "d5/d1b/a13044.html#a710536e0a3bacf173d037041e755bd82", null ],
+    [ "HandleEffectRemove", "d5/d1b/a13044.html#a16623b3187e98fc50f5a3b8e0297b0ea", null ],
+    [ "PrepareAuraScript", "d5/d1b/a13044.html#ab1d5eb39b503f7e08a404cf172b8de96", null ],
+    [ "Register", "d5/d1b/a13044.html#a9092818bdb15a12163aae633049cb7f6", null ]
 ];

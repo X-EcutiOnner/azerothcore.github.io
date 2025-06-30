@@ -1,7 +1,6 @@
 var a15708 =
 [
-    [ "npc_ahnkahar_nerubian", "dc/d69/a15708.html#ae18cdf09bae50751e266e95caf165f8e", null ],
-    [ "Reset", "dc/d69/a15708.html#a387831015ec8e4bc65cff8c8550bb176", null ],
-    [ "UpdateAI", "dc/d69/a15708.html#a9a773127e4f94bcdf142718355eae0e8", null ],
-    [ "uiSprintTimer", "dc/d69/a15708.html#a27a6f57a6b145cc595896d1ad453064f", null ]
+    [ "npc_sergeant_blyAI", "d6/d25/a15712.html", "d6/d25/a15712" ],
+    [ "npc_sergeant_bly", "dc/d69/a15708.html#afd5c6129098e4939e2b9f3d12b8c7058", null ],
+    [ "GetAI", "dc/d69/a15708.html#ad54ff5aabbc30de759c8f31b7ef9f46e", null ]
 ];

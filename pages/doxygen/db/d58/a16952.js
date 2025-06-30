@@ -1,15 +1,16 @@
 var a16952 =
 [
-    [ "npc_pos_deathwhisper_necrolyteAI", "db/d58/a16952.html#ae03f3fef42fcbcecedaf38692d1e9131", null ],
-    [ "DamageTaken", "db/d58/a16952.html#aad000cc1310f22325a29131fad169cbc", null ],
-    [ "DoAction", "db/d58/a16952.html#a5d7a324073cfdbd01ae267964959f15b", null ],
-    [ "InitializeAI", "db/d58/a16952.html#ad84905d1385bce0e431c2baf1158a343", null ],
-    [ "JustEngagedWith", "db/d58/a16952.html#ae095fa3ceb484cc289a086be8c2f2552", null ],
-    [ "MoveInLineOfSight", "db/d58/a16952.html#a1d43b002628080d5faf2fd59347a7f79", null ],
-    [ "MovementInform", "db/d58/a16952.html#a849b06a045de5529706e83b03febe135", null ],
-    [ "Reset", "db/d58/a16952.html#a0e6b326b3c8102dd711c002537f2c339", null ],
-    [ "UpdateAI", "db/d58/a16952.html#ade1c91217b6c6e33bfca60a69a51bbc0", null ],
-    [ "events", "db/d58/a16952.html#a30d65bc3625ed22e11ed7e040451643c", null ],
-    [ "isInvincible", "db/d58/a16952.html#a0216b301112656fb75907ff1f0d50d0f", null ],
-    [ "pInstance", "db/d58/a16952.html#afb71e537115d36795c2568360b2d58ce", null ]
+    [ "boss_ickAI", "db/d58/a16952.html#a72c90af745b63202edc36b84b3f4df12", null ],
+    [ "CanAIAttack", "db/d58/a16952.html#afa3a7ef19f014ed9c46be4a3adc83aa3", null ],
+    [ "DamageTaken", "db/d58/a16952.html#a96d39b533a96503d59c41c9e7cdd4ac4", null ],
+    [ "GetKrick", "db/d58/a16952.html#a2d6192f314e76886204c7248d141260a", null ],
+    [ "JustDied", "db/d58/a16952.html#afd7752ee19dcc6be0b28181bb4485146", null ],
+    [ "JustEngagedWith", "db/d58/a16952.html#a27598604e65417225acd41d6f05cc717", null ],
+    [ "JustSummoned", "db/d58/a16952.html#abf700d993e1cfaa0cc64d90903bfa842", null ],
+    [ "KilledUnit", "db/d58/a16952.html#a618c4e704d9a90d8bf4fac2d22bda6b3", null ],
+    [ "Reset", "db/d58/a16952.html#a9ba668208cda4dd33fd4eacb04476e2e", null ],
+    [ "SpellHitTarget", "db/d58/a16952.html#a5d90395d45509f8aeb244f4a4743d07d", null ],
+    [ "UpdateAI", "db/d58/a16952.html#a74bd63ac9558ecec52affaa7440360a1", null ],
+    [ "events", "db/d58/a16952.html#aab514bb5f930d9eb545a279181632796", null ],
+    [ "pInstance", "db/d58/a16952.html#a1ad5a6809ffe750a5538dc650a437b81", null ]
 ];

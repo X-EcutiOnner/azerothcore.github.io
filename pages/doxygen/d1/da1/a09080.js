@@ -1,12 +1,9 @@
 var a09080 =
 [
-    [ "flags", "d1/da1/a09080.html#ab1c2612a57fcfce78e10de45dfc1c28d", null ],
-    [ "fourcc", "d1/da1/a09080.html#a5e7b1d32e42afbeb6898ee02014847cd", null ],
-    [ "height", "d1/da1/a09080.html#ab064dde684394c3aa84f9b151749d524", null ],
-    [ "liquidFlags", "d1/da1/a09080.html#a90f22c454f03ecee6aa1b9f9392e10a0", null ],
-    [ "liquidLevel", "d1/da1/a09080.html#ae4f34f9b8139b18416862bcd413f4aaa", null ],
-    [ "liquidType", "d1/da1/a09080.html#ab2ce1920efaec0a4fc0a81df9d6539e3", null ],
-    [ "offsetX", "d1/da1/a09080.html#a2ddee980eda8b7321b55ba44697688b5", null ],
-    [ "offsetY", "d1/da1/a09080.html#abc57f9e6c2f9fae58f575d8e1309f420", null ],
-    [ "width", "d1/da1/a09080.html#aabcbad9f4c0cae9d2e1b015a93f2a0ed", null ]
+    [ "GridReference", "d1/da1/a09080.html#a9c27f99f74cd0cc99b39f9a6ec614e83", null ],
+    [ "~GridReference", "d1/da1/a09080.html#afd6a4f88eb066818afde1b752600bb12", null ],
+    [ "next", "d1/da1/a09080.html#a792323f4b0f66b58d1f9dd0f65f26f0c", null ],
+    [ "sourceObjectDestroyLink", "d1/da1/a09080.html#a96cb6e8287ceba4de31681bddb1e5838", null ],
+    [ "targetObjectBuildLink", "d1/da1/a09080.html#a16dc6dc9a5a7bfcd5de9691ad469f5f8", null ],
+    [ "targetObjectDestroyLink", "d1/da1/a09080.html#ac4c863d059b5c826e9597056dc7c887a", null ]
 ];

@@ -1,5 +1,7 @@
 var a22320 =
 [
-    [ "achievement_wg_within_our_grasp", "d9/d41/a22320.html#a9edbd15bc6989c6948e21391a683d22d", null ],
-    [ "OnCheck", "d9/d41/a22320.html#a10b659c4b52322536333e3d191796c27", null ]
+    [ "npc_wg_siege_machineAI", "d9/d41/a22320.html#aaeca9e73520701ce28f2cc9d1483cc6b", null ],
+    [ "CanControlVehicle", "d9/d41/a22320.html#a7ce79406da48e245a0baa2fdd23622b9", null ],
+    [ "UpdateAI", "d9/d41/a22320.html#a8ddd21047a857facc767a9edc0ec5408", null ],
+    [ "checkTimer", "d9/d41/a22320.html#abf4b06eae50adeefedba02e2186ea48a", null ]
 ];

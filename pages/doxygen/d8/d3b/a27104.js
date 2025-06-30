@@ -1,6 +1,7 @@
 var a27104 =
 [
-    [ "go_witherbark_totem_bundleAI", "d8/d3b/a27104.html#a955625e2315008a2e36936d44f825060", null ],
-    [ "UpdateAI", "d8/d3b/a27104.html#af688bab2dc3d938951adb303e8b8d88b", null ],
-    [ "_timer", "d8/d3b/a27104.html#a509e6d8401380c326a0f565a6b903d7a", null ]
+    [ "FilterTargets", "d8/d3b/a27104.html#a5ee420ce696d23d836ff6e9e1def6405", null ],
+    [ "HandleEffect", "d8/d3b/a27104.html#a064fdac9158e35f290b51ecf9bf537b1", null ],
+    [ "PrepareSpellScript", "d8/d3b/a27104.html#a53b5772c87574beb5b295c26fe983b76", null ],
+    [ "Register", "d8/d3b/a27104.html#a5e93d0d708d2304d9166c47ad285ada5", null ]
 ];

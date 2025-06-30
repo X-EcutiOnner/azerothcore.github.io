@@ -1,6 +1,9 @@
 var a20680 =
 [
-    [ "OnRemove", "d2/da6/a20680.html#a492bd9e9c82937e00897e19362b40901", null ],
-    [ "PrepareAuraScript", "d2/da6/a20680.html#a1ae24bb18b5570ebe9b4b0698d3cc2f2", null ],
-    [ "Register", "d2/da6/a20680.html#adfcaf82ff48225ea0e0314d421795644", null ]
+    [ "npc_xt002_scrapbotAI", "d2/da6/a20680.html#a21be97bb49ff06ef090cbbe6f5006f56", null ],
+    [ "JustDied", "d2/da6/a20680.html#adcab192d017e6a9e8d103a6e8b91cb26", null ],
+    [ "MovementInform", "d2/da6/a20680.html#a48fd29d42280ae91852ef2ef0cecc8f6", null ],
+    [ "Reset", "d2/da6/a20680.html#aab71d2a49ee96e88a2858c07c455e78d", null ],
+    [ "UpdateAI", "d2/da6/a20680.html#ae2de6767f8ab502833971e4171d48c13", null ],
+    [ "_locked", "d2/da6/a20680.html#add3bfe992d635629ac7e07e04c4334c9", null ]
 ];

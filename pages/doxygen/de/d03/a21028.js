@@ -1,14 +1,8 @@
 var a21028 =
 [
-    [ "npc_massive_jormungarAI", "de/d03/a21028.html#aa0b9acaec1aab155f7e4442d12d40c3e", null ],
-    [ "DoAction", "de/d03/a21028.html#a8084994ba056c907b2e487568fa7502a", null ],
-    [ "JustDied", "de/d03/a21028.html#a02b4e75227811250e2210f754e6e04f2", null ],
-    [ "JustEngagedWith", "de/d03/a21028.html#a93769dbb2f7d2136e5ab2603927a5f12", null ],
-    [ "JustReachedHome", "de/d03/a21028.html#a8ea0fe40cb4b113abadc091ab8085636", null ],
-    [ "MoveInLineOfSight", "de/d03/a21028.html#a55c817111fab479c3abcfca8942f16e8", null ],
-    [ "Reset", "de/d03/a21028.html#aca0d8ebe3b47a075a8b87666c0207620", null ],
-    [ "UpdateAI", "de/d03/a21028.html#a9201c4cdf74d55bb3cde52eb265aa3d9", null ],
-    [ "events", "de/d03/a21028.html#a92334b8178317a91a7d4336096d75f33", null ],
-    [ "m_pInstance", "de/d03/a21028.html#ad50a9852370798817fda318f71f27653", null ],
-    [ "summons", "de/d03/a21028.html#acfa84efc38b994706015e6d82fe1f653", null ]
+    [ "boss_keleseth", "de/d03/a21028.html#ad2f0f020b0c92852dedadea5730e4e80", null ],
+    [ "AttackStart", "de/d03/a21028.html#a731ebf8e9ff4f64582a8f9373ce08a39", null ],
+    [ "JustDied", "de/d03/a21028.html#ad23ede5c869ab12dc1c2f6a783e9b539", null ],
+    [ "JustEngagedWith", "de/d03/a21028.html#a8d5cba1dd481bdfaf93f6e2427880b2e", null ],
+    [ "KilledUnit", "de/d03/a21028.html#a64d14f1b8f169128bbbc507730f4f1eb", null ]
 ];

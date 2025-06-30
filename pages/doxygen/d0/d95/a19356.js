@@ -1,6 +1,6 @@
 var a19356 =
 [
-    [ "HandleDamageCalc", "d0/d95/a19356.html#a71b88fbad5acbba47028dd1ff82b4836", null ],
-    [ "PrepareSpellScript", "d0/d95/a19356.html#a754da297cd5801616e24bf2d802d0b38", null ],
-    [ "Register", "d0/d95/a19356.html#a231f29ea69a354ddb2963cb4ef9a3f4e", null ]
+    [ "instance_oculus_InstanceMapScript", "d6/d68/a19360.html", "d6/d68/a19360" ],
+    [ "instance_oculus", "d0/d95/a19356.html#a404205ea7106531ea57307c40b9589bb", null ],
+    [ "GetInstanceScript", "d0/d95/a19356.html#ae6d28dfd615e79d4308e4384b7c8857f", null ]
 ];

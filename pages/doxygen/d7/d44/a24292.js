@@ -1,6 +1,8 @@
 var a24292 =
 [
-    [ "npc_pet_dk_dancing_rune_weaponAI", "d6/d0b/a24296.html", "d6/d0b/a24296" ],
-    [ "npc_pet_dk_dancing_rune_weapon", "d7/d44/a24292.html#aaa0881509c2842d6c0442884d0947e28", null ],
-    [ "GetAI", "d7/d44/a24292.html#aae11c76fbcf729f44136c53b2b3e0982", null ]
+    [ "go_skull_pile", "d7/d44/a24292.html#a9cf8dfef432c4967c60f66e645585770", null ],
+    [ "OnGossipHello", "d7/d44/a24292.html#ac95d39ea03e78fee2a10603d8c7f8840", null ],
+    [ "OnGossipSelect", "d7/d44/a24292.html#afb8e8db2705355e975fa48c98e09f20b", null ],
+    [ "SendActionMenu", "d7/d44/a24292.html#a048dd224b46ead864958ad524d76167f", null ],
+    [ "_result", "d7/d44/a24292.html#af74fcd75404c0886128401d661067394", null ]
 ];

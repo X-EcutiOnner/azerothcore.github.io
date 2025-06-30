@@ -1,8 +1,12 @@
 var a23500 =
 [
-    [ "npc_target_trigger", "d5/dd4/a23500.html#a238058ba80130c6239b7267db3247196", null ],
-    [ "Reset", "d5/dd4/a23500.html#ad23d465bfd78ede0a1556f2ce1742349", null ],
-    [ "UpdateAI", "d5/dd4/a23500.html#ab5f482e209d2d8aa5c27666d3e1934f3", null ],
-    [ "_cast", "d5/dd4/a23500.html#a4ec89ca960323f7ad135d5a425a82416", null ],
-    [ "_scheduler", "d5/dd4/a23500.html#a9b418b09e25c8f96692b4e2626339c96", null ]
+    [ "boss_vazruden_the_herald", "d5/dd4/a23500.html#a97f761b2e3477a22cdc65c68700de72c", null ],
+    [ "AttackStart", "d5/dd4/a23500.html#a190621f4130b913348a49d6dfe76b591", null ],
+    [ "JustSummoned", "d5/dd4/a23500.html#a66d8c6252e6baf88144da3af57bf65a4", null ],
+    [ "MovementInform", "d5/dd4/a23500.html#abd89aa3911c626864f8aada889ce99c9", null ],
+    [ "Reset", "d5/dd4/a23500.html#a18076b0fd12bc9a002394d5fe3aa5f81", null ],
+    [ "SetData", "d5/dd4/a23500.html#a7dcbec1c99fdf4f740656a8379a99080", null ],
+    [ "SummonedCreatureDespawn", "d5/dd4/a23500.html#a7621077082a3b53d1d21265e6dd00dce", null ],
+    [ "SummonedCreatureDies", "d5/dd4/a23500.html#a336feba0d88e4fccce28b2730a9aea9e", null ],
+    [ "UpdateAI", "d5/dd4/a23500.html#adc98e358a751fd9881589aada4baf320", null ]
 ];

@@ -1,6 +1,6 @@
 var a16200 =
 [
-    [ "boss_grand_championAI", "d0/ddc/a16204.html", "d0/ddc/a16204" ],
-    [ "boss_grand_champion", "da/df5/a16200.html#a9577f8af5e234b3aebd7567841b867e2", null ],
-    [ "GetAI", "da/df5/a16200.html#aa60972482ef16329d7ffc0a7ccf2d03e", null ]
+    [ "FilterTargets", "da/df5/a16200.html#a40c4d2b624fe87e21263d1b137994cc3", null ],
+    [ "PrepareSpellScript", "da/df5/a16200.html#a697a52cbc50eafd2b0377621afb01557", null ],
+    [ "Register", "da/df5/a16200.html#a3d523f92cb8123f30cb068cbac39a9c3", null ]
 ];

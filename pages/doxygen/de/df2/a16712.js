@@ -1,10 +1,8 @@
 var a16712 =
 [
-    [ "HandleAfterEffectAbsorb", "de/df2/a16712.html#a4af67c41afd7843a5cfe2b2e2e9e8055", null ],
-    [ "Load", "de/df2/a16712.html#abab656d4ba7e14bf1ffdb1d40c395b5d", null ],
-    [ "PrepareAuraScript", "de/df2/a16712.html#a0856d66c801715f16cd251ddf9b25a59", null ],
-    [ "Register", "de/df2/a16712.html#a69d8dfebb981b51592770b7b5807bc80", null ],
-    [ "Validate", "de/df2/a16712.html#a55ec42ce316978220103a3a39f3939a3", null ],
-    [ "amount", "de/df2/a16712.html#aaf34ee04ae619a3ac108a8fd1c9dac99", null ],
-    [ "fired", "de/df2/a16712.html#a6a7afa99044644608b16e83328bfd5fa", null ]
+    [ "npc_fos_corrupted_soul_fragmentAI", "de/df2/a16712.html#a61797329ecddde6da2e23e951fa92ca2", null ],
+    [ "Reset", "de/df2/a16712.html#a5bb03371b24593ca2de995bf85857782", null ],
+    [ "UpdateAI", "de/df2/a16712.html#ac6e651186c5edfd8e5279ddd38a15eb9", null ],
+    [ "pInstance", "de/df2/a16712.html#a6ced23b3b4150b31020a636559d6eec6", null ],
+    [ "timer", "de/df2/a16712.html#aa19c9928e3979bb01d89dc81b8feb4fc", null ]
 ];

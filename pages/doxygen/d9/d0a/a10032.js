@@ -1,6 +1,7 @@
 var a10032 =
 [
-    [ "HoverMovementTransform", "d9/d0a/a10032.html#afc47d2d80c4a4a654cb60f9ad15dc63b", null ],
-    [ "operator()", "d9/d0a/a10032.html#a7b4c22c7ba3332c0829832756b734809", null ],
-    [ "_offset", "d9/d0a/a10032.html#a7fe74e38dbefb11af541a8750465861c", null ]
+    [ "CommonInitializer", "d9/d0a/a10032.html#ab472ff63e0178a3414630f743d4de906", null ],
+    [ "operator()", "d9/d0a/a10032.html#aba4cce84b89416f54a0a25b1702a322c", null ],
+    [ "_time", "d9/d0a/a10032.html#a483d83836ccbe90a842c09f7d4906436", null ],
+    [ "velocityInv", "d9/d0a/a10032.html#ac2f731afc2aae338bb8b1b616b0a39c1", null ]
 ];

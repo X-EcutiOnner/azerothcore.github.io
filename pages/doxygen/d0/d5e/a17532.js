@@ -1,8 +1,12 @@
 var a17532 =
 [
-    [ "HandlePeriodic", "d0/d5e/a17532.html#a5ff571c616b69bb50c736622feb9ed96", null ],
-    [ "HandleRemove", "d0/d5e/a17532.html#a624887bb5e6d8b72d6c0591661d6ba38", null ],
-    [ "PrepareAuraScript", "d0/d5e/a17532.html#a1b140274e283dd95e28fcb773e30f965", null ],
-    [ "Register", "d0/d5e/a17532.html#abcce83ef6ecbe539a3d8eaef83fb2d33", null ],
-    [ "Validate", "d0/d5e/a17532.html#a94c644e730c51c8edb6a74d68d6228a8", null ]
+    [ "gunship_npc_AI", "d0/d5e/a17532.html#a30c13cb755638fcf05d1ad9a476210d3", null ],
+    [ "EnterEvadeMode", "d0/d5e/a17532.html#a7c2da25bb962c32fa350ee1f12f86ca4", null ],
+    [ "JustDied", "d0/d5e/a17532.html#ad40c976be4decd9054dad031a4caab78", null ],
+    [ "MovementInform", "d0/d5e/a17532.html#a3bae54b656fc5ed8c6fef80bd1721c71", null ],
+    [ "SetData", "d0/d5e/a17532.html#acfd5e331155d7787ada33acbca73fece", null ],
+    [ "SetSlotInfo", "d0/d5e/a17532.html#afdfc3f9add2952f90baf24d55425670f", null ],
+    [ "Index", "d0/d5e/a17532.html#ae120874514cf5921136821b820a04da7", null ],
+    [ "Instance", "d0/d5e/a17532.html#ab5276a099bcf56c5a25b3a52be516b5c", null ],
+    [ "Slot", "d0/d5e/a17532.html#a59d237475ae309755d429cfac77d6630", null ]
 ];

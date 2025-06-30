@@ -1,6 +1,7 @@
 var a28716 =
 [
-    [ "CheckCast", "dd/d9b/a28716.html#acdb69e605c4e3b5eb3e48f400957db28", null ],
-    [ "PrepareSpellScript", "dd/d9b/a28716.html#a1fb9a924ddba358d6d67943c5b2ffa24", null ],
-    [ "Register", "dd/d9b/a28716.html#a703b21a93ba41211ac6e6ee182eecb8b", null ]
+    [ "Paths", "dd/d9b/a28716.html#aff167c694a55441bcf5504f5d1933f41", null ],
+    [ "References", "dd/d9b/a28716.html#a07f0d7daa9cd934768b8a603dc52bea3", null ],
+    [ "Sets", "dd/d9b/a28716.html#a43774f8dd70e85e16aa8d49b5c6a25b6", null ],
+    [ "Spawns", "dd/d9b/a28716.html#a51f24c059516683f0744b81819186c0e", null ]
 ];

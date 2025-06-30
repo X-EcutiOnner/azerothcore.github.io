@@ -1,5 +1,6 @@
 var a21300 =
 [
-    [ "go_vh_activation_crystal", "df/dec/a21300.html#a4af485ac7ab6144282f3204a6d045cea", null ],
-    [ "OnGossipHello", "df/dec/a21300.html#a47a61ba67086580135559332931e9c6e", null ]
+    [ "boss_lavanthorAI", "db/d5c/a21304.html", "db/d5c/a21304" ],
+    [ "boss_lavanthor", "df/dec/a21300.html#aa935ffe07f59db59b9b8484f22927026", null ],
+    [ "GetAI", "df/dec/a21300.html#aae09ecbe56efac6538bdfb6120e0be40", null ]
 ];

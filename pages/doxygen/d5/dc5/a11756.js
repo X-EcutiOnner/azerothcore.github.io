@@ -1,6 +1,5 @@
 var a11756 =
 [
-    [ "boss_galvangarAI", "d1/d51/a11760.html", "d1/d51/a11760" ],
-    [ "boss_galvangar", "d5/dc5/a11756.html#a3949cfd3c987bdf52d313568de9379ba", null ],
-    [ "GetAI", "d5/dc5/a11756.html#a9fd978eb38ae3e2d8d65cf4214e673e3", null ]
+    [ "npcEntry", "d5/dc5/a11756.html#a866b12ea5416f36c36bbea1a35a6a490", null ],
+    [ "spellId", "d5/dc5/a11756.html#a8c2fd26e0e9de5f9292c8b993ba9f9be", null ]
 ];

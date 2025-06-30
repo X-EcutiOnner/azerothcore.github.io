@@ -1,6 +1,9 @@
 var a18748 =
 [
-    [ "npc_icc_gauntlet_controllerAI", "d5/de4/a18752.html", "d5/de4/a18752" ],
-    [ "npc_icc_gauntlet_controller", "d0/d70/a18748.html#a5fc4c941842e25bc3da93686e588627b", null ],
-    [ "GetAI", "d0/d70/a18748.html#a4ed1a69fb537e7ce547a3a57253990c4", null ]
+    [ "npc_icc_skybreaker_luminaryAI", "d0/d70/a18748.html#a91868021309239f5582bb7ee89baec13", null ],
+    [ "AttackStart", "d0/d70/a18748.html#acf8d1eaebdc68cb53866155d8aad6e48", null ],
+    [ "JustEngagedWith", "d0/d70/a18748.html#a12927240144022174e3d190be6b34976", null ],
+    [ "Reset", "d0/d70/a18748.html#ac925b84b81ec1d1e118f3e62edfbdd15", null ],
+    [ "UpdateAI", "d0/d70/a18748.html#a969a36e147006971a93711349f90c193", null ],
+    [ "events", "d0/d70/a18748.html#a8521aef674b9a295c27f7e5725af4ffe", null ]
 ];

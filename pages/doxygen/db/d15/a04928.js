@@ -1,8 +1,8 @@
 var a04928 =
 [
-    [ "IMMapMgr", "db/d15/a04928.html#a2292f2bdacfc627ab33f02d399221ad5", null ],
-    [ "~IMMapMgr", "db/d15/a04928.html#a8298d6b3fbce5ccd835af3c287c361b6", null ],
-    [ "isEnablePathFinding", "db/d15/a04928.html#a5d6bcb413c39e82da8e4924c4754c8b0", null ],
-    [ "setEnablePathFinding", "db/d15/a04928.html#afdc7e829a374c20b4d072290363c7c62", null ],
-    [ "iEnablePathFinding", "db/d15/a04928.html#a25f8900f4546990562fb048e956bb1e0", null ]
+    [ "DynamicTreeAreaInfoCallback", "db/d15/a04928.html#ad3f3d57e011439d9900afffa8d9c6ed7", null ],
+    [ "GetAreaInfo", "db/d15/a04928.html#a22cc8c47b3c93bd9ba396861a5bbea99", null ],
+    [ "operator()", "db/d15/a04928.html#adf7f147bb4b4f3a5252ac15ffd1b80ea", null ],
+    [ "_areaInfo", "db/d15/a04928.html#a59781066b5b1a7e970f4dcf6f05a7dcb", null ],
+    [ "_phaseMask", "db/d15/a04928.html#a9ad7b4de03c8baa6190a5ef57f2eecf2", null ]
 ];

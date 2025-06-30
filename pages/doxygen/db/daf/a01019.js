@@ -1,4 +1,5 @@
 var a01019 =
 [
-    [ "GetAge", "db/daf/a01019.html#a347e0449afd73dbcc6c084dbe72af6c8", null ]
+    [ "GuildMgr", "d4/df9/a09556.html", "d4/df9/a09556" ],
+    [ "sGuildMgr", "db/daf/a01019.html#aef171903a38e30c347ff11360f682f81", null ]
 ];

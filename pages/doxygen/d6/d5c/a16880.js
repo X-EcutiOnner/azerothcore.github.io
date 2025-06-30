@@ -1,6 +1,7 @@
 var a16880 =
 [
-    [ "instance_halls_of_reflection_InstanceMapScript", "de/d2f/a16884.html", "de/d2f/a16884" ],
-    [ "instance_halls_of_reflection", "d6/d5c/a16880.html#a8872b51ceec25dbf4831f45b27206ed1", null ],
-    [ "GetInstanceScript", "d6/d5c/a16880.html#aca27a4f654f41fe6f238c905b48285b7", null ]
+    [ "npc_hor_leader_secondAI", "de/d2f/a16884.html", "de/d2f/a16884" ],
+    [ "npc_hor_leader_second", "d6/d5c/a16880.html#a9fa1f38ab8a0b5d2207857b75e272ee0", null ],
+    [ "GetAI", "d6/d5c/a16880.html#af5b97ecca35501a75658919d384a18f7", null ],
+    [ "OnGossipSelect", "d6/d5c/a16880.html#a8355f7f2f8e7655c7ebc7145a847ab87", null ]
 ];

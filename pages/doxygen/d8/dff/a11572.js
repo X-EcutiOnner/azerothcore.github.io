@@ -1,8 +1,8 @@
 var a11572 =
 [
-    [ "CreatureCountWorker", "d8/dff/a11572.html#ad01e947d97d03a10ea3a891d24cb05b7", null ],
-    [ "GetTopCreatureCount", "d8/dff/a11572.html#a5d4d009b6685dd71703f96f9945a463e", null ],
-    [ "Visit", "d8/dff/a11572.html#a786d95d42f7711235e60a4f54cc3b4be", null ],
-    [ "Visit", "d8/dff/a11572.html#afa72c0c1f905f4277d650ad0cfef281d", null ],
-    [ "creatureIds", "d8/dff/a11572.html#a3a6f946c40b1006164793dbaed2b3948", null ]
+    [ "cache_commandscript", "d8/dff/a11572.html#a709e1d02632aed18113c1adb52e962b5", null ],
+    [ "GetCommands", "d8/dff/a11572.html#ae62aed5b701a408460d8fedcd08bb3a4", null ],
+    [ "HandleCacheDeleteCommand", "d8/dff/a11572.html#a9ee0f4aceb031ad1c6b1870320fca88b", null ],
+    [ "HandleCacheInfoCommand", "d8/dff/a11572.html#aa9bce5578450a35909a4e481bc21867f", null ],
+    [ "HandleCacheRefreshCommand", "d8/dff/a11572.html#abf02cad15dabdcc5ed3df1fab0e87b6f", null ]
 ];

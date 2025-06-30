@@ -1,10 +1,6 @@
 var a14552 =
 [
-    [ "boss_rage_winterchill", "d2/d78/a14552.html#a66fed2a7cc6135d41a2c40bdf4ffe02e", null ],
-    [ "DoAction", "d2/d78/a14552.html#a45333aea6d6a180473ca4823ea83920a", null ],
-    [ "JustDied", "d2/d78/a14552.html#ab10c7df81a9e71b2c114465c30e40a9b", null ],
-    [ "JustEngagedWith", "d2/d78/a14552.html#ad36a840c65949c54d5ee3ae8cb6f1f7b", null ],
-    [ "KilledUnit", "d2/d78/a14552.html#a69d69530a080379add7be73c552f4937", null ],
-    [ "PathEndReached", "d2/d78/a14552.html#aec47befdf3246710a5158780fa797fa7", null ],
-    [ "_recentlySpoken", "d2/d78/a14552.html#ae2141b4ea1d10cb74146aec63d65214c", null ]
+    [ "FilterTargets", "d2/d78/a14552.html#ae2d33bee9d8d8c29f07ed60bbaf3e7b0", null ],
+    [ "PrepareSpellScript", "d2/d78/a14552.html#a2b7ec1db13418f2e369faab6ec8422b4", null ],
+    [ "Register", "d2/d78/a14552.html#a6375482bd9d1fc6c6941607273c506dc", null ]
 ];

@@ -1,6 +1,6 @@
 var a15588 =
 [
-    [ "HandleDummy", "d5/d69/a15588.html#a2750ae788168e7496ea2345c5535509c", null ],
-    [ "PrepareSpellScript", "d5/d69/a15588.html#a66b4187decbfb0b5623ce5630a8fa9d3", null ],
-    [ "Register", "d5/d69/a15588.html#ab6c961d89d22761402eb4f5881cbd318", null ]
+    [ "npc_taskmaster_fizzuleAI", "df/dae/a15592.html", "df/dae/a15592" ],
+    [ "npc_taskmaster_fizzule", "d5/d69/a15588.html#aa42e6cc1a3ac58ea79f5184f7bb293a9", null ],
+    [ "GetAI", "d5/d69/a15588.html#a6281de7424932fe6580ffefa199498d9", null ]
 ];

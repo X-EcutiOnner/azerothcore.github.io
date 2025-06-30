@@ -1,4 +1,5 @@
 var a28444 =
 [
-    [ "coords", "db/d22/a28444.html#a6de1e0be070d552f8002bff7675bb9cf", null ]
+    [ "type", "db/d22/a28444.html#af749459df7757d1bab17a54be813f6b6", null ],
+    [ "_type", "db/d22/a28444.html#ab0344571616786baef4511c647a3abea", null ]
 ];

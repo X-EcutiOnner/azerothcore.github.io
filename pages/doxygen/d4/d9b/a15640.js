@@ -1,6 +1,6 @@
 var a15640 =
 [
-    [ "creatureID", "d4/d9b/a15640.html#a44a9f5e58bfa58e2e2325e116e988f07", null ],
-    [ "pos", "d4/d9b/a15640.html#a9705a858cc2c3867e104514d3a0a1866", null ],
-    [ "waveID", "d4/d9b/a15640.html#a09b48f7f6da7e203ed50a8abc7f24e56", null ]
+    [ "npc_cairne_bloodhoofAI", "da/db5/a15644.html", "da/db5/a15644" ],
+    [ "npc_cairne_bloodhoof", "d4/d9b/a15640.html#a3519d94c5fcdc3d55e31c49c7773e56c", null ],
+    [ "GetAI", "d4/d9b/a15640.html#a1c34470c46ae9e98684de0e786be28b7", null ]
 ];

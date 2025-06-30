@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/game/Achievements/AchievementMgr.h File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/game/Calendar/CalendarMgr.h File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -109,163 +109,215 @@ $(document).ready(function(){initNavTree('d7/d82/a01601.html','../../'); initRes
 <a href="#define-members">Macros</a> &#124;
 <a href="#typedef-members">Typedefs</a> &#124;
 <a href="#enum-members">Enumerations</a>  </div>
-  <div class="headertitle"><div class="title">AchievementMgr.h File Reference</div></div>
+  <div class="headertitle"><div class="title">CalendarMgr.h File Reference</div></div>
 </div><!--header-->
 <div class="contents">
 <div class="textblock"><code>#include &quot;<a class="el" href="../../">Common.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">DBCEnums.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">DBCStores.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">DatabaseEnv.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">ObjectGuid.h</a>&quot;</code><br />
-<code>#include &lt;map&gt;</code><br />
-<code>#include &lt;string&gt;</code><br />
+<code>#include &quot;<a class="el" href="../../">WorldPacket.h</a>&quot;</code><br />
+<code>#include &lt;unordered_map&gt;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d88/a05899.html">AchievementOfflinePlayerUpdate</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d44/a07456.html">CalendarInvite</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d12/a05903.html">CriteriaProgress</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d2b/a07460.html">CalendarEvent</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d2e/a05907.html">AchievementCriteriaData</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d59/a06003.html">AchievementCriteriaDataSet</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/ddd/a06007.html">AchievementReward</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d4e/a06011.html">AchievementRewardLocale</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d04/a06015.html">CompletedAchievementData</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d72/a06019.html">AchievementMgr</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d51/a06023.html">AchievementGlobalMgr</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d19/a07464.html">CalendarMgr</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="define-members" name="define-members"></a>
 Macros</h2></td></tr>
-<tr class="memitem:aa36806d2931b69d34909b50f40ca8c0e"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d82/a01601.html#aa36806d2931b69d34909b50f40ca8c0e">MAX_ACHIEVEMENT_CRITERIA_DATA_TYPE</a>&#160;&#160;&#160;26</td></tr>
-<tr class="separator:aa36806d2931b69d34909b50f40ca8c0e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af422afe119839b631fd67247eddff1e6"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d82/a01601.html#af422afe119839b631fd67247eddff1e6">sAchievementMgr</a>&#160;&#160;&#160;<a class="el" href="../../dd/d51/a06023.html#a2b4dc8e045dd563567a55570e37b86fb">AchievementGlobalMgr::instance</a>()</td></tr>
-<tr class="separator:af422afe119839b631fd67247eddff1e6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a19ac4cd787f75380716d027d20c06b7a"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d82/a01601.html#a19ac4cd787f75380716d027d20c06b7a">sCalendarMgr</a>&#160;&#160;&#160;<a class="el" href="../../d7/d19/a07464.html#a4dd925ac86f5709e8f3d3d8147aeaf36">CalendarMgr::instance</a>()</td></tr>
+<tr class="separator:a19ac4cd787f75380716d027d20c06b7a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="typedef-members" name="typedef-members"></a>
 Typedefs</h2></td></tr>
-<tr class="memitem:a7a5f365d092f508da6ae8d510f0e3117"><td class="memItemLeft" align="right" valign="top">typedef std::list&lt; <a class="el" href="../../d5/dba/a27687.html">AchievementCriteriaEntry</a> const  * &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d82/a01601.html#a7a5f365d092f508da6ae8d510f0e3117">AchievementCriteriaEntryList</a></td></tr>
-<tr class="separator:a7a5f365d092f508da6ae8d510f0e3117"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9d70fd67a3069b6a55c0145265bffc4b"><td class="memItemLeft" align="right" valign="top">typedef std::list&lt; <a class="el" href="../../d3/dab/a27679.html">AchievementEntry</a> const  * &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d82/a01601.html#a9d70fd67a3069b6a55c0145265bffc4b">AchievementEntryList</a></td></tr>
-<tr class="separator:a9d70fd67a3069b6a55c0145265bffc4b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad5e4b1cd98f21804a508642d8475033f"><td class="memItemLeft" align="right" valign="top">typedef std::unordered_map&lt; <a class="el" href="../../d4/d61/a04406.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../d7/d82/a01601.html#a7a5f365d092f508da6ae8d510f0e3117">AchievementCriteriaEntryList</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d82/a01601.html#ad5e4b1cd98f21804a508642d8475033f">AchievementCriteriaListByAchievement</a></td></tr>
-<tr class="separator:ad5e4b1cd98f21804a508642d8475033f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af3b606f4c218a7e68902cd9ff9470f5b"><td class="memItemLeft" align="right" valign="top">typedef std::map&lt; <a class="el" href="../../d4/d61/a04406.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../d7/d82/a01601.html#a9d70fd67a3069b6a55c0145265bffc4b">AchievementEntryList</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d82/a01601.html#af3b606f4c218a7e68902cd9ff9470f5b">AchievementListByReferencedId</a></td></tr>
-<tr class="separator:af3b606f4c218a7e68902cd9ff9470f5b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac16b4d5f47fe0db16d59dc67e86e42be"><td class="memItemLeft" align="right" valign="top">typedef std::map&lt; <a class="el" href="../../d4/d61/a04406.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../d3/d59/a06003.html">AchievementCriteriaDataSet</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d82/a01601.html#ac16b4d5f47fe0db16d59dc67e86e42be">AchievementCriteriaDataMap</a></td></tr>
-<tr class="separator:ac16b4d5f47fe0db16d59dc67e86e42be"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a471572afc0467790ccff565b39f61720"><td class="memItemLeft" align="right" valign="top">typedef std::map&lt; <a class="el" href="../../d4/d61/a04406.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../dc/ddd/a06007.html">AchievementReward</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d82/a01601.html#a471572afc0467790ccff565b39f61720">AchievementRewards</a></td></tr>
-<tr class="separator:a471572afc0467790ccff565b39f61720"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a3d51ce6b9e37b72772cea78f064e5a77"><td class="memItemLeft" align="right" valign="top">typedef std::map&lt; <a class="el" href="../../d4/d61/a04406.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../d8/d4e/a06011.html">AchievementRewardLocale</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d82/a01601.html#a3d51ce6b9e37b72772cea78f064e5a77">AchievementRewardLocales</a></td></tr>
-<tr class="separator:a3d51ce6b9e37b72772cea78f064e5a77"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a649527d8ab61f39ad17fe709d2b1aabc"><td class="memItemLeft" align="right" valign="top">typedef std::unordered_map&lt; <a class="el" href="../../d4/d61/a04406.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../db/d12/a05903.html">CriteriaProgress</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d82/a01601.html#a649527d8ab61f39ad17fe709d2b1aabc">CriteriaProgressMap</a></td></tr>
-<tr class="separator:a649527d8ab61f39ad17fe709d2b1aabc"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aee097fd9426b25c1101af73a551a37e1"><td class="memItemLeft" align="right" valign="top">typedef std::unordered_map&lt; <a class="el" href="../../d4/d61/a04406.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../dc/d04/a06015.html">CompletedAchievementData</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d82/a01601.html#aee097fd9426b25c1101af73a551a37e1">CompletedAchievementMap</a></td></tr>
-<tr class="separator:aee097fd9426b25c1101af73a551a37e1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6fe31a855a3ec48abb6eccd7296351ee"><td class="memItemLeft" align="right" valign="top">typedef std::vector&lt; <a class="el" href="../../dd/d44/a07456.html">CalendarInvite</a> * &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d82/a01601.html#a6fe31a855a3ec48abb6eccd7296351ee">CalendarInviteStore</a></td></tr>
+<tr class="separator:a6fe31a855a3ec48abb6eccd7296351ee"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aea0466a27af69ea188d66b721b49a3d6"><td class="memItemLeft" align="right" valign="top">typedef std::unordered_set&lt; <a class="el" href="../../d2/d2b/a07460.html">CalendarEvent</a> * &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d82/a01601.html#aea0466a27af69ea188d66b721b49a3d6">CalendarEventStore</a></td></tr>
+<tr class="separator:aea0466a27af69ea188d66b721b49a3d6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af35b9a127e069a3aed4acad11a7cc5a6"><td class="memItemLeft" align="right" valign="top">typedef std::unordered_map&lt; <a class="el" href="../../db/daf/a04412.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a>, <a class="el" href="../../d7/d82/a01601.html#a6fe31a855a3ec48abb6eccd7296351ee">CalendarInviteStore</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d82/a01601.html#af35b9a127e069a3aed4acad11a7cc5a6">CalendarEventInviteStore</a></td></tr>
+<tr class="separator:af35b9a127e069a3aed4acad11a7cc5a6"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
 Enumerations</h2></td></tr>
-<tr class="memitem:a9c52752c50b87261f43020b3cfaa06e6"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d82/a01601.html#a9c52752c50b87261f43020b3cfaa06e6">AchievementOfflinePlayerUpdateType</a> { <br />
-&#160;&#160;<a class="el" href="../../d7/d82/a01601.html#a9c52752c50b87261f43020b3cfaa06e6a2976d6d0cc93ac389d7683d092aff8ee">ACHIEVEMENT_OFFLINE_PLAYER_UPDATE_TYPE_COMPLETE_ACHIEVEMENT</a> = 1
+<tr class="memitem:a73b2cba8ecc0a4fcb6a2d1a63c6ad3e7"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d82/a01601.html#a73b2cba8ecc0a4fcb6a2d1a63c6ad3e7">CalendarMailAnswers</a> { <br />
+&#160;&#160;<a class="el" href="../../d7/d82/a01601.html#a73b2cba8ecc0a4fcb6a2d1a63c6ad3e7ab011dccd3e2a3f82731887cb184dacaf">CALENDAR_EVENT_REMOVED_MAIL_SUBJECT</a> = 0
 , <br />
-&#160;&#160;<a class="el" href="../../d7/d82/a01601.html#a9c52752c50b87261f43020b3cfaa06e6a7d91d50e1acd06739fbc20bd87c8a4a3">ACHIEVEMENT_OFFLINE_PLAYER_UPDATE_TYPE_UPDATE_CRITERIA</a> = 2
+&#160;&#160;<a class="el" href="../../d7/d82/a01601.html#a73b2cba8ecc0a4fcb6a2d1a63c6ad3e7aeaf378ba4739bc58c1b530fd39368090">CALENDAR_INVITE_REMOVED_MAIL_SUBJECT</a> = 0x100
 <br />
  }</td></tr>
-<tr class="separator:a9c52752c50b87261f43020b3cfaa06e6"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a72f8a725cd1b257556ae7aa080f477c0"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d82/a01601.html#a72f8a725cd1b257556ae7aa080f477c0">AchievementCriteriaDataType</a> { <br />
-&#160;&#160;<a class="el" href="../../d7/d82/a01601.html#a72f8a725cd1b257556ae7aa080f477c0ae9d5b8759c2ee53b9e210a15ad049943">ACHIEVEMENT_CRITERIA_DATA_TYPE_NONE</a> = 0
+<tr class="separator:a73b2cba8ecc0a4fcb6a2d1a63c6ad3e7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5fcf8a7cda848f4b07b3bfc52392bc1c"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d82/a01601.html#a5fcf8a7cda848f4b07b3bfc52392bc1c">CalendarFlags</a> { <br />
+&#160;&#160;<a class="el" href="../../d7/d82/a01601.html#a5fcf8a7cda848f4b07b3bfc52392bc1caaec6bae0b6425676a85d9ba85b0c52ce">CALENDAR_FLAG_ALL_ALLOWED</a> = 0x001
 , <br />
-&#160;&#160;<a class="el" href="../../d7/d82/a01601.html#a72f8a725cd1b257556ae7aa080f477c0abc70f9063061689cbf95c04df5a9a448">ACHIEVEMENT_CRITERIA_DATA_TYPE_T_CREATURE</a> = 1
+&#160;&#160;<a class="el" href="../../d7/d82/a01601.html#a5fcf8a7cda848f4b07b3bfc52392bc1ca11c0822a05ad167436a105ad7d18675e">CALENDAR_FLAG_INVITES_LOCKED</a> = 0x010
 , <br />
-&#160;&#160;<a class="el" href="../../d7/d82/a01601.html#a72f8a725cd1b257556ae7aa080f477c0a22786f73e7cc8966c60614e88f0d5cb1">ACHIEVEMENT_CRITERIA_DATA_TYPE_T_PLAYER_CLASS_RACE</a> = 2
+&#160;&#160;<a class="el" href="../../d7/d82/a01601.html#a5fcf8a7cda848f4b07b3bfc52392bc1ca0c29c90b66a143ba0c0edfeb9b92d76a">CALENDAR_FLAG_WITHOUT_INVITES</a> = 0x040
 , <br />
-&#160;&#160;<a class="el" href="../../d7/d82/a01601.html#a72f8a725cd1b257556ae7aa080f477c0ac6775a92c029d4c2be529461e23e4ca3">ACHIEVEMENT_CRITERIA_DATA_TYPE_T_PLAYER_LESS_HEALTH</a> = 3
-, <br />
-&#160;&#160;<a class="el" href="../../d7/d82/a01601.html#a72f8a725cd1b257556ae7aa080f477c0adc76e0c15e881d6848994a911d1a8ef6">ACHIEVEMENT_CRITERIA_DATA_TYPE_T_PLAYER_DEAD</a> = 4
-, <br />
-&#160;&#160;<a class="el" href="../../d7/d82/a01601.html#a72f8a725cd1b257556ae7aa080f477c0a9507639d721e63f182ebd53d593d5465">ACHIEVEMENT_CRITERIA_DATA_TYPE_S_AURA</a> = 5
-, <br />
-&#160;&#160;<a class="el" href="../../d7/d82/a01601.html#a72f8a725cd1b257556ae7aa080f477c0a19b830790eb46adb27e8a65b85eceed1">ACHIEVEMENT_CRITERIA_DATA_TYPE_S_AREA</a> = 6
-, <br />
-&#160;&#160;<a class="el" href="../../d7/d82/a01601.html#a72f8a725cd1b257556ae7aa080f477c0aa0b32101ef67881083e58a6a6c55c75b">ACHIEVEMENT_CRITERIA_DATA_TYPE_T_AURA</a> = 7
-, <br />
-&#160;&#160;<a class="el" href="../../d7/d82/a01601.html#a72f8a725cd1b257556ae7aa080f477c0a3fd659753b9d41caa4b58c51d2cb6ea7">ACHIEVEMENT_CRITERIA_DATA_TYPE_VALUE</a> = 8
-, <br />
-&#160;&#160;<a class="el" href="../../d7/d82/a01601.html#a72f8a725cd1b257556ae7aa080f477c0ab055e5273ac4250d273fa5592af3ed39">ACHIEVEMENT_CRITERIA_DATA_TYPE_T_LEVEL</a> = 9
-, <br />
-&#160;&#160;<a class="el" href="../../d7/d82/a01601.html#a72f8a725cd1b257556ae7aa080f477c0a10fc4cfb0da2c0c72c12d5e6e4a1bdd6">ACHIEVEMENT_CRITERIA_DATA_TYPE_T_GENDER</a> = 10
-, <br />
-&#160;&#160;<a class="el" href="../../d7/d82/a01601.html#a72f8a725cd1b257556ae7aa080f477c0a0578b3122b1b69df3af04c2d45df266c">ACHIEVEMENT_CRITERIA_DATA_TYPE_SCRIPT</a> = 11
-, <br />
-&#160;&#160;<a class="el" href="../../d7/d82/a01601.html#a72f8a725cd1b257556ae7aa080f477c0a5813a09c9977d3d5f80595d529f7f420">ACHIEVEMENT_CRITERIA_DATA_TYPE_MAP_DIFFICULTY</a> = 12
-, <br />
-&#160;&#160;<a class="el" href="../../d7/d82/a01601.html#a72f8a725cd1b257556ae7aa080f477c0a1046e477766a7c60f4446fef1b13a6f5">ACHIEVEMENT_CRITERIA_DATA_TYPE_MAP_PLAYER_COUNT</a> = 13
-, <br />
-&#160;&#160;<a class="el" href="../../d7/d82/a01601.html#a72f8a725cd1b257556ae7aa080f477c0ad5967db594cc30c247c785d5c753cc18">ACHIEVEMENT_CRITERIA_DATA_TYPE_T_TEAM</a> = 14
-, <br />
-&#160;&#160;<a class="el" href="../../d7/d82/a01601.html#a72f8a725cd1b257556ae7aa080f477c0a7fcb85cf04be09a3a5f1214553bf329a">ACHIEVEMENT_CRITERIA_DATA_TYPE_S_DRUNK</a> = 15
-, <br />
-&#160;&#160;<a class="el" href="../../d7/d82/a01601.html#a72f8a725cd1b257556ae7aa080f477c0a9dba74c8f01c9292cf8afa6b77be2a34">ACHIEVEMENT_CRITERIA_DATA_TYPE_HOLIDAY</a> = 16
-, <br />
-&#160;&#160;<a class="el" href="../../d7/d82/a01601.html#a72f8a725cd1b257556ae7aa080f477c0aab81f29c4cb17f066e8d2bd95f37d954">ACHIEVEMENT_CRITERIA_DATA_TYPE_BG_LOSS_TEAM_SCORE</a> = 17
-, <br />
-&#160;&#160;<a class="el" href="../../d7/d82/a01601.html#a72f8a725cd1b257556ae7aa080f477c0adb7d56866cf7afe8c4145c300a06ec4c">ACHIEVEMENT_CRITERIA_DATA_TYPE_INSTANCE_SCRIPT</a> = 18
-, <br />
-&#160;&#160;<a class="el" href="../../d7/d82/a01601.html#a72f8a725cd1b257556ae7aa080f477c0a77677f4d00c6fab053e7f632ef59b4e5">ACHIEVEMENT_CRITERIA_DATA_TYPE_S_EQUIPPED_ITEM</a> = 19
-, <br />
-&#160;&#160;<a class="el" href="../../d7/d82/a01601.html#a72f8a725cd1b257556ae7aa080f477c0a84b46b516fde8adcd492cb856d32e722">ACHIEVEMENT_CRITERIA_DATA_TYPE_MAP_ID</a> = 20
-, <br />
-&#160;&#160;<a class="el" href="../../d7/d82/a01601.html#a72f8a725cd1b257556ae7aa080f477c0aaa861458fcfe5aed7f8714be2b68a1db">ACHIEVEMENT_CRITERIA_DATA_TYPE_S_PLAYER_CLASS_RACE</a> = 21
-, <br />
-&#160;&#160;<a class="el" href="../../d7/d82/a01601.html#a72f8a725cd1b257556ae7aa080f477c0a003a15517532a95903cb8c6673db418f">ACHIEVEMENT_CRITERIA_DATA_TYPE_NTH_BIRTHDAY</a> = 22
-, <br />
-&#160;&#160;<a class="el" href="../../d7/d82/a01601.html#a72f8a725cd1b257556ae7aa080f477c0a158d186341dd9798da3921a4a6bd2fda">ACHIEVEMENT_CRITERIA_DATA_TYPE_S_KNOWN_TITLE</a> = 23
-, <br />
-&#160;&#160;<a class="el" href="../../d7/d82/a01601.html#a72f8a725cd1b257556ae7aa080f477c0af734713c1c6764e61fddab192904518a">ACHIEVEMENT_CRITERIA_DATA_TYPE_BG_TEAMS_SCORES</a> = 24
-, <br />
-&#160;&#160;<a class="el" href="../../d7/d82/a01601.html#a72f8a725cd1b257556ae7aa080f477c0af53705f7958654cf4ca99c99dd320735">ACHIEVEMENT_CRITERIA_DATA_TYPE_S_ITEM_QUALITY</a> = 25
+&#160;&#160;<a class="el" href="../../d7/d82/a01601.html#a5fcf8a7cda848f4b07b3bfc52392bc1ca2846a8e774488e28e699cf1230dc3bab">CALENDAR_FLAG_GUILD_EVENT</a> = 0x400
 <br />
  }</td></tr>
-<tr class="separator:a72f8a725cd1b257556ae7aa080f477c0"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac0bc114e07c706c7192e14e80355a213"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d82/a01601.html#ac0bc114e07c706c7192e14e80355a213">AchievementCommonCategories</a> { <br />
-&#160;&#160;<a class="el" href="../../d7/d82/a01601.html#ac0bc114e07c706c7192e14e80355a213a4c91db703d7b5c8f8756bc6136bc5207">ACHIEVEMENT_CATEOGRY_GENERAL</a> = -1
+<tr class="separator:a5fcf8a7cda848f4b07b3bfc52392bc1c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5113854272ddc0db2f1b16775df15bb4"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d82/a01601.html#a5113854272ddc0db2f1b16775df15bb4">CalendarModerationRank</a> { <br />
+&#160;&#160;<a class="el" href="../../d7/d82/a01601.html#a5113854272ddc0db2f1b16775df15bb4a9b29fdfc41a609791c42bfd6c0947b0b">CALENDAR_RANK_PLAYER</a> = 0
 , <br />
-&#160;&#160;<a class="el" href="../../d7/d82/a01601.html#ac0bc114e07c706c7192e14e80355a213a142173b7c79b8a90cd7854fd7b03509a">ACHIEVEMENT_CATEGORY_STATISTICS</a> = 1
+&#160;&#160;<a class="el" href="../../d7/d82/a01601.html#a5113854272ddc0db2f1b16775df15bb4aaeb7962a8bc581af4775ec833986aa0f">CALENDAR_RANK_MODERATOR</a> = 1
+, <br />
+&#160;&#160;<a class="el" href="../../d7/d82/a01601.html#a5113854272ddc0db2f1b16775df15bb4ae34f35ee3aea898e6537bf5ee896a74a">CALENDAR_RANK_OWNER</a> = 2
 <br />
  }</td></tr>
-<tr class="separator:ac0bc114e07c706c7192e14e80355a213"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="separator:a5113854272ddc0db2f1b16775df15bb4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a710dc9e6940cf3a1c975690a82bbcc5d"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d82/a01601.html#a710dc9e6940cf3a1c975690a82bbcc5d">CalendarSendEventType</a> { <br />
+&#160;&#160;<a class="el" href="../../d7/d82/a01601.html#a710dc9e6940cf3a1c975690a82bbcc5da8c75918def25fecebd41052d301ebd89">CALENDAR_SENDTYPE_GET</a> = 0
+, <br />
+&#160;&#160;<a class="el" href="../../d7/d82/a01601.html#a710dc9e6940cf3a1c975690a82bbcc5daddb4d28bc665b21ce707863e8f73d5c6">CALENDAR_SENDTYPE_ADD</a> = 1
+, <br />
+&#160;&#160;<a class="el" href="../../d7/d82/a01601.html#a710dc9e6940cf3a1c975690a82bbcc5da9cac46904887119d94630a5554b9cb5c">CALENDAR_SENDTYPE_COPY</a> = 2
+<br />
+ }</td></tr>
+<tr class="separator:a710dc9e6940cf3a1c975690a82bbcc5d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aabfde90a2fd31d4aa93fac9f496c12fc"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d82/a01601.html#aabfde90a2fd31d4aa93fac9f496c12fc">CalendarEventType</a> { <br />
+&#160;&#160;<a class="el" href="../../d7/d82/a01601.html#aabfde90a2fd31d4aa93fac9f496c12fca48aa5b1bedf68195cdd22beef9b70890">CALENDAR_TYPE_RAID</a> = 0
+, <br />
+&#160;&#160;<a class="el" href="../../d7/d82/a01601.html#aabfde90a2fd31d4aa93fac9f496c12fca8437c91cd27563e4e360e6c7121634c1">CALENDAR_TYPE_DUNGEON</a> = 1
+, <br />
+&#160;&#160;<a class="el" href="../../d7/d82/a01601.html#aabfde90a2fd31d4aa93fac9f496c12fca70d5fb1e15351b8947fc6d67ffe3787e">CALENDAR_TYPE_PVP</a> = 2
+, <br />
+&#160;&#160;<a class="el" href="../../d7/d82/a01601.html#aabfde90a2fd31d4aa93fac9f496c12fca494b5ff6684446c72830fe7b4f5c6c3f">CALENDAR_TYPE_MEETING</a> = 3
+, <br />
+&#160;&#160;<a class="el" href="../../d7/d82/a01601.html#aabfde90a2fd31d4aa93fac9f496c12fca01ce2bdc9dc2ced0772ef714f873f397">CALENDAR_TYPE_OTHER</a> = 4
+<br />
+ }</td></tr>
+<tr class="separator:aabfde90a2fd31d4aa93fac9f496c12fc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a478517ab54461ea9b0618c173c75b792"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d82/a01601.html#a478517ab54461ea9b0618c173c75b792">CalendarRepeatType</a> { <br />
+&#160;&#160;<a class="el" href="../../d7/d82/a01601.html#a478517ab54461ea9b0618c173c75b792a29ee895d3464b3defda12c78534447fc">CALENDAR_REPEAT_NEVER</a> = 0
+, <br />
+&#160;&#160;<a class="el" href="../../d7/d82/a01601.html#a478517ab54461ea9b0618c173c75b792a0d82835a30b2d52a0f7cafe196d80faf">CALENDAR_REPEAT_WEEKLY</a> = 1
+, <br />
+&#160;&#160;<a class="el" href="../../d7/d82/a01601.html#a478517ab54461ea9b0618c173c75b792a087f583b5cc1ec6549a15960dd1954d9">CALENDAR_REPEAT_BIWEEKLY</a> = 2
+, <br />
+&#160;&#160;<a class="el" href="../../d7/d82/a01601.html#a478517ab54461ea9b0618c173c75b792aa432def8a9d2b77823bd1d81b44bc731">CALENDAR_REPEAT_MONTHLY</a> = 3
+<br />
+ }</td></tr>
+<tr class="separator:a478517ab54461ea9b0618c173c75b792"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abdb1aa687194b3d8b2fc19da7b3334b4"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d82/a01601.html#abdb1aa687194b3d8b2fc19da7b3334b4">CalendarInviteStatus</a> { <br />
+&#160;&#160;<a class="el" href="../../d7/d82/a01601.html#abdb1aa687194b3d8b2fc19da7b3334b4a2a057d25b8c726dc09413d9bb9c8be92">CALENDAR_STATUS_INVITED</a> = 0
+, <br />
+&#160;&#160;<a class="el" href="../../d7/d82/a01601.html#abdb1aa687194b3d8b2fc19da7b3334b4a2ca72ac10e931968fd01373d73b73525">CALENDAR_STATUS_ACCEPTED</a> = 1
+, <br />
+&#160;&#160;<a class="el" href="../../d7/d82/a01601.html#abdb1aa687194b3d8b2fc19da7b3334b4aa808b39d9c2805547d936762675ef4f6">CALENDAR_STATUS_DECLINED</a> = 2
+, <br />
+&#160;&#160;<a class="el" href="../../d7/d82/a01601.html#abdb1aa687194b3d8b2fc19da7b3334b4ae7cfe308334841fc33daefeee33cb1bc">CALENDAR_STATUS_CONFIRMED</a> = 3
+, <br />
+&#160;&#160;<a class="el" href="../../d7/d82/a01601.html#abdb1aa687194b3d8b2fc19da7b3334b4af8c5abe28506f07366c085908dfca1bb">CALENDAR_STATUS_OUT</a> = 4
+, <br />
+&#160;&#160;<a class="el" href="../../d7/d82/a01601.html#abdb1aa687194b3d8b2fc19da7b3334b4a2177c40fa4e5c9e8f361a01fa10c4aad">CALENDAR_STATUS_STANDBY</a> = 5
+, <br />
+&#160;&#160;<a class="el" href="../../d7/d82/a01601.html#abdb1aa687194b3d8b2fc19da7b3334b4a4268e3a8406a494637e317560ab27d28">CALENDAR_STATUS_SIGNED_UP</a> = 6
+, <br />
+&#160;&#160;<a class="el" href="../../d7/d82/a01601.html#abdb1aa687194b3d8b2fc19da7b3334b4a0f7719df2703c427637085ef82ec420d">CALENDAR_STATUS_NOT_SIGNED_UP</a> = 7
+, <br />
+&#160;&#160;<a class="el" href="../../d7/d82/a01601.html#abdb1aa687194b3d8b2fc19da7b3334b4a0f3f83d68d216ff326f5880ae5570be3">CALENDAR_STATUS_TENTATIVE</a> = 8
+, <br />
+&#160;&#160;<a class="el" href="../../d7/d82/a01601.html#abdb1aa687194b3d8b2fc19da7b3334b4a95cc3d298d4cd178c93c42ead591604d">CALENDAR_STATUS_REMOVED</a> = 9
+<br />
+ }</td></tr>
+<tr class="separator:abdb1aa687194b3d8b2fc19da7b3334b4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2812c2f5fdbdaf8b594ea7001772a9c5"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d82/a01601.html#a2812c2f5fdbdaf8b594ea7001772a9c5">CalendarError</a> { <br />
+&#160;&#160;<a class="el" href="../../d7/d82/a01601.html#a2812c2f5fdbdaf8b594ea7001772a9c5ac62ddd961bf35a19647e4cd6b9a7e6cd">CALENDAR_OK</a> = 0
+, <br />
+&#160;&#160;<a class="el" href="../../d7/d82/a01601.html#a2812c2f5fdbdaf8b594ea7001772a9c5a7516b93b285d93c30df815a153d24167">CALENDAR_ERROR_GUILD_EVENTS_EXCEEDED</a> = 1
+, <br />
+&#160;&#160;<a class="el" href="../../d7/d82/a01601.html#a2812c2f5fdbdaf8b594ea7001772a9c5a4ba9fa39d98f1bf085af3de98cca9dca">CALENDAR_ERROR_EVENTS_EXCEEDED</a> = 2
+, <br />
+&#160;&#160;<a class="el" href="../../d7/d82/a01601.html#a2812c2f5fdbdaf8b594ea7001772a9c5a320b0a93d9cba18e879cd1bea5f96fbf">CALENDAR_ERROR_SELF_INVITES_EXCEEDED</a> = 3
+, <br />
+&#160;&#160;<a class="el" href="../../d7/d82/a01601.html#a2812c2f5fdbdaf8b594ea7001772a9c5a2f54e4a55eac48953a9cafc4614c4fb4">CALENDAR_ERROR_OTHER_INVITES_EXCEEDED</a> = 4
+, <br />
+&#160;&#160;<a class="el" href="../../d7/d82/a01601.html#a2812c2f5fdbdaf8b594ea7001772a9c5a48674cf3f296507a9923feccf39b1afa">CALENDAR_ERROR_PERMISSIONS</a> = 5
+, <br />
+&#160;&#160;<a class="el" href="../../d7/d82/a01601.html#a2812c2f5fdbdaf8b594ea7001772a9c5ae3d987dfddd3797dc8888252cf89fc36">CALENDAR_ERROR_EVENT_INVALID</a> = 6
+, <br />
+&#160;&#160;<a class="el" href="../../d7/d82/a01601.html#a2812c2f5fdbdaf8b594ea7001772a9c5a1560dd9567ff6c5755b3aa62d3979fd8">CALENDAR_ERROR_NOT_INVITED</a> = 7
+, <br />
+&#160;&#160;<a class="el" href="../../d7/d82/a01601.html#a2812c2f5fdbdaf8b594ea7001772a9c5a000f01ad03bfb2f45c6b8e07af9dd825">CALENDAR_ERROR_INTERNAL</a> = 8
+, <br />
+&#160;&#160;<a class="el" href="../../d7/d82/a01601.html#a2812c2f5fdbdaf8b594ea7001772a9c5af2be40799e55127c125ce2d143ec1ff6">CALENDAR_ERROR_GUILD_PLAYER_NOT_IN_GUILD</a> = 9
+, <br />
+&#160;&#160;<a class="el" href="../../d7/d82/a01601.html#a2812c2f5fdbdaf8b594ea7001772a9c5a8f5b36d4edb8a21f05dd2e4fac327301">CALENDAR_ERROR_ALREADY_INVITED_TO_EVENT_S</a> = 10
+, <br />
+&#160;&#160;<a class="el" href="../../d7/d82/a01601.html#a2812c2f5fdbdaf8b594ea7001772a9c5ac3e9334e8cbc95e43e53ff88b1afd20d">CALENDAR_ERROR_PLAYER_NOT_FOUND</a> = 11
+, <br />
+&#160;&#160;<a class="el" href="../../d7/d82/a01601.html#a2812c2f5fdbdaf8b594ea7001772a9c5a443a38772984e225a6590867ee37f276">CALENDAR_ERROR_NOT_ALLIED</a> = 12
+, <br />
+&#160;&#160;<a class="el" href="../../d7/d82/a01601.html#a2812c2f5fdbdaf8b594ea7001772a9c5ac12d9c0f2ef9c311d4e6de7f6388841c">CALENDAR_ERROR_IGNORING_YOU_S</a> = 13
+, <br />
+&#160;&#160;<a class="el" href="../../d7/d82/a01601.html#a2812c2f5fdbdaf8b594ea7001772a9c5a93ab32bcbba393e663a662113184d128">CALENDAR_ERROR_INVITES_EXCEEDED</a> = 14
+, <br />
+&#160;&#160;<a class="el" href="../../d7/d82/a01601.html#a2812c2f5fdbdaf8b594ea7001772a9c5a643cb78069bcd2732f7aa59b4ddf4e5e">CALENDAR_ERROR_INVALID_DATE</a> = 16
+, <br />
+&#160;&#160;<a class="el" href="../../d7/d82/a01601.html#a2812c2f5fdbdaf8b594ea7001772a9c5aab8bb0ad9960b4faecc59a4cc60a6582">CALENDAR_ERROR_INVALID_TIME</a> = 17
+, <br />
+&#160;&#160;<a class="el" href="../../d7/d82/a01601.html#a2812c2f5fdbdaf8b594ea7001772a9c5a65a54f787853a10d0ae3748aaa5777fd">CALENDAR_ERROR_NEEDS_TITLE</a> = 19
+, <br />
+&#160;&#160;<a class="el" href="../../d7/d82/a01601.html#a2812c2f5fdbdaf8b594ea7001772a9c5a0f04b6feb420a3e25db30a97a92a7203">CALENDAR_ERROR_EVENT_PASSED</a> = 20
+, <br />
+&#160;&#160;<a class="el" href="../../d7/d82/a01601.html#a2812c2f5fdbdaf8b594ea7001772a9c5a1c9e2cc87b2d09d205062f1309aa2a40">CALENDAR_ERROR_EVENT_LOCKED</a> = 21
+, <br />
+&#160;&#160;<a class="el" href="../../d7/d82/a01601.html#a2812c2f5fdbdaf8b594ea7001772a9c5a6c5119088956e0bd9aee2d6874547522">CALENDAR_ERROR_DELETE_CREATOR_FAILED</a> = 22
+, <br />
+&#160;&#160;<a class="el" href="../../d7/d82/a01601.html#a2812c2f5fdbdaf8b594ea7001772a9c5a0dc2264473d089c2a2dc2ae72c55bb8e">CALENDAR_ERROR_SYSTEM_DISABLED</a> = 24
+, <br />
+&#160;&#160;<a class="el" href="../../d7/d82/a01601.html#a2812c2f5fdbdaf8b594ea7001772a9c5abb0e98a0d33e09bd1b047bff343c74a1">CALENDAR_ERROR_RESTRICTED_ACCOUNT</a> = 25
+, <br />
+&#160;&#160;<a class="el" href="../../d7/d82/a01601.html#a2812c2f5fdbdaf8b594ea7001772a9c5a2a84b6823769761020b9b7fd6c22b3c4">CALENDAR_ERROR_ARENA_EVENTS_EXCEEDED</a> = 26
+, <br />
+&#160;&#160;<a class="el" href="../../d7/d82/a01601.html#a2812c2f5fdbdaf8b594ea7001772a9c5a6c4475d051a74a6768efa1781caa1bd8">CALENDAR_ERROR_RESTRICTED_LEVEL</a> = 27
+, <br />
+&#160;&#160;<a class="el" href="../../d7/d82/a01601.html#a2812c2f5fdbdaf8b594ea7001772a9c5ac2cf0dee47c60fff68e4d0377b1920ae">CALENDAR_ERROR_USER_SQUELCHED</a> = 28
+, <br />
+&#160;&#160;<a class="el" href="../../d7/d82/a01601.html#a2812c2f5fdbdaf8b594ea7001772a9c5a0aa1c82beb1173e79c4195a69dbe57d3">CALENDAR_ERROR_NO_INVITE</a> = 29
+, <br />
+&#160;&#160;<a class="el" href="../../d7/d82/a01601.html#a2812c2f5fdbdaf8b594ea7001772a9c5ab44e9487ece19ecfc94b4edb564b134f">CALENDAR_ERROR_EVENT_WRONG_SERVER</a> = 36
+, <br />
+&#160;&#160;<a class="el" href="../../d7/d82/a01601.html#a2812c2f5fdbdaf8b594ea7001772a9c5a87fd3457b7f5866136a1872a64e0ebf9">CALENDAR_ERROR_INVITE_WRONG_SERVER</a> = 37
+, <br />
+&#160;&#160;<a class="el" href="../../d7/d82/a01601.html#a2812c2f5fdbdaf8b594ea7001772a9c5a583b338a1e449c4556cf59bde571b520">CALENDAR_ERROR_NO_GUILD_INVITES</a> = 38
+, <br />
+&#160;&#160;<a class="el" href="../../d7/d82/a01601.html#a2812c2f5fdbdaf8b594ea7001772a9c5a02351c5872a342c5a0b8b0b498c83cc2">CALENDAR_ERROR_INVALID_SIGNUP</a> = 39
+, <br />
+&#160;&#160;<a class="el" href="../../d7/d82/a01601.html#a2812c2f5fdbdaf8b594ea7001772a9c5a77f3aae4f5f09a6d58d64897209d67dd">CALENDAR_ERROR_NO_MODERATOR</a> = 40
+<br />
+ }</td></tr>
+<tr class="separator:a2812c2f5fdbdaf8b594ea7001772a9c5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adf6bf00c462990adc2b57c02f9db8c32"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d82/a01601.html#adf6bf00c462990adc2b57c02f9db8c32">CalendarLimits</a> { <br />
+&#160;&#160;<a class="el" href="../../d7/d82/a01601.html#adf6bf00c462990adc2b57c02f9db8c32a49230604bd7fd600f1852ba9dd754076">CALENDAR_MAX_EVENTS</a> = 30
+, <br />
+&#160;&#160;<a class="el" href="../../d7/d82/a01601.html#adf6bf00c462990adc2b57c02f9db8c32abec07e16ff5421a7ae42dc4b182958a2">CALENDAR_MAX_GUILD_EVENTS</a> = 100
+, <br />
+&#160;&#160;<a class="el" href="../../d7/d82/a01601.html#adf6bf00c462990adc2b57c02f9db8c32aa5c5d3a6c0bb88385109aa937a047e95">CALENDAR_MAX_INVITES</a> = 100
+, <br />
+&#160;&#160;<a class="el" href="../../d7/d82/a01601.html#adf6bf00c462990adc2b57c02f9db8c32ae4904590b247a266816d8e71ad231b9f">CALENDAR_CREATE_EVENT_COOLDOWN</a> = 5
+, <br />
+&#160;&#160;<a class="el" href="../../d7/d82/a01601.html#adf6bf00c462990adc2b57c02f9db8c32a1abad081cf58bddddf2065698274bd48">CALENDAR_OLD_EVENTS_DELETION_TIME</a> = 1 * MONTH
+<br />
+ }</td></tr>
+<tr class="separator:adf6bf00c462990adc2b57c02f9db8c32"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Macro Definition Documentation</h2>
-<a id="aa36806d2931b69d34909b50f40ca8c0e" name="aa36806d2931b69d34909b50f40ca8c0e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa36806d2931b69d34909b50f40ca8c0e">&#9670;&#160;</a></span>MAX_ACHIEVEMENT_CRITERIA_DATA_TYPE</h2>
+<a id="a19ac4cd787f75380716d027d20c06b7a" name="a19ac4cd787f75380716d027d20c06b7a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a19ac4cd787f75380716d027d20c06b7a">&#9670;&#160;</a></span>sCalendarMgr</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">#define MAX_ACHIEVEMENT_CRITERIA_DATA_TYPE&#160;&#160;&#160;26</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="af422afe119839b631fd67247eddff1e6" name="af422afe119839b631fd67247eddff1e6"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af422afe119839b631fd67247eddff1e6">&#9670;&#160;</a></span>sAchievementMgr</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">#define sAchievementMgr&#160;&#160;&#160;<a class="el" href="../../dd/d51/a06023.html#a2b4dc8e045dd563567a55570e37b86fb">AchievementGlobalMgr::instance</a>()</td>
+          <td class="memname">#define sCalendarMgr&#160;&#160;&#160;<a class="el" href="../../d7/d19/a07464.html#a4dd925ac86f5709e8f3d3d8147aeaf36">CalendarMgr::instance</a>()</td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -273,126 +325,42 @@ Enumerations</h2></td></tr>
 </div>
 </div>
 <h2 class="groupheader">Typedef Documentation</h2>
-<a id="ac16b4d5f47fe0db16d59dc67e86e42be" name="ac16b4d5f47fe0db16d59dc67e86e42be"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac16b4d5f47fe0db16d59dc67e86e42be">&#9670;&#160;</a></span>AchievementCriteriaDataMap</h2>
+<a id="af35b9a127e069a3aed4acad11a7cc5a6" name="af35b9a127e069a3aed4acad11a7cc5a6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af35b9a127e069a3aed4acad11a7cc5a6">&#9670;&#160;</a></span>CalendarEventInviteStore</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">typedef std::map&lt;<a class="el" href="../../d4/d61/a04406.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../d3/d59/a06003.html">AchievementCriteriaDataSet</a>&gt; <a class="el" href="../../d7/d82/a01601.html#ac16b4d5f47fe0db16d59dc67e86e42be">AchievementCriteriaDataMap</a></td>
+          <td class="memname">typedef std::unordered_map&lt;<a class="el" href="../../db/daf/a04412.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a> , <a class="el" href="../../d7/d82/a01601.html#a6fe31a855a3ec48abb6eccd7296351ee">CalendarInviteStore</a> &gt; <a class="el" href="../../d7/d82/a01601.html#af35b9a127e069a3aed4acad11a7cc5a6">CalendarEventInviteStore</a></td>
         </tr>
       </table>
 </div><div class="memdoc">
 
 </div>
 </div>
-<a id="a7a5f365d092f508da6ae8d510f0e3117" name="a7a5f365d092f508da6ae8d510f0e3117"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a7a5f365d092f508da6ae8d510f0e3117">&#9670;&#160;</a></span>AchievementCriteriaEntryList</h2>
+<a id="aea0466a27af69ea188d66b721b49a3d6" name="aea0466a27af69ea188d66b721b49a3d6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aea0466a27af69ea188d66b721b49a3d6">&#9670;&#160;</a></span>CalendarEventStore</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">typedef std::list&lt;<a class="el" href="../../d5/dba/a27687.html">AchievementCriteriaEntry</a> const*&gt; <a class="el" href="../../d7/d82/a01601.html#a7a5f365d092f508da6ae8d510f0e3117">AchievementCriteriaEntryList</a></td>
+          <td class="memname">typedef std::unordered_set&lt;<a class="el" href="../../d2/d2b/a07460.html">CalendarEvent</a>*&gt; <a class="el" href="../../d7/d82/a01601.html#aea0466a27af69ea188d66b721b49a3d6">CalendarEventStore</a></td>
         </tr>
       </table>
 </div><div class="memdoc">
 
 </div>
 </div>
-<a id="ad5e4b1cd98f21804a508642d8475033f" name="ad5e4b1cd98f21804a508642d8475033f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad5e4b1cd98f21804a508642d8475033f">&#9670;&#160;</a></span>AchievementCriteriaListByAchievement</h2>
+<a id="a6fe31a855a3ec48abb6eccd7296351ee" name="a6fe31a855a3ec48abb6eccd7296351ee"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6fe31a855a3ec48abb6eccd7296351ee">&#9670;&#160;</a></span>CalendarInviteStore</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">typedef std::unordered_map&lt;<a class="el" href="../../d4/d61/a04406.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../d7/d82/a01601.html#a7a5f365d092f508da6ae8d510f0e3117">AchievementCriteriaEntryList</a>&gt; <a class="el" href="../../d7/d82/a01601.html#ad5e4b1cd98f21804a508642d8475033f">AchievementCriteriaListByAchievement</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a9d70fd67a3069b6a55c0145265bffc4b" name="a9d70fd67a3069b6a55c0145265bffc4b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a9d70fd67a3069b6a55c0145265bffc4b">&#9670;&#160;</a></span>AchievementEntryList</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">typedef std::list&lt;<a class="el" href="../../d3/dab/a27679.html">AchievementEntry</a> const*&gt; <a class="el" href="../../d7/d82/a01601.html#a9d70fd67a3069b6a55c0145265bffc4b">AchievementEntryList</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="af3b606f4c218a7e68902cd9ff9470f5b" name="af3b606f4c218a7e68902cd9ff9470f5b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af3b606f4c218a7e68902cd9ff9470f5b">&#9670;&#160;</a></span>AchievementListByReferencedId</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">typedef std::map&lt;<a class="el" href="../../d4/d61/a04406.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../d7/d82/a01601.html#a9d70fd67a3069b6a55c0145265bffc4b">AchievementEntryList</a>&gt; <a class="el" href="../../d7/d82/a01601.html#af3b606f4c218a7e68902cd9ff9470f5b">AchievementListByReferencedId</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a3d51ce6b9e37b72772cea78f064e5a77" name="a3d51ce6b9e37b72772cea78f064e5a77"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a3d51ce6b9e37b72772cea78f064e5a77">&#9670;&#160;</a></span>AchievementRewardLocales</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">typedef std::map&lt;<a class="el" href="../../d4/d61/a04406.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../d8/d4e/a06011.html">AchievementRewardLocale</a>&gt; <a class="el" href="../../d7/d82/a01601.html#a3d51ce6b9e37b72772cea78f064e5a77">AchievementRewardLocales</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a471572afc0467790ccff565b39f61720" name="a471572afc0467790ccff565b39f61720"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a471572afc0467790ccff565b39f61720">&#9670;&#160;</a></span>AchievementRewards</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">typedef std::map&lt;<a class="el" href="../../d4/d61/a04406.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../dc/ddd/a06007.html">AchievementReward</a>&gt; <a class="el" href="../../d7/d82/a01601.html#a471572afc0467790ccff565b39f61720">AchievementRewards</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="aee097fd9426b25c1101af73a551a37e1" name="aee097fd9426b25c1101af73a551a37e1"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aee097fd9426b25c1101af73a551a37e1">&#9670;&#160;</a></span>CompletedAchievementMap</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">typedef std::unordered_map&lt;<a class="el" href="../../d4/d61/a04406.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../dc/d04/a06015.html">CompletedAchievementData</a>&gt; <a class="el" href="../../d7/d82/a01601.html#aee097fd9426b25c1101af73a551a37e1">CompletedAchievementMap</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a649527d8ab61f39ad17fe709d2b1aabc" name="a649527d8ab61f39ad17fe709d2b1aabc"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a649527d8ab61f39ad17fe709d2b1aabc">&#9670;&#160;</a></span>CriteriaProgressMap</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">typedef std::unordered_map&lt;<a class="el" href="../../d4/d61/a04406.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../db/d12/a05903.html">CriteriaProgress</a>&gt; <a class="el" href="../../d7/d82/a01601.html#a649527d8ab61f39ad17fe709d2b1aabc">CriteriaProgressMap</a></td>
+          <td class="memname">typedef std::vector&lt;<a class="el" href="../../dd/d44/a07456.html">CalendarInvite</a>*&gt; <a class="el" href="../../d7/d82/a01601.html#a6fe31a855a3ec48abb6eccd7296351ee">CalendarInviteStore</a></td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -400,148 +368,374 @@ Enumerations</h2></td></tr>
 </div>
 </div>
 <h2 class="groupheader">Enumeration Type Documentation</h2>
-<a id="ac0bc114e07c706c7192e14e80355a213" name="ac0bc114e07c706c7192e14e80355a213"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac0bc114e07c706c7192e14e80355a213">&#9670;&#160;</a></span>AchievementCommonCategories</h2>
+<a id="a2812c2f5fdbdaf8b594ea7001772a9c5" name="a2812c2f5fdbdaf8b594ea7001772a9c5"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2812c2f5fdbdaf8b594ea7001772a9c5">&#9670;&#160;</a></span>CalendarError</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">enum <a class="el" href="../../d7/d82/a01601.html#ac0bc114e07c706c7192e14e80355a213">AchievementCommonCategories</a></td>
+          <td class="memname">enum <a class="el" href="../../d7/d82/a01601.html#a2812c2f5fdbdaf8b594ea7001772a9c5">CalendarError</a></td>
         </tr>
       </table>
 </div><div class="memdoc">
 <table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="ac0bc114e07c706c7192e14e80355a213a4c91db703d7b5c8f8756bc6136bc5207" name="ac0bc114e07c706c7192e14e80355a213a4c91db703d7b5c8f8756bc6136bc5207"></a>ACHIEVEMENT_CATEOGRY_GENERAL&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ac0bc114e07c706c7192e14e80355a213a142173b7c79b8a90cd7854fd7b03509a" name="ac0bc114e07c706c7192e14e80355a213a142173b7c79b8a90cd7854fd7b03509a"></a>ACHIEVEMENT_CATEGORY_STATISTICS&#160;</td><td class="fielddoc"></td></tr>
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a2812c2f5fdbdaf8b594ea7001772a9c5ac62ddd961bf35a19647e4cd6b9a7e6cd" name="a2812c2f5fdbdaf8b594ea7001772a9c5ac62ddd961bf35a19647e4cd6b9a7e6cd"></a>CALENDAR_OK&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a2812c2f5fdbdaf8b594ea7001772a9c5a7516b93b285d93c30df815a153d24167" name="a2812c2f5fdbdaf8b594ea7001772a9c5a7516b93b285d93c30df815a153d24167"></a>CALENDAR_ERROR_GUILD_EVENTS_EXCEEDED&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a2812c2f5fdbdaf8b594ea7001772a9c5a4ba9fa39d98f1bf085af3de98cca9dca" name="a2812c2f5fdbdaf8b594ea7001772a9c5a4ba9fa39d98f1bf085af3de98cca9dca"></a>CALENDAR_ERROR_EVENTS_EXCEEDED&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a2812c2f5fdbdaf8b594ea7001772a9c5a320b0a93d9cba18e879cd1bea5f96fbf" name="a2812c2f5fdbdaf8b594ea7001772a9c5a320b0a93d9cba18e879cd1bea5f96fbf"></a>CALENDAR_ERROR_SELF_INVITES_EXCEEDED&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a2812c2f5fdbdaf8b594ea7001772a9c5a2f54e4a55eac48953a9cafc4614c4fb4" name="a2812c2f5fdbdaf8b594ea7001772a9c5a2f54e4a55eac48953a9cafc4614c4fb4"></a>CALENDAR_ERROR_OTHER_INVITES_EXCEEDED&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a2812c2f5fdbdaf8b594ea7001772a9c5a48674cf3f296507a9923feccf39b1afa" name="a2812c2f5fdbdaf8b594ea7001772a9c5a48674cf3f296507a9923feccf39b1afa"></a>CALENDAR_ERROR_PERMISSIONS&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a2812c2f5fdbdaf8b594ea7001772a9c5ae3d987dfddd3797dc8888252cf89fc36" name="a2812c2f5fdbdaf8b594ea7001772a9c5ae3d987dfddd3797dc8888252cf89fc36"></a>CALENDAR_ERROR_EVENT_INVALID&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a2812c2f5fdbdaf8b594ea7001772a9c5a1560dd9567ff6c5755b3aa62d3979fd8" name="a2812c2f5fdbdaf8b594ea7001772a9c5a1560dd9567ff6c5755b3aa62d3979fd8"></a>CALENDAR_ERROR_NOT_INVITED&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a2812c2f5fdbdaf8b594ea7001772a9c5a000f01ad03bfb2f45c6b8e07af9dd825" name="a2812c2f5fdbdaf8b594ea7001772a9c5a000f01ad03bfb2f45c6b8e07af9dd825"></a>CALENDAR_ERROR_INTERNAL&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a2812c2f5fdbdaf8b594ea7001772a9c5af2be40799e55127c125ce2d143ec1ff6" name="a2812c2f5fdbdaf8b594ea7001772a9c5af2be40799e55127c125ce2d143ec1ff6"></a>CALENDAR_ERROR_GUILD_PLAYER_NOT_IN_GUILD&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a2812c2f5fdbdaf8b594ea7001772a9c5a8f5b36d4edb8a21f05dd2e4fac327301" name="a2812c2f5fdbdaf8b594ea7001772a9c5a8f5b36d4edb8a21f05dd2e4fac327301"></a>CALENDAR_ERROR_ALREADY_INVITED_TO_EVENT_S&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a2812c2f5fdbdaf8b594ea7001772a9c5ac3e9334e8cbc95e43e53ff88b1afd20d" name="a2812c2f5fdbdaf8b594ea7001772a9c5ac3e9334e8cbc95e43e53ff88b1afd20d"></a>CALENDAR_ERROR_PLAYER_NOT_FOUND&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a2812c2f5fdbdaf8b594ea7001772a9c5a443a38772984e225a6590867ee37f276" name="a2812c2f5fdbdaf8b594ea7001772a9c5a443a38772984e225a6590867ee37f276"></a>CALENDAR_ERROR_NOT_ALLIED&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a2812c2f5fdbdaf8b594ea7001772a9c5ac12d9c0f2ef9c311d4e6de7f6388841c" name="a2812c2f5fdbdaf8b594ea7001772a9c5ac12d9c0f2ef9c311d4e6de7f6388841c"></a>CALENDAR_ERROR_IGNORING_YOU_S&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a2812c2f5fdbdaf8b594ea7001772a9c5a93ab32bcbba393e663a662113184d128" name="a2812c2f5fdbdaf8b594ea7001772a9c5a93ab32bcbba393e663a662113184d128"></a>CALENDAR_ERROR_INVITES_EXCEEDED&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a2812c2f5fdbdaf8b594ea7001772a9c5a643cb78069bcd2732f7aa59b4ddf4e5e" name="a2812c2f5fdbdaf8b594ea7001772a9c5a643cb78069bcd2732f7aa59b4ddf4e5e"></a>CALENDAR_ERROR_INVALID_DATE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a2812c2f5fdbdaf8b594ea7001772a9c5aab8bb0ad9960b4faecc59a4cc60a6582" name="a2812c2f5fdbdaf8b594ea7001772a9c5aab8bb0ad9960b4faecc59a4cc60a6582"></a>CALENDAR_ERROR_INVALID_TIME&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a2812c2f5fdbdaf8b594ea7001772a9c5a65a54f787853a10d0ae3748aaa5777fd" name="a2812c2f5fdbdaf8b594ea7001772a9c5a65a54f787853a10d0ae3748aaa5777fd"></a>CALENDAR_ERROR_NEEDS_TITLE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a2812c2f5fdbdaf8b594ea7001772a9c5a0f04b6feb420a3e25db30a97a92a7203" name="a2812c2f5fdbdaf8b594ea7001772a9c5a0f04b6feb420a3e25db30a97a92a7203"></a>CALENDAR_ERROR_EVENT_PASSED&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a2812c2f5fdbdaf8b594ea7001772a9c5a1c9e2cc87b2d09d205062f1309aa2a40" name="a2812c2f5fdbdaf8b594ea7001772a9c5a1c9e2cc87b2d09d205062f1309aa2a40"></a>CALENDAR_ERROR_EVENT_LOCKED&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a2812c2f5fdbdaf8b594ea7001772a9c5a6c5119088956e0bd9aee2d6874547522" name="a2812c2f5fdbdaf8b594ea7001772a9c5a6c5119088956e0bd9aee2d6874547522"></a>CALENDAR_ERROR_DELETE_CREATOR_FAILED&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a2812c2f5fdbdaf8b594ea7001772a9c5a0dc2264473d089c2a2dc2ae72c55bb8e" name="a2812c2f5fdbdaf8b594ea7001772a9c5a0dc2264473d089c2a2dc2ae72c55bb8e"></a>CALENDAR_ERROR_SYSTEM_DISABLED&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a2812c2f5fdbdaf8b594ea7001772a9c5abb0e98a0d33e09bd1b047bff343c74a1" name="a2812c2f5fdbdaf8b594ea7001772a9c5abb0e98a0d33e09bd1b047bff343c74a1"></a>CALENDAR_ERROR_RESTRICTED_ACCOUNT&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a2812c2f5fdbdaf8b594ea7001772a9c5a2a84b6823769761020b9b7fd6c22b3c4" name="a2812c2f5fdbdaf8b594ea7001772a9c5a2a84b6823769761020b9b7fd6c22b3c4"></a>CALENDAR_ERROR_ARENA_EVENTS_EXCEEDED&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a2812c2f5fdbdaf8b594ea7001772a9c5a6c4475d051a74a6768efa1781caa1bd8" name="a2812c2f5fdbdaf8b594ea7001772a9c5a6c4475d051a74a6768efa1781caa1bd8"></a>CALENDAR_ERROR_RESTRICTED_LEVEL&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a2812c2f5fdbdaf8b594ea7001772a9c5ac2cf0dee47c60fff68e4d0377b1920ae" name="a2812c2f5fdbdaf8b594ea7001772a9c5ac2cf0dee47c60fff68e4d0377b1920ae"></a>CALENDAR_ERROR_USER_SQUELCHED&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a2812c2f5fdbdaf8b594ea7001772a9c5a0aa1c82beb1173e79c4195a69dbe57d3" name="a2812c2f5fdbdaf8b594ea7001772a9c5a0aa1c82beb1173e79c4195a69dbe57d3"></a>CALENDAR_ERROR_NO_INVITE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a2812c2f5fdbdaf8b594ea7001772a9c5ab44e9487ece19ecfc94b4edb564b134f" name="a2812c2f5fdbdaf8b594ea7001772a9c5ab44e9487ece19ecfc94b4edb564b134f"></a>CALENDAR_ERROR_EVENT_WRONG_SERVER&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a2812c2f5fdbdaf8b594ea7001772a9c5a87fd3457b7f5866136a1872a64e0ebf9" name="a2812c2f5fdbdaf8b594ea7001772a9c5a87fd3457b7f5866136a1872a64e0ebf9"></a>CALENDAR_ERROR_INVITE_WRONG_SERVER&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a2812c2f5fdbdaf8b594ea7001772a9c5a583b338a1e449c4556cf59bde571b520" name="a2812c2f5fdbdaf8b594ea7001772a9c5a583b338a1e449c4556cf59bde571b520"></a>CALENDAR_ERROR_NO_GUILD_INVITES&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a2812c2f5fdbdaf8b594ea7001772a9c5a02351c5872a342c5a0b8b0b498c83cc2" name="a2812c2f5fdbdaf8b594ea7001772a9c5a02351c5872a342c5a0b8b0b498c83cc2"></a>CALENDAR_ERROR_INVALID_SIGNUP&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a2812c2f5fdbdaf8b594ea7001772a9c5a77f3aae4f5f09a6d58d64897209d67dd" name="a2812c2f5fdbdaf8b594ea7001772a9c5a77f3aae4f5f09a6d58d64897209d67dd"></a>CALENDAR_ERROR_NO_MODERATOR&#160;</td><td class="fielddoc"></td></tr>
 </table>
 <div class="fragment"><div class="line"><span class="lineno">   89</span>{</div>
-<div class="line"><span class="lineno">   90</span>    <a class="code hl_enumvalue" href="../../d7/d82/a01601.html#ac0bc114e07c706c7192e14e80355a213a4c91db703d7b5c8f8756bc6136bc5207">ACHIEVEMENT_CATEOGRY_GENERAL</a>                        = -1,</div>
-<div class="line"><span class="lineno">   91</span>    <a class="code hl_enumvalue" href="../../d7/d82/a01601.html#ac0bc114e07c706c7192e14e80355a213a142173b7c79b8a90cd7854fd7b03509a">ACHIEVEMENT_CATEGORY_STATISTICS</a>                     =  1</div>
-<div class="line"><span class="lineno">   92</span>};</div>
-<div class="ttc" id="aa01601_html_ac0bc114e07c706c7192e14e80355a213a142173b7c79b8a90cd7854fd7b03509a"><div class="ttname"><a href="../../d7/d82/a01601.html#ac0bc114e07c706c7192e14e80355a213a142173b7c79b8a90cd7854fd7b03509a">ACHIEVEMENT_CATEGORY_STATISTICS</a></div><div class="ttdeci">@ ACHIEVEMENT_CATEGORY_STATISTICS</div><div class="ttdef"><b>Definition:</b> AchievementMgr.h:91</div></div>
-<div class="ttc" id="aa01601_html_ac0bc114e07c706c7192e14e80355a213a4c91db703d7b5c8f8756bc6136bc5207"><div class="ttname"><a href="../../d7/d82/a01601.html#ac0bc114e07c706c7192e14e80355a213a4c91db703d7b5c8f8756bc6136bc5207">ACHIEVEMENT_CATEOGRY_GENERAL</a></div><div class="ttdeci">@ ACHIEVEMENT_CATEOGRY_GENERAL</div><div class="ttdef"><b>Definition:</b> AchievementMgr.h:90</div></div>
+<div class="line"><span class="lineno">   90</span>    <a class="code hl_enumvalue" href="../../d7/d82/a01601.html#a2812c2f5fdbdaf8b594ea7001772a9c5ac62ddd961bf35a19647e4cd6b9a7e6cd">CALENDAR_OK</a>                                 = 0,</div>
+<div class="line"><span class="lineno">   91</span>    <a class="code hl_enumvalue" href="../../d7/d82/a01601.html#a2812c2f5fdbdaf8b594ea7001772a9c5a7516b93b285d93c30df815a153d24167">CALENDAR_ERROR_GUILD_EVENTS_EXCEEDED</a>        = 1,</div>
+<div class="line"><span class="lineno">   92</span>    <a class="code hl_enumvalue" href="../../d7/d82/a01601.html#a2812c2f5fdbdaf8b594ea7001772a9c5a4ba9fa39d98f1bf085af3de98cca9dca">CALENDAR_ERROR_EVENTS_EXCEEDED</a>              = 2,</div>
+<div class="line"><span class="lineno">   93</span>    <a class="code hl_enumvalue" href="../../d7/d82/a01601.html#a2812c2f5fdbdaf8b594ea7001772a9c5a320b0a93d9cba18e879cd1bea5f96fbf">CALENDAR_ERROR_SELF_INVITES_EXCEEDED</a>        = 3,</div>
+<div class="line"><span class="lineno">   94</span>    <a class="code hl_enumvalue" href="../../d7/d82/a01601.html#a2812c2f5fdbdaf8b594ea7001772a9c5a2f54e4a55eac48953a9cafc4614c4fb4">CALENDAR_ERROR_OTHER_INVITES_EXCEEDED</a>       = 4,</div>
+<div class="line"><span class="lineno">   95</span>    <a class="code hl_enumvalue" href="../../d7/d82/a01601.html#a2812c2f5fdbdaf8b594ea7001772a9c5a48674cf3f296507a9923feccf39b1afa">CALENDAR_ERROR_PERMISSIONS</a>                  = 5,</div>
+<div class="line"><span class="lineno">   96</span>    <a class="code hl_enumvalue" href="../../d7/d82/a01601.html#a2812c2f5fdbdaf8b594ea7001772a9c5ae3d987dfddd3797dc8888252cf89fc36">CALENDAR_ERROR_EVENT_INVALID</a>                = 6,</div>
+<div class="line"><span class="lineno">   97</span>    <a class="code hl_enumvalue" href="../../d7/d82/a01601.html#a2812c2f5fdbdaf8b594ea7001772a9c5a1560dd9567ff6c5755b3aa62d3979fd8">CALENDAR_ERROR_NOT_INVITED</a>                  = 7,</div>
+<div class="line"><span class="lineno">   98</span>    <a class="code hl_enumvalue" href="../../d7/d82/a01601.html#a2812c2f5fdbdaf8b594ea7001772a9c5a000f01ad03bfb2f45c6b8e07af9dd825">CALENDAR_ERROR_INTERNAL</a>                     = 8,</div>
+<div class="line"><span class="lineno">   99</span>    <a class="code hl_enumvalue" href="../../d7/d82/a01601.html#a2812c2f5fdbdaf8b594ea7001772a9c5af2be40799e55127c125ce2d143ec1ff6">CALENDAR_ERROR_GUILD_PLAYER_NOT_IN_GUILD</a>    = 9,</div>
+<div class="line"><span class="lineno">  100</span>    <a class="code hl_enumvalue" href="../../d7/d82/a01601.html#a2812c2f5fdbdaf8b594ea7001772a9c5a8f5b36d4edb8a21f05dd2e4fac327301">CALENDAR_ERROR_ALREADY_INVITED_TO_EVENT_S</a>   = 10,</div>
+<div class="line"><span class="lineno">  101</span>    <a class="code hl_enumvalue" href="../../d7/d82/a01601.html#a2812c2f5fdbdaf8b594ea7001772a9c5ac3e9334e8cbc95e43e53ff88b1afd20d">CALENDAR_ERROR_PLAYER_NOT_FOUND</a>             = 11,</div>
+<div class="line"><span class="lineno">  102</span>    <a class="code hl_enumvalue" href="../../d7/d82/a01601.html#a2812c2f5fdbdaf8b594ea7001772a9c5a443a38772984e225a6590867ee37f276">CALENDAR_ERROR_NOT_ALLIED</a>                   = 12,</div>
+<div class="line"><span class="lineno">  103</span>    <a class="code hl_enumvalue" href="../../d7/d82/a01601.html#a2812c2f5fdbdaf8b594ea7001772a9c5ac12d9c0f2ef9c311d4e6de7f6388841c">CALENDAR_ERROR_IGNORING_YOU_S</a>               = 13,</div>
+<div class="line"><span class="lineno">  104</span>    <a class="code hl_enumvalue" href="../../d7/d82/a01601.html#a2812c2f5fdbdaf8b594ea7001772a9c5a93ab32bcbba393e663a662113184d128">CALENDAR_ERROR_INVITES_EXCEEDED</a>             = 14,</div>
+<div class="line"><span class="lineno">  105</span>    <a class="code hl_enumvalue" href="../../d7/d82/a01601.html#a2812c2f5fdbdaf8b594ea7001772a9c5a643cb78069bcd2732f7aa59b4ddf4e5e">CALENDAR_ERROR_INVALID_DATE</a>                 = 16,</div>
+<div class="line"><span class="lineno">  106</span>    <a class="code hl_enumvalue" href="../../d7/d82/a01601.html#a2812c2f5fdbdaf8b594ea7001772a9c5aab8bb0ad9960b4faecc59a4cc60a6582">CALENDAR_ERROR_INVALID_TIME</a>                 = 17,</div>
+<div class="line"><span class="lineno">  107</span> </div>
+<div class="line"><span class="lineno">  108</span>    <a class="code hl_enumvalue" href="../../d7/d82/a01601.html#a2812c2f5fdbdaf8b594ea7001772a9c5a65a54f787853a10d0ae3748aaa5777fd">CALENDAR_ERROR_NEEDS_TITLE</a>                  = 19,</div>
+<div class="line"><span class="lineno">  109</span>    <a class="code hl_enumvalue" href="../../d7/d82/a01601.html#a2812c2f5fdbdaf8b594ea7001772a9c5a0f04b6feb420a3e25db30a97a92a7203">CALENDAR_ERROR_EVENT_PASSED</a>                 = 20,</div>
+<div class="line"><span class="lineno">  110</span>    <a class="code hl_enumvalue" href="../../d7/d82/a01601.html#a2812c2f5fdbdaf8b594ea7001772a9c5a1c9e2cc87b2d09d205062f1309aa2a40">CALENDAR_ERROR_EVENT_LOCKED</a>                 = 21,</div>
+<div class="line"><span class="lineno">  111</span>    <a class="code hl_enumvalue" href="../../d7/d82/a01601.html#a2812c2f5fdbdaf8b594ea7001772a9c5a6c5119088956e0bd9aee2d6874547522">CALENDAR_ERROR_DELETE_CREATOR_FAILED</a>        = 22,</div>
+<div class="line"><span class="lineno">  112</span>    <a class="code hl_enumvalue" href="../../d7/d82/a01601.html#a2812c2f5fdbdaf8b594ea7001772a9c5a0dc2264473d089c2a2dc2ae72c55bb8e">CALENDAR_ERROR_SYSTEM_DISABLED</a>              = 24,</div>
+<div class="line"><span class="lineno">  113</span>    <a class="code hl_enumvalue" href="../../d7/d82/a01601.html#a2812c2f5fdbdaf8b594ea7001772a9c5abb0e98a0d33e09bd1b047bff343c74a1">CALENDAR_ERROR_RESTRICTED_ACCOUNT</a>           = 25,</div>
+<div class="line"><span class="lineno">  114</span>    <a class="code hl_enumvalue" href="../../d7/d82/a01601.html#a2812c2f5fdbdaf8b594ea7001772a9c5a2a84b6823769761020b9b7fd6c22b3c4">CALENDAR_ERROR_ARENA_EVENTS_EXCEEDED</a>        = 26,</div>
+<div class="line"><span class="lineno">  115</span>    <a class="code hl_enumvalue" href="../../d7/d82/a01601.html#a2812c2f5fdbdaf8b594ea7001772a9c5a6c4475d051a74a6768efa1781caa1bd8">CALENDAR_ERROR_RESTRICTED_LEVEL</a>             = 27,</div>
+<div class="line"><span class="lineno">  116</span>    <a class="code hl_enumvalue" href="../../d7/d82/a01601.html#a2812c2f5fdbdaf8b594ea7001772a9c5ac2cf0dee47c60fff68e4d0377b1920ae">CALENDAR_ERROR_USER_SQUELCHED</a>               = 28,</div>
+<div class="line"><span class="lineno">  117</span>    <a class="code hl_enumvalue" href="../../d7/d82/a01601.html#a2812c2f5fdbdaf8b594ea7001772a9c5a0aa1c82beb1173e79c4195a69dbe57d3">CALENDAR_ERROR_NO_INVITE</a>                    = 29,</div>
+<div class="line"><span class="lineno">  118</span> </div>
+<div class="line"><span class="lineno">  119</span>    <a class="code hl_enumvalue" href="../../d7/d82/a01601.html#a2812c2f5fdbdaf8b594ea7001772a9c5ab44e9487ece19ecfc94b4edb564b134f">CALENDAR_ERROR_EVENT_WRONG_SERVER</a>           = 36,</div>
+<div class="line"><span class="lineno">  120</span>    <a class="code hl_enumvalue" href="../../d7/d82/a01601.html#a2812c2f5fdbdaf8b594ea7001772a9c5a87fd3457b7f5866136a1872a64e0ebf9">CALENDAR_ERROR_INVITE_WRONG_SERVER</a>          = 37,</div>
+<div class="line"><span class="lineno">  121</span>    <a class="code hl_enumvalue" href="../../d7/d82/a01601.html#a2812c2f5fdbdaf8b594ea7001772a9c5a583b338a1e449c4556cf59bde571b520">CALENDAR_ERROR_NO_GUILD_INVITES</a>             = 38,</div>
+<div class="line"><span class="lineno">  122</span>    <a class="code hl_enumvalue" href="../../d7/d82/a01601.html#a2812c2f5fdbdaf8b594ea7001772a9c5a02351c5872a342c5a0b8b0b498c83cc2">CALENDAR_ERROR_INVALID_SIGNUP</a>               = 39,</div>
+<div class="line"><span class="lineno">  123</span>    <a class="code hl_enumvalue" href="../../d7/d82/a01601.html#a2812c2f5fdbdaf8b594ea7001772a9c5a77f3aae4f5f09a6d58d64897209d67dd">CALENDAR_ERROR_NO_MODERATOR</a>                 = 40</div>
+<div class="line"><span class="lineno">  124</span>};</div>
+<div class="ttc" id="aa01601_html_a2812c2f5fdbdaf8b594ea7001772a9c5a000f01ad03bfb2f45c6b8e07af9dd825"><div class="ttname"><a href="../../d7/d82/a01601.html#a2812c2f5fdbdaf8b594ea7001772a9c5a000f01ad03bfb2f45c6b8e07af9dd825">CALENDAR_ERROR_INTERNAL</a></div><div class="ttdeci">@ CALENDAR_ERROR_INTERNAL</div><div class="ttdef"><b>Definition:</b> CalendarMgr.h:98</div></div>
+<div class="ttc" id="aa01601_html_a2812c2f5fdbdaf8b594ea7001772a9c5a02351c5872a342c5a0b8b0b498c83cc2"><div class="ttname"><a href="../../d7/d82/a01601.html#a2812c2f5fdbdaf8b594ea7001772a9c5a02351c5872a342c5a0b8b0b498c83cc2">CALENDAR_ERROR_INVALID_SIGNUP</a></div><div class="ttdeci">@ CALENDAR_ERROR_INVALID_SIGNUP</div><div class="ttdef"><b>Definition:</b> CalendarMgr.h:122</div></div>
+<div class="ttc" id="aa01601_html_a2812c2f5fdbdaf8b594ea7001772a9c5a0aa1c82beb1173e79c4195a69dbe57d3"><div class="ttname"><a href="../../d7/d82/a01601.html#a2812c2f5fdbdaf8b594ea7001772a9c5a0aa1c82beb1173e79c4195a69dbe57d3">CALENDAR_ERROR_NO_INVITE</a></div><div class="ttdeci">@ CALENDAR_ERROR_NO_INVITE</div><div class="ttdef"><b>Definition:</b> CalendarMgr.h:117</div></div>
+<div class="ttc" id="aa01601_html_a2812c2f5fdbdaf8b594ea7001772a9c5a0dc2264473d089c2a2dc2ae72c55bb8e"><div class="ttname"><a href="../../d7/d82/a01601.html#a2812c2f5fdbdaf8b594ea7001772a9c5a0dc2264473d089c2a2dc2ae72c55bb8e">CALENDAR_ERROR_SYSTEM_DISABLED</a></div><div class="ttdeci">@ CALENDAR_ERROR_SYSTEM_DISABLED</div><div class="ttdef"><b>Definition:</b> CalendarMgr.h:112</div></div>
+<div class="ttc" id="aa01601_html_a2812c2f5fdbdaf8b594ea7001772a9c5a0f04b6feb420a3e25db30a97a92a7203"><div class="ttname"><a href="../../d7/d82/a01601.html#a2812c2f5fdbdaf8b594ea7001772a9c5a0f04b6feb420a3e25db30a97a92a7203">CALENDAR_ERROR_EVENT_PASSED</a></div><div class="ttdeci">@ CALENDAR_ERROR_EVENT_PASSED</div><div class="ttdef"><b>Definition:</b> CalendarMgr.h:109</div></div>
+<div class="ttc" id="aa01601_html_a2812c2f5fdbdaf8b594ea7001772a9c5a1560dd9567ff6c5755b3aa62d3979fd8"><div class="ttname"><a href="../../d7/d82/a01601.html#a2812c2f5fdbdaf8b594ea7001772a9c5a1560dd9567ff6c5755b3aa62d3979fd8">CALENDAR_ERROR_NOT_INVITED</a></div><div class="ttdeci">@ CALENDAR_ERROR_NOT_INVITED</div><div class="ttdef"><b>Definition:</b> CalendarMgr.h:97</div></div>
+<div class="ttc" id="aa01601_html_a2812c2f5fdbdaf8b594ea7001772a9c5a1c9e2cc87b2d09d205062f1309aa2a40"><div class="ttname"><a href="../../d7/d82/a01601.html#a2812c2f5fdbdaf8b594ea7001772a9c5a1c9e2cc87b2d09d205062f1309aa2a40">CALENDAR_ERROR_EVENT_LOCKED</a></div><div class="ttdeci">@ CALENDAR_ERROR_EVENT_LOCKED</div><div class="ttdef"><b>Definition:</b> CalendarMgr.h:110</div></div>
+<div class="ttc" id="aa01601_html_a2812c2f5fdbdaf8b594ea7001772a9c5a2a84b6823769761020b9b7fd6c22b3c4"><div class="ttname"><a href="../../d7/d82/a01601.html#a2812c2f5fdbdaf8b594ea7001772a9c5a2a84b6823769761020b9b7fd6c22b3c4">CALENDAR_ERROR_ARENA_EVENTS_EXCEEDED</a></div><div class="ttdeci">@ CALENDAR_ERROR_ARENA_EVENTS_EXCEEDED</div><div class="ttdef"><b>Definition:</b> CalendarMgr.h:114</div></div>
+<div class="ttc" id="aa01601_html_a2812c2f5fdbdaf8b594ea7001772a9c5a2f54e4a55eac48953a9cafc4614c4fb4"><div class="ttname"><a href="../../d7/d82/a01601.html#a2812c2f5fdbdaf8b594ea7001772a9c5a2f54e4a55eac48953a9cafc4614c4fb4">CALENDAR_ERROR_OTHER_INVITES_EXCEEDED</a></div><div class="ttdeci">@ CALENDAR_ERROR_OTHER_INVITES_EXCEEDED</div><div class="ttdef"><b>Definition:</b> CalendarMgr.h:94</div></div>
+<div class="ttc" id="aa01601_html_a2812c2f5fdbdaf8b594ea7001772a9c5a320b0a93d9cba18e879cd1bea5f96fbf"><div class="ttname"><a href="../../d7/d82/a01601.html#a2812c2f5fdbdaf8b594ea7001772a9c5a320b0a93d9cba18e879cd1bea5f96fbf">CALENDAR_ERROR_SELF_INVITES_EXCEEDED</a></div><div class="ttdeci">@ CALENDAR_ERROR_SELF_INVITES_EXCEEDED</div><div class="ttdef"><b>Definition:</b> CalendarMgr.h:93</div></div>
+<div class="ttc" id="aa01601_html_a2812c2f5fdbdaf8b594ea7001772a9c5a443a38772984e225a6590867ee37f276"><div class="ttname"><a href="../../d7/d82/a01601.html#a2812c2f5fdbdaf8b594ea7001772a9c5a443a38772984e225a6590867ee37f276">CALENDAR_ERROR_NOT_ALLIED</a></div><div class="ttdeci">@ CALENDAR_ERROR_NOT_ALLIED</div><div class="ttdef"><b>Definition:</b> CalendarMgr.h:102</div></div>
+<div class="ttc" id="aa01601_html_a2812c2f5fdbdaf8b594ea7001772a9c5a48674cf3f296507a9923feccf39b1afa"><div class="ttname"><a href="../../d7/d82/a01601.html#a2812c2f5fdbdaf8b594ea7001772a9c5a48674cf3f296507a9923feccf39b1afa">CALENDAR_ERROR_PERMISSIONS</a></div><div class="ttdeci">@ CALENDAR_ERROR_PERMISSIONS</div><div class="ttdef"><b>Definition:</b> CalendarMgr.h:95</div></div>
+<div class="ttc" id="aa01601_html_a2812c2f5fdbdaf8b594ea7001772a9c5a4ba9fa39d98f1bf085af3de98cca9dca"><div class="ttname"><a href="../../d7/d82/a01601.html#a2812c2f5fdbdaf8b594ea7001772a9c5a4ba9fa39d98f1bf085af3de98cca9dca">CALENDAR_ERROR_EVENTS_EXCEEDED</a></div><div class="ttdeci">@ CALENDAR_ERROR_EVENTS_EXCEEDED</div><div class="ttdef"><b>Definition:</b> CalendarMgr.h:92</div></div>
+<div class="ttc" id="aa01601_html_a2812c2f5fdbdaf8b594ea7001772a9c5a583b338a1e449c4556cf59bde571b520"><div class="ttname"><a href="../../d7/d82/a01601.html#a2812c2f5fdbdaf8b594ea7001772a9c5a583b338a1e449c4556cf59bde571b520">CALENDAR_ERROR_NO_GUILD_INVITES</a></div><div class="ttdeci">@ CALENDAR_ERROR_NO_GUILD_INVITES</div><div class="ttdef"><b>Definition:</b> CalendarMgr.h:121</div></div>
+<div class="ttc" id="aa01601_html_a2812c2f5fdbdaf8b594ea7001772a9c5a643cb78069bcd2732f7aa59b4ddf4e5e"><div class="ttname"><a href="../../d7/d82/a01601.html#a2812c2f5fdbdaf8b594ea7001772a9c5a643cb78069bcd2732f7aa59b4ddf4e5e">CALENDAR_ERROR_INVALID_DATE</a></div><div class="ttdeci">@ CALENDAR_ERROR_INVALID_DATE</div><div class="ttdef"><b>Definition:</b> CalendarMgr.h:105</div></div>
+<div class="ttc" id="aa01601_html_a2812c2f5fdbdaf8b594ea7001772a9c5a65a54f787853a10d0ae3748aaa5777fd"><div class="ttname"><a href="../../d7/d82/a01601.html#a2812c2f5fdbdaf8b594ea7001772a9c5a65a54f787853a10d0ae3748aaa5777fd">CALENDAR_ERROR_NEEDS_TITLE</a></div><div class="ttdeci">@ CALENDAR_ERROR_NEEDS_TITLE</div><div class="ttdef"><b>Definition:</b> CalendarMgr.h:108</div></div>
+<div class="ttc" id="aa01601_html_a2812c2f5fdbdaf8b594ea7001772a9c5a6c4475d051a74a6768efa1781caa1bd8"><div class="ttname"><a href="../../d7/d82/a01601.html#a2812c2f5fdbdaf8b594ea7001772a9c5a6c4475d051a74a6768efa1781caa1bd8">CALENDAR_ERROR_RESTRICTED_LEVEL</a></div><div class="ttdeci">@ CALENDAR_ERROR_RESTRICTED_LEVEL</div><div class="ttdef"><b>Definition:</b> CalendarMgr.h:115</div></div>
+<div class="ttc" id="aa01601_html_a2812c2f5fdbdaf8b594ea7001772a9c5a6c5119088956e0bd9aee2d6874547522"><div class="ttname"><a href="../../d7/d82/a01601.html#a2812c2f5fdbdaf8b594ea7001772a9c5a6c5119088956e0bd9aee2d6874547522">CALENDAR_ERROR_DELETE_CREATOR_FAILED</a></div><div class="ttdeci">@ CALENDAR_ERROR_DELETE_CREATOR_FAILED</div><div class="ttdef"><b>Definition:</b> CalendarMgr.h:111</div></div>
+<div class="ttc" id="aa01601_html_a2812c2f5fdbdaf8b594ea7001772a9c5a7516b93b285d93c30df815a153d24167"><div class="ttname"><a href="../../d7/d82/a01601.html#a2812c2f5fdbdaf8b594ea7001772a9c5a7516b93b285d93c30df815a153d24167">CALENDAR_ERROR_GUILD_EVENTS_EXCEEDED</a></div><div class="ttdeci">@ CALENDAR_ERROR_GUILD_EVENTS_EXCEEDED</div><div class="ttdef"><b>Definition:</b> CalendarMgr.h:91</div></div>
+<div class="ttc" id="aa01601_html_a2812c2f5fdbdaf8b594ea7001772a9c5a77f3aae4f5f09a6d58d64897209d67dd"><div class="ttname"><a href="../../d7/d82/a01601.html#a2812c2f5fdbdaf8b594ea7001772a9c5a77f3aae4f5f09a6d58d64897209d67dd">CALENDAR_ERROR_NO_MODERATOR</a></div><div class="ttdeci">@ CALENDAR_ERROR_NO_MODERATOR</div><div class="ttdef"><b>Definition:</b> CalendarMgr.h:123</div></div>
+<div class="ttc" id="aa01601_html_a2812c2f5fdbdaf8b594ea7001772a9c5a87fd3457b7f5866136a1872a64e0ebf9"><div class="ttname"><a href="../../d7/d82/a01601.html#a2812c2f5fdbdaf8b594ea7001772a9c5a87fd3457b7f5866136a1872a64e0ebf9">CALENDAR_ERROR_INVITE_WRONG_SERVER</a></div><div class="ttdeci">@ CALENDAR_ERROR_INVITE_WRONG_SERVER</div><div class="ttdef"><b>Definition:</b> CalendarMgr.h:120</div></div>
+<div class="ttc" id="aa01601_html_a2812c2f5fdbdaf8b594ea7001772a9c5a8f5b36d4edb8a21f05dd2e4fac327301"><div class="ttname"><a href="../../d7/d82/a01601.html#a2812c2f5fdbdaf8b594ea7001772a9c5a8f5b36d4edb8a21f05dd2e4fac327301">CALENDAR_ERROR_ALREADY_INVITED_TO_EVENT_S</a></div><div class="ttdeci">@ CALENDAR_ERROR_ALREADY_INVITED_TO_EVENT_S</div><div class="ttdef"><b>Definition:</b> CalendarMgr.h:100</div></div>
+<div class="ttc" id="aa01601_html_a2812c2f5fdbdaf8b594ea7001772a9c5a93ab32bcbba393e663a662113184d128"><div class="ttname"><a href="../../d7/d82/a01601.html#a2812c2f5fdbdaf8b594ea7001772a9c5a93ab32bcbba393e663a662113184d128">CALENDAR_ERROR_INVITES_EXCEEDED</a></div><div class="ttdeci">@ CALENDAR_ERROR_INVITES_EXCEEDED</div><div class="ttdef"><b>Definition:</b> CalendarMgr.h:104</div></div>
+<div class="ttc" id="aa01601_html_a2812c2f5fdbdaf8b594ea7001772a9c5aab8bb0ad9960b4faecc59a4cc60a6582"><div class="ttname"><a href="../../d7/d82/a01601.html#a2812c2f5fdbdaf8b594ea7001772a9c5aab8bb0ad9960b4faecc59a4cc60a6582">CALENDAR_ERROR_INVALID_TIME</a></div><div class="ttdeci">@ CALENDAR_ERROR_INVALID_TIME</div><div class="ttdef"><b>Definition:</b> CalendarMgr.h:106</div></div>
+<div class="ttc" id="aa01601_html_a2812c2f5fdbdaf8b594ea7001772a9c5ab44e9487ece19ecfc94b4edb564b134f"><div class="ttname"><a href="../../d7/d82/a01601.html#a2812c2f5fdbdaf8b594ea7001772a9c5ab44e9487ece19ecfc94b4edb564b134f">CALENDAR_ERROR_EVENT_WRONG_SERVER</a></div><div class="ttdeci">@ CALENDAR_ERROR_EVENT_WRONG_SERVER</div><div class="ttdef"><b>Definition:</b> CalendarMgr.h:119</div></div>
+<div class="ttc" id="aa01601_html_a2812c2f5fdbdaf8b594ea7001772a9c5abb0e98a0d33e09bd1b047bff343c74a1"><div class="ttname"><a href="../../d7/d82/a01601.html#a2812c2f5fdbdaf8b594ea7001772a9c5abb0e98a0d33e09bd1b047bff343c74a1">CALENDAR_ERROR_RESTRICTED_ACCOUNT</a></div><div class="ttdeci">@ CALENDAR_ERROR_RESTRICTED_ACCOUNT</div><div class="ttdef"><b>Definition:</b> CalendarMgr.h:113</div></div>
+<div class="ttc" id="aa01601_html_a2812c2f5fdbdaf8b594ea7001772a9c5ac12d9c0f2ef9c311d4e6de7f6388841c"><div class="ttname"><a href="../../d7/d82/a01601.html#a2812c2f5fdbdaf8b594ea7001772a9c5ac12d9c0f2ef9c311d4e6de7f6388841c">CALENDAR_ERROR_IGNORING_YOU_S</a></div><div class="ttdeci">@ CALENDAR_ERROR_IGNORING_YOU_S</div><div class="ttdef"><b>Definition:</b> CalendarMgr.h:103</div></div>
+<div class="ttc" id="aa01601_html_a2812c2f5fdbdaf8b594ea7001772a9c5ac2cf0dee47c60fff68e4d0377b1920ae"><div class="ttname"><a href="../../d7/d82/a01601.html#a2812c2f5fdbdaf8b594ea7001772a9c5ac2cf0dee47c60fff68e4d0377b1920ae">CALENDAR_ERROR_USER_SQUELCHED</a></div><div class="ttdeci">@ CALENDAR_ERROR_USER_SQUELCHED</div><div class="ttdef"><b>Definition:</b> CalendarMgr.h:116</div></div>
+<div class="ttc" id="aa01601_html_a2812c2f5fdbdaf8b594ea7001772a9c5ac3e9334e8cbc95e43e53ff88b1afd20d"><div class="ttname"><a href="../../d7/d82/a01601.html#a2812c2f5fdbdaf8b594ea7001772a9c5ac3e9334e8cbc95e43e53ff88b1afd20d">CALENDAR_ERROR_PLAYER_NOT_FOUND</a></div><div class="ttdeci">@ CALENDAR_ERROR_PLAYER_NOT_FOUND</div><div class="ttdef"><b>Definition:</b> CalendarMgr.h:101</div></div>
+<div class="ttc" id="aa01601_html_a2812c2f5fdbdaf8b594ea7001772a9c5ac62ddd961bf35a19647e4cd6b9a7e6cd"><div class="ttname"><a href="../../d7/d82/a01601.html#a2812c2f5fdbdaf8b594ea7001772a9c5ac62ddd961bf35a19647e4cd6b9a7e6cd">CALENDAR_OK</a></div><div class="ttdeci">@ CALENDAR_OK</div><div class="ttdef"><b>Definition:</b> CalendarMgr.h:90</div></div>
+<div class="ttc" id="aa01601_html_a2812c2f5fdbdaf8b594ea7001772a9c5ae3d987dfddd3797dc8888252cf89fc36"><div class="ttname"><a href="../../d7/d82/a01601.html#a2812c2f5fdbdaf8b594ea7001772a9c5ae3d987dfddd3797dc8888252cf89fc36">CALENDAR_ERROR_EVENT_INVALID</a></div><div class="ttdeci">@ CALENDAR_ERROR_EVENT_INVALID</div><div class="ttdef"><b>Definition:</b> CalendarMgr.h:96</div></div>
+<div class="ttc" id="aa01601_html_a2812c2f5fdbdaf8b594ea7001772a9c5af2be40799e55127c125ce2d143ec1ff6"><div class="ttname"><a href="../../d7/d82/a01601.html#a2812c2f5fdbdaf8b594ea7001772a9c5af2be40799e55127c125ce2d143ec1ff6">CALENDAR_ERROR_GUILD_PLAYER_NOT_IN_GUILD</a></div><div class="ttdeci">@ CALENDAR_ERROR_GUILD_PLAYER_NOT_IN_GUILD</div><div class="ttdef"><b>Definition:</b> CalendarMgr.h:99</div></div>
 </div><!-- fragment -->
 </div>
 </div>
-<a id="a72f8a725cd1b257556ae7aa080f477c0" name="a72f8a725cd1b257556ae7aa080f477c0"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a72f8a725cd1b257556ae7aa080f477c0">&#9670;&#160;</a></span>AchievementCriteriaDataType</h2>
+<a id="aabfde90a2fd31d4aa93fac9f496c12fc" name="aabfde90a2fd31d4aa93fac9f496c12fc"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aabfde90a2fd31d4aa93fac9f496c12fc">&#9670;&#160;</a></span>CalendarEventType</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">enum <a class="el" href="../../d7/d82/a01601.html#a72f8a725cd1b257556ae7aa080f477c0">AchievementCriteriaDataType</a></td>
+          <td class="memname">enum <a class="el" href="../../d7/d82/a01601.html#aabfde90a2fd31d4aa93fac9f496c12fc">CalendarEventType</a></td>
         </tr>
       </table>
 </div><div class="memdoc">
 <table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a72f8a725cd1b257556ae7aa080f477c0ae9d5b8759c2ee53b9e210a15ad049943" name="a72f8a725cd1b257556ae7aa080f477c0ae9d5b8759c2ee53b9e210a15ad049943"></a>ACHIEVEMENT_CRITERIA_DATA_TYPE_NONE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a72f8a725cd1b257556ae7aa080f477c0abc70f9063061689cbf95c04df5a9a448" name="a72f8a725cd1b257556ae7aa080f477c0abc70f9063061689cbf95c04df5a9a448"></a>ACHIEVEMENT_CRITERIA_DATA_TYPE_T_CREATURE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a72f8a725cd1b257556ae7aa080f477c0a22786f73e7cc8966c60614e88f0d5cb1" name="a72f8a725cd1b257556ae7aa080f477c0a22786f73e7cc8966c60614e88f0d5cb1"></a>ACHIEVEMENT_CRITERIA_DATA_TYPE_T_PLAYER_CLASS_RACE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a72f8a725cd1b257556ae7aa080f477c0ac6775a92c029d4c2be529461e23e4ca3" name="a72f8a725cd1b257556ae7aa080f477c0ac6775a92c029d4c2be529461e23e4ca3"></a>ACHIEVEMENT_CRITERIA_DATA_TYPE_T_PLAYER_LESS_HEALTH&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a72f8a725cd1b257556ae7aa080f477c0adc76e0c15e881d6848994a911d1a8ef6" name="a72f8a725cd1b257556ae7aa080f477c0adc76e0c15e881d6848994a911d1a8ef6"></a>ACHIEVEMENT_CRITERIA_DATA_TYPE_T_PLAYER_DEAD&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a72f8a725cd1b257556ae7aa080f477c0a9507639d721e63f182ebd53d593d5465" name="a72f8a725cd1b257556ae7aa080f477c0a9507639d721e63f182ebd53d593d5465"></a>ACHIEVEMENT_CRITERIA_DATA_TYPE_S_AURA&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a72f8a725cd1b257556ae7aa080f477c0a19b830790eb46adb27e8a65b85eceed1" name="a72f8a725cd1b257556ae7aa080f477c0a19b830790eb46adb27e8a65b85eceed1"></a>ACHIEVEMENT_CRITERIA_DATA_TYPE_S_AREA&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a72f8a725cd1b257556ae7aa080f477c0aa0b32101ef67881083e58a6a6c55c75b" name="a72f8a725cd1b257556ae7aa080f477c0aa0b32101ef67881083e58a6a6c55c75b"></a>ACHIEVEMENT_CRITERIA_DATA_TYPE_T_AURA&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a72f8a725cd1b257556ae7aa080f477c0a3fd659753b9d41caa4b58c51d2cb6ea7" name="a72f8a725cd1b257556ae7aa080f477c0a3fd659753b9d41caa4b58c51d2cb6ea7"></a>ACHIEVEMENT_CRITERIA_DATA_TYPE_VALUE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a72f8a725cd1b257556ae7aa080f477c0ab055e5273ac4250d273fa5592af3ed39" name="a72f8a725cd1b257556ae7aa080f477c0ab055e5273ac4250d273fa5592af3ed39"></a>ACHIEVEMENT_CRITERIA_DATA_TYPE_T_LEVEL&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a72f8a725cd1b257556ae7aa080f477c0a10fc4cfb0da2c0c72c12d5e6e4a1bdd6" name="a72f8a725cd1b257556ae7aa080f477c0a10fc4cfb0da2c0c72c12d5e6e4a1bdd6"></a>ACHIEVEMENT_CRITERIA_DATA_TYPE_T_GENDER&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a72f8a725cd1b257556ae7aa080f477c0a0578b3122b1b69df3af04c2d45df266c" name="a72f8a725cd1b257556ae7aa080f477c0a0578b3122b1b69df3af04c2d45df266c"></a>ACHIEVEMENT_CRITERIA_DATA_TYPE_SCRIPT&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a72f8a725cd1b257556ae7aa080f477c0a5813a09c9977d3d5f80595d529f7f420" name="a72f8a725cd1b257556ae7aa080f477c0a5813a09c9977d3d5f80595d529f7f420"></a>ACHIEVEMENT_CRITERIA_DATA_TYPE_MAP_DIFFICULTY&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a72f8a725cd1b257556ae7aa080f477c0a1046e477766a7c60f4446fef1b13a6f5" name="a72f8a725cd1b257556ae7aa080f477c0a1046e477766a7c60f4446fef1b13a6f5"></a>ACHIEVEMENT_CRITERIA_DATA_TYPE_MAP_PLAYER_COUNT&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a72f8a725cd1b257556ae7aa080f477c0ad5967db594cc30c247c785d5c753cc18" name="a72f8a725cd1b257556ae7aa080f477c0ad5967db594cc30c247c785d5c753cc18"></a>ACHIEVEMENT_CRITERIA_DATA_TYPE_T_TEAM&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a72f8a725cd1b257556ae7aa080f477c0a7fcb85cf04be09a3a5f1214553bf329a" name="a72f8a725cd1b257556ae7aa080f477c0a7fcb85cf04be09a3a5f1214553bf329a"></a>ACHIEVEMENT_CRITERIA_DATA_TYPE_S_DRUNK&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a72f8a725cd1b257556ae7aa080f477c0a9dba74c8f01c9292cf8afa6b77be2a34" name="a72f8a725cd1b257556ae7aa080f477c0a9dba74c8f01c9292cf8afa6b77be2a34"></a>ACHIEVEMENT_CRITERIA_DATA_TYPE_HOLIDAY&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a72f8a725cd1b257556ae7aa080f477c0aab81f29c4cb17f066e8d2bd95f37d954" name="a72f8a725cd1b257556ae7aa080f477c0aab81f29c4cb17f066e8d2bd95f37d954"></a>ACHIEVEMENT_CRITERIA_DATA_TYPE_BG_LOSS_TEAM_SCORE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a72f8a725cd1b257556ae7aa080f477c0adb7d56866cf7afe8c4145c300a06ec4c" name="a72f8a725cd1b257556ae7aa080f477c0adb7d56866cf7afe8c4145c300a06ec4c"></a>ACHIEVEMENT_CRITERIA_DATA_TYPE_INSTANCE_SCRIPT&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a72f8a725cd1b257556ae7aa080f477c0a77677f4d00c6fab053e7f632ef59b4e5" name="a72f8a725cd1b257556ae7aa080f477c0a77677f4d00c6fab053e7f632ef59b4e5"></a>ACHIEVEMENT_CRITERIA_DATA_TYPE_S_EQUIPPED_ITEM&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a72f8a725cd1b257556ae7aa080f477c0a84b46b516fde8adcd492cb856d32e722" name="a72f8a725cd1b257556ae7aa080f477c0a84b46b516fde8adcd492cb856d32e722"></a>ACHIEVEMENT_CRITERIA_DATA_TYPE_MAP_ID&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a72f8a725cd1b257556ae7aa080f477c0aaa861458fcfe5aed7f8714be2b68a1db" name="a72f8a725cd1b257556ae7aa080f477c0aaa861458fcfe5aed7f8714be2b68a1db"></a>ACHIEVEMENT_CRITERIA_DATA_TYPE_S_PLAYER_CLASS_RACE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a72f8a725cd1b257556ae7aa080f477c0a003a15517532a95903cb8c6673db418f" name="a72f8a725cd1b257556ae7aa080f477c0a003a15517532a95903cb8c6673db418f"></a>ACHIEVEMENT_CRITERIA_DATA_TYPE_NTH_BIRTHDAY&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a72f8a725cd1b257556ae7aa080f477c0a158d186341dd9798da3921a4a6bd2fda" name="a72f8a725cd1b257556ae7aa080f477c0a158d186341dd9798da3921a4a6bd2fda"></a>ACHIEVEMENT_CRITERIA_DATA_TYPE_S_KNOWN_TITLE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a72f8a725cd1b257556ae7aa080f477c0af734713c1c6764e61fddab192904518a" name="a72f8a725cd1b257556ae7aa080f477c0af734713c1c6764e61fddab192904518a"></a>ACHIEVEMENT_CRITERIA_DATA_TYPE_BG_TEAMS_SCORES&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a72f8a725cd1b257556ae7aa080f477c0af53705f7958654cf4ca99c99dd320735" name="a72f8a725cd1b257556ae7aa080f477c0af53705f7958654cf4ca99c99dd320735"></a>ACHIEVEMENT_CRITERIA_DATA_TYPE_S_ITEM_QUALITY&#160;</td><td class="fielddoc"></td></tr>
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="aabfde90a2fd31d4aa93fac9f496c12fca48aa5b1bedf68195cdd22beef9b70890" name="aabfde90a2fd31d4aa93fac9f496c12fca48aa5b1bedf68195cdd22beef9b70890"></a>CALENDAR_TYPE_RAID&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aabfde90a2fd31d4aa93fac9f496c12fca8437c91cd27563e4e360e6c7121634c1" name="aabfde90a2fd31d4aa93fac9f496c12fca8437c91cd27563e4e360e6c7121634c1"></a>CALENDAR_TYPE_DUNGEON&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aabfde90a2fd31d4aa93fac9f496c12fca70d5fb1e15351b8947fc6d67ffe3787e" name="aabfde90a2fd31d4aa93fac9f496c12fca70d5fb1e15351b8947fc6d67ffe3787e"></a>CALENDAR_TYPE_PVP&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aabfde90a2fd31d4aa93fac9f496c12fca494b5ff6684446c72830fe7b4f5c6c3f" name="aabfde90a2fd31d4aa93fac9f496c12fca494b5ff6684446c72830fe7b4f5c6c3f"></a>CALENDAR_TYPE_MEETING&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aabfde90a2fd31d4aa93fac9f496c12fca01ce2bdc9dc2ced0772ef714f873f397" name="aabfde90a2fd31d4aa93fac9f496c12fca01ce2bdc9dc2ced0772ef714f873f397"></a>CALENDAR_TYPE_OTHER&#160;</td><td class="fielddoc"></td></tr>
 </table>
-<div class="fragment"><div class="line"><span class="lineno">   57</span>{</div>
-<div class="line"><span class="lineno">   58</span>    <span class="comment">// value1         value2        comment</span></div>
-<div class="line"><span class="lineno">   59</span>    <a class="code hl_enumvalue" href="../../d7/d82/a01601.html#a72f8a725cd1b257556ae7aa080f477c0ae9d5b8759c2ee53b9e210a15ad049943">ACHIEVEMENT_CRITERIA_DATA_TYPE_NONE</a>                 = 0, <span class="comment">// 0              0</span></div>
-<div class="line"><span class="lineno">   60</span>    <a class="code hl_enumvalue" href="../../d7/d82/a01601.html#a72f8a725cd1b257556ae7aa080f477c0abc70f9063061689cbf95c04df5a9a448">ACHIEVEMENT_CRITERIA_DATA_TYPE_T_CREATURE</a>           = 1, <span class="comment">// creature_id    0</span></div>
-<div class="line"><span class="lineno">   61</span>    <a class="code hl_enumvalue" href="../../d7/d82/a01601.html#a72f8a725cd1b257556ae7aa080f477c0a22786f73e7cc8966c60614e88f0d5cb1">ACHIEVEMENT_CRITERIA_DATA_TYPE_T_PLAYER_CLASS_RACE</a>  = 2, <span class="comment">// class_id       race_id</span></div>
-<div class="line"><span class="lineno">   62</span>    <a class="code hl_enumvalue" href="../../d7/d82/a01601.html#a72f8a725cd1b257556ae7aa080f477c0ac6775a92c029d4c2be529461e23e4ca3">ACHIEVEMENT_CRITERIA_DATA_TYPE_T_PLAYER_LESS_HEALTH</a> = 3, <span class="comment">// health_percent 0</span></div>
-<div class="line"><span class="lineno">   63</span>    <a class="code hl_enumvalue" href="../../d7/d82/a01601.html#a72f8a725cd1b257556ae7aa080f477c0adc76e0c15e881d6848994a911d1a8ef6">ACHIEVEMENT_CRITERIA_DATA_TYPE_T_PLAYER_DEAD</a>        = 4, <span class="comment">// own_team       0             not corpse (not released body), own_team == false if enemy team expected</span></div>
-<div class="line"><span class="lineno">   64</span>    <a class="code hl_enumvalue" href="../../d7/d82/a01601.html#a72f8a725cd1b257556ae7aa080f477c0a9507639d721e63f182ebd53d593d5465">ACHIEVEMENT_CRITERIA_DATA_TYPE_S_AURA</a>               = 5, <span class="comment">// spell_id       effect_idx</span></div>
-<div class="line"><span class="lineno">   65</span>    <a class="code hl_enumvalue" href="../../d7/d82/a01601.html#a72f8a725cd1b257556ae7aa080f477c0a19b830790eb46adb27e8a65b85eceed1">ACHIEVEMENT_CRITERIA_DATA_TYPE_S_AREA</a>               = 6, <span class="comment">// area id        0</span></div>
-<div class="line"><span class="lineno">   66</span>    <a class="code hl_enumvalue" href="../../d7/d82/a01601.html#a72f8a725cd1b257556ae7aa080f477c0aa0b32101ef67881083e58a6a6c55c75b">ACHIEVEMENT_CRITERIA_DATA_TYPE_T_AURA</a>               = 7, <span class="comment">// spell_id       effect_idx</span></div>
-<div class="line"><span class="lineno">   67</span>    <a class="code hl_enumvalue" href="../../d7/d82/a01601.html#a72f8a725cd1b257556ae7aa080f477c0a3fd659753b9d41caa4b58c51d2cb6ea7">ACHIEVEMENT_CRITERIA_DATA_TYPE_VALUE</a>                = 8, <span class="comment">// minvalue                     value provided with achievement update must be not less that limit</span></div>
-<div class="line"><span class="lineno">   68</span>    <a class="code hl_enumvalue" href="../../d7/d82/a01601.html#a72f8a725cd1b257556ae7aa080f477c0ab055e5273ac4250d273fa5592af3ed39">ACHIEVEMENT_CRITERIA_DATA_TYPE_T_LEVEL</a>              = 9, <span class="comment">// minlevel                     minlevel of target</span></div>
-<div class="line"><span class="lineno">   69</span>    <a class="code hl_enumvalue" href="../../d7/d82/a01601.html#a72f8a725cd1b257556ae7aa080f477c0a10fc4cfb0da2c0c72c12d5e6e4a1bdd6">ACHIEVEMENT_CRITERIA_DATA_TYPE_T_GENDER</a>             = 10, <span class="comment">// gender                       0=male; 1=female</span></div>
-<div class="line"><span class="lineno">   70</span>    <a class="code hl_enumvalue" href="../../d7/d82/a01601.html#a72f8a725cd1b257556ae7aa080f477c0a0578b3122b1b69df3af04c2d45df266c">ACHIEVEMENT_CRITERIA_DATA_TYPE_SCRIPT</a>               = 11, <span class="comment">// scripted requirement</span></div>
-<div class="line"><span class="lineno">   71</span>    <a class="code hl_enumvalue" href="../../d7/d82/a01601.html#a72f8a725cd1b257556ae7aa080f477c0a5813a09c9977d3d5f80595d529f7f420">ACHIEVEMENT_CRITERIA_DATA_TYPE_MAP_DIFFICULTY</a>       = 12, <span class="comment">// difficulty                   normal/heroic difficulty for current event map</span></div>
-<div class="line"><span class="lineno">   72</span>    <a class="code hl_enumvalue" href="../../d7/d82/a01601.html#a72f8a725cd1b257556ae7aa080f477c0a1046e477766a7c60f4446fef1b13a6f5">ACHIEVEMENT_CRITERIA_DATA_TYPE_MAP_PLAYER_COUNT</a>     = 13, <span class="comment">// count                        &quot;with less than %u people in the zone&quot;</span></div>
-<div class="line"><span class="lineno">   73</span>    <a class="code hl_enumvalue" href="../../d7/d82/a01601.html#a72f8a725cd1b257556ae7aa080f477c0ad5967db594cc30c247c785d5c753cc18">ACHIEVEMENT_CRITERIA_DATA_TYPE_T_TEAM</a>               = 14, <span class="comment">// team                         HORDE(67), ALLIANCE(469)</span></div>
-<div class="line"><span class="lineno">   74</span>    <a class="code hl_enumvalue" href="../../d7/d82/a01601.html#a72f8a725cd1b257556ae7aa080f477c0a7fcb85cf04be09a3a5f1214553bf329a">ACHIEVEMENT_CRITERIA_DATA_TYPE_S_DRUNK</a>              = 15, <span class="comment">// drunken_state  0             (enum DrunkenState) of player</span></div>
-<div class="line"><span class="lineno">   75</span>    <a class="code hl_enumvalue" href="../../d7/d82/a01601.html#a72f8a725cd1b257556ae7aa080f477c0a9dba74c8f01c9292cf8afa6b77be2a34">ACHIEVEMENT_CRITERIA_DATA_TYPE_HOLIDAY</a>              = 16, <span class="comment">// holiday_id     0             event in holiday time</span></div>
-<div class="line"><span class="lineno">   76</span>    <a class="code hl_enumvalue" href="../../d7/d82/a01601.html#a72f8a725cd1b257556ae7aa080f477c0aab81f29c4cb17f066e8d2bd95f37d954">ACHIEVEMENT_CRITERIA_DATA_TYPE_BG_LOSS_TEAM_SCORE</a>   = 17, <span class="comment">// min_score      max_score     player&#39;s team win bg and opposition team have team score in range</span></div>
-<div class="line"><span class="lineno">   77</span>    <a class="code hl_enumvalue" href="../../d7/d82/a01601.html#a72f8a725cd1b257556ae7aa080f477c0adb7d56866cf7afe8c4145c300a06ec4c">ACHIEVEMENT_CRITERIA_DATA_TYPE_INSTANCE_SCRIPT</a>      = 18, <span class="comment">// 0              0             maker instance script call for check current criteria requirements fit</span></div>
-<div class="line"><span class="lineno">   78</span>    <a class="code hl_enumvalue" href="../../d7/d82/a01601.html#a72f8a725cd1b257556ae7aa080f477c0a77677f4d00c6fab053e7f632ef59b4e5">ACHIEVEMENT_CRITERIA_DATA_TYPE_S_EQUIPPED_ITEM</a>      = 19, <span class="comment">// item_level     item_quality  for equipped item in slot to check item level and quality</span></div>
-<div class="line"><span class="lineno">   79</span>    <a class="code hl_enumvalue" href="../../d7/d82/a01601.html#a72f8a725cd1b257556ae7aa080f477c0a84b46b516fde8adcd492cb856d32e722">ACHIEVEMENT_CRITERIA_DATA_TYPE_MAP_ID</a>               = 20, <span class="comment">// map_id         0             player must be on map with id in map_id</span></div>
-<div class="line"><span class="lineno">   80</span>    <a class="code hl_enumvalue" href="../../d7/d82/a01601.html#a72f8a725cd1b257556ae7aa080f477c0aaa861458fcfe5aed7f8714be2b68a1db">ACHIEVEMENT_CRITERIA_DATA_TYPE_S_PLAYER_CLASS_RACE</a>  = 21, <span class="comment">// class_id       race_id</span></div>
-<div class="line"><span class="lineno">   81</span>    <a class="code hl_enumvalue" href="../../d7/d82/a01601.html#a72f8a725cd1b257556ae7aa080f477c0a003a15517532a95903cb8c6673db418f">ACHIEVEMENT_CRITERIA_DATA_TYPE_NTH_BIRTHDAY</a>         = 22, <span class="comment">// N                            login on day of N-th Birthday</span></div>
-<div class="line"><span class="lineno">   82</span>    <a class="code hl_enumvalue" href="../../d7/d82/a01601.html#a72f8a725cd1b257556ae7aa080f477c0a158d186341dd9798da3921a4a6bd2fda">ACHIEVEMENT_CRITERIA_DATA_TYPE_S_KNOWN_TITLE</a>        = 23, <span class="comment">// title_id                     known (pvp) title, values from dbc</span></div>
-<div class="line"><span class="lineno">   83</span>    <a class="code hl_enumvalue" href="../../d7/d82/a01601.html#a72f8a725cd1b257556ae7aa080f477c0af734713c1c6764e61fddab192904518a">ACHIEVEMENT_CRITERIA_DATA_TYPE_BG_TEAMS_SCORES</a>      = 24, <span class="comment">// winner_score   loser score   player&#39;s team win bg and their teams have exact scores</span></div>
-<div class="line"><span class="lineno">   84</span>    <a class="code hl_enumvalue" href="../../d7/d82/a01601.html#a72f8a725cd1b257556ae7aa080f477c0af53705f7958654cf4ca99c99dd320735">ACHIEVEMENT_CRITERIA_DATA_TYPE_S_ITEM_QUALITY</a>       = 25  <span class="comment">// item_quality</span></div>
-<div class="line"><span class="lineno">   85</span>};</div>
-<div class="ttc" id="aa01601_html_a72f8a725cd1b257556ae7aa080f477c0a003a15517532a95903cb8c6673db418f"><div class="ttname"><a href="../../d7/d82/a01601.html#a72f8a725cd1b257556ae7aa080f477c0a003a15517532a95903cb8c6673db418f">ACHIEVEMENT_CRITERIA_DATA_TYPE_NTH_BIRTHDAY</a></div><div class="ttdeci">@ ACHIEVEMENT_CRITERIA_DATA_TYPE_NTH_BIRTHDAY</div><div class="ttdef"><b>Definition:</b> AchievementMgr.h:81</div></div>
-<div class="ttc" id="aa01601_html_a72f8a725cd1b257556ae7aa080f477c0a0578b3122b1b69df3af04c2d45df266c"><div class="ttname"><a href="../../d7/d82/a01601.html#a72f8a725cd1b257556ae7aa080f477c0a0578b3122b1b69df3af04c2d45df266c">ACHIEVEMENT_CRITERIA_DATA_TYPE_SCRIPT</a></div><div class="ttdeci">@ ACHIEVEMENT_CRITERIA_DATA_TYPE_SCRIPT</div><div class="ttdef"><b>Definition:</b> AchievementMgr.h:70</div></div>
-<div class="ttc" id="aa01601_html_a72f8a725cd1b257556ae7aa080f477c0a1046e477766a7c60f4446fef1b13a6f5"><div class="ttname"><a href="../../d7/d82/a01601.html#a72f8a725cd1b257556ae7aa080f477c0a1046e477766a7c60f4446fef1b13a6f5">ACHIEVEMENT_CRITERIA_DATA_TYPE_MAP_PLAYER_COUNT</a></div><div class="ttdeci">@ ACHIEVEMENT_CRITERIA_DATA_TYPE_MAP_PLAYER_COUNT</div><div class="ttdef"><b>Definition:</b> AchievementMgr.h:72</div></div>
-<div class="ttc" id="aa01601_html_a72f8a725cd1b257556ae7aa080f477c0a10fc4cfb0da2c0c72c12d5e6e4a1bdd6"><div class="ttname"><a href="../../d7/d82/a01601.html#a72f8a725cd1b257556ae7aa080f477c0a10fc4cfb0da2c0c72c12d5e6e4a1bdd6">ACHIEVEMENT_CRITERIA_DATA_TYPE_T_GENDER</a></div><div class="ttdeci">@ ACHIEVEMENT_CRITERIA_DATA_TYPE_T_GENDER</div><div class="ttdef"><b>Definition:</b> AchievementMgr.h:69</div></div>
-<div class="ttc" id="aa01601_html_a72f8a725cd1b257556ae7aa080f477c0a158d186341dd9798da3921a4a6bd2fda"><div class="ttname"><a href="../../d7/d82/a01601.html#a72f8a725cd1b257556ae7aa080f477c0a158d186341dd9798da3921a4a6bd2fda">ACHIEVEMENT_CRITERIA_DATA_TYPE_S_KNOWN_TITLE</a></div><div class="ttdeci">@ ACHIEVEMENT_CRITERIA_DATA_TYPE_S_KNOWN_TITLE</div><div class="ttdef"><b>Definition:</b> AchievementMgr.h:82</div></div>
-<div class="ttc" id="aa01601_html_a72f8a725cd1b257556ae7aa080f477c0a19b830790eb46adb27e8a65b85eceed1"><div class="ttname"><a href="../../d7/d82/a01601.html#a72f8a725cd1b257556ae7aa080f477c0a19b830790eb46adb27e8a65b85eceed1">ACHIEVEMENT_CRITERIA_DATA_TYPE_S_AREA</a></div><div class="ttdeci">@ ACHIEVEMENT_CRITERIA_DATA_TYPE_S_AREA</div><div class="ttdef"><b>Definition:</b> AchievementMgr.h:65</div></div>
-<div class="ttc" id="aa01601_html_a72f8a725cd1b257556ae7aa080f477c0a22786f73e7cc8966c60614e88f0d5cb1"><div class="ttname"><a href="../../d7/d82/a01601.html#a72f8a725cd1b257556ae7aa080f477c0a22786f73e7cc8966c60614e88f0d5cb1">ACHIEVEMENT_CRITERIA_DATA_TYPE_T_PLAYER_CLASS_RACE</a></div><div class="ttdeci">@ ACHIEVEMENT_CRITERIA_DATA_TYPE_T_PLAYER_CLASS_RACE</div><div class="ttdef"><b>Definition:</b> AchievementMgr.h:61</div></div>
-<div class="ttc" id="aa01601_html_a72f8a725cd1b257556ae7aa080f477c0a3fd659753b9d41caa4b58c51d2cb6ea7"><div class="ttname"><a href="../../d7/d82/a01601.html#a72f8a725cd1b257556ae7aa080f477c0a3fd659753b9d41caa4b58c51d2cb6ea7">ACHIEVEMENT_CRITERIA_DATA_TYPE_VALUE</a></div><div class="ttdeci">@ ACHIEVEMENT_CRITERIA_DATA_TYPE_VALUE</div><div class="ttdef"><b>Definition:</b> AchievementMgr.h:67</div></div>
-<div class="ttc" id="aa01601_html_a72f8a725cd1b257556ae7aa080f477c0a5813a09c9977d3d5f80595d529f7f420"><div class="ttname"><a href="../../d7/d82/a01601.html#a72f8a725cd1b257556ae7aa080f477c0a5813a09c9977d3d5f80595d529f7f420">ACHIEVEMENT_CRITERIA_DATA_TYPE_MAP_DIFFICULTY</a></div><div class="ttdeci">@ ACHIEVEMENT_CRITERIA_DATA_TYPE_MAP_DIFFICULTY</div><div class="ttdef"><b>Definition:</b> AchievementMgr.h:71</div></div>
-<div class="ttc" id="aa01601_html_a72f8a725cd1b257556ae7aa080f477c0a77677f4d00c6fab053e7f632ef59b4e5"><div class="ttname"><a href="../../d7/d82/a01601.html#a72f8a725cd1b257556ae7aa080f477c0a77677f4d00c6fab053e7f632ef59b4e5">ACHIEVEMENT_CRITERIA_DATA_TYPE_S_EQUIPPED_ITEM</a></div><div class="ttdeci">@ ACHIEVEMENT_CRITERIA_DATA_TYPE_S_EQUIPPED_ITEM</div><div class="ttdef"><b>Definition:</b> AchievementMgr.h:78</div></div>
-<div class="ttc" id="aa01601_html_a72f8a725cd1b257556ae7aa080f477c0a7fcb85cf04be09a3a5f1214553bf329a"><div class="ttname"><a href="../../d7/d82/a01601.html#a72f8a725cd1b257556ae7aa080f477c0a7fcb85cf04be09a3a5f1214553bf329a">ACHIEVEMENT_CRITERIA_DATA_TYPE_S_DRUNK</a></div><div class="ttdeci">@ ACHIEVEMENT_CRITERIA_DATA_TYPE_S_DRUNK</div><div class="ttdef"><b>Definition:</b> AchievementMgr.h:74</div></div>
-<div class="ttc" id="aa01601_html_a72f8a725cd1b257556ae7aa080f477c0a84b46b516fde8adcd492cb856d32e722"><div class="ttname"><a href="../../d7/d82/a01601.html#a72f8a725cd1b257556ae7aa080f477c0a84b46b516fde8adcd492cb856d32e722">ACHIEVEMENT_CRITERIA_DATA_TYPE_MAP_ID</a></div><div class="ttdeci">@ ACHIEVEMENT_CRITERIA_DATA_TYPE_MAP_ID</div><div class="ttdef"><b>Definition:</b> AchievementMgr.h:79</div></div>
-<div class="ttc" id="aa01601_html_a72f8a725cd1b257556ae7aa080f477c0a9507639d721e63f182ebd53d593d5465"><div class="ttname"><a href="../../d7/d82/a01601.html#a72f8a725cd1b257556ae7aa080f477c0a9507639d721e63f182ebd53d593d5465">ACHIEVEMENT_CRITERIA_DATA_TYPE_S_AURA</a></div><div class="ttdeci">@ ACHIEVEMENT_CRITERIA_DATA_TYPE_S_AURA</div><div class="ttdef"><b>Definition:</b> AchievementMgr.h:64</div></div>
-<div class="ttc" id="aa01601_html_a72f8a725cd1b257556ae7aa080f477c0a9dba74c8f01c9292cf8afa6b77be2a34"><div class="ttname"><a href="../../d7/d82/a01601.html#a72f8a725cd1b257556ae7aa080f477c0a9dba74c8f01c9292cf8afa6b77be2a34">ACHIEVEMENT_CRITERIA_DATA_TYPE_HOLIDAY</a></div><div class="ttdeci">@ ACHIEVEMENT_CRITERIA_DATA_TYPE_HOLIDAY</div><div class="ttdef"><b>Definition:</b> AchievementMgr.h:75</div></div>
-<div class="ttc" id="aa01601_html_a72f8a725cd1b257556ae7aa080f477c0aa0b32101ef67881083e58a6a6c55c75b"><div class="ttname"><a href="../../d7/d82/a01601.html#a72f8a725cd1b257556ae7aa080f477c0aa0b32101ef67881083e58a6a6c55c75b">ACHIEVEMENT_CRITERIA_DATA_TYPE_T_AURA</a></div><div class="ttdeci">@ ACHIEVEMENT_CRITERIA_DATA_TYPE_T_AURA</div><div class="ttdef"><b>Definition:</b> AchievementMgr.h:66</div></div>
-<div class="ttc" id="aa01601_html_a72f8a725cd1b257556ae7aa080f477c0aaa861458fcfe5aed7f8714be2b68a1db"><div class="ttname"><a href="../../d7/d82/a01601.html#a72f8a725cd1b257556ae7aa080f477c0aaa861458fcfe5aed7f8714be2b68a1db">ACHIEVEMENT_CRITERIA_DATA_TYPE_S_PLAYER_CLASS_RACE</a></div><div class="ttdeci">@ ACHIEVEMENT_CRITERIA_DATA_TYPE_S_PLAYER_CLASS_RACE</div><div class="ttdef"><b>Definition:</b> AchievementMgr.h:80</div></div>
-<div class="ttc" id="aa01601_html_a72f8a725cd1b257556ae7aa080f477c0aab81f29c4cb17f066e8d2bd95f37d954"><div class="ttname"><a href="../../d7/d82/a01601.html#a72f8a725cd1b257556ae7aa080f477c0aab81f29c4cb17f066e8d2bd95f37d954">ACHIEVEMENT_CRITERIA_DATA_TYPE_BG_LOSS_TEAM_SCORE</a></div><div class="ttdeci">@ ACHIEVEMENT_CRITERIA_DATA_TYPE_BG_LOSS_TEAM_SCORE</div><div class="ttdef"><b>Definition:</b> AchievementMgr.h:76</div></div>
-<div class="ttc" id="aa01601_html_a72f8a725cd1b257556ae7aa080f477c0ab055e5273ac4250d273fa5592af3ed39"><div class="ttname"><a href="../../d7/d82/a01601.html#a72f8a725cd1b257556ae7aa080f477c0ab055e5273ac4250d273fa5592af3ed39">ACHIEVEMENT_CRITERIA_DATA_TYPE_T_LEVEL</a></div><div class="ttdeci">@ ACHIEVEMENT_CRITERIA_DATA_TYPE_T_LEVEL</div><div class="ttdef"><b>Definition:</b> AchievementMgr.h:68</div></div>
-<div class="ttc" id="aa01601_html_a72f8a725cd1b257556ae7aa080f477c0abc70f9063061689cbf95c04df5a9a448"><div class="ttname"><a href="../../d7/d82/a01601.html#a72f8a725cd1b257556ae7aa080f477c0abc70f9063061689cbf95c04df5a9a448">ACHIEVEMENT_CRITERIA_DATA_TYPE_T_CREATURE</a></div><div class="ttdeci">@ ACHIEVEMENT_CRITERIA_DATA_TYPE_T_CREATURE</div><div class="ttdef"><b>Definition:</b> AchievementMgr.h:60</div></div>
-<div class="ttc" id="aa01601_html_a72f8a725cd1b257556ae7aa080f477c0ac6775a92c029d4c2be529461e23e4ca3"><div class="ttname"><a href="../../d7/d82/a01601.html#a72f8a725cd1b257556ae7aa080f477c0ac6775a92c029d4c2be529461e23e4ca3">ACHIEVEMENT_CRITERIA_DATA_TYPE_T_PLAYER_LESS_HEALTH</a></div><div class="ttdeci">@ ACHIEVEMENT_CRITERIA_DATA_TYPE_T_PLAYER_LESS_HEALTH</div><div class="ttdef"><b>Definition:</b> AchievementMgr.h:62</div></div>
-<div class="ttc" id="aa01601_html_a72f8a725cd1b257556ae7aa080f477c0ad5967db594cc30c247c785d5c753cc18"><div class="ttname"><a href="../../d7/d82/a01601.html#a72f8a725cd1b257556ae7aa080f477c0ad5967db594cc30c247c785d5c753cc18">ACHIEVEMENT_CRITERIA_DATA_TYPE_T_TEAM</a></div><div class="ttdeci">@ ACHIEVEMENT_CRITERIA_DATA_TYPE_T_TEAM</div><div class="ttdef"><b>Definition:</b> AchievementMgr.h:73</div></div>
-<div class="ttc" id="aa01601_html_a72f8a725cd1b257556ae7aa080f477c0adb7d56866cf7afe8c4145c300a06ec4c"><div class="ttname"><a href="../../d7/d82/a01601.html#a72f8a725cd1b257556ae7aa080f477c0adb7d56866cf7afe8c4145c300a06ec4c">ACHIEVEMENT_CRITERIA_DATA_TYPE_INSTANCE_SCRIPT</a></div><div class="ttdeci">@ ACHIEVEMENT_CRITERIA_DATA_TYPE_INSTANCE_SCRIPT</div><div class="ttdef"><b>Definition:</b> AchievementMgr.h:77</div></div>
-<div class="ttc" id="aa01601_html_a72f8a725cd1b257556ae7aa080f477c0adc76e0c15e881d6848994a911d1a8ef6"><div class="ttname"><a href="../../d7/d82/a01601.html#a72f8a725cd1b257556ae7aa080f477c0adc76e0c15e881d6848994a911d1a8ef6">ACHIEVEMENT_CRITERIA_DATA_TYPE_T_PLAYER_DEAD</a></div><div class="ttdeci">@ ACHIEVEMENT_CRITERIA_DATA_TYPE_T_PLAYER_DEAD</div><div class="ttdef"><b>Definition:</b> AchievementMgr.h:63</div></div>
-<div class="ttc" id="aa01601_html_a72f8a725cd1b257556ae7aa080f477c0ae9d5b8759c2ee53b9e210a15ad049943"><div class="ttname"><a href="../../d7/d82/a01601.html#a72f8a725cd1b257556ae7aa080f477c0ae9d5b8759c2ee53b9e210a15ad049943">ACHIEVEMENT_CRITERIA_DATA_TYPE_NONE</a></div><div class="ttdeci">@ ACHIEVEMENT_CRITERIA_DATA_TYPE_NONE</div><div class="ttdef"><b>Definition:</b> AchievementMgr.h:59</div></div>
-<div class="ttc" id="aa01601_html_a72f8a725cd1b257556ae7aa080f477c0af53705f7958654cf4ca99c99dd320735"><div class="ttname"><a href="../../d7/d82/a01601.html#a72f8a725cd1b257556ae7aa080f477c0af53705f7958654cf4ca99c99dd320735">ACHIEVEMENT_CRITERIA_DATA_TYPE_S_ITEM_QUALITY</a></div><div class="ttdeci">@ ACHIEVEMENT_CRITERIA_DATA_TYPE_S_ITEM_QUALITY</div><div class="ttdef"><b>Definition:</b> AchievementMgr.h:84</div></div>
-<div class="ttc" id="aa01601_html_a72f8a725cd1b257556ae7aa080f477c0af734713c1c6764e61fddab192904518a"><div class="ttname"><a href="../../d7/d82/a01601.html#a72f8a725cd1b257556ae7aa080f477c0af734713c1c6764e61fddab192904518a">ACHIEVEMENT_CRITERIA_DATA_TYPE_BG_TEAMS_SCORES</a></div><div class="ttdeci">@ ACHIEVEMENT_CRITERIA_DATA_TYPE_BG_TEAMS_SCORES</div><div class="ttdef"><b>Definition:</b> AchievementMgr.h:83</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   58</span>{</div>
+<div class="line"><span class="lineno">   59</span>    <a class="code hl_enumvalue" href="../../d7/d82/a01601.html#aabfde90a2fd31d4aa93fac9f496c12fca48aa5b1bedf68195cdd22beef9b70890">CALENDAR_TYPE_RAID</a>              = 0,</div>
+<div class="line"><span class="lineno">   60</span>    <a class="code hl_enumvalue" href="../../d7/d82/a01601.html#aabfde90a2fd31d4aa93fac9f496c12fca8437c91cd27563e4e360e6c7121634c1">CALENDAR_TYPE_DUNGEON</a>           = 1,</div>
+<div class="line"><span class="lineno">   61</span>    <a class="code hl_enumvalue" href="../../d7/d82/a01601.html#aabfde90a2fd31d4aa93fac9f496c12fca70d5fb1e15351b8947fc6d67ffe3787e">CALENDAR_TYPE_PVP</a>               = 2,</div>
+<div class="line"><span class="lineno">   62</span>    <a class="code hl_enumvalue" href="../../d7/d82/a01601.html#aabfde90a2fd31d4aa93fac9f496c12fca494b5ff6684446c72830fe7b4f5c6c3f">CALENDAR_TYPE_MEETING</a>           = 3,</div>
+<div class="line"><span class="lineno">   63</span>    <a class="code hl_enumvalue" href="../../d7/d82/a01601.html#aabfde90a2fd31d4aa93fac9f496c12fca01ce2bdc9dc2ced0772ef714f873f397">CALENDAR_TYPE_OTHER</a>             = 4</div>
+<div class="line"><span class="lineno">   64</span>};</div>
+<div class="ttc" id="aa01601_html_aabfde90a2fd31d4aa93fac9f496c12fca01ce2bdc9dc2ced0772ef714f873f397"><div class="ttname"><a href="../../d7/d82/a01601.html#aabfde90a2fd31d4aa93fac9f496c12fca01ce2bdc9dc2ced0772ef714f873f397">CALENDAR_TYPE_OTHER</a></div><div class="ttdeci">@ CALENDAR_TYPE_OTHER</div><div class="ttdef"><b>Definition:</b> CalendarMgr.h:63</div></div>
+<div class="ttc" id="aa01601_html_aabfde90a2fd31d4aa93fac9f496c12fca48aa5b1bedf68195cdd22beef9b70890"><div class="ttname"><a href="../../d7/d82/a01601.html#aabfde90a2fd31d4aa93fac9f496c12fca48aa5b1bedf68195cdd22beef9b70890">CALENDAR_TYPE_RAID</a></div><div class="ttdeci">@ CALENDAR_TYPE_RAID</div><div class="ttdef"><b>Definition:</b> CalendarMgr.h:59</div></div>
+<div class="ttc" id="aa01601_html_aabfde90a2fd31d4aa93fac9f496c12fca494b5ff6684446c72830fe7b4f5c6c3f"><div class="ttname"><a href="../../d7/d82/a01601.html#aabfde90a2fd31d4aa93fac9f496c12fca494b5ff6684446c72830fe7b4f5c6c3f">CALENDAR_TYPE_MEETING</a></div><div class="ttdeci">@ CALENDAR_TYPE_MEETING</div><div class="ttdef"><b>Definition:</b> CalendarMgr.h:62</div></div>
+<div class="ttc" id="aa01601_html_aabfde90a2fd31d4aa93fac9f496c12fca70d5fb1e15351b8947fc6d67ffe3787e"><div class="ttname"><a href="../../d7/d82/a01601.html#aabfde90a2fd31d4aa93fac9f496c12fca70d5fb1e15351b8947fc6d67ffe3787e">CALENDAR_TYPE_PVP</a></div><div class="ttdeci">@ CALENDAR_TYPE_PVP</div><div class="ttdef"><b>Definition:</b> CalendarMgr.h:61</div></div>
+<div class="ttc" id="aa01601_html_aabfde90a2fd31d4aa93fac9f496c12fca8437c91cd27563e4e360e6c7121634c1"><div class="ttname"><a href="../../d7/d82/a01601.html#aabfde90a2fd31d4aa93fac9f496c12fca8437c91cd27563e4e360e6c7121634c1">CALENDAR_TYPE_DUNGEON</a></div><div class="ttdeci">@ CALENDAR_TYPE_DUNGEON</div><div class="ttdef"><b>Definition:</b> CalendarMgr.h:60</div></div>
 </div><!-- fragment -->
 </div>
 </div>
-<a id="a9c52752c50b87261f43020b3cfaa06e6" name="a9c52752c50b87261f43020b3cfaa06e6"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a9c52752c50b87261f43020b3cfaa06e6">&#9670;&#160;</a></span>AchievementOfflinePlayerUpdateType</h2>
+<a id="a5fcf8a7cda848f4b07b3bfc52392bc1c" name="a5fcf8a7cda848f4b07b3bfc52392bc1c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5fcf8a7cda848f4b07b3bfc52392bc1c">&#9670;&#160;</a></span>CalendarFlags</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">enum <a class="el" href="../../d7/d82/a01601.html#a9c52752c50b87261f43020b3cfaa06e6">AchievementOfflinePlayerUpdateType</a></td>
+          <td class="memname">enum <a class="el" href="../../d7/d82/a01601.html#a5fcf8a7cda848f4b07b3bfc52392bc1c">CalendarFlags</a></td>
         </tr>
       </table>
 </div><div class="memdoc">
 <table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a9c52752c50b87261f43020b3cfaa06e6a2976d6d0cc93ac389d7683d092aff8ee" name="a9c52752c50b87261f43020b3cfaa06e6a2976d6d0cc93ac389d7683d092aff8ee"></a>ACHIEVEMENT_OFFLINE_PLAYER_UPDATE_TYPE_COMPLETE_ACHIEVEMENT&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a9c52752c50b87261f43020b3cfaa06e6a7d91d50e1acd06739fbc20bd87c8a4a3" name="a9c52752c50b87261f43020b3cfaa06e6a7d91d50e1acd06739fbc20bd87c8a4a3"></a>ACHIEVEMENT_OFFLINE_PLAYER_UPDATE_TYPE_UPDATE_CRITERIA&#160;</td><td class="fielddoc"></td></tr>
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a5fcf8a7cda848f4b07b3bfc52392bc1caaec6bae0b6425676a85d9ba85b0c52ce" name="a5fcf8a7cda848f4b07b3bfc52392bc1caaec6bae0b6425676a85d9ba85b0c52ce"></a>CALENDAR_FLAG_ALL_ALLOWED&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a5fcf8a7cda848f4b07b3bfc52392bc1ca11c0822a05ad167436a105ad7d18675e" name="a5fcf8a7cda848f4b07b3bfc52392bc1ca11c0822a05ad167436a105ad7d18675e"></a>CALENDAR_FLAG_INVITES_LOCKED&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a5fcf8a7cda848f4b07b3bfc52392bc1ca0c29c90b66a143ba0c0edfeb9b92d76a" name="a5fcf8a7cda848f4b07b3bfc52392bc1ca0c29c90b66a143ba0c0edfeb9b92d76a"></a>CALENDAR_FLAG_WITHOUT_INVITES&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a5fcf8a7cda848f4b07b3bfc52392bc1ca2846a8e774488e28e699cf1230dc3bab" name="a5fcf8a7cda848f4b07b3bfc52392bc1ca2846a8e774488e28e699cf1230dc3bab"></a>CALENDAR_FLAG_GUILD_EVENT&#160;</td><td class="fielddoc"></td></tr>
 </table>
 <div class="fragment"><div class="line"><span class="lineno">   36</span>{</div>
-<div class="line"><span class="lineno">   37</span>    <a class="code hl_enumvalue" href="../../d7/d82/a01601.html#a9c52752c50b87261f43020b3cfaa06e6a2976d6d0cc93ac389d7683d092aff8ee">ACHIEVEMENT_OFFLINE_PLAYER_UPDATE_TYPE_COMPLETE_ACHIEVEMENT</a> = 1,</div>
-<div class="line"><span class="lineno">   38</span>    <a class="code hl_enumvalue" href="../../d7/d82/a01601.html#a9c52752c50b87261f43020b3cfaa06e6a7d91d50e1acd06739fbc20bd87c8a4a3">ACHIEVEMENT_OFFLINE_PLAYER_UPDATE_TYPE_UPDATE_CRITERIA</a>      = 2</div>
-<div class="line"><span class="lineno">   39</span>};</div>
-<div class="ttc" id="aa01601_html_a9c52752c50b87261f43020b3cfaa06e6a2976d6d0cc93ac389d7683d092aff8ee"><div class="ttname"><a href="../../d7/d82/a01601.html#a9c52752c50b87261f43020b3cfaa06e6a2976d6d0cc93ac389d7683d092aff8ee">ACHIEVEMENT_OFFLINE_PLAYER_UPDATE_TYPE_COMPLETE_ACHIEVEMENT</a></div><div class="ttdeci">@ ACHIEVEMENT_OFFLINE_PLAYER_UPDATE_TYPE_COMPLETE_ACHIEVEMENT</div><div class="ttdef"><b>Definition:</b> AchievementMgr.h:37</div></div>
-<div class="ttc" id="aa01601_html_a9c52752c50b87261f43020b3cfaa06e6a7d91d50e1acd06739fbc20bd87c8a4a3"><div class="ttname"><a href="../../d7/d82/a01601.html#a9c52752c50b87261f43020b3cfaa06e6a7d91d50e1acd06739fbc20bd87c8a4a3">ACHIEVEMENT_OFFLINE_PLAYER_UPDATE_TYPE_UPDATE_CRITERIA</a></div><div class="ttdeci">@ ACHIEVEMENT_OFFLINE_PLAYER_UPDATE_TYPE_UPDATE_CRITERIA</div><div class="ttdef"><b>Definition:</b> AchievementMgr.h:38</div></div>
+<div class="line"><span class="lineno">   37</span>    <a class="code hl_enumvalue" href="../../d7/d82/a01601.html#a5fcf8a7cda848f4b07b3bfc52392bc1caaec6bae0b6425676a85d9ba85b0c52ce">CALENDAR_FLAG_ALL_ALLOWED</a>       = 0x001,</div>
+<div class="line"><span class="lineno">   38</span>    <a class="code hl_enumvalue" href="../../d7/d82/a01601.html#a5fcf8a7cda848f4b07b3bfc52392bc1ca11c0822a05ad167436a105ad7d18675e">CALENDAR_FLAG_INVITES_LOCKED</a>    = 0x010,</div>
+<div class="line"><span class="lineno">   39</span>    <a class="code hl_enumvalue" href="../../d7/d82/a01601.html#a5fcf8a7cda848f4b07b3bfc52392bc1ca0c29c90b66a143ba0c0edfeb9b92d76a">CALENDAR_FLAG_WITHOUT_INVITES</a>   = 0x040,</div>
+<div class="line"><span class="lineno">   40</span>    <a class="code hl_enumvalue" href="../../d7/d82/a01601.html#a5fcf8a7cda848f4b07b3bfc52392bc1ca2846a8e774488e28e699cf1230dc3bab">CALENDAR_FLAG_GUILD_EVENT</a>       = 0x400</div>
+<div class="line"><span class="lineno">   41</span>};</div>
+<div class="ttc" id="aa01601_html_a5fcf8a7cda848f4b07b3bfc52392bc1ca0c29c90b66a143ba0c0edfeb9b92d76a"><div class="ttname"><a href="../../d7/d82/a01601.html#a5fcf8a7cda848f4b07b3bfc52392bc1ca0c29c90b66a143ba0c0edfeb9b92d76a">CALENDAR_FLAG_WITHOUT_INVITES</a></div><div class="ttdeci">@ CALENDAR_FLAG_WITHOUT_INVITES</div><div class="ttdef"><b>Definition:</b> CalendarMgr.h:39</div></div>
+<div class="ttc" id="aa01601_html_a5fcf8a7cda848f4b07b3bfc52392bc1ca11c0822a05ad167436a105ad7d18675e"><div class="ttname"><a href="../../d7/d82/a01601.html#a5fcf8a7cda848f4b07b3bfc52392bc1ca11c0822a05ad167436a105ad7d18675e">CALENDAR_FLAG_INVITES_LOCKED</a></div><div class="ttdeci">@ CALENDAR_FLAG_INVITES_LOCKED</div><div class="ttdef"><b>Definition:</b> CalendarMgr.h:38</div></div>
+<div class="ttc" id="aa01601_html_a5fcf8a7cda848f4b07b3bfc52392bc1ca2846a8e774488e28e699cf1230dc3bab"><div class="ttname"><a href="../../d7/d82/a01601.html#a5fcf8a7cda848f4b07b3bfc52392bc1ca2846a8e774488e28e699cf1230dc3bab">CALENDAR_FLAG_GUILD_EVENT</a></div><div class="ttdeci">@ CALENDAR_FLAG_GUILD_EVENT</div><div class="ttdef"><b>Definition:</b> CalendarMgr.h:40</div></div>
+<div class="ttc" id="aa01601_html_a5fcf8a7cda848f4b07b3bfc52392bc1caaec6bae0b6425676a85d9ba85b0c52ce"><div class="ttname"><a href="../../d7/d82/a01601.html#a5fcf8a7cda848f4b07b3bfc52392bc1caaec6bae0b6425676a85d9ba85b0c52ce">CALENDAR_FLAG_ALL_ALLOWED</a></div><div class="ttdeci">@ CALENDAR_FLAG_ALL_ALLOWED</div><div class="ttdef"><b>Definition:</b> CalendarMgr.h:37</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="abdb1aa687194b3d8b2fc19da7b3334b4" name="abdb1aa687194b3d8b2fc19da7b3334b4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abdb1aa687194b3d8b2fc19da7b3334b4">&#9670;&#160;</a></span>CalendarInviteStatus</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="../../d7/d82/a01601.html#abdb1aa687194b3d8b2fc19da7b3334b4">CalendarInviteStatus</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="abdb1aa687194b3d8b2fc19da7b3334b4a2a057d25b8c726dc09413d9bb9c8be92" name="abdb1aa687194b3d8b2fc19da7b3334b4a2a057d25b8c726dc09413d9bb9c8be92"></a>CALENDAR_STATUS_INVITED&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="abdb1aa687194b3d8b2fc19da7b3334b4a2ca72ac10e931968fd01373d73b73525" name="abdb1aa687194b3d8b2fc19da7b3334b4a2ca72ac10e931968fd01373d73b73525"></a>CALENDAR_STATUS_ACCEPTED&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="abdb1aa687194b3d8b2fc19da7b3334b4aa808b39d9c2805547d936762675ef4f6" name="abdb1aa687194b3d8b2fc19da7b3334b4aa808b39d9c2805547d936762675ef4f6"></a>CALENDAR_STATUS_DECLINED&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="abdb1aa687194b3d8b2fc19da7b3334b4ae7cfe308334841fc33daefeee33cb1bc" name="abdb1aa687194b3d8b2fc19da7b3334b4ae7cfe308334841fc33daefeee33cb1bc"></a>CALENDAR_STATUS_CONFIRMED&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="abdb1aa687194b3d8b2fc19da7b3334b4af8c5abe28506f07366c085908dfca1bb" name="abdb1aa687194b3d8b2fc19da7b3334b4af8c5abe28506f07366c085908dfca1bb"></a>CALENDAR_STATUS_OUT&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="abdb1aa687194b3d8b2fc19da7b3334b4a2177c40fa4e5c9e8f361a01fa10c4aad" name="abdb1aa687194b3d8b2fc19da7b3334b4a2177c40fa4e5c9e8f361a01fa10c4aad"></a>CALENDAR_STATUS_STANDBY&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="abdb1aa687194b3d8b2fc19da7b3334b4a4268e3a8406a494637e317560ab27d28" name="abdb1aa687194b3d8b2fc19da7b3334b4a4268e3a8406a494637e317560ab27d28"></a>CALENDAR_STATUS_SIGNED_UP&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="abdb1aa687194b3d8b2fc19da7b3334b4a0f7719df2703c427637085ef82ec420d" name="abdb1aa687194b3d8b2fc19da7b3334b4a0f7719df2703c427637085ef82ec420d"></a>CALENDAR_STATUS_NOT_SIGNED_UP&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="abdb1aa687194b3d8b2fc19da7b3334b4a0f3f83d68d216ff326f5880ae5570be3" name="abdb1aa687194b3d8b2fc19da7b3334b4a0f3f83d68d216ff326f5880ae5570be3"></a>CALENDAR_STATUS_TENTATIVE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="abdb1aa687194b3d8b2fc19da7b3334b4a95cc3d298d4cd178c93c42ead591604d" name="abdb1aa687194b3d8b2fc19da7b3334b4a95cc3d298d4cd178c93c42ead591604d"></a>CALENDAR_STATUS_REMOVED&#160;</td><td class="fielddoc"></td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno">   75</span>{</div>
+<div class="line"><span class="lineno">   76</span>    <a class="code hl_enumvalue" href="../../d7/d82/a01601.html#abdb1aa687194b3d8b2fc19da7b3334b4a2a057d25b8c726dc09413d9bb9c8be92">CALENDAR_STATUS_INVITED</a>         = 0,</div>
+<div class="line"><span class="lineno">   77</span>    <a class="code hl_enumvalue" href="../../d7/d82/a01601.html#abdb1aa687194b3d8b2fc19da7b3334b4a2ca72ac10e931968fd01373d73b73525">CALENDAR_STATUS_ACCEPTED</a>        = 1,</div>
+<div class="line"><span class="lineno">   78</span>    <a class="code hl_enumvalue" href="../../d7/d82/a01601.html#abdb1aa687194b3d8b2fc19da7b3334b4aa808b39d9c2805547d936762675ef4f6">CALENDAR_STATUS_DECLINED</a>        = 2,</div>
+<div class="line"><span class="lineno">   79</span>    <a class="code hl_enumvalue" href="../../d7/d82/a01601.html#abdb1aa687194b3d8b2fc19da7b3334b4ae7cfe308334841fc33daefeee33cb1bc">CALENDAR_STATUS_CONFIRMED</a>       = 3,</div>
+<div class="line"><span class="lineno">   80</span>    <a class="code hl_enumvalue" href="../../d7/d82/a01601.html#abdb1aa687194b3d8b2fc19da7b3334b4af8c5abe28506f07366c085908dfca1bb">CALENDAR_STATUS_OUT</a>             = 4,</div>
+<div class="line"><span class="lineno">   81</span>    <a class="code hl_enumvalue" href="../../d7/d82/a01601.html#abdb1aa687194b3d8b2fc19da7b3334b4a2177c40fa4e5c9e8f361a01fa10c4aad">CALENDAR_STATUS_STANDBY</a>         = 5,</div>
+<div class="line"><span class="lineno">   82</span>    <a class="code hl_enumvalue" href="../../d7/d82/a01601.html#abdb1aa687194b3d8b2fc19da7b3334b4a4268e3a8406a494637e317560ab27d28">CALENDAR_STATUS_SIGNED_UP</a>       = 6,</div>
+<div class="line"><span class="lineno">   83</span>    <a class="code hl_enumvalue" href="../../d7/d82/a01601.html#abdb1aa687194b3d8b2fc19da7b3334b4a0f7719df2703c427637085ef82ec420d">CALENDAR_STATUS_NOT_SIGNED_UP</a>   = 7,</div>
+<div class="line"><span class="lineno">   84</span>    <a class="code hl_enumvalue" href="../../d7/d82/a01601.html#abdb1aa687194b3d8b2fc19da7b3334b4a0f3f83d68d216ff326f5880ae5570be3">CALENDAR_STATUS_TENTATIVE</a>       = 8,</div>
+<div class="line"><span class="lineno">   85</span>    <a class="code hl_enumvalue" href="../../d7/d82/a01601.html#abdb1aa687194b3d8b2fc19da7b3334b4a95cc3d298d4cd178c93c42ead591604d">CALENDAR_STATUS_REMOVED</a>         = 9     <span class="comment">// correct name?</span></div>
+<div class="line"><span class="lineno">   86</span>};</div>
+<div class="ttc" id="aa01601_html_abdb1aa687194b3d8b2fc19da7b3334b4a0f3f83d68d216ff326f5880ae5570be3"><div class="ttname"><a href="../../d7/d82/a01601.html#abdb1aa687194b3d8b2fc19da7b3334b4a0f3f83d68d216ff326f5880ae5570be3">CALENDAR_STATUS_TENTATIVE</a></div><div class="ttdeci">@ CALENDAR_STATUS_TENTATIVE</div><div class="ttdef"><b>Definition:</b> CalendarMgr.h:84</div></div>
+<div class="ttc" id="aa01601_html_abdb1aa687194b3d8b2fc19da7b3334b4a0f7719df2703c427637085ef82ec420d"><div class="ttname"><a href="../../d7/d82/a01601.html#abdb1aa687194b3d8b2fc19da7b3334b4a0f7719df2703c427637085ef82ec420d">CALENDAR_STATUS_NOT_SIGNED_UP</a></div><div class="ttdeci">@ CALENDAR_STATUS_NOT_SIGNED_UP</div><div class="ttdef"><b>Definition:</b> CalendarMgr.h:83</div></div>
+<div class="ttc" id="aa01601_html_abdb1aa687194b3d8b2fc19da7b3334b4a2177c40fa4e5c9e8f361a01fa10c4aad"><div class="ttname"><a href="../../d7/d82/a01601.html#abdb1aa687194b3d8b2fc19da7b3334b4a2177c40fa4e5c9e8f361a01fa10c4aad">CALENDAR_STATUS_STANDBY</a></div><div class="ttdeci">@ CALENDAR_STATUS_STANDBY</div><div class="ttdef"><b>Definition:</b> CalendarMgr.h:81</div></div>
+<div class="ttc" id="aa01601_html_abdb1aa687194b3d8b2fc19da7b3334b4a2a057d25b8c726dc09413d9bb9c8be92"><div class="ttname"><a href="../../d7/d82/a01601.html#abdb1aa687194b3d8b2fc19da7b3334b4a2a057d25b8c726dc09413d9bb9c8be92">CALENDAR_STATUS_INVITED</a></div><div class="ttdeci">@ CALENDAR_STATUS_INVITED</div><div class="ttdef"><b>Definition:</b> CalendarMgr.h:76</div></div>
+<div class="ttc" id="aa01601_html_abdb1aa687194b3d8b2fc19da7b3334b4a2ca72ac10e931968fd01373d73b73525"><div class="ttname"><a href="../../d7/d82/a01601.html#abdb1aa687194b3d8b2fc19da7b3334b4a2ca72ac10e931968fd01373d73b73525">CALENDAR_STATUS_ACCEPTED</a></div><div class="ttdeci">@ CALENDAR_STATUS_ACCEPTED</div><div class="ttdef"><b>Definition:</b> CalendarMgr.h:77</div></div>
+<div class="ttc" id="aa01601_html_abdb1aa687194b3d8b2fc19da7b3334b4a4268e3a8406a494637e317560ab27d28"><div class="ttname"><a href="../../d7/d82/a01601.html#abdb1aa687194b3d8b2fc19da7b3334b4a4268e3a8406a494637e317560ab27d28">CALENDAR_STATUS_SIGNED_UP</a></div><div class="ttdeci">@ CALENDAR_STATUS_SIGNED_UP</div><div class="ttdef"><b>Definition:</b> CalendarMgr.h:82</div></div>
+<div class="ttc" id="aa01601_html_abdb1aa687194b3d8b2fc19da7b3334b4a95cc3d298d4cd178c93c42ead591604d"><div class="ttname"><a href="../../d7/d82/a01601.html#abdb1aa687194b3d8b2fc19da7b3334b4a95cc3d298d4cd178c93c42ead591604d">CALENDAR_STATUS_REMOVED</a></div><div class="ttdeci">@ CALENDAR_STATUS_REMOVED</div><div class="ttdef"><b>Definition:</b> CalendarMgr.h:85</div></div>
+<div class="ttc" id="aa01601_html_abdb1aa687194b3d8b2fc19da7b3334b4aa808b39d9c2805547d936762675ef4f6"><div class="ttname"><a href="../../d7/d82/a01601.html#abdb1aa687194b3d8b2fc19da7b3334b4aa808b39d9c2805547d936762675ef4f6">CALENDAR_STATUS_DECLINED</a></div><div class="ttdeci">@ CALENDAR_STATUS_DECLINED</div><div class="ttdef"><b>Definition:</b> CalendarMgr.h:78</div></div>
+<div class="ttc" id="aa01601_html_abdb1aa687194b3d8b2fc19da7b3334b4ae7cfe308334841fc33daefeee33cb1bc"><div class="ttname"><a href="../../d7/d82/a01601.html#abdb1aa687194b3d8b2fc19da7b3334b4ae7cfe308334841fc33daefeee33cb1bc">CALENDAR_STATUS_CONFIRMED</a></div><div class="ttdeci">@ CALENDAR_STATUS_CONFIRMED</div><div class="ttdef"><b>Definition:</b> CalendarMgr.h:79</div></div>
+<div class="ttc" id="aa01601_html_abdb1aa687194b3d8b2fc19da7b3334b4af8c5abe28506f07366c085908dfca1bb"><div class="ttname"><a href="../../d7/d82/a01601.html#abdb1aa687194b3d8b2fc19da7b3334b4af8c5abe28506f07366c085908dfca1bb">CALENDAR_STATUS_OUT</a></div><div class="ttdeci">@ CALENDAR_STATUS_OUT</div><div class="ttdef"><b>Definition:</b> CalendarMgr.h:80</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="adf6bf00c462990adc2b57c02f9db8c32" name="adf6bf00c462990adc2b57c02f9db8c32"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#adf6bf00c462990adc2b57c02f9db8c32">&#9670;&#160;</a></span>CalendarLimits</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="../../d7/d82/a01601.html#adf6bf00c462990adc2b57c02f9db8c32">CalendarLimits</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="adf6bf00c462990adc2b57c02f9db8c32a49230604bd7fd600f1852ba9dd754076" name="adf6bf00c462990adc2b57c02f9db8c32a49230604bd7fd600f1852ba9dd754076"></a>CALENDAR_MAX_EVENTS&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="adf6bf00c462990adc2b57c02f9db8c32abec07e16ff5421a7ae42dc4b182958a2" name="adf6bf00c462990adc2b57c02f9db8c32abec07e16ff5421a7ae42dc4b182958a2"></a>CALENDAR_MAX_GUILD_EVENTS&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="adf6bf00c462990adc2b57c02f9db8c32aa5c5d3a6c0bb88385109aa937a047e95" name="adf6bf00c462990adc2b57c02f9db8c32aa5c5d3a6c0bb88385109aa937a047e95"></a>CALENDAR_MAX_INVITES&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="adf6bf00c462990adc2b57c02f9db8c32ae4904590b247a266816d8e71ad231b9f" name="adf6bf00c462990adc2b57c02f9db8c32ae4904590b247a266816d8e71ad231b9f"></a>CALENDAR_CREATE_EVENT_COOLDOWN&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="adf6bf00c462990adc2b57c02f9db8c32a1abad081cf58bddddf2065698274bd48" name="adf6bf00c462990adc2b57c02f9db8c32a1abad081cf58bddddf2065698274bd48"></a>CALENDAR_OLD_EVENTS_DELETION_TIME&#160;</td><td class="fielddoc"></td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno">  127</span>{</div>
+<div class="line"><span class="lineno">  128</span>    <a class="code hl_enumvalue" href="../../d7/d82/a01601.html#adf6bf00c462990adc2b57c02f9db8c32a49230604bd7fd600f1852ba9dd754076">CALENDAR_MAX_EVENTS</a>               = 30,</div>
+<div class="line"><span class="lineno">  129</span>    <a class="code hl_enumvalue" href="../../d7/d82/a01601.html#adf6bf00c462990adc2b57c02f9db8c32abec07e16ff5421a7ae42dc4b182958a2">CALENDAR_MAX_GUILD_EVENTS</a>         = 100,</div>
+<div class="line"><span class="lineno">  130</span>    <a class="code hl_enumvalue" href="../../d7/d82/a01601.html#adf6bf00c462990adc2b57c02f9db8c32aa5c5d3a6c0bb88385109aa937a047e95">CALENDAR_MAX_INVITES</a>              = 100,</div>
+<div class="line"><span class="lineno">  131</span>    <a class="code hl_enumvalue" href="../../d7/d82/a01601.html#adf6bf00c462990adc2b57c02f9db8c32ae4904590b247a266816d8e71ad231b9f">CALENDAR_CREATE_EVENT_COOLDOWN</a>    = 5,</div>
+<div class="line"><span class="lineno">  132</span>    <a class="code hl_enumvalue" href="../../d7/d82/a01601.html#adf6bf00c462990adc2b57c02f9db8c32a1abad081cf58bddddf2065698274bd48">CALENDAR_OLD_EVENTS_DELETION_TIME</a> = 1 * <a class="code hl_variable" href="../../d1/d7a/a04262.html#add49e81cdd2c0bb5eb745bed627d5022">MONTH</a>,</div>
+<div class="line"><span class="lineno">  133</span>};</div>
+<div class="ttc" id="aa01601_html_adf6bf00c462990adc2b57c02f9db8c32a1abad081cf58bddddf2065698274bd48"><div class="ttname"><a href="../../d7/d82/a01601.html#adf6bf00c462990adc2b57c02f9db8c32a1abad081cf58bddddf2065698274bd48">CALENDAR_OLD_EVENTS_DELETION_TIME</a></div><div class="ttdeci">@ CALENDAR_OLD_EVENTS_DELETION_TIME</div><div class="ttdef"><b>Definition:</b> CalendarMgr.h:132</div></div>
+<div class="ttc" id="aa01601_html_adf6bf00c462990adc2b57c02f9db8c32a49230604bd7fd600f1852ba9dd754076"><div class="ttname"><a href="../../d7/d82/a01601.html#adf6bf00c462990adc2b57c02f9db8c32a49230604bd7fd600f1852ba9dd754076">CALENDAR_MAX_EVENTS</a></div><div class="ttdeci">@ CALENDAR_MAX_EVENTS</div><div class="ttdef"><b>Definition:</b> CalendarMgr.h:128</div></div>
+<div class="ttc" id="aa01601_html_adf6bf00c462990adc2b57c02f9db8c32aa5c5d3a6c0bb88385109aa937a047e95"><div class="ttname"><a href="../../d7/d82/a01601.html#adf6bf00c462990adc2b57c02f9db8c32aa5c5d3a6c0bb88385109aa937a047e95">CALENDAR_MAX_INVITES</a></div><div class="ttdeci">@ CALENDAR_MAX_INVITES</div><div class="ttdef"><b>Definition:</b> CalendarMgr.h:130</div></div>
+<div class="ttc" id="aa01601_html_adf6bf00c462990adc2b57c02f9db8c32abec07e16ff5421a7ae42dc4b182958a2"><div class="ttname"><a href="../../d7/d82/a01601.html#adf6bf00c462990adc2b57c02f9db8c32abec07e16ff5421a7ae42dc4b182958a2">CALENDAR_MAX_GUILD_EVENTS</a></div><div class="ttdeci">@ CALENDAR_MAX_GUILD_EVENTS</div><div class="ttdef"><b>Definition:</b> CalendarMgr.h:129</div></div>
+<div class="ttc" id="aa01601_html_adf6bf00c462990adc2b57c02f9db8c32ae4904590b247a266816d8e71ad231b9f"><div class="ttname"><a href="../../d7/d82/a01601.html#adf6bf00c462990adc2b57c02f9db8c32ae4904590b247a266816d8e71ad231b9f">CALENDAR_CREATE_EVENT_COOLDOWN</a></div><div class="ttdeci">@ CALENDAR_CREATE_EVENT_COOLDOWN</div><div class="ttdef"><b>Definition:</b> CalendarMgr.h:131</div></div>
+<div class="ttc" id="aa04262_html_add49e81cdd2c0bb5eb745bed627d5022"><div class="ttname"><a href="../../d1/d7a/a04262.html#add49e81cdd2c0bb5eb745bed627d5022">MONTH</a></div><div class="ttdeci">constexpr auto MONTH</div><div class="ttdef"><b>Definition:</b> Common.h:51</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="a73b2cba8ecc0a4fcb6a2d1a63c6ad3e7" name="a73b2cba8ecc0a4fcb6a2d1a63c6ad3e7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a73b2cba8ecc0a4fcb6a2d1a63c6ad3e7">&#9670;&#160;</a></span>CalendarMailAnswers</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="../../d7/d82/a01601.html#a73b2cba8ecc0a4fcb6a2d1a63c6ad3e7">CalendarMailAnswers</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a73b2cba8ecc0a4fcb6a2d1a63c6ad3e7ab011dccd3e2a3f82731887cb184dacaf" name="a73b2cba8ecc0a4fcb6a2d1a63c6ad3e7ab011dccd3e2a3f82731887cb184dacaf"></a>CALENDAR_EVENT_REMOVED_MAIL_SUBJECT&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a73b2cba8ecc0a4fcb6a2d1a63c6ad3e7aeaf378ba4739bc58c1b530fd39368090" name="a73b2cba8ecc0a4fcb6a2d1a63c6ad3e7aeaf378ba4739bc58c1b530fd39368090"></a>CALENDAR_INVITE_REMOVED_MAIL_SUBJECT&#160;</td><td class="fielddoc"></td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno">   28</span>{</div>
+<div class="line"><span class="lineno">   29</span>    <span class="comment">// else</span></div>
+<div class="line"><span class="lineno">   30</span>    <a class="code hl_enumvalue" href="../../d7/d82/a01601.html#a73b2cba8ecc0a4fcb6a2d1a63c6ad3e7ab011dccd3e2a3f82731887cb184dacaf">CALENDAR_EVENT_REMOVED_MAIL_SUBJECT</a>     = 0,</div>
+<div class="line"><span class="lineno">   31</span>    <span class="comment">// if (*(_DWORD *)(a1 + 8292) &amp; 0x100 )</span></div>
+<div class="line"><span class="lineno">   32</span>    <a class="code hl_enumvalue" href="../../d7/d82/a01601.html#a73b2cba8ecc0a4fcb6a2d1a63c6ad3e7aeaf378ba4739bc58c1b530fd39368090">CALENDAR_INVITE_REMOVED_MAIL_SUBJECT</a>    = 0x100</div>
+<div class="line"><span class="lineno">   33</span>};</div>
+<div class="ttc" id="aa01601_html_a73b2cba8ecc0a4fcb6a2d1a63c6ad3e7ab011dccd3e2a3f82731887cb184dacaf"><div class="ttname"><a href="../../d7/d82/a01601.html#a73b2cba8ecc0a4fcb6a2d1a63c6ad3e7ab011dccd3e2a3f82731887cb184dacaf">CALENDAR_EVENT_REMOVED_MAIL_SUBJECT</a></div><div class="ttdeci">@ CALENDAR_EVENT_REMOVED_MAIL_SUBJECT</div><div class="ttdef"><b>Definition:</b> CalendarMgr.h:30</div></div>
+<div class="ttc" id="aa01601_html_a73b2cba8ecc0a4fcb6a2d1a63c6ad3e7aeaf378ba4739bc58c1b530fd39368090"><div class="ttname"><a href="../../d7/d82/a01601.html#a73b2cba8ecc0a4fcb6a2d1a63c6ad3e7aeaf378ba4739bc58c1b530fd39368090">CALENDAR_INVITE_REMOVED_MAIL_SUBJECT</a></div><div class="ttdeci">@ CALENDAR_INVITE_REMOVED_MAIL_SUBJECT</div><div class="ttdef"><b>Definition:</b> CalendarMgr.h:32</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="a5113854272ddc0db2f1b16775df15bb4" name="a5113854272ddc0db2f1b16775df15bb4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5113854272ddc0db2f1b16775df15bb4">&#9670;&#160;</a></span>CalendarModerationRank</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="../../d7/d82/a01601.html#a5113854272ddc0db2f1b16775df15bb4">CalendarModerationRank</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a5113854272ddc0db2f1b16775df15bb4a9b29fdfc41a609791c42bfd6c0947b0b" name="a5113854272ddc0db2f1b16775df15bb4a9b29fdfc41a609791c42bfd6c0947b0b"></a>CALENDAR_RANK_PLAYER&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a5113854272ddc0db2f1b16775df15bb4aaeb7962a8bc581af4775ec833986aa0f" name="a5113854272ddc0db2f1b16775df15bb4aaeb7962a8bc581af4775ec833986aa0f"></a>CALENDAR_RANK_MODERATOR&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a5113854272ddc0db2f1b16775df15bb4ae34f35ee3aea898e6537bf5ee896a74a" name="a5113854272ddc0db2f1b16775df15bb4ae34f35ee3aea898e6537bf5ee896a74a"></a>CALENDAR_RANK_OWNER&#160;</td><td class="fielddoc"></td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno">   44</span>{</div>
+<div class="line"><span class="lineno">   45</span>    <a class="code hl_enumvalue" href="../../d7/d82/a01601.html#a5113854272ddc0db2f1b16775df15bb4a9b29fdfc41a609791c42bfd6c0947b0b">CALENDAR_RANK_PLAYER</a>            = 0,</div>
+<div class="line"><span class="lineno">   46</span>    <a class="code hl_enumvalue" href="../../d7/d82/a01601.html#a5113854272ddc0db2f1b16775df15bb4aaeb7962a8bc581af4775ec833986aa0f">CALENDAR_RANK_MODERATOR</a>         = 1,</div>
+<div class="line"><span class="lineno">   47</span>    <a class="code hl_enumvalue" href="../../d7/d82/a01601.html#a5113854272ddc0db2f1b16775df15bb4ae34f35ee3aea898e6537bf5ee896a74a">CALENDAR_RANK_OWNER</a>             = 2</div>
+<div class="line"><span class="lineno">   48</span>};</div>
+<div class="ttc" id="aa01601_html_a5113854272ddc0db2f1b16775df15bb4a9b29fdfc41a609791c42bfd6c0947b0b"><div class="ttname"><a href="../../d7/d82/a01601.html#a5113854272ddc0db2f1b16775df15bb4a9b29fdfc41a609791c42bfd6c0947b0b">CALENDAR_RANK_PLAYER</a></div><div class="ttdeci">@ CALENDAR_RANK_PLAYER</div><div class="ttdef"><b>Definition:</b> CalendarMgr.h:45</div></div>
+<div class="ttc" id="aa01601_html_a5113854272ddc0db2f1b16775df15bb4aaeb7962a8bc581af4775ec833986aa0f"><div class="ttname"><a href="../../d7/d82/a01601.html#a5113854272ddc0db2f1b16775df15bb4aaeb7962a8bc581af4775ec833986aa0f">CALENDAR_RANK_MODERATOR</a></div><div class="ttdeci">@ CALENDAR_RANK_MODERATOR</div><div class="ttdef"><b>Definition:</b> CalendarMgr.h:46</div></div>
+<div class="ttc" id="aa01601_html_a5113854272ddc0db2f1b16775df15bb4ae34f35ee3aea898e6537bf5ee896a74a"><div class="ttname"><a href="../../d7/d82/a01601.html#a5113854272ddc0db2f1b16775df15bb4ae34f35ee3aea898e6537bf5ee896a74a">CALENDAR_RANK_OWNER</a></div><div class="ttdeci">@ CALENDAR_RANK_OWNER</div><div class="ttdef"><b>Definition:</b> CalendarMgr.h:47</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="a478517ab54461ea9b0618c173c75b792" name="a478517ab54461ea9b0618c173c75b792"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a478517ab54461ea9b0618c173c75b792">&#9670;&#160;</a></span>CalendarRepeatType</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="../../d7/d82/a01601.html#a478517ab54461ea9b0618c173c75b792">CalendarRepeatType</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a478517ab54461ea9b0618c173c75b792a29ee895d3464b3defda12c78534447fc" name="a478517ab54461ea9b0618c173c75b792a29ee895d3464b3defda12c78534447fc"></a>CALENDAR_REPEAT_NEVER&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a478517ab54461ea9b0618c173c75b792a0d82835a30b2d52a0f7cafe196d80faf" name="a478517ab54461ea9b0618c173c75b792a0d82835a30b2d52a0f7cafe196d80faf"></a>CALENDAR_REPEAT_WEEKLY&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a478517ab54461ea9b0618c173c75b792a087f583b5cc1ec6549a15960dd1954d9" name="a478517ab54461ea9b0618c173c75b792a087f583b5cc1ec6549a15960dd1954d9"></a>CALENDAR_REPEAT_BIWEEKLY&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a478517ab54461ea9b0618c173c75b792aa432def8a9d2b77823bd1d81b44bc731" name="a478517ab54461ea9b0618c173c75b792aa432def8a9d2b77823bd1d81b44bc731"></a>CALENDAR_REPEAT_MONTHLY&#160;</td><td class="fielddoc"></td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno">   67</span>{</div>
+<div class="line"><span class="lineno">   68</span>    <a class="code hl_enumvalue" href="../../d7/d82/a01601.html#a478517ab54461ea9b0618c173c75b792a29ee895d3464b3defda12c78534447fc">CALENDAR_REPEAT_NEVER</a>           = 0,</div>
+<div class="line"><span class="lineno">   69</span>    <a class="code hl_enumvalue" href="../../d7/d82/a01601.html#a478517ab54461ea9b0618c173c75b792a0d82835a30b2d52a0f7cafe196d80faf">CALENDAR_REPEAT_WEEKLY</a>          = 1,</div>
+<div class="line"><span class="lineno">   70</span>    <a class="code hl_enumvalue" href="../../d7/d82/a01601.html#a478517ab54461ea9b0618c173c75b792a087f583b5cc1ec6549a15960dd1954d9">CALENDAR_REPEAT_BIWEEKLY</a>        = 2,</div>
+<div class="line"><span class="lineno">   71</span>    <a class="code hl_enumvalue" href="../../d7/d82/a01601.html#a478517ab54461ea9b0618c173c75b792aa432def8a9d2b77823bd1d81b44bc731">CALENDAR_REPEAT_MONTHLY</a>         = 3</div>
+<div class="line"><span class="lineno">   72</span>};</div>
+<div class="ttc" id="aa01601_html_a478517ab54461ea9b0618c173c75b792a087f583b5cc1ec6549a15960dd1954d9"><div class="ttname"><a href="../../d7/d82/a01601.html#a478517ab54461ea9b0618c173c75b792a087f583b5cc1ec6549a15960dd1954d9">CALENDAR_REPEAT_BIWEEKLY</a></div><div class="ttdeci">@ CALENDAR_REPEAT_BIWEEKLY</div><div class="ttdef"><b>Definition:</b> CalendarMgr.h:70</div></div>
+<div class="ttc" id="aa01601_html_a478517ab54461ea9b0618c173c75b792a0d82835a30b2d52a0f7cafe196d80faf"><div class="ttname"><a href="../../d7/d82/a01601.html#a478517ab54461ea9b0618c173c75b792a0d82835a30b2d52a0f7cafe196d80faf">CALENDAR_REPEAT_WEEKLY</a></div><div class="ttdeci">@ CALENDAR_REPEAT_WEEKLY</div><div class="ttdef"><b>Definition:</b> CalendarMgr.h:69</div></div>
+<div class="ttc" id="aa01601_html_a478517ab54461ea9b0618c173c75b792a29ee895d3464b3defda12c78534447fc"><div class="ttname"><a href="../../d7/d82/a01601.html#a478517ab54461ea9b0618c173c75b792a29ee895d3464b3defda12c78534447fc">CALENDAR_REPEAT_NEVER</a></div><div class="ttdeci">@ CALENDAR_REPEAT_NEVER</div><div class="ttdef"><b>Definition:</b> CalendarMgr.h:68</div></div>
+<div class="ttc" id="aa01601_html_a478517ab54461ea9b0618c173c75b792aa432def8a9d2b77823bd1d81b44bc731"><div class="ttname"><a href="../../d7/d82/a01601.html#a478517ab54461ea9b0618c173c75b792aa432def8a9d2b77823bd1d81b44bc731">CALENDAR_REPEAT_MONTHLY</a></div><div class="ttdeci">@ CALENDAR_REPEAT_MONTHLY</div><div class="ttdef"><b>Definition:</b> CalendarMgr.h:71</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="a710dc9e6940cf3a1c975690a82bbcc5d" name="a710dc9e6940cf3a1c975690a82bbcc5d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a710dc9e6940cf3a1c975690a82bbcc5d">&#9670;&#160;</a></span>CalendarSendEventType</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="../../d7/d82/a01601.html#a710dc9e6940cf3a1c975690a82bbcc5d">CalendarSendEventType</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a710dc9e6940cf3a1c975690a82bbcc5da8c75918def25fecebd41052d301ebd89" name="a710dc9e6940cf3a1c975690a82bbcc5da8c75918def25fecebd41052d301ebd89"></a>CALENDAR_SENDTYPE_GET&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a710dc9e6940cf3a1c975690a82bbcc5daddb4d28bc665b21ce707863e8f73d5c6" name="a710dc9e6940cf3a1c975690a82bbcc5daddb4d28bc665b21ce707863e8f73d5c6"></a>CALENDAR_SENDTYPE_ADD&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a710dc9e6940cf3a1c975690a82bbcc5da9cac46904887119d94630a5554b9cb5c" name="a710dc9e6940cf3a1c975690a82bbcc5da9cac46904887119d94630a5554b9cb5c"></a>CALENDAR_SENDTYPE_COPY&#160;</td><td class="fielddoc"></td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno">   51</span>{</div>
+<div class="line"><span class="lineno">   52</span>    <a class="code hl_enumvalue" href="../../d7/d82/a01601.html#a710dc9e6940cf3a1c975690a82bbcc5da8c75918def25fecebd41052d301ebd89">CALENDAR_SENDTYPE_GET</a>           = 0,</div>
+<div class="line"><span class="lineno">   53</span>    <a class="code hl_enumvalue" href="../../d7/d82/a01601.html#a710dc9e6940cf3a1c975690a82bbcc5daddb4d28bc665b21ce707863e8f73d5c6">CALENDAR_SENDTYPE_ADD</a>           = 1,</div>
+<div class="line"><span class="lineno">   54</span>    <a class="code hl_enumvalue" href="../../d7/d82/a01601.html#a710dc9e6940cf3a1c975690a82bbcc5da9cac46904887119d94630a5554b9cb5c">CALENDAR_SENDTYPE_COPY</a>          = 2</div>
+<div class="line"><span class="lineno">   55</span>};</div>
+<div class="ttc" id="aa01601_html_a710dc9e6940cf3a1c975690a82bbcc5da8c75918def25fecebd41052d301ebd89"><div class="ttname"><a href="../../d7/d82/a01601.html#a710dc9e6940cf3a1c975690a82bbcc5da8c75918def25fecebd41052d301ebd89">CALENDAR_SENDTYPE_GET</a></div><div class="ttdeci">@ CALENDAR_SENDTYPE_GET</div><div class="ttdef"><b>Definition:</b> CalendarMgr.h:52</div></div>
+<div class="ttc" id="aa01601_html_a710dc9e6940cf3a1c975690a82bbcc5da9cac46904887119d94630a5554b9cb5c"><div class="ttname"><a href="../../d7/d82/a01601.html#a710dc9e6940cf3a1c975690a82bbcc5da9cac46904887119d94630a5554b9cb5c">CALENDAR_SENDTYPE_COPY</a></div><div class="ttdeci">@ CALENDAR_SENDTYPE_COPY</div><div class="ttdef"><b>Definition:</b> CalendarMgr.h:54</div></div>
+<div class="ttc" id="aa01601_html_a710dc9e6940cf3a1c975690a82bbcc5daddb4d28bc665b21ce707863e8f73d5c6"><div class="ttname"><a href="../../d7/d82/a01601.html#a710dc9e6940cf3a1c975690a82bbcc5daddb4d28bc665b21ce707863e8f73d5c6">CALENDAR_SENDTYPE_ADD</a></div><div class="ttdeci">@ CALENDAR_SENDTYPE_ADD</div><div class="ttdef"><b>Definition:</b> CalendarMgr.h:53</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -550,8 +744,8 @@ Enumerations</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_15083f8b5066937009b1e1e793a7b821.html">Achievements</a></li><li class="navelem"><a class="el" href="../../d7/d82/a01601.html">AchievementMgr.h</a></li>
-    <li class="footer">Generated on Mon Jun 23 2025 20:46:43 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_e30894caaa8ce00721e2b63527d5c720.html">Calendar</a></li><li class="navelem"><a class="el" href="../../d7/d82/a01601.html">CalendarMgr.h</a></li>
+    <li class="footer">Generated on Mon Jun 30 2025 20:45:55 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

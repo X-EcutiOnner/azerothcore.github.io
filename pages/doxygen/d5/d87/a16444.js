@@ -1,7 +1,6 @@
 var a16444 =
 [
-    [ "FilterTargets", "d5/d87/a16444.html#a304da18e36ff67c34b80ab39583f8c96", null ],
-    [ "HandleScript", "d5/d87/a16444.html#adf99670bcf862288f513d2a26cbc256a", null ],
-    [ "PrepareSpellScript", "d5/d87/a16444.html#a976cb3c956d37fc9870494b0a6b8d9ee", null ],
-    [ "Register", "d5/d87/a16444.html#a4513de251b2f3d52fe44b7f7e715007c", null ]
+    [ "npc_toc_pet_warlockAI", "dc/de6/a16448.html", "dc/de6/a16448" ],
+    [ "npc_toc_pet_warlock", "d5/d87/a16444.html#a4703f506d677d7e490c6813c6d9b060b", null ],
+    [ "GetAI", "d5/d87/a16444.html#aebcaff82726508a14028cb22a1ef944b", null ]
 ];

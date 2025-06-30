@@ -1,5 +1,12 @@
 var a17380 =
 [
-    [ "achievement_ive_gone_and_made_a_mess", "d8/d8c/a17380.html#a0e71ea3afae02176f81231e51155c038", null ],
-    [ "OnCheck", "d8/d8c/a17380.html#a638cead986783523c7c35ecb9d885b11", null ]
+    [ "npc_high_overlord_saurfangAI", "d8/d8c/a17380.html#a5c31259d9eb26e09d2b645d826e75328", null ],
+    [ "DoAction", "d8/d8c/a17380.html#a4a372a14c960c48c51a1c8e34ebffc53", null ],
+    [ "MovementInform", "d8/d8c/a17380.html#a6a46f99ffb67a699ef9adb2a1afcbe13", null ],
+    [ "Reset", "d8/d8c/a17380.html#a28899c61f9b4d3612535d1a01dc05f4a", null ],
+    [ "SpellHit", "d8/d8c/a17380.html#a6399e9c9ecdb8c01fbd2bcd1b081811f", null ],
+    [ "UpdateAI", "d8/d8c/a17380.html#a92124e7490a066bf63836397a3bdc71b", null ],
+    [ "_events", "d8/d8c/a17380.html#a12bbe13cf8fd1eda0cb8aa75ecafddc4", null ],
+    [ "_guardList", "d8/d8c/a17380.html#a1d8ccb93c5c8d13767fa8a1429adb262", null ],
+    [ "_instance", "d8/d8c/a17380.html#a4181022e52fc10e2d5d98dcffe9ced62", null ]
 ];

@@ -1,55 +1,48 @@
 var a00677 =
 [
-    [ "BattlegroundDS", "d2/d91/a07343.html", "d2/d91/a07343" ],
-    [ "BattlegroundDSCreatures", "dc/de4/a00677.html#a239235ff6a77dc70519faae59c868202", [
-      [ "BG_DS_NPC_TYPE_WATER_SPOUT", "dc/de4/a00677.html#a239235ff6a77dc70519faae59c868202ad40b08b0df1abb642f3f0caf18301171", null ]
+    [ "BattlegroundRV", "d0/d2e/a07416.html", "d0/d2e/a07416" ],
+    [ "BattlegroundRVData", "dc/de4/a00677.html#adfa778416d2a81f8fea9a8c211baf34c", [
+      [ "BG_RV_STATE_OPEN_FENCES", "dc/de4/a00677.html#adfa778416d2a81f8fea9a8c211baf34caecbfbc0c2c667f1549323a8f96e601b5", null ],
+      [ "BG_RV_STATE_SWITCH_PILLARS", "dc/de4/a00677.html#adfa778416d2a81f8fea9a8c211baf34ca90f1ce9eb7e79af7a348559d2d731a15", null ],
+      [ "BG_RV_STATE_CLOSE_FIRE", "dc/de4/a00677.html#adfa778416d2a81f8fea9a8c211baf34cabd4e313e8dca8e6cd60540a49cab8733", null ]
     ] ],
-    [ "BattlegroundDSCreatureTypes", "dc/de4/a00677.html#aca2990bbe9b2261c7f9f9761c063c3f4", [
-      [ "BG_DS_NPC_WATERFALL_KNOCKBACK", "dc/de4/a00677.html#aca2990bbe9b2261c7f9f9761c063c3f4a79cd4de05b72abd60374190c7802850a", null ],
-      [ "BG_DS_NPC_PIPE_KNOCKBACK_1", "dc/de4/a00677.html#aca2990bbe9b2261c7f9f9761c063c3f4a499e73119219ab047050066925863cbf", null ],
-      [ "BG_DS_NPC_PIPE_KNOCKBACK_2", "dc/de4/a00677.html#aca2990bbe9b2261c7f9f9761c063c3f4a0f7c473d66f71a2692f1a7b5e1c110b4", null ],
-      [ "BG_DS_NPC_MAX", "dc/de4/a00677.html#aca2990bbe9b2261c7f9f9761c063c3f4aea764dbeaf590cb06750d0b4146c581a", null ]
+    [ "BattlegroundRVGameObjects", "dc/de4/a00677.html#abfa3c262a87e3676b902ea7d76e7f6c2", [
+      [ "BG_RV_OBJECT_TYPE_BUFF_1", "dc/de4/a00677.html#abfa3c262a87e3676b902ea7d76e7f6c2a5865634853f43c8785d0594b724e6249", null ],
+      [ "BG_RV_OBJECT_TYPE_BUFF_2", "dc/de4/a00677.html#abfa3c262a87e3676b902ea7d76e7f6c2a68e4544e30ed3e20580c34b6612f1dad", null ],
+      [ "BG_RV_OBJECT_TYPE_FIRE_1", "dc/de4/a00677.html#abfa3c262a87e3676b902ea7d76e7f6c2afd39bfaa9b3aafc5af644dcf29ee25ef", null ],
+      [ "BG_RV_OBJECT_TYPE_FIRE_2", "dc/de4/a00677.html#abfa3c262a87e3676b902ea7d76e7f6c2ad38bf62ae2758fe80b97128e48663023", null ],
+      [ "BG_RV_OBJECT_TYPE_FIREDOOR_2", "dc/de4/a00677.html#abfa3c262a87e3676b902ea7d76e7f6c2a98df70144dbec8cfb3011f3ea61505e6", null ],
+      [ "BG_RV_OBJECT_TYPE_FIREDOOR_1", "dc/de4/a00677.html#abfa3c262a87e3676b902ea7d76e7f6c2ac353596628738da778ec84b8bb9a1cec", null ],
+      [ "BG_RV_OBJECT_TYPE_PULLEY_1", "dc/de4/a00677.html#abfa3c262a87e3676b902ea7d76e7f6c2afb27d4c0b58b9e09a9f8800d06aea83b", null ],
+      [ "BG_RV_OBJECT_TYPE_PULLEY_2", "dc/de4/a00677.html#abfa3c262a87e3676b902ea7d76e7f6c2a86c5e95cbdec6f6c3316fe3323c20550", null ],
+      [ "BG_RV_OBJECT_TYPE_GEAR_1", "dc/de4/a00677.html#abfa3c262a87e3676b902ea7d76e7f6c2ae6d1aa03e079f6181152c11db0461091", null ],
+      [ "BG_RV_OBJECT_TYPE_GEAR_2", "dc/de4/a00677.html#abfa3c262a87e3676b902ea7d76e7f6c2a92ccd53243be0cd3397a2fb9682513bd", null ],
+      [ "BG_RV_OBJECT_TYPE_ELEVATOR_1", "dc/de4/a00677.html#abfa3c262a87e3676b902ea7d76e7f6c2a4192c5a1b304231c3beee84d99c7370a", null ],
+      [ "BG_RV_OBJECT_TYPE_ELEVATOR_2", "dc/de4/a00677.html#abfa3c262a87e3676b902ea7d76e7f6c2ad98e0b5f80cb6ab1337f85970d94c6e8", null ],
+      [ "BG_RV_OBJECT_TYPE_PILAR_1", "dc/de4/a00677.html#abfa3c262a87e3676b902ea7d76e7f6c2a04671e27271971362e7886597af3216d", null ],
+      [ "BG_RV_OBJECT_TYPE_PILAR_2", "dc/de4/a00677.html#abfa3c262a87e3676b902ea7d76e7f6c2a01b0c6ae5461b29ad7585b439183b87a", null ],
+      [ "BG_RV_OBJECT_TYPE_PILAR_3", "dc/de4/a00677.html#abfa3c262a87e3676b902ea7d76e7f6c2ac28d8f00d4677f79bb888126d4308de8", null ],
+      [ "BG_RV_OBJECT_TYPE_PILAR_4", "dc/de4/a00677.html#abfa3c262a87e3676b902ea7d76e7f6c2a15ad8c525a7388423a06003f3532dbc9", null ]
     ] ],
-    [ "BattlegroundDSData", "dc/de4/a00677.html#aa31b86760427e7e9348ef8bf69da141c", [
-      [ "BG_DS_PIPE_KNOCKBACK_FIRST_DELAY", "dc/de4/a00677.html#aa31b86760427e7e9348ef8bf69da141cabbf10d8eecab52ccb852376f82fd018d", null ],
-      [ "BG_DS_PIPE_KNOCKBACK_DELAY", "dc/de4/a00677.html#aa31b86760427e7e9348ef8bf69da141ca35f8577eea8f26daf33a3dd21e2231b5", null ],
-      [ "BG_DS_PIPE_KNOCKBACK_TOTAL_COUNT", "dc/de4/a00677.html#aa31b86760427e7e9348ef8bf69da141cafa0805e6bb3bad41fe68cd2697758704", null ]
-    ] ],
-    [ "BattlegroundDSEvents", "dc/de4/a00677.html#a28c190d1bc1cda7ce04873badd8dd1b9", [
-      [ "BG_DS_EVENT_WATERFALL_WARNING", "dc/de4/a00677.html#a28c190d1bc1cda7ce04873badd8dd1b9a556b41865c0cb90edad807f781c04185", null ],
-      [ "BG_DS_EVENT_WATERFALL_ON", "dc/de4/a00677.html#a28c190d1bc1cda7ce04873badd8dd1b9a146cc864281f18ab4b717202919f44ce", null ],
-      [ "BG_DS_EVENT_WATERFALL_OFF", "dc/de4/a00677.html#a28c190d1bc1cda7ce04873badd8dd1b9adb0372ad161febcd2fb2b195e52da56d", null ],
-      [ "BG_DS_EVENT_WATERFALL_KNOCKBACK", "dc/de4/a00677.html#a28c190d1bc1cda7ce04873badd8dd1b9a90015d0b077cd7e296410208637e46b4", null ],
-      [ "BG_DS_EVENT_PIPE_KNOCKBACK", "dc/de4/a00677.html#a28c190d1bc1cda7ce04873badd8dd1b9a7fed7cfa0547c6e8ceeb5e3453fa6268", null ]
-    ] ],
-    [ "BattlegroundDSGameObjects", "dc/de4/a00677.html#a71d8aad7096e6f4e538eadab51fc76f8", [
-      [ "BG_DS_OBJECT_TYPE_DOOR_1", "dc/de4/a00677.html#a71d8aad7096e6f4e538eadab51fc76f8a8117a9fd3e3221f5980949e5150fe737", null ],
-      [ "BG_DS_OBJECT_TYPE_DOOR_2", "dc/de4/a00677.html#a71d8aad7096e6f4e538eadab51fc76f8a687d200b385c99eca799508a8a3da61d", null ],
-      [ "BG_DS_OBJECT_TYPE_WATER_1", "dc/de4/a00677.html#a71d8aad7096e6f4e538eadab51fc76f8ae42c0b118aa8e527eabad9d8302c86db", null ],
-      [ "BG_DS_OBJECT_TYPE_WATER_2", "dc/de4/a00677.html#a71d8aad7096e6f4e538eadab51fc76f8a90ec16bb076db4028cbf2a5dbb327f1d", null ],
-      [ "BG_DS_OBJECT_TYPE_BUFF_1", "dc/de4/a00677.html#a71d8aad7096e6f4e538eadab51fc76f8a141655234e2fa43143622578cf71ec71", null ],
-      [ "BG_DS_OBJECT_TYPE_BUFF_2", "dc/de4/a00677.html#a71d8aad7096e6f4e538eadab51fc76f8affd7ba30f4f2024dd6429f065d5edb9f", null ]
-    ] ],
-    [ "BattlegroundDSObjectTypes", "dc/de4/a00677.html#a8d5224d87e17a7242576ee301e628de6", [
-      [ "BG_DS_OBJECT_DOOR_1", "dc/de4/a00677.html#a8d5224d87e17a7242576ee301e628de6a8610bd7f4f1a8e7eb1e9f2429aac5b42", null ],
-      [ "BG_DS_OBJECT_DOOR_2", "dc/de4/a00677.html#a8d5224d87e17a7242576ee301e628de6a330db292ad2569c554efbb54f9683a65", null ],
-      [ "BG_DS_OBJECT_WATER_1", "dc/de4/a00677.html#a8d5224d87e17a7242576ee301e628de6ad7b7d41afc57c57dfb26c89c33cc6d30", null ],
-      [ "BG_DS_OBJECT_WATER_2", "dc/de4/a00677.html#a8d5224d87e17a7242576ee301e628de6a4afa2177f1262bb3fb3c015047d6c1f1", null ],
-      [ "BG_DS_OBJECT_BUFF_1", "dc/de4/a00677.html#a8d5224d87e17a7242576ee301e628de6ab65c1a961954720559d3b7d2114d0f1a", null ],
-      [ "BG_DS_OBJECT_BUFF_2", "dc/de4/a00677.html#a8d5224d87e17a7242576ee301e628de6aba69c00240803bc3130e93706ca3fd03", null ],
-      [ "BG_DS_OBJECT_READY_MARKER_1", "dc/de4/a00677.html#a8d5224d87e17a7242576ee301e628de6a2463d4010bc80f717036a5c0980eb00e", null ],
-      [ "BG_DS_OBJECT_READY_MARKER_2", "dc/de4/a00677.html#a8d5224d87e17a7242576ee301e628de6aaa0509a954fa3bb165e7a8b021c81720", null ],
-      [ "BG_DS_OBJECT_MAX", "dc/de4/a00677.html#a8d5224d87e17a7242576ee301e628de6a6067df4d0384c2cbc7b6b11a0ad6abef", null ]
-    ] ],
-    [ "BattlegroundDSSpells", "dc/de4/a00677.html#a41065fade7598429191146de35f52e86", [
-      [ "BG_DS_SPELL_FLUSH", "dc/de4/a00677.html#a41065fade7598429191146de35f52e86a92b5731f68ff7782811d2ed6ecc27d50", null ],
-      [ "BG_DS_SPELL_FLUSH_KNOCKBACK", "dc/de4/a00677.html#a41065fade7598429191146de35f52e86a048190b79973e03b8a950faa2e702817", null ],
-      [ "BG_DS_SPELL_WATER_SPOUT", "dc/de4/a00677.html#a41065fade7598429191146de35f52e86a9fddcfba49dc5538f51c0d537c440f67", null ],
-      [ "SPELL_WARL_DEMONIC_CIRCLE", "dc/de4/a00677.html#a41065fade7598429191146de35f52e86ae21b8d7e5a28c9d4fac00f918d272f71", null ]
-    ] ],
-    [ "BG_DS_WATERFALL_DURATION", "dc/de4/a00677.html#a5ab9e4c80e884fe70b5ec7fa8a804467", null ],
-    [ "BG_DS_WATERFALL_KNOCKBACK_TIMER", "dc/de4/a00677.html#a1b36a98e6aeda4fffe6eb42b5b97d8b9", null ],
-    [ "BG_DS_WATERFALL_TIMER_MAX", "dc/de4/a00677.html#aa60e58163a826a5883866a7acc392a69", null ],
-    [ "BG_DS_WATERFALL_TIMER_MIN", "dc/de4/a00677.html#a42d81786420a8cf7be3391223230530a", null ],
-    [ "BG_DS_WATERFALL_WARNING_DURATION", "dc/de4/a00677.html#ad0d7dc59c1690e15c35f7ba622eb2fef", null ]
+    [ "BattlegroundRVObjectTypes", "dc/de4/a00677.html#aa10f056e2c45506006341a5c3f0f7436", [
+      [ "BG_RV_OBJECT_BUFF_1", "dc/de4/a00677.html#aa10f056e2c45506006341a5c3f0f7436acd2d36c88c323a70c215211b46817c2f", null ],
+      [ "BG_RV_OBJECT_BUFF_2", "dc/de4/a00677.html#aa10f056e2c45506006341a5c3f0f7436ad57f0a28806c289aafbe47a03ad72ac0", null ],
+      [ "BG_RV_OBJECT_FIRE_1", "dc/de4/a00677.html#aa10f056e2c45506006341a5c3f0f7436adcb0fadd3de3f4a6220d7e1d43fb6500", null ],
+      [ "BG_RV_OBJECT_FIRE_2", "dc/de4/a00677.html#aa10f056e2c45506006341a5c3f0f7436a3810356845120e6dae0fdd79cee11a47", null ],
+      [ "BG_RV_OBJECT_FIREDOOR_1", "dc/de4/a00677.html#aa10f056e2c45506006341a5c3f0f7436a7a62cf4dea814047abe9c4976c5332d8", null ],
+      [ "BG_RV_OBJECT_FIREDOOR_2", "dc/de4/a00677.html#aa10f056e2c45506006341a5c3f0f7436a5811c26c50bd9b7c7254e4904b243c18", null ],
+      [ "BG_RV_OBJECT_PILAR_1", "dc/de4/a00677.html#aa10f056e2c45506006341a5c3f0f7436a006b8663347971e76a7ecf693c33ead4", null ],
+      [ "BG_RV_OBJECT_PILAR_3", "dc/de4/a00677.html#aa10f056e2c45506006341a5c3f0f7436af8dd233f8daf0b8dfbc66606197ead09", null ],
+      [ "BG_RV_OBJECT_GEAR_1", "dc/de4/a00677.html#aa10f056e2c45506006341a5c3f0f7436a46acd9a6aca7218ab030d97ac5e43a4a", null ],
+      [ "BG_RV_OBJECT_GEAR_2", "dc/de4/a00677.html#aa10f056e2c45506006341a5c3f0f7436abb499da8fbad32b04f1e4f58c41c3626", null ],
+      [ "BG_RV_OBJECT_PILAR_2", "dc/de4/a00677.html#aa10f056e2c45506006341a5c3f0f7436abc7c897e3b2b98567ca3bb2fb6479613", null ],
+      [ "BG_RV_OBJECT_PILAR_4", "dc/de4/a00677.html#aa10f056e2c45506006341a5c3f0f7436a25271eab61123d9887adb758a9f79b58", null ],
+      [ "BG_RV_OBJECT_PULLEY_1", "dc/de4/a00677.html#aa10f056e2c45506006341a5c3f0f7436a8f6b8a2367f6ac3a20072f3ba8c9a086", null ],
+      [ "BG_RV_OBJECT_PULLEY_2", "dc/de4/a00677.html#aa10f056e2c45506006341a5c3f0f7436a04808f08eb598192b617907fd51e0a15", null ],
+      [ "BG_RV_OBJECT_ELEVATOR_1", "dc/de4/a00677.html#aa10f056e2c45506006341a5c3f0f7436a258356e82cf4da9b5e751765bf518895", null ],
+      [ "BG_RV_OBJECT_ELEVATOR_2", "dc/de4/a00677.html#aa10f056e2c45506006341a5c3f0f7436a51eab52cbe9e830c225687812f461673", null ],
+      [ "BG_RV_OBJECT_READY_MARKER_1", "dc/de4/a00677.html#aa10f056e2c45506006341a5c3f0f7436af5056f50e32c033571b6c7a416c9d229", null ],
+      [ "BG_RV_OBJECT_READY_MARKER_2", "dc/de4/a00677.html#aa10f056e2c45506006341a5c3f0f7436af02dcb28ed9e331cfdd94544657c0e80", null ],
+      [ "BG_RV_OBJECT_MAX", "dc/de4/a00677.html#aa10f056e2c45506006341a5c3f0f7436a25d784ddd4f2eaeb962ab84de9fb23d0", null ]
+    ] ]
 ];

@@ -1,9 +1,6 @@
 var a17988 =
 [
-    [ "FilterTargets", "d8/da4/a17988.html#ae0c0320b523076e03c01f69b9d0df4bd", null ],
-    [ "FilterTargetsSubseq", "d8/da4/a17988.html#a88a53a855e01b550fbd106ac318a891e", null ],
-    [ "PrepareSpellScript", "d8/da4/a17988.html#ae5c08d71d0e1d30f0b126ca593763697", null ],
-    [ "Register", "d8/da4/a17988.html#a27e8768422b311f6db16757e167f4102", null ],
-    [ "Validate", "d8/da4/a17988.html#a96ef76527449a138685830b52fa95146", null ],
-    [ "_targetList", "d8/da4/a17988.html#afcfbcf16c29b3bda1d7b85f79c624db1", null ]
+    [ "npc_ice_tombAI", "df/d01/a17992.html", "df/d01/a17992" ],
+    [ "npc_ice_tomb", "d8/da4/a17988.html#a939c6083a77a6f4cb2a940ec9c1df55e", null ],
+    [ "GetAI", "d8/da4/a17988.html#ac99b7c9887e54a1764310bd3e079811a", null ]
 ];

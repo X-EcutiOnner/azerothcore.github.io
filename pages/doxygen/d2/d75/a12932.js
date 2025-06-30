@@ -1,6 +1,6 @@
 var a12932 =
 [
-    [ "HandleScriptEffect", "d2/d75/a12932.html#af265f0bba7028f45763a7f9afea2d051", null ],
-    [ "PrepareSpellScript", "d2/d75/a12932.html#a27518fd5482e65e0324100057e747d68", null ],
-    [ "Register", "d2/d75/a12932.html#a07789d7d092eb1b6633200442466c52b", null ]
+    [ "npc_koltira_deathweaverAI", "d6/d04/a12936.html", "d6/d04/a12936" ],
+    [ "npc_koltira_deathweaver", "d2/d75/a12932.html#a5e9fdbc8dc70ce3480906b86aed381a3", null ],
+    [ "GetAI", "d2/d75/a12932.html#afddc561b88679f3dd6ca8b374807b0f0", null ]
 ];

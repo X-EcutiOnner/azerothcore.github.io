@@ -1,7 +1,7 @@
 var a26144 =
 [
-    [ "HandleHeal", "dd/d00/a26144.html#a22e3dd3ac57c7cb95162ee56ab43bc93", null ],
-    [ "PrepareSpellScript", "dd/d00/a26144.html#a9de9260bc1e2582138c58a708e5d899c", null ],
-    [ "Register", "dd/d00/a26144.html#ab613ce86521f1381b79f6f9f3eaea3cc", null ],
-    [ "Validate", "dd/d00/a26144.html#aa300822cf5455404482124a6853fb314", null ]
+    [ "CalculateAmount", "dd/d00/a26144.html#a5d4549ac73b46382c1beddbb65257ad0", null ],
+    [ "HandleUpdateSpellclick", "dd/d00/a26144.html#a89956d7f3a6404d5b60e46034867c82c", null ],
+    [ "PrepareAuraScript", "dd/d00/a26144.html#a7cbdc79c63306a8fcfcc06180998a290", null ],
+    [ "Register", "dd/d00/a26144.html#a2252719e6ea995b85b7b0c5ecb6a26d3", null ]
 ];

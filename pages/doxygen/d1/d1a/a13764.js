@@ -1,7 +1,10 @@
 var a13764 =
 [
-    [ "HandleScript", "d1/d1a/a13764.html#ac45614416a710794b3e3a5cee239e28a", null ],
-    [ "PrepareSpellScript", "d1/d1a/a13764.html#a832aee6557e27bfa418957297a05bea3", null ],
-    [ "Register", "d1/d1a/a13764.html#a2f5d255de09818203e498c0090bdd3fb", null ],
-    [ "Validate", "d1/d1a/a13764.html#a38192ff7468a47ead1522b50f2dfcdfd", null ]
+    [ "boss_alyson_antille", "d1/d1a/a13764.html#a8b95891ced3f17f67470d1ec7b1a9a3e", null ],
+    [ "GetNearbyFriendlies", "d1/d1a/a13764.html#ab99596d5c2eafac8c678378d509bf585", null ],
+    [ "JustEngagedWith", "d1/d1a/a13764.html#a7a7d62c52a403ac1d8e5d275a74cad6e", null ],
+    [ "RandomReverseFriendlyList", "d1/d1a/a13764.html#afef27de229ba2c3b8beb30809a313237", null ],
+    [ "Reset", "d1/d1a/a13764.html#a40d901bde9f8419a1c73aa073f6fb334", null ],
+    [ "UpdateAI", "d1/d1a/a13764.html#a15157be42d166a239ab658fc04292e44", null ],
+    [ "_friendlyList", "d1/d1a/a13764.html#a0168c4a0f1e9862fe0d83ffac89aa634", null ]
 ];

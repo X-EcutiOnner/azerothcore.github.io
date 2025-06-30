@@ -1,7 +1,14 @@
 var a23652 =
 [
-    [ "HandleCast", "de/d01/a23652.html#a0084e7f81fcd032c1e04b8f86d821993", null ],
-    [ "PrepareSpellScript", "de/d01/a23652.html#acfd6b86e5afed08fd9cf43f64e948149", null ],
-    [ "Register", "de/d01/a23652.html#a6ae0573ea69573df64cd57ba84f99918", null ],
-    [ "Validate", "de/d01/a23652.html#ab5794ca5c0863ce40194ed40e156279a", null ]
+    [ "npc_warden_mellicharAI", "de/d01/a23652.html#a3486b015ccb8fecfe5e215f45e45f15e", null ],
+    [ "AttackStart", "de/d01/a23652.html#a2b16dc3ad358e4179fe20e2066ba5c64", null ],
+    [ "DamageTaken", "de/d01/a23652.html#a07e7b215ed7653fe7e1ee44d34a74bbd", null ],
+    [ "JustDied", "de/d01/a23652.html#a867404a125aeb4ee3332a4e2b5a8f547", null ],
+    [ "JustEngagedWith", "de/d01/a23652.html#ad584a3c2dd8f108cc9b4e66a6917f97b", null ],
+    [ "JustSummoned", "de/d01/a23652.html#a3fe95a64b640fb61459da2c8621fbc9c", null ],
+    [ "MoveInLineOfSight", "de/d01/a23652.html#aa4edaf9534e7232526fd9c7bd097b7c4", null ],
+    [ "Reset", "de/d01/a23652.html#aebd55a8e6e618e4dc37cf253c60c3a94", null ],
+    [ "SetData", "de/d01/a23652.html#a0d0e8d1af5179aea73aa60e060ba751a", null ],
+    [ "SummonedCreatureDies", "de/d01/a23652.html#a58e1011986be65725d4db3d782bc72ac", null ],
+    [ "UpdateAI", "de/d01/a23652.html#a944cff5367213d561a7e6df5faf2a216", null ]
 ];

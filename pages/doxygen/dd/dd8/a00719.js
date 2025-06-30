@@ -1,6 +1,4 @@
 var a00719 =
 [
-    [ "ArenaSeasonTeamRewarder", "da/d80/a07207.html", "da/d80/a07207" ],
-    [ "ArenaSeasonTeamRewarderImpl", "d2/d2a/a07211.html", "d2/d2a/a07211" ],
-    [ "ArenaSeasonRewardDistributor", "d2/d9e/a07215.html", "d2/d9e/a07215" ]
+    [ "minPctTeamGamesForMemberToGetReward", "dd/dd8/a00719.html#a4d7ce2e01ab25ea6833099b2821b6b5b", null ]
 ];

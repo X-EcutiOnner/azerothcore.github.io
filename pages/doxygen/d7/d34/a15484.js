@@ -1,9 +1,6 @@
 var a15484 =
 [
-    [ "go_wind_stoneAI", "d7/d34/a15484.html#a4370be2b59ea50bf5ea2285bfbf4e242", null ],
-    [ "GossipHello", "d7/d34/a15484.html#a73f129b7b636a1178fe3402cf1e6c50d", null ],
-    [ "GossipSelect", "d7/d34/a15484.html#aff4dedbf3a6fea405722f7064633edb1", null ],
-    [ "InitializeAI", "d7/d34/a15484.html#a33f98d1de05b539a66c4103b4c61de1f", null ],
-    [ "SummonNPC", "d7/d34/a15484.html#ab44f563b8f117a19ac78508c3cba72e9", null ],
-    [ "_creatureGuid", "d7/d34/a15484.html#a50ad8b248381a6d9fac7a291796966d6", null ]
+    [ "Creature", "d7/d34/a15484.html#a77b33f8998f85808b58052079b1cab54", null ],
+    [ "TextId", "d7/d34/a15484.html#ad691f3cd40035e96547adf7528229119", null ],
+    [ "Timer", "d7/d34/a15484.html#accfccceaedffb3ad4d02231fb0bfeee5", null ]
 ];

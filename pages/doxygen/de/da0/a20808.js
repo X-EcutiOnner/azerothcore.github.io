@@ -1,11 +1,7 @@
 var a20808 =
 [
-    [ "boss_yoggsaron_llaneAI", "de/da0/a20808.html#a8524834b7dff49844d96b7dc49fd265d", null ],
-    [ "NextStep", "de/da0/a20808.html#a6587e7873455950bda97b2a7d78e6fc5", null ],
-    [ "Reset", "de/da0/a20808.html#a86f9d594562f842d478b63de18e52455", null ],
-    [ "Say", "de/da0/a20808.html#ab619684f15f5325383a413dced7c930e", null ],
-    [ "UpdateAI", "de/da0/a20808.html#a545378189f85968ac925baa06ad608b5", null ],
-    [ "_checkTimer", "de/da0/a20808.html#aa4956f6943adce94a9ed4fec951317d6", null ],
-    [ "_running", "de/da0/a20808.html#a6d6d186febc408ecb830bf7eea3c72bd", null ],
-    [ "_step", "de/da0/a20808.html#a718c0bf307934b9ee9cbb933899c6324", null ]
+    [ "boss_yoggsaron_corruptor_tentacleAI", "de/da0/a20808.html#a5f8fbd8ac772fad79f809de4d3128574", null ],
+    [ "DoAction", "de/da0/a20808.html#abac26b3be775eea734403be36cbed4d2", null ],
+    [ "SelectCorruptionTarget", "de/da0/a20808.html#a1d61b34d31794cd2bdcddfe91dc1103e", null ],
+    [ "UpdateAI", "de/da0/a20808.html#a0269d1dc655af5680d7074cb093740b8", null ]
 ];

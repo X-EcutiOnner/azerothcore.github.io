@@ -1,13 +1,13 @@
 var a05556 =
 [
-    [ "SOAPCommand", "d5/d8d/a05556.html#a56d5e1a4b0e3abb0284c668e175a8d4b", null ],
-    [ "~SOAPCommand", "d5/d8d/a05556.html#ab0a07da0bb379751d0d2812dfa98b607", null ],
-    [ "appendToPrintBuffer", "d5/d8d/a05556.html#a116d4a9d85c536ca3866bf340b64b9d9", null ],
-    [ "commandFinished", "d5/d8d/a05556.html#a18310d831429b084dc5cbf6310195001", null ],
-    [ "hasCommandSucceeded", "d5/d8d/a05556.html#a251a0999a4b74ca8db7bbaa634f1d361", null ],
-    [ "print", "d5/d8d/a05556.html#a69a3287df41392488dbcb1be2f0349f3", null ],
-    [ "setCommandSuccess", "d5/d8d/a05556.html#ae6849ecbf940ac2baf92f3b7ca3d6cd2", null ],
-    [ "finishedPromise", "d5/d8d/a05556.html#aec2e336644d004a59ad21431fbf80c83", null ],
-    [ "m_printBuffer", "d5/d8d/a05556.html#aa823e9c8d3048d5780b11d168f5be0d9", null ],
-    [ "m_success", "d5/d8d/a05556.html#aab7299bceae48c2066f1885b90a34c60", null ]
+    [ "IntervalTimer", "d5/d8d/a05556.html#a2538976b639e25e63a8ab5927663ade1", null ],
+    [ "GetCurrent", "d5/d8d/a05556.html#a93a456d6ff6d74cc889517fc585626e8", null ],
+    [ "GetInterval", "d5/d8d/a05556.html#a986bec1dcb7325088517f6721636abcc", null ],
+    [ "Passed", "d5/d8d/a05556.html#a9b3ac2407baf9763fa899e35a5c55fbe", null ],
+    [ "Reset", "d5/d8d/a05556.html#ae243f18c4c3174b91fa01f6d08b04d4d", null ],
+    [ "SetCurrent", "d5/d8d/a05556.html#ab315f686c2777dc21c824d8674479f9f", null ],
+    [ "SetInterval", "d5/d8d/a05556.html#a28d95330f971d3a37aaf53e4f16aad4a", null ],
+    [ "Update", "d5/d8d/a05556.html#aa1f5b922ea2d95c49924a506ca37a676", null ],
+    [ "_current", "d5/d8d/a05556.html#a99c5aec27af00ffbbd83c5adbd2e2016", null ],
+    [ "_interval", "d5/d8d/a05556.html#a179584ce91f62ba5e74ae3f34ee32fbc", null ]
 ];

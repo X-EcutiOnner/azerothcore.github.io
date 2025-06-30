@@ -1,6 +1,7 @@
 var a15412 =
 [
-    [ "npc_giant_spotlightAI", "de/d8b/a15416.html", "de/d8b/a15416" ],
-    [ "npc_giant_spotlight", "d7/ddc/a15412.html#a9d1c47de758c74a89c751b675d5cc4c0", null ],
-    [ "GetAI", "d7/ddc/a15412.html#af002a3d0194c991c1f78c720de63cfea", null ]
+    [ "HandleDummy", "d7/ddc/a15412.html#a30a87266b89021caf7d05c45397f70d1", null ],
+    [ "PrepareSpellScript", "d7/ddc/a15412.html#a43a92b346088d710719722e8feed9634", null ],
+    [ "Register", "d7/ddc/a15412.html#ad7a53cc6a24197c050ed8577f6c6cc12", null ],
+    [ "Validate", "d7/ddc/a15412.html#a8b5097b623adbc1d8a10d7b1c4c248ab", null ]
 ];

@@ -1,7 +1,5 @@
 var a22128 =
 [
-    [ "HandleSendEvent", "d7/da8/a22128.html#afd34935d8ab7d66589ca3c99ba0bfe48", null ],
-    [ "PrepareSpellScript", "d7/da8/a22128.html#af698a946e07235c18c8b785a1f775ec9", null ],
-    [ "Register", "d7/da8/a22128.html#a3f6a7e6265221e9536728256f1ec88c0", null ],
-    [ "Validate", "d7/da8/a22128.html#a72d441fdeb7e2fdc37ab9868f9f8ee04", null ]
+    [ "go_pressure_valve", "d7/da8/a22128.html#a43a91a1379001ecd3e825d7d4fcd3c6b", null ],
+    [ "OnGossipHello", "d7/da8/a22128.html#a6b81a04a33cd5e1e577fc80a3b1f706c", null ]
 ];

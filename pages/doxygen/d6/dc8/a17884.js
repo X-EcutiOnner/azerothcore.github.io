@@ -1,7 +1,6 @@
 var a17884 =
 [
-    [ "HandleScript", "d6/dc8/a17884.html#a37b261d0df2829788d8290a9194913f5", null ],
-    [ "PrepareSpellScript", "d6/dc8/a17884.html#a69386dbef57322393a38eec90662135f", null ],
-    [ "Register", "d6/dc8/a17884.html#a5b85b01100d7f7c672c437e4bdfd7a7c", null ],
-    [ "Validate", "d6/dc8/a17884.html#a63c446574c700a895d7fbc5bb2b81508", null ]
+    [ "FilterTargetsInitial", "d6/dc8/a17884.html#a92cc71f268793c616bed66d9a489a145", null ],
+    [ "PrepareSpellScript", "d6/dc8/a17884.html#ae27e6ceab6b92e59c97307ed10f24ab2", null ],
+    [ "Register", "d6/dc8/a17884.html#a91b96940a9e72e632989b49f7e475dba", null ]
 ];

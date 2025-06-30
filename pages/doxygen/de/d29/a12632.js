@@ -1,11 +1,20 @@
 var a12632 =
 [
-    [ "boss_terestian_illhoof", "de/d29/a12632.html#a5750bf4f12ac01216335a926f885e136", null ],
-    [ "JustDied", "de/d29/a12632.html#a9039c0fb905e72e659ce62f9d36593ce", null ],
-    [ "JustEngagedWith", "de/d29/a12632.html#adc1f9195954eda7ec406ac9a084b7508", null ],
-    [ "JustSummoned", "de/d29/a12632.html#a8b156654dbd75a4a7626edf30a8aae78", null ],
-    [ "KilledUnit", "de/d29/a12632.html#ab7de8b406de200eec981fab79a56dcd7", null ],
-    [ "Reset", "de/d29/a12632.html#a685b00f0e3317740412adfc48df1c3fb", null ],
-    [ "SpellHit", "de/d29/a12632.html#a2f25021cfbc9e466d73c13de8116d8f1", null ],
-    [ "SummonKilrek", "de/d29/a12632.html#a0007e35a38efce5edada2f47a9bb89c6", null ]
+    [ "boss_shade_of_aran", "de/d29/a12632.html#a581351036c7e09de447f065a4ef82e03", null ],
+    [ "AttackStart", "de/d29/a12632.html#a140ec9e0f968c42f9f003d9a52693884", null ],
+    [ "CheckAranInRoom", "de/d29/a12632.html#a64779949875ab0d812746adb78123f7a", null ],
+    [ "DamageTaken", "de/d29/a12632.html#a837e9284a2e2b3fe5467cca4fd09c60f", null ],
+    [ "JustDied", "de/d29/a12632.html#ac79c249652f1de37b0c7d31a86dd0e51", null ],
+    [ "JustEngagedWith", "de/d29/a12632.html#a11a9b1a8a24b9bc9965d655a6f856ef0", null ],
+    [ "KilledUnit", "de/d29/a12632.html#ad7470576e9dd08d5fc47259d8de943b2", null ],
+    [ "OnPowerUpdate", "de/d29/a12632.html#a3ac487d431bc444cd8c39bb813260737", null ],
+    [ "Reset", "de/d29/a12632.html#a03def93f3e3f33d4f760e9f7c7c85d86", null ],
+    [ "SetGUID", "de/d29/a12632.html#a92e6d82da2a865220432c919d8593d00", null ],
+    [ "UpdateAI", "de/d29/a12632.html#ae80c5bc869136e2ce2c5b4f6cfdc6ea4", null ],
+    [ "_atieshReaction", "de/d29/a12632.html#a88c6677edc8a37ac1e36fe6f1688d847", null ],
+    [ "_currentNormalSpell", "de/d29/a12632.html#a4384769fb6eb868c612ed34cbb6b2409", null ],
+    [ "_drinking", "de/d29/a12632.html#a84a6941826c6c2f1f70965e8909f796e", null ],
+    [ "_drinkScheduler", "de/d29/a12632.html#a47e88dcf0027bd197350df7f80bc42d3", null ],
+    [ "_hasDrunk", "de/d29/a12632.html#a93bec133a8a1ba41aa9eb86ff19e5eca", null ],
+    [ "_lastSuperSpell", "de/d29/a12632.html#afe99b96811ff1e61ea6bbdce42fe8d7d", null ]
 ];

@@ -1,5 +1,5 @@
 var a03914 =
 [
-    [ "instance_commandscript", "d3/dfe/a11623.html", "d3/dfe/a11623" ],
-    [ "AddSC_instance_commandscript", "de/d7e/a03914.html#a3d7dc88b6e95322f2f3dc69ad367fa0c", null ]
+    [ "learn_commandscript", "d9/db0/a11652.html", "d9/db0/a11652" ],
+    [ "AddSC_learn_commandscript", "de/d7e/a03914.html#a8dd69858fd98c4630027654ecdcf92e7", null ]
 ];

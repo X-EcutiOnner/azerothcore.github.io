@@ -1,181 +1,569 @@
 var a00947 =
 [
-    [ "EmblemInfo", "dc/dc1/a09487.html", "dc/dc1/a09487" ],
-    [ "GuildBankRightsAndSlots", "d5/db1/a09491.html", "d5/db1/a09491" ],
-    [ "Guild", "d5/d4f/a09495.html", "d5/d4f/a09495" ],
-    [ "Guild::Member", "da/d35/a09499.html", "da/d35/a09499" ],
-    [ "Guild::LogEntry", "d5/dc5/a09503.html", "d5/dc5/a09503" ],
-    [ "Guild::EventLogEntry", "d5/dec/a09507.html", "d5/dec/a09507" ],
-    [ "Guild::BankEventLogEntry", "db/d96/a09511.html", "db/d96/a09511" ],
-    [ "Guild::LogHolder< Entry >", "db/d61/a09515.html", "db/d61/a09515" ],
-    [ "Guild::RankInfo", "d3/dcb/a09519.html", "d3/dcb/a09519" ],
-    [ "Guild::BankTab", "d2/d5d/a09523.html", "d2/d5d/a09523" ],
-    [ "Guild::MoveItemData", "da/d8e/a09527.html", "da/d8e/a09527" ],
-    [ "Guild::PlayerMoveItemData", "d7/d2b/a09531.html", "d7/d2b/a09531" ],
-    [ "Guild::BankMoveItemData", "d4/d72/a09535.html", "d4/d72/a09535" ],
-    [ "SlotIds", "d3/d29/a00947.html#a5d929929b4339d57ad74b13b2b96d940", null ],
-    [ "GuildBankEventLogTypes", "d3/d29/a00947.html#a965ebfa7c809976c6361afae89c98895", [
-      [ "GUILD_BANK_LOG_DEPOSIT_ITEM", "d3/d29/a00947.html#a965ebfa7c809976c6361afae89c98895a704fd663ca498becd8238c184e6a3ab9", null ],
-      [ "GUILD_BANK_LOG_WITHDRAW_ITEM", "d3/d29/a00947.html#a965ebfa7c809976c6361afae89c98895a310b15ac4e9cc00a2beb7de6487374db", null ],
-      [ "GUILD_BANK_LOG_MOVE_ITEM", "d3/d29/a00947.html#a965ebfa7c809976c6361afae89c98895a15ffdaf189d050d6fb235d53a670ac06", null ],
-      [ "GUILD_BANK_LOG_DEPOSIT_MONEY", "d3/d29/a00947.html#a965ebfa7c809976c6361afae89c98895a3a60cdc1e4288057e5e23d4d3ad699a0", null ],
-      [ "GUILD_BANK_LOG_WITHDRAW_MONEY", "d3/d29/a00947.html#a965ebfa7c809976c6361afae89c98895a811459ece597faecc5bb31a2b98bfc6f", null ],
-      [ "GUILD_BANK_LOG_REPAIR_MONEY", "d3/d29/a00947.html#a965ebfa7c809976c6361afae89c98895ae9eedb0b98b00617b12b62cd10f5e4f6", null ],
-      [ "GUILD_BANK_LOG_MOVE_ITEM2", "d3/d29/a00947.html#a965ebfa7c809976c6361afae89c98895af872e931ff6d1d688685d4bf1561e5ea", null ],
-      [ "GUILD_BANK_LOG_UNK1", "d3/d29/a00947.html#a965ebfa7c809976c6361afae89c98895a846c032e634a8df5ac6575e90c92445a", null ],
-      [ "GUILD_BANK_LOG_BUY_SLOT", "d3/d29/a00947.html#a965ebfa7c809976c6361afae89c98895af889f3f1292ccba1210a2b9ee083a1d6", null ]
+    [ "PlayerSpell", "d0/d69/a08488.html", "d0/d69/a08488" ],
+    [ "PlayerTalent", "d8/dc4/a08492.html", "d8/dc4/a08492" ],
+    [ "SpellModifier", "da/d90/a08496.html", "da/d90/a08496" ],
+    [ "SpellCooldown", "db/d2c/a08500.html", "db/d2c/a08500" ],
+    [ "ActionButton", "d3/d22/a08504.html", "d3/d22/a08504" ],
+    [ "PlayerCreateInfoItem", "db/d8e/a08508.html", "db/d8e/a08508" ],
+    [ "PlayerClassLevelInfo", "da/d89/a08512.html", "da/d89/a08512" ],
+    [ "PlayerClassInfo", "db/d22/a08516.html", "db/d22/a08516" ],
+    [ "PlayerLevelInfo", "df/d79/a08520.html", "df/d79/a08520" ],
+    [ "PlayerCreateInfoAction", "d1/d28/a08524.html", "d1/d28/a08524" ],
+    [ "PlayerCreateInfoSkill", "d6/d65/a08528.html", "d6/d65/a08528" ],
+    [ "PlayerInfo", "df/dc4/a08532.html", "df/dc4/a08532" ],
+    [ "PvPInfo", "d6/d96/a08536.html", "d6/d96/a08536" ],
+    [ "DuelInfo", "dc/dfb/a08540.html", "dc/dfb/a08540" ],
+    [ "Areas", "d9/d01/a08544.html", "d9/d01/a08544" ],
+    [ "RuneInfo", "d8/d2e/a08548.html", "d8/d2e/a08548" ],
+    [ "Runes", "d0/d70/a08552.html", "d0/d70/a08552" ],
+    [ "EnchantDuration", "db/de2/a08556.html", "db/de2/a08556" ],
+    [ "SkillStatusData", "d0/dc2/a08560.html", "d0/dc2/a08560" ],
+    [ "EquipmentSet", "de/d41/a08564.html", "de/d41/a08564" ],
+    [ "ItemPosCount", "d8/db5/a08568.html", "d8/db5/a08568" ],
+    [ "SavedItem", "d2/d57/a08572.html", "d2/d57/a08572" ],
+    [ "ProgressionRequirement", "dd/d28/a08576.html", "dd/d28/a08576" ],
+    [ "DungeonProgressionRequirements", "da/d14/a08580.html", "da/d14/a08580" ],
+    [ "BGData", "d2/d78/a08584.html", "d2/d78/a08584" ],
+    [ "EntryPointData", "df/d1c/a08588.html", "df/d1c/a08588" ],
+    [ "PendingSpellCastRequest", "da/d3d/a08592.html", "da/d3d/a08592" ],
+    [ "Player", "da/dd6/a08596.html", "da/dd6/a08596" ],
+    [ "Player::ChatFloodThrottle", "de/d1b/a08600.html", "de/d1b/a08600" ],
+    [ "Player::BgBattlegroundQueueID_Rec", "d4/d48/a08604.html", "d4/d48/a08604" ],
+    [ "ACTION_BUTTON_ACTION", "d3/d29/a00947.html#ab6a9fef336444d917d4caa5a59acf600", null ],
+    [ "ACTION_BUTTON_TYPE", "d3/d29/a00947.html#a7cd994ea695a2fdb343be5ef0bdb03a8", null ],
+    [ "DEATH_EXPIRE_STEP", "d3/d29/a00947.html#a5162fa9f5a706edd3f4eba77de6fe0bc", null ],
+    [ "DISABLED_MIRROR_TIMER", "d3/d29/a00947.html#a8b548b9b50daac698d7c2900ce310aa4", null ],
+    [ "INVENTORY_SLOT_BAG_0", "d3/d29/a00947.html#ad3dd8ed856e16139eaa67147d40cf24e", null ],
+    [ "KNOWN_TITLES_SIZE", "d3/d29/a00947.html#a27be2b1db357a257e8ddbc7a7de14402", null ],
+    [ "MAKE_SKILL_BONUS", "d3/d29/a00947.html#a92abd4a228d5facfb47326df8ac40d9e", null ],
+    [ "MAKE_SKILL_VALUE", "d3/d29/a00947.html#ae9b5b6063ec5d1c0d49342093f384733", null ],
+    [ "MAX_ACTION_BUTTON_ACTION_VALUE", "d3/d29/a00947.html#aea4cac3aceaad70ea9b8397854b0128b", null ],
+    [ "MAX_ACTION_BUTTONS", "d3/d29/a00947.html#aa44542ab1037b2da52095a5c8e923bb2", null ],
+    [ "MAX_DEATH_COUNT", "d3/d29/a00947.html#aa01c39bcd3c3a1679c8dc86a647d0c8c", null ],
+    [ "MAX_DRUNKEN", "d3/d29/a00947.html#aa54329cb1b1a81d0eeed65b6b11f7465", null ],
+    [ "MAX_EQUIPMENT_SET_INDEX", "d3/d29/a00947.html#a91f270ec47485639c39c9cbe9ddd04f5", null ],
+    [ "MAX_MONEY_AMOUNT", "d3/d29/a00947.html#aabbccefded1f0620ac64736f1c8224f9", null ],
+    [ "MAX_PLAYED_TIME_INDEX", "d3/d29/a00947.html#a95dadd52b33da56e706760fd70e83681", null ],
+    [ "MAX_PLAYER_SUMMON_DELAY", "d3/d29/a00947.html#ad061a6c6874af01a0dba9f5fe5ad9909", null ],
+    [ "MAX_QUEST_OFFSET", "d3/d29/a00947.html#ab5c23006e50d6e278b50ca5a57e478d6", null ],
+    [ "MAX_RUNES", "d3/d29/a00947.html#a2a50815668e7443f20a14ff3fa353db4", null ],
+    [ "MAX_TIMERS", "d3/d29/a00947.html#a79fd3eac646964332ed33ec7dd40f208", null ],
+    [ "MAX_TITLE_INDEX", "d3/d29/a00947.html#a7e844fbb704e6a04c7fc7d5efe39433e", null ],
+    [ "PLAYER_BYTES_2_OVERRIDE_SPELLS_UINT16_OFFSET", "d3/d29/a00947.html#a5762ddb9f9cc6b6a6f8fb2669f6398a3", null ],
+    [ "PLAYER_EXPLORED_ZONES_SIZE", "d3/d29/a00947.html#adc637ac719fdefb939a974c01dc7c838", null ],
+    [ "PLAYER_MAX_DAILY_QUESTS", "d3/d29/a00947.html#a9b615cd8e69bf1f12cbee0c8ce784feb", null ],
+    [ "PLAYER_MAX_SKILLS", "d3/d29/a00947.html#abcb5e93310258612a5598eecf2801dce", null ],
+    [ "PLAYER_SKILL_BONUS_INDEX", "d3/d29/a00947.html#a1c1ffd5bbeea8ac81e603ac54217d516", null ],
+    [ "PLAYER_SKILL_INDEX", "d3/d29/a00947.html#a31c7d53599e0de2fc366054578d428cd", null ],
+    [ "PLAYER_SKILL_VALUE_INDEX", "d3/d29/a00947.html#a200c144877f2ea5953a1b04365637d11", null ],
+    [ "SKILL_MAX", "d3/d29/a00947.html#a060c50593ece78a8b1b13ecfbca17f93", null ],
+    [ "SKILL_PERM_BONUS", "d3/d29/a00947.html#aeaa99a94ba67785c7793e2fe1d9651dc", null ],
+    [ "SKILL_TEMP_BONUS", "d3/d29/a00947.html#a68d4ea0052735c5993d90c145ac02add", null ],
+    [ "SKILL_VALUE", "d3/d29/a00947.html#a264fbbb222ac496b745b0585255816b4", null ],
+    [ "SPEC_MASK_ALL", "d3/d29/a00947.html#a6a6dfeb0ddba76f8c51abbe98ea08609", null ],
+    [ "ActionButtonList", "d3/d29/a00947.html#a732fdd0c458850a5f5358b561f98bd86", null ],
+    [ "bgZoneRef", "d3/d29/a00947.html#ad02e5b85aad803acf5ec43c31028d07e", null ],
+    [ "EnchantDurationList", "d3/d29/a00947.html#ab7da463fdcf48285d8c4a18db9fceb3d", null ],
+    [ "EquipmentSets", "d3/d29/a00947.html#a9c5d66387ebbe380eb85dc073bb477e1", null ],
+    [ "InstanceTimeMap", "d3/d29/a00947.html#a55fbc0250544fd9279ce898ab7c99f97", null ],
+    [ "ItemDurationList", "d3/d29/a00947.html#afd821be77e7efb1d6b6515cacc42b993", null ],
+    [ "ItemPosCountVec", "d3/d29/a00947.html#a06f492a0a20f5264c8395684220fec84", null ],
+    [ "PlayerCreateInfoActions", "d3/d29/a00947.html#a845b4a4f1fbd851dbce7bb2890187eb8", null ],
+    [ "PlayerCreateInfoItems", "d3/d29/a00947.html#a5a5358007f5f17ad3fa9afed3b6379ee", null ],
+    [ "PlayerCreateInfoSkills", "d3/d29/a00947.html#a05d3791bb92bf5e59af156e6b00009f4", null ],
+    [ "PlayerCreateInfoSpells", "d3/d29/a00947.html#a50742342a33da3ecb5a8ff89f00031cb", null ],
+    [ "PlayerMails", "d3/d29/a00947.html#a05aa9870aaa54b93e1cded06d75e9c01", null ],
+    [ "PlayerSpellMap", "d3/d29/a00947.html#a6829a36dad31b0ac277fae810007c700", null ],
+    [ "PlayerTalentMap", "d3/d29/a00947.html#a58b30b88955cb12b1f6441e41eed03b5", null ],
+    [ "QuestStatusMap", "d3/d29/a00947.html#ae5397f2a53a6b2bbb11c9274300fbe2c", null ],
+    [ "QuestStatusSaveMap", "d3/d29/a00947.html#a5945409582f17231499dc3e5e942ac75", null ],
+    [ "RewardedQuestSet", "d3/d29/a00947.html#a59ae2084b25805b47224ad24aa9c54d0", null ],
+    [ "SkillStatusMap", "d3/d29/a00947.html#a7c3902b77dffac17f56d2f990967f5a7", null ],
+    [ "SpellCooldowns", "d3/d29/a00947.html#a4e67032f6ccb88a3ffc6fb32196c31ce", null ],
+    [ "SpellModList", "d3/d29/a00947.html#a20396fe24b032cd78afb6f5c81568b26", null ],
+    [ "WhisperListContainer", "d3/d29/a00947.html#afa0804038132bea4c032ad84ed052831", null ],
+    [ "ActionButtonType", "d3/d29/a00947.html#a6ae74597b52b61e76f80036480d4a9f9", [
+      [ "ACTION_BUTTON_SPELL", "d3/d29/a00947.html#a6ae74597b52b61e76f80036480d4a9f9ab22c805ed49708b22344f1b60d04c70a", null ],
+      [ "ACTION_BUTTON_C", "d3/d29/a00947.html#a6ae74597b52b61e76f80036480d4a9f9a65d30d092bec5abb9be54061921d3720", null ],
+      [ "ACTION_BUTTON_EQSET", "d3/d29/a00947.html#a6ae74597b52b61e76f80036480d4a9f9a51c2fc74275d7b00a88de2d5ced44c3e", null ],
+      [ "ACTION_BUTTON_MACRO", "d3/d29/a00947.html#a6ae74597b52b61e76f80036480d4a9f9a86d89b819e5bc7ba55d745eec88b7de2", null ],
+      [ "ACTION_BUTTON_CMACRO", "d3/d29/a00947.html#a6ae74597b52b61e76f80036480d4a9f9ab1ea2d0d6c47379631332aa4289f1023", null ],
+      [ "ACTION_BUTTON_ITEM", "d3/d29/a00947.html#a6ae74597b52b61e76f80036480d4a9f9a9d3647edb340128cc90e9167f44fb84b", null ]
     ] ],
-    [ "GuildBankRights", "d3/d29/a00947.html#a1421de756a2a78653351a892c55a2627", [
-      [ "GUILD_BANK_RIGHT_VIEW_TAB", "d3/d29/a00947.html#a1421de756a2a78653351a892c55a2627a620bed4a15dc4c9d3cea7cd1886a3594", null ],
-      [ "GUILD_BANK_RIGHT_PUT_ITEM", "d3/d29/a00947.html#a1421de756a2a78653351a892c55a2627a041f90a2375c68e2af4346957bc4364e", null ],
-      [ "GUILD_BANK_RIGHT_UPDATE_TEXT", "d3/d29/a00947.html#a1421de756a2a78653351a892c55a2627a9f3972996a4cb1af3a2d61a35f2d3500", null ],
-      [ "GUILD_BANK_RIGHT_DEPOSIT_ITEM", "d3/d29/a00947.html#a1421de756a2a78653351a892c55a2627a77fa4571973b11c45d5f08d1a802035e", null ],
-      [ "GUILD_BANK_RIGHT_FULL", "d3/d29/a00947.html#a1421de756a2a78653351a892c55a2627a736a48200760aa1ab5d2987407928871", null ]
+    [ "ActionButtonUpdateState", "d3/d29/a00947.html#a4b43e90481f5e261e3d229f0335ce559", [
+      [ "ACTIONBUTTON_UNCHANGED", "d3/d29/a00947.html#a4b43e90481f5e261e3d229f0335ce559a75e31cc7b92c9defc20409340fd2655e", null ],
+      [ "ACTIONBUTTON_CHANGED", "d3/d29/a00947.html#a4b43e90481f5e261e3d229f0335ce559aacd2b7c05c5d95df742900f01552b6a3", null ],
+      [ "ACTIONBUTTON_NEW", "d3/d29/a00947.html#a4b43e90481f5e261e3d229f0335ce559a624ca83cfd4e23edb581bc3ed9cca3ba", null ],
+      [ "ACTIONBUTTON_DELETED", "d3/d29/a00947.html#a4b43e90481f5e261e3d229f0335ce559a95a40a8a9ddb1b7e24c112af3473be21", null ]
     ] ],
-    [ "GuildCommandError", "d3/d29/a00947.html#a49f5242ada5394c5a9c6142fec1beb0b", [
-      [ "ERR_GUILD_COMMAND_SUCCESS", "d3/d29/a00947.html#a49f5242ada5394c5a9c6142fec1beb0ba66c56e2d0547e9c74ca2e69268ac7b58", null ],
-      [ "ERR_GUILD_INTERNAL", "d3/d29/a00947.html#a49f5242ada5394c5a9c6142fec1beb0ba8905fc6aff78718328bddfea91f8c880", null ],
-      [ "ERR_ALREADY_IN_GUILD", "d3/d29/a00947.html#a49f5242ada5394c5a9c6142fec1beb0baba29a04e7ed3817d55f075ed17acb297", null ],
-      [ "ERR_ALREADY_IN_GUILD_S", "d3/d29/a00947.html#a49f5242ada5394c5a9c6142fec1beb0ba41d76fbbe087af601af21c19107330f4", null ],
-      [ "ERR_INVITED_TO_GUILD", "d3/d29/a00947.html#a49f5242ada5394c5a9c6142fec1beb0ba71d0699daafed40ee8881fcb019a8e92", null ],
-      [ "ERR_ALREADY_INVITED_TO_GUILD_S", "d3/d29/a00947.html#a49f5242ada5394c5a9c6142fec1beb0bacbe2f5ad90080b52ffbcc218810a316e", null ],
-      [ "ERR_GUILD_NAME_INVALID", "d3/d29/a00947.html#a49f5242ada5394c5a9c6142fec1beb0bae1e9b2619d7b16d241fbe4a59ee28ea5", null ],
-      [ "ERR_GUILD_NAME_EXISTS_S", "d3/d29/a00947.html#a49f5242ada5394c5a9c6142fec1beb0bab3ec7a09a685067777689f69d02c8dd0", null ],
-      [ "ERR_GUILD_LEADER_LEAVE", "d3/d29/a00947.html#a49f5242ada5394c5a9c6142fec1beb0ba6506724d2f8b0fdb419acc3d201094f9", null ],
-      [ "ERR_GUILD_PERMISSIONS", "d3/d29/a00947.html#a49f5242ada5394c5a9c6142fec1beb0ba12d6d5351242de2172f3c77069966373", null ],
-      [ "ERR_GUILD_PLAYER_NOT_IN_GUILD", "d3/d29/a00947.html#a49f5242ada5394c5a9c6142fec1beb0ba4c1419689cc7acff5457878d6593deb8", null ],
-      [ "ERR_GUILD_PLAYER_NOT_IN_GUILD_S", "d3/d29/a00947.html#a49f5242ada5394c5a9c6142fec1beb0ba5918718bb3ee88fe8a6133b9363ab634", null ],
-      [ "ERR_GUILD_PLAYER_NOT_FOUND_S", "d3/d29/a00947.html#a49f5242ada5394c5a9c6142fec1beb0ba9360ca5ff657b8d7078acd51d586817c", null ],
-      [ "ERR_GUILD_NOT_ALLIED", "d3/d29/a00947.html#a49f5242ada5394c5a9c6142fec1beb0ba8127617140b8da3540ee84783639f6c5", null ],
-      [ "ERR_GUILD_RANK_TOO_HIGH_S", "d3/d29/a00947.html#a49f5242ada5394c5a9c6142fec1beb0bac58f3c26d979598e350e1428300d0d68", null ],
-      [ "ERR_GUILD_RANK_TOO_LOW_S", "d3/d29/a00947.html#a49f5242ada5394c5a9c6142fec1beb0ba93782a71094ed3ce9186034266661ffa", null ],
-      [ "ERR_GUILD_RANKS_LOCKED", "d3/d29/a00947.html#a49f5242ada5394c5a9c6142fec1beb0ba722ac0b4b0b929b19cfd1c2f175d5bc2", null ],
-      [ "ERR_GUILD_RANK_IN_USE", "d3/d29/a00947.html#a49f5242ada5394c5a9c6142fec1beb0ba6336fb11258178c0a9fcd0226139d854", null ],
-      [ "ERR_GUILD_IGNORING_YOU_S", "d3/d29/a00947.html#a49f5242ada5394c5a9c6142fec1beb0baa94f9be1954e58a003f5214838637044", null ],
-      [ "ERR_GUILD_UNK1", "d3/d29/a00947.html#a49f5242ada5394c5a9c6142fec1beb0baea4e15b2fd89d928043d55e639d7189e", null ],
-      [ "ERR_GUILD_WITHDRAW_LIMIT", "d3/d29/a00947.html#a49f5242ada5394c5a9c6142fec1beb0ba1eecf95ff2e3eab1f1068681a54ea68f", null ],
-      [ "ERR_GUILD_NOT_ENOUGH_MONEY", "d3/d29/a00947.html#a49f5242ada5394c5a9c6142fec1beb0ba83c3bc0d5c024bd57882a6cd74537225", null ],
-      [ "ERR_GUILD_BANK_FULL", "d3/d29/a00947.html#a49f5242ada5394c5a9c6142fec1beb0ba8c0d556ebb137e6ad93d21057c9ac47a", null ],
-      [ "ERR_GUILD_ITEM_NOT_FOUND", "d3/d29/a00947.html#a49f5242ada5394c5a9c6142fec1beb0bae56096593cbf149c911dce3e409b760b", null ]
+    [ "AdditionalSaving", "d3/d29/a00947.html#abb6c0419a027f09fbb5016deede34755", [
+      [ "ADDITIONAL_SAVING_NONE", "d3/d29/a00947.html#abb6c0419a027f09fbb5016deede34755a32e552f3a0c23a33401b6bb2e90b8753", null ],
+      [ "ADDITIONAL_SAVING_INVENTORY_AND_GOLD", "d3/d29/a00947.html#abb6c0419a027f09fbb5016deede34755a0e79848772fb35db024b1d9cfd8a55b2", null ],
+      [ "ADDITIONAL_SAVING_QUEST_STATUS", "d3/d29/a00947.html#abb6c0419a027f09fbb5016deede34755ae07ddeb5ee480f16943f43b31e53ebba", null ]
     ] ],
-    [ "GuildCommandType", "d3/d29/a00947.html#a30d73a1238457bffb5d55ce50c5d1a61", [
-      [ "GUILD_COMMAND_CREATE", "d3/d29/a00947.html#a30d73a1238457bffb5d55ce50c5d1a61aad4dbfa4f2899a078f836357e829d38d", null ],
-      [ "GUILD_COMMAND_INVITE", "d3/d29/a00947.html#a30d73a1238457bffb5d55ce50c5d1a61a176c62343904defff95ab4e54e468ec9", null ],
-      [ "GUILD_COMMAND_QUIT", "d3/d29/a00947.html#a30d73a1238457bffb5d55ce50c5d1a61a8ecfc411c48ea8e8557b674af93aff48", null ],
-      [ "GUILD_COMMAND_ROSTER", "d3/d29/a00947.html#a30d73a1238457bffb5d55ce50c5d1a61afa86c76f89c558f8803b1001071d31b1", null ],
-      [ "GUILD_COMMAND_PROMOTE", "d3/d29/a00947.html#a30d73a1238457bffb5d55ce50c5d1a61aae3d0d696beb61d2dfbb9fe3cf913e90", null ],
-      [ "GUILD_COMMAND_DEMOTE", "d3/d29/a00947.html#a30d73a1238457bffb5d55ce50c5d1a61add3d85e6b9be764ce7bec60995f9b1df", null ],
-      [ "GUILD_COMMAND_REMOVE", "d3/d29/a00947.html#a30d73a1238457bffb5d55ce50c5d1a61adfd59424a4717e4d98396562cd48f559", null ],
-      [ "GUILD_COMMAND_CHANGE_LEADER", "d3/d29/a00947.html#a30d73a1238457bffb5d55ce50c5d1a61a15790b950f024637784202495cfc7887", null ],
-      [ "GUILD_COMMAND_EDIT_MOTD", "d3/d29/a00947.html#a30d73a1238457bffb5d55ce50c5d1a61afd7e6c09b1e1ecbfa37353458871be76", null ],
-      [ "GUILD_COMMAND_GUILD_CHAT", "d3/d29/a00947.html#a30d73a1238457bffb5d55ce50c5d1a61a0dcf8cf643c1808651973076708ec909", null ],
-      [ "GUILD_COMMAND_FOUNDER", "d3/d29/a00947.html#a30d73a1238457bffb5d55ce50c5d1a61a16ceaef8a55d8d3d57cf53ad1c7c3f7f", null ],
-      [ "GUILD_COMMAND_CHANGE_RANK", "d3/d29/a00947.html#a30d73a1238457bffb5d55ce50c5d1a61adf3fe7f4670d84ee8356fdaacf05e0a3", null ],
-      [ "GUILD_COMMAND_PUBLIC_NOTE", "d3/d29/a00947.html#a30d73a1238457bffb5d55ce50c5d1a61adef5aeb1e906bccb73480a7ff72627f0", null ],
-      [ "GUILD_COMMAND_VIEW_TAB", "d3/d29/a00947.html#a30d73a1238457bffb5d55ce50c5d1a61a6e04a2c087f986bfe5440336232f855d", null ],
-      [ "GUILD_COMMAND_MOVE_ITEM", "d3/d29/a00947.html#a30d73a1238457bffb5d55ce50c5d1a61a74173aa0ec19b68c0f531dcbc3cc360a", null ],
-      [ "GUILD_COMMAND_REPAIR", "d3/d29/a00947.html#a30d73a1238457bffb5d55ce50c5d1a61a3f568f2daa274d35fc97bae0ee487fd7", null ]
+    [ "AtLoginFlags", "d3/d29/a00947.html#aa6b2dcfd7e0c4f62b238241afe792fcb", [
+      [ "AT_LOGIN_NONE", "d3/d29/a00947.html#aa6b2dcfd7e0c4f62b238241afe792fcba3c65bd9b9ddfef144eee2270448f9326", null ],
+      [ "AT_LOGIN_RENAME", "d3/d29/a00947.html#aa6b2dcfd7e0c4f62b238241afe792fcba8785c6f27dffe91968bf6635024169eb", null ],
+      [ "AT_LOGIN_RESET_SPELLS", "d3/d29/a00947.html#aa6b2dcfd7e0c4f62b238241afe792fcba0e52bd573c6218d6fd8b712f4453f8b9", null ],
+      [ "AT_LOGIN_RESET_TALENTS", "d3/d29/a00947.html#aa6b2dcfd7e0c4f62b238241afe792fcba06050e392f96594aa17d23cb85ec5a22", null ],
+      [ "AT_LOGIN_CUSTOMIZE", "d3/d29/a00947.html#aa6b2dcfd7e0c4f62b238241afe792fcba60e88e13de029949c7b0eb3512dfd529", null ],
+      [ "AT_LOGIN_RESET_PET_TALENTS", "d3/d29/a00947.html#aa6b2dcfd7e0c4f62b238241afe792fcba3cd8cf3374b3079026df290c3fed8505", null ],
+      [ "AT_LOGIN_FIRST", "d3/d29/a00947.html#aa6b2dcfd7e0c4f62b238241afe792fcba603335736eef48aeea31b0efd812373d", null ],
+      [ "AT_LOGIN_CHANGE_FACTION", "d3/d29/a00947.html#aa6b2dcfd7e0c4f62b238241afe792fcbaf51736cc0564383f4805f094effaca04", null ],
+      [ "AT_LOGIN_CHANGE_RACE", "d3/d29/a00947.html#aa6b2dcfd7e0c4f62b238241afe792fcbaa8ada6679a59fd66177d3e2aa2fd6931", null ],
+      [ "AT_LOGIN_RESET_AP", "d3/d29/a00947.html#aa6b2dcfd7e0c4f62b238241afe792fcba3fbef80e12e7eeda4f10d2b42d595e78", null ],
+      [ "AT_LOGIN_RESET_ARENA", "d3/d29/a00947.html#aa6b2dcfd7e0c4f62b238241afe792fcba43b44b27cf424adb7fba3ce6a5e93d1c", null ],
+      [ "AT_LOGIN_CHECK_ACHIEVS", "d3/d29/a00947.html#aa6b2dcfd7e0c4f62b238241afe792fcbac205e4677f04a9693190c8a07e262e3e", null ],
+      [ "AT_LOGIN_RESURRECT", "d3/d29/a00947.html#aa6b2dcfd7e0c4f62b238241afe792fcba60552036fb4fe40d09a67e79d133980c", null ]
     ] ],
-    [ "GuildDefaultRanks", "d3/d29/a00947.html#a6534fcf172d7fbe4a762e0479601acd4", [
-      [ "GR_GUILDMASTER", "d3/d29/a00947.html#a6534fcf172d7fbe4a762e0479601acd4a349203b98139f80965ab3d7e3379c36d", null ],
-      [ "GR_OFFICER", "d3/d29/a00947.html#a6534fcf172d7fbe4a762e0479601acd4ab167d6658cd49c0909c6f435a7222b70", null ],
-      [ "GR_VETERAN", "d3/d29/a00947.html#a6534fcf172d7fbe4a762e0479601acd4ab18e872c32182264beb6659c203f4edd", null ],
-      [ "GR_MEMBER", "d3/d29/a00947.html#a6534fcf172d7fbe4a762e0479601acd4a2308a5860bcf26ee1f9e2e2cb84e3fd7", null ],
-      [ "GR_INITIATE", "d3/d29/a00947.html#a6534fcf172d7fbe4a762e0479601acd4a92f7ee434ade92ce3d0811d99d590ed5", null ]
+    [ "BankBagSlots", "d3/d29/a00947.html#a7fcff0151a9fe9259e042a52c3c37b0c", [
+      [ "BANK_SLOT_BAG_START", "d3/d29/a00947.html#a7fcff0151a9fe9259e042a52c3c37b0cade633953c0847a2e477be4083dd037bc", null ],
+      [ "BANK_SLOT_BAG_END", "d3/d29/a00947.html#a7fcff0151a9fe9259e042a52c3c37b0cad76e6ac10062f15e697857d39056cbec", null ]
     ] ],
-    [ "GuildEmblemError", "d3/d29/a00947.html#afa754e5cab703d1d74d769393a463892", [
-      [ "ERR_GUILDEMBLEM_SUCCESS", "d3/d29/a00947.html#afa754e5cab703d1d74d769393a463892a862afc12072cb607f89b65dff6a4e1d0", null ],
-      [ "ERR_GUILDEMBLEM_INVALID_TABARD_COLORS", "d3/d29/a00947.html#afa754e5cab703d1d74d769393a463892a438f7a4bf30acc47976689d07f397137", null ],
-      [ "ERR_GUILDEMBLEM_NOGUILD", "d3/d29/a00947.html#afa754e5cab703d1d74d769393a463892aada1bda618d5cd4e62b78ead670f1214", null ],
-      [ "ERR_GUILDEMBLEM_NOTGUILDMASTER", "d3/d29/a00947.html#afa754e5cab703d1d74d769393a463892a043b58ec4131734c7e45302a31f521db", null ],
-      [ "ERR_GUILDEMBLEM_NOTENOUGHMONEY", "d3/d29/a00947.html#afa754e5cab703d1d74d769393a463892a81544caf6fd0c4f02da37f973178bdd0", null ],
-      [ "ERR_GUILDEMBLEM_INVALIDVENDOR", "d3/d29/a00947.html#afa754e5cab703d1d74d769393a463892a112c7e8f7e14fad9b17415b3b5b5f512", null ]
+    [ "BankItemSlots", "d3/d29/a00947.html#a8db93a42b48c6f627796a8ef38bbd2f2", [
+      [ "BANK_SLOT_ITEM_START", "d3/d29/a00947.html#a8db93a42b48c6f627796a8ef38bbd2f2aa69f68ed66e52b3fb5f86cb25dee7546", null ],
+      [ "BANK_SLOT_ITEM_END", "d3/d29/a00947.html#a8db93a42b48c6f627796a8ef38bbd2f2ae712bb7256b4aa6cced2a2a05fbe1fbe", null ]
     ] ],
-    [ "GuildEventLogTypes", "d3/d29/a00947.html#aff19569a84ef44eea2acf4d6bcb86690", [
-      [ "GUILD_EVENT_LOG_INVITE_PLAYER", "d3/d29/a00947.html#aff19569a84ef44eea2acf4d6bcb86690a9a9cfccd8804c03c87ce7749d0eebd54", null ],
-      [ "GUILD_EVENT_LOG_JOIN_GUILD", "d3/d29/a00947.html#aff19569a84ef44eea2acf4d6bcb86690ae5477237a42236638c4c00f45b99ad8c", null ],
-      [ "GUILD_EVENT_LOG_PROMOTE_PLAYER", "d3/d29/a00947.html#aff19569a84ef44eea2acf4d6bcb86690a76587e8e52ae2fb7918f62b5542fe7d4", null ],
-      [ "GUILD_EVENT_LOG_DEMOTE_PLAYER", "d3/d29/a00947.html#aff19569a84ef44eea2acf4d6bcb86690abe7cbc394621d334e2933aa98d103434", null ],
-      [ "GUILD_EVENT_LOG_UNINVITE_PLAYER", "d3/d29/a00947.html#aff19569a84ef44eea2acf4d6bcb86690a7cf29d925b03cbedbf6f4a55b6a4db0e", null ],
-      [ "GUILD_EVENT_LOG_LEAVE_GUILD", "d3/d29/a00947.html#aff19569a84ef44eea2acf4d6bcb86690a0ec79d8832cc2bf0c1a715d8f702faff", null ]
+    [ "BuyBackSlots", "d3/d29/a00947.html#a6d1182dfc036dc286011d767c384ee5e", [
+      [ "BUYBACK_SLOT_START", "d3/d29/a00947.html#a6d1182dfc036dc286011d767c384ee5ea6d5756709c97422e8f21e84315606235", null ],
+      [ "BUYBACK_SLOT_END", "d3/d29/a00947.html#a6d1182dfc036dc286011d767c384ee5ea0e09f1c1c4bae726eb6fdfa99e667e0c", null ]
     ] ],
-    [ "GuildEvents", "d3/d29/a00947.html#a06a0aa0a30a110150b9f76a3be9ee59d", [
-      [ "GE_PROMOTION", "d3/d29/a00947.html#a06a0aa0a30a110150b9f76a3be9ee59da72da68638000a7f33a2d5cba84f4a06f", null ],
-      [ "GE_DEMOTION", "d3/d29/a00947.html#a06a0aa0a30a110150b9f76a3be9ee59dae1bf3924ca8430f489b567e959cf63d2", null ],
-      [ "GE_MOTD", "d3/d29/a00947.html#a06a0aa0a30a110150b9f76a3be9ee59daab7edbe172dab4cd9f3a08e9d735421a", null ],
-      [ "GE_JOINED", "d3/d29/a00947.html#a06a0aa0a30a110150b9f76a3be9ee59da6649e0fbda75bed2ed56edaa163abd4d", null ],
-      [ "GE_LEFT", "d3/d29/a00947.html#a06a0aa0a30a110150b9f76a3be9ee59da0e9ffb6d5c2c9909a0eca1ede00ee816", null ],
-      [ "GE_REMOVED", "d3/d29/a00947.html#a06a0aa0a30a110150b9f76a3be9ee59da50fdd818113a0fffcd2ba9dc3bc29782", null ],
-      [ "GE_LEADER_IS", "d3/d29/a00947.html#a06a0aa0a30a110150b9f76a3be9ee59da25d37eb4d886fabe2c8495b238488a48", null ],
-      [ "GE_LEADER_CHANGED", "d3/d29/a00947.html#a06a0aa0a30a110150b9f76a3be9ee59dad4ba70858e9fb573d9bbd3b308ac6b54", null ],
-      [ "GE_DISBANDED", "d3/d29/a00947.html#a06a0aa0a30a110150b9f76a3be9ee59da9ef80195ef0577e240aa857f743ff2a0", null ],
-      [ "GE_TABARDCHANGE", "d3/d29/a00947.html#a06a0aa0a30a110150b9f76a3be9ee59da45306f2f4d9a144a27d85dd6f4d54911", null ],
-      [ "GE_RANK_UPDATED", "d3/d29/a00947.html#a06a0aa0a30a110150b9f76a3be9ee59daf1474532b0c069fe744ed47a24373aa6", null ],
-      [ "GE_RANK_DELETED", "d3/d29/a00947.html#a06a0aa0a30a110150b9f76a3be9ee59da6a6e862f8712014b28701d5538f02c12", null ],
-      [ "GE_SIGNED_ON", "d3/d29/a00947.html#a06a0aa0a30a110150b9f76a3be9ee59dae1b52b8ecf858eb756e92de351ffecf4", null ],
-      [ "GE_SIGNED_OFF", "d3/d29/a00947.html#a06a0aa0a30a110150b9f76a3be9ee59daa42cdde19a25a9a63f9b3239641ff605", null ],
-      [ "GE_GUILDBANKBAGSLOTS_CHANGED", "d3/d29/a00947.html#a06a0aa0a30a110150b9f76a3be9ee59da6fc35b9c97bae761e0b0c25639da3e09", null ],
-      [ "GE_BANK_TAB_PURCHASED", "d3/d29/a00947.html#a06a0aa0a30a110150b9f76a3be9ee59dac9ccde1e7afe63543cc6d9be6f14ddff", null ],
-      [ "GE_BANK_TAB_UPDATED", "d3/d29/a00947.html#a06a0aa0a30a110150b9f76a3be9ee59da785cf9cbb7b1d11503a5bcaa71513404", null ],
-      [ "GE_BANK_MONEY_SET", "d3/d29/a00947.html#a06a0aa0a30a110150b9f76a3be9ee59da854f585b5909f0f5815f15a501947776", null ],
-      [ "GE_BANK_TAB_AND_MONEY_UPDATED", "d3/d29/a00947.html#a06a0aa0a30a110150b9f76a3be9ee59dae974d4c2fa3918c8a74bca9da8a9c721", null ],
-      [ "GE_BANK_TEXT_CHANGED", "d3/d29/a00947.html#a06a0aa0a30a110150b9f76a3be9ee59da9f0f73e1953473fa1b4b68ce1095cc25", null ]
+    [ "BuyBankSlotResult", "d3/d29/a00947.html#a8d589ad9d1711f4ebe892105f6a1c167", [
+      [ "ERR_BANKSLOT_FAILED_TOO_MANY", "d3/d29/a00947.html#a8d589ad9d1711f4ebe892105f6a1c167a4ce27fd088caf2063c85464cace1dd4d", null ],
+      [ "ERR_BANKSLOT_INSUFFICIENT_FUNDS", "d3/d29/a00947.html#a8d589ad9d1711f4ebe892105f6a1c167ab287d75d988f8f669f28195600800d13", null ],
+      [ "ERR_BANKSLOT_NOTBANKER", "d3/d29/a00947.html#a8d589ad9d1711f4ebe892105f6a1c167a484b0fa66e46fb264b6373b6bf5e9e20", null ],
+      [ "ERR_BANKSLOT_OK", "d3/d29/a00947.html#a8d589ad9d1711f4ebe892105f6a1c167a8b2e56a615bc771de8c15d9d17d2867d", null ]
     ] ],
-    [ "GuildMemberData", "d3/d29/a00947.html#ae5d0dd5e01476247e0fb95c8983c60d4", [
-      [ "GUILD_MEMBER_DATA_ZONEID", "d3/d29/a00947.html#ae5d0dd5e01476247e0fb95c8983c60d4af3613580ee19a9b12e7081944ae6b9ba", null ],
-      [ "GUILD_MEMBER_DATA_LEVEL", "d3/d29/a00947.html#ae5d0dd5e01476247e0fb95c8983c60d4a110701578c81893944f3d8e5904849a1", null ]
+    [ "CharDeleteMethod", "d3/d29/a00947.html#aac0050072f7da545cd0cba11d1b31878", [
+      [ "CHAR_DELETE_REMOVE", "d3/d29/a00947.html#aac0050072f7da545cd0cba11d1b31878a3c02fabd410b96b92470cb192490a5cf", null ],
+      [ "CHAR_DELETE_UNLINK", "d3/d29/a00947.html#aac0050072f7da545cd0cba11d1b31878a42fe9b18fe144cd36092e0593c140df5", null ]
     ] ],
-    [ "GuildMemberFlags", "d3/d29/a00947.html#a123851062f168b4f6f203a4db8279667", [
-      [ "GUILDMEMBER_STATUS_NONE", "d3/d29/a00947.html#a123851062f168b4f6f203a4db8279667a27eb32373627b4d85388957c19e139e9", null ],
-      [ "GUILDMEMBER_STATUS_ONLINE", "d3/d29/a00947.html#a123851062f168b4f6f203a4db8279667a82ef49b228d254523c3585bb42547d66", null ],
-      [ "GUILDMEMBER_STATUS_AFK", "d3/d29/a00947.html#a123851062f168b4f6f203a4db8279667a06c04e107b8a85e4ec3c7980f4609390", null ],
-      [ "GUILDMEMBER_STATUS_DND", "d3/d29/a00947.html#a123851062f168b4f6f203a4db8279667ade61003fc5fb19a6fd7044080582e584", null ],
-      [ "GUILDMEMBER_STATUS_MOBILE", "d3/d29/a00947.html#a123851062f168b4f6f203a4db8279667a4e3f982adda8cb981e3780ea68a7ba37", null ]
+    [ "CurrencyItems", "d3/d29/a00947.html#a45422a4fea37cc887665ecb517411303", [
+      [ "ITEM_HONOR_POINTS_ID", "d3/d29/a00947.html#a45422a4fea37cc887665ecb517411303ac48004b9cff0581cfba0679d971ee370", null ],
+      [ "ITEM_ARENA_POINTS_ID", "d3/d29/a00947.html#a45422a4fea37cc887665ecb517411303a8775655e07593218e933b4490c1b2caf", null ]
     ] ],
-    [ "GuildMisc", "d3/d29/a00947.html#a06a462b77a279ae7e2e901b2a8b42fba", [
-      [ "GUILD_BANK_MAX_TABS", "d3/d29/a00947.html#a06a462b77a279ae7e2e901b2a8b42fbaadf100aec6c7a6f10b7af8629930feff7", null ],
-      [ "GUILD_BANK_MAX_SLOTS", "d3/d29/a00947.html#a06a462b77a279ae7e2e901b2a8b42fbaab16b15ec75f4e5d66f25c472aa3e8bba", null ],
-      [ "GUILD_BANK_MONEY_LOGS_TAB", "d3/d29/a00947.html#a06a462b77a279ae7e2e901b2a8b42fbaa7d5b97c152871f38a9675fbd14056d29", null ],
-      [ "GUILD_RANKS_MIN_COUNT", "d3/d29/a00947.html#a06a462b77a279ae7e2e901b2a8b42fbaa38703424b32ba50b622465c984f7df74", null ],
-      [ "GUILD_RANKS_MAX_COUNT", "d3/d29/a00947.html#a06a462b77a279ae7e2e901b2a8b42fbaac93065ac20ad4d90f8ef5c0f44154e1b", null ],
-      [ "GUILD_RANK_NONE", "d3/d29/a00947.html#a06a462b77a279ae7e2e901b2a8b42fbaaf6c0674ccaa8788c8fcfd8a600d925b6", null ],
-      [ "GUILD_WITHDRAW_MONEY_UNLIMITED", "d3/d29/a00947.html#a06a462b77a279ae7e2e901b2a8b42fbaa970809f1c7ca4e40033d20bd598adaa1", null ],
-      [ "GUILD_WITHDRAW_SLOT_UNLIMITED", "d3/d29/a00947.html#a06a462b77a279ae7e2e901b2a8b42fbaa571aa585445117cda99224482dd773c3", null ],
-      [ "GUILD_EVENT_LOG_GUID_UNDEFINED", "d3/d29/a00947.html#a06a462b77a279ae7e2e901b2a8b42fbaa3ff1bc1055ea2594bca5264274d2485b", null ],
-      [ "TAB_UNDEFINED", "d3/d29/a00947.html#a06a462b77a279ae7e2e901b2a8b42fbaa5f9926dc31dd8f1dbf88e9131c7f1a74", null ]
+    [ "CurrencyTokenSlots", "d3/d29/a00947.html#a87724c0f2c6f30f4477a7b391ff477c9", [
+      [ "CURRENCYTOKEN_SLOT_START", "d3/d29/a00947.html#a87724c0f2c6f30f4477a7b391ff477c9aa3f8959351bc74f0fa1f77e1570e9aa2", null ],
+      [ "CURRENCYTOKEN_SLOT_END", "d3/d29/a00947.html#a87724c0f2c6f30f4477a7b391ff477c9a973db66483b40dab11286f59062d2678", null ]
     ] ],
-    [ "GuildRankRights", "d3/d29/a00947.html#abe65a5c09114479eec37ae55f24aaaa7", [
-      [ "GR_RIGHT_EMPTY", "d3/d29/a00947.html#abe65a5c09114479eec37ae55f24aaaa7a0aaa2fbc124920eccb1f1495dc966aab", null ],
-      [ "GR_RIGHT_GCHATLISTEN", "d3/d29/a00947.html#abe65a5c09114479eec37ae55f24aaaa7a613b1d285b8e4bfd5b302d455a234e8b", null ],
-      [ "GR_RIGHT_GCHATSPEAK", "d3/d29/a00947.html#abe65a5c09114479eec37ae55f24aaaa7a31d51868ba86650a2177d9a9e55fb21e", null ],
-      [ "GR_RIGHT_OFFCHATLISTEN", "d3/d29/a00947.html#abe65a5c09114479eec37ae55f24aaaa7a5e1a484f0ba139d1a81e4ee542d91a9f", null ],
-      [ "GR_RIGHT_OFFCHATSPEAK", "d3/d29/a00947.html#abe65a5c09114479eec37ae55f24aaaa7a448d0ff1b08f751a9339dff1cd8b8e74", null ],
-      [ "GR_RIGHT_INVITE", "d3/d29/a00947.html#abe65a5c09114479eec37ae55f24aaaa7adef53b5c69909e7c695d9237707c0da7", null ],
-      [ "GR_RIGHT_REMOVE", "d3/d29/a00947.html#abe65a5c09114479eec37ae55f24aaaa7aaa7ecd3d86acfd15c0da455338af9249", null ],
-      [ "GR_RIGHT_PROMOTE", "d3/d29/a00947.html#abe65a5c09114479eec37ae55f24aaaa7af89d8390d741e7b44ac5e8a3b253f6d8", null ],
-      [ "GR_RIGHT_DEMOTE", "d3/d29/a00947.html#abe65a5c09114479eec37ae55f24aaaa7af1b7986e010de928a797b01027a54281", null ],
-      [ "GR_RIGHT_SETMOTD", "d3/d29/a00947.html#abe65a5c09114479eec37ae55f24aaaa7a7733a2d4555e5b4a35031df77c9ef5d8", null ],
-      [ "GR_RIGHT_EPNOTE", "d3/d29/a00947.html#abe65a5c09114479eec37ae55f24aaaa7a52e417f2751e39a4ec3e1315b0b3d532", null ],
-      [ "GR_RIGHT_VIEWOFFNOTE", "d3/d29/a00947.html#abe65a5c09114479eec37ae55f24aaaa7a9cee3982eb7862d62e7f00414c4703be", null ],
-      [ "GR_RIGHT_EOFFNOTE", "d3/d29/a00947.html#abe65a5c09114479eec37ae55f24aaaa7a2f3962665bd6827bf747293a361af469", null ],
-      [ "GR_RIGHT_MODIFY_GUILD_INFO", "d3/d29/a00947.html#abe65a5c09114479eec37ae55f24aaaa7a966fe8d17446997c93187cadac659f7e", null ],
-      [ "GR_RIGHT_WITHDRAW_GOLD_LOCK", "d3/d29/a00947.html#abe65a5c09114479eec37ae55f24aaaa7a459d49b970ac748d49b94a9595a8dd12", null ],
-      [ "GR_RIGHT_WITHDRAW_REPAIR", "d3/d29/a00947.html#abe65a5c09114479eec37ae55f24aaaa7aaa6488e65239f554a6b825bceed19a48", null ],
-      [ "GR_RIGHT_WITHDRAW_GOLD", "d3/d29/a00947.html#abe65a5c09114479eec37ae55f24aaaa7aca613b727c5d49d66286ca7ef13d8486", null ],
-      [ "GR_RIGHT_CREATE_GUILD_EVENT", "d3/d29/a00947.html#abe65a5c09114479eec37ae55f24aaaa7a6bf1693f5924879407fba7f1ce265c42", null ],
-      [ "GR_RIGHT_ALL", "d3/d29/a00947.html#abe65a5c09114479eec37ae55f24aaaa7a4848a44a3683ba2200a6e6844dfcadee", null ]
+    [ "DrunkenState", "d3/d29/a00947.html#adc8fb9638bd9c8f972163d22b9d870ed", [
+      [ "DRUNKEN_SOBER", "d3/d29/a00947.html#adc8fb9638bd9c8f972163d22b9d870eda8b35d1194abf0f952fc5fb6450bea654", null ],
+      [ "DRUNKEN_TIPSY", "d3/d29/a00947.html#adc8fb9638bd9c8f972163d22b9d870eda01028419e0fdd37426276b1b6c6a9784", null ],
+      [ "DRUNKEN_DRUNK", "d3/d29/a00947.html#adc8fb9638bd9c8f972163d22b9d870eda6123ab27dcbbe6042bec1e3230fe3c2d", null ],
+      [ "DRUNKEN_SMASHED", "d3/d29/a00947.html#adc8fb9638bd9c8f972163d22b9d870edabf93e12c2036f95b171f99c8ce23baef", null ]
     ] ],
-    [ "PetitionSigns", "d3/d29/a00947.html#a55e7b8d0bd00c4163cc1e3fa0b922dbc", [
-      [ "PETITION_SIGN_OK", "d3/d29/a00947.html#a55e7b8d0bd00c4163cc1e3fa0b922dbca5ce4a6092a209fa78694bbf846e8057f", null ],
-      [ "PETITION_SIGN_ALREADY_SIGNED", "d3/d29/a00947.html#a55e7b8d0bd00c4163cc1e3fa0b922dbca1687c7c5f4f3e28259bec2dd416543fc", null ],
-      [ "PETITION_SIGN_ALREADY_IN_GUILD", "d3/d29/a00947.html#a55e7b8d0bd00c4163cc1e3fa0b922dbca2bca52318633fc4ff08518ccb69f3fd2", null ],
-      [ "PETITION_SIGN_CANT_SIGN_OWN", "d3/d29/a00947.html#a55e7b8d0bd00c4163cc1e3fa0b922dbca52ade0f152f12607294a541cf2484625", null ],
-      [ "PETITION_SIGN_NOT_SERVER", "d3/d29/a00947.html#a55e7b8d0bd00c4163cc1e3fa0b922dbcadd3f9a7e2db2c44c0d51801c83c45ab5", null ]
+    [ "DuelState", "d3/d29/a00947.html#a291ff120fe0e5e303522d6d4ded94cb0", [
+      [ "DUEL_STATE_CHALLENGED", "d3/d29/a00947.html#a291ff120fe0e5e303522d6d4ded94cb0a116bf1dac6f95837a0d1f806786c19ed", null ],
+      [ "DUEL_STATE_COUNTDOWN", "d3/d29/a00947.html#a291ff120fe0e5e303522d6d4ded94cb0a446ff1504354164ece4fec9ad4ce73f3", null ],
+      [ "DUEL_STATE_IN_PROGRESS", "d3/d29/a00947.html#a291ff120fe0e5e303522d6d4ded94cb0af1ad2fe181840deed310e2d47fa46285", null ],
+      [ "DUEL_STATE_COMPLETED", "d3/d29/a00947.html#a291ff120fe0e5e303522d6d4ded94cb0abfd03fa85a02075cb026e78e44a7ed29", null ]
     ] ],
-    [ "PetitionTurns", "d3/d29/a00947.html#a7a3c5c8af22090b20caf93a34b099e63", [
-      [ "PETITION_TURN_OK", "d3/d29/a00947.html#a7a3c5c8af22090b20caf93a34b099e63aeebbcaab5f46f0c2b06c8a83a447fb87", null ],
-      [ "PETITION_TURN_ALREADY_IN_GUILD", "d3/d29/a00947.html#a7a3c5c8af22090b20caf93a34b099e63a19e530186d1f359b90b920c19b779cab", null ],
-      [ "PETITION_TURN_NEED_MORE_SIGNATURES", "d3/d29/a00947.html#a7a3c5c8af22090b20caf93a34b099e63a1995a532c5cc216ecd1692c9573cf8b5", null ]
+    [ "EmoteBroadcastTextID", "d3/d29/a00947.html#af160f4ea09947fc773712def1eead2d1", [
+      [ "EMOTE_BROADCAST_TEXT_ID_STRANGE_GESTURES", "d3/d29/a00947.html#af160f4ea09947fc773712def1eead2d1abd8b00e53bf08abd44986f8d05f39acf", null ]
     ] ],
-    [ "GUILD_BANK_MONEY_LIMIT", "d3/d29/a00947.html#a1efc85fd2fe64c5475c05c72a006f8e6", null ]
+    [ "EnviromentalDamage", "d3/d29/a00947.html#a1e86199a591cea72849e4e4b3c3a0e0e", [
+      [ "DAMAGE_EXHAUSTED", "d3/d29/a00947.html#a1e86199a591cea72849e4e4b3c3a0e0eaf2f82d203447677b0e6fd61c9f6805f6", null ],
+      [ "DAMAGE_DROWNING", "d3/d29/a00947.html#a1e86199a591cea72849e4e4b3c3a0e0eab526385fff812ce58ad0263baa7bbb09", null ],
+      [ "DAMAGE_FALL", "d3/d29/a00947.html#a1e86199a591cea72849e4e4b3c3a0e0ea4e07f767d39ffd8e48e5138ec45710f8", null ],
+      [ "DAMAGE_LAVA", "d3/d29/a00947.html#a1e86199a591cea72849e4e4b3c3a0e0eaa5a0269734b9add5ce6f09cccfcf0aef", null ],
+      [ "DAMAGE_SLIME", "d3/d29/a00947.html#a1e86199a591cea72849e4e4b3c3a0e0ea462f686f2a4bc0002bbb334607d746cd", null ],
+      [ "DAMAGE_FIRE", "d3/d29/a00947.html#a1e86199a591cea72849e4e4b3c3a0e0eac50b14cf6946cd1d0767f4601733fca8", null ],
+      [ "DAMAGE_FALL_TO_VOID", "d3/d29/a00947.html#a1e86199a591cea72849e4e4b3c3a0e0eab46a1fed925746a6a0fd964191f4fa82", null ]
+    ] ],
+    [ "EquipmentSetUpdateState", "d3/d29/a00947.html#a54991a2b7a7195de0963e7133d320655", [
+      [ "EQUIPMENT_SET_UNCHANGED", "d3/d29/a00947.html#a54991a2b7a7195de0963e7133d320655a6d1b05b5d96cdc1a161dd7962d565c34", null ],
+      [ "EQUIPMENT_SET_CHANGED", "d3/d29/a00947.html#a54991a2b7a7195de0963e7133d320655a272492f05745bcff1f5da3136a865078", null ],
+      [ "EQUIPMENT_SET_NEW", "d3/d29/a00947.html#a54991a2b7a7195de0963e7133d320655af36236abe76e2b86c45cc165a74a06b0", null ],
+      [ "EQUIPMENT_SET_DELETED", "d3/d29/a00947.html#a54991a2b7a7195de0963e7133d320655ab475b83af4b838bb80cfc45e83d16419", null ]
+    ] ],
+    [ "EquipmentSlots", "d3/d29/a00947.html#a93b8041f948d575ef2d23746324a37af", [
+      [ "EQUIPMENT_SLOT_START", "d3/d29/a00947.html#a93b8041f948d575ef2d23746324a37afaefb28ca135419e98ec3929a81f96465c", null ],
+      [ "EQUIPMENT_SLOT_HEAD", "d3/d29/a00947.html#a93b8041f948d575ef2d23746324a37afaa67c5ceeab0d56ffed28f3e533535c32", null ],
+      [ "EQUIPMENT_SLOT_NECK", "d3/d29/a00947.html#a93b8041f948d575ef2d23746324a37afa3f92c4537375758b0b7c28c2843f352c", null ],
+      [ "EQUIPMENT_SLOT_SHOULDERS", "d3/d29/a00947.html#a93b8041f948d575ef2d23746324a37afa15b6dc080176095e3268c1dc500ef809", null ],
+      [ "EQUIPMENT_SLOT_BODY", "d3/d29/a00947.html#a93b8041f948d575ef2d23746324a37afa1b522aed12afec5f683edf72963e9a33", null ],
+      [ "EQUIPMENT_SLOT_CHEST", "d3/d29/a00947.html#a93b8041f948d575ef2d23746324a37afac5910f0d7f72991e7e549b95258bd2b1", null ],
+      [ "EQUIPMENT_SLOT_WAIST", "d3/d29/a00947.html#a93b8041f948d575ef2d23746324a37afaba58fe4be610f86a7c1d3f7abdb0a4e4", null ],
+      [ "EQUIPMENT_SLOT_LEGS", "d3/d29/a00947.html#a93b8041f948d575ef2d23746324a37afaa86a656730a67ce3f152430033686884", null ],
+      [ "EQUIPMENT_SLOT_FEET", "d3/d29/a00947.html#a93b8041f948d575ef2d23746324a37afac57a21fd5f2fbcfc1806a40deeef537c", null ],
+      [ "EQUIPMENT_SLOT_WRISTS", "d3/d29/a00947.html#a93b8041f948d575ef2d23746324a37afada5f2dccee1a2378e00605914f745f6a", null ],
+      [ "EQUIPMENT_SLOT_HANDS", "d3/d29/a00947.html#a93b8041f948d575ef2d23746324a37afa1fd368f8ce7dad72d75fd6840bdb058b", null ],
+      [ "EQUIPMENT_SLOT_FINGER1", "d3/d29/a00947.html#a93b8041f948d575ef2d23746324a37afa39712e341d5a043a281b504c7e2262b9", null ],
+      [ "EQUIPMENT_SLOT_FINGER2", "d3/d29/a00947.html#a93b8041f948d575ef2d23746324a37afa452d18cf712c55651e9573af053e7b74", null ],
+      [ "EQUIPMENT_SLOT_TRINKET1", "d3/d29/a00947.html#a93b8041f948d575ef2d23746324a37afa6c59392fb13158757074daa4831b9733", null ],
+      [ "EQUIPMENT_SLOT_TRINKET2", "d3/d29/a00947.html#a93b8041f948d575ef2d23746324a37afaef8af329fc694fb7b105354d4b40fb02", null ],
+      [ "EQUIPMENT_SLOT_BACK", "d3/d29/a00947.html#a93b8041f948d575ef2d23746324a37afab12fc5acedadf8b93d001debf14ad63a", null ],
+      [ "EQUIPMENT_SLOT_MAINHAND", "d3/d29/a00947.html#a93b8041f948d575ef2d23746324a37afa559e9d51b0cff8ac6448c07e005a13bd", null ],
+      [ "EQUIPMENT_SLOT_OFFHAND", "d3/d29/a00947.html#a93b8041f948d575ef2d23746324a37afab44cb19f2d7a24d14ef74748716cd731", null ],
+      [ "EQUIPMENT_SLOT_RANGED", "d3/d29/a00947.html#a93b8041f948d575ef2d23746324a37afafc73f33a54a6e48f474648a2ad5bd72a", null ],
+      [ "EQUIPMENT_SLOT_TABARD", "d3/d29/a00947.html#a93b8041f948d575ef2d23746324a37afa591f131493398617246860f52b2999b8", null ],
+      [ "EQUIPMENT_SLOT_END", "d3/d29/a00947.html#a93b8041f948d575ef2d23746324a37afa730f8fcebbadad4d0b2dadc86d8431d9", null ]
+    ] ],
+    [ "InstanceResetWarningType", "d3/d29/a00947.html#a96ff8529b2e55f6def4fe3c9dc1b5a4a", [
+      [ "RAID_INSTANCE_WARNING_HOURS", "d3/d29/a00947.html#a96ff8529b2e55f6def4fe3c9dc1b5a4aa997298918391902d13f306ff08b35468", null ],
+      [ "RAID_INSTANCE_WARNING_MIN", "d3/d29/a00947.html#a96ff8529b2e55f6def4fe3c9dc1b5a4aa2a33c9bcc1f691f568c1abbdabe196a9", null ],
+      [ "RAID_INSTANCE_WARNING_MIN_SOON", "d3/d29/a00947.html#a96ff8529b2e55f6def4fe3c9dc1b5a4aa92b66b96dffff8aadaf5c68b506f4679", null ],
+      [ "RAID_INSTANCE_WELCOME", "d3/d29/a00947.html#a96ff8529b2e55f6def4fe3c9dc1b5a4aadbecbf56496afcc6f2cc0abe2a838be0", null ],
+      [ "RAID_INSTANCE_EXPIRED", "d3/d29/a00947.html#a96ff8529b2e55f6def4fe3c9dc1b5a4aa5668120560a85c04a98bc285ef12a73a", null ]
+    ] ],
+    [ "InstantFlightGossipAction", "d3/d29/a00947.html#a514c5df95b0c6a0bc4b13808f94d8f82", [
+      [ "GOSSIP_ACTION_TOGGLE_INSTANT_FLIGHT", "d3/d29/a00947.html#a514c5df95b0c6a0bc4b13808f94d8f82aeb04c956cb16156f76c1f67ca27ecfbd", null ]
+    ] ],
+    [ "InventoryPackSlots", "d3/d29/a00947.html#a3f01594f5f05965df25a0f1ebba196f4", [
+      [ "INVENTORY_SLOT_ITEM_START", "d3/d29/a00947.html#a3f01594f5f05965df25a0f1ebba196f4a26ae565f8a97797a81412a9f148f28bb", null ],
+      [ "INVENTORY_SLOT_ITEM_END", "d3/d29/a00947.html#a3f01594f5f05965df25a0f1ebba196f4a8adf93fe675626b28fcba2ffce8d4e62", null ]
+    ] ],
+    [ "InventorySlots", "d3/d29/a00947.html#a7adbf9c1ce11a5e5f7661abba7c544f6", [
+      [ "INVENTORY_SLOT_BAG_START", "d3/d29/a00947.html#a7adbf9c1ce11a5e5f7661abba7c544f6a409cf3d00f62b16d53633aed142536dc", null ],
+      [ "INVENTORY_SLOT_BAG_END", "d3/d29/a00947.html#a7adbf9c1ce11a5e5f7661abba7c544f6a522331bc28cdac31f9a89bb65afdb32a", null ]
+    ] ],
+    [ "KeyRingSlots", "d3/d29/a00947.html#a3d6156ea4383f298702ee6c20c616536", [
+      [ "KEYRING_SLOT_START", "d3/d29/a00947.html#a3d6156ea4383f298702ee6c20c616536a14ef668000e8d99734cd26b5fdd3f558", null ],
+      [ "KEYRING_SLOT_END", "d3/d29/a00947.html#a3d6156ea4383f298702ee6c20c616536a035d2e4073a4495bc3691b8ae22395e7", null ]
+    ] ],
+    [ "MirrorTimerType", "d3/d29/a00947.html#ace7965b06d468750afb8d5bd36ca6103", [
+      [ "FATIGUE_TIMER", "d3/d29/a00947.html#ace7965b06d468750afb8d5bd36ca6103ac77fdbe212fe2d09fd2f8dea5cec42cf", null ],
+      [ "BREATH_TIMER", "d3/d29/a00947.html#ace7965b06d468750afb8d5bd36ca6103af02b0882bd022d38de23cdc52e5cd534", null ],
+      [ "FIRE_TIMER", "d3/d29/a00947.html#ace7965b06d468750afb8d5bd36ca6103a91c9a62241f28714002f84dbbddf768f", null ]
+    ] ],
+    [ "PlayedTimeIndex", "d3/d29/a00947.html#a93382b39331f08de3cbbd53229d1a966", [
+      [ "PLAYED_TIME_TOTAL", "d3/d29/a00947.html#a93382b39331f08de3cbbd53229d1a966a9bd2564ef499c6918f26493b7b7b88f1", null ],
+      [ "PLAYED_TIME_LEVEL", "d3/d29/a00947.html#a93382b39331f08de3cbbd53229d1a966afe747cb7121ea94f1ff5377dd28ea631", null ]
+    ] ],
+    [ "PlayerBytes2Offsets", "d3/d29/a00947.html#af0858438d4d40acde6f45de58256087c", [
+      [ "PLAYER_BYTES_2_OFFSET_FACIAL_STYLE", "d3/d29/a00947.html#af0858438d4d40acde6f45de58256087caf8b65f16aaa4162b898484c76ca83953", null ],
+      [ "PLAYER_BYTES_2_OFFSET_PARTY_TYPE", "d3/d29/a00947.html#af0858438d4d40acde6f45de58256087ca2362480d526006fd8afa52336da827c6", null ],
+      [ "PLAYER_BYTES_2_OFFSET_BANK_BAG_SLOTS", "d3/d29/a00947.html#af0858438d4d40acde6f45de58256087cab0a8de89700b92fe9110b4c10b512327", null ],
+      [ "PLAYER_BYTES_2_OFFSET_REST_STATE", "d3/d29/a00947.html#af0858438d4d40acde6f45de58256087cac8dae6cd939ee7db95dca98887eec153", null ]
+    ] ],
+    [ "PlayerBytes3Offsets", "d3/d29/a00947.html#aa866532c4cfec14f0827341a31b3d8ae", [
+      [ "PLAYER_BYTES_3_OFFSET_GENDER", "d3/d29/a00947.html#aa866532c4cfec14f0827341a31b3d8aea9f816808a43452dd8de18a457f9ac7d4", null ],
+      [ "PLAYER_BYTES_3_OFFSET_INEBRIATION", "d3/d29/a00947.html#aa866532c4cfec14f0827341a31b3d8aea789dbfba2b09af7744fe9be42895a480", null ],
+      [ "PLAYER_BYTES_3_OFFSET_PVP_TITLE", "d3/d29/a00947.html#aa866532c4cfec14f0827341a31b3d8aea66c67559ea4e01e2a8444b7ce1b2027c", null ],
+      [ "PLAYER_BYTES_3_OFFSET_ARENA_FACTION", "d3/d29/a00947.html#aa866532c4cfec14f0827341a31b3d8aead1ba2b09e3074f6714d365602dd98ca0", null ]
+    ] ],
+    [ "PlayerBytesOffsets", "d3/d29/a00947.html#ac8ff30d921f58b07bf6b61afbcd880b9", [
+      [ "PLAYER_BYTES_OFFSET_SKIN_ID", "d3/d29/a00947.html#ac8ff30d921f58b07bf6b61afbcd880b9ab9866b0d339beff1b603cf8acc0cdf93", null ],
+      [ "PLAYER_BYTES_OFFSET_FACE_ID", "d3/d29/a00947.html#ac8ff30d921f58b07bf6b61afbcd880b9ae54edeab8c5afb0816bf330bc2909300", null ],
+      [ "PLAYER_BYTES_OFFSET_HAIR_STYLE_ID", "d3/d29/a00947.html#ac8ff30d921f58b07bf6b61afbcd880b9ab28b8361c344fa65afc1128ba336386d", null ],
+      [ "PLAYER_BYTES_OFFSET_HAIR_COLOR_ID", "d3/d29/a00947.html#ac8ff30d921f58b07bf6b61afbcd880b9a1df3b5cabb7455a3e1beea706f79651d", null ]
+    ] ],
+    [ "PlayerCharmedAISpells", "d3/d29/a00947.html#a00eb82cc89fc1cd7281f54868c48c2f6", [
+      [ "SPELL_T_STUN", "d3/d29/a00947.html#a00eb82cc89fc1cd7281f54868c48c2f6af10aa0d65a4e380202bb59d2de620714", null ],
+      [ "SPELL_ROOT_OR_FEAR", "d3/d29/a00947.html#a00eb82cc89fc1cd7281f54868c48c2f6a70fc08e609917c4e5d58b7a2d55db1cc", null ],
+      [ "SPELL_INSTANT_DAMAGE", "d3/d29/a00947.html#a00eb82cc89fc1cd7281f54868c48c2f6abbcf01a6e62e367511dcdadd25d0aabf", null ],
+      [ "SPELL_INSTANT_DAMAGE2", "d3/d29/a00947.html#a00eb82cc89fc1cd7281f54868c48c2f6aa3d02e6db3fa69e2b6bf5b65a7bfb4a8", null ],
+      [ "SPELL_HIGH_DAMAGE1", "d3/d29/a00947.html#a00eb82cc89fc1cd7281f54868c48c2f6a11c55883564b2e07ad509d554f77762e", null ],
+      [ "SPELL_HIGH_DAMAGE2", "d3/d29/a00947.html#a00eb82cc89fc1cd7281f54868c48c2f6aa30ffd7492e09918ba36877b89ec418e", null ],
+      [ "SPELL_DOT_DAMAGE", "d3/d29/a00947.html#a00eb82cc89fc1cd7281f54868c48c2f6ad72337b94b0ebb1e76c6fd5816ab5b68", null ],
+      [ "SPELL_T_CHARGE", "d3/d29/a00947.html#a00eb82cc89fc1cd7281f54868c48c2f6acbd98944ea291d0184231e6f11ce8809", null ],
+      [ "SPELL_IMMUNITY", "d3/d29/a00947.html#a00eb82cc89fc1cd7281f54868c48c2f6af1748f748ca32c5a9461a421445582cb", null ],
+      [ "SPELL_FAST_RUN", "d3/d29/a00947.html#a00eb82cc89fc1cd7281f54868c48c2f6ae9de3dd1ad6d6efc4537606f58c5d640", null ],
+      [ "NUM_CAI_SPELLS", "d3/d29/a00947.html#a00eb82cc89fc1cd7281f54868c48c2f6a09e4ad317ccb138b643393069d1cd1ea", null ]
+    ] ],
+    [ "PlayerChatTag", "d3/d29/a00947.html#ae1f5dfd68177d7823343e24d6f44ad53", [
+      [ "CHAT_TAG_NONE", "d3/d29/a00947.html#ae1f5dfd68177d7823343e24d6f44ad53afe80129742a819c84d6da0a747ba1b36", null ],
+      [ "CHAT_TAG_AFK", "d3/d29/a00947.html#ae1f5dfd68177d7823343e24d6f44ad53ac8b97a1b06be376b49dd64694c3663f7", null ],
+      [ "CHAT_TAG_DND", "d3/d29/a00947.html#ae1f5dfd68177d7823343e24d6f44ad53ab4f87786eeaf27915252193213b51e5c", null ],
+      [ "CHAT_TAG_GM", "d3/d29/a00947.html#ae1f5dfd68177d7823343e24d6f44ad53ad5474de19aaafacb575a7d6fbd298378", null ],
+      [ "CHAT_TAG_COM", "d3/d29/a00947.html#ae1f5dfd68177d7823343e24d6f44ad53a7f7c7f88e57bb73d47601fbe96281658", null ],
+      [ "CHAT_TAG_DEV", "d3/d29/a00947.html#ae1f5dfd68177d7823343e24d6f44ad53ab873f9e42d0dd15454f51e700b82a6f8", null ]
+    ] ],
+    [ "PlayerCommandStates", "d3/d29/a00947.html#a61317a227dcccc7286c2b0be21765bf0", [
+      [ "CHEAT_NONE", "d3/d29/a00947.html#a61317a227dcccc7286c2b0be21765bf0a6321885aaf188d15b1d74b083f64787a", null ],
+      [ "CHEAT_GOD", "d3/d29/a00947.html#a61317a227dcccc7286c2b0be21765bf0a5edd523d90e565a8ffef16e7ace445f0", null ],
+      [ "CHEAT_CASTTIME", "d3/d29/a00947.html#a61317a227dcccc7286c2b0be21765bf0adf36a7d9a6b1bbc4957ec3a129dcdcba", null ],
+      [ "CHEAT_COOLDOWN", "d3/d29/a00947.html#a61317a227dcccc7286c2b0be21765bf0a41052e06213fa21f1fa755383982830c", null ],
+      [ "CHEAT_POWER", "d3/d29/a00947.html#a61317a227dcccc7286c2b0be21765bf0a558611f91d3bf07f1f74010b1605fac5", null ],
+      [ "CHEAT_WATERWALK", "d3/d29/a00947.html#a61317a227dcccc7286c2b0be21765bf0adb8bea6aeb84b38bbf5011c542391f51", null ]
+    ] ],
+    [ "PlayerDelayedOperations", "d3/d29/a00947.html#a624afc8e329c958087cc3bb6d83d5362", [
+      [ "DELAYED_SAVE_PLAYER", "d3/d29/a00947.html#a624afc8e329c958087cc3bb6d83d5362a4e85f13a93421ba527a2804bccb20707", null ],
+      [ "DELAYED_RESURRECT_PLAYER", "d3/d29/a00947.html#a624afc8e329c958087cc3bb6d83d5362aee275bab03f9a6d2b3896764a56d7a93", null ],
+      [ "DELAYED_SPELL_CAST_DESERTER", "d3/d29/a00947.html#a624afc8e329c958087cc3bb6d83d5362ab976aa8d517fc2ff8e89f51b5fb0149d", null ],
+      [ "DELAYED_BG_MOUNT_RESTORE", "d3/d29/a00947.html#a624afc8e329c958087cc3bb6d83d5362a5b595aaedd09c68e43dc61f52620b08d", null ],
+      [ "DELAYED_BG_TAXI_RESTORE", "d3/d29/a00947.html#a624afc8e329c958087cc3bb6d83d5362aa29364738b109d56711428a9337e07f1", null ],
+      [ "DELAYED_BG_GROUP_RESTORE", "d3/d29/a00947.html#a624afc8e329c958087cc3bb6d83d5362a2f9ea66747c92ff0e2e288e9fbed2e98", null ],
+      [ "DELAYED_VEHICLE_TELEPORT", "d3/d29/a00947.html#a624afc8e329c958087cc3bb6d83d5362a72f791ab60822040e0d2bc1c6073b2b6", null ],
+      [ "DELAYED_END", "d3/d29/a00947.html#a624afc8e329c958087cc3bb6d83d5362a4accb9039dcb370e1d8fca7f8c3bdeb3", null ]
+    ] ],
+    [ "PlayerExtraFlags", "d3/d29/a00947.html#a3ab88b258808534e161f229800cfa0ec", [
+      [ "PLAYER_EXTRA_GM_ON", "d3/d29/a00947.html#a3ab88b258808534e161f229800cfa0eca2a49f9c4e06bb3d4f3b8415e42329aea", null ],
+      [ "PLAYER_EXTRA_ACCEPT_WHISPERS", "d3/d29/a00947.html#a3ab88b258808534e161f229800cfa0eca436ab7736cb36870980253692f9b68d0", null ],
+      [ "PLAYER_EXTRA_TAXICHEAT", "d3/d29/a00947.html#a3ab88b258808534e161f229800cfa0eca938ea85001baaf2073af57ded0411a02", null ],
+      [ "PLAYER_EXTRA_GM_INVISIBLE", "d3/d29/a00947.html#a3ab88b258808534e161f229800cfa0eca50fd4c0e9d997797b467986f29d0988a", null ],
+      [ "PLAYER_EXTRA_GM_CHAT", "d3/d29/a00947.html#a3ab88b258808534e161f229800cfa0ecaf0285b1075903e68a12c5496fa0db458", null ],
+      [ "PLAYER_EXTRA_HAS_310_FLYER", "d3/d29/a00947.html#a3ab88b258808534e161f229800cfa0eca82331fcdf3f4cc99367b74b224153cdc", null ],
+      [ "PLAYER_EXTRA_SPECTATOR_ON", "d3/d29/a00947.html#a3ab88b258808534e161f229800cfa0ecac950ed5e60136d7150be960ae38420fd", null ],
+      [ "PLAYER_EXTRA_PVP_DEATH", "d3/d29/a00947.html#a3ab88b258808534e161f229800cfa0ecad9fc309580a3e8ac23871eab1c8ce586", null ],
+      [ "PLAYER_EXTRA_SHOW_DK_PET", "d3/d29/a00947.html#a3ab88b258808534e161f229800cfa0eca883035687dbce2bb8cd1a4293c9df599", null ],
+      [ "PLAYER_EXTRA_GM_SPECTATOR", "d3/d29/a00947.html#a3ab88b258808534e161f229800cfa0eca289e35f422e3e84106e0cc44327352bb", null ]
+    ] ],
+    [ "PlayerFieldByte2Flags", "d3/d29/a00947.html#a29b0496d910c02e5cc98d349c4427474", [
+      [ "PLAYER_FIELD_BYTE2_NONE", "d3/d29/a00947.html#a29b0496d910c02e5cc98d349c4427474abe76b28df20592b4328b9d9ea04da780", null ],
+      [ "PLAYER_FIELD_BYTE2_STEALTH", "d3/d29/a00947.html#a29b0496d910c02e5cc98d349c4427474a1c01d4f3e3f54b6e479482ce3f3fc9dd", null ],
+      [ "PLAYER_FIELD_BYTE2_INVISIBILITY_GLOW", "d3/d29/a00947.html#a29b0496d910c02e5cc98d349c4427474a512b317a67d45505043fcae61dcca393", null ]
+    ] ],
+    [ "PlayerFieldByteFlags", "d3/d29/a00947.html#a31ae2504a623eb1746ff5da8a1902333", [
+      [ "PLAYER_FIELD_BYTE_TRACK_STEALTHED", "d3/d29/a00947.html#a31ae2504a623eb1746ff5da8a1902333aaf1cbce95c600ce8b27067d9c8f47da8", null ],
+      [ "PLAYER_FIELD_BYTE_RELEASE_TIMER", "d3/d29/a00947.html#a31ae2504a623eb1746ff5da8a1902333adf79443adab6dafc6a7ec2546b3db2b6", null ],
+      [ "PLAYER_FIELD_BYTE_NO_RELEASE_WINDOW", "d3/d29/a00947.html#a31ae2504a623eb1746ff5da8a1902333a72cfc6f89a9aaadecf8342b412a3ba56", null ]
+    ] ],
+    [ "PlayerFieldBytes2Offsets", "d3/d29/a00947.html#ae0c57a2bb851b9d5a88e5d5fef69f939", [
+      [ "PLAYER_FIELD_BYTES_2_OFFSET_OVERRIDE_SPELLS_ID", "d3/d29/a00947.html#ae0c57a2bb851b9d5a88e5d5fef69f939a4476cda19355fddd2fbfdfb3683421ba", null ],
+      [ "PLAYER_FIELD_BYTES_2_OFFSET_IGNORE_POWER_REGEN_PREDICTION_MASK", "d3/d29/a00947.html#ae0c57a2bb851b9d5a88e5d5fef69f939ab467688094fd105e608cb31d0f90ffd2", null ],
+      [ "PLAYER_FIELD_BYTES_2_OFFSET_AURA_VISION", "d3/d29/a00947.html#ae0c57a2bb851b9d5a88e5d5fef69f939a9ad97828a3dd598a45dcbbcd3969879b", null ]
+    ] ],
+    [ "PlayerFieldBytesOffsets", "d3/d29/a00947.html#a5e9744509412555082b9a7dbd0fb839a", [
+      [ "PLAYER_FIELD_BYTES_OFFSET_FLAGS", "d3/d29/a00947.html#a5e9744509412555082b9a7dbd0fb839aa9fc83204307206d55f7ffdb0a6b0bb51", null ],
+      [ "PLAYER_FIELD_BYTES_OFFSET_RAF_GRANTABLE_LEVEL", "d3/d29/a00947.html#a5e9744509412555082b9a7dbd0fb839aa72924722773b8ee1a68c5b49bde19a50", null ],
+      [ "PLAYER_FIELD_BYTES_OFFSET_ACTION_BAR_TOGGLES", "d3/d29/a00947.html#a5e9744509412555082b9a7dbd0fb839aa4138f24d0d9062ef2f2469c492d17eaa", null ],
+      [ "PLAYER_FIELD_BYTES_OFFSET_LIFETIME_MAX_PVP_RANK", "d3/d29/a00947.html#a5e9744509412555082b9a7dbd0fb839aa31dae97c3d3e590ed0010d487ad206c5", null ]
+    ] ],
+    [ "PlayerFlags", "d3/d29/a00947.html#a3ff501fa2c348b8887c3e9eac3ab7dcd", [
+      [ "PLAYER_FLAGS_GROUP_LEADER", "d3/d29/a00947.html#a3ff501fa2c348b8887c3e9eac3ab7dcda68aeeecc2703ca6b7aa4185b8aa41548", null ],
+      [ "PLAYER_FLAGS_AFK", "d3/d29/a00947.html#a3ff501fa2c348b8887c3e9eac3ab7dcda8de0423ce1a8d2ebbbb183eadd16395c", null ],
+      [ "PLAYER_FLAGS_DND", "d3/d29/a00947.html#a3ff501fa2c348b8887c3e9eac3ab7dcda1922f0681c50a674bc3c66a3b6c1c74c", null ],
+      [ "PLAYER_FLAGS_GM", "d3/d29/a00947.html#a3ff501fa2c348b8887c3e9eac3ab7dcda9a591d06e9f3ca54de79e7b643d468f9", null ],
+      [ "PLAYER_FLAGS_GHOST", "d3/d29/a00947.html#a3ff501fa2c348b8887c3e9eac3ab7dcda8972cf61a8fe94379d50f9b737894863", null ],
+      [ "PLAYER_FLAGS_RESTING", "d3/d29/a00947.html#a3ff501fa2c348b8887c3e9eac3ab7dcda73d7f97ed3311ab8d4adc27637e12c74", null ],
+      [ "PLAYER_FLAGS_UNK6", "d3/d29/a00947.html#a3ff501fa2c348b8887c3e9eac3ab7dcdab6efe0fd257bd42bab3bc710022e7f17", null ],
+      [ "PLAYER_FLAGS_UNK7", "d3/d29/a00947.html#a3ff501fa2c348b8887c3e9eac3ab7dcdace90ec83a930ddb21a9913d5ff5cd406", null ],
+      [ "PLAYER_FLAGS_CONTESTED_PVP", "d3/d29/a00947.html#a3ff501fa2c348b8887c3e9eac3ab7dcda41798f78d62382fc517da86534ad7191", null ],
+      [ "PLAYER_FLAGS_IN_PVP", "d3/d29/a00947.html#a3ff501fa2c348b8887c3e9eac3ab7dcda3545e357a3349ee42fad9ec871660880", null ],
+      [ "PLAYER_FLAGS_HIDE_HELM", "d3/d29/a00947.html#a3ff501fa2c348b8887c3e9eac3ab7dcda9e11b33b95bd42aca29ab5133c3a1458", null ],
+      [ "PLAYER_FLAGS_HIDE_CLOAK", "d3/d29/a00947.html#a3ff501fa2c348b8887c3e9eac3ab7dcda3bc0762eb887939b2925dc398760df88", null ],
+      [ "PLAYER_FLAGS_PLAYED_LONG_TIME", "d3/d29/a00947.html#a3ff501fa2c348b8887c3e9eac3ab7dcda3f3fca6123651e9953a9ffad63d9514e", null ],
+      [ "PLAYER_FLAGS_PLAYED_TOO_LONG", "d3/d29/a00947.html#a3ff501fa2c348b8887c3e9eac3ab7dcdaf37665d503e10a5455b19db05abeac6d", null ],
+      [ "PLAYER_FLAGS_IS_OUT_OF_BOUNDS", "d3/d29/a00947.html#a3ff501fa2c348b8887c3e9eac3ab7dcda75e9eb6779326cc091b249095ec088de", null ],
+      [ "PLAYER_FLAGS_DEVELOPER", "d3/d29/a00947.html#a3ff501fa2c348b8887c3e9eac3ab7dcdad3543facaa972a3870711eed101862a7", null ],
+      [ "PLAYER_FLAGS_UNK16", "d3/d29/a00947.html#a3ff501fa2c348b8887c3e9eac3ab7dcda945e4b3576964b0f0d216c1c7f5184f5", null ],
+      [ "PLAYER_FLAGS_TAXI_BENCHMARK", "d3/d29/a00947.html#a3ff501fa2c348b8887c3e9eac3ab7dcda9cf3750d7552ebb5c2801370a2d8cae6", null ],
+      [ "PLAYER_FLAGS_PVP_TIMER", "d3/d29/a00947.html#a3ff501fa2c348b8887c3e9eac3ab7dcdadc8433300089ff8f6753b673ca882555", null ],
+      [ "PLAYER_FLAGS_UBER", "d3/d29/a00947.html#a3ff501fa2c348b8887c3e9eac3ab7dcdade3b43a1bbf6f2d8516c9d735428acdf", null ],
+      [ "PLAYER_FLAGS_UNK20", "d3/d29/a00947.html#a3ff501fa2c348b8887c3e9eac3ab7dcda98fa49b932c897b052a6065a1979045b", null ],
+      [ "PLAYER_FLAGS_UNK21", "d3/d29/a00947.html#a3ff501fa2c348b8887c3e9eac3ab7dcdac5e8eab8c4196f92de3594622aca33c0", null ],
+      [ "PLAYER_FLAGS_COMMENTATOR2", "d3/d29/a00947.html#a3ff501fa2c348b8887c3e9eac3ab7dcdab50eb322566282f008ccf8b31b3d4f0f", null ],
+      [ "PLAYER_ALLOW_ONLY_ABILITY", "d3/d29/a00947.html#a3ff501fa2c348b8887c3e9eac3ab7dcda0d4e89dc06c8c0976de45352f9800b9b", null ],
+      [ "PLAYER_FLAGS_UNK24", "d3/d29/a00947.html#a3ff501fa2c348b8887c3e9eac3ab7dcdaafe983a21f5af3651a9a9ba18d78368e", null ],
+      [ "PLAYER_FLAGS_NO_XP_GAIN", "d3/d29/a00947.html#a3ff501fa2c348b8887c3e9eac3ab7dcda64495577dd93a1ecb57289c309bcce6b", null ],
+      [ "PLAYER_FLAGS_UNK26", "d3/d29/a00947.html#a3ff501fa2c348b8887c3e9eac3ab7dcda6686aeb9c65234c7326dbbfa0ce8ffa7", null ],
+      [ "PLAYER_FLAGS_UNK27", "d3/d29/a00947.html#a3ff501fa2c348b8887c3e9eac3ab7dcda65f43c5507b5355b67a2fa8a57300cd6", null ],
+      [ "PLAYER_FLAGS_UNK28", "d3/d29/a00947.html#a3ff501fa2c348b8887c3e9eac3ab7dcda1521a029dd4d9ba0200277fa1f5f0c8b", null ],
+      [ "PLAYER_FLAGS_UNK29", "d3/d29/a00947.html#a3ff501fa2c348b8887c3e9eac3ab7dcdacb817aae054f9273b52ae3635263178d", null ],
+      [ "PLAYER_FLAGS_UNK30", "d3/d29/a00947.html#a3ff501fa2c348b8887c3e9eac3ab7dcdaea1a3ba6a500419cfd42de42350e6e0a", null ],
+      [ "PLAYER_FLAGS_UNK31", "d3/d29/a00947.html#a3ff501fa2c348b8887c3e9eac3ab7dcdac1fdfbf7b447fed24e578f248295f2b6", null ]
+    ] ],
+    [ "PlayerLoginQueryIndex", "d3/d29/a00947.html#af771ff47a13b9f47e9729c8194ff7642", [
+      [ "PLAYER_LOGIN_QUERY_LOAD_FROM", "d3/d29/a00947.html#af771ff47a13b9f47e9729c8194ff7642a7b7bfe3f127f7ec0c54dbc5d6fa72224", null ],
+      [ "PLAYER_LOGIN_QUERY_LOAD_AURAS", "d3/d29/a00947.html#af771ff47a13b9f47e9729c8194ff7642ac112333f3bb03ac100c0b5abdce5881b", null ],
+      [ "PLAYER_LOGIN_QUERY_LOAD_SPELLS", "d3/d29/a00947.html#af771ff47a13b9f47e9729c8194ff7642ad92cd7d144f413760b1aa1a74b5c4313", null ],
+      [ "PLAYER_LOGIN_QUERY_LOAD_QUEST_STATUS", "d3/d29/a00947.html#af771ff47a13b9f47e9729c8194ff7642a7d91cea1d2e3efb047aa1e26fda8a02f", null ],
+      [ "PLAYER_LOGIN_QUERY_LOAD_DAILY_QUEST_STATUS", "d3/d29/a00947.html#af771ff47a13b9f47e9729c8194ff7642a17d0b8c1af73770b22b760274fbc1e3b", null ],
+      [ "PLAYER_LOGIN_QUERY_LOAD_REPUTATION", "d3/d29/a00947.html#af771ff47a13b9f47e9729c8194ff7642a6f6fc6f3ee18b1e6446cf232de93d001", null ],
+      [ "PLAYER_LOGIN_QUERY_LOAD_INVENTORY", "d3/d29/a00947.html#af771ff47a13b9f47e9729c8194ff7642a68902dc1b2d7ad2500c6c81428cb857e", null ],
+      [ "PLAYER_LOGIN_QUERY_LOAD_ACTIONS", "d3/d29/a00947.html#af771ff47a13b9f47e9729c8194ff7642a3c0dc471156066e1f93eef09038734c7", null ],
+      [ "PLAYER_LOGIN_QUERY_LOAD_MAILS", "d3/d29/a00947.html#af771ff47a13b9f47e9729c8194ff7642abce85e07bea91774a5bca937868974a7", null ],
+      [ "PLAYER_LOGIN_QUERY_LOAD_MAIL_ITEMS", "d3/d29/a00947.html#af771ff47a13b9f47e9729c8194ff7642a5ec11a18bcb6ace53b4797101bbde00c", null ],
+      [ "PLAYER_LOGIN_QUERY_LOAD_SOCIAL_LIST", "d3/d29/a00947.html#af771ff47a13b9f47e9729c8194ff7642a34f9aed951f7174bf746f968e21d8feb", null ],
+      [ "PLAYER_LOGIN_QUERY_LOAD_HOME_BIND", "d3/d29/a00947.html#af771ff47a13b9f47e9729c8194ff7642ad8de78aba076eeddad90ddfb1904acb4", null ],
+      [ "PLAYER_LOGIN_QUERY_LOAD_SPELL_COOLDOWNS", "d3/d29/a00947.html#af771ff47a13b9f47e9729c8194ff7642a04b607f54913caeb2a40cfc695100e5a", null ],
+      [ "PLAYER_LOGIN_QUERY_LOAD_DECLINED_NAMES", "d3/d29/a00947.html#af771ff47a13b9f47e9729c8194ff7642a0e1b971c04624c009b2d6481f7f1a5ad", null ],
+      [ "PLAYER_LOGIN_QUERY_LOAD_ACHIEVEMENTS", "d3/d29/a00947.html#af771ff47a13b9f47e9729c8194ff7642afe7c98a9d577b9782c7de35a15ad8232", null ],
+      [ "PLAYER_LOGIN_QUERY_LOAD_CRITERIA_PROGRESS", "d3/d29/a00947.html#af771ff47a13b9f47e9729c8194ff7642ad653cf13e5231e6680afd99120e42045", null ],
+      [ "PLAYER_LOGIN_QUERY_LOAD_EQUIPMENT_SETS", "d3/d29/a00947.html#af771ff47a13b9f47e9729c8194ff7642abcc9cd3307342c470864c5232cbe1602", null ],
+      [ "PLAYER_LOGIN_QUERY_LOAD_ENTRY_POINT", "d3/d29/a00947.html#af771ff47a13b9f47e9729c8194ff7642a9f68d1e711c13868013af738e3731fce", null ],
+      [ "PLAYER_LOGIN_QUERY_LOAD_GLYPHS", "d3/d29/a00947.html#af771ff47a13b9f47e9729c8194ff7642a07f24c7d8acbfbbf2203039ed6ab31f2", null ],
+      [ "PLAYER_LOGIN_QUERY_LOAD_TALENTS", "d3/d29/a00947.html#af771ff47a13b9f47e9729c8194ff7642ac4817fdcd8fd66c1a959affd9c188b3b", null ],
+      [ "PLAYER_LOGIN_QUERY_LOAD_ACCOUNT_DATA", "d3/d29/a00947.html#af771ff47a13b9f47e9729c8194ff7642a5ab3dc5780ed38c378f22bdd33fac71f", null ],
+      [ "PLAYER_LOGIN_QUERY_LOAD_SKILLS", "d3/d29/a00947.html#af771ff47a13b9f47e9729c8194ff7642a416209be4f7877016f0779661e614843", null ],
+      [ "PLAYER_LOGIN_QUERY_LOAD_WEEKLY_QUEST_STATUS", "d3/d29/a00947.html#af771ff47a13b9f47e9729c8194ff7642aa84daee941deaa9465e8f9adf7db4fab", null ],
+      [ "PLAYER_LOGIN_QUERY_LOAD_RANDOM_BG", "d3/d29/a00947.html#af771ff47a13b9f47e9729c8194ff7642af8ff8bb6ce32913b78c503a405ba3838", null ],
+      [ "PLAYER_LOGIN_QUERY_LOAD_BANNED", "d3/d29/a00947.html#af771ff47a13b9f47e9729c8194ff7642ac8f893fe88ae505423660703e3318e13", null ],
+      [ "PLAYER_LOGIN_QUERY_LOAD_QUEST_STATUS_REW", "d3/d29/a00947.html#af771ff47a13b9f47e9729c8194ff7642a11c0c2abb503e0973cca94e85be82c1f", null ],
+      [ "PLAYER_LOGIN_QUERY_LOAD_INSTANCE_LOCK_TIMES", "d3/d29/a00947.html#af771ff47a13b9f47e9729c8194ff7642a1e75c28178dfc546276bb2093def8222", null ],
+      [ "PLAYER_LOGIN_QUERY_LOAD_SEASONAL_QUEST_STATUS", "d3/d29/a00947.html#af771ff47a13b9f47e9729c8194ff7642a31fe9a75d113d8bc609b5920a3beb58f", null ],
+      [ "PLAYER_LOGIN_QUERY_LOAD_MONTHLY_QUEST_STATUS", "d3/d29/a00947.html#af771ff47a13b9f47e9729c8194ff7642ab15c55703b5652e3a500a1c59b81d631", null ],
+      [ "PLAYER_LOGIN_QUERY_LOAD_BREW_OF_THE_MONTH", "d3/d29/a00947.html#af771ff47a13b9f47e9729c8194ff7642a7508391d960a6de420793c5bd5f4beef", null ],
+      [ "PLAYER_LOGIN_QUERY_LOAD_CORPSE_LOCATION", "d3/d29/a00947.html#af771ff47a13b9f47e9729c8194ff7642ad90294e95f05bb57c51a6d1475887a4d", null ],
+      [ "PLAYER_LOGIN_QUERY_LOAD_CHARACTER_SETTINGS", "d3/d29/a00947.html#af771ff47a13b9f47e9729c8194ff7642a1abb0ff4a0fbc5f54a87fb01ec162ff1", null ],
+      [ "PLAYER_LOGIN_QUERY_LOAD_PET_SLOTS", "d3/d29/a00947.html#af771ff47a13b9f47e9729c8194ff7642a6796b2b4b6ce39c865e4a545445926f7", null ],
+      [ "PLAYER_LOGIN_QUERY_LOAD_OFFLINE_ACHIEVEMENTS_UPDATES", "d3/d29/a00947.html#af771ff47a13b9f47e9729c8194ff7642aa7fa236460753ca152d546a9397f89e2", null ],
+      [ "MAX_PLAYER_LOGIN_QUERY", "d3/d29/a00947.html#af771ff47a13b9f47e9729c8194ff7642a13e3b1b23530ab3ae516dd6b39df0164", null ]
+    ] ],
+    [ "PlayerMovementType", "d3/d29/a00947.html#a7cf3ef458239d83cc218960ce090ac91", [
+      [ "MOVE_ROOT", "d3/d29/a00947.html#a7cf3ef458239d83cc218960ce090ac91a174faae27f7a5cb43fd776338f97b0be", null ],
+      [ "MOVE_UNROOT", "d3/d29/a00947.html#a7cf3ef458239d83cc218960ce090ac91a26df74b6f6d136c8c7ec9f503e66f152", null ],
+      [ "MOVE_WATER_WALK", "d3/d29/a00947.html#a7cf3ef458239d83cc218960ce090ac91acedb9d51561c12e42f385009d07e2207", null ],
+      [ "MOVE_LAND_WALK", "d3/d29/a00947.html#a7cf3ef458239d83cc218960ce090ac91ad3c6af56c3c0aa946a3b53a0fb05078c", null ]
+    ] ],
+    [ "PlayerRestState", "d3/d29/a00947.html#ab6046cc6e043004b533c669be1dc95a8", [
+      [ "REST_STATE_RESTED", "d3/d29/a00947.html#ab6046cc6e043004b533c669be1dc95a8a43e609d4309527a1344f62f72ac6a861", null ],
+      [ "REST_STATE_NOT_RAF_LINKED", "d3/d29/a00947.html#ab6046cc6e043004b533c669be1dc95a8ac2c1ad4aa095c43d0bd16933f220dae7", null ],
+      [ "REST_STATE_RAF_LINKED", "d3/d29/a00947.html#ab6046cc6e043004b533c669be1dc95a8a756758e20568fa43014daae863cf07d1", null ]
+    ] ],
+    [ "PlayerSlots", "d3/d29/a00947.html#af59383be59ca1d77ff918e40494cc38b", [
+      [ "PLAYER_SLOT_START", "d3/d29/a00947.html#af59383be59ca1d77ff918e40494cc38baba6e6d37f461ac68b007f7cbb77513ec", null ],
+      [ "PLAYER_SLOT_END", "d3/d29/a00947.html#af59383be59ca1d77ff918e40494cc38bac237277423fec6615d1e7edae681f63b", null ],
+      [ "PLAYER_SLOTS_COUNT", "d3/d29/a00947.html#af59383be59ca1d77ff918e40494cc38ba6f014774c7004f9e99c4457446df0ff1", null ]
+    ] ],
+    [ "PlayerSpellState", "d3/d29/a00947.html#aeba4f8d5fc0fa3fd00538df69077ba55", [
+      [ "PLAYERSPELL_UNCHANGED", "d3/d29/a00947.html#aeba4f8d5fc0fa3fd00538df69077ba55a3d895d03802b444cce65a8021262a638", null ],
+      [ "PLAYERSPELL_CHANGED", "d3/d29/a00947.html#aeba4f8d5fc0fa3fd00538df69077ba55a598b808ff4ad6c853b4a3b0474944bfc", null ],
+      [ "PLAYERSPELL_NEW", "d3/d29/a00947.html#aeba4f8d5fc0fa3fd00538df69077ba55ab6092cbafa41540e9b6318f88eed9285", null ],
+      [ "PLAYERSPELL_REMOVED", "d3/d29/a00947.html#aeba4f8d5fc0fa3fd00538df69077ba55a1a8411f74fdb6a5715ed8cfca6b96a50", null ],
+      [ "PLAYERSPELL_TEMPORARY", "d3/d29/a00947.html#aeba4f8d5fc0fa3fd00538df69077ba55ae7b3962029a439947e7dda8ddd9882c6", null ]
+    ] ],
+    [ "PlayerUnderwaterState", "d3/d29/a00947.html#a95f398bf1c0950ba72e11f4a395aba29", [
+      [ "UNDERWATER_NONE", "d3/d29/a00947.html#a95f398bf1c0950ba72e11f4a395aba29a204b03b1b48f61ad7570fd091374ff39", null ],
+      [ "UNDERWATER_INWATER", "d3/d29/a00947.html#a95f398bf1c0950ba72e11f4a395aba29a8571e08d528628519afbdf44b5628360", null ],
+      [ "UNDERWATER_INLAVA", "d3/d29/a00947.html#a95f398bf1c0950ba72e11f4a395aba29aba8380ee5a74eee5ae932cb7f270a800", null ],
+      [ "UNDERWATER_INSLIME", "d3/d29/a00947.html#a95f398bf1c0950ba72e11f4a395aba29a25f92c2b2ab3c1d261f1c79eb54be9b0", null ],
+      [ "UNDERWATER_INDARKWATER", "d3/d29/a00947.html#a95f398bf1c0950ba72e11f4a395aba29a1409f730f8ce0935d0987666ec35724b", null ],
+      [ "UNDERWATER_EXIST_TIMERS", "d3/d29/a00947.html#a95f398bf1c0950ba72e11f4a395aba29a6f0108f107fd1e87a1e4dfd13b5208b1", null ]
+    ] ],
+    [ "PlayerXPSource", "d3/d29/a00947.html#a75f8edcec885477d69dc4642bc33d0c0", [
+      [ "XPSOURCE_KILL", "d3/d29/a00947.html#a75f8edcec885477d69dc4642bc33d0c0a6bfe592fb6b291a4b36a368622993c41", null ],
+      [ "XPSOURCE_QUEST", "d3/d29/a00947.html#a75f8edcec885477d69dc4642bc33d0c0a91bcc18424dfcded1b00779f5d1a7549", null ],
+      [ "XPSOURCE_QUEST_DF", "d3/d29/a00947.html#a75f8edcec885477d69dc4642bc33d0c0ae42fb772378eda3f5bb08dcd53e4b36c", null ],
+      [ "XPSOURCE_EXPLORE", "d3/d29/a00947.html#a75f8edcec885477d69dc4642bc33d0c0ac32f530381d1dffef4d64471ab064f24", null ],
+      [ "XPSOURCE_BATTLEGROUND", "d3/d29/a00947.html#a75f8edcec885477d69dc4642bc33d0c0a22f1eb514a3b39d4d56ab6674462a108", null ]
+    ] ],
+    [ "QuestSlotOffsets", "d3/d29/a00947.html#a7c33ee51eabd76272609a0ca6e26f315", [
+      [ "QUEST_ID_OFFSET", "d3/d29/a00947.html#a7c33ee51eabd76272609a0ca6e26f315a4cf928a289d9c1cdfffc50383ce347e9", null ],
+      [ "QUEST_STATE_OFFSET", "d3/d29/a00947.html#a7c33ee51eabd76272609a0ca6e26f315ae8065357c205da7fc10a440372f89188", null ],
+      [ "QUEST_COUNTS_OFFSET", "d3/d29/a00947.html#a7c33ee51eabd76272609a0ca6e26f315a78781e33f9bef26795dc1d4080c90636", null ],
+      [ "QUEST_TIME_OFFSET", "d3/d29/a00947.html#a7c33ee51eabd76272609a0ca6e26f315a12d05f2c63b809813d6d54c174f93598", null ]
+    ] ],
+    [ "QuestSlotStateMask", "d3/d29/a00947.html#a2d079af58ae5bf704ea2b958307a5196", [
+      [ "QUEST_STATE_NONE", "d3/d29/a00947.html#a2d079af58ae5bf704ea2b958307a5196aa0fcb1405df6995fae9176032524522a", null ],
+      [ "QUEST_STATE_COMPLETE", "d3/d29/a00947.html#a2d079af58ae5bf704ea2b958307a5196a61b0594f1dd162d5a1dcff7103cecfc2", null ],
+      [ "QUEST_STATE_FAIL", "d3/d29/a00947.html#a2d079af58ae5bf704ea2b958307a5196a94e8ba97d7ae5f33b87bab4d23ffb39f", null ]
+    ] ],
+    [ "QuestSound", "d3/d29/a00947.html#a017a9adaae6aa5e8fc321ee6b10482a0", [
+      [ "QUEST_SOUND_FAILURE", "d3/d29/a00947.html#a017a9adaae6aa5e8fc321ee6b10482a0a6dc8ede9aeb9e538d3ca3f123bb564a0", null ]
+    ] ],
+    [ "ReferAFriendError", "d3/d29/a00947.html#a1540bb0af13f9b9cfd024dca6c5b92c1", [
+      [ "ERR_REFER_A_FRIEND_NONE", "d3/d29/a00947.html#a1540bb0af13f9b9cfd024dca6c5b92c1a427be4b54d50f8d80cf65318d2a7123f", null ],
+      [ "ERR_REFER_A_FRIEND_NOT_REFERRED_BY", "d3/d29/a00947.html#a1540bb0af13f9b9cfd024dca6c5b92c1a828aaa27bf0c8c50b78fd83bc489da2c", null ],
+      [ "ERR_REFER_A_FRIEND_TARGET_TOO_HIGH", "d3/d29/a00947.html#a1540bb0af13f9b9cfd024dca6c5b92c1a11b537efcebab317f2e17fa4814294ef", null ],
+      [ "ERR_REFER_A_FRIEND_INSUFFICIENT_GRANTABLE_LEVELS", "d3/d29/a00947.html#a1540bb0af13f9b9cfd024dca6c5b92c1a72a5e34a55df2ae3ec88c4760292ab48", null ],
+      [ "ERR_REFER_A_FRIEND_TOO_FAR", "d3/d29/a00947.html#a1540bb0af13f9b9cfd024dca6c5b92c1a99590af6f1491c46445d4c8b84325806", null ],
+      [ "ERR_REFER_A_FRIEND_DIFFERENT_FACTION", "d3/d29/a00947.html#a1540bb0af13f9b9cfd024dca6c5b92c1a2c1e487a267c30bcb3c960513cdf8b45", null ],
+      [ "ERR_REFER_A_FRIEND_NOT_NOW", "d3/d29/a00947.html#a1540bb0af13f9b9cfd024dca6c5b92c1a4b7e662d42470ca7f13e8ad1848894e1", null ],
+      [ "ERR_REFER_A_FRIEND_GRANT_LEVEL_MAX_I", "d3/d29/a00947.html#a1540bb0af13f9b9cfd024dca6c5b92c1aece270c5c399ad662076ef5b84e74561", null ],
+      [ "ERR_REFER_A_FRIEND_NO_TARGET", "d3/d29/a00947.html#a1540bb0af13f9b9cfd024dca6c5b92c1a4743162390d6e45eea87340f4acfc9da", null ],
+      [ "ERR_REFER_A_FRIEND_NOT_IN_GROUP", "d3/d29/a00947.html#a1540bb0af13f9b9cfd024dca6c5b92c1ad1282c2c3a2b51787b307ffd49b2c1c8", null ],
+      [ "ERR_REFER_A_FRIEND_SUMMON_LEVEL_MAX_I", "d3/d29/a00947.html#a1540bb0af13f9b9cfd024dca6c5b92c1aadb96e2aa9336363c037fd396fe4187d", null ],
+      [ "ERR_REFER_A_FRIEND_SUMMON_COOLDOWN", "d3/d29/a00947.html#a1540bb0af13f9b9cfd024dca6c5b92c1aef75506e095cd98f791a4f677e0d0454", null ],
+      [ "ERR_REFER_A_FRIEND_INSUF_EXPAN_LVL", "d3/d29/a00947.html#a1540bb0af13f9b9cfd024dca6c5b92c1a5427ad8b743a794d3d840cc424720527", null ],
+      [ "ERR_REFER_A_FRIEND_SUMMON_OFFLINE_S", "d3/d29/a00947.html#a1540bb0af13f9b9cfd024dca6c5b92c1a29fca8c6f4236abcd552e817e2815ec0", null ]
+    ] ],
+    [ "ReputationSource", "d3/d29/a00947.html#add0e486b240be9a2d1a8d50d397b917c", [
+      [ "REPUTATION_SOURCE_KILL", "d3/d29/a00947.html#add0e486b240be9a2d1a8d50d397b917ca6b17403b4310c7f0550c6734e3d2834b", null ],
+      [ "REPUTATION_SOURCE_QUEST", "d3/d29/a00947.html#add0e486b240be9a2d1a8d50d397b917caaee4856eda6944c68ce6d462d848f1a9", null ],
+      [ "REPUTATION_SOURCE_DAILY_QUEST", "d3/d29/a00947.html#add0e486b240be9a2d1a8d50d397b917caea00d71194202c17438676a6417b4bc0", null ],
+      [ "REPUTATION_SOURCE_WEEKLY_QUEST", "d3/d29/a00947.html#add0e486b240be9a2d1a8d50d397b917cad712d20adee085a1171c44bb09baf8f3", null ],
+      [ "REPUTATION_SOURCE_MONTHLY_QUEST", "d3/d29/a00947.html#add0e486b240be9a2d1a8d50d397b917cab40eae40d43a7a9c522dc4d236bdfab3", null ],
+      [ "REPUTATION_SOURCE_REPEATABLE_QUEST", "d3/d29/a00947.html#add0e486b240be9a2d1a8d50d397b917cabcf9b65b489b668e22795f250c1d98c8", null ],
+      [ "REPUTATION_SOURCE_SPELL", "d3/d29/a00947.html#add0e486b240be9a2d1a8d50d397b917ca81f9c093fa4f90ca6584d34915f00dc9", null ]
+    ] ],
+    [ "RestFlag", "d3/d29/a00947.html#a6573e61697135eebcc2945e003612f5a", [
+      [ "REST_FLAG_IN_TAVERN", "d3/d29/a00947.html#a6573e61697135eebcc2945e003612f5aa0bf57632b9695021a05ef473297c9db7", null ],
+      [ "REST_FLAG_IN_CITY", "d3/d29/a00947.html#a6573e61697135eebcc2945e003612f5aaaecbe68299cf222ea8809a2c2a703ac0", null ],
+      [ "REST_FLAG_IN_FACTION_AREA", "d3/d29/a00947.html#a6573e61697135eebcc2945e003612f5aa79f9f74879238bb9ed663d62c051cda0", null ]
+    ] ],
+    [ "RuneCooldowns", "d3/d29/a00947.html#a59f0fb64ca9eaafbbda71be7ee22e906", [
+      [ "RUNE_BASE_COOLDOWN", "d3/d29/a00947.html#a59f0fb64ca9eaafbbda71be7ee22e906a89ad8d478e8f338666869909cd2d903a", null ],
+      [ "RUNE_GRACE_PERIOD", "d3/d29/a00947.html#a59f0fb64ca9eaafbbda71be7ee22e906a6af87e00e24d1946a5b5fafb1b7d3ad9", null ],
+      [ "RUNE_MISS_COOLDOWN", "d3/d29/a00947.html#a59f0fb64ca9eaafbbda71be7ee22e906a6a71e9e6fe035cdd560566040e499318", null ]
+    ] ],
+    [ "RuneType", "d3/d29/a00947.html#a2377260993cd4a14aaab6f5771385e11", [
+      [ "RUNE_BLOOD", "d3/d29/a00947.html#a2377260993cd4a14aaab6f5771385e11abd91ec8791180e639b46ec80a00318f2", null ],
+      [ "RUNE_UNHOLY", "d3/d29/a00947.html#a2377260993cd4a14aaab6f5771385e11a217575c5749a3bb8405012ccb1e2d0b1", null ],
+      [ "RUNE_FROST", "d3/d29/a00947.html#a2377260993cd4a14aaab6f5771385e11aac83ea76fc61fd2dbae3c946b9f7a6d3", null ],
+      [ "RUNE_DEATH", "d3/d29/a00947.html#a2377260993cd4a14aaab6f5771385e11a4e52953e1ef02ede72070ea1231f882c", null ],
+      [ "NUM_RUNE_TYPES", "d3/d29/a00947.html#a2377260993cd4a14aaab6f5771385e11a6690183338755f52259fe9eb8332db35", null ]
+    ] ],
+    [ "SkillUpdateState", "d3/d29/a00947.html#ad7133f5242269df996858d8167cea631", [
+      [ "SKILL_UNCHANGED", "d3/d29/a00947.html#ad7133f5242269df996858d8167cea631a5a813f231f33d394c1c2f54e1665b281", null ],
+      [ "SKILL_CHANGED", "d3/d29/a00947.html#ad7133f5242269df996858d8167cea631a484f2cf1987c9512855c222040c9a5e6", null ],
+      [ "SKILL_NEW", "d3/d29/a00947.html#ad7133f5242269df996858d8167cea631ac6d3121ccb6ec61d5c598fd9eac0f855", null ],
+      [ "SKILL_DELETED", "d3/d29/a00947.html#ad7133f5242269df996858d8167cea631a14f05147e756e9d928f6759e43541968", null ]
+    ] ],
+    [ "SpellModType", "d3/d29/a00947.html#a946f1b98541e5df18b4b45f6fb144ce8", [
+      [ "SPELLMOD_FLAT", "d3/d29/a00947.html#a946f1b98541e5df18b4b45f6fb144ce8a8ebc303e6990a35340cd39cef55f4dd7", null ],
+      [ "SPELLMOD_PCT", "d3/d29/a00947.html#a946f1b98541e5df18b4b45f6fb144ce8ac1724959d706b685bccc6fdd33e5dcd7", null ]
+    ] ],
+    [ "TalentTree", "d3/d29/a00947.html#ab0ddd46c046b84b12f547fc652ddbcd0", [
+      [ "TALENT_TREE_WARRIOR_ARMS", "d3/d29/a00947.html#ab0ddd46c046b84b12f547fc652ddbcd0aae49fd6029123f7364693287e339212a", null ],
+      [ "TALENT_TREE_WARRIOR_FURY", "d3/d29/a00947.html#ab0ddd46c046b84b12f547fc652ddbcd0a657cdb25a5d62dfe027214f2103552df", null ],
+      [ "TALENT_TREE_WARRIOR_PROTECTION", "d3/d29/a00947.html#ab0ddd46c046b84b12f547fc652ddbcd0afafd9c5a78f0a674bfe3eb7dc7b99d24", null ],
+      [ "TALENT_TREE_PALADIN_HOLY", "d3/d29/a00947.html#ab0ddd46c046b84b12f547fc652ddbcd0a9bab7a9623982f2d11ebc858cc5f6059", null ],
+      [ "TALENT_TREE_PALADIN_PROTECTION", "d3/d29/a00947.html#ab0ddd46c046b84b12f547fc652ddbcd0a4b225082cd7ac3e368957fc33fe6bb64", null ],
+      [ "TALENT_TREE_PALADIN_RETRIBUTION", "d3/d29/a00947.html#ab0ddd46c046b84b12f547fc652ddbcd0ae425af512fcc522ab571fc57b288ed05", null ],
+      [ "TALENT_TREE_HUNTER_BEAST_MASTERY", "d3/d29/a00947.html#ab0ddd46c046b84b12f547fc652ddbcd0a54280d64be122db9921a84e13dcc0d0c", null ],
+      [ "TALENT_TREE_HUNTER_MARKSMANSHIP", "d3/d29/a00947.html#ab0ddd46c046b84b12f547fc652ddbcd0ac6a216a25bef87d0f42028ec7d299367", null ],
+      [ "TALENT_TREE_HUNTER_SURVIVAL", "d3/d29/a00947.html#ab0ddd46c046b84b12f547fc652ddbcd0a0076974673abcea8471ca8cfcedb459a", null ],
+      [ "TALENT_TREE_ROGUE_ASSASSINATION", "d3/d29/a00947.html#ab0ddd46c046b84b12f547fc652ddbcd0a6a3ab596e53d6f891597c53ac12cf0b1", null ],
+      [ "TALENT_TREE_ROGUE_COMBAT", "d3/d29/a00947.html#ab0ddd46c046b84b12f547fc652ddbcd0ac336ee698a4bedebf40b7c1743cd4719", null ],
+      [ "TALENT_TREE_ROGUE_SUBTLETY", "d3/d29/a00947.html#ab0ddd46c046b84b12f547fc652ddbcd0af96dd93ed6fc8c95667cdca2e0f7e2f8", null ],
+      [ "TALENT_TREE_PRIEST_DISCIPLINE", "d3/d29/a00947.html#ab0ddd46c046b84b12f547fc652ddbcd0aff3c7cb6cd42a4018f9b949afe89e004", null ],
+      [ "TALENT_TREE_PRIEST_HOLY", "d3/d29/a00947.html#ab0ddd46c046b84b12f547fc652ddbcd0a89f5b2470737b4b0e415515ac29a082e", null ],
+      [ "TALENT_TREE_PRIEST_SHADOW", "d3/d29/a00947.html#ab0ddd46c046b84b12f547fc652ddbcd0a230541a7ba7338e610a979f2f6c2b840", null ],
+      [ "TALENT_TREE_DEATH_KNIGHT_BLOOD", "d3/d29/a00947.html#ab0ddd46c046b84b12f547fc652ddbcd0a34fc2e99991ba8b5ae177c69735d61f9", null ],
+      [ "TALENT_TREE_DEATH_KNIGHT_FROST", "d3/d29/a00947.html#ab0ddd46c046b84b12f547fc652ddbcd0a0a32b88a868441a88e249fee4e55dc7a", null ],
+      [ "TALENT_TREE_DEATH_KNIGHT_UNHOLY", "d3/d29/a00947.html#ab0ddd46c046b84b12f547fc652ddbcd0a7342453ab4af5e036f8594af10234f4c", null ],
+      [ "TALENT_TREE_SHAMAN_ELEMENTAL", "d3/d29/a00947.html#ab0ddd46c046b84b12f547fc652ddbcd0a3cdef22028c85bfd3336cee111c66933", null ],
+      [ "TALENT_TREE_SHAMAN_ENHANCEMENT", "d3/d29/a00947.html#ab0ddd46c046b84b12f547fc652ddbcd0a9625754d1f6275450fafa47c8f27cd80", null ],
+      [ "TALENT_TREE_SHAMAN_RESTORATION", "d3/d29/a00947.html#ab0ddd46c046b84b12f547fc652ddbcd0a4a66547eec1e3f748d5a2fe358bbb188", null ],
+      [ "TALENT_TREE_MAGE_ARCANE", "d3/d29/a00947.html#ab0ddd46c046b84b12f547fc652ddbcd0a9a27667c1b46ae88b9a690997dd1b961", null ],
+      [ "TALENT_TREE_MAGE_FIRE", "d3/d29/a00947.html#ab0ddd46c046b84b12f547fc652ddbcd0a1da76e51b88ee8189bd817f7d625275a", null ],
+      [ "TALENT_TREE_MAGE_FROST", "d3/d29/a00947.html#ab0ddd46c046b84b12f547fc652ddbcd0aa8bdfbc44b4f2aba6e758345525a158a", null ],
+      [ "TALENT_TREE_WARLOCK_AFFLICTION", "d3/d29/a00947.html#ab0ddd46c046b84b12f547fc652ddbcd0a822332988d1f8ec5efe73231897fa304", null ],
+      [ "TALENT_TREE_WARLOCK_DEMONOLOGY", "d3/d29/a00947.html#ab0ddd46c046b84b12f547fc652ddbcd0a5b177695fe9f9c8f4a14993dbc21e6d5", null ],
+      [ "TALENT_TREE_WARLOCK_DESTRUCTION", "d3/d29/a00947.html#ab0ddd46c046b84b12f547fc652ddbcd0a66be9bd20987f151648d805b283589f0", null ],
+      [ "TALENT_TREE_DRUID_BALANCE", "d3/d29/a00947.html#ab0ddd46c046b84b12f547fc652ddbcd0aae52fbae709e72a95610f5606c4c7b00", null ],
+      [ "TALENT_TREE_DRUID_FERAL_COMBAT", "d3/d29/a00947.html#ab0ddd46c046b84b12f547fc652ddbcd0a5778598285eab24b521afbe19c8cfb48", null ],
+      [ "TALENT_TREE_DRUID_RESTORATION", "d3/d29/a00947.html#ab0ddd46c046b84b12f547fc652ddbcd0a37bd72a7a49f1870a58343cac2a214e2", null ]
+    ] ],
+    [ "TeleportToOptions", "d3/d29/a00947.html#a19f261ab504f8e06e9488bd5a3c23075", [
+      [ "TELE_TO_GM_MODE", "d3/d29/a00947.html#a19f261ab504f8e06e9488bd5a3c23075ac848cb12b6d8ee4208900a15b9c7b3bc", null ],
+      [ "TELE_TO_NOT_LEAVE_TRANSPORT", "d3/d29/a00947.html#a19f261ab504f8e06e9488bd5a3c23075af901d71505d50d133cdf4933f8279aa8", null ],
+      [ "TELE_TO_NOT_LEAVE_COMBAT", "d3/d29/a00947.html#a19f261ab504f8e06e9488bd5a3c23075ab2944787df830211a346e9ceae0def7f", null ],
+      [ "TELE_TO_NOT_UNSUMMON_PET", "d3/d29/a00947.html#a19f261ab504f8e06e9488bd5a3c23075ab4ccbaee4377b41a3e3bf0f2890186f9", null ],
+      [ "TELE_TO_SPELL", "d3/d29/a00947.html#a19f261ab504f8e06e9488bd5a3c23075a8487b61066dab8a7ed85701246847da0", null ],
+      [ "TELE_TO_NOT_LEAVE_VEHICLE", "d3/d29/a00947.html#a19f261ab504f8e06e9488bd5a3c23075a7d44ab9d02457d23afc54587609923a7", null ],
+      [ "TELE_TO_WITH_PET", "d3/d29/a00947.html#a19f261ab504f8e06e9488bd5a3c23075a0b772e79bf8a6e5d3fe2d0d2e7ad7990", null ],
+      [ "TELE_TO_NOT_LEAVE_TAXI", "d3/d29/a00947.html#a19f261ab504f8e06e9488bd5a3c23075a1d9eb2253b4b58ba1fc15f7f80e11c89", null ]
+    ] ],
+    [ "TrainerSpellState", "d3/d29/a00947.html#a103ca8d3e1b78335f77c37f5bf8e5966", [
+      [ "TRAINER_SPELL_GREEN", "d3/d29/a00947.html#a103ca8d3e1b78335f77c37f5bf8e5966a1a7825291a283accb01c0819ce4df4bc", null ],
+      [ "TRAINER_SPELL_RED", "d3/d29/a00947.html#a103ca8d3e1b78335f77c37f5bf8e5966a776f4797486a8c97784084045c88dd5c", null ],
+      [ "TRAINER_SPELL_GRAY", "d3/d29/a00947.html#a103ca8d3e1b78335f77c37f5bf8e5966a615c839a694ba15638907808472b572d", null ],
+      [ "TRAINER_SPELL_GREEN_DISABLED", "d3/d29/a00947.html#a103ca8d3e1b78335f77c37f5bf8e5966a733b3dafcdb9636839d52b20c8e34dde", null ]
+    ] ],
+    [ "TransferAbortReason", "d3/d29/a00947.html#a34b87c411e3511dc8bde293dc2b25210", [
+      [ "TRANSFER_ABORT_NONE", "d3/d29/a00947.html#a34b87c411e3511dc8bde293dc2b25210a94adad34950b792cb6e5b8d9d2aa7780", null ],
+      [ "TRANSFER_ABORT_ERROR", "d3/d29/a00947.html#a34b87c411e3511dc8bde293dc2b25210af86fa72b9913635993476dcba071493c", null ],
+      [ "TRANSFER_ABORT_MAX_PLAYERS", "d3/d29/a00947.html#a34b87c411e3511dc8bde293dc2b25210a568c3ebfc68db0f9c268c5d54ff6c05b", null ],
+      [ "TRANSFER_ABORT_NOT_FOUND", "d3/d29/a00947.html#a34b87c411e3511dc8bde293dc2b25210aac27b37ec6cb6f81c05eb7a2c6c786f4", null ],
+      [ "TRANSFER_ABORT_TOO_MANY_INSTANCES", "d3/d29/a00947.html#a34b87c411e3511dc8bde293dc2b25210a00f567b73392d8208b8a37e6a60dc7c7", null ],
+      [ "TRANSFER_ABORT_ZONE_IN_COMBAT", "d3/d29/a00947.html#a34b87c411e3511dc8bde293dc2b25210a76584b704ef89518ee151826d5fbc268", null ],
+      [ "TRANSFER_ABORT_INSUF_EXPAN_LVL", "d3/d29/a00947.html#a34b87c411e3511dc8bde293dc2b25210a3e2065c217f4a204fcfa025553a661d8", null ],
+      [ "TRANSFER_ABORT_DIFFICULTY", "d3/d29/a00947.html#a34b87c411e3511dc8bde293dc2b25210a2a3fc09a365e3428128b94ad213b83d7", null ],
+      [ "TRANSFER_ABORT_UNIQUE_MESSAGE", "d3/d29/a00947.html#a34b87c411e3511dc8bde293dc2b25210a2f2f757ace3b56e8dc98c3019b3fcd50", null ],
+      [ "TRANSFER_ABORT_TOO_MANY_REALM_INSTANCES", "d3/d29/a00947.html#a34b87c411e3511dc8bde293dc2b25210a51c773cb5d05286d0333d228654d1846", null ],
+      [ "TRANSFER_ABORT_NEED_GROUP", "d3/d29/a00947.html#a34b87c411e3511dc8bde293dc2b25210ab7a577843c5dc91525a656fa3230e857", null ],
+      [ "TRANSFER_ABORT_NOT_FOUND1", "d3/d29/a00947.html#a34b87c411e3511dc8bde293dc2b25210a46740eaca5972ce0d1687341bb328f6d", null ],
+      [ "TRANSFER_ABORT_NOT_FOUND2", "d3/d29/a00947.html#a34b87c411e3511dc8bde293dc2b25210acaed5cf056bf2379d45e17c5eacdef43", null ],
+      [ "TRANSFER_ABORT_NOT_FOUND3", "d3/d29/a00947.html#a34b87c411e3511dc8bde293dc2b25210a759219dc8500d58d79ab3810a9462367", null ],
+      [ "TRANSFER_ABORT_REALM_ONLY", "d3/d29/a00947.html#a34b87c411e3511dc8bde293dc2b25210af158d3d3c578195642913224c5b7447a", null ],
+      [ "TRANSFER_ABORT_MAP_NOT_ALLOWED", "d3/d29/a00947.html#a34b87c411e3511dc8bde293dc2b25210a32a397e91b94257334d22593045af535", null ]
+    ] ],
+    [ "AddItemsSetItem", "d3/d29/a00947.html#a02944420353f8ba883b80737f8e63137", null ],
+    [ "DEFINE_ENUM_FLAG", "d3/d29/a00947.html#aa73cbff1097c4faa4854becedcb45eb4", null ],
+    [ "operator<<", "d3/d29/a00947.html#aa8a947319a6f00895a3c443f5cb258ad", null ],
+    [ "RemoveItemsSetItem", "d3/d29/a00947.html#a402c3dd64769702b750f96adff4b3a14", null ]
 ];

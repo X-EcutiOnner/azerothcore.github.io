@@ -1,46 +1,45 @@
 var a00869 =
 [
-    [ "Object", "d6/d3a/a08339.html", "d6/d3a/a08339" ],
-    [ "MovementInfo", "dd/d95/a08347.html", "dd/d95/a08347" ],
-    [ "MovementInfo::TransportInfo", "df/d8c/a08351.html", "df/d8c/a08351" ],
-    [ "MovementInfo::JumpInfo", "d2/d96/a08355.html", "d2/d96/a08355" ],
-    [ "GridObject< T >", "d3/d11/a08359.html", "d3/d11/a08359" ],
-    [ "FlaggedValuesArray32< T_VALUES, T_FLAGS, FLAG_TYPE, ARRAY_SIZE >", "d0/d5d/a08363.html", "d0/d5d/a08363" ],
-    [ "MovableMapObject", "d6/d08/a08367.html", "d6/d08/a08367" ],
-    [ "WorldObject", "dc/d84/a08371.html", "dc/d84/a08371" ],
-    [ "Acore::ObjectDistanceOrderPred", "db/df1/a08375.html", "db/df1/a08375" ],
-    [ "UpdateDataMapType", "d3/db2/a00869.html#ac58dd2c514e262c6b68700fb72c69231", null ],
-    [ "UpdatePlayerSet", "d3/db2/a00869.html#abc4c822bd43dd0c1ea669b791c856405", null ],
-    [ "GOSummonType", "d3/db2/a00869.html#a3f5846dbc17f13c4c2b88a15593bbfba", [
-      [ "GO_SUMMON_TIMED_OR_CORPSE_DESPAWN", "d3/db2/a00869.html#a3f5846dbc17f13c4c2b88a15593bbfbaa842fffe6e187c8821e8b7f1cdbbcaac1", null ],
-      [ "GO_SUMMON_TIMED_DESPAWN", "d3/db2/a00869.html#a3f5846dbc17f13c4c2b88a15593bbfbaa740b94fbb874c9de6553b126eeff3e50", null ]
+    [ "ATTACK_DISTANCE", "d3/db2/a00869.html#a076c4dc8a346115fe776c593c413ef2c", null ],
+    [ "CONTACT_DISTANCE", "d3/db2/a00869.html#a76b2057afb6996f8080d661890a01c6f", null ],
+    [ "DEFAULT_COLLISION_HEIGHT", "d3/db2/a00869.html#a87d5f85dfad581145d916013245c2021", null ],
+    [ "DEFAULT_COMBAT_REACH", "d3/db2/a00869.html#ac04af878f8585da7f1264b4042bac15b", null ],
+    [ "DEFAULT_VISIBILITY_BGARENAS", "d3/db2/a00869.html#a89f7f74fa54f0edb8bf2fdf50319a39f", null ],
+    [ "DEFAULT_VISIBILITY_DISTANCE", "d3/db2/a00869.html#a22c041da6769a0cb3ef89726dd33981d", null ],
+    [ "DEFAULT_VISIBILITY_INSTANCE", "d3/db2/a00869.html#a9d99b4056bf875fdb55ac9420fba982a", null ],
+    [ "DEFAULT_WORLD_OBJECT_SIZE", "d3/db2/a00869.html#a913c166f7a4cd692f382db2df507a059", null ],
+    [ "INSPECT_DISTANCE", "d3/db2/a00869.html#a627bc4be23b34b8b8be439d4010f5669", null ],
+    [ "INTERACTION_DISTANCE", "d3/db2/a00869.html#a54eb9ac4fb3942c956544c22e84743d4", null ],
+    [ "MAX_SEARCHER_DISTANCE", "d3/db2/a00869.html#a4e53fec710ac40ebac949ac16ed5376c", null ],
+    [ "MAX_VISIBILITY_DISTANCE", "d3/db2/a00869.html#a195874db808f155d535260d5e4080059", null ],
+    [ "MELEE_RANGE", "d3/db2/a00869.html#a96e2044bb0ae3b931a0f9f096e883595", null ],
+    [ "MIN_MELEE_REACH", "d3/db2/a00869.html#ab6869459c32ee6c2253af552a1144ddc", null ],
+    [ "NOMINAL_MELEE_RANGE", "d3/db2/a00869.html#a9417df9da24d43d6fc32162e559e0b71", null ],
+    [ "SIGHT_RANGE_UNIT", "d3/db2/a00869.html#a71fa43e66bd4fe745191d184923d6347", null ],
+    [ "SPELL_SEARCHER_COMPENSATION", "d3/db2/a00869.html#a7e825c8fa49d307a4e5b992af744c195", null ],
+    [ "TRADE_DISTANCE", "d3/db2/a00869.html#ac0046f058b6628976d44bbe6847d4a36", null ],
+    [ "VISIBILITY_COMPENSATION", "d3/db2/a00869.html#ad7ca43faef12f55e2d72393f26d69ba7", null ],
+    [ "VISIBILITY_DIST_WINTERGRASP", "d3/db2/a00869.html#a3366917d44c1184b7eea801c37f75eda", null ],
+    [ "VISIBILITY_DISTANCE_GIGANTIC", "d3/db2/a00869.html#ac42804b48d734699eef6b8f584e2fb90", null ],
+    [ "VISIBILITY_DISTANCE_INFINITE", "d3/db2/a00869.html#a383cb16bb626159d72cc6b5928429f90", null ],
+    [ "VISIBILITY_DISTANCE_LARGE", "d3/db2/a00869.html#a2c7e0d3a0783990d50e50d41a916a595", null ],
+    [ "VISIBILITY_DISTANCE_NORMAL", "d3/db2/a00869.html#a4ff4df7e2c9ebd38bfd8c298708deba9", null ],
+    [ "VISIBILITY_DISTANCE_SMALL", "d3/db2/a00869.html#ae57720dd4437b418bb332db290c71d45", null ],
+    [ "VISIBILITY_DISTANCE_TINY", "d3/db2/a00869.html#a3e2fbd681c4b511f283f7b4d429a5f80", null ],
+    [ "VISIBILITY_INC_FOR_GOBJECTS", "d3/db2/a00869.html#aaeef4cd88d0d15aab096215c91394412", null ],
+    [ "VisibilityDistanceType", "d3/db2/a00869.html#ae675d6469643e2aca0b1840013245a1d", [
+      [ "Normal", "d3/db2/a00869.html#ae675d6469643e2aca0b1840013245a1da960b44c579bc2f6818d2daaf9e4c16f0", null ],
+      [ "Tiny", "d3/db2/a00869.html#ae675d6469643e2aca0b1840013245a1da383c05bda6f030a44990d354b24f3338", null ],
+      [ "Small", "d3/db2/a00869.html#ae675d6469643e2aca0b1840013245a1da2660064e68655415da2628c2ae2f7592", null ],
+      [ "Large", "d3/db2/a00869.html#ae675d6469643e2aca0b1840013245a1da3a69b34ce86dacb205936a8094f6c743", null ],
+      [ "Gigantic", "d3/db2/a00869.html#ae675d6469643e2aca0b1840013245a1da87ed5c21cfc88672553ccb7896a0160b", null ],
+      [ "Infinite", "d3/db2/a00869.html#ae675d6469643e2aca0b1840013245a1dab10e24496ff8fec66189548a92a67045", null ],
+      [ "Max", "d3/db2/a00869.html#ae675d6469643e2aca0b1840013245a1da6a061313d22e51e0f25b7cd4dc065233", null ]
     ] ],
-    [ "MapObjectCellMoveState", "d3/db2/a00869.html#a1833d9b1810b160d0c00f297af237b07", [
-      [ "MAP_OBJECT_CELL_MOVE_NONE", "d3/db2/a00869.html#a1833d9b1810b160d0c00f297af237b07afb882558defaa808483ae0d24e1d12e1", null ],
-      [ "MAP_OBJECT_CELL_MOVE_ACTIVE", "d3/db2/a00869.html#a1833d9b1810b160d0c00f297af237b07acdf663aceba2a09ee27f33056500cf58", null ],
-      [ "MAP_OBJECT_CELL_MOVE_INACTIVE", "d3/db2/a00869.html#a1833d9b1810b160d0c00f297af237b07a08ca33ead1d9abd8a15f213e09e1e23a", null ]
-    ] ],
-    [ "NotifyFlags", "d3/db2/a00869.html#ae6d03ea53b22c98f9dd7e3ce829cf389", [
-      [ "NOTIFY_NONE", "d3/db2/a00869.html#ae6d03ea53b22c98f9dd7e3ce829cf389aae40b53764f8cda7335d348860245cb9", null ],
-      [ "NOTIFY_AI_RELOCATION", "d3/db2/a00869.html#ae6d03ea53b22c98f9dd7e3ce829cf389ac8f5884b0cde878e7d080be2be35f12d", null ],
-      [ "NOTIFY_VISIBILITY_CHANGED", "d3/db2/a00869.html#ae6d03ea53b22c98f9dd7e3ce829cf389ae24fd40d89da822e12587f23612eb053", null ],
-      [ "NOTIFY_ALL", "d3/db2/a00869.html#ae6d03ea53b22c98f9dd7e3ce829cf389a8073de571f5d684d5b4ddd10a525322c", null ]
-    ] ],
-    [ "PhaseMasks", "d3/db2/a00869.html#a154255f23e41069883118fc4f0d23157", [
-      [ "PHASEMASK_NORMAL", "d3/db2/a00869.html#a154255f23e41069883118fc4f0d23157aa253161c3caae282ce3c6922048db060", null ],
-      [ "PHASEMASK_ANYWHERE", "d3/db2/a00869.html#a154255f23e41069883118fc4f0d23157a212ead88887027cc3575f2b07c08af57", null ]
-    ] ],
-    [ "TempSummonType", "d3/db2/a00869.html#a38c6d8d01cbe0c49b035f348f7724148", [
-      [ "TEMPSUMMON_TIMED_OR_DEAD_DESPAWN", "d3/db2/a00869.html#a38c6d8d01cbe0c49b035f348f7724148a7fcc17b9aac93c81619414e6af366e39", null ],
-      [ "TEMPSUMMON_TIMED_OR_CORPSE_DESPAWN", "d3/db2/a00869.html#a38c6d8d01cbe0c49b035f348f7724148a9d16b839c0bff9df1f7adfe701da0882", null ],
-      [ "TEMPSUMMON_TIMED_DESPAWN", "d3/db2/a00869.html#a38c6d8d01cbe0c49b035f348f7724148a68d0fa29801bfa0be2b983f167b0c0f2", null ],
-      [ "TEMPSUMMON_TIMED_DESPAWN_OUT_OF_COMBAT", "d3/db2/a00869.html#a38c6d8d01cbe0c49b035f348f7724148a792ae85af0a6c91140415668fdfef99a", null ],
-      [ "TEMPSUMMON_CORPSE_DESPAWN", "d3/db2/a00869.html#a38c6d8d01cbe0c49b035f348f7724148aca87dcb32ebfdc5d2d1acd159abe8fd9", null ],
-      [ "TEMPSUMMON_CORPSE_TIMED_DESPAWN", "d3/db2/a00869.html#a38c6d8d01cbe0c49b035f348f7724148ae10d0bfbb29fbbfe0e3c50203548d01a", null ],
-      [ "TEMPSUMMON_DEAD_DESPAWN", "d3/db2/a00869.html#a38c6d8d01cbe0c49b035f348f7724148a2ed37622e9cac6dbba3d2bb354307493", null ],
-      [ "TEMPSUMMON_MANUAL_DESPAWN", "d3/db2/a00869.html#a38c6d8d01cbe0c49b035f348f7724148a494d31263c972013b6b0e42f6c00e14a", null ],
-      [ "TEMPSUMMON_DESPAWNED", "d3/db2/a00869.html#a38c6d8d01cbe0c49b035f348f7724148ab372a9ecde35043aa67d1ee162a37687", null ],
-      [ "TEMPSUMMON_TIMED_DESPAWN_OOC_ALIVE", "d3/db2/a00869.html#a38c6d8d01cbe0c49b035f348f7724148a1e689534a035355813f5eac245564af7", null ]
-    ] ],
-    [ "HEARTBEAT_INTERVAL", "d3/db2/a00869.html#a8cd21ff3f4267aa848be64aa30c71d24", null ]
+    [ "MAKE_PAIR16", "d3/db2/a00869.html#acce67ab26aa86441d3f07fb597fdf887", null ],
+    [ "MAKE_PAIR32", "d3/db2/a00869.html#a16746aa380554e93891c528f8edf0df1", null ],
+    [ "PAIR32_HIPART", "d3/db2/a00869.html#a236b098eb2d636d290e08931dcaa1911", null ],
+    [ "PAIR32_LOPART", "d3/db2/a00869.html#ae7170f91373fc9614734d4365eaebf77", null ],
+    [ "PAIR64_HIPART", "d3/db2/a00869.html#addc54387901d7793730428b2982d3f55", null ],
+    [ "PAIR64_LOPART", "d3/db2/a00869.html#a07b26e77b0b1266a3addb26d71a74344", null ]
 ];

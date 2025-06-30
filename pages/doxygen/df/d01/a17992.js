@@ -1,9 +1,11 @@
 var a17992 =
 [
-    [ "AfterApply", "df/d01/a17992.html#a0ee1a701f75e9f0a70dc21528ffea683", null ],
-    [ "ExtraRemoveEffect", "df/d01/a17992.html#a9f427761fcca9029eb75d586e5876fcd", null ],
-    [ "PeriodicTick", "df/d01/a17992.html#a82430399e44001343f322b2c3b7769a5", null ],
-    [ "PrepareAuraScript", "df/d01/a17992.html#a9c8e0ed8fde28588e11ebf5e8abd02dc", null ],
-    [ "Register", "df/d01/a17992.html#a68be7f7edecd1bae8c962aaa9d556c3e", null ],
-    [ "Validate", "df/d01/a17992.html#ae20873e93fbace6272a793993fb45349", null ]
+    [ "npc_ice_tombAI", "df/d01/a17992.html#ab2cd26a6f50f42f2773f8a7b522289ec", null ],
+    [ "DamageTaken", "df/d01/a17992.html#aa1451254b5eaa1332b87f2d817e1f3a7", null ],
+    [ "JustDied", "df/d01/a17992.html#a237f27260aaa9176d81b67b11d063660", null ],
+    [ "SetGUID", "df/d01/a17992.html#a629acf2cc7530c2b82bb37a129d4431a", null ],
+    [ "UpdateAI", "df/d01/a17992.html#a2f613f1f4fd51dac767b97fd9b96af44", null ],
+    [ "_asphyxiationTimer", "df/d01/a17992.html#a6790d9c852279624a549f60bf26e1eb2", null ],
+    [ "_existenceCheckTimer", "df/d01/a17992.html#ab3dbf40235549be89e42951d93593ea2", null ],
+    [ "_trappedPlayerGUID", "df/d01/a17992.html#a8a7666594e59bdac449f2284387b8e2c", null ]
 ];

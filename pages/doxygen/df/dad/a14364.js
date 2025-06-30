@@ -1,5 +1,7 @@
 var a14364 =
 [
-    [ "PrepareSpellScript", "df/dad/a14364.html#a50ee42c11937759b6c52c2ab994481c4", null ],
-    [ "Register", "df/dad/a14364.html#a8dc12a723c2da948c38119e3fc34df35", null ]
+    [ "npc_love_in_air_supply_sentry", "df/dad/a14364.html#ab2742c3be0ed661a509b9eb32326bee5", null ],
+    [ "MoveInLineOfSight", "df/dad/a14364.html#a9df110324c74277e07183c7db231bbda", null ],
+    [ "UpdateAI", "df/dad/a14364.html#aaa658222954f96d45b75daf83555f6f8", null ],
+    [ "lock", "df/dad/a14364.html#a59bf67b114014542538165c21aa109a6", null ]
 ];

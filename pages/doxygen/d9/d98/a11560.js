@@ -1,8 +1,6 @@
 var a11560 =
 [
-    [ "accountId", "d9/d98/a11560.html#ad146b84be01ec07a5fee8184f0cc2da9", null ],
-    [ "accountName", "d9/d98/a11560.html#a4849bd1f43fd15eea1991948abdc576d", null ],
-    [ "deleteDate", "d9/d98/a11560.html#a65a101727094841d34e8775bb7504cba", null ],
-    [ "lowGuid", "d9/d98/a11560.html#a11fd07e662184f750ac0a5e547a22437", null ],
-    [ "name", "d9/d98/a11560.html#a0e85dce38305e222c5654315ed68bfc1", null ]
+    [ "bg_commandscript", "d9/d98/a11560.html#a86ffdfaed58149f5036f5c1e1040507a", null ],
+    [ "GetCommands", "d9/d98/a11560.html#a911ccd6445b08c05069f7f196556c891", null ],
+    [ "HandleBagsClearCommand", "d9/d98/a11560.html#a92347e90c2f78d0dfeb41eb033366319", null ]
 ];

@@ -1,6 +1,7 @@
 var a17824 =
 [
-    [ "OnRemove", "df/d60/a17824.html#ab9c21998c71991ff74e6dfcf4d32f126", null ],
-    [ "PrepareAuraScript", "df/d60/a17824.html#a8fb5803b07022f9bd3d246216bac5abb", null ],
-    [ "Register", "df/d60/a17824.html#afa993cb14444989feac16c9fa2d7b8df", null ]
+    [ "HandleTriggerSpell", "df/d60/a17824.html#a7d7f1731c453e5d0b70e6093aeedea87", null ],
+    [ "PrepareAuraScript", "df/d60/a17824.html#afff0c81696ddcb427ce105d510ef93b1", null ],
+    [ "Register", "df/d60/a17824.html#aa50c6066115d7b60704eff48e77d10bd", null ],
+    [ "Validate", "df/d60/a17824.html#a6ef56d3d18bab2f81c810160ecf3ae96", null ]
 ];

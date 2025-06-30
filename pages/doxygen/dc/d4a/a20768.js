@@ -1,9 +1,8 @@
 var a20768 =
 [
-    [ "boss_yoggsaron_keeper", "dc/d4a/a20768.html#ad2098933656371b1bf80ec3ea859c418", null ],
-    [ "DoAction", "dc/d4a/a20768.html#a9e3d251810b55072458003356213ae15", null ],
-    [ "JustEngagedWith", "dc/d4a/a20768.html#a36bac93a46710f0cd3f51958b4e4223b", null ],
-    [ "JustSummoned", "dc/d4a/a20768.html#a272a77cb6f147f38825cd68d54f56a9a", null ],
-    [ "UpdateAI", "dc/d4a/a20768.html#afe9c18d91443f2ba3b2fd2a2fdd7dca5", null ],
-    [ "_summons", "dc/d4a/a20768.html#aa840eff5f3d8b24225046113737936b4", null ]
+    [ "boss_yoggsaron_guardian_of_ysAI", "dc/d4a/a20768.html#a5542a4fd68a012049a79047f47dccc68", null ],
+    [ "JustDied", "dc/d4a/a20768.html#ad75f0baeef73a79cdb9bf62463bc8e50", null ],
+    [ "Reset", "dc/d4a/a20768.html#a43d12c19425f3caa56a9732774b6f943", null ],
+    [ "UpdateAI", "dc/d4a/a20768.html#a8e1d0b14747db6ce06b882f3f9d61963", null ],
+    [ "_spellTimer", "dc/d4a/a20768.html#a45dec8609328d65413ae6c88f693ba15", null ]
 ];

@@ -1,9 +1,8 @@
 var a14916 =
 [
-    [ "go_ossirian_crystalAI", "de/d23/a14916.html#ae4d3c0c2cff08bd9fe86cbfee2cbb980", null ],
-    [ "DoAction", "de/d23/a14916.html#a581436335d190466520c07fde56ad441", null ],
-    [ "GossipHello", "de/d23/a14916.html#ad1aff0e18d8f4ef7fe5d4cfa7ef17875", null ],
-    [ "SetGUID", "de/d23/a14916.html#a9c983aa02285dbebc545b4056191200c", null ],
-    [ "_instance", "de/d23/a14916.html#aa2c83296cbe8d49de7bc7262b792e8b3", null ],
-    [ "_triggerGUID", "de/d23/a14916.html#abd96d9b4f2c5f41e4a85606b22e1b0cf", null ]
+    [ "HandleScript", "de/d23/a14916.html#ac58aef1b295e32c8a44852278edc18f8", null ],
+    [ "Load", "de/d23/a14916.html#a2f7b9372dd36444c5161f3bc50424d99", null ],
+    [ "PrepareSpellScript", "de/d23/a14916.html#adc1301a318f86b4e147a191f4c63e3bf", null ],
+    [ "Register", "de/d23/a14916.html#a95f4abd67d6baf75980ff28a7518503d", null ],
+    [ "Validate", "de/d23/a14916.html#a98271e7adb17b11e39241154a83b0d0d", null ]
 ];

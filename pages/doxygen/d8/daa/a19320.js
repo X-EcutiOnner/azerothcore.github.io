@@ -1,10 +1,13 @@
 var a19320 =
 [
-    [ "npc_oculus_drakegiverAI", "d8/daa/a19320.html#a4bba380256a0ede70b8d90611249b444", null ],
-    [ "MovementInform", "d8/daa/a19320.html#adc86ecd4ed7b4b7b42968a0e09fa29a0", null ],
-    [ "UpdateAI", "d8/daa/a19320.html#a652a8c364687d51de62356964f6f33f9", null ],
-    [ "m_pInstance", "d8/daa/a19320.html#a04e43a623d16b4cf8d80552d649d90ca", null ],
-    [ "moved", "d8/daa/a19320.html#a069e202a84d99cd757862bd1a43b5562", null ],
-    [ "resetPosition", "d8/daa/a19320.html#a8ef6c480846d08d8a6225a7124320cbf", null ],
-    [ "timer", "d8/daa/a19320.html#a461b45ab959e71699cf1543ecbcbd91f", null ]
+    [ "boss_drakosAI", "d8/daa/a19320.html#a75d771095897081457353be898b332c3", null ],
+    [ "JustDied", "d8/daa/a19320.html#a7235760bd407f49802bc9e26e8f3f22c", null ],
+    [ "JustEngagedWith", "d8/daa/a19320.html#a4bc15075d9e9a913783da482a7a167c7", null ],
+    [ "JustSummoned", "d8/daa/a19320.html#a06e21c4e5bd1a882ada074b9595d4088", null ],
+    [ "KilledUnit", "d8/daa/a19320.html#a4bd3e45b45660311d7510f58a1850648", null ],
+    [ "MoveInLineOfSight", "d8/daa/a19320.html#a10b2ca39887e906e6e1e33df82afc1da", null ],
+    [ "Reset", "d8/daa/a19320.html#a6fd78f4f45b9f2104acc481fb0f2763f", null ],
+    [ "UpdateAI", "d8/daa/a19320.html#abf761c7cda4031c31354d8c8d42963e0", null ],
+    [ "events", "d8/daa/a19320.html#ae86ad4fcc57cc1137411c881355f2f51", null ],
+    [ "pInstance", "d8/daa/a19320.html#adc9461ae5334634a9140f338547688b4", null ]
 ];

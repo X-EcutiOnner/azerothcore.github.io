@@ -1,4 +1,4 @@
 var a04568 =
 [
-    [ "BigNumber", "db/d58/a05143.html", "db/d58/a05143" ]
+    [ "ConfigValueCache< ConfigEnum >", "d9/d4c/a05132.html", "d9/d4c/a05132" ]
 ];

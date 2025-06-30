@@ -1,10 +1,10 @@
 var a08972 =
 [
-    [ "Flags", "d4/d18/a08972.html#a5292a64de662f608915844d58199542f", null ],
-    [ "Icon", "d4/d18/a08972.html#ab7460f125e05509baf9331e424b8bacf", null ],
-    [ "ID", "d4/d18/a08972.html#a94b184ecd7c82419fa6d59a59c1d95da", null ],
-    [ "Importance", "d4/d18/a08972.html#a623d8bdc2bf5eea161466340ae8e3cd1", null ],
-    [ "Name", "d4/d18/a08972.html#a45c6eb50f0d56bbdabd6c3b3469c607c", null ],
-    [ "PositionX", "d4/d18/a08972.html#a561763556f1ac77e988c350c37a3a0a1", null ],
-    [ "PositionY", "d4/d18/a08972.html#abec7b2b3e649263f0b963f3fedef60fe", null ]
+    [ "PetLevelInfo", "d4/d18/a08972.html#ad8e757abeae500063e963ffef5469809", null ],
+    [ "armor", "d4/d18/a08972.html#ab7097f75cf86bd6f135f21dace61a89e", null ],
+    [ "health", "d4/d18/a08972.html#a322dcab3af8f98726aa6addf38e8891b", null ],
+    [ "mana", "d4/d18/a08972.html#a27352e73d6ed3945e398e0634dee1e96", null ],
+    [ "max_dmg", "d4/d18/a08972.html#a092f2600f64f2af885142b2e96d1fe64", null ],
+    [ "min_dmg", "d4/d18/a08972.html#a299d1c7f4c28893e09de79cd816afa95", null ],
+    [ "stats", "d4/d18/a08972.html#a897aabacdbe9cbc4afcc40ab059c12be", null ]
 ];

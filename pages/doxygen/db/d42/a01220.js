@@ -1,4 +1,5 @@
 var a01220 =
 [
-    [ "AchievementCriteriaScript", "d2/d29/a10163.html", "d2/d29/a10163" ]
+    [ "WorldPackets::Totem::TotemDestroyed", "d7/db8/a10880.html", "d7/db8/a10880" ],
+    [ "WorldPackets::Totem::TotemCreated", "db/da9/a10884.html", "db/da9/a10884" ]
 ];

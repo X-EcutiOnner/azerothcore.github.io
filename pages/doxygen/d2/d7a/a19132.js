@@ -1,6 +1,8 @@
 var a19132 =
 [
-    [ "npc_vortex_rideAI", "d2/d5e/a19136.html", "d2/d5e/a19136" ],
-    [ "npc_vortex_ride", "d2/d7a/a19132.html#ad794cda407c9dfc35dd9bc2724f5014a", null ],
-    [ "GetAI", "d2/d7a/a19132.html#a23ef53feb432127db2620810a55d02ff", null ]
+    [ "HandleAfterCast", "d2/d7a/a19132.html#ac816f81a668ac3018be8f5dc4698039b", null ],
+    [ "HandleDummy", "d2/d7a/a19132.html#a3009faa525c22779a0b2534b96821cfd", null ],
+    [ "PrepareSpellScript", "d2/d7a/a19132.html#aca38f23f080314ab73ec2494bf877716", null ],
+    [ "Register", "d2/d7a/a19132.html#aa87e57dabec6e83029f4dd84913f22ca", null ],
+    [ "Validate", "d2/d7a/a19132.html#af945e399992deb3aef5c81ad393ee50f", null ]
 ];

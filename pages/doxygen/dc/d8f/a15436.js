@@ -1,6 +1,6 @@
 var a15436 =
 [
-    [ "Creature", "dc/d8f/a15436.html#a77b33f8998f85808b58052079b1cab54", null ],
-    [ "TextId", "dc/d8f/a15436.html#ad691f3cd40035e96547adf7528229119", null ],
-    [ "Timer", "dc/d8f/a15436.html#accfccceaedffb3ad4d02231fb0bfeee5", null ]
+    [ "npc_great_bear_spirit", "dc/d8f/a15436.html#a141470a3623aa1152d3505661f1532c8", null ],
+    [ "OnGossipHello", "dc/d8f/a15436.html#a2307b8d56fc117d918adc9814fa86f8f", null ],
+    [ "OnGossipSelect", "dc/d8f/a15436.html#aae026f4cf8b0de61d36a841dcfdbd92e", null ]
 ];

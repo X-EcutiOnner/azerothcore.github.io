@@ -1,7 +1,13 @@
 var a11588 =
 [
-    [ "gear_commandscript", "d6/daa/a11588.html#a2e37c7d761982f7185b2418ae5aa4315", null ],
-    [ "GetCommands", "d6/daa/a11588.html#a9212aa39f13c646b1b8cf8be78cc8a6a", null ],
-    [ "HandleGearRepairCommand", "d6/daa/a11588.html#a28cd5680f07f984326d79d91adbbfd70", null ],
-    [ "HandleGearStatsCommand", "d6/daa/a11588.html#acca4bc7e8cae51ee2a6172b32f87aa56", null ]
+    [ "cheat_commandscript", "d6/daa/a11588.html#a7449cfba3578956a09b67e569e7e6083", null ],
+    [ "GetCommands", "d6/daa/a11588.html#a7cc6ca0c216a4ff497b60dc7622623fd", null ],
+    [ "HandleCasttimeCheatCommand", "d6/daa/a11588.html#a119ad06c5b8be235853bb13c7cff724b", null ],
+    [ "HandleCheatStatusCommand", "d6/daa/a11588.html#acdf487c7a96d1757d3254e3f17e728cb", null ],
+    [ "HandleCoolDownCheatCommand", "d6/daa/a11588.html#ab31a1cfe2567b0f597c689f44ab9fd6d", null ],
+    [ "HandleExploreCheatCommand", "d6/daa/a11588.html#a25ea712f2fb249e49f5f0b8244f743c5", null ],
+    [ "HandleGodModeCheatCommand", "d6/daa/a11588.html#ac398dbacf025830dc871bc77938d47d6", null ],
+    [ "HandlePowerCheatCommand", "d6/daa/a11588.html#ae406c5d444b10ba65b79f8ff9d949c24", null ],
+    [ "HandleTaxiCheatCommand", "d6/daa/a11588.html#ab9bd840c9622d173e710058eeb763388", null ],
+    [ "HandleWaterWalkCheatCommand", "d6/daa/a11588.html#a9162d89c049f14f29bc5ba257964df34", null ]
 ];

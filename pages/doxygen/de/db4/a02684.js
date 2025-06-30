@@ -1,10 +1,76 @@
 var a02684 =
 [
-    [ "spell_q12779_an_end_to_all_things", "d1/d29/a12939.html", "d1/d29/a12939" ],
-    [ "spell_q12779_an_end_to_all_things_devour_aura", "d1/dcb/a12943.html", "d1/dcb/a12943" ],
-    [ "DevourHumanoid", "de/db4/a02684.html#a4a9cc76e41bd77e034f57ac5663bfbe8", [
-      [ "NPC_HEARTHGLEN_CRUSADER", "de/db4/a02684.html#a4a9cc76e41bd77e034f57ac5663bfbe8a5bcd1929ca343fde7380dbf2f02650d7", null ],
-      [ "NPC_TIRISFAL_CRUSADER", "de/db4/a02684.html#a4a9cc76e41bd77e034f57ac5663bfbe8a1808abd83c367810e3ca5ac70b35dcd8", null ]
+    [ "npc_crusade_persuaded", "d8/d9a/a12924.html", "d8/d9a/a12924" ],
+    [ "npc_crusade_persuaded::npc_crusade_persuadedAI", "d2/dde/a12928.html", "d2/dde/a12928" ],
+    [ "npc_koltira_deathweaver", "d2/d75/a12932.html", "d2/d75/a12932" ],
+    [ "npc_koltira_deathweaver::npc_koltira_deathweaverAI", "d6/d04/a12936.html", "d6/d04/a12936" ],
+    [ "npc_scarlet_courier", "d2/df5/a12940.html", "d2/df5/a12940" ],
+    [ "npc_scarlet_courier::npc_scarlet_courierAI", "d1/dfc/a12944.html", "d1/dfc/a12944" ],
+    [ "npc_a_special_surprise", "d6/d4d/a12948.html", "d6/d4d/a12948" ],
+    [ "npc_a_special_surprise::npc_a_special_surpriseAI", "de/d2e/a12952.html", "de/d2e/a12952" ],
+    [ "Koltira", "de/db4/a02684.html#a2b56f12a5305ced51b0059ef1dbc37b4", [
+      [ "SAY_BREAKOUT0", "de/db4/a02684.html#a2b56f12a5305ced51b0059ef1dbc37b4a6a8b157222c2252cf8da36c25da1b7dc", null ],
+      [ "SAY_BREAKOUT1", "de/db4/a02684.html#a2b56f12a5305ced51b0059ef1dbc37b4a094396cb1532cbff467d039ac9cc6ac6", null ],
+      [ "SAY_BREAKOUT2", "de/db4/a02684.html#a2b56f12a5305ced51b0059ef1dbc37b4a13e18bd4726cb3fbe75b71e6b6c6554c", null ],
+      [ "SAY_BREAKOUT3", "de/db4/a02684.html#a2b56f12a5305ced51b0059ef1dbc37b4a86af95c0cf3a510c60a58eca6a745c9b", null ],
+      [ "SAY_BREAKOUT4", "de/db4/a02684.html#a2b56f12a5305ced51b0059ef1dbc37b4ac756683588818c8c234c345799a44fb1", null ],
+      [ "SAY_BREAKOUT5", "de/db4/a02684.html#a2b56f12a5305ced51b0059ef1dbc37b4a2710018d85ac588bb3ac6a2e80969d3a", null ],
+      [ "SAY_BREAKOUT6", "de/db4/a02684.html#a2b56f12a5305ced51b0059ef1dbc37b4a298ab0b6af72e36096cf2f7d8b0e3a7b", null ],
+      [ "SAY_BREAKOUT7", "de/db4/a02684.html#a2b56f12a5305ced51b0059ef1dbc37b4a57df20e18bba48c21e32b1cbd2704356", null ],
+      [ "SAY_BREAKOUT8", "de/db4/a02684.html#a2b56f12a5305ced51b0059ef1dbc37b4a177482cab7ed071275f904b2d7b4339b", null ],
+      [ "SAY_BREAKOUT9", "de/db4/a02684.html#a2b56f12a5305ced51b0059ef1dbc37b4aa797326fa41cffd7206a62ce2f67e932", null ],
+      [ "SAY_BREAKOUT10", "de/db4/a02684.html#a2b56f12a5305ced51b0059ef1dbc37b4ab4c8196716ada2907e5e89bd23a492aa", null ],
+      [ "EMOTE_KOLTIRA_COLLAPSES", "de/db4/a02684.html#a2b56f12a5305ced51b0059ef1dbc37b4ace8cdeb54416e82b4126c9607684aef2", null ],
+      [ "SAY_VALROTH_WAVE3", "de/db4/a02684.html#a2b56f12a5305ced51b0059ef1dbc37b4add85d0bf9091ea4e8568d53c087f14e1", null ],
+      [ "SAY_VALROTH_AGGRO", "de/db4/a02684.html#a2b56f12a5305ced51b0059ef1dbc37b4ab9162631c8867f6ae3417bb38654afda", null ],
+      [ "SAY_VALROTH_WAVE1", "de/db4/a02684.html#a2b56f12a5305ced51b0059ef1dbc37b4a5180bd862351818035a55ced9912f20a", null ],
+      [ "SAY_VALROTH_WAVE2", "de/db4/a02684.html#a2b56f12a5305ced51b0059ef1dbc37b4ad48472c3123542f061d5b7a63921ba0d", null ],
+      [ "SPELL_KOLTIRA_TRANSFORM", "de/db4/a02684.html#a2b56f12a5305ced51b0059ef1dbc37b4a3dd26a672e67dd057ea741e47e791b8e", null ],
+      [ "SPELL_ANTI_MAGIC_ZONE", "de/db4/a02684.html#a2b56f12a5305ced51b0059ef1dbc37b4a254cc161ba0a08197d3676dad0fda9f2", null ],
+      [ "QUEST_BREAKOUT", "de/db4/a02684.html#a2b56f12a5305ced51b0059ef1dbc37b4a4ab1c01eb14cf41a048becfaa15870be", null ],
+      [ "NPC_CRIMSON_ACOLYTE", "de/db4/a02684.html#a2b56f12a5305ced51b0059ef1dbc37b4ad3ea46349fdb48ebcfa30c1ac63d178a", null ],
+      [ "NPC_HIGH_INQUISITOR_VALROTH", "de/db4/a02684.html#a2b56f12a5305ced51b0059ef1dbc37b4a2a5242e867c9033963eced30f48a1899", null ],
+      [ "MODEL_DEATH_KNIGHT_MOUNT", "de/db4/a02684.html#a2b56f12a5305ced51b0059ef1dbc37b4a42e041017c8f5b8e31870eefdc10f790", null ],
+      [ "POINT_STAND_UP", "de/db4/a02684.html#a2b56f12a5305ced51b0059ef1dbc37b4ac91453bb5043a7aead60feb820a6bd6b", null ],
+      [ "POINT_BOX", "de/db4/a02684.html#a2b56f12a5305ced51b0059ef1dbc37b4a09b9e9bb7a5fc24d7a7405cbc45c3518", null ],
+      [ "POINT_ANTI_MAGIC_ZONE", "de/db4/a02684.html#a2b56f12a5305ced51b0059ef1dbc37b4a3340ce874f4b9e725f5dc48864ff172d", null ],
+      [ "POINT_MOUNT", "de/db4/a02684.html#a2b56f12a5305ced51b0059ef1dbc37b4ab753bbca5d915f53037e13bcdbed0f12", null ],
+      [ "POINT_DESPAWN", "de/db4/a02684.html#a2b56f12a5305ced51b0059ef1dbc37b4a193b32ae3e767cdd2899238b38950ddf", null ]
     ] ],
-    [ "AddSC_the_scarlet_enclave_c3", "de/db4/a02684.html#add963c2bc2b515348b9b7c636d176927", null ]
+    [ "ScarletCourierEnum", "de/db4/a02684.html#a3fe46eb19e3256cc2367013d9300f8a4", [
+      [ "SAY_TREE1", "de/db4/a02684.html#a3fe46eb19e3256cc2367013d9300f8a4a2f4e22f3584ef5be240f77d5bd850794", null ],
+      [ "SAY_TREE2", "de/db4/a02684.html#a3fe46eb19e3256cc2367013d9300f8a4ad804a4374f9760c921f530c1712de8dc", null ],
+      [ "SPELL_SHOOT", "de/db4/a02684.html#a3fe46eb19e3256cc2367013d9300f8a4a1b728fa1bb0194534b5b491d35ed871c", null ],
+      [ "GO_INCONSPICUOUS_TREE", "de/db4/a02684.html#a3fe46eb19e3256cc2367013d9300f8a4a53367093a2729d0166b440148bc56bbc", null ],
+      [ "NPC_SCARLET_COURIER", "de/db4/a02684.html#a3fe46eb19e3256cc2367013d9300f8a4a3b66e7e1d525ed843528cf663d361981", null ]
+    ] ],
+    [ "SpecialSurprise", "de/db4/a02684.html#a39d9f90bc43829f5faf92e7b78c46c41", [
+      [ "SAY_EXEC_START", "de/db4/a02684.html#a39d9f90bc43829f5faf92e7b78c46c41ae8e19e9553a530c5b5048208c88d65e5", null ],
+      [ "SAY_EXEC_PROG", "de/db4/a02684.html#a39d9f90bc43829f5faf92e7b78c46c41a1fab31c66f796691c67a2498638e3175", null ],
+      [ "SAY_EXEC_NAME", "de/db4/a02684.html#a39d9f90bc43829f5faf92e7b78c46c41a232dd35d50b1347e00f4eab406b77a0d", null ],
+      [ "SAY_EXEC_RECOG", "de/db4/a02684.html#a39d9f90bc43829f5faf92e7b78c46c41af3601727efa384a7818ea45ba16aefc6", null ],
+      [ "SAY_EXEC_NOREM", "de/db4/a02684.html#a39d9f90bc43829f5faf92e7b78c46c41a50f98188751f2e80dca735efce0b92c0", null ],
+      [ "SAY_EXEC_THINK", "de/db4/a02684.html#a39d9f90bc43829f5faf92e7b78c46c41a43005d3320111e6925a0e23177d69d32", null ],
+      [ "SAY_EXEC_LISTEN", "de/db4/a02684.html#a39d9f90bc43829f5faf92e7b78c46c41ae324ebc8cfef92b79ad478e18529e2e4", null ],
+      [ "SAY_EXEC_TIME", "de/db4/a02684.html#a39d9f90bc43829f5faf92e7b78c46c41a3330c6cc3b04296f07d9766443ed6eb2", null ],
+      [ "SAY_EXEC_WAITING", "de/db4/a02684.html#a39d9f90bc43829f5faf92e7b78c46c41adaddf2c220fcd7c66f0f61a811a98d36", null ],
+      [ "EMOTE_DIES", "de/db4/a02684.html#a39d9f90bc43829f5faf92e7b78c46c41a1b942bcbae4fe8e343cc371a3e5d2560", null ],
+      [ "SAY_PLAGUEFIST", "de/db4/a02684.html#a39d9f90bc43829f5faf92e7b78c46c41ac6253854fcd623ea9589f7962bf08499", null ],
+      [ "NPC_PLAGUEFIST", "de/db4/a02684.html#a39d9f90bc43829f5faf92e7b78c46c41a36e93ebdaa9af83fbb08411737af6819", null ]
+    ] ],
+    [ "win_friends", "de/db4/a02684.html#a4c1e144641d137d320608174c3ada70b", [
+      [ "SAY_AGGRO", "de/db4/a02684.html#a4c1e144641d137d320608174c3ada70ba47c752fff069f3e55065795eef2a9bfe", null ],
+      [ "SAY_CRUSADER", "de/db4/a02684.html#a4c1e144641d137d320608174c3ada70ba0cfa69eb44105ba8b55095f367891967", null ],
+      [ "SAY_PERSUADED1", "de/db4/a02684.html#a4c1e144641d137d320608174c3ada70bac8fbe16451ed71344028995e920a6b36", null ],
+      [ "SAY_PERSUADED2", "de/db4/a02684.html#a4c1e144641d137d320608174c3ada70ba767561556d5645f840a29d37fef15d57", null ],
+      [ "SAY_PERSUADED3", "de/db4/a02684.html#a4c1e144641d137d320608174c3ada70ba6b5f1c188d7d5fadd2ffc4d79e76285b", null ],
+      [ "SAY_PERSUADED4", "de/db4/a02684.html#a4c1e144641d137d320608174c3ada70ba1131d1fd4c5913ab2c56c07a61d576d6", null ],
+      [ "SAY_PERSUADED5", "de/db4/a02684.html#a4c1e144641d137d320608174c3ada70ba3dd690c17e20fc2deca9963debbcb36b", null ],
+      [ "SAY_PERSUADED6", "de/db4/a02684.html#a4c1e144641d137d320608174c3ada70bac6c794baa7f292cc7e8c8bfc70120928", null ],
+      [ "SAY_PERSUADE_RAND", "de/db4/a02684.html#a4c1e144641d137d320608174c3ada70ba77e1040a5f80ad6a54ae0af5ecdec01b", null ],
+      [ "SPELL_PERSUASIVE_STRIKE", "de/db4/a02684.html#a4c1e144641d137d320608174c3ada70ba4b7723fc952c73a8959348ac339fecbf", null ],
+      [ "SPELL_THREAT_PULSE", "de/db4/a02684.html#a4c1e144641d137d320608174c3ada70ba46c467599f797bb6282c4d94bc07aa73", null ],
+      [ "QUEST_HOW_TO_WIN_FRIENDS", "de/db4/a02684.html#a4c1e144641d137d320608174c3ada70ba263b82da9ff2a85f24592bb6a39f4951", null ]
+    ] ],
+    [ "AddSC_the_scarlet_enclave_c2", "de/db4/a02684.html#aae283a7ae2c577c738ccad6a34533fec", null ]
 ];

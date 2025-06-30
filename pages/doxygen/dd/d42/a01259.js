@@ -1,4 +1,4 @@
 var a01259 =
 [
-    [ "ScriptRegistry< VehicleScript >", "dd/d42/a01259.html#af505a519aaa0d7e6070eb203075ff98d", null ]
+    [ "sWorldSocketMgr", "da/deb/a04764.html#ga43ae464e29649083953e305b20b3e27f", null ]
 ];

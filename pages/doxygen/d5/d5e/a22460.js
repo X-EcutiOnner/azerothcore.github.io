@@ -1,5 +1,6 @@
 var a22460 =
 [
-    [ "OutdoorPvP_silithus", "d5/d5e/a22460.html#a8b53dd86c265d277ad1cb49bd6a795bc", null ],
-    [ "GetOutdoorPvP", "d5/d5e/a22460.html#a126d6acc77218addd10072199ccd2470", null ]
+    [ "OutdoorPvPGH", "d5/d5e/a22460.html#a619492e0a1fdf75f37554a2f19268660", null ],
+    [ "SendRemoveWorldStates", "d5/d5e/a22460.html#a92c7e489717072ddc34f707fbe462cb2", null ],
+    [ "SetupOutdoorPvP", "d5/d5e/a22460.html#a3d62cb27cfa415c9ba7fe5c18384a75d", null ]
 ];

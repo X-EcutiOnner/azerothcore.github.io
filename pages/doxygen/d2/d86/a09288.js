@@ -1,8 +1,7 @@
 var a09288 =
 [
-    [ "MostHPMissingInRange", "d2/d86/a09288.html#afaa26b685d4e6b0b8d3e7f062ae9fe72", null ],
-    [ "operator()", "d2/d86/a09288.html#a420388204d8a1420552b902fbcb2bebe", null ],
-    [ "i_hp", "d2/d86/a09288.html#a4a70531f3dc19e7a2eedde0a03142297", null ],
-    [ "i_obj", "d2/d86/a09288.html#a6f803fd737b4cc81c7b9c890c49b497e", null ],
-    [ "i_range", "d2/d86/a09288.html#acef63da9004997c7f25056651284efa9", null ]
+    [ "GameObjectFocusCheck", "d2/d86/a09288.html#a06607ffa0ebf51c230f4584632a7444a", null ],
+    [ "operator()", "d2/d86/a09288.html#af5c0b63b8bfe112c9a8a43d7e49e1f7b", null ],
+    [ "i_focusId", "d2/d86/a09288.html#ace009546c2dcc6dac5de98b3c34152a5", null ],
+    [ "i_unit", "d2/d86/a09288.html#a0afc07e086f5aa3301c2b46a0004213e", null ]
 ];

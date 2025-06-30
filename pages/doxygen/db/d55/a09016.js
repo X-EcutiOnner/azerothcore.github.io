@@ -1,7 +1,6 @@
 var a09016 =
 [
-    [ "GetAntiDosPolicyForOpcode", "db/d55/a09016.html#a9bbbc92f18c1c34c3359d0cad4299c2d", null ],
-    [ "instance", "db/d55/a09016.html#a859596f153aa470fa503f67092e26160", null ],
-    [ "LoadAntiDosOpcodePolicies", "db/d55/a09016.html#a9bd2c1a1ce11d9a50971d169a353e7f6", null ],
-    [ "_antiDosOpcodePolicies", "db/d55/a09016.html#acb7a5639f7ba378483e50aba8e93d68a", null ]
+    [ "lang_id", "db/d55/a09016.html#a1fa900a467834103ac595a8a96dd28c0", null ],
+    [ "skill_id", "db/d55/a09016.html#a37ffc91876a998fe354ca1b7dffc512a", null ],
+    [ "spell_id", "db/d55/a09016.html#ac0acb5dfb8af32b382b3b51db4daa0f0", null ]
 ];

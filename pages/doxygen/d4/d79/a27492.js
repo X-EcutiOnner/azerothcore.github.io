@@ -1,11 +1,10 @@
 var a27492 =
 [
-    [ "npc_injured_patientAI", "d4/d79/a27492.html#a0973487623f1771c598648bc06a6d9a3", null ],
-    [ "JustEngagedWith", "d4/d79/a27492.html#a621a8cc3f6b9655760431d52766ca589", null ],
-    [ "Reset", "d4/d79/a27492.html#a007c9c7a4047374574cad17e9309d7c1", null ],
-    [ "SpellHit", "d4/d79/a27492.html#ac9381e7c958348ae7a5e98fea7dcbe37", null ],
-    [ "UpdateAI", "d4/d79/a27492.html#a54d0a5574175747779878dce0ebfd44f", null ],
-    [ "_scheduler", "d4/d79/a27492.html#a60428fa97c8f6520338d53ed368c4c35", null ],
-    [ "Coord", "d4/d79/a27492.html#af5a6f87c0379edd07a8756018b0c8661", null ],
-    [ "DoctorGUID", "d4/d79/a27492.html#ad1de0d556a784aa16d87b8367fdb38e3", null ]
+    [ "npc_air_force_botsAI", "d4/d79/a27492.html#a062eb272826d52ffd9b72054f970b761", null ],
+    [ "GetSummonedGuard", "d4/d79/a27492.html#ac4f39049ba15caf314939f12b82ccd05", null ],
+    [ "MoveInLineOfSight", "d4/d79/a27492.html#a474231c0ce93b4db0789bcc8f6767c19", null ],
+    [ "Reset", "d4/d79/a27492.html#a016911d354f3b00e2db3e4f3722cda7f", null ],
+    [ "SummonGuard", "d4/d79/a27492.html#a8da57471dfa875f55f52c3d2b068a0f3", null ],
+    [ "SpawnAssoc", "d4/d79/a27492.html#a6f2f7ffd24dd32780c441fd6ce29dfbf", null ],
+    [ "SpawnedGUID", "d4/d79/a27492.html#a3c8ae595a3b4a436c2f94aa84cb9ee56", null ]
 ];

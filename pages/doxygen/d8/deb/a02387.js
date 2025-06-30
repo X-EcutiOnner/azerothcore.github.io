@@ -1,6 +1,7 @@
 var a02387 =
 [
-    [ "npc_suns_reach_reclamation", "d0/d43/a27635.html", "d0/d43/a27635" ],
-    [ "npc_sunwell_gate", "d0/d2f/a27639.html", "d0/d2f/a27639" ],
-    [ "AddSC_suns_reach_reclamation", "d8/deb/a02387.html#ae3e186d64e39803c404f1afb2144557b", null ]
+    [ "go_transport_the_iron_eagle", "db/dc5/a27640.html", "db/dc5/a27640" ],
+    [ "go_transport_the_thundercaller", "d1/db1/a27644.html", "d1/db1/a27644" ],
+    [ "go_transport_the_purple_princess", "d6/d56/a27648.html", "d6/d56/a27648" ],
+    [ "AddSC_transport_zeppelins", "d8/deb/a02387.html#a29051596b0a3382db98c6b72f7ff3173", null ]
 ];

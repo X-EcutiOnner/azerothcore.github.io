@@ -1,6 +1,6 @@
 var a20308 =
 [
-    [ "boss_mimironAI", "df/dab/a20312.html", "df/dab/a20312" ],
-    [ "boss_mimiron", "da/d79/a20308.html#a72904837bd85e9f711fcf3da04c459c3", null ],
-    [ "GetAI", "da/d79/a20308.html#a1d4f38ecee62a2c2a608afc158fad7f2", null ]
+    [ "boss_kologarn_eyebeamAI", "df/dab/a20312.html", "df/dab/a20312" ],
+    [ "boss_kologarn_eyebeam", "da/d79/a20308.html#af28ff60e3b42f7316cc3d63624a91ee9", null ],
+    [ "GetAI", "da/d79/a20308.html#a34f5533a6bfe84c52fe0b0e854e694f8", null ]
 ];

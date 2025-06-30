@@ -1,9 +1,6 @@
 var a04439 =
 [
-    [ "BoundsTrait< VMAP::GroupModel >", "d6/d32/a05051.html", "d6/d32/a05051" ],
-    [ "VMAP::TriBoundFunc", "dc/d7e/a05055.html", "dc/d7e/a05055" ],
-    [ "VMAP::GModelRayCallback", "d6/de9/a05059.html", "d6/de9/a05059" ],
-    [ "VMAP::WModelRayCallBack", "da/d0f/a05063.html", "da/d0f/a05063" ],
-    [ "VMAP::WModelAreaCallback", "d3/df0/a05067.html", "d3/df0/a05067" ],
-    [ "IntersectTriangle", "d8/d3a/a04439.html#a4fa75e5ca5211394c63abc7ff28eb741", null ]
+    [ "GameObjectModelOwnerBase", "db/df9/a05044.html", "db/df9/a05044" ],
+    [ "GameObjectModel", "d0/d8b/a05048.html", "d0/d8b/a05048" ],
+    [ "LoadGameObjectModelList", "d8/d3a/a04439.html#a5a80774080fc05f90c7d92213fda6788", null ]
 ];

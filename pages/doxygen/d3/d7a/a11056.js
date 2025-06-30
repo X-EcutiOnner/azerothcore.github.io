@@ -1,11 +1,12 @@
 var a11056 =
 [
-    [ "SpellValue", "d3/d7a/a11056.html#a2aebedc86822634a0a80de7a4c16dd7f", null ],
-    [ "AuraDuration", "d3/d7a/a11056.html#af44c190ba8a8636d78f8d271656bdd02", null ],
-    [ "AuraStackAmount", "d3/d7a/a11056.html#af9d7a902bd7d6a24f2ef9480e725d8e8", null ],
-    [ "EffectBasePoints", "d3/d7a/a11056.html#a4de44adea4dc620f0871215e4d4f611d", null ],
-    [ "ForcedCritResult", "d3/d7a/a11056.html#a14f0fd1b3351297e5c71e34e0c9a44fb", null ],
-    [ "MaxAffectedTargets", "d3/d7a/a11056.html#a69ea555bb8ae6642a0c9c85b3f9b373c", null ],
-    [ "MiscVal", "d3/d7a/a11056.html#af81b9a29e521e28a4e88b8677f05a93f", null ],
-    [ "RadiusMod", "d3/d7a/a11056.html#a135bbce8300101411e87a70467dbbd57", null ]
+    [ "UnitAura", "d3/d7a/a11056.html#ada4033955271dfb21d16a95b316087f5", null ],
+    [ "_ApplyForTarget", "d3/d7a/a11056.html#a920549cf55c8def37149b00ae971127d", null ],
+    [ "_UnapplyForTarget", "d3/d7a/a11056.html#af4d453cee6758e633bdcae0049581898", null ],
+    [ "FillTargetMap", "d3/d7a/a11056.html#add5ce04446338e078c5986420abfd16e", null ],
+    [ "GetDiminishGroup", "d3/d7a/a11056.html#a8ebf7b01e7f324938f68ad4ce74d56b5", null ],
+    [ "Remove", "d3/d7a/a11056.html#a28f714404942bb5c614ac844cf937546", null ],
+    [ "SetDiminishGroup", "d3/d7a/a11056.html#a6d858a153c5d3046574f3387ab852050", null ],
+    [ "Aura::Create", "d3/d7a/a11056.html#ae2c0fdfb409846fec5e861de60797112", null ],
+    [ "m_AuraDRGroup", "d3/d7a/a11056.html#a4b413c5e62eee76875a22345059e6124", null ]
 ];

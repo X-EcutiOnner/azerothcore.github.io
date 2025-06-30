@@ -1,8 +1,11 @@
 var a27524 =
 [
-    [ "npc_wormholeAI", "de/da4/a27528.html", "de/da4/a27528" ],
-    [ "npc_wormhole", "df/d35/a27524.html#aeace4cbf665409786b86140709191cb0", null ],
-    [ "GetAI", "df/d35/a27524.html#af43ec809ce2efe2cd7127029f3c3ec45", null ],
-    [ "OnGossipHello", "df/d35/a27524.html#a6ae1a84557f8dc0f0631b9cc7e88d78e", null ],
-    [ "OnGossipSelect", "df/d35/a27524.html#a73e441bf05f8a4ea7f57d767945e2d5d", null ]
+    [ "npc_injured_patientAI", "df/d35/a27524.html#a0973487623f1771c598648bc06a6d9a3", null ],
+    [ "JustEngagedWith", "df/d35/a27524.html#a621a8cc3f6b9655760431d52766ca589", null ],
+    [ "Reset", "df/d35/a27524.html#a007c9c7a4047374574cad17e9309d7c1", null ],
+    [ "SpellHit", "df/d35/a27524.html#ac9381e7c958348ae7a5e98fea7dcbe37", null ],
+    [ "UpdateAI", "df/d35/a27524.html#a54d0a5574175747779878dce0ebfd44f", null ],
+    [ "_scheduler", "df/d35/a27524.html#a60428fa97c8f6520338d53ed368c4c35", null ],
+    [ "Coord", "df/d35/a27524.html#af5a6f87c0379edd07a8756018b0c8661", null ],
+    [ "DoctorGUID", "df/d35/a27524.html#ad1de0d556a784aa16d87b8367fdb38e3", null ]
 ];

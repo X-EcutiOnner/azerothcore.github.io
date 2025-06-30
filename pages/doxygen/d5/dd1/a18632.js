@@ -1,5 +1,6 @@
 var a18632 =
 [
-    [ "at_icc_shutdown_traps", "d5/dd1/a18632.html#aa13f5d78d3032e8114e9978f42468f64", null ],
-    [ "OnTrigger", "d5/dd1/a18632.html#abb31b3f6d0b159b625d731ac47127005", null ]
+    [ "npc_arthas_teleport_visualAI", "d2/d64/a18636.html", "d2/d64/a18636" ],
+    [ "npc_arthas_teleport_visual", "d5/dd1/a18632.html#a62d2caed6b12355f6d7aeceabba2ddaf", null ],
+    [ "GetAI", "d5/dd1/a18632.html#a393d5ef960b9ee0cf8feeeeb5d81045d", null ]
 ];

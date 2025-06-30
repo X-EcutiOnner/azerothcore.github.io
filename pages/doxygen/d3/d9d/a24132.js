@@ -1,20 +1,16 @@
 var a24132 =
 [
-    [ "npc_lord_illidan_stormrageAI", "d3/d9d/a24132.html#a3b48b42c72b51bbdb222f6cd03e50ec8", null ],
-    [ "AttackStart", "d3/d9d/a24132.html#a5f73b83a07f24403cf55de7ef485c003", null ],
-    [ "CheckEventFail", "d3/d9d/a24132.html#aef1607c2132ae78b45d4f209a4320a88", null ],
-    [ "JustEngagedWith", "d3/d9d/a24132.html#af7166b3c7401a74615cdb5c0964200f6", null ],
-    [ "LiveCounter", "d3/d9d/a24132.html#a625b2891d3f9807da7733f678ea29313", null ],
-    [ "MoveInLineOfSight", "d3/d9d/a24132.html#a5c2313ac5767339cd26196f52ff05c5f", null ],
-    [ "Reset", "d3/d9d/a24132.html#a035b85302d54adf9bd7af82cadfd0317", null ],
-    [ "SummonNextWave", "d3/d9d/a24132.html#a240ee54d49248a1700e767568fe93648", null ],
-    [ "UpdateAI", "d3/d9d/a24132.html#a9cf7d73c5f81980c08f785dc3af47dec", null ],
-    [ "Announced", "d3/d9d/a24132.html#a448ba6e2b21273b8e07b6d0a79e856e2", null ],
-    [ "AnnounceTimer", "d3/d9d/a24132.html#a7037e4b43f274f3e2ce45143c029b070", null ],
-    [ "EventStarted", "d3/d9d/a24132.html#a41b3b39d2ea0eeca4b60960f3a903ee8", null ],
-    [ "Failed", "d3/d9d/a24132.html#aba564e34f0358d6c2a3c6ae91e17bf10", null ],
-    [ "LiveCount", "d3/d9d/a24132.html#ab86239a6470a82749f96eb5515c46c59", null ],
-    [ "PlayerGUID", "d3/d9d/a24132.html#af30c5c09f0262479b8920269f7bf198a", null ],
-    [ "WaveCount", "d3/d9d/a24132.html#abdd03400f582e9477bb376e2b34e7a0e", null ],
-    [ "WaveTimer", "d3/d9d/a24132.html#ae727157e6b52817051fea075c2cb7cb1", null ]
+    [ "npc_dragonmaw_peonAI", "d3/d9d/a24132.html#a6f1255fead5357001ec85fdaa6980249", null ],
+    [ "CreditPlayer", "d3/d9d/a24132.html#a5cf28e156cab2e2066bb94bc99233a2b", null ],
+    [ "JustEngagedWith", "d3/d9d/a24132.html#abd5b37793aa2fb150c808b7dc7270763", null ],
+    [ "MovementInform", "d3/d9d/a24132.html#a0ee4038f90d54c75c48b2448dacb5724", null ],
+    [ "Reset", "d3/d9d/a24132.html#a9d876ec76b51f743c71e67749c21d939", null ],
+    [ "SpellHit", "d3/d9d/a24132.html#abe5162608ba0acd7360a630562ff5935", null ],
+    [ "UpdateAI", "d3/d9d/a24132.html#a98a045606d9e689ef25a5068b81b1ebf", null ],
+    [ "events", "d3/d9d/a24132.html#a7d6fb37d1953630aa79f8665eca0db61", null ],
+    [ "PlayerGUID", "d3/d9d/a24132.html#ad6838d98e34a32cbed42c77cdf096070", null ],
+    [ "Tapped", "d3/d9d/a24132.html#ae393f8d3cb47f38a4c4314a262826d03", null ],
+    [ "x", "d3/d9d/a24132.html#acebbfa8da88d8d683ba5ea6463f6b5f7", null ],
+    [ "y", "d3/d9d/a24132.html#ae5a1d416c712803ec0b80ae7ccf29e2d", null ],
+    [ "z", "d3/d9d/a24132.html#a7722420716c030b5abe7b760199df14d", null ]
 ];

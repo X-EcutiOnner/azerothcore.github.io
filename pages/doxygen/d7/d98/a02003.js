@@ -1,6 +1,8 @@
 var a02003 =
 [
-    [ "InstanceMapScript", "da/d85/a10295.html", "da/d85/a10295" ],
-    [ "GenericInstanceMapScript< IS >", "d7/d8f/a10299.html", "d7/d8f/a10299" ],
-    [ "RegisterInstanceScript", "d7/d98/a02003.html#a78044a95772db069981b463451a60613", null ]
+    [ "MovementHandlerScript", "d3/d0c/a10336.html", "d3/d0c/a10336" ],
+    [ "MovementHook", "d7/d98/a02003.html#a5763e953c65ba38409a14469a1fe2842", [
+      [ "MOVEMENTHOOK_ON_PLAYER_MOVE", "d7/d98/a02003.html#a5763e953c65ba38409a14469a1fe2842a9fb1a9d074f81a435e688f4cd7d12326", null ],
+      [ "MOVEMENTHOOK_END", "d7/d98/a02003.html#a5763e953c65ba38409a14469a1fe2842ae0cf6cfe134c99cc596bac2607905b9c", null ]
+    ] ]
 ];

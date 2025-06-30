@@ -1,13 +1,8 @@
 var a08728 =
 [
-    [ "MMapTargetData", "da/d71/a08728.html#a33cc430ea3c4b5dd4012a16914dc8aeb", null ],
-    [ "MMapTargetData", "da/d71/a08728.html#a8312ea3187617e78b28aab842a8284cc", null ],
-    [ "MMapTargetData", "da/d71/a08728.html#a4108ff5fbbf7c468ff7d90ac7beea4fa", null ],
-    [ "MMapTargetData", "da/d71/a08728.html#a3547f93af46826a051f1164ac1fc9ccc", null ],
-    [ "operator=", "da/d71/a08728.html#a4053689f5f675cf1a621dfb39211b3cc", null ],
-    [ "operator=", "da/d71/a08728.html#a130fe2b359f583acab99c51eb9d0b1ad", null ],
-    [ "PosChanged", "da/d71/a08728.html#ade55876b7781b47a72dac9fea1f2e420", null ],
-    [ "_endTime", "da/d71/a08728.html#a5506c303d668bbead180fe2a8c2ed48e", null ],
-    [ "_posOwner", "da/d71/a08728.html#aeaf1e739388ab834e8c845fa366bbfd3", null ],
-    [ "_posTarget", "da/d71/a08728.html#a7f089d873690e8ea549f6345b6598fc4", null ]
+    [ "AttackPosition", "da/d71/a08728.html#a6681bcab6c497d2c7fc6e5585f422744", null ],
+    [ "operator=", "da/d71/a08728.html#a019fe5d4c053c1d6980789b7f97f6e54", null ],
+    [ "operator==", "da/d71/a08728.html#a320adced006c0f70456492c9e9dc99c2", null ],
+    [ "_pos", "da/d71/a08728.html#a77783e0e6e83836ad6e5903535ad9370", null ],
+    [ "_taken", "da/d71/a08728.html#a113512b8ab66c879fd85c43263c3b7f1", null ]
 ];

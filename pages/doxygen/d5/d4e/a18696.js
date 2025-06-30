@@ -1,6 +1,7 @@
 var a18696 =
 [
-    [ "npc_icc_skybreaker_luminaryAI", "df/d7a/a18700.html", "df/d7a/a18700" ],
-    [ "npc_icc_skybreaker_luminary", "d5/d4e/a18696.html#aff97d0425cf86a8b411ef3e2bd0cc054", null ],
-    [ "GetAI", "d5/d4e/a18696.html#ad1378aaa7438758f8a796d8e74ae0ce8", null ]
+    [ "OnPeriodic", "d5/d4e/a18696.html#a32c4b856d6248062fbdc1dea13d876ac", null ],
+    [ "PrepareAuraScript", "d5/d4e/a18696.html#a87260a1cd06190f5412f3cab0f448a01", null ],
+    [ "Register", "d5/d4e/a18696.html#a00827210671b959a030655f6be5edac6", null ],
+    [ "Validate", "d5/d4e/a18696.html#a7163fb09fd8568a7ef5a5c37147ed5b0", null ]
 ];

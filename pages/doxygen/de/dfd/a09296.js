@@ -1,7 +1,8 @@
 var a09296 =
 [
-    [ "FriendlyCCedInRange", "de/dfd/a09296.html#ae8dcff3f285f208b0db8aa3efed202a1", null ],
-    [ "operator()", "de/dfd/a09296.html#a0e241f930cee855664aeac3604d5c023", null ],
-    [ "i_obj", "de/dfd/a09296.html#a73d3e29bbdc7fd4aa162be3cb7ecbe08", null ],
-    [ "i_range", "de/dfd/a09296.html#a49e79f3aea0c7e8c321c9f297b71a9b2", null ]
+    [ "NearestGameObjectCheck", "de/dfd/a09296.html#aa8ede7ca83cc53cc5b4a8a057f6e8477", null ],
+    [ "NearestGameObjectCheck", "de/dfd/a09296.html#a366ef1710823d1e52eb2df650e60562f", null ],
+    [ "operator()", "de/dfd/a09296.html#a00df56adb5c6459c59b5ae4e0b85f0d3", null ],
+    [ "i_obj", "de/dfd/a09296.html#aeaec0e0f53cb870e1f0a93f8b05b74bc", null ],
+    [ "i_range", "de/dfd/a09296.html#a92fc9a7ac2995ad962173ae3a794e825", null ]
 ];

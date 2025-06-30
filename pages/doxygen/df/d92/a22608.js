@@ -1,6 +1,8 @@
 var a22608 =
 [
-    [ "PrepareSpellScript", "df/d92/a22608.html#abd6b61e7efbed1427b7603640ac7d474", null ],
-    [ "RecalculateDamage", "df/d92/a22608.html#a02b59e5ac84c8556c9a9441ff6414461", null ],
-    [ "Register", "df/d92/a22608.html#ab6183bf9e49d3c11c256e54053c13aa2", null ]
+    [ "FilterTargets", "df/d92/a22608.html#a9e0a72530a8dc764269e8df6d9d1ed3d", null ],
+    [ "HandleDummyHitTarget", "df/d92/a22608.html#ae892090a9bd48aa447224c9f96801d37", null ],
+    [ "PrepareSpellScript", "df/d92/a22608.html#af08ab4fcc3705b07e89ed222794e70e9", null ],
+    [ "Register", "df/d92/a22608.html#aeb1aad59b6b4767a63660c5fe0277392", null ],
+    [ "Validate", "df/d92/a22608.html#a5a87a7c18a55caf5288b8ca8bbd2f361", null ]
 ];

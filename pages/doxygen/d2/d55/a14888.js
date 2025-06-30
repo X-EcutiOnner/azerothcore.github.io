@@ -1,7 +1,4 @@
 var a14888 =
 [
-    [ "boss_kurinnaxx", "d2/d55/a14888.html#aa8b471e6239080b2a5f70e50e07a9621", null ],
-    [ "InitializeAI", "d2/d55/a14888.html#a0e249007d5bf29eb0cff307045ef9eb3", null ],
-    [ "JustDied", "d2/d55/a14888.html#adb749c8737888a099ad7a3d58292a612", null ],
-    [ "JustEngagedWith", "d2/d55/a14888.html#a451cd7ee80b0428a199c33012562bdb3", null ]
+    [ "instance_razorfen_kraul_InstanceMapScript", "d2/d55/a14888.html#a60715ab6220e798f16b16bcaa3714ad9", null ]
 ];

@@ -1,6 +1,6 @@
 var a23748 =
 [
-    [ "HandlePeriodic", "d2/dbe/a23748.html#aec3f36e2c5fedddd84478b9e3a59e6f4", null ],
-    [ "PrepareAuraScript", "d2/dbe/a23748.html#a2b809a60626119f6bcf595bd3581c2be", null ],
-    [ "Register", "d2/dbe/a23748.html#a299f84e9c12406c79a56999a13de5c1c", null ]
+    [ "OnApply", "d2/dbe/a23748.html#a472220f22165c6d21eab5f4b5f75921e", null ],
+    [ "PrepareAuraScript", "d2/dbe/a23748.html#a12dba24d5aa3d41671980d8dd509d6f2", null ],
+    [ "Register", "d2/dbe/a23748.html#aa8530071a4053e6c6f8b194a9cc723e2", null ]
 ];

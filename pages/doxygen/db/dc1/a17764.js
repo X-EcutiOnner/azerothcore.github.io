@@ -1,6 +1,6 @@
 var a17764 =
 [
-    [ "npc_gas_cloudAI", "db/dc1/a17764.html#a44e6f92ed3731beb8a36db66da9fbdef", null ],
-    [ "CastMainSpell", "db/dc1/a17764.html#a61681f6f9616fe33274302d4160c709b", null ],
-    [ "_newTargetSelectTimer", "db/dc1/a17764.html#a6989b904abaa5b71362e43664f4b084d", null ]
+    [ "HandleScriptEffect", "db/dc1/a17764.html#ac6017cbe86b328aef00f707051c67e5f", null ],
+    [ "PrepareSpellScript", "db/dc1/a17764.html#a3e21794652b0ffea67571f9b294b4961", null ],
+    [ "Register", "db/dc1/a17764.html#a4d070dff98fed842e0a3839e918f7c5a", null ]
 ];

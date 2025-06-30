@@ -1,9 +1,7 @@
 var a15000 =
 [
-    [ "npc_eye_tentacle", "d8/d68/a15000.html#a106deeb95d74597377d32e81695dc3c9", null ],
-    [ "JustDied", "d8/d68/a15000.html#aac965d97034f4f623172297e4f82647e", null ],
-    [ "JustEngagedWith", "d8/d68/a15000.html#a5f89f08634eeb79f0f9ac726cdf1841b", null ],
-    [ "Reset", "d8/d68/a15000.html#a715439dfa31b4cf9df7ddd678d912108", null ],
-    [ "UpdateAI", "d8/d68/a15000.html#a48f9067f27d61e609a014669c1daedb9", null ],
-    [ "_portalGUID", "d8/d68/a15000.html#aeaa4ec0553480b9490d5e52820c2b77f", null ]
+    [ "npc_hivezara_stinger", "d8/d68/a15000.html#ac9438c9dd260a41d6248f2adcc14b555", null ],
+    [ "JustEngagedWith", "d8/d68/a15000.html#a433d31057f1732ef7ef15d2023e18b8a", null ],
+    [ "Reset", "d8/d68/a15000.html#ae8e893c90942a469628c393d5b5380cc", null ],
+    [ "UpdateAI", "d8/d68/a15000.html#a35a6511ebc0301ae0bb22aafc91c8524", null ]
 ];

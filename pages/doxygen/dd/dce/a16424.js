@@ -1,6 +1,7 @@
 var a16424 =
 [
-    [ "npc_fel_infernalAI", "d3/d9e/a16428.html", "d3/d9e/a16428" ],
-    [ "npc_fel_infernal", "dd/dce/a16424.html#a2d2ed8cf09c97d30b6c79dcdf9153ed9", null ],
-    [ "GetAI", "dd/dce/a16424.html#a768201a7516c9972800c941cf2079a11", null ]
+    [ "npc_toc_rogueAI", "dd/dce/a16424.html#a34027e7d10edbfba8e046f4785e37899", null ],
+    [ "myCanCast", "dd/dce/a16424.html#a85ed8e251dd8356e678536f1e3f3c93d", null ],
+    [ "UpdateAI", "dd/dce/a16424.html#a49b0655def227684f07bd60a3c1e0ce1", null ],
+    [ "events", "dd/dce/a16424.html#a1519bebb81b64d57b2b0b34a059b83f8", null ]
 ];

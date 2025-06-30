@@ -1,11 +1,17 @@
 var a11848 =
 [
-    [ "boss_draganthaurissanAI", "d0/d50/a11848.html#a2ecd55ed9e7e48829cb85862e965b7d8", null ],
-    [ "JustDied", "d0/d50/a11848.html#a7a7d4737c4825cfabc1012f9cce0e38a", null ],
-    [ "JustEngagedWith", "d0/d50/a11848.html#a00604bed2c13a7b470d950059122f018", null ],
-    [ "KilledUnit", "d0/d50/a11848.html#acec58686917d6e5aff9a51a96b023174", null ],
-    [ "SetData", "d0/d50/a11848.html#aaa43aa340f946f3b8361f2bb7b29ef40", null ],
-    [ "UpdateAI", "d0/d50/a11848.html#a04eaea53b78d490373f9bb911cc92596", null ],
-    [ "hasYelled", "d0/d50/a11848.html#aef5ede4f444e85fafd30faab6043672b", null ],
-    [ "SenatorYells", "d0/d50/a11848.html#ab4b27bf33b58b44ac604ca6bf6b5e424", null ]
+    [ "boss_ambassador_flamelashAI", "d0/d50/a11848.html#a33afad6262abe2a0c9224a4b5bb3ce28", null ],
+    [ "DoAction", "d0/d50/a11848.html#a6466b6b4a275849a813a362ef6b1d518", null ],
+    [ "getValidRandomPosition", "d0/d50/a11848.html#ae9faa36cdc7a0d6faf0b7d4ec5b380e9", null ],
+    [ "JustDied", "d0/d50/a11848.html#a2d2a162132b7f4c0a5faf1f86a476002", null ],
+    [ "JustEngagedWith", "d0/d50/a11848.html#a79138cf6c886c843544b948778f91145", null ],
+    [ "JustSummoned", "d0/d50/a11848.html#a9ec61ccf9984a9a68091ca9fba7582df", null ],
+    [ "Reset", "d0/d50/a11848.html#ae2dd71a0edfc489645de130a8b731392", null ],
+    [ "SummonSpirits", "d0/d50/a11848.html#a6c88f2f38d3072f5192fc0b9bd2c6e04", null ],
+    [ "TurnRunes", "d0/d50/a11848.html#aefcdf4c5b663671fb96395e280141bbb", null ],
+    [ "UpdateAI", "d0/d50/a11848.html#a528436b7e4e55910d1eb6e00831e7e41", null ],
+    [ "_events", "d0/d50/a11848.html#a80aaeb0ce3a5fe101aedbdfc2489bafe", null ],
+    [ "foundValidPosition", "d0/d50/a11848.html#a4b3a75fa687361efc85ebc0da7bf2b75", null ],
+    [ "summons", "d0/d50/a11848.html#a6c1a07a1a59b46d65683436f32f76bf9", null ],
+    [ "validPosition", "d0/d50/a11848.html#af11a0cddced13c34a012c8df964ab68a", null ]
 ];

@@ -1,12 +1,17 @@
 var a11140 =
 [
-    [ "cooldown", "d8/dd7/a11140.html#a0cd88c27979ccc5284aa46846db32a7c", null ],
-    [ "customChance", "d8/dd7/a11140.html#adf6742b70f0b00abddf1da6f45da3d16", null ],
-    [ "ppmRate", "d8/dd7/a11140.html#a931b2df4a187482e32ef252c3320080a", null ],
-    [ "procEx", "d8/dd7/a11140.html#a911770f28fe36243593b12fe92d6fbec", null ],
-    [ "procFlags", "d8/dd7/a11140.html#af253ef32b9de49fe85d0fe6f06855a60", null ],
-    [ "procPhase", "d8/dd7/a11140.html#a179d83770a02e4ab13f809ed3943a399", null ],
-    [ "schoolMask", "d8/dd7/a11140.html#a9a6d38ee4e4a35066780ef924c63f92f", null ],
-    [ "spellFamilyMask", "d8/dd7/a11140.html#a2aa57bf419ab51129fe7240750ee8910", null ],
-    [ "spellFamilyName", "d8/dd7/a11140.html#a5ffa91b3f66ebb0ac34f30e1c532fb3a", null ]
+    [ "StaticData", "d8/d4f/a11144.html", "d8/d4f/a11144" ],
+    [ "SpellImplicitTargetInfo", "d8/dd7/a11140.html#a6eadac193f40d3a14db74d6e07552bdb", null ],
+    [ "SpellImplicitTargetInfo", "d8/dd7/a11140.html#a8e746c8dd4956a1bedc78c932740dfca", null ],
+    [ "CalcDirectionAngle", "d8/dd7/a11140.html#ac726d7df6103bc991e650c5d221ec4cc", null ],
+    [ "GetCheckType", "d8/dd7/a11140.html#a1822c2908aff0701ab6e56ccf1c83a83", null ],
+    [ "GetDirectionType", "d8/dd7/a11140.html#a094f5c6bc82196355aeded09cb469b7c", null ],
+    [ "GetExplicitTargetMask", "d8/dd7/a11140.html#ad368870f99d85f27ae2a15ee75b4b5dd", null ],
+    [ "GetObjectType", "d8/dd7/a11140.html#a964c185b1d3ed3563c6efa68e8bf9f42", null ],
+    [ "GetReferenceType", "d8/dd7/a11140.html#a59769a12291673682e1b5c3650e8aff7", null ],
+    [ "GetSelectionCategory", "d8/dd7/a11140.html#a5dd39484ccfed1e34b27d957614b45e6", null ],
+    [ "GetTarget", "d8/dd7/a11140.html#ae5a138c973300efce4744ea260108097", null ],
+    [ "IsArea", "d8/dd7/a11140.html#a263a4660dfdf8b77f69e5475048b414b", null ],
+    [ "_data", "d8/dd7/a11140.html#a1a05bbd8400ec4451ca34b2754e056e9", null ],
+    [ "_target", "d8/dd7/a11140.html#ab2cec29c53f0b9bc6a016ce177f97c1d", null ]
 ];

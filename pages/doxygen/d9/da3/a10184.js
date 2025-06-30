@@ -1,10 +1,10 @@
 var a10184 =
 [
-    [ "AllItemScript", "d9/da3/a10184.html#a7c0e310c69966e0eab6f2951dedcda63", null ],
-    [ "CanItemExpire", "d9/da3/a10184.html#aa2a9c691b4ba5d06f65555a7092fffc3", null ],
-    [ "CanItemQuestAccept", "d9/da3/a10184.html#a545e2bc7436a064146025954eaf5ae92", null ],
-    [ "CanItemRemove", "d9/da3/a10184.html#ad29a7f5d07d56127bc00846e1a7fb067", null ],
-    [ "CanItemUse", "d9/da3/a10184.html#a89d237f426840658e4423fb9cc7428db", null ],
-    [ "OnItemGossipSelect", "d9/da3/a10184.html#a7157f72c6d09988b60480d1671892cde", null ],
-    [ "OnItemGossipSelectCode", "d9/da3/a10184.html#a9e13f025e5cf10bf51c87a4dc1e7968d", null ]
+    [ "AchievementScript", "d9/da3/a10184.html#a85f0d7a676e7e31bc87ca64040b29489", null ],
+    [ "CanCheckCriteria", "d9/da3/a10184.html#aca4cb16b55f7990c676267b8f10b4e57", null ],
+    [ "IsCompletedCriteria", "d9/da3/a10184.html#a33d7ba1a6bf82da8e2de367553c0fb52", null ],
+    [ "IsDatabaseBound", "d9/da3/a10184.html#a9ea2ed91c281e881404c31a948de0fc9", null ],
+    [ "IsRealmCompleted", "d9/da3/a10184.html#abc54c295c1bcad45e21aed99e43a3713", null ],
+    [ "OnBeforeCheckCriteria", "d9/da3/a10184.html#afac6fc03c2ba91165fbdf2ccc5422063", null ],
+    [ "SetRealmCompleted", "d9/da3/a10184.html#acf6a63ba96da7b33a92d48a95a549d4e", null ]
 ];

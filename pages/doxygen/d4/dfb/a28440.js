@@ -1,8 +1,11 @@
 var a28440 =
 [
-    [ "prepareLoadedData", "d4/dfb/a28440.html#a696cfebd8fe66840b316919519e9b319", null ],
-    [ "fcc", "d4/dfb/a28440.html#a83cb69fb9eb6eff82a513c75301e5bf6", null ],
-    [ "fcc_txt", "d4/dfb/a28440.html#a9c7e27f948978d771115ca4f88f70b5d", null ],
-    [ "height_map", "d4/dfb/a28440.html#a50a7fa80b59ba9c0fcd8d93bd924a13f", null ],
-    [ "size", "d4/dfb/a28440.html#add2809c6e520cf4aa43807d61f973f0e", null ]
+    [ "IsAvailable", "d4/dfb/a28440.html#adfebd7a162ebae8396669de031c768a6", null ],
+    [ "operator bool", "d4/dfb/a28440.html#ac25d4bb270c805b8ea2a6e0b4b6b2e74", null ],
+    [ "operator*", "d4/dfb/a28440.html#a24733bf06b4a91abcf4945aa5303a275", null ],
+    [ "operator->", "d4/dfb/a28440.html#ad0ddd6fe7451f2b968db3a7d7a93b342", null ],
+    [ "SecretMgr", "d4/dfb/a28440.html#af098c138ad828545a3dfb1870ad4c2fb", null ],
+    [ "lock", "d4/dfb/a28440.html#aff5ea87e5a7dbfdf5bd38400997f2c40", null ],
+    [ "state", "d4/dfb/a28440.html#a01563e00123d442b82bd6389d838c23d", null ],
+    [ "value", "d4/dfb/a28440.html#a16b48eb9b384f6ab8c6996b38f559825", null ]
 ];

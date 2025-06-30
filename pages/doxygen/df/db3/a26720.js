@@ -1,10 +1,11 @@
 var a26720 =
 [
-    [ "CalculateAmount", "df/db3/a26720.html#a9e0e28d871f9d3c89cf2dc862971321d", null ],
-    [ "Detonate", "df/db3/a26720.html#adc622aae157984546dfe3d8373c0c413", null ],
-    [ "HandleProc", "df/db3/a26720.html#a3b5812649b67830d8dc6d10b5dd1c937", null ],
-    [ "OnRemove", "df/db3/a26720.html#a5067cef0afc99d487f995f8d6edea21f", null ],
-    [ "PrepareAuraScript", "df/db3/a26720.html#abc23ebb3761e3505486ac578bdeaeeed", null ],
-    [ "Register", "df/db3/a26720.html#acc4819698e175889a0491d7f7cc680fd", null ],
-    [ "Validate", "df/db3/a26720.html#a0649826ce0d66c9f21be8d47c76f4941", null ]
+    [ "CalcPeriodic", "df/db3/a26720.html#aeb804ef41ec5600c18b5b1c9fcf37479", null ],
+    [ "CalculateAPAmount", "df/db3/a26720.html#a72bd308dbeaa7eca5685f3e5055d7fad", null ],
+    [ "CalculateResistanceAmount", "df/db3/a26720.html#a12a0f547198d150b0c51e481dd0ff6aa", null ],
+    [ "CalculateSPAmount", "df/db3/a26720.html#a114c868f0dc31f3370588b1bd1f18894", null ],
+    [ "CalculateStatAmount", "df/db3/a26720.html#ae7ba2e3eca6c93325ede8b100e32bd3c", null ],
+    [ "HandlePeriodic", "df/db3/a26720.html#af5076795e8bf6abd45590a060f9e5b52", null ],
+    [ "PrepareAuraScript", "df/db3/a26720.html#aa512873852c0eea9947472fcb60fbfc2", null ],
+    [ "Register", "df/db3/a26720.html#a40ed4ca839b9783d9a8e9930f87a2eb8", null ]
 ];

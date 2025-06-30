@@ -1,6 +1,6 @@
 var a17540 =
 [
-    [ "PrepareSpellScript", "d0/d49/a17540.html#a47df21229183b628c1d82bf34cbbe396", null ],
-    [ "Register", "d0/d49/a17540.html#a3cc4a1180f66cd9fe19020c1e5f2fccb", null ],
-    [ "RelocateTransportOffset", "d0/d49/a17540.html#acab29d77b4806f5d59ddc5dc3493c8ae", null ]
+    [ "npc_gunship_boarding_leaderAI", "d6/d8c/a17544.html", "d6/d8c/a17544" ],
+    [ "npc_gunship_boarding_leader", "d0/d49/a17540.html#a8390eadab34a89643252f573588b140a", null ],
+    [ "GetAI", "d0/d49/a17540.html#ae422c8a1de8fb909a89d2ad2f516e3b4", null ]
 ];

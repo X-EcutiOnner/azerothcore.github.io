@@ -1,11 +1,8 @@
 var a20800 =
 [
-    [ "boss_yoggsaron_lich_kingAI", "d5/d37/a20800.html#a4fcf1be1bc20327ff8daf9c79baabde7", null ],
-    [ "NextStep", "d5/d37/a20800.html#a4f99e511d6296b56df8ab8fbe53620e6", null ],
-    [ "Reset", "d5/d37/a20800.html#a4c8f098f245e90685f0f3660028500a8", null ],
-    [ "Say", "d5/d37/a20800.html#a01217dd4c33b0ccae448aa137e83dd9b", null ],
-    [ "UpdateAI", "d5/d37/a20800.html#a3cbe18164c993fd034242b3f19d27e31", null ],
-    [ "_checkTimer", "d5/d37/a20800.html#a8f0234b32612ff56ac6a7429f6e4da09", null ],
-    [ "_running", "d5/d37/a20800.html#a9d7f0f2a8cf4f421253c8c5a6ec98111", null ],
-    [ "_step", "d5/d37/a20800.html#a6af98b3daace7852a485983167538f85", null ]
+    [ "boss_yoggsaron_crusher_tentacleAI", "d5/d37/a20800.html#a63d63a0b981c278fcfadfdda1feb5a12", null ],
+    [ "DamageTaken", "d5/d37/a20800.html#ac2458922b2530929ee1adbcc0da834a0", null ],
+    [ "DoAction", "d5/d37/a20800.html#abcc42381f37256e5c5ab2a42f8ef2c29", null ],
+    [ "Reset", "d5/d37/a20800.html#af33db4e2ce1bb85e38437db6ca7982f7", null ],
+    [ "UpdateAI", "d5/d37/a20800.html#a8329bc78fc037655d48cb9bf0abd8447", null ]
 ];

@@ -1,12 +1,11 @@
 var a22624 =
 [
-    [ "boss_gurtogg_bloodboil", "d6/d38/a22624.html#af6abec4e4db5ce939e4c9593656d16fb", null ],
-    [ "CanAIAttack", "d6/d38/a22624.html#a60e6439bab689eb88a18612b6b46c713", null ],
-    [ "CheckEvadeIfOutOfCombatArea", "d6/d38/a22624.html#a42db4d9fab6edfc392e1886c7d2770cb", null ],
-    [ "JustDied", "d6/d38/a22624.html#a10456695efc6ea0b8eace24b94c37cc3", null ],
-    [ "JustEngagedWith", "d6/d38/a22624.html#a0847173efbae252c2fbbaf1be17097cb", null ],
-    [ "JustSummoned", "d6/d38/a22624.html#ae718666a1da0e93cb0965c42c40b51df", null ],
-    [ "KilledUnit", "d6/d38/a22624.html#ab2b8131fc06f0ff6dd9e3ac7799e72db", null ],
-    [ "Reset", "d6/d38/a22624.html#add25677d422b8bddcb753465451f0584", null ],
-    [ "_recentlySpoken", "d6/d38/a22624.html#a74af813b84f7787a5b764cfe574c087b", null ]
+    [ "boss_blackheart_the_inciter", "d6/d38/a22624.html#a772b2b4574fa6ccd445924193985859b", null ],
+    [ "EnterEvadeMode", "d6/d38/a22624.html#aaf2c9d37b0af1db1d35af01923eca45b", null ],
+    [ "JustDied", "d6/d38/a22624.html#a1e7ca1ade637766d4c6039c50e9c85f7", null ],
+    [ "JustEngagedWith", "d6/d38/a22624.html#abeb0cc4ff2543531f7a7c7993559f1cb", null ],
+    [ "KilledUnit", "d6/d38/a22624.html#ad7de71ea14e5be6e2b126edde1c78ab6", null ],
+    [ "Reset", "d6/d38/a22624.html#add75633d1c04d0be91e7e80f28213917", null ],
+    [ "UpdateAI", "d6/d38/a22624.html#a0648c4bbabf30efd706b973bf8028dbb", null ],
+    [ "InciteChaos", "d6/d38/a22624.html#a640c5301b22a0bfef2c4bcac4556a992", null ]
 ];

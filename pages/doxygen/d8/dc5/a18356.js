@@ -1,6 +1,6 @@
 var a18356 =
 [
-    [ "boss_valithria_dreamwalkerAI", "d6/d8c/a18360.html", "d6/d8c/a18360" ],
-    [ "boss_valithria_dreamwalker", "d8/dc5/a18356.html#afcc6dc92d94330d3aed67f71452f9cd2", null ],
-    [ "GetAI", "d8/dc5/a18356.html#a0f0bacefa7e3d682a5db81a14f2ff947", null ]
+    [ "npc_lk_spirit_bombAI", "d6/d8c/a18360.html", "d6/d8c/a18360" ],
+    [ "npc_lk_spirit_bomb", "d8/dc5/a18356.html#acc08d41aa1761c450de782e92307ad7c", null ],
+    [ "GetAI", "d8/dc5/a18356.html#ade74c00beb2da69dafb0ae93d771c430", null ]
 ];

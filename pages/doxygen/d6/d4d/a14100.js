@@ -1,6 +1,6 @@
 var a14100 =
 [
-    [ "HandleAfterHit", "d6/d4d/a14100.html#a4a3122d1b69baeae76f1ae3b6818bfb5", null ],
-    [ "PrepareSpellScript", "d6/d4d/a14100.html#a284796ec70bdfaea9919f54da94f0021", null ],
-    [ "Register", "d6/d4d/a14100.html#a30dcb608c20df17de9597ece1930d59d", null ]
+    [ "npc_brewfest_keg_thrower", "d6/d4d/a14100.html#a29da1efd21fe6737684607e5b360ea84", null ],
+    [ "CanBeSeen", "d6/d4d/a14100.html#a36212d0f17c0070d3ef3cc25577ff7b9", null ],
+    [ "MoveInLineOfSight", "d6/d4d/a14100.html#a3938b0e63553e79302ba966c6cdcf9be", null ]
 ];

@@ -1,6 +1,11 @@
 var a15328 =
 [
-    [ "npc_tiger_matriarch_creditAI", "d5/db2/a15328.html#a628772971a9c2a190ffe2fae6b0b6865", null ],
-    [ "UpdateAI", "d5/db2/a15328.html#a0fc7ca1313a21c5f74539ce2dbd7465d", null ],
-    [ "events", "d5/db2/a15328.html#ae96e0de4a36dde3237520e8a0ddd9f5f", null ]
+    [ "npc_kerlonianAI", "d5/db2/a15328.html#a0f7a4566ca93a174c92fe10e904af480", null ],
+    [ "ClearSleeping", "d5/db2/a15328.html#aea2815d79da4fa006ea150f052255b9d", null ],
+    [ "MoveInLineOfSight", "d5/db2/a15328.html#a8b0a606510d278f26099a125d583377a", null ],
+    [ "Reset", "d5/db2/a15328.html#a20fac33bf3322ad0caf72ea883680b8d", null ],
+    [ "SetSleeping", "d5/db2/a15328.html#a0e1e6beaa98090d8bf8a17d28a9ee733", null ],
+    [ "SpellHit", "d5/db2/a15328.html#a1df028085cf1cb9e8152cdb70a3d28b1", null ],
+    [ "UpdateFollowerAI", "d5/db2/a15328.html#aa86dc8b3e934ff3297f7316de5420fe6", null ],
+    [ "FallAsleepTimer", "d5/db2/a15328.html#a8cfd8d869f8a313d041d89f8d0daa1bb", null ]
 ];

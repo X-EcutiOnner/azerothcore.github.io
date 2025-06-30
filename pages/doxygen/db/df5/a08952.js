@@ -1,10 +1,13 @@
 var a08952 =
 [
-    [ "PetLevelInfo", "db/df5/a08952.html#ad8e757abeae500063e963ffef5469809", null ],
-    [ "armor", "db/df5/a08952.html#ab7097f75cf86bd6f135f21dace61a89e", null ],
-    [ "health", "db/df5/a08952.html#a322dcab3af8f98726aa6addf38e8891b", null ],
-    [ "mana", "db/df5/a08952.html#a27352e73d6ed3945e398e0634dee1e96", null ],
-    [ "max_dmg", "db/df5/a08952.html#a092f2600f64f2af885142b2e96d1fe64", null ],
-    [ "min_dmg", "db/df5/a08952.html#a299d1c7f4c28893e09de79cd816afa95", null ],
-    [ "stats", "db/df5/a08952.html#a897aabacdbe9cbc4afcc40ab059c12be", null ]
+    [ "entry", "db/df5/a08952.html#a9b4a88edefbc1e4b08a8ee03dfd90274", null ],
+    [ "height", "db/df5/a08952.html#a40fcdb1274bc2587e8870b39a64289e1", null ],
+    [ "length", "db/df5/a08952.html#a8e1ac424a973e546aa7c35e387e32a23", null ],
+    [ "map", "db/df5/a08952.html#a9ecb58fde45a318ba0d6306c603aba4b", null ],
+    [ "orientation", "db/df5/a08952.html#a5db58eaf63aceeaeb93bf6f4d5961a97", null ],
+    [ "radius", "db/df5/a08952.html#ae4195d9f29b425394296009c22654380", null ],
+    [ "width", "db/df5/a08952.html#af914195a4e7f2314a6241fb81cc8cfa8", null ],
+    [ "x", "db/df5/a08952.html#a423077ceaf75c367831a6d9f55427a6f", null ],
+    [ "y", "db/df5/a08952.html#a55ab832828addcef1b2f570bda81f2ce", null ],
+    [ "z", "db/df5/a08952.html#ae5d0d4e9ef4006ad6c7195b999ef00c2", null ]
 ];

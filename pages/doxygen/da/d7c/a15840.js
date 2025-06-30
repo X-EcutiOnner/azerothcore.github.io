@@ -1,7 +1,6 @@
 var a15840 =
 [
-    [ "instance_azjol_nerub_InstanceScript", "da/d7c/a15840.html#a886ed4c1485fdedcc176341210eee31a", null ],
-    [ "OnCreatureCreate", "da/d7c/a15840.html#a7a99d985a4b465ae87c04211a7a83a77", null ],
-    [ "OnGameObjectCreate", "da/d7c/a15840.html#a1ef3dc88400345998d03f3c993b9a181", null ],
-    [ "OnGameObjectRemove", "da/d7c/a15840.html#a3a2776b83272d81de9ddcb0c90ac881c", null ]
+    [ "PrepareSpellScript", "da/d7c/a15840.html#a2a3602af522bb8658c1bfdede1234efd", null ],
+    [ "Register", "da/d7c/a15840.html#aba235111ea4e186064a85295466f2a3f", null ],
+    [ "SetDest", "da/d7c/a15840.html#a89827e4db37bea4847c79265d95386c6", null ]
 ];

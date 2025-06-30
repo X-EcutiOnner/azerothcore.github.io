@@ -1,5 +1,7 @@
 var a14048 =
 [
-    [ "go_brazier_of_madness", "d9/dc8/a14048.html#aeb900e575be02244e62c6e5e4153c855", null ],
-    [ "GossipHello", "d9/dc8/a14048.html#aba3af326b01cd045523434aec189fd47", null ]
+    [ "HandleApply", "d9/dc8/a14048.html#a92734043e53b5e1ef81fa9b5ccce135e", null ],
+    [ "HandleRemove", "d9/dc8/a14048.html#a56bf9c77cf96b1e34543a59fc2a308b2", null ],
+    [ "PrepareAuraScript", "d9/dc8/a14048.html#ae3bcbf588e46cb0e81160fdd48502566", null ],
+    [ "Register", "d9/dc8/a14048.html#af2343add2ed014832bd34d11519b391b", null ]
 ];

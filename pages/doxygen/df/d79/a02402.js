@@ -1,5 +1,8 @@
 var a02402 =
 [
-    [ "ChatLogScript", "dc/d18/a27123.html", "dc/d18/a27123" ],
-    [ "AddSC_chat_log", "df/d79/a02402.html#ae796ad81a78a552e5c31fcf6c5c135fa", null ]
+    [ "QuestApprenticeAnglerPlayerScript", "d4/d99/a27624.html", "d4/d99/a27624" ],
+    [ "ApprenticeAnglerQuestEnum", "df/d79/a02402.html#a6d8279401bbf1ce28fa9c35fbcf1970c", [
+      [ "QUEST_APPRENTICE_ANGLER", "df/d79/a02402.html#a6d8279401bbf1ce28fa9c35fbcf1970cacdd3122055e667091697fd808a284aba", null ]
+    ] ],
+    [ "AddSC_player_scripts", "df/d79/a02402.html#a1f476a8466c12651b57fd55bf13b9617", null ]
 ];

@@ -1,6 +1,5 @@
 var a20516 =
 [
-    [ "boss_thorim_lightning_orbAI", "dc/dbe/a20520.html", "dc/dbe/a20520" ],
-    [ "boss_thorim_lightning_orb", "d7/ddf/a20516.html#a2aa29e8d2b3fb10e8be39d8fc3112ac2", null ],
-    [ "GetAI", "d7/ddf/a20516.html#ad24d28866145c4fccf7a3971856fa87f", null ]
+    [ "go_ulduar_working_harpoon", "d7/ddf/a20516.html#a9aaaa16f23f07e402f20a048fd69d347", null ],
+    [ "OnGossipHello", "d7/ddf/a20516.html#a164bdd0a9538293699665a821c4f25f3", null ]
 ];

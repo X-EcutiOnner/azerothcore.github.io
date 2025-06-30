@@ -1,6 +1,5 @@
 var a04637 =
 [
-    [ "SetupLibrariesForWindows", "d4/d88/a04637.html#ab801d0877d7ea0652bb6f94fb17842e4", null ],
-    [ "DefaultProvider", "d4/d88/a04637.html#ab217c6bb86b0f962ea820f3ffe079708", null ],
-    [ "LegacyProvider", "d4/d88/a04637.html#a81b4206923925a193dca5c3acd946bc2", null ]
+    [ "SHA1", "d4/d88/a04637.html#af1f12790805678378554ea1c14b0c1df", null ],
+    [ "SRP6", "d4/d88/a04637.html#a80857313fb18764ec6d5834e183889f8", null ]
 ];

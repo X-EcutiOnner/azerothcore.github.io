@@ -1,6 +1,6 @@
 var a24412 =
 [
-    [ "HandleAfterCast", "df/d00/a24412.html#aaa65e67362ded5318e89272acf073bf3", null ],
-    [ "PrepareSpellScript", "df/d00/a24412.html#a7d0dd936965845c14e7b54846facdb89", null ],
-    [ "Register", "df/d00/a24412.html#ab7b767743d62d9763bea710b7552a8cf", null ]
+    [ "HandleEffectRemove", "df/d00/a24412.html#a9472b79a272aff36be657b66883d822f", null ],
+    [ "PrepareAuraScript", "df/d00/a24412.html#ad46fedf6ef019d1b5e93d98e7bba8417", null ],
+    [ "Register", "df/d00/a24412.html#ace15e1f5c158f1f203862b40da2cf8fc", null ]
 ];

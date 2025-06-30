@@ -1,6 +1,7 @@
 var a14912 =
 [
-    [ "go_ossirian_crystalAI", "de/d23/a14916.html", "de/d23/a14916" ],
-    [ "go_ossirian_crystal", "d6/d12/a14912.html#a783f0f0570ee0f667920e29613b565b2", null ],
-    [ "GetAI", "d6/d12/a14912.html#a2f7b12eddc6504917614913e347ec0a0", null ]
+    [ "HandleScript", "d6/d12/a14912.html#a8aea4a40472aec4cbb7001fbd63db24c", null ],
+    [ "Load", "d6/d12/a14912.html#a2dc1edf537f58133fb4daabde9f43843", null ],
+    [ "PrepareSpellScript", "d6/d12/a14912.html#ae856c6e70ededa95c0308596a9f980af", null ],
+    [ "Register", "d6/d12/a14912.html#ac2e82c7e626658faa968f75c26688b43", null ]
 ];

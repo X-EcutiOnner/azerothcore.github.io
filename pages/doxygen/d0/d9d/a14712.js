@@ -1,28 +1,6 @@
 var a14712 =
 [
-    [ "npc_thrall_old_hillsbradAI", "d0/d9d/a14712.html#ae91bdf876060d8ff6fdf4fbf797d07d8", null ],
-    [ "DoAction", "d0/d9d/a14712.html#a3f93322f50d324407bfab2ab1c78ad67", null ],
-    [ "JustDied", "d0/d9d/a14712.html#ab3fac4faa54b273d67df8f1c39cc2f29", null ],
-    [ "JustEngagedWith", "d0/d9d/a14712.html#ac3bb42dd096d49e138399aac2d0616c0", null ],
-    [ "JustReachedHome", "d0/d9d/a14712.html#af6b067b16ecd834513590e51e6ddd485", null ],
-    [ "JustSummoned", "d0/d9d/a14712.html#aa273d1429c6e82196b5b9f32c4232996", null ],
-    [ "KilledUnit", "d0/d9d/a14712.html#ac36d7100de7444fcd711eaeecd510ac3", null ],
-    [ "MountSelf", "d0/d9d/a14712.html#ac0f5110c0a7b10f1a14433916ca3bea9", null ],
-    [ "MovementInform", "d0/d9d/a14712.html#a557d38e3dc67382567e3bb2933eac74c", null ],
-    [ "ReorderInstance", "d0/d9d/a14712.html#ab3cb1a4b08608c9270b957804756d6d8", null ],
-    [ "Reset", "d0/d9d/a14712.html#a52ee903a9e53dd9f91b30c388964d04d", null ],
-    [ "SummonedCreatureDespawn", "d0/d9d/a14712.html#abfee2eb8ef6086b162fddcd69372ddc8", null ],
-    [ "SummonedCreatureDies", "d0/d9d/a14712.html#ae097af2a0aaeecc237a73ab3d4fafb0f", null ],
-    [ "UnMountSelf", "d0/d9d/a14712.html#a87af515cc9a6cf73bf602b8c9bed725e", null ],
-    [ "UpdateAI", "d0/d9d/a14712.html#aa74db6940f44d81369944ec85a292a1d", null ],
-    [ "UpdateEscortAI", "d0/d9d/a14712.html#a1396da1a6a45041f0736ecd3cc09927c", null ],
-    [ "WaypointReached", "d0/d9d/a14712.html#a341ef3b9166257d6e8b3452af9b32887", null ],
-    [ "WaypointStart", "d0/d9d/a14712.html#ae9073aa689450fca369fa99815804f61", null ],
-    [ "_barnWave", "d0/d9d/a14712.html#a391d5e452e96cfcd529ca32c5f168a92", null ],
-    [ "_churchWave", "d0/d9d/a14712.html#a5aad5eb0df573cdfe8d55ac53010df0d", null ],
-    [ "_mounted", "d0/d9d/a14712.html#a6eb4beb5f9a5a8bf83fdb3d4268ecd54", null ],
-    [ "combatEvents", "d0/d9d/a14712.html#ac0227757e89b0d86c77e3b306f12901f", null ],
-    [ "events", "d0/d9d/a14712.html#addb829b3cef88f6430c2a1ae5251105f", null ],
-    [ "instance", "d0/d9d/a14712.html#aeeeebf8e7c9351ce7ec6b9b86c6180da", null ],
-    [ "summons", "d0/d9d/a14712.html#aa681945f635c2ff9bd23d407d48c003d", null ]
+    [ "npc_cos_chromie_start", "d0/d9d/a14712.html#ae8f810af1e593ad16958049f6ad19616", null ],
+    [ "OnGossipSelect", "d0/d9d/a14712.html#a35cba5a1b7865b07a4e843648cea50c8", null ],
+    [ "OnQuestAccept", "d0/d9d/a14712.html#aa730cb17e6cfe917bc32f7e7ae52e8ef", null ]
 ];

@@ -1,13 +1,9 @@
 var a09160 =
 [
-    [ "MessageDistDelivererToHostile", "d5/d43/a09160.html#a4e1642660288eeb46867d4e19944cc78", null ],
-    [ "SendPacket", "d5/d43/a09160.html#aced79e7b19918408fa4d81667fbeb7f0", null ],
-    [ "Visit", "d5/d43/a09160.html#af9c5269b0266e9e28a70118e62d25e58", null ],
-    [ "Visit", "d5/d43/a09160.html#a224eeb339614d7a9f5e43d498b245958", null ],
-    [ "Visit", "d5/d43/a09160.html#a304c0be3c55bd2817abeaa1d53563a27", null ],
-    [ "Visit", "d5/d43/a09160.html#ae2a44055a4363eeff81a799b8a93d74d", null ],
-    [ "i_distSq", "d5/d43/a09160.html#a0fc7e00f191801869c3fd8eeae032af8", null ],
-    [ "i_message", "d5/d43/a09160.html#ae10ac98c489ec48ed49daf835e7a361d", null ],
-    [ "i_phaseMask", "d5/d43/a09160.html#a0a932cd193e847ee0cfddae0946e39d1", null ],
-    [ "i_source", "d5/d43/a09160.html#a174aade6dc85233e8481a452f800ec0e", null ]
+    [ "VisibleChangesNotifier", "d5/d43/a09160.html#aacb0239ed44c9705eeeebf5ab198f7e0", null ],
+    [ "Visit", "d5/d43/a09160.html#abfc60c91aaa823cb99cdfc17a287e23e", null ],
+    [ "Visit", "d5/d43/a09160.html#aaf1dab341f34f75e56da63370af0ecd3", null ],
+    [ "Visit", "d5/d43/a09160.html#a103a8ef30ce4c0753913b6ecb6cf4e92", null ],
+    [ "Visit", "d5/d43/a09160.html#a6e856249a08d0a90b9d19f2449f30fba", null ],
+    [ "i_object", "d5/d43/a09160.html#a496b982d081957cfc288f29b99b8739d", null ]
 ];

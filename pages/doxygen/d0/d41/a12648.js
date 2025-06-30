@@ -1,14 +1,11 @@
 var a12648 =
 [
-    [ "boss_strawman", "d0/d41/a12648.html#a1789cdafc2ce03e156ac686e6859e25f", null ],
-    [ "DoAction", "d0/d41/a12648.html#a57f9519f87bc8e7446632a49f56a02ca", null ],
-    [ "EnterEvadeMode", "d0/d41/a12648.html#a67fd9b85406512cef4f3ae581461f0c4", null ],
-    [ "JustDied", "d0/d41/a12648.html#ab175b0104d316b8929e32d9eb939780f", null ],
-    [ "JustEngagedWith", "d0/d41/a12648.html#a40657516c4f1b049dd0514a50e299a10", null ],
-    [ "JustReachedHome", "d0/d41/a12648.html#a4235b2de2540199f9570cbadb7326871", null ],
-    [ "KilledUnit", "d0/d41/a12648.html#a06b92dbb6907ace60df7e10893be7af0", null ],
-    [ "SpellHit", "d0/d41/a12648.html#a5bf558765b59a7950bd55ece14c07a4f", null ],
-    [ "UpdateAI", "d0/d41/a12648.html#adcb7db7cb3f938b492a28c3540251ea9", null ],
-    [ "_scheduler", "d0/d41/a12648.html#a409539c771b373c165bdbccac8a59e7f", null ],
-    [ "instance", "d0/d41/a12648.html#a157a6faacf83432b8227173f6b14a7d3", null ]
+    [ "npc_kilrek", "d0/d41/a12648.html#a853aa53d3e03aebe07c939eaf1b1c9c2", null ],
+    [ "JustDied", "d0/d41/a12648.html#a314ed9f73c6a9c991c7eb2690e0f7c1c", null ],
+    [ "JustEngagedWith", "d0/d41/a12648.html#a3a60a3bdb5a2876e325a26964bab21ac", null ],
+    [ "Reset", "d0/d41/a12648.html#ae0b375abe5ec909cfaff96c257da0325", null ],
+    [ "UpdateAI", "d0/d41/a12648.html#acf402b43e91b1f488ef8b9e3ed5092c4", null ],
+    [ "_scheduler", "d0/d41/a12648.html#a93663ee806385f617e81a03062dd94d6", null ],
+    [ "instance", "d0/d41/a12648.html#a13b969fa86ef57f9508117a73252a36b", null ],
+    [ "TerestianGUID", "d0/d41/a12648.html#a411476da379bf687cd007e25ba11280e", null ]
 ];

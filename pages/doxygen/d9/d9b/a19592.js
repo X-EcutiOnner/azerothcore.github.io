@@ -1,6 +1,6 @@
 var a19592 =
 [
-    [ "npc_collapsing_starAI", "d4/df2/a19596.html", "d4/df2/a19596" ],
-    [ "npc_collapsing_star", "d9/d9b/a19592.html#a8d57987c9b4622746d4f42a2b4845b9e", null ],
-    [ "GetAI", "d9/d9b/a19592.html#a346af96d122e64c68defdeccb9183cd4", null ]
+    [ "dark_rune_stormcallerAI", "d4/df2/a19596.html", "d4/df2/a19596" ],
+    [ "dark_rune_stormcaller", "d9/d9b/a19592.html#ab31774011fc3e1e8ffa1a3b7c5cbfbcc", null ],
+    [ "GetAI", "d9/d9b/a19592.html#a9072aaf482106cfae0d3901507b47f60", null ]
 ];

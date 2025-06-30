@@ -1,4 +1,4 @@
 var a05116 =
 [
-    [ "ConfigException", "db/dbc/a05116.html#af1f2b8eb0acd137a05eb4417d7e9d626", null ]
+    [ "collisionLocationForMovingPointFixedAABox", "db/dbc/a05116.html#afe38618ab1de028db0657601f1e51d21", null ]
 ];

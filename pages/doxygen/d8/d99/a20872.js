@@ -1,7 +1,6 @@
 var a20872 =
 [
-    [ "HandleEffectCalcPeriodic", "d8/d99/a20872.html#af01eb94174952de52615734055b17c1a", null ],
-    [ "HandleEffectPeriodic", "d8/d99/a20872.html#a87b4517a6ad8630027ab2c3534b9fb8c", null ],
-    [ "PrepareAuraScript", "d8/d99/a20872.html#a95bd054accb5b72c4cfb12caccf0e004", null ],
-    [ "Register", "d8/d99/a20872.html#a2d506669ddc4c84e9ae3eb1746eadce1", null ]
+    [ "boss_yoggsaron_voiceAI", "dd/d45/a20876.html", "dd/d45/a20876" ],
+    [ "boss_yoggsaron_voice", "d8/d99/a20872.html#ae5d10416bb83e57c0e9d3ef5d6f5adc6", null ],
+    [ "GetAI", "d8/d99/a20872.html#a50abcde0313df06a114a2f5f44a1d481", null ]
 ];

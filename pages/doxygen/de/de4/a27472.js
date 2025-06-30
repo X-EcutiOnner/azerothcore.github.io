@@ -1,6 +1,10 @@
 var a27472 =
 [
-    [ "npc_dancing_flamesAI", "d2/d71/a27476.html", "d2/d71/a27476" ],
-    [ "npc_dancing_flames", "de/de4/a27472.html#adec0401f876ddf159f28fdda8bc4d563", null ],
-    [ "GetAI", "de/de4/a27472.html#a1000d0b95dab3a6e73efa0ca088ce4e6", null ]
+    [ "npc_training_dummyAI", "de/de4/a27472.html#a2f10fd0b4365e99446f728883a47eb6a", null ],
+    [ "DamageTaken", "de/de4/a27472.html#a641c40906a6365f068ccbdba9d033923", null ],
+    [ "EnterEvadeMode", "de/de4/a27472.html#adb1de124bdb2a986efcfcfc287b6d824", null ],
+    [ "MoveInLineOfSight", "de/de4/a27472.html#a52f3516e9da6895eeddcdef7a198a6b1", null ],
+    [ "Reset", "de/de4/a27472.html#af63f500cb3179964c90afab0d4a2c9b7", null ],
+    [ "UpdateAI", "de/de4/a27472.html#a5e7892a64cd1a5cf678b401b62497bfb", null ],
+    [ "resetTimer", "de/de4/a27472.html#a443f2f7de257af473d6e9793f34a2071", null ]
 ];

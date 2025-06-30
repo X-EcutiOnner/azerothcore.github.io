@@ -1,5 +1,6 @@
 var a20600 =
 [
-    [ "achievement_thorim_stand_in_the_lightning", "d6/d52/a20600.html#a9339e89e4eb76151fdeacb6bcd53d7bc", null ],
-    [ "OnCheck", "d6/d52/a20600.html#ade1aec4de4c503be5a62da3e6c35e90f", null ]
+    [ "boss_thorim_start_npcsAI", "d3/de4/a20604.html", "d3/de4/a20604" ],
+    [ "boss_thorim_start_npcs", "d6/d52/a20600.html#a3aa11a487ae00b2e397fd25ed2e42702", null ],
+    [ "GetAI", "d6/d52/a20600.html#a6c529b19d071b4966ccc74b44279cb08", null ]
 ];

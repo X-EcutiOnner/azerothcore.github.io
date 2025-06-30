@@ -1,10 +1,6 @@
 var a14024 =
 [
-    [ "npc_zealot_zath", "d8/d6a/a14024.html#a845840d0a45dd6c4b6368ee4ecf6917b", null ],
-    [ "JustDied", "d8/d6a/a14024.html#ae56e2e89a6ba623200e9ee36977cee13", null ],
-    [ "JustEngagedWith", "d8/d6a/a14024.html#a25e059f40de51d880f4ec209ff4dd924", null ],
-    [ "Reset", "d8/d6a/a14024.html#abc4e40afd644f2c89444f3fe475817c0", null ],
-    [ "UpdateAI", "d8/d6a/a14024.html#a467ce2437ec112b42f864ef412c0c976", null ],
-    [ "_scheduler", "d8/d6a/a14024.html#a146679c4eb3eec444ff1dcd9a780110a", null ],
-    [ "instance", "d8/d6a/a14024.html#a66dfe3182b45e984b4d81d40051e5ecc", null ]
+    [ "LaunchHit", "d8/d6a/a14024.html#a715c86c4057fe8c60abf02d895ac3c5a", null ],
+    [ "PrepareSpellScript", "d8/d6a/a14024.html#a4ad316b68d84921255577aedabb5ad3f", null ],
+    [ "Register", "d8/d6a/a14024.html#a50fa3ede9bebb2b54c4ec10091017c07", null ]
 ];

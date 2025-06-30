@@ -1,16 +1,8 @@
 var a09488 =
 [
-    [ "GuildBankRightsAndSlots", "d3/d6b/a09488.html#ae00a8b8f227d7afdcf08847e3787ee0d", null ],
-    [ "GuildBankRightsAndSlots", "d3/d6b/a09488.html#af5f0087090a7145a22baa1396822318b", null ],
-    [ "GuildBankRightsAndSlots", "d3/d6b/a09488.html#a4bdf40d99704211b9e80b554ebade54f", null ],
-    [ "GetRights", "d3/d6b/a09488.html#a19b76bebdb62434191189ba789c2810f", null ],
-    [ "GetSlots", "d3/d6b/a09488.html#a51780060b5699bed6b78cc9ba4e95371", null ],
-    [ "GetTabId", "d3/d6b/a09488.html#a6ba7c49480a1c5325d3702fb61d397cc", null ],
-    [ "SetGuildMasterValues", "d3/d6b/a09488.html#a1399f191b3b0a44dc1e76fc49adc1412", null ],
-    [ "SetRights", "d3/d6b/a09488.html#abf4e1f1556554e7f756dc566fbdd7f40", null ],
-    [ "SetSlots", "d3/d6b/a09488.html#a8ed33a4e1d2a957d61c5f7556533f225", null ],
-    [ "SetTabId", "d3/d6b/a09488.html#abe84f6bcdfd48d70b894470d025f3aae", null ],
-    [ "rights", "d3/d6b/a09488.html#a2a8f5acf21828bfa15d0b3dd6874b5cb", null ],
-    [ "slots", "d3/d6b/a09488.html#a5a327399d94704bc290199baa21ff8d7", null ],
-    [ "tabId", "d3/d6b/a09488.html#ab09825a02a7a21a4915595230d2a5839", null ]
+    [ "flags", "d3/d6b/a09488.html#a7ecce103d428ed7f91aa12fa5547561c", null ],
+    [ "group", "d3/d6b/a09488.html#a0902606d44c8baa1a20b5b2cdd9b4787", null ],
+    [ "guid", "d3/d6b/a09488.html#a97a20b4ccf1978165a5f5c7ff4ffb2b4", null ],
+    [ "name", "d3/d6b/a09488.html#ab0719bb9805048b58a3e4c75e09d1ee7", null ],
+    [ "roles", "d3/d6b/a09488.html#a2109aae0b3ebf74b065b97cc929c2954", null ]
 ];

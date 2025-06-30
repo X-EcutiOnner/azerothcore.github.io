@@ -1,6 +1,6 @@
 var a17020 =
 [
-    [ "HandleDummy", "d2/d39/a17020.html#aef592aafe931351186edf98f7aba7e22", null ],
-    [ "PrepareSpellScript", "d2/d39/a17020.html#ab79a160e0d5b0c6e0ecfa842a4da2819", null ],
-    [ "Register", "d2/d39/a17020.html#a7594952f23cba22b886c2c3b10f363d4", null ]
+    [ "npc_pos_icicle_triggerAI", "d3/d71/a17024.html", "d3/d71/a17024" ],
+    [ "npc_pos_icicle_trigger", "d2/d39/a17020.html#ae38155ce579f50ff7de0fa5ca50a1c3e", null ],
+    [ "GetAI", "d2/d39/a17020.html#ad2f984f5b2b713b8307efdf4bcbcf8da", null ]
 ];

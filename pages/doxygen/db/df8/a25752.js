@@ -1,9 +1,9 @@
 var a25752 =
 [
-    [ "CheckCast", "db/df8/a25752.html#af92fe276563a8ca0d939d881dba8adda", null ],
-    [ "HandleDummy", "db/df8/a25752.html#a86b4413dd25f96fb197604007171a8d1", null ],
-    [ "Load", "db/df8/a25752.html#ab1800d2550b944dcfa9967cc0e79c5ee", null ],
-    [ "PrepareSpellScript", "db/df8/a25752.html#a47aa868fbabee8a3988bcc93402b8cfb", null ],
-    [ "Register", "db/df8/a25752.html#a1b4ff1b3b518a2e4bad1836de6793561", null ],
-    [ "Validate", "db/df8/a25752.html#a8d0c2f18927e811f3d3cdee94e3623c0", null ]
+    [ "CheckRequirement", "db/df8/a25752.html#adab261a5221ca54b15cc414d291908fe", null ],
+    [ "HandleDummy", "db/df8/a25752.html#abb7a734244bb18d75304a0510f9efb8d", null ],
+    [ "Load", "db/df8/a25752.html#a418eef16d1e3aeff67013f45409c092a", null ],
+    [ "PrepareSpellScript", "db/df8/a25752.html#ab3e73a456ec7384720827a4ff7f5abc7", null ],
+    [ "Register", "db/df8/a25752.html#a5dbf60e33f2cdca3921f623cd1098948", null ],
+    [ "Validate", "db/df8/a25752.html#a1dcba4f3c2874a952ca422b0a3cdafb1", null ]
 ];

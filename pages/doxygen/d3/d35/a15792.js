@@ -1,6 +1,5 @@
 var a15792 =
 [
-    [ "PrepareSpellScript", "d3/d35/a15792.html#a2a3602af522bb8658c1bfdede1234efd", null ],
-    [ "Register", "d3/d35/a15792.html#aba235111ea4e186064a85295466f2a3f", null ],
-    [ "SetDest", "d3/d35/a15792.html#a89827e4db37bea4847c79265d95386c6", null ]
+    [ "achievement_volunteer_work", "d3/d35/a15792.html#a43db6e553b370f139ac376840fdf6d70", null ],
+    [ "OnCheck", "d3/d35/a15792.html#abdbbe9165d3d72d76fe685ebce5e304d", null ]
 ];

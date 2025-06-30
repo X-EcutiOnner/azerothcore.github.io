@@ -1,6 +1,5 @@
 var a27040 =
 [
-    [ "boss_lethonAI", "dc/d9d/a27044.html", "dc/d9d/a27044" ],
-    [ "boss_lethon", "dd/da8/a27040.html#a5d758979b061646830373de64b2b3af4", null ],
-    [ "GetAI", "dd/da8/a27040.html#a493baf37aac400635dd0409e79375a1c", null ]
+    [ "AreaTrigger_at_sentry_point", "dd/da8/a27040.html#a9c27f669aba3be1a83fdd1c99a8af4cf", null ],
+    [ "OnTrigger", "dd/da8/a27040.html#ab59fb74f4f988c208359855d2e4d9918", null ]
 ];

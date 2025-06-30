@@ -1,7 +1,7 @@
 var a22708 =
 [
-    [ "HandleDummy", "d8/dde/a22708.html#adb4e8218eb498d430ececfa357bc1d8a", null ],
-    [ "PrepareSpellScript", "d8/dde/a22708.html#a85f582794bf8ca2c80add8d9fe35f9f5", null ],
-    [ "Register", "d8/dde/a22708.html#af5926d8570de13e66aa1870184620b94", null ],
-    [ "Validate", "d8/dde/a22708.html#aa2839c6dba3d0c6ecfeb19f5ff3a39d2", null ]
+    [ "HandleEffectRemove", "d8/dde/a22708.html#a0d8d042e6e9bf8fd26b6f283f6da6194", null ],
+    [ "PrepareAuraScript", "d8/dde/a22708.html#a84ec7db2aab055bc4328a4d8862bd3f5", null ],
+    [ "Register", "d8/dde/a22708.html#a9ee8e71020c17f593472de5a9c130753", null ],
+    [ "Validate", "d8/dde/a22708.html#a08be3cb2bef2f4697b7e258b231bd35b", null ]
 ];

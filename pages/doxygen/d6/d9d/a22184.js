@@ -1,8 +1,6 @@
 var a22184 =
 [
-    [ "AfterRemove", "d6/d9d/a22184.html#a06fd72c7754f34dbc62a99a9ed839302", null ],
-    [ "HandlePeriodic", "d6/d9d/a22184.html#a5aaadeed42e6a3cf1e2216a13c2d3ff9", null ],
-    [ "OnApply", "d6/d9d/a22184.html#a6617555d302923e5e95e7b1c6d8d74d6", null ],
-    [ "PrepareAuraScript", "d6/d9d/a22184.html#a47a6281c42dc9368357cc86912331c77", null ],
-    [ "Register", "d6/d9d/a22184.html#a868c79cda98b97b27b74d46f86cb980a", null ]
+    [ "npc_vics_flying_machineAI", "de/db8/a22188.html", "de/db8/a22188" ],
+    [ "npc_vics_flying_machine", "d6/d9d/a22184.html#ac0f1e83a9f53f1e38e81804f0332e3fd", null ],
+    [ "GetAI", "d6/d9d/a22184.html#aac2a7cabd2e87705e9a1b3bfebb89eae", null ]
 ];

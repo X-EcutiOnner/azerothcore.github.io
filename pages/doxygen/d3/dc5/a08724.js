@@ -1,8 +1,4 @@
 var a08724 =
 [
-    [ "RedirectSpellEvent", "d3/dc5/a08724.html#a77d243d64c2fc651d71c42e10a315161", null ],
-    [ "Execute", "d3/dc5/a08724.html#a34ae2bc23904558bd5f5b99e8f1c5fdc", null ],
-    [ "_auraEffect", "d3/dc5/a08724.html#a010f14a7d389b4e9ae9896061fa18a65", null ],
-    [ "_auraOwnerGUID", "d3/dc5/a08724.html#a1b3fb598748362379fef15b3172d8e2b", null ],
-    [ "_self", "d3/dc5/a08724.html#aecfa190843c1493b47652ccdac7ae9c3", null ]
+    [ "name", "d3/dc5/a08724.html#acda589ff9e0fdb0a813707736191d049", null ]
 ];

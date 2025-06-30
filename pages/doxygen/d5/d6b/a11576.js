@@ -1,14 +1,14 @@
 var a11576 =
 [
-    [ "deserter_commandscript", "d5/d6b/a11576.html#aebaaf99b9c5959f3f3418e13e252fb95", null ],
-    [ "GetCommands", "d5/d6b/a11576.html#ab5b48b9dde89c9215c51560f26324649", null ],
-    [ "HandleDeserterAdd", "d5/d6b/a11576.html#abe8c428ec09d341bb9f49882b7c071e2", null ],
-    [ "HandleDeserterBGAdd", "d5/d6b/a11576.html#a11fba09d369e7244244887947a91369e", null ],
-    [ "HandleDeserterBGRemove", "d5/d6b/a11576.html#a9bf4e146ef0f4f0cb2508c4953f8a647", null ],
-    [ "HandleDeserterBGRemoveAll", "d5/d6b/a11576.html#a419d404315e91b6cac1bfd3ac225a8fd", null ],
-    [ "HandleDeserterInstanceAdd", "d5/d6b/a11576.html#aabd2b23e2dc61fac10890077b41d8179", null ],
-    [ "HandleDeserterInstanceRemove", "d5/d6b/a11576.html#a3197e5228284ba50da7f3a31b3e76060", null ],
-    [ "HandleDeserterInstanceRemoveAll", "d5/d6b/a11576.html#adc6ad2f406fcb58ba64d2b6fd47281e2", null ],
-    [ "HandleDeserterRemove", "d5/d6b/a11576.html#a210dc9a7eddede6fe976157d6b22b683", null ],
-    [ "HandleDeserterRemoveAll", "d5/d6b/a11576.html#a6274f79b9884586069f94137b44d89e9", null ]
+    [ "cast_commandscript", "d5/d6b/a11576.html#a9c657d2c5404149a45a2db748d23fc2f", null ],
+    [ "CheckSpellCastResult", "d5/d6b/a11576.html#a244b2d11a07fdcbb72f3207ab1e46ea5", null ],
+    [ "CheckSpellExistsAndIsValid", "d5/d6b/a11576.html#a14da4e4674b065c8e8f3d1946a037bda", null ],
+    [ "GetCommands", "d5/d6b/a11576.html#ab0890c036a8d301b382fdd1b6371f671", null ],
+    [ "GetTriggerFlags", "d5/d6b/a11576.html#a26e6986c45a99e6a94d7ba2d9a810aa3", null ],
+    [ "HandleCastBackCommand", "d5/d6b/a11576.html#a964a40278f609a5c5a0bae651484c726", null ],
+    [ "HandleCastCommand", "d5/d6b/a11576.html#ac28430cc0623209b891bacbb4845509b", null ],
+    [ "HandleCastDestCommand", "d5/d6b/a11576.html#a156ca81fba7155205dae106aa4c221d6", null ],
+    [ "HandleCastDistCommand", "d5/d6b/a11576.html#aabbcac8e85c6a64a647d71bb22bebede", null ],
+    [ "HandleCastSelfCommand", "d5/d6b/a11576.html#a69e88bb174c2518584a9ae622e2850bf", null ],
+    [ "HandleCastTargetCommad", "d5/d6b/a11576.html#aa72bd317a3498ef07007c1a9e81e2796", null ]
 ];

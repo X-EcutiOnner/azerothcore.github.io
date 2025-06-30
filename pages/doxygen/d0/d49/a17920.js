@@ -1,7 +1,12 @@
 var a17920 =
 [
-    [ "FrostBombExplosion", "d0/d49/a17920.html#ac7d318e241e6442e8aa084b27ea50236", null ],
-    [ "Execute", "d0/d49/a17920.html#a0b6521266f18b621260286c530ff3f36", null ],
-    [ "_owner", "d0/d49/a17920.html#aa9ff39ce43c351e8815f895896fa759b", null ],
-    [ "_sindragosaGUID", "d0/d49/a17920.html#a5afc3d543c8fa457c90735f841aa161c", null ]
+    [ "npc_big_oozeAI", "d0/d49/a17920.html#a3564ffec1ac0ac2c7e29b3c7a6b60958", null ],
+    [ "DoAction", "d0/d49/a17920.html#a6d39eb1f177e8670169f18fcfa2e3c4e", null ],
+    [ "EnterEvadeMode", "d0/d49/a17920.html#ad7251cda20f3e2821077d2327528fd2d", null ],
+    [ "IsSummonedBy", "d0/d49/a17920.html#a85d27ac9fb0b9dbb92b2b17a99eaa612", null ],
+    [ "JustDied", "d0/d49/a17920.html#a2372053a84715990fc7fce3d8e269265", null ],
+    [ "UpdateAI", "d0/d49/a17920.html#a2e1f52ca84363703d95da99ca93d3503", null ],
+    [ "events", "d0/d49/a17920.html#a54f3baa4767f8336ff4699de426aae61", null ],
+    [ "firstUpdate", "d0/d49/a17920.html#af5c34c976137e456d1779ca944f88639", null ],
+    [ "instance", "d0/d49/a17920.html#a788141bf9be03161741d01d0aa4fe227", null ]
 ];

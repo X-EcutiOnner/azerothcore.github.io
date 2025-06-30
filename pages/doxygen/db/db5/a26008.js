@@ -1,10 +1,6 @@
 var a26008 =
 [
-    [ "Load", "db/db5/a26008.html#a4330a13b4144aa0a2e299c5cb00b1aea", null ],
-    [ "PrepareAuraScript", "db/db5/a26008.html#ae04fa1b54e4b0219d1dcdf998e708c29", null ],
-    [ "Register", "db/db5/a26008.html#a3031d32b7366f7f707cbb69e3cb96fc8", null ],
-    [ "Split", "db/db5/a26008.html#aa28fe4ba6a8a501318b6d1d49a2fa9b9", null ],
-    [ "groupSize", "db/db5/a26008.html#aa1e61b128f63c802dc623be551657df1", null ],
-    [ "minHpPct", "db/db5/a26008.html#a279f1a2b232a7be981e4315c9e8595e4", null ],
-    [ "remainingAmount", "db/db5/a26008.html#ad00a550f82d6b3ae77c3112c753de60b", null ]
+    [ "HandleRemove", "db/db5/a26008.html#a491765056e8c4d97d9cdaaea9d11a0af", null ],
+    [ "PrepareAuraScript", "db/db5/a26008.html#abe5d45b960fda879f48e3e98db9ad4ac", null ],
+    [ "Register", "db/db5/a26008.html#ab00f3119d6c1bd1ad185374144f2987e", null ]
 ];

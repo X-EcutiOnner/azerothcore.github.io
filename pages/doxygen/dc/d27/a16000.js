@@ -1,6 +1,5 @@
 var a16000 =
 [
-    [ "npc_orb_carrierAI", "d3/d9b/a16004.html", "d3/d9b/a16004" ],
-    [ "npc_orb_carrier", "dc/d27/a16000.html#a69fdd8cb2f0cdf7cf6cf0bdabbc0cd03", null ],
-    [ "GetAI", "dc/d27/a16000.html#ab5b7bbffc43b840c686dc889805ea401", null ]
+    [ "at_baltharus_plateau", "dc/d27/a16000.html#ac7acc8816b298446ac9bb8d6b82f27b6", null ],
+    [ "OnTrigger", "dc/d27/a16000.html#aea08e30eb57d5d84b78b8891c4a45afb", null ]
 ];

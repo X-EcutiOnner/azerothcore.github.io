@@ -1,11 +1,7 @@
 var a10916 =
 [
-    [ "OptionalData", "d5/d95/a10920.html", "d5/d95/a10920" ],
-    [ "ArrivalTicks", "d0/dce/a10916.html#a8fa635d0c8f77a0e39fd66501490f6ea", null ],
-    [ "ConnectionId", "d0/dce/a10916.html#abe8700ec99d55a66b22f8fbb28c833fa", null ],
-    [ "Direction", "d0/dce/a10916.html#a03a38a8ceed9eb1ea5585fcfb1ab29b8", null ],
-    [ "Length", "d0/dce/a10916.html#ab889533c6ebe4a8b3dbf0a2a5fef06dc", null ],
-    [ "Opcode", "d0/dce/a10916.html#a7fcc9281cd10ecf79929f9f17c855b65", null ],
-    [ "OptionalData", "d0/dce/a10916.html#aa5219ee4193cccf913dabf6db5d6f57a", null ],
-    [ "OptionalDataSize", "d0/dce/a10916.html#a03b79fe07bd5f0a1c254f2fb92a3ecba", null ]
+    [ "OpcodeHandler", "da/deb/a04764.html#gad7dc8101b537abe699b18ae8de444a81", null ],
+    [ "~OpcodeHandler", "da/deb/a04764.html#ga5400057a3d849035aedda259828a5af5", null ],
+    [ "Name", "da/deb/a04764.html#ga0f1d1acde7c65e2b5c29357b232a7061", null ],
+    [ "Status", "da/deb/a04764.html#gace7959058ad5b5e617c7b043f5c63b7c", null ]
 ];

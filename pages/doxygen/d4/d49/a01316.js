@@ -1,5 +1,5 @@
 var a01316 =
 [
-    [ "ForeachMaps", "d4/d49/a01316.html#a899f6a046cdda33d737030dd4923ca7d", null ],
-    [ "ScriptRegistry< AllMapScript >", "d4/d49/a01316.html#ada370fef23e6d206da686c8bb6149104", null ]
+    [ "GetEnableModulesList", "d4/d49/a01316.html#a2a2aa3aabfbef586b9a1e63fbae0e0f7", null ],
+    [ "SetEnableModulesList", "d4/d49/a01316.html#ac16569c9333f642e54fa7a4ec6a948e3", null ]
 ];

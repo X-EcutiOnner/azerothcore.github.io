@@ -1,25 +1,13 @@
 var a01364 =
 [
-    [ "Acore::Impl::ChatCommands::MultiConsumer< Tuple, NextType, offset >", "d1/d0c/a07495.html", "d1/d0c/a07495" ],
-    [ "Acore::Impl::ChatCommands::MultiConsumer< Tuple, Optional< NestedNextType >, offset >", "dc/d7b/a07499.html", "dc/d7b/a07499" ],
-    [ "Acore::Impl::ChatCommands::HandlerToTuple< T >", "d0/d06/a07503.html", null ],
-    [ "Acore::Impl::ChatCommands::HandlerToTuple< bool(ChatHandler *, Ts...)>", "df/d3b/a07507.html", "df/d3b/a07507" ],
-    [ "Acore::Impl::ChatCommands::CommandInvoker", "d6/dfa/a07511.html", "d6/dfa/a07511" ],
-    [ "Acore::Impl::ChatCommands::CommandPermissions", "d8/d12/a07515.html", "d8/d12/a07515" ],
-    [ "Acore::Impl::ChatCommands::ChatCommandNode", "db/d40/a07519.html", "db/d40/a07519" ],
-    [ "Acore::ChatCommands::ChatCommandBuilder", "de/d0f/a07523.html", "de/d0f/a07523" ],
-    [ "Acore::ChatCommands::ChatCommandBuilder::InvokerEntry", "d3/da8/a07527.html", "d3/da8/a07527" ],
-    [ "ChatCommand", "de/d1f/a01364.html#a399dbe5721f7277a9066752a84065ee4", null ],
-    [ "ChatCommandTable", "de/d1f/a01364.html#a7aa1549a95f760a19b9b7ffd8e669626", null ],
-    [ "TupleType", "de/d1f/a01364.html#a7dd784bc8e3d7db1d11c46886088ad76", null ],
-    [ "Console", "de/d1f/a01364.html#a6f2659123367a36f37046e5604215d6b", [
-      [ "No", "de/d1f/a01364.html#a6f2659123367a36f37046e5604215d6babafd7322c6e97d25b6299b5d6fe8920b", null ],
-      [ "Yes", "de/d1f/a01364.html#a6f2659123367a36f37046e5604215d6ba93cba07454f06a4a960172bbd6e2a435", null ]
-    ] ],
-    [ "ConsumeFromOffset", "de/d1f/a01364.html#a3cb927687da0e8c0bae77a78fe45d942", null ],
-    [ "GetAutoCompletionsFor", "de/d1f/a01364.html#a9a1f396a96afbd90b5c426315c8ba37d", null ],
-    [ "InvalidateCommandMap", "de/d1f/a01364.html#ade19080af583292883b932d83992c6fe", null ],
-    [ "LoadCommandMap", "de/d1f/a01364.html#a2c6cb6c985ac8fd7bb2f8b2bab1be30d", null ],
-    [ "SendCommandHelpFor", "de/d1f/a01364.html#a81e8830ce306f6cfbcd04c92d3e0cc7f", null ],
-    [ "TryExecuteCommand", "de/d1f/a01364.html#aca39508e7753f6ca5d9aa21a854c0a77", null ]
+    [ "AreaBoundary", "d7/d5a/a09736.html", "d7/d5a/a09736" ],
+    [ "AreaBoundary::DoublePosition", "d2/d02/a09740.html", "d2/d02/a09740" ],
+    [ "RectangleBoundary", "d1/dd8/a09744.html", "d1/dd8/a09744" ],
+    [ "CircleBoundary", "d7/d21/a09748.html", "d7/d21/a09748" ],
+    [ "EllipseBoundary", "d0/d18/a09752.html", "d0/d18/a09752" ],
+    [ "TriangleBoundary", "d4/d87/a09756.html", "d4/d87/a09756" ],
+    [ "ParallelogramBoundary", "d1/dae/a09760.html", "d1/dae/a09760" ],
+    [ "ZRangeBoundary", "dc/d62/a09764.html", "dc/d62/a09764" ],
+    [ "BoundaryUnionBoundary", "df/d90/a09768.html", "df/d90/a09768" ],
+    [ "BoundaryIntersectBoundary", "dc/d60/a09772.html", "dc/d60/a09772" ]
 ];

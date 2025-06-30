@@ -1,18 +1,15 @@
 var a12676 =
 [
-    [ "boss_romulo", "d4/dbb/a12676.html#a497e0e57d2abb6640081c1d141a588ff", null ],
-    [ "DamageTaken", "d4/dbb/a12676.html#a603db3883d03367406cbcf3f2cb28a08", null ],
-    [ "DoAction", "d4/dbb/a12676.html#acc23f4f4f5856b9956a764c1f69bbc92", null ],
-    [ "EnterEvadeMode", "d4/dbb/a12676.html#ab4dda6b70337668dd36a582e8439c3db", null ],
-    [ "JustDied", "d4/dbb/a12676.html#aa60d8fe07db9444f25eec9de9e5bf365", null ],
-    [ "JustEngagedWith", "d4/dbb/a12676.html#ab13e2a4ebe8a1956f6de460cdb9b199d", null ],
-    [ "JustReachedHome", "d4/dbb/a12676.html#af8bff3f1c107dc7d8beae7956a25fbcc", null ],
-    [ "KilledUnit", "d4/dbb/a12676.html#ae4ca6736913cc8df4d016876a8fd8576", null ],
-    [ "Reset", "d4/dbb/a12676.html#a15703ee7df979b8ee5892dacf84066e2", null ],
-    [ "ScheduleCombat", "d4/dbb/a12676.html#a4cc20dccb171d1f4d3c680b6b5310e73", null ],
-    [ "UpdateAI", "d4/dbb/a12676.html#ac42df238a2ad354a2fb21ebb558734c6", null ],
-    [ "_scheduler", "d4/dbb/a12676.html#a456abfa48f038e904c427179c2a10edb", null ],
-    [ "instance", "d4/dbb/a12676.html#aae979b72844ff8fcc70956925df4fa9b", null ],
-    [ "isFakingDeath", "d4/dbb/a12676.html#a88ccbe761b4703e4f309d1bb3fca4085", null ],
-    [ "phase", "d4/dbb/a12676.html#ab549436aec35727665150d51f1c25714", null ]
+    [ "boss_tinhead", "d4/dbb/a12676.html#aa56375e9b031db15bee833375b7a4405", null ],
+    [ "DoAction", "d4/dbb/a12676.html#ab27d93fd2b58e3f1c9e14d5bc6c788ff", null ],
+    [ "EnterEvadeMode", "d4/dbb/a12676.html#ae83464d571103a67980b413325988921", null ],
+    [ "JustDied", "d4/dbb/a12676.html#a5a641c0e96f271540e4642b5bb4e4c9e", null ],
+    [ "JustEngagedWith", "d4/dbb/a12676.html#a74f51f155fdfb9ecc70245380b740d9c", null ],
+    [ "JustReachedHome", "d4/dbb/a12676.html#a6c930c6cb2116cf16f3e4002e333f585", null ],
+    [ "KilledUnit", "d4/dbb/a12676.html#ac0f281f1e4b985174f4c5c9b7fcf278d", null ],
+    [ "Reset", "d4/dbb/a12676.html#ac22d86f58d59c81429e45fba9393fd37", null ],
+    [ "UpdateAI", "d4/dbb/a12676.html#aec0d558cf82eb6bbf0d5626126b10233", null ],
+    [ "_rustCount", "d4/dbb/a12676.html#a48901503085fd3d4ee5624626a526ce2", null ],
+    [ "_scheduler", "d4/dbb/a12676.html#ababc9f32611a9ea35ef41725bce22df5", null ],
+    [ "instance", "d4/dbb/a12676.html#a00b2ebbb009c700e38bbffbb035b4bfa", null ]
 ];

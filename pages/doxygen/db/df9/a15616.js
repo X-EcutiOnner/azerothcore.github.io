@@ -1,6 +1,7 @@
 var a15616 =
 [
-    [ "npc_rivern_frostwind", "db/df9/a15616.html#a0675c120fc28b26c7ea3c35f8d3f2a64", null ],
-    [ "OnGossipHello", "db/df9/a15616.html#a90a6582633336de422c9f98973562b32", null ],
-    [ "OnGossipSelect", "db/df9/a15616.html#a067ff91179f551633594d488eda269ed", null ]
+    [ "npc_lakota_windsongAI", "db/df9/a15616.html#a922172a38ca75adef66a2653eda7fa98", null ],
+    [ "DoSpawnBandits", "db/df9/a15616.html#aa63601ac87b674cb5d0594213d1e7ea9", null ],
+    [ "Reset", "db/df9/a15616.html#aee7a86275f93021e0e5db249b636bcd4", null ],
+    [ "WaypointReached", "db/df9/a15616.html#a6435c8b1521206789131889e5fa527a6", null ]
 ];

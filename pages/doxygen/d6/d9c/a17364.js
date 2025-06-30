@@ -1,6 +1,7 @@
 var a17364 =
 [
-    [ "ModAuraValue", "d6/d9c/a17364.html#a359453c6253beb6f729209c6d3d79af7", null ],
-    [ "PrepareSpellScript", "d6/d9c/a17364.html#a4f916abef69782be10cc6be9ba0124f5", null ],
-    [ "Register", "d6/d9c/a17364.html#a4a387df07c88144288c4327ce86b730a", null ]
+    [ "achievement_once_bitten_twice_shy", "d6/d9c/a17364.html#ac5799e847f8ee1e2b562e4a58a00df16", null ],
+    [ "OnCheck", "d6/d9c/a17364.html#aa2e3ac3e8a14b06446174e475ac18af3", null ],
+    [ "_spawnMode", "d6/d9c/a17364.html#a6f02f5ab07143ddff553279049714902", null ],
+    [ "_wasVampire", "d6/d9c/a17364.html#a297cf6da45b0cddb4dc9fc888919bdda", null ]
 ];

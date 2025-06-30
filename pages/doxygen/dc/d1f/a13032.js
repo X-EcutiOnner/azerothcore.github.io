@@ -1,7 +1,7 @@
 var a13032 =
 [
-    [ "boss_apothecary_hummelAI", "d0/d9e/a13036.html", "d0/d9e/a13036" ],
-    [ "boss_apothecary_hummel", "dc/d1f/a13032.html#af1672c0b7f67d9013e3769a7009c2ee9", null ],
-    [ "GetAI", "dc/d1f/a13032.html#a87a01f4d6eaac7c5e1795133e8aa1ccd", null ],
-    [ "OnQuestReward", "dc/d1f/a13032.html#a86d23ff3569e5e86b8787bb3ea7816c7", null ]
+    [ "HandleScript", "dc/d1f/a13032.html#a03f8c24445ee4ac82a4cf2caece38f90", null ],
+    [ "PrepareSpellScript", "dc/d1f/a13032.html#a034195e58f02225c172b70c3967fe3ad", null ],
+    [ "Register", "dc/d1f/a13032.html#afaf3a6fd54f499982bd1cfd6e4c6c1a2", null ],
+    [ "Validate", "dc/d1f/a13032.html#a8ac78c00c49b1eb2fade4100a810d367", null ]
 ];

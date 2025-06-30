@@ -1,17 +1,13 @@
 var a22436 =
 [
-    [ "OutdoorPvPHP", "d0/d66/a22436.html#a19118d7facc4a745e391491fb7d95421", null ],
-    [ "FillInitialWorldStates", "d0/d66/a22436.html#a4ecc55395f1f792075e07026e1ccd171", null ],
-    [ "GetAllianceTowersControlled", "d0/d66/a22436.html#ae6d3a1561b94d92539a5dd8b5ac56689", null ],
-    [ "GetHordeTowersControlled", "d0/d66/a22436.html#a9395b6966bcdd36b448ca1c403f17873", null ],
-    [ "HandleKillImpl", "d0/d66/a22436.html#aad7804f10c42f6643397d673ba4e9bee", null ],
-    [ "HandlePlayerEnterZone", "d0/d66/a22436.html#a117149e3db7fa02fdcfab05a6ff6de18", null ],
-    [ "HandlePlayerLeaveZone", "d0/d66/a22436.html#abf21499824ad64aa7a26a4b33090783e", null ],
-    [ "SendRemoveWorldStates", "d0/d66/a22436.html#ac94c44783b2141c751d5c16a24bce8d4", null ],
-    [ "SetAllianceTowersControlled", "d0/d66/a22436.html#a1f9bbc083ae0bb7c00a303909ab043f5", null ],
-    [ "SetHordeTowersControlled", "d0/d66/a22436.html#ae5de375e1ec88dc5ce0059490596a935", null ],
-    [ "SetupOutdoorPvP", "d0/d66/a22436.html#aee60f1d1da4d6eecd0e66cf975272979", null ],
-    [ "Update", "d0/d66/a22436.html#aeec44f41e6d6fe7c768bb738a3eafb47", null ],
-    [ "m_AllianceTowersControlled", "d0/d66/a22436.html#a90c41df874abfee0a4861cf923de9ab5", null ],
-    [ "m_HordeTowersControlled", "d0/d66/a22436.html#ada8244f57fe3a693d167689d3f921025", null ]
+    [ "OPvPCapturePointEP_EWT", "d0/d66/a22436.html#a3740f069c46f9d3f0e11d97663bc0104", null ],
+    [ "ChangeState", "d0/d66/a22436.html#ac00c50b89e1218f87506778096a9d7cd", null ],
+    [ "FillInitialWorldStates", "d0/d66/a22436.html#a7ce76f4fc8169c42f65267daf987a3b6", null ],
+    [ "HandlePlayerEnter", "d0/d66/a22436.html#aed78ccf9ad517b4a94431e3355cba1dd", null ],
+    [ "HandlePlayerLeave", "d0/d66/a22436.html#a2638b24dca375420778845963e307db3", null ],
+    [ "SendChangePhase", "d0/d66/a22436.html#a6d45df918aea00e9cb85a8940cb5c1c9", null ],
+    [ "SummonSupportUnitAtNorthpassTower", "d0/d66/a22436.html#ad70a8cc485072cd9af892290584062d8", null ],
+    [ "UpdateTowerState", "d0/d66/a22436.html#ac0bcdfb9f2aeabc78b72c3cce674c479", null ],
+    [ "m_TowerState", "d0/d66/a22436.html#aa30e9cc01476eb20b188c7a13a405c3a", null ],
+    [ "m_UnitsSummonedSideId", "d0/d66/a22436.html#a0319f0d51624df44419976e7abd1b813", null ]
 ];

@@ -1,12 +1,11 @@
 var a23456 =
 [
-    [ "boss_omor_the_unscarred", "de/d6e/a23456.html#aeef6af0274425d9af5b5ada0d6aa7a2b", null ],
-    [ "JustDied", "de/d6e/a23456.html#a9ddae483a0f8cefd8a19975b60002660", null ],
-    [ "JustEngagedWith", "de/d6e/a23456.html#aa874d266d9a5ced45ea2ceb750370b1a", null ],
-    [ "JustSummoned", "de/d6e/a23456.html#a3503f9d13a5191c71013d77b79a8a4a3", null ],
-    [ "KilledUnit", "de/d6e/a23456.html#afc5c12a69d51638b67fcdf8098ff7da6", null ],
-    [ "Reset", "de/d6e/a23456.html#a0ec22c50cd096677a20299ab45a3c344", null ],
-    [ "UpdateAI", "de/d6e/a23456.html#aeb478325ea00f996b4c3c1584fe3965d", null ],
-    [ "_hasSpoken", "de/d6e/a23456.html#a3fe7684742f783cb1e68fcc7cfc0de7a", null ],
-    [ "_targetGUID", "de/d6e/a23456.html#a5ea9161b949e99f0a61498ed05d66d27", null ]
+    [ "boss_krosh_firehand", "de/d6e/a23456.html#a1ef3618844f086de7875f26e7e6190f9", null ],
+    [ "AttackStart", "de/d6e/a23456.html#a74bd2c93ac45efcd163a904b9a52827b", null ],
+    [ "JustDied", "de/d6e/a23456.html#ad20c86b4a3d0cccddf91982c26f56c09", null ],
+    [ "JustEngagedWith", "de/d6e/a23456.html#ad6389c357fb6c09fdf4f3f3ef7095395", null ],
+    [ "Reset", "de/d6e/a23456.html#a989c4b762a7cdb228b245e91881d97a2", null ],
+    [ "UpdateAI", "de/d6e/a23456.html#a3d26a6f544e9d00514ca5b0ef7d4bf4f", null ],
+    [ "_scheduler", "de/d6e/a23456.html#a261ced01dc1305ab7c2d2f3322022fe5", null ],
+    [ "instance", "de/d6e/a23456.html#a876bb040d78cafa9aa22e818f60dce7f", null ]
 ];

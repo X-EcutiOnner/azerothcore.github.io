@@ -1,6 +1,6 @@
 var a27048 =
 [
-    [ "npc_spirit_shadeAI", "d3/dcc/a27052.html", "d3/dcc/a27052" ],
-    [ "npc_spirit_shade", "da/de6/a27048.html#a891ede5651789274496d6426daf9937d", null ],
-    [ "GetAI", "da/de6/a27048.html#a166f6a9abf7c0e33374c2f998c0524c3", null ]
+    [ "AreaTrigger_at_area_52_entrance", "da/de6/a27048.html#a5b7e21903bca1c04bad1394c6965d032", null ],
+    [ "OnTrigger", "da/de6/a27048.html#a1e537d133ee5e6ad1dbb0c732e23a128", null ],
+    [ "_triggerTimes", "da/de6/a27048.html#a6c3225f46ea71d06b81b25d5fb6e8f25", null ]
 ];

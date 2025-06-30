@@ -1,21 +1,9 @@
 var a19696 =
 [
-    [ "boss_stormcaller_brundirAI", "db/dcd/a19696.html#adc28dd5beed1a6e48c79d7cdcceec084", null ],
-    [ "GetData", "db/dcd/a19696.html#a72b285d89d1bf55d85436718cf25c287", null ],
-    [ "JustDied", "db/dcd/a19696.html#a8aa9383b97b23d71d598ae1e650d0195", null ],
-    [ "JustEngagedWith", "db/dcd/a19696.html#a9f2c58c1ebf4ce1809d454c4bba8f758", null ],
-    [ "JustReachedHome", "db/dcd/a19696.html#af7e52166fdeb9b77ffa7057444ee67ef", null ],
-    [ "KilledUnit", "db/dcd/a19696.html#af26795d89f26a9d907e81ef16ab10762", null ],
-    [ "MovementInform", "db/dcd/a19696.html#a396869cd37f7f66c38424d70fb87bb01", null ],
-    [ "Reset", "db/dcd/a19696.html#a4e1d09a210b4991e2b97e04f7be8a2bf", null ],
-    [ "SpellHit", "db/dcd/a19696.html#af6e9b985d9bb5f63b1163d8ef1299992", null ],
-    [ "SpellHitTarget", "db/dcd/a19696.html#a5592b2f9e4ce9149fb77cdc5dcc27539", null ],
-    [ "UpdateAI", "db/dcd/a19696.html#a483ea3ae6c95ab18cc5fa2f41b613690", null ],
-    [ "UpdatePhase", "db/dcd/a19696.html#a6f018f955bf546a47c119328b33ef010", null ],
-    [ "_channelTimer", "db/dcd/a19696.html#a19fe914b34ca1ac05714387f00e0d28d", null ],
-    [ "_flyTargetGUID", "db/dcd/a19696.html#a30d4b48a08328fb497ff51e0fa260041", null ],
-    [ "_phase", "db/dcd/a19696.html#afe01d10d1abf8a7ddfc1d3c1b238cd30", null ],
-    [ "_stunnedAchievement", "db/dcd/a19696.html#a678cd6ce097dab459bbf162553ddd56b", null ],
-    [ "events", "db/dcd/a19696.html#afe480aedba3a5772a98f694647c7ed50", null ],
-    [ "pInstance", "db/dcd/a19696.html#ab528df844696fec44595e0878966e0c2", null ]
+    [ "CheckTargets", "db/dcd/a19696.html#a9340c167ef70508635092e273c23dcde", null ],
+    [ "CountTargets", "db/dcd/a19696.html#a996db37b678143fbc0a392032d29fff5", null ],
+    [ "Load", "db/dcd/a19696.html#a716bcf5bb0a24f9a57534c9dafb1a56f", null ],
+    [ "PrepareSpellScript", "db/dcd/a19696.html#a0b68ca6bdfe0f7c84236e5fe509d8fd9", null ],
+    [ "Register", "db/dcd/a19696.html#aed312a4408134589fd02bbcb844fd1b7", null ],
+    [ "_targetCount", "db/dcd/a19696.html#ac780614674e748274081f9f99a5165fe", null ]
 ];

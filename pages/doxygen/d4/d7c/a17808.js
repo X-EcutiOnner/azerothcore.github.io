@@ -1,6 +1,6 @@
 var a17808 =
 [
-    [ "HandlePeriodic", "d4/d7c/a17808.html#a9583ccd7b642694a06bde4b88826ec7b", null ],
-    [ "PrepareAuraScript", "d4/d7c/a17808.html#a5d855d79247dff6f949a5e099abb9352", null ],
-    [ "Register", "d4/d7c/a17808.html#ae797de0ed29b3ca179c07d759b469228", null ]
+    [ "npc_gas_cloudAI", "d2/d3c/a17812.html", "d2/d3c/a17812" ],
+    [ "npc_gas_cloud", "d4/d7c/a17808.html#a99c887cb8a5cc87bbfca026447368b8e", null ],
+    [ "GetAI", "d4/d7c/a17808.html#a1c76a148f9c1acec473f102b6a24e3bb", null ]
 ];

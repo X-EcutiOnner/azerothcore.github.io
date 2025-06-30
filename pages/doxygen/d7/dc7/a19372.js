@@ -1,8 +1,6 @@
 var a19372 =
 [
-    [ "HandleOnEffectApply", "d7/dc7/a19372.html#ac852d761940494f78b50ba3b060057a2", null ],
-    [ "HandleOnEffectRemove", "d7/dc7/a19372.html#a6764750586be8b57d52a2dba87d89e76", null ],
-    [ "PrepareAuraScript", "d7/dc7/a19372.html#acc93a6d463501a23b73bd1ac1f99854e", null ],
-    [ "Register", "d7/dc7/a19372.html#a2cb77175d7341752bdd8733cfcfe8ed3", null ],
-    [ "Validate", "d7/dc7/a19372.html#a4de69fb4aa8e1506581ed01c42dc8f76", null ]
+    [ "npc_oculus_drakeAI", "dd/d78/a19376.html", "dd/d78/a19376" ],
+    [ "npc_oculus_drake", "d7/dc7/a19372.html#ad2897dd72e9337af53ef2f043cd07d55", null ],
+    [ "GetAI", "d7/dc7/a19372.html#afd2f1678a7faef76a231e4c16bd015e5", null ]
 ];

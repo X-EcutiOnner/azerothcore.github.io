@@ -1,6 +1,6 @@
 var a14960 =
 [
-    [ "HandleScript", "dd/da5/a14960.html#a88551ffd3dbe4fb9cc122a68813234f0", null ],
-    [ "PrepareSpellScript", "dd/da5/a14960.html#ae4d8cad1b5de248a30085142fcc2cc7b", null ],
-    [ "Register", "dd/da5/a14960.html#a434f0aef7f32edb6990efb992e4d57af", null ]
+    [ "go_ossirian_crystalAI", "d3/d00/a14964.html", "d3/d00/a14964" ],
+    [ "go_ossirian_crystal", "dd/da5/a14960.html#a783f0f0570ee0f667920e29613b565b2", null ],
+    [ "GetAI", "dd/da5/a14960.html#a2f7b12eddc6504917614913e347ec0a0", null ]
 ];

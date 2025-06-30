@@ -1,8 +1,9 @@
 var a18324 =
 [
-    [ "npc_lk_wicked_spiritAI", "d2/d83/a18324.html#a6323ddd6c0932f3d73a6de4bd3c4d5dd", null ],
-    [ "CanAIAttack", "d2/d83/a18324.html#ae094420b1a6e134632baa0b086c806c6", null ],
-    [ "JustDied", "d2/d83/a18324.html#adf153fab1c8639b2b5790ed418afb85d", null ],
-    [ "JustRespawned", "d2/d83/a18324.html#a1acfbead42b66dd8f70a85efc8ce2e6f", null ],
-    [ "Reset", "d2/d83/a18324.html#a8b15079251b6855679d738a342126006", null ]
+    [ "FilterTargets", "d2/d83/a18324.html#a2b669cd93ed96417e4a0a6d83e4095cd", null ],
+    [ "Load", "d2/d83/a18324.html#aaec66c1d360ffa4e25d86f331f3521dd", null ],
+    [ "PrepareSpellScript", "d2/d83/a18324.html#a34d702b1299e2ee27eb1c27bc49be9dc", null ],
+    [ "Register", "d2/d83/a18324.html#afad887fba0d97512a7a13a31977cf42d", null ],
+    [ "Validate", "d2/d83/a18324.html#a2ff2dcfa096bf237c9c4c442ec13fa4d", null ],
+    [ "_instance", "d2/d83/a18324.html#a96dde7a1b30682c6bb04c1ae5449bd7c", null ]
 ];

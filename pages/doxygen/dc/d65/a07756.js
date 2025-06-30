@@ -1,6 +1,7 @@
 var a07756 =
 [
-    [ "value_type", "dc/d65/a07756.html#a8ce1d08e5d320ef2c6301475fba4a7c2", null ],
-    [ "StoreTo", "dc/d65/a07756.html#ac01b3840e65515853e26c16dd3caaf58", null ],
-    [ "tag", "dc/d65/a07756.html#abd9c16378ed02e10a25cd45111e6fc69", null ]
+    [ "StoreTo", "dc/d65/a07756.html#a1f368b832f95ce4acc6ed47ad4ca2e8d", null ],
+    [ "StoreTo", "dc/d65/a07756.html#a3d9382dd50447477f9f04bc0f055e55c", null ],
+    [ "StoreTo", "dc/d65/a07756.html#a071922c9c431637de3cb2d6b52def7bd", null ],
+    [ "StoreTo", "dc/d65/a07756.html#a45556cc3ac64a6692ef08d6d93d48a4d", null ]
 ];

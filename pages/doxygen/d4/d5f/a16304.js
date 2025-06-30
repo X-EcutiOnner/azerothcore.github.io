@@ -1,7 +1,10 @@
 var a16304 =
 [
-    [ "npc_toc_paladinAI", "d4/d5f/a16304.html#a025d39c04e864ebd77f4f930ec20b1e5", null ],
-    [ "myCanCast", "d4/d5f/a16304.html#a06130e6e440d0b25d8b5566de6190cbc", null ],
-    [ "UpdateAI", "d4/d5f/a16304.html#a32943f1c3ffd0239c85ac1b81786f049", null ],
-    [ "events", "d4/d5f/a16304.html#ae47a32bbb05cf2f634ae18bc672ec004", null ]
+    [ "npc_nerubian_burrowerAI", "d4/d5f/a16304.html#a7673709e7b16a6573d9c7392ba556313", null ],
+    [ "CanAIAttack", "d4/d5f/a16304.html#a82e4a5ca23ae2a94212b214aad1c69df", null ],
+    [ "JustDied", "d4/d5f/a16304.html#ab5182ad65187c472b306e2177530d7b6", null ],
+    [ "Reset", "d4/d5f/a16304.html#a4491965d9c08ed1d888cad6f7b06352d", null ],
+    [ "SpellHitTarget", "d4/d5f/a16304.html#a64fa2c8276f7418542190e833dd72c51", null ],
+    [ "UpdateAI", "d4/d5f/a16304.html#abd2c7333625ded502a00848b09ee9a40", null ],
+    [ "events", "d4/d5f/a16304.html#ab45e8c6dd9ea3552fed4b926136f80e6", null ]
 ];

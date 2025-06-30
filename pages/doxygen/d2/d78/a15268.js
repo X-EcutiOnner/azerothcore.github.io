@@ -1,6 +1,8 @@
 var a15268 =
 [
-    [ "npc_murkdeepAI", "d2/dc8/a15272.html", "d2/dc8/a15272" ],
-    [ "npc_murkdeep", "d2/d78/a15268.html#a72d44d786bcba4dea5ccedd33e7dbd3c", null ],
-    [ "GetAI", "d2/d78/a15268.html#ab9f8faa3adaf1f251e1248fbe0f46468", null ]
+    [ "npc_injured_draeneiAI", "d2/d78/a15268.html#a6832ec8b005e75ff66b0fd04e5ff3daa", null ],
+    [ "JustEngagedWith", "d2/d78/a15268.html#adcc5750f0ab037a7ac38b9fa64b75a74", null ],
+    [ "MoveInLineOfSight", "d2/d78/a15268.html#a514556f4a81c6f1f8b7caaa526c08662", null ],
+    [ "Reset", "d2/d78/a15268.html#adcb601f739a91ce71926791885152471", null ],
+    [ "UpdateAI", "d2/d78/a15268.html#af4d723ac0a95f9dad12e82d5bc987f50", null ]
 ];

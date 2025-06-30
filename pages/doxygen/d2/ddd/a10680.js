@@ -1,6 +1,5 @@
 var a10680 =
 [
-    [ "GuildBankLogQuery", "d2/ddd/a10680.html#ab094e91a48d0259b4247157b92997bb2", null ],
-    [ "Read", "d2/ddd/a10680.html#a5eed269e9285a33ffc61fcfa7d639083", null ],
-    [ "Tab", "d2/ddd/a10680.html#ae966e3ac144b86e20f65b742ff3be9e3", null ]
+    [ "SocketEnchantID", "d2/ddd/a10680.html#ae682a8405a5fa1c70033d190dde25d99", null ],
+    [ "SocketIndex", "d2/ddd/a10680.html#ac75ed3f28bdd3d83f15e55ef9b6ac54a", null ]
 ];

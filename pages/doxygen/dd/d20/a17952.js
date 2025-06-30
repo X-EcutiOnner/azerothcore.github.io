@@ -1,6 +1,6 @@
 var a17952 =
 [
-    [ "UnchainedMagicTargetSelector", "dd/d20/a17952.html#ae412c72884e6cfb1ceef8ed9fb347fbf", null ],
-    [ "operator()", "dd/d20/a17952.html#af28ce8f46154ae6152e9025775a7f84f", null ],
-    [ "_removeHealers", "dd/d20/a17952.html#a35a7981ce5495cba8b3a5391e4031431", null ]
+    [ "DespawnSelf", "dd/d20/a17952.html#a7009dd0e842898d03caa89e92447749d", null ],
+    [ "PrepareAuraScript", "dd/d20/a17952.html#a00f0379b4e4fadf73bed7d483e406ac5", null ],
+    [ "Register", "dd/d20/a17952.html#a8f21cb8ab1145fe32a78a682445cfc2d", null ]
 ];

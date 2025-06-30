@@ -1,6 +1,5 @@
 var a20652 =
 [
-    [ "npc_xt002_life_sparkAI", "dd/da2/a20656.html", "dd/da2/a20656" ],
-    [ "npc_xt002_life_spark", "d9/d02/a20652.html#a9644718d192708e391b833468a0ff21e", null ],
-    [ "GetAI", "d9/d02/a20652.html#a09a1ce332d55fad146947c94bb53f564", null ]
+    [ "achievement_thorim_stand_in_the_lightning", "d9/d02/a20652.html#a9339e89e4eb76151fdeacb6bcd53d7bc", null ],
+    [ "OnCheck", "d9/d02/a20652.html#ade1aec4de4c503be5a62da3e6c35e90f", null ]
 ];

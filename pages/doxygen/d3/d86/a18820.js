@@ -1,6 +1,5 @@
 var a18820 =
 [
-    [ "npc_four_car_garageAI", "d3/d86/a18820.html#a2eedf5934e12d33cda0ac173d82220d5", null ],
-    [ "JustDied", "d3/d86/a18820.html#a1fba9f03dca2db37b5cb969079b25d22", null ],
-    [ "PassengerBoarded", "d3/d86/a18820.html#a144bc36a5c4ff227c8a7dc146d4167b6", null ]
+    [ "at_icc_spire_frostwyrm", "d3/d86/a18820.html#ac3da2c0bc3e8b1c31832fcbb4e8ceae8", null ],
+    [ "_OnTrigger", "d3/d86/a18820.html#a67e320fb8ada7cb2c87f5944395fa174", null ]
 ];

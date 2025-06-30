@@ -1,7 +1,10 @@
 var a16864 =
 [
-    [ "HandleEffectPeriodic", "d3/d07/a16864.html#aaefcf8ace7c109648c9220fb0ff9d4de", null ],
-    [ "PrepareAuraScript", "d3/d07/a16864.html#ae0ccb7d4566777e52b71e99a908d13fa", null ],
-    [ "Register", "d3/d07/a16864.html#a73e8ef9dbd3dd3dc332d4b3a2eb2c5ea", null ],
-    [ "Validate", "d3/d07/a16864.html#ab3fcbe5386e9529824228e8f3b6be797", null ]
+    [ "npc_hor_spiritual_reflectionAI", "d3/d07/a16864.html#aac0a916bfa325284b354e7241fe857ab", null ],
+    [ "EnterEvadeMode", "d3/d07/a16864.html#a49f1c93206bfff53090c138a3dbf79e5", null ],
+    [ "JustDied", "d3/d07/a16864.html#a72073c44f881d4a78552de4119a716d7", null ],
+    [ "JustEngagedWith", "d3/d07/a16864.html#ac35e648b93bb39ca831390bf88f6a3e7", null ],
+    [ "Reset", "d3/d07/a16864.html#ad1f523fad45c34077e6d6ce7b9a4aefd", null ],
+    [ "UpdateAI", "d3/d07/a16864.html#af9613e9309b85317bc6e3a84013dcf89", null ],
+    [ "events", "d3/d07/a16864.html#a89a466917aa5634c4c86ecbce21280b7", null ]
 ];

@@ -1,5 +1,6 @@
 var a16820 =
 [
-    [ "at_hor_shadow_throne", "d1/dfc/a16820.html#a342808808be75079acf6a2f930afe930", null ],
-    [ "OnTrigger", "d1/dfc/a16820.html#a0166b1a58f4171c4d9893010df5831c4", null ]
+    [ "npc_phantom_hallucinationAI", "d5/dd8/a16824.html", "d5/dd8/a16824" ],
+    [ "npc_phantom_hallucination", "d1/dfc/a16820.html#a685889c090152a2562ee9adef7efbf71", null ],
+    [ "GetAI", "d1/dfc/a16820.html#a771ee338f87ca0a2e9a7d02d1322c5d5", null ]
 ];

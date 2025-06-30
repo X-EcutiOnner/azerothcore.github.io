@@ -1,6 +1,5 @@
 var a17728 =
 [
-    [ "AbominationDespawner", "df/d6e/a17728.html#a3bbf8c5d4e42569ffe993a3c3b8ff95e", null ],
-    [ "operator()", "df/d6e/a17728.html#a58b8faac1cdffa7230783a1d6439fcfb", null ],
-    [ "_owner", "df/d6e/a17728.html#af9089e566905b885887a5714ad5b0741", null ]
+    [ "at_lady_deathwhisper_entrance", "df/d6e/a17728.html#a3c16844f4ff97fd0699edb1d1aca2f60", null ],
+    [ "OnTrigger", "df/d6e/a17728.html#a769c838c94a88af5492057909d88f3de", null ]
 ];

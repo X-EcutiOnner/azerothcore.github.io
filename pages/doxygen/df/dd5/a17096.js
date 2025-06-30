@@ -1,6 +1,6 @@
 var a17096 =
 [
-    [ "boss_gal_darahAI", "d4/d5f/a17100.html", "d4/d5f/a17100" ],
-    [ "boss_gal_darah", "df/dd5/a17096.html#a687bb98f9de9cd838c57511dc6b3d086", null ],
-    [ "GetAI", "df/dd5/a17096.html#a8f709568f5a06265056571061ff3a26b", null ]
+    [ "entry", "df/dd5/a17096.html#af2cf5df64adf9ac1575a8217b103e738", null ],
+    [ "x", "df/dd5/a17096.html#aad21475d521921ea30cc0ae5d260ce69", null ],
+    [ "y", "df/dd5/a17096.html#abd69e1c28ad36466c82807ea0ffb0fb7", null ]
 ];

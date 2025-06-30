@@ -1,9 +1,11 @@
 var a14236 =
 [
-    [ "entries", "d5/df4/a14236.html#a8c55bbd253d6bea01e83c0aa7380dee5", null ],
-    [ "entries", "d5/df4/a14236.html#a953850b267eb6f599bb49d82080bdf64", null ],
-    [ "revelerId", "d5/df4/a14236.html#a9e4069ef00c8b4e31d8af06f34e12ad5", null ],
-    [ "schedule", "d5/df4/a14236.html#ad849701425622001519334f352ea6f3e", null ],
-    [ "size", "d5/df4/a14236.html#ae6a3fa59e1eb384255c247abadc962d5", null ],
-    [ "spawns", "d5/df4/a14236.html#aa081965795e3b9473be5b322b0c46505", null ]
+    [ "npc_elder_kekek", "d5/df4/a14236.html#a6084af39be5c70699c9fdcf3cd58e954", null ],
+    [ "MoveInLineOfSight", "d5/df4/a14236.html#a0c673e4fdf8e75d3bc8570db166bcd95", null ],
+    [ "Reset", "d5/df4/a14236.html#a97e615bdefba5baf459960fc2987cd69", null ],
+    [ "UpdateAI", "d5/df4/a14236.html#a5823bc7164d797c40d48b9b74642d9b5", null ],
+    [ "orphanGUID", "d5/df4/a14236.html#a98c79e46e051c35819c6025828a519cb", null ],
+    [ "phase", "d5/df4/a14236.html#a99fd9d984f92d5ba8b5876675855d4f6", null ],
+    [ "playerGUID", "d5/df4/a14236.html#a614ed3332f4af3c5178aa69da968a3d3", null ],
+    [ "timer", "d5/df4/a14236.html#a445c048d8858f5dc7c1e88308ed7e5ab", null ]
 ];

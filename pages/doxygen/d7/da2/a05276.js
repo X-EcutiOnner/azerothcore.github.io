@@ -1,5 +1,5 @@
 var a05276 =
 [
-    [ "Head", "d7/da2/a05276.html#ac5c6d38e71241055f58984e88368494a", null ],
-    [ "Tail", "d7/da2/a05276.html#a8b16ba737e930ebc023b8cea8231f678", null ]
+    [ "_elements", "d7/da2/a05276.html#a40b7d4b51ba0849a77a41abc76407e39", null ],
+    [ "_TailElements", "d7/da2/a05276.html#a8762b1028a8b81762e9b08fd45d13269", null ]
 ];

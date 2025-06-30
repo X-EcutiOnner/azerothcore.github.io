@@ -1,9 +1,10 @@
 var a09980 =
 [
-    [ "PathMovementBase", "dd/dee/a09980.html#a6b76e1527ed69ff631d7a72c309f264a", null ],
-    [ "PathMovementBase", "dd/dee/a09980.html#a953fcda0cf7764f659fc5a4a19408550", null ],
-    [ "~PathMovementBase", "dd/dee/a09980.html#a33b2b53993fe897712a196bc4ad86bd1", null ],
-    [ "GetCurrentNode", "dd/dee/a09980.html#a7ceb52928f2198392980c3926516fd82", null ],
-    [ "i_currentNode", "dd/dee/a09980.html#a5420aef90d3529881ef41362ebb29934", null ],
-    [ "i_path", "dd/dee/a09980.html#a3dbc5e41e0c6245f369afc7a24081c83", null ]
+    [ "EffectMovementGenerator", "dd/dee/a09980.html#a4b574eb9865cffe1277d9012db653d98", null ],
+    [ "Finalize", "dd/dee/a09980.html#a50cad77c4261bea67428b9dcd5a37ea1", null ],
+    [ "GetMovementGeneratorType", "dd/dee/a09980.html#a42c56bc35cf3d752e24ccc36adcd2e82", null ],
+    [ "Initialize", "dd/dee/a09980.html#a376f554231bc5dc4c95790e6c85dcb01", null ],
+    [ "Reset", "dd/dee/a09980.html#a9627573a7206e12ff469e8e6e076862b", null ],
+    [ "Update", "dd/dee/a09980.html#adff45ee4ce3cc72b6cc88e626c3bd0a5", null ],
+    [ "m_Id", "dd/dee/a09980.html#a56f483336fe5c86c6d186ec4d7772d4b", null ]
 ];

@@ -1,6 +1,6 @@
 var a12924 =
 [
-    [ "npc_a_special_surpriseAI", "d2/dde/a12928.html", "d2/dde/a12928" ],
-    [ "npc_a_special_surprise", "d8/d9a/a12924.html#ab88d74a86049c53b1569bdcc263f3dd4", null ],
-    [ "GetAI", "d8/d9a/a12924.html#a930c7ba67a20fbfc55b40117ccd52c98", null ]
+    [ "npc_crusade_persuadedAI", "d2/dde/a12928.html", "d2/dde/a12928" ],
+    [ "npc_crusade_persuaded", "d8/d9a/a12924.html#a4048e164fc99b9dfff41fd168fb542b6", null ],
+    [ "GetAI", "d8/d9a/a12924.html#a004833d7e6312b23eb6a07c0a6e41db6", null ]
 ];

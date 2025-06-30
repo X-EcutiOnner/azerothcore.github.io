@@ -1,7 +1,6 @@
 var a21624 =
 [
-    [ "npc_cosmetic_toy_plane", "df/dc7/a21624.html#a71b7df4d5f78768d9e47f41ba78b93d2", null ],
-    [ "Reset", "df/dc7/a21624.html#aa66f2e16ce6c4e5dd7399b48bd5bc203", null ],
-    [ "UpdateAI", "df/dc7/a21624.html#a41d62b314510fbd6637d8eddbea16f96", null ],
-    [ "_movementArray", "df/dc7/a21624.html#a5a85278bc14a0e3158dc3fa8abcc8392", null ]
+    [ "npc_mei_francis_mountAI", "d3/df3/a21628.html", "d3/df3/a21628" ],
+    [ "npc_mei_francis_mount", "df/dc7/a21624.html#ab34facb1d4d9a542710340493488eaa8", null ],
+    [ "GetAI", "df/dc7/a21624.html#ac1f14e0b94662432b399d6dfeb8a8107", null ]
 ];

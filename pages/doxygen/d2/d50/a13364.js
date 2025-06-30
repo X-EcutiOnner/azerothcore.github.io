@@ -1,6 +1,7 @@
 var a13364 =
 [
-    [ "instance_sunwell_plateau_InstanceMapScript", "d2/d50/a13364.html#aae99b35ff990fd7486d5b70693b6729a", null ],
-    [ "Load", "d2/d50/a13364.html#a5398f0aa153f7c4eaea390e33c400b02", null ],
-    [ "OnPlayerEnter", "d2/d50/a13364.html#ab45827eaa92aea4746378b3c11fda219", null ]
+    [ "npc_singularity", "d2/d50/a13364.html#a4ed61ec65ed94d8d5e42ae7ff9ecd41d", null ],
+    [ "FindAndFollowTarget", "d2/d50/a13364.html#a76c21129756dec05f6f2d88cebe948c5", null ],
+    [ "Reset", "d2/d50/a13364.html#ae81c2e5865beb00df8683fa0fb6e7872", null ],
+    [ "UpdateAI", "d2/d50/a13364.html#ad019d234ca9ee719612d59e5bb0b53ea", null ]
 ];

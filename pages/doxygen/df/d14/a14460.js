@@ -1,6 +1,9 @@
 var a14460 =
 [
-    [ "HandleScriptEffect", "df/d14/a14460.html#aebd700897688157ca62405c92fe58680", null ],
-    [ "PrepareSpellScript", "df/d14/a14460.html#a09e11d1938279a2302fb8805e71c6c36", null ],
-    [ "Register", "df/d14/a14460.html#aa0679665ba2c496e0a5aa5f6864d7230", null ]
+    [ "HandlePeriodic", "df/d14/a14460.html#ae5f611f0643cdfc3d403cee89667b0f6", null ],
+    [ "Load", "df/d14/a14460.html#aa90cfb5fdb96e8670fa35dd3c16350c0", null ],
+    [ "PrepareAuraScript", "df/d14/a14460.html#afeb65196cbafc813bb02eb3907e59fc2", null ],
+    [ "Register", "df/d14/a14460.html#ac331de3219ae7da9e35e962011540bdf", null ],
+    [ "Validate", "df/d14/a14460.html#a7de36e3ee777b02ab6fc4671e4e9f5ab", null ],
+    [ "_buffGiven", "df/d14/a14460.html#aec2476ad5e046213b90af04ad91f0230", null ]
 ];

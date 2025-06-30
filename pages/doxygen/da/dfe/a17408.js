@@ -1,7 +1,7 @@
 var a17408 =
 [
-    [ "HandleScript", "da/dfe/a17408.html#a101e5e995dd27dcc6b6a4b475eed0989", null ],
-    [ "PrepareSpellScript", "da/dfe/a17408.html#a8f668b88a41585cabeace574b30b4f85", null ],
-    [ "Register", "da/dfe/a17408.html#a8fae161a91fae297b99079bde218ced8", null ],
-    [ "Validate", "da/dfe/a17408.html#a4d1a8c28eefff22afdbf15ab57a6a7fd", null ]
+    [ "HandleDummy", "da/dfe/a17408.html#a89c0706f21fe92fd443c3638181044ec", null ],
+    [ "PrepareSpellScript", "da/dfe/a17408.html#a957e29d2458fd90228ef9c53e997c642", null ],
+    [ "Register", "da/dfe/a17408.html#a250c95310503cd59d73e45a9b9372268", null ],
+    [ "Validate", "da/dfe/a17408.html#a1c67a262eb95def51661919a3bad3437", null ]
 ];

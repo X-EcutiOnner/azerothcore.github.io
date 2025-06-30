@@ -1,7 +1,8 @@
 var a14456 =
 [
-    [ "HandleScript", "d9/d4a/a14456.html#adc8ab610e3b816dcce57fe44b6585bdb", null ],
-    [ "PrepareSpellScript", "d9/d4a/a14456.html#a05059d25127cd8d3aa51e4374963f9d9", null ],
-    [ "Register", "d9/d4a/a14456.html#aabe7d4213bbafdb6d072ba50bcfd1793", null ],
-    [ "Validate", "d9/d4a/a14456.html#aa1e74de390a8b71e43e43664981a36ff", null ]
+    [ "CheckCast", "d9/d4a/a14456.html#a1e63e7798ab5e55415eb0277f3160fa3", null ],
+    [ "HandleDummy", "d9/d4a/a14456.html#ad39da0510c21855dd74abd93f33621c9", null ],
+    [ "PrepareSpellScript", "d9/d4a/a14456.html#a727093fec8cc8422cbbaa79d821338c8", null ],
+    [ "Register", "d9/d4a/a14456.html#a8cc68fadf4ae20a9de24c75d2f61301f", null ],
+    [ "Validate", "d9/d4a/a14456.html#aacd60538c8410fc313a09b1044ad6c7a", null ]
 ];

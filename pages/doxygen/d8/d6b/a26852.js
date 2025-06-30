@@ -1,8 +1,6 @@
 var a26852 =
 [
-    [ "HandleDamage", "d8/d6b/a26852.html#a371d3112e619453b7c92933a145bf4d2", null ],
-    [ "HandleDummy", "d8/d6b/a26852.html#a051f68946f3c246b410bbaa2ac14e4b1", null ],
-    [ "PrepareSpellScript", "d8/d6b/a26852.html#a41d69ed3f8372c4e157aefbec6ad525c", null ],
-    [ "Register", "d8/d6b/a26852.html#aaa1e53f38a2ba835c12fa726c030ab08", null ],
-    [ "Validate", "d8/d6b/a26852.html#a180ab99bc257b841e0bbbfc0ddb83814", null ]
+    [ "HandleRemove", "d8/d6b/a26852.html#a0ac8fe6a39ae00e50f219bf02c26f1a4", null ],
+    [ "PrepareAuraScript", "d8/d6b/a26852.html#a0517fe77f15e1b9cf6153ed2aaf9cee8", null ],
+    [ "Register", "d8/d6b/a26852.html#ac968ede75fd5d98ba9a10dc9f6bdbb85", null ]
 ];

@@ -1,9 +1,7 @@
 var a25340 =
 [
-    [ "CheckCast", "d4/d04/a25340.html#a005565dd77de97b5aa04553a1d6a0185", null ],
-    [ "HandleScript", "d4/d04/a25340.html#a7313a3d9840d7dc81e5a894e83cb6347", null ],
-    [ "Load", "d4/d04/a25340.html#aadfc8a873c72e31d65001ce00518ca45", null ],
-    [ "PrepareSpellScript", "d4/d04/a25340.html#a169b60644259855f0614271e4769f6b9", null ],
-    [ "Register", "d4/d04/a25340.html#a9e7f8cbc7ec3de507069b69678005da3", null ],
-    [ "Validate", "d4/d04/a25340.html#a9e69eb36c1a2640ff616ae5744c04f4f", null ]
+    [ "HandleScriptEffect", "d4/d04/a25340.html#ae3c2900d98c2fd51ff0888ea5d1072c4", null ],
+    [ "PrepareSpellScript", "d4/d04/a25340.html#a29ac1789b8023ef3339a7b40ee9c31ab", null ],
+    [ "Register", "d4/d04/a25340.html#a321098d2325bfb9cea674d1137348350", null ],
+    [ "Validate", "d4/d04/a25340.html#aa16a67bf42f51b838d22dcbe4b5b6f7b", null ]
 ];

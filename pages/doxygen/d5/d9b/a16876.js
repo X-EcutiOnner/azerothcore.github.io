@@ -1,7 +1,17 @@
 var a16876 =
 [
-    [ "UtherBatteredHiltEvent", "d5/d9b/a16876.html#a7bb34b75a3e371260a231aea72f75b40", null ],
-    [ "Execute", "d5/d9b/a16876.html#ad2eb37877155b6dbc9916338e30d0306", null ],
-    [ "_eventId", "d5/d9b/a16876.html#a5045e057b2c5d468aa579751d2c799b8", null ],
-    [ "_owner", "d5/d9b/a16876.html#a588974708f4a48f5a7b097a63a0c0899", null ]
+    [ "npc_hor_lich_kingAI", "d5/d9b/a16876.html#a689fd445286595780c3d842976a5913f", null ],
+    [ "DoAction", "d5/d9b/a16876.html#a904a57d99527b6ff47d4f9ab8751a4a5", null ],
+    [ "JustSummoned", "d5/d9b/a16876.html#aed675a5238ca6a6312d1758ecbe86aa2", null ],
+    [ "MovementInform", "d5/d9b/a16876.html#aeeea82d3e5869e5f604314474533975c", null ],
+    [ "Reset", "d5/d9b/a16876.html#a1f1bb445ea29daaf479e7171c96db901", null ],
+    [ "SpellHitTarget", "d5/d9b/a16876.html#adcee3757198acfaf4fd4dc8765b86a98", null ],
+    [ "SummonedCreatureDespawn", "d5/d9b/a16876.html#a1f3a49cd9e1f9c1013a7c5c2ead3bb3d", null ],
+    [ "UpdateAI", "d5/d9b/a16876.html#a127cc66ea4804da51eb9069037b9ba33", null ],
+    [ "currentWall", "d5/d9b/a16876.html#a13c505b17edf9f843c6c638802eb62aa", null ],
+    [ "div2", "d5/d9b/a16876.html#a63a1741fba6e0fecaf9aac6b6c397acf", null ],
+    [ "events", "d5/d9b/a16876.html#a06550732cba84da4cbd708d03a7bd6bb", null ],
+    [ "pInstance", "d5/d9b/a16876.html#a5c8ce256ab8e71705bc8d84f08245417", null ],
+    [ "reqKillCount", "d5/d9b/a16876.html#a69da5432ed2b4ef9944fbd19c97d404d", null ],
+    [ "summons", "d5/d9b/a16876.html#af55dd229cd141ffab701c6ab77304127", null ]
 ];

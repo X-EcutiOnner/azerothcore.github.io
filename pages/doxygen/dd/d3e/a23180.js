@@ -1,10 +1,10 @@
 var a23180 =
 [
-    [ "Spells", "dd/d3e/a23180.html#a70ca1841fb1db54e6f76b96331e05cf1", [
-      [ "SPELL_GROW", "dd/d3e/a23180.html#a70ca1841fb1db54e6f76b96331e05cf1a287a03bdb61355baf071dd8aa5802ccd", null ],
-      [ "SPELL_SPORE_CLOUD", "dd/d3e/a23180.html#a70ca1841fb1db54e6f76b96331e05cf1afae99ec87dcd6bdf3631b9f273fecbd5", null ]
-    ] ],
-    [ "npc_rancid_mushroom", "dd/d3e/a23180.html#a15896957b94de57de9eda5a199a05d4c", null ],
-    [ "InitializeAI", "dd/d3e/a23180.html#afff169ff9d7a8411cf6d21f4f9be2545", null ],
-    [ "UpdateAI", "dd/d3e/a23180.html#a13bfd343bdf54c829b3fcb0a775c0852", null ]
+    [ "boss_morogrim_tidewalker", "dd/d3e/a23180.html#a138a200da298f64697e2e47fb8004ccb", null ],
+    [ "JustDied", "dd/d3e/a23180.html#a139d87e7cffe03183538eb493e063195", null ],
+    [ "JustEngagedWith", "dd/d3e/a23180.html#a3244672aeb994673e1f46708699bcc2c", null ],
+    [ "JustSummoned", "dd/d3e/a23180.html#a2b669007520094948138c95468b77f9f", null ],
+    [ "KilledUnit", "dd/d3e/a23180.html#a2db94919e6d6f3d4eda4addc4248976e", null ],
+    [ "Reset", "dd/d3e/a23180.html#a78ed1d1f8c55407497a4fb679587975d", null ],
+    [ "_recentlySpoken", "dd/d3e/a23180.html#a63edb4b20baa9e1cf5238c3db5974c56", null ]
 ];

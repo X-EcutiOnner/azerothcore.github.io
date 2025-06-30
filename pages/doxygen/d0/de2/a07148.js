@@ -1,9 +1,7 @@
 var a07148 =
 [
-    [ "entryAlliance", "d0/de2/a07148.html#a0e5dba26d6d335a9d1e5f40e737acddd", null ],
-    [ "entryHorde", "d0/de2/a07148.html#a374fff4b069e89489395246f378b4900", null ],
-    [ "o", "d0/de2/a07148.html#af8a4ec46795bcdbc77c76302a4cfe639", null ],
-    [ "x", "d0/de2/a07148.html#ab557bbe497fc769b390cf0799b6aaed9", null ],
-    [ "y", "d0/de2/a07148.html#a44a8f3fd8d3cac7cfe61471d8b785ad4", null ],
-    [ "z", "d0/de2/a07148.html#adebb903a00687e17d9088f5da2c97f4a", null ]
+    [ "BfGraveyardWG", "d0/de2/a07148.html#a040af569e6633e4ed4c7513b55d034ac", null ],
+    [ "GetTextId", "d0/de2/a07148.html#ae1dfdc2d5a36f10f1a116d56b27545ed", null ],
+    [ "SetTextId", "d0/de2/a07148.html#a367d525e84d8634f47fb6679c2ee3d42", null ],
+    [ "m_GossipTextId", "d0/de2/a07148.html#ab85d716c0b93f8a17d7bf0dccabc21c6", null ]
 ];

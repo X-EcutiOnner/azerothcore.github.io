@@ -1,7 +1,12 @@
 var a17708 =
 [
-    [ "HandleScriptEffect", "d7/d81/a17708.html#abeb703f8f050677bafb8f5ce4173751a", null ],
-    [ "PrepareSpellScript", "d7/d81/a17708.html#a19dec2c1cbe72d90fa86960d7bb21277", null ],
-    [ "Register", "d7/d81/a17708.html#aa2c6c9de775ecce9f84485e0ac64a651", null ],
-    [ "SelectTarget", "d7/d81/a17708.html#ae8eb94536a9f08138b42cfe8ea711eaa", null ]
+    [ "npc_vengeful_shadeAI", "d7/d81/a17708.html#acd3961c7c81f88a341cb71888c55c882", null ],
+    [ "AttackStart", "d7/d81/a17708.html#afbd441c5ebf2207d37da1a905be1a247", null ],
+    [ "EnterEvadeMode", "d7/d81/a17708.html#a37bffb02c4ebf6acab8c3474581056a6", null ],
+    [ "MoveInLineOfSight", "d7/d81/a17708.html#a1e8e28e76f27edc5e07574e6050d7e5f", null ],
+    [ "Reset", "d7/d81/a17708.html#acf85448a221a37be819b7ab82f4f9fdc", null ],
+    [ "SpellHitTarget", "d7/d81/a17708.html#af9b40af943ee8a7c9bd8866f116871fc", null ],
+    [ "UpdateAI", "d7/d81/a17708.html#a3a353d677b469d750474a7497c5224a7", null ],
+    [ "targetGUID", "d7/d81/a17708.html#a75c3f61506fe42e41b10a2e67f5b091d", null ],
+    [ "unroot_timer", "d7/d81/a17708.html#a49ea66a0fb6e3c09730d92308bd1cac7", null ]
 ];

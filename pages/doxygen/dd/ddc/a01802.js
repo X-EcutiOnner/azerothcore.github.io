@@ -1,4 +1,4 @@
 var a01802 =
 [
-    [ "ScriptRegistry< ConditionScript >", "dd/ddc/a01802.html#af6b3c804d07f366580a1a5b9dd95f5fd", null ]
+    [ "ScriptRegistry< WorldMapScript >", "dd/ddc/a01802.html#a729e333e6d0c4e5e353dd22c9612f446", null ]
 ];

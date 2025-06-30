@@ -1,6 +1,8 @@
 var a26868 =
 [
-    [ "CalculateAmount", "d5/dcc/a26868.html#a94b6fab25e8cb298650f2a1e2d0b4347", null ],
-    [ "PrepareAuraScript", "d5/dcc/a26868.html#a845476e27b3751fd5aab505d41d8696d", null ],
-    [ "Register", "d5/dcc/a26868.html#aa5141f11bcd97cc501297a5309df1079", null ]
+    [ "HandleDummy", "d5/dcc/a26868.html#ad2eec86cff225cc0bd806e31596fb127", null ],
+    [ "PrepareSpellScript", "d5/dcc/a26868.html#a59a04dcfee911c70e13ea8d27b4a49c4", null ],
+    [ "Register", "d5/dcc/a26868.html#a6c72b4c813368774283ae94036a43ee2", null ],
+    [ "SendMiss", "d5/dcc/a26868.html#a7c6d300e60ed492c82d5c017d3e73ed1", null ],
+    [ "Validate", "d5/dcc/a26868.html#a9a5014de08f73ad5dad29354812030ac", null ]
 ];

@@ -1,7 +1,5 @@
 var a14264 =
 [
-    [ "HandleEffectApply", "d2/df5/a14264.html#a22f3143b10155635194abe22994a397c", null ],
-    [ "HandleEffectRemove", "d2/df5/a14264.html#a2ecc50fa3c14918b6eace63eac75eb96", null ],
-    [ "PrepareAuraScript", "d2/df5/a14264.html#abb4f53a42e701323b2fc66598ec3503c", null ],
-    [ "Register", "d2/df5/a14264.html#ad1ff6d29459d9a38fcdef3f6c7007f6b", null ]
+    [ "npc_grizzlemaw_cw_triggerAI", "d2/df5/a14264.html#a40207493c75d8a63284e08f1f75d56c4", null ],
+    [ "MoveInLineOfSight", "d2/df5/a14264.html#aef49ccdae1aff20fc469f0aa2663d8af", null ]
 ];

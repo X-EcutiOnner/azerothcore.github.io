@@ -1,13 +1,6 @@
 var a17136 =
 [
-    [ "boss_slad_ranAI", "dc/dfe/a17136.html#ad85e2fd51d67739026a96bc757bc7801", null ],
-    [ "GetData", "dc/dfe/a17136.html#a58e1188a418acdc1f327e7df90c5c122", null ],
-    [ "JustDied", "dc/dfe/a17136.html#a636ca76497c33a5175986e80bbcda44a", null ],
-    [ "JustEngagedWith", "dc/dfe/a17136.html#ac30b38805d0421b1be509c7d5609c648", null ],
-    [ "JustSummoned", "dc/dfe/a17136.html#a08e8d256c0f15011d1aacef8e22d4253", null ],
-    [ "KilledUnit", "dc/dfe/a17136.html#a4700f8c06e5fa43fc1719c19cfe79b24", null ],
-    [ "Reset", "dc/dfe/a17136.html#a8759163de40d04d53c5e5ed8d8192aa7", null ],
-    [ "SetData", "dc/dfe/a17136.html#a3b91eb7c2aa2aeb356c51e81f449b0a5", null ],
-    [ "UpdateAI", "dc/dfe/a17136.html#a9eeb3281456779edd9570119ba8a2105", null ],
-    [ "_achievement", "dc/dfe/a17136.html#a3ab4f94e13d414fd6c9eb0ba63941ca9", null ]
+    [ "boss_eckAI", "d3/d45/a17140.html", "d3/d45/a17140" ],
+    [ "boss_eck", "dc/dfe/a17136.html#aa445927936d7759a8c3289e2899181e5", null ],
+    [ "GetAI", "dc/dfe/a17136.html#a335755ec7416d3e00a4070e03569293a", null ]
 ];

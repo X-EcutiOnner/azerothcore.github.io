@@ -1,9 +1,9 @@
 var a21604 =
 [
-    [ "npc_minigob_manabonk", "de/d8f/a21604.html#aade5e005b68b25ede4e653629390ceb9", null ],
-    [ "Reset", "de/d8f/a21604.html#a18b3fcf1e2ada8f0178a0efd2e206a8e", null ],
-    [ "SelectTargetInDalaran", "de/d8f/a21604.html#a74a14a6e1839d7b8cc81712d57666ec5", null ],
-    [ "SendMailToPlayer", "de/d8f/a21604.html#a1973b7885c9fce15aab9843722bf112e", null ],
-    [ "UpdateAI", "de/d8f/a21604.html#abca8214a8c13d9d9c5c03f659fef53a9", null ],
-    [ "playerGUID", "de/d8f/a21604.html#ac8dccd333691f717fdbffe22126330d5", null ]
+    [ "npc_counselor_talbotAI", "de/d8f/a21604.html#acf1865ab4225128b8edbc619f7d8fa93", null ],
+    [ "JustDied", "de/d8f/a21604.html#a4dbb0c9b91be5fa182bcc5c63ac9307b", null ],
+    [ "JustEngagedWith", "de/d8f/a21604.html#acacec95c5e74c4b71cf2345bbae2eacb", null ],
+    [ "Reset", "de/d8f/a21604.html#a03bfaedb136c3e107a4df8e4a1646ae2", null ],
+    [ "UpdateAI", "de/d8f/a21604.html#a7b5c739d7c85d5205a04f3c6adf367ef", null ],
+    [ "_events", "de/d8f/a21604.html#a094ce9839bb51b73e6b5826c24cda3b6", null ]
 ];

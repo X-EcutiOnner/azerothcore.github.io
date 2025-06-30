@@ -1,15 +1,11 @@
 var a12652 =
 [
-    [ "boss_tinhead", "d9/df0/a12652.html#aa56375e9b031db15bee833375b7a4405", null ],
-    [ "DoAction", "d9/df0/a12652.html#ab27d93fd2b58e3f1c9e14d5bc6c788ff", null ],
-    [ "EnterEvadeMode", "d9/df0/a12652.html#ae83464d571103a67980b413325988921", null ],
-    [ "JustDied", "d9/df0/a12652.html#a5a641c0e96f271540e4642b5bb4e4c9e", null ],
-    [ "JustEngagedWith", "d9/df0/a12652.html#a74f51f155fdfb9ecc70245380b740d9c", null ],
-    [ "JustReachedHome", "d9/df0/a12652.html#a6c930c6cb2116cf16f3e4002e333f585", null ],
-    [ "KilledUnit", "d9/df0/a12652.html#ac0f281f1e4b985174f4c5c9b7fcf278d", null ],
-    [ "Reset", "d9/df0/a12652.html#ac22d86f58d59c81429e45fba9393fd37", null ],
-    [ "UpdateAI", "d9/df0/a12652.html#aec0d558cf82eb6bbf0d5626126b10233", null ],
-    [ "_rustCount", "d9/df0/a12652.html#a48901503085fd3d4ee5624626a526ce2", null ],
-    [ "_scheduler", "d9/df0/a12652.html#ababc9f32611a9ea35ef41725bce22df5", null ],
-    [ "instance", "d9/df0/a12652.html#a00b2ebbb009c700e38bbffbb035b4bfa", null ]
+    [ "npc_demon_chain", "d9/df0/a12652.html#ac234e729422925bd773bcdbc45f9e1b5", null ],
+    [ "AttackStart", "d9/df0/a12652.html#a745fa194ca5ad30c96e85b3f9daad2ad", null ],
+    [ "IsSummonedBy", "d9/df0/a12652.html#a27007fdff0d685b0a38a0b98820b95fb", null ],
+    [ "JustDied", "d9/df0/a12652.html#a35d1b7de8612f11cdf61b9d663990686", null ],
+    [ "JustEngagedWith", "d9/df0/a12652.html#a9743ebc31c5159a03889bfd40b09d749", null ],
+    [ "MoveInLineOfSight", "d9/df0/a12652.html#a9ffa6ed6faa21c9596f7a0c2ceb1cc05", null ],
+    [ "Reset", "d9/df0/a12652.html#ad531f82511e5156d3b9891dd4095b0d5", null ],
+    [ "sacrificeGUID", "d9/df0/a12652.html#a5572e39fcf3d807ef462f5c16ff703f1", null ]
 ];

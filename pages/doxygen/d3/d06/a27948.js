@@ -1,6 +1,6 @@
 var a27948 =
 [
-    [ "ChannelID", "d3/d06/a27948.html#a51753c36711e100fd8dca1cd5b1e7e94", null ],
-    [ "flags", "d3/d06/a27948.html#aa77db644555e336ccbb8dd138c192425", null ],
-    [ "pattern", "d3/d06/a27948.html#ad8b550cf444d66eede00abcf2cefec22", null ]
+    [ "AreaGroupId", "d3/d06/a27948.html#a2868a59574e635d5f5859cfa01811151", null ],
+    [ "AreaId", "d3/d06/a27948.html#aabde46a6c77db2c7fb92ca211c86727a", null ],
+    [ "nextGroup", "d3/d06/a27948.html#a1f966f2d6848e8aba2ae3c6bd8120503", null ]
 ];

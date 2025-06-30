@@ -1,10 +1,14 @@
 var a14724 =
 [
-    [ "boss_aeonus", "d4/d19/a14724.html#af823ef2187b852dc72d2f63020e1701b", null ],
-    [ "IsSummonedBy", "d4/d19/a14724.html#a5f95e19dfec210d4da1f1f48145ff047", null ],
-    [ "JustDied", "d4/d19/a14724.html#a649275c31e61f542a13fd791ee85277b", null ],
-    [ "JustEngagedWith", "d4/d19/a14724.html#a5f193144e36a889630d5dbadb4aa665f", null ],
-    [ "JustReachedHome", "d4/d19/a14724.html#a62df4db3ead6f9be5c3ead974613c8d5", null ],
-    [ "KilledUnit", "d4/d19/a14724.html#a4aa2f3d82aaaf5cd3a938ad92aad059d", null ],
-    [ "MoveInLineOfSight", "d4/d19/a14724.html#a3147774fa5bff34d01947fdcf254ba7b", null ]
+    [ "npc_cos_stratholme_citizienAI", "d4/d19/a14724.html#a591aaf16ef5befada12378acfbef9465", null ],
+    [ "DoAction", "d4/d19/a14724.html#af9d6fa1dfa83a75194797e99ee80ae0e", null ],
+    [ "InfectMe", "d4/d19/a14724.html#a9517132eeaf1a0ffd5cb8b5879ed5d5b", null ],
+    [ "MoveInLineOfSight", "d4/d19/a14724.html#ab7a8f6423e12ca0ea9bcb085594013a2", null ],
+    [ "Reset", "d4/d19/a14724.html#a0dbb5f295aa9061fa3457c9590ea9b10", null ],
+    [ "SpellHit", "d4/d19/a14724.html#aa8b9a05d3c7d89aa054af919672a69ec", null ],
+    [ "UpdateAI", "d4/d19/a14724.html#a81a1382493091a99cae1c2bb580a7f32", null ],
+    [ "allowTimer", "d4/d19/a14724.html#ae92384763b3cfe4a4bc4180d1c404456", null ],
+    [ "changeTimer", "d4/d19/a14724.html#aa757ab2eef813dceaaad65d84681099b", null ],
+    [ "locked", "d4/d19/a14724.html#aa644050a5fc0b3cd04573e8b3def87ee", null ],
+    [ "pInstance", "d4/d19/a14724.html#aadae06c487a7755114f856a835d48c7e", null ]
 ];

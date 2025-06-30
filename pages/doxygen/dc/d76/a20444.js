@@ -1,7 +1,6 @@
 var a20444 =
 [
-    [ "npc_ulduar_expedition_commanderAI", "dc/d76/a20444.html#a100678bddd6a0e859c72035d4642d8e2", null ],
-    [ "MoveInLineOfSight", "dc/d76/a20444.html#a870bdc842d8d7078302a36a20ef661e4", null ],
-    [ "_instance", "dc/d76/a20444.html#a64d925b08f3f0ae59f5053121dbc495c", null ],
-    [ "_introSpoken", "dc/d76/a20444.html#ac6784a66111406f917ae4d07dbeb60a4", null ]
+    [ "npc_ulduar_flames_spreadAI", "d8/dc8/a20448.html", "d8/dc8/a20448" ],
+    [ "npc_ulduar_flames_spread", "dc/d76/a20444.html#aca9713b28d6d0c7b13b85a00c8a53ab0", null ],
+    [ "GetAI", "dc/d76/a20444.html#af492a5bc9304a05f8475a39458c6abdb", null ]
 ];

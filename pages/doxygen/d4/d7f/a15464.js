@@ -1,6 +1,7 @@
 var a15464 =
 [
-    [ "npc_anachronos_quest_triggerAI", "d9/d42/a15468.html", "d9/d42/a15468" ],
-    [ "npc_anachronos_quest_trigger", "d4/d7f/a15464.html#ad39871952acd3152b51820fe360f4ebd", null ],
-    [ "GetAI", "d4/d7f/a15464.html#a2e0e6a69ed1cbed76db9c4bd64d51330", null ]
+    [ "npc_giant_spotlightAI", "d4/d7f/a15464.html#ae0f6686aaeacafce193e0d4590cf8c09", null ],
+    [ "Reset", "d4/d7f/a15464.html#a79f6703107eed52a3aeae30393507c0f", null ],
+    [ "UpdateAI", "d4/d7f/a15464.html#a8567f936dd15933300497d5abe80a272", null ],
+    [ "events", "d4/d7f/a15464.html#a20d1087e59daae9189d78f04ea2b2d05", null ]
 ];

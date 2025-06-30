@@ -1,6 +1,12 @@
 var a10772 =
 [
-    [ "UITime", "d7/d0e/a10772.html#a24311ce7df9e9a0f40a3c5473cef34b3", null ],
-    [ "Write", "d7/d0e/a10772.html#ab24cdd76abd5914c3a30ee42c7681855", null ],
-    [ "Time", "d7/d0e/a10772.html#ac4ad6c7c425167e90fd2497f7ebaec4c", null ]
+    [ "StartMirrorTimer", "d7/d0e/a10772.html#a86039d4a721636477f266712682883f0", null ],
+    [ "StartMirrorTimer", "d7/d0e/a10772.html#a5202945882fb3cb5dd8574b6e6f8d5b0", null ],
+    [ "Write", "d7/d0e/a10772.html#afa6cc6032804e3d8f3f7797b2231847f", null ],
+    [ "MaxValue", "d7/d0e/a10772.html#a3f26c682d547be40d2800eff2189348d", null ],
+    [ "Paused", "d7/d0e/a10772.html#af3994b2c6a57e734f9d1ebeedcab7759", null ],
+    [ "Scale", "d7/d0e/a10772.html#a5879b6c796d7d7c2fd59001d2813a6b3", null ],
+    [ "SpellID", "d7/d0e/a10772.html#a3d90aa3046eb6272249f8fe171d7cd2f", null ],
+    [ "Timer", "d7/d0e/a10772.html#abb9dbec2c5df4b2dfbc96314a0465011", null ],
+    [ "Value", "d7/d0e/a10772.html#ad0f2f8f95fdea9a7555e3056bb49cc53", null ]
 ];

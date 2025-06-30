@@ -1,7 +1,7 @@
 var a15348 =
 [
-    [ "HandleEffectPeriodic", "d1/dac/a15348.html#ac47c157dbd193bc131d281666ae2097f", null ],
-    [ "PrepareAuraScript", "d1/dac/a15348.html#ac650ece6e2d9e9e7ff9b863d77f84975", null ],
-    [ "Register", "d1/dac/a15348.html#ac3c158fdddd007d1d7986470032bfc25", null ],
-    [ "Validate", "d1/dac/a15348.html#a26b117dc8a3b104dec9de27597fbe55d", null ]
+    [ "npc_tharnarianAI", "d0/d8f/a15352.html", "d0/d8f/a15352" ],
+    [ "npc_tharnarian", "d1/dac/a15348.html#a39d9d9842a7a42c5381e38d10285aa15", null ],
+    [ "GetAI", "d1/dac/a15348.html#aaff8dad5d2bdb1571ed2e7a14c64899f", null ],
+    [ "OnQuestReward", "d1/dac/a15348.html#aedf88edfd99292a68b8e08f9f05d8f00", null ]
 ];

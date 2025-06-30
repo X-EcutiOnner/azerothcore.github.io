@@ -1,17 +1,9 @@
 var a22340 =
 [
-    [ "npc_overlord_drakuru_betrayalAI", "d7/d4e/a22340.html#a52cda9357a3672871d2c52312cec7304", null ],
-    [ "DamageTaken", "d7/d4e/a22340.html#a031c475bc9e3660f8efb01face303816", null ],
-    [ "EnterEvadeMode", "d7/d4e/a22340.html#a3ab85c07b6cc186d37cef571bb9539c0", null ],
-    [ "JustEngagedWith", "d7/d4e/a22340.html#a3e758268744c8f52410ebfa05f9d6635", null ],
-    [ "JustSummoned", "d7/d4e/a22340.html#a34b76f7a4df8f28a8e80ffc406d60d98", null ],
-    [ "MoveInLineOfSight", "d7/d4e/a22340.html#acf4ad45c1145c7b0cd6f05c847546005", null ],
-    [ "Reset", "d7/d4e/a22340.html#ad154b8027917a1402840ced87aacac7d", null ],
-    [ "SpellHit", "d7/d4e/a22340.html#a836f0886846ac3081a05800fffb0aa0b", null ],
-    [ "SpellHitTarget", "d7/d4e/a22340.html#a58eb77bbfec0279908c3ed9a111c6cce", null ],
-    [ "UpdateAI", "d7/d4e/a22340.html#aafcdcb353cdc6f19bebec63a31a0da6d", null ],
-    [ "events", "d7/d4e/a22340.html#a305f08c7ee071bfe10a4be81715b60f2", null ],
-    [ "lichGUID", "d7/d4e/a22340.html#a4cd410df9735a381800ec186572f2f74", null ],
-    [ "playerGUID", "d7/d4e/a22340.html#a396917f16afc3bd03ade6c6822bd379e", null ],
-    [ "summons", "d7/d4e/a22340.html#a8c2b70321771af8b668e5f76974f854b", null ]
+    [ "HandleFinish", "d7/d4e/a22340.html#a4511ae5227c3e4e931b04f2ba0d4a62e", null ],
+    [ "Load", "d7/d4e/a22340.html#a6b6f6b4ab8f345199d8d2189f07df7f2", null ],
+    [ "PrepareSpellScript", "d7/d4e/a22340.html#a8326b3f9f78aab65225e81d274cc37df", null ],
+    [ "Register", "d7/d4e/a22340.html#a749858f56e15a0bb6074d15ba166625d", null ],
+    [ "Validate", "d7/d4e/a22340.html#a64005c52e7112c466f6206b7f6c847c0", null ],
+    [ "handled", "d7/d4e/a22340.html#a7afe3007a016cb553f437544f8fd6f89", null ]
 ];

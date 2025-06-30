@@ -1,7 +1,8 @@
 var a17376 =
 [
-    [ "FilterTargets", "db/d58/a17376.html#aeae290d20ade37eb839c1bf3c9ae59bf", null ],
-    [ "Load", "db/d58/a17376.html#a38bf6d96c6a78e5105d0369eb993e58c", null ],
-    [ "PrepareSpellScript", "db/d58/a17376.html#a815c99e9ef570287af5d45c32bdc5b8c", null ],
-    [ "Register", "db/d58/a17376.html#a33342cc676adaabe5e3896fa559631b7", null ]
+    [ "npc_high_overlord_saurfangAI", "d8/d8c/a17380.html", "d8/d8c/a17380" ],
+    [ "npc_high_overlord_saurfang_icc", "db/d58/a17376.html#ac02fe80550572e142406c2d80c0392df", null ],
+    [ "GetAI", "db/d58/a17376.html#a21c04ab5b8d747c28c7355cc483ac6e3", null ],
+    [ "OnGossipHello", "db/d58/a17376.html#a515a87f751527412222cfdd968febe7c", null ],
+    [ "OnGossipSelect", "db/d58/a17376.html#a39c33a3b2e7037ca6f0f40ba65cb55db", null ]
 ];

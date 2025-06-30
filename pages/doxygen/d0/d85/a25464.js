@@ -1,7 +1,8 @@
 var a25464 =
 [
-    [ "HandleScriptEffect", "d0/d85/a25464.html#a3ad488a1b6115bb1ec8cfe6717d3b4cf", null ],
-    [ "Load", "d0/d85/a25464.html#af89783564da25769be15e22291717f6a", null ],
-    [ "PrepareSpellScript", "d0/d85/a25464.html#a1e7e4137712fcaa378d1ac7ff1b0a6c7", null ],
-    [ "Register", "d0/d85/a25464.html#addbe722d9f3727578f817789e3010bab", null ]
+    [ "OnApply", "d0/d85/a25464.html#a75b45732648d5ba90b49725a48609a89", null ],
+    [ "OnBaseRemove", "d0/d85/a25464.html#aa6d10399bba721ff7a3651508fcdf449", null ],
+    [ "OnRemove", "d0/d85/a25464.html#a0331b3860691db793c5a7bcf53550c6f", null ],
+    [ "PrepareAuraScript", "d0/d85/a25464.html#a34ad4890c7ce30427537e36980057e57", null ],
+    [ "Register", "d0/d85/a25464.html#a713e694cad6f1cf533d45f5d633da36e", null ]
 ];

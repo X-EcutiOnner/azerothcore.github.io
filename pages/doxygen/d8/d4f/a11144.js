@@ -1,15 +1,8 @@
 var a11144 =
 [
-    [ "AttributesMask", "d8/d4f/a11144.html#a7cc9dfa91e034f5052ebd3bf8eaea42a", null ],
-    [ "Chance", "d8/d4f/a11144.html#aea5ca609c75ea7b314aec8ae0246297e", null ],
-    [ "Charges", "d8/d4f/a11144.html#a75f0484dad60eec59b399a188fd9908f", null ],
-    [ "Cooldown", "d8/d4f/a11144.html#a4e6185aea35599a3efc2e806145cb1d2", null ],
-    [ "HitMask", "d8/d4f/a11144.html#a8ac3331576b4eb761157fa3d0d622bea", null ],
-    [ "ProcFlags", "d8/d4f/a11144.html#a9e5de790c4f61537397a1ce2bce8a9b0", null ],
-    [ "ProcsPerMinute", "d8/d4f/a11144.html#a3815765c08f6b95cae6efb93fa98623b", null ],
-    [ "SchoolMask", "d8/d4f/a11144.html#acf72c4a783235770bbff952bdc002324", null ],
-    [ "SpellFamilyMask", "d8/d4f/a11144.html#a8688e9282cb78d4f24b310cc2521c22b", null ],
-    [ "SpellFamilyName", "d8/d4f/a11144.html#a2cb738b0d4579503fcb9bca7988f7e36", null ],
-    [ "SpellPhaseMask", "d8/d4f/a11144.html#ab4c4bfa1493a7a5924d3cd094127f973", null ],
-    [ "SpellTypeMask", "d8/d4f/a11144.html#a99e20d3979a532e1ca90ee83edcff3eb", null ]
+    [ "DirectionType", "d8/d4f/a11144.html#a8491033c0286895c2d4d3280cfd529f0", null ],
+    [ "ObjectType", "d8/d4f/a11144.html#a20c29be1005aa52993d4ec0a13c36f4d", null ],
+    [ "ReferenceType", "d8/d4f/a11144.html#a44e310a789c4c5a288f07c9254ad389a", null ],
+    [ "SelectionCategory", "d8/d4f/a11144.html#a4a42ef329b6cfcfcd7fd4ce59e8f597c", null ],
+    [ "SelectionCheckType", "d8/d4f/a11144.html#a35c8d221b47de13408a0256598fa9d63", null ]
 ];

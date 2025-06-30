@@ -1,13 +1,9 @@
 var a11064 =
 [
-    [ "alive", "d5/d6f/a11064.html#aebeb2f67bf8646770570e5564fb01d4d", null ],
-    [ "crit", "d5/d6f/a11064.html#a908278bd46f9be3e1191f4883f9eb32f", null ],
-    [ "damage", "d5/d6f/a11064.html#a5bdf23f41a4a748f96dd9fffa8e8a838", null ],
-    [ "effectMask", "d5/d6f/a11064.html#afb839b2b409a61e4d63de03dbce2abcb", null ],
-    [ "missCondition", "d5/d6f/a11064.html#a6c17740427f4f90c7c2e4fb4854ab4b3", null ],
-    [ "processed", "d5/d6f/a11064.html#a2de96d62297ff614fc3702bec035ce5b", null ],
-    [ "reflectResult", "d5/d6f/a11064.html#add2beb55eb3313e474d947fd3eb1fc65", null ],
-    [ "scaleAura", "d5/d6f/a11064.html#a89bba366b26686d41288e9b2e725eb75", null ],
-    [ "targetGUID", "d5/d6f/a11064.html#acf55c1dd6f00c94296c592d988f959cf", null ],
-    [ "timeDelay", "d5/d6f/a11064.html#abcf1acd0c3d50c2264253dc9c052795a", null ]
+    [ "SpellEvent", "d5/d6f/a11064.html#abca64eb7d39df9788cef9df7e8634368", null ],
+    [ "~SpellEvent", "d5/d6f/a11064.html#a01f8ea354ef70d0a2ee7b88b8dd9f68e", null ],
+    [ "Abort", "d5/d6f/a11064.html#ac21656467ae71def45fd78b9d1fa1c30", null ],
+    [ "Execute", "d5/d6f/a11064.html#ac8158bfbe916ff6207b2f6608308ae24", null ],
+    [ "IsDeletable", "d5/d6f/a11064.html#a2ecd9b31bacc717cc509eb9bb69c3cb3", null ],
+    [ "m_Spell", "d5/d6f/a11064.html#a22cce1d722f5086932ae3e97c58d2921", null ]
 ];

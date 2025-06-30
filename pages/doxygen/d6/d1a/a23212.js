@@ -1,6 +1,6 @@
 var a23212 =
 [
-    [ "go_ahune_ice_stone", "d6/d1a/a23212.html#ab7b665f01da80751ea97705c5113bde7", null ],
-    [ "GossipSelect", "d6/d1a/a23212.html#aadb4db41ed84922c0a2d0463b8616876", null ],
-    [ "_instance", "d6/d1a/a23212.html#a43651f471ac777b59fb8ba67b830cd35", null ]
+    [ "HandleEffectRemove", "d6/d1a/a23212.html#a4000209ccbcbc62a51db3e7b672ea69d", null ],
+    [ "PrepareAuraScript", "d6/d1a/a23212.html#adc6f982b0e3cc56039746f425cb09113", null ],
+    [ "Register", "d6/d1a/a23212.html#a5ceecc2f9a9664755b5e492fda54a560", null ]
 ];

@@ -1,6 +1,10 @@
 var a20016 =
 [
-    [ "boss_vezaxAI", "de/d1e/a20020.html", "de/d1e/a20020" ],
-    [ "boss_vezax", "d2/db4/a20016.html#af778f9ef3070598f8ca5109b2f6f0f82", null ],
-    [ "GetAI", "d2/db4/a20016.html#a55c7f1ee93252768ba02e8d0d4634eb9", null ]
+    [ "boss_freya_elder_ironbranchAI", "d2/db4/a20016.html#a4a7350a2bf7c813b1b18fe32566e4d56", null ],
+    [ "JustDied", "d2/db4/a20016.html#aab878773508fcbb437661d316266b942", null ],
+    [ "JustEngagedWith", "d2/db4/a20016.html#ab7b5df914ee5b22c25098c188306d123", null ],
+    [ "KilledUnit", "d2/db4/a20016.html#a7dc8d3b497c2297b35f6aec70cc5447b", null ],
+    [ "Reset", "d2/db4/a20016.html#afd87a8fc3ca55d1a91f4cc08b34095c8", null ],
+    [ "UpdateAI", "d2/db4/a20016.html#a711cd2788bff7fbc648c039921297eac", null ],
+    [ "events", "d2/db4/a20016.html#a88193ba77c8a0269a5b8bdc4f3dc96d2", null ]
 ];

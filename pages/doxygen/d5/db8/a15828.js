@@ -1,15 +1,14 @@
 var a15828 =
 [
-    [ "boss_krik_thirAI", "d5/db8/a15828.html#a92a2b2089c890901cd438c8d8ea432c7", null ],
-    [ "GetData", "d5/db8/a15828.html#adcca5f21a596ffae3c50f102c4698c4e", null ],
-    [ "JustDied", "d5/db8/a15828.html#ab4a576f9746f7ade8f6b8f8c08795433", null ],
-    [ "JustEngagedWith", "d5/db8/a15828.html#aa99c241641fc7e94412d08bebed07475", null ],
-    [ "JustSummoned", "d5/db8/a15828.html#afff556f4bc00b87b3d2a37ffbf54c919", null ],
-    [ "KilledUnit", "d5/db8/a15828.html#aad554ec61a0c6ad9cedf6d7d1b33ed1d", null ],
-    [ "MoveInLineOfSight", "d5/db8/a15828.html#a6c72cebac0e09f66bf0a60cdc328aa4d", null ],
-    [ "Reset", "d5/db8/a15828.html#a613441fcb7bd851a03729be84d27650c", null ],
-    [ "SummonedCreatureDies", "d5/db8/a15828.html#acb7b45fbe3a736ad65b0a2556ead40ae", null ],
-    [ "UpdateAI", "d5/db8/a15828.html#ae37227df78ad9ffb9722caa0c16ffa5f", null ],
-    [ "_initTalk", "d5/db8/a15828.html#a68a4994c750979b91e46160b0cba77b4", null ],
-    [ "events2", "d5/db8/a15828.html#a8f706239d33861105a37476eecb977ec", null ]
+    [ "boss_anub_arakAI", "d5/db8/a15828.html#a9b9dc11d78456efd9c6ad69e0c12e022", null ],
+    [ "EnterEvadeMode", "d5/db8/a15828.html#a016f17a11be149cbb6cc1343f2916a4f", null ],
+    [ "JustDied", "d5/db8/a15828.html#abc93931e7698ffd717199a598e16c917", null ],
+    [ "JustEngagedWith", "d5/db8/a15828.html#a589c252516b738a8f38f9d89da11912c", null ],
+    [ "JustSummoned", "d5/db8/a15828.html#a8624e9dc8af370579bd7ef72063acbf8", null ],
+    [ "KilledUnit", "d5/db8/a15828.html#a33e26ae3907e84ecc02514e4133e3002", null ],
+    [ "MoveInLineOfSight", "d5/db8/a15828.html#ab89570d2d0ddb494fa20f24d95cac41b", null ],
+    [ "Reset", "d5/db8/a15828.html#a254a51a901c0e82da6cb87ade5eba6fa", null ],
+    [ "SummonHelpers", "d5/db8/a15828.html#a709ef4602ace41c9b9ccebe8795badec", null ],
+    [ "UpdateAI", "d5/db8/a15828.html#acf3ddec273ded62c768631be2b3299fa", null ],
+    [ "intro", "d5/db8/a15828.html#a4916d6a1ed06330e94698a13c404ee52", null ]
 ];

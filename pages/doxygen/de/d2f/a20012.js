@@ -1,6 +1,6 @@
 var a20012 =
 [
-    [ "achievement_freya_knock_on_wood", "de/d2f/a20012.html#ae28517e151cc9ec2b25ff57513f32d29", null ],
-    [ "OnCheck", "de/d2f/a20012.html#a07e5edf9d53d200506ab1b0d0b2eaa9e", null ],
-    [ "_elderCount", "de/d2f/a20012.html#a5a3cc4dedbc2cc6be825579cbb0a09b5", null ]
+    [ "boss_freya_elder_ironbranchAI", "d2/db4/a20016.html", "d2/db4/a20016" ],
+    [ "boss_freya_elder_ironbranch", "de/d2f/a20012.html#a066083e4d6fde6439f7dce80be209075", null ],
+    [ "GetAI", "de/d2f/a20012.html#a67f483d12fe801c1d840dd0f74396564", null ]
 ];

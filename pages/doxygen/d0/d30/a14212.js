@@ -1,5 +1,6 @@
 var a14212 =
 [
-    [ "npc_cw_area_triggerAI", "d0/d30/a14212.html#aede21e01dfe762922562b6f5d57bc406", null ],
-    [ "MoveInLineOfSight", "d0/d30/a14212.html#a1fb90760dac1ae429429d84ed033aa7a", null ]
+    [ "PeriodicTick", "d0/d30/a14212.html#a0832c36a9497674374b2998398bfc3a4", null ],
+    [ "PrepareAuraScript", "d0/d30/a14212.html#a89acb64235da1ff59da90a509fbeec9d", null ],
+    [ "Register", "d0/d30/a14212.html#aab689a2cb84dcd064736171035640584", null ]
 ];

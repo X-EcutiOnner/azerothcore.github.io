@@ -1,6 +1,7 @@
 var a21224 =
 [
-    [ "npc_erekem_guardAI", "dd/da6/a21228.html", "dd/da6/a21228" ],
-    [ "npc_erekem_guard", "d4/d0c/a21224.html#a78592996e90f77f81eec0325a7f11956", null ],
-    [ "GetAI", "d4/d0c/a21224.html#a844a6a29eda4f41547ea37a4c08fb723", null ]
+    [ "PrepareAuraScript", "d4/d0c/a21224.html#adedc1cb8b42e9cd3c2e68415bca59c6b", null ],
+    [ "Register", "d4/d0c/a21224.html#a7225d1f83921e4de06516c1db5a5038a", null ],
+    [ "TriggerFists", "d4/d0c/a21224.html#af5d91d679f6bed5afc675b8a5fd90210", null ],
+    [ "Validate", "d4/d0c/a21224.html#a977897c569245148eb94892bb42d4ca5", null ]
 ];

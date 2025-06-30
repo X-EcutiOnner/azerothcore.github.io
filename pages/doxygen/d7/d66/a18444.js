@@ -1,8 +1,6 @@
 var a18444 =
 [
-    [ "Load", "d7/d66/a18444.html#a3a5fa4814a7724db0ba7be5c5158798b", null ],
-    [ "PeriodicTick", "d7/d66/a18444.html#a4ff0ab22db0bbd4483ddb379de069c48", null ],
-    [ "PrepareAuraScript", "d7/d66/a18444.html#a029820fbfc34af4d0ccb825a9f9d2b0d", null ],
-    [ "Register", "d7/d66/a18444.html#a909819dde9d5154f3d2cf04b04fa33f7", null ],
-    [ "_instance", "d7/d66/a18444.html#aebebb858f2ae41f2260d6843b3da8052", null ]
+    [ "npc_valithria_cloudAI", "d5/d57/a18448.html", "d5/d57/a18448" ],
+    [ "npc_valithria_cloud", "d7/d66/a18444.html#a11d1bdc4c6e8210e2d0706f33d369dde", null ],
+    [ "GetAI", "d7/d66/a18444.html#afeff905cec1245dbac6fa59673aef015", null ]
 ];

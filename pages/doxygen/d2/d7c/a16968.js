@@ -1,11 +1,7 @@
 var a16968 =
 [
-    [ "npc_pos_tyrannus_eventsAI", "d2/d7c/a16968.html#a51769d22a4cb448fae90d827e2494581", null ],
-    [ "MovementInform", "d2/d7c/a16968.html#ac0d1550855988fe6f562e8a0a6ada80f", null ],
-    [ "SetData", "d2/d7c/a16968.html#a8f8bbb06c50215c90cf11ddbc925ba5d", null ],
-    [ "UpdateAI", "d2/d7c/a16968.html#a6c4d82c46547bbb2f86dd7f9fa88c743", null ],
-    [ "deathbringerGUID", "d2/d7c/a16968.html#a21ea8c66374403d0eca83e4d24c80a7a", null ],
-    [ "events", "d2/d7c/a16968.html#a317d48c75a93ef5abaa3329ab10a1c8e", null ],
-    [ "killsLeft", "d2/d7c/a16968.html#ac81d85e0ceb0b571373f44475baa36df", null ],
-    [ "pInstance", "d2/d7c/a16968.html#a44460335986bcedf35dc295c242df6da", null ]
+    [ "HandlePeriodicTick", "d2/d7c/a16968.html#a61417176afec531ca2bf6e80eb72ac6a", null ],
+    [ "PrepareAuraScript", "d2/d7c/a16968.html#ad5f954d5050bded2e6a5877cb9f81df5", null ],
+    [ "Register", "d2/d7c/a16968.html#a4653ccb0d93d056adf3b14056865787c", null ],
+    [ "Validate", "d2/d7c/a16968.html#a675b447cf1cf0e7d92c777ae31888a8c", null ]
 ];

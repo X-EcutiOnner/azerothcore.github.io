@@ -1,6 +1,7 @@
 var a23736 =
 [
-    [ "npc_capernian", "dc/da1/a23736.html#a0acb568664c777797eeb7104f454699d", null ],
-    [ "AttackStart", "dc/da1/a23736.html#a81e89eacbae30a1229fda5e9fe924e2b", null ],
-    [ "ScheduleEvents", "dc/da1/a23736.html#a6bd26f5584a1c960b84b574abd723ad1", null ]
+    [ "CastQuill", "dc/da1/a23736.html#a923234809186bcbdf02457f4be095519", null ],
+    [ "Execute", "dc/da1/a23736.html#a26a971a575e4b9503cd1da73d43ebd1e", null ],
+    [ "_caster", "dc/da1/a23736.html#af809b9279aff141ce4007c8d1fbcc331", null ],
+    [ "_spellId", "dc/da1/a23736.html#ad6f7d8eaf69873b0ba57be4189c145cf", null ]
 ];

@@ -1,5 +1,7 @@
 var a10624 =
 [
-    [ "GuildLeave", "dc/d7c/a10624.html#a6a09ab5c50b7185a91e76f428e28f402", null ],
-    [ "Read", "dc/d7c/a10624.html#a0ea07ca846a92b5357276b5868d98e5f", null ]
+    [ "GuildSetMemberNote", "dc/d7c/a10624.html#a4747c3d015cb1b0d0056928fd75e4d18", null ],
+    [ "Read", "dc/d7c/a10624.html#a3d90b6ce26d55a55bac1d953dd39b049", null ],
+    [ "Note", "dc/d7c/a10624.html#a33b7b73bd5d26c2a0ac99d6dc0131c41", null ],
+    [ "NoteeName", "dc/d7c/a10624.html#acf6beb0a5b122a04162e9d2c027203af", null ]
 ];

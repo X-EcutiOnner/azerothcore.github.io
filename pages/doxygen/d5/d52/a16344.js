@@ -1,8 +1,7 @@
 var a16344 =
 [
-    [ "npc_toc_hunterAI", "d5/d52/a16344.html#a80f80231bfe5b71bf415da3202c2e6fb", null ],
-    [ "JustSummoned", "d5/d52/a16344.html#aa270248ad9e0c319234ff0741270b465", null ],
-    [ "myCanCast", "d5/d52/a16344.html#a4e599ae2ee4e892795889bd57dd29e27", null ],
-    [ "UpdateAI", "d5/d52/a16344.html#a81f384607ab7e8c4ed7385bdcddfd7a5", null ],
-    [ "events", "d5/d52/a16344.html#a0cf5ecd9d7b3c92e2da836983323f378", null ]
+    [ "npc_toc_shamanAI", "d5/d52/a16344.html#abd0b0e503c1bbc48aebb5923ec3f4291", null ],
+    [ "myCanCast", "d5/d52/a16344.html#a993739662d2687c27219853669b8a485", null ],
+    [ "UpdateAI", "d5/d52/a16344.html#a2ad17245685feb3f085ef9a669459c61", null ],
+    [ "events", "d5/d52/a16344.html#ab573ab0ee616348ccdb28b71255ac35d", null ]
 ];

@@ -1,8 +1,8 @@
 var a24356 =
 [
-    [ "npc_pet_darting_hatchling", "d6/d89/a24356.html#a7ae5973061068396bf382dc21e88cd44", null ],
-    [ "SpellHit", "d6/d89/a24356.html#a29ea5438bab7e606175c02165a607f9b", null ],
-    [ "UpdateAI", "d6/d89/a24356.html#a23196d05aebe5fa4a65455c55368820a", null ],
-    [ "checkTimer", "d6/d89/a24356.html#a3539276158abb5fd183ed1aa03a8ead8", null ],
-    [ "goFast", "d6/d89/a24356.html#aaf80b40200f2b8eb2861c69b1dbd2dde", null ]
+    [ "npc_pet_gen_wind_rider_cub", "d6/d89/a24356.html#a17e1f3155b9a9864459e48d1cd11c6a6", null ],
+    [ "UpdateAI", "d6/d89/a24356.html#a534d122522d553e106e6c7729d6c55db", null ],
+    [ "checkTimer", "d6/d89/a24356.html#a39fcfc5f5d9a630180713512db778b32", null ],
+    [ "checkTimer2", "d6/d89/a24356.html#aabeaf7a9b5b77df540e1111950860e98", null ],
+    [ "isFlying", "d6/d89/a24356.html#a57124f8172bd15a5e6c708edff41dc2f", null ]
 ];

@@ -1,7 +1,8 @@
 var a16744 =
 [
-    [ "OnRemove", "d6/dc4/a16744.html#a4b95717cb19116b81f3eec798089abad", null ],
-    [ "PrepareAuraScript", "d6/dc4/a16744.html#a581645fa151531aaf7b562a8739d5616", null ],
-    [ "Register", "d6/dc4/a16744.html#a01304c556d79001e290707551bee7622", null ],
-    [ "Validate", "d6/dc4/a16744.html#a96e4b9cae1f016bf87c9a09ceb6da561", null ]
+    [ "npc_fos_leaderAI", "d9/dd2/a16748.html", "d9/dd2/a16748" ],
+    [ "npc_fos_leader", "d6/dc4/a16744.html#a4223072bc180e990ff9e01bf772def5b", null ],
+    [ "GetAI", "d6/dc4/a16744.html#a6eca5c95aa3a8498790d8bf52f0741f8", null ],
+    [ "OnGossipHello", "d6/dc4/a16744.html#a3858054505d439902624378b9355f40d", null ],
+    [ "OnGossipSelect", "d6/dc4/a16744.html#a1b743c6f270a2bdbd09940a414a1b437", null ]
 ];

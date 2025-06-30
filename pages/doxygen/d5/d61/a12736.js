@@ -1,14 +1,6 @@
 var a12736 =
 [
-    [ "boss_priestess_delrissa", "d5/d61/a12736.html#afcbf1aa400ec44b709fd194daab91d3d", null ],
-    [ "CheckInRoom", "d5/d61/a12736.html#afa963761e44412915a6d89f097f33b5d", null ],
-    [ "InitializeAI", "d5/d61/a12736.html#ae5105868d704b6ca91b27dcfbeaef3a9", null ],
-    [ "JustDied", "d5/d61/a12736.html#a82d8c198f38c2aa881386e739dea6a08", null ],
-    [ "JustEngagedWith", "d5/d61/a12736.html#a40c9852f9a1ea24b61edf0f7c00193a6", null ],
-    [ "JustSummoned", "d5/d61/a12736.html#ac0a2c4346c6222380d7bda9a274f78e0", null ],
-    [ "KilledUnit", "d5/d61/a12736.html#af0b41306f53c42745cce39069f446704", null ],
-    [ "Reset", "d5/d61/a12736.html#a60e39157aa3043284b2e1e032c0d9241", null ],
-    [ "SummonedCreatureDies", "d5/d61/a12736.html#a14757692ab4af5c1b5b311f059be9091", null ],
-    [ "HelpersKilled", "d5/d61/a12736.html#a26764cdd42721c9276ccecaa97fc9a6e", null ],
-    [ "PlayersKilled", "d5/d61/a12736.html#a9bde16a69ed9e950ce0dfb91805280cc", null ]
+    [ "npc_image_of_medivhAI", "d2/dac/a12740.html", "d2/dac/a12740" ],
+    [ "npc_image_of_medivh", "d5/d61/a12736.html#a55ee6f97bc7f144209927a2813cab6a9", null ],
+    [ "GetAI", "d5/d61/a12736.html#a11769c47fda3f1c4d8d80329f70d1957", null ]
 ];

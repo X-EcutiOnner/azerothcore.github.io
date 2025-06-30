@@ -1,4 +1,4 @@
 var a01883 =
 [
-    [ "ScriptRegistry< OutdoorPvPScript >", "db/d4b/a01883.html#a87dac516981f5c502b37a0500f6f7882", null ]
+    [ "ScriptRegistry< BattlegroundMapScript >", "db/d4b/a01883.html#a79e6d39d74f9bbf97afe75113cd4db80", null ]
 ];

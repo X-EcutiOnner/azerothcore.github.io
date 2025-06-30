@@ -1,4 +1,5 @@
 var a22524 =
 [
-    [ "instance_auchenai_crypts_InstanceMapScript", "d7/d21/a22524.html#af67e3aa61d9fe3ed3876b1bd2df9ff3c", null ]
+    [ "OutdoorPvP_zangarmarsh", "d7/d21/a22524.html#ae287d5df21bf75efab6c651f4f3d875e", null ],
+    [ "GetOutdoorPvP", "d7/d21/a22524.html#a145ddfe383663ed3fb46960e39691f8f", null ]
 ];

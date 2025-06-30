@@ -1,6 +1,5 @@
 var a18056 =
 [
-    [ "PeriodicTick", "dc/d3e/a18056.html#af47c7ea07ee3dbe824b1c294024d0c29", null ],
-    [ "PrepareAuraScript", "dc/d3e/a18056.html#aa2649c760e362cc7aa22cd770b15f7df", null ],
-    [ "Register", "dc/d3e/a18056.html#ad4290158ee9af93df11d1a46a5bd26a2", null ]
+    [ "achievement_all_you_can_eat", "dc/d3e/a18056.html#a0995024862a445ea1f0ff5c82475fc64", null ],
+    [ "OnCheck", "dc/d3e/a18056.html#a0baa07a7cbd239e4a5fcfd3e687aedf6", null ]
 ];

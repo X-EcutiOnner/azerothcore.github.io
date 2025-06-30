@@ -1,6 +1,6 @@
 var a14168 =
 [
-    [ "PeriodicTick", "df/d04/a14168.html#a0832c36a9497674374b2998398bfc3a4", null ],
-    [ "PrepareAuraScript", "df/d04/a14168.html#a89acb64235da1ff59da90a509fbeec9d", null ],
-    [ "Register", "df/d04/a14168.html#aab689a2cb84dcd064736171035640584", null ]
+    [ "CheckItem", "df/d04/a14168.html#a71f8c9bad4a102914a1047ef61d20f92", null ],
+    [ "PrepareSpellScript", "df/d04/a14168.html#a0fa160f1218cf838444f894716cb8aed", null ],
+    [ "Register", "df/d04/a14168.html#a2a6816d9ab97abddfa20cd6413a94178", null ]
 ];

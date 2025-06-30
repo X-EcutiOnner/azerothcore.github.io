@@ -1,12 +1,10 @@
 var a12516 =
 [
-    [ "BoardCell", "df/d4f/a12516.html#a1ecd0d14c1b4896f70caaee83e1c864d", null ],
-    [ "Reset", "df/d4f/a12516.html#a22a71e9bd4a4dd9601aa0fffe978009c", null ],
-    [ "SetData", "df/d4f/a12516.html#a0e57e888290cbe15b5dafa9788c3f86b", null ],
-    [ "SetPiece", "df/d4f/a12516.html#ac919854a2e9d5fc2d1b68960e16cf79d", null ],
-    [ "col", "df/d4f/a12516.html#a49707efa5b356ad0dc6f6ff16a652430", null ],
-    [ "pieceEntry", "df/d4f/a12516.html#a7697506ccc800d38968e457c44bfa019", null ],
-    [ "pieceGUID", "df/d4f/a12516.html#a74f494e406c56d4c61d79539acea684c", null ],
-    [ "row", "df/d4f/a12516.html#a195c187e134be546f224cbb0eef8c844", null ],
-    [ "triggerGUID", "df/d4f/a12516.html#a9cafdea50739b014a97e60611adcd3f1", null ]
+    [ "instance_deadmines_InstanceMapScript", "df/d4f/a12516.html#afa12491c1b276d0d643822da562320c3", null ],
+    [ "GetSaveData", "df/d4f/a12516.html#a775c7d564b931e157a32b0909efed859", null ],
+    [ "Initialize", "df/d4f/a12516.html#a8b8bca7a1d7880bc53b8002934ceeb7a", null ],
+    [ "Load", "df/d4f/a12516.html#afff7e04cc632e2d4ddb438d03e561560", null ],
+    [ "OnGameObjectCreate", "df/d4f/a12516.html#a095202af8915f8a1d8888c045e18d6c4", null ],
+    [ "SetData", "df/d4f/a12516.html#a8cd5bf5302b1a7221c69dd9fdc9518dc", null ],
+    [ "_encounters", "df/d4f/a12516.html#a01d69e135cbd2dd885dfc84c98ed8be1", null ]
 ];

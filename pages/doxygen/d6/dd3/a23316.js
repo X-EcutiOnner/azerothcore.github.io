@@ -1,7 +1,7 @@
 var a23316 =
 [
-    [ "npc_underbog_mushroom", "d6/dd3/a23316.html#a2b77b2590d46c14c783d2df4a3699c44", null ],
-    [ "InitializeAI", "d6/dd3/a23316.html#a7c192010cc63715eaa3f38b1d1372936", null ],
-    [ "UpdateAI", "d6/dd3/a23316.html#a9a8ed51b12809152ebe78dda69944d77", null ],
-    [ "_scheduler", "d6/dd3/a23316.html#a407cdb1096e5212dd0a50ea4fa401112", null ]
+    [ "boss_hydromancer_thespia", "d6/dd3/a23316.html#a5747c2da9914dcf4118ee0fb37a3a3fd", null ],
+    [ "JustDied", "d6/dd3/a23316.html#ad0662daabd636bbf544a6791187d71fa", null ],
+    [ "JustEngagedWith", "d6/dd3/a23316.html#af230e57ec259e5c92c4034a674d1b6a5", null ],
+    [ "KilledUnit", "d6/dd3/a23316.html#ae1bb4819867ef5718cb5d9130d62fa20", null ]
 ];

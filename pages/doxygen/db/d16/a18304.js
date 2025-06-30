@@ -1,6 +1,6 @@
 var a18304 =
 [
-    [ "HandleScript", "db/d16/a18304.html#a910663e3fb2534c0e3aefcfd0adfe2fb", null ],
-    [ "PrepareSpellScript", "db/d16/a18304.html#a2c6acef52962f606130d643cbd93104b", null ],
-    [ "Register", "db/d16/a18304.html#a03ed4f257c313ba33361c16f313fdfcc", null ]
+    [ "npc_strangulate_vehicleAI", "de/d68/a18308.html", "de/d68/a18308" ],
+    [ "npc_strangulate_vehicle", "db/d16/a18304.html#a04532bc5902af45b1e9c76cf1cec9add", null ],
+    [ "GetAI", "db/d16/a18304.html#aa5813442234d7b18fc4e7ed44a0b30bc", null ]
 ];

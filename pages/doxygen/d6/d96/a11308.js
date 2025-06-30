@@ -1,6 +1,7 @@
 var a11308 =
 [
-    [ "AfterCheckProcHandler", "d6/d96/a11308.html#ac0a14950e90d064ffd7adc224b25f9d8", null ],
-    [ "Call", "d6/d96/a11308.html#ab2da0d87413dd7317eeaf73df17f1aaf", null ],
-    [ "_HandlerScript", "d6/d96/a11308.html#af5a393efc729e8588c0fc425fdfead99", null ]
+    [ "EffectApplyHandler", "d6/d96/a11308.html#a7ab5f0786000c217e2fc71201a8990b6", null ],
+    [ "Call", "d6/d96/a11308.html#a4c02a1b42d7b3a02633dc9600b0e09bb", null ],
+    [ "mode", "d6/d96/a11308.html#ac776375c5a5de321edc572c87e983193", null ],
+    [ "pEffectHandlerScript", "d6/d96/a11308.html#acd715556a7661f688ce0de9afe62250a", null ]
 ];

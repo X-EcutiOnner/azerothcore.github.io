@@ -1,10 +1,6 @@
 var a21800 =
 [
-    [ "npc_emilyAI", "d6/dd8/a21800.html#afd1e82e36c8850fbe118ab6abbdb73ce", null ],
-    [ "JustEngagedWith", "d6/dd8/a21800.html#a498ddc6969d398fe7a44824f4f8c8893", null ],
-    [ "JustSummoned", "d6/dd8/a21800.html#a4730c94b54d2ee5160011557704b35f2", null ],
-    [ "Reset", "d6/dd8/a21800.html#a8f196a6e1b21bef162b7ba4d7aeae208", null ],
-    [ "WaypointReached", "d6/dd8/a21800.html#a0a68676a6eac8fbe2b634098268eb516", null ],
-    [ "_mrfloppyGUID", "d6/dd8/a21800.html#a12a1fbe1ef4767698ab969e51e2f0e8e", null ],
-    [ "_RavenousworgGUID", "d6/dd8/a21800.html#aa2a5e45366be9f89221453e00179e1a3", null ]
+    [ "npc_q24545_vegard_dummyAI", "d6/dd8/a21800.html#ad354ccbe97b12f8df1186de4bf52bfcc", null ],
+    [ "UpdateAI", "d6/dd8/a21800.html#aa31baac9ce3c4c951f93917b88390797", null ],
+    [ "done", "d6/dd8/a21800.html#a0208fbae8e6c46d0671107530279c50c", null ]
 ];

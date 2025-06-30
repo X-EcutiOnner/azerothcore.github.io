@@ -1,8 +1,9 @@
 var a10768 =
 [
-    [ "CrossedInebriationThreshold", "d7/d89/a10768.html#a8983b7b88a76955d9a0e2241ffb1e472", null ],
-    [ "Write", "d7/d89/a10768.html#a127dcfcc7e960d24e56d1b17bf9be992", null ],
-    [ "Guid", "d7/d89/a10768.html#a422afb45b6c5e9c4fef58fb1801bd0ad", null ],
-    [ "ItemID", "d7/d89/a10768.html#a9e48a650bf21872099cdb0626e875fd7", null ],
-    [ "Threshold", "d7/d89/a10768.html#a87b756b64cbfb8f292f46cce38308095", null ]
+    [ "RandomRoll", "d7/d89/a10768.html#abc64acf498b3dc70b9afd23c399e3db8", null ],
+    [ "Write", "d7/d89/a10768.html#aab5879874745603dd448a7f5084d60d4", null ],
+    [ "Max", "d7/d89/a10768.html#a21460b09eddfbee6ba022f88b5f37cc7", null ],
+    [ "Min", "d7/d89/a10768.html#aee5564c9fc17613b9f30fc8ce88944c6", null ],
+    [ "Result", "d7/d89/a10768.html#a34fd2c1d018bb292836724671163ff07", null ],
+    [ "Roller", "d7/d89/a10768.html#af02aa97826259885791d0f4afc0c1a84", null ]
 ];

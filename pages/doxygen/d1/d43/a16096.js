@@ -1,7 +1,7 @@
 var a16096 =
 [
-    [ "HandleDummy", "d1/d43/a16096.html#a687cff5dcfcd7d9253182eb604d7a780", null ],
-    [ "PrepareSpellScript", "d1/d43/a16096.html#ab8544e2c9e3bea229abd270c108bfa14", null ],
-    [ "Register", "d1/d43/a16096.html#a144224b42aabc0402b729dcc808d779d", null ],
-    [ "Validate", "d1/d43/a16096.html#a985e843e856a7322bccf8544c45df48c", null ]
+    [ "OnApply", "d1/d43/a16096.html#ad072d243dd148e1b34aea29a2e5d175e", null ],
+    [ "PrepareAuraScript", "d1/d43/a16096.html#ae657ceca517aa3f725ba72c18ddbaf1c", null ],
+    [ "Register", "d1/d43/a16096.html#a4eab0bd70eb884f7736e90f9001d3cc7", null ],
+    [ "Validate", "d1/d43/a16096.html#a2c9e4d82bd25f439e01a05700563b122", null ]
 ];

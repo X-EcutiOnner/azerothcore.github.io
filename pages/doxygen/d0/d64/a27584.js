@@ -1,7 +1,9 @@
 var a27584 =
 [
-    [ "npc_crashin_thrashin_robot", "d0/d64/a27584.html#ad21336d212498b1c9ef5d46979d147ab", null ],
-    [ "IsSummonedBy", "d0/d64/a27584.html#a0652cd455791461f613ab4ebf77d2c3c", null ],
-    [ "UpdateAI", "d0/d64/a27584.html#a1d21cd2075f3aeba2c7f1e735a33dfec", null ],
-    [ "_scheduler", "d0/d64/a27584.html#a55778501d154d0a9e77f76054e926f85", null ]
+    [ "npc_fireworkAI", "d0/d64/a27584.html#a8fad089d1edc09edbaf215f07722e9e6", null ],
+    [ "FindNearestLauncher", "d0/d64/a27584.html#a156e63c90f9b64cfd71c0262d28f1383", null ],
+    [ "GetFireworkGameObjectId", "d0/d64/a27584.html#ae17b4abbbb2088799cec188457677d44", null ],
+    [ "GetFireworkSpell", "d0/d64/a27584.html#a6270e753ab81062a7c39ca6c6b46c993", null ],
+    [ "isCluster", "d0/d64/a27584.html#a4b3cdedaa2a57d23bf9f509cabdaff0c", null ],
+    [ "Reset", "d0/d64/a27584.html#a3e2ce8787cd08b8bb900c009bd7e8af0", null ]
 ];

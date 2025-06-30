@@ -1,6 +1,9 @@
 var a27160 =
 [
-    [ "go_l70_etc_musicAI", "db/d1b/a27160.html#a1709414fc40d48ac7c13eb8251dfbb26", null ],
-    [ "UpdateAI", "db/d1b/a27160.html#a182a5a9bbe53ced25740de9a4a368469", null ],
-    [ "_events", "db/d1b/a27160.html#aa0cda672b4491b3cfc75214038aa2132", null ]
+    [ "go_tadpole_cageAI", "db/d1b/a27160.html#a87dc192a13cecf834d49cd04451224cd", null ],
+    [ "GossipHello", "db/d1b/a27160.html#a5c59db4b4d21b9e7de9bbb8835f31f2a", null ],
+    [ "OnStateChanged", "db/d1b/a27160.html#aa545ba4659b288c1ce1f5c2332d5e61f", null ],
+    [ "SummonTadpoles", "db/d1b/a27160.html#ab4903827c78b1b042cc17aef661a0b4f", null ],
+    [ "UpdateAI", "db/d1b/a27160.html#af6d4f5c3fe822815f58665a0207e3c32", null ],
+    [ "requireSummon", "db/d1b/a27160.html#a9884081855fc45776a6b12b9a68890e4", null ]
 ];

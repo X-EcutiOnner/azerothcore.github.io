@@ -1,24 +1,8 @@
 var a11196 =
 [
-    [ "EffectAuraNameCheck", "d7/d10/a11208.html", "d7/d10/a11208" ],
-    [ "EffectHook", "d6/d29/a11200.html", "d6/d29/a11200" ],
-    [ "EffectNameCheck", "d4/d63/a11204.html", "d4/d63/a11204" ],
-    [ "_SpellScript", "d1/d82/a11196.html#a1094c9cbb65098fe0733ff54dce04388", null ],
-    [ "~_SpellScript", "d1/d82/a11196.html#a6a2621e4aeda24af6ec55b9a8c461262", null ],
-    [ "_GetScriptName", "d1/d82/a11196.html#ad3c16df6214a973fca3c62e4bc23f6a6", null ],
-    [ "_Init", "d1/d82/a11196.html#ae85c836ab2da173942a40b53561df1fb", null ],
-    [ "_Register", "d1/d82/a11196.html#ae22c1ed4b0e2742ee4c35de03c70d9d8", null ],
-    [ "_Unload", "d1/d82/a11196.html#a6b372f003568d60066449ee58a0469df", null ],
-    [ "_Validate", "d1/d82/a11196.html#af46024e85e0618c84bf72dc61df05673", null ],
-    [ "_ValidateSpellInfo", "d1/d82/a11196.html#a423786f1fc45a010a4ebc16db2645a1f", null ],
-    [ "_ValidateSpellInfo", "d1/d82/a11196.html#abb223d1713d7594bf4dfd1fc7c0dc5d5", null ],
-    [ "Load", "d1/d82/a11196.html#ad3b8fb5dd2bc5ca4dd34da5a98a76443", null ],
-    [ "Register", "d1/d82/a11196.html#ab6fed9e44aa0c11342abffd74ee5bfe1", null ],
-    [ "Unload", "d1/d82/a11196.html#ad501b6dde3e42c3af93589b117e2cafc", null ],
-    [ "Validate", "d1/d82/a11196.html#a95e7862a5807bff409f13aea8306077e", null ],
-    [ "ValidateSpellInfo", "d1/d82/a11196.html#a9f7c76ac56838fbe61bf67d534979159", null ],
-    [ "ValidateSpellInfo", "d1/d82/a11196.html#a0ee15cbc62cccd346ce148c6acbe96f9", null ],
-    [ "m_currentScriptState", "d1/d82/a11196.html#a3f9d5cd0ea4eadbdb6a72f73875c0585", null ],
-    [ "m_scriptName", "d1/d82/a11196.html#a38bdb79ae6d11489dd6007485c1510de", null ],
-    [ "m_scriptSpellId", "d1/d82/a11196.html#ae2ab4203d324b2179ad06ffdb5d8626f", null ]
+    [ "first", "d1/d82/a11196.html#a49aea8bfed353c2c552f6195b8e9f60a", null ],
+    [ "last", "d1/d82/a11196.html#a05a8077c7ec39bcca66fe84aa1da7040", null ],
+    [ "next", "d1/d82/a11196.html#a0a7791b7069912a013299e7afaf4142f", null ],
+    [ "prev", "d1/d82/a11196.html#ae27b7d0aa5a2ae5cb75a7f0d397c849f", null ],
+    [ "rank", "d1/d82/a11196.html#a0b58cef8fc18f91fa59b8c7d7b9f9872", null ]
 ];

@@ -1,6 +1,25 @@
 var a04813 =
 [
-    [ "ChatServerMessage", "df/d55/a10482.html", "df/d55/a10482" ],
-    [ "Emote", "d1/df0/a10474.html", "d1/df0/a10474" ],
-    [ "EmoteClient", "d0/dd2/a10478.html", "d0/dd2/a10478" ]
+    [ "achievement", "de/dbd/a07760.html", "de/dbd/a07760" ],
+    [ "base_tag", "dc/d65/a07756.html", "dc/d65/a07756" ],
+    [ "enchant", "d2/d59/a07764.html", "d2/d59/a07764" ],
+    [ "glyph", "d1/ddb/a07768.html", "d1/ddb/a07768" ],
+    [ "item", "de/d73/a07772.html", "de/d73/a07772" ],
+    [ "quest", "d8/dd2/a07776.html", "d8/dd2/a07776" ],
+    [ "spell", "d0/df0/a07780.html", "d0/df0/a07780" ],
+    [ "talent", "dc/d8f/a07784.html", "dc/d8f/a07784" ],
+    [ "trade", "d5/d7b/a07788.html", "d5/d7b/a07788" ],
+    [ "make_base_tag", "d0/d05/a04813.html#a6ebb455ff3abbea4ad68bd1d7d05fd3a", null ],
+    [ "make_base_tag", "d0/d05/a04813.html#a0803de4bbc9edad4f5bb2afc3c242dca", null ],
+    [ "make_base_tag", "d0/d05/a04813.html#aa8156f2996632fd42a2e39b974426995", null ],
+    [ "make_base_tag", "d0/d05/a04813.html#a321da5d63921d41c561a1460929ac730", null ],
+    [ "make_base_tag", "d0/d05/a04813.html#afc9dbd840048c0031231bcdb7b2fcf04", null ],
+    [ "make_base_tag", "d0/d05/a04813.html#a7083d48423b83ff39095030678b29877", null ],
+    [ "make_base_tag", "d0/d05/a04813.html#aae3a6cd0fbf426755d93a387882ff767", null ],
+    [ "make_base_tag", "d0/d05/a04813.html#aa0ca4a111a856da9091a377934f8de93", null ],
+    [ "make_base_tag", "d0/d05/a04813.html#a9990339040b491e108594df755f03a6c", null ],
+    [ "make_base_tag", "d0/d05/a04813.html#aa0200f5ae02cb0b03a9ab7097ca2a2ec", null ],
+    [ "make_base_tag", "d0/d05/a04813.html#a32cfa3bc188d1b731f3e9e5dcc2de664", null ],
+    [ "make_base_tag", "d0/d05/a04813.html#ae0c637d10c728f04dc2468c15c3f8dca", null ],
+    [ "make_base_tag", "d0/d05/a04813.html#abe0a588f1c0e66d33c8bc7a7d0a04459", null ]
 ];

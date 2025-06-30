@@ -1,6 +1,7 @@
 var a23852 =
 [
-    [ "instance_mechanar_InstanceMapScript", "da/d4e/a23856.html", "da/d4e/a23856" ],
-    [ "instance_mechanar", "dc/dae/a23852.html#ab31a66a0eb8b9ac6f79af479528ff4fd", null ],
-    [ "GetInstanceScript", "dc/dae/a23852.html#ae8e9810a9bfd6b0ec256dd6a288392ed", null ]
+    [ "boss_gatewatcher_gyrokill", "dc/dae/a23852.html#a82335081dd79f7a0aa1dc0c26bd878fb", null ],
+    [ "JustDied", "dc/dae/a23852.html#a4bbfb59c2a687ebb3e88bde9784af38e", null ],
+    [ "JustEngagedWith", "dc/dae/a23852.html#a95d3ae80f87be9d972ecb056e0b85412", null ],
+    [ "KilledUnit", "dc/dae/a23852.html#a274355d0303d9bf5761758f175826bd1", null ]
 ];

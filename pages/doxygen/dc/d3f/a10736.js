@@ -1,8 +1,11 @@
 var a10736 =
 [
-    [ "PlayObjectSound", "dc/d3f/a10736.html#ab322044d36abddeb2fafbf99261bb70b", null ],
-    [ "PlayObjectSound", "dc/d3f/a10736.html#a2c4d15099e991a9c2ddc5295536aa28e", null ],
-    [ "Write", "dc/d3f/a10736.html#a1162715dd557a9f7b7c25a0331bc3b74", null ],
-    [ "SoundKitID", "dc/d3f/a10736.html#a5e794706b8793d164a1189e9a6918735", null ],
-    [ "SourceObjectGUID", "dc/d3f/a10736.html#a82b226eba66e569c1f377f529e511361", null ]
+    [ "LFGJoin", "dc/d3f/a10736.html#a50c79bdef7393907673a328bc36ff8ae", null ],
+    [ "Read", "dc/d3f/a10736.html#a5eca5c5a528cf00f1e6aad99ce5386ed", null ],
+    [ "Achievements", "dc/d3f/a10736.html#a587e98d4a1c8ff0cacd459298a4193c8", null ],
+    [ "Comment", "dc/d3f/a10736.html#a3e12e650a1fa573aafd7c03abd970aff", null ],
+    [ "Needs", "dc/d3f/a10736.html#a313c16e84e2cd0b55551d16273e95917", null ],
+    [ "NoPartialClear", "dc/d3f/a10736.html#aad54be871d0978034fb69a464fd5b9df", null ],
+    [ "Roles", "dc/d3f/a10736.html#a5eaccbeb4fc8b21f5398e216589cb99b", null ],
+    [ "Slots", "dc/d3f/a10736.html#aa14a07716504723283ad80c6357cf53f", null ]
 ];

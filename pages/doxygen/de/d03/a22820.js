@@ -1,6 +1,7 @@
 var a22820 =
 [
-    [ "boss_essence_of_desireAI", "da/dc5/a22824.html", "da/dc5/a22824" ],
-    [ "boss_essence_of_desire", "de/d03/a22820.html#a5006ce57dd19c2a80e961dedca8c503d", null ],
-    [ "GetAI", "de/d03/a22820.html#a14b66470c508fa24e214062aeec0aae6", null ]
+    [ "PrepareAuraScript", "de/d03/a22820.html#afb2e94c1e67b12b7350d83241b3f2864", null ],
+    [ "Register", "de/d03/a22820.html#a0a5ac432eca09206ac032317e8aa8cfc", null ],
+    [ "Update", "de/d03/a22820.html#aa0da369c2047df144c4a9af37a2ea13c", null ],
+    [ "Validate", "de/d03/a22820.html#a70248cfa468dfb3a97ea7f8b6848bc5f", null ]
 ];

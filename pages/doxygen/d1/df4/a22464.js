@@ -1,17 +1,9 @@
 var a22464 =
 [
-    [ "OutdoorPvPSI", "d1/df4/a22464.html#a89bf2d913b7d68ee921ef4b9aeea61e1", null ],
-    [ "FillInitialWorldStates", "d1/df4/a22464.html#a7392eed60ec3307bdea4ed35cd859077", null ],
-    [ "HandleAreaTrigger", "d1/df4/a22464.html#a7c6d70d7a611752456c55d13420ff840", null ],
-    [ "HandleCustomSpell", "d1/df4/a22464.html#a10853a2f5766b6fc75044a20b281a198", null ],
-    [ "HandleDropFlag", "d1/df4/a22464.html#a9238a5007253d84d66192bd340d8311a", null ],
-    [ "HandlePlayerEnterZone", "d1/df4/a22464.html#ad2cabd461406a61e40411850b3d31c0c", null ],
-    [ "HandlePlayerLeaveZone", "d1/df4/a22464.html#aa06088b1d80072577e6fc7653a214512", null ],
-    [ "SendRemoveWorldStates", "d1/df4/a22464.html#aae7deda0662b28f6fc0e16115a65304b", null ],
-    [ "SetupOutdoorPvP", "d1/df4/a22464.html#a401da5bef2350c4eb21b249b4f8b3e40", null ],
-    [ "Update", "d1/df4/a22464.html#a56bda08a795a4b0cd1c52ec448920fac", null ],
-    [ "UpdateWorldState", "d1/df4/a22464.html#a81f4362ece83f37f14471926e9a85fb3", null ],
-    [ "m_Gathered_A", "d1/df4/a22464.html#ab532337ab7e66e1489221e3189e48bac", null ],
-    [ "m_Gathered_H", "d1/df4/a22464.html#abcd36fe918edbbea387573bd5fab89e7", null ],
-    [ "m_LastController", "d1/df4/a22464.html#a05c33cec2d0c1a9fe31cb3d9ba3f3c1c", null ]
+    [ "OPvPCapturePointGH", "d1/df4/a22464.html#a6e46100e50212310af4301c492d5773e", null ],
+    [ "ChangeState", "d1/df4/a22464.html#afe53e37a3a1dc4a7068c03302f26b981", null ],
+    [ "FillInitialWorldStates", "d1/df4/a22464.html#a11d305d6f50ce2535bd5d7b2e7a3389f", null ],
+    [ "HandlePlayerEnter", "d1/df4/a22464.html#afea733c44d129d9a5af78a8337d9e04a", null ],
+    [ "HandlePlayerLeave", "d1/df4/a22464.html#a1e5d9c6f02eb02dfed654078c910635b", null ],
+    [ "SendChangePhase", "d1/df4/a22464.html#aec741b9102829bf77850dc06a49bb8da", null ]
 ];

@@ -1,6 +1,7 @@
 var a16964 =
 [
-    [ "npc_pos_tyrannus_eventsAI", "d2/d7c/a16968.html", "d2/d7c/a16968" ],
-    [ "npc_pos_tyrannus_events", "db/d3d/a16964.html#a9e61db8b2b30e86fc5e554b3f4d51b7c", null ],
-    [ "GetAI", "db/d3d/a16964.html#ae5863e99d77815de71c1774e908b3f65", null ]
+    [ "HandlePeriodicTick", "db/d3d/a16964.html#ac8b3f1a826e3491d4315983a89d23d2e", null ],
+    [ "PrepareAuraScript", "db/d3d/a16964.html#ad54c3014195c5b848ab1f9cc978f72b3", null ],
+    [ "Register", "db/d3d/a16964.html#af8e1ee8ddf7ed8290eb71fb7697428fb", null ],
+    [ "Validate", "db/d3d/a16964.html#a6de2140f17790b63314f653b7dd0ddd3", null ]
 ];

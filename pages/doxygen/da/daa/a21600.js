@@ -1,9 +1,6 @@
 var a21600 =
 [
-    [ "npc_mageguard_dalaranAI", "da/daa/a21600.html#adb9c8b0003c070114b63f3b8e538bceb", null ],
-    [ "AttackStart", "da/daa/a21600.html#ac1e73ad92bd5db0d3b9fe23b36cd8dd7", null ],
-    [ "JustEngagedWith", "da/daa/a21600.html#aac463689ae5a488ec2acb8a0310689d8", null ],
-    [ "MoveInLineOfSight", "da/daa/a21600.html#aafb32462693e0efd9c80cf335f489754", null ],
-    [ "Reset", "da/daa/a21600.html#aa6dde0732bac407a62403bb8f0f24c26", null ],
-    [ "UpdateAI", "da/daa/a21600.html#a4d6ce701a4cc463a7e9c295c664d4440", null ]
+    [ "npc_counselor_talbotAI", "de/d8f/a21604.html", "de/d8f/a21604" ],
+    [ "npc_counselor_talbot", "da/daa/a21600.html#a9223380bb78afeda617482bea0a3110c", null ],
+    [ "GetAI", "da/daa/a21600.html#a3debd13352146a247d635042ecbfa155", null ]
 ];

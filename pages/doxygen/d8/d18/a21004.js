@@ -1,10 +1,13 @@
 var a21004 =
 [
-    [ "npc_dragonflayer_forge_master", "d8/d18/a21004.html#a642c0fb5a5010c48403b8c3dc8bc14eb", null ],
-    [ "JustDied", "d8/d18/a21004.html#aa107e88bbc5b55a6ece5124c4081706e", null ],
-    [ "JustEngagedWith", "d8/d18/a21004.html#a3dfb76bb5cb13624e0709f1b25414360", null ],
-    [ "Reset", "d8/d18/a21004.html#af2c844c926b94456df796b4252e899c2", null ],
-    [ "dataId", "d8/d18/a21004.html#a35962dcbbef32dbc7f63dfa33cffd4b4", null ],
-    [ "pInstance", "d8/d18/a21004.html#a27b5988d777347832795581b0186c09f", null ],
-    [ "prevDataId", "d8/d18/a21004.html#aa057cb5ae681b4b802031151ea1a3529", null ]
+    [ "npc_ulduar_arachnopod_destroyerAI", "d8/d18/a21004.html#a52bbedf267aaa3cea68e8a5960cbc34b", null ],
+    [ "AttackStart", "d8/d18/a21004.html#aed91dafbc50a785875b8b41c5e328d73", null ],
+    [ "DamageTaken", "d8/d18/a21004.html#a4c2ec3cf0c5561b1b9f309bb8f180f8c", null ],
+    [ "EnterEvadeMode", "d8/d18/a21004.html#a671a27f00e279e0a4c0827999ce26d8b", null ],
+    [ "OnCharmed", "d8/d18/a21004.html#ae268a425326efbea1282ce116ff76e3f", null ],
+    [ "PassengerBoarded", "d8/d18/a21004.html#a83409607638100fddd229829ee2bea40", null ],
+    [ "Reset", "d8/d18/a21004.html#a2a7bda0ee585a7aa652081ce7ede3fa6", null ],
+    [ "UpdateAI", "d8/d18/a21004.html#ac10669fddd193d583ecead8ed37879b3", null ],
+    [ "_spawnedMechanic", "d8/d18/a21004.html#a2db3016e32b4e77724fea98d605eaa59", null ],
+    [ "events", "d8/d18/a21004.html#ac61064ee3e22b476a35dce4564f65882", null ]
 ];

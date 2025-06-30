@@ -1,6 +1,7 @@
 var a22236 =
 [
-    [ "npc_vehicle_d16_propelled_deliveryAI", "db/dfc/a22240.html", "db/dfc/a22240" ],
-    [ "npc_vehicle_d16_propelled_delivery", "de/de1/a22236.html#a93bed362ae78231b21327994a3e4cafd", null ],
-    [ "GetAI", "de/de1/a22236.html#abda3dbcb251d7f1e614d089f630d0d1c", null ]
+    [ "HandleDummy", "de/de1/a22236.html#a68c638c6e056cbadb101ddd025909f54", null ],
+    [ "PrepareSpellScript", "de/de1/a22236.html#a5a857bace5232d259145a0a095f70eec", null ],
+    [ "Register", "de/de1/a22236.html#af9c657e1fac6ee630af0bea337fbff62", null ],
+    [ "Validate", "de/de1/a22236.html#a21e9eaf2eea4b46986b8e8b911bd0508", null ]
 ];

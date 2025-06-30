@@ -1,7 +1,6 @@
 var a23816 =
 [
-    [ "boss_gatewatcher_iron_hand", "d1/d36/a23816.html#aef70e713007af38b510f0a3b8c082b24", null ],
-    [ "JustDied", "d1/d36/a23816.html#a36b10cd02b35b6e106687b08bc80bfa6", null ],
-    [ "JustEngagedWith", "d1/d36/a23816.html#aa6a9f456d158e4c0332816c7e65ec155", null ],
-    [ "KilledUnit", "d1/d36/a23816.html#a1973142412b4094dbd9fa51600741148", null ]
+    [ "HandleScriptEffect", "d1/d36/a23816.html#a32c5e4743adeb3085a6eac062b8f6226", null ],
+    [ "PrepareSpellScript", "d1/d36/a23816.html#a0c51d5a108d8225387ce8a149a0a0c86", null ],
+    [ "Register", "d1/d36/a23816.html#a4b940caf98f1164be5e2f4e748811fc6", null ]
 ];

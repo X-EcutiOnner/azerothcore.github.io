@@ -1,6 +1,6 @@
 var a22024 =
 [
-    [ "npc_guardian_pavilionAI", "d6/d68/a22028.html", "d6/d68/a22028" ],
-    [ "npc_guardian_pavilion", "da/dab/a22024.html#aecc7e93f2b50351584049f031362e0f0", null ],
-    [ "GetAI", "da/dab/a22024.html#a89e55b3267cd93ae688573678851c7b9", null ]
+    [ "npc_boneguard_footmanAI", "d6/d68/a22028.html", "d6/d68/a22028" ],
+    [ "npc_boneguard_footman", "da/dab/a22024.html#aba17f89b9546deff5401ad33224b2b3e", null ],
+    [ "GetAI", "da/dab/a22024.html#ab0b28f61e26f701db17a0d19bbde4492", null ]
 ];

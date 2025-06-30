@@ -1,10 +1,6 @@
 var a10488 =
 [
-    [ "EnvironmentalDamageLog", "dd/d99/a10488.html#ab4311f6516d9b7491abf5cb2ba9a0ee0", null ],
-    [ "Write", "dd/d99/a10488.html#af7d49b8d57100cf2c3048d5415a4edc7", null ],
-    [ "Absorbed", "dd/d99/a10488.html#a443df04be3afe2021532716140ffb099", null ],
-    [ "Amount", "dd/d99/a10488.html#a073e22176d44f5806313c2a4bd3e263a", null ],
-    [ "Resisted", "dd/d99/a10488.html#ad20a9730af3088d93ac56d89b6f66b12", null ],
-    [ "Type", "dd/d99/a10488.html#a51df177d9ce6a8459bc8fa41f80cdb7a", null ],
-    [ "Victim", "dd/d99/a10488.html#a020fffe9517d30e965a4d6f6602dd05f", null ]
+    [ "PlayedTimeClient", "dd/d99/a10488.html#a1c82d4d153606da9887d64599f319883", null ],
+    [ "Read", "dd/d99/a10488.html#a0d25fccc9fb4fdaa5ba3bb11851a14f3", null ],
+    [ "TriggerScriptEvent", "dd/d99/a10488.html#a092b32f76df529a4f1284d7231b8fc6b", null ]
 ];

@@ -1,5 +1,9 @@
 var a20420 =
 [
-    [ "achievement_mimiron_set_up_us_the_bomb_11", "d6/dcb/a20420.html#a5d8980111e029b4c9311737f3985ab61", null ],
-    [ "OnCheck", "d6/dcb/a20420.html#a7682a7f2f4417dcf75ec58e34e4fd6bc", null ]
+    [ "npc_ulduar_bot_summon_triggerAI", "d6/dcb/a20420.html#a60e0706b9285cdf4b25b6f399cad18e9", null ],
+    [ "DoAction", "d6/dcb/a20420.html#ac5d0e28ee330741da3b287d965537f39", null ],
+    [ "Reset", "d6/dcb/a20420.html#a91207c04ecee6fc0e906133e054bf51b", null ],
+    [ "UpdateAI", "d6/dcb/a20420.html#aebec433e806d4f63f5593db0301612b4", null ],
+    [ "option", "d6/dcb/a20420.html#a98bb19fea19a05127b4b32df039acf05", null ],
+    [ "timer", "d6/dcb/a20420.html#a118d048557b0ed314180299c3cd2bcbc", null ]
 ];

@@ -1,10 +1,6 @@
 var a19444 =
 [
-    [ "npc_molten_golemAI", "da/dd0/a19444.html#a5172d70649be5030fd91e1adbcad4f06", null ],
-    [ "DamageTaken", "da/dd0/a19444.html#a0dd2ca5b83f5d75c51dfa358544c018a", null ],
-    [ "DoAction", "da/dd0/a19444.html#ada2e9c39ce16f00b47df2f52971d99b1", null ],
-    [ "Reset", "da/dd0/a19444.html#a9f90e791c77377c02c66e5d809c555cc", null ],
-    [ "UpdateAI", "da/dd0/a19444.html#ade3cfd0deb27508f5f084b1b49caf13f", null ],
-    [ "events", "da/dd0/a19444.html#ad97142df8344df59eddfb92471d1a737", null ],
-    [ "m_pInstance", "da/dd0/a19444.html#ad1a300c13e98965b935c1e3fc26b9606", null ]
+    [ "npc_stormforged_lieutenantAI", "d2/d9e/a19448.html", "d2/d9e/a19448" ],
+    [ "npc_stormforged_lieutenant", "da/dd0/a19444.html#ab58a73d33c6545815511c5c4f0ecfd9e", null ],
+    [ "GetAI", "da/dd0/a19444.html#ae3aba4b53e73097c261eaaed19f17950", null ]
 ];

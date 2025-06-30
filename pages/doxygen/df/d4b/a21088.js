@@ -1,6 +1,13 @@
 var a21088 =
 [
-    [ "npc_ritual_channelerAI", "d7/dba/a21092.html", "d7/dba/a21092" ],
-    [ "npc_ritual_channeler", "df/d4b/a21088.html#adab372002549b009e3f937ec67e49f3f", null ],
-    [ "GetAI", "df/d4b/a21088.html#aa416545438d701cbfc2567ba5ae536c8", null ]
+    [ "npc_ferocious_rhinoAI", "df/d4b/a21088.html#ad70d0aeba4b73330c5087bc84a533389", null ],
+    [ "DoAction", "df/d4b/a21088.html#a10395930fed95fb7809a0b5ffe224c4d", null ],
+    [ "JustDied", "df/d4b/a21088.html#a2b1af0402dc1b4940534d2e60d7ef33e", null ],
+    [ "JustEngagedWith", "df/d4b/a21088.html#aab35078fe4518b6647f98e316d02898a", null ],
+    [ "JustReachedHome", "df/d4b/a21088.html#ab8105d6c8c70037c208c83c13c35242d", null ],
+    [ "MoveInLineOfSight", "df/d4b/a21088.html#a97e32d32a692f223b96746f3ef1086c5", null ],
+    [ "Reset", "df/d4b/a21088.html#a6d317407c2de2f954b5dd2a6db137304", null ],
+    [ "UpdateAI", "df/d4b/a21088.html#a09b80e739e4df6e751c9c2846f3fb999", null ],
+    [ "events", "df/d4b/a21088.html#af23061de7d8566c7435c2c64c53dff89", null ],
+    [ "m_pInstance", "df/d4b/a21088.html#a97e00db40792c559dd06327c9960abe4", null ]
 ];

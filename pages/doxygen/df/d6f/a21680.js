@@ -1,6 +1,6 @@
 var a21680 =
 [
-    [ "CheckCast", "df/d6f/a21680.html#a9c7e08a8a9b1c1b44ae290818826d43a", null ],
-    [ "PrepareSpellScript", "df/d6f/a21680.html#abff433d61c798d17882292b6b0956a58", null ],
-    [ "Register", "df/d6f/a21680.html#a1034967a4bf633f160cc40ae6e0fc567", null ]
+    [ "npc_conversing_with_the_depths_triggerAI", "d0/ddb/a21684.html", "d0/ddb/a21684" ],
+    [ "npc_conversing_with_the_depths_trigger", "df/d6f/a21680.html#a55ba213da86650d44ea1493b26fdb7f2", null ],
+    [ "GetAI", "df/d6f/a21680.html#a61c337bfe1efb3589cf0df91d9082236", null ]
 ];

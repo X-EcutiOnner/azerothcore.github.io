@@ -1,7 +1,10 @@
 var a21492 =
 [
-    [ "npc_valiance_keep_cannoneerAI", "d9/dfd/a21492.html#a0769e975c5c7ff1cfbfa6089e3e55e3f", null ],
-    [ "Reset", "d9/dfd/a21492.html#a65718076e65b68cae0a54ff4112fdb4b", null ],
-    [ "UpdateAI", "d9/dfd/a21492.html#a75f16f2b028ca341db6e08536be06bfa", null ],
-    [ "uiTimer", "d9/dfd/a21492.html#a0cf5f0413b1cded835252a38e272f835", null ]
+    [ "npc_jenny", "d9/dfd/a21492.html#ab845ba4551900a03c5a995d348a1be55", null ],
+    [ "DamageTaken", "d9/dfd/a21492.html#a8700091c82bfff473f3d5563deb69e0b", null ],
+    [ "Initialize", "d9/dfd/a21492.html#aab8c540ebb90ebbaef961b1feb3013a3", null ],
+    [ "MoveInLineOfSight", "d9/dfd/a21492.html#acd0939cee3ecb9d961d09815d9c50f71", null ],
+    [ "UpdateFollowerAI", "d9/dfd/a21492.html#afbd142855602bcf7a8cd8e4cc4760cf0", null ],
+    [ "_events", "d9/dfd/a21492.html#aa98caf8b706551470c943b4b722a85ae", null ],
+    [ "_fezzix", "d9/dfd/a21492.html#ac2115c122c2eac2d5a36d1795d1e6bf0", null ]
 ];

@@ -1,5 +1,6 @@
 var a13892 =
 [
-    [ "at_zulgurub_edge_of_madness_speech", "de/dfe/a13892.html#a7d4007716e3ed634ac7e3d3dba26e6f7", null ],
-    [ "_OnTrigger", "de/dfe/a13892.html#a725de49be12116f2f7e77edd31a096ae", null ]
+    [ "boss_gahzranka", "de/dfe/a13892.html#a82cc1a44a967f859039957e41f38dd77", null ],
+    [ "IsSummonedBy", "de/dfe/a13892.html#ad68be854f95c398dc5dd9e5b22f538a8", null ],
+    [ "JustEngagedWith", "de/dfe/a13892.html#ac1cc43194c00fda1729f8a068d4e8779", null ]
 ];

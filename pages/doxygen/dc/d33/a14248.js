@@ -1,6 +1,5 @@
 var a14248 =
 [
-    [ "HandleScript", "dc/d33/a14248.html#aa60824ed67ae87e96117fc5bf90bec8c", null ],
-    [ "PrepareSpellScript", "dc/d33/a14248.html#aab4303fff660c68db100e07a4423c39b", null ],
-    [ "Register", "dc/d33/a14248.html#a0fbc130652e58d9418cb3c5036b6aed2", null ]
+    [ "at_bring_your_orphan_to", "dc/d33/a14248.html#a160aae23dd3423dbc1afc8e3f8dbec7c", null ],
+    [ "OnTrigger", "dc/d33/a14248.html#af5cb73f6ba0657eff8809711a5dba84c", null ]
 ];

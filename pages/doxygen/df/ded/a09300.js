@@ -1,8 +1,10 @@
 var a09300 =
 [
-    [ "FriendlyMissingBuffInRange", "df/ded/a09300.html#a628fe94ce054a868977ef2a981bc5d6c", null ],
-    [ "operator()", "df/ded/a09300.html#a6dce8a1248ebb4f3e57cd12a3d94b7b9", null ],
-    [ "i_obj", "df/ded/a09300.html#aba43edf48b2b0184b52143707c3531f4", null ],
-    [ "i_range", "df/ded/a09300.html#a54ba98f393a8bdf710f6bd65abee526c", null ],
-    [ "i_spell", "df/ded/a09300.html#a7f34521e8789a1e1dabb867ed82ff438", null ]
+    [ "NearestGameObjectEntryInObjectRangeCheck", "df/ded/a09300.html#a7d57ae865868d4848caf088c4520b2a7", null ],
+    [ "NearestGameObjectEntryInObjectRangeCheck", "df/ded/a09300.html#a28d97af524c2bab39e1bd2e5508e434b", null ],
+    [ "operator()", "df/ded/a09300.html#ad0c6798e28784ed547102414f4c6a31f", null ],
+    [ "i_entry", "df/ded/a09300.html#a5d19a23e7da2e5e5ed417d0a9623ffbb", null ],
+    [ "i_obj", "df/ded/a09300.html#a104b8bece6ea78ba049dc592e54311be", null ],
+    [ "i_onlySpawned", "df/ded/a09300.html#a2a58a6bcff73142e21c082bf2c11eff2", null ],
+    [ "i_range", "df/ded/a09300.html#a94fc995a14f84060f3bfe5827f17b95e", null ]
 ];

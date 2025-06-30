@@ -1,11 +1,8 @@
 var a15336 =
 [
-    [ "npc_tiger_matriarchAI", "d8/d1f/a15336.html#accbe5feed1eb7363575f297d1b50f6ab", null ],
-    [ "DamageTaken", "d8/d1f/a15336.html#ab41c4275fe4f42b36615f746a100ccda", null ],
-    [ "IsSummonedBy", "d8/d1f/a15336.html#a8b02683be93944a65b38658bba0af4d8", null ],
-    [ "JustEngagedWith", "d8/d1f/a15336.html#a9a9295008552f5330f778dd3a0c591ea", null ],
-    [ "KilledUnit", "d8/d1f/a15336.html#aabde7633ac07966ee1cd2d9817582189", null ],
-    [ "UpdateAI", "d8/d1f/a15336.html#af8ed5b16a3f1ed04d439bc1ce1a07ede", null ],
-    [ "_events", "d8/d1f/a15336.html#a44632ddc3c4e57bee1791cda4027bc93", null ],
-    [ "_tigerGuid", "d8/d1f/a15336.html#ad557591ddebd4cece99b0e5793be3eb5", null ]
+    [ "npc_prospector_remtravelAI", "d8/d1f/a15336.html#a61f26115382f16f3d65c3d4e1c720f02", null ],
+    [ "JustEngagedWith", "d8/d1f/a15336.html#adf388d36c17b69f881e3cb92d9b78b9b", null ],
+    [ "JustSummoned", "d8/d1f/a15336.html#a6b3dd1552b5313dd04d07dc80eef06fe", null ],
+    [ "Reset", "d8/d1f/a15336.html#ac145a4a4a24be227c31fcc5aefd922eb", null ],
+    [ "WaypointReached", "d8/d1f/a15336.html#a7b02b22e9dc63e1fad6b15a44b2ff9b6", null ]
 ];

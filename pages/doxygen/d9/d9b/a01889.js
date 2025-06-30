@@ -1,4 +1,4 @@
 var a01889 =
 [
-    [ "ScriptRegistry< GuildScript >", "d9/d9b/a01889.html#af7c126caabb7b664b2a28086b5f7737e", null ]
+    [ "ScriptRegistry< OutdoorPvPScript >", "d9/d9b/a01889.html#a87dac516981f5c502b37a0500f6f7882", null ]
 ];

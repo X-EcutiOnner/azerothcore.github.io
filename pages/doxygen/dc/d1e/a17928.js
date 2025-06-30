@@ -1,6 +1,6 @@
 var a17928 =
 [
-    [ "LastPhaseIceTombTargetSelector", "dc/d1e/a17928.html#ac01f20b199bb0ee63b9c8f8206321057", null ],
-    [ "operator()", "dc/d1e/a17928.html#a92a846ff557334b1f30d8e062a2c64e9", null ],
-    [ "_source", "dc/d1e/a17928.html#ab10d10dd0de7717078d31ac026d4c933", null ]
+    [ "ExtraRemoveEffect", "dc/d1e/a17928.html#a49b1087d66606ddeebe6918ad05d4b37", null ],
+    [ "PrepareAuraScript", "dc/d1e/a17928.html#a41992ed6c23275d3a910915755b682f9", null ],
+    [ "Register", "dc/d1e/a17928.html#ab956cb95473cf0c5fc9fb2af14fc945e", null ]
 ];

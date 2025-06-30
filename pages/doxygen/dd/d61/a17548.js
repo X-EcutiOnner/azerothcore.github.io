@@ -1,8 +1,6 @@
 var a17548 =
 [
-    [ "Load", "dd/d61/a17548.html#a363d0afcf2f79b8219652de5a3a6d466", null ],
-    [ "PrepareSpellScript", "dd/d61/a17548.html#a8df1abd311a1c32cd6ed296d75566eac", null ],
-    [ "Register", "dd/d61/a17548.html#a61e8f66c7446e0587b5d743f0e6ead92", null ],
-    [ "RelocateDest", "dd/d61/a17548.html#abad4acee4c0898fea6bfb57b8155cab2", null ],
-    [ "SelectTransport", "dd/d61/a17548.html#a0564852176d80ee6593baa3abb18238a", null ]
+    [ "npc_gunship_boarding_add_realAI", "da/d6d/a17552.html", "da/d6d/a17552" ],
+    [ "npc_gunship_boarding_add", "dd/d61/a17548.html#aa80871f80bae7186d3665f73d757e108", null ],
+    [ "GetAI", "dd/d61/a17548.html#ad7e173bffccca6d852ba545427235447", null ]
 ];

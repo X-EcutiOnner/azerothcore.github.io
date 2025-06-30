@@ -1,6 +1,9 @@
 var a21896 =
 [
-    [ "HandleOnEffectRemove", "db/dde/a21896.html#a5aeae7d8fc2fb8c8a1ce446ba1887c51", null ],
-    [ "PrepareAuraScript", "db/dde/a21896.html#af415e4d7ea0b4b881af94eb7ea0c3f4c", null ],
-    [ "Register", "db/dde/a21896.html#a242faa8822f9cdb7762d8ec3b6245b30", null ]
+    [ "npc_wounded_skirmisher", "db/dde/a21896.html#a30fe2d901df0cfd9b66f3dbd6a1e6aea", null ],
+    [ "Initialize", "db/dde/a21896.html#ae5fab920fcb16b57e0ed53a1177d319b", null ],
+    [ "JustEngagedWith", "db/dde/a21896.html#a80357b71a1eccdcdce8c8bea87de1b66", null ],
+    [ "Reset", "db/dde/a21896.html#acca266640c099718d2a0fd4f6a3c47ab", null ],
+    [ "SpellHit", "db/dde/a21896.html#a891e879af5da1f181c94e528c59a81f1", null ],
+    [ "UpdateAI", "db/dde/a21896.html#a52f8e7f8df05504cad4b4438c50814a4", null ]
 ];

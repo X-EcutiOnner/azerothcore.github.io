@@ -1,5 +1,6 @@
 var a19228 =
 [
-    [ "achievement_intense_cold", "d2/ddc/a19228.html#a2377357d6bfc03e5b91354428d3da3de", null ],
-    [ "OnCheck", "d2/ddc/a19228.html#ab8a774af80a7fb1764df97c9eea57ffc", null ]
+    [ "npc_eoe_wyrmrest_skytalonAI", "d3/dbf/a19232.html", "d3/dbf/a19232" ],
+    [ "npc_eoe_wyrmrest_skytalon", "d2/ddc/a19228.html#a55685de624b277840f8fc0c397b8aebf", null ],
+    [ "GetAI", "d2/ddc/a19228.html#a01a384ab10cfccbd159f116e0bef52e8", null ]
 ];

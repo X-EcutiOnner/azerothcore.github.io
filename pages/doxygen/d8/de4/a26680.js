@@ -1,6 +1,6 @@
 var a26680 =
 [
-    [ "HandleAuraApply", "d8/de4/a26680.html#a0c17d42095cac3d4cf304df1fc83acbf", null ],
-    [ "PrepareAuraScript", "d8/de4/a26680.html#a6eedadacba366104fdca2791862be216", null ],
-    [ "Register", "d8/de4/a26680.html#a5869dc6372d479d85da1118d0c9ec8e6", null ]
+    [ "HandleKnockBack", "d8/de4/a26680.html#abad9f9293260a3e99be98b43aabb321b", null ],
+    [ "PrepareSpellScript", "d8/de4/a26680.html#a65787b78165631898458264e6ee310f4", null ],
+    [ "Register", "d8/de4/a26680.html#ade4f3cb676f1cc92b0e75f85367dc3e0", null ]
 ];

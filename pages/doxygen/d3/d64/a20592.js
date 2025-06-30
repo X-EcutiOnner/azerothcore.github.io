@@ -1,6 +1,6 @@
 var a20592 =
 [
-    [ "OnPeriodic", "d3/d64/a20592.html#a418b37f00a8a48d0a4362fd5381797bf", null ],
-    [ "PrepareAuraScript", "d3/d64/a20592.html#a60c0d5d67de6e3224cba34599acc3e69", null ],
-    [ "Register", "d3/d64/a20592.html#a92fb0160f7a16e6cb6b9c928b744f5e0", null ]
+    [ "boss_thorim_pillarAI", "dd/d9a/a20596.html", "dd/d9a/a20596" ],
+    [ "boss_thorim_pillar", "d3/d64/a20592.html#a7a2cbafc1d359d7b33bb735342cdfe2d", null ],
+    [ "GetAI", "d3/d64/a20592.html#af95d5e819292af9b54a022674b74af70", null ]
 ];

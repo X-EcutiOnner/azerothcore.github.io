@@ -1,6 +1,5 @@
 var a22368 =
 [
-    [ "npc_crusade_recruitAI", "de/d72/a22372.html", "de/d72/a22372" ],
-    [ "npc_crusade_recruit", "dd/da0/a22368.html#a6e130f153c506255ef5ece1baf006028", null ],
-    [ "GetAI", "dd/da0/a22368.html#a412f0d153676758fda8c1f7f1e9dda44", null ]
+    [ "achievement_wg_within_our_grasp", "dd/da0/a22368.html#a9edbd15bc6989c6948e21391a683d22d", null ],
+    [ "OnCheck", "dd/da0/a22368.html#a10b659c4b52322536333e3d191796c27", null ]
 ];

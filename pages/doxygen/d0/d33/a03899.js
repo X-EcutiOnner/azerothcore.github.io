@@ -1,7 +1,6 @@
 var a03899 =
 [
-    [ "inventory_commandscript", "d9/d6f/a11627.html", "d9/d6f/a11627" ],
-    [ "AddSC_inventory_commandscript", "d0/d33/a03899.html#a8917ab2c5001702c3dc7a14313dbc562", null ],
-    [ "bagSpecsColors", "d0/d33/a03899.html#aabf9a2b965ae6153eb18635be4468eb6", null ],
-    [ "bagSpecsToString", "d0/d33/a03899.html#ac004d76eb746ea415b16f1b512a057b6", null ]
+    [ "event_commandscript", "d6/d12/a11608.html", "d6/d12/a11608" ],
+    [ "EventEntry", "d0/d33/a03899.html#accd9dac141ffd4618bb7d3f69e8eb716", null ],
+    [ "AddSC_event_commandscript", "d0/d33/a03899.html#a4f3834f706dcb17ca67ce6513f6aecad", null ]
 ];

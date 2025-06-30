@@ -1,9 +1,6 @@
 var a15428 =
 [
-    [ "npc_thrall_warchiefAI", "d6/d10/a15432.html", "d6/d10/a15432" ],
-    [ "npc_thrall_warchief", "d5/dd1/a15428.html#a3958f0b444537ac8a5ebf55de44e3590", null ],
-    [ "GetAI", "d5/dd1/a15428.html#a4fc3d5410b959b4289f1ced17d412c03", null ],
-    [ "OnGossipHello", "d5/dd1/a15428.html#a5cd40c062fb07d2ddfffdc159f2935d3", null ],
-    [ "OnGossipSelect", "d5/dd1/a15428.html#a63367ca0b252c148f625b305575fd768", null ],
-    [ "OnQuestReward", "d5/dd1/a15428.html#aea53462e94121ad44e366d2743807c3c", null ]
+    [ "HandleDummy", "d5/dd1/a15428.html#af9c26a7e5f6cba4f1146cb626dbcf8ed", null ],
+    [ "PrepareSpellScript", "d5/dd1/a15428.html#adc581ed46587afcc8be3800ae79105f6", null ],
+    [ "Register", "d5/dd1/a15428.html#a7d09808ea2fdec450fcd129e996bd245", null ]
 ];

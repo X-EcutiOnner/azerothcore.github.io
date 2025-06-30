@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['characterdatabasecleaner_0',['CharacterDatabaseCleaner',['../df/d15/a04833.html',1,'']]]
+  ['characterdatabasecleaner_0',['CharacterDatabaseCleaner',['../df/dcf/a04842.html',1,'']]]
 ];

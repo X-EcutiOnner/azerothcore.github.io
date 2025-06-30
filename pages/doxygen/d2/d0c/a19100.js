@@ -1,6 +1,6 @@
 var a19100 =
 [
-    [ "DespawnTime", "d2/d0c/a19100.html#ae14c357137f16666c74e5f7e3f77aed5", null ],
-    [ "End", "d2/d0c/a19100.html#ac87ea314ccf946eb1fa35985e35c81fd", null ],
-    [ "Start", "d2/d0c/a19100.html#a985271de503fa704a58abe3e64c3b268", null ]
+    [ "boss_sapphironAI", "de/d15/a19104.html", "de/d15/a19104" ],
+    [ "boss_sapphiron", "d2/d0c/a19100.html#a87a70204dd727f92d035ad98e2ab9010", null ],
+    [ "GetAI", "d2/d0c/a19100.html#a31209287faa721bef341388ae4383b6c", null ]
 ];

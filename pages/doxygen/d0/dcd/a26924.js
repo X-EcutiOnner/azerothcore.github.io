@@ -1,5 +1,7 @@
 var a26924 =
 [
-    [ "achievement_bg_ic_mowed_down", "d0/dcd/a26924.html#ab05387d1e14958e87123bd0fc2188445", null ],
-    [ "OnCheck", "d0/dcd/a26924.html#a385e09c605084900f374090e5e19c24f", null ]
+    [ "CheckProc", "d0/dcd/a26924.html#a957f8837b5613a3bfd8200ded3529c54", null ],
+    [ "HandleEffectProc", "d0/dcd/a26924.html#a54810a897e535558d060119e3de6537b", null ],
+    [ "PrepareAuraScript", "d0/dcd/a26924.html#a37950bfd846e1c2c550a108461941a26", null ],
+    [ "Register", "d0/dcd/a26924.html#a16c273043e81fd163fb7c3f517ee6f4c", null ]
 ];

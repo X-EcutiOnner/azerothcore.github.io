@@ -1,6 +1,6 @@
 var a19616 =
 [
-    [ "go_celestial_planetarium_accessAI", "d0/dbf/a19620.html", "d0/dbf/a19620" ],
-    [ "go_celestial_planetarium_access", "d4/dcf/a19616.html#a20b7c895dd0fc2cb37bf3c113bf91278", null ],
-    [ "GetAI", "d4/dcf/a19616.html#a4fc9ac64f7dceefbdda02297f7dfc42b", null ]
+    [ "instance_halls_of_stone_InstanceMapScript", "d0/dbf/a19620.html", "d0/dbf/a19620" ],
+    [ "instance_halls_of_stone", "d4/dcf/a19616.html#ad0237cfaf2e48036f45181fd7746df2b", null ],
+    [ "GetInstanceScript", "d4/dcf/a19616.html#a784906c7710a216016101cf7a6a915f3", null ]
 ];

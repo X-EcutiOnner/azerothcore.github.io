@@ -1,5 +1,13 @@
 var a15472 =
 [
-    [ "go_crystalline_tear", "d8/dcc/a15472.html#a9e19c6538ecd1a758f2639171321d965", null ],
-    [ "OnQuestAccept", "d8/dcc/a15472.html#a4efd6b2b8ca37462ba3a26d05f01ec2d", null ]
+    [ "npc_shenthulAI", "d8/dcc/a15472.html#ae056474022c27be5565bf018a1b56f0b", null ],
+    [ "JustEngagedWith", "d8/dcc/a15472.html#acb202ef530bc11ea807f580ff5dfc621", null ],
+    [ "ReceiveEmote", "d8/dcc/a15472.html#ab2ddc3e447b36cb0fceffdaff0fca592", null ],
+    [ "Reset", "d8/dcc/a15472.html#af077e96eb8bf89af2d6eb79907444a17", null ],
+    [ "UpdateAI", "d8/dcc/a15472.html#a2ae643c11c6ea3808be922de96a24e8f", null ],
+    [ "CanEmote", "d8/dcc/a15472.html#a920209c374e611e96347d209337c044f", null ],
+    [ "CanTalk", "d8/dcc/a15472.html#a82ea8d2ee50538135add120be7616f86", null ],
+    [ "PlayerGUID", "d8/dcc/a15472.html#a4b262388aca789d19231426a8cb73379", null ],
+    [ "ResetTimer", "d8/dcc/a15472.html#a475a141d639f0136ac943e6afb1ecd15", null ],
+    [ "SaluteTimer", "d8/dcc/a15472.html#ae76b4bbde77b6029a788abfbbbe84df8", null ]
 ];

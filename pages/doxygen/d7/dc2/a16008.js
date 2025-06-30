@@ -1,7 +1,11 @@
 var a16008 =
 [
-    [ "HandleDummy", "d7/dc2/a16008.html#ad0782bfbd977954aac6170ee9111aef6", null ],
-    [ "PrepareSpellScript", "d7/dc2/a16008.html#ac456524856c4a3c4913423693a8fd50c", null ],
-    [ "Register", "d7/dc2/a16008.html#a82d88c5dac164eb9dee9883a91edd0df", null ],
-    [ "Validate", "d7/dc2/a16008.html#a2cf4ee02293cee5e383e99efe14e0008", null ]
+    [ "boss_general_zarithrianAI", "d7/dc2/a16008.html#a4168a5883052810d137f59d3b104bc24", null ],
+    [ "CheckEvadeIfOutOfCombatArea", "d7/dc2/a16008.html#a22f6ff041e61c94df73a938162fa26f5", null ],
+    [ "JustDied", "d7/dc2/a16008.html#a49be533142c82a95a136dc2dcbf4843c", null ],
+    [ "JustEngagedWith", "d7/dc2/a16008.html#a9ec34e473b9d478277f472ab3bb7c7ef", null ],
+    [ "JustSummoned", "d7/dc2/a16008.html#acb694d20b35d57a315aa4662562af210", null ],
+    [ "KilledUnit", "d7/dc2/a16008.html#ad385477740b728e63acff7c184df3c09", null ],
+    [ "Reset", "d7/dc2/a16008.html#a3093369d5f3c7e2a1a5828671ac0af0a", null ],
+    [ "UpdateAI", "d7/dc2/a16008.html#a3a7e578d64a760cd38712c725eecc97d", null ]
 ];

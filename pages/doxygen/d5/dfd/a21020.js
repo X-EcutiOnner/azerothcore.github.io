@@ -1,18 +1,18 @@
 var a21020 =
 [
-    [ "boss_palehoofAI", "d5/dfd/a21020.html#aa49a4e6e2f942ab0efeb83d0fe672f9f", null ],
-    [ "DoAction", "d5/dfd/a21020.html#ae94606f2b382e07cd3f4b9be48b1ca2d", null ],
-    [ "JustDied", "d5/dfd/a21020.html#a1484b82afc3072d1b1fc5e2c9b0204b0", null ],
-    [ "JustEngagedWith", "d5/dfd/a21020.html#abd00a0b514c11d8fa3786e1e61333138", null ],
-    [ "JustReachedHome", "d5/dfd/a21020.html#aae6517c4816eb9bbc5dfe245d69edd87", null ],
-    [ "KilledUnit", "d5/dfd/a21020.html#abf68aba465731a0ea7de305861ad4875", null ],
-    [ "MoveInLineOfSight", "d5/dfd/a21020.html#ae969093bfb3466e332c1de7e65ceeb5d", null ],
-    [ "Reset", "d5/dfd/a21020.html#a61d1cedcc30fbccbebbdc768d6a18900", null ],
-    [ "UpdateAI", "d5/dfd/a21020.html#ac7da92990a0d48e418115943ba7bdd51", null ],
-    [ "Counter", "d5/dfd/a21020.html#a5b8c197cd3c482d5a4d5a14f9c5019e7", null ],
-    [ "events", "d5/dfd/a21020.html#a18325a2a5cca9910bf7e35a21c16400b", null ],
-    [ "m_pInstance", "d5/dfd/a21020.html#abffb9efc207c98a30e1bfcf7b87fdb6d", null ],
-    [ "OrbGUID", "d5/dfd/a21020.html#ab75e8eea72bde1bd15fe40e347373ab4", null ],
-    [ "RandomUnfreeze", "d5/dfd/a21020.html#a02d34d4cd26706e1108c99cc0b4afbba", null ],
-    [ "summons", "d5/dfd/a21020.html#a098d738ccbc2764867643bf4336c04da", null ]
+    [ "boss_ingvar_the_plunderer", "d5/dfd/a21020.html#af37159882b0faabe46e6f7c26ea84913", null ],
+    [ "DamageTaken", "d5/dfd/a21020.html#a14ec746bb57e77373e4c3f924dd9f952", null ],
+    [ "EnterEvadeMode", "d5/dfd/a21020.html#a5bd8e575292b487a3381854f5ae87306", null ],
+    [ "FeignDeath", "d5/dfd/a21020.html#afb732c1e7c74e88f63b2c3eee5ba3dd3", null ],
+    [ "JustDied", "d5/dfd/a21020.html#ab3b0ea55dfb6bb90f7d60fec7f2ff8ff", null ],
+    [ "JustEngagedWith", "d5/dfd/a21020.html#aedd8ccb3ab3b89cae9d80443ffa3edaa", null ],
+    [ "JustSummoned", "d5/dfd/a21020.html#a9101d4c988585f221b503971df87621b", null ],
+    [ "KilledUnit", "d5/dfd/a21020.html#ae8d5a148c7089f644db8ee686a04a2a8", null ],
+    [ "Reset", "d5/dfd/a21020.html#a57ecf5f8008714c3f067afe5a2ec2ffe", null ],
+    [ "UpdateAI", "d5/dfd/a21020.html#a59ee4cc1cf9cfe95ac77bdb637d01f71", null ],
+    [ "events", "d5/dfd/a21020.html#ae2155e079dc748bfa1026a05916a8534", null ],
+    [ "pInstance", "d5/dfd/a21020.html#ad4855d14fe94168f454a6b77a1ce5fde", null ],
+    [ "summons", "d5/dfd/a21020.html#a687b5cd37794ff530180f6ba5c208162", null ],
+    [ "ThrowGUID", "d5/dfd/a21020.html#af3b3c0ff36d28a3a7151a27a13879fe2", null ],
+    [ "ValkyrGUID", "d5/dfd/a21020.html#a556e9720346ba84a858170bfd8e9f358", null ]
 ];

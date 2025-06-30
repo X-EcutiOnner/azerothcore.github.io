@@ -1,6 +1,6 @@
 var a16716 =
 [
-    [ "entry", "db/dcc/a16716.html#a80e1510436336f4ed17748a06b27178d", null ],
-    [ "pathId", "db/dcc/a16716.html#a0b7e499d633e11b314852fb1154ea8e6", null ],
-    [ "startPosition", "db/dcc/a16716.html#ac8c0dd74d76778aa2f5948b5c8c5ada4", null ]
+    [ "PrepareSpellScript", "db/dcc/a16716.html#a5ed268ac2642b2df3c5eb1dc93a675fc", null ],
+    [ "RecalculateDamage", "db/dcc/a16716.html#a3fae6ceaa67716004c664dd40a4679ed", null ],
+    [ "Register", "db/dcc/a16716.html#a1a740e697fc84f5f035f2ec251872009", null ]
 ];

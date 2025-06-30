@@ -1,7 +1,9 @@
 var a22656 =
 [
-    [ "npc_blade_of_azzinoth", "df/d8e/a22656.html#a55afe56313c237afe8080662b2ed2dba", null ],
-    [ "DoAction", "df/d8e/a22656.html#a8e746da7672c0177c4b6c91b1e9d2eb5", null ],
-    [ "IsSummonedBy", "df/d8e/a22656.html#af2925da1235b809ee81469fe32ab0f92", null ],
-    [ "JustSummoned", "df/d8e/a22656.html#a501e2d1ae9af813fd9c30395e7774983", null ]
+    [ "instance_shadow_labyrinth_InstanceMapScript", "df/d8e/a22656.html#ada5f19c96bfe623b110389ede032ef53", null ],
+    [ "GetData", "df/d8e/a22656.html#ad876ebd581c470f5a3075129076bd1fb", null ],
+    [ "Initialize", "df/d8e/a22656.html#a9dc908fdaef98aa6eb81fd1709eee9e4", null ],
+    [ "OnCreatureCreate", "df/d8e/a22656.html#a118b4a7a7c872327ec2868c5b0417636", null ],
+    [ "OnUnitDeath", "df/d8e/a22656.html#a4275afcc93c5281d9865601a2d9dabaa", null ],
+    [ "_ritualistsAliveCount", "df/d8e/a22656.html#a7752d5bfe1d1c5eef2c450df7677a69e", null ]
 ];

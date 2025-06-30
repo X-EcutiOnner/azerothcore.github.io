@@ -1,6 +1,7 @@
 var a19064 =
 [
-    [ "boss_thaddiusAI", "d5/dad/a19068.html", "d5/dad/a19068" ],
-    [ "boss_thaddius", "d1/dab/a19064.html#aff97b030b861feb646e1b22f60ee3605", null ],
-    [ "GetAI", "d1/dab/a19064.html#acf841c6897396f517a74932fc3480e69", null ]
+    [ "OnPeriodic", "d1/dab/a19064.html#ae685e9d36b85af8a7e33cefbd439a2f4", null ],
+    [ "PrepareAuraScript", "d1/dab/a19064.html#a1362103840db4b3c40ef7d6b0aa5226c", null ],
+    [ "Register", "d1/dab/a19064.html#a39b03ebd7f6233f373f52e34f18dad10", null ],
+    [ "Validate", "d1/dab/a19064.html#a54cfed486827216817adb740efa6646e", null ]
 ];

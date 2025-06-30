@@ -1,11 +1,8 @@
 var a28032 =
 [
-    [ "Displayid", "da/da6/a28032.html#a4aa3c391401f39d6f4a595f4dff0668b", null ],
-    [ "filename", "da/da6/a28032.html#a0cee5b90a15b39e1ff49231e332cc320", null ],
-    [ "maxX", "da/da6/a28032.html#a10563ae885d34e516825a18db95b40e7", null ],
-    [ "maxY", "da/da6/a28032.html#a711286df6d2bd74246dee2170052c17a", null ],
-    [ "maxZ", "da/da6/a28032.html#acb74e32790b2c60cca5faef1caa225e4", null ],
-    [ "minX", "da/da6/a28032.html#a77466c3aabd4e7b6b7aa8b5f9f2a82da", null ],
-    [ "minY", "da/da6/a28032.html#a7168f5b3229bd27edde78e88bf7dc20a", null ],
-    [ "minZ", "da/da6/a28032.html#ac88aefc2530212b9dff10e018c4e9305", null ]
+    [ "difficulty", "da/da6/a28032.html#a2a04df701c13dc49053b09a9587a72a8", null ],
+    [ "encounterIndex", "da/da6/a28032.html#a3d35560824a3aaeecb8db4bf8628ebfd", null ],
+    [ "encounterName", "da/da6/a28032.html#af4f26f56526b945e392ddaf6b2d43fa1", null ],
+    [ "id", "da/da6/a28032.html#aa9828ccc644a11f9cb35fbcc7d31a827", null ],
+    [ "mapId", "da/da6/a28032.html#a61c1ac724c8eb96907d2ea9402a8f9ce", null ]
 ];

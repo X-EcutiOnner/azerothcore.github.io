@@ -1,7 +1,7 @@
 var a18656 =
 [
-    [ "HandleEffectPeriodic", "de/d99/a18656.html#a208c4d59e20cd802cf2f4643fa0d6253", null ],
-    [ "PrepareAuraScript", "de/d99/a18656.html#af1d284c4686f739b02b350a6c0a166c2", null ],
-    [ "Register", "de/d99/a18656.html#a006a97823ac07346771ec4ab61bd0763", null ],
-    [ "Validate", "de/d99/a18656.html#ae1f5555dcadb48ba59bf9571073f4a99", null ]
+    [ "HandleQuestComplete", "de/d99/a18656.html#a5f1e6c4358df4e0910b2227f90b39d24", null ],
+    [ "HandleScript", "de/d99/a18656.html#a309052e9b7c3d3747d15ab5e9c0d25fd", null ],
+    [ "PrepareSpellScript", "de/d99/a18656.html#ac9b2786ba2dbb8d1c74af05153bb0a6f", null ],
+    [ "Register", "de/d99/a18656.html#a3258d4517cfc758080691bab429624d7", null ]
 ];

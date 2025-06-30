@@ -1,9 +1,9 @@
 var a17420 =
 [
-    [ "npc_stinky_iccAI", "d4/d17/a17420.html#a545356eb2b77cfae7af3d470e95ea2d6", null ],
-    [ "JustDied", "d4/d17/a17420.html#a7fa392980e2d30c935b79377df8dc694", null ],
-    [ "JustEngagedWith", "d4/d17/a17420.html#afd1cd4fc387ff7cdad58c9db60841c7a", null ],
-    [ "Reset", "d4/d17/a17420.html#ac66e3398598576fdc889a7b56646eecf", null ],
-    [ "UpdateAI", "d4/d17/a17420.html#af6e04824ea1682c529e8579a306d34ca", null ],
-    [ "events", "d4/d17/a17420.html#a3ab7ae11b7f5ef5877febbd384014ce2", null ]
+    [ "FilterTargetsInitial", "d4/d17/a17420.html#acebf4a9f8c4cdd6111ae816d7c24b00f", null ],
+    [ "FilterTargetsSubsequent", "d4/d17/a17420.html#a11732039155235c287757980129d5a8e", null ],
+    [ "Load", "d4/d17/a17420.html#a467272ccd10ec0aff7ad00a567c0049c", null ],
+    [ "PrepareSpellScript", "d4/d17/a17420.html#a6f97c9c1dc71a87d2a82de646809f063", null ],
+    [ "Register", "d4/d17/a17420.html#a56a4e65df08a95fddde75162358155c2", null ],
+    [ "_target", "d4/d17/a17420.html#abdd93e8e80826c71ead1d9e44aaf865a", null ]
 ];

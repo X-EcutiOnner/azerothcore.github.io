@@ -1,5 +1,5 @@
 var a26992 =
 [
-    [ "AreaTrigger_at_stormwright_shelf", "d2/d5a/a26992.html#a97cdf51a8992b3d9edc138351770fd75", null ],
-    [ "OnTrigger", "d2/d5a/a26992.html#ab635f9328b35f3570211cf6ffc60a4c6", null ]
+    [ "achievement_killed_exp_or_honor_target", "d2/d5a/a26992.html#aad432878c97af698dd1cc4019d716281", null ],
+    [ "OnCheck", "d2/d5a/a26992.html#ace8fc68ebb73e39626797be4caa45a3c", null ]
 ];

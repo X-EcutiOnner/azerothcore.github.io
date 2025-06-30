@@ -1,9 +1,6 @@
 var a16136 =
 [
-    [ "npc_memoryAI", "d2/ddc/a16136.html#ad927d377d60b44f43808469042f5feb9", null ],
-    [ "JustDied", "d2/ddc/a16136.html#a7b0484919d671877f29dfa05ca1265d9", null ],
-    [ "Reset", "d2/ddc/a16136.html#a985c51bbfa2cceeb7601432491253aaf", null ],
-    [ "UpdateAI", "d2/ddc/a16136.html#a6cb74389f5aea91d2062e007ea08acd7", null ],
-    [ "events", "d2/ddc/a16136.html#a2ed2993e89728a3723456a67e13581f7", null ],
-    [ "pInstance", "d2/ddc/a16136.html#a31bcb5041844ea5e3a076ad1366897e1", null ]
+    [ "boss_saviana_ragefireAI", "d3/d8c/a16140.html", "d3/d8c/a16140" ],
+    [ "boss_saviana_ragefire", "d2/ddc/a16136.html#a5964bbc510355a8b1fd08bd5f9f5f8c0", null ],
+    [ "GetAI", "d2/ddc/a16136.html#a0a0073d8710af066d9711636f4d5b01e", null ]
 ];

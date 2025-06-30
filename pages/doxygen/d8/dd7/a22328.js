@@ -1,14 +1,8 @@
 var a22328 =
 [
-    [ "npc_finklesteinAI", "d8/dd7/a22328.html#a075481689af110f8c20cd5ca13258ba3", null ],
-    [ "ClearPlayerOnTask", "d8/dd7/a22328.html#ad6ec9c020ba2f8eae9250a89fbe9490d", null ],
-    [ "GetTaskAura", "d8/dd7/a22328.html#ae3a1b7fbdd9aba64e8f853f53d9c261c", null ],
-    [ "GetTaskCounter", "d8/dd7/a22328.html#a240e8f556176b9571bd08407276402be", null ],
-    [ "GetTaskItemEntry", "d8/dd7/a22328.html#a08a3005db6d192663a835b9ee192352b", null ],
-    [ "GetTaskItemName", "d8/dd7/a22328.html#adce990629aa1833dc07c7dbb1297cead", null ],
-    [ "IsPlayerOnTask", "d8/dd7/a22328.html#ad815f0d79ab73d95e9fbf3a659aea2ce", null ],
-    [ "RightClickCauldron", "d8/dd7/a22328.html#a71fea2fdf5079fbc1d8baa72e7e4ae82", null ],
-    [ "SelectRandomCode", "d8/dd7/a22328.html#a16c9ddf6f2f858f4147a0188e0df7250", null ],
-    [ "StartNextTask", "d8/dd7/a22328.html#a89c5c3a90fad1719bc4d2e2cb611e8c7", null ],
-    [ "questList", "d8/dd7/a22328.html#a5c3a3237579721b94dd433841b83bb02", null ]
+    [ "go_wg_vehicle_teleporterAI", "d8/dd7/a22328.html#af84e73765b1a4d810b41613824999186", null ],
+    [ "IsFriendly", "d8/dd7/a22328.html#adca817c8919958db888d5e9c759ad545", null ],
+    [ "IsValidVehicle", "d8/dd7/a22328.html#a3f790a651d5f0c67c5d528828a6bb398", null ],
+    [ "UpdateAI", "d8/dd7/a22328.html#a8d8197cbfa6ab36d269f18020acbc565", null ],
+    [ "_checkTimer", "d8/dd7/a22328.html#a9cbb42b4f29f94e41e80caccd87d95f4", null ]
 ];

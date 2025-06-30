@@ -1,10 +1,10 @@
 var a28500 =
 [
-    [ "plane", "dc/dde/a28508.html", "dc/dde/a28508" ],
-    [ "prepareLoadedData", "d1/d4d/a28500.html#a29dc30be1cb7f5439e023865ff5a4853", null ],
-    [ "fcc", "d1/d4d/a28500.html#a8c64958fb4e18bc3bcfaf7dbfde9f178", null ],
-    [ "fcc_txt", "d1/d4d/a28500.html#ab768fb1ba27812060cf2edeb5f4b876c", null ],
-    [ "max", "d1/d4d/a28500.html#afadebfc1361985b6f5d45c27e22cb303", null ],
-    [ "min", "d1/d4d/a28500.html#ac3ebf1557841088ef8912b68fe6df908", null ],
-    [ "size", "d1/d4d/a28500.html#af92420cfd862486c73c35ac8a9f9fdee", null ]
+    [ "adt_CELLS", "dc/dde/a28508.html", "dc/dde/a28508" ],
+    [ "getMCNK", "d1/d4d/a28500.html#a8330b7cb405146399d3d20e6952a8b40", null ],
+    [ "prepareLoadedData", "d1/d4d/a28500.html#adc7346499aa51f4422c810b7e757f835", null ],
+    [ "cells", "d1/d4d/a28500.html#a434ed0ca354ec27d5334cc63e5650038", null ],
+    [ "fcc", "d1/d4d/a28500.html#ae7d4acf20e102b6b8f19ded3fe219a7d", null ],
+    [ "fcc_txt", "d1/d4d/a28500.html#a514bae36851623daf76b26a9d63f1ae0", null ],
+    [ "size", "d1/d4d/a28500.html#a1a40f52ea9eef3add8207da89cb71210", null ]
 ];

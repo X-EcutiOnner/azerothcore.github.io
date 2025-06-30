@@ -1,10 +1,9 @@
 var a25580 =
 [
-    [ "spell_item_defibrillate", "db/d27/a25580.html#ab64fdd36fc646ca0bcb2010380199ede", null ],
-    [ "HandleScript", "db/d27/a25580.html#a7abbc5b8e5c5231d5c6809c45b815b69", null ],
-    [ "PrepareSpellScript", "db/d27/a25580.html#a6a7ad6c9bb9bee3b093bd06b1b259468", null ],
-    [ "Register", "db/d27/a25580.html#ad2faa26a2874f68e8e419e59cafbf10b", null ],
-    [ "Validate", "db/d27/a25580.html#ad871a6bef7ba074f32abe1bf062dffe1", null ],
-    [ "_chance", "db/d27/a25580.html#a680092f30ebc6b322e5d01a1100b308c", null ],
-    [ "_failSpell", "db/d27/a25580.html#a4cb3e7f0b0b85c57f27fe2f3ab70647b", null ]
+    [ "spell_item_trigger_spell", "db/d27/a25580.html#a619e9a5233e36157cbdaba70a3ba80da", null ],
+    [ "HandleDummy", "db/d27/a25580.html#a49613255eea28e34cf5ff8a06798f89a", null ],
+    [ "PrepareSpellScript", "db/d27/a25580.html#a78903f92c30fb23ff7297f7fa16c4861", null ],
+    [ "Register", "db/d27/a25580.html#ab9abd9f01ce37c23d6502e6d86e3f998", null ],
+    [ "Validate", "db/d27/a25580.html#a2f2df93e8f9d0e51273560665ea5c245", null ],
+    [ "_triggeredSpellId", "db/d27/a25580.html#a610c5ac434fe788120ed101f7bf58f63", null ]
 ];

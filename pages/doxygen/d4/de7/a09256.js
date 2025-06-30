@@ -1,10 +1,8 @@
 var a09256 =
 [
-    [ "AnyDeadUnitObjectInRangeCheck", "d4/de7/a09256.html#ad51c7d9c256d8d769e7e5df2a618f233", null ],
-    [ "operator()", "d4/de7/a09256.html#a71355418a935e1e4c4f5294c0e6a244f", null ],
-    [ "operator()", "d4/de7/a09256.html#ae885f49537043421a92b44c201bec358", null ],
-    [ "operator()", "d4/de7/a09256.html#a92b2dcfedf97677e84f46ee0e3affb91", null ],
-    [ "operator()", "d4/de7/a09256.html#ae7a76a9bcc28c6e4705a2885b02be20d", null ],
-    [ "i_range", "d4/de7/a09256.html#a1a95cfd469f27284e6ff35e9856bddcb", null ],
-    [ "i_searchObj", "d4/de7/a09256.html#acf10f61f95961ff4b9fd4a8c162fa029", null ]
+    [ "PlayerListSearcher", "d4/de7/a09256.html#a82520531c26a6c9645956739538cd286", null ],
+    [ "Visit", "d4/de7/a09256.html#a5cec285c685fce6ac215ac0cde740168", null ],
+    [ "Visit", "d4/de7/a09256.html#a87980d05e12069a42baea27ee0e937d3", null ],
+    [ "i_check", "d4/de7/a09256.html#ad49658237a1e6bf54852d4fc127ea660", null ],
+    [ "i_phaseMask", "d4/de7/a09256.html#ae61e586baa621b0dbd15d453d1320091", null ]
 ];

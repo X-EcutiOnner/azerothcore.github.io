@@ -1,6 +1,6 @@
 var a15956 =
 [
-    [ "boss_general_zarithrianAI", "db/d6b/a15960.html", "db/d6b/a15960" ],
-    [ "boss_general_zarithrian", "d8/d67/a15956.html#a030c53b6ef1d75027ddfd298d49ab330", null ],
-    [ "GetAI", "d8/d67/a15956.html#a22ba4e0769dd9404ae043fb9c16233ff", null ]
+    [ "instance_obsidian_sanctum_InstanceMapScript", "db/d6b/a15960.html", "db/d6b/a15960" ],
+    [ "instance_obsidian_sanctum", "d8/d67/a15956.html#a6cf2121c4167156f5748c144372b3c0b", null ],
+    [ "GetInstanceScript", "d8/d67/a15956.html#a67acb36f65c1bc3d6eca59bf71a5c220", null ]
 ];

@@ -1,8 +1,7 @@
 var a15368 =
 [
-    [ "FilterTargets", "d3/d9a/a15368.html#a47b8055fa1b28968e8323ca98613aa83", null ],
-    [ "HandleScript", "d3/d9a/a15368.html#a8f7984e510d8947a2ae4b0734409866b", null ],
-    [ "PrepareSpellScript", "d3/d9a/a15368.html#a5c12caf56e95a9f7960ed9f4a3945c7c", null ],
-    [ "Register", "d3/d9a/a15368.html#adf76a5d9145f88aad5b3dd164fa4fcc4", null ],
-    [ "Validate", "d3/d9a/a15368.html#aa3f9c6418eb804a2ddf235beb8491a19", null ]
+    [ "npc_aged_dying_ancient_kodoAI", "d3/d9a/a15368.html#aaed19d0c915891d8afecda7df75a8a75", null ],
+    [ "JustRespawned", "d3/d9a/a15368.html#a9353ac81b0c209a56313b52f2257ddd2", null ],
+    [ "MoveInLineOfSight", "d3/d9a/a15368.html#a295d4bef97b97c7deb31a81274f0818d", null ],
+    [ "SpellHit", "d3/d9a/a15368.html#a021b82aa6bd2e118fe810f18349fda42", null ]
 ];

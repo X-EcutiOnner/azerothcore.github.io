@@ -1,6 +1,6 @@
 var a17260 =
 [
-    [ "PrepareSpellScript", "d2/d70/a17260.html#a86609d6cd708de9ead02c6134cbb6f64", null ],
-    [ "Register", "d2/d70/a17260.html#aceb3da4aec68cb44bcbee36f599afd62", null ],
-    [ "SetDest", "d2/d70/a17260.html#a9ed93e44df4e759fda72a63474e01b3b", null ]
+    [ "npc_kinetic_bombAI", "d6/dba/a17264.html", "d6/dba/a17264" ],
+    [ "npc_kinetic_bomb", "d2/d70/a17260.html#abca5a72d3ac0d50a27e604e8e1491957", null ],
+    [ "GetAI", "d2/d70/a17260.html#ae00630d96dc7a93ea13841c1f9e9be3b", null ]
 ];

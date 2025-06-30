@@ -1,5 +1,6 @@
 var a12120 =
 [
-    [ "at_scarshield_infiltrator", "db/db7/a12120.html#a2d1df47353c9a7e0d506b7c54e7be58e", null ],
-    [ "OnTrigger", "db/db7/a12120.html#a607c3ee2bd4716cf1e0499e202d379fc", null ]
+    [ "instance_blackrock_spireMapScript", "d6/d8c/a12124.html", "d6/d8c/a12124" ],
+    [ "instance_blackrock_spire", "db/db7/a12120.html#a3238be88efcdc9669e7e6a1d725649b3", null ],
+    [ "GetInstanceScript", "db/db7/a12120.html#a5ee2cc38a36ce2cd8c1196ce9f687e2a", null ]
 ];

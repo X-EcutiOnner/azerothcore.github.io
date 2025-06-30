@@ -1,7 +1,7 @@
 var a18128 =
 [
-    [ "HandleScript", "d8/d3c/a18128.html#aef02c7f9ee2a5dda9f6b18d8aa386759", null ],
-    [ "PrepareSpellScript", "d8/d3c/a18128.html#acbfd8657da20f2e91a9ef43cab7c4113", null ],
-    [ "Register", "d8/d3c/a18128.html#ad83d563da98ad189f2198a061b1cd50f", null ],
-    [ "Validate", "d8/d3c/a18128.html#a8f371bdbc57624c295efb14e2ca067c5", null ]
+    [ "StartMovementEvent", "d8/d3c/a18128.html#a4f0fd5e835f742c876f37f31bf03c56f", null ],
+    [ "Execute", "d8/d3c/a18128.html#af1a043d953bcffe9341292e85cae2f55", null ],
+    [ "_owner", "d8/d3c/a18128.html#ac2f4166af128a161c471b243144856ba", null ],
+    [ "_summoner", "d8/d3c/a18128.html#afe1f7bcb3569758bc075380a24527067", null ]
 ];

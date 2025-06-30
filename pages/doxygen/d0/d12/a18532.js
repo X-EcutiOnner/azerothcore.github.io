@@ -1,6 +1,6 @@
 var a18532 =
 [
-    [ "npc_captain_arnathAI", "d4/d08/a18536.html", "d4/d08/a18536" ],
-    [ "npc_captain_arnath", "d0/d12/a18532.html#ab96afce64a7714ea84bab932f80c9302", null ],
-    [ "GetAI", "d0/d12/a18532.html#a302ec007389e677011334d78f410207b", null ]
+    [ "CaptainSurviveTalk", "d0/d12/a18532.html#a43a1b1da17ed41ae765aabc47c858f80", null ],
+    [ "Execute", "d0/d12/a18532.html#a871cf08e8c7fced2971cae8abbc20454", null ],
+    [ "_owner", "d0/d12/a18532.html#ac8de506afb4688560ea637918d07b01e", null ]
 ];

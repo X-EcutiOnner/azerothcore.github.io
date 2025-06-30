@@ -1,8 +1,6 @@
 var a15156 =
 [
-    [ "npc_obsidian_nullifier", "d0/dea/a15156.html#a9dbb6d681e348057564750fcd7e8050a", null ],
-    [ "JustEngagedWith", "d0/dea/a15156.html#ad3e30a214a9bcb6ea13d3a78716b5cb1", null ],
-    [ "Reset", "d0/dea/a15156.html#a9897eab3b71dd0a6a2ea598951b095cd", null ],
-    [ "UpdateAI", "d0/dea/a15156.html#a37cf1d335dd3735b262e82828c4f904a", null ],
-    [ "_targetGUIDs", "d0/dea/a15156.html#aaf125742bf9d17ec0b605b78dee39c7c", null ]
+    [ "HandleOnHit", "d0/dea/a15156.html#abf5a21f1c88241024e6d3b3c5bffe449", null ],
+    [ "PrepareSpellScript", "d0/dea/a15156.html#aa78fc03dacb373c5108e6a5d92e035c6", null ],
+    [ "Register", "d0/dea/a15156.html#a1e608d67914c0071a913d96d70c625d6", null ]
 ];

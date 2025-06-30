@@ -1,6 +1,6 @@
 var a18868 =
 [
-    [ "boss_faerlinaAI", "d3/da2/a18872.html", "d3/da2/a18872" ],
-    [ "boss_faerlina", "dc/d93/a18868.html#a86543ac855287e3de2e3ffcde66fb1cb", null ],
-    [ "GetAI", "dc/d93/a18868.html#aed8214323ff5b792d9bd6aae478e7848", null ]
+    [ "npc_four_car_garageAI", "dc/d93/a18868.html#a2eedf5934e12d33cda0ac173d82220d5", null ],
+    [ "JustDied", "dc/d93/a18868.html#a1fba9f03dca2db37b5cb969079b25d22", null ],
+    [ "PassengerBoarded", "dc/d93/a18868.html#a144bc36a5c4ff227c8a7dc146d4167b6", null ]
 ];

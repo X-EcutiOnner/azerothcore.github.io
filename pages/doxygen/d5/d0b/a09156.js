@@ -1,16 +1,13 @@
 var a09156 =
 [
-    [ "MessageDistDeliverer", "d5/d0b/a09156.html#a8f8c9fb2dadaa8c521b5036a94a4c9a4", null ],
-    [ "SendPacket", "d5/d0b/a09156.html#af085a9490dfd5a1e577bda6d8333fe1d", null ],
-    [ "Visit", "d5/d0b/a09156.html#af44878b494b1412f0d08248f6a88fff6", null ],
-    [ "Visit", "d5/d0b/a09156.html#a2e8d0ad4bdc5fc8961d9f67b6a93b69d", null ],
-    [ "Visit", "d5/d0b/a09156.html#a8c56d33ec988bfb6ba078fce00beab1a", null ],
-    [ "Visit", "d5/d0b/a09156.html#a09171ca5e494d7cc4b19340e95367a64", null ],
-    [ "i_distSq", "d5/d0b/a09156.html#a871dda581863f0919f1d5b2f60c2fcd9", null ],
-    [ "i_message", "d5/d0b/a09156.html#ac49c2d8b9120edbafd6b04656a6d2909", null ],
-    [ "i_phaseMask", "d5/d0b/a09156.html#abca07d041f9b45b4002f15dfff6e1c9e", null ],
-    [ "i_source", "d5/d0b/a09156.html#aa65c4e298a1302647fdaad1b1227a3a2", null ],
-    [ "required3dDist", "d5/d0b/a09156.html#abdce98d93c98513a434df80b97c096c6", null ],
-    [ "skipped_receiver", "d5/d0b/a09156.html#a7f92e1c65cdc8346dd4bac47f1ba8b5b", null ],
-    [ "teamId", "d5/d0b/a09156.html#acfda3713bbde51a110cb160f0325f848", null ]
+    [ "VisibleNotifier", "d5/d0b/a09156.html#af6b878aad8873a7e34670af7ed84188e", null ],
+    [ "SendToSelf", "d5/d0b/a09156.html#a95d1c60911cfed9e4f0e034afbf11482", null ],
+    [ "Visit", "d5/d0b/a09156.html#a77d110af6b97c2a4d93ff53a8771273d", null ],
+    [ "Visit", "d5/d0b/a09156.html#a8dafcbc64e004aea196aec47fb2bb175", null ],
+    [ "i_data", "d5/d0b/a09156.html#a6cfba0f042e117cfdb7bdf1f1168c0ce", null ],
+    [ "i_gobjOnly", "d5/d0b/a09156.html#a019182fa8a629d796982f9cc565d9bc3", null ],
+    [ "i_largeOnly", "d5/d0b/a09156.html#a6954721b71a55874c7f708bf822613bd", null ],
+    [ "i_player", "d5/d0b/a09156.html#aaa324b9a9cffd59c7cbab0c08cf68395", null ],
+    [ "i_visibleNow", "d5/d0b/a09156.html#a34d766816baaad7b1b3623360ec9abeb", null ],
+    [ "vis_guids", "d5/d0b/a09156.html#ab1a5c16d224e61ccfb60e3f1e5fdff1c", null ]
 ];

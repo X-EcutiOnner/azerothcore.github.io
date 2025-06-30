@@ -1,6 +1,7 @@
 var a17280 =
 [
-    [ "FilterTargets", "d7/dcd/a17280.html#a7abb4397b5fcf956bf31fa4dc9960ece", null ],
-    [ "PrepareSpellScript", "d7/dcd/a17280.html#a8e9d81b34e05506569f4b910c1958de3", null ],
-    [ "Register", "d7/dcd/a17280.html#aa80980c3f68abcb0fac7a41172f70012", null ]
+    [ "HandleScript", "d7/dcd/a17280.html#a4b1e392acea30a9259e65a75667704c5", null ],
+    [ "Load", "d7/dcd/a17280.html#a9af7bb4defb7c590aaff1a709dad4573", null ],
+    [ "PrepareSpellScript", "d7/dcd/a17280.html#a17301c4ef9623ec04ec3c15dfd4e316f", null ],
+    [ "Register", "d7/dcd/a17280.html#a77632d11a172e5552c0c49de830a1639", null ]
 ];

@@ -1,7 +1,6 @@
 var a23436 =
 [
-    [ "PeriodicTick", "d4/d19/a23436.html#a53541105e40202e4a73ecc38d84e9eca", null ],
-    [ "PrepareAuraScript", "d4/d19/a23436.html#a79c8829a86db535e254db009d5286430", null ],
-    [ "Register", "d4/d19/a23436.html#a58cd762eb10d224bb188aaf167c816b9", null ],
-    [ "Validate", "d4/d19/a23436.html#a0a4a1c0b460f7a0ade6ddbbedc893c6f", null ]
+    [ "CalculateDamage", "d4/d19/a23436.html#a170fb61e3a7358d42cc6506067fb978a", null ],
+    [ "PrepareSpellScript", "d4/d19/a23436.html#a197fce87e22a3e4055cabbb925b13aa1", null ],
+    [ "Register", "d4/d19/a23436.html#aac3c6a6b34af795cb08fc299e763f6a8", null ]
 ];

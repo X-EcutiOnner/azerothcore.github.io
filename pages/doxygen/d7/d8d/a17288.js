@@ -1,6 +1,6 @@
 var a17288 =
 [
-    [ "BloodboltHitCheck", "d7/d8d/a17288.html#a84873f1ec2c1e214e35d32954622e9af", null ],
-    [ "operator()", "d7/d8d/a17288.html#a1eddfd7bbea8def20dcc080413af6364", null ],
-    [ "_ai", "d7/d8d/a17288.html#a0a5d115c464b6e88bc1158cd858bcbec", null ]
+    [ "ChangeSummonPos", "d7/d8d/a17288.html#a2c3d69419762c7f78688a22017a8c535", null ],
+    [ "PrepareSpellScript", "d7/d8d/a17288.html#a97c48254a0d7a0bd4bcf40f614bc5373", null ],
+    [ "Register", "d7/d8d/a17288.html#a9c1aad0131ebe9635c9fdbb3d71c9cdd", null ]
 ];

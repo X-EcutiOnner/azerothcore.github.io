@@ -1,12 +1,7 @@
 var a19468 =
 [
-    [ "boss_krystallusAI", "d1/d8c/a19468.html#adfa2ab8498279937bf497292d6e7cba5", null ],
-    [ "JustDied", "d1/d8c/a19468.html#a5b77186f7c0920142a64a03c508dcc3e", null ],
-    [ "JustEngagedWith", "d1/d8c/a19468.html#aaba17094bfe43c9ad63076f84d10a83a", null ],
-    [ "KilledUnit", "d1/d8c/a19468.html#acf9101c5b776820039fd80e5d6e0c138", null ],
-    [ "RemoveStonedEffect", "d1/d8c/a19468.html#ae8bdb2bca7c01c564adab93f1dd67720", null ],
-    [ "Reset", "d1/d8c/a19468.html#ae163fbd682f09f2a49fa71309284ed3b", null ],
-    [ "UpdateAI", "d1/d8c/a19468.html#a79095e25f1d9dac927f63cef67db60ec", null ],
-    [ "events", "d1/d8c/a19468.html#afcd06280f8c7640ff9a56223f5bf3555", null ],
-    [ "pInstance", "d1/d8c/a19468.html#aec9cf7053476298f72dccf3bd1579c63", null ]
+    [ "OnRemove", "d1/d8c/a19468.html#adf6b3d56199ad5a4545ce3874d1223db", null ],
+    [ "PrepareAuraScript", "d1/d8c/a19468.html#a2d278e60b34870110dab188896109e24", null ],
+    [ "Register", "d1/d8c/a19468.html#ac15847527cc4d162b3b34b8ca8628864", null ],
+    [ "Validate", "d1/d8c/a19468.html#ac573e5bd171c97af1905b4a57a45e1f4", null ]
 ];

@@ -1,9 +1,6 @@
 var a16428 =
 [
-    [ "npc_fel_infernalAI", "d3/d9e/a16428.html#a7f34b34facdfeea3fc3507ad3cf84dda", null ],
-    [ "EnterEvadeMode", "d3/d9e/a16428.html#aedec8729b9be931a74fe00d1aa649848", null ],
-    [ "JustDied", "d3/d9e/a16428.html#a599786069f98231eeb7f9ca809f8e671", null ],
-    [ "Reset", "d3/d9e/a16428.html#a09f408c9250467228b91ef9f6c9544f4", null ],
-    [ "UpdateAI", "d3/d9e/a16428.html#a45075fdaba6d7c04cb526420deb8a0ac", null ],
-    [ "events", "d3/d9e/a16428.html#acf955037c246f7b5f12cc5338b300b63", null ]
+    [ "npc_toc_enh_shamanAI", "d1/d00/a16432.html", "d1/d00/a16432" ],
+    [ "npc_toc_enh_shaman", "d3/d9e/a16428.html#ac328b63a988d2cd8640237b250c338a8", null ],
+    [ "GetAI", "d3/d9e/a16428.html#a4501c9289a06750d8f153f89565b12f3", null ]
 ];

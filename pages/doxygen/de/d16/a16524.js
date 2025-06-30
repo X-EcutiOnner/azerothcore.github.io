@@ -1,7 +1,6 @@
 var a16524 =
 [
-    [ "HandleAfterEffectAbsorb", "de/d16/a16524.html#a6999f9cade8d00da15073c1e1b37d07b", null ],
-    [ "PrepareAuraScript", "de/d16/a16524.html#a2374af6552e5aca9dd01681d5ad06a83", null ],
-    [ "Register", "de/d16/a16524.html#a7478b0448cafc10d2b2498d2fdbd5afc", null ],
-    [ "Validate", "de/d16/a16524.html#a52154be21f31d69e7e9b10e57f8eeb05", null ]
+    [ "boss_dreadscaleAI", "dd/d1c/a16528.html", "dd/d1c/a16528" ],
+    [ "boss_dreadscale", "de/d16/a16524.html#ab3276e515419303358b0ee59bc92c12e", null ],
+    [ "GetAI", "de/d16/a16524.html#ab8c8cebfa6843404338ea5bc3ac8f3f7", null ]
 ];

@@ -1,6 +1,6 @@
 var a19404 =
 [
-    [ "boss_ionarAI", "dc/dbe/a19408.html", "dc/dbe/a19408" ],
-    [ "boss_ionar", "da/d89/a19404.html#a284da7d86f0b386e352587e0321bf465", null ],
-    [ "GetAI", "da/d89/a19404.html#a0c0f28f832458df7326842f04413af5d", null ]
+    [ "HandleDamageCalc", "da/d89/a19404.html#a71b88fbad5acbba47028dd1ff82b4836", null ],
+    [ "PrepareSpellScript", "da/d89/a19404.html#a754da297cd5801616e24bf2d802d0b38", null ],
+    [ "Register", "da/d89/a19404.html#a231f29ea69a354ddb2963cb4ef9a3f4e", null ]
 ];

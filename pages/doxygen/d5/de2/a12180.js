@@ -1,6 +1,6 @@
 var a12180 =
 [
-    [ "boss_ebonrocAI", "dd/d14/a12184.html", "dd/d14/a12184" ],
-    [ "boss_ebonroc", "d5/de2/a12180.html#a3f71b5a687ab10a228e560429b8a4709", null ],
-    [ "GetAI", "d5/de2/a12180.html#acf2dc7391e1f642dff3c7f56024aaea5", null ]
+    [ "boss_chromaggusAI", "dd/d14/a12184.html", "dd/d14/a12184" ],
+    [ "boss_chromaggus", "d5/de2/a12180.html#a55847fc0d5430d3f22074b53d7caca4b", null ],
+    [ "GetAI", "d5/de2/a12180.html#ace78172cafb122ce5961ed837201c32b", null ]
 ];

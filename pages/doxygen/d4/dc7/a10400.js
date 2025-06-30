@@ -1,11 +1,18 @@
 var a10400 =
 [
-    [ "PointMoveMap", "d4/dc7/a10400.html#a777e97ebcf367638578d1c189480ad99", null ],
-    [ "SystemMgr", "d4/dc7/a10400.html#ac7fd54676b46afcbc520e4c58fcdce75", null ],
-    [ "~SystemMgr", "d4/dc7/a10400.html#ab192b30aa7ff1edd27bb23e87a7ac4c5", null ],
-    [ "GetPointMoveList", "d4/dc7/a10400.html#af9f998f9778cebce3edb39b7296994d5", null ],
-    [ "instance", "d4/dc7/a10400.html#a71b78a44a3656802d55211d68fb19e12", null ],
-    [ "LoadScriptWaypoints", "d4/dc7/a10400.html#af8097171a2ffc49600397c6a519dddc3", null ],
-    [ "_empty", "d4/dc7/a10400.html#a4c90cb038afeb09c107979348bd3ca01", null ],
-    [ "m_mPointMoveMap", "d4/dc7/a10400.html#a3603d019adf647df9f314a7ca61a25dd", null ]
+    [ "EnabledHooksVector", "d4/dc7/a10400.html#ac9d98df16d3857ca556acda331064063", null ],
+    [ "EnabledHooksVectorIterator", "d4/dc7/a10400.html#a575c2a2974f9e002a8a3bb1b858a2912", null ],
+    [ "ScriptMap", "d4/dc7/a10400.html#a0f8009ac0cd91574f0bf4ac92ef90ce0", null ],
+    [ "ScriptMapIterator", "d4/dc7/a10400.html#ad1fcde41ec854314c5e1cc50b916ac5d", null ],
+    [ "ScriptVector", "d4/dc7/a10400.html#abf04ad36ed630be4499f0be2d53016a9", null ],
+    [ "ScriptVectorIterator", "d4/dc7/a10400.html#ac0554c5200368592f5d0bfb1025935fe", null ],
+    [ "_checkMemory", "d4/dc7/a10400.html#a8d784f25a47c9ca4be72fca0215bf1c8", null ],
+    [ "AddALScripts", "d4/dc7/a10400.html#aa86b74a2560deae81f5c2a38cf1f72c8", null ],
+    [ "AddScript", "d4/dc7/a10400.html#a4a25c0e3b90f6af4563baf0e7a1c0622", null ],
+    [ "GetScriptById", "d4/dc7/a10400.html#a22226c545e7975d4c612e7adcc766d05", null ],
+    [ "InitEnabledHooksIfNeeded", "d4/dc7/a10400.html#a44238d9b122f50192b989b1efe2107bd", null ],
+    [ "_scriptIdCounter", "d4/dc7/a10400.html#aa66e44e9291be980d12f4167f699c680", null ],
+    [ "ALScripts", "d4/dc7/a10400.html#ac67b828a489c483ceaaa745b2dd7ef57", null ],
+    [ "EnabledHooks", "d4/dc7/a10400.html#a4274e01ddb2659f125970b97014da00e", null ],
+    [ "ScriptPointerList", "d4/dc7/a10400.html#a57e93b2fa2db2a29fa4c12714e217d43", null ]
 ];

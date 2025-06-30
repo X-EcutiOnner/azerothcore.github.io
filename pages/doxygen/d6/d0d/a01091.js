@@ -1,4 +1,5 @@
 var a01091 =
 [
-    [ "MOVEMENT_PACKET_TIME_DELAY", "d6/d0d/a01091.html#a69e254ae3a119a96053add6b9732296c", null ]
+    [ "AddonHandler", "d1/db9/a09560.html", "d1/db9/a09560" ],
+    [ "sAddOnHandler", "d6/d0d/a01091.html#a53c18d341aaa47d117be75333e4ab43d", null ]
 ];

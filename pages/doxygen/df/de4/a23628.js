@@ -1,13 +1,6 @@
 var a23628 =
 [
-    [ "boss_wrath_scryer_soccothrates", "df/de4/a23628.html#a771980c1022e7699c3eb02baccb68a93", null ],
-    [ "InitializeAI", "df/de4/a23628.html#ad29f9c200de2f25a74f548c918bb61ac", null ],
-    [ "JustDied", "df/de4/a23628.html#a4954041d6a9cbc754d9fcd1d4ab3d38b", null ],
-    [ "JustEngagedWith", "df/de4/a23628.html#a09302e6f5e1422232a3024dd24a38fd6", null ],
-    [ "KilledUnit", "df/de4/a23628.html#a9b9237e0c8ad1b759c2402de79b3d0bd", null ],
-    [ "MoveInLineOfSight", "df/de4/a23628.html#ab75e402ce24ca34c42f80116b8a0726d", null ],
-    [ "Reset", "df/de4/a23628.html#a85435a23d36f13e348112348a26e7d12", null ],
-    [ "UpdateAI", "df/de4/a23628.html#a41ad9124dec5432feb7ca823f0c8f87f", null ],
-    [ "events2", "df/de4/a23628.html#afd4e9a0ab16406a4a452cd89d13d1fe0", null ],
-    [ "preFight", "df/de4/a23628.html#a193889ee2815b93a1c9aeee394170fc4", null ]
+    [ "instance_shattered_halls_InstanceMapScript", "d8/d9f/a23632.html", "d8/d9f/a23632" ],
+    [ "instance_shattered_halls", "df/de4/a23628.html#a9d0d3b6baec34c679151791610cff3a7", null ],
+    [ "GetInstanceScript", "df/de4/a23628.html#a82388466811b022a725ba721845cadf3", null ]
 ];

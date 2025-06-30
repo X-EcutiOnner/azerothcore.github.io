@@ -1,8 +1,8 @@
 var a10756 =
 [
-    [ "PauseMirrorTimer", "dc/d2d/a10756.html#a05ccc52cb56d38cadb27fbde2563df45", null ],
-    [ "PauseMirrorTimer", "dc/d2d/a10756.html#ad6e7a6eb3edadc235dc5bb97802381ac", null ],
-    [ "Write", "dc/d2d/a10756.html#aea61f9e668173b65eac3b9f42ddd68a1", null ],
-    [ "Paused", "dc/d2d/a10756.html#a7adf6dcd7e712792ea94bad77f8be232", null ],
-    [ "Timer", "dc/d2d/a10756.html#a4a041bf772ef3f145bde6be9f8ecdc13", null ]
+    [ "PlayObjectSound", "dc/d2d/a10756.html#ab322044d36abddeb2fafbf99261bb70b", null ],
+    [ "PlayObjectSound", "dc/d2d/a10756.html#a2c4d15099e991a9c2ddc5295536aa28e", null ],
+    [ "Write", "dc/d2d/a10756.html#a1162715dd557a9f7b7c25a0331bc3b74", null ],
+    [ "SoundKitID", "dc/d2d/a10756.html#a5e794706b8793d164a1189e9a6918735", null ],
+    [ "SourceObjectGUID", "dc/d2d/a10756.html#a82b226eba66e569c1f377f529e511361", null ]
 ];

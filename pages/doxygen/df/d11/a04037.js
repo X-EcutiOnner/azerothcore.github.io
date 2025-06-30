@@ -1,5 +1,5 @@
 var a04037 =
 [
-    [ "account_commandscript", "d3/dd5/a11531.html", "d3/dd5/a11531" ],
-    [ "AddSC_account_commandscript", "df/d11/a04037.html#a8c18eb17be05fd3da5e9cfa3480c52c4", null ]
+    [ "bf_commandscript", "df/d3e/a11568.html", "df/d3e/a11568" ],
+    [ "AddSC_bf_commandscript", "df/d11/a04037.html#a55cfeb06fb5af5d31e3c2627d0db8da8", null ]
 ];

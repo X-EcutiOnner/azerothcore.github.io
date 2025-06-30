@@ -1,16 +1,10 @@
 var a15188 =
 [
-    [ "npc_muglashAI", "d3/d79/a15188.html#af1988703aaaac04e5853c33e5b915ca2", null ],
-    [ "DoAction", "d3/d79/a15188.html#afba6c4441ff4da54f89709b3c2bcd4d4", null ],
-    [ "DoWaveSummon", "d3/d79/a15188.html#aaf862468f5ba0c6f99056a81a472c6e2", null ],
-    [ "JustDied", "d3/d79/a15188.html#a5936dd183091c462e4835a00f81020f5", null ],
-    [ "JustEngagedWith", "d3/d79/a15188.html#a587c8cb4562e93cecccb20e93cabba05", null ],
-    [ "JustSummoned", "d3/d79/a15188.html#a07e451149dbf6b72e01f94dc8f07edf3", null ],
-    [ "Reset", "d3/d79/a15188.html#a98933c32f2550989356b3e876d302b88", null ],
-    [ "sQuestAccept", "d3/d79/a15188.html#a6c93a53a7b8bcd200ebca0e9d366f6fe", null ],
-    [ "UpdateAI", "d3/d79/a15188.html#a6b479f50428536997faef96e510dbd84", null ],
-    [ "WaypointReached", "d3/d79/a15188.html#a8f91b74c0d8778a73e0bc95dce339f2b", null ],
-    [ "_isBrazierExtinguished", "d3/d79/a15188.html#aeec098d6a65b6852598a4e4b6888a410", null ],
-    [ "eventTimer", "d3/d79/a15188.html#a548e142bb509b4606b6fcf98d926cd44", null ],
-    [ "waveId", "d3/d79/a15188.html#a06c0af398e53b5ea6bfd6fa80256f845", null ]
+    [ "npc_anubisath_defender", "d3/d79/a15188.html#ae24a21ad3ebcaa4b8312a1fea66131ba", null ],
+    [ "DamageTaken", "d3/d79/a15188.html#a032714b16d3d77a19bec0f918d8ef8df", null ],
+    [ "JustDied", "d3/d79/a15188.html#a225ca1b3144953bcc5890caf0d32b606", null ],
+    [ "JustEngagedWith", "d3/d79/a15188.html#a6505fcae0e99cae44750f16daddc3309", null ],
+    [ "Reset", "d3/d79/a15188.html#ab10d9ac93aab97172f630e1d7d8faca0", null ],
+    [ "UpdateAI", "d3/d79/a15188.html#a1f190f45ffbaf20f5565221780dc5cc6", null ],
+    [ "_enraged", "d3/d79/a15188.html#a4adef63a5093e3c0ecb8b57283e94ff8", null ]
 ];

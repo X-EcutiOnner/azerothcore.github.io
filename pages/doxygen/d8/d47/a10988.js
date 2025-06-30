@@ -1,9 +1,7 @@
 var a10988 =
 [
-    [ "EncryptableAndCompressiblePacket", "d8/d47/a10988.html#a64eb3fa6b02a6aff486aa2d9a4d09fc6", null ],
-    [ "CompressIfNeeded", "d8/d47/a10988.html#a113d89a8f2832c5db01611ff71d2bc73", null ],
-    [ "NeedsCompression", "d8/d47/a10988.html#ad376b973f02c1b0cd2afbb43cc081917", null ],
-    [ "NeedsEncryption", "d8/d47/a10988.html#a114e5d6da2e81a26e478f7aea287d08a", null ],
-    [ "_encrypt", "d8/d47/a10988.html#a37a68eddad23001a85a4a2f77e237810", null ],
-    [ "SocketQueueLink", "d8/d47/a10988.html#a88f11ce75f439fd290bdc09156d559c2", null ]
+    [ "Player", "d8/d47/a10988.html#a7f4241aa9ecc051c75f779af132a52ed", null ],
+    [ "WorldSession", "d8/d47/a10988.html#a65b5c30bf4f5f118a199e378d903aaf6", null ],
+    [ "FactionChange", "d8/d47/a10988.html#adff657ead29df26ead5e20a8ecf44e87", null ],
+    [ "Race", "d8/d47/a10988.html#a98d5fd43205a0c9e2d3be75d384ce00c", null ]
 ];

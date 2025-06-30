@@ -1,7 +1,5 @@
 var a10628 =
 [
-    [ "GuildBankActivate", "d3/dfe/a10628.html#a5b27541a26ada694d9635f6d6873ef20", null ],
-    [ "Read", "d3/dfe/a10628.html#a8dbde75aaa3102024aa0ff3a8f3625da", null ],
-    [ "Banker", "d3/dfe/a10628.html#a9b79075c6ee6a4f73ae18c6956eead7c", null ],
-    [ "FullUpdate", "d3/dfe/a10628.html#a50b9a5333e2296e654c90fc6394bdbd3", null ]
+    [ "GuildDelete", "d3/dfe/a10628.html#a86733335c7b60d5b9eb8616692da3a7f", null ],
+    [ "Read", "d3/dfe/a10628.html#ae5ca379b187902323638f4c10be0a4d0", null ]
 ];

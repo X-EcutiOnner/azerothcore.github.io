@@ -1,14 +1,8 @@
 var a11996 =
 [
-    [ "boss_lord_valthalakAI", "d7/d7c/a11996.html#a7f10837eafefefb87b338410c5994362", null ],
-    [ "DamageTaken", "d7/d7c/a11996.html#a6fe691c8dd5c5b387eed08e3a010bec7", null ],
-    [ "IsSummonedBy", "d7/d7c/a11996.html#a852589ca84562ad1a9dcdd403fe5aa83", null ],
-    [ "JustDied", "d7/d7c/a11996.html#a4c9bd060e62f1c4d3819350bf549a39a", null ],
-    [ "JustEngagedWith", "d7/d7c/a11996.html#acee7b1758b670a688fe1afcdef3b9f8c", null ],
-    [ "Reset", "d7/d7c/a11996.html#abcc993a205602484fb46a67bc68dbbd9", null ],
-    [ "StartFighting", "d7/d7c/a11996.html#af06da24e8bedf922895c8c591c1def04", null ],
-    [ "StartTalking", "d7/d7c/a11996.html#ac1d7b3844f9019ea6485de7616caff95", null ],
-    [ "UpdateAI", "d7/d7c/a11996.html#a2b39a384ac7133aa013e21b0e873c4e2", null ],
-    [ "frenzy15", "d7/d7c/a11996.html#aabd65fc1a1bdbbc9c3a46c918bc7dff5", null ],
-    [ "frenzy40", "d7/d7c/a11996.html#a75aa55580bed475e88e9071fa5284267", null ]
+    [ "CheckProc", "d7/d7c/a11996.html#a08e84f2b2ff25ed7e260e61251f9cdb9", null ],
+    [ "HandleProc", "d7/d7c/a11996.html#afd3d4786f739566056b69390553d9c71", null ],
+    [ "PrepareAuraScript", "d7/d7c/a11996.html#a3ba84d4fd311a91efa685980ffec8d77", null ],
+    [ "Register", "d7/d7c/a11996.html#aa36a2e10a6fd67fa74d08e20dc806744", null ],
+    [ "Validate", "d7/d7c/a11996.html#aeff8b89300bb5d3589a46a4f66cfd77d", null ]
 ];

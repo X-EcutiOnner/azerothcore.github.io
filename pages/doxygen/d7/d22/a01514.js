@@ -1,4 +1,5 @@
 var a01514 =
 [
-    [ "FollowerRefMgr", "d7/d81/a09879.html", null ]
+    [ "TotemAI", "da/de4/a06116.html", "da/de4/a06116" ],
+    [ "KillMagnetEvent", "d6/d09/a06120.html", "d6/d09/a06120" ]
 ];

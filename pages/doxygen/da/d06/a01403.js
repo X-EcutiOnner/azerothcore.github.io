@@ -1,5 +1,6 @@
 var a01403 =
 [
-    [ "Movement::SplineBase", "dc/d3f/a10055.html", "dc/d3f/a10055" ],
-    [ "Movement::Spline< length_type >", "d3/dab/a10059.html", "d3/dab/a10059" ]
+    [ "UpdateRequest", "db/d9d/a09824.html", "db/d9d/a09824" ],
+    [ "MapUpdateRequest", "df/d7e/a09828.html", "df/d7e/a09828" ],
+    [ "LFGUpdateRequest", "d5/d25/a09832.html", "d5/d25/a09832" ]
 ];

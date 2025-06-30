@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: Member List</title>
+<title>AzerothCore: TaskScheduler::Compare Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -78,7 +78,7 @@ $(function() {
 </div>
 <script type="text/javascript">
 /* @license magnet:?xt=urn:btih:d3d9a9a6595521f9666a5e94cc830dab83b65699&amp;dn=expat.txt MIT */
-$(document).ready(function(){initNavTree('da/dfb/a05547.html','../../'); initResizable(); });
+$(document).ready(function(){initNavTree('df/d64/a05544.html','../../'); initResizable(); });
 /* @license-end */
 </script>
 <div id="doc-content">
@@ -104,24 +104,70 @@ $(document).ready(function(){initNavTree('da/dfb/a05547.html','../../'); initRes
 </div>
 
 <div class="header">
-  <div class="headertitle"><div class="title">TimeTracker Member List</div></div>
+  <div class="summary">
+<a href="#pub-methods">Public Member Functions</a> &#124;
+<a href="../../d5/de0/a05541.html">List of all members</a>  </div>
+  <div class="headertitle"><div class="title">TaskScheduler::Compare Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p>This is the complete list of members for <a class="el" href="../../da/dfb/a05547.html">TimeTracker</a>, including all inherited members.</p>
-<table class="directory">
-  <tr class="even"><td class="entry"><a class="el" href="../../da/dfb/a05547.html#acfc0d5503c1f5ec4d0bdc103d70dfbb3">GetExpiry</a>() const</td><td class="entry"><a class="el" href="../../da/dfb/a05547.html">TimeTracker</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../da/dfb/a05547.html#adf2e301fdefb32008f14ced5f1c37f33">i_expiryTime</a></td><td class="entry"><a class="el" href="../../da/dfb/a05547.html">TimeTracker</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../da/dfb/a05547.html#a9a13002766153882150b1985a84013ad">Passed</a>() const</td><td class="entry"><a class="el" href="../../da/dfb/a05547.html">TimeTracker</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../da/dfb/a05547.html#a798cf19378c4de243fac01d7d51a3572">Reset</a>(time_t interval)</td><td class="entry"><a class="el" href="../../da/dfb/a05547.html">TimeTracker</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../da/dfb/a05547.html#a2b9f585de223c1051136b10b03a27684">TimeTracker</a>(time_t expiry)</td><td class="entry"><a class="el" href="../../da/dfb/a05547.html">TimeTracker</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../da/dfb/a05547.html#a2009e98647f04c20cb3064e1e9e9a611">Update</a>(time_t diff)</td><td class="entry"><a class="el" href="../../da/dfb/a05547.html">TimeTracker</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-</table></div><!-- contents -->
+<p>Container which provides <a class="el" href="../../d9/df0/a05540.html">Task</a> order, insert and reschedule operations.  
+ <a href="../../df/d64/a05544.html#details">More...</a></p>
+<table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
+Public Member Functions</h2></td></tr>
+<tr class="memitem:a4f528af97bd248dc4532b303f4f38a63"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d64/a05544.html#a4f528af97bd248dc4532b303f4f38a63">operator()</a> (<a class="el" href="../../d8/d58/a05536.html#a0c6c7a95026322208866b6b829e0b598">TaskContainer</a> const &amp;left, <a class="el" href="../../d8/d58/a05536.html#a0c6c7a95026322208866b6b829e0b598">TaskContainer</a> const &amp;right) const</td></tr>
+<tr class="separator:a4f528af97bd248dc4532b303f4f38a63"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table>
+<a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
+<div class="textblock"><p >Container which provides <a class="el" href="../../d9/df0/a05540.html">Task</a> order, insert and reschedule operations. </p>
+</div><h2 class="groupheader">Member Function Documentation</h2>
+<a id="a4f528af97bd248dc4532b303f4f38a63" name="a4f528af97bd248dc4532b303f4f38a63"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4f528af97bd248dc4532b303f4f38a63">&#9670;&#160;</a></span>operator()()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool TaskScheduler::Compare::operator() </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d8/d58/a05536.html#a0c6c7a95026322208866b6b829e0b598">TaskContainer</a> const &amp;&#160;</td>
+          <td class="paramname"><em>left</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d8/d58/a05536.html#a0c6c7a95026322208866b6b829e0b598">TaskContainer</a> const &amp;&#160;</td>
+          <td class="paramname"><em>right</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  124</span>        {</div>
+<div class="line"><span class="lineno">  125</span>            <span class="keywordflow">return</span> (*left.get()) &lt; (*right.get());</div>
+<div class="line"><span class="lineno">  126</span>        };</div>
+</div><!-- fragment -->
+</div>
+</div>
+</div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Mon Jun 23 2025 20:48:47 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d8/d58/a05536.html">TaskScheduler</a></li><li class="navelem"><a class="el" href="../../df/d64/a05544.html">Compare</a></li>
+    <li class="footer">Generated on Mon Jun 30 2025 20:48:15 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

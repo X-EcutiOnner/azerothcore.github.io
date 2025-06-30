@@ -1,7 +1,6 @@
 var a23992 =
 [
-    [ "npc_kurenai_captiveAI", "d8/d14/a23996.html", "d8/d14/a23996" ],
-    [ "npc_kurenai_captive", "d9/dac/a23992.html#ae0e283bfc476f2d9e602158fa8720cdc", null ],
-    [ "GetAI", "d9/dac/a23992.html#ad6f9abf280ca7c3a1b16f7e4815fb979", null ],
-    [ "OnQuestAccept", "d9/dac/a23992.html#a7ecdb782bf084f3fd0f9dc3e2e10bf4a", null ]
+    [ "npc_fel_guard_houndAI", "d8/d14/a23996.html", "d8/d14/a23996" ],
+    [ "npc_fel_guard_hound", "d9/dac/a23992.html#a324179695f04a31b233b0ce94a46634c", null ],
+    [ "GetAI", "d9/dac/a23992.html#a5f5c20ec379994e7d0b65133d772e18f", null ]
 ];

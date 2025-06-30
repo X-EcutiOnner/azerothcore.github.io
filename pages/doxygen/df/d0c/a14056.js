@@ -1,6 +1,16 @@
 var a14056 =
 [
-    [ "npc_brewfest_keg_thrower", "df/d0c/a14056.html#a29da1efd21fe6737684607e5b360ea84", null ],
-    [ "CanBeSeen", "df/d0c/a14056.html#a36212d0f17c0070d3ef3cc25577ff7b9", null ],
-    [ "MoveInLineOfSight", "df/d0c/a14056.html#a3938b0e63553e79302ba966c6cdcf9be", null ]
+    [ "boss_renatakiAI", "df/d0c/a14056.html#ac154bfadeb99d67f59e1682de257e8bf", null ],
+    [ "CanAIAttack", "df/d0c/a14056.html#af20dc14dc56500e568a3a11bfb34a227", null ],
+    [ "CanAlwaysBeDetectable", "df/d0c/a14056.html#af75108eacb982586f43a175beede78ef", null ],
+    [ "CanBeSeen", "df/d0c/a14056.html#ac79db0d4488702be0cd12b5e03a9bcb9", null ],
+    [ "CanSeeAlways", "df/d0c/a14056.html#a6e4a1e9bec67a1bdac4c9cef3da4b17d", null ],
+    [ "DamageTaken", "df/d0c/a14056.html#a62d97adb310b55a2235737b854dc4aca", null ],
+    [ "JustEngagedWith", "df/d0c/a14056.html#a72e9a85d2215d3da197d50b6aa0b769e", null ],
+    [ "Reset", "df/d0c/a14056.html#ad50d8e24fb4168186497c5cdb5b39a68", null ],
+    [ "UpdateAI", "df/d0c/a14056.html#a3a1abaef460d9abe1298080080d74c9d", null ],
+    [ "_dynamicFlags", "df/d0c/a14056.html#a502bfa737cf97ae909144278a3e39bd0", null ],
+    [ "_enraged", "df/d0c/a14056.html#a71e717a2ea732729762aff7970439f74", null ],
+    [ "_thousandBladesCount", "df/d0c/a14056.html#a29dd57c66245f30d12f32d31cc25cd55", null ],
+    [ "_thousandBladesTargets", "df/d0c/a14056.html#ab8b2b52a2ef8ea6586381234c9a3e3fc", null ]
 ];

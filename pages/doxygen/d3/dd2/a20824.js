@@ -1,10 +1,6 @@
 var a20824 =
 [
-    [ "boss_yoggsaron_voiceAI", "d3/dd2/a20824.html#ac78b27f8d4df433e1fad2ae550a4da44", null ],
-    [ "Reset", "d3/dd2/a20824.html#ae5561244ad7387a3614bb6f1e23a7001", null ],
-    [ "SpellHitTarget", "d3/dd2/a20824.html#a0cc39577b4b70eb1be16f9c8b5cb5c72", null ],
-    [ "UpdateAI", "d3/dd2/a20824.html#a3c8458c25f7389f5fb5218177590a4c6", null ],
-    [ "_current", "d3/dd2/a20824.html#ad94ddde194a32b380ba1d309f1ece14a", null ],
-    [ "_targets", "d3/dd2/a20824.html#ab6132214a2249fbb5de8a5115b114381", null ],
-    [ "events", "d3/dd2/a20824.html#ac0c6aa9efe9d9e80b29fae8c190962dc", null ]
+    [ "boss_yoggsaron_descend_portalAI", "de/d74/a20828.html", "de/d74/a20828" ],
+    [ "boss_yoggsaron_descend_portal", "d3/dd2/a20824.html#aaf546e4e546d87818bd501b4934e8ab2", null ],
+    [ "GetAI", "d3/dd2/a20824.html#aceb50c808eed17ca468a80b823af1907", null ]
 ];

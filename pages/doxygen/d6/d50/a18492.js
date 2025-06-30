@@ -1,13 +1,8 @@
 var a18492 =
 [
-    [ "npc_highlord_tirion_fordringAI", "d6/d50/a18492.html#a8852f9196a6609f317b6113ac2eee9ee", null ],
-    [ "Reset", "d6/d50/a18492.html#a80051b1b2a663997304b1754a3f9ff25", null ],
-    [ "SetData", "d6/d50/a18492.html#a5642aab7afc50a7494c43ae7a130d571", null ],
-    [ "UpdateAI", "d6/d50/a18492.html#ac3c8dc2e5bf6e0c3f380f395a785ad49", null ],
-    [ "_bolvarFordragon", "d6/d50/a18492.html#a8e8ae990a6e70a70ce6de3a13300261c", null ],
-    [ "_damnedKills", "d6/d50/a18492.html#a56e035884d2ab94629c133efc1fc8feb", null ],
-    [ "_events", "d6/d50/a18492.html#a8d8d6f1b8dc65b28a8117426e3767762", null ],
-    [ "_factionNPC", "d6/d50/a18492.html#acf9a436edcbfe3fcf47f56c5cf90cfb2", null ],
-    [ "_instance", "d6/d50/a18492.html#acd16d6200b08df23576aa9ccbb060d31", null ],
-    [ "_theLichKing", "d6/d50/a18492.html#afbe85d7002e34cfcb9414f2beda4e0a2", null ]
+    [ "Load", "d6/d50/a18492.html#a3a5fa4814a7724db0ba7be5c5158798b", null ],
+    [ "PeriodicTick", "d6/d50/a18492.html#a4ff0ab22db0bbd4483ddb379de069c48", null ],
+    [ "PrepareAuraScript", "d6/d50/a18492.html#a029820fbfc34af4d0ccb825a9f9d2b0d", null ],
+    [ "Register", "d6/d50/a18492.html#a909819dde9d5154f3d2cf04b04fa33f7", null ],
+    [ "_instance", "d6/d50/a18492.html#aebebb858f2ae41f2260d6843b3da8052", null ]
 ];

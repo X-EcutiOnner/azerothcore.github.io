@@ -1,4 +1,4 @@
 var a04292 =
 [
-    [ "SFMTRand", "d5/d35/a05471.html", "d5/d35/a05471" ]
+    [ "CircularBuffer< T >", "d0/d73/a05432.html", "d0/d73/a05432" ]
 ];

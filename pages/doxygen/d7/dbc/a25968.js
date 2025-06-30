@@ -1,6 +1,8 @@
 var a25968 =
 [
-    [ "CheckProc", "d7/dbc/a25968.html#a5b8ee53249a19954e4d46b17422207d5", null ],
-    [ "PrepareAuraScript", "d7/dbc/a25968.html#a2640f58f3e7442c37615b61ecf938a6f", null ],
-    [ "Register", "d7/dbc/a25968.html#a55be2362ac226caa615e07a2a3b5ea38", null ]
+    [ "CheckProc", "d7/dbc/a25968.html#a801610a9f9fae5cb711850254b291268", null ],
+    [ "HandleProc", "d7/dbc/a25968.html#a3f6a53421c7c4b9346d98aa51c4ccd6d", null ],
+    [ "PrepareAuraScript", "d7/dbc/a25968.html#ad08915b0c7f35bef76ddd05a62add43c", null ],
+    [ "Register", "d7/dbc/a25968.html#a8626318b6f9b35a8b1c116062618b3c0", null ],
+    [ "Validate", "d7/dbc/a25968.html#a8a3abd528fda4aab149fb7f6e5eae00d", null ]
 ];

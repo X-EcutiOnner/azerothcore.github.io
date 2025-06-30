@@ -1,6 +1,6 @@
 var a14884 =
 [
-    [ "HandleDummyHitTarget", "df/d69/a14884.html#ae773d73496578170061baedd8f7daec1", null ],
-    [ "PrepareSpellScript", "df/d69/a14884.html#a822fe6d19c2ee0d02dc5561b4f910cf9", null ],
-    [ "Register", "df/d69/a14884.html#a651cc94581130224ba23e864f8ad7060", null ]
+    [ "instance_razorfen_kraul_InstanceMapScript", "d2/d55/a14888.html", "d2/d55/a14888" ],
+    [ "instance_razorfen_kraul", "df/d69/a14884.html#aedd65b901c8131a7ac21e8576734f76f", null ],
+    [ "GetInstanceScript", "df/d69/a14884.html#a78e77010ebb055b9530733ca25533110", null ]
 ];

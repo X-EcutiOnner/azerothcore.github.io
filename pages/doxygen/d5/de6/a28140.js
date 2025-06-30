@@ -1,7 +1,10 @@
 var a28140 =
 [
-    [ "ID", "d5/de6/a28140.html#a3af48dd3f6b92ad7f5950d99ca6dd379", null ],
-    [ "Index", "d5/de6/a28140.html#aa58e046529aae0d1d6201c08ec8107e2", null ],
-    [ "Skill", "d5/de6/a28140.html#aed5e58cf605d3c28cd0d26015722be03", null ],
-    [ "Type", "d5/de6/a28140.html#a39b0b548efd795c162926bddcdd301b5", null ]
+    [ "ID", "d5/de6/a28140.html#a906c42770a619884f08b67e2870bff93", null ],
+    [ "reqarenapoints", "d5/de6/a28140.html#a5d45007a832d6120e29c7821c07646de", null ],
+    [ "reqarenaslot", "d5/de6/a28140.html#ad1e4b8f94a743bac02bbadbc8d62ad0b", null ],
+    [ "reqhonorpoints", "d5/de6/a28140.html#aca509fb7e234bc54632ff988bf37e6ad", null ],
+    [ "reqitem", "d5/de6/a28140.html#a9cba8872c909260a55dcfdf7f4726899", null ],
+    [ "reqitemcount", "d5/de6/a28140.html#a615c5fe0966b5054303ebe1290adc9b6", null ],
+    [ "reqpersonalarenarating", "d5/de6/a28140.html#af4ff8d55234b03637e4b2fbd10778e97", null ]
 ];

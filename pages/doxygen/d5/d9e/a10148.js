@@ -1,10 +1,12 @@
 var a10148 =
 [
-    [ "Flags", "d5/d9e/a10148.html#abf9c2701e766951e5a211bf6bf85b175", null ],
-    [ "ID", "d5/d9e/a10148.html#a946b8f7244fd22c4afcb26373ee61a13", null ],
-    [ "needSave", "d5/d9e/a10148.html#aae888b1bf10f654ee212f3d687c111e9", null ],
-    [ "needSend", "d5/d9e/a10148.html#ab8692e4433db81f9d3e0f96f8f930a8f", null ],
-    [ "ReputationListID", "d5/d9e/a10148.html#a052caeeae1ecdca831097591e0fddaf6", null ],
-    [ "roundedUp", "d5/d9e/a10148.html#a287fe9e8ec5da58ae3f5096045eebf31", null ],
-    [ "Standing", "d5/d9e/a10148.html#ae87da6cada559e11a9607e194013d671", null ]
+    [ "QuestLocale", "d5/d9e/a10148.html#a887d474a470ee0278fb4b465a7ad9547", null ],
+    [ "AreaDescription", "d5/d9e/a10148.html#a5c6c5a8d1fb500afef514c80c9d87e4e", null ],
+    [ "CompletedText", "d5/d9e/a10148.html#aad432417f836b2cbe03d3e53e4e76f14", null ],
+    [ "Details", "d5/d9e/a10148.html#afd23d37c92f2b28e1c125bba0d670497", null ],
+    [ "Objectives", "d5/d9e/a10148.html#ae1ecea0f255f34b547302bfc2c0b6ad4", null ],
+    [ "ObjectiveText", "d5/d9e/a10148.html#ae41f7f50ab68e5783ceec37e6f8ff5b0", null ],
+    [ "OfferRewardText", "d5/d9e/a10148.html#aaba6d07625232a77e3457454f7d4fa77", null ],
+    [ "RequestItemsText", "d5/d9e/a10148.html#a764d2092084454844e59c484fb637017", null ],
+    [ "Title", "d5/d9e/a10148.html#ab75b38241e31b9137c1d85334b3a3f30", null ]
 ];

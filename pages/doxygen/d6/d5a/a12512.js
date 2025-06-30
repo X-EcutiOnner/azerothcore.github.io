@@ -1,6 +1,6 @@
 var a12512 =
 [
-    [ "HandleTriggerSpell", "d6/d5a/a12512.html#a5f30f2af73eae022b9596939b2f88c0b", null ],
-    [ "PrepareSpellScript", "d6/d5a/a12512.html#a4fa2709a456e9e75f5c11b7f2e04912b", null ],
-    [ "Register", "d6/d5a/a12512.html#a7e9c140aecea892ee6971bc97d385640", null ]
+    [ "instance_deadmines_InstanceMapScript", "df/d4f/a12516.html", "df/d4f/a12516" ],
+    [ "instance_deadmines", "d6/d5a/a12512.html#a91ec4b9d2c4dcb3b8a2822431259bc08", null ],
+    [ "GetInstanceScript", "d6/d5a/a12512.html#ac5cb65972d52324cedf662cc44dca626", null ]
 ];

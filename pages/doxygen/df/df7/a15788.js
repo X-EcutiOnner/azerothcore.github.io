@@ -1,6 +1,6 @@
 var a15788 =
 [
-    [ "HandleApplyAura", "df/df7/a15788.html#aeddfd61eab5aa077ca07a924ec491285", null ],
-    [ "PrepareSpellScript", "df/df7/a15788.html#ad53341842455d98722c03318dd80fb94", null ],
-    [ "Register", "df/df7/a15788.html#a10cb03ba6175f48b0ccaf69ec90e8f50", null ]
+    [ "ModDestHeight", "df/df7/a15788.html#a8bda9327c4244af41c513528ad5c818c", null ],
+    [ "PrepareSpellScript", "df/df7/a15788.html#aba5a03c94fa5d87c46a91369875c0ab2", null ],
+    [ "Register", "df/df7/a15788.html#a62b0ce71caeff96705b15aa240ddd09f", null ]
 ];

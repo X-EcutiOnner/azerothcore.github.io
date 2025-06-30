@@ -1,6 +1,12 @@
 var a08984 =
 [
-    [ "Conditions", "de/d7c/a08984.html#a93edc2f0d71164b683c844b713befa85", null ],
-    [ "MenuID", "de/d7c/a08984.html#a732aa82f621c312745ddbd6fe2e3e906", null ],
-    [ "TextID", "de/d7c/a08984.html#a6ec8df5fcc5126bdee656ca08c0a5edc", null ]
+    [ "IsTeamAward1", "de/d7c/a08984.html#a25f928a8f8c3a19b1aa9a5c41b0ba612", null ],
+    [ "IsTeamAward2", "de/d7c/a08984.html#a053bd7825d0464ac322b449f3d243722", null ],
+    [ "RepFaction1", "de/d7c/a08984.html#a4e75bb4149f8bb0b83a5aacba47800dd", null ],
+    [ "RepFaction2", "de/d7c/a08984.html#a5934590811c666d06b68216428574d8a", null ],
+    [ "ReputationMaxCap1", "de/d7c/a08984.html#a292b78f629723c3993a796eb256dd9b8", null ],
+    [ "ReputationMaxCap2", "de/d7c/a08984.html#ac90d17e82d6c8a763d3ea868250b44a7", null ],
+    [ "RepValue1", "de/d7c/a08984.html#a4c5f965e028c45d6ad4d5875f76b2458", null ],
+    [ "RepValue2", "de/d7c/a08984.html#a74f46afc59593d7ae71ab65aa9e1f1c2", null ],
+    [ "TeamDependent", "de/d7c/a08984.html#a66e60a90f166e5fc12ea4dbe615c998f", null ]
 ];

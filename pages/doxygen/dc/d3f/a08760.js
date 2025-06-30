@@ -1,8 +1,6 @@
 var a08760 =
 [
-    [ "VehicleSeat", "dc/d3f/a08760.html#ad2d19e3fc73c06cd7c8e339bd2b45a0c", null ],
-    [ "IsEmpty", "dc/d3f/a08760.html#a9f68076857cb85ee7679f04043acdedc", null ],
-    [ "Passenger", "dc/d3f/a08760.html#ac334f2f573bf52f164d570f8b83fc197", null ],
-    [ "SeatAddon", "dc/d3f/a08760.html#a3c46401aa5859287e4bcb24141c848cc", null ],
-    [ "SeatInfo", "dc/d3f/a08760.html#add0cf92d445f6ea0cf910b0bc0d80b62", null ]
+    [ "BuildValuesCachedBuffer", "dc/d3f/a08760.html#a87a3167ae060c8556700e4a137294053", null ],
+    [ "buffer", "dc/d3f/a08760.html#add7150533a48434b0e606add9cff04d2", null ],
+    [ "posPointers", "dc/d3f/a08760.html#affa098684782f15383a7df063b178cf1", null ]
 ];

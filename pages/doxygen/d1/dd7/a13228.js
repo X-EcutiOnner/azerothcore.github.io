@@ -1,7 +1,16 @@
 var a13228 =
 [
-    [ "boss_kalec", "d1/dd7/a13228.html#a9c36e31c750e93840f30f001cdaca0da", null ],
-    [ "JustDied", "d1/dd7/a13228.html#a46f35b35c1d17abc2ffaf909c53a4039", null ],
-    [ "JustEngagedWith", "d1/dd7/a13228.html#a4813ca02ed5ffc35add5279cc1ec277f", null ],
-    [ "UpdateAI", "d1/dd7/a13228.html#ab55da7584fa7f545761a5bd547245747", null ]
+    [ "boss_felmyst", "d1/dd7/a13228.html#a96aa8f038e3f93aa7628ce3f28ef39ff", null ],
+    [ "InitializeAI", "d1/dd7/a13228.html#af29021c428a9c7ffcea517d91b1d4b39", null ],
+    [ "JustDied", "d1/dd7/a13228.html#a2269784b565f6a9d18bd9124cf4b8472", null ],
+    [ "JustEngagedWith", "d1/dd7/a13228.html#a6fc19cd8b8c7891a912a50fcd673d96f", null ],
+    [ "KilledUnit", "d1/dd7/a13228.html#a0233ebbcbb21d100425ac76223e839be", null ],
+    [ "MovementInform", "d1/dd7/a13228.html#adf8cd17c20be6acbe381777e8c0efdba", null ],
+    [ "Reset", "d1/dd7/a13228.html#ae5181c789809a859edb40488e206c0d3", null ],
+    [ "ScheduleGroundAbilities", "d1/dd7/a13228.html#a2d77aab0f9c403e130f0513a0b3013ce", null ],
+    [ "SpellHitTarget", "d1/dd7/a13228.html#a9b603cd704126cc6a6bbd65e2bb702e5", null ],
+    [ "StartIntro", "d1/dd7/a13228.html#a55e6defd1bc7f8f1dfd2376cb4589356", null ],
+    [ "UpdateAI", "d1/dd7/a13228.html#a0e429d8cf49946c0232b9c405c340356", null ],
+    [ "_currentLane", "d1/dd7/a13228.html#a7b4230a28ad7d8136ae16ada9d471a39", null ],
+    [ "_strafeCount", "d1/dd7/a13228.html#adc58c6e8aef0debe6689e42cebff5aa2", null ]
 ];

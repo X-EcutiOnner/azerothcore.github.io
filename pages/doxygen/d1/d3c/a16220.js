@@ -1,8 +1,8 @@
 var a16220 =
 [
-    [ "npc_announcer_toc5AI", "d1/d3c/a16220.html#a96e1bd089dfd21fa252bc6422d20bada", null ],
-    [ "DamageTaken", "d1/d3c/a16220.html#a53458483699ac026ff2cd36b5f061571", null ],
-    [ "MovementInform", "d1/d3c/a16220.html#acdcf4110b3815635ad173a70e7a1e603", null ],
-    [ "Reset", "d1/d3c/a16220.html#ab3dca17e0350d6d46a9069f97f2d12ef", null ],
-    [ "UpdateAI", "d1/d3c/a16220.html#ad2c596253d67d051f497a8d77859846d", null ]
+    [ "npc_black_knight_skeletal_gryphonAI", "d1/d3c/a16220.html#ada99dced1e560aebc908a0efb6c23d0a", null ],
+    [ "DoAction", "d1/d3c/a16220.html#af38e129cdf4af99e99c41b6a98448e56", null ],
+    [ "Reset", "d1/d3c/a16220.html#a5e20d5e17baaac92a560a5b2fe15fe7b", null ],
+    [ "UpdateAI", "d1/d3c/a16220.html#a851008790128831c5c10710b4cccb196", null ],
+    [ "WaypointReached", "d1/d3c/a16220.html#a74b5fb1d3631c404e7797085e45e6159", null ]
 ];

@@ -1,13 +1,5 @@
 var a11408 =
 [
-    [ "PlayerDumpWriter", "d8/d5e/a11408.html#a060152c060b37c4bf1208a99edc4a840", null ],
-    [ "AppendTable", "d8/d5e/a11408.html#a7f285fddf6d33dd1664b5af801f110e9", null ],
-    [ "GetDump", "d8/d5e/a11408.html#a17457008e1262c0aed284469e55841c6", null ],
-    [ "PopulateGuids", "d8/d5e/a11408.html#aab122c84eefe801ac23211ec5a41e888", null ],
-    [ "WriteDumpToFile", "d8/d5e/a11408.html#a81612bfc0d161595f4de1a6133d5c46d", null ],
-    [ "WriteDumpToString", "d8/d5e/a11408.html#a43d30815c9b3b2608e0fecad7bba7254", null ],
-    [ "_items", "d8/d5e/a11408.html#a5da825b82a09809ded2ce2c88458cc26", null ],
-    [ "_itemSets", "d8/d5e/a11408.html#a33ff3a269064d883eff84ec83c394e92", null ],
-    [ "_mails", "d8/d5e/a11408.html#a2863e88ee13debe77e4b1d3d0960d18a", null ],
-    [ "_pets", "d8/d5e/a11408.html#a33325b0514324020bba98364a7f59de5", null ]
+    [ "Name", "d8/d5e/a11408.html#ac16bf9d80201e270ffb1571fb2e9fb02", null ],
+    [ "Type", "d8/d5e/a11408.html#aeacac864bd23dcb7b24efc484810f592", null ]
 ];

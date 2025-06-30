@@ -1,6 +1,7 @@
 var a25948 =
 [
-    [ "CalculateAmount", "dc/de5/a25948.html#a3491a0a1d2f00f76730ddc53a66c8179", null ],
-    [ "PrepareAuraScript", "dc/de5/a25948.html#a667883298cee173af941cfc07022f318", null ],
-    [ "Register", "dc/de5/a25948.html#a22514461b79f736e3ab595fa7fb48b68", null ]
+    [ "HandleDummy", "dc/de5/a25948.html#a870b9834d0860a2d017b74fbf33ae668", null ],
+    [ "Load", "dc/de5/a25948.html#ae971bd1dccc9280620b6ea44dd552bd4", null ],
+    [ "PrepareSpellScript", "dc/de5/a25948.html#aac68e0f75f39ab25cf490dc381414b96", null ],
+    [ "Register", "dc/de5/a25948.html#ad2840c719abd010c629747da138e9e32", null ]
 ];

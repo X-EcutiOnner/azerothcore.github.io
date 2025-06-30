@@ -1,12 +1,7 @@
 var a15624 =
 [
-    [ "DialogueHelper", "d0/d0a/a15624.html#a3566655e8781bf5f9dff514fcd659421", null ],
-    [ "DialogueUpdate", "d0/d0a/a15624.html#aaac3463d91a0cdbe2622b4fd85b34ed0", null ],
-    [ "DoNextDialogueStep", "d0/d0a/a15624.html#a6e23a56ba5c5e4d4ab3b4c6be5cb09af", null ],
-    [ "GetSpeakerByEntry", "d0/d0a/a15624.html#a50e652ca2cff035d8c79517fdbcfc67a", null ],
-    [ "JustDidDialogueStep", "d0/d0a/a15624.html#a79e80634f1780895669f5c810958fd4f", null ],
-    [ "StartNextDialogueText", "d0/d0a/a15624.html#ac16b8b9b50e8b35980d21f161bf33340", null ],
-    [ "_actionTimer", "d0/d0a/a15624.html#a33b8551c136bcbc896b29d935c155a75", null ],
-    [ "_currentEntry", "d0/d0a/a15624.html#a89ca5e8d25372bd8ab32322a0a9999f2", null ],
-    [ "_dialogueArray", "d0/d0a/a15624.html#a489b8cd1c75ced0ec8e34b8051899dd7", null ]
+    [ "npc_paoka_swiftmountainAI", "d0/d0a/a15624.html#a92a229f76de3bc46ae14910439db0004", null ],
+    [ "DoSpawnWyvern", "d0/d0a/a15624.html#a7997a3d398db82c205e3a8af77ac1684", null ],
+    [ "Reset", "d0/d0a/a15624.html#acae0427957aba04a54e6001823bc7eb4", null ],
+    [ "WaypointReached", "d0/d0a/a15624.html#a262781c90fe1b5a5af2c6f94e4cc52e2", null ]
 ];

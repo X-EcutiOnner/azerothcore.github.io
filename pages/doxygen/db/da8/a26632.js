@@ -1,6 +1,8 @@
 var a26632 =
 [
-    [ "HandleDummy", "db/da8/a26632.html#af5bccd5dfb9aa37215b083438b6749ea", null ],
-    [ "PrepareSpellScript", "db/da8/a26632.html#a6c2b858c893ed215d1192073b06db81d", null ],
-    [ "Register", "db/da8/a26632.html#a1b23dc4a7a04e4c910bb738d45a8df1f", null ]
+    [ "CheckFireTotem", "db/da8/a26632.html#a9d6b4368f5c72b95c25415ea87575fce", null ],
+    [ "HandleDummy", "db/da8/a26632.html#a179d07e7090cec396a7845754e545e8e", null ],
+    [ "PrepareSpellScript", "db/da8/a26632.html#a8311cc106da26267e90acd98698cb737", null ],
+    [ "Register", "db/da8/a26632.html#abae5a4961888e6ba2d876e450307e362", null ],
+    [ "Validate", "db/da8/a26632.html#a2048b0e43dbe2df6e4dfc42d912a74a7", null ]
 ];

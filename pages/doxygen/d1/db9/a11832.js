@@ -1,9 +1,6 @@
 var a11832 =
 [
-    [ "npc_burning_spiritAI", "d1/db9/a11832.html#a52f63423d09794446b0c01da2feb325d", null ],
-    [ "EnterEvadeMode", "d1/db9/a11832.html#a567a7a023bb83a1228bb458ea16ee2fc", null ],
-    [ "IsSummonedBy", "d1/db9/a11832.html#a65ee7b6dd6d4394cc04a6260fc75827e", null ],
-    [ "MovementInform", "d1/db9/a11832.html#a0a02ece5a3ff1eefa30fd27a9cc84d10", null ],
-    [ "_events", "d1/db9/a11832.html#a9af0f46710741bba3d8401d1a1fb0556", null ],
-    [ "_flamelasherGUID", "d1/db9/a11832.html#abfc34e3e45d1e74b328a91f6f8981191", null ]
+    [ "npc_lokhtos_darkbargainer", "d1/db9/a11832.html#af91685ecf0f63313968b3d82373668d2", null ],
+    [ "OnGossipHello", "d1/db9/a11832.html#a39547487ef7db8a3942556665099893f", null ],
+    [ "OnGossipSelect", "d1/db9/a11832.html#a5a4640678a5669c75b1fa5d787999c02", null ]
 ];

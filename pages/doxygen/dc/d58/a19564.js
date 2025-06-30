@@ -1,6 +1,6 @@
 var a19564 =
 [
-    [ "instance_halls_of_stone_InstanceMapScript", "dc/d77/a19568.html", "dc/d77/a19568" ],
-    [ "instance_halls_of_stone", "dc/d58/a19564.html#ad0237cfaf2e48036f45181fd7746df2b", null ],
-    [ "GetInstanceScript", "dc/d58/a19564.html#a784906c7710a216016101cf7a6a915f3", null ]
+    [ "boss_sjonnir_malformed_oozeAI", "dc/d77/a19568.html", "dc/d77/a19568" ],
+    [ "boss_sjonnir_malformed_ooze", "dc/d58/a19564.html#ad151bc07b032b6cceed046d1b25ecc08", null ],
+    [ "GetAI", "dc/d58/a19564.html#a22807bb07692511c5ec87073d98c2604", null ]
 ];

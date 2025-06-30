@@ -1,7 +1,6 @@
 var a11288 =
 [
-    [ "EffectApplyHandler", "dd/d1d/a11288.html#a7ab5f0786000c217e2fc71201a8990b6", null ],
-    [ "Call", "dd/d1d/a11288.html#a4c02a1b42d7b3a02633dc9600b0e09bb", null ],
-    [ "mode", "dd/d1d/a11288.html#ac776375c5a5de321edc572c87e983193", null ],
-    [ "pEffectHandlerScript", "dd/d1d/a11288.html#acd715556a7661f688ce0de9afe62250a", null ]
+    [ "EffectPeriodicHandler", "dd/d1d/a11288.html#aad44956783e9c044eb92065cc62e97f6", null ],
+    [ "Call", "dd/d1d/a11288.html#a938e987363972fbd58e42f19880016d8", null ],
+    [ "pEffectHandlerScript", "dd/d1d/a11288.html#a803108e6a515d2d210d8e79a9fb6ce18", null ]
 ];

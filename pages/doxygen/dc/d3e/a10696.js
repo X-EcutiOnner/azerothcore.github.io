@@ -1,7 +1,19 @@
 var a10696 =
 [
-    [ "GuildBankTextQueryResult", "dc/d3e/a10696.html#aa1e25895e246c3a688d7850e517858d3", null ],
-    [ "Write", "dc/d3e/a10696.html#acb6b28dcf56b821e3c0d5b58f6baa2dd", null ],
-    [ "Tab", "dc/d3e/a10696.html#abfc5522a0f94086474493db85ed1ef73", null ],
-    [ "Text", "dc/d3e/a10696.html#ae78c1d1b802e12efd058987117158ec3", null ]
+    [ "GuildBankSwapItems", "dc/d3e/a10696.html#ab335b2ce30db878b41fa3a61953d7d60", null ],
+    [ "Read", "dc/d3e/a10696.html#a3f64634235beeabb9cee055926e6260a", null ],
+    [ "AutoStore", "dc/d3e/a10696.html#aa9eba5c523f7318b2c5e1fa09032920f", null ],
+    [ "Banker", "dc/d3e/a10696.html#a464b37b7cb45a474531662a5032728e6", null ],
+    [ "BankItemCount", "dc/d3e/a10696.html#af11a90a704181b7ed9d823367daf8dc9", null ],
+    [ "BankOnly", "dc/d3e/a10696.html#a2078c50c82bb7b889575da516108f16d", null ],
+    [ "BankSlot", "dc/d3e/a10696.html#a9250ac77819b5ad0be64507d890723c3", null ],
+    [ "BankSlot1", "dc/d3e/a10696.html#ae1e39a84d20fe752311e839384ffdf47", null ],
+    [ "BankTab", "dc/d3e/a10696.html#a39134b0defcdea989bf034decf6001e3", null ],
+    [ "BankTab1", "dc/d3e/a10696.html#a714d47cb3f39425c80094ee9d7f20a12", null ],
+    [ "ContainerItemSlot", "dc/d3e/a10696.html#a2d4830a216f616646e1119d7282c0f94", null ],
+    [ "ContainerSlot", "dc/d3e/a10696.html#a0032741b343e3c5a05a8ca30e46126ee", null ],
+    [ "ItemID", "dc/d3e/a10696.html#a6c231ac64ec02cb360bdd8bf88e134b5", null ],
+    [ "ItemID1", "dc/d3e/a10696.html#adc987aa11525cb48a9e5e9d789fe47bd", null ],
+    [ "StackCount", "dc/d3e/a10696.html#af4ce1f211586bd988ec884820038e049", null ],
+    [ "ToSlot", "dc/d3e/a10696.html#a0294b1260e1b90386b9096e08f9f7838", null ]
 ];

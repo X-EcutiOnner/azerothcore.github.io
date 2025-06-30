@@ -1,10 +1,9 @@
 var a14780 =
 [
-    [ "instance_maraudon_InstanceMapScript", "d6/d8c/a14780.html#a9c46508320d3973006561444feae0586", null ],
-    [ "Initialize", "d6/d8c/a14780.html#a61cb2b2bf09bb997457bc01a41e092e9", null ],
-    [ "OnGameObjectCreate", "d6/d8c/a14780.html#a3a287b97db58c3489815f20ee0d37977", null ],
-    [ "ReadSaveDataMore", "d6/d8c/a14780.html#ac2cd336874b25ad20dac104037de1df5", null ],
-    [ "SetData", "d6/d8c/a14780.html#a6e90bf60a076c164e432128f7ec62fba", null ],
-    [ "WriteSaveDataMore", "d6/d8c/a14780.html#a6e4072342e66689d343912de85e66b34", null ],
-    [ "_encounters", "d6/d8c/a14780.html#af2e752a791d75e50001060c4a9f18173", null ]
+    [ "boss_temporus", "d6/d8c/a14780.html#ab9f1495b18fe2c0ee33e9c238483ce0d", null ],
+    [ "JustDied", "d6/d8c/a14780.html#a9186e51d240aff2ffaab99e3b423ded9", null ],
+    [ "JustEngagedWith", "d6/d8c/a14780.html#abe7f18497c1c8b31693980e98b1d1859", null ],
+    [ "KilledUnit", "d6/d8c/a14780.html#a89c2a229b56b3a7dcb9e5a495ac6dbd7", null ],
+    [ "MoveInLineOfSight", "d6/d8c/a14780.html#a18a0279036324498a9daf8c7d0296ffc", null ],
+    [ "OwnTalk", "d6/d8c/a14780.html#a99356589a048debbc308b8431259da5c", null ]
 ];

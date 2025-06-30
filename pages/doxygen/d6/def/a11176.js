@@ -1,8 +1,5 @@
 var a11176 =
 [
-    [ "first", "d6/def/a11176.html#a49aea8bfed353c2c552f6195b8e9f60a", null ],
-    [ "last", "d6/def/a11176.html#a05a8077c7ec39bcca66fe84aa1da7040", null ],
-    [ "next", "d6/def/a11176.html#a0a7791b7069912a013299e7afaf4142f", null ],
-    [ "prev", "d6/def/a11176.html#ae27b7d0aa5a2ae5cb75a7f0d397c849f", null ],
-    [ "rank", "d6/def/a11176.html#a0b58cef8fc18f91fa59b8c7d7b9f9872", null ]
+    [ "groupId", "d6/def/a11176.html#a71a218d1ea3241f0c72205f7e2f34125", null ],
+    [ "specialFlags", "d6/def/a11176.html#a2232afb6a6b05e5ea33f40992a09621d", null ]
 ];

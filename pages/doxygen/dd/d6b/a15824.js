@@ -1,6 +1,6 @@
 var a15824 =
 [
-    [ "boss_krik_thirAI", "d5/db8/a15828.html", "d5/db8/a15828" ],
-    [ "boss_krik_thir", "dd/d6b/a15824.html#ab7001cd05e8e5e371cbd6ee2b25f3522", null ],
-    [ "GetAI", "dd/d6b/a15824.html#a10e582440092d5c6558c2a11d60907aa", null ]
+    [ "boss_anub_arakAI", "d5/db8/a15828.html", "d5/db8/a15828" ],
+    [ "boss_anub_arak", "dd/d6b/a15824.html#ac2594f561b07069a312ed38c01d9c7da", null ],
+    [ "GetAI", "dd/d6b/a15824.html#a8687594354d514b99e026797ee71c70d", null ]
 ];

@@ -1,29 +1,22 @@
 var a01424 =
 [
-    [ "MAX_ACCOUNT_STR", "d5/da5/a01424.html#a134ebf22666a6525929447b2d869d400", null ],
-    [ "MAX_EMAIL_STR", "d5/da5/a01424.html#ad64d9bd18bac10ab1af09b042d734c64", null ],
-    [ "MAX_PASS_STR", "d5/da5/a01424.html#a45827712253b6d66092106cef5ae724b", null ],
-    [ "AccountOpResult", "d5/da5/a01424.html#a0161874ada0cecbbd1fd5d31da73703e", [
-      [ "AOR_OK", "d5/da5/a01424.html#a0161874ada0cecbbd1fd5d31da73703ea73449863bb0d97def55bd65307e97f18", null ],
-      [ "AOR_NAME_TOO_LONG", "d5/da5/a01424.html#a0161874ada0cecbbd1fd5d31da73703eaec4fb519d9e6032adc269ca4a27c38f4", null ],
-      [ "AOR_PASS_TOO_LONG", "d5/da5/a01424.html#a0161874ada0cecbbd1fd5d31da73703eaed91b79b9e639b8f988c5f06fcfd901c", null ],
-      [ "AOR_EMAIL_TOO_LONG", "d5/da5/a01424.html#a0161874ada0cecbbd1fd5d31da73703eaaf639a81cbf8cf6bd685e34d73e895a1", null ],
-      [ "AOR_NAME_ALREADY_EXIST", "d5/da5/a01424.html#a0161874ada0cecbbd1fd5d31da73703eae0b6297de7a7e8b516f5fc98a4d8750c", null ],
-      [ "AOR_NAME_NOT_EXIST", "d5/da5/a01424.html#a0161874ada0cecbbd1fd5d31da73703ea05e659ba76ce9dd582551a24f2923b24", null ],
-      [ "AOR_DB_INTERNAL_ERROR", "d5/da5/a01424.html#a0161874ada0cecbbd1fd5d31da73703ea368516df3522ada12ce8a39c789a687d", null ]
+    [ "GameEventFinishCondition", "d8/d88/a08796.html", "d8/d88/a08796" ],
+    [ "GameEventQuestToEventConditionNum", "db/dbe/a08800.html", "db/dbe/a08800" ],
+    [ "GameEventData", "db/dbe/a08804.html", "db/dbe/a08804" ],
+    [ "ModelEquip", "da/d9f/a08808.html", "da/d9f/a08808" ],
+    [ "NPCVendorEntry", "da/d72/a08812.html", "da/d72/a08812" ],
+    [ "GameEventMgr", "d2/d1d/a08816.html", "d2/d1d/a08816" ],
+    [ "max_ge_check_delay", "d5/da5/a01424.html#adaa73d920934a951856f7ce003ce2342", null ],
+    [ "sGameEventMgr", "d5/da5/a01424.html#a3c1c916d94272dfe845b9cc5e8fc292a", null ],
+    [ "GameEventConditionMap", "d5/da5/a01424.html#ac4262be385ac879bb433e00533d835c0", null ],
+    [ "GameEventState", "d5/da5/a01424.html#aeb9f2334f35e9f2b2fd8c2ac5630e3b5", [
+      [ "GAMEEVENT_NORMAL", "d5/da5/a01424.html#aeb9f2334f35e9f2b2fd8c2ac5630e3b5a0951d2c0686f93e6e7d0e002b4521921", null ],
+      [ "GAMEEVENT_WORLD_INACTIVE", "d5/da5/a01424.html#aeb9f2334f35e9f2b2fd8c2ac5630e3b5ac5c7f13cfd107dd2d1efb99ce8dd5136", null ],
+      [ "GAMEEVENT_WORLD_CONDITIONS", "d5/da5/a01424.html#aeb9f2334f35e9f2b2fd8c2ac5630e3b5a627f133a79fe9018b98ee3646e334ff7", null ],
+      [ "GAMEEVENT_WORLD_NEXTPHASE", "d5/da5/a01424.html#aeb9f2334f35e9f2b2fd8c2ac5630e3b5aa9ecd88c85a086ee5273110051a00bc0", null ],
+      [ "GAMEEVENT_WORLD_FINISHED", "d5/da5/a01424.html#aeb9f2334f35e9f2b2fd8c2ac5630e3b5a50f420580ff8bcf744a958e2613085bf", null ],
+      [ "GAMEEVENT_INTERNAL", "d5/da5/a01424.html#aeb9f2334f35e9f2b2fd8c2ac5630e3b5a2612ea68e0c9d21dae1af2e9ac04bc81", null ]
     ] ],
-    [ "ChangeEmail", "d5/da5/a01424.html#a2a6c83e2d4e6121855beb252f23c905b", null ],
-    [ "ChangePassword", "d5/da5/a01424.html#a6a9cb892c15d78b5de65738005234ff6", null ],
-    [ "ChangeUsername", "d5/da5/a01424.html#a3382c6430bfbf14e32ca11b5ac68fc23", null ],
-    [ "CheckPassword", "d5/da5/a01424.html#a17c28dfcb31af8f4241bb5210408185a", null ],
-    [ "CreateAccount", "d5/da5/a01424.html#a7a7668ab60ae56c7e71fce77780bb214", null ],
-    [ "DeleteAccount", "d5/da5/a01424.html#a120323b16b2a5aefa6aa69e8be5ccef6", null ],
-    [ "GetCharactersCount", "d5/da5/a01424.html#a4fb760897161c3d463f842b28bcf7c20", null ],
-    [ "GetId", "d5/da5/a01424.html#aa215c9a96c37b8a5d76d980ecf8de114", null ],
-    [ "GetName", "d5/da5/a01424.html#af911e3860ec519c541d6df35468ee41b", null ],
-    [ "GetSecurity", "d5/da5/a01424.html#a8280510b2564ec6ea76727218c1687b3", null ],
-    [ "GetSecurity", "d5/da5/a01424.html#a30b6e5cf1733f0143f86aaeff600215c", null ],
-    [ "IsAdminAccount", "d5/da5/a01424.html#adb1b210137b09011677c74011addeefa", null ],
-    [ "IsConsoleAccount", "d5/da5/a01424.html#a81bbc2af33211a3130c6aa215f5607b7", null ],
-    [ "IsPlayerAccount", "d5/da5/a01424.html#a63751f144cb7acb57fc20f0caf5e7043", null ]
+    [ "IsEventActive", "d5/da5/a01424.html#ad54f33b2e05154d9c2a384ff579b9208", null ],
+    [ "IsHolidayActive", "d5/da5/a01424.html#a429db26781d2673aa2f031fc1327ffaf", null ]
 ];

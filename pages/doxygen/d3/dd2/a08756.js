@@ -1,11 +1,13 @@
 var a08756 =
 [
-    [ "VehicleSeatAddon", "d3/dd2/a08756.html#a307b278917998116156e41f9189a582c", null ],
-    [ "VehicleSeatAddon", "d3/dd2/a08756.html#adaec12df869a9ffc81174f5ef1f65606", null ],
-    [ "ExitParameter", "d3/dd2/a08756.html#afbb8de193522f1182efff50064e5f83d", null ],
-    [ "ExitParameterO", "d3/dd2/a08756.html#a06e385ea5cf0441721432925251a5a63", null ],
-    [ "ExitParameterX", "d3/dd2/a08756.html#a521d7a5eda620d0ced0b1309f3c96e17", null ],
-    [ "ExitParameterY", "d3/dd2/a08756.html#ad343c7149b12cffe3a3de48ad73685a2", null ],
-    [ "ExitParameterZ", "d3/dd2/a08756.html#add1ea5a9e605a49d0ddbcea0f804bd3b", null ],
-    [ "SeatOrientationOffset", "d3/dd2/a08756.html#a374c73b40f6e6dad103b172d1829a31d", null ]
+    [ "BuildValuesCachePosPointers", "d3/dd2/a08756.html#ae84124e042e8ba50d755ccef3c02fdd8", null ],
+    [ "ApplyOffset", "d3/dd2/a08756.html#a31a13ea07b3eb9e3d045996e8a6074b2", null ],
+    [ "other", "d3/dd2/a08756.html#ad56ddc5f2d7ea4937b49a61d80b8b138", null ],
+    [ "UnitDynamicFlagsPos", "d3/dd2/a08756.html#a230385a8646ebce01faaadce648b1a61", null ],
+    [ "UnitFieldAuraStatePos", "d3/dd2/a08756.html#a69592cf42c5f6663c8ada3468fcbe658", null ],
+    [ "UnitFieldBytes2Pos", "d3/dd2/a08756.html#aa1df8492f0a3c576b067469ee3552796", null ],
+    [ "UnitFieldDisplayPos", "d3/dd2/a08756.html#a1058d1650d656498f7dcd5139363a315", null ],
+    [ "UnitFieldFactionTemplatePos", "d3/dd2/a08756.html#a9b8eae9da685231956dca3e92b845cbb", null ],
+    [ "UnitFieldFlagsPos", "d3/dd2/a08756.html#a04e607123d1d1dde24611b573d25fedb", null ],
+    [ "UnitNPCFlagsPos", "d3/dd2/a08756.html#aa9412413e1a867d1f3857d18f4d52906", null ]
 ];

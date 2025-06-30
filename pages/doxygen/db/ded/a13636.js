@@ -1,7 +1,12 @@
 var a13636 =
 [
-    [ "HandleScript", "db/ded/a13636.html#acd4373ab762d00d262984c36190d6f93", null ],
-    [ "PrepareSpellScript", "db/ded/a13636.html#a113216b272d0386f248a75bfcf30c6a3", null ],
-    [ "Register", "db/ded/a13636.html#abbf65c0cabb06141a5856210f5ce5ab8", null ],
-    [ "Validate", "db/ded/a13636.html#a5746fd6257dd10be58a61e0e8a2403be", null ]
+    [ "npc_lady_sylvanas_windrunnerAI", "db/ded/a13636.html#ad6eefe9a14ce64b12b65a22c3ebb4db0", null ],
+    [ "JustEngagedWith", "db/ded/a13636.html#a36324482fb264cc3cacf11c3ed542eee", null ],
+    [ "JustSummoned", "db/ded/a13636.html#a456ee6f4b5b8cdd79647a42185265be8", null ],
+    [ "Reset", "db/ded/a13636.html#ad4c6cb31a8d3dc280e689d5d29e27479", null ],
+    [ "SetGUID", "db/ded/a13636.html#aa5270e7468dcafba98d3ee72752771ce", null ],
+    [ "UpdateAI", "db/ded/a13636.html#ab704e4f3af8aa734910efd259db31407", null ],
+    [ "_events", "db/ded/a13636.html#a621d4db4fac3a7c3d08defa2a8ed06d0", null ],
+    [ "LamentEvent", "db/ded/a13636.html#ace9e901a965665e0f97cb9646af308aa", null ],
+    [ "playerGUID", "db/ded/a13636.html#aa125ab2a33dbf9f1d40f238e7d45000d", null ]
 ];

@@ -1,10 +1,9 @@
 var a09340 =
 [
-    [ "AnyAoETargetUnitInObjectRangeCheck", "d3/d98/a09340.html#a93d850e2d5f094b97ca5c09bf1d236a9", null ],
-    [ "operator()", "d3/d98/a09340.html#af9a0c32593544a73aae22cd397eef63a", null ],
-    [ "_spellInfo", "d3/d98/a09340.html#a1317c9df0d5792ad3122ff1ed1a31458", null ],
-    [ "i_funit", "d3/d98/a09340.html#aa00b184a24ea73293114f92126f58f24", null ],
-    [ "i_obj", "d3/d98/a09340.html#aa4acf0089c978408e30b08d539f2512f", null ],
-    [ "i_range", "d3/d98/a09340.html#ad386efa8206906fd99816694a6a8d69b", null ],
-    [ "i_targetForPlayer", "d3/d98/a09340.html#af5ce329f3493b97f59c61c3e87af48b1", null ]
+    [ "AnyFriendlyUnitInObjectRangeCheck", "d3/d98/a09340.html#a4ed3a469f35cb7b64ad5f144281b7910", null ],
+    [ "operator()", "d3/d98/a09340.html#a6e1026191fd4b1b45696a60f45b1b7b8", null ],
+    [ "i_funit", "d3/d98/a09340.html#a9ebd1a1d9716dfda55509396947c1a83", null ],
+    [ "i_obj", "d3/d98/a09340.html#adacade7450b0af19540ea705e1bd438b", null ],
+    [ "i_playerOnly", "d3/d98/a09340.html#a6b0d852333ee74a20281ce7de5a45b98", null ],
+    [ "i_range", "d3/d98/a09340.html#a2af638499152888a698b0fc1570e46ed", null ]
 ];

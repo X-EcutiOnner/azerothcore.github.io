@@ -1,6 +1,7 @@
 var a19396 =
 [
-    [ "npc_stormforged_lieutenantAI", "d7/d66/a19400.html", "d7/d66/a19400" ],
-    [ "npc_stormforged_lieutenant", "d6/d4a/a19396.html#ab58a73d33c6545815511c5c4f0ecfd9e", null ],
-    [ "GetAI", "d6/d4a/a19396.html#ae3aba4b53e73097c261eaaed19f17950", null ]
+    [ "CalcDamage", "d6/d4a/a19396.html#abb2bf75cc347597b17ed5e4ccd213132", null ],
+    [ "PrepareSpellScript", "d6/d4a/a19396.html#a705a6f0c9b10dc8e7e2e6c091a3ff89c", null ],
+    [ "Register", "d6/d4a/a19396.html#a2c2b391b223ab92b6d644b739419a1d3", null ],
+    [ "Validate", "d6/d4a/a19396.html#a773c608119a84cc3f02e7b4d786f2741", null ]
 ];

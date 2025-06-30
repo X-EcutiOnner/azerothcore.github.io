@@ -1,7 +1,6 @@
 var a17788 =
 [
-    [ "HandleExtraEffect", "d8/dba/a17788.html#a8fbfac8e62d2534daf40194f7fe31945", null ],
-    [ "PrepareAuraScript", "d8/dba/a17788.html#a45e83b3bfa344391bb87c8088ae1c6a7", null ],
-    [ "Register", "d8/dba/a17788.html#a5ec23a02a4e617e6db8cf17d2bd36aff", null ],
-    [ "Validate", "d8/dba/a17788.html#a2e7253cfc18b66d663457c2fb7ab3302", null ]
+    [ "boss_professor_putricideAI", "dd/dd8/a17792.html", "dd/dd8/a17792" ],
+    [ "boss_professor_putricide", "d8/dba/a17788.html#a80776dad5c0205aa6a98752f43e85e32", null ],
+    [ "GetAI", "d8/dba/a17788.html#a7c84089d24bb0c77a5203884254e0925", null ]
 ];

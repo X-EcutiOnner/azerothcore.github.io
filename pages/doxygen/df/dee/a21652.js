@@ -1,8 +1,9 @@
 var a21652 =
 [
-    [ "npc_future_youAI", "df/dee/a21652.html#a7608c050dd198e3133050e222b42f62b", null ],
-    [ "EnterEvadeMode", "df/dee/a21652.html#a0b15c8af6075e323e56b2170ce4eefc0", null ],
-    [ "MoveInLineOfSight", "df/dee/a21652.html#a35b67f9e948f5ffbde8a423190ece603", null ],
-    [ "Reset", "df/dee/a21652.html#a01a8cd8f94dd614de2ffefdb19cd9f29", null ],
-    [ "UpdateAI", "df/dee/a21652.html#ac110daa6b4cf6bf26d9e9f9829577fa6", null ]
+    [ "npc_mageguard_dalaranAI", "df/dee/a21652.html#adb9c8b0003c070114b63f3b8e538bceb", null ],
+    [ "AttackStart", "df/dee/a21652.html#ac1e73ad92bd5db0d3b9fe23b36cd8dd7", null ],
+    [ "JustEngagedWith", "df/dee/a21652.html#aac463689ae5a488ec2acb8a0310689d8", null ],
+    [ "MoveInLineOfSight", "df/dee/a21652.html#aafb32462693e0efd9c80cf335f489754", null ],
+    [ "Reset", "df/dee/a21652.html#aa6dde0732bac407a62403bb8f0f24c26", null ],
+    [ "UpdateAI", "df/dee/a21652.html#a4d6ce701a4cc463a7e9c295c664d4440", null ]
 ];

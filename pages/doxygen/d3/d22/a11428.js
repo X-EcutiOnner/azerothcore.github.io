@@ -1,6 +1,13 @@
 var a11428 =
 [
-    [ "Command", "d3/d22/a11428.html#a65dc9a4861ab63743146c65a0a6249f2", null ],
-    [ "Data", "d3/d22/a11428.html#abda0f8cc15c7fb45fa81fcf5ccad8d08", null ],
-    [ "DataSize", "d3/d22/a11428.html#a279f37acfa44c06ae14c5a544dd7baf6", null ]
+    [ "PlayerDumpWriter", "d3/d22/a11428.html#a060152c060b37c4bf1208a99edc4a840", null ],
+    [ "AppendTable", "d3/d22/a11428.html#a7f285fddf6d33dd1664b5af801f110e9", null ],
+    [ "GetDump", "d3/d22/a11428.html#a17457008e1262c0aed284469e55841c6", null ],
+    [ "PopulateGuids", "d3/d22/a11428.html#aab122c84eefe801ac23211ec5a41e888", null ],
+    [ "WriteDumpToFile", "d3/d22/a11428.html#a81612bfc0d161595f4de1a6133d5c46d", null ],
+    [ "WriteDumpToString", "d3/d22/a11428.html#a43d30815c9b3b2608e0fecad7bba7254", null ],
+    [ "_items", "d3/d22/a11428.html#a5da825b82a09809ded2ce2c88458cc26", null ],
+    [ "_itemSets", "d3/d22/a11428.html#a33ff3a269064d883eff84ec83c394e92", null ],
+    [ "_mails", "d3/d22/a11428.html#a2863e88ee13debe77e4b1d3d0960d18a", null ],
+    [ "_pets", "d3/d22/a11428.html#a33325b0514324020bba98364a7f59de5", null ]
 ];

@@ -1,5 +1,5 @@
 var a07088 =
 [
-    [ "AuctionSearchAdd", "da/d1c/a07088.html#a40116c721d736fe362a3dab56e6b3113", null ],
-    [ "searchableAuctionEntry", "da/d1c/a07088.html#a48e000b0e7d9411676fd2ccacf283163", null ]
+    [ "AuctionSearchOwnerListRequest", "da/d1c/a07088.html#a1b774f8d2f77886669b8724be58713ef", null ],
+    [ "ownerGuid", "da/d1c/a07088.html#a37d5d9356fa738e8263fdf7eb9c015a5", null ]
 ];

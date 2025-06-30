@@ -1,6 +1,5 @@
 var a15072 =
 [
-    [ "FilterTargets", "df/db2/a15072.html#a1ceb8f97a19b7c0434c430b388d0f76b", null ],
-    [ "PrepareSpellScript", "df/db2/a15072.html#a4a376e2a30c79ee2819c695e72535c0a", null ],
-    [ "Register", "df/db2/a15072.html#aaf7b4fba94d94331f6b35add2b836061", null ]
+    [ "at_cthun_stomach_exit", "df/db2/a15072.html#ab37174eff353cdbba1f300464645ac63", null ],
+    [ "OnTrigger", "df/db2/a15072.html#ab56dca3fe200dc7822459a22912247bf", null ]
 ];

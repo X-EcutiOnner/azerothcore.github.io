@@ -1,8 +1,10 @@
 var a26036 =
 [
-    [ "Load", "d8/d68/a26036.html#a7662d85a5469c20edf6d2eefca820db3", null ],
-    [ "PrepareAuraScript", "d8/d68/a26036.html#a252bd975a7639eab4e151249db974b7c", null ],
-    [ "Register", "d8/d68/a26036.html#a51723a22f1062f44e8eb6848e1398595", null ],
-    [ "Split", "d8/d68/a26036.html#a08e982eae6030fdc679663bfd38bca47", null ],
-    [ "remainingAmount", "d8/d68/a26036.html#afaab88988769ddc720deb44f06de3d7d", null ]
+    [ "Load", "d8/d68/a26036.html#a4330a13b4144aa0a2e299c5cb00b1aea", null ],
+    [ "PrepareAuraScript", "d8/d68/a26036.html#ae04fa1b54e4b0219d1dcdf998e708c29", null ],
+    [ "Register", "d8/d68/a26036.html#a3031d32b7366f7f707cbb69e3cb96fc8", null ],
+    [ "Split", "d8/d68/a26036.html#aa28fe4ba6a8a501318b6d1d49a2fa9b9", null ],
+    [ "groupSize", "d8/d68/a26036.html#aa1e61b128f63c802dc623be551657df1", null ],
+    [ "minHpPct", "d8/d68/a26036.html#a279f1a2b232a7be981e4315c9e8595e4", null ],
+    [ "remainingAmount", "d8/d68/a26036.html#ad00a550f82d6b3ae77c3112c753de60b", null ]
 ];

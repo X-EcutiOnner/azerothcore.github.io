@@ -1,22 +1,12 @@
 var a11356 =
 [
-    [ "CreatureTextMgr", "d5/dac/a11356.html#a00cc7ebfdb0702de8af841dcbbddcc3b", null ],
-    [ "~CreatureTextMgr", "d5/dac/a11356.html#a6f77e1f030bb16b585f9a75059a06f31", null ],
-    [ "GetLocalizedChatString", "d5/dac/a11356.html#a169c53804fb5bf4ecd509ee90482ebf5", null ],
-    [ "GetRangeForChatType", "d5/dac/a11356.html#aeddebd7d3fcf604ee4d11b77ff87fd53", null ],
-    [ "GetRepeatGroup", "d5/dac/a11356.html#aaa36b5a9223c7521e1b2a222fce77d79", null ],
-    [ "GetTextMap", "d5/dac/a11356.html#a5237341864a3082126bed703d68312b2", null ],
-    [ "instance", "d5/dac/a11356.html#a92acbdab30a8942859e01526144b9989", null ],
-    [ "LoadCreatureTextLocales", "d5/dac/a11356.html#a826a3cd2e991c358a98fced5512297dd", null ],
-    [ "LoadCreatureTexts", "d5/dac/a11356.html#a129039b5a7d2de067656cd6e47de43dd", null ],
-    [ "SendChat", "d5/dac/a11356.html#a93c7fa546a0f41e7d59c6782aecee070", null ],
-    [ "SendChatPacket", "d5/dac/a11356.html#a0b94720ae3ab22ba8bb961f26f47548b", null ],
-    [ "SendEmote", "d5/dac/a11356.html#a8b9dc67f09242b5ade7405663ca52fda", null ],
-    [ "SendNonChatPacket", "d5/dac/a11356.html#a2303c6343e233beb3f7a1ebda40e080e", null ],
-    [ "SendSound", "d5/dac/a11356.html#aa36b6dd5010eea049973122bec4fceb1", null ],
-    [ "SetRepeatId", "d5/dac/a11356.html#a4f6c3e0cafcea242748d3ba65bb957f4", null ],
-    [ "TextExist", "d5/dac/a11356.html#aa92d99a93a387193a10eb7a30c59b86e", null ],
-    [ "mLocaleTextMap", "d5/dac/a11356.html#a12ecf289ef6d78691b6ab23f3cdd9fd8", null ],
-    [ "mTextMap", "d5/dac/a11356.html#ad25faab453d0f5d6270797eeeb5e2e40", null ],
-    [ "mTextRepeatMap", "d5/dac/a11356.html#a880bb1943637b9e867ff3633c9d7390f", null ]
+    [ "CreatureTextBuilder", "d5/dac/a11356.html#a582eed3ab284675e72261a1db9808925", null ],
+    [ "operator()", "d5/dac/a11356.html#a851cc84cc7faebfffe3267ecb0d3b3fb", null ],
+    [ "_gender", "d5/dac/a11356.html#a615c3046f749bf44b036958fb1a50128", null ],
+    [ "_language", "d5/dac/a11356.html#ac6e3bea125cd2b44a56f899c4aa35e1b", null ],
+    [ "_msgType", "d5/dac/a11356.html#ac4b4f75821f4ff5855cafca91523cbca", null ],
+    [ "_source", "d5/dac/a11356.html#ab87c45c49aa07b4434e42b6d7948e8b3", null ],
+    [ "_target", "d5/dac/a11356.html#a5a5fd218c7162ba634455e0db6ee35a1", null ],
+    [ "_textGroup", "d5/dac/a11356.html#afcd842c1482980c6232f3f19d21a1481", null ],
+    [ "_textId", "d5/dac/a11356.html#a3f40b8dd1da052a372afbbc5f06700ac", null ]
 ];

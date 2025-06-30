@@ -1,6 +1,7 @@
 var a07208 =
 [
-    [ "RewardTeamWithRewardGroup", "d2/d8e/a07208.html#a962da3fcdc2feb57ffd2a635d431939a", null ],
-    [ "RewardWithAchievements", "d2/d8e/a07208.html#a57e1ffbe543a93799d6c26d880e128ad", null ],
-    [ "RewardWithMail", "d2/d8e/a07208.html#a4f2dd956f1ffadbfb5b005c1fbeb5aee", null ]
+    [ "ArenaSeasonReward", "d2/d8e/a07208.html#ae0871effd7fcac1006d8a16f9c7d7d04", null ],
+    [ "operator==", "d2/d8e/a07208.html#a2f04bbb871ab3b90f5dc3121e2bff213", null ],
+    [ "entry", "d2/d8e/a07208.html#ab3144a4701e1ebd88a3a94544ee76cdf", null ],
+    [ "type", "d2/d8e/a07208.html#ac4c8cff64cf2eb7f34d28080a2a5528b", null ]
 ];

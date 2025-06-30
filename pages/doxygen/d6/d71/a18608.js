@@ -1,7 +1,6 @@
 var a18608 =
 [
-    [ "HandleQuestComplete", "d6/d71/a18608.html#a5f1e6c4358df4e0910b2227f90b39d24", null ],
-    [ "HandleScript", "d6/d71/a18608.html#a309052e9b7c3d3747d15ab5e9c0d25fd", null ],
-    [ "PrepareSpellScript", "d6/d71/a18608.html#ac9b2786ba2dbb8d1c74af05153bb0a6f", null ],
-    [ "Register", "d6/d71/a18608.html#a3258d4517cfc758080691bab429624d7", null ]
+    [ "npc_captain_rupertAI", "d6/d71/a18608.html#ae91de64c440e71e612f34e37b90076d5", null ],
+    [ "Reset", "d6/d71/a18608.html#a8ebaca725aba2c3aed8856fb23228ae1", null ],
+    [ "UpdateAI", "d6/d71/a18608.html#a2edf4e51c9a5bde61a1875c067e963f2", null ]
 ];

@@ -1,7 +1,9 @@
 var a22968 =
 [
-    [ "HandleEffectRemove", "d1/d74/a22968.html#a070e0dacb457d7dc0bd61594f0ed6d83", null ],
-    [ "PrepareAuraScript", "d1/d74/a22968.html#ac30073d35c40385a24b694012776391e", null ],
-    [ "Register", "d1/d74/a22968.html#ae66eceece2812aee47acb386735f50a0", null ],
-    [ "Validate", "d1/d74/a22968.html#af26c0361e6b7e480f59563d8630d6736", null ]
+    [ "boss_najentus", "d1/d74/a22968.html#ac5d3d54a49524892fe844925d483c244", null ],
+    [ "JustDied", "d1/d74/a22968.html#afee32dd32033c7a45068ce12e961797c", null ],
+    [ "JustEngagedWith", "d1/d74/a22968.html#a46e3aab64c21b24ac6457acd598679ec", null ],
+    [ "KilledUnit", "d1/d74/a22968.html#ad55e1de3aa7a636b3d30b0d61a17dab9", null ],
+    [ "Reset", "d1/d74/a22968.html#ab7e0bdb8954722c9080146a88a3c5aa2", null ],
+    [ "_canTalk", "d1/d74/a22968.html#a25ac29a79cdcfb4ebc48de13d677f1d4", null ]
 ];

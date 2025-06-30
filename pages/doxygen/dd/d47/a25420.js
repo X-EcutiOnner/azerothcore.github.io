@@ -1,6 +1,5 @@
 var a25420 =
 [
-    [ "HandlePreventAura", "dd/d47/a25420.html#a62b9a62f5379f4ca98921c7fe4278b58", null ],
-    [ "PrepareSpellScript", "dd/d47/a25420.html#a61b2f1d5634219f9c48a9ea75e90d423", null ],
-    [ "Register", "dd/d47/a25420.html#ab1a90b7939c146b40badfd6424c35cf7", null ]
+    [ "PrepareSpellScript", "dd/d47/a25420.html#a9137654c01f41c735f477b85e4ec6d73", null ],
+    [ "Register", "dd/d47/a25420.html#af1002e90bc0801c0759393d2d4af8778", null ]
 ];

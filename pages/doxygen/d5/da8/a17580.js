@@ -1,9 +1,8 @@
 var a17580 =
 [
-    [ "CalculatePower", "d5/da8/a17580.html#a66acc23548f88c31e9fe45db76af2bcc", null ],
-    [ "Load", "d5/da8/a17580.html#a820032e169929fd9969ecf1ee2c7f1be", null ],
-    [ "PrepareSpellScript", "d5/da8/a17580.html#a49489a8e4e39735efa560f53236dfc2c", null ],
-    [ "PreventPowerGainOnHit", "d5/da8/a17580.html#a5eebe6f82a6d7306d6e232b755531939", null ],
-    [ "Register", "d5/da8/a17580.html#a67b59c096848adaad5566cbc2140da59", null ],
-    [ "Validate", "d5/da8/a17580.html#a355500a6f3bfed084030738041d0e3b9", null ]
+    [ "HandlePeriodic", "d5/da8/a17580.html#a5ff571c616b69bb50c736622feb9ed96", null ],
+    [ "HandleRemove", "d5/da8/a17580.html#a624887bb5e6d8b72d6c0591661d6ba38", null ],
+    [ "PrepareAuraScript", "d5/da8/a17580.html#a1b140274e283dd95e28fcb773e30f965", null ],
+    [ "Register", "d5/da8/a17580.html#abcce83ef6ecbe539a3d8eaef83fb2d33", null ],
+    [ "Validate", "d5/da8/a17580.html#a94c644e730c51c8edb6a74d68d6228a8", null ]
 ];

@@ -1,5 +1,6 @@
 var a24296 =
 [
-    [ "npc_pet_dk_dancing_rune_weaponAI", "d6/d0b/a24296.html#a6d57990a8ff05cc74356b0ed4d7d39b6", null ],
-    [ "InitializeAI", "d6/d0b/a24296.html#a620ebac7c7cd5f81af47ea2e35de128c", null ]
+    [ "npc_slim", "d6/d0b/a24296.html#aa227fbe22126bed821939873973e6a20", null ],
+    [ "OnGossipHello", "d6/d0b/a24296.html#a34dafb9f3a82c1d2f52a95436345dd0b", null ],
+    [ "OnGossipSelect", "d6/d0b/a24296.html#a426963b7bf831a3b5a75dcf0629917a9", null ]
 ];

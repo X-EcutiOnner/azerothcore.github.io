@@ -1,17 +1,6 @@
 var a11120 =
 [
-    [ "StaticData", "d9/de5/a11124.html", "d9/de5/a11124" ],
-    [ "SpellImplicitTargetInfo", "d7/d26/a11120.html#a6eadac193f40d3a14db74d6e07552bdb", null ],
-    [ "SpellImplicitTargetInfo", "d7/d26/a11120.html#a8e746c8dd4956a1bedc78c932740dfca", null ],
-    [ "CalcDirectionAngle", "d7/d26/a11120.html#ac726d7df6103bc991e650c5d221ec4cc", null ],
-    [ "GetCheckType", "d7/d26/a11120.html#a1822c2908aff0701ab6e56ccf1c83a83", null ],
-    [ "GetDirectionType", "d7/d26/a11120.html#a094f5c6bc82196355aeded09cb469b7c", null ],
-    [ "GetExplicitTargetMask", "d7/d26/a11120.html#ad368870f99d85f27ae2a15ee75b4b5dd", null ],
-    [ "GetObjectType", "d7/d26/a11120.html#a964c185b1d3ed3563c6efa68e8bf9f42", null ],
-    [ "GetReferenceType", "d7/d26/a11120.html#a59769a12291673682e1b5c3650e8aff7", null ],
-    [ "GetSelectionCategory", "d7/d26/a11120.html#a5dd39484ccfed1e34b27d957614b45e6", null ],
-    [ "GetTarget", "d7/d26/a11120.html#ae5a138c973300efce4744ea260108097", null ],
-    [ "IsArea", "d7/d26/a11120.html#a263a4660dfdf8b77f69e5475048b414b", null ],
-    [ "_data", "d7/d26/a11120.html#a1a05bbd8400ec4451ca34b2754e056e9", null ],
-    [ "_target", "d7/d26/a11120.html#ab2cec29c53f0b9bc6a016ce177f97c1d", null ]
+    [ "WorldObjectSpellConeTargetCheck", "d7/d26/a11120.html#a51fa6de40d065bd7ba52f4dc982f9a5e", null ],
+    [ "operator()", "d7/d26/a11120.html#ac66207a4d1dbc9f59269127ee91f0657", null ],
+    [ "_coneAngle", "d7/d26/a11120.html#a8f946789292320ea8b205dec5d1e1975", null ]
 ];

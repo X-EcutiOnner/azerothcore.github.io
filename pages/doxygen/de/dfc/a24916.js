@@ -1,7 +1,8 @@
 var a24916 =
 [
-    [ "HandleScript", "de/dfc/a24916.html#a628fbc7ef23ce8f93d132f7bf518d4d8", null ],
-    [ "PrepareSpellScript", "de/dfc/a24916.html#a8e5aa0a33907c5216299734a928de2fd", null ],
-    [ "Register", "de/dfc/a24916.html#a9e25da03bbbea35f13420c14c6fab0d5", null ],
-    [ "Validate", "de/dfc/a24916.html#a30cc03ed0c19074dc1fde4951a061815", null ]
+    [ "CheckProc", "de/dfc/a24916.html#a88cdab428be20027d939fe4765afc9e0", null ],
+    [ "HandleProc", "de/dfc/a24916.html#a8e49a1bc11fdfc1b7d3f8225c890206f", null ],
+    [ "PrepareAuraScript", "de/dfc/a24916.html#a33f53dc5834a3be78e24a1a58bdfd15a", null ],
+    [ "Register", "de/dfc/a24916.html#aacb126d871c0df43f5096124b8cda376", null ],
+    [ "Validate", "de/dfc/a24916.html#aa81adc61bd1149d9c43c4670f02a91ba", null ]
 ];

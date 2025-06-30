@@ -1,12 +1,8 @@
 var a14624 =
 [
-    [ "boss_mal_ganisAI", "d9/d22/a14624.html#aa8b70930372cd0729686f7c6032d3152", null ],
-    [ "DamageTaken", "d9/d22/a14624.html#a4873386266ce3b4b849377028ff746a5", null ],
-    [ "JustDied", "d9/d22/a14624.html#a83690f4a55cfa22a979ad6897b661fcc", null ],
-    [ "JustEngagedWith", "d9/d22/a14624.html#ad04c571e9e485a95d194946c1b3b7ffa", null ],
-    [ "KilledUnit", "d9/d22/a14624.html#a0ec8c95f3e6ea8c243cc28d0c893c7eb", null ],
-    [ "Reset", "d9/d22/a14624.html#abb9d38b3c26af6245bb98e131be07d4d", null ],
-    [ "UpdateAI", "d9/d22/a14624.html#a9466254da12c3aa3c1a69e812ff1a068", null ],
-    [ "events", "d9/d22/a14624.html#a194c002efe244b8c94a072faf72be771", null ],
-    [ "finished", "d9/d22/a14624.html#ac4c90c814aa55781f863c958253e9df2", null ]
+    [ "hyjalTyrandeAI", "d9/d22/a14624.html#ac2f5449b60cd137dbc1f6ddc8afe5309", null ],
+    [ "JustDied", "d9/d22/a14624.html#af5c7b843b8e1a7c0864b55853bc62097", null ],
+    [ "JustEngagedWith", "d9/d22/a14624.html#a158589b567d22c8f6e0be462bad8299d", null ],
+    [ "Reset", "d9/d22/a14624.html#a5ea52a1ee3730630d1efbdac4ad24c80", null ],
+    [ "UpdateAI", "d9/d22/a14624.html#a9e825f9d87df6227b73eb965488eff8a", null ]
 ];

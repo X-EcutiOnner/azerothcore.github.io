@@ -1,10 +1,7 @@
 var a05912 =
 [
-    [ "Storage", "d3/d4c/a05912.html#a49a70316b169e50ad64ff51d6a568bbc", null ],
-    [ "AchievementCriteriaDataSet", "d3/d4c/a05912.html#a5055f8710c48379035e132e8f20577dc", null ],
-    [ "Add", "d3/d4c/a05912.html#a297f02665679b19961998fb529d064e4", null ],
-    [ "Meets", "d3/d4c/a05912.html#a8edbe32d695308633fa7abfc91d2a1a1", null ],
-    [ "SetCriteriaId", "d3/d4c/a05912.html#addedfd39d9948923a2704b51eaacecbc", null ],
-    [ "_criteria_id", "d3/d4c/a05912.html#a0abc37729d2f3c400bb7cfde212f51c0", null ],
-    [ "_storage", "d3/d4c/a05912.html#a6abf189d95226b370cfcfe7b628ed7c0", null ]
+    [ "arg1", "d3/d4c/a05912.html#aa2018e5823bcf013847605847231e3c2", null ],
+    [ "arg2", "d3/d4c/a05912.html#a4c8721b050e72556a901be1a4a49c2b6", null ],
+    [ "arg3", "d3/d4c/a05912.html#acadf2c3d1d60f8f49fde62b9172980e5", null ],
+    [ "updateType", "d3/d4c/a05912.html#a84cace2469c54d57b33abe5ca93588ca", null ]
 ];

@@ -1,6 +1,7 @@
 var a13680 =
 [
-    [ "npc_tapoke_slim_jahnAI", "db/de3/a13684.html", "db/de3/a13684" ],
-    [ "npc_tapoke_slim_jahn", "db/d20/a13680.html#a61e36b57f8ba78c371d454efb1512579", null ],
-    [ "GetAI", "db/d20/a13680.html#a397629742eace1b96dfd9d4a2e55cc32", null ]
+    [ "HandleScript", "db/d20/a13680.html#acd4373ab762d00d262984c36190d6f93", null ],
+    [ "PrepareSpellScript", "db/d20/a13680.html#a113216b272d0386f248a75bfcf30c6a3", null ],
+    [ "Register", "db/d20/a13680.html#abbf65c0cabb06141a5856210f5ce5ab8", null ],
+    [ "Validate", "db/d20/a13680.html#a5746fd6257dd10be58a61e0e8a2403be", null ]
 ];

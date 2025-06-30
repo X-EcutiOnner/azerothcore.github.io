@@ -1,7 +1,7 @@
 var a18508 =
 [
-    [ "npc_frost_freeze_trapAI", "d0/d41/a18508.html#a95c64fbbc97f55e4d0cd0b239939fdc6", null ],
-    [ "DoAction", "d0/d41/a18508.html#a8dbe0fc5c84f49363254562166c8c0a7", null ],
-    [ "UpdateAI", "d0/d41/a18508.html#ae8efccb090f38968f3c0ca51f022013b", null ],
-    [ "_events", "d0/d41/a18508.html#ae0abd3d7fcb51ac02f8d325efa93b2f2", null ]
+    [ "PeriodicTick", "d0/d41/a18508.html#ac1bace4fc66349364c84b5784967e9bf", null ],
+    [ "PrepareAuraScript", "d0/d41/a18508.html#a358193e3340112c04f79c043548c3de0", null ],
+    [ "Register", "d0/d41/a18508.html#a28f52bc253899aa407e67f9a089c815c", null ],
+    [ "Validate", "d0/d41/a18508.html#a0dde3447e38e45cea94df44449a19a01", null ]
 ];

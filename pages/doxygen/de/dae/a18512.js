@@ -1,6 +1,7 @@
 var a18512 =
 [
-    [ "npc_crok_scourgebaneAI", "da/d98/a18516.html", "da/d98/a18516" ],
-    [ "npc_crok_scourgebane", "de/dae/a18512.html#a5f560e2c62aa618eadb5a11e2c9b90a3", null ],
-    [ "GetAI", "de/dae/a18512.html#afa4fcbb9d7281fbee3f8bc0f318d2e6b", null ]
+    [ "HandleForceCast", "de/dae/a18512.html#accc757e0a23103242865f0ce3085f9d9", null ],
+    [ "Load", "de/dae/a18512.html#a7206571378a0196a8648659628bdeece", null ],
+    [ "PrepareSpellScript", "de/dae/a18512.html#a8bb6db3eaebab00d3166b24ad1e41158", null ],
+    [ "Register", "de/dae/a18512.html#ace665321732f59f13b2ef831c71c2f18", null ]
 ];

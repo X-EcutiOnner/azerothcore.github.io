@@ -1,9 +1,6 @@
 var a18700 =
 [
-    [ "npc_icc_skybreaker_luminaryAI", "df/d7a/a18700.html#a91868021309239f5582bb7ee89baec13", null ],
-    [ "AttackStart", "df/d7a/a18700.html#acf8d1eaebdc68cb53866155d8aad6e48", null ],
-    [ "JustEngagedWith", "df/d7a/a18700.html#a12927240144022174e3d190be6b34976", null ],
-    [ "Reset", "df/d7a/a18700.html#ac925b84b81ec1d1e118f3e62edfbdd15", null ],
-    [ "UpdateAI", "df/d7a/a18700.html#a969a36e147006971a93711349f90c193", null ],
-    [ "events", "df/d7a/a18700.html#a8521aef674b9a295c27f7e5725af4ffe", null ]
+    [ "HandleScript", "df/d7a/a18700.html#a33f15ecf0c0ff013d03742cb2130f372", null ],
+    [ "PrepareSpellScript", "df/d7a/a18700.html#ab3a832cf53f4438db0d9e58b89c0ef7f", null ],
+    [ "Register", "df/d7a/a18700.html#ad0c6d34103244cded41481c745dafe58", null ]
 ];

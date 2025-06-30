@@ -1,19 +1,23 @@
 var a00641 =
 [
-    [ "BattlegroundRL", "db/d46/a07399.html", "db/d46/a07399" ],
-    [ "BattlegroundRLObjects", "db/d3a/a00641.html#a07ba947d37c83568823ee5313377497a", [
-      [ "BG_RL_OBJECT_TYPE_DOOR_1", "db/d3a/a00641.html#a07ba947d37c83568823ee5313377497aa4af54ddc0fa71a41b26c859580db7fb0", null ],
-      [ "BG_RL_OBJECT_TYPE_DOOR_2", "db/d3a/a00641.html#a07ba947d37c83568823ee5313377497aa13210caaf34c5aa100455cf4f74d43d1", null ],
-      [ "BG_RL_OBJECT_TYPE_BUFF_1", "db/d3a/a00641.html#a07ba947d37c83568823ee5313377497aaf7212d012d9018e008f475bd21bae934", null ],
-      [ "BG_RL_OBJECT_TYPE_BUFF_2", "db/d3a/a00641.html#a07ba947d37c83568823ee5313377497aa5e706f8c7f110903f7301b47b0487921", null ]
+    [ "WorldStateSunsReachQuests", "db/d3a/a00641.html#ae92d2d64df97e6d4e504459dbe62a704", [
+      [ "QUEST_ERRATIC_BEHAVIOR", "db/d3a/a00641.html#ae92d2d64df97e6d4e504459dbe62a704a4f2a85bb3172f682d010d0782c9bcc24", null ],
+      [ "QUEST_SANCTUM_WARDS", "db/d3a/a00641.html#ae92d2d64df97e6d4e504459dbe62a704a937beacad369f610742b3d62fe33cab0", null ],
+      [ "QUEST_BATTLE_FOR_THE_SUNS_REACH_ARMORY", "db/d3a/a00641.html#ae92d2d64df97e6d4e504459dbe62a704a98ebea3b62e2627835de9b62156cf05a", null ],
+      [ "QUEST_DISTRACTION_AT_THE_DEAD_SCAR", "db/d3a/a00641.html#ae92d2d64df97e6d4e504459dbe62a704adf3a2dd8db11cc9c77b39a8eaebce873", null ],
+      [ "QUEST_INTERCEPTING_THE_MANA_CELLS", "db/d3a/a00641.html#ae92d2d64df97e6d4e504459dbe62a704a6f30cdc73db7de9c5c0c7be0e1b6c377", null ],
+      [ "QUEST_INTERCEPT_THE_REINFORCEMENTS", "db/d3a/a00641.html#ae92d2d64df97e6d4e504459dbe62a704ab875551f6415f6ac57dfd81dae4b1af5", null ],
+      [ "QUEST_TAKING_THE_HARBOR", "db/d3a/a00641.html#ae92d2d64df97e6d4e504459dbe62a704adf6f0dde850df588195e298e20884dc3", null ],
+      [ "QUEST_MAKING_READY", "db/d3a/a00641.html#ae92d2d64df97e6d4e504459dbe62a704abadeaae10ba1cf07a4e49d58b27a2430", null ],
+      [ "QUEST_DISCOVERING_YOUR_ROOTS", "db/d3a/a00641.html#ae92d2d64df97e6d4e504459dbe62a704ad53e4065f2edb54c276af531e4cbd158", null ],
+      [ "QUEST_A_CHARITABLE_DONATION", "db/d3a/a00641.html#ae92d2d64df97e6d4e504459dbe62a704af367c41748283293358b00d0ceea276b", null ],
+      [ "QUEST_A_MAGNANIMOUS_BENEFACTOR", "db/d3a/a00641.html#ae92d2d64df97e6d4e504459dbe62a704ac530d05014596aa5ace83a6c92b0b5c4", null ],
+      [ "COUNTER_MAX_VAL_REQ", "db/d3a/a00641.html#ae92d2d64df97e6d4e504459dbe62a704a45e1556a8329106c7b177a050f5e45a5", null ]
     ] ],
-    [ "BattlegroundRLObjectTypes", "db/d3a/a00641.html#a5b40294f7ef8f041d61eaa6911993b24", [
-      [ "BG_RL_OBJECT_DOOR_1", "db/d3a/a00641.html#a5b40294f7ef8f041d61eaa6911993b24ab647ed9553d4e532699cd1b551014636", null ],
-      [ "BG_RL_OBJECT_DOOR_2", "db/d3a/a00641.html#a5b40294f7ef8f041d61eaa6911993b24a9dfe9b550ad26c408445bfe72f064058", null ],
-      [ "BG_RL_OBJECT_BUFF_1", "db/d3a/a00641.html#a5b40294f7ef8f041d61eaa6911993b24a793477ef5d11b6f41cfb62d8c354e8d4", null ],
-      [ "BG_RL_OBJECT_BUFF_2", "db/d3a/a00641.html#a5b40294f7ef8f041d61eaa6911993b24a670a77d5efbe30024d0ffb16acd5dfac", null ],
-      [ "BG_RL_OBJECT_READY_MARKER_1", "db/d3a/a00641.html#a5b40294f7ef8f041d61eaa6911993b24a2ea82a43036f0e733ad4aab7a53ea0b2", null ],
-      [ "BG_RL_OBJECT_READY_MARKER_2", "db/d3a/a00641.html#a5b40294f7ef8f041d61eaa6911993b24a199d2d1b5ee7f52820b2aae38a98a755", null ],
-      [ "BG_RL_OBJECT_MAX", "db/d3a/a00641.html#a5b40294f7ef8f041d61eaa6911993b24a7b6737d574968476c6ecb6d1bbf03813", null ]
+    [ "WorldStateSunwellGateQuests", "db/d3a/a00641.html#ab96270d11fbb117a1f967bc0d80f91ca", [
+      [ "QUEST_AGAMATH_THE_FIRST_GATE", "db/d3a/a00641.html#ab96270d11fbb117a1f967bc0d80f91caa5488c9368a2859c5f47656009ebe9eeb", null ],
+      [ "QUEST_ROHENDOR_THE_SECOND_GATE", "db/d3a/a00641.html#ab96270d11fbb117a1f967bc0d80f91caaac3b523ff003dbd2c4630a2f64f9ef52", null ],
+      [ "QUEST_ARCHONISUS_THE_FINAL_GATE", "db/d3a/a00641.html#ab96270d11fbb117a1f967bc0d80f91caa79773a037e39a86021645c7ef20836dc", null ],
+      [ "COUNTER_MAX_VAL_REQ_SWP_GATES", "db/d3a/a00641.html#ab96270d11fbb117a1f967bc0d80f91caadc56c79d9946a6da707fde15807fcfc5", null ]
     ] ]
 ];

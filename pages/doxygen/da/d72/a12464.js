@@ -1,6 +1,6 @@
 var a12464 =
 [
-    [ "npc_mc_core_houndAI", "d7/dc9/a12468.html", "d7/dc9/a12468" ],
-    [ "npc_mc_core_hound", "da/d72/a12464.html#aee1ef71447dbd1494de5e0065bd5ae78", null ],
-    [ "GetAI", "da/d72/a12464.html#a3aa8c5332b509b4d5498cd726ab47e40", null ]
+    [ "boss_sulfuronAI", "da/d72/a12464.html#a63c76fb94131830924e2bf77477261ba", null ],
+    [ "ExecuteEvent", "da/d72/a12464.html#ae038aa8140f5b4128c39c592966321f1", null ],
+    [ "JustEngagedWith", "da/d72/a12464.html#a35394690b8d25529c91c147025f6ad92", null ]
 ];

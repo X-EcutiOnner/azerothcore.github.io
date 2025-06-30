@@ -1,7 +1,6 @@
 var a16276 =
 [
-    [ "HandleAfterHit", "d3/d82/a16276.html#a6fc446385881ddb4c94de73199649816", null ],
-    [ "PrepareSpellScript", "d3/d82/a16276.html#acaed5d5902194f8ba9d2b286cd47d8d0", null ],
-    [ "Register", "d3/d82/a16276.html#aaae368b2f647aa6a56827550e50dafe1", null ],
-    [ "Validate", "d3/d82/a16276.html#ad4c84071b538b657fa1302982f8799b4", null ]
+    [ "boss_anubarak_trialAI", "d6/dc4/a16280.html", "d6/dc4/a16280" ],
+    [ "boss_anubarak_trial", "d3/d82/a16276.html#a5204e33a412608b53cc155a043356d58", null ],
+    [ "GetAI", "d3/d82/a16276.html#a9b8fe9ed3370434612cbd46e7649213d", null ]
 ];

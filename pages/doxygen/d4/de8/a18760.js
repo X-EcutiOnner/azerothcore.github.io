@@ -1,13 +1,8 @@
 var a18760 =
 [
-    [ "npc_icc_putricades_trapAI", "d4/de8/a18760.html#a9252a83e3deee62d5796e9f283662771", null ],
-    [ "DoAction", "d4/de8/a18760.html#ac8a30d8eba315b967c4e0713b14dcba7", null ],
-    [ "JustReachedHome", "d4/de8/a18760.html#a98f908e89630b23584982e298193cc0e", null ],
-    [ "JustSummoned", "d4/de8/a18760.html#abc5776b08b4fd43a4bb430f160eb630a", null ],
-    [ "Reset", "d4/de8/a18760.html#a3430515c94fd419bd2c59113b3f4e625", null ],
-    [ "SummonedCreatureDies", "d4/de8/a18760.html#a2e49dc8924da5d5537c33f7306287963", null ],
-    [ "UpdateAI", "d4/de8/a18760.html#a724e133f2c4d8c9fe140b3b998c88f64", null ],
-    [ "events", "d4/de8/a18760.html#a3249114a5b208109ec2c2a23533ede82", null ],
-    [ "instance", "d4/de8/a18760.html#a9f6f342ffbf6a29c745de6ea6a5ec0dc", null ],
-    [ "summons", "d4/de8/a18760.html#aaa914f4c2b48bd24c2dd06bc3599f563", null ]
+    [ "Class", "d4/de8/a18760.html#a095390e9023609f5836c4481ed79e1af", null ],
+    [ "cooldown_ms", "d4/de8/a18760.html#a6f1fdab250e8557d16066c03a54fb2a4", null ],
+    [ "id", "d4/de8/a18760.html#ae9fdf89271339b93f306c4aa0871f844", null ],
+    [ "range", "d4/de8/a18760.html#aad126da206abceb6a66dcda1cbd3b28b", null ],
+    [ "targetType", "d4/de8/a18760.html#ae5fc8cb423536f631591d3b72bfd06dd", null ]
 ];

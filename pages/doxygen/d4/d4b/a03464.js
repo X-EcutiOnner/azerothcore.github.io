@@ -1,6 +1,6 @@
 var a03464 =
 [
-    [ "fireworkShowGameobjectUndercity", "d4/d4b/a03464.html#a67896d1b367cdcfcbee837b12ee9451c", null ],
-    [ "fireworkShowScheduleUndercity", "d4/d4b/a03464.html#ab00bea2179a021590447cb30da50fce1", null ],
-    [ "fireworkShowUndercity", "d4/d4b/a03464.html#afd61e001f4ea31858964426d56d2b3cf", null ]
+    [ "fireworkShowGameobjectStormwind", "d4/d4b/a03464.html#ae843a13f6116ce380e3890397d825ae6", null ],
+    [ "fireworkShowScheduleStormwind", "d4/d4b/a03464.html#af98c86c5b3725a8753fc620996c94b7f", null ],
+    [ "fireworkShowStormwind", "d4/d4b/a03464.html#a378278257abadcd4369abd66f412d8e6", null ]
 ];

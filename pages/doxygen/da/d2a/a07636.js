@@ -1,4 +1,4 @@
 var a07636 =
 [
-    [ "ChatCommandResult", "da/d2a/a07636.html#a6150ebd46977676b2ddeebfb818e86a9", null ]
+    [ "value", "da/d2a/a07636.html#aa6558e36917995af6b37ec607751aefd", null ]
 ];

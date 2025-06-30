@@ -1,6 +1,6 @@
 var a20124 =
 [
-    [ "npc_ulduar_hodir_shamanAI", "de/d8f/a20128.html", "de/d8f/a20128" ],
-    [ "npc_ulduar_hodir_shaman", "d3/d05/a20124.html#ae73a416c72441ab531d8a5db88183d47", null ],
-    [ "GetAI", "d3/d05/a20124.html#ab06a67b72a3954c65792a478ac90672c", null ]
+    [ "id", "d3/d05/a20124.html#accc6fc59e13a0897ae168fae33ee4c7d", null ],
+    [ "x", "d3/d05/a20124.html#afb67a1dce0819e0da0ceb9b303f43eb9", null ],
+    [ "y", "d3/d05/a20124.html#aaf4fd9f1d5b020e102c0fec3863f7020", null ]
 ];

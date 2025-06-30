@@ -1,5 +1,5 @@
 var a03968 =
 [
-    [ "ticket_commandscript", "df/d4d/a11723.html", "df/d4d/a11723" ],
-    [ "AddSC_ticket_commandscript", "db/de8/a03968.html#ad71463f4442d2e022a92404a4d9dec76", null ]
+    [ "reset_commandscript", "da/d4f/a11720.html", "da/d4f/a11720" ],
+    [ "AddSC_reset_commandscript", "db/de8/a03968.html#ae4c7679595ac3aac5f03426eb6e0e6e4", null ]
 ];

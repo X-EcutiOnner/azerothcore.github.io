@@ -1,7 +1,10 @@
 var a15320 =
 [
-    [ "npc_aged_dying_ancient_kodoAI", "de/d0a/a15320.html#aaed19d0c915891d8afecda7df75a8a75", null ],
-    [ "JustRespawned", "de/d0a/a15320.html#a9353ac81b0c209a56313b52f2257ddd2", null ],
-    [ "MoveInLineOfSight", "de/d0a/a15320.html#a295d4bef97b97c7deb31a81274f0818d", null ],
-    [ "SpellHit", "de/d0a/a15320.html#a021b82aa6bd2e118fe810f18349fda42", null ]
+    [ "npc_murkdeepAI", "de/d0a/a15320.html#abe78235ecb94e4735a6f8eaad7fe6adc", null ],
+    [ "JustEngagedWith", "de/d0a/a15320.html#ad33de7cb0caffcd255db38204ecfbb1c", null ],
+    [ "Reset", "de/d0a/a15320.html#aa89316a0fe4f99630a4a129aed305e24", null ],
+    [ "UpdateAI", "de/d0a/a15320.html#aeca85a1324791d18ac825401fb8a31e8", null ],
+    [ "events", "de/d0a/a15320.html#ae3d344829aeba22ef0c5947863720390", null ],
+    [ "phase", "de/d0a/a15320.html#a74a3a16cb3f2993aea9c5d6736a6914e", null ],
+    [ "spawnTimer", "de/d0a/a15320.html#a6b139fb5cc0776103934f14be15c34d1", null ]
 ];

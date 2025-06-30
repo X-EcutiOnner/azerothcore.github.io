@@ -1,6 +1,9 @@
 var a23216 =
 [
-    [ "HandleScript", "d4/d76/a23216.html#ad81007cd08ee18bfc7cda4221cbc8482", null ],
-    [ "PrepareSpellScript", "d4/d76/a23216.html#a60f0bb4882d3f75f0839cd0d8ab2707d", null ],
-    [ "Register", "d4/d76/a23216.html#ac06f4246c5cecc4875bc93811eaeb839", null ]
+    [ "CalcPeriodic", "d4/d76/a23216.html#a4c5a034d23253b2cf08cb86f12821184", null ],
+    [ "HandleEffectApply", "d4/d76/a23216.html#af60491946062054504b20e16273ed594", null ],
+    [ "HandleEffectRemove", "d4/d76/a23216.html#abfd43cd8e9df873e6c0867779bad13c1", null ],
+    [ "HandlePeriodic", "d4/d76/a23216.html#a5137e24394fa14129c44d92c79eef117", null ],
+    [ "PrepareAuraScript", "d4/d76/a23216.html#ac1f10b9e9d9883c25e28ae313242d41e", null ],
+    [ "Register", "d4/d76/a23216.html#a69108d90f7c3fa95adfc29c14bd8c9fe", null ]
 ];

@@ -1,6 +1,5 @@
 var a12744 =
 [
-    [ "boss_kagani_nightstrike", "da/d5f/a12744.html#aeb4cfab6c4caafcf64d5e54cf481fd6a", null ],
-    [ "JustEngagedWith", "da/d5f/a12744.html#aba5ca4ce6fe6b39bb85aadddbcd9891e", null ],
-    [ "MovementInform", "da/d5f/a12744.html#af1010b7aa7434a92f1168eceda47cc2e", null ]
+    [ "at_karazhan_side_entrance", "da/d5f/a12744.html#abdaa7339a53941e2e89c4fcd439395fc", null ],
+    [ "_OnTrigger", "da/d5f/a12744.html#a80d0018a9442ef7f0834dc329047e135", null ]
 ];

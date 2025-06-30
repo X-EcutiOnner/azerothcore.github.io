@@ -1,11 +1,6 @@
 var a22584 =
 [
-    [ "boss_blackheart_the_inciter", "d0/db8/a22584.html#a772b2b4574fa6ccd445924193985859b", null ],
-    [ "EnterEvadeMode", "d0/db8/a22584.html#aaf2c9d37b0af1db1d35af01923eca45b", null ],
-    [ "JustDied", "d0/db8/a22584.html#a1e7ca1ade637766d4c6039c50e9c85f7", null ],
-    [ "JustEngagedWith", "d0/db8/a22584.html#abeb0cc4ff2543531f7a7c7993559f1cb", null ],
-    [ "KilledUnit", "d0/db8/a22584.html#ad7de71ea14e5be6e2b126edde1c78ab6", null ],
-    [ "Reset", "d0/db8/a22584.html#add75633d1c04d0be91e7e80f28213917", null ],
-    [ "UpdateAI", "d0/db8/a22584.html#a0648c4bbabf30efd706b973bf8028dbb", null ],
-    [ "InciteChaos", "d0/db8/a22584.html#a640c5301b22a0bfef2c4bcac4556a992", null ]
+    [ "instance_mana_tombs_InstanceMapScript", "df/d0a/a22588.html", "df/d0a/a22588" ],
+    [ "instance_mana_tombs", "d0/db8/a22584.html#a78ca8b378e4ab290f1eea2b2b5799630", null ],
+    [ "GetInstanceScript", "d0/db8/a22584.html#a26e4dad0957df886bc446396ab48ceda", null ]
 ];

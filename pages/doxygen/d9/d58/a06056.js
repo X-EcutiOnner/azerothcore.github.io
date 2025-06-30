@@ -1,15 +1,12 @@
 var a06056 =
 [
-    [ "VehicleAI", "d9/d58/a06056.html#aeb8d08eeea0ac12a72ff5dbaf40e9835", null ],
-    [ "AttackStart", "d9/d58/a06056.html#ad06972054ef4525411e859d291226783", null ],
-    [ "CheckConditions", "d9/d58/a06056.html#afcee52b5173ec8b9850da63c1d58cded", null ],
-    [ "LoadConditions", "d9/d58/a06056.html#a2c49067fa9953ba4db4cc6b03a7a9fb0", null ],
-    [ "MoveInLineOfSight", "d9/d58/a06056.html#a48213b69fa4f0034cdc3cd60841d0636", null ],
-    [ "OnCharmed", "d9/d58/a06056.html#a2a593f895c6296c4100af075d971b5b3", null ],
-    [ "Permissible", "d9/d58/a06056.html#a39ad0764dce6586aef86fcd96c2c221c", null ],
-    [ "UpdateAI", "d9/d58/a06056.html#aac593372592d33fa008a66c6dcec1840", null ],
-    [ "conditions", "d9/d58/a06056.html#ae95dc46465404271faaae4b2dc61277a", null ],
-    [ "m_ConditionsTimer", "d9/d58/a06056.html#a3a46c5f18b019852460170e1200b11b4", null ],
-    [ "m_DismissTimer", "d9/d58/a06056.html#a34000f32495dbee3a550147e1e86d761", null ],
-    [ "m_DoDismiss", "d9/d58/a06056.html#a505c1bacb159950e19518ad3b5740a3e", null ]
+    [ "CombatAI", "d9/d58/a06056.html#a32e63efb85155ac3deeb818a9a1ba18a", null ],
+    [ "InitializeAI", "d9/d58/a06056.html#a70caf22165251220365d03873b3d3f17", null ],
+    [ "JustDied", "d9/d58/a06056.html#a9176b9b9c7a5e13fb05dae636c7ef2d4", null ],
+    [ "JustEngagedWith", "d9/d58/a06056.html#ab157082819d821cf0b0093f084111e16", null ],
+    [ "Permissible", "d9/d58/a06056.html#aaf52e2cbeb1ea9a816b5e8d914c03edb", null ],
+    [ "Reset", "d9/d58/a06056.html#a7a39daea9b9bd09572472ae0d8689edd", null ],
+    [ "UpdateAI", "d9/d58/a06056.html#af12583d15ccd183f6236c1889d539b9b", null ],
+    [ "events", "d9/d58/a06056.html#af59650830fa1abdf8eec179a12e328e7", null ],
+    [ "spells", "d9/d58/a06056.html#ae0ecfc744e4200bbf7ea36cdd84b13c0", null ]
 ];

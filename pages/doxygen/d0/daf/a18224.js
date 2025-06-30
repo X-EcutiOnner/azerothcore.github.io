@@ -1,10 +1,6 @@
 var a18224 =
 [
-    [ "HandleScript", "d0/daf/a18224.html#a18c80010b9e8803b3c225acf2dd0b605", null ],
-    [ "Load", "d0/daf/a18224.html#af31fd5b1f9cdc67650eec5e305f095bf", null ],
-    [ "PrepareSpellScript", "d0/daf/a18224.html#afcc1efc69d73086a9ab686855911e516", null ],
-    [ "Register", "d0/daf/a18224.html#a061e110b9a032a9bbd0a48f686d16a84", null ],
-    [ "ReplaceTarget", "d0/daf/a18224.html#a01cb7d25bef14a2266d81594544f6283", null ],
-    [ "SelectTarget", "d0/daf/a18224.html#aa06b7505ff483bc5e534cc37d909b28c", null ],
-    [ "_target", "d0/daf/a18224.html#a3a84a9d7109845d201b395f05f66d109", null ]
+    [ "npc_icc_ice_sphereAI", "dc/d3f/a18228.html", "dc/d3f/a18228" ],
+    [ "npc_icc_ice_sphere", "d0/daf/a18224.html#a4ed169ba87e801bb83ca4f3c457534cf", null ],
+    [ "GetAI", "d0/daf/a18224.html#aabb9ef14ea217f282173edf1600d3ecd", null ]
 ];

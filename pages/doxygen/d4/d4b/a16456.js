@@ -1,6 +1,8 @@
 var a16456 =
 [
-    [ "boss_gormokAI", "da/d87/a16460.html", "da/d87/a16460" ],
-    [ "boss_gormok", "d4/d4b/a16456.html#a86ce0681be4370198c44dde5aa98a593", null ],
-    [ "GetAI", "d4/d4b/a16456.html#a45cff2e7ee0525de37382cf09b116a32", null ]
+    [ "npc_toc_pet_hunterAI", "d4/d4b/a16456.html#a751e37388df10abf4bf9df5d3f373fa3", null ],
+    [ "EnterEvadeMode", "d4/d4b/a16456.html#a7f60ea2596fa4af2209333696dbe00e0", null ],
+    [ "myCanCast", "d4/d4b/a16456.html#aefaa41a92000d8915853988ce3fd5bc4", null ],
+    [ "UpdateAI", "d4/d4b/a16456.html#aec1d16cdcb7d86d7de4de10ca34f491d", null ],
+    [ "events", "d4/d4b/a16456.html#ade038312363f976b34868ed2cbebb58d", null ]
 ];

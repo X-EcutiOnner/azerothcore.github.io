@@ -1,6 +1,14 @@
 var a15260 =
 [
-    [ "npc_webbed_creatureAI", "d7/dbe/a15264.html", "d7/dbe/a15264" ],
-    [ "npc_webbed_creature", "d1/d42/a15260.html#ae52152939766c411e45e827e9ab52d4f", null ],
-    [ "GetAI", "d1/d42/a15260.html#a30fd53b81260b7fd6ca06881930b79e9", null ]
+    [ "npc_draenei_survivorAI", "d1/d42/a15260.html#a8766dcf9afd6d26d619bead82b549a8f", null ],
+    [ "JustEngagedWith", "d1/d42/a15260.html#a6d0b790ad7466b14bf0bba0aa37eebf2", null ],
+    [ "MoveInLineOfSight", "d1/d42/a15260.html#a2b3f0a595fde04ad1e054331a596e225", null ],
+    [ "Reset", "d1/d42/a15260.html#a3db19a846ce3b4810321eb02d314633f", null ],
+    [ "SpellHit", "d1/d42/a15260.html#a079789d2f6a03b1c7b0ac7dc43a2550a", null ],
+    [ "UpdateAI", "d1/d42/a15260.html#aa3fd8e3747fa69b5156e932fddaf6fa7", null ],
+    [ "CanSayHelp", "d1/d42/a15260.html#a6bf8c4eb06fe661da0c850424843bd42", null ],
+    [ "pCaster", "d1/d42/a15260.html#a35ad8350e51fd520b75cd0289f19cb09", null ],
+    [ "RunAwayTimer", "d1/d42/a15260.html#a233885b12615bfbc927d8845d0cff3fd", null ],
+    [ "SayHelpTimer", "d1/d42/a15260.html#a8d77b110c6af6615d5d39e0870cbe890", null ],
+    [ "SayThanksTimer", "d1/d42/a15260.html#a4f2d829af97d6fb5ef13e3922ebe99e8", null ]
 ];

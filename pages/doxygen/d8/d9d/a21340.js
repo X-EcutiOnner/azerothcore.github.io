@@ -1,8 +1,11 @@
 var a21340 =
 [
-    [ "npc_azure_mage_slayerAI", "d8/d9d/a21340.html#af1a57574d70a48b16d70d8a056f54018", null ],
-    [ "Reset", "d8/d9d/a21340.html#aabe921f0d4fd147c457779791a7af619", null ],
-    [ "UpdateAI", "d8/d9d/a21340.html#a7cc5ea88be6c9cf767a0cd433db7dd73", null ],
-    [ "uiArcaneEmpowermentTimer", "d8/d9d/a21340.html#ace0fdd5e4b57e7ce603d2355bfc838dd", null ],
-    [ "uiSpellLockTimer", "d8/d9d/a21340.html#ac3c4d2be0dd9ba42e40adccda7100947", null ]
+    [ "npc_vh_void_sentryAI", "d8/d9d/a21340.html#a312f4bbc07e6d786e85c2b4e89d36344", null ],
+    [ "DoAction", "d8/d9d/a21340.html#a0bc95eea54b5cdc16a4d3f588f3ff900", null ],
+    [ "JustDied", "d8/d9d/a21340.html#add5121ed38a74be9ae168df5f893f89e", null ],
+    [ "SummonedCreatureDespawn", "d8/d9d/a21340.html#a24ff36cdb049da7c67c1f041361e17e4", null ],
+    [ "UpdateAI", "d8/d9d/a21340.html#ae1f683d5ef920213c9c86da35c626381", null ],
+    [ "checkTimer", "d8/d9d/a21340.html#a675bcae4119e45490403013534c731ef", null ],
+    [ "pInstance", "d8/d9d/a21340.html#a7527473944681143bab89fd12b475645", null ],
+    [ "SummonedGUID", "d8/d9d/a21340.html#a4420eb2cf4d3b6d161355b0f4ad9516d", null ]
 ];

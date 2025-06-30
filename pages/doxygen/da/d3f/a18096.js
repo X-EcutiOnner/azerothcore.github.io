@@ -1,6 +1,8 @@
 var a18096 =
 [
-    [ "LichKingMovieEvent", "da/d3f/a18096.html#a3e48e13dc5166c73a9f379045988f86a", null ],
-    [ "Execute", "da/d3f/a18096.html#a22d6181fd2651d62dcb6cdbabe0561fe", null ],
-    [ "_owner", "da/d3f/a18096.html#a7ed68f442a644d6bb7a036812351d89e", null ]
+    [ "FilterTargets", "da/d3f/a18096.html#a14e392760361b95578bc95de10cdd8aa", null ],
+    [ "HandleForcedCast", "da/d3f/a18096.html#afbf6d0ee66d192a81ed12f2e28e195f1", null ],
+    [ "PrepareSpellScript", "da/d3f/a18096.html#a8bb53a933c5a2ec33966c6acd1a6da65", null ],
+    [ "Register", "da/d3f/a18096.html#ac2105e66f692c6a991ac9190b1901505", null ],
+    [ "Validate", "da/d3f/a18096.html#a1746786ad6daaac11aefd32e00c8d1ea", null ]
 ];

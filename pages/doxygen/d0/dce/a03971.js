@@ -1,5 +1,5 @@
 var a03971 =
 [
-    [ "HandleLearnSpellCommand", "d0/dce/a03971.html#acbe37f872cbc981a27671ebdf10904de", null ],
-    [ "HandleUnlearnSpellCommand", "d0/dce/a03971.html#ad36f90f90b3d9aaf782f7efc859f7e7a", null ]
+    [ "message_commandscript", "d6/dae/a11668.html", "d6/dae/a11668" ],
+    [ "AddSC_message_commandscript", "d0/dce/a03971.html#a85760eb92ac87e8dcb18c91d31f09fc0", null ]
 ];

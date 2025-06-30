@@ -1,6 +1,7 @@
 var a09008 =
 [
-    [ "m_guid", "dd/d73/a09008.html#afa8383c81a2d75f9ead2e8f3daa29086", null ],
-    [ "m_instance", "dd/d73/a09008.html#a8bc0c5e1cf45073f054c5154c21b3d72", null ],
-    [ "m_state", "dd/d73/a09008.html#a3ac18fb8f5d386e3245a2435e31e45e1", null ]
+    [ "QuestPOIPoint", "dd/d73/a09008.html#a99aaafe1fdae391c6fba20e0c623ff99", null ],
+    [ "QuestPOIPoint", "dd/d73/a09008.html#a2e80e5a83ab336a8b019f38297862efa", null ],
+    [ "x", "dd/d73/a09008.html#a5e9592283b28cd6ff0610ec0438b2a2d", null ],
+    [ "y", "dd/d73/a09008.html#a45211fd0fbeeb5d9fced2b2c31502851", null ]
 ];

@@ -1,6 +1,6 @@
 var a17368 =
 [
-    [ "PrepareAuraScript", "d0/dca/a17368.html#abbcd0a9a63908a875bcdbc66fb5e1218", null ],
-    [ "RecalculateHook", "d0/dca/a17368.html#a829e96cabbb565922f7183adb3edf13c", null ],
-    [ "Register", "d0/dca/a17368.html#a7ded7cbe8c5cbffd6798bbb66d8a5d1a", null ]
+    [ "boss_deathbringer_saurfangAI", "df/dc5/a17372.html", "df/dc5/a17372" ],
+    [ "boss_deathbringer_saurfang", "d0/dca/a17368.html#ad19893be7dc3b4290d9b1ed3bb992e08", null ],
+    [ "GetAI", "d0/dca/a17368.html#a6bc1ef44b3ea9e860d62bf78cfa38c92", null ]
 ];

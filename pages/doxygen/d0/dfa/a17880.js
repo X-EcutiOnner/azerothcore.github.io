@@ -1,6 +1,6 @@
 var a17880 =
 [
-    [ "ExtraRemoveEffect", "d0/dfa/a17880.html#a49b1087d66606ddeebe6918ad05d4b37", null ],
-    [ "PrepareAuraScript", "d0/dfa/a17880.html#a41992ed6c23275d3a910915755b682f9", null ],
-    [ "Register", "d0/dfa/a17880.html#ab956cb95473cf0c5fc9fb2af14fc945e", null ]
+    [ "OnRemove", "d0/dfa/a17880.html#a5b9f23b815b1c85ecf2e56c626ce5077", null ],
+    [ "PrepareAuraScript", "d0/dfa/a17880.html#a9207d9f59026e1beb7c266ee3a1ef884", null ],
+    [ "Register", "d0/dfa/a17880.html#ad9eb03a09fc13f6b2b30e9f6cc1990bc", null ]
 ];

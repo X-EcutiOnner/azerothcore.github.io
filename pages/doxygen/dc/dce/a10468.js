@@ -1,6 +1,7 @@
 var a10468 =
 [
-    [ "PlayedTimeClient", "dc/dce/a10468.html#a1c82d4d153606da9887d64599f319883", null ],
-    [ "Read", "dc/dce/a10468.html#a0d25fccc9fb4fdaa5ba3bb11851a14f3", null ],
-    [ "TriggerScriptEvent", "dc/dce/a10468.html#a092b32f76df529a4f1284d7231b8fc6b", null ]
+    [ "LogoutResponse", "dc/dce/a10468.html#a434ee19fbc4d3e336444b1c62ac2be84", null ],
+    [ "Write", "dc/dce/a10468.html#a0b08225b6ac303afd20ec213aafe4bcb", null ],
+    [ "Instant", "dc/dce/a10468.html#aad6819dc426b91b6ad43f180a53e12ef", null ],
+    [ "LogoutResult", "dc/dce/a10468.html#a5543bf1a6342e9a217cd906e4a185b2e", null ]
 ];

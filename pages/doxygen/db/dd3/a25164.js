@@ -1,7 +1,7 @@
 var a25164 =
 [
-    [ "EjectPassenger", "db/dd3/a25164.html#a17ead3b25e5cebda3c9d5008f54f27ef", null ],
-    [ "PrepareSpellScript", "db/dd3/a25164.html#abada0f860ea3cd6c16fbe4d73263d95a", null ],
-    [ "Register", "db/dd3/a25164.html#ad5af65bc326aebcc1a2e19dabe624ad1", null ],
-    [ "Validate", "db/dd3/a25164.html#a24ad6ca59f4f38cfa34de16c4167944e", null ]
+    [ "CalculateAmount", "db/dd3/a25164.html#a074a7de6cd4d930c1f23f6398c738bad", null ],
+    [ "Load", "db/dd3/a25164.html#a777803a61286e0eba31246d4771630df", null ],
+    [ "PrepareAuraScript", "db/dd3/a25164.html#ab76bc3927d3ce31ae061fe8577ca25f0", null ],
+    [ "Register", "db/dd3/a25164.html#a335e1629b98bfacf6e4e565b94d4991e", null ]
 ];

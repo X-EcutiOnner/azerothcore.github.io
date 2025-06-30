@@ -1,10 +1,12 @@
 var a14588 =
 [
-    [ "npc_hyjal_gargoyle", "d9/d64/a14588.html#a35b17d008d96116b2e3cf09cceacd6fb", null ],
-    [ "AttackStart", "d9/d64/a14588.html#a0301be4d3e34f1248708fdcd3f0d5ea8", null ],
-    [ "DoAction", "d9/d64/a14588.html#ae213c71426f438dd2b27699d7de23664", null ],
-    [ "JustEngagedWith", "d9/d64/a14588.html#ae10a90c817a7df8d0d6ed18c9cdf6387", null ],
-    [ "PathEndReached", "d9/d64/a14588.html#a9ae52d3f7176045ef28713f3e1a16153", null ],
-    [ "Reset", "d9/d64/a14588.html#af314bb183bde44680eeb136d2a08c142", null ],
-    [ "UpdateAI", "d9/d64/a14588.html#ac1ca0648b08430a8bcbf99980222b684", null ]
+    [ "boss_kazrogal", "d9/d64/a14588.html#a2b3cc0e99c478c55f907898fbec2b8b2", null ],
+    [ "DoAction", "d9/d64/a14588.html#a7721debceeefaeb69e71855b8e8742f8", null ],
+    [ "GetMarkRepeatTimer", "d9/d64/a14588.html#a0b54f8c935d09367d7e6b7dbf6c4ce61", null ],
+    [ "JustDied", "d9/d64/a14588.html#abc839abddfbb5fb1e1dd3a67e0b661cb", null ],
+    [ "JustEngagedWith", "d9/d64/a14588.html#a2c0aafd271b2500d32f5add7e75cd990", null ],
+    [ "KilledUnit", "d9/d64/a14588.html#ab1439114a84d85947106d979f38d12fa", null ],
+    [ "Reset", "d9/d64/a14588.html#acb9f4ee5d97b43082bf6fc0c424685ab", null ],
+    [ "_markCounter", "d9/d64/a14588.html#a54ef8b88bf62e260e19a964d1926ef4a", null ],
+    [ "_recentlySpoken", "d9/d64/a14588.html#ad7401abae1b25d58ed93cc800d75bc26", null ]
 ];

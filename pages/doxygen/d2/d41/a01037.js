@@ -1,10 +1,11 @@
 var a01037 =
 [
-    [ "CALL_ENABLED_BOOLEAN_HOOKS", "d2/d41/a01037.html#a6ed5893c246e1f2c46b3d33ef8729a64", null ],
-    [ "CALL_ENABLED_BOOLEAN_HOOKS_WITH_DEFAULT_FALSE", "d2/d41/a01037.html#a370083225ad9db5b05a730ce4fb26d2f", null ],
-    [ "CALL_ENABLED_HOOKS", "d2/d41/a01037.html#a9662d12a9f13490594165729108aa0b1", null ],
-    [ "ExecuteScript", "d2/d41/a01037.html#a80951f767a7c77417a671490893db073", null ],
-    [ "GetReturnAIScript", "d2/d41/a01037.html#aceff01aa3f5ab68a0253704ef30041df", null ],
-    [ "IsValidBoolScript", "d2/d41/a01037.html#a9dedac0cb410c9d87f0470ffd0eb6c66", null ],
-    [ "ReturnValidBool", "d2/d41/a01037.html#a670fda94f7e41c38816a1e12f9efec7c", null ]
+    [ "StableResultCode", "d2/d41/a01037.html#abee8740a43e35bc796d1287225999514", [
+      [ "STABLE_ERR_MONEY", "d2/d41/a01037.html#abee8740a43e35bc796d1287225999514a2e1a0a641b8771fd5ac124129e76b8c2", null ],
+      [ "STABLE_ERR_STABLE", "d2/d41/a01037.html#abee8740a43e35bc796d1287225999514af3160ddc997ae8fc32c4420aa8169898", null ],
+      [ "STABLE_SUCCESS_STABLE", "d2/d41/a01037.html#abee8740a43e35bc796d1287225999514a87d687b90cdb7cc884567156b95da61e", null ],
+      [ "STABLE_SUCCESS_UNSTABLE", "d2/d41/a01037.html#abee8740a43e35bc796d1287225999514afb9c62c9485c5e5f50c502a61a8f0ab1", null ],
+      [ "STABLE_SUCCESS_BUY_SLOT", "d2/d41/a01037.html#abee8740a43e35bc796d1287225999514aaa2a19926ebaa7372be4a798c5513317", null ],
+      [ "STABLE_ERR_EXOTIC", "d2/d41/a01037.html#abee8740a43e35bc796d1287225999514ac96f0f7b1cccb7a29b30b8152c780f47", null ]
+    ] ]
 ];

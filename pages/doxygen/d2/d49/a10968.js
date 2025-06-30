@@ -1,7 +1,7 @@
 var a10968 =
 [
-    [ "Player", "d2/d49/a10968.html#a7f4241aa9ecc051c75f779af132a52ed", null ],
-    [ "WorldSession", "d2/d49/a10968.html#a65b5c30bf4f5f118a199e378d903aaf6", null ],
-    [ "FactionChange", "d2/d49/a10968.html#adff657ead29df26ead5e20a8ecf44e87", null ],
-    [ "Race", "d2/d49/a10968.html#a98d5fd43205a0c9e2d3be75d384ce00c", null ]
+    [ "MapSessionFilter", "d2/d49/a10968.html#ad11a700c36f8f45640402e96edc74b49", null ],
+    [ "~MapSessionFilter", "d2/d49/a10968.html#a82960e741c8f64d24a764a915f14e2b8", null ],
+    [ "Process", "d2/d49/a10968.html#a54483596fe2a5a0d30fab9a13506b375", null ],
+    [ "ProcessUnsafe", "d2/d49/a10968.html#a8e3a7dd5affb24305435aea2c57718fa", null ]
 ];

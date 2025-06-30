@@ -1,5 +1,7 @@
 var a10764 =
 [
-    [ "DurabilityDamageDeath", "df/d96/a10764.html#a9b4350d37291b9b714be1563b28dcb43", null ],
-    [ "Write", "df/d96/a10764.html#a35a93d9abeeb029f3da080487423f495", null ]
+    [ "RandomRollClient", "df/d96/a10764.html#a6d2edee5a6dbafd5b6194b60eeb0aafb", null ],
+    [ "Read", "df/d96/a10764.html#ab682763f35a40f776b1742927df0a336", null ],
+    [ "Max", "df/d96/a10764.html#a45a1e140ed402f54deb4c0798360a43a", null ],
+    [ "Min", "df/d96/a10764.html#a3cd07e7891b43b453b56013d76f51f71", null ]
 ];

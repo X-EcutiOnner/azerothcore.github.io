@@ -1,8 +1,10 @@
 var a11676 =
 [
-    [ "pet_commandscript", "d2/d40/a11676.html#a84595dcb908398e80deee0b0aa47e335", null ],
-    [ "GetCommands", "d2/d40/a11676.html#a01026a4936774d2225d10e0f6e27b08c", null ],
-    [ "HandlePetCreateCommand", "d2/d40/a11676.html#a993d06169aa0b0c4bbda38e124b6eea9", null ],
-    [ "HandlePetLearnCommand", "d2/d40/a11676.html#a59a2a6bd9af23fe3a775319216337bda", null ],
-    [ "HandlePetUnlearnCommand", "d2/d40/a11676.html#ae6d785cdde773b107ba5e619b039f7b8", null ]
+    [ "mmaps_commandscript", "d2/d40/a11676.html#a1dbdfd26bdb685315a3012453080a56f", null ],
+    [ "GetCommands", "d2/d40/a11676.html#aec91072f9e651c9136bf1a405a9bb95a", null ],
+    [ "HandleMmapLoadedTilesCommand", "d2/d40/a11676.html#a40d5b7e733298210c686fe89490b6f61", null ],
+    [ "HandleMmapLocCommand", "d2/d40/a11676.html#aa3dc699456256d8b2ab9fdd97891bd96", null ],
+    [ "HandleMmapPathCommand", "d2/d40/a11676.html#a2c876439ad6d9ff7523f140d97743dea", null ],
+    [ "HandleMmapStatsCommand", "d2/d40/a11676.html#a823b56cdbb0c97176990bb01af9af9fc", null ],
+    [ "HandleMmapTestArea", "d2/d40/a11676.html#aaae2e5548a6bd9c670db0721ea7508bd", null ]
 ];

@@ -1,9 +1,13 @@
 var a28592 =
 [
-    [ "WDT_file", "dd/def/a28592.html#afa32849d31abde3cb2c9f3b558816368", null ],
-    [ "~WDT_file", "dd/def/a28592.html#a29bf710b8346204eb848017450afebe1", null ],
-    [ "free", "dd/def/a28592.html#aee6c7e1e402cf986e754753c5e8aee72", null ],
-    [ "prepareLoadedData", "dd/def/a28592.html#add675f96f010e67ca1df01b029c9ebfb", null ],
-    [ "main", "dd/def/a28592.html#a89ddf5d1527ac16a5d05790769d266b3", null ],
-    [ "mphd", "dd/def/a28592.html#a1d216a266e5e6390e9bd2e02c9d3c7f2", null ]
+    [ "MPQArchive", "dd/def/a28592.html#a58d57322334966ca16a22e52e5198d9f", null ],
+    [ "~MPQArchive", "dd/def/a28592.html#a5bce22525ca16381fbb4729540a165e2", null ],
+    [ "MPQArchive", "dd/def/a28592.html#a58d57322334966ca16a22e52e5198d9f", null ],
+    [ "~MPQArchive", "dd/def/a28592.html#a5bce22525ca16381fbb4729540a165e2", null ],
+    [ "close", "dd/def/a28592.html#ac40182c8e52d70aa1f53325f1b48f259", null ],
+    [ "close", "dd/def/a28592.html#ac40182c8e52d70aa1f53325f1b48f259", null ],
+    [ "GetFileListTo", "dd/def/a28592.html#ab91bd82370a1ebcf6b46fc3047188640", null ],
+    [ "GetFileListTo", "dd/def/a28592.html#ab91bd82370a1ebcf6b46fc3047188640", null ],
+    [ "isOpened", "dd/def/a28592.html#a2026335b9ede29197acfaac8513456d5", null ],
+    [ "mpq_a", "dd/def/a28592.html#a72b9fb96b1e3db6c7be652e426978b4a", null ]
 ];

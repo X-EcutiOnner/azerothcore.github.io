@@ -1,7 +1,6 @@
 var a15492 =
 [
-    [ "npc_kaya_flathoofAI", "da/d45/a15496.html", "da/d45/a15496" ],
-    [ "npc_kaya_flathoof", "d1/d6a/a15492.html#a588f88b1c00927a4ad6b7cd25fc1b065", null ],
-    [ "GetAI", "d1/d6a/a15492.html#ad7cce0c1a30abe5bc0bffa777c40c79a", null ],
-    [ "OnQuestAccept", "d1/d6a/a15492.html#acdb20ecb1ffee4417c9b39f3aebb0591", null ]
+    [ "SpellId", "d1/d6a/a15492.html#a2c430be201c1fd866ee96224f1803a20", null ],
+    [ "Timer1", "d1/d6a/a15492.html#a9a35c148286e88f48b174be8b74fc5d0", null ],
+    [ "Timer2", "d1/d6a/a15492.html#a108dee679b1f5d9fb8351f7b4b4f3a56", null ]
 ];

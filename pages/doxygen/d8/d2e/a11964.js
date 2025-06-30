@@ -1,6 +1,11 @@
 var a11964 =
 [
-    [ "boss_gythAI", "d2/d1c/a11968.html", "d2/d1c/a11968" ],
-    [ "boss_gyth", "d8/d2e/a11964.html#a286d19b0a6e317cb7e69343982b71062", null ],
-    [ "GetAI", "d8/d2e/a11964.html#a3706cbdd1bfb16112653d31cfa971b30", null ]
+    [ "boss_doomrelAI", "d8/d2e/a11964.html#a231cc3989d1c575af941a5462ad94cbd", null ],
+    [ "EnterEvadeMode", "d8/d2e/a11964.html#ae633f4cc1747f291a3911ca50ee39370", null ],
+    [ "JustEngagedWith", "d8/d2e/a11964.html#a622f673548b0a6f1db2a59ef69f31ac7", null ],
+    [ "Reset", "d8/d2e/a11964.html#aec30616ad3c84ee4b6dd92f6ac8b4fbc", null ],
+    [ "UpdateAI", "d8/d2e/a11964.html#a3d851f7bd5a78858fd228cac78c05f27", null ],
+    [ "_events", "d8/d2e/a11964.html#aaf800dd1d20dc8288cad5aa21cd602b0", null ],
+    [ "instance", "d8/d2e/a11964.html#aa0fc44bb955e83c2ef7b7373751fc2c2", null ],
+    [ "Voidwalkers", "d8/d2e/a11964.html#af29d871a370a534f508f225d49c3dc9f", null ]
 ];

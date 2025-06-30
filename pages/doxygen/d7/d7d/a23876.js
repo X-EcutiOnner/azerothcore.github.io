@@ -1,7 +1,9 @@
 var a23876 =
 [
-    [ "OnPeriodic", "d7/d7d/a23876.html#a7ef787ac13b97aa225a5340f7bfcc4e3", null ],
-    [ "PrepareAuraScript", "d7/d7d/a23876.html#a6f7db06cc1ace68ee0076077773b1659", null ],
-    [ "Register", "d7/d7d/a23876.html#a559347bedad9fd8a0e6f4c5b14333c06", null ],
-    [ "Validate", "d7/d7d/a23876.html#aae1c2d5b8eb30341a67e261e69a4d294", null ]
+    [ "boss_nethermancer_sepethrea", "d7/d7d/a23876.html#aae77446e9a8f2ac41601049d3fe9ffd4", null ],
+    [ "EnterEvadeMode", "d7/d7d/a23876.html#a0ac9dd29b73e8734318851ffd9a09162", null ],
+    [ "JustDied", "d7/d7d/a23876.html#a2ac13176ebffa245fd9e0ba6173f30cc", null ],
+    [ "JustEngagedWith", "d7/d7d/a23876.html#a89851b9f6eb94270fe22151d3a968bec", null ],
+    [ "JustSummoned", "d7/d7d/a23876.html#acf98dbddcd55131cb9cdebe6d319e2c2", null ],
+    [ "KilledUnit", "d7/d7d/a23876.html#ad9606ca8c1fe6f68f72ec415cc70ef2f", null ]
 ];

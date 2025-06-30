@@ -1,6 +1,7 @@
 var a22916 =
 [
-    [ "HandleEffectRemove", "d5/d19/a22916.html#a99891cf49d35a857cd014fe83bc83e43", null ],
-    [ "PrepareAuraScript", "d5/d19/a22916.html#ab8fed8e7b561146cca35fe8534ea248c", null ],
-    [ "Register", "d5/d19/a22916.html#a5a65a3fca846dc40aeb31e4ff56958ca", null ]
+    [ "npc_ashtongue_channeler", "d5/d19/a22916.html#af7217d00f87e56e5cdb411fcad161b51", null ],
+    [ "Reset", "d5/d19/a22916.html#ab935559c19b18f9c94dd36c85be5b3b2", null ],
+    [ "UpdateAI", "d5/d19/a22916.html#af855dfa521404c4e6127a9bf12a75604", null ],
+    [ "scheduler", "d5/d19/a22916.html#a4f58bbd2c44f7a3f9835fd55408ffaf4", null ]
 ];

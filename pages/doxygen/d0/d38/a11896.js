@@ -1,11 +1,7 @@
 var a11896 =
 [
-    [ "boss_high_interrogator_gerstahnAI", "d0/d38/a11896.html#a557fda67d1d1de268ba661350ba915dc", null ],
-    [ "JustEngagedWith", "d0/d38/a11896.html#a80e01faa471f9e83e85c3c47fd815dea", null ],
-    [ "Reset", "d0/d38/a11896.html#ab63099f83037b3716d1e2b9c21d7d607", null ],
-    [ "UpdateAI", "d0/d38/a11896.html#a67b34f7cf4c62a57bc9fb556f5fb0b81", null ],
-    [ "ManaBurn_Timer", "d0/d38/a11896.html#aede307f972942c15c4b2bfa90e75856d", null ],
-    [ "PsychicScream_Timer", "d0/d38/a11896.html#a291f3484e4d125fefe437d96b12153f1", null ],
-    [ "ShadowShield_Timer", "d0/d38/a11896.html#a7ba151c46b097825dca9b8e3ac2cdee9", null ],
-    [ "ShadowWordPain_Timer", "d0/d38/a11896.html#aec0eab93e8494bc1abc87d81460fac31", null ]
+    [ "boss_gorosh_the_dervishAI", "d0/d38/a11896.html#adac003c51a2d1d0a8daa6ba552114c25", null ],
+    [ "JustEngagedWith", "d0/d38/a11896.html#a52bc5f76baff626b8834aa604fdd8e6a", null ],
+    [ "UpdateAI", "d0/d38/a11896.html#aa17e26419a8e3f7cd99c5e9b44be8ed8", null ],
+    [ "nextWhirlwindTime", "d0/d38/a11896.html#a07f1af63bc54d1b4c8d8e1cd87a787a1", null ]
 ];
