@@ -1,8 +1,6 @@
 var a23352 =
 [
-    [ "boss_hungarfen", "d7/d93/a23352.html#a009b8d34731d2310a53195024b434935", null ],
-    [ "JustEngagedWith", "d7/d93/a23352.html#a3612bb373ecdba4245587fd94257ba62", null ],
-    [ "Reset", "d7/d93/a23352.html#a4b310eff8af9a33c50ae8f2035ba76ad", null ],
-    [ "UpdateAI", "d7/d93/a23352.html#a1765bd54c04a3479e837b3d0e241300e", null ],
-    [ "_scheduler", "d7/d93/a23352.html#a702185681abb6cfc4add7078ff5bbb52", null ]
+    [ "instance_steam_vault_InstanceMapScript", "d8/de0/a23356.html", "d8/de0/a23356" ],
+    [ "instance_steam_vault", "d7/d93/a23352.html#aa3417083841ccb50c8a2f29ba343e115", null ],
+    [ "GetInstanceScript", "d7/d93/a23352.html#a3a2edb84cc7067d3c8fa2151b4763c5a", null ]
 ];

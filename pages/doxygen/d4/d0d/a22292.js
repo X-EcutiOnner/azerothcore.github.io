@@ -1,7 +1,9 @@
 var a22292 =
 [
-    [ "npc_wg_demolisher_engineer", "d4/d0d/a22292.html#a722ff6bac34730bfb5f36584d7a62ff8", null ],
-    [ "canBuild", "d4/d0d/a22292.html#a5dd51b0d0a05ebfb648faab570e27881", null ],
-    [ "OnGossipHello", "d4/d0d/a22292.html#ac3b0bbfd66bb94f29a6d733999b8c6ba", null ],
-    [ "OnGossipSelect", "d4/d0d/a22292.html#a3ecf69f45918bef0cb51023327ac9693", null ]
+    [ "HandlePeriodic", "d4/d0d/a22292.html#a3d9ef90ec1ddebe2b2f3dd3a8b9eb25a", null ],
+    [ "Load", "d4/d0d/a22292.html#af5ed9dda3b2a2fd208fdc32de414c28a", null ],
+    [ "PrepareAuraScript", "d4/d0d/a22292.html#a1057e5262d413149a023bc904a3c3751", null ],
+    [ "Register", "d4/d0d/a22292.html#a47b9665b84742fd8cbb4e422d667b2ac", null ],
+    [ "Validate", "d4/d0d/a22292.html#a85d7ac258d50f690574ad7656256cd05", null ],
+    [ "_counter", "d4/d0d/a22292.html#a855bb93d5d9c5d8a9d06cfbb16d8d814", null ]
 ];

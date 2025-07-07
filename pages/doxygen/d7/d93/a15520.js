@@ -1,5 +1,6 @@
 var a15520 =
 [
-    [ "go_crystalline_tear", "d7/d93/a15520.html#a9e19c6538ecd1a758f2639171321d965", null ],
-    [ "OnQuestAccept", "d7/d93/a15520.html#a4efd6b2b8ca37462ba3a26d05f01ec2d", null ]
+    [ "npc_qiraj_war_spawnAI", "d0/de7/a15524.html", "d0/de7/a15524" ],
+    [ "npc_qiraj_war_spawn", "d7/d93/a15520.html#a2afba33e9fd879ac3fea206768b14334", null ],
+    [ "GetAI", "d7/d93/a15520.html#a32339f20251c188b895c02b6cc9217e9", null ]
 ];

@@ -1,7 +1,8 @@
 var a13332 =
 [
-    [ "HandleScriptEffect", "d0/d3b/a13332.html#ae631c634c77cc207338e3549a664969b", null ],
-    [ "PrepareSpellScript", "d0/d3b/a13332.html#ac9f825f10512be5849c46460e9cdbec8", null ],
-    [ "Register", "d0/d3b/a13332.html#ac8a4d26de8c78942efc5cfbf78c64633", null ],
-    [ "Validate", "d0/d3b/a13332.html#ab05236bc29c00cfc7a5dfb88a8c2ee98", null ]
+    [ "FilterTargets", "d0/d3b/a13332.html#a3282eb4c27b4256705bba47f4934c9b8", null ],
+    [ "HandleScriptEffect", "d0/d3b/a13332.html#a8622351d9984d2de69ccd67d37fd52b9", null ],
+    [ "PrepareSpellScript", "d0/d3b/a13332.html#a6083e35b4289b8a960dd6b223e1d02b5", null ],
+    [ "Register", "d0/d3b/a13332.html#a57b42bf7b94ef5b23092ed097ce016e8", null ],
+    [ "Validate", "d0/d3b/a13332.html#a5493864b068de82015bc157f3d0899b3", null ]
 ];

@@ -1,9 +1,9 @@
 var a22832 =
 [
-    [ "FilterTargets", "db/db1/a22832.html#aa8f0401dd004e816b8071381289116fa", null ],
-    [ "HandleTeleportUnits", "db/db1/a22832.html#a4333f10a29ef3e5643f637899a0ab5c5", null ],
-    [ "PrepareSpellScript", "db/db1/a22832.html#a47898c213cdd125714c80d327bf42d8c", null ],
-    [ "Register", "db/db1/a22832.html#a6036577cd7b4fbbc55e90e9ab067f13a", null ],
-    [ "SetDest", "db/db1/a22832.html#a4cf75d96a0d1de62bc989826204b04c9", null ],
-    [ "Validate", "db/db1/a22832.html#a814083360970284a325621f45e109b5b", null ]
+    [ "boss_mother_shahraz", "db/db1/a22832.html#adba94363f74975301472d79f24894df8", null ],
+    [ "JustDied", "db/db1/a22832.html#ab69d81acde4e6e2a3f6adb032090b958", null ],
+    [ "JustEngagedWith", "db/db1/a22832.html#a021c702e7eff266308fee8a4220a6ec7", null ],
+    [ "KilledUnit", "db/db1/a22832.html#a81ed314ae9737c0989b62c27c9ce4cc9", null ],
+    [ "Reset", "db/db1/a22832.html#ab9e4162ac92e786b84b6497c37251386", null ],
+    [ "_canTalk", "db/db1/a22832.html#a821d91439c60a60ffcff07b6bdbbc070", null ]
 ];

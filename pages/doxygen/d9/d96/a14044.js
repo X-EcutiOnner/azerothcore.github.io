@@ -1,6 +1,6 @@
 var a14044 =
 [
-    [ "HandleOnHit", "d9/d96/a14044.html#a36909ef786940eb1a05539c968d78e80", null ],
-    [ "PrepareSpellScript", "d9/d96/a14044.html#a4bc6792c99b40834ec1a8a9764589e24", null ],
-    [ "Register", "d9/d96/a14044.html#ad1d60c5f747f8ec16cbf2402567cfebd", null ]
+    [ "LaunchHit", "d9/d96/a14044.html#a10bb54a1a0cd992e9e944870684f3a21", null ],
+    [ "PrepareSpellScript", "d9/d96/a14044.html#a95e85ecfcc5b72c250a0bc184b1d32a7", null ],
+    [ "Register", "d9/d96/a14044.html#a19c6111ea0c3506ddc2d8459c192f04f", null ]
 ];

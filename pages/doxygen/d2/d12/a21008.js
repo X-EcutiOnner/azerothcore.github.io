@@ -1,6 +1,6 @@
 var a21008 =
 [
-    [ "HandleEffectPeriodic", "d2/d12/a21008.html#a3dd6eaa3e5800b92e19c12e47b0ad132", null ],
-    [ "PrepareAuraScript", "d2/d12/a21008.html#a0b24e94cfce6b57d2dc8b36c3fe1c39f", null ],
-    [ "Register", "d2/d12/a21008.html#a4dd779cac93c2f847495dadc67c0beb2", null ]
+    [ "npc_ulduar_storm_tempered_keeperAI", "d5/d86/a21012.html", "d5/d86/a21012" ],
+    [ "npc_ulduar_storm_tempered_keeper", "d2/d12/a21008.html#aaf2ef154cad4f2ba5796e410dabf02fc", null ],
+    [ "GetAI", "d2/d12/a21008.html#aa0860236d2abedba1e521ee1610c89e8", null ]
 ];

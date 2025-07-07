@@ -1,10 +1,10 @@
 var a27396 =
 [
-    [ "npc_prof_tailor", "d9/d5d/a27396.html#a481157e49fb1c09f62a3cb9de85c9da1", null ],
-    [ "HasTailorSpell", "d9/d5d/a27396.html#a188c0ac66b1972bccd031aca26f7fecd", null ],
-    [ "OnGossipHello", "d9/d5d/a27396.html#a686098ac43916ea2f82b7c321527863d", null ],
-    [ "OnGossipSelect", "d9/d5d/a27396.html#a03545eaacf3bae0d407e0e20c32740dc", null ],
-    [ "SendActionMenu", "d9/d5d/a27396.html#a03ced7d6541535097a5e4e3bd9f415f2", null ],
-    [ "SendConfirmLearn", "d9/d5d/a27396.html#a93a8692cb2c0b30ee752ae3ecd5561e5", null ],
-    [ "SendConfirmUnlearn", "d9/d5d/a27396.html#ada0be1dc79f72b7b033191c8e17a8baf", null ]
+    [ "npc_prof_alchemy", "d9/d5d/a27396.html#a43ea842214fc507c34586d12df8f7fea", null ],
+    [ "HasAlchemySpell", "d9/d5d/a27396.html#ac9df824e0923ca86189a53ae391b43c0", null ],
+    [ "OnGossipHello", "d9/d5d/a27396.html#add760c538c7882e1ad8331b8ded74f5c", null ],
+    [ "OnGossipSelect", "d9/d5d/a27396.html#a2377df97a293fb3fcbe7f70d4d815b75", null ],
+    [ "SendActionMenu", "d9/d5d/a27396.html#a2d4c7337b40be323a384a9e755fc3145", null ],
+    [ "SendConfirmLearn", "d9/d5d/a27396.html#a548224b30494636b9ee292a533fc7b39", null ],
+    [ "SendConfirmUnlearn", "d9/d5d/a27396.html#ae4c861cf383f39d2e5ceebc9be4b568c", null ]
 ];

@@ -1,6 +1,6 @@
 var a21428 =
 [
-    [ "npc_azure_sorcerorAI", "dd/de7/a21432.html", "dd/de7/a21432" ],
-    [ "npc_azure_sorceror", "d6/d6c/a21428.html#ab81ec144680a37312b0a5e0110365a1a", null ],
-    [ "GetAI", "d6/d6c/a21428.html#a647ac2853586e380fdf0e0ffa43abaca", null ]
+    [ "npc_azure_spellbreakerAI", "dd/de7/a21432.html", "dd/de7/a21432" ],
+    [ "npc_azure_spellbreaker", "d6/d6c/a21428.html#a36f09ff7a60a04e6dd99bc37146000f8", null ],
+    [ "GetAI", "d6/d6c/a21428.html#a7b2e89c33deef7fb5237b271dd5b0d12", null ]
 ];

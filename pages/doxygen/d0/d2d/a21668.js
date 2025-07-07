@@ -1,6 +1,9 @@
 var a21668 =
 [
-    [ "npc_dalaran_warriorAI", "d7/df2/a21672.html", "d7/df2/a21672" ],
-    [ "npc_dalaran_warrior", "d0/d2d/a21668.html#a13d44b85173232ddedcc35184d50549c", null ],
-    [ "GetAI", "d0/d2d/a21668.html#a1e84676d2a76bac728a1f23f5f9fc25e", null ]
+    [ "npc_mageguard_dalaranAI", "d0/d2d/a21668.html#adb9c8b0003c070114b63f3b8e538bceb", null ],
+    [ "AttackStart", "d0/d2d/a21668.html#ac1e73ad92bd5db0d3b9fe23b36cd8dd7", null ],
+    [ "JustEngagedWith", "d0/d2d/a21668.html#aac463689ae5a488ec2acb8a0310689d8", null ],
+    [ "MoveInLineOfSight", "d0/d2d/a21668.html#aafb32462693e0efd9c80cf335f489754", null ],
+    [ "Reset", "d0/d2d/a21668.html#aa6dde0732bac407a62403bb8f0f24c26", null ],
+    [ "UpdateAI", "d0/d2d/a21668.html#a4d6ce701a4cc463a7e9c295c664d4440", null ]
 ];

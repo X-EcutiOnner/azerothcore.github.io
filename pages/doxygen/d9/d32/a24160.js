@@ -1,6 +1,5 @@
 var a24160 =
 [
-    [ "npc_torloth_the_magnificentAI", "da/d3c/a24164.html", "da/d3c/a24164" ],
-    [ "npc_torloth_the_magnificent", "d9/d32/a24160.html#a252796a19dcebe210eecb4d9ae150e5d", null ],
-    [ "GetAI", "d9/d32/a24160.html#a94c206fb75cc6f50c6127908b5b5205f", null ]
+    [ "npc_karynaku", "d9/d32/a24160.html#aa6a3cb409cdbc990f1eee4137c7519d2", null ],
+    [ "OnQuestAccept", "d9/d32/a24160.html#a4cae1950fe3b7b4ae6f2e6691800ec47", null ]
 ];

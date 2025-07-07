@@ -1,7 +1,7 @@
 var a02099 =
 [
-    [ "boss_kurinnaxx", "d8/dd0/a14936.html", "d8/dd0/a14936" ],
-    [ "go_sand_trap", "db/d18/a14940.html", "db/d18/a14940" ],
+    [ "boss_kurinnaxx", "da/d48/a14952.html", "da/d48/a14952" ],
+    [ "go_sand_trap", "d2/dc7/a14956.html", "d2/dc7/a14956" ],
     [ "Spells", "d9/dff/a02099.html#a5bd342133be8c2137b831460acc9298c", [
       [ "SPELL_OIL_REFINERY", "d8/d13/a00671.html#a5bd342133be8c2137b831460acc9298cae2eb4db3c46b45e80cc2feb9c34f2ada", null ],
       [ "SPELL_QUARRY", "d8/d13/a00671.html#a5bd342133be8c2137b831460acc9298ca5a0922923b24c4bb6661ad8396a76e01", null ],

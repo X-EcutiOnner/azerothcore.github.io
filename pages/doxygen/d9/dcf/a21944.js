@@ -1,8 +1,6 @@
 var a21944 =
 [
-    [ "HandleEffectApply", "d9/dcf/a21944.html#a8ebf9488a7eed99c3651424754cc95c5", null ],
-    [ "HandleEffectPeriodic", "d9/dcf/a21944.html#a183976530ebf604656db12e41449427e", null ],
-    [ "PrepareAuraScript", "d9/dcf/a21944.html#a03faa2eda84ac74dcff9a7a6a4e57440", null ],
-    [ "Register", "d9/dcf/a21944.html#a76be53d506933d4b3c758578b7c33d5f", null ],
-    [ "_posZ", "d9/dcf/a21944.html#a488ded8ff40240fe8fbef1567eb091b9", null ]
+    [ "npc_rocket_propelled_warheadAI", "d4/d82/a21948.html", "d4/d82/a21948" ],
+    [ "npc_rocket_propelled_warhead", "d9/dcf/a21944.html#a5c945efc6e3ca847363ac47abc5f51ca", null ],
+    [ "GetAI", "d9/dcf/a21944.html#a803702c480107d197845a0ef447a5380", null ]
 ];

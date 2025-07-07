@@ -1,7 +1,6 @@
 var a14148 =
 [
-    [ "GetEmptyEntry", "de/dd1/a14148.html#a46dfe7b2f8598d24f17868266d1571c6", null ],
-    [ "HandleAfterHit", "de/dd1/a14148.html#a4f8ab6e42ddf2188ccca2640363b9925", null ],
-    [ "PrepareSpellScript", "de/dd1/a14148.html#a35f0ab4b36df3d9ec1191cbd9ba88c9e", null ],
-    [ "Register", "de/dd1/a14148.html#a25e1858e1f81891443f4b7de50a5d495", null ]
+    [ "HandleEffectRemove", "de/dd1/a14148.html#a8d5d43ae12fb6d65029008eadd56973a", null ],
+    [ "PrepareAuraScript", "de/dd1/a14148.html#abe527a7a4fda32c833f4762e82e2bd3d", null ],
+    [ "Register", "de/dd1/a14148.html#aa436788f638fedacb217ca508da5f426", null ]
 ];

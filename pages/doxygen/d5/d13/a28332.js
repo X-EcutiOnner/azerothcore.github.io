@@ -1,13 +1,11 @@
 var a28332 =
 [
-    [ "actionFlag", "d5/d13/a28332.html#a6257ae486eff937cf12be64f0e850ca6", null ],
-    [ "arrivalEventID", "d5/d13/a28332.html#a1ffe17f529066091b18451a1121ce6ac", null ],
-    [ "delay", "d5/d13/a28332.html#aef005db912b0a57ecc5d62c66d838826", null ],
-    [ "departureEventID", "d5/d13/a28332.html#a670a033aaf0ff48676373baf9235d670", null ],
-    [ "index", "d5/d13/a28332.html#af9f8e03c2d9c1bdf266b3d62f1174224", null ],
-    [ "mapid", "d5/d13/a28332.html#aa2c6fb8a785e297c72384043698dd401", null ],
-    [ "path", "d5/d13/a28332.html#aa0692acbae0d4639c89ece77265d7858", null ],
-    [ "x", "d5/d13/a28332.html#a9acd2aad6b8820c04f6749bd2944b54f", null ],
-    [ "y", "d5/d13/a28332.html#a08778d3ef9a9a87fd731b54d5501daab", null ],
-    [ "z", "d5/d13/a28332.html#af48d85940d7f204091e8438427a72e2d", null ]
+    [ "addToSpellBook", "d5/d13/a28332.html#ad312934d24abcc78c02d50cc5cb5403f", null ],
+    [ "Col", "d5/d13/a28332.html#a0bc589c5b1425d5e889cd290b805169e", null ],
+    [ "DependsOn", "d5/d13/a28332.html#a7b1aa1384777b8d94dceed3c387bb628", null ],
+    [ "DependsOnRank", "d5/d13/a28332.html#a608f232669981da3423b959479ca8683", null ],
+    [ "RankID", "d5/d13/a28332.html#a96d0fd120ed3aa7fbd287d104fd87c26", null ],
+    [ "Row", "d5/d13/a28332.html#a136b889d2e8875b01fc7aa2be06847ac", null ],
+    [ "TalentID", "d5/d13/a28332.html#aa769574106b0e5afdbc7c71c51c3b9a2", null ],
+    [ "TalentTab", "d5/d13/a28332.html#acefe6f8c0a5b3893e2a9f828d500df68", null ]
 ];

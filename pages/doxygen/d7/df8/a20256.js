@@ -1,5 +1,5 @@
 var a20256 =
 [
-    [ "achievement_staying_buffed_all_winter_25", "d7/df8/a20256.html#a91f0ab3bada837cff6414350b98a27a3", null ],
-    [ "OnCheck", "d7/df8/a20256.html#a36591082184bc8466e124bad9a910545", null ]
+    [ "achievement_getting_cold_in_here", "d7/df8/a20256.html#a57fe7262a09036ffa88e985cb7e2f123", null ],
+    [ "OnCheck", "d7/df8/a20256.html#aeafd382d378381f754da6ee04d382276", null ]
 ];

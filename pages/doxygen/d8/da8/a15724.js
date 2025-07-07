@@ -1,6 +1,6 @@
 var a15724 =
 [
-    [ "npc_weegli_blastfuseAI", "d8/d57/a15728.html", "d8/d57/a15728" ],
-    [ "npc_weegli_blastfuse", "d8/da8/a15724.html#a2bf3b936e14c4cc0255f3109a35cb80f", null ],
-    [ "GetAI", "d8/da8/a15724.html#a701681d8771756dac20d30c2e03a1349", null ]
+    [ "npc_sergeant_blyAI", "d8/d57/a15728.html", "d8/d57/a15728" ],
+    [ "npc_sergeant_bly", "d8/da8/a15724.html#afd5c6129098e4939e2b9f3d12b8c7058", null ],
+    [ "GetAI", "d8/da8/a15724.html#ad54ff5aabbc30de759c8f31b7ef9f46e", null ]
 ];

@@ -1,10 +1,9 @@
 var a28364 =
 [
-    [ "area_id", "d9/db6/a28364.html#acbd77950bf9548d266e568640cf38458", null ],
-    [ "map_id", "d9/db6/a28364.html#abeabdc3d225dcd6626a641d6792d7ff8", null ],
-    [ "virtual_map_id", "d9/db6/a28364.html#afe75f114a3aa74a0589cc575e372f1b1", null ],
-    [ "x1", "d9/db6/a28364.html#a78967fef40841f705c2564a177cb36f3", null ],
-    [ "x2", "d9/db6/a28364.html#a037dca812715df0b4f2551f8684b537c", null ],
-    [ "y1", "d9/db6/a28364.html#a7f90073656e1cd00a88add9f8d881d11", null ],
-    [ "y2", "d9/db6/a28364.html#ad8e0164952e5565488d5443f269ec79e", null ]
+    [ "TimeSeg", "d9/db6/a28364.html#a16782e722a5bada41691841fe594b7a6", null ],
+    [ "TransportEntry", "d9/db6/a28364.html#afcdb94a38d68d2ff8af225dc599db8a4", null ],
+    [ "W", "d9/db6/a28364.html#a4158a2babefbf4e148a64fe16bf113f6", null ],
+    [ "X", "d9/db6/a28364.html#a9c7cb1fd0463d1158d971db6f15431ff", null ],
+    [ "Y", "d9/db6/a28364.html#a7f0ff898e752e2e904ebee1412643df6", null ],
+    [ "Z", "d9/db6/a28364.html#a87647d71a965e80154ca36dc05421585", null ]
 ];

@@ -1,6 +1,7 @@
 var a18916 =
 [
-    [ "boss_faerlinaAI", "d1/d85/a18920.html", "d1/d85/a18920" ],
-    [ "boss_faerlina", "d7/d66/a18916.html#a86543ac855287e3de2e3ffcde66fb1cb", null ],
-    [ "GetAI", "d7/d66/a18916.html#aed8214323ff5b792d9bd6aae478e7848", null ]
+    [ "HandleTriggerSpell", "d7/d66/a18916.html#a0e75076c2aed1544c544b976ee9cfbcd", null ],
+    [ "PrepareAuraScript", "d7/d66/a18916.html#a6ce4c5c2b6797b38225ac3348aad5892", null ],
+    [ "Register", "d7/d66/a18916.html#af87272995f6eeb3bc53cf472f5c3e9d3", null ],
+    [ "Validate", "d7/d66/a18916.html#a813bad39641956fff697580f271416d2", null ]
 ];

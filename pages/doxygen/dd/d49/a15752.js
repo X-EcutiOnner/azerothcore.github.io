@@ -1,18 +1,13 @@
 var a15752 =
 [
-    [ "boss_elder_nadox", "dd/d49/a15752.html#a718d8fffde11b1df5a44650096c474cc", null ],
-    [ "DamageTaken", "dd/d49/a15752.html#a34dd3a07faeee096b1c8574f63353893", null ],
-    [ "GetData", "dd/d49/a15752.html#ad2f80bcefb6c43370546d867fd4fc951", null ],
-    [ "JustDied", "dd/d49/a15752.html#a1342dbd6de10197c6ba4bc8e43cceace", null ],
-    [ "JustEngagedWith", "dd/d49/a15752.html#a659f83714070b7358b43d1c7eb46ac1c", null ],
-    [ "KilledUnit", "dd/d49/a15752.html#a78310e83e518b64c1373b60a946f9748", null ],
-    [ "Reset", "dd/d49/a15752.html#ab5e492f39552b64c0333b6fbce89c1ae", null ],
-    [ "SummonedCreatureDies", "dd/d49/a15752.html#a77d9861b2e2de593d0b44c2fd9449f17", null ],
-    [ "SummonHelpers", "dd/d49/a15752.html#ae65044c111e514a3050ea14f1155a7dc", null ],
-    [ "UpdateAI", "dd/d49/a15752.html#abbb783581208c76fa371f01efd481b66", null ],
-    [ "guardianEggs", "dd/d49/a15752.html#aae96b622766ab4478a8510bd1c7a9f1f", null ],
-    [ "guardianSummoned", "dd/d49/a15752.html#a5543be0c08bf1d432b36bfdb2d532f0d", null ],
-    [ "previousSwarmEgg_GUID", "dd/d49/a15752.html#add5ff92f92b8d01caef0b12a98569535", null ],
-    [ "respectYourElders", "dd/d49/a15752.html#aac97ef9511e64692a152077b43e83e75", null ],
-    [ "swarmEggs", "dd/d49/a15752.html#a28c8b6826ed86e30b573883cab83168f", null ]
+    [ "npc_shadowpriest_sezzizAI", "dd/d49/a15752.html#a14c5cee1c3032b8df4ad902eb273e9b0", null ],
+    [ "AttackStart", "dd/d49/a15752.html#a8278a73501ea33164cbdef8599144f4a", null ],
+    [ "Reset", "dd/d49/a15752.html#ab08cc327c4206e4526e77eea3bf17e0b", null ],
+    [ "UpdateAI", "dd/d49/a15752.html#a1c0236b52d4cd87634659991e0dfc728", null ],
+    [ "_missingHPForHealTimer", "dd/d49/a15752.html#a1171f0cd40bd3d7198bab15b12edc131", null ],
+    [ "_missingHPForRenewTimer", "dd/d49/a15752.html#a8df4e1046348599cd5d1e31e3dc4eb0c", null ],
+    [ "_physicScreemTimer", "dd/d49/a15752.html#a43de246b93f3380d5b79ffba6434aa5a", null ],
+    [ "_shadowBoltTimer", "dd/d49/a15752.html#a34a18991ff2c0aafac15694ed9667193", null ],
+    [ "_summmonAddsCount", "dd/d49/a15752.html#a8ce2b172757d1f7d188152ecc0fe30f5", null ],
+    [ "_summonAddsTimer", "dd/d49/a15752.html#aff413ce6f4106d212f35fb7abbfa047e", null ]
 ];

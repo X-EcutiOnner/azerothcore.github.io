@@ -1,6 +1,7 @@
 var a13692 =
 [
-    [ "npc_lady_sylvanas_windrunner_bfuAI", "d1/d1f/a13696.html", "d1/d1f/a13696" ],
-    [ "npc_lady_sylvanas_windrunner_bfu", "d9/d9a/a13692.html#a77e98bc345f7d27f145d4b29c4deb58e", null ],
-    [ "GetAI", "d9/d9a/a13692.html#a94fdd0778818fcc6a8b818d38dde6f75", null ]
+    [ "boss_blight_wormAI", "d9/d9a/a13692.html#af267e395fbd539f871e498dc6745c610", null ],
+    [ "Reset", "d9/d9a/a13692.html#a96e27eaba5c9e422981d78123ed9c83d", null ],
+    [ "UpdateAI", "d9/d9a/a13692.html#ac8e4c5a7a251173a2afb369498c88a1d", null ],
+    [ "_events", "d9/d9a/a13692.html#a65f7fd4f73c727eeb5988d7ec77b94ce", null ]
 ];

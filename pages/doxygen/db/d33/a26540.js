@@ -1,7 +1,9 @@
 var a26540 =
 [
-    [ "CalculateAmount", "db/d33/a26540.html#aefeab4e58c1b5c1be87f583256d366f5", null ],
-    [ "Load", "db/d33/a26540.html#ae2ef0eae77137c120ec61af8698677db", null ],
-    [ "PrepareAuraScript", "db/d33/a26540.html#acaecc78c031aa436f432fd7145478de4", null ],
-    [ "Register", "db/d33/a26540.html#afd27c8bc5fd1628b7e32bf464bfe3d48", null ]
+    [ "CheckCast", "db/d33/a26540.html#a9af89d5ffaa73747acb55e7dee681d03", null ],
+    [ "FilterTargets", "db/d33/a26540.html#aa33f9d87325271bb264ba190ebb5cfa0", null ],
+    [ "HandleDummy", "db/d33/a26540.html#a3c076ab3ccf1f0be81a7ab067327a589", null ],
+    [ "PrepareSpellScript", "db/d33/a26540.html#a9c992e732b525e29f684947398d20efb", null ],
+    [ "Register", "db/d33/a26540.html#abbea3ee39cbdf91518031c088e2e2ed9", null ],
+    [ "Validate", "db/d33/a26540.html#abca1e5aa46e7753588c8120090775195", null ]
 ];

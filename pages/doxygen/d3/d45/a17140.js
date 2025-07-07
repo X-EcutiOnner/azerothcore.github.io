@@ -1,10 +1,7 @@
 var a17140 =
 [
-    [ "boss_eckAI", "d3/d45/a17140.html#a9de9ad13286c625241242a72c8c3ef2b", null ],
-    [ "InitializeAI", "d3/d45/a17140.html#a37ed08383c43c53ea5a46ad8e03adb35", null ],
-    [ "JustDied", "d3/d45/a17140.html#afa625b388a7495e7f83ea3149ad2020c", null ],
-    [ "JustEngagedWith", "d3/d45/a17140.html#a393630157bb1b9d80a19b2da3bf0b377", null ],
-    [ "MovementInform", "d3/d45/a17140.html#a4826dee262817fbdfa38bcf17f5723da", null ],
-    [ "Reset", "d3/d45/a17140.html#afc33618907cb06591cc57751dfc14ca5", null ],
-    [ "UpdateAI", "d3/d45/a17140.html#a697ceea1e138d484d80b39c80078de58", null ]
+    [ "HandleDummy", "d3/d45/a17140.html#ab614c27fbeb0fc6cac42c3e8f981e11d", null ],
+    [ "PrepareSpellScript", "d3/d45/a17140.html#a3ef0564565ea49265800422c835432b0", null ],
+    [ "Register", "d3/d45/a17140.html#a7b685926a8d511397889616e97bbd563", null ],
+    [ "Validate", "d3/d45/a17140.html#aecd40c136e44dfc9c5e4dd572d577578", null ]
 ];

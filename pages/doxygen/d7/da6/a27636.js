@@ -1,5 +1,5 @@
 var a27636 =
 [
-    [ "npc_sunwell_gate", "d7/da6/a27636.html#a70643c475fe4aa6f47e0a47222b1faad", null ],
-    [ "OnQuestReward", "d7/da6/a27636.html#acfcf6b252cc7ebc594b22fffffa5930b", null ]
+    [ "npc_controller", "d7/da6/a27636.html#a3c75fb509d5cf4b4d417c97b409615b1", null ],
+    [ "OnCharmed", "d7/da6/a27636.html#a69628677de225d76a8c89b4626e0f32b", null ]
 ];

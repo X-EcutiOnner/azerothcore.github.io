@@ -1,7 +1,6 @@
 var a14180 =
 [
-    [ "npc_direbrew_minion", "d5/d64/a14180.html#aaac7d1b1a464ea7ff1ec18ace11d54b7", null ],
-    [ "IsSummonedBy", "d5/d64/a14180.html#a78d40e0f2a285b0b9c257f12876eabeb", null ],
-    [ "Reset", "d5/d64/a14180.html#a21fb7a778e9025ca4185951460a96d08", null ],
-    [ "_instance", "d5/d64/a14180.html#aeea9f455c014afa347ce0c3f106ebdb6", null ]
+    [ "OnApply", "d5/d64/a14180.html#a4a276b00d4912c210598057620368934", null ],
+    [ "PrepareAuraScript", "d5/d64/a14180.html#a20cb3aec994ffc0a06d9b4ba4f575844", null ],
+    [ "Register", "d5/d64/a14180.html#adf9962252dec76f324b8cdbf8f6b9155", null ]
 ];

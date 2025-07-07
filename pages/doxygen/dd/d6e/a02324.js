@@ -1,7 +1,7 @@
 var a02324 =
 [
-    [ "npcs_riverbreeze_and_silversky", "db/d9f/a15420.html", "db/d9f/a15420" ],
-    [ "at_ancient_leaf", "d9/da7/a15424.html", "d9/da7/a15424" ],
+    [ "npcs_riverbreeze_and_silversky", "dc/d8f/a15436.html", "dc/d8f/a15436" ],
+    [ "at_ancient_leaf", "db/dee/a15440.html", "db/dee/a15440" ],
     [ "GOSSIP_ITEM_BEACON", "dd/d6e/a02324.html#aed16a0d3c0f5042443d68996e30f15bd", null ],
     [ "AncientMisc", "dd/d6e/a02324.html#adaffe09a7c2b9f9bfdc48d5068c18068", [
       [ "QUEST_ANCIENT_LEAF", "dd/d6e/a02324.html#adaffe09a7c2b9f9bfdc48d5068c18068aa825be5f41ad67f6007d3509e9bb87e3", null ],

@@ -1,6 +1,7 @@
 var a23568 =
 [
-    [ "instance_magtheridons_lair_InstanceMapScript", "d1/de0/a23572.html", "d1/de0/a23572" ],
-    [ "instance_magtheridons_lair", "d4/d75/a23568.html#a9bc61758478dc18ba413264eec2e3ca3", null ],
-    [ "GetInstanceScript", "d4/d75/a23568.html#a6c9cc959cf4f294e6173d244f54bcd02", null ]
+    [ "HandleDummyApply", "d4/d75/a23568.html#a8a982bbbda94a2cf981c845161f05bdc", null ],
+    [ "HandleDummyRemove", "d4/d75/a23568.html#a5d68d9e15600119deca7179ffe00acda", null ],
+    [ "PrepareAuraScript", "d4/d75/a23568.html#a34d09e48b69d32dae6c127fa0837be4b", null ],
+    [ "Register", "d4/d75/a23568.html#a094004ccf6b4cae4d27bca639b76b899", null ]
 ];

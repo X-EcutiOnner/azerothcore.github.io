@@ -1,6 +1,6 @@
 var a16388 =
 [
-    [ "npc_toc_hunterAI", "d9/d7a/a16392.html", "d9/d7a/a16392" ],
-    [ "npc_toc_hunter", "db/dac/a16388.html#a73d4113df71626af7b8294e08373965e", null ],
-    [ "GetAI", "db/dac/a16388.html#a8b9d2a8186aefb3e411bd20c006207d4", null ]
+    [ "npc_toc_warlockAI", "d9/d7a/a16392.html", "d9/d7a/a16392" ],
+    [ "npc_toc_warlock", "db/dac/a16388.html#a75ac1d6f6835860fed8a9197fa1cf3c2", null ],
+    [ "GetAI", "db/dac/a16388.html#ad3162c9414be83d53d9513c7aa6b75d7", null ]
 ];

@@ -1,6 +1,6 @@
 var a15436 =
 [
-    [ "npc_great_bear_spirit", "dc/d8f/a15436.html#a141470a3623aa1152d3505661f1532c8", null ],
-    [ "OnGossipHello", "dc/d8f/a15436.html#a2307b8d56fc117d918adc9814fa86f8f", null ],
-    [ "OnGossipSelect", "dc/d8f/a15436.html#aae026f4cf8b0de61d36a841dcfdbd92e", null ]
+    [ "npcs_riverbreeze_and_silversky", "dc/d8f/a15436.html#a9f012d5bbaa8b9f9822ddfbd86e7c4b2", null ],
+    [ "OnGossipHello", "dc/d8f/a15436.html#a7de032322a37f929c316aadfdadda768", null ],
+    [ "OnGossipSelect", "dc/d8f/a15436.html#a93c7b159dda733da5030de747bad30b5", null ]
 ];

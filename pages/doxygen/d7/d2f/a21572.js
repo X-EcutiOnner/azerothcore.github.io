@@ -1,9 +1,6 @@
 var a21572 =
 [
-    [ "npc_bloodmage_laurithAI", "d7/d2f/a21572.html#a75dca4f2e90318f334e7e6385d4f7a6f", null ],
-    [ "Reset", "d7/d2f/a21572.html#afe9b10dfcee3b241a48e6f2e40eec657", null ],
-    [ "SetGUID", "d7/d2f/a21572.html#a50a144cf1545117d79268d3a18a4b4ec", null ],
-    [ "UpdateAI", "d7/d2f/a21572.html#a9752f518441071dd4a60cd63423bf9a3", null ],
-    [ "_events", "d7/d2f/a21572.html#a35facab84094071d952792a4c3e5015d", null ],
-    [ "_playerGUID", "d7/d2f/a21572.html#a6aab8db1d55d4fe3251b544c292711e8", null ]
+    [ "npc_hidden_cultistAI", "df/d7b/a21576.html", "df/d7b/a21576" ],
+    [ "npc_hidden_cultist", "d7/d2f/a21572.html#ab455b35fea966360e01fb8975adad989", null ],
+    [ "GetAI", "d7/d2f/a21572.html#a4897006d9416f1177b0bc0e41df60293", null ]
 ];

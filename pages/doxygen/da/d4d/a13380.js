@@ -1,7 +1,7 @@
 var a13380 =
 [
-    [ "HandlePull", "da/d4d/a13380.html#a5a43bb53d3c534054498f8366d617e5a", null ],
-    [ "PrepareSpellScript", "da/d4d/a13380.html#aec00f82a35c8154e7d4c1f47c52d486f", null ],
-    [ "RaycastToObstacle", "da/d4d/a13380.html#ad6dfdf70e9ffd43510c4791f804ce340", null ],
-    [ "Register", "da/d4d/a13380.html#a6da76afd5feaa0d60be70ff8469d78bc", null ]
+    [ "npc_singularity", "da/d4d/a13380.html#a4ed61ec65ed94d8d5e42ae7ff9ecd41d", null ],
+    [ "FindAndFollowTarget", "da/d4d/a13380.html#a76c21129756dec05f6f2d88cebe948c5", null ],
+    [ "Reset", "da/d4d/a13380.html#ae81c2e5865beb00df8683fa0fb6e7872", null ],
+    [ "UpdateAI", "da/d4d/a13380.html#ad019d234ca9ee719612d59e5bb0b53ea", null ]
 ];

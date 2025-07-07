@@ -1,10 +1,8 @@
 var a14640 =
 [
-    [ "npc_hyjal_frost_wyrm", "d5/dd0/a14640.html#a7cdc8ef87d5ccb88777fa823e199b9ce", null ],
-    [ "AttackStart", "d5/dd0/a14640.html#abaaea3bcbb8806ed9d807742273eb06d", null ],
-    [ "DoAction", "d5/dd0/a14640.html#adab2b42c582cee234aea37d187b66138", null ],
-    [ "JustEngagedWith", "d5/dd0/a14640.html#a23dace13bb2811dea43b63f0b970a2ce", null ],
-    [ "PathEndReached", "d5/dd0/a14640.html#a2ec3137dad743e4766ca402282d913c7", null ],
-    [ "Reset", "d5/dd0/a14640.html#a550c20113f4ebe4015f9a8088888f99b", null ],
-    [ "UpdateAI", "d5/dd0/a14640.html#a182c3b440f74a4ebe6dee64651bf701f", null ]
+    [ "hyjalTyrandeAI", "d5/dd0/a14640.html#ac2f5449b60cd137dbc1f6ddc8afe5309", null ],
+    [ "JustDied", "d5/dd0/a14640.html#af5c7b843b8e1a7c0864b55853bc62097", null ],
+    [ "JustEngagedWith", "d5/dd0/a14640.html#a158589b567d22c8f6e0be462bad8299d", null ],
+    [ "Reset", "d5/dd0/a14640.html#a5ea52a1ee3730630d1efbdac4ad24c80", null ],
+    [ "UpdateAI", "d5/dd0/a14640.html#a9e825f9d87df6227b73eb965488eff8a", null ]
 ];

@@ -1,6 +1,6 @@
 var a15952 =
 [
-    [ "HandleLeapBack", "d9/ddf/a15952.html#a71a9b9967528c1153ad1215635bc7d01", null ],
-    [ "PrepareSpellScript", "d9/ddf/a15952.html#a25a2db5c19e721b112b7bc84b3ac0968", null ],
-    [ "Register", "d9/ddf/a15952.html#a6ef11d0538616315fa7cf098748aa01f", null ]
+    [ "npc_twilight_summonAI", "d8/d67/a15956.html", "d8/d67/a15956" ],
+    [ "npc_twilight_summon", "d9/ddf/a15952.html#a2406ee3b02d9f1b1ebef54623d9a3c11", null ],
+    [ "GetAI", "d9/ddf/a15952.html#a98bf5ce96c25bc252acd46163644bf33", null ]
 ];

@@ -1,10 +1,9 @@
 var a24380 =
 [
-    [ "npc_pet_hunter_snake_trap", "d3/dd1/a24380.html#aaf5df574c4ac53661c0bb1968f84c6ea", null ],
-    [ "EnterEvadeMode", "d3/dd1/a24380.html#a819add0c7b968063403d10275fdc289f", null ],
-    [ "MoveInLineOfSight", "d3/dd1/a24380.html#a32d5ed7f4d436f2678b34f4a1d572721", null ],
-    [ "Reset", "d3/dd1/a24380.html#a831cf6eea8bd03247cd9877d3be6e1ee", null ],
-    [ "UpdateAI", "d3/dd1/a24380.html#a41a37efe6d39c6d97b3dcc5fabbcc812", null ],
-    [ "_init", "d3/dd1/a24380.html#a1b5c1301389749f82667c35f3daff847", null ],
-    [ "_spellTimer", "d3/dd1/a24380.html#ab9397451e2e8320ca77560a19baeee3f", null ]
+    [ "npc_pet_gen_toxic_wasteling", "d3/dd1/a24380.html#a550a1a9324f605b1a9fd715571f819b7", null ],
+    [ "EnterEvadeMode", "d3/dd1/a24380.html#abe25deca7fd1c319085995657d62f22a", null ],
+    [ "MovementInform", "d3/dd1/a24380.html#aec73d567c3bd178ffee3bdece83a409e", null ],
+    [ "Reset", "d3/dd1/a24380.html#a06a8be653c8685aaf28aee1d1d3ae114", null ],
+    [ "UpdateAI", "d3/dd1/a24380.html#a22f96d995fcc722c0e95c4f5692cc128", null ],
+    [ "checkTimer", "d3/dd1/a24380.html#aafe402e0443bd39a1b7aa274d95edad6", null ]
 ];

@@ -1,10 +1,10 @@
 var a03851 =
 [
-    [ "boss_vazruden_the_herald", "d5/dd4/a23500.html", "d5/dd4/a23500" ],
-    [ "boss_nazan", "df/d29/a23504.html", "df/d29/a23504" ],
-    [ "boss_vazruden", "d5/d31/a23508.html", "d5/d31/a23508" ],
-    [ "spell_vazruden_fireball", "dc/d97/a23512.html", "dc/d97/a23512" ],
-    [ "spell_vazruden_call_nazan", "dc/dd5/a23516.html", "dc/dd5/a23516" ],
+    [ "boss_vazruden_the_herald", "dc/dd5/a23516.html", "dc/dd5/a23516" ],
+    [ "boss_nazan", "dc/d71/a23520.html", "dc/d71/a23520" ],
+    [ "boss_vazruden", "d9/dc8/a23524.html", "d9/dc8/a23524" ],
+    [ "spell_vazruden_fireball", "dd/d39/a23528.html", "dd/d39/a23528" ],
+    [ "spell_vazruden_call_nazan", "d7/d65/a23532.html", "d7/d65/a23532" ],
     [ "GroupPhase", "d5/d12/a03851.html#a49053b1bcf5e1608ac7b5ad702b2bf00", [
       [ "GROUP_PHASE_1", "d5/d12/a03851.html#a49053b1bcf5e1608ac7b5ad702b2bf00a32bcd3b7fab317a48674500272b5b5c9", null ],
       [ "GROUP_PHASE_2", "d5/d12/a03851.html#a49053b1bcf5e1608ac7b5ad702b2bf00a22321c7fe55bbbccabaf892d4d85e8b4", null ]

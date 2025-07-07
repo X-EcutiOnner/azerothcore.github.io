@@ -1,7 +1,7 @@
 var a03053 =
 [
-    [ "boss_ormorok", "d3/d05/a19296.html", "d3/d05/a19296" ],
-    [ "npc_crystal_spike", "d1/d40/a19300.html", "d1/d40/a19300" ],
+    [ "boss_ormorok", "da/dae/a19312.html", "da/dae/a19312" ],
+    [ "npc_crystal_spike", "d0/dcf/a19316.html", "d0/dcf/a19316" ],
     [ "eEnums", "d6/dfe/a03053.html#a0ec08fe05ebfdddfa34c747c9c62a165", [
       [ "SPELL_FROZEN_PRISON", "d7/d98/a03044.html#a0ec08fe05ebfdddfa34c747c9c62a165a874864078de8743889d364bbecadcee6", null ],
       [ "SPELL_TAIL_SWEEP", "d7/d98/a03044.html#a0ec08fe05ebfdddfa34c747c9c62a165addcb3daa6cdc61ef04c65580e44ef823", null ],

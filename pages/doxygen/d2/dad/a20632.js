@@ -1,6 +1,6 @@
 var a20632 =
 [
-    [ "boss_thorim_arena_npcsAI", "d9/d07/a20636.html", "d9/d07/a20636" ],
-    [ "boss_thorim_arena_npcs", "d2/dad/a20632.html#a60d22280bb1eb3c9da92deb08e887942", null ],
-    [ "GetAI", "d2/dad/a20632.html#a3709e1c9df32755f5932398ba3535f2f", null ]
+    [ "boss_thorim_runic_colossusAI", "d9/d07/a20636.html", "d9/d07/a20636" ],
+    [ "boss_thorim_runic_colossus", "d2/dad/a20632.html#a2ea1c08a98b689cd6c766578e98a3191", null ],
+    [ "GetAI", "d2/dad/a20632.html#a6d64427ff427a1054e10c9d987b77f53", null ]
 ];

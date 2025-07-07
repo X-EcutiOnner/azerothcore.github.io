@@ -1,6 +1,6 @@
 var a27212 =
 [
-    [ "go_darkmoon_faire_musicAI", "dc/d0b/a27216.html", "dc/d0b/a27216" ],
-    [ "go_darkmoon_faire_music", "d7/d1c/a27212.html#ab8dd92213e1c2815ff9498267b09b5f2", null ],
-    [ "GetAI", "d7/d1c/a27212.html#a03be3eddefe4eeba8a0af8ee02bf2839", null ]
+    [ "go_brewfest_musicAI", "dc/d0b/a27216.html", "dc/d0b/a27216" ],
+    [ "go_brewfest_music", "d7/d1c/a27212.html#a787963a5ee591933d62fdb52911f9a77", null ],
+    [ "GetAI", "d7/d1c/a27212.html#a50f36a6d0a72e7188dbe1bdaa09f1888", null ]
 ];

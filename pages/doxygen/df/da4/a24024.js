@@ -1,6 +1,6 @@
 var a24024 =
 [
-    [ "npc_creditmarker_visit_with_ancestorsAI", "d4/d39/a24028.html", "d4/d39/a24028" ],
-    [ "npc_creditmarker_visit_with_ancestors", "df/da4/a24024.html#a60f7abac7198d8504d944828dceb1ffa", null ],
-    [ "GetAI", "df/da4/a24024.html#a06eb335a757c9f48fbfa64bfc326bb8e", null ]
+    [ "go_beaconAI", "df/da4/a24024.html#a95f0f62d4e34da650c22a7ce796fc85f", null ],
+    [ "OnStateChanged", "df/da4/a24024.html#a10bd78bf6c2451fe95163eb9083bdf44", null ],
+    [ "creatureList", "df/da4/a24024.html#a8f406b85752e42cc26741aa5a13e69bc", null ]
 ];

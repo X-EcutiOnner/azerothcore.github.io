@@ -1,5 +1,6 @@
 var a14092 =
 [
-    [ "go_brazier_of_madness", "d6/dd2/a14092.html#aeb900e575be02244e62c6e5e4153c855", null ],
-    [ "GossipHello", "d6/dd2/a14092.html#aba3af326b01cd045523434aec189fd47", null ]
+    [ "boss_wushoolayAI", "d4/df9/a14096.html", "d4/df9/a14096" ],
+    [ "boss_wushoolay", "d6/dd2/a14092.html#a68359ee086bb4e86c3c16c4a03e54893", null ],
+    [ "GetAI", "d6/dd2/a14092.html#a70b476358956fd05d6effb75517e2b3d", null ]
 ];

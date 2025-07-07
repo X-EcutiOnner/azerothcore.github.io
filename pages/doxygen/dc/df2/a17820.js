@@ -1,6 +1,5 @@
 var a17820 =
 [
-    [ "PrepareSpellScript", "dc/df2/a17820.html#a16eadb50b6038f16ea28464d00df3381", null ],
-    [ "Register", "dc/df2/a17820.html#ac6e304d391011863b8eff8105fab5191", null ],
-    [ "SelectDest", "dc/df2/a17820.html#a8ff5d684c0b91d0f068d03698c1ee92c", null ]
+    [ "npc_volatile_oozeAI", "dc/df2/a17820.html#af042d4c22482aabcdad6fa867dfe093f", null ],
+    [ "CastMainSpell", "dc/df2/a17820.html#a91890785174ecc60c9553a0aedf1961b", null ]
 ];

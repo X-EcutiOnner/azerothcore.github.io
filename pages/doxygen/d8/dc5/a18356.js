@@ -1,6 +1,7 @@
 var a18356 =
 [
-    [ "npc_lk_spirit_bombAI", "d6/d8c/a18360.html", "d6/d8c/a18360" ],
-    [ "npc_lk_spirit_bomb", "d8/dc5/a18356.html#acc08d41aa1761c450de782e92307ad7c", null ],
-    [ "GetAI", "d8/dc5/a18356.html#ade74c00beb2da69dafb0ae93d771c430", null ]
+    [ "OnPeriodic", "d8/dc5/a18356.html#adfbfcf4ad8671ca4eaa439705f7b6c2a", null ],
+    [ "PrepareAuraScript", "d8/dc5/a18356.html#a5bb82c03f7c34e6febd3fe8aa57d4723", null ],
+    [ "Register", "d8/dc5/a18356.html#a0fc7ca43a0d82058fc04277742231388", null ],
+    [ "Validate", "d8/dc5/a18356.html#ae52c7c189a45a0bb5f3a627f502e3730", null ]
 ];

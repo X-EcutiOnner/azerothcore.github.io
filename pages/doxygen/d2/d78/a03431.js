@@ -1,7 +1,7 @@
 var a03431 =
 [
-    [ "boss_lavanthor", "df/dec/a21300.html", "df/dec/a21300" ],
-    [ "boss_lavanthor::boss_lavanthorAI", "db/d5c/a21304.html", "db/d5c/a21304" ],
+    [ "boss_lavanthor", "d1/d1d/a21316.html", "d1/d1d/a21316" ],
+    [ "boss_lavanthor::boss_lavanthorAI", "df/d72/a21320.html", "df/d72/a21320" ],
     [ "eEvents", "d2/d78/a03431.html#a1d3512b0adb171bd0db6aad2c9e70516", [
       [ "EVENT_NULL", "da/d4a/a03107.html#a1d3512b0adb171bd0db6aad2c9e70516afc8e2e36b7d0f732f5f52e0a94155c7a", null ],
       [ "EVENT_CHECK_PLAYERS", "da/d4a/a03107.html#a1d3512b0adb171bd0db6aad2c9e70516a6c1847babeb1b838631eee5b2af3dc2b", null ],

@@ -1,6 +1,8 @@
 var a16728 =
 [
-    [ "FilterTargets", "d0/d19/a16728.html#a36879a2920f43562bb0ff89c76d758e4", null ],
-    [ "PrepareSpellScript", "d0/d19/a16728.html#afeb95c5fe970ebc147d509981b026e98", null ],
-    [ "Register", "d0/d19/a16728.html#a800bd9ffab41ccf860844a129ec3b03c", null ]
+    [ "npc_fos_corrupted_soul_fragmentAI", "d0/d19/a16728.html#a61797329ecddde6da2e23e951fa92ca2", null ],
+    [ "Reset", "d0/d19/a16728.html#a5bb03371b24593ca2de995bf85857782", null ],
+    [ "UpdateAI", "d0/d19/a16728.html#ac6e651186c5edfd8e5279ddd38a15eb9", null ],
+    [ "pInstance", "d0/d19/a16728.html#a6ced23b3b4150b31020a636559d6eec6", null ],
+    [ "timer", "d0/d19/a16728.html#aa19c9928e3979bb01d89dc81b8feb4fc", null ]
 ];

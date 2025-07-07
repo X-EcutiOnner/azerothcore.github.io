@@ -1,6 +1,6 @@
 var a25520 =
 [
-    [ "HandleActivateObject", "db/d9c/a25520.html#a0d14ca0b21716855a04a0a9267f3e019", null ],
-    [ "PrepareSpellScript", "db/d9c/a25520.html#a684079434128bacd3d8b8b71c14dc56a", null ],
-    [ "Register", "db/d9c/a25520.html#a266301f59c809c03d0ccfc48a2ace302", null ]
+    [ "HandleDummy", "db/d9c/a25520.html#ade4c16273ebefaeefac3bfb51c61d19a", null ],
+    [ "PrepareSpellScript", "db/d9c/a25520.html#adfa89e065aa18b3e11998331c426151a", null ],
+    [ "Register", "db/d9c/a25520.html#ab37569c6b2362220cbce92eb184cc6db", null ]
 ];

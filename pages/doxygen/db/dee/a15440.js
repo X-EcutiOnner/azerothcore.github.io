@@ -1,6 +1,5 @@
 var a15440 =
 [
-    [ "npc_silva_filnaveth", "db/dee/a15440.html#a5998381865214a7b3af7823bd2557cb0", null ],
-    [ "OnGossipHello", "db/dee/a15440.html#a32019c17271a3f504d86cd694262fd53", null ],
-    [ "OnGossipSelect", "db/dee/a15440.html#a10f81dce3dbc3ef0a84c8c33c2cb2e29", null ]
+    [ "at_ancient_leaf", "db/dee/a15440.html#a7c1913b5ac00659697d0b361f1a7a2fd", null ],
+    [ "OnTrigger", "db/dee/a15440.html#a6d3a2775216cb0c864dc21f5bb5dbc79", null ]
 ];

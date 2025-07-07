@@ -1,5 +1,6 @@
 var a20640 =
 [
-    [ "go_thorim_lever", "da/d89/a20640.html#a7641a89c3c369d26753a6e97dd435802", null ],
-    [ "OnGossipHello", "da/d89/a20640.html#aa48cd4d5728bd2d012a91f51299827a0", null ]
+    [ "boss_thorim_ancient_rune_giantAI", "db/d97/a20644.html", "db/d97/a20644" ],
+    [ "boss_thorim_ancient_rune_giant", "da/d89/a20640.html#ad87dca7c6058e4b8b1234410644523dd", null ],
+    [ "GetAI", "da/d89/a20640.html#aa8a0ff1416d5678a5d6bb7bdc36d6617", null ]
 ];

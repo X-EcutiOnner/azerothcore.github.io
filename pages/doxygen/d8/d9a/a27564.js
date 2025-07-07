@@ -1,6 +1,6 @@
 var a27564 =
 [
-    [ "npc_pet_trainerAI", "dc/d2f/a27568.html", "dc/d2f/a27568" ],
-    [ "npc_pet_trainer", "d8/d9a/a27564.html#ac2279bce52e911b1c339da5e68aa2501", null ],
-    [ "GetAI", "d8/d9a/a27564.html#a4ecf9ac0abf43a00dc6bff2d2283eb37", null ]
+    [ "npc_steam_tonkAI", "dc/d2f/a27568.html", "dc/d2f/a27568" ],
+    [ "npc_steam_tonk", "d8/d9a/a27564.html#a19731e7f1bc6fe0220e8c28619ff7c50", null ],
+    [ "GetAI", "d8/d9a/a27564.html#a38e51485a3610a204a45677fce15c943", null ]
 ];

@@ -1,7 +1,12 @@
 var a22236 =
 [
-    [ "HandleDummy", "de/de1/a22236.html#a68c638c6e056cbadb101ddd025909f54", null ],
-    [ "PrepareSpellScript", "de/de1/a22236.html#a5a857bace5232d259145a0a095f70eec", null ],
-    [ "Register", "de/de1/a22236.html#af9c657e1fac6ee630af0bea337fbff62", null ],
-    [ "Validate", "de/de1/a22236.html#a21e9eaf2eea4b46986b8e8b911bd0508", null ]
+    [ "npc_time_lost_proto_drakeAI", "de/de1/a22236.html#ab98805519233eda932c6131aca059a8b", null ],
+    [ "JustEngagedWith", "de/de1/a22236.html#a14f41b30451b8ac8fe2411ec7102ae81", null ],
+    [ "Reset", "de/de1/a22236.html#a418ea9621040e3c717c4e24f73539f44", null ],
+    [ "RollPath", "de/de1/a22236.html#aabb3dd1d54a1290d500429efc8fa9e41", null ],
+    [ "UpdateEscortAI", "de/de1/a22236.html#a1a5442a5796b27d04eaa3ab62c613199", null ],
+    [ "WaypointReached", "de/de1/a22236.html#ad262b9dbc0edd2bac126fafbb5eb5f01", null ],
+    [ "events", "de/de1/a22236.html#aa2e4c3396d63d85a5d0abc8c74e58a79", null ],
+    [ "rollPath", "de/de1/a22236.html#a5431fd5a0801569bc03507818461aa7d", null ],
+    [ "setVisible", "de/de1/a22236.html#a63558b3406c241ecb27f3e485eeb439b", null ]
 ];

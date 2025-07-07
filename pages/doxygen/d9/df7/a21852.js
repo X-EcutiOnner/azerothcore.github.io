@@ -1,10 +1,6 @@
 var a21852 =
 [
-    [ "npc_emilyAI", "d9/df7/a21852.html#afd1e82e36c8850fbe118ab6abbdb73ce", null ],
-    [ "JustEngagedWith", "d9/df7/a21852.html#a498ddc6969d398fe7a44824f4f8c8893", null ],
-    [ "JustSummoned", "d9/df7/a21852.html#a4730c94b54d2ee5160011557704b35f2", null ],
-    [ "Reset", "d9/df7/a21852.html#a8f196a6e1b21bef162b7ba4d7aeae208", null ],
-    [ "WaypointReached", "d9/df7/a21852.html#a0a68676a6eac8fbe2b634098268eb516", null ],
-    [ "_mrfloppyGUID", "d9/df7/a21852.html#a12a1fbe1ef4767698ab969e51e2f0e8e", null ],
-    [ "_RavenousworgGUID", "d9/df7/a21852.html#aa2a5e45366be9f89221453e00179e1a3", null ]
+    [ "npc_torturer_lecraftAI", "d5/d8c/a21856.html", "d5/d8c/a21856" ],
+    [ "npc_torturer_lecraft", "d9/df7/a21852.html#a789f8bdafe96d5cb01225b940a80c651", null ],
+    [ "GetAI", "d9/df7/a21852.html#abdc8b33cd820c5cd14c999e7407897fe", null ]
 ];

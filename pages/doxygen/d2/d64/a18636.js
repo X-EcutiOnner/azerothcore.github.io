@@ -1,8 +1,6 @@
 var a18636 =
 [
-    [ "npc_arthas_teleport_visualAI", "d2/d64/a18636.html#a9b9b2ba725cde9aec898244a9e50c394", null ],
-    [ "Reset", "d2/d64/a18636.html#a27155b8880a2a86b733bcd074e977b59", null ],
-    [ "UpdateAI", "d2/d64/a18636.html#a23c200f2c7b9f5d02bed7af37bc69c33", null ],
-    [ "_events", "d2/d64/a18636.html#a986f19145e46f5975f22a84a3e1b10ee", null ],
-    [ "_instance", "d2/d64/a18636.html#a25bc023e061a0845421a652b571a6e1e", null ]
+    [ "npc_impaling_spearAI", "d9/daf/a18640.html", "d9/daf/a18640" ],
+    [ "npc_impaling_spear", "d2/d64/a18636.html#af546ed9684fc085ad651bf5bd93e5bf7", null ],
+    [ "GetAI", "d2/d64/a18636.html#aad49164a3e7541b755c1c622b996bb9a", null ]
 ];

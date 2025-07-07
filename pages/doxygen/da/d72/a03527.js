@@ -1,7 +1,7 @@
 var a03527 =
 [
-    [ "boss_exarch_maladaar", "d6/d2e/a22544.html", "d6/d2e/a22544" ],
-    [ "npc_stolen_soul", "d4/dc8/a22548.html", "d4/dc8/a22548" ],
+    [ "boss_exarch_maladaar", "db/d24/a22560.html", "db/d24/a22560" ],
+    [ "npc_stolen_soul", "d3/d57/a22564.html", "d3/d57/a22564" ],
     [ "Npc", "da/d72/a03527.html#a8d8031a9ef6bd14633aa0a1bc87e2753", [
       [ "NPC_IRON_SLUDGE", "dc/d9b/a03155.html#a8d8031a9ef6bd14633aa0a1bc87e2753a8ef27256382a54362848418fa570723e", null ],
       [ "NPC_DWARFES_FRIENDLY", "dc/d9b/a03155.html#a8d8031a9ef6bd14633aa0a1bc87e2753a0bd0bac75b5f94a8f392db802d5d55b7", null ],

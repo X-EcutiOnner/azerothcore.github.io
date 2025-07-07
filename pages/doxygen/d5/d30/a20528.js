@@ -1,6 +1,11 @@
 var a20528 =
 [
-    [ "npc_ulduar_dark_rune_watcherAI", "d4/d3d/a20532.html", "d4/d3d/a20532" ],
-    [ "npc_ulduar_dark_rune_watcher", "d5/d30/a20528.html#a0536c61d70d5c6d61496fc1720d37950", null ],
-    [ "GetAI", "d5/d30/a20528.html#a6677d6dc0d07b508e921064f3299b302", null ]
+    [ "npc_ulduar_expedition_engineerAI", "d5/d30/a20528.html#a48e29edad38f8ecbab54579203c93044", null ],
+    [ "Reset", "d5/d30/a20528.html#a8a68e3a58133913d0eb0bf9fd2532db2", null ],
+    [ "SetData", "d5/d30/a20528.html#a31db1ae61777b8f1a38d381e785ce158", null ],
+    [ "UpdateAI", "d5/d30/a20528.html#ab6d29aaae95038282fece78479448459", null ],
+    [ "fixingGUID", "d5/d30/a20528.html#ae0ba3ddbff054a948709e70f0bf9961a", null ],
+    [ "pInstance", "d5/d30/a20528.html#a6b858d46eda05493ec0cac22e174854c", null ],
+    [ "timer", "d5/d30/a20528.html#a926b343da3d3953d386b18f24bc72867", null ],
+    [ "working", "d5/d30/a20528.html#ab8e436472efd91f2d400c02c1b500746", null ]
 ];

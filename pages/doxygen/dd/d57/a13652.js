@@ -1,7 +1,12 @@
 var a13652 =
 [
-    [ "o", "dd/d57/a13652.html#a455ab33d372dd2aeac9d591f3cce1013", null ],
-    [ "x", "dd/d57/a13652.html#a49ad07d6ecb902ae4818923a6414f3c1", null ],
-    [ "y", "dd/d57/a13652.html#a45ec9c234e9d909eb8fcc0db6e0d641e", null ],
-    [ "z", "dd/d57/a13652.html#abf42d988d416ebe409100c4b860d26db", null ]
+    [ "npc_lady_sylvanas_windrunnerAI", "dd/d57/a13652.html#ad6eefe9a14ce64b12b65a22c3ebb4db0", null ],
+    [ "JustEngagedWith", "dd/d57/a13652.html#a36324482fb264cc3cacf11c3ed542eee", null ],
+    [ "JustSummoned", "dd/d57/a13652.html#a456ee6f4b5b8cdd79647a42185265be8", null ],
+    [ "Reset", "dd/d57/a13652.html#ad4c6cb31a8d3dc280e689d5d29e27479", null ],
+    [ "SetGUID", "dd/d57/a13652.html#aa5270e7468dcafba98d3ee72752771ce", null ],
+    [ "UpdateAI", "dd/d57/a13652.html#ab704e4f3af8aa734910efd259db31407", null ],
+    [ "_events", "dd/d57/a13652.html#a621d4db4fac3a7c3d08defa2a8ed06d0", null ],
+    [ "LamentEvent", "dd/d57/a13652.html#ace9e901a965665e0f97cb9646af308aa", null ],
+    [ "playerGUID", "dd/d57/a13652.html#aa125ab2a33dbf9f1d40f238e7d45000d", null ]
 ];

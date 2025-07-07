@@ -1,6 +1,8 @@
 var a15224 =
 [
-    [ "instance_wailing_caverns_InstanceMapScript", "dd/df9/a15228.html", "dd/df9/a15228" ],
-    [ "instance_wailing_caverns", "da/db7/a15224.html#a906f59c39f59237e9eedb479dfc7d825", null ],
-    [ "GetInstanceScript", "da/db7/a15224.html#a0f1020e86443d6902b3c4d8726f3e610", null ]
+    [ "npc_ahnqiraji_critter", "da/db7/a15224.html#a60e2dc1c52579a410d3435126bf39684", null ],
+    [ "JustDied", "da/db7/a15224.html#a71d3d5262bde847a18932fea89cb6648", null ],
+    [ "JustEngagedWith", "da/db7/a15224.html#aca1df706306f9181db26cd77e5b66452", null ],
+    [ "Reset", "da/db7/a15224.html#a645e16e9da29f6579320394201d0ada7", null ],
+    [ "UpdateAI", "da/db7/a15224.html#a68c5ded8563c2de9429a13cdb7d38f89", null ]
 ];

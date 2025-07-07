@@ -1,9 +1,8 @@
 var a13352 =
 [
-    [ "boss_muru", "d6/df6/a13352.html#a6e51cd6b3283f011fc834e0cc59f46e6", null ],
-    [ "DamageTaken", "d6/df6/a13352.html#a570c8cc6aaefaac4063d9f1053c04b32", null ],
-    [ "JustEngagedWith", "d6/df6/a13352.html#a305f5f20fbe3d15885ed3e6248d96ec6", null ],
-    [ "JustSummoned", "d6/df6/a13352.html#a7cf18b5f12586d122ece406feaa5bc39", null ],
-    [ "MoveInLineOfSight", "d6/df6/a13352.html#aa589d640b73c0b3e944585bdc702a8ee", null ],
-    [ "Reset", "d6/df6/a13352.html#a177aed9c1e5c1380fc8ea5f8c29650c6", null ]
+    [ "HandleApply", "d6/df6/a13352.html#a2c64240e8675fc76598600ae2632570f", null ],
+    [ "HandleRemove", "d6/df6/a13352.html#a2a6e32bbc9b722ad7e872c6a26daa6bb", null ],
+    [ "PrepareAuraScript", "d6/df6/a13352.html#a6ff74fbaf3a6ef84024d55528fd6f8e2", null ],
+    [ "Register", "d6/df6/a13352.html#aebfb4b20a9b0ebefff652a0ae1727994", null ],
+    [ "Validate", "d6/df6/a13352.html#abdad49fe5e0a72799847fdfcfe22eec0", null ]
 ];

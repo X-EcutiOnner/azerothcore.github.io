@@ -1,7 +1,6 @@
 var a16488 =
 [
-    [ "HandleEffectPeriodic", "d6/d62/a16488.html#ae5749a43f37f0eb3f049d8804845f61e", null ],
-    [ "PrepareAuraScript", "d6/d62/a16488.html#a66dcb98f38ed6b040928543015f59c9b", null ],
-    [ "Register", "d6/d62/a16488.html#abbebe9c5ad44db61e80ce3707e744ab6", null ],
-    [ "Validate", "d6/d62/a16488.html#a1131f0014f298b87483412d960bc0221", null ]
+    [ "npc_fel_infernalAI", "d4/d5d/a16492.html", "d4/d5d/a16492" ],
+    [ "npc_fel_infernal", "d6/d62/a16488.html#a2d2ed8cf09c97d30b6c79dcdf9153ed9", null ],
+    [ "GetAI", "d6/d62/a16488.html#a768201a7516c9972800c941cf2079a11", null ]
 ];

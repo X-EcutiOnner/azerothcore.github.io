@@ -1,9 +1,6 @@
 var a24204 =
 [
-    [ "npc_korkron_or_wildhammer", "db/da5/a24204.html#a3d2252865e0e540dd76aaf87ff62a83c", null ],
-    [ "IsSummonedBy", "db/da5/a24204.html#aa63e935c2d64716f22f4e74e43e6b639", null ],
-    [ "JustDied", "db/da5/a24204.html#a2b216f372b3681b4c96a711568c2a93b", null ],
-    [ "MovementInform", "db/da5/a24204.html#a598dada110aff99a3c36f3037dcf8bf4", null ],
-    [ "Reset", "db/da5/a24204.html#a67d5cf4a8418ab3f07a387f1021080df", null ],
-    [ "_playerGUID", "db/da5/a24204.html#a5f1a79c10b5363ee24b3941c54ff10d7", null ]
+    [ "npc_enraged_spiritAI", "d7/d09/a24208.html", "d7/d09/a24208" ],
+    [ "npc_enraged_spirit", "db/da5/a24204.html#a17d9e2e5fb8f2795fdeff26567bbf85f", null ],
+    [ "GetAI", "db/da5/a24204.html#aa10d5f0147cf4064a49df735ac95575e", null ]
 ];

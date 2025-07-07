@@ -1,6 +1,6 @@
 var a19212 =
 [
-    [ "npc_hover_diskAI", "d9/dc5/a19216.html", "d9/dc5/a19216" ],
-    [ "npc_hover_disk", "d2/df2/a19212.html#af0ab534387a2af4e168915801ee855e5", null ],
-    [ "GetAI", "d2/df2/a19212.html#adbe9285126089ca998e9b6360f42c553", null ]
+    [ "npc_nexus_lordAI", "d9/dc5/a19216.html", "d9/dc5/a19216" ],
+    [ "npc_nexus_lord", "d2/df2/a19212.html#a6e58f0074451dfd04b95b3ecaa0201e3", null ],
+    [ "GetAI", "d2/df2/a19212.html#a1cea0b189b2ef8e932b51caf3d70d6ba", null ]
 ];

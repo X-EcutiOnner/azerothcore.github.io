@@ -1,7 +1,7 @@
 var a25096 =
 [
-    [ "CheckIfLanceEquipped", "db/dab/a25096.html#aae1fe4d0329b7a2db5e4f2a28e3f04c5", null ],
-    [ "PrepareSpellScript", "db/dab/a25096.html#a2af9ee2ccd34c97734c58bfcbb83c8b5", null ],
-    [ "Register", "db/dab/a25096.html#a4421ceaedce16777f8f04b9c40855782", null ],
-    [ "Validate", "db/dab/a25096.html#ab0908d7a15e7554c735d8e5554f7cd65", null ]
+    [ "HandleChargeEffect", "db/dab/a25096.html#ad8d2871e6277dd982653fa864010d084", null ],
+    [ "HandleScriptEffect", "db/dab/a25096.html#a2c0a734c9e8cc1bd7ae4baa168bda7fc", null ],
+    [ "PrepareSpellScript", "db/dab/a25096.html#a1f8722308e1a5bef546dcb939d73dca7", null ],
+    [ "Register", "db/dab/a25096.html#a2cdda449ab11438347e7dd32fd058e6d", null ]
 ];

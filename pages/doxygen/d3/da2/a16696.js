@@ -1,7 +1,5 @@
 var a16696 =
 [
-    [ "HandleScriptEffect", "d3/da2/a16696.html#a667e50b01f431dba025f692484f6e7ba", null ],
-    [ "PrepareSpellScript", "d3/da2/a16696.html#a9a5ffd28102a519c06f3715d7f2b1039", null ],
-    [ "Register", "d3/da2/a16696.html#a7ffa6eb498e9ec06d5cb4f81cff44389", null ],
-    [ "Validate", "d3/da2/a16696.html#a0ab270193a95f9043afd40c9ffd2a46b", null ]
+    [ "achievement_consumption_junction", "d3/da2/a16696.html#aab08732c13f41e0e8d27e9f482bd7351", null ],
+    [ "OnCheck", "d3/da2/a16696.html#a14dae1bf9d4d7c79f11de40b372f353e", null ]
 ];

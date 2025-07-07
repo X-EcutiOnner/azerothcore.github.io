@@ -1,6 +1,6 @@
 var a15180 =
 [
-    [ "OnPeriodic", "de/de6/a15180.html#a5945e24db52c6bacae7221b085dc877b", null ],
-    [ "PrepareAuraScript", "de/de6/a15180.html#acc987aa864a8333de7bd0b770eb9018d", null ],
-    [ "Register", "de/de6/a15180.html#a3c5a192302ec6d531037f8b5da1565f2", null ]
+    [ "instance_temple_of_ahnqiraj_InstanceMapScript", "d1/d65/a15184.html", "d1/d65/a15184" ],
+    [ "instance_temple_of_ahnqiraj", "de/de6/a15180.html#a316c5e2cac59f2ee2520fba1b97407e3", null ],
+    [ "GetInstanceScript", "de/de6/a15180.html#a9e3060d9f2188f410da8aa3e9526e79d", null ]
 ];

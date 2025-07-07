@@ -1,6 +1,5 @@
 var a20484 =
 [
-    [ "boss_razorscaleAI", "de/dba/a20488.html", "de/dba/a20488" ],
-    [ "boss_razorscale", "d4/ddc/a20484.html#ad8fe81f1b553414df3fa07c646029065", null ],
-    [ "GetAI", "d4/ddc/a20484.html#a01cf25d901a5eddae9ef3ea291020ba1", null ]
+    [ "achievement_mimiron_firefighter", "d4/ddc/a20484.html#ae26c3b2572bc9e3e75fb25537fe46a6c", null ],
+    [ "OnCheck", "d4/ddc/a20484.html#a1ebd287ef20c6d367f30b1c30ba68728", null ]
 ];

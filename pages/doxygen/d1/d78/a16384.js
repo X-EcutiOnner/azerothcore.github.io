@@ -1,7 +1,7 @@
 var a16384 =
 [
-    [ "npc_toc_mageAI", "d1/d78/a16384.html#a188831088c892f68cef7498468b24899", null ],
-    [ "myCanCast", "d1/d78/a16384.html#aaf7fd7b143a4eb410465c7cb34c32d2f", null ],
-    [ "UpdateAI", "d1/d78/a16384.html#a0f4393341a6c565aef2c0b79a39c0699", null ],
-    [ "events", "d1/d78/a16384.html#ab1910ce98f3d1b14e45acba22782d536", null ]
+    [ "npc_toc_shadow_priestAI", "d1/d78/a16384.html#af13a18be542fb314c19af52f89d216b8", null ],
+    [ "myCanCast", "d1/d78/a16384.html#a83422ff3e140b57a484d98876a9a8070", null ],
+    [ "UpdateAI", "d1/d78/a16384.html#afc23ba15d3ee925212e77b5211504c2b", null ],
+    [ "events", "d1/d78/a16384.html#a31665a22920b416d7423958a3e2928ec", null ]
 ];

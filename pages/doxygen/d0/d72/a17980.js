@@ -1,6 +1,7 @@
 var a17980 =
 [
-    [ "boss_sindragosaAI", "d4/d15/a17984.html", "d4/d15/a17984" ],
-    [ "boss_sindragosa", "d0/d72/a17980.html#af5cdf4798b8b87467fa45dbda7fcbee1", null ],
-    [ "GetAI", "d0/d72/a17980.html#a005a6da9f4f9690416a108872b3c2b36", null ]
+    [ "FrostwyrmLandEvent", "d0/d72/a17980.html#a6b6a467c474a5b03be40e4d9a86eddc8", null ],
+    [ "Execute", "d0/d72/a17980.html#a4da77796a223e6233ac6d908f7700623", null ],
+    [ "_dest", "d0/d72/a17980.html#a7f5b4c41c459b65e30dea66f7459a7e9", null ],
+    [ "_owner", "d0/d72/a17980.html#a6336050092606ebb27a180abff55dfa2", null ]
 ];

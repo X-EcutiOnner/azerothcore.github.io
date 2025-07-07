@@ -1,7 +1,7 @@
 var a18456 =
 [
-    [ "npc_blazing_skeletonAI", "d4/d59/a18456.html#ad4f997a7a4cc0fa96594da35434fd921", null ],
-    [ "Reset", "d4/d59/a18456.html#a3bbc4cf7b6dbe11d6768a0fb0626e84a", null ],
-    [ "UpdateAI", "d4/d59/a18456.html#a0010c4befd13ec6beada0de1607f3f7a", null ],
-    [ "_events", "d4/d59/a18456.html#aab1b04989d5e3fc289f00bc121df193d", null ]
+    [ "npc_valithria_portalAI", "d4/d59/a18456.html#a18c1b9d2b149fbc34a17c9e87a8c70b6", null ],
+    [ "GetData", "d4/d59/a18456.html#a598ba7930900aa211bb7e7dc12f366c0", null ],
+    [ "OnSpellClick", "d4/d59/a18456.html#a457f2725e6580d7e6f3bb0445ba796a8", null ],
+    [ "_used", "d4/d59/a18456.html#a92cc0c2aaa6add0c6c641719d6846bb3", null ]
 ];

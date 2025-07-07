@@ -1,6 +1,6 @@
 var a21592 =
 [
-    [ "npc_leryssaAI", "dc/ddf/a21596.html", "dc/ddf/a21596" ],
-    [ "npc_leryssa", "d6/d2e/a21592.html#a549bed4476f88c313e6b42c0fe1fffb8", null ],
-    [ "GetAI", "d6/d2e/a21592.html#a4725831580b206d91dbd8c21a703893f", null ]
+    [ "npc_thassarianAI", "dc/ddf/a21596.html", "dc/ddf/a21596" ],
+    [ "npc_thassarian", "d6/d2e/a21592.html#a82bde4555821f84a6d07a69669528313", null ],
+    [ "GetAI", "d6/d2e/a21592.html#af4bbf5f6a63c3765355d6b70c2bda55b", null ]
 ];

@@ -1,7 +1,7 @@
 var a03365 =
 [
-    [ "boss_tyrannus", "d7/d15/a16972.html", "d7/d15/a16972" ],
-    [ "boss_tyrannus::boss_tyrannusAI", "d8/dd7/a16976.html", "d8/dd7/a16976" ],
+    [ "boss_tyrannus", "d8/d79/a16988.html", "d8/d79/a16988" ],
+    [ "boss_tyrannus::boss_tyrannusAI", "d4/d1e/a16992.html", "d4/d1e/a16992" ],
     [ "Events", "d7/d13/a03365.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_CHARGE_TARGET", "d1/de5/a02822.html#af60e00b78607064c5be6aa9397ea49c1ae9b5b6a7dd72b493b6874d7408585a02", null ],
       [ "EVENT_CLEAVE", "d1/de5/a02822.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a", null ],

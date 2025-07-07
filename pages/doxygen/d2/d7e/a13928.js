@@ -1,5 +1,6 @@
 var a13928 =
 [
-    [ "at_zulgurub_temple_speech", "d2/d7e/a13928.html#ab727ad7cb7f0a0e8309bbab233766cde", null ],
-    [ "_OnTrigger", "d2/d7e/a13928.html#afd42cd408df7562a9dcd91e33750f3d4", null ]
+    [ "boss_hakkarAI", "d1/d64/a13932.html", "d1/d64/a13932" ],
+    [ "boss_hakkar", "d2/d7e/a13928.html#a834bd1f223154fbf1be94bf43136da28", null ],
+    [ "GetAI", "d2/d7e/a13928.html#aff3a089e30dcddfde4db372104153723", null ]
 ];

@@ -1,6 +1,6 @@
 var a16496 =
 [
-    [ "npc_snobold_vassalAI", "d8/d3f/a16500.html", "d8/d3f/a16500" ],
-    [ "npc_snobold_vassal", "d6/dc3/a16496.html#a243cefbc15931ebbb555936d54583314", null ],
-    [ "GetAI", "d6/dc3/a16496.html#a77976a59f600591454fac197ded613ef", null ]
+    [ "npc_mistress_of_painAI", "d8/d3f/a16500.html", "d8/d3f/a16500" ],
+    [ "npc_mistress_of_pain", "d6/dc3/a16496.html#a0261ed835454725e0e5629c295be4330", null ],
+    [ "GetAI", "d6/dc3/a16496.html#ae32e9b907e2e31556e72d7feb4e24e8a", null ]
 ];

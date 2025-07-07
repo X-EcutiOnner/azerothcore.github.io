@@ -1,6 +1,6 @@
 var a24436 =
 [
-    [ "HandlePeriodic", "d2/da8/a24436.html#adc387a1b001119b95179856c030853ad", null ],
-    [ "PrepareAuraScript", "d2/da8/a24436.html#a64eb2c68651171f1cbda3aa98d58e68e", null ],
-    [ "Register", "d2/da8/a24436.html#a1234c3e7b32d5bed67c8e9c2afc1fdc5", null ]
+    [ "PrepareSpellScript", "d2/da8/a24436.html#a2585b06bbebf291d170df58daf6fdd4e", null ],
+    [ "RecalculateDamage", "d2/da8/a24436.html#a1fe9f9d4892b0ca8cb6699b555fb9268", null ],
+    [ "Register", "d2/da8/a24436.html#a834484683d2d782b4f4c027091108172", null ]
 ];

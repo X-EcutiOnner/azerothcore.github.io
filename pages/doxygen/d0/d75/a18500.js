@@ -1,8 +1,6 @@
 var a18500 =
 [
-    [ "DecayPeriodicTimer", "d0/d75/a18500.html#a314ac33692cc352c490ec3d87177d67a", null ],
-    [ "Load", "d0/d75/a18500.html#af5a498253c4c382df3b2462a30448a64", null ],
-    [ "PrepareAuraScript", "d0/d75/a18500.html#ac5d4ee199b49e04499997355ac054554", null ],
-    [ "Register", "d0/d75/a18500.html#a1b59480ce384f09cecd47872b39cf3c5", null ],
-    [ "_decayRate", "d0/d75/a18500.html#a20c696ff06f9b48451d9eac43ccf5416", null ]
+    [ "HandleScript", "d0/d75/a18500.html#a567509ccadbc74b3ba9e420f08a0c2b4", null ],
+    [ "PrepareSpellScript", "d0/d75/a18500.html#aac5f2cb3e5f498ae46598e95eece825d", null ],
+    [ "Register", "d0/d75/a18500.html#a11c40abf4db37e1498b1a7ee5089f083", null ]
 ];

@@ -1,5 +1,7 @@
 var a27620 =
 [
-    [ "npc_controller", "d9/d90/a27620.html#a3c75fb509d5cf4b4d417c97b409615b1", null ],
-    [ "OnCharmed", "d9/d90/a27620.html#a69628677de225d76a8c89b4626e0f32b", null ]
+    [ "npc_venomhide_hatchlingAI", "d4/d99/a27624.html", "d4/d99/a27624" ],
+    [ "npc_venomhide_hatchling", "d9/d90/a27620.html#a4dc217dd5950db7b270b7cce3e594e4d", null ],
+    [ "GetAI", "d9/d90/a27620.html#a96110b752965d751ab7b466c4f67e333", null ],
+    [ "OnGossipHello", "d9/d90/a27620.html#a404d875592b847ddb9f3250c9d954bfc", null ]
 ];

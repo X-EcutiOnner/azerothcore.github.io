@@ -1,6 +1,6 @@
 var a20360 =
 [
-    [ "boss_mimironAI", "d6/d26/a20364.html", "d6/d26/a20364" ],
-    [ "boss_mimiron", "df/d2b/a20360.html#a72904837bd85e9f711fcf3da04c459c3", null ],
-    [ "GetAI", "df/d2b/a20360.html#a1d4f38ecee62a2c2a608afc158fad7f2", null ]
+    [ "OnPeriodic", "df/d2b/a20360.html#a8a12342f694499043e8ed4446fd92d36", null ],
+    [ "PrepareAuraScript", "df/d2b/a20360.html#a9294210ece0c3bcda0639d1fc486cc9a", null ],
+    [ "Register", "df/d2b/a20360.html#a381709d53101832de6b2161c4a33a0d4", null ]
 ];

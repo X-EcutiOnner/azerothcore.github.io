@@ -1,7 +1,6 @@
 var a26848 =
 [
-    [ "FilterTargets", "de/d60/a26848.html#aeebe9395cefab1b87196a7ef466aa2c8", null ],
-    [ "PrepareSpellScript", "de/d60/a26848.html#a954f00317eab544dd57e657368aab7fb", null ],
-    [ "Register", "de/d60/a26848.html#a1804684c8685372faf2e88e56b48f5be", null ],
-    [ "Validate", "de/d60/a26848.html#ab08386023ed3b3c8e51178da8973ef1a", null ]
+    [ "HandleOnHit", "de/d60/a26848.html#a94893e6dd048f0028540e5ce15ed7b1d", null ],
+    [ "PrepareSpellScript", "de/d60/a26848.html#a999b019665dec9b0690a1019be428072", null ],
+    [ "Register", "de/d60/a26848.html#ab21c47d1918a9e29ebe7b041421deaf7", null ]
 ];

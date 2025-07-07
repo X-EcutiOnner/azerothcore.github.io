@@ -1,5 +1,6 @@
 var a24040 =
 [
-    [ "go_warmaul_prison", "d2/d9d/a24040.html#adffbb532d7ee3c5a67543fe15ce5b67b", null ],
-    [ "OnGossipHello", "d2/d9d/a24040.html#ac9e66eeb30bf951d37f2d0917a295705", null ]
+    [ "npc_creditmarker_visit_with_ancestorsAI", "dc/daf/a24044.html", "dc/daf/a24044" ],
+    [ "npc_creditmarker_visit_with_ancestors", "d2/d9d/a24040.html#a60f7abac7198d8504d944828dceb1ffa", null ],
+    [ "GetAI", "d2/d9d/a24040.html#a06eb335a757c9f48fbfa64bfc326bb8e", null ]
 ];

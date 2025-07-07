@@ -1,6 +1,6 @@
 var a03584 =
 [
-    [ "boss_pandemonius", "d3/dbf/a22576.html", "d3/dbf/a22576" ],
+    [ "boss_pandemonius", "db/d60/a22592.html", "db/d60/a22592" ],
     [ "Groups", "dd/dda/a03584.html#aab072245ab577ff0e12efe20a536b99a", [
       [ "GROUP_PRECOMBAT_TALK", "db/d4d/a02654.html#aab072245ab577ff0e12efe20a536b99aa3e7953992f23b2eba8d8498bfc66e01d", null ],
       [ "PORTAL_PHASE", "d5/d96/a02642.html#aab072245ab577ff0e12efe20a536b99aa8f7d8b62b79ce76fc356b355521db829", null ],

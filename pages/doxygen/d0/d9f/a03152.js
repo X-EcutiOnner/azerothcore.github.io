@@ -1,11 +1,11 @@
 var a03152 =
 [
-    [ "boss_volkhan", "d3/d8d/a19484.html", "d3/d8d/a19484" ],
-    [ "boss_volkhan::boss_volkhanAI", "d6/de1/a19488.html", "d6/de1/a19488" ],
-    [ "npc_molten_golem", "dd/d36/a19492.html", "dd/d36/a19492" ],
-    [ "npc_molten_golem::npc_molten_golemAI", "d4/dc8/a19496.html", "d4/dc8/a19496" ],
-    [ "npc_hol_monument", "d5/df0/a19500.html", "d5/df0/a19500" ],
-    [ "npc_hol_monument::npc_hol_monumentAI", "d7/d23/a19504.html", "d7/d23/a19504" ],
+    [ "boss_volkhan", "d5/df0/a19500.html", "d5/df0/a19500" ],
+    [ "boss_volkhan::boss_volkhanAI", "d7/d23/a19504.html", "d7/d23/a19504" ],
+    [ "npc_molten_golem", "d7/d48/a19508.html", "d7/d48/a19508" ],
+    [ "npc_molten_golem::npc_molten_golemAI", "d4/d2d/a19512.html", "d4/d2d/a19512" ],
+    [ "npc_hol_monument", "df/d94/a19516.html", "df/d94/a19516" ],
+    [ "npc_hol_monument::npc_hol_monumentAI", "dd/d08/a19520.html", "dd/d08/a19520" ],
     [ "monumentEvents", "d0/d9f/a03152.html#a0e84888e4867ffbf0dc32bd8666f0bc0", [
       [ "EVENT_PIERCING_HOWL", "d0/d9f/a03152.html#a0e84888e4867ffbf0dc32bd8666f0bc0a89b86fe98dee6056077272582a710ef0", null ],
       [ "EVENT_PENETRATING_STRIKE", "d0/d9f/a03152.html#a0e84888e4867ffbf0dc32bd8666f0bc0a36bc0710106e0e0bcd38677fe87a4522", null ],

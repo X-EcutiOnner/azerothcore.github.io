@@ -1,12 +1,9 @@
 var a28680 =
 [
-    [ "Model", "dd/d9b/a28680.html#ae102b5fc584185113e89fb7b39a72bd1", null ],
-    [ "~Model", "dd/d9b/a28680.html#ad6ebd2062a0b823db841a0b88baac4c0", null ],
-    [ "_unload", "dd/d9b/a28680.html#a9b02ed73fa006bc057157b636029ab6f", null ],
-    [ "ConvertToVMAPModel", "dd/d9b/a28680.html#ae6fd5d754d9a880359b8afaf50c5753e", null ],
-    [ "open", "dd/d9b/a28680.html#a6ed3a71ff468f5acaccc61f5c2c87a0e", null ],
-    [ "filename", "dd/d9b/a28680.html#a4c43746e9c460e29cabd1ba2db6ba222", null ],
-    [ "header", "dd/d9b/a28680.html#a2f6e66bbf4acc662d73e8fe8e5a0e085", null ],
-    [ "indices", "dd/d9b/a28680.html#a3b61d3316481e7b9c38bf50806ebded6", null ],
-    [ "vertices", "dd/d9b/a28680.html#a1af9857df4d0e16ab9940846300fa8fe", null ]
+    [ "Flags", "dd/d9b/a28680.html#a4471edebd870d3dfaaf34292341e5f60", null ],
+    [ "Id", "dd/d9b/a28680.html#a6a25126338a8c3aa7d36c02c979639dd", null ],
+    [ "Position", "dd/d9b/a28680.html#a8fa9a49b3195ffe74dcf1872d0fb05c1", null ],
+    [ "Rotation", "dd/d9b/a28680.html#a986c3ea05d510db03ec969f0d116fb34", null ],
+    [ "Scale", "dd/d9b/a28680.html#af8bcb02c541b9261dbf879353ba6893a", null ],
+    [ "UniqueId", "dd/d9b/a28680.html#a374c9893af515badc54b22b2a4d5e024", null ]
 ];

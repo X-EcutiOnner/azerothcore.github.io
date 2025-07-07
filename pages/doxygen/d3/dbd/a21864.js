@@ -1,6 +1,7 @@
 var a21864 =
 [
-    [ "npc_ravenous_worgAI", "da/ddb/a21868.html", "da/ddb/a21868" ],
-    [ "npc_ravenous_worg", "d3/dbd/a21864.html#ad7f8da1c82072367fe4a537620df9ac0", null ],
-    [ "GetAI", "d3/dbd/a21864.html#ac966ae31d3a86c9435b14d9f50a5f4cb", null ]
+    [ "npc_emilyAI", "da/ddb/a21868.html", "da/ddb/a21868" ],
+    [ "npc_emily", "d3/dbd/a21864.html#ab40f581fad087b3d32a7724fca97895d", null ],
+    [ "GetAI", "d3/dbd/a21864.html#a6317e4b9787c25ce119d08432cd1acf7", null ],
+    [ "OnQuestAccept", "d3/dbd/a21864.html#ad434e7bf2427b3575a8459021e792152", null ]
 ];

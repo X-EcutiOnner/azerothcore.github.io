@@ -1,6 +1,6 @@
 var a18856 =
 [
-    [ "npc_isle_of_conquest_turretAI", "d0/db9/a18860.html", "d0/db9/a18860" ],
-    [ "npc_isle_of_conquest_turret", "de/db7/a18856.html#ac080845203adef25e6841133b7e2f4dc", null ],
-    [ "GetAI", "de/db7/a18856.html#a0f532e12439e900b3cb77619f1ecd17d", null ]
+    [ "RespawnEvent", "de/db7/a18856.html#accc0d5638ff7a493fa116ac2e8f2e58b", null ],
+    [ "Execute", "de/db7/a18856.html#a2e58f4e472fb72cf5401f11be6e5e136", null ],
+    [ "_owner", "de/db7/a18856.html#adb0835b4a2e7a2795bb81f0a1e3c911a", null ]
 ];

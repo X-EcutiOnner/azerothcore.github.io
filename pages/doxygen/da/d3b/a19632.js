@@ -1,28 +1,6 @@
 var a19632 =
 [
-    [ "boss_algalon_the_observerAI", "da/d3b/a19632.html#a2c2d990919a6f5cba8ff8127199195e3", null ],
-    [ "AttackStart", "da/d3b/a19632.html#a2631ccc7111d01735a97244838ca9c27", null ],
-    [ "CallConstellations", "da/d3b/a19632.html#a564415931ad23ee369f2df503ce9c561", null ],
-    [ "DamageTaken", "da/d3b/a19632.html#a5f96871a1fb8ecb0e6d861d96601876d", null ],
-    [ "DoAction", "da/d3b/a19632.html#a931e8e5178a0e1d201e002ef06d9af3e", null ],
-    [ "DoCheckHeraldOfTheTitans", "da/d3b/a19632.html#a68cf28542db34f6d5784218085dc0d4c", null ],
-    [ "EnterEvadeMode", "da/d3b/a19632.html#aa114e1b79dc128fbad06223039f5d57a", null ],
-    [ "GetData", "da/d3b/a19632.html#acc68df65e98350c9bd8d8838ebc5d926", null ],
-    [ "IsInRoom", "da/d3b/a19632.html#a85f55d3a1f0dae6f5015310b7aa47e2c", null ],
-    [ "IsValidHeraldItem", "da/d3b/a19632.html#ab9498202d44b60655f877dd751201c11", null ],
-    [ "JustEngagedWith", "da/d3b/a19632.html#acc87dc30d4b60f111d1ffd6718f38959", null ],
-    [ "JustReachedHome", "da/d3b/a19632.html#a9a506424f408f3574f8dfbaf099b37e9", null ],
-    [ "JustSummoned", "da/d3b/a19632.html#af2d96586fd35513073e22ccd1dafc109", null ],
-    [ "KilledUnit", "da/d3b/a19632.html#a4f4a9ae8f0513ace5965ec37ae7afe36", null ],
-    [ "MovementInform", "da/d3b/a19632.html#aeeedd56277bd2b6a91fbdf29a4fc5016", null ],
-    [ "Reset", "da/d3b/a19632.html#aa770123f55cbe8dd0fa6107fcc101a22", null ],
-    [ "UpdateAI", "da/d3b/a19632.html#aa699ab825076fd56f54084708087d871", null ],
-    [ "_fedOnTears", "da/d3b/a19632.html#a14aaf7e154db5ad43cee0524f3c2fbb0", null ],
-    [ "_fightWon", "da/d3b/a19632.html#a15bd59c5e9be39fb57b4511f22c093f4", null ],
-    [ "_firstPull", "da/d3b/a19632.html#a0123d20ad380467522167c1612ab34e6", null ],
-    [ "_heraldOfTheTitans", "da/d3b/a19632.html#a9f81cbf1360db8c8e1a9646cf31cf4b6", null ],
-    [ "_phaseTwo", "da/d3b/a19632.html#a2176501407dd0bf927806a87b22f87d2", null ],
-    [ "events", "da/d3b/a19632.html#aa79c8c65f5ac56558d24416e00fdf003", null ],
-    [ "m_pInstance", "da/d3b/a19632.html#a4901167c02871f8228de44cd92b5e7db", null ],
-    [ "summons", "da/d3b/a19632.html#abe084c0ec13623e078e79a3fb9a1e080", null ]
+    [ "instance_halls_of_stone_InstanceMapScript", "dc/d75/a19636.html", "dc/d75/a19636" ],
+    [ "instance_halls_of_stone", "da/d3b/a19632.html#ad0237cfaf2e48036f45181fd7746df2b", null ],
+    [ "GetInstanceScript", "da/d3b/a19632.html#a784906c7710a216016101cf7a6a915f3", null ]
 ];

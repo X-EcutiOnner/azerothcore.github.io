@@ -1,6 +1,6 @@
 var a26004 =
 [
-    [ "FilterTargets", "de/d98/a26004.html#aad5d183d0d7ea229cbfc11f751536624", null ],
-    [ "PrepareSpellScript", "de/d98/a26004.html#a68ba19142ae6eb04a2547495233700df", null ],
-    [ "Register", "de/d98/a26004.html#a22c313409438f94d29ab3e236a56c115", null ]
+    [ "HandleDummy", "de/d98/a26004.html#acb433ef020fbd090259ac969a35842ea", null ],
+    [ "PrepareSpellScript", "de/d98/a26004.html#a9440e067db7bc5c48c973dfd61f1a95e", null ],
+    [ "Register", "de/d98/a26004.html#a349e674aa5e07f59dc0a0d78a25aa0cd", null ]
 ];

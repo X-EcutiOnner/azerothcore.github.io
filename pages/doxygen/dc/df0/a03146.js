@@ -1,10 +1,10 @@
 var a03146 =
 [
-    [ "boss_ionar", "d3/dc4/a19452.html", "d3/dc4/a19452" ],
-    [ "boss_ionar::boss_ionarAI", "d6/d1e/a19456.html", "d6/d1e/a19456" ],
-    [ "npc_spark_of_ionar", "d7/d09/a19460.html", "d7/d09/a19460" ],
-    [ "npc_spark_of_ionar::npc_spark_of_ionarAI", "da/df2/a19464.html", "da/df2/a19464" ],
-    [ "spell_ionar_static_overload", "d1/d8c/a19468.html", "d1/d8c/a19468" ],
+    [ "boss_ionar", "d1/d8c/a19468.html", "d1/d8c/a19468" ],
+    [ "boss_ionar::boss_ionarAI", "d7/d2a/a19472.html", "d7/d2a/a19472" ],
+    [ "npc_spark_of_ionar", "dd/d67/a19476.html", "dd/d67/a19476" ],
+    [ "npc_spark_of_ionar::npc_spark_of_ionarAI", "d8/d5e/a19480.html", "d8/d5e/a19480" ],
+    [ "spell_ionar_static_overload", "d3/d8d/a19484.html", "d3/d8d/a19484" ],
     [ "IonarEvents", "dc/df0/a03146.html#a55c0c07978cfe70c0de268fffe25dc01", [
       [ "EVENT_BALL_LIGHTNING", "dc/df0/a03146.html#a55c0c07978cfe70c0de268fffe25dc01a78c3786c67000c32de404a9427b52b06", null ],
       [ "EVENT_STATIC_OVERLOAD", "dc/df0/a03146.html#a55c0c07978cfe70c0de268fffe25dc01ae3a111aaab2ee8146af4226e5480bd76", null ],

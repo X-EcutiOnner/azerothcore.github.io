@@ -1,12 +1,6 @@
 var a17532 =
 [
-    [ "gunship_npc_AI", "d0/d5e/a17532.html#a30c13cb755638fcf05d1ad9a476210d3", null ],
-    [ "EnterEvadeMode", "d0/d5e/a17532.html#a7c2da25bb962c32fa350ee1f12f86ca4", null ],
-    [ "JustDied", "d0/d5e/a17532.html#ad40c976be4decd9054dad031a4caab78", null ],
-    [ "MovementInform", "d0/d5e/a17532.html#a3bae54b656fc5ed8c6fef80bd1721c71", null ],
-    [ "SetData", "d0/d5e/a17532.html#acfd5e331155d7787ada33acbca73fece", null ],
-    [ "SetSlotInfo", "d0/d5e/a17532.html#afdfc3f9add2952f90baf24d55425670f", null ],
-    [ "Index", "d0/d5e/a17532.html#ae120874514cf5921136821b820a04da7", null ],
-    [ "Instance", "d0/d5e/a17532.html#ab5276a099bcf56c5a25b3a52be516b5c", null ],
-    [ "Slot", "d0/d5e/a17532.html#a59d237475ae309755d429cfac77d6630", null ]
+    [ "npc_zafod_boomboxAI", "d5/d41/a17536.html", "d5/d41/a17536" ],
+    [ "npc_zafod_boombox", "d0/d5e/a17532.html#a7124746ed3f25ae6d96a2fa1910d98d0", null ],
+    [ "GetAI", "d0/d5e/a17532.html#af80f6913cef53d39cafdcd47b2cd07f0", null ]
 ];

@@ -1,6 +1,6 @@
 var a24728 =
 [
-    [ "HandleKnockBack", "db/d86/a24728.html#ae50d143953074b83183482770046e131", null ],
-    [ "PrepareSpellScript", "db/d86/a24728.html#a73666b297ef8bbfd490fee6075b06b3a", null ],
-    [ "Register", "db/d86/a24728.html#a035df6b2e29aa0d2b5558e1cfef96ead", null ]
+    [ "CheckCast", "db/d86/a24728.html#aefa91f15300520de7cffad4f4ca82ccf", null ],
+    [ "PrepareSpellScript", "db/d86/a24728.html#a605e7b8849186c3c2df731cac743a208", null ],
+    [ "Register", "db/d86/a24728.html#a62533bff915db8323b53352f17c4825f", null ]
 ];

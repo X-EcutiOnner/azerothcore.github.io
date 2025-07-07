@@ -1,7 +1,6 @@
 var a22948 =
 [
-    [ "Absorb", "d0/dde/a22948.html#a227cf7329d7dee564c3f8f9f67378ffe", null ],
-    [ "HandleEffectRemove", "d0/dde/a22948.html#a3d4026e5208acb948c089a4bedba0de8", null ],
-    [ "PrepareAuraScript", "d0/dde/a22948.html#af66dc1cba6aa7511c11a071ea9a381bb", null ],
-    [ "Register", "d0/dde/a22948.html#a983cf678001efcbccc4b34a9ad919881", null ]
+    [ "npc_supremus_punch_invisible_stalker", "d0/dde/a22948.html#add7d0e711ef02a16ef58d90cfc8ee733", null ],
+    [ "IsSummonedBy", "d0/dde/a22948.html#a467d5a43bb6d2349ad859a0ef7de4c00", null ],
+    [ "UpdateAI", "d0/dde/a22948.html#a90ecfe4257ef77a6d6a200a2f017c51a", null ]
 ];

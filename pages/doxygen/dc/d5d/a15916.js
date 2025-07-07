@@ -1,11 +1,6 @@
 var a15916 =
 [
-    [ "boss_sartharion_tenebronAI", "dc/d5d/a15916.html#a9996fce9320390ead967ad82bcef9554", null ],
-    [ "ClearInstance", "dc/d5d/a15916.html#af9e0459fff845bf4f6e53d06e4a9447f", null ],
-    [ "ExecuteEvent", "dc/d5d/a15916.html#a6a7f8255aa1dcbb979354467d0e6949d", null ],
-    [ "HandleExtraEvent", "dc/d5d/a15916.html#ad78a939f0584b775e29341ff08f0eee1", null ],
-    [ "JustDied", "dc/d5d/a15916.html#ac3e03263a174dd147854fa6d714ec003", null ],
-    [ "JustSummoned", "dc/d5d/a15916.html#a50d000b322e3d3a61cc02dea96c2979d", null ],
-    [ "Reset", "dc/d5d/a15916.html#a1aa8277ddc91989ed7480d4221a6e534", null ],
-    [ "summons2", "dc/d5d/a15916.html#a5060b01175ece5ad782e96bdf3d2c82d", null ]
+    [ "boss_sartharionAI", "d2/d30/a15920.html", "d2/d30/a15920" ],
+    [ "boss_sartharion", "dc/d5d/a15916.html#a6605aee69372d08fba8f4b4523896588", null ],
+    [ "GetAI", "dc/d5d/a15916.html#aca5d66e0f5cdcafd6f9cd2c173f43839", null ]
 ];

@@ -1,7 +1,6 @@
 var a12956 =
 [
-    [ "CheckCast", "de/daa/a12956.html#a3fe12c32e49232c2ea80095e62b4f981", null ],
-    [ "HandleScriptEffect", "de/daa/a12956.html#af265f0bba7028f45763a7f9afea2d051", null ],
-    [ "PrepareSpellScript", "de/daa/a12956.html#a27518fd5482e65e0324100057e747d68", null ],
-    [ "Register", "de/daa/a12956.html#a07789d7d092eb1b6633200442466c52b", null ]
+    [ "npc_acherus_necromancerAI", "d0/d81/a12960.html", "d0/d81/a12960" ],
+    [ "npc_acherus_necromancer", "de/daa/a12956.html#a14ca04a1656a6bb0c842ecb709aba1a7", null ],
+    [ "GetAI", "de/daa/a12956.html#af43b1908b1d99868ea5a3899fe8ebd02", null ]
 ];

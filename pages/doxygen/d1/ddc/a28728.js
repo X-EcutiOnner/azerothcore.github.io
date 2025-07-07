@@ -1,6 +1,8 @@
 var a28728 =
 [
-    [ "height", "d1/ddc/a28728.html#a7638f586a055c48a46e36471543ff72f", null ],
-    [ "unk1", "d1/ddc/a28728.html#a6c08b6fa33e12a9900218d0d0b8b78d5", null ],
-    [ "unk2", "d1/ddc/a28728.html#a394a04f6e985824aa259a42b11b97136", null ]
+    [ "Color", "d1/ddc/a28728.html#a379e4cf61345dbb4d93da5a8603138c0", null ],
+    [ "NameIndex", "d1/ddc/a28728.html#add893e045d13a3633fd7346457a10477", null ],
+    [ "Position", "d1/ddc/a28728.html#afae9056582e71160c151de2c172bc60a", null ],
+    [ "Rotation", "d1/ddc/a28728.html#a48d372bc1371fa5f94db9aa39669942a", null ],
+    [ "Scale", "d1/ddc/a28728.html#aefacaaf0be0745c95ffc53f410da6e8d", null ]
 ];

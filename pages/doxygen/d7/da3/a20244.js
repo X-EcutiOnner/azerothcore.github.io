@@ -1,5 +1,6 @@
 var a20244 =
 [
-    [ "achievement_i_could_say_that_this_cache_was_rare", "d7/da3/a20244.html#a8ec1949d92f21fe57f967e510453da3e", null ],
-    [ "OnCheck", "d7/da3/a20244.html#af68ad314c9b7be57964ca9baa8015bc9", null ]
+    [ "HandleAfterEffectApply", "d7/da3/a20244.html#ac8b5cddcf66c1f43c4ab0461354e97f1", null ],
+    [ "PrepareAuraScript", "d7/da3/a20244.html#a439799df0d6ca43e6a81930e3e4b5334", null ],
+    [ "Register", "d7/da3/a20244.html#adce13201dd11c6ba83883b12ad32d1f6", null ]
 ];

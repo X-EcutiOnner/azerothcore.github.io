@@ -1,6 +1,7 @@
 var a13600 =
 [
-    [ "npc_lord_gregor_lescovarAI", "d1/dc0/a13604.html", "d1/dc0/a13604" ],
-    [ "npc_lord_gregor_lescovar", "d3/d21/a13600.html#a6164425b7bb6bc8aa95a6665b7d1c55c", null ],
-    [ "GetAI", "d3/d21/a13600.html#a4cf39729bb687c7db3538575a799283e", null ]
+    [ "npc_deathstalker_erlandAI", "d3/d21/a13600.html#aa3c6822db09bc40dc87d556f6b3cc880", null ],
+    [ "JustEngagedWith", "d3/d21/a13600.html#ae4789c26cbb00b4ac04d646617a48a40", null ],
+    [ "Reset", "d3/d21/a13600.html#a3def0a0dd57ed732242a09d6390ab1f0", null ],
+    [ "WaypointReached", "d3/d21/a13600.html#af200e269d3f4b51bb5cfd08e9bf7ecc5", null ]
 ];

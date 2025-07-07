@@ -1,8 +1,9 @@
 var a25916 =
 [
-    [ "CheckProc", "d4/d5f/a25916.html#a4f8e030154606e0781ebb89294019e0e", null ],
-    [ "HandleProc", "d4/d5f/a25916.html#a3d3db432fb051785f51ece4052ec8907", null ],
-    [ "PrepareAuraScript", "d4/d5f/a25916.html#aed40577ca9a1de3efc501606bcc9a8dd", null ],
-    [ "Register", "d4/d5f/a25916.html#a8cfdc8d98946fca603971ad91035e21c", null ],
-    [ "Validate", "d4/d5f/a25916.html#abfd3c0ad08ad287b38e8da437c18376c", null ]
+    [ "HandleAfterCast", "d4/d5f/a25916.html#afd2fbc51ac1e99789994021af36688f3", null ],
+    [ "HandleTriggerSpell", "d4/d5f/a25916.html#ae140ab00101f081454b55e12a7c54440", null ],
+    [ "Load", "d4/d5f/a25916.html#a3dbb3541f0ec3f614d1f18fd92f9bc03", null ],
+    [ "PrepareSpellScript", "d4/d5f/a25916.html#a7fd1a83dd49cee4f52913a40caf3ef88", null ],
+    [ "Register", "d4/d5f/a25916.html#a3e9d0ff0bd71ea6d87fb9a7edcfa9a1c", null ],
+    [ "_triggerSpellId", "d4/d5f/a25916.html#a9a3efd5cf45d15cf8112a82d33dca731", null ]
 ];

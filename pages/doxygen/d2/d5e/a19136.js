@@ -1,6 +1,6 @@
 var a19136 =
 [
-    [ "npc_teslaAI", "d9/da4/a19140.html", "d9/da4/a19140" ],
-    [ "npc_tesla", "d2/d5e/a19136.html#ae74ad52adbf4a160ef0c7cf97e4faea0", null ],
-    [ "GetAI", "d2/d5e/a19136.html#a00d0e2ee0a8c20ed64dd2012f244a760", null ]
+    [ "boss_thaddius_summonAI", "d9/da4/a19140.html", "d9/da4/a19140" ],
+    [ "boss_thaddius_summon", "d2/d5e/a19136.html#a0fd6c83b5ff6d62b1649f9a13de05c73", null ],
+    [ "GetAI", "d2/d5e/a19136.html#aaab5973012f9ac55e8b29cc90f5ec98e", null ]
 ];

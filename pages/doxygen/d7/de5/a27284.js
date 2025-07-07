@@ -1,6 +1,5 @@
 var a27284 =
 [
-    [ "go_soulwellAI", "df/da0/a27288.html", "df/da0/a27288" ],
-    [ "go_soulwell", "d7/de5/a27284.html#a3747499bd05326ef6f7024c0ee91a4ce", null ],
-    [ "GetAI", "d7/de5/a27284.html#a0c8b8cf09c26ad08c1c6dbb1a0c57861", null ]
+    [ "go_scourge_cage", "d7/de5/a27284.html#a76dfa458a52c950fbc0a86412e1ad490", null ],
+    [ "OnGossipHello", "d7/de5/a27284.html#ab4e97cd290342d623d212cc7cec227d5", null ]
 ];

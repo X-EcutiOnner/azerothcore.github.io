@@ -1,6 +1,6 @@
 var a22108 =
 [
-    [ "PrepareSpellScript", "d2/d99/a22108.html#aa26d34552b04dca1db32390e769ff4dc", null ],
-    [ "RecalculateDamage", "d2/d99/a22108.html#a1b3458fc865d320050fae1ffeb4c7b5d", null ],
-    [ "Register", "d2/d99/a22108.html#a58d28dea272b1237cf60efb45d67765d", null ]
+    [ "npc_blessed_bannerAI", "d8/d46/a22112.html", "d8/d46/a22112" ],
+    [ "npc_blessed_banner", "d2/d99/a22108.html#a779a0c653088b2d206226e146a19101f", null ],
+    [ "GetAI", "d2/d99/a22108.html#a43dabbf2f2d54ae201cde37df792a41d", null ]
 ];

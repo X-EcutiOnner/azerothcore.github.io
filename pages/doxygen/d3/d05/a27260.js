@@ -1,6 +1,5 @@
 var a27260 =
 [
-    [ "go_fel_crystalforge", "d3/d05/a27260.html#aa44708a617edd51651da49918ab776e5", null ],
-    [ "OnGossipHello", "d3/d05/a27260.html#aae9f4beff251efb7b29e1988ddd51eaf", null ],
-    [ "OnGossipSelect", "d3/d05/a27260.html#a97450cce5f547e28ea84fa6a6f8ab79e", null ]
+    [ "go_sacred_fire_of_life", "d3/d05/a27260.html#a7f14c8397803f8b21e492ec52c6d81e8", null ],
+    [ "OnGossipHello", "d3/d05/a27260.html#aaa078fffe5570fa532d27d1c4ea831a7", null ]
 ];

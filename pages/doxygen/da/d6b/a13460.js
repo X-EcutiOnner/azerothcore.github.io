@@ -1,5 +1,6 @@
 var a13460 =
 [
-    [ "npc_maredis_firestarAI", "dc/dd7/a13464.html", "dc/dd7/a13464" ],
-    [ "npc_maredis_firestar", "da/d6b/a13460.html#a91015d70203597db3dda10b695565740", null ]
+    [ "HandleSendEvent", "da/d6b/a13460.html#a1be975f4440b823c34cc3e790fcff608", null ],
+    [ "PrepareSpellScript", "da/d6b/a13460.html#a91ac4a392fcf5b6e833fb3f5103d8e06", null ],
+    [ "Register", "da/d6b/a13460.html#a217fb7cb47b08999d49ec04b345b77fe", null ]
 ];

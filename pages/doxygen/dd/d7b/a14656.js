@@ -1,12 +1,10 @@
 var a14656 =
 [
-    [ "boss_epochAI", "dd/d7b/a14656.html#a2986db39b7db92b1fa9d64cef5f8c08b", null ],
-    [ "JustDied", "dd/d7b/a14656.html#a780aa5bc86c80aaeeffad441b2873121", null ],
-    [ "JustEngagedWith", "dd/d7b/a14656.html#ae742dceac5979faebb58a133e9bd91f0", null ],
-    [ "KilledUnit", "dd/d7b/a14656.html#af41946feab7b86d812f706bd7abbf1bd", null ],
-    [ "Reset", "dd/d7b/a14656.html#a98cf5d8aded78694117af64ccdb6cd83", null ],
-    [ "SpellHitTarget", "dd/d7b/a14656.html#ab87dfcf635a65b02be29186d2990fef3", null ],
-    [ "UpdateAI", "dd/d7b/a14656.html#a651b11c4cc5f92881b4dd5b7f22c9d85", null ],
-    [ "events", "dd/d7b/a14656.html#af0c1477b3d9fb48cfcf55f32e21591f4", null ],
-    [ "warps", "dd/d7b/a14656.html#a478113af1ce565c729604c6039f55551", null ]
+    [ "npc_hyjal_frost_wyrm", "dd/d7b/a14656.html#a7cdc8ef87d5ccb88777fa823e199b9ce", null ],
+    [ "AttackStart", "dd/d7b/a14656.html#abaaea3bcbb8806ed9d807742273eb06d", null ],
+    [ "DoAction", "dd/d7b/a14656.html#adab2b42c582cee234aea37d187b66138", null ],
+    [ "JustEngagedWith", "dd/d7b/a14656.html#a23dace13bb2811dea43b63f0b970a2ce", null ],
+    [ "PathEndReached", "dd/d7b/a14656.html#a2ec3137dad743e4766ca402282d913c7", null ],
+    [ "Reset", "dd/d7b/a14656.html#a550c20113f4ebe4015f9a8088888f99b", null ],
+    [ "UpdateAI", "dd/d7b/a14656.html#a182c3b440f74a4ebe6dee64651bf701f", null ]
 ];

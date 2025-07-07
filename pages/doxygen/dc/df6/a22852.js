@@ -1,6 +1,8 @@
 var a22852 =
 [
-    [ "boss_essence_of_sufferingAI", "dc/d8c/a22856.html", "dc/d8c/a22856" ],
-    [ "boss_essence_of_suffering", "dc/df6/a22852.html#a1237f428657f0e9a0218695264358384", null ],
-    [ "GetAI", "dc/df6/a22852.html#adb54519bdf220cb3e30c81627c1ba11a", null ]
+    [ "FilterTargets", "dc/df6/a22852.html#a0ee5b216f8e713a5c632d0f456fd2b72", null ],
+    [ "HandleDummy", "dc/df6/a22852.html#ab89ab441f022ee017548ba49d128b92e", null ],
+    [ "PrepareSpellScript", "dc/df6/a22852.html#aa8578390d7d9379328c02ceb209e94ed", null ],
+    [ "Register", "dc/df6/a22852.html#a486387d707b7ad66ecb443ab2bb60778", null ],
+    [ "Validate", "dc/df6/a22852.html#ad5d695978794d796eb7139fce1530d57", null ]
 ];

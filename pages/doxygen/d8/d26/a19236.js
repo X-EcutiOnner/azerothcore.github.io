@@ -1,5 +1,6 @@
 var a19236 =
 [
-    [ "go_the_focusing_iris", "d8/d26/a19236.html#a9c2fa1e739ff98ebdd9b9fdcc2ab5ece", null ],
-    [ "OnGossipHello", "d8/d26/a19236.html#a7f3f1170713d63f912ca5732453a7e33", null ]
+    [ "npc_alexstraszaAI", "d8/d38/a19240.html", "d8/d38/a19240" ],
+    [ "npc_alexstrasza", "d8/d26/a19236.html#aa28858e8368031c2882e7e3c1c5968dd", null ],
+    [ "GetAI", "d8/d26/a19236.html#ad155ccc4f7bca786229ee015d365e3ce", null ]
 ];

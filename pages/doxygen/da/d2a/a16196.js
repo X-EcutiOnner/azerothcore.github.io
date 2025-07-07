@@ -1,6 +1,6 @@
 var a16196 =
 [
-    [ "FilterTargets", "da/d2a/a16196.html#a79d34d7e517b27e44c6a91d6056dfec7", null ],
-    [ "PrepareSpellScript", "da/d2a/a16196.html#a5ede43deece629a38f5482280983b59a", null ],
-    [ "Register", "da/d2a/a16196.html#aec3d0ed996e9cbfed9fb78c5f16e254f", null ]
+    [ "npc_memoryAI", "da/df5/a16200.html", "da/df5/a16200" ],
+    [ "npc_memory", "da/d2a/a16196.html#acebf31813025d323f9486d6575a60483", null ],
+    [ "GetAI", "da/d2a/a16196.html#ad8e532d029217a06d11ae39810498976", null ]
 ];

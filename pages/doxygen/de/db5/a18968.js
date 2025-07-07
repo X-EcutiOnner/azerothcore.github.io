@@ -1,6 +1,6 @@
 var a18968 =
 [
-    [ "npc_gothik_triggerAI", "d6/d10/a18972.html", "d6/d10/a18972" ],
-    [ "npc_gothik_trigger", "de/db5/a18968.html#a6975122d49b0d76fb2b33b310a7ccb71", null ],
-    [ "GetAI", "de/db5/a18968.html#a9b3b47e95d2c41c109a9ccd3915b89ff", null ]
+    [ "boss_gothikAI", "d6/d10/a18972.html", "d6/d10/a18972" ],
+    [ "boss_gothik", "de/db5/a18968.html#a0c3ee990a1caf020e9a4be000f0b77e0", null ],
+    [ "GetAI", "de/db5/a18968.html#aea7aec86c4132521fb7b9b6e87baf289", null ]
 ];

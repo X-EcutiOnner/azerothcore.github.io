@@ -1,7 +1,7 @@
 var a18656 =
 [
-    [ "HandleQuestComplete", "de/d99/a18656.html#a5f1e6c4358df4e0910b2227f90b39d24", null ],
-    [ "HandleScript", "de/d99/a18656.html#a309052e9b7c3d3747d15ab5e9c0d25fd", null ],
-    [ "PrepareSpellScript", "de/d99/a18656.html#ac9b2786ba2dbb8d1c74af05153bb0a6f", null ],
-    [ "Register", "de/d99/a18656.html#a3258d4517cfc758080691bab429624d7", null ]
+    [ "OnApply", "de/d99/a18656.html#a5f62c11ef96edbf6f2906bd5f41109d5", null ],
+    [ "OnRemove", "de/d99/a18656.html#a697a7c76f944b5df956a9de07746b7a9", null ],
+    [ "PrepareAuraScript", "de/d99/a18656.html#a338d0fa22368d01fe7523b7cc1acea4b", null ],
+    [ "Register", "de/d99/a18656.html#ab915b3ede10526b3e7ccbe33f2568fae", null ]
 ];

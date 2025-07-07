@@ -1,8 +1,6 @@
 var a12964 =
 [
-    [ "DelayedSummonEvent", "df/d9a/a12964.html#a5cfa870b670fff17d2241ecb85b2ba6c", null ],
-    [ "Execute", "df/d9a/a12964.html#a65ba0f1a1dc14e07b7b93a71c92ace6b", null ],
-    [ "_entry", "df/d9a/a12964.html#a24d72110a070eb0bd03af081ef616de4", null ],
-    [ "_owner", "df/d9a/a12964.html#a2a21cc6387b3605ed4f09cad80a6168a", null ],
-    [ "_pos", "df/d9a/a12964.html#aef19987803a1cce47cbd8d9005a288ac", null ]
+    [ "npc_gothik_the_harvesterAI", "db/d91/a12968.html", "db/d91/a12968" ],
+    [ "npc_gothik_the_harvester", "df/d9a/a12964.html#a44a8a900e195308802e76c5b550b577a", null ],
+    [ "GetAI", "df/d9a/a12964.html#a97d99101d8c6eca7cf59e9920725efbc", null ]
 ];

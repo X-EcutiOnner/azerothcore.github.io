@@ -1,6 +1,6 @@
 var a19660 =
 [
-    [ "npc_algalon_worm_holeAI", "dc/de0/a19664.html", "dc/de0/a19664" ],
-    [ "npc_algalon_worm_hole", "d2/dc1/a19660.html#a72516a4824fa61a331caff46d2784c64", null ],
-    [ "GetAI", "d2/dc1/a19660.html#aac6ff3a41f08f5a11baa78c0526a3556", null ]
+    [ "npc_collapsing_starAI", "dc/de0/a19664.html", "dc/de0/a19664" ],
+    [ "npc_collapsing_star", "d2/dc1/a19660.html#a8d57987c9b4622746d4f42a2b4845b9e", null ],
+    [ "GetAI", "d2/dc1/a19660.html#a346af96d122e64c68defdeccb9183cd4", null ]
 ];

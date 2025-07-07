@@ -1,9 +1,9 @@
 var a03425 =
 [
-    [ "boss_ichoron", "db/d4d/a21284.html", "db/d4d/a21284" ],
-    [ "boss_ichoron::boss_ichoronAI", "d9/da9/a21288.html", "d9/da9/a21288" ],
-    [ "npc_ichor_globule", "d0/d64/a21292.html", "d0/d64/a21292" ],
-    [ "npc_ichor_globule::npc_ichor_globuleAI", "db/d26/a21296.html", "db/d26/a21296" ],
+    [ "boss_ichoron", "df/dec/a21300.html", "df/dec/a21300" ],
+    [ "boss_ichoron::boss_ichoronAI", "db/d5c/a21304.html", "db/d5c/a21304" ],
+    [ "npc_ichor_globule", "d2/dc1/a21308.html", "d2/dc1/a21308" ],
+    [ "npc_ichor_globule::npc_ichor_globuleAI", "d4/dce/a21312.html", "d4/dce/a21312" ],
     [ "ACTION_WATER_ELEMENT_HIT", "dd/dfe/a03425.html#a604a96878790aff47651e4539253d716", null ],
     [ "ACTION_WATER_ELEMENT_KILLED", "dd/dfe/a03425.html#a0819f535f9b98d41695eeb883e6d94a4", null ],
     [ "MAX_SPAWN_LOC", "dd/dfe/a03425.html#a986d752f01bfa1c34b10e82145538920", null ],

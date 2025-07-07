@@ -1,6 +1,6 @@
 var a15172 =
 [
-    [ "aqsentinelAI", "d8/d47/a15176.html", "d8/d47/a15176" ],
-    [ "npc_anubisath_sentinel", "db/dbf/a15172.html#ada1ab0d1857fe52020e798d9710a66cb", null ],
-    [ "GetAI", "db/dbf/a15172.html#ae19b8ba3766ede8f715dad5ff8d4b2d2", null ]
+    [ "HandleOnHit", "db/dbf/a15172.html#abf5a21f1c88241024e6d3b3c5bffe449", null ],
+    [ "PrepareSpellScript", "db/dbf/a15172.html#aa78fc03dacb373c5108e6a5d92e035c6", null ],
+    [ "Register", "db/dbf/a15172.html#a1e608d67914c0071a913d96d70c625d6", null ]
 ];

@@ -1,5 +1,6 @@
 var a23944 =
 [
-    [ "go_simon_cluster", "de/db9/a23944.html#adac53a8451abd6ace227a66afc7e61e8", null ],
-    [ "OnGossipHello", "de/db9/a23944.html#a9fd9799604de44c91803511c45b67786", null ]
+    [ "npc_daranelleAI", "da/d8c/a23948.html", "da/d8c/a23948" ],
+    [ "npc_daranelle", "de/db9/a23944.html#a0a6e26b95d6d97821bc9e0c00b205704", null ],
+    [ "GetAI", "de/db9/a23944.html#ad2ba5e4dfded886acaf2f9821e15738d", null ]
 ];

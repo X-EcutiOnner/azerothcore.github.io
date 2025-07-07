@@ -1,5 +1,5 @@
 var a19160 =
 [
-    [ "npc_living_poison", "da/d78/a19160.html#a277440068846eac71c795880a16475dd", null ],
-    [ "UpdateAI", "da/d78/a19160.html#a2a6af8a9ef14e65ba9e44f2228b09ba5", null ]
+    [ "at_thaddius_entrance", "da/d78/a19160.html#ad81a60cac337baad82ea526de1d151d1", null ],
+    [ "OnTrigger", "da/d78/a19160.html#af8635a58d4da0421b72b4451c1ebafc5", null ]
 ];

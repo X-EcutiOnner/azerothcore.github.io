@@ -1,6 +1,5 @@
 var a15316 =
 [
-    [ "npc_murkdeepAI", "de/d0a/a15320.html", "de/d0a/a15320" ],
-    [ "npc_murkdeep", "d3/d42/a15316.html#a72d44d786bcba4dea5ccedd33e7dbd3c", null ],
-    [ "GetAI", "d3/d42/a15316.html#ab9f8faa3adaf1f251e1248fbe0f46468", null ]
+    [ "go_bristlelimb_cage", "d3/d42/a15316.html#ab965b9c529577a5e58639285fa35d3d7", null ],
+    [ "OnGossipHello", "d3/d42/a15316.html#a6f29e07550767c1c0610f46e4921503f", null ]
 ];

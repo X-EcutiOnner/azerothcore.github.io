@@ -1,12 +1,11 @@
 var a21312 =
 [
-    [ "boss_moraggAI", "d4/dce/a21312.html#a3ae881c9adca20a2cb894af85297d53e", null ],
-    [ "EnterEvadeMode", "d4/dce/a21312.html#a4e70e42407f452c4685c732949fd2b52", null ],
-    [ "JustDied", "d4/dce/a21312.html#a97516e6ad5f7f35d0329674130e76dd3", null ],
-    [ "JustEngagedWith", "d4/dce/a21312.html#ab1d4d863a537a3c567eeda6f95f385ca", null ],
-    [ "MoveInLineOfSight", "d4/dce/a21312.html#a52a99d72dfa017baacb76717e6db931b", null ],
-    [ "Reset", "d4/dce/a21312.html#a8b7419c94e36b4b2292cf110a2eccb01", null ],
-    [ "UpdateAI", "d4/dce/a21312.html#aec7645eaae190d1e7982aae181ff9224", null ],
-    [ "events", "d4/dce/a21312.html#acd021e4216e3920f0534da95d69ba5eb", null ],
-    [ "pInstance", "d4/dce/a21312.html#a9f179ea9b180095a1e6df11b4842c5e5", null ]
+    [ "npc_ichor_globuleAI", "d4/dce/a21312.html#a4d581f89c8385276fd407c000af9e569", null ],
+    [ "AttackStart", "d4/dce/a21312.html#aa4e1fc88a26d6ef41f1ca96c93abbc1a", null ],
+    [ "JustDied", "d4/dce/a21312.html#ad29c7659590933b0749e8e1c2c2e4c46", null ],
+    [ "MoveInLineOfSight", "d4/dce/a21312.html#af8ef8296512d57d934a171f1a5060e73", null ],
+    [ "SpellHit", "d4/dce/a21312.html#a1396538a446545408e3c304f3e56400f", null ],
+    [ "UpdateAI", "d4/dce/a21312.html#a6ff13c853583e5178fb3a690e17303de", null ],
+    [ "pInstance", "d4/dce/a21312.html#a94cbe93a69a28171fc3d91d71b6ec419", null ],
+    [ "uiRangeCheck_Timer", "d4/dce/a21312.html#a99914a55d2dc0b36a623dc7d6248e953", null ]
 ];

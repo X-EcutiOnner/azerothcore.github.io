@@ -1,6 +1,6 @@
 var a14100 =
 [
-    [ "npc_brewfest_keg_thrower", "d6/d4d/a14100.html#a29da1efd21fe6737684607e5b360ea84", null ],
-    [ "CanBeSeen", "d6/d4d/a14100.html#a36212d0f17c0070d3ef3cc25577ff7b9", null ],
-    [ "MoveInLineOfSight", "d6/d4d/a14100.html#a3938b0e63553e79302ba966c6cdcf9be", null ]
+    [ "instance_zulgurub_InstanceMapScript", "da/d31/a14104.html", "da/d31/a14104" ],
+    [ "instance_zulgurub", "d6/d4d/a14100.html#aedc8c70e880ed9ccaf58b7154f9ba341", null ],
+    [ "GetInstanceScript", "d6/d4d/a14100.html#a51f17d1135c7e97ff082d0d95ec3ffa4", null ]
 ];

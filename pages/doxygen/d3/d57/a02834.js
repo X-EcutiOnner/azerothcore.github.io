@@ -1,7 +1,7 @@
 var a02834 =
 [
-    [ "boss_twilight_corrupter", "d3/d2b/a13468.html", "d3/d2b/a13468" ],
-    [ "at_twilight_grove", "d6/d9b/a13472.html", "d6/d9b/a13472" ],
+    [ "boss_twilight_corrupter", "d8/d3c/a13484.html", "d8/d3c/a13484" ],
+    [ "at_twilight_grove", "d9/dd0/a13488.html", "d9/dd0/a13488" ],
     [ "Misc", "d3/d57/a02834.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
       [ "DATA_SKILLPOINT_MIN", "d1/d2e/a02537.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a3093ddfcacf2742f4fb344843e2e7ce6", null ],
       [ "NEFARIUS_PATH_2", "d2/ddf/a02573.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a09833188939fe77088ed4fb2cfedb875", null ],

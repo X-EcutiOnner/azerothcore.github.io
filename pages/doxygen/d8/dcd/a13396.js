@@ -1,6 +1,7 @@
 var a13396 =
 [
-    [ "instance_sunwell_plateau_InstanceMapScript", "d8/dcd/a13396.html#aae99b35ff990fd7486d5b70693b6729a", null ],
-    [ "Load", "d8/dcd/a13396.html#a5398f0aa153f7c4eaea390e33c400b02", null ],
-    [ "OnPlayerEnter", "d8/dcd/a13396.html#ab45827eaa92aea4746378b3c11fda219", null ]
+    [ "HandlePull", "d8/dcd/a13396.html#a5a43bb53d3c534054498f8366d617e5a", null ],
+    [ "PrepareSpellScript", "d8/dcd/a13396.html#aec00f82a35c8154e7d4c1f47c52d486f", null ],
+    [ "RaycastToObstacle", "d8/dcd/a13396.html#ad6dfdf70e9ffd43510c4791f804ce340", null ],
+    [ "Register", "d8/dcd/a13396.html#a6da76afd5feaa0d60be70ff8469d78bc", null ]
 ];

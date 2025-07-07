@@ -1,7 +1,7 @@
 var a13400 =
 [
-    [ "HandleAfterCast", "d2/d94/a13400.html#a251ddadd9d26039da542c402e4ee254f", null ],
-    [ "PrepareSpellScript", "d2/d94/a13400.html#a91114aeb4f917ec5138a0c7b20688174", null ],
-    [ "Register", "d2/d94/a13400.html#a42960206e2444d8e6fb8fdc4d80a534b", null ],
-    [ "Validate", "d2/d94/a13400.html#ad4012436a41537fc5ae854c0c48f09b1", null ]
+    [ "PeriodicTick", "d2/d94/a13400.html#acca46d585d06d461f735cddb6075b3b1", null ],
+    [ "PrepareAuraScript", "d2/d94/a13400.html#abd7382ab22efd3d82c4f00745255d024", null ],
+    [ "Register", "d2/d94/a13400.html#a7020dbe7c61f877d0ecd0d7542f6f270", null ],
+    [ "Validate", "d2/d94/a13400.html#acb31ba162452a30ff0c208829560f9fd", null ]
 ];

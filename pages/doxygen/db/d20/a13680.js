@@ -1,7 +1,6 @@
 var a13680 =
 [
-    [ "HandleScript", "db/d20/a13680.html#acd4373ab762d00d262984c36190d6f93", null ],
-    [ "PrepareSpellScript", "db/d20/a13680.html#a113216b272d0386f248a75bfcf30c6a3", null ],
-    [ "Register", "db/d20/a13680.html#abbf65c0cabb06141a5856210f5ce5ab8", null ],
-    [ "Validate", "db/d20/a13680.html#a5746fd6257dd10be58a61e0e8a2403be", null ]
+    [ "npc_jaina_proudmoore_bfuAI", "db/de3/a13684.html", "db/de3/a13684" ],
+    [ "npc_jaina_proudmoore_bfu", "db/d20/a13680.html#af96c4fac318f44cf6e70817b6960999f", null ],
+    [ "GetAI", "db/d20/a13680.html#a4ed6349a5ebdd90053f9d67d24ab6991", null ]
 ];

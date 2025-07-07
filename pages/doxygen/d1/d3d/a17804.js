@@ -1,5 +1,6 @@
 var a17804 =
 [
-    [ "npc_volatile_oozeAI", "d1/d3d/a17804.html#af042d4c22482aabcdad6fa867dfe093f", null ],
-    [ "CastMainSpell", "d1/d3d/a17804.html#a91890785174ecc60c9553a0aedf1961b", null ]
+    [ "boss_professor_putricideAI", "d4/d7c/a17808.html", "d4/d7c/a17808" ],
+    [ "boss_professor_putricide", "d1/d3d/a17804.html#a80776dad5c0205aa6a98752f43e85e32", null ],
+    [ "GetAI", "d1/d3d/a17804.html#a7c84089d24bb0c77a5203884254e0925", null ]
 ];

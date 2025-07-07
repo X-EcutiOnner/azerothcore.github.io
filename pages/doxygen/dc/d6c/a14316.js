@@ -1,8 +1,6 @@
 var a14316 =
 [
-    [ "HandleDummy", "dc/d6c/a14316.html#a47b5a6741f2782359449dcaebd40fe1c", null ],
-    [ "Load", "dc/d6c/a14316.html#a7877187ad7afb2dfbd28fb7c74d40478", null ],
-    [ "PrepareSpellScript", "dc/d6c/a14316.html#af1d1ad32d41d79008d650b388353346b", null ],
-    [ "Register", "dc/d6c/a14316.html#a53a7c4c025324b205a29f92dd48aefde", null ],
-    [ "handled", "dc/d6c/a14316.html#acf3a9296a36f131f852afbf60beb7ea4", null ]
+    [ "HandleScript", "dc/d6c/a14316.html#a465272dc4e693ab5ce5abd5a3905283b", null ],
+    [ "PrepareSpellScript", "dc/d6c/a14316.html#a26b296c1c4d9f5193dc3773509267284", null ],
+    [ "Register", "dc/d6c/a14316.html#aad66e4079ea9404b9057546d8959a395", null ]
 ];

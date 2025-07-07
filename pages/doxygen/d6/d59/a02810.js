@@ -1,10 +1,10 @@
 var a02810 =
 [
-    [ "npc_eris_hevenfire", "d0/d9d/a13476.html", "d0/d9d/a13476" ],
-    [ "npc_eris_hevenfire::npc_eris_hevenfireAI", "da/dc7/a13480.html", "da/dc7/a13480" ],
-    [ "npc_balance_of_light_and_shadow", "d8/d3c/a13484.html", "d8/d3c/a13484" ],
-    [ "npc_balance_of_light_and_shadow::npc_balance_of_light_and_shadowAI", "d9/dd0/a13488.html", "d9/dd0/a13488" ],
-    [ "npc_augustus_the_touched", "d4/d37/a13492.html", "d4/d37/a13492" ],
+    [ "npc_eris_hevenfire", "d4/d37/a13492.html", "d4/d37/a13492" ],
+    [ "npc_eris_hevenfire::npc_eris_hevenfireAI", "dd/d19/a13496.html", "dd/d19/a13496" ],
+    [ "npc_balance_of_light_and_shadow", "df/d23/a13500.html", "df/d23/a13500" ],
+    [ "npc_balance_of_light_and_shadow::npc_balance_of_light_and_shadowAI", "dd/d40/a13504.html", "dd/d40/a13504" ],
+    [ "npc_augustus_the_touched", "db/de7/a13508.html", "db/de7/a13508" ],
     [ "eEris", "d6/d59/a02810.html#a0846b7169aa45fd1ef72775a5f6e36fe", [
       [ "QUEST_BALANCE_OF_LIGHT_AND_SHADOW", "d6/d59/a02810.html#a0846b7169aa45fd1ef72775a5f6e36fea893fed7c9aba464b46eda93ba0ff910e", null ],
       [ "ITEM_EYE_OF_DIVINITY", "d6/d59/a02810.html#a0846b7169aa45fd1ef72775a5f6e36feaa330f1e90d7e18c5cec4f6ac9eccbf9b", null ],

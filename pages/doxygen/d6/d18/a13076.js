@@ -1,8 +1,7 @@
 var a13076 =
 [
-    [ "npc_apothecary_baxter", "d6/d18/a13076.html#a4a41816ff4f857a15a4665b8da1aec99", null ],
-    [ "JustDied", "d6/d18/a13076.html#a9bf2362ba1b1e3a290ca12f1ceb54ab9", null ],
-    [ "Reset", "d6/d18/a13076.html#afee5103029bd761c48cbf6a11655c44a", null ],
-    [ "UpdateAI", "d6/d18/a13076.html#ad06090f599d0fda3a88f3182c990a49f", null ],
-    [ "_scheduler", "d6/d18/a13076.html#a6d813041e055f3c2b28be7cba3acde13", null ]
+    [ "boss_apothecary_hummelAI", "d1/d2a/a13080.html", "d1/d2a/a13080" ],
+    [ "boss_apothecary_hummel", "d6/d18/a13076.html#af1672c0b7f67d9013e3769a7009c2ee9", null ],
+    [ "GetAI", "d6/d18/a13076.html#a87a01f4d6eaac7c5e1795133e8aa1ccd", null ],
+    [ "OnQuestReward", "d6/d18/a13076.html#a86d23ff3569e5e86b8787bb3ea7816c7", null ]
 ];

@@ -1,10 +1,7 @@
 var a18192 =
 [
-    [ "npc_shambling_horror_iccAI", "d4/d90/a18192.html#a0d15c62bead7a4da3c8a8abd0b2ee612", null ],
-    [ "CanAIAttack", "d4/d90/a18192.html#a6d77fdd16c4b089049ade7f7b081b4e9", null ],
-    [ "DamageTaken", "d4/d90/a18192.html#aed90f2c487c28190c7af630f4ea2fa13", null ],
-    [ "Reset", "d4/d90/a18192.html#ac5bab3d9f360e4e00dcab9abc3799865", null ],
-    [ "UpdateAI", "d4/d90/a18192.html#abae6058591022057e93d48da3db1b8bc", null ],
-    [ "_events", "d4/d90/a18192.html#af12b65fe4f77e8b2d3f5c87379dd69d2", null ],
-    [ "_frenzied", "d4/d90/a18192.html#a34347cbecea4c6f538345b7285e8f1c0", null ]
+    [ "HandleScript", "d4/d90/a18192.html#aef02c7f9ee2a5dda9f6b18d8aa386759", null ],
+    [ "PrepareSpellScript", "d4/d90/a18192.html#acbfd8657da20f2e91a9ef43cab7c4113", null ],
+    [ "Register", "d4/d90/a18192.html#ad83d563da98ad189f2198a061b1cd50f", null ],
+    [ "Validate", "d4/d90/a18192.html#a8f371bdbc57624c295efb14e2ca067c5", null ]
 ];

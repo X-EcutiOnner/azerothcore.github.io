@@ -1,6 +1,6 @@
 var a20192 =
 [
-    [ "DestroyWinterCache", "d0/d80/a20192.html#a4f4d8998d611354bce4f5531e6029d6b", null ],
-    [ "PrepareSpellScript", "d0/d80/a20192.html#a67e36939554e13ddb7fb7493968fbc3f", null ],
-    [ "Register", "d0/d80/a20192.html#a5ac6314b0a016adafd7c6e87289b5649", null ]
+    [ "npc_ulduar_hodir_shamanAI", "d2/d3f/a20196.html", "d2/d3f/a20196" ],
+    [ "npc_ulduar_hodir_shaman", "d0/d80/a20192.html#ae73a416c72441ab531d8a5db88183d47", null ],
+    [ "GetAI", "d0/d80/a20192.html#ab06a67b72a3954c65792a478ac90672c", null ]
 ];

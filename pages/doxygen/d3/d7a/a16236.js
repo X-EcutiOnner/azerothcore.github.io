@@ -1,8 +1,8 @@
 var a16236 =
 [
-    [ "npc_toc5_player_vehicleAI", "d3/d7a/a16236.html#afa00a6254b482aae5397be04860ac8ba", null ],
-    [ "BeforeSpellClick", "d3/d7a/a16236.html#aac7db7f40b47a9c098c98bacb7569faf", null ],
-    [ "OnCharmed", "d3/d7a/a16236.html#ace805882a25a9d075d811714e607fa2b", null ],
-    [ "PassengerBoarded", "d3/d7a/a16236.html#aca35804df751185193ff5865255d3687", null ],
-    [ "Reset", "d3/d7a/a16236.html#a5439b98d544124836d2cf9762f764cea", null ]
+    [ "npc_black_knight_skeletal_gryphonAI", "d3/d7a/a16236.html#ada99dced1e560aebc908a0efb6c23d0a", null ],
+    [ "DoAction", "d3/d7a/a16236.html#af38e129cdf4af99e99c41b6a98448e56", null ],
+    [ "Reset", "d3/d7a/a16236.html#a5e20d5e17baaac92a560a5b2fe15fe7b", null ],
+    [ "UpdateAI", "d3/d7a/a16236.html#a851008790128831c5c10710b4cccb196", null ],
+    [ "WaypointReached", "d3/d7a/a16236.html#a74b5fb1d3631c404e7797085e45e6159", null ]
 ];

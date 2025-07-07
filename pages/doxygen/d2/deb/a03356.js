@@ -1,8 +1,8 @@
 var a03356 =
 [
-    [ "boss_garfrost", "d4/d05/a16936.html", "d4/d05/a16936" ],
-    [ "boss_garfrost::boss_garfrostAI", "d6/d61/a16940.html", "d6/d61/a16940" ],
-    [ "spell_garfrost_permafrost", "d6/dca/a16944.html", "d6/dca/a16944" ],
+    [ "boss_garfrost", "db/d58/a16952.html", "db/d58/a16952" ],
+    [ "boss_garfrost::boss_garfrostAI", "d9/d12/a16956.html", "d9/d12/a16956" ],
+    [ "spell_garfrost_permafrost", "d4/da9/a16960.html", "d4/da9/a16960" ],
     [ "SPELL_FORGE_BLADE", "d2/deb/a03356.html#a84b5dddbef44e6c43897360580f77274", null ],
     [ "SPELL_FORGE_MACE", "d2/deb/a03356.html#a0735e91daa90f83d0246443e66f380bc", null ],
     [ "SPELL_SARONITE_TRIGGERED", "d2/deb/a03356.html#a342d2ee10efa59edc49a364fb3c4300d", null ],

@@ -1,7 +1,5 @@
 var a21612 =
 [
-    [ "npc_warmage_violetstand", "d8/d5b/a21612.html#a1f67c9521cc3bd63886a8936b28e6622", null ],
-    [ "Reset", "d8/d5b/a21612.html#a99015610597f43f184cc686c9fab2fa9", null ],
-    [ "UpdateAI", "d8/d5b/a21612.html#aa0eac837ab697c3e0cd5ab753f0bd0b4", null ],
-    [ "targetGUID", "d8/d5b/a21612.html#a46560aa7aa90778967a79c931a81721b", null ]
+    [ "npc_leryssaAI", "d8/d5b/a21612.html#ad21a1e1572880ba8cbf6625e658989eb", null ],
+    [ "MovementInform", "d8/d5b/a21612.html#a36180f7351ab11a9942ec59ee24ae6ad", null ]
 ];

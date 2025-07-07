@@ -1,7 +1,7 @@
 var a03389 =
 [
-    [ "boss_falric", "d9/df6/a16776.html", "d9/df6/a16776" ],
-    [ "boss_falric::boss_falricAI", "d6/de7/a16780.html", "d6/de7/a16780" ],
+    [ "boss_falric", "dd/d04/a16792.html", "dd/d04/a16792" ],
+    [ "boss_falric::boss_falricAI", "df/da4/a16796.html", "df/da4/a16796" ],
     [ "Events", "d2/dce/a03389.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_CHARGE_TARGET", "d1/de5/a02822.html#af60e00b78607064c5be6aa9397ea49c1ae9b5b6a7dd72b493b6874d7408585a02", null ],
       [ "EVENT_CLEAVE", "d1/de5/a02822.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a", null ],

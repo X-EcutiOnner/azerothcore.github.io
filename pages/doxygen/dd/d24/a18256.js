@@ -1,6 +1,12 @@
 var a18256 =
 [
-    [ "npc_valkyr_shadowguardAI", "d9/d64/a18260.html", "d9/d64/a18260" ],
-    [ "npc_valkyr_shadowguard", "dd/d24/a18256.html#a8ee90e21499eebf240c57419454c3829", null ],
-    [ "GetAI", "dd/d24/a18256.html#ad84cb094a17e4fb88d3e883c98ce7f5a", null ]
+    [ "npc_raging_spiritAI", "dd/d24/a18256.html#a1c85351ae62d5f45381214373e64aec4", null ],
+    [ "AttackStart", "dd/d24/a18256.html#a16ab37be9e31dcfc159b5c78b196b847", null ],
+    [ "CanAIAttack", "dd/d24/a18256.html#a64fa46f05861d8736d881aa3687f4320", null ],
+    [ "IsSummonedBy", "dd/d24/a18256.html#a836d605f4320ba9fd49cb60d6a1e032d", null ],
+    [ "JustDied", "dd/d24/a18256.html#a821377a2c29b4180db00f2c4f4268fe7", null ],
+    [ "Reset", "dd/d24/a18256.html#a9dae9cb2c6f18d89d06cfa72b98d36f2", null ],
+    [ "UpdateAI", "dd/d24/a18256.html#a64beac4aafa9e9bb2089a7c1e35fe8a5", null ],
+    [ "_events", "dd/d24/a18256.html#af5783316983b622f20d8c677f2858111", null ],
+    [ "_instance", "dd/d24/a18256.html#aaa9b5728fcdb379849434385b3501251", null ]
 ];

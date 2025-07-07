@@ -1,6 +1,6 @@
 var a18620 =
 [
-    [ "npc_impaling_spearAI", "dc/daf/a18624.html", "dc/daf/a18624" ],
-    [ "npc_impaling_spear", "df/dda/a18620.html#af546ed9684fc085ad651bf5bd93e5bf7", null ],
-    [ "GetAI", "df/dda/a18620.html#aad49164a3e7541b755c1c622b996bb9a", null ]
+    [ "npc_captain_rupertAI", "dc/daf/a18624.html", "dc/daf/a18624" ],
+    [ "npc_captain_rupert", "df/dda/a18620.html#a7a4535a6b784b460c79722e9a50c3ff6", null ],
+    [ "GetAI", "df/dda/a18620.html#a20afc31fc1a8bb09692ab0cc47af3c1b", null ]
 ];

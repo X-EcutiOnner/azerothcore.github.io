@@ -1,7 +1,11 @@
 var a13324 =
 [
-    [ "HandleSchoolDamage", "d3/d06/a13324.html#a4fee3e37f347d1dcfa84c1dc0454c9fa", null ],
-    [ "PrepareSpellScript", "d3/d06/a13324.html#a8063f3d669e07dc0768607feb9a2f763", null ],
-    [ "Register", "d3/d06/a13324.html#a83aad24c7111d1f68196fcb9765dcd97", null ],
-    [ "Validate", "d3/d06/a13324.html#af90ae09274b0082bd8bd674ca43596f6", null ]
+    [ "npc_kalecgos_kj", "d3/d06/a13324.html#aae30bdf82ff333ef02a1981717c54ea4", null ],
+    [ "DoAction", "d3/d06/a13324.html#a6b2743b9b6bfb4d687e54412fe66c17f", null ],
+    [ "JustSummoned", "d3/d06/a13324.html#acf92559a2b06b8c9cce5c4887dd1316b", null ],
+    [ "Reset", "d3/d06/a13324.html#ab3cd4229999bddc16fe8152acb187111", null ],
+    [ "UpdateAI", "d3/d06/a13324.html#a8a029eb2cf7fd96ed324d93f4d66a30d", null ],
+    [ "events", "d3/d06/a13324.html#ab5cc58e293e20172558e15fa28670633", null ],
+    [ "instance", "d3/d06/a13324.html#a5a6f22c34578ccb7a5c1696d8ed342d6", null ],
+    [ "summons", "d3/d06/a13324.html#a57af12b97c6e250a50283b224bc5cb6f", null ]
 ];

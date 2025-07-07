@@ -1,14 +1,22 @@
 var a13836 =
 [
-    [ "npc_harrison_jones", "db/d55/a13836.html#ae408c9533166f8919c121053a3efff6c", null ],
-    [ "DoAction", "db/d55/a13836.html#a2ecf8a9f807e879530ee6a094475e67b", null ],
-    [ "JustEngagedWith", "db/d55/a13836.html#a884e5973ed597eeeb606f5b8a2b1c028", null ],
-    [ "MovementInform", "db/d55/a13836.html#a5ee27ccc1aea33ecc8aee5b703e05174", null ],
-    [ "OpenMassiveGateAndCallGuards", "db/d55/a13836.html#a8f15098ad66e2d13ddfababc2ad2e33b", null ],
-    [ "Reset", "db/d55/a13836.html#a11b1b2da283ddaa475f3f42534702f5b", null ],
-    [ "sGossipSelect", "db/d55/a13836.html#ae56b80041fa198063a9ce87729142420", null ],
-    [ "SpellHit", "db/d55/a13836.html#ad3ead59986b9340529bb6c6f42dbc137", null ],
-    [ "UpdateAI", "db/d55/a13836.html#a0c64f294257e98522e0f32171aee6080", null ],
-    [ "_instance", "db/d55/a13836.html#adb995a4b18607a5bd7555ce6989c2525", null ],
-    [ "_phase", "db/d55/a13836.html#a1620b4f7407aa49c3e16876148c49ba7", null ]
+    [ "instance_zulaman_InstanceMapScript", "db/d55/a13836.html#a55a0c486845dc63865cf557271304c20", null ],
+    [ "CheckInstanceStatus", "db/d55/a13836.html#a195e4175f943bfaf42ded378cde928e4", null ],
+    [ "DoAction", "db/d55/a13836.html#ad5eed417fb2a38a1b02bc6275e9f229a", null ],
+    [ "GetData", "db/d55/a13836.html#ad6c1123183e28dd91f78a993a79bf3e8", null ],
+    [ "Initialize", "db/d55/a13836.html#a070925eb76b8af866819844411da1beb", null ],
+    [ "OnCreatureCreate", "db/d55/a13836.html#a92d7ca86c2ecbad6a64a2bc7131b7260", null ],
+    [ "OnCreatureEvade", "db/d55/a13836.html#a654947f2b1dce457f56327e7dff8ccf4", null ],
+    [ "OnGameObjectCreate", "db/d55/a13836.html#a4545b6c8ff9e9908466ce105b484ef70", null ],
+    [ "OnPlayerEnter", "db/d55/a13836.html#a1cf2834e928692c69fdfcf7ae8910745", null ],
+    [ "OnUnitDeath", "db/d55/a13836.html#a5cb0702b7cad42f0760d360dfc3345f3", null ],
+    [ "ResetAkilzonGauntlet", "db/d55/a13836.html#a1623080f2466aeca03f048decc34bdb5", null ],
+    [ "SetBossState", "db/d55/a13836.html#a79b3f358115fecb63e1cfb45801fdffb", null ],
+    [ "SetData", "db/d55/a13836.html#a7381d84943028f66b339168724b467b8", null ],
+    [ "StartAkilzonGauntlet", "db/d55/a13836.html#a16b67dce6407db52ec7571c9bbc9f8c5", null ],
+    [ "SummonHostage", "db/d55/a13836.html#a907b3f4a59cbd366f702daeffe05d607", null ],
+    [ "Update", "db/d55/a13836.html#a826800c63083d2af31847118c8b05e57", null ],
+    [ "_akilzonGauntlet", "db/d55/a13836.html#a57cf874e315f0f9686b684151c37e740", null ],
+    [ "AkilzonTrash", "db/d55/a13836.html#a9f2fc91191dfaac5218f95fed71e2bcf", null ],
+    [ "RandVendor", "db/d55/a13836.html#ae1e7cad436566533b7673438884e6210", null ]
 ];

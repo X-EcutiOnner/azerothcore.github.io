@@ -1,6 +1,6 @@
 var a16592 =
 [
-    [ "npc_announcer_toc10", "da/d67/a16592.html#ae495b19328c6a743dfd8f1cbf37a0bd6", null ],
-    [ "OnGossipHello", "da/d67/a16592.html#afcc5262e7c49b7456af146de14805a06", null ],
-    [ "OnGossipSelect", "da/d67/a16592.html#a9a2bf1d3a215332744ca473041cc0520", null ]
+    [ "HandleEffectPeriodic", "da/d67/a16592.html#a8775f4e2cb6be96f57596413d560206c", null ],
+    [ "PrepareAuraScript", "da/d67/a16592.html#a45118f9887d248a5eb840b945dee5b79", null ],
+    [ "Register", "da/d67/a16592.html#ad1b2b8e1dca62c31ec2b071ae4ca2f35", null ]
 ];

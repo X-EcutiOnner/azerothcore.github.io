@@ -1,7 +1,7 @@
 var a14620 =
 [
-    [ "hyjalTyrandeAI", "d9/d22/a14624.html", "d9/d22/a14624" ],
-    [ "npc_hyjal_tyrande", "db/d22/a14620.html#abd2ba500d8e2bbf20c00905012d47d12", null ],
-    [ "GetAI", "db/d22/a14620.html#a2f863e616352a98763eef9a717d73388", null ],
-    [ "OnGossipSelect", "db/d22/a14620.html#a014a63098e18b08b6f5cd33a0cba2072", null ]
+    [ "hyjalJainaAI", "d9/d22/a14624.html", "d9/d22/a14624" ],
+    [ "npc_hyjal_jaina", "db/d22/a14620.html#a6616aa6c38818770610259312a392a3f", null ],
+    [ "GetAI", "db/d22/a14620.html#ab1891f5a2aacf5d9aeb9377bd92393ed", null ],
+    [ "OnGossipSelect", "db/d22/a14620.html#a47853fa317b1a9325fcbe555867139f6", null ]
 ];

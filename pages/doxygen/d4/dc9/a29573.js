@@ -1,8 +1,4 @@
 var a29573 =
 [
-    [ "DBCFile", "da/d4d/a28567.html", "da/d4d/a28567" ],
-    [ "DBCFile::Exception", "db/dcb/a28571.html", "db/dcb/a28571" ],
-    [ "DBCFile::NotFound", "d4/d8a/a28575.html", "d4/d8a/a28575" ],
-    [ "DBCFile::Record", "dd/dd3/a28579.html", "dd/dd3/a28579" ],
-    [ "DBCFile::Iterator", "d6/d18/a28583.html", "d6/d18/a28583" ]
+    [ "_CRT_SECURE_NO_DEPRECATE", "d4/dc9/a29573.html#a411c46599e926f8cdf49c63957255359", null ]
 ];

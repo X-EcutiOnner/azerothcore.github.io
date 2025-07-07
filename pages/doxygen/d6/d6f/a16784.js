@@ -1,6 +1,6 @@
 var a16784 =
 [
-    [ "boss_marwynAI", "df/d10/a16788.html", "df/d10/a16788" ],
-    [ "boss_marwyn", "d6/d6f/a16784.html#a4be337e1a6b4ab6d48aa1380f3956ad4", null ],
-    [ "GetAI", "d6/d6f/a16784.html#af1c83878d2121163994bc327ae8e04f7", null ]
+    [ "instance_forge_of_souls_InstanceScript", "df/d10/a16788.html", "df/d10/a16788" ],
+    [ "instance_forge_of_souls", "d6/d6f/a16784.html#a504896f6e191c87ce77231c4ef267b27", null ],
+    [ "GetInstanceScript", "d6/d6f/a16784.html#a64982b527cfa6057315b8e628549480b", null ]
 ];

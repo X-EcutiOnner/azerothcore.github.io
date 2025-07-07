@@ -1,6 +1,8 @@
 var a22028 =
 [
-    [ "npc_boneguard_footmanAI", "d6/d68/a22028.html#a04eff1976824724b321f0c0d95e0940a", null ],
-    [ "UpdateAI", "d6/d68/a22028.html#a9cba65867824daeb50cb2b39d68ad84b", null ],
-    [ "checkTimer", "d6/d68/a22028.html#a46dd1fa8d111dca0584a8e6fb7a6a566", null ]
+    [ "npc_llod_genericAI", "d6/d68/a22028.html#ac75d85ae4b59416952788102cd1db132", null ],
+    [ "Reset", "d6/d68/a22028.html#a15bd7442fef36a551cc8797f7919f57c", null ],
+    [ "UpdateAI", "d6/d68/a22028.html#aa7dce553fb699127f63281b2c47a2f02", null ],
+    [ "attackTimer", "d6/d68/a22028.html#a28a6e700d24995e477e7e7c4cc8b5d68", null ],
+    [ "summonTimer", "d6/d68/a22028.html#aeeeef545aee565c14d86d8587923c677", null ]
 ];

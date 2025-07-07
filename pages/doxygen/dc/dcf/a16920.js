@@ -1,5 +1,6 @@
 var a16920 =
 [
-    [ "at_hor_battered_hilt_throw", "dc/dcf/a16920.html#a857812bd67ee2e62c5e450fae591cd9d", null ],
-    [ "OnTrigger", "dc/dcf/a16920.html#a30c72b4dc7e48fc87374cbfc2cdf0f50", null ]
+    [ "npc_hor_lumbering_abominationAI", "d2/d97/a16924.html", "d2/d97/a16924" ],
+    [ "npc_hor_lumbering_abomination", "dc/dcf/a16920.html#a0d394d1ba52a05a6db0ae983daea7123", null ],
+    [ "GetAI", "dc/dcf/a16920.html#a0601ac0af85e545617013846c48de29a", null ]
 ];

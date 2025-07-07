@@ -1,6 +1,6 @@
 var a19036 =
 [
-    [ "boss_loathebAI", "df/d5b/a19040.html", "df/d5b/a19040" ],
-    [ "boss_loatheb", "d5/d16/a19036.html#a93bf8055a9ed900c880ef8b81b87bafd", null ],
-    [ "GetAI", "d5/d16/a19036.html#aca9b3a2515777f81b354c01a9727276e", null ]
+    [ "boss_kelthuzad_minionAI", "df/d5b/a19040.html", "df/d5b/a19040" ],
+    [ "boss_kelthuzad_minion", "d5/d16/a19036.html#a4c6d430035c964b4063139c0cda6bfff", null ],
+    [ "GetAI", "d5/d16/a19036.html#ab951068fedced148653ebf9124ba5e3d", null ]
 ];

@@ -1,7 +1,6 @@
 var a20712 =
 [
-    [ "FilterTargets", "dd/d13/a20712.html#a582691eca81b6db6d78ca925ad8fb084", null ],
-    [ "PrepareSpellScript", "dd/d13/a20712.html#a28ce9d2750c79b2b0061b00df5ae9e8b", null ],
-    [ "RecalculateDamage", "dd/d13/a20712.html#a02c1af0414de344056b2375488f23c01", null ],
-    [ "Register", "dd/d13/a20712.html#a1e030067944878000b731edf456d6bc8", null ]
+    [ "npc_xt002_boombotAI", "d9/d83/a20716.html", "d9/d83/a20716" ],
+    [ "npc_xt002_boombot", "dd/d13/a20712.html#a6e2f7dd0d26d140a5b73b0f66ea434af", null ],
+    [ "GetAI", "dd/d13/a20712.html#a27237e7a60042ed7163b19d80537c1b3", null ]
 ];

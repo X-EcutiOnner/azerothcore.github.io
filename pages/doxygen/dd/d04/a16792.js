@@ -1,7 +1,6 @@
 var a16792 =
 [
-    [ "OnRemove", "dd/d04/a16792.html#a4b95717cb19116b81f3eec798089abad", null ],
-    [ "PrepareAuraScript", "dd/d04/a16792.html#a581645fa151531aaf7b562a8739d5616", null ],
-    [ "Register", "dd/d04/a16792.html#a01304c556d79001e290707551bee7622", null ],
-    [ "Validate", "dd/d04/a16792.html#a96e4b9cae1f016bf87c9a09ceb6da561", null ]
+    [ "boss_falricAI", "df/da4/a16796.html", "df/da4/a16796" ],
+    [ "boss_falric", "dd/d04/a16792.html#aa64253f502f79db5947c09788fb66deb", null ],
+    [ "GetAI", "dd/d04/a16792.html#a95249877208d19bb54edd8de18616158", null ]
 ];

@@ -1,6 +1,6 @@
 var a20732 =
 [
-    [ "OnRemove", "d6/dac/a20732.html#a492bd9e9c82937e00897e19362b40901", null ],
-    [ "PrepareAuraScript", "d6/dac/a20732.html#a1ae24bb18b5570ebe9b4b0698d3cc2f2", null ],
-    [ "Register", "d6/dac/a20732.html#adfcaf82ff48225ea0e0314d421795644", null ]
+    [ "PrepareSpellScript", "d6/dac/a20732.html#a525025d429743f9d606289ca1a660796", null ],
+    [ "Register", "d6/dac/a20732.html#a66f565c07d495f27aaba393fdcce9d24", null ],
+    [ "SelectTarget", "d6/dac/a20732.html#a1c55fabe15cdccb073e109e1d0f6e6ad", null ]
 ];

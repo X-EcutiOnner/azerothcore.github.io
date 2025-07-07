@@ -1,7 +1,7 @@
 var a13240 =
 [
-    [ "HandleScriptEffect", "d4/d45/a13240.html#a5ee63545a338e00bfcb8dcc2f3f67db3", null ],
-    [ "PrepareSpellScript", "d4/d45/a13240.html#af9deee89e837e07486a7555632008eb2", null ],
-    [ "Register", "d4/d45/a13240.html#aa4a7c699389a6e467b298cb4f9d3ed07", null ],
-    [ "Validate", "d4/d45/a13240.html#a043d135ea2c37f6e4352aa2fba2bb21c", null ]
+    [ "CorruptTriggers", "d4/d45/a13240.html#a225cafcce56db7d4aefd3fb75ed2533f", null ],
+    [ "Execute", "d4/d45/a13240.html#a9929f3518f307e0b753782967f06c6c1", null ],
+    [ "_caster", "d4/d45/a13240.html#a2b9e4c3d292b7e3deea57e1542b3ba12", null ],
+    [ "_currentLane", "d4/d45/a13240.html#a53e4c60e29f59aa91e059d50e470a22a", null ]
 ];

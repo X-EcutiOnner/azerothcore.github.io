@@ -1,7 +1,6 @@
 var a22896 =
 [
-    [ "HandleEffectRemove", "d2/df0/a22896.html#a6adc572bb13dde9b83a44a1c27833019", null ],
-    [ "PrepareAuraScript", "d2/df0/a22896.html#a877c26735531508d1806273117f3e8bc", null ],
-    [ "Register", "d2/df0/a22896.html#a1b3e9eb2f6979ac2f17ac47eb38c8bb5", null ],
-    [ "Validate", "d2/df0/a22896.html#a8c45ba806d865f7b9d56950013bdd81c", null ]
+    [ "FilterTargets", "d2/df0/a22896.html#a04973145ed594b88afe2acc0cacb10c6", null ],
+    [ "PrepareSpellScript", "d2/df0/a22896.html#a90c0513a6dba2f2e6619dd8c77544991", null ],
+    [ "Register", "d2/df0/a22896.html#a7c8ca525cd6822d21551331ce37ce5dd", null ]
 ];

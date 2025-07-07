@@ -1,7 +1,6 @@
 var a21676 =
 [
-    [ "npc_cosmetic_toy_plane", "d1/d94/a21676.html#a71b7df4d5f78768d9e47f41ba78b93d2", null ],
-    [ "Reset", "d1/d94/a21676.html#aa66f2e16ce6c4e5dd7399b48bd5bc203", null ],
-    [ "UpdateAI", "d1/d94/a21676.html#a41d62b314510fbd6637d8eddbea16f96", null ],
-    [ "_movementArray", "d1/d94/a21676.html#a5a85278bc14a0e3158dc3fa8abcc8392", null ]
+    [ "npc_dalaran_mageAI", "df/d6f/a21680.html", "df/d6f/a21680" ],
+    [ "npc_dalaran_mage", "d1/d94/a21676.html#a764d637ab0c64e2a0cc0459269974d6d", null ],
+    [ "GetAI", "d1/d94/a21676.html#ae2deef0546e2bf0df562e0a67b8b0b93", null ]
 ];

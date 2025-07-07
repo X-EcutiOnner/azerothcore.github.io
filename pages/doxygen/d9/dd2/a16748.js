@@ -1,8 +1,6 @@
 var a16748 =
 [
-    [ "npc_fos_leaderAI", "d9/dd2/a16748.html#ae6a80f77558e0f5a62efc3b5ef1f61d6", null ],
-    [ "DoAction", "d9/dd2/a16748.html#a1fd8cea6f8a6d8f76ba3c484b15c4054", null ],
-    [ "Reset", "d9/dd2/a16748.html#a33364da3af4681de9f9e21b9dcf7f16c", null ],
-    [ "UpdateAI", "d9/dd2/a16748.html#ac6f2aedc40e415ac0f7e8c212d4deae5", null ],
-    [ "events", "d9/dd2/a16748.html#ac02a0c34096086e7baf1dc004811f4c1", null ]
+    [ "boss_devourer_of_soulsAI", "db/d38/a16752.html", "db/d38/a16752" ],
+    [ "boss_devourer_of_souls", "d9/dd2/a16748.html#a95b3a33be3b85a4c7ecfb4370a9ddc60", null ],
+    [ "GetAI", "d9/dd2/a16748.html#a3de68fa630c5b74104c461f88edd1d36", null ]
 ];

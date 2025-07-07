@@ -1,6 +1,6 @@
 var a27096 =
 [
-    [ "boss_taerarAI", "db/d9a/a27100.html", "db/d9a/a27100" ],
-    [ "boss_taerar", "da/d34/a27096.html#a100c1b80a50faf93088db870faa21b58", null ],
-    [ "GetAI", "da/d34/a27096.html#ae6615da6ee14c4f7cb3087b4ee5d6246", null ]
+    [ "npc_spirit_shadeAI", "db/d9a/a27100.html", "db/d9a/a27100" ],
+    [ "npc_spirit_shade", "da/d34/a27096.html#a891ede5651789274496d6426daf9937d", null ],
+    [ "GetAI", "da/d34/a27096.html#a166f6a9abf7c0e33374c2f998c0524c3", null ]
 ];

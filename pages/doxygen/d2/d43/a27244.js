@@ -1,5 +1,6 @@
 var a27244 =
 [
-    [ "go_sacred_fire_of_life", "d2/d43/a27244.html#a7f14c8397803f8b21e492ec52c6d81e8", null ],
-    [ "OnGossipHello", "d2/d43/a27244.html#aaa078fffe5570fa532d27d1c4ea831a7", null ]
+    [ "go_gilded_brazierAI", "db/dee/a27248.html", "db/dee/a27248" ],
+    [ "go_gilded_brazier", "d2/d43/a27244.html#a778c753a8432131601371da8849ef004", null ],
+    [ "GetAI", "d2/d43/a27244.html#a2c8ced3e29c05c9d55745c4f10c9202d", null ]
 ];

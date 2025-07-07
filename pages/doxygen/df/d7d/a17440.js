@@ -1,6 +1,7 @@
 var a17440 =
 [
-    [ "boss_festergutAI", "d6/d4b/a17444.html", "d6/d4b/a17444" ],
-    [ "boss_festergut", "df/d7d/a17440.html#a07ac6be688118cc57e6fdc1d8e961953", null ],
-    [ "GetAI", "df/d7d/a17440.html#ab2624e1908bb376f1b195a88e4b9b146", null ]
+    [ "FilterTargets", "df/d7d/a17440.html#aeae290d20ade37eb839c1bf3c9ae59bf", null ],
+    [ "Load", "df/d7d/a17440.html#a38bf6d96c6a78e5105d0369eb993e58c", null ],
+    [ "PrepareSpellScript", "df/d7d/a17440.html#a815c99e9ef570287af5d45c32bdc5b8c", null ],
+    [ "Register", "df/d7d/a17440.html#a33342cc676adaabe5e3896fa559631b7", null ]
 ];

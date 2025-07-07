@@ -1,6 +1,6 @@
 var a18100 =
 [
-    [ "HandleScript", "d6/d29/a18100.html#a038a827f7fe179ff56ab581efdf08790", null ],
-    [ "PrepareSpellScript", "d6/d29/a18100.html#a9ffd37bb54ce5e4a73d7d93eaddda2dd", null ],
-    [ "Register", "d6/d29/a18100.html#a6018f3a74a1b61042bb0ff6c02b76611", null ]
+    [ "npc_sindragosa_trashAI", "d6/df9/a18104.html", "d6/df9/a18104" ],
+    [ "npc_sindragosa_trash", "d6/d29/a18100.html#a9634ea10e767b4d6e293fc3fdd491702", null ],
+    [ "GetAI", "d6/d29/a18100.html#ab1de715d98236a853a793d830bc601d7", null ]
 ];

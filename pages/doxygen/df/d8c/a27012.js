@@ -1,5 +1,5 @@
 var a27012 =
 [
-    [ "AreaTrigger_at_voltarus_middle", "df/d8c/a27012.html#a45ca444350fe4cfde02ab33da4ce8466", null ],
-    [ "OnTrigger", "df/d8c/a27012.html#a296b300feb6cf999e9e2c2625a911e9b", null ]
+    [ "achievement_flirt_with_disaster_perf_check", "df/d8c/a27012.html#a8cb843ed26248ceff594ef552b0ae9ae", null ],
+    [ "OnCheck", "df/d8c/a27012.html#a15e620be2f37f930477ba94293dbaf63", null ]
 ];

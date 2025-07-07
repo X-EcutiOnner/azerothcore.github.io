@@ -1,6 +1,5 @@
 var a14484 =
 [
-    [ "OnAuraRemove", "dd/ddc/a14484.html#ad16e8b64999771154360afad71454c07", null ],
-    [ "PrepareAuraScript", "dd/ddc/a14484.html#a70963be80861e10ecd093e40b77e7078", null ],
-    [ "Register", "dd/ddc/a14484.html#a7381cbea873fb57485e4539aa478d236", null ]
+    [ "npc_pilgrims_bounty_plate", "dd/ddc/a14484.html#ac0217b8fb3a0fbf418ce2d3ca286f2eb", null ],
+    [ "SpellHit", "dd/ddc/a14484.html#a7797b7a532336542ef37f0643df8dec0", null ]
 ];

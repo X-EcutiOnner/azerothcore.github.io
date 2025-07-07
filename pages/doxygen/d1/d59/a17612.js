@@ -1,6 +1,8 @@
 var a17612 =
 [
-    [ "IgbTeleportOnVictoryCheck", "d1/d59/a17612.html#a29ee8cac93b9920e598da9205406e608", null ],
-    [ "operator()", "d1/d59/a17612.html#acf85943e238179e911434358f1593be2", null ],
-    [ "_inst", "d1/d59/a17612.html#a015353ecb66da16c697152b7ad3c527e", null ]
+    [ "Load", "d1/d59/a17612.html#a363d0afcf2f79b8219652de5a3a6d466", null ],
+    [ "PrepareSpellScript", "d1/d59/a17612.html#a8df1abd311a1c32cd6ed296d75566eac", null ],
+    [ "Register", "d1/d59/a17612.html#a61e8f66c7446e0587b5d743f0e6ead92", null ],
+    [ "RelocateDest", "d1/d59/a17612.html#abad4acee4c0898fea6bfb57b8155cab2", null ],
+    [ "SelectTransport", "d1/d59/a17612.html#a0564852176d80ee6593baa3abb18238a", null ]
 ];

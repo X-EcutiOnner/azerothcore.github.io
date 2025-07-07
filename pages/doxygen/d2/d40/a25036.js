@@ -1,6 +1,8 @@
 var a25036 =
 [
-    [ "CheckSeat", "d2/d40/a25036.html#ab4e2376e084bc2cf0e30a91e3e5a270c", null ],
-    [ "PrepareSpellScript", "d2/d40/a25036.html#aaa9a6f31ec57542dcd657874c4eb52aa", null ],
-    [ "Register", "d2/d40/a25036.html#a6feb7c77ba258688a83bdb86e9ee53f8", null ]
+    [ "AchievementCredit", "d2/d40/a25036.html#ab0ec836feb53875de355330e05367fe8", null ],
+    [ "Load", "d2/d40/a25036.html#ae48c67f363e399f076122cb6eee10ffb", null ],
+    [ "PrepareSpellScript", "d2/d40/a25036.html#af0bb22c618af5dca7f534bea32e7ee7f", null ],
+    [ "Register", "d2/d40/a25036.html#a793921687c96a39f7dd872b9721096ca", null ],
+    [ "Validate", "d2/d40/a25036.html#a5be222c322714ec62f8beaf69faab257", null ]
 ];

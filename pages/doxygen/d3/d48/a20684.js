@@ -1,6 +1,6 @@
 var a20684 =
 [
-    [ "npc_xt002_pummellerAI", "d6/d86/a20688.html", "d6/d86/a20688" ],
-    [ "npc_xt002_pummeller", "d3/d48/a20684.html#af620e31a231ca8fb812324521bad4673", null ],
-    [ "GetAI", "d3/d48/a20684.html#a9ec4e452a3763c3d03e581a17e5d7efe", null ]
+    [ "npc_xt002_heartAI", "d6/d86/a20688.html", "d6/d86/a20688" ],
+    [ "npc_xt002_heart", "d3/d48/a20684.html#ab914ce1e945080b873cf6f93e3a6a32c", null ],
+    [ "GetAI", "d3/d48/a20684.html#af59c6623b97d1adff765e8ba4958d482", null ]
 ];

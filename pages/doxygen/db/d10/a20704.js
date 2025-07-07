@@ -1,6 +1,9 @@
 var a20704 =
 [
-    [ "npc_xt002_life_sparkAI", "d4/dca/a20708.html", "d4/dca/a20708" ],
-    [ "npc_xt002_life_spark", "db/d10/a20704.html#a9644718d192708e391b833468a0ff21e", null ],
-    [ "GetAI", "db/d10/a20704.html#a09a1ce332d55fad146947c94bb53f564", null ]
+    [ "npc_xt002_pummellerAI", "db/d10/a20704.html#a2942c05c93036c2e02b9a72c784441b1", null ],
+    [ "Reset", "db/d10/a20704.html#a6542fb3e585f100f06f6be14a1346306", null ],
+    [ "UpdateAI", "db/d10/a20704.html#a959990310303ff2102f1c03852b4ab8e", null ],
+    [ "_arcingSmashTimer", "db/d10/a20704.html#a830fda66756dc3f34a530939116e7556", null ],
+    [ "_trampleTimer", "db/d10/a20704.html#ae5e450601861f83b20419405bb92ef6d", null ],
+    [ "_uppercutTimer", "db/d10/a20704.html#a5a1bdb380438070effc091ec37db6aec", null ]
 ];

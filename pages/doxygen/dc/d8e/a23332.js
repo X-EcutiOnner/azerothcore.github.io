@@ -1,5 +1,7 @@
 var a23332 =
 [
-    [ "go_main_chambers_access_panel", "dc/d8e/a23332.html#a30c3c20be1892b5107ef53683d593b75", null ],
-    [ "OnGossipHello", "dc/d8e/a23332.html#af4b3a4a0260de68dcfac7202e0a728ee", null ]
+    [ "boss_hydromancer_thespia", "dc/d8e/a23332.html#a5747c2da9914dcf4118ee0fb37a3a3fd", null ],
+    [ "JustDied", "dc/d8e/a23332.html#ad0662daabd636bbf544a6791187d71fa", null ],
+    [ "JustEngagedWith", "dc/d8e/a23332.html#af230e57ec259e5c92c4034a674d1b6a5", null ],
+    [ "KilledUnit", "dc/d8e/a23332.html#ae1bb4819867ef5718cb5d9130d62fa20", null ]
 ];

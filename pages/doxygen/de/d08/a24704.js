@@ -1,6 +1,7 @@
 var a24704 =
 [
-    [ "FilterTargets", "de/d08/a24704.html#ac01bb4bac4f041318937cfc09ed603cd", null ],
-    [ "PrepareSpellScript", "de/d08/a24704.html#a3eb1d8c26653477bed5b7ae0c69b34e9", null ],
-    [ "Register", "de/d08/a24704.html#a658a476f5c2229715a8949aa6ba4f99c", null ]
+    [ "CalculateAmount", "de/d08/a24704.html#a2ed00d02a1685bc8b66e9cdfd430d1ad", null ],
+    [ "Load", "de/d08/a24704.html#a7ba8da2fdc3bf18cd9925b280e60affa", null ],
+    [ "PrepareAuraScript", "de/d08/a24704.html#a93df43072a344485c389160306b1fecd", null ],
+    [ "Register", "de/d08/a24704.html#a6766b6ebbba04bc595373145e4eaaa7a", null ]
 ];

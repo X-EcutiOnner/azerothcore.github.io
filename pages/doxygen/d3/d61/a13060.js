@@ -1,7 +1,7 @@
 var a13060 =
 [
-    [ "boss_apothecary_hummelAI", "d5/df3/a13064.html", "d5/df3/a13064" ],
-    [ "boss_apothecary_hummel", "d3/d61/a13060.html#af1672c0b7f67d9013e3769a7009c2ee9", null ],
-    [ "GetAI", "d3/d61/a13060.html#a87a01f4d6eaac7c5e1795133e8aa1ccd", null ],
-    [ "OnQuestReward", "d3/d61/a13060.html#a86d23ff3569e5e86b8787bb3ea7816c7", null ]
+    [ "HandleEffectApply", "d3/d61/a13060.html#a710536e0a3bacf173d037041e755bd82", null ],
+    [ "HandleEffectRemove", "d3/d61/a13060.html#a16623b3187e98fc50f5a3b8e0297b0ea", null ],
+    [ "PrepareAuraScript", "d3/d61/a13060.html#ab1d5eb39b503f7e08a404cf172b8de96", null ],
+    [ "Register", "d3/d61/a13060.html#a9092818bdb15a12163aae633049cb7f6", null ]
 ];

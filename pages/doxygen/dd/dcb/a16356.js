@@ -1,6 +1,6 @@
 var a16356 =
 [
-    [ "npc_toc_priestAI", "d7/d18/a16360.html", "d7/d18/a16360" ],
-    [ "npc_toc_priest", "dd/dcb/a16356.html#a0e360a2cc053434d2f76826683da8eee", null ],
-    [ "GetAI", "dd/dcb/a16356.html#a6056a81bef962a02537d525f07d1c302", null ]
+    [ "npc_toc_shamanAI", "d7/d18/a16360.html", "d7/d18/a16360" ],
+    [ "npc_toc_shaman", "dd/dcb/a16356.html#a26e3a539d8d918057e9f81b9ee83f17d", null ],
+    [ "GetAI", "dd/dcb/a16356.html#a7102a3aec6c229a04b617c562512bf29", null ]
 ];

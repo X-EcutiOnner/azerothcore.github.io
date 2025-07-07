@@ -1,6 +1,6 @@
 var a15824 =
 [
-    [ "boss_anub_arakAI", "d5/db8/a15828.html", "d5/db8/a15828" ],
-    [ "boss_anub_arak", "dd/d6b/a15824.html#ac2594f561b07069a312ed38c01d9c7da", null ],
-    [ "GetAI", "dd/d6b/a15824.html#a8687594354d514b99e026797ee71c70d", null ]
+    [ "PrepareSpellScript", "dd/d6b/a15824.html#a74a2601e2c160bb4a9b18d421775e6b3", null ],
+    [ "Register", "dd/d6b/a15824.html#a17a07973a3c043683fc4fe0d1fc45156", null ],
+    [ "SetDest", "dd/d6b/a15824.html#a3751a14d6e36140ee368d8ded6df03ee", null ]
 ];

@@ -1,7 +1,6 @@
 var a25948 =
 [
-    [ "HandleDummy", "dc/de5/a25948.html#a870b9834d0860a2d017b74fbf33ae668", null ],
-    [ "Load", "dc/de5/a25948.html#ae971bd1dccc9280620b6ea44dd552bd4", null ],
-    [ "PrepareSpellScript", "dc/de5/a25948.html#aac68e0f75f39ab25cf490dc381414b96", null ],
-    [ "Register", "dc/de5/a25948.html#ad2840c719abd010c629747da138e9e32", null ]
+    [ "OnRemove", "dc/de5/a25948.html#ae1f257e43effcb396d57d42db3063afd", null ],
+    [ "PrepareAuraScript", "dc/de5/a25948.html#a5b13e46dc228ffe594ce2ce06a7d6799", null ],
+    [ "Register", "dc/de5/a25948.html#a4a94d5c8efdd7f6e0dd655ebeb8c4614", null ]
 ];

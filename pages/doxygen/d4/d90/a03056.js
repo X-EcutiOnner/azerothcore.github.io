@@ -1,6 +1,6 @@
 var a03056 =
 [
-    [ "boss_commander_stoutbeard", "d1/d5b/a19268.html", "d1/d5b/a19268" ],
+    [ "boss_commander_stoutbeard", "d7/d87/a19284.html", "d7/d87/a19284" ],
     [ "Says", "d4/d90/a03056.html#a16774215bba3b38580ea51987d64cff1", [
       [ "SAY_START_FIGHT", "d1/d2e/a02537.html#a16774215bba3b38580ea51987d64cff1a8faddecee02adff0c6fb321d27621e1e", null ],
       [ "EMOTE_DEATH", "d0/df5/a02576.html#a16774215bba3b38580ea51987d64cff1a532dda2af249d6245366a455505ac407", null ],

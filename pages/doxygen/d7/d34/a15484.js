@@ -1,6 +1,7 @@
 var a15484 =
 [
-    [ "Creature", "d7/d34/a15484.html#a77b33f8998f85808b58052079b1cab54", null ],
-    [ "TextId", "d7/d34/a15484.html#ad691f3cd40035e96547adf7528229119", null ],
-    [ "Timer", "d7/d34/a15484.html#accfccceaedffb3ad4d02231fb0bfeee5", null ]
+    [ "npc_shenthulAI", "d1/d7e/a15488.html", "d1/d7e/a15488" ],
+    [ "npc_shenthul", "d7/d34/a15484.html#a77815503c7d9c811fe3821232e308714", null ],
+    [ "GetAI", "d7/d34/a15484.html#a1683f8c89add6270277c59951c74027e", null ],
+    [ "OnQuestAccept", "d7/d34/a15484.html#a3a63fec338dca74eb7d071dfcc9c95b5", null ]
 ];

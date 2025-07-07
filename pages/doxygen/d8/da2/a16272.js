@@ -1,6 +1,6 @@
 var a16272 =
 [
-    [ "HideNpcEvent", "d8/da2/a16272.html#ab454295aab0f5d4586740140232e96eb", null ],
-    [ "Execute", "d8/da2/a16272.html#aecfbbbcac3fd98675913a6381c891a59", null ],
-    [ "_owner", "d8/da2/a16272.html#ac5481c94e180900f0a455dc1f1f9851c", null ]
+    [ "instance_trial_of_the_champion_InstanceMapScript", "d3/d82/a16276.html", "d3/d82/a16276" ],
+    [ "instance_trial_of_the_champion", "d8/da2/a16272.html#a7b97e3da119a7ad33a87c74647407bd8", null ],
+    [ "GetInstanceScript", "d8/da2/a16272.html#a9227119fc47f38cd82a1fc07c04b0c86", null ]
 ];

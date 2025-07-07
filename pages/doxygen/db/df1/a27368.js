@@ -1,6 +1,5 @@
 var a27368 =
 [
-    [ "trigger_periodicAI", "d9/d7b/a27372.html", "d9/d7b/a27372" ],
-    [ "trigger_periodic", "db/df1/a27368.html#a3c947c5a3092eecb7288a8a50c76bd14", null ],
-    [ "GetAI", "db/df1/a27368.html#a179f3aa69fcd0b145f4ede9f830c1f38", null ]
+    [ "item_disgusting_jar", "db/df1/a27368.html#add658cf7d026ac12d3eacc0c1dc8d7fb", null ],
+    [ "OnExpire", "db/df1/a27368.html#a4f6967035a4d247914a6034fcebac5c5", null ]
 ];

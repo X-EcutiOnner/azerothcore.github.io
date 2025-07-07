@@ -1,6 +1,6 @@
 var a22084 =
 [
-    [ "npc_tournament_training_dummyAI", "d0/dea/a22088.html", "d0/dea/a22088" ],
-    [ "npc_tournament_training_dummy", "da/db8/a22084.html#ab5308cfddfef00da9692dddd21ce4a14", null ],
-    [ "GetAI", "da/db8/a22084.html#a31257c155c3a49c69771156800cf6340", null ]
+    [ "ChangeSummonPos", "da/db8/a22084.html#aeb2cf0a5d2e563e4983ddd237a2b1001", null ],
+    [ "PrepareSpellScript", "da/db8/a22084.html#a1654fec971696e613b5102b3ca5030f1", null ],
+    [ "Register", "da/db8/a22084.html#ab1e7d44914952dfb7f7ccf2de4da286f", null ]
 ];

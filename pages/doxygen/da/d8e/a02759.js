@@ -1,11 +1,11 @@
 var a02759 =
 [
-    [ "instance_scholomance", "d0/d9e/a13036.html", "d0/d9e/a13036" ],
-    [ "instance_scholomance::instance_scholomance_InstanceMapScript", "df/d18/a13040.html", "df/d18/a13040" ],
-    [ "spell_scholomance_fixate_aura", "d5/d1b/a13044.html", "d5/d1b/a13044" ],
-    [ "spell_scholomance_boon_of_life_aura", "d5/de0/a13048.html", "d5/de0/a13048" ],
-    [ "npc_scholomance_occultist", "dc/d6d/a13052.html", "dc/d6d/a13052" ],
-    [ "npc_scholomance_occultist::npc_scholomance_occultistAI", "d2/dfb/a13056.html", "d2/dfb/a13056" ],
+    [ "instance_scholomance", "dc/d6d/a13052.html", "dc/d6d/a13052" ],
+    [ "instance_scholomance::instance_scholomance_InstanceMapScript", "d2/dfb/a13056.html", "d2/dfb/a13056" ],
+    [ "spell_scholomance_fixate_aura", "d3/d61/a13060.html", "d3/d61/a13060" ],
+    [ "spell_scholomance_boon_of_life_aura", "d5/df3/a13064.html", "d5/df3/a13064" ],
+    [ "npc_scholomance_occultist", "d5/d90/a13068.html", "d5/d90/a13068" ],
+    [ "npc_scholomance_occultist::npc_scholomance_occultistAI", "dc/d03/a13072.html", "dc/d03/a13072" ],
     [ "OccultistEntries", "da/d8e/a02759.html#a8b43fe18f8176260ed382582db3c3818", [
       [ "CASTER_ENTRY", "da/d8e/a02759.html#a8b43fe18f8176260ed382582db3c3818a5bb832c5eb17f3850f1178b2b3590a5a", null ],
       [ "DARK_SHADE_ENTRY", "da/d8e/a02759.html#a8b43fe18f8176260ed382582db3c3818a404c94392628f9372866677c936edb15", null ]

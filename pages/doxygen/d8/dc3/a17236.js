@@ -1,6 +1,6 @@
 var a17236 =
 [
-    [ "npc_blood_queen_lana_thelAI", "d2/dd5/a17240.html", "d2/dd5/a17240" ],
-    [ "npc_blood_queen_lana_thel", "d8/dc3/a17236.html#a39adef3ae54efd4433805bd8ad4719be", null ],
-    [ "GetAI", "d8/dc3/a17236.html#a02d928ac4ef1704cee2498ebe6533561", null ]
+    [ "boss_prince_taldaramAI", "d2/dd5/a17240.html", "d2/dd5/a17240" ],
+    [ "boss_prince_taldaram_icc", "d8/dc3/a17236.html#abe14f754e1daf597aa2b7d401f337c8d", null ],
+    [ "GetAI", "d8/dc3/a17236.html#a2a8c89206ab72afc68260f41a246da3b", null ]
 ];

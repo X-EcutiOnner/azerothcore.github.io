@@ -1,7 +1,7 @@
 var a03017 =
 [
-    [ "boss_varos", "d0/d56/a19348.html", "d0/d56/a19348" ],
-    [ "boss_varos::boss_varosAI", "dd/dbf/a19352.html", "dd/dbf/a19352" ],
+    [ "boss_varos", "de/d4d/a19364.html", "de/d4d/a19364" ],
+    [ "boss_varos::boss_varosAI", "da/d00/a19368.html", "da/d00/a19368" ],
     [ "SPELL_AMPLIFY_MAGIC", "dd/dfd/a03017.html#a075a51f16e112a721f01da6beedbbb6f", null ],
     [ "SPELL_ENERGIZE_CORES", "dd/dfd/a03017.html#a088f90a94bfd48bdd631e135332dee31", null ],
     [ "SPELL_ENERGIZE_CORES_THIN", "dd/dfd/a03017.html#a7a180c3c0cf9bd0e27c047333fcb9459", null ],

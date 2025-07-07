@@ -1,7 +1,6 @@
 var a18076 =
 [
-    [ "HandleTriggerMissile", "df/d82/a18076.html#af6370594be48d35a12009fa10a38d91d", null ],
-    [ "PrepareSpellScript", "df/d82/a18076.html#aeeca4381273f382c3abb68f34d229213", null ],
-    [ "Register", "df/d82/a18076.html#a0b79f5ee23e53c18277712f1b26e13f3", null ],
-    [ "Validate", "df/d82/a18076.html#abe0b9290ddf9beaa60a583840d90d914", null ]
+    [ "npc_spinestalkerAI", "d3/d12/a18080.html", "d3/d12/a18080" ],
+    [ "npc_spinestalker", "df/d82/a18076.html#a477f951c79045d553901b1e6b6ad2d4f", null ],
+    [ "GetAI", "df/d82/a18076.html#a725f1b1db90d700772bfb76e0f85f1f3", null ]
 ];

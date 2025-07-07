@@ -1,6 +1,6 @@
 var a17688 =
 [
-    [ "npc_cult_fanaticAI", "dc/d96/a17692.html", "dc/d96/a17692" ],
-    [ "npc_cult_fanatic", "d6/d34/a17688.html#af29ab8f7628b96b0f192bccab74ca02e", null ],
-    [ "GetAI", "d6/d34/a17688.html#ae4d22bac12d17d79669d3fccd4029952", null ]
+    [ "CheckProc", "d6/d34/a17688.html#a86e62fa26606a77284c80583e7b35d27", null ],
+    [ "PrepareAuraScript", "d6/d34/a17688.html#a2c10a09e9e5015eb4f3c66d5086dbe1a", null ],
+    [ "Register", "d6/d34/a17688.html#a6214f78c5c7eb3f60371fa12530d5991", null ]
 ];

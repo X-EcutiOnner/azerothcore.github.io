@@ -1,8 +1,10 @@
 var a14696 =
 [
-    [ "npc_arthasAI", "df/d50/a14700.html", "df/d50/a14700" ],
-    [ "npc_arthas", "db/d15/a14696.html#a87c280ff9861187b0a713f795e657266", null ],
-    [ "GetAI", "db/d15/a14696.html#a4a613dd76cde27f7df834b9bb837ab6c", null ],
-    [ "OnGossipHello", "db/d15/a14696.html#a4bd3d5dd8eebe48b525e2bd162787172", null ],
-    [ "OnGossipSelect", "db/d15/a14696.html#aeca2f4baa3c943281c676c6498393165", null ]
+    [ "boss_meathookAI", "db/d15/a14696.html#abb35c98da760db634545b81d740cd51a", null ],
+    [ "JustDied", "db/d15/a14696.html#a44ebee45de335ff6f653e9d60a364458", null ],
+    [ "JustEngagedWith", "db/d15/a14696.html#adf199bf96bbf342caaa74b7dd6b8013c", null ],
+    [ "KilledUnit", "db/d15/a14696.html#a54deac512294bb0901d072faef3166b1", null ],
+    [ "Reset", "db/d15/a14696.html#ab4dbdedb1ae114fe4aff1fbe0e8adec1", null ],
+    [ "UpdateAI", "db/d15/a14696.html#afeaee24a9b6484e8a0e6509b973ed74d", null ],
+    [ "events", "db/d15/a14696.html#a6cf32d8601a1d07a3a445fa7d9a1ccbc", null ]
 ];

@@ -1,6 +1,6 @@
 var a25824 =
 [
-    [ "PrepareSpellScript", "df/da1/a25824.html#a738e105a48f6c603f3d9a690f44b8745", null ],
-    [ "Register", "df/da1/a25824.html#a6bc9791d0f08440e19b89daa9b65892c", null ],
-    [ "SetDest", "df/da1/a25824.html#a59641895cead08de4a4503262505ee73", null ]
+    [ "HandleDummy", "df/da1/a25824.html#a1daf78c552ffd963f181eded01b570a9", null ],
+    [ "PrepareSpellScript", "df/da1/a25824.html#adaa82dfd828ed915cfc16f95e73cd224", null ],
+    [ "Register", "df/da1/a25824.html#a63771475c954e4bddf6c1fc4c04990e0", null ]
 ];

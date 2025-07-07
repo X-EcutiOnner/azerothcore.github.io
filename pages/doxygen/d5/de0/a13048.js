@@ -1,7 +1,7 @@
 var a13048 =
 [
-    [ "OnApply", "d5/de0/a13048.html#a278a1eb6d5f856a620f5a33de294b0ec", null ],
-    [ "OnRemove", "d5/de0/a13048.html#a8300f726a41882e3d3f54adc0e5bfb29", null ],
-    [ "PrepareAuraScript", "d5/de0/a13048.html#a46ba800f3a3512951b83e428bc5373b9", null ],
-    [ "Register", "d5/de0/a13048.html#a4a59d431c7d7607e614c4ec035e3acf7", null ]
+    [ "HandleScript", "d5/de0/a13048.html#a03f8c24445ee4ac82a4cf2caece38f90", null ],
+    [ "PrepareSpellScript", "d5/de0/a13048.html#a034195e58f02225c172b70c3967fe3ad", null ],
+    [ "Register", "d5/de0/a13048.html#afaf3a6fd54f499982bd1cfd6e4c6c1a2", null ],
+    [ "Validate", "d5/de0/a13048.html#a8ac78c00c49b1eb2fade4100a810d367", null ]
 ];

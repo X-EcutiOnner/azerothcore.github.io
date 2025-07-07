@@ -1,8 +1,7 @@
 var a22168 =
 [
-    [ "npc_adventurous_dwarfAI", "d8/de2/a22172.html", "d8/de2/a22172" ],
-    [ "npc_adventurous_dwarf", "db/d02/a22168.html#a15c39e217907189db9be7799e696f310", null ],
-    [ "GetAI", "db/d02/a22168.html#ac3f124fab8520a16ccd73e058a0383b1", null ],
-    [ "OnGossipHello", "db/d02/a22168.html#ab69e3e249f7075d5344ad79bf9c79b79", null ],
-    [ "OnGossipSelect", "db/d02/a22168.html#aebb2cd209f71d8ab56a29e5bfd668def", null ]
+    [ "npc_engineer_heliceAI", "d8/de2/a22172.html", "d8/de2/a22172" ],
+    [ "npc_engineer_helice", "db/d02/a22168.html#a445ed6b85e95db817c8117d5473a3c9d", null ],
+    [ "GetAI", "db/d02/a22168.html#ad48e3c1ed22a71e8a45273e1338dd0f8", null ],
+    [ "OnQuestAccept", "db/d02/a22168.html#ae0979d68744372d5d4669b6f014eb123", null ]
 ];

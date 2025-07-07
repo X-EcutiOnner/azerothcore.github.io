@@ -1,5 +1,6 @@
 var a17428 =
 [
-    [ "achievement_ive_gone_and_made_a_mess", "db/dca/a17428.html#a0e71ea3afae02176f81231e51155c038", null ],
-    [ "OnCheck", "db/dca/a17428.html#a638cead986783523c7c35ecb9d885b11", null ]
+    [ "ModAuraValue", "db/dca/a17428.html#a359453c6253beb6f729209c6d3d79af7", null ],
+    [ "PrepareSpellScript", "db/dca/a17428.html#a4f916abef69782be10cc6be9ba0124f5", null ],
+    [ "Register", "db/dca/a17428.html#a4a387df07c88144288c4327ce86b730a", null ]
 ];

@@ -1,6 +1,6 @@
 var a16608 =
 [
-    [ "HandleDummy", "db/dc0/a16608.html#a84fb6e08a523f375cd8bc43e9cc73eab", null ],
-    [ "PrepareSpellScript", "db/dc0/a16608.html#accbf8f40b1ab123a2be81a514c94c836", null ],
-    [ "Register", "db/dc0/a16608.html#a1805904d5e50bbf5aeccf37d2cadd09e", null ]
+    [ "npc_announcer_toc10", "db/dc0/a16608.html#ae495b19328c6a743dfd8f1cbf37a0bd6", null ],
+    [ "OnGossipHello", "db/dc0/a16608.html#afcc5262e7c49b7456af146de14805a06", null ],
+    [ "OnGossipSelect", "db/dc0/a16608.html#a9a2bf1d3a215332744ca473041cc0520", null ]
 ];

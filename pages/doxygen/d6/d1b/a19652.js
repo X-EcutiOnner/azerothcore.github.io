@@ -1,6 +1,6 @@
 var a19652 =
 [
-    [ "npc_living_constellationAI", "df/deb/a19656.html", "df/deb/a19656" ],
-    [ "npc_living_constellation", "d6/d1b/a19652.html#a6ee651a525498cb5715ccfedaa26e05d", null ],
-    [ "GetAI", "d6/d1b/a19652.html#a4533812a4da72c0d9eff6d6c9eaf772a", null ]
+    [ "npc_brann_bronzebeard_algalonAI", "df/deb/a19656.html", "df/deb/a19656" ],
+    [ "npc_brann_bronzebeard_algalon", "d6/d1b/a19652.html#a2760d42de8f78250ca5862bfcb23ed2e", null ],
+    [ "GetAI", "d6/d1b/a19652.html#ad8bc8bde865adcce1e9f6fd6234f1a0a", null ]
 ];

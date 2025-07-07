@@ -1,9 +1,6 @@
 var a20888 =
 [
-    [ "HandleOnEffectApply", "da/deb/a20888.html#a3e35c98bd5867bbb6c77b16d89ab74a9", null ],
-    [ "OnPeriodic", "da/deb/a20888.html#a49ad44eba19416743bd26252d1b40d71", null ],
-    [ "PrepareAuraScript", "da/deb/a20888.html#ae0c475babb67cebb245d6d85b50cd694", null ],
-    [ "Register", "da/deb/a20888.html#af56875f1bb85d5524841a5bbb399d7d4", null ],
-    [ "Validate", "da/deb/a20888.html#ab383a0a207aa78b7efcd400765ad0838", null ],
-    [ "_targetGUID", "da/deb/a20888.html#a9e7c6087b1c7ce3c32be661da037f1e0", null ]
+    [ "boss_yoggsaron_voiceAI", "dc/d88/a20892.html", "dc/d88/a20892" ],
+    [ "boss_yoggsaron_voice", "da/deb/a20888.html#ae5d10416bb83e57c0e9d3ef5d6f5adc6", null ],
+    [ "GetAI", "da/deb/a20888.html#a50abcde0313df06a114a2f5f44a1d481", null ]
 ];

@@ -1,6 +1,5 @@
 var a22384 =
 [
-    [ "npc_overlord_drakuru_betrayalAI", "db/ddd/a22388.html", "db/ddd/a22388" ],
-    [ "npc_overlord_drakuru_betrayal", "dc/d45/a22384.html#af4092356ea86c25d91c73af1310c2eb0", null ],
-    [ "GetAI", "dc/d45/a22384.html#a3bd893f08212dc94a321beb7a95eea08", null ]
+    [ "achievement_wg_within_our_grasp", "dc/d45/a22384.html#a9edbd15bc6989c6948e21391a683d22d", null ],
+    [ "OnCheck", "dc/d45/a22384.html#a10b659c4b52322536333e3d191796c27", null ]
 ];

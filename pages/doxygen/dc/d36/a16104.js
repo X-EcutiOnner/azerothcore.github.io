@@ -1,6 +1,8 @@
 var a16104 =
 [
-    [ "HandlePeriodic", "dc/d36/a16104.html#a7753587518171689f86f3f76269c1b8a", null ],
-    [ "PrepareAuraScript", "dc/d36/a16104.html#aa73351e7200bee94b0068fb8dabfada5", null ],
-    [ "Register", "dc/d36/a16104.html#ab126fe8d4387609e8834898c3b3a67ea", null ]
+    [ "Load", "dc/d36/a16104.html#a55dc086667f0fe23e513608e951276ed", null ],
+    [ "Phase", "dc/d36/a16104.html#af66a6bff13803e54b6ed1447d1285ad4", null ],
+    [ "PrepareSpellScript", "dc/d36/a16104.html#ae2c7cbd68ccf893144e38581a6f86f04", null ],
+    [ "Register", "dc/d36/a16104.html#a8ab7e05e98771abcf9bed9995875b71d", null ],
+    [ "Validate", "dc/d36/a16104.html#a87192df547adaf3cb060155d9cf4da79", null ]
 ];

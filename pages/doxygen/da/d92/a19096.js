@@ -1,10 +1,10 @@
 var a19096 =
 [
-    [ "boss_razuvious_minionAI", "da/d92/a19096.html#a6f9fc7dad68f35846ee76d4bff564407", null ],
-    [ "DoAction", "da/d92/a19096.html#a93cfa3f706ffadd94ad4dbe0585eebf1", null ],
-    [ "JustEngagedWith", "da/d92/a19096.html#ada2e7a5ac1f129572a0689afce49d310", null ],
-    [ "KilledUnit", "da/d92/a19096.html#ab1a6f582098c9d1218551af0aae1815d", null ],
-    [ "Reset", "da/d92/a19096.html#a170de8517a03a0e78b1e67652869fd9a", null ],
-    [ "ScheduleAttackDummy", "da/d92/a19096.html#abed82c71605d7c57bf29cedc21fc6b24", null ],
-    [ "UpdateAI", "da/d92/a19096.html#ad56fca0ae00fba6e575baefd72c7a8d0", null ]
+    [ "boss_patchwerkAI", "da/d92/a19096.html#a74dfcf9ef921aa2a53d877c0e5ee9a34", null ],
+    [ "JustDied", "da/d92/a19096.html#aaed18187aa8e0058c70b29b1ccbe955f", null ],
+    [ "JustEngagedWith", "da/d92/a19096.html#a1317cb819d6247f62e0c6c725157db30", null ],
+    [ "KilledUnit", "da/d92/a19096.html#a17ccb5b2a1841656813a9408f5a05c4e", null ],
+    [ "Reset", "da/d92/a19096.html#a1d03058bf53e670f4fe9384e9f047891", null ],
+    [ "UpdateAI", "da/d92/a19096.html#a2db0df50a0faa88ebeaa035ea048157e", null ],
+    [ "events", "da/d92/a19096.html#a00c98ee5cdb3c512ba0d92a48d441006", null ]
 ];

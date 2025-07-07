@@ -1,6 +1,8 @@
 var a13268 =
 [
-    [ "SpectralBlastCheck", "dc/d46/a13268.html#ada2eda8781891a4049ee30c5ecb81c3c", null ],
-    [ "operator()", "dc/d46/a13268.html#afbe13a5f90a5b95832e14fe9d7affc9f", null ],
-    [ "_victim", "dc/d46/a13268.html#ab96456159d61e781aa8d691dd0b1fec1", null ]
+    [ "FilterTargets", "dc/d46/a13268.html#ac7f7287b88cde82fbf8a625f002c86fa", null ],
+    [ "HandleAfterCast", "dc/d46/a13268.html#aa28714ce9ac251fe7c3bdec17b47deb3", null ],
+    [ "Load", "dc/d46/a13268.html#aecfa38940ea3dd287179bdef3d290487", null ],
+    [ "PrepareSpellScript", "dc/d46/a13268.html#a222e2c8e5401c132e89b29bbd22d46a6", null ],
+    [ "Register", "dc/d46/a13268.html#a1a3607dd7e3d56bde3b92cbf4bcd0e78", null ]
 ];

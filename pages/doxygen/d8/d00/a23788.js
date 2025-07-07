@@ -1,6 +1,5 @@
 var a23788 =
 [
-    [ "HandlePeriodic", "d8/d00/a23788.html#aec3f36e2c5fedddd84478b9e3a59e6f4", null ],
-    [ "PrepareAuraScript", "d8/d00/a23788.html#a2b809a60626119f6bcf595bd3581c2be", null ],
-    [ "Register", "d8/d00/a23788.html#a299f84e9c12406c79a56999a13de5c1c", null ]
+    [ "npc_lord_sanguinar", "d8/d00/a23788.html#aa5ec2023d72561fe9cf062a2ba5a5469", null ],
+    [ "ScheduleEvents", "d8/d00/a23788.html#af9231da98547875527a519c5884cbec0", null ]
 ];

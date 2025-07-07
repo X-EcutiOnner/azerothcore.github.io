@@ -1,6 +1,6 @@
 var a20864 =
 [
-    [ "boss_yoggsaron_neltharionAI", "dc/d62/a20868.html", "dc/d62/a20868" ],
-    [ "boss_yoggsaron_neltharion", "d0/dad/a20864.html#a9910e0d6043e7738cba0fe9ae7e92898", null ],
-    [ "GetAI", "d0/dad/a20864.html#abce5f59c35f7af3e1d5b30cc55ff48e6", null ]
+    [ "boss_yoggsaron_lich_kingAI", "dc/d62/a20868.html", "dc/d62/a20868" ],
+    [ "boss_yoggsaron_lich_king", "d0/dad/a20864.html#a1655d608683e90ccafd350204eed2d31", null ],
+    [ "GetAI", "d0/dad/a20864.html#aa65cd9c9eafba12ae065903868ee5319", null ]
 ];

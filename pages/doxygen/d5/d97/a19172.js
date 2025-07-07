@@ -1,6 +1,5 @@
 var a19172 =
 [
-    [ "boss_malygosAI", "de/d5a/a19176.html", "de/d5a/a19176" ],
-    [ "boss_malygos", "d5/d97/a19172.html#aeac3c63d4ccd2947a6f7e4c007dc6aa1", null ],
-    [ "GetAI", "d5/d97/a19172.html#a9e1d821311fa8b92318a99ea79ddb1e3", null ]
+    [ "npc_mr_bigglesworth", "d5/d97/a19172.html#a51e81be4146e8e40a82ecf4018cb955d", null ],
+    [ "JustDied", "d5/d97/a19172.html#a3d5957253ef3af4f48f5bfaf4d93ce0f", null ]
 ];

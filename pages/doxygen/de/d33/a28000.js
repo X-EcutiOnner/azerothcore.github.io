@@ -1,7 +1,9 @@
 var a28000 =
 [
-    [ "Displayid", "de/d33/a28000.html#adc5aee11b1e27752576b0b98156d3b3c", null ],
-    [ "ExtendedDisplayInfoID", "de/d33/a28000.html#a174d6f73393e6dcfeecf487fc09c2e6f", null ],
-    [ "ModelId", "de/d33/a28000.html#ada31381a4ee360e2fcb68403bc6d14e5", null ],
-    [ "scale", "de/d33/a28000.html#ae15b89669bf5d711cc57c21d8c8be0dd", null ]
+    [ "CinematicSequence", "de/d33/a28000.html#a7a0a35bbb69320565d991f4a349dc01b", null ],
+    [ "ClassID", "de/d33/a28000.html#a9da8d8d20126e9dc161b1dd64a19fe59", null ],
+    [ "expansion", "de/d33/a28000.html#a7c57eabd8d94849cd8536b013a8d4138", null ],
+    [ "name", "de/d33/a28000.html#a2d0b7155b03af29bd982f31eba26ec24", null ],
+    [ "powerType", "de/d33/a28000.html#a74aec35dc161a7e830453b9365a6f107", null ],
+    [ "spellfamily", "de/d33/a28000.html#a43fbe48c99e297ea09e9e1f2edd6a4ea", null ]
 ];

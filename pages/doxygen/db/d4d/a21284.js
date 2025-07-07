@@ -1,6 +1,6 @@
 var a21284 =
 [
-    [ "boss_ichoronAI", "d9/da9/a21288.html", "d9/da9/a21288" ],
-    [ "boss_ichoron", "db/d4d/a21284.html#ad4390da77a130edaf050d0bef3926882", null ],
-    [ "GetAI", "db/d4d/a21284.html#a68051088dc2d2c738b042e2df0436b28", null ]
+    [ "boss_erekemAI", "d9/da9/a21288.html", "d9/da9/a21288" ],
+    [ "boss_erekem", "db/d4d/a21284.html#ab618380bd8f8c199ca85f1fe8a67db4d", null ],
+    [ "GetAI", "db/d4d/a21284.html#aa472a21bf4a855ba75bc7de05cce494c", null ]
 ];

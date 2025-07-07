@@ -25,10 +25,12 @@ var a05360 =
     [ "Unload", "d1/d68/a05360.html#a9009801fac483699b59e2682568ef859", null ],
     [ "Update", "d1/d68/a05360.html#a75fa6f12f59a26d52d01bad17b6ae97b", null ],
     [ "_batchTimer", "d1/d68/a05360.html#aff2c5e8ffb475ad21f0aa65628ff570c", null ],
+    [ "_bucket", "d1/d68/a05360.html#a733fad863e25309ae91b241c7847eb0d", null ],
     [ "_databaseName", "d1/d68/a05360.html#a3c96e42f0a86453dc634367e701f5d1a", null ],
     [ "_dataStream", "d1/d68/a05360.html#a1063712aaca72d92ec956faca429367e", null ],
     [ "_enabled", "d1/d68/a05360.html#a9cd2480c3f41c12433a663faa88d1ed5", null ],
     [ "_hostname", "d1/d68/a05360.html#a069ffe856af041ad52e7a3457a879f1c", null ],
+    [ "_org", "d1/d68/a05360.html#ac79c40752899dfe70aa873259a6ea0ac", null ],
     [ "_overallStatusLogger", "d1/d68/a05360.html#a7cedc55a1862c055a0a78e2230890920", null ],
     [ "_overallStatusTimer", "d1/d68/a05360.html#aaae9789c14c301c4d4568755c1e879cd", null ],
     [ "_overallStatusTimerInterval", "d1/d68/a05360.html#a5f5943d40f6a4e0d1f3694aca6acd630", null ],
@@ -37,5 +39,7 @@ var a05360 =
     [ "_queuedData", "d1/d68/a05360.html#ae178c518e4b2717168816252a6c64e29", null ],
     [ "_realmName", "d1/d68/a05360.html#a66247a532448986aee8f1f59696f34b8", null ],
     [ "_thresholds", "d1/d68/a05360.html#aedac5a2cafadfd12328cb2c6ae8e3d3c", null ],
-    [ "_updateInterval", "d1/d68/a05360.html#a64a3abc9f45f3e2f0d07da6e4ab51d9c", null ]
+    [ "_token", "d1/d68/a05360.html#ad3b2998c526a8c571a32cb3c7a8e7c73", null ],
+    [ "_updateInterval", "d1/d68/a05360.html#a64a3abc9f45f3e2f0d07da6e4ab51d9c", null ],
+    [ "_useV2", "d1/d68/a05360.html#ae8672bad01631983ee33c967d20426e8", null ]
 ];

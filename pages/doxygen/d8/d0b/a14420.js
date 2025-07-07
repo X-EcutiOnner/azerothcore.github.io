@@ -1,17 +1,16 @@
 var a14420 =
 [
-    [ "npc_midsummer_ribbon_pole_target", "d8/d0b/a14420.html#ac09222eff300a11e03e8a3a1c9a3fd5f", null ],
-    [ "DoCleanupChecks", "d8/d0b/a14420.html#a5e5a67ed5492db34fd6c2e28a2cd7f74", null ],
-    [ "DoDancingFLameChecks", "d8/d0b/a14420.html#af4e76d832c3fd47eb88c1a69d0cdf9ff", null ],
-    [ "DoFireworkChecks", "d8/d0b/a14420.html#a19eb48c537d58ad8f2021e9eabe4fae2", null ],
-    [ "DoFlameCircleChecks", "d8/d0b/a14420.html#af37e104b67dcf9a2c181c142d56cc708", null ],
-    [ "DoGroundFlowerChecks", "d8/d0b/a14420.html#a0a9961eb0c2d5afde8f96bb0580d1974", null ],
-    [ "DoSpewLavaChecks", "d8/d0b/a14420.html#a94086429fe5cf506c64ea79ebcf03317", null ],
-    [ "LocateRibbonPole", "d8/d0b/a14420.html#a55f16f2ced0045ea373e9d0a239301d1", null ],
-    [ "SpawnFireSpiralBunny", "d8/d0b/a14420.html#ae91d1899212fa391f6ae4ec3a1de6e85", null ],
-    [ "SpellHit", "d8/d0b/a14420.html#ab732995946655894611eb1c12ce4e8a8", null ],
-    [ "UpdateAI", "d8/d0b/a14420.html#affeb3025627dd5697f0c4dccab66d3b6", null ],
-    [ "_bunny", "d8/d0b/a14420.html#a0161d569d4c1fb2e1bf69936312be8df", null ],
-    [ "_dancerList", "d8/d0b/a14420.html#a41e453f742a06bc7485e290756dbc746", null ],
-    [ "_ribbonPole", "d8/d0b/a14420.html#aeea38608ae98cd5597c104ea04e32523", null ]
+    [ "npc_midsummer_torch_target", "d8/d0b/a14420.html#a2abb5371f151c8d3c4f7247c411635a0", null ],
+    [ "CanBeSeen", "d8/d0b/a14420.html#afd53ae2c07091553025f5af7c170a046", null ],
+    [ "FillPositions", "d8/d0b/a14420.html#ae5717304f44407fb34713990d15279d4", null ],
+    [ "SelectPosition", "d8/d0b/a14420.html#a4d35d972cafccf892bfd3adb255e1c5b", null ],
+    [ "SetPlayerGUID", "d8/d0b/a14420.html#ab4b115eb02ce96996e06cafd8a1cd867", null ],
+    [ "SpellHit", "d8/d0b/a14420.html#a93a6b9ebbda5685a5d2caa1bc9e06941", null ],
+    [ "UpdateAI", "d8/d0b/a14420.html#a2c3431cab03347f3f64c95742b2f5a35", null ],
+    [ "counter", "d8/d0b/a14420.html#a165c1c1a406256f5651fb01ef6843531", null ],
+    [ "maxCount", "d8/d0b/a14420.html#aaf046d64175bcd1382e475843128a139", null ],
+    [ "playerGUID", "d8/d0b/a14420.html#ad25b68318dc06ad9c835e81b73d4a766", null ],
+    [ "posVec", "d8/d0b/a14420.html#a72a71ea9db5c4f3aeb3edca285f94935", null ],
+    [ "startTimer", "d8/d0b/a14420.html#a7bbd7251f3cf0ad46c8584b42b41ea6d", null ],
+    [ "teleTimer", "d8/d0b/a14420.html#a22190728dc2b82db70eeb0caa8531647", null ]
 ];

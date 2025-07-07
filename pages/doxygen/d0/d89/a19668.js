@@ -1,6 +1,6 @@
 var a19668 =
 [
-    [ "go_celestial_planetarium_accessAI", "df/df6/a19672.html", "df/df6/a19672" ],
-    [ "go_celestial_planetarium_access", "d0/d89/a19668.html#a20b7c895dd0fc2cb37bf3c113bf91278", null ],
-    [ "GetAI", "d0/d89/a19668.html#a4fc9ac64f7dceefbdda02297f7dfc42b", null ]
+    [ "npc_living_constellationAI", "df/df6/a19672.html", "df/df6/a19672" ],
+    [ "npc_living_constellation", "d0/d89/a19668.html#a6ee651a525498cb5715ccfedaa26e05d", null ],
+    [ "GetAI", "d0/d89/a19668.html#a4533812a4da72c0d9eff6d6c9eaf772a", null ]
 ];

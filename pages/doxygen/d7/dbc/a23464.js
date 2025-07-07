@@ -1,8 +1,11 @@
 var a23464 =
 [
-    [ "instance_gruuls_lair_InstanceMapScript", "d7/dbc/a23464.html#a1ad656ccd4d41c756c4f525d079fd9b6", null ],
-    [ "GetData", "d7/dbc/a23464.html#a410630dbbe00acf0b69603cfc357d503", null ],
-    [ "SetBossState", "d7/dbc/a23464.html#a9f0752eb0ec1d9ca0681ddc5fc8d3752", null ],
-    [ "SetData", "d7/dbc/a23464.html#a4cbe09489797fa0076d976f9a717a2bd", null ],
-    [ "_addsKilled", "d7/dbc/a23464.html#a7a003811fcf620f3c2d11ff3498cb298", null ]
+    [ "boss_kiggler_the_crazed", "d7/dbc/a23464.html#a6f6cd74a8d2b12809f2710f784340fda", null ],
+    [ "AttackStart", "d7/dbc/a23464.html#a47c18487637dcb911852573e3aec85a2", null ],
+    [ "JustDied", "d7/dbc/a23464.html#acf82f68ccfeabd33bc387dbe7ea0e997", null ],
+    [ "JustEngagedWith", "d7/dbc/a23464.html#acd10951a5b148579d0bd4196cc2e686e", null ],
+    [ "Reset", "d7/dbc/a23464.html#a3bd8ca2488b2db298a198038a849189e", null ],
+    [ "UpdateAI", "d7/dbc/a23464.html#a16e2b767ca4b05eba79726ccb6e11204", null ],
+    [ "_scheduler", "d7/dbc/a23464.html#af041c254910df663a03fcc815db635da", null ],
+    [ "instance", "d7/dbc/a23464.html#aa78db443f19814c66b977fe008de74fa", null ]
 ];

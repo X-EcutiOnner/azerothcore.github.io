@@ -1,6 +1,6 @@
 var a14568 =
 [
-    [ "HandleHit", "d0/da2/a14568.html#aec32d6b45bdcfe3a6a32c2fb7558edd1", null ],
-    [ "PrepareSpellScript", "d0/da2/a14568.html#a31fdc4d630a4a6647d2a9b1100aecdad", null ],
-    [ "Register", "d0/da2/a14568.html#a64a861b5c25df5780390aa55899393d7", null ]
+    [ "FilterTargets", "d0/da2/a14568.html#ae2d33bee9d8d8c29f07ed60bbaf3e7b0", null ],
+    [ "PrepareSpellScript", "d0/da2/a14568.html#a2b7ec1db13418f2e369faab6ec8422b4", null ],
+    [ "Register", "d0/da2/a14568.html#a6375482bd9d1fc6c6941607273c506dc", null ]
 ];

@@ -1,6 +1,8 @@
 var a19148 =
 [
-    [ "DespawnTime", "d2/d3f/a19148.html#ae14c357137f16666c74e5f7e3f77aed5", null ],
-    [ "End", "d2/d3f/a19148.html#ac87ea314ccf946eb1fa35985e35c81fd", null ],
-    [ "Start", "d2/d3f/a19148.html#a985271de503fa704a58abe3e64c3b268", null ]
+    [ "HandleAfterCast", "d2/d3f/a19148.html#ac816f81a668ac3018be8f5dc4698039b", null ],
+    [ "HandleDummy", "d2/d3f/a19148.html#a3009faa525c22779a0b2534b96821cfd", null ],
+    [ "PrepareSpellScript", "d2/d3f/a19148.html#aca38f23f080314ab73ec2494bf877716", null ],
+    [ "Register", "d2/d3f/a19148.html#aa87e57dabec6e83029f4dd84913f22ca", null ],
+    [ "Validate", "d2/d3f/a19148.html#af945e399992deb3aef5c81ad393ee50f", null ]
 ];

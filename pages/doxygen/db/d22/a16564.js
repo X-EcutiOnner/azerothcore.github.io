@@ -1,6 +1,5 @@
 var a16564 =
 [
-    [ "npc_concentrated_ballAI", "d3/d38/a16568.html", "d3/d38/a16568" ],
-    [ "npc_concentrated_ball", "db/d22/a16564.html#a1f3a873baf61157e704bcb7e524b1d46", null ],
-    [ "GetAI", "db/d22/a16564.html#add43f8cb27a699ba732d62fedd9d2f02", null ]
+    [ "boss_eydisAI", "db/d22/a16564.html#a0e97e184b2a2f610730cd3d455702955", null ],
+    [ "JustSummoned", "db/d22/a16564.html#aa5ae64cfe003a25859364a12cb871199", null ]
 ];

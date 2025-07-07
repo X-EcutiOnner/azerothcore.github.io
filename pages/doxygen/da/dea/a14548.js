@@ -1,11 +1,7 @@
 var a14548 =
 [
-    [ "boss_anetheron", "da/dea/a14548.html#a6c103caa3f137756599a75bff03a6648", null ],
-    [ "DoAction", "da/dea/a14548.html#a2fd485de26c820fec5240f9141a09964", null ],
-    [ "JustDied", "da/dea/a14548.html#a7c8b2039ee7e379bed8387b7236b7ee5", null ],
-    [ "JustEngagedWith", "da/dea/a14548.html#aa34ac87ad4014fbecb481be7896c577c", null ],
-    [ "JustSummoned", "da/dea/a14548.html#af9c156e28c7eca710d8367bd2a99387d", null ],
-    [ "KilledUnit", "da/dea/a14548.html#a4471af823278a3664574729bf5c749be", null ],
-    [ "PathEndReached", "da/dea/a14548.html#a75ed708e2769a77defa5c9a0b22dcae9", null ],
-    [ "_recentlySpoken", "da/dea/a14548.html#accd9455c3b1d536ca177be6028f3503d", null ]
+    [ "boss_azuregosAI", "d2/d78/a14552.html", "d2/d78/a14552" ],
+    [ "boss_azuregos", "da/dea/a14548.html#a48590db0037870ca5c9425a468e5ea3a", null ],
+    [ "GetAI", "da/dea/a14548.html#a3ea1fd967b8ab158a9b2bb5cdd7dcf83", null ],
+    [ "OnGossipSelect", "da/dea/a14548.html#a73220e54a3a53931e740f3c53c3bf20c", null ]
 ];

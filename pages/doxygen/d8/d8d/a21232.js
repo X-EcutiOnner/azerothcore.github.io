@@ -1,13 +1,7 @@
 var a21232 =
 [
-    [ "boss_toravonAI", "d8/d8d/a21232.html#a98474fcfbc56c7850ae054b7489eaa4f", null ],
-    [ "AttackStart", "d8/d8d/a21232.html#ac4e2ed28ba7863630cd54c8f6c11455f", null ],
-    [ "JustDied", "d8/d8d/a21232.html#ad501bb34a0014be0abc965aae5383e21", null ],
-    [ "JustEngagedWith", "d8/d8d/a21232.html#af6a6cfd1ec54546c2e70ea60f871b564", null ],
-    [ "JustSummoned", "d8/d8d/a21232.html#a431dafbcc3a6581d771e810a85a92a0b", null ],
-    [ "Reset", "d8/d8d/a21232.html#a4af8eb8863e7ee1559bc156b7f28e8d8", null ],
-    [ "UpdateAI", "d8/d8d/a21232.html#a97c16b1689cfdb7fa680381964cb272a", null ],
-    [ "events", "d8/d8d/a21232.html#ae2a3b691f1580275228204ea8ccaf846", null ],
-    [ "pInstance", "d8/d8d/a21232.html#a912bcccd309ccd1f043c5aae633e78fe", null ],
-    [ "summons", "d8/d8d/a21232.html#a56ca98fa12190d6d9d459bc5e569ae04", null ]
+    [ "HandleDummy", "d8/d8d/a21232.html#af524c771ef3a314f3c1dbaacae4f4538", null ],
+    [ "PrepareSpellScript", "d8/d8d/a21232.html#a2ad8abf39847c79ac5bc53093c487fc0", null ],
+    [ "Register", "d8/d8d/a21232.html#a45a33c0b51ed6c1dfed8d52d2f99e239", null ],
+    [ "Validate", "d8/d8d/a21232.html#a92f99501ee1582873586d2405b224f4f", null ]
 ];

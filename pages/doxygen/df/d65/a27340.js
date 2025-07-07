@@ -1,5 +1,6 @@
 var a27340 =
 [
-    [ "item_only_for_flight", "df/d65/a27340.html#a8f905266dc8f24cf35598a37e7018ff7", null ],
-    [ "OnUse", "df/d65/a27340.html#a88cdf17a85630aef703f93143ba41d4d", null ]
+    [ "guard_shattrath_scryerAI", "d6/d21/a27344.html", "d6/d21/a27344" ],
+    [ "guard_shattrath_scryer", "df/d65/a27340.html#a2ee4d6881d7c24cd848c590b84207663", null ],
+    [ "GetAI", "df/d65/a27340.html#ab1d937102f63c63de4c92e45eff2c21c", null ]
 ];

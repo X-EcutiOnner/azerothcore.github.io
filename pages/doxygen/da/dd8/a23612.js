@@ -1,7 +1,6 @@
 var a23612 =
 [
-    [ "HandleOnApply", "da/dd8/a23612.html#a4d14f81325ecd0bde345d60a135ad8ba", null ],
-    [ "HandleOnRemove", "da/dd8/a23612.html#aed5f87523c58d94c8f98b76c06abb140", null ],
-    [ "PrepareAuraScript", "da/dd8/a23612.html#ab32413873bec92540f9e85e8013b7ea2", null ],
-    [ "Register", "da/dd8/a23612.html#a0653d8688f98822580a3243a0d47c17a", null ]
+    [ "boss_porung", "da/dd8/a23612.html#acef31010461bbf716ac9b13d950807ee", null ],
+    [ "JustDied", "da/dd8/a23612.html#ac5c36f875692f49d1d0195694d85e5c1", null ],
+    [ "JustEngagedWith", "da/dd8/a23612.html#a9d44f51e4710e01bdc7d345ff3bba9dc", null ]
 ];

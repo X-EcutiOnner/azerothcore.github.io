@@ -1,6 +1,6 @@
 var a16128 =
 [
-    [ "npc_living_infernoAI", "da/d38/a16132.html", "da/d38/a16132" ],
-    [ "npc_living_inferno", "dc/d8e/a16128.html#a7df2bb522e67b6f1864604c7b0182078", null ],
-    [ "GetAI", "dc/d8e/a16128.html#a53f0bbd0a502374664cfa54140f4b8c0", null ]
+    [ "PrepareSpellScript", "dc/d8e/a16128.html#a743f910c3854e2c4e726e97c55fa7038", null ],
+    [ "Register", "dc/d8e/a16128.html#a3b9b2ffa90f58a5da93fd369e11c6216", null ],
+    [ "RemoveNotBetween", "dc/d8e/a16128.html#aba462e5b8e9336a508d19606f98750b5", null ]
 ];

@@ -1,8 +1,7 @@
 var a28344 =
 [
-    [ "TimeSeg", "dc/dec/a28344.html#ab94639ba8e26b215ebd31163967574d3", null ],
-    [ "TransportEntry", "dc/dec/a28344.html#a859d25b3c11839ad7e37facd40dc79df", null ],
-    [ "X", "dc/dec/a28344.html#a8fbd166503396e33a4ad77448bf307ea", null ],
-    [ "Y", "dc/dec/a28344.html#a67c279b26cebd8e5c81c36576b145af6", null ],
-    [ "Z", "dc/dec/a28344.html#a680689c57479a2cc1ec72ab97204d3e7", null ]
+    [ "from", "dc/dec/a28344.html#a8e87b02059c2c1e4b1dd2760c99cb004", null ],
+    [ "ID", "dc/dec/a28344.html#a4375feed48ce5ac7291dced992c9bbf4", null ],
+    [ "price", "dc/dec/a28344.html#a44fc4c13d3426fcbc7b1108e513973de", null ],
+    [ "to", "dc/dec/a28344.html#a6b24cdac137b2b8d9472b5d1aca4178f", null ]
 ];

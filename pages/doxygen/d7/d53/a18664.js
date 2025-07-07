@@ -1,7 +1,6 @@
 var a18664 =
 [
-    [ "Land", "d7/d53/a18664.html#ad2fd3d7c81e3ef22cb3767914f649fd0", null ],
-    [ "PrepareSpellScript", "d7/d53/a18664.html#a31e45adb87719c311fb5b94b2b744487", null ],
-    [ "Register", "d7/d53/a18664.html#a652eca6ec8079b2835d911807857c8a8", null ],
-    [ "RemoveAliveTarget", "d7/d53/a18664.html#abdb5f624b30a046eed9ca6ad7c347010", null ]
+    [ "HandleEvent", "d7/d53/a18664.html#a7936a64a1142a47b2addfd746dccfcef", null ],
+    [ "PrepareSpellScript", "d7/d53/a18664.html#a00e2be07131c674558d0364df98849ab", null ],
+    [ "Register", "d7/d53/a18664.html#a89364583504d2eaa75473586850bc3d5", null ]
 ];

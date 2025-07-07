@@ -1,6 +1,6 @@
 var a16452 =
 [
-    [ "npc_toc_pet_hunterAI", "d4/d4b/a16456.html", "d4/d4b/a16456" ],
-    [ "npc_toc_pet_hunter", "dd/dcf/a16452.html#a1aa59cca8cd71e9f17fb9f55cf03c1da", null ],
-    [ "GetAI", "dd/dcf/a16452.html#a9febc3086b0627324277f45d49cdd03f", null ]
+    [ "npc_toc_retro_paladinAI", "d4/d4b/a16456.html", "d4/d4b/a16456" ],
+    [ "npc_toc_retro_paladin", "dd/dcf/a16452.html#abfb15148aefe186447cfdb3a2c8749c4", null ],
+    [ "GetAI", "dd/dcf/a16452.html#a1213c99792aa4362275bc827aa2f037e", null ]
 ];

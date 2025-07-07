@@ -1,4 +1,6 @@
 var a28464 =
 [
-    [ "SetType", "d3/d74/a28464.html#ad2fd1d002f4a95b778a8d5ba819eba42", null ]
+    [ "SetUp", "d3/d74/a28464.html#af04bbb2661f10d3bf442c590ebdf1a2b", null ],
+    [ "TearDown", "d3/d74/a28464.html#a3bc271279472966f9dae906f9f77119b", null ],
+    [ "confFilePath", "d3/d74/a28464.html#aaaccdda1669c76b94483bf2db2615d4e", null ]
 ];

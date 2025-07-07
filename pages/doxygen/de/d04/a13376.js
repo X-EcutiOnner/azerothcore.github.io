@@ -1,8 +1,9 @@
 var a13376 =
 [
-    [ "HandleApply", "de/d04/a13376.html#a717e3428afd59fa3a5e9916887d88273", null ],
-    [ "HandleRemove", "de/d04/a13376.html#ae389028340dc25ee0260ed3e9f1d5ceb", null ],
-    [ "PrepareAuraScript", "de/d04/a13376.html#a58e6bae0c4c203c704cfa6cfdd6d560f", null ],
-    [ "Register", "de/d04/a13376.html#ac2ba66696c791d47c7c485aec6028f0b", null ],
-    [ "Validate", "de/d04/a13376.html#a393a46618a4e1928b8149e04b4823726", null ]
+    [ "npc_dark_fiend", "de/d04/a13376.html#a8c4ebf7ba2f991df7053d40108330609", null ],
+    [ "DamageTaken", "de/d04/a13376.html#a39daa01688ec4ddadf9f1d185faa3f48", null ],
+    [ "Reset", "de/d04/a13376.html#a5622d14f84ad8e47da773852f1778d56", null ],
+    [ "UpdateAI", "de/d04/a13376.html#ab4a7cbc09f4b830039cf4c6f59b2b30e", null ],
+    [ "_lastVictimGUID", "de/d04/a13376.html#abcccb35701f21d417e3c13709cc24281", null ],
+    [ "_spellCast", "de/d04/a13376.html#a4cde5fbbeedfc7ed2907a2b797f6aafa", null ]
 ];

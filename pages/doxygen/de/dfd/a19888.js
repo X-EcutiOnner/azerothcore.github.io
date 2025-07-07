@@ -1,6 +1,6 @@
 var a19888 =
 [
-    [ "npc_storm_beacon_spawnAI", "da/dc0/a19892.html", "da/dc0/a19892" ],
-    [ "npc_storm_beacon_spawn", "de/dfd/a19888.html#a0316646f43fd0ed6fe4576bf691116a0", null ],
-    [ "GetAI", "de/dfd/a19888.html#a780dd823962e259dbeda7089224aa23e", null ]
+    [ "npc_pool_of_tarAI", "da/dc0/a19892.html", "da/dc0/a19892" ],
+    [ "npc_pool_of_tar", "de/dfd/a19888.html#a9c585318b4507babe77b3ba758b06a87", null ],
+    [ "GetAI", "de/dfd/a19888.html#ae77bf48a72ce49f821085f32127e91dc", null ]
 ];

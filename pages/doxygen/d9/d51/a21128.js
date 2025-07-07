@@ -1,5 +1,6 @@
 var a21128 =
 [
-    [ "go_harpoon_canon", "d9/d51/a21128.html#aa7651e111cade00bbbdb9d0feced03e6", null ],
-    [ "OnGossipHello", "d9/d51/a21128.html#ad0098bafd1233636bde181312126e65f", null ]
+    [ "boss_skadiAI", "d7/dd9/a21132.html", "d7/dd9/a21132" ],
+    [ "boss_skadi", "d9/d51/a21128.html#a124c1c1de7ba232b3256a65547370464", null ],
+    [ "GetAI", "d9/d51/a21128.html#a4b66199169442af5ec6542be71c19033", null ]
 ];

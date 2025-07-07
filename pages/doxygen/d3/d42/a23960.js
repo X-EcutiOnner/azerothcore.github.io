@@ -1,7 +1,5 @@
 var a23960 =
 [
-    [ "HandleEffect", "d3/d42/a23960.html#acb353dbdd050bfc6aa4b4b5f6433dc03", null ],
-    [ "PrepareSpellScript", "d3/d42/a23960.html#ad95bc33917e1aa968eedc636f6e3ddcb", null ],
-    [ "Register", "d3/d42/a23960.html#ac2b2bd2581a638553167d5c8099a70cd", null ],
-    [ "Validate", "d3/d42/a23960.html#a7702b0e876ab5ccd750d1072ee70ed69", null ]
+    [ "go_simon_cluster", "d3/d42/a23960.html#adac53a8451abd6ace227a66afc7e61e8", null ],
+    [ "OnGossipHello", "d3/d42/a23960.html#a9fd9799604de44c91803511c45b67786", null ]
 ];

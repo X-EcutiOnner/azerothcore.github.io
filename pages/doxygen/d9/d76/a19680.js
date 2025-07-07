@@ -1,6 +1,8 @@
 var a19680 =
 [
-    [ "HandlePeriodic", "d9/d76/a19680.html#a0a77c0b232e24e5cb8b3392ac8adbd3a", null ],
-    [ "PrepareAuraScript", "d9/d76/a19680.html#a7c6b6839da4a93f656800c9ae174c832", null ],
-    [ "Register", "d9/d76/a19680.html#ae28e67baa12488e248efd46ef5a7cb11", null ]
+    [ "npc_algalon_worm_holeAI", "d9/d76/a19680.html#a07b36b40972bebea6b17890aa8fee50c", null ],
+    [ "JustSummoned", "d9/d76/a19680.html#a148de5da4502813e369ec6c52b1671a0", null ],
+    [ "Reset", "d9/d76/a19680.html#a915a8e5e23062cb10da9a3dbe387cf51", null ],
+    [ "UpdateAI", "d9/d76/a19680.html#a9df88d81aa4f4dd7e1dcdf6209832c32", null ],
+    [ "_summonTimer", "d9/d76/a19680.html#a73a55560e5ff7957d883f732bc0d2a82", null ]
 ];

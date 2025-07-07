@@ -1,7 +1,7 @@
 var a16336 =
 [
-    [ "npc_toc_druidAI", "d7/da0/a16336.html#adb456f1f93be5329174a3199c9092825", null ],
-    [ "myCanCast", "d7/da0/a16336.html#af82baa22ae49ba268f494cb07287845e", null ],
-    [ "UpdateAI", "d7/da0/a16336.html#a82a22a557db647f73690d8838a635eaf", null ],
-    [ "events", "d7/da0/a16336.html#a6bb27baf17f0286db3222287a8073bd7", null ]
+    [ "HandleEffectPeriodic", "d7/da0/a16336.html#a58336f6a693d91b4fcb151b7eb5c1201", null ],
+    [ "PrepareAuraScript", "d7/da0/a16336.html#a6dffb84e2c65f030e24a86e23f42c7e3", null ],
+    [ "Register", "d7/da0/a16336.html#ad3485b1ab83d4a49713dfd3335b672fd", null ],
+    [ "Validate", "d7/da0/a16336.html#a5f3c8e5ddcdcefc4e335e604416890d5", null ]
 ];

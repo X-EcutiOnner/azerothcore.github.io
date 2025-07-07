@@ -1,6 +1,5 @@
 var a13948 =
 [
-    [ "HandleOnHit", "dc/d4d/a13948.html#a1f133ab9e85f80c225276bf744da6898", null ],
-    [ "PrepareSpellScript", "dc/d4d/a13948.html#ae554f8be36eabc6d23f823e6d153be2b", null ],
-    [ "Register", "dc/d4d/a13948.html#a1063358ed71ded8454f35f43442354ab", null ]
+    [ "at_zulgurub_bloodfire_pit_speech", "dc/d4d/a13948.html#a880058a08d7da3b8d3062a8bc17367a4", null ],
+    [ "_OnTrigger", "dc/d4d/a13948.html#a8f1e477942ba9a5f653077632a98930f", null ]
 ];

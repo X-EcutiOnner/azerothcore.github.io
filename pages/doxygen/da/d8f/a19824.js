@@ -1,6 +1,6 @@
 var a19824 =
 [
-    [ "boss_flame_leviathan_defense_turretAI", "de/da7/a19828.html", "de/da7/a19828" ],
-    [ "boss_flame_leviathan_defense_turret", "da/d8f/a19824.html#a939c66ff6c1eb6dfdb3d93b3d0292e40", null ],
-    [ "GetAI", "da/d8f/a19824.html#a1c3726e2b753cda18bd11d8f4ff154db", null ]
+    [ "boss_flame_leviathanAI", "de/da7/a19828.html", "de/da7/a19828" ],
+    [ "boss_flame_leviathan", "da/d8f/a19824.html#af4fcd38fc7095701c6c31674d849aef4", null ],
+    [ "GetAI", "da/d8f/a19824.html#a3a402b002472bfe4347b512f21654c50", null ]
 ];

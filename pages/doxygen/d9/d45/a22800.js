@@ -1,7 +1,7 @@
 var a22800 =
 [
-    [ "PrepareAuraScript", "d9/d45/a22800.html#ae6879f1d8c27f19cf3e3ada0b34d568f", null ],
-    [ "ReflectDamage", "d9/d45/a22800.html#acde2cbf4d196cba1fa2c02393c08fe9f", null ],
-    [ "Register", "d9/d45/a22800.html#aa1f27d25209f14dd8bf711bc15cb9165", null ],
-    [ "Validate", "d9/d45/a22800.html#aa730b912aadcde53f6cd94c2a8c99493", null ]
+    [ "boss_veras_darkshadow", "d9/d45/a22800.html#a7b33a5c8257954951ed19a2f8ce17b95", null ],
+    [ "JustEngagedWith", "d9/d45/a22800.html#a5eec3e70a7950073eced60d680ff6298", null ],
+    [ "JustSummoned", "d9/d45/a22800.html#afd6cb716cfdebccde99d71e1eb797d33", null ],
+    [ "UpdateAI", "d9/d45/a22800.html#a21f23998e3c3ecb79cbfa3c0d778f2d5", null ]
 ];

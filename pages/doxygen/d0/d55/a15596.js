@@ -1,6 +1,7 @@
 var a15596 =
 [
-    [ "npc_twiggy_flatheadAI", "d8/d09/a15600.html", "d8/d09/a15600" ],
-    [ "npc_twiggy_flathead", "d0/d55/a15596.html#a36e8ae89c9138e1a88c84ecbfd694963", null ],
-    [ "GetAI", "d0/d55/a15596.html#a48c48994c199502bc3cfb96bf713bc5f", null ]
+    [ "npc_giltharesAI", "d8/d09/a15600.html", "d8/d09/a15600" ],
+    [ "npc_gilthares", "d0/d55/a15596.html#af1e0746350b32b68825710e1c3ed91a5", null ],
+    [ "GetAI", "d0/d55/a15596.html#a96293e28237a092c64f6a91d91bc7ff3", null ],
+    [ "OnQuestAccept", "d0/d55/a15596.html#a018cc6240a79216acb371241f63e3234", null ]
 ];

@@ -1,6 +1,7 @@
 var a17472 =
 [
-    [ "Cooldown", "df/dca/a17472.html#ac2f21814be8269023a2069f3eb03dfe2", null ],
-    [ "Entry", "df/dca/a17472.html#a28ff8bdab669f7b4aec95857cc460a2f", null ],
-    [ "TargetPosition", "df/dca/a17472.html#ac47af49622012b4ad40357cadc5214b3", null ]
+    [ "HandleScript", "df/dca/a17472.html#a101e5e995dd27dcc6b6a4b475eed0989", null ],
+    [ "PrepareSpellScript", "df/dca/a17472.html#a8f668b88a41585cabeace574b30b4f85", null ],
+    [ "Register", "df/dca/a17472.html#a8fae161a91fae297b99079bde218ced8", null ],
+    [ "Validate", "df/dca/a17472.html#a4d1a8c28eefff22afdbf15ab57a6a7fd", null ]
 ];

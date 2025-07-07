@@ -1,7 +1,27 @@
 var a14716 =
 [
-    [ "npc_cos_chromie_middle", "d5/dd8/a14716.html#a1bb7229781c122d362e781d2737d0fd3", null ],
-    [ "OnGossipHello", "d5/dd8/a14716.html#a105b62bd24fe3912c0f66c234a6dc670", null ],
-    [ "OnGossipSelect", "d5/dd8/a14716.html#a37ebdd257ef22554c81cf3c062856141", null ],
-    [ "OnQuestAccept", "d5/dd8/a14716.html#a6af52ce23a90e7d8418e2c414c9c0fd4", null ]
+    [ "npc_arthasAI", "d5/dd8/a14716.html#abaddb70881894577e50a01294ab1c8de", null ],
+    [ "DoAction", "d5/dd8/a14716.html#ac54fa660cf90d16e8088d15d2faf59c9", null ],
+    [ "GetEventNpc", "d5/dd8/a14716.html#aae8b1d8c4e51aadfb46e8ed664ce3c74", null ],
+    [ "JustDied", "d5/dd8/a14716.html#a22ff78f354f7bfcc4bda3eba934a1953", null ],
+    [ "JustEngagedWith", "d5/dd8/a14716.html#aace0b9c977da69b311eecf6de0cf42bb", null ],
+    [ "JustSummoned", "d5/dd8/a14716.html#a2e582bfb89c21ec6bc1451b70d0664ea", null ],
+    [ "ReorderInstance", "d5/dd8/a14716.html#aca7309b36c531ffdbdee842a69d11e84", null ],
+    [ "Reset", "d5/dd8/a14716.html#a4d839cda5bd7a6e20b2ee3052624f23a", null ],
+    [ "ScheduleNextEvent", "d5/dd8/a14716.html#a17eb5452fed26a8c4f64dd41b018fe74", null ],
+    [ "SendNextWave", "d5/dd8/a14716.html#ace215df8a11c009aa5b4f29ffa6ec5e3", null ],
+    [ "SpawnTimeRift", "d5/dd8/a14716.html#aa4908055e48e76ee1189c7bc7046b01d", null ],
+    [ "SummonedCreatureDespawn", "d5/dd8/a14716.html#a29e7be7b161f8add8e7f502dc29efcb2", null ],
+    [ "SummonedCreatureDies", "d5/dd8/a14716.html#a28044cc9374c63dd7cd853918eeab5bd", null ],
+    [ "SummonNextWave", "d5/dd8/a14716.html#abf90e835139da0fdfca443a690e49a0b", null ],
+    [ "UpdateAI", "d5/dd8/a14716.html#ac17e7dd501117025ea07c3d834e4e598", null ],
+    [ "WaypointReached", "d5/dd8/a14716.html#a32c42420cad46b39db528611893ffc12", null ],
+    [ "actionEvents", "d5/dd8/a14716.html#a581e9b0704ebb1d154e81b772dcf5dea", null ],
+    [ "combatEvents", "d5/dd8/a14716.html#a4ca63fe136d8acacedb1a3770c36beab", null ],
+    [ "eventInRun", "d5/dd8/a14716.html#abd0371c89f2d0986c73ac26080b61a4e", null ],
+    [ "pInstance", "d5/dd8/a14716.html#a57aa8b51d0c55b196dbbcc6aa4e300c3", null ],
+    [ "summons", "d5/dd8/a14716.html#a820fda0dce1083821b7a121e8ffc148a", null ],
+    [ "timeRiftId", "d5/dd8/a14716.html#aa1896b017eecc8a87715ac0cd2383266", null ],
+    [ "waveGroupId", "d5/dd8/a14716.html#a552bf13e89cb6f5fe9a79c596a3d7b99", null ],
+    [ "waveKillCount", "d5/dd8/a14716.html#a37d5ead96159ee03d31a2ac3bcf955de", null ]
 ];

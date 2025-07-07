@@ -1,9 +1,9 @@
 var a21552 =
 [
-    [ "npc_warmage_coldarraAI", "d5/d84/a21552.html#a9a8c2afff61ad8457aab8a9c23a4b755", null ],
-    [ "AttackStart", "d5/d84/a21552.html#a41277824ae3f6bd9a099894b6dfc7537", null ],
-    [ "JustEngagedWith", "d5/d84/a21552.html#a23a8999e34142201c6ceadc64a3df6c2", null ],
-    [ "Reset", "d5/d84/a21552.html#adf5094ba2bee34ec793124e798d5af8f", null ],
-    [ "UpdateAI", "d5/d84/a21552.html#a14b221265cc38b4061c52b687274a398", null ],
-    [ "m_uiTimer", "d5/d84/a21552.html#a338ad26d40d395dfc6ed7e8fedcc6d60", null ]
+    [ "npc_bonker_togglevoltAI", "d5/d84/a21552.html#adfd43a6a804a35e235262e55f0155ffe", null ],
+    [ "JustDied", "d5/d84/a21552.html#a5ac6e89ad9ad3d3d69a87f7b9dc4026f", null ],
+    [ "Reset", "d5/d84/a21552.html#a13efa2a2a0c5c796b3fd9f36a54ce523", null ],
+    [ "UpdateEscortAI", "d5/d84/a21552.html#a9bf17d7ec59d800955c131dbe14a31d8", null ],
+    [ "WaypointReached", "d5/d84/a21552.html#a06dc6c018d52f1cd1b2c7f76dbda3a2d", null ],
+    [ "Bonker_agro", "d5/d84/a21552.html#a395e6e14f03cb0ecfe70348cc148d7ef", null ]
 ];

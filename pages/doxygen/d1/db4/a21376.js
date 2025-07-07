@@ -1,10 +1,6 @@
 var a21376 =
 [
-    [ "npc_azure_invaderAI", "d1/db4/a21376.html#a85f164a6ba24d7a14d77264441a78f46", null ],
-    [ "Reset", "d1/db4/a21376.html#ada44600272b19d9416d957bc52bc3be4", null ],
-    [ "UpdateAI", "d1/db4/a21376.html#a7dfdcb2a88930c6b4150f7f7c825a2df", null ],
-    [ "uiBrutalStrikeTimer", "d1/db4/a21376.html#a4b88a85f3344edbdadde0104668509aa", null ],
-    [ "uiCleaveTimer", "d1/db4/a21376.html#a8b1792a8a405651d602d9ed634f52689", null ],
-    [ "uiImpaleTimer", "d1/db4/a21376.html#aa709ee8919a2d0317d563259c7630c99", null ],
-    [ "uiSunderArmorTimer", "d1/db4/a21376.html#ab2e6d01df033985ac29e963cf2895466", null ]
+    [ "npc_vh_teleportation_portalAI", "d4/dc9/a21380.html", "d4/dc9/a21380" ],
+    [ "npc_vh_teleportation_portal", "d1/db4/a21376.html#a9a554058f594f992a17dbb3887117a6f", null ],
+    [ "GetAI", "d1/db4/a21376.html#a0721c64c01ae69bd78dfc15637c97f49", null ]
 ];

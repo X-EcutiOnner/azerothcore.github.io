@@ -1,6 +1,5 @@
 var a28460 =
 [
-    [ "SetUp", "d6/d49/a28460.html#a5ee46555116eca62d3e8320dd5a5fbbb", null ],
-    [ "_distributor", "d6/d49/a28460.html#a6c043c7543dec59e640b379aec1ad0d0", null ],
-    [ "_mockRewarder", "d6/d49/a28460.html#ad466c2751d8e9739db56f9f82d15deff", null ]
+    [ "type", "d6/d49/a28460.html#af749459df7757d1bab17a54be813f6b6", null ],
+    [ "_type", "d6/d49/a28460.html#ab0344571616786baef4511c647a3abea", null ]
 ];

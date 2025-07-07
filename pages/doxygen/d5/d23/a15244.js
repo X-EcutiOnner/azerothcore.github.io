@@ -1,21 +1,13 @@
 var a15244 =
 [
-    [ "npc_rizzle_sprysprocketAI", "d5/d23/a15244.html#a74b59a5721c46cddf13e9532a36f6a6d", null ],
-    [ "AttackStart", "d5/d23/a15244.html#a87aa5e5e66f5f083829cf8dd78d9dc75", null ],
-    [ "JustEngagedWith", "d5/d23/a15244.html#a9c39a4c8302fb507f9c7b09ebf871c5e", null ],
-    [ "MovementInform", "d5/d23/a15244.html#a6ba4af8eee61bd6f562b25e096fcf0a8", null ],
-    [ "Reset", "d5/d23/a15244.html#a060a25159570525af2d624f3f153eadf", null ],
-    [ "sGossipSelect", "d5/d23/a15244.html#ab69a38bfe7a5b18b7f11b1f4df4c293a", null ],
-    [ "UpdateAI", "d5/d23/a15244.html#ab2b1307113e4c91af94ea3ed4cbe8697", null ],
-    [ "CheckTimer", "d5/d23/a15244.html#a2bb7b9a55427023156175bd2305a77fe", null ],
-    [ "ContinueWP", "d5/d23/a15244.html#a85b90ae315a7957eba416d9c44f457ff", null ],
-    [ "CurrWP", "d5/d23/a15244.html#acd4a2ef2157d47d3571d6c61d9dfdd4a", null ],
-    [ "Escape", "d5/d23/a15244.html#a300700dc91eb4b49ec7cbf42c998feb4", null ],
-    [ "GrenadeTimer", "d5/d23/a15244.html#ad43496d1ba134a19b49ecfae871f49ba", null ],
-    [ "MustDie", "d5/d23/a15244.html#a8eae3901791679ef5609f929ddc83fc9", null ],
-    [ "MustDieTimer", "d5/d23/a15244.html#a044f7c15ed58b67d02d6e1f6b76ad573", null ],
-    [ "PlayerGUID", "d5/d23/a15244.html#a28482e22f80316de1b2e4ebd54875f13", null ],
-    [ "Reached", "d5/d23/a15244.html#a1962eac2fa0403b965e5534d09bfc8a5", null ],
-    [ "SpellEscapeTimer", "d5/d23/a15244.html#a4f2a0f04c8c126ac4ef31a45f74f7f77", null ],
-    [ "TeleportTimer", "d5/d23/a15244.html#a4df0058661b6251c39497ee5b872c33e", null ]
+    [ "instance_wailing_caverns_InstanceMapScript", "d5/d23/a15244.html#a47e596ca151268b9c3419ff2a2fffc1c", null ],
+    [ "GetData", "d5/d23/a15244.html#a17e62e8fe06617868baf85caedc3a0fc", null ],
+    [ "Initialize", "d5/d23/a15244.html#a870ab2322971767fa37986743b31d20c", null ],
+    [ "OnCreatureCreate", "d5/d23/a15244.html#aed3807432711105589d0b060a21836cc", null ],
+    [ "ReadSaveDataMore", "d5/d23/a15244.html#ad348102f71e070e7ef12da62238c7b0f", null ],
+    [ "SetData", "d5/d23/a15244.html#a0333b4728e9288937711174743f19f60", null ],
+    [ "WriteSaveDataMore", "d5/d23/a15244.html#a78bece51279e3f9e62800e4d80b00f64", null ],
+    [ "_encounters", "d5/d23/a15244.html#a0f049806007e59363418d4e39f9e389b", null ],
+    [ "DiscipleOfNaralexGUID", "d5/d23/a15244.html#affed3fb16f4e578fe86ae171e5b641d6", null ],
+    [ "SerpentisGUID", "d5/d23/a15244.html#a7ba205e4988a20404f5e597331dd5d56", null ]
 ];

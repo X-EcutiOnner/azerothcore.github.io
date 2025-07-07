@@ -1,6 +1,6 @@
 var a18084 =
 [
-    [ "npc_sindragosa_trashAI", "de/d93/a18088.html", "de/d93/a18088" ],
-    [ "npc_sindragosa_trash", "d6/da1/a18084.html#a9634ea10e767b4d6e293fc3fdd491702", null ],
-    [ "GetAI", "d6/da1/a18084.html#ab1de715d98236a853a793d830bc601d7", null ]
+    [ "npc_rimefangAI", "de/d93/a18088.html", "de/d93/a18088" ],
+    [ "npc_rimefang", "d6/da1/a18084.html#af8ab4e318726b5250de56e3c6d09fcd2", null ],
+    [ "GetAI", "d6/da1/a18084.html#a2fce9c36b7ef1861c9dcb5db2cacf438", null ]
 ];

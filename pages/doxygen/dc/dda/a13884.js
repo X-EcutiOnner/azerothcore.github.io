@@ -1,12 +1,7 @@
 var a13884 =
 [
-    [ "npc_zulian_prowlerAI", "dc/dda/a13884.html#a367613efead335b060173011267ddcff", null ],
-    [ "JustDied", "dc/dda/a13884.html#a31258aadddfbf6c6e9e1d729452dd8b2", null ],
-    [ "JustEngagedWith", "dc/dda/a13884.html#a207504b15ecd22b78088593b80433581", null ],
-    [ "Reset", "dc/dda/a13884.html#a62d14bae970d8a70a997c683e0e94259", null ],
-    [ "SpellHit", "dc/dda/a13884.html#a4051cd786d8c1974cf80c28f907cc02a", null ],
-    [ "UpdateAI", "dc/dda/a13884.html#a708df3a95395f99f6ba3eebcc90a22ab", null ],
-    [ "_events", "dc/dda/a13884.html#a994ae5b4e72429141155d1342830e5ad", null ],
-    [ "_instance", "dc/dda/a13884.html#ad37ba6b6ff7f52a88d2a96dc4ea00c34", null ],
-    [ "_sideData", "dc/dda/a13884.html#afa44e09c5677c2fc567be6a67b766bde", null ]
+    [ "HandleEffect", "dc/dda/a13884.html#a8cda8eff109af7441d6990a236a52b80", null ],
+    [ "PrepareSpellScript", "dc/dda/a13884.html#acc2698ba702be211bef63cefa41005f4", null ],
+    [ "Register", "dc/dda/a13884.html#a5d6dccbb44a5d95055755673ad70707f", null ],
+    [ "Validate", "dc/dda/a13884.html#a0b106298aa550e4fe9e8a449ed7eaa51", null ]
 ];

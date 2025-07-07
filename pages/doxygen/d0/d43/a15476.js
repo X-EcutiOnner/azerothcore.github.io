@@ -1,9 +1,6 @@
 var a15476 =
 [
-    [ "npc_thrall_warchiefAI", "d4/d3b/a15480.html", "d4/d3b/a15480" ],
-    [ "npc_thrall_warchief", "d0/d43/a15476.html#a3958f0b444537ac8a5ebf55de44e3590", null ],
-    [ "GetAI", "d0/d43/a15476.html#a4fc3d5410b959b4289f1ced17d412c03", null ],
-    [ "OnGossipHello", "d0/d43/a15476.html#a5cd40c062fb07d2ddfffdc159f2935d3", null ],
-    [ "OnGossipSelect", "d0/d43/a15476.html#a63367ca0b252c148f625b305575fd768", null ],
-    [ "OnQuestReward", "d0/d43/a15476.html#a6576664c201d62cab1fa2f073cddee6e", null ]
+    [ "npc_giant_spotlightAI", "d4/d3b/a15480.html", "d4/d3b/a15480" ],
+    [ "npc_giant_spotlight", "d0/d43/a15476.html#a9d1c47de758c74a89c751b675d5cc4c0", null ],
+    [ "GetAI", "d0/d43/a15476.html#af002a3d0194c991c1f78c720de63cfea", null ]
 ];

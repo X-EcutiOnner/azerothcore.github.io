@@ -1,6 +1,6 @@
 var a02984 =
 [
-    [ "spell_trigger_spell_from_caster", "d8/dae/a18824.html", "d8/dae/a18824" ],
+    [ "spell_trigger_spell_from_caster", "d3/dc9/a18840.html", "d3/dc9/a18840" ],
     [ "DataHeader", "dd/d7e/a02984.html#a042491ef36459046f3866e90f15aae0d", null ],
     [ "ICCScriptName", "dd/d7e/a02984.html#a8ad0adeac0057e9785ab4fce6f4d6697", null ],
     [ "RegisterIcecrownCitadelCreatureAI", "dd/d7e/a02984.html#a371fa53b2363b7032c1326ca4717a14f", null ],

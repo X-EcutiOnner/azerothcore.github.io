@@ -1,11 +1,15 @@
 var a19296 =
 [
-    [ "boss_ormorok", "d3/d05/a19296.html#aa4862339ed41d5c593a93ef605d85a39", null ],
-    [ "JustDied", "d3/d05/a19296.html#af84a958b2f16b082fe3b2e1dc70dd8fa", null ],
-    [ "JustEngagedWith", "d3/d05/a19296.html#a22ac203db7c3b445e653798743e48764", null ],
-    [ "JustSummoned", "d3/d05/a19296.html#acc149b49e6658454610a7871e3c82b5e", null ],
-    [ "KilledUnit", "d3/d05/a19296.html#a65a1512bad7c773a0aede6ba2cb9700e", null ],
-    [ "Reset", "d3/d05/a19296.html#a88a1c308790e45a6fa09f0d740116f4e", null ],
-    [ "UpdateAI", "d3/d05/a19296.html#a15f2e30fa1780aadba6673f6537fc16f", null ],
-    [ "_spikesCount", "d3/d05/a19296.html#a29cc8c3db5ba3d528ea873d66be619cd", null ]
+    [ "boss_magus_telestra", "d3/d05/a19296.html#ac8ee0c8ac0bafa479ef6c3669c8aa430", null ],
+    [ "AttackStart", "d3/d05/a19296.html#a9ef67f8a53c5dceaf74bc156e0c6edad", null ],
+    [ "GetData", "d3/d05/a19296.html#a713f93edc709edabe003c305efdd709c", null ],
+    [ "JustDied", "d3/d05/a19296.html#ac69759755637749a58f712b86d3bf9ac", null ],
+    [ "JustEngagedWith", "d3/d05/a19296.html#a91b4569027b3414814bf1f2e86441fc6", null ],
+    [ "JustSummoned", "d3/d05/a19296.html#a1fc0f30287916d6606829987d29d9387", null ],
+    [ "KilledUnit", "d3/d05/a19296.html#a85b333905e5dcd34dbe001306924529a", null ],
+    [ "Reset", "d3/d05/a19296.html#a82dd720fe591ac1e72ce302087ea64c7", null ],
+    [ "SpellHit", "d3/d05/a19296.html#ac48bb325de6641a1f2f980f15b8e3eb4", null ],
+    [ "UpdateAI", "d3/d05/a19296.html#acd365d6bcc1e526e59344c1a907d0eeb", null ],
+    [ "achievement", "d3/d05/a19296.html#a00c4e862101679d5aa36b8e5dba4e5a2", null ],
+    [ "copiesDied", "d3/d05/a19296.html#a5738bf62869f9958448213b28c1bf771", null ]
 ];

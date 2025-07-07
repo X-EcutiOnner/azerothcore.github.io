@@ -1,7 +1,6 @@
 var a26304 =
 [
-    [ "HandleEffectPeriodic", "dc/dab/a26304.html#a9347200565cb858cf0cc9cdb897fe1dc", null ],
-    [ "PrepareAuraScript", "dc/dab/a26304.html#a5fc89b09fb226d0d9315081d64f4103e", null ],
-    [ "Register", "dc/dab/a26304.html#ac3741617faacf83a707f1359aab1886e", null ],
-    [ "Validate", "dc/dab/a26304.html#a9378252b6711cc0bec3e63efce026495", null ]
+    [ "CheckProc", "dc/dab/a26304.html#aa9cf64a1965bd7924ce5a9c639d85fb3", null ],
+    [ "PrepareAuraScript", "dc/dab/a26304.html#a87d2959523a306f85c69aa5a7a5b3de5", null ],
+    [ "Register", "dc/dab/a26304.html#a9dee4c4568f36f82b82148cb847d50ca", null ]
 ];

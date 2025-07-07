@@ -1,6 +1,6 @@
 var a17720 =
 [
-    [ "HandlePeriodicTick", "dc/de4/a17720.html#a29bf443cdb53b10032ba382b8ae44828", null ],
-    [ "PrepareAuraScript", "dc/de4/a17720.html#aa22f2997c77c25927f01d9fb1c6852b9", null ],
-    [ "Register", "dc/de4/a17720.html#a01e31df6c6ec9f6ae5bffb4b435caf8e", null ]
+    [ "npc_vengeful_shadeAI", "d3/d39/a17724.html", "d3/d39/a17724" ],
+    [ "npc_vengeful_shade", "dc/de4/a17720.html#a99c535efd94fbd5bded8fd9555bb6eaf", null ],
+    [ "GetAI", "dc/de4/a17720.html#afa2c672015b43d83bd55050ed020f7e5", null ]
 ];

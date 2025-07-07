@@ -1,5 +1,6 @@
 var a15300 =
 [
-    [ "go_bristlelimb_cage", "de/d54/a15300.html#ab965b9c529577a5e58639285fa35d3d7", null ],
-    [ "OnGossipHello", "de/d54/a15300.html#a6f29e07550767c1c0610f46e4921503f", null ]
+    [ "npc_death_ravagerAI", "dc/d2b/a15304.html", "dc/d2b/a15304" ],
+    [ "npc_death_ravager", "de/d54/a15300.html#a6aa04a28ce5aa0e467e638c8ffe11657", null ],
+    [ "GetAI", "de/d54/a15300.html#a284d0b8ccf902d3f03ddfc6750fe0f1c", null ]
 ];

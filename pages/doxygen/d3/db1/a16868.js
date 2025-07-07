@@ -1,5 +1,6 @@
 var a16868 =
 [
-    [ "at_hor_shadow_throne", "d3/db1/a16868.html#a342808808be75079acf6a2f930afe930", null ],
-    [ "OnTrigger", "d3/db1/a16868.html#a0166b1a58f4171c4d9893010df5831c4", null ]
+    [ "boss_frostsworn_generalAI", "d6/d86/a16872.html", "d6/d86/a16872" ],
+    [ "boss_frostsworn_general", "d3/db1/a16868.html#a33023712cf056eedfed1cb38e18af5dd", null ],
+    [ "GetAI", "d3/db1/a16868.html#a8e958e13999f23a81a7230fa9ece276b", null ]
 ];

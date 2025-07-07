@@ -1,14 +1,7 @@
 var a19260 =
 [
-    [ "boss_anomalus", "d1/d73/a19260.html#aa4dd8fac7c360beb834382f624ed2246", null ],
-    [ "CheckEvadeIfOutOfCombatArea", "d1/d73/a19260.html#ada0735330bff29a8c04706c980e6bbfc", null ],
-    [ "GetData", "d1/d73/a19260.html#ad48aebb50cda7ee621f71803669f04c2", null ],
-    [ "JustDied", "d1/d73/a19260.html#a41e257481921a122dba30348559e05fb", null ],
-    [ "JustEngagedWith", "d1/d73/a19260.html#a7224e8cf6e849d7115f88c7198fdb023", null ],
-    [ "JustSummoned", "d1/d73/a19260.html#a3c0413f30d96268cab724856334e61ee", null ],
-    [ "Reset", "d1/d73/a19260.html#a80bec5060c1b6747f2b418b90bcc18eb", null ],
-    [ "SetData", "d1/d73/a19260.html#aa79ec9829862b573cd0f38f965d737e8", null ],
-    [ "UpdateAI", "d1/d73/a19260.html#a5d3d77b49e256e09bbb613e810dfc60b", null ],
-    [ "achievement", "d1/d73/a19260.html#a2db4d6d2d6a19642607560e93ae8bd77", null ],
-    [ "activeRifts", "d1/d73/a19260.html#ac7632bd47c4d64ac032fd066138f22cf", null ]
+    [ "EoEDrakeEnterVehicleEvent", "d1/d73/a19260.html#afc529efe07da017e529dc6d5ebc6e7dc", null ],
+    [ "Execute", "d1/d73/a19260.html#a368a613ba7861f7903b80e6f7f0dd64f", null ],
+    [ "_owner", "d1/d73/a19260.html#ab48302fdff800afddfeec2c0d756873c", null ],
+    [ "_playerGUID", "d1/d73/a19260.html#add56bff0695453e01f300e0434a39ec8", null ]
 ];

@@ -1,6 +1,6 @@
 var a16852 =
 [
-    [ "boss_frostsworn_generalAI", "d9/d8e/a16856.html", "d9/d8e/a16856" ],
-    [ "boss_frostsworn_general", "d1/d22/a16852.html#a33023712cf056eedfed1cb38e18af5dd", null ],
-    [ "GetAI", "d1/d22/a16852.html#a8e958e13999f23a81a7230fa9ece276b", null ]
+    [ "npc_spectral_footmanAI", "d9/d8e/a16856.html", "d9/d8e/a16856" ],
+    [ "npc_spectral_footman", "d1/d22/a16852.html#a300fb06b896d2d08f9e3671422232ad2", null ],
+    [ "GetAI", "d1/d22/a16852.html#adbc1b961aba6cefb97dfff3014248735", null ]
 ];

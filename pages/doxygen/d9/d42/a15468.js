@@ -1,7 +1,6 @@
 var a15468 =
 [
-    [ "npc_shenthulAI", "d8/dcc/a15472.html", "d8/dcc/a15472" ],
-    [ "npc_shenthul", "d9/d42/a15468.html#a77815503c7d9c811fe3821232e308714", null ],
-    [ "GetAI", "d9/d42/a15468.html#a1683f8c89add6270277c59951c74027e", null ],
-    [ "OnQuestAccept", "d9/d42/a15468.html#a3a63fec338dca74eb7d071dfcc9c95b5", null ]
+    [ "npc_omenAI", "d8/dcc/a15472.html", "d8/dcc/a15472" ],
+    [ "npc_omen", "d9/d42/a15468.html#aff955303a8b9741838779a59dd496f62", null ],
+    [ "GetAI", "d9/d42/a15468.html#a8023ad3298000d9819c46f46a93166d4", null ]
 ];

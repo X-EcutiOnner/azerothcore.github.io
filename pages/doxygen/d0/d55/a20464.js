@@ -1,5 +1,5 @@
 var a20464 =
 [
-    [ "npc_ulduar_rocket_strike_triggerAI", "d0/d55/a20464.html#a6308129d11989dadf0a5948c4a268e4b", null ],
-    [ "SpellHitTarget", "d0/d55/a20464.html#a3c254e16f62e7d2414d81062c91c2468", null ]
+    [ "npc_ulduar_flames_spreadAI", "d0/d55/a20464.html#a607ee542f7c6d84f4072557e44a80905", null ],
+    [ "SpellHit", "d0/d55/a20464.html#abe69df9873fc125306a4ed757665e448", null ]
 ];

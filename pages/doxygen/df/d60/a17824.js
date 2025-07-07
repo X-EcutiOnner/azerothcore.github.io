@@ -1,7 +1,6 @@
 var a17824 =
 [
-    [ "HandleTriggerSpell", "df/d60/a17824.html#a7d7f1731c453e5d0b70e6093aeedea87", null ],
-    [ "PrepareAuraScript", "df/d60/a17824.html#afff0c81696ddcb427ce105d510ef93b1", null ],
-    [ "Register", "df/d60/a17824.html#aa50c6066115d7b60704eff48e77d10bd", null ],
-    [ "Validate", "df/d60/a17824.html#a6ef56d3d18bab2f81c810160ecf3ae96", null ]
+    [ "npc_gas_cloudAI", "d4/d2c/a17828.html", "d4/d2c/a17828" ],
+    [ "npc_gas_cloud", "df/d60/a17824.html#a99c887cb8a5cc87bbfca026447368b8e", null ],
+    [ "GetAI", "df/d60/a17824.html#a1c76a148f9c1acec473f102b6a24e3bb", null ]
 ];

@@ -1,6 +1,9 @@
 var a23676 =
 [
-    [ "instance_arcatraz_InstanceMapScript", "d8/da2/a23680.html", "d8/da2/a23680" ],
-    [ "instance_arcatraz", "d3/dab/a23676.html#a6fc8860651573353b54fd26bddea32aa", null ],
-    [ "GetInstanceScript", "d3/dab/a23676.html#ad3f78e41ef2c96443ed3bd1ba4ab55bb", null ]
+    [ "boss_dalliah_the_doomsayer", "d3/dab/a23676.html#ad6edf9623942297b28bc7420ec0cc733", null ],
+    [ "InitializeAI", "d3/dab/a23676.html#a85342ef80a64ce05f87cf7d90a8bfe79", null ],
+    [ "JustDied", "d3/dab/a23676.html#a431edc9c25fb125d7d267073eb1c1423", null ],
+    [ "JustEngagedWith", "d3/dab/a23676.html#a6d3d8d027ddb08417dd11f1606a1418f", null ],
+    [ "KilledUnit", "d3/dab/a23676.html#af28bfc1166ad45bf7bc046f5906a8b11", null ],
+    [ "Reset", "d3/dab/a23676.html#a5b4f186225a55afdf1de80b7126d10eb", null ]
 ];

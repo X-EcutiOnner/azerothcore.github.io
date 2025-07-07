@@ -1,7 +1,6 @@
 var a16460 =
 [
-    [ "HandleDispel", "da/d87/a16460.html#a7b24f38bbb7813826520f928b22d30aa", null ],
-    [ "PrepareAuraScript", "da/d87/a16460.html#a0e0424bd590cfc4f85f40728bf6efd22", null ],
-    [ "Register", "da/d87/a16460.html#a2bf6921550da3c13730fd98bded2c927", null ],
-    [ "Validate", "da/d87/a16460.html#ad8b0bb389d232c74acf106b711414fa1", null ]
+    [ "npc_toc_pet_warlockAI", "d9/dcf/a16464.html", "d9/dcf/a16464" ],
+    [ "npc_toc_pet_warlock", "da/d87/a16460.html#a4703f506d677d7e490c6813c6d9b060b", null ],
+    [ "GetAI", "da/d87/a16460.html#aebcaff82726508a14028cb22a1ef944b", null ]
 ];

@@ -1,6 +1,7 @@
 var a27528 =
 [
-    [ "npc_garments_of_questsAI", "df/daa/a27532.html", "df/daa/a27532" ],
-    [ "npc_garments_of_quests", "de/da4/a27528.html#a7e4ad68e0187c0a392ed93097b2bf0ce", null ],
-    [ "GetAI", "de/da4/a27528.html#aa8ad1c654f00e054f9b424f61716eafd", null ]
+    [ "npc_doctorAI", "df/daa/a27532.html", "df/daa/a27532" ],
+    [ "npc_doctor", "de/da4/a27528.html#a8471bcd3e83b1a7a69de7bde00846698", null ],
+    [ "GetAI", "de/da4/a27528.html#a3da4d53b2402ad7338eeb6ea463a62f6", null ],
+    [ "OnQuestAccept", "de/da4/a27528.html#a990668aee39a9fa6ec90d0f6095ce48a", null ]
 ];

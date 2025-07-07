@@ -1,7 +1,6 @@
 var a27104 =
 [
-    [ "FilterTargets", "d8/d3b/a27104.html#a5ee420ce696d23d836ff6e9e1def6405", null ],
-    [ "HandleEffect", "d8/d3b/a27104.html#a064fdac9158e35f290b51ecf9bf537b1", null ],
-    [ "PrepareSpellScript", "d8/d3b/a27104.html#a53b5772c87574beb5b295c26fe983b76", null ],
-    [ "Register", "d8/d3b/a27104.html#a5e93d0d708d2304d9166c47ad285ada5", null ]
+    [ "boss_emerissAI", "d0/d32/a27108.html", "d0/d32/a27108" ],
+    [ "boss_emeriss", "d8/d3b/a27104.html#a2d373e5add3f007cf214ad9763039aa2", null ],
+    [ "GetAI", "d8/d3b/a27104.html#a88a0696a12f12e612cce53c14f6b1f92", null ]
 ];

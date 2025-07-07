@@ -1,6 +1,6 @@
 var a21832 =
 [
-    [ "HandleDummy", "d4/db8/a21832.html#afe86744c6ab901750731fca486ff2e6c", null ],
-    [ "PrepareSpellScript", "d4/db8/a21832.html#a47e8a3187fa523c61842885f1cbd041d", null ],
-    [ "Register", "d4/db8/a21832.html#a61b1b63167b3dc562b9916ffce1e4eee", null ]
+    [ "npc_spiritual_insightAI", "d4/db8/a21832.html#ab173cd8b623fcf8c36406155c91bc4db", null ],
+    [ "GetSpeachId", "d4/db8/a21832.html#ad2dd22651470f47e7a7ba6f687ba54e9", null ],
+    [ "IsSummonedBy", "d4/db8/a21832.html#ab6b39190d1195915ea0b4b191d864da6", null ]
 ];

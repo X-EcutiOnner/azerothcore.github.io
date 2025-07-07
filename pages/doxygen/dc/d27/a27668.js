@@ -1,20 +1,13 @@
 var a27668 =
 [
-    [ "iterator", "dc/d27/a27668.html#acbe3d8adad76c063eeff0472b14e9c2d", null ],
-    [ "DBCStorage", "dc/d27/a27668.html#a1aac83146adf1d72b98f641acf133353", null ],
-    [ "~DBCStorage", "dc/d27/a27668.html#a52478c32db2c7d0bfddfc5c3f614b2c2", null ],
-    [ "DBCStorage", "dc/d27/a27668.html#af1212e7eac4a35aed1cc30d1885093d0", null ],
-    [ "AssertEntry", "dc/d27/a27668.html#a2193a31f1a96f04c113191e0e200af57", null ],
-    [ "begin", "dc/d27/a27668.html#a43338cbd450480a91ed25228611dfe89", null ],
-    [ "end", "dc/d27/a27668.html#a00d89ccb706cdf73c3cd3840333504cc", null ],
-    [ "GetNumRows", "dc/d27/a27668.html#ab7d5f0bdff10c1473c68ad5ccb71e8f1", null ],
-    [ "Load", "dc/d27/a27668.html#aad72c211d47bfeb5b82636c131507083", null ],
-    [ "LoadFromDB", "dc/d27/a27668.html#a3900db604c7fa373d55c161006f8752a", null ],
-    [ "LoadStringsFrom", "dc/d27/a27668.html#a26fd44b61cf6352b99122abb23768a97", null ],
-    [ "LookupEntry", "dc/d27/a27668.html#a6cb9477a0d94271c073f5850ad23ae07", null ],
-    [ "operator=", "dc/d27/a27668.html#ace37b566e9013928a845c981437158ae", null ],
-    [ "SetEntry", "dc/d27/a27668.html#a2e738aadf73e51ee4787a45d8b4908d3", null ],
-    [ "_indexTable", "dc/d27/a27668.html#a26882ab09ad59a8d6db222068f55c6c5", null ],
-    [ "AsChar", "dc/d27/a27668.html#a7ef1de4ced6822e264b73cbe72dcfc7c", null ],
-    [ "AsT", "dc/d27/a27668.html#a2002a0adee55fa79ec5a0cceab48b607", null ]
+    [ "DBCDatabaseLoader", "dc/d27/a27668.html#a2efbbd3799e5f72fecaeaf9365579482", null ],
+    [ "DBCDatabaseLoader", "dc/d27/a27668.html#a7d93e6d37796f341edcf25062743c5b5", null ],
+    [ "CloneStringToPool", "dc/d27/a27668.html#a68e5ae50c980aa81b051d0622575bb2d", null ],
+    [ "Load", "dc/d27/a27668.html#a1b116dca8b01e0462a2e6c08245a49a3", null ],
+    [ "operator=", "dc/d27/a27668.html#a46f7d5670840892f7a8714ce0b6cde13", null ],
+    [ "_dbcFormat", "dc/d27/a27668.html#aa749118514d0b784ac6df295bd820d8e", null ],
+    [ "_recordSize", "dc/d27/a27668.html#a6721538ebbcfe020fb195d44b3bdbd11", null ],
+    [ "_sqlIndexPos", "dc/d27/a27668.html#ac1b5b191615d3e3121ea70965b0d495a", null ],
+    [ "_sqlTableName", "dc/d27/a27668.html#ab6590071edf5311ccf484d48e4fd125e", null ],
+    [ "_stringPool", "dc/d27/a27668.html#a52b5b86f0efb8ad0716bc0171a3aa740", null ]
 ];

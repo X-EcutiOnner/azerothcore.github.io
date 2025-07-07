@@ -1,6 +1,6 @@
 var a13120 =
 [
-    [ "boss_baroness_anastariAI", "dd/d3f/a13124.html", "dd/d3f/a13124" ],
-    [ "boss_baroness_anastari", "db/da4/a13120.html#a60f04c10d9b942cacf74a1dc8364dbbe", null ],
-    [ "GetAI", "db/da4/a13120.html#a38073f80afbceb5535cc18ab524378a6", null ]
+    [ "instance_shadowfang_keep_InstanceMapScript", "dd/d3f/a13124.html", "dd/d3f/a13124" ],
+    [ "instance_shadowfang_keep", "db/da4/a13120.html#aa6817df7270fbf9397c6b66b28d0f6f8", null ],
+    [ "GetInstanceScript", "db/da4/a13120.html#a5c076ed86470247de5b4e3733b70fa25", null ]
 ];

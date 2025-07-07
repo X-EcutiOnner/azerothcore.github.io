@@ -1,9 +1,9 @@
 var a02300 =
 [
-    [ "npc_anubisath_sentinel", "db/dbf/a15172.html", "db/dbf/a15172" ],
-    [ "npc_anubisath_sentinel::aqsentinelAI", "d8/d47/a15176.html", "d8/d47/a15176" ],
-    [ "spell_anubisath_mortal_strike", "de/de6/a15180.html", "de/de6/a15180" ],
-    [ "spell_mana_burn_area", "d1/d65/a15184.html", "d1/d65/a15184" ],
+    [ "npc_anubisath_sentinel", "d3/d79/a15188.html", "d3/d79/a15188" ],
+    [ "npc_anubisath_sentinel::aqsentinelAI", "df/d23/a15192.html", "df/d23/a15192" ],
+    [ "spell_anubisath_mortal_strike", "d8/d58/a15196.html", "d8/d58/a15196" ],
+    [ "spell_mana_burn_area", "d0/d8e/a15200.html", "d0/d8e/a15200" ],
     [ "Spells", "d1/d47/a02300.html#a5bd342133be8c2137b831460acc9298c", [
       [ "SPELL_OIL_REFINERY", "d8/d13/a00671.html#a5bd342133be8c2137b831460acc9298cae2eb4db3c46b45e80cc2feb9c34f2ada", null ],
       [ "SPELL_QUARRY", "d8/d13/a00671.html#a5bd342133be8c2137b831460acc9298ca5a0922923b24c4bb6661ad8396a76e01", null ],

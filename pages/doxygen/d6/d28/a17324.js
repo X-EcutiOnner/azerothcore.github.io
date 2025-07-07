@@ -1,7 +1,6 @@
 var a17324 =
 [
-    [ "PeriodicTick", "d6/d28/a17324.html#af2419a9f9c8706e6b9a090e88f1b6f78", null ],
-    [ "PrepareAuraScript", "d6/d28/a17324.html#ac1abcbe62887678adad0194fdf27825a", null ],
-    [ "Register", "d6/d28/a17324.html#a9c92c88bf261f1da2143e7dee41a77ec", null ],
-    [ "Validate", "d6/d28/a17324.html#ae7526fcf963fe4ea3ab2f1ec7292e8d8", null ]
+    [ "PrepareSpellScript", "d6/d28/a17324.html#a86609d6cd708de9ead02c6134cbb6f64", null ],
+    [ "Register", "d6/d28/a17324.html#aceb3da4aec68cb44bcbee36f599afd62", null ],
+    [ "SetDest", "d6/d28/a17324.html#a9ed93e44df4e759fda72a63474e01b3b", null ]
 ];

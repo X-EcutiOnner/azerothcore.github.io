@@ -1,6 +1,6 @@
 var a17524 =
 [
-    [ "npc_igb_ship_crewAI", "de/de9/a17528.html", "de/de9/a17528" ],
-    [ "npc_igb_ship_crew", "d4/dfa/a17524.html#a5f4380aba94766a6a75b97026998b881", null ],
-    [ "GetAI", "d4/dfa/a17524.html#a48955817e21a01a726b50685b467c229", null ]
+    [ "npc_muradin_bronzebeard_igbAI", "de/de9/a17528.html", "de/de9/a17528" ],
+    [ "npc_muradin_bronzebeard_igb", "d4/dfa/a17524.html#a1e6abc18a192b3acfa29bf03dd4eeed9", null ],
+    [ "GetAI", "d4/dfa/a17524.html#af9b149e0780308f26d5adb1e6607a3ce", null ]
 ];

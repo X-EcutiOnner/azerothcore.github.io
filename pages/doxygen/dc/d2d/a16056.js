@@ -1,7 +1,6 @@
 var a16056 =
 [
-    [ "HandleDummy", "dc/d2d/a16056.html#ad0782bfbd977954aac6170ee9111aef6", null ],
-    [ "PrepareSpellScript", "dc/d2d/a16056.html#ac456524856c4a3c4913423693a8fd50c", null ],
-    [ "Register", "dc/d2d/a16056.html#a82d88c5dac164eb9dee9883a91edd0df", null ],
-    [ "Validate", "dc/d2d/a16056.html#a2cf4ee02293cee5e383e99efe14e0008", null ]
+    [ "npc_halion_controllerAI", "d7/de2/a16060.html", "d7/de2/a16060" ],
+    [ "npc_halion_controller", "dc/d2d/a16056.html#ac88ff15ce4d89d737eb6dd6b649e1218", null ],
+    [ "GetAI", "dc/d2d/a16056.html#a3c5ea3f0597c070005744ea788a05383", null ]
 ];

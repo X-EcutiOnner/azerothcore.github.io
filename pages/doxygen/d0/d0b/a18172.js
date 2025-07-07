@@ -1,8 +1,6 @@
 var a18172 =
 [
-    [ "FilterTargets", "d0/d0b/a18172.html#a242fa53c2da9ac557623281bccf2af92", null ],
-    [ "HandleSendEvent", "d0/d0b/a18172.html#a6120e057e2ee39d34eaeab79782add8d", null ],
-    [ "Load", "d0/d0b/a18172.html#af48cdbf87d61cf6d8392f65ae4c9b18a", null ],
-    [ "PrepareSpellScript", "d0/d0b/a18172.html#a0846e73f467d9c3a63b5e9a5d795aa37", null ],
-    [ "Register", "d0/d0b/a18172.html#ae83950dfc35f7c1e64806d6ec273083c", null ]
+    [ "boss_the_lich_kingAI", "d0/d9e/a18176.html", "d0/d9e/a18176" ],
+    [ "boss_the_lich_king", "d0/d0b/a18172.html#a10e2789a98a85907d24eabae6d7655f4", null ],
+    [ "GetAI", "d0/d0b/a18172.html#ab12d8cdfdb1c5428423f6db9dda6c97e", null ]
 ];

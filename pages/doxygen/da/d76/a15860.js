@@ -1,11 +1,6 @@
 var a15860 =
 [
-    [ "spell_hadronox_summon_periodic_aura", "da/d76/a15860.html#afcca15cddf71c0d46bd811eab9174f1a", null ],
-    [ "HandlePeriodic", "da/d76/a15860.html#a048695baf71d307e5aaa00e54586c9f7", null ],
-    [ "OnApply", "da/d76/a15860.html#a4466547bc1a5259a33354f2008d6cce7", null ],
-    [ "PrepareAuraScript", "da/d76/a15860.html#a4205560054e5baed86aecba3b98fc202", null ],
-    [ "Register", "da/d76/a15860.html#a09efdcddaed4af2833139ca20ef94376", null ],
-    [ "Validate", "da/d76/a15860.html#a20827683249c17625242e205bb51f9e8", null ],
-    [ "_delay", "da/d76/a15860.html#a191d7eec948e0753835bd41eef66f1ec", null ],
-    [ "_spellEntry", "da/d76/a15860.html#a52e45512e2bbe34b0bdbfaa273aeb997", null ]
+    [ "boss_hadronoxAI", "d0/d94/a15864.html", "d0/d94/a15864" ],
+    [ "boss_hadronox", "da/d76/a15860.html#ae3457fd6108cc350cf9eedab3178f781", null ],
+    [ "GetAI", "da/d76/a15860.html#a90bf0ecb218e30e61852baffeabc3dc1", null ]
 ];

@@ -1,8 +1,10 @@
 var a19224 =
 [
-    [ "npc_alexstraszaAI", "da/d2f/a19224.html#a36cf63109e379fa4a9e3f3426d70e50c", null ],
-    [ "AttackStart", "da/d2f/a19224.html#a120931695bf3ea649289ee4f6df9a3fd", null ],
-    [ "MoveInLineOfSight", "da/d2f/a19224.html#af93fc8e8877cc5730db7a9386ac3d815", null ],
-    [ "UpdateAI", "da/d2f/a19224.html#aa8cc3ee1a2a4702349b39708cc172594", null ],
-    [ "events", "da/d2f/a19224.html#aade88413d2f2998be6dcb9d15bf85ce0", null ]
+    [ "npc_scion_of_eternityAI", "da/d2f/a19224.html#a2893db70b6a1ffa14d02dd5cea7f7c0a", null ],
+    [ "AttackStart", "da/d2f/a19224.html#a1335f9e34ff73d5501455062be025ada", null ],
+    [ "JustDied", "da/d2f/a19224.html#a81dcae5ef2bbd28b891e46c377fbe153", null ],
+    [ "MoveInLineOfSight", "da/d2f/a19224.html#a74a69fa532f0921285ef678bbd2fa761", null ],
+    [ "UpdateAI", "da/d2f/a19224.html#adb16afb6ea1583a7156b80a8d833951a", null ],
+    [ "events", "da/d2f/a19224.html#ae0e194a24a14033a499e68524da1699d", null ],
+    [ "pInstance", "da/d2f/a19224.html#aa828ca4a75696645d7aa350f1f981f40", null ]
 ];

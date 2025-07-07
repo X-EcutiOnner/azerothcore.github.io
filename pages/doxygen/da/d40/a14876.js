@@ -1,6 +1,6 @@
 var a14876 =
 [
-    [ "npc_idol_room_spawnerAI", "dc/dda/a14880.html", "dc/dda/a14880" ],
-    [ "npc_idol_room_spawner", "da/d40/a14876.html#ac51fed89c27ebf6ae3cf65ca8909eab1", null ],
-    [ "GetAI", "da/d40/a14876.html#a3017caa645e98a7647ec42a43c025624", null ]
+    [ "instance_razorfen_downs_InstanceMapScript", "dc/dda/a14880.html", "dc/dda/a14880" ],
+    [ "instance_razorfen_downs", "da/d40/a14876.html#a317e5e4ce45fd88c657b8032b377ffb7", null ],
+    [ "GetInstanceScript", "da/d40/a14876.html#a5010fc2704c3c699e39bf969f6f6ce2c", null ]
 ];

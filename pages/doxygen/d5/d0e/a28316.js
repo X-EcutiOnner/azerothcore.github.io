@@ -1,11 +1,8 @@
 var a28316 =
 [
-    [ "addToSpellBook", "d5/d0e/a28316.html#ad312934d24abcc78c02d50cc5cb5403f", null ],
-    [ "Col", "d5/d0e/a28316.html#a0bc589c5b1425d5e889cd290b805169e", null ],
-    [ "DependsOn", "d5/d0e/a28316.html#a7b1aa1384777b8d94dceed3c387bb628", null ],
-    [ "DependsOnRank", "d5/d0e/a28316.html#a608f232669981da3423b959479ca8683", null ],
-    [ "RankID", "d5/d0e/a28316.html#a96d0fd120ed3aa7fbd287d104fd87c26", null ],
-    [ "Row", "d5/d0e/a28316.html#a136b889d2e8875b01fc7aa2be06847ac", null ],
-    [ "TalentID", "d5/d0e/a28316.html#aa769574106b0e5afdbc7c71c51c3b9a2", null ],
-    [ "TalentTab", "d5/d0e/a28316.html#acefe6f8c0a5b3893e2a9f828d500df68", null ]
+    [ "Color", "d5/d0e/a28316.html#a670fb4e2a31958f81d46047f74d9916f", null ],
+    [ "Comparator", "d5/d0e/a28316.html#ace0bdad11edd9db12e45d374da623793", null ],
+    [ "CompareColor", "d5/d0e/a28316.html#a801e2221bbb1b6aab67a57381901cf08", null ],
+    [ "ID", "d5/d0e/a28316.html#aae73769db40326d298bb1d04eef38871", null ],
+    [ "Value", "d5/d0e/a28316.html#ac314a9a6b447d386e31a286811f66538", null ]
 ];

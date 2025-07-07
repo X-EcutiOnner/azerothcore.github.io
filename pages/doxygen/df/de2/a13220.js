@@ -1,5 +1,6 @@
 var a13220 =
 [
-    [ "go_eredar_twins_blaze", "df/de2/a13220.html#a19d28875d3506d337e0ecbd93169f140", null ],
-    [ "InitializeAI", "df/de2/a13220.html#a8769ad96e4c4a2396cf4c294d8d982eb", null ]
+    [ "FilterTargets", "df/de2/a13220.html#a78675c3421e0243de9e136b646c56be1", null ],
+    [ "PrepareSpellScript", "df/de2/a13220.html#a0fb177c467c2582e6b66ceae51780d6c", null ],
+    [ "Register", "df/de2/a13220.html#a39f8a11194fe19a14d25b30faaa6cf42", null ]
 ];

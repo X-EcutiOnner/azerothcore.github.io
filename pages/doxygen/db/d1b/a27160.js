@@ -1,9 +1,5 @@
 var a27160 =
 [
-    [ "go_tadpole_cageAI", "db/d1b/a27160.html#a87dc192a13cecf834d49cd04451224cd", null ],
-    [ "GossipHello", "db/d1b/a27160.html#a5c59db4b4d21b9e7de9bbb8835f31f2a", null ],
-    [ "OnStateChanged", "db/d1b/a27160.html#aa545ba4659b288c1ce1f5c2332d5e61f", null ],
-    [ "SummonTadpoles", "db/d1b/a27160.html#ab4903827c78b1b042cc17aef661a0b4f", null ],
-    [ "UpdateAI", "db/d1b/a27160.html#af6d4f5c3fe822815f58665a0207e3c32", null ],
-    [ "requireSummon", "db/d1b/a27160.html#a9884081855fc45776a6b12b9a68890e4", null ]
+    [ "go_ethereum_prison", "db/d1b/a27160.html#a1872dab11a8470194ab35f87e217aa8a", null ],
+    [ "OnGossipHello", "db/d1b/a27160.html#a73479b0512ea778336fad4bd5cd9b909", null ]
 ];

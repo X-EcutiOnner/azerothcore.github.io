@@ -1,6 +1,7 @@
 var a24860 =
 [
-    [ "CheckLevel", "d4/d91/a24860.html#a9c0f4404275b274bd8af7be621eaa5b9", null ],
-    [ "PrepareSpellScript", "d4/d91/a24860.html#abc2bcce83810661ab462f56594066df3", null ],
-    [ "Register", "d4/d91/a24860.html#add6731563bd9a26d8f286bd29ffc8709", null ]
+    [ "HandleApply", "d4/d91/a24860.html#a75f7fc139cf72aeaa2cc09ba30a8f119", null ],
+    [ "HandlePeriodicTimer", "d4/d91/a24860.html#ae9f438dd0833b2ad214acef0e558a8be", null ],
+    [ "PrepareAuraScript", "d4/d91/a24860.html#ac2040d944e47a4f1cc7721ead44aca77", null ],
+    [ "Register", "d4/d91/a24860.html#abc9eb056267c7effcc7f68a3ad7891da", null ]
 ];

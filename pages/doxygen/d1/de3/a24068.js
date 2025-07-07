@@ -1,8 +1,6 @@
 var a24068 =
 [
-    [ "npc_bessyAI", "d1/de3/a24068.html#ad1300a563888b34689bedf97c387707c", null ],
-    [ "JustDied", "d1/de3/a24068.html#af98e9235b2432b619e4cc01c0c1111ef", null ],
-    [ "JustSummoned", "d1/de3/a24068.html#a4197fb122299fd152e5da335bb832ae5", null ],
-    [ "Reset", "d1/de3/a24068.html#aed64386629e52c3b65abadde54a63cc4", null ],
-    [ "WaypointReached", "d1/de3/a24068.html#a4611a8f41f66a1a846fb42ba1d4062c8", null ]
+    [ "npc_commander_dawnforgeAI", "d7/d27/a24072.html", "d7/d27/a24072" ],
+    [ "npc_commander_dawnforge", "d1/de3/a24068.html#ab4d430725f68f906e9c8def66b1d6646", null ],
+    [ "GetAI", "d1/de3/a24068.html#a6089b087b7c3b18659e23c677814318b", null ]
 ];

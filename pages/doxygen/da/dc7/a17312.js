@@ -1,6 +1,6 @@
 var a17312 =
 [
-    [ "VampiricBiteTargetSelector", "da/dc7/a17312.html#ab683a4d67f5ad319e3b680ba5bacc7c6", null ],
-    [ "operator()", "da/dc7/a17312.html#ac16204f50f62cb2568998d1ea137f55d", null ],
-    [ "_source", "da/dc7/a17312.html#af23a69491c915909566249b109b1f0e8", null ]
+    [ "OnAbsorb", "da/dc7/a17312.html#aa6582457cd0502ca263433d04b40b64f", null ],
+    [ "PrepareAuraScript", "da/dc7/a17312.html#a0b6916dd3f6172e59edf477f203c85b1", null ],
+    [ "Register", "da/dc7/a17312.html#a945ec4037120992e8a2986e7fd2e2c96", null ]
 ];

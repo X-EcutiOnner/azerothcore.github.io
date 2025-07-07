@@ -1,6 +1,7 @@
 var a20824 =
 [
-    [ "boss_yoggsaron_descend_portalAI", "de/d74/a20828.html", "de/d74/a20828" ],
-    [ "boss_yoggsaron_descend_portal", "d3/dd2/a20824.html#aaf546e4e546d87818bd501b4934e8ab2", null ],
-    [ "GetAI", "d3/dd2/a20824.html#aceb50c808eed17ca468a80b823af1907", null ]
+    [ "boss_yoggsaron_corruptor_tentacleAI", "d3/dd2/a20824.html#a5f8fbd8ac772fad79f809de4d3128574", null ],
+    [ "DoAction", "d3/dd2/a20824.html#abac26b3be775eea734403be36cbed4d2", null ],
+    [ "SelectCorruptionTarget", "d3/dd2/a20824.html#a1d61b34d31794cd2bdcddfe91dc1103e", null ],
+    [ "UpdateAI", "d3/dd2/a20824.html#a0269d1dc655af5680d7074cb093740b8", null ]
 ];

@@ -1,7 +1,8 @@
 var a14352 =
 [
-    [ "go_loosely_turned_soilAI", "da/d50/a14356.html", "da/d50/a14356" ],
-    [ "go_loosely_turned_soil", "d4/dce/a14352.html#a3b4d51e2b3a604e030962127269236f1", null ],
-    [ "GetAI", "d4/dce/a14352.html#acead5810a848f8837fa65af1f2ac00bd", null ],
-    [ "OnQuestReward", "d4/dce/a14352.html#a1ac57b34c5b3e21c033330eaeefaa6a8", null ]
+    [ "npc_hallows_end_train_fire", "d4/dce/a14352.html#a0aacc53a7410590e8d1f05aa8d3e37ba", null ],
+    [ "Reset", "d4/dce/a14352.html#afdda52e0adce23f56fa9d1357469a17d", null ],
+    [ "SpellHit", "d4/dce/a14352.html#a5767b2a5a2ca1813812cf078b0dd1189", null ],
+    [ "UpdateAI", "d4/dce/a14352.html#a686a565e1743c31166d8d57f67a0adce", null ],
+    [ "timer", "d4/dce/a14352.html#a7fa7d23a587ab632d1b9a2b803f83cd4", null ]
 ];

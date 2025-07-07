@@ -1,7 +1,6 @@
 var a18016 =
 [
-    [ "HandleScript", "db/d34/a18016.html#a5fbb1d26c4e7d5d21745004e477b3c1e", null ],
-    [ "PrepareSpellScript", "db/d34/a18016.html#a7e6b56f426be7925255da3ebc239f909", null ],
-    [ "Register", "db/d34/a18016.html#a0eb2d734ac99d3a036b95b6daa39b9f5", null ],
-    [ "Validate", "db/d34/a18016.html#a86b4296eab73fc63b38558871f16a889", null ]
+    [ "UnchainedMagicTargetSelector", "db/d34/a18016.html#ae412c72884e6cfb1ceef8ed9fb347fbf", null ],
+    [ "operator()", "db/d34/a18016.html#af28ce8f46154ae6152e9025775a7f84f", null ],
+    [ "_removeHealers", "db/d34/a18016.html#a35a7981ce5495cba8b3a5391e4031431", null ]
 ];

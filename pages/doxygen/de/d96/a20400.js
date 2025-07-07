@@ -1,6 +1,6 @@
 var a20400 =
 [
-    [ "npc_ulduar_mimiron_rocketAI", "d8/dd9/a20404.html", "d8/dd9/a20404" ],
-    [ "npc_ulduar_mimiron_rocket", "de/d96/a20400.html#afcd90dbd893ec5e8424eb4197e7dec6d", null ],
-    [ "GetAI", "de/d96/a20400.html#ad1c6162db0f69a1a6b5016ae505e5535", null ]
+    [ "npc_ulduar_aerial_command_unitAI", "d8/dd9/a20404.html", "d8/dd9/a20404" ],
+    [ "npc_ulduar_aerial_command_unit", "de/d96/a20400.html#ac0c1ecef78b92dd4ae072f6eeca9f733", null ],
+    [ "GetAI", "de/d96/a20400.html#a406e828a902d75bb1946fd8f5090044f", null ]
 ];

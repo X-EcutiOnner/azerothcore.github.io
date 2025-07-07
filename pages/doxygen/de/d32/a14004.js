@@ -1,6 +1,7 @@
 var a14004 =
 [
-    [ "npc_ohganAI", "db/dc6/a14008.html", "db/dc6/a14008" ],
-    [ "npc_ohgan", "de/d32/a14004.html#ae391f2b36c68952ca5eaf773c29cbcad", null ],
-    [ "GetAI", "de/d32/a14004.html#a129dc2fcd449850403e0dcb99725da90", null ]
+    [ "HandleOnHit", "de/d32/a14004.html#a561799e6241b1fe17cd09f17c447107b", null ],
+    [ "PrepareSpellScript", "de/d32/a14004.html#ad98ba2831e93bd601b51a5c6a7e8441d", null ],
+    [ "Register", "de/d32/a14004.html#ad9b601b73631285cb5a79e30dfe4a8cc", null ],
+    [ "Validate", "de/d32/a14004.html#adb339686c5e9dcb298712455dc8435bf", null ]
 ];

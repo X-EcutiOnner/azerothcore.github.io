@@ -1,9 +1,6 @@
 var a16568 =
 [
-    [ "npc_concentrated_ballAI", "d3/d38/a16568.html#a5aae1554934d8e2aaa59d420a13517b6", null ],
-    [ "DoAction", "d3/d38/a16568.html#ad3284ed37cdc503a688aa6fb2537387e", null ],
-    [ "MovementInform", "d3/d38/a16568.html#a07845a436ded9c799b742ac9e27cc1bd", null ],
-    [ "MoveToNextPoint", "d3/d38/a16568.html#a89d2697d5ccf6d783e973efc3b4669aa", null ],
-    [ "UpdateAI", "d3/d38/a16568.html#a6509ff14639bca29b6877db54102d004", null ],
-    [ "despawning", "d3/d38/a16568.html#a24145c6c4c38b5a1853647d24871090d", null ]
+    [ "boss_fjolaAI", "d0/d68/a16572.html", "d0/d68/a16572" ],
+    [ "boss_fjola", "d3/d38/a16568.html#a44baccf91ab8c8bc5d5a9d0aa8ef943f", null ],
+    [ "GetAI", "d3/d38/a16568.html#a96d9ea0716199758b60ad933ade28de4", null ]
 ];

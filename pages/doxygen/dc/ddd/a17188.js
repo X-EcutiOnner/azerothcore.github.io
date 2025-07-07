@@ -1,7 +1,6 @@
 var a17188 =
 [
-    [ "HandlePeriodic", "dc/ddd/a17188.html#a2087e4de62f7aabb72315e92c28c7bd6", null ],
-    [ "PrepareAuraScript", "dc/ddd/a17188.html#ab71db011b1cc1f3a2e85cd6b6f115242", null ],
-    [ "Register", "dc/ddd/a17188.html#ad8a16d599a11fa4409d132f66e37e04e", null ],
-    [ "Validate", "dc/ddd/a17188.html#afe821a7eb4eaf959d803c7c846f3bdf0", null ]
+    [ "HandlePeriodic", "dc/ddd/a17188.html#a27ad5fef0695f006c2f8795ac0fbce53", null ],
+    [ "PrepareAuraScript", "dc/ddd/a17188.html#a29b00511d9a215fd0e00702e7a2dca0c", null ],
+    [ "Register", "dc/ddd/a17188.html#a9753daf5cdc812e9027c1153b450686d", null ]
 ];

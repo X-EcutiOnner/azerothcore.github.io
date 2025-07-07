@@ -1,11 +1,11 @@
 var a03080 =
 [
-    [ "boss_novos", "d0/d29/a16616.html", "d0/d29/a16616" ],
-    [ "boss_novos::boss_novosAI", "d9/d93/a16620.html", "d9/d93/a16620" ],
-    [ "spell_novos_despawn_crystal_handler", "da/d26/a16624.html", "da/d26/a16624" ],
-    [ "spell_novos_crystal_handler_death_aura", "d6/d41/a16628.html", "d6/d41/a16628" ],
-    [ "spell_novos_summon_minions", "d6/d39/a16632.html", "d6/d39/a16632" ],
-    [ "achievement_oh_novos", "da/d4d/a16636.html", "da/d4d/a16636" ],
+    [ "boss_novos", "d6/d39/a16632.html", "d6/d39/a16632" ],
+    [ "boss_novos::boss_novosAI", "da/d4d/a16636.html", "da/d4d/a16636" ],
+    [ "spell_novos_despawn_crystal_handler", "d8/dce/a16640.html", "d8/dce/a16640" ],
+    [ "spell_novos_crystal_handler_death_aura", "d7/d4e/a16644.html", "d7/d4e/a16644" ],
+    [ "spell_novos_summon_minions", "dd/d91/a16648.html", "dd/d91/a16648" ],
+    [ "achievement_oh_novos", "d4/d21/a16652.html", "d4/d21/a16652" ],
     [ "Misc", "d1/d7a/a03080.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
       [ "DATA_SKILLPOINT_MIN", "d1/d2e/a02537.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a3093ddfcacf2742f4fb344843e2e7ce6", null ],
       [ "NEFARIUS_PATH_2", "d2/ddf/a02573.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a09833188939fe77088ed4fb2cfedb875", null ],

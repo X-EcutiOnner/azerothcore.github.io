@@ -1,6 +1,6 @@
 var a17220 =
 [
-    [ "boss_prince_taldaramAI", "dc/d27/a17224.html", "dc/d27/a17224" ],
-    [ "boss_prince_taldaram_icc", "d1/d3f/a17220.html#abe14f754e1daf597aa2b7d401f337c8d", null ],
-    [ "GetAI", "d1/d3f/a17220.html#a2a8c89206ab72afc68260f41a246da3b", null ]
+    [ "StandUpEvent", "d1/d3f/a17220.html#a2f68b19898c65b9229159d9133b3d7cf", null ],
+    [ "Execute", "d1/d3f/a17220.html#a56bc1071300ff8f81e62839685e8f53a", null ],
+    [ "_owner", "d1/d3f/a17220.html#a456a494140657d81b203834f7b88d5d1", null ]
 ];

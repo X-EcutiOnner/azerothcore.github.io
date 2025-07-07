@@ -1,6 +1,7 @@
 var a23976 =
 [
-    [ "npc_ancestral_wolfAI", "d8/d09/a23980.html", "d8/d09/a23980" ],
-    [ "npc_ancestral_wolf", "d2/da6/a23976.html#a7cadf2848a086db63792f8068ee9463d", null ],
-    [ "GetAI", "d2/da6/a23976.html#a201255a64d4e742ba8b118b4f2ec5cd5", null ]
+    [ "HandleEffect", "d2/da6/a23976.html#acb353dbdd050bfc6aa4b4b5f6433dc03", null ],
+    [ "PrepareSpellScript", "d2/da6/a23976.html#ad95bc33917e1aa968eedc636f6e3ddcb", null ],
+    [ "Register", "d2/da6/a23976.html#ac2b2bd2581a638553167d5c8099a70cd", null ],
+    [ "Validate", "d2/da6/a23976.html#a7702b0e876ab5ccd750d1072ee70ed69", null ]
 ];

@@ -1,13 +1,10 @@
 var a21004 =
 [
-    [ "npc_ulduar_arachnopod_destroyerAI", "d8/d18/a21004.html#a52bbedf267aaa3cea68e8a5960cbc34b", null ],
-    [ "AttackStart", "d8/d18/a21004.html#aed91dafbc50a785875b8b41c5e328d73", null ],
-    [ "DamageTaken", "d8/d18/a21004.html#a4c2ec3cf0c5561b1b9f309bb8f180f8c", null ],
-    [ "EnterEvadeMode", "d8/d18/a21004.html#a671a27f00e279e0a4c0827999ce26d8b", null ],
-    [ "OnCharmed", "d8/d18/a21004.html#ae268a425326efbea1282ce116ff76e3f", null ],
-    [ "PassengerBoarded", "d8/d18/a21004.html#a83409607638100fddd229829ee2bea40", null ],
-    [ "Reset", "d8/d18/a21004.html#a2a7bda0ee585a7aa652081ce7ede3fa6", null ],
-    [ "UpdateAI", "d8/d18/a21004.html#ac10669fddd193d583ecead8ed37879b3", null ],
-    [ "_spawnedMechanic", "d8/d18/a21004.html#a2db3016e32b4e77724fea98d605eaa59", null ],
-    [ "events", "d8/d18/a21004.html#ac61064ee3e22b476a35dce4564f65882", null ]
+    [ "npc_ulduar_snow_mound", "d8/d18/a21004.html#a3f66ad92d616050bb67cb1a5e33ffa74", null ],
+    [ "MoveInLineOfSight", "d8/d18/a21004.html#ae5a09062d87aa1c0d446310df2ddd621", null ],
+    [ "UpdateAI", "d8/d18/a21004.html#a9d18fdaf83a2cfeea9b3ac6adbbd2687", null ],
+    [ "_activated", "d8/d18/a21004.html#ac48f6985d857276e0e59c2a429f5b359", null ],
+    [ "_count", "d8/d18/a21004.html#a1856c3bba24842f33720a83e1de40421", null ],
+    [ "_counter", "d8/d18/a21004.html#aca94a744c23b7f9771c728997ba4b8f3", null ],
+    [ "_scheduler", "d8/d18/a21004.html#aafe42af9ba1402cad91326eb1037e476", null ]
 ];

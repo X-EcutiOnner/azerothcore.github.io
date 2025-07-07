@@ -1,6 +1,6 @@
 var a16180 =
 [
-    [ "npc_memoryAI", "d8/db6/a16184.html", "d8/db6/a16184" ],
-    [ "npc_memory", "df/d8f/a16180.html#acebf31813025d323f9486d6575a60483", null ],
-    [ "GetAI", "df/d8f/a16180.html#ad8e532d029217a06d11ae39810498976", null ]
+    [ "boss_eadricAI", "d8/db6/a16184.html", "d8/db6/a16184" ],
+    [ "boss_eadric", "df/d8f/a16180.html#ad32a08ec9fc2a31b5bcdcff67d0127d2", null ],
+    [ "GetAI", "df/d8f/a16180.html#a15235e86d0bdff0bd3fef5dbff3abb27", null ]
 ];

@@ -1,6 +1,6 @@
 var a17748 =
 [
-    [ "npc_bone_spikeAI", "dd/d2b/a17752.html", "dd/d2b/a17752" ],
-    [ "npc_bone_spike", "d0/d6e/a17748.html#ac93d7a45eaeae8d7adf2a3b313825aed", null ],
-    [ "GetAI", "d0/d6e/a17748.html#a887a9156f550ca55047fa501e1709d95", null ]
+    [ "BoneStormMoveTargetSelector", "d0/d6e/a17748.html#acd13e67fbbc29137ca2b77aaf9dc0e77", null ],
+    [ "operator()", "d0/d6e/a17748.html#a5b53c140d38db0df8faef3dfaf5c458d", null ],
+    [ "_source", "d0/d6e/a17748.html#a03d8b1ec5f18398fe2963418bb319973", null ]
 ];

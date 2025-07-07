@@ -1,7 +1,6 @@
 var a23268 =
 [
-    [ "PeriodicTick", "d9/d80/a23268.html#a94bee50f214d0a61fa81c4cca1b38fb2", null ],
-    [ "PrepareAuraScript", "d9/d80/a23268.html#a2c34fbc5c12be43b1c054cf4b23542cb", null ],
-    [ "Register", "d9/d80/a23268.html#ae1479b53d8c0575947a7ce7cae4747c4", null ],
-    [ "Validate", "d9/d80/a23268.html#ade8d57db324f02734e1752f49976dc9d", null ]
+    [ "go_ahune_ice_stone", "d9/d80/a23268.html#ab7b665f01da80751ea97705c5113bde7", null ],
+    [ "GossipSelect", "d9/d80/a23268.html#aadb4db41ed84922c0a2d0463b8616876", null ],
+    [ "_instance", "d9/d80/a23268.html#a43651f471ac777b59fb8ba67b830cd35", null ]
 ];
