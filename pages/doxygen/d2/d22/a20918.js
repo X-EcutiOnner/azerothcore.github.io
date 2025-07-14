@@ -1,9 +1,10 @@
 var a20918 =
 [
-    [ "npc_ulduar_keeperAI", "d2/d22/a20918.html#ac69d21f3820f2c01a80ff664c317d111", null ],
-    [ "DoAction", "d2/d22/a20918.html#a03011d04761926d67e43c0bea5a0901f", null ],
-    [ "Reset", "d2/d22/a20918.html#a86971339e6fcbffb3c019e4dc29972b3", null ],
-    [ "SpellHit", "d2/d22/a20918.html#a18f22ca155646a6f40e0627f9d6dc337", null ],
-    [ "UpdateAI", "d2/d22/a20918.html#a9af455266dd2a843ac1a2c4e56d50e78", null ],
-    [ "_keeper", "d2/d22/a20918.html#ad8cd47f6c75042d589fc6fae4603c9f2", null ]
+    [ "boss_yoggsaron_voiceAI", "d2/d22/a20918.html#ac78b27f8d4df433e1fad2ae550a4da44", null ],
+    [ "Reset", "d2/d22/a20918.html#ae5561244ad7387a3614bb6f1e23a7001", null ],
+    [ "SpellHitTarget", "d2/d22/a20918.html#a0cc39577b4b70eb1be16f9c8b5cb5c72", null ],
+    [ "UpdateAI", "d2/d22/a20918.html#a3c8458c25f7389f5fb5218177590a4c6", null ],
+    [ "_current", "d2/d22/a20918.html#ad94ddde194a32b380ba1d309f1ece14a", null ],
+    [ "_targets", "d2/d22/a20918.html#ab6132214a2249fbb5de8a5115b114381", null ],
+    [ "events", "d2/d22/a20918.html#ac0c6aa9efe9d9e80b29fae8c190962dc", null ]
 ];

@@ -1,9 +1,8 @@
 var a17418 =
 [
-    [ "BattleExperienceEvent", "d7/d50/a17418.html#a3091b403089533ce2ebbb40fa38f28c9", null ],
-    [ "Execute", "d7/d50/a17418.html#a3971962ec90f682baeae96fe6098fa97", null ],
-    [ "_creature", "d7/d50/a17418.html#a0155536d5c2be329a1f3b57c4d852098", null ],
-    [ "_level", "d7/d50/a17418.html#a22f0d7e59f579362be4576180d0977b8", null ],
-    [ "ExperiencedSpells", "d7/d50/a17418.html#a5e2e06a386059ba2d9aff676648fa56b", null ],
-    [ "ExperiencedTimes", "d7/d50/a17418.html#a4daf5818472ebe7c8d3938e2189d8e02", null ]
+    [ "npc_high_overlord_saurfangAI", "de/d44/a17422.html", "de/d44/a17422" ],
+    [ "npc_high_overlord_saurfang_icc", "d7/d50/a17418.html#ac02fe80550572e142406c2d80c0392df", null ],
+    [ "GetAI", "d7/d50/a17418.html#a21c04ab5b8d747c28c7355cc483ac6e3", null ],
+    [ "OnGossipHello", "d7/d50/a17418.html#a515a87f751527412222cfdd968febe7c", null ],
+    [ "OnGossipSelect", "d7/d50/a17418.html#a39c33a3b2e7037ca6f0f40ba65cb55db", null ]
 ];

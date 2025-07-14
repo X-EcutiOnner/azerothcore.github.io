@@ -1,17 +1,6 @@
 var a18958 =
 [
-    [ "boss_kelthuzadAI", "de/d27/a18958.html#a3fa1e67bf942824cd40c5591f4e63a08", null ],
-    [ "EnterEvadeMode", "de/d27/a18958.html#ac99064d95afff73680df1fe96749665a", null ],
-    [ "JustDied", "de/d27/a18958.html#a49066a2fa1dc424a27262706c8af046a", null ],
-    [ "JustEngagedWith", "de/d27/a18958.html#a8fd3938c0e91a0773eacba9fbdb4a60e", null ],
-    [ "JustSummoned", "de/d27/a18958.html#a0b305ec3029d149c3ca273cb7ba52e1b", null ],
-    [ "KilledUnit", "de/d27/a18958.html#ad2fa9b4d11b158e3fadf0c304be6b431", null ],
-    [ "MoveInLineOfSight", "de/d27/a18958.html#a440b758486cd95b7884fe2ce9bdfb28f", null ],
-    [ "NormalizeOrientation", "de/d27/a18958.html#a21ac290b79119d47b7509b04b34ea16e", null ],
-    [ "Reset", "de/d27/a18958.html#a5df92ebc5bd4ee8d06b17e31381be8c4", null ],
-    [ "SpawnHelpers", "de/d27/a18958.html#ad81fa9c3449ba347de09b1519be6d408", null ],
-    [ "SummonHelper", "de/d27/a18958.html#a3a21a45072144b6f0421733466770267", null ],
-    [ "UpdateAI", "de/d27/a18958.html#a3004d23e6eaa3f2ef5942e96e0c17308", null ],
-    [ "events", "de/d27/a18958.html#a1ac1341c022c65f46b30a9c70b3f37ba", null ],
-    [ "summons", "de/d27/a18958.html#a4b8a2fcda2e9f4e3944c3527dd6afb1e", null ]
+    [ "boss_faerlinaAI", "d0/d85/a18962.html", "d0/d85/a18962" ],
+    [ "boss_faerlina", "de/d27/a18958.html#a86543ac855287e3de2e3ffcde66fb1cb", null ],
+    [ "GetAI", "de/d27/a18958.html#aed8214323ff5b792d9bd6aae478e7848", null ]
 ];

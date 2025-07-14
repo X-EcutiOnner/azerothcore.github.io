@@ -1,6 +1,26 @@
 var a19402 =
 [
-    [ "npc_spark_of_ionarAI", "de/d55/a19406.html", "de/d55/a19406" ],
-    [ "npc_spark_of_ionar", "dc/d54/a19402.html#a63578a0d77331849b7a48272870af04d", null ],
-    [ "GetAI", "dc/d54/a19402.html#aa1e524327b76ddc11a32e7a094e39dd1", null ]
+    [ "instance_oculus_InstanceMapScript", "dc/d54/a19402.html#a86c942751aee67ae10e2c77a1ace630e", null ],
+    [ "CheckAchievementCriteriaMeet", "dc/d54/a19402.html#a04ea989733a6ba1bed1990e1ea8baf1f", null ],
+    [ "GetData", "dc/d54/a19402.html#a44cf46153dd392758fa5c388e8c2ea84", null ],
+    [ "GetGuidData", "dc/d54/a19402.html#ac969f1faf18633ad54354015fb66f4f8", null ],
+    [ "Initialize", "dc/d54/a19402.html#a1c035ca450efdd89481715bd09c6c38c", null ],
+    [ "OnCreatureCreate", "dc/d54/a19402.html#a1b0553334dc2d00fd12512dae373039a", null ],
+    [ "OnGameObjectCreate", "dc/d54/a19402.html#a08abbb0430a43bb4841560b01e9fe26c", null ],
+    [ "OnPlayerEnter", "dc/d54/a19402.html#a7046a9b087300d0854bb1078c7bd1c9b", null ],
+    [ "OnUnitDeath", "dc/d54/a19402.html#a84fa94a97c62ba7b68130c7a5d8bb4dd", null ],
+    [ "ReadSaveDataMore", "dc/d54/a19402.html#aa5f838155be454aec552b99c42edfe99", null ],
+    [ "SetData", "dc/d54/a19402.html#a58b0b5142cbae350d6cc61c89a3792af", null ],
+    [ "WriteSaveDataMore", "dc/d54/a19402.html#a5043a99a4a3d1c86a4a7026757ebdc14", null ],
+    [ "bAmberVoid", "dc/d54/a19402.html#a9dfa8834bfea20a8f4a39c958e38bcbd", null ],
+    [ "bEmeraldVoid", "dc/d54/a19402.html#a45ce85a8a6c9362ad04194b0518066c9", null ],
+    [ "bRubyVoid", "dc/d54/a19402.html#ad93d6be40d07925d1eb485f864c72ace", null ],
+    [ "CentrifugeCount", "dc/d54/a19402.html#ae5a87cc8bfc153aee0f96978f39a1932", null ],
+    [ "DragonCageDoorGUID", "dc/d54/a19402.html#a402480035dfffd7c4c717229bd55b921", null ],
+    [ "EregosCacheGUID", "dc/d54/a19402.html#aad60cffd6c483bf4610884c3b99ad39c", null ],
+    [ "m_auiEncounter", "dc/d54/a19402.html#af4cca13b9039d7c88e7fad1e8f23eb3a", null ],
+    [ "uiDrakosGUID", "dc/d54/a19402.html#a1bc410826700bdfcefc5f60d0967a091", null ],
+    [ "uiEregosGUID", "dc/d54/a19402.html#a559b482989ee8f91f1ba412683856d89", null ],
+    [ "uiUromGUID", "dc/d54/a19402.html#accf640519e925eccf0230ca4a5dee3bb", null ],
+    [ "uiVarosGUID", "dc/d54/a19402.html#ab4a87ca38d203deacc377579e66e5bfb", null ]
 ];

@@ -1,6 +1,6 @@
 var a14526 =
 [
-    [ "OnRemove", "d7/d27/a14526.html#af9da33426d8ea4462f7d9957c4312019", null ],
-    [ "PrepareAuraScript", "d7/d27/a14526.html#a594f2b65fdbe30f3d52e608f9b7c9731", null ],
-    [ "Register", "d7/d27/a14526.html#a4b04c70fd9c55d20261d9d256ea0966f", null ]
+    [ "OnAuraRemove", "d7/d27/a14526.html#ad16e8b64999771154360afad71454c07", null ],
+    [ "PrepareAuraScript", "d7/d27/a14526.html#a70963be80861e10ecd093e40b77e7078", null ],
+    [ "Register", "d7/d27/a14526.html#a7381cbea873fb57485e4539aa478d236", null ]
 ];

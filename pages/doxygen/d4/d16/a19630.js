@@ -1,6 +1,8 @@
 var a19630 =
 [
-    [ "PrepareSpellScript", "d4/d16/a19630.html#af7426e99a49f8618fc38242ded7132f1", null ],
-    [ "RecalculateDamage", "d4/d16/a19630.html#a94e70b20f2139f668227dccb623c1af6", null ],
-    [ "Register", "d4/d16/a19630.html#acd911f78780e052d88f5f47574092d62", null ]
+    [ "dark_rune_protectorsAI", "d4/d16/a19630.html#ae2f3cfd19e565ede132e38f439a930ba", null ],
+    [ "JustEngagedWith", "d4/d16/a19630.html#aa71514efa488ff8f9276cb2a4c166759", null ],
+    [ "Reset", "d4/d16/a19630.html#a88305b8ac016175d61a0387d1888671f", null ],
+    [ "UpdateAI", "d4/d16/a19630.html#a0e27fc91a01362ee58a0eb10fb9a5176", null ],
+    [ "events", "d4/d16/a19630.html#a2836d6f142a322dae0aed9ff6a4888e2", null ]
 ];

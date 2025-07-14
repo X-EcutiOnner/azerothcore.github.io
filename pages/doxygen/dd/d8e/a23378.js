@@ -1,7 +1,6 @@
 var a23378 =
 [
-    [ "OnApply", "dd/d8e/a23378.html#a301e47da9be4b4a449701c59c19bc62b", null ],
-    [ "PrepareAuraScript", "dd/d8e/a23378.html#a623bf9442a4a2b046d1d89bc2523eb37", null ],
-    [ "Register", "dd/d8e/a23378.html#aaf38547f7fa233b03429734dbe374f13", null ],
-    [ "Validate", "dd/d8e/a23378.html#ac390e2e24d9a85635ced5eaa343b8e09", null ]
+    [ "instance_steam_vault_InstanceMapScript", "d6/d49/a23382.html", "d6/d49/a23382" ],
+    [ "instance_steam_vault", "dd/d8e/a23378.html#aa3417083841ccb50c8a2f29ba343e115", null ],
+    [ "GetInstanceScript", "dd/d8e/a23378.html#a3a2edb84cc7067d3c8fa2151b4763c5a", null ]
 ];

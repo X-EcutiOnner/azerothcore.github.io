@@ -1,6 +1,6 @@
 var a11910 =
 [
-    [ "boss_high_priestess_thaurissanAI", "d4/da7/a11910.html#acbc89b59865a5fda5a4143dd8c690b37", null ],
-    [ "JustEngagedWith", "d4/da7/a11910.html#a6602682950aab4e9932bf6cdfac9886b", null ],
-    [ "UpdateAI", "d4/da7/a11910.html#a216a5bc7a38aa5e13f9d025f44e04779", null ]
+    [ "boss_general_angerforgeAI", "d8/d78/a11914.html", "d8/d78/a11914" ],
+    [ "boss_general_angerforge", "d4/da7/a11910.html#a00c94097831dc52d31505f312a04f562", null ],
+    [ "GetAI", "d4/da7/a11910.html#ac3f3b26bf2c6745bb9ab23c7ff1484ae", null ]
 ];

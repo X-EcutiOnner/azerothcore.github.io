@@ -1,8 +1,6 @@
 var a16178 =
 [
-    [ "npc_toc5_player_vehicleAI", "d7/da2/a16178.html#afa00a6254b482aae5397be04860ac8ba", null ],
-    [ "BeforeSpellClick", "d7/da2/a16178.html#aac7db7f40b47a9c098c98bacb7569faf", null ],
-    [ "OnCharmed", "d7/da2/a16178.html#ace805882a25a9d075d811714e607fa2b", null ],
-    [ "PassengerBoarded", "d7/da2/a16178.html#aca35804df751185193ff5865255d3687", null ],
-    [ "Reset", "d7/da2/a16178.html#a5439b98d544124836d2cf9762f764cea", null ]
+    [ "boss_saviana_ragefireAI", "d7/d98/a16182.html", "d7/d98/a16182" ],
+    [ "boss_saviana_ragefire", "d7/da2/a16178.html#a5964bbc510355a8b1fd08bd5f9f5f8c0", null ],
+    [ "GetAI", "d7/da2/a16178.html#a0a0073d8710af066d9711636f4d5b01e", null ]
 ];

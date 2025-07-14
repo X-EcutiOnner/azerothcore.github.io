@@ -1,10 +1,12 @@
 var a07318 =
 [
-    [ "OwnerId", "d2/d19/a07318.html#ae6203d7a867838b279825925841a99df", null ],
-    [ "PrevOwnerId", "d2/d19/a07318.html#a8357cc41fe125545d473c1f14c3ffa05", null ],
-    [ "PrevState", "d2/d19/a07318.html#ab97cde6dcd3c3e91bb94bf39d104bf77", null ],
-    [ "State", "d2/d19/a07318.html#a6e2b1f8c232c27ab24e3ca8bca8f6b03", null ],
-    [ "Timer", "d2/d19/a07318.html#a945afa538fc0dd1a4be11f5b5ac74bcb", null ],
-    [ "TotalOwnerId", "d2/d19/a07318.html#aec31f39eb98a3686ead3b1b99c7abfde", null ],
-    [ "Tower", "d2/d19/a07318.html#a222db96ad937e31986c0c39a5a371dd7", null ]
+    [ "BGQueueRemoveEvent", "d2/d19/a07318.html#ab751b728f64b2928eefb21f756539d81", null ],
+    [ "~BGQueueRemoveEvent", "d2/d19/a07318.html#aab9ea24041888975439aafb246c571c3", null ],
+    [ "Abort", "d2/d19/a07318.html#a7d1dc829e56398ad421cb53dd51e952e", null ],
+    [ "Execute", "d2/d19/a07318.html#a42482ff784da4b23b568888a74a0b531", null ],
+    [ "m_BgInstanceGUID", "d2/d19/a07318.html#a4732918e6d7c42dd068f5cb147a188fc", null ],
+    [ "m_BgQueueTypeId", "d2/d19/a07318.html#ac059a823ae49bd0250eec15845bf153b", null ],
+    [ "m_BgTypeId", "d2/d19/a07318.html#a8bc484087ef76d627d5ae912bc5de22c", null ],
+    [ "m_PlayerGuid", "d2/d19/a07318.html#a9a1e2c09896b4d7521954d810e7193cc", null ],
+    [ "m_RemoveTime", "d2/d19/a07318.html#a0c40a46749bff9caaf1a462d7bef701e", null ]
 ];

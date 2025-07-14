@@ -1,8 +1,7 @@
 var a26834 =
 [
-    [ "HandleEffect", "de/d7c/a26834.html#a1c1a06362742abcf83e1817c468de3d3", null ],
-    [ "PrepareSpellScript", "de/d7c/a26834.html#a0e2cce13a3b2c8b8e9ace8876def8b9c", null ],
-    [ "Register", "de/d7c/a26834.html#a56108b37bc69809ce80d424e2bcb3f55", null ],
-    [ "SendMiss", "de/d7c/a26834.html#afda727460aebc8fe97d5c18d0195ea2c", null ],
-    [ "Validate", "de/d7c/a26834.html#ab9533351a176f4e0d641a6e36a75d6b9", null ]
+    [ "HandleDispel", "de/d7c/a26834.html#aaf6920cb0fec741f3cff1d3f6e6d2c0f", null ],
+    [ "PrepareAuraScript", "de/d7c/a26834.html#ace0ce4b85311893e1e6df403a6387cd9", null ],
+    [ "Register", "de/d7c/a26834.html#a2c67e4327fdd034978d4822311632980", null ],
+    [ "Validate", "de/d7c/a26834.html#ad8b5c381904c359ed608c808d5bbd9bd", null ]
 ];

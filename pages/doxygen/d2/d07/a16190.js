@@ -1,6 +1,6 @@
 var a16190 =
 [
-    [ "boss_grand_championAI", "dc/d5a/a16194.html", "dc/d5a/a16194" ],
-    [ "boss_grand_champion", "d2/d07/a16190.html#a9577f8af5e234b3aebd7567841b867e2", null ],
-    [ "GetAI", "d2/d07/a16190.html#aa60972482ef16329d7ffc0a7ccf2d03e", null ]
+    [ "HandleScript", "d2/d07/a16190.html#a647f39eb125537cd7545ab4115be1091", null ],
+    [ "PrepareSpellScript", "d2/d07/a16190.html#a55dec84643f9bd536c7c73b5909ab303", null ],
+    [ "Register", "d2/d07/a16190.html#a0077abbe11092b9636c3bb7b5c367946", null ]
 ];

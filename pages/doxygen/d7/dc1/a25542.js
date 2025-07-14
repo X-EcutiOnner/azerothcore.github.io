@@ -1,7 +1,6 @@
 var a25542 =
 [
-    [ "OnRemove", "d7/dc1/a25542.html#a1f4f852ef6d5b2313df20af540eee7da", null ],
-    [ "PrepareAuraScript", "d7/dc1/a25542.html#a8abf8084dd8bb1ac74b3884380cda809", null ],
-    [ "Register", "d7/dc1/a25542.html#a35a8adc4944fc2333488e72498f6d252", null ],
-    [ "Validate", "d7/dc1/a25542.html#aa312f28f03cc0929eb9ea8ba526ebb54", null ]
+    [ "HandleDummy", "d7/dc1/a25542.html#ad086618ff3caadcf5126e12a1359503f", null ],
+    [ "PrepareSpellScript", "d7/dc1/a25542.html#a4b3a79a9ba01226038a1da886f6a2f7c", null ],
+    [ "Register", "d7/dc1/a25542.html#a214526ddc986ee829daf9090678e3a7b", null ]
 ];

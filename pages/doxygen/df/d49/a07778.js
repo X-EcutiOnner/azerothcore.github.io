@@ -1,7 +1,6 @@
 var a07778 =
 [
-    [ "HyperlinkDataTokenizer", "df/d49/a07778.html#a1fb14152c61205ce31fcf2bfeaeceeaf", null ],
-    [ "IsEmpty", "df/d49/a07778.html#a4f74f1647780c9f2769443dbfeba6a7e", null ],
-    [ "TryConsumeTo", "df/d49/a07778.html#a42e18263129c27149bf9a91b3dc42418", null ],
-    [ "_str", "df/d49/a07778.html#ab497f7f0b3cab4b8c4813ba443ff1c91", null ]
+    [ "value_type", "df/d49/a07778.html#a8ce1d08e5d320ef2c6301475fba4a7c2", null ],
+    [ "StoreTo", "df/d49/a07778.html#ac01b3840e65515853e26c16dd3caaf58", null ],
+    [ "tag", "df/d49/a07778.html#abd9c16378ed02e10a25cd45111e6fc69", null ]
 ];

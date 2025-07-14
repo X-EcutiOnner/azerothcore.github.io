@@ -1,8 +1,7 @@
 var a11978 =
 [
-    [ "boss_halyconAI", "d8/dd5/a11978.html#acc110d5d802fc0da3ea630f667167748", null ],
-    [ "JustDied", "d8/dd5/a11978.html#a7d71e135a8edf3d3b99ccfcb3b071eaa", null ],
-    [ "JustEngagedWith", "d8/dd5/a11978.html#a5735567462167fffa4d01800d696296e", null ],
-    [ "Reset", "d8/dd5/a11978.html#ac5622260b0b40cb584cf3037521cc5b8", null ],
-    [ "UpdateAI", "d8/dd5/a11978.html#a6e72949b63de3d32d8369c7122b6060d", null ]
+    [ "boss_okthorAI", "d8/dd5/a11978.html#a8007cfade5c04d8b4e0b787ac5a5beff", null ],
+    [ "JustEngagedWith", "d8/dd5/a11978.html#a466a618e52f40e04e873dd50f3728755", null ],
+    [ "UpdateAI", "d8/dd5/a11978.html#a246c3bd9aa96eb11d2fa48be8654d726", null ],
+    [ "nextArcaneExplosionTime", "d8/dd5/a11978.html#a89d8cdd528775ee77caeac1d0465d4f2", null ]
 ];

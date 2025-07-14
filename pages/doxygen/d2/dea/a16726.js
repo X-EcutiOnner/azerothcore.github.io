@@ -1,6 +1,6 @@
 var a16726 =
 [
-    [ "boss_marwynAI", "de/d9e/a16730.html", "de/d9e/a16730" ],
-    [ "boss_marwyn", "d2/dea/a16726.html#a4be337e1a6b4ab6d48aa1380f3956ad4", null ],
-    [ "GetAI", "d2/dea/a16726.html#af1c83878d2121163994bc327ae8e04f7", null ]
+    [ "instance_drak_tharon_keep_InstanceScript", "de/d9e/a16730.html", "de/d9e/a16730" ],
+    [ "instance_drak_tharon_keep", "d2/dea/a16726.html#a1f375185dba1619fee36160549eb91f4", null ],
+    [ "GetInstanceScript", "d2/dea/a16726.html#aca6364452dc39e747af152695d479bf8", null ]
 ];

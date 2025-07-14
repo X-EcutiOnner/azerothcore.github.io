@@ -1,8 +1,5 @@
 var a22550 =
 [
-    [ "boss_darkweaver_syth", "d6/d1a/a22550.html#a4f719165e07206c5a378412b3f82ff86", null ],
-    [ "JustDied", "d6/d1a/a22550.html#adf7e44e3fdc7241baa5f9eddafcb6d40", null ],
-    [ "JustEngagedWith", "d6/d1a/a22550.html#aaf6dab75e66734e930c5732749f3d69a", null ],
-    [ "KilledUnit", "d6/d1a/a22550.html#a1904c2596dd455f84625974beec4a2c8", null ],
-    [ "Reset", "d6/d1a/a22550.html#a484a6dea12ca9e5a20f0a0761461c1f5", null ]
+    [ "OutdoorPvP_terokkar_forest", "d6/d1a/a22550.html#ac98a2b4c1dae9a8b75249eedeb7d8cb8", null ],
+    [ "GetOutdoorPvP", "d6/d1a/a22550.html#acf268293812d7a1a233e7f1fcba1e733", null ]
 ];

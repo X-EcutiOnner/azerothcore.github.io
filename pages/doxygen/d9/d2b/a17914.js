@@ -1,7 +1,6 @@
 var a17914 =
 [
-    [ "IceTombSummonEvent", "d9/d2b/a17914.html#a2ead0e5f6eb0c32f5c11f38e667b65d3", null ],
-    [ "Execute", "d9/d2b/a17914.html#aa708b67e60ba0b4fe2334c43aaaca5c7", null ],
-    [ "_owner", "d9/d2b/a17914.html#a1b95617b511dfa7868c59dbdf7e6c4c7", null ],
-    [ "_sindragosaGUID", "d9/d2b/a17914.html#abe61867b29cd4fe3d02268f18b3618ee", null ]
+    [ "OnRemove", "d9/d2b/a17914.html#ab9c21998c71991ff74e6dfcf4d32f126", null ],
+    [ "PrepareAuraScript", "d9/d2b/a17914.html#a8fb5803b07022f9bd3d246216bac5abb", null ],
+    [ "Register", "d9/d2b/a17914.html#afa993cb14444989feac16c9fa2d7b8df", null ]
 ];

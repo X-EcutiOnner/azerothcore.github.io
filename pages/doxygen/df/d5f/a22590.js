@@ -1,6 +1,9 @@
 var a22590 =
 [
-    [ "PrepareSpellScript", "df/d5f/a22590.html#ad8640f1c01d64f8bbca16e0b636f7f21", null ],
-    [ "Register", "df/d5f/a22590.html#aa41700bf097963c5a352442723181037", null ],
-    [ "SelectTarget", "df/d5f/a22590.html#a15d790b134de8a8c7497ee8d0a6217ba", null ]
+    [ "npc_stolen_soul", "df/d5f/a22590.html#a84a0bb8320b2332545748e010d855884", null ],
+    [ "DoAction", "df/d5f/a22590.html#abcfed6b9b46ce48a15b31d062a1618f4", null ],
+    [ "Reset", "df/d5f/a22590.html#a9f18ffbb42c988067b6dfa8355a4aba6", null ],
+    [ "UpdateAI", "df/d5f/a22590.html#a7bf369dd943ee36600a364d56b85db5a", null ],
+    [ "_scheduler", "df/d5f/a22590.html#ab62526916f0ccd681383d37d19d94ccc", null ],
+    [ "myClass", "df/d5f/a22590.html#ab2ad92983075320ce389aa583c341d21", null ]
 ];

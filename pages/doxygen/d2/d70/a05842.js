@@ -1,13 +1,11 @@
 var a05842 =
 [
-    [ "TransactionTask", "d2/d70/a05842.html#a13573f827891ad172847dc0e466b0b9e", null ],
-    [ "~TransactionTask", "d2/d70/a05842.html#a68bc982f025d40bbc3a7323cd8c96786", null ],
-    [ "CleanupOnFailure", "d2/d70/a05842.html#adc2f1534bce5a7ce198eeeb510fcb533", null ],
-    [ "Execute", "d2/d70/a05842.html#aa1c1df059d15fe2077ceea5cfb51ba22", null ],
-    [ "TryExecute", "d2/d70/a05842.html#a28c9ca1d9d3fdc6a722dcec68e46a38f", null ],
-    [ "DatabaseWorker", "d2/d70/a05842.html#ac8984f2167ec797d478f3a771d1c1c3f", null ],
-    [ "DatabaseWorkerPool", "d2/d70/a05842.html#a5d89109a06fa4fca3057b99bbfa84e58", null ],
-    [ "TransactionCallback", "d2/d70/a05842.html#ac3345f3314b133d53268f53e222cdc74", null ],
-    [ "_deadlockLock", "d2/d70/a05842.html#a84b48dbb670dd884e9b44ea53c8b0008", null ],
-    [ "m_trans", "d2/d70/a05842.html#a242f0cb47bc6b456b6bea9aa372df4b6", null ]
+    [ "SQLQueryHolderCallback", "d2/d70/a05842.html#afc2cb6a483d17ae115e947bc88fe592b", null ],
+    [ "SQLQueryHolderCallback", "d2/d70/a05842.html#a7fddb08e9e10cdb8a437de3ee53494db", null ],
+    [ "AfterComplete", "d2/d70/a05842.html#a40f0a73f4b92bc0f7ad8659f748c7c17", null ],
+    [ "InvokeIfReady", "d2/d70/a05842.html#a7e540699d496834c0a36782fb7da03f1", null ],
+    [ "operator=", "d2/d70/a05842.html#a031861856be6b3e5f18718f3c6129f9c", null ],
+    [ "m_callback", "d2/d70/a05842.html#aa055fe02b0158a9098e6eccdc32e9ff4", null ],
+    [ "m_future", "d2/d70/a05842.html#a7dc3e5e72d47135660a29a0418e17c44", null ],
+    [ "m_holder", "d2/d70/a05842.html#a09b018fb4d8e0e67249b1117c657ecc2", null ]
 ];

@@ -1,7 +1,6 @@
 var a12502 =
 [
-    [ "npc_kernobeeAI", "d9/d86/a12506.html", "d9/d86/a12506" ],
-    [ "npc_kernobee", "dc/d2e/a12502.html#a325aa3f9962cb99b4af362a23c1b16d8", null ],
-    [ "GetAI", "dc/d2e/a12502.html#a13da5b7e79ada7c5a88e84ca551ce8eb", null ],
-    [ "OnQuestAccept", "dc/d2e/a12502.html#aa830285cf19211b8233620257735ab62", null ]
+    [ "bossId", "dc/d2e/a12502.html#a898f2ce24d96fb7d6a118e9772344c43", null ],
+    [ "circleId", "dc/d2e/a12502.html#aaa379e61fda2f7225ab4089757df5d24", null ],
+    [ "runeId", "dc/d2e/a12502.html#aa7ac7e2d5729aa906e00ca9c2648581d", null ]
 ];

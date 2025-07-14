@@ -1,8 +1,6 @@
 var a19526 =
 [
-    [ "dark_rune_protectorsAI", "dd/db6/a19526.html#ae2f3cfd19e565ede132e38f439a930ba", null ],
-    [ "JustEngagedWith", "dd/db6/a19526.html#aa71514efa488ff8f9276cb2a4c166759", null ],
-    [ "Reset", "dd/db6/a19526.html#a88305b8ac016175d61a0387d1888671f", null ],
-    [ "UpdateAI", "dd/db6/a19526.html#a0e27fc91a01362ee58a0eb10fb9a5176", null ],
-    [ "events", "dd/db6/a19526.html#a2836d6f142a322dae0aed9ff6a4888e2", null ]
+    [ "boss_volkhanAI", "d9/d45/a19530.html", "d9/d45/a19530" ],
+    [ "boss_volkhan", "dd/db6/a19526.html#a9dcb6026fbf3116df9abf5acaf1bfcc2", null ],
+    [ "GetAI", "dd/db6/a19526.html#aa0f76b387f9f74e0eb6dedd1b44ce34a", null ]
 ];

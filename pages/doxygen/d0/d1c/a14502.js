@@ -1,8 +1,9 @@
 var a14502 =
 [
-    [ "npc_doomfire_spirit", "d0/d1c/a14502.html#a3d16e8437c2e90ad1ab5de609f4fcff0", null ],
-    [ "Reset", "d0/d1c/a14502.html#a0600718fad91723eba74b903583c5942", null ],
-    [ "TryTeleportInDirection", "d0/d1c/a14502.html#a7fc48df636df66a006a8179fd63e2a65", null ],
-    [ "UpdateAI", "d0/d1c/a14502.html#aa0d953c28f25e2838f3b24364b51f10b", null ],
-    [ "turnConstant", "d0/d1c/a14502.html#afeab7c791c31457d86e98a0064fa6ad8", null ]
+    [ "HandlePeriodic", "d0/d1c/a14502.html#ae5f611f0643cdfc3d403cee89667b0f6", null ],
+    [ "Load", "d0/d1c/a14502.html#aa90cfb5fdb96e8670fa35dd3c16350c0", null ],
+    [ "PrepareAuraScript", "d0/d1c/a14502.html#afeb65196cbafc813bb02eb3907e59fc2", null ],
+    [ "Register", "d0/d1c/a14502.html#ac331de3219ae7da9e35e962011540bdf", null ],
+    [ "Validate", "d0/d1c/a14502.html#a7de36e3ee777b02ab6fc4671e4e9f5ab", null ],
+    [ "_buffGiven", "d0/d1c/a14502.html#aec2476ad5e046213b90af04ad91f0230", null ]
 ];

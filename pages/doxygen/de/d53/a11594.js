@@ -1,21 +1,10 @@
 var a11594 =
 [
-    [ "go_commandscript", "de/d53/a11594.html#a03cfe4efbd8ed05680308c08b40c8f1b", null ],
-    [ "DoTeleport", "de/d53/a11594.html#a7c89031f2df751d1699627c901abd80a", null ],
-    [ "GetCommands", "de/d53/a11594.html#a672e84a91c30f7378adce918608a6a94", null ],
-    [ "GetCreatureData", "de/d53/a11594.html#a4ddbfdfa0f8bc74b956dd881c55065c0", null ],
-    [ "GetGameObjectData", "de/d53/a11594.html#a4cc325ee1ecbb3dc9997d522fa15ebaa", null ],
-    [ "HandleGoCreatureCIdCommand", "de/d53/a11594.html#af5f60591fb6576161878270f4f967a08", null ],
-    [ "HandleGoCreatureNameCommand", "de/d53/a11594.html#a8ba4cf43263d267e29efa76d6b92149d", null ],
-    [ "HandleGoCreatureSpawnIdCommand", "de/d53/a11594.html#ab7fbdfbfdd9b1f94966044f4873e18a7", null ],
-    [ "HandleGoGameObjectGOIdCommand", "de/d53/a11594.html#a1b47eda64c4c33da4b973a1e6a5d651b", null ],
-    [ "HandleGoGameObjectSpawnIdCommand", "de/d53/a11594.html#ae8ee37da2d5a4cbf5e6ee64a635b804b", null ],
-    [ "HandleGoGraveyardCommand", "de/d53/a11594.html#a4138d8299e150a55ae38613cac8e4c8b", null ],
-    [ "HandleGoGridCommand", "de/d53/a11594.html#a88a8a00453f822322720476dfe91e866", null ],
-    [ "HandleGoQuestCommand", "de/d53/a11594.html#a4d48d4a889033f7eac9a8473fb6cf3aa", null ],
-    [ "HandleGoTaxinodeCommand", "de/d53/a11594.html#a7ac0084020d81c574193668aad6e3d95", null ],
-    [ "HandleGoTicketCommand", "de/d53/a11594.html#ab74a387cae5095d9ea26bf70158d6a14", null ],
-    [ "HandleGoTriggerCommand", "de/d53/a11594.html#a98149f3632dbbce523926229ebd9c15a", null ],
-    [ "HandleGoXYZCommand", "de/d53/a11594.html#a9aee7c1cbfe76d988ad28cd64840222b", null ],
-    [ "HandleGoZoneXYCommand", "de/d53/a11594.html#ae01287fc270a629b5b81117e71ac4ee8", null ]
+    [ "bf_commandscript", "de/d53/a11594.html#a806ca440ae1b51fffefee9d298dab3df", null ],
+    [ "GetCommands", "de/d53/a11594.html#a97f0192d7ccd3532cfceaebff9f242be", null ],
+    [ "HandleBattlefieldEnable", "de/d53/a11594.html#a08dd3bdd279c760fe0f126200a01619e", null ],
+    [ "HandleBattlefieldEnd", "de/d53/a11594.html#af7100032ad26a66fbc9d9b37d1da98e1", null ],
+    [ "HandleBattlefieldStart", "de/d53/a11594.html#a55102cc3b29a3ded0832ec82be1e3a5e", null ],
+    [ "HandleBattlefieldSwitch", "de/d53/a11594.html#ac12cac377007d90b25b9797f2b2cc8de", null ],
+    [ "HandleBattlefieldTimer", "de/d53/a11594.html#a7168b3db9435d70e2c5ca5eb41fc8ef2", null ]
 ];

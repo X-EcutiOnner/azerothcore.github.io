@@ -1,10 +1,10 @@
 var a28666 =
 [
-    [ "WDTFile", "d9/d83/a28666.html#a10c133d9b2f8d39cb6c2b3d8c2791b78", null ],
-    [ "~WDTFile", "d9/d83/a28666.html#a445fe73204fd378e2b63a83d9f5dca0a", null ],
-    [ "GetMap", "d9/d83/a28666.html#aa952c5bfe52a1aa851984a7e6dc963c9", null ],
-    [ "init", "d9/d83/a28666.html#a91a33f89cae35254f52e8c4f1c33e2cb", null ],
-    [ "_file", "d9/d83/a28666.html#a54ab64288144b9cf4904e67bb359e524", null ],
-    [ "_wmoNames", "d9/d83/a28666.html#a6ec4f95ff866585403670b620a42a857", null ],
-    [ "filename", "d9/d83/a28666.html#ab3dac8623598bac1152a514a00126bf6", null ]
+    [ "Exception", "d9/d83/a28666.html#a414c3d1a58dc27f84f70db7372c71394", null ],
+    [ "~Exception", "d9/d83/a28666.html#a1af5fa940a44522664bf8032b0ec164a", null ],
+    [ "Exception", "d9/d83/a28666.html#a414c3d1a58dc27f84f70db7372c71394", null ],
+    [ "~Exception", "d9/d83/a28666.html#a1af5fa940a44522664bf8032b0ec164a", null ],
+    [ "getMessage", "d9/d83/a28666.html#af9bfdfbfe28783d5ad6f7b08cb845c75", null ],
+    [ "getMessage", "d9/d83/a28666.html#af9bfdfbfe28783d5ad6f7b08cb845c75", null ],
+    [ "message", "d9/d83/a28666.html#aeb732542a0ba63cde3d9b3bff93f4eda", null ]
 ];

@@ -1,17 +1,7 @@
 var a10046 =
 [
-    [ "MoveSplineInitArgs", "dc/d25/a10046.html#aa2b6c8940e7dc8bdd4ea6047a5ff1a68", null ],
-    [ "_checkPathBounds", "dc/d25/a10046.html#a984db18cdbd061605a9d486b061dc7c0", null ],
-    [ "Validate", "dc/d25/a10046.html#a17beca23a7a7eaa298debb5e9638daca", null ],
-    [ "facing", "dc/d25/a10046.html#a8800fca5b50ab5123e92b28e921ec8b0", null ],
-    [ "flags", "dc/d25/a10046.html#ac4271ed0434fc8e7f7a70e8869d81a0e", null ],
-    [ "HasVelocity", "dc/d25/a10046.html#acad05815ff039fe1fea3d7cf56afb4f2", null ],
-    [ "initialOrientation", "dc/d25/a10046.html#ab0b66cba791fc206be5b64310480cb88", null ],
-    [ "parabolic_amplitude", "dc/d25/a10046.html#a133d1d0172fde0564a58a004cb354ed0", null ],
-    [ "path", "dc/d25/a10046.html#a3857df1ab2d6dafef4a6d796e6593341", null ],
-    [ "path_Idx_offset", "dc/d25/a10046.html#a6b6aaf43685649798db46d7b409d3e32", null ],
-    [ "splineId", "dc/d25/a10046.html#ac8c84e828c23801a68524c9811f0336b", null ],
-    [ "time_perc", "dc/d25/a10046.html#afe51d24d71b71e87015eeb4851418503", null ],
-    [ "TransformForTransport", "dc/d25/a10046.html#ad9e8518e61b2f5f6ff8380518a6ad0cc", null ],
-    [ "velocity", "dc/d25/a10046.html#af042454593bfd4dc888c1700af437933", null ]
+    [ "CommonInitializer", "dc/d25/a10046.html#ab472ff63e0178a3414630f743d4de906", null ],
+    [ "operator()", "dc/d25/a10046.html#aba4cce84b89416f54a0a25b1702a322c", null ],
+    [ "_time", "dc/d25/a10046.html#a483d83836ccbe90a842c09f7d4906436", null ],
+    [ "velocityInv", "dc/d25/a10046.html#ac2f731afc2aae338bb8b1b616b0a39c1", null ]
 ];

@@ -1,6 +1,6 @@
 var a27130 =
 [
-    [ "go_flamesAI", "dc/d22/a27130.html#a6473bff84b5c99cc616aa2d0912ed308", null ],
-    [ "UpdateAI", "dc/d22/a27130.html#a2d4c91f0bff924335881d1096c0af313", null ],
-    [ "timer", "dc/d22/a27130.html#ae53c7c6c669e982babf304f173b58b1a", null ]
+    [ "boss_emerissAI", "d5/dd4/a27134.html", "d5/dd4/a27134" ],
+    [ "boss_emeriss", "dc/d22/a27130.html#a2d373e5add3f007cf214ad9763039aa2", null ],
+    [ "GetAI", "dc/d22/a27130.html#a88a0696a12f12e612cce53c14f6b1f92", null ]
 ];

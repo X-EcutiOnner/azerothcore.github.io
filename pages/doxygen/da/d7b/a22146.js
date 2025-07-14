@@ -1,13 +1,9 @@
 var a22146 =
 [
-    [ "npc_frosthoundAI", "da/d7b/a22146.html#ac8f41789568399318cdc30292abfd93b", null ],
-    [ "AttackStart", "da/d7b/a22146.html#a0278736f670f5aac069b03530f441ae1", null ],
-    [ "EnterEvadeMode", "da/d7b/a22146.html#acc1a3842ddae670e23d8c55e8768ace9", null ],
-    [ "JustDied", "da/d7b/a22146.html#a26f4657c1d373cf4a2b45f6487a9e901", null ],
-    [ "JustEngagedWith", "da/d7b/a22146.html#a80eec4a19fb53be5946b2e021b8dd332", null ],
-    [ "JustSummoned", "da/d7b/a22146.html#a8db3dbace66dabfa54800cacbfdfab9b", null ],
-    [ "OnCharmed", "da/d7b/a22146.html#ae1e2a4763e8bfc8ab04687829830c639", null ],
-    [ "PassengerBoarded", "da/d7b/a22146.html#aea512a9811ec0766b9b175ec2ca9a447", null ],
-    [ "UpdateAI", "da/d7b/a22146.html#a9a755fd6d53d124c441357472fcb73e0", null ],
-    [ "WaypointReached", "da/d7b/a22146.html#aa87f8d5bbbd105481773941a90a96cf6", null ]
+    [ "npc_frostbrood_skytalonAI", "da/d7b/a22146.html#afc14c60466f9f0f1b20062758f18c00d", null ],
+    [ "IsSummonedBy", "da/d7b/a22146.html#a2c5729ee3371e562869878ff3a7b84bd", null ],
+    [ "MovementInform", "da/d7b/a22146.html#ae763333503176eb7e8ce407868243958", null ],
+    [ "SpellHit", "da/d7b/a22146.html#a24bb49f47dcf85c95039d0495a89e126", null ],
+    [ "UpdateAI", "da/d7b/a22146.html#a0ffc4cd2e9b61ad17c516f062d161feb", null ],
+    [ "events", "da/d7b/a22146.html#a8575d258d63e28626cffd7fc2160bee6", null ]
 ];

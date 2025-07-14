@@ -1,10 +1,7 @@
 var a12910 =
 [
-    [ "npc_scarlet_courierAI", "d2/d3f/a12910.html#a83c5e32659d38a513790322e46dcc283", null ],
-    [ "JustEngagedWith", "d2/d3f/a12910.html#aa470197f0949a413c421bda8c7c09279", null ],
-    [ "MovementInform", "d2/d3f/a12910.html#add19812d92d62b602f96ffc5fb513d6c", null ],
-    [ "Reset", "d2/d3f/a12910.html#ab642188631b67ae5ff5fd312eaf37ff0", null ],
-    [ "UpdateAI", "d2/d3f/a12910.html#ac37287a77e37785b606c742ff8d6eeeb", null ],
-    [ "uiStage", "d2/d3f/a12910.html#a2f920922f8c6f1a878d0e4978e081257", null ],
-    [ "uiStage_timer", "d2/d3f/a12910.html#a8ee22a276535a3a9c2f12a62e984d55b", null ]
+    [ "npc_unworthy_initiate_anchorAI", "d2/d3f/a12910.html#a2d1a90c4f3c5047a41c7e9f80db13a99", null ],
+    [ "GetGUID", "d2/d3f/a12910.html#a83cca82e7d75231a6aa586f67dad766e", null ],
+    [ "SetGUID", "d2/d3f/a12910.html#a3d2ccbeeddc28002a4eb2392a62ba031", null ],
+    [ "prisonerGUID", "d2/d3f/a12910.html#a38a3e7e7207bb6d809d03c90e67f7742", null ]
 ];

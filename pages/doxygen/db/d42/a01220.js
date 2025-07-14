@@ -1,5 +1,5 @@
 var a01220 =
 [
-    [ "WorldPackets::Totem::TotemDestroyed", "d7/db8/a10880.html", "d7/db8/a10880" ],
-    [ "WorldPackets::Totem::TotemCreated", "db/da9/a10884.html", "db/da9/a10884" ]
+    [ "ConfusedMovementGenerator< T >", "d7/d6a/a09942.html", "d7/d6a/a09942" ],
+    [ "MAX_CONF_WAYPOINTS", "db/d42/a01220.html#ad4f7a217e114623ec80b1743f39ed3ea", null ]
 ];

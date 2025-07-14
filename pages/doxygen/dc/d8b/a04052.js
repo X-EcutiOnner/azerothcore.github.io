@@ -1,69 +1,72 @@
 var a04052 =
 [
-    [ "HalaaIds", "d8/d5c/a22504.html", "d8/d5c/a22504" ],
-    [ "OPvPCapturePointNA", "d1/d5b/a22508.html", "d1/d5b/a22508" ],
-    [ "OutdoorPvPNA", "d6/d60/a22512.html", "d6/d60/a22512" ],
-    [ "HalaaNPCS", "dc/d8b/a04052.html#a3951c5b11bab0eeb9b06c1e19b25c036", null ],
-    [ "ControlGOTypes", "dc/d8b/a04052.html#a671e2c9be7783733226427ebd264eb19", [
-      [ "NA_ROOST_S", "dc/d8b/a04052.html#a671e2c9be7783733226427ebd264eb19afa875929ebc8b1c2db3a195ee37095ad", null ],
-      [ "NA_ROOST_W", "dc/d8b/a04052.html#a671e2c9be7783733226427ebd264eb19a237f904232faee9c60bf01b3e5d27623", null ],
-      [ "NA_ROOST_N", "dc/d8b/a04052.html#a671e2c9be7783733226427ebd264eb19ad182fca04bd07e7f4b7a924bf476a520", null ],
-      [ "NA_ROOST_E", "dc/d8b/a04052.html#a671e2c9be7783733226427ebd264eb19ac2360c16ea760d37dcec325a5165ec8c", null ],
-      [ "NA_BOMB_WAGON_S", "dc/d8b/a04052.html#a671e2c9be7783733226427ebd264eb19a8fe4900cb979a36257cc3ee70cfcd56e", null ],
-      [ "NA_BOMB_WAGON_W", "dc/d8b/a04052.html#a671e2c9be7783733226427ebd264eb19a7ff23be34578fcc2d55e1f088b3e00cb", null ],
-      [ "NA_BOMB_WAGON_N", "dc/d8b/a04052.html#a671e2c9be7783733226427ebd264eb19a7b1be1932fafd2586d4706e8541b85b8", null ],
-      [ "NA_BOMB_WAGON_E", "dc/d8b/a04052.html#a671e2c9be7783733226427ebd264eb19a2447af22ca220eab12dbc987125a6870", null ],
-      [ "NA_DESTROYED_ROOST_S", "dc/d8b/a04052.html#a671e2c9be7783733226427ebd264eb19a6267ce0c271fd7e77fcebb63e09b4099", null ],
-      [ "NA_DESTROYED_ROOST_W", "dc/d8b/a04052.html#a671e2c9be7783733226427ebd264eb19ab023c62e57c5d189c91a4babd13525cf", null ],
-      [ "NA_DESTROYED_ROOST_N", "dc/d8b/a04052.html#a671e2c9be7783733226427ebd264eb19a9cbe15da02cd0024dbedf82b2c752f0f", null ],
-      [ "NA_DESTROYED_ROOST_E", "dc/d8b/a04052.html#a671e2c9be7783733226427ebd264eb19a81fe1a37a84a9d647898f65913718e3e", null ],
-      [ "NA_CONTROL_GO_NUM", "dc/d8b/a04052.html#a671e2c9be7783733226427ebd264eb19ac9ebedb94fb10e2eb33d411be0865bd7", null ]
+    [ "npc_cameron", "d1/d68/a13538.html", "d1/d68/a13538" ],
+    [ "npc_supervisor_raelen", "d0/d46/a13542.html", "d0/d46/a13542" ],
+    [ "npc_eastvale_peasent", "dd/de2/a13546.html", "dd/de2/a13546" ],
+    [ "COG_Creatures", "dc/d8b/a04052.html#a65c53b71f65b39ebdb719ba85df40c00", [
+      [ "NPC_DANA", "dc/d8b/a04052.html#a65c53b71f65b39ebdb719ba85df40c00aab1360bef063d32d66b5592222983b79", null ],
+      [ "NPC_CAMERON", "dc/d8b/a04052.html#a65c53b71f65b39ebdb719ba85df40c00a2774529c2dae7e5aa5c9dca851e92cee", null ],
+      [ "NPC_JOHN", "dc/d8b/a04052.html#a65c53b71f65b39ebdb719ba85df40c00a92ee2b12ddc8057ce39df7fc8e26cad8", null ],
+      [ "NPC_LISA", "dc/d8b/a04052.html#a65c53b71f65b39ebdb719ba85df40c00a54c1064e732d54bcc50cc2fe6c83fc00", null ],
+      [ "NPC_AARON", "dc/d8b/a04052.html#a65c53b71f65b39ebdb719ba85df40c00a1b159aa0575b48c2c155ce477231d648", null ],
+      [ "NPC_JOSE", "dc/d8b/a04052.html#a65c53b71f65b39ebdb719ba85df40c00ad461074ca1d14ce25750b36d50dff8d9", null ]
     ] ],
-    [ "FlightSpellsNA", "dc/d8b/a04052.html#a68fd902d513cc8e7bf37946f9d26a80b", [
-      [ "NA_SPELL_FLY_SOUTH", "dc/d8b/a04052.html#a68fd902d513cc8e7bf37946f9d26a80ba86e4e8c951657bc667c88d574dcbdb8f", null ],
-      [ "NA_SPELL_FLY_WEST", "dc/d8b/a04052.html#a68fd902d513cc8e7bf37946f9d26a80ba9a9deaeede3e488499190b425fd3bdc2", null ],
-      [ "NA_SPELL_FLY_NORTH", "dc/d8b/a04052.html#a68fd902d513cc8e7bf37946f9d26a80bafd6b9390ea045f8cfa5feef209cb9be3", null ],
-      [ "NA_SPELL_FLY_EAST", "dc/d8b/a04052.html#a68fd902d513cc8e7bf37946f9d26a80bab97171fab8df1e600228b3da1456452d", null ]
+    [ "COG_Events", "dc/d8b/a04052.html#ab264f1364ee8d7515c93f7604d783521", [
+      [ "EVENT_WP_START_GOLDSHIRE", "dc/d8b/a04052.html#ab264f1364ee8d7515c93f7604d783521a5ca2cf14da690bfda633065ea736e15f", null ],
+      [ "EVENT_WP_START_WOODS", "dc/d8b/a04052.html#ab264f1364ee8d7515c93f7604d783521a05142c4d528718117f9c7c66c066d67a", null ],
+      [ "EVENT_WP_START_HOUSE", "dc/d8b/a04052.html#ab264f1364ee8d7515c93f7604d783521ad3ea93fa2e5aa5f9c975333fa1b1ff2d", null ],
+      [ "EVENT_WP_START_LISA", "dc/d8b/a04052.html#ab264f1364ee8d7515c93f7604d783521acc6320f492dc6b0283b8c26d0c8dabc8", null ],
+      [ "EVENT_PLAY_SOUNDS", "dc/d8b/a04052.html#ab264f1364ee8d7515c93f7604d783521a9f179e3b64119e37ba2bd7197c842ab4", null ],
+      [ "EVENT_BEGIN_EVENT", "dc/d8b/a04052.html#ab264f1364ee8d7515c93f7604d783521a82d09cc2c3aa83b16da003fcf3cb98b7", null ],
+      [ "EVENT_RANDOM_MOVEMENT", "dc/d8b/a04052.html#ab264f1364ee8d7515c93f7604d783521ac6c378046d721cffff0f049904ea03d1", null ]
     ] ],
-    [ "HalaaCreaturesSpawn", "dc/d8b/a04052.html#a394f453184d3eefd51298b772b4c789a", [
-      [ "NA_HALAA_CREATURES", "dc/d8b/a04052.html#a394f453184d3eefd51298b772b4c789aa40c5b092548e0e873f1dbe1ff48a0910", null ],
-      [ "NA_HALAA_CREATURE_TEAM_SPAWN", "dc/d8b/a04052.html#a394f453184d3eefd51298b772b4c789aa79500d69d3c666a75f664fa63f63de94", null ],
-      [ "NA_HALAA_MAX_CREATURE_SPAWN", "dc/d8b/a04052.html#a394f453184d3eefd51298b772b4c789aa3d72e7f62a2349039b0c269f0c469553", null ]
+    [ "COG_GameEvent", "dc/d8b/a04052.html#a7f96446be0a530da18223bb22482eb13", [
+      [ "GAME_EVENT_CHILDREN_OF_GOLDSHIRE", "dc/d8b/a04052.html#a7f96446be0a530da18223bb22482eb13ae98243feecf1c9640cede7b94f8681cb", null ]
     ] ],
-    [ "HalaaGuardsNA", "dc/d8b/a04052.html#a4e91f98214fe304c148fea20beaa5fae", [
-      [ "NA_HALAANI_GUARD_A", "dc/d8b/a04052.html#a4e91f98214fe304c148fea20beaa5faeaa2b1c68dc890890449426eb6d46ff6c0", null ],
-      [ "NA_HALAANI_GUARD_H", "dc/d8b/a04052.html#a4e91f98214fe304c148fea20beaa5faea6486eb6f2da8e52df614e7728a1f4304", null ]
+    [ "COG_Paths", "dc/d8b/a04052.html#a2be3c31abb125ee2f4e5db0dffba1303", [
+      [ "STORMWIND_PATH", "dc/d8b/a04052.html#a2be3c31abb125ee2f4e5db0dffba1303ad1a5074e62ba573b4ca7b603db8af713", null ],
+      [ "GOLDSHIRE_PATH", "dc/d8b/a04052.html#a2be3c31abb125ee2f4e5db0dffba1303ae667c0211d3eff5f76656bf6d0008172", null ],
+      [ "WOODS_PATH", "dc/d8b/a04052.html#a2be3c31abb125ee2f4e5db0dffba1303a3b6098ca7c08a02325e87d2e2d51e097", null ],
+      [ "HOUSE_PATH", "dc/d8b/a04052.html#a2be3c31abb125ee2f4e5db0dffba1303a613998450aaf10ae6d9eb7b70fe9b773", null ],
+      [ "LISA_PATH", "dc/d8b/a04052.html#a2be3c31abb125ee2f4e5db0dffba1303a2dc260175ba90e722d9fd3a5ec22d80c", null ]
     ] ],
-    [ "HalaaStates", "dc/d8b/a04052.html#a2c40def86e302e716c09a15f01e5b809", [
-      [ "HALAA_N", "dc/d8b/a04052.html#a2c40def86e302e716c09a15f01e5b809a255888833d6c2bfcb48d6300e3a00e76", null ],
-      [ "HALAA_N_A", "dc/d8b/a04052.html#a2c40def86e302e716c09a15f01e5b809a5e75a8ea3c221ca8d430a5c3a059ffba", null ],
-      [ "HALAA_A", "dc/d8b/a04052.html#a2c40def86e302e716c09a15f01e5b809a7e97d445255ae31253d61c6042240799", null ],
-      [ "HALAA_N_H", "dc/d8b/a04052.html#a2c40def86e302e716c09a15f01e5b809a83d195b2954e67659ed1f1c246d2a889", null ],
-      [ "HALAA_H", "dc/d8b/a04052.html#a2c40def86e302e716c09a15f01e5b809a7159ad16ee5d51946529c3cd325c6547", null ]
+    [ "COG_Sounds", "dc/d8b/a04052.html#a41b64d07acba30bca6797dd30accb701", [
+      [ "BANSHEE_DEATH", "dc/d8b/a04052.html#a41b64d07acba30bca6797dd30accb701a778d73a82a4986348c2f576778911c1d", null ],
+      [ "BANSHEEPREAGGRO", "dc/d8b/a04052.html#a41b64d07acba30bca6797dd30accb701a9194ea7479faaf1cd6e95b3d3ef5133e", null ],
+      [ "CTHUN_YOU_WILL_DIE", "dc/d8b/a04052.html#a41b64d07acba30bca6797dd30accb701a82970f5a7615c954b42ee1a4fc6e175c", null ],
+      [ "CTHUN_DEATH_IS_CLOSE", "dc/d8b/a04052.html#a41b64d07acba30bca6797dd30accb701a6597c2048b383d43a5ff472d715fdc05", null ],
+      [ "HUMAN_FEMALE_EMOTE_CRY", "dc/d8b/a04052.html#a41b64d07acba30bca6797dd30accb701a154e3f7a96cd9c9d13a04b5fc36ec18a", null ],
+      [ "GHOSTDEATH", "dc/d8b/a04052.html#a41b64d07acba30bca6797dd30accb701a5ad070314ff7ce37671151ab6fd1df05", null ]
     ] ],
-    [ "OutdoorPvPNASpells", "dc/d8b/a04052.html#a933dca48e43f02c2e7846375e0e3a3e2", [
-      [ "NA_KILL_TOKEN_ALLIANCE", "dc/d8b/a04052.html#a933dca48e43f02c2e7846375e0e3a3e2aae0070f813d277d5864226d25a571413", null ],
-      [ "NA_KILL_TOKEN_HORDE", "dc/d8b/a04052.html#a933dca48e43f02c2e7846375e0e3a3e2aacbd3b5420e976421bab93b50cfa1f0c", null ],
-      [ "NA_CAPTURE_BUFF", "dc/d8b/a04052.html#a933dca48e43f02c2e7846375e0e3a3e2a734083143cec178f24ecabb449f0637c", null ]
+    [ "EastvalePeasent", "dc/d8b/a04052.html#a7e632be8f8b8da84644527621a3c2769", [
+      [ "EVENT_MOVETORAELEN", "dc/d8b/a04052.html#a7e632be8f8b8da84644527621a3c2769a7060cdf87e903e239424f6de8b3c4e01", null ],
+      [ "EVENT_TALKTORAELEN1", "dc/d8b/a04052.html#a7e632be8f8b8da84644527621a3c2769ab389694ba3f2e68242451516333631e6", null ],
+      [ "EVENT_TALKTORAELEN2", "dc/d8b/a04052.html#a7e632be8f8b8da84644527621a3c2769aa71bff713cc0f565434450c758f74f49", null ],
+      [ "EVENT_RAELENTALK", "dc/d8b/a04052.html#a7e632be8f8b8da84644527621a3c2769a07d0b4a5d57b000f4aa7ac0f641432e0", null ],
+      [ "EVENT_TALKTORAELEN3", "dc/d8b/a04052.html#a7e632be8f8b8da84644527621a3c2769a3f3781fe8cd1b69d99d36799fe7bc343", null ],
+      [ "EVENT_TALKTORAELEN4", "dc/d8b/a04052.html#a7e632be8f8b8da84644527621a3c2769aa2b4baec842eb98eed0d720a2d1e292f", null ],
+      [ "EVENT_PATHBACK", "dc/d8b/a04052.html#a7e632be8f8b8da84644527621a3c2769a2749a3e614e97936834faf0763d89f85", null ],
+      [ "NPC_SUPERVISOR_RAELEN", "dc/d8b/a04052.html#a7e632be8f8b8da84644527621a3c2769a55dd8d60432601f01a996db6af736667", null ],
+      [ "PATH_PEASENT_0", "dc/d8b/a04052.html#a7e632be8f8b8da84644527621a3c2769ac3af8fa1b480f8ffa2f3ce8f07015d90", null ],
+      [ "PATH_PEASENT_1", "dc/d8b/a04052.html#a7e632be8f8b8da84644527621a3c2769a90bfaadda89dbdfe74e830dba63392b6", null ],
+      [ "PATH_PEASENT_2", "dc/d8b/a04052.html#a7e632be8f8b8da84644527621a3c2769a691ee393540918dfc1b592fab31778d7", null ],
+      [ "PATH_PEASENT_3", "dc/d8b/a04052.html#a7e632be8f8b8da84644527621a3c2769a94a20bb05ec932c0c58387e63ee95c7d", null ],
+      [ "PATH_PEASENT_4", "dc/d8b/a04052.html#a7e632be8f8b8da84644527621a3c2769aa40d5d29c4805d92281561d5491f42e0", null ],
+      [ "SAY_RAELEN", "dc/d8b/a04052.html#a7e632be8f8b8da84644527621a3c2769ae2a00c9eac8422904f7f4e82661114fc", null ],
+      [ "SOUND_PEASENT_GREETING_1", "dc/d8b/a04052.html#a7e632be8f8b8da84644527621a3c2769a76573a8111b11c8e5d82081211d778d2", null ],
+      [ "SOUND_PEASENT_GREETING_2", "dc/d8b/a04052.html#a7e632be8f8b8da84644527621a3c2769a78f08b9a1fa0e5891df9dedd3030107d", null ],
+      [ "SOUND_PEASENT_GREETING_3", "dc/d8b/a04052.html#a7e632be8f8b8da84644527621a3c2769ace4122d507bca6f6d027e9e5d8273942", null ],
+      [ "SOUND_PEASENT_LEAVING_1", "dc/d8b/a04052.html#a7e632be8f8b8da84644527621a3c2769a6b7ddbed101521381be4ee097e03eadf", null ],
+      [ "SOUND_PEASENT_LEAVING_2", "dc/d8b/a04052.html#a7e632be8f8b8da84644527621a3c2769a94849b28c308e34fe7c2f3cdd3b569e1", null ],
+      [ "SOUND_PEASENT_LEAVING_3", "dc/d8b/a04052.html#a7e632be8f8b8da84644527621a3c2769a11f78805bf631264c76272506c189f65", null ],
+      [ "SOUND_PEASENT_LEAVING_4", "dc/d8b/a04052.html#a7e632be8f8b8da84644527621a3c2769a0537de2a4772069d0cc2f66767b7d404", null ],
+      [ "SOUND_PEASENT_LEAVING_5", "dc/d8b/a04052.html#a7e632be8f8b8da84644527621a3c2769a4631839cb0120966d74bb95fce52c358", null ],
+      [ "SPELL_TRANSFORM_PEASENT_WITH_WOOD", "dc/d8b/a04052.html#a7e632be8f8b8da84644527621a3c2769a716c6a90c42b3ee3811ac25a342faa56", null ]
     ] ],
-    [ "WyvernStates", "dc/d8b/a04052.html#a408ccf9c409baffb9c6d03f2edde557c", [
-      [ "WYVERN_NEU_HORDE", "dc/d8b/a04052.html#a408ccf9c409baffb9c6d03f2edde557ca9069d119becf81d131d0212caf8c6ab5", null ],
-      [ "WYVERN_NEU_ALLIANCE", "dc/d8b/a04052.html#a408ccf9c409baffb9c6d03f2edde557ca98723680d7ec1dc91030d50df4603200", null ],
-      [ "WYVERN_HORDE", "dc/d8b/a04052.html#a408ccf9c409baffb9c6d03f2edde557cafdcbf2305711075969d48e3a56c2a578", null ],
-      [ "WYVERN_ALLIANCE", "dc/d8b/a04052.html#a408ccf9c409baffb9c6d03f2edde557cabc4cc5f16edf95d854b436d27ce77c8e", null ]
+    [ "SupervisorRaelen", "dc/d8b/a04052.html#a3bd40a8e75f5b073b6027152c2acd047", [
+      [ "EVENT_FIND_PEASENTS", "dc/d8b/a04052.html#a3bd40a8e75f5b073b6027152c2acd047a05dcad03ab565112d34579d0ef216f19", null ],
+      [ "EVENT_NEXT_PEASENT", "dc/d8b/a04052.html#a3bd40a8e75f5b073b6027152c2acd047a1a939768178f2c95f03e6c1490c9e2c0", null ],
+      [ "NPC_EASTVALE_PEASENT", "dc/d8b/a04052.html#a3bd40a8e75f5b073b6027152c2acd047ab484ca934ce49cee056ba54c53003ddd", null ]
     ] ],
-    [ "AllianceControlGOs", "dc/d8b/a04052.html#a6da5d6b9a0ecd5b15ced61c27d1c8aa4", null ],
-    [ "FLIGHT_NODES_NUM", "dc/d8b/a04052.html#a767a89853ad9fbcea5e94bae963b3168", null ],
-    [ "FlightPathEndNodes", "dc/d8b/a04052.html#aa4cf9c47955c274ca0bdce61e98a3a5a", null ],
-    [ "FlightPathStartNodes", "dc/d8b/a04052.html#ac9bda252b1c34c9a478d3251069384b8", null ],
-    [ "HordeControlGOs", "dc/d8b/a04052.html#a2ca90cdca32c0c9a0fef5ece362bb3e6", null ],
-    [ "NA_BUFF_ZONE", "dc/d8b/a04052.html#ae9287f13e383331fe53c5a514989ca99", null ],
-    [ "NA_CREDIT_MARKER", "dc/d8b/a04052.html#a8c04516b1462a78d64563849fe3136a1", null ],
-    [ "NA_GUARD_CHECK_TIME", "dc/d8b/a04052.html#a0f69597d7fce786cae5202cb06be06cf", null ],
-    [ "NA_GUARDS_MAX", "dc/d8b/a04052.html#a3fba4585a3d42e96191aa62b6938472f", null ],
-    [ "NA_HALAA_BOMB", "dc/d8b/a04052.html#a793a1d2d8d6683df19de9b728d2af1de", null ],
-    [ "NA_HALAA_GRAVEYARD", "dc/d8b/a04052.html#a23eddcc072a261674acb3acb48f637cb", null ],
-    [ "NA_HALAA_GRAVEYARD_ZONE", "dc/d8b/a04052.html#a74f493038b14c5e7e5a00c661339278e", null ],
-    [ "NA_RESPAWN_TIME", "dc/d8b/a04052.html#a6fd5686dd6cf4251b3b33513928f44bd", null ],
-    [ "PatrolCreatureEntry", "dc/d8b/a04052.html#aac17891901d073bcbdc4b9b919bb8f43", null ]
+    [ "AddSC_elwynn_forest", "dc/d8b/a04052.html#aef9caff22cc5e92156da2c393ecfb531", null ]
 ];

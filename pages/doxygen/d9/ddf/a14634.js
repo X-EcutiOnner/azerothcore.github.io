@@ -1,7 +1,6 @@
 var a14634 =
 [
-    [ "OnRemove", "d9/ddf/a14634.html#a98bf88bd917b441d2ad81716dcd38ec1", null ],
-    [ "PrepareAuraScript", "d9/ddf/a14634.html#ab082adc51983f124d0467cbff63cffb7", null ],
-    [ "Register", "d9/ddf/a14634.html#a2feb8adaad212ee29d9ec6d9957575a4", null ],
-    [ "Validate", "d9/ddf/a14634.html#a73421b82f483e73314dbb862fb0a11c7", null ]
+    [ "FilterTargets", "d9/ddf/a14634.html#a45b0713b2942199bf0e19752fe765aac", null ],
+    [ "PrepareSpellScript", "d9/ddf/a14634.html#a7f7177d7754a99743202f69a0342f587", null ],
+    [ "Register", "d9/ddf/a14634.html#a27b432d8571d48c3f5fb025bbbd29271", null ]
 ];

@@ -1,8 +1,10 @@
 var a18314 =
 [
-    [ "npc_lk_wicked_spiritAI", "dd/da8/a18314.html#a6323ddd6c0932f3d73a6de4bd3c4d5dd", null ],
-    [ "CanAIAttack", "dd/da8/a18314.html#ae094420b1a6e134632baa0b086c806c6", null ],
-    [ "JustDied", "dd/da8/a18314.html#adf153fab1c8639b2b5790ed418afb85d", null ],
-    [ "JustRespawned", "dd/da8/a18314.html#a1acfbead42b66dd8f70a85efc8ce2e6f", null ],
-    [ "Reset", "dd/da8/a18314.html#a8b15079251b6855679d738a342126006", null ]
+    [ "HandleScript", "dd/da8/a18314.html#a18c80010b9e8803b3c225acf2dd0b605", null ],
+    [ "Load", "dd/da8/a18314.html#af31fd5b1f9cdc67650eec5e305f095bf", null ],
+    [ "PrepareSpellScript", "dd/da8/a18314.html#afcc1efc69d73086a9ab686855911e516", null ],
+    [ "Register", "dd/da8/a18314.html#a061e110b9a032a9bbd0a48f686d16a84", null ],
+    [ "ReplaceTarget", "dd/da8/a18314.html#a01cb7d25bef14a2266d81594544f6283", null ],
+    [ "SelectTarget", "dd/da8/a18314.html#aa06b7505ff483bc5e534cc37d909b28c", null ],
+    [ "_target", "dd/da8/a18314.html#a3a84a9d7109845d201b395f05f66d109", null ]
 ];

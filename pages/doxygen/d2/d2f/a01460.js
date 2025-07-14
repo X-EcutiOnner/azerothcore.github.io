@@ -1,14 +1,11 @@
 var a01460 =
 [
-    [ "WeatherMap", "d2/d2f/a01460.html#afdd64650acc01e75684c5ae2b269d5c1", null ],
-    [ "WeatherZoneMap", "d2/d2f/a01460.html#a77b1d830c50ce06ef7bb67f75cbd48b6", null ],
-    [ "AddWeather", "d2/d2f/a01460.html#ga1f76350b68494335d48ae206b87e190c", null ],
-    [ "FindWeather", "d2/d2f/a01460.html#gadd11deec2098fed61adf7910b8f09cc6", null ],
-    [ "GetWeatherData", "d2/d2f/a01460.html#a8d453fe2bfb19b170807fe92e393bc51", null ],
-    [ "LoadWeatherData", "d2/d2f/a01460.html#ga6c7d8a9fc5dfce0880220f4b5b8cd623", null ],
-    [ "RemoveWeather", "d2/d2f/a01460.html#ga296a3324a3a38984149fae3e5d62435f", null ],
-    [ "SendFineWeatherUpdateToPlayer", "d2/d2f/a01460.html#gac86b4e254146468a7412d8fc7b0c27f2", null ],
-    [ "Update", "d2/d2f/a01460.html#ga45f0da6cf9e14a99380b4b9be2890801", null ],
-    [ "m_weathers", "d2/d2f/a01460.html#ac2bde7e8b2ecff6ab9b2705d01ce8b2c", null ],
-    [ "mWeatherZoneMap", "d2/d2f/a01460.html#a977110fadc5eac5e2efa26106382d408", null ]
+    [ "StableResultCode", "d2/d2f/a01460.html#abee8740a43e35bc796d1287225999514", [
+      [ "STABLE_ERR_MONEY", "d2/d2f/a01460.html#abee8740a43e35bc796d1287225999514a2e1a0a641b8771fd5ac124129e76b8c2", null ],
+      [ "STABLE_ERR_STABLE", "d2/d2f/a01460.html#abee8740a43e35bc796d1287225999514af3160ddc997ae8fc32c4420aa8169898", null ],
+      [ "STABLE_SUCCESS_STABLE", "d2/d2f/a01460.html#abee8740a43e35bc796d1287225999514a87d687b90cdb7cc884567156b95da61e", null ],
+      [ "STABLE_SUCCESS_UNSTABLE", "d2/d2f/a01460.html#abee8740a43e35bc796d1287225999514afb9c62c9485c5e5f50c502a61a8f0ab1", null ],
+      [ "STABLE_SUCCESS_BUY_SLOT", "d2/d2f/a01460.html#abee8740a43e35bc796d1287225999514aaa2a19926ebaa7372be4a798c5513317", null ],
+      [ "STABLE_ERR_EXOTIC", "d2/d2f/a01460.html#abee8740a43e35bc796d1287225999514ac96f0f7b1cccb7a29b30b8152c780f47", null ]
+    ] ]
 ];

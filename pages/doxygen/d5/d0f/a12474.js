@@ -1,8 +1,6 @@
 var a12474 =
 [
-    [ "npc_lava_spawn", "d5/d0f/a12474.html#aff97441b2cfbcd68e0788be022ee6236", null ],
-    [ "JustEngagedWith", "d5/d0f/a12474.html#a3b93df8de3c0f8a50768b860cfa11b72", null ],
-    [ "Reset", "d5/d0f/a12474.html#ab774d354991c90b1421e6783c0513e59", null ],
-    [ "UpdateAI", "d5/d0f/a12474.html#a6a17c8c40b0110b688ff5faef5585185", null ],
-    [ "_scheduler", "d5/d0f/a12474.html#ab7a6b2beec095f3f903ad4443813cfce", null ]
+    [ "boss_shazzrahAI", "dd/d4f/a12478.html", "dd/d4f/a12478" ],
+    [ "boss_shazzrah", "d5/d0f/a12474.html#a99a162d6eac5c9046a27f53ec05af7e4", null ],
+    [ "GetAI", "d5/d0f/a12474.html#a8135f6ab246dbce4c2ebebe0e7f137d5", null ]
 ];

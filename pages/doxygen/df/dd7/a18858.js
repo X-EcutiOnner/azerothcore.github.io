@@ -1,6 +1,5 @@
 var a18858 =
 [
-    [ "boss_faerlinaAI", "da/d5c/a18862.html", "da/d5c/a18862" ],
-    [ "boss_faerlina", "df/dd7/a18858.html#a86543ac855287e3de2e3ffcde66fb1cb", null ],
-    [ "GetAI", "df/dd7/a18858.html#aed8214323ff5b792d9bd6aae478e7848", null ]
+    [ "at_icc_putricide_trap", "df/dd7/a18858.html#a9d4183629deada9c22750b8a34e94583", null ],
+    [ "OnTrigger", "df/dd7/a18858.html#ad59c2f694c50fabf1946d2c7ae726413", null ]
 ];

@@ -1,7 +1,8 @@
 var a24022 =
 [
-    [ "npc_maxx_a_million_escortAI", "d4/d05/a24026.html", "d4/d05/a24026" ],
-    [ "npc_maxx_a_million_escort", "d3/d47/a24022.html#a958a88b495594dd8e14919d950ac917a", null ],
-    [ "GetAI", "d3/d47/a24022.html#af79619087908d442f503e0b0d633937d", null ],
-    [ "OnQuestAccept", "d3/d47/a24022.html#af3c2f2708702f7d25e712c63a45e69e0", null ]
+    [ "npc_ancestral_wolfAI", "d3/d47/a24022.html#a59ccca7093575f4bcac57a4751d977d4", null ],
+    [ "MoveInLineOfSight", "d3/d47/a24022.html#aec5788f0be3c1dcb63b3e61b50ae39c1", null ],
+    [ "Reset", "d3/d47/a24022.html#a9778a1648ca0007f7daf4ee98308d8d2", null ],
+    [ "WaypointReached", "d3/d47/a24022.html#a2b553c29823e5ef888ee02a3ed413386", null ],
+    [ "ryga", "d3/d47/a24022.html#ac238214604720e298124b58c35d58e05", null ]
 ];

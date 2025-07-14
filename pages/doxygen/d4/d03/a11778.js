@@ -1,8 +1,12 @@
 var a11778 =
 [
-    [ "ironhand_guardianAI", "d4/d03/a11778.html#ab109b4ba9d399bd8c7d7dd5c04f2c618", null ],
-    [ "SetData", "d4/d03/a11778.html#ab4e6402951bf45910fb3399ea107b207", null ],
-    [ "UpdateAI", "d4/d03/a11778.html#a095b11f44935c8ddb43a20c095495507", null ],
-    [ "events", "d4/d03/a11778.html#a13ed887285809d2fcad0d23fdf37face", null ],
-    [ "flames_enabled", "d4/d03/a11778.html#ab54e1eac19a8b51e2aa9fe4bc5f08e46", null ]
+    [ "wp_commandscript", "d4/d03/a11778.html#a152610b5faf3ee05bb830bbf820b7162", null ],
+    [ "GetCommands", "d4/d03/a11778.html#a55ecc8d67d7c240df1b177f755fc5850", null ],
+    [ "HandleWpAddCommand", "d4/d03/a11778.html#adedc9b5184e1c29edfa80734e59b8bf0", null ],
+    [ "HandleWpEventCommand", "d4/d03/a11778.html#a16fdb79724677307198ccf2fd6aa670d", null ],
+    [ "HandleWpLoadCommand", "d4/d03/a11778.html#a3fae6e6c16f1f6ed1e9dc9da716d064d", null ],
+    [ "HandleWpModifyCommand", "d4/d03/a11778.html#a83677a6b64c3e5f6e44345026775721a", null ],
+    [ "HandleWpReloadCommand", "d4/d03/a11778.html#a671598d3727fa7e9358391008c690cb6", null ],
+    [ "HandleWpShowCommand", "d4/d03/a11778.html#ac07358385858058e3df99bd0dd9ab5c1", null ],
+    [ "HandleWpUnLoadCommand", "d4/d03/a11778.html#a8e0f636c31f69acf5b9b0b27e9a9462e", null ]
 ];

@@ -1,12 +1,9 @@
 var a14194 =
 [
-    [ "npc_alexstraza_the_lifebinder", "de/d24/a14194.html#a7c30258540803bde75843cb070b6a288", null ],
-    [ "MoveInLineOfSight", "de/d24/a14194.html#af5960eb1cf63fb0b5b8dc2bfd86b8e47", null ],
-    [ "Reset", "de/d24/a14194.html#a8144ed8ada8cd4fb11d74393ed0c525a", null ],
-    [ "SetData", "de/d24/a14194.html#aead5ae4ffda9732829e39b8c485a3c3e", null ],
-    [ "UpdateAI", "de/d24/a14194.html#ad13b21d571833210b1c069b7ea8bea05", null ],
-    [ "orphanGUID", "de/d24/a14194.html#a7c2901f01e4fcafaea9c00ff58dbeaf3", null ],
-    [ "phase", "de/d24/a14194.html#a98216e43888854ac93f22169a0e253e5", null ],
-    [ "playerGUID", "de/d24/a14194.html#a063fc935bc8f46f5487e9c338e497ec4", null ],
-    [ "timer", "de/d24/a14194.html#a41791aaa24102383fe4d3f43c714c3bb", null ]
+    [ "CheckCast", "de/d24/a14194.html#a02965b55e8efadbd21e5afdd824f1dec", null ],
+    [ "FilterTargets", "de/d24/a14194.html#a9638048b4107db116474abf8e18d7760", null ],
+    [ "HandleBeforeHit", "de/d24/a14194.html#a3567c72e999ad6ca9db15b4d6ddadafb", null ],
+    [ "HandleScriptEffect", "de/d24/a14194.html#a47d6a6c1fcb2b04782e54d3797c1f42c", null ],
+    [ "PrepareSpellScript", "de/d24/a14194.html#aab9211291bd9dab8255d94e4eb07bf8e", null ],
+    [ "Register", "de/d24/a14194.html#a73e6c9c91dccb309207fa3aeb6bd9d6f", null ]
 ];

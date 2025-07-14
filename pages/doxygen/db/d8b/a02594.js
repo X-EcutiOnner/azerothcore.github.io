@@ -1,13 +1,9 @@
 var a02594 =
 [
-    [ "instance_sunken_temple", "d0/d96/a13160.html", "d0/d96/a13160" ],
-    [ "instance_sunken_temple::instance_sunken_temple_InstanceMapScript", "dd/d19/a13164.html", "dd/d19/a13164" ],
-    [ "at_malfurion_stormrage", "d5/dcb/a13168.html", "d5/dcb/a13168" ],
-    [ "spell_temple_of_atal_hakkar_hex_of_jammal_an_aura", "d3/d07/a13172.html", "d3/d07/a13172" ],
-    [ "spell_temple_of_atal_hakkar_awaken_the_soulflayer", "de/d5a/a13176.html", "de/d5a/a13176" ],
-    [ "MalfurionMisc", "db/d8b/a02594.html#a754fcfafd80b5a6c2ea444f49cfbc7d1", [
-      [ "QUEST_ERANIKUS_TYRANT_OF_DREAMS", "db/d8b/a02594.html#a754fcfafd80b5a6c2ea444f49cfbc7d1a99089f2ff32693b053abae21941aed5d", null ],
-      [ "QUEST_THE_CHARGE_OF_DRAGONFLIGHTS", "db/d8b/a02594.html#a754fcfafd80b5a6c2ea444f49cfbc7d1aabeeb62adbb72d2616aa2e6e393f2526", null ]
-    ] ],
-    [ "AddSC_instance_sunken_temple", "db/d8b/a02594.html#ab3f2a91fe096585f54078e8884cb25f7", null ]
+    [ "instance_blood_furnace", "d5/d64/a23530.html", "d5/d64/a23530" ],
+    [ "instance_blood_furnace::instance_blood_furnace_InstanceMapScript", "d1/d9e/a23534.html", "d1/d9e/a23534" ],
+    [ "AddSC_instance_blood_furnace", "db/d8b/a02594.html#af803a0e2dfb7f53b6682e02b90bef865", null ],
+    [ "creatureData", "db/d8b/a02594.html#a412286b689bd324fedd65ddd8dde8afb", null ],
+    [ "doorData", "db/d8b/a02594.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
+    [ "gameobjectData", "db/d8b/a02594.html#a845a92716bd40c99a93eb0715cd737b0", null ]
 ];

@@ -1,14 +1,12 @@
 var a07894 =
 [
-    [ "LfgQueueStatusData", "d1/d53/a07894.html#af50fc3422feb137a7ccd820e2ac2fe44", null ],
-    [ "dps", "d1/d53/a07894.html#a99a0bd2b1eeb4b8f9a7ffd088232ef0a", null ],
-    [ "dungeonId", "d1/d53/a07894.html#a9a6288f9e14e593e147b4f60a1dc8991", null ],
-    [ "healers", "d1/d53/a07894.html#a61b2c2f4391022c7e4ba3972c4467a74", null ],
-    [ "queuedTime", "d1/d53/a07894.html#a398efafa1ef7faa6600d6fdb28306f49", null ],
-    [ "tanks", "d1/d53/a07894.html#a74f54d22ca9e2b6711bf363737b9ff06", null ],
-    [ "waitTime", "d1/d53/a07894.html#aa794f234bf93e66916f7eadb986f17ef", null ],
-    [ "waitTimeAvg", "d1/d53/a07894.html#af44b91dd7ddfb702662663f989f026fc", null ],
-    [ "waitTimeDps", "d1/d53/a07894.html#aa95e69bcfb84de1d37bc7ff1a4ece8bf", null ],
-    [ "waitTimeHealer", "d1/d53/a07894.html#abf57fbbaac89b08bacf0731e3a8b65e3", null ],
-    [ "waitTimeTank", "d1/d53/a07894.html#a73cdcd16181375a7d428e6b50cb1e1e6", null ]
+    [ "far_clip", "d1/d53/a07894.html#af70a06bda2dffbf2d3c49cb696beea2f", null ],
+    [ "fov", "d1/d53/a07894.html#ae553ef5e28cc3af3acd45b9efd309fbe", null ],
+    [ "near_clip", "d1/d53/a07894.html#a9426497de885b901d364c0b3ddd487d9", null ],
+    [ "position_base", "d1/d53/a07894.html#abf0892be5ecf6d1e1021e101832396f3", null ],
+    [ "positions", "d1/d53/a07894.html#a5d23816339fea0ac1e2c6fdad5fe58d8", null ],
+    [ "rolldata", "d1/d53/a07894.html#ad3428dcc0b93e509c9225fa86ea2d691", null ],
+    [ "target_position_base", "d1/d53/a07894.html#a2515ee6fa2fc41f7fca531b55cf0dc61", null ],
+    [ "target_positions", "d1/d53/a07894.html#a12132e4bcc881cab134851938c45e05a", null ],
+    [ "type", "d1/d53/a07894.html#afd67c926b538e189b036d88a9a277a2f", null ]
 ];

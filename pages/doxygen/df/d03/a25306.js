@@ -1,7 +1,7 @@
 var a25306 =
 [
-    [ "HandleScriptEffect", "df/d03/a25306.html#ae3c2900d98c2fd51ff0888ea5d1072c4", null ],
-    [ "PrepareSpellScript", "df/d03/a25306.html#a29ac1789b8023ef3339a7b40ee9c31ab", null ],
-    [ "Register", "df/d03/a25306.html#a321098d2325bfb9cea674d1137348350", null ],
-    [ "Validate", "df/d03/a25306.html#aa16a67bf42f51b838d22dcbe4b5b6f7b", null ]
+    [ "OnApply", "df/d03/a25306.html#a455a885611978a390cd4bfa76b05f82b", null ],
+    [ "PrepareAuraScript", "df/d03/a25306.html#ac8f269db5d77cf38bdfcbcfef75a62ff", null ],
+    [ "Register", "df/d03/a25306.html#a4b1a28052f11b47646dafbcd60b9dad8", null ],
+    [ "Validate", "df/d03/a25306.html#af1174bbbaab1d170a0dcd030d2f1e990", null ]
 ];

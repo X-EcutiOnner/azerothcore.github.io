@@ -1,5 +1,6 @@
 var a19110 =
 [
-    [ "at_naxxramas_hub_portal", "d4/d8e/a19110.html#a946086e8a4651240b84526a1b2d54065", null ],
-    [ "OnTrigger", "d4/d8e/a19110.html#af967b0f61b3257c8b8d802d4ed3af1da", null ]
+    [ "boss_nothAI", "d9/d93/a19114.html", "d9/d93/a19114" ],
+    [ "boss_noth", "d4/d8e/a19110.html#a2760f1ec46a21f22de0e57527cbe9768", null ],
+    [ "GetAI", "d4/d8e/a19110.html#a534f30792c051ab44c6c07c9347893e5", null ]
 ];

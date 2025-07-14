@@ -1,7 +1,7 @@
 var a12998 =
 [
-    [ "HandleScript", "dd/dde/a12998.html#a6ce169d6c1b106195f787b52ea433311", null ],
-    [ "PrepareSpellScript", "dd/dde/a12998.html#a4f71583df2193274365944e6d228247c", null ],
-    [ "Register", "dd/dde/a12998.html#aad8978dc0505d1fb80e2416f5525cbc7", null ],
-    [ "Validate", "dd/dde/a12998.html#a51025308f88001f1f66d7f68f174f325", null ]
+    [ "CheckCast", "dd/dde/a12998.html#a3fe12c32e49232c2ea80095e62b4f981", null ],
+    [ "HandleScriptEffect", "dd/dde/a12998.html#af265f0bba7028f45763a7f9afea2d051", null ],
+    [ "PrepareSpellScript", "dd/dde/a12998.html#a27518fd5482e65e0324100057e747d68", null ],
+    [ "Register", "dd/dde/a12998.html#a07789d7d092eb1b6633200442466c52b", null ]
 ];

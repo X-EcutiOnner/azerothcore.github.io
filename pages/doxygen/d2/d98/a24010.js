@@ -1,5 +1,6 @@
 var a24010 =
 [
-    [ "at_commander_dawnforge", "d2/d98/a24010.html#a1dfd7eb69ae515a59887c313001e4a4e", null ],
-    [ "OnTrigger", "d2/d98/a24010.html#acc78f4f2f9d892c02d62548e93f7f83b", null ]
+    [ "npc_aeranasAI", "d4/dae/a24014.html", "d4/dae/a24014" ],
+    [ "npc_aeranas", "d2/d98/a24010.html#a6ea71481ef6a223a329b805081122537", null ],
+    [ "GetAI", "d2/d98/a24010.html#a81167df6665bdca81ee13468dec19643", null ]
 ];

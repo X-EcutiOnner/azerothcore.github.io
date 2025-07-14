@@ -1,17 +1,17 @@
 var a19058 =
 [
-    [ "boss_thaddiusAI", "da/d51/a19058.html#a8a25d56cb38b755fec6f18a9616632e2", null ],
-    [ "DoAction", "da/d51/a19058.html#aa9697fa990b9d84f3cc9496df1cb4234", null ],
-    [ "JustDied", "da/d51/a19058.html#a2ec7bfa46d972cdd857289693acdc965", null ],
-    [ "JustEngagedWith", "da/d51/a19058.html#a52ec355e0ddd2a29b06b473303941b46", null ],
-    [ "JustSummoned", "da/d51/a19058.html#a1aa9a09089a2070eda14fda1bc51f0fe", null ],
-    [ "KilledUnit", "da/d51/a19058.html#a94f7852267620b0a77c2e1003f080589", null ],
-    [ "Reset", "da/d51/a19058.html#ae7b69b5e83fdbaa3df25dda989eeaf07", null ],
-    [ "UpdateAI", "da/d51/a19058.html#a5eef08082268fa181d4d396fc952dbcd", null ],
-    [ "ballLightningEnabled", "da/d51/a19058.html#a487582d59f0d717c3ec53679ad36f99a", null ],
-    [ "events", "da/d51/a19058.html#a8bf6ea9e5d3d198bccb293d4b4eac784", null ],
-    [ "resetTimer", "da/d51/a19058.html#aba9f23389d5f6724883dc9f7e607a351", null ],
-    [ "reviveTimer", "da/d51/a19058.html#a11388e745e81c3ad8ba7d97812a17203", null ],
-    [ "summons", "da/d51/a19058.html#a7487f79c379ef29b72959708284cfd0d", null ],
-    [ "summonTimer", "da/d51/a19058.html#a82288ef27f720b5f0f84bfd0ac6b9ccb", null ]
+    [ "boss_kelthuzadAI", "da/d51/a19058.html#a3fa1e67bf942824cd40c5591f4e63a08", null ],
+    [ "EnterEvadeMode", "da/d51/a19058.html#ac99064d95afff73680df1fe96749665a", null ],
+    [ "JustDied", "da/d51/a19058.html#a49066a2fa1dc424a27262706c8af046a", null ],
+    [ "JustEngagedWith", "da/d51/a19058.html#a8fd3938c0e91a0773eacba9fbdb4a60e", null ],
+    [ "JustSummoned", "da/d51/a19058.html#a0b305ec3029d149c3ca273cb7ba52e1b", null ],
+    [ "KilledUnit", "da/d51/a19058.html#ad2fa9b4d11b158e3fadf0c304be6b431", null ],
+    [ "MoveInLineOfSight", "da/d51/a19058.html#a440b758486cd95b7884fe2ce9bdfb28f", null ],
+    [ "NormalizeOrientation", "da/d51/a19058.html#a21ac290b79119d47b7509b04b34ea16e", null ],
+    [ "Reset", "da/d51/a19058.html#a5df92ebc5bd4ee8d06b17e31381be8c4", null ],
+    [ "SpawnHelpers", "da/d51/a19058.html#ad81fa9c3449ba347de09b1519be6d408", null ],
+    [ "SummonHelper", "da/d51/a19058.html#a3a21a45072144b6f0421733466770267", null ],
+    [ "UpdateAI", "da/d51/a19058.html#a3004d23e6eaa3f2ef5942e96e0c17308", null ],
+    [ "events", "da/d51/a19058.html#a1ac1341c022c65f46b30a9c70b3f37ba", null ],
+    [ "summons", "da/d51/a19058.html#a4b8a2fcda2e9f4e3944c3527dd6afb1e", null ]
 ];

@@ -1,5 +1,5 @@
 var a01085 =
 [
-    [ "AddonHandler", "d0/d6f/a09547.html", "d0/d6f/a09547" ],
-    [ "sAddOnHandler", "d2/df3/a01085.html#a53c18d341aaa47d117be75333e4ab43d", null ]
+    [ "keyData", "d2/d16/a11454.html", "d2/d16/a11454" ],
+    [ "GetWardenActionStr", "d2/df3/a01085.html#a4e3c0063e5bf94a2e640c7b887fe14fc", null ]
 ];

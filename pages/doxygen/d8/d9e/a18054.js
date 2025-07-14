@@ -1,9 +1,7 @@
 var a18054 =
 [
-    [ "ShadowTrapLKTargetSelector", "d8/d9e/a18054.html#a33561775948e07ac6ade2037f237441d", null ],
-    [ "operator()", "d8/d9e/a18054.html#a3770329509c6ab2f16ae369ea8d72645", null ],
-    [ "_maxDist", "d8/d9e/a18054.html#a6ee78b1ca184a05d01aa053afe499a95", null ],
-    [ "_playerOnly", "d8/d9e/a18054.html#acfb3a657e430bc2ca26680bef6cf0159", null ],
-    [ "_reqLOS", "d8/d9e/a18054.html#a7911be23196f59d55028affc3be23c20", null ],
-    [ "_source", "d8/d9e/a18054.html#af416013aabf3b217b07228072076603d", null ]
+    [ "OnRemove", "d8/d9e/a18054.html#aa096174465120bde1994c85f72682be1", null ],
+    [ "PrepareAuraScript", "d8/d9e/a18054.html#a49ba4ed8ac0ee006c74a71e6779c1a3b", null ],
+    [ "Register", "d8/d9e/a18054.html#a6e9c95b06f3ec9dc0739beaabc016d5f", null ],
+    [ "Validate", "d8/d9e/a18054.html#a1b7ef2c14db8543a9128aa335548fa00", null ]
 ];

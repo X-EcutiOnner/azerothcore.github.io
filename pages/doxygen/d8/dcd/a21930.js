@@ -1,6 +1,6 @@
 var a21930 =
 [
-    [ "npc_black_knight_graveyardAI", "d4/d03/a21934.html", "d4/d03/a21934" ],
-    [ "npc_black_knight_graveyard", "d8/dcd/a21930.html#a2ce61ba254916f1f8b7a7658f96b67d5", null ],
-    [ "GetAI", "d8/dcd/a21930.html#aab382cd1b7561c0db9c9f4c81247e540", null ]
+    [ "npc_amberpine_woodsmanAI", "d4/d03/a21934.html", "d4/d03/a21934" ],
+    [ "npc_amberpine_woodsman", "d8/dcd/a21930.html#a33bbec50a360b724bfe9cb8612cbb47d", null ],
+    [ "GetAI", "d8/dcd/a21930.html#a9c1df6c01c163ca68712d72b14c46139", null ]
 ];

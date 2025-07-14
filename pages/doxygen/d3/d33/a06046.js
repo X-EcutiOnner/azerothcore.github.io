@@ -1,9 +1,9 @@
 var a06046 =
 [
-    [ "TurretAI", "d3/d33/a06046.html#a0aaa1ee5eb1b2e83657ef24479d9a91e", null ],
-    [ "AttackStart", "d3/d33/a06046.html#ab6eb7cf777595a4b196373123da19bea", null ],
-    [ "CanAIAttack", "d3/d33/a06046.html#a47c1c38ddcc1f473104fb698fe338684", null ],
-    [ "Permissible", "d3/d33/a06046.html#aac81fb574d70369fb006fb7ba22a0784", null ],
-    [ "UpdateAI", "d3/d33/a06046.html#aa2d308443a31d8a06bbc63517695dfef", null ],
-    [ "m_minRange", "d3/d33/a06046.html#a4cffbf9bcb29468dad6a6583c905b99a", null ]
+    [ "AddonInfo", "d3/d33/a06046.html#a60ea66ed93b64c9e182226954a514f53", null ],
+    [ "CRC", "d3/d33/a06046.html#a7f0f2d817a2189b3acee5999f154ba60", null ],
+    [ "Enabled", "d3/d33/a06046.html#ace9f109c395ed84cc01ca4381222c25b", null ],
+    [ "Name", "d3/d33/a06046.html#a45692257c72286e670ab8c9c50014335", null ],
+    [ "State", "d3/d33/a06046.html#a5301b19e44d68540434574f023e62f46", null ],
+    [ "UsePublicKeyOrCRC", "d3/d33/a06046.html#a75e016fa7abee24757c89b97330a6192", null ]
 ];

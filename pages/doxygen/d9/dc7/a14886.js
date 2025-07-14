@@ -1,10 +1,6 @@
 var a14886 =
 [
-    [ "boss_moam", "d9/dc7/a14886.html#a9a7a9f410efc5a05e46fd05f331e96c9", null ],
-    [ "InitializeAI", "d9/dc7/a14886.html#a2c8bde24fb3811e29c91a57258a243e5", null ],
-    [ "JustDied", "d9/dc7/a14886.html#a06b843bddd8f2759fa733c5169e0a5e6", null ],
-    [ "JustEngagedWith", "d9/dc7/a14886.html#ad33ba2f2cf9c83f37856aa6f2212637b", null ],
-    [ "Reset", "d9/dc7/a14886.html#a4112940fbe1f8be8e7adee7dbc48a9ae", null ],
-    [ "SummonedCreatureDies", "d9/dc7/a14886.html#a8401c5e2bd216deee197617b78d85222", null ],
-    [ "UpdateAI", "d9/dc7/a14886.html#aadd8320c6194923b113967d3d6c49a5e", null ]
+    [ "instance_onyxias_lair_InstanceMapScript", "df/dd2/a14890.html", "df/dd2/a14890" ],
+    [ "instance_onyxias_lair", "d9/dc7/a14886.html#a1be32e45cb8af86477d300efb6e545cc", null ],
+    [ "GetInstanceScript", "d9/dc7/a14886.html#abbdc474ce17bca0cb55180661c5204a8", null ]
 ];

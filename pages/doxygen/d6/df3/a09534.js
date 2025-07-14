@@ -1,19 +1,12 @@
 var a09534 =
 [
-    [ "GuildContainer", "d6/df3/a09534.html#aa9afb05ecb2eb6ee427503a4ea76f7ca", null ],
-    [ "GuildMgr", "d6/df3/a09534.html#a0d4a44461eb4c54ddb6646dfd1c11a68", null ],
-    [ "~GuildMgr", "d6/df3/a09534.html#ae90afb785961e122afc419a61dfb20c1", null ],
-    [ "AddGuild", "d6/df3/a09534.html#a5b63dae4f2252c452c797b83477d2280", null ],
-    [ "GenerateGuildId", "d6/df3/a09534.html#a8ad7c4fc3e292e6cecd4964ad22cd135", null ],
-    [ "GetGuildById", "d6/df3/a09534.html#a04f4586ea6461c6f7165efba2bf666a1", null ],
-    [ "GetGuildByLeader", "d6/df3/a09534.html#a5198534a243b70104ce17a7871fcfb27", null ],
-    [ "GetGuildByName", "d6/df3/a09534.html#af9ff736e84a18d8dfce3826c9459df37", null ],
-    [ "GetGuildNameById", "d6/df3/a09534.html#ad32af675831da389755da5f3e4e47361", null ],
-    [ "instance", "d6/df3/a09534.html#aef69fd59528ec594c76ae390a4ba05bd", null ],
-    [ "LoadGuilds", "d6/df3/a09534.html#ac1eb56686e276e11838e9150696b5045", null ],
-    [ "RemoveGuild", "d6/df3/a09534.html#a51728f1c2780cdb105cb35947739cbd7", null ],
-    [ "ResetTimes", "d6/df3/a09534.html#ad2670ee42ff5252a879ccc5cbb730833", null ],
-    [ "SetNextGuildId", "d6/df3/a09534.html#ae1ae88575b7fcb37d4ee1d76f79c0c45", null ],
-    [ "GuildStore", "d6/df3/a09534.html#a174158d11bf6102462a094ff4a8fa402", null ],
-    [ "NextGuildId", "d6/df3/a09534.html#a75e150f66ebccfc05824a4f7b66a9210", null ]
+    [ "LogEntry", "d6/df3/a09534.html#af61604a7dc0cc4da315a09fa5b207f37", null ],
+    [ "LogEntry", "d6/df3/a09534.html#aba3f6f501c59e356166abe71082c421b", null ],
+    [ "~LogEntry", "d6/df3/a09534.html#a3c66b8a7be1800c5a9e1dc15aab6d3e9", null ],
+    [ "GetGUID", "d6/df3/a09534.html#a7af4eac577f8da07540f81e185b2ad49", null ],
+    [ "GetTimestamp", "d6/df3/a09534.html#a643c92439463707671bb08b72bf3a447", null ],
+    [ "SaveToDB", "d6/df3/a09534.html#a1c00aa88973423a1c112c2776a14e78f", null ],
+    [ "m_guid", "d6/df3/a09534.html#a75754f42f8a202a9a319c86515a3f0dd", null ],
+    [ "m_guildId", "d6/df3/a09534.html#a89e0192732a43dc44aff3730bc5ad445", null ],
+    [ "m_timestamp", "d6/df3/a09534.html#ad19e7364e1beba61c9b7a4383b6d42c6", null ]
 ];

@@ -1,10 +1,10 @@
 var a23274 =
 [
-    [ "boss_warlord_kalithresh", "d5/d83/a23274.html#afcf2288fbea2d5010c41344ce0247559", null ],
-    [ "JustDied", "d5/d83/a23274.html#a1947562aa9dafea371e2f2da824a3f65", null ],
-    [ "JustEngagedWith", "d5/d83/a23274.html#a2712f5c363c3929550b77ef2536b1385", null ],
-    [ "KilledUnit", "d5/d83/a23274.html#a06855288497f5335a236867ef681d3f8", null ],
-    [ "MoveInLineOfSight", "d5/d83/a23274.html#a544da19b6c3a6f159ed6b1639def1071", null ],
-    [ "Reset", "d5/d83/a23274.html#a89e3bac7eeb3a77e0a7a22d8de9f1024", null ],
-    [ "_introDone", "d5/d83/a23274.html#a8e07118bb6fa249178cc081e2b393d2d", null ]
+    [ "npc_frozen_core", "d5/d83/a23274.html#af00f67392d96aa1ab8ccdab5b168fc04", null ],
+    [ "DoAction", "d5/d83/a23274.html#a7b2c684f0c4e88720fb0d921815026ab", null ],
+    [ "Initialize", "d5/d83/a23274.html#a7e5824e31f600d10c3177e00ae443c7f", null ],
+    [ "JustDied", "d5/d83/a23274.html#a476e086b0379e0cef3a44d250b020d6a", null ],
+    [ "UpdateAI", "d5/d83/a23274.html#af09168b57b79d14d9a7ef6861e85cc1a", null ],
+    [ "_events", "d5/d83/a23274.html#a3a5efec3279644ef713722e1556a3c84", null ],
+    [ "_instance", "d5/d83/a23274.html#a80fa517cc7dffd4bf15f3393d1f4af14", null ]
 ];

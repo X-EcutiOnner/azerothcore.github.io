@@ -1,10 +1,9 @@
 var a14014 =
 [
-    [ "npc_zealot_lorkhan", "d8/da9/a14014.html#a7df2ab658c1fda0d130815581ffbae4e", null ],
-    [ "JustDied", "d8/da9/a14014.html#abda06af9ccc78763e70ebf98f0a9dc03", null ],
-    [ "JustEngagedWith", "d8/da9/a14014.html#a7cb7da94799fa1689a5f16ef33d4d874", null ],
-    [ "Reset", "d8/da9/a14014.html#abecbd4a2ea2cf3281244933fe7484239", null ],
-    [ "UpdateAI", "d8/da9/a14014.html#a68c35734f8886b2c241dcbc178899206", null ],
-    [ "_scheduler", "d8/da9/a14014.html#a50ded84f7cdb698118b406c9cfab7e5c", null ],
-    [ "instance", "d8/da9/a14014.html#aa677f42d562fa6dc90a4913eed3763c8", null ]
+    [ "boss_jindo", "d8/da9/a14014.html#a9aafe0282e0b5de90ce62b3f8b3cfb14", null ],
+    [ "EnterEvadeMode", "d8/da9/a14014.html#a8b80f12d0b9b8e9c7aa7ec46fbb71500", null ],
+    [ "JustEngagedWith", "d8/da9/a14014.html#a7f612a1e5033c5097856222cee41f2af", null ],
+    [ "JustSummoned", "d8/da9/a14014.html#ac7382289d174ec70703b76dc4e451d39", null ],
+    [ "UpdateAI", "d8/da9/a14014.html#aad8885f79fc527954102fc1b78ca8ad7", null ],
+    [ "_scheduler", "d8/da9/a14014.html#a7ddbdc4d85936fd54fced20ff31e91cd", null ]
 ];

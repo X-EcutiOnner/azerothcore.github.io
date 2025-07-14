@@ -1,9 +1,9 @@
 var a18766 =
 [
-    [ "spell_trigger_spell_from_caster", "d6/d7f/a18766.html#a0dc389ab8bd51fcfd839250a3bbc2dcd", null ],
-    [ "HandleTrigger", "d6/d7f/a18766.html#afc11c9408ea11cb04e476999a9bdf522", null ],
-    [ "PrepareSpellScript", "d6/d7f/a18766.html#a24a9bd70a58f051cd6c4ceaff5d7fffe", null ],
-    [ "Register", "d6/d7f/a18766.html#ae44cc1a87267c1d08603d1aff2384957", null ],
-    [ "Validate", "d6/d7f/a18766.html#a3aace9a309bc848b887b03c949c921bd", null ],
-    [ "_triggerId", "d6/d7f/a18766.html#a29af52a9035f18936515a464889fefe5", null ]
+    [ "npc_icc_skybreaker_hierophantAI", "d6/d7f/a18766.html#a18330d49e510f83af7ee0120df14e633", null ],
+    [ "AttackStart", "d6/d7f/a18766.html#a9838b3edb758f6f8d0bcbb242862d5da", null ],
+    [ "JustEngagedWith", "d6/d7f/a18766.html#adddd56260b41738d69fcdfe31b677c51", null ],
+    [ "Reset", "d6/d7f/a18766.html#a2291e4a6bbf917a810b31776dee9dd24", null ],
+    [ "UpdateAI", "d6/d7f/a18766.html#a971fa0e468d9d58ffdda7c7b8aa53485", null ],
+    [ "events", "d6/d7f/a18766.html#a1c8a527d217f9b810f87da0fc020528a", null ]
 ];

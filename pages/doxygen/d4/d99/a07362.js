@@ -1,9 +1,14 @@
 var a07362 =
 [
-    [ "entry", "d4/d99/a07362.html#a2238cabe763a588a5572611e0aefe6ba", null ],
-    [ "o", "d4/d99/a07362.html#a0ebd9ea966eb66cf80b8f3c003db60c0", null ],
-    [ "type", "d4/d99/a07362.html#a561ac93f5c1bcc26dacbd0212b602eac", null ],
-    [ "x", "d4/d99/a07362.html#a616d422b4e8c99ec3285a87f553d4091", null ],
-    [ "y", "d4/d99/a07362.html#a34de8c83a7bc8b33ac0cabdfb1bd3459", null ],
-    [ "z", "d4/d99/a07362.html#a78cff0661e6d9440574306ec01389d42", null ]
+    [ "BattlegroundDS", "d4/d99/a07362.html#a041cd3c81d341ff12e2e103da44c19b8", null ],
+    [ "FillInitialWorldStates", "d4/d99/a07362.html#a0c7a45aa22e390d2760bf32720435d5e", null ],
+    [ "HandleAreaTrigger", "d4/d99/a07362.html#a91e0be32f0169b9ac8749003ae3cdae7", null ],
+    [ "HandlePlayerUnderMap", "d4/d99/a07362.html#a97ed6f531b1de3eaf93c585e205e7f54", null ],
+    [ "PostUpdateImpl", "d4/d99/a07362.html#a57cfca32a361d43f19163dc6e7408e96", null ],
+    [ "SetupBattleground", "d4/d99/a07362.html#ae008bf979e6984856237938dfe743ec7", null ],
+    [ "StartingEventCloseDoors", "d4/d99/a07362.html#ae215043c2c10df9f9339e2a6dbcb185e", null ],
+    [ "StartingEventOpenDoors", "d4/d99/a07362.html#ab9ab60253daa5318dcdb6675c8919cd5", null ],
+    [ "_events", "d4/d99/a07362.html#a79112a1631ec6541cf19ecef712bb66f", null ],
+    [ "_pipeKnockBackCount", "d4/d99/a07362.html#a32490dab9fd8ea9ae9afd8cf66feb087", null ],
+    [ "_pipeKnockBackTimer", "d4/d99/a07362.html#aaef0cac1f3283c56117efcc484a0abfc", null ]
 ];

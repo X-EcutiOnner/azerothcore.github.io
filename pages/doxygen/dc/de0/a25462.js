@@ -1,6 +1,5 @@
 var a25462 =
 [
-    [ "HandleDummy", "dc/de0/a25462.html#aafc9efb0f8070566579724853a88ab03", null ],
-    [ "PrepareSpellScript", "dc/de0/a25462.html#a248c1203a4f15b2cd60afed9fa33cb59", null ],
-    [ "Register", "dc/de0/a25462.html#a362e2ab6921aaa0c10b70795a5eda0de", null ]
+    [ "PrepareSpellScript", "dc/de0/a25462.html#a9137654c01f41c735f477b85e4ec6d73", null ],
+    [ "Register", "dc/de0/a25462.html#af1002e90bc0801c0759393d2d4af8778", null ]
 ];

@@ -1,6 +1,6 @@
 var a07754 =
 [
-    [ "value_type", "dc/dbf/a07754.html#a695a2a7939d7c5812ddfa2148eeeb954", null ],
-    [ "StoreTo", "dc/dbf/a07754.html#a0fac033c58bdd6385de489c2d7fafc18", null ],
-    [ "tag", "dc/dbf/a07754.html#a7a25abd4fae2f7411db0dd7f278235fc", null ]
+    [ "Rank", "dc/dbf/a07754.html#abd26e25c76d5344dfdd94547b2f310d4", null ],
+    [ "Spell", "dc/dbf/a07754.html#a0cb15c7c1e640b5a6acc8f8d94e6c719", null ],
+    [ "Talent", "dc/dbf/a07754.html#ae39546dc8db233709131b388a3868c1a", null ]
 ];

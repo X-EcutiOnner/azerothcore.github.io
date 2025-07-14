@@ -1,9 +1,9 @@
 var a09354 =
 [
-    [ "NearestHostileUnitCheck", "d6/d32/a09354.html#aa1d706a1eb1de6168b568e70008e2d3b", null ],
-    [ "NearestHostileUnitCheck", "d6/d32/a09354.html#a2fe620370289850eb0362823de2072d1", null ],
-    [ "operator()", "d6/d32/a09354.html#a04c85a77d660bbc74279d1062dabc375", null ],
-    [ "i_playerOnly", "d6/d32/a09354.html#a64c5fce466521a6d6d78eeda0708d65e", null ],
-    [ "m_range", "d6/d32/a09354.html#a801d56a180e196943cfc2cefb6c5dda5", null ],
-    [ "me", "d6/d32/a09354.html#a67cef25e6f725ea42f0377df34d48495", null ]
+    [ "AnyGroupedUnitInObjectRangeCheck", "d6/d32/a09354.html#a2c775f62eeabcb8af5306cbcedae322e", null ],
+    [ "operator()", "d6/d32/a09354.html#a3c316eacdd1c74c69d8297871f84d7b9", null ],
+    [ "_raid", "d6/d32/a09354.html#a6a9cffd02435913a5d7ee53cd1e8cc0b", null ],
+    [ "_range", "d6/d32/a09354.html#a01b4592ac61d58ff39e5bb2eb1a1b997", null ],
+    [ "_refUnit", "d6/d32/a09354.html#ad083243ef5487aa374b19e3c82b0457c", null ],
+    [ "_source", "d6/d32/a09354.html#a91de967d2376ea96b1fc0838094915cf", null ]
 ];

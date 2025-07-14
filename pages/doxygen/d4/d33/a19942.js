@@ -1,6 +1,7 @@
 var a19942 =
 [
-    [ "boss_freya_elder_brightleafAI", "da/db1/a19946.html", "da/db1/a19946" ],
-    [ "boss_freya_elder_brightleaf", "d4/d33/a19942.html#a9b1539b37912ef5ae46d5926bf2e0f40", null ],
-    [ "GetAI", "d4/d33/a19942.html#a3c39424ecf97ced8c2a962baff5ae342", null ]
+    [ "boss_flame_leviathan_safety_containerAI", "d4/d33/a19942.html#ab9191e20df488df184c468ca1ac41084", null ],
+    [ "MovementInform", "d4/d33/a19942.html#a1b472a233ebebbb4c1fbf639aeb4bed6", null ],
+    [ "UpdateAI", "d4/d33/a19942.html#a77b3a493c5650d91c903879db324651d", null ],
+    [ "_allowTimer", "d4/d33/a19942.html#a2185c9fe04fa7288fab452c5c1de3819", null ]
 ];

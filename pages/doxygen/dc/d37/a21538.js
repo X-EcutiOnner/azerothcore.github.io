@@ -1,6 +1,6 @@
 var a21538 =
 [
-    [ "npc_counselor_talbotAI", "de/dc4/a21542.html", "de/dc4/a21542" ],
-    [ "npc_counselor_talbot", "dc/d37/a21538.html#a9223380bb78afeda617482bea0a3110c", null ],
-    [ "GetAI", "dc/d37/a21538.html#a3debd13352146a247d635042ecbfa155", null ]
+    [ "npc_beryl_sorcererAI", "de/dc4/a21542.html", "de/dc4/a21542" ],
+    [ "npc_beryl_sorcerer", "dc/d37/a21538.html#a4f74ee45ee0730fcfd044418771a9ee1", null ],
+    [ "GetAI", "dc/d37/a21538.html#a963646eed9f121f87efe480312957286", null ]
 ];

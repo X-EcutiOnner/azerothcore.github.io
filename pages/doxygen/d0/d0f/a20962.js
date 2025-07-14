@@ -1,7 +1,6 @@
 var a20962 =
 [
-    [ "npc_frost_tomb", "d0/d0f/a20962.html#a9c7abe1dc25b807d34f1ed818ab639ef", null ],
-    [ "JustDied", "d0/d0f/a20962.html#a40a14647eaf9f2c5bd11c094f0aadb79", null ],
-    [ "UpdateAI", "d0/d0f/a20962.html#af2122e9c8cb206151f631659c7d167da", null ],
-    [ "PrisonerGUID", "d0/d0f/a20962.html#a456fcd5dd3f504954a74fc068f253dc2", null ]
+    [ "OnRemove", "d0/d0f/a20962.html#a0e2113cd165f9f6ce88ba6eea9034806", null ],
+    [ "PrepareAuraScript", "d0/d0f/a20962.html#a5fb0837417b915676549370cc76c477d", null ],
+    [ "Register", "d0/d0f/a20962.html#a7f1844fded6ad112cc99d33f52e0799c", null ]
 ];

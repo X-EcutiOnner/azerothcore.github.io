@@ -1,11 +1,7 @@
 var a15802 =
 [
-    [ "spell_hadronox_summon_periodic_aura", "d2/db8/a15802.html#afcca15cddf71c0d46bd811eab9174f1a", null ],
-    [ "HandlePeriodic", "d2/db8/a15802.html#a048695baf71d307e5aaa00e54586c9f7", null ],
-    [ "OnApply", "d2/db8/a15802.html#a4466547bc1a5259a33354f2008d6cce7", null ],
-    [ "PrepareAuraScript", "d2/db8/a15802.html#a4205560054e5baed86aecba3b98fc202", null ],
-    [ "Register", "d2/db8/a15802.html#a09efdcddaed4af2833139ca20ef94376", null ],
-    [ "Validate", "d2/db8/a15802.html#a20827683249c17625242e205bb51f9e8", null ],
-    [ "_delay", "d2/db8/a15802.html#a191d7eec948e0753835bd41eef66f1ec", null ],
-    [ "_spellEntry", "d2/db8/a15802.html#a52e45512e2bbe34b0bdbfaa273aeb997", null ]
+    [ "HandleDummy", "d2/db8/a15802.html#a5d619c13c620fedeea803a0802fd9ee6", null ],
+    [ "PrepareSpellScript", "d2/db8/a15802.html#a04ed0daa21e66b842b8443b5e102ec1d", null ],
+    [ "Register", "d2/db8/a15802.html#a4359ad73b513a368509a066a039ddf53", null ],
+    [ "_targetCount", "d2/db8/a15802.html#a3ba108d63ef38af0a8730c1bf1aa69e9", null ]
 ];

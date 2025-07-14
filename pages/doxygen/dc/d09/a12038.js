@@ -1,6 +1,8 @@
 var a12038 =
 [
-    [ "npc_rookery_hatcherAI", "dd/d8c/a12042.html", "dd/d8c/a12042" ],
-    [ "npc_rookery_hatcher", "dc/d09/a12038.html#aa385f8a93384d4db9b92eecd1b152ce0", null ],
-    [ "GetAI", "dc/d09/a12038.html#a76e27f10dd58ec15a8e8f9d579f1c176", null ]
+    [ "boss_highlordomokkAI", "dc/d09/a12038.html#ae6906b2f86eb2d8efe51de92376be0da", null ],
+    [ "JustDied", "dc/d09/a12038.html#ac7e125b4350880d3d195b915c8be9de0", null ],
+    [ "JustEngagedWith", "dc/d09/a12038.html#a072dc582f931deb7d1e0db9ad535f146", null ],
+    [ "Reset", "dc/d09/a12038.html#a627390013798de7a53a95817624417e3", null ],
+    [ "UpdateAI", "dc/d09/a12038.html#a38e6008d616131d2876ae5a085a083ff", null ]
 ];

@@ -1,6 +1,5 @@
 var a23374 =
 [
-    [ "HandleScriptEffect", "de/d23/a23374.html#abba5817280db6579e3e6e0b964655c6e", null ],
-    [ "PrepareSpellScript", "de/d23/a23374.html#a846fa43c9907ddb6243c006327757a1c", null ],
-    [ "Register", "de/d23/a23374.html#a7daa26f4035912bff4811b0bfee35fee", null ]
+    [ "go_main_chambers_access_panel", "de/d23/a23374.html#a30c3c20be1892b5107ef53683d593b75", null ],
+    [ "OnGossipHello", "de/d23/a23374.html#af4b3a4a0260de68dcfac7202e0a728ee", null ]
 ];

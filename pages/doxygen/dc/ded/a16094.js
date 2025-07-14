@@ -1,6 +1,7 @@
 var a16094 =
 [
-    [ "instance_ruby_sanctum_InstanceMapScript", "df/dbe/a16098.html", "df/dbe/a16098" ],
-    [ "instance_ruby_sanctum", "dc/ded/a16094.html#a9fc9d56cfcd7d0163f25f49e1ed0baeb", null ],
-    [ "GetInstanceScript", "dc/ded/a16094.html#ad0329f328d4be2c475d8bcd5ccefd4e1", null ]
+    [ "npc_orb_carrierAI", "dc/ded/a16094.html#a2011c247d2157f5f2a06db6e149743e0", null ],
+    [ "DoAction", "dc/ded/a16094.html#a501d0bdb9d77be1229dadf60d5f8af8c", null ],
+    [ "TriggerCutter", "dc/ded/a16094.html#a6b6b127db878ca3b79ac8d7aeff4156e", null ],
+    [ "UpdateAI", "dc/ded/a16094.html#a99a08390fcf2b0a058aee161932392d0", null ]
 ];

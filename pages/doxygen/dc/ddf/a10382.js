@@ -1,13 +1,9 @@
 var a10382 =
 [
-    [ "ScriptObject", "dc/ddf/a10382.html#ae4ca97cf587379c94354e4889ff8c0c2", null ],
-    [ "~ScriptObject", "dc/ddf/a10382.html#a80c704c939f54eee6655d68509598c42", null ],
-    [ "checkValidity", "dc/ddf/a10382.html#a585e75e34aed7aa32205daad85f8fe08", null ],
-    [ "GetName", "dc/ddf/a10382.html#a79588d839860d2f5caab60c5f1368f10", null ],
-    [ "GetTotalAvailableHooks", "dc/ddf/a10382.html#a69ee35ec7d54226264efef558022c1c0", null ],
-    [ "isAfterLoadScript", "dc/ddf/a10382.html#a2f66339b1cdf1fde795c61cd24c8b0a2", null ],
-    [ "IsDatabaseBound", "dc/ddf/a10382.html#a37da453729d5c8fbe2d06f905563f47c", null ],
-    [ "ScriptMgr", "dc/ddf/a10382.html#a7a753f61d57353451e90f3f23fec4851", null ],
-    [ "_name", "dc/ddf/a10382.html#a90b63e382cac17922ae57fe22b84718c", null ],
-    [ "_totalAvailableHooks", "dc/ddf/a10382.html#ab9ecac7620b4319c634d7e5f30c30f49", null ]
+    [ "TransportScript", "dc/ddf/a10382.html#a4b83123b122fa98831d304670a3de50a", null ],
+    [ "IsDatabaseBound", "dc/ddf/a10382.html#a956f0d757e5d974566fa8fac0df731e5", null ],
+    [ "OnAddCreaturePassenger", "dc/ddf/a10382.html#a5afb1f1dca2264089238ddd68b38a86d", null ],
+    [ "OnAddPassenger", "dc/ddf/a10382.html#a806f4829b47429900271f6dde7eaa625", null ],
+    [ "OnRelocate", "dc/ddf/a10382.html#a10334c1929c80fc80c76791cbd52f6dd", null ],
+    [ "OnRemovePassenger", "dc/ddf/a10382.html#a6d6a3af4fcde46101b78cfdb787a2248", null ]
 ];

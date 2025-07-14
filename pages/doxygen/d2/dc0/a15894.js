@@ -1,6 +1,6 @@
 var a15894 =
 [
-    [ "HandleLeapBack", "d2/dc0/a15894.html#a71a9b9967528c1153ad1215635bc7d01", null ],
-    [ "PrepareSpellScript", "d2/dc0/a15894.html#a25a2db5c19e721b112b7bc84b3ac0968", null ],
-    [ "Register", "d2/dc0/a15894.html#a6ef11d0538616315fa7cf098748aa01f", null ]
+    [ "npc_anub_ar_crusherAI", "db/d75/a15898.html", "db/d75/a15898" ],
+    [ "npc_anub_ar_crusher", "d2/dc0/a15894.html#a3397fab6358ce8c19aecaad734e0ef78", null ],
+    [ "GetAI", "d2/dc0/a15894.html#aeb8eb3e39612d0f7059f1910033cbbcc", null ]
 ];

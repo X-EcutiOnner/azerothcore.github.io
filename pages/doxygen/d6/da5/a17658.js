@@ -1,12 +1,7 @@
 var a17658 =
 [
-    [ "npc_darnavanAI", "d6/da5/a17658.html#ae06019c24910c873877398f29f5a1737", null ],
-    [ "JustDied", "d6/da5/a17658.html#a49250dcdaed6de534de7a1fe3c5aa72c", null ],
-    [ "JustEngagedWith", "d6/da5/a17658.html#acbaedacea5ad19d82002c25b68623a27", null ],
-    [ "MovementInform", "d6/da5/a17658.html#afcd3bfd190fcb99e38f32129fb2ce861", null ],
-    [ "Reset", "d6/da5/a17658.html#a926c39a6e30507d9f9927f4f142e5a45", null ],
-    [ "UpdateAI", "d6/da5/a17658.html#a2b3b5e168989db21fc047acaf01413d9", null ],
-    [ "_canCharge", "d6/da5/a17658.html#ac37dc2ddc1787b7bd83b7e64ccdc6af8", null ],
-    [ "_canShatter", "d6/da5/a17658.html#aa7750edc8051c8ee453143491dccf122", null ],
-    [ "events", "d6/da5/a17658.html#aa8a022ccb1367432480f72d305c752ac", null ]
+    [ "FilterTargets", "d6/da5/a17658.html#a32b2fa87fb2eaca3db0801fbfe4b8aaa", null ],
+    [ "Load", "d6/da5/a17658.html#a39e8ec4726a1f6c2911c165c7187f291", null ],
+    [ "PrepareSpellScript", "d6/da5/a17658.html#a7526a6df4c25136f4be78e753c6abf62", null ],
+    [ "Register", "d6/da5/a17658.html#a0d01b8292c1c071a5c828a5a88617bd5", null ]
 ];

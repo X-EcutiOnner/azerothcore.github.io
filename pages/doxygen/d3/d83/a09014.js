@@ -1,7 +1,6 @@
 var a09014 =
 [
-    [ "GetAntiDosPolicyForOpcode", "d3/d83/a09014.html#a9bbbc92f18c1c34c3359d0cad4299c2d", null ],
-    [ "instance", "d3/d83/a09014.html#a859596f153aa470fa503f67092e26160", null ],
-    [ "LoadAntiDosOpcodePolicies", "d3/d83/a09014.html#a9bd2c1a1ce11d9a50971d169a353e7f6", null ],
-    [ "_antiDosOpcodePolicies", "d3/d83/a09014.html#acb7a5639f7ba378483e50aba8e93d68a", null ]
+    [ "Conditions", "d3/d83/a09014.html#a93edc2f0d71164b683c844b713befa85", null ],
+    [ "MenuID", "d3/d83/a09014.html#a732aa82f621c312745ddbd6fe2e3e906", null ],
+    [ "TextID", "d3/d83/a09014.html#a6ec8df5fcc5126bdee656ca08c0a5edc", null ]
 ];

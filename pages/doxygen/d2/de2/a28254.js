@@ -1,5 +1,6 @@
 var a28254 =
 [
-    [ "Duration", "d2/de2/a28254.html#a20417b0f394c08c779fd3851c2cde87d", null ],
-    [ "ID", "d2/de2/a28254.html#a04f9304093a15b4b7f6596993f2e86d9", null ]
+    [ "Enchantment", "d2/de2/a28254.html#a480ab806214bb138d56dfd5e9e43936f", null ],
+    [ "ID", "d2/de2/a28254.html#acb673be771124b84dd3fdd5deb300de7", null ],
+    [ "Name", "d2/de2/a28254.html#a3ad3a1b693922ff8264d90232abb3e35", null ]
 ];

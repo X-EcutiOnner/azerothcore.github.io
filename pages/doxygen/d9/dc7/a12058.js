@@ -1,6 +1,9 @@
 var a12058 =
 [
-    [ "OrcDeathEvent", "d9/dc7/a12058.html#ae4088ee95c3c0de9ae524a82803b0ea2", null ],
-    [ "Execute", "d9/dc7/a12058.html#a293ec6667da669a27fe75965f919cd68", null ],
-    [ "_me", "d9/dc7/a12058.html#a56cdf23ed08cbb800ba6fe7fb5e284b7", null ]
+    [ "boss_overlordwyrmthalakAI", "d9/dc7/a12058.html#a76f9bd309e1c5045c74bb0ba8d8bce5c", null ],
+    [ "JustDied", "d9/dc7/a12058.html#ade379755d256c4c290e6dc8bbd862261", null ],
+    [ "JustEngagedWith", "d9/dc7/a12058.html#af7780f467df92c9218700773d1257a8c", null ],
+    [ "Reset", "d9/dc7/a12058.html#a9dbc4cc1830703c393fbeb9c0385b709", null ],
+    [ "UpdateAI", "d9/dc7/a12058.html#a950b2161ed4c2441fb73f8b009c5ba30", null ],
+    [ "Summoned", "d9/dc7/a12058.html#a8183e3f02d931809440adc8cc0cd3654", null ]
 ];

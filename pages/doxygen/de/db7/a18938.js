@@ -1,6 +1,8 @@
 var a18938 =
 [
-    [ "FilterTargets", "de/db7/a18938.html#a2df81e30554809a0d5b45d2f471bb71f", null ],
-    [ "PrepareSpellScript", "de/db7/a18938.html#aa51d9c578b782fbe0e7e3cf13789b702", null ],
-    [ "Register", "de/db7/a18938.html#a4c1eab348e54011f1a2f827fc251ca13", null ]
+    [ "HandleScript", "de/db7/a18938.html#ae0d16607f9eb3ff233513233bfb573ea", null ],
+    [ "HandleScript2", "de/db7/a18938.html#a3ff7d46323da70df6ad11ddfcaf6cfbb", null ],
+    [ "Load", "de/db7/a18938.html#ad41decc0a264104ca2232aef4e71cdaf", null ],
+    [ "PrepareSpellScript", "de/db7/a18938.html#a2d1dbae570206b358878020879708000", null ],
+    [ "Register", "de/db7/a18938.html#a7cf32445caa09f2a2b3c52f68f315ba5", null ]
 ];

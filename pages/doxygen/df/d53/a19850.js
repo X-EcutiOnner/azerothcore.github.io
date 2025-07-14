@@ -1,5 +1,6 @@
 var a19850 =
 [
-    [ "go_ulduar_tower", "df/d53/a19850.html#afc1add1a0543921f52afe1eb907f5de3", null ],
-    [ "OnDestroyed", "df/d53/a19850.html#aa72ebefe52d49e5b07fb36232efd7e95", null ]
+    [ "boss_flame_leviathanAI", "d1/da2/a19854.html", "d1/da2/a19854" ],
+    [ "boss_flame_leviathan", "df/d53/a19850.html#af4fcd38fc7095701c6c31674d849aef4", null ],
+    [ "GetAI", "df/d53/a19850.html#a3a402b002472bfe4347b512f21654c50", null ]
 ];

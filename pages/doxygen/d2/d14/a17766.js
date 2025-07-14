@@ -1,7 +1,7 @@
 var a17766 =
 [
-    [ "HandleTriggerSpell", "d2/d14/a17766.html#a7d7f1731c453e5d0b70e6093aeedea87", null ],
-    [ "PrepareAuraScript", "d2/d14/a17766.html#afff0c81696ddcb427ce105d510ef93b1", null ],
-    [ "Register", "d2/d14/a17766.html#aa50c6066115d7b60704eff48e77d10bd", null ],
-    [ "Validate", "d2/d14/a17766.html#a6ef56d3d18bab2f81c810160ecf3ae96", null ]
+    [ "OnPeriodic", "d2/d14/a17766.html#a402e6c1a23070e3cef9b66ca0992d1af", null ],
+    [ "PrepareAuraScript", "d2/d14/a17766.html#a0e87dae1be4f69e6412129f14056eb79", null ],
+    [ "Register", "d2/d14/a17766.html#a1b26d102252bf7e0fd480076820d343f", null ],
+    [ "Validate", "d2/d14/a17766.html#a211d52aa385a874730abc43b083f2d22", null ]
 ];

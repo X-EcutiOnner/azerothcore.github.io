@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: GridObjectUnloader Class Reference</title>
+<title>AzerothCore: DungeonEncounter Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,25 +106,34 @@ $(document).ready(function(){initNavTree('d4/dfd/a09030.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
+<a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="../../de/ddb/a09027.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">GridObjectUnloader Class Reference</div></div>
+  <div class="headertitle"><div class="title">DungeonEncounter Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">GridObjectLoader.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">ObjectMgr.h</a>&quot;</code></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:ae01a3252ecf5083da0c5be5d4a845636"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/dfd/a09030.html#ae01a3252ecf5083da0c5be5d4a845636">Visit</a> (<a class="el" href="../../d3/df2/a03614.html#a8e87d05ee9fb2b4f64470fce9231de12">CorpseMapType</a> &amp;)</td></tr>
-<tr class="separator:ae01a3252ecf5083da0c5be5d4a845636"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7624bb11d51edffdc49fc9a95df847ef"><td class="memTemplParams" colspan="2">template&lt;class T &gt; </td></tr>
-<tr class="memitem:a7624bb11d51edffdc49fc9a95df847ef"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d4/dfd/a09030.html#a7624bb11d51edffdc49fc9a95df847ef">Visit</a> (<a class="el" href="../../df/d49/a09034.html">GridRefMgr</a>&lt; T &gt; &amp;m)</td></tr>
-<tr class="separator:a7624bb11d51edffdc49fc9a95df847ef"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3e48a996a47ddcc1b18aaac339457f3d"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/dfd/a09030.html#a3e48a996a47ddcc1b18aaac339457f3d">DungeonEncounter</a> (<a class="el" href="../../d6/df2/a28138.html">DungeonEncounterEntry</a> const *_dbcEntry, <a class="el" href="../../d2/d41/a01493.html#acea202894a6252d2df201860aa39d037">EncounterCreditType</a> _creditType, <a class="el" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> _creditEntry, <a class="el" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> _lastEncounterDungeon)</td></tr>
+<tr class="separator:a3e48a996a47ddcc1b18aaac339457f3d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
+Public Attributes</h2></td></tr>
+<tr class="memitem:a262bdd0ba443739456fc14bcad83ecda"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/df2/a28138.html">DungeonEncounterEntry</a> const  *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/dfd/a09030.html#a262bdd0ba443739456fc14bcad83ecda">dbcEntry</a></td></tr>
+<tr class="separator:a262bdd0ba443739456fc14bcad83ecda"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a66a077e193f099bb7aef363dc75672d6"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/d41/a01493.html#acea202894a6252d2df201860aa39d037">EncounterCreditType</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/dfd/a09030.html#a66a077e193f099bb7aef363dc75672d6">creditType</a></td></tr>
+<tr class="separator:a66a077e193f099bb7aef363dc75672d6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a700a0792973678339f33ab85e7396918"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/dfd/a09030.html#a700a0792973678339f33ab85e7396918">creditEntry</a></td></tr>
+<tr class="separator:a700a0792973678339f33ab85e7396918"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a67e29b891887e339dbb40515d082e781"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/dfd/a09030.html#a67e29b891887e339dbb40515d082e781">lastEncounterDungeon</a></td></tr>
+<tr class="separator:a67e29b891887e339dbb40515d082e781"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Member Function Documentation</h2>
-<a id="ae01a3252ecf5083da0c5be5d4a845636" name="ae01a3252ecf5083da0c5be5d4a845636"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae01a3252ecf5083da0c5be5d4a845636">&#9670;&#160;</a></span>Visit() <span class="overload">[1/2]</span></h2>
+<div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a id="a3e48a996a47ddcc1b18aaac339457f3d" name="a3e48a996a47ddcc1b18aaac339457f3d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3e48a996a47ddcc1b18aaac339457f3d">&#9670;&#160;</a></span>DungeonEncounter()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -133,11 +142,33 @@ Public Member Functions</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">void GridObjectUnloader::Visit </td>
+          <td class="memname">DungeonEncounter::DungeonEncounter </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d3/df2/a03614.html#a8e87d05ee9fb2b4f64470fce9231de12">CorpseMapType</a> &amp;&#160;</td>
-          <td class="paramname"></td><td>)</td>
+          <td class="paramtype"><a class="el" href="../../d6/df2/a28138.html">DungeonEncounterEntry</a> const *&#160;</td>
+          <td class="paramname"><em>_dbcEntry</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
           <td></td>
+          <td class="paramtype"><a class="el" href="../../d2/d41/a01493.html#acea202894a6252d2df201860aa39d037">EncounterCreditType</a>&#160;</td>
+          <td class="paramname"><em>_creditType</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>_creditEntry</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>_lastEncounterDungeon</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
   </td>
@@ -146,50 +177,76 @@ Public Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   56</span>{ }    <span class="comment">// corpses are deleted with Map</span></div>
+<div class="fragment"><div class="line"><span class="lineno">  703</span>        : <a class="code hl_variable" href="../../d4/dfd/a09030.html#a262bdd0ba443739456fc14bcad83ecda">dbcEntry</a>(_dbcEntry), <a class="code hl_variable" href="../../d4/dfd/a09030.html#a66a077e193f099bb7aef363dc75672d6">creditType</a>(_creditType), <a class="code hl_variable" href="../../d4/dfd/a09030.html#a700a0792973678339f33ab85e7396918">creditEntry</a>(_creditEntry), <a class="code hl_variable" href="../../d4/dfd/a09030.html#a67e29b891887e339dbb40515d082e781">lastEncounterDungeon</a>(_lastEncounterDungeon) { }</div>
+<div class="ttc" id="aa09030_html_a262bdd0ba443739456fc14bcad83ecda"><div class="ttname"><a href="../../d4/dfd/a09030.html#a262bdd0ba443739456fc14bcad83ecda">DungeonEncounter::dbcEntry</a></div><div class="ttdeci">DungeonEncounterEntry const  * dbcEntry</div><div class="ttdef"><b>Definition:</b> ObjectMgr.h:705</div></div>
+<div class="ttc" id="aa09030_html_a66a077e193f099bb7aef363dc75672d6"><div class="ttname"><a href="../../d4/dfd/a09030.html#a66a077e193f099bb7aef363dc75672d6">DungeonEncounter::creditType</a></div><div class="ttdeci">EncounterCreditType creditType</div><div class="ttdef"><b>Definition:</b> ObjectMgr.h:706</div></div>
+<div class="ttc" id="aa09030_html_a67e29b891887e339dbb40515d082e781"><div class="ttname"><a href="../../d4/dfd/a09030.html#a67e29b891887e339dbb40515d082e781">DungeonEncounter::lastEncounterDungeon</a></div><div class="ttdeci">uint32 lastEncounterDungeon</div><div class="ttdef"><b>Definition:</b> ObjectMgr.h:708</div></div>
+<div class="ttc" id="aa09030_html_a700a0792973678339f33ab85e7396918"><div class="ttname"><a href="../../d4/dfd/a09030.html#a700a0792973678339f33ab85e7396918">DungeonEncounter::creditEntry</a></div><div class="ttdeci">uint32 creditEntry</div><div class="ttdef"><b>Definition:</b> ObjectMgr.h:707</div></div>
 </div><!-- fragment -->
 </div>
 </div>
-<a id="a7624bb11d51edffdc49fc9a95df847ef" name="a7624bb11d51edffdc49fc9a95df847ef"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a7624bb11d51edffdc49fc9a95df847ef">&#9670;&#160;</a></span>Visit() <span class="overload">[2/2]</span></h2>
+<h2 class="groupheader">Member Data Documentation</h2>
+<a id="a700a0792973678339f33ab85e7396918" name="a700a0792973678339f33ab85e7396918"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a700a0792973678339f33ab85e7396918">&#9670;&#160;</a></span>creditEntry</h2>
 
 <div class="memitem">
 <div class="memproto">
-<div class="memtemplate">
-template&lt;class T &gt; </div>
       <table class="memname">
         <tr>
-          <td class="memname">void GridObjectUnloader::Visit </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../df/d49/a09034.html">GridRefMgr</a>&lt; T &gt; &amp;&#160;</td>
-          <td class="paramname"><em>m</em></td><td>)</td>
-          <td></td>
+          <td class="memname"><a class="el" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> DungeonEncounter::creditEntry</td>
         </tr>
       </table>
 </div><div class="memdoc">
-<ul>
-<li>object will get delinked from the manager when deleted</li>
-</ul>
-<div class="fragment"><div class="line"><span class="lineno">  107</span>{</div>
-<div class="line"><span class="lineno">  108</span>    <span class="keywordflow">while</span> (!m.<a class="code hl_function" href="../../d2/d72/a05190.html#a5f450b83a615d010bedc7b0c6aa18d70">IsEmpty</a>())</div>
-<div class="line"><span class="lineno">  109</span>    {</div>
-<div class="line"><span class="lineno">  110</span>        T* obj = m.<a class="code hl_function" href="../../df/d49/a09034.html#aa0156c2ad3ec5ca0df6f6a4c55d71a05">getFirst</a>()-&gt;<a class="code hl_function" href="../../da/dac/a05198.html#a95ef762721fcc58e9655c57fab05899b">GetSource</a>();</div>
-<div class="line"><span class="lineno">  111</span>        <span class="comment">// if option set then object already saved at this moment</span></div>
-<div class="line"><span class="lineno">  112</span>        <span class="comment">//if (!sWorld-&gt;getBoolConfig(CONFIG_SAVE_RESPAWN_TIME_IMMEDIATELY))</span></div>
-<div class="line"><span class="lineno">  113</span>        <span class="comment">//    obj-&gt;SaveRespawnTime();</span></div>
-<div class="line"><span class="lineno">  114</span>        <span class="comment">//Some creatures may summon other temp summons in CleanupsBeforeDelete()</span></div>
-<div class="line"><span class="lineno">  115</span>        <span class="comment">//So we need this even after cleaner (maybe we can remove cleaner)</span></div>
-<div class="line"><span class="lineno">  116</span>        <span class="comment">//Example: Flame Leviathan Turret 33139 is summoned when a creature is deleted</span></div>
-<div class="line"><span class="lineno">  117</span>        <span class="comment">//TODO: Check if that script has the correct logic. Do we really need to summons something before deleting?</span></div>
-<div class="line"><span class="lineno">  118</span>        obj-&gt;CleanupsBeforeDelete();</div>
-<div class="line"><span class="lineno">  120</span>        <span class="keyword">delete</span> obj;</div>
-<div class="line"><span class="lineno">  121</span>    }</div>
-<div class="line"><span class="lineno">  122</span>}</div>
-<div class="ttc" id="aa05190_html_a5f450b83a615d010bedc7b0c6aa18d70"><div class="ttname"><a href="../../d2/d72/a05190.html#a5f450b83a615d010bedc7b0c6aa18d70">LinkedListHead::IsEmpty</a></div><div class="ttdeci">bool IsEmpty() const</div><div class="ttdef"><b>Definition:</b> LinkedList.h:97</div></div>
-<div class="ttc" id="aa05198_html_a95ef762721fcc58e9655c57fab05899b"><div class="ttname"><a href="../../da/dac/a05198.html#a95ef762721fcc58e9655c57fab05899b">Reference::GetSource</a></div><div class="ttdeci">FROM * GetSource() const</div><div class="ttdef"><b>Definition:</b> Reference.h:97</div></div>
-<div class="ttc" id="aa09034_html_aa0156c2ad3ec5ca0df6f6a4c55d71a05"><div class="ttname"><a href="../../df/d49/a09034.html#aa0156c2ad3ec5ca0df6f6a4c55d71a05">GridRefMgr::getFirst</a></div><div class="ttdeci">GridReference&lt; OBJECT &gt; * getFirst()</div><div class="ttdef"><b>Definition:</b> GridRefMgr.h:32</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00032">GridRefMgr&lt; OBJECT &gt;::getFirst()</a>, and <a class="el" href="../../#l00097">LinkedListHead::IsEmpty()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l02658">Map::UpdateEncounterState()</a>.</p>
+
+</div>
+</div>
+<a id="a66a077e193f099bb7aef363dc75672d6" name="a66a077e193f099bb7aef363dc75672d6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a66a077e193f099bb7aef363dc75672d6">&#9670;&#160;</a></span>creditType</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d2/d41/a01493.html#acea202894a6252d2df201860aa39d037">EncounterCreditType</a> DungeonEncounter::creditType</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l02658">Map::UpdateEncounterState()</a>.</p>
+
+</div>
+</div>
+<a id="a262bdd0ba443739456fc14bcad83ecda" name="a262bdd0ba443739456fc14bcad83ecda"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a262bdd0ba443739456fc14bcad83ecda">&#9670;&#160;</a></span>dbcEntry</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d6/df2/a28138.html">DungeonEncounterEntry</a> const* DungeonEncounter::dbcEntry</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l02658">Map::UpdateEncounterState()</a>.</p>
+
+</div>
+</div>
+<a id="a67e29b891887e339dbb40515d082e781" name="a67e29b891887e339dbb40515d082e781"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a67e29b891887e339dbb40515d082e781">&#9670;&#160;</a></span>lastEncounterDungeon</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> DungeonEncounter::lastEncounterDungeon</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l02658">Map::UpdateEncounterState()</a>.</p>
 
 </div>
 </div>
@@ -198,8 +255,8 @@ template&lt;class T &gt; </div>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d4/dfd/a09030.html">GridObjectUnloader</a></li>
-    <li class="footer">Generated on Mon Feb 17 2025 20:42:34 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d4/dfd/a09030.html">DungeonEncounter</a></li>
+    <li class="footer">Generated on Mon Jul 14 2025 20:49:58 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

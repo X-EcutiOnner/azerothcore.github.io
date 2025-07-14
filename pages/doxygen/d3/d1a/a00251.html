@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/game/Chat/ChatCommands/ChatCommandArgs.cpp File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/common/Cryptography/CryptoRandom.h File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,59 +105,41 @@ $(document).ready(function(){initNavTree('d3/d1a/a00251.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#nested-classes">Classes</a> &#124;
-<a href="#typedef-members">Typedefs</a>  </div>
-  <div class="headertitle"><div class="title">ChatCommandArgs.cpp File Reference</div></div>
+<a href="#namespaces">Namespaces</a> &#124;
+<a href="#func-members">Functions</a>  </div>
+  <div class="headertitle"><div class="title">CryptoRandom.h File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">ChatCommandArgs.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">AchievementMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ObjectMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">SpellMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Util.h</a>&quot;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">Define.h</a>&quot;</code><br />
+<code>#include &lt;array&gt;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
-Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d94/a07544.html">AchievementVisitor</a></td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="namespaces" name="namespaces"></a>
+Namespaces</h2></td></tr>
+<tr class="memitem:db/d2a/a04776"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d2a/a04776.html">Acore</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d81/a07548.html">GameTeleVisitor</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d61/a07552.html">ItemTemplateVisitor</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d8f/a07556.html">SpellInfoVisitor</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d12/a07560.html">QuestVisitor</a></td></tr>
+<tr class="memitem:d2/df3/a04787"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/df3/a04787.html">Acore::Crypto</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="typedef-members" name="typedef-members"></a>
-Typedefs</h2></td></tr>
-<tr class="memitem:ad9c9d483b96ed400318aed8441ebe7f1"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d1a/a00251.html#ad9c9d483b96ed400318aed8441ebe7f1">ChatCommandResult</a> = <a class="el" href="../../db/d13/a07648.html">Acore::Impl::ChatCommands::ChatCommandResult</a></td></tr>
-<tr class="separator:ad9c9d483b96ed400318aed8441ebe7f1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
+Functions</h2></td></tr>
+<tr class="memitem:a2ff283a7b883696205a91f122b194f6f"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/de7/a00014.html#aae2dc50bce825b002235487401b252e8">AC_COMMON_API</a> void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/df3/a04787.html#a2ff283a7b883696205a91f122b194f6f">Acore::Crypto::GetRandomBytes</a> (<a class="el" href="../../d2/de7/a00014.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> *buf, std::size_t len)</td></tr>
+<tr class="separator:a2ff283a7b883696205a91f122b194f6f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a797cfc74306f60b5c63eecb37a2061d3"><td class="memTemplParams" colspan="2">template&lt;typename <a class="el" href="../../d3/d59/a01973.html#abe8666ac87665ba963053cdd2b014750a0e7278cda02a9c0446dcc75a4df34eb2">Container</a> &gt; </td></tr>
+<tr class="memitem:a797cfc74306f60b5c63eecb37a2061d3"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d2/df3/a04787.html#a797cfc74306f60b5c63eecb37a2061d3">Acore::Crypto::GetRandomBytes</a> (<a class="el" href="../../d3/d59/a01973.html#abe8666ac87665ba963053cdd2b014750a0e7278cda02a9c0446dcc75a4df34eb2">Container</a> &amp;c)</td></tr>
+<tr class="separator:a797cfc74306f60b5c63eecb37a2061d3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab09d7cc2f8e11fc5fe6b2323d57b7184"><td class="memTemplParams" colspan="2">template&lt;std::size_t S&gt; </td></tr>
+<tr class="memitem:ab09d7cc2f8e11fc5fe6b2323d57b7184"><td class="memTemplItemLeft" align="right" valign="top">std::array&lt; <a class="el" href="../../d2/de7/a00014.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>, S &gt;&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d2/df3/a04787.html#ab09d7cc2f8e11fc5fe6b2323d57b7184">Acore::Crypto::GetRandomBytes</a> ()</td></tr>
+<tr class="separator:ab09d7cc2f8e11fc5fe6b2323d57b7184"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Typedef Documentation</h2>
-<a id="ad9c9d483b96ed400318aed8441ebe7f1" name="ad9c9d483b96ed400318aed8441ebe7f1"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad9c9d483b96ed400318aed8441ebe7f1">&#9670;&#160;</a></span>ChatCommandResult</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">using <a class="el" href="../../d3/d1a/a00251.html#ad9c9d483b96ed400318aed8441ebe7f1">ChatCommandResult</a> =  <a class="el" href="../../db/d13/a07648.html">Acore::Impl::ChatCommands::ChatCommandResult</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_696eb3df8c264f77a3b72ba3d62ed649.html">Chat</a></li><li class="navelem"><a class="el" href="../../dir_c82f813a65ca3ac2a4f36b7f63ade20a.html">ChatCommands</a></li><li class="navelem"><a class="el" href="../../d3/d1a/a00251.html">ChatCommandArgs.cpp</a></li>
-    <li class="footer">Generated on Mon Jul 7 2025 20:47:21 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1070012e9e40376f8468ff0aa5b77c71.html">common</a></li><li class="navelem"><a class="el" href="../../dir_c55db428bdbf28a6b4d3b113733cf911.html">Cryptography</a></li><li class="navelem"><a class="el" href="../../d3/d1a/a00251.html">CryptoRandom.h</a></li>
+    <li class="footer">Generated on Mon Jul 14 2025 20:48:40 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

@@ -1,5 +1,5 @@
 var a23514 =
 [
-    [ "go_manticron_cube", "d0/d9d/a23514.html#a87d9571aea57f16d38067ebd9e22200d", null ],
-    [ "OnGossipHello", "d0/d9d/a23514.html#accab4a61f00f5e465fb795b4cbe672bf", null ]
+    [ "go_broggok_lever", "d0/d9d/a23514.html#af91c2e283c357d2f38c9932dcfb5c375", null ],
+    [ "OnGossipHello", "d0/d9d/a23514.html#af00fe1da1cfa40dc3ece286cef45090c", null ]
 ];

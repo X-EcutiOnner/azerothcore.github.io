@@ -1,7 +1,8 @@
 var a06090 =
 [
-    [ "ReactorAI", "dc/d9a/a06090.html#aaea292c46945399cf7c855e642941c2d", null ],
-    [ "MoveInLineOfSight", "dc/d9a/a06090.html#a224608a62a15d679863d68d7d0e32dde", null ],
-    [ "Permissible", "dc/d9a/a06090.html#a1b0845464b0d356be7bf38e65ab5eb19", null ],
-    [ "UpdateAI", "dc/d9a/a06090.html#a10c4c10d9ac942990d1a1ef9eb6603ad", null ]
+    [ "GuardAI", "dc/d9a/a06090.html#ac1f0ba47d8e32c65845808170330b7af", null ],
+    [ "EnterEvadeMode", "dc/d9a/a06090.html#af021cc31298d4a0f38a7d82ac8e02e30", null ],
+    [ "JustDied", "dc/d9a/a06090.html#a96820cdcb632d3a71f9deacf4998a774", null ],
+    [ "Permissible", "dc/d9a/a06090.html#a238f38bd3fc7cfa8ace3549f4a6199fb", null ],
+    [ "Reset", "dc/d9a/a06090.html#a91b12b6a50641d17a79550b9ffb5284a", null ]
 ];

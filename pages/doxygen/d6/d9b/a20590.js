@@ -1,5 +1,5 @@
 var a20590 =
 [
-    [ "achievement_thorim_stand_in_the_lightning", "d6/d9b/a20590.html#a9339e89e4eb76151fdeacb6bcd53d7bc", null ],
-    [ "OnCheck", "d6/d9b/a20590.html#ade1aec4de4c503be5a62da3e6c35e90f", null ]
+    [ "achievement_iron_dwarf_medium_rare", "d6/d9b/a20590.html#afb3716aab7693ba0493db24999e4b1ee", null ],
+    [ "OnCheck", "d6/d9b/a20590.html#aabef3a345057265ac70c6cc0c98d552d", null ]
 ];

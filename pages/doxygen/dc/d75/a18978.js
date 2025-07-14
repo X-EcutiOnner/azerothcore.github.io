@@ -1,6 +1,6 @@
 var a18978 =
 [
-    [ "boss_loathebAI", "d0/df8/a18982.html", "d0/df8/a18982" ],
-    [ "boss_loatheb", "dc/d75/a18978.html#a93bf8055a9ed900c880ef8b81b87bafd", null ],
-    [ "GetAI", "dc/d75/a18978.html#aca9b3a2515777f81b354c01a9727276e", null ]
+    [ "boss_gluthAI", "d0/df8/a18982.html", "d0/df8/a18982" ],
+    [ "boss_gluth", "dc/d75/a18978.html#a3ff6e361cd6799f41d00fa75784c4f76", null ],
+    [ "GetAI", "dc/d75/a18978.html#a3b19c938aaecc897d6552715064be7f8", null ]
 ];

@@ -1,10 +1,9 @@
 var a14578 =
 [
-    [ "npc_hyjal_gargoyle", "d1/d18/a14578.html#a35b17d008d96116b2e3cf09cceacd6fb", null ],
-    [ "AttackStart", "d1/d18/a14578.html#a0301be4d3e34f1248708fdcd3f0d5ea8", null ],
-    [ "DoAction", "d1/d18/a14578.html#ae213c71426f438dd2b27699d7de23664", null ],
-    [ "JustEngagedWith", "d1/d18/a14578.html#ae10a90c817a7df8d0d6ed18c9cdf6387", null ],
-    [ "PathEndReached", "d1/d18/a14578.html#a9ae52d3f7176045ef28713f3e1a16153", null ],
-    [ "Reset", "d1/d18/a14578.html#af314bb183bde44680eeb136d2a08c142", null ],
-    [ "UpdateAI", "d1/d18/a14578.html#ac1ca0648b08430a8bcbf99980222b684", null ]
+    [ "boss_azuregosAI", "d1/d18/a14578.html#a839ab1e096d30062d64c1c515a7462a4", null ],
+    [ "JustDied", "d1/d18/a14578.html#aea4d204173b7882d2d9acf8204410947", null ],
+    [ "JustEngagedWith", "d1/d18/a14578.html#ac17c09d4de27e3b3a299bb8288ef79f8", null ],
+    [ "KilledUnit", "d1/d18/a14578.html#aeefc791e17d2a687f8beae809c44d123", null ],
+    [ "Reset", "d1/d18/a14578.html#a3f9584a7cf4e27f57eec2c5babb7aff1", null ],
+    [ "UpdateAI", "d1/d18/a14578.html#aafdfce2d21d5890ead413a2d9fe1b65d", null ]
 ];

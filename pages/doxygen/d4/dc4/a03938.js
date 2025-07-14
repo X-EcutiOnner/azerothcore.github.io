@@ -1,5 +1,5 @@
 var a03938 =
 [
-    [ "worldstate_commandscript", "d6/dce/a11748.html", "d6/dce/a11748" ],
-    [ "AddSC_worldstate_commandscript", "d4/dc4/a03938.html#a2ff66ad19f50180b9878cf95696fd09b", null ]
+    [ "cheat_commandscript", "de/dff/a11614.html", "de/dff/a11614" ],
+    [ "AddSC_cheat_commandscript", "d4/dc4/a03938.html#aafc88882ff0af0beb4632ec2c929fc8c", null ]
 ];

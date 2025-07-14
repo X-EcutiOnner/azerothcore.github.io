@@ -1,13 +1,18 @@
 var a04788 =
 [
-    [ "anonymous_namespace{AddonMgr.cpp}", "d9/da4/a04789.html", [
-      [ "SavedAddonsList", "d9/da4/a04789.html#afa468163a23ed58507a89e5724c06eac", null ],
-      [ "m_bannedAddons", "d9/da4/a04789.html#a83195dfb437a3f713fa0ccd6c24477ed", null ],
-      [ "m_knownAddons", "d9/da4/a04789.html#a6cd3e278f71724491a7a3b8167eab60e", null ]
-    ] ],
-    [ "BannedAddonList", "d2/d5c/a04788.html#a2ea3deb6be3c64b7b58ed27ccf60c779", null ],
-    [ "GetAddonInfo", "d2/d5c/a04788.html#a65cb6a88902972060e44c57d7d9ec738", null ],
-    [ "GetBannedAddons", "d2/d5c/a04788.html#ad7d0938e7463238a86e8c811e1a58800", null ],
-    [ "LoadFromDB", "d2/d5c/a04788.html#aaa12f5b754e6b664dbfb2428478bee03", null ],
-    [ "SaveAddon", "d2/d5c/a04788.html#a85021021149b7eb4d78cbe81e43d3d45", null ]
+    [ "ChatCommands", "d1/daa/a04816.html", "d1/daa/a04816" ],
+    [ "EnumUtilsImpl", "df/dc6/a04793.html", "df/dc6/a04793" ],
+    [ "StringConvertImpl", "d3/d1a/a04798.html", "d3/d1a/a04798" ],
+    [ "CastToVisitor", "dc/da1/a07694.html", "dc/da1/a07694" ],
+    [ "CryptoGenericsImpl", "dc/ddd/a05170.html", "dc/ddd/a05170" ],
+    [ "CurrentServerProcessHolder", "d5/d7c/a28550.html", "d5/d7c/a28550" ],
+    [ "GenericBaseEncoding", "d2/d74/a05318.html", "d2/d74/a05318" ],
+    [ "GenericHash", "d8/d35/a05178.html", "d8/d35/a05178" ],
+    [ "GenericHashImpl", "d3/d14/a05174.html", "d3/d14/a05174" ],
+    [ "GenericHMAC", "da/d1b/a05182.html", "da/d1b/a05182" ],
+    [ "MPSCQueueIntrusive", "d1/df3/a05390.html", "d1/df3/a05390" ],
+    [ "MPSCQueueNonIntrusive", "d3/d73/a05382.html", "d3/d73/a05382" ],
+    [ "ByteArrayToHexStr", "d2/d5c/a04788.html#aee21cf91c2a5f1c520d6b01dd6b2e835", null ],
+    [ "HexStrToByteArray", "d2/d5c/a04788.html#a0a5a7e96b8beae562acc662922304ca6", null ],
+    [ "new_from_tuple", "d2/d5c/a04788.html#a028fc93107022ad23a763503c9b0bbdb", null ]
 ];

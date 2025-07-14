@@ -1,6 +1,6 @@
 var a11278 =
 [
-    [ "EffectCalcPeriodicHandler", "db/d2f/a11278.html#a17288ee3b2951f1f2a8dc36a598b9a27", null ],
-    [ "Call", "db/d2f/a11278.html#a6a7eeb9599a10aa4ab918a2c2456a186", null ],
-    [ "pEffectHandlerScript", "db/d2f/a11278.html#a57673f457c08edfbf7fc1877aa071721", null ]
+    [ "ObjectTargetSelectHandler", "db/d2f/a11278.html#abe96c3e266375ab64f8dec54a047a5b8", null ],
+    [ "Call", "db/d2f/a11278.html#a7e18103fb5c68b2cf85f54bf7caf4b3b", null ],
+    [ "pObjectTargetSelectHandlerScript", "db/d2f/a11278.html#a6982985537c0ddb8dd79647766c9ae70", null ]
 ];

@@ -1,7 +1,6 @@
 var a22866 =
 [
-    [ "npc_ashtongue_channeler", "d5/dda/a22866.html#af7217d00f87e56e5cdb411fcad161b51", null ],
-    [ "Reset", "d5/dda/a22866.html#ab935559c19b18f9c94dd36c85be5b3b2", null ],
-    [ "UpdateAI", "d5/dda/a22866.html#af855dfa521404c4e6127a9bf12a75604", null ],
-    [ "scheduler", "d5/dda/a22866.html#a4f58bbd2c44f7a3f9835fd55408ffaf4", null ]
+    [ "PrepareAuraScript", "d5/dda/a22866.html#ac52a5dccc708f9ee63f3c6c92fbf15c1", null ],
+    [ "Register", "d5/dda/a22866.html#acc4afbe7f2b23b67e8f7e3fe1eeb03b5", null ],
+    [ "Update", "d5/dda/a22866.html#aa9f5924b3f12c666c53ddc2b9b80aeea", null ]
 ];

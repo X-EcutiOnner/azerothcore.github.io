@@ -1,12 +1,6 @@
 var a16758 =
 [
-    [ "npc_phantom_mageAI", "db/dfc/a16758.html#ac919dc1ba167cc68714320f9351b99d0", null ],
-    [ "AttackStart", "db/dfc/a16758.html#ade9ba7071cff655f2c0133481cb9c2bc", null ],
-    [ "DoAction", "db/dfc/a16758.html#a6c66df8b8e59a9dc62f1f944da2afc2c", null ],
-    [ "EnterEvadeMode", "db/dfc/a16758.html#a6ca0be233e8866b6154fa6e7164b856d", null ],
-    [ "JustDied", "db/dfc/a16758.html#a3a522e4c741bc321469ed87c10cf7904", null ],
-    [ "JustEngagedWith", "db/dfc/a16758.html#a5a1bf4aaf716674a63e31d24ae4a5d7c", null ],
-    [ "Reset", "db/dfc/a16758.html#a5c29c8d54956a0917df3997118348590", null ],
-    [ "UpdateAI", "db/dfc/a16758.html#a7135acfbc36212306a68fc8b758e2881", null ],
-    [ "events", "db/dfc/a16758.html#afa0f0b5cac0759db324cea7c64463f75", null ]
+    [ "PrepareSpellScript", "db/dfc/a16758.html#a5ed268ac2642b2df3c5eb1dc93a675fc", null ],
+    [ "RecalculateDamage", "db/dfc/a16758.html#a3fae6ceaa67716004c664dd40a4679ed", null ],
+    [ "Register", "db/dfc/a16758.html#a1a740e697fc84f5f035f2ec251872009", null ]
 ];

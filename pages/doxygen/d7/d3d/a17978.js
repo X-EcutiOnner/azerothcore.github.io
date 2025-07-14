@@ -1,9 +1,7 @@
 var a17978 =
 [
-    [ "FilterTargets", "d7/d3d/a17978.html#ae0c0320b523076e03c01f69b9d0df4bd", null ],
-    [ "FilterTargetsSubseq", "d7/d3d/a17978.html#a88a53a855e01b550fbd106ac318a891e", null ],
-    [ "PrepareSpellScript", "d7/d3d/a17978.html#ae5c08d71d0e1d30f0b126ca593763697", null ],
-    [ "Register", "d7/d3d/a17978.html#a27e8768422b311f6db16757e167f4102", null ],
-    [ "Validate", "d7/d3d/a17978.html#a96ef76527449a138685830b52fa95146", null ],
-    [ "_targetList", "d7/d3d/a17978.html#afcfbcf16c29b3bda1d7b85f79c624db1", null ]
+    [ "HandleScript", "d7/d3d/a17978.html#a802f667b20bccd3395c233482aa2485b", null ],
+    [ "PrepareSpellScript", "d7/d3d/a17978.html#ad371e6387d5df422eaa05acc9efe2f46", null ],
+    [ "Register", "d7/d3d/a17978.html#a730fded490df68f501010f952ceea40b", null ],
+    [ "Validate", "d7/d3d/a17978.html#a8ec4a10d4d3c348029256fec28a19ed6", null ]
 ];

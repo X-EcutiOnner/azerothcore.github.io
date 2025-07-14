@@ -1,8 +1,16 @@
 var a19166 =
 [
-    [ "npc_alexstraszaAI", "dd/d80/a19166.html#a36cf63109e379fa4a9e3f3426d70e50c", null ],
-    [ "AttackStart", "dd/d80/a19166.html#a120931695bf3ea649289ee4f6df9a3fd", null ],
-    [ "MoveInLineOfSight", "dd/d80/a19166.html#af93fc8e8877cc5730db7a9386ac3d815", null ],
-    [ "UpdateAI", "dd/d80/a19166.html#aa8cc3ee1a2a4702349b39708cc172594", null ],
-    [ "events", "dd/d80/a19166.html#aade88413d2f2998be6dcb9d15bf85ce0", null ]
+    [ "boss_thaddius_summonAI", "dd/d80/a19166.html#aa5050ea97f0f92a39f3db856af5cd28e", null ],
+    [ "DoAction", "dd/d80/a19166.html#a3b95513bd72806a928c0f57cf6ceb45a", null ],
+    [ "EnterEvadeMode", "dd/d80/a19166.html#ad2258d2039a789f99ad4c0766726df85", null ],
+    [ "JustDied", "dd/d80/a19166.html#a1629c28098312defb57611967adf34fe", null ],
+    [ "JustEngagedWith", "dd/d80/a19166.html#af96f6054547e377f401972273e6e86aa", null ],
+    [ "KilledUnit", "dd/d80/a19166.html#a16771a7a854f85dcc26e3510d31454af", null ],
+    [ "Reset", "dd/d80/a19166.html#a762fb33bd8fe4ac457b9b7b9c44b5d4c", null ],
+    [ "UpdateAI", "dd/d80/a19166.html#a6f99135eb20d77cca69ec20fe4fbd002", null ],
+    [ "events", "dd/d80/a19166.html#a18dd6a61746effdf03cd0afbadd8a368", null ],
+    [ "myCoil", "dd/d80/a19166.html#a2c21b7023f7396566f7486591a653079", null ],
+    [ "overload", "dd/d80/a19166.html#a6d054ec2a0f26f9f3a5b142bacca0ae5", null ],
+    [ "pullTimer", "dd/d80/a19166.html#a6080f32e1d90fa3e2e7bd9447abbad87", null ],
+    [ "visualTimer", "dd/d80/a19166.html#a3587b09a23d7aad81effd14bbda03291", null ]
 ];

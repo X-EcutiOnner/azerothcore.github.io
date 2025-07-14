@@ -1,8 +1,7 @@
 var a26402 =
 [
-    [ "HandleScript", "d0/daf/a26402.html#a1e096b2b2f5a285e660f64fb133f4f8b", null ],
-    [ "Load", "d0/daf/a26402.html#ad4e3fecb64bbb0f5c63b90d445c0b9f3", null ],
-    [ "PrepareSpellScript", "d0/daf/a26402.html#a5c4b2a46dfd6bdc2d14ee02f673628c1", null ],
-    [ "Register", "d0/daf/a26402.html#aa823af94e3366ae799ebaf03e52411dd", null ],
-    [ "Validate", "d0/daf/a26402.html#ad6985954002f88436a2681e758f41fb2", null ]
+    [ "HandleScript", "d0/daf/a26402.html#a1b20a7fb4487876f305aa3a8d493ed17", null ],
+    [ "PrepareSpellScript", "d0/daf/a26402.html#a5ac848029ef03f6779cf094f4b80dd24", null ],
+    [ "Register", "d0/daf/a26402.html#a3d378e0eac09b00792b293b2cd7f3192", null ],
+    [ "Validate", "d0/daf/a26402.html#a36963610ad939ec36848ff70185f47a2", null ]
 ];

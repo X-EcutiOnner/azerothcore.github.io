@@ -1,6 +1,8 @@
 var a18694 =
 [
-    [ "npc_icc_valkyr_heraldAI", "d2/db5/a18698.html", "d2/db5/a18698" ],
-    [ "npc_icc_valkyr_herald", "d0/d6c/a18694.html#a9d06e0dec8cb960d34c2089c1c0d8ccb", null ],
-    [ "GetAI", "d0/d6c/a18694.html#a7537269841d0380d2dc9e4641705acf9", null ]
+    [ "CountTargets", "d0/d6c/a18694.html#a3000d234134bb3d4b2e17fd1eff8f4f0", null ],
+    [ "HandleScript", "d0/d6c/a18694.html#af058a0c458463bdba4a4eb73aa91c113", null ],
+    [ "PrepareSpellScript", "d0/d6c/a18694.html#a83b2fad7cdc189a17129e25a015952ff", null ],
+    [ "Register", "d0/d6c/a18694.html#af5e214ab418ca05ddd637c83d7a7e71a", null ],
+    [ "Validate", "d0/d6c/a18694.html#a63e8e899cb1469dca26cd5fa34b85408", null ]
 ];

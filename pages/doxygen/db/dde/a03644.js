@@ -1,7 +1,6 @@
 var a03644 =
 [
-    [ "instance_the_slave_pens", "dc/dd8/a23320.html", "dc/dd8/a23320" ],
-    [ "instance_the_slave_pens::instance_the_slave_pens_InstanceMapScript", "d3/deb/a23324.html", "d3/deb/a23324" ],
-    [ "AddSC_instance_the_slave_pens", "db/dde/a03644.html#a41772e574e8da2d2009384c1f312ed92", null ],
-    [ "creatureData", "db/dde/a03644.html#a412286b689bd324fedd65ddd8dde8afb", null ]
+    [ "instance_razorfen_kraul", "d1/d32/a14926.html", "d1/d32/a14926" ],
+    [ "instance_razorfen_kraul::instance_razorfen_kraul_InstanceMapScript", "d9/d5a/a14930.html", "d9/d5a/a14930" ],
+    [ "AddSC_instance_razorfen_kraul", "db/dde/a03644.html#a27080d618fc76ad4f3d6b9e8ad4cc3c0", null ]
 ];

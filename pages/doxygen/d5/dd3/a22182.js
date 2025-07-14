@@ -1,6 +1,6 @@
 var a22182 =
 [
-    [ "npc_roxi_ramrocket", "d5/dd3/a22182.html#af7f6bf6d5f8fc468abe62605f205571b", null ],
-    [ "OnGossipHello", "d5/dd3/a22182.html#adec28f778921246c56f11d09753e566e", null ],
-    [ "OnGossipSelect", "d5/dd3/a22182.html#a46a9898cb4b29808f9e911c03b5759cb", null ]
+    [ "npc_avatar_of_freya", "d5/dd3/a22182.html#a3a6c4f6d8f05d606c6f545d91acdb2c1", null ],
+    [ "OnGossipHello", "d5/dd3/a22182.html#a020e8e41b32eb65ff906c9ca934a03fe", null ],
+    [ "OnGossipSelect", "d5/dd3/a22182.html#aba1b13e922873e939b2510b4bc77f49d", null ]
 ];

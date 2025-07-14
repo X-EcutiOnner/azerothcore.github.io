@@ -1,8 +1,11 @@
 var a21338 =
 [
-    [ "npc_azure_raiderAI", "de/d15/a21338.html#a6928428a9dc1ed483a682c8f2a281ebf", null ],
-    [ "Reset", "de/d15/a21338.html#a80d9e586e5c03d19b6b9f0e0f7607b20", null ],
-    [ "UpdateAI", "de/d15/a21338.html#a2e9833d0d25fd8c442f7ab279de6a40a", null ],
-    [ "uiConcussionBlowTimer", "de/d15/a21338.html#a4e7dfb8d4991bf7ad3d0eeb72dff770b", null ],
-    [ "uiMagicReflectionTimer", "de/d15/a21338.html#acb262ab506ea58201abfe2057525c548", null ]
+    [ "npc_ichor_globuleAI", "de/d15/a21338.html#a4d581f89c8385276fd407c000af9e569", null ],
+    [ "AttackStart", "de/d15/a21338.html#aa4e1fc88a26d6ef41f1ca96c93abbc1a", null ],
+    [ "JustDied", "de/d15/a21338.html#ad29c7659590933b0749e8e1c2c2e4c46", null ],
+    [ "MoveInLineOfSight", "de/d15/a21338.html#af8ef8296512d57d934a171f1a5060e73", null ],
+    [ "SpellHit", "de/d15/a21338.html#a1396538a446545408e3c304f3e56400f", null ],
+    [ "UpdateAI", "de/d15/a21338.html#a6ff13c853583e5178fb3a690e17303de", null ],
+    [ "pInstance", "de/d15/a21338.html#a94cbe93a69a28171fc3d91d71b6ec419", null ],
+    [ "uiRangeCheck_Timer", "de/d15/a21338.html#a99914a55d2dc0b36a623dc7d6248e953", null ]
 ];

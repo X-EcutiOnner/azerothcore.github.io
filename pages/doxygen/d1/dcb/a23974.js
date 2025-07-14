@@ -1,6 +1,7 @@
 var a23974 =
 [
-    [ "npc_creditmarker_visit_with_ancestorsAI", "d8/d8f/a23978.html", "d8/d8f/a23978" ],
-    [ "npc_creditmarker_visit_with_ancestors", "d1/dcb/a23974.html#a60f7abac7198d8504d944828dceb1ffa", null ],
-    [ "GetAI", "d1/dcb/a23974.html#a06eb335a757c9f48fbfa64bfc326bb8e", null ]
+    [ "npc_daranelleAI", "d1/dcb/a23974.html#a49eeff6e0aea079a0375a92074227d12", null ],
+    [ "JustEngagedWith", "d1/dcb/a23974.html#aeff39dfd84986186057cdaf7632eed4f", null ],
+    [ "MoveInLineOfSight", "d1/dcb/a23974.html#a353e27c1485b88f0751a64260898d35b", null ],
+    [ "Reset", "d1/dcb/a23974.html#a33b2fbec775257e3ba0bebe37fb86349", null ]
 ];

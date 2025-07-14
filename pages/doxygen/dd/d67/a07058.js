@@ -1,12 +1,6 @@
 var a07058 =
 [
-    [ "Type", "dd/d67/a07058.html#abfb75b18c4a43f1818cd78212c668109", [
-      [ "LIST", "dd/d67/a07058.html#abfb75b18c4a43f1818cd78212c668109a298cb25408234de02baf2085803a464a", null ],
-      [ "OWNER_LIST", "dd/d67/a07058.html#abfb75b18c4a43f1818cd78212c668109a425771069bf1ccc5efbffddcdd382f5e", null ],
-      [ "BIDDER_LIST", "dd/d67/a07058.html#abfb75b18c4a43f1818cd78212c668109a3db79062131239cf3a1812bf18377fab", null ]
-    ] ],
-    [ "AuctionSearcherRequest", "dd/d67/a07058.html#afadcce053f82ae124263a501671f35e3", null ],
-    [ "~AuctionSearcherRequest", "dd/d67/a07058.html#a8122177f0ca9b5c2393e87998a15e950", null ],
-    [ "listFaction", "dd/d67/a07058.html#a1847f75715da2de1098d0f767163f62d", null ],
-    [ "requestType", "dd/d67/a07058.html#ad7006f42aafadfa07024e1d2a278be3d", null ]
+    [ "AuctionSortInfo", "dd/d67/a07058.html#a4ceca7230706e6906942306595686502", null ],
+    [ "isDesc", "dd/d67/a07058.html#a0077ee9a4d8727c460e07efd517ae0c6", null ],
+    [ "sortOrder", "dd/d67/a07058.html#ac6afc258e0eca83f8e2fd8996e83231b", null ]
 ];

@@ -1,7 +1,25 @@
 var a28794 =
 [
-    [ "HandleScript", "d9/d60/a28794.html#ab3f88b7443eb4f32339c3b687431fda2", null ],
-    [ "PrepareSpellScript", "d9/d60/a28794.html#ab363d596d2d1e030f0cc07126b40e921", null ],
-    [ "Register", "d9/d60/a28794.html#ab9041b811e80e220828d5db59b724682", null ],
-    [ "Validate", "d9/d60/a28794.html#a1b9a4c78a43cf406f1db75c518a343ea", null ]
+    [ "Vec3D", "d9/d60/a28794.html#a66e77d25ca67f7a5418bc7b252bf4f9c", null ],
+    [ "Vec3D", "d9/d60/a28794.html#aa5aa758ed25117a81f53e19d8c80e427", null ],
+    [ "length", "d9/d60/a28794.html#aa99cf98be42720cb2e6eda8321d0585d", null ],
+    [ "lengthSquared", "d9/d60/a28794.html#a87ac62b18bdb6534dde07295ad3d7418", null ],
+    [ "normalize", "d9/d60/a28794.html#aad796e1a7950cf29bcf0664ab4529bdd", null ],
+    [ "operator float *", "d9/d60/a28794.html#ae7f0a885985683c338dcf10cdc675849", null ],
+    [ "operator%", "d9/d60/a28794.html#a6c06ca74a17414a8afad8889bc49e5e7", null ],
+    [ "operator*", "d9/d60/a28794.html#aa69f6d867a748bd543ec423a57378a21", null ],
+    [ "operator*", "d9/d60/a28794.html#a4d33d483ce46a408a9d0c45ddb075eb4", null ],
+    [ "operator*=", "d9/d60/a28794.html#aa59022e80683193bae192972da755884", null ],
+    [ "operator+", "d9/d60/a28794.html#a4908c6bd44a6a7856eada7b56425b1cc", null ],
+    [ "operator+=", "d9/d60/a28794.html#a15627b72a8533dba20622314d9c2d02e", null ],
+    [ "operator-", "d9/d60/a28794.html#a7022d6629a4d968fe6efdc29b54b16aa", null ],
+    [ "operator-=", "d9/d60/a28794.html#ac4cd3cead349c30f5bdaeecfaff4fdaa", null ],
+    [ "operator=", "d9/d60/a28794.html#ab7e2806da7e3bdfda666b5e4906f08c3", null ],
+    [ "operator~", "d9/d60/a28794.html#ab58f61de30ae8941782f902eb54dca29", null ],
+    [ "operator*", "d9/d60/a28794.html#ae30695a767fd2a31300bd1b858fda811", null ],
+    [ "operator<<", "d9/d60/a28794.html#ae0085c2ad66a850cb8270bbdd52d680e", null ],
+    [ "operator>>", "d9/d60/a28794.html#a9aa8110efc91a62f0719d9476b3cd7cf", null ],
+    [ "x", "d9/d60/a28794.html#a0f061b9d5ea2a680f64bed8b5be9116d", null ],
+    [ "y", "d9/d60/a28794.html#a3441f0095b7f2b5dc424f7b045f92f2c", null ],
+    [ "z", "d9/d60/a28794.html#a5a619f14529e714231bff4cc6fd36614", null ]
 ];

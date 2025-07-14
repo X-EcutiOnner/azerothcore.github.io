@@ -1,7 +1,8 @@
 var a05358 =
 [
-    [ "Node", "db/d62/a05358.html#aa4dcacffb32f3e739604ab6ef39b5031", null ],
-    [ "Node", "db/d62/a05358.html#aa5f116e3d84286f313ee8730bde7b936", null ],
-    [ "Data", "db/d62/a05358.html#aa7cdbff9817871b548fe639e0956f1f4", null ],
-    [ "Next", "db/d62/a05358.html#a7508e249dd3ff2b3ac291d67ddf87a71", null ]
+    [ "LogOperation", "db/d62/a05358.html#a19e5e4731bd71697876110348f86d737", null ],
+    [ "~LogOperation", "db/d62/a05358.html#aae305e293044badac1a628edd501ed35", null ],
+    [ "call", "db/d62/a05358.html#a966a4bfb45430860fa5be56fe8b48f79", null ],
+    [ "logger", "db/d62/a05358.html#af1d8611d116a3575e59a99e8cba5fc84", null ],
+    [ "msg", "db/d62/a05358.html#a665effc48367f396f3e714f5d3d56d75", null ]
 ];

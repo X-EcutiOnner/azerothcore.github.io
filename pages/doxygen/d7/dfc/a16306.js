@@ -1,6 +1,8 @@
 var a16306 =
 [
-    [ "npc_toc_shadow_priestAI", "d6/d76/a16310.html", "d6/d76/a16310" ],
-    [ "npc_toc_shadow_priest", "d7/dfc/a16306.html#a05020cd5c5363933dcea7a5901d1ac21", null ],
-    [ "GetAI", "d7/dfc/a16306.html#a93b38d23759da3b7417dbb94b4a951da", null ]
+    [ "npc_announcer_toc5AI", "d6/d76/a16310.html", "d6/d76/a16310" ],
+    [ "npc_announcer_toc5", "d7/dfc/a16306.html#abf50bb7deb9e0bb04d9ac802aff5fa41", null ],
+    [ "GetAI", "d7/dfc/a16306.html#a06767a8fd1e940d4efee6dd752520e9e", null ],
+    [ "OnGossipHello", "d7/dfc/a16306.html#ad2cc55ddc6696b9bfb22e68eab965fb0", null ],
+    [ "OnGossipSelect", "d7/dfc/a16306.html#a9017488c652fd75882db75914f4a2db2", null ]
 ];

@@ -1,7 +1,7 @@
 var a23138 =
 [
-    [ "FilterTargets", "d4/d2e/a23138.html#adb8581b4b92aa49eda8f531e6d6de1ea", null ],
-    [ "HandleDummy", "d4/d2e/a23138.html#a2fe7441bd9753cb912d11f8d36632f44", null ],
-    [ "PrepareSpellScript", "d4/d2e/a23138.html#ae7714acbe0a08781e3bc297847c47870", null ],
-    [ "Register", "d4/d2e/a23138.html#ade51d4cb00b63c46582c7a5e6e031e9d", null ]
+    [ "HandleEffectApply", "d4/d2e/a23138.html#acc7aeb8a002db3a846cbac29053af441", null ],
+    [ "HandleEffectRemove", "d4/d2e/a23138.html#a11de5d496bc1265ceb01c2bb91da4a57", null ],
+    [ "PrepareAuraScript", "d4/d2e/a23138.html#a7203f8808f6afc5bdaf49a26ae8b0c20", null ],
+    [ "Register", "d4/d2e/a23138.html#a7b62d651a57e2dc9d8e461f7a5c9d500", null ]
 ];

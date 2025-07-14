@@ -1,9 +1,6 @@
 var a15418 =
 [
-    [ "npc_thrall_warchiefAI", "d8/dfe/a15422.html", "d8/dfe/a15422" ],
-    [ "npc_thrall_warchief", "d2/da0/a15418.html#a3958f0b444537ac8a5ebf55de44e3590", null ],
-    [ "GetAI", "d2/da0/a15418.html#a4fc3d5410b959b4289f1ced17d412c03", null ],
-    [ "OnGossipHello", "d2/da0/a15418.html#a5cd40c062fb07d2ddfffdc159f2935d3", null ],
-    [ "OnGossipSelect", "d2/da0/a15418.html#a63367ca0b252c148f625b305575fd768", null ],
-    [ "OnQuestReward", "d2/da0/a15418.html#aea53462e94121ad44e366d2743807c3c", null ]
+    [ "npc_tiger_matriarch_creditAI", "d2/da0/a15418.html#a628772971a9c2a190ffe2fae6b0b6865", null ],
+    [ "UpdateAI", "d2/da0/a15418.html#a0fc7ca1313a21c5f74539ce2dbd7465d", null ],
+    [ "events", "d2/da0/a15418.html#ae96e0de4a36dde3237520e8a0ddd9f5f", null ]
 ];

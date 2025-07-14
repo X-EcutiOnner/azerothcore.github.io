@@ -1,7 +1,6 @@
 var a12398 =
 [
-    [ "HandlePeriodic", "da/d71/a12398.html#a5651e7ecab22d2286f85e56b8eccc003", null ],
-    [ "PrepareAuraScript", "da/d71/a12398.html#a5dca8e116c05d11961cbd7995314441e", null ],
-    [ "Register", "da/d71/a12398.html#a5972e66a8c05c5ae64e6666d0f35cb6e", null ],
-    [ "Validate", "da/d71/a12398.html#a689b93dcf39828f507ef2b7f72d1ca01", null ]
+    [ "boss_golemaggAI", "d2/d5b/a12402.html", "d2/d5b/a12402" ],
+    [ "boss_golemagg", "da/d71/a12398.html#a66720a143f8987dfa5d6e2acb7cd73cd", null ],
+    [ "GetAI", "da/d71/a12398.html#a6899f30975e0984306feabe47bbc8317", null ]
 ];

@@ -1,6 +1,6 @@
 var a20170 =
 [
-    [ "HandleAfterEffectApply", "d0/d0c/a20170.html#af655bb31dc24a3cede08ca371f784913", null ],
-    [ "PrepareAuraScript", "d0/d0c/a20170.html#a1824853d0b369deac0745fabe2df657c", null ],
-    [ "Register", "d0/d0c/a20170.html#a33e7c6cab2c99789661e6bb2d6b9a593", null ]
+    [ "boss_hodirAI", "d6/dee/a20174.html", "d6/dee/a20174" ],
+    [ "boss_hodir", "d0/d0c/a20170.html#a5740f489f57380d2633a8ee5a18de339", null ],
+    [ "GetAI", "d0/d0c/a20170.html#a8d6ce019e9c383d2eb9ac0d211f4bc4c", null ]
 ];

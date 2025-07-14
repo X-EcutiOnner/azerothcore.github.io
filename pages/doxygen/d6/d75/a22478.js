@@ -1,14 +1,13 @@
 var a22478 =
 [
-    [ "event_enter", "d6/d75/a22478.html#ac80d575f14dca1c901be55e34cc690e1", null ],
-    [ "event_leave", "d6/d75/a22478.html#a3dc0a11a5c06079026d27852e7561b74", null ],
-    [ "map_tower_a", "d6/d75/a22478.html#a9a65209caac3791b835c1920f5a667cf", null ],
-    [ "map_tower_h", "d6/d75/a22478.html#aa30ae484db7c69137abb13adb1b3c505", null ],
-    [ "map_tower_n", "d6/d75/a22478.html#a0453edceab2132e900bec183e360e210", null ],
-    [ "slider_disp", "d6/d75/a22478.html#aec3c8dde769675e3f436515c7a3bcf24", null ],
-    [ "slider_n", "d6/d75/a22478.html#a65015a3a24a5554643ecb5da47e24eea", null ],
-    [ "slider_pos", "d6/d75/a22478.html#acc63481f7613242ac06c6bee6c136a30", null ],
-    [ "ui_tower_a", "d6/d75/a22478.html#a0107bfd3b1df99568e02d6ca80042c86", null ],
-    [ "ui_tower_h", "d6/d75/a22478.html#a94a5fa0517fd0713b74f50a3d1d627cc", null ],
-    [ "ui_tower_n", "d6/d75/a22478.html#ae0fd99db88e6c60b829a18ff8e4be9a0", null ]
+    [ "OPvPCapturePointEP_EWT", "d6/d75/a22478.html#a3740f069c46f9d3f0e11d97663bc0104", null ],
+    [ "ChangeState", "d6/d75/a22478.html#ac00c50b89e1218f87506778096a9d7cd", null ],
+    [ "FillInitialWorldStates", "d6/d75/a22478.html#a7ce76f4fc8169c42f65267daf987a3b6", null ],
+    [ "HandlePlayerEnter", "d6/d75/a22478.html#aed78ccf9ad517b4a94431e3355cba1dd", null ],
+    [ "HandlePlayerLeave", "d6/d75/a22478.html#a2638b24dca375420778845963e307db3", null ],
+    [ "SendChangePhase", "d6/d75/a22478.html#a6d45df918aea00e9cb85a8940cb5c1c9", null ],
+    [ "SummonSupportUnitAtNorthpassTower", "d6/d75/a22478.html#ad70a8cc485072cd9af892290584062d8", null ],
+    [ "UpdateTowerState", "d6/d75/a22478.html#ac0bcdfb9f2aeabc78b72c3cce674c479", null ],
+    [ "m_TowerState", "d6/d75/a22478.html#aa30e9cc01476eb20b188c7a13a405c3a", null ],
+    [ "m_UnitsSummonedSideId", "d6/d75/a22478.html#a0319f0d51624df44419976e7abd1b813", null ]
 ];

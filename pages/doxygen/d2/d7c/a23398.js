@@ -1,11 +1,7 @@
 var a23398 =
 [
-    [ "boss_kiggler_the_crazed", "d2/d7c/a23398.html#a6f6cd74a8d2b12809f2710f784340fda", null ],
-    [ "AttackStart", "d2/d7c/a23398.html#a47c18487637dcb911852573e3aec85a2", null ],
-    [ "JustDied", "d2/d7c/a23398.html#acf82f68ccfeabd33bc387dbe7ea0e997", null ],
-    [ "JustEngagedWith", "d2/d7c/a23398.html#acd10951a5b148579d0bd4196cc2e686e", null ],
-    [ "Reset", "d2/d7c/a23398.html#a3bd8ca2488b2db298a198038a849189e", null ],
-    [ "UpdateAI", "d2/d7c/a23398.html#a16e2b767ca4b05eba79726ccb6e11204", null ],
-    [ "_scheduler", "d2/d7c/a23398.html#af041c254910df663a03fcc815db635da", null ],
-    [ "instance", "d2/d7c/a23398.html#aa78db443f19814c66b977fe008de74fa", null ]
+    [ "npc_underbog_mushroom", "d2/d7c/a23398.html#a2b77b2590d46c14c783d2df4a3699c44", null ],
+    [ "InitializeAI", "d2/d7c/a23398.html#a7c192010cc63715eaa3f38b1d1372936", null ],
+    [ "UpdateAI", "d2/d7c/a23398.html#a9a8ed51b12809152ebe78dda69944d77", null ],
+    [ "_scheduler", "d2/d7c/a23398.html#a407cdb1096e5212dd0a50ea4fa401112", null ]
 ];

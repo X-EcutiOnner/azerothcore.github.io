@@ -1,47 +1,25 @@
 var a00116 =
 [
-    [ "MailSender", "d7/d95/a09683.html", "d7/d95/a09683" ],
-    [ "MailReceiver", "db/d4f/a09687.html", "db/d4f/a09687" ],
-    [ "MailDraft", "d6/db9/a09691.html", "d6/db9/a09691" ],
-    [ "MailItemInfo", "df/dc8/a09695.html", "df/dc8/a09695" ],
-    [ "Mail", "d1/d90/a09699.html", "d1/d90/a09699" ],
-    [ "MAIL_BODY_ITEM_TEMPLATE", "d4/d3e/a00116.html#a400524cb6bb97f3dfaa616a2afae05db", null ],
-    [ "MAX_MAIL_ITEMS", "d4/d3e/a00116.html#a92d79b5b2210d828abe28a8834a50770", null ],
-    [ "MailItemInfoVec", "d4/d3e/a00116.html#a5f97bcac5adeb0d52a6360c8aa0d0938", null ],
-    [ "MailCheckMask", "d4/d3e/a00116.html#a9738cb9d4ddff5f3b2a406f8d9c469cc", [
-      [ "MAIL_CHECK_MASK_NONE", "d4/d3e/a00116.html#a9738cb9d4ddff5f3b2a406f8d9c469cca65bb77bc25220e08e3c065ad070b9888", null ],
-      [ "MAIL_CHECK_MASK_READ", "d4/d3e/a00116.html#a9738cb9d4ddff5f3b2a406f8d9c469cca3b48ed5fecdcd88c0a15e74b0853c03b", null ],
-      [ "MAIL_CHECK_MASK_RETURNED", "d4/d3e/a00116.html#a9738cb9d4ddff5f3b2a406f8d9c469cca5f7f5d671d1137cc0dd8b88a6579454a", null ],
-      [ "MAIL_CHECK_MASK_COPIED", "d4/d3e/a00116.html#a9738cb9d4ddff5f3b2a406f8d9c469cca9170ec2a04d365ca0a6167cad4a2e2fb", null ],
-      [ "MAIL_CHECK_MASK_COD_PAYMENT", "d4/d3e/a00116.html#a9738cb9d4ddff5f3b2a406f8d9c469cca4cef0afe6ff002d8e7089cb2eddf1468", null ],
-      [ "MAIL_CHECK_MASK_HAS_BODY", "d4/d3e/a00116.html#a9738cb9d4ddff5f3b2a406f8d9c469cca348c2227a2767173436f2f88dfe37716", null ]
-    ] ],
-    [ "MailMessageType", "d4/d3e/a00116.html#afb83216fd8c410f5d4bdfef0f9b302ed", [
-      [ "MAIL_NORMAL", "d4/d3e/a00116.html#afb83216fd8c410f5d4bdfef0f9b302edaad2526a166df2caa50762ff348a2f54a", null ],
-      [ "MAIL_AUCTION", "d4/d3e/a00116.html#afb83216fd8c410f5d4bdfef0f9b302eda1c6b723dd78af975a7ec8a3562361330", null ],
-      [ "MAIL_CREATURE", "d4/d3e/a00116.html#afb83216fd8c410f5d4bdfef0f9b302eda462b01f59d339ec67b080f100e97256c", null ],
-      [ "MAIL_GAMEOBJECT", "d4/d3e/a00116.html#afb83216fd8c410f5d4bdfef0f9b302eda4398082ad7546f3811f818835522100d", null ],
-      [ "MAIL_CALENDAR", "d4/d3e/a00116.html#afb83216fd8c410f5d4bdfef0f9b302eda99dc24213703b6afb3639762a349c258", null ]
-    ] ],
-    [ "MailShowFlags", "d4/d3e/a00116.html#a03de18fb5d90aaaa9daa333ddbe2d394", [
-      [ "MAIL_SHOW_UNK0", "d4/d3e/a00116.html#a03de18fb5d90aaaa9daa333ddbe2d394a5d741597d486fff4283ab7bfeaa32ecc", null ],
-      [ "MAIL_SHOW_DELETE", "d4/d3e/a00116.html#a03de18fb5d90aaaa9daa333ddbe2d394a7d87ac4c7be1c9b63837bd39706eba07", null ],
-      [ "MAIL_SHOW_AUCTION", "d4/d3e/a00116.html#a03de18fb5d90aaaa9daa333ddbe2d394ac82b5f53ff29204c00b9479712bfeb72", null ],
-      [ "MAIL_SHOW_UNK2", "d4/d3e/a00116.html#a03de18fb5d90aaaa9daa333ddbe2d394a2fe725e9d54355a13c1322a8d81da6a3", null ],
-      [ "MAIL_SHOW_RETURN", "d4/d3e/a00116.html#a03de18fb5d90aaaa9daa333ddbe2d394a9bfa489acd6be01c57410679c81d5a9e", null ]
-    ] ],
-    [ "MailState", "d4/d3e/a00116.html#a38d587a785c6fa4c4342574233684a20", [
-      [ "MAIL_STATE_UNCHANGED", "d4/d3e/a00116.html#a38d587a785c6fa4c4342574233684a20ae16408762dbf072dd193ffe6b3097047", null ],
-      [ "MAIL_STATE_CHANGED", "d4/d3e/a00116.html#a38d587a785c6fa4c4342574233684a20aac816c9be99273eb826bf89eda08f1bb", null ],
-      [ "MAIL_STATE_DELETED", "d4/d3e/a00116.html#a38d587a785c6fa4c4342574233684a20a3645936325ffbfb6858bcbb312b9072a", null ]
-    ] ],
-    [ "MailStationery", "d4/d3e/a00116.html#a97c589393fcefa82854f195693493094", [
-      [ "MAIL_STATIONERY_TEST", "d4/d3e/a00116.html#a97c589393fcefa82854f195693493094a08c959967722eb59a73866b06fff4ee1", null ],
-      [ "MAIL_STATIONERY_DEFAULT", "d4/d3e/a00116.html#a97c589393fcefa82854f195693493094ab18c50370e3504660676eeab1fed7a68", null ],
-      [ "MAIL_STATIONERY_GM", "d4/d3e/a00116.html#a97c589393fcefa82854f195693493094a39230800d1e1c4dbd3c46fbaaba39541", null ],
-      [ "MAIL_STATIONERY_AUCTION", "d4/d3e/a00116.html#a97c589393fcefa82854f195693493094aef86d2a36ec87427177f03b971bf4fcd", null ],
-      [ "MAIL_STATIONERY_VAL", "d4/d3e/a00116.html#a97c589393fcefa82854f195693493094acf69185a7c40dad17bf89924f8c89cd5", null ],
-      [ "MAIL_STATIONERY_CHR", "d4/d3e/a00116.html#a97c589393fcefa82854f195693493094a3f6ed9e1ee49995d1854786d3ab7b5a0", null ],
-      [ "MAIL_STATIONERY_ORP", "d4/d3e/a00116.html#a97c589393fcefa82854f195693493094aa349afbb838c106b8d4e161b7611583c", null ]
-    ] ]
+    [ "ABORT", "d4/d3e/a00116.html#a5376571bbf4cdc9782683635f366f89a", null ],
+    [ "ASSERT", "d4/d3e/a00116.html#af343b20373ba49a92fce523e948f2ab3", null ],
+    [ "ASSERT_NODEBUGINFO", "d4/d3e/a00116.html#ae4aa5b88f8a0cd841e02343e63098f7a", null ],
+    [ "ASSERT_NOTNULL", "d4/d3e/a00116.html#aee2b3b5656453513bc51a5979b247a67", null ],
+    [ "EXCEPTION_ASSERTION_FAILURE", "d4/d3e/a00116.html#adb1e581c0b1db74338cf2892218ff23f", null ],
+    [ "WPAbort", "d4/d3e/a00116.html#aab8761bc4b218ac84ad259cc6e0c1589", null ],
+    [ "WPAssert", "d4/d3e/a00116.html#a6b3632c6657f3d1633b9a9707d9ede62", null ],
+    [ "WPAssert_NODEBUGINFO", "d4/d3e/a00116.html#ab0566f9653ccc9fc0e174bda17fc5277", null ],
+    [ "WPError", "d4/d3e/a00116.html#a7d9ea9088aab1556ba6739861998001a", null ],
+    [ "WPFatal", "d4/d3e/a00116.html#a47d51826ca35c49a890b7bc2ad6818ea", null ],
+    [ "WPWarning", "d4/d3e/a00116.html#afbbc90bf1881f7811a1022e7af350b47", null ],
+    [ "Abort", "d4/d3e/a00116.html#a257b055b35d21943eb2a144cccd26429", null ],
+    [ "Abort", "d4/d3e/a00116.html#af8c8ba5d8126e10ea9f5d86e8a9e742b", null ],
+    [ "AbortHandler", "d4/d3e/a00116.html#ad49ea597ac6ffd8eb9ae06bab8c38b43", null ],
+    [ "Assert", "d4/d3e/a00116.html#aaacb53f863e011c7d879e93567268109", null ],
+    [ "Assert", "d4/d3e/a00116.html#a1990519ae97867f1a629699d00874fb2", null ],
+    [ "ASSERT_NOTNULL_IMPL", "d4/d3e/a00116.html#aa8e391e13264a7b2f29f66832263afcf", null ],
+    [ "Error", "d4/d3e/a00116.html#af222a0bd205c0bcecd8a7b6554137e33", null ],
+    [ "Fatal", "d4/d3e/a00116.html#a07aa40e12479c740872d1ad7f55acbbc", null ],
+    [ "Fatal", "d4/d3e/a00116.html#af4a5b364827068eb978fa1a1fff5770f", null ],
+    [ "GetDebugInfo", "d4/d3e/a00116.html#a4dc49effc31d570798463c106549b1cb", null ],
+    [ "Warning", "d4/d3e/a00116.html#ab1b23d9277c7dd8d381753ec943ad1bc", null ]
 ];

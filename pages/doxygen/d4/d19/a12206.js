@@ -1,6 +1,6 @@
 var a12206 =
 [
-    [ "boss_victor_nefariusAI", "d9/dfa/a12210.html", "d9/dfa/a12210" ],
-    [ "boss_victor_nefarius", "d4/d19/a12206.html#a85c529c49a0373a553bc59818fb18f49", null ],
-    [ "GetAI", "d4/d19/a12206.html#a6ea19bde6980cbb4ca627d17cf57ae24", null ]
+    [ "boss_chromaggusAI", "d9/dfa/a12210.html", "d9/dfa/a12210" ],
+    [ "boss_chromaggus", "d4/d19/a12206.html#a55847fc0d5430d3f22074b53d7caca4b", null ],
+    [ "GetAI", "d4/d19/a12206.html#ace78172cafb122ce5961ed837201c32b", null ]
 ];

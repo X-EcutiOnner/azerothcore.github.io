@@ -1,6 +1,6 @@
 var a22066 =
 [
-    [ "npc_mcmanus", "da/d46/a22066.html#a4e9da3fa22b74f51f72c58cbf22dc683", null ],
-    [ "OnGossipHello", "da/d46/a22066.html#acb8f8b9c10387c0bb45b7d68f7f9821f", null ],
-    [ "OnGossipSelect", "da/d46/a22066.html#a5e8c37ebcfa737ee3066ab8df3e453f8", null ]
+    [ "npc_boneguard_footmanAI", "d6/df3/a22070.html", "d6/df3/a22070" ],
+    [ "npc_boneguard_footman", "da/d46/a22066.html#aba17f89b9546deff5401ad33224b2b3e", null ],
+    [ "GetAI", "da/d46/a22066.html#ab0b28f61e26f701db17a0d19bbde4492", null ]
 ];

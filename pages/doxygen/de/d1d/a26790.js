@@ -1,6 +1,6 @@
 var a26790 =
 [
-    [ "HandleOnHit", "de/d1d/a26790.html#a94893e6dd048f0028540e5ce15ed7b1d", null ],
-    [ "PrepareSpellScript", "de/d1d/a26790.html#a999b019665dec9b0690a1019be428072", null ],
-    [ "Register", "de/d1d/a26790.html#ab21c47d1918a9e29ebe7b041421deaf7", null ]
+    [ "FilterTargets", "de/d1d/a26790.html#a2bcc808d5869442e4c2e78be2d2a16af", null ],
+    [ "PrepareSpellScript", "de/d1d/a26790.html#a51d7035477ba4e3994ef3161edc4cc69", null ],
+    [ "Register", "de/d1d/a26790.html#adcc2ed25659208d0eeaec6d9673df3c6", null ]
 ];

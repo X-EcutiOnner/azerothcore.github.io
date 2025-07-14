@@ -1,9 +1,7 @@
 var a22042 =
 [
-    [ "npc_frostbrood_skytalonAI", "dd/d1b/a22042.html#afc14c60466f9f0f1b20062758f18c00d", null ],
-    [ "IsSummonedBy", "dd/d1b/a22042.html#a2c5729ee3371e562869878ff3a7b84bd", null ],
-    [ "MovementInform", "dd/d1b/a22042.html#ae763333503176eb7e8ce407868243958", null ],
-    [ "SpellHit", "dd/d1b/a22042.html#a24bb49f47dcf85c95039d0495a89e126", null ],
-    [ "UpdateAI", "dd/d1b/a22042.html#a0ffc4cd2e9b61ad17c516f062d161feb", null ],
-    [ "events", "dd/d1b/a22042.html#a8575d258d63e28626cffd7fc2160bee6", null ]
+    [ "npc_battle_at_valhalasAI", "dd/d1c/a22046.html", "dd/d1c/a22046" ],
+    [ "npc_battle_at_valhalas", "dd/d1b/a22042.html#aacec717b5b91ae55307c9642779c15ec", null ],
+    [ "GetAI", "dd/d1b/a22042.html#a3660ba847b3b40c2d358d63c63517a5e", null ],
+    [ "OnQuestAccept", "dd/d1b/a22042.html#addd76fd9f4b4f8ce706693614b80966b", null ]
 ];

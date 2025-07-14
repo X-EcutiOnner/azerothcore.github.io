@@ -1,6 +1,6 @@
 var a17038 =
 [
-    [ "entry", "db/d54/a17038.html#af2cf5df64adf9ac1575a8217b103e738", null ],
-    [ "x", "db/d54/a17038.html#aad21475d521921ea30cc0ae5d260ce69", null ],
-    [ "y", "db/d54/a17038.html#abd69e1c28ad36466c82807ea0ffb0fb7", null ]
+    [ "npc_pos_deathwhisper_necrolyteAI", "d3/d91/a17042.html", "d3/d91/a17042" ],
+    [ "npc_pos_deathwhisper_necrolyte", "db/d54/a17038.html#a0dcdb5b1dfed44f74b04663758b531a0", null ],
+    [ "GetAI", "db/d54/a17038.html#ae765669f95f4f14b393b88bf7ecbbfd6", null ]
 ];

@@ -1,4 +1,32 @@
 var a19622 =
 [
-    [ "operator()", "dd/d8b/a19622.html#aae8aeaabdecc3d8ff68c8764b166741d", null ]
+    [ "brann_bronzebeardAI", "dd/d8b/a19622.html#ac738ee9f48cf95623c02d398a889726a", null ],
+    [ "DamageTaken", "dd/d8b/a19622.html#a77531ca2268c97e1dd891e8accdb39e4", null ],
+    [ "DespawnHeads", "dd/d8b/a19622.html#a5228e277e7dfb7fe2d40ba4b4ffd119a", null ],
+    [ "DoAction", "dd/d8b/a19622.html#abb8463fcd6b642f7dbcd459296c81f86", null ],
+    [ "GetAbedneum", "dd/d8b/a19622.html#a908d4f4c44a9ae580ff1ce423edc8827", null ],
+    [ "GetKaddrak", "dd/d8b/a19622.html#a0ec7965c90d3401eda58fe7d4e0e1690", null ],
+    [ "GetMarnak", "dd/d8b/a19622.html#a121d556eb64ac3f498048de336c29130", null ],
+    [ "InitializeEvent", "dd/d8b/a19622.html#ac40734fb9f32d736174781d67908c6d6", null ],
+    [ "JustDied", "dd/d8b/a19622.html#a30b1fbaf9a2c248908aa2c230cb843bb", null ],
+    [ "JustSummoned", "dd/d8b/a19622.html#ade40ddc2750f52942911de204b74bbea", null ],
+    [ "Reset", "dd/d8b/a19622.html#a4ffcbc4d1821484d13bab405687057cf", null ],
+    [ "ResetEvent", "dd/d8b/a19622.html#a5d3080b0fcb9a968f1c258cfeb3c7d06", null ],
+    [ "SummonCreatures", "dd/d8b/a19622.html#a3809fe30aeb787bb2f0e058f587834bc", null ],
+    [ "SwitchHeadVisaul", "dd/d8b/a19622.html#a19d3bc69584186ae151416ee959f4369", null ],
+    [ "UpdateEscortAI", "dd/d8b/a19622.html#a814f7f6018e2553eba3f1201c2450d57", null ],
+    [ "WaypointReached", "dd/d8b/a19622.html#acbcecd90533986c2a6185e7a7b5387f0", null ],
+    [ "AbedneumGUID", "dd/d8b/a19622.html#a961f61bf9a9392c5d0c2db0450f8e519", null ],
+    [ "canExecuteEvents", "dd/d8b/a19622.html#a891ad98b38be5eb90bb66bb59f0dc6e5", null ],
+    [ "darkMatterTargetGUID", "dd/d8b/a19622.html#a62b095c494b4e034f6d77023e75f0d29", null ],
+    [ "events", "dd/d8b/a19622.html#ab667ca6a3e3fd1572cc3a5d0ee4efa60", null ],
+    [ "KaddrakGUID", "dd/d8b/a19622.html#acb32e7867b43d1ebd1393d4e716df808", null ],
+    [ "leftEye", "dd/d8b/a19622.html#a70256cd1bcfa8d9e6f123ecad77ebd5b", null ],
+    [ "MarnakGUID", "dd/d8b/a19622.html#ab451bff216cef73d1caffd1de529ecd0", null ],
+    [ "pInstance", "dd/d8b/a19622.html#a93ab00bd475f7544450c53236f46f172", null ],
+    [ "SpeechCount", "dd/d8b/a19622.html#ad159a5a46ab35f151177b59f32dea649", null ],
+    [ "SpeechPause", "dd/d8b/a19622.html#ab35b242e9a6371ded1d111ce1fd79c35", null ],
+    [ "summons", "dd/d8b/a19622.html#a88f94d8492724325c4f74b195caf806e", null ],
+    [ "TalkEvent", "dd/d8b/a19622.html#a25f066179d4b0d9861bccada8cb91bfe", null ],
+    [ "WaveNum", "dd/d8b/a19622.html#af32c7ba733d00a6f7564d6ed461bd4a5", null ]
 ];

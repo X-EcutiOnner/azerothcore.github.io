@@ -1,6 +1,9 @@
 var a19894 =
 [
-    [ "PrepareSpellScript", "d8/d89/a19894.html#a7eeb4e2b9c3bb6e7d02d6a5acf8e1d52", null ],
-    [ "RecalculateDamage", "d8/d89/a19894.html#a094a21cf3cf109e704d3e334ad7dbad1", null ],
-    [ "Register", "d8/d89/a19894.html#af2b5382122be41a6b1ee4ab721b417da", null ]
+    [ "npc_hodirs_furyAI", "d8/d89/a19894.html#ae08a68a79a3fef952f6dfa50b4eaabca", null ],
+    [ "MovementInform", "d8/d89/a19894.html#a37b07ddee5403ee2de8f69904412ed42", null ],
+    [ "Reset", "d8/d89/a19894.html#a389f0f17fbc7860c5531f4859be561d3", null ],
+    [ "UpdateAI", "d8/d89/a19894.html#a5417d68891ad0f93c8130c9a14d57513", null ],
+    [ "_switchTargetTimer", "d8/d89/a19894.html#a8d15c1e290438c8a4aa50887cfffccba", null ],
+    [ "_timeToHit", "d8/d89/a19894.html#a594356602bd0068fba82bea64e284837", null ]
 ];

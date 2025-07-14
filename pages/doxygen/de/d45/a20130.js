@@ -1,6 +1,8 @@
 var a20130 =
 [
-    [ "DestroyWinterCache", "de/d45/a20130.html#a4f4d8998d611354bce4f5531e6029d6b", null ],
-    [ "PrepareSpellScript", "de/d45/a20130.html#a67e36939554e13ddb7fb7493968fbc3f", null ],
-    [ "Register", "de/d45/a20130.html#a5ac6314b0a016adafd7c6e87289b5649", null ]
+    [ "npc_ulduar_saronite_animusAI", "de/d45/a20130.html#a2b94427feb24a7bda075b6a8f403433a", null ],
+    [ "JustDied", "de/d45/a20130.html#a30abcab01de3732bc5525864576615b0", null ],
+    [ "UpdateAI", "de/d45/a20130.html#a1490961adc8fc03ab28a992aff55b43b", null ],
+    [ "pInstance", "de/d45/a20130.html#a5d3b297355f286b0ad08ed38dbd5b0d2", null ],
+    [ "timer", "de/d45/a20130.html#a3d0345d4c503eb3f0e4acbe346f1c5e5", null ]
 ];

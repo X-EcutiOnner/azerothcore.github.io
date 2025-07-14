@@ -1,12 +1,12 @@
 var a12066 =
 [
-    [ "boss_thebeastAI", "dd/d80/a12066.html#a51b7d4ec10d2616d99fb21e680ff17b4", null ],
-    [ "FindNearbyOrcs", "dd/d80/a12066.html#ad832a878880ac32e05d360262546422a", null ],
-    [ "JustEngagedWith", "dd/d80/a12066.html#ab107354f10d0af4b840ab5ff8d3d0eaf", null ],
-    [ "Reset", "dd/d80/a12066.html#abfa1bca308a02ef0e80d2baf11670305", null ],
-    [ "SetData", "dd/d80/a12066.html#a6f30ed7c0451613998660b258145f801", null ],
-    [ "UpdateAI", "dd/d80/a12066.html#a0f490e907ce632e1fb921a6eb46b49c0", null ],
-    [ "_beastReached", "dd/d80/a12066.html#a01271598b4b3c85a7066e66d8150e522", null ],
-    [ "_nearbyOrcsGUIDs", "dd/d80/a12066.html#af32fb34f4c76cfe292da9bc84a5d6372", null ],
-    [ "_orcYelled", "dd/d80/a12066.html#a16df847475ea220b8ac4ea944e8d1ca4", null ]
+    [ "boss_pyroguard_emberseerAI", "dd/d80/a12066.html#ac08deea0d151d109f36bb3cf66a34f29", null ],
+    [ "JustDied", "dd/d80/a12066.html#aa35fc50d327c0bf7506bfd166d098522", null ],
+    [ "JustEngagedWith", "dd/d80/a12066.html#a9eff335ff04e3da1e4488e00b55ecbaa", null ],
+    [ "OpenDoors", "dd/d80/a12066.html#a8002f8d7b6b06b970d38d9824d57d737", null ],
+    [ "Reset", "dd/d80/a12066.html#ab82a2bc6e9596d14dd2fd65b859af74d", null ],
+    [ "SetData", "dd/d80/a12066.html#a5892ccaf9107e2da47c22c21bf5b2ed9", null ],
+    [ "SpellHit", "dd/d80/a12066.html#a236f20c40eb1c37a25b04b5cf83e2488", null ],
+    [ "UpdateAI", "dd/d80/a12066.html#a075147c4409174652e732293426b732d", null ],
+    [ "UpdateRunes", "dd/d80/a12066.html#a87d7d63893a9feb6bb6c44adf1c637eb", null ]
 ];

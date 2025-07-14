@@ -1,15 +1,10 @@
 var a10390 =
 [
-    [ "MapScript", "d6/d23/a10390.html#a1932ac48acf7c937c060ee35804e79da", null ],
-    [ "checkMap", "d6/d23/a10390.html#abf3fbb90119e1ac5d13455217ac95a2f", null ],
-    [ "GetEntry", "d6/d23/a10390.html#aa2da3eeec627cb67719d774d35f03488", null ],
-    [ "OnCreate", "d6/d23/a10390.html#a8132edffb918e8b3b1131ae29a8d9e9b", null ],
-    [ "OnDestroy", "d6/d23/a10390.html#a4631768d457c2804f057c565d6e8fb7a", null ],
-    [ "OnLoadGridMap", "d6/d23/a10390.html#a77381401d4638c6149f21836f1ca6676", null ],
-    [ "OnPlayerEnter", "d6/d23/a10390.html#a9cef8253d591e729b4119312ec0b670a", null ],
-    [ "OnPlayerLeave", "d6/d23/a10390.html#a3d74ae0f2535cda31cf2d4125600f3e2", null ],
-    [ "OnUnloadGridMap", "d6/d23/a10390.html#a657bcd69e932d358e2c66daa6f571cfe", null ],
-    [ "OnUpdate", "d6/d23/a10390.html#a4e447511780a0c561e16b9e118361f63", null ],
-    [ "_mapEntry", "d6/d23/a10390.html#a280ca8d9bfa672c10d34a99db53d2959", null ],
-    [ "_mapId", "d6/d23/a10390.html#a1cbe9ae08f6e1c129df8d2277366eb1a", null ]
+    [ "VehicleScript", "d6/d23/a10390.html#a9f708a7e432fcb4abe15dcabb0e5a035", null ],
+    [ "OnAddPassenger", "d6/d23/a10390.html#a4495f8900ecb85546ac23ebe4783ae7c", null ],
+    [ "OnInstall", "d6/d23/a10390.html#abbb42dcbc5fad97ed1df45ea7b3afe54", null ],
+    [ "OnInstallAccessory", "d6/d23/a10390.html#ad59ae4c47404abb86e05ae983704f6ea", null ],
+    [ "OnRemovePassenger", "d6/d23/a10390.html#ad4094366aba1fb6a1ff19361d1be9210", null ],
+    [ "OnReset", "d6/d23/a10390.html#a38fca3fec8785f015084b832f9e3b08c", null ],
+    [ "OnUninstall", "d6/d23/a10390.html#a7d4bafe42756ee73b5ce79783842c243", null ]
 ];

@@ -1,6 +1,5 @@
 var a25466 =
 [
-    [ "HandleDummy", "d9/dd1/a25466.html#ad086618ff3caadcf5126e12a1359503f", null ],
-    [ "PrepareSpellScript", "d9/dd1/a25466.html#a4b3a79a9ba01226038a1da886f6a2f7c", null ],
-    [ "Register", "d9/dd1/a25466.html#a214526ddc986ee829daf9090678e3a7b", null ]
+    [ "PrepareSpellScript", "d9/dd1/a25466.html#aadb11335a487f83639260fc4246ba26f", null ],
+    [ "Register", "d9/dd1/a25466.html#a1b83195bdc148434f10a6c1ba3c0af0d", null ]
 ];

@@ -1,6 +1,6 @@
 var a22754 =
 [
-    [ "HandleSharedRule", "d8/d51/a22754.html#a94b783490dafae872b65e0bbfed156b9", null ],
-    [ "PrepareSpellScript", "d8/d51/a22754.html#af59695af3afcc51a3c29fcc4053bbfee", null ],
-    [ "Register", "d8/d51/a22754.html#a31f2d90059e62da77a719a192d62328b", null ]
+    [ "HandleScriptEffect", "d8/d51/a22754.html#aa60961c2609184e739dea3be8ba992d5", null ],
+    [ "PrepareSpellScript", "d8/d51/a22754.html#aacde592314399112786b024153389024", null ],
+    [ "Register", "d8/d51/a22754.html#a3a2299da6fd73d14c7771e7a2c8a4ebd", null ]
 ];

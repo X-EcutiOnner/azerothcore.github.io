@@ -1,9 +1,10 @@
 var a28430 =
 [
-    [ "SetUp", "d8/dd0/a28430.html#abb28ef64461635a540dad471b7b12ebc", null ],
-    [ "TearDown", "d8/dd0/a28430.html#ace0b9a0c578a6b8ec1d33ad584aaf911", null ],
-    [ "arenaTeams", "d8/dd0/a28430.html#ab40dacafdb3c5de73cf66426d014a4fe", null ],
-    [ "team1", "d8/dd0/a28430.html#a325d8058950e53d17e16fd90cd105776", null ],
-    [ "team2", "d8/dd0/a28430.html#ac6336ffa31e59a5d3acc227c674e9ea8", null ],
-    [ "team3", "d8/dd0/a28430.html#af3c2e86874e53ae812debbe1abfbcf05", null ]
+    [ "ID", "d8/dd0/a28430.html#a090069d13cbbcc5762ecca600c506492", null ],
+    [ "map_id", "d8/dd0/a28430.html#a685931e2a361f9e0fc81c004c7467d19", null ],
+    [ "MountCreatureID", "d8/dd0/a28430.html#ab59ab7e8b302ac8858bfd67bc10d803f", null ],
+    [ "name", "d8/dd0/a28430.html#ae00db3ea736c3a470f6f0690c178e758", null ],
+    [ "x", "d8/dd0/a28430.html#a7cbd40848094fa367862d653b0f7170d", null ],
+    [ "y", "d8/dd0/a28430.html#a9380befd45cab3104003b2487464bd71", null ],
+    [ "z", "d8/dd0/a28430.html#a2e6ce98f7c96ba1469fca8ff3946404a", null ]
 ];

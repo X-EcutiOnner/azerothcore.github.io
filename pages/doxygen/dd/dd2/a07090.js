@@ -1,7 +1,6 @@
 var a07090 =
 [
-    [ "AuctionSearchUpdateBid", "dd/dd2/a07090.html#ad7ecaf272e5cc8fe61e0b448d05b6d27", null ],
-    [ "auctionId", "dd/dd2/a07090.html#a6ebbff1fcebe77ed4735483ad481fd00", null ],
-    [ "bid", "dd/dd2/a07090.html#a14b7f79b2aa0b020c8c940d6b01c4efc", null ],
-    [ "bidderGuid", "dd/dd2/a07090.html#a843bcff41f694075ea056d9a3c71467f", null ]
+    [ "AuctionSearchListRequest", "dd/dd2/a07090.html#ac619da4568504e2d25a0f90a4f8d1f0a", null ],
+    [ "playerInfo", "dd/dd2/a07090.html#a73178eac3df25fd103b20b5894e8c4d8", null ],
+    [ "searchInfo", "dd/dd2/a07090.html#a1e9d71ab67e1a9eb50333d620c4b170c", null ]
 ];

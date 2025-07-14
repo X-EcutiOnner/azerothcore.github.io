@@ -1,9 +1,8 @@
 var a27462 =
 [
-    [ "npc_chicken_cluckAI", "d5/d04/a27462.html#a4f2eaa107e2a8b4900fac54780ac9693", null ],
-    [ "JustEngagedWith", "d5/d04/a27462.html#a854eae196c68cb1e4dd1c1773870ef9a", null ],
-    [ "ReceiveEmote", "d5/d04/a27462.html#aa5d6d3ea3ad4d0f81781581a39933fc8", null ],
-    [ "Reset", "d5/d04/a27462.html#a5a32f458a7f09282e7ac53fa7d6255b4", null ],
-    [ "UpdateAI", "d5/d04/a27462.html#a86c8f74d0a55b9a041a789f16de8189d", null ],
-    [ "ResetFlagTimer", "d5/d04/a27462.html#a0d0507ae7a1eca369df288515856e1b5", null ]
+    [ "npc_simoneAI", "d9/d0e/a27466.html", "d9/d0e/a27466" ],
+    [ "npc_simone", "d5/d04/a27462.html#acf3e759dea12cc5fbe1376213bd3585c", null ],
+    [ "GetAI", "d5/d04/a27462.html#a36d94c5ab6c910cd3853e579d6a5ab5a", null ],
+    [ "OnGossipHello", "d5/d04/a27462.html#ae1a0cd1fbee6bee0a54a1a666c8367dd", null ],
+    [ "OnGossipSelect", "d5/d04/a27462.html#ae2b1a653be3767881769b54607219757", null ]
 ];

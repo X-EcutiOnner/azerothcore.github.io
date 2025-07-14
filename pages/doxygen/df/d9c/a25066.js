@@ -1,7 +1,10 @@
 var a25066 =
 [
-    [ "CheckIfLanceEquipped", "df/d9c/a25066.html#aae1fe4d0329b7a2db5e4f2a28e3f04c5", null ],
-    [ "PrepareSpellScript", "df/d9c/a25066.html#a2af9ee2ccd34c97734c58bfcbb83c8b5", null ],
-    [ "Register", "df/d9c/a25066.html#a4421ceaedce16777f8f04b9c40855782", null ],
-    [ "Validate", "df/d9c/a25066.html#ab0908d7a15e7554c735d8e5554f7cd65", null ]
+    [ "Load", "df/d9c/a25066.html#a6ae104e97dc9c0aa50e115fe1f17e161", null ],
+    [ "OnPeriodic", "df/d9c/a25066.html#ab1dc8acb8072f70625375480742fee5e", null ],
+    [ "PrepareAuraScript", "df/d9c/a25066.html#a2e81d03893b23aa8dc9c615683206f75", null ],
+    [ "Register", "df/d9c/a25066.html#ac2f2c8359487ad8c619e9faf8535b927", null ],
+    [ "Validate", "df/d9c/a25066.html#a0c88acf48d0ea7dd7ac3ac85aa3a126d", null ],
+    [ "_applyTimes", "df/d9c/a25066.html#a1bf9f3a1eb52bb64df59b381c412552f", null ],
+    [ "stackAmount", "df/d9c/a25066.html#ac8d762bdb40366c93602497e9aaa42eb", null ]
 ];

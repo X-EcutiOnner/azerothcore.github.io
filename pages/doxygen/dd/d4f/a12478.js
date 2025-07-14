@@ -1,6 +1,6 @@
 var a12478 =
 [
-    [ "boss_mr_smiteAI", "d5/d81/a12482.html", "d5/d81/a12482" ],
-    [ "boss_mr_smite", "dd/d4f/a12478.html#a011d41112ef7376b71d2959f806be262", null ],
-    [ "GetAI", "dd/d4f/a12478.html#a619ca0aede1eb33f992328048319c4f0", null ]
+    [ "boss_shazzrahAI", "dd/d4f/a12478.html#a984b3d32d5f231a019f2c0f1bb027907", null ],
+    [ "ExecuteEvent", "dd/d4f/a12478.html#a0f6e3e6876b9b769ea53db5c9028c6ff", null ],
+    [ "JustEngagedWith", "dd/d4f/a12478.html#aaa8111d42cacd58f767513026976668c", null ]
 ];

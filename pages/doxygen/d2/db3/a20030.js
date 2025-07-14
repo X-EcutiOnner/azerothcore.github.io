@@ -1,8 +1,6 @@
 var a20030 =
 [
-    [ "OnApply", "d2/db3/a20030.html#a101aab87e9f45ebab1cbe77ecca65c5a", null ],
-    [ "OnRemove", "d2/db3/a20030.html#a4709f570f9014eb36bc8c65269470373", null ],
-    [ "PrepareAuraScript", "d2/db3/a20030.html#a6ac96ce73f9983915a05686eb5d411e7", null ],
-    [ "Register", "d2/db3/a20030.html#a7b4f44d86df652df78a10466bf64a2cf", null ],
-    [ "Validate", "d2/db3/a20030.html#a3b98409fa1ed8d4e53e526686bc25987", null ]
+    [ "boss_freyaAI", "d6/d47/a20034.html", "d6/d47/a20034" ],
+    [ "boss_freya", "d2/db3/a20030.html#ae366f60526e7c948dee148cdd12f0752", null ],
+    [ "GetAI", "d2/db3/a20030.html#a6a2f5b402e99208a535fc3f23c2a0eb3", null ]
 ];

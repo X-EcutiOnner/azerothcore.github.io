@@ -1,6 +1,6 @@
 var a15034 =
 [
-    [ "FilterTargets", "d9/dc6/a15034.html#a15ebe9125f5f4a8f66241ee4da1ac83e", null ],
-    [ "PrepareSpellScript", "d9/dc6/a15034.html#a32b0be74a9127f920e22aa03c910a005", null ],
-    [ "Register", "d9/dc6/a15034.html#a80efa2858d4270c497e49a1fe6a7472e", null ]
+    [ "instance_ruins_of_ahnqiraj_InstanceMapScript", "d6/dec/a15038.html", "d6/dec/a15038" ],
+    [ "instance_ruins_of_ahnqiraj", "d9/dc6/a15034.html#adeacb1c68e4b12995a335d1bedde075a", null ],
+    [ "GetInstanceScript", "d9/dc6/a15034.html#a6a661e961c2599498de0ccd41c0763b4", null ]
 ];

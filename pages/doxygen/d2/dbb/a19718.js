@@ -1,6 +1,8 @@
 var a19718 =
 [
-    [ "npc_auriaya_sanctum_sentryAI", "d5/d8d/a19722.html", "d5/d8d/a19722" ],
-    [ "npc_auriaya_sanctum_sentry", "d2/dbb/a19718.html#aa275374ba3a19a2e6a8768d4f01752b2", null ],
-    [ "GetAI", "d2/dbb/a19718.html#a6a8843d3f24378a2fd334e773618ab72", null ]
+    [ "HandlePeriodic", "d2/dbb/a19718.html#a2724a85983561a14db8b06ae492ead55", null ],
+    [ "OnRemove", "d2/dbb/a19718.html#a6d0f941f30d8c850e48396fffd13768d", null ],
+    [ "PrepareAuraScript", "d2/dbb/a19718.html#aea9d38dc7fdff6d38d252bb5ded57d78", null ],
+    [ "Register", "d2/dbb/a19718.html#a85270947972be9c299a642b31969ef68", null ],
+    [ "Validate", "d2/dbb/a19718.html#a91ebb4e69d02deb5129965f543c474d1", null ]
 ];

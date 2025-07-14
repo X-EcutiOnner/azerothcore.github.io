@@ -1,8 +1,9 @@
 var a08662 =
 [
-    [ "DiminishingReturn", "d1/d29/a08662.html#acd4828637710636d0164fced285c854d", null ],
-    [ "DRGroup", "d1/d29/a08662.html#add3ab95d65e283a326e1922129941ae4", null ],
-    [ "hitCount", "d1/d29/a08662.html#a94b1fdc8e8d51b1c6f5e723e697ed323", null ],
-    [ "hitTime", "d1/d29/a08662.html#ae3f5eecc2bc88fe236fe4c7c297b68c5", null ],
-    [ "stack", "d1/d29/a08662.html#aeb40601df7e6507c7fd83e3152541ba5", null ]
+    [ "GlobalCooldownMgr", "d1/d29/a08662.html#a116f4af13a4e10dc5eb3c3c6a17ad863", null ],
+    [ "AddGlobalCooldown", "d1/d29/a08662.html#acc0291e56fe4d3594d079e357f6ea3ed", null ],
+    [ "CancelGlobalCooldown", "d1/d29/a08662.html#aed6b479416104dc536116fdb1e24fcf3", null ],
+    [ "GetGlobalCooldown", "d1/d29/a08662.html#ae44caed35e93f834ff68394c1ab6434b", null ],
+    [ "HasGlobalCooldown", "d1/d29/a08662.html#a7487d19ae8c59e5c5e871b2e1afabfba", null ],
+    [ "m_GlobalCooldowns", "d1/d29/a08662.html#a80d03691d36758733f326b65992f266e", null ]
 ];

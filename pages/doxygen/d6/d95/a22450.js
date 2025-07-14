@@ -1,5 +1,6 @@
 var a22450 =
 [
-    [ "OutdoorPvP_silithus", "d6/d95/a22450.html#a8b53dd86c265d277ad1cb49bd6a795bc", null ],
-    [ "GetOutdoorPvP", "d6/d95/a22450.html#a126d6acc77218addd10072199ccd2470", null ]
+    [ "npc_released_offspring_harkoaAI", "da/d58/a22454.html", "da/d58/a22454" ],
+    [ "npc_released_offspring_harkoa", "d6/d95/a22450.html#a10f583320e3b617cf2b327cfb6fed6f5", null ],
+    [ "GetAI", "d6/d95/a22450.html#ae3d2a02c496be1b2606fce596625d12e", null ]
 ];

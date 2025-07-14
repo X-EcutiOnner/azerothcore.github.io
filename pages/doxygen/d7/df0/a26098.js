@@ -1,7 +1,6 @@
 var a26098 =
 [
-    [ "HandleScriptEffect", "d7/df0/a26098.html#ad3497a9c986f65978d4b2553b0c9958f", null ],
-    [ "Load", "d7/df0/a26098.html#a33d46e5ebd418ea0242d958345cb44d2", null ],
-    [ "PrepareSpellScript", "d7/df0/a26098.html#ade09cd376d00df8b5e709026e353f409", null ],
-    [ "Register", "d7/df0/a26098.html#ad04bf0d88a3e1fde3c11b91d5ef1c7ae", null ]
+    [ "FilterTargets", "d7/df0/a26098.html#a9ee58cd4e7a0fa59bfb6ef1270d51f21", null ],
+    [ "PrepareSpellScript", "d7/df0/a26098.html#a5992d94317d3da7400d5a9ab115e621e", null ],
+    [ "Register", "d7/df0/a26098.html#a125ce6c8dfdc6419b4409c72f74fcf85", null ]
 ];

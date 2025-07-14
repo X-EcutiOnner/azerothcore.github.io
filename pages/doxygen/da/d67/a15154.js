@@ -1,6 +1,7 @@
 var a15154 =
 [
-    [ "HandleDummy", "da/d67/a15154.html#a09b21b3e5357c49d85ef01d9a5d4694f", null ],
-    [ "PrepareSpellScript", "da/d67/a15154.html#ac221d3d128265d78acc72d41ebf0fd8a", null ],
-    [ "Register", "da/d67/a15154.html#a67be525bc07ef7091d9b8148c1a01fb9", null ]
+    [ "npc_sartura_royal_guard", "da/d67/a15154.html#a3ce2aeec4e5f26916ef50bdeea624c9d", null ],
+    [ "JustEngagedWith", "da/d67/a15154.html#a0b162e1fcc925f65fedbfe235b59eb0e", null ],
+    [ "Reset", "da/d67/a15154.html#a2b604aada12ca7f3e712cdbd1a3f397a", null ],
+    [ "UpdateAI", "da/d67/a15154.html#a2ed50f65847133c897facecbaa4711d8", null ]
 ];

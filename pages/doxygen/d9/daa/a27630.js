@@ -1,20 +1,6 @@
 var a27630 =
 [
-    [ "iterator", "d9/daa/a27630.html#acbe3d8adad76c063eeff0472b14e9c2d", null ],
-    [ "DBCStorage", "d9/daa/a27630.html#a1aac83146adf1d72b98f641acf133353", null ],
-    [ "~DBCStorage", "d9/daa/a27630.html#a52478c32db2c7d0bfddfc5c3f614b2c2", null ],
-    [ "DBCStorage", "d9/daa/a27630.html#af1212e7eac4a35aed1cc30d1885093d0", null ],
-    [ "AssertEntry", "d9/daa/a27630.html#a2193a31f1a96f04c113191e0e200af57", null ],
-    [ "begin", "d9/daa/a27630.html#a43338cbd450480a91ed25228611dfe89", null ],
-    [ "end", "d9/daa/a27630.html#a00d89ccb706cdf73c3cd3840333504cc", null ],
-    [ "GetNumRows", "d9/daa/a27630.html#ab7d5f0bdff10c1473c68ad5ccb71e8f1", null ],
-    [ "Load", "d9/daa/a27630.html#aad72c211d47bfeb5b82636c131507083", null ],
-    [ "LoadFromDB", "d9/daa/a27630.html#a3900db604c7fa373d55c161006f8752a", null ],
-    [ "LoadStringsFrom", "d9/daa/a27630.html#a26fd44b61cf6352b99122abb23768a97", null ],
-    [ "LookupEntry", "d9/daa/a27630.html#a6cb9477a0d94271c073f5850ad23ae07", null ],
-    [ "operator=", "d9/daa/a27630.html#ace37b566e9013928a845c981437158ae", null ],
-    [ "SetEntry", "d9/daa/a27630.html#a2e738aadf73e51ee4787a45d8b4908d3", null ],
-    [ "_indexTable", "d9/daa/a27630.html#a26882ab09ad59a8d6db222068f55c6c5", null ],
-    [ "AsChar", "d9/daa/a27630.html#a7ef1de4ced6822e264b73cbe72dcfc7c", null ],
-    [ "AsT", "d9/daa/a27630.html#a2002a0adee55fa79ec5a0cceab48b607", null ]
+    [ "npc_spring_rabbitAI", "df/db9/a27634.html", "df/db9/a27634" ],
+    [ "npc_spring_rabbit", "d9/daa/a27630.html#a4e2ed1f556edd535a8d262d7e0bdfa1a", null ],
+    [ "GetAI", "d9/daa/a27630.html#a968933658fbcc7f7cbdfca90fd9a68dc", null ]
 ];

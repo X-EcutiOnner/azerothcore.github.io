@@ -1,6 +1,6 @@
 var a17550 =
 [
-    [ "PrepareSpellScript", "dd/d0a/a17550.html#a4878ffa30feb16e98d3945f8a6e3c863", null ],
-    [ "Register", "dd/d0a/a17550.html#a651f52f7d242251ff69d100fd69376e4", null ],
-    [ "SelectTarget", "dd/d0a/a17550.html#aede083ebebe38deb5898ff028564ef95", null ]
+    [ "npc_muradin_bronzebeard_igbAI", "d2/d4b/a17554.html", "d2/d4b/a17554" ],
+    [ "npc_muradin_bronzebeard_igb", "dd/d0a/a17550.html#a1e6abc18a192b3acfa29bf03dd4eeed9", null ],
+    [ "GetAI", "dd/d0a/a17550.html#af9b149e0780308f26d5adb1e6607a3ce", null ]
 ];

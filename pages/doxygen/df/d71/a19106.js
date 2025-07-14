@@ -1,7 +1,7 @@
 var a19106 =
 [
-    [ "npc_naxxramas_trigger", "df/d71/a19106.html#a62fd64468daf378fbe2e8f18b1f002f8", null ],
-    [ "Reset", "df/d71/a19106.html#a5bf85ab6027ca5101df32cda6df29b28", null ],
-    [ "UpdateAI", "df/d71/a19106.html#acd051dd7790aa37cd2375479433509cb", null ],
-    [ "_events", "df/d71/a19106.html#a1ab25fd0b40f373d30b0f60462dd276b", null ]
+    [ "OnPeriodic", "df/d71/a19106.html#ae685e9d36b85af8a7e33cefbd439a2f4", null ],
+    [ "PrepareAuraScript", "df/d71/a19106.html#a1362103840db4b3c40ef7d6b0aa5226c", null ],
+    [ "Register", "df/d71/a19106.html#a39b03ebd7f6233f373f52e34f18dad10", null ],
+    [ "Validate", "df/d71/a19106.html#a54cfed486827216817adb740efa6646e", null ]
 ];

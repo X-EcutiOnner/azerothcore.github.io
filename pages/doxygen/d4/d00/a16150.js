@@ -1,6 +1,7 @@
 var a16150 =
 [
-    [ "boss_black_knightAI", "d8/df3/a16154.html", "d8/df3/a16154" ],
-    [ "boss_black_knight", "d4/d00/a16150.html#af55a307f282a68bc83e45c6de647ebf4", null ],
-    [ "GetAI", "d4/d00/a16150.html#a3f7ac72f69cebdab0a13c61c0b9b2ed2", null ]
+    [ "TwilightCutterSelector", "d4/d00/a16150.html#accea6e932c44d083fbb4dc41c5102b3d", null ],
+    [ "operator()", "d4/d00/a16150.html#a6374425df156bdf202d53a2c73ef784c", null ],
+    [ "_caster", "d4/d00/a16150.html#a784c95ef6472e711f4200f194222d179", null ],
+    [ "_cutterCaster", "d4/d00/a16150.html#a7f713777a36a8d127c2865e4610b1288", null ]
 ];

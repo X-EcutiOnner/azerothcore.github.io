@@ -1,6 +1,6 @@
 var a09006 =
 [
-    [ "m_guid", "da/df3/a09006.html#afa8383c81a2d75f9ead2e8f3daa29086", null ],
-    [ "m_instance", "da/df3/a09006.html#a8bc0c5e1cf45073f054c5154c21b3d72", null ],
-    [ "m_state", "da/df3/a09006.html#a3ac18fb8f5d386e3245a2435e31e45e1", null ]
+    [ "EmoteDelay", "da/df3/a09006.html#a053adbedc95026b192360e13d32c9401", null ],
+    [ "EmoteType", "da/df3/a09006.html#aa5189cb250b3f46086ecd69dee23414b", null ],
+    [ "Greeting", "da/df3/a09006.html#a84aa5fced9b8989487d1468c4eccb976", null ]
 ];

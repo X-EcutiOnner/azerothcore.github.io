@@ -1,6 +1,6 @@
 var a21898 =
 [
-    [ "npc_attracted_reef_bullAI", "df/dc1/a21898.html#aa8917a912fb31a5987332e53e8d268e7", null ],
-    [ "MovementInform", "df/dc1/a21898.html#a79d9539243f178a2989f017c5f9ebc8c", null ],
-    [ "SpellHit", "df/dc1/a21898.html#ab06ee7ef84d881262ae682b69fae3135", null ]
+    [ "npc_mrfloppyAI", "db/d5c/a21902.html", "db/d5c/a21902" ],
+    [ "npc_mrfloppy", "df/dc1/a21898.html#a0515ca75aba9b7f6f5577b53e7520f6e", null ],
+    [ "GetAI", "df/dc1/a21898.html#a88590566309f3fc155eb6dc26055a161", null ]
 ];

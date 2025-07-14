@@ -1,8 +1,7 @@
 var a24990 =
 [
-    [ "AchievementCredit", "d7/d8d/a24990.html#ab0ec836feb53875de355330e05367fe8", null ],
-    [ "Load", "d7/d8d/a24990.html#ae48c67f363e399f076122cb6eee10ffb", null ],
-    [ "PrepareSpellScript", "d7/d8d/a24990.html#af0bb22c618af5dca7f534bea32e7ee7f", null ],
-    [ "Register", "d7/d8d/a24990.html#a793921687c96a39f7dd872b9721096ca", null ],
-    [ "Validate", "d7/d8d/a24990.html#a5be222c322714ec62f8beaf69faab257", null ]
+    [ "HandleScript", "d7/d8d/a24990.html#af386e49e9020328f123c4da7d82d4b0c", null ],
+    [ "PrepareSpellScript", "d7/d8d/a24990.html#a5e4618514d33bbc18fcc26c83279e430", null ],
+    [ "Register", "d7/d8d/a24990.html#a3560275f387f7b0de34f9d1c255241fe", null ],
+    [ "Validate", "d7/d8d/a24990.html#a108e58cb90719b572f3578f0d44d0627", null ]
 ];

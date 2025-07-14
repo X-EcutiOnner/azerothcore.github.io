@@ -1,7 +1,6 @@
 var a26598 =
 [
-    [ "HandleDummy", "d8/def/a26598.html#a00d36b914f5fd0466ae775e1fc95aa4f", null ],
-    [ "PrepareSpellScript", "d8/def/a26598.html#a86a5c2b8ff373af7e98645b8b380145c", null ],
-    [ "Register", "d8/def/a26598.html#a1b879ab84b8d6227ee5b2cccccd38bc2", null ],
-    [ "Validate", "d8/def/a26598.html#aa7d437146a96bb40c1a66a453e3e4339", null ]
+    [ "CheckCast", "d8/def/a26598.html#a97f479cccecc6f37c75b47122b47e333", null ],
+    [ "PrepareSpellScript", "d8/def/a26598.html#a7033ad7dbdab5eec532ea6f860f97427", null ],
+    [ "Register", "d8/def/a26598.html#a4c8f84e1a2cc89064ec5963321fecce7", null ]
 ];

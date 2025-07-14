@@ -1,7 +1,10 @@
 var a17966 =
 [
-    [ "PeriodicTick", "d3/d52/a17966.html#a79b63e30f37df8a961b57c4b10669800", null ],
-    [ "PrepareAuraScript", "d3/d52/a17966.html#a091a72cf97d5fbd6ffbf95ad3e409aa6", null ],
-    [ "Register", "d3/d52/a17966.html#a860e2bc444f5aeb78837cd1a6eff40a3", null ],
-    [ "Validate", "d3/d52/a17966.html#a32cbe3a7eedf7b37229168a6154167b0", null ]
+    [ "FilterTargets", "d3/d52/a17966.html#aefba5226671b6217549bd34059519179", null ],
+    [ "Load", "d3/d52/a17966.html#af8a2b651782783dc29ac7266ed02c028", null ],
+    [ "NotifyTargets", "d3/d52/a17966.html#a618e98fbd5c6ae21047cc4f911099730", null ],
+    [ "PrepareSpellScript", "d3/d52/a17966.html#a0cd63fa27a1ee853c5d73c766d1c4de6", null ],
+    [ "Register", "d3/d52/a17966.html#ae72a470c87f7d90e4bd635e239d09f9b", null ],
+    [ "ReplaceTargets", "d3/d52/a17966.html#a5d3df9715d04ea4b663b061c7c02ae03", null ],
+    [ "_target", "d3/d52/a17966.html#a10c85fd3909e56f457d73add8021c0b7", null ]
 ];

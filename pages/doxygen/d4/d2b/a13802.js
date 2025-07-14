@@ -1,15 +1,14 @@
 var a13802 =
 [
-    [ "npc_amanishi_tempest", "d4/d2b/a13802.html#a8e15b39501998e9f8c45baef0963d160", null ],
-    [ "DoAction", "d4/d2b/a13802.html#a50963cc0aac2560f6ddbf81000943ac3", null ],
-    [ "EnterEvadeMode", "d4/d2b/a13802.html#a66c787bd318fdcad83b7b5008b4979f9", null ],
-    [ "JustDied", "d4/d2b/a13802.html#aadda903d17a5f4560ce2db896bd7b257", null ],
-    [ "JustEngagedWith", "d4/d2b/a13802.html#af277f5d1f73cf79ea8cfcb1e4fc744e3", null ],
-    [ "JustSummoned", "d4/d2b/a13802.html#aac72fdc33051370c3cffa388f466b6be", null ],
-    [ "Reset", "d4/d2b/a13802.html#aa921f85142f9103bea839bdc0330e1cc", null ],
-    [ "ScheduleEvents", "d4/d2b/a13802.html#a09ba0ce51ad981578adcc1950c89d5ae", null ],
-    [ "SummonedCreatureEvade", "d4/d2b/a13802.html#a61eebb122c9288c826cdf352c17e0590", null ],
-    [ "UpdateAI", "d4/d2b/a13802.html#ad8f6b32c3f08eb2a4ac36a8d91434a4d", null ],
-    [ "_instance", "d4/d2b/a13802.html#ab88e1d1ad979192f0519045d8ed2e14f", null ],
-    [ "_summons", "d4/d2b/a13802.html#a4337b2bc417d8dafc4a6d5d10bbd0db9", null ]
+    [ "boss_hexlord_malacrass", "d4/d2b/a13802.html#aaf3fdf0b34904d1c5798ebcc291cdcde", null ],
+    [ "JustEngagedWith", "d4/d2b/a13802.html#ac5af0a5ec11ab8529e74a1ea7f0b4b66", null ],
+    [ "KilledUnit", "d4/d2b/a13802.html#a69e7a3aa2cb068706651bad34363099f", null ],
+    [ "Reset", "d4/d2b/a13802.html#af00159c9e2c54033f52f46d60881f22e", null ],
+    [ "ScheduleClassAbility", "d4/d2b/a13802.html#aefffbab821a4abb4ab0e6779ba73d5ac", null ],
+    [ "SpawnAdds", "d4/d2b/a13802.html#a8ffb01ebe267b4eb935e373bd0d99eed", null ],
+    [ "UseAbility", "d4/d2b/a13802.html#afdad8cc36235f11dc5c4b4f579f5b46b", null ],
+    [ "_classAbilityTimer", "d4/d2b/a13802.html#a40ccd2e586895ab1cde3c51bcd56c11b", null ],
+    [ "_creatureIndex", "d4/d2b/a13802.html#ac13b0f08fec4270ed372f00ae540fdc3", null ],
+    [ "_currentClass", "d4/d2b/a13802.html#ab7e531fccbb486b7b429d77d804841c2", null ],
+    [ "_timeUntilNextDrainPower", "d4/d2b/a13802.html#aa6963eb30a6e8555d4695bf284b13cac", null ]
 ];

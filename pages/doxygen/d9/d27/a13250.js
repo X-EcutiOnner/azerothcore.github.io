@@ -1,6 +1,7 @@
 var a13250 =
 [
-    [ "CastArmageddon", "d9/d27/a13250.html#a2e90929b63e6151252aa01a55dbd801f", null ],
-    [ "Execute", "d9/d27/a13250.html#a4f0651a38eaf03a07bcd73d0f88dda16", null ],
-    [ "_caster", "d9/d27/a13250.html#a1e70887099a7a47b7c26517d4363ad93", null ]
+    [ "HandleScript", "d9/d27/a13250.html#aae2f572a523431f6764f08e4719adbcf", null ],
+    [ "PrepareSpellScript", "d9/d27/a13250.html#a20fdb423d5db4f1fa629a0f0480e2a9f", null ],
+    [ "Register", "d9/d27/a13250.html#ae3b002197564318cc92242bd925d35af", null ],
+    [ "Validate", "d9/d27/a13250.html#a98d9d84fd26d110efbbbaba9a19ef423", null ]
 ];

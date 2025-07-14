@@ -1,5 +1,6 @@
 var a17746 =
 [
-    [ "npc_volatile_oozeAI", "d7/df3/a17746.html#af042d4c22482aabcdad6fa867dfe093f", null ],
-    [ "CastMainSpell", "d7/df3/a17746.html#a91890785174ecc60c9553a0aedf1961b", null ]
+    [ "npc_vengeful_shadeAI", "dd/d8f/a17750.html", "dd/d8f/a17750" ],
+    [ "npc_vengeful_shade", "d7/df3/a17746.html#a99c535efd94fbd5bded8fd9555bb6eaf", null ],
+    [ "GetAI", "d7/df3/a17746.html#afa2c672015b43d83bd55050ed020f7e5", null ]
 ];

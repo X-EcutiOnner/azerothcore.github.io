@@ -1,8 +1,6 @@
 var a14858 =
 [
-    [ "HandleScript", "d7/d05/a14858.html#ac58aef1b295e32c8a44852278edc18f8", null ],
-    [ "Load", "d7/d05/a14858.html#a2f7b9372dd36444c5161f3bc50424d99", null ],
-    [ "PrepareSpellScript", "d7/d05/a14858.html#adc1301a318f86b4e147a191f4c63e3bf", null ],
-    [ "Register", "d7/d05/a14858.html#a95f4abd67d6baf75980ff28a7518503d", null ],
-    [ "Validate", "d7/d05/a14858.html#a98271e7adb17b11e39241154a83b0d0d", null ]
+    [ "instance_dire_maul_InstanceMapScript", "d0/d77/a14862.html", "d0/d77/a14862" ],
+    [ "instance_dire_maul", "d7/d05/a14858.html#a54ac2c7095a99481c7efbe4237533fac", null ],
+    [ "GetInstanceScript", "d7/d05/a14858.html#a7fc2511e0c9475512286006f0bbaed0b", null ]
 ];

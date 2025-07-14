@@ -1,7 +1,6 @@
 var a22902 =
 [
-    [ "CalculateAmount", "d5/dae/a22902.html#af0db71393c0b4a7bd5f4e11bd0212d06", null ],
-    [ "PrepareAuraScript", "d5/dae/a22902.html#a5af876b76d9239808ac72c5b6177cdcb", null ],
-    [ "Register", "d5/dae/a22902.html#a6d0d47536e6ef74a88c97019843d478c", null ],
-    [ "Update", "d5/dae/a22902.html#afd2ed6f36d1596a2de753f04c5563c5f", null ]
+    [ "boss_essence_of_desireAI", "d5/def/a22906.html", "d5/def/a22906" ],
+    [ "boss_essence_of_desire", "d5/dae/a22902.html#a5006ce57dd19c2a80e961dedca8c503d", null ],
+    [ "GetAI", "d5/dae/a22902.html#a14b66470c508fa24e214062aeec0aae6", null ]
 ];

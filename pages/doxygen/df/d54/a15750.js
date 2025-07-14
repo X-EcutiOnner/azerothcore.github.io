@@ -1,6 +1,6 @@
 var a15750 =
 [
-    [ "PrepareSpellScript", "df/d54/a15750.html#a74a2601e2c160bb4a9b18d421775e6b3", null ],
-    [ "Register", "df/d54/a15750.html#a17a07973a3c043683fc4fe0d1fc45156", null ],
-    [ "SetDest", "df/d54/a15750.html#a3751a14d6e36140ee368d8ded6df03ee", null ]
+    [ "npc_sergeant_blyAI", "d2/d8f/a15754.html", "d2/d8f/a15754" ],
+    [ "npc_sergeant_bly", "df/d54/a15750.html#afd5c6129098e4939e2b9f3d12b8c7058", null ],
+    [ "GetAI", "df/d54/a15750.html#ad54ff5aabbc30de759c8f31b7ef9f46e", null ]
 ];

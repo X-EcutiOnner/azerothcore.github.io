@@ -1,6 +1,5 @@
 var a15062 =
 [
-    [ "FilterTargets", "da/d8d/a15062.html#a1ceb8f97a19b7c0434c430b388d0f76b", null ],
-    [ "PrepareSpellScript", "da/d8d/a15062.html#a4a376e2a30c79ee2819c695e72535c0a", null ],
-    [ "Register", "da/d8d/a15062.html#aaf7b4fba94d94331f6b35add2b836061", null ]
+    [ "boss_vem", "da/d8d/a15062.html#a8e303ece8ba209c6dea0ed6c888077d3", null ],
+    [ "JustEngagedWith", "da/d8d/a15062.html#ae4b7fa599d31155bdee566b31c60b237", null ]
 ];

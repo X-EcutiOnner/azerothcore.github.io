@@ -1,6 +1,6 @@
 var a15934 =
 [
-    [ "npc_xerestraszaAI", "d0/d29/a15938.html", "d0/d29/a15938" ],
-    [ "npc_xerestrasza", "dc/d0b/a15934.html#a49023756b5dab130e4ffd7e62fa80ce4", null ],
-    [ "GetAI", "dc/d0b/a15934.html#a5e0ede0054969d4787db56781dc55846", null ]
+    [ "HandleScriptEffect", "dc/d0b/a15934.html#aaa650972803d14e4d74be977430b04f6", null ],
+    [ "PrepareSpellScript", "dc/d0b/a15934.html#a1e166c53e2051f3fae1b085a76a08c3f", null ],
+    [ "Register", "dc/d0b/a15934.html#a3405c1b04f2e623662c7acaa6810278c", null ]
 ];

@@ -1,9 +1,9 @@
 var a28574 =
 [
-    [ "adtData", "df/dfe/a28582.html", "df/dfe/a28582" ],
-    [ "prepareLoadedData", "d8/d3d/a28574.html#a6b755c9e341918d05105d993391429c6", null ],
-    [ "adt_list", "d8/d3d/a28574.html#abe28c39e8856412c4fb182baab3218f0", null ],
-    [ "fcc", "d8/d3d/a28574.html#ac8ee92a1747e31385cbfadaea16c267f", null ],
-    [ "fcc_txt", "d8/d3d/a28574.html#a0657c323732de8d83b9c360c1dd03b61", null ],
-    [ "size", "d8/d3d/a28574.html#a797c02773dd470a318474c7ef033ba7c", null ]
+    [ "SetUp", "d8/d3d/a28574.html#abb28ef64461635a540dad471b7b12ebc", null ],
+    [ "TearDown", "d8/d3d/a28574.html#ace0b9a0c578a6b8ec1d33ad584aaf911", null ],
+    [ "arenaTeams", "d8/d3d/a28574.html#ab40dacafdb3c5de73cf66426d014a4fe", null ],
+    [ "team1", "d8/d3d/a28574.html#a325d8058950e53d17e16fd90cd105776", null ],
+    [ "team2", "d8/d3d/a28574.html#ac6336ffa31e59a5d3acc227c674e9ea8", null ],
+    [ "team3", "d8/d3d/a28574.html#af3c2e86874e53ae812debbe1abfbcf05", null ]
 ];

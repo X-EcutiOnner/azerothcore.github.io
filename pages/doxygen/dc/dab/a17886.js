@@ -1,7 +1,7 @@
 var a17886 =
 [
-    [ "HandleCast", "dc/dab/a17886.html#aaa3262bc782e342825d4caba2954e95d", null ],
-    [ "PrepareSpellScript", "dc/dab/a17886.html#ae4d1f05b978e2a46d7dc3410def73978", null ],
-    [ "Register", "dc/dab/a17886.html#ac59fb77c6a52d7a603dbb27e933a6814", null ],
-    [ "Validate", "dc/dab/a17886.html#a6ca80316fe7bcbb4ebda095d633bb1bc", null ]
+    [ "HandleDummy", "dc/dab/a17886.html#aa61db53d7395fd45b8569e12978fed0b", null ],
+    [ "PrepareSpellScript", "dc/dab/a17886.html#ab63054debe6763027ab52ad122277719", null ],
+    [ "Register", "dc/dab/a17886.html#a6dee5fc9fafd7faa3eadbf9431568dcc", null ],
+    [ "Validate", "dc/dab/a17886.html#adb7e30d10c2071de5d5070b64a10af30", null ]
 ];

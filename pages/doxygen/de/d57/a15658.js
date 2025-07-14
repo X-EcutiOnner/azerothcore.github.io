@@ -1,6 +1,7 @@
 var a15658 =
 [
-    [ "go_troll_cageAI", "d1/dce/a15662.html", "d1/dce/a15662" ],
-    [ "go_troll_cage", "de/d57/a15658.html#ac571df719edabd9e9ecf5c8bb0e153c2", null ],
-    [ "GetAI", "de/d57/a15658.html#a807f526225dc9a6b27ac64a7f4a3d9b8", null ]
+    [ "npc_lakota_windsongAI", "de/d57/a15658.html#a922172a38ca75adef66a2653eda7fa98", null ],
+    [ "DoSpawnBandits", "de/d57/a15658.html#aa63601ac87b674cb5d0594213d1e7ea9", null ],
+    [ "Reset", "de/d57/a15658.html#aee7a86275f93021e0e5db249b636bcd4", null ],
+    [ "WaypointReached", "de/d57/a15658.html#a6435c8b1521206789131889e5fa527a6", null ]
 ];

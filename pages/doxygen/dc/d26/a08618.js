@@ -1,13 +1,8 @@
 var a08618 =
 [
-    [ "PassengerSet", "dc/d26/a08618.html#aa6421ebd51e84c819604e18e93729d27", null ],
-    [ "Transport", "dc/d26/a08618.html#a36928c178aa490c02aa25b4b12e2bf63", null ],
-    [ "AddPassenger", "dc/d26/a08618.html#ac5c328f816b0358a68265322219357c1", null ],
-    [ "CalculatePassengerOffset", "dc/d26/a08618.html#a327d37eef797c4197b8bba503bd8a3f8", null ],
-    [ "CalculatePassengerPosition", "dc/d26/a08618.html#ae4e716194ce5e9c466a8fe5c53ee0980", null ],
-    [ "GetPassengers", "dc/d26/a08618.html#a3f70c977ba2450d4244e54e4260f6ea1", null ],
-    [ "GetPathProgress", "dc/d26/a08618.html#a4ecab9f8617918aea3a26cc0feb9c021", null ],
-    [ "RemovePassenger", "dc/d26/a08618.html#a1d70745a16a1cbf3307a25ff4a53c75d", null ],
-    [ "SetPathProgress", "dc/d26/a08618.html#acb68e75a78fa196a4b514abd24c0e322", null ],
-    [ "_passengers", "dc/d26/a08618.html#adc2089495aadaab23414ecae3b2df180", null ]
+    [ "AddFlag", "dc/d26/a08618.html#a1e81343732cd86cdf9974a1d96b73ba7", null ],
+    [ "HasFlag", "dc/d26/a08618.html#aba5227bee5d5e928e0fa171730f57385", null ],
+    [ "IsEnabled", "dc/d26/a08618.html#a115b220747f7b2d687ec81716dbad69f", null ],
+    [ "RemoveFlag", "dc/d26/a08618.html#a4ca3645233a466345d6be217d7a0df2b", null ],
+    [ "value", "dc/d26/a08618.html#a74592e45f8ae4c5f411a982227f809f3", null ]
 ];

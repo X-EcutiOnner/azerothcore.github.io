@@ -1,7 +1,6 @@
 var a13602 =
 [
-    [ "o", "d6/d95/a13602.html#a455ab33d372dd2aeac9d591f3cce1013", null ],
-    [ "x", "d6/d95/a13602.html#a49ad07d6ecb902ae4818923a6414f3c1", null ],
-    [ "y", "d6/d95/a13602.html#a45ec9c234e9d909eb8fcc0db6e0d641e", null ],
-    [ "z", "d6/d95/a13602.html#abf42d988d416ebe409100c4b860d26db", null ]
+    [ "npc_greengill_slaveAI", "dc/de5/a13606.html", "dc/de5/a13606" ],
+    [ "npc_greengill_slave", "d6/d95/a13602.html#a46fb36fadb5ed5fc94a563473edd8732", null ],
+    [ "GetAI", "d6/d95/a13602.html#ab2cb9adfeef75384becfbb3c5188b8d7", null ]
 ];

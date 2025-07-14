@@ -1,6 +1,6 @@
 var a19290 =
 [
-    [ "boss_varosAI", "d9/d1c/a19294.html", "d9/d1c/a19294" ],
-    [ "boss_varos", "dd/da3/a19290.html#a4fdb9de9ee7a3a50ac0972fd6eb8d39c", null ],
-    [ "GetAI", "dd/da3/a19290.html#a36733c4eb6179e43d61a1c37480666ea", null ]
+    [ "instance_eye_of_eternity_InstanceMapScript", "d9/d1c/a19294.html", "d9/d1c/a19294" ],
+    [ "instance_eye_of_eternity", "dd/da3/a19290.html#afcab4ba969d0423871a4e398627a323d", null ],
+    [ "GetInstanceScript", "dd/da3/a19290.html#af51319609d355fe87a77a87eb697f434", null ]
 ];

@@ -1,5 +1,7 @@
 var a08318 =
 [
-    [ "InventoryType", "d0/dc4/a08318.html#a5d2733f6b8e3fda906f18fb45330d437", null ],
-    [ "name", "d0/dc4/a08318.html#a67245cff18aad700717b7b7af9f07458", null ]
+    [ "EnchStoreItem", "d0/dc4/a08318.html#a89019e156774c5b978251479264e5463", null ],
+    [ "EnchStoreItem", "d0/dc4/a08318.html#aca83bb20eb6153faeaf599b07b97e357", null ],
+    [ "chance", "d0/dc4/a08318.html#a2d3d0cd28c79402b3625694d4676ed8b", null ],
+    [ "ench", "d0/dc4/a08318.html#ac2346b6c6c5c09bb63676d72c798d848", null ]
 ];

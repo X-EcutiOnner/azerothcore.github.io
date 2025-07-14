@@ -1,6 +1,7 @@
 var a13842 =
 [
-    [ "boss_gahzranka", "d3/db7/a13842.html#a82cc1a44a967f859039957e41f38dd77", null ],
-    [ "IsSummonedBy", "d3/db7/a13842.html#ad68be854f95c398dc5dd9e5b22f538a8", null ],
-    [ "JustEngagedWith", "d3/db7/a13842.html#ac1cc43194c00fda1729f8a068d4e8779", null ]
+    [ "npc_zuljin_vortex", "d3/db7/a13842.html#af3af996adc0a0dba4af992234f8356fb", null ],
+    [ "ChangeToNewPlayer", "d3/db7/a13842.html#ab353794ef978151999fdd2294783e757", null ],
+    [ "Reset", "d3/db7/a13842.html#a1331e714c5cafdc32033e73b6f3169aa", null ],
+    [ "UpdateAI", "d3/db7/a13842.html#a1ae6a08fe247e7bc812ed4f5ffebc519", null ]
 ];

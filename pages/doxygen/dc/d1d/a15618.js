@@ -1,7 +1,12 @@
 var a15618 =
 [
-    [ "npc_ranshallaAI", "d2/dde/a15622.html", "d2/dde/a15622" ],
-    [ "npc_ranshalla", "dc/d1d/a15618.html#a0b9848c68cf955d24024071ae9beb8e5", null ],
-    [ "GetAI", "dc/d1d/a15618.html#a1a81651366cc05d3ad6e9929160fe059", null ],
-    [ "OnQuestAccept", "dc/d1d/a15618.html#a4ed77a4c0a48dc4922fa5ebb71949e28", null ]
+    [ "npc_toogaAI", "dc/d1d/a15618.html#a4db363c7e787f5fbbd61b418cfa87367", null ],
+    [ "MoveInLineOfSight", "dc/d1d/a15618.html#aff15508b97bce5f5fad9cf9750e89ff1", null ],
+    [ "MovementInform", "dc/d1d/a15618.html#a9315e8ba2688903aaf5b871a7490a700", null ],
+    [ "Reset", "dc/d1d/a15618.html#acfedaf5cc989451a4259a65661685f66", null ],
+    [ "UpdateFollowerAI", "dc/d1d/a15618.html#a742791e714be1ff713ab87e7d515bd9e", null ],
+    [ "CheckSpeechTimer", "dc/d1d/a15618.html#a938852d834c5eb8ba4abceaf49e9a5da", null ],
+    [ "PhasePostEvent", "dc/d1d/a15618.html#a4996291afa64e35f3604b2a85ea03dda", null ],
+    [ "PostEventTimer", "dc/d1d/a15618.html#abea9fa4d2623dab4f14978a7f94b595f", null ],
+    [ "TortaGUID", "dc/d1d/a15618.html#a4531aa0e2c7fe7f3207e56fc2ed67c25", null ]
 ];

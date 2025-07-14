@@ -1,7 +1,11 @@
 var a13030 =
 [
-    [ "boss_apothecary_hummelAI", "d3/d7b/a13034.html", "d3/d7b/a13034" ],
-    [ "boss_apothecary_hummel", "d0/dc5/a13030.html#af1672c0b7f67d9013e3769a7009c2ee9", null ],
-    [ "GetAI", "d0/dc5/a13030.html#a87a01f4d6eaac7c5e1795133e8aa1ccd", null ],
-    [ "OnQuestReward", "d0/dc5/a13030.html#a86d23ff3569e5e86b8787bb3ea7816c7", null ]
+    [ "npc_valkyr_battle_maidenAI", "d0/dc5/a13030.html#a859b63621c500c7a36150fadbb460b2b", null ],
+    [ "Reset", "d0/dc5/a13030.html#a3ca06a5822f1b5ae625b1dcc71ec0c30", null ],
+    [ "UpdateAI", "d0/dc5/a13030.html#a33251b8d8abb9b46a5af4cb4e92472b8", null ],
+    [ "FlyBackTimer", "d0/dc5/a13030.html#a625eb33fb32f935c5109a8d3d70c5ae7", null ],
+    [ "phase", "d0/dc5/a13030.html#abd5d71272aa575be8583254217194e49", null ],
+    [ "x", "d0/dc5/a13030.html#a2dbae2865b6c6db4e82b7d1dc8a67739", null ],
+    [ "y", "d0/dc5/a13030.html#acccea63fedf38de14f7818016830a0a9", null ],
+    [ "z", "d0/dc5/a13030.html#adde328d26ad752a9e5f2ab32eab2a4e0", null ]
 ];

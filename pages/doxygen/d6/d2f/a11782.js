@@ -1,5 +1,5 @@
 var a11782 =
 [
-    [ "amount", "d6/d2f/a11782.html#a35b1ecbfecae77f1cb7a0a52eafc5f7b", null ],
-    [ "entry", "d6/d2f/a11782.html#ac3d4d211ebb927b1b9a376ee956e1b26", null ]
+    [ "npcEntry", "d6/d2f/a11782.html#a866b12ea5416f36c36bbea1a35a6a490", null ],
+    [ "spellId", "d6/d2f/a11782.html#a8c2fd26e0e9de5f9292c8b993ba9f9be", null ]
 ];

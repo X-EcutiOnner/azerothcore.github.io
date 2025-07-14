@@ -1,6 +1,6 @@
 var a22134 =
 [
-    [ "HandleScript", "dc/d50/a22134.html#acb343eafcfddf6fedcdef26c9b86e0ec", null ],
-    [ "PrepareSpellScript", "dc/d50/a22134.html#a5a4ce9453638d61fe52514240f0a9384", null ],
-    [ "Register", "dc/d50/a22134.html#a889f931aaa37d3a283f4d585b384a68e", null ]
+    [ "npc_blessed_bannerAI", "dd/d80/a22138.html", "dd/d80/a22138" ],
+    [ "npc_blessed_banner", "dc/d50/a22134.html#a779a0c653088b2d206226e146a19101f", null ],
+    [ "GetAI", "dc/d50/a22134.html#a43dabbf2f2d54ae201cde37df792a41d", null ]
 ];

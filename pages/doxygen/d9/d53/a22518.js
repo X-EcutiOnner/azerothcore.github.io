@@ -1,14 +1,17 @@
 var a22518 =
 [
-    [ "boss_nexusprince_shaffar", "d9/d53/a22518.html#a2e861fb53bca7a40e967971b5e7be533", null ],
-    [ "JustDied", "d9/d53/a22518.html#abf2fef0888bced83511883027bf4d500", null ],
-    [ "JustEngagedWith", "d9/d53/a22518.html#af28242e0c0f2dcbfb2fb16514d912200", null ],
-    [ "JustSummoned", "d9/d53/a22518.html#a576240b46ce0988f0ef86e1460c831ef", null ],
-    [ "KilledUnit", "d9/d53/a22518.html#ad5dd5ab4178d968146e2205e60c49d07", null ],
-    [ "MoveInLineOfSight", "d9/d53/a22518.html#a71e501225d88851210d2e0e58de27f99", null ],
-    [ "Reset", "d9/d53/a22518.html#a35db119f5351a8ef9bef4588cbdd83cf", null ],
-    [ "SummonedCreatureDespawn", "d9/d53/a22518.html#ab806564e96708ca12f444249abd3c88c", null ],
-    [ "UpdateAI", "d9/d53/a22518.html#a147500575a3821262ec718ec023b458c", null ],
-    [ "HasTaunted", "d9/d53/a22518.html#aa7d55363fe9a326dc86bd4f4076d12ab", null ],
-    [ "summons", "d9/d53/a22518.html#a1d6ec0b04ee406d85aa5a39ed32e8c4a", null ]
+    [ "OutdoorPvPHP", "d9/d53/a22518.html#a19118d7facc4a745e391491fb7d95421", null ],
+    [ "FillInitialWorldStates", "d9/d53/a22518.html#a4ecc55395f1f792075e07026e1ccd171", null ],
+    [ "GetAllianceTowersControlled", "d9/d53/a22518.html#ae6d3a1561b94d92539a5dd8b5ac56689", null ],
+    [ "GetHordeTowersControlled", "d9/d53/a22518.html#a9395b6966bcdd36b448ca1c403f17873", null ],
+    [ "HandleKillImpl", "d9/d53/a22518.html#aad7804f10c42f6643397d673ba4e9bee", null ],
+    [ "HandlePlayerEnterZone", "d9/d53/a22518.html#a117149e3db7fa02fdcfab05a6ff6de18", null ],
+    [ "HandlePlayerLeaveZone", "d9/d53/a22518.html#abf21499824ad64aa7a26a4b33090783e", null ],
+    [ "SendRemoveWorldStates", "d9/d53/a22518.html#ac94c44783b2141c751d5c16a24bce8d4", null ],
+    [ "SetAllianceTowersControlled", "d9/d53/a22518.html#a1f9bbc083ae0bb7c00a303909ab043f5", null ],
+    [ "SetHordeTowersControlled", "d9/d53/a22518.html#ae5de375e1ec88dc5ce0059490596a935", null ],
+    [ "SetupOutdoorPvP", "d9/d53/a22518.html#aee60f1d1da4d6eecd0e66cf975272979", null ],
+    [ "Update", "d9/d53/a22518.html#aeec44f41e6d6fe7c768bb738a3eafb47", null ],
+    [ "m_AllianceTowersControlled", "d9/d53/a22518.html#a90c41df874abfee0a4861cf923de9ab5", null ],
+    [ "m_HordeTowersControlled", "d9/d53/a22518.html#ada8244f57fe3a693d167689d3f921025", null ]
 ];

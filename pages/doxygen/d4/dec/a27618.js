@@ -1,6 +1,6 @@
 var a27618 =
 [
-    [ "X", "d4/dec/a27618.html#a55bda49b2eb919415afaf780ca1977de", null ],
-    [ "Y", "d4/dec/a27618.html#a0bf22799258050a9b12ddc14bb2b4b11", null ],
-    [ "Z", "d4/dec/a27618.html#a7f0ceece775146d825d19a3cd22e5da3", null ]
+    [ "npc_experience", "d4/dec/a27618.html#a48ea13099fd32bcae1543a152de0bdf4", null ],
+    [ "OnGossipHello", "d4/dec/a27618.html#a78fccaa36d1c42e33774a9b23f867a72", null ],
+    [ "OnGossipSelect", "d4/dec/a27618.html#a140ece91c8b6d91bd91d64d6e9b625e8", null ]
 ];

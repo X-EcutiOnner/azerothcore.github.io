@@ -1,6 +1,6 @@
 var a18662 =
 [
-    [ "npc_icc_skybreaker_hierophantAI", "d3/d54/a18666.html", "d3/d54/a18666" ],
-    [ "npc_icc_skybreaker_hierophant", "d3/dff/a18662.html#a4cd3b2aa3d71c30853c687da8b8ca959", null ],
-    [ "GetAI", "d3/dff/a18662.html#a2b0627bf059dfbce556bfa3ed4e97552", null ]
+    [ "npc_impaling_spearAI", "d3/d54/a18666.html", "d3/d54/a18666" ],
+    [ "npc_impaling_spear", "d3/dff/a18662.html#af546ed9684fc085ad651bf5bd93e5bf7", null ],
+    [ "GetAI", "d3/dff/a18662.html#aad49164a3e7541b755c1c622b996bb9a", null ]
 ];

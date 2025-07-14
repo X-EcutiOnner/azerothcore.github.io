@@ -1,8 +1,9 @@
 var a04910 =
 [
-    [ "DynamicTreeAreaInfoCallback", "d5/de6/a04910.html#ad3f3d57e011439d9900afffa8d9c6ed7", null ],
-    [ "GetAreaInfo", "d5/de6/a04910.html#a22cc8c47b3c93bd9ba396861a5bbea99", null ],
-    [ "operator()", "d5/de6/a04910.html#adf7f147bb4b4f3a5252ac15ffd1b80ea", null ],
-    [ "_areaInfo", "d5/de6/a04910.html#a59781066b5b1a7e970f4dcf6f05a7dcb", null ],
-    [ "_phaseMask", "d5/de6/a04910.html#a9ad7b4de03c8baa6190a5ef57f2eecf2", null ]
+    [ "MDLCallback", "d5/de6/a04910.html#a241899d601778892a72080cceaa96318", null ],
+    [ "operator()", "d5/de6/a04910.html#a7e65ac1aebc8ac951303ee8e7cd85623", null ],
+    [ "operator()", "d5/de6/a04910.html#a2130223692a9d0f8491f7ea7ae24270c", null ],
+    [ "_callback", "d5/de6/a04910.html#a8eae05fc208dcc7f50147bf55c47764c", null ],
+    [ "objects", "d5/de6/a04910.html#a297d43aa55ffbb4f69f8e5888c8e116f", null ],
+    [ "objects_size", "d5/de6/a04910.html#a92fa352db4ba43afd590677d0ae1e5d9", null ]
 ];

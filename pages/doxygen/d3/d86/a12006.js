@@ -1,9 +1,6 @@
 var a12006 =
 [
-    [ "boss_overlordwyrmthalakAI", "d3/d86/a12006.html#a76f9bd309e1c5045c74bb0ba8d8bce5c", null ],
-    [ "JustDied", "d3/d86/a12006.html#ade379755d256c4c290e6dc8bbd862261", null ],
-    [ "JustEngagedWith", "d3/d86/a12006.html#af7780f467df92c9218700773d1257a8c", null ],
-    [ "Reset", "d3/d86/a12006.html#a9dbc4cc1830703c393fbeb9c0385b709", null ],
-    [ "UpdateAI", "d3/d86/a12006.html#a950b2161ed4c2441fb73f8b009c5ba30", null ],
-    [ "Summoned", "d3/d86/a12006.html#a8183e3f02d931809440adc8cc0cd3654", null ]
+    [ "boss_drakkisathAI", "dd/dbc/a12010.html", "dd/dbc/a12010" ],
+    [ "boss_drakkisath", "d3/d86/a12006.html#a73f21cbd7b81fc045ae129d7d650b455", null ],
+    [ "GetAI", "d3/d86/a12006.html#ad27999ba129b2e3617c1aba1c4b9772b", null ]
 ];

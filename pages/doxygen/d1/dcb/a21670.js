@@ -1,6 +1,5 @@
 var a21670 =
 [
-    [ "CheckCast", "d1/dcb/a21670.html#a9c7e08a8a9b1c1b44ae290818826d43a", null ],
-    [ "PrepareSpellScript", "d1/dcb/a21670.html#abff433d61c798d17882292b6b0956a58", null ],
-    [ "Register", "d1/dcb/a21670.html#a1034967a4bf633f160cc40ae6e0fc567", null ]
+    [ "npc_mei_francis_mountAI", "d1/dcb/a21670.html#aa9886ead02754faebff8b21eeb85dee6", null ],
+    [ "CanBeSeen", "d1/dcb/a21670.html#ad5e33495339a0315bc7b01351810157e", null ]
 ];

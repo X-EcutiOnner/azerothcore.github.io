@@ -1,11 +1,12 @@
 var a15686 =
 [
-    [ "npc_amanitar_mushrooms", "d6/de5/a15686.html#ad5603426c71c107ff439cea2efeea3f9", null ],
-    [ "AttackStart", "d6/de5/a15686.html#a0cc90c924a12a8be32c78e76ca798943", null ],
-    [ "DamageTaken", "d6/de5/a15686.html#a4c21a448535e1fc0f0116257194b9732", null ],
-    [ "EnterEvadeMode", "d6/de5/a15686.html#ae17ee367c9d206868c7dfc64d438806a", null ],
-    [ "JustEngagedWith", "d6/de5/a15686.html#ac50bf479e8c891af432cfccdf9d49c55", null ],
-    [ "Reset", "d6/de5/a15686.html#ae597d5a64765f5304773f9a38e9c719a", null ],
-    [ "UpdateAI", "d6/de5/a15686.html#ae71058353be43935aa45eb28eb41170f", null ],
-    [ "events", "d6/de5/a15686.html#a0be93d15582a5511963721510652e76d", null ]
+    [ "npc_cairne_bloodhoofAI", "d6/de5/a15686.html#ac87f0d10b1886ffa24ae201fdb614441", null ],
+    [ "Reset", "d6/de5/a15686.html#ab58f32a6bd1659b1a54fb056526c121a", null ],
+    [ "sGossipSelect", "d6/de5/a15686.html#aa95b820eb4d3c6c5f1898a67c319b1a6", null ],
+    [ "UpdateAI", "d6/de5/a15686.html#aefcbb7b2da6d1039055c27feeb1f5f9e", null ],
+    [ "_berserkerChargeTimer", "d6/de5/a15686.html#a2efb1949abe83dadf62b5c868ae57fe2", null ],
+    [ "_cleaveTimer", "d6/de5/a15686.html#ab1ed741e998cd7ed088cab3af378b3ca", null ],
+    [ "_mortalStrikeTimer", "d6/de5/a15686.html#a9f33790662ce229669e5d1d6f2aac8b0", null ],
+    [ "_thunderclapTimer", "d6/de5/a15686.html#a6bdca667875353db2badc40fd95a1ce4", null ],
+    [ "_uppercutTimer", "d6/de5/a15686.html#a9f13acd7df900d9bdac64898b183c67d", null ]
 ];

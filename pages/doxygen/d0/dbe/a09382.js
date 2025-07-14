@@ -1,7 +1,9 @@
 var a09382 =
 [
-    [ "AnyPlayerExactPositionInGameObjectRangeCheck", "d0/dbe/a09382.html#a51100c20d5b7f795f062dfaa5aa65017", null ],
-    [ "operator()", "d0/dbe/a09382.html#a0dd7216a026b7f90b293b2adf20a0191", null ],
-    [ "_go", "d0/dbe/a09382.html#a70e0b15948cf34a7c759885949560dcd", null ],
-    [ "_range", "d0/dbe/a09382.html#ad91342e50833e3b9d75c5e548248941f", null ]
+    [ "NearestHostileUnitCheck", "d0/dbe/a09382.html#aa1d706a1eb1de6168b568e70008e2d3b", null ],
+    [ "NearestHostileUnitCheck", "d0/dbe/a09382.html#a2fe620370289850eb0362823de2072d1", null ],
+    [ "operator()", "d0/dbe/a09382.html#a04c85a77d660bbc74279d1062dabc375", null ],
+    [ "i_playerOnly", "d0/dbe/a09382.html#a64c5fce466521a6d6d78eeda0708d65e", null ],
+    [ "m_range", "d0/dbe/a09382.html#a801d56a180e196943cfc2cefb6c5dda5", null ],
+    [ "me", "d0/dbe/a09382.html#a67cef25e6f725ea42f0377df34d48495", null ]
 ];

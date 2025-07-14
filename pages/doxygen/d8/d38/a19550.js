@@ -1,6 +1,6 @@
 var a19550 =
 [
-    [ "HandleApplyTouch", "d8/d38/a19550.html#a0c46c506f78f46f17c0de6caae774316", null ],
-    [ "PrepareSpellScript", "d8/d38/a19550.html#a2f32b735a8a72a6ef52744d3ce8ada8b", null ],
-    [ "Register", "d8/d38/a19550.html#a70382055564e4ead8b5da0d6bd20c67f", null ]
+    [ "instance_halls_of_lightning_InstanceMapScript", "de/d6c/a19554.html", "de/d6c/a19554" ],
+    [ "instance_halls_of_lightning", "d8/d38/a19550.html#a24395866efe2c7d1f7727be2557a8b46", null ],
+    [ "GetInstanceScript", "d8/d38/a19550.html#a5ce157aeaf2ed78e98e864059a599b36", null ]
 ];

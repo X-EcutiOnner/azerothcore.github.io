@@ -1,6 +1,8 @@
 var a19802 =
 [
-    [ "npc_thorims_hammerAI", "df/d43/a19806.html", "df/d43/a19806" ],
-    [ "npc_thorims_hammer", "d7/d42/a19802.html#a97cbcda73931e6119f8ab30fa4bb0806", null ],
-    [ "GetAI", "d7/d42/a19802.html#aaee92d115d112ebf590cf690de8c6667", null ]
+    [ "OnPeriodic", "d7/d42/a19802.html#a56d101b26b220994aeb035e5fbc1f26e", null ],
+    [ "OnRemove", "d7/d42/a19802.html#ac6d961793ddb6423540da9d97e016b82", null ],
+    [ "PrepareAuraScript", "d7/d42/a19802.html#a9384a764bf9c48d12e7f62af99897ce4", null ],
+    [ "Register", "d7/d42/a19802.html#a69f5474dacdf220ffebe18bd5cf8a32f", null ],
+    [ "Validate", "d7/d42/a19802.html#a11d985c5e17c8b3cb34096000fda66ac", null ]
 ];

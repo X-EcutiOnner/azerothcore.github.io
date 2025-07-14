@@ -1,9 +1,9 @@
 var a16950 =
 [
-    [ "npc_pos_after_first_bossAI", "d1/da4/a16950.html#a622df71849da1e10e2b73068f0adea98", null ],
-    [ "MovementInform", "d1/da4/a16950.html#a1751506f27d4b2fc9ddb2f8a6a82dc9e", null ],
-    [ "Reset", "d1/da4/a16950.html#ad248aa4cbfbd24e4fe47b99b38c4dd8c", null ],
-    [ "UpdateAI", "d1/da4/a16950.html#ac45111887fd7833a041355658dd26158", null ],
-    [ "events", "d1/da4/a16950.html#a3aaf303ee389a10edc4feeec7c38a2a6", null ],
-    [ "pInstance", "d1/da4/a16950.html#a17a0e1e7a35f608a9ec86ce4e959b52e", null ]
+    [ "npc_hor_lumbering_abominationAI", "d1/da4/a16950.html#acc1e6e72aee030ebf2d0daa50f880f60", null ],
+    [ "JustDied", "d1/da4/a16950.html#af243a79da3028d3d66facc8a15132f78", null ],
+    [ "JustEngagedWith", "d1/da4/a16950.html#a83d0add807b5d9647328b89fed8e9bc4", null ],
+    [ "Reset", "d1/da4/a16950.html#a4270f405bbade0028fce4df0655a1987", null ],
+    [ "UpdateAI", "d1/da4/a16950.html#a995d0f7902cb70280d1448ac7731a816", null ],
+    [ "events", "d1/da4/a16950.html#aee9063950477b50e38ec904e91882689", null ]
 ];

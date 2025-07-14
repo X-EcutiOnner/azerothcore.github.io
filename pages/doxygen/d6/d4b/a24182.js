@@ -1,7 +1,6 @@
 var a24182 =
 [
-    [ "npc_kservantAI", "d6/d4b/a24182.html#a0687712690f2bacd24da1c94d222e761", null ],
-    [ "IsSummonedBy", "d6/d4b/a24182.html#a6aa9c1544fffdd9916eda7a0941dc828", null ],
-    [ "Reset", "d6/d4b/a24182.html#a0756ffacb97c83a3028afc620b32f349", null ],
-    [ "WaypointReached", "d6/d4b/a24182.html#a577a2ebb91c08bfe2e09bc67eeebb4ef", null ]
+    [ "npcs_flanis_swiftwing_and_kagrosh", "d6/d4b/a24182.html#aa95eceea94521947bd443805c8ddb52d", null ],
+    [ "OnGossipHello", "d6/d4b/a24182.html#a7f331c38ec82d2c69bce4b1f861527a0", null ],
+    [ "OnGossipSelect", "d6/d4b/a24182.html#aff34165955ba93e1fcd2b9731894d871", null ]
 ];

@@ -1,7 +1,9 @@
 var a25622 =
 [
-    [ "HandleDummy", "d1/dc3/a25622.html#ae1f9429b4e5b8965c65f246e03efbaf0", null ],
-    [ "PrepareSpellScript", "d1/dc3/a25622.html#abde4e8528f1af9a595fb32741e397397", null ],
-    [ "Register", "d1/dc3/a25622.html#a3f10fa7accb675d36560ef5bb6ccb84e", null ],
-    [ "Validate", "d1/dc3/a25622.html#af1658e856195d22042de5beab1eec212", null ]
+    [ "spell_item_trigger_spell", "d1/dc3/a25622.html#a619e9a5233e36157cbdaba70a3ba80da", null ],
+    [ "HandleDummy", "d1/dc3/a25622.html#a49613255eea28e34cf5ff8a06798f89a", null ],
+    [ "PrepareSpellScript", "d1/dc3/a25622.html#a78903f92c30fb23ff7297f7fa16c4861", null ],
+    [ "Register", "d1/dc3/a25622.html#ab9abd9f01ce37c23d6502e6d86e3f998", null ],
+    [ "Validate", "d1/dc3/a25622.html#a2f2df93e8f9d0e51273560665ea5c245", null ],
+    [ "_triggeredSpellId", "d1/dc3/a25622.html#a610c5ac434fe788120ed101f7bf58f63", null ]
 ];

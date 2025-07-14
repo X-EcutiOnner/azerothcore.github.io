@@ -1,6 +1,6 @@
 var a26846 =
 [
-    [ "HandleHeal", "d0/d4c/a26846.html#a03afbdbdc8555fc2d558a5e48f7340a0", null ],
-    [ "PrepareSpellScript", "d0/d4c/a26846.html#a61a601108cd59e5d87634c02b002e20d", null ],
-    [ "Register", "d0/d4c/a26846.html#ae46c965fc77aa61aaa3c426c8ecc585c", null ]
+    [ "CalculateAmount", "d0/d4c/a26846.html#aa27de1a2fc517a4b796a10e780239880", null ],
+    [ "PrepareAuraScript", "d0/d4c/a26846.html#a72e68ff46f2049809f3e3b2c1814bd87", null ],
+    [ "Register", "d0/d4c/a26846.html#a5ee969ad0916a9337849c75c18f13c29", null ]
 ];

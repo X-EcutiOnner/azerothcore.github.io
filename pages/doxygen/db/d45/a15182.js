@@ -1,7 +1,7 @@
 var a15182 =
 [
-    [ "npc_rizzle_sprysprocketAI", "da/d72/a15186.html", "da/d72/a15186" ],
-    [ "npc_rizzle_sprysprocket", "db/d45/a15182.html#a3bd65f716b42200cc37d2264ddedf735", null ],
-    [ "GetAI", "db/d45/a15182.html#ae445545476b4046db305117fa635e7f5", null ],
-    [ "OnGossipHello", "db/d45/a15182.html#a3a42f3ffc35683b55de5bcc8d2b24647", null ]
+    [ "FilterTargets", "db/d45/a15182.html#a76e8285baf1d14d560ad764eeab86cd5", null ],
+    [ "HandleOnHit", "db/d45/a15182.html#a587db6fa1dc5788e0cc9ec5e486e9393", null ],
+    [ "PrepareSpellScript", "db/d45/a15182.html#ad7372e543391a23c003b4121e0dd8a09", null ],
+    [ "Register", "db/d45/a15182.html#a9749c72e2c7964cd4a2b2f9a77da69ec", null ]
 ];

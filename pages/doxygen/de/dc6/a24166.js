@@ -1,15 +1,12 @@
 var a24166 =
 [
-    [ "dragonmaw_race_npc", "de/dc6/a24166.html#ad93bcd14a4fd05c9e8a1aee4dd53d4aa", null ],
-    [ "FailQuest", "de/dc6/a24166.html#a15a1223f9dc5d3979485a753687f169e", null ],
-    [ "FinishRace", "de/dc6/a24166.html#a2439f54aca4ff28c23d351245099a4fc", null ],
-    [ "MovementInform", "de/dc6/a24166.html#ad0b4ef357605a44a4188c29292303dcf", null ],
-    [ "PathEndReached", "de/dc6/a24166.html#a6b93a5fb6beb8e8b886f6bf8bb58d3d2", null ],
-    [ "Reset", "de/dc6/a24166.html#a0edde2bdb8d4d2204551ebc7a7c41fe9", null ],
-    [ "sQuestAccept", "de/dc6/a24166.html#a539fcaf1dc25a34531d032032c19182e", null ],
-    [ "StartRace", "de/dc6/a24166.html#ac7d20cb0f2a997d2306195da5c9004e8", null ],
-    [ "StartRaceAttacks", "de/dc6/a24166.html#a341528843b89a29711f60a1b932da616", null ],
-    [ "TakeOff", "de/dc6/a24166.html#a8b14aeb1e67059a159f42aad578ccbfb", null ],
-    [ "UpdateAI", "de/dc6/a24166.html#a5d84467b3fa0c3eefcf7054d0dde472c", null ],
-    [ "_playerGUID", "de/dc6/a24166.html#a8a172511afed700d5c0fa1d5de4cb379", null ]
+    [ "npc_enslaved_netherwing_drake", "de/dc6/a24166.html#a9f848fa3c68b8a269f0b6016058ec364", null ],
+    [ "_GetPlayer", "de/dc6/a24166.html#af02a965e98f35134a3c40ed9cdfb723e", null ],
+    [ "JustDied", "de/dc6/a24166.html#acde70c9d8c675a9a9dd14695dc752184", null ],
+    [ "MovementInform", "de/dc6/a24166.html#afa030a380365daa33c156a0d6be6a6d9", null ],
+    [ "Reset", "de/dc6/a24166.html#aec02b19d27a09f16ef06adb694c2e65e", null ],
+    [ "SpellHit", "de/dc6/a24166.html#a195794e88870a0b1ca35473f5f0378a7", null ],
+    [ "UpdateAI", "de/dc6/a24166.html#aa7ac2dd17bdf4939d74fe5af85c649b9", null ],
+    [ "_playerGUID", "de/dc6/a24166.html#a2f9a6a6cbaa9cab0e6014f6fd1c54346", null ],
+    [ "_tapped", "de/dc6/a24166.html#a9cbafd9536ff7eca33b0b44295aaec92", null ]
 ];

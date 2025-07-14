@@ -1,7 +1,6 @@
 var a15926 =
 [
-    [ "npc_baltharus_the_warborn_cloneAI", "d5/d2a/a15926.html#aed531e61508d4d404827f47c6348a5e6", null ],
-    [ "JustEngagedWith", "d5/d2a/a15926.html#ad906b7602a34abcfaede92cba6f0a6d7", null ],
-    [ "UpdateAI", "d5/d2a/a15926.html#ab0c1cf041146a3e16a33986e3e824a2d", null ],
-    [ "_events", "d5/d2a/a15926.html#a6e2819f73f0fccd02b7188f0e6f1ffa9", null ]
+    [ "instance_azjol_nerub_InstanceScript", "d4/d18/a15930.html", "d4/d18/a15930" ],
+    [ "instance_azjol_nerub", "d5/d2a/a15926.html#a61476a0d15136d2bdb3a65eca72963da", null ],
+    [ "GetInstanceScript", "d5/d2a/a15926.html#a8bb8477669c6369afe508a400bd4d489", null ]
 ];

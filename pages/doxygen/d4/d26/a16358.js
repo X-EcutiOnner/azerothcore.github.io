@@ -1,7 +1,7 @@
 var a16358 =
 [
-    [ "npc_toc_dkAI", "d4/d26/a16358.html#aa01bf528b10ed7bbdfe9b03694e51845", null ],
-    [ "myCanCast", "d4/d26/a16358.html#a54dee5d9b0f17bad21e8c1e275f0b222", null ],
-    [ "UpdateAI", "d4/d26/a16358.html#ab4f4b11e2b250fb24de6c069c5e38208", null ],
-    [ "events", "d4/d26/a16358.html#a293d5fca2940432c4eea57c5de5a1fdc", null ]
+    [ "HandleEffectPeriodic", "d4/d26/a16358.html#a7d6d15b8eecfcfb4c36d6504920bd119", null ],
+    [ "PrepareAuraScript", "d4/d26/a16358.html#a4506f7d723b85c7555296f5ade11cd29", null ],
+    [ "Register", "d4/d26/a16358.html#aeac7e6abc89209e14451439cdf1d416e", null ],
+    [ "Validate", "d4/d26/a16358.html#a9d6f9cd0495de03878ed5137542ea89d", null ]
 ];

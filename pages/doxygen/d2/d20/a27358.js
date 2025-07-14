@@ -1,10 +1,8 @@
 var a27358 =
 [
-    [ "npc_prof_tailor", "d2/d20/a27358.html#a481157e49fb1c09f62a3cb9de85c9da1", null ],
-    [ "HasTailorSpell", "d2/d20/a27358.html#a188c0ac66b1972bccd031aca26f7fecd", null ],
-    [ "OnGossipHello", "d2/d20/a27358.html#a686098ac43916ea2f82b7c321527863d", null ],
-    [ "OnGossipSelect", "d2/d20/a27358.html#a03545eaacf3bae0d407e0e20c32740dc", null ],
-    [ "SendActionMenu", "d2/d20/a27358.html#a03ced7d6541535097a5e4e3bd9f415f2", null ],
-    [ "SendConfirmLearn", "d2/d20/a27358.html#a93a8692cb2c0b30ee752ae3ecd5561e5", null ],
-    [ "SendConfirmUnlearn", "d2/d20/a27358.html#ada0be1dc79f72b7b033191c8e17a8baf", null ]
+    [ "go_bellsAI", "d2/d20/a27358.html#a6f22847c66a3b5faded35da799359846", null ],
+    [ "UpdateAI", "d2/d20/a27358.html#ab466f67665577f22bfe6cdb94d0a008b", null ],
+    [ "_events", "d2/d20/a27358.html#a46c66442078cee28a76fc412746ca026", null ],
+    [ "_soundId", "d2/d20/a27358.html#ab2491e9d27266ea69a5a9163e8c1b35b", null ],
+    [ "once", "d2/d20/a27358.html#abf6ca2fc64f5764936a6d0179d40c2fa", null ]
 ];

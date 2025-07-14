@@ -1,9 +1,12 @@
 var a17574 =
 [
-    [ "CalculateDamage", "df/d32/a17574.html#a6a9e90d9463825b38b69afc234b35b39", null ],
-    [ "PrepareSpellScript", "df/d32/a17574.html#ae7a8d0cc36708b11f8eefebd5df0a980", null ],
-    [ "Register", "df/d32/a17574.html#a2722814a55469e5bae572766ed36309b", null ],
-    [ "RemoveEnergy", "df/d32/a17574.html#a0f16b4b35985d658dc185aa88ab099ed", null ],
-    [ "StoreEnergy", "df/d32/a17574.html#aca3ecc5a6219cb3813f17be404142c6d", null ],
-    [ "_energyLeft", "df/d32/a17574.html#af082a763f6524aeb5ae2eb3c82fd12e5", null ]
+    [ "gunship_npc_AI", "df/d32/a17574.html#a30c13cb755638fcf05d1ad9a476210d3", null ],
+    [ "EnterEvadeMode", "df/d32/a17574.html#a7c2da25bb962c32fa350ee1f12f86ca4", null ],
+    [ "JustDied", "df/d32/a17574.html#ad40c976be4decd9054dad031a4caab78", null ],
+    [ "MovementInform", "df/d32/a17574.html#a3bae54b656fc5ed8c6fef80bd1721c71", null ],
+    [ "SetData", "df/d32/a17574.html#acfd5e331155d7787ada33acbca73fece", null ],
+    [ "SetSlotInfo", "df/d32/a17574.html#afdfc3f9add2952f90baf24d55425670f", null ],
+    [ "Index", "df/d32/a17574.html#ae120874514cf5921136821b820a04da7", null ],
+    [ "Instance", "df/d32/a17574.html#ab5276a099bcf56c5a25b3a52be516b5c", null ],
+    [ "Slot", "df/d32/a17574.html#a59d237475ae309755d429cfac77d6630", null ]
 ];

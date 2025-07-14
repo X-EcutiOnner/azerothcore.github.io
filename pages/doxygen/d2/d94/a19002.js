@@ -1,8 +1,6 @@
 var a19002 =
 [
-    [ "boss_maexxna_webwrapAI", "d2/d94/a19002.html#a1423b619676f650f71c8e7215aa2a2b7", null ],
-    [ "IsSummonedBy", "d2/d94/a19002.html#a1d434373ccc7dd54c5de7bc99487170a", null ],
-    [ "JustDied", "d2/d94/a19002.html#a1ed18e791d2a5ae26cd1c2f3cdf37d82", null ],
-    [ "UpdateAI", "d2/d94/a19002.html#a05220fcded67e15bbd94d13d0b9581a2", null ],
-    [ "victimGUID", "d2/d94/a19002.html#a54081ebfc0df639b7e18b5f079802c92", null ]
+    [ "npc_boss_gothik_minionAI", "d4/d82/a19006.html", "d4/d82/a19006" ],
+    [ "npc_boss_gothik_minion", "d2/d94/a19002.html#a6cabeae812639ac179133245d85a0e15", null ],
+    [ "GetAI", "d2/d94/a19002.html#a8abb1ec265f9eeb646a858bee06cfb92", null ]
 ];

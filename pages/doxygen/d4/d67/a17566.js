@@ -1,9 +1,6 @@
 var a17566 =
 [
-    [ "HandleApply", "d4/d67/a17566.html#a5f23d41765ec949486094a0da45be7e8", null ],
-    [ "HandleRemove", "d4/d67/a17566.html#a8737bad17bf7aa3e52cb2e0b7fbc9178", null ],
-    [ "Load", "d4/d67/a17566.html#a7c2644d06592b0d929a0b59cf8fa0f1b", null ],
-    [ "PrepareAuraScript", "d4/d67/a17566.html#aabf5fdf4578935db11e041e638fba187", null ],
-    [ "Register", "d4/d67/a17566.html#a6bdc66b6028002b5fc873803a434b6b1", null ],
-    [ "SendClientControl", "d4/d67/a17566.html#a24f79a4c59d4bf615a6de745ffa11d81", null ]
+    [ "npc_igb_ship_crewAI", "d0/da3/a17570.html", "d0/da3/a17570" ],
+    [ "npc_igb_ship_crew", "d4/d67/a17566.html#a5f4380aba94766a6a75b97026998b881", null ],
+    [ "GetAI", "d4/d67/a17566.html#a48955817e21a01a726b50685b467c229", null ]
 ];

@@ -1,4 +1,5 @@
 var a01079 =
 [
-    [ "ScriptRegistry< InstanceMapScript >", "d2/d4d/a01079.html#a1271f70bb9300f8012216659f38edaee", null ]
+    [ "Module_0DBBF209A27B1E279A9FEC5C168A15F7_Data", "d2/d4d/a01079.html#a650e9d2ed03f4896b697097e2116298e", null ],
+    [ "Module_0DBBF209A27B1E279A9FEC5C168A15F7_Key", "d2/d4d/a01079.html#aba4af9417ad91ebf078cf0ff83ecf503", null ]
 ];

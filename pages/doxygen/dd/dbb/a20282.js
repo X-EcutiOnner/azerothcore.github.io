@@ -1,6 +1,5 @@
 var a20282 =
 [
-    [ "OnPeriodic", "dd/dbb/a20282.html#a8a12342f694499043e8ed4446fd92d36", null ],
-    [ "PrepareAuraScript", "dd/dbb/a20282.html#a9294210ece0c3bcda0639d1fc486cc9a", null ],
-    [ "Register", "dd/dbb/a20282.html#a381709d53101832de6b2161c4a33a0d4", null ]
+    [ "achievement_getting_cold_in_here", "dd/dbb/a20282.html#a57fe7262a09036ffa88e985cb7e2f123", null ],
+    [ "OnCheck", "dd/dbb/a20282.html#aeafd382d378381f754da6ee04d382276", null ]
 ];

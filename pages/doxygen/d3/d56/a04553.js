@@ -1,7 +1,6 @@
 var a04553 =
 [
-    [ "GetBuildDirectory", "d3/d56/a04553.html#ae2280b7f7c56992a4c3ae6e33d6c8a4b", null ],
-    [ "GetCMakeCommand", "d3/d56/a04553.html#af38bc6d6ef36ab9b44b7bf5446659672", null ],
-    [ "GetMySQLExecutable", "d3/d56/a04553.html#abdfee61576e0a7c64d7bb6a516ab69b7", null ],
-    [ "GetSourceDirectory", "d3/d56/a04553.html#a84544d0c16175b62a0894c34fee2b6d7", null ]
+    [ "CharacterDatabase", "d3/d56/a04553.html#a7e7534bc66d79434bd280b77cb124eec", null ],
+    [ "LoginDatabase", "d3/d56/a04553.html#a2cf25eafe7f2f73b61ccde11d55daf0c", null ],
+    [ "WorldDatabase", "d3/d56/a04553.html#afa9a6509f9913c9c7dd3081523badd7c", null ]
 ];

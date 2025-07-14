@@ -1,6 +1,6 @@
 var a20246 =
 [
-    [ "boss_kologarn_eyebeamAI", "d3/db7/a20250.html", "d3/db7/a20250" ],
-    [ "boss_kologarn_eyebeam", "d2/d9b/a20246.html#af28ff60e3b42f7316cc3d63624a91ee9", null ],
-    [ "GetAI", "d2/d9b/a20246.html#a34f5533a6bfe84c52fe0b0e854e694f8", null ]
+    [ "FilterTargets", "d2/d9b/a20246.html#a4f77f654ef8bb589fbb81e8cb1ec6ce6", null ],
+    [ "PrepareSpellScript", "d2/d9b/a20246.html#a52c6b32ab01a68b258d4fe89730ec32b", null ],
+    [ "Register", "d2/d9b/a20246.html#a2e9ee7705a950d6a500ac472ff783b3a", null ]
 ];

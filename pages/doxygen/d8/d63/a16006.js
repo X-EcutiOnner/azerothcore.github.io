@@ -1,7 +1,7 @@
 var a16006 =
 [
-    [ "HandlePeriodic", "d8/d63/a16006.html#ab49a636eaddea5c91f86f21a1d4d182e", null ],
-    [ "PrepareAuraScript", "d8/d63/a16006.html#a3a9a26b3e0964e08d67a89cd950b5a97", null ],
-    [ "Register", "d8/d63/a16006.html#aed8d41a9bf289b21caa9e93e66b004d2", null ],
-    [ "Validate", "d8/d63/a16006.html#a3a428e0e4f63770a35cdf6a6ac85e403", null ]
+    [ "DelayedTalk", "d8/d63/a16006.html#a8a7ea9e6ddebd73996cfe8d9723276bc", null ],
+    [ "Execute", "d8/d63/a16006.html#a88c1915e73bcbd8ec253a537c416caf7", null ],
+    [ "_owner", "d8/d63/a16006.html#a9d13769bb3fbaed32919fc919da35006", null ],
+    [ "_talkId", "d8/d63/a16006.html#a3f3a1688a36807c653a5d071dd2bb389", null ]
 ];

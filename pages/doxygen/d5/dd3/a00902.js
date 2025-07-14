@@ -1,4 +1,5 @@
 var a00902 =
 [
-    [ "KillRewarder", "d5/d25/a08467.html", "d5/d25/a08467" ]
+    [ "WorldPackets::LFG::LFGJoin", "db/d29/a10750.html", "db/d29/a10750" ],
+    [ "WorldPackets::LFG::LFGLeave", "d1/d5e/a10754.html", "d1/d5e/a10754" ]
 ];

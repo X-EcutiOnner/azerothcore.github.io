@@ -1,9 +1,8 @@
 var a22650 =
 [
-    [ "npc_flame_of_azzinoth", "d1/dc1/a22650.html#acdeb046c2214bd449257ba1b932c8a5c", null ],
-    [ "IsSummonedBy", "d1/dc1/a22650.html#a5254057af0371a08ea01fe91502c2a20", null ],
-    [ "JustEngagedWith", "d1/dc1/a22650.html#a24eba1a6cdea4971573a6f4b2dd34fb3", null ],
-    [ "JustSummoned", "d1/dc1/a22650.html#ad2e7085fcd985a08cc2e317485a8fff1", null ],
-    [ "UpdateAI", "d1/dc1/a22650.html#a7a1c9b967e6a79721dea8cbca44cbb5b", null ],
-    [ "_bladeGUID", "d1/dc1/a22650.html#ae797d929b0e9c8953a4c9efd392a21f3", null ]
+    [ "FilterTargets", "d1/dc1/a22650.html#a9e0a72530a8dc764269e8df6d9d1ed3d", null ],
+    [ "HandleDummyHitTarget", "d1/dc1/a22650.html#ae892090a9bd48aa447224c9f96801d37", null ],
+    [ "PrepareSpellScript", "d1/dc1/a22650.html#af08ab4fcc3705b07e89ed222794e70e9", null ],
+    [ "Register", "d1/dc1/a22650.html#aeb1aad59b6b4767a63660c5fe0277392", null ],
+    [ "Validate", "d1/dc1/a22650.html#a5a87a7c18a55caf5288b8ca8bbd2f361", null ]
 ];

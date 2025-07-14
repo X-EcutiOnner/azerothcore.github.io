@@ -1,11 +1,13 @@
 var a11374 =
 [
-    [ "WorldUpdateTime", "de/dfc/a11374.html#a97552c4ce99bd40919f199c17fe203ed", null ],
-    [ "LoadFromConfig", "de/dfc/a11374.html#acb2b9d56504fc760e7df1c93621ab788", null ],
-    [ "RecordUpdateTime", "de/dfc/a11374.html#a88d773c8029cebeab6b99444c25c8379", null ],
-    [ "RecordUpdateTimeDuration", "de/dfc/a11374.html#a3ae299cfba6adcbb4e38af40313428fc", null ],
-    [ "SetRecordUpdateTimeInterval", "de/dfc/a11374.html#ada81050229ccacc49d5b6a9f6101174c", null ],
-    [ "_lastRecordTime", "de/dfc/a11374.html#a7bc68a1a700deb4bc4d19992edf3ffa7", null ],
-    [ "_recordUpdateTimeInverval", "de/dfc/a11374.html#a5486477b0a604f0207336e423f42c2b1", null ],
-    [ "_recordUpdateTimeMin", "de/dfc/a11374.html#a6b8a8d1b61f9ecec591165fa334972fc", null ]
+    [ "PlayerTextBuilder", "de/dfc/a11374.html#a0740c581636009448fe2c29084db41ae", null ],
+    [ "operator()", "de/dfc/a11374.html#a64d2905971ecd645e364a774f320a721", null ],
+    [ "_gender", "de/dfc/a11374.html#aece205d3d523dcf6fefbdd9914943723", null ],
+    [ "_language", "de/dfc/a11374.html#a934d4a519c2c7b4017805b3bc24a4714", null ],
+    [ "_msgType", "de/dfc/a11374.html#af546f2788870b8b10b3405695ef81171", null ],
+    [ "_source", "de/dfc/a11374.html#a9fe9f865b0ba84b5497e63947893533e", null ],
+    [ "_talker", "de/dfc/a11374.html#a8a8cd00cc76e048500800938a773aa06", null ],
+    [ "_target", "de/dfc/a11374.html#ac97cf187d079c5162e47bebb7024faa5", null ],
+    [ "_textGroup", "de/dfc/a11374.html#ab44fe12e73da36acb1199987e8573467", null ],
+    [ "_textId", "de/dfc/a11374.html#a17b33a9a05a77722219a85a71f3bbc5e", null ]
 ];

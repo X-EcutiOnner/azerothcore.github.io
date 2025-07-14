@@ -1,16 +1,8 @@
 var a28342 =
 [
-    [ "AcceptCallback", "d6/dfb/a28342.html#a2cea1478f3e8feec141064f3281d422e", null ],
-    [ "AsyncAcceptor", "d6/dfb/a28342.html#adcdbdbb26b47f71e74aeccbc0d96a6c4", null ],
-    [ "AsyncAccept", "d6/dfb/a28342.html#a0d7a3371b14fa8eecbe30ff73e366398", null ],
-    [ "AsyncAcceptWithCallback", "d6/dfb/a28342.html#ae2443c046b245262497e407c9a5b7b3f", null ],
-    [ "Bind", "d6/dfb/a28342.html#a91c22b6aba05bc493cfaf28a9203ce84", null ],
-    [ "Close", "d6/dfb/a28342.html#a0ed31d03f8cdb38b1e359f3085e7ee29", null ],
-    [ "DefaultSocketFactory", "d6/dfb/a28342.html#a9820441474b6ced25625185cbbcda5bc", null ],
-    [ "SetSocketFactory", "d6/dfb/a28342.html#a7bf97d3996651f3057fc0d88db5e4a69", null ],
-    [ "_acceptor", "d6/dfb/a28342.html#af3d5ae4979b29b4fc72e78fc9de34b8e", null ],
-    [ "_closed", "d6/dfb/a28342.html#a27230b467efdb08dbb9b0c0198db0936", null ],
-    [ "_endpoint", "d6/dfb/a28342.html#a06a13b36a9e324bc0b4f4112dbdabebf", null ],
-    [ "_socket", "d6/dfb/a28342.html#aef188268de7b2f7447a97aa73ac19ff3", null ],
-    [ "_socketFactory", "d6/dfb/a28342.html#a8ab2ccd6b8cbb7bff0a9d38e0e5d8ad7", null ]
+    [ "ClassMask", "d6/dfb/a28342.html#a563ba1618ffefa5470696e37f65c70d4", null ],
+    [ "Flags", "d6/dfb/a28342.html#af89c32a22f018557fe016e0784a82384", null ],
+    [ "RaceMask", "d6/dfb/a28342.html#acff47bf5c075d669f95b0d229674f9bc", null ],
+    [ "SkillID", "d6/dfb/a28342.html#ab9237a8776aa854e0f81cf228a247ef0", null ],
+    [ "SkillTierID", "d6/dfb/a28342.html#ab6153043461b71336e12b00957499075", null ]
 ];

@@ -1,7 +1,7 @@
 var a25170 =
 [
-    [ "PrepareAuraScript", "d2/dac/a25170.html#afeac0a8393b7d7bf787fca59988d0e14", null ],
-    [ "Register", "d2/dac/a25170.html#a7cbcf46dbdddea12fd6ce04bcbcea097", null ],
-    [ "TriggerFoodBuff", "d2/dac/a25170.html#a5d125413491dd377d61b8e30c4979fdd", null ],
-    [ "Validate", "d2/dac/a25170.html#a6b69d7358eb8cfe6a8f9efd47882eb80", null ]
+    [ "HandleEffectApply", "d2/dac/a25170.html#abf780eeca61aef7e44617aa0ed2ff8b8", null ],
+    [ "OnRemove", "d2/dac/a25170.html#af2cfa66cd7dbc7c671efa06c497cc03e", null ],
+    [ "PrepareAuraScript", "d2/dac/a25170.html#ab6c5d1fd94c763126ef77f9efd4a7116", null ],
+    [ "Register", "d2/dac/a25170.html#a473189971d0a03e7305b7b9e41dc5207", null ]
 ];

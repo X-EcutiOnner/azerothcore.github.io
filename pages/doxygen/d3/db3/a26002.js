@@ -1,9 +1,7 @@
 var a26002 =
 [
-    [ "Load", "d3/db3/a26002.html#ae8329a18e94b3830e19bcbcbdf055dd2", null ],
-    [ "PrepareSpellScript", "d3/db3/a26002.html#a7a082f577937bf9f794bfb21bbc416f1", null ],
-    [ "Register", "d3/db3/a26002.html#a7b8f209bff9c2f1dff96f3d90c66cad4", null ],
-    [ "TriggerHeal", "d3/db3/a26002.html#acad9295c5c6b46bd969a4fb528a8ec25", null ],
-    [ "Validate", "d3/db3/a26002.html#a5f53a97e97f7959c51e1b5947f7c4418", null ],
-    [ "healPct", "d3/db3/a26002.html#a33b4d26c34903e45b7274e369f096ce1", null ]
+    [ "CalculateAmount", "d3/db3/a26002.html#a0934aa8eaf442314aa6050d85304c15b", null ],
+    [ "CalculateSpellAmount", "d3/db3/a26002.html#ab765b87350bd3e73ac43879abef72d98", null ],
+    [ "PrepareAuraScript", "d3/db3/a26002.html#a627c6a88ed6ce051b0d6a06d94288498", null ],
+    [ "Register", "d3/db3/a26002.html#ae1b5265f817f1f4ec011d4e2607686eb", null ]
 ];

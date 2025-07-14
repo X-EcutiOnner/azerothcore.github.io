@@ -1,17 +1,14 @@
 var a22570 =
 [
-    [ "boss_ambassador_hellmaw", "d4/d7e/a22570.html#ae774dfa4379b7321ff194a796c9eb842", null ],
-    [ "AttackStart", "d4/d7e/a22570.html#aa072ff0e9ce6e68f3ba0b4e51fb92f04", null ],
-    [ "CanAIAttack", "d4/d7e/a22570.html#a35579b31dec1d0c110b459230ee129e4", null ],
-    [ "DoAction", "d4/d7e/a22570.html#a3cbd58fb11fe8d297907bb40d69e4ccb", null ],
-    [ "DoMeleeAttackIfReady", "d4/d7e/a22570.html#a8dd75d368f0f567561db45e1c53ad785", null ],
-    [ "InitializeAI", "d4/d7e/a22570.html#a9b0170a49751def614126265240bb87c", null ],
-    [ "JustDied", "d4/d7e/a22570.html#ae0e04500073a4c02c9656b4bcd63be9c", null ],
-    [ "JustEngagedWith", "d4/d7e/a22570.html#a9ea9d60b8fa90a228951a38fc2f59325", null ],
-    [ "KilledUnit", "d4/d7e/a22570.html#a5f7564ef25a36395cddf4e2c2dbc2dfc", null ],
-    [ "MoveInLineOfSight", "d4/d7e/a22570.html#af3949b46f82863af699396729e88928b", null ],
-    [ "PathEndReached", "d4/d7e/a22570.html#a46b9b96ec5e4c121d994560e85266dfe", null ],
-    [ "Reset", "d4/d7e/a22570.html#a4881f868ac11eb66f3d15b44c94938bf", null ],
-    [ "UpdateAI", "d4/d7e/a22570.html#a44dae5d6517e22dd2be399d08fa67a71", null ],
-    [ "isBanished", "d4/d7e/a22570.html#a4805244997c42f5791400c5b1f5e6204", null ]
+    [ "event_enter", "d4/d7e/a22570.html#ac80d575f14dca1c901be55e34cc690e1", null ],
+    [ "event_leave", "d4/d7e/a22570.html#a3dc0a11a5c06079026d27852e7561b74", null ],
+    [ "map_tower_a", "d4/d7e/a22570.html#a9a65209caac3791b835c1920f5a667cf", null ],
+    [ "map_tower_h", "d4/d7e/a22570.html#aa30ae484db7c69137abb13adb1b3c505", null ],
+    [ "map_tower_n", "d4/d7e/a22570.html#a0453edceab2132e900bec183e360e210", null ],
+    [ "slider_disp", "d4/d7e/a22570.html#aec3c8dde769675e3f436515c7a3bcf24", null ],
+    [ "slider_n", "d4/d7e/a22570.html#a65015a3a24a5554643ecb5da47e24eea", null ],
+    [ "slider_pos", "d4/d7e/a22570.html#acc63481f7613242ac06c6bee6c136a30", null ],
+    [ "ui_tower_a", "d4/d7e/a22570.html#a0107bfd3b1df99568e02d6ca80042c86", null ],
+    [ "ui_tower_h", "d4/d7e/a22570.html#a94a5fa0517fd0713b74f50a3d1d627cc", null ],
+    [ "ui_tower_n", "d4/d7e/a22570.html#ae0fd99db88e6c60b829a18ff8e4be9a0", null ]
 ];

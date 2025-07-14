@@ -1,7 +1,5 @@
 var a14538 =
 [
-    [ "OnPeriodic", "d2/dd0/a14538.html#a4ed63f32afe3831d7fb08333ff1d379f", null ],
-    [ "PrepareAuraScript", "d2/dd0/a14538.html#a74be4e2b0f9c6254a87a7cfb8159fc9b", null ],
-    [ "Register", "d2/dd0/a14538.html#aeb388d608830aeb3b30f707304403b41", null ],
-    [ "Validate", "d2/dd0/a14538.html#af27768000c5c3232a1264f4f1f2bd7b3", null ]
+    [ "achievement_pb_pilgrims_peril", "d2/dd0/a14538.html#a9516eab18d7e1401a5637913d8ec9595", null ],
+    [ "OnCheck", "d2/dd0/a14538.html#a78c92eab532448080c1d28dc8fcabaca", null ]
 ];

@@ -1,10 +1,13 @@
 var a28698 =
 [
-    [ "CheckProc", "d2/d7e/a28698.html#a257202ac9b80a67ce58d9e3491164d22", null ],
-    [ "HandleProc", "d2/d7e/a28698.html#aa3c74b25fbe63ac77e10260159adb8ca", null ],
-    [ "HandleTick", "d2/d7e/a28698.html#a5e436c530e5ef70bc4de4305676ed196", null ],
-    [ "PrepareAuraScript", "d2/d7e/a28698.html#aef7d1a2bbd59af36cc130f07e1204081", null ],
-    [ "Register", "d2/d7e/a28698.html#a11b0120ea8c8ccf1c96e5d1053d64895", null ],
-    [ "RemoveEffect", "d2/d7e/a28698.html#a333ad80d8478f59713ee049f935d7885", null ],
-    [ "Validate", "d2/d7e/a28698.html#aed3cb37f0230463978b210add84bd31d", null ]
+    [ "MPQArchive", "d2/d7e/a28698.html#a58d57322334966ca16a22e52e5198d9f", null ],
+    [ "~MPQArchive", "d2/d7e/a28698.html#a5bce22525ca16381fbb4729540a165e2", null ],
+    [ "MPQArchive", "d2/d7e/a28698.html#a58d57322334966ca16a22e52e5198d9f", null ],
+    [ "~MPQArchive", "d2/d7e/a28698.html#a5bce22525ca16381fbb4729540a165e2", null ],
+    [ "close", "d2/d7e/a28698.html#ac40182c8e52d70aa1f53325f1b48f259", null ],
+    [ "close", "d2/d7e/a28698.html#ac40182c8e52d70aa1f53325f1b48f259", null ],
+    [ "GetFileListTo", "d2/d7e/a28698.html#ab91bd82370a1ebcf6b46fc3047188640", null ],
+    [ "GetFileListTo", "d2/d7e/a28698.html#ab91bd82370a1ebcf6b46fc3047188640", null ],
+    [ "isOpened", "d2/d7e/a28698.html#a2026335b9ede29197acfaac8513456d5", null ],
+    [ "mpq_a", "d2/d7e/a28698.html#a72b9fb96b1e3db6c7be652e426978b4a", null ]
 ];

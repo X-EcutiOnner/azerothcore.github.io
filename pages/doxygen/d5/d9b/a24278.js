@@ -1,5 +1,5 @@
 var a24278 =
 [
-    [ "npc_pet_dk_army_of_the_deadAI", "d5/d9b/a24278.html#a2d934ed807d225f6b9f2206f0556f26d", null ],
-    [ "InitializeAI", "d5/d9b/a24278.html#af3ecec126ed3d902acd4bfe979382307", null ]
+    [ "npc_shattrath_daily_quest", "d5/d9b/a24278.html#ab6aa71e4738fdce1b59d379249a868d5", null ],
+    [ "DoAction", "d5/d9b/a24278.html#ac3e8c6de30ad7567fe5e52cd1ddfeb2c", null ]
 ];

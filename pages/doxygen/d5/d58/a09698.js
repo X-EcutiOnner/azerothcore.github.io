@@ -1,8 +1,6 @@
 var a09698 =
 [
-    [ "ServerMailCondition", "d5/d58/a09698.html#a2ee7d2f3587159c95883fe32674cb586", null ],
-    [ "CheckCondition", "d5/d58/a09698.html#a3c223658629357f05d8879555717f624", null ],
-    [ "state", "d5/d58/a09698.html#a309f739872afaf644331335b27649561", null ],
-    [ "type", "d5/d58/a09698.html#a3b318e7743ca48fcf8ba849398a06968", null ],
-    [ "value", "d5/d58/a09698.html#af709199aed99633cc70d9118ee4fd4fc", null ]
+    [ "LootValidatorRef", "d5/d58/a09698.html#acce3ced73583bf8dbf04232cddd6ebd8", null ],
+    [ "sourceObjectDestroyLink", "d5/d58/a09698.html#a8833022cf1acf786c06f1580fbe11c24", null ],
+    [ "targetObjectDestroyLink", "d5/d58/a09698.html#a93baac45dcb801215c28ac0dba097eba", null ]
 ];

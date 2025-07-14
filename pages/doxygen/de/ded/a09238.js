@@ -1,10 +1,9 @@
 var a09238 =
 [
-    [ "PlayerListSearcherWithSharedVision", "de/ded/a09238.html#aace01efe09c3190b81651d237e2e9a8a", null ],
-    [ "Visit", "de/ded/a09238.html#a5348d9887ebfd9c0a0016b31d3db8ffb", null ],
-    [ "Visit", "de/ded/a09238.html#a34c24d8e219b8dbbdf27c1d36489f3fa", null ],
-    [ "Visit", "de/ded/a09238.html#ac45ae498dc7f74426b66344d9367046a", null ],
-    [ "i_check", "de/ded/a09238.html#a7261e79c2980cfb61686c01254d70c8b", null ],
-    [ "i_objects", "de/ded/a09238.html#ac8e5495912121d8d3baac9d02e947815", null ],
-    [ "i_phaseMask", "de/ded/a09238.html#a9bd8d6c842ac2f4cf1f10441216f906c", null ]
+    [ "UnitListSearcher", "de/ded/a09238.html#a24c0de32dc3baa927962626421a343ae", null ],
+    [ "Visit", "de/ded/a09238.html#a83d86364ef2f9f9ed55b9bf9aa9bea0d", null ],
+    [ "Visit", "de/ded/a09238.html#a92f9b0407e609b6c61f10d93aa49912f", null ],
+    [ "Visit", "de/ded/a09238.html#a5fddd281a9f9cd10cf3948d4bf7b626f", null ],
+    [ "i_check", "de/ded/a09238.html#a508a47e6261e7ae6e5669aee853ff99e", null ],
+    [ "i_phaseMask", "de/ded/a09238.html#a43c863350bea423cf4a720c4c680fd4c", null ]
 ];

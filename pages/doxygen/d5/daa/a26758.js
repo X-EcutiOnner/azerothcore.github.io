@@ -1,8 +1,8 @@
 var a26758 =
 [
-    [ "ApplyEffect", "d5/daa/a26758.html#a0c303c58064236969e17d1f2df3e0556", null ],
-    [ "PrepareAuraScript", "d5/daa/a26758.html#a716a483282946f840ac15d73c6e21a94", null ],
-    [ "Register", "d5/daa/a26758.html#ad72816bc73bdb1cf578f3c4599ec1682", null ],
-    [ "RemoveEffect", "d5/daa/a26758.html#a571b1b19f4d5b13e54288aa89ab1e9b6", null ],
-    [ "Validate", "d5/daa/a26758.html#a99eb27ead6f5c8c8f569626600f2daf9", null ]
+    [ "CalcPeriodic", "d5/daa/a26758.html#a42770d7f7e5bd41cd3f0a283c544c642", null ],
+    [ "CalculateAmount", "d5/daa/a26758.html#a525009acb345d6b0a9857c30cfce2230", null ],
+    [ "HandlePeriodic", "d5/daa/a26758.html#a4c75f793388b533d00a52ad18f18bc6e", null ],
+    [ "PrepareAuraScript", "d5/daa/a26758.html#a5627212e48a3044a9a7480851787a839", null ],
+    [ "Register", "d5/daa/a26758.html#a09ea5265d7105a4bd487d383948901a0", null ]
 ];

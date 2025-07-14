@@ -1,6 +1,5 @@
 var a01301 =
 [
-    [ "AntiDosOpcodePolicy", "d3/dd0/a09032.html", "d3/dd0/a09032" ],
-    [ "WorldGlobals", "d4/d2b/a09036.html", "d4/d2b/a09036" ],
-    [ "sWorldGlobals", "d3/d07/a01301.html#abde160907db136b0b0c16309add3ae94", null ]
+    [ "Movement::SplineBase", "d7/de1/a10086.html", "d7/de1/a10086" ],
+    [ "Movement::Spline< length_type >", "d2/dc1/a10090.html", "d2/dc1/a10090" ]
 ];

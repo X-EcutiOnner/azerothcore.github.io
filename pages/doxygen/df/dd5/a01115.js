@@ -1,5 +1,5 @@
 var a01115 =
 [
-    [ "BuildPartyLockDungeonBlock", "df/dd5/a01115.html#ad66b117794d47e10cfd7ba8bd40d4291", null ],
-    [ "BuildPlayerLockDungeonBlock", "df/dd5/a01115.html#aded010efcdae2fc43acfab5ff8fbf4ad", null ]
+    [ "GuildMgr", "de/df7/a09570.html", "de/df7/a09570" ],
+    [ "sGuildMgr", "df/dd5/a01115.html#aef171903a38e30c347ff11360f682f81", null ]
 ];

@@ -1,7 +1,8 @@
 var a23746 =
 [
-    [ "HandleEffect", "de/d39/a23746.html#ac0fb38f62cc9a41eb70b2ca951f9d1dc", null ],
-    [ "PrepareSpellScript", "de/d39/a23746.html#abbbffa0a53dc2a55df5e7b17a7f4d38f", null ],
-    [ "Register", "de/d39/a23746.html#ac406946bb793125d49006e3a877c9638", null ],
-    [ "SelectTarget", "de/d39/a23746.html#ac36f3d88a0ef8ccaee5bac17bffcaf49", null ]
+    [ "boss_laj", "de/d39/a23746.html#a3c9323ab4b5530504588ea62aed2edff", null ],
+    [ "Reset", "de/d39/a23746.html#ace690a0662376addaa40093f3f119c31", null ],
+    [ "ScheduleTasks", "de/d39/a23746.html#a6bd0db1ed4c963cdceb681c84469b06c", null ],
+    [ "_lastTransform", "de/d39/a23746.html#a097eacaaf77a09bec087530bad587b11", null ],
+    [ "_transformContainer", "de/d39/a23746.html#a313e66ceeb4e359251dad65383e7f568", null ]
 ];

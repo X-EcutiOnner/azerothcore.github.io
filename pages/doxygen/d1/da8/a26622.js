@@ -1,6 +1,6 @@
 var a26622 =
 [
-    [ "HandleDummy", "d1/da8/a26622.html#af5bccd5dfb9aa37215b083438b6749ea", null ],
-    [ "PrepareSpellScript", "d1/da8/a26622.html#a6c2b858c893ed215d1192073b06db81d", null ],
-    [ "Register", "d1/da8/a26622.html#a1b23dc4a7a04e4c910bb738d45a8df1f", null ]
+    [ "HandlePeriodic", "d1/da8/a26622.html#af875d62dd47650c9f2e9c3a4508ed05b", null ],
+    [ "PrepareAuraScript", "d1/da8/a26622.html#a2efdcd0902e9cb5c47e285492dd93789", null ],
+    [ "Register", "d1/da8/a26622.html#ac90afe9f5d9d55faba2282a875469311", null ]
 ];

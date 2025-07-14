@@ -1,8 +1,6 @@
 var a12506 =
 [
-    [ "npc_kernobeeAI", "d9/d86/a12506.html#a9dfc478b7da1bf33463e3653aea3c4da", null ],
-    [ "SetGUID", "d9/d86/a12506.html#a34999b470697ba0a27701facd63625f8", null ],
-    [ "UpdateAI", "d9/d86/a12506.html#ae99836a836234ad441d6ac97c60d7fc6", null ],
-    [ "checkTimer", "d9/d86/a12506.html#ae4731b5dd7b92d6989b0960d88e1dc35", null ],
-    [ "playerGUID", "d9/d86/a12506.html#aca1009b03ee24200f5dbad788ec5c5c8", null ]
+    [ "instance_molten_core_InstanceMapScript", "d7/df8/a12510.html", "d7/df8/a12510" ],
+    [ "instance_molten_core", "d9/d86/a12506.html#ad83dac834feb2fcae872dfe09b833950", null ],
+    [ "GetInstanceScript", "d9/d86/a12506.html#ab7c794f1503f0ecad8d41ace72737a5d", null ]
 ];

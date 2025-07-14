@@ -1,7 +1,12 @@
 var a13618 =
 [
-    [ "npc_jaina_proudmoore_bfuAI", "d7/dc0/a13618.html#ad5ad1d05ef8210409c700e47b5442e24", null ],
-    [ "Reset", "d7/dc0/a13618.html#a18de805428ce0954a5fbfffbf5975342", null ],
-    [ "UpdateAI", "d7/dc0/a13618.html#a48b191d0812bfe3212511a52ef0df817", null ],
-    [ "_events", "d7/dc0/a13618.html#a87e99e0b5fd0a3823b009025019b1fa4", null ]
+    [ "npc_corporal_keeshanAI", "d7/dc0/a13618.html#aac5b72ede6e1496f80c4c2520e886efd", null ],
+    [ "Reset", "d7/dc0/a13618.html#a311488932a3de9153490d41e3fae92fb", null ],
+    [ "sQuestAccept", "d7/dc0/a13618.html#a52dd95c74b1457ad5b496b28fd183b06", null ],
+    [ "UpdateAI", "d7/dc0/a13618.html#a973cf65978e531dc8bd7db20fc2809b6", null ],
+    [ "WaypointReached", "d7/dc0/a13618.html#a3edc9ab54068e47f955116db70454f6c", null ],
+    [ "mockingBlowTimer", "d7/dc0/a13618.html#a21cd1ca86864b8507d43e5a1c4c13e0c", null ],
+    [ "phase", "d7/dc0/a13618.html#ae79dcfdb10738d673e8c1aebc6abdee6", null ],
+    [ "shieldBashTimer", "d7/dc0/a13618.html#abb5eaa25a77dd3e6dfff7aaa0aa6c375", null ],
+    [ "timer", "d7/dc0/a13618.html#a3107368f175aa7f4e8c405248ef917df", null ]
 ];

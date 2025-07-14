@@ -1,7 +1,10 @@
 var a00953 =
 [
-    [ "OutdoorPvPData", "db/dfb/a10087.html", "db/dfb/a10087" ],
-    [ "OutdoorPvPMgr", "dc/de2/a10091.html", "dc/de2/a10091" ],
-    [ "OUTDOORPVP_OBJECTIVE_UPDATE_INTERVAL", "d5/da3/a00953.html#af3942e94a2b618e59d9a607df883023b", null ],
-    [ "sOutdoorPvPMgr", "d5/da3/a00953.html#a7f16e829e6dd717c8a6a20fd1aa783cc", null ]
+    [ "GetGameTime", "d5/da3/a00953.html#adbe1785d1327dedf2ac403b7cc8e99c2", null ],
+    [ "GetGameTimeMS", "d5/da3/a00953.html#a6d0d49f37e25e497391157b2a2ec90c1", null ],
+    [ "GetStartTime", "d5/da3/a00953.html#a872d34d3f9d420cfc749073c809931f9", null ],
+    [ "GetSystemTime", "d5/da3/a00953.html#a443eccf314fe436192278d425d6d8220", null ],
+    [ "GetUptime", "d5/da3/a00953.html#ae2ff9233756dd88fa1aafcc1e1c0be4d", null ],
+    [ "Now", "d5/da3/a00953.html#ae5cc9f17fc6b8b15c678fa7a84a6e117", null ],
+    [ "UpdateGameTimers", "d5/da3/a00953.html#a45712735241c9563a12fc3da54fb144d", null ]
 ];

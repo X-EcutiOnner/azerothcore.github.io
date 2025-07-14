@@ -1,8 +1,9 @@
 var a14022 =
 [
-    [ "boss_venoxis", "d0/dcb/a14022.html#a3e91a9022163a726cbc077d38459a5f5", null ],
-    [ "InitializeAI", "d0/dcb/a14022.html#a1373b5fc673fce6aea1de40d970ac00d", null ],
-    [ "JustDied", "d0/dcb/a14022.html#a63ccc5a9520ee30b0ebaf8c4d31e59b8", null ],
-    [ "JustEngagedWith", "d0/dcb/a14022.html#afaa68ffbd5fecae48a044009326bcaed", null ],
-    [ "Reset", "d0/dcb/a14022.html#a40cbcd4d41ff85ff71d5d913d8e62368", null ]
+    [ "npc_shade_of_jindo", "d0/dcb/a14022.html#a86fa95e806aea21fd6db332ea3f18a02", null ],
+    [ "IsSummonedBy", "d0/dcb/a14022.html#aaf4eed2de98601844a32fec159f2f5fc", null ],
+    [ "JustEngagedWith", "d0/dcb/a14022.html#a450f887c97cfa3ebce91ebd058ed9849", null ],
+    [ "Reset", "d0/dcb/a14022.html#abc18dabb6f4f0b85a3b5b2e6f830804f", null ],
+    [ "UpdateAI", "d0/dcb/a14022.html#a1aca8192c0655c0ab359f49448f8fafd", null ],
+    [ "_scheduler", "d0/dcb/a14022.html#a1d74d8113f5ef117b2968f8f864fcaf4", null ]
 ];

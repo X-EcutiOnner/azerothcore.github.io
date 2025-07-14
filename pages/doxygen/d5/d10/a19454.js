@@ -1,6 +1,6 @@
 var a19454 =
 [
-    [ "boss_krystallusAI", "dc/d3f/a19458.html", "dc/d3f/a19458" ],
-    [ "boss_krystallus", "d5/d10/a19454.html#a1d7453c9d67594bfdbd650fea897666a", null ],
-    [ "GetAI", "d5/d10/a19454.html#aba14bcfa00a5d997959abd94af647bf4", null ]
+    [ "PrepareSpellScript", "d5/d10/a19454.html#a65c3b2c9a416b7d1bbd3c14057e5f8fc", null ],
+    [ "Register", "d5/d10/a19454.html#ad8470ed0d09c2b7e79fa4ecb1867e9bf", null ],
+    [ "SetDest", "d5/d10/a19454.html#a24341aae14ed77101d4c31f2fbe11463", null ]
 ];

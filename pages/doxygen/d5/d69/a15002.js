@@ -1,9 +1,6 @@
 var a15002 =
 [
-    [ "npc_giant_eye_tentacle", "d5/d69/a15002.html#a1adebf586a8a4413bb048936b90ddd3c", null ],
-    [ "JustDied", "d5/d69/a15002.html#a72cac50a711868256a41c543d0cef3da", null ],
-    [ "JustEngagedWith", "d5/d69/a15002.html#ac26b16e709e62c429b7ca88815bbc4cd", null ],
-    [ "Reset", "d5/d69/a15002.html#a4e605a585099d136d8f6bd42b6450f1d", null ],
-    [ "UpdateAI", "d5/d69/a15002.html#aacae6ea2616af2ad9515167fc1bab61d", null ],
-    [ "_portalGUID", "d5/d69/a15002.html#af9784b6d00e50ec28ed27361aaf3442f", null ]
+    [ "go_ossirian_crystalAI", "dd/d34/a15006.html", "dd/d34/a15006" ],
+    [ "go_ossirian_crystal", "d5/d69/a15002.html#a783f0f0570ee0f667920e29613b565b2", null ],
+    [ "GetAI", "d5/d69/a15002.html#a2f7b12eddc6504917614913e347ec0a0", null ]
 ];

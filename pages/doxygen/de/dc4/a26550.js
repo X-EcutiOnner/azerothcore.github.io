@@ -1,8 +1,10 @@
 var a26550 =
 [
-    [ "FilterTargets", "de/dc4/a26550.html#a3766e5ed1f75c242f45b24c90eef7e11", null ],
-    [ "HandleDummy", "de/dc4/a26550.html#a2214b10da042a3af2fd3311872cc5286", null ],
-    [ "PrepareSpellScript", "de/dc4/a26550.html#a9959966856601f79a83931a7a7ecff91", null ],
-    [ "Register", "de/dc4/a26550.html#a6ac1d4f1d82aabb39526aca92636a41f", null ],
-    [ "Validate", "de/dc4/a26550.html#a67d4b92cc494b6081247a90e8d4c9628", null ]
+    [ "CheckProc", "de/dc4/a26550.html#a5971c42af47d1cc8045a130deb218a04", null ],
+    [ "HandleProc", "de/dc4/a26550.html#a45aaf5afebc2fa533240fcf8233430ed", null ],
+    [ "Load", "de/dc4/a26550.html#a7664b0f67c9e3b14841ed9e30447544d", null ],
+    [ "PrepareAuraScript", "de/dc4/a26550.html#a291fcf1af497d1e83a31209cd01a360d", null ],
+    [ "Register", "de/dc4/a26550.html#af16d0517ad07a454145da0b92c051740", null ],
+    [ "Validate", "de/dc4/a26550.html#ac768a5f4738dee9ad7d885fa6136785e", null ],
+    [ "_procTargetGUID", "de/dc4/a26550.html#a13976d069846f29d2f744f3f03502787", null ]
 ];

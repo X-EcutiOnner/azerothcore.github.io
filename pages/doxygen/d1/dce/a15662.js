@@ -1,7 +1,7 @@
 var a15662 =
 [
-    [ "go_troll_cageAI", "d1/dce/a15662.html#ae742afdb7a37d64bb852b7ecd076d007", null ],
-    [ "GossipHello", "d1/dce/a15662.html#a5c91cb491021b15ba70cc8ef5f07d037", null ],
-    [ "initBlyCrewMember", "d1/dce/a15662.html#a6bfb77ec97367d8704885acfef801b74", null ],
-    [ "instance", "d1/dce/a15662.html#ad5d736dd6cbe7a23d03f21004cae530d", null ]
+    [ "npc_paoka_swiftmountainAI", "d6/d94/a15666.html", "d6/d94/a15666" ],
+    [ "npc_paoka_swiftmountain", "d1/dce/a15662.html#abb3f6fab7cca158c2e139159430f880a", null ],
+    [ "GetAI", "d1/dce/a15662.html#a3f41d2caae5acb4b79bcc75780db03d2", null ],
+    [ "OnQuestAccept", "d1/dce/a15662.html#a5bd4442350daf5a19bee1037a1b4d7b3", null ]
 ];

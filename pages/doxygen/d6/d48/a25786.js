@@ -1,9 +1,7 @@
 var a25786 =
 [
-    [ "OnEffectHitTargetDisarm", "d6/d48/a25786.html#ae8ce5a315886ede30eda7d3682e4ef06", null ],
-    [ "OnEffectHitTargetStun", "d6/d48/a25786.html#a5a5253b6d152b1af78de663c09451536", null ],
-    [ "OnEffectLaunchTargetDisarm", "d6/d48/a25786.html#a2bbcf5ee2d41362c80a4649a4cf7e260", null ],
-    [ "OnEffectLaunchTargetStun", "d6/d48/a25786.html#ac3d5052bf045082fb8bc02c72a0dba39", null ],
-    [ "PrepareSpellScript", "d6/d48/a25786.html#a113219d3376a23f8889f26f10744e7cb", null ],
-    [ "Register", "d6/d48/a25786.html#a12ef13dbc3e9cd95fb1d57bf393735e3", null ]
+    [ "HandleDummy", "d6/d48/a25786.html#a630b3359dcecdb65992df67fbc4b197b", null ],
+    [ "PrepareSpellScript", "d6/d48/a25786.html#a9960211eda513e642a386e0ff3bcd4c5", null ],
+    [ "Register", "d6/d48/a25786.html#aaa1c9db89ddd7a7590b3b41b377d4cec", null ],
+    [ "Validate", "d6/d48/a25786.html#a9af89aba8006d93b8c0ae2ce7143255e", null ]
 ];

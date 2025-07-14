@@ -1,5 +1,5 @@
 var a05270 =
 [
-    [ "Head", "de/d4f/a05270.html#ac5c6d38e71241055f58984e88368494a", null ],
-    [ "Tail", "de/d4f/a05270.html#a8b16ba737e930ebc023b8cea8231f678", null ]
+    [ "_elements", "de/d4f/a05270.html#adca71d306b9b5ee6b1dc0dc75cec1f2c", null ],
+    [ "_TailElements", "de/d4f/a05270.html#a7d3b640a8d68089436c3792b3db088f1", null ]
 ];

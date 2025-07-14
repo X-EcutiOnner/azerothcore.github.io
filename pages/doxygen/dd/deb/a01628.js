@@ -1,5 +1,4 @@
 var a01628 =
 [
-    [ "MotdMgr", "db/d25/a09888.html", "db/d25/a09888" ],
-    [ "sMotdMgr", "dd/deb/a01628.html#a0ad6ba4db6e433e72e172e659af2cada", null ]
+    [ "ScriptRegistry< ConditionScript >", "dd/deb/a01628.html#af6b3c804d07f366580a1a5b9dd95f5fd", null ]
 ];

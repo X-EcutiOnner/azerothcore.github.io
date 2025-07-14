@@ -1,10 +1,6 @@
 var a12350 =
 [
-    [ "boss_golemaggAI", "da/d26/a12350.html#a79e2416a55a1531316d891ebff4e5575", null ],
-    [ "DamageTaken", "da/d26/a12350.html#a5f9191609c7ff0715ba186f8ae28262b", null ],
-    [ "Reset", "da/d26/a12350.html#aeed4cda9fae3e0b46832ec1bfecb97b0", null ],
-    [ "UpdateAI", "da/d26/a12350.html#af7b322731241dbb08041a92cd355f273", null ],
-    [ "earthquakeTimer", "da/d26/a12350.html#a6bfd75b1d57d8002cab075bbd5a12612", null ],
-    [ "enraged", "da/d26/a12350.html#a52e6d8bcf979d216aff536e8fae3bf01", null ],
-    [ "pyroblastTimer", "da/d26/a12350.html#a142ededff85d517c08744bdafd644c34", null ]
+    [ "boss_baron_geddonAI", "d8/d14/a12354.html", "d8/d14/a12354" ],
+    [ "boss_baron_geddon", "da/d26/a12350.html#ad72caf30219b4295c0be4289b9d25498", null ],
+    [ "GetAI", "da/d26/a12350.html#a8f328680a5f99fb275cb0b3e8adf9c63", null ]
 ];

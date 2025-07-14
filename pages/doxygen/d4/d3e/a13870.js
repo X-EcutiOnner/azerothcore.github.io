@@ -1,5 +1,8 @@
 var a13870 =
 [
-    [ "at_zulgurub_entrance_speech", "d4/d3e/a13870.html#afef11c6a7e97befd07072826fa13be55", null ],
-    [ "_OnTrigger", "d4/d3e/a13870.html#a55cda55ed70c63f2a0b2ce39b2ffc0a5", null ]
+    [ "npc_zulaman_hostageAI", "d6/dae/a13874.html", "d6/dae/a13874" ],
+    [ "npc_zulaman_hostage", "d4/d3e/a13870.html#a12f9ad1889cacb60103c1e921c2fa0e9", null ],
+    [ "GetAI", "d4/d3e/a13870.html#a0ae144dc154dd028b409c9d2393f890c", null ],
+    [ "OnGossipHello", "d4/d3e/a13870.html#a89d68a976f916a4de2196b57ec0026b0", null ],
+    [ "OnGossipSelect", "d4/d3e/a13870.html#a114f6fbfab90944fd49babcba4b48a11", null ]
 ];

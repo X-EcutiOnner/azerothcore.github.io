@@ -1,6 +1,5 @@
 var a10494 =
 [
-    [ "QueryGuildInfo", "de/da7/a10494.html#a34b129b3c9fef61aa4211a9bc2783aef", null ],
-    [ "Read", "de/da7/a10494.html#a0396a58ca114706f7de91f51c5ab949d", null ],
-    [ "GuildId", "de/da7/a10494.html#ad221eecdb16233251306fff3d9801f38", null ]
+    [ "LogoutCancelAck", "de/da7/a10494.html#a2c261c1cdd4c29658c5160e8fe44ac58", null ],
+    [ "Write", "de/da7/a10494.html#a12f9e56c2ee59f5a084e8aef3fdfad97", null ]
 ];

@@ -1,6 +1,6 @@
 var a20094 =
 [
-    [ "npc_ulduar_toasty_fireAI", "dd/d59/a20094.html#a145001c6f1c1d505f810ae545ec62c69", null ],
-    [ "DoAction", "dd/d59/a20094.html#a8ab71582cc5d8386f788fb95203fbab5", null ],
-    [ "SpellHit", "dd/d59/a20094.html#a0e4475382dfd754dc119d2e8dba61b7e", null ]
+    [ "boss_freya_nature_bombAI", "d8/dd1/a20098.html", "d8/dd1/a20098" ],
+    [ "boss_freya_nature_bomb", "dd/d59/a20094.html#a18fa6ff862a1b367ac23eb1b7bda0ed4", null ],
+    [ "GetAI", "dd/d59/a20094.html#a73e24282c6bb29cf3f6a7da14a4de582", null ]
 ];

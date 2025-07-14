@@ -1,10 +1,9 @@
 var a08050 =
 [
-    [ "FormationMgr", "d3/d02/a08050.html#ade1aa22473c112aed65d537929b07908", null ],
-    [ "~FormationMgr", "d3/d02/a08050.html#a8f3ee00e25ebacfb71b71b9e7d63f6e0", null ],
-    [ "AddCreatureToGroup", "d3/d02/a08050.html#aef758bdbc8f93c8981aedd51d7e10a07", null ],
-    [ "instance", "d3/d02/a08050.html#a871fec234a94e4adae07315a008acec3", null ],
-    [ "LoadCreatureFormations", "d3/d02/a08050.html#af0ecde62fc5c4a3a2b3be16c58f51fde", null ],
-    [ "RemoveCreatureFromGroup", "d3/d02/a08050.html#a6ecac2b9dcdc8db2cd7a0bd1be0fd364", null ],
-    [ "CreatureGroupMap", "d3/d02/a08050.html#ac11a3dfbe6a4f7df01d966f14b0aecd9", null ]
+    [ "VendorItem", "d3/d02/a08050.html#ae79c26c304bee575a722f8a82fc79fd2", null ],
+    [ "IsGoldRequired", "d3/d02/a08050.html#a5f335ffdb5d82418cdb4eb7a606692c1", null ],
+    [ "ExtendedCost", "d3/d02/a08050.html#a18234f38ff242b8687265f9acf70dbe0", null ],
+    [ "incrtime", "d3/d02/a08050.html#afe3bb3324faf1beae6ee17c223678e9b", null ],
+    [ "item", "d3/d02/a08050.html#a6b26a96440c885684c173ee17d788896", null ],
+    [ "maxcount", "d3/d02/a08050.html#a98be1e0499d9ae9cfb176063991f72ee", null ]
 ];

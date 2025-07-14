@@ -1,7 +1,6 @@
 var a16514 =
 [
-    [ "HandleAfterEffectAbsorb", "dc/d25/a16514.html#a6999f9cade8d00da15073c1e1b37d07b", null ],
-    [ "PrepareAuraScript", "dc/d25/a16514.html#a2374af6552e5aca9dd01681d5ad06a83", null ],
-    [ "Register", "dc/d25/a16514.html#a7478b0448cafc10d2b2498d2fdbd5afc", null ],
-    [ "Validate", "dc/d25/a16514.html#a52154be21f31d69e7e9b10e57f8eeb05", null ]
+    [ "npc_fel_infernalAI", "d6/dff/a16518.html", "d6/dff/a16518" ],
+    [ "npc_fel_infernal", "dc/d25/a16514.html#a2d2ed8cf09c97d30b6c79dcdf9153ed9", null ],
+    [ "GetAI", "dc/d25/a16514.html#a768201a7516c9972800c941cf2079a11", null ]
 ];

@@ -1,7 +1,6 @@
 var a23914 =
 [
-    [ "HandleDummy", "dc/dd9/a23914.html#a08f2f0aef00ce075572ff84643905a0a", null ],
-    [ "PrepareSpellScript", "dc/dd9/a23914.html#ac1aacfbd71224d80eaed0b9a76ff673f", null ],
-    [ "Register", "dc/dd9/a23914.html#a2046ac7f24989ff0bf50a3ee66dda104", null ],
-    [ "Validate", "dc/dd9/a23914.html#aded9f2e46cc3bf46f5699ce6fdf154ba", null ]
+    [ "HandleDummy", "dc/dd9/a23914.html#a4c1177fc89310598b6ba7cddf7f47cd1", null ],
+    [ "PrepareSpellScript", "dc/dd9/a23914.html#af511bcad63ff423bf04a430f56959f40", null ],
+    [ "Register", "dc/dd9/a23914.html#adaa4fc5294e2b0cb5bcb42f1a93a6f29", null ]
 ];

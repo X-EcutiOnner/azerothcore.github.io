@@ -1,15 +1,10 @@
 var a22106 =
 [
-    [ "npc_jungle_punch_targetAI", "d8/de8/a22106.html#a04f09361f6bc4bc752ca773878187f79", null ],
-    [ "MoveInLineOfSight", "d8/de8/a22106.html#adc08551a256220bab144ef26d89c4263", null ],
-    [ "proceedCwEvent", "d8/de8/a22106.html#a54f8a5c7414f4a9fd019e02fede1970d", null ],
-    [ "Reset", "d8/de8/a22106.html#a56faff3edbe0d13969e8d20e6c3e03a2", null ],
-    [ "SpellHit", "d8/de8/a22106.html#a3515e873adf5a097f66764887e3cc5a3", null ],
-    [ "UpdateAI", "d8/de8/a22106.html#afa2a1bcdeef51e9f984307f576a1ff6e", null ],
-    [ "orphanGUID", "d8/de8/a22106.html#a5947a4415b63f8bbda4d53c44ccebf74", null ],
-    [ "phase", "d8/de8/a22106.html#a737a9016c93d621bf8cfa29d6b66b345", null ],
-    [ "playerGUID", "d8/de8/a22106.html#afbb4e4c74c2634a442171f06bb2eff08", null ],
-    [ "sayStep", "d8/de8/a22106.html#a1b1757dd6e0775f1f4791b4feafd86fb", null ],
-    [ "sayTimer", "d8/de8/a22106.html#a4edf558dbc54ff1acab15d6daf0a5613", null ],
-    [ "timer", "d8/de8/a22106.html#a0fa884bf3003267501f048d3f1287d42", null ]
+    [ "npc_infra_green_bomber_genericAI", "d8/de8/a22106.html#aed712ea3625971e059e2ecd158227287", null ],
+    [ "DamageTaken", "d8/de8/a22106.html#a8f860368df96e430b441c8316db99c93", null ],
+    [ "GetSummoner", "d8/de8/a22106.html#aaf7b91ce2bbf65c3f6c4bd41f04682bc", null ],
+    [ "IsSummonedBy", "d8/de8/a22106.html#a79676717b7c6219ea74ebe5a580eab28", null ],
+    [ "SpreadFire", "d8/de8/a22106.html#a5727c839b7dd02ea64eccce3606688d1", null ],
+    [ "UpdateAI", "d8/de8/a22106.html#a252875777655e963965676a24c15e766", null ],
+    [ "events", "d8/de8/a22106.html#ae8795439197b9cbfb70bbf5a672b8019", null ]
 ];

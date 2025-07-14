@@ -1,11 +1,10 @@
 var a25182 =
 [
-    [ "spell_gen_consume", "d4/dfc/a25182.html#a839f5e891cfbd0f83937f06c7fd049d4", null ],
-    [ "AfterRemove", "d4/dfc/a25182.html#ac521cc1524ddb9dd298145f23cc8fcd1", null ],
-    [ "HandleProc", "d4/dfc/a25182.html#af69251aa0415a2148162f32dd9113917", null ],
-    [ "PrepareAuraScript", "d4/dfc/a25182.html#a43860e5dcb2d2cb49e52c280d4f3c7e9", null ],
-    [ "Register", "d4/dfc/a25182.html#a043362a08bcf9cfe253dd23c722a60bc", null ],
-    [ "Validate", "d4/dfc/a25182.html#ae9b7c2f4a1b8f26a20b5ca6d90d3c5e9", null ],
-    [ "_spellId1", "d4/dfc/a25182.html#a9763527e0a95c52888847b84d8f1dd8d", null ],
-    [ "_spellId2", "d4/dfc/a25182.html#aa9b47c361eaad7dac4725e0be1bfe254", null ]
+    [ "spell_gen_summon_elemental", "d4/dfc/a25182.html#ae2dece3ac20afe16430e741fab909fa1", null ],
+    [ "AfterApply", "d4/dfc/a25182.html#a97fbc7e3f60b6aae5d9783bbd9a2415d", null ],
+    [ "AfterRemove", "d4/dfc/a25182.html#aeec3688e66a7e9f0207b219e9dcdb265", null ],
+    [ "PrepareAuraScript", "d4/dfc/a25182.html#a3ad6e5615bb080abae4e18673cd40b6d", null ],
+    [ "Register", "d4/dfc/a25182.html#ac364e1a3c4b5a1cfd35d8dcec0a42345", null ],
+    [ "Validate", "d4/dfc/a25182.html#ac2284d4f192fe402ebcf6ad75e777c2a", null ],
+    [ "_spellId", "d4/dfc/a25182.html#a6ac27b65f909a8c832cf3d301c8db0ce", null ]
 ];

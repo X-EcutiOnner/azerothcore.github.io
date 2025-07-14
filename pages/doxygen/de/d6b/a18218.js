@@ -1,6 +1,7 @@
 var a18218 =
 [
-    [ "HandleScript", "de/d6b/a18218.html#a9489c3454830d3826cb077c95947bf2d", null ],
-    [ "PrepareSpellScript", "de/d6b/a18218.html#a19492e616ac6e69187bca4499175071e", null ],
-    [ "Register", "de/d6b/a18218.html#a3446174d3308f535c27581b63ade9e8a", null ]
+    [ "HandleScript", "de/d6b/a18218.html#aef02c7f9ee2a5dda9f6b18d8aa386759", null ],
+    [ "PrepareSpellScript", "de/d6b/a18218.html#acbfd8657da20f2e91a9ef43cab7c4113", null ],
+    [ "Register", "de/d6b/a18218.html#ad83d563da98ad189f2198a061b1cd50f", null ],
+    [ "Validate", "de/d6b/a18218.html#a8f371bdbc57624c295efb14e2ca067c5", null ]
 ];

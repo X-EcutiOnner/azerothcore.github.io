@@ -1,7 +1,6 @@
 var a12394 =
 [
-    [ "HandleHit", "db/d64/a12394.html#a87777dce0e2bf1deba600b3ae7ce6b9c", null ],
-    [ "Load", "db/d64/a12394.html#ab61b4076aab18c0a6593c234209a2c1d", null ],
-    [ "PrepareSpellScript", "db/d64/a12394.html#a9fb8d980381264a2ef645f2e620abd21", null ],
-    [ "Register", "db/d64/a12394.html#a4998015873f0e0ca768c20b0f95fda90", null ]
+    [ "boss_gehennasAI", "db/d64/a12394.html#aaefd1f10d03957477863df95143a95a9", null ],
+    [ "ExecuteEvent", "db/d64/a12394.html#a1568cecdacc6afee23b4661c3dc0ae2b", null ],
+    [ "JustEngagedWith", "db/d64/a12394.html#ad932bb3d7079f53cf1bb2b7ad143b15d", null ]
 ];

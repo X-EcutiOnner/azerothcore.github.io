@@ -1,6 +1,7 @@
 var a11930 =
 [
-    [ "boss_gloomrel", "d9/de9/a11930.html#ad655acba7b2d88779f849a685bb9fbb7", null ],
-    [ "OnGossipHello", "d9/de9/a11930.html#a6ce6898142d767a130ec09769f2be488", null ],
-    [ "OnGossipSelect", "d9/de9/a11930.html#ab7c623cdd2301f3a0a74d6b1e187a8c5", null ]
+    [ "boss_grizzleAI", "d9/de9/a11930.html#a3310892cafc2a8e022105f77258b25af", null ],
+    [ "JustEngagedWith", "d9/de9/a11930.html#a598e7e7d6bdd847bf01968116988a935", null ],
+    [ "UpdateAI", "d9/de9/a11930.html#a2dc5c27cd4eaf2aa1484a370a68e3314", null ],
+    [ "nextTremorTime", "d9/de9/a11930.html#aa392b5a5db08d8676614923ae4838d05", null ]
 ];

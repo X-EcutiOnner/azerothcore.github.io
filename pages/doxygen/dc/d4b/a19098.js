@@ -1,5 +1,6 @@
 var a19098 =
 [
-    [ "npc_mr_bigglesworth", "dc/d4b/a19098.html#a51e81be4146e8e40a82ecf4018cb955d", null ],
-    [ "JustDied", "dc/d4b/a19098.html#a3d5957253ef3af4f48f5bfaf4d93ce0f", null ]
+    [ "boss_maexxna_webwrapAI", "de/d7f/a19102.html", "de/d7f/a19102" ],
+    [ "boss_maexxna_webwrap", "dc/d4b/a19098.html#afebd8c00234fe6cdd93af8ae443bb637", null ],
+    [ "GetAI", "dc/d4b/a19098.html#a6d86d58a86b831a219ecc598044be4f3", null ]
 ];

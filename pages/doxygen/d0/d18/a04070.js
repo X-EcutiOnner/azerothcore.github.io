@@ -1,9 +1,6 @@
 var a04070 =
 [
-    [ "OutdoorPvP_hellfire_peninsula", "dd/d18/a22484.html", "dd/d18/a22484" ],
-    [ "AddSC_outdoorpvp_hp", "d0/d18/a04070.html#a69303ad6f661d8c009ee493dc4fd486c", null ],
-    [ "HP_LANG_CAPTURE_A", "d0/d18/a04070.html#a642fe1233b764402bae812604b684442", null ],
-    [ "HP_LANG_CAPTURE_H", "d0/d18/a04070.html#a3ae9bb2c949b7f3c852ce2e4552d8ccd", null ],
-    [ "HP_LANG_LOSE_A", "d0/d18/a04070.html#a1b9adf9c71e549e4545c2e4eabe58dd5", null ],
-    [ "HP_LANG_LOSE_H", "d0/d18/a04070.html#ad62cd8f07ac98311202494985c6ae9c8", null ]
+    [ "instance_the_stockade", "d4/df0/a13462.html", "d4/df0/a13462" ],
+    [ "instance_the_stockade::instance_the_stockade_InstanceMapScript", "d0/d4d/a13466.html", "d0/d4d/a13466" ],
+    [ "AddSC_instance_the_stockade", "d0/d18/a04070.html#a185a86af6f910845f0f833704f0101af", null ]
 ];

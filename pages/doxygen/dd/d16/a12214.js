@@ -1,13 +1,6 @@
 var a12214 =
 [
-    [ "boss_nefarian", "dd/d16/a12214.html#ac8ea4f24ed97cace4630d4720b1acf47", null ],
-    [ "JustDied", "dd/d16/a12214.html#a4a0a4cf4ee63ce744ffb580747f992b9", null ],
-    [ "JustEngagedWith", "dd/d16/a12214.html#a6a547ba5aea4d5af2a621e5d97ceae43", null ],
-    [ "KilledUnit", "dd/d16/a12214.html#a6fdf265e453deb8f9a4214beacf3dbab", null ],
-    [ "MovementInform", "dd/d16/a12214.html#a0eea749c0392a7713e372cc1f236cdcd", null ],
-    [ "PathEndReached", "dd/d16/a12214.html#a45ec4ab3cdf9b4de91a9ae682f3335e8", null ],
-    [ "Reset", "dd/d16/a12214.html#a5d687fce34b17e22c605c263395e823b", null ],
-    [ "UpdateAI", "dd/d16/a12214.html#a205c9b1d4116fbd0a1ca972f39094abc", null ],
-    [ "_introDone", "dd/d16/a12214.html#a5710c721f3a24762b8cc3e79e6a14951", null ],
-    [ "classesPresent", "dd/d16/a12214.html#acffc9b31a0a50ee5701c272e32c912c6", null ]
+    [ "go_chromaggus_leverAI", "d4/d2d/a12218.html", "d4/d2d/a12218" ],
+    [ "go_chromaggus_lever", "dd/d16/a12214.html#a88f8078cd5aa1863ca20c9b02a0e52d2", null ],
+    [ "GetAI", "dd/d16/a12214.html#ae307b36029147b8385b3c40878d1a3e4", null ]
 ];

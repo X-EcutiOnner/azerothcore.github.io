@@ -1,6 +1,6 @@
 var a16158 =
 [
-    [ "npc_black_knight_skeletal_gryphonAI", "d0/d1f/a16162.html", "d0/d1f/a16162" ],
-    [ "npc_black_knight_skeletal_gryphon", "df/d0b/a16158.html#a5dc83a92fbe2eb4d6faa30f23a9ac777", null ],
-    [ "GetAI", "df/d0b/a16158.html#aad244f95877a208b56a2b6544984d724", null ]
+    [ "OnSummon", "df/d0b/a16158.html#ae2766d12fb686356b46126848f356c5a", null ],
+    [ "PrepareSpellScript", "df/d0b/a16158.html#a6b9af3b70d2ce07fe8aee5292367a982", null ],
+    [ "Register", "df/d0b/a16158.html#a717394bfbea621ae637f9e87efddda62", null ]
 ];

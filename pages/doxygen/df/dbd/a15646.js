@@ -1,6 +1,7 @@
 var a15646 =
 [
-    [ "HandleOpenLock", "df/dbd/a15646.html#a32bfb203e9ecfbcfa75f6c3e7a17fade", null ],
-    [ "PrepareSpellScript", "df/dbd/a15646.html#a646a42455b6a46c9f7cbb4b0229122cd", null ],
-    [ "Register", "df/dbd/a15646.html#a5dcac6f609ec93074ec3ce195101f592", null ]
+    [ "npc_wizzlecrank_shredderAI", "d8/dd5/a15650.html", "d8/dd5/a15650" ],
+    [ "npc_wizzlecrank_shredder", "df/dbd/a15646.html#a56a29a61d6f1a5981019f6c059b4da64", null ],
+    [ "GetAI", "df/dbd/a15646.html#a5c42cc6d8cf2642333731138077af66e", null ],
+    [ "OnQuestAccept", "df/dbd/a15646.html#afcd5aaea5234b6510825d9ce5e809aa6", null ]
 ];

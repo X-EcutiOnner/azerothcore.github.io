@@ -1,9 +1,10 @@
 var a14870 =
 [
-    [ "npc_buru_egg", "df/db4/a14870.html#a6aa2896342b802caecde1c1dffcf4907", null ],
-    [ "JustDied", "df/db4/a14870.html#a3de169b252374f0b2daed3ecb5a11502", null ],
-    [ "JustEngagedWith", "df/db4/a14870.html#a8cde6848569671876a17b00d75228ebe", null ],
-    [ "JustSummoned", "df/db4/a14870.html#abebb96dcb3d653bddd4210da6567fb87", null ],
-    [ "UpdateAI", "df/db4/a14870.html#a4d77f8b40ea8e936c9388aeff4927420", null ],
-    [ "_instance", "df/db4/a14870.html#a5b168226755a57368f17827e3457a0ca", null ]
+    [ "instance_maraudon_InstanceMapScript", "df/db4/a14870.html#a9c46508320d3973006561444feae0586", null ],
+    [ "Initialize", "df/db4/a14870.html#a61cb2b2bf09bb997457bc01a41e092e9", null ],
+    [ "OnGameObjectCreate", "df/db4/a14870.html#a3a287b97db58c3489815f20ee0d37977", null ],
+    [ "ReadSaveDataMore", "df/db4/a14870.html#ac2cd336874b25ad20dac104037de1df5", null ],
+    [ "SetData", "df/db4/a14870.html#a6e90bf60a076c164e432128f7ec62fba", null ],
+    [ "WriteSaveDataMore", "df/db4/a14870.html#a6e4072342e66689d343912de85e66b34", null ],
+    [ "_encounters", "df/db4/a14870.html#af2e752a791d75e50001060c4a9f18173", null ]
 ];

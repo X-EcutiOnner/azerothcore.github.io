@@ -1,7 +1,6 @@
 var a25598 =
 [
-    [ "HandleDummy", "de/de5/a25598.html#a3f9d43d11b344e3eb02fdc088506008e", null ],
-    [ "PrepareSpellScript", "de/de5/a25598.html#a1fb13b562c5d4f905739e193bc5292dd", null ],
-    [ "Register", "de/de5/a25598.html#a581e04721eb9564d1300ddd78c805368", null ],
-    [ "Validate", "de/de5/a25598.html#a18a648ebf1dbc9a11d09e457a33d0e33", null ]
+    [ "HandleSummon", "de/de5/a25598.html#ad1ee0eb347454d50216610a266226d68", null ],
+    [ "PrepareSpellScript", "de/de5/a25598.html#a15a545ee3ec4a926f1330ce0ad975d3e", null ],
+    [ "Register", "de/de5/a25598.html#aa145041af68291f107c3ff11ce15b85e", null ]
 ];

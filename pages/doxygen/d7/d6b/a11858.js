@@ -1,6 +1,6 @@
 var a11858 =
 [
-    [ "boss_general_angerforgeAI", "d4/d85/a11862.html", "d4/d85/a11862" ],
-    [ "boss_general_angerforge", "d7/d6b/a11858.html#a00c94097831dc52d31505f312a04f562", null ],
-    [ "GetAI", "d7/d6b/a11858.html#ac3f3b26bf2c6745bb9ab23c7ff1484ae", null ]
+    [ "npc_lokhtos_darkbargainer", "d7/d6b/a11858.html#af91685ecf0f63313968b3d82373668d2", null ],
+    [ "OnGossipHello", "d7/d6b/a11858.html#a39547487ef7db8a3942556665099893f", null ],
+    [ "OnGossipSelect", "d7/d6b/a11858.html#a5a4640678a5669c75b1fa5d787999c02", null ]
 ];

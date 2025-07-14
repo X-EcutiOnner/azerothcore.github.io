@@ -1,6 +1,7 @@
 var a05498 =
 [
-    [ "FromString", "d6/dca/a05498.html#a9d10adc7fc7e9ba967ce0704ff369019", null ],
-    [ "FromString", "d6/dca/a05498.html#a465a6f446d3482578b583d54f0109516", null ],
-    [ "ToString", "d6/dca/a05498.html#a8e3130708d0068bd82f9c2861b130303", null ]
+    [ "EnumText", "d6/dca/a05498.html#a8eaf5ce52dcc9fd44476f9add1140e0d", null ],
+    [ "Constant", "d6/dca/a05498.html#a020a7ebf3b1ee476d5f7ee605f43525d", null ],
+    [ "Description", "d6/dca/a05498.html#ab08504e4ec70c5495f5a45856f2e6976", null ],
+    [ "Title", "d6/dca/a05498.html#a7326575ea4083e28ac62556526a092a4", null ]
 ];

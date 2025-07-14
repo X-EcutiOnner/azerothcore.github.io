@@ -1,6 +1,5 @@
 var a27182 =
 [
-    [ "go_midsummer_musicAI", "df/d57/a27186.html", "df/d57/a27186" ],
-    [ "go_midsummer_music", "d3/d1f/a27182.html#a39c38fc78b47b16be9eebee0ccd5041d", null ],
-    [ "GetAI", "d3/d1f/a27182.html#a1baf09bdbf67c0a85219454c1cd61d2b", null ]
+    [ "go_arena_ready_marker", "d3/d1f/a27182.html#a614ee8efff31d928a9f4547d60b6a6a6", null ],
+    [ "OnGossipHello", "d3/d1f/a27182.html#a9f51ead2b56d51427ff23be9688388d8", null ]
 ];

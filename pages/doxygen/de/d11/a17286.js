@@ -1,8 +1,6 @@
 var a17286 =
 [
-    [ "OnApply", "de/d11/a17286.html#a4741bfaaea8bc956fd1020aca13a51c2", null ],
-    [ "OnRemove", "de/d11/a17286.html#a21aad38fe91580d3b8e0cc71dce7b1ad", null ],
-    [ "PrepareAuraScript", "de/d11/a17286.html#a54b2ab23915e84b9c9728eb624dae47b", null ],
-    [ "Register", "de/d11/a17286.html#a6d552ff58f7bb267cf4d20f2f5aedc7a", null ],
-    [ "Validate", "de/d11/a17286.html#a5542dca73b5cc2ec1c724fe536e8a15f", null ]
+    [ "npc_dark_nucleusAI", "d6/d53/a17290.html", "d6/d53/a17290" ],
+    [ "npc_dark_nucleus", "de/d11/a17286.html#a14459f4f41ef568decbc952fdcd4ffd5", null ],
+    [ "GetAI", "de/d11/a17286.html#a1f59ae45c1a84a6faca5a8bb62fc16fc", null ]
 ];

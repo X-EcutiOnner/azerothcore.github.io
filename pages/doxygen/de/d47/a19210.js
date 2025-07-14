@@ -1,7 +1,5 @@
 var a19210 =
 [
-    [ "boss_commander_stoutbeard", "de/d47/a19210.html#a9489874e93ea9f425ff4e3748ba10ded", null ],
-    [ "JustDied", "de/d47/a19210.html#a2fd835408045715058ba476aa56cb4f7", null ],
-    [ "JustEngagedWith", "de/d47/a19210.html#af960c10b2b98d43b4b1311a0a7616aa8", null ],
-    [ "KilledUnit", "de/d47/a19210.html#acf7016c65f020dca9228bd2d2fd89299", null ]
+    [ "at_naxxramas_hub_portal", "de/d47/a19210.html#a946086e8a4651240b84526a1b2d54065", null ],
+    [ "OnTrigger", "de/d47/a19210.html#af967b0f61b3257c8b8d802d4ed3af1da", null ]
 ];

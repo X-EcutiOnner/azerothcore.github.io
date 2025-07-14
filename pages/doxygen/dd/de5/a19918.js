@@ -1,7 +1,6 @@
 var a19918 =
 [
-    [ "achievement_flame_leviathan_garage", "dd/de5/a19918.html#a1893b4059d7212d023c45bb828bb1905", null ],
-    [ "OnCheck", "dd/de5/a19918.html#aa5897eb1fadeda4dda9f2390053d89b6", null ],
-    [ "_entry1", "dd/de5/a19918.html#af482d6c1b2681b9fec572281620a86b7", null ],
-    [ "_entry2", "dd/de5/a19918.html#a41e83b47c411dc6a6aff310ae7059f4e", null ]
+    [ "npc_pool_of_tarAI", "dd/de5/a19918.html#a6141addc9b1cf2c0028d98ef4f4d9d37", null ],
+    [ "DamageTaken", "dd/de5/a19918.html#a4ea55aa08123f724268238e0def5b595", null ],
+    [ "SpellHit", "dd/de5/a19918.html#acb63166b396c079d5b4bb9db67a1448a", null ]
 ];

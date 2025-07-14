@@ -1,11 +1,7 @@
 var a28686 =
 [
-    [ "material", "d8/de4/a28686.html#a7079e8817a9684602084eb224f2540fc", null ],
-    [ "pos_x", "d8/de4/a28686.html#ac4d971cc46506be14716124afbb5ad9c", null ],
-    [ "pos_y", "d8/de4/a28686.html#a6cd85f2a674d732e88371ffce5e46077", null ],
-    [ "pos_z", "d8/de4/a28686.html#a183ec8ec2d8d30726494c6b3d3b8606a", null ],
-    [ "xtiles", "d8/de4/a28686.html#aca34dfa64624cfe04c314c13bbed0062", null ],
-    [ "xverts", "d8/de4/a28686.html#aa5ad7ff660f7f0b5ddfd2d186496d928", null ],
-    [ "ytiles", "d8/de4/a28686.html#a9901a7e9828ac840bc290b0768831d66", null ],
-    [ "yverts", "d8/de4/a28686.html#abf24042b85692cd0df05d65d734dd99e", null ]
+    [ "fcc", "d8/de4/a28686.html#afbaa5fdd612d1c93f7f07aa299d144ad", null ],
+    [ "fcc_txt", "d8/de4/a28686.html#a89ed22b0a63dae9f1443309e54e9e421", null ],
+    [ "size", "d8/de4/a28686.html#a0b9002c302e4dfef6dc533bf8c5bcdcc", null ],
+    [ "ver", "d8/de4/a28686.html#adb92d3e9f7e35255a2e6e147d51ba8fc", null ]
 ];

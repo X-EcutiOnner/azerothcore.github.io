@@ -1,6 +1,6 @@
 var a25630 =
 [
-    [ "HandleScript", "d2/db2/a25630.html#a382dd0eb5ebc2f5da70561eaaf1f8d3d", null ],
-    [ "PrepareSpellScript", "d2/db2/a25630.html#a4f0f4d29231ef1976d726b66f6277ca8", null ],
-    [ "Register", "d2/db2/a25630.html#ad75843039e582b64da28b4818f48aeb3", null ]
+    [ "CalculateAmount", "d2/db2/a25630.html#ad80edf403addb2d907d0d3d778b6745f", null ],
+    [ "PrepareAuraScript", "d2/db2/a25630.html#a96c2e2cdd259d96bb7aa12eb42856cf4", null ],
+    [ "Register", "d2/db2/a25630.html#a538ab0fdebbafa3c96183f639fe8968b", null ]
 ];

@@ -1,7 +1,12 @@
 var a18282 =
 [
-    [ "OnPeriodic", "d8/d17/a18282.html#adfbfcf4ad8671ca4eaa439705f7b6c2a", null ],
-    [ "PrepareAuraScript", "d8/d17/a18282.html#a5bb82c03f7c34e6febd3fe8aa57d4723", null ],
-    [ "Register", "d8/d17/a18282.html#a0fc7ca43a0d82058fc04277742231388", null ],
-    [ "Validate", "d8/d17/a18282.html#ae52c7c189a45a0bb5f3a627f502e3730", null ]
+    [ "npc_raging_spiritAI", "d8/d17/a18282.html#a1c85351ae62d5f45381214373e64aec4", null ],
+    [ "AttackStart", "d8/d17/a18282.html#a16ab37be9e31dcfc159b5c78b196b847", null ],
+    [ "CanAIAttack", "d8/d17/a18282.html#a64fa46f05861d8736d881aa3687f4320", null ],
+    [ "IsSummonedBy", "d8/d17/a18282.html#a836d605f4320ba9fd49cb60d6a1e032d", null ],
+    [ "JustDied", "d8/d17/a18282.html#a821377a2c29b4180db00f2c4f4268fe7", null ],
+    [ "Reset", "d8/d17/a18282.html#a9dae9cb2c6f18d89d06cfa72b98d36f2", null ],
+    [ "UpdateAI", "d8/d17/a18282.html#a64beac4aafa9e9bb2089a7c1e35fe8a5", null ],
+    [ "_events", "d8/d17/a18282.html#af5783316983b622f20d8c677f2858111", null ],
+    [ "_instance", "d8/d17/a18282.html#aaa9b5728fcdb379849434385b3501251", null ]
 ];

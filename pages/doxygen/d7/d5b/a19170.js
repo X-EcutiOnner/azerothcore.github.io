@@ -1,6 +1,8 @@
 var a19170 =
 [
-    [ "npc_eoe_wyrmrest_skytalonAI", "d0/d2e/a19174.html", "d0/d2e/a19174" ],
-    [ "npc_eoe_wyrmrest_skytalon", "d7/d5b/a19170.html#a55685de624b277840f8fc0c397b8aebf", null ],
-    [ "GetAI", "d7/d5b/a19170.html#a01a384ab10cfccbd159f116e0bef52e8", null ]
+    [ "HandleDamage", "d7/d5b/a19170.html#ab8948b09b685ad970f5292ca4c5d97ba", null ],
+    [ "HandleTargets", "d7/d5b/a19170.html#ac36e689bad93aa17738f390680764a7e", null ],
+    [ "PrepareSpellScript", "d7/d5b/a19170.html#a149db071722ce12cded16087c8eec1df", null ],
+    [ "Register", "d7/d5b/a19170.html#abd073f34a414fab7ee23ee933863f1c7", null ],
+    [ "Validate", "d7/d5b/a19170.html#a177320de9c3a2c2f29120fcaa413ab13", null ]
 ];

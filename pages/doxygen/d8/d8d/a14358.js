@@ -1,5 +1,8 @@
 var a14358 =
 [
-    [ "PrepareSpellScript", "d8/d8d/a14358.html#a50ee42c11937759b6c52c2ab994481c4", null ],
-    [ "Register", "d8/d8d/a14358.html#a8dc12a723c2da948c38119e3fc34df35", null ]
+    [ "HandleDummy", "d8/d8d/a14358.html#a47b5a6741f2782359449dcaebd40fe1c", null ],
+    [ "Load", "d8/d8d/a14358.html#a7877187ad7afb2dfbd28fb7c74d40478", null ],
+    [ "PrepareSpellScript", "d8/d8d/a14358.html#af1d1ad32d41d79008d650b388353346b", null ],
+    [ "Register", "d8/d8d/a14358.html#a53a7c4c025324b205a29f92dd48aefde", null ],
+    [ "handled", "d8/d8d/a14358.html#acf3a9296a36f131f852afbf60beb7ea4", null ]
 ];

@@ -1,10 +1,9 @@
 var a06074 =
 [
-    [ "NullCreatureAI", "dc/d36/a06074.html#aa9969eeb9a79559c9f2d3bd907b3fd85", null ],
-    [ "AttackStart", "dc/d36/a06074.html#a94d4594e1f39143ea41ce00aeecec4b4", null ],
-    [ "EnterEvadeMode", "dc/d36/a06074.html#a726edd296c16ed2414fcc1827f88238f", null ],
-    [ "MoveInLineOfSight", "dc/d36/a06074.html#a12c54c92a08e81751563ec9522236b28", null ],
-    [ "OnCharmed", "dc/d36/a06074.html#a77b274955dcfdf2d10bbc43b64330f8d", null ],
-    [ "Permissible", "dc/d36/a06074.html#a77595426da50819a0ff0744930d19b23", null ],
-    [ "UpdateAI", "dc/d36/a06074.html#ab200fcf78dee74a2ec808c01f5855236", null ]
+    [ "TurretAI", "dc/d36/a06074.html#a0aaa1ee5eb1b2e83657ef24479d9a91e", null ],
+    [ "AttackStart", "dc/d36/a06074.html#ab6eb7cf777595a4b196373123da19bea", null ],
+    [ "CanAIAttack", "dc/d36/a06074.html#a47c1c38ddcc1f473104fb698fe338684", null ],
+    [ "Permissible", "dc/d36/a06074.html#aac81fb574d70369fb006fb7ba22a0784", null ],
+    [ "UpdateAI", "dc/d36/a06074.html#aa2d308443a31d8a06bbc63517695dfef", null ],
+    [ "m_minRange", "dc/d36/a06074.html#a4cffbf9bcb29468dad6a6583c905b99a", null ]
 ];

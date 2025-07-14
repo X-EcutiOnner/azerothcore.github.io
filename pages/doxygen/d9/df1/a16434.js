@@ -1,7 +1,8 @@
 var a16434 =
 [
-    [ "FilterTargets", "d9/df1/a16434.html#a304da18e36ff67c34b80ab39583f8c96", null ],
-    [ "HandleScript", "d9/df1/a16434.html#adf99670bcf862288f513d2a26cbc256a", null ],
-    [ "PrepareSpellScript", "d9/df1/a16434.html#a976cb3c956d37fc9870494b0a6b8d9ee", null ],
-    [ "Register", "d9/df1/a16434.html#a4513de251b2f3d52fe44b7f7e715007c", null ]
+    [ "npc_toc_hunterAI", "d9/df1/a16434.html#a80f80231bfe5b71bf415da3202c2e6fb", null ],
+    [ "JustSummoned", "d9/df1/a16434.html#aa270248ad9e0c319234ff0741270b465", null ],
+    [ "myCanCast", "d9/df1/a16434.html#a4e599ae2ee4e892795889bd57dd29e27", null ],
+    [ "UpdateAI", "d9/df1/a16434.html#a81f384607ab7e8c4ed7385bdcddfd7a5", null ],
+    [ "events", "d9/df1/a16434.html#a0cf5ecd9d7b3c92e2da836983323f378", null ]
 ];

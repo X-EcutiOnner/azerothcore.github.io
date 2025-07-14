@@ -1,9 +1,10 @@
 var a06146 =
 [
-    [ "AISpellInfoType", "dc/d71/a06146.html#a3b6d2057522e7b79c87a16d4b9cced98", null ],
-    [ "condition", "dc/d71/a06146.html#af357bcc7eaeaf88a107a6309c468d53d", null ],
-    [ "cooldown", "dc/d71/a06146.html#a6ea49fdc98ece29ceee63352424e9366", null ],
-    [ "maxRange", "dc/d71/a06146.html#ab421f918f3cb479d2d0390cd98cdeae3", null ],
-    [ "realCooldown", "dc/d71/a06146.html#a3ee8081ca5749ef9b5991a5505104ee9", null ],
-    [ "target", "dc/d71/a06146.html#a8f9c1d3fbbabc73f4b47ffe21e7a06c4", null ]
+    [ "RangeSelector", "dc/d71/a06146.html#a4a87b90485180ede638e2c9bd2a7e9ed", null ],
+    [ "operator()", "dc/d71/a06146.html#a917f21b135f402210d21e6bb3f19b9fa", null ],
+    [ "_inLos", "dc/d71/a06146.html#a9dcf455d9db8d32aaebfc46eee36e1b5", null ],
+    [ "_maxDist", "dc/d71/a06146.html#a973ec93b54a839f853101ad5998c10b2", null ],
+    [ "_me", "dc/d71/a06146.html#a72ad35c7de0b5d540be27d9a9d46a1d4", null ],
+    [ "_minDist", "dc/d71/a06146.html#ac1ce7a7a7ad6d033972b449867a1c5bf", null ],
+    [ "_playerOnly", "dc/d71/a06146.html#ac68f7dfefe2e71942a3dfff7026a7ae7", null ]
 ];

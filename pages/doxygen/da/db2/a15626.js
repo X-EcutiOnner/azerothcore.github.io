@@ -1,5 +1,7 @@
 var a15626 =
 [
-    [ "go_elune_fire", "da/db2/a15626.html#a84d1b8e5a10e57cf717e10e413cb6027", null ],
-    [ "OnGossipHello", "da/db2/a15626.html#a31e3cad89090bb7d2933e8758dbb56c4", null ]
+    [ "npc_giltharesAI", "da/db2/a15626.html#af22e42b2180987febd964784b6d49b5e", null ],
+    [ "JustEngagedWith", "da/db2/a15626.html#ae9ba65652db3d2d32920d1a98594727a", null ],
+    [ "Reset", "da/db2/a15626.html#a34d57ef71b60fe71c749f790cecf70b2", null ],
+    [ "WaypointReached", "da/db2/a15626.html#a9308c73760e50e0f3d04031b508526d1", null ]
 ];

@@ -1,5 +1,6 @@
 var a26946 =
 [
-    [ "achievement_not_even_a_scratch", "df/dd0/a26946.html#a0d025c09d35c3640016ab42e11dd96eb", null ],
-    [ "OnCheck", "df/dd0/a26946.html#a81f6c9bd36e5a3eea3fe0af24c9f1649", null ]
+    [ "HandleScript", "df/dd0/a26946.html#ab2bad52272a5cd7167a7601fdfa02b1d", null ],
+    [ "PrepareSpellScript", "df/dd0/a26946.html#a60454f2c1ba8d1ea160350b5e02bf56d", null ],
+    [ "Register", "df/dd0/a26946.html#a22b9877e2cd27c925ae7b351d3d6f41b", null ]
 ];

@@ -1,6 +1,8 @@
 var a19618 =
 [
-    [ "HandlePeriodic", "d3/d95/a19618.html#a0a77c0b232e24e5cb8b3392ac8adbd3a", null ],
-    [ "PrepareAuraScript", "d3/d95/a19618.html#a7c6b6839da4a93f656800c9ae174c832", null ],
-    [ "Register", "d3/d95/a19618.html#ae28e67baa12488e248efd46ef5a7cb11", null ]
+    [ "brann_bronzebeardAI", "dd/d8b/a19622.html", "dd/d8b/a19622" ],
+    [ "brann_bronzebeard", "d3/d95/a19618.html#a66fd8785647896a1a5f7be041242cfd6", null ],
+    [ "GetAI", "d3/d95/a19618.html#a66d4ae2f243f7869106c2372b3e7166c", null ],
+    [ "OnGossipHello", "d3/d95/a19618.html#a2714a2dde596db76706b8a86f97f82b8", null ],
+    [ "OnGossipSelect", "d3/d95/a19618.html#a0e0068a45012e50a9f645d393bdfe163", null ]
 ];

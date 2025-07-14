@@ -1,6 +1,7 @@
 var a05046 =
 [
-    [ "TriBoundFunc", "d8/d5f/a05046.html#a42711c10595c048420a09e35e3345229", null ],
-    [ "operator()", "d8/d5f/a05046.html#a026d443e9156f884a21351700b6c69dd", null ],
-    [ "vertices", "d8/d5f/a05046.html#a3c5d3e61f9a963eacf4aff4e90d8e1bb", null ]
+    [ "GameobjectModelData", "d8/d5f/a05046.html#a7d259df5a5541f95e0f548674d023fc8", null ],
+    [ "bound", "d8/d5f/a05046.html#ab133a32c9eefff0a35acaa4e157a3f05", null ],
+    [ "isWmo", "d8/d5f/a05046.html#ac51305f0d800ff993e9a9cba2ccb6939", null ],
+    [ "name", "d8/d5f/a05046.html#ac8a053b6f01a9917ee6b1fc2a738bb4e", null ]
 ];

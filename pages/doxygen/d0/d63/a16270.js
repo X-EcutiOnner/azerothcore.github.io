@@ -1,21 +1,11 @@
 var a16270 =
 [
-    [ "boss_faction_championsAI", "d0/d63/a16270.html#aec4455c8bdd8d0629b9c3f17178818b6", null ],
-    [ "AttackStart", "d0/d63/a16270.html#a465492574894303cbce6df2107b87252", null ],
-    [ "EnemiesInRange", "d0/d63/a16270.html#acbb166d6ac50f11eae591ddf1dbba917", null ],
-    [ "EnterEvadeMode", "d0/d63/a16270.html#a81f01bf15e7d7d647fa01da165ee0896", null ],
-    [ "EventMapGCD", "d0/d63/a16270.html#a8f993213b96d47f12258f6182b876042", null ],
-    [ "GetThreatMod", "d0/d63/a16270.html#aae5bc496f0f17c2167dd8a47c8ae40cd", null ],
-    [ "IsCCed", "d0/d63/a16270.html#a6df04b369e7a85e6779228f8a7657ba7", null ],
-    [ "JustDied", "d0/d63/a16270.html#aa8976d148ac4882063787f144ebeeea8", null ],
-    [ "JustEngagedWith", "d0/d63/a16270.html#a3c8e2e446e6325597f1687201698a2c6", null ],
-    [ "KilledUnit", "d0/d63/a16270.html#ac49f6c9994484a6d905362fd66ccf81e", null ],
-    [ "RecalculateThreat", "d0/d63/a16270.html#a435b28bf38824d8b36bc6cf105d2dcf2", null ],
-    [ "SelectEnemyCaster", "d0/d63/a16270.html#a81a318b636472e15624d01ecf3be65fb", null ],
-    [ "SelectTarget_MostHPLostFriendlyMissingBuff", "d0/d63/a16270.html#aea6f9e045fb3866cef15d890f63766d8", null ],
-    [ "UpdateAI", "d0/d63/a16270.html#a6c93329b33c0fa469b04622cff1aa517", null ],
-    [ "mAIType", "d0/d63/a16270.html#acff880f98ff81d25d02224931fe8ff93", null ],
-    [ "pInstance", "d0/d63/a16270.html#a546bff05f2ca0e8e4c8371bfd4d6ed79", null ],
-    [ "powerTimer", "d0/d63/a16270.html#a38394cc3ee369fb5bb580d3702792604", null ],
-    [ "threatTimer", "d0/d63/a16270.html#a6aa684c94874d3a3bcd7150b0d7cd04b", null ]
+    [ "npc_black_knight_ghoulAI", "d0/d63/a16270.html#a6e108052a7f9911dcd1b0ed13b2b8a0f", null ],
+    [ "JustEngagedWith", "d0/d63/a16270.html#a8353dea0de91017223c7624a5a96ebec", null ],
+    [ "Reset", "d0/d63/a16270.html#a8a33efa0719063a9565bc07143f8ad83", null ],
+    [ "SpellHit", "d0/d63/a16270.html#aa1b1fbb1a4633831774c7a7dd5cbb546", null ],
+    [ "SpellHitTarget", "d0/d63/a16270.html#a5f106a3b0edf353769db9021b9ca770d", null ],
+    [ "UpdateAI", "d0/d63/a16270.html#a6ccdb6a59b93999c01d434bcda593f25", null ],
+    [ "events", "d0/d63/a16270.html#acb56826a164e4d7da0a2f04c1efaf72b", null ],
+    [ "pInstance", "d0/d63/a16270.html#a35b8375f1b3407f5cee653ee118e0697", null ]
 ];

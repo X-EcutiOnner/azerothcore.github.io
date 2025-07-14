@@ -1,6 +1,6 @@
 var a23862 =
 [
-    [ "npc_deaths_fel_cannonAI", "d3/d4f/a23862.html#a29d298bd85c78e2fbf0a4019aa7fbce7", null ],
-    [ "Reset", "d3/d4f/a23862.html#a4096d75a98dc8a1c95920710fb48d6ff", null ],
-    [ "UpdateAI", "d3/d4f/a23862.html#a942a8b1153b4ae6fde3b474cc909daad", null ]
+    [ "HandleScriptEffect", "d3/d4f/a23862.html#a724e857ad8604ef4546c8823bb7bd632", null ],
+    [ "PrepareSpellScript", "d3/d4f/a23862.html#a7a67cdf9c3c8017fd065549a499831fc", null ],
+    [ "Register", "d3/d4f/a23862.html#aadbf9ca8c4b5fa0f72b967f059ee22ab", null ]
 ];

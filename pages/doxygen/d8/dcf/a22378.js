@@ -1,8 +1,6 @@
 var a22378 =
 [
-    [ "HandleApply", "d8/dcf/a22378.html#ad8ee9a50314c900b1507e25eaa70ece7", null ],
-    [ "HandleRemove", "d8/dcf/a22378.html#a06c7c65d973fcf348f5c929503902520", null ],
-    [ "PrepareAuraScript", "d8/dcf/a22378.html#a48b20c0f1997acd0f9f0800bf4b63bd0", null ],
-    [ "Register", "d8/dcf/a22378.html#a7018a16262b94a573405e1bdc9fbdd10", null ],
-    [ "Validate", "d8/dcf/a22378.html#a8135c492638557eec71189282e7f78a2", null ]
+    [ "HandleSummon", "d8/dcf/a22378.html#ac2f7b0d0772d72d69d58bb4b66616e21", null ],
+    [ "PrepareSpellScript", "d8/dcf/a22378.html#ae7f071e9d9a82892be31090385679c9f", null ],
+    [ "Register", "d8/dcf/a22378.html#a516ab0801cc93f15da434a0f0952c7e4", null ]
 ];

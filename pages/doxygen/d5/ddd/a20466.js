@@ -1,6 +1,7 @@
 var a20466 =
 [
-    [ "npc_ulduar_dark_rune_watcherAI", "d5/de7/a20470.html", "d5/de7/a20470" ],
-    [ "npc_ulduar_dark_rune_watcher", "d5/ddd/a20466.html#a0536c61d70d5c6d61496fc1720d37950", null ],
-    [ "GetAI", "d5/ddd/a20466.html#a6677d6dc0d07b508e921064f3299b302", null ]
+    [ "HandleEffectPeriodic", "d5/ddd/a20466.html#a0fc0cf6cd635249a10aefd284d9ae789", null ],
+    [ "PrepareAuraScript", "d5/ddd/a20466.html#af432e810a46e35f95bb0b3b2eaada132", null ],
+    [ "Register", "d5/ddd/a20466.html#a41c3846c03ce1e37fc6858a676f61c48", null ],
+    [ "Validate", "d5/ddd/a20466.html#ac8e9521a6b8ab9a4642361085dbe517d", null ]
 ];

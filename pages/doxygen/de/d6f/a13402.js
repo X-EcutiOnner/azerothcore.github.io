@@ -1,6 +1,9 @@
 var a13402 =
 [
-    [ "HandleSendEvent", "de/d6f/a13402.html#a1be975f4440b823c34cc3e790fcff608", null ],
-    [ "PrepareSpellScript", "de/d6f/a13402.html#a91ac4a392fcf5b6e833fb3f5103d8e06", null ],
-    [ "Register", "de/d6f/a13402.html#a217fb7cb47b08999d49ec04b345b77fe", null ]
+    [ "npc_dark_fiend", "de/d6f/a13402.html#a8c4ebf7ba2f991df7053d40108330609", null ],
+    [ "DamageTaken", "de/d6f/a13402.html#a39daa01688ec4ddadf9f1d185faa3f48", null ],
+    [ "Reset", "de/d6f/a13402.html#a5622d14f84ad8e47da773852f1778d56", null ],
+    [ "UpdateAI", "de/d6f/a13402.html#ab4a7cbc09f4b830039cf4c6f59b2b30e", null ],
+    [ "_lastVictimGUID", "de/d6f/a13402.html#abcccb35701f21d417e3c13709cc24281", null ],
+    [ "_spellCast", "de/d6f/a13402.html#a4cde5fbbeedfc7ed2907a2b797f6aafa", null ]
 ];

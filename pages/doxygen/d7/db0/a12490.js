@@ -1,10 +1,6 @@
 var a12490 =
 [
-    [ "instance_deadmines_InstanceMapScript", "d7/db0/a12490.html#afa12491c1b276d0d643822da562320c3", null ],
-    [ "GetSaveData", "d7/db0/a12490.html#a775c7d564b931e157a32b0909efed859", null ],
-    [ "Initialize", "d7/db0/a12490.html#a8b8bca7a1d7880bc53b8002934ceeb7a", null ],
-    [ "Load", "d7/db0/a12490.html#afff7e04cc632e2d4ddb438d03e561560", null ],
-    [ "OnGameObjectCreate", "d7/db0/a12490.html#a095202af8915f8a1d8888c045e18d6c4", null ],
-    [ "SetData", "d7/db0/a12490.html#a8cd5bf5302b1a7221c69dd9fdc9518dc", null ],
-    [ "_encounters", "d7/db0/a12490.html#a01d69e135cbd2dd885dfc84c98ed8be1", null ]
+    [ "boss_sulfuronAI", "d7/db0/a12490.html#a63c76fb94131830924e2bf77477261ba", null ],
+    [ "ExecuteEvent", "d7/db0/a12490.html#ae038aa8140f5b4128c39c592966321f1", null ],
+    [ "JustEngagedWith", "d7/db0/a12490.html#a35394690b8d25529c91c147025f6ad92", null ]
 ];

@@ -1,10 +1,9 @@
 var a09258 =
 [
-    [ "AnyDeadUnitSpellTargetInRangeCheck", "d5/d59/a09258.html#a212c308a02716ff382e820e86e233ed3", null ],
-    [ "operator()", "d5/d59/a09258.html#af328df880d17a62e2dbed0ff4231fc39", null ],
-    [ "operator()", "d5/d59/a09258.html#adcc69b9ef03a68aa235e40449a80b701", null ],
-    [ "operator()", "d5/d59/a09258.html#a2f2483cf7078681cb3acf28560e61184", null ],
-    [ "operator()", "d5/d59/a09258.html#aba0bf4c320a684b68743a06e724a369e", null ],
-    [ "i_check", "d5/d59/a09258.html#aa2223ad31acf47a1608ded6b5cbc2f03", null ],
-    [ "i_spellInfo", "d5/d59/a09258.html#afeb889f6cee596b2c2229f86e0a8a3f1", null ]
+    [ "PlayerSearcher", "d5/d59/a09258.html#a7247fcab3841996ed5d699696fb21557", null ],
+    [ "Visit", "d5/d59/a09258.html#ab2544b79869ba4de9772b1bff7c40704", null ],
+    [ "Visit", "d5/d59/a09258.html#abdb4dfeb80101e9e4bf0e46cab5a1f7b", null ],
+    [ "i_check", "d5/d59/a09258.html#a58c24b81eec33c9ba8fe8145ee3679b4", null ],
+    [ "i_object", "d5/d59/a09258.html#a70b071a2fccb4ff29fd614d1447e87ad", null ],
+    [ "i_phaseMask", "d5/d59/a09258.html#a6dd83612b7f0d00035a7efb8d970afc6", null ]
 ];

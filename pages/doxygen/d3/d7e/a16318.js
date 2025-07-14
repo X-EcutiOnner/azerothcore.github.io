@@ -1,8 +1,6 @@
 var a16318 =
 [
-    [ "npc_toc_warlockAI", "d3/d7e/a16318.html#a4c4c2f502f00ca48bb7419434d88ea3a", null ],
-    [ "JustSummoned", "d3/d7e/a16318.html#a203ef748afaa400aa1f8365b5d7bf6b1", null ],
-    [ "myCanCast", "d3/d7e/a16318.html#a62b2df362bc07aa4a9c14cbc63a10e05", null ],
-    [ "UpdateAI", "d3/d7e/a16318.html#a554849d02d923439bd810b7d8c242afa", null ],
-    [ "events", "d3/d7e/a16318.html#a3b84c70d246bbf5b70ab4dec06c647b3", null ]
+    [ "boss_anubarak_trialAI", "d3/df2/a16322.html", "d3/df2/a16322" ],
+    [ "boss_anubarak_trial", "d3/d7e/a16318.html#a5204e33a412608b53cc155a043356d58", null ],
+    [ "GetAI", "d3/d7e/a16318.html#a9b8fe9ed3370434612cbd46e7649213d", null ]
 ];

@@ -1,8 +1,11 @@
 var a19862 =
 [
-    [ "OnApply", "d7/d8f/a19862.html#a5aec8606684637bbdb1e819254f5d483", null ],
-    [ "OnRemove", "d7/d8f/a19862.html#add485a2fd5fdd068d7258d3c9c0d9c2b", null ],
-    [ "PrepareAuraScript", "d7/d8f/a19862.html#adcc21606209dc2f32c1173c7ab4c5579", null ],
-    [ "Register", "d7/d8f/a19862.html#af1db6ca387cf0733ba4b9c324172d692", null ],
-    [ "Validate", "d7/d8f/a19862.html#a332d01b39295ea9a11773be9aa9c3fb3", null ]
+    [ "boss_flame_leviathan_seatAI", "d7/d8f/a19862.html#ab830db7804ee9b9815e4ea3398a6d856", null ],
+    [ "AttackStart", "d7/d8f/a19862.html#a39efb927928e19a040144bab7dfa3ba2", null ],
+    [ "EnterEvadeMode", "d7/d8f/a19862.html#aeda2ad4d596c86aa5c19acb1c710cc9f", null ],
+    [ "PassengerBoarded", "d7/d8f/a19862.html#af4939f3daef8aae9a1eafe2020ab205e", null ],
+    [ "Reset", "d7/d8f/a19862.html#a1e134e9bb2b1048f69dc310a52be9473", null ],
+    [ "UpdateAI", "d7/d8f/a19862.html#a857b1e927ae6574e00e25a20a21d4427", null ],
+    [ "_despawnTimer", "d7/d8f/a19862.html#ac3d1d8f405a37d2344c5f4e34519e2cb", null ],
+    [ "vehicle", "d7/d8f/a19862.html#a9d0624a45613676a39def53b2a2fdce0", null ]
 ];

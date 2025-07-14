@@ -1,10 +1,8 @@
 var a25994 =
 [
-    [ "CheckProc", "dd/de3/a25994.html#a23dfb39522f7a5437af439ef567d6ec6", null ],
-    [ "HandleEffectApply", "dd/de3/a25994.html#ab83f17b45edc5dba8f4b3f3fbc88c626", null ],
-    [ "HandleEffectRemove", "dd/de3/a25994.html#a7bab07fde0fb18e89388e1bc4c72c165", null ],
-    [ "HandleProc", "dd/de3/a25994.html#a8352d7d9376f149fa227f7ca983e2660", null ],
-    [ "PrepareAuraScript", "dd/de3/a25994.html#a309dabfa452d3279e7fb47a8e4784779", null ],
-    [ "Register", "dd/de3/a25994.html#a3d020d3025f0ad086c43b4239205cd94", null ],
-    [ "Validate", "dd/de3/a25994.html#ac3a5505808b3a7e718071f1202805ac5", null ]
+    [ "Absorb", "dd/de3/a25994.html#a9378cde1cc6daab0dc111b94aef4f6c8", null ],
+    [ "CalculateAmount", "dd/de3/a25994.html#a20d5b4776ebeb859b0641af640e41d80", null ],
+    [ "PrepareAuraScript", "dd/de3/a25994.html#ae1a70e11e89c4252e481ad737ad00ae0", null ],
+    [ "Register", "dd/de3/a25994.html#a8c5399ba68554f4c2e842c5492ad715c", null ],
+    [ "Validate", "dd/de3/a25994.html#aa6264e4dbff71b0d82e3403984c59c03", null ]
 ];

@@ -1,7 +1,6 @@
 var a15482 =
 [
-    [ "npc_kaya_flathoofAI", "d3/d67/a15486.html", "d3/d67/a15486" ],
-    [ "npc_kaya_flathoof", "d5/d85/a15482.html#a588f88b1c00927a4ad6b7cd25fc1b065", null ],
-    [ "GetAI", "d5/d85/a15482.html#ad7cce0c1a30abe5bc0bffa777c40c79a", null ],
-    [ "OnQuestAccept", "d5/d85/a15482.html#acdb20ecb1ffee4417c9b39f3aebb0591", null ]
+    [ "npc_silva_filnaveth", "d5/d85/a15482.html#a5998381865214a7b3af7823bd2557cb0", null ],
+    [ "OnGossipHello", "d5/d85/a15482.html#a32019c17271a3f504d86cd694262fd53", null ],
+    [ "OnGossipSelect", "d5/d85/a15482.html#a10f81dce3dbc3ef0a84c8c33c2cb2e29", null ]
 ];

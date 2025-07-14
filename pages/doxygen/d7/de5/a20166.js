@@ -1,6 +1,6 @@
 var a20166 =
 [
-    [ "HandleAfterEffectApply", "d7/de5/a20166.html#ac8b5cddcf66c1f43c4ab0461354e97f1", null ],
-    [ "PrepareAuraScript", "d7/de5/a20166.html#a439799df0d6ca43e6a81930e3e4b5334", null ],
-    [ "Register", "d7/de5/a20166.html#adce13201dd11c6ba83883b12ad32d1f6", null ]
+    [ "id", "d7/de5/a20166.html#accc6fc59e13a0897ae168fae33ee4c7d", null ],
+    [ "x", "d7/de5/a20166.html#afb67a1dce0819e0da0ceb9b303f43eb9", null ],
+    [ "y", "d7/de5/a20166.html#aaf4fd9f1d5b020e102c0fec3863f7020", null ]
 ];

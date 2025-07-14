@@ -1,6 +1,7 @@
 var a25238 =
 [
-    [ "CalculateDamage", "d7/d42/a25238.html#a2b0d2465c42bb32a2e0a2be1884eddb6", null ],
-    [ "PrepareSpellScript", "d7/d42/a25238.html#a4271f026fd9cddeb109761e9b864c381", null ],
-    [ "Register", "d7/d42/a25238.html#a03bb4cf19328efa783600273663b609a", null ]
+    [ "OnApply", "d7/d42/a25238.html#afda219a18001505ae7a2d01b1d5b25c0", null ],
+    [ "OnRemove", "d7/d42/a25238.html#a54bcd84599d6e5a6d7f538e2b40b890b", null ],
+    [ "PrepareAuraScript", "d7/d42/a25238.html#a9a7b549e059b6bd2d22802f60e952658", null ],
+    [ "Register", "d7/d42/a25238.html#aae603735281daf02ceca157e218d5c9f", null ]
 ];

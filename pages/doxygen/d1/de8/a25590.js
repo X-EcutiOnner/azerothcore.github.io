@@ -1,6 +1,6 @@
 var a25590 =
 [
-    [ "FilterTargets", "d1/de8/a25590.html#abe299fbad07f800e90b1614ec661c185", null ],
-    [ "PrepareSpellScript", "d1/de8/a25590.html#a53bae2b6575436705adff74caf9225b7", null ],
-    [ "Register", "d1/de8/a25590.html#a35fd5a1c8ab2400940da2d9f8f3ce9c2", null ]
+    [ "HandlePeriodicTick", "d1/de8/a25590.html#a1bd15727da421fdbfc3a60136bfa9bc9", null ],
+    [ "PrepareAuraScript", "d1/de8/a25590.html#a1c4f592511c8886d0b9a5e64eb19cda7", null ],
+    [ "Register", "d1/de8/a25590.html#ac019a52a6f62f1251d20efcfadba1e78", null ]
 ];

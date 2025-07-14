@@ -1,8 +1,8 @@
 var a09386 =
 [
-    [ "NearestPlayerInObjectRangeCheck", "d1/d24/a09386.html#ae8e57c69baf8bdaf0448864d4afbb1a4", null ],
-    [ "NearestPlayerInObjectRangeCheck", "d1/d24/a09386.html#aac3d406d10a036b92a55bcd955411165", null ],
-    [ "operator()", "d1/d24/a09386.html#a5d7ed3141c03d2209d5a3b1a689d1668", null ],
-    [ "i_obj", "d1/d24/a09386.html#a9cd17091269bcfc2b48fefc12ac9b127", null ],
-    [ "i_range", "d1/d24/a09386.html#ab55f93d7c5d6ca3461bcbe49010fcb83", null ]
+    [ "NearestHostileUnitInAttackDistanceCheck", "d1/d24/a09386.html#a0b1d14f1347a3749a91ef6e888ccb23e", null ],
+    [ "NearestHostileUnitInAttackDistanceCheck", "d1/d24/a09386.html#a5645c9808db082b0301ec8b2ea93ce7f", null ],
+    [ "operator()", "d1/d24/a09386.html#adc28281742cd1f6a49152481b48f944e", null ],
+    [ "m_range", "d1/d24/a09386.html#ab79296a88ed07257edbe3449c2515b40", null ],
+    [ "me", "d1/d24/a09386.html#a298d2489b9bf30aa510407afca79a374", null ]
 ];

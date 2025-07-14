@@ -1,6 +1,6 @@
 var a26434 =
 [
-    [ "HandleScript", "d8/d59/a26434.html#acde0ae837d0cd3af0f38481027200291", null ],
-    [ "PrepareSpellScript", "d8/d59/a26434.html#ac1237e0af7f88f75ebc551af52fc301c", null ],
-    [ "Register", "d8/d59/a26434.html#a2dc2628984358628afe7d9b62ced7794", null ]
+    [ "OnApply", "d8/d59/a26434.html#a50ced6d5a475ccad9429dfbb05130394", null ],
+    [ "PrepareAuraScript", "d8/d59/a26434.html#abd02e129b1201449d473a66aea77d569", null ],
+    [ "Register", "d8/d59/a26434.html#a8c09775f642335252c6e548900dc9d3a", null ]
 ];

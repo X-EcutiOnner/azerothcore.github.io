@@ -1,7 +1,6 @@
 var a21518 =
 [
-    [ "npc_thassarianAI", "d9/dbb/a21518.html#a92e873dc3aa97f81919225ce75a5f894", null ],
-    [ "Reset", "d9/dbb/a21518.html#a8611ef17700c739dbd5e7a70660f1379", null ],
-    [ "UpdateAI", "d9/dbb/a21518.html#ad09a3a063d716bc43e23b5aad5e46a7b", null ],
-    [ "_events", "d9/dbb/a21518.html#aaecb5a402e4ffca1e819303dbb94f5b5", null ]
+    [ "npc_nerubar_victimAI", "df/d27/a21522.html", "df/d27/a21522" ],
+    [ "npc_nerubar_victim", "d9/dbb/a21518.html#a4fe80597d3e56776f0f04965fc706097", null ],
+    [ "GetAI", "d9/dbb/a21518.html#a5bb565352ab47fb5cb572190f55df8d1", null ]
 ];

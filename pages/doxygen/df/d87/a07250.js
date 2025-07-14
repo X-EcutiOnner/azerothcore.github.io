@@ -1,7 +1,5 @@
 var a07250 =
 [
-    [ "BattlegroundObjectInfo", "df/d87/a07250.html#a848f2b15f47ceeb91c40e916d5659486", null ],
-    [ "object", "df/d87/a07250.html#a6722b83d6969c1a34b4846f19865075a", null ],
-    [ "spellid", "df/d87/a07250.html#ae0233a1078bc735e40855ea7608f5f11", null ],
-    [ "timer", "df/d87/a07250.html#a7eaf1fbe40f3a7918965da8d5ac81a50", null ]
+    [ "CreateFilterByUserInput", "df/d87/a07250.html#ae35ff456f56290032c4c62d252a83690", null ],
+    [ "ParseTypes", "df/d87/a07250.html#a79a78392d31f1fbf3d8475572d570c1c", null ]
 ];

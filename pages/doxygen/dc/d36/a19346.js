@@ -1,6 +1,6 @@
 var a19346 =
 [
-    [ "HandleDamageCalc", "dc/d36/a19346.html#a71b88fbad5acbba47028dd1ff82b4836", null ],
-    [ "PrepareSpellScript", "dc/d36/a19346.html#a754da297cd5801616e24bf2d802d0b38", null ],
-    [ "Register", "dc/d36/a19346.html#a231f29ea69a354ddb2963cb4ef9a3f4e", null ]
+    [ "instance_nexus_InstanceMapScript", "de/da7/a19350.html", "de/da7/a19350" ],
+    [ "instance_nexus", "dc/d36/a19346.html#ad2d28baeef8323ae97f19ec9272c7e97", null ],
+    [ "GetInstanceScript", "dc/d36/a19346.html#a156210ba08caa0572c775dbd5851b250", null ]
 ];

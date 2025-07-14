@@ -1,9 +1,15 @@
 var a19902 =
 [
-    [ "Absorb", "d4/dde/a19902.html#a16c2e931950102fc0ae5c88ef14587c1", null ],
-    [ "CalculateAmount", "d4/dde/a19902.html#a9166627cbaa536405975444c4ef601de", null ],
-    [ "Load", "d4/dde/a19902.html#abe7c08d2f26cef3603cf1b1f243f9e38", null ],
-    [ "PrepareAuraScript", "d4/dde/a19902.html#aa5793741c2f8179db68a9fb1222a9085", null ],
-    [ "Register", "d4/dde/a19902.html#a17fed57aed8953c7a7e401d1ac925e67", null ],
-    [ "_absorbPct", "d4/dde/a19902.html#ad9e1dcfd8ce7038173ac5b71d448d80a", null ]
+    [ "npc_mimirons_infernoAI", "d4/dde/a19902.html#ae412b49c76e76b322e779665d895080f", null ],
+    [ "AttackStart", "d4/dde/a19902.html#a5676eb2a790be80e539dd71a3b8e140a", null ],
+    [ "DoAction", "d4/dde/a19902.html#a499301a57e57a54aa8f1249c12247be7", null ],
+    [ "JustSummoned", "d4/dde/a19902.html#a586f15a02d77ed6831eb787e2bdf477c", null ],
+    [ "MoveInLineOfSight", "d4/dde/a19902.html#a6ae48c92d9fec13d66c445a2176b58eb", null ],
+    [ "Reset", "d4/dde/a19902.html#adf35df754ce212e9937f4b7833b81bf6", null ],
+    [ "SummonedCreatureDespawn", "d4/dde/a19902.html#a8019ef0c505c6b71a44da13ed0dd081b", null ],
+    [ "UpdateAI", "d4/dde/a19902.html#a661199c38d5bce921632191132767c32", null ],
+    [ "WaypointReached", "d4/dde/a19902.html#a9619ab9bb68a3da71a6c78e4092632f4", null ],
+    [ "_recastTimer", "d4/dde/a19902.html#ad6f7e7f6a745ba9b7b860030a9a22e9a", null ],
+    [ "_spellTimer", "d4/dde/a19902.html#adc8ed31e1d0d2aac5bd75391b21b7bfb", null ],
+    [ "summons", "d4/dde/a19902.html#ad3a5853ee86922f5854ddf757dada8e9", null ]
 ];

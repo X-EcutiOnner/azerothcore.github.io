@@ -1,10 +1,10 @@
 var a19250 =
 [
-    [ "instance_nexus_InstanceMapScript", "d0/d4e/a19250.html#a6803f233d730f33e5af7dc9d8ecd9775", null ],
-    [ "Initialize", "d0/d4e/a19250.html#a2c6c42e73de2a155c04f80e37aa5d442", null ],
-    [ "OnCreatureCreate", "d0/d4e/a19250.html#a04806dc42aa0b171fa99eb1d8492ff61", null ],
-    [ "OnGameObjectCreate", "d0/d4e/a19250.html#a85c3ac915970d68a192414ca4ff8ad1f", null ],
-    [ "OnGameObjectRemove", "d0/d4e/a19250.html#ac148c67823484eee38ab6646dfb68530", null ],
-    [ "SetBossState", "d0/d4e/a19250.html#a11ac1fbc7c699084e7da5e4bf0595651", null ],
-    [ "SetData", "d0/d4e/a19250.html#a351052b1d3ea4ddb5d36ce69818c7e67", null ]
+    [ "npc_scion_of_eternityAI", "d0/d4e/a19250.html#a2893db70b6a1ffa14d02dd5cea7f7c0a", null ],
+    [ "AttackStart", "d0/d4e/a19250.html#a1335f9e34ff73d5501455062be025ada", null ],
+    [ "JustDied", "d0/d4e/a19250.html#a81dcae5ef2bbd28b891e46c377fbe153", null ],
+    [ "MoveInLineOfSight", "d0/d4e/a19250.html#a74a69fa532f0921285ef678bbd2fa761", null ],
+    [ "UpdateAI", "d0/d4e/a19250.html#adb16afb6ea1583a7156b80a8d833951a", null ],
+    [ "events", "d0/d4e/a19250.html#ae0e194a24a14033a499e68524da1699d", null ],
+    [ "pInstance", "d0/d4e/a19250.html#aa828ca4a75696645d7aa350f1f981f40", null ]
 ];

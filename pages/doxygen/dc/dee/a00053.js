@@ -1,4 +1,4 @@
 var a00053 =
 [
-    [ "lfg::LfgGroupData", "d4/db3/a07883.html", "d4/db3/a07883" ]
+    [ "LogMessage", "d9/da3/a05354.html", "d9/da3/a05354" ]
 ];

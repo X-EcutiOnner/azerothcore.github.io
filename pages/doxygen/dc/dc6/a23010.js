@@ -1,11 +1,9 @@
 var a23010 =
 [
-    [ "boss_doomwalker", "dc/dc6/a23010.html#a47811086ff98b1a09af5300af94b6c0e", null ],
-    [ "JustDied", "dc/dc6/a23010.html#aeefc6b3fdff4375c421318484e0b18a6", null ],
-    [ "JustEngagedWith", "dc/dc6/a23010.html#a01aa1cc0e5feaf9d2f49b54daaf7b13f", null ],
-    [ "KilledUnit", "dc/dc6/a23010.html#a2335eb642940397f73ee2a8051624e8e", null ],
-    [ "MoveInLineOfSight", "dc/dc6/a23010.html#ac0ffd491ac9a4923e3977e09e8ba310e", null ],
-    [ "Reset", "dc/dc6/a23010.html#aba08b227d629c9f35e59f465e29c267b", null ],
-    [ "UpdateAI", "dc/dc6/a23010.html#a3105c50e512c6f709985cece619b131f", null ],
-    [ "_inEnrage", "dc/dc6/a23010.html#a0004e96e25d8f5ad9393e3cdb3a4ce70", null ]
+    [ "boss_najentus", "dc/dc6/a23010.html#ac5d3d54a49524892fe844925d483c244", null ],
+    [ "JustDied", "dc/dc6/a23010.html#afee32dd32033c7a45068ce12e961797c", null ],
+    [ "JustEngagedWith", "dc/dc6/a23010.html#a46e3aab64c21b24ac6457acd598679ec", null ],
+    [ "KilledUnit", "dc/dc6/a23010.html#ad55e1de3aa7a636b3d30b0d61a17dab9", null ],
+    [ "Reset", "dc/dc6/a23010.html#ab7e0bdb8954722c9080146a88a3c5aa2", null ],
+    [ "_canTalk", "dc/dc6/a23010.html#a25ac29a79cdcfb4ebc48de13d677f1d4", null ]
 ];

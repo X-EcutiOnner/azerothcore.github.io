@@ -1,5 +1,6 @@
 var a27562 =
 [
-    [ "npc_stable_masterAI", "d9/d31/a27562.html#a5c6f9bca1004af163ddb074b606330be", null ],
-    [ "sGossipSelect", "d9/d31/a27562.html#a09205661674dd011ffe425deaadde053", null ]
+    [ "npc_injured_patientAI", "d0/d09/a27566.html", "d0/d09/a27566" ],
+    [ "npc_injured_patient", "d9/d31/a27562.html#a0b7ef214aa1b20df088dee0976c73783", null ],
+    [ "GetAI", "d9/d31/a27562.html#a0c042bb81e684f903d28d7879af99d4a", null ]
 ];

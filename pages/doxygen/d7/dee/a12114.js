@@ -1,6 +1,6 @@
 var a12114 =
 [
-    [ "near_scarshield_infiltrator", "d7/dee/a12114.html#a38d2e75946c429b4d80b007f190406bc", null ],
-    [ "OnTrigger", "d7/dee/a12114.html#aeb761433e3210ce85c1de4dab653a87c", null ],
-    [ "whisperedTargets", "d7/dee/a12114.html#a5655e241d2551798a960cb6375c7df23", null ]
+    [ "boss_thebeastAI", "d4/dff/a12118.html", "d4/dff/a12118" ],
+    [ "boss_the_beast", "d7/dee/a12114.html#a131344b5fada63f4a8f0b3692ecba9eb", null ],
+    [ "GetAI", "d7/dee/a12114.html#a0b40497c665c571247cb8ad8b85ac63f", null ]
 ];

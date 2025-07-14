@@ -1,8 +1,7 @@
 var a25362 =
 [
-    [ "HandleFinish", "da/d9d/a25362.html#aac1981a16cbb61bfaf20c865bcfaf6a8", null ],
-    [ "PrepareSpellScript", "da/d9d/a25362.html#a73865997890d4f58cc09d54c2c4e5243", null ],
-    [ "Register", "da/d9d/a25362.html#a106cf5d53956b66f8f548caceda41dc8", null ],
-    [ "SelectTarget", "da/d9d/a25362.html#ab33513df20e942ba354932df5082efa8", null ],
-    [ "_target", "da/d9d/a25362.html#af25d11fc93423ee6e1678ebb5dcf1276", null ]
+    [ "HandleOnEffectApply", "da/d9d/a25362.html#a90359e3dbb5c2c8caf275f21c107ee0a", null ],
+    [ "HandleOnEffectRemove", "da/d9d/a25362.html#a094d788d157474a9683387d5c340538f", null ],
+    [ "PrepareAuraScript", "da/d9d/a25362.html#aad378b8c45f11af51faf9128878c01df", null ],
+    [ "Register", "da/d9d/a25362.html#a8fcc385f504b3b357e9ceab76f11ca46", null ]
 ];

@@ -1,5 +1,6 @@
 var a15018 =
 [
-    [ "at_cthun_center", "d2/d16/a15018.html#a75cf2b77215e0d50c1c89ec9b522ebc3", null ],
-    [ "OnTrigger", "d2/d16/a15018.html#af744df9577e84ab64749076324e574c9", null ]
+    [ "FilterTargets", "d2/d16/a15018.html#ab0cd088c750e9538e2087f58fdaac20e", null ],
+    [ "PrepareSpellScript", "d2/d16/a15018.html#ae252cbce0ebc63eb4e54bedfc88640ad", null ],
+    [ "Register", "d2/d16/a15018.html#a3168a3f97ddb38b261a0730405ba27db", null ]
 ];

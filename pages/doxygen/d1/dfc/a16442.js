@@ -1,14 +1,8 @@
 var a16442 =
 [
-    [ "npc_snobold_vassalAI", "d1/dfc/a16442.html#a2ecc5e8289252b2936f36de9921294e0", null ],
-    [ "AttackStart", "d1/dfc/a16442.html#a50afc82c80cede8dcf3240a116463411", null ],
-    [ "DoAction", "d1/dfc/a16442.html#a8beac97ea5f7c797d2ae52e2f3c3be50", null ],
-    [ "JustDied", "d1/dfc/a16442.html#aef408460584a17f15a84e8a6435c6348", null ],
-    [ "JustEngagedWith", "d1/dfc/a16442.html#a60c1704617e99239d60d24d6b7513c1a", null ],
-    [ "MoveInLineOfSight", "d1/dfc/a16442.html#aae75a4e69e27c1e4778a7f76caff04ba", null ],
-    [ "Reset", "d1/dfc/a16442.html#af794f46b1a7af97b52683954b556c27d", null ],
-    [ "UpdateAI", "d1/dfc/a16442.html#ac1d282da6f2d9133619a212a349c777f", null ],
-    [ "events", "d1/dfc/a16442.html#adfb6df0ee8ab19b58de24da8d4e6d9df", null ],
-    [ "pInstance", "d1/dfc/a16442.html#afc140e6f9fc1ec78914aecc5150345b0", null ],
-    [ "TargetGUID", "d1/dfc/a16442.html#a0d36e4903448c5a03115df0dff3480c8", null ]
+    [ "npc_toc_boomkinAI", "d1/dfc/a16442.html#a12c586d57aa6dd3893889f103dbfee20", null ],
+    [ "JustSummoned", "d1/dfc/a16442.html#a0d049885773b7f1abd7e03f9200852f4", null ],
+    [ "myCanCast", "d1/dfc/a16442.html#a691a0250db77cc4def2bf67b25a1298c", null ],
+    [ "UpdateAI", "d1/dfc/a16442.html#a64b0451537c0d27bc01d1c1ec3b5b88d", null ],
+    [ "events", "d1/dfc/a16442.html#a0b367855092884b2ce30834e89fced87", null ]
 ];

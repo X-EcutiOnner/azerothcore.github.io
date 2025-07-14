@@ -1,8 +1,13 @@
 var a04836 =
 [
-    [ "ByteSize", "d7/dc4/a10816.html", "d7/dc4/a10816" ],
-    [ "Hyperlinks", "db/da6/a10824.html", "db/da6/a10824" ],
-    [ "NoHyperlinks", "d1/d4a/a10828.html", "d1/d4a/a10828" ],
-    [ "RawBytes", "d9/d32/a10812.html", "d9/d32/a10812" ],
-    [ "Utf8", "d0/d01/a10820.html", "d0/d01/a10820" ]
+    [ "LogoutCancel", "d6/df4/a10490.html", "d6/df4/a10490" ],
+    [ "LogoutCancelAck", "de/da7/a10494.html", "de/da7/a10494" ],
+    [ "LogoutComplete", "dd/d95/a10486.html", "dd/d95/a10486" ],
+    [ "LogoutRequest", "d0/dd2/a10478.html", "d0/dd2/a10478" ],
+    [ "LogoutResponse", "df/d55/a10482.html", "df/d55/a10482" ],
+    [ "PlayedTime", "dc/d06/a10506.html", "dc/d06/a10506" ],
+    [ "PlayedTimeClient", "dc/d63/a10502.html", "dc/d63/a10502" ],
+    [ "PlayerLogout", "d2/d5f/a10498.html", "d2/d5f/a10498" ],
+    [ "ShowingCloak", "da/d14/a10470.html", "da/d14/a10470" ],
+    [ "ShowingHelm", "d1/df0/a10474.html", "d1/df0/a10474" ]
 ];

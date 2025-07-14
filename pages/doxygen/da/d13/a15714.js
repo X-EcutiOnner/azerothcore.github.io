@@ -1,8 +1,12 @@
 var a15714 =
 [
-    [ "HandleAfterCast", "da/d13/a15714.html#aa85852ff5e5d03637d1dcc43a446843e", null ],
-    [ "HandleDummyEffect", "da/d13/a15714.html#a539c233fc820248930e1988c4074b9c8", null ],
-    [ "Load", "da/d13/a15714.html#a4fc295b4d8775dce16d913fe4a8ce8cb", null ],
-    [ "PrepareSpellScript", "da/d13/a15714.html#aad6f7f1d29414475b5e678e7bd94737f", null ],
-    [ "Register", "da/d13/a15714.html#ae90184fd34636b33755b732ec82fd52f", null ]
+    [ "DialogueHelper", "da/d13/a15714.html#a3566655e8781bf5f9dff514fcd659421", null ],
+    [ "DialogueUpdate", "da/d13/a15714.html#aaac3463d91a0cdbe2622b4fd85b34ed0", null ],
+    [ "DoNextDialogueStep", "da/d13/a15714.html#a6e23a56ba5c5e4d4ab3b4c6be5cb09af", null ],
+    [ "GetSpeakerByEntry", "da/d13/a15714.html#a50e652ca2cff035d8c79517fdbcfc67a", null ],
+    [ "JustDidDialogueStep", "da/d13/a15714.html#a79e80634f1780895669f5c810958fd4f", null ],
+    [ "StartNextDialogueText", "da/d13/a15714.html#ac16b8b9b50e8b35980d21f161bf33340", null ],
+    [ "_actionTimer", "da/d13/a15714.html#a33b8551c136bcbc896b29d935c155a75", null ],
+    [ "_currentEntry", "da/d13/a15714.html#a89ca5e8d25372bd8ab32322a0a9999f2", null ],
+    [ "_dialogueArray", "da/d13/a15714.html#a489b8cd1c75ced0ec8e34b8051899dd7", null ]
 ];

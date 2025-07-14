@@ -1,6 +1,7 @@
 var a18378 =
 [
-    [ "npc_valithria_portalAI", "d3/deb/a18382.html", "d3/deb/a18382" ],
-    [ "npc_valithria_portal", "d5/d08/a18378.html#a6014d7a57dfe5d21f63c03b3efcbdfc8", null ],
-    [ "GetAI", "d5/d08/a18378.html#a9770ad0bc3732f2271876bbc84885dc0", null ]
+    [ "HandleProc", "d5/d08/a18378.html#af06730a865009127c7d3e5423afd4d44", null ],
+    [ "PrepareAuraScript", "d5/d08/a18378.html#a71a81a19a0c543a4aa43d6bf002b7bb9", null ],
+    [ "Register", "d5/d08/a18378.html#a6c97b787ce00491a259c575d26189f8c", null ],
+    [ "Validate", "d5/d08/a18378.html#aed9c98e20d916359629e119d6dd2a94f", null ]
 ];

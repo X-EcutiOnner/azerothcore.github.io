@@ -1,7 +1,5 @@
 var a21730 =
 [
-    [ "FilterTargets", "d3/d34/a21730.html#af62588a225f0b701a0f9321677ae22b8", null ],
-    [ "HandleScript", "d3/d34/a21730.html#ad68fad08b2613de096e504bb7dea61cd", null ],
-    [ "PrepareSpellScript", "d3/d34/a21730.html#a76ac3fe280585a4e2b2d599b4bcc7846", null ],
-    [ "Register", "d3/d34/a21730.html#a8fdbf1c7ab67c0ef094d738ec9a169d8", null ]
+    [ "go_the_pearl_of_the_depths", "d3/d34/a21730.html#a0e09ddcde0eef050400d90e9a268823a", null ],
+    [ "OnGossipHello", "d3/d34/a21730.html#a745ea14136a78759a3afd7714c6d784a", null ]
 ];

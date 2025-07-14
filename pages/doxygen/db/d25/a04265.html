@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/common/Utilities/MathUtil.h File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/scripts/EasternKingdoms/zone_burning_steppes.cpp File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,184 +105,126 @@ $(document).ready(function(){initNavTree('db/d25/a04265.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
+<a href="#nested-classes">Classes</a> &#124;
+<a href="#enum-members">Enumerations</a> &#124;
 <a href="#func-members">Functions</a>  </div>
-  <div class="headertitle"><div class="title">MathUtil.h File Reference</div></div>
+  <div class="headertitle"><div class="title">zone_burning_steppes.cpp File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &lt;algorithm&gt;</code><br />
-<code>#include &lt;iterator&gt;</code><br />
-<code>#include &lt;numeric&gt;</code><br />
-<code>#include &lt;vector&gt;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">CreatureScript.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Player.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">ScriptedCreature.h</a>&quot;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
+Classes</h2></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d88/a13502.html">npc_maredis_firestar</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d57/a13506.html">npc_maredis_firestar::npc_maredis_firestarAI</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
+Enumerations</h2></td></tr>
+<tr class="memitem:a85e4eeb368c070d1186f1c7c07ab1a42"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d25/a04265.html#a85e4eeb368c070d1186f1c7c07ab1a42">MaredisFirestar</a> { <br />
+&#160;&#160;<a class="el" href="../../db/d25/a04265.html#a85e4eeb368c070d1186f1c7c07ab1a42a677909b58ffc52e1a197d376f77a711e">ITEM_LIBRAM_OF_RUMINATION</a> = 11732
+, <br />
+&#160;&#160;<a class="el" href="../../db/d25/a04265.html#a85e4eeb368c070d1186f1c7c07ab1a42a160f2d52664367620f0ef85b255b3277">ITEM_LIBRAM_OF_CONSTITUTION</a> = 11733
+, <br />
+&#160;&#160;<a class="el" href="../../db/d25/a04265.html#a85e4eeb368c070d1186f1c7c07ab1a42acee05c856cffac557e6f7f8b4b32f173">ITEM_LIBRAM_OF_TENACITY</a> = 11734
+, <br />
+&#160;&#160;<a class="el" href="../../db/d25/a04265.html#a85e4eeb368c070d1186f1c7c07ab1a42a1dc0b7882355b2615ad112a6ffb2d5eb">ITEM_LIBRAM_OF_RESILIENCE</a> = 11736
+, <br />
+&#160;&#160;<a class="el" href="../../db/d25/a04265.html#a85e4eeb368c070d1186f1c7c07ab1a42a500bb7292e2d51375145250bffb2031f">ITEM_LIBRAM_OF_VORACITY</a> = 11737
+, <br />
+&#160;&#160;<a class="el" href="../../db/d25/a04265.html#a85e4eeb368c070d1186f1c7c07ab1a42a25fa31f89537239dc264cdc4afa11c44">GOSSIP_LIBRAM_OF_RUMINATION</a> = 2299
+, <br />
+&#160;&#160;<a class="el" href="../../db/d25/a04265.html#a85e4eeb368c070d1186f1c7c07ab1a42ab11fb925c43c8e71171b5468f9bfbb41">GOSSIP_LIBRAM_OF_CONSTITUTION</a> = 2300
+, <br />
+&#160;&#160;<a class="el" href="../../db/d25/a04265.html#a85e4eeb368c070d1186f1c7c07ab1a42a7e1d61976fe826333b77ae3822af1d4e">GOSSIP_LIBRAM_OF_TENACITY</a> = 2301
+, <br />
+&#160;&#160;<a class="el" href="../../db/d25/a04265.html#a85e4eeb368c070d1186f1c7c07ab1a42a5c617ffeaa015ea23b065a79ac6e8bde">GOSSIP_LIBRAM_OF_RESILIENCE</a> = 2302
+, <br />
+&#160;&#160;<a class="el" href="../../db/d25/a04265.html#a85e4eeb368c070d1186f1c7c07ab1a42a2bc47c8c26124b40bfcf34e4fc21d733">GOSSIP_LIBRAM_OF_VORACITY</a> = 2303
+<br />
+ }</td></tr>
+<tr class="separator:a85e4eeb368c070d1186f1c7c07ab1a42"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:a60ce9c7718ec2901f037e2368f93026d"><td class="memTemplParams" colspan="2">template&lt;typename <a class="el" href="../../dd/db2/a00866.html#abe8666ac87665ba963053cdd2b014750a0e7278cda02a9c0446dcc75a4df34eb2">Container</a> , typename T  = typename std::decay&lt;decltype(*std::begin(std::declval&lt;Container&gt;()))&gt;::type&gt; </td></tr>
-<tr class="memitem:a60ce9c7718ec2901f037e2368f93026d"><td class="memTemplItemLeft" align="right" valign="top">T&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../db/d25/a04265.html#a60ce9c7718ec2901f037e2368f93026d">standard_deviation</a> (<a class="el" href="../../dd/db2/a00866.html#abe8666ac87665ba963053cdd2b014750a0e7278cda02a9c0446dcc75a4df34eb2">Container</a> &amp;&amp;c)</td></tr>
-<tr class="separator:a60ce9c7718ec2901f037e2368f93026d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a64ba279a3d3edca415239118167c0206"><td class="memTemplParams" colspan="2">template&lt;typename <a class="el" href="../../dd/db2/a00866.html#abe8666ac87665ba963053cdd2b014750a0e7278cda02a9c0446dcc75a4df34eb2">Container</a> , typename T  = typename std::decay&lt;decltype(*std::begin(std::declval&lt;Container&gt;()))&gt;::type&gt; </td></tr>
-<tr class="memitem:a64ba279a3d3edca415239118167c0206"><td class="memTemplItemLeft" align="right" valign="top">T&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../db/d25/a04265.html#a64ba279a3d3edca415239118167c0206">mean</a> (<a class="el" href="../../dd/db2/a00866.html#abe8666ac87665ba963053cdd2b014750a0e7278cda02a9c0446dcc75a4df34eb2">Container</a> &amp;&amp;c)</td></tr>
-<tr class="separator:a64ba279a3d3edca415239118167c0206"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4840fd449eb626bea901860e4c1be22a"><td class="memTemplParams" colspan="2">template&lt;typename T &gt; </td></tr>
-<tr class="memitem:a4840fd449eb626bea901860e4c1be22a"><td class="memTemplItemLeft" align="right" valign="top">T&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../db/d25/a04265.html#a4840fd449eb626bea901860e4c1be22a">median</a> (std::vector&lt; T &gt; a)</td></tr>
-<tr class="separator:a4840fd449eb626bea901860e4c1be22a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8cf2165dba1d5e845d5e20fbc1ce33d6"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d25/a04265.html#a8cf2165dba1d5e845d5e20fbc1ce33d6">AddSC_burning_steppes</a> ()</td></tr>
+<tr class="separator:a8cf2165dba1d5e845d5e20fbc1ce33d6"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
+<h2 class="groupheader">Enumeration Type Documentation</h2>
+<a id="a85e4eeb368c070d1186f1c7c07ab1a42" name="a85e4eeb368c070d1186f1c7c07ab1a42"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a85e4eeb368c070d1186f1c7c07ab1a42">&#9670;&#160;</a></span>MaredisFirestar</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="../../db/d25/a04265.html#a85e4eeb368c070d1186f1c7c07ab1a42">MaredisFirestar</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a85e4eeb368c070d1186f1c7c07ab1a42a677909b58ffc52e1a197d376f77a711e" name="a85e4eeb368c070d1186f1c7c07ab1a42a677909b58ffc52e1a197d376f77a711e"></a>ITEM_LIBRAM_OF_RUMINATION&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a85e4eeb368c070d1186f1c7c07ab1a42a160f2d52664367620f0ef85b255b3277" name="a85e4eeb368c070d1186f1c7c07ab1a42a160f2d52664367620f0ef85b255b3277"></a>ITEM_LIBRAM_OF_CONSTITUTION&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a85e4eeb368c070d1186f1c7c07ab1a42acee05c856cffac557e6f7f8b4b32f173" name="a85e4eeb368c070d1186f1c7c07ab1a42acee05c856cffac557e6f7f8b4b32f173"></a>ITEM_LIBRAM_OF_TENACITY&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a85e4eeb368c070d1186f1c7c07ab1a42a1dc0b7882355b2615ad112a6ffb2d5eb" name="a85e4eeb368c070d1186f1c7c07ab1a42a1dc0b7882355b2615ad112a6ffb2d5eb"></a>ITEM_LIBRAM_OF_RESILIENCE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a85e4eeb368c070d1186f1c7c07ab1a42a500bb7292e2d51375145250bffb2031f" name="a85e4eeb368c070d1186f1c7c07ab1a42a500bb7292e2d51375145250bffb2031f"></a>ITEM_LIBRAM_OF_VORACITY&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a85e4eeb368c070d1186f1c7c07ab1a42a25fa31f89537239dc264cdc4afa11c44" name="a85e4eeb368c070d1186f1c7c07ab1a42a25fa31f89537239dc264cdc4afa11c44"></a>GOSSIP_LIBRAM_OF_RUMINATION&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a85e4eeb368c070d1186f1c7c07ab1a42ab11fb925c43c8e71171b5468f9bfbb41" name="a85e4eeb368c070d1186f1c7c07ab1a42ab11fb925c43c8e71171b5468f9bfbb41"></a>GOSSIP_LIBRAM_OF_CONSTITUTION&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a85e4eeb368c070d1186f1c7c07ab1a42a7e1d61976fe826333b77ae3822af1d4e" name="a85e4eeb368c070d1186f1c7c07ab1a42a7e1d61976fe826333b77ae3822af1d4e"></a>GOSSIP_LIBRAM_OF_TENACITY&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a85e4eeb368c070d1186f1c7c07ab1a42a5c617ffeaa015ea23b065a79ac6e8bde" name="a85e4eeb368c070d1186f1c7c07ab1a42a5c617ffeaa015ea23b065a79ac6e8bde"></a>GOSSIP_LIBRAM_OF_RESILIENCE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a85e4eeb368c070d1186f1c7c07ab1a42a2bc47c8c26124b40bfcf34e4fc21d733" name="a85e4eeb368c070d1186f1c7c07ab1a42a2bc47c8c26124b40bfcf34e4fc21d733"></a>GOSSIP_LIBRAM_OF_VORACITY&#160;</td><td class="fielddoc"></td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno">   27</span>{</div>
+<div class="line"><span class="lineno">   28</span>    <a class="code hl_enumvalue" href="../../db/d25/a04265.html#a85e4eeb368c070d1186f1c7c07ab1a42a677909b58ffc52e1a197d376f77a711e">ITEM_LIBRAM_OF_RUMINATION</a>     = 11732,</div>
+<div class="line"><span class="lineno">   29</span>    <a class="code hl_enumvalue" href="../../db/d25/a04265.html#a85e4eeb368c070d1186f1c7c07ab1a42a160f2d52664367620f0ef85b255b3277">ITEM_LIBRAM_OF_CONSTITUTION</a>   = 11733,</div>
+<div class="line"><span class="lineno">   30</span>    <a class="code hl_enumvalue" href="../../db/d25/a04265.html#a85e4eeb368c070d1186f1c7c07ab1a42acee05c856cffac557e6f7f8b4b32f173">ITEM_LIBRAM_OF_TENACITY</a>       = 11734,</div>
+<div class="line"><span class="lineno">   31</span>    <a class="code hl_enumvalue" href="../../db/d25/a04265.html#a85e4eeb368c070d1186f1c7c07ab1a42a1dc0b7882355b2615ad112a6ffb2d5eb">ITEM_LIBRAM_OF_RESILIENCE</a>     = 11736,</div>
+<div class="line"><span class="lineno">   32</span>    <a class="code hl_enumvalue" href="../../db/d25/a04265.html#a85e4eeb368c070d1186f1c7c07ab1a42a500bb7292e2d51375145250bffb2031f">ITEM_LIBRAM_OF_VORACITY</a>       = 11737,</div>
+<div class="line"><span class="lineno">   33</span>    <a class="code hl_enumvalue" href="../../db/d25/a04265.html#a85e4eeb368c070d1186f1c7c07ab1a42a25fa31f89537239dc264cdc4afa11c44">GOSSIP_LIBRAM_OF_RUMINATION</a>   = 2299,</div>
+<div class="line"><span class="lineno">   34</span>    <a class="code hl_enumvalue" href="../../db/d25/a04265.html#a85e4eeb368c070d1186f1c7c07ab1a42ab11fb925c43c8e71171b5468f9bfbb41">GOSSIP_LIBRAM_OF_CONSTITUTION</a> = 2300,</div>
+<div class="line"><span class="lineno">   35</span>    <a class="code hl_enumvalue" href="../../db/d25/a04265.html#a85e4eeb368c070d1186f1c7c07ab1a42a7e1d61976fe826333b77ae3822af1d4e">GOSSIP_LIBRAM_OF_TENACITY</a>     = 2301,</div>
+<div class="line"><span class="lineno">   36</span>    <a class="code hl_enumvalue" href="../../db/d25/a04265.html#a85e4eeb368c070d1186f1c7c07ab1a42a5c617ffeaa015ea23b065a79ac6e8bde">GOSSIP_LIBRAM_OF_RESILIENCE</a>   = 2302,</div>
+<div class="line"><span class="lineno">   37</span>    <a class="code hl_enumvalue" href="../../db/d25/a04265.html#a85e4eeb368c070d1186f1c7c07ab1a42a2bc47c8c26124b40bfcf34e4fc21d733">GOSSIP_LIBRAM_OF_VORACITY</a>     = 2303</div>
+<div class="line"><span class="lineno">   38</span>};</div>
+<div class="ttc" id="aa04265_html_a85e4eeb368c070d1186f1c7c07ab1a42a160f2d52664367620f0ef85b255b3277"><div class="ttname"><a href="../../db/d25/a04265.html#a85e4eeb368c070d1186f1c7c07ab1a42a160f2d52664367620f0ef85b255b3277">ITEM_LIBRAM_OF_CONSTITUTION</a></div><div class="ttdeci">@ ITEM_LIBRAM_OF_CONSTITUTION</div><div class="ttdef"><b>Definition:</b> zone_burning_steppes.cpp:29</div></div>
+<div class="ttc" id="aa04265_html_a85e4eeb368c070d1186f1c7c07ab1a42a1dc0b7882355b2615ad112a6ffb2d5eb"><div class="ttname"><a href="../../db/d25/a04265.html#a85e4eeb368c070d1186f1c7c07ab1a42a1dc0b7882355b2615ad112a6ffb2d5eb">ITEM_LIBRAM_OF_RESILIENCE</a></div><div class="ttdeci">@ ITEM_LIBRAM_OF_RESILIENCE</div><div class="ttdef"><b>Definition:</b> zone_burning_steppes.cpp:31</div></div>
+<div class="ttc" id="aa04265_html_a85e4eeb368c070d1186f1c7c07ab1a42a25fa31f89537239dc264cdc4afa11c44"><div class="ttname"><a href="../../db/d25/a04265.html#a85e4eeb368c070d1186f1c7c07ab1a42a25fa31f89537239dc264cdc4afa11c44">GOSSIP_LIBRAM_OF_RUMINATION</a></div><div class="ttdeci">@ GOSSIP_LIBRAM_OF_RUMINATION</div><div class="ttdef"><b>Definition:</b> zone_burning_steppes.cpp:33</div></div>
+<div class="ttc" id="aa04265_html_a85e4eeb368c070d1186f1c7c07ab1a42a2bc47c8c26124b40bfcf34e4fc21d733"><div class="ttname"><a href="../../db/d25/a04265.html#a85e4eeb368c070d1186f1c7c07ab1a42a2bc47c8c26124b40bfcf34e4fc21d733">GOSSIP_LIBRAM_OF_VORACITY</a></div><div class="ttdeci">@ GOSSIP_LIBRAM_OF_VORACITY</div><div class="ttdef"><b>Definition:</b> zone_burning_steppes.cpp:37</div></div>
+<div class="ttc" id="aa04265_html_a85e4eeb368c070d1186f1c7c07ab1a42a500bb7292e2d51375145250bffb2031f"><div class="ttname"><a href="../../db/d25/a04265.html#a85e4eeb368c070d1186f1c7c07ab1a42a500bb7292e2d51375145250bffb2031f">ITEM_LIBRAM_OF_VORACITY</a></div><div class="ttdeci">@ ITEM_LIBRAM_OF_VORACITY</div><div class="ttdef"><b>Definition:</b> zone_burning_steppes.cpp:32</div></div>
+<div class="ttc" id="aa04265_html_a85e4eeb368c070d1186f1c7c07ab1a42a5c617ffeaa015ea23b065a79ac6e8bde"><div class="ttname"><a href="../../db/d25/a04265.html#a85e4eeb368c070d1186f1c7c07ab1a42a5c617ffeaa015ea23b065a79ac6e8bde">GOSSIP_LIBRAM_OF_RESILIENCE</a></div><div class="ttdeci">@ GOSSIP_LIBRAM_OF_RESILIENCE</div><div class="ttdef"><b>Definition:</b> zone_burning_steppes.cpp:36</div></div>
+<div class="ttc" id="aa04265_html_a85e4eeb368c070d1186f1c7c07ab1a42a677909b58ffc52e1a197d376f77a711e"><div class="ttname"><a href="../../db/d25/a04265.html#a85e4eeb368c070d1186f1c7c07ab1a42a677909b58ffc52e1a197d376f77a711e">ITEM_LIBRAM_OF_RUMINATION</a></div><div class="ttdeci">@ ITEM_LIBRAM_OF_RUMINATION</div><div class="ttdef"><b>Definition:</b> zone_burning_steppes.cpp:28</div></div>
+<div class="ttc" id="aa04265_html_a85e4eeb368c070d1186f1c7c07ab1a42a7e1d61976fe826333b77ae3822af1d4e"><div class="ttname"><a href="../../db/d25/a04265.html#a85e4eeb368c070d1186f1c7c07ab1a42a7e1d61976fe826333b77ae3822af1d4e">GOSSIP_LIBRAM_OF_TENACITY</a></div><div class="ttdeci">@ GOSSIP_LIBRAM_OF_TENACITY</div><div class="ttdef"><b>Definition:</b> zone_burning_steppes.cpp:35</div></div>
+<div class="ttc" id="aa04265_html_a85e4eeb368c070d1186f1c7c07ab1a42ab11fb925c43c8e71171b5468f9bfbb41"><div class="ttname"><a href="../../db/d25/a04265.html#a85e4eeb368c070d1186f1c7c07ab1a42ab11fb925c43c8e71171b5468f9bfbb41">GOSSIP_LIBRAM_OF_CONSTITUTION</a></div><div class="ttdeci">@ GOSSIP_LIBRAM_OF_CONSTITUTION</div><div class="ttdef"><b>Definition:</b> zone_burning_steppes.cpp:34</div></div>
+<div class="ttc" id="aa04265_html_a85e4eeb368c070d1186f1c7c07ab1a42acee05c856cffac557e6f7f8b4b32f173"><div class="ttname"><a href="../../db/d25/a04265.html#a85e4eeb368c070d1186f1c7c07ab1a42acee05c856cffac557e6f7f8b4b32f173">ITEM_LIBRAM_OF_TENACITY</a></div><div class="ttdeci">@ ITEM_LIBRAM_OF_TENACITY</div><div class="ttdef"><b>Definition:</b> zone_burning_steppes.cpp:30</div></div>
+</div><!-- fragment -->
+</div>
+</div>
 <h2 class="groupheader">Function Documentation</h2>
-<a id="a64ba279a3d3edca415239118167c0206" name="a64ba279a3d3edca415239118167c0206"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a64ba279a3d3edca415239118167c0206">&#9670;&#160;</a></span>mean()</h2>
+<a id="a8cf2165dba1d5e845d5e20fbc1ce33d6" name="a8cf2165dba1d5e845d5e20fbc1ce33d6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8cf2165dba1d5e845d5e20fbc1ce33d6">&#9670;&#160;</a></span>AddSC_burning_steppes()</h2>
 
 <div class="memitem">
 <div class="memproto">
-<div class="memtemplate">
-template&lt;typename <a class="el" href="../../dd/db2/a00866.html#abe8666ac87665ba963053cdd2b014750a0e7278cda02a9c0446dcc75a4df34eb2">Container</a> , typename T  = typename std::decay&lt;decltype(*std::begin(std::declval&lt;Container&gt;()))&gt;::type&gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">T mean </td>
+          <td class="memname">void AddSC_burning_steppes </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../dd/db2/a00866.html#abe8666ac87665ba963053cdd2b014750a0e7278cda02a9c0446dcc75a4df34eb2">Container</a> &amp;&amp;&#160;</td>
-          <td class="paramname"><em>c</em></td><td>)</td>
+          <td class="paramname"></td><td>)</td>
           <td></td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   50</span>{</div>
-<div class="line"><span class="lineno">   51</span>    <span class="keyword">auto</span> b = std::begin(c), e = std::end(c);</div>
-<div class="line"><span class="lineno">   52</span>    <span class="keyword">auto</span> size = std::distance(b, e);</div>
-<div class="line"><span class="lineno">   53</span>    <span class="keyword">auto</span> sum = std::accumulate(b, e, T());</div>
-<div class="line"><span class="lineno">   54</span>    <span class="keywordflow">return</span> sum / size;</div>
-<div class="line"><span class="lineno">   55</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">   90</span>{</div>
+<div class="line"><span class="lineno">   91</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d3/d88/a13502.html">npc_maredis_firestar</a>();</div>
+<div class="line"><span class="lineno">   92</span>}</div>
+<div class="ttc" id="aa13502_html"><div class="ttname"><a href="../../d3/d88/a13502.html">npc_maredis_firestar</a></div><div class="ttdef"><b>Definition:</b> zone_burning_steppes.cpp:41</div></div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00918">WorldSession::ComputeNewClockDelta()</a>, and <a class="el" href="../../#l00028">standard_deviation()</a>.</p>
-
-</div>
-</div>
-<a id="a4840fd449eb626bea901860e4c1be22a" name="a4840fd449eb626bea901860e4c1be22a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4840fd449eb626bea901860e4c1be22a">&#9670;&#160;</a></span>median()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;typename T &gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">T median </td>
-          <td>(</td>
-          <td class="paramtype">std::vector&lt; T &gt;&#160;</td>
-          <td class="paramname"><em>a</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   60</span>{</div>
-<div class="line"><span class="lineno">   61</span>    std::size_t n = a.size();</div>
-<div class="line"><span class="lineno">   62</span>    <span class="comment">// If size of the arr[] is even</span></div>
-<div class="line"><span class="lineno">   63</span>    <span class="keywordflow">if</span> (n % 2 == 0)</div>
-<div class="line"><span class="lineno">   64</span>    {</div>
-<div class="line"><span class="lineno">   65</span> </div>
-<div class="line"><span class="lineno">   66</span>        <span class="comment">// Applying nth_element</span></div>
-<div class="line"><span class="lineno">   67</span>        <span class="comment">// on n/2th index</span></div>
-<div class="line"><span class="lineno">   68</span>        std::nth_element(a.begin(),</div>
-<div class="line"><span class="lineno">   69</span>            a.begin() + n / 2,</div>
-<div class="line"><span class="lineno">   70</span>            a.end());</div>
-<div class="line"><span class="lineno">   71</span> </div>
-<div class="line"><span class="lineno">   72</span>        <span class="comment">// Applying nth_element</span></div>
-<div class="line"><span class="lineno">   73</span>        <span class="comment">// on (n-1)/2 th index</span></div>
-<div class="line"><span class="lineno">   74</span>        std::nth_element(a.begin(),</div>
-<div class="line"><span class="lineno">   75</span>            a.begin() + (n - 1) / 2,</div>
-<div class="line"><span class="lineno">   76</span>            a.end());</div>
-<div class="line"><span class="lineno">   77</span> </div>
-<div class="line"><span class="lineno">   78</span>        <span class="comment">// Find the average of value at</span></div>
-<div class="line"><span class="lineno">   79</span>        <span class="comment">// index N/2 and (N-1)/2</span></div>
-<div class="line"><span class="lineno">   80</span>        <span class="keywordflow">return</span> (T)(a[(n - 1) / 2]</div>
-<div class="line"><span class="lineno">   81</span>            + a[n / 2])</div>
-<div class="line"><span class="lineno">   82</span>            / 2.0;</div>
-<div class="line"><span class="lineno">   83</span>    }</div>
-<div class="line"><span class="lineno">   84</span> </div>
-<div class="line"><span class="lineno">   85</span>    <span class="comment">// If size of the arr[] is odd</span></div>
-<div class="line"><span class="lineno">   86</span>    <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">   87</span>    {</div>
-<div class="line"><span class="lineno">   88</span> </div>
-<div class="line"><span class="lineno">   89</span>        <span class="comment">// Applying nth_element</span></div>
-<div class="line"><span class="lineno">   90</span>        <span class="comment">// on n/2</span></div>
-<div class="line"><span class="lineno">   91</span>        std::nth_element(a.begin(),</div>
-<div class="line"><span class="lineno">   92</span>            a.begin() + n / 2,</div>
-<div class="line"><span class="lineno">   93</span>            a.end());</div>
-<div class="line"><span class="lineno">   94</span> </div>
-<div class="line"><span class="lineno">   95</span>        <span class="comment">// Value at index (N/2)th</span></div>
-<div class="line"><span class="lineno">   96</span>        <span class="comment">// is the median</span></div>
-<div class="line"><span class="lineno">   97</span>        <span class="keywordflow">return</span> (T)a[n / 2];</div>
-<div class="line"><span class="lineno">   98</span>    }</div>
-<div class="line"><span class="lineno">   99</span>}</div>
-</div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00918">WorldSession::ComputeNewClockDelta()</a>.</p>
-
-</div>
-</div>
-<a id="a60ce9c7718ec2901f037e2368f93026d" name="a60ce9c7718ec2901f037e2368f93026d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a60ce9c7718ec2901f037e2368f93026d">&#9670;&#160;</a></span>standard_deviation()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;typename <a class="el" href="../../dd/db2/a00866.html#abe8666ac87665ba963053cdd2b014750a0e7278cda02a9c0446dcc75a4df34eb2">Container</a> , typename T  = typename std::decay&lt;decltype(*std::begin(std::declval&lt;Container&gt;()))&gt;::type&gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">T standard_deviation </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../dd/db2/a00866.html#abe8666ac87665ba963053cdd2b014750a0e7278cda02a9c0446dcc75a4df34eb2">Container</a> &amp;&amp;&#160;</td>
-          <td class="paramname"><em>c</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   29</span>{</div>
-<div class="line"><span class="lineno">   30</span>    <span class="keyword">auto</span> b = std::begin(c), e = std::end(c);</div>
-<div class="line"><span class="lineno">   31</span>    <span class="keyword">auto</span> size = std::distance(b, e);</div>
-<div class="line"><span class="lineno">   32</span>    <span class="keyword">auto</span> sum = std::accumulate(b, e, T());</div>
-<div class="line"><span class="lineno">   33</span>    <span class="keyword">auto</span> <a class="code hl_function" href="../../db/d25/a04265.html#a64ba279a3d3edca415239118167c0206">mean</a> = sum / size;</div>
-<div class="line"><span class="lineno">   34</span> </div>
-<div class="line"><span class="lineno">   35</span>    <span class="keywordflow">if</span> (size == 1)</div>
-<div class="line"><span class="lineno">   36</span>    {</div>
-<div class="line"><span class="lineno">   37</span>        <span class="keywordflow">return</span> (T) 0;</div>
-<div class="line"><span class="lineno">   38</span>    }</div>
-<div class="line"><span class="lineno">   39</span> </div>
-<div class="line"><span class="lineno">   40</span>    T accum = T();</div>
-<div class="line"><span class="lineno">   41</span>    <span class="keywordflow">for</span> (<span class="keyword">const</span> <span class="keyword">auto</span> d : c)</div>
-<div class="line"><span class="lineno">   42</span>    {</div>
-<div class="line"><span class="lineno">   43</span>        accum += (d - <a class="code hl_function" href="../../db/d25/a04265.html#a64ba279a3d3edca415239118167c0206">mean</a>) * (d - <a class="code hl_function" href="../../db/d25/a04265.html#a64ba279a3d3edca415239118167c0206">mean</a>);</div>
-<div class="line"><span class="lineno">   44</span>    }</div>
-<div class="line"><span class="lineno">   45</span>    <span class="keywordflow">return</span> std::sqrt(accum / (size - 1));</div>
-<div class="line"><span class="lineno">   46</span>}</div>
-<div class="ttc" id="aa04265_html_a64ba279a3d3edca415239118167c0206"><div class="ttname"><a href="../../db/d25/a04265.html#a64ba279a3d3edca415239118167c0206">mean</a></div><div class="ttdeci">T mean(Container &amp;&amp;c)</div><div class="ttdef"><b>Definition:</b> MathUtil.h:49</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00049">mean()</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00918">WorldSession::ComputeNewClockDelta()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00168">AddEasternKingdomsScripts()</a>.</p>
 
 </div>
 </div>
@@ -291,8 +233,8 @@ template&lt;typename <a class="el" href="../../dd/db2/a00866.html#abe8666ac87665
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1070012e9e40376f8468ff0aa5b77c71.html">common</a></li><li class="navelem"><a class="el" href="../../dir_5b60c41b3dc3977dce15646b3e6a9085.html">Utilities</a></li><li class="navelem"><a class="el" href="../../db/d25/a04265.html">MathUtil.h</a></li>
-    <li class="footer">Generated on Mon Jul 7 2025 20:47:21 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_ddeb450e5fe586f747c0635391d1d1d6.html">EasternKingdoms</a></li><li class="navelem"><a class="el" href="../../db/d25/a04265.html">zone_burning_steppes.cpp</a></li>
+    <li class="footer">Generated on Mon Jul 14 2025 20:48:56 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

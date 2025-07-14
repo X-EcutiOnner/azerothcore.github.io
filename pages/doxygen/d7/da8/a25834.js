@@ -1,6 +1,6 @@
 var a25834 =
 [
-    [ "OnPeriodic", "d7/da8/a25834.html#a889285ef034aaa7eaaa8e86fb5380cf0", null ],
-    [ "PrepareAuraScript", "d7/da8/a25834.html#a3fd2da3d7b1b8a78916515b7e3e188cf", null ],
-    [ "Register", "d7/da8/a25834.html#a62e5ab81f9548e4d983d0c4dde14eaad", null ]
+    [ "HandleDummy", "d7/da8/a25834.html#a9530db7f75987879285d224fb8381c2b", null ],
+    [ "PrepareSpellScript", "d7/da8/a25834.html#ad1c1bdb577739f769802127960aaf9e5", null ],
+    [ "Register", "d7/da8/a25834.html#ae3a340132caf3f8839631c92015d47a0", null ]
 ];

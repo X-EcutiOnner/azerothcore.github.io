@@ -1,10 +1,10 @@
 var a25998 =
 [
-    [ "Load", "dd/d46/a25998.html#a4330a13b4144aa0a2e299c5cb00b1aea", null ],
-    [ "PrepareAuraScript", "dd/d46/a25998.html#ae04fa1b54e4b0219d1dcdf998e708c29", null ],
-    [ "Register", "dd/d46/a25998.html#a3031d32b7366f7f707cbb69e3cb96fc8", null ],
-    [ "Split", "dd/d46/a25998.html#aa28fe4ba6a8a501318b6d1d49a2fa9b9", null ],
-    [ "groupSize", "dd/d46/a25998.html#aa1e61b128f63c802dc623be551657df1", null ],
-    [ "minHpPct", "dd/d46/a25998.html#a279f1a2b232a7be981e4315c9e8595e4", null ],
-    [ "remainingAmount", "dd/d46/a25998.html#ad00a550f82d6b3ae77c3112c753de60b", null ]
+    [ "CheckProc", "dd/d46/a25998.html#a787008462dce35eb27deda41301b146d", null ],
+    [ "HandleProc", "dd/d46/a25998.html#a5b791c7cb8dae574fef801ce42dc6aa1", null ],
+    [ "Load", "dd/d46/a25998.html#a9760351c28f5f9948f0b64ae2ca91c24", null ],
+    [ "PrepareAuraScript", "dd/d46/a25998.html#ab3d5e71597c67ec0aed70f7e5d2319ac", null ],
+    [ "Register", "dd/d46/a25998.html#aa4ef731870355dc386fcd07c5f19d090", null ],
+    [ "Validate", "dd/d46/a25998.html#ad04864f0710262364cf40e071446d87c", null ],
+    [ "_procTarget", "dd/d46/a25998.html#a9383231fc71c6239507fdf8765d63f3d", null ]
 ];

@@ -1,7 +1,5 @@
 var a19186 =
 [
-    [ "EoEDrakeEnterVehicleEvent", "d5/d37/a19186.html#afc529efe07da017e529dc6d5ebc6e7dc", null ],
-    [ "Execute", "d5/d37/a19186.html#a368a613ba7861f7903b80e6f7f0dd64f", null ],
-    [ "_owner", "d5/d37/a19186.html#ab48302fdff800afddfeec2c0d756873c", null ],
-    [ "_playerGUID", "d5/d37/a19186.html#add56bff0695453e01f300e0434a39ec8", null ]
+    [ "at_thaddius_entrance", "d5/d37/a19186.html#ad81a60cac337baad82ea526de1d151d1", null ],
+    [ "OnTrigger", "d5/d37/a19186.html#af8635a58d4da0421b72b4451c1ebafc5", null ]
 ];

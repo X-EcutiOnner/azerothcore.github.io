@@ -1,5 +1,6 @@
 var a21558 =
 [
-    [ "npc_steam_powered_auctioneerAI", "df/d6b/a21558.html#a5ef3dfd385ee3e5a49bd5c0e165103fc", null ],
-    [ "CanBeSeen", "df/d6b/a21558.html#a3352588abda326f7c72d0764a3f53370", null ]
+    [ "npc_imprisoned_beryl_sorcererAI", "d9/da4/a21562.html", "d9/da4/a21562" ],
+    [ "npc_imprisoned_beryl_sorcerer", "df/d6b/a21558.html#a6317eb89406cf6b99f63ecfa7f9999d1", null ],
+    [ "GetAI", "df/d6b/a21558.html#aedb301f6da8460f3ed1d81d4b5f2f63c", null ]
 ];

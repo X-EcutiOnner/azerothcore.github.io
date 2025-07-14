@@ -1,6 +1,6 @@
 var a22202 =
 [
-    [ "npc_icefangAI", "df/da6/a22206.html", "df/da6/a22206" ],
-    [ "npc_icefang", "d6/db4/a22202.html#a2e13be89b110abaa2509e597e4cf883a", null ],
-    [ "GetAI", "d6/db4/a22202.html#ad1a936b1eef30271912054a817e0c9f8", null ]
+    [ "npc_jungle_punch_targetAI", "df/da6/a22206.html", "df/da6/a22206" ],
+    [ "npc_jungle_punch_target", "d6/db4/a22202.html#a69220634d9d6b84e464cdc4e0cba91a7", null ],
+    [ "GetAI", "d6/db4/a22202.html#abb38ccb55abfe0f48f360469031c6902", null ]
 ];

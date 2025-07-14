@@ -1,6 +1,5 @@
 var a18098 =
 [
-    [ "boss_the_lich_kingAI", "d9/d65/a18102.html", "d9/d65/a18102" ],
-    [ "boss_the_lich_king", "d4/d57/a18098.html#a10e2789a98a85907d24eabae6d7655f4", null ],
-    [ "GetAI", "d4/d57/a18098.html#ab12d8cdfdb1c5428423f6db9dda6c97e", null ]
+    [ "achievement_all_you_can_eat", "d4/d57/a18098.html#a0995024862a445ea1f0ff5c82475fc64", null ],
+    [ "OnCheck", "d4/d57/a18098.html#a0baa07a7cbd239e4a5fcfd3e687aedf6", null ]
 ];

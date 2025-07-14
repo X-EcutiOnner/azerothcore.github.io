@@ -1,7 +1,7 @@
 var a17066 =
 [
-    [ "HandleDummy", "de/d0d/a17066.html#ab614c27fbeb0fc6cac42c3e8f981e11d", null ],
-    [ "PrepareSpellScript", "de/d0d/a17066.html#a3ef0564565ea49265800422c835432b0", null ],
-    [ "Register", "de/d0d/a17066.html#a7b685926a8d511397889616e97bbd563", null ],
-    [ "Validate", "de/d0d/a17066.html#aecd40c136e44dfc9c5e4dd572d577578", null ]
+    [ "npc_pos_icicle_triggerAI", "de/d0d/a17066.html#a28477c5f88b5ec77dc3e021ec01401ce", null ],
+    [ "UpdateAI", "de/d0d/a17066.html#a32d9b6bd2f0b994adb33e2bd99dd34ce", null ],
+    [ "pInstance", "de/d0d/a17066.html#ad4ed0e2380c62cc6dd7d309edfd34ac1", null ],
+    [ "timer", "de/d0d/a17066.html#a91277c41ddebffed7e9dac7098cd78bd", null ]
 ];

@@ -1,8 +1,13 @@
 var a16210 =
 [
-    [ "npc_announcer_toc5AI", "d5/d0d/a16210.html#a96e1bd089dfd21fa252bc6422d20bada", null ],
-    [ "DamageTaken", "d5/d0d/a16210.html#a53458483699ac026ff2cd36b5f061571", null ],
-    [ "MovementInform", "d5/d0d/a16210.html#acdcf4110b3815635ad173a70e7a1e603", null ],
-    [ "Reset", "d5/d0d/a16210.html#ab3dca17e0350d6d46a9069f97f2d12ef", null ],
-    [ "UpdateAI", "d5/d0d/a16210.html#ad2c596253d67d051f497a8d77859846d", null ]
+    [ "boss_eadricAI", "d5/d0d/a16210.html#a461043fe1bff0f5478e2a57504e7477c", null ],
+    [ "DamageTaken", "d5/d0d/a16210.html#a440899ffdeda7794ef4fa5530638eecc", null ],
+    [ "JustEngagedWith", "d5/d0d/a16210.html#a09a0cebcdffb00e37e9d60111c582669", null ],
+    [ "KilledUnit", "d5/d0d/a16210.html#a0bc5d9ba3f45460e62eebdad4e68b8bd", null ],
+    [ "MovementInform", "d5/d0d/a16210.html#aa20253b3f0aec2678b2e3b1c3a9d1a47", null ],
+    [ "Reset", "d5/d0d/a16210.html#a8776bc2937ed9dc4decd1e71929edf65", null ],
+    [ "SpellHit", "d5/d0d/a16210.html#aef7c66b9ff0a728c140899940a2d7e85", null ],
+    [ "UpdateAI", "d5/d0d/a16210.html#a38e8052f3e5d8d81bb4b79fb41717efb", null ],
+    [ "events", "d5/d0d/a16210.html#a5804ea238fd1c32201c3be943d2fe5ca", null ],
+    [ "pInstance", "d5/d0d/a16210.html#a43a8f2beebae9bb27ff03e0e9af2d36b", null ]
 ];

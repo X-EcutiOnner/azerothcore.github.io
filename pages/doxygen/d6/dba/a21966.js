@@ -1,6 +1,7 @@
 var a21966 =
 [
-    [ "npc_boneguard_footmanAI", "d6/dba/a21966.html#a04eff1976824724b321f0c0d95e0940a", null ],
-    [ "UpdateAI", "d6/dba/a21966.html#a9cba65867824daeb50cb2b39d68ad84b", null ],
-    [ "checkTimer", "d6/dba/a21966.html#a46dd1fa8d111dca0584a8e6fb7a6a566", null ]
+    [ "HandleAfterEffectApply", "d6/dba/a21966.html#ab54795dc49ca453db40494a694158a98", null ],
+    [ "PrepareAuraScript", "d6/dba/a21966.html#a3e5902a79b9d2c5cad69ad2ece8592ec", null ],
+    [ "Register", "d6/dba/a21966.html#addd4fac4cc8a93d800abacb144e3303c", null ],
+    [ "Validate", "d6/dba/a21966.html#a3ee65a1391c340e471adfc7ac653dd50", null ]
 ];

@@ -1,4 +1,4 @@
 var a01862 =
 [
-    [ "ScriptRegistry< AreaTriggerScript >", "d0/d4a/a01862.html#a0447158682f05ead25ae60d49a490088", null ]
+    [ "ScriptRegistry< UnitScript >", "d0/d4a/a01862.html#aced42ee6099fa72848b9b4aef527ebc3", null ]
 ];

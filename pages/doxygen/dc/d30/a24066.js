@@ -1,6 +1,6 @@
 var a24066 =
 [
-    [ "npc_mature_netherwing_drakeAI", "da/dc3/a24070.html", "da/dc3/a24070" ],
-    [ "npc_mature_netherwing_drake", "dc/d30/a24066.html#a3369bd143ff9e46a4ad4c44b6d8c0ec5", null ],
-    [ "GetAI", "dc/d30/a24066.html#ac5a1dad24920396156f22ab02bfab84b", null ]
+    [ "npc_creditmarker_visit_with_ancestorsAI", "da/dc3/a24070.html", "da/dc3/a24070" ],
+    [ "npc_creditmarker_visit_with_ancestors", "dc/d30/a24066.html#a60f7abac7198d8504d944828dceb1ffa", null ],
+    [ "GetAI", "dc/d30/a24066.html#a06eb335a757c9f48fbfa64bfc326bb8e", null ]
 ];

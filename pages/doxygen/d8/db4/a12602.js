@@ -1,10 +1,8 @@
 var a12602 =
 [
-    [ "boss_servant_quarters", "d8/db4/a12602.html#aedf2869e3fbc1ebd13caedffa60bbf5f", null ],
-    [ "JustDied", "d8/db4/a12602.html#a3b9df7ab573f22a9e15761cb662db404", null ],
-    [ "JustEngagedWith", "d8/db4/a12602.html#afe4a4a78824851f63ce560a60d55cee3", null ],
-    [ "MovementInform", "d8/db4/a12602.html#a00d31d9421903b6a92c03a3bd0382328", null ],
-    [ "Reset", "d8/db4/a12602.html#a273a09b1242968a5dd45ab9866fbe481", null ],
-    [ "UpdateAI", "d8/db4/a12602.html#a6a41cfd67310077803733190645050e4", null ],
-    [ "_scheduler", "d8/db4/a12602.html#a520142de5e8d2911684b18c85a3f37e2", null ]
+    [ "HandleEffectRemove", "d8/db4/a12602.html#a5e5a218cb491b830ec8d50609a3d54ae", null ],
+    [ "if", "d8/db4/a12602.html#a8596fc98402bf952484c9567f61c7820", null ],
+    [ "PrepareAuraScript", "d8/db4/a12602.html#a4055f781a914de631187b00ba7aefeef", null ],
+    [ "Register", "d8/db4/a12602.html#aefb4bbae43558abde871548088784613", null ],
+    [ "AuraEffectHandleModes", "d8/db4/a12602.html#a7d419ba41e68b70740a867a2265824bd", null ]
 ];

@@ -1,7 +1,6 @@
 var a13998 =
 [
-    [ "HandleApply", "d8/da5/a13998.html#a92734043e53b5e1ef81fa9b5ccce135e", null ],
-    [ "HandleRemove", "d8/da5/a13998.html#a56bf9c77cf96b1e34543a59fc2a308b2", null ],
-    [ "PrepareAuraScript", "d8/da5/a13998.html#ae3bcbf588e46cb0e81160fdd48502566", null ],
-    [ "Register", "d8/da5/a13998.html#af2343add2ed014832bd34d11519b391b", null ]
+    [ "FilterTargets", "d8/da5/a13998.html#ac29f6792f36f1b5ef4a463754c725a2e", null ],
+    [ "PrepareSpellScript", "d8/da5/a13998.html#a0a1cbde8aff10303d91a791276a865f4", null ],
+    [ "Register", "d8/da5/a13998.html#a9f7d21ab52f581ad154a242ce84d8a5d", null ]
 ];

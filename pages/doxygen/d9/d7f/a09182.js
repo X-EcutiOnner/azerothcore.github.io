@@ -1,13 +1,8 @@
 var a09182 =
 [
-    [ "WorldObjectWorker", "d9/d7f/a09182.html#a15dd68579f1a92f015cfac8577db7422", null ],
-    [ "Visit", "d9/d7f/a09182.html#ae264461e49602fd0b8a17e30ed554c64", null ],
-    [ "Visit", "d9/d7f/a09182.html#a3021825347d132f1368a77d29a8318df", null ],
-    [ "Visit", "d9/d7f/a09182.html#a7b7869c7d151e8abc924f517ecfdef82", null ],
-    [ "Visit", "d9/d7f/a09182.html#a7de6ea339a8113d242dd099ca4d36927", null ],
-    [ "Visit", "d9/d7f/a09182.html#a29196fa36ce32a0cec68d0d67372a400", null ],
-    [ "Visit", "d9/d7f/a09182.html#a17097541c49264c15ebfe474f54aeca2", null ],
-    [ "i_do", "d9/d7f/a09182.html#aa16ce8cce21d4590ef6612e14fb48919", null ],
-    [ "i_mapTypeMask", "d9/d7f/a09182.html#a6f8e447b9693154f56ce010869acadb9", null ],
-    [ "i_phaseMask", "d9/d7f/a09182.html#affa6245985c5d271900be12104ab6bb6", null ]
+    [ "AIRelocationNotifier", "d9/d7f/a09182.html#ab19dba99802231bc1ba7b3ae3cb4bdb3", null ],
+    [ "Visit", "d9/d7f/a09182.html#a06dd774a24d4a1da36a2a862c0ad97df", null ],
+    [ "Visit", "d9/d7f/a09182.html#a0ec9a2499d73516dd2d4a0319990924a", null ],
+    [ "i_unit", "d9/d7f/a09182.html#ab1dd814e4d94ed2989bb07012a24d40e", null ],
+    [ "isCreature", "d9/d7f/a09182.html#a199f4b91d00dd4db90855e5521d87a95", null ]
 ];

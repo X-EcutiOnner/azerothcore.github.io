@@ -1,6 +1,6 @@
 var a25970 =
 [
-    [ "HandleRemove", "d2/d92/a25970.html#a491765056e8c4d97d9cdaaea9d11a0af", null ],
-    [ "PrepareAuraScript", "d2/d92/a25970.html#abe5d45b960fda879f48e3e98db9ad4ac", null ],
-    [ "Register", "d2/d92/a25970.html#ab00f3119d6c1bd1ad185374144f2987e", null ]
+    [ "CheckProc", "d2/d92/a25970.html#af38c2b1c556a1fcdb1157468cd02811e", null ],
+    [ "PrepareAuraScript", "d2/d92/a25970.html#a42b97406721d3493a378394132a55981", null ],
+    [ "Register", "d2/d92/a25970.html#af4d514906f66af1b2f2392bcfc5e8b9c", null ]
 ];

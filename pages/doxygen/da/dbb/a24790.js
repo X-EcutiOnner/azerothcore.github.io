@@ -1,9 +1,6 @@
 var a24790 =
 [
-    [ "spell_gen_select_target_count", "da/dbb/a24790.html#a65507c155a8746ff49c58c051b7868e4", null ],
-    [ "FilterTargets", "da/dbb/a24790.html#a5de89be9ce321a0f4ac49853a700b502", null ],
-    [ "PrepareSpellScript", "da/dbb/a24790.html#a42ddce15414dcdf495b572e0f75e9486", null ],
-    [ "Register", "da/dbb/a24790.html#a94f86992275123e2e3989655cf077efd", null ],
-    [ "_count", "da/dbb/a24790.html#acdf5daa848ae185b859c45a1271df68c", null ],
-    [ "_effTarget", "da/dbb/a24790.html#a9c54508790062277c8275d2466e93fb3", null ]
+    [ "HandleScript", "da/dbb/a24790.html#a7bf5f9d28a916704bd1ece8acc64fe59", null ],
+    [ "PrepareSpellScript", "da/dbb/a24790.html#ab9193654a0534dc82c4c93a3158f3f7a", null ],
+    [ "Register", "da/dbb/a24790.html#a0f0360e8b2db795046c3b76e6db0a97e", null ]
 ];

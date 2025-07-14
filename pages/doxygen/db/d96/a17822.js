@@ -1,6 +1,6 @@
 var a17822 =
 [
-    [ "OnRemove", "db/d96/a17822.html#a5b9f23b815b1c85ecf2e56c626ce5077", null ],
-    [ "PrepareAuraScript", "db/d96/a17822.html#a9207d9f59026e1beb7c266ee3a1ef884", null ],
-    [ "Register", "db/d96/a17822.html#ad9eb03a09fc13f6b2b30e9f6cc1990bc", null ]
+    [ "UnboundPlagueTargetSelector", "db/d96/a17822.html#aedde7e013418bf6ff54cf3d3b8a70206", null ],
+    [ "operator()", "db/d96/a17822.html#ae5fc2623d4eb0b0a82b3eaa464c92458", null ],
+    [ "_source", "db/d96/a17822.html#a87eb77615e443ccec373d571708a156a", null ]
 ];

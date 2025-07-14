@@ -1,6 +1,6 @@
 var a27174 =
 [
-    [ "go_darkmoon_faire_musicAI", "d9/d24/a27178.html", "d9/d24/a27178" ],
-    [ "go_darkmoon_faire_music", "dd/d6d/a27174.html#ab8dd92213e1c2815ff9498267b09b5f2", null ],
-    [ "GetAI", "dd/d6d/a27174.html#a03be3eddefe4eeba8a0af8ee02bf2839", null ]
+    [ "go_witherbark_totem_bundleAI", "d9/d24/a27178.html", "d9/d24/a27178" ],
+    [ "go_witherbark_totem_bundle", "dd/d6d/a27174.html#affcdff7ec6894add0acec842028efd2e", null ],
+    [ "GetAI", "dd/d6d/a27174.html#a5ac2b3b572d67fdcc587f242f3d50f97", null ]
 ];

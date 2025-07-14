@@ -1,5 +1,5 @@
 var a03953 =
 [
-    [ "gm_commandscript", "df/d4b/a11616.html", "df/d4b/a11616" ],
-    [ "AddSC_gm_commandscript", "d7/d5e/a03953.html#a65c7b128fdf4dd9807ef514c24918e7b", null ]
+    [ "send_commandscript", "d7/d7c/a11750.html", "d7/d7c/a11750" ],
+    [ "AddSC_send_commandscript", "d7/d5e/a03953.html#a9f3fee551f6ca7aa7dad83edb2dfe480", null ]
 ];

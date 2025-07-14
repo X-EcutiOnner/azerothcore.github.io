@@ -1,6 +1,6 @@
 var a12762 =
 [
-    [ "boss_garaxxas", "d4/dba/a12762.html#af34e3ef5dac400fb7c217f46345ee9bb", null ],
-    [ "JustEngagedWith", "d4/dba/a12762.html#aebfd7b63d714468ed69e920fb89c345d", null ],
-    [ "Reset", "d4/dba/a12762.html#a56e6489ce49971cb066444888355626e", null ]
+    [ "npc_image_of_medivhAI", "d3/db0/a12766.html", "d3/db0/a12766" ],
+    [ "npc_image_of_medivh", "d4/dba/a12762.html#a55ee6f97bc7f144209927a2813cab6a9", null ],
+    [ "GetAI", "d4/dba/a12762.html#a11769c47fda3f1c4d8d80329f70d1957", null ]
 ];

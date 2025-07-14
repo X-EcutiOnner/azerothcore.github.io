@@ -1,4 +1,5 @@
 var a00437 =
 [
-    [ "Movement::MoveSplineFlag", "dd/db5/a10044.html", "dd/db5/a10044" ]
+    [ "DataMap", "de/dc0/a05446.html", "de/dc0/a05446" ],
+    [ "DataMap::Base", "d1/db8/a05450.html", "d1/db8/a05450" ]
 ];

@@ -1,6 +1,8 @@
 var a12922 =
 [
-    [ "npc_a_special_surpriseAI", "db/d6e/a12926.html", "db/d6e/a12926" ],
-    [ "npc_a_special_surprise", "db/d0b/a12922.html#ab88d74a86049c53b1569bdcc263f3dd4", null ],
-    [ "GetAI", "db/d0b/a12922.html#a930c7ba67a20fbfc55b40117ccd52c98", null ]
+    [ "npc_scarlet_miner_cartAI", "db/d0b/a12922.html#a4256e3bc9f6678dc85a3b702e1c531f8", null ],
+    [ "DoAction", "db/d0b/a12922.html#a99ac60b1a60cc5f269aa7f02f3fd5083", null ],
+    [ "PassengerBoarded", "db/d0b/a12922.html#a3539847efa7014a8e31a78ace83b6bc5", null ],
+    [ "SetGUID", "db/d0b/a12922.html#a5679fef6f40d0e48547e7bd57a93a176", null ],
+    [ "minerGUID", "db/d0b/a12922.html#a084e80b43b5b30b5e1794feff305e9b3", null ]
 ];

@@ -1,6 +1,6 @@
 var a18346 =
 [
-    [ "boss_valithria_dreamwalkerAI", "dc/dcc/a18350.html", "dc/dcc/a18350" ],
-    [ "boss_valithria_dreamwalker", "d7/d9f/a18346.html#afcc6dc92d94330d3aed67f71452f9cd2", null ],
-    [ "GetAI", "d7/d9f/a18346.html#a0f0bacefa7e3d682a5db81a14f2ff947", null ]
+    [ "npc_strangulate_vehicleAI", "dc/dcc/a18350.html", "dc/dcc/a18350" ],
+    [ "npc_strangulate_vehicle", "d7/d9f/a18346.html#a04532bc5902af45b1e9c76cf1cec9add", null ],
+    [ "GetAI", "d7/d9f/a18346.html#aa5813442234d7b18fc4e7ed44a0b30bc", null ]
 ];

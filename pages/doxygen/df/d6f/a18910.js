@@ -1,6 +1,6 @@
 var a18910 =
 [
-    [ "npc_gothik_triggerAI", "d0/dcf/a18914.html", "d0/dcf/a18914" ],
-    [ "npc_gothik_trigger", "df/d6f/a18910.html#a6975122d49b0d76fb2b33b310a7ccb71", null ],
-    [ "GetAI", "df/d6f/a18910.html#a9b3b47e95d2c41c109a9ccd3915b89ff", null ]
+    [ "npc_four_car_garageAI", "df/d6f/a18910.html#a2eedf5934e12d33cda0ac173d82220d5", null ],
+    [ "JustDied", "df/d6f/a18910.html#a1fba9f03dca2db37b5cb969079b25d22", null ],
+    [ "PassengerBoarded", "df/d6f/a18910.html#a144bc36a5c4ff227c8a7dc146d4167b6", null ]
 ];

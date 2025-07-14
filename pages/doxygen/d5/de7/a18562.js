@@ -1,6 +1,5 @@
 var a18562 =
 [
-    [ "npc_impaling_spearAI", "d2/daa/a18566.html", "d2/daa/a18566" ],
-    [ "npc_impaling_spear", "d5/de7/a18562.html#af546ed9684fc085ad651bf5bd93e5bf7", null ],
-    [ "GetAI", "d5/de7/a18562.html#aad49164a3e7541b755c1c622b996bb9a", null ]
+    [ "achievement_portal_jockey", "d5/de7/a18562.html#a6c6c4779072386ab7b64bad92762e2ac", null ],
+    [ "OnCheck", "d5/de7/a18562.html#a2695b1fee353be7340f319c632a43efc", null ]
 ];

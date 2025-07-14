@@ -1,11 +1,8 @@
 var a22338 =
 [
-    [ "npc_drakuru_shacklesAI", "d3/d72/a22338.html#aeb55bf23d97e963b0fb9a18596bb58b1", null ],
-    [ "LockRageclaw", "d3/d72/a22338.html#aa58fff9ee8e6cbe4d2dd0d391215f1f4", null ],
-    [ "Reset", "d3/d72/a22338.html#a566fba51edcddab8c5b0bf5688571f80", null ],
-    [ "SpellHit", "d3/d72/a22338.html#a04a9f0cc28cd8cab89120e66972b74cf", null ],
-    [ "UnlockRageclaw", "d3/d72/a22338.html#a65a4b408ac09ffa3155b955dc054d971", null ],
-    [ "UpdateAI", "d3/d72/a22338.html#a8a04ac89e5ec9ce841445913765a1a73", null ],
-    [ "_rageclawGUID", "d3/d72/a22338.html#a1c991305f4ef30146930747881e57de4", null ],
-    [ "timer", "d3/d72/a22338.html#a2a6484216abd731ad016284a79575e1c", null ]
+    [ "npc_wg_spirit_guideAI", "d6/d3b/a22342.html", "d6/d3b/a22342" ],
+    [ "npc_wg_spirit_guide", "d3/d72/a22338.html#ad6ca047a51547203ee2c5f69efb6f2d3", null ],
+    [ "GetAI", "d3/d72/a22338.html#a769cdf4ac330b5dec71437d325aaf46a", null ],
+    [ "OnGossipHello", "d3/d72/a22338.html#a2d46078cb47f817239685d168f7f2e35", null ],
+    [ "OnGossipSelect", "d3/d72/a22338.html#aae050d38b9fa9c16d398d2733b1e5faf", null ]
 ];

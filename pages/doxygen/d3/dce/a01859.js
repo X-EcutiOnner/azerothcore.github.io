@@ -1,11 +1,13 @@
 var a01859 =
 [
-    [ "SpellScriptLoader", "db/d5f/a10356.html", "db/d5f/a10356" ],
-    [ "GenericSpellAndAuraScriptLoader< Ts >", "dc/d6b/a10360.html", "dc/d6b/a10360" ],
-    [ "RegisterSpellAndAuraScriptPair", "d3/dce/a01859.html#a69b21d1b83cecaba944f4e9379bc866c", null ],
-    [ "RegisterSpellAndAuraScriptPairWithArgs", "d3/dce/a01859.html#aeffc3c8d08a35d5969c33508488e9051", null ],
-    [ "RegisterSpellScript", "d3/dce/a01859.html#ae221e5976ab29ba14fec3b073a03670f", null ],
-    [ "RegisterSpellScriptWithArgs", "d3/dce/a01859.html#aedecf91f4fce46852db865deae243e1f", null ],
-    [ "is_AuraScript", "d3/dce/a01859.html#a08facc7292565931370e1cc514f726e1", null ],
-    [ "is_SpellScript", "d3/dce/a01859.html#a2b573b538dcbf3da43ae603709d93bf2", null ]
+    [ "ServerScript", "db/da6/a10366.html", "db/da6/a10366" ],
+    [ "ServerHook", "d3/dce/a01859.html#af8cee964a488266c6dec6c3b76b1a2d9", [
+      [ "SERVERHOOK_ON_NETWORK_START", "d3/dce/a01859.html#af8cee964a488266c6dec6c3b76b1a2d9aa644f9d52a55cf9cf2a11293c30d53e3", null ],
+      [ "SERVERHOOK_ON_NETWORK_STOP", "d3/dce/a01859.html#af8cee964a488266c6dec6c3b76b1a2d9a750717da9270f21f519c8d5a05d7a3b4", null ],
+      [ "SERVERHOOK_ON_SOCKET_OPEN", "d3/dce/a01859.html#af8cee964a488266c6dec6c3b76b1a2d9af5241aced10e2c6c6077ac764206c6bd", null ],
+      [ "SERVERHOOK_ON_SOCKET_CLOSE", "d3/dce/a01859.html#af8cee964a488266c6dec6c3b76b1a2d9ace5af0b477d230f9aa1e51c82789dc8d", null ],
+      [ "SERVERHOOK_CAN_PACKET_SEND", "d3/dce/a01859.html#af8cee964a488266c6dec6c3b76b1a2d9a7efd4b6dcfe8fd03b250b045c1dcaf12", null ],
+      [ "SERVERHOOK_CAN_PACKET_RECEIVE", "d3/dce/a01859.html#af8cee964a488266c6dec6c3b76b1a2d9ad4bcaa584ee5ee3556aabfe396d2e971", null ],
+      [ "SERVERHOOK_END", "d3/dce/a01859.html#af8cee964a488266c6dec6c3b76b1a2d9a9292463242a21cee981d7f24a964e6dc", null ]
+    ] ]
 ];

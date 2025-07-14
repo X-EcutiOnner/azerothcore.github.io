@@ -1,11 +1,9 @@
 var a07038 =
 [
-    [ "count", "d8/d33/a07038.html#a3fc02342ec2cdd81de7ef378edf30b54", null ],
-    [ "enchants", "d8/d33/a07038.html#af076353ee7ce0fd3665e13449c248629", null ],
-    [ "entry", "d8/d33/a07038.html#aa3332c4ea806c944c9c4e95ddb31efa9", null ],
-    [ "itemName", "d8/d33/a07038.html#a9184925bad61ad58f35c4e4b3dbccd81", null ],
-    [ "itemTemplate", "d8/d33/a07038.html#a356adde7f6574f697e02e6657f325baa", null ],
-    [ "randomPropertyId", "d8/d33/a07038.html#aa1c185178359f1cbd5afcedd38a0e69f", null ],
-    [ "spellCharges", "d8/d33/a07038.html#a73f9647b66aa316bdb97c50a20bc826f", null ],
-    [ "suffixFactor", "d8/d33/a07038.html#a650acd7b902fd4038f1ea384f595b058", null ]
+    [ "SmartWaypointMgr", "d8/d33/a07038.html#ad9168edcc4fd16260178d4a9277f71ba", null ],
+    [ "~SmartWaypointMgr", "d8/d33/a07038.html#a300be22ad39e320833297c3f05cdcecc", null ],
+    [ "GetPath", "d8/d33/a07038.html#ac3ea00baf665a3a201c911c875600010", null ],
+    [ "instance", "d8/d33/a07038.html#a7ae477d4d210d938e167453d9085e520", null ],
+    [ "LoadFromDB", "d8/d33/a07038.html#a9b5cdb29d31e7de0a407f600aef482af", null ],
+    [ "waypoint_map", "d8/d33/a07038.html#a6acec90c526e47c3b16d1ba556f79c35", null ]
 ];

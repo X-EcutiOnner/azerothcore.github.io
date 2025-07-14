@@ -1,10 +1,7 @@
 var a24986 =
 [
-    [ "Load", "df/d99/a24986.html#a18e05511c2dc0b934a97e323fccc3f50", null ],
-    [ "OnApply", "df/d99/a24986.html#a1fe8240f5c553ba56ce9c2ff9338f75b", null ],
-    [ "OnRemove", "df/d99/a24986.html#a29834c598d6ef8299d54e48a3461e603", null ],
-    [ "PrepareAuraScript", "df/d99/a24986.html#a0529b56b30fa7bb97c014bbc2ee4a96a", null ],
-    [ "Register", "df/d99/a24986.html#a5174f07fde3469c2314a3c1fbba5f432", null ],
-    [ "Validate", "df/d99/a24986.html#aeaf16594f569af671d221234a4aa2c8b", null ],
-    [ "prevItem", "df/d99/a24986.html#ad4c0402ae71e663534ed8fd137a9afd2", null ]
+    [ "HandleScript", "df/d99/a24986.html#a2e323378559d8f11cbdbcb76e86a25ca", null ],
+    [ "PrepareSpellScript", "df/d99/a24986.html#ad511986b26dccd1be8206f01458c2b40", null ],
+    [ "Register", "df/d99/a24986.html#aa8ea297d751913def150dc1e29d37664", null ],
+    [ "Validate", "df/d99/a24986.html#a81222d8ac4f55175d1dc4d7c359cc331", null ]
 ];

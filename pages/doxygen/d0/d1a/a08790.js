@@ -1,8 +1,8 @@
 var a08790 =
 [
-    [ "Entry", "d0/d1a/a08790.html#ac9fa29db15e06513805124a56cd073e8", null ],
-    [ "ExtendedCost", "d0/d1a/a08790.html#ac826dc078ef456ed93bf23175bce243d", null ],
-    [ "Incrtime", "d0/d1a/a08790.html#a95ce707d0a2b00e65c2cd4c5ddda1ea5", null ],
-    [ "Item", "d0/d1a/a08790.html#aa500da847d94a9b70cb3a26b782059b3", null ],
-    [ "MaxCount", "d0/d1a/a08790.html#a04534ff42e5889995b5203a3257bc864", null ]
+    [ "VehicleSeat", "d0/d1a/a08790.html#ad2d19e3fc73c06cd7c8e339bd2b45a0c", null ],
+    [ "IsEmpty", "d0/d1a/a08790.html#a9f68076857cb85ee7679f04043acdedc", null ],
+    [ "Passenger", "d0/d1a/a08790.html#ac334f2f573bf52f164d570f8b83fc197", null ],
+    [ "SeatAddon", "d0/d1a/a08790.html#a3c46401aa5859287e4bcb24141c848cc", null ],
+    [ "SeatInfo", "d0/d1a/a08790.html#add0cf92d445f6ea0cf910b0bc0d80b62", null ]
 ];

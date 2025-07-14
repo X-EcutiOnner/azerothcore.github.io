@@ -1,8 +1,12 @@
 var a14286 =
 [
-    [ "npc_hallows_end_train_fire", "d0/d2c/a14286.html#a0aacc53a7410590e8d1f05aa8d3e37ba", null ],
-    [ "Reset", "d0/d2c/a14286.html#afdda52e0adce23f56fa9d1357469a17d", null ],
-    [ "SpellHit", "d0/d2c/a14286.html#a5767b2a5a2ca1813812cf078b0dd1189", null ],
-    [ "UpdateAI", "d0/d2c/a14286.html#a686a565e1743c31166d8d57f67a0adce", null ],
-    [ "timer", "d0/d2c/a14286.html#a7fa7d23a587ab632d1b9a2b803f83cd4", null ]
+    [ "npc_alexstraza_the_lifebinder", "d0/d2c/a14286.html#a7c30258540803bde75843cb070b6a288", null ],
+    [ "MoveInLineOfSight", "d0/d2c/a14286.html#af5960eb1cf63fb0b5b8dc2bfd86b8e47", null ],
+    [ "Reset", "d0/d2c/a14286.html#a8144ed8ada8cd4fb11d74393ed0c525a", null ],
+    [ "SetData", "d0/d2c/a14286.html#aead5ae4ffda9732829e39b8c485a3c3e", null ],
+    [ "UpdateAI", "d0/d2c/a14286.html#ad13b21d571833210b1c069b7ea8bea05", null ],
+    [ "orphanGUID", "d0/d2c/a14286.html#a7c2901f01e4fcafaea9c00ff58dbeaf3", null ],
+    [ "phase", "d0/d2c/a14286.html#a98216e43888854ac93f22169a0e253e5", null ],
+    [ "playerGUID", "d0/d2c/a14286.html#a063fc935bc8f46f5487e9c338e497ec4", null ],
+    [ "timer", "d0/d2c/a14286.html#a41791aaa24102383fe4d3f43c714c3bb", null ]
 ];

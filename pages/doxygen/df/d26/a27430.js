@@ -1,6 +1,7 @@
 var a27430 =
 [
-    [ "npc_training_dummyAI", "df/d15/a27434.html", "df/d15/a27434" ],
-    [ "npc_training_dummy", "df/d26/a27430.html#acfed4da3b1a01bc58e599d2dc134cb7d", null ],
-    [ "GetAI", "df/d26/a27430.html#a87a48a42e8349ce9125de91a429d4ffa", null ]
+    [ "npc_engineering_tele_trinket", "df/d26/a27430.html#ab891a8378a7b1b63151d05801b8b2fd1", null ],
+    [ "CanLearn", "df/d26/a27430.html#a8a35f1c09a9df609561e76f4ed578647", null ],
+    [ "OnGossipHello", "df/d26/a27430.html#ad11f576fb7efad0f6ea4cf22d3bc4e59", null ],
+    [ "OnGossipSelect", "df/d26/a27430.html#a4d7125cf0333d4e5ebc299019c8feb1a", null ]
 ];

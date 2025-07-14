@@ -1,12 +1,10 @@
 var a27378 =
 [
-    [ "npc_preciousAI", "d8/d64/a27378.html#ade66f3aa2ff9ac85c99a9d31591fcabf", null ],
-    [ "FlagForDespawn", "d8/d64/a27378.html#a934a5147c1cc9937189011fb061657da", null ],
-    [ "InitializeAI", "d8/d64/a27378.html#aa15843c4029f2df2ee04d21b5157602a", null ],
-    [ "JustEngagedWith", "d8/d64/a27378.html#a58bc4149111605850f070a77ee776313", null ],
-    [ "JustReachedHome", "d8/d64/a27378.html#a31893e9441b24398554370a58ef8bd78", null ],
-    [ "Reset", "d8/d64/a27378.html#aa1c39ce0110827d35ae2d5ea794e1744", null ],
-    [ "UpdateAI", "d8/d64/a27378.html#a2f3428807957bd60fdbe6f694bb6d3ef", null ],
-    [ "events", "d8/d64/a27378.html#a69a20e759b1bcb631cef0bf1e4dd8a1b", null ],
-    [ "flaggedForDespawn", "d8/d64/a27378.html#a48e891f8afce9408ed38c51a0e2d4005", null ]
+    [ "guard_shattrath_aldorAI", "d8/d64/a27378.html#a88961dfe4100dfe207af693a1eed86ad", null ],
+    [ "Reset", "d8/d64/a27378.html#aef38e83e90c322bbef18b78e6339ef2e", null ],
+    [ "UpdateAI", "d8/d64/a27378.html#ac87ee12d4487971b68c70f06f63eb410", null ],
+    [ "banishTimer", "d8/d64/a27378.html#a8b6e4c2acb09c65f2dbebbd21df4f29e", null ],
+    [ "canTeleport", "d8/d64/a27378.html#af4d933b56431d2f2755d87fb05922458", null ],
+    [ "exileTimer", "d8/d64/a27378.html#a8d56205206f3e14184922f96873456ad", null ],
+    [ "playerGUID", "d8/d64/a27378.html#a16fe41ae30d54abaf12f68672b93dc32", null ]
 ];

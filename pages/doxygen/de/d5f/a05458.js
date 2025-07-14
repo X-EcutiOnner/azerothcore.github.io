@@ -1,8 +1,6 @@
 var a05458 =
 [
-    [ "result_type", "de/d5f/a05458.html#a20f96383bade76c6185d8f20f458784e", null ],
-    [ "Instance", "de/d5f/a05458.html#a5ff7fcb1f8d34861b0c210eddc450681", null ],
-    [ "max", "de/d5f/a05458.html#ad5dcf280f768ebd79210caf6ecff4290", null ],
-    [ "min", "de/d5f/a05458.html#ab153ffca65139db4084745302dd4db7f", null ],
-    [ "operator()", "de/d5f/a05458.html#afe5f6dd94cbc6add3fd13fa3fe37b60d", null ]
+    [ "operator()", "de/d5f/a05458.html#a0221f13bb39f5087bce33b6075edaf3b", null ],
+    [ "operator+=", "de/d5f/a05458.html#a685854261b2714cf924622e58a88e6b6", null ],
+    [ "functions", "de/d5f/a05458.html#aae8c666d695a517a3ad1e08afa8c355a", null ]
 ];

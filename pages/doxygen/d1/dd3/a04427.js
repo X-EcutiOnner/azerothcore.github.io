@@ -1,17 +1,57 @@
 var a04427 =
 [
-    [ "GetBranch", "d1/dd3/a04427.html#a0353e7a37f6f7102283a92975eb1f56f", null ],
-    [ "GetBuildDirectory", "d1/dd3/a04427.html#a51523316de8184739b710e472a8ce843", null ],
-    [ "GetCMakeCommand", "d1/dd3/a04427.html#a9d2cbfd79c6c215859ddad44996a8a8c", null ],
-    [ "GetCMakeVersion", "d1/dd3/a04427.html#a83b62eaf53be851b0bd82c3a00b934d1", null ],
-    [ "GetCompanyNameStr", "d1/dd3/a04427.html#a72b700a0bbbdb2829e283fe892f1ba51", null ],
-    [ "GetDate", "d1/dd3/a04427.html#a10817e6a26ea352c0f79233d2ef552a8", null ],
-    [ "GetFileVersionStr", "d1/dd3/a04427.html#a631c2811f3f8b72a16dfa2ceb7c4cb42", null ],
-    [ "GetFullVersion", "d1/dd3/a04427.html#ad68b75fc60314941c3cbade8eafcda23", null ],
-    [ "GetHash", "d1/dd3/a04427.html#addcf1401768f04ea13a6e868d9580605", null ],
-    [ "GetHostOSVersion", "d1/dd3/a04427.html#ad63ab422bd364927fa88a394e82fc2a7", null ],
-    [ "GetLegalCopyrightStr", "d1/dd3/a04427.html#abd1a810f85a1f404d88e3f7e61cc85cc", null ],
-    [ "GetMySQLExecutable", "d1/dd3/a04427.html#a13f3b200d2427f6546ebddd3b54b7fcf", null ],
-    [ "GetProductVersionStr", "d1/dd3/a04427.html#abbfa02a4b9aba10f263252be4d3f48fc", null ],
-    [ "GetSourceDirectory", "d1/dd3/a04427.html#a1062fcec3676f562803f4775d95a9594", null ]
+    [ "npc_deathstalker_erland", "de/d5e/a13622.html", "de/d5e/a13622" ],
+    [ "npc_deathstalker_erland::npc_deathstalker_erlandAI", "dd/df4/a13626.html", "dd/df4/a13626" ],
+    [ "npc_deathstalker_fearleia", "d1/db3/a13630.html", "d1/db3/a13630" ],
+    [ "npc_ravenclaw_apparition", "dd/dee/a13634.html", "dd/dee/a13634" ],
+    [ "npc_ravenclaw_apparition::npc_ravenclaw_apparitionAI", "d5/def/a13638.html", "d5/def/a13638" ],
+    [ "ApparitionEvents", "d1/dd3/a04427.html#ac7d12f884ef22dca36021fe54df83416", [
+      [ "EVENT_APPA_INTRO", "d1/dd3/a04427.html#ac7d12f884ef22dca36021fe54df83416acb7d83e4f63d87d9e07acd3fe790cf3f", null ],
+      [ "EVENT_APPA_SAY_1", "d1/dd3/a04427.html#ac7d12f884ef22dca36021fe54df83416a5a70df4d34c2d8566d6f1f2223da8358", null ],
+      [ "EVENT_APPA_SAY_2", "d1/dd3/a04427.html#ac7d12f884ef22dca36021fe54df83416aef4150f2e8b273cda80a22afb309dcbd", null ],
+      [ "EVENT_APPA_SAY_3", "d1/dd3/a04427.html#ac7d12f884ef22dca36021fe54df83416a50dff15dc08a087b69b6e1f3e759e873", null ],
+      [ "EVENT_APPA_SAY_4", "d1/dd3/a04427.html#ac7d12f884ef22dca36021fe54df83416aef8c0d8bbd31ac1280da5e1d047b090c", null ],
+      [ "EVENT_APPA_OUTRO", "d1/dd3/a04427.html#ac7d12f884ef22dca36021fe54df83416a282f4f3128aee30886a27079ebbadade", null ],
+      [ "EVENT_APPA_OUTRO_CROWD", "d1/dd3/a04427.html#ac7d12f884ef22dca36021fe54df83416a43a816ba27d12306c8859a065298090a", null ],
+      [ "EVENT_APPA_OUTRO_END", "d1/dd3/a04427.html#ac7d12f884ef22dca36021fe54df83416a67c26d38a1c04c6defc255ec84508341", null ]
+    ] ],
+    [ "ApparitionMisc", "d1/dd3/a04427.html#a5909181236bb4736208a6dab8aa72de3", [
+      [ "NPC_GNOLL_RUNNER", "d1/dd3/a04427.html#a5909181236bb4736208a6dab8aa72de3aa926c07b3e0e442ce56cd705d02adbb1", null ],
+      [ "NPC_GNOLL_MYSTIC", "d1/dd3/a04427.html#a5909181236bb4736208a6dab8aa72de3acd80c1eed7ee155c06297c43fe4ded15", null ],
+      [ "EMOTE_CHEER", "d1/dd3/a04427.html#a5909181236bb4736208a6dab8aa72de3a91a471fc43ea92dee1d1ab4ee7792204", null ],
+      [ "EMOTE_GNOLL_CHEER", "d1/dd3/a04427.html#a5909181236bb4736208a6dab8aa72de3a989ea1d9c4ed491fb34d5c665e00cd07", null ],
+      [ "SAY_APPA_INTRO", "d1/dd3/a04427.html#a5909181236bb4736208a6dab8aa72de3a48c8c5efde4afd1945ded15985be957e", null ],
+      [ "SAY_APPA_OUTRO", "d1/dd3/a04427.html#a5909181236bb4736208a6dab8aa72de3aeaee8eb03b5ecc83ec4c4bce61234a14", null ],
+      [ "SAY_APPA_OPTION_1_1", "d1/dd3/a04427.html#a5909181236bb4736208a6dab8aa72de3a7ce5157a61c4ae4a36c10e911838c759", null ],
+      [ "SAY_APPA_OPTION_1_2", "d1/dd3/a04427.html#a5909181236bb4736208a6dab8aa72de3a09f22f871c7677ce21215036738e9599", null ],
+      [ "SAY_APPA_OPTION_1_3", "d1/dd3/a04427.html#a5909181236bb4736208a6dab8aa72de3a7d6be30b7c3a5eaf04bb4faf64258f4c", null ],
+      [ "SAY_APPA_OPTION_1_4", "d1/dd3/a04427.html#a5909181236bb4736208a6dab8aa72de3ac5f229a48574f471bef97c854953dd56", null ],
+      [ "SAY_APPA_OPTION_2_1", "d1/dd3/a04427.html#a5909181236bb4736208a6dab8aa72de3ae47c4533188c68c14269a2ae1e03495a", null ],
+      [ "SAY_APPA_OPTION_2_2", "d1/dd3/a04427.html#a5909181236bb4736208a6dab8aa72de3a906e509283cd756dd51d23385e635c52", null ],
+      [ "SAY_APPA_OPTION_2_3", "d1/dd3/a04427.html#a5909181236bb4736208a6dab8aa72de3a500da27ff93fe5afe164b9cfadf8c97f", null ],
+      [ "SAY_APPA_OPTION_2_4", "d1/dd3/a04427.html#a5909181236bb4736208a6dab8aa72de3a9c27b474b7cc468aa2d897347fb9ddab", null ]
+    ] ],
+    [ "Erland", "d1/dd3/a04427.html#a17833146260016bd364b0aeabe951117", [
+      [ "SAY_QUESTACCEPT", "d1/dd3/a04427.html#a17833146260016bd364b0aeabe951117ac55a400e0f3da4381ab1048e5115d2d7", null ],
+      [ "SAY_START", "d1/dd3/a04427.html#a17833146260016bd364b0aeabe951117a2eae21cbf7d110ee89a9798ef6f00239", null ],
+      [ "SAY_AGGRO", "d1/dd3/a04427.html#a17833146260016bd364b0aeabe951117a47c752fff069f3e55065795eef2a9bfe", null ],
+      [ "SAY_PROGRESS", "d1/dd3/a04427.html#a17833146260016bd364b0aeabe951117a0a1c1c8ee2f4fb58f4e107f259c6a7a5", null ],
+      [ "SAY_LAST", "d1/dd3/a04427.html#a17833146260016bd364b0aeabe951117a37a618ea7771d6b731851ae8b9a71789", null ],
+      [ "SAY_RANE", "d1/dd3/a04427.html#a17833146260016bd364b0aeabe951117aa74f95bb40d8ed4f48055905dc06d093", null ],
+      [ "SAY_RANE_ANSWER", "d1/dd3/a04427.html#a17833146260016bd364b0aeabe951117ab0a630e891967ea5f9e0b2b1d4ff8c7b", null ],
+      [ "SAY_MOVE_QUINN", "d1/dd3/a04427.html#a17833146260016bd364b0aeabe951117a8b9954338ee30878ef14f9fb11ed1139", null ],
+      [ "SAY_QUINN", "d1/dd3/a04427.html#a17833146260016bd364b0aeabe951117ac996a5c00ede30152bc87c96f2f29344", null ],
+      [ "SAY_QUINN_ANSWER", "d1/dd3/a04427.html#a17833146260016bd364b0aeabe951117a5f9017092c9843fc6c48bd100c50f167", null ],
+      [ "SAY_BYE", "d1/dd3/a04427.html#a17833146260016bd364b0aeabe951117abad8d0d4b1cbadaec38e64cea8c488c4", null ],
+      [ "QUEST_ESCORTING", "d1/dd3/a04427.html#a17833146260016bd364b0aeabe951117a9dd84d8712737f5cf17048c4475c3c42", null ],
+      [ "NPC_RANE", "d1/dd3/a04427.html#a17833146260016bd364b0aeabe951117ac32a913ef393de880014e21b55d9f566", null ],
+      [ "NPC_QUINN", "d1/dd3/a04427.html#a17833146260016bd364b0aeabe951117aa0a34bb710b174abf06aa875f3a3e82e", null ]
+    ] ],
+    [ "PyrewoodAmbush", "d1/dd3/a04427.html#a877721d69d53f57a970e68fafa98f026", [
+      [ "QUEST_PYREWOOD_AMBUSH", "d1/dd3/a04427.html#a877721d69d53f57a970e68fafa98f026a92b54f289feb991fd918a0e654bd6c77", null ],
+      [ "NPCSAY_INIT", "d1/dd3/a04427.html#a877721d69d53f57a970e68fafa98f026aaa92536cc818f1566c861be10809e186", null ],
+      [ "NPCSAY_END", "d1/dd3/a04427.html#a877721d69d53f57a970e68fafa98f026a4cdea1fd3d42985ec1def690f032a68c", null ]
+    ] ],
+    [ "AddSC_silverpine_forest", "d1/dd3/a04427.html#a2ba39a6181a7eb3cea0c26335739a06c", null ],
+    [ "PyrewoodSpawnPoints", "d1/dd3/a04427.html#aa6dde45459ce647040655253e287cd41", null ]
 ];

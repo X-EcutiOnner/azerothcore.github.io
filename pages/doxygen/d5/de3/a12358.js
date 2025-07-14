@@ -1,10 +1,9 @@
 var a12358 =
 [
-    [ "npc_core_ragerAI", "d5/de3/a12358.html#a3c5125e0a10043f6181c10ba749fa579", null ],
-    [ "DamageTaken", "d5/de3/a12358.html#a758eb158eb9d232d74514281028efcb3", null ],
-    [ "Reset", "d5/de3/a12358.html#acf83e469d3d8108276227a942fda28b3", null ],
-    [ "UpdateAI", "d5/de3/a12358.html#a2183cf5ab22b737413b86a657fde6d3c", null ],
-    [ "instance", "d5/de3/a12358.html#a7cfddba62f737214b8cfc7fbffa8c2e2", null ],
-    [ "mangleTimer", "d5/de3/a12358.html#a081333b967abb3812b9ddae2f933a324", null ],
-    [ "rangeCheckTimer", "d5/de3/a12358.html#ade427bdd9ec99807b6f190c890136414", null ]
+    [ "HandleAfterApply", "d5/de3/a12358.html#ab5dea2b9154ea73e9f159f6899f71d1d", null ],
+    [ "HandleAfterRemove", "d5/de3/a12358.html#a07bfb9395c738a197bafbaa0a43b9d48", null ],
+    [ "PeriodicTick", "d5/de3/a12358.html#a1ea9275cf310f95e9f8351892dce0a21", null ],
+    [ "PrepareAuraScript", "d5/de3/a12358.html#a8f13734ec4eb2dfda64be4ed3410e9a7", null ],
+    [ "Register", "d5/de3/a12358.html#a778da1e0ae7d5cab576b55bff93c923f", null ],
+    [ "Validate", "d5/de3/a12358.html#a205b4cc0f5c513680573b41a786a0b5e", null ]
 ];

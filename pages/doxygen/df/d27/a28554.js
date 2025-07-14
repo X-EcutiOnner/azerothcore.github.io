@@ -1,13 +1,6 @@
 var a28554 =
 [
-    [ "MPQArchive", "df/d27/a28554.html#a58d57322334966ca16a22e52e5198d9f", null ],
-    [ "~MPQArchive", "df/d27/a28554.html#a5bce22525ca16381fbb4729540a165e2", null ],
-    [ "MPQArchive", "df/d27/a28554.html#a58d57322334966ca16a22e52e5198d9f", null ],
-    [ "~MPQArchive", "df/d27/a28554.html#a5bce22525ca16381fbb4729540a165e2", null ],
-    [ "close", "df/d27/a28554.html#ac40182c8e52d70aa1f53325f1b48f259", null ],
-    [ "close", "df/d27/a28554.html#ac40182c8e52d70aa1f53325f1b48f259", null ],
-    [ "GetFileListTo", "df/d27/a28554.html#ab91bd82370a1ebcf6b46fc3047188640", null ],
-    [ "GetFileListTo", "df/d27/a28554.html#ab91bd82370a1ebcf6b46fc3047188640", null ],
-    [ "isOpened", "df/d27/a28554.html#a2026335b9ede29197acfaac8513456d5", null ],
-    [ "mpq_a", "df/d27/a28554.html#a72b9fb96b1e3db6c7be652e426978b4a", null ]
+    [ "SetUp", "df/d27/a28554.html#af04bbb2661f10d3bf442c590ebdf1a2b", null ],
+    [ "TearDown", "df/d27/a28554.html#a3bc271279472966f9dae906f9f77119b", null ],
+    [ "confFilePath", "df/d27/a28554.html#aaaccdda1669c76b94483bf2db2615d4e", null ]
 ];

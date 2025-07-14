@@ -1,6 +1,7 @@
 var a13442 =
 [
-    [ "npc_balance_of_light_and_shadowAI", "d4/daf/a13446.html", "d4/daf/a13446" ],
-    [ "npc_balance_of_light_and_shadow", "df/d28/a13442.html#a55229e3ea8dd9c52972185b36c08908b", null ],
-    [ "GetAI", "df/d28/a13442.html#a07e0547e6bf81cc7ff9fe0aa4a851388", null ]
+    [ "HandleAfterCast", "df/d28/a13442.html#a251ddadd9d26039da542c402e4ee254f", null ],
+    [ "PrepareSpellScript", "df/d28/a13442.html#a91114aeb4f917ec5138a0c7b20688174", null ],
+    [ "Register", "df/d28/a13442.html#a42960206e2444d8e6fb8fdc4d80a534b", null ],
+    [ "Validate", "df/d28/a13442.html#ad4012436a41537fc5ae854c0c48f09b1", null ]
 ];

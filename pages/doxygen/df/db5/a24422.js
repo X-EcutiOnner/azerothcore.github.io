@@ -1,7 +1,10 @@
 var a24422 =
 [
-    [ "CheckProc", "df/db5/a24422.html#abd74252153fc4fc9a4e561005ea58b3f", null ],
-    [ "HandleProc", "df/db5/a24422.html#a911b81552e7193dbf1cfc11037b44d84", null ],
-    [ "PrepareAuraScript", "df/db5/a24422.html#ae169eb2c0e194f8f34ee2a0d5fd973d3", null ],
-    [ "Register", "df/db5/a24422.html#a72d89db31c1fbd5c3b49b4c05a2d90f4", null ]
+    [ "npc_pet_hunter_snake_trap", "df/db5/a24422.html#aaf5df574c4ac53661c0bb1968f84c6ea", null ],
+    [ "EnterEvadeMode", "df/db5/a24422.html#a819add0c7b968063403d10275fdc289f", null ],
+    [ "MoveInLineOfSight", "df/db5/a24422.html#a32d5ed7f4d436f2678b34f4a1d572721", null ],
+    [ "Reset", "df/db5/a24422.html#a831cf6eea8bd03247cd9877d3be6e1ee", null ],
+    [ "UpdateAI", "df/db5/a24422.html#a41a37efe6d39c6d97b3dcc5fabbcc812", null ],
+    [ "_init", "df/db5/a24422.html#a1b5c1301389749f82667c35f3daff847", null ],
+    [ "_spellTimer", "df/db5/a24422.html#ab9397451e2e8320ca77560a19baeee3f", null ]
 ];

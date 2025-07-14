@@ -1,9 +1,9 @@
 var a22414 =
 [
-    [ "OPvPCapturePointGH", "da/dd7/a22414.html#a6e46100e50212310af4301c492d5773e", null ],
-    [ "ChangeState", "da/dd7/a22414.html#afe53e37a3a1dc4a7068c03302f26b981", null ],
-    [ "FillInitialWorldStates", "da/dd7/a22414.html#a11d305d6f50ce2535bd5d7b2e7a3389f", null ],
-    [ "HandlePlayerEnter", "da/dd7/a22414.html#afea733c44d129d9a5af78a8337d9e04a", null ],
-    [ "HandlePlayerLeave", "da/dd7/a22414.html#a1e5d9c6f02eb02dfed654078c910635b", null ],
-    [ "SendChangePhase", "da/dd7/a22414.html#aec741b9102829bf77850dc06a49bb8da", null ]
+    [ "npc_finklesteinAI", "d2/df2/a22418.html", "d2/df2/a22418" ],
+    [ "npc_finklestein", "da/dd7/a22414.html#aa719b4bb95012c22ef8123e255e32edd", null ],
+    [ "GetAI", "da/dd7/a22414.html#a1f0d91d2a50aca9d0496b6bd03986c8e", null ],
+    [ "OnGossipHello", "da/dd7/a22414.html#ac82d5e5dc2e0539c90dfcfe17430548c", null ],
+    [ "OnGossipSelect", "da/dd7/a22414.html#a7a744207e8f43672f0e6bf2354186ec4", null ],
+    [ "OnQuestAccept", "da/dd7/a22414.html#a94291aa98e35552bc7d722ddf2a83af2", null ]
 ];

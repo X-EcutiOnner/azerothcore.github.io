@@ -1,11 +1,6 @@
 var a23406 =
 [
-    [ "boss_krosh_firehand", "d1/d13/a23406.html#a1ef3618844f086de7875f26e7e6190f9", null ],
-    [ "AttackStart", "d1/d13/a23406.html#a74bd2c93ac45efcd163a904b9a52827b", null ],
-    [ "JustDied", "d1/d13/a23406.html#ad20c86b4a3d0cccddf91982c26f56c09", null ],
-    [ "JustEngagedWith", "d1/d13/a23406.html#ad6389c357fb6c09fdf4f3f3ef7095395", null ],
-    [ "Reset", "d1/d13/a23406.html#a989c4b762a7cdb228b245e91881d97a2", null ],
-    [ "UpdateAI", "d1/d13/a23406.html#a3d26a6f544e9d00514ca5b0ef7d4bf4f", null ],
-    [ "_scheduler", "d1/d13/a23406.html#a261ced01dc1305ab7c2d2f3322022fe5", null ],
-    [ "instance", "d1/d13/a23406.html#a876bb040d78cafa9aa22e818f60dce7f", null ]
+    [ "HandleScript", "d1/d13/a23406.html#ae45f8a366c1594d3723b83ee6e006957", null ],
+    [ "PrepareSpellScript", "d1/d13/a23406.html#a217953fda43e2c3abdd0d24ddbabc75d", null ],
+    [ "Register", "d1/d13/a23406.html#a6b9e449a64747f0a5715424295b1c30f", null ]
 ];

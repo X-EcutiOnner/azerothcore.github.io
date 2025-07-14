@@ -1,7 +1,7 @@
 var a12142 =
 [
-    [ "go_suppression_deviceAI", "df/d9d/a12146.html", "df/d9d/a12146" ],
-    [ "go_suppression_device", "de/d76/a12142.html#a900713d6b029015f8868a96e5e1b9018", null ],
-    [ "GetAI", "de/d76/a12142.html#aa51bb6f9616022c1f4e1e711ca1130e8", null ],
-    [ "OnLootStateChanged", "de/d76/a12142.html#a684546c3ce0c0785d52a87eb011ef313", null ]
+    [ "boss_warmastervooneAI", "de/d76/a12142.html#aa22519c8d3037cf07c275080b9bedcaf", null ],
+    [ "DamageTaken", "de/d76/a12142.html#adce28de25fa74557000d60188346e2d2", null ],
+    [ "ExecuteEvent", "de/d76/a12142.html#ac9dc6ef78503a87ea68d0e232b0376da", null ],
+    [ "JustEngagedWith", "de/d76/a12142.html#ac419c5118a45264e24e391f7575d90fb", null ]
 ];

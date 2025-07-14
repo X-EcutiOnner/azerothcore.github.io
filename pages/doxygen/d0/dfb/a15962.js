@@ -1,6 +1,6 @@
 var a15962 =
 [
-    [ "SendEncounterUnit", "d0/dfb/a15962.html#a5300ba7c1a8001bbf52c56fc2e5dc331", null ],
-    [ "Execute", "d0/dfb/a15962.html#ae21b67f8fe8a0677778436563872495f", null ],
-    [ "_owner", "d0/dfb/a15962.html#a6e1569fb7fa159fe702defbab1e123b6", null ]
+    [ "boss_sartharion_shadronAI", "da/d74/a15966.html", "da/d74/a15966" ],
+    [ "boss_sartharion_shadron", "d0/dfb/a15962.html#ac297719abff8c795af10973492fc6fbe", null ],
+    [ "GetAI", "d0/dfb/a15962.html#a95c7184ee7589f01920adc57a7df963b", null ]
 ];

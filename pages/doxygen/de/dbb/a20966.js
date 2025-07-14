@@ -1,8 +1,7 @@
 var a20966 =
 [
-    [ "boss_keleseth", "de/dbb/a20966.html#ad2f0f020b0c92852dedadea5730e4e80", null ],
-    [ "AttackStart", "de/dbb/a20966.html#a731ebf8e9ff4f64582a8f9373ce08a39", null ],
-    [ "JustDied", "de/dbb/a20966.html#ad23ede5c869ab12dc1c2f6a783e9b539", null ],
-    [ "JustEngagedWith", "de/dbb/a20966.html#a8d5cba1dd481bdfaf93f6e2427880b2e", null ],
-    [ "KilledUnit", "de/dbb/a20966.html#a64d14f1b8f169128bbbc507730f4f1eb", null ]
+    [ "HandleEffectCalcPeriodic", "de/dbb/a20966.html#af01eb94174952de52615734055b17c1a", null ],
+    [ "HandleEffectPeriodic", "de/dbb/a20966.html#a87b4517a6ad8630027ab2c3534b9fb8c", null ],
+    [ "PrepareAuraScript", "de/dbb/a20966.html#a95bd054accb5b72c4cfb12caccf0e004", null ],
+    [ "Register", "de/dbb/a20966.html#a2d506669ddc4c84e9ae3eb1746eadce1", null ]
 ];

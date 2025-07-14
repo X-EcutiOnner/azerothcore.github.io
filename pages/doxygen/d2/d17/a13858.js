@@ -1,8 +1,6 @@
 var a13858 =
 [
-    [ "boss_grilekAI", "d2/d17/a13858.html#aea4d151ce75bf2cdf6d6910c369daf17", null ],
-    [ "JustEngagedWith", "d2/d17/a13858.html#a76d2cddd8ebfc4df400ef43f8c5aa936", null ],
-    [ "Reset", "d2/d17/a13858.html#acd8ce07ab3ef576580df16c0176fcaf3", null ],
-    [ "UpdateAI", "d2/d17/a13858.html#a19438103c9a582a7d36d805c80131e8c", null ],
-    [ "_pursuitTargetGUID", "d2/d17/a13858.html#ad20779cdb8d82ae8a54c12a8d4b0bada", null ]
+    [ "instance_zulaman_InstanceMapScript", "db/dc4/a13862.html", "db/dc4/a13862" ],
+    [ "instance_zulaman", "d2/d17/a13858.html#a5a81dddc07dea599e2a197737206427b", null ],
+    [ "GetInstanceScript", "d2/d17/a13858.html#a2144a517b22c5d6e7f6cc31d344669fc", null ]
 ];

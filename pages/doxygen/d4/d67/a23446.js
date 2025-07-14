@@ -1,12 +1,7 @@
 var a23446 =
 [
-    [ "boss_omor_the_unscarred", "d4/d67/a23446.html#aeef6af0274425d9af5b5ada0d6aa7a2b", null ],
-    [ "JustDied", "d4/d67/a23446.html#a9ddae483a0f8cefd8a19975b60002660", null ],
-    [ "JustEngagedWith", "d4/d67/a23446.html#aa874d266d9a5ced45ea2ceb750370b1a", null ],
-    [ "JustSummoned", "d4/d67/a23446.html#a3503f9d13a5191c71013d77b79a8a4a3", null ],
-    [ "KilledUnit", "d4/d67/a23446.html#afc5c12a69d51638b67fcdf8098ff7da6", null ],
-    [ "Reset", "d4/d67/a23446.html#a0ec22c50cd096677a20299ab45a3c344", null ],
-    [ "UpdateAI", "d4/d67/a23446.html#aeb478325ea00f996b4c3c1584fe3965d", null ],
-    [ "_hasSpoken", "d4/d67/a23446.html#a3fe7684742f783cb1e68fcc7cfc0de7a", null ],
-    [ "_targetGUID", "d4/d67/a23446.html#a5ea9161b949e99f0a61498ed05d66d27", null ]
+    [ "OnApply", "d4/d67/a23446.html#a6189a5ea90b1951b21a7e9ef36700ed9", null ],
+    [ "PeriodicTick", "d4/d67/a23446.html#a1c79b1016361eabb5cef57a893bccfcf", null ],
+    [ "PrepareAuraScript", "d4/d67/a23446.html#acfa6b5217a0e0e2654b7fa9c4092abd5", null ],
+    [ "Register", "d4/d67/a23446.html#adddddd0689f4686a40b1db142b5d6ce2", null ]
 ];

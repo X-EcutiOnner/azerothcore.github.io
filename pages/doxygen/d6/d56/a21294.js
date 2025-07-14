@@ -1,6 +1,6 @@
 var a21294 =
 [
-    [ "npc_vh_sinclari", "d6/d56/a21294.html#ad0235f207a3031420532174c04e0c348", null ],
-    [ "OnGossipHello", "d6/d56/a21294.html#a95f0d094d417d9d6ce99d7c8aa83496f", null ],
-    [ "OnGossipSelect", "d6/d56/a21294.html#af0a260d7868f601ae239c226b10d4de3", null ]
+    [ "instance_vault_of_archavon_InstanceMapScript", "d4/d9c/a21298.html", "d4/d9c/a21298" ],
+    [ "instance_vault_of_archavon", "d6/d56/a21294.html#a0be8d95ff0f3b751e6f833689e436310", null ],
+    [ "GetInstanceScript", "d6/d56/a21294.html#abb955a8873a3a3021e164225dd1f857a", null ]
 ];

@@ -1,5 +1,6 @@
 var a20386 =
 [
-    [ "npc_ulduar_flames_spreadAI", "d7/d51/a20386.html#a607ee542f7c6d84f4072557e44a80905", null ],
-    [ "SpellHit", "d7/d51/a20386.html#abe69df9873fc125306a4ed757665e448", null ]
+    [ "OnPeriodic", "d7/d51/a20386.html#a8a12342f694499043e8ed4446fd92d36", null ],
+    [ "PrepareAuraScript", "d7/d51/a20386.html#a9294210ece0c3bcda0639d1fc486cc9a", null ],
+    [ "Register", "d7/d51/a20386.html#a381709d53101832de6b2161c4a33a0d4", null ]
 ];

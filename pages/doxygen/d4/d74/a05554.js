@@ -1,8 +1,13 @@
 var a05554 =
 [
-    [ "cmd", "d4/d74/a05554.html#a14df856ae931474a7c58d0e35caf6ad0", null ],
-    [ "number_of_keys", "d4/d74/a05554.html#aaa44734bb96b91894c038b3f34b4db0d", null ],
-    [ "R1", "d4/d74/a05554.html#a054648a96d1c66bae6fdb9a174e7b1e6", null ],
-    [ "R2", "d4/d74/a05554.html#a72fa4a4d0b6098fdf8e5c8f9a33f08ad", null ],
-    [ "R3", "d4/d74/a05554.html#a819a5ba3a19583fd0cfd0558cf218e54", null ]
+    [ "Clear", "d4/d74/a05554.html#adc64d35670bf0d41519cb9998d3db17e", null ],
+    [ "First", "d4/d74/a05554.html#a8bbd41b304f7e69df565af75f4846bda", null ],
+    [ "GetNextGroupOccurrence", "d4/d74/a05554.html#af2cb38062e4d62558d520be75b01bedb", null ],
+    [ "IsEmpty", "d4/d74/a05554.html#a151898f14e9a1628ddb52b6840fcc4fc", null ],
+    [ "IsGroupQueued", "d4/d74/a05554.html#ada8edd51338da19db3f282ccc6229516", null ],
+    [ "ModifyIf", "d4/d74/a05554.html#a0ad5b4de404b1f8312341a28a1a58b5b", null ],
+    [ "Pop", "d4/d74/a05554.html#a5f5d6b5a4a5e4ec93ff94619485736cb", null ],
+    [ "Push", "d4/d74/a05554.html#aff6bc8c7fae6640b555ddb027cf0f6ab", null ],
+    [ "RemoveIf", "d4/d74/a05554.html#a6efe3145679913fde4d4cc1f8cc819e6", null ],
+    [ "container", "d4/d74/a05554.html#acc56bddf7e586a3a950f608efb730498", null ]
 ];

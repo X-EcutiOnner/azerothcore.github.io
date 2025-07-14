@@ -1,6 +1,8 @@
 var a01730 =
 [
-    [ "MapScript< BattlegroundMap >", "de/db5/a01730.html#a37068ff91511f7df359c3cf9be0e8d72", null ],
-    [ "MapScript< InstanceMap >", "de/db5/a01730.html#aad36f2a434a53db1767a65fa0a1dffdc", null ],
-    [ "MapScript< Map >", "de/db5/a01730.html#aacb4fdedfc86aea6c855e3be41e0c6e1", null ]
+    [ "LootScript", "d9/d14/a10334.html", "d9/d14/a10334" ],
+    [ "LootHook", "de/db5/a01730.html#a39ce94de1e8ce6b7055130ac7f40632b", [
+      [ "LOOTHOOK_ON_LOOT_MONEY", "de/db5/a01730.html#a39ce94de1e8ce6b7055130ac7f40632ba71990fd8692b46e728ad526346d0f1f1", null ],
+      [ "LOOTHOOK_END", "de/db5/a01730.html#a39ce94de1e8ce6b7055130ac7f40632bab03a0874b2fda00aeb19e4b5ab077fea", null ]
+    ] ]
 ];

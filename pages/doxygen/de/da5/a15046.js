@@ -1,13 +1,8 @@
 var a15046 =
 [
-    [ "npc_dirt_mound", "de/da5/a15046.html#add7daefa1c96fb9d843248f8ca4796f6", null ],
-    [ "ChaseNewTarget", "de/da5/a15046.html#a16656fb7ad8cda5916e8da0002cf0292", null ],
-    [ "EnterEvadeMode", "de/da5/a15046.html#ac5fdeea9dc5553b689d3a8a9b0b73d34", null ],
-    [ "JustEngagedWith", "de/da5/a15046.html#abf39fb8d63325eea7928b88b2b486ad2", null ],
-    [ "JustSummoned", "de/da5/a15046.html#a5da17256d0cd4f6cb0e1256afe4b6539", null ],
-    [ "Reset", "de/da5/a15046.html#ae1662eb73f21351e07d00a717421de68", null ],
-    [ "SetData", "de/da5/a15046.html#a4faa65dd3260104202e4bdd34bc0b67d", null ],
-    [ "UpdateAI", "de/da5/a15046.html#a88447191070cf8b84df96db565eef48d", null ],
-    [ "_instance", "de/da5/a15046.html#ac9f138567a4367aeb5d7b1f6caea90c6", null ],
-    [ "_ouroHealth", "de/da5/a15046.html#ac83391fa5069ae4574748f82d15e833d", null ]
+    [ "npc_obsidian_destroyer", "de/da5/a15046.html#abd8b1614a9da9fbe9c9898246b0822b8", null ],
+    [ "JustDied", "de/da5/a15046.html#adc54ac02383f5e5bf6af980f5ba301e8", null ],
+    [ "JustEngagedWith", "de/da5/a15046.html#aaf95dd2c92a5d1745311e4162aee8dbc", null ],
+    [ "Reset", "de/da5/a15046.html#a08c6b9ec0e2f4207d48f95eedf2c26ab", null ],
+    [ "UpdateAI", "de/da5/a15046.html#a79ba48d421a636f99ea65c0e34d084e1", null ]
 ];

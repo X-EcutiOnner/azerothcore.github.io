@@ -1,7 +1,5 @@
 var a17234 =
 [
-    [ "HandleDummyTick", "d2/d96/a17234.html#a9aa9a7a6c2e09c840cfca3253c2ac7c0", null ],
-    [ "PrepareAuraScript", "d2/d96/a17234.html#a577523701b5a4ea2def4999e634c8862", null ],
-    [ "Register", "d2/d96/a17234.html#aaad9185c62333de4d6704b22780edd28", null ],
-    [ "Validate", "d2/d96/a17234.html#a9cfabcbbb9805a902fdd2d1b327dc4c7", null ]
+    [ "achievement_snakes_whyd_it_have_to_be_snakes", "d2/d96/a17234.html#a4245e53260b83f77f9b4313e13f1f7d3", null ],
+    [ "OnCheck", "d2/d96/a17234.html#a1bc62ef6dbdb98b9ca8ea3f3bfc742b0", null ]
 ];

@@ -1,7 +1,6 @@
 var a24210 =
 [
-    [ "HandleSendEvent", "d6/d15/a24210.html#a8b32db78a3b4d5a01be230968fda3a8d", null ],
-    [ "PrepareSpellScript", "d6/d15/a24210.html#a0adf10b63735dbdf1cb3d49c73f7da1d", null ],
-    [ "Register", "d6/d15/a24210.html#ad6aedfed88d4a921122fdc7a8b501f0e", null ],
-    [ "Validate", "d6/d15/a24210.html#a9b72b16ac81c53aaa7936640e5149e6c", null ]
+    [ "npc_lord_illidan_stormrageAI", "d9/d55/a24214.html", "d9/d55/a24214" ],
+    [ "npc_lord_illidan_stormrage", "d6/d15/a24210.html#ad2f213749e170ec4f9903396d132f5f3", null ],
+    [ "GetAI", "d6/d15/a24210.html#a9aaedc4326b90621965dad522f4af897", null ]
 ];

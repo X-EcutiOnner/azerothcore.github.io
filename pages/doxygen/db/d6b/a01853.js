@@ -1,4 +1,4 @@
 var a01853 =
 [
-    [ "ScriptRegistry< AchievementScript >", "db/d6b/a01853.html#ac6173262cca5c83f03287161a75446ab", null ]
+    [ "ScriptRegistry< WorldMapScript >", "db/d6b/a01853.html#a729e333e6d0c4e5e353dd22c9612f446", null ]
 ];

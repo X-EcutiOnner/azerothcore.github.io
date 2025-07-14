@@ -1,6 +1,6 @@
 var a19890 =
 [
-    [ "CheckAreaTarget", "db/dee/a19890.html#ad1930e308f450cb84dba4f4b28b19f58", null ],
-    [ "PrepareAuraScript", "db/dee/a19890.html#a921b2f67c417244310398bd93061d61c", null ],
-    [ "Register", "db/dee/a19890.html#ab21972706bae9fdc3fc6859da2f3f63e", null ]
+    [ "npc_hodirs_furyAI", "d8/d89/a19894.html", "d8/d89/a19894" ],
+    [ "npc_hodirs_fury", "db/dee/a19890.html#af5e0f1cb4c478bd4fc9ec246aa7d7e08", null ],
+    [ "GetAI", "db/dee/a19890.html#ad8856a6da86a8f4ce744d57614ee16e6", null ]
 ];

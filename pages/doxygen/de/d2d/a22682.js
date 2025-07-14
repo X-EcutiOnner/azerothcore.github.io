@@ -1,7 +1,6 @@
 var a22682 =
 [
-    [ "HandleOnEffectApply", "de/d2d/a22682.html#a01d6ca6f8ec21ad42445b5e581c0f79b", null ],
-    [ "HandleOnEffectRemove", "de/d2d/a22682.html#a59952b33d7c4705a6bfe7f3443bbf005", null ],
-    [ "PrepareAuraScript", "de/d2d/a22682.html#a45df29f911b1232e306e04a182648904", null ],
-    [ "Register", "de/d2d/a22682.html#a71fbf189fc116eb7d14944ff4060a9a9", null ]
+    [ "PrepareSpellScript", "de/d2d/a22682.html#ad8640f1c01d64f8bbca16e0b636f7f21", null ],
+    [ "Register", "de/d2d/a22682.html#aa41700bf097963c5a352442723181037", null ],
+    [ "SelectTarget", "de/d2d/a22682.html#a15d790b134de8a8c7497ee8d0a6217ba", null ]
 ];

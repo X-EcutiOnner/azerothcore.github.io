@@ -1,8 +1,7 @@
 var a19614 =
 [
-    [ "HandlePeriodic", "db/dd8/a19614.html#a2724a85983561a14db8b06ae492ead55", null ],
-    [ "OnRemove", "db/dd8/a19614.html#a6d0f941f30d8c850e48396fffd13768d", null ],
-    [ "PrepareAuraScript", "db/dd8/a19614.html#aea9d38dc7fdff6d38d252bb5ded57d78", null ],
-    [ "Register", "db/dd8/a19614.html#a85270947972be9c299a642b31969ef68", null ],
-    [ "Validate", "db/dd8/a19614.html#a91ebb4e69d02deb5129965f543c474d1", null ]
+    [ "creature", "db/dd8/a19614.html#a55a6ee677ab51120867f542e5a5745b0", null ],
+    [ "sound", "db/dd8/a19614.html#a407acf5c908aa44a169adc1e88a70ab4", null ],
+    [ "text", "db/dd8/a19614.html#a9ed157ddf2c274d021820723b1ebe00e", null ],
+    [ "timer", "db/dd8/a19614.html#a198a3a5a4ad037b591fc3b85675bdfe1", null ]
 ];

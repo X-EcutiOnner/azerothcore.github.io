@@ -1,13 +1,11 @@
 var a00458 =
 [
-    [ "SkillPerfectItemEntry", "d7/dc0/a11032.html", "d7/dc0/a11032" ],
-    [ "SkillExtraItemEntry", "d2/d23/a11036.html", "d2/d23/a11036" ],
-    [ "SkillExtraItemMap", "da/d65/a00458.html#a9ba2d7d2e815aee57a701990b858db7b", null ],
-    [ "SkillPerfectItemMap", "da/d65/a00458.html#ad732be66d93ed6e8f498077f27e2766b", null ],
-    [ "canCreateExtraItems", "da/d65/a00458.html#a49687e255d65fa15dac5e6a428c5739d", null ],
-    [ "CanCreatePerfectItem", "da/d65/a00458.html#a818c557864790091814604b6d2175e52", null ],
-    [ "LoadSkillExtraItemTable", "da/d65/a00458.html#a3244d04018405bafe21acc8bc96cc743", null ],
-    [ "LoadSkillPerfectItemTable", "da/d65/a00458.html#a121df170a82be5ab5b05999a6be27b69", null ],
-    [ "SkillExtraItemStore", "da/d65/a00458.html#acc52416c05fbae29bcbfa9f0683485cd", null ],
-    [ "SkillPerfectItemStore", "da/d65/a00458.html#ac676f0acbf782fa2d31bd66b8eaa8260", null ]
+    [ "FormatString", "da/d65/a00458.html#a32c972cafca136b88de5b298d6cba338", null ],
+    [ "AddSuffixIfNotExists", "da/d65/a00458.html#a712bea71ec99d750664fd46c690a1ad9", null ],
+    [ "format_as", "da/d65/a00458.html#aaa7f21af5991452196a22cd79e127825", null ],
+    [ "IsFormatEmptyOrNull", "da/d65/a00458.html#a6f5584cc7346fd1972b3e8a74036467f", null ],
+    [ "IsFormatEmptyOrNull", "da/d65/a00458.html#a84459e91f517fc4f79414cc23370b9f1", null ],
+    [ "StringFormat", "da/d65/a00458.html#a868406b9609960d4ae0189588c8cbbf4", null ],
+    [ "Trim", "da/d65/a00458.html#a3213c569cd380bda3b76fe3f730899ff", null ],
+    [ "TrimRightInPlace", "da/d65/a00458.html#ac78200daa5bc5f1d4c50a1df47a7a4db", null ]
 ];

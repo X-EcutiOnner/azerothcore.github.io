@@ -1,10 +1,15 @@
 var a05058 =
 [
-    [ "WModelAreaCallback", "d3/df3/a05058.html#ad59e5b281d60d2489d0100e728612e65", null ],
-    [ "operator()", "d3/df3/a05058.html#a4c0bb86ba4d8238e8f7740c4699dfa0f", null ],
-    [ "hit", "d3/df3/a05058.html#a136cf475a8246611c52b3af41707fe83", null ],
-    [ "minVol", "d3/df3/a05058.html#a169a35e4d1b33b28014ad753993a1c27", null ],
-    [ "prims", "d3/df3/a05058.html#a7a45b1c8e16c7840a45b96b15ca200b4", null ],
-    [ "zDist", "d3/df3/a05058.html#ade19ec7931454c375bf8564f05556c8e", null ],
-    [ "zVec", "d3/df3/a05058.html#a423995c8ce4c4846da978cc49aeee2b9", null ]
+    [ "GetBounds", "d3/df3/a05058.html#a4a112397e75fbaf5fd991a322a8a4ea4", null ],
+    [ "operator==", "d3/df3/a05058.html#ab9713afd57c0bdf9f5ff8d5d12cd567f", null ],
+    [ "readFromFile", "d3/df3/a05058.html#a35d7880eb3e295ed3148ca05a2f4520e", null ],
+    [ "writeToFile", "d3/df3/a05058.html#ae8623dcb78a2af4c9aebd60f67649f34", null ],
+    [ "adtId", "d3/df3/a05058.html#a4ebcfe8326eff028e722c9972a16200b", null ],
+    [ "flags", "d3/df3/a05058.html#acfc7a76db09013abfad8e42aaae59f52", null ],
+    [ "iBound", "d3/df3/a05058.html#ae1dac1aa360c4d49b61a0cd8af92399c", null ],
+    [ "ID", "d3/df3/a05058.html#ab2fdb441870d6ac7ddc05640ec1d0598", null ],
+    [ "iPos", "d3/df3/a05058.html#abb5966f87710bc6a1f5da766c99b3e12", null ],
+    [ "iRot", "d3/df3/a05058.html#a6d0b4f6bde1a20b246e4b22cc43e25af", null ],
+    [ "iScale", "d3/df3/a05058.html#aad355d0fb09ff0360ed19610bef92d8e", null ],
+    [ "name", "d3/df3/a05058.html#a66e19a4a28f8fc0c537f1315d9bddcfb", null ]
 ];

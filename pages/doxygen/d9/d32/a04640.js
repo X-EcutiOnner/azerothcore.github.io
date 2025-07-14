@@ -1,4 +1,7 @@
 var a04640 =
 [
-    [ "main", "d9/d32/a04640.html#a0ddf1224851353fc92bfbff6f499fa97", null ]
+    [ "SQLQueryHolderBase", "d5/dcd/a05834.html", "d5/dcd/a05834" ],
+    [ "SQLQueryHolder< T >", "db/d63/a05686.html", "db/d63/a05686" ],
+    [ "SQLQueryHolderTask", "dd/d9e/a05838.html", "dd/d9e/a05838" ],
+    [ "SQLQueryHolderCallback", "d2/d70/a05842.html", "d2/d70/a05842" ]
 ];

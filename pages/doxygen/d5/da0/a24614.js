@@ -1,9 +1,16 @@
 var a24614 =
 [
-    [ "HandleApply", "d5/da0/a24614.html#a1a612d0b35ed6e67042b4d038f8927ca", null ],
-    [ "HandleRemove", "d5/da0/a24614.html#a54b5ffcf247f7385b50b401bc82f43ce", null ],
-    [ "PrepareAuraScript", "d5/da0/a24614.html#af2b8e669737cd4282beb6a5035f496fc", null ],
-    [ "RecalculateBaseArmor", "d5/da0/a24614.html#a693720558c7b2b22c41a49a402522014", null ],
-    [ "Register", "d5/da0/a24614.html#aff9bc58342383afe5a08be696cddedf6", null ],
-    [ "Validate", "d5/da0/a24614.html#ad712e1e05d94372defdfa4fe67e65716", null ]
+    [ "CheckCast", "d5/da0/a24614.html#a28e769267a83e4c499dca83a3f5708eb", null ],
+    [ "CheckReagents", "d5/da0/a24614.html#aa8a2efb4807c29aeb5bf786e05113b61", null ],
+    [ "CheckTarget", "d5/da0/a24614.html#ae339cf884f1d2f877e988ef6f6b555bf", null ],
+    [ "CheckTargets", "d5/da0/a24614.html#af1013668080685cd86ae6abb52258fb1", null ],
+    [ "ConsumeReagents", "d5/da0/a24614.html#aa5df00ed970db696b92b51566e098f3f", null ],
+    [ "GetGhoulSpellId", "d5/da0/a24614.html#a9f94b3d279c036fb4b1c5b69934e63f2", null ],
+    [ "HandleRaiseDead", "d5/da0/a24614.html#a3d1e0191d99e970f42d825632fe0f7e2", null ],
+    [ "Load", "d5/da0/a24614.html#a05ea44a20f08f9010faca13a0f4d0f39", null ],
+    [ "PrepareSpellScript", "d5/da0/a24614.html#a9565c8459a6d8cfed85c9120aca9715f", null ],
+    [ "Register", "d5/da0/a24614.html#a0ebef363de4a802b242c806517ad0fb5", null ],
+    [ "Validate", "d5/da0/a24614.html#a0ab8ee639fa83e954e964994c75451c8", null ],
+    [ "_corpse", "d5/da0/a24614.html#adbc699b3bfd33f595ea287ca833ea2d4", null ],
+    [ "_result", "d5/da0/a24614.html#aefebf79fa61b9f4d12929d54bd48389f", null ]
 ];

@@ -1,15 +1,11 @@
 var a13542 =
 [
-    [ "npc_deathstalker_fearleia", "d0/d46/a13542.html#a92c6d31e801164dc0c4ddc8c47f134b6", null ],
-    [ "JustDied", "d0/d46/a13542.html#a378f59a926e1be299b6e5ddf0cc83d30", null ],
-    [ "JustEngagedWith", "d0/d46/a13542.html#a248f13c2fff27a9ec8075d5b1429fec8", null ],
-    [ "JustSummoned", "d0/d46/a13542.html#a8ef363de7292d366eea128b55b1acaeb", null ],
-    [ "Reset", "d0/d46/a13542.html#a5f7f40e2d702fae5242cfc347d44a1fe", null ],
-    [ "sQuestAccept", "d0/d46/a13542.html#a5da116182685dfac72139b40266f2884", null ],
-    [ "SummonCreatureWithRandomTarget", "d0/d46/a13542.html#a884be2e1aa730c310de24cb865fc7aa5", null ],
-    [ "SummonedCreatureDespawn", "d0/d46/a13542.html#a36415976d5ae2034578581bdec183f33", null ],
-    [ "UpdateAI", "d0/d46/a13542.html#a45f4823e2a131fda3c4e03de13ec0c5e", null ],
-    [ "_playerGUID", "d0/d46/a13542.html#a7135b977e1d7ef47c62f4dace25908fd", null ],
-    [ "_questInProgress", "d0/d46/a13542.html#a899a4a0c3c70236be66ee2028f3423c7", null ],
-    [ "_summons", "d0/d46/a13542.html#a79dc171af9ef5057039f9a6b87c49bd1", null ]
+    [ "npc_supervisor_raelen", "d0/d46/a13542.html#a2059d41f6df3a44406ab69a0dca501a4", null ],
+    [ "CallPeasent", "d0/d46/a13542.html#a0b8d661a86ec334adeb502d6936135ee", null ],
+    [ "Reset", "d0/d46/a13542.html#a656029c56da84d2d3cee7380d6032e3d", null ],
+    [ "SetData", "d0/d46/a13542.html#ab709a5a975c22556dfe71dce52a3ec2c", null ],
+    [ "UpdateAI", "d0/d46/a13542.html#a623a95d4f3ca483d1bf3dff5e06c1958", null ],
+    [ "_events", "d0/d46/a13542.html#a1ed36b07ff83a6a8a202f4a451d90190", null ],
+    [ "_PeasentId", "d0/d46/a13542.html#ae3e44b8f29f05c771137c5b9afd5da56", null ],
+    [ "peasentGUIDs", "d0/d46/a13542.html#a6e290a29c8205b22bd668f0516e8904a", null ]
 ];

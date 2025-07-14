@@ -1,11 +1,7 @@
 var a18258 =
 [
-    [ "npc_terenas_menethilAI", "df/da5/a18258.html#aa2e95b96928b033ef374843ad1fb9f3c", null ],
-    [ "CanAIAttack", "df/da5/a18258.html#a1414da7f20e0f93486eb77c9b9450fa9", null ],
-    [ "DamageTaken", "df/da5/a18258.html#ae62a6f965ffb11d633190f1ca4122bc9", null ],
-    [ "DoAction", "df/da5/a18258.html#a4f261b19a7a8676dfd6d76d428a4f1b1", null ],
-    [ "EnterEvadeMode", "df/da5/a18258.html#ada5313b34e8c20c82ac97396e54e27df", null ],
-    [ "UpdateAI", "df/da5/a18258.html#a6210ca6e5e954d5c66d2108359efc888", null ],
-    [ "_events", "df/da5/a18258.html#ae61e4919b99a2b9195a389992947a125", null ],
-    [ "_instance", "df/da5/a18258.html#a60aae54e5e54526ba12a9468a3f45c88", null ]
+    [ "CheckTargetCount", "df/da5/a18258.html#a67a1cbbf74fe91a32a51d9ad5056f048", null ],
+    [ "PrepareSpellScript", "df/da5/a18258.html#abd32198867e7f01b21b7de6224a597d4", null ],
+    [ "Register", "df/da5/a18258.html#a671bede7fbc68085cd6075f412822869", null ],
+    [ "Validate", "df/da5/a18258.html#a2f64421bb71988f06a7e2cb71a097d75", null ]
 ];

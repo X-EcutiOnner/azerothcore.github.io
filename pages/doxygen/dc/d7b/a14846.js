@@ -1,5 +1,5 @@
 var a14846 =
 [
-    [ "pathId", "dc/d7b/a14846.html#aefd9fa5c6e7f45047994c7cc47e5967c", null ],
-    [ "spellId", "dc/d7b/a14846.html#af495f984d5b81baeaa61ddca127a9508", null ]
+    [ "npc_black_morass_summoned_add", "dc/d7b/a14846.html#ab1551fc3e746dc724ea433f7a3daa786", null ],
+    [ "EnterEvadeMode", "dc/d7b/a14846.html#a437e7b72b985713d22883f3e33f30942", null ]
 ];

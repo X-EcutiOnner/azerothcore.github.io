@@ -1,7 +1,8 @@
 var a24758 =
 [
-    [ "CheckRequirement", "dc/d8b/a24758.html#a6be5f335a15226db87a04548490f488d", null ],
-    [ "PrepareSpellScript", "dc/d8b/a24758.html#a25463eda0ce51a124e8715baf305c8f6", null ],
-    [ "Register", "dc/d8b/a24758.html#a8db5a5597d8f6fe4064799766fb61502", null ],
-    [ "_level", "dc/d8b/a24758.html#a3d6867e8eae9afde2b03acc2e6ebe961", null ]
+    [ "AfterApply", "dc/d8b/a24758.html#a9c2591beacd941893338109719c03e3f", null ],
+    [ "AfterRemove", "dc/d8b/a24758.html#a0be2a66b615dd926de7073392a8e5062", null ],
+    [ "PrepareAuraScript", "dc/d8b/a24758.html#a4763d0c69c12611244f68ba5a5b1ccce", null ],
+    [ "Register", "dc/d8b/a24758.html#a36fb81d0bf4cf92773db60a70de52dda", null ],
+    [ "Validate", "dc/d8b/a24758.html#a86b51ec85105b0396972f0c3d7b770c1", null ]
 ];

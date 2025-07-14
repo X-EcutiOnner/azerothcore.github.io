@@ -1,7 +1,7 @@
 var a01022 =
 [
-    [ "EMBLEM_PRICE", "d1/dd8/a01022.html#a6e37f394008ea3eb20a46c84e03512a5", null ],
-    [ "MAX_GUILD_BANK_TAB_TEXT_LEN", "d1/dd8/a01022.html#a458eaf87a56d0ac3d92187c55b14f437", null ],
-    [ "_GetGuildBankTabPrice", "d1/dd8/a01022.html#a039068bd46d84b88b1a6a2fa0ae07b80", null ],
-    [ "_GetGuildEventString", "d1/dd8/a01022.html#a8e9e4c2d24b387f386cf2d9c02996b59", null ]
+    [ "ChannelMgr", "d4/dd9/a07486.html", "d4/dd9/a07486" ],
+    [ "AllianceChannelMgr", "d2/d32/a07490.html", "d2/d32/a07490" ],
+    [ "HordeChannelMgr", "df/dbf/a07494.html", "df/dbf/a07494" ],
+    [ "MAX_CHANNEL_PASS_STR", "d1/dd8/a01022.html#a06f16ee81d2214d67575f108b76f6333", null ]
 ];

@@ -1,15 +1,8 @@
 var a12994 =
 [
-    [ "boss_kormok", "d5/de1/a12994.html#a2bacfd366d084cae31b8cc689fb26d0b", null ],
-    [ "DamageTaken", "d5/de1/a12994.html#a2aa7fedea09b4d0526028826be2cb360", null ],
-    [ "IsSummonedBy", "d5/de1/a12994.html#a641bd06b5da44e04534150fc1fc6f9e0", null ],
-    [ "JustDied", "d5/de1/a12994.html#a219bc4f5e13e58bb4a8f79cbc36b5ad7", null ],
-    [ "JustEngagedWith", "d5/de1/a12994.html#a7fc5bb05831e5b8e22c7d59c5c71f87a", null ],
-    [ "JustSummoned", "d5/de1/a12994.html#a49ba1031e5639c3d8fdaf9ae9884a038", null ],
-    [ "Reset", "d5/de1/a12994.html#a70252bf1680510294f62e2c42220156e", null ],
-    [ "SummonedCreatureDespawn", "d5/de1/a12994.html#a6f23b4b006de4b8b5fda6e0203e2f8a7", null ],
-    [ "UpdateAI", "d5/de1/a12994.html#aea5651a98492885eb4d598714df4fd40", null ],
-    [ "_mages", "d5/de1/a12994.html#ae0de3f9848cb9051a18ba15347af3e7a", null ],
-    [ "_scheduler", "d5/de1/a12994.html#a540ef7a05a503a989f93d4b53daacb4b", null ],
-    [ "_summons", "d5/de1/a12994.html#aefaac0c5af45f63faeac6bf9ef1ca7fc", null ]
+    [ "CheckCast", "d5/de1/a12994.html#add6229e3f0241ccedf446a5a37cf72ce", null ],
+    [ "HandleScriptEffect", "d5/de1/a12994.html#a36bb2b95651889eaa0321a7a327e173f", null ],
+    [ "PrepareSpellScript", "d5/de1/a12994.html#a053451bd9ae6f7d639d0a977be843bc0", null ],
+    [ "Register", "d5/de1/a12994.html#a6d16f25c93eef3c17ae6b4a43d884279", null ],
+    [ "Validate", "d5/de1/a12994.html#ab0ed12fadaea4c96c7f6e43b7b385653", null ]
 ];

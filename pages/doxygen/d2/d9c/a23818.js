@@ -1,6 +1,6 @@
 var a23818 =
 [
-    [ "HandleAfterRemove", "d2/d9c/a23818.html#ac9756a8f206c114ff6443331ca266184", null ],
-    [ "PrepareAuraScript", "d2/d9c/a23818.html#a2f67291e6e4291c9d01cdbcbe04a7db7", null ],
-    [ "Register", "d2/d9c/a23818.html#ac36d76ad8a5ecb2e437dcb8f1248386d", null ]
+    [ "npc_capernian", "d2/d9c/a23818.html#a0acb568664c777797eeb7104f454699d", null ],
+    [ "AttackStart", "d2/d9c/a23818.html#a81e89eacbae30a1229fda5e9fe924e2b", null ],
+    [ "ScheduleEvents", "d2/d9c/a23818.html#a6bd26f5584a1c960b84b574abd723ad1", null ]
 ];

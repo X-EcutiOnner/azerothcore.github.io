@@ -1,7 +1,8 @@
 var a25438 =
 [
-    [ "HandleDummy", "d4/d0e/a25438.html#a5a82cbe58f57c94441cfda618e0eecca", null ],
-    [ "HandleScriptEffect", "d4/d0e/a25438.html#a30d760a8708b49a185eb000249a9a5eb", null ],
-    [ "PrepareSpellScript", "d4/d0e/a25438.html#a102d8493d285757c789cbba4a1bdc688", null ],
-    [ "Register", "d4/d0e/a25438.html#ab4031ddb745995128854c149f7706045", null ]
+    [ "HandleFinish", "d4/d0e/a25438.html#aac1981a16cbb61bfaf20c865bcfaf6a8", null ],
+    [ "PrepareSpellScript", "d4/d0e/a25438.html#a73865997890d4f58cc09d54c2c4e5243", null ],
+    [ "Register", "d4/d0e/a25438.html#a106cf5d53956b66f8f548caceda41dc8", null ],
+    [ "SelectTarget", "d4/d0e/a25438.html#ab33513df20e942ba354932df5082efa8", null ],
+    [ "_target", "d4/d0e/a25438.html#af25d11fc93423ee6e1678ebb5dcf1276", null ]
 ];

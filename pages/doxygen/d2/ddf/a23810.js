@@ -1,8 +1,13 @@
 var a23810 =
 [
-    [ "boss_mechano_lord_capacitus", "d2/ddf/a23810.html#ab5867184d4e50a89a1afe25eb40e6bc3", null ],
-    [ "JustDied", "d2/ddf/a23810.html#a596314e7aebcc9e2e7311b4e0850b817", null ],
-    [ "JustEngagedWith", "d2/ddf/a23810.html#a4aa9ee50a942fe123acfdeee0350fa2d", null ],
-    [ "JustSummoned", "d2/ddf/a23810.html#a9a0b2cac08002db63162f95b9476c251", null ],
-    [ "KilledUnit", "d2/ddf/a23810.html#a6a408c654f91a44a40b3df52c0f2b093", null ]
+    [ "advisor_baseAI", "d2/ddf/a23810.html#a3c68b7ee961af2d9dabb15c7e054d45b", null ],
+    [ "DamageTaken", "d2/ddf/a23810.html#a678d09ec3b3d5a4d922a0fc117192349", null ],
+    [ "JustDied", "d2/ddf/a23810.html#a8da09edce761f1f1e1b7eb96ec7a529b", null ],
+    [ "JustEngagedWith", "d2/ddf/a23810.html#a1e4b1ff264f4c1586515f56531b77dea", null ],
+    [ "Reset", "d2/ddf/a23810.html#a008c30414ecebf4e2996d06b81539255", null ],
+    [ "ScheduleEvents", "d2/ddf/a23810.html#a24d22ccec834770bc5bcf44119fb0045", null ],
+    [ "SpellHit", "d2/ddf/a23810.html#a4fc41f3985244b6baf25b3417f67054e", null ],
+    [ "UpdateAI", "d2/ddf/a23810.html#aa89d3479b2e0bd8dd18572135aa45235", null ],
+    [ "_feigning", "d2/ddf/a23810.html#ae1c2011ba993c8d589bf6fe45602ac41", null ],
+    [ "_preventDeath", "d2/ddf/a23810.html#ab6c4a3f241fa5417f0a1d450ddb811ca", null ]
 ];

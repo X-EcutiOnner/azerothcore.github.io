@@ -1,9 +1,11 @@
 var a16842 =
 [
-    [ "npc_hor_risen_witch_doctorAI", "d0/dd4/a16842.html#acd33d4811521f6d41bce21270198db45", null ],
-    [ "JustDied", "d0/dd4/a16842.html#a49eb1c20ef810d0e4aeea8f99fcabebb", null ],
-    [ "JustEngagedWith", "d0/dd4/a16842.html#a54378daf294fcbee4ba1abf14927cc52", null ],
-    [ "Reset", "d0/dd4/a16842.html#a20742bb0fe610367283cd5dc7e8b36ff", null ],
-    [ "UpdateAI", "d0/dd4/a16842.html#af9baaf71fa53a42ab5d1507fdd6aa9fd", null ],
-    [ "events", "d0/dd4/a16842.html#abb39744cdcdc8e1fbf8fd06508af35f9", null ]
+    [ "npc_hor_leaderAI", "d0/dd4/a16842.html#a2072f9facbc476bb97f1a3ca9c24fcb7", null ],
+    [ "DoAction", "d0/dd4/a16842.html#a610700732a6cc197a40106adef654a62", null ],
+    [ "Reset", "d0/dd4/a16842.html#a40749d0294400e15bc28f6e728c6cb3c", null ],
+    [ "UpdateAI", "d0/dd4/a16842.html#acb29a6ddb6d06616e79f7431b66f167a", null ],
+    [ "events", "d0/dd4/a16842.html#a94128223bddd84b8a678e49f3189cb75", null ],
+    [ "first", "d0/dd4/a16842.html#add878d336fa7e20bee4d05ac0383dd0a", null ],
+    [ "pInstance", "d0/dd4/a16842.html#a8dd77a92b151acad640f1272acf0b65f", null ],
+    [ "shortver", "d0/dd4/a16842.html#a6e7b5d6f1b73bacb54d9aa1eb21fe6ee", null ]
 ];

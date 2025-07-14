@@ -1,7 +1,6 @@
 var a20838 =
 [
-    [ "FilterTargets", "d8/d57/a20838.html#a4e27a01b87e6f003ed52da45a4bda403", null ],
-    [ "HandleDummyEffect", "d8/d57/a20838.html#abfe7ff12346d54fe3a0c1450897e58ee", null ],
-    [ "PrepareSpellScript", "d8/d57/a20838.html#a0c31912e28eaa5922edb1ca4c7689883", null ],
-    [ "Register", "d8/d57/a20838.html#a337cdb940a2001ac370768b02126d3c0", null ]
+    [ "boss_yoggsaron_crusher_tentacleAI", "df/d5c/a20842.html", "df/d5c/a20842" ],
+    [ "boss_yoggsaron_crusher_tentacle", "d8/d57/a20838.html#a9bb0c5535bf98e186d39f235f5786ff0", null ],
+    [ "GetAI", "d8/d57/a20838.html#a82b6a328197ec81223c1d00dabb79a66", null ]
 ];

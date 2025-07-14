@@ -1,7 +1,8 @@
 var a13126 =
 [
-    [ "OnRemove", "d3/d1e/a13126.html#a55460c6393c165e3096c967c81136032", null ],
-    [ "PrepareAuraScript", "d3/d1e/a13126.html#afd4e4483f704169e6d213ced134d4c62", null ],
-    [ "Register", "d3/d1e/a13126.html#a8458f77fde6eaddc273b3fe5f4e49ae0", null ],
-    [ "Validate", "d3/d1e/a13126.html#af580258d287f5db6103b89d3085669bc", null ]
+    [ "FilterTargets", "d3/d1e/a13126.html#a4c7627dc20c4dafcee4d6faf97d3914e", null ],
+    [ "HandleScript", "d3/d1e/a13126.html#aecb62c147905d0a4fe60086b8028df0b", null ],
+    [ "PrepareSpellScript", "d3/d1e/a13126.html#a84ed93d5235781d9d53a47fff39d3ad2", null ],
+    [ "Register", "d3/d1e/a13126.html#a2832f131d99608923ade8070e17da86d", null ],
+    [ "Validate", "d3/d1e/a13126.html#a1a510f9cf49df69c5904cb79c8cdc860", null ]
 ];

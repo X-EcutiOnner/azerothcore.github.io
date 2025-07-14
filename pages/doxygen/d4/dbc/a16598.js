@@ -1,6 +1,5 @@
 var a16598 =
 [
-    [ "HandleScript", "d4/dbc/a16598.html#a4786e0c38f03f7e671174d0641526681", null ],
-    [ "PrepareSpellScript", "d4/dbc/a16598.html#a7d260468f409a7fb41a39f80db5f9d63", null ],
-    [ "Register", "d4/dbc/a16598.html#a943117bfb56b846e99d04bd9a348af8d", null ]
+    [ "boss_fjolaAI", "d4/dbc/a16598.html#aa46fdff841d01f28ef50aa5363082f71", null ],
+    [ "JustSummoned", "d4/dbc/a16598.html#a59a3f2453f923d4f19c63e88402d1a76", null ]
 ];

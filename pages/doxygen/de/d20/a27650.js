@@ -1,6 +1,6 @@
 var a27650 =
 [
-    [ "ChannelID", "de/d20/a27650.html#a51753c36711e100fd8dca1cd5b1e7e94", null ],
-    [ "flags", "de/d20/a27650.html#aa77db644555e336ccbb8dd138c192425", null ],
-    [ "pattern", "de/d20/a27650.html#ad8b550cf444d66eede00abcf2cefec22", null ]
+    [ "npc_venomhide_hatchlingAI", "de/d20/a27650.html#aa5929973ae39166ef381a3ed3c42a29c", null ],
+    [ "IsSummonedBy", "de/d20/a27650.html#a6e1b76f43217f1eb855b50d58a069518", null ],
+    [ "SpellHit", "de/d20/a27650.html#ac6c255438dc2f6c750ee47b61fbc20a3", null ]
 ];

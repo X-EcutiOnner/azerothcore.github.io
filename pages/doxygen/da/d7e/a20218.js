@@ -1,7 +1,6 @@
 var a20218 =
 [
-    [ "HandleScript", "da/d7e/a20218.html#a760bb60198017605111d02af98c827b1", null ],
-    [ "PrepareSpellScript", "da/d7e/a20218.html#a6128956f1037b62fff2e6f10ec22d956", null ],
-    [ "Register", "da/d7e/a20218.html#ae445c98f5543df2f45b77b6cd54d58e7", null ],
-    [ "Validate", "da/d7e/a20218.html#a3bb460d50928bd1b57566dd6a50fa5cd", null ]
+    [ "npc_ulduar_hodir_shamanAI", "df/d2f/a20222.html", "df/d2f/a20222" ],
+    [ "npc_ulduar_hodir_shaman", "da/d7e/a20218.html#ae73a416c72441ab531d8a5db88183d47", null ],
+    [ "GetAI", "da/d7e/a20218.html#ab06a67b72a3954c65792a478ac90672c", null ]
 ];

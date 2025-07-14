@@ -1,11 +1,8 @@
 var a12022 =
 [
-    [ "npc_blackhand_incarceratorAI", "d9/df9/a12022.html#adecfd5bcc6bf5fee0688459ebac03e18", null ],
-    [ "DamageTaken", "d9/df9/a12022.html#a3bc090518cba2bc64fb5c454bbb47b72", null ],
-    [ "JustEngagedWith", "d9/df9/a12022.html#a2026328f428c4e5c15551773255da21f", null ],
-    [ "Reset", "d9/df9/a12022.html#a3a98f2d5fd764c852a1d9418315cd56b", null ],
-    [ "SetData", "d9/df9/a12022.html#ae9d92237c6327abd78ada9a306ee8a09", null ],
-    [ "UpdateAI", "d9/df9/a12022.html#a1bc6aa88d7bc5163e2cc4e2cc1779076", null ],
-    [ "_events", "d9/df9/a12022.html#abcd817233c0cb85656856c4107d86793", null ],
-    [ "_fleedForAssistance", "d9/df9/a12022.html#ab4e59b91b47dffc19db6b49ecd4c9fd8", null ]
+    [ "CheckProc", "d9/df9/a12022.html#a08e84f2b2ff25ed7e260e61251f9cdb9", null ],
+    [ "HandleProc", "d9/df9/a12022.html#afd3d4786f739566056b69390553d9c71", null ],
+    [ "PrepareAuraScript", "d9/df9/a12022.html#a3ba84d4fd311a91efa685980ffec8d77", null ],
+    [ "Register", "d9/df9/a12022.html#aa36a2e10a6fd67fa74d08e20dc806744", null ],
+    [ "Validate", "d9/df9/a12022.html#aeff8b89300bb5d3589a46a4f66cfd77d", null ]
 ];

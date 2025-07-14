@@ -1,5 +1,5 @@
 var a03944 =
 [
-    [ "server_commandscript", "de/d90/a11728.html", "de/d90/a11728" ],
-    [ "AddSC_server_commandscript", "dd/dde/a03944.html#aaa97392c09b5045a6040d75b224bdf22", null ]
+    [ "HandleLearnSpellCommand", "dd/dde/a03944.html#acbe37f872cbc981a27671ebdf10904de", null ],
+    [ "HandleUnlearnSpellCommand", "dd/dde/a03944.html#ad36f90f90b3d9aaf782f7efc859f7e7a", null ]
 ];

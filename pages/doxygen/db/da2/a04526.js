@@ -1,4 +1,4 @@
 var a04526 =
 [
-    [ "LockedQueue< T, StorageType >", "db/d40/a05372.html", "db/d40/a05372" ]
+    [ "UpdateFetcher::DirectoryEntry", "d2/ddb/a05898.html", "d2/ddb/a05898" ]
 ];

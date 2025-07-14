@@ -1,10 +1,9 @@
 var a24726 =
 [
-    [ "FilterTargets", "d1/ddb/a24726.html#a033c63470d406ad2249c5aa223c00b2f", null ],
-    [ "HandleFinish", "d1/ddb/a24726.html#a3b5760ed61d0b2789ddcaef998303d38", null ],
-    [ "HandleScript", "d1/ddb/a24726.html#a2c26838015f1b21715fc1438537e15d3", null ],
-    [ "Load", "d1/ddb/a24726.html#a669aefa81d57358ef452f4c247b2ceff", null ],
-    [ "PrepareSpellScript", "d1/ddb/a24726.html#a3b65dbff73258b45f9e345bffc7a63a8", null ],
-    [ "Register", "d1/ddb/a24726.html#ac9b8d46cc77b06c427b5b3cbc1135072", null ],
-    [ "haveTarget", "d1/ddb/a24726.html#a7f5a4e68fb7d948f0df35824272cbdb0", null ]
+    [ "Absorb", "d1/ddb/a24726.html#af7df70d0bd68d12032b5b57faa789a87", null ],
+    [ "CalculateAmount", "d1/ddb/a24726.html#a40f7cfe30b7bf2237d61665b167476fb", null ],
+    [ "Load", "d1/ddb/a24726.html#a1b3e5da38a6aba7cc163bf34848ed950", null ],
+    [ "PrepareAuraScript", "d1/ddb/a24726.html#ae63ad15db90ebe73d73e77e232f4d695", null ],
+    [ "Register", "d1/ddb/a24726.html#ac7316995b7682a6fafe47ff2547956b0", null ],
+    [ "absorbPct", "d1/ddb/a24726.html#ab5b59d975e71e0e12bf41e8d173b9491", null ]
 ];

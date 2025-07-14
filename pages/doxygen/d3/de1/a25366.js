@@ -1,10 +1,10 @@
 var a25366 =
 [
-    [ "ApplyMarker", "d3/de1/a25366.html#aae1bd2f5f21a389e8d110cabecc9d94d", null ],
-    [ "CheckTrapProc", "d3/de1/a25366.html#a00f06f18b6874302f88c3af193d8e4ed", null ],
-    [ "HandleProcs", "d3/de1/a25366.html#a81abe76c24a6a6320811d99ce8f5fb4f", null ],
-    [ "IsTargetValid", "d3/de1/a25366.html#a02590da9b97a4d6bc7a6cbd0e670480f", null ],
-    [ "PrepareAuraScript", "d3/de1/a25366.html#a475320d20875b2d710ed3734b78f4645", null ],
-    [ "Register", "d3/de1/a25366.html#aca7649a87ace4e22793ca33705b1500c", null ],
-    [ "Validate", "d3/de1/a25366.html#a45630b6dc703996321286ff16a17e3e3", null ]
+    [ "Load", "d3/de1/a25366.html#a04526f30ad35af3f629cdd0c8312e33c", null ],
+    [ "OnApply", "d3/de1/a25366.html#a83d922c434442e22482410d61aa0198f", null ],
+    [ "OnPetApply", "d3/de1/a25366.html#a6df5e59e29cb89310a1c78bf93029545", null ],
+    [ "OnRemove", "d3/de1/a25366.html#aa4efa4ed7d98c63989353c398bb2b128", null ],
+    [ "PrepareAuraScript", "d3/de1/a25366.html#a1b4d8f636c01f01bc9380c290de91a0e", null ],
+    [ "Register", "d3/de1/a25366.html#a265726c9bfa180c3b8f470eb1eee837b", null ],
+    [ "Validate", "d3/de1/a25366.html#ab318472ea9f4aaa79e45f18783586eed", null ]
 ];

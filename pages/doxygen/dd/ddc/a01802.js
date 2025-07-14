@@ -1,4 +1,4 @@
 var a01802 =
 [
-    [ "ScriptRegistry< WorldMapScript >", "dd/ddc/a01802.html#a729e333e6d0c4e5e353dd22c9612f446", null ]
+    [ "ScriptRegistry< SpellScriptLoader >", "dd/ddc/a01802.html#aae80ff7a03e35c91f47550f388c3f3bb", null ]
 ];

@@ -1,6 +1,6 @@
 var a18230 =
 [
-    [ "ModDestHeight", "d6/da9/a18230.html#aafab48e58a2eb18c286f71fa907e9bc8", null ],
-    [ "PrepareSpellScript", "d6/da9/a18230.html#a3c84b7044f448a5596e18f72e7b2f11a", null ],
-    [ "Register", "d6/da9/a18230.html#ad3900c969dfb05a61ebc750eb3425bc0", null ]
+    [ "npc_shambling_horror_iccAI", "df/d1a/a18234.html", "df/d1a/a18234" ],
+    [ "npc_shambling_horror_icc", "d6/da9/a18230.html#a68219e0c6e79f5e7bed1f353d7bb5bcb", null ],
+    [ "GetAI", "d6/da9/a18230.html#a96fd525fcb34e793b1fc3fc5179e92ec", null ]
 ];

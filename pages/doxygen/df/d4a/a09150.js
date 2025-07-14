@@ -1,8 +1,12 @@
 var a09150 =
 [
-    [ "AIRelocationNotifier", "df/d4a/a09150.html#ab19dba99802231bc1ba7b3ae3cb4bdb3", null ],
-    [ "Visit", "df/d4a/a09150.html#a06dd774a24d4a1da36a2a862c0ad97df", null ],
-    [ "Visit", "df/d4a/a09150.html#a0ec9a2499d73516dd2d4a0319990924a", null ],
-    [ "i_unit", "df/d4a/a09150.html#ab1dd814e4d94ed2989bb07012a24d40e", null ],
-    [ "isCreature", "df/d4a/a09150.html#a199f4b91d00dd4db90855e5521d87a95", null ]
+    [ "GridTerrainLoader", "df/d4a/a09150.html#a9f5094ad19163dc8ac3f3c4bada48ee9", null ],
+    [ "ExistMap", "df/d4a/a09150.html#a980cb9f6537642db8ae0825d14b6bb68", null ],
+    [ "ExistVMap", "df/d4a/a09150.html#a17bdde445c48738ade280bd1cdda0619", null ],
+    [ "LoadMap", "df/d4a/a09150.html#ac220ce61dd0c3e514dcff2465c61af0f", null ],
+    [ "LoadMMap", "df/d4a/a09150.html#a8b3be4eb509393af8a2a927bc15947c9", null ],
+    [ "LoadTerrain", "df/d4a/a09150.html#a097556a8a778efa22ab9d50cbda2649a", null ],
+    [ "LoadVMap", "df/d4a/a09150.html#ac4e66140ef37fb3dc0f990cc196d106f", null ],
+    [ "_grid", "df/d4a/a09150.html#a1ec8202457f9df4fdc3b356e30f1a15d", null ],
+    [ "_map", "df/d4a/a09150.html#a2547ac0b9ee6ae7b760227d5051dea85", null ]
 ];

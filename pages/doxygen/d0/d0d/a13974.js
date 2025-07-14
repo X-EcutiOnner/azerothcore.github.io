@@ -1,6 +1,5 @@
 var a13974 =
 [
-    [ "LaunchHit", "d0/d0d/a13974.html#a715c86c4057fe8c60abf02d895ac3c5a", null ],
-    [ "PrepareSpellScript", "d0/d0d/a13974.html#a4ad316b68d84921255577aedabb5ad3f", null ],
-    [ "Register", "d0/d0d/a13974.html#a50fa3ede9bebb2b54c4ec10091017c07", null ]
+    [ "at_zulgurub_bloodfire_pit_speech", "d0/d0d/a13974.html#a880058a08d7da3b8d3062a8bc17367a4", null ],
+    [ "_OnTrigger", "d0/d0d/a13974.html#a8f1e477942ba9a5f653077632a98930f", null ]
 ];

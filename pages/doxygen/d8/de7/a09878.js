@@ -1,10 +1,12 @@
 var a09878 =
 [
-    [ "ChaseRange", "d8/de7/a09878.html#acd43ed01c9e4845d82e4d240b5c35167", null ],
-    [ "ChaseRange", "d8/de7/a09878.html#aaf19c63398d31699ed1703ae1ba5f1b6", null ],
-    [ "ChaseRange", "d8/de7/a09878.html#a397b3789449b1c178f11f64313498c4d", null ],
-    [ "MaxRange", "d8/de7/a09878.html#ae2a846630e79f3a15a5d93b18c68c915", null ],
-    [ "MaxTolerance", "d8/de7/a09878.html#a7909b18028d43c84eca5feee3e41469c", null ],
-    [ "MinRange", "d8/de7/a09878.html#a0e2c69e20d6a38d056505c3b5b0d9fd6", null ],
-    [ "MinTolerance", "d8/de7/a09878.html#a7b640ecfc0e80921ab36c2c33f0b10fd", null ]
+    [ "BanAccount", "d8/de7/a09878.html#af85ceffee2ae6a143df5e36f6a004f07", null ],
+    [ "BanAccountByPlayerName", "d8/de7/a09878.html#a35f92762d69fe32e49b9b239c74e4734", null ],
+    [ "BanCharacter", "d8/de7/a09878.html#ad5048b36828bfe20a95dfb85515de831", null ],
+    [ "BanIP", "d8/de7/a09878.html#a404890eab19b97773e6c9aef8cc65707", null ],
+    [ "instance", "d8/de7/a09878.html#aa495dfaab6af98c43f645acf516a5630", null ],
+    [ "RemoveBanAccount", "d8/de7/a09878.html#ae831e6227442edc70469229d5d73fa3f", null ],
+    [ "RemoveBanAccountByPlayerName", "d8/de7/a09878.html#a7b5e1ae6d34ae4f6a15e03c434953aea", null ],
+    [ "RemoveBanCharacter", "d8/de7/a09878.html#afbde6c0b26802f684ecf78c2f493cc67", null ],
+    [ "RemoveBanIP", "d8/de7/a09878.html#afcf4857007432ebff042c85c5daf2325", null ]
 ];

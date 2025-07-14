@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: Member List</title>
+<title>AzerothCore: Acore::AIRelocationNotifier Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -78,7 +78,7 @@ $(function() {
 </div>
 <script type="text/javascript">
 /* @license magnet:?xt=urn:btih:d3d9a9a6595521f9666a5e94cc830dab83b65699&amp;dn=expat.txt MIT */
-$(document).ready(function(){initNavTree('d5/d25/a09185.html','../../'); initResizable(); });
+$(document).ready(function(){initNavTree('d9/d7f/a09182.html','../../'); initResizable(); });
 /* @license-end */
 </script>
 <div id="doc-content">
@@ -104,28 +104,178 @@ $(document).ready(function(){initNavTree('d5/d25/a09185.html','../../'); initRes
 </div>
 
 <div class="header">
-  <div class="headertitle"><div class="title">Acore::WorldObjectWorker&lt; Do &gt; Member List</div></div>
+  <div class="summary">
+<a href="#pub-methods">Public Member Functions</a> &#124;
+<a href="#pub-attribs">Public Attributes</a> &#124;
+<a href="../../da/dd4/a09179.html">List of all members</a>  </div>
+  <div class="headertitle"><div class="title">Acore::AIRelocationNotifier Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p>This is the complete list of members for <a class="el" href="../../d5/d25/a09185.html">Acore::WorldObjectWorker&lt; Do &gt;</a>, including all inherited members.</p>
-<table class="directory">
-  <tr class="even"><td class="entry"><a class="el" href="../../d5/d25/a09185.html#aa16ce8cce21d4590ef6612e14fb48919">i_do</a></td><td class="entry"><a class="el" href="../../d5/d25/a09185.html">Acore::WorldObjectWorker&lt; Do &gt;</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d5/d25/a09185.html#a6f8e447b9693154f56ce010869acadb9">i_mapTypeMask</a></td><td class="entry"><a class="el" href="../../d5/d25/a09185.html">Acore::WorldObjectWorker&lt; Do &gt;</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d5/d25/a09185.html#affa6245985c5d271900be12104ab6bb6">i_phaseMask</a></td><td class="entry"><a class="el" href="../../d5/d25/a09185.html">Acore::WorldObjectWorker&lt; Do &gt;</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d5/d25/a09185.html#a7de6ea339a8113d242dd099ca4d36927">Visit</a>(GameObjectMapType &amp;m)</td><td class="entry"><a class="el" href="../../d5/d25/a09185.html">Acore::WorldObjectWorker&lt; Do &gt;</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d5/d25/a09185.html#a17097541c49264c15ebfe474f54aeca2">Visit</a>(PlayerMapType &amp;m)</td><td class="entry"><a class="el" href="../../d5/d25/a09185.html">Acore::WorldObjectWorker&lt; Do &gt;</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d5/d25/a09185.html#a3021825347d132f1368a77d29a8318df">Visit</a>(CreatureMapType &amp;m)</td><td class="entry"><a class="el" href="../../d5/d25/a09185.html">Acore::WorldObjectWorker&lt; Do &gt;</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d5/d25/a09185.html#ae264461e49602fd0b8a17e30ed554c64">Visit</a>(CorpseMapType &amp;m)</td><td class="entry"><a class="el" href="../../d5/d25/a09185.html">Acore::WorldObjectWorker&lt; Do &gt;</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d5/d25/a09185.html#a7b7869c7d151e8abc924f517ecfdef82">Visit</a>(DynamicObjectMapType &amp;m)</td><td class="entry"><a class="el" href="../../d5/d25/a09185.html">Acore::WorldObjectWorker&lt; Do &gt;</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d5/d25/a09185.html#a29196fa36ce32a0cec68d0d67372a400">Visit</a>(GridRefMgr&lt; NOT_INTERESTED &gt; &amp;)</td><td class="entry"><a class="el" href="../../d5/d25/a09185.html">Acore::WorldObjectWorker&lt; Do &gt;</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d5/d25/a09185.html#a15dd68579f1a92f015cfac8577db7422">WorldObjectWorker</a>(WorldObject const *searcher, Do const &amp;_do, uint32 mapTypeMask=GRID_MAP_TYPE_MASK_ALL)</td><td class="entry"><a class="el" href="../../d5/d25/a09185.html">Acore::WorldObjectWorker&lt; Do &gt;</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-</table></div><!-- contents -->
+<p><code>#include &quot;<a class="el" href="../../">GridNotifiers.h</a>&quot;</code></p>
+<table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
+Public Member Functions</h2></td></tr>
+<tr class="memitem:ab19dba99802231bc1ba7b3ae3cb4bdb3"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d7f/a09182.html#ab19dba99802231bc1ba7b3ae3cb4bdb3">AIRelocationNotifier</a> (<a class="el" href="../../de/d9c/a08742.html">Unit</a> &amp;unit)</td></tr>
+<tr class="separator:ab19dba99802231bc1ba7b3ae3cb4bdb3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0ec9a2499d73516dd2d4a0319990924a"><td class="memTemplParams" colspan="2">template&lt;class T &gt; </td></tr>
+<tr class="memitem:a0ec9a2499d73516dd2d4a0319990924a"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d9/d7f/a09182.html#a0ec9a2499d73516dd2d4a0319990924a">Visit</a> (<a class="el" href="../../d7/d5c/a09086.html">GridRefMgr</a>&lt; T &gt; &amp;)</td></tr>
+<tr class="separator:a0ec9a2499d73516dd2d4a0319990924a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a06dd774a24d4a1da36a2a862c0ad97df"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d7f/a09182.html#a06dd774a24d4a1da36a2a862c0ad97df">Visit</a> (<a class="el" href="../../db/d3a/a00641.html#ac60ef2e7adf9bc71b50d675b4b74980b">CreatureMapType</a> &amp;)</td></tr>
+<tr class="separator:a06dd774a24d4a1da36a2a862c0ad97df"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
+Public Attributes</h2></td></tr>
+<tr class="memitem:ab1dd814e4d94ed2989bb07012a24d40e"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d9c/a08742.html">Unit</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d7f/a09182.html#ab1dd814e4d94ed2989bb07012a24d40e">i_unit</a></td></tr>
+<tr class="separator:ab1dd814e4d94ed2989bb07012a24d40e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a199f4b91d00dd4db90855e5521d87a95"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d7f/a09182.html#a199f4b91d00dd4db90855e5521d87a95">isCreature</a></td></tr>
+<tr class="separator:a199f4b91d00dd4db90855e5521d87a95"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table>
+<a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
+<div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a id="ab19dba99802231bc1ba7b3ae3cb4bdb3" name="ab19dba99802231bc1ba7b3ae3cb4bdb3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab19dba99802231bc1ba7b3ae3cb4bdb3">&#9670;&#160;</a></span>AIRelocationNotifier()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">Acore::AIRelocationNotifier::AIRelocationNotifier </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../de/d9c/a08742.html">Unit</a> &amp;&#160;</td>
+          <td class="paramname"><em>unit</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">explicit</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   94</span>: <a class="code hl_variable" href="../../d9/d7f/a09182.html#ab1dd814e4d94ed2989bb07012a24d40e">i_unit</a>(unit), <a class="code hl_variable" href="../../d9/d7f/a09182.html#a199f4b91d00dd4db90855e5521d87a95">isCreature</a>(unit.<a class="code hl_function" href="../../dd/d4f/a08358.html#aacc8ee332f66effdc0d77c126dae1961">IsCreature</a>())  {}</div>
+<div class="ttc" id="aa08358_html_aacc8ee332f66effdc0d77c126dae1961"><div class="ttname"><a href="../../dd/d4f/a08358.html#aacc8ee332f66effdc0d77c126dae1961">Object::IsCreature</a></div><div class="ttdeci">bool IsCreature() const</div><div class="ttdef"><b>Definition:</b> Object.h:205</div></div>
+<div class="ttc" id="aa09182_html_a199f4b91d00dd4db90855e5521d87a95"><div class="ttname"><a href="../../d9/d7f/a09182.html#a199f4b91d00dd4db90855e5521d87a95">Acore::AIRelocationNotifier::isCreature</a></div><div class="ttdeci">bool isCreature</div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:93</div></div>
+<div class="ttc" id="aa09182_html_ab1dd814e4d94ed2989bb07012a24d40e"><div class="ttname"><a href="../../d9/d7f/a09182.html#ab1dd814e4d94ed2989bb07012a24d40e">Acore::AIRelocationNotifier::i_unit</a></div><div class="ttdeci">Unit &amp; i_unit</div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:92</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<h2 class="groupheader">Member Function Documentation</h2>
+<a id="a06dd774a24d4a1da36a2a862c0ad97df" name="a06dd774a24d4a1da36a2a862c0ad97df"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a06dd774a24d4a1da36a2a862c0ad97df">&#9670;&#160;</a></span>Visit() <span class="overload">[1/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void AIRelocationNotifier::Visit </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../db/d3a/a00641.html#ac60ef2e7adf9bc71b50d675b4b74980b">CreatureMapType</a> &amp;&#160;</td>
+          <td class="paramname"><em>m</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  196</span>{</div>
+<div class="line"><span class="lineno">  197</span>    <span class="keywordtype">bool</span> self = <a class="code hl_variable" href="../../d9/d7f/a09182.html#a199f4b91d00dd4db90855e5521d87a95">isCreature</a> &amp;&amp; !((<a class="code hl_class" href="../../d0/d36/a07986.html">Creature</a>*)(&amp;<a class="code hl_variable" href="../../d9/d7f/a09182.html#ab1dd814e4d94ed2989bb07012a24d40e">i_unit</a>))-&gt;IsMoveInLineOfSightStrictlyDisabled();</div>
+<div class="line"><span class="lineno">  198</span>    <span class="keywordflow">for</span> (<a class="code hl_class" href="../../d6/de6/a05234.html">CreatureMapType::iterator</a> iter = m.<a class="code hl_function" href="../../d7/d5c/a09086.html#a1e4e67ba11ac8da077942a6581647bf3">begin</a>(); iter != m.<a class="code hl_function" href="../../d7/d5c/a09086.html#a266acb421cfc6ccc56dc2acff3202971">end</a>(); ++iter)</div>
+<div class="line"><span class="lineno">  199</span>    {</div>
+<div class="line"><span class="lineno">  200</span>        <a class="code hl_class" href="../../d0/d36/a07986.html">Creature</a>* c = iter-&gt;GetSource();</div>
+<div class="line"><span class="lineno">  201</span> </div>
+<div class="line"><span class="lineno">  202</span>        <span class="comment">// NOTIFY_VISIBILITY_CHANGED | NOTIFY_AI_RELOCATION does not guarantee that unit will do it itself (because distance is also checked), but screw it, it&#39;s not that important</span></div>
+<div class="line"><span class="lineno">  203</span>        <span class="keywordflow">if</span> (!c-&gt;<a class="code hl_function" href="../../da/da3/a08394.html#a266350f5eebd01138f89f659d1eb7505">isNeedNotify</a>(<a class="code hl_enumvalue" href="../../d0/d2b/a01997.html#ae6d03ea53b22c98f9dd7e3ce829cf389ae24fd40d89da822e12587f23612eb053">NOTIFY_VISIBILITY_CHANGED</a> | <a class="code hl_enumvalue" href="../../d0/d2b/a01997.html#ae6d03ea53b22c98f9dd7e3ce829cf389ac8f5884b0cde878e7d080be2be35f12d">NOTIFY_AI_RELOCATION</a>) &amp;&amp; !c-&gt;<a class="code hl_function" href="../../d0/d36/a07986.html#a311d114dbf2ff185f20a636d3e4c61d0">IsMoveInLineOfSightStrictlyDisabled</a>())</div>
+<div class="line"><span class="lineno">  204</span>            <a class="code hl_function" href="../../dd/dc0/a00611.html#a6dd107031f342074ca560b711fe188d7">CreatureUnitRelocationWorker</a>(c, &amp;<a class="code hl_variable" href="../../d9/d7f/a09182.html#ab1dd814e4d94ed2989bb07012a24d40e">i_unit</a>);</div>
+<div class="line"><span class="lineno">  205</span> </div>
+<div class="line"><span class="lineno">  206</span>        <span class="keywordflow">if</span> (self)</div>
+<div class="line"><span class="lineno">  207</span>            <a class="code hl_function" href="../../dd/dc0/a00611.html#a6dd107031f342074ca560b711fe188d7">CreatureUnitRelocationWorker</a>((<a class="code hl_class" href="../../d0/d36/a07986.html">Creature</a>*)&amp;<a class="code hl_variable" href="../../d9/d7f/a09182.html#ab1dd814e4d94ed2989bb07012a24d40e">i_unit</a>, c);</div>
+<div class="line"><span class="lineno">  208</span>    }</div>
+<div class="line"><span class="lineno">  209</span>}</div>
+<div class="ttc" id="aa00611_html_a6dd107031f342074ca560b711fe188d7"><div class="ttname"><a href="../../dd/dc0/a00611.html#a6dd107031f342074ca560b711fe188d7">CreatureUnitRelocationWorker</a></div><div class="ttdeci">void CreatureUnitRelocationWorker(Creature *c, Unit *u)</div><div class="ttdef"><b>Definition:</b> GridNotifiers.cpp:148</div></div>
+<div class="ttc" id="aa01997_html_ae6d03ea53b22c98f9dd7e3ce829cf389ac8f5884b0cde878e7d080be2be35f12d"><div class="ttname"><a href="../../d0/d2b/a01997.html#ae6d03ea53b22c98f9dd7e3ce829cf389ac8f5884b0cde878e7d080be2be35f12d">NOTIFY_AI_RELOCATION</a></div><div class="ttdeci">@ NOTIFY_AI_RELOCATION</div><div class="ttdef"><b>Definition:</b> Object.h:68</div></div>
+<div class="ttc" id="aa01997_html_ae6d03ea53b22c98f9dd7e3ce829cf389ae24fd40d89da822e12587f23612eb053"><div class="ttname"><a href="../../d0/d2b/a01997.html#ae6d03ea53b22c98f9dd7e3ce829cf389ae24fd40d89da822e12587f23612eb053">NOTIFY_VISIBILITY_CHANGED</a></div><div class="ttdeci">@ NOTIFY_VISIBILITY_CHANGED</div><div class="ttdef"><b>Definition:</b> Object.h:69</div></div>
+<div class="ttc" id="aa05234_html"><div class="ttname"><a href="../../d6/de6/a05234.html">LinkedListHead::Iterator</a></div><div class="ttdef"><b>Definition:</b> LinkedList.h:139</div></div>
+<div class="ttc" id="aa07986_html"><div class="ttname"><a href="../../d0/d36/a07986.html">Creature</a></div><div class="ttdef"><b>Definition:</b> Creature.h:43</div></div>
+<div class="ttc" id="aa07986_html_a311d114dbf2ff185f20a636d3e4c61d0"><div class="ttname"><a href="../../d0/d36/a07986.html#a311d114dbf2ff185f20a636d3e4c61d0">Creature::IsMoveInLineOfSightStrictlyDisabled</a></div><div class="ttdeci">bool IsMoveInLineOfSightStrictlyDisabled()</div><div class="ttdef"><b>Definition:</b> Creature.h:281</div></div>
+<div class="ttc" id="aa08394_html_a266350f5eebd01138f89f659d1eb7505"><div class="ttname"><a href="../../da/da3/a08394.html#a266350f5eebd01138f89f659d1eb7505">WorldObject::isNeedNotify</a></div><div class="ttdeci">bool isNeedNotify(uint16 f) const</div><div class="ttdef"><b>Definition:</b> Object.h:627</div></div>
+<div class="ttc" id="aa09086_html_a1e4e67ba11ac8da077942a6581647bf3"><div class="ttname"><a href="../../d7/d5c/a09086.html#a1e4e67ba11ac8da077942a6581647bf3">GridRefMgr::begin</a></div><div class="ttdeci">iterator begin()</div><div class="ttdef"><b>Definition:</b> GridRefMgr.h:35</div></div>
+<div class="ttc" id="aa09086_html_a266acb421cfc6ccc56dc2acff3202971"><div class="ttname"><a href="../../d7/d5c/a09086.html#a266acb421cfc6ccc56dc2acff3202971">GridRefMgr::end</a></div><div class="ttdeci">iterator end()</div><div class="ttdef"><b>Definition:</b> GridRefMgr.h:36</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00035">GridRefMgr&lt; OBJECT &gt;::begin()</a>, <a class="el" href="../../#l00148">CreatureUnitRelocationWorker()</a>, <a class="el" href="../../#l00036">GridRefMgr&lt; OBJECT &gt;::end()</a>, <a class="el" href="../../#l00092">i_unit</a>, <a class="el" href="../../#l00093">isCreature</a>, <a class="el" href="../../#l00281">Creature::IsMoveInLineOfSightStrictlyDisabled()</a>, <a class="el" href="../../#l00627">WorldObject::isNeedNotify()</a>, <a class="el" href="../../#l00068">NOTIFY_AI_RELOCATION</a>, and <a class="el" href="../../#l00069">NOTIFY_VISIBILITY_CHANGED</a>.</p>
+
+</div>
+</div>
+<a id="a0ec9a2499d73516dd2d4a0319990924a" name="a0ec9a2499d73516dd2d4a0319990924a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0ec9a2499d73516dd2d4a0319990924a">&#9670;&#160;</a></span>Visit() <span class="overload">[2/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void Acore::AIRelocationNotifier::Visit </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d7/d5c/a09086.html">GridRefMgr</a>&lt; T &gt; &amp;&#160;</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   95</span>{}</div>
+</div><!-- fragment -->
+</div>
+</div>
+<h2 class="groupheader">Member Data Documentation</h2>
+<a id="ab1dd814e4d94ed2989bb07012a24d40e" name="ab1dd814e4d94ed2989bb07012a24d40e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab1dd814e4d94ed2989bb07012a24d40e">&#9670;&#160;</a></span>i_unit</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../de/d9c/a08742.html">Unit</a>&amp; Acore::AIRelocationNotifier::i_unit</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00195">Visit()</a>.</p>
+
+</div>
+</div>
+<a id="a199f4b91d00dd4db90855e5521d87a95" name="a199f4b91d00dd4db90855e5521d87a95"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a199f4b91d00dd4db90855e5521d87a95">&#9670;&#160;</a></span>isCreature</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool Acore::AIRelocationNotifier::isCreature</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00195">Visit()</a>.</p>
+
+</div>
+</div>
+</div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Mon Apr 21 2025 20:46:29 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../db/d2a/a04776.html">Acore</a></li><li class="navelem"><a class="el" href="../../d9/d7f/a09182.html">AIRelocationNotifier</a></li>
+    <li class="footer">Generated on Mon Jul 14 2025 20:51:04 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

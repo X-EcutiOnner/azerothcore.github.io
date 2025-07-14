@@ -1,17 +1,16 @@
 var a19482 =
 [
-    [ "boss_sjonnirAI", "d2/dfd/a19482.html#a53127766553d1bee4d7331e6f4fcda05", null ],
-    [ "ActivatePipe", "d2/dfd/a19482.html#aa3a3e765284cd29cef1d54a9390c3986", null ],
-    [ "DoAction", "d2/dfd/a19482.html#afb2f73908bc17c763a8028af4b499481", null ],
-    [ "JustDied", "d2/dfd/a19482.html#aac572b45c50d0e9c0e7fb3a036053859", null ],
-    [ "JustEngagedWith", "d2/dfd/a19482.html#aade776baf55155bb3814129ddc2f9632", null ],
-    [ "KilledUnit", "d2/dfd/a19482.html#ac79740a8c5e4263f2917647c74e995aa", null ],
-    [ "Reset", "d2/dfd/a19482.html#a8a5f0c22eb6c1d3501c2abdabfc5a77c", null ],
-    [ "SummonDwarfes", "d2/dfd/a19482.html#a0f0472fbd8be38501cedef6c9d0553ee", null ],
-    [ "UpdateAI", "d2/dfd/a19482.html#ad357741fbf486671790f6e619f330460", null ],
-    [ "events", "d2/dfd/a19482.html#ae40bf2206d0e6af3f15727fa5dfef5e7", null ],
-    [ "pInstance", "d2/dfd/a19482.html#aa9aba0a76bfc58031c3f8133eb07c134", null ],
-    [ "SlugeCount", "d2/dfd/a19482.html#ad1e05c8b4dbba7a73a368dc07ad94aaf", null ],
-    [ "SummonPhase", "d2/dfd/a19482.html#ab409b352a20824dd1b274763aeab2c39", null ],
-    [ "summons", "d2/dfd/a19482.html#a4888090a1b02403c80b83b7089eb0dfa", null ]
+    [ "boss_bjarngrimAI", "d2/dfd/a19482.html#ab599d5f62638d622c560f5b63e645b50", null ],
+    [ "JustDied", "d2/dfd/a19482.html#adcad5667168768d8f3c8235735f357b1", null ],
+    [ "JustEngagedWith", "d2/dfd/a19482.html#a2e99538fdc107bc7e91c23898c178047", null ],
+    [ "KilledUnit", "d2/dfd/a19482.html#ad3cbbdc77909515e1573a2fb49cc1e30", null ],
+    [ "RemoveStanceAura", "d2/dfd/a19482.html#ac2bca5cebc4847af71272de0ffa3d91a", null ],
+    [ "Reset", "d2/dfd/a19482.html#a138d14f9666b03dda50f6adeea609046", null ],
+    [ "RollStance", "d2/dfd/a19482.html#a70791697fde5c6194226fd42c893385a", null ],
+    [ "UpdateEscortAI", "d2/dfd/a19482.html#a9db8e85b47e8ebb4760f99ec04a36fcb", null ],
+    [ "WaypointReached", "d2/dfd/a19482.html#a31e1bceb7b944b3db9d7e881be4246bf", null ],
+    [ "events", "d2/dfd/a19482.html#a5314bce83c4c7e80ecea99a8d5559fd8", null ],
+    [ "m_pInstance", "d2/dfd/a19482.html#af6dbef6bb9565b5ee1738e188b08748f", null ],
+    [ "m_uiStance", "d2/dfd/a19482.html#abd4d058fad17b56bc29a165d74062dd0", null ],
+    [ "summons", "d2/dfd/a19482.html#a02bd445d2c969ea186a48f68585e640c", null ]
 ];

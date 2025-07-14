@@ -1,6 +1,6 @@
 var a12494 =
 [
-    [ "instance_gnomeregan_InstanceMapScript", "de/db7/a12498.html", "de/db7/a12498" ],
-    [ "instance_gnomeregan", "dd/dbc/a12494.html#a3fca2b3399f41e88c0c30ae05763a09c", null ],
-    [ "GetInstanceScript", "dd/dbc/a12494.html#ad2130ba5eb3cd37cd2cc464a62381eda", null ]
+    [ "npc_flamewaker_priestAI", "de/db7/a12498.html", "de/db7/a12498" ],
+    [ "npc_flamewaker_priest", "dd/dbc/a12494.html#a2ae4d75192f8ddc60d092b9a129e636e", null ],
+    [ "GetAI", "dd/dbc/a12494.html#a8a38c2c54ae8366496eb58145f75eac9", null ]
 ];

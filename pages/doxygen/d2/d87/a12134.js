@@ -1,6 +1,7 @@
 var a12134 =
 [
-    [ "boss_broodlordAI", "df/d7b/a12138.html", "df/d7b/a12138" ],
-    [ "boss_broodlord", "d2/d87/a12134.html#a936f7eb723111877e2a5e3a85cb95b2b", null ],
-    [ "GetAI", "d2/d87/a12134.html#a5bd506c6f397608ce84496fa0fea2679", null ]
+    [ "boss_urok_doomhowlAI", "d2/d87/a12134.html#ade3d87a05eed0fd077b2e3245099ed74", null ],
+    [ "InitializeAI", "d2/d87/a12134.html#a530bef523a27523827d3a94aa5f88698", null ],
+    [ "JustEngagedWith", "d2/d87/a12134.html#abd74d844bcae5f9bd8fdd3797323af2c", null ],
+    [ "UpdateAI", "d2/d87/a12134.html#a6ab5793a48534b7c338a915a7ed8faf9", null ]
 ];

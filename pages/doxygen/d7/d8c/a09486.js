@@ -1,16 +1,8 @@
 var a09486 =
 [
-    [ "GuildBankRightsAndSlots", "d7/d8c/a09486.html#ae00a8b8f227d7afdcf08847e3787ee0d", null ],
-    [ "GuildBankRightsAndSlots", "d7/d8c/a09486.html#af5f0087090a7145a22baa1396822318b", null ],
-    [ "GuildBankRightsAndSlots", "d7/d8c/a09486.html#a4bdf40d99704211b9e80b554ebade54f", null ],
-    [ "GetRights", "d7/d8c/a09486.html#a19b76bebdb62434191189ba789c2810f", null ],
-    [ "GetSlots", "d7/d8c/a09486.html#a51780060b5699bed6b78cc9ba4e95371", null ],
-    [ "GetTabId", "d7/d8c/a09486.html#a6ba7c49480a1c5325d3702fb61d397cc", null ],
-    [ "SetGuildMasterValues", "d7/d8c/a09486.html#a1399f191b3b0a44dc1e76fc49adc1412", null ],
-    [ "SetRights", "d7/d8c/a09486.html#abf4e1f1556554e7f756dc566fbdd7f40", null ],
-    [ "SetSlots", "d7/d8c/a09486.html#a8ed33a4e1d2a957d61c5f7556533f225", null ],
-    [ "SetTabId", "d7/d8c/a09486.html#abe84f6bcdfd48d70b894470d025f3aae", null ],
-    [ "rights", "d7/d8c/a09486.html#a2a8f5acf21828bfa15d0b3dd6874b5cb", null ],
-    [ "slots", "d7/d8c/a09486.html#a5a327399d94704bc290199baa21ff8d7", null ],
-    [ "tabId", "d7/d8c/a09486.html#ab09825a02a7a21a4915595230d2a5839", null ]
+    [ "LocalizedPacketDo", "d7/d8c/a09486.html#a9b7700f2a4958b91a67375ec9a40072c", null ],
+    [ "~LocalizedPacketDo", "d7/d8c/a09486.html#a4296260b2011e1f7c300987073863ca9", null ],
+    [ "operator()", "d7/d8c/a09486.html#a43449bdf0302e426b8cb4341326196b1", null ],
+    [ "i_builder", "d7/d8c/a09486.html#a2c794905898feb502bfc5d3760f962b8", null ],
+    [ "i_data_cache", "d7/d8c/a09486.html#a2bbff655e1a5268981c48e3ee028b104", null ]
 ];

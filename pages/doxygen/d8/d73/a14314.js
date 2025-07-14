@@ -1,7 +1,11 @@
 var a14314 =
 [
-    [ "npc_love_in_air_supply_sentry", "d8/d73/a14314.html#ab2742c3be0ed661a509b9eb32326bee5", null ],
-    [ "MoveInLineOfSight", "d8/d73/a14314.html#a9df110324c74277e07183c7db231bbda", null ],
-    [ "UpdateAI", "d8/d73/a14314.html#aaa658222954f96d45b75daf83555f6f8", null ],
-    [ "lock", "d8/d73/a14314.html#a59bf67b114014542538165c21aa109a6", null ]
+    [ "o", "d8/d73/a14314.html#af0a1551e7a1ced5413b6096ba15db8b2", null ],
+    [ "rot0", "d8/d73/a14314.html#a1cc2b7787c803a4e126e06ab5b5c0ee6", null ],
+    [ "rot1", "d8/d73/a14314.html#a71696fa3f95eb20d950b6ba2ada153f4", null ],
+    [ "rot2", "d8/d73/a14314.html#ac2e4113330ebc9d9db379fb87eb55c03", null ],
+    [ "rot3", "d8/d73/a14314.html#a3fc28475914b0ed4afe46fd4f4ff66b1", null ],
+    [ "x", "d8/d73/a14314.html#a6e527854cf0959995d6b0133dedc94c9", null ],
+    [ "y", "d8/d73/a14314.html#a7536047696bd4883237369976b503131", null ],
+    [ "z", "d8/d73/a14314.html#a33ba4ca8ce5f406aaa5f571ba7236eb5", null ]
 ];

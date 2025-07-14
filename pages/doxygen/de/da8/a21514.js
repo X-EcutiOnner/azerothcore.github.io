@@ -1,6 +1,6 @@
 var a21514 =
 [
-    [ "npc_thassarianAI", "d9/dbb/a21518.html", "d9/dbb/a21518" ],
-    [ "npc_thassarian", "de/da8/a21514.html#a82bde4555821f84a6d07a69669528313", null ],
-    [ "GetAI", "de/da8/a21514.html#af4bbf5f6a63c3765355d6b70c2bda55b", null ]
+    [ "npc_iruk", "de/da8/a21514.html#a721aeefd23371cc6bc16738a797bf50a", null ],
+    [ "OnGossipHello", "de/da8/a21514.html#a774669099330c75ab5e0bea8d460f517", null ],
+    [ "OnGossipSelect", "de/da8/a21514.html#ae6f7d54d224488a9e29c59c560eba471", null ]
 ];

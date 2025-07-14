@@ -1,7 +1,6 @@
 var a12538 =
 [
-    [ "boss_maiden_of_virtue", "d5/dcb/a12538.html#a4cd0c7a566e23e5c3a43466214f35dd3", null ],
-    [ "JustDied", "d5/dcb/a12538.html#a6eded246318f6b47b46f45168e4a8069", null ],
-    [ "JustEngagedWith", "d5/dcb/a12538.html#a6ff1b9e0a17218ad4871bc5fc3748671", null ],
-    [ "KilledUnit", "d5/dcb/a12538.html#a32dd66a297d11f5ffac1841bae15727a", null ]
+    [ "instance_deadmines_InstanceMapScript", "dd/d0c/a12542.html", "dd/d0c/a12542" ],
+    [ "instance_deadmines", "d5/dcb/a12538.html#a91ec4b9d2c4dcb3b8a2822431259bc08", null ],
+    [ "GetInstanceScript", "d5/dcb/a12538.html#ac5cb65972d52324cedf662cc44dca626", null ]
 ];

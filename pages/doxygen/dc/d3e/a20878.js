@@ -1,6 +1,6 @@
 var a20878 =
 [
-    [ "CheckCast", "dc/d3e/a20878.html#a715a58956db4253c8adfed039833debd", null ],
-    [ "PrepareSpellScript", "dc/d3e/a20878.html#a3b03178d8ab54db36a19ba5a27444917", null ],
-    [ "Register", "dc/d3e/a20878.html#a6309c53b9e3828e76d34a77a8fe35df1", null ]
+    [ "boss_yoggsaron_influence_tentacleAI", "dc/d3e/a20878.html#ae7457ed8084888b1074a44dd9a7ed0c7", null ],
+    [ "DamageTaken", "dc/d3e/a20878.html#ad46e93ffb89c9c3ee9bfbe0f27c7117c", null ],
+    [ "JustDied", "dc/d3e/a20878.html#ab09c96d167b9502098b9a7a2fa1b82ec", null ]
 ];

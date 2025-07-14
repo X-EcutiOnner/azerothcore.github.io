@@ -1,10 +1,12 @@
 var a14714 =
 [
-    [ "boss_aeonus", "da/d7a/a14714.html#af823ef2187b852dc72d2f63020e1701b", null ],
-    [ "IsSummonedBy", "da/d7a/a14714.html#a5f95e19dfec210d4da1f1f48145ff047", null ],
-    [ "JustDied", "da/d7a/a14714.html#a649275c31e61f542a13fd791ee85277b", null ],
-    [ "JustEngagedWith", "da/d7a/a14714.html#a5f193144e36a889630d5dbadb4aa665f", null ],
-    [ "JustReachedHome", "da/d7a/a14714.html#a62df4db3ead6f9be5c3ead974613c8d5", null ],
-    [ "KilledUnit", "da/d7a/a14714.html#a4aa2f3d82aaaf5cd3a938ad92aad059d", null ],
-    [ "MoveInLineOfSight", "da/d7a/a14714.html#a3147774fa5bff34d01947fdcf254ba7b", null ]
+    [ "boss_mal_ganisAI", "da/d7a/a14714.html#aa8b70930372cd0729686f7c6032d3152", null ],
+    [ "DamageTaken", "da/d7a/a14714.html#a4873386266ce3b4b849377028ff746a5", null ],
+    [ "JustDied", "da/d7a/a14714.html#a83690f4a55cfa22a979ad6897b661fcc", null ],
+    [ "JustEngagedWith", "da/d7a/a14714.html#ad04c571e9e485a95d194946c1b3b7ffa", null ],
+    [ "KilledUnit", "da/d7a/a14714.html#a0ec8c95f3e6ea8c243cc28d0c893c7eb", null ],
+    [ "Reset", "da/d7a/a14714.html#abb9d38b3c26af6245bb98e131be07d4d", null ],
+    [ "UpdateAI", "da/d7a/a14714.html#a9466254da12c3aa3c1a69e812ff1a068", null ],
+    [ "events", "da/d7a/a14714.html#a194c002efe244b8c94a072faf72be771", null ],
+    [ "finished", "da/d7a/a14714.html#ac4c90c814aa55781f863c958253e9df2", null ]
 ];

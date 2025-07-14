@@ -1,7 +1,6 @@
 var a24202 =
 [
-    [ "HandleEffectRemove", "d8/d4d/a24202.html#a317c238b165ad331beb447ea5d0de7e1", null ],
-    [ "PrepareAuraScript", "d8/d4d/a24202.html#a7481f017a1382eb75e0101cb49fb4fcf", null ],
-    [ "Register", "d8/d4d/a24202.html#a13fdde1557249328306a57e159d821a7", null ],
-    [ "Validate", "d8/d4d/a24202.html#a58a383bd4e3062a5c5b1df97192b4b7e", null ]
+    [ "npc_torloth_the_magnificentAI", "d3/d1d/a24206.html", "d3/d1d/a24206" ],
+    [ "npc_torloth_the_magnificent", "d8/d4d/a24202.html#a252796a19dcebe210eecb4d9ae150e5d", null ],
+    [ "GetAI", "d8/d4d/a24202.html#a94c206fb75cc6f50c6127908b5b5205f", null ]
 ];

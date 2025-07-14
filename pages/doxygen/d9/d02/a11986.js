@@ -1,8 +1,8 @@
 var a11986 =
 [
-    [ "boss_highlordomokkAI", "d9/d02/a11986.html#ae6906b2f86eb2d8efe51de92376be0da", null ],
-    [ "JustDied", "d9/d02/a11986.html#ac7e125b4350880d3d195b915c8be9de0", null ],
-    [ "JustEngagedWith", "d9/d02/a11986.html#a072dc582f931deb7d1e0db9ad535f146", null ],
-    [ "Reset", "d9/d02/a11986.html#a627390013798de7a53a95817624417e3", null ],
-    [ "UpdateAI", "d9/d02/a11986.html#a38e6008d616131d2876ae5a085a083ff", null ]
+    [ "boss_doomrelAI", "df/dc0/a11990.html", "df/dc0/a11990" ],
+    [ "boss_doomrel", "d9/d02/a11986.html#aee45a59f9a62f1d32a7dc344bd3c46c6", null ],
+    [ "GetAI", "d9/d02/a11986.html#a1b8a95208506f79c00ed40be2d51eb38", null ],
+    [ "OnGossipHello", "d9/d02/a11986.html#a3c544ae70c46a62ac7dd2fc5cca97c8b", null ],
+    [ "OnGossipSelect", "d9/d02/a11986.html#ae430a8fef70bd46267482a70084049c1", null ]
 ];

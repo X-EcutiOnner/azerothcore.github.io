@@ -1,5 +1,7 @@
 var a12854 =
 [
-    [ "go_acherus_soul_prison", "df/d9a/a12854.html#a13c858f74080b8f7963fdacc4b554019", null ],
-    [ "OnGossipHello", "df/d9a/a12854.html#a904059cbeac3ddb3acf07ec1afe78c37", null ]
+    [ "HandleScriptEffect", "df/d9a/a12854.html#a1cdba27f7311021407307bcd35235fed", null ],
+    [ "PrepareSpellScript", "df/d9a/a12854.html#a9c97b6702a02fe78e1f6e76d8a00c598", null ],
+    [ "Register", "df/d9a/a12854.html#a9794991aa1710ce37112888eeb572796", null ],
+    [ "Validate", "df/d9a/a12854.html#a1e7c77b45c1abf4aee5491f02d75b6d1", null ]
 ];

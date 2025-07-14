@@ -1,7 +1,6 @@
 var a26190 =
 [
-    [ "if", "d2/d48/a26190.html#aefedb14e99d2e60abfd58f7778deb39b", null ],
-    [ "PrepareAuraScript", "d2/d48/a26190.html#ad61e8c804e59ca0623748acde69aeddb", null ],
-    [ "Register", "d2/d48/a26190.html#af917d32bc0d7f825a52c0a916a3a2357", null ],
-    [ "AuraEffectHandleModes", "d2/d48/a26190.html#accfab0bada4faf21178e3f67a79c6dfe", null ]
+    [ "HandleAfterHit", "d2/d48/a26190.html#a6f0ec02c8b1429a6be76465dd9badd1c", null ],
+    [ "PrepareSpellScript", "d2/d48/a26190.html#af2e6c3bfc233ee86fa2c9186cdd6b5a4", null ],
+    [ "Register", "d2/d48/a26190.html#a2a780069022e62b14992a7b69626ac3d", null ]
 ];

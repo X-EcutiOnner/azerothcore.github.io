@@ -1,6 +1,6 @@
 var a14534 =
 [
-    [ "FilterTargets", "d0/d1f/a14534.html#a45b0713b2942199bf0e19752fe765aac", null ],
-    [ "PrepareSpellScript", "d0/d1f/a14534.html#a7f7177d7754a99743202f69a0342f587", null ],
-    [ "Register", "d0/d1f/a14534.html#a27b432d8571d48c3f5fb025bbbd29271", null ]
+    [ "HandleScriptEffect", "d0/d1f/a14534.html#a07ac70b6e91c61dcb59c368381a877dd", null ],
+    [ "PrepareSpellScript", "d0/d1f/a14534.html#a55115ca986d5226588d168ced7ab1f55", null ],
+    [ "Register", "d0/d1f/a14534.html#ad8811bf48dfb564afcd82cf51b860255", null ]
 ];

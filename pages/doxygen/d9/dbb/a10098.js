@@ -1,21 +1,10 @@
 var a10098 =
 [
-    [ "PetitionMgr", "d9/dbb/a10098.html#a2101165239e2f58faeb1ded69fb6d0b8", null ],
-    [ "~PetitionMgr", "d9/dbb/a10098.html#a110d7d33ff92a87b78cd132c6228bd03", null ],
-    [ "AddPetition", "d9/dbb/a10098.html#a0175d79b865a34bc1451bb6c748d785f", null ],
-    [ "AddSignature", "d9/dbb/a10098.html#a00f47487f06ced804371e63427f4afdb", null ],
-    [ "GetPetition", "d9/dbb/a10098.html#a6532eb8de34893d4f63ea68180ca9038", null ],
-    [ "GetPetitionByOwnerWithType", "d9/dbb/a10098.html#a70ae6e41835983678bb9d37d2b766088", null ],
-    [ "GetPetitionStore", "d9/dbb/a10098.html#ab23b6ae6303e2dabcde1981860da8873", null ],
-    [ "GetSignature", "d9/dbb/a10098.html#a90db48e86ad855a4f3c33347dc2991e6", null ],
-    [ "GetSignatureStore", "d9/dbb/a10098.html#af5f18d9200b61cd5e84652c51206f1d7", null ],
-    [ "instance", "d9/dbb/a10098.html#a3bda5778fbc38fefedd463b0b12893cd", null ],
-    [ "LoadPetitions", "d9/dbb/a10098.html#aa612824469e47955f3a231e4abd9bc84", null ],
-    [ "LoadSignatures", "d9/dbb/a10098.html#ad3fa9f06bda57a2ff4bac0f1650f5257", null ],
-    [ "RemovePetition", "d9/dbb/a10098.html#ad6ad64ff57918817def0f948a3c03717", null ],
-    [ "RemovePetitionByOwnerAndType", "d9/dbb/a10098.html#ab4284c466ee19dfb7d5214c598289441", null ],
-    [ "RemoveSignaturesByPlayer", "d9/dbb/a10098.html#a289f09d808c81b5ada9b26e98260f5be", null ],
-    [ "RemoveSignaturesByPlayerAndType", "d9/dbb/a10098.html#a8d30eb7c2d048ada34765193ee823a96", null ],
-    [ "PetitionStore", "d9/dbb/a10098.html#a49bb11e33b39fa77f5394130e8405537", null ],
-    [ "SignatureStore", "d9/dbb/a10098.html#a784ff7990f17d4cfdc4f24b6f863e88e", null ]
+    [ "WaypointMgr", "d9/dbb/a10098.html#a2f038884959f10348bd5b7af3abee7db", null ],
+    [ "~WaypointMgr", "d9/dbb/a10098.html#a7b0fed55791df7ab040a46984700d18e", null ],
+    [ "GetPath", "d9/dbb/a10098.html#a8492dcbb35f4bdb563f861c521eb5317", null ],
+    [ "instance", "d9/dbb/a10098.html#aacd2ed943503288057b3fb9a935a56e9", null ],
+    [ "Load", "d9/dbb/a10098.html#a69ae451ce07f2e68be81b1a86649115d", null ],
+    [ "ReloadPath", "d9/dbb/a10098.html#ac1364780d1ab0c91ca95d366419ca3df", null ],
+    [ "_waypointStore", "d9/dbb/a10098.html#af70ce7663d7f132339ea8d163311c248", null ]
 ];

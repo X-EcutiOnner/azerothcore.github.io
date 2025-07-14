@@ -1,5 +1,6 @@
 var a24270 =
 [
-    [ "npc_pet_dk_risen_allyAI", "d2/dad/a24270.html#ac9f42a8f6d87ab65e78d9a3951102705", null ],
-    [ "OnCharmed", "d2/dad/a24270.html#ada01d7ab11b7bf240cad932c96978a06", null ]
+    [ "npc_kservantAI", "d2/d1c/a24274.html", "d2/d1c/a24274" ],
+    [ "npc_kservant", "d2/dad/a24270.html#af04c8a87516e41f7d35071664034af9d", null ],
+    [ "GetAI", "d2/dad/a24270.html#a3ae7327ec2ead5a2d3ffb043f18ccc09", null ]
 ];

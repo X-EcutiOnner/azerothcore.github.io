@@ -1,5 +1,5 @@
 var a26990 =
 [
-    [ "AreaTrigger_at_last_rites", "d5/dcc/a26990.html#a30d1930c76920ab12cf4f9b04fd5f0e4", null ],
-    [ "OnTrigger", "d5/dcc/a26990.html#a48f6e2041cda24812a165fa0fb62f1b6", null ]
+    [ "achievement_bg_ic_resource_glut", "d5/dcc/a26990.html#ace247962dccee2601ceade593b0874d4", null ],
+    [ "OnCheck", "d5/dcc/a26990.html#a9910cf8b16b8c956df382161cc5f2c84", null ]
 ];

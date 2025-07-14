@@ -1,5 +1,6 @@
 var a27198 =
 [
-    [ "go_tablet_of_the_seven", "dc/d2b/a27198.html#aa5bcd36c6d0250571f6721f71864ab59", null ],
-    [ "OnGossipHello", "dc/d2b/a27198.html#a54d27dc2a52d69d8fd9605c358a855fc", null ]
+    [ "go_tadpole_cageAI", "d8/d90/a27202.html", "d8/d90/a27202" ],
+    [ "go_tadpole_cage", "dc/d2b/a27198.html#a1a9acacd0ebff33d402018d4205e415b", null ],
+    [ "GetAI", "dc/d2b/a27198.html#a38990dc5edd725623b6c35dba7802612", null ]
 ];

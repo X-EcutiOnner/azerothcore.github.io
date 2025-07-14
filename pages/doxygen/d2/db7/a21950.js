@@ -1,8 +1,9 @@
 var a21950 =
 [
-    [ "npc_llod_genericAI", "d2/db7/a21950.html#ac75d85ae4b59416952788102cd1db132", null ],
-    [ "Reset", "d2/db7/a21950.html#a15bd7442fef36a551cc8797f7919f57c", null ],
-    [ "UpdateAI", "d2/db7/a21950.html#aa7dce553fb699127f63281b2c47a2f02", null ],
-    [ "attackTimer", "d2/db7/a21950.html#a28a6e700d24995e477e7e7c4cc8b5d68", null ],
-    [ "summonTimer", "d2/db7/a21950.html#aeeeef545aee565c14d86d8587923c677", null ]
+    [ "npc_venture_co_stragglerAI", "d2/db7/a21950.html#abc3cc04b89b95fd45969ba5859bf810c", null ],
+    [ "Reset", "d2/db7/a21950.html#acfeaad9db95d0b391a64cc65ca3a1cee", null ],
+    [ "SpellHit", "d2/db7/a21950.html#ae1919454c270d10342079b60a727a306", null ],
+    [ "UpdateAI", "d2/db7/a21950.html#a0846336d8d1333e2c2f50731a722c3b7", null ],
+    [ "_events", "d2/db7/a21950.html#a9cd6e6b549e10900f35838f04e10e0f5", null ],
+    [ "_playerGUID", "d2/db7/a21950.html#a649493944b143782d995b5bdda3714b4", null ]
 ];

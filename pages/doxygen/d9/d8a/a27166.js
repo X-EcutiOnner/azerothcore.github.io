@@ -1,6 +1,5 @@
 var a27166 =
 [
-    [ "go_pirate_day_musicAI", "d6/d22/a27170.html", "d6/d22/a27170" ],
-    [ "go_pirate_day_music", "d9/d8a/a27166.html#aa8d19102357639bd160eae9e90a87505", null ],
-    [ "GetAI", "d9/d8a/a27166.html#a3bce105696415c9a31c5cbeb9607fa95", null ]
+    [ "go_seer_of_zebhalak", "d9/d8a/a27166.html#a423f16e878d67f7dc6ec3860afabacf4", null ],
+    [ "OnGossipHello", "d9/d8a/a27166.html#a84009789ce8e8d0d7c42996fde161135", null ]
 ];

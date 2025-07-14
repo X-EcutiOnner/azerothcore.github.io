@@ -1,6 +1,6 @@
 var a26030 =
 [
-    [ "CheckTarget", "d5/dc0/a26030.html#af1dae4f351ccaa7bc9b2ea315f0752c5", null ],
-    [ "PrepareSpellScript", "d5/dc0/a26030.html#a8f4075c80c7dcaa16f71bc1b396d005f", null ],
-    [ "Register", "d5/dc0/a26030.html#af4a27df3090a45ebd5db29c58e9ea47f", null ]
+    [ "HandleDummy", "d5/dc0/a26030.html#acb433ef020fbd090259ac969a35842ea", null ],
+    [ "PrepareSpellScript", "d5/dc0/a26030.html#a9440e067db7bc5c48c973dfd61f1a95e", null ],
+    [ "Register", "d5/dc0/a26030.html#a349e674aa5e07f59dc0a0d78a25aa0cd", null ]
 ];

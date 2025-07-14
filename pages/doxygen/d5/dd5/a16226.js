@@ -1,6 +1,9 @@
 var a16226 =
 [
-    [ "npc_swarm_scarabAI", "d7/dea/a16230.html", "d7/dea/a16230" ],
-    [ "npc_swarm_scarab", "d5/dd5/a16226.html#a1d0969526e57ca50c9a499c83f978fd2", null ],
-    [ "GetAI", "d5/dd5/a16226.html#ae12fe8a7c6ee09fc16bd152f59c2d936", null ]
+    [ "npc_memoryAI", "d5/dd5/a16226.html#ad927d377d60b44f43808469042f5feb9", null ],
+    [ "JustDied", "d5/dd5/a16226.html#a7b0484919d671877f29dfa05ca1265d9", null ],
+    [ "Reset", "d5/dd5/a16226.html#a985c51bbfa2cceeb7601432491253aaf", null ],
+    [ "UpdateAI", "d5/dd5/a16226.html#a6cb74389f5aea91d2062e007ea08acd7", null ],
+    [ "events", "d5/dd5/a16226.html#a2ed2993e89728a3723456a67e13581f7", null ],
+    [ "pInstance", "d5/dd5/a16226.html#a31bcb5041844ea5e3a076ad1366897e1", null ]
 ];

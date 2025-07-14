@@ -1,7 +1,6 @@
 var a10474 =
 [
-    [ "Emote", "d1/df0/a10474.html#acb1620d125ffb11fe43caf4ebf27d1be", null ],
-    [ "Write", "d1/df0/a10474.html#a3f5532f40b59f47423d2b4e3749da88e", null ],
-    [ "EmoteID", "d1/df0/a10474.html#a7f4d3ee4353b408f8c795e6fdc552e76", null ],
-    [ "Guid", "d1/df0/a10474.html#ab96a1c0933e90872f54eb0995098274a", null ]
+    [ "ShowingHelm", "d1/df0/a10474.html#a67e25a4a39b14e488b5176b02e8dc995", null ],
+    [ "Read", "d1/df0/a10474.html#a9e6d525a7104f2a8f81564d3796c6211", null ],
+    [ "ShowHelm", "d1/df0/a10474.html#a9f3d52d5d6a6fa76b29afbd5a56d5622", null ]
 ];

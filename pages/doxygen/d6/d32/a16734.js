@@ -1,7 +1,7 @@
 var a16734 =
 [
-    [ "OnRemove", "d6/d32/a16734.html#a4b95717cb19116b81f3eec798089abad", null ],
-    [ "PrepareAuraScript", "d6/d32/a16734.html#a581645fa151531aaf7b562a8739d5616", null ],
-    [ "Register", "d6/d32/a16734.html#a01304c556d79001e290707551bee7622", null ],
-    [ "Validate", "d6/d32/a16734.html#a96e4b9cae1f016bf87c9a09ceb6da561", null ]
+    [ "HandleEffectRemove", "d6/d32/a16734.html#aa6a118f956cbdc5ad1ce0109c3a0e8e3", null ],
+    [ "Load", "d6/d32/a16734.html#a71a31b421f192662c14bd6bf3d5eed9f", null ],
+    [ "PrepareAuraScript", "d6/d32/a16734.html#a97411ddf89a10a962ba74d294eb653e7", null ],
+    [ "Register", "d6/d32/a16734.html#a1207c9b2ba2e110c3f6c1309f5329d2a", null ]
 ];

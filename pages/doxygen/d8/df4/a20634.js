@@ -1,6 +1,6 @@
 var a20634 =
 [
-    [ "npc_xt002_boombotAI", "d5/dc2/a20638.html", "d5/dc2/a20638" ],
-    [ "npc_xt002_boombot", "d8/df4/a20634.html#a6e2f7dd0d26d140a5b73b0f66ea434af", null ],
-    [ "GetAI", "d8/df4/a20634.html#a27237e7a60042ed7163b19d80537c1b3", null ]
+    [ "boss_thorim_pillarAI", "d5/dc2/a20638.html", "d5/dc2/a20638" ],
+    [ "boss_thorim_pillar", "d8/df4/a20634.html#a7a2cbafc1d359d7b33bb735342cdfe2d", null ],
+    [ "GetAI", "d8/df4/a20634.html#af95d5e819292af9b54a022674b74af70", null ]
 ];

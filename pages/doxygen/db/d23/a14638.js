@@ -1,8 +1,7 @@
 var a14638 =
 [
-    [ "npc_arthasAI", "dc/d70/a14642.html", "dc/d70/a14642" ],
-    [ "npc_arthas", "db/d23/a14638.html#a87c280ff9861187b0a713f795e657266", null ],
-    [ "GetAI", "db/d23/a14638.html#a4a613dd76cde27f7df834b9bb837ab6c", null ],
-    [ "OnGossipHello", "db/d23/a14638.html#a4bd3d5dd8eebe48b525e2bd162787172", null ],
-    [ "OnGossipSelect", "db/d23/a14638.html#aeca2f4baa3c943281c676c6498393165", null ]
+    [ "OnPeriodic", "db/d23/a14638.html#a4ed63f32afe3831d7fb08333ff1d379f", null ],
+    [ "PrepareAuraScript", "db/d23/a14638.html#a74be4e2b0f9c6254a87a7cfb8159fc9b", null ],
+    [ "Register", "db/d23/a14638.html#aeb388d608830aeb3b30f707304403b41", null ],
+    [ "Validate", "db/d23/a14638.html#af27768000c5c3232a1264f4f1f2bd7b3", null ]
 ];

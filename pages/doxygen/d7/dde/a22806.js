@@ -1,12 +1,10 @@
 var a22806 =
 [
-    [ "boss_essence_of_sufferingAI", "d7/dde/a22806.html#a98de7f0b7d12d0981854129cbeab0d0d", null ],
-    [ "DamageTaken", "d7/dde/a22806.html#a347ef26e4ecdc83ca80c9fd9a93bd97d", null ],
-    [ "DoAction", "d7/dde/a22806.html#a08724d74523866969b12d13846eb4c1e", null ],
-    [ "JustEngagedWith", "d7/dde/a22806.html#aa2fce36768ad6e23a955cd215ca759db", null ],
-    [ "KilledUnit", "d7/dde/a22806.html#a3699b19f23cf15115ff8c92691a6d334", null ],
-    [ "MovementInform", "d7/dde/a22806.html#a4ff66e57277bc3bc6e8d2fb8bc585cd7", null ],
-    [ "Reset", "d7/dde/a22806.html#affa55b69784d8f881598189c361c986e", null ],
-    [ "UpdateAI", "d7/dde/a22806.html#abb60432720b3720832ccc83d454a3808", null ],
-    [ "_recentlySpoken", "d7/dde/a22806.html#a71a28a61e97f6278836649411493484f", null ]
+    [ "boss_illidari_council", "d7/dde/a22806.html#a078c36be39b377f6d1cdbf061d70270d", null ],
+    [ "AttackStart", "d7/dde/a22806.html#a260b15ec58164f17543aa044a89875a8", null ],
+    [ "DamageTaken", "d7/dde/a22806.html#af8e88c307efaba392cc2a1d2f3862078", null ],
+    [ "DoAction", "d7/dde/a22806.html#a6c3c57523ed2775ba553af1171b46463", null ],
+    [ "EnterEvadeMode", "d7/dde/a22806.html#a7dd21784b8f9a0eac17d56215c24028e", null ],
+    [ "MoveInLineOfSight", "d7/dde/a22806.html#a19ed88ab049e1323f529e0880af0a9dd", null ],
+    [ "UpdateAI", "d7/dde/a22806.html#a8b30df956aa4ce1727756f1d19e151be", null ]
 ];

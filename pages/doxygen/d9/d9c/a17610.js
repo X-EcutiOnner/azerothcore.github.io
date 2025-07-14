@@ -1,5 +1,10 @@
 var a17610 =
 [
-    [ "achievement_im_on_a_boat", "d9/d9c/a17610.html#aa25d330534aab023ec798e86976a6d50", null ],
-    [ "OnCheck", "d9/d9c/a17610.html#ab4fffc061b9ff77563e7e0a5a796be1e", null ]
+    [ "npc_gunship_gunnerAI", "d9/d9c/a17610.html#a3001e77b4a20feb0eee5a9605f13ba81", null ],
+    [ "AttackStart", "d9/d9c/a17610.html#ac21b90c1892c15882794384517ef9fd2", null ],
+    [ "CanAIAttack", "d9/d9c/a17610.html#aef351305ef34fa316809697125a3bc9a", null ],
+    [ "MovementInform", "d9/d9c/a17610.html#a94d81b882dd59dd00b0952b45d61a7cb", null ],
+    [ "UpdateAI", "d9/d9c/a17610.html#a8fbb601c3accdf3b0494d317bc0d5733", null ],
+    [ "anyValid", "d9/d9c/a17610.html#a00c7dc23618c60826241133a0067c1c4", null ],
+    [ "checkTimer", "d9/d9c/a17610.html#af80cee9c2c86fa8b4c643d262042ba3c", null ]
 ];

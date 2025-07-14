@@ -1,6 +1,6 @@
 var a26450 =
 [
-    [ "HandleScript", "de/df8/a26450.html#a54c724bd8786c894ecaa584c164c2e53", null ],
-    [ "PrepareSpellScript", "de/df8/a26450.html#a4505b9196609ae9339fe7e5948963663", null ],
-    [ "Register", "de/df8/a26450.html#ae293d6a2a477f716f357516781246069", null ]
+    [ "HandleTriggerSpell", "de/df8/a26450.html#acd2d96959b0d8e9bf9968662218f36a1", null ],
+    [ "PrepareAuraScript", "de/df8/a26450.html#afea43ae4a9b9e64ed8e85627d5523a1e", null ],
+    [ "Register", "de/df8/a26450.html#ace951b4fcd48b7d4434a387d666bed9b", null ]
 ];

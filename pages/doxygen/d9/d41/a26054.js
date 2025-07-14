@@ -1,9 +1,6 @@
 var a26054 =
 [
-    [ "CheckCast", "d9/d41/a26054.html#ad7bfc65b26013ad259679ae8b4a5dd9a", null ],
-    [ "HandleTriggerSpellHit", "d9/d41/a26054.html#aca027bb2995456bfcedd33c06966eb88", null ],
-    [ "HandleTriggerSpellLaunch", "d9/d41/a26054.html#aa67bf9f81086a3837037d67306979072", null ],
-    [ "PrepareSpellScript", "d9/d41/a26054.html#a9247b5f3a376bebdcf857565b5049944", null ],
-    [ "Register", "d9/d41/a26054.html#aaf056806d72da6aa2e3e6e70d46d6933", null ],
-    [ "Validate", "d9/d41/a26054.html#a4fc8f6a7ecd041dcfca4fd51d71e725c", null ]
+    [ "CheckProc", "d9/d41/a26054.html#a0f1461140b08deac3f044142067368e7", null ],
+    [ "PrepareAuraScript", "d9/d41/a26054.html#a04e0ebe416e94912d7f1ec529da7980d", null ],
+    [ "Register", "d9/d41/a26054.html#a05e31c2252c9054a18b4267be84895b9", null ]
 ];

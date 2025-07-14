@@ -1,6 +1,7 @@
 var a15606 =
 [
-    [ "npc_rivern_frostwind", "db/d11/a15606.html#a0675c120fc28b26c7ea3c35f8d3f2a64", null ],
-    [ "OnGossipHello", "db/d11/a15606.html#a90a6582633336de422c9f98973562b32", null ],
-    [ "OnGossipSelect", "db/d11/a15606.html#a067ff91179f551633594d488eda269ed", null ]
+    [ "npc_steward_of_time", "db/d11/a15606.html#ad49973464c96f44506033b73a85f6360", null ],
+    [ "OnGossipHello", "db/d11/a15606.html#a3b61038393c3addbbfa6643438164db3", null ],
+    [ "OnGossipSelect", "db/d11/a15606.html#af4fe13e266a98129b92e5a25188d947c", null ],
+    [ "OnQuestAccept", "db/d11/a15606.html#a53d552282da49e8246089b2799fff9ca", null ]
 ];

@@ -1,6 +1,5 @@
 var a22954 =
 [
-    [ "HandleEffectRemove", "d6/db4/a22954.html#a99f96034b5976615c38e13e5e55c61b6", null ],
-    [ "PrepareAuraScript", "d6/db4/a22954.html#a0515a72abd37df13606876021659b995", null ],
-    [ "Register", "d6/db4/a22954.html#ad7c8338ae3f3e6680405652c3e5f7f06", null ]
+    [ "npc_ashtongue_sorcerer", "d6/db4/a22954.html#a0045af5cfbfcd2f26bcde2e2dffd04a6", null ],
+    [ "MovementInform", "d6/db4/a22954.html#a56fa93f83e8a536b13667c8f780961b7", null ]
 ];

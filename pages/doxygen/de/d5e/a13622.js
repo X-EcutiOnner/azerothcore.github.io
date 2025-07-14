@@ -1,6 +1,7 @@
 var a13622 =
 [
-    [ "boss_blight_wormAI", "dd/df4/a13626.html", "dd/df4/a13626" ],
-    [ "boss_blight_worm", "de/d5e/a13622.html#a6dea51baebc6b44ef94342565136e56d", null ],
-    [ "GetAI", "de/d5e/a13622.html#a1cb9043482e9b3c3eff3fd75057a2fb2", null ]
+    [ "npc_deathstalker_erlandAI", "dd/df4/a13626.html", "dd/df4/a13626" ],
+    [ "npc_deathstalker_erland", "de/d5e/a13622.html#ad49faf068e982f245f0d1e21f0700c40", null ],
+    [ "GetAI", "de/d5e/a13622.html#ab59235f212ddb985056cb8e32719b723", null ],
+    [ "OnQuestAccept", "de/d5e/a13622.html#a81b20bc8c7249a59d69ba63ab32a5f06", null ]
 ];

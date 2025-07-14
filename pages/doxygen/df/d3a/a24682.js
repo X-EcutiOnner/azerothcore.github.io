@@ -1,6 +1,6 @@
 var a24682 =
 [
-    [ "CheckCast", "df/d3a/a24682.html#aefa91f15300520de7cffad4f4ca82ccf", null ],
-    [ "PrepareSpellScript", "df/d3a/a24682.html#a605e7b8849186c3c2df731cac743a208", null ],
-    [ "Register", "df/d3a/a24682.html#a62533bff915db8323b53352f17c4825f", null ]
+    [ "CalculateAmount", "df/d3a/a24682.html#a8deb31d3b6244f4d8de6050c99b3192e", null ],
+    [ "PrepareAuraScript", "df/d3a/a24682.html#a4090baaee0e4330d3776b5774c5c923a", null ],
+    [ "Register", "df/d3a/a24682.html#a4db48f3a549a04caf746a9459b1c5640", null ]
 ];

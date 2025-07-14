@@ -1,5 +1,7 @@
 var a01877 =
 [
-    [ "ScriptRegistry< AllItemScript >", "d9/d63/a01877.html#a0f69164743e657905c670df85e97a29c", null ],
-    [ "ScriptRegistry< ItemScript >", "d9/d63/a01877.html#a9f258d1e2f9fb6ce144923451b63f995", null ]
+    [ "ScriptObject", "d5/d43/a10418.html", "d5/d43/a10418" ],
+    [ "UpdatableScript< TObject >", "d5/d45/a10422.html", "d5/d45/a10422" ],
+    [ "MapScript< TMap >", "d7/dff/a10426.html", "d7/dff/a10426" ],
+    [ "VISIBLE_RANGE", "d9/d63/a01877.html#ac7e3013df774904b0d331e5b0c6e93ad", null ]
 ];

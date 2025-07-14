@@ -1,18 +1,12 @@
 var a19014 =
 [
-    [ "boss_nothAI", "db/d3a/a19014.html#a0a1f8e88396b04d070c4034b2419f0bb", null ],
-    [ "EnterEvadeMode", "db/d3a/a19014.html#af0c4cfb04564b23840ee88dfa1badf55", null ],
-    [ "IsInRoom", "db/d3a/a19014.html#a8e9c27804ae01e46285a3bed42091754", null ],
-    [ "JustDied", "db/d3a/a19014.html#a18dd73c178eff3170d371c4bd4062b76", null ],
-    [ "JustEngagedWith", "db/d3a/a19014.html#aed044bf36d56b2241e591eb45999900b", null ],
-    [ "JustSummoned", "db/d3a/a19014.html#a61e814ce0a861ba98ccc21d8d6df128a", null ],
-    [ "KilledUnit", "db/d3a/a19014.html#a1d5b013cdbaab702a85fc1d344ad6f6a", null ],
-    [ "Reset", "db/d3a/a19014.html#a311754fa1fa1b112272395179e3b1bff", null ],
-    [ "StartBalconyPhase", "db/d3a/a19014.html#ac890e5f4e6e9e40d78e75d2c86bd6740", null ],
-    [ "StartGroundPhase", "db/d3a/a19014.html#a3ae5f948e2faf051b1cb88cd638c612e", null ],
-    [ "SummonHelper", "db/d3a/a19014.html#abfe6252bec42fdc3d7738aef3dd2ec74", null ],
-    [ "UpdateAI", "db/d3a/a19014.html#a87f4e825fb8f9f48991d5dcf94af78e3", null ],
-    [ "events", "db/d3a/a19014.html#a3f3e282c6ee1d259f1f2a401f6195251", null ],
-    [ "summons", "db/d3a/a19014.html#a4e95ad18274331e402124d4a8424cb18", null ],
-    [ "timesInBalcony", "db/d3a/a19014.html#a249c96d4230bd2b43c4be733317c4bc4", null ]
+    [ "npc_gothik_triggerAI", "db/d3a/a19014.html#ae45c6de238755eb069e0c182943da58c", null ],
+    [ "DamageTaken", "db/d3a/a19014.html#ada8e501edfadbb55162532f081a4b48b", null ],
+    [ "EnterEvadeMode", "db/d3a/a19014.html#aae212c3aecdf82f509ed0bf841f16e59", null ],
+    [ "JustEngagedWith", "db/d3a/a19014.html#ab5403383f1fcd539cacf975dffbe2817", null ],
+    [ "JustSummoned", "db/d3a/a19014.html#a35be0135b77a3e62ac8d421910cf0674", null ],
+    [ "SelectRandomSkullPile", "db/d3a/a19014.html#aeafc63047c9059afdf668b8c22d2937f", null ],
+    [ "SpellHit", "db/d3a/a19014.html#a18a8135ab0395991afc4896950783ae5", null ],
+    [ "SummonedCreatureDespawn", "db/d3a/a19014.html#ad7ed092509dd41fddd44a4024c011364", null ],
+    [ "UpdateAI", "db/d3a/a19014.html#a388a20d6d720f5f44a67073fc40e98b6", null ]
 ];

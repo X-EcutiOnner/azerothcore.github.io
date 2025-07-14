@@ -1,6 +1,5 @@
 var a06030 =
 [
-    [ "AggressorAI", "d4/d80/a06030.html#a2d4ba3a557832466f29906972d1e14fd", null ],
-    [ "Permissible", "d4/d80/a06030.html#a7867a9ca7249eb94a712e34833fae930", null ],
-    [ "UpdateAI", "d4/d80/a06030.html#ace9bc9ff47a463ceb05217ae77b5782b", null ]
+    [ "Subject", "d4/d80/a06030.html#ad9bd686973c6e59518889bd5d9b6a11f", null ],
+    [ "Text", "d4/d80/a06030.html#a95f203f9e53a61988a4d2af6ac6820a2", null ]
 ];

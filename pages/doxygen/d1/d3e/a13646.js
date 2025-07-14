@@ -1,10 +1,13 @@
 var a13646 =
 [
-    [ "npc_lady_sylvanas_windrunner_bfuAI", "d1/d3e/a13646.html#af7d495f489979690615d091bbd9d539b", null ],
-    [ "CanAIAttack", "d1/d3e/a13646.html#af332a66852c9499912d8ef4959f394f5", null ],
-    [ "InitializeAI", "d1/d3e/a13646.html#a66fcb4b5130ff03f1926eec3b4d9ff6a", null ],
-    [ "JustRespawned", "d1/d3e/a13646.html#a70b83dd31e8a8214b5d09f9a4ca7347a", null ],
-    [ "Reset", "d1/d3e/a13646.html#a2c5e519bd2a1699b74811c92bb217d20", null ],
-    [ "UpdateAI", "d1/d3e/a13646.html#ae1e9308f730ac948f96d4fceba914cdb", null ],
-    [ "_events", "d1/d3e/a13646.html#a7078f4c552f741afdc8ecbd1746e31c4", null ]
+    [ "npc_lord_gregor_lescovarAI", "d1/d3e/a13646.html#ab3ed8a9536fc6be948f280e319d4fec7", null ],
+    [ "DoGuardsDisappearAndDie", "d1/d3e/a13646.html#a8588cae3dc8aa3dd46c55439d355df9b", null ],
+    [ "EnterEvadeMode", "d1/d3e/a13646.html#a95e60614808191e4c1f909f5e38e4741", null ],
+    [ "JustEngagedWith", "d1/d3e/a13646.html#ad0ca7d80d68b9623b99c644daa8f4c57", null ],
+    [ "Reset", "d1/d3e/a13646.html#a06df695e9acd96b07f4e58c9461a708c", null ],
+    [ "UpdateAI", "d1/d3e/a13646.html#ab8cc7d7d56550e66497116e5b4233a02", null ],
+    [ "WaypointReached", "d1/d3e/a13646.html#ad91850dc72d0307e28b881717bfba6db", null ],
+    [ "MarzonGUID", "d1/d3e/a13646.html#a68779dfa5643ffbf0065964d72ba5ddc", null ],
+    [ "uiPhase", "d1/d3e/a13646.html#a3eaf47541cabaac9ce12f830d7d3ef41", null ],
+    [ "uiTimer", "d1/d3e/a13646.html#a70e6be2f5c0f88664c6bbe3f29e1d184", null ]
 ];

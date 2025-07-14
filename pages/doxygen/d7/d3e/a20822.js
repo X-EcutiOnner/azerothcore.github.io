@@ -1,6 +1,6 @@
 var a20822 =
 [
-    [ "FilterTargets", "d7/d3e/a20822.html#adaeee235184ddc36e90e532091183056", null ],
-    [ "PrepareSpellScript", "d7/d3e/a20822.html#a599f604e872d3a5a4ed2b155caefdc9f", null ],
-    [ "Register", "d7/d3e/a20822.html#ab79041a2536878498744555475bce5c8", null ]
+    [ "boss_yoggsaron_brainAI", "d5/d4a/a20826.html", "d5/d4a/a20826" ],
+    [ "boss_yoggsaron_brain", "d7/d3e/a20822.html#a8094e2a062f06c5a954c1d3401ca18d4", null ],
+    [ "GetAI", "d7/d3e/a20822.html#a02e6b07087765d75d0f49b864e2f323f", null ]
 ];

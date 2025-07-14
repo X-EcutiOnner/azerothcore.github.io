@@ -1,8 +1,7 @@
 var a03947 =
 [
-    [ "misc_commandscript", "df/d85/a11672.html", "df/d85/a11672" ],
-    [ "AddSC_misc_commandscript", "da/d1d/a03947.html#ac722d20c86b9502b7c4c8ae711cc3917", null ],
-    [ "GetLocalizeCreatureName", "da/d1d/a03947.html#aaedbdfd3cae227b11684151f41e3b977", null ],
-    [ "SPELL_FREEZE", "da/d1d/a03947.html#a181bdc61e4eb1d21db975ca0227cb086", null ],
-    [ "SPELL_STUCK", "da/d1d/a03947.html#a1706df7feb0ef4f693c388033ace5fb7", null ]
+    [ "gobject_commandscript", "d5/d06/a11650.html", "d5/d06/a11650" ],
+    [ "GameObjectEntry", "da/d1d/a03947.html#af6e4fdc2f36213d5f2a9fa6f335517b8", null ],
+    [ "GameObjectSpawnId", "da/d1d/a03947.html#ad5bd2a208bd6c6213df595ee7369126f", null ],
+    [ "AddSC_gobject_commandscript", "da/d1d/a03947.html#a0cc4be9c12b1a892f031cb1ff47e23d9", null ]
 ];

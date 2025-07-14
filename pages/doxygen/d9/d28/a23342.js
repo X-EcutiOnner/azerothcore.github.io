@@ -1,6 +1,6 @@
 var a23342 =
 [
-    [ "instance_the_underbog_InstanceMapScript", "d0/d43/a23346.html", "d0/d43/a23346" ],
-    [ "instance_the_underbog", "d9/d28/a23342.html#afaf8740a3e367a1a54eaa3e76ffa483e", null ],
-    [ "GetInstanceScript", "d9/d28/a23342.html#ace939fb7fd89e7c9c84c17d3ca31208b", null ]
+    [ "boss_rokmar_the_crackler", "d9/d28/a23342.html#a0aca6a30d045bbea6f434979f4f1d2e9", null ],
+    [ "JustEngagedWith", "d9/d28/a23342.html#ae376e6a96fa07136790f3ed04ee1023b", null ],
+    [ "Reset", "d9/d28/a23342.html#aed9cf4a866d5e70647125a08885fb809", null ]
 ];

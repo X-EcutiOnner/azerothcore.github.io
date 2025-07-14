@@ -1,26 +1,37 @@
 var a03659 =
 [
-    [ "boss_the_black_stalker", "dc/dc0/a23388.html", "dc/dc0/a23388" ],
-    [ "spell_the_black_stalker_levitate", "dc/d0c/a23392.html", "dc/d0c/a23392" ],
-    [ "spell_the_black_stalker_levitation_pulse", "da/d1a/a23396.html", "da/d1a/a23396" ],
-    [ "spell_the_black_stalker_someone_grab_me", "d6/d7a/a23400.html", "d6/d7a/a23400" ],
-    [ "spell_the_black_stalker_magnetic_pull", "d2/da7/a23404.html", "d2/da7/a23404" ],
-    [ "eBlackStalker", "dd/d77/a03659.html#afbee42c6927db9ad2cf9d9096eeac954", [
-      [ "SPELL_ACID_BREATH", "d1/df9/a03665.html#afbee42c6927db9ad2cf9d9096eeac954af39adcb38f10e84d7ff9bac76f41031c", null ],
-      [ "SPELL_ACID_SPIT", "d1/df9/a03665.html#afbee42c6927db9ad2cf9d9096eeac954af69c625b663facf12cc5d8a20a280806", null ],
-      [ "SPELL_TAIL_SWEEP", "d1/df9/a03665.html#afbee42c6927db9ad2cf9d9096eeac954addcb3daa6cdc61ef04c65580e44ef823", null ],
-      [ "SPELL_ENRAGE", "d1/df9/a03665.html#afbee42c6927db9ad2cf9d9096eeac954a2a20f56307679be4d4f01a0d3d93cc7e", null ],
-      [ "ACTION_MOVE_TO_PLATFORM", "d1/df9/a03665.html#afbee42c6927db9ad2cf9d9096eeac954a7e5366df9a5dd5e5bca840226b0755fa", null ],
-      [ "SPELL_LEVITATE", "dd/d77/a03659.html#afbee42c6927db9ad2cf9d9096eeac954ad2a574f606c6448dd086526c15b6fdd2", null ],
-      [ "SPELL_CHAIN_LIGHTNING", "dd/d77/a03659.html#afbee42c6927db9ad2cf9d9096eeac954ac0997e72929070d8e30cc0f49cc4539d", null ],
-      [ "SPELL_STATIC_CHARGE", "dd/d77/a03659.html#afbee42c6927db9ad2cf9d9096eeac954ad174c0c15c17e6a55eec42eab77d89e0", null ],
-      [ "SPELL_SUMMON_SPORE_STRIDER", "dd/d77/a03659.html#afbee42c6927db9ad2cf9d9096eeac954a754dcc3138f3b4acb829bc54bc02b9ed", null ],
-      [ "SPELL_LEVITATION_PULSE", "dd/d77/a03659.html#afbee42c6927db9ad2cf9d9096eeac954ade4ad87d3a67412155f3ce6b143275b1", null ],
-      [ "SPELL_SOMEONE_GRAB_ME", "dd/d77/a03659.html#afbee42c6927db9ad2cf9d9096eeac954aa07d1c28d9fea727b3885a967461d13b", null ],
-      [ "SPELL_MAGNETIC_PULL", "dd/d77/a03659.html#afbee42c6927db9ad2cf9d9096eeac954a3917f87779ff3a60876e0373a10855d5", null ],
-      [ "SPELL_SUSPENSION_PRIMER", "dd/d77/a03659.html#afbee42c6927db9ad2cf9d9096eeac954a38589209a4f90f4db2f89b249f6840de", null ],
-      [ "SPELL_SUSPENSION", "dd/d77/a03659.html#afbee42c6927db9ad2cf9d9096eeac954a0b7462c628390d15bd33088fb3d2a6a0", null ],
-      [ "ENTRY_SPORE_STRIDER", "dd/d77/a03659.html#afbee42c6927db9ad2cf9d9096eeac954a461a6686eb7320e609d5675753241cd2", null ]
+    [ "npc_bunthen_plainswind", "de/d0e/a15474.html", "de/d0e/a15474" ],
+    [ "npc_great_bear_spirit", "d3/d76/a15478.html", "d3/d76/a15478" ],
+    [ "npc_silva_filnaveth", "d5/d85/a15482.html", "d5/d85/a15482" ],
+    [ "npc_clintar_spirit", "d3/d67/a15486.html", "d3/d67/a15486" ],
+    [ "npc_clintar_spirit::npc_clintar_spiritAI", "d1/dbd/a15490.html", "d1/dbd/a15490" ],
+    [ "npc_omen", "d4/dfd/a15494.html", "d4/dfd/a15494" ],
+    [ "npc_omen::npc_omenAI", "dc/d0f/a15498.html", "dc/d0f/a15498" ],
+    [ "npc_giant_spotlight", "d4/dec/a15502.html", "d4/dec/a15502" ],
+    [ "npc_giant_spotlight::npc_giant_spotlightAI", "d6/d5e/a15506.html", "d6/d5e/a15506" ],
+    [ "Bunthen", "dd/d77/a03659.html#adbbeebdb932cdc68f2ad2b58d4c922fb", [
+      [ "QUEST_SEA_LION_HORDE", "dd/d77/a03659.html#adbbeebdb932cdc68f2ad2b58d4c922fba19a2ff94115fefe241626f3331ce747f", null ],
+      [ "QUEST_SEA_LION_ALLY", "dd/d77/a03659.html#adbbeebdb932cdc68f2ad2b58d4c922fba9333cbca83acf867219e50edeeb6ad5a", null ],
+      [ "TAXI_PATH_ID_ALLY", "dd/d77/a03659.html#adbbeebdb932cdc68f2ad2b58d4c922fba5f9b640f23c79dda3001d48c5d714b08", null ],
+      [ "TAXI_PATH_ID_HORDE", "dd/d77/a03659.html#adbbeebdb932cdc68f2ad2b58d4c922fbaa6f489a16374ddf85329d3ee985c460b", null ]
     ] ],
-    [ "AddSC_boss_the_black_stalker", "dd/d77/a03659.html#aed8364eb84dab70c060c0a88e6522a7c", null ]
+    [ "ClintarSpirit", "dd/d77/a03659.html#af06e96ced22feb1885564950e05417a2", [
+      [ "ASPECT_RAVEN", "dd/d77/a03659.html#af06e96ced22feb1885564950e05417a2a5aa355f8770a619dd97c43a1ed6c8e7f", null ],
+      [ "CLINTAR_SPIRIT_SAY_START", "dd/d77/a03659.html#af06e96ced22feb1885564950e05417a2a4003cbd90da80c6fb02ae957c7e3e60e", null ]
+    ] ],
+    [ "Omen", "dd/d77/a03659.html#a7fb152206db70a70437b235647a95793", [
+      [ "NPC_OMEN", "dd/d77/a03659.html#a7fb152206db70a70437b235647a95793a6d34405f4268188f4709fddd135879a1", null ],
+      [ "SPELL_OMEN_CLEAVE", "dd/d77/a03659.html#a7fb152206db70a70437b235647a95793a525d07772748bd50623894654941eebb", null ],
+      [ "SPELL_OMEN_STARFALL", "dd/d77/a03659.html#a7fb152206db70a70437b235647a95793a8a65e86a799ba7daf95b45212e2d0cac", null ],
+      [ "SPELL_OMEN_SUMMON_SPOTLIGHT", "dd/d77/a03659.html#a7fb152206db70a70437b235647a95793a09afe0a7256990b201fc144424201c79", null ],
+      [ "SPELL_ELUNE_CANDLE", "dd/d77/a03659.html#a7fb152206db70a70437b235647a95793a333999af862b8d1706a4b34ced3448e6", null ],
+      [ "GO_ELUNE_TRAP_1", "dd/d77/a03659.html#a7fb152206db70a70437b235647a95793a55d48a597022d003e1e18a7cb332c3e3", null ],
+      [ "GO_ELUNE_TRAP_2", "dd/d77/a03659.html#a7fb152206db70a70437b235647a95793a70bba7030d170525f9351e8643ed8e51", null ],
+      [ "EVENT_CAST_CLEAVE", "dd/d77/a03659.html#a7fb152206db70a70437b235647a95793a9b4959d7ea485f12c7d67e5bd7672383", null ],
+      [ "EVENT_CAST_STARFALL", "dd/d77/a03659.html#a7fb152206db70a70437b235647a95793a59097ac157a655e4c9371e19a53820fc", null ],
+      [ "EVENT_DESPAWN", "dd/d77/a03659.html#a7fb152206db70a70437b235647a95793a37c22b84c74c36e2af467a6bd1047f15", null ]
+    ] ],
+    [ "AddSC_moonglade", "dd/d77/a03659.html#a849e20dbd083abdfb7fb96857fb7d89f", null ],
+    [ "AspectRavenSummon", "dd/d77/a03659.html#a8b390a1d926d93da400a7e199a1da6b6", null ],
+    [ "Clintar_spirit_WP", "dd/d77/a03659.html#adcc622dc5710ac246cbdd4f072ad52fe", null ]
 ];

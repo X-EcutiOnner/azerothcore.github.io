@@ -1,4 +1,5 @@
 var a28066 =
 [
-    [ "ratio", "d5/d16/a28066.html#ad5d1466406daa3696314ef2f6f18cd15", null ]
+    [ "ID", "d5/d16/a28066.html#a4f030d8b8b87aff67e0d8319c6b53310", null ],
+    [ "price", "d5/d16/a28066.html#a9b81ec4b4638763b738862d6c184e2a9", null ]
 ];

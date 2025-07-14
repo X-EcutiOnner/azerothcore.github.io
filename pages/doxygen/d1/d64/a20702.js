@@ -1,6 +1,6 @@
 var a20702 =
 [
-    [ "boss_yoggsaron_guardian_of_ysAI", "d1/d27/a20706.html", "d1/d27/a20706" ],
-    [ "boss_yoggsaron_guardian_of_ys", "d1/d64/a20702.html#a299b346a4e9ac5190d554702dcf00faf", null ],
-    [ "GetAI", "d1/d64/a20702.html#a86380b3ad87e0070541d22d3fb74058f", null ]
+    [ "boss_xt002AI", "d1/d27/a20706.html", "d1/d27/a20706" ],
+    [ "boss_xt002", "d1/d64/a20702.html#aebd7e513b3bef6a25ad0f9766d18174e", null ],
+    [ "GetAI", "d1/d64/a20702.html#a146e4a10da7d81213e7f63d6e86c79f2", null ]
 ];

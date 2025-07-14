@@ -1,6 +1,7 @@
 var a17406 =
 [
-    [ "npc_stinky_iccAI", "d4/d4b/a17410.html", "d4/d4b/a17410" ],
-    [ "npc_stinky_icc", "db/d9a/a17406.html#a8f6a3687d4b330f532a0d892dbf429a0", null ],
-    [ "GetAI", "db/d9a/a17406.html#aaf6b7b1a7469d1e353617f63f11f7781", null ]
+    [ "achievement_once_bitten_twice_shy", "db/d9a/a17406.html#ac5799e847f8ee1e2b562e4a58a00df16", null ],
+    [ "OnCheck", "db/d9a/a17406.html#aa2e3ac3e8a14b06446174e475ac18af3", null ],
+    [ "_spawnMode", "db/d9a/a17406.html#a6f02f5ab07143ddff553279049714902", null ],
+    [ "_wasVampire", "db/d9a/a17406.html#a297cf6da45b0cddb4dc9fc888919bdda", null ]
 ];

@@ -1,8 +1,11 @@
 var a23490 =
 [
-    [ "npc_target_trigger", "d8/d38/a23490.html#a238058ba80130c6239b7267db3247196", null ],
-    [ "Reset", "d8/d38/a23490.html#ad23d465bfd78ede0a1556f2ce1742349", null ],
-    [ "UpdateAI", "d8/d38/a23490.html#ab5f482e209d2d8aa5c27666d3e1934f3", null ],
-    [ "_cast", "d8/d38/a23490.html#a4ec89ca960323f7ad135d5a425a82416", null ],
-    [ "_scheduler", "d8/d38/a23490.html#a9b418b09e25c8f96692b4e2626339c96", null ]
+    [ "boss_kiggler_the_crazed", "d8/d38/a23490.html#a6f6cd74a8d2b12809f2710f784340fda", null ],
+    [ "AttackStart", "d8/d38/a23490.html#a47c18487637dcb911852573e3aec85a2", null ],
+    [ "JustDied", "d8/d38/a23490.html#acf82f68ccfeabd33bc387dbe7ea0e997", null ],
+    [ "JustEngagedWith", "d8/d38/a23490.html#acd10951a5b148579d0bd4196cc2e686e", null ],
+    [ "Reset", "d8/d38/a23490.html#a3bd8ca2488b2db298a198038a849189e", null ],
+    [ "UpdateAI", "d8/d38/a23490.html#a16e2b767ca4b05eba79726ccb6e11204", null ],
+    [ "_scheduler", "d8/d38/a23490.html#af041c254910df663a03fcc815db635da", null ],
+    [ "instance", "d8/d38/a23490.html#aa78db443f19814c66b977fe008de74fa", null ]
 ];

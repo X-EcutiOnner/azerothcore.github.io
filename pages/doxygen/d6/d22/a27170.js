@@ -1,7 +1,5 @@
 var a27170 =
 [
-    [ "go_pirate_day_musicAI", "d6/d22/a27170.html#a1abe263949b7a07e5143779efcddc7eb", null ],
-    [ "UpdateAI", "d6/d22/a27170.html#a5373bb46c866df31a3827ceb8ee4ef9b", null ],
-    [ "_events", "d6/d22/a27170.html#a233ae55a05876c665455b106ef50d57e", null ],
-    [ "rnd", "d6/d22/a27170.html#ad0ced4b4f569b91b5dde4ad93a298568", null ]
+    [ "go_mistwhisper_treasure", "d6/d22/a27170.html#a87c90caa9f6a628cb0eea3556b58449e", null ],
+    [ "OnGossipHello", "d6/d22/a27170.html#a03b6b19faba005ced7ff921fdf8ab493", null ]
 ];

@@ -1,7 +1,7 @@
 var a24510 =
 [
-    [ "CalcDamage", "dc/da0/a24510.html#a5e06d1aa2864c296b2680a83a9f2187f", null ],
-    [ "PrepareSpellScript", "dc/da0/a24510.html#a80a748b6a18d26004b04a4486df1ebe3", null ],
-    [ "Register", "dc/da0/a24510.html#a857a010e6426e931ca872f66803b99b9", null ],
-    [ "Validate", "dc/da0/a24510.html#ab64625ce305efb9dc92780c945b4fd62", null ]
+    [ "CheckProc", "dc/da0/a24510.html#a64414347ed5e132c3268451653082821", null ],
+    [ "HandleProc", "dc/da0/a24510.html#a8a3eab47b8214b59275aeaa8a02e4240", null ],
+    [ "PrepareAuraScript", "dc/da0/a24510.html#a88277eeea14f7799e27a4a897e6e8c0c", null ],
+    [ "Register", "dc/da0/a24510.html#a3ce0dcd5becd38e10e2bb6e3d2f28e89", null ]
 ];

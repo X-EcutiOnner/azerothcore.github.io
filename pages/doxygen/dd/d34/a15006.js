@@ -1,6 +1,9 @@
 var a15006 =
 [
-    [ "FilterTargets", "dd/d34/a15006.html#a3ec2840ab1d853a1546c64a2d158e75f", null ],
-    [ "PrepareSpellScript", "dd/d34/a15006.html#a511e54100036307aa5d37bc959405c73", null ],
-    [ "Register", "dd/d34/a15006.html#a31d1d590f0e6fc2e56322d606961828f", null ]
+    [ "go_ossirian_crystalAI", "dd/d34/a15006.html#ae4d3c0c2cff08bd9fe86cbfee2cbb980", null ],
+    [ "DoAction", "dd/d34/a15006.html#a581436335d190466520c07fde56ad441", null ],
+    [ "GossipHello", "dd/d34/a15006.html#ad1aff0e18d8f4ef7fe5d4cfa7ef17875", null ],
+    [ "SetGUID", "dd/d34/a15006.html#a9c983aa02285dbebc545b4056191200c", null ],
+    [ "_instance", "dd/d34/a15006.html#aa2c83296cbe8d49de7bc7262b792e8b3", null ],
+    [ "_triggerGUID", "dd/d34/a15006.html#abd96d9b4f2c5f41e4a85606b22e1b0cf", null ]
 ];

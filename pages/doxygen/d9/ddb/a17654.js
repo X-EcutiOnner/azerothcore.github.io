@@ -1,6 +1,6 @@
 var a17654 =
 [
-    [ "npc_darnavanAI", "d6/da5/a17658.html", "d6/da5/a17658" ],
-    [ "npc_darnavan", "d9/ddb/a17654.html#ac358ca123155165395fa5f7ec02c9dab", null ],
-    [ "GetAI", "d9/ddb/a17654.html#a9eeb6e5fba1e6d671af1f23f443c509a", null ]
+    [ "IgbTeleportOnVictoryCheck", "d9/ddb/a17654.html#a29ee8cac93b9920e598da9205406e608", null ],
+    [ "operator()", "d9/ddb/a17654.html#acf85943e238179e911434358f1593be2", null ],
+    [ "_inst", "d9/ddb/a17654.html#a015353ecb66da16c697152b7ad3c527e", null ]
 ];

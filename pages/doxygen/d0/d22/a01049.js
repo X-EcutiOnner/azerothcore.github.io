@@ -1,4 +1,5 @@
 var a01049 =
 [
-    [ "MAX_INBOX_CLIENT_CAPACITY", "d0/d22/a01049.html#ae1d9c2394745301897af9c167e219ca8", null ]
+    [ "GroupMgr", "df/d09/a09506.html", "df/d09/a09506" ],
+    [ "sGroupMgr", "d0/d22/a01049.html#a9b001b22670103435cf11551af9fa71e", null ]
 ];

@@ -1,6 +1,5 @@
 var a23438 =
 [
-    [ "instance_blood_furnace_InstanceMapScript", "db/dc7/a23442.html", "db/dc7/a23442" ],
-    [ "instance_blood_furnace", "d1/d87/a23438.html#a925a045fa518e72c1eff02fe3c66202b", null ],
-    [ "GetInstanceScript", "d1/d87/a23438.html#a885ba94e1777dfd6586daca304622d3d", null ]
+    [ "instance_the_underbog_InstanceMapScript", "d1/d87/a23438.html#ae7668c7c4432b74caa3ea46a7c7364e3", null ],
+    [ "Initialize", "d1/d87/a23438.html#a9c7c10020eef3db4794283c0f946d086", null ]
 ];

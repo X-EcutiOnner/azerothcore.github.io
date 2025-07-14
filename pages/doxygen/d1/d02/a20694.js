@@ -1,6 +1,5 @@
 var a20694 =
 [
-    [ "boss_yoggsaron_cloudAI", "df/d9d/a20698.html", "df/d9d/a20698" ],
-    [ "boss_yoggsaron_cloud", "d1/d02/a20694.html#ab52cc1fa8b45b70dde340b9f463ef2f1", null ],
-    [ "GetAI", "d1/d02/a20694.html#a2005f062eb9d78c7b09b045eba570b98", null ]
+    [ "achievement_thorim_stand_in_the_lightning", "d1/d02/a20694.html#a9339e89e4eb76151fdeacb6bcd53d7bc", null ],
+    [ "OnCheck", "d1/d02/a20694.html#ade1aec4de4c503be5a62da3e6c35e90f", null ]
 ];

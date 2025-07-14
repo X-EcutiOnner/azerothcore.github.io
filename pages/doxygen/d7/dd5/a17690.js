@@ -1,6 +1,6 @@
 var a17690 =
 [
-    [ "npc_bone_spikeAI", "d6/d2a/a17694.html", "d6/d2a/a17694" ],
-    [ "npc_bone_spike", "d7/dd5/a17690.html#ac93d7a45eaeae8d7adf2a3b313825aed", null ],
-    [ "GetAI", "d7/dd5/a17690.html#a887a9156f550ca55047fa501e1709d95", null ]
+    [ "IgbArtilleryCheck", "d7/dd5/a17690.html#a78b65928551ed799cf3f446f0603c50e", null ],
+    [ "operator()", "d7/dd5/a17690.html#ac083bfb9a5fa2b9888c4e31254baada6", null ],
+    [ "_entry", "d7/dd5/a17690.html#a98a6a0836414da82c288e372e982f69f", null ]
 ];

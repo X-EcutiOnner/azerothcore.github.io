@@ -1,5 +1,6 @@
 var a17998 =
 [
-    [ "achievement_all_you_can_eat", "da/da5/a17998.html#a0995024862a445ea1f0ff5c82475fc64", null ],
-    [ "OnCheck", "da/da5/a17998.html#a0baa07a7cbd239e4a5fcfd3e687aedf6", null ]
+    [ "npc_precious_iccAI", "df/df1/a18002.html", "df/df1/a18002" ],
+    [ "npc_precious_icc", "da/da5/a17998.html#a463eb0df1edb17e154658dac131f0898", null ],
+    [ "GetAI", "da/da5/a17998.html#aa63840c5968a089bff41dcd9c86d5849", null ]
 ];

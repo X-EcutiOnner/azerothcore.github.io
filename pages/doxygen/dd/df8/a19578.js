@@ -1,9 +1,11 @@
 var a19578 =
 [
-    [ "npc_brann_bronzebeard_algalonAI", "dd/df8/a19578.html#a5ab0ff088866cf9d6af99ee3f42e897a", null ],
-    [ "DoAction", "dd/df8/a19578.html#a9de9e9b19b8a635ec4bc0a4f8c8d13c6", null ],
-    [ "MovementInform", "dd/df8/a19578.html#a7f8d3efed49f0d43a5e9e73ee8bd36e0", null ],
-    [ "UpdateAI", "dd/df8/a19578.html#a16e3fcd7f082e04f648d2341a7e83cba", null ],
-    [ "_currentPoint", "dd/df8/a19578.html#ae9da41b5b4cae16e1ed4709ab41b8964", null ],
-    [ "events", "dd/df8/a19578.html#ab71b71ac63517349cb8702bb29d76334", null ]
+    [ "boss_maiden_of_griefAI", "dd/df8/a19578.html#a521decece7a53165349ebcfb9fb8dfb5", null ],
+    [ "JustDied", "dd/df8/a19578.html#abd3977cca1cbbf4b64c278a641514fc8", null ],
+    [ "JustEngagedWith", "dd/df8/a19578.html#acf30049b09bbaf3e30f2dcb77bf1b4e0", null ],
+    [ "KilledUnit", "dd/df8/a19578.html#a3d2173db5a852a356c187b2d2771b75f", null ],
+    [ "Reset", "dd/df8/a19578.html#a46776004549b0dcfcf73351225adaad8", null ],
+    [ "UpdateAI", "dd/df8/a19578.html#a4e26fc785b3c72982f9d98e0b120e929", null ],
+    [ "events", "dd/df8/a19578.html#aa2d2ccea219b679594d8d8b4a38d70cc", null ],
+    [ "pInstance", "dd/df8/a19578.html#abc195718a208a926f978d7f0fe0e7925", null ]
 ];

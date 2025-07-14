@@ -1,12 +1,7 @@
 var a15614 =
 [
-    [ "DialogueHelper", "de/db3/a15614.html#a3566655e8781bf5f9dff514fcd659421", null ],
-    [ "DialogueUpdate", "de/db3/a15614.html#aaac3463d91a0cdbe2622b4fd85b34ed0", null ],
-    [ "DoNextDialogueStep", "de/db3/a15614.html#a6e23a56ba5c5e4d4ab3b4c6be5cb09af", null ],
-    [ "GetSpeakerByEntry", "de/db3/a15614.html#a50e652ca2cff035d8c79517fdbcfc67a", null ],
-    [ "JustDidDialogueStep", "de/db3/a15614.html#a79e80634f1780895669f5c810958fd4f", null ],
-    [ "StartNextDialogueText", "de/db3/a15614.html#ac16b8b9b50e8b35980d21f161bf33340", null ],
-    [ "_actionTimer", "de/db3/a15614.html#a33b8551c136bcbc896b29d935c155a75", null ],
-    [ "_currentEntry", "de/db3/a15614.html#a89ca5e8d25372bd8ab32322a0a9999f2", null ],
-    [ "_dialogueArray", "de/db3/a15614.html#a489b8cd1c75ced0ec8e34b8051899dd7", null ]
+    [ "npc_toogaAI", "dc/d1d/a15618.html", "dc/d1d/a15618" ],
+    [ "npc_tooga", "de/db3/a15614.html#a6ea6a9e4dea1ab98475dae13680ceeaf", null ],
+    [ "GetAI", "de/db3/a15614.html#a7847577589f3bdc1c3ea5ee0f1f9232f", null ],
+    [ "OnQuestAccept", "de/db3/a15614.html#ac0fdcb3959c239d614b1cc7c66623c5d", null ]
 ];

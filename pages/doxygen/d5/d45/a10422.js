@@ -1,6 +1,5 @@
 var a10422 =
 [
-    [ "BuyBankSlot", "d5/d45/a10422.html#a0bc11087e9359c6ac762f915b11287d8", null ],
-    [ "Read", "d5/d45/a10422.html#ac4e35f97fe3ff2b2c18a40b8b2eb59fb", null ],
-    [ "Banker", "d5/d45/a10422.html#aa9ae5777ab337f37b1c372d39a8474bf", null ]
+    [ "UpdatableScript", "d5/d45/a10422.html#a2d6cf85d1eb98438b5022804296eff11", null ],
+    [ "OnUpdate", "d5/d45/a10422.html#abf328325e08aa0d6adf36e6f70b02328", null ]
 ];

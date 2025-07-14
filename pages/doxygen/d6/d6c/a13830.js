@@ -1,6 +1,5 @@
 var a13830 =
 [
-    [ "npc_zulian_prowlerAI", "dd/dab/a13834.html", "dd/dab/a13834" ],
-    [ "npc_zulian_prowler", "d6/d6c/a13830.html#a27ae990985976d02bb221b6d669fa849", null ],
-    [ "GetAI", "d6/d6c/a13830.html#a7e7d4f8164bbb728a1b83244c1e356f9", null ]
+    [ "entry", "d6/d6c/a13830.html#ad7431eb64907aed0a03205a37c65a735", null ],
+    [ "pos", "d6/d6c/a13830.html#ab60283e91e81c141f3b31218aa4442a3", null ]
 ];

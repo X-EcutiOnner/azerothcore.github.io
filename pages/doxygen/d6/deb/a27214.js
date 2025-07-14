@@ -1,5 +1,6 @@
 var a27214 =
 [
-    [ "go_tele_to_dalaran_crystal", "d6/deb/a27214.html#ab41268b7d568e8f189338f27cd90a62c", null ],
-    [ "OnGossipHello", "d6/deb/a27214.html#a7f754a29249653ca7848494310ef1a8d", null ]
+    [ "go_heatAI", "d9/d09/a27218.html", "d9/d09/a27218" ],
+    [ "go_heat", "d6/deb/a27214.html#a6c3d6919652159e4fd265b6d63f59c16", null ],
+    [ "GetAI", "d6/deb/a27214.html#a9f19009a78c7abd349d2e2e7bf98c1a0", null ]
 ];

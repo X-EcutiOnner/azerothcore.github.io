@@ -1,7 +1,7 @@
 var a09294 =
 [
-    [ "FriendlyCCedInRange", "dc/d37/a09294.html#ae8dcff3f285f208b0db8aa3efed202a1", null ],
-    [ "operator()", "dc/d37/a09294.html#a0e241f930cee855664aeac3604d5c023", null ],
-    [ "i_obj", "dc/d37/a09294.html#a73d3e29bbdc7fd4aa162be3cb7ecbe08", null ],
-    [ "i_range", "dc/d37/a09294.html#a49e79f3aea0c7e8c321c9f297b71a9b2", null ]
+    [ "GameObjectFocusCheck", "dc/d37/a09294.html#a06607ffa0ebf51c230f4584632a7444a", null ],
+    [ "operator()", "dc/d37/a09294.html#af5c0b63b8bfe112c9a8a43d7e49e1f7b", null ],
+    [ "i_focusId", "dc/d37/a09294.html#ace009546c2dcc6dac5de98b3c34152a5", null ],
+    [ "i_unit", "dc/d37/a09294.html#a0afc07e086f5aa3301c2b46a0004213e", null ]
 ];

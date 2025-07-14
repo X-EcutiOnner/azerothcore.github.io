@@ -1,9 +1,13 @@
 var a27574 =
 [
-    [ "npc_arcanite_dragonling", "d8/dfe/a27574.html#a9b7e4cefa312a16c90018d655ad94758", null ],
-    [ "CanAIAttack", "d8/dfe/a27574.html#a374e127ef749dc72ec70137bcd13a0b9", null ],
-    [ "IsSummonedBy", "d8/dfe/a27574.html#a921b35a91c4f21258efdb41fd87413db", null ],
-    [ "JustEngagedWith", "d8/dfe/a27574.html#a65f6d779681861117f750b70154b3e0d", null ],
-    [ "Reset", "d8/dfe/a27574.html#a4468d91430add821bf7a7ab11d8063da", null ],
-    [ "UpdateAI", "d8/dfe/a27574.html#aebe430b9a3079a5ccbfd979a74e532f3", null ]
+    [ "npc_garments_of_questsAI", "d8/dfe/a27574.html#a079f719ca488ed6fde2783b5db4f328b", null ],
+    [ "JustEngagedWith", "d8/dfe/a27574.html#aa14c07eaaa8d6381e8a821eab7a3d421", null ],
+    [ "Reset", "d8/dfe/a27574.html#aaaaa3e41deae0057bd659be5c579d226", null ],
+    [ "SpellHit", "d8/dfe/a27574.html#ad22195dba70ced744b319bc1ad83c083", null ],
+    [ "UpdateAI", "d8/dfe/a27574.html#aadf1a807ff49bd83eb21fc38fb2ed81c", null ],
+    [ "WaypointReached", "d8/dfe/a27574.html#a9bd63db7774e77ce4af6cfa952bcfa6d", null ],
+    [ "CanRun", "d8/dfe/a27574.html#a93c41781e4cb037b56773bbbf36181b7", null ],
+    [ "CasterGUID", "d8/dfe/a27574.html#ad2656e6a080b6407b57a3a1afeed12a0", null ],
+    [ "IsHealed", "d8/dfe/a27574.html#a96db66704eabf028362d5f8b5c424712", null ],
+    [ "RunAwayTimer", "d8/dfe/a27574.html#ac0a898f8938ea9b3721cc7440fac2da0", null ]
 ];

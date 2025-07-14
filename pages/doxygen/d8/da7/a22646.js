@@ -1,7 +1,11 @@
 var a22646 =
 [
-    [ "npc_blade_of_azzinoth", "d8/da7/a22646.html#a55afe56313c237afe8080662b2ed2dba", null ],
-    [ "DoAction", "d8/da7/a22646.html#a8e746da7672c0177c4b6c91b1e9d2eb5", null ],
-    [ "IsSummonedBy", "d8/da7/a22646.html#af2925da1235b809ee81469fe32ab0f92", null ],
-    [ "JustSummoned", "d8/da7/a22646.html#a501e2d1ae9af813fd9c30395e7774983", null ]
+    [ "boss_talon_king_ikiss", "d8/da7/a22646.html#acf8cbda5f7a33c026bfc0d6e7b31f43c", null ],
+    [ "CanAIAttack", "d8/da7/a22646.html#ab4858d845f149b6333941d8f8ab59afb", null ],
+    [ "JustDied", "d8/da7/a22646.html#ada1d993842d04453d6afad91e186a3fe", null ],
+    [ "JustEngagedWith", "d8/da7/a22646.html#a325312ce6695435fcca701720434c64f", null ],
+    [ "KilledUnit", "d8/da7/a22646.html#ae8d94f89a67f3a321c88327c076ddd77", null ],
+    [ "MoveInLineOfSight", "d8/da7/a22646.html#ab13808b75b1ca79b856e5b2e64e67d89", null ],
+    [ "Reset", "d8/da7/a22646.html#adcb1dca375ec548499da5a7690babc21", null ],
+    [ "_spoken", "d8/da7/a22646.html#a3e9e3a8575dbf21262ba2b4226182373", null ]
 ];

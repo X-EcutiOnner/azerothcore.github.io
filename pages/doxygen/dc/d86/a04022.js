@@ -1,5 +1,5 @@
 var a04022 =
 [
-    [ "disable_commandscript", "da/d41/a11604.html", "da/d41/a11604" ],
-    [ "AddSC_disable_commandscript", "dc/d86/a04022.html#a232e1ddbf34ceae5a317df69255bc8de", null ]
+    [ "cast_commandscript", "d1/ddf/a11602.html", "d1/ddf/a11602" ],
+    [ "AddSC_cast_commandscript", "dc/d86/a04022.html#a7b374923a29bdbff68b6e78d2ef4a3e0", null ]
 ];

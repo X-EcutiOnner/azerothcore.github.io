@@ -1,6 +1,6 @@
 var a22922 =
 [
-    [ "HandleDummy", "da/ddd/a22922.html#a85cbe85873c5f04c8fb94ad52e94afda", null ],
-    [ "PrepareSpellScript", "da/ddd/a22922.html#ae483ea2ecc541f52f37456f6e9d4b380", null ],
-    [ "Register", "da/ddd/a22922.html#a972574075c86c32593982add71dc893f", null ]
+    [ "FilterTargets", "da/ddd/a22922.html#a04973145ed594b88afe2acc0cacb10c6", null ],
+    [ "PrepareSpellScript", "da/ddd/a22922.html#a90c0513a6dba2f2e6619dd8c77544991", null ],
+    [ "Register", "da/ddd/a22922.html#a7c8ca525cd6822d21551331ce37ce5dd", null ]
 ];

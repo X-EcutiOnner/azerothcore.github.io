@@ -1,6 +1,7 @@
 var a21258 =
 [
-    [ "boss_xevozzAI", "dc/dff/a21262.html", "dc/dff/a21262" ],
-    [ "boss_xevozz", "d6/da8/a21258.html#a814ac939c4570d33450c4a6664833087", null ],
-    [ "GetAI", "d6/da8/a21258.html#a712d8ed125d464da56b677914fbf8796", null ]
+    [ "HandleDummy", "d6/da8/a21258.html#af524c771ef3a314f3c1dbaacae4f4538", null ],
+    [ "PrepareSpellScript", "d6/da8/a21258.html#a2ad8abf39847c79ac5bc53093c487fc0", null ],
+    [ "Register", "d6/da8/a21258.html#a45a33c0b51ed6c1dfed8d52d2f99e239", null ],
+    [ "Validate", "d6/da8/a21258.html#a92f99501ee1582873586d2405b224f4f", null ]
 ];

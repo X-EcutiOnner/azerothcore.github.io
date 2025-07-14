@@ -1,11 +1,7 @@
 var a16186 =
 [
-    [ "npc_toc5_grand_champion_minionAI", "da/d64/a16186.html#a06ff16fe0076de4e34ba20e0bbc49009", null ],
-    [ "JustDied", "da/d64/a16186.html#a23e5001255c6d49a6b217b9606aa53c5", null ],
-    [ "JustEngagedWith", "da/d64/a16186.html#a37a04ac2d6f30e415410f3806abaabb8", null ],
-    [ "Reset", "da/d64/a16186.html#ad35a26c28485b1976c55d49fcd32fb19", null ],
-    [ "UpdateAI", "da/d64/a16186.html#a2b9fdd3daa725921819ae2acee418d51", null ],
-    [ "events", "da/d64/a16186.html#a1b405c2acd53a4e5f1179f52c8c2261b", null ],
-    [ "pInstance", "da/d64/a16186.html#a6edd3dc8070edd031143e7a750f4d7a8", null ],
-    [ "ShieldTimer", "da/d64/a16186.html#a080916d385f4157afbe4c455033b88ba", null ]
+    [ "HandleDummy", "da/d64/a16186.html#a687cff5dcfcd7d9253182eb604d7a780", null ],
+    [ "PrepareSpellScript", "da/d64/a16186.html#ab8544e2c9e3bea229abd270c108bfa14", null ],
+    [ "Register", "da/d64/a16186.html#a144224b42aabc0402b729dcc808d779d", null ],
+    [ "Validate", "da/d64/a16186.html#a985e843e856a7322bccf8544c45df48c", null ]
 ];

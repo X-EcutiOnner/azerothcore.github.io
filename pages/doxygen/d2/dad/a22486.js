@@ -1,17 +1,13 @@
 var a22486 =
 [
-    [ "OPvPCapturePointZM_Graveyard", "d2/dad/a22486.html#a78fe433ee7f86e42d9b9c24d4c47f870", null ],
-    [ "CanTalkTo", "d2/dad/a22486.html#ae16e1448e5c21daea0a56ede78b3174a", null ],
-    [ "ChangeState", "d2/dad/a22486.html#a6a066c902c6e8ac58950037e6c4934b6", null ],
-    [ "FillInitialWorldStates", "d2/dad/a22486.html#a8aea9e4a005f5c88e2c71cfd46d10058", null ],
-    [ "GetGraveyardState", "d2/dad/a22486.html#ac10fc817ba6d3c68310a6b0d68e52342", null ],
-    [ "HandleDropFlag", "d2/dad/a22486.html#a87fb109fcc88099406d9f189333aef7c", null ],
-    [ "HandleGossipOption", "d2/dad/a22486.html#a132a6beb8a265dc614763a5f8e510173", null ],
-    [ "HandleOpenGo", "d2/dad/a22486.html#abef3d9dfff4688e0c5a87cd7b2a847c4", null ],
-    [ "SetBeaconState", "d2/dad/a22486.html#a7d7fc3041c753918c6e13e49a691674a", null ],
-    [ "Update", "d2/dad/a22486.html#a19d09f296598b83079eb2545b3d2caff", null ],
-    [ "UpdateTowerState", "d2/dad/a22486.html#ae907325621c0c0a40fc1e7761b81e832", null ],
-    [ "m_BothControllingFactionId", "d2/dad/a22486.html#ad501fe77b1d678cb593be6a0a8afd0a8", null ],
-    [ "m_FlagCarrierGUID", "d2/dad/a22486.html#acb0c4738c28d48f2f0ccec090e4b96d4", null ],
-    [ "m_GraveyardState", "d2/dad/a22486.html#a20e5b236d87c0942d15a60d2eba1af83", null ]
+    [ "OPvPCapturePointEP_CGT", "d2/dad/a22486.html#a82d8e9bff56eed1870b098dcf21f77cd", null ],
+    [ "ChangeState", "d2/dad/a22486.html#ab9d32c9a60bbdca9fc54d7e0b2bf8a5d", null ],
+    [ "FillInitialWorldStates", "d2/dad/a22486.html#ae7d57fe449bb38de013b18ecf2f9f07c", null ],
+    [ "HandlePlayerEnter", "d2/dad/a22486.html#a48cb29473f25ed9b469c7ff54acc9d88", null ],
+    [ "HandlePlayerLeave", "d2/dad/a22486.html#ad1886046ecf8c382e1fd0e01d6394614", null ],
+    [ "LinkGraveyard", "d2/dad/a22486.html#ada14179a31fb6235b7882a190dc96c40", null ],
+    [ "SendChangePhase", "d2/dad/a22486.html#a30d9f8701dd6a78740f7df0d2c7ceb9d", null ],
+    [ "UpdateTowerState", "d2/dad/a22486.html#a764284d6143d4879b5bc003acc52048c", null ],
+    [ "m_GraveyardSide", "d2/dad/a22486.html#aaf1f8440dc891ed45857bb7d15149d9a", null ],
+    [ "m_TowerState", "d2/dad/a22486.html#a6f434f86ed97f88368e3194a3bc3183b", null ]
 ];

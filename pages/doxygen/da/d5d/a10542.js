@@ -1,5 +1,6 @@
 var a10542 =
 [
-    [ "AcceptGuildInvite", "da/d5d/a10542.html#a4453fc550871082f6295d9229eef265a", null ],
-    [ "Read", "da/d5d/a10542.html#a3d39b917ca2650f645ccce12cdc1a1e0", null ]
+    [ "GuildCreate", "da/d5d/a10542.html#a4dd11d2c4d009b1e495f792f4842d598", null ],
+    [ "Read", "da/d5d/a10542.html#a7d4573196f53d1f068c43b4e7e466fce", null ],
+    [ "GuildName", "da/d5d/a10542.html#a95a0859dd32b6eaf31ea53311ffaa293", null ]
 ];

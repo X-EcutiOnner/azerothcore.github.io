@@ -1,6 +1,6 @@
 var a13798 =
 [
-    [ "npc_eagle_trash_aggro_trigger", "dd/db2/a13798.html#a9d41e8abe764fd0f8cedd888418aafb2", null ],
-    [ "MoveInLineOfSight", "dd/db2/a13798.html#aa8892e7f2bec9f26320cd9749e648ebd", null ],
-    [ "_instance", "dd/db2/a13798.html#a39a222e1eb0a3378c8fcaf1da5629547", null ]
+    [ "cooldown", "dd/db2/a13798.html#aaf4772a0ac55280355e61d8c50198b3f", null ],
+    [ "spell", "dd/db2/a13798.html#a00ee3238030686e1cc66562f7cefb27a", null ],
+    [ "target", "dd/db2/a13798.html#a16e54dbd059baac1b6e7229621339d83", null ]
 ];

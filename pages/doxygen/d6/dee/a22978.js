@@ -1,6 +1,6 @@
 var a22978 =
 [
-    [ "HandleProc", "d6/dee/a22978.html#a93dfb9e0dac89cb66f340c41dbc526bb", null ],
-    [ "PrepareAuraScript", "d6/dee/a22978.html#a94b244ef26355d53c874aec6d26f3a53", null ],
-    [ "Register", "d6/dee/a22978.html#a9499d88802213ceb877e19d1651324f2", null ]
+    [ "ShadowOfDeathSelector", "d6/dee/a22978.html#a1190094fbde74ccffd954fea742ab0ae", null ],
+    [ "operator()", "d6/dee/a22978.html#a3c91b315ce6d6c523d4bdb8a8206a3c8", null ],
+    [ "_tank", "d6/dee/a22978.html#adc238645eec306e00918dbab05549fc8", null ]
 ];

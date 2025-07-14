@@ -1,5 +1,6 @@
 var a23586 =
 [
-    [ "at_shattered_halls_execution", "d4/d22/a23586.html#a73f1d1f03960acd070b7996257f7a526", null ],
-    [ "OnTrigger", "d4/d22/a23586.html#ad35f9736371b091dc0780e5bf0caf9f5", null ]
+    [ "HandleScriptEffect", "d4/d22/a23586.html#af0841e5c67c981b792a8d8f0d0d18edc", null ],
+    [ "PrepareSpellScript", "d4/d22/a23586.html#a287bff28e57a86f0176921500de78fa9", null ],
+    [ "Register", "d4/d22/a23586.html#ad5fb101794dfdef0c08551dd9397b965", null ]
 ];

@@ -1,6 +1,6 @@
 var a18206 =
 [
-    [ "ModDestHeight", "d9/d7b/a18206.html#acd31e130e72cd93bee3544ecd2dc38ad", null ],
-    [ "PrepareSpellScript", "d9/d7b/a18206.html#a288f8917d73be30234e465778b1f6544", null ],
-    [ "Register", "d9/d7b/a18206.html#a69f9cdbfc33ec39f629f08f20484b29e", null ]
+    [ "npc_tirion_fordringAI", "d3/d0f/a18210.html", "d3/d0f/a18210" ],
+    [ "npc_tirion_fordring_tft", "d9/d7b/a18206.html#a04036d958e7ac643c9ba8d9073bca404", null ],
+    [ "GetAI", "d9/d7b/a18206.html#a41dcfa415831091531cbf46e946f442d", null ]
 ];

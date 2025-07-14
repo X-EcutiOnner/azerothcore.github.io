@@ -1,7 +1,9 @@
 var a27522 =
 [
-    [ "npc_wormholeAI", "da/dcd/a27522.html#a75c28ce9bcbb5ef6fb4213d000d5596a", null ],
-    [ "GetData", "da/dcd/a27522.html#ad4c9f2265f126c7f2b5538bab6b75cb3", null ],
-    [ "InitializeAI", "da/dcd/a27522.html#aa0a903014ec7243036604ffcc67e0a36", null ],
-    [ "_showUnderground", "da/dcd/a27522.html#a6a2fbf623b8fc55cfd48a12e2c515134", null ]
+    [ "npc_target_dummyAI", "da/dcd/a27522.html#a117e45559ea721877d73df4b3c18a259", null ],
+    [ "EnterEvadeMode", "da/dcd/a27522.html#a8f7f2e4decc676e378b4929516f8a147", null ],
+    [ "MoveInLineOfSight", "da/dcd/a27522.html#a05f5b1f2cb8f0926bf425e7c31d618e2", null ],
+    [ "Reset", "da/dcd/a27522.html#a4e8f8d1da604a80b60d61f72ed4ecbcf", null ],
+    [ "UpdateAI", "da/dcd/a27522.html#ae686aa48ab7e91988e5b71c71695ce47", null ],
+    [ "deathTimer", "da/dcd/a27522.html#abf5bd5122e79a62a03c19a18cd68498b", null ]
 ];

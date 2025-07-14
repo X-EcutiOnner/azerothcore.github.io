@@ -1,6 +1,5 @@
 var a27030 =
 [
-    [ "boss_lethonAI", "d2/dda/a27034.html", "d2/dda/a27034" ],
-    [ "boss_lethon", "d6/dbc/a27030.html#a5d758979b061646830373de64b2b3af4", null ],
-    [ "GetAI", "d6/dbc/a27030.html#a493baf37aac400635dd0409e79375a1c", null ]
+    [ "achievement_not_even_a_scratch", "d6/dbc/a27030.html#a0d025c09d35c3640016ab42e11dd96eb", null ],
+    [ "OnCheck", "d6/dbc/a27030.html#a81f6c9bd36e5a3eea3fe0af24c9f1649", null ]
 ];

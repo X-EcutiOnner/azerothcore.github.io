@@ -1,4 +1,4 @@
 var a01658 =
 [
-    [ "GroupRefMgr", "db/d9a/a09500.html", "db/d9a/a09500" ]
+    [ "ScriptRegistry< MovementHandlerScript >", "d9/d79/a01658.html#adecbf467a875ee8886c336d96a2f97dc", null ]
 ];

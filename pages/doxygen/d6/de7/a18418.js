@@ -1,6 +1,5 @@
 var a18418 =
 [
-    [ "npc_gluttonous_abominationAI", "dc/de4/a18422.html", "dc/de4/a18422" ],
-    [ "npc_gluttonous_abomination", "d6/de7/a18418.html#a895d1afcfc62bcaac6cc0d20465f1e7a", null ],
-    [ "GetAI", "d6/de7/a18418.html#aedbd808da5e8ea0e2111e78be9d846ce", null ]
+    [ "achievement_been_waiting_long_time", "d6/de7/a18418.html#a839ec8cb50512bbae7125ead3ed35aec", null ],
+    [ "OnCheck", "d6/de7/a18418.html#a5e72304220d3a649d2182cb287215da6", null ]
 ];

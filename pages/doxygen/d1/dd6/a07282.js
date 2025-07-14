@@ -1,10 +1,10 @@
 var a07282 =
 [
-    [ "SelectionPool", "d1/dd6/a07282.html#a9ddcca26fb3f4c635d7bcbb045542885", null ],
-    [ "AddGroup", "d1/dd6/a07282.html#a87fe4747536355ad7affda76640a082e", null ],
-    [ "GetPlayerCount", "d1/dd6/a07282.html#af344a6e6bb42609887ee8a3022e9d8e5", null ],
-    [ "Init", "d1/dd6/a07282.html#a84c3fe684033e8744ce6d6bc50526ee7", null ],
-    [ "KickGroup", "d1/dd6/a07282.html#a74fb708546a8612ca52b24b8472b71ef", null ],
-    [ "PlayerCount", "d1/dd6/a07282.html#a0c08c47f68dbb45175efc524f4553e16", null ],
-    [ "SelectedGroups", "d1/dd6/a07282.html#a4387ef77c341f90758d6c64c4ef2c475", null ]
+    [ "ArenaLogEntryData", "d1/dd6/a07282.html#a8f3ec057dd930d2f2acd7961e0cf4e5e", null ],
+    [ "Fill", "d1/dd6/a07282.html#aa3cca4521431bf152550611549bf4bbe", null ],
+    [ "Acc", "d1/dd6/a07282.html#aa8983930063298c86f4635d2ae3078fe", null ],
+    [ "ArenaTeamId", "d1/dd6/a07282.html#ac764620c3c8a986286fd74062dac4645", null ],
+    [ "Guid", "d1/dd6/a07282.html#a03b32cd44c655dcc9104aead3b76454e", null ],
+    [ "IP", "d1/dd6/a07282.html#ab9f80eacfe24025a2d4947085d3f6dd7", null ],
+    [ "Name", "d1/dd6/a07282.html#a5c18d554adb9e38ab10baf36c9b3fdd7", null ]
 ];

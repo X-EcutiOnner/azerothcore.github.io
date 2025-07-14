@@ -1,6 +1,6 @@
 var a26510 =
 [
-    [ "HandleRemove", "da/d7e/a26510.html#a92eb5e02c8b165caa877d368a456e5b2", null ],
-    [ "PrepareAuraScript", "da/d7e/a26510.html#a132193c0c13a2f89b9b29391d524023a", null ],
-    [ "Register", "da/d7e/a26510.html#a246294a7b9a128a9ec464562846332fc", null ]
+    [ "HandleScript", "da/d7e/a26510.html#ad0885113f3bd8eea8ff3db30b55cc240", null ],
+    [ "PrepareSpellScript", "da/d7e/a26510.html#a8410b746f810eaeb7f71c3a7de607a84", null ],
+    [ "Register", "da/d7e/a26510.html#ab8f5c857ee42a6767d10277b52a7da01", null ]
 ];

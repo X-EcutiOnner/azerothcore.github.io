@@ -1,10 +1,6 @@
 var a14622 =
 [
-    [ "boss_meathookAI", "d5/def/a14622.html#abb35c98da760db634545b81d740cd51a", null ],
-    [ "JustDied", "d5/def/a14622.html#a44ebee45de335ff6f653e9d60a364458", null ],
-    [ "JustEngagedWith", "d5/def/a14622.html#adf199bf96bbf342caaa74b7dd6b8013c", null ],
-    [ "KilledUnit", "d5/def/a14622.html#a54deac512294bb0901d072faef3166b1", null ],
-    [ "Reset", "d5/def/a14622.html#ab4dbdedb1ae114fe4aff1fbe0e8adec1", null ],
-    [ "UpdateAI", "d5/def/a14622.html#afeaee24a9b6484e8a0e6509b973ed74d", null ],
-    [ "events", "d5/def/a14622.html#a6cf32d8601a1d07a3a445fa7d9a1ccbc", null ]
+    [ "FilterTargets", "d5/def/a14622.html#ab4e32c78307df1d0ea7e0a71ace11734", null ],
+    [ "PrepareSpellScript", "d5/def/a14622.html#a54fb8b4b7abd1c92d7d98f3b911a7cec", null ],
+    [ "Register", "d5/def/a14622.html#a164b8b946dc801db878603488c978adb", null ]
 ];

@@ -1,6 +1,9 @@
 var a09590 =
 [
-    [ "bossId", "d0/d13/a09590.html#ac7ce1fcc568ad1fe6bc8a20957357ed8", null ],
-    [ "entry", "d0/d13/a09590.html#a1a199d022692efe54e29a7cb90e73dee", null ],
-    [ "type", "d0/d13/a09590.html#ab5654860b5c27654fa0346e9e92a71fc", null ]
+    [ "BroadcastTextID", "d0/d13/a09590.html#a756f24dbee852a7fbe152c0cb082c412", null ],
+    [ "Emotes", "d0/d13/a09590.html#a0f67a651fdb3f3217279015c9e3fb292", null ],
+    [ "Language", "d0/d13/a09590.html#a33bc5a0c156918b00380710aeb275d3d", null ],
+    [ "Probability", "d0/d13/a09590.html#a5c743df7a7ad634c5b3f3376547fda00", null ],
+    [ "Text_0", "d0/d13/a09590.html#a046d637b91807db067c6e7050184322d", null ],
+    [ "Text_1", "d0/d13/a09590.html#a8d64d7b8fcdbd995cc11e22adde8c0de", null ]
 ];

@@ -1,6 +1,7 @@
 var a15990 =
 [
-    [ "npc_orb_carrierAI", "d2/d17/a15994.html", "d2/d17/a15994" ],
-    [ "npc_orb_carrier", "d9/d77/a15990.html#a69fdd8cb2f0cdf7cf6cf0bdabbc0cd03", null ],
-    [ "GetAI", "d9/d77/a15990.html#ab5b7bbffc43b840c686dc889805ea401", null ]
+    [ "HandleHit", "d9/d77/a15990.html#abd59d91ab50eb8945a4a00157d9d5564", null ],
+    [ "PrepareSpellScript", "d9/d77/a15990.html#a27549f3cacc1732bbc1e61209e0f4905", null ],
+    [ "Register", "d9/d77/a15990.html#af132eee38064c5123f4e01d52efb9314", null ],
+    [ "Validate", "d9/d77/a15990.html#accad8dfdf29a1475b6f272259f1ed9bf", null ]
 ];

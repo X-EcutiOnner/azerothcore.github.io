@@ -1,8 +1,6 @@
 var a14566 =
 [
-    [ "hyjalTyrandeAI", "d3/d9f/a14566.html#ac2f5449b60cd137dbc1f6ddc8afe5309", null ],
-    [ "JustDied", "d3/d9f/a14566.html#af5c7b843b8e1a7c0864b55853bc62097", null ],
-    [ "JustEngagedWith", "d3/d9f/a14566.html#a158589b567d22c8f6e0be462bad8299d", null ],
-    [ "Reset", "d3/d9f/a14566.html#a5ea52a1ee3730630d1efbdac4ad24c80", null ],
-    [ "UpdateAI", "d3/d9f/a14566.html#a9e825f9d87df6227b73eb965488eff8a", null ]
+    [ "instance_blackfathom_deeps_InstanceMapScript", "d6/d71/a14570.html", "d6/d71/a14570" ],
+    [ "instance_blackfathom_deeps", "d3/d9f/a14566.html#a4600a7e6191582c1bee684989a970e0f", null ],
+    [ "GetInstanceScript", "d3/d9f/a14566.html#a62cdab4f3118ab030b4ef55243690f73", null ]
 ];

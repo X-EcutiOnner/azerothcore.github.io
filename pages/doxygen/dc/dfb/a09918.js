@@ -1,8 +1,9 @@
 var a09918 =
 [
-    [ "TimedFleeingMovementGenerator", "dc/dfb/a09918.html#ae3eed5f4b5a8d11ad4eed67ce5329742", null ],
-    [ "Finalize", "dc/dfb/a09918.html#a1a18f033663fa93ef0b9885aae21f766", null ],
-    [ "GetMovementGeneratorType", "dc/dfb/a09918.html#a1533d13f4e786e498353805a2a2daf85", null ],
-    [ "Update", "dc/dfb/a09918.html#a53688aae55bfdd3a33eb24484fcc157e", null ],
-    [ "i_totalFleeTime", "dc/dfb/a09918.html#a2858047459ff675383e7b86805702369", null ]
+    [ "ChaseAngle", "dc/dfb/a09918.html#a0744c615f437514a52b5a26fb717013a", null ],
+    [ "IsAngleOkay", "dc/dfb/a09918.html#aec86c653850655b723e5224ea20b0e21", null ],
+    [ "LowerBound", "dc/dfb/a09918.html#a2f8296cadbada4322ec9c754aed4a5ec", null ],
+    [ "UpperBound", "dc/dfb/a09918.html#a275d01ce57b23d42d4150b10c8433dee", null ],
+    [ "RelativeAngle", "dc/dfb/a09918.html#a810a730ae905bfa296dbe6c1e4b86416", null ],
+    [ "Tolerance", "dc/dfb/a09918.html#a2bb42885da594380cb742c29b6518ea3", null ]
 ];

@@ -1,5 +1,6 @@
 var a27090 =
 [
-    [ "go_mistwhisper_treasure", "d8/d71/a27090.html#a87c90caa9f6a628cb0eea3556b58449e", null ],
-    [ "OnGossipHello", "d8/d71/a27090.html#a03b6b19faba005ced7ff921fdf8ab493", null ]
+    [ "AreaTrigger_at_area_52_entrance", "d8/d71/a27090.html#a5b7e21903bca1c04bad1394c6965d032", null ],
+    [ "OnTrigger", "d8/d71/a27090.html#a1e537d133ee5e6ad1dbb0c732e23a128", null ],
+    [ "_triggerTimes", "d8/d71/a27090.html#a6c3225f46ea71d06b81b25d5fb6e8f25", null ]
 ];

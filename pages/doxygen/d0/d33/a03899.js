@@ -1,6 +1,6 @@
 var a03899 =
 [
-    [ "event_commandscript", "d6/d12/a11608.html", "d6/d12/a11608" ],
-    [ "EventEntry", "d0/d33/a03899.html#accd9dac141ffd4618bb7d3f69e8eb716", null ],
-    [ "AddSC_event_commandscript", "d0/d33/a03899.html#a4f3834f706dcb17ca67ce6513f6aecad", null ]
+    [ "debug_commandscript", "d1/dfd/a11618.html", "d1/dfd/a11618" ],
+    [ "debug_commandscript::CreatureCountWorker", "d0/db0/a11622.html", "d0/db0/a11622" ],
+    [ "AddSC_debug_commandscript", "d0/d33/a03899.html#abae44bbc8eb2fb66a5596017ea83583f", null ]
 ];

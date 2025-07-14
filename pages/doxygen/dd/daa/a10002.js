@@ -1,9 +1,6 @@
 var a10002 =
 [
-    [ "counter", "dd/daa/a10002.html#a0efb94229f4a9370dc5b256ba623385b", null ],
-    [ "getCurrent", "dd/daa/a10002.html#afff6411c2b7f1c07d72ad26dc77d4780", null ],
-    [ "Increase", "dd/daa/a10002.html#a463e0ba077c8398a6125e715afcd8860", null ],
-    [ "init", "dd/daa/a10002.html#a0369662be009b781174021a2eb6b3202", null ],
-    [ "NewId", "dd/daa/a10002.html#a06d5bc4ea248173316ed4d1ce96d6281", null ],
-    [ "m_counter", "dd/daa/a10002.html#a297f1ba5e072e4c90b62c7242ee1b01c", null ]
+    [ "TargetedMovementGeneratorBase", "dd/daa/a10002.html#a670b36c578b32b7d582e8f4b6ef656c3", null ],
+    [ "stopFollowing", "dd/daa/a10002.html#adb0a6f1a63ce265fc63bf362e2f60488", null ],
+    [ "i_target", "dd/daa/a10002.html#a427d8512cbd0ccbaca65dcf48bbe39f6", null ]
 ];

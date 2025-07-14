@@ -1,10 +1,10 @@
 var a10182 =
 [
-    [ "AllItemScript", "db/d9b/a10182.html#a7c0e310c69966e0eab6f2951dedcda63", null ],
-    [ "CanItemExpire", "db/d9b/a10182.html#aa2a9c691b4ba5d06f65555a7092fffc3", null ],
-    [ "CanItemQuestAccept", "db/d9b/a10182.html#a545e2bc7436a064146025954eaf5ae92", null ],
-    [ "CanItemRemove", "db/d9b/a10182.html#ad29a7f5d07d56127bc00846e1a7fb067", null ],
-    [ "CanItemUse", "db/d9b/a10182.html#a89d237f426840658e4423fb9cc7428db", null ],
-    [ "OnItemGossipSelect", "db/d9b/a10182.html#a7157f72c6d09988b60480d1671892cde", null ],
-    [ "OnItemGossipSelectCode", "db/d9b/a10182.html#a9e13f025e5cf10bf51c87a4dc1e7968d", null ]
+    [ "Flags", "db/d9b/a10182.html#abf9c2701e766951e5a211bf6bf85b175", null ],
+    [ "ID", "db/d9b/a10182.html#a946b8f7244fd22c4afcb26373ee61a13", null ],
+    [ "needSave", "db/d9b/a10182.html#aae888b1bf10f654ee212f3d687c111e9", null ],
+    [ "needSend", "db/d9b/a10182.html#ab8692e4433db81f9d3e0f96f8f930a8f", null ],
+    [ "ReputationListID", "db/d9b/a10182.html#a052caeeae1ecdca831097591e0fddaf6", null ],
+    [ "roundedUp", "db/d9b/a10182.html#a287fe9e8ec5da58ae3f5096045eebf31", null ],
+    [ "Standing", "db/d9b/a10182.html#ae87da6cada559e11a9607e194013d671", null ]
 ];

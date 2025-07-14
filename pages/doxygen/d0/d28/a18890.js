@@ -1,6 +1,6 @@
 var a18890 =
 [
-    [ "NotOnSameSide", "d0/d28/a18890.html#ac3189b202a8c0ca4c8f52799ed54e284", null ],
-    [ "operator()", "d0/d28/a18890.html#a59ea48b9633049180ec62d3616fe4dea", null ],
-    [ "m_inLiveSide", "d0/d28/a18890.html#a77c1d18f54609a5f4da2e9c13f62293d", null ]
+    [ "instance_icecrown_citadel_InstanceMapScript", "d5/dc7/a18894.html", "d5/dc7/a18894" ],
+    [ "instance_icecrown_citadel", "d0/d28/a18890.html#a0901e23025cff08d1a7516bbef099ffa", null ],
+    [ "GetInstanceScript", "d0/d28/a18890.html#a787c32626681f15f5515385a9ba6b848", null ]
 ];

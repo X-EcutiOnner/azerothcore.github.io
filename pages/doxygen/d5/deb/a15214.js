@@ -1,6 +1,6 @@
 var a15214 =
 [
-    [ "npc_magwinAI", "d4/d27/a15218.html", "d4/d27/a15218" ],
-    [ "npc_magwin", "d5/deb/a15214.html#a1a45602fd312a4c436b09fb7b90ac1d4", null ],
-    [ "GetAI", "d5/deb/a15214.html#a83bee0fd5c1494f2bb732fe9e0ed1594", null ]
+    [ "aqsentinelAI", "d4/d27/a15218.html", "d4/d27/a15218" ],
+    [ "npc_anubisath_sentinel", "d5/deb/a15214.html#ada1ab0d1857fe52020e798d9710a66cb", null ],
+    [ "GetAI", "d5/deb/a15214.html#ae19b8ba3766ede8f715dad5ff8d4b2d2", null ]
 ];

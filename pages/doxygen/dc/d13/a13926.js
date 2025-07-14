@@ -1,9 +1,12 @@
 var a13926 =
 [
-    [ "npc_healing_ward", "dc/d13/a13926.html#a3d3c35f61502d3a83cb2581119e08903", null ],
-    [ "JustEngagedWith", "dc/d13/a13926.html#a5faf7c5633c44ec1fa70b60b2071b97b", null ],
-    [ "Reset", "dc/d13/a13926.html#a756d27a43d86c7ecde859df255c6bd62", null ],
-    [ "UpdateAI", "dc/d13/a13926.html#a8b8635af33ce814602206064e0815520", null ],
-    [ "_instance", "dc/d13/a13926.html#a65f227041ad4bdc7240637dd6cb680ec", null ],
-    [ "_scheduler", "dc/d13/a13926.html#a0c62fe945b491cab76175217a7d10c06", null ]
+    [ "npc_zulian_prowlerAI", "dc/d13/a13926.html#a367613efead335b060173011267ddcff", null ],
+    [ "JustDied", "dc/d13/a13926.html#a31258aadddfbf6c6e9e1d729452dd8b2", null ],
+    [ "JustEngagedWith", "dc/d13/a13926.html#a207504b15ecd22b78088593b80433581", null ],
+    [ "Reset", "dc/d13/a13926.html#a62d14bae970d8a70a997c683e0e94259", null ],
+    [ "SpellHit", "dc/d13/a13926.html#a4051cd786d8c1974cf80c28f907cc02a", null ],
+    [ "UpdateAI", "dc/d13/a13926.html#a708df3a95395f99f6ba3eebcc90a22ab", null ],
+    [ "_events", "dc/d13/a13926.html#a994ae5b4e72429141155d1342830e5ad", null ],
+    [ "_instance", "dc/d13/a13926.html#ad37ba6b6ff7f52a88d2a96dc4ea00c34", null ],
+    [ "_sideData", "dc/d13/a13926.html#afa44e09c5677c2fc567be6a67b766bde", null ]
 ];

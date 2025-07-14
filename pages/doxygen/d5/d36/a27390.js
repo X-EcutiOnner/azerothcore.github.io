@@ -1,8 +1,5 @@
 var a27390 =
 [
-    [ "npc_nelsonAI", "df/ddb/a27394.html", "df/ddb/a27394" ],
-    [ "npc_nelson", "d5/d36/a27390.html#ada597926a6db1aa7823ddabc19945b11", null ],
-    [ "GetAI", "d5/d36/a27390.html#a75fea281fb49249345c48236bf44b1c8", null ],
-    [ "OnGossipHello", "d5/d36/a27390.html#aa693b365a15d4617f214f9c3c229bf89", null ],
-    [ "OnGossipSelect", "d5/d36/a27390.html#aff8e412cfcabd7b653cd30d29878be6a", null ]
+    [ "item_mysterious_egg", "d5/d36/a27390.html#ac32e296dcb700f32f6d0296f2921e6c7", null ],
+    [ "OnExpire", "d5/d36/a27390.html#a5ea72284626826b75819f89b3b91c540", null ]
 ];

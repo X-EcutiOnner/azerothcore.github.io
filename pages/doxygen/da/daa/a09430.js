@@ -1,9 +1,8 @@
 var a09430 =
 [
-    [ "UnitAuraCheck", "da/daa/a09430.html#acbc0c969db8b768720ab3b8235c28352", null ],
-    [ "operator()", "da/daa/a09430.html#abc385cad226ac51c09a908864d360fd3", null ],
-    [ "operator()", "da/daa/a09430.html#a1c85e9d5d517a852cf4c92063e6f3ed1", null ],
-    [ "_casterGUID", "da/daa/a09430.html#ab2bdf4c05792dd83e4e9542fc3083cc3", null ],
-    [ "_present", "da/daa/a09430.html#af553a0c4db5b11ec69ae7fbe9ce5ff78", null ],
-    [ "_spellId", "da/daa/a09430.html#a0dd71c851f803fb70a4543c77b672889", null ]
+    [ "AllCreaturesOfEntryInRange", "da/daa/a09430.html#a02aca6b65bd5ea49d510bb8d901e1322", null ],
+    [ "operator()", "da/daa/a09430.html#a99f472f33c0e5a6a76d6ffc08af2783b", null ],
+    [ "m_fRange", "da/daa/a09430.html#a0cb7d140b51d52e0db5b8d9f70250ced", null ],
+    [ "m_pObject", "da/daa/a09430.html#ade8cc66e1cd421550d2674e3ad960f48", null ],
+    [ "m_uiEntry", "da/daa/a09430.html#abf653360d2ee482728fb137a37fe0512", null ]
 ];

@@ -1,13 +1,11 @@
 var a25254 =
 [
-    [ "CalcPeriodic", "da/d1a/a25254.html#a3ac8408619d30ad092b624c2894d40bb", null ],
-    [ "CalculateExpertiseAmount", "da/d1a/a25254.html#ae974eed8254bace2a758917a4b629fa9", null ],
-    [ "CalculateSpellHitAmount", "da/d1a/a25254.html#ad42047dcb29d96224f6bd44064b1da32", null ],
-    [ "CalculateSpellPenAmount", "da/d1a/a25254.html#a300e649beb785c4ebc84eb1b0613164e", null ],
-    [ "HandleEffectApply", "da/d1a/a25254.html#ac01bc37e10b1072fb12aeb0bbfbdcc41", null ],
-    [ "HandlePeriodic", "da/d1a/a25254.html#a26c15c411ff09d8107dfc360b71dbc0a", null ],
-    [ "PrepareAuraScript", "da/d1a/a25254.html#a8b1230d7a14f87966ecf834fcbf83b58", null ],
-    [ "Register", "da/d1a/a25254.html#a47cb8f043f8b8984615520db25696f8e", null ],
-    [ "cap", "da/d1a/a25254.html#a5e168cfe5d9b620d523ea780f1e18cc7", null ],
-    [ "maxChance", "da/d1a/a25254.html#a11f2c759a5587eb865560eceff5b8414", null ]
+    [ "spell_gen_consume", "da/d1a/a25254.html#a839f5e891cfbd0f83937f06c7fd049d4", null ],
+    [ "AfterRemove", "da/d1a/a25254.html#ac521cc1524ddb9dd298145f23cc8fcd1", null ],
+    [ "HandleProc", "da/d1a/a25254.html#af69251aa0415a2148162f32dd9113917", null ],
+    [ "PrepareAuraScript", "da/d1a/a25254.html#a43860e5dcb2d2cb49e52c280d4f3c7e9", null ],
+    [ "Register", "da/d1a/a25254.html#a043362a08bcf9cfe253dd23c722a60bc", null ],
+    [ "Validate", "da/d1a/a25254.html#ae9b7c2f4a1b8f26a20b5ca6d90d3c5e9", null ],
+    [ "_spellId1", "da/d1a/a25254.html#a9763527e0a95c52888847b84d8f1dd8d", null ],
+    [ "_spellId2", "da/d1a/a25254.html#aa9b47c361eaad7dac4725e0be1bfe254", null ]
 ];

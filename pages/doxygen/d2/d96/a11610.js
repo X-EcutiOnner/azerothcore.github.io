@@ -1,8 +1,8 @@
 var a11610 =
 [
-    [ "honor_commandscript", "d2/d96/a11610.html#a7c1a6c172b970d1a35a4014d783dc783", null ],
-    [ "GetCommands", "d2/d96/a11610.html#a29a0068f9dd1e9b3f0adf80bddaadbbc", null ],
-    [ "HandleHonorAddCommand", "d2/d96/a11610.html#a03caa77b436e3d513e1325badf05df33", null ],
-    [ "HandleHonorAddKillCommand", "d2/d96/a11610.html#aec79f459796d821a032477827e16308a", null ],
-    [ "HandleHonorUpdateCommand", "d2/d96/a11610.html#a11831a3ea577f3f1e06fea3d0dbc0147", null ]
+    [ "accountId", "d2/d96/a11610.html#ad146b84be01ec07a5fee8184f0cc2da9", null ],
+    [ "accountName", "d2/d96/a11610.html#a4849bd1f43fd15eea1991948abdc576d", null ],
+    [ "deleteDate", "d2/d96/a11610.html#a65a101727094841d34e8775bb7504cba", null ],
+    [ "lowGuid", "d2/d96/a11610.html#a11fd07e662184f750ac0a5e547a22437", null ],
+    [ "name", "d2/d96/a11610.html#a0e85dce38305e222c5654315ed68bfc1", null ]
 ];

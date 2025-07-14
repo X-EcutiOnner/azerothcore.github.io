@@ -1,10 +1,5 @@
 var a27362 =
 [
-    [ "go_evil_book_for_dummies", "df/d11/a27362.html#a69f599910bce0070c6b1af547c459b72", null ],
-    [ "HasLeatherSpecialty", "df/d11/a27362.html#a3d755fa8777f33a318ffa6f004aecbed", null ],
-    [ "OnGossipHello", "df/d11/a27362.html#aeb29351e2faf135298419488eb16cc7e", null ],
-    [ "OnGossipSelect", "df/d11/a27362.html#ac4bc1c682b75c436a4d3fff118a20ca4", null ],
-    [ "SendActionMenu", "df/d11/a27362.html#a0aa21b4619ea5cc8229eb56e09d3233d", null ],
-    [ "SendConfirmLearn", "df/d11/a27362.html#a11a605c576a3c81b5ed96d413ec20f57", null ],
-    [ "SendConfirmUnlearn", "df/d11/a27362.html#af9c10b0423327d8644020e8f5e26a603", null ]
+    [ "go_duskwither_spire_power_source", "df/d11/a27362.html#aab69de16e8b744af2671e2ed882ee94a", null ],
+    [ "OnGossipHello", "df/d11/a27362.html#a2c7fd017e7985b99bff187119157a041", null ]
 ];

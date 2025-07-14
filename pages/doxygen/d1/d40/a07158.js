@@ -1,8 +1,11 @@
 var a07158 =
 [
-    [ "nbTowerCannonBottom", "d1/d40/a07158.html#a06e8dcf63efd928b72f3ec7d433ccb89", null ],
-    [ "nbTurretTop", "d1/d40/a07158.html#a5a728dccad89da190131cd93b62390b7", null ],
-    [ "TowerCannonBottom", "d1/d40/a07158.html#a21fa09356b3349bf45865aa3f0920268", null ],
-    [ "towerEntry", "d1/d40/a07158.html#a37e171a06a6e7bf5c0832417c597c2e1", null ],
-    [ "TurretTop", "d1/d40/a07158.html#a6849ba6967fa275950da9fec16df9bec", null ]
+    [ "gyid", "d1/d40/a07158.html#a742fcc91d2daf1a9331f02a90496328c", null ],
+    [ "o", "d1/d40/a07158.html#a9c761e77b7194ab1bb80d28f2b1e1f6d", null ],
+    [ "startcontrol", "d1/d40/a07158.html#a8b0aed9e6973ce6efc5d89a0d10a4139", null ],
+    [ "textid", "d1/d40/a07158.html#a87d80377ad632b9d667eecf11ae8faae", null ],
+    [ "type", "d1/d40/a07158.html#ae1a4b69ea4edabe51f1378c6cb066cad", null ],
+    [ "x", "d1/d40/a07158.html#ad69833b4e2a27999dcd13e5ac5bda892", null ],
+    [ "y", "d1/d40/a07158.html#a405e8098772e77250683985f957ce5f3", null ],
+    [ "z", "d1/d40/a07158.html#a844e4c9c9b1a9a22a817025ccda7f08d", null ]
 ];

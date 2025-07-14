@@ -1,7 +1,7 @@
 var a20258 =
 [
-    [ "boss_kologarn_pit_kill_bunny", "de/d0e/a20258.html#a0ecbc2ae8850d4cfb84f40d2a13f4976", null ],
-    [ "Reset", "de/d0e/a20258.html#afd7482896b66f040b8d57b9b6ac37059", null ],
-    [ "UpdateAI", "de/d0e/a20258.html#ad863666aec3db81f73165148ffc98033", null ],
-    [ "_boundaryIntersect", "de/d0e/a20258.html#abc0560637830e70d54ce1fb6b6881ca6", null ]
+    [ "HandleEffectPeriodic", "de/d0e/a20258.html#af6c50396e9b47cd909184aea80244728", null ],
+    [ "PrepareAuraScript", "de/d0e/a20258.html#aeb41825334049c8e3a39b48cbf271477", null ],
+    [ "Register", "de/d0e/a20258.html#aaa44ceb54aa928c4436120f435bcdc4b", null ],
+    [ "Validate", "de/d0e/a20258.html#a0098e4949fc75b1a2464128f4df869aa", null ]
 ];

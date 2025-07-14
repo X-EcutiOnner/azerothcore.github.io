@@ -1,41 +1,42 @@
 var a03881 =
 [
-    [ "npc_pet_hunter_snake_trap", "d1/df1/a24396.html", "d1/df1/a24396" ],
-    [ "HunterSpells", "d8/d46/a03881.html#a87efb4c7cf60464c813daf57f8006a7e", [
-      [ "SPELL_HUNTER_CRIPPLING_POISON", "d8/d46/a03881.html#a87efb4c7cf60464c813daf57f8006a7ea919b3819273ed109abc5ff9e1f17f280", null ],
-      [ "SPELL_HUNTER_DEADLY_POISON_PASSIVE", "d8/d46/a03881.html#a87efb4c7cf60464c813daf57f8006a7ead1a8eca1edbd63099142576708bdcdbf", null ],
-      [ "SPELL_HUNTER_MIND_NUMBING_POISON", "d8/d46/a03881.html#a87efb4c7cf60464c813daf57f8006a7eadf08a2ccf6ab77efd0195c9312df57fc", null ],
-      [ "SPELL_HUNTER_GLYPH_OF_SNAKE_TRAP", "d8/d46/a03881.html#a87efb4c7cf60464c813daf57f8006a7eafb79cd1f0ef5f656d3f72634c53cfde6", null ],
-      [ "SPELL_HUNTER_PET_SCALING", "d8/d46/a03881.html#a87efb4c7cf60464c813daf57f8006a7ea5d2116d1e86d04190a20c4e9fed1c86f", null ],
-      [ "SPELL_HUNTER_WYVERN_STING_DOT", "da/d14/a02066.html#a87efb4c7cf60464c813daf57f8006a7ea30a1369afc6885f7670bcf55f8948c07", null ],
-      [ "SPELL_HUNTER_ASPECT_OF_THE_BEAST", "da/d14/a02066.html#a87efb4c7cf60464c813daf57f8006a7ea9729e1f80d9e5ce1cd9928f8ed27ca00", null ],
-      [ "SPELL_HUNTER_ASPECT_OF_THE_BEAST_PET", "da/d14/a02066.html#a87efb4c7cf60464c813daf57f8006a7eaab952376ae60a2bfa87860e57b81604e", null ],
-      [ "SPELL_HUNTER_ASPECT_OF_THE_VIPER", "da/d14/a02066.html#a87efb4c7cf60464c813daf57f8006a7ead05cc74310d029dfed9226f52ff7e9e7", null ],
-      [ "SPELL_HUNTER_ASPECT_OF_THE_VIPER_ENERGIZE", "da/d14/a02066.html#a87efb4c7cf60464c813daf57f8006a7ea291f618e33506ca7b2182480873737f8", null ],
-      [ "SPELL_HUNTER_BESTIAL_WRATH", "da/d14/a02066.html#a87efb4c7cf60464c813daf57f8006a7ead2ce3e1b324d99ed0919aad89eb0d524", null ],
-      [ "SPELL_HUNTER_CHIMERA_SHOT_SERPENT", "da/d14/a02066.html#a87efb4c7cf60464c813daf57f8006a7eae4017a2262529adaf18e0cfcc81ca052", null ],
-      [ "SPELL_HUNTER_CHIMERA_SHOT_VIPER", "da/d14/a02066.html#a87efb4c7cf60464c813daf57f8006a7ea27313cec0b1c54431414148930dee532", null ],
-      [ "SPELL_HUNTER_CHIMERA_SHOT_SCORPID", "da/d14/a02066.html#a87efb4c7cf60464c813daf57f8006a7ea02c4f17910c60803051dc22d837911ce", null ],
-      [ "SPELL_HUNTER_GLYPH_OF_ASPECT_OF_THE_VIPER", "da/d14/a02066.html#a87efb4c7cf60464c813daf57f8006a7ea6511da7ee83f971738c671b8150f93c1", null ],
-      [ "SPELL_HUNTER_IMPROVED_MEND_PET", "da/d14/a02066.html#a87efb4c7cf60464c813daf57f8006a7ead3961ef5de734ba9384c7c21b78b88a3", null ],
-      [ "SPELL_HUNTER_INVIGORATION_TRIGGERED", "da/d14/a02066.html#a87efb4c7cf60464c813daf57f8006a7ea0835f319e0b7eae6873df26c0ecb1516", null ],
-      [ "SPELL_HUNTER_MASTERS_CALL_TRIGGERED", "da/d14/a02066.html#a87efb4c7cf60464c813daf57f8006a7ea6268d79b97acf49da958366261e0df54", null ],
-      [ "SPELL_HUNTER_MISDIRECTION_PROC", "da/d14/a02066.html#a87efb4c7cf60464c813daf57f8006a7ea3e0615670e4fc9469b7250228033251c", null ],
-      [ "SPELL_HUNTER_PET_LAST_STAND_TRIGGERED", "da/d14/a02066.html#a87efb4c7cf60464c813daf57f8006a7ead1b47010db0ea9e584e24e15141719b7", null ],
-      [ "SPELL_HUNTER_PET_HEART_OF_THE_PHOENIX", "da/d14/a02066.html#a87efb4c7cf60464c813daf57f8006a7ea0a1495d9817725f5cb19e63026605ce5", null ],
-      [ "SPELL_HUNTER_PET_HEART_OF_THE_PHOENIX_TRIGGERED", "da/d14/a02066.html#a87efb4c7cf60464c813daf57f8006a7ea8ab8a8af8e4201e7442c10a338a5d6dd", null ],
-      [ "SPELL_HUNTER_PET_HEART_OF_THE_PHOENIX_DEBUFF", "da/d14/a02066.html#a87efb4c7cf60464c813daf57f8006a7ea848635e540638b2f1fb01164ec34a332", null ],
-      [ "SPELL_HUNTER_PET_CARRION_FEEDER_TRIGGERED", "da/d14/a02066.html#a87efb4c7cf60464c813daf57f8006a7eabb248b57d2aeb464deeed4679d51d110", null ],
-      [ "SPELL_HUNTER_READINESS", "da/d14/a02066.html#a87efb4c7cf60464c813daf57f8006a7ea5eb25691f66e527c4af972f7390363a7", null ],
-      [ "SPELL_HUNTER_SNIPER_TRAINING_R1", "da/d14/a02066.html#a87efb4c7cf60464c813daf57f8006a7ea28068379ce495b5984cad20edcd9f95c", null ],
-      [ "SPELL_HUNTER_SNIPER_TRAINING_BUFF_R1", "da/d14/a02066.html#a87efb4c7cf60464c813daf57f8006a7ea38571110b4e0757cb9400f8c23f34410", null ],
-      [ "SPELL_HUNTER_VICIOUS_VIPER", "da/d14/a02066.html#a87efb4c7cf60464c813daf57f8006a7ea91c03fc46203d796b746b1f13a72f034", null ],
-      [ "SPELL_HUNTER_VIPER_ATTACK_SPEED", "da/d14/a02066.html#a87efb4c7cf60464c813daf57f8006a7ea05da71a759b2932a2f0dc58dc3852138", null ],
-      [ "SPELL_DRAENEI_GIFT_OF_THE_NAARU", "da/d14/a02066.html#a87efb4c7cf60464c813daf57f8006a7ea8b43cf97edfed28f7001b77141f01fac", null ],
-      [ "SPELL_HUNTER_GLYPH_OF_ARCANE_SHOT", "da/d14/a02066.html#a87efb4c7cf60464c813daf57f8006a7ea24de2077bf8ff891f5d0639cae664d5b", null ],
-      [ "SPELL_LOCK_AND_LOAD_TRIGGER", "da/d14/a02066.html#a87efb4c7cf60464c813daf57f8006a7ea5706be61803978650ec18c15106c8491", null ],
-      [ "SPELL_LOCK_AND_LOAD_MARKER", "da/d14/a02066.html#a87efb4c7cf60464c813daf57f8006a7eadfa5358bedddaa69188aa6805eee5002", null ],
-      [ "SPELL_HUNTER_PET_LEGGINGS_OF_BEAST_MASTERY", "da/d14/a02066.html#a87efb4c7cf60464c813daf57f8006a7ea9690d550fbf55abe4d2da23e29b5f8b6", null ]
+    [ "npc_lakota_windsong", "de/dea/a15654.html", "de/dea/a15654" ],
+    [ "npc_lakota_windsong::npc_lakota_windsongAI", "de/d57/a15658.html", "de/d57/a15658" ],
+    [ "npc_paoka_swiftmountain", "d1/dce/a15662.html", "d1/dce/a15662" ],
+    [ "npc_paoka_swiftmountain::npc_paoka_swiftmountainAI", "d6/d94/a15666.html", "d6/d94/a15666" ],
+    [ "npc_plucky", "d0/de6/a15670.html", "d0/de6/a15670" ],
+    [ "npc_plucky::npc_pluckyAI", "d2/d2f/a15674.html", "d2/d2f/a15674" ],
+    [ "spell_panther_cage_key", "da/d79/a15678.html", "da/d79/a15678" ],
+    [ "GOSSIP_P", "d8/d46/a03881.html#abe76f0bf6cd768a947537874b5a56330", null ],
+    [ "Lakota", "d8/d46/a03881.html#ac39a2ad4e9c1ced24984bd5c9acf3745", [
+      [ "SAY_LAKO_START", "d8/d46/a03881.html#ac39a2ad4e9c1ced24984bd5c9acf3745ad685ecf0f999b3b0859c272226a5b4b0", null ],
+      [ "SAY_LAKO_LOOK_OUT", "d8/d46/a03881.html#ac39a2ad4e9c1ced24984bd5c9acf3745a1b46b3b897330c62331282922a1cc28f", null ],
+      [ "SAY_LAKO_HERE_COME", "d8/d46/a03881.html#ac39a2ad4e9c1ced24984bd5c9acf3745ab3d49c68827aa5fe936a35424c8f0e6a", null ],
+      [ "SAY_LAKO_MORE", "d8/d46/a03881.html#ac39a2ad4e9c1ced24984bd5c9acf3745a2c2cac4bc7f485753ffc62ce9ac53f74", null ],
+      [ "SAY_LAKO_END", "d8/d46/a03881.html#ac39a2ad4e9c1ced24984bd5c9acf3745aec914a4c9c6b907b2f105307b224a80c", null ],
+      [ "QUEST_FREE_AT_LAST", "d8/d46/a03881.html#ac39a2ad4e9c1ced24984bd5c9acf3745aaab7b3aeba6646842a5bdadb11feed57", null ],
+      [ "NPC_GRIM_BANDIT", "d8/d46/a03881.html#ac39a2ad4e9c1ced24984bd5c9acf3745acbe7e3eadbfd99e1aefdd918f0c28923", null ],
+      [ "ID_AMBUSH_1", "d8/d46/a03881.html#ac39a2ad4e9c1ced24984bd5c9acf3745a6b351de9d4d7cf41632a688dac1d3c33", null ],
+      [ "ID_AMBUSH_2", "d8/d46/a03881.html#ac39a2ad4e9c1ced24984bd5c9acf3745af63f5bcbb697f260ed4b2b515e6c5820", null ],
+      [ "ID_AMBUSH_3", "d8/d46/a03881.html#ac39a2ad4e9c1ced24984bd5c9acf3745a104db33b08420d20a3c621920e5af607", null ]
     ] ],
-    [ "AddSC_hunter_pet_scripts", "d8/d46/a03881.html#ab89117a79c55f003f82b06a1878e6534", null ]
+    [ "Packa", "d8/d46/a03881.html#aa5861ade3620d04c615fc8c237d80102", [
+      [ "SAY_START", "d8/d46/a03881.html#aa5861ade3620d04c615fc8c237d80102a2eae21cbf7d110ee89a9798ef6f00239", null ],
+      [ "SAY_WYVERN", "d8/d46/a03881.html#aa5861ade3620d04c615fc8c237d80102a89b65c3f1b01d8e211937b52981ec045", null ],
+      [ "SAY_COMPLETE", "d8/d46/a03881.html#aa5861ade3620d04c615fc8c237d80102ac31c61437b536671a4aac2cfc0a66fdd", null ],
+      [ "QUEST_HOMEWARD", "d8/d46/a03881.html#aa5861ade3620d04c615fc8c237d80102a226fac5a4fdf03b5b8cbdb6ff533037c", null ],
+      [ "NPC_WYVERN", "d8/d46/a03881.html#aa5861ade3620d04c615fc8c237d80102a771d1fc8b6ed270a927ff5a146e4d9de", null ]
+    ] ],
+    [ "PantherCage", "d8/d46/a03881.html#a59d31c8fc3505146f60a3a4fcbb5b502", [
+      [ "NPC_ENRAGED_PANTHER", "d8/d46/a03881.html#a59d31c8fc3505146f60a3a4fcbb5b502a9a705dc738c579f064f3dedc010cfa84", null ],
+      [ "QUEST_HYPERCAPACITOR_GIZMO", "d8/d46/a03881.html#a59d31c8fc3505146f60a3a4fcbb5b502af086e007008db9902863c5bb28c1affe", null ]
+    ] ],
+    [ "Plucky", "d8/d46/a03881.html#aba5ef692b96fe4f89e8ffd8c4e37d4e1", [
+      [ "QUEST_SCOOP", "d8/d46/a03881.html#aba5ef692b96fe4f89e8ffd8c4e37d4e1a6c756d0f0363f4a2918294de15581e1b", null ],
+      [ "SPELL_PLUCKY_HUMAN", "d8/d46/a03881.html#aba5ef692b96fe4f89e8ffd8c4e37d4e1ae828034bf4e23f2a9ab587c74aea1e47", null ],
+      [ "SPELL_PLUCKY_CHICKEN", "d8/d46/a03881.html#aba5ef692b96fe4f89e8ffd8c4e37d4e1ae20866bf46f5f2e406792d8e5e6a5179", null ]
+    ] ],
+    [ "AddSC_thousand_needles", "d8/d46/a03881.html#a58e024bcebfefe3b44080ac0751c36bd", null ],
+    [ "BanditLoc", "d8/d46/a03881.html#a9d831677b4e878c5a76e7bc332ba6730", null ],
+    [ "WyvernLoc", "d8/d46/a03881.html#aca7b1639e471cc34f43cd5768265d02a", null ]
 ];

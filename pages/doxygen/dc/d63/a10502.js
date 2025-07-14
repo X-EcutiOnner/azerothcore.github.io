@@ -1,7 +1,6 @@
 var a10502 =
 [
-    [ "QueryGuildInfoResponse", "dc/d63/a10502.html#ae1f7b9f33e36821477a19439a3d4065d", null ],
-    [ "Write", "dc/d63/a10502.html#abda9452eba38e76c460f910eb3aad5fa", null ],
-    [ "GuildId", "dc/d63/a10502.html#a04eec0531238fa55a91afa11c394fbce", null ],
-    [ "Info", "dc/d63/a10502.html#a749e992a19264b259f62d403b4925abe", null ]
+    [ "PlayedTimeClient", "dc/d63/a10502.html#a1c82d4d153606da9887d64599f319883", null ],
+    [ "Read", "dc/d63/a10502.html#a0d25fccc9fb4fdaa5ba3bb11851a14f3", null ],
+    [ "TriggerScriptEvent", "dc/d63/a10502.html#a092b32f76df529a4f1284d7231b8fc6b", null ]
 ];

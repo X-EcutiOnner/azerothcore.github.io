@@ -1,9 +1,7 @@
 var a23646 =
 [
-    [ "boss_high_botanist_freywinn", "d1/d5d/a23646.html#aeecf6ed56e34cf1d9a552aab82f1f64a", null ],
-    [ "JustDied", "d1/d5d/a23646.html#a7b370482ea195d0305cba339ce0cbab3", null ],
-    [ "JustEngagedWith", "d1/d5d/a23646.html#a841c6f08d8d8c0e47bd8d06bfed7ab8b", null ],
-    [ "KilledUnit", "d1/d5d/a23646.html#a80a997e0d12c175da0a46d7362890b9c", null ],
-    [ "ResumeEncounter", "d1/d5d/a23646.html#a06adcf26cb264d35a16ca416661ab4bd", null ],
-    [ "SummonedCreatureDies", "d1/d5d/a23646.html#a7f1a02d4b944191471f59ba728b6372e", null ]
+    [ "FilterTargets", "d1/d5d/a23646.html#a834163302ff10875227806d7d4945988", null ],
+    [ "HandleScriptEffect", "d1/d5d/a23646.html#a5dd125da7dd46e2d81ab5e0f10bc00c3", null ],
+    [ "PrepareSpellScript", "d1/d5d/a23646.html#a079e72d57550e03956088b4be1d11422", null ],
+    [ "Register", "d1/d5d/a23646.html#abd4e0f268652652d3828ba8d350de849", null ]
 ];

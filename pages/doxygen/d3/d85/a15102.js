@@ -1,6 +1,9 @@
 var a15102 =
 [
-    [ "HandleOnHit", "d3/d85/a15102.html#a65818c4421ea83869d36a116d1bc6d2c", null ],
-    [ "PrepareSpellScript", "d3/d85/a15102.html#a9e568a1608715973fc438ff5e4356714", null ],
-    [ "Register", "d3/d85/a15102.html#a752d697aada626440fdff2bd889f890f", null ]
+    [ "npc_giant_eye_tentacle", "d3/d85/a15102.html#a1adebf586a8a4413bb048936b90ddd3c", null ],
+    [ "JustDied", "d3/d85/a15102.html#a72cac50a711868256a41c543d0cef3da", null ],
+    [ "JustEngagedWith", "d3/d85/a15102.html#ac26b16e709e62c429b7ca88815bbc4cd", null ],
+    [ "Reset", "d3/d85/a15102.html#a4e605a585099d136d8f6bd42b6450f1d", null ],
+    [ "UpdateAI", "d3/d85/a15102.html#aacae6ea2616af2ad9515167fc1bab61d", null ],
+    [ "_portalGUID", "d3/d85/a15102.html#af9784b6d00e50ec28ed27361aaf3442f", null ]
 ];

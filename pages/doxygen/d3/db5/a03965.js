@@ -1,5 +1,5 @@
 var a03965 =
 [
-    [ "item_commandscript", "d5/df8/a11648.html", "d5/df8/a11648" ],
-    [ "AddSC_item_commandscript", "d3/db5/a03965.html#ad129450eb89b9c3e5c98717b2c44de8e", null ]
+    [ "quest_commandscript", "d9/de2/a11738.html", "d9/de2/a11738" ],
+    [ "AddSC_quest_commandscript", "d3/db5/a03965.html#ae9edb5f21eaacbfd73cc01543cb2fcdd", null ]
 ];

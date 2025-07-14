@@ -1,7 +1,6 @@
 var a18610 =
 [
-    [ "HandleScript", "df/d97/a18610.html#a87a2b32a9a20f032157df5ddb2cd9979", null ],
-    [ "PrepareSpellScript", "df/d97/a18610.html#a9aca3a2a981a0cb61569200d77ca527a", null ],
-    [ "Register", "df/d97/a18610.html#afb0289c9906d0383a22dfd0e848573f8", null ],
-    [ "Validate", "df/d97/a18610.html#a69344370af56f033e1c1ba16f4dee174", null ]
+    [ "boss_sister_svalnaAI", "d9/dde/a18614.html", "d9/dde/a18614" ],
+    [ "boss_sister_svalna", "df/d97/a18610.html#a233a9606db61f6ab945350e98a0929ff", null ],
+    [ "GetAI", "df/d97/a18610.html#a5eb89badd75104dfe1dc3e03d372adc0", null ]
 ];

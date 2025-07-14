@@ -1,7 +1,6 @@
 var a12090 =
 [
-    [ "boss_warmastervooneAI", "d8/d75/a12090.html#aa22519c8d3037cf07c275080b9bedcaf", null ],
-    [ "DamageTaken", "d8/d75/a12090.html#adce28de25fa74557000d60188346e2d2", null ],
-    [ "ExecuteEvent", "d8/d75/a12090.html#ac9dc6ef78503a87ea68d0e232b0376da", null ],
-    [ "JustEngagedWith", "d8/d75/a12090.html#ac419c5118a45264e24e391f7575d90fb", null ]
+    [ "npc_rookery_hatcherAI", "df/dac/a12094.html", "df/dac/a12094" ],
+    [ "npc_rookery_hatcher", "d8/d75/a12090.html#aa385f8a93384d4db9b92eecd1b152ce0", null ],
+    [ "GetAI", "d8/d75/a12090.html#a76e27f10dd58ec15a8e8f9d579f1c176", null ]
 ];

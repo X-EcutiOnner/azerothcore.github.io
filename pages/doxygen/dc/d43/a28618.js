@@ -1,13 +1,17 @@
 var a28618 =
 [
-    [ "liquidTris", "dc/d43/a28618.html#ad166656bfa449d3093cb23e7bef2cc76", null ],
-    [ "liquidType", "dc/d43/a28618.html#afbbb20fcb4e597c2addcc47893a33f92", null ],
-    [ "liquidVerts", "dc/d43/a28618.html#a52796933ab018f27d12f625673f7f8a9", null ],
-    [ "offMeshConnectionDirs", "dc/d43/a28618.html#a58350c36d5b88fe255880f6c217d4ef9", null ],
-    [ "offMeshConnectionRads", "dc/d43/a28618.html#a56bbdeb5028302de0c5eb5a02cffa44c", null ],
-    [ "offMeshConnections", "dc/d43/a28618.html#a706feac90bb398da61296bac9d0b7176", null ],
-    [ "offMeshConnectionsAreas", "dc/d43/a28618.html#af5af113433bb2776e6735195e57ab6f7", null ],
-    [ "offMeshConnectionsFlags", "dc/d43/a28618.html#a8c819b625f1bb0b21bb756144b2e1266", null ],
-    [ "solidTris", "dc/d43/a28618.html#adb04d376bfa182cf9666689e6c5a7c68", null ],
-    [ "solidVerts", "dc/d43/a28618.html#a915387c2cfa7111de4a957646a2aace4", null ]
+    [ "GetHeight", "dc/d43/a28618.html#a98bc670c8dd44b210b398f5f014cbbc7", null ],
+    [ "GetOffsetX", "dc/d43/a28618.html#a8facef2fdb586a71f1f740086fe160ab", null ],
+    [ "GetOffsetY", "dc/d43/a28618.html#aecd2f6f40509d9b65f9f254e59298e8c", null ],
+    [ "GetWidth", "dc/d43/a28618.html#a240dac4718a12daee7c8ec526209c4ba", null ],
+    [ "Height", "dc/d43/a28618.html#abb92a54ddecdd06c1031bafd41e642dc", null ],
+    [ "LiquidType", "dc/d43/a28618.html#a910553870f082a1b8dd47c27c8f981f1", null ],
+    [ "LiquidVertexFormat", "dc/d43/a28618.html#ab1376e3688bcf9110111bf87f8fd940a", null ],
+    [ "MaxHeightLevel", "dc/d43/a28618.html#aa73500f507b6ee2678f3c81328b716e1", null ],
+    [ "MinHeightLevel", "dc/d43/a28618.html#a5c56ad9303d1b652774019efbe316dbd", null ],
+    [ "OffsetExistsBitmap", "dc/d43/a28618.html#a1852863d7fcbbd95e6ccb190895841ca", null ],
+    [ "OffsetVertexData", "dc/d43/a28618.html#abfe19bd9c6d9d1d41433abe6fae3baea", null ],
+    [ "OffsetX", "dc/d43/a28618.html#a1dcb423f7ba1c0c7bdaa77aef8139b6c", null ],
+    [ "OffsetY", "dc/d43/a28618.html#a08a02703ec946d3a6fb6326c24b4f6cc", null ],
+    [ "Width", "dc/d43/a28618.html#a4b1bd0f232da1acde53787109e26c9b3", null ]
 ];

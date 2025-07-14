@@ -1,6 +1,6 @@
 var a19606 =
 [
-    [ "go_celestial_planetarium_accessAI", "df/dd7/a19610.html", "df/dd7/a19610" ],
-    [ "go_celestial_planetarium_access", "db/da5/a19606.html#a20b7c895dd0fc2cb37bf3c113bf91278", null ],
-    [ "GetAI", "db/da5/a19606.html#a4fc9ac64f7dceefbdda02297f7dfc42b", null ]
+    [ "boss_sjonnir_malformed_oozeAI", "df/dd7/a19610.html", "df/dd7/a19610" ],
+    [ "boss_sjonnir_malformed_ooze", "db/da5/a19606.html#ad151bc07b032b6cceed046d1b25ecc08", null ],
+    [ "GetAI", "db/da5/a19606.html#a22807bb07692511c5ec87073d98c2604", null ]
 ];

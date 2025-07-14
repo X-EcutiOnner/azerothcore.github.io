@@ -1,4 +1,4 @@
 var a01823 =
 [
-    [ "ScriptRegistry< AllSpellScript >", "d9/d88/a01823.html#a6fb50c7d667ae3d14a6d307b0862e957", null ]
+    [ "ScriptRegistry< AllBattlegroundScript >", "d9/d88/a01823.html#a4a1c5c34c42d3aaca9edc12feb3f7575", null ]
 ];

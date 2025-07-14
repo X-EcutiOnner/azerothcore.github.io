@@ -1,8 +1,11 @@
 var a23498 =
 [
-    [ "HandleDummyApply", "d6/d5f/a23498.html#ae60ce9cdd5d68f3fd16af54acc3d6603", null ],
-    [ "HandleDummyRemove", "d6/d5f/a23498.html#a368376fe4262815b9b9a9811178cec6d", null ],
-    [ "HandlePeriodicRemove", "d6/d5f/a23498.html#a02a350060a9ce54be88c0ad62eac11d3", null ],
-    [ "PrepareAuraScript", "d6/d5f/a23498.html#a30a7b07fc37d13f9b3a96e95940410c1", null ],
-    [ "Register", "d6/d5f/a23498.html#afeb47a40cfea3d958fee7a410e83857f", null ]
+    [ "boss_krosh_firehand", "d6/d5f/a23498.html#a1ef3618844f086de7875f26e7e6190f9", null ],
+    [ "AttackStart", "d6/d5f/a23498.html#a74bd2c93ac45efcd163a904b9a52827b", null ],
+    [ "JustDied", "d6/d5f/a23498.html#ad20c86b4a3d0cccddf91982c26f56c09", null ],
+    [ "JustEngagedWith", "d6/d5f/a23498.html#ad6389c357fb6c09fdf4f3f3ef7095395", null ],
+    [ "Reset", "d6/d5f/a23498.html#a989c4b762a7cdb228b245e91881d97a2", null ],
+    [ "UpdateAI", "d6/d5f/a23498.html#a3d26a6f544e9d00514ca5b0ef7d4bf4f", null ],
+    [ "_scheduler", "d6/d5f/a23498.html#a261ced01dc1305ab7c2d2f3322022fe5", null ],
+    [ "instance", "d6/d5f/a23498.html#a876bb040d78cafa9aa22e818f60dce7f", null ]
 ];

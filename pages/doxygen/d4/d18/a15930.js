@@ -1,7 +1,7 @@
 var a15930 =
 [
-    [ "CheckDistance", "d4/d18/a15930.html#ac10f4cebab4966a220cd931afd0e0a30", null ],
-    [ "PrepareSpellScript", "d4/d18/a15930.html#adb14940f47dc509d75a4e81bb90fc40d", null ],
-    [ "Register", "d4/d18/a15930.html#a3a64ffc872e4650b1d226d20d9bedc65", null ],
-    [ "Validate", "d4/d18/a15930.html#aa5d7a420154b156ca24e73de2faf912a", null ]
+    [ "instance_azjol_nerub_InstanceScript", "d4/d18/a15930.html#a886ed4c1485fdedcc176341210eee31a", null ],
+    [ "OnCreatureCreate", "d4/d18/a15930.html#a7a99d985a4b465ae87c04211a7a83a77", null ],
+    [ "OnGameObjectCreate", "d4/d18/a15930.html#a1ef3dc88400345998d03f3c993b9a181", null ],
+    [ "OnGameObjectRemove", "d4/d18/a15930.html#a3a2776b83272d81de9ddcb0c90ac881c", null ]
 ];

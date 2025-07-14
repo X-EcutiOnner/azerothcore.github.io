@@ -1,6 +1,6 @@
 var a23066 =
 [
-    [ "HandleScriptEffect", "db/d4a/a23066.html#a6489e3a58421da7c448a24d6673564c5", null ],
-    [ "PrepareSpellScript", "db/d4a/a23066.html#a5afd50fdc8393a12cd39a56c342f9179", null ],
-    [ "Register", "db/d4a/a23066.html#a274d65aa393a65e19bbb67a5d07c7428", null ]
+    [ "HandleScriptEffect", "db/d4a/a23066.html#a2b46490b70bf93effb7379686e648618", null ],
+    [ "PrepareSpellScript", "db/d4a/a23066.html#a5030d071372ef12663f6a75be637476e", null ],
+    [ "Register", "db/d4a/a23066.html#aa15afaa9990f29a9e71c1d6395d5de12", null ]
 ];

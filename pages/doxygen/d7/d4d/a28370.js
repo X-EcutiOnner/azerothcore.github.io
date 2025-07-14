@@ -1,5 +1,5 @@
 var a28370 =
 [
-    [ "ByteBufferInvalidValueException", "d7/d4d/a28370.html#a6ee22161167faf11555c6e6b15422cd8", null ],
-    [ "~ByteBufferInvalidValueException", "d7/d4d/a28370.html#a30cc1225522916e05abf95e14805d7a3", null ]
+    [ "Flags", "d7/d4d/a28370.html#a0cb97c73af91dcfdd151c38aa46828cc", null ],
+    [ "Id", "d7/d4d/a28370.html#a85e0e36dbc79f309d7f50b087ebcd166", null ]
 ];

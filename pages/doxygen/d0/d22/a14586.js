@@ -1,6 +1,7 @@
 var a14586 =
 [
-    [ "instance_mount_hyjal_InstanceMapScript", "d2/d7e/a14590.html", "d2/d7e/a14590" ],
-    [ "instance_hyjal", "d0/d22/a14586.html#ade946c0fcaa4bad790bfcb4b6ffb6420", null ],
-    [ "GetInstanceScript", "d0/d22/a14586.html#ae6e39933d7cfd6563f6d37636f1c6f68", null ]
+    [ "HandleOnHit", "d0/d22/a14586.html#a9f1d78b4a98bc76877903b79923c1634", null ],
+    [ "PrepareSpellScript", "d0/d22/a14586.html#afb0a8a16850da30b0fbdb3d10a935f21", null ],
+    [ "Register", "d0/d22/a14586.html#ab923488eb891e1f9b1f5cb8ed61f3865", null ],
+    [ "Validate", "d0/d22/a14586.html#a57d85b1702e5c89d72972505121180ed", null ]
 ];

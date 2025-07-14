@@ -1,9 +1,10 @@
 var a27442 =
 [
-    [ "npc_target_dummyAI", "df/d78/a27442.html#a117e45559ea721877d73df4b3c18a259", null ],
-    [ "EnterEvadeMode", "df/d78/a27442.html#a8f7f2e4decc676e378b4929516f8a147", null ],
-    [ "MoveInLineOfSight", "df/d78/a27442.html#a05f5b1f2cb8f0926bf425e7c31d618e2", null ],
-    [ "Reset", "df/d78/a27442.html#a4e8f8d1da604a80b60d61f72ed4ecbcf", null ],
-    [ "UpdateAI", "df/d78/a27442.html#ae686aa48ab7e91988e5b71c71695ce47", null ],
-    [ "deathTimer", "df/d78/a27442.html#abf5bd5122e79a62a03c19a18cd68498b", null ]
+    [ "go_evil_book_for_dummies", "df/d78/a27442.html#a69f599910bce0070c6b1af547c459b72", null ],
+    [ "HasLeatherSpecialty", "df/d78/a27442.html#a3d755fa8777f33a318ffa6f004aecbed", null ],
+    [ "OnGossipHello", "df/d78/a27442.html#aeb29351e2faf135298419488eb16cc7e", null ],
+    [ "OnGossipSelect", "df/d78/a27442.html#ac4bc1c682b75c436a4d3fff118a20ca4", null ],
+    [ "SendActionMenu", "df/d78/a27442.html#a0aa21b4619ea5cc8229eb56e09d3233d", null ],
+    [ "SendConfirmLearn", "df/d78/a27442.html#a11a605c576a3c81b5ed96d413ec20f57", null ],
+    [ "SendConfirmUnlearn", "df/d78/a27442.html#af9c10b0423327d8644020e8f5e26a603", null ]
 ];

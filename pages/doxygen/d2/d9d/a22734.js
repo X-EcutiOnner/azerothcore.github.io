@@ -1,7 +1,8 @@
 var a22734 =
 [
-    [ "boss_veras_darkshadow", "d2/d9d/a22734.html#a7b33a5c8257954951ed19a2f8ce17b95", null ],
-    [ "JustEngagedWith", "d2/d9d/a22734.html#a5eec3e70a7950073eced60d680ff6298", null ],
-    [ "JustSummoned", "d2/d9d/a22734.html#afd6cb716cfdebccde99d71e1eb797d33", null ],
-    [ "UpdateAI", "d2/d9d/a22734.html#a21f23998e3c3ecb79cbfa3c0d778f2d5", null ]
+    [ "npc_parasitic_shadowfiend", "d2/d9d/a22734.html#a09aa9baed84ec849bd5a34d02aec8db3", null ],
+    [ "CanAIAttack", "d2/d9d/a22734.html#ac7600aed313f1413cb9b522d60d30329", null ],
+    [ "EnterEvadeMode", "d2/d9d/a22734.html#a4dc9fe2b60fc97bd836701244a069d4d", null ],
+    [ "IsSummonedBy", "d2/d9d/a22734.html#a306c696d4243c4525d0a3908a212135d", null ],
+    [ "UpdateAI", "d2/d9d/a22734.html#a2706a4ba7876f299b02d2e720f512af2", null ]
 ];

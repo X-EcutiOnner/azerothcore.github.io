@@ -1,10 +1,7 @@
 var a16246 =
 [
-    [ "npc_nerubian_burrowerAI", "da/d85/a16246.html#a7673709e7b16a6573d9c7392ba556313", null ],
-    [ "CanAIAttack", "da/d85/a16246.html#a82e4a5ca23ae2a94212b214aad1c69df", null ],
-    [ "JustDied", "da/d85/a16246.html#ab5182ad65187c472b306e2177530d7b6", null ],
-    [ "Reset", "da/d85/a16246.html#a4491965d9c08ed1d888cad6f7b06352d", null ],
-    [ "SpellHitTarget", "da/d85/a16246.html#a64fa2c8276f7418542190e833dd72c51", null ],
-    [ "UpdateAI", "da/d85/a16246.html#abd2c7333625ded502a00848b09ee9a40", null ],
-    [ "events", "da/d85/a16246.html#ab45e8c6dd9ea3552fed4b926136f80e6", null ]
+    [ "HandleAfterEffectAbsorb", "da/d85/a16246.html#ab3d9f3679931b4b3b29713602d08701d", null ],
+    [ "PrepareAuraScript", "da/d85/a16246.html#a10ee3cda9edfec8140b94e13b88266bd", null ],
+    [ "Register", "da/d85/a16246.html#ab68a5ccfb0d96390bb83c329eb849cdd", null ],
+    [ "Validate", "da/d85/a16246.html#a87750183d2b2d6adb67bba4a1f767029", null ]
 ];

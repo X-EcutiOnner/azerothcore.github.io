@@ -1,12 +1,13 @@
 var a22482 =
 [
-    [ "OPvPCapturePointZM_Beacon", "d8/db9/a22482.html#a9efdfd232e9aa6dd390800bbf0373442", null ],
-    [ "ChangeState", "d8/db9/a22482.html#a5bbe87c18c814358596a9648fd92b129", null ],
-    [ "FillInitialWorldStates", "d8/db9/a22482.html#a94511cd0d2d1dccaa1ed8276b273a2fb", null ],
-    [ "HandlePlayerEnter", "d8/db9/a22482.html#a7042cd6b4c3d57de89e3ae9e0b2cee2a", null ],
-    [ "HandlePlayerLeave", "d8/db9/a22482.html#a6e5bfb2751f157fc4ebc8338b7cce802", null ],
-    [ "SendChangePhase", "d8/db9/a22482.html#a0b5ad48fa0d6ddd6c768fb7454b5fb55", null ],
-    [ "UpdateTowerState", "d8/db9/a22482.html#a9622620e5b969e19ea049ebd3cc4a3dc", null ],
-    [ "m_TowerState", "d8/db9/a22482.html#a3a41cc34e7a8bd9f0d9d6f86f42a3312", null ],
-    [ "m_TowerType", "d8/db9/a22482.html#a481e79d61fcdd011632f8f0d37f940bc", null ]
+    [ "OPvPCapturePointEP_NPT", "d8/db9/a22482.html#a2cb0929c3acb81530a0bd7ea57bcc298", null ],
+    [ "ChangeState", "d8/db9/a22482.html#a9e046ace6129ce67568ed7c15130b617", null ],
+    [ "FillInitialWorldStates", "d8/db9/a22482.html#add8f3c1b1a1e5600a05a639520b0a1dc", null ],
+    [ "HandlePlayerEnter", "d8/db9/a22482.html#ace643b7f7bc793934972c61c618045eb", null ],
+    [ "HandlePlayerLeave", "d8/db9/a22482.html#a950cd355c808f40ca95c0e5a46bac0a2", null ],
+    [ "SendChangePhase", "d8/db9/a22482.html#aef84a9917d5f40cfff48acb45ffdf0aa", null ],
+    [ "SummonGO", "d8/db9/a22482.html#a08a54abf3668074b5878c165bd2f8ddd", null ],
+    [ "UpdateTowerState", "d8/db9/a22482.html#ad8cfefcc567346273914e8039b039835", null ],
+    [ "m_SummonedGOSideId", "d8/db9/a22482.html#aa034240d169c9ab7276786bb188abc70", null ],
+    [ "m_TowerState", "d8/db9/a22482.html#a703b68024362d13ceaf9012202b72e7d", null ]
 ];

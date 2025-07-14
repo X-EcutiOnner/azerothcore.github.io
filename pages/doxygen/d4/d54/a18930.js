@@ -1,6 +1,7 @@
 var a18930 =
 [
-    [ "boss_grobbulus_poison_cloudAI", "d1/d48/a18934.html", "d1/d48/a18934" ],
-    [ "boss_grobbulus_poison_cloud", "d4/d54/a18930.html#a2bb8ebec0ae79f20602e551f654e0761", null ],
-    [ "GetAI", "d4/d54/a18930.html#a34c68dd3e58b83c52f270eb1b194f2ed", null ]
+    [ "OnRemove", "d4/d54/a18930.html#a4e6a66934a01d01c50208459f6771353", null ],
+    [ "PrepareAuraScript", "d4/d54/a18930.html#a2320044c6c81a89af0fefd4f90c05bd5", null ],
+    [ "Register", "d4/d54/a18930.html#a4890d35f2b0889156a437c95e49f528c", null ],
+    [ "Validate", "d4/d54/a18930.html#a1b90f1288b3b45267edd4da2b3418b21", null ]
 ];

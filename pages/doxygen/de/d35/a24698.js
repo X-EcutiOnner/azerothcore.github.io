@@ -1,6 +1,6 @@
 var a24698 =
 [
-    [ "HandleKnockBack", "de/d35/a24698.html#ae50d143953074b83183482770046e131", null ],
-    [ "PrepareSpellScript", "de/d35/a24698.html#a73666b297ef8bbfd490fee6075b06b3a", null ],
-    [ "Register", "de/d35/a24698.html#a035df6b2e29aa0d2b5558e1cfef96ead", null ]
+    [ "CalculateAmount", "de/d35/a24698.html#a66fd870eff0f2a225630e26047d36225", null ],
+    [ "PrepareAuraScript", "de/d35/a24698.html#afde8a1734c57e01094077af3d3bdf757", null ],
+    [ "Register", "de/d35/a24698.html#a8e5b9dd71dfccb224e92784725f2a8a9", null ]
 ];

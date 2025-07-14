@@ -1,6 +1,11 @@
 var a25258 =
 [
-    [ "OnProc", "d2/d8f/a25258.html#ac7f0a86f2d0c5dcb945eb7ccb9cd5c88", null ],
-    [ "PrepareAuraScript", "d2/d8f/a25258.html#a6a7b011f151ff81672221b84eb4456b8", null ],
-    [ "Register", "d2/d8f/a25258.html#a15b05d352f94d2aabeb75a6bfd996fc6", null ]
+    [ "spell_gen_apply_aura_after_expiration", "d2/d8f/a25258.html#a391e5089eb034618c5e3edde26685a00", null ],
+    [ "AfterRemove", "d2/d8f/a25258.html#afea2221ceeebf90cf352084d8aacf7c9", null ],
+    [ "PrepareAuraScript", "d2/d8f/a25258.html#a494123635eda4c43d92a08c9c8cd5627", null ],
+    [ "Register", "d2/d8f/a25258.html#a3189ba65a1d9adf252d9f0dfb70abd16", null ],
+    [ "Validate", "d2/d8f/a25258.html#ad405128104d8a6528e8db96281ad0f0b", null ],
+    [ "_aura", "d2/d8f/a25258.html#a8a79aef777e1397b031149c54ae9d81d", null ],
+    [ "_effect", "d2/d8f/a25258.html#aa276a986ba9b67964ddeec56d6455cf9", null ],
+    [ "_spellId", "d2/d8f/a25258.html#a330f1311911ba9f3ebd704c7f9a09246", null ]
 ];

@@ -1,6 +1,6 @@
 var a17150 =
 [
-    [ "ShockVortexExplodeEvent", "df/dd2/a17150.html#ad972aed372822e10a476d1592192f3ea", null ],
-    [ "Execute", "df/dd2/a17150.html#a601f777052b8a142db49e9b0ab1fa81a", null ],
-    [ "_owner", "df/dd2/a17150.html#a76b1887e486969fcd7a236a8eb7a9a2a", null ]
+    [ "boss_drakkari_elementalAI", "d5/da4/a17154.html", "d5/da4/a17154" ],
+    [ "boss_drakkari_elemental", "df/dd2/a17150.html#a143dd5d52ea7bb3c3c1d96da45af81ee", null ],
+    [ "GetAI", "df/dd2/a17150.html#aab2f9c71ddb77164bd644d18b9e88313", null ]
 ];

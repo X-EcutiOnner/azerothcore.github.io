@@ -1,6 +1,6 @@
 var a18502 =
 [
-    [ "npc_crok_scourgebaneAI", "d4/dbe/a18506.html", "d4/dbe/a18506" ],
-    [ "npc_crok_scourgebane", "d5/ddc/a18502.html#a5f560e2c62aa618eadb5a11e2c9b90a3", null ],
-    [ "GetAI", "d5/ddc/a18502.html#afa4fcbb9d7281fbee3f8bc0f318d2e6b", null ]
+    [ "npc_suppresserAI", "d4/dbe/a18506.html", "d4/dbe/a18506" ],
+    [ "npc_suppresser", "d5/ddc/a18502.html#a5db40aecba3c45281fe963c6b2bd8d1e", null ],
+    [ "GetAI", "d5/ddc/a18502.html#a48869515abbac1491337a93b987231da", null ]
 ];

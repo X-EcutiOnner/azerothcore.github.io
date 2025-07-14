@@ -1,6 +1,6 @@
 var a11310 =
 [
-    [ "AuraProcHandler", "d0/d02/a11310.html#a1c0ad4a28c98d89a0afc2f8eeda9a421", null ],
-    [ "Call", "d0/d02/a11310.html#abc0c3be9dee08e995c282f20900f3c46", null ],
-    [ "_HandlerScript", "d0/d02/a11310.html#ada8d7a5659598b0092739a91ba2653bd", null ]
+    [ "EffectCalcAmountHandler", "d0/d02/a11310.html#a4fe66bbf0433e80b602683a278e3a709", null ],
+    [ "Call", "d0/d02/a11310.html#a4b5af2593dcb80930c6a45b7035767ca", null ],
+    [ "pEffectHandlerScript", "d0/d02/a11310.html#aa52c8c780dcc157e16d11f8222706f7a", null ]
 ];

@@ -1,10 +1,6 @@
 var a20442 =
 [
-    [ "npc_ulduar_harpoonfirestateAI", "d8/df3/a20442.html#acc6853671f37e35c746ffa3807ae10b2", null ],
-    [ "GetData", "d8/df3/a20442.html#ac23f2c901ef8c2160ceea43a0a15e185", null ],
-    [ "GetHarpoonGunIdForThisHFS", "d8/df3/a20442.html#af21c4d50febac02eb0572efe564a19b1", null ],
-    [ "Reset", "d8/df3/a20442.html#af300a8271762fe1b5582384114902ee8", null ],
-    [ "SetData", "d8/df3/a20442.html#abf485123f0a73aa84ad5178e23c4192e", null ],
-    [ "pInstance", "d8/df3/a20442.html#af576864ded6610daad973ac420d2fdb8", null ],
-    [ "repairPoints", "d8/df3/a20442.html#a5e9bcd384285b9046da93bd18804d07b", null ]
+    [ "npc_ulduar_mimiron_rocketAI", "df/d1b/a20446.html", "df/d1b/a20446" ],
+    [ "npc_ulduar_mimiron_rocket", "d8/df3/a20442.html#afcd90dbd893ec5e8424eb4197e7dec6d", null ],
+    [ "GetAI", "d8/df3/a20442.html#ad1c6162db0f69a1a6b5016ae505e5535", null ]
 ];

@@ -1,10 +1,26 @@
 var a07982 =
 [
-    [ "CreatureModel", "dc/da9/a07982.html#afd3bf8cb5ff39b862a946eab9731b251", null ],
-    [ "CreatureModel", "dc/da9/a07982.html#a02b05bf92c3341b90173b4aa998087ba", null ],
-    [ "CreatureDisplayID", "dc/da9/a07982.html#a0f48fde2c8438ecf411d7f80d3bca1a9", null ],
-    [ "DefaultInvisibleModel", "dc/da9/a07982.html#a4b729e5730c1fa0e5e4995f5dd65e9b3", null ],
-    [ "DefaultVisibleModel", "dc/da9/a07982.html#a49bec3e0996adfb6ec5bd5a9b6e38448", null ],
-    [ "DisplayScale", "dc/da9/a07982.html#ad842b73233b84c451710767f5e58f10a", null ],
-    [ "Probability", "dc/da9/a07982.html#a7736d6480dca65a68afb82a830b35874", null ]
+    [ "Corpse", "dc/da9/a07982.html#a2f7783ce9a9be85c3212fe86a349766d", null ],
+    [ "~Corpse", "dc/da9/a07982.html#a38729445517f20d2427c115364da045f", null ],
+    [ "AddToWorld", "dc/da9/a07982.html#a8c5111652979636e59e655eedf47f978", null ],
+    [ "BuildValuesUpdate", "dc/da9/a07982.html#ab30d247f740518529f51dc8bccdd8a75", null ],
+    [ "Create", "dc/da9/a07982.html#a34e2fc9d1f64dedd9da4428b532f145c", null ],
+    [ "Create", "dc/da9/a07982.html#a0f709c964269b438fcc2562868e72834", null ],
+    [ "DeleteFromDB", "dc/da9/a07982.html#af1d47fcea8651554eb239bb7d9816491", null ],
+    [ "DeleteFromDB", "dc/da9/a07982.html#ad94f5d1a37d734eda3ea92a315b2b5b3", null ],
+    [ "GetCellCoord", "dc/da9/a07982.html#a9345be6ba96317ba7efc9ef1bbbf9b44", null ],
+    [ "GetGhostTime", "dc/da9/a07982.html#a92e3fd5bebe85204829e5ff97bd3c44f", null ],
+    [ "GetOwnerGUID", "dc/da9/a07982.html#a50a75a8cf344fdb395d456d5cc947489", null ],
+    [ "GetType", "dc/da9/a07982.html#ade09571ad69b115ad968e11fd85c480c", null ],
+    [ "IsExpired", "dc/da9/a07982.html#a025404f6d3fcd7392960b48d636236d4", null ],
+    [ "LoadCorpseFromDB", "dc/da9/a07982.html#ab2a0905d1f24692065227e7bbfe4e5c4", null ],
+    [ "RemoveFromWorld", "dc/da9/a07982.html#a659f796ae11a5872226a6aa64323be59", null ],
+    [ "ResetGhostTime", "dc/da9/a07982.html#a28d222b38b604d2ecc566ef78b4eb8f9", null ],
+    [ "SaveToDB", "dc/da9/a07982.html#a10bff6f7d0e2597ef9db67aafd8249ea", null ],
+    [ "SetCellCoord", "dc/da9/a07982.html#abc0a2bc92c1344f9af6b53e8ecdf70f1", null ],
+    [ "_cellCoord", "dc/da9/a07982.html#a0196d9ba2d908262a65ff8fa8f34b76b", null ],
+    [ "loot", "dc/da9/a07982.html#a7f839a667b4a10014760a0f4451298b1", null ],
+    [ "lootRecipient", "dc/da9/a07982.html#a57a9b6a244d82265bd625bb465e6cc9d", null ],
+    [ "m_time", "dc/da9/a07982.html#a97122518c52f502e7c38753805d76472", null ],
+    [ "m_type", "dc/da9/a07982.html#a6017c84645e7e633871c92786ed25838", null ]
 ];

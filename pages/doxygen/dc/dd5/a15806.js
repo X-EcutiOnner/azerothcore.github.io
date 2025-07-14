@@ -1,7 +1,5 @@
 var a15806 =
 [
-    [ "HandleEffectRemove", "dc/dd5/a15806.html#a45ed6d3f1c80dcef3ee6c59e744f13c6", null ],
-    [ "PrepareAuraScript", "dc/dd5/a15806.html#a34b88963dd81e6a8855daaedb9c238d4", null ],
-    [ "Register", "dc/dd5/a15806.html#a7c0533650e772713233ea45b0264cbff", null ],
-    [ "Validate", "dc/dd5/a15806.html#a7690603bd7b01ca6da2a73ac8ed36114", null ]
+    [ "achievement_respect_your_elders", "dc/dd5/a15806.html#a2fd66ada0ff7482c00b2cb417a12e88e", null ],
+    [ "OnCheck", "dc/dd5/a15806.html#a770922be3ab19848f7a8f43a82d78b88", null ]
 ];

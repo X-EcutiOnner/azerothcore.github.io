@@ -1,6 +1,6 @@
 var a24034 =
 [
-    [ "HandleEffectRemove", "d1/d37/a24034.html#a2e73fd55dd7e6e658bc6c6623b650732", null ],
-    [ "PrepareAuraScript", "d1/d37/a24034.html#a9aabae3a6c57be9b17394d4a39fe24ec", null ],
-    [ "Register", "d1/d37/a24034.html#ac02217c103db141d75377e233e1e4242", null ]
+    [ "npc_fel_guard_houndAI", "d2/da5/a24038.html", "d2/da5/a24038" ],
+    [ "npc_fel_guard_hound", "d1/d37/a24034.html#a324179695f04a31b233b0ce94a46634c", null ],
+    [ "GetAI", "d1/d37/a24034.html#a5f5c20ec379994e7d0b65133d772e18f", null ]
 ];

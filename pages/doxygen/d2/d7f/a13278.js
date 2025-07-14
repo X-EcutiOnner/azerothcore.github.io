@@ -1,8 +1,9 @@
 var a13278 =
 [
-    [ "FilterTargets", "d2/d7f/a13278.html#a3282eb4c27b4256705bba47f4934c9b8", null ],
-    [ "HandleScriptEffect", "d2/d7f/a13278.html#a8622351d9984d2de69ccd67d37fd52b9", null ],
-    [ "PrepareSpellScript", "d2/d7f/a13278.html#a6083e35b4289b8a960dd6b223e1d02b5", null ],
-    [ "Register", "d2/d7f/a13278.html#a57b42bf7b94ef5b23092ed097ce016e8", null ],
-    [ "Validate", "d2/d7f/a13278.html#a5493864b068de82015bc157f3d0899b3", null ]
+    [ "npc_demonic_vapor_trail", "d2/d7f/a13278.html#a5bd024ea050372e982a183da59b45904", null ],
+    [ "JustSummoned", "d2/d7f/a13278.html#a2e18ab340bfcc5ae2f1c80b92b0b5d3d", null ],
+    [ "Reset", "d2/d7f/a13278.html#a9da762ab640abfaf5092034f284239af", null ],
+    [ "SpellHitTarget", "d2/d7f/a13278.html#a21e2223f58156da2fbe1803554623ecd", null ],
+    [ "UpdateAI", "d2/d7f/a13278.html#a90810fcfc4f27a457917cb79f4320fe3", null ],
+    [ "_timer", "d2/d7f/a13278.html#a8eb3d3a6da57b7f0a2db9ff7ca7b01af", null ]
 ];

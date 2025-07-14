@@ -1,20 +1,7 @@
 var a13722 =
 [
-    [ "boss_janalai", "db/db7/a13722.html#a6a049cb60b475b6c496862205d91c39f", null ],
-    [ "Boom", "db/db7/a13722.html#a902814fa472af7dde6096e6e1901bfd4", null ],
-    [ "CheckEvadeIfOutOfCombatArea", "db/db7/a13722.html#a9320a91d93f1fc82ec863ecf767c0a8a", null ],
-    [ "DamageDealt", "db/db7/a13722.html#af29b99a31b38516815390087d76c9408", null ],
-    [ "FireWall", "db/db7/a13722.html#ac3cd768db0abbbe4b03a08f214afc5ba", null ],
-    [ "HatchAllEggs", "db/db7/a13722.html#a7caee2554fe4f6211589e3346d1865fd", null ],
-    [ "JustDied", "db/db7/a13722.html#a1dd381dbf7bdc25e6a5fc519b132c5e4", null ],
-    [ "JustEngagedWith", "db/db7/a13722.html#af16f7db848ff2ddcf060ba770d0df836", null ],
-    [ "JustSummoned", "db/db7/a13722.html#a37aacd788ee8206a8ffbaad7ba702736", null ],
-    [ "Reset", "db/db7/a13722.html#a8f42138403eb2ef6d1737539dd352e80", null ],
-    [ "SetData", "db/db7/a13722.html#a48636a0186d7a09e4e98d960bab5530e", null ],
-    [ "SpawnBombs", "db/db7/a13722.html#ab352cc1bb7f2fc04505de30fe041c9bd", null ],
-    [ "StartBombing", "db/db7/a13722.html#a9a32cbc9bb1c1542a19aea32f9a9addf", null ],
-    [ "ThrowBombs", "db/db7/a13722.html#a9a927462879c6c81b2c919c62336a08c", null ],
-    [ "_isBombing", "db/db7/a13722.html#a881f564fe75051c1c10e645d3f0b243b", null ],
-    [ "_isFlameBreathing", "db/db7/a13722.html#a0fc79fcdfdd27baa047d22b86135a653", null ],
-    [ "_sideHatched", "db/db7/a13722.html#ae5cb2bcdfd54a66f62dc807946249528", null ]
+    [ "HandleScript", "db/db7/a13722.html#acd4373ab762d00d262984c36190d6f93", null ],
+    [ "PrepareSpellScript", "db/db7/a13722.html#a113216b272d0386f248a75bfcf30c6a3", null ],
+    [ "Register", "db/db7/a13722.html#abbf65c0cabb06141a5856210f5ce5ab8", null ],
+    [ "Validate", "db/db7/a13722.html#a5746fd6257dd10be58a61e0e8a2403be", null ]
 ];

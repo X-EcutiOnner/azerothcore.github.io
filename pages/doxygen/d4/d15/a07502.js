@@ -1,11 +1,15 @@
 var a07502 =
 [
-    [ "wrapper_func", "d4/d15/a07502.html#a4ebb895343c2cfae053a605aafe0e461", null ],
-    [ "CommandInvoker", "d4/d15/a07502.html#a6541779cccd36a87d65acc1b6a9725e2", null ],
-    [ "CommandInvoker", "d4/d15/a07502.html#ad941d54b994fbfe0f572348d18a790be", null ],
-    [ "CommandInvoker", "d4/d15/a07502.html#a6b693468375cc6b92870194e10eb4140", null ],
-    [ "operator bool", "d4/d15/a07502.html#aa00bfcf3938781f5e454f7acddb12e7e", null ],
-    [ "operator()", "d4/d15/a07502.html#a611756a2205ffb2bccabb53929a4644b", null ],
-    [ "_handler", "d4/d15/a07502.html#af9bece7be346ed85c5b45cc07c7b176a", null ],
-    [ "_wrapper", "d4/d15/a07502.html#a1605d492889200f2d18d6759882913aa", null ]
+    [ "Print", "d4/d15/a07502.html#a7a3f746595d9ca126747f5e0ba52c71b", null ],
+    [ "CliHandler", "d4/d15/a07502.html#a6a7ba928db9d41743d7cebd1ad98b084", null ],
+    [ "GetAcoreString", "d4/d15/a07502.html#ab12ec41c55bc5f92461abff538a76b66", null ],
+    [ "GetNameLink", "d4/d15/a07502.html#ae879bbfa69992caa7a0b1b2b3c7d939c", null ],
+    [ "GetSessionDbcLocale", "d4/d15/a07502.html#a610f7431dc7b064c964e0d446160d19f", null ],
+    [ "GetSessionDbLocaleIndex", "d4/d15/a07502.html#a5a2118d9227aa53818d736e387d77dea", null ],
+    [ "HasSession", "d4/d15/a07502.html#a1cd4aabe4c61e3899a1e6d6785742abe", null ],
+    [ "needReportToTarget", "d4/d15/a07502.html#ad8c4ee6e45afff55d94dea9704bd2097", null ],
+    [ "ParseCommands", "d4/d15/a07502.html#abbd02247d6094bf39b2791ba45e9942e", null ],
+    [ "SendSysMessage", "d4/d15/a07502.html#a636be10a282a8d100b807dac119b3ff6", null ],
+    [ "m_callbackArg", "d4/d15/a07502.html#aa1fafd68fca180506cc15680b695db9e", null ],
+    [ "m_print", "d4/d15/a07502.html#aadeaa84ce5d26951f506a2656c1d64d2", null ]
 ];

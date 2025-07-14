@@ -1,8 +1,11 @@
 var a23930 =
 [
-    [ "npc_ancestral_wolfAI", "d6/d03/a23930.html#a59ccca7093575f4bcac57a4751d977d4", null ],
-    [ "MoveInLineOfSight", "d6/d03/a23930.html#aec5788f0be3c1dcb63b3e61b50ae39c1", null ],
-    [ "Reset", "d6/d03/a23930.html#a9778a1648ca0007f7daf4ee98308d8d2", null ],
-    [ "WaypointReached", "d6/d03/a23930.html#a2b553c29823e5ef888ee02a3ed413386", null ],
-    [ "ryga", "d6/d03/a23930.html#ac238214604720e298124b58c35d58e05", null ]
+    [ "boss_pathaleon_the_calculator", "d6/d03/a23930.html#a679dc3ccc23c6def44e0f0669822e146", null ],
+    [ "CanAIAttack", "d6/d03/a23930.html#abcbb5f1236ebfbec680241ae8c5cbb00", null ],
+    [ "DoAction", "d6/d03/a23930.html#a814cb56cc18277cb4adbd7dc8a82b06d", null ],
+    [ "JustDied", "d6/d03/a23930.html#a0224d47bc85fe54c0cfded69b55e57b3", null ],
+    [ "JustEngagedWith", "d6/d03/a23930.html#a3ba024e86ceb83ebb26afcc11a75791d", null ],
+    [ "KilledUnit", "d6/d03/a23930.html#a899fd2e1e01ac1347e43bcb290babc5b", null ],
+    [ "Reset", "d6/d03/a23930.html#adc48067c3656bf768c3013ff266565c0", null ],
+    [ "_isEnraged", "d6/d03/a23930.html#ab875fb787d71eaf008b7267c81a2a4df", null ]
 ];

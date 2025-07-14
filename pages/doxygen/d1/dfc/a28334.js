@@ -1,8 +1,7 @@
 var a28334 =
 [
-    [ "MapDifficulty", "d1/dfc/a28334.html#abf514d1105541d5c5aaf52a91330a1e2", null ],
-    [ "MapDifficulty", "d1/dfc/a28334.html#a227aec55b5b774076882ea34f70d5d88", null ],
-    [ "hasErrorMessage", "d1/dfc/a28334.html#a8dd5436eaec4d0e67f8b41c8dd071148", null ],
-    [ "maxPlayers", "d1/dfc/a28334.html#af82ad844bc4ac9585cb9df1963697e1b", null ],
-    [ "resetTime", "d1/dfc/a28334.html#a7190131620b9eee0897ac7b4dd62949e", null ]
+    [ "Id", "d1/dfc/a28334.html#a5e2447dd0f6b60e322105d8fcafd0010", null ],
+    [ "MaxLevel", "d1/dfc/a28334.html#a0392e52a26bb4e1d1927fa7f76c674b8", null ],
+    [ "Modifier", "d1/dfc/a28334.html#a5ce5b18749d3c75878b310bdc8427b1f", null ],
+    [ "StatMod", "d1/dfc/a28334.html#ab639dd94c53707ca160e13f71342730d", null ]
 ];

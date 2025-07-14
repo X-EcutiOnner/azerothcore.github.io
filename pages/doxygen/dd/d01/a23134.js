@@ -1,9 +1,15 @@
 var a23134 =
 [
-    [ "FilterTargets", "dd/d01/a23134.html#a9049c113d65b15a9a8e1143980a84b23", null ],
-    [ "HandleDummy", "dd/d01/a23134.html#a21fd59ba177fd7b04eb1fcafe869f33a", null ],
-    [ "Load", "dd/d01/a23134.html#a8cad82701e0147e14f826243175e1c32", null ],
-    [ "PrepareSpellScript", "dd/d01/a23134.html#aa05839a8dd785a2472e8e5f3a9fc58b0", null ],
-    [ "Register", "dd/d01/a23134.html#a0e7e246c322b89c3b6ee08797984f7e6", null ],
-    [ "_targetNumber", "dd/d01/a23134.html#a34f80edf782ade371e7a6fc908b47b4f", null ]
+    [ "boss_hydross_the_unstable", "dd/d01/a23134.html#a8e385f4f7f448033b00828540aa16cde", null ],
+    [ "JustDied", "dd/d01/a23134.html#ad05fa00eade9614ed54b03a9a4d5d348", null ],
+    [ "JustEngagedWith", "dd/d01/a23134.html#a4fd2138ce9962d89410b57702d7df33d", null ],
+    [ "JustReachedHome", "dd/d01/a23134.html#a03cbe48effc4cd3a2821312e60578ed4", null ],
+    [ "JustSummoned", "dd/d01/a23134.html#a3e9031d95c9e62cbd83eeba4af6c965a", null ],
+    [ "KilledUnit", "dd/d01/a23134.html#a252d3abdf24c06922c88823bc5e535f3", null ],
+    [ "Reset", "dd/d01/a23134.html#a0bcad41c74800ab58df8b5ea54d2ec8e", null ],
+    [ "SetForm", "dd/d01/a23134.html#ac80b0611533998d15406d45385d37629", null ],
+    [ "SummonedCreatureDespawn", "dd/d01/a23134.html#afe4b76f528045506586f8289eaee27aa", null ],
+    [ "SummonMovementInform", "dd/d01/a23134.html#af74b63bf239de38f8dd04e69a6ea2b54", null ],
+    [ "SummonTaintedElementalOOC", "dd/d01/a23134.html#a219094dc5a81acb7d7ae86d5d7945da8", null ],
+    [ "_recentlySpoken", "dd/d01/a23134.html#acfd0f1a6331b08659c5fffa7850d30b4", null ]
 ];

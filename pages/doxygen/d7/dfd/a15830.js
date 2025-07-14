@@ -1,7 +1,6 @@
 var a15830 =
 [
-    [ "instance_azjol_nerub_InstanceScript", "d7/dfd/a15830.html#a886ed4c1485fdedcc176341210eee31a", null ],
-    [ "OnCreatureCreate", "d7/dfd/a15830.html#a7a99d985a4b465ae87c04211a7a83a77", null ],
-    [ "OnGameObjectCreate", "d7/dfd/a15830.html#a1ef3dc88400345998d03f3c993b9a181", null ],
-    [ "OnGameObjectRemove", "d7/dfd/a15830.html#a3a2776b83272d81de9ddcb0c90ac881c", null ]
+    [ "ModDestHeight", "d7/dfd/a15830.html#a8bda9327c4244af41c513528ad5c818c", null ],
+    [ "PrepareSpellScript", "d7/dfd/a15830.html#aba5a03c94fa5d87c46a91369875c0ab2", null ],
+    [ "Register", "d7/dfd/a15830.html#a62b0ce71caeff96705b15aa240ddd09f", null ]
 ];

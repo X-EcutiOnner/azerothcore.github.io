@@ -1,6 +1,6 @@
 var a24846 =
 [
-    [ "CheckProc", "de/da7/a24846.html#a21cda631d861161c370a44a2fd2fd2f7", null ],
-    [ "PrepareAuraScript", "de/da7/a24846.html#a861caa47c502c42fa84d9f9de74df024", null ],
-    [ "Register", "de/da7/a24846.html#ab4275de186b6841a1f424863cb6c128c", null ]
+    [ "CalculateAmount", "de/da7/a24846.html#a9e54ae3e90ee8bf0fab966a497f761b3", null ],
+    [ "PrepareAuraScript", "de/da7/a24846.html#a51f9c0f92100c02e1fe7d127fecd902f", null ],
+    [ "Register", "de/da7/a24846.html#a5c89e7e53a7f41665ff25d57df8f7afb", null ]
 ];

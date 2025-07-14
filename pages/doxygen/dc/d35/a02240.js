@@ -1,6 +1,8 @@
 var a02240 =
 [
-    [ "instance_culling_of_stratholme", "d4/ddf/a14744.html", "d4/ddf/a14744" ],
-    [ "instance_culling_of_stratholme::instance_culling_of_stratholme_InstanceMapScript", "df/dd6/a14748.html", "df/dd6/a14748" ],
-    [ "AddSC_instance_culling_of_stratholme", "dc/d35/a02240.html#adb1b78926a09436f6897c9050ef2d9ef", null ]
+    [ "SelectableGameObjectAI", "d4/dfc/a06182.html", "d4/dfc/a06182" ],
+    [ "GameObjectAIFactory< REAL_GO_AI >", "d4/dc1/a06186.html", "d4/dc1/a06186" ],
+    [ "sGameObjectAIRegistry", "dc/d35/a02240.html#ac9d2663769f7235631c142a4346922a9", null ],
+    [ "GameObjectAICreator", "dc/d35/a02240.html#abf0182bf1e43c6ea243acb940a03e6fa", null ],
+    [ "GameObjectAIRegistry", "dc/d35/a02240.html#a9482a5649b9d911e3d058c099101f929", null ]
 ];

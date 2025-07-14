@@ -1,11 +1,13 @@
 var a23178 =
 [
-    [ "boss_ahune", "d2/d85/a23178.html#aa3d15e1ab37843761d9f7c56d2e5a319", null ],
-    [ "DoAction", "d2/d85/a23178.html#a9e197e8a5ecbad8487c7bad7647e6d2c", null ],
-    [ "Emerge", "d2/d85/a23178.html#a6404a8255566f2eaa061a89025e2bdcd", null ],
-    [ "EnterEvadeMode", "d2/d85/a23178.html#a2b906881621e59143a916c588beb70e7", null ],
-    [ "ExecuteEvent", "d2/d85/a23178.html#a46b477aef635de1d3ec88baa2465089f", null ],
-    [ "JustDied", "d2/d85/a23178.html#af2fc7c071321653a644ee569ead67d63", null ],
-    [ "JustEngagedWith", "d2/d85/a23178.html#aaffc4f54544c8aa4529b249560ddeeec", null ],
-    [ "Submerge", "d2/d85/a23178.html#aad68758720cc1cb703f8f2dc72c09af2", null ]
+    [ "npc_inner_demon", "d2/d85/a23178.html#a12063a0125e0e9b5ba5a73f669bfcd84", null ],
+    [ "CanAIAttack", "d2/d85/a23178.html#a7498fd32b0ace832b38dc624d07478ed", null ],
+    [ "CanBeSeen", "d2/d85/a23178.html#a5e61d5fc45bf95efaa06f81df58b5fab", null ],
+    [ "CanReceiveDamage", "d2/d85/a23178.html#a7b0bc55f8dfbba2dc3a3b7d314083bc2", null ],
+    [ "IsSummonedBy", "d2/d85/a23178.html#a5ed405dd9315cb255d14d3e5f808dc9d", null ],
+    [ "JustDied", "d2/d85/a23178.html#a15ab3cd6576055ec7ba29a5ed44e73db", null ],
+    [ "OnCalculateMeleeDamageReceived", "d2/d85/a23178.html#ae95022548b44b23ef93fae24729b5af5", null ],
+    [ "OnCalculatePeriodicTickReceived", "d2/d85/a23178.html#a546281a2257d0407d294fba1f7d3426f", null ],
+    [ "OnCalculateSpellDamageReceived", "d2/d85/a23178.html#aa40ee81a4456e1a1f7254d2169f50e88", null ],
+    [ "UpdateAI", "d2/d85/a23178.html#a977a76b54c4eae6461559d7b15cfc4b2", null ]
 ];

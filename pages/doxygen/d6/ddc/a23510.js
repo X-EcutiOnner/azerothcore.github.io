@@ -1,7 +1,8 @@
 var a23510 =
 [
-    [ "FilterTargets", "d6/ddc/a23510.html#a921450a09e51585beb9dd2ce9b00bac9", null ],
-    [ "HandleHit", "d6/ddc/a23510.html#adb30857a5a320bb24b8cc0bcb9d60040", null ],
-    [ "PrepareSpellScript", "d6/ddc/a23510.html#a376618b9811b2e1ec18697431094e22f", null ],
-    [ "Register", "d6/ddc/a23510.html#ae7f4f54446d5a1ebb20d49ab9deaed81", null ]
+    [ "boss_broggok", "d6/ddc/a23510.html#ae20c04793116d3e8eab62d2ee27010df", null ],
+    [ "DoAction", "d6/ddc/a23510.html#af5de5a1747c502f72af015c09d050354", null ],
+    [ "JustEngagedWith", "d6/ddc/a23510.html#a084e3c37a0218d47c8e39b196fc6746a", null ],
+    [ "JustSummoned", "d6/ddc/a23510.html#a0bf2d75f7889542a9e48689b8d080a1e", null ],
+    [ "Reset", "d6/ddc/a23510.html#af11b4dc2aee8064a1eaad334d93e6de0", null ]
 ];

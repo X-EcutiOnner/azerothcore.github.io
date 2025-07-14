@@ -1,6 +1,8 @@
 var a12010 =
 [
-    [ "boss_pyroguard_emberseerAI", "d2/d2c/a12014.html", "d2/d2c/a12014" ],
-    [ "boss_pyroguard_emberseer", "dd/dbc/a12010.html#af9f55c012880404e2e6f8278763af194", null ],
-    [ "GetAI", "dd/dbc/a12010.html#a060c52f53760e60a022a7034dd785b1d", null ]
+    [ "boss_drakkisathAI", "dd/dbc/a12010.html#a7c347bcdb092afcd64b481b87d0895ea", null ],
+    [ "JustEngagedWith", "dd/dbc/a12010.html#a09f7c704579bdb8dad951ce63b5a54c9", null ],
+    [ "UpdateAI", "dd/dbc/a12010.html#a02ffab01744c0dbb8b5a60794e82bdb0", null ],
+    [ "_conflagrateTarget", "dd/dbc/a12010.html#a6a74b74e4e4b45aec86f70a5211ddd28", null ],
+    [ "_conflagrateThreat", "dd/dbc/a12010.html#aae3762b27c3d99b32f47293c544e4afe", null ]
 ];

@@ -1,49 +1,43 @@
 var a04349 =
 [
-    [ "IntervalTimer", "d5/d8d/a05556.html", "d5/d8d/a05556" ],
-    [ "TimeTracker", "d9/d3f/a05560.html", "d9/d3f/a05560" ],
-    [ "TimeTrackerSmall", "d7/d1c/a05564.html", "d7/d1c/a05564" ],
-    [ "PeriodicTimer", "db/d7d/a05568.html", "db/d7d/a05568" ],
-    [ "TimeFormat", "d6/ddf/a04349.html#a66f42ce7d50508145628b7347fc8694c", [
-      [ "FullText", "d6/ddf/a04349.html#a66f42ce7d50508145628b7347fc8694ca1bcf159aa5ff6c1a04b8db08698d6e84", null ],
-      [ "ShortText", "d6/ddf/a04349.html#a66f42ce7d50508145628b7347fc8694ca63d151a6eecaa685919cba8fe362c3f3", null ],
-      [ "Numeric", "d6/ddf/a04349.html#a66f42ce7d50508145628b7347fc8694ca87322391cc6e8948ce9fd5d6cb84fced", null ]
+    [ "DataHeader", "d6/ddf/a04349.html#a042491ef36459046f3866e90f15aae0d", null ],
+    [ "MTScriptName", "d6/ddf/a04349.html#a772413d8818d681e2261c99f58e1268c", null ],
+    [ "RegisterMagistersTerraceCreatureAI", "d6/ddf/a04349.html#a679c3c5e0520ffcbc6ca0827cddafeb0", null ],
+    [ "CreatureTexts", "d6/ddf/a04349.html#a98b0f0ed8e23c5a3936ff695705d37e9", [
+      [ "SAY_KALECGOS_SPAWN", "d6/ddf/a04349.html#a98b0f0ed8e23c5a3936ff695705d37e9afb263d1cd011b49bf7cda725281fa940", null ]
     ] ],
-    [ "TimeOutput", "d6/ddf/a04349.html#aea6a25b38e19ecccfdefaf43a55575f3", [
-      [ "Days", "d6/ddf/a04349.html#aea6a25b38e19ecccfdefaf43a55575f3ae807d3ccf8d24c8c1a3d86db5da78da8", null ],
-      [ "Hours", "d6/ddf/a04349.html#aea6a25b38e19ecccfdefaf43a55575f3a6a7e73161603d87b26a8eac49dab0a9c", null ],
-      [ "Minutes", "d6/ddf/a04349.html#aea6a25b38e19ecccfdefaf43a55575f3af670ea66cfb0e90bd6090472ad692694", null ],
-      [ "Seconds", "d6/ddf/a04349.html#aea6a25b38e19ecccfdefaf43a55575f3a8f19a8c7566af54ea8981029730e5465", null ],
-      [ "Milliseconds", "d6/ddf/a04349.html#aea6a25b38e19ecccfdefaf43a55575f3a38f246763036ccaeba7db6d563c4d821", null ],
-      [ "Microseconds", "d6/ddf/a04349.html#aea6a25b38e19ecccfdefaf43a55575f3a64068ed47d979c5efa036f027d656433", null ]
+    [ "InstanceEventIds", "d6/ddf/a04349.html#ab51342a4a8f5976e51b0074f9a5746f8", [
+      [ "EVENT_SPAWN_KALECGOS", "d6/ddf/a04349.html#ab51342a4a8f5976e51b0074f9a5746f8a2e000620a7210a65a43ee87d48b5d283", null ]
     ] ],
-    [ "GetApplicationStartTime", "d6/ddf/a04349.html#adec009178350863003fd76229068a1e5", null ],
-    [ "GetDayInMonth", "d6/ddf/a04349.html#ab62428e79e66b0b1217643f702022113", null ],
-    [ "GetDayInWeek", "d6/ddf/a04349.html#a878fcd6ea240276da886e917b2a187cb", null ],
-    [ "GetDayInYear", "d6/ddf/a04349.html#a7af06cf6576e2fff65b7552227589549", null ],
-    [ "GetEpochTime", "d6/ddf/a04349.html#ac26feb8a0cb9d57ffe71c1a86ae8108e", null ],
-    [ "GetHours", "d6/ddf/a04349.html#a644d31badd91d21f970b5369c64a8f56", null ],
-    [ "GetLocalHourTimestamp", "d6/ddf/a04349.html#adcb393a66882383e4038b040ea9fa983", null ],
-    [ "GetMinutes", "d6/ddf/a04349.html#a3ec1cee2adf92f517725493c71bb3291", null ],
-    [ "GetMonth", "d6/ddf/a04349.html#a046227c8517de892fe18e61451d37735", null ],
-    [ "getMSTime", "d6/ddf/a04349.html#a4476c8e13ea790c3536f2749105f9cb9", null ],
-    [ "GetMSTimeDiff", "d6/ddf/a04349.html#a580dc71f654c9783c7f2637a871222fa", null ],
-    [ "getMSTimeDiff", "d6/ddf/a04349.html#a5f88e45f1a432d5a2613a65936a4a19a", null ],
-    [ "getMSTimeDiff", "d6/ddf/a04349.html#ad9f0d19bcdfb695da4f399b36471c7de", null ],
-    [ "GetMSTimeDiffToNow", "d6/ddf/a04349.html#a387558601f9e94d0329ef34178921dd4", null ],
-    [ "GetMSTimeDiffToNow", "d6/ddf/a04349.html#a23a2c8663a05f2b03a6f85501972e8c0", null ],
-    [ "GetNextTimeWithDayAndHour", "d6/ddf/a04349.html#afe6fb6cf9a0829f40c9ba45356eec815", null ],
-    [ "GetNextTimeWithMonthAndHour", "d6/ddf/a04349.html#af415b3b5ef693e8bd9a8b7f5088ab704", null ],
-    [ "GetSeconds", "d6/ddf/a04349.html#a4f3e7cea01806c4633123ba434dc604a", null ],
-    [ "GetTimeMS", "d6/ddf/a04349.html#a002742f64e7fe0b13f08d610eca4d672", null ],
-    [ "GetYear", "d6/ddf/a04349.html#a2b1e67f5fbe66e0e8dd4dd3b1e2c9933", null ],
-    [ "localtime_r", "d6/ddf/a04349.html#a4e8039ecceaa7d06aa1f5037265b6ad2", null ],
-    [ "LocalTimeToUTCTime", "d6/ddf/a04349.html#abb2429e5a8226c49ea8909ad21d2a36b", null ],
-    [ "TimeBreakdown", "d6/ddf/a04349.html#ab6a946894ec0cb9fa9bf76afa8e7fec8", null ],
-    [ "TimeStringTo", "d6/ddf/a04349.html#a14270e0cda30d83961a8754d470fe8c1", null ],
-    [ "TimeToHumanReadable", "d6/ddf/a04349.html#a7a7a22a2c3d65e66ce24c63b7d5877c1", null ],
-    [ "TimeToTimestampStr", "d6/ddf/a04349.html#a0f9116e063a085b763f9c19ba37f9a44", null ],
-    [ "ToTimeString", "d6/ddf/a04349.html#a457da2bcb5a3b5158a4fee8cbf257e32", null ],
-    [ "ToTimeString", "d6/ddf/a04349.html#af9e00ccf9512f0bcdd1289d7e876e9e6", null ],
-    [ "ToTimeString", "d6/ddf/a04349.html#a5922471809ac8688a8146982524ce0fc", null ]
+    [ "MovementData", "d6/ddf/a04349.html#aed5999eedcf185b65654ded53dc601d3", [
+      [ "PATH_KALECGOS_FLIGHT", "d6/ddf/a04349.html#aed5999eedcf185b65654ded53dc601d3a6b4587e5a1bc789ca7ac972cd1e54222", null ]
+    ] ],
+    [ "MTCreatures", "d6/ddf/a04349.html#a402e3e622f03a1eed719db587960e18b", [
+      [ "NPC_DELRISSA", "d6/ddf/a04349.html#a402e3e622f03a1eed719db587960e18ba5d0ab26a56a5212e4bbd0d2bd26b7127", null ],
+      [ "NPC_FEL_CRYSTAL", "d6/ddf/a04349.html#a402e3e622f03a1eed719db587960e18bad5c5384a148b47a2c59d671014db6d35", null ],
+      [ "NPC_KAEL_THAS", "d6/ddf/a04349.html#a402e3e622f03a1eed719db587960e18ba1cc740bbad14c06e879fe922c561957c", null ],
+      [ "NPC_PHOENIX", "d6/ddf/a04349.html#a402e3e622f03a1eed719db587960e18ba93173f126c0dd252197a841ed9321048", null ],
+      [ "NPC_PHOENIX_EGG", "d6/ddf/a04349.html#a402e3e622f03a1eed719db587960e18ba37c8f15ed65139715f18d3d09d17a970", null ],
+      [ "NPC_KALECGOS", "d6/ddf/a04349.html#a402e3e622f03a1eed719db587960e18ba7434f1d158db88e1befb3cf56e801613", null ]
+    ] ],
+    [ "MTData", "d6/ddf/a04349.html#abdc560adf84eb5994b289f952995d059", [
+      [ "DATA_SELIN_FIREHEART", "d6/ddf/a04349.html#abdc560adf84eb5994b289f952995d059afd8c24b35ae0b3270c6446ed912864b8", null ],
+      [ "DATA_VEXALLUS", "d6/ddf/a04349.html#abdc560adf84eb5994b289f952995d059a7d511ceaf5f4b75dc6bf642fd4c002c3", null ],
+      [ "DATA_DELRISSA", "d6/ddf/a04349.html#abdc560adf84eb5994b289f952995d059af977a73eff024af1676aeb0fe6503c2f", null ],
+      [ "DATA_KAELTHAS", "d6/ddf/a04349.html#abdc560adf84eb5994b289f952995d059a9459cb9bb83f7a23115debb607cb25a3", null ],
+      [ "MAX_ENCOUNTER", "d6/ddf/a04349.html#abdc560adf84eb5994b289f952995d059a7913656ef56deb3793c0c5f3d999d80d", null ],
+      [ "DATA_KALECGOS", "d6/ddf/a04349.html#abdc560adf84eb5994b289f952995d059a053405afb85048224c161919aebd795d", null ],
+      [ "DATA_ESCAPE_ORB", "d6/ddf/a04349.html#abdc560adf84eb5994b289f952995d059a6c76e50a19d944f081dbe8c87034974f", null ],
+      [ "DATA_KAEL_INTRO", "d6/ddf/a04349.html#abdc560adf84eb5994b289f952995d059ad20d84b9105a6e9e87a44161e54c1d15", null ],
+      [ "MAX_PERSISTENT_DATA", "d6/ddf/a04349.html#abdc560adf84eb5994b289f952995d059ade8daf2d97d89b7bc637c9b5550e0449", null ]
+    ] ],
+    [ "MTGameObjects", "d6/ddf/a04349.html#a2b0621589774d4cc3afba085bc39867d", [
+      [ "GO_VEXALLUS_DOOR", "d6/ddf/a04349.html#a2b0621589774d4cc3afba085bc39867da660139f819500a248283735c336cf4e7", null ],
+      [ "GO_SELIN_DOOR", "d6/ddf/a04349.html#a2b0621589774d4cc3afba085bc39867da7ccc42cdb5402db90adb2298e29d4e64", null ],
+      [ "GO_SELIN_ENCOUNTER_DOOR", "d6/ddf/a04349.html#a2b0621589774d4cc3afba085bc39867da8b457fe7255a77748f94f13974791086", null ],
+      [ "GO_DELRISSA_DOOR", "d6/ddf/a04349.html#a2b0621589774d4cc3afba085bc39867da2ec22f0e669bef8a7bde879208fa8f6a", null ],
+      [ "GO_KAEL_DOOR", "d6/ddf/a04349.html#a2b0621589774d4cc3afba085bc39867dacafc1a0b7422ea5365367a4c964fee25", null ],
+      [ "GO_ESCAPE_ORB", "d6/ddf/a04349.html#a2b0621589774d4cc3afba085bc39867daf0d8c802b02ba5d48c9d4126534812fd", null ]
+    ] ],
+    [ "GetMagistersTerraceAI", "d6/ddf/a04349.html#ace003ea34649a460da4afbd65b38c987", null ]
 ];

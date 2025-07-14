@@ -1,12 +1,8 @@
 var a22638 =
 [
-    [ "npc_maiev_illidan", "db/d4b/a22638.html#a0d19d9bb58c44662cdfb66a8fe373a60", null ],
-    [ "DamageTaken", "db/d4b/a22638.html#a780cc558c483efa3293d798cc6048a33", null ],
-    [ "DoAction", "db/d4b/a22638.html#a53607a158edf8fd772908b5d7af6edf1", null ],
-    [ "IsSummonedBy", "db/d4b/a22638.html#a1bf4f2f29132c5132e7903d089ace6e2", null ],
-    [ "JustEngagedWith", "db/d4b/a22638.html#ad1728d7d8b1b5f9db8db4d811c2ba630", null ],
-    [ "Reset", "db/d4b/a22638.html#a100db757c89634a58b9382216e2791ec", null ],
-    [ "SpellHit", "db/d4b/a22638.html#aa4d6626d6130a88519f86cfe70d9fb95", null ],
-    [ "UpdateAI", "db/d4b/a22638.html#a269e4a8f79b508e2da61cd5e2dc34664", null ],
-    [ "instance", "db/d4b/a22638.html#ad41b6deb9406232629ad60ba66cfac6b", null ]
+    [ "npc_anzu_spirit", "db/d4b/a22638.html#adb1b66d6bf6ec1991465f85a504397d5", null ],
+    [ "IsSummonedBy", "db/d4b/a22638.html#a26f0928593f75d242c8bbcc541f7b59b", null ],
+    [ "Reset", "db/d4b/a22638.html#acef3f7093f93b6c227d145523cdc487a", null ],
+    [ "UpdateAI", "db/d4b/a22638.html#a9866d91ffc04548a96cfcdc3a5c7496a", null ],
+    [ "_scheduler", "db/d4b/a22638.html#ad14937df9ddddabcf96e2d1104ca153c", null ]
 ];

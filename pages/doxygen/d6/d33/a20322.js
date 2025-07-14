@@ -1,6 +1,7 @@
 var a20322 =
 [
-    [ "npc_ulduar_aerial_command_unitAI", "d9/d44/a20326.html", "d9/d44/a20326" ],
-    [ "npc_ulduar_aerial_command_unit", "d6/d33/a20322.html#ac0c1ecef78b92dd4ae072f6eeca9f733", null ],
-    [ "GetAI", "d6/d33/a20322.html#a406e828a902d75bb1946fd8f5090044f", null ]
+    [ "HandleScript", "d6/d33/a20322.html#a760bb60198017605111d02af98c827b1", null ],
+    [ "PrepareSpellScript", "d6/d33/a20322.html#a6128956f1037b62fff2e6f10ec22d956", null ],
+    [ "Register", "d6/d33/a20322.html#ae445c98f5543df2f45b77b6cd54d58e7", null ],
+    [ "Validate", "d6/d33/a20322.html#a3bb460d50928bd1b57566dd6a50fa5cd", null ]
 ];

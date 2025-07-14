@@ -1,5 +1,6 @@
 var a13942 =
 [
-    [ "npc_brain_wash_totem", "d4/d2c/a13942.html#acdecde614ba82d60ee4a10ace8545fdf", null ],
-    [ "EnterEvadeMode", "d4/d2c/a13942.html#abd32e3210cc384c0c365826ca1fbae1e", null ]
+    [ "OnEffect", "d4/d2c/a13942.html#a50c7e1c65315b5d46749b335e85e15e4", null ],
+    [ "PrepareSpellScript", "d4/d2c/a13942.html#ab99c723bb71c5fdd844898eaf21cc520", null ],
+    [ "Register", "d4/d2c/a13942.html#a892faa83f748d36c9c8638a12ac7f2aa", null ]
 ];

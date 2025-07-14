@@ -1,9 +1,6 @@
 var a12982 =
 [
-    [ "npc_risen_guardianAI", "d0/d4e/a12982.html#a50eb3de52205fc1bbc6936f0708c68a6", null ],
-    [ "IsSummonedBy", "d0/d4e/a12982.html#ad9f45b9007c1ff74d0f725fbf7f00abe", null ],
-    [ "KilledUnit", "d0/d4e/a12982.html#abc7afaa685a436b34ff76edcc6c25e54", null ],
-    [ "Gandling", "d0/d4e/a12982.html#a93013b905260aa51341b22d1627cc986", null ],
-    [ "instance", "d0/d4e/a12982.html#a96f1835989f646c708b8ef0cc9999e63", null ],
-    [ "room", "d0/d4e/a12982.html#a5862a184b6daa92da133cc6c360a993d", null ]
+    [ "npc_gothik_the_harvesterAI", "d8/d05/a12986.html", "d8/d05/a12986" ],
+    [ "npc_gothik_the_harvester", "d0/d4e/a12982.html#a44a8a900e195308802e76c5b550b577a", null ],
+    [ "GetAI", "d0/d4e/a12982.html#a97d99101d8c6eca7cf59e9920725efbc", null ]
 ];

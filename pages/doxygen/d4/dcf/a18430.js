@@ -1,6 +1,6 @@
 var a18430 =
 [
-    [ "HandleScript", "d4/dcf/a18430.html#a930b8a515b5d156c16925dc218cf8172", null ],
-    [ "PrepareSpellScript", "d4/dcf/a18430.html#a892b0ba0f6541b3557a0200be5028479", null ],
-    [ "Register", "d4/dcf/a18430.html#a1eb85bc675a89ef9679e673c1fea9a08", null ]
+    [ "ManaVoidSelector", "d4/dcf/a18430.html#aa57a0960e7ce90b8de23f01ae72a1fff", null ],
+    [ "operator()", "d4/dcf/a18430.html#a464d63f2cf8cfe7d0c6bb5293e788a28", null ],
+    [ "_source", "d4/dcf/a18430.html#ae45c999db51bc153bba7f2fdfb99f6ba", null ]
 ];

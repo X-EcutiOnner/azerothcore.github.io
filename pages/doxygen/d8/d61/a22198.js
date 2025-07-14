@@ -1,8 +1,9 @@
 var a22198 =
 [
-    [ "npc_freed_protodrakeAI", "d8/d61/a22198.html#a9e80808035be749c87a1170f37ac3daf", null ],
-    [ "MovementInform", "d8/d61/a22198.html#af056f3c12a314acd8a7e8c6c381b9436", null ],
-    [ "Reset", "d8/d61/a22198.html#ab5781438300442bb7bcb4510aec9d233", null ],
-    [ "UpdateAI", "d8/d61/a22198.html#a9e83b133444e977c35e90b700149472c", null ],
-    [ "events", "d8/d61/a22198.html#ac2e34b9a53ff55d177327ec95dca5466", null ]
+    [ "npc_engineer_heliceAI", "d8/d61/a22198.html#ab9d82a7d2886a0cc4edbc2f4c4c81341", null ],
+    [ "JustDied", "d8/d61/a22198.html#aba224727b86a2bfc39a47b70b424ccef", null ],
+    [ "Reset", "d8/d61/a22198.html#ade3f7f526dd8973c155aafb939db3778", null ],
+    [ "UpdateAI", "d8/d61/a22198.html#a1c333511dd6e82cd22af111e12a701c4", null ],
+    [ "WaypointReached", "d8/d61/a22198.html#a065698e61f0b7769ad2f58614c02ad5b", null ],
+    [ "m_uiChatTimer", "d8/d61/a22198.html#aa305bc2b5711d0745650f80275204ea8", null ]
 ];

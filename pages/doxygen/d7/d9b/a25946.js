@@ -1,8 +1,7 @@
 var a25946 =
 [
-    [ "HandleDummy", "d7/d9b/a25946.html#a04ff6beb930b65395ebc3df99bc53dfa", null ],
-    [ "PrepareSpellScript", "d7/d9b/a25946.html#a73eabf1e68c966f31fe8d83c2fd925c1", null ],
-    [ "Register", "d7/d9b/a25946.html#a6b03fbcf18612d9bb7361c3e4f022dc0", null ],
-    [ "Validate", "d7/d9b/a25946.html#a9df13e3e8895854bc086fbfaccfb1b2c", null ],
-    [ "PolymorhForms", "d7/d9b/a25946.html#a1443d2532a060514e697a8d5e0c21b20", null ]
+    [ "CheckProc", "d7/d9b/a25946.html#a325336c96dad74ec221c07817222fee1", null ],
+    [ "HandleProc", "d7/d9b/a25946.html#a35a1ce56b84b2d8017dbaba626660d70", null ],
+    [ "PrepareAuraScript", "d7/d9b/a25946.html#a30f6dd531d4316b4bbb3297af2c17e2e", null ],
+    [ "Register", "d7/d9b/a25946.html#a6c86a4cf273d90086c4ebdbcaa6b6632", null ]
 ];

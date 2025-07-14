@@ -1,6 +1,6 @@
 var a15630 =
 [
-    [ "creatureID", "da/d48/a15630.html#a44a9f5e58bfa58e2e2325e116e988f07", null ],
-    [ "pos", "da/d48/a15630.html#a9705a858cc2c3867e104514d3a0a1866", null ],
-    [ "waveID", "da/d48/a15630.html#a09b48f7f6da7e203ed50a8abc7f24e56", null ]
+    [ "npc_taskmaster_fizzuleAI", "dc/d38/a15634.html", "dc/d38/a15634" ],
+    [ "npc_taskmaster_fizzule", "da/d48/a15630.html#aa42e6cc1a3ac58ea79f5184f7bb293a9", null ],
+    [ "GetAI", "da/d48/a15630.html#a6281de7424932fe6580ffefa199498d9", null ]
 ];

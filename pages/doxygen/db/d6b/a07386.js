@@ -1,10 +1,12 @@
 var a07386 =
 [
-    [ "BattlegroundNA", "db/d6b/a07386.html#abf646e63e474ac5bb381078ffd0f286e", null ],
-    [ "FillInitialWorldStates", "db/d6b/a07386.html#af0932b648d2a4a4288409d8da360e06b", null ],
-    [ "HandleAreaTrigger", "db/d6b/a07386.html#a6a70ff3655c516d45ac1acf959ad8f73", null ],
-    [ "HandlePlayerUnderMap", "db/d6b/a07386.html#a098c01b5da65350b2af9ff53dc9f750c", null ],
-    [ "SetupBattleground", "db/d6b/a07386.html#addc3350a283fdac24e7aa88c23a7945a", null ],
-    [ "StartingEventCloseDoors", "db/d6b/a07386.html#a316492a374884822045971f6dc3db1e2", null ],
-    [ "StartingEventOpenDoors", "db/d6b/a07386.html#a72a953c5047a434d28b98e6185173140", null ]
+    [ "CapturePointInfo", "db/d6b/a07386.html#a8bd80d9a019a5579d32051c6c3f91c0b", null ],
+    [ "IsUncontrolled", "db/d6b/a07386.html#a4a4dbb61dd3ae83084ee518830fb7db0", null ],
+    [ "IsUnderControl", "db/d6b/a07386.html#a3f33897525f5104e2e7733dd6247c090", null ],
+    [ "IsUnderControl", "db/d6b/a07386.html#af6b021020b120b87c300981b8bb60992", null ],
+    [ "_areaTrigger", "db/d6b/a07386.html#aca64138e11e9e29a55bfedeee5b7e7ea", null ],
+    [ "_barStatus", "db/d6b/a07386.html#a02da5cc40ac6e97e63380d6f66e10d7e", null ],
+    [ "_ownerTeamId", "db/d6b/a07386.html#a5f0019635c5d05489f1ef97a95a7f01d", null ],
+    [ "_playersCount", "db/d6b/a07386.html#a7316d0eccaa25b9f30a39c48635e4c16", null ],
+    [ "player", "db/d6b/a07386.html#a97c5da6401e8423c1314ad1186e1dfeb", null ]
 ];

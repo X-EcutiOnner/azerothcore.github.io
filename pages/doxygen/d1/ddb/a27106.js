@@ -1,5 +1,6 @@
 var a27106 =
 [
-    [ "go_ethereum_prison", "d1/ddb/a27106.html#a1872dab11a8470194ab35f87e217aa8a", null ],
-    [ "OnGossipHello", "d1/ddb/a27106.html#a73479b0512ea778336fad4bd5cd9b909", null ]
+    [ "boss_ysondreAI", "d8/d98/a27110.html", "d8/d98/a27110" ],
+    [ "boss_ysondre", "d1/ddb/a27106.html#ad12dbb728f4f0cdf2f4c0ba9cd2a167d", null ],
+    [ "GetAI", "d1/ddb/a27106.html#a0da215d7bc8ee86216887e682b9335c3", null ]
 ];

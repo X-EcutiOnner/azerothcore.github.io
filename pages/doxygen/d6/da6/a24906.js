@@ -1,7 +1,6 @@
 var a24906 =
 [
-    [ "HandleScript", "d6/da6/a24906.html#a628fbc7ef23ce8f93d132f7bf518d4d8", null ],
-    [ "PrepareSpellScript", "d6/da6/a24906.html#a8e5aa0a33907c5216299734a928de2fd", null ],
-    [ "Register", "d6/da6/a24906.html#a9e25da03bbbea35f13420c14c6fab0d5", null ],
-    [ "Validate", "d6/da6/a24906.html#a30cc03ed0c19074dc1fde4951a061815", null ]
+    [ "OnPeriodic", "d6/da6/a24906.html#a3bcef6bd4501489320ef1242a66c50e8", null ],
+    [ "PrepareAuraScript", "d6/da6/a24906.html#ab18f839ab70cc61e52c5e9ddb4847140", null ],
+    [ "Register", "d6/da6/a24906.html#afbc707f30b7db0329f24b9ab8e8134e0", null ]
 ];

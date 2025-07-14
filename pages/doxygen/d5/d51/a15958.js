@@ -1,14 +1,11 @@
 var a15958 =
 [
-    [ "npc_onyx_flamecallerAI", "d5/d51/a15958.html#aa0633855e57f6681cfc68a8dfee9a733", null ],
-    [ "AddWaypoints", "d5/d51/a15958.html#a308b99ee4d07ed1de0cabd94dafd5dd8", null ],
-    [ "EnterEvadeMode", "d5/d51/a15958.html#ac29163e2e69cffbf21249eb3828b5b72", null ],
-    [ "IsSummonedBy", "d5/d51/a15958.html#afc6c4faffd83b2fa4ddbb4ae78b622d9", null ],
-    [ "JustEngagedWith", "d5/d51/a15958.html#a3cba2cd9a920816bee993ae2986639a0", null ],
-    [ "Reset", "d5/d51/a15958.html#a756a44feb79eb56f443ee16995a2566d", null ],
-    [ "UpdateEscortAI", "d5/d51/a15958.html#aab57193b332fdde2dd237a9cb15a06c1", null ],
-    [ "WaypointReached", "d5/d51/a15958.html#a8b510bce47929e85741f5debd857de8d", null ],
-    [ "_events", "d5/d51/a15958.html#a9280b604135308078860c20667da9819", null ],
-    [ "_instance", "d5/d51/a15958.html#a3fb01e6a8df3b8205f494f03faf8ace8", null ],
-    [ "_lavaGoutCount", "d5/d51/a15958.html#a1f46c988316c1870f506a66f2390e79b", null ]
+    [ "boss_sartharion_tenebronAI", "d5/d51/a15958.html#a9996fce9320390ead967ad82bcef9554", null ],
+    [ "ClearInstance", "d5/d51/a15958.html#af9e0459fff845bf4f6e53d06e4a9447f", null ],
+    [ "ExecuteEvent", "d5/d51/a15958.html#a6a7f8255aa1dcbb979354467d0e6949d", null ],
+    [ "HandleExtraEvent", "d5/d51/a15958.html#ad78a939f0584b775e29341ff08f0eee1", null ],
+    [ "JustDied", "d5/d51/a15958.html#ac3e03263a174dd147854fa6d714ec003", null ],
+    [ "JustSummoned", "d5/d51/a15958.html#a50d000b322e3d3a61cc02dea96c2979d", null ],
+    [ "Reset", "d5/d51/a15958.html#a1aa8277ddc91989ed7480d4221a6e534", null ],
+    [ "summons2", "d5/d51/a15958.html#a5060b01175ece5ad782e96bdf3d2c82d", null ]
 ];

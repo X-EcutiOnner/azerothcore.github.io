@@ -1,6 +1,7 @@
 var a25678 =
 [
-    [ "CheckSinkholes", "d8/da0/a25678.html#a5c363144cde9e809d97730f54873fe85", null ],
-    [ "PrepareSpellScript", "d8/da0/a25678.html#a0cd1fc05ee319b04299fcebe3a405bb4", null ],
-    [ "Register", "d8/da0/a25678.html#a6694fbf58b776b74df0a54cd96141688", null ]
+    [ "HandleDummy", "d8/da0/a25678.html#a7a8016e1403caa0432242c5c3240f107", null ],
+    [ "PrepareSpellScript", "d8/da0/a25678.html#ae2d2de36cceb037006eb4126f8e1778c", null ],
+    [ "Register", "d8/da0/a25678.html#abd09f5df3f31af619f24214f90791a53", null ],
+    [ "Validate", "d8/da0/a25678.html#ab14aedfdb61d54334f60e57968fcf081", null ]
 ];

@@ -1,8 +1,6 @@
 var a25658 =
 [
-    [ "OnRemove", "d0/d9b/a25658.html#a645e869079e711a87f1a957b42a35e98", null ],
-    [ "OnStackChange", "d0/d9b/a25658.html#adea8a4a7140e2f9fd4a44ef2a7b4d85b", null ],
-    [ "PrepareAuraScript", "d0/d9b/a25658.html#a5f9e9d07879705917e1cd261808f0a8f", null ],
-    [ "Register", "d0/d9b/a25658.html#ac86068a892255e38244c487a7456cd9f", null ],
-    [ "Validate", "d0/d9b/a25658.html#a74cb62725d939000a1c4ab32b4f4335f", null ]
+    [ "PartyTimeEmoteEvent", "d0/d9b/a25658.html#a525efd58fc8465658208058e6dc5d31c", null ],
+    [ "Execute", "d0/d9b/a25658.html#a65a796ff4efece46c519f7bdf1524bb8", null ],
+    [ "_player", "d0/d9b/a25658.html#a61ecb44828c6e4c868def8899791feb3", null ]
 ];

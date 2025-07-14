@@ -1,6 +1,6 @@
 var a23758 =
 [
-    [ "lapseTeleport", "d6/d14/a23758.html#a55c4330397214bf3a43628b3067d4634", null ],
-    [ "Execute", "d6/d14/a23758.html#a122023ed13fce2f5bb3721e459964443", null ],
-    [ "_owner", "d6/d14/a23758.html#a0e678c5cdb862390ea50c8d6057b7093", null ]
+    [ "instance_the_botanica_InstanceMapScript", "d9/d64/a23762.html", "d9/d64/a23762" ],
+    [ "instance_the_botanica", "d6/d14/a23758.html#a8f8acda65f37e45e2439707f3979cf7c", null ],
+    [ "GetInstanceScript", "d6/d14/a23758.html#a335f671443ca0fb9db5956cefdf37182", null ]
 ];

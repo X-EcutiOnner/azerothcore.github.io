@@ -1,7 +1,13 @@
 var a14706 =
 [
-    [ "npc_tarethaAI", "d4/de3/a14710.html", "d4/de3/a14710" ],
-    [ "npc_taretha", "d6/d68/a14706.html#a54379e06518ff972e91e25e295731f5a", null ],
-    [ "GetAI", "d6/d68/a14706.html#a5045bb7119b12800ee0053818fcae5fe", null ],
-    [ "OnGossipHello", "d6/d68/a14706.html#ac689e97b3fd54e9c9e40ed5b9aeca099", null ]
+    [ "boss_infinite_corruptorAI", "d6/d68/a14706.html#add36192941eaabf7f3d1d41c572783bd", null ],
+    [ "DoAction", "d6/d68/a14706.html#a8ff0a9731ad7bc118a1014bdbb0e1daf", null ],
+    [ "JustDied", "d6/d68/a14706.html#a6d2f445bf0819ac644d7de14d3b7034d", null ],
+    [ "JustEngagedWith", "d6/d68/a14706.html#a644725505db4fc7a98c4255d0eb34616", null ],
+    [ "JustSummoned", "d6/d68/a14706.html#a2b12c03184b169a56a0e6696a107dc35", null ],
+    [ "Reset", "d6/d68/a14706.html#a4dbff495bfcda6fb715dec68616e1764", null ],
+    [ "UpdateAI", "d6/d68/a14706.html#aaa0a45066ab7ad7d5a7543822d399947", null ],
+    [ "beamTimer", "d6/d68/a14706.html#a2f8048e591a818f073a65bfcfa49e66c", null ],
+    [ "events", "d6/d68/a14706.html#a5491db8f5e063ca84f18f1ca63c1e846", null ],
+    [ "summons", "d6/d68/a14706.html#aa5de5f986f8a6d3ba5f3aad84422eab6", null ]
 ];

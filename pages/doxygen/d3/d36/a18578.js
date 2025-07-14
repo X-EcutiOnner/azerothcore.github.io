@@ -1,8 +1,6 @@
 var a18578 =
 [
-    [ "npc_arthas_teleport_visualAI", "d3/d36/a18578.html#a9b9b2ba725cde9aec898244a9e50c394", null ],
-    [ "Reset", "d3/d36/a18578.html#a27155b8880a2a86b733bcd074e977b59", null ],
-    [ "UpdateAI", "d3/d36/a18578.html#a23c200f2c7b9f5d02bed7af37bc69c33", null ],
-    [ "_events", "d3/d36/a18578.html#a986f19145e46f5975f22a84a3e1b10ee", null ],
-    [ "_instance", "d3/d36/a18578.html#a25bc023e061a0845421a652b571a6e1e", null ]
+    [ "npc_highlord_tirion_fordringAI", "d6/dab/a18582.html", "d6/dab/a18582" ],
+    [ "npc_highlord_tirion_fordring_lh", "d3/d36/a18578.html#a96102a488330c54a3e3654c767e8e1a5", null ],
+    [ "GetAI", "d3/d36/a18578.html#aea42394c04c1763cffe10eb5eba09854", null ]
 ];

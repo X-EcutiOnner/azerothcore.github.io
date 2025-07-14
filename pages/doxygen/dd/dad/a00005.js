@@ -1,5 +1,5 @@
 var a00005 =
 [
-    [ "AsyncAcceptor", "de/d0a/a28396.html", "de/d0a/a28396" ],
-    [ "ACORE_MAX_LISTEN_CONNECTIONS", "dd/dad/a00005.html#af747a74d5d7546f9c862f3516a0c028f", null ]
+    [ "ACORE_LINKAGE_TYPE_STR", "dd/dad/a00005.html#a498cc8d79612cf645e7afc2ceb4174f3", null ],
+    [ "AZEROTH_PLATFORM_STR", "dd/dad/a00005.html#af7cd76a18bc19a0ec34ac7693e406971", null ]
 ];

@@ -1,13 +1,10 @@
 var a08990 =
 [
-    [ "QuestPOI", "d3/d0d/a08990.html#af4ce75549d1fff2042e98683119214a6", null ],
-    [ "QuestPOI", "d3/d0d/a08990.html#a4cf252fabc68cf11df5d44f192955a0b", null ],
-    [ "AreaId", "d3/d0d/a08990.html#ad81f08fa2bc5fd0ccd81d0efc42ce804", null ],
-    [ "FloorId", "d3/d0d/a08990.html#a1af6ed9fdb9ff429e18fb5d98a42ce45", null ],
-    [ "Id", "d3/d0d/a08990.html#aace0de15249c756ba3cbd5763cbb3f98", null ],
-    [ "MapId", "d3/d0d/a08990.html#a851f8e6e62373d2592173534754d757b", null ],
-    [ "ObjectiveIndex", "d3/d0d/a08990.html#ad80f65110beacd44e667008387e6bb70", null ],
-    [ "points", "d3/d0d/a08990.html#aeb505cb061a00ecaa2acc749e391f207", null ],
-    [ "Unk3", "d3/d0d/a08990.html#a1f1d8fa843c856b54ec1ca85b08d78e1", null ],
-    [ "Unk4", "d3/d0d/a08990.html#aa8089160bb8e93ea79df96b956050b70", null ]
+    [ "creatureRate", "d3/d0d/a08990.html#aa9c27c19179b8a7bdfdc11d906cd1c06", null ],
+    [ "questDailyRate", "d3/d0d/a08990.html#a1798044bdf25ce774191b00e261add1e", null ],
+    [ "questMonthlyRate", "d3/d0d/a08990.html#a0db34ed7420bc376cfe64a0d12434fea", null ],
+    [ "questRate", "d3/d0d/a08990.html#a914118aa28b3736ff4e6c5b61d738834", null ],
+    [ "questRepeatableRate", "d3/d0d/a08990.html#a2b050d4cf6555e824d59a3ffc0558b21", null ],
+    [ "questWeeklyRate", "d3/d0d/a08990.html#a0fb31ebc33d0ce11f392be845907e043", null ],
+    [ "spellRate", "d3/d0d/a08990.html#a508485f1e6833c58a11706667a2c24fd", null ]
 ];

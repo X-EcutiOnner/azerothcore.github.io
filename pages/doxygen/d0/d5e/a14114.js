@@ -1,6 +1,8 @@
 var a14114 =
 [
-    [ "OnApply", "d0/d5e/a14114.html#a4a276b00d4912c210598057620368934", null ],
-    [ "PrepareAuraScript", "d0/d5e/a14114.html#a20cb3aec994ffc0a06d9b4ba4f575844", null ],
-    [ "Register", "d0/d5e/a14114.html#adf9962252dec76f324b8cdbf8f6b9155", null ]
+    [ "boss_venoxis", "d0/d5e/a14114.html#a3e91a9022163a726cbc077d38459a5f5", null ],
+    [ "InitializeAI", "d0/d5e/a14114.html#a1373b5fc673fce6aea1de40d970ac00d", null ],
+    [ "JustDied", "d0/d5e/a14114.html#a63ccc5a9520ee30b0ebaf8c4d31e59b8", null ],
+    [ "JustEngagedWith", "d0/d5e/a14114.html#afaa68ffbd5fecae48a044009326bcaed", null ],
+    [ "Reset", "d0/d5e/a14114.html#a40cbcd4d41ff85ff71d5d913d8e62368", null ]
 ];

@@ -1,7 +1,6 @@
 var a21002 =
 [
-    [ "HandleOnEffectRemove", "da/d6d/a21002.html#acccd790c53f567f93e64afa7b7d1fe6f", null ],
-    [ "PrepareAuraScript", "da/d6d/a21002.html#a72e6468602d40eb479a80c611d60eb2e", null ],
-    [ "Register", "da/d6d/a21002.html#a213b50ebb7ce248a36dd78167d1190bb", null ],
-    [ "Validate", "da/d6d/a21002.html#a8f3ec40c0c2e38dc32db30ce36129684", null ]
+    [ "achievement_yogg_saron_he_waits_dreaming", "da/d6d/a21002.html#a25f4950d1ccffe77aa9cf5de7a14ea37", null ],
+    [ "OnCheck", "da/d6d/a21002.html#a7ef7dfb0235fb2db5932e7415e3e6f61", null ],
+    [ "_requiredIllusion", "da/d6d/a21002.html#aa3e107cb3be6fa02687709e07466a094", null ]
 ];

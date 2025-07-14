@@ -1,10 +1,8 @@
 var a10206 =
 [
-    [ "ArenaTeamScript", "db/d6a/a10206.html#ab86543c6ce76ff21e4306c799b99c896", null ],
-    [ "IsDatabaseBound", "db/d6a/a10206.html#a4d30f94084ae63eadd952c05b13f3ff4", null ],
-    [ "OnGetArenaPoints", "db/d6a/a10206.html#aa4b2d40921443cefee2775da6ca31b3e", null ],
-    [ "OnGetSlotByType", "db/d6a/a10206.html#a1ff67b327073bb8ebf10e7fddce92835", null ],
-    [ "OnQueueIdToArenaType", "db/d6a/a10206.html#a2a26e8c87c5fa7e85eb2f0517ced29e8", null ],
-    [ "OnSetArenaMaxPlayersPerTeam", "db/d6a/a10206.html#a776548946a09dcb3e76bd97f3c425e7f", null ],
-    [ "OnTypeIDToQueueID", "db/d6a/a10206.html#abcdd905b695f926e503db610d80ada3c", null ]
+    [ "AllCommandScript", "db/d6a/a10206.html#a7ff235b904eecdd4d02d2025c4078980", null ],
+    [ "IsDatabaseBound", "db/d6a/a10206.html#a89430678d5c88c562f1b0ac2b294fea4", null ],
+    [ "OnBeforeIsInvokerVisible", "db/d6a/a10206.html#a6f85dc271c1b61244978aa4474e708b0", null ],
+    [ "OnHandleDevCommand", "db/d6a/a10206.html#aba983f0e052ece230617573f04a35c92", null ],
+    [ "OnTryExecuteCommand", "db/d6a/a10206.html#a3a116836453073e77bbd8ab974f36f47", null ]
 ];

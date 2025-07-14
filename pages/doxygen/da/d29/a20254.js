@@ -1,7 +1,6 @@
 var a20254 =
 [
-    [ "FilterTargetsInitial", "da/d29/a20254.html#a5632307d9a1a89d530a63e71c8abad1c", null ],
-    [ "Load", "da/d29/a20254.html#a5467818535c6c7239e185d7c6c3bbd27", null ],
-    [ "PrepareSpellScript", "da/d29/a20254.html#a4d1e588557fa3fa432d4015fda930877", null ],
-    [ "Register", "da/d29/a20254.html#a0428375ddb89907e7f1728757d55d052", null ]
+    [ "FilterTargets", "da/d29/a20254.html#af15fc44e9bd5251aa70aaaa6657e0c29", null ],
+    [ "PrepareSpellScript", "da/d29/a20254.html#ae0ebd4c2ac0f91da5b2574ee7dac31ec", null ],
+    [ "Register", "da/d29/a20254.html#af6704b0789566b2b385ac573eaa50f06", null ]
 ];

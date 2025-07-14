@@ -1,6 +1,6 @@
 var a22350 =
 [
-    [ "npc_released_offspring_harkoaAI", "d9/dd9/a22354.html", "d9/dd9/a22354" ],
-    [ "npc_released_offspring_harkoa", "d2/d87/a22350.html#a10f583320e3b617cf2b327cfb6fed6f5", null ],
-    [ "GetAI", "d2/d87/a22350.html#ae3d2a02c496be1b2606fce596625d12e", null ]
+    [ "npc_wg_queueAI", "d2/d87/a22350.html#a3760738d61b6148042fc30bd96b88fdc", null ],
+    [ "UpdateAI", "d2/d87/a22350.html#a2e5f19a0f01eeb3d1585c7b02f2073b2", null ],
+    [ "events", "d2/d87/a22350.html#ab0eb949272e48120cff1c3df27ad8e92", null ]
 ];

@@ -1,13 +1,12 @@
 var a17422 =
 [
-    [ "PassengerController", "de/d44/a17422.html#ab834deac8dfd9a7ddd1bcb37b1e5c354", null ],
-    [ "ClearSlot", "de/d44/a17422.html#ae10f0917fb6fd395c3bb4428cbb617cb", null ],
-    [ "ResetSlots", "de/d44/a17422.html#a2302ac8b9fac75ba58ced41e2b5236f0", null ],
-    [ "SelectSpawnPoint", "de/d44/a17422.html#a4a4d575417a7c7940471f21e32d48b5c", null ],
-    [ "SummonCreatures", "de/d44/a17422.html#a287e4cafc1d3739edf90c00ad91e2c64", null ],
-    [ "_controlledSlots", "de/d44/a17422.html#af4271e53792477394a5c1022ed8fb30f", null ],
-    [ "_respawnCooldowns", "de/d44/a17422.html#a98a6d819ec193d5a1e96739ac507b146", null ],
-    [ "_slotInfo", "de/d44/a17422.html#a9c8fa44394c10eb2a7fec3c4f273f448", null ],
-    [ "_spawnPoint", "de/d44/a17422.html#ab168baee9c4d6343c7adb6978a3a56d2", null ],
-    [ "_transport", "de/d44/a17422.html#ac2c664d3b5941c673c13f7e36aa2d974", null ]
+    [ "npc_high_overlord_saurfangAI", "de/d44/a17422.html#a5c31259d9eb26e09d2b645d826e75328", null ],
+    [ "DoAction", "de/d44/a17422.html#a4a372a14c960c48c51a1c8e34ebffc53", null ],
+    [ "MovementInform", "de/d44/a17422.html#a6a46f99ffb67a699ef9adb2a1afcbe13", null ],
+    [ "Reset", "de/d44/a17422.html#a28899c61f9b4d3612535d1a01dc05f4a", null ],
+    [ "SpellHit", "de/d44/a17422.html#a6399e9c9ecdb8c01fbd2bcd1b081811f", null ],
+    [ "UpdateAI", "de/d44/a17422.html#a92124e7490a066bf63836397a3bdc71b", null ],
+    [ "_events", "de/d44/a17422.html#a12bbe13cf8fd1eda0cb8aa75ecafddc4", null ],
+    [ "_guardList", "de/d44/a17422.html#a1d8ccb93c5c8d13767fa8a1429adb262", null ],
+    [ "_instance", "de/d44/a17422.html#a4181022e52fc10e2d5d98dcffe9ced62", null ]
 ];

@@ -1,8 +1,8 @@
 var a26674 =
 [
-    [ "CalcPeriodic", "d8/d84/a26674.html#a42770d7f7e5bd41cd3f0a283c544c642", null ],
-    [ "CalculateAmount", "d8/d84/a26674.html#a525009acb345d6b0a9857c30cfce2230", null ],
-    [ "HandlePeriodic", "d8/d84/a26674.html#a4c75f793388b533d00a52ad18f18bc6e", null ],
-    [ "PrepareAuraScript", "d8/d84/a26674.html#a5627212e48a3044a9a7480851787a839", null ],
-    [ "Register", "d8/d84/a26674.html#a09ea5265d7105a4bd487d383948901a0", null ]
+    [ "CheckFireTotem", "d8/d84/a26674.html#a9d6b4368f5c72b95c25415ea87575fce", null ],
+    [ "HandleDummy", "d8/d84/a26674.html#a179d07e7090cec396a7845754e545e8e", null ],
+    [ "PrepareSpellScript", "d8/d84/a26674.html#a8311cc106da26267e90acd98698cb737", null ],
+    [ "Register", "d8/d84/a26674.html#abae5a4961888e6ba2d876e450307e362", null ],
+    [ "Validate", "d8/d84/a26674.html#a2048b0e43dbe2df6e4dfc42d912a74a7", null ]
 ];

@@ -1,7 +1,5 @@
 var a14922 =
 [
-    [ "boss_rajaxx", "d5/dee/a14922.html#afca05f7afabb4c0e181ce3757acb3bcb", null ],
-    [ "JustDied", "d5/dee/a14922.html#a9231a20150ed6eae0cbc79c8386f7371", null ],
-    [ "JustEngagedWith", "d5/dee/a14922.html#a8dad79921559359b6aa7149641925fe5", null ],
-    [ "UpdateAI", "d5/dee/a14922.html#a9b949bea61ceb45ec1b3e452f218c227", null ]
+    [ "npc_idol_room_spawnerAI", "d5/dee/a14922.html#a77c4aa88d213271166158c8e75d41a69", null ],
+    [ "SetData", "d5/dee/a14922.html#aa0626c837086b4a275f4d51d1659a242", null ]
 ];

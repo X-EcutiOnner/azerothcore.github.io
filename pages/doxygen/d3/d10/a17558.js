@@ -1,7 +1,6 @@
 var a17558 =
 [
-    [ "FilterTargets", "d3/d10/a17558.html#a32b2fa87fb2eaca3db0801fbfe4b8aaa", null ],
-    [ "Load", "d3/d10/a17558.html#a39e8ec4726a1f6c2911c165c7187f291", null ],
-    [ "PrepareSpellScript", "d3/d10/a17558.html#a7526a6df4c25136f4be78e753c6abf62", null ],
-    [ "Register", "d3/d10/a17558.html#a0d01b8292c1c071a5c828a5a88617bd5", null ]
+    [ "npc_zafod_boomboxAI", "d6/dc8/a17562.html", "d6/dc8/a17562" ],
+    [ "npc_zafod_boombox", "d3/d10/a17558.html#a7124746ed3f25ae6d96a2fa1910d98d0", null ],
+    [ "GetAI", "d3/d10/a17558.html#af80f6913cef53d39cafdcd47b2cd07f0", null ]
 ];

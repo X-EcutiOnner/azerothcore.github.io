@@ -1,7 +1,6 @@
 var a18786 =
 [
-    [ "DelayedCastMincharEvent", "da/d70/a18786.html#a76d8a08ca273eec5b2e083d136336a15", null ],
-    [ "Execute", "da/d70/a18786.html#a12aeff246d07e541ed192974320842cb", null ],
-    [ "_spellId", "da/d70/a18786.html#af4ea90407b2c8a283f137d213ffe97be", null ],
-    [ "_trigger", "da/d70/a18786.html#a9f3cd02e77ad35b98a6753b792383548", null ]
+    [ "npc_icc_skybreaker_luminaryAI", "df/d26/a18790.html", "df/d26/a18790" ],
+    [ "npc_icc_skybreaker_luminary", "da/d70/a18786.html#aff97d0425cf86a8b411ef3e2bd0cc054", null ],
+    [ "GetAI", "da/d70/a18786.html#ad1378aaa7438758f8a796d8e74ae0ce8", null ]
 ];

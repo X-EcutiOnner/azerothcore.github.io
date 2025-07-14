@@ -1,5 +1,6 @@
 var a20594 =
 [
-    [ "achievement_thorim_lose_your_illusion", "d7/dbb/a20594.html#a449dda8a7a3f19d0aabaf9ca353d70bb", null ],
-    [ "OnCheck", "d7/dbb/a20594.html#a322df4f30445a84085615925f74a8a6b", null ]
+    [ "boss_thorimAI", "d4/d6a/a20598.html", "d4/d6a/a20598" ],
+    [ "boss_thorim", "d7/dbb/a20594.html#a23a52a05aea5092cef8fe47be28b4bfb", null ],
+    [ "GetAI", "d7/dbb/a20594.html#a70895451317569f50adc11474e653515", null ]
 ];

@@ -1,5 +1,7 @@
 var a27726 =
 [
-    [ "ID", "d5/de0/a27726.html#a4f030d8b8b87aff67e0d8319c6b53310", null ],
-    [ "price", "d5/de0/a27726.html#a9b81ec4b4638763b738862d6c184e2a9", null ]
+    [ "HandleDummy", "d5/de0/a27726.html#ade9ff4db63fecf726776f6e4b36bb437", null ],
+    [ "PrepareSpellScript", "d5/de0/a27726.html#a0375b541f2a90e337fee61ced6d8f3ec", null ],
+    [ "Register", "d5/de0/a27726.html#a66c530b497e4952b457bbfa50a036c07", null ],
+    [ "Validate", "d5/de0/a27726.html#a968333dcfe0553ad73879f3042db5511", null ]
 ];

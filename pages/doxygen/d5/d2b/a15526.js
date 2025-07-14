@@ -1,7 +1,6 @@
 var a15526 =
 [
-    [ "npc_giltharesAI", "d5/d2b/a15526.html#af22e42b2180987febd964784b6d49b5e", null ],
-    [ "JustEngagedWith", "d5/d2b/a15526.html#ae9ba65652db3d2d32920d1a98594727a", null ],
-    [ "Reset", "d5/d2b/a15526.html#a34d57ef71b60fe71c749f790cecf70b2", null ],
-    [ "WaypointReached", "d5/d2b/a15526.html#a9308c73760e50e0f3d04031b508526d1", null ]
+    [ "Creature", "d5/d2b/a15526.html#a77b33f8998f85808b58052079b1cab54", null ],
+    [ "TextId", "d5/d2b/a15526.html#ad691f3cd40035e96547adf7528229119", null ],
+    [ "Timer", "d5/d2b/a15526.html#accfccceaedffb3ad4d02231fb0bfeee5", null ]
 ];

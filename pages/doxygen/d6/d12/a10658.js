@@ -1,5 +1,5 @@
 var a10658 =
 [
-    [ "SocketEnchantID", "d6/d12/a10658.html#ae682a8405a5fa1c70033d190dde25d99", null ],
-    [ "SocketIndex", "d6/d12/a10658.html#ac75ed3f28bdd3d83f15e55ef9b6ac54a", null ]
+    [ "GuildLeave", "d6/d12/a10658.html#a6a09ab5c50b7185a91e76f428e28f402", null ],
+    [ "Read", "d6/d12/a10658.html#a0ea07ca846a92b5357276b5868d98e5f", null ]
 ];

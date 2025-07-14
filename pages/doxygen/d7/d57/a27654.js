@@ -1,9 +1,9 @@
 var a27654 =
 [
-    [ "CinematicSequence", "d7/d57/a27654.html#a7a0a35bbb69320565d991f4a349dc01b", null ],
-    [ "ClassID", "d7/d57/a27654.html#a9da8d8d20126e9dc161b1dd64a19fe59", null ],
-    [ "expansion", "d7/d57/a27654.html#a7c57eabd8d94849cd8536b013a8d4138", null ],
-    [ "name", "d7/d57/a27654.html#a2d0b7155b03af29bd982f31eba26ec24", null ],
-    [ "powerType", "d7/d57/a27654.html#a74aec35dc161a7e830453b9365a6f107", null ],
-    [ "spellfamily", "d7/d57/a27654.html#a43fbe48c99e297ea09e9e1f2edd6a4ea", null ]
+    [ "npc_arcanite_dragonling", "d7/d57/a27654.html#a9b7e4cefa312a16c90018d655ad94758", null ],
+    [ "CanAIAttack", "d7/d57/a27654.html#a374e127ef749dc72ec70137bcd13a0b9", null ],
+    [ "IsSummonedBy", "d7/d57/a27654.html#a921b35a91c4f21258efdb41fd87413db", null ],
+    [ "JustEngagedWith", "d7/d57/a27654.html#a65f6d779681861117f750b70154b3e0d", null ],
+    [ "Reset", "d7/d57/a27654.html#a4468d91430add821bf7a7ab11d8063da", null ],
+    [ "UpdateAI", "d7/d57/a27654.html#aebe430b9a3079a5ccbfd979a74e532f3", null ]
 ];

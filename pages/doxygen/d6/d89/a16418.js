@@ -1,9 +1,8 @@
 var a16418 =
 [
-    [ "npc_fel_infernalAI", "d6/d89/a16418.html#a7f34b34facdfeea3fc3507ad3cf84dda", null ],
-    [ "EnterEvadeMode", "d6/d89/a16418.html#aedec8729b9be931a74fe00d1aa649848", null ],
-    [ "JustDied", "d6/d89/a16418.html#a599786069f98231eeb7f9ca809f8e671", null ],
-    [ "Reset", "d6/d89/a16418.html#a09f408c9250467228b91ef9f6c9544f4", null ],
-    [ "UpdateAI", "d6/d89/a16418.html#a45075fdaba6d7c04cb526420deb8a0ac", null ],
-    [ "events", "d6/d89/a16418.html#acf955037c246f7b5f12cc5338b300b63", null ]
+    [ "npc_toc_warlockAI", "d6/d89/a16418.html#a4c4c2f502f00ca48bb7419434d88ea3a", null ],
+    [ "JustSummoned", "d6/d89/a16418.html#a203ef748afaa400aa1f8365b5d7bf6b1", null ],
+    [ "myCanCast", "d6/d89/a16418.html#a62b2df362bc07aa4a9c14cbc63a10e05", null ],
+    [ "UpdateAI", "d6/d89/a16418.html#a554849d02d923439bd810b7d8c242afa", null ],
+    [ "events", "d6/d89/a16418.html#a3b84c70d246bbf5b70ab4dec06c647b3", null ]
 ];

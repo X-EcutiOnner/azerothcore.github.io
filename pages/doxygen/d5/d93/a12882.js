@@ -1,7 +1,6 @@
 var a12882 =
 [
-    [ "HandleEffectApply", "d5/d93/a12882.html#a8d52c4ea09e1d58d2dc44ff73d71faf5", null ],
-    [ "PrepareAuraScript", "d5/d93/a12882.html#a9829789fe5544429454e29d228ce0daf", null ],
-    [ "Register", "d5/d93/a12882.html#a7f5a26d10f48d863477ec902e6f5ff1e", null ],
-    [ "Validate", "d5/d93/a12882.html#ae81a441757ab9f10c29a7b313b99cf5f", null ]
+    [ "npc_dkc1_gothikAI", "dc/dc1/a12886.html", "dc/dc1/a12886" ],
+    [ "npc_dkc1_gothik", "d5/d93/a12882.html#ae4a6aec0235b01044ebd5c9c71d400d9", null ],
+    [ "GetAI", "d5/d93/a12882.html#aeb285cf6977cfab5d337f51ae41907ec", null ]
 ];

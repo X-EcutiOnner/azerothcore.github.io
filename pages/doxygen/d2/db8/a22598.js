@@ -1,6 +1,8 @@
 var a22598 =
 [
-    [ "PrepareSpellScript", "d2/db8/a22598.html#abd6b61e7efbed1427b7603640ac7d474", null ],
-    [ "RecalculateDamage", "d2/db8/a22598.html#a02b59e5ac84c8556c9a9441ff6414461", null ],
-    [ "Register", "d2/db8/a22598.html#ab6183bf9e49d3c11c256e54053c13aa2", null ]
+    [ "CalcPeriodic", "d2/db8/a22598.html#a7a34b9bd77cd1f15a1cd7954d76d80d0", null ],
+    [ "OnRemove", "d2/db8/a22598.html#af120bb9d6a0c3d338706613540849412", null ],
+    [ "PrepareAuraScript", "d2/db8/a22598.html#ad413f14193013058e1775f80b457a81d", null ],
+    [ "Register", "d2/db8/a22598.html#aa35fc5865f108712e450661e67c384ce", null ],
+    [ "Update", "d2/db8/a22598.html#aebc61b57ed8038488ec06c14483b2099", null ]
 ];

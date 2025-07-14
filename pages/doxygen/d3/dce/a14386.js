@@ -1,8 +1,13 @@
 var a14386 =
 [
-    [ "HandleEffectApply", "d3/dce/a14386.html#a31d4e0da71893a8a673a2ac4f7c26c70", null ],
-    [ "HandleEffectRemove", "d3/dce/a14386.html#af8661463589640c9550bc62e8f74afcd", null ],
-    [ "PrepareAuraScript", "d3/dce/a14386.html#a2885eb37d4af8f1e90e2a4967f5acc75", null ],
-    [ "Register", "d3/dce/a14386.html#ada4a148e0b50f5853eaf02c465f6e876", null ],
-    [ "torchGUID", "d3/dce/a14386.html#a8ccf51241d3792c8c36d983bf471167e", null ]
+    [ "boss_headless_horseman_head", "d3/dce/a14386.html#a12343a1bb6e30681b0c82ba649bd5b8a", null ],
+    [ "DamageTaken", "d3/dce/a14386.html#a73e75350937736ad7cfe725b785b3768", null ],
+    [ "GetOwner", "d3/dce/a14386.html#ab72d1f1891401754ffe032ed0534882d", null ],
+    [ "Reset", "d3/dce/a14386.html#a367e8b82d6d3bb08e7106c71295610f9", null ],
+    [ "SpellHit", "d3/dce/a14386.html#adcd9ce9755f8dbc1391b4d2b3f5e1669", null ],
+    [ "SpellHitTarget", "d3/dce/a14386.html#a0d73ba0831118d135137953f91e7c5d7", null ],
+    [ "UpdateAI", "d3/dce/a14386.html#a300dec039465535914bf6879423a0962", null ],
+    [ "handled", "d3/dce/a14386.html#a72c0d0c8c534fa8fdc1370203c30c3a3", null ],
+    [ "pct", "d3/dce/a14386.html#a9752326bac7ecbcdfde5b12f55b20be2", null ],
+    [ "timer", "d3/dce/a14386.html#ae7c669e65659459fd83f91b5e9ed1347", null ]
 ];

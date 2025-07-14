@@ -1,6 +1,6 @@
 var a12822 =
 [
-    [ "npc_dkc1_gothikAI", "de/d69/a12826.html", "de/d69/a12826" ],
-    [ "npc_dkc1_gothik", "d0/d70/a12822.html#ae4a6aec0235b01044ebd5c9c71d400d9", null ],
-    [ "GetAI", "d0/d70/a12822.html#aeb285cf6977cfab5d337f51ae41907ec", null ]
+    [ "boss_garaxxas", "d0/d70/a12822.html#af34e3ef5dac400fb7c217f46345ee9bb", null ],
+    [ "JustEngagedWith", "d0/d70/a12822.html#aebfd7b63d714468ed69e920fb89c345d", null ],
+    [ "Reset", "d0/d70/a12822.html#a56e6489ce49971cb066444888355626e", null ]
 ];

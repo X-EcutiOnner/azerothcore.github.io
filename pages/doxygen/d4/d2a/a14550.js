@@ -1,10 +1,6 @@
 var a14550 =
 [
-    [ "hyjalJainaAI", "d4/d2a/a14550.html#aa7532b691e85fd9bd467e20db39c59da", null ],
-    [ "IsSummonedBy", "d4/d2a/a14550.html#a5003e3a1ccb955b209c1ab91a49d217f", null ],
-    [ "JustDied", "d4/d2a/a14550.html#a605687080e5149b3f08ce8349ba9b336", null ],
-    [ "JustEngagedWith", "d4/d2a/a14550.html#a187efe775b1e2a35637638507e77352e", null ],
-    [ "PathEndReached", "d4/d2a/a14550.html#a0f7dd1512694d284c1f83b3403c421e6", null ],
-    [ "Reset", "d4/d2a/a14550.html#a585baff53f5d57ca0dc9002181e8d2bc", null ],
-    [ "UpdateAI", "d4/d2a/a14550.html#ac86fb8a5a55654ff7697abd9162135c1", null ]
+    [ "HandleScriptEffect", "d4/d2a/a14550.html#aebd700897688157ca62405c92fe58680", null ],
+    [ "PrepareSpellScript", "d4/d2a/a14550.html#a09e11d1938279a2302fb8805e71c6c36", null ],
+    [ "Register", "d4/d2a/a14550.html#aa0679665ba2c496e0a5aa5f6864d7230", null ]
 ];

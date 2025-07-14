@@ -1,7 +1,8 @@
 var a21910 =
 [
-    [ "npc_Apothecary_HanesAI", "d7/d67/a21914.html", "d7/d67/a21914" ],
-    [ "npc_apothecary_hanes", "d7/dc0/a21910.html#a90480bee491e8fe1c9e7b2c71aac28c8", null ],
-    [ "GetAI", "d7/dc0/a21910.html#a7f3f86efb9a6146b86aa5d882b751e1f", null ],
-    [ "OnQuestAccept", "d7/dc0/a21910.html#ae116e49b0e8865f9b5735e72c8c850fd", null ]
+    [ "npc_ravenous_worgAI", "d7/dc0/a21910.html#a5404516869e171c84b774f2a7b8be15d", null ],
+    [ "AttackStart", "d7/dc0/a21910.html#a593d218d8cb083a7e37f81d3952c6d4c", null ],
+    [ "UpdateAI", "d7/dc0/a21910.html#aeb64d5bde5ef9d8c2a62662bb72d3049", null ],
+    [ "_attack", "d7/dc0/a21910.html#a3df5c98821ba33a40e25e7b050858b96", null ],
+    [ "_pacified", "d7/dc0/a21910.html#a0da1f59a6fc9cdf39c9cced1eb52acba", null ]
 ];

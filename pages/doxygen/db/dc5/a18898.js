@@ -1,20 +1,6 @@
 var a18898 =
 [
-    [ "boss_gothikAI", "db/dc5/a18898.html#a18ae481969ed0885122058b0ebf98cc8", null ],
-    [ "CheckGroupSplitted", "db/dc5/a18898.html#a1efec7ad0793812f83e808b961059875", null ],
-    [ "DamageTaken", "db/dc5/a18898.html#a40e40340002d05d97aa944c14af4030c", null ],
-    [ "IsInRoom", "db/dc5/a18898.html#a73b20994a1949731b83a3a28b70ad9d1", null ],
-    [ "JustDied", "db/dc5/a18898.html#a9c4e6647c05785664cd23fce73d8ca87", null ],
-    [ "JustEngagedWith", "db/dc5/a18898.html#aa2e622be4faa605aa7b13af333bd1a91", null ],
-    [ "JustSummoned", "db/dc5/a18898.html#a9bbe9412721e4173ef37a1dbd494c262", null ],
-    [ "KilledUnit", "db/dc5/a18898.html#adde94c95fcfe2cacee16b06f73528651", null ],
-    [ "Reset", "db/dc5/a18898.html#a31f3993b01755f45f3fe997d599a52d4", null ],
-    [ "SummonedCreatureDespawn", "db/dc5/a18898.html#a2223b2c287b2b21a7377ed49b2a65628", null ],
-    [ "SummonHelpers", "db/dc5/a18898.html#aaa751f216763deba29fde2d0aba09567", null ],
-    [ "UpdateAI", "db/dc5/a18898.html#ada9b63a61fc4c8abb60fdff30fb9487d", null ],
-    [ "events", "db/dc5/a18898.html#a756a5816615e02be0fc8308cc5088e49", null ],
-    [ "gateOpened", "db/dc5/a18898.html#ad2de325f3fde87679503664de81a911e", null ],
-    [ "secondPhase", "db/dc5/a18898.html#a1e4526d104670d4899ef6dd5760c2437", null ],
-    [ "summons", "db/dc5/a18898.html#aa1786f68bc52722dead6d9a6c131d6cb", null ],
-    [ "waveCount", "db/dc5/a18898.html#a4ed9dfac7e4d22fcb1f8396ca1318073", null ]
+    [ "npc_isle_of_conquest_turretAI", "d3/d13/a18902.html", "d3/d13/a18902" ],
+    [ "npc_isle_of_conquest_turret", "db/dc5/a18898.html#ac080845203adef25e6841133b7e2f4dc", null ],
+    [ "GetAI", "db/dc5/a18898.html#a0f532e12439e900b3cb77619f1ecd17d", null ]
 ];

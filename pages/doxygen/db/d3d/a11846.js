@@ -1,11 +1,21 @@
 var a11846 =
 [
-    [ "boss_draganthaurissanAI", "db/d3d/a11846.html#a2ecd55ed9e7e48829cb85862e965b7d8", null ],
-    [ "JustDied", "db/d3d/a11846.html#a7a7d4737c4825cfabc1012f9cce0e38a", null ],
-    [ "JustEngagedWith", "db/d3d/a11846.html#a00604bed2c13a7b470d950059122f018", null ],
-    [ "KilledUnit", "db/d3d/a11846.html#acec58686917d6e5aff9a51a96b023174", null ],
-    [ "SetData", "db/d3d/a11846.html#aaa43aa340f946f3b8361f2bb7b29ef40", null ],
-    [ "UpdateAI", "db/d3d/a11846.html#a04eaea53b78d490373f9bb911cc92596", null ],
-    [ "hasYelled", "db/d3d/a11846.html#aef5ede4f444e85fafd30faab6043672b", null ],
-    [ "SenatorYells", "db/d3d/a11846.html#ab4b27bf33b58b44ac604ca6bf6b5e424", null ]
+    [ "npc_grimstoneAI", "db/d3d/a11846.html#af5a78c00f2df9a6e7f810821e478b334", null ],
+    [ "HandleGameObject", "db/d3d/a11846.html#aeb8bb46e75506889ddb1f32c7846618d", null ],
+    [ "JustSummoned", "db/d3d/a11846.html#a152416e33edf5117ecb11946bae31059", null ],
+    [ "Reset", "db/d3d/a11846.html#ad7b769ce27c4cd22a2383762426a5792", null ],
+    [ "SpawnWave", "db/d3d/a11846.html#ad83bf99a15a8a80fe572e8927f533921", null ],
+    [ "SummonBoss", "db/d3d/a11846.html#ac019b66c330d228a4baa4c81b14f825a", null ],
+    [ "SummonedCreatureDies", "db/d3d/a11846.html#a6cf74375a89074ebfdaef1f189f58f57", null ],
+    [ "UpdateEscortAI", "db/d3d/a11846.html#a1442439a8e8ea38fc46e65160f2fbe40", null ],
+    [ "updateReset", "db/d3d/a11846.html#a7c28d3cca183390116a7f6e3c094aa6b", null ],
+    [ "WaypointReached", "db/d3d/a11846.html#a73452b365d3095ce584d7a2bcd38d275", null ],
+    [ "BossSpawnId", "db/d3d/a11846.html#a31f7ff1c08dd33abdae1414f385e5d9e", null ],
+    [ "eventPhase", "db/d3d/a11846.html#a2e68549ad81f51bf596a7727a32c6e03", null ],
+    [ "eventTimer", "db/d3d/a11846.html#a48a153973c4a5d8b911a5f89d3c968eb", null ],
+    [ "instance", "db/d3d/a11846.html#ae9c1e204ed846b77a118bae352a16a0a", null ],
+    [ "MobSpawnId", "db/d3d/a11846.html#ab17115539c7778849eb7a5d7b3c14955", null ],
+    [ "resetTimer", "db/d3d/a11846.html#ac22a90e5fcf04dae8cbf5aea715a5412", null ],
+    [ "summons", "db/d3d/a11846.html#acc981f16561558187a4f73f30477087e", null ],
+    [ "theldrenEvent", "db/d3d/a11846.html#ad3811c9392c8849770d60398f5c9ed5b", null ]
 ];

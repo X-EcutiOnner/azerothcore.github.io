@@ -1,6 +1,8 @@
 var a25506 =
 [
-    [ "HandleProc", "df/da9/a25506.html#a04796308cb57993dea310e0aca051c46", null ],
-    [ "PrepareAuraScript", "df/da9/a25506.html#a1a0291eb2ca9073b0bac8dc8c7d22550", null ],
-    [ "Register", "df/da9/a25506.html#a191d0bcc015b92a6f2481b3b5c196cab", null ]
+    [ "OnApply", "df/da9/a25506.html#a75b45732648d5ba90b49725a48609a89", null ],
+    [ "OnBaseRemove", "df/da9/a25506.html#aa6d10399bba721ff7a3651508fcdf449", null ],
+    [ "OnRemove", "df/da9/a25506.html#a0331b3860691db793c5a7bcf53550c6f", null ],
+    [ "PrepareAuraScript", "df/da9/a25506.html#a34ad4890c7ce30427537e36980057e57", null ],
+    [ "Register", "df/da9/a25506.html#a713e694cad6f1cf533d45f5d633da36e", null ]
 ];

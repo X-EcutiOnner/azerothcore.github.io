@@ -1,6 +1,7 @@
 var a21926 =
 [
-    [ "npc_razael_and_lyana", "df/df8/a21926.html#aec7257a1136a3580e2b4542e032429d6", null ],
-    [ "OnGossipHello", "df/df8/a21926.html#a9c9085db92853d5275c12e804a68b0fc", null ],
-    [ "OnGossipSelect", "df/df8/a21926.html#a407d8344280e8e38efb3991fda1d52cd", null ]
+    [ "npc_tallhorn_stagAI", "df/df8/a21926.html#a50947c450eece979193b45728e5e1f82", null ],
+    [ "Reset", "df/df8/a21926.html#a67dce7ad60ddea63fcba5e1e2079fa7c", null ],
+    [ "UpdateAI", "df/df8/a21926.html#adf60f62fa92238cb315c42e0179c3f17", null ],
+    [ "_phase", "df/df8/a21926.html#ace2ac6f418876393d2f6d3457b1bc4c0", null ]
 ];

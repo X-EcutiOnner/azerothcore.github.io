@@ -1,17 +1,10 @@
 var a12542 =
 [
-    [ "boss_attumen", "dd/d0c/a12542.html#a394925c2a44b0bfe8931ae88dd9868ae", null ],
-    [ "CanMeleeHit", "dd/d0c/a12542.html#ae685929086090928802854cc93f9934a", null ],
-    [ "DamageTaken", "dd/d0c/a12542.html#a0b426b760d9ace05211c3383e7628022", null ],
-    [ "EnterEvadeMode", "dd/d0c/a12542.html#af00f91294c04d0fe932c922fd270c5dc", null ],
-    [ "Initialize", "dd/d0c/a12542.html#ac89445e6a04c2d8cd04e53f4aea30c58", null ],
-    [ "IsSummonedBy", "dd/d0c/a12542.html#a1fa6827c323cbda15e2a438bc376e74c", null ],
-    [ "JustDied", "dd/d0c/a12542.html#a375a95d46f8db8a53ea6420dd557855e", null ],
-    [ "JustSummoned", "dd/d0c/a12542.html#af91018e54244864ca4cd1b9d40c569df", null ],
-    [ "KilledUnit", "dd/d0c/a12542.html#ad167a1ec5ff737ad77b0c492efc022f0", null ],
-    [ "Reset", "dd/d0c/a12542.html#ab8815ed9b1068e748e43346725cd9281", null ],
-    [ "ScheduleTasks", "dd/d0c/a12542.html#ae63d0a3c7ae4ad755f091f2d31342a57", null ],
-    [ "SpellHit", "dd/d0c/a12542.html#a1181ae1d50d6c52483b0d90423997c90", null ],
-    [ "UpdateAI", "dd/d0c/a12542.html#aac982f13b35e7c37b49a4e76ace5fccd", null ],
-    [ "_phase", "dd/d0c/a12542.html#a8a668537dc5b7c01e6d9d91c67d6da72", null ]
+    [ "instance_deadmines_InstanceMapScript", "dd/d0c/a12542.html#afa12491c1b276d0d643822da562320c3", null ],
+    [ "GetSaveData", "dd/d0c/a12542.html#a775c7d564b931e157a32b0909efed859", null ],
+    [ "Initialize", "dd/d0c/a12542.html#a8b8bca7a1d7880bc53b8002934ceeb7a", null ],
+    [ "Load", "dd/d0c/a12542.html#afff7e04cc632e2d4ddb438d03e561560", null ],
+    [ "OnGameObjectCreate", "dd/d0c/a12542.html#a095202af8915f8a1d8888c045e18d6c4", null ],
+    [ "SetData", "dd/d0c/a12542.html#a8cd5bf5302b1a7221c69dd9fdc9518dc", null ],
+    [ "_encounters", "dd/d0c/a12542.html#a01d69e135cbd2dd885dfc84c98ed8be1", null ]
 ];

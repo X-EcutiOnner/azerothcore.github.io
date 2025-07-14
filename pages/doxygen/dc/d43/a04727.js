@@ -1,6 +1,11 @@
 var a04727 =
 [
-    [ "_CRT_SECURE_NO_DEPRECATE", "dc/d43/a04727.html#a411c46599e926f8cdf49c63957255359", null ],
-    [ "MAINMagic", "dc/d43/a04727.html#a026039bd50ec58444fa975da328951ec", null ],
-    [ "MPHDMagic", "dc/d43/a04727.html#aac8041bc8ca704e28f2b3054649b3752", null ]
+    [ "ADT::MDDF", "d8/dc0/a28770.html", "d8/dc0/a28770" ],
+    [ "ADT::MODF", "d7/d59/a28774.html", "d7/d59/a28774" ],
+    [ "ADTFile", "d7/d20/a28778.html", "d7/d20/a28778" ],
+    [ "fixname2", "dc/d43/a04727.html#ac0029be4572a61d00eb1435db5526a74", null ],
+    [ "fixnamen", "dc/d43/a04727.html#abdc56edc46e0804c456749761cff8daf", null ],
+    [ "GetExtension", "dc/d43/a04727.html#ac3f75fc482c41471364c2c3e8bd1dd96", null ],
+    [ "GetPlainName", "dc/d43/a04727.html#a5e577b4c8e75312883ba4e8c571908ca", null ],
+    [ "GetPlainName", "dc/d43/a04727.html#a05f8969fb6d17548033afc24b906a83f", null ]
 ];

@@ -1,9 +1,9 @@
 var a21474 =
 [
-    [ "npc_bonker_togglevoltAI", "db/d19/a21474.html#adfd43a6a804a35e235262e55f0155ffe", null ],
-    [ "JustDied", "db/d19/a21474.html#a5ac6e89ad9ad3d3d69a87f7b9dc4026f", null ],
-    [ "Reset", "db/d19/a21474.html#a13efa2a2a0c5c796b3fd9f36a54ce523", null ],
-    [ "UpdateEscortAI", "db/d19/a21474.html#a9bf17d7ec59d800955c131dbe14a31d8", null ],
-    [ "WaypointReached", "db/d19/a21474.html#a06dc6c018d52f1cd1b2c7f76dbda3a2d", null ],
-    [ "Bonker_agro", "db/d19/a21474.html#a395e6e14f03cb0ecfe70348cc148d7ef", null ]
+    [ "npc_azure_sorcerorAI", "db/d19/a21474.html#a474a7144908d4820341dc56f77436b90", null ],
+    [ "Reset", "db/d19/a21474.html#a4c637288f79e1da4bdace6516cd887b1", null ],
+    [ "UpdateAI", "db/d19/a21474.html#a928d789e2cbd35b228857a23c4204ea1", null ],
+    [ "uiArcaneStreamTimer", "db/d19/a21474.html#ad238fe8fed4dcefd923d901e4f73ed05", null ],
+    [ "uiArcaneStreamTimerStartingValueHolder", "db/d19/a21474.html#af044879e8e064e28a491c87d0c6cde74", null ],
+    [ "uiManaDetonationTimer", "db/d19/a21474.html#a3ebe4eb452296f3c45db5c1b6cdaa243", null ]
 ];

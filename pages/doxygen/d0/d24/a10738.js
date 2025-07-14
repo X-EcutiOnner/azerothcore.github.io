@@ -1,7 +1,6 @@
 var a10738 =
 [
-    [ "Playsound", "d0/d24/a10738.html#a955f91d0d65c64f154f99b3b9472e273", null ],
-    [ "Playsound", "d0/d24/a10738.html#aa242d4ca729d67d7fd58dc81985f22f9", null ],
-    [ "Write", "d0/d24/a10738.html#acb4bdd9a1613a158832115e4c18bfcd9", null ],
-    [ "SoundKitID", "d0/d24/a10738.html#a922cb6d06285bdf9f3d89ff990c40b0a", null ]
+    [ "GuildSetGuildMaster", "d0/d24/a10738.html#ae6ca07252de719cc506042c8d3e8285e", null ],
+    [ "Read", "d0/d24/a10738.html#a94f16e55a840c7cba991a119af5d8263", null ],
+    [ "NewMasterName", "d0/d24/a10738.html#a02f37610492c75373266bb93000adcbf", null ]
 ];

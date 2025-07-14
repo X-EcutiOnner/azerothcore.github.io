@@ -1,9 +1,6 @@
 var a26202 =
 [
-    [ "HandleAfterCast", "dc/d3a/a26202.html#ac08e632064c407346649f525d030d335", null ],
-    [ "HandleDummy", "dc/d3a/a26202.html#a9c1dadd5a3e2e039b50a414ac589ebf4", null ],
-    [ "Load", "dc/d3a/a26202.html#a177525c755b036a79263c0fa6fa4082e", null ],
-    [ "PrepareSpellScript", "dc/d3a/a26202.html#aed99b07a53068b19bddb4daff3449a52", null ],
-    [ "Register", "dc/d3a/a26202.html#a946e56a325d83656d9b43af80d065e45", null ],
-    [ "_triggerSpellId", "dc/d3a/a26202.html#a6697a22b684784853cb1999d41fcaaa7", null ]
+    [ "HandleEffectScriptEffect", "dc/d3a/a26202.html#a852a621f0b008dc1294dbeb9e9877a04", null ],
+    [ "PrepareSpellScript", "dc/d3a/a26202.html#a8b0f656994289f260645a2ae60d9ee4b", null ],
+    [ "Register", "dc/d3a/a26202.html#a1fa4dca7bae36c5e2acde0fe8b8cd801", null ]
 ];

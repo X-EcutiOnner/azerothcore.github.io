@@ -1,5 +1,6 @@
 var a18778 =
 [
-    [ "creatureEntry", "db/d3c/a18778.html#afab12c40af70303dff2a9553d47dbb7d", null ],
-    [ "questId", "db/d3c/a18778.html#ace2a7dd58d442b6afb2173311c89593b", null ]
+    [ "npc_icc_skybreaker_vicarAI", "d5/db7/a18782.html", "d5/db7/a18782" ],
+    [ "npc_icc_skybreaker_vicar", "db/d3c/a18778.html#a40451cc6fba0cae59e47fa38e4fb79d3", null ],
+    [ "GetAI", "db/d3c/a18778.html#a6884bb7e54b78abee0cc995c4fbb501d", null ]
 ];

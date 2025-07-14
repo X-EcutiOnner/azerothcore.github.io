@@ -1,6 +1,7 @@
 var a16106 =
 [
-    [ "boss_eadricAI", "dd/d1f/a16110.html", "dd/d1f/a16110" ],
-    [ "boss_eadric", "d3/d94/a16106.html#ad32a08ec9fc2a31b5bcdcff67d0127d2", null ],
-    [ "GetAI", "d3/d94/a16106.html#a15235e86d0bdff0bd3fef5dbff3abb27", null ]
+    [ "HandlePeriodic", "d3/d94/a16106.html#ab49a636eaddea5c91f86f21a1d4d182e", null ],
+    [ "PrepareAuraScript", "d3/d94/a16106.html#a3a9a26b3e0964e08d67a89cd950b5a97", null ],
+    [ "Register", "d3/d94/a16106.html#aed8d41a9bf289b21caa9e93e66b004d2", null ],
+    [ "Validate", "d3/d94/a16106.html#a3a428e0e4f63770a35cdf6a6ac85e403", null ]
 ];

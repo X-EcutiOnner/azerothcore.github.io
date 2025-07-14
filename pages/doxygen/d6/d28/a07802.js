@@ -1,10 +1,12 @@
 var a07802 =
 [
-    [ "RedirectThreatInfo", "d6/d28/a07802.html#a23b5adf3087ddba3b92133199aa42cf8", null ],
-    [ "GetTargetGUID", "d6/d28/a07802.html#ae206110e4d7155bb87079ebd58800e3d", null ],
-    [ "GetThreatPct", "d6/d28/a07802.html#a58bd2c745f92625ff7eac0ddca6a23a0", null ],
-    [ "ModifyThreatPct", "d6/d28/a07802.html#ac7093218d9b8c6ea03683dd5624bde8f", null ],
-    [ "Set", "d6/d28/a07802.html#a140b7a0adb6e6b71b21e8d6db7125ae2", null ],
-    [ "_targetGUID", "d6/d28/a07802.html#a98f9efc5209ef7200e71ff39310520dd", null ],
-    [ "_threatPct", "d6/d28/a07802.html#a95d6d366d664888f532d40afd1cc57d2", null ]
+    [ "HyperlinkInfo", "d6/d28/a07802.html#aa61aad1a1e2cf1a699ff67ee25cc474b", null ],
+    [ "HyperlinkInfo", "d6/d28/a07802.html#ac08518b3afb878fc7979807d764b7872", null ],
+    [ "operator bool", "d6/d28/a07802.html#a834ac95bb310f6653208026e203e065f", null ],
+    [ "color", "d6/d28/a07802.html#a38c0121d4001ad938d9bc53ca08217db", null ],
+    [ "data", "d6/d28/a07802.html#a7d7d839de8eb48a25e2b687b69a092ea", null ],
+    [ "ok", "d6/d28/a07802.html#a54c7a812f79593258002d367110b2403", null ],
+    [ "tag", "d6/d28/a07802.html#a2171d081c4eb0a23d00e637dfa64bcfc", null ],
+    [ "tail", "d6/d28/a07802.html#a065d1a0942abbe5739f44126d5c3ce00", null ],
+    [ "text", "d6/d28/a07802.html#a2b914c9bdc41771b8cb058468bfa23db", null ]
 ];

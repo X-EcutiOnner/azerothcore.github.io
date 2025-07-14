@@ -1,6 +1,7 @@
 var a18746 =
 [
-    [ "npc_icc_putricades_trapAI", "d0/d14/a18750.html", "d0/d14/a18750" ],
-    [ "npc_icc_putricades_trap", "dd/d7a/a18746.html#ae022f2991fee4143fb965c53e4d4da5c", null ],
-    [ "GetAI", "dd/d7a/a18746.html#a42ab1cb27234ebd10755dbbedce5f187", null ]
+    [ "HandleEffectPeriodic", "dd/d7a/a18746.html#a208c4d59e20cd802cf2f4643fa0d6253", null ],
+    [ "PrepareAuraScript", "dd/d7a/a18746.html#af1d284c4686f739b02b350a6c0a166c2", null ],
+    [ "Register", "dd/d7a/a18746.html#a006a97823ac07346771ec4ab61bd0763", null ],
+    [ "Validate", "dd/d7a/a18746.html#ae1f5555dcadb48ba59bf9571073f4a99", null ]
 ];

@@ -1,7 +1,6 @@
 var a21162 =
 [
-    [ "PrepareAuraScript", "d5/d0e/a21162.html#adedc1cb8b42e9cd3c2e68415bca59c6b", null ],
-    [ "Register", "d5/d0e/a21162.html#a7225d1f83921e4de06516c1db5a5038a", null ],
-    [ "TriggerFists", "d5/d0e/a21162.html#af5d91d679f6bed5afc675b8a5fd90210", null ],
-    [ "Validate", "d5/d0e/a21162.html#a977897c569245148eb94892bb42d4ca5", null ]
+    [ "boss_skadi_graufAI", "d0/d28/a21166.html", "d0/d28/a21166" ],
+    [ "boss_skadi_grauf", "d5/d0e/a21162.html#a571db2d2ae21f38b7051319da0f042f6", null ],
+    [ "GetAI", "d5/d0e/a21162.html#a9b637a93a572d21691b81b80ec45206d", null ]
 ];

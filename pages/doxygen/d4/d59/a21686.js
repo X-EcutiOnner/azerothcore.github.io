@@ -1,6 +1,9 @@
 var a21686 =
 [
-    [ "HandleSendEvent", "d4/d59/a21686.html#a8b8276833404f3f69c3b7f97d95b6982", null ],
-    [ "PrepareSpellScript", "d4/d59/a21686.html#aa632d381ac415feaf226f55fc2cd8520", null ],
-    [ "Register", "d4/d59/a21686.html#a72673f5054cf269cc8da511441f7bd66", null ]
+    [ "npc_archmage_landalockAI", "d4/d59/a21686.html#a8e2b48a9cf243b0d6f11286cf1e301c8", null ],
+    [ "GetImageEntry", "d4/d59/a21686.html#ae09841969253c0baf72cc235b6fa058e", null ],
+    [ "JustSummoned", "d4/d59/a21686.html#af9016bfeca3db7611fdafe4337e5f64a", null ],
+    [ "UpdateAI", "d4/d59/a21686.html#abad2f45c0a5c43cc7aa7867a0291133d", null ],
+    [ "_summonGUID", "d4/d59/a21686.html#a8b59c414dfd46209dcc3d00531e2b98b", null ],
+    [ "_switchImageTimer", "d4/d59/a21686.html#a5e2fb6556bbb5cf22b77a72e9ccbc548", null ]
 ];

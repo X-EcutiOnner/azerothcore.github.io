@@ -1,6 +1,6 @@
 var a24446 =
 [
-    [ "HandleEffectApply", "dc/d8e/a24446.html#a4bc121ecc9357709ec2f1ea395d0b6b1", null ],
-    [ "PrepareAuraScript", "dc/d8e/a24446.html#ac7f16aed55aedba6da0672c3102a5fae", null ],
-    [ "Register", "dc/d8e/a24446.html#a83e15d7db1b9aa4ce4fbc8a359795091", null ]
+    [ "FilterTargets", "dc/d8e/a24446.html#adab73c94c659d7421c9c6887d956cd83", null ],
+    [ "PrepareSpellScript", "dc/d8e/a24446.html#a8cf5e4224f46b6f836d517f90fd135d4", null ],
+    [ "Register", "dc/d8e/a24446.html#a3aaf93f3746b36d5bfa4fc475aabe43b", null ]
 ];

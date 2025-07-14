@@ -1,9 +1,14 @@
 var a23946 =
 [
-    [ "npc_fel_guard_houndAI", "d5/df2/a23946.html#af8b3a9b56e4bdf8d8b654ecccd096651", null ],
-    [ "MovementInform", "d5/df2/a23946.html#a127a0d7b61fde64c0ced52192f438f12", null ],
-    [ "Reset", "d5/df2/a23946.html#ab979c3602897b1148ffd5d4a81941197", null ],
-    [ "UpdateAI", "d5/df2/a23946.html#a97a59eec672d7dfe36264d34b922d0c8", null ],
-    [ "checkTimer", "d5/df2/a23946.html#ad22bb6efafb4396cd0137c1384240029", null ],
-    [ "helboarGUID", "d5/df2/a23946.html#aadcf9b51dbcaa1e62b6619b89d865814", null ]
+    [ "npc_deaths_door_fell_cannon_target_bunnyAI", "d5/df2/a23946.html#a258f55153ad857fbf35545cfb87c3d3a", null ],
+    [ "Initialize", "d5/df2/a23946.html#a187340b00067f2f65a7e48845a6edaba", null ],
+    [ "JustSummoned", "d5/df2/a23946.html#a10a3b9b4a2763bac4c9fe5f680850052", null ],
+    [ "Reset", "d5/df2/a23946.html#a92a6cbe0515752440284d18bae0adf66", null ],
+    [ "SpellHit", "d5/df2/a23946.html#a517f7412208de83604d0d6806fbc0b34", null ],
+    [ "UpdateAI", "d5/df2/a23946.html#ab4fb75f1b84c2722f936387a6942028b", null ],
+    [ "CannonGUID", "d5/df2/a23946.html#a220e111467cfb6f02e996f012123e09b", null ],
+    [ "count", "d5/df2/a23946.html#ac78f94033239dcf247be9a48d0535081", null ],
+    [ "events", "d5/df2/a23946.html#acf362c9e3eb844db9f66cc8c969cd22e", null ],
+    [ "PartyTime", "d5/df2/a23946.html#a1780c656fb539be6dcd74e271cea4c53", null ],
+    [ "PlayerGUID", "d5/df2/a23946.html#a686314ffe4a588a1ba8722a6cab56fc7", null ]
 ];

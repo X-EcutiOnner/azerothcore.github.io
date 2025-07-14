@@ -1,6 +1,7 @@
 var a13518 =
 [
-    [ "npc_greengill_slaveAI", "d5/d29/a13522.html", "d5/d29/a13522" ],
-    [ "npc_greengill_slave", "df/d4a/a13518.html#a46fb36fadb5ed5fc94a563473edd8732", null ],
-    [ "GetAI", "df/d4a/a13518.html#ab2cb9adfeef75384becfbb3c5188b8d7", null ]
+    [ "npc_eris_hevenfireAI", "d5/d29/a13522.html", "d5/d29/a13522" ],
+    [ "npc_eris_hevenfire", "df/d4a/a13518.html#a77f0836dc0b19114316b8b67839d8033", null ],
+    [ "GetAI", "df/d4a/a13518.html#ad67a81ad20fac785c199c16fea8fe6f8", null ],
+    [ "OnQuestAccept", "df/d4a/a13518.html#a1e0baec5706cfddd678b58eb9359997e", null ]
 ];

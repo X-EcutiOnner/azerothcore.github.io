@@ -1,6 +1,6 @@
 var a20038 =
 [
-    [ "FilterTargets", "d3/dd2/a20038.html#adb438b9bcf4be347aeabf6608fbfb8a4", null ],
-    [ "PrepareSpellScript", "d3/dd2/a20038.html#a88f5ca3aaa575cff0ba778f9b575d656", null ],
-    [ "Register", "d3/dd2/a20038.html#ac7337b4ee8511f72b129fccc83b3241e", null ]
+    [ "boss_freya_elder_stonebarkAI", "d8/d63/a20042.html", "d8/d63/a20042" ],
+    [ "boss_freya_elder_stonebark", "d3/dd2/a20038.html#a9c90c504d78456580ae657a42fac4075", null ],
+    [ "GetAI", "d3/dd2/a20038.html#a0b529bb8755c56046c40b620ef4b7448", null ]
 ];

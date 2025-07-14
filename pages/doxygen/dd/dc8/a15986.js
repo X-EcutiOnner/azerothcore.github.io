@@ -1,14 +1,10 @@
 var a15986 =
 [
-    [ "npc_halion_controllerAI", "dd/dc8/a15986.html#aabe03dbe5652db6687e7f2857ea33a20", null ],
-    [ "DoAction", "dd/dc8/a15986.html#a8d295797e21c03e7d2c3d504c40ba128", null ],
-    [ "Reset", "dd/dc8/a15986.html#a3004aecb50815287d5f832f2a8a0d250", null ],
-    [ "SetData", "dd/dc8/a15986.html#a3ce9a62d3e44b3ccc279803d5ef87a47", null ],
-    [ "UpdateAI", "dd/dc8/a15986.html#ac3ad9df40560ba8acfcd7fbabd303fde", null ],
-    [ "UpdateCorporeality", "dd/dc8/a15986.html#ac82987f2b2b069b90c509c477004bae6", null ],
-    [ "_corporeality", "dd/dc8/a15986.html#a4c23df1bb774ac724bdf537453592671", null ],
-    [ "_events", "dd/dc8/a15986.html#a92e3f116260265a2d0dbeef769eee03e", null ],
-    [ "_instance", "dd/dc8/a15986.html#a5cce2f56e6ef0b4baeb6f2f7dbfd2f73", null ],
-    [ "_materialDamage", "dd/dc8/a15986.html#afcc510b0d4be10ed057d1a304b803b69", null ],
-    [ "_twilightDamage", "dd/dc8/a15986.html#a13a9efcb11ed31725c45011508407287", null ]
+    [ "HandleDummy", "dd/dc8/a15986.html#aebbcaa1df9a6379998bb2069089f45bd", null ],
+    [ "HandleSchoolDamage", "dd/dc8/a15986.html#a8372b7d176c94689b1b7fe99add7812e", null ],
+    [ "Load", "dd/dc8/a15986.html#ae47e8a9c4223fd65b81c842687e19f44", null ],
+    [ "PrepareSpellScript", "dd/dc8/a15986.html#a3fd71e2a93f99f19443640a2147b1663", null ],
+    [ "Register", "dd/dc8/a15986.html#a8278d362a4354ccf81665ce0067c9a06", null ],
+    [ "Validate", "dd/dc8/a15986.html#a414b1e1396910b87a671305ce9dcab09", null ],
+    [ "_spawned", "dd/dc8/a15986.html#aa657a9869f04a1d1d2ce71f6d8464b17", null ]
 ];

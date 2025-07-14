@@ -1,7 +1,14 @@
 var a13062 =
 [
-    [ "HandleScript", "d2/deb/a13062.html#ab705220b48be16090107135f9e2272cf", null ],
-    [ "PrepareSpellScript", "d2/deb/a13062.html#a8bf22d62d6e7f50315e4c14714b8457f", null ],
-    [ "Register", "d2/deb/a13062.html#ac969bf9f37d02f2b3d78d31d7f8c4625", null ],
-    [ "Validate", "d2/deb/a13062.html#ad1d90693a427a52fa728e5ae455932a3", null ]
+    [ "boss_kirtonos_the_heraldAI", "d2/deb/a13062.html#af68c553db0889c22b7b4b76c868d38e7", null ],
+    [ "DoAction", "d2/deb/a13062.html#ade11c2ff67c93f09f34b7b0e59766cc3", null ],
+    [ "EnterEvadeMode", "d2/deb/a13062.html#a92ee25d349cc1ae3e46e4696a01697c3", null ],
+    [ "JustDied", "d2/deb/a13062.html#a7ecf7396ebcb6f541586435996094f56", null ],
+    [ "JustEngagedWith", "d2/deb/a13062.html#abcf09a75bed393e5fc03ef184e5c2918", null ],
+    [ "MovementInform", "d2/deb/a13062.html#a16379320eebb8223a79cf3927bdc507e", null ],
+    [ "UpdateAI", "d2/deb/a13062.html#a7eedcb1416d05b95f6110751119aea02", null ],
+    [ "events", "d2/deb/a13062.html#a5dd38f68ce8745484cbc00dadde439dc", null ],
+    [ "events2", "d2/deb/a13062.html#aaf9216da4f5394953d0316be8d8e8c4f", null ],
+    [ "instance", "d2/deb/a13062.html#acae39cf7bc9a6d68834d3916fa75a006", null ],
+    [ "TransformsCount", "d2/deb/a13062.html#aa0834b23d00463ae36bb0ec6a2067257", null ]
 ];

@@ -1,13 +1,15 @@
 var a22890 =
 [
-    [ "boss_teron_gorefiend", "de/d60/a22890.html#a81845f22aa383cdc57912ee9655b7bf9", null ],
-    [ "JustDied", "de/d60/a22890.html#aa080c8d17bc51142c1cecadf7a0376a2", null ],
-    [ "JustEngagedWith", "de/d60/a22890.html#a9f658d42cf27a54c62a71e28b5dfadee", null ],
-    [ "JustSummoned", "de/d60/a22890.html#a71db567c5be7396add349e2f1b455a50", null ],
-    [ "KilledUnit", "de/d60/a22890.html#a70dbf2b2a08cf915866afd51f8a74018", null ],
-    [ "Reset", "de/d60/a22890.html#af32df2d958c618dc08d3da40b92bf3aa", null ],
-    [ "SetData", "de/d60/a22890.html#a139c351471a3f19c7e59cf8e40913820", null ],
-    [ "UpdateAI", "de/d60/a22890.html#a0bdd92c94adf066fdbf8ba9bcb1a1ba1", null ],
-    [ "_intro", "de/d60/a22890.html#a99c62157084373e8eddd4497360cc047", null ],
-    [ "_recentlySpoken", "de/d60/a22890.html#adef80b4509a6a72e7021fd3cc11de697", null ]
+    [ "boss_reliquary_of_soulsAI", "de/d60/a22890.html#abee29aab1d28a168be3b381d0765a804", null ],
+    [ "AttackStart", "de/d60/a22890.html#af59a9972dfdb264248e78206ea0d834c", null ],
+    [ "CheckEvadeIfOutOfCombatArea", "de/d60/a22890.html#a67343cecd292c2dc40f8c5a275d95fdf", null ],
+    [ "DoAction", "de/d60/a22890.html#aa281dd9c7dc0c6f15c2bfcbf60384006", null ],
+    [ "JustDied", "de/d60/a22890.html#a6e19cb7d94579a70ac11f7173cf930c6", null ],
+    [ "JustEngagedWith", "de/d60/a22890.html#a88eef17a5f475b38a37b0e1adcc0cbbc", null ],
+    [ "JustSummoned", "de/d60/a22890.html#ad3c7679c2341951bbeb49aafad7196cd", null ],
+    [ "MoveInLineOfSight", "de/d60/a22890.html#a315a0ad69f566ff63b06fd0d47ce32d8", null ],
+    [ "PhaseTransitionSpawns", "de/d60/a22890.html#a96235ed84a30458eb5f76d87ed47dc89", null ],
+    [ "Reset", "de/d60/a22890.html#a5dc6ec0521e2ddfb63a6818ad2de0d8b", null ],
+    [ "SummonedCreatureDies", "de/d60/a22890.html#a51ac7df8689bf899eaaf4cde566d8202", null ],
+    [ "UpdateAI", "de/d60/a22890.html#a4289e678a69e35db5e4ea75fddd7e8e4", null ]
 ];

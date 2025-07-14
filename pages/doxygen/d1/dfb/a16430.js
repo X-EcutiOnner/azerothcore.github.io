@@ -1,7 +1,6 @@
 var a16430 =
 [
-    [ "HandleEffectPeriodic", "d1/dfb/a16430.html#ae5749a43f37f0eb3f049d8804845f61e", null ],
-    [ "PrepareAuraScript", "d1/dfb/a16430.html#a66dcb98f38ed6b040928543015f59c9b", null ],
-    [ "Register", "d1/dfb/a16430.html#abbebe9c5ad44db61e80ce3707e744ab6", null ],
-    [ "Validate", "d1/dfb/a16430.html#a1131f0014f298b87483412d960bc0221", null ]
+    [ "npc_toc_hunterAI", "d9/df1/a16434.html", "d9/df1/a16434" ],
+    [ "npc_toc_hunter", "d1/dfb/a16430.html#a73d4113df71626af7b8294e08373965e", null ],
+    [ "GetAI", "d1/dfb/a16430.html#a8b9d2a8186aefb3e411bd20c006207d4", null ]
 ];

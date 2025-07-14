@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/game/Scripting/ScriptDefines/GlobalScript.cpp File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/game/World/IWorld.h File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,36 +105,77 @@ $(document).ready(function(){initNavTree('d5/d99/a01901.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#var-members">Variables</a>  </div>
-  <div class="headertitle"><div class="title">GlobalScript.cpp File Reference</div></div>
+<a href="#nested-classes">Classes</a> &#124;
+<a href="#enum-members">Enumerations</a>  </div>
+  <div class="headertitle"><div class="title">IWorld.h File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">GlobalScript.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">InstanceScript.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Player.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ScriptMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ScriptMgrMacros.h</a>&quot;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">AsyncCallbackProcessor.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Common.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Duration.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">ObjectGuid.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">SharedDefines.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">WorldConfig.h</a>&quot;</code><br />
+<code>#include &lt;unordered_map&gt;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
-Variables</h2></td></tr>
-<tr class="memitem:aab5e9d371cdc72eb5a60f210f00cdc34"><td class="memItemLeft" align="right" valign="top">template class <a class="el" href="../../db/daf/a04412.html#a00a04eccc2ca042486601576eccae409">AC_GAME_API</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d99/a01901.html#aab5e9d371cdc72eb5a60f210f00cdc34">ScriptRegistry&lt; GlobalScript &gt;</a></td></tr>
-<tr class="separator:aab5e9d371cdc72eb5a60f210f00cdc34"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
+Classes</h2></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d90/a11530.html">CliCommandHolder</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Storage class for commands issued for delayed execution.  <a href="../../d7/d90/a11530.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d71/a11534.html">IWorld</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
+Enumerations</h2></td></tr>
+<tr class="memitem:a08e6f7cfaf7929274a1908b0e95c798f"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d99/a01901.html#a08e6f7cfaf7929274a1908b0e95c798f">ServerMessageType</a> { <br />
+&#160;&#160;<a class="el" href="../../d5/d99/a01901.html#a08e6f7cfaf7929274a1908b0e95c798fa06a96ab329b402934a6bd8d22fbd930c">SERVER_MSG_SHUTDOWN_TIME</a> = 1
+, <br />
+&#160;&#160;<a class="el" href="../../d5/d99/a01901.html#a08e6f7cfaf7929274a1908b0e95c798fae8f145f08fb30710c968e3a9951d8b68">SERVER_MSG_RESTART_TIME</a> = 2
+, <br />
+&#160;&#160;<a class="el" href="../../d5/d99/a01901.html#a08e6f7cfaf7929274a1908b0e95c798fa7b603f35c79df6fdd3f52f235dfaf517">SERVER_MSG_STRING</a> = 3
+, <br />
+&#160;&#160;<a class="el" href="../../d5/d99/a01901.html#a08e6f7cfaf7929274a1908b0e95c798faabf5988cd244fc5827716176e69d151b">SERVER_MSG_SHUTDOWN_CANCELLED</a> = 4
+, <br />
+&#160;&#160;<a class="el" href="../../d5/d99/a01901.html#a08e6f7cfaf7929274a1908b0e95c798fabaf3639f93cefc356c92dedb463da131">SERVER_MSG_RESTART_CANCELLED</a> = 5
+<br />
+ }</td></tr>
+<tr class="separator:a08e6f7cfaf7929274a1908b0e95c798f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Variable Documentation</h2>
-<a id="aab5e9d371cdc72eb5a60f210f00cdc34" name="aab5e9d371cdc72eb5a60f210f00cdc34"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aab5e9d371cdc72eb5a60f210f00cdc34">&#9670;&#160;</a></span>ScriptRegistry&lt; GlobalScript &gt;</h2>
+<h2 class="groupheader">Enumeration Type Documentation</h2>
+<a id="a08e6f7cfaf7929274a1908b0e95c798f" name="a08e6f7cfaf7929274a1908b0e95c798f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a08e6f7cfaf7929274a1908b0e95c798f">&#9670;&#160;</a></span>ServerMessageType</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">template class <a class="el" href="../../db/daf/a04412.html#a00a04eccc2ca042486601576eccae409">AC_GAME_API</a> <a class="el" href="../../d4/dc7/a10400.html">ScriptRegistry</a>&lt; <a class="el" href="../../db/def/a10296.html">GlobalScript</a> &gt;</td>
+          <td class="memname">enum <a class="el" href="../../d5/d99/a01901.html#a08e6f7cfaf7929274a1908b0e95c798f">ServerMessageType</a></td>
         </tr>
       </table>
 </div><div class="memdoc">
-
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a08e6f7cfaf7929274a1908b0e95c798fa06a96ab329b402934a6bd8d22fbd930c" name="a08e6f7cfaf7929274a1908b0e95c798fa06a96ab329b402934a6bd8d22fbd930c"></a>SERVER_MSG_SHUTDOWN_TIME&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a08e6f7cfaf7929274a1908b0e95c798fae8f145f08fb30710c968e3a9951d8b68" name="a08e6f7cfaf7929274a1908b0e95c798fae8f145f08fb30710c968e3a9951d8b68"></a>SERVER_MSG_RESTART_TIME&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a08e6f7cfaf7929274a1908b0e95c798fa7b603f35c79df6fdd3f52f235dfaf517" name="a08e6f7cfaf7929274a1908b0e95c798fa7b603f35c79df6fdd3f52f235dfaf517"></a>SERVER_MSG_STRING&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a08e6f7cfaf7929274a1908b0e95c798faabf5988cd244fc5827716176e69d151b" name="a08e6f7cfaf7929274a1908b0e95c798faabf5988cd244fc5827716176e69d151b"></a>SERVER_MSG_SHUTDOWN_CANCELLED&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a08e6f7cfaf7929274a1908b0e95c798fabaf3639f93cefc356c92dedb463da131" name="a08e6f7cfaf7929274a1908b0e95c798fabaf3639f93cefc356c92dedb463da131"></a>SERVER_MSG_RESTART_CANCELLED&#160;</td><td class="fielddoc"></td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno">   54</span>{</div>
+<div class="line"><span class="lineno">   55</span>    <a class="code hl_enumvalue" href="../../d5/d99/a01901.html#a08e6f7cfaf7929274a1908b0e95c798fa06a96ab329b402934a6bd8d22fbd930c">SERVER_MSG_SHUTDOWN_TIME</a>      = 1,</div>
+<div class="line"><span class="lineno">   56</span>    <a class="code hl_enumvalue" href="../../d5/d99/a01901.html#a08e6f7cfaf7929274a1908b0e95c798fae8f145f08fb30710c968e3a9951d8b68">SERVER_MSG_RESTART_TIME</a>       = 2,</div>
+<div class="line"><span class="lineno">   57</span>    <a class="code hl_enumvalue" href="../../d5/d99/a01901.html#a08e6f7cfaf7929274a1908b0e95c798fa7b603f35c79df6fdd3f52f235dfaf517">SERVER_MSG_STRING</a>             = 3,</div>
+<div class="line"><span class="lineno">   58</span>    <a class="code hl_enumvalue" href="../../d5/d99/a01901.html#a08e6f7cfaf7929274a1908b0e95c798faabf5988cd244fc5827716176e69d151b">SERVER_MSG_SHUTDOWN_CANCELLED</a> = 4,</div>
+<div class="line"><span class="lineno">   59</span>    <a class="code hl_enumvalue" href="../../d5/d99/a01901.html#a08e6f7cfaf7929274a1908b0e95c798fabaf3639f93cefc356c92dedb463da131">SERVER_MSG_RESTART_CANCELLED</a>  = 5</div>
+<div class="line"><span class="lineno">   60</span>};</div>
+<div class="ttc" id="aa01901_html_a08e6f7cfaf7929274a1908b0e95c798fa06a96ab329b402934a6bd8d22fbd930c"><div class="ttname"><a href="../../d5/d99/a01901.html#a08e6f7cfaf7929274a1908b0e95c798fa06a96ab329b402934a6bd8d22fbd930c">SERVER_MSG_SHUTDOWN_TIME</a></div><div class="ttdeci">@ SERVER_MSG_SHUTDOWN_TIME</div><div class="ttdef"><b>Definition:</b> IWorld.h:55</div></div>
+<div class="ttc" id="aa01901_html_a08e6f7cfaf7929274a1908b0e95c798fa7b603f35c79df6fdd3f52f235dfaf517"><div class="ttname"><a href="../../d5/d99/a01901.html#a08e6f7cfaf7929274a1908b0e95c798fa7b603f35c79df6fdd3f52f235dfaf517">SERVER_MSG_STRING</a></div><div class="ttdeci">@ SERVER_MSG_STRING</div><div class="ttdef"><b>Definition:</b> IWorld.h:57</div></div>
+<div class="ttc" id="aa01901_html_a08e6f7cfaf7929274a1908b0e95c798faabf5988cd244fc5827716176e69d151b"><div class="ttname"><a href="../../d5/d99/a01901.html#a08e6f7cfaf7929274a1908b0e95c798faabf5988cd244fc5827716176e69d151b">SERVER_MSG_SHUTDOWN_CANCELLED</a></div><div class="ttdeci">@ SERVER_MSG_SHUTDOWN_CANCELLED</div><div class="ttdef"><b>Definition:</b> IWorld.h:58</div></div>
+<div class="ttc" id="aa01901_html_a08e6f7cfaf7929274a1908b0e95c798fabaf3639f93cefc356c92dedb463da131"><div class="ttname"><a href="../../d5/d99/a01901.html#a08e6f7cfaf7929274a1908b0e95c798fabaf3639f93cefc356c92dedb463da131">SERVER_MSG_RESTART_CANCELLED</a></div><div class="ttdeci">@ SERVER_MSG_RESTART_CANCELLED</div><div class="ttdef"><b>Definition:</b> IWorld.h:59</div></div>
+<div class="ttc" id="aa01901_html_a08e6f7cfaf7929274a1908b0e95c798fae8f145f08fb30710c968e3a9951d8b68"><div class="ttname"><a href="../../d5/d99/a01901.html#a08e6f7cfaf7929274a1908b0e95c798fae8f145f08fb30710c968e3a9951d8b68">SERVER_MSG_RESTART_TIME</a></div><div class="ttdeci">@ SERVER_MSG_RESTART_TIME</div><div class="ttdef"><b>Definition:</b> IWorld.h:56</div></div>
+</div><!-- fragment -->
 </div>
 </div>
 </div><!-- contents -->
@@ -142,8 +183,8 @@ Variables</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_824c567499771b11a8d1959386aa27e6.html">Scripting</a></li><li class="navelem"><a class="el" href="../../dir_a0aac0519f50cbe40c54d5948ed285d0.html">ScriptDefines</a></li><li class="navelem"><a class="el" href="../../d5/d99/a01901.html">GlobalScript.cpp</a></li>
-    <li class="footer">Generated on Mon Jul 7 2025 20:47:22 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_6f2d0651f8bb60d9295230d3c0a9398e.html">World</a></li><li class="navelem"><a class="el" href="../../d5/d99/a01901.html">IWorld.h</a></li>
+    <li class="footer">Generated on Mon Jul 14 2025 20:48:42 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

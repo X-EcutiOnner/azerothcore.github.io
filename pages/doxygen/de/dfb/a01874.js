@@ -1,13 +1,10 @@
 var a01874 =
 [
-    [ "PetScript", "d2/dc2/a10344.html", "d2/dc2/a10344" ],
-    [ "PetHook", "de/dfb/a01874.html#a2e6398af59b176e045eece50b1a5d404", [
-      [ "PETHOOK_ON_INIT_STATS_FOR_LEVEL", "de/dfb/a01874.html#a2e6398af59b176e045eece50b1a5d404a1aa219c404710f806516a47fb4a2c421", null ],
-      [ "PETHOOK_ON_CALCULATE_MAX_TALENT_POINTS_FOR_LEVEL", "de/dfb/a01874.html#a2e6398af59b176e045eece50b1a5d404af4173fac4396520c8d5f664cb15cd09a", null ],
-      [ "PETHOOK_CAN_UNLEARN_SPELL_SET", "de/dfb/a01874.html#a2e6398af59b176e045eece50b1a5d404a73a664bf8c79a8347a66639e7f4585ed", null ],
-      [ "PETHOOK_CAN_UNLEARN_SPELL_DEFAULT", "de/dfb/a01874.html#a2e6398af59b176e045eece50b1a5d404afd7165a69bf431cabc9b485460fde1ce", null ],
-      [ "PETHOOK_CAN_RESET_TALENTS", "de/dfb/a01874.html#a2e6398af59b176e045eece50b1a5d404a7c81bb255968b85119ef74e3124abe11", null ],
-      [ "PETHOOK_ON_PET_ADD_TO_WORLD", "de/dfb/a01874.html#a2e6398af59b176e045eece50b1a5d404a34b989d3a1e33e5ab31d98bf4a36ee56", null ],
-      [ "PETHOOK_END", "de/dfb/a01874.html#a2e6398af59b176e045eece50b1a5d404aa71e862274b6066ffe8af41bccdac911", null ]
-    ] ]
+    [ "CALL_ENABLED_BOOLEAN_HOOKS", "de/dfb/a01874.html#a6ed5893c246e1f2c46b3d33ef8729a64", null ],
+    [ "CALL_ENABLED_BOOLEAN_HOOKS_WITH_DEFAULT_FALSE", "de/dfb/a01874.html#a370083225ad9db5b05a730ce4fb26d2f", null ],
+    [ "CALL_ENABLED_HOOKS", "de/dfb/a01874.html#a9662d12a9f13490594165729108aa0b1", null ],
+    [ "ExecuteScript", "de/dfb/a01874.html#a80951f767a7c77417a671490893db073", null ],
+    [ "GetReturnAIScript", "de/dfb/a01874.html#aceff01aa3f5ab68a0253704ef30041df", null ],
+    [ "IsValidBoolScript", "de/dfb/a01874.html#a9dedac0cb410c9d87f0470ffd0eb6c66", null ],
+    [ "ReturnValidBool", "de/dfb/a01874.html#a670fda94f7e41c38816a1e12f9efec7c", null ]
 ];

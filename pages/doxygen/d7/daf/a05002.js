@@ -1,11 +1,8 @@
 var a05002 =
 [
-    [ "ModelPosition", "d7/daf/a05002.html#ac611d964ae36e4ccd5a3bf385457a0ac", null ],
-    [ "init", "d7/daf/a05002.html#a5b7df306c28a7985fd3ab17d48350a27", null ],
-    [ "moveToBasePos", "d7/daf/a05002.html#a2fe1b48319a056f110ef700877257731", null ],
-    [ "transform", "d7/daf/a05002.html#add4c2efec70be75d8ffcd1009b6c2699", null ],
-    [ "iDir", "d7/daf/a05002.html#a24ba62281166e60036ac8a57b26c6abd", null ],
-    [ "iPos", "d7/daf/a05002.html#a36a3bd930273e0313e3b09c1289e9317", null ],
-    [ "iRotation", "d7/daf/a05002.html#ae53c5b044021f5ef04ecb5d8898fd8b3", null ],
-    [ "iScale", "d7/daf/a05002.html#a81bb029dce2aadec2f147a1329ee285e", null ]
+    [ "LocationInfoCallback", "d7/daf/a05002.html#a81b8c00fcc0a1780445ffbdf85decfdf", null ],
+    [ "operator()", "d7/daf/a05002.html#ac2ccfe87fa33cae7d2513c24ba8bfbeb", null ],
+    [ "locInfo", "d7/daf/a05002.html#a9a8b8529a571b3652cd898b2888d8027", null ],
+    [ "prims", "d7/daf/a05002.html#a19c87ad1c9665c3ddfbfa89ccdee5c10", null ],
+    [ "result", "d7/daf/a05002.html#a1ada8b8a1742f02b2d1f28ee82903246", null ]
 ];

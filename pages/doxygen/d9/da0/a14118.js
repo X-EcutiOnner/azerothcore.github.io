@@ -1,6 +1,6 @@
 var a14118 =
 [
-    [ "CheckItem", "d9/da0/a14118.html#a71f8c9bad4a102914a1047ef61d20f92", null ],
-    [ "PrepareSpellScript", "d9/da0/a14118.html#a0fa160f1218cf838444f894716cb8aed", null ],
-    [ "Register", "d9/da0/a14118.html#a2a6816d9ab97abddfa20cd6413a94178", null ]
+    [ "boss_wushoolayAI", "d4/da7/a14122.html", "d4/da7/a14122" ],
+    [ "boss_wushoolay", "d9/da0/a14118.html#a68359ee086bb4e86c3c16c4a03e54893", null ],
+    [ "GetAI", "d9/da0/a14118.html#a70b476358956fd05d6effb75517e2b3d", null ]
 ];

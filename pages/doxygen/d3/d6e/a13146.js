@@ -1,6 +1,6 @@
 var a13146 =
 [
-    [ "HandleActivateObject", "d3/d6e/a13146.html#aedcb4513b7c53b9a9e972b9051da0e0f", null ],
-    [ "PrepareSpellScript", "d3/d6e/a13146.html#afc844250ea7ba48330edfda305fa856c", null ],
-    [ "Register", "d3/d6e/a13146.html#a6d77f6848397724e61c1db7a80de7139", null ]
+    [ "instance_shadowfang_keep_InstanceMapScript", "da/d57/a13150.html", "da/d57/a13150" ],
+    [ "instance_shadowfang_keep", "d3/d6e/a13146.html#aa6817df7270fbf9397c6b66b28d0f6f8", null ],
+    [ "GetInstanceScript", "d3/d6e/a13146.html#a5c076ed86470247de5b4e3733b70fa25", null ]
 ];

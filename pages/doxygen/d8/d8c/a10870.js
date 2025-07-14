@@ -1,6 +1,6 @@
 var a10870 =
 [
-    [ "WorldStateInfo", "d8/d8c/a10870.html#a64fd2e4da7035ea6c01b8ab0819d2f86", null ],
-    [ "Value", "d8/d8c/a10870.html#afe5a0e98713c986a17f431795c488c6c", null ],
-    [ "VariableID", "d8/d8c/a10870.html#a627bba237bce23aff74fd2bf7a274657", null ]
+    [ "PetAbandon", "d8/d8c/a10870.html#aeac05969ce6bdb41a02f7ffe56126dfd", null ],
+    [ "Read", "d8/d8c/a10870.html#a58ebb244de4bd65a85f75dcc24250883", null ],
+    [ "PetGUID", "d8/d8c/a10870.html#a7175c081b7cb691ceb4729c1abc5028e", null ]
 ];

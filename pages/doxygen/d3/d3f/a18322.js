@@ -1,5 +1,7 @@
 var a18322 =
 [
-    [ "achievement_neck_deep_in_vile", "d3/d3f/a18322.html#af0e54c236e7637d8c1a8cf7dbed5a195", null ],
-    [ "OnCheck", "d3/d3f/a18322.html#a9861c008f302279a4ac5f4ddc14ca2d0", null ]
+    [ "PrepareSpellScript", "d3/d3f/a18322.html#a3283e829757b50bb52f66ee1e64033ae", null ],
+    [ "Register", "d3/d3f/a18322.html#a0162c92c32210f2873686610f4f00b87", null ],
+    [ "TriggerHeal", "d3/d3f/a18322.html#a3cdfca33a535bad0942beea24aefa1bb", null ],
+    [ "Validate", "d3/d3f/a18322.html#a6545fe9f40c0aed036192008a2d6e28e", null ]
 ];

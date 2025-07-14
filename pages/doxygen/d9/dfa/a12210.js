@@ -1,18 +1,14 @@
 var a12210 =
 [
-    [ "boss_victor_nefariusAI", "d9/dfa/a12210.html#a640261332db1736e27d93067fb83c959", null ],
-    [ "BeginEvent", "d9/dfa/a12210.html#a53b0953667a42290ed4ab7e71f2dd509", null ],
-    [ "DoAction", "d9/dfa/a12210.html#ac30157884fa02dce34051d2f76f94d0a", null ],
-    [ "Initialize", "d9/dfa/a12210.html#a68a5a2c9f0b603a52c2e69ef9559d278", null ],
-    [ "JustDied", "d9/dfa/a12210.html#a4104a8f6b91f568d537447cf9a9339b5", null ],
-    [ "JustReachedHome", "d9/dfa/a12210.html#a4e5e6b636918dcf4cc93cd2ce3c53192", null ],
-    [ "JustSummoned", "d9/dfa/a12210.html#a8ca86c4fee920d07cfafad3227e2203a", null ],
-    [ "Reset", "d9/dfa/a12210.html#a4374199f776618afaf00934c93e6e0f4", null ],
-    [ "SetData", "d9/dfa/a12210.html#af9dbc9026fe7baa41c6cf41b59ed81dc", null ],
-    [ "sGossipSelect", "d9/dfa/a12210.html#ad3d7333e624c70c9c635073a1909c67d", null ],
-    [ "SummonedCreatureDies", "d9/dfa/a12210.html#a704489a361ac2034ac65c95e9517772f", null ],
-    [ "UpdateAI", "d9/dfa/a12210.html#a5a043856458c34b47a1dc16e27eac4c9", null ],
-    [ "_nefarianLeftTunnel", "d9/dfa/a12210.html#a2b6132a6a89ed8f9fc215b1342642fed", null ],
-    [ "_nefarianRightTunnel", "d9/dfa/a12210.html#ad7e3b70d671080294811e9fb191e880a", null ],
-    [ "KilledAdds", "d9/dfa/a12210.html#a88f7040db2bf60fb165a406571471fbb", null ]
+    [ "boss_chromaggusAI", "d9/dfa/a12210.html#a06f811fb8aa0c15e07e8a771ac722056", null ],
+    [ "CanAIAttack", "d9/dfa/a12210.html#a4643974601831ced1f6173965009ad20", null ],
+    [ "Initialize", "d9/dfa/a12210.html#a0697edb4aa9fb60a0db2ccf54c32dc19", null ],
+    [ "JustEngagedWith", "d9/dfa/a12210.html#a66b6f31ebcfdb2fe9adba85311e655bb", null ],
+    [ "PathEndReached", "d9/dfa/a12210.html#a2805052cd90212ecb9b5f313f4ecc384", null ],
+    [ "Reset", "d9/dfa/a12210.html#aaa72a25326e9c4e1936020a1e6e7b87a", null ],
+    [ "SetGUID", "d9/dfa/a12210.html#a9b5889af178418a3750ae84707818cf7", null ],
+    [ "UpdateAI", "d9/dfa/a12210.html#a4a120f99c6586fd06af6699bfe913d24", null ],
+    [ "_breathSpells", "d9/dfa/a12210.html#a10e18592d163d4be586701de47da48c9", null ],
+    [ "_playerGUID", "d9/dfa/a12210.html#a03a7fc87c67b04eb0b1289276023c1b4", null ],
+    [ "Enraged", "d9/dfa/a12210.html#acc8b5cfbae8debb22a0493400ec310c4", null ]
 ];

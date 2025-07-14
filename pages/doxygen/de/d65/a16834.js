@@ -1,8 +1,7 @@
 var a16834 =
 [
-    [ "npc_hor_raging_ghoulAI", "de/d65/a16834.html#ac4b2b3acf8a7acda73c7158f1565a274", null ],
-    [ "JustDied", "de/d65/a16834.html#a70e581c9b3f7d88d497c1540ac9ca04c", null ],
-    [ "Reset", "de/d65/a16834.html#aa52576d94e230797209dfc938d62187f", null ],
-    [ "UpdateAI", "de/d65/a16834.html#ac7c8571eac32f722a5fb0c28092b7e8f", null ],
-    [ "leaped", "de/d65/a16834.html#a12f6e6d5911b2b8b9caa01a9a83570bc", null ]
+    [ "OnRemove", "de/d65/a16834.html#a4b95717cb19116b81f3eec798089abad", null ],
+    [ "PrepareAuraScript", "de/d65/a16834.html#a581645fa151531aaf7b562a8739d5616", null ],
+    [ "Register", "de/d65/a16834.html#a01304c556d79001e290707551bee7622", null ],
+    [ "Validate", "de/d65/a16834.html#a96e4b9cae1f016bf87c9a09ceb6da561", null ]
 ];

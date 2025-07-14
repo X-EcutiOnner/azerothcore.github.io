@@ -1,7 +1,6 @@
 var a22966 =
 [
-    [ "PrepareAuraScript", "d2/def/a22966.html#a30ec063aa1ddbc3a32066e1f868bf742", null ],
-    [ "Register", "d2/def/a22966.html#a1e62c60bfc2b72811950b627ce1202c3", null ],
-    [ "Update", "d2/def/a22966.html#a3f98767367564734c9877d1870aac31b", null ],
-    [ "Validate", "d2/def/a22966.html#a450460769e0e54e06f1b64b3c63ba0de", null ]
+    [ "PrepareSpellScript", "d2/def/a22966.html#ad786920d6180b8e2829f3a56ec50c488", null ],
+    [ "Register", "d2/def/a22966.html#a857be9f0017e0013f3e30e1d026eaf5a", null ],
+    [ "SetDest", "d2/def/a22966.html#a0ea9f9513ad607f639b28d5f8162e629", null ]
 ];

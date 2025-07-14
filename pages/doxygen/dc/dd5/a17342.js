@@ -1,9 +1,6 @@
 var a17342 =
 [
-    [ "CheckProc", "dc/dd5/a17342.html#a13426f7a45e9434f980b42f174b22da8", null ],
-    [ "HandlePeriodicTick", "dc/dd5/a17342.html#a6380b4d03e4c48cd1a1f89227a1ebae8", null ],
-    [ "HandleProc", "dc/dd5/a17342.html#abf744d64dae5835bff3877eeaa919af3", null ],
-    [ "PrepareAuraScript", "dc/dd5/a17342.html#a5836fb240ae612d36a9e80c88bebdc48", null ],
-    [ "Register", "dc/dd5/a17342.html#a1b72c10256365de71b8f9fadf5886338", null ],
-    [ "Validate", "dc/dd5/a17342.html#acc3a0e0ae60291646514c1ae6f41f421", null ]
+    [ "KnockIntoAir", "dc/dd5/a17342.html#a1f9fb1f258613ca6657abba26969961f", null ],
+    [ "PrepareSpellScript", "dc/dd5/a17342.html#acf66a4b14ffce76b6c8dc7cc5906f229", null ],
+    [ "Register", "dc/dd5/a17342.html#a35a7758630c1769228fedff84ad929e8", null ]
 ];

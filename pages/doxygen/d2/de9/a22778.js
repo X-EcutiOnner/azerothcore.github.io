@@ -1,7 +1,8 @@
 var a22778 =
 [
-    [ "CheckProc", "d2/de9/a22778.html#a0968b7b32f2d2bef6035e030f544088a", null ],
-    [ "PrepareAuraScript", "d2/de9/a22778.html#ac424e41948196a6e60b790ebcf40783f", null ],
-    [ "Register", "d2/de9/a22778.html#a06bdac68e36b43ee534e937ffd974086", null ],
-    [ "Update", "d2/de9/a22778.html#af6c228840f6af96e353ba964fdd01e54", null ]
+    [ "Load", "d2/de9/a22778.html#a4ff26763f05b07d882cd8d209464910e", null ],
+    [ "OnPeriodic", "d2/de9/a22778.html#a3e3bb503a6b5f90741a4df668851accf", null ],
+    [ "PrepareAuraScript", "d2/de9/a22778.html#a4126d35669859963f10ed1425a054298", null ],
+    [ "Register", "d2/de9/a22778.html#adb6a44892d80aeaaf4c15c71a47f422e", null ],
+    [ "Validate", "d2/de9/a22778.html#a22d6c338ea1f2af9be0eb02aceba42bd", null ]
 ];

@@ -1,9 +1,10 @@
 var a28394 =
 [
-    [ "flags", "de/da5/a28394.html#a064de2e88c563121bbb78549a7bab868", null ],
-    [ "_flags", "de/da5/a28394.html#a16f1b30a57eb6703e8073ef55d988391", null ],
-    [ "bits", "de/da5/a28394.html#a529f1856635132646457c57f3546f4ec", null ],
-    [ "configKey", "de/da5/a28394.html#af14d118016b9e01612769c00f13aa2d6", null ],
-    [ "oldKey", "de/da5/a28394.html#a29605b536523f6d022bbac0e12d1d8dc", null ],
-    [ "owner", "de/da5/a28394.html#a24aaa1c473c3932c83dd49aad84f8361", null ]
+    [ "attackSpeed", "de/da5/a28394.html#ab5242f7367e8799a556176178c72fc88", null ],
+    [ "creatureType", "de/da5/a28394.html#a3dff9074b85261932ed8a8a550c5395b", null ],
+    [ "flags1", "de/da5/a28394.html#a026745f2ce754d754858d69ee219b518", null ],
+    [ "ID", "de/da5/a28394.html#a72853ed36016e05e4cd14a9d89e9d6a8", null ],
+    [ "modelID_A", "de/da5/a28394.html#a86dfa61342583d920b7d8496bce4b49d", null ],
+    [ "modelID_H", "de/da5/a28394.html#a1ee597d6fd02507b682874929645e01d", null ],
+    [ "stanceSpell", "de/da5/a28394.html#a08f54b905e905fb5a59e449f8c613c08", null ]
 ];

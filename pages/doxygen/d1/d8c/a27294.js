@@ -1,6 +1,5 @@
 var a27294 =
 [
-    [ "guard_shattrath_aldorAI", "da/d4f/a27298.html", "da/d4f/a27298" ],
-    [ "guard_shattrath_aldor", "d1/d8c/a27294.html#ab965295d9c3828ad814f658670b5f185", null ],
-    [ "GetAI", "d1/d8c/a27294.html#a3459a6a85c7e7286e3cbdd7f56fee704", null ]
+    [ "go_tele_to_dalaran_crystal", "d1/d8c/a27294.html#ab41268b7d568e8f189338f27cd90a62c", null ],
+    [ "OnGossipHello", "d1/d8c/a27294.html#a7f754a29249653ca7848494310ef1a8d", null ]
 ];

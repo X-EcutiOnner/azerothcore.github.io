@@ -1,14 +1,9 @@
 var a15602 =
 [
-    [ "npc_ringoAI", "d7/de8/a15602.html#a816dcad96afa6bec595f4b2dfe6fb11c", null ],
-    [ "ClearFaint", "d7/de8/a15602.html#abd24108debcafafa601958824d44abbb", null ],
-    [ "MoveInLineOfSight", "d7/de8/a15602.html#a6758ef2fe371338826dfc8582d6d03f0", null ],
-    [ "Reset", "d7/de8/a15602.html#a5b2cf17642bd4a560abb54b8d42bcd25", null ],
-    [ "SetFaint", "d7/de8/a15602.html#a09d3770aade34afe5a3a15e17cc64933", null ],
-    [ "SpellHit", "d7/de8/a15602.html#ad30d1a9fb84cc777d48b1363cf571d72", null ],
-    [ "UpdateFollowerAI", "d7/de8/a15602.html#a3b0effa8ec4d335a1d24d2238346b04a", null ],
-    [ "EndEventProgress", "d7/de8/a15602.html#a4df563b83103bbd7e1f0d81a78f6401a", null ],
-    [ "EndEventTimer", "d7/de8/a15602.html#a03f20114ca340c7c710bd77ee3c905ef", null ],
-    [ "FaintTimer", "d7/de8/a15602.html#a37d12c7edf3100837c99e3fb572f4bf1", null ],
-    [ "SpraggleGUID", "d7/de8/a15602.html#a3b58d34a1263355e7b11e22e0eef00a5", null ]
+    [ "npc_custodian_of_timeAI", "d7/de8/a15602.html#a2434afcda3bc5681a124bdb1a2c8d56f", null ],
+    [ "JustEngagedWith", "d7/de8/a15602.html#a3b12c06566b0c1d567b6edd8b57b8332", null ],
+    [ "MoveInLineOfSight", "d7/de8/a15602.html#a97b21c4ecc89e4ddd5aef4dab30a7ecf", null ],
+    [ "Reset", "d7/de8/a15602.html#a56bcc694ac286488ed4b3f2328c30573", null ],
+    [ "UpdateAI", "d7/de8/a15602.html#a4b43c5f6eaf70fc93dcb18c183e456dc", null ],
+    [ "WaypointReached", "d7/de8/a15602.html#a963736e62fbd0caea631ee3fb69fca46", null ]
 ];

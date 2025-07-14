@@ -1,6 +1,6 @@
 var a17186 =
 [
-    [ "npc_dark_nucleusAI", "d7/df7/a17190.html", "d7/df7/a17190" ],
-    [ "npc_dark_nucleus", "d6/de1/a17186.html#a14459f4f41ef568decbc952fdcd4ffd5", null ],
-    [ "GetAI", "d6/de1/a17186.html#a1f59ae45c1a84a6faca5a8bb62fc16fc", null ]
+    [ "boss_gal_darahAI", "d7/df7/a17190.html", "d7/df7/a17190" ],
+    [ "boss_gal_darah", "d6/de1/a17186.html#a687bb98f9de9cd838c57511dc6b3d086", null ],
+    [ "GetAI", "d6/de1/a17186.html#a8f709568f5a06265056571061ff3a26b", null ]
 ];

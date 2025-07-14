@@ -1,6 +1,6 @@
 var a16046 =
 [
-    [ "HandlePeriodic", "d6/db8/a16046.html#a7753587518171689f86f3f76269c1b8a", null ],
-    [ "PrepareAuraScript", "d6/db8/a16046.html#aa73351e7200bee94b0068fb8dabfada5", null ],
-    [ "Register", "d6/db8/a16046.html#ab126fe8d4387609e8834898c3b3a67ea", null ]
+    [ "boss_general_zarithrianAI", "d5/dab/a16050.html", "d5/dab/a16050" ],
+    [ "boss_general_zarithrian", "d6/db8/a16046.html#a030c53b6ef1d75027ddfd298d49ab330", null ],
+    [ "GetAI", "d6/db8/a16046.html#a22ba4e0769dd9404ae043fb9c16233ff", null ]
 ];

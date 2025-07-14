@@ -1,6 +1,6 @@
 var a20014 =
 [
-    [ "npc_ulduar_saronite_vaporsAI", "d2/ddf/a20018.html", "d2/ddf/a20018" ],
-    [ "npc_ulduar_saronite_vapors", "d2/d54/a20014.html#a567c3aca8c381167ca278c2c3562e6f6", null ],
-    [ "GetAI", "d2/d54/a20014.html#a3c2e7b6263f8935da9291c736b14d139", null ]
+    [ "achievement_flame_leviathan_towers", "d2/d54/a20014.html#a491d66bdd373b6044e406126719ef910", null ],
+    [ "OnCheck", "d2/d54/a20014.html#ad6e9dee3f05afaca0a355b714bf75ea6", null ],
+    [ "_towerCount", "d2/d54/a20014.html#a1099385340b30a1a75655e2e7d2ba3cc", null ]
 ];

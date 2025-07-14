@@ -1,8 +1,5 @@
 var a12826 =
 [
-    [ "npc_dkc1_gothikAI", "de/d69/a12826.html#a35e65bd943f86ba3a1d6841569289df6", null ],
-    [ "DoAction", "de/d69/a12826.html#a3193c562973bbf995ab5e0173a93d01f", null ],
-    [ "MoveInLineOfSight", "de/d69/a12826.html#ac2ee224af001a78aa00013f6c8c9ad3d", null ],
-    [ "UpdateAI", "de/d69/a12826.html#a346d32c9831babe6fb5f675b70b7a897", null ],
-    [ "spoken", "de/d69/a12826.html#ac6f32e953a66f9e96ddc99b663014b0c", null ]
+    [ "boss_apoko", "de/d69/a12826.html#a3ae4752839f47bbfce5f7df03c427cd2", null ],
+    [ "JustEngagedWith", "de/d69/a12826.html#a7ad52b258863bd818b3e5d1143de7629", null ]
 ];

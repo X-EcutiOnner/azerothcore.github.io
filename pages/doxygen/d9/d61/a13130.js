@@ -1,6 +1,7 @@
 var a13130 =
 [
-    [ "HandleSendEvent", "d9/d61/a13130.html#ad245a7dcf129774b8ef3e3653b3e3026", null ],
-    [ "PrepareSpellScript", "d9/d61/a13130.html#ad9dfe5b2702540eb119ec86cfbd0ff30", null ],
-    [ "Register", "d9/d61/a13130.html#a0b5ac8cfc4eb4adadb653a81a59a8287", null ]
+    [ "HandleScript", "d9/d61/a13130.html#acbff60b24bd0239880378b48cb97b6a4", null ],
+    [ "PrepareSpellScript", "d9/d61/a13130.html#a2f72b76ced4443a8eb1dfcf7bf6a4ac5", null ],
+    [ "Register", "d9/d61/a13130.html#a132d35555f1d589caa65ecd3728976d5", null ],
+    [ "Validate", "d9/d61/a13130.html#a503ce41357f8195837c9b14f2468fb5b", null ]
 ];

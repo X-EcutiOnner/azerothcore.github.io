@@ -1,7 +1,7 @@
 var a12234 =
 [
-    [ "HandlePeriodic", "df/d52/a12234.html#ac2196cc9de34e286581d44d147fe9d04", null ],
-    [ "PrepareAuraScript", "df/d52/a12234.html#a149c974371f23268d2d929b483637b14", null ],
-    [ "Register", "df/d52/a12234.html#a6a2f42867a7082d2b8406c651d5dc484", null ],
-    [ "Validate", "df/d52/a12234.html#ab77b8a7dca3dc9bbd20cdb498d1d317e", null ]
+    [ "boss_ebonrocAI", "df/d52/a12234.html#a73be20fda4e3f8cb7623796f3c32d741", null ],
+    [ "JustEngagedWith", "df/d52/a12234.html#a2c74e0030b1093d79245978939043d53", null ],
+    [ "MovementInform", "df/d52/a12234.html#ac1e16bb5ac18b55fbfb8af5078df270f", null ],
+    [ "UpdateAI", "df/d52/a12234.html#aa2059c3834fbcfda3c8da5743bd2501f", null ]
 ];

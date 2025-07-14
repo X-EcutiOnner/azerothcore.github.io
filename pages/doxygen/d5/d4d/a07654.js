@@ -1,12 +1,18 @@
 var a07654 =
 [
-    [ "value_type", "d5/d4d/a07654.html#ad430aafb433483e30d12567e7e8c2915", null ],
-    [ "GetID", "d5/d4d/a07654.html#a73dd0adf980c5c3d2e272f9709ece880", null ],
-    [ "GetName", "d5/d4d/a07654.html#aae4efee3e6e7d403b0c6f5d484814b81", null ],
-    [ "operator std::string const &", "d5/d4d/a07654.html#a3530d83607efda9b3f50a61959da3267", null ],
-    [ "operator std::string_view", "d5/d4d/a07654.html#a6b77a74762705e00d73b751a5f947e05", null ],
-    [ "operator uint32", "d5/d4d/a07654.html#abffff20cfe5d5b3936ac345c5082258f", null ],
-    [ "TryConsume", "d5/d4d/a07654.html#abc0041bef0d0171b54acbdcf6b18f611", null ],
-    [ "_id", "d5/d4d/a07654.html#a844e7f79db885f3076958b0e6d423b4e", null ],
-    [ "_name", "d5/d4d/a07654.html#a63bb52a0619ceef7b1af1b97d52a7373", null ]
+    [ "ChatCommandResult", "d5/d4d/a07654.html#ade9593924f234a1fd4c1c1af0e2ba1f1", null ],
+    [ "ChatCommandResult", "d5/d4d/a07654.html#a50e51a5c55d146c67d834c86aee4daef", null ],
+    [ "ChatCommandResult", "d5/d4d/a07654.html#abcee148bb3da225ec4a4c67abcc90316", null ],
+    [ "ChatCommandResult", "d5/d4d/a07654.html#a8b18e436b6e7d8040b2a9667d06baaa0", null ],
+    [ "ChatCommandResult", "d5/d4d/a07654.html#aabf608d55fbdbed0db92a80049e8835f", null ],
+    [ "ChatCommandResult", "d5/d4d/a07654.html#a48cf3f3df0e07e220d44096e7b628a72", null ],
+    [ "ChatCommandResult", "d5/d4d/a07654.html#a9b7c7996bcc4a601c957d2bfc66ec41c", null ],
+    [ "GetErrorMessage", "d5/d4d/a07654.html#abb0aa9f55f86ab7d54b7b3a894dcd237", null ],
+    [ "HasErrorMessage", "d5/d4d/a07654.html#a74f331d2e68ddf7cefc14b4c47369311", null ],
+    [ "IsSuccessful", "d5/d4d/a07654.html#aa4373a403bed4b58eac5e83099f32b4f", null ],
+    [ "operator bool", "d5/d4d/a07654.html#a7b92f80ef21e6a0a799f3b4197453117", null ],
+    [ "operator*", "d5/d4d/a07654.html#af89a617e842edaf1a4ee1cff95d2c4e3", null ],
+    [ "operator=", "d5/d4d/a07654.html#a50c4384a9719bc33f1e997dadc177bb6", null ],
+    [ "operator=", "d5/d4d/a07654.html#ae927434b72c1017f1dedced244d7021a", null ],
+    [ "_storage", "d5/d4d/a07654.html#ab825b76e8cb19ad6d6bc6cb35780e89b", null ]
 ];

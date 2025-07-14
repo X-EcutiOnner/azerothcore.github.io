@@ -1,8 +1,6 @@
 var a25914 =
 [
-    [ "Absorb", "db/d67/a25914.html#a9378cde1cc6daab0dc111b94aef4f6c8", null ],
-    [ "CalculateAmount", "db/d67/a25914.html#a20d5b4776ebeb859b0641af640e41d80", null ],
-    [ "PrepareAuraScript", "db/d67/a25914.html#ae1a70e11e89c4252e481ad737ad00ae0", null ],
-    [ "Register", "db/d67/a25914.html#a8c5399ba68554f4c2e842c5492ad715c", null ],
-    [ "Validate", "db/d67/a25914.html#aa6264e4dbff71b0d82e3403984c59c03", null ]
+    [ "OnPeriodic", "db/d67/a25914.html#a3368e8fad4a5ecd242056da38ad8f23a", null ],
+    [ "PrepareAuraScript", "db/d67/a25914.html#ad3d091510685ebc2d87aadb658cacf58", null ],
+    [ "Register", "db/d67/a25914.html#a9552ba0f4c18623b6b00ababa034942c", null ]
 ];

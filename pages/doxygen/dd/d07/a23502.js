@@ -1,7 +1,6 @@
 var a23502 =
 [
-    [ "HandleDummyApply", "dd/d07/a23502.html#a8a982bbbda94a2cf981c845161f05bdc", null ],
-    [ "HandleDummyRemove", "dd/d07/a23502.html#a5d68d9e15600119deca7179ffe00acda", null ],
-    [ "PrepareAuraScript", "dd/d07/a23502.html#a34d09e48b69d32dae6c127fa0837be4b", null ],
-    [ "Register", "dd/d07/a23502.html#a094004ccf6b4cae4d27bca639b76b899", null ]
+    [ "instance_gruuls_lair_InstanceMapScript", "d0/dad/a23506.html", "d0/dad/a23506" ],
+    [ "instance_gruuls_lair", "dd/d07/a23502.html#ae091404d09e614fe893c20e8ed90d2c4", null ],
+    [ "GetInstanceScript", "dd/d07/a23502.html#ab8b5b000f6099111244b4ea48f0ab029", null ]
 ];

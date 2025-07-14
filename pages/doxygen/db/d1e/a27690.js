@@ -1,7 +1,6 @@
 var a27690 =
 [
-    [ "cutPercent", "db/d1e/a27690.html#a8581a6a5198dab10680f477a477a7c80", null ],
-    [ "depositPercent", "db/d1e/a27690.html#af7bb868f1a1e8d570ce7b6cb10ad87d9", null ],
-    [ "faction", "db/d1e/a27690.html#a4b857e3c4c333b2a86f7f5d08bcc883d", null ],
-    [ "houseId", "db/d1e/a27690.html#a1bf77c1b14731def0e3de44143df2eed", null ]
+    [ "npc_necropolis_relay", "db/d1e/a27690.html#a044958acd1449d664532aeea7d0cb2fd", null ],
+    [ "SpellHit", "db/d1e/a27690.html#a45fdef0f86f18b87b90d2b4f9c0df9cb", null ],
+    [ "SpellHitTarget", "db/d1e/a27690.html#a1968d3537de2bdb9d4786cc96d2c346c", null ]
 ];

@@ -1,7 +1,6 @@
 var a10334 =
 [
-    [ "SpellScriptLoader", "d9/d14/a10334.html#a0ae97b8f3cf24f46b98a121d35bdeadf", null ],
-    [ "GetAuraScript", "d9/d14/a10334.html#a9c60850e39ffe3d151a128b12777859d", null ],
-    [ "GetSpellScript", "d9/d14/a10334.html#a6f3a101a0517ba1440399809cf7f5b5b", null ],
-    [ "IsDatabaseBound", "d9/d14/a10334.html#ae60bf9957b950c7f5c9927f71510dc06", null ]
+    [ "LootScript", "d9/d14/a10334.html#a57fd5dffc97f62a595f0ff4c2856dbd4", null ],
+    [ "IsDatabaseBound", "d9/d14/a10334.html#ad60b605eac89be48efd339127e9cb9cd", null ],
+    [ "OnLootMoney", "d9/d14/a10334.html#a56a57baead49f6815a9979b181a55375", null ]
 ];

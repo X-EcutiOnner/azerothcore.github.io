@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: Member List</title>
+<title>AzerothCore: Acore::Impl::StringConvertImpl::For&lt; T, std::enable_if_t&lt; std::is_integral_v&lt; T &gt; &amp;&amp;!std::is_same_v&lt; T, bool &gt; &gt; &gt; Struct Template Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -78,7 +78,7 @@ $(function() {
 </div>
 <script type="text/javascript">
 /* @license magnet:?xt=urn:btih:d3d9a9a6595521f9666a5e94cc830dab83b65699&amp;dn=expat.txt MIT */
-$(document).ready(function(){initNavTree('d1/dfe/a05533.html','../../'); initResizable(); });
+$(document).ready(function(){initNavTree('dd/d9c/a05530.html','../../'); initResizable(); });
 /* @license-end */
 </script>
 <div id="doc-content">
@@ -104,56 +104,151 @@ $(document).ready(function(){initNavTree('d1/dfe/a05533.html','../../'); initRes
 </div>
 
 <div class="header">
-  <div class="headertitle"><div class="title">TaskContext Member List</div></div>
+  <div class="summary">
+<a href="#pub-static-methods">Static Public Member Functions</a> &#124;
+<a href="../../d3/d68/a05527.html">List of all members</a>  </div>
+  <div class="headertitle"><div class="title">Acore::Impl::StringConvertImpl::For&lt; T, std::enable_if_t&lt; std::is_integral_v&lt; T &gt; &amp;&amp;!std::is_same_v&lt; T, bool &gt; &gt; &gt; Struct Template Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p>This is the complete list of members for <a class="el" href="../../d1/dfe/a05533.html">TaskContext</a>, including all inherited members.</p>
-<table class="directory">
-  <tr class="even"><td class="entry"><a class="el" href="../../d1/dfe/a05533.html#a7c31492372b8c1971651782a17985071">_consumed</a></td><td class="entry"><a class="el" href="../../d1/dfe/a05533.html">TaskContext</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d1/dfe/a05533.html#a79e4032346c8ece5be5594571fe2e092">_owner</a></td><td class="entry"><a class="el" href="../../d1/dfe/a05533.html">TaskContext</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d1/dfe/a05533.html#a7902aa9c3a0bd7684ced17235a87c390">_task</a></td><td class="entry"><a class="el" href="../../d1/dfe/a05533.html">TaskContext</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d1/dfe/a05533.html#a40aa7f8f29b300c5252ffd23c7e1632f">AssertOnConsumed</a>() const</td><td class="entry"><a class="el" href="../../d1/dfe/a05533.html">TaskContext</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d1/dfe/a05533.html#a8e152545e08d9a73522bf03b631148a2">Async</a>(std::function&lt; void()&gt; const &amp;callable)</td><td class="entry"><a class="el" href="../../d1/dfe/a05533.html">TaskContext</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d1/dfe/a05533.html#a6aa85817c2bf7c7f2f868d4a0a9fdf98">CancelAll</a>()</td><td class="entry"><a class="el" href="../../d1/dfe/a05533.html">TaskContext</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d1/dfe/a05533.html#a95dca8900ebf6709d9c5535f39c7277f">CancelGroup</a>(TaskScheduler::group_t const group)</td><td class="entry"><a class="el" href="../../d1/dfe/a05533.html">TaskContext</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d1/dfe/a05533.html#ac22c5c7e5ceac123c72918d77edb25b9">CancelGroupsOf</a>(std::vector&lt; TaskScheduler::group_t &gt; const &amp;groups)</td><td class="entry"><a class="el" href="../../d1/dfe/a05533.html">TaskContext</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d1/dfe/a05533.html#ac3d6d215d8c605a1f724af35136bafe6">ClearGroup</a>()</td><td class="entry"><a class="el" href="../../d1/dfe/a05533.html">TaskContext</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d1/dfe/a05533.html#aad967f626ce88f95bb7e0610f92f83bb">DelayAll</a>(std::chrono::duration&lt; _Rep, _Period &gt; const &amp;duration)</td><td class="entry"><a class="el" href="../../d1/dfe/a05533.html">TaskContext</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d1/dfe/a05533.html#abde6f85254b960e69355583af88123f1">DelayAll</a>(std::chrono::duration&lt; _RepLeft, _PeriodLeft &gt; const &amp;min, std::chrono::duration&lt; _RepRight, _PeriodRight &gt; const &amp;max)</td><td class="entry"><a class="el" href="../../d1/dfe/a05533.html">TaskContext</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d1/dfe/a05533.html#ab51c9108135f18eda88250cbdc1d4c9e">DelayGroup</a>(TaskScheduler::group_t const group, std::chrono::duration&lt; _Rep, _Period &gt; const &amp;duration)</td><td class="entry"><a class="el" href="../../d1/dfe/a05533.html">TaskContext</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d1/dfe/a05533.html#a701e13bfc09a6c1fc6e372c5310e2d80">DelayGroup</a>(TaskScheduler::group_t const group, std::chrono::duration&lt; _RepLeft, _PeriodLeft &gt; const &amp;min, std::chrono::duration&lt; _RepRight, _PeriodRight &gt; const &amp;max)</td><td class="entry"><a class="el" href="../../d1/dfe/a05533.html">TaskContext</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d1/dfe/a05533.html#a5c5bc5a317527f3dbc496e6e5a873505">Dispatch</a>(std::function&lt; TaskScheduler &amp;(TaskScheduler &amp;)&gt; const &amp;apply)</td><td class="entry"><a class="el" href="../../d1/dfe/a05533.html">TaskContext</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d1/dfe/a05533.html#ac9eb22a04ed6b03d252e5fd57255045b">GetNextOccurrence</a>() const</td><td class="entry"><a class="el" href="../../d1/dfe/a05533.html">TaskContext</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d1/dfe/a05533.html#aab7910aa171d409afa3f074858eacd0e">GetRepeatCounter</a>() const</td><td class="entry"><a class="el" href="../../d1/dfe/a05533.html">TaskContext</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d1/dfe/a05533.html#a47b03e1428d2b3df88a0664b93b0debc">Invoke</a>()</td><td class="entry"><a class="el" href="../../d1/dfe/a05533.html">TaskContext</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d1/dfe/a05533.html#af1d32693e6df24d76a82b1a367eacbe5">IsExpired</a>() const</td><td class="entry"><a class="el" href="../../d1/dfe/a05533.html">TaskContext</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d1/dfe/a05533.html#ad7bd61567707321cad553befb28c1c6a">IsInGroup</a>(TaskScheduler::group_t const group) const</td><td class="entry"><a class="el" href="../../d1/dfe/a05533.html">TaskContext</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d1/dfe/a05533.html#a8db1ba366d6b9fcc7a054e2d213cec55">operator=</a>(TaskContext const &amp;right) noexcept</td><td class="entry"><a class="el" href="../../d1/dfe/a05533.html">TaskContext</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d1/dfe/a05533.html#a0a8b54efb0dca1b279ba5a042e8e953f">operator=</a>(TaskContext &amp;&amp;right) noexcept</td><td class="entry"><a class="el" href="../../d1/dfe/a05533.html">TaskContext</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d1/dfe/a05533.html#a380c596857dd0030414db5e8d28a3dda">Repeat</a>(std::chrono::duration&lt; _Rep, _Period &gt; const &amp;duration)</td><td class="entry"><a class="el" href="../../d1/dfe/a05533.html">TaskContext</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d1/dfe/a05533.html#adc1347e5fcff0bb21e45805b1cfd2809">Repeat</a>()</td><td class="entry"><a class="el" href="../../d1/dfe/a05533.html">TaskContext</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d1/dfe/a05533.html#a686aee457802bc71b6560549c13239c9">Repeat</a>(std::chrono::duration&lt; _RepLeft, _PeriodLeft &gt; const &amp;min, std::chrono::duration&lt; _RepRight, _PeriodRight &gt; const &amp;max)</td><td class="entry"><a class="el" href="../../d1/dfe/a05533.html">TaskContext</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d1/dfe/a05533.html#ae60b6c797e99c416b84c5b9ae715b215">RescheduleAll</a>(std::chrono::duration&lt; _Rep, _Period &gt; const &amp;duration)</td><td class="entry"><a class="el" href="../../d1/dfe/a05533.html">TaskContext</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d1/dfe/a05533.html#ac35c49969cef74262137fce851a3a30d">RescheduleAll</a>(std::chrono::duration&lt; _RepLeft, _PeriodLeft &gt; const &amp;min, std::chrono::duration&lt; _RepRight, _PeriodRight &gt; const &amp;max)</td><td class="entry"><a class="el" href="../../d1/dfe/a05533.html">TaskContext</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d1/dfe/a05533.html#add5a7d1e76bd0d0766c17920dadd5b61">RescheduleGroup</a>(TaskScheduler::group_t const group, std::chrono::duration&lt; _Rep, _Period &gt; const &amp;duration)</td><td class="entry"><a class="el" href="../../d1/dfe/a05533.html">TaskContext</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d1/dfe/a05533.html#a0cac55da6d10d0a74c9f83689d028174">RescheduleGroup</a>(TaskScheduler::group_t const group, std::chrono::duration&lt; _RepLeft, _PeriodLeft &gt; const &amp;min, std::chrono::duration&lt; _RepRight, _PeriodRight &gt; const &amp;max)</td><td class="entry"><a class="el" href="../../d1/dfe/a05533.html">TaskContext</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d1/dfe/a05533.html#ada6565daabe9a55c0ca2379ed7b23741">Schedule</a>(std::chrono::duration&lt; _Rep, _Period &gt; const &amp;time, TaskScheduler::task_handler_t const &amp;task)</td><td class="entry"><a class="el" href="../../d1/dfe/a05533.html">TaskContext</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d1/dfe/a05533.html#aaaba68c85b949416169136485130c6f8">Schedule</a>(std::chrono::duration&lt; _Rep, _Period &gt; const &amp;time, TaskScheduler::group_t const group, TaskScheduler::task_handler_t const &amp;task)</td><td class="entry"><a class="el" href="../../d1/dfe/a05533.html">TaskContext</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d1/dfe/a05533.html#aa7530c5f763cc34d0cdc83fcbaaafe37">Schedule</a>(std::chrono::duration&lt; _RepLeft, _PeriodLeft &gt; const &amp;min, std::chrono::duration&lt; _RepRight, _PeriodRight &gt; const &amp;max, TaskScheduler::task_handler_t const &amp;task)</td><td class="entry"><a class="el" href="../../d1/dfe/a05533.html">TaskContext</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d1/dfe/a05533.html#a5c856d7c07fe8058ff53d35ccfb9b677">Schedule</a>(std::chrono::duration&lt; _RepLeft, _PeriodLeft &gt; const &amp;min, std::chrono::duration&lt; _RepRight, _PeriodRight &gt; const &amp;max, TaskScheduler::group_t const group, TaskScheduler::task_handler_t const &amp;task)</td><td class="entry"><a class="el" href="../../d1/dfe/a05533.html">TaskContext</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d1/dfe/a05533.html#a7a93eec2b41f8456a0e939303b3ab085">SetGroup</a>(TaskScheduler::group_t const group)</td><td class="entry"><a class="el" href="../../d1/dfe/a05533.html">TaskContext</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d1/dfe/a05533.html#ac844b54773254e162987f61f6c37450d">TaskContext</a>()</td><td class="entry"><a class="el" href="../../d1/dfe/a05533.html">TaskContext</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d1/dfe/a05533.html#adca01e15214852dd23d3e404ee3e1f21">TaskContext</a>(TaskScheduler::TaskContainer &amp;&amp;task, std::weak_ptr&lt; TaskScheduler &gt; &amp;&amp;owner)</td><td class="entry"><a class="el" href="../../d1/dfe/a05533.html">TaskContext</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">explicit</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d1/dfe/a05533.html#ad3e2db1e5a72a066f1eb6f9efc59cc26">TaskContext</a>(TaskContext const &amp;right)</td><td class="entry"><a class="el" href="../../d1/dfe/a05533.html">TaskContext</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d1/dfe/a05533.html#a6dbb5d52d6e3d4a0f173fa23ccb80b25">TaskContext</a>(TaskContext &amp;&amp;right) noexcept</td><td class="entry"><a class="el" href="../../d1/dfe/a05533.html">TaskContext</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d1/dfe/a05533.html#a9f0573c5408a663c3874787eeb7d599e">TaskScheduler</a></td><td class="entry"><a class="el" href="../../d1/dfe/a05533.html">TaskContext</a></td><td class="entry"><span class="mlabel">friend</span></td></tr>
-</table></div><!-- contents -->
+<p><code>#include &quot;<a class="el" href="../../">StringConvert.h</a>&quot;</code></p>
+<table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-methods" name="pub-static-methods"></a>
+Static Public Member Functions</h2></td></tr>
+<tr class="memitem:a6992aa92f56607d9546dae7ab5d1af74"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../d4/d1e/a00497.html#aaf8f4d77efd311ec7818ab421294ef82">Optional</a>&lt; T &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d9c/a05530.html#a6992aa92f56607d9546dae7ab5d1af74">FromString</a> (std::string_view str, int base=10)</td></tr>
+<tr class="separator:a6992aa92f56607d9546dae7ab5d1af74"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abf8940ea78f2f947274a2653da04b0a3"><td class="memItemLeft" align="right" valign="top">static std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d9c/a05530.html#abf8940ea78f2f947274a2653da04b0a3">ToString</a> (T val)</td></tr>
+<tr class="separator:abf8940ea78f2f947274a2653da04b0a3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table>
+<a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
+<div class="textblock"><div class="compoundTemplParams">template&lt;typename T&gt;<br />
+struct Acore::Impl::StringConvertImpl::For&lt; T, std::enable_if_t&lt; std::is_integral_v&lt; T &gt; &amp;&amp;!std::is_same_v&lt; T, bool &gt; &gt; &gt;</div></div><h2 class="groupheader">Member Function Documentation</h2>
+<a id="a6992aa92f56607d9546dae7ab5d1af74" name="a6992aa92f56607d9546dae7ab5d1af74"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6992aa92f56607d9546dae7ab5d1af74">&#9670;&#160;</a></span>FromString()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;typename T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static <a class="el" href="../../d4/d1e/a00497.html#aaf8f4d77efd311ec7818ab421294ef82">Optional</a>&lt; T &gt; <a class="el" href="../../d0/d22/a05526.html">Acore::Impl::StringConvertImpl::For</a>&lt; T, std::enable_if_t&lt; std::is_integral_v&lt; T &gt; &amp;&amp;!std::is_same_v&lt; T, bool &gt; &gt; &gt;::FromString </td>
+          <td>(</td>
+          <td class="paramtype">std::string_view&#160;</td>
+          <td class="paramname"><em>str</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>base</em> = <code>10</code>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   42</span>        {</div>
+<div class="line"><span class="lineno">   43</span>            <span class="keywordflow">if</span> (base == 0)</div>
+<div class="line"><span class="lineno">   44</span>            {</div>
+<div class="line"><span class="lineno">   45</span>                <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d9/d4a/a00479.html#a131b997858d0d4c6825222d64948db73">StringEqualI</a>(str.substr(0, 2), <span class="stringliteral">&quot;0x&quot;</span>))</div>
+<div class="line"><span class="lineno">   46</span>                {</div>
+<div class="line"><span class="lineno">   47</span>                    base = 16;</div>
+<div class="line"><span class="lineno">   48</span>                    str.remove_prefix(2);</div>
+<div class="line"><span class="lineno">   49</span>                }</div>
+<div class="line"><span class="lineno">   50</span>                <span class="keywordflow">else</span> <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d9/d4a/a00479.html#a131b997858d0d4c6825222d64948db73">StringEqualI</a>(str.substr(0, 2), <span class="stringliteral">&quot;0b&quot;</span>))</div>
+<div class="line"><span class="lineno">   51</span>                {</div>
+<div class="line"><span class="lineno">   52</span>                    base = 2;</div>
+<div class="line"><span class="lineno">   53</span>                    str.remove_prefix(2);</div>
+<div class="line"><span class="lineno">   54</span>                }</div>
+<div class="line"><span class="lineno">   55</span>                <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">   56</span>                {</div>
+<div class="line"><span class="lineno">   57</span>                    base = 10;</div>
+<div class="line"><span class="lineno">   58</span>                }</div>
+<div class="line"><span class="lineno">   59</span> </div>
+<div class="line"><span class="lineno">   60</span>                <span class="keywordflow">if</span> (str.empty())</div>
+<div class="line"><span class="lineno">   61</span>                {</div>
+<div class="line"><span class="lineno">   62</span>                    <span class="keywordflow">return</span> std::nullopt;</div>
+<div class="line"><span class="lineno">   63</span>                }</div>
+<div class="line"><span class="lineno">   64</span>            }</div>
+<div class="line"><span class="lineno">   65</span> </div>
+<div class="line"><span class="lineno">   66</span>            <span class="keywordtype">char</span> <span class="keyword">const</span>* <span class="keyword">const</span> start = str.data();</div>
+<div class="line"><span class="lineno">   67</span>            <span class="keywordtype">char</span> <span class="keyword">const</span>* <span class="keyword">const</span> end = (start + str.length());</div>
+<div class="line"><span class="lineno">   68</span> </div>
+<div class="line"><span class="lineno">   69</span>            T val;</div>
+<div class="line"><span class="lineno">   70</span>            std::from_chars_result <span class="keyword">const</span> res = std::from_chars(start, end, val, base);</div>
+<div class="line"><span class="lineno">   71</span>            <span class="keywordflow">if</span> ((res.ptr == end) &amp;&amp; (res.ec == std::errc()))</div>
+<div class="line"><span class="lineno">   72</span>            {</div>
+<div class="line"><span class="lineno">   73</span>                <span class="keywordflow">return</span> val;</div>
+<div class="line"><span class="lineno">   74</span>            }</div>
+<div class="line"><span class="lineno">   75</span>            <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">   76</span>            {</div>
+<div class="line"><span class="lineno">   77</span>                <span class="keywordflow">return</span> std::nullopt;</div>
+<div class="line"><span class="lineno">   78</span>            }</div>
+<div class="line"><span class="lineno">   79</span>        }</div>
+<div class="ttc" id="aa00479_html_a131b997858d0d4c6825222d64948db73"><div class="ttname"><a href="../../d9/d4a/a00479.html#a131b997858d0d4c6825222d64948db73">StringEqualI</a></div><div class="ttdeci">bool StringEqualI(std::string_view a, std::string_view b)</div><div class="ttdef"><b>Definition:</b> Util.cpp:592</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00592">StringEqualI()</a>.</p>
+
+</div>
+</div>
+<a id="abf8940ea78f2f947274a2653da04b0a3" name="abf8940ea78f2f947274a2653da04b0a3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abf8940ea78f2f947274a2653da04b0a3">&#9670;&#160;</a></span>ToString()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;typename T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static std::string <a class="el" href="../../d0/d22/a05526.html">Acore::Impl::StringConvertImpl::For</a>&lt; T, std::enable_if_t&lt; std::is_integral_v&lt; T &gt; &amp;&amp;!std::is_same_v&lt; T, bool &gt; &gt; &gt;::ToString </td>
+          <td>(</td>
+          <td class="paramtype">T&#160;</td>
+          <td class="paramname"><em>val</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   82</span>        {</div>
+<div class="line"><span class="lineno">   83</span>            std::string buf(20, <span class="charliteral">&#39;\0&#39;</span>); <span class="comment">/* 2^64 is 20 decimal characters, -(2^63) is 20 including the sign */</span></div>
+<div class="line"><span class="lineno">   84</span>            <span class="keywordtype">char</span>* <span class="keyword">const</span> start = buf.data();</div>
+<div class="line"><span class="lineno">   85</span>            <span class="keywordtype">char</span>* <span class="keyword">const</span> end = (start + buf.length());</div>
+<div class="line"><span class="lineno">   86</span>            std::to_chars_result <span class="keyword">const</span> res = std::to_chars(start, end, val);</div>
+<div class="line"><span class="lineno">   87</span>            <a class="code hl_define" href="../../d4/d3e/a00116.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(res.ec == std::errc());</div>
+<div class="line"><span class="lineno">   88</span>            buf.resize(res.ptr - start);</div>
+<div class="line"><span class="lineno">   89</span>            <span class="keywordflow">return</span> buf;</div>
+<div class="line"><span class="lineno">   90</span>        }</div>
+<div class="ttc" id="aa00116_html_af343b20373ba49a92fce523e948f2ab3"><div class="ttname"><a href="../../d4/d3e/a00116.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a></div><div class="ttdeci">#define ASSERT</div><div class="ttdef"><b>Definition:</b> Errors.h:68</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>.</p>
+
+</div>
+</div>
+</div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Mon Apr 21 2025 20:46:22 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../db/d2a/a04776.html">Acore</a></li><li class="navelem"><a class="el" href="../../d2/d5c/a04788.html">Impl</a></li><li class="navelem"><a class="el" href="../../d3/d1a/a04798.html">StringConvertImpl</a></li><li class="navelem"><a class="el" href="../../dd/d9c/a05530.html">For&lt; T, std::enable_if_t&lt; std::is_integral_v&lt; T &gt; &amp;&amp;!std::is_same_v&lt; T, bool &gt; &gt; &gt;</a></li>
+    <li class="footer">Generated on Mon Jul 14 2025 20:51:05 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

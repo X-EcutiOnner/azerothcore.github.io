@@ -1,8 +1,6 @@
 var a21642 =
 [
-    [ "npc_future_youAI", "d5/d2b/a21642.html#a7608c050dd198e3133050e222b42f62b", null ],
-    [ "EnterEvadeMode", "d5/d2b/a21642.html#a0b15c8af6075e323e56b2170ce4eefc0", null ],
-    [ "MoveInLineOfSight", "d5/d2b/a21642.html#a35b67f9e948f5ffbde8a423190ece603", null ],
-    [ "Reset", "d5/d2b/a21642.html#a01a8cd8f94dd614de2ffefdb19cd9f29", null ],
-    [ "UpdateAI", "d5/d2b/a21642.html#ac110daa6b4cf6bf26d9e9f9829577fa6", null ]
+    [ "npc_counselor_talbotAI", "df/df0/a21646.html", "df/df0/a21646" ],
+    [ "npc_counselor_talbot", "d5/d2b/a21642.html#a9223380bb78afeda617482bea0a3110c", null ],
+    [ "GetAI", "d5/d2b/a21642.html#a3debd13352146a247d635042ecbfa155", null ]
 ];

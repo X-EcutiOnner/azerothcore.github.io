@@ -1,6 +1,6 @@
 var a21774 =
 [
-    [ "npc_torturer_lecraftAI", "dc/d86/a21778.html", "dc/d86/a21778" ],
-    [ "npc_torturer_lecraft", "db/d3e/a21774.html#a789f8bdafe96d5cb01225b940a80c651", null ],
-    [ "GetAI", "db/d3e/a21774.html#abdc8b33cd820c5cd14c999e7407897fe", null ]
+    [ "CheckCast", "db/d3e/a21774.html#a9c7e08a8a9b1c1b44ae290818826d43a", null ],
+    [ "PrepareSpellScript", "db/d3e/a21774.html#abff433d61c798d17882292b6b0956a58", null ],
+    [ "Register", "db/d3e/a21774.html#a1034967a4bf633f160cc40ae6e0fc567", null ]
 ];

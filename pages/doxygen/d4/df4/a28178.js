@@ -1,5 +1,6 @@
 var a28178 =
 [
-    [ "Exp", "d4/df4/a28178.html#aa34490babd6ccdc45857947db3f36d60", null ],
-    [ "id", "d4/df4/a28178.html#abe177efe7ea9d1d1ae8e7d09655c7193", null ]
+    [ "Id", "d4/df4/a28178.html#a9f283a7c8339cc5b4fa67f3974ce8621", null ],
+    [ "SpellId", "d4/df4/a28178.html#ae8c119bacf706916f331d3f316fb1347", null ],
+    [ "TypeFlags", "d4/df4/a28178.html#aae92871758e9a738a888cacf0946f16b", null ]
 ];

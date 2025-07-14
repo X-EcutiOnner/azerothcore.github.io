@@ -1,7 +1,7 @@
 var a26818 =
 [
-    [ "HandleDummy", "dc/dc0/a26818.html#a436ed0843e0035308c69f0854decd7f2", null ],
-    [ "PrepareSpellScript", "dc/dc0/a26818.html#a42ff645d6c8e94353ae118327af5f4e6", null ],
-    [ "Register", "dc/dc0/a26818.html#a0b69f667ea83dee61206bbc723020cbc", null ],
-    [ "Validate", "dc/dc0/a26818.html#a93e68d77227297883aae472ef08fb67c", null ]
+    [ "HandleTeleport", "dc/dc0/a26818.html#a7ba7b82988dab5fd8e691b5b87c3d959", null ],
+    [ "PrepareAuraScript", "dc/dc0/a26818.html#a2307b7eccd4dd08d7e97ece704ddc4fb", null ],
+    [ "Register", "dc/dc0/a26818.html#a82432a4448d8c23ea2a39b4b26eb1b58", null ],
+    [ "Validate", "dc/dc0/a26818.html#adabf22bd591a10662ffbf0354a18a936", null ]
 ];

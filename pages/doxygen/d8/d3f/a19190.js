@@ -1,6 +1,6 @@
 var a19190 =
 [
-    [ "instance_eye_of_eternity_InstanceMapScript", "d5/de6/a19194.html", "d5/de6/a19194" ],
-    [ "instance_eye_of_eternity", "d8/d3f/a19190.html#afcab4ba969d0423871a4e398627a323d", null ],
-    [ "GetInstanceScript", "d8/d3f/a19190.html#af51319609d355fe87a77a87eb697f434", null ]
+    [ "DespawnTime", "d8/d3f/a19190.html#ae14c357137f16666c74e5f7e3f77aed5", null ],
+    [ "End", "d8/d3f/a19190.html#ac87ea314ccf946eb1fa35985e35c81fd", null ],
+    [ "Start", "d8/d3f/a19190.html#a985271de503fa704a58abe3e64c3b268", null ]
 ];

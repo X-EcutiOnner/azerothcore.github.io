@@ -1,7 +1,6 @@
 var a15486 =
 [
-    [ "npc_kaya_flathoofAI", "d3/d67/a15486.html#a3b43992dfeeb7b3b19e777b9629c55ce", null ],
-    [ "JustSummoned", "d3/d67/a15486.html#ac365753a428009f4fc4d01ead8fe46fd", null ],
-    [ "Reset", "d3/d67/a15486.html#af9be00be9867622a16103bd21311327f", null ],
-    [ "WaypointReached", "d3/d67/a15486.html#a8fcbb19279b925138ba96d2a450fc404", null ]
+    [ "npc_clintar_spiritAI", "d1/dbd/a15490.html", "d1/dbd/a15490" ],
+    [ "npc_clintar_spirit", "d3/d67/a15486.html#a416f5eea882f2c13c4c0f7dd81d36a2b", null ],
+    [ "GetAI", "d3/d67/a15486.html#a118198504f6f93c86302275a11582d60", null ]
 ];

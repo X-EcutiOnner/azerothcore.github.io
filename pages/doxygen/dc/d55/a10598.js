@@ -1,6 +1,8 @@
 var a10598 =
 [
-    [ "GuildUpdateInfoText", "dc/d55/a10598.html#a82afd6cb3240da6870990d6f80f69cd6", null ],
-    [ "Read", "dc/d55/a10598.html#a7019344fef99c5479602d7bc1176e9ee", null ],
-    [ "InfoText", "dc/d55/a10598.html#a786802ce427465d66a4cea1365743975", null ]
+    [ "OtherGUID", "dc/d55/a10598.html#a3f7486a2e4e07fef318414eaaa9037da", null ],
+    [ "PlayerGUID", "dc/d55/a10598.html#ae3d1217ddbfccd601fcbc57b78739a94", null ],
+    [ "RankID", "dc/d55/a10598.html#a1aebcb39f85c2b44101a311a6ccefdfd", null ],
+    [ "TransactionDate", "dc/d55/a10598.html#a4a8054876b35134e5dfe2cf84887e66f", null ],
+    [ "TransactionType", "dc/d55/a10598.html#aa48b69aa9078fb150470d66201b34786", null ]
 ];

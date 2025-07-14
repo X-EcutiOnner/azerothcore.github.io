@@ -1,7 +1,7 @@
 var a16366 =
 [
-    [ "npc_toc_rogueAI", "d6/d10/a16366.html#a34027e7d10edbfba8e046f4785e37899", null ],
-    [ "myCanCast", "d6/d10/a16366.html#a85ed8e251dd8356e678536f1e3f3c93d", null ],
-    [ "UpdateAI", "d6/d10/a16366.html#a49b0655def227684f07bd60a3c1e0ce1", null ],
-    [ "events", "d6/d10/a16366.html#a1519bebb81b64d57b2b0b34a059b83f8", null ]
+    [ "HandleAfterHit", "d6/d10/a16366.html#a6fc446385881ddb4c94de73199649816", null ],
+    [ "PrepareSpellScript", "d6/d10/a16366.html#acaed5d5902194f8ba9d2b286cd47d8d0", null ],
+    [ "Register", "d6/d10/a16366.html#aaae368b2f647aa6a56827550e50dafe1", null ],
+    [ "Validate", "d6/d10/a16366.html#ad4c84071b538b657fa1302982f8799b4", null ]
 ];

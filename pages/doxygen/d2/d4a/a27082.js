@@ -1,5 +1,5 @@
 var a27082 =
 [
-    [ "go_noblegarden_colored_egg", "d2/d4a/a27082.html#a7e85d492a6c9f4e50a2c47d6e6dae535", null ],
-    [ "OnGossipHello", "d2/d4a/a27082.html#ab3d349dfa5b4c0f58ed70f80cd084029", null ]
+    [ "AreaTrigger_at_sentry_point", "d2/d4a/a27082.html#a9c27f669aba3be1a83fdd1c99a8af4cf", null ],
+    [ "OnTrigger", "d2/d4a/a27082.html#ab59fb74f4f988c208359855d2e4d9918", null ]
 ];

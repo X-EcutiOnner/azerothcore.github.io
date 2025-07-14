@@ -1,10 +1,9 @@
 var a25942 =
 [
-    [ "AfterCheckProc", "d8/dfa/a25942.html#aa6f32a97ece5fc68c0b0a2cfa36e33eb", null ],
-    [ "HandleProc", "d8/dfa/a25942.html#a613182c741769d0983206bdfa89242f6", null ],
-    [ "PrepareAuraScript", "d8/dfa/a25942.html#a4f614fe81d829d8a1ceb7500f9557948", null ],
-    [ "Register", "d8/dfa/a25942.html#acd807de02a83a97a78572d672fb16027", null ],
-    [ "Validate", "d8/dfa/a25942.html#a3d2d6f1a00825ac66f507a790f468198", null ],
-    [ "_spellInfo", "d8/dfa/a25942.html#a66a5eb4caa7b43c34b2830d9a3d2f994", null ],
-    [ "_ticksModifier", "d8/dfa/a25942.html#ae23b54499fff879a096bd459e264c4f0", null ]
+    [ "HandleAfterCast", "d8/dfa/a25942.html#afd2fbc51ac1e99789994021af36688f3", null ],
+    [ "HandleTriggerSpell", "d8/dfa/a25942.html#ae140ab00101f081454b55e12a7c54440", null ],
+    [ "Load", "d8/dfa/a25942.html#a3dbb3541f0ec3f614d1f18fd92f9bc03", null ],
+    [ "PrepareSpellScript", "d8/dfa/a25942.html#a7fd1a83dd49cee4f52913a40caf3ef88", null ],
+    [ "Register", "d8/dfa/a25942.html#a3e9d0ff0bd71ea6d87fb9a7edcfa9a1c", null ],
+    [ "_triggerSpellId", "d8/dfa/a25942.html#a9a3efd5cf45d15cf8112a82d33dca731", null ]
 ];

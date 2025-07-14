@@ -1,7 +1,7 @@
 var a18382 =
 [
-    [ "npc_valithria_portalAI", "d3/deb/a18382.html#a18c1b9d2b149fbc34a17c9e87a8c70b6", null ],
-    [ "GetData", "d3/deb/a18382.html#a598ba7930900aa211bb7e7dc12f366c0", null ],
-    [ "OnSpellClick", "d3/deb/a18382.html#a457f2725e6580d7e6f3bb0445ba796a8", null ],
-    [ "_used", "d3/deb/a18382.html#a92cc0c2aaa6add0c6c641719d6846bb3", null ]
+    [ "OnPeriodic", "d3/deb/a18382.html#adfbfcf4ad8671ca4eaa439705f7b6c2a", null ],
+    [ "PrepareAuraScript", "d3/deb/a18382.html#a5bb82c03f7c34e6febd3fe8aa57d4723", null ],
+    [ "Register", "d3/deb/a18382.html#a0fc7ca43a0d82058fc04277742231388", null ],
+    [ "Validate", "d3/deb/a18382.html#ae52c7c189a45a0bb5f3a627f502e3730", null ]
 ];

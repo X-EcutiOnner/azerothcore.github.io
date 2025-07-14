@@ -1,6 +1,6 @@
 var a26214 =
 [
-    [ "HandleScriptEffect", "df/db9/a26214.html#a7dc7cb2dcdd6518a253a459e2e711c89", null ],
-    [ "PrepareSpellScript", "df/db9/a26214.html#a9c41ae2e7ef1947c11c16d8abb48ec56", null ],
-    [ "Register", "df/db9/a26214.html#a5b2a218cca68177209ca42be9dfbc8ea", null ]
+    [ "CheckCast", "df/db9/a26214.html#a2edd0bcaa3b026cc70f9f6b58f53f486", null ],
+    [ "PrepareSpellScript", "df/db9/a26214.html#aaf1e16dbc8d33aadcbf74dc4cebe715b", null ],
+    [ "Register", "df/db9/a26214.html#a32aaab12105c9b1c09edfa8a444ced9c", null ]
 ];

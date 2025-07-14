@@ -1,5 +1,6 @@
 var a20402 =
 [
-    [ "npc_ulduar_rocket_strike_triggerAI", "d6/d33/a20402.html#a6308129d11989dadf0a5948c4a268e4b", null ],
-    [ "SpellHitTarget", "d6/d33/a20402.html#a3c254e16f62e7d2414d81062c91c2468", null ]
+    [ "boss_mimironAI", "dd/d80/a20406.html", "dd/d80/a20406" ],
+    [ "boss_mimiron", "d6/d33/a20402.html#a72904837bd85e9f711fcf3da04c459c3", null ],
+    [ "GetAI", "d6/d33/a20402.html#a1d4f38ecee62a2c2a608afc158fad7f2", null ]
 ];

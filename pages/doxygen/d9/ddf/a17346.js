@@ -1,8 +1,6 @@
 var a17346 =
 [
-    [ "CheckProc", "d9/ddf/a17346.html#a11620e4d645b3bfd35924700b5dad289", null ],
-    [ "HandleProc", "d9/ddf/a17346.html#aa80a032f2ec80aba36f6fe0208412587", null ],
-    [ "PrepareAuraScript", "d9/ddf/a17346.html#afe04f0cb6539238412253b63dd3c82b9", null ],
-    [ "Register", "d9/ddf/a17346.html#ac18d1d1a1d19b0dfa5cb1565377ba273", null ],
-    [ "Validate", "d9/ddf/a17346.html#ac42fe3248fadf0ecca95893e06c490ee", null ]
+    [ "PrepareSpellScript", "d9/ddf/a17346.html#a37899f12707930d038de38bae92c9aff", null ],
+    [ "Register", "d9/ddf/a17346.html#a3677d2e7db842f899e6e2d2c8c9a3d42", null ],
+    [ "SelectDest", "d9/ddf/a17346.html#a4caabf8afac621ef70bbbac1a2b5177e", null ]
 ];

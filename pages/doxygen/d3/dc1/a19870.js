@@ -1,7 +1,11 @@
 var a19870 =
 [
-    [ "FilterTargets", "d3/dc1/a19870.html#a3d864f0428b7e53774d06069037ca5b2", null ],
-    [ "HandleScript", "d3/dc1/a19870.html#aef8bfe18b42bcc9ad70378c0d78354e7", null ],
-    [ "PrepareSpellScript", "d3/dc1/a19870.html#aafbd4751a01b4ce62dc94eee2e47f64f", null ],
-    [ "Register", "d3/dc1/a19870.html#afabe09f8d9a9a10855d6469e8a3db30f", null ]
+    [ "boss_flame_leviathan_defense_turretAI", "d3/dc1/a19870.html#aedf30f06fe89c805019f7cc254646ff1", null ],
+    [ "CanAIAttack", "d3/dc1/a19870.html#a76efa1d88ce029775809abb3ec88efb3", null ],
+    [ "DamageTaken", "d3/dc1/a19870.html#adedbbeeb01da20843bc85ac2daaed12a", null ],
+    [ "JustDied", "d3/dc1/a19870.html#af261cc1f0458984719ab1bb4518bdc64", null ],
+    [ "KilledUnit", "d3/dc1/a19870.html#aed3f2a4bac3391683989eec94697ef16", null ],
+    [ "UpdateAI", "d3/dc1/a19870.html#a575eb381d1aa31af60484271ae6e4627", null ],
+    [ "_instance", "d3/dc1/a19870.html#a8c0658a5d32355607cb16f6e1c83f83e", null ],
+    [ "_setHealth", "d3/dc1/a19870.html#aeb220ded0a6515674a428716a8be9f48", null ]
 ];

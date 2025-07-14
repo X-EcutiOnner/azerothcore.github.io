@@ -1,6 +1,9 @@
 var a15974 =
 [
-    [ "boss_twilight_halionAI", "d4/d35/a15978.html", "d4/d35/a15978" ],
-    [ "boss_twilight_halion", "d8/d94/a15974.html#a23ea0a61acb2cf3fd83aece3ac7d218e", null ],
-    [ "GetAI", "d8/d94/a15974.html#a56842d74b16cbd5636649cbc643c50d8", null ]
+    [ "boss_sartharion_vesperonAI", "d8/d94/a15974.html#afd67bf2c7a479771976673b05b0fc29e", null ],
+    [ "ClearInstance", "d8/d94/a15974.html#aad9556374e26cbea7641461510fef9ba", null ],
+    [ "ExecuteEvent", "d8/d94/a15974.html#aaf88a9e57c0d35f9e5d3fbcd4e2f5d09", null ],
+    [ "HandleExtraEvent", "d8/d94/a15974.html#ab2080a14c105aeb6a9c155cf6f4ec17d", null ],
+    [ "Reset", "d8/d94/a15974.html#aacf26c52f77ef4eb084814934f00aab1", null ],
+    [ "SummonedCreatureDies", "d8/d94/a15974.html#a1e6fc9b1c734e73e5e27f6a17cf65d0b", null ]
 ];

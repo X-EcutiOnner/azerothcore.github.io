@@ -1,7 +1,7 @@
 var a25990 =
 [
-    [ "HandleDummy", "df/dad/a25990.html#a82ff05f6150750ecb6ef3b5f8c40f703", null ],
-    [ "PrepareSpellScript", "df/dad/a25990.html#a6856f05f2cc25267f1d3023d3cb48dc2", null ],
-    [ "Register", "df/dad/a25990.html#adadd0254d68281ac1063bcc57574ed77", null ],
-    [ "Validate", "df/dad/a25990.html#a61923f636ad8b3d48eb2dbc6a1803527", null ]
+    [ "HandleDummy", "df/dad/a25990.html#a870b9834d0860a2d017b74fbf33ae668", null ],
+    [ "Load", "df/dad/a25990.html#ae971bd1dccc9280620b6ea44dd552bd4", null ],
+    [ "PrepareSpellScript", "df/dad/a25990.html#aac68e0f75f39ab25cf490dc381414b96", null ],
+    [ "Register", "df/dad/a25990.html#ad2840c719abd010c629747da138e9e32", null ]
 ];

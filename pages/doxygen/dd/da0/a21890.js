@@ -1,7 +1,7 @@
 var a21890 =
 [
-    [ "HandleScript", "dd/da0/a21890.html#a7fec959237546201ea94d5f87068e1c5", null ],
-    [ "PrepareSpellScript", "dd/da0/a21890.html#ae0c3eafc8b227078a2dcaccf1c0a278b", null ],
-    [ "Register", "dd/da0/a21890.html#a0aab07a4950f60a290491aa13103b332", null ],
-    [ "Validate", "dd/da0/a21890.html#a92d5493a43fca5c54ef89cb19ce00aa2", null ]
+    [ "npc_emilyAI", "d7/da8/a21894.html", "d7/da8/a21894" ],
+    [ "npc_emily", "dd/da0/a21890.html#ab40f581fad087b3d32a7724fca97895d", null ],
+    [ "GetAI", "dd/da0/a21890.html#a6317e4b9787c25ce119d08432cd1acf7", null ],
+    [ "OnQuestAccept", "dd/da0/a21890.html#ad434e7bf2427b3575a8459021e792152", null ]
 ];

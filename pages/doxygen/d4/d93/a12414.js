@@ -1,7 +1,6 @@
 var a12414 =
 [
-    [ "HandleScript", "d4/d93/a12414.html#ac09c2c6b997c2a5fc0bee0ba0ea185ae", null ],
-    [ "PrepareSpellScript", "d4/d93/a12414.html#ad3c052a9bd00d04c954f85218dcfcb0a", null ],
-    [ "Register", "d4/d93/a12414.html#a8658c2c7e32a66e4a1bcc048406653bb", null ],
-    [ "Validate", "d4/d93/a12414.html#aa03795d909e24dfe2ccd12e431b2575e", null ]
+    [ "boss_lucifronAI", "de/d17/a12418.html", "de/d17/a12418" ],
+    [ "boss_lucifron", "d4/d93/a12414.html#aa54be5c49a77524b036c167dbb6d81ea", null ],
+    [ "GetAI", "d4/d93/a12414.html#a885366d4190bbc77dc696ee6910435ed", null ]
 ];

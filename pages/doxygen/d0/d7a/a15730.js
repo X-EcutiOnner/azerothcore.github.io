@@ -1,6 +1,6 @@
 var a15730 =
 [
-    [ "ModDestHeight", "d0/d7a/a15730.html#a8bda9327c4244af41c513528ad5c818c", null ],
-    [ "PrepareSpellScript", "d0/d7a/a15730.html#aba5a03c94fa5d87c46a91369875c0ab2", null ],
-    [ "Register", "d0/d7a/a15730.html#a62b0ce71caeff96705b15aa240ddd09f", null ]
+    [ "creatureID", "d0/d7a/a15730.html#a44a9f5e58bfa58e2e2325e116e988f07", null ],
+    [ "pos", "d0/d7a/a15730.html#a9705a858cc2c3867e104514d3a0a1866", null ],
+    [ "waveID", "d0/d7a/a15730.html#a09b48f7f6da7e203ed50a8abc7f24e56", null ]
 ];

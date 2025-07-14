@@ -1,6 +1,6 @@
 var a18198 =
 [
-    [ "npc_valkyr_shadowguardAI", "d6/d8e/a18202.html", "d6/d8e/a18202" ],
-    [ "npc_valkyr_shadowguard", "dc/d56/a18198.html#a8ee90e21499eebf240c57419454c3829", null ],
-    [ "GetAI", "dc/d56/a18198.html#ad84cb094a17e4fb88d3e883c98ce7f5a", null ]
+    [ "boss_the_lich_kingAI", "d6/d8e/a18202.html", "d6/d8e/a18202" ],
+    [ "boss_the_lich_king", "dc/d56/a18198.html#a10e2789a98a85907d24eabae6d7655f4", null ],
+    [ "GetAI", "dc/d56/a18198.html#ab12d8cdfdb1c5428423f6db9dda6c97e", null ]
 ];

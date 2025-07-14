@@ -1,6 +1,8 @@
 var a04842 =
 [
-    [ "Resolver", "df/dcf/a04842.html#ad1a3a95744d64df722a6fb4b267316e6", null ],
-    [ "Resolve", "df/dcf/a04842.html#ab190f885c84753fe65405db6fb04bf7c", null ],
-    [ "_impl", "df/dcf/a04842.html#a08ed9183a6338606524c44f0fd5695a0", null ]
+    [ "ByteSize", "dc/da5/a10830.html", "dc/da5/a10830" ],
+    [ "Hyperlinks", "d9/d64/a10838.html", "d9/d64/a10838" ],
+    [ "NoHyperlinks", "da/dce/a10842.html", "da/dce/a10842" ],
+    [ "RawBytes", "d6/dd9/a10826.html", "d6/dd9/a10826" ],
+    [ "Utf8", "d3/dcf/a10834.html", "d3/dcf/a10834" ]
 ];

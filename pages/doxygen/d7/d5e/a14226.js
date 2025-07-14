@@ -1,6 +1,6 @@
 var a14226 =
 [
-    [ "gameobjectId", "d7/d5e/a14226.html#a5cebf652fccc66cb5f98968036405d14", null ],
-    [ "spawnIndex", "d7/d5e/a14226.html#a5e8b95d6ecf69db8736941b67e2478d8", null ],
-    [ "timestamp", "d7/d5e/a14226.html#a0c49f62b35e906637890fee896c74951", null ]
+    [ "npc_direbrew_antagonist", "d7/d5e/a14226.html#a30fed4e6888d98af576dea8e13c510d3", null ],
+    [ "DoAction", "d7/d5e/a14226.html#a924891e5d4e3f30d78186bedf76cf7d1", null ],
+    [ "JustEngagedWith", "d7/d5e/a14226.html#aaf54b03d66d726901c289ff28d362787", null ]
 ];

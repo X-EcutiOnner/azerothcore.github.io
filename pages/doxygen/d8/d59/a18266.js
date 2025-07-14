@@ -1,9 +1,6 @@
 var a18266 =
 [
-    [ "FilterTargets", "d8/d59/a18266.html#a2b669cd93ed96417e4a0a6d83e4095cd", null ],
-    [ "Load", "d8/d59/a18266.html#aaec66c1d360ffa4e25d86f331f3521dd", null ],
-    [ "PrepareSpellScript", "d8/d59/a18266.html#a34d702b1299e2ee27eb1c27bc49be9dc", null ],
-    [ "Register", "d8/d59/a18266.html#afad887fba0d97512a7a13a31977cf42d", null ],
-    [ "Validate", "d8/d59/a18266.html#a2ff2dcfa096bf237c9c4c442ec13fa4d", null ],
-    [ "_instance", "d8/d59/a18266.html#a96dde7a1b30682c6bb04c1ae5449bd7c", null ]
+    [ "npc_icc_ice_sphereAI", "d9/dbe/a18270.html", "d9/dbe/a18270" ],
+    [ "npc_icc_ice_sphere", "d8/d59/a18266.html#a4ed169ba87e801bb83ca4f3c457534cf", null ],
+    [ "GetAI", "d8/d59/a18266.html#aabb9ef14ea217f282173edf1600d3ecd", null ]
 ];

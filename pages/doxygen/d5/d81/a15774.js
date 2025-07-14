@@ -1,5 +1,6 @@
 var a15774 =
 [
-    [ "PrepareAuraScript", "d5/d81/a15774.html#a94b3a8e0a610afa69c3a9771f8f22b13", null ],
-    [ "Register", "d5/d81/a15774.html#a1203cbec26f64aa97d10783b567c2d62", null ]
+    [ "npc_shadowpriest_sezzizAI", "df/d40/a15778.html", "df/d40/a15778" ],
+    [ "npc_shadowpriest_sezziz", "d5/d81/a15774.html#a1be46acc9d8f1405f925f7b7f87592ea", null ],
+    [ "GetAI", "d5/d81/a15774.html#a1513b766f18dbc290b6682582fd33b1d", null ]
 ];

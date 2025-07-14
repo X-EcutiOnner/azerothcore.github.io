@@ -1,5 +1,5 @@
 var a04007 =
 [
-    [ "tele_commandscript", "d2/d10/a11736.html", "d2/d10/a11736" ],
-    [ "AddSC_tele_commandscript", "d2/dfc/a04007.html#a75673ffc02c68c43cefd69bb0648dd53", null ]
+    [ "spectator_commandscript", "da/d51/a11758.html", "da/d51/a11758" ],
+    [ "AddSC_spectator_commandscript", "d2/dfc/a04007.html#a223cb7b19bd79c486919c41509ea6ddf", null ]
 ];

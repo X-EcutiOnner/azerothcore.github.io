@@ -1,6 +1,7 @@
 var a14654 =
 [
-    [ "npc_cos_chromie_start", "d1/d6a/a14654.html#ae8f810af1e593ad16958049f6ad19616", null ],
-    [ "OnGossipSelect", "d1/d6a/a14654.html#a35cba5a1b7865b07a4e843648cea50c8", null ],
-    [ "OnQuestAccept", "d1/d6a/a14654.html#aa730cb17e6cfe917bc32f7e7ae52e8ef", null ]
+    [ "hyjalThrallAI", "da/d7f/a14658.html", "da/d7f/a14658" ],
+    [ "npc_hyjal_thrall", "d1/d6a/a14654.html#a232f085f208a47f7fae08128de1d06b8", null ],
+    [ "GetAI", "d1/d6a/a14654.html#a699b5df19e4e84166348ecfba2dd0172", null ],
+    [ "OnGossipSelect", "d1/d6a/a14654.html#af833f26d79d34655c010aa04f984a94a", null ]
 ];

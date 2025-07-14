@@ -1,8 +1,8 @@
 var a24970 =
 [
-    [ "HandleScript", "dd/d08/a24970.html#af7330c1b586b809c78e0bc080cb92c65", null ],
-    [ "Load", "dd/d08/a24970.html#a262fc7f4bc3f1fae07f69dde765d8228", null ],
-    [ "PrepareSpellScript", "dd/d08/a24970.html#af0fda52cff0361cf6c4a69957459ddf3", null ],
-    [ "Register", "dd/d08/a24970.html#a41225a9f5d9304df4a02a681e8b73ff6", null ],
-    [ "Validate", "dd/d08/a24970.html#a520341dc41dcce5fd9346e3f5ed6ee51", null ]
+    [ "CheckIfCorpseNear", "dd/d08/a24970.html#afdf1bca2e23057d99962fb1000e9245e", null ],
+    [ "HandleDummy", "dd/d08/a24970.html#a9e1bf4884a32e515d8e6b3edf7f5d462", null ],
+    [ "PrepareSpellScript", "dd/d08/a24970.html#af4a1aa22ed9ccf4df29d05d3f7fb0214", null ],
+    [ "Register", "dd/d08/a24970.html#a22f4c5321769384b2b708f19edea1a66", null ],
+    [ "Validate", "dd/d08/a24970.html#a855fdba79c4fa087253505ed419b9966", null ]
 ];

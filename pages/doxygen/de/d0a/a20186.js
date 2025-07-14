@@ -1,5 +1,6 @@
 var a20186 =
 [
-    [ "achievement_i_have_the_coolest_friends", "de/d0a/a20186.html#a87fd2d5702fe33ee8b09042c66897636", null ],
-    [ "OnCheck", "de/d0a/a20186.html#aa77aa6129967601ede2f3fc44b2ee1aa", null ]
+    [ "npc_ulduar_flash_freezeAI", "d6/da8/a20190.html", "d6/da8/a20190" ],
+    [ "npc_ulduar_flash_freeze", "de/d0a/a20186.html#a0301ed1231d3b0d113e9fc9389e8f160", null ],
+    [ "GetAI", "de/d0a/a20186.html#a933f99c8d38ab98c8454919b6373bb41", null ]
 ];

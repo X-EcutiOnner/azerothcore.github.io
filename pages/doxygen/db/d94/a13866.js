@@ -1,11 +1,12 @@
 var a13866 =
 [
-    [ "boss_hakkarAI", "db/d94/a13866.html#ae29c8c0816fc3efb83d7912c559747e4", null ],
-    [ "ApplyHakkarPowerStacks", "db/d94/a13866.html#aca5b7ee8d026ff7ee808e9ebd64c8dcf", null ],
-    [ "CheckInRoom", "db/d94/a13866.html#a8a70e82f6c72760143148d9c9f8095cc", null ],
-    [ "EnterEvadeMode", "db/d94/a13866.html#a6ca87d663714ddecfe562f0c705fa6f8", null ],
-    [ "JustDied", "db/d94/a13866.html#ae6b8c72ad3d36ee6eea624a7d79ca26b", null ],
-    [ "JustEngagedWith", "db/d94/a13866.html#ae023eb68fc066ba5713baaf3b0595f0c", null ],
-    [ "Reset", "db/d94/a13866.html#a52db5743c09088e2e9f1aff1513960f2", null ],
-    [ "UpdateAI", "db/d94/a13866.html#a1119212465bcf293991d7a520c6ffe42", null ]
+    [ "npc_forest_frog", "db/d94/a13866.html#a6a5e24a11f8d2add6a3e9d71e2e647bb", null ],
+    [ "DoSpawnRandom", "db/d94/a13866.html#aac140826b8c4b7ce55925b5abeee936e", null ],
+    [ "JustEngagedWith", "db/d94/a13866.html#aa22c4eb7eb3a84db94ce8eb38afd18f5", null ],
+    [ "MovementInform", "db/d94/a13866.html#a8260157062b3e4ef48ad47b4f9bf66ac", null ],
+    [ "SpellHit", "db/d94/a13866.html#a9501955507e1f236bb48384928fd6a32", null ],
+    [ "UpdateAI", "db/d94/a13866.html#a5e6785d71bfb7f1d7b915723898a99fc", null ],
+    [ "eventTimer", "db/d94/a13866.html#ac6bf7433f79a9c2803072e7b5370a1c7", null ],
+    [ "instance", "db/d94/a13866.html#a6294f89eccdb9e5f9edbe8bccb164690", null ],
+    [ "PlayerGUID", "db/d94/a13866.html#a3544a83bb22e12d247e562ef32e378c0", null ]
 ];

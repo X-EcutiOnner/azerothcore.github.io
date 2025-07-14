@@ -1,11 +1,8 @@
 var a15858 =
 [
-    [ "boss_sartharion_tenebronAI", "d3/d01/a15858.html#a9996fce9320390ead967ad82bcef9554", null ],
-    [ "ClearInstance", "d3/d01/a15858.html#af9e0459fff845bf4f6e53d06e4a9447f", null ],
-    [ "ExecuteEvent", "d3/d01/a15858.html#a6a7f8255aa1dcbb979354467d0e6949d", null ],
-    [ "HandleExtraEvent", "d3/d01/a15858.html#ad78a939f0584b775e29341ff08f0eee1", null ],
-    [ "JustDied", "d3/d01/a15858.html#ac3e03263a174dd147854fa6d714ec003", null ],
-    [ "JustSummoned", "d3/d01/a15858.html#a50d000b322e3d3a61cc02dea96c2979d", null ],
-    [ "Reset", "d3/d01/a15858.html#a1aa8277ddc91989ed7480d4221a6e534", null ],
-    [ "summons2", "d3/d01/a15858.html#a5060b01175ece5ad782e96bdf3d2c82d", null ]
+    [ "instance_ahnkahet_InstanceScript", "d3/d01/a15858.html#aa9a72f2f757d0b3065a6e4e25b14e86d", null ],
+    [ "IsAllSpheresActivated", "d3/d01/a15858.html#a048a2b16ae9917c7edc9bf7023986ac3", null ],
+    [ "OnGameObjectCreate", "d3/d01/a15858.html#ad00fdc90a61e1c927323daa2149f8466", null ],
+    [ "SetData", "d3/d01/a15858.html#a8986038a2f25b16b9ab8ba4d41b5221a", null ],
+    [ "taldaramPlatform_GUID", "d3/d01/a15858.html#a840ce69595c384be321c1167513d151e", null ]
 ];

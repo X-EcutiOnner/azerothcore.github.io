@@ -1,8 +1,10 @@
 var a26074 =
 [
-    [ "CheckProc", "d7/d38/a26074.html#a9e7b83ffd7e8d5ff4cf3b59cfbc40b0e", null ],
-    [ "HandleProc", "d7/d38/a26074.html#a772385aab5f9917d0d3fb456e0ed55e1", null ],
-    [ "PrepareAuraScript", "d7/d38/a26074.html#a876c1bda52c99c52249444414196b1d4", null ],
-    [ "Register", "d7/d38/a26074.html#a1409e9c24827ee51a83d732bb99dd27b", null ],
-    [ "Validate", "d7/d38/a26074.html#a8e36353d5296c609cbe0ce63db4e7dcb", null ]
+    [ "CheckProc", "d7/d38/a26074.html#a23dfb39522f7a5437af439ef567d6ec6", null ],
+    [ "HandleEffectApply", "d7/d38/a26074.html#ab83f17b45edc5dba8f4b3f3fbc88c626", null ],
+    [ "HandleEffectRemove", "d7/d38/a26074.html#a7bab07fde0fb18e89388e1bc4c72c165", null ],
+    [ "HandleProc", "d7/d38/a26074.html#a8352d7d9376f149fa227f7ca983e2660", null ],
+    [ "PrepareAuraScript", "d7/d38/a26074.html#a309dabfa452d3279e7fb47a8e4784779", null ],
+    [ "Register", "d7/d38/a26074.html#a3d020d3025f0ad086c43b4239205cd94", null ],
+    [ "Validate", "d7/d38/a26074.html#ac3a5505808b3a7e718071f1202805ac5", null ]
 ];

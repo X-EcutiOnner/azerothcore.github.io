@@ -1,12 +1,10 @@
 var a22814 =
 [
-    [ "boss_essence_of_desireAI", "de/dad/a22814.html#a02f6dec07038297c15c264fb501b01ab", null ],
-    [ "DamageTaken", "de/dad/a22814.html#abc2d334c185f519230e5ee4d1fc8ff39", null ],
-    [ "DoAction", "de/dad/a22814.html#ad55459d8e75f34783c1516be05cbb97f", null ],
-    [ "JustEngagedWith", "de/dad/a22814.html#a0976078399b2190cca25aa2ae5c3c201", null ],
-    [ "KilledUnit", "de/dad/a22814.html#a07509843bd658e3fc0b02cb817da37e9", null ],
-    [ "MovementInform", "de/dad/a22814.html#ad65068c5f56db269b4dc711745f96cfb", null ],
-    [ "Reset", "de/dad/a22814.html#a5c785c728d201a1a4f8f1e01d7000166", null ],
-    [ "UpdateAI", "de/dad/a22814.html#af348a1b996a8e7704ba55185ef79fe7d", null ],
-    [ "_recentlySpoken", "de/dad/a22814.html#a6507c0da056a74d961d28e96120cd676", null ]
+    [ "boss_gathios_the_shatterer", "de/dad/a22814.html#a34708f52c610e567c5acf62962e90d4e", null ],
+    [ "JustEngagedWith", "de/dad/a22814.html#a98ad625cf2ac9b1d8d9b41001ba4fb34", null ],
+    [ "SelectCouncilMember", "de/dad/a22814.html#a3d33c1a29b7ba2feb22ea9d3941b39ed", null ],
+    [ "UpdateAI", "de/dad/a22814.html#a1541f1efd3978a4c91b80e411aec6442", null ],
+    [ "_toggleAura", "de/dad/a22814.html#aa983e2d9018a9e53ee29840781f47c33", null ],
+    [ "_toggleBlessing", "de/dad/a22814.html#a52e9b7d3b1af46d3ecb6ca9432ee3957", null ],
+    [ "_toggleSeal", "de/dad/a22814.html#ad7e6f9e03968e2abac570d0c7a5de9e2", null ]
 ];

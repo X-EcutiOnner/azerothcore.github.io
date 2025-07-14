@@ -1,6 +1,9 @@
 var a14618 =
 [
-    [ "boss_meathookAI", "d5/def/a14622.html", "d5/def/a14622" ],
-    [ "boss_meathook", "db/df3/a14618.html#a044c8ec4a419e5c5a8b290df9c0ad169", null ],
-    [ "GetAI", "db/df3/a14618.html#ae8ee3631ff1f80f4fad99e4eca042ad8", null ]
+    [ "boss_azgalor", "db/df3/a14618.html#ac794e0eacc2d543fa62e4b521089f080", null ],
+    [ "DoAction", "db/df3/a14618.html#a43d7afa9da1375f431df871e2a1dfff2", null ],
+    [ "JustDied", "db/df3/a14618.html#a49cc8abf458f82ad7d46c9c1563f0e98", null ],
+    [ "JustEngagedWith", "db/df3/a14618.html#a4b067c3bccbd5f9c96c50d009250d3d0", null ],
+    [ "KilledUnit", "db/df3/a14618.html#a04df1058e89ccc6e7ef2d1dff38d47e7", null ],
+    [ "_recentlySpoken", "db/df3/a14618.html#abea34396ddde0aa02a073b2f3119fec9", null ]
 ];

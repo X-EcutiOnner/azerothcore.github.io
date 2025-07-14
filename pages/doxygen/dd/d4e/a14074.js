@@ -1,10 +1,11 @@
 var a14074 =
 [
-    [ "npc_brewfest_super_brew_trigger", "dd/d4e/a14074.html#a3d2189978683150b1c431fa0fd637358", null ],
-    [ "AttackStart", "dd/d4e/a14074.html#a9ca158a2317a599cd4af64dad6ef04cc", null ],
-    [ "JustEngagedWith", "dd/d4e/a14074.html#a61be52cb8ba0cc10285820ad5324816e", null ],
-    [ "MoveInLineOfSight", "dd/d4e/a14074.html#aedd26ea4a274df9eb27f9f4a22670f1e", null ],
-    [ "Reset", "dd/d4e/a14074.html#a5abf05543247a4f1209fe2a5bebb5d64", null ],
-    [ "UpdateAI", "dd/d4e/a14074.html#a46db84e1eab29e7f4bf99d377962ad12", null ],
-    [ "timer", "dd/d4e/a14074.html#a2ebb06175e3142cca156e57e8386fe02", null ]
+    [ "boss_marli", "dd/d4e/a14074.html#abba94b400523047bfa9e3a5b34b1ee54", null ],
+    [ "_chargePlayer", "dd/d4e/a14074.html#a54efa8663716fb32d6e390b76dc89ee1", null ],
+    [ "_schedulePhaseSpider", "dd/d4e/a14074.html#aff86376080fdcb9773e0a4b2751d3ae6", null ],
+    [ "_schedulePhaseTroll", "dd/d4e/a14074.html#ad6977930dac1cddd2162f7db1b239c83", null ],
+    [ "JustDied", "dd/d4e/a14074.html#a10ab29949ef17e0f9ebd991dc70262c7", null ],
+    [ "JustEngagedWith", "dd/d4e/a14074.html#ac74bd382c3dc826f7e4426bec3557094", null ],
+    [ "Reset", "dd/d4e/a14074.html#ada18ae0feb0c512267ec6bd83b8ac591", null ],
+    [ "_phase", "dd/d4e/a14074.html#af2b3f0e75ad60b6a9d013a3e9654021e", null ]
 ];

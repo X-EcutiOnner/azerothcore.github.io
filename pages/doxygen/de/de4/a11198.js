@@ -1,10 +1,8 @@
 var a11198 =
 [
-    [ "EffectHook", "de/de4/a11198.html#a4a197e061d918dfba2bc486f3393b00d", null ],
-    [ "~EffectHook", "de/de4/a11198.html#aa234f63b530764d12064acbe3f5c9299", null ],
-    [ "CheckEffect", "de/de4/a11198.html#ae8823c5d649d182f572818bf3db72902", null ],
-    [ "EffIndexToString", "de/de4/a11198.html#ab818ed274cfd66ecc565b8535b751517", null ],
-    [ "GetAffectedEffectsMask", "de/de4/a11198.html#a31faa86590e22f5ab3ca518f4df02840", null ],
-    [ "IsEffectAffected", "de/de4/a11198.html#a697041ffa562bb6fff792beb159c7af2", null ],
-    [ "effIndex", "de/de4/a11198.html#ab5eb48ef7ac903938f92db0e856e0295", null ]
+    [ "target_mapId", "de/de4/a11198.html#a6dbbb558810388e0d051d84a0279a444", null ],
+    [ "target_Orientation", "de/de4/a11198.html#a7e30264eff9ece771dfaa421ef987b2a", null ],
+    [ "target_X", "de/de4/a11198.html#aa78b3d4cfb4277bcb1bf6a31ffc87546", null ],
+    [ "target_Y", "de/de4/a11198.html#a6f432d8770adebf513346713b7890b5c", null ],
+    [ "target_Z", "de/de4/a11198.html#a3af706b81f8fbef12277c518964f717a", null ]
 ];

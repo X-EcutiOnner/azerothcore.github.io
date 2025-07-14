@@ -1,9 +1,8 @@
 var a22918 =
 [
-    [ "boss_najentus", "d9/dec/a22918.html#ac5d3d54a49524892fe844925d483c244", null ],
-    [ "JustDied", "d9/dec/a22918.html#afee32dd32033c7a45068ce12e961797c", null ],
-    [ "JustEngagedWith", "d9/dec/a22918.html#a46e3aab64c21b24ac6457acd598679ec", null ],
-    [ "KilledUnit", "d9/dec/a22918.html#ad55e1de3aa7a636b3d30b0d61a17dab9", null ],
-    [ "Reset", "d9/dec/a22918.html#ab7e0bdb8954722c9080146a88a3c5aa2", null ],
-    [ "_canTalk", "d9/dec/a22918.html#a25ac29a79cdcfb4ebc48de13d677f1d4", null ]
+    [ "HandleEffectApply", "d9/dec/a22918.html#a94993441ef94f84c85aa10c693cf34fe", null ],
+    [ "HandleEffectRemove", "d9/dec/a22918.html#a047a1dd4bab33d7d5b2631c0862ba4b0", null ],
+    [ "PrepareAuraScript", "d9/dec/a22918.html#a0ced86fc2e108e7bba9727d26eac3ff3", null ],
+    [ "Register", "d9/dec/a22918.html#a0dbd8b0bc1dfad8bda0e48ab57b4db3f", null ],
+    [ "Validate", "d9/dec/a22918.html#a964637541cd64e64b4e02c00d36abf2d", null ]
 ];

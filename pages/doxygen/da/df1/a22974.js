@@ -1,6 +1,6 @@
 var a22974 =
 [
-    [ "HandleScriptEffect", "da/df1/a22974.html#a2b46490b70bf93effb7379686e648618", null ],
-    [ "PrepareSpellScript", "da/df1/a22974.html#a5030d071372ef12663f6a75be637476e", null ],
-    [ "Register", "da/df1/a22974.html#aa15afaa9990f29a9e71c1d6395d5de12", null ]
+    [ "npc_supremus_punch_invisible_stalker", "da/df1/a22974.html#add7d0e711ef02a16ef58d90cfc8ee733", null ],
+    [ "IsSummonedBy", "da/df1/a22974.html#a467d5a43bb6d2349ad859a0ef7de4c00", null ],
+    [ "UpdateAI", "da/df1/a22974.html#a90ecfe4257ef77a6d6a200a2f017c51a", null ]
 ];

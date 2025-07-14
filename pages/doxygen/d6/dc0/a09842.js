@@ -1,12 +1,9 @@
 var a09842 =
 [
-    [ "BanAccount", "d6/dc0/a09842.html#af85ceffee2ae6a143df5e36f6a004f07", null ],
-    [ "BanAccountByPlayerName", "d6/dc0/a09842.html#a35f92762d69fe32e49b9b239c74e4734", null ],
-    [ "BanCharacter", "d6/dc0/a09842.html#ad5048b36828bfe20a95dfb85515de831", null ],
-    [ "BanIP", "d6/dc0/a09842.html#a404890eab19b97773e6c9aef8cc65707", null ],
-    [ "instance", "d6/dc0/a09842.html#aa495dfaab6af98c43f645acf516a5630", null ],
-    [ "RemoveBanAccount", "d6/dc0/a09842.html#ae831e6227442edc70469229d5d73fa3f", null ],
-    [ "RemoveBanAccountByPlayerName", "d6/dc0/a09842.html#a7b5e1ae6d34ae4f6a15e03c434953aea", null ],
-    [ "RemoveBanCharacter", "d6/dc0/a09842.html#afbde6c0b26802f684ecf78c2f493cc67", null ],
-    [ "RemoveBanIP", "d6/dc0/a09842.html#afcf4857007432ebff042c85c5daf2325", null ]
+    [ "MapUpdateRequest", "d6/dc0/a09842.html#af71812e502bb1ceb60a286ff0d676ccd", null ],
+    [ "call", "d6/dc0/a09842.html#a2cb96db357347d47596725e5c345b02f", null ],
+    [ "m_diff", "d6/dc0/a09842.html#a3f8ff355ac6efb0a6039c7ee5bfc053b", null ],
+    [ "m_map", "d6/dc0/a09842.html#a3612f3e64bb1d2f266c8724c398f5de5", null ],
+    [ "m_updater", "d6/dc0/a09842.html#aeb063738175aa8ddc751290f922ffef2", null ],
+    [ "s_diff", "d6/dc0/a09842.html#a533a8c8a99f82e15dae0d4513c811b01", null ]
 ];

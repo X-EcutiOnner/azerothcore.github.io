@@ -1,11 +1,8 @@
 var a23362 =
 [
-    [ "boss_gruul", "d3/df6/a23362.html#a9a14e75144c79d7ad4f65192edd385f9", null ],
-    [ "JustDied", "d3/df6/a23362.html#a92d9e524dfaa0e4a22daf9b7bc6ac10d", null ],
-    [ "JustEngagedWith", "d3/df6/a23362.html#afb0cc9bb5acad80cea8d3e572d45da94", null ],
-    [ "KilledUnit", "d3/df6/a23362.html#afec4bb1b631cab0b167afb7cc2578b7d", null ],
-    [ "Reset", "d3/df6/a23362.html#ace9cf892fc1cc345d6f82d6e9816e301", null ],
-    [ "UpdateAI", "d3/df6/a23362.html#a3503b84f4fb896d439ccd49a997e4087", null ],
-    [ "_caveInTimer", "d3/df6/a23362.html#a66766f93a5ff543bbb0c9b805aaf253c", null ],
-    [ "_recentlySpoken", "d3/df6/a23362.html#a411ec67153dd4715eb397a420c45bb12", null ]
+    [ "boss_mekgineer_steamrigger", "d3/df6/a23362.html#a930dcbade7135d0c689bcc0718815547", null ],
+    [ "JustDied", "d3/df6/a23362.html#a79272c233bc0256cca62700fc7a01421", null ],
+    [ "JustEngagedWith", "d3/df6/a23362.html#aa75dea00ffd73b45ba5115ea1e48a006", null ],
+    [ "JustSummoned", "d3/df6/a23362.html#a7a55a9dffaf239e73962356eb0fa88ad", null ],
+    [ "KilledUnit", "d3/df6/a23362.html#a84374438458cb7e034f91d4b65cd22f1", null ]
 ];

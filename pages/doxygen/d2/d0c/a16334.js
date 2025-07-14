@@ -1,8 +1,6 @@
 var a16334 =
 [
-    [ "npc_toc_hunterAI", "d2/d0c/a16334.html#a80f80231bfe5b71bf415da3202c2e6fb", null ],
-    [ "JustSummoned", "d2/d0c/a16334.html#aa270248ad9e0c319234ff0741270b465", null ],
-    [ "myCanCast", "d2/d0c/a16334.html#a4e599ae2ee4e892795889bd57dd29e27", null ],
-    [ "UpdateAI", "d2/d0c/a16334.html#a81f384607ab7e8c4ed7385bdcddfd7a5", null ],
-    [ "events", "d2/d0c/a16334.html#a0cf5ecd9d7b3c92e2da836983323f378", null ]
+    [ "npc_frost_sphereAI", "d2/d8c/a16338.html", "d2/d8c/a16338" ],
+    [ "npc_frost_sphere", "d2/d0c/a16334.html#a0256ba1c53853307f8b66e22b10bef24", null ],
+    [ "GetAI", "d2/d0c/a16334.html#a3e6de3551306fb4c35aabbd4fc656ee6", null ]
 ];

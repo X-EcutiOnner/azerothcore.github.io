@@ -1,16 +1,19 @@
 var a07842 =
 [
-    [ "DisableMap", "d8/d39/a07842.html#adf2cad99fa4b2b3ddbff05931928c1c5", null ],
-    [ "DisableTypeMap", "d8/d39/a07842.html#a70c68e93cdd77f5e54bae1b96c66da13", null ],
-    [ "DisableMgr", "d8/d39/a07842.html#afadb62b96ab43f983f8a8c3077cbe205", null ],
-    [ "~DisableMgr", "d8/d39/a07842.html#ae1483ae3fdeeb98cceb29905f7181b1a", null ],
-    [ "AddDisable", "d8/d39/a07842.html#a343955ca73dabce8e7b81bf2803992fc", null ],
-    [ "CheckQuestDisables", "d8/d39/a07842.html#a2f9fa5dadf6f2da5f01651d37d996377", null ],
-    [ "HandleDisableType", "d8/d39/a07842.html#a203bb85bc7ecb9be3cf09b5d093b90fa", null ],
-    [ "instance", "d8/d39/a07842.html#ac3787801d677b0ed6592476d648743db", null ],
-    [ "IsDisabledFor", "d8/d39/a07842.html#accac4f17d8411544e22ba2231b04f36f", null ],
-    [ "IsPathfindingEnabled", "d8/d39/a07842.html#a8dce4846886ded6ec2b882820abdc517", null ],
-    [ "IsVMAPDisabledFor", "d8/d39/a07842.html#a38b182e1836b2197303b2809006f5148", null ],
-    [ "LoadDisables", "d8/d39/a07842.html#adb464165caf6cd436499fa84969eeaf8", null ],
-    [ "m_DisableMap", "d8/d39/a07842.html#a7a299346248eb6dc692f9e56ae9efffd", null ]
+    [ "ThreatRefStatusChangeEvent", "d8/d39/a07842.html#a97d1b7a1ff9f2c6090e6dfa6d33db2c7", null ],
+    [ "ThreatRefStatusChangeEvent", "d8/d39/a07842.html#a5941cfd844f89dbc371a9ef69e53f6ef", null ],
+    [ "ThreatRefStatusChangeEvent", "d8/d39/a07842.html#ab7736e7438ab0741a66aee7cfe72b308", null ],
+    [ "ThreatRefStatusChangeEvent", "d8/d39/a07842.html#a45c52c850dc6b07ea913e8e83cc32958", null ],
+    [ "getBValue", "d8/d39/a07842.html#a4bd7c3ddca2aaa6a1418390b6df8ff67", null ],
+    [ "getFValue", "d8/d39/a07842.html#a660c6f8258ebb7c6abd81d51c7ff3399", null ],
+    [ "getIValue", "d8/d39/a07842.html#ab9b40ed1c0448ee5de158c26642cacc2", null ],
+    [ "getReference", "d8/d39/a07842.html#af2e0a376782f16c308a11e2e158983d2", null ],
+    [ "GetThreatMgr", "d8/d39/a07842.html#a04a5c0824a6d0b9ec890d98a2cccb304", null ],
+    [ "setBValue", "d8/d39/a07842.html#a41735bb86d49572843cd488deb79e631", null ],
+    [ "setThreatMgr", "d8/d39/a07842.html#ad423b39368df27a046d7c450ec13e4e8", null ],
+    [ "iBValue", "d8/d39/a07842.html#a24f3b0ec126bc8d432c9662854065964", null ],
+    [ "iFValue", "d8/d39/a07842.html#a057aab2519feac28e980e53c364f4358", null ],
+    [ "iHostileReference", "d8/d39/a07842.html#aac0bfb3a87cda0f2cc025fce75d0b46a", null ],
+    [ "iIValue", "d8/d39/a07842.html#a10f8d82c037d0e742b3c9742489d1da9", null ],
+    [ "iThreatMgr", "d8/d39/a07842.html#ad84ffd2fd4064073aafcda27a250da5d", null ]
 ];

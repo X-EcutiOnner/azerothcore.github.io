@@ -1,8 +1,6 @@
 var a26038 =
 [
-    [ "CheckCast", "d1/dd4/a26038.html#a0d7910cd2b9d9f4174575532502d40f9", null ],
-    [ "HandleDummy", "d1/dd4/a26038.html#a1eac1eb5f39093ff48942e82728478dd", null ],
-    [ "PrepareSpellScript", "d1/dd4/a26038.html#adbb58b75232560d101b291c0d99a2a20", null ],
-    [ "Register", "d1/dd4/a26038.html#a6acb46e81171e13f50ac1f01bf83013b", null ],
-    [ "Validate", "d1/dd4/a26038.html#a4b67c348685a8094668e4ed2f0c78446", null ]
+    [ "CheckProc", "d1/dd4/a26038.html#a5b8ee53249a19954e4d46b17422207d5", null ],
+    [ "PrepareAuraScript", "d1/dd4/a26038.html#a2640f58f3e7442c37615b61ecf938a6f", null ],
+    [ "Register", "d1/dd4/a26038.html#a55be2362ac226caa615e07a2a3b5ea38", null ]
 ];

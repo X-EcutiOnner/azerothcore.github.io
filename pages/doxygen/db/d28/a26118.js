@@ -1,6 +1,8 @@
 var a26118 =
 [
-    [ "HandleEffectScriptEffect", "db/d28/a26118.html#a852a621f0b008dc1294dbeb9e9877a04", null ],
-    [ "PrepareSpellScript", "db/d28/a26118.html#a8b0f656994289f260645a2ae60d9ee4b", null ],
-    [ "Register", "db/d28/a26118.html#a1fa4dca7bae36c5e2acde0fe8b8cd801", null ]
+    [ "CheckCast", "db/d28/a26118.html#a0d7910cd2b9d9f4174575532502d40f9", null ],
+    [ "HandleDummy", "db/d28/a26118.html#a1eac1eb5f39093ff48942e82728478dd", null ],
+    [ "PrepareSpellScript", "db/d28/a26118.html#adbb58b75232560d101b291c0d99a2a20", null ],
+    [ "Register", "db/d28/a26118.html#a6acb46e81171e13f50ac1f01bf83013b", null ],
+    [ "Validate", "db/d28/a26118.html#a4b67c348685a8094668e4ed2f0c78446", null ]
 ];

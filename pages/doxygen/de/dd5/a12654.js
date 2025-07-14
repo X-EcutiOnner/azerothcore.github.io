@@ -1,13 +1,10 @@
 var a12654 =
 [
-    [ "boss_crone", "de/dd5/a12654.html#a710bdf6fac05be54cf10e40cd661c837", null ],
-    [ "EnterEvadeMode", "de/dd5/a12654.html#a4dcdde0b699f445cfa6be7e0c7dbb8d0", null ],
-    [ "JustDied", "de/dd5/a12654.html#a545de2a25b48590d11896c41b6e94df0", null ],
-    [ "JustEngagedWith", "de/dd5/a12654.html#a9801cd39667d1a08770820bd17beac00", null ],
-    [ "JustReachedHome", "de/dd5/a12654.html#a59d40cda923cb8b72413b9d5f267f52a", null ],
-    [ "KilledUnit", "de/dd5/a12654.html#ae4d343636955589d740d1df4e21fba99", null ],
-    [ "Reset", "de/dd5/a12654.html#a247db7fc1329ef00e48fd9bd09fb27a1", null ],
-    [ "UpdateAI", "de/dd5/a12654.html#a8bd505acd55ca5292d29c96916a461e5", null ],
-    [ "_scheduler", "de/dd5/a12654.html#a7f9e2e45c0bbb60fc19dd54bc380f814", null ],
-    [ "instance", "de/dd5/a12654.html#a3795fe3185005693ed9bba49177bb35a", null ]
+    [ "boss_servant_quarters", "de/dd5/a12654.html#aedf2869e3fbc1ebd13caedffa60bbf5f", null ],
+    [ "JustDied", "de/dd5/a12654.html#a3b9df7ab573f22a9e15761cb662db404", null ],
+    [ "JustEngagedWith", "de/dd5/a12654.html#afe4a4a78824851f63ce560a60d55cee3", null ],
+    [ "MovementInform", "de/dd5/a12654.html#a00d31d9421903b6a92c03a3bd0382328", null ],
+    [ "Reset", "de/dd5/a12654.html#a273a09b1242968a5dd45ab9866fbe481", null ],
+    [ "UpdateAI", "de/dd5/a12654.html#a6a41cfd67310077803733190645050e4", null ],
+    [ "_scheduler", "de/dd5/a12654.html#a520142de5e8d2911684b18c85a3f37e2", null ]
 ];

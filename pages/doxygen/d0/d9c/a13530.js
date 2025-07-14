@@ -1,12 +1,11 @@
 var a13530 =
 [
-    [ "npc_corporal_keeshanAI", "d0/d9c/a13530.html#aac5b72ede6e1496f80c4c2520e886efd", null ],
-    [ "Reset", "d0/d9c/a13530.html#a311488932a3de9153490d41e3fae92fb", null ],
-    [ "sQuestAccept", "d0/d9c/a13530.html#a52dd95c74b1457ad5b496b28fd183b06", null ],
-    [ "UpdateAI", "d0/d9c/a13530.html#a973cf65978e531dc8bd7db20fc2809b6", null ],
-    [ "WaypointReached", "d0/d9c/a13530.html#a3edc9ab54068e47f955116db70454f6c", null ],
-    [ "mockingBlowTimer", "d0/d9c/a13530.html#a21cd1ca86864b8507d43e5a1c4c13e0c", null ],
-    [ "phase", "d0/d9c/a13530.html#ae79dcfdb10738d673e8c1aebc6abdee6", null ],
-    [ "shieldBashTimer", "d0/d9c/a13530.html#abb5eaa25a77dd3e6dfff7aaa0aa6c375", null ],
-    [ "timer", "d0/d9c/a13530.html#a3107368f175aa7f4e8c405248ef917df", null ]
+    [ "npc_balance_of_light_and_shadowAI", "d0/d9c/a13530.html#a00cc1f78fa8fe26bf472d99a490d05ad", null ],
+    [ "CanBeSeen", "d0/d9c/a13530.html#af336c2afbf6c2850679fd7d8d1f0d5e9", null ],
+    [ "JustDied", "d0/d9c/a13530.html#ae862f8763614a98dae6b982414caf30a", null ],
+    [ "MovementInform", "d0/d9c/a13530.html#ad426816ae3c4d5a95587787d28f57ed8", null ],
+    [ "SpellHit", "d0/d9c/a13530.html#abfddfff72b63fd05673584915d647958", null ],
+    [ "UpdateAI", "d0/d9c/a13530.html#a540e3c28cc36917cde0153dd372d0287", null ],
+    [ "_targetGUID", "d0/d9c/a13530.html#adaf2340aa5fe7b96c8f5cacc1c8d5545", null ],
+    [ "timer", "d0/d9c/a13530.html#a204e0a809e9c392f20ec900e9a90a075", null ]
 ];

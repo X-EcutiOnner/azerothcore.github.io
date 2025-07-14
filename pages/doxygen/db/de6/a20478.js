@@ -1,9 +1,6 @@
 var a20478 =
 [
-    [ "npc_ulduar_dark_rune_sentinelAI", "db/de6/a20478.html#a533ae31e0507f12f7d94e347b6b7ebf2", null ],
-    [ "CanAIAttack", "db/de6/a20478.html#a12b2e5c621a8b04a4d80dde706a4bb2b", null ],
-    [ "Reset", "db/de6/a20478.html#ada2897f48effedd5d5baa5a260497b5a", null ],
-    [ "UpdateAI", "db/de6/a20478.html#aa9b319928a9b23cf4d47a07c1eaeb0cd", null ],
-    [ "timer1", "db/de6/a20478.html#a383a2ee113822b7eff52466f0cc0e137", null ],
-    [ "timer2", "db/de6/a20478.html#ad5c4698c5d12ff42179d62c47d9f7719", null ]
+    [ "npc_ulduar_flames_initialAI", "d9/d3e/a20482.html", "d9/d3e/a20482" ],
+    [ "npc_ulduar_flames_initial", "db/de6/a20478.html#aee0c62a38e3e0958e015faef2c434273", null ],
+    [ "GetAI", "db/de6/a20478.html#ac0db78c361324a594220ad644001f4eb", null ]
 ];

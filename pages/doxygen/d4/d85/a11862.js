@@ -1,14 +1,7 @@
 var a11862 =
 [
-    [ "boss_general_angerforgeAI", "d4/d85/a11862.html#af5537ccebc7ac6af49f9b6612d3a6138", null ],
-    [ "JustEngagedWith", "d4/d85/a11862.html#ae99e11630596c62c4155a18f5a0a3dd5", null ],
-    [ "Reset", "d4/d85/a11862.html#aff55a804bdca840016e0f6b1d11f7106", null ],
-    [ "SummonAdds", "d4/d85/a11862.html#a218f4de2d057505f60b2977835e5fd91", null ],
-    [ "SummonMedics", "d4/d85/a11862.html#aeabe71bde9b03a944beedeac68cffd19", null ],
-    [ "UpdateAI", "d4/d85/a11862.html#a751c0d0015c235c8716a2a8ff18500ba", null ],
-    [ "Adds_Timer", "d4/d85/a11862.html#a069f0008735b38c249ddfe5246025438", null ],
-    [ "Cleave_Timer", "d4/d85/a11862.html#af80ac4df7aaab1469ee62ac8b054a0b9", null ],
-    [ "HamString_Timer", "d4/d85/a11862.html#a04c51b1400d17454ca529d6aa257697b", null ],
-    [ "Medics", "d4/d85/a11862.html#a06fc801b89c53430603f1a33bb3e7bd8", null ],
-    [ "MightyBlow_Timer", "d4/d85/a11862.html#aeea6bb264e2d175d1906d8606eced529", null ]
+    [ "npc_rocknotAI", "dc/d0e/a11866.html", "dc/d0e/a11866" ],
+    [ "npc_rocknot", "d4/d85/a11862.html#a64a0cd215c1f4881948e5a49cf1b86d7", null ],
+    [ "GetAI", "d4/d85/a11862.html#ac8a90d54e9303c40f0313fda1dcfea86", null ],
+    [ "OnQuestReward", "d4/d85/a11862.html#abd8ad3d7e6dd1e557398e268409a2c98", null ]
 ];

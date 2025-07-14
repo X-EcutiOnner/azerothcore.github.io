@@ -1,8 +1,6 @@
 var a11934 =
 [
-    [ "boss_doomrelAI", "da/d2b/a11938.html", "da/d2b/a11938" ],
-    [ "boss_doomrel", "d7/d50/a11934.html#aee45a59f9a62f1d32a7dc344bd3c46c6", null ],
-    [ "GetAI", "d7/d50/a11934.html#a1b8a95208506f79c00ed40be2d51eb38", null ],
-    [ "OnGossipHello", "d7/d50/a11934.html#a3c544ae70c46a62ac7dd2fc5cca97c8b", null ],
-    [ "OnGossipSelect", "d7/d50/a11934.html#ae430a8fef70bd46267482a70084049c1", null ]
+    [ "boss_hedrumAI", "da/d2b/a11938.html", "da/d2b/a11938" ],
+    [ "boss_hedrum", "d7/d50/a11934.html#a655d348dec9ce9b585ea12f3629b0aa7", null ],
+    [ "GetAI", "d7/d50/a11934.html#a7033d315852aa4905784e957679ee261", null ]
 ];

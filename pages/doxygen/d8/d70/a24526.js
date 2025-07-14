@@ -1,8 +1,11 @@
 var a24526 =
 [
-    [ "HandleEffectApply", "d8/d70/a24526.html#a8134145c22b99c7b75537091c386bcd1", null ],
-    [ "HandleEffectRemove", "d8/d70/a24526.html#a5d24ca41dcc75a11077da691abd902e0", null ],
-    [ "PrepareAuraScript", "d8/d70/a24526.html#ae5f1b77a6aed21faf3ad9c168a8fcaa2", null ],
-    [ "Register", "d8/d70/a24526.html#acff27aac4af2b0a0530348371fcb55b2", null ],
-    [ "Validate", "d8/d70/a24526.html#af656fbf06181436bbb020282160c1293", null ]
+    [ "CalcPeriodic", "d8/d70/a24526.html#a330ab5ee4c9b16928b3fae701c80acd4", null ],
+    [ "CalculateHasteAmount", "d8/d70/a24526.html#a75d428e0b3619d53bd9436712d2e394e", null ],
+    [ "CalculateSPAmount", "d8/d70/a24526.html#a81805b43a47065281f83889d8be95c54", null ],
+    [ "CalculateStatAmount", "d8/d70/a24526.html#a763276aaa00bb6953e0b52118662e7a8", null ],
+    [ "HandleEffectApply", "d8/d70/a24526.html#ad5595d4a32336568ac143e1ee1823ab3", null ],
+    [ "HandlePeriodic", "d8/d70/a24526.html#ab3c7d479eae88ab4a59b06610af19429", null ],
+    [ "PrepareAuraScript", "d8/d70/a24526.html#a8dc2c51f3cccb640286fb081a34d90d2", null ],
+    [ "Register", "d8/d70/a24526.html#a6b3e219b03f89bf20f0d394c14cfe8cd", null ]
 ];

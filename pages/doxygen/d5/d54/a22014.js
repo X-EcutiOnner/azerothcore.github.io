@@ -1,6 +1,7 @@
 var a22014 =
 [
-    [ "npc_guardian_pavilionAI", "db/d28/a22018.html", "db/d28/a22018" ],
-    [ "npc_guardian_pavilion", "d5/d54/a22014.html#aecc7e93f2b50351584049f031362e0f0", null ],
-    [ "GetAI", "d5/d54/a22014.html#a89e55b3267cd93ae688573678851c7b9", null ]
+    [ "npc_Apothecary_HanesAI", "db/d28/a22018.html", "db/d28/a22018" ],
+    [ "npc_apothecary_hanes", "d5/d54/a22014.html#a90480bee491e8fe1c9e7b2c71aac28c8", null ],
+    [ "GetAI", "d5/d54/a22014.html#a7f3f86efb9a6146b86aa5d882b751e1f", null ],
+    [ "OnQuestAccept", "d5/d54/a22014.html#ae116e49b0e8865f9b5735e72c8c850fd", null ]
 ];

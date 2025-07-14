@@ -1,22 +1,16 @@
 var a04217 =
 [
-    [ "AppenderConsole", "da/d97/a05319.html", "da/d97/a05319" ],
-    [ "ColorTypes", "d3/d8f/a04217.html#a6a9b1b5f775325358eae2c7e95ebe832", [
-      [ "BLACK", "d3/d8f/a04217.html#a6a9b1b5f775325358eae2c7e95ebe832af77fb67151d0c18d397069ad8c271ba3", null ],
-      [ "RED", "d3/d8f/a04217.html#a6a9b1b5f775325358eae2c7e95ebe832af80f9a890089d211842d59625e561f88", null ],
-      [ "GREEN", "d3/d8f/a04217.html#a6a9b1b5f775325358eae2c7e95ebe832aa60bd322f93178d68184e30e162571ca", null ],
-      [ "BROWN", "d3/d8f/a04217.html#a6a9b1b5f775325358eae2c7e95ebe832a1fa14482e7e4dc1332ab8c9d995fe570", null ],
-      [ "BLUE", "d3/d8f/a04217.html#a6a9b1b5f775325358eae2c7e95ebe832a35d6719cb4d7577c031b3d79057a1b79", null ],
-      [ "MAGENTA", "d3/d8f/a04217.html#a6a9b1b5f775325358eae2c7e95ebe832a56926c820ad72d0977e7ee44d9916e62", null ],
-      [ "CYAN", "d3/d8f/a04217.html#a6a9b1b5f775325358eae2c7e95ebe832aafe71cad474c15ce63b300c470eef8cc", null ],
-      [ "GREY", "d3/d8f/a04217.html#a6a9b1b5f775325358eae2c7e95ebe832a38566822dbd9408c447abfd3ed4a85d2", null ],
-      [ "YELLOW", "d3/d8f/a04217.html#a6a9b1b5f775325358eae2c7e95ebe832ae735a848bf82163a19236ead1c3ef2d2", null ],
-      [ "LRED", "d3/d8f/a04217.html#a6a9b1b5f775325358eae2c7e95ebe832a21218f0bbfa9bc5df1980d7b00b31eef", null ],
-      [ "LGREEN", "d3/d8f/a04217.html#a6a9b1b5f775325358eae2c7e95ebe832af140c7722cbeec108ed0498ab2e5dc81", null ],
-      [ "LBLUE", "d3/d8f/a04217.html#a6a9b1b5f775325358eae2c7e95ebe832aceb95882ebc29273fb1545cf9c521da5", null ],
-      [ "LMAGENTA", "d3/d8f/a04217.html#a6a9b1b5f775325358eae2c7e95ebe832a51603f3a2238f1121bd8ab3c5d4a1b6e", null ],
-      [ "LCYAN", "d3/d8f/a04217.html#a6a9b1b5f775325358eae2c7e95ebe832ad0eb86e5e042610a6d0c3fc1e86961b7", null ],
-      [ "WHITE", "d3/d8f/a04217.html#a6a9b1b5f775325358eae2c7e95ebe832a283fc479650da98250635b9c3c0e7e50", null ],
-      [ "NUM_COLOR_TYPES", "d3/d8f/a04217.html#a6a9b1b5f775325358eae2c7e95ebe832a90c1f623cb1ff125c9834ae2dc757f66", null ]
-    ] ]
+    [ "boss_grizzle", "d7/d40/a11926.html", "d7/d40/a11926" ],
+    [ "boss_grizzle::boss_grizzleAI", "d9/de9/a11930.html", "d9/de9/a11930" ],
+    [ "Grizzle", "d3/d8f/a04217.html#acfff5d4b983e4db1d5efb6bd5da7e7aa", [
+      [ "SPELL_GROUNDTREMOR", "d3/d8f/a04217.html#acfff5d4b983e4db1d5efb6bd5da7e7aaa4426ae7fabf4ddb0d8355b0049b5a6bb", null ],
+      [ "SPELL_FRENZY", "d3/d8f/a04217.html#acfff5d4b983e4db1d5efb6bd5da7e7aaab54f261ba282273bed875abe6642a293", null ],
+      [ "EMOTE_FRENZY_KILL", "d3/d8f/a04217.html#acfff5d4b983e4db1d5efb6bd5da7e7aaaebdb26e3a90dde560c1c4f7fd5615f63", null ]
+    ] ],
+    [ "Timer", "d3/d8f/a04217.html#a6e0035edd58cc6ca8c94b5f9723a0d80", [
+      [ "TIMER_GROUNDTREMOR", "d3/d8f/a04217.html#a6e0035edd58cc6ca8c94b5f9723a0d80a5046fe24f2bd1c59407d77496c82dd59", null ],
+      [ "TIMER_FRENZY", "d3/d8f/a04217.html#a6e0035edd58cc6ca8c94b5f9723a0d80a31ac972cb44128c4662a608b8f6eeb83", null ],
+      [ "TIMER_WAR_STOMP", "de/d1c/a04103.html#a6e0035edd58cc6ca8c94b5f9723a0d80a77d3bf4a5b183f5934aa399d3e185eef", null ]
+    ] ],
+    [ "AddSC_boss_grizzle", "d3/d8f/a04217.html#adb6c19fe584b9ecd11ab67084570a0be", null ]
 ];

@@ -1,7 +1,7 @@
 var a25926 =
 [
-    [ "CalculateSpellAmount", "d8/d3b/a25926.html#a2f93ff69f30b243fe787d72f78a2d159", null ],
-    [ "CheckCast", "d8/d3b/a25926.html#af043f7ee0f80baf667e64225effd57d1", null ],
-    [ "PrepareSpellScript", "d8/d3b/a25926.html#a233ac4020722078d865cf980d7fa76cf", null ],
-    [ "Register", "d8/d3b/a25926.html#a3648ecd94430e21dd014795156c1eb98", null ]
+    [ "CheckCast", "d8/d3b/a25926.html#a02134ecbc1b1e0c8b6047ec13ef7e701", null ],
+    [ "HandleEffect", "d8/d3b/a25926.html#a9f1be51fb58cde38cd643c6d1a5a6c15", null ],
+    [ "PrepareSpellScript", "d8/d3b/a25926.html#aa63cb903e7c6037a6c08381334ccc126", null ],
+    [ "Register", "d8/d3b/a25926.html#a670a8dbdadd988fe3220cc01b71114aa", null ]
 ];

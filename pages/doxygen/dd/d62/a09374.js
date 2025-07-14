@@ -1,10 +1,8 @@
 var a09374 =
 [
-    [ "NearestCreatureEntryWithLiveStateInObjectRangeCheck", "dd/d62/a09374.html#aa9f15d071efe7ca7bb975489fec2afbd", null ],
-    [ "NearestCreatureEntryWithLiveStateInObjectRangeCheck", "dd/d62/a09374.html#a1e25384d08beeee84d83e401f5a5a565", null ],
-    [ "operator()", "dd/d62/a09374.html#abc2ab6f33a6a58a6e692cc32e8139839", null ],
-    [ "i_alive", "dd/d62/a09374.html#a7a01388f86d25fa0728d94c6e1a7f752", null ],
-    [ "i_entry", "dd/d62/a09374.html#ae2bf2c0a0f431f5de445fbee26b60a57", null ],
-    [ "i_obj", "dd/d62/a09374.html#aa0340c79c37f3494b01c52f034705aa4", null ],
-    [ "i_range", "dd/d62/a09374.html#a695af00612b17e0182ad76a5c3be2356", null ]
+    [ "CallOfHelpCreatureInRangeDo", "dd/d62/a09374.html#a6ff932341f415b659d486e63cbeb5fe4", null ],
+    [ "operator()", "dd/d62/a09374.html#a06eb5dd0f8969c20ca1234e01ae15377", null ],
+    [ "i_enemy", "dd/d62/a09374.html#a8e2e259c0159fd9418777787e4c68ccd", null ],
+    [ "i_funit", "dd/d62/a09374.html#aff1768cd844e4e23821cf78f9d360e06", null ],
+    [ "i_range", "dd/d62/a09374.html#ab0544cf93f94766701b72dbb6b3b55c1", null ]
 ];

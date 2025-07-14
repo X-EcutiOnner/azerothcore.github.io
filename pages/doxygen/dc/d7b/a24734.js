@@ -1,8 +1,9 @@
 var a24734 =
 [
-    [ "HandleSchoolDMG", "dc/d7b/a24734.html#ab273304fdbeea8768622c3e6b222aaf2", null ],
-    [ "HandleScriptEffect", "dc/d7b/a24734.html#a06f9cf29387b49f3e5950661173c77eb", null ],
-    [ "PrepareSpellScript", "dc/d7b/a24734.html#ac1a2b89eda37ed4e6c5946a93e7a58a2", null ],
-    [ "Register", "dc/d7b/a24734.html#a9bdbf7578509976d482a26869e9068aa", null ],
-    [ "Validate", "dc/d7b/a24734.html#a20a7b3a25711a90ab5f0e14991112ea0", null ]
+    [ "Absorb", "dc/d7b/a24734.html#a8f6e773840274e07d685c891561f72d8", null ],
+    [ "CalculateAmount", "dc/d7b/a24734.html#af337ef5d5cea283f4e43b943961838d6", null ],
+    [ "Load", "dc/d7b/a24734.html#a65f51613dd3614f5b0e3e1dc938f56cf", null ],
+    [ "PrepareAuraScript", "dc/d7b/a24734.html#a5c2eca05834a29fa6d5d7dd3c75e52ed", null ],
+    [ "Register", "dc/d7b/a24734.html#a80982626e1b67374629cb6e0800ccaea", null ],
+    [ "absorbPct", "dc/d7b/a24734.html#a7ce98d22bb4a28f94366b4c08f76b61a", null ]
 ];

@@ -1,6 +1,6 @@
 var a21838 =
 [
-    [ "CheckRequirement", "d3/d3e/a21838.html#ad58d71b5c2bc10d9ffbfe472bd5b1a32", null ],
-    [ "PrepareSpellScript", "d3/d3e/a21838.html#ae621e95feb69b54f9aef5d77577a15ae", null ],
-    [ "Register", "d3/d3e/a21838.html#ab0b03fd2d1a0ed6720acc45221a582f6", null ]
+    [ "npc_q24545_vegard_dummyAI", "dc/dbc/a21842.html", "dc/dbc/a21842" ],
+    [ "npc_q24545_vegard_dummy", "d3/d3e/a21838.html#a12363e26a720ae33b6cde0f44aec3adf", null ],
+    [ "GetAI", "d3/d3e/a21838.html#a201d1dec206887c26e33f795a0fd0887", null ]
 ];

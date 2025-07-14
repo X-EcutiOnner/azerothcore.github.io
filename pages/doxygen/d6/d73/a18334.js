@@ -1,9 +1,9 @@
 var a18334 =
 [
-    [ "DelayedCastEvent", "d6/d73/a18334.html#ae6d57612065d56ce79197aedebedf9f9", null ],
-    [ "Execute", "d6/d73/a18334.html#ae2925429b3049e44d2afd2e8b990af71", null ],
-    [ "_despawnTime", "d6/d73/a18334.html#acc9e22eb1908e4c458199fc4cccd56c6", null ],
-    [ "_originalCaster", "d6/d73/a18334.html#adb07c24a947d59d2ef1f61b8ab18d328", null ],
-    [ "_spellId", "d6/d73/a18334.html#abe28a6749101233302634ed226a289e8", null ],
-    [ "_trigger", "d6/d73/a18334.html#a85471a151a3165cc906f3a41103c3f5d", null ]
+    [ "HandleScript", "d6/d73/a18334.html#adaab7b03edc6ff147e856dc0cdfc5ad0", null ],
+    [ "Load", "d6/d73/a18334.html#aa2a5488ff4706a44350bd969d57a99e1", null ],
+    [ "PrepareSpellScript", "d6/d73/a18334.html#a73931c9434114749b9db648665153083", null ],
+    [ "Register", "d6/d73/a18334.html#a16b01725a1b2a105df365e0b178a4f0f", null ],
+    [ "SelectTarget", "d6/d73/a18334.html#a95be527c43ceeb4801f4e494753c1b59", null ],
+    [ "_target", "d6/d73/a18334.html#a2e97dd4fd1fd2ea2ba8bf3d335711de8", null ]
 ];

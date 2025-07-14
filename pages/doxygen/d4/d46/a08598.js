@@ -1,11 +1,9 @@
 var a08598 =
 [
-    [ "FriendInfo", "d4/d46/a08598.html#a31272eeef0d6b9c98821f8ee7f379977", null ],
-    [ "FriendInfo", "d4/d46/a08598.html#a04f34a681d62e3dc1013f840ac04f3ec", null ],
-    [ "Area", "d4/d46/a08598.html#adf16884b55545ed9302dbb54d653867b", null ],
-    [ "Class", "d4/d46/a08598.html#a8b797fcfda05d52d4297f32e458be519", null ],
-    [ "Flags", "d4/d46/a08598.html#ab74652d747c8baa8df7fdbcfd5c68636", null ],
-    [ "Level", "d4/d46/a08598.html#a70d9a74f4587f648db5bf49b61091213", null ],
-    [ "Note", "d4/d46/a08598.html#aa9aea70eba08de460ff9cc5c622ca75f", null ],
-    [ "Status", "d4/d46/a08598.html#a380f11d65b34e1e598b7861987cecfe6", null ]
+    [ "EntryPointData", "d4/d46/a08598.html#a1852523ba9ca889cdd6731c63de759e2", null ],
+    [ "ClearTaxiPath", "d4/d46/a08598.html#a4aee0d4ef3850fb486987ae6fe78ee91", null ],
+    [ "HasTaxiPath", "d4/d46/a08598.html#afd310b2f367ec7df76f01689ea120e6e", null ],
+    [ "joinPos", "d4/d46/a08598.html#abfdc0ccd945f60e0a3ec37d278c96940", null ],
+    [ "mountSpell", "d4/d46/a08598.html#a06e1cadac24a2ab90e57373692f829dc", null ],
+    [ "taxiPath", "d4/d46/a08598.html#a5af670fa420b250c22e0f3237e753a6f", null ]
 ];

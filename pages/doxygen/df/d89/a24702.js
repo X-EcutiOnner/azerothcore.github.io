@@ -1,7 +1,8 @@
 var a24702 =
 [
-    [ "FilterTargets", "df/d89/a24702.html#a9abf4baaba572636dba3980e5ae777c5", null ],
-    [ "Load", "df/d89/a24702.html#a812e4e461c0ebed6f7c4cc36e88a3367", null ],
-    [ "PrepareSpellScript", "df/d89/a24702.html#a4e98fbf669c030263ed2e5759a5bd6e8", null ],
-    [ "Register", "df/d89/a24702.html#a2d72f5771d6563260a6e81122e4a2be5", null ]
+    [ "AfterRemove", "df/d89/a24702.html#afdd1575bce3b34da6e3a101eaa695c41", null ],
+    [ "HandleDispel", "df/d89/a24702.html#a3c2ffe31074115f6cab5f4b18b05dbc3", null ],
+    [ "PrepareAuraScript", "df/d89/a24702.html#a44e66753516d693c31dba27c9d1ad250", null ],
+    [ "Register", "df/d89/a24702.html#aa21ecabbf52b457e163f17b3012b0f84", null ],
+    [ "Validate", "df/d89/a24702.html#a6af7e5aa16b3c84ed1388e2f62424701", null ]
 ];

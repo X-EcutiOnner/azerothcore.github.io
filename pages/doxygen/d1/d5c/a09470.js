@@ -1,18 +1,8 @@
 var a09470 =
 [
-    [ "GroupContainer", "d1/d5c/a09470.html#a417c5798d50cac5c1bc5b0eae13945cc", null ],
-    [ "GroupIds", "d1/d5c/a09470.html#ad3a9005c50a5957d3f47adf60624b9aa", null ],
-    [ "GroupMgr", "d1/d5c/a09470.html#a663dbeb2e20161d8d6cf72f322c05f0e", null ],
-    [ "~GroupMgr", "d1/d5c/a09470.html#ad5a5efeed7f78146983611c2349c111f", null ],
-    [ "AddGroup", "d1/d5c/a09470.html#abb97c613417573dc4cafa117065e7cf8", null ],
-    [ "GenerateGroupId", "d1/d5c/a09470.html#ad881433a3836a70e44734bde5a1afc6f", null ],
-    [ "GetGroupByGUID", "d1/d5c/a09470.html#a2af93882e217f762df95ba21af191c89", null ],
-    [ "InitGroupIds", "d1/d5c/a09470.html#a6881453ec34dc2d9416069a87b1a3234", null ],
-    [ "instance", "d1/d5c/a09470.html#a1b7275cfd70d46216df8c353e70d64c8", null ],
-    [ "LoadGroups", "d1/d5c/a09470.html#ab8548ce88b015ae3040cd5f2cd7b1990", null ],
-    [ "RegisterGroupId", "d1/d5c/a09470.html#a8bface2b6600801ebcd1cbb9070ec3ef", null ],
-    [ "RemoveGroup", "d1/d5c/a09470.html#a654b7c795c9c3d77a7a39bce58dec2c7", null ],
-    [ "_groupIds", "d1/d5c/a09470.html#af260c73ba61242f741103bdfe6d6fb9e", null ],
-    [ "_nextGroupId", "d1/d5c/a09470.html#a4e41d7444f8b7d3dbb54569be80b65f9", null ],
-    [ "GroupStore", "d1/d5c/a09470.html#ae897c661dd4b185d205c3a12d17ccb2b", null ]
+    [ "AllWorldObjectsInExactRange", "d1/d5c/a09470.html#a0281d22587b9b1bdbfbdd8dccc625186", null ],
+    [ "operator()", "d1/d5c/a09470.html#afe0bea69ddd5e275363361bf37284840", null ],
+    [ "_equals", "d1/d5c/a09470.html#aebb4cb9e84cf91cca235fe663dba8d60", null ],
+    [ "_object", "d1/d5c/a09470.html#a5fba0e3c7cde76bfe56f8e9e9716412b", null ],
+    [ "_range", "d1/d5c/a09470.html#ae40de8ce49bb429243e5059b6d14398f", null ]
 ];

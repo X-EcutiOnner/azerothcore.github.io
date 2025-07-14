@@ -1,11 +1,9 @@
 var a23702 =
 [
-    [ "boss_high_astromancer_solarian", "d4/d58/a23702.html#a2db48cc179539f81b55188de08a7e180", null ],
-    [ "AttackStart", "d4/d58/a23702.html#acaf94134aef553447e766a5e431c8b83", null ],
-    [ "JustDied", "d4/d58/a23702.html#a510eb2e4f0770670d6767bc2545375b7", null ],
-    [ "JustEngagedWith", "d4/d58/a23702.html#a86cd2162187f1a81932000ca1cfb7f85", null ],
-    [ "JustSummoned", "d4/d58/a23702.html#ac5b209a45a5a3ea2a8421706d181a827", null ],
-    [ "KilledUnit", "d4/d58/a23702.html#a561a78193615575b7e43e0f21387f1b8", null ],
-    [ "Reset", "d4/d58/a23702.html#a58cbb2c8a6c30855a0f9f2275338c1b5", null ],
-    [ "UpdateAI", "d4/d58/a23702.html#a07a76c34a978c31212390cf10ed3e382", null ]
+    [ "boss_dalliah_the_doomsayer", "d4/d58/a23702.html#ad6edf9623942297b28bc7420ec0cc733", null ],
+    [ "InitializeAI", "d4/d58/a23702.html#a85342ef80a64ce05f87cf7d90a8bfe79", null ],
+    [ "JustDied", "d4/d58/a23702.html#a431edc9c25fb125d7d267073eb1c1423", null ],
+    [ "JustEngagedWith", "d4/d58/a23702.html#a6d3d8d027ddb08417dd11f1606a1418f", null ],
+    [ "KilledUnit", "d4/d58/a23702.html#af28bfc1166ad45bf7bc046f5906a8b11", null ],
+    [ "Reset", "d4/d58/a23702.html#a5b4f186225a55afdf1de80b7126d10eb", null ]
 ];

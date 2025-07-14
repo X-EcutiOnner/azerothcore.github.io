@@ -1,9 +1,11 @@
 var a26562 =
 [
-    [ "HandleHeal", "d2/de4/a26562.html#ad2d854d275dc6f8b67b866d864b6febe", null ],
-    [ "Load", "d2/de4/a26562.html#a507a7a4ff11f8bf1157e034d086cd9ad", null ],
-    [ "PrepareSpellScript", "d2/de4/a26562.html#a91eb46af707897f228e5d1bbd199a833", null ],
-    [ "Register", "d2/de4/a26562.html#ae28f1b0c23511153eafc037cae067bc0", null ],
-    [ "firstHeal", "d2/de4/a26562.html#a405326e6e1cd82816aef1712fdf335a0", null ],
-    [ "riptide", "d2/de4/a26562.html#acaec32f6730bc2e04e613aa982d285bf", null ]
+    [ "AddTarget", "d2/de4/a26562.html#a18875ef707271a77c0c5867fa8de7ff7", null ],
+    [ "HandleApply", "d2/de4/a26562.html#afad10ab0f64e688a18ed749c294a2fbe", null ],
+    [ "HandleEffectPeriodic", "d2/de4/a26562.html#a339b71689056a61e4eebf77f1abcb3dd", null ],
+    [ "HandleRemove", "d2/de4/a26562.html#a1bd9806323ad6b26a0c1fb8773596c98", null ],
+    [ "PrepareAuraScript", "d2/de4/a26562.html#abd535f756fae06c9fae613d69ef4e353", null ],
+    [ "Register", "d2/de4/a26562.html#a0f41f9287f5eb5046e6679d22c65416a", null ],
+    [ "Validate", "d2/de4/a26562.html#a47351141df5e5e15a2d454cc653a9cf5", null ],
+    [ "_targets", "d2/de4/a26562.html#ad2467bc150cb08766c57cca23d4d9843", null ]
 ];

@@ -1,6 +1,5 @@
 var a12914 =
 [
-    [ "npc_high_inquisitor_valrothAI", "dd/d29/a12918.html", "dd/d29/a12918" ],
-    [ "npc_high_inquisitor_valroth", "db/d73/a12914.html#a6e244a411249667a84f0d34ca1b1f17b", null ],
-    [ "GetAI", "db/d73/a12914.html#a6374b80425da8bc41d9d076e6e7d7bef", null ]
+    [ "go_acherus_soul_prison", "db/d73/a12914.html#a13c858f74080b8f7963fdacc4b554019", null ],
+    [ "OnGossipHello", "db/d73/a12914.html#a904059cbeac3ddb3acf07ec1afe78c37", null ]
 ];

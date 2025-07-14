@@ -1,7 +1,7 @@
 var a15346 =
 [
-    [ "HandleDummy", "df/d05/a15346.html#a38dafff805471b19ca3cca4ff5273a87", null ],
-    [ "PrepareSpellScript", "df/d05/a15346.html#a40db5a46491aa22b5347f99b0251f1b8", null ],
-    [ "Register", "df/d05/a15346.html#a2f297ab67d5e2e990658706f7c508bd4", null ],
-    [ "Validate", "df/d05/a15346.html#abb7946f53e6271ae69d34caacef61f47", null ]
+    [ "HandleEffectRemove", "df/d05/a15346.html#aa07e0bdaac9cad239bae1b24d16b433c", null ],
+    [ "PrepareAuraScript", "df/d05/a15346.html#a8ab8433afb22bbca79e028e8f082da2b", null ],
+    [ "Register", "df/d05/a15346.html#a2ee3afd6fdcb0991e419396ed65e6d4a", null ],
+    [ "AuraEffectHandleModes", "df/d05/a15346.html#af8a46c99290ce700e765c7ad5e8c866c", null ]
 ];

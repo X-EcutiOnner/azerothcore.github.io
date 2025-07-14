@@ -1,12 +1,9 @@
 var a15518 =
 [
-    [ "npc_toogaAI", "d3/d56/a15518.html#a4db363c7e787f5fbbd61b418cfa87367", null ],
-    [ "MoveInLineOfSight", "d3/d56/a15518.html#aff15508b97bce5f5fad9cf9750e89ff1", null ],
-    [ "MovementInform", "d3/d56/a15518.html#a9315e8ba2688903aaf5b871a7490a700", null ],
-    [ "Reset", "d3/d56/a15518.html#acfedaf5cc989451a4259a65661685f66", null ],
-    [ "UpdateFollowerAI", "d3/d56/a15518.html#a742791e714be1ff713ab87e7d515bd9e", null ],
-    [ "CheckSpeechTimer", "d3/d56/a15518.html#a938852d834c5eb8ba4abceaf49e9a5da", null ],
-    [ "PhasePostEvent", "d3/d56/a15518.html#a4996291afa64e35f3604b2a85ea03dda", null ],
-    [ "PostEventTimer", "d3/d56/a15518.html#abea9fa4d2623dab4f14978a7f94b595f", null ],
-    [ "TortaGUID", "d3/d56/a15518.html#a4531aa0e2c7fe7f3207e56fc2ed67c25", null ]
+    [ "npc_thrall_warchiefAI", "d4/d78/a15522.html", "d4/d78/a15522" ],
+    [ "npc_thrall_warchief", "d3/d56/a15518.html#a3958f0b444537ac8a5ebf55de44e3590", null ],
+    [ "GetAI", "d3/d56/a15518.html#a4fc3d5410b959b4289f1ced17d412c03", null ],
+    [ "OnGossipHello", "d3/d56/a15518.html#a5cd40c062fb07d2ddfffdc159f2935d3", null ],
+    [ "OnGossipSelect", "d3/d56/a15518.html#a63367ca0b252c148f625b305575fd768", null ],
+    [ "OnQuestReward", "d3/d56/a15518.html#a6576664c201d62cab1fa2f073cddee6e", null ]
 ];

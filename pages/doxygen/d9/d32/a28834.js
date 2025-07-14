@@ -1,5 +1,6 @@
 var a28834 =
 [
-    [ "achievement_bg_sa_artillery", "d9/d32/a28834.html#aa81ae215bc91fd4598d7c9a1b02e3fcc", null ],
-    [ "OnCheck", "d9/d32/a28834.html#ac24f32f872ae32e90f06f642ea2dfebc", null ]
+    [ "height", "d9/d32/a28834.html#a7638f586a055c48a46e36471543ff72f", null ],
+    [ "unk1", "d9/d32/a28834.html#a6c08b6fa33e12a9900218d0d0b8b78d5", null ],
+    [ "unk2", "d9/d32/a28834.html#a394a04f6e985824aa259a42b11b97136", null ]
 ];

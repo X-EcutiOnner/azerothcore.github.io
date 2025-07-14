@@ -1,6 +1,9 @@
 var a21578 =
 [
-    [ "npc_archmage_landalockAI", "da/d39/a21582.html", "da/d39/a21582" ],
-    [ "npc_archmage_landalock", "d9/dee/a21578.html#ac7379ff07740123312af66ead64df4c6", null ],
-    [ "GetAI", "d9/dee/a21578.html#a92cfa8c2660413681297bfe12815c938", null ]
+    [ "npc_bonker_togglevoltAI", "d9/dee/a21578.html#adfd43a6a804a35e235262e55f0155ffe", null ],
+    [ "JustDied", "d9/dee/a21578.html#a5ac6e89ad9ad3d3d69a87f7b9dc4026f", null ],
+    [ "Reset", "d9/dee/a21578.html#a13efa2a2a0c5c796b3fd9f36a54ce523", null ],
+    [ "UpdateEscortAI", "d9/dee/a21578.html#a9bf17d7ec59d800955c131dbe14a31d8", null ],
+    [ "WaypointReached", "d9/dee/a21578.html#a06dc6c018d52f1cd1b2c7f76dbda3a2d", null ],
+    [ "Bonker_agro", "d9/dee/a21578.html#a395e6e14f03cb0ecfe70348cc148d7ef", null ]
 ];

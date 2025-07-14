@@ -1,6 +1,6 @@
 var a22294 =
 [
-    [ "HandlePeriodicDummy", "d9/d94/a22294.html#a0096e0521c37a4f7f9ab1f2173a807d4", null ],
-    [ "PrepareAuraScript", "d9/d94/a22294.html#ad55ab81c39e8bf53d1e2066bbeefa712", null ],
-    [ "Register", "d9/d94/a22294.html#afeccfe29a0e0f192a4242217f9d4b7e5", null ]
+    [ "npc_freed_protodrakeAI", "da/d26/a22298.html", "da/d26/a22298" ],
+    [ "npc_freed_protodrake", "d9/d94/a22294.html#a56e33e186800efa3fb86ca6a614e3b0b", null ],
+    [ "GetAI", "d9/d94/a22294.html#a9680bf65cb97327396f58c297df1c8f5", null ]
 ];

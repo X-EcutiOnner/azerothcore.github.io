@@ -1,6 +1,6 @@
 var a20882 =
 [
-    [ "HandleScript", "de/de3/a20882.html#ac7fc87a7585c866aa3fa1001c803bb00", null ],
-    [ "PrepareSpellScript", "de/de3/a20882.html#ab2a4155f6029850c61e84d7c180addae", null ],
-    [ "Register", "de/de3/a20882.html#a7e03062d9e28ed1917b7aa63d65f22ba", null ]
+    [ "boss_yoggsaron_immortal_guardianAI", "dc/d82/a20886.html", "dc/d82/a20886" ],
+    [ "boss_yoggsaron_immortal_guardian", "de/de3/a20882.html#a4009759d284b54cb958ee0bb80c45f14", null ],
+    [ "GetAI", "de/de3/a20882.html#ac532ca090d93ce6d11a0332329111f2b", null ]
 ];

@@ -1,10 +1,8 @@
 var a11622 =
 [
-    [ "item_commandscript", "d0/db0/a11622.html#a22f9cb46f2c3701fc5c9136c87c09435", null ],
-    [ "GetCommands", "d0/db0/a11622.html#aab60aa980ef0f86938cfcb51e7ee20a8", null ],
-    [ "HandleItemMoveCommand", "d0/db0/a11622.html#a6adae7cb08c0e69ac0a20c107f818a57", null ],
-    [ "HandleItemRefundCommand", "d0/db0/a11622.html#af914e33be05148062abd89c754d939c9", null ],
-    [ "HandleItemRestoreCommand", "d0/db0/a11622.html#a84c67a46c513c1aac2b9d2563d693929", null ],
-    [ "HandleItemRestoreListCommand", "d0/db0/a11622.html#a40181310f4187a71a6f5f5f600a8f468", null ],
-    [ "HasItemDeletionConfig", "d0/db0/a11622.html#a28d0b4083bf3352f80b6210f9ac00692", null ]
+    [ "CreatureCountWorker", "d0/db0/a11622.html#ad01e947d97d03a10ea3a891d24cb05b7", null ],
+    [ "GetTopCreatureCount", "d0/db0/a11622.html#a5d4d009b6685dd71703f96f9945a463e", null ],
+    [ "Visit", "d0/db0/a11622.html#a786d95d42f7711235e60a4f54cc3b4be", null ],
+    [ "Visit", "d0/db0/a11622.html#afa72c0c1f905f4277d650ad0cfef281d", null ],
+    [ "creatureIds", "d0/db0/a11622.html#a3a6f946c40b1006164793dbaed2b3948", null ]
 ];

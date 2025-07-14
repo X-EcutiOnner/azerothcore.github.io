@@ -1,7 +1,6 @@
 var a16326 =
 [
-    [ "npc_toc_mageAI", "d1/dc4/a16326.html#a188831088c892f68cef7498468b24899", null ],
-    [ "myCanCast", "d1/dc4/a16326.html#aaf7fd7b143a4eb410465c7cb34c32d2f", null ],
-    [ "UpdateAI", "d1/dc4/a16326.html#a0f4393341a6c565aef2c0b79a39c0699", null ],
-    [ "events", "d1/dc4/a16326.html#ab1910ce98f3d1b14e45acba22782d536", null ]
+    [ "npc_swarm_scarabAI", "d9/d2d/a16330.html", "d9/d2d/a16330" ],
+    [ "npc_swarm_scarab", "d1/dc4/a16326.html#a1d0969526e57ca50c9a499c83f978fd2", null ],
+    [ "GetAI", "d1/dc4/a16326.html#ae12fe8a7c6ee09fc16bd152f59c2d936", null ]
 ];

@@ -1,6 +1,8 @@
 var a13378 =
 [
-    [ "instance_the_stockade_InstanceMapScript", "d7/d3e/a13382.html", "d7/d3e/a13382" ],
-    [ "instance_the_stockade", "d3/ddc/a13378.html#a533049c10a72da4b94f9807017f28c0d", null ],
-    [ "GetInstanceScript", "d3/ddc/a13378.html#a7a5a4adcd71ae5d22e6729a2d11d68d3", null ]
+    [ "HandleApply", "d3/ddc/a13378.html#a2c64240e8675fc76598600ae2632570f", null ],
+    [ "HandleRemove", "d3/ddc/a13378.html#a2a6e32bbc9b722ad7e872c6a26daa6bb", null ],
+    [ "PrepareAuraScript", "d3/ddc/a13378.html#a6ff74fbaf3a6ef84024d55528fd6f8e2", null ],
+    [ "Register", "d3/ddc/a13378.html#aebfb4b20a9b0ebefff652a0ae1727994", null ],
+    [ "Validate", "d3/ddc/a13378.html#abdad49fe5e0a72799847fdfcfe22eec0", null ]
 ];

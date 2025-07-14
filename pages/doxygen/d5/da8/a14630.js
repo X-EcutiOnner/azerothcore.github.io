@@ -1,13 +1,12 @@
 var a14630 =
 [
-    [ "boss_salrammAI", "d5/da8/a14630.html#ae1055878b3919e29d44ee26efcbe044f", null ],
-    [ "ExplodeGhoul", "d5/da8/a14630.html#adc64d8b10b28b98254c528732fff0516", null ],
-    [ "JustDied", "d5/da8/a14630.html#a59bc42afcbb0ed2c2629bd0280836194", null ],
-    [ "JustEngagedWith", "d5/da8/a14630.html#a8d3287cc74cc9d756a879c4ac796f860", null ],
-    [ "JustSummoned", "d5/da8/a14630.html#afd70403a8644f310f37335c6c9bf5b55", null ],
-    [ "KilledUnit", "d5/da8/a14630.html#ad3f4161c0e18c911a931d65e25693cdd", null ],
-    [ "Reset", "d5/da8/a14630.html#a9ddecc950cac3fc392078df2810ec2a2", null ],
-    [ "UpdateAI", "d5/da8/a14630.html#aa2350dc05884593b1361f9f09b8d9392", null ],
-    [ "events", "d5/da8/a14630.html#a55c0bba93a90b5a3770c81b9c4d2fe5b", null ],
-    [ "summons", "d5/da8/a14630.html#a813c09e121730d4ae2e623ac3c37d570", null ]
+    [ "boss_kazrogal", "d5/da8/a14630.html#a2b3cc0e99c478c55f907898fbec2b8b2", null ],
+    [ "DoAction", "d5/da8/a14630.html#a7721debceeefaeb69e71855b8e8742f8", null ],
+    [ "GetMarkRepeatTimer", "d5/da8/a14630.html#a0b54f8c935d09367d7e6b7dbf6c4ce61", null ],
+    [ "JustDied", "d5/da8/a14630.html#abc839abddfbb5fb1e1dd3a67e0b661cb", null ],
+    [ "JustEngagedWith", "d5/da8/a14630.html#a2c0aafd271b2500d32f5add7e75cd990", null ],
+    [ "KilledUnit", "d5/da8/a14630.html#ab1439114a84d85947106d979f38d12fa", null ],
+    [ "Reset", "d5/da8/a14630.html#acb9f4ee5d97b43082bf6fc0c424685ab", null ],
+    [ "_markCounter", "d5/da8/a14630.html#a54ef8b88bf62e260e19a964d1926ef4a", null ],
+    [ "_recentlySpoken", "d5/da8/a14630.html#ad7401abae1b25d58ed93cc800d75bc26", null ]
 ];

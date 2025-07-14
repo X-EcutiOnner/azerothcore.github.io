@@ -1,9 +1,9 @@
 var a25406 =
 [
-    [ "getMountSpellId", "da/d07/a25406.html#afe306ed6057050baf342ee717723764d", null ],
-    [ "OnApply", "da/d07/a25406.html#aa8bee986d413be60d00ac1d2111ef719", null ],
-    [ "OnRemove", "da/d07/a25406.html#a162d466a1dcd2cb710abf12c06f7c2de", null ],
-    [ "PrepareAuraScript", "da/d07/a25406.html#a7070cc7aeec4a88fbde960cebf1aef56", null ],
-    [ "Register", "da/d07/a25406.html#a481e5295da3d789d9b3c1ed30fdaf0bd", null ],
-    [ "Validate", "da/d07/a25406.html#a6868f6e88c9179efd921b266c83f6daf", null ]
+    [ "CheckCast", "da/d07/a25406.html#a005565dd77de97b5aa04553a1d6a0185", null ],
+    [ "HandleScript", "da/d07/a25406.html#a7313a3d9840d7dc81e5a894e83cb6347", null ],
+    [ "Load", "da/d07/a25406.html#aadfc8a873c72e31d65001ce00518ca45", null ],
+    [ "PrepareSpellScript", "da/d07/a25406.html#a169b60644259855f0614271e4769f6b9", null ],
+    [ "Register", "da/d07/a25406.html#a9e7f8cbc7ec3de507069b69678005da3", null ],
+    [ "Validate", "da/d07/a25406.html#a9e69eb36c1a2640ff616ae5744c04f4f", null ]
 ];

@@ -1,6 +1,7 @@
 var a16710 =
 [
-    [ "instance_forge_of_souls_InstanceScript", "d4/ddf/a16714.html", "d4/ddf/a16714" ],
-    [ "instance_forge_of_souls", "d1/dbe/a16710.html#a504896f6e191c87ce77231c4ef267b27", null ],
-    [ "GetInstanceScript", "d1/dbe/a16710.html#a64982b527cfa6057315b8e628549480b", null ]
+    [ "HandleScriptEffect", "d1/dbe/a16710.html#a62cef31900cd61167823f3e66aa2d64b", null ],
+    [ "PrepareSpellScript", "d1/dbe/a16710.html#aff3fc5d7d6185bcb09d14f1408a67aad", null ],
+    [ "Register", "d1/dbe/a16710.html#ac73b3f568ce54f9b59b2b23f069da3c1", null ],
+    [ "Validate", "d1/dbe/a16710.html#aab4d84e896c8225d8d131558aaa71dbe", null ]
 ];

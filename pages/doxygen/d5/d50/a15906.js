@@ -1,7 +1,7 @@
 var a15906 =
 [
-    [ "DelayedTalk", "d5/d50/a15906.html#a8a7ea9e6ddebd73996cfe8d9723276bc", null ],
-    [ "Execute", "d5/d50/a15906.html#a88c1915e73bcbd8ec253a537c416caf7", null ],
-    [ "_owner", "d5/d50/a15906.html#a9d13769bb3fbaed32919fc919da35006", null ],
-    [ "_talkId", "d5/d50/a15906.html#a3f3a1688a36807c653a5d071dd2bb389", null ]
+    [ "HandleEffectRemove", "d5/d50/a15906.html#a45ed6d3f1c80dcef3ee6c59e744f13c6", null ],
+    [ "PrepareAuraScript", "d5/d50/a15906.html#a34b88963dd81e6a8855daaedb9c238d4", null ],
+    [ "Register", "d5/d50/a15906.html#a7c0533650e772713233ea45b0264cbff", null ],
+    [ "Validate", "d5/d50/a15906.html#a7690603bd7b01ca6da2a73ac8ed36114", null ]
 ];

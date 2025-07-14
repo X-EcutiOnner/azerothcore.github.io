@@ -1,8 +1,10 @@
 var a00857 =
 [
-    [ "GUID_TRAIT_INSTANTIATE_GUID", "d0/d82/a00857.html#a62c17cbc4f3da3f26f9c1ae3ba2c4953", null ],
-    [ "operator<<", "d0/d82/a00857.html#a039758f4b57c94c411a4c3882334ada8", null ],
-    [ "operator<<", "d0/d82/a00857.html#a94ab551ce00fd82dea1532d47ad908bc", null ],
-    [ "operator>>", "d0/d82/a00857.html#a30aef535f2839648f0ae4648c746d3e2", null ],
-    [ "operator>>", "d0/d82/a00857.html#a95f3a6eef334b9fcdcaca879532c25d4", null ]
+    [ "WorldPackets::Pet::DismissCritter", "db/d3b/a10866.html", "db/d3b/a10866" ],
+    [ "WorldPackets::Pet::PetAbandon", "d8/d8c/a10870.html", "d8/d8c/a10870" ],
+    [ "WorldPackets::Pet::PetStopAttack", "d2/d74/a10874.html", "d2/d74/a10874" ],
+    [ "WorldPackets::Pet::PetSpellAutocast", "db/d8b/a10878.html", "db/d8b/a10878" ],
+    [ "WorldPackets::Pet::PetLearnedSpell", "d2/df9/a10882.html", "d2/df9/a10882" ],
+    [ "WorldPackets::Pet::PetUnlearnedSpell", "d2/d3a/a10886.html", "d2/d3a/a10886" ],
+    [ "WorldPackets::Pet::RequestPetInfo", "d9/d36/a10890.html", "d9/d36/a10890" ]
 ];

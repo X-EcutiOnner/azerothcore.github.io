@@ -1,22 +1,9 @@
 var a20326 =
 [
-    [ "npc_ulduar_aerial_command_unitAI", "d9/d44/a20326.html#ac5b7a4cffa1db22c540be9893d15c2f8", null ],
-    [ "AttackStart", "d9/d44/a20326.html#ab04bb1f0ae10ef6caedde13dce26b4ff", null ],
-    [ "DamageTaken", "d9/d44/a20326.html#a7a4553548b94631c19e0f63bd4f04935", null ],
-    [ "DoAction", "d9/d44/a20326.html#a363186d09cc27fcf73e5df71765c5785", null ],
-    [ "EnterEvadeMode", "d9/d44/a20326.html#a41ff385b9260c48c200c81e2965e4ad9", null ],
-    [ "JustSummoned", "d9/d44/a20326.html#a4da89e69cd1bad30c051997862035ec0", null ],
-    [ "KilledUnit", "d9/d44/a20326.html#a172ce62da0c7554a3dfc9a9a8ff7f119", null ],
-    [ "MoveInLineOfSight", "d9/d44/a20326.html#a1625ea42db1aebe26d7d52a3e1ac3e04", null ],
-    [ "Reset", "d9/d44/a20326.html#a1bdf61f436acd06c389f7e0355488eaa", null ],
-    [ "SetData", "d9/d44/a20326.html#a9d2572ed6864acf7be5b277c22e89573", null ],
-    [ "SpellHit", "d9/d44/a20326.html#af567b17cb39e433899eac0c44e2f065d", null ],
-    [ "SummonedCreatureDespawn", "d9/d44/a20326.html#a7040c7ce5f0243b392eec91fa734213c", null ],
-    [ "UpdateAI", "d9/d44/a20326.html#ac76777bdd7ac6da1166d98c7a091aba4", null ],
-    [ "bIsEvading", "d9/d44/a20326.html#a04cffd153f3298595cd1b7da706d14bb", null ],
-    [ "events", "d9/d44/a20326.html#acb7898e896f6e217b97961ef3fa4828a", null ],
-    [ "immobilized", "d9/d44/a20326.html#a3ed685c94d7dd9d15e44ba3c313e48e4", null ],
-    [ "Phase", "d9/d44/a20326.html#af4cb9c060dcf3d2577182e2e0d3711c4", null ],
-    [ "pInstance", "d9/d44/a20326.html#a5c410a35047f835473871bd7538de1f2", null ],
-    [ "summons", "d9/d44/a20326.html#a37d8c57b1d3e5628954d19fda62f1122", null ]
+    [ "HandleEffectPeriodic", "d9/d44/a20326.html#adc6e83abb52a21528c07a1d989818dcf", null ],
+    [ "OnApply", "d9/d44/a20326.html#ad52977d3bfeca6d2a7127d91eb3d30ab", null ],
+    [ "OnRemove", "d9/d44/a20326.html#a903e65cc8041f9bd289bb5c6f156fa22", null ],
+    [ "PrepareAuraScript", "d9/d44/a20326.html#aa85f79f5337edca68b3cb87073eff0d4", null ],
+    [ "Register", "d9/d44/a20326.html#a2b18c5db95842a6f8959bf9affd357b7", null ],
+    [ "Validate", "d9/d44/a20326.html#ae88b8bd3e648030df48f6b80cedc4034", null ]
 ];

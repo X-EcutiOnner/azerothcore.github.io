@@ -1,7 +1,7 @@
 var a26270 =
 [
-    [ "HandleDummy", "db/d7e/a26270.html#a123ddc812fb358b7517eba60d1f90eba", null ],
-    [ "Load", "db/d7e/a26270.html#a64ca188f58b4f34827f03ae2878deef0", null ],
-    [ "PrepareSpellScript", "db/d7e/a26270.html#a7068dd9e6f7838d9ad7023c2d61482cc", null ],
-    [ "Register", "db/d7e/a26270.html#aff7ea1c5c569022ece56ecdb3f434723", null ]
+    [ "HandleEffectRemove", "db/d7e/a26270.html#a814687d3938e966f8721438e1a722f77", null ],
+    [ "PrepareAuraScript", "db/d7e/a26270.html#a2144b0602501471a4001883ce9de6db3", null ],
+    [ "Register", "db/d7e/a26270.html#a9d696dc7e58692216fa1cf6cc7c011a9", null ],
+    [ "AuraEffectHandleModes", "db/d7e/a26270.html#ab291f6c6f269ec7004df39a043f49efd", null ]
 ];

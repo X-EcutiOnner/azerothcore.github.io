@@ -1,7 +1,7 @@
 var a14514 =
 [
-    [ "PeriodicTick", "df/d96/a14514.html#aa94e4d6a31a08959a5287b863737c2e2", null ],
-    [ "PrepareAuraScript", "df/d96/a14514.html#a59a9c4dfe06859daac5bb69fa5d20e95", null ],
-    [ "Register", "df/d96/a14514.html#a24058b120f4fa06b89f6d582c53a365a", null ],
-    [ "Validate", "df/d96/a14514.html#a093b09be5abde91a1487d67a7a554d30", null ]
+    [ "GetVisualThrow", "df/d96/a14514.html#afe59e0c21eaa06e2b1d614613b1d2f73", null ],
+    [ "HandleDummy", "df/d96/a14514.html#adca1aacf89dcf452f1c98cae97f09690", null ],
+    [ "PrepareSpellScript", "df/d96/a14514.html#a642f2d3992e7e3a4393d2b0c6b521597", null ],
+    [ "Register", "df/d96/a14514.html#a68a6e9b307500a56e66bc19c41daf9dc", null ]
 ];

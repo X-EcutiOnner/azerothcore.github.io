@@ -1,5 +1,6 @@
 var a10606 =
 [
-    [ "GuildDelete", "de/d5d/a10606.html#a86733335c7b60d5b9eb8616692da3a7f", null ],
-    [ "Read", "de/d5d/a10606.html#ae5ca379b187902323638f4c10be0a4d0", null ]
+    [ "GuildEventLogQueryResults", "de/d5d/a10606.html#af12c732cd5c81792c6f0cb5cacc096f9", null ],
+    [ "Write", "de/d5d/a10606.html#aa24738cdd040a883782b50189abdf240", null ],
+    [ "Entry", "de/d5d/a10606.html#a227ab5555fccf5c8c78ca10fa229d3d4", null ]
 ];

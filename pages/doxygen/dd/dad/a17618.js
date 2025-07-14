@@ -1,6 +1,7 @@
 var a17618 =
 [
-    [ "DaranavanMoveEvent", "dd/dad/a17618.html#add38d87b9108c09aa9b9fd60f12abcde", null ],
-    [ "Execute", "dd/dad/a17618.html#ada0ebc4a9c9f949dd0155a554a553543", null ],
-    [ "_darnavan", "dd/dad/a17618.html#a7585edb957755efbc6064f232d50ea4e", null ]
+    [ "npc_gunship_rocketeerAI", "dd/dad/a17618.html#aa9e722f32cd95fff8c72db5a41d0e84c", null ],
+    [ "CanAIAttack", "dd/dad/a17618.html#a4b4e2839e426bdb752beea09394f13dc", null ],
+    [ "MovementInform", "dd/dad/a17618.html#a7dd7f3625b177a96bcfdc5e46d944562", null ],
+    [ "UpdateAI", "dd/dad/a17618.html#af73d71750f116fb90be1c2acba75ca70", null ]
 ];

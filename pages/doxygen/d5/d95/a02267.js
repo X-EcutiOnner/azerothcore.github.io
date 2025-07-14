@@ -1,8 +1,8 @@
 var a02267 =
 [
-    [ "spell_gordunni_trap", "d9/d1b/a15444.html", "d9/d1b/a15444" ],
-    [ "GordunniTrap", "d5/d95/a02267.html#ae11511f5835ecdfec73fde1f9f29431c", [
-      [ "GO_GORDUNNI_DIRT_MOUND", "d5/d95/a02267.html#ae11511f5835ecdfec73fde1f9f29431ca12df131fc84f6cc9bcf7d02eaf65e1ab", null ]
-    ] ],
-    [ "AddSC_feralas", "d5/d95/a02267.html#a06e54e3edc2df068be660ac788b402e3", null ]
+    [ "PassiveAI", "d4/dc6/a06094.html", "d4/dc6/a06094" ],
+    [ "PossessedAI", "d7/d79/a06098.html", "d7/d79/a06098" ],
+    [ "NullCreatureAI", "df/d5b/a06102.html", "df/d5b/a06102" ],
+    [ "CritterAI", "de/de4/a06106.html", "de/de4/a06106" ],
+    [ "TriggerAI", "d9/d59/a06110.html", "d9/d59/a06110" ]
 ];

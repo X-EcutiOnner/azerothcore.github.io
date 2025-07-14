@@ -1,11 +1,6 @@
 var a12042 =
 [
-    [ "npc_rookery_hatcherAI", "dd/d8c/a12042.html#a3154429437a108edf77de7ec1f0b2cda", null ],
-    [ "InitializeAI", "dd/d8c/a12042.html#af144dc2cbe632038057f931fd71da29d", null ],
-    [ "JustEngagedWith", "dd/d8c/a12042.html#a7b7ecaa42bdd35f4ee9fe7fad4cd25a9", null ],
-    [ "UpdateAI", "dd/d8c/a12042.html#a0f867aa346a2f829067466fbfe6c5335", null ],
-    [ "events", "dd/d8c/a12042.html#a220e6f9869d0ea53a593a6ac8e0e28bd", null ],
-    [ "nearbyEggs", "dd/d8c/a12042.html#a2cf183745cdf699af7bd273e0ee4d697", null ],
-    [ "targetEgg", "dd/d8c/a12042.html#a877af9948503688944e49503a6293574", null ],
-    [ "targetPosition", "dd/d8c/a12042.html#a2e94b3d12ef3d8f80546db6c9a9e9e95", null ]
+    [ "boss_lord_valthalakAI", "d4/d19/a12046.html", "d4/d19/a12046" ],
+    [ "boss_lord_valthalak", "dd/d8c/a12042.html#a180ecb2e2b11ee79c80de18124de3dbc", null ],
+    [ "GetAI", "dd/d8c/a12042.html#a771bd8ff3918d71007b5e4b05baf3df3", null ]
 ];

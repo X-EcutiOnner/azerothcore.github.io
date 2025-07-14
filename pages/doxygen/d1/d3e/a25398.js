@@ -1,5 +1,7 @@
 var a25398 =
 [
-    [ "PrepareSpellScript", "d1/d3e/a25398.html#acb39fd85035670fb98dcea66c29b2ff7", null ],
-    [ "Register", "d1/d3e/a25398.html#a7fe416070962ba582d59ddff70c13590", null ]
+    [ "HandleDummy", "d1/d3e/a25398.html#a5b25d03bb22995e1ba9deb7eec4ee35a", null ],
+    [ "Load", "d1/d3e/a25398.html#a833d9abe12cb4fff1700b97bc7215c1d", null ],
+    [ "PrepareSpellScript", "d1/d3e/a25398.html#a547b3f71f9fc502dc589ad7b9b6f3cc2", null ],
+    [ "Register", "d1/d3e/a25398.html#ae7d502253b0c47921e40da4aa87b0eef", null ]
 ];

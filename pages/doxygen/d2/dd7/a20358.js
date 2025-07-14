@@ -1,9 +1,7 @@
 var a20358 =
 [
-    [ "npc_ulduar_bot_summon_triggerAI", "d2/dd7/a20358.html#a60e0706b9285cdf4b25b6f399cad18e9", null ],
-    [ "DoAction", "d2/dd7/a20358.html#ac5d0e28ee330741da3b287d965537f39", null ],
-    [ "Reset", "d2/dd7/a20358.html#a91207c04ecee6fc0e906133e054bf51b", null ],
-    [ "UpdateAI", "d2/dd7/a20358.html#aebec433e806d4f63f5593db0301612b4", null ],
-    [ "option", "d2/dd7/a20358.html#a98bb19fea19a05127b4b32df039acf05", null ],
-    [ "timer", "d2/dd7/a20358.html#a118d048557b0ed314180299c3cd2bcbc", null ]
+    [ "FilterTargetsInitial", "d2/dd7/a20358.html#a5632307d9a1a89d530a63e71c8abad1c", null ],
+    [ "Load", "d2/dd7/a20358.html#a5467818535c6c7239e185d7c6c3bbd27", null ],
+    [ "PrepareSpellScript", "d2/dd7/a20358.html#a4d1e588557fa3fa432d4015fda930877", null ],
+    [ "Register", "d2/dd7/a20358.html#a0428375ddb89907e7f1728757d55d052", null ]
 ];

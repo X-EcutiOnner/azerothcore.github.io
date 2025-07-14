@@ -1,11 +1,6 @@
 var a16082 =
 [
-    [ "boss_saviana_ragefireAI", "d4/db8/a16082.html#ab4fa6a2cc57c9d110bfd3cf16a016942", null ],
-    [ "JustDied", "d4/db8/a16082.html#a30331f9cdb141cd2dbc043888b48a6eb", null ],
-    [ "JustEngagedWith", "d4/db8/a16082.html#a458eb370872c20441b5ec6ecd2c97500", null ],
-    [ "JustReachedHome", "d4/db8/a16082.html#a74abf893a37874eb98aa5ba9883e8d62", null ],
-    [ "KilledUnit", "d4/db8/a16082.html#ac07513681c72d6748246cc7c349d117c", null ],
-    [ "MovementInform", "d4/db8/a16082.html#aed4c70f571586c8cbcc044c01bdc472d", null ],
-    [ "Reset", "d4/db8/a16082.html#a4b7f103331c566cbf007a075161505af", null ],
-    [ "UpdateAI", "d4/db8/a16082.html#af36ca2a359f950a10214d07aad240324", null ]
+    [ "npc_halion_controllerAI", "de/db7/a16086.html", "de/db7/a16086" ],
+    [ "npc_halion_controller", "d4/db8/a16082.html#ac88ff15ce4d89d737eb6dd6b649e1218", null ],
+    [ "GetAI", "d4/db8/a16082.html#a3c5ea3f0597c070005744ea788a05383", null ]
 ];

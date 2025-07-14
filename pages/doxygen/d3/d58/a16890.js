@@ -1,6 +1,12 @@
 var a16890 =
 [
-    [ "boss_ickAI", "dd/d63/a16894.html", "dd/d63/a16894" ],
-    [ "boss_ick", "d3/d58/a16890.html#af97d7f96bc48ba245e28c18614b9369e", null ],
-    [ "GetAI", "d3/d58/a16890.html#a355285766712a31b704c23fe85d19e5f", null ]
+    [ "npc_tortured_riflemanAI", "d3/d58/a16890.html#a65dc1d2ba5769aed1a0b2487322ff2b1", null ],
+    [ "AttackStart", "d3/d58/a16890.html#aaf2b73d0b60791f887207842580d91dc", null ],
+    [ "DoAction", "d3/d58/a16890.html#acb941c20d911a567c93bb0f92105fdfd", null ],
+    [ "EnterEvadeMode", "d3/d58/a16890.html#aabd56fc4aaed247a9ac3ce5bcdc4cb50", null ],
+    [ "JustDied", "d3/d58/a16890.html#a5796a96626937e1026cc1fec0eba4e0b", null ],
+    [ "JustEngagedWith", "d3/d58/a16890.html#ac5d8f17c48269da06c14643e82c88567", null ],
+    [ "Reset", "d3/d58/a16890.html#a04f9c7056e063d436df66f079127d1a7", null ],
+    [ "UpdateAI", "d3/d58/a16890.html#a194a615eef3651cdc97d4e4ad57bf017", null ],
+    [ "events", "d3/d58/a16890.html#a958f27c1f917dc1ae0a9f84549481f93", null ]
 ];

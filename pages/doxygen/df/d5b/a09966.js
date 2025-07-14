@@ -1,6 +1,8 @@
 var a09966 =
 [
-    [ "TargetedMovementGeneratorBase", "df/d5b/a09966.html#a670b36c578b32b7d582e8f4b6ef656c3", null ],
-    [ "stopFollowing", "df/d5b/a09966.html#adb0a6f1a63ce265fc63bf362e2f60488", null ],
-    [ "i_target", "df/d5b/a09966.html#a427d8512cbd0ccbaca65dcf48bbe39f6", null ]
+    [ "Finalize", "df/d5b/a09966.html#abf4c6547449605e703b424d8aa7f46b5", null ],
+    [ "GetMovementGeneratorType", "df/d5b/a09966.html#aa1eb3228e14c5b145f7074e97ccdab5f", null ],
+    [ "Initialize", "df/d5b/a09966.html#a68c249f25ef86f2e50d69698e190ed03", null ],
+    [ "Reset", "df/d5b/a09966.html#a124e4f9506ef6f31e991e905ce38dc43", null ],
+    [ "Update", "df/d5b/a09966.html#a4d96b744fa55fa11764873a2c4a891c5", null ]
 ];

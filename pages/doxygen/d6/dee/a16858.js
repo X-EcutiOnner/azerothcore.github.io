@@ -1,5 +1,12 @@
 var a16858 =
 [
-    [ "at_hor_battered_hilt_start", "d6/dee/a16858.html#a1b9e6d892525cf28d71757f7861e1d1a", null ],
-    [ "OnTrigger", "d6/dee/a16858.html#a5d2d0a05b17dafe7ebb5447cfd168f69", null ]
+    [ "npc_phantom_mageAI", "d6/dee/a16858.html#ac919dc1ba167cc68714320f9351b99d0", null ],
+    [ "AttackStart", "d6/dee/a16858.html#ade9ba7071cff655f2c0133481cb9c2bc", null ],
+    [ "DoAction", "d6/dee/a16858.html#a6c66df8b8e59a9dc62f1f944da2afc2c", null ],
+    [ "EnterEvadeMode", "d6/dee/a16858.html#a6ca0be233e8866b6154fa6e7164b856d", null ],
+    [ "JustDied", "d6/dee/a16858.html#a3a522e4c741bc321469ed87c10cf7904", null ],
+    [ "JustEngagedWith", "d6/dee/a16858.html#a5a1bf4aaf716674a63e31d24ae4a5d7c", null ],
+    [ "Reset", "d6/dee/a16858.html#a5c29c8d54956a0917df3997118348590", null ],
+    [ "UpdateAI", "d6/dee/a16858.html#a7135acfbc36212306a68fc8b758e2881", null ],
+    [ "events", "d6/dee/a16858.html#afa0f0b5cac0759db324cea7c64463f75", null ]
 ];

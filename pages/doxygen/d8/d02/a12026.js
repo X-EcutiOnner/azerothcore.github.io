@@ -1,11 +1,6 @@
 var a12026 =
 [
-    [ "boss_quartermaster_zigris", "d8/d02/a12026.html#a1d2f68327cc9b88fdd82d44ac8446d57", null ],
-    [ "DamageTaken", "d8/d02/a12026.html#a61d7f1c4e5a2901812f1175ccce69ab2", null ],
-    [ "JustDied", "d8/d02/a12026.html#a9295bbcffd7968051a789e8dfb634e23", null ],
-    [ "JustEngagedWith", "d8/d02/a12026.html#af482c06e00e7f6c15b290115998a27a9", null ],
-    [ "Reset", "d8/d02/a12026.html#a71e911bb91b7447e8aed28cdccfda8db", null ],
-    [ "SpellHitTarget", "d8/d02/a12026.html#a38197746cc73ada1378e6e1a5555ef79", null ],
-    [ "UpdateAI", "d8/d02/a12026.html#a400f7ace05cd5c4d127aecf5d771c616", null ],
-    [ "_hasDrunkPotion", "d8/d02/a12026.html#a25335533bc43171687e03f1ed22d4fb3", null ]
+    [ "boss_halyconAI", "d5/d88/a12030.html", "d5/d88/a12030" ],
+    [ "boss_halycon", "d8/d02/a12026.html#aa149c5f8b34b9c00102f9a0758dcbd9a", null ],
+    [ "GetAI", "d8/d02/a12026.html#a861f1b0213ad9bcf572c9d59eabba699", null ]
 ];

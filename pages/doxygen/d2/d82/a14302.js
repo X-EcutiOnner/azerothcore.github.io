@@ -1,7 +1,6 @@
 var a14302 =
 [
-    [ "go_loosely_turned_soilAI", "de/dc7/a14306.html", "de/dc7/a14306" ],
-    [ "go_loosely_turned_soil", "d2/d82/a14302.html#a3b4d51e2b3a604e030962127269236f1", null ],
-    [ "GetAI", "d2/d82/a14302.html#acead5810a848f8837fa65af1f2ac00bd", null ],
-    [ "OnQuestReward", "d2/d82/a14302.html#a1ac57b34c5b3e21c033330eaeefaa6a8", null ]
+    [ "npc_grizzlemaw_cw_triggerAI", "de/dc7/a14306.html", "de/dc7/a14306" ],
+    [ "npc_grizzlemaw_cw_trigger", "d2/d82/a14302.html#a4514796784d974ba6de09b5a5d4e5f3b", null ],
+    [ "GetAI", "d2/d82/a14302.html#a1a834bda866033a3cca4fc4ece447313", null ]
 ];

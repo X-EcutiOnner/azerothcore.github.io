@@ -1,12 +1,8 @@
 var a11046 =
 [
-    [ "SpellDestination", "de/d25/a11046.html#aa91f31101de3139b2e2d2976dac94686", null ],
-    [ "SpellDestination", "de/d25/a11046.html#aa27cefe3e93fedd557174a3cc8f49fe1", null ],
-    [ "SpellDestination", "de/d25/a11046.html#a12f65757f20436b02b7aa00bb1682c8e", null ],
-    [ "SpellDestination", "de/d25/a11046.html#a7b8949fa80249aee8bebc56620ec746c", null ],
-    [ "Relocate", "de/d25/a11046.html#ab565861d5013130639013e3c4d22d712", null ],
-    [ "RelocateOffset", "de/d25/a11046.html#a0bf1d731787bfed47b593d8cb4943f2a", null ],
-    [ "_position", "de/d25/a11046.html#a6c4587b85e295d86f3479e4feeb662e5", null ],
-    [ "_transportGUID", "de/d25/a11046.html#ad3456cf591eb32a5dd390ffbb7b27387", null ],
-    [ "_transportOffset", "de/d25/a11046.html#a52f0f9f741985bb4d78289145fe66ba0", null ]
+    [ "SkillPerfectItemEntry", "de/d25/a11046.html#a683f3c6f5e9c5ef2a0f0fa09d546d2a3", null ],
+    [ "SkillPerfectItemEntry", "de/d25/a11046.html#a678f9908440187faad38c0e1ffaf82de", null ],
+    [ "perfectCreateChance", "de/d25/a11046.html#a750d5ab6bc3df0026e640f1c84de8547", null ],
+    [ "perfectItemType", "de/d25/a11046.html#a057605f8867d4df5cb290318598a2908", null ],
+    [ "requiredSpecialization", "de/d25/a11046.html#aa7ad968ab1b8804ee8f0f8f40bc6f762", null ]
 ];

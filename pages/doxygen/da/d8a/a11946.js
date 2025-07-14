@@ -1,6 +1,11 @@
 var a11946 =
 [
-    [ "instance_blackrock_depths_InstanceMapScript", "d3/d05/a11950.html", "d3/d05/a11950" ],
-    [ "instance_blackrock_depths", "da/d8a/a11946.html#a8d906bdb520b2c7907b94b0e22b5cdf4", null ],
-    [ "GetInstanceScript", "da/d8a/a11946.html#af8f8c9929cae50c098efc5a0dbdd727a", null ]
+    [ "boss_high_interrogator_gerstahnAI", "da/d8a/a11946.html#a557fda67d1d1de268ba661350ba915dc", null ],
+    [ "JustEngagedWith", "da/d8a/a11946.html#a80e01faa471f9e83e85c3c47fd815dea", null ],
+    [ "Reset", "da/d8a/a11946.html#ab63099f83037b3716d1e2b9c21d7d607", null ],
+    [ "UpdateAI", "da/d8a/a11946.html#a67b34f7cf4c62a57bc9fb556f5fb0b81", null ],
+    [ "ManaBurn_Timer", "da/d8a/a11946.html#aede307f972942c15c4b2bfa90e75856d", null ],
+    [ "PsychicScream_Timer", "da/d8a/a11946.html#a291f3484e4d125fefe437d96b12153f1", null ],
+    [ "ShadowShield_Timer", "da/d8a/a11946.html#a7ba151c46b097825dca9b8e3ac2cdee9", null ],
+    [ "ShadowWordPain_Timer", "da/d8a/a11946.html#aec0eab93e8494bc1abc87d81460fac31", null ]
 ];

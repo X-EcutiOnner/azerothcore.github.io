@@ -1,6 +1,6 @@
 var a21486 =
 [
-    [ "npc_warmage_coldarraAI", "de/db2/a21490.html", "de/db2/a21490" ],
-    [ "npc_warmage_coldarra", "d3/dea/a21486.html#a358f8ab26991798ff076ac764cd7abe2", null ],
-    [ "GetAI", "d3/dea/a21486.html#aa29181e0ad61b44eff685267f3231382", null ]
+    [ "HandleEffectPeriodic", "d3/dea/a21486.html#affa7fb949d4b1a05813df0da17fef3bb", null ],
+    [ "PrepareAuraScript", "d3/dea/a21486.html#a79dbb866c06cd1c031cae2f1370146d5", null ],
+    [ "Register", "d3/dea/a21486.html#a1fb46036f0860440f3a9201e0d86cdc4", null ]
 ];

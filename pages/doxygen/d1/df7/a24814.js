@@ -1,7 +1,6 @@
 var a24814 =
 [
-    [ "HandleApply", "d1/df7/a24814.html#a75f7fc139cf72aeaa2cc09ba30a8f119", null ],
-    [ "HandlePeriodicTimer", "d1/df7/a24814.html#ae9f438dd0833b2ad214acef0e558a8be", null ],
-    [ "PrepareAuraScript", "d1/df7/a24814.html#ac2040d944e47a4f1cc7721ead44aca77", null ],
-    [ "Register", "d1/df7/a24814.html#abc9eb056267c7effcc7f68a3ad7891da", null ]
+    [ "CalculateAmount", "d1/df7/a24814.html#af913c896771e238ef62898f67af61cc4", null ],
+    [ "PrepareAuraScript", "d1/df7/a24814.html#a4be139ae22c20468be1930195097d98a", null ],
+    [ "Register", "d1/df7/a24814.html#a90d6446ed05f9dfedb43d689e8de0614", null ]
 ];

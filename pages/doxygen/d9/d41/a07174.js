@@ -1,12 +1,12 @@
 var a07174 =
 [
-    [ "Arena", "d9/d41/a07174.html#a74f105bc709d4728fb07f1984abfd345", null ],
-    [ "AddPlayer", "d9/d41/a07174.html#ae24fe304d35c0c09379203135e936450", null ],
-    [ "CheckWinConditions", "d9/d41/a07174.html#a886b586f7ab6fc89d76e86cb811989b8", null ],
-    [ "EndBattleground", "d9/d41/a07174.html#a2be61602189b530a16a9ca954d180914", null ],
-    [ "FillInitialWorldStates", "d9/d41/a07174.html#a592100d0f0ed492a5cdf941e57db787f", null ],
-    [ "HandleKillPlayer", "d9/d41/a07174.html#ae0a56f524bfc9eec6753874ce35d0466", null ],
-    [ "RemovePlayer", "d9/d41/a07174.html#ab5348b8bd4bfd58c01cdf61f16f72db1", null ],
-    [ "RemovePlayerAtLeave", "d9/d41/a07174.html#acae21233e11b21b612e5c051bfa7720e", null ],
-    [ "UpdateArenaWorldState", "d9/d41/a07174.html#a422925ee29e9a5f64aeb4264169ff2d6", null ]
+    [ "damageText", "d9/d41/a07174.html#af83062a39d8dfc89bf61a4364bd8579d", null ],
+    [ "destroyText", "d9/d41/a07174.html#a81747f8ff920f7c17a55d45d43304cc9", null ],
+    [ "entry", "d9/d41/a07174.html#a58d0395a47190698d309e80d91358bb1", null ],
+    [ "o", "d9/d41/a07174.html#a21238943701f594e1a5346193c895d33", null ],
+    [ "type", "d9/d41/a07174.html#a3cebd422659aa7339e9a23a87cfad0d7", null ],
+    [ "WorldState", "d9/d41/a07174.html#a4b4881aba2d297e125443f0c8ccab618", null ],
+    [ "x", "d9/d41/a07174.html#a80ebabba7265753a05367a4c79f6450c", null ],
+    [ "y", "d9/d41/a07174.html#a5d8ade187749e6fc191f01b384a4cda6", null ],
+    [ "z", "d9/d41/a07174.html#a3913a2618277cc5ad382aa2fc1d00f5e", null ]
 ];

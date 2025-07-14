@@ -1,5 +1,5 @@
 var a20286 =
 [
-    [ "achievement_kologarn_looks_could_kill", "dd/d7f/a20286.html#a3fcf36dabe41ff35ace233854bd0fb44", null ],
-    [ "OnCheck", "dd/d7f/a20286.html#a0e7be4fb00808fab9a231530822fc93d", null ]
+    [ "achievement_i_could_say_that_this_cache_was_rare", "dd/d7f/a20286.html#a8ec1949d92f21fe57f967e510453da3e", null ],
+    [ "OnCheck", "dd/d7f/a20286.html#af68ad314c9b7be57964ca9baa8015bc9", null ]
 ];

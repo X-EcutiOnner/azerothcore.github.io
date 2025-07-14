@@ -1,11 +1,12 @@
 var a22574 =
 [
-    [ "boss_blackheart_the_inciter", "d1/d64/a22574.html#a772b2b4574fa6ccd445924193985859b", null ],
-    [ "EnterEvadeMode", "d1/d64/a22574.html#aaf2c9d37b0af1db1d35af01923eca45b", null ],
-    [ "JustDied", "d1/d64/a22574.html#a1e7ca1ade637766d4c6039c50e9c85f7", null ],
-    [ "JustEngagedWith", "d1/d64/a22574.html#abeb0cc4ff2543531f7a7c7993559f1cb", null ],
-    [ "KilledUnit", "d1/d64/a22574.html#ad7de71ea14e5be6e2b126edde1c78ab6", null ],
-    [ "Reset", "d1/d64/a22574.html#add75633d1c04d0be91e7e80f28213917", null ],
-    [ "UpdateAI", "d1/d64/a22574.html#a0648c4bbabf30efd706b973bf8028dbb", null ],
-    [ "InciteChaos", "d1/d64/a22574.html#a640c5301b22a0bfef2c4bcac4556a992", null ]
+    [ "OPvPCapturePointZM_Beacon", "d1/d64/a22574.html#a9efdfd232e9aa6dd390800bbf0373442", null ],
+    [ "ChangeState", "d1/d64/a22574.html#a5bbe87c18c814358596a9648fd92b129", null ],
+    [ "FillInitialWorldStates", "d1/d64/a22574.html#a94511cd0d2d1dccaa1ed8276b273a2fb", null ],
+    [ "HandlePlayerEnter", "d1/d64/a22574.html#a7042cd6b4c3d57de89e3ae9e0b2cee2a", null ],
+    [ "HandlePlayerLeave", "d1/d64/a22574.html#a6e5bfb2751f157fc4ebc8338b7cce802", null ],
+    [ "SendChangePhase", "d1/d64/a22574.html#a0b5ad48fa0d6ddd6c768fb7454b5fb55", null ],
+    [ "UpdateTowerState", "d1/d64/a22574.html#a9622620e5b969e19ea049ebd3cc4a3dc", null ],
+    [ "m_TowerState", "d1/d64/a22574.html#a3a41cc34e7a8bd9f0d9d6f86f42a3312", null ],
+    [ "m_TowerType", "d1/d64/a22574.html#a481e79d61fcdd011632f8f0d37f940bc", null ]
 ];

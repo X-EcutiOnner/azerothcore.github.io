@@ -1,8 +1,10 @@
 var a15230 =
 [
-    [ "npc_death_ravagerAI", "dc/d61/a15230.html#ad18242b078db0883029537562a41cc20", null ],
-    [ "Reset", "dc/d61/a15230.html#ac0fdbfe2f324785569fa742e0b244b83", null ],
-    [ "UpdateAI", "dc/d61/a15230.html#ac3dce7d79e67f20d7a8fe161da9d5279", null ],
-    [ "EnragingBiteTimer", "dc/d61/a15230.html#af33898ebd9bea6b1a58b673373de3c64", null ],
-    [ "RendTimer", "dc/d61/a15230.html#ad7ff02fe6e11a0fb0d8a3ae869ed5f6d", null ]
+    [ "npc_anubisath_defender", "dc/d61/a15230.html#ae24a21ad3ebcaa4b8312a1fea66131ba", null ],
+    [ "DamageTaken", "dc/d61/a15230.html#a032714b16d3d77a19bec0f918d8ef8df", null ],
+    [ "JustDied", "dc/d61/a15230.html#a225ca1b3144953bcc5890caf0d32b606", null ],
+    [ "JustEngagedWith", "dc/d61/a15230.html#a6505fcae0e99cae44750f16daddc3309", null ],
+    [ "Reset", "dc/d61/a15230.html#ab10d9ac93aab97172f630e1d7d8faca0", null ],
+    [ "UpdateAI", "dc/d61/a15230.html#a1f190f45ffbaf20f5565221780dc5cc6", null ],
+    [ "_enraged", "dc/d61/a15230.html#a4adef63a5093e3c0ecb8b57283e94ff8", null ]
 ];

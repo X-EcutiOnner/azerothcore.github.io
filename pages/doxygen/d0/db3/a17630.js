@@ -1,6 +1,6 @@
 var a17630 =
 [
-    [ "npc_cult_fanaticAI", "dd/d7a/a17634.html", "dd/d7a/a17634" ],
-    [ "npc_cult_fanatic", "d0/db3/a17630.html#af29ab8f7628b96b0f192bccab74ca02e", null ],
-    [ "GetAI", "d0/db3/a17630.html#ae4d22bac12d17d79669d3fccd4029952", null ]
+    [ "PrepareSpellScript", "d0/db3/a17630.html#a47df21229183b628c1d82bf34cbbe396", null ],
+    [ "Register", "d0/db3/a17630.html#a3cc4a1180f66cd9fe19020c1e5f2fccb", null ],
+    [ "RelocateTransportOffset", "d0/db3/a17630.html#acab29d77b4806f5d59ddc5dc3493c8ae", null ]
 ];

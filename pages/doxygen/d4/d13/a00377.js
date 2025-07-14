@@ -1,9 +1,6 @@
 var a00377 =
 [
-    [ "DynamicObject", "d6/d96/a08115.html", "d6/d96/a08115" ],
-    [ "DynamicObjectType", "d4/d13/a00377.html#aee85c2f840289bcf773609333ee91131", [
-      [ "DYNAMIC_OBJECT_PORTAL", "d4/d13/a00377.html#aee85c2f840289bcf773609333ee91131a241a99bd67606cb106b003bab51e3a5b", null ],
-      [ "DYNAMIC_OBJECT_AREA_SPELL", "d4/d13/a00377.html#aee85c2f840289bcf773609333ee91131a7fb219efa9ce6ad8dc94e20c1feff546", null ],
-      [ "DYNAMIC_OBJECT_FARSIGHT_FOCUS", "d4/d13/a00377.html#aee85c2f840289bcf773609333ee91131a59fbc7f63f5d2715fbc29110f393168d", null ]
-    ] ]
+    [ "ConfigMgr", "d5/d8c/a05130.html", "d5/d8c/a05130" ],
+    [ "ConfigException", "d2/dc4/a05134.html", "d2/dc4/a05134" ],
+    [ "sConfigMgr", "d4/d13/a00377.html#a7236988e98bdd405bf435a029b70a26f", null ]
 ];

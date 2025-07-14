@@ -1,6 +1,6 @@
 var a19982 =
 [
-    [ "boss_freya_summonsAI", "d0/dde/a19986.html", "d0/dde/a19986" ],
-    [ "boss_freya_summons", "df/d15/a19982.html#a3445ed89967cc9a610472f18e862ecd4", null ],
-    [ "GetAI", "df/d15/a19982.html#ac68f231c37c61d262d6c16bc87a0f1c7", null ]
+    [ "OnPeriodic", "df/d15/a19982.html#a379c55df994c58932fef7e7a59fd8426", null ],
+    [ "PrepareAuraScript", "df/d15/a19982.html#ab180f54264f0c90376587d1b4c4dfd40", null ],
+    [ "Register", "df/d15/a19982.html#aacfaa385ca4cbe64217ef191a32936e2", null ]
 ];

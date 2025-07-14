@@ -1,11 +1,12 @@
 var a24554 =
 [
-    [ "HandleAfterHit", "d0/d27/a24554.html#a3cfb75da66372934ba5aaa1c9ad6c6f3", null ],
-    [ "HandleDummy", "d0/d27/a24554.html#abb3f92850fa6fff94c682b990c361fe6", null ],
-    [ "Load", "d0/d27/a24554.html#ae5900d64c9b9b2de48c494458d4bed8b", null ],
-    [ "PrepareSpellScript", "d0/d27/a24554.html#adea0e24654cd87b3aee07ce2183b9517", null ],
-    [ "Register", "d0/d27/a24554.html#a3e155e336d6a5a6a4d44eae422ef7939", null ],
-    [ "Validate", "d0/d27/a24554.html#a28bb9111c8e5116a82d4e54b7eacb92b", null ],
-    [ "guid", "d0/d27/a24554.html#a6e177d68e1d39dcb27e6643d267328a5", null ],
-    [ "multiplier", "d0/d27/a24554.html#a04ed6aae0ea28a4f1b7c1ed5f4f73a0b", null ]
+    [ "CheckTarget", "d0/d27/a24554.html#a731aa2c0a2b67b8a15cab72ea2cb961a", null ],
+    [ "CheckTargets", "d0/d27/a24554.html#a3b5bbef0c43a600387235822f3c6dbc7", null ],
+    [ "HandleCorpseExplosion", "d0/d27/a24554.html#a201de2ee86d0cf954117df0e5343ee69", null ],
+    [ "HandleDamage", "d0/d27/a24554.html#a810fc65eb5d7160366d63210bad9caea", null ],
+    [ "Load", "d0/d27/a24554.html#a00b45e2f466de39c95251c2a38f6c3bd", null ],
+    [ "PrepareSpellScript", "d0/d27/a24554.html#a4cae1673a840d8ec0d727b881a3616cf", null ],
+    [ "Register", "d0/d27/a24554.html#a9e67ea51300569a0e163cb3e427b086e", null ],
+    [ "Validate", "d0/d27/a24554.html#a93984e8b831cb4c37ec2726d44532d43", null ],
+    [ "_target", "d0/d27/a24554.html#a5028b9d3166270b2b0557943e962eade", null ]
 ];

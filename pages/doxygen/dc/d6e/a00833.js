@@ -1,5 +1,6 @@
 var a00833 =
 [
-    [ "_ModifyUInt32", "dc/d6e/a00833.html#ab53d40bc3b1cf5c14440f3e212aa4f08", null ],
-    [ "m_diminishing_k", "dc/d6e/a00833.html#a826ceb2644eb2661137e2983dd779164", null ]
+    [ "AuthSession", "db/d53/a05650.html", "db/d53/a05650" ],
+    [ "AccountInfo", "d1/d00/a05646.html", "d1/d00/a05646" ],
+    [ "compressBuff", "dc/d6e/a00833.html#a3ec87fe2f43cce4ee6bfb90744e72a0d", null ]
 ];

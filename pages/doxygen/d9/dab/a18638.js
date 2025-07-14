@@ -1,7 +1,6 @@
 var a18638 =
 [
-    [ "OnPeriodic", "d9/dab/a18638.html#a32c4b856d6248062fbdc1dea13d876ac", null ],
-    [ "PrepareAuraScript", "d9/dab/a18638.html#a87260a1cd06190f5412f3cab0f448a01", null ],
-    [ "Register", "d9/dab/a18638.html#a00827210671b959a030655f6be5edac6", null ],
-    [ "Validate", "d9/dab/a18638.html#a7163fb09fd8568a7ef5a5c37147ed5b0", null ]
+    [ "npc_captain_grondelAI", "d1/d8a/a18642.html", "d1/d8a/a18642" ],
+    [ "npc_captain_grondel", "d9/dab/a18638.html#a54a53f8e3cde87405219c815a56d523c", null ],
+    [ "GetAI", "d9/dab/a18638.html#a2a7725e81294e80701b7742d2605ec00", null ]
 ];

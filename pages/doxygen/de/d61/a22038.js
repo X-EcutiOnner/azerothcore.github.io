@@ -1,6 +1,5 @@
 var a22038 =
 [
-    [ "npc_frostbrood_skytalonAI", "dd/d1b/a22042.html", "dd/d1b/a22042" ],
-    [ "npc_frostbrood_skytalon", "de/d61/a22038.html#a1bc95edf0e624709e3836bdcfb0c503c", null ],
-    [ "GetAI", "de/d61/a22038.html#af5b1c3e52076fb84b83e785762ff6b6d", null ]
+    [ "npc_black_knight_graveyardAI", "de/d61/a22038.html#a908ccf6763240ba0c0ebdf2dec6e1b36", null ],
+    [ "MoveInLineOfSight", "de/d61/a22038.html#aa5c80b5759656e3865d6721161f9f005", null ]
 ];

@@ -1,6 +1,6 @@
 var a14918 =
 [
-    [ "FilterTargets", "da/d7c/a14918.html#ab0cd088c750e9538e2087f58fdaac20e", null ],
-    [ "PrepareSpellScript", "da/d7c/a14918.html#ae252cbce0ebc63eb4e54bedfc88640ad", null ],
-    [ "Register", "da/d7c/a14918.html#a3168a3f97ddb38b261a0730405ba27db", null ]
+    [ "npc_idol_room_spawnerAI", "d5/dee/a14922.html", "d5/dee/a14922" ],
+    [ "npc_idol_room_spawner", "da/d7c/a14918.html#ac51fed89c27ebf6ae3cf65ca8909eab1", null ],
+    [ "GetAI", "da/d7c/a14918.html#a3017caa645e98a7647ec42a43c025624", null ]
 ];

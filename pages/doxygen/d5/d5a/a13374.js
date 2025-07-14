@@ -1,8 +1,7 @@
 var a13374 =
 [
-    [ "npc_sunblade_arch_mage", "d5/d5a/a13374.html#a25cc45033c55f1099b50eab4b4f497ee", null ],
-    [ "JustEngagedWith", "d5/d5a/a13374.html#aadeae32d691229b7b7b531175b8a5018", null ],
-    [ "Reset", "d5/d5a/a13374.html#a0d0349ea507b1f8431014c55eef5ce0e", null ],
-    [ "UpdateAI", "d5/d5a/a13374.html#a3289fbad5f987a3d5d9986a31a1c442f", null ],
-    [ "scheduler", "d5/d5a/a13374.html#aa6680f06651316996868907b1d28126c", null ]
+    [ "HandleScriptEffect", "d5/d5a/a13374.html#ae631c634c77cc207338e3549a664969b", null ],
+    [ "PrepareSpellScript", "d5/d5a/a13374.html#ac9f825f10512be5849c46460e9cdbec8", null ],
+    [ "Register", "d5/d5a/a13374.html#ac8a4d26de8c78942efc5cfbf78c64633", null ],
+    [ "Validate", "d5/d5a/a13374.html#ab05236bc29c00cfc7a5dfb88a8c2ee98", null ]
 ];

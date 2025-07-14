@@ -1,9 +1,8 @@
 var a14478 =
 [
-    [ "boss_azuregosAI", "d2/d14/a14478.html#a839ab1e096d30062d64c1c515a7462a4", null ],
-    [ "JustDied", "d2/d14/a14478.html#aea4d204173b7882d2d9acf8204410947", null ],
-    [ "JustEngagedWith", "d2/d14/a14478.html#ac17c09d4de27e3b3a299bb8288ef79f8", null ],
-    [ "KilledUnit", "d2/d14/a14478.html#aeefc791e17d2a687f8beae809c44d123", null ],
-    [ "Reset", "d2/d14/a14478.html#a3f9584a7cf4e27f57eec2c5babb7aff1", null ],
-    [ "UpdateAI", "d2/d14/a14478.html#aafdfce2d21d5890ead413a2d9fe1b65d", null ]
+    [ "HandleEffectApply", "d2/d14/a14478.html#a31d4e0da71893a8a673a2ac4f7c26c70", null ],
+    [ "HandleEffectRemove", "d2/d14/a14478.html#af8661463589640c9550bc62e8f74afcd", null ],
+    [ "PrepareAuraScript", "d2/d14/a14478.html#a2885eb37d4af8f1e90e2a4967f5acc75", null ],
+    [ "Register", "d2/d14/a14478.html#ada4a148e0b50f5853eaf02c465f6e876", null ],
+    [ "torchGUID", "d2/d14/a14478.html#a8ccf51241d3792c8c36d983bf471167e", null ]
 ];

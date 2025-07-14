@@ -1,7 +1,8 @@
 var a25922 =
 [
-    [ "CalculateAmount", "d5/d8c/a25922.html#a0934aa8eaf442314aa6050d85304c15b", null ],
-    [ "CalculateSpellAmount", "d5/d8c/a25922.html#ab765b87350bd3e73ac43879abef72d98", null ],
-    [ "PrepareAuraScript", "d5/d8c/a25922.html#a627c6a88ed6ce051b0d6a06d94288498", null ],
-    [ "Register", "d5/d8c/a25922.html#ae1b5265f817f1f4ec011d4e2607686eb", null ]
+    [ "CheckQuest", "d5/d8c/a25922.html#ab7ebff0894832ac009cda89b7c28e252", null ],
+    [ "HandleDummy", "d5/d8c/a25922.html#a365df14504a54e95e7d68d22a284e441", null ],
+    [ "HandleOpenObject", "d5/d8c/a25922.html#a69467afd49dc2429b8ba9640c8af5dfa", null ],
+    [ "PrepareSpellScript", "d5/d8c/a25922.html#a479e313031a2e71473238d8f645bf2d4", null ],
+    [ "Register", "d5/d8c/a25922.html#a70f1a91e611cc2092aad44a909cd53db", null ]
 ];

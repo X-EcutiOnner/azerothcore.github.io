@@ -1,5 +1,5 @@
 var a26978 =
 [
-    [ "AreaTrigger_at_legion_teleporter", "d8/dc5/a26978.html#a2b648bd038f41025c19338367c696d25", null ],
-    [ "OnTrigger", "d8/dc5/a26978.html#ae8239e5ad56d93627102dbd02989353d", null ]
+    [ "achievement_resilient_victory", "d8/dc5/a26978.html#a6224c8a4b1b1ee7c1ab09d8873e86aa8", null ],
+    [ "OnCheck", "d8/dc5/a26978.html#a21445d406f67771a20608260b3f9b033", null ]
 ];

@@ -1,8 +1,10 @@
 var a09406 =
 [
-    [ "AllDeadCreaturesInRange", "d8/d13/a09406.html#a31b4976c3ea6203b9a1e7f7970a97977", null ],
-    [ "operator()", "d8/d13/a09406.html#a3638a8d3c5791b590ec717e4f1ba9cef", null ],
-    [ "_obj", "d8/d13/a09406.html#a4ca7fcf9945e698a790d01d3fadae98e", null ],
-    [ "_range", "d8/d13/a09406.html#a431ada86a2b864d53773a85b05d8da4f", null ],
-    [ "_reqAlive", "d8/d13/a09406.html#aefd0d77b69b5df9b99c148e0254fda09", null ]
+    [ "AnyPlayerInObjectRangeCheck", "d8/d13/a09406.html#ae636bd72045687920ec1d460508bc74b", null ],
+    [ "operator()", "d8/d13/a09406.html#ac1eda8f85259230fb382a3b6e58b6798", null ],
+    [ "operator()", "d8/d13/a09406.html#a70c477213c8b271d3402857edd87ef8b", null ],
+    [ "_disallowGM", "d8/d13/a09406.html#a9c43efd575de2edfdaa0b84def91c727", null ],
+    [ "_obj", "d8/d13/a09406.html#a07a346225f675433792d2298673acd1f", null ],
+    [ "_range", "d8/d13/a09406.html#ae372500b3a21cb65a11045dcc6f094a8", null ],
+    [ "_reqAlive", "d8/d13/a09406.html#af1e397c5033711e65d9ac5b35311e893", null ]
 ];

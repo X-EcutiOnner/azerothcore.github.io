@@ -1,6 +1,9 @@
 var a20098 =
 [
-    [ "npc_ulduar_hodir_priestAI", "d9/d25/a20102.html", "d9/d25/a20102" ],
-    [ "npc_ulduar_hodir_priest", "d8/dd1/a20098.html#a30d7f1b68f9a1d10bc47288b81fc517c", null ],
-    [ "GetAI", "d8/dd1/a20098.html#a276046b974666c1462440a46a8096de7", null ]
+    [ "boss_freya_nature_bombAI", "d8/dd1/a20098.html#acbf4d330bb5bf4a032732895e8f7e35b", null ],
+    [ "Reset", "d8/dd1/a20098.html#a60738702870e2cacbcdf600e9e7073b5", null ],
+    [ "UpdateAI", "d8/dd1/a20098.html#a4bfa9df3e3151743485f59c4d318d7f9", null ],
+    [ "_explodeTimer", "d8/dd1/a20098.html#a2af9ed2067097eec2a647f17f8b1ef71", null ],
+    [ "_goGUID", "d8/dd1/a20098.html#a1a7579cc6957a52d65a1d302d5ba1da0", null ],
+    [ "Timer", "d8/dd1/a20098.html#a714a582c6ec552b969624244d709d14d", null ]
 ];

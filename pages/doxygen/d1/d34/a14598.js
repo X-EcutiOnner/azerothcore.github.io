@@ -1,12 +1,9 @@
 var a14598 =
 [
-    [ "boss_epochAI", "d1/d34/a14598.html#a2986db39b7db92b1fa9d64cef5f8c08b", null ],
-    [ "JustDied", "d1/d34/a14598.html#a780aa5bc86c80aaeeffad441b2873121", null ],
-    [ "JustEngagedWith", "d1/d34/a14598.html#ae742dceac5979faebb58a133e9bd91f0", null ],
-    [ "KilledUnit", "d1/d34/a14598.html#af41946feab7b86d812f706bd7abbf1bd", null ],
-    [ "Reset", "d1/d34/a14598.html#a98cf5d8aded78694117af64ccdb6cd83", null ],
-    [ "SpellHitTarget", "d1/d34/a14598.html#ab87dfcf635a65b02be29186d2990fef3", null ],
-    [ "UpdateAI", "d1/d34/a14598.html#a651b11c4cc5f92881b4dd5b7f22c9d85", null ],
-    [ "events", "d1/d34/a14598.html#af0c1477b3d9fb48cfcf55f32e21591f4", null ],
-    [ "warps", "d1/d34/a14598.html#a478113af1ce565c729604c6039f55551", null ]
+    [ "npc_ancient_wisp", "d1/d34/a14598.html#a70e45e500b3490a034b058ca2ec16d39", null ],
+    [ "DamageTaken", "d1/d34/a14598.html#ad7d96e6b54cdc23a5101338474125e71", null ],
+    [ "JustEngagedWith", "d1/d34/a14598.html#a755ed852b3149ada65c5750410776fc8", null ],
+    [ "Reset", "d1/d34/a14598.html#a1c33cc47d7f60b2b3eb60852f1c36820", null ],
+    [ "UpdateAI", "d1/d34/a14598.html#a51ca214de826d7126f32e49f6852bca3", null ],
+    [ "_instance", "d1/d34/a14598.html#a5e5e51944d49cc52bed4ff4953513f1f", null ]
 ];

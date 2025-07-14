@@ -1,5 +1,6 @@
 var a13882 =
 [
-    [ "at_zulgurub_bloodfire_pit_speech", "dd/db5/a13882.html#a880058a08d7da3b8d3062a8bc17367a4", null ],
-    [ "_OnTrigger", "dd/db5/a13882.html#a8f1e477942ba9a5f653077632a98930f", null ]
+    [ "OnEffect", "dd/db5/a13882.html#ab87d53faac04ced3c11088e260782068", null ],
+    [ "PrepareSpellScript", "dd/db5/a13882.html#af618e8d84029dda5e48b699cbcf671be", null ],
+    [ "Register", "dd/db5/a13882.html#abcfe54b8901ec3c5e070b3c528ade26e", null ]
 ];

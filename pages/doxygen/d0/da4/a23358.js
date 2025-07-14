@@ -1,7 +1,7 @@
 var a23358 =
 [
-    [ "CalcPeriodic", "d0/da4/a23358.html#aeae100fb3ab86b9064c3923472fbd45d", null ],
-    [ "PrepareAuraScript", "d0/da4/a23358.html#a290913502dfe3dfb42b44a964468b97c", null ],
-    [ "Register", "d0/da4/a23358.html#aea7a6e4bcbc97d19393d790a28a4483a", null ],
-    [ "Update", "d0/da4/a23358.html#ab3bdb3a14c6d130d295553e635acb47c", null ]
+    [ "boss_hydromancer_thespia", "d0/da4/a23358.html#a5747c2da9914dcf4118ee0fb37a3a3fd", null ],
+    [ "JustDied", "d0/da4/a23358.html#ad0662daabd636bbf544a6791187d71fa", null ],
+    [ "JustEngagedWith", "d0/da4/a23358.html#af230e57ec259e5c92c4034a674d1b6a5", null ],
+    [ "KilledUnit", "d0/da4/a23358.html#ae1bb4819867ef5718cb5d9130d62fa20", null ]
 ];

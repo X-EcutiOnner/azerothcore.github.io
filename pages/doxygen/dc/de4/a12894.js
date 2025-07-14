@@ -1,18 +1,7 @@
 var a12894 =
 [
-    [ "npc_crusade_persuadedAI", "dc/de4/a12894.html#a9a6a762384bb8ca74a34d30472fa8e3c", null ],
-    [ "JustEngagedWith", "dc/de4/a12894.html#a6266a91324717feee94727a0578e9584", null ],
-    [ "Reset", "dc/de4/a12894.html#a127c36f01e2ddfeb26f3192a1db8ffaf", null ],
-    [ "SpellHit", "dc/de4/a12894.html#a72476d0e2c63d629c2200824cd3cb5a1", null ],
-    [ "UpdateAI", "dc/de4/a12894.html#a078facb2a0e5ba27f44999e7bb1e55f7", null ],
-    [ "PERSUADE_SUCCESS_CHANCE", "dc/de4/a12894.html#a048c84a809fe364b165ec57adf7567d3", null ],
-    [ "persuaded", "dc/de4/a12894.html#ab0ed254e65374ee7767fbbed16bedded", null ],
-    [ "playerGUID", "dc/de4/a12894.html#a3076964de32f12d70d41677fb626719b", null ],
-    [ "SAY_AGGRO_CHANCE", "dc/de4/a12894.html#a3f4d42544edf6443ed360477abaaba64", null ],
-    [ "SPEECH_COUNTER_PREVENT_SUCCESS_ROLEPLAY", "dc/de4/a12894.html#a56509a3338d5887667f63d1f6a04af98", null ],
-    [ "SPEECH_COUNTER_START_SUCCESS_ROLEPLAY", "dc/de4/a12894.html#ae082296b63763d2c18db5093dba4d18d", null ],
-    [ "SPEECH_TIMER_DEFAULT", "dc/de4/a12894.html#a1a63af278109662a6dc6bc814d2363a7", null ],
-    [ "SPEECH_TIMER_FOR_ROLEPLAY", "dc/de4/a12894.html#a1872c99adfb913f28ff5859e05edcdf0", null ],
-    [ "speechCounter", "dc/de4/a12894.html#a4b0c5d69a7563b2f4f399a60010378a9", null ],
-    [ "speechTimer", "dc/de4/a12894.html#aada4f1277fc1f000c27cefcd6011c24d", null ]
+    [ "npc_scarlet_cannonAI", "dc/de4/a12894.html#a26720b34088b8063544f8c5db3b8d67c", null ],
+    [ "PassengerBoarded", "dc/de4/a12894.html#a71241dfc9b3ebe1f664d0adf03439c41", null ],
+    [ "UpdateAI", "dc/de4/a12894.html#a18ebb585e9b83f3781d3c49de5dc73b5", null ],
+    [ "summonAttackers", "dc/de4/a12894.html#a9e8eeb6995dae9a9d9ec3cb0ca6a07f5", null ]
 ];

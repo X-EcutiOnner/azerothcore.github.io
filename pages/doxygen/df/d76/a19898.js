@@ -1,8 +1,6 @@
 var a19898 =
 [
-    [ "HandleOnEffectApply", "df/d76/a19898.html#a83ff54727e886161c5568a60833932d1", null ],
-    [ "HandleOnEffectRemove", "df/d76/a19898.html#a9e48d1c9dc26f882ee685a2cbf59667e", null ],
-    [ "PrepareAuraScript", "df/d76/a19898.html#a5ec8ffeceae335423dff10f54e096e8a", null ],
-    [ "Register", "df/d76/a19898.html#ae07af138c6f9c565799574b4f8343492", null ],
-    [ "Validate", "df/d76/a19898.html#a3a24a25c9b9b118d20ca2b14fbfc5869", null ]
+    [ "npc_mimirons_infernoAI", "d4/dde/a19902.html", "d4/dde/a19902" ],
+    [ "npc_mimirons_inferno", "df/d76/a19898.html#a7a531a65a179b5d56c888c055b72d269", null ],
+    [ "GetAI", "df/d76/a19898.html#a69294c5e8f50727e5f1a6586a8a3682b", null ]
 ];

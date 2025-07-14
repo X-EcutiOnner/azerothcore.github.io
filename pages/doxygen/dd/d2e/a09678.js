@@ -1,15 +1,15 @@
 var a09678 =
 [
-    [ "MailSender", "dd/d2e/a09678.html#a16466924bf75ea8203ba27c0f3e6188b", null ],
-    [ "MailSender", "dd/d2e/a09678.html#a735cfef6950357644d6965978dde0309", null ],
-    [ "MailSender", "dd/d2e/a09678.html#a145000f5ef63627ee26a5699846e06cf", null ],
-    [ "MailSender", "dd/d2e/a09678.html#a9ddda06cf5ecc55efdc4525353471c5b", null ],
-    [ "MailSender", "dd/d2e/a09678.html#a7d5a5e40aa20de720f310b739f159225", null ],
-    [ "MailSender", "dd/d2e/a09678.html#a12c87bb414a3e8889c95091f3b51716b", null ],
-    [ "GetMailMessageType", "dd/d2e/a09678.html#a64c99a49ec01d2226b6bf740edb380fb", null ],
-    [ "GetSenderId", "dd/d2e/a09678.html#a03145c3fdc5bbabc64019e63e121132b", null ],
-    [ "GetStationery", "dd/d2e/a09678.html#a6a4446e52e20ad7ab4817bf024b38631", null ],
-    [ "m_messageType", "dd/d2e/a09678.html#a45a312eda342d2197f15d73b47d7787b", null ],
-    [ "m_senderId", "dd/d2e/a09678.html#a0954b3514cfcba4258b1b266dfd71ddb", null ],
-    [ "m_stationery", "dd/d2e/a09678.html#a1bbced35b4600f9a45a421d28a33393b", null ]
+    [ "LootStoreItem", "dd/d2e/a09678.html#a10250dce57b2b8103c6ac11aa1ac2f0f", null ],
+    [ "IsValid", "dd/d2e/a09678.html#ae5fc113c31d96bc7ca31a5bc36ab2fcf", null ],
+    [ "Roll", "dd/d2e/a09678.html#a87cc7956b131a16aee7bd5d4808193df", null ],
+    [ "chance", "dd/d2e/a09678.html#a20411103b449a9176b3bc665f909f06f", null ],
+    [ "conditions", "dd/d2e/a09678.html#a88812a51fb467a189f2824ad8b3198e8", null ],
+    [ "groupid", "dd/d2e/a09678.html#abc6df381782d25490dff0e54bec63b3a", null ],
+    [ "itemid", "dd/d2e/a09678.html#a5df1d4fde5f3358470bd16f7ad9154c1", null ],
+    [ "lootmode", "dd/d2e/a09678.html#ab5f7b258bd5cfe4263acd9e0b253b166", null ],
+    [ "maxcount", "dd/d2e/a09678.html#a96012059cc6affa8120ef544682781d2", null ],
+    [ "mincount", "dd/d2e/a09678.html#ada6a4d427187361c6bc33bdde789e809", null ],
+    [ "needs_quest", "dd/d2e/a09678.html#a5a2fe7ae48508b88bbdfc70fc4035f31", null ],
+    [ "reference", "dd/d2e/a09678.html#a374a94e34095a1beb38abca43069d0b6", null ]
 ];

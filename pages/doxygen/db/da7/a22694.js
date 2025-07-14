@@ -1,7 +1,6 @@
 var a22694 =
 [
-    [ "HandleScriptEffect", "db/da7/a22694.html#a16f131e42272bc75c99df2a9cf43470e", null ],
-    [ "PrepareSpellScript", "db/da7/a22694.html#a510e80ef85ae3057e30c7c710aaf187b", null ],
-    [ "Register", "db/da7/a22694.html#ae26ff6be3b2d4a1975ace3734603ab41", null ],
-    [ "Validate", "db/da7/a22694.html#a58ff628906f3077a354ed486d3c56d23", null ]
+    [ "instance_shadow_labyrinth_InstanceMapScript", "d0/ddd/a22698.html", "d0/ddd/a22698" ],
+    [ "instance_shadow_labyrinth", "db/da7/a22694.html#a16a3acdfd9b1053374dfa5f27e5f3c19", null ],
+    [ "GetInstanceScript", "db/da7/a22694.html#af9edf624413593a5cdf025dd9a1c3631", null ]
 ];

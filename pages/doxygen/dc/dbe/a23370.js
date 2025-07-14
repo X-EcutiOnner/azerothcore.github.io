@@ -1,8 +1,6 @@
 var a23370 =
 [
-    [ "ApplyStun", "dc/dbe/a23370.html#a5a5b921dc45418485919e599e80f8ca8", null ],
-    [ "HandleScriptEffect", "dc/dbe/a23370.html#a32619710179250a6a0b408856a888153", null ],
-    [ "PrepareSpellScript", "dc/dbe/a23370.html#afb61d7dcc8ad52da4dcad3d7593f08ad", null ],
-    [ "Register", "dc/dbe/a23370.html#aa753fd45caa1b515911d8fdf6fa78754", null ],
-    [ "Validate", "dc/dbe/a23370.html#a66d91a87078c663903cd836344eec867", null ]
+    [ "HandleAfterRemove", "dc/dbe/a23370.html#a74610b06095572aa2c898cd84e0fb229", null ],
+    [ "PrepareAuraScript", "dc/dbe/a23370.html#ac0d686490ff37810e0116dea4d0b6077", null ],
+    [ "Register", "dc/dbe/a23370.html#aad72f4aaa19f92f7a71241311f5d0582", null ]
 ];

@@ -1,8 +1,13 @@
 var a27758 =
 [
-    [ "ID", "d0/dab/a27758.html#a36958c346c8554d9ab1cfb73ac583818", null ],
-    [ "Model", "d0/dab/a27758.html#a8877a066a16c8c246a2d5a24a3661e56", null ],
-    [ "Origin", "d0/dab/a27758.html#a684c69add50ee545ee606ae456a93336", null ],
-    [ "OriginFacing", "d0/dab/a27758.html#a460723250353c7720cd87677991283cf", null ],
-    [ "SoundID", "d0/dab/a27758.html#aa56be05c7ab4015738e049d75ff365c6", null ]
+    [ "DBCDatabaseLoader", "d0/dab/a27758.html#a2efbbd3799e5f72fecaeaf9365579482", null ],
+    [ "DBCDatabaseLoader", "d0/dab/a27758.html#a7d93e6d37796f341edcf25062743c5b5", null ],
+    [ "CloneStringToPool", "d0/dab/a27758.html#a68e5ae50c980aa81b051d0622575bb2d", null ],
+    [ "Load", "d0/dab/a27758.html#a1b116dca8b01e0462a2e6c08245a49a3", null ],
+    [ "operator=", "d0/dab/a27758.html#a46f7d5670840892f7a8714ce0b6cde13", null ],
+    [ "_dbcFormat", "d0/dab/a27758.html#aa749118514d0b784ac6df295bd820d8e", null ],
+    [ "_recordSize", "d0/dab/a27758.html#a6721538ebbcfe020fb195d44b3bdbd11", null ],
+    [ "_sqlIndexPos", "d0/dab/a27758.html#ac1b5b191615d3e3121ea70965b0d495a", null ],
+    [ "_sqlTableName", "d0/dab/a27758.html#ab6590071edf5311ccf484d48e4fd125e", null ],
+    [ "_stringPool", "d0/dab/a27758.html#a52b5b86f0efb8ad0716bc0171a3aa740", null ]
 ];

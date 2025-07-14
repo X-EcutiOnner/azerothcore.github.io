@@ -1,9 +1,6 @@
 var a18690 =
 [
-    [ "npc_icc_skybreaker_luminaryAI", "d2/d02/a18690.html#a91868021309239f5582bb7ee89baec13", null ],
-    [ "AttackStart", "d2/d02/a18690.html#acf8d1eaebdc68cb53866155d8aad6e48", null ],
-    [ "JustEngagedWith", "d2/d02/a18690.html#a12927240144022174e3d190be6b34976", null ],
-    [ "Reset", "d2/d02/a18690.html#ac925b84b81ec1d1e118f3e62edfbdd15", null ],
-    [ "UpdateAI", "d2/d02/a18690.html#a969a36e147006971a93711349f90c193", null ],
-    [ "events", "d2/d02/a18690.html#a8521aef674b9a295c27f7e5725af4ffe", null ]
+    [ "HandleEvent", "d2/d02/a18690.html#a7936a64a1142a47b2addfd746dccfcef", null ],
+    [ "PrepareSpellScript", "d2/d02/a18690.html#a00e2be07131c674558d0364df98849ab", null ],
+    [ "Register", "d2/d02/a18690.html#a89364583504d2eaa75473586850bc3d5", null ]
 ];

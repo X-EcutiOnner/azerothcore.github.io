@@ -1,7 +1,7 @@
 var a20850 =
 [
-    [ "OnPeriodic", "de/d08/a20850.html#a529e89c1ae0074370da174defc086719", null ],
-    [ "PrepareAuraScript", "de/d08/a20850.html#a587652095a5dfae229787a0c0ceacfbe", null ],
-    [ "Register", "de/d08/a20850.html#acd5551b09882d720608bdec6036dee9a", null ],
-    [ "Validate", "de/d08/a20850.html#aaed6604e39dd977f4e7c671052d718e8", null ]
+    [ "boss_yoggsaron_corruptor_tentacleAI", "de/d08/a20850.html#a5f8fbd8ac772fad79f809de4d3128574", null ],
+    [ "DoAction", "de/d08/a20850.html#abac26b3be775eea734403be36cbed4d2", null ],
+    [ "SelectCorruptionTarget", "de/d08/a20850.html#a1d61b34d31794cd2bdcddfe91dc1103e", null ],
+    [ "UpdateAI", "de/d08/a20850.html#a0269d1dc655af5680d7074cb093740b8", null ]
 ];

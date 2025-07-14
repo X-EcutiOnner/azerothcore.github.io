@@ -1,5 +1,5 @@
 var a27322 =
 [
-    [ "item_captured_frog", "df/d96/a27322.html#ad41b743c98c9534453eca8cf1f367366", null ],
-    [ "OnUse", "df/d96/a27322.html#a1156467ca046a077ea494f92c488bf54", null ]
+    [ "go_table_theka", "df/d96/a27322.html#a9e25a1c9313437b533e1d88a2db04a58", null ],
+    [ "OnGossipHello", "df/d96/a27322.html#ab04480f032ce074daacdc0dcfa37ee12", null ]
 ];

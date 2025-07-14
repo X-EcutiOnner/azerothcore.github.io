@@ -1,7 +1,7 @@
 var a26830 =
 [
-    [ "OnProc", "d2/df5/a26830.html#a7ab183d734c543be2866c57f1e5cc508", null ],
-    [ "PrepareAuraScript", "d2/df5/a26830.html#a31118cda9f29318f4620caf38c09522a", null ],
-    [ "Register", "d2/df5/a26830.html#ac27f99aafa92ae85a247c6f25ece8c7b", null ],
-    [ "Validate", "d2/df5/a26830.html#aa193bddd2ba9efe70343c5501d737fa4", null ]
+    [ "HandleRemove", "d2/df5/a26830.html#a0f5a3e4d75dbb5c699ea1acbf89db318", null ],
+    [ "PrepareAuraScript", "d2/df5/a26830.html#a9e153c86e29a17b0cc20c65c635aa070", null ],
+    [ "Register", "d2/df5/a26830.html#a338ee9c0eddd309ce2a791160059bad6", null ],
+    [ "Validate", "d2/df5/a26830.html#ae8272b65a070fc959af003f701567c3c", null ]
 ];

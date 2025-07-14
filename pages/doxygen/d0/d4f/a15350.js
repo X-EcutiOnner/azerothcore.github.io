@@ -1,8 +1,6 @@
 var a15350 =
 [
-    [ "CheckRequirement", "d0/d4f/a15350.html#ae2b5e9accd0df2cc99e976eaab2d3f35", null ],
-    [ "HandleDummy", "d0/d4f/a15350.html#a6d2c75ad53f0e0f7be2df037f385d686", null ],
-    [ "PrepareSpellScript", "d0/d4f/a15350.html#a5b0a5f957a7b996cbe6b219a9803069e", null ],
-    [ "Register", "d0/d4f/a15350.html#a46f4aec6f7786d0abc8ded21ef16e6f6", null ],
-    [ "Validate", "d0/d4f/a15350.html#ab3f8d94f3b8d44e668743cb821430a92", null ]
+    [ "npc_webbed_creatureAI", "d5/d31/a15354.html", "d5/d31/a15354" ],
+    [ "npc_webbed_creature", "d0/d4f/a15350.html#ae52152939766c411e45e827e9ab52d4f", null ],
+    [ "GetAI", "d0/d4f/a15350.html#a30fd53b81260b7fd6ca06881930b79e9", null ]
 ];

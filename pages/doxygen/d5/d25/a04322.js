@@ -1,5 +1,14 @@
 var a04322 =
 [
-    [ "getOutOfWater", "d5/d25/a04322.html#a92646d631d9334b64b0b487ebf87d769", null ],
-    [ "getWeight", "d5/d25/a04322.html#a44526122378fe7ee8622f1ffc822dc20", null ]
+    [ "npc_tapoke_slim_jahn", "d4/d5b/a13766.html", "d4/d5b/a13766" ],
+    [ "npc_tapoke_slim_jahn::npc_tapoke_slim_jahnAI", "d6/d8f/a13770.html", "d6/d8f/a13770" ],
+    [ "npc_mikhail", "d5/db6/a13774.html", "d5/db6/a13774" ],
+    [ "TapokeSlim", "d5/d25/a04322.html#ad5b3ef2d2393f509f0cbf4e70303fab9", [
+      [ "QUEST_MISSING_DIPLO_PT11", "d5/d25/a04322.html#ad5b3ef2d2393f509f0cbf4e70303fab9afdacf3720ad6627ab1c120619b4628a2", null ],
+      [ "SPELL_STEALTH", "d5/d25/a04322.html#ad5b3ef2d2393f509f0cbf4e70303fab9ab05b1ff486cc81800d4e40014eae5576", null ],
+      [ "SPELL_CALL_FRIENDS", "d5/d25/a04322.html#ad5b3ef2d2393f509f0cbf4e70303fab9a6cc72f5b401e64cbeb4986e9dc90c779", null ],
+      [ "NPC_SLIMS_FRIEND", "d5/d25/a04322.html#ad5b3ef2d2393f509f0cbf4e70303fab9afc7e4b6611738777f37002c70bb946c1", null ],
+      [ "NPC_TAPOKE_SLIM_JAHN", "d5/d25/a04322.html#ad5b3ef2d2393f509f0cbf4e70303fab9a2853dfe2482cee57da6a01e6bc030bda", null ]
+    ] ],
+    [ "AddSC_wetlands", "d5/d25/a04322.html#a96be3075a4a99658d93ffe3d69ba369a", null ]
 ];

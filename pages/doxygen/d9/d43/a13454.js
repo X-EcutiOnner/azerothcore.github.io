@@ -1,12 +1,8 @@
 var a13454 =
 [
-    [ "npc_cameron", "d9/d43/a13454.html#a45e47ec5c9dadc6f0899e83ac2e19cff", null ],
-    [ "MoveTheChildren", "d9/d43/a13454.html#a85ae436f19f69ffb853330f01ee152a0", null ],
-    [ "PathEndReached", "d9/d43/a13454.html#a0bf53f40eeb4fe3ed7d62988bee0a912", null ],
-    [ "sOnGameEvent", "d9/d43/a13454.html#ab22841871cfcdc926b28296a5b4e440c", null ],
-    [ "SoundPicker", "d9/d43/a13454.html#a2ad97aaac0bd759921e0b75cfc88d07d", null ],
-    [ "UpdateAI", "d9/d43/a13454.html#a32a2dd2be2c06700fb81f4072a364ce2", null ],
-    [ "_childrenGUIDs", "d9/d43/a13454.html#ad260466902e8fb1a2e02998cc4549695", null ],
-    [ "_events", "d9/d43/a13454.html#ad6c58f433520c4ed55f43ef3604dde28", null ],
-    [ "_started", "d9/d43/a13454.html#a985d0590eedde340a3923e299d4dffd8", null ]
+    [ "npc_sunblade_arch_mage", "d9/d43/a13454.html#a25cc45033c55f1099b50eab4b4f497ee", null ],
+    [ "JustEngagedWith", "d9/d43/a13454.html#aadeae32d691229b7b7b531175b8a5018", null ],
+    [ "Reset", "d9/d43/a13454.html#a0d0349ea507b1f8431014c55eef5ce0e", null ],
+    [ "UpdateAI", "d9/d43/a13454.html#a3289fbad5f987a3d5d9986a31a1c442f", null ],
+    [ "scheduler", "d9/d43/a13454.html#aa6680f06651316996868907b1d28126c", null ]
 ];

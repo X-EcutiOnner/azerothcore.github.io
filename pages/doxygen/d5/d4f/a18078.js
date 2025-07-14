@@ -1,7 +1,9 @@
 var a18078 =
 [
-    [ "TriggerWickedSpirit", "d5/d4f/a18078.html#ace62bc037a2bd8ca9c9c56202eb811e7", null ],
-    [ "Execute", "d5/d4f/a18078.html#a7c8f1b5c33fac4d6a7cd89e3e71aa36d", null ],
-    [ "_counter", "d5/d4f/a18078.html#a24b85a62208f881418f97b0a8cb10f27", null ],
-    [ "_owner", "d5/d4f/a18078.html#ab460675158bfedd7f17a4b8e1cc06b3c", null ]
+    [ "FilterTargets", "d5/d4f/a18078.html#ae0c0320b523076e03c01f69b9d0df4bd", null ],
+    [ "FilterTargetsSubseq", "d5/d4f/a18078.html#a88a53a855e01b550fbd106ac318a891e", null ],
+    [ "PrepareSpellScript", "d5/d4f/a18078.html#ae5c08d71d0e1d30f0b126ca593763697", null ],
+    [ "Register", "d5/d4f/a18078.html#a27e8768422b311f6db16757e167f4102", null ],
+    [ "Validate", "d5/d4f/a18078.html#a96ef76527449a138685830b52fa95146", null ],
+    [ "_targetList", "d5/d4f/a18078.html#afcfbcf16c29b3bda1d7b85f79c624db1", null ]
 ];

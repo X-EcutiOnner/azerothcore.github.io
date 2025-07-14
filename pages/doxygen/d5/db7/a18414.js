@@ -1,8 +1,8 @@
 var a18414 =
 [
-    [ "npc_blistering_zombieAI", "d5/db7/a18414.html#acf278cd2249ac45a4b043427ba36b3ce", null ],
-    [ "DamageTaken", "d5/db7/a18414.html#adf031992078214f90d859df2b54aac91", null ],
-    [ "UpdateAI", "d5/db7/a18414.html#ae081898b8dcaf45cd3069e79021de452", null ],
-    [ "casted", "d5/db7/a18414.html#a0f70f5d58ef0bb20f64b0aec4df04905", null ],
-    [ "timer", "d5/db7/a18414.html#a8b865c2a87b1fc020d8250767febab0a", null ]
+    [ "npc_lk_wicked_spiritAI", "d5/db7/a18414.html#a6323ddd6c0932f3d73a6de4bd3c4d5dd", null ],
+    [ "CanAIAttack", "d5/db7/a18414.html#ae094420b1a6e134632baa0b086c806c6", null ],
+    [ "JustDied", "d5/db7/a18414.html#adf153fab1c8639b2b5790ed418afb85d", null ],
+    [ "JustRespawned", "d5/db7/a18414.html#a1acfbead42b66dd8f70a85efc8ce2e6f", null ],
+    [ "Reset", "d5/db7/a18414.html#a8b15079251b6855679d738a342126006", null ]
 ];

@@ -1,8 +1,8 @@
 var a09226 =
 [
-    [ "CreatureWorker", "d1/deb/a09226.html#a4b4dc219d034565cd83748c5f1cab2a5", null ],
-    [ "Visit", "d1/deb/a09226.html#ae67044250380c521055f80c55de0bba5", null ],
-    [ "Visit", "d1/deb/a09226.html#aa9a450b147aafe46a49135f5c5be668e", null ],
-    [ "i_do", "d1/deb/a09226.html#ac22f86d9a41701e7527d4840da256f11", null ],
-    [ "i_phaseMask", "d1/deb/a09226.html#adf514c89c894cdf2b44fc75d14c4f5b0", null ]
+    [ "GameObjectWorker", "d1/deb/a09226.html#a79dd3983b007d982bbb1f0b33c5c7a54", null ],
+    [ "Visit", "d1/deb/a09226.html#a754197d7a9aa3203cda964cbee81ae9a", null ],
+    [ "Visit", "d1/deb/a09226.html#a47a10a6790179eb5b78cbb66dd9d7b54", null ],
+    [ "_func", "d1/deb/a09226.html#abeaa251f909368e3ebeeff4dcefbda94", null ],
+    [ "_phaseMask", "d1/deb/a09226.html#accfe66385f5bbfb461d0493c22fde20e", null ]
 ];

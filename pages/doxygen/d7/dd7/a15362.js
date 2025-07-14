@@ -1,6 +1,10 @@
 var a15362 =
 [
-    [ "npcs_riverbreeze_and_silversky", "d7/dd7/a15362.html#a9f012d5bbaa8b9f9822ddfbd86e7c4b2", null ],
-    [ "OnGossipHello", "d7/dd7/a15362.html#a7de032322a37f929c316aadfdadda768", null ],
-    [ "OnGossipSelect", "d7/dd7/a15362.html#a93c7b159dda733da5030de747bad30b5", null ]
+    [ "npc_murkdeepAI", "d7/dd7/a15362.html#abe78235ecb94e4735a6f8eaad7fe6adc", null ],
+    [ "JustEngagedWith", "d7/dd7/a15362.html#ad33de7cb0caffcd255db38204ecfbb1c", null ],
+    [ "Reset", "d7/dd7/a15362.html#aa89316a0fe4f99630a4a129aed305e24", null ],
+    [ "UpdateAI", "d7/dd7/a15362.html#aeca85a1324791d18ac825401fb8a31e8", null ],
+    [ "events", "d7/dd7/a15362.html#ae3d344829aeba22ef0c5947863720390", null ],
+    [ "phase", "d7/dd7/a15362.html#a74a3a16cb3f2993aea9c5d6736a6914e", null ],
+    [ "spawnTimer", "d7/dd7/a15362.html#a6b139fb5cc0776103934f14be15c34d1", null ]
 ];

@@ -1,5 +1,6 @@
 var a18762 =
 [
-    [ "at_icc_spire_frostwyrm", "db/d63/a18762.html#ac3da2c0bc3e8b1c31832fcbb4e8ceae8", null ],
-    [ "_OnTrigger", "db/d63/a18762.html#a67e320fb8ada7cb2c87f5944395fa174", null ]
+    [ "npc_icc_skybreaker_hierophantAI", "d6/d7f/a18766.html", "d6/d7f/a18766" ],
+    [ "npc_icc_skybreaker_hierophant", "db/d63/a18762.html#a4cd3b2aa3d71c30853c687da8b8ca959", null ],
+    [ "GetAI", "db/d63/a18762.html#a2b0627bf059dfbce556bfa3ed4e97552", null ]
 ];

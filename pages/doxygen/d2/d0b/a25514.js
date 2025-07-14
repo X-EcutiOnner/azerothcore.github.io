@@ -1,6 +1,7 @@
 var a25514 =
 [
-    [ "HandlePeriodicTick", "d2/d0b/a25514.html#a1bd15727da421fdbfc3a60136bfa9bc9", null ],
-    [ "PrepareAuraScript", "d2/d0b/a25514.html#a1c4f592511c8886d0b9a5e64eb19cda7", null ],
-    [ "Register", "d2/d0b/a25514.html#ac019a52a6f62f1251d20efcfadba1e78", null ]
+    [ "HandleDummy", "d2/d0b/a25514.html#a5a82cbe58f57c94441cfda618e0eecca", null ],
+    [ "HandleScriptEffect", "d2/d0b/a25514.html#a30d760a8708b49a185eb000249a9a5eb", null ],
+    [ "PrepareSpellScript", "d2/d0b/a25514.html#a102d8493d285757c789cbba4a1bdc688", null ],
+    [ "Register", "d2/d0b/a25514.html#ab4031ddb745995128854c149f7706045", null ]
 ];

@@ -1,7 +1,6 @@
 var a17350 =
 [
-    [ "HandleDummy", "d5/d7a/a17350.html#a89c0706f21fe92fd443c3638181044ec", null ],
-    [ "PrepareSpellScript", "d5/d7a/a17350.html#a957e29d2458fd90228ef9c53e997c642", null ],
-    [ "Register", "d5/d7a/a17350.html#a250c95310503cd59d73e45a9b9372268", null ],
-    [ "Validate", "d5/d7a/a17350.html#a1c67a262eb95def51661919a3bad3437", null ]
+    [ "PrepareSpellScript", "d5/d7a/a17350.html#a86609d6cd708de9ead02c6134cbb6f64", null ],
+    [ "Register", "d5/d7a/a17350.html#aceb3da4aec68cb44bcbee36f599afd62", null ],
+    [ "SetDest", "d5/d7a/a17350.html#a9ed93e44df4e759fda72a63474e01b3b", null ]
 ];

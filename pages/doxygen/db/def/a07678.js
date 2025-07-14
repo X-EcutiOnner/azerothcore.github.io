@@ -1,5 +1,5 @@
 var a07678 =
 [
-    [ "IsColorValid", "db/def/a07678.html#ab291dc8bdb852a8386c2a3d1bd18cfad", null ],
-    [ "IsTextValid", "db/def/a07678.html#ab9c8e4926f593058bf247f33b6089bc3", null ]
+    [ "value_type", "db/def/a07678.html#ab102122dc913801a43be2fc6e4d5b2b4", null ],
+    [ "TryConsume", "db/def/a07678.html#a4916376e89113eea20071f4f584c6a75", null ]
 ];

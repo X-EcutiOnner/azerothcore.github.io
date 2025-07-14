@@ -1,7 +1,6 @@
 var a21990 =
 [
-    [ "HandleDummy", "d1/dc4/a21990.html#a85874062bceced2694fff725649df892", null ],
-    [ "PrepareSpellScript", "d1/dc4/a21990.html#a47bae4bdc488480f91517465d8e1b784", null ],
-    [ "Register", "d1/dc4/a21990.html#a7131340678ca685db98e2087661321a9", null ],
-    [ "Validate", "d1/dc4/a21990.html#af1b74ceee10fc48a0b85d4a284103950", null ]
+    [ "HandleOnEffectRemove", "d1/dc4/a21990.html#a5aeae7d8fc2fb8c8a1ce446ba1887c51", null ],
+    [ "PrepareAuraScript", "d1/dc4/a21990.html#af415e4d7ea0b4b881af94eb7ea0c3f4c", null ],
+    [ "Register", "d1/dc4/a21990.html#a242faa8822f9cdb7762d8ec3b6245b30", null ]
 ];

@@ -1,7 +1,6 @@
 var a17222 =
 [
-    [ "HandleScript", "d3/dd5/a17222.html#a4b1e392acea30a9259e65a75667704c5", null ],
-    [ "Load", "d3/dd5/a17222.html#a9af7bb4defb7c590aaff1a709dad4573", null ],
-    [ "PrepareSpellScript", "d3/dd5/a17222.html#a17301c4ef9623ec04ec3c15dfd4e316f", null ],
-    [ "Register", "d3/dd5/a17222.html#a77632d11a172e5552c0c49de830a1639", null ]
+    [ "boss_slad_ranAI", "d0/d9d/a17226.html", "d0/d9d/a17226" ],
+    [ "boss_slad_ran", "d3/dd5/a17222.html#a9b960242e2f186d334d7ce04b999e274", null ],
+    [ "GetAI", "d3/dd5/a17222.html#a26651b7ca111bd64549283c37e34db11", null ]
 ];

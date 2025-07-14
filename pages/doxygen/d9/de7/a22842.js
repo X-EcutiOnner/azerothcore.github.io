@@ -1,7 +1,7 @@
 var a22842 =
 [
-    [ "CalculateAmount", "d9/de7/a22842.html#adad1c8a513ce8a1badbd40c291363de1", null ],
-    [ "PrepareAuraScript", "d9/de7/a22842.html#ac1a896ac1a751c8bdaee186dffd8c251", null ],
-    [ "Register", "d9/de7/a22842.html#ae839fd19933a6fa9e55ce37e0633073e", null ],
-    [ "Update", "d9/de7/a22842.html#aeb5a347ccac3c5ce6faef7641b5fca1c", null ]
+    [ "PrepareAuraScript", "d9/de7/a22842.html#ae6879f1d8c27f19cf3e3ada0b34d568f", null ],
+    [ "ReflectDamage", "d9/de7/a22842.html#acde2cbf4d196cba1fa2c02393c08fe9f", null ],
+    [ "Register", "d9/de7/a22842.html#aa1f27d25209f14dd8bf711bc15cb9165", null ],
+    [ "Validate", "d9/de7/a22842.html#aa730b912aadcde53f6cd94c2a8c99493", null ]
 ];

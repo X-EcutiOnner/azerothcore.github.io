@@ -1,10 +1,7 @@
 var a28522 =
 [
-    [ "Exception", "db/d20/a28522.html#a414c3d1a58dc27f84f70db7372c71394", null ],
-    [ "~Exception", "db/d20/a28522.html#a1af5fa940a44522664bf8032b0ec164a", null ],
-    [ "Exception", "db/d20/a28522.html#a414c3d1a58dc27f84f70db7372c71394", null ],
-    [ "~Exception", "db/d20/a28522.html#a1af5fa940a44522664bf8032b0ec164a", null ],
-    [ "getMessage", "db/d20/a28522.html#af9bfdfbfe28783d5ad6f7b08cb845c75", null ],
-    [ "getMessage", "db/d20/a28522.html#af9bfdfbfe28783d5ad6f7b08cb845c75", null ],
-    [ "message", "db/d20/a28522.html#aeb732542a0ba63cde3d9b3bff93f4eda", null ]
+    [ "RealmHandle", "db/d20/a28522.html#a120fb45f2301188a843ab2e712f768e4", null ],
+    [ "RealmHandle", "db/d20/a28522.html#ac3e04e9790e1ae75b9701f1a84b9f6e2", null ],
+    [ "operator<", "db/d20/a28522.html#ad414bab23a3ecfb3cabb146d5f43bf3e", null ],
+    [ "Realm", "db/d20/a28522.html#a31af0d9064a295b1579fce3c80217bfd", null ]
 ];

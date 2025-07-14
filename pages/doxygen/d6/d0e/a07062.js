@@ -1,6 +1,6 @@
 var a07062 =
 [
-    [ "AuctionSearchListRequest", "d6/d0e/a07062.html#ac619da4568504e2d25a0f90a4f8d1f0a", null ],
-    [ "playerInfo", "d6/d0e/a07062.html#a73178eac3df25fd103b20b5894e8c4d8", null ],
-    [ "searchInfo", "d6/d0e/a07062.html#a1e9d71ab67e1a9eb50333d620c4b170c", null ]
+    [ "charges", "d6/d0e/a07062.html#a583aee5baaad873bcbcc2acad403d0bf", null ],
+    [ "duration", "d6/d0e/a07062.html#a36445b0d9d75886a0697c75513eb6c41", null ],
+    [ "id", "d6/d0e/a07062.html#ab19975d2dd203aa1124f2e06fb637171", null ]
 ];

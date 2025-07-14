@@ -1,6 +1,6 @@
 var a17270 =
 [
-    [ "FilterTargets", "d3/df0/a17270.html#a7abb4397b5fcf956bf31fa4dc9960ece", null ],
-    [ "PrepareSpellScript", "d3/df0/a17270.html#a8e9d81b34e05506569f4b910c1958de3", null ],
-    [ "Register", "d3/df0/a17270.html#aa80980c3f68abcb0fac7a41172f70012", null ]
+    [ "boss_prince_valanarAI", "dc/d7c/a17274.html", "dc/d7c/a17274" ],
+    [ "boss_prince_valanar_icc", "d3/df0/a17270.html#a7bfa4e13fa5cc19313c7ce9877d1c631", null ],
+    [ "GetAI", "d3/df0/a17270.html#a2f7f58d57f5ed107d1f972d061105fd4", null ]
 ];

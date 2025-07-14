@@ -1,6 +1,6 @@
 var a12062 =
 [
-    [ "boss_thebeastAI", "dd/d80/a12066.html", "dd/d80/a12066" ],
-    [ "boss_the_beast", "d5/d24/a12062.html#a131344b5fada63f4a8f0b3692ecba9eb", null ],
-    [ "GetAI", "d5/d24/a12062.html#a0b40497c665c571247cb8ad8b85ac63f", null ]
+    [ "boss_pyroguard_emberseerAI", "dd/d80/a12066.html", "dd/d80/a12066" ],
+    [ "boss_pyroguard_emberseer", "d5/d24/a12062.html#af9f55c012880404e2e6f8278763af194", null ],
+    [ "GetAI", "d5/d24/a12062.html#a060c52f53760e60a022a7034dd785b1d", null ]
 ];

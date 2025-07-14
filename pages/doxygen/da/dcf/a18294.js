@@ -1,6 +1,7 @@
 var a18294 =
 [
-    [ "HandleScript", "da/dcf/a18294.html#a910663e3fb2534c0e3aefcfd0adfe2fb", null ],
-    [ "PrepareSpellScript", "da/dcf/a18294.html#a2c6acef52962f606130d643cbd93104b", null ],
-    [ "Register", "da/dcf/a18294.html#a03ed4f257c313ba33361c16f313fdfcc", null ]
+    [ "OnPeriodic", "da/dcf/a18294.html#a9635bf496ee3098e412ba7de633250b3", null ],
+    [ "PrepareAuraScript", "da/dcf/a18294.html#accb775d3a9c4ae40f5d8644c366ec39e", null ],
+    [ "Register", "da/dcf/a18294.html#aa44bb97a0d3af32b90a133582f064b0e", null ],
+    [ "Validate", "da/dcf/a18294.html#a5675fef373315edd34d096bb91c733b0", null ]
 ];

@@ -1,7 +1,5 @@
 var a19970 =
 [
-    [ "boss_freya_lifebinderAI", "d3/db2/a19970.html#ae421aa209690e4a2908995b6b7d322cd", null ],
-    [ "Reset", "d3/db2/a19970.html#a972bd7d390d444e0ea2bc513d5d3816a", null ],
-    [ "UpdateAI", "d3/db2/a19970.html#afb06c217c1012d6463e44689359eada9", null ],
-    [ "_healTimer", "d3/db2/a19970.html#a7021d13dceb9af343f0e820cf086046e", null ]
+    [ "FlameLeviathanPursuedTargetSelector", "d3/db2/a19970.html#acc855eaab1e9590e1fcfae6ed8d37815", null ],
+    [ "operator()", "d3/db2/a19970.html#aaa2a49366fb651f7486b463ce597f364", null ]
 ];

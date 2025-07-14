@@ -1,15 +1,8 @@
 var a16934 =
 [
-    [ "npc_pos_leaderAI", "d1/d23/a16934.html#a21973bccde394785f8619df7cae5270b", null ],
-    [ "AttackStart", "d1/d23/a16934.html#a6dc4161441752b8ea9baab642d6a0684", null ],
-    [ "JustSummoned", "d1/d23/a16934.html#a03bfcd0ea38073ff8481188d1b570553", null ],
-    [ "MoveInLineOfSight", "d1/d23/a16934.html#ad28f607b313f7729649261969912eba5", null ],
-    [ "Reset", "d1/d23/a16934.html#aee23a2835b84ac060a29b41c10116904", null ],
-    [ "SetData", "d1/d23/a16934.html#a2b49d5045e0d1e25e7a05b1e3ce65b4f", null ],
-    [ "SummonedCreatureDespawn", "d1/d23/a16934.html#a9a35459cf7b83c9f0afc557d1b0b40e7", null ],
-    [ "UpdateAI", "d1/d23/a16934.html#a1507ab4bdade501cf92f843cec20842d", null ],
-    [ "counter", "d1/d23/a16934.html#a7012a08c6409a40646dcd91a47eb6886", null ],
-    [ "events", "d1/d23/a16934.html#a7ea570e98c7a70ae604861c2166eb429", null ],
-    [ "pInstance", "d1/d23/a16934.html#a1ba3692738d6bd474d54fe8910a7f316", null ],
-    [ "summons", "d1/d23/a16934.html#a44b5ee694d96644da91167c7d793eeb3", null ]
+    [ "npc_hor_raging_ghoulAI", "d1/d23/a16934.html#ac4b2b3acf8a7acda73c7158f1565a274", null ],
+    [ "JustDied", "d1/d23/a16934.html#a70e581c9b3f7d88d497c1540ac9ca04c", null ],
+    [ "Reset", "d1/d23/a16934.html#aa52576d94e230797209dfc938d62187f", null ],
+    [ "UpdateAI", "d1/d23/a16934.html#ac7c8571eac32f722a5fb0c28092b7e8f", null ],
+    [ "leaped", "d1/d23/a16934.html#a12f6e6d5911b2b8b9caa01a9a83570bc", null ]
 ];

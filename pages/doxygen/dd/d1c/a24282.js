@@ -1,6 +1,6 @@
 var a24282 =
 [
-    [ "npc_pet_dk_dancing_rune_weaponAI", "d9/d41/a24286.html", "d9/d41/a24286" ],
-    [ "npc_pet_dk_dancing_rune_weapon", "dd/d1c/a24282.html#aaa0881509c2842d6c0442884d0947e28", null ],
-    [ "GetAI", "dd/d1c/a24282.html#aae11c76fbcf729f44136c53b2b3e0982", null ]
+    [ "PrepareSpellScript", "dd/d1c/a24282.html#a6b5c1227e2d12ee5f2040dc6dacd60ac", null ],
+    [ "Register", "dd/d1c/a24282.html#ac57aee08a131bcf7db11bc105f32242c", null ],
+    [ "SetDest", "dd/d1c/a24282.html#a26362c4873890bb60c2526bf07058746", null ]
 ];

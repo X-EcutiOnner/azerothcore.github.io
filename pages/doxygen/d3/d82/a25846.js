@@ -1,8 +1,6 @@
 var a25846 =
 [
-    [ "CheckQuest", "d3/d82/a25846.html#ab7ebff0894832ac009cda89b7c28e252", null ],
-    [ "HandleDummy", "d3/d82/a25846.html#a365df14504a54e95e7d68d22a284e441", null ],
-    [ "HandleOpenObject", "d3/d82/a25846.html#a69467afd49dc2429b8ba9640c8af5dfa", null ],
-    [ "PrepareSpellScript", "d3/d82/a25846.html#a479e313031a2e71473238d8f645bf2d4", null ],
-    [ "Register", "d3/d82/a25846.html#a70f1a91e611cc2092aad44a909cd53db", null ]
+    [ "HandleDummy", "d3/d82/a25846.html#af306009f2c418e898478720b9c4ad6ab", null ],
+    [ "PrepareSpellScript", "d3/d82/a25846.html#a44cb481fe93fd1c691495cc1ead35e5e", null ],
+    [ "Register", "d3/d82/a25846.html#af51e3b3cbfb469fa6230a36d8d5fcec7", null ]
 ];

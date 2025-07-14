@@ -1,6 +1,7 @@
 var a13282 =
 [
-    [ "FilterTargets", "d1/d6e/a13282.html#aa6c8db9ae3ffd14e0841c98633115a9b", null ],
-    [ "PrepareSpellScript", "d1/d6e/a13282.html#a502f57c8567bc7ed15035d89ea26f4a6", null ],
-    [ "Register", "d1/d6e/a13282.html#aa3f50e9c6d430d3a1bc83c382c08b189", null ]
+    [ "HandleScriptEffect", "d1/d6e/a13282.html#a5ee63545a338e00bfcb8dcc2f3f67db3", null ],
+    [ "PrepareSpellScript", "d1/d6e/a13282.html#af9deee89e837e07486a7555632008eb2", null ],
+    [ "Register", "d1/d6e/a13282.html#aa4a7c699389a6e467b298cb4f9d3ed07", null ],
+    [ "Validate", "d1/d6e/a13282.html#a043d135ea2c37f6e4352aa2fba2bb21c", null ]
 ];

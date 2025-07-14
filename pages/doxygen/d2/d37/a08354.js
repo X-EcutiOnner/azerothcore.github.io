@@ -1,13 +1,12 @@
 var a08354 =
 [
-    [ "FlaggedValuesArray32", "d2/d37/a08354.html#a0680f7b67001783f20d89989a49cbead", null ],
-    [ "AddFlag", "d2/d37/a08354.html#a273ab3607b23881628eb0c5d6a4da288", null ],
-    [ "AddValue", "d2/d37/a08354.html#aacca1261b2a22525e5fd40e5f479aa06", null ],
-    [ "DelFlag", "d2/d37/a08354.html#a3a674b2a7b8d5874f7210372b3e92123", null ],
-    [ "GetFlags", "d2/d37/a08354.html#a314a315eb1c1a76116fe3a31f7be9c68", null ],
-    [ "GetValue", "d2/d37/a08354.html#a87e5949bc041f15449331aceb277e8c4", null ],
-    [ "HasFlag", "d2/d37/a08354.html#a0ea5d977caef5152c71c515259a91f06", null ],
-    [ "SetValue", "d2/d37/a08354.html#ad0d385589befe52103f077723fa2463c", null ],
-    [ "m_flags", "d2/d37/a08354.html#abab31b77efb46fa796275c36964eab91", null ],
-    [ "m_values", "d2/d37/a08354.html#aabd025f47ad522e574f603eb559500f0", null ]
+    [ "WorldObjectChangeAccumulator", "d2/d37/a08354.html#a853a5c84dec75f115eddd3e1b7ff0b78", null ],
+    [ "BuildPacket", "d2/d37/a08354.html#ab4b9da3effe2a4f6e2cb6ecf268f429c", null ],
+    [ "Visit", "d2/d37/a08354.html#ae18ca5886c95a6c4c00bdbc1920a5655", null ],
+    [ "Visit", "d2/d37/a08354.html#a9afa50ac9e36cd357706e8e838df56a0", null ],
+    [ "Visit", "d2/d37/a08354.html#aec62fc91f4b364e72a3d5afd5a1a7276", null ],
+    [ "Visit", "d2/d37/a08354.html#a9815c06dbd29710cac2c99301c17b01c", null ],
+    [ "i_object", "d2/d37/a08354.html#ab94d7f943107060caf742f9b6cca92e4", null ],
+    [ "i_playerSet", "d2/d37/a08354.html#a0e17c2bf7a78cf5ef68e6fc7b29f0262", null ],
+    [ "i_updateDatas", "d2/d37/a08354.html#a1446b9dae0dfc0325228870c815da23a", null ]
 ];

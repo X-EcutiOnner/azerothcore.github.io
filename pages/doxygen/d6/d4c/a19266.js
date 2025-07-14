@@ -1,6 +1,8 @@
 var a19266 =
 [
-    [ "npc_oculus_unstable_sphereAI", "da/da3/a19270.html", "da/da3/a19270" ],
-    [ "npc_oculus_unstable_sphere", "d6/d4c/a19266.html#a5167370a6d3fd32a5673bbeb95ed3f3c", null ],
-    [ "GetAI", "d6/d4c/a19266.html#adda2a9e7eab03444742e85729673ab2f", null ]
+    [ "npc_alexstraszaAI", "d6/d4c/a19266.html#a36cf63109e379fa4a9e3f3426d70e50c", null ],
+    [ "AttackStart", "d6/d4c/a19266.html#a120931695bf3ea649289ee4f6df9a3fd", null ],
+    [ "MoveInLineOfSight", "d6/d4c/a19266.html#af93fc8e8877cc5730db7a9386ac3d815", null ],
+    [ "UpdateAI", "d6/d4c/a19266.html#aa8cc3ee1a2a4702349b39708cc172594", null ],
+    [ "events", "d6/d4c/a19266.html#aade88413d2f2998be6dcb9d15bf85ce0", null ]
 ];

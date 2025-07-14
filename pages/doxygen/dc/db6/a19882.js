@@ -1,7 +1,6 @@
 var a19882 =
 [
-    [ "HandleScript", "dc/db6/a19882.html#a9580f04e1543262026818f0944bb96c3", null ],
-    [ "PrepareSpellScript", "dc/db6/a19882.html#a924ae640d448da777ce3ecb059c1c9b6", null ],
-    [ "Register", "dc/db6/a19882.html#ac05e58e9b5618b1f079bd1c4924a0f9f", null ],
-    [ "Validate", "dc/db6/a19882.html#a8fc8712a76939dea6831a9eb5b95f946", null ]
+    [ "npc_freya_wardAI", "d3/d0f/a19886.html", "d3/d0f/a19886" ],
+    [ "npc_freya_ward", "dc/db6/a19882.html#aebaadcc001922c78e8ec43084a827ac9", null ],
+    [ "GetAI", "dc/db6/a19882.html#a90c0e7a0be1717bf1793415b6fcafbed", null ]
 ];

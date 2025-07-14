@@ -1,7 +1,7 @@
 var a15406 =
 [
-    [ "npc_giant_spotlightAI", "d7/d13/a15406.html#ae0f6686aaeacafce193e0d4590cf8c09", null ],
-    [ "Reset", "d7/d13/a15406.html#a79f6703107eed52a3aeae30393507c0f", null ],
-    [ "UpdateAI", "d7/d13/a15406.html#a8567f936dd15933300497d5abe80a272", null ],
-    [ "events", "d7/d13/a15406.html#a20d1087e59daae9189d78f04ea2b2d05", null ]
+    [ "npc_aged_dying_ancient_kodoAI", "d4/dd7/a15410.html", "d4/dd7/a15410" ],
+    [ "npc_aged_dying_ancient_kodo", "d7/d13/a15406.html#a676170a319d3a8e46c9d017e61396c28", null ],
+    [ "GetAI", "d7/d13/a15406.html#a886bc82764e4ca6d98dc94ea73415375", null ],
+    [ "OnGossipHello", "d7/d13/a15406.html#a8489b3f23d8eca39f2750711512672e4", null ]
 ];

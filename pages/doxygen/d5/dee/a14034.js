@@ -1,6 +1,5 @@
 var a14034 =
 [
-    [ "instance_zulgurub_InstanceMapScript", "df/dfe/a14038.html", "df/dfe/a14038" ],
-    [ "instance_zulgurub", "d5/dee/a14034.html#aedc8c70e880ed9ccaf58b7154f9ba341", null ],
-    [ "GetInstanceScript", "d5/dee/a14034.html#a51f17d1135c7e97ff082d0d95ec3ffa4", null ]
+    [ "npc_brain_wash_totem", "d5/dee/a14034.html#acdecde614ba82d60ee4a10ace8545fdf", null ],
+    [ "EnterEvadeMode", "d5/dee/a14034.html#abd32e3210cc384c0c365826ca1fbae1e", null ]
 ];

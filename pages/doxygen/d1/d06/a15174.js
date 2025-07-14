@@ -1,6 +1,8 @@
 var a15174 =
 [
-    [ "npc_muglashAI", "d6/d63/a15178.html", "d6/d63/a15178" ],
-    [ "npc_muglash", "d1/d06/a15174.html#a5df1b1cff0acf8be4db77b66f8a0b5f4", null ],
-    [ "GetAI", "d1/d06/a15174.html#a7cfeaf756de85b1bd2fff9163e4bd5e3", null ]
+    [ "boss_veklor", "d1/d06/a15174.html#acbbe1a2e6ffcb00a28f7ae5413cd02c1", null ],
+    [ "AttackStart", "d1/d06/a15174.html#a7ecfff13457bf177c1ec250bbee75cbf", null ],
+    [ "IAmVeklor", "d1/d06/a15174.html#a4c43713c24b5537f292be1e0fcaee703", null ],
+    [ "JustEngagedWith", "d1/d06/a15174.html#a05913da666b1715eac68441195dd9df4", null ],
+    [ "SpellHit", "d1/d06/a15174.html#ab5d9ec12c18e360ce2c8749dd97f2ab0", null ]
 ];

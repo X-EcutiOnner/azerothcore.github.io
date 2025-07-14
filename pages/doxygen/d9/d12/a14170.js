@@ -1,11 +1,9 @@
 var a14170 =
 [
-    [ "npc_winterfin_playmate", "d9/d12/a14170.html#a9c07fb9115c21ba5c3ef7459662e8f38", null ],
-    [ "MoveInLineOfSight", "d9/d12/a14170.html#a7e8640e3bfe0a8f960ce22a2daf136a4", null ],
-    [ "Reset", "d9/d12/a14170.html#aae6b51c22dc0448608c1cf9412565e25", null ],
-    [ "UpdateAI", "d9/d12/a14170.html#a8e04dc18ee8a6d9412cd574994908eb6", null ],
-    [ "orphanGUID", "d9/d12/a14170.html#a9189bf7b93e7c46e559c22f3504f919f", null ],
-    [ "phase", "d9/d12/a14170.html#a0a1051dc971ef393843bd1ba655a2e1b", null ],
-    [ "playerGUID", "d9/d12/a14170.html#a142fe7a438ee22384f682f26ff4a9f9c", null ],
-    [ "timer", "d9/d12/a14170.html#abf4b5f3e16f32a3385b71ef002c5ee64", null ]
+    [ "HandleEffectPeriodic", "d9/d12/a14170.html#a798c8ddfc71e703bfe1e3c1f2d926cef", null ],
+    [ "HandleEffectRemove", "d9/d12/a14170.html#a96ed7366e568b70e82d622586740aa56", null ],
+    [ "Load", "d9/d12/a14170.html#a85cbc44e586330e2adfc0656a428bd7b", null ],
+    [ "PrepareAuraScript", "d9/d12/a14170.html#abd1f851112a50b79e815cdd894275bab", null ],
+    [ "Register", "d9/d12/a14170.html#aa3cd85aed063017c4737e7660fa81f37", null ],
+    [ "questTick", "d9/d12/a14170.html#ae2980e5f4934ce2ba5b755b7d45fab82", null ]
 ];

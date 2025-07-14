@@ -1,6 +1,7 @@
 var a14662 =
 [
-    [ "npc_cos_stratholme_citizienAI", "d3/d28/a14666.html", "d3/d28/a14666" ],
-    [ "npc_cos_stratholme_citizien", "df/d21/a14662.html#a92f8d88ecfa9cc47d6799107e5de0107", null ],
-    [ "GetAI", "df/d21/a14662.html#a4f5f132b903241021a4e53dd60c0f43b", null ]
+    [ "hyjalTyrandeAI", "d3/d28/a14666.html", "d3/d28/a14666" ],
+    [ "npc_hyjal_tyrande", "df/d21/a14662.html#abd2ba500d8e2bbf20c00905012d47d12", null ],
+    [ "GetAI", "df/d21/a14662.html#a2f863e616352a98763eef9a717d73388", null ],
+    [ "OnGossipSelect", "df/d21/a14662.html#a014a63098e18b08b6f5cd33a0cba2072", null ]
 ];

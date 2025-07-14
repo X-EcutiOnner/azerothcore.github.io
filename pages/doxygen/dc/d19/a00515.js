@@ -1,33 +1,29 @@
 var a00515 =
 [
-    [ "WardenModuleUse", "d7/dbc/a11444.html", "d7/dbc/a11444" ],
-    [ "WardenModuleTransfer", "d1/d7d/a11448.html", "d1/d7d/a11448" ],
-    [ "WardenHashRequest", "d7/dd8/a11452.html", "d7/dd8/a11452" ],
-    [ "ClientWardenModule", "d8/d0c/a11456.html", "d8/d0c/a11456" ],
-    [ "Warden", "dd/d25/a11460.html", "dd/d25/a11460" ],
-    [ "WardenCheckType", "dc/d19/a00515.html#a7598131f87414a66259189a0518ca6f2", [
-      [ "MEM_CHECK", "dc/d19/a00515.html#a7598131f87414a66259189a0518ca6f2aba449b452d425f871a9c01be028b5074", null ],
-      [ "PAGE_CHECK_A", "dc/d19/a00515.html#a7598131f87414a66259189a0518ca6f2a331b64b77a83e62b070746aab1ea995f", null ],
-      [ "PAGE_CHECK_B", "dc/d19/a00515.html#a7598131f87414a66259189a0518ca6f2a366d33d737ecb1b63b92e5c4fc13ed87", null ],
-      [ "MPQ_CHECK", "dc/d19/a00515.html#a7598131f87414a66259189a0518ca6f2ab22116b6a319b5c4ad88eaf90291090b", null ],
-      [ "LUA_EVAL_CHECK", "dc/d19/a00515.html#a7598131f87414a66259189a0518ca6f2a88364ba9c51997e2baa92428922caada", null ],
-      [ "DRIVER_CHECK", "dc/d19/a00515.html#a7598131f87414a66259189a0518ca6f2a2b63e52f1c3146183a59fffa98919c93", null ],
-      [ "TIMING_CHECK", "dc/d19/a00515.html#a7598131f87414a66259189a0518ca6f2ad11a9e323f324f0c3b2b439fec521018", null ],
-      [ "PROC_CHECK", "dc/d19/a00515.html#a7598131f87414a66259189a0518ca6f2a19186939917116389af429c3c658293d", null ],
-      [ "MODULE_CHECK", "dc/d19/a00515.html#a7598131f87414a66259189a0518ca6f2adc2e09d27e8f622121d11ba931c4ff77", null ]
+    [ "MAX_ACCOUNT_STR", "dc/d19/a00515.html#a134ebf22666a6525929447b2d869d400", null ],
+    [ "MAX_EMAIL_STR", "dc/d19/a00515.html#ad64d9bd18bac10ab1af09b042d734c64", null ],
+    [ "MAX_PASS_STR", "dc/d19/a00515.html#a45827712253b6d66092106cef5ae724b", null ],
+    [ "AccountOpResult", "dc/d19/a00515.html#a0161874ada0cecbbd1fd5d31da73703e", [
+      [ "AOR_OK", "dc/d19/a00515.html#a0161874ada0cecbbd1fd5d31da73703ea73449863bb0d97def55bd65307e97f18", null ],
+      [ "AOR_NAME_TOO_LONG", "dc/d19/a00515.html#a0161874ada0cecbbd1fd5d31da73703eaec4fb519d9e6032adc269ca4a27c38f4", null ],
+      [ "AOR_PASS_TOO_LONG", "dc/d19/a00515.html#a0161874ada0cecbbd1fd5d31da73703eaed91b79b9e639b8f988c5f06fcfd901c", null ],
+      [ "AOR_EMAIL_TOO_LONG", "dc/d19/a00515.html#a0161874ada0cecbbd1fd5d31da73703eaaf639a81cbf8cf6bd685e34d73e895a1", null ],
+      [ "AOR_NAME_ALREADY_EXIST", "dc/d19/a00515.html#a0161874ada0cecbbd1fd5d31da73703eae0b6297de7a7e8b516f5fc98a4d8750c", null ],
+      [ "AOR_NAME_NOT_EXIST", "dc/d19/a00515.html#a0161874ada0cecbbd1fd5d31da73703ea05e659ba76ce9dd582551a24f2923b24", null ],
+      [ "AOR_DB_INTERNAL_ERROR", "dc/d19/a00515.html#a0161874ada0cecbbd1fd5d31da73703ea368516df3522ada12ce8a39c789a687d", null ]
     ] ],
-    [ "WardenOpcodes", "dc/d19/a00515.html#a8d0de714c4a4cf7a125c6187a7d19e51", [
-      [ "WARDEN_CMSG_MODULE_MISSING", "dc/d19/a00515.html#a8d0de714c4a4cf7a125c6187a7d19e51a334622303a3ea504196a3807f5da22f4", null ],
-      [ "WARDEN_CMSG_MODULE_OK", "dc/d19/a00515.html#a8d0de714c4a4cf7a125c6187a7d19e51a7636fd5a47dd45d2bf69a4625d77939c", null ],
-      [ "WARDEN_CMSG_CHEAT_CHECKS_RESULT", "dc/d19/a00515.html#a8d0de714c4a4cf7a125c6187a7d19e51a713a20be2d2cf1fa7d46ee2b788bc6f5", null ],
-      [ "WARDEN_CMSG_MEM_CHECKS_RESULT", "dc/d19/a00515.html#a8d0de714c4a4cf7a125c6187a7d19e51adaac6c4f6f3ac87386438a5228ba617f", null ],
-      [ "WARDEN_CMSG_HASH_RESULT", "dc/d19/a00515.html#a8d0de714c4a4cf7a125c6187a7d19e51a51c0070c4347129060a6714ae0f483ed", null ],
-      [ "WARDEN_CMSG_MODULE_FAILED", "dc/d19/a00515.html#a8d0de714c4a4cf7a125c6187a7d19e51a5a2e35d214965eb7dccec345e261fadc", null ],
-      [ "WARDEN_SMSG_MODULE_USE", "dc/d19/a00515.html#a8d0de714c4a4cf7a125c6187a7d19e51ad8b63ed3f3ec8941563402a5eacf9d30", null ],
-      [ "WARDEN_SMSG_MODULE_CACHE", "dc/d19/a00515.html#a8d0de714c4a4cf7a125c6187a7d19e51aa12b4718a7515d81608ba46205625a11", null ],
-      [ "WARDEN_SMSG_CHEAT_CHECKS_REQUEST", "dc/d19/a00515.html#a8d0de714c4a4cf7a125c6187a7d19e51ae5eafc7b23b0d14c934e9eb48fa73709", null ],
-      [ "WARDEN_SMSG_MODULE_INITIALIZE", "dc/d19/a00515.html#a8d0de714c4a4cf7a125c6187a7d19e51aafdff6ee4abd8ad4511d527f09154da8", null ],
-      [ "WARDEN_SMSG_MEM_CHECKS_REQUEST", "dc/d19/a00515.html#a8d0de714c4a4cf7a125c6187a7d19e51a41d76534b91d6af9e1b3ca116c4eda82", null ],
-      [ "WARDEN_SMSG_HASH_REQUEST", "dc/d19/a00515.html#a8d0de714c4a4cf7a125c6187a7d19e51a69c3028f1b435c282c384008e49eb451", null ]
-    ] ]
+    [ "ChangeEmail", "dc/d19/a00515.html#a2a6c83e2d4e6121855beb252f23c905b", null ],
+    [ "ChangePassword", "dc/d19/a00515.html#a6a9cb892c15d78b5de65738005234ff6", null ],
+    [ "ChangeUsername", "dc/d19/a00515.html#a3382c6430bfbf14e32ca11b5ac68fc23", null ],
+    [ "CheckPassword", "dc/d19/a00515.html#a17c28dfcb31af8f4241bb5210408185a", null ],
+    [ "CreateAccount", "dc/d19/a00515.html#a761f39260d15a979ce0214f212b936b7", null ],
+    [ "DeleteAccount", "dc/d19/a00515.html#a120323b16b2a5aefa6aa69e8be5ccef6", null ],
+    [ "GetCharactersCount", "dc/d19/a00515.html#a4fb760897161c3d463f842b28bcf7c20", null ],
+    [ "GetId", "dc/d19/a00515.html#aa215c9a96c37b8a5d76d980ecf8de114", null ],
+    [ "GetName", "dc/d19/a00515.html#af911e3860ec519c541d6df35468ee41b", null ],
+    [ "GetSecurity", "dc/d19/a00515.html#a8280510b2564ec6ea76727218c1687b3", null ],
+    [ "GetSecurity", "dc/d19/a00515.html#a30b6e5cf1733f0143f86aaeff600215c", null ],
+    [ "IsAdminAccount", "dc/d19/a00515.html#adb1b210137b09011677c74011addeefa", null ],
+    [ "IsConsoleAccount", "dc/d19/a00515.html#a81bbc2af33211a3130c6aa215f5607b7", null ],
+    [ "IsPlayerAccount", "dc/d19/a00515.html#a63751f144cb7acb57fc20f0caf5e7043", null ]
 ];

@@ -1,9 +1,9 @@
 var a25862 =
 [
-    [ "HandleAfterCast", "d9/d89/a25862.html#afd2fbc51ac1e99789994021af36688f3", null ],
-    [ "HandleTriggerSpell", "d9/d89/a25862.html#ae140ab00101f081454b55e12a7c54440", null ],
-    [ "Load", "d9/d89/a25862.html#a3dbb3541f0ec3f614d1f18fd92f9bc03", null ],
-    [ "PrepareSpellScript", "d9/d89/a25862.html#a7fd1a83dd49cee4f52913a40caf3ef88", null ],
-    [ "Register", "d9/d89/a25862.html#a3e9d0ff0bd71ea6d87fb9a7edcfa9a1c", null ],
-    [ "_triggerSpellId", "d9/d89/a25862.html#a9a3efd5cf45d15cf8112a82d33dca731", null ]
+    [ "OnEffectHitTargetDisarm", "d9/d89/a25862.html#ae8ce5a315886ede30eda7d3682e4ef06", null ],
+    [ "OnEffectHitTargetStun", "d9/d89/a25862.html#a5a5253b6d152b1af78de663c09451536", null ],
+    [ "OnEffectLaunchTargetDisarm", "d9/d89/a25862.html#a2bbcf5ee2d41362c80a4649a4cf7e260", null ],
+    [ "OnEffectLaunchTargetStun", "d9/d89/a25862.html#ac3d5052bf045082fb8bc02c72a0dba39", null ],
+    [ "PrepareSpellScript", "d9/d89/a25862.html#a113219d3376a23f8889f26f10744e7cb", null ],
+    [ "Register", "d9/d89/a25862.html#a12ef13dbc3e9cd95fb1d57bf393735e3", null ]
 ];

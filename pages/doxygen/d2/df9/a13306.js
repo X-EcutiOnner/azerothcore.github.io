@@ -1,6 +1,12 @@
 var a13306 =
 [
-    [ "PrepareSpellScript", "d2/df9/a13306.html#a6a9436d744865971e635f23c2b331688", null ],
-    [ "Register", "d2/df9/a13306.html#a5f8a755040c9972e1bd6f68ceacf3dff", null ],
-    [ "SetDest", "d2/df9/a13306.html#a2d43c0d5230f7be2d9a33e8527fd8c02", null ]
+    [ "boss_sathrovarr", "d2/df9/a13306.html#a92bff830219f795d0aae4511f3d524bb", null ],
+    [ "CanAIAttack", "d2/df9/a13306.html#a053dcf604aed91ac7c888d682653da54", null ],
+    [ "DoAction", "d2/df9/a13306.html#ad0b549678e5b4eb7dfc1c1879885b45a", null ],
+    [ "JustDied", "d2/df9/a13306.html#aa6683f0ccb70260e24f79d86ec4ae2d1", null ],
+    [ "JustEngagedWith", "d2/df9/a13306.html#a1f3a74ac6f83673eed9b2a4276a5cf49", null ],
+    [ "KilledUnit", "d2/df9/a13306.html#a17e2a5d253536c25cd04269b71a5c0ed", null ],
+    [ "Reset", "d2/df9/a13306.html#a171c0e2c07ddf4c5271af8ed83f15257", null ],
+    [ "UpdateAI", "d2/df9/a13306.html#a99c5c8801333f2eaf6b9fee287588093", null ],
+    [ "_instance", "d2/df9/a13306.html#af7bfd6a65db102b5010f7b300e4acd27", null ]
 ];

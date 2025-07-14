@@ -1,13 +1,7 @@
 var a11562 =
 [
-    [ "cheat_commandscript", "d7/dc0/a11562.html#a7449cfba3578956a09b67e569e7e6083", null ],
-    [ "GetCommands", "d7/dc0/a11562.html#a7cc6ca0c216a4ff497b60dc7622623fd", null ],
-    [ "HandleCasttimeCheatCommand", "d7/dc0/a11562.html#a119ad06c5b8be235853bb13c7cff724b", null ],
-    [ "HandleCheatStatusCommand", "d7/dc0/a11562.html#acdf487c7a96d1757d3254e3f17e728cb", null ],
-    [ "HandleCoolDownCheatCommand", "d7/dc0/a11562.html#ab31a1cfe2567b0f597c689f44ab9fd6d", null ],
-    [ "HandleExploreCheatCommand", "d7/dc0/a11562.html#a25ea712f2fb249e49f5f0b8244f743c5", null ],
-    [ "HandleGodModeCheatCommand", "d7/dc0/a11562.html#ac398dbacf025830dc871bc77938d47d6", null ],
-    [ "HandlePowerCheatCommand", "d7/dc0/a11562.html#ae406c5d444b10ba65b79f8ff9d949c24", null ],
-    [ "HandleTaxiCheatCommand", "d7/dc0/a11562.html#ab9bd840c9622d173e710058eeb763388", null ],
-    [ "HandleWaterWalkCheatCommand", "d7/dc0/a11562.html#a9162d89c049f14f29bc5ba257964df34", null ]
+    [ "map", "d7/dc0/a11562.html#ab52fa79b07a9fad5b0cf8a28669a94eb", null ],
+    [ "pallid", "d7/dc0/a11562.html#a0693df9090f40b7b1b8dba0003b6092e", null ],
+    [ "pallidGuid", "d7/dc0/a11562.html#ae78b3d7448e8f43a993f46208039f0b1", null ],
+    [ "zoneId", "d7/dc0/a11562.html#ad035d67dce95aa1ad7a1f39b1cf7b847", null ]
 ];

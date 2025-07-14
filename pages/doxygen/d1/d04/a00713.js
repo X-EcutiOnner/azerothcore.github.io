@@ -1,4 +1,5 @@
 var a00713 =
 [
-    [ "minPctTeamGamesForMemberToGetReward", "d1/d04/a00713.html#a4d7ce2e01ab25ea6833099b2821b6b5b", null ]
+    [ "ArenaScore", "d6/dc7/a07206.html", "d6/dc7/a07206" ],
+    [ "ArenaTeamScore", "d7/dc6/a07210.html", "d7/dc6/a07210" ]
 ];

@@ -1,9 +1,7 @@
 var a28274 =
 [
-    [ "Category", "dd/dce/a28274.html#acd933f251a1faa1f705420307136681d", null ],
-    [ "Faction", "dd/dce/a28274.html#a4876df0f9a92e10634b7bc0b389ade00", null ],
-    [ "Flags", "dd/dce/a28274.html#a8b41ed573eae71196664a61bac83fe3e", null ],
-    [ "Id", "dd/dce/a28274.html#ae0b89d5ae5f82b4f807a2f8dbbec351a", null ],
-    [ "Slot", "dd/dce/a28274.html#a24449c3e3fd89ae3dbe4be3f64248115", null ],
-    [ "Type", "dd/dce/a28274.html#aa1cbad19aaa973e21fdbd74cec5119f6", null ]
+    [ "Id", "dd/dce/a28274.html#a94843a6f0cb39332f39a9630945f1fc8", null ],
+    [ "SoundBank", "dd/dce/a28274.html#a1dd2e40caf515186c831dc8cc82c095b", null ],
+    [ "SpellId", "dd/dce/a28274.html#aa010947f5fbec6867b005b25728e720b", null ],
+    [ "Type", "dd/dce/a28274.html#a7f610dd6a9944b4634bb981c0cb8e230", null ]
 ];

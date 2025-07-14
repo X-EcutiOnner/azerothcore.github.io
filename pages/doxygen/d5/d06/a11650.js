@@ -1,10 +1,17 @@
 var a11650 =
 [
-    [ "mmaps_commandscript", "d5/d06/a11650.html#a1dbdfd26bdb685315a3012453080a56f", null ],
-    [ "GetCommands", "d5/d06/a11650.html#aec91072f9e651c9136bf1a405a9bb95a", null ],
-    [ "HandleMmapLoadedTilesCommand", "d5/d06/a11650.html#a40d5b7e733298210c686fe89490b6f61", null ],
-    [ "HandleMmapLocCommand", "d5/d06/a11650.html#aa3dc699456256d8b2ab9fdd97891bd96", null ],
-    [ "HandleMmapPathCommand", "d5/d06/a11650.html#a2c876439ad6d9ff7523f140d97743dea", null ],
-    [ "HandleMmapStatsCommand", "d5/d06/a11650.html#a823b56cdbb0c97176990bb01af9af9fc", null ],
-    [ "HandleMmapTestArea", "d5/d06/a11650.html#aaae2e5548a6bd9c670db0721ea7508bd", null ]
+    [ "gobject_commandscript", "d5/d06/a11650.html#a664ffe7aa07b1e08156545675ae5dc69", null ],
+    [ "GetCommands", "d5/d06/a11650.html#a75124102670615a7b3a0ecd457ab631a", null ],
+    [ "HandleGameObjectActivateCommand", "d5/d06/a11650.html#a2512dfca6b1ae8a2476551a02caa202a", null ],
+    [ "HandleGameObjectAddCommand", "d5/d06/a11650.html#a23717867956cc0da99e3640d2b790346", null ],
+    [ "HandleGameObjectAddTempCommand", "d5/d06/a11650.html#a49908d7c180d778c43702563add17d2d", null ],
+    [ "HandleGameObjectDeleteCommand", "d5/d06/a11650.html#a06ef45827cefcc19f748c5940dfb4b1d", null ],
+    [ "HandleGameObjectInfoCommand", "d5/d06/a11650.html#a1d6e3c850b0bc2772d3f1f09877d8a40", null ],
+    [ "HandleGameObjectMoveCommand", "d5/d06/a11650.html#a7098a5b0c94cb09b8c6fe08eba261d93", null ],
+    [ "HandleGameObjectNearCommand", "d5/d06/a11650.html#a156f293b3bf9c7439b62814ee8f27650", null ],
+    [ "HandleGameObjectRespawn", "d5/d06/a11650.html#aafed57aa556c8cdc0c380185b056d705", null ],
+    [ "HandleGameObjectSetPhaseCommand", "d5/d06/a11650.html#af2ac49c9fdd408be62dd4ee179c1142c", null ],
+    [ "HandleGameObjectSetStateCommand", "d5/d06/a11650.html#ae6d100f51d8b08e1576092eedc4db15f", null ],
+    [ "HandleGameObjectTargetCommand", "d5/d06/a11650.html#a11d33046310495c0a6d883a307c95632", null ],
+    [ "HandleGameObjectTurnCommand", "d5/d06/a11650.html#a75883394613b2c3501cd48f5334199b7", null ]
 ];

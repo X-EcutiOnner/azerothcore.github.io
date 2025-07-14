@@ -1,4 +1,13 @@
 var a04517 =
 [
-    [ "gVMapMgr", "d8/df9/a04517.html#a3fb33e0008bbbabc087f99a45e512784", null ]
+    [ "instance_sunken_temple", "de/d78/a13186.html", "de/d78/a13186" ],
+    [ "instance_sunken_temple::instance_sunken_temple_InstanceMapScript", "da/d13/a13190.html", "da/d13/a13190" ],
+    [ "at_malfurion_stormrage", "d7/d81/a13194.html", "d7/d81/a13194" ],
+    [ "spell_temple_of_atal_hakkar_hex_of_jammal_an_aura", "db/ddf/a13198.html", "db/ddf/a13198" ],
+    [ "spell_temple_of_atal_hakkar_awaken_the_soulflayer", "d1/d73/a13202.html", "d1/d73/a13202" ],
+    [ "MalfurionMisc", "d8/df9/a04517.html#a754fcfafd80b5a6c2ea444f49cfbc7d1", [
+      [ "QUEST_ERANIKUS_TYRANT_OF_DREAMS", "d8/df9/a04517.html#a754fcfafd80b5a6c2ea444f49cfbc7d1a99089f2ff32693b053abae21941aed5d", null ],
+      [ "QUEST_THE_CHARGE_OF_DRAGONFLIGHTS", "d8/df9/a04517.html#a754fcfafd80b5a6c2ea444f49cfbc7d1aabeeb62adbb72d2616aa2e6e393f2526", null ]
+    ] ],
+    [ "AddSC_instance_sunken_temple", "d8/df9/a04517.html#ab3f2a91fe096585f54078e8884cb25f7", null ]
 ];

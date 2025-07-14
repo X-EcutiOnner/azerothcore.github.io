@@ -1,9 +1,5 @@
 var a23826 =
 [
-    [ "boss_nethermancer_sepethrea", "dc/d3e/a23826.html#aae77446e9a8f2ac41601049d3fe9ffd4", null ],
-    [ "EnterEvadeMode", "dc/d3e/a23826.html#a0ac9dd29b73e8734318851ffd9a09162", null ],
-    [ "JustDied", "dc/d3e/a23826.html#a2ac13176ebffa245fd9e0ba6173f30cc", null ],
-    [ "JustEngagedWith", "dc/d3e/a23826.html#a89851b9f6eb94270fe22151d3a968bec", null ],
-    [ "JustSummoned", "dc/d3e/a23826.html#acf98dbddcd55131cb9cdebe6d319e2c2", null ],
-    [ "KilledUnit", "dc/d3e/a23826.html#ad9606ca8c1fe6f68f72ec415cc70ef2f", null ]
+    [ "npc_thaladred", "dc/d3e/a23826.html#a2589c19d5cc48c0a5fd504aecddfaa90", null ],
+    [ "ScheduleEvents", "dc/d3e/a23826.html#a24febff1fc8b155bca0fb177a8119dbb", null ]
 ];

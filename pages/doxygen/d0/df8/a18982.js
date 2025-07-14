@@ -1,15 +1,15 @@
 var a18982 =
 [
-    [ "boss_loathebAI", "d0/df8/a18982.html#a60256114947b0e9c01f5308108485935", null ],
-    [ "IsInRoom", "d0/df8/a18982.html#a617d45ab3bde4184aa31c1b2c70c1a6f", null ],
-    [ "JustDied", "d0/df8/a18982.html#acf24e563d4876fb9f899a4250b19b6f5", null ],
-    [ "JustEngagedWith", "d0/df8/a18982.html#a1abcf157e05eeb634f8e857a2de35538", null ],
-    [ "JustSummoned", "d0/df8/a18982.html#a8a28f9fe6c087c230103d1139ddb73dc", null ],
-    [ "KilledUnit", "d0/df8/a18982.html#a4dac78bba24069050dd9df729dd58b45", null ],
-    [ "Reset", "d0/df8/a18982.html#a709a4c2fe45fd757ecae6afa402e4728", null ],
-    [ "SummonedCreatureDies", "d0/df8/a18982.html#aeddc6bd981a13ec133e5481b36668b0e", null ],
-    [ "UpdateAI", "d0/df8/a18982.html#ab009008f892493b822e5ea5491c58525", null ],
-    [ "doomCounter", "d0/df8/a18982.html#aed5c631ede2eea27451a74ae21221325", null ],
-    [ "events", "d0/df8/a18982.html#adc49463bbe227f892e31716516032c64", null ],
-    [ "summons", "d0/df8/a18982.html#a37ef117714403002afb4faa4978f136b", null ]
+    [ "boss_gluthAI", "d0/df8/a18982.html#a3ae0608d19cbc7ce5a561e0ae3e66d0d", null ],
+    [ "JustDied", "d0/df8/a18982.html#ada2c5f6b7025f5f2fb67b8ebe3b2d56c", null ],
+    [ "JustEngagedWith", "d0/df8/a18982.html#a25cf670d7254cc8331752987a854c63b", null ],
+    [ "JustSummoned", "d0/df8/a18982.html#acc09328210fbf1a6e81999d548676ae4", null ],
+    [ "KilledUnit", "d0/df8/a18982.html#a691d46055b922efc9d1ec93a8b0fb842", null ],
+    [ "MoveInLineOfSight", "d0/df8/a18982.html#a2aaf43f7d1555a005ef263ceaad8304c", null ],
+    [ "Reset", "d0/df8/a18982.html#acb9f68205a2a210737d43893a414ca52", null ],
+    [ "SelectPlayerInRoom", "d0/df8/a18982.html#a1f8f87b00291d8164f607ac6262506cf", null ],
+    [ "SummonedCreatureDies", "d0/df8/a18982.html#a115a1f1327a931067223734dbf414675", null ],
+    [ "UpdateAI", "d0/df8/a18982.html#a2505f7ebda7b623edfedf96979a4a920", null ],
+    [ "events", "d0/df8/a18982.html#adaf9581259a774087ce02725b42b6b47", null ],
+    [ "summons", "d0/df8/a18982.html#a18f6aa3d949e68e9b38398780c017082", null ]
 ];

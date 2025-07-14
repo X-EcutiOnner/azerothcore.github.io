@@ -1,7 +1,8 @@
 var a14414 =
 [
-    [ "GetVisualThrow", "de/d21/a14414.html#afe59e0c21eaa06e2b1d614613b1d2f73", null ],
-    [ "HandleDummy", "de/d21/a14414.html#adca1aacf89dcf452f1c98cae97f09690", null ],
-    [ "PrepareSpellScript", "de/d21/a14414.html#a642f2d3992e7e3a4393d2b0c6b521597", null ],
-    [ "Register", "de/d21/a14414.html#a68a6e9b307500a56e66bc19c41daf9dc", null ]
+    [ "npc_love_in_air_snivel_real", "de/d21/a14414.html#a9f5b36d35ced9eb27375ca13fcfbc55d", null ],
+    [ "Talk", "de/d21/a14414.html#a0b5cc8dd6bdf7c4fbd7b7aa2ba02b028", null ],
+    [ "UpdateAI", "de/d21/a14414.html#a22ed25da8fe3441ef0e4183390983f40", null ],
+    [ "actionCounter", "de/d21/a14414.html#ab1685b1ee34c81c689af3c3466b185f0", null ],
+    [ "actionTimer", "de/d21/a14414.html#a3bbee1ff355581772b337268775b8fbc", null ]
 ];

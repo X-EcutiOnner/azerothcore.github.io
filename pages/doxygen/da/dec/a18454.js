@@ -1,7 +1,6 @@
 var a18454 =
 [
-    [ "HandleForceCast", "da/dec/a18454.html#accc757e0a23103242865f0ce3085f9d9", null ],
-    [ "Load", "da/dec/a18454.html#a7206571378a0196a8648659628bdeece", null ],
-    [ "PrepareSpellScript", "da/dec/a18454.html#a8bb6db3eaebab00d3166b24ad1e41158", null ],
-    [ "Register", "da/dec/a18454.html#ace665321732f59f13b2ef831c71c2f18", null ]
+    [ "npc_green_dragon_combat_triggerAI", "d8/d24/a18458.html", "d8/d24/a18458" ],
+    [ "npc_green_dragon_combat_trigger", "da/dec/a18454.html#acec675494f5e5e9609bf34b7f25cb569", null ],
+    [ "GetAI", "da/dec/a18454.html#a945b7cd0084873c17d52b3c2cc3ede22", null ]
 ];

@@ -1,6 +1,9 @@
 var a10898 =
 [
-    [ "ClientOpcodeHandler", "d1/d86/a04746.html#ga975b7c1e941b9ad11164cc5b0cf3f557", null ],
-    [ "Call", "d1/d86/a04746.html#gae6c5104e6c75c2e88a3d8dfcf9e63678", null ],
-    [ "ProcessingPlace", "d1/d86/a04746.html#gaccb7f451536a1a56ba072a82202e5a53", null ]
+    [ "TotemCreated", "d2/db6/a10898.html#a24c9e483d1edb526330311c719d750df", null ],
+    [ "Write", "d2/db6/a10898.html#a554900ae7442f00a63c983ea7ea74510", null ],
+    [ "Duration", "d2/db6/a10898.html#aff6335b86ac051bccb623124905c7180", null ],
+    [ "Slot", "d2/db6/a10898.html#a0889c816fbef728f1a0a6c530c801eac", null ],
+    [ "SpellID", "d2/db6/a10898.html#a2fe9f98b653d7c2afcf3166e86f3756e", null ],
+    [ "Totem", "d2/db6/a10898.html#a684d15c5368e8065c78e9320eebb676b", null ]
 ];

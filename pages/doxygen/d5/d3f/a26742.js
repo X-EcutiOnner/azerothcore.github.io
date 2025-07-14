@@ -1,6 +1,6 @@
 var a26742 =
 [
-    [ "HandleAfterHit", "d5/d3f/a26742.html#a177bcf10d6b8fa586ff0cac3834367f9", null ],
-    [ "PrepareSpellScript", "d5/d3f/a26742.html#ac16ef2ff92440deab6c69f4824bdd619", null ],
-    [ "Register", "d5/d3f/a26742.html#a46fe3d7ebd663d1cb27aa473a56e81eb", null ]
+    [ "HandleAuraApply", "d5/d3f/a26742.html#a19d8103126a6446fb5ade53d2b5d0ddb", null ],
+    [ "PrepareAuraScript", "d5/d3f/a26742.html#a7596065e5ffcacf099a5984f5d940c11", null ],
+    [ "Register", "d5/d3f/a26742.html#a8efa76b28dddad68fee132f37791f231", null ]
 ];

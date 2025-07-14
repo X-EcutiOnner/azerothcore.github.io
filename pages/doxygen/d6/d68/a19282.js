@@ -1,6 +1,8 @@
 var a19282 =
 [
-    [ "boss_uromAI", "d5/dbc/a19286.html", "d5/dbc/a19286" ],
-    [ "boss_urom", "d6/d68/a19282.html#ae85d0bb54d3bf6571bec9d35f31a3e25", null ],
-    [ "GetAI", "d6/d68/a19282.html#ac381b851f3cc746fb323ff238892c537", null ]
+    [ "FilterTargets", "d6/d68/a19282.html#af6700817fd92dbe495e20d5c43b5d6b5", null ],
+    [ "Load", "d6/d68/a19282.html#a639105c26214d9887b84a482ca93eb26", null ],
+    [ "PrepareSpellScript", "d6/d68/a19282.html#a354ae20be436528b16095d4cd8d37859", null ],
+    [ "Register", "d6/d68/a19282.html#a5fcc9cc654d6495f535600a6eef4c968", null ],
+    [ "DrakeGUID", "d6/d68/a19282.html#ad4bbd7d559cdcc21ae5fafae75cd8eb3", null ]
 ];

@@ -1,7 +1,6 @@
 var a20046 =
 [
-    [ "HandleAfterHit", "de/df6/a20046.html#a75953cbb3a288fd373e602ed07d84441", null ],
-    [ "PrepareSpellScript", "de/df6/a20046.html#a55c604f072fd0bbdcb886635fb53eaa8", null ],
-    [ "Register", "de/df6/a20046.html#af963f0dcdf2a1bc040a597c06983f0a7", null ],
-    [ "Validate", "de/df6/a20046.html#aea2b951dd2353800958f654df58d8fd8", null ]
+    [ "boss_freya_elder_brightleafAI", "df/d2b/a20050.html", "df/d2b/a20050" ],
+    [ "boss_freya_elder_brightleaf", "de/df6/a20046.html#a9b1539b37912ef5ae46d5926bf2e0f40", null ],
+    [ "GetAI", "de/df6/a20046.html#a3c39424ecf97ced8c2a962baff5ae342", null ]
 ];

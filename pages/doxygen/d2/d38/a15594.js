@@ -1,10 +1,13 @@
 var a15594 =
 [
-    [ "npc_ameAI", "d2/d38/a15594.html#ad3d0ee584859b2b0fb7c6c5dbf204ad6", null ],
-    [ "JustDied", "d2/d38/a15594.html#a9b77f94f112477509c3163945ceb8201", null ],
-    [ "JustSummoned", "d2/d38/a15594.html#ab09c72c4ea50313c23a53d3862aeddea", null ],
-    [ "Reset", "d2/d38/a15594.html#a0bda0f95bd97b9e755a745a8ea41ba49", null ],
-    [ "UpdateAI", "d2/d38/a15594.html#a0a073e4c216985607aa51099044ff6c5", null ],
-    [ "WaypointReached", "d2/d38/a15594.html#a44b06a6a977d20b03ed663f1090ed43c", null ],
-    [ "DemoralizingShoutTimer", "d2/d38/a15594.html#ab5d1786735adea4bce1bba8adf42a877", null ]
+    [ "npc_aquementasAI", "d2/d38/a15594.html#aad63986cdb8a65c528af3ccd114d2041", null ],
+    [ "JustEngagedWith", "d2/d38/a15594.html#a2c12ee9c0bb94a1fcfa23c4279aea72f", null ],
+    [ "Reset", "d2/d38/a15594.html#af71a196ba667c2a8f05940ec7ec43b5e", null ],
+    [ "SendItem", "d2/d38/a15594.html#a60bafbd70783411236dcf3d0bfe244de", null ],
+    [ "UpdateAI", "d2/d38/a15594.html#adc5936d7648e05c98a2cdc9998aa4c6a", null ],
+    [ "AquaJetTimer", "d2/d38/a15594.html#a8506acc69436af869d1404bd95109e68", null ],
+    [ "FrostShockTimer", "d2/d38/a15594.html#ad52c62a0fd8de98b194596dbc998c03d", null ],
+    [ "isFriendly", "d2/d38/a15594.html#a9ac02cfc998bda26a5c531a9f7dbf7c4", null ],
+    [ "SendItemTimer", "d2/d38/a15594.html#a3a0883b43056b176ef2ae55673adacf3", null ],
+    [ "SwitchFactionTimer", "d2/d38/a15594.html#a46f64b9883ae30c3f8d677a3b85a8c6f", null ]
 ];

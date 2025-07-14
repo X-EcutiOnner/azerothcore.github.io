@@ -1,7 +1,7 @@
 var a26070 =
 [
-    [ "FilterTargets", "d4/d6d/a26070.html#ad679149423fda97ad5744318520022b1", null ],
-    [ "PrepareSpellScript", "d4/d6d/a26070.html#ac57c48690c5ad1b907f56287aee949a4", null ],
-    [ "Register", "d4/d6d/a26070.html#aea9b3a6cc4abae242bde76634bcbacd3", null ],
-    [ "Validate", "d4/d6d/a26070.html#a2c755f4ce5c3736dd0b0dd79341a4570", null ]
+    [ "HandleDummy", "d4/d6d/a26070.html#a82ff05f6150750ecb6ef3b5f8c40f703", null ],
+    [ "PrepareSpellScript", "d4/d6d/a26070.html#a6856f05f2cc25267f1d3023d3cb48dc2", null ],
+    [ "Register", "d4/d6d/a26070.html#adadd0254d68281ac1063bcc57574ed77", null ],
+    [ "Validate", "d4/d6d/a26070.html#a61923f636ad8b3d48eb2dbc6a1803527", null ]
 ];

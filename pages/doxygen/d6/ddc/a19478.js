@@ -1,6 +1,6 @@
 var a19478 =
 [
-    [ "boss_sjonnirAI", "d2/dfd/a19482.html", "d2/dfd/a19482" ],
-    [ "boss_sjonnir", "d6/ddc/a19478.html#a8bb9b10778a2dedcde3d4ced44bc13f1", null ],
-    [ "GetAI", "d6/ddc/a19478.html#a0bb79667d9d80f0c49e30fa0547c6062", null ]
+    [ "boss_bjarngrimAI", "d2/dfd/a19482.html", "d2/dfd/a19482" ],
+    [ "boss_bjarngrim", "d6/ddc/a19478.html#ab509688547d41ec1fd094fdc45291959", null ],
+    [ "GetAI", "d6/ddc/a19478.html#aff6455d2a327bbf3426d10a07f7b0e44", null ]
 ];

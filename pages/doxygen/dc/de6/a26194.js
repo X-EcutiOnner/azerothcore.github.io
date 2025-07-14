@@ -1,8 +1,10 @@
 var a26194 =
 [
-    [ "HandleDummy", "dc/de6/a26194.html#ae396c96647e36da357bdc70e11e3145f", null ],
-    [ "Load", "dc/de6/a26194.html#a2b4811bf7e60361e13bc382e62173cee", null ],
-    [ "PrepareSpellScript", "dc/de6/a26194.html#ac97d07fb0d964bf3fb29d8bee57fc8e7", null ],
-    [ "Register", "dc/de6/a26194.html#a7c6aa891b012a0e1820fbe67976d68fd", null ],
-    [ "count", "dc/de6/a26194.html#a73358b2272ad12faef006b1ef633cac0", null ]
+    [ "CheckProc", "dc/de6/a26194.html#adce0da60782bcdadbb42ec1c73fddec1", null ],
+    [ "HandleProc", "dc/de6/a26194.html#a82218c6f6319c60c26a7d4ec01b64bf9", null ],
+    [ "Load", "dc/de6/a26194.html#ab9054a6d771022e4bf2b495c30ad8361", null ],
+    [ "PrepareAuraScript", "dc/de6/a26194.html#ab8f483be4d01aa2460c90b043d7a441b", null ],
+    [ "Register", "dc/de6/a26194.html#a4cb08499767ab58f0e525c382b662fbd", null ],
+    [ "Validate", "dc/de6/a26194.html#aa6165f28706d49940dd1f62065631119", null ],
+    [ "_procTarget", "dc/de6/a26194.html#a7b9426e18b454bf631992518c2bdbde0", null ]
 ];

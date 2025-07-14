@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/game/Battlegrounds/Zones/BattlegroundNA.h File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/game/Tools/PlayerDump.h File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -107,136 +107,155 @@ $(document).ready(function(){initNavTree('da/d46/a00665.html','../../'); initRes
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
 <a href="#enum-members">Enumerations</a>  </div>
-  <div class="headertitle"><div class="title">BattlegroundNA.h File Reference</div></div>
+  <div class="headertitle"><div class="title">PlayerDump.h File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">Arena.h</a>&quot;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">ObjectGuid.h</a>&quot;</code><br />
+<code>#include &lt;set&gt;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/dbe/a07408.html">BattlegroundNA</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d35/a11438.html">PlayerDump</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dbe/a11442.html">PlayerDumpWriter</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/db0/a11446.html">PlayerDumpReader</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
 Enumerations</h2></td></tr>
-<tr class="memitem:aa6ddc80a19a5d68782bca5f23b651ffc"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d46/a00665.html#aa6ddc80a19a5d68782bca5f23b651ffc">BattlegroundNAObjectTypes</a> { <br />
-&#160;&#160;<a class="el" href="../../da/d46/a00665.html#aa6ddc80a19a5d68782bca5f23b651ffca51bc6ecc32ca4cab5dfc799e14edfdc9">BG_NA_OBJECT_DOOR_1</a> = 0
+<tr class="memitem:ad4739d865080bb5590831b606365e7ef"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d46/a00665.html#ad4739d865080bb5590831b606365e7ef">DumpTableType</a> { <br />
+&#160;&#160;<a class="el" href="../../da/d46/a00665.html#ad4739d865080bb5590831b606365e7efaea3cb16043024e5fdfc4f3301d2df323">DTT_CHARACTER</a>
 , <br />
-&#160;&#160;<a class="el" href="../../da/d46/a00665.html#aa6ddc80a19a5d68782bca5f23b651ffcaa22fe8f33675b8eac05c69224d71fc5f">BG_NA_OBJECT_DOOR_2</a> = 1
+&#160;&#160;<a class="el" href="../../da/d46/a00665.html#ad4739d865080bb5590831b606365e7efa3c784c38ccd07be78692e3e03bb53d94">DTT_CHAR_TABLE</a>
 , <br />
-&#160;&#160;<a class="el" href="../../da/d46/a00665.html#aa6ddc80a19a5d68782bca5f23b651ffcac72fe751e3b1f451e48ee8ac82c78370">BG_NA_OBJECT_DOOR_3</a> = 2
+&#160;&#160;<a class="el" href="../../da/d46/a00665.html#ad4739d865080bb5590831b606365e7efa0588b27b8e9c5cd1cd20d4324cad45de">DTT_EQSET_TABLE</a>
 , <br />
-&#160;&#160;<a class="el" href="../../da/d46/a00665.html#aa6ddc80a19a5d68782bca5f23b651ffca5690093aa04635e30731d6b165331299">BG_NA_OBJECT_DOOR_4</a> = 3
+&#160;&#160;<a class="el" href="../../da/d46/a00665.html#ad4739d865080bb5590831b606365e7efa137a1112df8b9582403fec12c50fea7f">DTT_INVENTORY</a>
 , <br />
-&#160;&#160;<a class="el" href="../../da/d46/a00665.html#aa6ddc80a19a5d68782bca5f23b651ffcac1c0e18a004c1daaae690b77cb61e340">BG_NA_OBJECT_BUFF_1</a> = 4
+&#160;&#160;<a class="el" href="../../da/d46/a00665.html#ad4739d865080bb5590831b606365e7efa581ecbcaf9623d952b28fd4e964ae67d">DTT_MAIL</a>
 , <br />
-&#160;&#160;<a class="el" href="../../da/d46/a00665.html#aa6ddc80a19a5d68782bca5f23b651ffca87f6c8115cba6b3e3c8f30d7845108de">BG_NA_OBJECT_BUFF_2</a> = 5
+&#160;&#160;<a class="el" href="../../da/d46/a00665.html#ad4739d865080bb5590831b606365e7efa917099d0dd625e7aa46b6358fb4c036b">DTT_MAIL_ITEM</a>
 , <br />
-&#160;&#160;<a class="el" href="../../da/d46/a00665.html#aa6ddc80a19a5d68782bca5f23b651ffcaa4f00f50070659c120fae25ccaf3a362">BG_NA_OBJECT_READY_MARKER_1</a> = 6
+&#160;&#160;<a class="el" href="../../da/d46/a00665.html#ad4739d865080bb5590831b606365e7efad5be0dba7076e09532f3eb8760b8501d">DTT_ITEM</a>
 , <br />
-&#160;&#160;<a class="el" href="../../da/d46/a00665.html#aa6ddc80a19a5d68782bca5f23b651ffcacf5a04e41e8a9fc5cadcc3448f88213c">BG_NA_OBJECT_READY_MARKER_2</a> = 7
+&#160;&#160;<a class="el" href="../../da/d46/a00665.html#ad4739d865080bb5590831b606365e7efadead833bce15df38e80b9eee85b1d847">DTT_ITEM_GIFT</a>
 , <br />
-&#160;&#160;<a class="el" href="../../da/d46/a00665.html#aa6ddc80a19a5d68782bca5f23b651ffca68f38c2d23db000bca22be2fb9cc9f8b">BG_NA_OBJECT_MAX</a> = 8
+&#160;&#160;<a class="el" href="../../da/d46/a00665.html#ad4739d865080bb5590831b606365e7efacb52988d860dbf41c2e2a5e2650d95c8">DTT_PET</a>
+, <br />
+&#160;&#160;<a class="el" href="../../da/d46/a00665.html#ad4739d865080bb5590831b606365e7efa4b50591bf81a27c7f6300f7733b14ac4">DTT_PET_TABLE</a>
 <br />
  }</td></tr>
-<tr class="separator:aa6ddc80a19a5d68782bca5f23b651ffc"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:add49f720fa08ffa96e26473cae2b61a9"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d46/a00665.html#add49f720fa08ffa96e26473cae2b61a9">BattlegroundNAGameObjects</a> { <br />
-&#160;&#160;<a class="el" href="../../da/d46/a00665.html#add49f720fa08ffa96e26473cae2b61a9a1316dbe197353489e03213d3277f32ff">BG_NA_OBJECT_TYPE_DOOR_1</a> = 183978
+<tr class="separator:ad4739d865080bb5590831b606365e7ef"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4471667403db9bc7532f371d28743866"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d46/a00665.html#a4471667403db9bc7532f371d28743866">DumpReturn</a> { <br />
+&#160;&#160;<a class="el" href="../../da/d46/a00665.html#a4471667403db9bc7532f371d28743866a6516d3543697022dbf635913b248e48e">DUMP_SUCCESS</a>
 , <br />
-&#160;&#160;<a class="el" href="../../da/d46/a00665.html#add49f720fa08ffa96e26473cae2b61a9a20f05476fbcb6371766b7ae3ed489890">BG_NA_OBJECT_TYPE_DOOR_2</a> = 183980
+&#160;&#160;<a class="el" href="../../da/d46/a00665.html#a4471667403db9bc7532f371d28743866a01a5aec7fbe2bac9208d139b46a23656">DUMP_FILE_OPEN_ERROR</a>
 , <br />
-&#160;&#160;<a class="el" href="../../da/d46/a00665.html#add49f720fa08ffa96e26473cae2b61a9ae0d1716599d048803d55154e63f7a3a5">BG_NA_OBJECT_TYPE_DOOR_3</a> = 183977
+&#160;&#160;<a class="el" href="../../da/d46/a00665.html#a4471667403db9bc7532f371d28743866a73b27eff0adff2ab7bfd73e34aeb307d">DUMP_TOO_MANY_CHARS</a>
 , <br />
-&#160;&#160;<a class="el" href="../../da/d46/a00665.html#add49f720fa08ffa96e26473cae2b61a9af563fe3ddbb78a9d4d6f2a22479077db">BG_NA_OBJECT_TYPE_DOOR_4</a> = 183979
+&#160;&#160;<a class="el" href="../../da/d46/a00665.html#a4471667403db9bc7532f371d28743866a86acf22616e301a2ffef9ba80e227ed6">DUMP_FILE_BROKEN</a>
 , <br />
-&#160;&#160;<a class="el" href="../../da/d46/a00665.html#add49f720fa08ffa96e26473cae2b61a9aba131a1275e72b2445749ef2c5689f96">BG_NA_OBJECT_TYPE_BUFF_1</a> = 184663
-, <br />
-&#160;&#160;<a class="el" href="../../da/d46/a00665.html#add49f720fa08ffa96e26473cae2b61a9a7c0aab8f173d7f00439a05931bd2925c">BG_NA_OBJECT_TYPE_BUFF_2</a> = 184664
+&#160;&#160;<a class="el" href="../../da/d46/a00665.html#a4471667403db9bc7532f371d28743866a08aa6d880c4d2da0ad4c8c1b27a5cc47">DUMP_CHARACTER_DELETED</a>
 <br />
  }</td></tr>
-<tr class="separator:add49f720fa08ffa96e26473cae2b61a9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="separator:a4471667403db9bc7532f371d28743866"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Enumeration Type Documentation</h2>
-<a id="add49f720fa08ffa96e26473cae2b61a9" name="add49f720fa08ffa96e26473cae2b61a9"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#add49f720fa08ffa96e26473cae2b61a9">&#9670;&#160;</a></span>BattlegroundNAGameObjects</h2>
+<a id="a4471667403db9bc7532f371d28743866" name="a4471667403db9bc7532f371d28743866"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4471667403db9bc7532f371d28743866">&#9670;&#160;</a></span>DumpReturn</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">enum <a class="el" href="../../da/d46/a00665.html#add49f720fa08ffa96e26473cae2b61a9">BattlegroundNAGameObjects</a></td>
+          <td class="memname">enum <a class="el" href="../../da/d46/a00665.html#a4471667403db9bc7532f371d28743866">DumpReturn</a></td>
         </tr>
       </table>
 </div><div class="memdoc">
 <table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="add49f720fa08ffa96e26473cae2b61a9a1316dbe197353489e03213d3277f32ff" name="add49f720fa08ffa96e26473cae2b61a9a1316dbe197353489e03213d3277f32ff"></a>BG_NA_OBJECT_TYPE_DOOR_1&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="add49f720fa08ffa96e26473cae2b61a9a20f05476fbcb6371766b7ae3ed489890" name="add49f720fa08ffa96e26473cae2b61a9a20f05476fbcb6371766b7ae3ed489890"></a>BG_NA_OBJECT_TYPE_DOOR_2&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="add49f720fa08ffa96e26473cae2b61a9ae0d1716599d048803d55154e63f7a3a5" name="add49f720fa08ffa96e26473cae2b61a9ae0d1716599d048803d55154e63f7a3a5"></a>BG_NA_OBJECT_TYPE_DOOR_3&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="add49f720fa08ffa96e26473cae2b61a9af563fe3ddbb78a9d4d6f2a22479077db" name="add49f720fa08ffa96e26473cae2b61a9af563fe3ddbb78a9d4d6f2a22479077db"></a>BG_NA_OBJECT_TYPE_DOOR_4&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="add49f720fa08ffa96e26473cae2b61a9aba131a1275e72b2445749ef2c5689f96" name="add49f720fa08ffa96e26473cae2b61a9aba131a1275e72b2445749ef2c5689f96"></a>BG_NA_OBJECT_TYPE_BUFF_1&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="add49f720fa08ffa96e26473cae2b61a9a7c0aab8f173d7f00439a05931bd2925c" name="add49f720fa08ffa96e26473cae2b61a9a7c0aab8f173d7f00439a05931bd2925c"></a>BG_NA_OBJECT_TYPE_BUFF_2&#160;</td><td class="fielddoc"></td></tr>
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a4471667403db9bc7532f371d28743866a6516d3543697022dbf635913b248e48e" name="a4471667403db9bc7532f371d28743866a6516d3543697022dbf635913b248e48e"></a>DUMP_SUCCESS&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a4471667403db9bc7532f371d28743866a01a5aec7fbe2bac9208d139b46a23656" name="a4471667403db9bc7532f371d28743866a01a5aec7fbe2bac9208d139b46a23656"></a>DUMP_FILE_OPEN_ERROR&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a4471667403db9bc7532f371d28743866a73b27eff0adff2ab7bfd73e34aeb307d" name="a4471667403db9bc7532f371d28743866a73b27eff0adff2ab7bfd73e34aeb307d"></a>DUMP_TOO_MANY_CHARS&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a4471667403db9bc7532f371d28743866a86acf22616e301a2ffef9ba80e227ed6" name="a4471667403db9bc7532f371d28743866a86acf22616e301a2ffef9ba80e227ed6"></a>DUMP_FILE_BROKEN&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a4471667403db9bc7532f371d28743866a08aa6d880c4d2da0ad4c8c1b27a5cc47" name="a4471667403db9bc7532f371d28743866a08aa6d880c4d2da0ad4c8c1b27a5cc47"></a>DUMP_CHARACTER_DELETED&#160;</td><td class="fielddoc"></td></tr>
 </table>
-<div class="fragment"><div class="line"><span class="lineno">   37</span>{</div>
-<div class="line"><span class="lineno">   38</span>    <a class="code hl_enumvalue" href="../../da/d46/a00665.html#add49f720fa08ffa96e26473cae2b61a9a1316dbe197353489e03213d3277f32ff">BG_NA_OBJECT_TYPE_DOOR_1</a>    = 183978,</div>
-<div class="line"><span class="lineno">   39</span>    <a class="code hl_enumvalue" href="../../da/d46/a00665.html#add49f720fa08ffa96e26473cae2b61a9a20f05476fbcb6371766b7ae3ed489890">BG_NA_OBJECT_TYPE_DOOR_2</a>    = 183980,</div>
-<div class="line"><span class="lineno">   40</span>    <a class="code hl_enumvalue" href="../../da/d46/a00665.html#add49f720fa08ffa96e26473cae2b61a9ae0d1716599d048803d55154e63f7a3a5">BG_NA_OBJECT_TYPE_DOOR_3</a>    = 183977,</div>
-<div class="line"><span class="lineno">   41</span>    <a class="code hl_enumvalue" href="../../da/d46/a00665.html#add49f720fa08ffa96e26473cae2b61a9af563fe3ddbb78a9d4d6f2a22479077db">BG_NA_OBJECT_TYPE_DOOR_4</a>    = 183979,</div>
-<div class="line"><span class="lineno">   42</span>    <a class="code hl_enumvalue" href="../../da/d46/a00665.html#add49f720fa08ffa96e26473cae2b61a9aba131a1275e72b2445749ef2c5689f96">BG_NA_OBJECT_TYPE_BUFF_1</a>    = 184663,</div>
-<div class="line"><span class="lineno">   43</span>    <a class="code hl_enumvalue" href="../../da/d46/a00665.html#add49f720fa08ffa96e26473cae2b61a9a7c0aab8f173d7f00439a05931bd2925c">BG_NA_OBJECT_TYPE_BUFF_2</a>    = 184664</div>
-<div class="line"><span class="lineno">   44</span>};</div>
-<div class="ttc" id="aa00665_html_add49f720fa08ffa96e26473cae2b61a9a1316dbe197353489e03213d3277f32ff"><div class="ttname"><a href="../../da/d46/a00665.html#add49f720fa08ffa96e26473cae2b61a9a1316dbe197353489e03213d3277f32ff">BG_NA_OBJECT_TYPE_DOOR_1</a></div><div class="ttdeci">@ BG_NA_OBJECT_TYPE_DOOR_1</div><div class="ttdef"><b>Definition:</b> BattlegroundNA.h:38</div></div>
-<div class="ttc" id="aa00665_html_add49f720fa08ffa96e26473cae2b61a9a20f05476fbcb6371766b7ae3ed489890"><div class="ttname"><a href="../../da/d46/a00665.html#add49f720fa08ffa96e26473cae2b61a9a20f05476fbcb6371766b7ae3ed489890">BG_NA_OBJECT_TYPE_DOOR_2</a></div><div class="ttdeci">@ BG_NA_OBJECT_TYPE_DOOR_2</div><div class="ttdef"><b>Definition:</b> BattlegroundNA.h:39</div></div>
-<div class="ttc" id="aa00665_html_add49f720fa08ffa96e26473cae2b61a9a7c0aab8f173d7f00439a05931bd2925c"><div class="ttname"><a href="../../da/d46/a00665.html#add49f720fa08ffa96e26473cae2b61a9a7c0aab8f173d7f00439a05931bd2925c">BG_NA_OBJECT_TYPE_BUFF_2</a></div><div class="ttdeci">@ BG_NA_OBJECT_TYPE_BUFF_2</div><div class="ttdef"><b>Definition:</b> BattlegroundNA.h:43</div></div>
-<div class="ttc" id="aa00665_html_add49f720fa08ffa96e26473cae2b61a9aba131a1275e72b2445749ef2c5689f96"><div class="ttname"><a href="../../da/d46/a00665.html#add49f720fa08ffa96e26473cae2b61a9aba131a1275e72b2445749ef2c5689f96">BG_NA_OBJECT_TYPE_BUFF_1</a></div><div class="ttdeci">@ BG_NA_OBJECT_TYPE_BUFF_1</div><div class="ttdef"><b>Definition:</b> BattlegroundNA.h:42</div></div>
-<div class="ttc" id="aa00665_html_add49f720fa08ffa96e26473cae2b61a9ae0d1716599d048803d55154e63f7a3a5"><div class="ttname"><a href="../../da/d46/a00665.html#add49f720fa08ffa96e26473cae2b61a9ae0d1716599d048803d55154e63f7a3a5">BG_NA_OBJECT_TYPE_DOOR_3</a></div><div class="ttdeci">@ BG_NA_OBJECT_TYPE_DOOR_3</div><div class="ttdef"><b>Definition:</b> BattlegroundNA.h:40</div></div>
-<div class="ttc" id="aa00665_html_add49f720fa08ffa96e26473cae2b61a9af563fe3ddbb78a9d4d6f2a22479077db"><div class="ttname"><a href="../../da/d46/a00665.html#add49f720fa08ffa96e26473cae2b61a9af563fe3ddbb78a9d4d6f2a22479077db">BG_NA_OBJECT_TYPE_DOOR_4</a></div><div class="ttdeci">@ BG_NA_OBJECT_TYPE_DOOR_4</div><div class="ttdef"><b>Definition:</b> BattlegroundNA.h:41</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   53</span>{</div>
+<div class="line"><span class="lineno">   54</span>    <a class="code hl_enumvalue" href="../../da/d46/a00665.html#a4471667403db9bc7532f371d28743866a6516d3543697022dbf635913b248e48e">DUMP_SUCCESS</a>,</div>
+<div class="line"><span class="lineno">   55</span>    <a class="code hl_enumvalue" href="../../da/d46/a00665.html#a4471667403db9bc7532f371d28743866a01a5aec7fbe2bac9208d139b46a23656">DUMP_FILE_OPEN_ERROR</a>,</div>
+<div class="line"><span class="lineno">   56</span>    <a class="code hl_enumvalue" href="../../da/d46/a00665.html#a4471667403db9bc7532f371d28743866a73b27eff0adff2ab7bfd73e34aeb307d">DUMP_TOO_MANY_CHARS</a>,</div>
+<div class="line"><span class="lineno">   57</span>    <a class="code hl_enumvalue" href="../../da/d46/a00665.html#a4471667403db9bc7532f371d28743866a86acf22616e301a2ffef9ba80e227ed6">DUMP_FILE_BROKEN</a>,</div>
+<div class="line"><span class="lineno">   58</span>    <a class="code hl_enumvalue" href="../../da/d46/a00665.html#a4471667403db9bc7532f371d28743866a08aa6d880c4d2da0ad4c8c1b27a5cc47">DUMP_CHARACTER_DELETED</a></div>
+<div class="line"><span class="lineno">   59</span>};</div>
+<div class="ttc" id="aa00665_html_a4471667403db9bc7532f371d28743866a01a5aec7fbe2bac9208d139b46a23656"><div class="ttname"><a href="../../da/d46/a00665.html#a4471667403db9bc7532f371d28743866a01a5aec7fbe2bac9208d139b46a23656">DUMP_FILE_OPEN_ERROR</a></div><div class="ttdeci">@ DUMP_FILE_OPEN_ERROR</div><div class="ttdef"><b>Definition:</b> PlayerDump.h:55</div></div>
+<div class="ttc" id="aa00665_html_a4471667403db9bc7532f371d28743866a08aa6d880c4d2da0ad4c8c1b27a5cc47"><div class="ttname"><a href="../../da/d46/a00665.html#a4471667403db9bc7532f371d28743866a08aa6d880c4d2da0ad4c8c1b27a5cc47">DUMP_CHARACTER_DELETED</a></div><div class="ttdeci">@ DUMP_CHARACTER_DELETED</div><div class="ttdef"><b>Definition:</b> PlayerDump.h:58</div></div>
+<div class="ttc" id="aa00665_html_a4471667403db9bc7532f371d28743866a6516d3543697022dbf635913b248e48e"><div class="ttname"><a href="../../da/d46/a00665.html#a4471667403db9bc7532f371d28743866a6516d3543697022dbf635913b248e48e">DUMP_SUCCESS</a></div><div class="ttdeci">@ DUMP_SUCCESS</div><div class="ttdef"><b>Definition:</b> PlayerDump.h:54</div></div>
+<div class="ttc" id="aa00665_html_a4471667403db9bc7532f371d28743866a73b27eff0adff2ab7bfd73e34aeb307d"><div class="ttname"><a href="../../da/d46/a00665.html#a4471667403db9bc7532f371d28743866a73b27eff0adff2ab7bfd73e34aeb307d">DUMP_TOO_MANY_CHARS</a></div><div class="ttdeci">@ DUMP_TOO_MANY_CHARS</div><div class="ttdef"><b>Definition:</b> PlayerDump.h:56</div></div>
+<div class="ttc" id="aa00665_html_a4471667403db9bc7532f371d28743866a86acf22616e301a2ffef9ba80e227ed6"><div class="ttname"><a href="../../da/d46/a00665.html#a4471667403db9bc7532f371d28743866a86acf22616e301a2ffef9ba80e227ed6">DUMP_FILE_BROKEN</a></div><div class="ttdeci">@ DUMP_FILE_BROKEN</div><div class="ttdef"><b>Definition:</b> PlayerDump.h:57</div></div>
 </div><!-- fragment -->
 </div>
 </div>
-<a id="aa6ddc80a19a5d68782bca5f23b651ffc" name="aa6ddc80a19a5d68782bca5f23b651ffc"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa6ddc80a19a5d68782bca5f23b651ffc">&#9670;&#160;</a></span>BattlegroundNAObjectTypes</h2>
+<a id="ad4739d865080bb5590831b606365e7ef" name="ad4739d865080bb5590831b606365e7ef"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad4739d865080bb5590831b606365e7ef">&#9670;&#160;</a></span>DumpTableType</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">enum <a class="el" href="../../da/d46/a00665.html#aa6ddc80a19a5d68782bca5f23b651ffc">BattlegroundNAObjectTypes</a></td>
+          <td class="memname">enum <a class="el" href="../../da/d46/a00665.html#ad4739d865080bb5590831b606365e7ef">DumpTableType</a></td>
         </tr>
       </table>
 </div><div class="memdoc">
 <table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="aa6ddc80a19a5d68782bca5f23b651ffca51bc6ecc32ca4cab5dfc799e14edfdc9" name="aa6ddc80a19a5d68782bca5f23b651ffca51bc6ecc32ca4cab5dfc799e14edfdc9"></a>BG_NA_OBJECT_DOOR_1&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aa6ddc80a19a5d68782bca5f23b651ffcaa22fe8f33675b8eac05c69224d71fc5f" name="aa6ddc80a19a5d68782bca5f23b651ffcaa22fe8f33675b8eac05c69224d71fc5f"></a>BG_NA_OBJECT_DOOR_2&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aa6ddc80a19a5d68782bca5f23b651ffcac72fe751e3b1f451e48ee8ac82c78370" name="aa6ddc80a19a5d68782bca5f23b651ffcac72fe751e3b1f451e48ee8ac82c78370"></a>BG_NA_OBJECT_DOOR_3&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aa6ddc80a19a5d68782bca5f23b651ffca5690093aa04635e30731d6b165331299" name="aa6ddc80a19a5d68782bca5f23b651ffca5690093aa04635e30731d6b165331299"></a>BG_NA_OBJECT_DOOR_4&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aa6ddc80a19a5d68782bca5f23b651ffcac1c0e18a004c1daaae690b77cb61e340" name="aa6ddc80a19a5d68782bca5f23b651ffcac1c0e18a004c1daaae690b77cb61e340"></a>BG_NA_OBJECT_BUFF_1&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aa6ddc80a19a5d68782bca5f23b651ffca87f6c8115cba6b3e3c8f30d7845108de" name="aa6ddc80a19a5d68782bca5f23b651ffca87f6c8115cba6b3e3c8f30d7845108de"></a>BG_NA_OBJECT_BUFF_2&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aa6ddc80a19a5d68782bca5f23b651ffcaa4f00f50070659c120fae25ccaf3a362" name="aa6ddc80a19a5d68782bca5f23b651ffcaa4f00f50070659c120fae25ccaf3a362"></a>BG_NA_OBJECT_READY_MARKER_1&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aa6ddc80a19a5d68782bca5f23b651ffcacf5a04e41e8a9fc5cadcc3448f88213c" name="aa6ddc80a19a5d68782bca5f23b651ffcacf5a04e41e8a9fc5cadcc3448f88213c"></a>BG_NA_OBJECT_READY_MARKER_2&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aa6ddc80a19a5d68782bca5f23b651ffca68f38c2d23db000bca22be2fb9cc9f8b" name="aa6ddc80a19a5d68782bca5f23b651ffca68f38c2d23db000bca22be2fb9cc9f8b"></a>BG_NA_OBJECT_MAX&#160;</td><td class="fielddoc"></td></tr>
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="ad4739d865080bb5590831b606365e7efaea3cb16043024e5fdfc4f3301d2df323" name="ad4739d865080bb5590831b606365e7efaea3cb16043024e5fdfc4f3301d2df323"></a>DTT_CHARACTER&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ad4739d865080bb5590831b606365e7efa3c784c38ccd07be78692e3e03bb53d94" name="ad4739d865080bb5590831b606365e7efa3c784c38ccd07be78692e3e03bb53d94"></a>DTT_CHAR_TABLE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ad4739d865080bb5590831b606365e7efa0588b27b8e9c5cd1cd20d4324cad45de" name="ad4739d865080bb5590831b606365e7efa0588b27b8e9c5cd1cd20d4324cad45de"></a>DTT_EQSET_TABLE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ad4739d865080bb5590831b606365e7efa137a1112df8b9582403fec12c50fea7f" name="ad4739d865080bb5590831b606365e7efa137a1112df8b9582403fec12c50fea7f"></a>DTT_INVENTORY&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ad4739d865080bb5590831b606365e7efa581ecbcaf9623d952b28fd4e964ae67d" name="ad4739d865080bb5590831b606365e7efa581ecbcaf9623d952b28fd4e964ae67d"></a>DTT_MAIL&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ad4739d865080bb5590831b606365e7efa917099d0dd625e7aa46b6358fb4c036b" name="ad4739d865080bb5590831b606365e7efa917099d0dd625e7aa46b6358fb4c036b"></a>DTT_MAIL_ITEM&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ad4739d865080bb5590831b606365e7efad5be0dba7076e09532f3eb8760b8501d" name="ad4739d865080bb5590831b606365e7efad5be0dba7076e09532f3eb8760b8501d"></a>DTT_ITEM&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ad4739d865080bb5590831b606365e7efadead833bce15df38e80b9eee85b1d847" name="ad4739d865080bb5590831b606365e7efadead833bce15df38e80b9eee85b1d847"></a>DTT_ITEM_GIFT&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ad4739d865080bb5590831b606365e7efacb52988d860dbf41c2e2a5e2650d95c8" name="ad4739d865080bb5590831b606365e7efacb52988d860dbf41c2e2a5e2650d95c8"></a>DTT_PET&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ad4739d865080bb5590831b606365e7efa4b50591bf81a27c7f6300f7733b14ac4" name="ad4739d865080bb5590831b606365e7efa4b50591bf81a27c7f6300f7733b14ac4"></a>DTT_PET_TABLE&#160;</td><td class="fielddoc"></td></tr>
 </table>
-<div class="fragment"><div class="line"><span class="lineno">   24</span>{</div>
-<div class="line"><span class="lineno">   25</span>    <a class="code hl_enumvalue" href="../../da/d46/a00665.html#aa6ddc80a19a5d68782bca5f23b651ffca51bc6ecc32ca4cab5dfc799e14edfdc9">BG_NA_OBJECT_DOOR_1</a>         = 0,</div>
-<div class="line"><span class="lineno">   26</span>    <a class="code hl_enumvalue" href="../../da/d46/a00665.html#aa6ddc80a19a5d68782bca5f23b651ffcaa22fe8f33675b8eac05c69224d71fc5f">BG_NA_OBJECT_DOOR_2</a>         = 1,</div>
-<div class="line"><span class="lineno">   27</span>    <a class="code hl_enumvalue" href="../../da/d46/a00665.html#aa6ddc80a19a5d68782bca5f23b651ffcac72fe751e3b1f451e48ee8ac82c78370">BG_NA_OBJECT_DOOR_3</a>         = 2,</div>
-<div class="line"><span class="lineno">   28</span>    <a class="code hl_enumvalue" href="../../da/d46/a00665.html#aa6ddc80a19a5d68782bca5f23b651ffca5690093aa04635e30731d6b165331299">BG_NA_OBJECT_DOOR_4</a>         = 3,</div>
-<div class="line"><span class="lineno">   29</span>    <a class="code hl_enumvalue" href="../../da/d46/a00665.html#aa6ddc80a19a5d68782bca5f23b651ffcac1c0e18a004c1daaae690b77cb61e340">BG_NA_OBJECT_BUFF_1</a>         = 4,</div>
-<div class="line"><span class="lineno">   30</span>    <a class="code hl_enumvalue" href="../../da/d46/a00665.html#aa6ddc80a19a5d68782bca5f23b651ffca87f6c8115cba6b3e3c8f30d7845108de">BG_NA_OBJECT_BUFF_2</a>         = 5,</div>
-<div class="line"><span class="lineno">   31</span>    <a class="code hl_enumvalue" href="../../da/d46/a00665.html#aa6ddc80a19a5d68782bca5f23b651ffcaa4f00f50070659c120fae25ccaf3a362">BG_NA_OBJECT_READY_MARKER_1</a> = 6,</div>
-<div class="line"><span class="lineno">   32</span>    <a class="code hl_enumvalue" href="../../da/d46/a00665.html#aa6ddc80a19a5d68782bca5f23b651ffcacf5a04e41e8a9fc5cadcc3448f88213c">BG_NA_OBJECT_READY_MARKER_2</a> = 7,</div>
-<div class="line"><span class="lineno">   33</span>    <a class="code hl_enumvalue" href="../../da/d46/a00665.html#aa6ddc80a19a5d68782bca5f23b651ffca68f38c2d23db000bca22be2fb9cc9f8b">BG_NA_OBJECT_MAX</a>            = 8</div>
-<div class="line"><span class="lineno">   34</span>};</div>
-<div class="ttc" id="aa00665_html_aa6ddc80a19a5d68782bca5f23b651ffca51bc6ecc32ca4cab5dfc799e14edfdc9"><div class="ttname"><a href="../../da/d46/a00665.html#aa6ddc80a19a5d68782bca5f23b651ffca51bc6ecc32ca4cab5dfc799e14edfdc9">BG_NA_OBJECT_DOOR_1</a></div><div class="ttdeci">@ BG_NA_OBJECT_DOOR_1</div><div class="ttdef"><b>Definition:</b> BattlegroundNA.h:25</div></div>
-<div class="ttc" id="aa00665_html_aa6ddc80a19a5d68782bca5f23b651ffca5690093aa04635e30731d6b165331299"><div class="ttname"><a href="../../da/d46/a00665.html#aa6ddc80a19a5d68782bca5f23b651ffca5690093aa04635e30731d6b165331299">BG_NA_OBJECT_DOOR_4</a></div><div class="ttdeci">@ BG_NA_OBJECT_DOOR_4</div><div class="ttdef"><b>Definition:</b> BattlegroundNA.h:28</div></div>
-<div class="ttc" id="aa00665_html_aa6ddc80a19a5d68782bca5f23b651ffca68f38c2d23db000bca22be2fb9cc9f8b"><div class="ttname"><a href="../../da/d46/a00665.html#aa6ddc80a19a5d68782bca5f23b651ffca68f38c2d23db000bca22be2fb9cc9f8b">BG_NA_OBJECT_MAX</a></div><div class="ttdeci">@ BG_NA_OBJECT_MAX</div><div class="ttdef"><b>Definition:</b> BattlegroundNA.h:33</div></div>
-<div class="ttc" id="aa00665_html_aa6ddc80a19a5d68782bca5f23b651ffca87f6c8115cba6b3e3c8f30d7845108de"><div class="ttname"><a href="../../da/d46/a00665.html#aa6ddc80a19a5d68782bca5f23b651ffca87f6c8115cba6b3e3c8f30d7845108de">BG_NA_OBJECT_BUFF_2</a></div><div class="ttdeci">@ BG_NA_OBJECT_BUFF_2</div><div class="ttdef"><b>Definition:</b> BattlegroundNA.h:30</div></div>
-<div class="ttc" id="aa00665_html_aa6ddc80a19a5d68782bca5f23b651ffcaa22fe8f33675b8eac05c69224d71fc5f"><div class="ttname"><a href="../../da/d46/a00665.html#aa6ddc80a19a5d68782bca5f23b651ffcaa22fe8f33675b8eac05c69224d71fc5f">BG_NA_OBJECT_DOOR_2</a></div><div class="ttdeci">@ BG_NA_OBJECT_DOOR_2</div><div class="ttdef"><b>Definition:</b> BattlegroundNA.h:26</div></div>
-<div class="ttc" id="aa00665_html_aa6ddc80a19a5d68782bca5f23b651ffcaa4f00f50070659c120fae25ccaf3a362"><div class="ttname"><a href="../../da/d46/a00665.html#aa6ddc80a19a5d68782bca5f23b651ffcaa4f00f50070659c120fae25ccaf3a362">BG_NA_OBJECT_READY_MARKER_1</a></div><div class="ttdeci">@ BG_NA_OBJECT_READY_MARKER_1</div><div class="ttdef"><b>Definition:</b> BattlegroundNA.h:31</div></div>
-<div class="ttc" id="aa00665_html_aa6ddc80a19a5d68782bca5f23b651ffcac1c0e18a004c1daaae690b77cb61e340"><div class="ttname"><a href="../../da/d46/a00665.html#aa6ddc80a19a5d68782bca5f23b651ffcac1c0e18a004c1daaae690b77cb61e340">BG_NA_OBJECT_BUFF_1</a></div><div class="ttdeci">@ BG_NA_OBJECT_BUFF_1</div><div class="ttdef"><b>Definition:</b> BattlegroundNA.h:29</div></div>
-<div class="ttc" id="aa00665_html_aa6ddc80a19a5d68782bca5f23b651ffcac72fe751e3b1f451e48ee8ac82c78370"><div class="ttname"><a href="../../da/d46/a00665.html#aa6ddc80a19a5d68782bca5f23b651ffcac72fe751e3b1f451e48ee8ac82c78370">BG_NA_OBJECT_DOOR_3</a></div><div class="ttdeci">@ BG_NA_OBJECT_DOOR_3</div><div class="ttdef"><b>Definition:</b> BattlegroundNA.h:27</div></div>
-<div class="ttc" id="aa00665_html_aa6ddc80a19a5d68782bca5f23b651ffcacf5a04e41e8a9fc5cadcc3448f88213c"><div class="ttname"><a href="../../da/d46/a00665.html#aa6ddc80a19a5d68782bca5f23b651ffcacf5a04e41e8a9fc5cadcc3448f88213c">BG_NA_OBJECT_READY_MARKER_2</a></div><div class="ttdeci">@ BG_NA_OBJECT_READY_MARKER_2</div><div class="ttdef"><b>Definition:</b> BattlegroundNA.h:32</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   25</span>{</div>
+<div class="line"><span class="lineno">   26</span>    <a class="code hl_enumvalue" href="../../da/d46/a00665.html#ad4739d865080bb5590831b606365e7efaea3cb16043024e5fdfc4f3301d2df323">DTT_CHARACTER</a>,      <span class="comment">//                                  // characters</span></div>
+<div class="line"><span class="lineno">   27</span> </div>
+<div class="line"><span class="lineno">   28</span>    <a class="code hl_enumvalue" href="../../da/d46/a00665.html#ad4739d865080bb5590831b606365e7efa3c784c38ccd07be78692e3e03bb53d94">DTT_CHAR_TABLE</a>,     <span class="comment">//                                  // character_achievement, character_achievement_progress,</span></div>
+<div class="line"><span class="lineno">   29</span>                                                            <span class="comment">// character_action, character_aura, character_homebind,</span></div>
+<div class="line"><span class="lineno">   30</span>                                                            <span class="comment">// character_queststatus, character_queststatus_rewarded, character_reputation,</span></div>
+<div class="line"><span class="lineno">   31</span>                                                            <span class="comment">// character_spell, character_spell_cooldown, character_ticket, character_talent</span></div>
+<div class="line"><span class="lineno">   32</span> </div>
+<div class="line"><span class="lineno">   33</span>    <a class="code hl_enumvalue" href="../../da/d46/a00665.html#ad4739d865080bb5590831b606365e7efa0588b27b8e9c5cd1cd20d4324cad45de">DTT_EQSET_TABLE</a>,    <span class="comment">// &lt;- guid                          // character_equipmentsets</span></div>
+<div class="line"><span class="lineno">   34</span> </div>
+<div class="line"><span class="lineno">   35</span>    <a class="code hl_enumvalue" href="../../da/d46/a00665.html#ad4739d865080bb5590831b606365e7efa137a1112df8b9582403fec12c50fea7f">DTT_INVENTORY</a>,      <span class="comment">//    -&gt; item guids collection      // character_inventory</span></div>
+<div class="line"><span class="lineno">   36</span> </div>
+<div class="line"><span class="lineno">   37</span>    <a class="code hl_enumvalue" href="../../da/d46/a00665.html#ad4739d865080bb5590831b606365e7efa581ecbcaf9623d952b28fd4e964ae67d">DTT_MAIL</a>,           <span class="comment">//    -&gt; mail ids collection        // mail</span></div>
+<div class="line"><span class="lineno">   38</span>                        <span class="comment">//    -&gt; item_text</span></div>
+<div class="line"><span class="lineno">   39</span> </div>
+<div class="line"><span class="lineno">   40</span>    <a class="code hl_enumvalue" href="../../da/d46/a00665.html#ad4739d865080bb5590831b606365e7efa917099d0dd625e7aa46b6358fb4c036b">DTT_MAIL_ITEM</a>,      <span class="comment">// &lt;- mail ids                      // mail_items</span></div>
+<div class="line"><span class="lineno">   41</span>                        <span class="comment">//    -&gt; item guids collection</span></div>
+<div class="line"><span class="lineno">   42</span> </div>
+<div class="line"><span class="lineno">   43</span>    <a class="code hl_enumvalue" href="../../da/d46/a00665.html#ad4739d865080bb5590831b606365e7efad5be0dba7076e09532f3eb8760b8501d">DTT_ITEM</a>,           <span class="comment">// &lt;- item guids                    // item_instance</span></div>
+<div class="line"><span class="lineno">   44</span>                        <span class="comment">//    -&gt; item_text</span></div>
+<div class="line"><span class="lineno">   45</span> </div>
+<div class="line"><span class="lineno">   46</span>    <a class="code hl_enumvalue" href="../../da/d46/a00665.html#ad4739d865080bb5590831b606365e7efadead833bce15df38e80b9eee85b1d847">DTT_ITEM_GIFT</a>,      <span class="comment">// &lt;- item guids                    // character_gifts</span></div>
+<div class="line"><span class="lineno">   47</span> </div>
+<div class="line"><span class="lineno">   48</span>    <a class="code hl_enumvalue" href="../../da/d46/a00665.html#ad4739d865080bb5590831b606365e7efacb52988d860dbf41c2e2a5e2650d95c8">DTT_PET</a>,            <span class="comment">//    -&gt; pet guids collection       // character_pet</span></div>
+<div class="line"><span class="lineno">   49</span>    <a class="code hl_enumvalue" href="../../da/d46/a00665.html#ad4739d865080bb5590831b606365e7efa4b50591bf81a27c7f6300f7733b14ac4">DTT_PET_TABLE</a>       <span class="comment">// &lt;- pet guids                     // pet_aura, pet_spell, pet_spell_cooldown</span></div>
+<div class="line"><span class="lineno">   50</span>};</div>
+<div class="ttc" id="aa00665_html_ad4739d865080bb5590831b606365e7efa0588b27b8e9c5cd1cd20d4324cad45de"><div class="ttname"><a href="../../da/d46/a00665.html#ad4739d865080bb5590831b606365e7efa0588b27b8e9c5cd1cd20d4324cad45de">DTT_EQSET_TABLE</a></div><div class="ttdeci">@ DTT_EQSET_TABLE</div><div class="ttdef"><b>Definition:</b> PlayerDump.h:33</div></div>
+<div class="ttc" id="aa00665_html_ad4739d865080bb5590831b606365e7efa137a1112df8b9582403fec12c50fea7f"><div class="ttname"><a href="../../da/d46/a00665.html#ad4739d865080bb5590831b606365e7efa137a1112df8b9582403fec12c50fea7f">DTT_INVENTORY</a></div><div class="ttdeci">@ DTT_INVENTORY</div><div class="ttdef"><b>Definition:</b> PlayerDump.h:35</div></div>
+<div class="ttc" id="aa00665_html_ad4739d865080bb5590831b606365e7efa3c784c38ccd07be78692e3e03bb53d94"><div class="ttname"><a href="../../da/d46/a00665.html#ad4739d865080bb5590831b606365e7efa3c784c38ccd07be78692e3e03bb53d94">DTT_CHAR_TABLE</a></div><div class="ttdeci">@ DTT_CHAR_TABLE</div><div class="ttdef"><b>Definition:</b> PlayerDump.h:28</div></div>
+<div class="ttc" id="aa00665_html_ad4739d865080bb5590831b606365e7efa4b50591bf81a27c7f6300f7733b14ac4"><div class="ttname"><a href="../../da/d46/a00665.html#ad4739d865080bb5590831b606365e7efa4b50591bf81a27c7f6300f7733b14ac4">DTT_PET_TABLE</a></div><div class="ttdeci">@ DTT_PET_TABLE</div><div class="ttdef"><b>Definition:</b> PlayerDump.h:49</div></div>
+<div class="ttc" id="aa00665_html_ad4739d865080bb5590831b606365e7efa581ecbcaf9623d952b28fd4e964ae67d"><div class="ttname"><a href="../../da/d46/a00665.html#ad4739d865080bb5590831b606365e7efa581ecbcaf9623d952b28fd4e964ae67d">DTT_MAIL</a></div><div class="ttdeci">@ DTT_MAIL</div><div class="ttdef"><b>Definition:</b> PlayerDump.h:37</div></div>
+<div class="ttc" id="aa00665_html_ad4739d865080bb5590831b606365e7efa917099d0dd625e7aa46b6358fb4c036b"><div class="ttname"><a href="../../da/d46/a00665.html#ad4739d865080bb5590831b606365e7efa917099d0dd625e7aa46b6358fb4c036b">DTT_MAIL_ITEM</a></div><div class="ttdeci">@ DTT_MAIL_ITEM</div><div class="ttdef"><b>Definition:</b> PlayerDump.h:40</div></div>
+<div class="ttc" id="aa00665_html_ad4739d865080bb5590831b606365e7efacb52988d860dbf41c2e2a5e2650d95c8"><div class="ttname"><a href="../../da/d46/a00665.html#ad4739d865080bb5590831b606365e7efacb52988d860dbf41c2e2a5e2650d95c8">DTT_PET</a></div><div class="ttdeci">@ DTT_PET</div><div class="ttdef"><b>Definition:</b> PlayerDump.h:48</div></div>
+<div class="ttc" id="aa00665_html_ad4739d865080bb5590831b606365e7efad5be0dba7076e09532f3eb8760b8501d"><div class="ttname"><a href="../../da/d46/a00665.html#ad4739d865080bb5590831b606365e7efad5be0dba7076e09532f3eb8760b8501d">DTT_ITEM</a></div><div class="ttdeci">@ DTT_ITEM</div><div class="ttdef"><b>Definition:</b> PlayerDump.h:43</div></div>
+<div class="ttc" id="aa00665_html_ad4739d865080bb5590831b606365e7efadead833bce15df38e80b9eee85b1d847"><div class="ttname"><a href="../../da/d46/a00665.html#ad4739d865080bb5590831b606365e7efadead833bce15df38e80b9eee85b1d847">DTT_ITEM_GIFT</a></div><div class="ttdeci">@ DTT_ITEM_GIFT</div><div class="ttdef"><b>Definition:</b> PlayerDump.h:46</div></div>
+<div class="ttc" id="aa00665_html_ad4739d865080bb5590831b606365e7efaea3cb16043024e5fdfc4f3301d2df323"><div class="ttname"><a href="../../da/d46/a00665.html#ad4739d865080bb5590831b606365e7efaea3cb16043024e5fdfc4f3301d2df323">DTT_CHARACTER</a></div><div class="ttdeci">@ DTT_CHARACTER</div><div class="ttdef"><b>Definition:</b> PlayerDump.h:26</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -245,8 +264,8 @@ Enumerations</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_fc52f0b797d74b4b54bfd04593b84648.html">Battlegrounds</a></li><li class="navelem"><a class="el" href="../../dir_d9de844c1d859dc2cc6a65181dd33644.html">Zones</a></li><li class="navelem"><a class="el" href="../../da/d46/a00665.html">BattlegroundNA.h</a></li>
-    <li class="footer">Generated on Mon Jul 7 2025 20:47:21 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_f49ad253a5d89b6cfd4cfde27040fa87.html">Tools</a></li><li class="navelem"><a class="el" href="../../da/d46/a00665.html">PlayerDump.h</a></li>
+    <li class="footer">Generated on Mon Jul 14 2025 20:48:42 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

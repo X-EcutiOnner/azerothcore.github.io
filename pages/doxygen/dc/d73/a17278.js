@@ -1,6 +1,6 @@
 var a17278 =
 [
-    [ "BloodboltHitCheck", "dc/d73/a17278.html#a84873f1ec2c1e214e35d32954622e9af", null ],
-    [ "operator()", "dc/d73/a17278.html#a1eddfd7bbea8def20dcc080413af6364", null ],
-    [ "_ai", "dc/d73/a17278.html#a0a5d115c464b6e88bc1158cd858bcbec", null ]
+    [ "npc_blood_queen_lana_thelAI", "d7/dbc/a17282.html", "d7/dbc/a17282" ],
+    [ "npc_blood_queen_lana_thel", "dc/d73/a17278.html#a39adef3ae54efd4433805bd8ad4719be", null ],
+    [ "GetAI", "dc/d73/a17278.html#a02d928ac4ef1704cee2498ebe6533561", null ]
 ];

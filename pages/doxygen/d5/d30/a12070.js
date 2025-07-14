@@ -1,5 +1,6 @@
 var a12070 =
 [
-    [ "at_trigger_the_beast_movement", "d5/d30/a12070.html#a9534f4b71deab4a2a9a94a36e2946fc7", null ],
-    [ "OnTrigger", "d5/d30/a12070.html#a333d685d765497a950fde35067d876a1", null ]
+    [ "npc_blackhand_incarceratorAI", "d5/daa/a12074.html", "d5/daa/a12074" ],
+    [ "npc_blackhand_incarcerator", "d5/d30/a12070.html#a0c6bb8ea789e81803a11be57ac1b68e2", null ],
+    [ "GetAI", "d5/d30/a12070.html#a021ddf6442812f7fb698ba7fb45b9ffb", null ]
 ];

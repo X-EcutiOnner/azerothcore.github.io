@@ -1,6 +1,5 @@
 var a23822 =
 [
-    [ "HandleDummy", "d9/d9b/a23822.html#a4c1177fc89310598b6ba7cddf7f47cd1", null ],
-    [ "PrepareSpellScript", "d9/d9b/a23822.html#af511bcad63ff423bf04a430f56959f40", null ],
-    [ "Register", "d9/d9b/a23822.html#adaa4fc5294e2b0cb5bcb42f1a93a6f29", null ]
+    [ "npc_telonicus", "d9/d9b/a23822.html#af8ba6be2d39463725bbbaf7770319a93", null ],
+    [ "ScheduleEvents", "d9/d9b/a23822.html#a49501a607aeb901aa99e94d9dd0e161b", null ]
 ];

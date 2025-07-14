@@ -1,15 +1,7 @@
 var a12650 =
 [
-    [ "boss_tinhead", "d7/ded/a12650.html#aa56375e9b031db15bee833375b7a4405", null ],
-    [ "DoAction", "d7/ded/a12650.html#ab27d93fd2b58e3f1c9e14d5bc6c788ff", null ],
-    [ "EnterEvadeMode", "d7/ded/a12650.html#ae83464d571103a67980b413325988921", null ],
-    [ "JustDied", "d7/ded/a12650.html#a5a641c0e96f271540e4642b5bb4e4c9e", null ],
-    [ "JustEngagedWith", "d7/ded/a12650.html#a74f51f155fdfb9ecc70245380b740d9c", null ],
-    [ "JustReachedHome", "d7/ded/a12650.html#a6c930c6cb2116cf16f3e4002e333f585", null ],
-    [ "KilledUnit", "d7/ded/a12650.html#ac0f281f1e4b985174f4c5c9b7fcf278d", null ],
-    [ "Reset", "d7/ded/a12650.html#ac22d86f58d59c81429e45fba9393fd37", null ],
-    [ "UpdateAI", "d7/ded/a12650.html#aec0d558cf82eb6bbf0d5626126b10233", null ],
-    [ "_rustCount", "d7/ded/a12650.html#a48901503085fd3d4ee5624626a526ce2", null ],
-    [ "_scheduler", "d7/ded/a12650.html#ababc9f32611a9ea35ef41725bce22df5", null ],
-    [ "instance", "d7/ded/a12650.html#a00b2ebbb009c700e38bbffbb035b4bfa", null ]
+    [ "FilterTargets", "d7/ded/a12650.html#ab00f1a67df39f01aa0ead3459c3c3183", null ],
+    [ "Load", "d7/ded/a12650.html#a5bb1cb64090e1ebb3f6f7bcd1fa1ec21", null ],
+    [ "PrepareSpellScript", "d7/ded/a12650.html#a17bebef0c4c59c3fd0ccfb28e103ee3e", null ],
+    [ "Register", "d7/ded/a12650.html#ae366530ddacf45a92eaa36be7e706a84", null ]
 ];

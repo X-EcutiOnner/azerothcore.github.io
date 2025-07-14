@@ -1,7 +1,8 @@
 var a19342 =
 [
-    [ "HandleProc", "df/d41/a19342.html#a84255cd31ebaa7c70de93d569258c709", null ],
-    [ "PrepareAuraScript", "df/d41/a19342.html#a8d9c8122b105b28b88c4297d3a9acf7f", null ],
-    [ "Register", "df/d41/a19342.html#a6bc166d2e1455537fa78c4223da17746", null ],
-    [ "Validate", "df/d41/a19342.html#ab38bde2ed642dcf4fda1893a131aa6fe", null ]
+    [ "npc_crystal_spike", "df/d41/a19342.html#aa6a6e12aba63c589e71b5ca28b924fd4", null ],
+    [ "Reset", "df/d41/a19342.html#a8cdca606ce482147d87ad5248665099e", null ],
+    [ "UpdateAI", "df/d41/a19342.html#abc04c8fba427c12630b4faf1d39bdb32", null ],
+    [ "_damageTimer", "df/d41/a19342.html#a36c70729a0c0281d467f870bfcde80ae", null ],
+    [ "_gameObjectGUID", "df/d41/a19342.html#a0c0e9a1883cee51201b039947b5bacf3", null ]
 ];

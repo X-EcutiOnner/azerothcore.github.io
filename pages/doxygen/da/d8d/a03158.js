@@ -1,6 +1,6 @@
 var a03158 =
 [
-    [ "instance_halls_of_stone", "da/d3b/a19632.html", "da/d3b/a19632" ],
-    [ "instance_halls_of_stone::instance_halls_of_stone_InstanceMapScript", "dc/d75/a19636.html", "dc/d75/a19636" ],
-    [ "AddSC_instance_halls_of_stone", "da/d8d/a03158.html#a81d8c56de5920b1e73d7955e1c7399ed", null ]
+    [ "instance_utgarde_pinnacle", "de/dff/a21210.html", "de/dff/a21210" ],
+    [ "instance_utgarde_pinnacle::instance_utgarde_pinnacle_InstanceMapScript", "db/d1e/a21214.html", "db/d1e/a21214" ],
+    [ "AddSC_instance_utgarde_pinnacle", "da/d8d/a03158.html#a3469cdfafe3d81dca68950e7a6a6370d", null ]
 ];

@@ -1,5 +1,7 @@
 var a27582 =
 [
-    [ "npc_controller", "d9/d75/a27582.html#a3c75fb509d5cf4b4d417c97b409615b1", null ],
-    [ "OnCharmed", "d9/d75/a27582.html#a69628677de225d76a8c89b4626e0f32b", null ]
+    [ "npc_guardianAI", "d9/d75/a27582.html#acc5d29a79e57fc023369c0dcd4b0d2a3", null ],
+    [ "JustEngagedWith", "d9/d75/a27582.html#a50257f80245bc59437e53083badcb056", null ],
+    [ "Reset", "d9/d75/a27582.html#a217df9bae079f56ffd70d27958fb2756", null ],
+    [ "UpdateAI", "d9/d75/a27582.html#ab42c39f088ef819a5ffb5f9f4ba2c3a3", null ]
 ];

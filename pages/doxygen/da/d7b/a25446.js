@@ -1,6 +1,6 @@
 var a25446 =
 [
-    [ "HandleHeal", "da/d7b/a25446.html#a3d315ab6d76d45f3d0f5de4a312377ff", null ],
-    [ "PrepareSpellScript", "da/d7b/a25446.html#ad77d816c82714fe2cafb4dbf48691937", null ],
-    [ "Register", "da/d7b/a25446.html#a313abe6367e5494bd81a557ab42f9f50", null ]
+    [ "CheckProc", "da/d7b/a25446.html#a393946dd3404c4b03a9a8ced7913ccaa", null ],
+    [ "PrepareAuraScript", "da/d7b/a25446.html#ae28075d0d66c99fb77a2c7fef678f4e2", null ],
+    [ "Register", "da/d7b/a25446.html#a3e0279f7dc724b4d49bfda4f0e417353", null ]
 ];

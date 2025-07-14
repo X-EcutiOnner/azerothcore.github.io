@@ -1,5 +1,5 @@
 var a25902 =
 [
-    [ "Trigger", "dc/deb/a25902.html#aa16aba75a066e83cb56660a0e29e7453", null ],
-    [ "Validate", "dc/deb/a25902.html#a6c38df91dbe0cf277d1d50a40edd4589", null ]
+    [ "PrepareSpellScript", "dc/deb/a25902.html#ac08a5b38ac3012ad31c8ecdf4ca36585", null ],
+    [ "Register", "dc/deb/a25902.html#a7d6187a7aa8f8d67efe15ffc74fa1873", null ]
 ];

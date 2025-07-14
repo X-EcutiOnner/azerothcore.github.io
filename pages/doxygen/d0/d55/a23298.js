@@ -1,5 +1,6 @@
 var a23298 =
 [
-    [ "at_underbog_ghazan", "d0/d55/a23298.html#aa6c74496bb30bf04e66ac3cd06110811", null ],
-    [ "_OnTrigger", "d0/d55/a23298.html#aff03fc0bbded7bf7fa68d0c736bfaff2", null ]
+    [ "HandleScript", "d0/d55/a23298.html#ad81007cd08ee18bfc7cda4221cbc8482", null ],
+    [ "PrepareSpellScript", "d0/d55/a23298.html#a60f0bb4882d3f75f0839cd0d8ab2707d", null ],
+    [ "Register", "d0/d55/a23298.html#ac06f4246c5cecc4875bc93811eaeb839", null ]
 ];

@@ -1,9 +1,7 @@
 var a25718 =
 [
-    [ "CheckRequirement", "df/d43/a25718.html#adab261a5221ca54b15cc414d291908fe", null ],
-    [ "HandleDummy", "df/d43/a25718.html#abb7a734244bb18d75304a0510f9efb8d", null ],
-    [ "Load", "df/d43/a25718.html#a418eef16d1e3aeff67013f45409c092a", null ],
-    [ "PrepareSpellScript", "df/d43/a25718.html#ab3e73a456ec7384720827a4ff7f5abc7", null ],
-    [ "Register", "df/d43/a25718.html#a5dbf60e33f2cdca3921f623cd1098948", null ],
-    [ "Validate", "df/d43/a25718.html#a1dcba4f3c2874a952ca422b0a3cdafb1", null ]
+    [ "HandleScript", "df/d43/a25718.html#a7c7f92d21898322c501f582a524f4052", null ],
+    [ "Load", "df/d43/a25718.html#a600eb87e8bbedd3504e3d259f89e3785", null ],
+    [ "PrepareSpellScript", "df/d43/a25718.html#a8ae826705bd1a1f1da3160be73926d7b", null ],
+    [ "Register", "df/d43/a25718.html#abda715e38cf19fa7276ec4f4a12d3b63", null ]
 ];

@@ -1,7 +1,8 @@
 var a12290 =
 [
-    [ "HandleEffectScriptEffect", "dc/d7f/a12290.html#a8157c4b213b3b4e260222976e283e2ae", null ],
-    [ "PrepareSpellScript", "dc/d7f/a12290.html#aa8a4fdd0dc5c06a836ac05cec0dccd75", null ],
-    [ "Register", "dc/d7f/a12290.html#aeda056b568b4956ba35b32a3f20c053e", null ],
-    [ "Validate", "dc/d7f/a12290.html#a29a7f51f01e1ccf71dcc53ad68f032ae", null ]
+    [ "FilterTargets", "dc/d7f/a12290.html#a03acb7fb2734d9c8e8e623600bc16859", null ],
+    [ "FilterTargetsEff", "dc/d7f/a12290.html#a8aeffd2a01c805246c33d22a59274c6f", null ],
+    [ "PrepareSpellScript", "dc/d7f/a12290.html#ae00bc9956c9971d62d9185c72d3bd8b5", null ],
+    [ "Register", "dc/d7f/a12290.html#aba646a238c3b4b7343f3eec8c6445eb5", null ],
+    [ "targetList", "dc/d7f/a12290.html#a874dc7877ecfae332c9f826f01afce0f", null ]
 ];

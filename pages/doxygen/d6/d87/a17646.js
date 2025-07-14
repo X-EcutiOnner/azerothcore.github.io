@@ -1,6 +1,6 @@
 var a17646 =
 [
-    [ "npc_vengeful_shadeAI", "d0/db3/a17650.html", "d0/db3/a17650" ],
-    [ "npc_vengeful_shade", "d6/d87/a17646.html#a99c535efd94fbd5bded8fd9555bb6eaf", null ],
-    [ "GetAI", "d6/d87/a17646.html#afa2c672015b43d83bd55050ed020f7e5", null ]
+    [ "IgbExplosionCheck", "d6/d87/a17646.html#ae67cca111f26a275614810cbe053bcd8", null ],
+    [ "operator()", "d6/d87/a17646.html#a28ce6685366e99db2aa1e4022012f943", null ],
+    [ "_source", "d6/d87/a17646.html#a413ee8f2218621d274d118aea967dc9b", null ]
 ];

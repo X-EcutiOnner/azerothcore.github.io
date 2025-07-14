@@ -1,9 +1,8 @@
 var a18802 =
 [
-    [ "npc_isle_of_conquest_turretAI", "d7/da0/a18802.html#a0a0f24af22e4c72e843970c0d5c1ff87", null ],
-    [ "JustDied", "d7/da0/a18802.html#a88390da94298bea9c445bb422a806d23", null ],
-    [ "SpellHit", "d7/da0/a18802.html#afc8b8a9be6b0908fcb83af57bef7a57a", null ],
-    [ "UpdateAI", "d7/da0/a18802.html#a81c039a2a230b261967842161757b6f8", null ],
-    [ "events", "d7/da0/a18802.html#aee0aa5a950b3743409fd3ae482bc94b8", null ],
-    [ "faction", "d7/da0/a18802.html#aca941c070a97278c8ec27d7e6b4edede", null ]
+    [ "Class", "d7/da0/a18802.html#a095390e9023609f5836c4481ed79e1af", null ],
+    [ "cooldown_ms", "d7/da0/a18802.html#a6f1fdab250e8557d16066c03a54fb2a4", null ],
+    [ "id", "d7/da0/a18802.html#ae9fdf89271339b93f306c4aa0871f844", null ],
+    [ "range", "d7/da0/a18802.html#aad126da206abceb6a66dcda1cbd3b28b", null ],
+    [ "targetType", "d7/da0/a18802.html#ae5fc8cb423536f631591d3b72bfd06dd", null ]
 ];

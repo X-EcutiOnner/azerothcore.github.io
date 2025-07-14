@@ -1,6 +1,4 @@
 var a18426 =
 [
-    [ "HandleScript", "de/d9a/a18426.html#a567509ccadbc74b3ba9e420f08a0c2b4", null ],
-    [ "PrepareSpellScript", "de/d9a/a18426.html#aac5f2cb3e5f498ae46598e95eece825d", null ],
-    [ "Register", "de/d9a/a18426.html#a11c40abf4db37e1498b1a7ee5089f083", null ]
+    [ "operator()", "de/d9a/a18426.html#adb7207ebbfe52e2f84f9b8d3249b54d1", null ]
 ];

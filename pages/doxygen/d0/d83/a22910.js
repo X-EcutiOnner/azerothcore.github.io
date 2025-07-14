@@ -1,7 +1,6 @@
 var a22910 =
 [
-    [ "HandleEffectApply", "d0/d83/a22910.html#aff0dbed165d0e751db725f7eaaf76a11", null ],
-    [ "Load", "d0/d83/a22910.html#a1dfb5b2004041e7165cc9f5deb4b1e82", null ],
-    [ "PrepareAuraScript", "d0/d83/a22910.html#a3dbd01e52ed2a630f0c014f941fc1b5e", null ],
-    [ "Register", "d0/d83/a22910.html#a647f21e79e3fef72cf84439fc84e708f", null ]
+    [ "boss_essence_of_angerAI", "df/d25/a22914.html", "df/d25/a22914" ],
+    [ "boss_essence_of_anger", "d0/d83/a22910.html#adf8151d1fbb4a258f174c4bdb8410cd6", null ],
+    [ "GetAI", "d0/d83/a22910.html#a70a460f31b7f878e532b695ca822ab5d", null ]
 ];

@@ -1,6 +1,6 @@
 var a21118 =
 [
-    [ "boss_archavonAI", "de/def/a21122.html", "de/def/a21122" ],
-    [ "boss_archavon", "d1/d2e/a21118.html#a44e20480f8d86cf763afe67de49c6c33", null ],
-    [ "GetAI", "d1/d2e/a21118.html#a5eb62d54fe1559ef9df51c2bd01f7de4", null ]
+    [ "npc_massive_jormungarAI", "de/def/a21122.html", "de/def/a21122" ],
+    [ "npc_massive_jormungar", "d1/d2e/a21118.html#ad17b632fcfe78019dcb9e6b58fa1ac01", null ],
+    [ "GetAI", "d1/d2e/a21118.html#a68e3557e967ef633ba59fa81e661b80c", null ]
 ];

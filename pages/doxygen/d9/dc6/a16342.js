@@ -1,8 +1,6 @@
 var a16342 =
 [
-    [ "npc_toc_boomkinAI", "d9/dc6/a16342.html#a12c586d57aa6dd3893889f103dbfee20", null ],
-    [ "JustSummoned", "d9/dc6/a16342.html#a0d049885773b7f1abd7e03f9200852f4", null ],
-    [ "myCanCast", "d9/dc6/a16342.html#a691a0250db77cc4def2bf67b25a1298c", null ],
-    [ "UpdateAI", "d9/dc6/a16342.html#a64b0451537c0d27bc01d1c1ec3b5b88d", null ],
-    [ "events", "d9/dc6/a16342.html#a0b367855092884b2ce30834e89fced87", null ]
+    [ "npc_nerubian_burrowerAI", "da/db0/a16346.html", "da/db0/a16346" ],
+    [ "npc_nerubian_burrower", "d9/dc6/a16342.html#a02c3eb1ed867738c705af8bf38a1aae5", null ],
+    [ "GetAI", "d9/dc6/a16342.html#a145ebac6f95f9190429b9bfa37e23312", null ]
 ];

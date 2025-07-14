@@ -1,6 +1,6 @@
 var a17250 =
 [
-    [ "PrepareSpellScript", "d3/d3e/a17250.html#a86609d6cd708de9ead02c6134cbb6f64", null ],
-    [ "Register", "d3/d3e/a17250.html#aceb3da4aec68cb44bcbee36f599afd62", null ],
-    [ "SetDest", "d3/d3e/a17250.html#a9ed93e44df4e759fda72a63474e01b3b", null ]
+    [ "ShockVortexExplodeEvent", "d3/d3e/a17250.html#ad972aed372822e10a476d1592192f3ea", null ],
+    [ "Execute", "d3/d3e/a17250.html#a601f777052b8a142db49e9b0ab1fa81a", null ],
+    [ "_owner", "d3/d3e/a17250.html#a76b1887e486969fcd7a236a8eb7a9a2a", null ]
 ];

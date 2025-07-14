@@ -1,6 +1,7 @@
 var a15234 =
 [
-    [ "npc_stillpine_capitiveAI", "d3/d76/a15238.html", "d3/d76/a15238" ],
-    [ "npc_stillpine_capitive", "dc/d98/a15234.html#a6c9ce06ffe8cafaea2f428ba610d6964", null ],
-    [ "GetAI", "dc/d98/a15234.html#ad1d81ae43d3c417b8817da61afef4e4b", null ]
+    [ "npc_vekniss_stinger", "dc/d98/a15234.html#ad48098961715a924270cb8bbbe77e4b0", null ],
+    [ "JustEngagedWith", "dc/d98/a15234.html#ae7c758687c81cfb223066f0a9348eab8", null ],
+    [ "Reset", "dc/d98/a15234.html#a2a79f3775aad83410ff2670aa438e811", null ],
+    [ "UpdateAI", "dc/d98/a15234.html#a1ff479e8f45710f6aa36473933bb87e0", null ]
 ];

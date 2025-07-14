@@ -1,12 +1,16 @@
 var a15550 =
 [
-    [ "npc_wizzlecrank_shredderAI", "d3/db3/a15550.html#a055c4b426219aa3372a83d2e2021d916", null ],
-    [ "JustSummoned", "d3/db3/a15550.html#a7cad21f0b3286ed75256a49c315069ce", null ],
-    [ "Reset", "d3/db3/a15550.html#a86929e8a2f3433f37e4dda03e3011193", null ],
-    [ "UpdateEscortAI", "d3/db3/a15550.html#acb95eeebd0317f1d95bc48d6b9e7e962", null ],
-    [ "WaypointReached", "d3/db3/a15550.html#a369ae3d62d1289a1c840bdc3184b463d", null ],
-    [ "WaypointStart", "d3/db3/a15550.html#a00857e372e53950338ed71d672edb780", null ],
-    [ "IsPostEvent", "d3/db3/a15550.html#a9207ffdb39627b1262ec209fe41d6d0a", null ],
-    [ "PostEventCount", "d3/db3/a15550.html#aa5284a284c074f32cee85d29aea00f2f", null ],
-    [ "PostEventTimer", "d3/db3/a15550.html#a3c43ede2df7b1ea61b0f1625e2e1461c", null ]
+    [ "npc_qiraj_war_spawnAI", "d3/db3/a15550.html#a1122bc3961300ba39c02613ba0fcd909", null ],
+    [ "JustDied", "d3/db3/a15550.html#ada3362722a2f7a4ac5e3e807385c30fc", null ],
+    [ "JustEngagedWith", "d3/db3/a15550.html#a628da97f8b8bda848880c53a509ad1f5", null ],
+    [ "Reset", "d3/db3/a15550.html#a617104afe4d5cca5cd0d98fe12cb1608", null ],
+    [ "UpdateAI", "d3/db3/a15550.html#afeed6ddc214d7d6ba6156a90e4465cb2", null ],
+    [ "hasTarget", "d3/db3/a15550.html#ad36ad196f757d6014f7aa7cf7afb167b", null ],
+    [ "MobGUID", "d3/db3/a15550.html#a4148121a56275770ee84744a0288b6c5", null ],
+    [ "PlayerGUID", "d3/db3/a15550.html#a9e4294e9b7ce773263e0bd16512602ce", null ],
+    [ "SpellTimer1", "d3/db3/a15550.html#a8979a90473c62aad604857d92574e5f1", null ],
+    [ "SpellTimer2", "d3/db3/a15550.html#a91cb2356a92ef987bd1ba6d31b560ec1", null ],
+    [ "SpellTimer3", "d3/db3/a15550.html#aeea20bb2f78ece03df38a3e9aa5d8b59", null ],
+    [ "SpellTimer4", "d3/db3/a15550.html#a301971cf821e68e6be3223d4076f8b49", null ],
+    [ "Timers", "d3/db3/a15550.html#a460bbddfe94e9c84eaa0ad83e087ebf4", null ]
 ];

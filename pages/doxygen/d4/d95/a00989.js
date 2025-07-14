@@ -1,10 +1,19 @@
 var a00989 =
 [
-    [ "EnchStoreItem", "df/d96/a08312.html", "df/d96/a08312" ],
-    [ "EnchantmentStore", "d4/d95/a00989.html#ab462bc366dd954f1c0b539c408b74c01", null ],
-    [ "EnchStoreList", "d4/d95/a00989.html#ab5e9dd6a265a402e7a9499fdaae1e850", null ],
-    [ "GenerateEnchSuffixFactor", "d4/d95/a00989.html#a25026e783b088b45eebd4db8295b1b87", null ],
-    [ "GetItemEnchantMod", "d4/d95/a00989.html#a76d03c9ceb2d3ac35582eaea4624544f", null ],
-    [ "LoadRandomEnchantmentsTable", "d4/d95/a00989.html#a376fabf7bba54eaf928217f860f1c33b", null ],
-    [ "RandomItemEnch", "d4/d95/a00989.html#a6aeb6f30f019ca8d9839fcf41beb1ac7", null ]
+    [ "Acore::Impl::ChatCommands::ContainerTag", "d7/df8/a07658.html", "d7/df8/a07658" ],
+    [ "Acore::Impl::ChatCommands::tag_base< T, std::enable_if_t< std::is_base_of_v< ContainerTag, T > > >", "d2/deb/a07662.html", "d2/deb/a07662" ],
+    [ "Acore::ChatCommands::ExactSequence< chars >", "df/d9b/a07666.html", "df/d9b/a07666" ],
+    [ "Acore::ChatCommands::Tail", "d5/d6a/a07670.html", "d5/d6a/a07670" ],
+    [ "Acore::ChatCommands::WTail", "d3/d5b/a07674.html", "d3/d5b/a07674" ],
+    [ "Acore::ChatCommands::QuotedString", "db/def/a07678.html", "db/def/a07678" ],
+    [ "Acore::ChatCommands::AccountIdentifier", "df/d7f/a07682.html", "df/d7f/a07682" ],
+    [ "Acore::ChatCommands::PlayerIdentifier", "d8/db1/a07686.html", "d8/db1/a07686" ],
+    [ "Acore::ChatCommands::Hyperlink< linktag >", "d2/d33/a07690.html", "d2/d33/a07690" ],
+    [ "Acore::Impl::CastToVisitor< T >", "dc/da1/a07694.html", "dc/da1/a07694" ],
+    [ "Acore::ChatCommands::Variant< T1, Ts >", "d1/d20/a07698.html", "d1/d20/a07698" ],
+    [ "CHATCOMMANDS_IMPL_SPLIT_LITERAL", "d4/d95/a00989.html#af98497f511ab4c536bd80e08ff605c04", null ],
+    [ "CHATCOMMANDS_IMPL_SPLIT_LITERAL_CONSTRAINED", "d4/d95/a00989.html#ae9ad890da39c16320a177ed5fbdffdf1", null ],
+    [ "CHATCOMMANDS_IMPL_SPLIT_LITERAL_EXTRACT_CHAR", "d4/d95/a00989.html#a55b2f2ab9e15f11a5b44f6d616f28e8a", null ],
+    [ "EXACT_SEQUENCE", "d4/d95/a00989.html#ac61bb0d0d29d3ccc94188eb93516adf5", null ],
+    [ "GetChar", "d4/d95/a00989.html#ab72843264c39ce4d9aa3d4d8fbd83fc4", null ]
 ];

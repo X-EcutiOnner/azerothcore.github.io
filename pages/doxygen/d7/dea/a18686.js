@@ -1,6 +1,7 @@
 var a18686 =
 [
-    [ "npc_icc_skybreaker_luminaryAI", "d2/d02/a18690.html", "d2/d02/a18690" ],
-    [ "npc_icc_skybreaker_luminary", "d7/dea/a18686.html#aff97d0425cf86a8b411ef3e2bd0cc054", null ],
-    [ "GetAI", "d7/dea/a18686.html#ad1378aaa7438758f8a796d8e74ae0ce8", null ]
+    [ "HandleEvent", "d7/dea/a18686.html#a7aea0f5c4cd3765a8266e5478322910b", null ],
+    [ "PrepareSpellScript", "d7/dea/a18686.html#a2e59f7f9eb67790c59c2e94cf877b4f3", null ],
+    [ "Register", "d7/dea/a18686.html#a96c6a479141f765b9c0f96b5f148a428", null ],
+    [ "Validate", "d7/dea/a18686.html#aa86d2cea5cb41b1e0a86248d95b5bfdb", null ]
 ];

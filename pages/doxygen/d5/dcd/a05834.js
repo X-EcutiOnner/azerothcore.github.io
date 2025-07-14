@@ -1,11 +1,11 @@
 var a05834 =
 [
-    [ "SQLOperation", "d5/dcd/a05834.html#a0f69657715b7d24458227b22a3b40b1a", null ],
-    [ "~SQLOperation", "d5/dcd/a05834.html#afa21cafba57dd35ed2b132ef3d18c71b", null ],
-    [ "SQLOperation", "d5/dcd/a05834.html#a91b34b81ed99ca0da54d825fec98ab6e", null ],
-    [ "call", "d5/dcd/a05834.html#ae56c06a313c4be5d0e45f5481996f1d1", null ],
-    [ "Execute", "d5/dcd/a05834.html#aff1090554bc4a6fe7a33270e63416e19", null ],
-    [ "operator=", "d5/dcd/a05834.html#ac31349ed45ea051540ac345bd4b814d5", null ],
-    [ "SetConnection", "d5/dcd/a05834.html#a52cbd1d9b8a298ab3eade0010b5e3166", null ],
-    [ "m_conn", "d5/dcd/a05834.html#adf322db48064fcf4528f713f857f1b40", null ]
+    [ "SQLQueryHolderBase", "d5/dcd/a05834.html#a05946ea4a26798e5567f632cf9f66eff", null ],
+    [ "~SQLQueryHolderBase", "d5/dcd/a05834.html#aa9e2407821d0c40a728337f174571fc5", null ],
+    [ "GetPreparedResult", "d5/dcd/a05834.html#a402f961642eaa239ff8726ad66e78640", null ],
+    [ "SetPreparedQueryImpl", "d5/dcd/a05834.html#a6657bb34fab696a26af9751ded41f1d7", null ],
+    [ "SetPreparedResult", "d5/dcd/a05834.html#a34bcdec6591ce40a58667197f240fbe0", null ],
+    [ "SetSize", "d5/dcd/a05834.html#a9e62f0171bd39a13348d097ee99cb17c", null ],
+    [ "SQLQueryHolderTask", "d5/dcd/a05834.html#a4d6be4ca13ec7a0d213da9d1e6ec922b", null ],
+    [ "m_queries", "d5/dcd/a05834.html#a432a52e6f9dc7f51cbc8f2877d0894e1", null ]
 ];

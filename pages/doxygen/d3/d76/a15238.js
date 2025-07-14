@@ -1,11 +1,8 @@
 var a15238 =
 [
-    [ "npc_stillpine_capitiveAI", "d3/d76/a15238.html#a98560e7fc360dbfa3166805d9ab3feb4", null ],
-    [ "MovementInform", "d3/d76/a15238.html#a1e930b49da85a64aa87ba79b5fe72391", null ],
-    [ "Reset", "d3/d76/a15238.html#a9c884f892e64044057d477bdc0f89eed", null ],
-    [ "StartMoving", "d3/d76/a15238.html#a2552a79cf384cca1203afa7f241c1cb9", null ],
-    [ "UpdateAI", "d3/d76/a15238.html#a25dc06767382b5fee2a7098b58726fb2", null ],
-    [ "_events", "d3/d76/a15238.html#a93dd55d392836d8d085e34293344b700", null ],
-    [ "_movementComplete", "d3/d76/a15238.html#ae8e39ca782aee412e39d65a33d14014e", null ],
-    [ "_playerGUID", "d3/d76/a15238.html#a3fe9a4f01aebb602095d60eb606ce763", null ]
+    [ "npc_obsidian_eradicator", "d3/d76/a15238.html#a84a6c414b3d74468143984e57f83e383", null ],
+    [ "JustEngagedWith", "d3/d76/a15238.html#ab03b7138306a04a00938bf1cdb9a7966", null ],
+    [ "Reset", "d3/d76/a15238.html#a7c76c7d3a69e464c0dcb6a96226baa61", null ],
+    [ "UpdateAI", "d3/d76/a15238.html#a1697d83e89559f047d5bab652007bb61", null ],
+    [ "_targetGUIDs", "d3/d76/a15238.html#abd83775d1eab5ab2a3aadd7fd925c3ae", null ]
 ];

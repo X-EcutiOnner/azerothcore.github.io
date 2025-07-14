@@ -1,13 +1,6 @@
 var a23558 =
 [
-    [ "boss_warbringer_omrogg", "d8/d04/a23558.html#a20f790595640cd41d636ad43c8837cda", null ],
-    [ "HandleHeadTalk", "d8/d04/a23558.html#aaa324c065f6c2bbf75688f5910be09d1", null ],
-    [ "JustDied", "d8/d04/a23558.html#a8a2abaceda580ac2ed4f1c736281828f", null ],
-    [ "JustEngagedWith", "d8/d04/a23558.html#ae1710f22f8a72f661498c4fbc6d108a5", null ],
-    [ "KilledUnit", "d8/d04/a23558.html#add6b54c4744be120b6b5fd53912ce1fd", null ],
-    [ "ScheduleBurningPhase", "d8/d04/a23558.html#afd20a8bd1f6f083e0725d962ec747e26", null ],
-    [ "ScheduleNonBurningPhase", "d8/d04/a23558.html#a176217a0767e8153d07996461ac68f60", null ],
-    [ "SetData", "d8/d04/a23558.html#a4d1154d64c999316f9ae02ab76cbc870", null ],
-    [ "UpdateAI", "d8/d04/a23558.html#a90369760ed0e52f1ffc6d3e7c4e39ec2", null ],
-    [ "_headTalk", "d8/d04/a23558.html#ae657addceb26f4d02d734fa0790a1ae2", null ]
+    [ "HandleScriptEffect", "d8/d04/a23558.html#afae95a49843aa956d627e9bd92f8820f", null ],
+    [ "PrepareSpellScript", "d8/d04/a23558.html#a434945da0a6b64db79cab0e09cbbb286", null ],
+    [ "Register", "d8/d04/a23558.html#a396acb663b8c9151196b8fedea3660c7", null ]
 ];

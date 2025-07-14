@@ -1,7 +1,9 @@
 var a18154 =
 [
-    [ "OnRemove", "d7/d4f/a18154.html#a106935d92ef6ba7909c57264e26b5522", null ],
-    [ "PrepareAuraScript", "d7/d4f/a18154.html#a8ce8f5d4ebd4279fdfd192ba3b01b894", null ],
-    [ "Register", "d7/d4f/a18154.html#a095e7530a0f2e7a76dc8bd3f75759089", null ],
-    [ "Validate", "d7/d4f/a18154.html#a0b4283bdb19a4ceef505aab41c99abe8", null ]
+    [ "ShadowTrapLKTargetSelector", "d7/d4f/a18154.html#a33561775948e07ac6ade2037f237441d", null ],
+    [ "operator()", "d7/d4f/a18154.html#a3770329509c6ab2f16ae369ea8d72645", null ],
+    [ "_maxDist", "d7/d4f/a18154.html#a6ee78b1ca184a05d01aa053afe499a95", null ],
+    [ "_playerOnly", "d7/d4f/a18154.html#acfb3a657e430bc2ca26680bef6cf0159", null ],
+    [ "_reqLOS", "d7/d4f/a18154.html#a7911be23196f59d55028affc3be23c20", null ],
+    [ "_source", "d7/d4f/a18154.html#af416013aabf3b217b07228072076603d", null ]
 ];

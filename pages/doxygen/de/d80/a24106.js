@@ -1,8 +1,7 @@
 var a24106 =
 [
-    [ "CreatureId", "de/d80/a24106.html#a127341c70f8785ceb556b1c11b23f477", null ],
-    [ "SpawnCount", "de/d80/a24106.html#ad51fb68e41e04490f658a4c4f62612bd", null ],
-    [ "SpawnTimer", "de/d80/a24106.html#aa57ff686c5fde12269e231333d8a8bef", null ],
-    [ "UsedSpawnPoint", "de/d80/a24106.html#a2d5f42a6b1a309c8db74febcedf457eb", null ],
-    [ "YellTimer", "de/d80/a24106.html#a6346259269af7f2936f959f87288dd69", null ]
+    [ "npc_bessyAI", "d3/d25/a24110.html", "d3/d25/a24110" ],
+    [ "npc_bessy", "de/d80/a24106.html#a08278c1524445054ca158433044a0824", null ],
+    [ "GetAI", "de/d80/a24106.html#af805bc5ee3de2fd6773158e51bf09d4a", null ],
+    [ "OnQuestAccept", "de/d80/a24106.html#a98b8e816195b81bab12cc9906df79807", null ]
 ];

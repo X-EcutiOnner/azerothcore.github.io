@@ -1,6 +1,6 @@
 var a20686 =
 [
-    [ "boss_yoggsaron_saraAI", "d5/d2f/a20690.html", "d5/d2f/a20690" ],
-    [ "boss_yoggsaron_sara", "dd/da4/a20686.html#aaf5bd5440122f6c97315b0e3b9d47586", null ],
-    [ "GetAI", "dd/da4/a20686.html#abc83e0f3a7d12a84ea283e5b2a69826d", null ]
+    [ "OnPeriodic", "dd/da4/a20686.html#a418b37f00a8a48d0a4362fd5381797bf", null ],
+    [ "PrepareAuraScript", "dd/da4/a20686.html#a60c0d5d67de6e3224cba34599acc3e69", null ],
+    [ "Register", "dd/da4/a20686.html#a92fb0160f7a16e6cb6b9c928b744f5e0", null ]
 ];

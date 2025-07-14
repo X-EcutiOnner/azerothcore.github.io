@@ -1,6 +1,6 @@
 var a25006 =
 [
-    [ "CheckSeat", "d0/d8c/a25006.html#ab4e2376e084bc2cf0e30a91e3e5a270c", null ],
-    [ "PrepareSpellScript", "d0/d8c/a25006.html#aaa9a6f31ec57542dcd657874c4eb52aa", null ],
-    [ "Register", "d0/d8c/a25006.html#a6feb7c77ba258688a83bdb86e9ee53f8", null ]
+    [ "HandleScript", "d0/d8c/a25006.html#a913c8c461f291ccaad2f48614c0146c6", null ],
+    [ "PrepareSpellScript", "d0/d8c/a25006.html#a18913a7455cf3f158136f2d3bb415779", null ],
+    [ "Register", "d0/d8c/a25006.html#ac24208b646e95d87fbb340d7779cb7c5", null ]
 ];

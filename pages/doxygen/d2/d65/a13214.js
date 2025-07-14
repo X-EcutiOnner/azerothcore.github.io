@@ -1,8 +1,6 @@
 var a13214 =
 [
-    [ "FilterTargets", "d2/d65/a13214.html#ac7f7287b88cde82fbf8a625f002c86fa", null ],
-    [ "HandleAfterCast", "d2/d65/a13214.html#aa28714ce9ac251fe7c3bdec17b47deb3", null ],
-    [ "Load", "d2/d65/a13214.html#aecfa38940ea3dd287179bdef3d290487", null ],
-    [ "PrepareSpellScript", "d2/d65/a13214.html#a222e2c8e5401c132e89b29bbd22d46a6", null ],
-    [ "Register", "d2/d65/a13214.html#a1a3607dd7e3d56bde3b92cbf4bcd0e78", null ]
+    [ "HandleActivateObject", "d2/d65/a13214.html#afd73a7f5ec26c9ecb0424ee09ce638fe", null ],
+    [ "PrepareSpellScript", "d2/d65/a13214.html#ad55914fdc6771e09a508572d59ad30ed", null ],
+    [ "Register", "d2/d65/a13214.html#a6a0fe507ca7a382122d55e04d3c021d9", null ]
 ];

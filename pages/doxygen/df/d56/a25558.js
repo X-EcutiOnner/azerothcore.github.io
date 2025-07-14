@@ -1,6 +1,6 @@
 var a25558 =
 [
-    [ "CheckProc", "df/d56/a25558.html#acac962ba1cb72615772fe8bc81d24f9d", null ],
-    [ "PrepareAuraScript", "df/d56/a25558.html#aebe1c8083ba09c21125c47843b2949da", null ],
-    [ "Register", "df/d56/a25558.html#adde6dada6b3012c2650ba9173c6616a0", null ]
+    [ "OnRemove", "df/d56/a25558.html#adcdc87bcfb9aee5eaa227ba66ad5f010", null ],
+    [ "PrepareAuraScript", "df/d56/a25558.html#a9b3985c6f2b1b88ab86ec38c8508fc16", null ],
+    [ "Register", "df/d56/a25558.html#a0bc1dae33d0a780623f4551b1dfb1fbf", null ]
 ];

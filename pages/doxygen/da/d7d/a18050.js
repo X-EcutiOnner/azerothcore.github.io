@@ -1,7 +1,6 @@
 var a18050 =
 [
-    [ "HandleInfusion", "da/d7d/a18050.html#a9f77330d81fef646dd5d5399800cba66", null ],
-    [ "PrepareSpellScript", "da/d7d/a18050.html#ae0a272902b0a9f74058c1dbe62974358", null ],
-    [ "Register", "da/d7d/a18050.html#ad759f6215e722f799156b4bdddcb7af1", null ],
-    [ "Validate", "da/d7d/a18050.html#a7b7254e7c6cb0d819dd003ffd19d0731", null ]
+    [ "CheckProc", "da/d7d/a18050.html#ad701d353f03eb5a1ccca28a6530555db", null ],
+    [ "PrepareAuraScript", "da/d7d/a18050.html#a51794aa0a42180d9a0f4e9f6d5febca4", null ],
+    [ "Register", "da/d7d/a18050.html#a4f787e29064c15f4dad9047ff618982a", null ]
 ];

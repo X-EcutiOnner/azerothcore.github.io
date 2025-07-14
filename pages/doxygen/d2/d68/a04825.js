@@ -1,5 +1,29 @@
 var a04825 =
 [
-    [ "LFGJoin", "d8/d95/a10723.html", "d8/d95/a10723" ],
-    [ "LFGLeave", "d6/d89/a10727.html", "d6/d89/a10727" ]
+    [ "Bank", "db/db4/a04835.html", "db/db4/a04835" ],
+    [ "Character", "da/d70/a04836.html", "da/d70/a04836" ],
+    [ "Chat", "da/d82/a04837.html", "da/d82/a04837" ],
+    [ "Combat", "d4/d10/a04839.html", "d4/d10/a04839" ],
+    [ "CombatLog", "da/d67/a04838.html", "da/d67/a04838" ],
+    [ "Guild", "d6/df5/a04826.html", "d6/df5/a04826" ],
+    [ "LFG", "de/daa/a04840.html", "de/daa/a04840" ],
+    [ "Misc", "d4/d72/a04841.html", "d4/d72/a04841" ],
+    [ "Pet", "d4/d06/a04843.html", "d4/d06/a04843" ],
+    [ "Strings", "df/dcf/a04842.html", "df/dcf/a04842" ],
+    [ "Totem", "de/df4/a04844.html", "de/df4/a04844" ],
+    [ "WorldState", "d6/d2e/a04845.html", "d6/d2e/a04845" ],
+    [ "Array", "d7/dfc/a10854.html", "d7/dfc/a10854" ],
+    [ "ClientPacket", "d2/df6/a10446.html", "d2/df6/a10446" ],
+    [ "CompactArray", "de/de2/a10858.html", "de/de2/a10858" ],
+    [ "IllegalHyperlinkException", "db/d67/a10822.html", "db/d67/a10822" ],
+    [ "InvalidHyperlinkException", "d3/d26/a10818.html", "d3/d26/a10818" ],
+    [ "InvalidStringValueException", "d9/d7c/a10810.html", "d9/d7c/a10810" ],
+    [ "InvalidUtf8ValueException", "df/d90/a10814.html", "df/d90/a10814" ],
+    [ "Packet", "d2/dfb/a10438.html", "d2/dfb/a10438" ],
+    [ "PacketArrayMaxCapacityException", "d1/d17/a10850.html", "d1/d17/a10850" ],
+    [ "ServerPacket", "d1/d9e/a10442.html", "d1/d9e/a10442" ],
+    [ "String", "d5/d56/a10846.html", "d5/d56/a10846" ],
+    [ "CheckCompactArrayMaskOverflow", "d2/d68/a04825.html#afb4909c8c4c13b14c8eceda2e9b4246d", null ],
+    [ "operator<<", "d2/d68/a04825.html#a82e35db0d6b671a4f4a581aac05828dc", null ],
+    [ "operator>>", "d2/d68/a04825.html#ab21e8e534a45a2a33d69cd11562a45c6", null ]
 ];

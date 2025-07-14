@@ -1,8 +1,5 @@
 var a11970 =
 [
-    [ "CheckProc", "db/d54/a11970.html#a08e84f2b2ff25ed7e260e61251f9cdb9", null ],
-    [ "HandleProc", "db/d54/a11970.html#afd3d4786f739566056b69390553d9c71", null ],
-    [ "PrepareAuraScript", "db/d54/a11970.html#a3ba84d4fd311a91efa685980ffec8d77", null ],
-    [ "Register", "db/d54/a11970.html#aa36a2e10a6fd67fa74d08e20dc806744", null ],
-    [ "Validate", "db/d54/a11970.html#aeff8b89300bb5d3589a46a4f66cfd77d", null ]
+    [ "boss_high_priestess_thaurissan", "db/d54/a11970.html#a53d3fd78f6a1a3b5028c6fc2940dfbd0", null ],
+    [ "GetAI", "db/d54/a11970.html#a7d2bb83a766b8eaa9bdbbb0f45a4fe62", null ]
 ];

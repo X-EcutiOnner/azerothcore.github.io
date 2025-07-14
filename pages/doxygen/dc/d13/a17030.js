@@ -1,5 +1,6 @@
 var a17030 =
 [
-    [ "endPosition", "dc/d13/a17030.html#a8a88b0191d28ef6af8f41db627552602", null ],
-    [ "entry", "dc/d13/a17030.html#ac4e55af666e269440953ced038c1a8de", null ]
+    [ "npc_pos_leaderAI", "da/d3d/a17034.html", "da/d3d/a17034" ],
+    [ "npc_pos_leader", "dc/d13/a17030.html#a690956ba5c822f4cbea9c27c95d5924c", null ],
+    [ "GetAI", "dc/d13/a17030.html#a0c0b85bef0b04989dc80d861fa70f463", null ]
 ];

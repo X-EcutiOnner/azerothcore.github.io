@@ -1,9 +1,8 @@
 var a09326 =
 [
-    [ "AnyGroupedUnitInObjectRangeCheck", "d3/dbd/a09326.html#a2c775f62eeabcb8af5306cbcedae322e", null ],
-    [ "operator()", "d3/dbd/a09326.html#a3c316eacdd1c74c69d8297871f84d7b9", null ],
-    [ "_raid", "d3/dbd/a09326.html#a6a9cffd02435913a5d7ee53cd1e8cc0b", null ],
-    [ "_range", "d3/dbd/a09326.html#a01b4592ac61d58ff39e5bb2eb1a1b997", null ],
-    [ "_refUnit", "d3/dbd/a09326.html#ad083243ef5487aa374b19e3c82b0457c", null ],
-    [ "_source", "d3/dbd/a09326.html#a91de967d2376ea96b1fc0838094915cf", null ]
+    [ "FriendlyMissingBuffInRange", "d3/dbd/a09326.html#a628fe94ce054a868977ef2a981bc5d6c", null ],
+    [ "operator()", "d3/dbd/a09326.html#a6dce8a1248ebb4f3e57cd12a3d94b7b9", null ],
+    [ "i_obj", "d3/dbd/a09326.html#aba43edf48b2b0184b52143707c3531f4", null ],
+    [ "i_range", "d3/dbd/a09326.html#a54ba98f393a8bdf710f6bd65abee526c", null ],
+    [ "i_spell", "d3/dbd/a09326.html#a7f34521e8789a1e1dabb867ed82ff438", null ]
 ];

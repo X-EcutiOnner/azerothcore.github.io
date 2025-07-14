@@ -1,6 +1,10 @@
 var a19138 =
 [
-    [ "npc_nexus_lordAI", "df/d33/a19142.html", "df/d33/a19142" ],
-    [ "npc_nexus_lord", "db/dab/a19138.html#a6e58f0074451dfd04b95b3ecaa0201e3", null ],
-    [ "GetAI", "db/dab/a19138.html#a1cea0b189b2ef8e932b51caf3d70d6ba", null ]
+    [ "boss_razuvious_minionAI", "db/dab/a19138.html#a6f9fc7dad68f35846ee76d4bff564407", null ],
+    [ "DoAction", "db/dab/a19138.html#a93cfa3f706ffadd94ad4dbe0585eebf1", null ],
+    [ "JustEngagedWith", "db/dab/a19138.html#ada2e7a5ac1f129572a0689afce49d310", null ],
+    [ "KilledUnit", "db/dab/a19138.html#ab1a6f582098c9d1218551af0aae1815d", null ],
+    [ "Reset", "db/dab/a19138.html#a170de8517a03a0e78b1e67652869fd9a", null ],
+    [ "ScheduleAttackDummy", "db/dab/a19138.html#abed82c71605d7c57bf29cedc21fc6b24", null ],
+    [ "UpdateAI", "db/dab/a19138.html#ad56fca0ae00fba6e575baefd72c7a8d0", null ]
 ];

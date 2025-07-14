@@ -1,41 +1,45 @@
 var a02123 =
 [
-    [ "npc_sergeant_bly", "d8/da8/a15724.html", "d8/da8/a15724" ],
-    [ "npc_sergeant_bly::npc_sergeant_blyAI", "d8/d57/a15728.html", "d8/d57/a15728" ],
-    [ "go_troll_cage", "df/d8b/a15732.html", "df/d8b/a15732" ],
-    [ "go_troll_cage::go_troll_cageAI", "d3/d0f/a15736.html", "d3/d0f/a15736" ],
-    [ "npc_weegli_blastfuse", "da/d6b/a15740.html", "da/d6b/a15740" ],
-    [ "npc_weegli_blastfuse::npc_weegli_blastfuseAI", "dd/d34/a15744.html", "dd/d34/a15744" ],
-    [ "npc_shadowpriest_sezziz", "d0/d96/a15748.html", "d0/d96/a15748" ],
-    [ "npc_shadowpriest_sezziz::npc_shadowpriest_sezzizAI", "dd/d49/a15752.html", "dd/d49/a15752" ],
-    [ "GOSSIP_BLY", "d5/d63/a02123.html#acf686abbef9b59acbf66095340991aab", null ],
-    [ "GOSSIP_WEEGLI", "d5/d63/a02123.html#abd5fb74b4c5971cd2993555c6ac4d1eb", null ],
-    [ "blySays", "d5/d63/a02123.html#a0170bb25aee4171b17fd972a5eb000a9", [
-      [ "SAY_1", "d5/d63/a02123.html#a0170bb25aee4171b17fd972a5eb000a9a307d891e05530d70a32ad2047cfe6dab", null ],
-      [ "SAY_2", "d5/d63/a02123.html#a0170bb25aee4171b17fd972a5eb000a9a73b0208d974ac93026e31ca8864dd390", null ]
+    [ "PassengerInfo", "d0/d6f/a08782.html", "d0/d6f/a08782" ],
+    [ "VehicleSeatAddon", "d5/d78/a08786.html", "d5/d78/a08786" ],
+    [ "VehicleSeat", "d0/d1a/a08790.html", "d0/d1a/a08790" ],
+    [ "VehicleAccessory", "d4/dbe/a08794.html", "d4/dbe/a08794" ],
+    [ "TransportBase", "d1/d7d/a08798.html", "d1/d7d/a08798" ],
+    [ "SeatMap", "d5/d63/a02123.html#a2dadb2596b27d20ebbc12696cb7b9a74", null ],
+    [ "VehicleAccessoryContainer", "d5/d63/a02123.html#a5b46179616c0e205a7c933e02f87160b", null ],
+    [ "VehicleAccessoryList", "d5/d63/a02123.html#af5d682a742080008bd21db9bba6e162f", null ],
+    [ "PowerType", "d5/d63/a02123.html#a0d0e3226055ad5266e487b58fd01cebd", [
+      [ "POWER_STEAM", "d5/d63/a02123.html#a0d0e3226055ad5266e487b58fd01cebda687679964e834b0ca1543e4dd62ad47f", null ],
+      [ "POWER_PYRITE", "d5/d63/a02123.html#a0d0e3226055ad5266e487b58fd01cebda80a2f688d9270400c0a412df595754d9", null ],
+      [ "POWER_HEAT", "d5/d63/a02123.html#a0d0e3226055ad5266e487b58fd01cebda84c681da1fcd67b223f97fd81f534434", null ],
+      [ "POWER_OOZE", "d5/d63/a02123.html#a0d0e3226055ad5266e487b58fd01cebda9bc45bf37416c880275746bf261a4097", null ],
+      [ "POWER_BLOOD", "d5/d63/a02123.html#a0d0e3226055ad5266e487b58fd01cebda73464121f88e583ed4c4f89280fd7d68", null ],
+      [ "POWER_WRATH", "d5/d63/a02123.html#a0d0e3226055ad5266e487b58fd01cebda94e6111f7ab9d0e57b77b1b3f70faab1", null ]
     ] ],
-    [ "blySpells", "d5/d63/a02123.html#ac73b1b4ffaee22ad6c602a211a9bfccf", [
-      [ "SPELL_BLYS_BAND_ESCAPE", "d5/d63/a02123.html#ac73b1b4ffaee22ad6c602a211a9bfccfaa9a43afdd35ceaa8e5947c583cda6c83", null ],
-      [ "SPELL_SHIELD_BASH", "d5/d63/a02123.html#ac73b1b4ffaee22ad6c602a211a9bfccfa0d74cfe7662c959a043f01770a2c7bf4", null ],
-      [ "SPELL_REVENGE", "d5/d63/a02123.html#ac73b1b4ffaee22ad6c602a211a9bfccfa3494dd9ccea3b72ec038a01f6f6fd66f", null ]
+    [ "VehicleExitParameters", "d5/d63/a02123.html#a7f17d71c7e2664769a8e8a8b40cb5116", [
+      [ "VehicleExitParamNone", "d5/d63/a02123.html#a7f17d71c7e2664769a8e8a8b40cb5116aa81d7ce24590f0cf3b5de2218dc4b2eb", null ],
+      [ "VehicleExitParamOffset", "d5/d63/a02123.html#a7f17d71c7e2664769a8e8a8b40cb5116aa79483bd0c086e5f24b906b5e4b28427", null ],
+      [ "VehicleExitParamDest", "d5/d63/a02123.html#a7f17d71c7e2664769a8e8a8b40cb5116a0f2b1d49adc9bb508c54af39ddb0b99d", null ],
+      [ "VehicleExitParamMax", "d5/d63/a02123.html#a7f17d71c7e2664769a8e8a8b40cb5116a0d5345401371099713f87a738fca55c0", null ]
     ] ],
-    [ "ShadowPriestSezzizEnum", "d5/d63/a02123.html#a4e0ee96bd227c57408d323b236131e7d", [
-      [ "SPELL_SHADOW_BOLT", "d5/d63/a02123.html#a4e0ee96bd227c57408d323b236131e7da8872edea8a2ac8c4e895c975482b9413", null ],
-      [ "SPELL_PSYCHIC_SCREEM", "d5/d63/a02123.html#a4e0ee96bd227c57408d323b236131e7da804b244c7e3d670c7c0c96c2deac50aa", null ],
-      [ "SPELL_RENEW", "d5/d63/a02123.html#a4e0ee96bd227c57408d323b236131e7daaf085a0eea027f75c291005b97cb46bd", null ],
-      [ "SPELL_HEAL", "d5/d63/a02123.html#a4e0ee96bd227c57408d323b236131e7da69fcca2d13e03c684fa0459f960ef9a7", null ]
+    [ "VehicleFlags", "d5/d63/a02123.html#a6f71ae83254cc7417ec04e6ac2a55f7a", [
+      [ "VEHICLE_FLAG_NO_STRAFE", "d5/d63/a02123.html#a6f71ae83254cc7417ec04e6ac2a55f7aa42ade3ec25a77cbf106f1da2cc732a6b", null ],
+      [ "VEHICLE_FLAG_NO_JUMPING", "d5/d63/a02123.html#a6f71ae83254cc7417ec04e6ac2a55f7aa283b85a441a9087bd98ed48a34707c6f", null ],
+      [ "VEHICLE_FLAG_FULLSPEEDTURNING", "d5/d63/a02123.html#a6f71ae83254cc7417ec04e6ac2a55f7aa8eb5fb073cde2366b27d7726b55593b1", null ],
+      [ "VEHICLE_FLAG_ALLOW_PITCHING", "d5/d63/a02123.html#a6f71ae83254cc7417ec04e6ac2a55f7aa929f5dba0c217566377740ffbde2195f", null ],
+      [ "VEHICLE_FLAG_FULLSPEEDPITCHING", "d5/d63/a02123.html#a6f71ae83254cc7417ec04e6ac2a55f7aaeeead2f047ca8fa51f9fb779867cd2c5", null ],
+      [ "VEHICLE_FLAG_CUSTOM_PITCH", "d5/d63/a02123.html#a6f71ae83254cc7417ec04e6ac2a55f7aaadfdb0e47bbca692a5cada5b07577a22", null ],
+      [ "VEHICLE_FLAG_ADJUST_AIM_ANGLE", "d5/d63/a02123.html#a6f71ae83254cc7417ec04e6ac2a55f7aa2cdd4b1bec19233a8162dc420ecde103", null ],
+      [ "VEHICLE_FLAG_ADJUST_AIM_POWER", "d5/d63/a02123.html#a6f71ae83254cc7417ec04e6ac2a55f7aadf965323e550d3307799178679544dd5", null ]
     ] ],
-    [ "weegliSays", "d5/d63/a02123.html#a326e8498672fa7a2db9a390d360f7391", [
-      [ "SAY_WEEGLI_OHNO", "d5/d63/a02123.html#a326e8498672fa7a2db9a390d360f7391aa1b27f3d4e49ae3cbea7b8b49371b41d", null ],
-      [ "SAY_WEEGLI_OK_I_GO", "d5/d63/a02123.html#a326e8498672fa7a2db9a390d360f7391aa92731cc39b2cffc724a22e3189198ea", null ],
-      [ "SAY_WEEGLI_OUT_OF_HERE", "d5/d63/a02123.html#a326e8498672fa7a2db9a390d360f7391aaa6eaf7f9cc5bb0b7c42aed2439da05c", null ]
+    [ "VehicleNPCs", "d5/d63/a02123.html#aecacfdf074f78c4655fc7b038cce5c06", [
+      [ "NPC_EIDOLON_WATCHER", "d5/d63/a02123.html#aecacfdf074f78c4655fc7b038cce5c06a1ad291a45a8ceaff91f636890e29dcb8", null ],
+      [ "NPC_LITHE_STALKER", "d5/d63/a02123.html#aecacfdf074f78c4655fc7b038cce5c06a5a7d35fc890662fca47daf84cc7c0612", null ]
     ] ],
-    [ "weegliSpells", "d5/d63/a02123.html#aa5d64b9165276a134e188d143807850c", [
-      [ "SPELL_BOMB", "d5/d63/a02123.html#aa5d64b9165276a134e188d143807850ca436b889374ecd412c15675983fdae5be", null ],
-      [ "SPELL_GOBLIN_LAND_MINE", "d5/d63/a02123.html#aa5d64b9165276a134e188d143807850ca04bb850750b0183913ab1008cba1833f", null ],
-      [ "SPELL_SHOOT", "d5/d63/a02123.html#aa5d64b9165276a134e188d143807850ca1b728fa1bb0194534b5b491d35ed871c", null ],
-      [ "SPELL_WEEGLIS_BARREL", "d5/d63/a02123.html#aa5d64b9165276a134e188d143807850ca1e379d7bc2f35c29e7b00ee0bf88357f", null ]
-    ] ],
-    [ "AddSC_zulfarrak", "d5/d63/a02123.html#a43b63d5d69b80ee6283471aacf5c9c87", null ],
-    [ "shadowpriestSezzizAdds", "d5/d63/a02123.html#ab3c6a2de23edecc492c7ca4de5c860c7", null ]
+    [ "VehicleSpells", "d5/d63/a02123.html#a5829b6d4bd25b5c2a56495142fa8ca54", [
+      [ "VEHICLE_SPELL_RIDE_HARDCODED", "d5/d63/a02123.html#a5829b6d4bd25b5c2a56495142fa8ca54adc19864d7c866905ca0c5bcec8b60119", null ],
+      [ "VEHICLE_SPELL_PARACHUTE", "d5/d63/a02123.html#a5829b6d4bd25b5c2a56495142fa8ca54a9d7d863fbfbc5b74e135ff1c825f2eae", null ],
+      [ "VEHICLE_SPELL_GEIST_CONTROL_END", "d5/d63/a02123.html#a5829b6d4bd25b5c2a56495142fa8ca54ac4b6447ce07cbd236c81e6cc097a42fe", null ],
+      [ "VEHICLE_SPELL_SHADE_CONTROL_END", "d5/d63/a02123.html#a5829b6d4bd25b5c2a56495142fa8ca54aa4ccb8c6147a5a23c813ae796ebe267b", null ]
+    ] ]
 ];

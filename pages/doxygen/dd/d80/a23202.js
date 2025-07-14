@@ -1,6 +1,6 @@
 var a23202 =
 [
-    [ "go_ahune_ice_stone", "dd/d80/a23202.html#ab7b665f01da80751ea97705c5113bde7", null ],
-    [ "GossipSelect", "dd/d80/a23202.html#aadb4db41ed84922c0a2d0463b8616876", null ],
-    [ "_instance", "dd/d80/a23202.html#a43651f471ac777b59fb8ba67b830cd35", null ]
+    [ "HandleScriptEffect", "dd/d80/a23202.html#a9e42f1af6fabb7df066cc2488a831418", null ],
+    [ "PrepareSpellScript", "dd/d80/a23202.html#a866496b087288a3cb8f00d4dbdb5d2ec", null ],
+    [ "Register", "dd/d80/a23202.html#a0fdb5d866d714d1d3bc71c4439a7f593", null ]
 ];

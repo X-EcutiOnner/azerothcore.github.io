@@ -1,10 +1,6 @@
 var a13714 =
 [
-    [ "boss_alyson_antille", "de/da9/a13714.html#a8b95891ced3f17f67470d1ec7b1a9a3e", null ],
-    [ "GetNearbyFriendlies", "de/da9/a13714.html#ab99596d5c2eafac8c678378d509bf585", null ],
-    [ "JustEngagedWith", "de/da9/a13714.html#a7a7d62c52a403ac1d8e5d275a74cad6e", null ],
-    [ "RandomReverseFriendlyList", "de/da9/a13714.html#afef27de229ba2c3b8beb30809a313237", null ],
-    [ "Reset", "de/da9/a13714.html#a40d901bde9f8419a1c73aa073f6fb334", null ],
-    [ "UpdateAI", "de/da9/a13714.html#a15157be42d166a239ab658fc04292e44", null ],
-    [ "_friendlyList", "de/da9/a13714.html#a0168c4a0f1e9862fe0d83ffac89aa634", null ]
+    [ "boss_blight_wormAI", "dc/db0/a13718.html", "dc/db0/a13718" ],
+    [ "boss_blight_worm", "de/da9/a13714.html#a6dea51baebc6b44ef94342565136e56d", null ],
+    [ "GetAI", "de/da9/a13714.html#a1cb9043482e9b3c3eff3fd75057a2fb2", null ]
 ];

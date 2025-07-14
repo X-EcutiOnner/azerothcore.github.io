@@ -1,6 +1,8 @@
 var a16838 =
 [
-    [ "npc_hor_risen_witch_doctorAI", "d0/dd4/a16842.html", "d0/dd4/a16842" ],
-    [ "npc_hor_risen_witch_doctor", "dc/dc7/a16838.html#add06a10c9b4342b136b5cab49338b095", null ],
-    [ "GetAI", "dc/dc7/a16838.html#a055a8d29d8e6a58b92968ed1c39c1b1d", null ]
+    [ "npc_hor_leaderAI", "d0/dd4/a16842.html", "d0/dd4/a16842" ],
+    [ "npc_hor_leader", "dc/dc7/a16838.html#a5c8d6cce242d144755fb14879f7f17d3", null ],
+    [ "GetAI", "dc/dc7/a16838.html#a55e7357aa6dff1efdff08541e88413e9", null ],
+    [ "OnGossipHello", "dc/dc7/a16838.html#afb46ea0b6926ad5d9b87b1d6a5e04591", null ],
+    [ "OnGossipSelect", "dc/dc7/a16838.html#ab5d01ae2803bab43b2c701d0cb1d4280", null ]
 ];

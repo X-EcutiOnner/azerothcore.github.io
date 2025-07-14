@@ -1,31 +1,19 @@
 var a01688 =
 [
-    [ "BfCapturePoint", "d8/d75/a07119.html", "d8/d75/a07119" ],
-    [ "BfGraveyard", "dc/d5e/a07123.html", "dc/d5e/a07123" ],
-    [ "Battlefield", "df/d83/a07127.html", "df/d83/a07127" ],
-    [ "GraveyardVect", "d6/d53/a01688.html#a3c001cdd2e1b762c5c2bdd6814e59f6c", null ],
-    [ "PlayerTimerMap", "d6/d53/a01688.html#a0467dc30f5bb6a1c9ee1487a3aced1a1", null ],
-    [ "BattlefieldIDs", "d6/d53/a01688.html#aff53bf428d550c270744c9a188d4187f", [
-      [ "BATTLEFIELD_BATTLEID_WG", "d6/d53/a01688.html#aff53bf428d550c270744c9a188d4187fa38e75e8c40750cb29f0d478d19974010", null ]
-    ] ],
-    [ "BattlefieldObjectiveStates", "d6/d53/a01688.html#af6db5a1d93982b261639cd12634a2798", [
-      [ "BF_CAPTUREPOINT_OBJECTIVESTATE_NEUTRAL", "d6/d53/a01688.html#af6db5a1d93982b261639cd12634a2798afafb6299c9f30c2bd0d2caac21577178", null ],
-      [ "BF_CAPTUREPOINT_OBJECTIVESTATE_ALLIANCE", "d6/d53/a01688.html#af6db5a1d93982b261639cd12634a2798ac05149e43f48e8fbe687c2cb48a88ac7", null ],
-      [ "BF_CAPTUREPOINT_OBJECTIVESTATE_HORDE", "d6/d53/a01688.html#af6db5a1d93982b261639cd12634a2798a683078aa231d432a72923b9eff4d5a29", null ],
-      [ "BF_CAPTUREPOINT_OBJECTIVESTATE_NEUTRAL_ALLIANCE_CHALLENGE", "d6/d53/a01688.html#af6db5a1d93982b261639cd12634a2798a47f8021bf59a901b2a512d28cc044c7f", null ],
-      [ "BF_CAPTUREPOINT_OBJECTIVESTATE_NEUTRAL_HORDE_CHALLENGE", "d6/d53/a01688.html#af6db5a1d93982b261639cd12634a2798a28c520f0b5997a10c6e8c040d803a9d5", null ],
-      [ "BF_CAPTUREPOINT_OBJECTIVESTATE_ALLIANCE_HORDE_CHALLENGE", "d6/d53/a01688.html#af6db5a1d93982b261639cd12634a2798a9c9e1d966e139a18ba54ee2c2fa0bc2b", null ],
-      [ "BF_CAPTUREPOINT_OBJECTIVESTATE_HORDE_ALLIANCE_CHALLENGE", "d6/d53/a01688.html#af6db5a1d93982b261639cd12634a2798af7b31d0894d6b9bd950d9a48c86da7c4", null ]
-    ] ],
-    [ "BattlefieldSounds", "d6/d53/a01688.html#a7c3836172413cb3b2cdabeb20b99f1b4", [
-      [ "BF_HORDE_WINS", "d6/d53/a01688.html#a7c3836172413cb3b2cdabeb20b99f1b4af85d42c135f0c26853ba8465193e8f3a", null ],
-      [ "BF_ALLIANCE_WINS", "d6/d53/a01688.html#a7c3836172413cb3b2cdabeb20b99f1b4ae1455c543e0df55993ddfe9e73cdc138", null ],
-      [ "BF_START", "d6/d53/a01688.html#a7c3836172413cb3b2cdabeb20b99f1b4a586da22ef0e5767a451125b0ca064007", null ]
-    ] ],
-    [ "BattlefieldTypes", "d6/d53/a01688.html#a6f435417da35c7d1b51c95e516fc6b2d", [
-      [ "BATTLEFIELD_WG", "d6/d53/a01688.html#a6f435417da35c7d1b51c95e516fc6b2da1fc74ab91b471d0c59f02fea08cb2efd", null ],
-      [ "BATTLEFIELD_TB", "d6/d53/a01688.html#a6f435417da35c7d1b51c95e516fc6b2daf6a0681946ddb59a6623fb1d76f4f610", null ]
-    ] ],
-    [ "BATTLEFIELD_OBJECTIVE_UPDATE_INTERVAL", "d6/d53/a01688.html#a79df696836c3edc53ca1868aab7f6e76", null ],
-    [ "BattlefieldFactions", "d6/d53/a01688.html#af5e231859535c4e1e6bd27ee42753f63", null ]
+    [ "GuildScript", "dc/d20/a10318.html", "dc/d20/a10318" ],
+    [ "GuildHook", "d6/d53/a01688.html#a5cb9f5f21f7f7d0e793d70058163507e", [
+      [ "GUILDHOOK_ON_ADD_MEMBER", "d6/d53/a01688.html#a5cb9f5f21f7f7d0e793d70058163507eae55dad40010dcbf6c50672cae2f0106d", null ],
+      [ "GUILDHOOK_ON_REMOVE_MEMBER", "d6/d53/a01688.html#a5cb9f5f21f7f7d0e793d70058163507eac79cc93d3ab4677a9801e213686e2b51", null ],
+      [ "GUILDHOOK_ON_MOTD_CHANGED", "d6/d53/a01688.html#a5cb9f5f21f7f7d0e793d70058163507ea909770c2a1fe124c3fa21f83ff55c0d5", null ],
+      [ "GUILDHOOK_ON_INFO_CHANGED", "d6/d53/a01688.html#a5cb9f5f21f7f7d0e793d70058163507eaf9949399a22fa1e1ed088bfa6952d23f", null ],
+      [ "GUILDHOOK_ON_CREATE", "d6/d53/a01688.html#a5cb9f5f21f7f7d0e793d70058163507ea9d64b482c3d8be9681ab83722c84316e", null ],
+      [ "GUILDHOOK_ON_DISBAND", "d6/d53/a01688.html#a5cb9f5f21f7f7d0e793d70058163507eac23a3058a5a051613b6970bad9a38f58", null ],
+      [ "GUILDHOOK_ON_MEMBER_WITDRAW_MONEY", "d6/d53/a01688.html#a5cb9f5f21f7f7d0e793d70058163507ea3a78e5195fdbecb916d9f9510175381b", null ],
+      [ "GUILDHOOK_ON_MEMBER_DEPOSIT_MONEY", "d6/d53/a01688.html#a5cb9f5f21f7f7d0e793d70058163507ea2663578fa69784d19d4833584d1a1fdc", null ],
+      [ "GUILDHOOK_ON_ITEM_MOVE", "d6/d53/a01688.html#a5cb9f5f21f7f7d0e793d70058163507ea6ef9bfbc009fd877098120f95d6a3fa8", null ],
+      [ "GUILDHOOK_ON_EVENT", "d6/d53/a01688.html#a5cb9f5f21f7f7d0e793d70058163507eac20b467223e978c03559c967fec760a7", null ],
+      [ "GUILDHOOK_ON_BANK_EVENT", "d6/d53/a01688.html#a5cb9f5f21f7f7d0e793d70058163507eaa5be911ea4c307508ba407ac09cd82d9", null ],
+      [ "GUILDHOOK_CAN_GUILD_SEND_BANK_LIST", "d6/d53/a01688.html#a5cb9f5f21f7f7d0e793d70058163507eaec99ae82238d8260ba512b23abc70b5b", null ],
+      [ "GUILDHOOK_END", "d6/d53/a01688.html#a5cb9f5f21f7f7d0e793d70058163507ea85e0e175b03a5491dec2498ff4c415bb", null ]
+    ] ]
 ];

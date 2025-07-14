@@ -1,6 +1,7 @@
 var a12342 =
 [
-    [ "boss_gehennasAI", "d2/d6f/a12342.html#aaefd1f10d03957477863df95143a95a9", null ],
-    [ "ExecuteEvent", "d2/d6f/a12342.html#a1568cecdacc6afee23b4661c3dc0ae2b", null ],
-    [ "JustEngagedWith", "d2/d6f/a12342.html#ad932bb3d7079f53cf1bb2b7ad143b15d", null ]
+    [ "HandleEffectScriptEffect", "d2/d6f/a12342.html#a8157c4b213b3b4e260222976e283e2ae", null ],
+    [ "PrepareSpellScript", "d2/d6f/a12342.html#aa8a4fdd0dc5c06a836ac05cec0dccd75", null ],
+    [ "Register", "d2/d6f/a12342.html#aeda056b568b4956ba35b32a3f20c053e", null ],
+    [ "Validate", "d2/d6f/a12342.html#a29a7f51f01e1ccf71dcc53ad68f032ae", null ]
 ];

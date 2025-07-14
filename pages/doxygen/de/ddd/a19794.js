@@ -1,6 +1,7 @@
 var a19794 =
 [
-    [ "npc_mimirons_infernoAI", "d0/d0d/a19798.html", "d0/d0d/a19798" ],
-    [ "npc_mimirons_inferno", "de/ddd/a19794.html#a7a531a65a179b5d56c888c055b72d269", null ],
-    [ "GetAI", "de/ddd/a19794.html#a69294c5e8f50727e5f1a6586a8a3682b", null ]
+    [ "OnRemove", "de/ddd/a19794.html#a4d7ec990112b4ed602bcacf5a6de6722", null ],
+    [ "PrepareAuraScript", "de/ddd/a19794.html#a7cc9f0d6882b713c7b0a2585d6008437", null ],
+    [ "Register", "de/ddd/a19794.html#ad3a66fdfb2a159461bb3deeab6f71c13", null ],
+    [ "Validate", "de/ddd/a19794.html#a8bd121743d1153ae3fd8eb124e475d0f", null ]
 ];

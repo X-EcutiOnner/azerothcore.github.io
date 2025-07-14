@@ -1,7 +1,6 @@
 var a14046 =
 [
-    [ "FilterTargets", "d0/d6c/a14046.html#a00adeba9ac3e631109308b1e4bf8f529", null ],
-    [ "HandleEffect", "d0/d6c/a14046.html#ab6dd7934cc6f10d327e80cd0b6bdfac9", null ],
-    [ "PrepareSpellScript", "d0/d6c/a14046.html#a08127992c96fb02e87e9ade65a5375d5", null ],
-    [ "Register", "d0/d6c/a14046.html#aeaf1955aece958a8e7d7773a33177e5d", null ]
+    [ "npc_ohganAI", "d7/de1/a14050.html", "d7/de1/a14050" ],
+    [ "npc_ohgan", "d0/d6c/a14046.html#ae391f2b36c68952ca5eaf773c29cbcad", null ],
+    [ "GetAI", "d0/d6c/a14046.html#a129dc2fcd449850403e0dcb99725da90", null ]
 ];

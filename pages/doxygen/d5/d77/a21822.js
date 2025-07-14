@@ -1,7 +1,6 @@
 var a21822 =
 [
-    [ "npc_tallhorn_stagAI", "d5/d77/a21822.html#a50947c450eece979193b45728e5e1f82", null ],
-    [ "Reset", "d5/d77/a21822.html#a67dce7ad60ddea63fcba5e1e2079fa7c", null ],
-    [ "UpdateAI", "d5/d77/a21822.html#adf60f62fa92238cb315c42e0179c3f17", null ],
-    [ "_phase", "d5/d77/a21822.html#ace2ac6f418876393d2f6d3457b1bc4c0", null ]
+    [ "npc_q24545_wretched_ghoulAI", "dd/dcb/a21826.html", "dd/dcb/a21826" ],
+    [ "npc_q24545_wretched_ghoul", "d5/d77/a21822.html#a3842b5bd89c911d29d561307113fb032", null ],
+    [ "GetAI", "d5/d77/a21822.html#ada973de0ff7295f0441cbd6b6aaca9ac", null ]
 ];

@@ -1,9 +1,6 @@
 var a24338 =
 [
-    [ "npc_pet_gen_fetch_ball", "d3/dd6/a24338.html#a4cd4dabd5df72ad1e64bdc8d6efb2f1b", null ],
-    [ "IsSummonedBy", "d3/dd6/a24338.html#abaf6308f7c47fd05acb86055bec0aea8", null ],
-    [ "SpellHitTarget", "d3/dd6/a24338.html#a87bdded236f6584d9b71507a1253f7d0", null ],
-    [ "UpdateAI", "d3/dd6/a24338.html#a1e0f75d5cd438d500ad94c5024bf83ae", null ],
-    [ "checkTimer", "d3/dd6/a24338.html#ab8d0a3a9ba2a8e0d6f58b3867f20974e", null ],
-    [ "targetGUID", "d3/dd6/a24338.html#ae474374af7c2270e218ed236d90c789c", null ]
+    [ "npc_slim", "d3/dd6/a24338.html#aa227fbe22126bed821939873973e6a20", null ],
+    [ "OnGossipHello", "d3/dd6/a24338.html#a34dafb9f3a82c1d2f52a95436345dd0b", null ],
+    [ "OnGossipSelect", "d3/dd6/a24338.html#a426963b7bf831a3b5a75dcf0629917a9", null ]
 ];

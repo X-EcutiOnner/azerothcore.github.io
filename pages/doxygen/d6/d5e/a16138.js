@@ -1,6 +1,7 @@
 var a16138 =
 [
-    [ "FilterTargets", "d6/d5e/a16138.html#a79d34d7e517b27e44c6a91d6056dfec7", null ],
-    [ "PrepareSpellScript", "d6/d5e/a16138.html#a5ede43deece629a38f5482280983b59a", null ],
-    [ "Register", "d6/d5e/a16138.html#aec3d0ed996e9cbfed9fb78c5f16e254f", null ]
+    [ "OnApply", "d6/d5e/a16138.html#ad072d243dd148e1b34aea29a2e5d175e", null ],
+    [ "PrepareAuraScript", "d6/d5e/a16138.html#ae657ceca517aa3f725ba72c18ddbaf1c", null ],
+    [ "Register", "d6/d5e/a16138.html#a4eab0bd70eb884f7736e90f9001d3cc7", null ],
+    [ "Validate", "d6/d5e/a16138.html#a2c9e4d82bd25f439e01a05700563b122", null ]
 ];

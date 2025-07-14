@@ -1,7 +1,6 @@
 var a18830 =
 [
-    [ "OnRemove", "de/dd3/a18830.html#a4e6a66934a01d01c50208459f6771353", null ],
-    [ "PrepareAuraScript", "de/dd3/a18830.html#a2320044c6c81a89af0fefd4f90c05bd5", null ],
-    [ "Register", "de/dd3/a18830.html#a4890d35f2b0889156a437c95e49f528c", null ],
-    [ "Validate", "de/dd3/a18830.html#a1b90f1288b3b45267edd4da2b3418b21", null ]
+    [ "npc_icc_nerubar_broodkeeperAI", "d2/dc0/a18834.html", "d2/dc0/a18834" ],
+    [ "npc_icc_nerubar_broodkeeper", "de/dd3/a18830.html#adf9c3bfb444fed50420c2e780b373f34", null ],
+    [ "GetAI", "de/dd3/a18830.html#ad12186da36f7bbf99275a746bc874bfc", null ]
 ];

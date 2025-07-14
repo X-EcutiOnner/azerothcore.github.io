@@ -1,15 +1,13 @@
 var a11530 =
 [
-    [ "arena_commandscript", "d7/d90/a11530.html#ad433113f5a3cf7f2cb43ff4fd3f0d49d", null ],
-    [ "GetCommands", "d7/d90/a11530.html#a3a5e95fca957fd1898d6a7acea98931e", null ],
-    [ "HandleArenaCaptainCommand", "d7/d90/a11530.html#a7b7123c837bbecb1a4d3d2e8aa934d4c", null ],
-    [ "HandleArenaCreateCommand", "d7/d90/a11530.html#a10eab39042cb718d839fbdf7236b1a31", null ],
-    [ "HandleArenaDisbandCommand", "d7/d90/a11530.html#a012626d4c101a63d9a70c530c9e98354", null ],
-    [ "HandleArenaInfoCommand", "d7/d90/a11530.html#a90fc70aae7b3e0fec179a0a1a7482c11", null ],
-    [ "HandleArenaLookupCommand", "d7/d90/a11530.html#a7356c0a45dcf32809a32fe6053b94de0", null ],
-    [ "HandleArenaRenameCommand", "d7/d90/a11530.html#a4095683ee7b5a2236dac8aa36a607d7c", null ],
-    [ "HandleArenaSeasonDeleteTeamsCommand", "d7/d90/a11530.html#a956b4450813331d5bc43c46409c4a095", null ],
-    [ "HandleArenaSeasonRewardCommand", "d7/d90/a11530.html#a8b83f4ae0544e33d4bafe674b416f176", null ],
-    [ "HandleArenaSeasonSetStateCommand", "d7/d90/a11530.html#a8d6c1eeaebab28859f0bdef70b50a3bb", null ],
-    [ "HandleArenaSeasonStartCommand", "d7/d90/a11530.html#a58ea37f547986c084c04064bddc32cfb", null ]
+    [ "CommandFinished", "d7/d90/a11530.html#af7ce6ffac9fa11ce0db6fd10919c4e4a", null ],
+    [ "Print", "d7/d90/a11530.html#ab10379cf266b38f4d81e2477b727471e", null ],
+    [ "CliCommandHolder", "d7/d90/a11530.html#a5a45e891607114cd070721fd51926cd5", null ],
+    [ "~CliCommandHolder", "d7/d90/a11530.html#a44ca7e8af5c717b1cff7b143afc077ee", null ],
+    [ "CliCommandHolder", "d7/d90/a11530.html#ad9c7b2da92d97c464fb14ad1e0b9a4a9", null ],
+    [ "operator=", "d7/d90/a11530.html#aaca241ecd81dc25788eaccbdc4aa5f60", null ],
+    [ "m_callbackArg", "d7/d90/a11530.html#a4579ce86ff43da89524b62eefe308a59", null ],
+    [ "m_command", "d7/d90/a11530.html#ae333918e09a9de4c9e402c334e076674", null ],
+    [ "m_commandFinished", "d7/d90/a11530.html#a416a66ac78f1d2cb1ee2d0d93f276f43", null ],
+    [ "m_print", "d7/d90/a11530.html#aa49897105905b9812fcf962326486d5d", null ]
 ];

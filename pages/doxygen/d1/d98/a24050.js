@@ -1,6 +1,6 @@
 var a24050 =
 [
-    [ "npc_invis_infernal_casterAI", "d3/d99/a24054.html", "d3/d99/a24054" ],
-    [ "npc_invis_infernal_caster", "d1/d98/a24050.html#a9aed081ef904075830428bbc76f53874", null ],
-    [ "GetAI", "d1/d98/a24050.html#aede0c5cc390ea423169b1cba66d929cd", null ]
+    [ "go_beaconAI", "d1/d98/a24050.html#a95f0f62d4e34da650c22a7ce796fc85f", null ],
+    [ "OnStateChanged", "d1/d98/a24050.html#a10bd78bf6c2451fe95163eb9083bdf44", null ],
+    [ "creatureList", "d1/d98/a24050.html#a8f406b85752e42cc26741aa5a13e69bc", null ]
 ];

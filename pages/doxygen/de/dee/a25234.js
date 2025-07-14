@@ -1,7 +1,6 @@
 var a25234 =
 [
-    [ "OnApply", "de/dee/a25234.html#a455a885611978a390cd4bfa76b05f82b", null ],
-    [ "PrepareAuraScript", "de/dee/a25234.html#ac8f269db5d77cf38bdfcbcfef75a62ff", null ],
-    [ "Register", "de/dee/a25234.html#a4b1a28052f11b47646dafbcd60b9dad8", null ],
-    [ "Validate", "de/dee/a25234.html#af1174bbbaab1d170a0dcd030d2f1e990", null ]
+    [ "OnApply", "de/dee/a25234.html#a476bf6fc1a91784dbc8534c0e57005d6", null ],
+    [ "PrepareAuraScript", "de/dee/a25234.html#a159ee8a9b0af729ed01f7632adb58863", null ],
+    [ "Register", "de/dee/a25234.html#a0f33043317402119aa14e50a1eb6c227", null ]
 ];

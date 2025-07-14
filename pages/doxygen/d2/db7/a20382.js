@@ -1,6 +1,6 @@
 var a20382 =
 [
-    [ "npc_ulduar_flames_spreadAI", "d7/d51/a20386.html", "d7/d51/a20386" ],
-    [ "npc_ulduar_flames_spread", "d2/db7/a20382.html#aca9713b28d6d0c7b13b85a00c8a53ab0", null ],
-    [ "GetAI", "d2/db7/a20382.html#af492a5bc9304a05f8475a39458c6abdb", null ]
+    [ "FilterTargets", "d2/db7/a20382.html#ae8d940a89be9b63286911bd55dcd3844", null ],
+    [ "PrepareSpellScript", "d2/db7/a20382.html#a8f4b4d82e53c8f820b620896478681a9", null ],
+    [ "Register", "d2/db7/a20382.html#a744d5cb8de927410ab1bf72008fff8b3", null ]
 ];

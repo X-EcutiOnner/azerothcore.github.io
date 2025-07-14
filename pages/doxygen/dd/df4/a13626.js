@@ -1,7 +1,7 @@
 var a13626 =
 [
-    [ "boss_blight_wormAI", "dd/df4/a13626.html#af267e395fbd539f871e498dc6745c610", null ],
-    [ "Reset", "dd/df4/a13626.html#a96e27eaba5c9e422981d78123ed9c83d", null ],
-    [ "UpdateAI", "dd/df4/a13626.html#ac8e4c5a7a251173a2afb369498c88a1d", null ],
-    [ "_events", "dd/df4/a13626.html#a65f7fd4f73c727eeb5988d7ec77b94ce", null ]
+    [ "npc_deathstalker_erlandAI", "dd/df4/a13626.html#aa3c6822db09bc40dc87d556f6b3cc880", null ],
+    [ "JustEngagedWith", "dd/df4/a13626.html#ae4789c26cbb00b4ac04d646617a48a40", null ],
+    [ "Reset", "dd/df4/a13626.html#a3def0a0dd57ed732242a09d6390ab1f0", null ],
+    [ "WaypointReached", "dd/df4/a13626.html#af200e269d3f4b51bb5cfd08e9bf7ecc5", null ]
 ];

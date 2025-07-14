@@ -1,16 +1,15 @@
 var a19066 =
 [
-    [ "boss_thaddius_summonAI", "db/d43/a19066.html#aa5050ea97f0f92a39f3db856af5cd28e", null ],
-    [ "DoAction", "db/d43/a19066.html#a3b95513bd72806a928c0f57cf6ceb45a", null ],
-    [ "EnterEvadeMode", "db/d43/a19066.html#ad2258d2039a789f99ad4c0766726df85", null ],
-    [ "JustDied", "db/d43/a19066.html#a1629c28098312defb57611967adf34fe", null ],
-    [ "JustEngagedWith", "db/d43/a19066.html#af96f6054547e377f401972273e6e86aa", null ],
-    [ "KilledUnit", "db/d43/a19066.html#a16771a7a854f85dcc26e3510d31454af", null ],
-    [ "Reset", "db/d43/a19066.html#a762fb33bd8fe4ac457b9b7b9c44b5d4c", null ],
-    [ "UpdateAI", "db/d43/a19066.html#a6f99135eb20d77cca69ec20fe4fbd002", null ],
-    [ "events", "db/d43/a19066.html#a18dd6a61746effdf03cd0afbadd8a368", null ],
-    [ "myCoil", "db/d43/a19066.html#a2c21b7023f7396566f7486591a653079", null ],
-    [ "overload", "db/d43/a19066.html#a6d054ec2a0f26f9f3a5b142bacca0ae5", null ],
-    [ "pullTimer", "db/d43/a19066.html#a6080f32e1d90fa3e2e7bd9447abbad87", null ],
-    [ "visualTimer", "db/d43/a19066.html#a3587b09a23d7aad81effd14bbda03291", null ]
+    [ "boss_kelthuzad_minionAI", "db/d43/a19066.html#addeb3112e8b6da5713e6c25878c7e785", null ],
+    [ "AttackStart", "db/d43/a19066.html#ae6e2b0dd529f819b5b62348059dacb02", null ],
+    [ "DoAction", "db/d43/a19066.html#acd08aa78c1620f5552bbbc77c06b4344", null ],
+    [ "JustDied", "db/d43/a19066.html#abc6db76c9dcdbdb1c51b7f67d4c39551", null ],
+    [ "JustEngagedWith", "db/d43/a19066.html#a135dd028f95eeb34b2852e8dafebbe63", null ],
+    [ "JustReachedHome", "db/d43/a19066.html#aedfaf037ddf66d0e3aa990b4ea5b171c", null ],
+    [ "KilledUnit", "db/d43/a19066.html#ac8a2297a89310f4902fdc544ef71b673", null ],
+    [ "MoveInLineOfSight", "db/d43/a19066.html#aee871ff356bcfd38162a5f6c9bd3c994", null ],
+    [ "Reset", "db/d43/a19066.html#a01db0df4ec5f49d0915e90c418ebba75", null ],
+    [ "UpdateAI", "db/d43/a19066.html#ad60ec485144e447fd9d43b0cd5d6c87c", null ],
+    [ "callHelp", "db/d43/a19066.html#a6c6935e058bc18c013bc31f03f5a914b", null ],
+    [ "events", "db/d43/a19066.html#a2885d65bfaf345e7c3dfa42d8c80a892", null ]
 ];

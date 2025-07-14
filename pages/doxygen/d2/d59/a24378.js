@@ -1,7 +1,7 @@
 var a24378 =
 [
-    [ "CheckCast", "d2/d59/a24378.html#a0e4e62a9b1763619170b6da8487e7ee1", null ],
-    [ "HandleDummy", "d2/d59/a24378.html#ac7084a563e98760d58dfbcafdd7cde11", null ],
-    [ "PrepareSpellScript", "d2/d59/a24378.html#a465da282630352a289d5daae7ccb1d01", null ],
-    [ "Register", "d2/d59/a24378.html#ae668f0c45a74d56d1be5be29309c9f6d", null ]
+    [ "npc_pet_gen_target_following_bomb", "d2/d59/a24378.html#a447c2cd258d784ca1d79c79412a1a426", null ],
+    [ "UpdateAI", "d2/d59/a24378.html#ac68f18d68a313623c04e885f9506f287", null ],
+    [ "bombSpellId", "d2/d59/a24378.html#a3c72bd26c66d3e7a85f3152557e399c4", null ],
+    [ "checkTimer", "d2/d59/a24378.html#a694ee5f884f1bd404f0ef3d3030a212f", null ]
 ];

@@ -1,6 +1,6 @@
 var a19906 =
 [
-    [ "CheckCast", "da/dcc/a19906.html#a866fd47d51b5fc4c07c3733739d07c02", null ],
-    [ "PrepareSpellScript", "da/dcc/a19906.html#a09cbe962ae1f18811db8c1d32b856c0d", null ],
-    [ "Register", "da/dcc/a19906.html#a240989af43e5ad6eb81d600a2f1d4769", null ]
+    [ "npc_thorims_hammerAI", "d6/d1d/a19910.html", "d6/d1d/a19910" ],
+    [ "npc_thorims_hammer", "da/dcc/a19906.html#a97cbcda73931e6119f8ab30fa4bb0806", null ],
+    [ "GetAI", "da/dcc/a19906.html#aaee92d115d112ebf590cf690de8c6667", null ]
 ];

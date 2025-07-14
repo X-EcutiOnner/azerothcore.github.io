@@ -1,6 +1,9 @@
 var a18810 =
 [
-    [ "npc_four_car_garageAI", "dc/dcc/a18810.html#a2eedf5934e12d33cda0ac173d82220d5", null ],
-    [ "JustDied", "dc/dcc/a18810.html#a1fba9f03dca2db37b5cb969079b25d22", null ],
-    [ "PassengerBoarded", "dc/dcc/a18810.html#a144bc36a5c4ff227c8a7dc146d4167b6", null ]
+    [ "npc_icc_severed_essenceAI", "dc/dcc/a18810.html#a76366c33ab9ec7aa291c0df657fbef68", null ],
+    [ "CanAIAttack", "dc/dcc/a18810.html#a2cc2cfc967f9ad966d76571eb0eb630f", null ],
+    [ "DoAction", "dc/dcc/a18810.html#a938af3a7de5b26432e1ad515a326a032", null ],
+    [ "UpdateAI", "dc/dcc/a18810.html#a66e3324baa87ba109dd968a517ee82a5", null ],
+    [ "Class", "dc/dcc/a18810.html#aa627713be3a2ac01336d158d96aaccc7", null ],
+    [ "events", "dc/dcc/a18810.html#a1bab216925c4123d633d9613bb80365c", null ]
 ];

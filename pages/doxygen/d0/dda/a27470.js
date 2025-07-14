@@ -1,10 +1,8 @@
 var a27470 =
 [
-    [ "npc_dancing_flamesAI", "d0/dda/a27470.html#a3d597b2ee826c86b5a8feb3aa144a459", null ],
-    [ "JustEngagedWith", "d0/dda/a27470.html#ae0d71d4f9074c05ea76951ede6c7702a", null ],
-    [ "ReceiveEmote", "d0/dda/a27470.html#a13aae489e8b03121c8fbae12e83bdfaa", null ],
-    [ "Reset", "d0/dda/a27470.html#a53b49dadc70e3e134ca49cd239b569d6", null ],
-    [ "UpdateAI", "d0/dda/a27470.html#a555f2ed0d762c5c183ec87580bae46b1", null ],
-    [ "Active", "d0/dda/a27470.html#aa79036bed206327847bf5ad2e768e8f6", null ],
-    [ "CanIteract", "d0/dda/a27470.html#a866bfc106fc33433b4eb13fabd9c39c6", null ]
+    [ "npc_nelsonAI", "d6/dbe/a27474.html", "d6/dbe/a27474" ],
+    [ "npc_nelson", "d0/dda/a27470.html#ada597926a6db1aa7823ddabc19945b11", null ],
+    [ "GetAI", "d0/dda/a27470.html#a75fea281fb49249345c48236bf44b1c8", null ],
+    [ "OnGossipHello", "d0/dda/a27470.html#aa693b365a15d4617f214f9c3c229bf89", null ],
+    [ "OnGossipSelect", "d0/dda/a27470.html#aff8e412cfcabd7b653cd30d29878be6a", null ]
 ];

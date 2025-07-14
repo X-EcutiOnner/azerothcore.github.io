@@ -1,6 +1,6 @@
 var a24874 =
 [
-    [ "HandleOnEffectHit", "db/d83/a24874.html#a07b15e180ee79149cad15b32b3c94359", null ],
-    [ "PrepareSpellScript", "db/d83/a24874.html#afbea54d2dad7a969d7e7558d43ecbc95", null ],
-    [ "Register", "db/d83/a24874.html#ad2426cf9076d3fe4f33984ab28df11f6", null ]
+    [ "CheckProc", "db/d83/a24874.html#a3c4f64fc51367ebb549282b068458f4c", null ],
+    [ "PrepareAuraScript", "db/d83/a24874.html#a72dc7c7b8bc842a7feb6857cbec34d25", null ],
+    [ "Register", "db/d83/a24874.html#ac84b357828094a42aab1c8bfee83d298", null ]
 ];

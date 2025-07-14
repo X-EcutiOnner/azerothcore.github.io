@@ -1,6 +1,5 @@
 var a27186 =
 [
-    [ "go_midsummer_musicAI", "df/d57/a27186.html#a8cbadc16a9588c469ff48dbaf51ac71c", null ],
-    [ "UpdateAI", "df/d57/a27186.html#adf185ee702e9e74f65204b90786f9eb4", null ],
-    [ "_events", "df/d57/a27186.html#a31e45a754930cdc3206fe2b7f754d234", null ]
+    [ "go_ethereum_prison", "df/d57/a27186.html#a1872dab11a8470194ab35f87e217aa8a", null ],
+    [ "OnGossipHello", "df/d57/a27186.html#a73479b0512ea778336fad4bd5cd9b909", null ]
 ];

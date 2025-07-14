@@ -1,4 +1,6 @@
 var a04652 =
 [
-    [ "wdtGetPlainName", "d1/d2b/a04652.html#aec756087655d9d993d4475947742ba56", null ]
+    [ "ResultIterator< T >", "dc/da1/a05846.html", "dc/da1/a05846" ],
+    [ "ResultSet", "da/d81/a05850.html", "da/d81/a05850" ],
+    [ "PreparedResultSet", "d3/d9f/a05854.html", "d3/d9f/a05854" ]
 ];

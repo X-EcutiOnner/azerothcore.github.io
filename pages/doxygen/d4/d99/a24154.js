@@ -1,9 +1,10 @@
 var a24154 =
 [
-    [ "npc_korkron_or_wildhammer", "d4/d99/a24154.html#a3d2252865e0e540dd76aaf87ff62a83c", null ],
-    [ "IsSummonedBy", "d4/d99/a24154.html#aa63e935c2d64716f22f4e74e43e6b639", null ],
-    [ "JustDied", "d4/d99/a24154.html#a2b216f372b3681b4c96a711568c2a93b", null ],
-    [ "MovementInform", "d4/d99/a24154.html#a598dada110aff99a3c36f3037dcf8bf4", null ],
-    [ "Reset", "d4/d99/a24154.html#a67d5cf4a8418ab3f07a387f1021080df", null ],
-    [ "_playerGUID", "d4/d99/a24154.html#a5f1a79c10b5363ee24b3941c54ff10d7", null ]
+    [ "npc_infernal_attackerAI", "d4/d99/a24154.html#ae04c4e026f22bd650bb33940b923df9a", null ],
+    [ "IsSummonedBy", "d4/d99/a24154.html#a926e6cd6772784872a905de7245007ac", null ],
+    [ "JustDied", "d4/d99/a24154.html#a1822131520f98dd5f1dd637282f20ae3", null ],
+    [ "Reset", "d4/d99/a24154.html#a6c871d05d4fd0a6f72f409285f012f9c", null ],
+    [ "SpellHit", "d4/d99/a24154.html#a956f3fb1e341519817599df08afc2589", null ],
+    [ "UpdateAI", "d4/d99/a24154.html#a458ba4c884a95080e1088a07a04a9cb9", null ],
+    [ "casterGUID", "d4/d99/a24154.html#ab2e791cc0a67012bc56c3b07e3f327e9", null ]
 ];

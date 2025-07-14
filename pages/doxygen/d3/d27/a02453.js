@@ -1,21 +1,41 @@
 var a02453 =
 [
-    [ "instance_blackwing_lair", "d7/d68/a12308.html", "d7/d68/a12308" ],
-    [ "instance_blackwing_lair::instance_blackwing_lair_InstanceMapScript", "d4/dbb/a12312.html", "d4/dbb/a12312" ],
-    [ "spell_bwl_shadowflame", "d1/d5a/a12316.html", "d1/d5a/a12316" ],
-    [ "at_orb_of_command", "df/da2/a12320.html", "df/da2/a12320" ],
-    [ "orb_of_command_misc", "d3/d27/a02453.html#a5ddae3d5f11ae5a5d826e7e18d4cded5", [
-      [ "QUEST_BLACKHANDS_COMMAND", "d3/d27/a02453.html#a5ddae3d5f11ae5a5d826e7e18d4cded5ae1d5923d960c45957f7789ee3d943db5", null ]
+    [ "npc_pet_hunter_snake_trap", "df/db5/a24422.html", "df/db5/a24422" ],
+    [ "HunterSpells", "d3/d27/a02453.html#a87efb4c7cf60464c813daf57f8006a7e", [
+      [ "SPELL_HUNTER_CRIPPLING_POISON", "d3/d27/a02453.html#a87efb4c7cf60464c813daf57f8006a7ea919b3819273ed109abc5ff9e1f17f280", null ],
+      [ "SPELL_HUNTER_DEADLY_POISON_PASSIVE", "d3/d27/a02453.html#a87efb4c7cf60464c813daf57f8006a7ead1a8eca1edbd63099142576708bdcdbf", null ],
+      [ "SPELL_HUNTER_MIND_NUMBING_POISON", "d3/d27/a02453.html#a87efb4c7cf60464c813daf57f8006a7eadf08a2ccf6ab77efd0195c9312df57fc", null ],
+      [ "SPELL_HUNTER_GLYPH_OF_SNAKE_TRAP", "d3/d27/a02453.html#a87efb4c7cf60464c813daf57f8006a7eafb79cd1f0ef5f656d3f72634c53cfde6", null ],
+      [ "SPELL_HUNTER_PET_SCALING", "d3/d27/a02453.html#a87efb4c7cf60464c813daf57f8006a7ea5d2116d1e86d04190a20c4e9fed1c86f", null ],
+      [ "SPELL_HUNTER_WYVERN_STING_DOT", "d0/dee/a02870.html#a87efb4c7cf60464c813daf57f8006a7ea30a1369afc6885f7670bcf55f8948c07", null ],
+      [ "SPELL_HUNTER_ASPECT_OF_THE_BEAST", "d0/dee/a02870.html#a87efb4c7cf60464c813daf57f8006a7ea9729e1f80d9e5ce1cd9928f8ed27ca00", null ],
+      [ "SPELL_HUNTER_ASPECT_OF_THE_BEAST_PET", "d0/dee/a02870.html#a87efb4c7cf60464c813daf57f8006a7eaab952376ae60a2bfa87860e57b81604e", null ],
+      [ "SPELL_HUNTER_ASPECT_OF_THE_VIPER", "d0/dee/a02870.html#a87efb4c7cf60464c813daf57f8006a7ead05cc74310d029dfed9226f52ff7e9e7", null ],
+      [ "SPELL_HUNTER_ASPECT_OF_THE_VIPER_ENERGIZE", "d0/dee/a02870.html#a87efb4c7cf60464c813daf57f8006a7ea291f618e33506ca7b2182480873737f8", null ],
+      [ "SPELL_HUNTER_BESTIAL_WRATH", "d0/dee/a02870.html#a87efb4c7cf60464c813daf57f8006a7ead2ce3e1b324d99ed0919aad89eb0d524", null ],
+      [ "SPELL_HUNTER_CHIMERA_SHOT_SERPENT", "d0/dee/a02870.html#a87efb4c7cf60464c813daf57f8006a7eae4017a2262529adaf18e0cfcc81ca052", null ],
+      [ "SPELL_HUNTER_CHIMERA_SHOT_VIPER", "d0/dee/a02870.html#a87efb4c7cf60464c813daf57f8006a7ea27313cec0b1c54431414148930dee532", null ],
+      [ "SPELL_HUNTER_CHIMERA_SHOT_SCORPID", "d0/dee/a02870.html#a87efb4c7cf60464c813daf57f8006a7ea02c4f17910c60803051dc22d837911ce", null ],
+      [ "SPELL_HUNTER_GLYPH_OF_ASPECT_OF_THE_VIPER", "d0/dee/a02870.html#a87efb4c7cf60464c813daf57f8006a7ea6511da7ee83f971738c671b8150f93c1", null ],
+      [ "SPELL_HUNTER_IMPROVED_MEND_PET", "d0/dee/a02870.html#a87efb4c7cf60464c813daf57f8006a7ead3961ef5de734ba9384c7c21b78b88a3", null ],
+      [ "SPELL_HUNTER_INVIGORATION_TRIGGERED", "d0/dee/a02870.html#a87efb4c7cf60464c813daf57f8006a7ea0835f319e0b7eae6873df26c0ecb1516", null ],
+      [ "SPELL_HUNTER_MASTERS_CALL_TRIGGERED", "d0/dee/a02870.html#a87efb4c7cf60464c813daf57f8006a7ea6268d79b97acf49da958366261e0df54", null ],
+      [ "SPELL_HUNTER_MISDIRECTION_PROC", "d0/dee/a02870.html#a87efb4c7cf60464c813daf57f8006a7ea3e0615670e4fc9469b7250228033251c", null ],
+      [ "SPELL_HUNTER_PET_LAST_STAND_TRIGGERED", "d0/dee/a02870.html#a87efb4c7cf60464c813daf57f8006a7ead1b47010db0ea9e584e24e15141719b7", null ],
+      [ "SPELL_HUNTER_PET_HEART_OF_THE_PHOENIX", "d0/dee/a02870.html#a87efb4c7cf60464c813daf57f8006a7ea0a1495d9817725f5cb19e63026605ce5", null ],
+      [ "SPELL_HUNTER_PET_HEART_OF_THE_PHOENIX_TRIGGERED", "d0/dee/a02870.html#a87efb4c7cf60464c813daf57f8006a7ea8ab8a8af8e4201e7442c10a338a5d6dd", null ],
+      [ "SPELL_HUNTER_PET_HEART_OF_THE_PHOENIX_DEBUFF", "d0/dee/a02870.html#a87efb4c7cf60464c813daf57f8006a7ea848635e540638b2f1fb01164ec34a332", null ],
+      [ "SPELL_HUNTER_PET_CARRION_FEEDER_TRIGGERED", "d0/dee/a02870.html#a87efb4c7cf60464c813daf57f8006a7eabb248b57d2aeb464deeed4679d51d110", null ],
+      [ "SPELL_HUNTER_READINESS", "d0/dee/a02870.html#a87efb4c7cf60464c813daf57f8006a7ea5eb25691f66e527c4af972f7390363a7", null ],
+      [ "SPELL_HUNTER_SNIPER_TRAINING_R1", "d0/dee/a02870.html#a87efb4c7cf60464c813daf57f8006a7ea28068379ce495b5984cad20edcd9f95c", null ],
+      [ "SPELL_HUNTER_SNIPER_TRAINING_BUFF_R1", "d0/dee/a02870.html#a87efb4c7cf60464c813daf57f8006a7ea38571110b4e0757cb9400f8c23f34410", null ],
+      [ "SPELL_HUNTER_VICIOUS_VIPER", "d0/dee/a02870.html#a87efb4c7cf60464c813daf57f8006a7ea91c03fc46203d796b746b1f13a72f034", null ],
+      [ "SPELL_HUNTER_VIPER_ATTACK_SPEED", "d0/dee/a02870.html#a87efb4c7cf60464c813daf57f8006a7ea05da71a759b2932a2f0dc58dc3852138", null ],
+      [ "SPELL_DRAENEI_GIFT_OF_THE_NAARU", "d0/dee/a02870.html#a87efb4c7cf60464c813daf57f8006a7ea8b43cf97edfed28f7001b77141f01fac", null ],
+      [ "SPELL_HUNTER_GLYPH_OF_ARCANE_SHOT", "d0/dee/a02870.html#a87efb4c7cf60464c813daf57f8006a7ea24de2077bf8ff891f5d0639cae664d5b", null ],
+      [ "SPELL_LOCK_AND_LOAD_TRIGGER", "d0/dee/a02870.html#a87efb4c7cf60464c813daf57f8006a7ea5706be61803978650ec18c15106c8491", null ],
+      [ "SPELL_LOCK_AND_LOAD_MARKER", "d0/dee/a02870.html#a87efb4c7cf60464c813daf57f8006a7eadfa5358bedddaa69188aa6805eee5002", null ],
+      [ "SPELL_HUNTER_PET_LEGGINGS_OF_BEAST_MASTERY", "d0/dee/a02870.html#a87efb4c7cf60464c813daf57f8006a7ea9690d550fbf55abe4d2da23e29b5f8b6", null ]
     ] ],
-    [ "ShadowFlame", "d3/d27/a02453.html#a18a82309d32c08f1de5944fde20789fa", [
-      [ "SPELL_ONYXIA_SCALE_CLOAK", "d3/d27/a02453.html#a18a82309d32c08f1de5944fde20789faa2f64e1a42a1d2fb4d6c849100de2c7d0", null ],
-      [ "SPELL_SHADOW_FLAME_DOT", "d3/d27/a02453.html#a18a82309d32c08f1de5944fde20789faaed2cf39ef97aea751e32c5249fc8fc3e", null ]
-    ] ],
-    [ "AddSC_instance_blackwing_lair", "d3/d27/a02453.html#a942a9ad3e1b872492dfc7d62615df103", null ],
-    [ "creatureData", "d3/d27/a02453.html#a412286b689bd324fedd65ddd8dde8afb", null ],
-    [ "doorData", "d3/d27/a02453.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
-    [ "Entry", "d3/d27/a02453.html#a79d118516d0621008a183666ffecc3ad", null ],
-    [ "objectData", "d3/d27/a02453.html#a59ddfa91084111da23b5d47482e4ff8d", null ],
-    [ "orbOfCommandTP", "d3/d27/a02453.html#a9ee49a7ad7d4b8e8f52533faa578370f", null ],
-    [ "SummonPosition", "d3/d27/a02453.html#a2c79c628fd8c60d02dc0b2368a70be04", null ]
+    [ "AddSC_hunter_pet_scripts", "d3/d27/a02453.html#ab89117a79c55f003f82b06a1878e6534", null ]
 ];

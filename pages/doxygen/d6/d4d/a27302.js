@@ -1,5 +1,6 @@
 var a27302 =
 [
-    [ "item_only_for_flight", "d6/d4d/a27302.html#a8f905266dc8f24cf35598a37e7018ff7", null ],
-    [ "OnUse", "d6/d4d/a27302.html#a88cdf17a85630aef703f93143ba41d4d", null ]
+    [ "go_fel_crystalforge", "d6/d4d/a27302.html#aa44708a617edd51651da49918ab776e5", null ],
+    [ "OnGossipHello", "d6/d4d/a27302.html#aae9f4beff251efb7b29e1988ddd51eaf", null ],
+    [ "OnGossipSelect", "d6/d4d/a27302.html#a97450cce5f547e28ea84fa6a6f8ab79e", null ]
 ];

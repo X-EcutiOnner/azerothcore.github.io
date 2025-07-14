@@ -1,5 +1,9 @@
 var a17670 =
 [
-    [ "at_lady_deathwhisper_entrance", "df/d4b/a17670.html#a3c16844f4ff97fd0699edb1d1aca2f60", null ],
-    [ "OnTrigger", "df/d4b/a17670.html#a769c838c94a88af5492057909d88f3de", null ]
+    [ "CalculatePower", "df/d4b/a17670.html#a66acc23548f88c31e9fe45db76af2bcc", null ],
+    [ "Load", "df/d4b/a17670.html#a820032e169929fd9969ecf1ee2c7f1be", null ],
+    [ "PrepareSpellScript", "df/d4b/a17670.html#a49489a8e4e39735efa560f53236dfc2c", null ],
+    [ "PreventPowerGainOnHit", "df/d4b/a17670.html#a5eebe6f82a6d7306d6e232b755531939", null ],
+    [ "Register", "df/d4b/a17670.html#a67b59c096848adaad5566cbc2140da59", null ],
+    [ "Validate", "df/d4b/a17670.html#a355500a6f3bfed084030738041d0e3b9", null ]
 ];

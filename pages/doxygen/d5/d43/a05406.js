@@ -1,10 +1,8 @@
 var a05406 =
 [
-    [ "AsyncCallbackProcessor", "d5/d43/a05406.html#aee6f273ab86fad749de85cd12ea32a98", null ],
-    [ "~AsyncCallbackProcessor", "d5/d43/a05406.html#a0a1b8fb7112485c9461387b6effcd56b", null ],
-    [ "AsyncCallbackProcessor", "d5/d43/a05406.html#af575ef04d5b2440ad3a787348e5baf9a", null ],
-    [ "AddCallback", "d5/d43/a05406.html#a47ef165fe4c31f46998f69e8e16625f1", null ],
-    [ "operator=", "d5/d43/a05406.html#ae95508c8bd67d6246279f37cbe6ca8d3", null ],
-    [ "ProcessReadyCallbacks", "d5/d43/a05406.html#a4fce127f587a9da913a9e9061ba538e7", null ],
-    [ "_callbacks", "d5/d43/a05406.html#a372d9496b9a1b3e3f718cefe50164209", null ]
+    [ "GeneralLock", "d5/d43/a05406.html#ad0fac66b181e166108c871274bce7a93", null ],
+    [ "~GeneralLock", "d5/d43/a05406.html#a455c73434c26cac8bf9761900d648589", null ],
+    [ "GeneralLock", "d5/d43/a05406.html#aecc7bf4d8ac0c4bc16a89a16e196330c", null ],
+    [ "operator=", "d5/d43/a05406.html#a876a9be3c642991811028892bcae42c4", null ],
+    [ "i_mutex", "d5/d43/a05406.html#a80b98e278d3afb1867ff5f159eda5055", null ]
 ];

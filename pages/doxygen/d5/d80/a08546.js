@@ -1,10 +1,10 @@
 var a08546 =
 [
-    [ "EquipmentSet", "d5/d80/a08546.html#acd3085c12c795daceae86e94448109e2", null ],
-    [ "Guid", "d5/d80/a08546.html#aae529ea61a2ad4f114b6a108564f5474", null ],
-    [ "IconName", "d5/d80/a08546.html#a40233dfcc23f125ff88693d6c7d7fab5", null ],
-    [ "IgnoreMask", "d5/d80/a08546.html#af116e824d23f000f424f3b261618e827", null ],
-    [ "Items", "d5/d80/a08546.html#a113e6e5883afe38d446a6d435cd34a01", null ],
-    [ "Name", "d5/d80/a08546.html#a2b4691a1b44ae47e7d3c2e63f88d78ba", null ],
-    [ "state", "d5/d80/a08546.html#a7e2270a6041dda26f8bc7f8c82597e7f", null ]
+    [ "PvPInfo", "d5/d80/a08546.html#ad956667bc89b49e5a520ee5a4f19f22e", null ],
+    [ "EndTimer", "d5/d80/a08546.html#ae06b5030552c02f30fe8386633a753df", null ],
+    [ "FFAPvPEndTimer", "d5/d80/a08546.html#a739dfc63dfe39429a44ea682d9120522", null ],
+    [ "IsHostile", "d5/d80/a08546.html#a22a1c8f0e8c51f4a27cb8ab362028d61", null ],
+    [ "IsInFFAPvPArea", "d5/d80/a08546.html#a8a654926248b3974587af1eb9c064d15", null ],
+    [ "IsInHostileArea", "d5/d80/a08546.html#a92d3c8991f7e3c5d683b414d18cbbd64", null ],
+    [ "IsInNoPvPArea", "d5/d80/a08546.html#a6858b8db9a441bf950f7d9fdca1587b5", null ]
 ];

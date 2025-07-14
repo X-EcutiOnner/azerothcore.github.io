@@ -1,7 +1,8 @@
 var a11906 =
 [
-    [ "boss_moira_bronzebeardAI", "da/df4/a11906.html#a11265b6aad76574c2c76253128c79165", null ],
-    [ "CastOnEmperorIfPossible", "da/df4/a11906.html#a3f42c37e9f4cc14974106bf67ee4e583", null ],
-    [ "JustEngagedWith", "da/df4/a11906.html#a40ae00eb86e2bec048a9394d4deef106", null ],
-    [ "UpdateAI", "da/df4/a11906.html#ae3f22a059330fb564cd30e581fc0198d", null ]
+    [ "boss_evisceratorAI", "da/df4/a11906.html#a26bfcd3390e987a9fe13dd1a2bc2a7a4", null ],
+    [ "DamageTaken", "da/df4/a11906.html#aab3e8290963ca6c312715f18727d3e82", null ],
+    [ "JustEngagedWith", "da/df4/a11906.html#a60f3942b352206888569f60776041a28", null ],
+    [ "UpdateAI", "da/df4/a11906.html#aa201d35455f2e6eb41df27e264c2c03c", null ],
+    [ "SpellShieldReady", "da/df4/a11906.html#a3e5d8a40bfca16cc811f35b1293c19aa", null ]
 ];

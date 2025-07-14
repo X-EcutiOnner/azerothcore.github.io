@@ -1,7 +1,7 @@
 var a26186 =
 [
-    [ "HandleEffectRemove", "d7/da7/a26186.html#a814687d3938e966f8721438e1a722f77", null ],
-    [ "PrepareAuraScript", "d7/da7/a26186.html#a2144b0602501471a4001883ce9de6db3", null ],
-    [ "Register", "d7/da7/a26186.html#a9d696dc7e58692216fa1cf6cc7c011a9", null ],
-    [ "AuraEffectHandleModes", "d7/da7/a26186.html#ab291f6c6f269ec7004df39a043f49efd", null ]
+    [ "CalculateAmount", "d7/da7/a26186.html#a5d4549ac73b46382c1beddbb65257ad0", null ],
+    [ "HandleUpdateSpellclick", "d7/da7/a26186.html#a89956d7f3a6404d5b60e46034867c82c", null ],
+    [ "PrepareAuraScript", "d7/da7/a26186.html#a7cbdc79c63306a8fcfcc06180998a290", null ],
+    [ "Register", "d7/da7/a26186.html#a2252719e6ea995b85b7b0c5ecb6a26d3", null ]
 ];

@@ -1,6 +1,8 @@
 var a17530 =
 [
-    [ "PrepareSpellScript", "df/dc9/a17530.html#a47df21229183b628c1d82bf34cbbe396", null ],
-    [ "Register", "df/dc9/a17530.html#a3cc4a1180f66cd9fe19020c1e5f2fccb", null ],
-    [ "RelocateTransportOffset", "df/dc9/a17530.html#acab29d77b4806f5d59ddc5dc3493c8ae", null ]
+    [ "ResetEncounterEvent", "df/dc9/a17530.html#aaa1bc6d3d529524df6b0ed6be6e0966f", null ],
+    [ "Execute", "df/dc9/a17530.html#ae8d52fc7c0689620bcef8c04643191f5", null ],
+    [ "_caster", "df/dc9/a17530.html#abb37778222749b27791baa329e268c32", null ],
+    [ "_otherTransport", "df/dc9/a17530.html#a7f2d0aaade5833381e3e7624745fc504", null ],
+    [ "_spellId", "df/dc9/a17530.html#ad4c57e519201e15e23e0f56f4fbe70cb", null ]
 ];

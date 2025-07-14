@@ -1,11 +1,10 @@
 var a14390 =
 [
-    [ "HandleFinish", "dc/d97/a14390.html#ace3a2ad0cf8ac31f7ef5345f1dbbf6e7", null ],
-    [ "HandleScript", "dc/d97/a14390.html#a2a2f005c29f0381c3c45d04a75ccc378", null ],
-    [ "Load", "dc/d97/a14390.html#a177ea78202f4d5b4c381f1712b01fe43", null ],
-    [ "PrepareSpellScript", "dc/d97/a14390.html#a9714f48de3982feb245f78efb8008f1b", null ],
-    [ "Register", "dc/d97/a14390.html#ad24c159a0dcfb86eb35a4286f606a3ab", null ],
-    [ "ThrowNextTorch", "dc/d97/a14390.html#a6ea11852ede397c1ede1ebaabb906c35", null ],
-    [ "Validate", "dc/d97/a14390.html#a026fbf7123f6780459c19ff04b370b08", null ],
-    [ "handled", "dc/d97/a14390.html#a869fde9e5d0756d3c68a8db3e10ad50d", null ]
+    [ "boss_headless_horseman_pumpkin", "dc/d97/a14390.html#a62191ae523401ac57a947db96a245f7a", null ],
+    [ "AttackStart", "dc/d97/a14390.html#a2d7cb1bc5f25f87b1452d6c1267958c4", null ],
+    [ "MoveInLineOfSight", "dc/d97/a14390.html#a212f9803f66d297cd276ef842247776a", null ],
+    [ "Reset", "dc/d97/a14390.html#a9d5f6922a52146b61168f1c50b378294", null ],
+    [ "SpellHit", "dc/d97/a14390.html#a401db237c45efde3a30cdca6cb4f95c0", null ],
+    [ "UpdateAI", "dc/d97/a14390.html#aca53b8839bce5e180ba8583490d694c3", null ],
+    [ "timer", "dc/d97/a14390.html#a1f236cdfeec366f0d830e0fceafa6d25", null ]
 ];

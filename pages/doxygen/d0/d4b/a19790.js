@@ -1,9 +1,21 @@
 var a19790 =
 [
-    [ "npc_hodirs_furyAI", "d0/d4b/a19790.html#ae08a68a79a3fef952f6dfa50b4eaabca", null ],
-    [ "MovementInform", "d0/d4b/a19790.html#a37b07ddee5403ee2de8f69904412ed42", null ],
-    [ "Reset", "d0/d4b/a19790.html#a389f0f17fbc7860c5531f4859be561d3", null ],
-    [ "UpdateAI", "d0/d4b/a19790.html#a5417d68891ad0f93c8130c9a14d57513", null ],
-    [ "_switchTargetTimer", "d0/d4b/a19790.html#a8d15c1e290438c8a4aa50887cfffccba", null ],
-    [ "_timeToHit", "d0/d4b/a19790.html#a594356602bd0068fba82bea64e284837", null ]
+    [ "boss_stormcaller_brundirAI", "d0/d4b/a19790.html#adc28dd5beed1a6e48c79d7cdcceec084", null ],
+    [ "GetData", "d0/d4b/a19790.html#a72b285d89d1bf55d85436718cf25c287", null ],
+    [ "JustDied", "d0/d4b/a19790.html#a8aa9383b97b23d71d598ae1e650d0195", null ],
+    [ "JustEngagedWith", "d0/d4b/a19790.html#a9f2c58c1ebf4ce1809d454c4bba8f758", null ],
+    [ "JustReachedHome", "d0/d4b/a19790.html#af7e52166fdeb9b77ffa7057444ee67ef", null ],
+    [ "KilledUnit", "d0/d4b/a19790.html#af26795d89f26a9d907e81ef16ab10762", null ],
+    [ "MovementInform", "d0/d4b/a19790.html#a396869cd37f7f66c38424d70fb87bb01", null ],
+    [ "Reset", "d0/d4b/a19790.html#a4e1d09a210b4991e2b97e04f7be8a2bf", null ],
+    [ "SpellHit", "d0/d4b/a19790.html#af6e9b985d9bb5f63b1163d8ef1299992", null ],
+    [ "SpellHitTarget", "d0/d4b/a19790.html#a5592b2f9e4ce9149fb77cdc5dcc27539", null ],
+    [ "UpdateAI", "d0/d4b/a19790.html#a483ea3ae6c95ab18cc5fa2f41b613690", null ],
+    [ "UpdatePhase", "d0/d4b/a19790.html#a6f018f955bf546a47c119328b33ef010", null ],
+    [ "_channelTimer", "d0/d4b/a19790.html#a19fe914b34ca1ac05714387f00e0d28d", null ],
+    [ "_flyTargetGUID", "d0/d4b/a19790.html#a30d4b48a08328fb497ff51e0fa260041", null ],
+    [ "_phase", "d0/d4b/a19790.html#afe01d10d1abf8a7ddfc1d3c1b238cd30", null ],
+    [ "_stunnedAchievement", "d0/d4b/a19790.html#a678cd6ce097dab459bbf162553ddd56b", null ],
+    [ "events", "d0/d4b/a19790.html#afe480aedba3a5772a98f694647c7ed50", null ],
+    [ "pInstance", "d0/d4b/a19790.html#ab528df844696fec44595e0878966e0c2", null ]
 ];

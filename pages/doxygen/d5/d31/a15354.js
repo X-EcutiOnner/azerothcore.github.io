@@ -1,7 +1,7 @@
 var a15354 =
 [
-    [ "HandleDummy", "d5/d31/a15354.html#a30a87266b89021caf7d05c45397f70d1", null ],
-    [ "PrepareSpellScript", "d5/d31/a15354.html#a43a92b346088d710719722e8feed9634", null ],
-    [ "Register", "d5/d31/a15354.html#ad7a53cc6a24197c050ed8577f6c6cc12", null ],
-    [ "Validate", "d5/d31/a15354.html#a8b5097b623adbc1d8a10d7b1c4c248ab", null ]
+    [ "npc_webbed_creatureAI", "d5/d31/a15354.html#a6b7507eda84c29d6bd557b1b424ee10a", null ],
+    [ "JustDied", "d5/d31/a15354.html#a153d461124ec9266ffcac147a217f6d9", null ],
+    [ "JustEngagedWith", "d5/d31/a15354.html#ac52ad6512bcaee35932f856abdac80d4", null ],
+    [ "Reset", "d5/d31/a15354.html#a459eaadd7f0145b7a1a6caf99d1e8a5d", null ]
 ];

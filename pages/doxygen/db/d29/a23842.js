@@ -1,6 +1,6 @@
 var a23842 =
 [
-    [ "instance_mechanar_InstanceMapScript", "d8/ded/a23846.html", "d8/ded/a23846" ],
-    [ "instance_mechanar", "db/d29/a23842.html#ab31a66a0eb8b9ac6f79af479528ff4fd", null ],
-    [ "GetInstanceScript", "db/d29/a23842.html#ae8e9810a9bfd6b0ec256dd6a288392ed", null ]
+    [ "HandlePeriodic", "db/d29/a23842.html#a0a6da7aad8b7fcc92092f7a3c5bc0768", null ],
+    [ "PrepareAuraScript", "db/d29/a23842.html#a75d72d196ded2ee109d0231d4342890a", null ],
+    [ "Register", "db/d29/a23842.html#a148013ea68bbc573bddc1c3639dba019", null ]
 ];

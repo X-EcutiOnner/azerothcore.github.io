@@ -1,8 +1,11 @@
 var a19242 =
 [
-    [ "npc_crystal_spike", "d5/dea/a19242.html#aa6a6e12aba63c589e71b5ca28b924fd4", null ],
-    [ "Reset", "d5/dea/a19242.html#a8cdca606ce482147d87ad5248665099e", null ],
-    [ "UpdateAI", "d5/dea/a19242.html#abc04c8fba427c12630b4faf1d39bdb32", null ],
-    [ "_damageTimer", "d5/dea/a19242.html#a36c70729a0c0281d467f870bfcde80ae", null ],
-    [ "_gameObjectGUID", "d5/dea/a19242.html#a0c0e9a1883cee51201b039947b5bacf3", null ]
+    [ "npc_nexus_lordAI", "d5/dea/a19242.html#a8d26337fdcd055027a20ea91faf7e01b", null ],
+    [ "AttackStart", "d5/dea/a19242.html#a2f56dcac815431c887b95e9c09aec361", null ],
+    [ "JustDied", "d5/dea/a19242.html#a828007757a618affad71b955681945cf", null ],
+    [ "JustEngagedWith", "d5/dea/a19242.html#acfcf227557b1e212eda385e22ccdb981", null ],
+    [ "UpdateAI", "d5/dea/a19242.html#ad7ddb98d2daaed386e713e423de4cac9", null ],
+    [ "events", "d5/dea/a19242.html#ad20a56e52b22306ca31406d8defa4aa5", null ],
+    [ "pInstance", "d5/dea/a19242.html#a81fae70688bcd8c733ea90b06900503d", null ],
+    [ "timer", "d5/dea/a19242.html#a8edb133f7ca01a4aa75345c572a505c7", null ]
 ];

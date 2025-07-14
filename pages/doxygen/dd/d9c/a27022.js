@@ -1,6 +1,5 @@
 var a27022 =
 [
-    [ "boss_ysondreAI", "da/d5e/a27026.html", "da/d5e/a27026" ],
-    [ "boss_ysondre", "dd/d9c/a27022.html#ad12dbb728f4f0cdf2f4c0ba9cd2a167d", null ],
-    [ "GetAI", "dd/d9c/a27022.html#a0da215d7bc8ee86216887e682b9335c3", null ]
+    [ "achievement_sa_defense_of_the_ancients", "dd/d9c/a27022.html#a678cffdece32710a42a92db0c092f3a5", null ],
+    [ "OnCheck", "dd/d9c/a27022.html#af23e346f9b022f490b84c8081f847a2f", null ]
 ];

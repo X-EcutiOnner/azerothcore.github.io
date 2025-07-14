@@ -1,15 +1,18 @@
 var a11514 =
 [
-    [ "SunsReachReclamationData", "d5/dcb/a11514.html#a840eb2024ae39f2f60f819e884db80b3", null ],
-    [ "GetData", "d5/dcb/a11514.html#ae7ef124f28f2bc8230b4234652734994", null ],
-    [ "GetPhasePercentage", "d5/dcb/a11514.html#a215cec505dd74695704ae7961161e195", null ],
-    [ "GetSubPhasePercentage", "d5/dcb/a11514.html#aaee292336c57d967842d63f55e69bf0f", null ],
-    [ "GetSunwellGatePercentage", "d5/dcb/a11514.html#a9b5de26596e174f9a94e019fcb998f9e", null ],
-    [ "m_gate", "d5/dcb/a11514.html#a35755bcf3f67cfb2ebc77dcb36fa4dfb", null ],
-    [ "m_gateCounters", "d5/dcb/a11514.html#a76b38d6f571386c1d818752e12a66f66", null ],
-    [ "m_phase", "d5/dcb/a11514.html#a67711cd7d43f481161b8f98690d67fe3", null ],
-    [ "m_subphaseMask", "d5/dcb/a11514.html#a0a94a3b69ac5ccfcfae35af007ed375c", null ],
-    [ "m_sunsReachReclamationCounters", "d5/dcb/a11514.html#a14253084085c114aa2cfeefdebb0257d", null ],
-    [ "m_sunsReachReclamationMutex", "d5/dcb/a11514.html#a0ef2835b702469482926ec4942d0f786", null ],
-    [ "m_sunsReachReclamationPlayers", "d5/dcb/a11514.html#a72780ba8e17ccf5513d104eb228b3411", null ]
+    [ "WardenWin", "d5/dcb/a11514.html#ace17ee6e11a0c88478dc9f24c1c7db8f", null ],
+    [ "~WardenWin", "d5/dcb/a11514.html#ac1264c71c1e6f80fa70bf1794aa41368", null ],
+    [ "ForceChecks", "d5/dcb/a11514.html#a2a0e780572b1870f692803caa1ef673d", null ],
+    [ "GetModuleForClient", "d5/dcb/a11514.html#ad5dbc585ebb22eda2e1265f14129aa5c", null ],
+    [ "HandleData", "d5/dcb/a11514.html#a9860f6b2c0beb6d730b02c99e6172690", null ],
+    [ "HandleHashResult", "d5/dcb/a11514.html#a05ab06f2a7928affab20fd1b795a2d3f", null ],
+    [ "Init", "d5/dcb/a11514.html#a3222620148b84a4d95593800a83ba3fa", null ],
+    [ "InitializeModule", "d5/dcb/a11514.html#a2082c6a634c5b1f6cb63d376ff9a9695", null ],
+    [ "IsCheckInProgress", "d5/dcb/a11514.html#aee57f10f6f4f676908c54f305210b6bc", null ],
+    [ "RequestChecks", "d5/dcb/a11514.html#a9a3e9b53f66e97a615c288058b9adcf3", null ],
+    [ "RequestHash", "d5/dcb/a11514.html#abb53eb2b1d9dc95f8e77d12d4086c6c1", null ],
+    [ "_ChecksTodo", "d5/dcb/a11514.html#a61d85f3e94cb64aedbc977c74a64e0be", null ],
+    [ "_CurrentChecks", "d5/dcb/a11514.html#a9cb49a2629d08e0f54d363f81c284425", null ],
+    [ "_PendingChecks", "d5/dcb/a11514.html#a463e1f12600b12ddf54f762093ae57f0", null ],
+    [ "_serverTicks", "d5/dcb/a11514.html#a79e969e649fa057cd3a1a835837188c6", null ]
 ];

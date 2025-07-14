@@ -1,6 +1,5 @@
 var a17770 =
 [
-    [ "HandleScript", "da/d45/a17770.html#aefdd306b81b44a0a5564eab5a0491e09", null ],
-    [ "PrepareSpellScript", "da/d45/a17770.html#a68c0462bd108b04621f8288328f78b18", null ],
-    [ "Register", "da/d45/a17770.html#aedaec0afc414800bc481a434592ffb5d", null ]
+    [ "at_lady_deathwhisper_entrance", "da/d45/a17770.html#a3c16844f4ff97fd0699edb1d1aca2f60", null ],
+    [ "OnTrigger", "da/d45/a17770.html#a769c838c94a88af5492057909d88f3de", null ]
 ];

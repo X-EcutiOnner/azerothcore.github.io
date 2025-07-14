@@ -1,10 +1,5 @@
 var a27346 =
 [
-    [ "npc_prof_blacksmith", "da/dc9/a27346.html#af9bd62c4c2514d79daf467e4d6d7a92e", null ],
-    [ "HasWeaponSub", "da/dc9/a27346.html#a7ee47d061de5e2f482406469b4eaac3b", null ],
-    [ "OnGossipHello", "da/dc9/a27346.html#a9a432c1ec33578949110c877fc6a686d", null ],
-    [ "OnGossipSelect", "da/dc9/a27346.html#ab1edaf3dc0a8dddf064368d26930a2af", null ],
-    [ "SendActionMenu", "da/dc9/a27346.html#af2ac8f9bfa212c34be3e45cc358dd773", null ],
-    [ "SendConfirmLearn", "da/dc9/a27346.html#acbec7fe3eebf7eaed09e5755c6775eaa", null ],
-    [ "SendConfirmUnlearn", "da/dc9/a27346.html#a851dc241d944bc888a00df85bff17e3a", null ]
+    [ "go_massive_seaforium_charge", "da/dc9/a27346.html#adae43b764f237932923cd18207e4d23c", null ],
+    [ "OnGossipHello", "da/dc9/a27346.html#a187e28c773ad904f245d11d3f5b9d7e3", null ]
 ];

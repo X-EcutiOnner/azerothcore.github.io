@@ -1,8 +1,7 @@
 var a10562 =
 [
-    [ "OtherGUID", "d0/dad/a10562.html#a3f7486a2e4e07fef318414eaaa9037da", null ],
-    [ "PlayerGUID", "d0/dad/a10562.html#ae3d1217ddbfccd601fcbc57b78739a94", null ],
-    [ "RankID", "d0/dad/a10562.html#a1aebcb39f85c2b44101a311a6ccefdfd", null ],
-    [ "TransactionDate", "d0/dad/a10562.html#a4a8054876b35134e5dfe2cf84887e66f", null ],
-    [ "TransactionType", "d0/dad/a10562.html#aa48b69aa9078fb150470d66201b34786", null ]
+    [ "Flags", "d0/dad/a10562.html#a46bfcae3e4788d6ea4e6ee71b8a16edd", null ],
+    [ "TabFlags", "d0/dad/a10562.html#af9c7b68d1bd48da88f65fa40a01ccc72", null ],
+    [ "TabWithdrawItemLimit", "d0/dad/a10562.html#af16392abbddf27a8b21fd21d998501e6", null ],
+    [ "WithdrawGoldLimit", "d0/dad/a10562.html#a3dc50115a24b686d3a2fa9e28a7042af", null ]
 ];

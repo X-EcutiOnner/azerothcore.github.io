@@ -1,6 +1,6 @@
 var a14902 =
 [
-    [ "go_ossirian_crystalAI", "da/d75/a14906.html", "da/d75/a14906" ],
-    [ "go_ossirian_crystal", "da/d79/a14902.html#a783f0f0570ee0f667920e29613b565b2", null ],
-    [ "GetAI", "da/d79/a14902.html#a2f7b12eddc6504917614913e347ec0a0", null ]
+    [ "instance_razorfen_downs_InstanceMapScript", "da/d75/a14906.html", "da/d75/a14906" ],
+    [ "instance_razorfen_downs", "da/d79/a14902.html#a317e5e4ce45fd88c657b8032b377ffb7", null ],
+    [ "GetInstanceScript", "da/d79/a14902.html#a5010fc2704c3c699e39bf969f6f6ce2c", null ]
 ];

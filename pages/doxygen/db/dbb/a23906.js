@@ -1,9 +1,7 @@
 var a23906 =
 [
-    [ "npc_oscillating_frequency_scanner_master_bunnyAI", "db/dbb/a23906.html#a273d585416dc92d39d5ec3824c08504d", null ],
-    [ "IsSummonedBy", "db/dbb/a23906.html#a5f002d36c492ed2caf2290f4a073a7d0", null ],
-    [ "Reset", "db/dbb/a23906.html#a06fa50580efeab8d847a05f20956d175", null ],
-    [ "UpdateAI", "db/dbb/a23906.html#a8261a259cfbee0d3610ee441406fafcd", null ],
-    [ "playerGuid", "db/dbb/a23906.html#aab717dd49284c483759a6223dbd7e6ea", null ],
-    [ "timer", "db/dbb/a23906.html#afba1b71178c563a3db906057cd20de45", null ]
+    [ "HandleDamage", "db/dbb/a23906.html#add7e78111217d00bfa3dfa5b3eb490f9", null ],
+    [ "HandleTargets", "db/dbb/a23906.html#ac9e455d4ef5cc7b7ce424b70b4387c78", null ],
+    [ "PrepareSpellScript", "db/dbb/a23906.html#a46b62a09ea23cb102b0e5cf075c727d4", null ],
+    [ "Register", "db/dbb/a23906.html#a8873614ae22c908cb2cf49129fc53be2", null ]
 ];

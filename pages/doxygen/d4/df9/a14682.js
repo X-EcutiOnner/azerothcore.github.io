@@ -1,7 +1,10 @@
 var a14682 =
 [
-    [ "boss_epoch_hunter", "d4/df9/a14682.html#a652d14ebfced39b8164687a713780600", null ],
-    [ "JustDied", "d4/df9/a14682.html#a38d3cbed2ce8f810fd169e0004fd91dc", null ],
-    [ "JustEngagedWith", "d4/df9/a14682.html#a2571f98f36d1271f3911617e0fdfba54", null ],
-    [ "KilledUnit", "d4/df9/a14682.html#a61456e680e9108dd841e83d97536ef1b", null ]
+    [ "npc_hyjal_frost_wyrm", "d4/df9/a14682.html#a7cdc8ef87d5ccb88777fa823e199b9ce", null ],
+    [ "AttackStart", "d4/df9/a14682.html#abaaea3bcbb8806ed9d807742273eb06d", null ],
+    [ "DoAction", "d4/df9/a14682.html#adab2b42c582cee234aea37d187b66138", null ],
+    [ "JustEngagedWith", "d4/df9/a14682.html#a23dace13bb2811dea43b63f0b970a2ce", null ],
+    [ "PathEndReached", "d4/df9/a14682.html#a2ec3137dad743e4766ca402282d913c7", null ],
+    [ "Reset", "d4/df9/a14682.html#a550c20113f4ebe4015f9a8088888f99b", null ],
+    [ "UpdateAI", "d4/df9/a14682.html#a182c3b440f74a4ebe6dee64651bf701f", null ]
 ];

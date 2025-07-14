@@ -1,5 +1,6 @@
 var a01013 =
 [
-    [ "GuildMgr", "d7/dfc/a09543.html", "d7/dfc/a09543" ],
-    [ "sGuildMgr", "d7/d59/a01013.html#aef171903a38e30c347ff11360f682f81", null ]
+    [ "ChatHandler", "d1/dd7/a07498.html", "d1/dd7/a07498" ],
+    [ "CliHandler", "d4/d15/a07502.html", "d4/d15/a07502" ],
+    [ "AddonChannelCommandHandler", "dd/d73/a07506.html", "dd/d73/a07506" ]
 ];

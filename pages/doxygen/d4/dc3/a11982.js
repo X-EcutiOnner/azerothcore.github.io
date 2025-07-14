@@ -1,6 +1,6 @@
 var a11982 =
 [
-    [ "boss_highlordomokkAI", "d9/d02/a11986.html", "d9/d02/a11986" ],
-    [ "boss_highlord_omokk", "d4/dc3/a11982.html#af5174587ed3cd1c46f604183a75de99e", null ],
-    [ "GetAI", "d4/dc3/a11982.html#afb8efb012791c6a2fc18975a1ec7f984", null ]
+    [ "boss_gloomrel", "d4/dc3/a11982.html#ad655acba7b2d88779f849a685bb9fbb7", null ],
+    [ "OnGossipHello", "d4/dc3/a11982.html#a6ce6898142d767a130ec09769f2be488", null ],
+    [ "OnGossipSelect", "d4/dc3/a11982.html#ab7c623cdd2301f3a0a74d6b1e187a8c5", null ]
 ];

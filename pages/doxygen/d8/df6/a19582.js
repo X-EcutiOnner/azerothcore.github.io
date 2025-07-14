@@ -1,6 +1,6 @@
 var a19582 =
 [
-    [ "npc_collapsing_starAI", "dc/d3e/a19586.html", "dc/d3e/a19586" ],
-    [ "npc_collapsing_star", "d8/df6/a19582.html#a8d57987c9b4622746d4f42a2b4845b9e", null ],
-    [ "GetAI", "d8/df6/a19582.html#a346af96d122e64c68defdeccb9183cd4", null ]
+    [ "boss_sjonnirAI", "dc/d3e/a19586.html", "dc/d3e/a19586" ],
+    [ "boss_sjonnir", "d8/df6/a19582.html#a8bb9b10778a2dedcde3d4ced44bc13f1", null ],
+    [ "GetAI", "d8/df6/a19582.html#a0bb79667d9d80f0c49e30fa0547c6062", null ]
 ];

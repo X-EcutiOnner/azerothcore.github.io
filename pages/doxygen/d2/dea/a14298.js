@@ -1,10 +1,5 @@
 var a14298 =
 [
-    [ "boss_headless_horseman_pumpkin", "d2/dea/a14298.html#a62191ae523401ac57a947db96a245f7a", null ],
-    [ "AttackStart", "d2/dea/a14298.html#a2d7cb1bc5f25f87b1452d6c1267958c4", null ],
-    [ "MoveInLineOfSight", "d2/dea/a14298.html#a212f9803f66d297cd276ef842247776a", null ],
-    [ "Reset", "d2/dea/a14298.html#a9d5f6922a52146b61168f1c50b378294", null ],
-    [ "SpellHit", "d2/dea/a14298.html#a401db237c45efde3a30cdca6cb4f95c0", null ],
-    [ "UpdateAI", "d2/dea/a14298.html#aca53b8839bce5e180ba8583490d694c3", null ],
-    [ "timer", "d2/dea/a14298.html#a1f236cdfeec366f0d830e0fceafa6d25", null ]
+    [ "npc_cw_area_triggerAI", "d2/dea/a14298.html#aede21e01dfe762922562b6f5d57bc406", null ],
+    [ "MoveInLineOfSight", "d2/dea/a14298.html#a1fb90760dac1ae429429d84ed033aa7a", null ]
 ];

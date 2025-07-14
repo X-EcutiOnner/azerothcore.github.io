@@ -1,8 +1,9 @@
 var a11558 =
 [
-    [ "accountId", "d6/d63/a11558.html#ad146b84be01ec07a5fee8184f0cc2da9", null ],
-    [ "accountName", "d6/d63/a11558.html#a4849bd1f43fd15eea1991948abdc576d", null ],
-    [ "deleteDate", "d6/d63/a11558.html#a65a101727094841d34e8775bb7504cba", null ],
-    [ "lowGuid", "d6/d63/a11558.html#a11fd07e662184f750ac0a5e547a22437", null ],
-    [ "name", "d6/d63/a11558.html#a0e85dce38305e222c5654315ed68bfc1", null ]
+    [ "map", "d6/d63/a11558.html#a274c6d61203c24b3c680055244e1f590", null ],
+    [ "mouth", "d6/d63/a11558.html#aa785f3badb9c898d24efdf6d42fb8a7f", null ],
+    [ "mouthGuid", "d6/d63/a11558.html#a2245c14e379c83bdd47165e829de2e41", null ],
+    [ "necropolisCount", "d6/d63/a11558.html#aec44e315616920ba8224be8c4831f5e9", null ],
+    [ "remainingNecropoli", "d6/d63/a11558.html#a3c18c61fcd44c32f9e0009479db85399", null ],
+    [ "zoneId", "d6/d63/a11558.html#a98e1490705f74627cf9e5483857f3f25", null ]
 ];

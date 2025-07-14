@@ -1,6 +1,6 @@
 var a00335 =
 [
-    [ "PointMovementGenerator< T >", "db/dfc/a09972.html", "db/dfc/a09972" ],
-    [ "AssistanceMovementGenerator", "dd/d38/a09976.html", "dd/d38/a09976" ],
-    [ "EffectMovementGenerator", "dd/dee/a09980.html", "dd/dee/a09980" ]
+    [ "VMAP::LocationInfo", "d5/dc0/a05006.html", "d5/dc0/a05006" ],
+    [ "VMAP::StaticMapTree", "d8/d79/a05010.html", "d8/d79/a05010" ],
+    [ "VMAP::AreaInfo", "dc/d66/a05014.html", "dc/d66/a05014" ]
 ];

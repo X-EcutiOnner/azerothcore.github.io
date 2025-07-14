@@ -1,7 +1,6 @@
 var a12202 =
 [
-    [ "ClassCallSelector", "d2/db3/a12202.html#a223895c97121b0727aac258c12c89e0b", null ],
-    [ "operator()", "d2/db3/a12202.html#ab0d2ab1d94d72c6a202ed0cb2900dd2e", null ],
-    [ "_me", "d2/db3/a12202.html#a5347a24609a21ae0a342682104b1dc14", null ],
-    [ "_targetClass", "d2/db3/a12202.html#a7ce861956ec8d216d2f8cba82c69ea50", null ]
+    [ "FilterTargets", "d2/db3/a12202.html#ac630fb5f068e4d26adb078b118994c45", null ],
+    [ "PrepareSpellScript", "d2/db3/a12202.html#a5f4986bfad79573e65d56ff276c49914", null ],
+    [ "Register", "d2/db3/a12202.html#aa1f5838d43871fd7908ea3b914666000", null ]
 ];

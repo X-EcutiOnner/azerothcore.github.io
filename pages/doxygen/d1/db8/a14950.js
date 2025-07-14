@@ -1,6 +1,7 @@
 var a14950 =
 [
-    [ "HandleScript", "d1/db8/a14950.html#a88551ffd3dbe4fb9cc122a68813234f0", null ],
-    [ "PrepareSpellScript", "d1/db8/a14950.html#ae4d8cad1b5de248a30085142fcc2cc7b", null ],
-    [ "Register", "d1/db8/a14950.html#a434f0aef7f32edb6990efb992e4d57af", null ]
+    [ "HandleScript", "d1/db8/a14950.html#ad1654a408e94012a0ac2ade09d61a63e", null ],
+    [ "PrepareSpellScript", "d1/db8/a14950.html#a53e1a8632ca51beefe4fc97a3e471ad7", null ],
+    [ "Register", "d1/db8/a14950.html#aff966352a2babe6e6daed91f02e1190a", null ],
+    [ "Validate", "d1/db8/a14950.html#a6ffcf81642f31ee93f3ec213cdc8f92e", null ]
 ];

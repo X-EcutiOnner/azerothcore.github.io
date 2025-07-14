@@ -1,6 +1,5 @@
 var a12122 =
 [
-    [ "OnEffect", "dc/d16/a12122.html#a1b5999f392cec9fea4431c3f746ee034", null ],
-    [ "PrepareSpellScript", "dc/d16/a12122.html#a4748a82fcc7b3794850461092ee6b2e4", null ],
-    [ "Register", "dc/d16/a12122.html#acfa32dfc22778576d0dd3096c456ebe0", null ]
+    [ "at_trigger_the_beast_movement", "dc/d16/a12122.html#a9534f4b71deab4a2a9a94a36e2946fc7", null ],
+    [ "OnTrigger", "dc/d16/a12122.html#a333d685d765497a950fde35067d876a1", null ]
 ];

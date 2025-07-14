@@ -1,6 +1,7 @@
 var a21718 =
 [
-    [ "npc_q24545_wretched_ghoulAI", "d6/d28/a21722.html", "d6/d28/a21722" ],
-    [ "npc_q24545_wretched_ghoul", "d8/d88/a21718.html#a3842b5bd89c911d29d561307113fb032", null ],
-    [ "GetAI", "d8/d88/a21718.html#ada973de0ff7295f0441cbd6b6aaca9ac", null ]
+    [ "npc_cosmetic_toy_plane", "d8/d88/a21718.html#a71b7df4d5f78768d9e47f41ba78b93d2", null ],
+    [ "Reset", "d8/d88/a21718.html#aa66f2e16ce6c4e5dd7399b48bd5bc203", null ],
+    [ "UpdateAI", "d8/d88/a21718.html#a41d62b314510fbd6637d8eddbea16f96", null ],
+    [ "_movementArray", "d8/d88/a21718.html#a5a85278bc14a0e3158dc3fa8abcc8392", null ]
 ];

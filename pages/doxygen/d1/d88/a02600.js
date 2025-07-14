@@ -1,43 +1,38 @@
 var a02600 =
 [
+    [ "BloodFurnaceScriptName", "d1/d88/a02600.html#a059e1a38f9d79807d65ad8edfd39138f", null ],
     [ "DataHeader", "d1/d88/a02600.html#a042491ef36459046f3866e90f15aae0d", null ],
-    [ "MTScriptName", "d1/d88/a02600.html#a772413d8818d681e2261c99f58e1268c", null ],
-    [ "RegisterMagistersTerraceCreatureAI", "d1/d88/a02600.html#a679c3c5e0520ffcbc6ca0827cddafeb0", null ],
-    [ "CreatureTexts", "d1/d88/a02600.html#a98b0f0ed8e23c5a3936ff695705d37e9", [
-      [ "SAY_KALECGOS_SPAWN", "d1/d88/a02600.html#a98b0f0ed8e23c5a3936ff695705d37e9afb263d1cd011b49bf7cda725281fa940", null ]
+    [ "RegisterBloodFurnaceCreatureAI", "d1/d88/a02600.html#a681938cba5eeb9c62242905fbed9b7ab", null ],
+    [ "bloodFurnace", "d1/d88/a02600.html#ae8bfbe71365d644cb4c1b500e73ec521", [
+      [ "DATA_THE_MAKER", "d1/d88/a02600.html#ae8bfbe71365d644cb4c1b500e73ec521a217584223ad4e053515b9ba1c45f6f1c", null ],
+      [ "DATA_BROGGOK", "d1/d88/a02600.html#ae8bfbe71365d644cb4c1b500e73ec521ab4ee9b3fa6f2378216eaad263527118d", null ],
+      [ "DATA_KELIDAN", "d1/d88/a02600.html#ae8bfbe71365d644cb4c1b500e73ec521ace1340baa905bd7fe4ac0274481197c3", null ],
+      [ "MAX_ENCOUNTER", "d1/d88/a02600.html#ae8bfbe71365d644cb4c1b500e73ec521a7913656ef56deb3793c0c5f3d999d80d", null ],
+      [ "DATA_BROGGOK_REAR_DOOR", "d1/d88/a02600.html#ae8bfbe71365d644cb4c1b500e73ec521a2aeb6a52358b7f3b9d29f01fd6c3c9b4", null ],
+      [ "DATA_BROGGOK_LEVER", "d1/d88/a02600.html#ae8bfbe71365d644cb4c1b500e73ec521a00c166107a310e864a95d0aa174e6a2d", null ],
+      [ "DATA_PRISON_CELL1", "d1/d88/a02600.html#ae8bfbe71365d644cb4c1b500e73ec521a38e1047c0f32ee1086b17ab937b93133", null ],
+      [ "DATA_PRISON_CELL2", "d1/d88/a02600.html#ae8bfbe71365d644cb4c1b500e73ec521a3073b7783a2fb29629dd8144a46cf27b", null ],
+      [ "DATA_PRISON_CELL3", "d1/d88/a02600.html#ae8bfbe71365d644cb4c1b500e73ec521a43cb03f70352747a1b21db3ad18d45cc", null ],
+      [ "DATA_PRISON_CELL4", "d1/d88/a02600.html#ae8bfbe71365d644cb4c1b500e73ec521add420385ff32f4362b994bc24207cde2", null ],
+      [ "ACTION_ACTIVATE_BROGGOK", "d1/d88/a02600.html#ae8bfbe71365d644cb4c1b500e73ec521a2839e46e2718d788680e6ab738e5304b", null ],
+      [ "ACTION_PREPARE_BROGGOK", "d1/d88/a02600.html#ae8bfbe71365d644cb4c1b500e73ec521a0a587bd74e99773bd5a5cc3d91a33aa5", null ]
     ] ],
-    [ "InstanceEventIds", "d1/d88/a02600.html#ab51342a4a8f5976e51b0074f9a5746f8", [
-      [ "EVENT_SPAWN_KALECGOS", "d1/d88/a02600.html#ab51342a4a8f5976e51b0074f9a5746f8a2e000620a7210a65a43ee87d48b5d283", null ]
+    [ "BloodFurnaceGO", "d1/d88/a02600.html#a74a34510d05b4c79015fd0ba024b4e27", [
+      [ "GO_BROGGOK_DOOR_FRONT", "d1/d88/a02600.html#a74a34510d05b4c79015fd0ba024b4e27a7f079434fee3d7babbf2e014b16ba058", null ],
+      [ "GO_BROGGOK_DOOR_REAR", "d1/d88/a02600.html#a74a34510d05b4c79015fd0ba024b4e27af6a7585ba449b6a97baf1bc94725580f", null ],
+      [ "GO_BROGGOK_LEVER", "d1/d88/a02600.html#a74a34510d05b4c79015fd0ba024b4e27ad6160ee46c205c3ad0b533952de34294", null ],
+      [ "GO_KELIDAN_DOOR_EXIT1", "d1/d88/a02600.html#a74a34510d05b4c79015fd0ba024b4e27a76bf996cbfeec8559cac30a153487a44", null ],
+      [ "GO_KELIDAN_DOOR_EXIT2", "d1/d88/a02600.html#a74a34510d05b4c79015fd0ba024b4e27a203883b7ddf4448c37b2c7bda76e5afc", null ],
+      [ "GO_MAKER_DOOR_FRONT", "d1/d88/a02600.html#a74a34510d05b4c79015fd0ba024b4e27ab9a3131d5af1d880164952aa93dab28b", null ],
+      [ "GO_MAKER_DOOR_REAR", "d1/d88/a02600.html#a74a34510d05b4c79015fd0ba024b4e27a18d8e9ed8487d9f82ed97326df1bb868", null ]
     ] ],
-    [ "MovementData", "d1/d88/a02600.html#aed5999eedcf185b65654ded53dc601d3", [
-      [ "PATH_KALECGOS_FLIGHT", "d1/d88/a02600.html#aed5999eedcf185b65654ded53dc601d3a6b4587e5a1bc789ca7ac972cd1e54222", null ]
+    [ "bloodFurnaceNPC", "d1/d88/a02600.html#aa518f004f7df866d1fc0e781b6a5f3a0", [
+      [ "NPC_THE_MAKER", "d1/d88/a02600.html#aa518f004f7df866d1fc0e781b6a5f3a0adee32b124f549802c329b672679b8333", null ],
+      [ "NPC_BROGGOK", "d1/d88/a02600.html#aa518f004f7df866d1fc0e781b6a5f3a0a4cf62e33a7fa35ef63ad878dfeeb0ad9", null ],
+      [ "NPC_KELIDAN", "d1/d88/a02600.html#aa518f004f7df866d1fc0e781b6a5f3a0a6332b11d449d4fd83c67fc13c06d7210", null ],
+      [ "NPC_NASCENT_FEL_ORC", "d1/d88/a02600.html#aa518f004f7df866d1fc0e781b6a5f3a0a2d648c17cf1d4c62de4d35b07d1bf8c7", null ],
+      [ "NPC_CHANNELER", "d1/d88/a02600.html#aa518f004f7df866d1fc0e781b6a5f3a0a829f7c3a21ad299d21aa23035ca5e53d", null ]
     ] ],
-    [ "MTCreatures", "d1/d88/a02600.html#a402e3e622f03a1eed719db587960e18b", [
-      [ "NPC_DELRISSA", "d1/d88/a02600.html#a402e3e622f03a1eed719db587960e18ba5d0ab26a56a5212e4bbd0d2bd26b7127", null ],
-      [ "NPC_FEL_CRYSTAL", "d1/d88/a02600.html#a402e3e622f03a1eed719db587960e18bad5c5384a148b47a2c59d671014db6d35", null ],
-      [ "NPC_KAEL_THAS", "d1/d88/a02600.html#a402e3e622f03a1eed719db587960e18ba1cc740bbad14c06e879fe922c561957c", null ],
-      [ "NPC_PHOENIX", "d1/d88/a02600.html#a402e3e622f03a1eed719db587960e18ba93173f126c0dd252197a841ed9321048", null ],
-      [ "NPC_PHOENIX_EGG", "d1/d88/a02600.html#a402e3e622f03a1eed719db587960e18ba37c8f15ed65139715f18d3d09d17a970", null ],
-      [ "NPC_KALECGOS", "d1/d88/a02600.html#a402e3e622f03a1eed719db587960e18ba7434f1d158db88e1befb3cf56e801613", null ]
-    ] ],
-    [ "MTData", "d1/d88/a02600.html#abdc560adf84eb5994b289f952995d059", [
-      [ "DATA_SELIN_FIREHEART", "d1/d88/a02600.html#abdc560adf84eb5994b289f952995d059afd8c24b35ae0b3270c6446ed912864b8", null ],
-      [ "DATA_VEXALLUS", "d1/d88/a02600.html#abdc560adf84eb5994b289f952995d059a7d511ceaf5f4b75dc6bf642fd4c002c3", null ],
-      [ "DATA_DELRISSA", "d1/d88/a02600.html#abdc560adf84eb5994b289f952995d059af977a73eff024af1676aeb0fe6503c2f", null ],
-      [ "DATA_KAELTHAS", "d1/d88/a02600.html#abdc560adf84eb5994b289f952995d059a9459cb9bb83f7a23115debb607cb25a3", null ],
-      [ "MAX_ENCOUNTER", "d1/d88/a02600.html#abdc560adf84eb5994b289f952995d059a7913656ef56deb3793c0c5f3d999d80d", null ],
-      [ "DATA_KALECGOS", "d1/d88/a02600.html#abdc560adf84eb5994b289f952995d059a053405afb85048224c161919aebd795d", null ],
-      [ "DATA_ESCAPE_ORB", "d1/d88/a02600.html#abdc560adf84eb5994b289f952995d059a6c76e50a19d944f081dbe8c87034974f", null ],
-      [ "DATA_KAEL_INTRO", "d1/d88/a02600.html#abdc560adf84eb5994b289f952995d059ad20d84b9105a6e9e87a44161e54c1d15", null ],
-      [ "MAX_PERSISTENT_DATA", "d1/d88/a02600.html#abdc560adf84eb5994b289f952995d059ade8daf2d97d89b7bc637c9b5550e0449", null ]
-    ] ],
-    [ "MTGameObjects", "d1/d88/a02600.html#a2b0621589774d4cc3afba085bc39867d", [
-      [ "GO_VEXALLUS_DOOR", "d1/d88/a02600.html#a2b0621589774d4cc3afba085bc39867da660139f819500a248283735c336cf4e7", null ],
-      [ "GO_SELIN_DOOR", "d1/d88/a02600.html#a2b0621589774d4cc3afba085bc39867da7ccc42cdb5402db90adb2298e29d4e64", null ],
-      [ "GO_SELIN_ENCOUNTER_DOOR", "d1/d88/a02600.html#a2b0621589774d4cc3afba085bc39867da8b457fe7255a77748f94f13974791086", null ],
-      [ "GO_DELRISSA_DOOR", "d1/d88/a02600.html#a2b0621589774d4cc3afba085bc39867da2ec22f0e669bef8a7bde879208fa8f6a", null ],
-      [ "GO_KAEL_DOOR", "d1/d88/a02600.html#a2b0621589774d4cc3afba085bc39867dacafc1a0b7422ea5365367a4c964fee25", null ],
-      [ "GO_ESCAPE_ORB", "d1/d88/a02600.html#a2b0621589774d4cc3afba085bc39867daf0d8c802b02ba5d48c9d4126534812fd", null ]
-    ] ],
-    [ "GetMagistersTerraceAI", "d1/d88/a02600.html#ace003ea34649a460da4afbd65b38c987", null ]
+    [ "GetBloodFurnaceAI", "d1/d88/a02600.html#a4aa87dfa17e2fb43b14c2ca77bb22aeb", null ],
+    [ "EncounterCount", "d1/d88/a02600.html#ae6104e16f72c5b3e12bd4250dde032ce", null ]
 ];

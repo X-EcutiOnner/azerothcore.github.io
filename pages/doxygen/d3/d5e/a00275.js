@@ -1,11 +1,10 @@
 var a00275 =
 [
-    [ "AuraEffect", "da/dbf/a11040.html", "da/dbf/a11040" ],
-    [ "Acore::AbsorbAuraOrderPred", "dc/d4d/a11044.html", "dc/d4d/a11044" ],
-    [ "pAuraEffectHandler", "d3/d5e/a00275.html#a9e98d9a1c1cc41922f386b184fd7ce67", null ],
-    [ "BrewfestEntries", "d3/d5e/a00275.html#a4ee83f582e4ebba3a5aea9ab1a5c9354", [
-      [ "BREWFEST_KODO", "d3/d5e/a00275.html#a4ee83f582e4ebba3a5aea9ab1a5c9354acbc7617ce19ea8d214518ab0335275c5", null ],
-      [ "GREAT_BREWFEST_KODO", "d3/d5e/a00275.html#a4ee83f582e4ebba3a5aea9ab1a5c9354a9e68ffb636426417370cc6b94b7b46aa", null ],
-      [ "FRESH_BREWFEST_HOPS", "d3/d5e/a00275.html#a4ee83f582e4ebba3a5aea9ab1a5c9354a62ef26e3a60fddc8cbadbd349cb054bf", null ]
+    [ "VMAP::ModelSpawn", "d3/df3/a05058.html", "d3/df3/a05058" ],
+    [ "VMAP::ModelInstance", "d8/d59/a05062.html", "d8/d59/a05062" ],
+    [ "ModelFlags", "d3/d5e/a00275.html#ac540ff16efadcc07eeb9d8511b94ccce", [
+      [ "MOD_M2", "d3/d5e/a00275.html#ac540ff16efadcc07eeb9d8511b94ccceadfad2b6f6278e720b00314cd5117b673", null ],
+      [ "MOD_WORLDSPAWN", "d3/d5e/a00275.html#ac540ff16efadcc07eeb9d8511b94cccea3a6165ebc7b838e28ef59670dc84dc46", null ],
+      [ "MOD_HAS_BOUND", "d3/d5e/a00275.html#ac540ff16efadcc07eeb9d8511b94ccceaa47940cd802c5225d2babb37d24c7f09", null ]
     ] ]
 ];

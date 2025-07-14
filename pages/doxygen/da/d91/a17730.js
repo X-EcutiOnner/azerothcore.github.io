@@ -1,6 +1,6 @@
 var a17730 =
 [
-    [ "boss_professor_putricideAI", "df/db0/a17734.html", "df/db0/a17734" ],
-    [ "boss_professor_putricide", "da/d91/a17730.html#a80776dad5c0205aa6a98752f43e85e32", null ],
-    [ "GetAI", "da/d91/a17730.html#a7c84089d24bb0c77a5203884254e0925", null ]
+    [ "npc_cult_fanaticAI", "df/db0/a17734.html", "df/db0/a17734" ],
+    [ "npc_cult_fanatic", "da/d91/a17730.html#af29ab8f7628b96b0f192bccab74ca02e", null ],
+    [ "GetAI", "da/d91/a17730.html#ae4d22bac12d17d79669d3fccd4029952", null ]
 ];

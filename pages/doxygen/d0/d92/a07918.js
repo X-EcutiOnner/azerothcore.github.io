@@ -1,8 +1,10 @@
 var a07918 =
 [
-    [ "cancelTime", "d0/d92/a07918.html#a5fe6d6ede54a1f1228e29fc7ef55a413", null ],
-    [ "inProgress", "d0/d92/a07918.html#a8f3eddc8fbca950f184b6fb8b400344e", null ],
-    [ "reason", "d0/d92/a07918.html#a279a5575ca0956266ae81b7a165874cf", null ],
-    [ "victim", "d0/d92/a07918.html#a949262b4b3cbe0f813aae4fab704e7d2", null ],
-    [ "votes", "d0/d92/a07918.html#a7619305fea30cc7fdc47f0a7ee365304", null ]
+    [ "LfgUpdateData", "d0/d92/a07918.html#a01326fafaa2ce562b5710d1d7ca75330", null ],
+    [ "LfgUpdateData", "d0/d92/a07918.html#a656873ea6ef9b3f23791827617a000c6", null ],
+    [ "LfgUpdateData", "d0/d92/a07918.html#a248682a712dd43b8c4601830aae4ddec", null ],
+    [ "comment", "d0/d92/a07918.html#a398f1b9ce0737d833fe4566ecea20e31", null ],
+    [ "dungeons", "d0/d92/a07918.html#a0e9b49693248b438dbc508e230a870db", null ],
+    [ "state", "d0/d92/a07918.html#ad9c270e37acaa105b9e12ec73158c7e3", null ],
+    [ "updateType", "d0/d92/a07918.html#a146e43854f66bf57f703d7089a24481e", null ]
 ];

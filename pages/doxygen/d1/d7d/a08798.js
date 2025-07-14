@@ -1,10 +1,9 @@
 var a08798 =
 [
-    [ "MapType", "d1/d7d/a08798.html#a8fa5f0aca9316901f42b2df8251c5a5d", null ],
-    [ "HashMapHolder", "d1/d7d/a08798.html#ad10240097462af2a8a76c9429bd7cbca", null ],
-    [ "Find", "d1/d7d/a08798.html#a314b4ce3265136fe326b909fe6ef6716", null ],
-    [ "GetContainer", "d1/d7d/a08798.html#ad9dfe5d223496a379a4aec0fc12c42d9", null ],
-    [ "GetLock", "d1/d7d/a08798.html#a52cc052c8d73d5b700c7f9253138942f", null ],
-    [ "Insert", "d1/d7d/a08798.html#af5c618228c141e28ffa11468cfffb21a", null ],
-    [ "Remove", "d1/d7d/a08798.html#a7b9c3761746641133d4a9837559c0bb0", null ]
+    [ "TransportBase", "d1/d7d/a08798.html#a6dba8e37217dae4e5da8f52780e63f70", null ],
+    [ "~TransportBase", "d1/d7d/a08798.html#a81dca3435a1a1666a90acd8e154e3287", null ],
+    [ "CalculatePassengerOffset", "d1/d7d/a08798.html#ae8c9eb64027f8e7c781f0af192e3f6c1", null ],
+    [ "CalculatePassengerOffset", "d1/d7d/a08798.html#aa4d00f15dc0e6c53b4a175b0ca53021b", null ],
+    [ "CalculatePassengerPosition", "d1/d7d/a08798.html#a7cb7586a6935ca4e08aa3e658982abec", null ],
+    [ "CalculatePassengerPosition", "d1/d7d/a08798.html#a328fbc464c56eca89138380182a0108c", null ]
 ];

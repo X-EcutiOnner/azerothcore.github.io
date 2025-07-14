@@ -1,13 +1,10 @@
 var a14986 =
 [
-    [ "boss_cthun", "df/d23/a14986.html#a287ee7b65708971e4fdfa7b814486935", null ],
-    [ "DoAction", "df/d23/a14986.html#a04ae38b67d358f1d34820b855aab3869", null ],
-    [ "JustDied", "df/d23/a14986.html#a3c6478e7de0e5a6f20f693a788bf8c86", null ],
-    [ "JustEngagedWith", "df/d23/a14986.html#a56fe3347ac41b67fb6912f372a5879ba", null ],
-    [ "Reset", "df/d23/a14986.html#a05bab8427cd4b4bfa50aee450e423f98", null ],
-    [ "ScheduleTasks", "df/d23/a14986.html#a5a0514e56217bb3b30b22b2681542adb", null ],
-    [ "SummonedCreatureDies", "df/d23/a14986.html#a49d76bb4cf30ee66fae6114313394961", null ],
-    [ "UpdateAI", "df/d23/a14986.html#a7d2685597f1eec2459fe509e5b97681f", null ],
-    [ "_fleshTentaclesKilled", "df/d23/a14986.html#a139de83ae488c40d40a4587509cd197d", null ],
-    [ "WisperTimer", "df/d23/a14986.html#abad23f1df9c6989e7a6d3d62143adb05", null ]
+    [ "boss_moam", "df/d23/a14986.html#a9a7a9f410efc5a05e46fd05f331e96c9", null ],
+    [ "InitializeAI", "df/d23/a14986.html#a2c8bde24fb3811e29c91a57258a243e5", null ],
+    [ "JustDied", "df/d23/a14986.html#a06b843bddd8f2759fa733c5169e0a5e6", null ],
+    [ "JustEngagedWith", "df/d23/a14986.html#ad33ba2f2cf9c83f37856aa6f2212637b", null ],
+    [ "Reset", "df/d23/a14986.html#a4112940fbe1f8be8e7adee7dbc48a9ae", null ],
+    [ "SummonedCreatureDies", "df/d23/a14986.html#a8401c5e2bd216deee197617b78d85222", null ],
+    [ "UpdateAI", "df/d23/a14986.html#aadd8320c6194923b113967d3d6c49a5e", null ]
 ];

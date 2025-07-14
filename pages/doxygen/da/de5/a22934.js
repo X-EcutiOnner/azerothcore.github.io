@@ -1,6 +1,7 @@
 var a22934 =
 [
-    [ "instance_black_temple_InstanceMapScript", "de/ddc/a22938.html", "de/ddc/a22938" ],
-    [ "instance_black_temple", "da/de5/a22934.html#a2efd6c7fff15c8fd03652ef9a65088eb", null ],
-    [ "GetInstanceScript", "da/de5/a22934.html#a947a1279eabde75d9884b1ef84b295a3", null ]
+    [ "CalculateAmount", "da/de5/a22934.html#adad1c8a513ce8a1badbd40c291363de1", null ],
+    [ "PrepareAuraScript", "da/de5/a22934.html#ac1a896ac1a751c8bdaee186dffd8c251", null ],
+    [ "Register", "da/de5/a22934.html#ae839fd19933a6fa9e55ce37e0633073e", null ],
+    [ "Update", "da/de5/a22934.html#aeb5a347ccac3c5ce6faef7641b5fca1c", null ]
 ];

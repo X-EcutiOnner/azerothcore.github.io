@@ -1,12 +1,7 @@
 var a00290 =
 [
-    [ "SpellEvent", "d5/d6f/a11064.html", "d5/d6f/a11064" ],
-    [ "CHECK_DIST", "de/d25/a00290.html#aa16c8b27baa496c2fdf0afffaf4485a0", null ],
-    [ "DEBUG_TRAJ", "de/d25/a00290.html#ac27bc73435b380df600d6da0b753a144", null ],
-    [ "GCDLimits", "de/d25/a00290.html#aea36520bcbaa2ebe9c062b9c5d9df777", [
-      [ "MIN_GCD", "de/d25/a00290.html#aea36520bcbaa2ebe9c062b9c5d9df777a08310e07fc7bc96f8485dbcc9487785f", null ],
-      [ "MAX_GCD", "de/d25/a00290.html#aea36520bcbaa2ebe9c062b9c5d9df777accf1639a1cf684725784e02ddf1aef8c", null ]
-    ] ],
-    [ "tangent", "de/d25/a00290.html#a885f76b28cf9930383ddf099d75ccef1", null ],
-    [ "SpellEffects", "de/d25/a00290.html#a294b5954f08aebdafe9e5a6f00e2dc82", null ]
+    [ "GameobjectModelData", "d8/d5f/a05046.html", "d8/d5f/a05046" ],
+    [ "ModelList", "de/d25/a00290.html#a2f908ce58f8fea2d0606bfe603d719d1", null ],
+    [ "LoadGameObjectModelList", "de/d25/a00290.html#a5a80774080fc05f90c7d92213fda6788", null ],
+    [ "model_list", "de/d25/a00290.html#aa0a0fd13eaa3eba090a3085d41303f12", null ]
 ];

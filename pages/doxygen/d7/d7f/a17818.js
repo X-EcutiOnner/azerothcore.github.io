@@ -1,7 +1,6 @@
 var a17818 =
 [
-    [ "HandleSummon", "d7/d7f/a17818.html#a8a96bd3a1b3cfaff09e05535eca927a9", null ],
-    [ "PrepareSpellScript", "d7/d7f/a17818.html#a0213cd8e5e79aba8ba80583ceda88b95", null ],
-    [ "Register", "d7/d7f/a17818.html#a01281869dc98a0af5027695391f1221f", null ],
-    [ "Validate", "d7/d7f/a17818.html#a26675411e5f86e6d31f62762a3fdcd70", null ]
+    [ "AbominationDespawner", "d7/d7f/a17818.html#a3bbf8c5d4e42569ffe993a3c3b8ff95e", null ],
+    [ "operator()", "d7/d7f/a17818.html#a58b8faac1cdffa7230783a1d6439fcfb", null ],
+    [ "_owner", "d7/d7f/a17818.html#af9089e566905b885887a5714ad5b0741", null ]
 ];

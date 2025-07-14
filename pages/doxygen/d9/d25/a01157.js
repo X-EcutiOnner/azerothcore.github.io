@@ -1,41 +1,12 @@
 var a01157 =
 [
-    [ "AuctionSortInfo", "d4/d15/a07052.html", "d4/d15/a07052" ],
-    [ "AuctionEntryItemEnchants", "d7/de7/a07056.html", "d7/de7/a07056" ],
-    [ "SearchableAuctionEntryItem", "d4/df2/a07060.html", "d4/df2/a07060" ],
-    [ "SearchableAuctionEntry", "df/d34/a07064.html", "df/d34/a07064" ],
-    [ "AuctionHouseSearchInfo", "d8/d4c/a07068.html", "d8/d4c/a07068" ],
-    [ "AuctionHouseUsablePlayerInfo", "df/d27/a07072.html", "df/d27/a07072" ],
-    [ "AuctionHousePlayerInfo", "da/dba/a07076.html", "da/dba/a07076" ],
-    [ "AuctionSearcherRequest", "d5/d58/a07080.html", "d5/d58/a07080" ],
-    [ "AuctionSearchListRequest", "df/d45/a07084.html", "df/d45/a07084" ],
-    [ "AuctionSearchOwnerListRequest", "da/d1c/a07088.html", "da/d1c/a07088" ],
-    [ "AuctionSearchBidderListRequest", "d7/df8/a07092.html", "d7/df8/a07092" ],
-    [ "AuctionSearcherResponse", "d4/def/a07096.html", "d4/def/a07096" ],
-    [ "AuctionSearcherUpdate", "da/d52/a07100.html", "da/d52/a07100" ],
-    [ "AuctionSearchAdd", "d0/da5/a07104.html", "d0/da5/a07104" ],
-    [ "AuctionSearchRemove", "da/dea/a07108.html", "da/dea/a07108" ],
-    [ "AuctionSearchUpdateBid", "d0/d5f/a07112.html", "d0/d5f/a07112" ],
-    [ "AuctionSorter", "d9/de8/a07116.html", "d9/de8/a07116" ],
-    [ "AuctionHouseWorkerThread", "d8/d20/a07120.html", "d8/d20/a07120" ],
-    [ "AuctionHouseSearcher", "dd/d87/a07124.html", "dd/d87/a07124" ],
-    [ "AuctionPlayerSkills", "d9/d25/a01157.html#a1b900c09f81e1b28037da303e33bd597", null ],
-    [ "AuctionPlayerSpells", "d9/d25/a01157.html#add0df1394d287b79672ebf01c59138c1", null ],
-    [ "AuctionSortOrderVector", "d9/d25/a01157.html#afefbc3444cfffa5e2fe0ded42a20e407", null ],
-    [ "SearchableAuctionEntriesMap", "d9/d25/a01157.html#a7cad31f048914034b12550129308e80e", null ],
-    [ "SortableAuctionEntriesList", "d9/d25/a01157.html#a7d6d8287b2adf4a3caae16ed69a8519d", null ],
-    [ "AuctionSortOrder", "d9/d25/a01157.html#abce5a6a07f5c4ef07bed8f8f5fba2420", [
-      [ "AUCTION_SORT_MINLEVEL", "d9/d25/a01157.html#abce5a6a07f5c4ef07bed8f8f5fba2420a30585d5b267baaa6ff0ff1c1f2d900e4", null ],
-      [ "AUCTION_SORT_RARITY", "d9/d25/a01157.html#abce5a6a07f5c4ef07bed8f8f5fba2420ae73234222b3a934423cb2c47827d9055", null ],
-      [ "AUCTION_SORT_BUYOUT", "d9/d25/a01157.html#abce5a6a07f5c4ef07bed8f8f5fba2420a29d9f97d625896cd9e9729e0971ca215", null ],
-      [ "AUCTION_SORT_TIMELEFT", "d9/d25/a01157.html#abce5a6a07f5c4ef07bed8f8f5fba2420a25b565bb3a4f39cecd688a6a95cbc595", null ],
-      [ "AUCTION_SORT_UNK4", "d9/d25/a01157.html#abce5a6a07f5c4ef07bed8f8f5fba2420a45cabc5fc139ebe5f9ab99ba04442ee4", null ],
-      [ "AUCTION_SORT_ITEM", "d9/d25/a01157.html#abce5a6a07f5c4ef07bed8f8f5fba2420ad941e54aa0ae31a89638b48d169f88ea", null ],
-      [ "AUCTION_SORT_MINBIDBUY", "d9/d25/a01157.html#abce5a6a07f5c4ef07bed8f8f5fba2420a83dbe3e4571275be914a9c72907895ef", null ],
-      [ "AUCTION_SORT_OWNER", "d9/d25/a01157.html#abce5a6a07f5c4ef07bed8f8f5fba2420ab092607020b20ea5308b1ea257df844e", null ],
-      [ "AUCTION_SORT_BID", "d9/d25/a01157.html#abce5a6a07f5c4ef07bed8f8f5fba2420a26c2c32eb02df2a5e1690e0ec6bf221a", null ],
-      [ "AUCTION_SORT_STACK", "d9/d25/a01157.html#abce5a6a07f5c4ef07bed8f8f5fba2420add1499675819fe1f00e71390131dade4", null ],
-      [ "AUCTION_SORT_BUYOUT_2", "d9/d25/a01157.html#abce5a6a07f5c4ef07bed8f8f5fba2420af48b05fc2213181717f3490c46c63094", null ],
-      [ "AUCTION_SORT_MAX", "d9/d25/a01157.html#abce5a6a07f5c4ef07bed8f8f5fba2420a607c80ce155cba82b2aa1d27532c970d", null ]
-    ] ]
+    [ "SpellEvent", "d1/d3d/a11078.html", "d1/d3d/a11078" ],
+    [ "CHECK_DIST", "d9/d25/a01157.html#aa16c8b27baa496c2fdf0afffaf4485a0", null ],
+    [ "DEBUG_TRAJ", "d9/d25/a01157.html#ac27bc73435b380df600d6da0b753a144", null ],
+    [ "GCDLimits", "d9/d25/a01157.html#aea36520bcbaa2ebe9c062b9c5d9df777", [
+      [ "MIN_GCD", "d9/d25/a01157.html#aea36520bcbaa2ebe9c062b9c5d9df777a08310e07fc7bc96f8485dbcc9487785f", null ],
+      [ "MAX_GCD", "d9/d25/a01157.html#aea36520bcbaa2ebe9c062b9c5d9df777accf1639a1cf684725784e02ddf1aef8c", null ]
+    ] ],
+    [ "tangent", "d9/d25/a01157.html#a885f76b28cf9930383ddf099d75ccef1", null ],
+    [ "SpellEffects", "d9/d25/a01157.html#a294b5954f08aebdafe9e5a6f00e2dc82", null ]
 ];

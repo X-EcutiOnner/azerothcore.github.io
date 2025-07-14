@@ -1,11 +1,7 @@
 var a14190 =
 [
-    [ "npc_the_etymidian", "dc/d98/a14190.html#af491016ac89b67947650a5ca9c379875", null ],
-    [ "MoveInLineOfSight", "dc/d98/a14190.html#adde2d86e30442eb1b47219e934e24407", null ],
-    [ "Reset", "dc/d98/a14190.html#a714edf3ba5f7a6d59242c991764effc5", null ],
-    [ "UpdateAI", "dc/d98/a14190.html#a1f3cfddae43e443c5cd4a8a0f9f87a89", null ],
-    [ "orphanGUID", "dc/d98/a14190.html#a9ba2c34b08d0fe61e18037b02f352d08", null ],
-    [ "phase", "dc/d98/a14190.html#a7086e9a8a8a7287cf90688270e9933a7", null ],
-    [ "playerGUID", "dc/d98/a14190.html#a7371e361c018360315e20086b0b99079", null ],
-    [ "timer", "dc/d98/a14190.html#a8508a2c89eeeee2d235e1178ca77e895", null ]
+    [ "GetEmptyEntry", "dc/d98/a14190.html#a46dfe7b2f8598d24f17868266d1571c6", null ],
+    [ "HandleAfterHit", "dc/d98/a14190.html#a4f8ab6e42ddf2188ccca2640363b9925", null ],
+    [ "PrepareSpellScript", "dc/d98/a14190.html#a35f0ab4b36df3d9ec1191cbd9ba88c9e", null ],
+    [ "Register", "dc/d98/a14190.html#a25e1858e1f81891443f4b7de50a5d495", null ]
 ];

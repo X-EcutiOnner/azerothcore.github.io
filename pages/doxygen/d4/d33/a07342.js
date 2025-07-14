@@ -1,9 +1,9 @@
 var a07342 =
 [
-    [ "BattlegroundEYLosingPointStruct", "d4/d33/a07342.html#ae3f19e55206e1a8097fe173a8a37aa12", null ],
-    [ "DespawnObjectTypeAlliance", "d4/d33/a07342.html#a210828d05ea9948484631b7408a3bb4b", null ],
-    [ "DespawnObjectTypeHorde", "d4/d33/a07342.html#a335205cb71b7055db4c01a5e562001b6", null ],
-    [ "MessageIdAlliance", "d4/d33/a07342.html#afe89eccc8c21351edb4ce943d937e521", null ],
-    [ "MessageIdHorde", "d4/d33/a07342.html#a8295974ee1f663dd0d22bcc4f0e0fa92", null ],
-    [ "SpawnNeutralObjectType", "d4/d33/a07342.html#a57c1a6f485ea6617b5218da411cae38f", null ]
+    [ "CapturePointInfo", "d4/d33/a07342.html#a47ba3bbadd15909726e87dc5adc67686", null ],
+    [ "_captured", "d4/d33/a07342.html#aac26833d9951853183095b3985254e03", null ],
+    [ "_iconCapture", "d4/d33/a07342.html#a58adc22a7246dd7362efcf9d9a1891ad", null ],
+    [ "_iconNone", "d4/d33/a07342.html#a43228afe59b8fa004d2c740dd6262f8e", null ],
+    [ "_ownerTeamId", "d4/d33/a07342.html#aad378d1b07f1ef8c45b0bb1bcce7a028", null ],
+    [ "_state", "d4/d33/a07342.html#a98cb154218423e295b8007c62222831c", null ]
 ];

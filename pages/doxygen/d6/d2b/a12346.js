@@ -1,6 +1,5 @@
 var a12346 =
 [
-    [ "boss_golemaggAI", "da/d26/a12350.html", "da/d26/a12350" ],
-    [ "boss_golemagg", "d6/d2b/a12346.html#a66720a143f8987dfa5d6e2acb7cd73cd", null ],
-    [ "GetAI", "d6/d2b/a12346.html#a6899f30975e0984306feabe47bbc8317", null ]
+    [ "at_orb_of_command", "d6/d2b/a12346.html#a1f0b196362b76e050eba66d3ce612623", null ],
+    [ "OnTrigger", "d6/d2b/a12346.html#a8d30d303c72d5eaf59222c890ab13ca3", null ]
 ];

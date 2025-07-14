@@ -1,6 +1,10 @@
 var a07738 =
 [
-    [ "value_type", "d3/d49/a07738.html#a6ffbf1b2887c79b97a1804a601ea585e", null ],
-    [ "StoreTo", "d3/d49/a07738.html#a872daea2854f6243884ec35734f94d2e", null ],
-    [ "tag", "d3/d49/a07738.html#acbb2b3fc4989e4bb51e3440dcb753719", null ]
+    [ "Achievement", "d3/d49/a07738.html#a03caf33cfc9f75dfdbba2dedc747e0ce", null ],
+    [ "CharacterId", "d3/d49/a07738.html#a0ec541a4e11d9e19f7cced7e839b1ebb", null ],
+    [ "Criteria", "d3/d49/a07738.html#a4eae1ba9b211d8c8307000ddae428348", null ],
+    [ "Day", "d3/d49/a07738.html#a216aaf4eed90eeb05662631e8f89b4ab", null ],
+    [ "IsFinished", "d3/d49/a07738.html#a1aff3d0a28a12f0e4ee10bca376f335c", null ],
+    [ "Month", "d3/d49/a07738.html#a9be9cfb6a40c527e8f6b6ad381ed5b42", null ],
+    [ "Year", "d3/d49/a07738.html#a85612eac22d3233e620eb11e6e1b48b0", null ]
 ];

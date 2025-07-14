@@ -1,7 +1,5 @@
 var a20518 =
 [
-    [ "boss_thorim_trapAI", "d7/d12/a20518.html#aaab278dc6557a49624099b0064b8d6f3", null ],
-    [ "Reset", "d7/d12/a20518.html#ab0715e75a475409ffb6c623bf363a65d", null ],
-    [ "UpdateAI", "d7/d12/a20518.html#a40078609a67aa029f71df7971449b056", null ],
-    [ "_checkTimer", "d7/d12/a20518.html#ad3ed8edb4d06e5b98a5afc82170f3233", null ]
+    [ "achievement_mimiron_set_up_us_the_bomb_12", "d7/d12/a20518.html#adc7f5769894c59710fa70604878b1e2c", null ],
+    [ "OnCheck", "d7/d12/a20518.html#ad604fa41b8c8d34b996dbdc709faac66", null ]
 ];

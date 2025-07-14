@@ -1,7 +1,6 @@
 var a25910 =
 [
-    [ "HandleDummy", "db/d63/a25910.html#a870b9834d0860a2d017b74fbf33ae668", null ],
-    [ "Load", "db/d63/a25910.html#ae971bd1dccc9280620b6ea44dd552bd4", null ],
-    [ "PrepareSpellScript", "db/d63/a25910.html#aac68e0f75f39ab25cf490dc381414b96", null ],
-    [ "Register", "db/d63/a25910.html#ad2840c719abd010c629747da138e9e32", null ]
+    [ "OnPeriodic", "db/d63/a25910.html#a889285ef034aaa7eaaa8e86fb5380cf0", null ],
+    [ "PrepareAuraScript", "db/d63/a25910.html#a3fd2da3d7b1b8a78916515b7e3e188cf", null ],
+    [ "Register", "db/d63/a25910.html#a62e5ab81f9548e4d983d0c4dde14eaad", null ]
 ];

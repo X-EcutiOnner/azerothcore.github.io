@@ -1,15 +1,16 @@
 var a12902 =
 [
-    [ "npc_koltira_deathweaverAI", "d3/d2f/a12902.html#adbc46fce90170aec986faacf012bd2b2", null ],
-    [ "AttackStart", "d3/d2f/a12902.html#aa219afbaedb108e7384479de3bbb4135", null ],
-    [ "EnterEvadeMode", "d3/d2f/a12902.html#aaf9e9df5a7124b4fe6b9348d5c8931fa", null ],
-    [ "JustSummoned", "d3/d2f/a12902.html#ae93b1dd675d2f2b8aca93e9ccff42a2e", null ],
-    [ "Reset", "d3/d2f/a12902.html#ac07053d3798d57449c23bfff68e12f1b", null ],
-    [ "SummonAcolyte", "d3/d2f/a12902.html#ac74e57e84fa6d1166fe950a46492cc2b", null ],
-    [ "UpdateAI", "d3/d2f/a12902.html#a87e87ebfaaf7a633f799d2a0f9df18ba", null ],
-    [ "WaypointReached", "d3/d2f/a12902.html#a5714e781a73cf2774aa21a083cd8301a", null ],
-    [ "m_uiValrothGUID", "d3/d2f/a12902.html#acee9c0c42cc8a692526ef73b19292ceb", null ],
-    [ "m_uiWave", "d3/d2f/a12902.html#a35ec3a0a78240966a0e06753873e5956", null ],
-    [ "m_uiWave_Timer", "d3/d2f/a12902.html#a8e94cd2de591f06e395f2d116e3e533b", null ],
-    [ "summons", "d3/d2f/a12902.html#a38fc03a63df38b02eab07f3bffd969da", null ]
+    [ "npc_unworthy_initiateAI", "d3/d2f/a12902.html#ae535d3335eb7865400f9e5c24b1dd3b5", null ],
+    [ "EventStart", "d3/d2f/a12902.html#a1973d5a14a1ac19be1d74cf57693cabe", null ],
+    [ "JustEngagedWith", "d3/d2f/a12902.html#aeedb0af23823ec5c7ff4f951c872552e", null ],
+    [ "MovementInform", "d3/d2f/a12902.html#afbf6d71b196067400256df98949ae963", null ],
+    [ "Reset", "d3/d2f/a12902.html#aba37cb6291a2e7436f8af796c50dead9", null ],
+    [ "UpdateAI", "d3/d2f/a12902.html#a485695877f48aea0bb191e8b312f9c99", null ],
+    [ "anchorGUID", "d3/d2f/a12902.html#acb1b338fae07b3ececfc8c15cc5ea80b", null ],
+    [ "anchorX", "d3/d2f/a12902.html#a69455d3e3f822c2f2a4f8c3f89e4586d", null ],
+    [ "anchorY", "d3/d2f/a12902.html#a67bbfac4014f2907cc9ad9caca80a4be", null ],
+    [ "events", "d3/d2f/a12902.html#a4eff6a50c098c3f851274ece860fb6fb", null ],
+    [ "phase", "d3/d2f/a12902.html#a299de7b4e1992edebd0a87c119d06d0a", null ],
+    [ "playerGUID", "d3/d2f/a12902.html#a02d1e6dd7a302e170b08f0c90f038ca9", null ],
+    [ "wait_timer", "d3/d2f/a12902.html#a9270c6e57cf77805769cfe692beefbe0", null ]
 ];

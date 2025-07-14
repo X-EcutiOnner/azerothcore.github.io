@@ -1,6 +1,7 @@
 var a08778 =
 [
-    [ "Condition", "d5/d99/a08778.html#a78172859719e85a21c0a39e41c692cf4", null ],
-    [ "EventId", "d5/d99/a08778.html#aa5d7e88828c9f44b5913d4593496894f", null ],
-    [ "Num", "d5/d99/a08778.html#a7cf6141e00b1a33063409c9828773b94", null ]
+    [ "VehicleDespawnEvent", "d5/d99/a08778.html#ab6f88e60f1068ab79049c158314a87ab", null ],
+    [ "Execute", "d5/d99/a08778.html#a39284ca2343e54cec915ac3ecf51f4a8", null ],
+    [ "_duration", "d5/d99/a08778.html#a3e9c695929c24728b2091940e511d5f0", null ],
+    [ "_self", "d5/d99/a08778.html#a0d472ea9a1a7b615f01c73d20cfc6573", null ]
 ];

@@ -1,6 +1,6 @@
 var a24170 =
 [
-    [ "npc_shattrathflaskvendors", "db/ddf/a24170.html#ab74b234406c2022bf519242a7842458a", null ],
-    [ "OnGossipHello", "db/ddf/a24170.html#af165d6f4640b41a92b36d77c1f1c1161", null ],
-    [ "OnGossipSelect", "db/ddf/a24170.html#ad9eb60422dfc663e6d020a630c09ee05", null ]
+    [ "npc_dragonmaw_peonAI", "d8/daa/a24174.html", "d8/daa/a24174" ],
+    [ "npc_dragonmaw_peon", "db/ddf/a24170.html#a356f8f1181d62dd5a4bc41c98ab21720", null ],
+    [ "GetAI", "db/ddf/a24170.html#aab1e4aee65a5465bc545a9c067200d2a", null ]
 ];

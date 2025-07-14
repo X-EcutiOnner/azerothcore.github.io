@@ -1,7 +1,6 @@
 var a16854 =
 [
-    [ "HandleEffectPeriodic", "d1/d46/a16854.html#aaefcf8ace7c109648c9220fb0ff9d4de", null ],
-    [ "PrepareAuraScript", "d1/d46/a16854.html#ae0ccb7d4566777e52b71e99a908d13fa", null ],
-    [ "Register", "d1/d46/a16854.html#a73e8ef9dbd3dd3dc332d4b3a2eb2c5ea", null ],
-    [ "Validate", "d1/d46/a16854.html#ab3fcbe5386e9529824228e8f3b6be797", null ]
+    [ "npc_phantom_mageAI", "d6/dee/a16858.html", "d6/dee/a16858" ],
+    [ "npc_phantom_mage", "d1/d46/a16854.html#ad57414231c40917bf55d6155fa9c05db", null ],
+    [ "GetAI", "d1/d46/a16854.html#ae2134b8be3052da659390bde7c2aac2e", null ]
 ];

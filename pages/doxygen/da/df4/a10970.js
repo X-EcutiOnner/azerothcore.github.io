@@ -1,5 +1,5 @@
 var a10970 =
 [
-    [ "amountCounter", "da/df4/a10970.html#af652ffc837bde625aa39e913ec2e2eec", null ],
-    [ "lastReceiveTime", "da/df4/a10970.html#ae0f3f2a90a24b48d239e3df3525f8fdc", null ]
+    [ "AccountInfoQueryHolderPerRealm", "da/df4/a10970.html#a9d821669804cd04cf121e141d94ead36", null ],
+    [ "Initialize", "da/df4/a10970.html#a9d4e4de9a038697f61e6350f5f59713b", null ]
 ];

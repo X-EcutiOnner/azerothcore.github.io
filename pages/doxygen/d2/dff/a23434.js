@@ -1,7 +1,6 @@
 var a23434 =
 [
-    [ "boss_the_maker", "d2/dff/a23434.html#a478c48f225e8fdf14cde5b1f144cb6c4", null ],
-    [ "JustDied", "d2/dff/a23434.html#a564abd0a8f52c8c58a305f9c47d8475c", null ],
-    [ "JustEngagedWith", "d2/dff/a23434.html#a6b0a4442dbabde69ca9352017ee23675", null ],
-    [ "KilledUnit", "d2/dff/a23434.html#a40643ca00fe7d7029a291335e47c722a", null ]
+    [ "instance_the_underbog_InstanceMapScript", "d1/d87/a23438.html", "d1/d87/a23438" ],
+    [ "instance_the_underbog", "d2/dff/a23434.html#afaf8740a3e367a1a54eaa3e76ffa483e", null ],
+    [ "GetInstanceScript", "d2/dff/a23434.html#ace939fb7fd89e7c9c84c17d3ca31208b", null ]
 ];

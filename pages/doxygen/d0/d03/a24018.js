@@ -1,8 +1,6 @@
 var a24018 =
 [
-    [ "npc_bessyAI", "d0/d03/a24018.html#ad1300a563888b34689bedf97c387707c", null ],
-    [ "JustDied", "d0/d03/a24018.html#af98e9235b2432b619e4cc01c0c1111ef", null ],
-    [ "JustSummoned", "d0/d03/a24018.html#a4197fb122299fd152e5da335bb832ae5", null ],
-    [ "Reset", "d0/d03/a24018.html#aed64386629e52c3b65abadde54a63cc4", null ],
-    [ "WaypointReached", "d0/d03/a24018.html#a4611a8f41f66a1a846fb42ba1d4062c8", null ]
+    [ "npc_ancestral_wolfAI", "d3/d47/a24022.html", "d3/d47/a24022" ],
+    [ "npc_ancestral_wolf", "d0/d03/a24018.html#a7cadf2848a086db63792f8068ee9463d", null ],
+    [ "GetAI", "d0/d03/a24018.html#a201255a64d4e742ba8b118b4f2ec5cd5", null ]
 ];

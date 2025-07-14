@@ -1,7 +1,6 @@
 var a26594 =
 [
-    [ "HandleDispel", "dd/dc4/a26594.html#aeab02cfd37c20aaf57e70aca62c82d99", null ],
-    [ "PrepareAuraScript", "dd/dc4/a26594.html#a9dc5d5dc34bc9aed6094c0c55533ad5e", null ],
-    [ "Register", "dd/dc4/a26594.html#a9cfb0fe1465c55b97032ae528ce00bcb", null ],
-    [ "Validate", "dd/dc4/a26594.html#ad29fdb4b99e9782cf8bace07384fa87c", null ]
+    [ "HandleRemove", "dd/dc4/a26594.html#a92eb5e02c8b165caa877d368a456e5b2", null ],
+    [ "PrepareAuraScript", "dd/dc4/a26594.html#a132193c0c13a2f89b9b29391d524023a", null ],
+    [ "Register", "dd/dc4/a26594.html#a246294a7b9a128a9ec464562846332fc", null ]
 ];

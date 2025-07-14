@@ -1,14 +1,10 @@
 var a09718 =
 [
-    [ "DoublePosition", "df/d60/a09718.html#a59190a2456f052c6ffa6e181ced94a4f", null ],
-    [ "DoublePosition", "df/d60/a09718.html#a9900e06c36c6ebc4edd0ba45264990b8", null ],
-    [ "DoublePosition", "df/d60/a09718.html#a543ff52f7b278f68cc36ee880932e744", null ],
-    [ "GetDoubleExactDist2dSq", "df/d60/a09718.html#ae17b4e695ff23a8ec323405801f2013a", null ],
-    [ "GetDoublePositionX", "df/d60/a09718.html#a7c769d1762f99150a46ceaa2b2bfa8e8", null ],
-    [ "GetDoublePositionY", "df/d60/a09718.html#a201096c85022d54b1d9dbe9264df901f", null ],
-    [ "GetDoublePositionZ", "df/d60/a09718.html#a01fc3985229b6bd03e6d1da95f871c17", null ],
-    [ "sync", "df/d60/a09718.html#a75e75187d6663591a39c87bc1086aebd", null ],
-    [ "DoublePosX", "df/d60/a09718.html#a4f9ffbbe4396f3ec26a81139f5868e2e", null ],
-    [ "DoublePosY", "df/d60/a09718.html#a90839893f3a58a72a07177d3eee1d691", null ],
-    [ "DoublePosZ", "df/d60/a09718.html#a19af503e9623ccaeb032bfe9f0a0ed63", null ]
+    [ "MailReceiver", "df/d60/a09718.html#a6fba3ff0ab3167197f569631d766ce14", null ],
+    [ "MailReceiver", "df/d60/a09718.html#af0b094a704463ed76b1c08bc3cab0380", null ],
+    [ "MailReceiver", "df/d60/a09718.html#a9f69a0951c2b9d9152685632c744cf4e", null ],
+    [ "GetPlayer", "df/d60/a09718.html#a0113e33ef82e9f3112f8cd5793581a36", null ],
+    [ "GetPlayerGUIDLow", "df/d60/a09718.html#a0e29fba37b58c7bc92065b0221b8e31e", null ],
+    [ "m_receiver", "df/d60/a09718.html#a377b896e1dc7a0e89440efbc2b811ae7", null ],
+    [ "m_receiver_lowguid", "df/d60/a09718.html#a46b62a2b8dd0ebac981e0a1752e88743", null ]
 ];

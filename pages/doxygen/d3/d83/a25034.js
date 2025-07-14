@@ -1,6 +1,8 @@
 var a25034 =
 [
-    [ "HandleDummy", "d3/d83/a25034.html#a0bcbef8a2d5978498556a217ac618fed", null ],
-    [ "PrepareSpellScript", "d3/d83/a25034.html#a5901c22f3a10fdbd21d934f5cb8cd76d", null ],
-    [ "Register", "d3/d83/a25034.html#a2c6d9c273a3d281dacefc20970912166", null ]
+    [ "OnApply", "d3/d83/a25034.html#a6aa83e925a93dc7ff89c0357debc75d1", null ],
+    [ "OnRemove", "d3/d83/a25034.html#a3ced5941c25fce087699aa095cd487c9", null ],
+    [ "PrepareAuraScript", "d3/d83/a25034.html#a497776c6ffdda8670fa255b76057bf2c", null ],
+    [ "Register", "d3/d83/a25034.html#ac05f2898ebbb78bf55d70d8a660fb22d", null ],
+    [ "Validate", "d3/d83/a25034.html#a44fc9ff07b9db5b2a1263d244916c79f", null ]
 ];

@@ -1,5 +1,6 @@
 var a26942 =
 [
-    [ "achievement_tilted", "df/d71/a26942.html#a868d7b8a437434d6dc34b5000c429e66", null ],
-    [ "OnCheck", "df/d71/a26942.html#a61d3eb78450383485699532d96f79d93", null ]
+    [ "CalculateAmount", "df/d71/a26942.html#a94b6fab25e8cb298650f2a1e2d0b4347", null ],
+    [ "PrepareAuraScript", "df/d71/a26942.html#a845476e27b3751fd5aab505d41d8696d", null ],
+    [ "Register", "df/d71/a26942.html#aa5141f11bcd97cc501297a5309df1079", null ]
 ];

@@ -1,6 +1,6 @@
 var a10194 =
 [
-    [ "AreaTriggerScript", "dd/de9/a10194.html#a478e4dee0f4211af9be6ea448d4e6c89", null ],
-    [ "IsDatabaseBound", "dd/de9/a10194.html#ac5234a2cd020cd8f90b6d19c28ad46ae", null ],
-    [ "OnTrigger", "dd/de9/a10194.html#abb6cdada718e9fad7da98fbb667c6d53", null ]
+    [ "AchievementCriteriaScript", "dd/de9/a10194.html#a86804e8d52ebd239a85609bc1e8883ea", null ],
+    [ "IsDatabaseBound", "dd/de9/a10194.html#a2fe9a4224304d62c5c4920dbf09aab52", null ],
+    [ "OnCheck", "dd/de9/a10194.html#a9fab6f158219db6d5a65b0b302cf285e", null ]
 ];

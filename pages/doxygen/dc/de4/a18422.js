@@ -1,9 +1,5 @@
 var a18422 =
 [
-    [ "npc_gluttonous_abominationAI", "dc/de4/a18422.html#a8b9b632e2e26ef8d0e8c122d28530e81", null ],
-    [ "JustDied", "dc/de4/a18422.html#abc0dd71bbaf85786f34367acc3a849e9", null ],
-    [ "JustSummoned", "dc/de4/a18422.html#a49ff3db7845167b9e98feab2a01b1ed1", null ],
-    [ "Reset", "dc/de4/a18422.html#a45588181429a74ac024e0390c76fa57a", null ],
-    [ "UpdateAI", "dc/de4/a18422.html#a33ef03a9f005ff187493275a9c2683a7", null ],
-    [ "_events", "dc/de4/a18422.html#a4a841c7d2565f4797bc893a9c1ee7acd", null ]
+    [ "achievement_neck_deep_in_vile", "dc/de4/a18422.html#af0e54c236e7637d8c1a8cf7dbed5a195", null ],
+    [ "OnCheck", "dc/de4/a18422.html#a9861c008f302279a4ac5f4ddc14ca2d0", null ]
 ];

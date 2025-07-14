@@ -1,7 +1,7 @@
 var a14486 =
 [
-    [ "HandleOnHit", "de/d98/a14486.html#a9f1d78b4a98bc76877903b79923c1634", null ],
-    [ "PrepareSpellScript", "de/d98/a14486.html#afb0a8a16850da30b0fbdb3d10a935f21", null ],
-    [ "Register", "de/d98/a14486.html#ab923488eb891e1f9b1f5cb8ed61f3865", null ],
-    [ "Validate", "de/d98/a14486.html#a57d85b1702e5c89d72972505121180ed", null ]
+    [ "HandleFinish", "de/d98/a14486.html#a8927aaa07145b46067d5807c2048330a", null ],
+    [ "PrepareSpellScript", "de/d98/a14486.html#a5a0bfef668242fc5f21ad5a4e3e714b5", null ],
+    [ "Register", "de/d98/a14486.html#a1ffdc199a04bd6ead1a09bc977ae964c", null ],
+    [ "Validate", "de/d98/a14486.html#a3fd3265e5a08f81b3e9e789f1799abd4", null ]
 ];

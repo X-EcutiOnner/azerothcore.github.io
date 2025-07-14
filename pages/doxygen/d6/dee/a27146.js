@@ -1,7 +1,7 @@
 var a27146 =
 [
-    [ "go_bear_trapAI", "d6/dee/a27146.html#ad97484d73bcea6a84909004c099eec34", null ],
-    [ "Initialize", "d6/dee/a27146.html#a89c76f1563f541c572c48f8cf633aa6a", null ],
-    [ "UpdateAI", "d6/dee/a27146.html#a8901922d736bb0391da5618593ced5c5", null ],
-    [ "_events", "d6/dee/a27146.html#a59f37a130326818dd922763ae9058fe7", null ]
+    [ "FilterTargets", "d6/dee/a27146.html#a5ee420ce696d23d836ff6e9e1def6405", null ],
+    [ "HandleEffect", "d6/dee/a27146.html#a064fdac9158e35f290b51ecf9bf537b1", null ],
+    [ "PrepareSpellScript", "d6/dee/a27146.html#a53b5772c87574beb5b295c26fe983b76", null ],
+    [ "Register", "d6/dee/a27146.html#a5e93d0d708d2304d9166c47ad285ada5", null ]
 ];

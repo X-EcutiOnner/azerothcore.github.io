@@ -1,8 +1,17 @@
 var a12686 =
 [
-    [ "CalcPeriodic", "d1/db0/a12686.html#a493609298c152df8216641ba2e5861cd", null ],
-    [ "PrepareAuraScript", "d1/db0/a12686.html#a30c2bac7e939cf7de2141f6cdfa51619", null ],
-    [ "Register", "d1/db0/a12686.html#a44002db5980dfc1db816cf61fd446491", null ],
-    [ "Update", "d1/db0/a12686.html#a7a1fc11cf4183c7202a929c72035d8e7", null ],
-    [ "Validate", "d1/db0/a12686.html#a060e189aaa4396681d42906b65c9196f", null ]
+    [ "boss_dorothee", "d1/db0/a12686.html#a8bd5b4753c2d8f8aced0c036912f10f1", null ],
+    [ "DoAction", "d1/db0/a12686.html#a1b9cf1e58d68d249249a8b0d082b725a", null ],
+    [ "EnterEvadeMode", "d1/db0/a12686.html#a6dfc4109370d4e932e7376a443bd64ad", null ],
+    [ "JustDied", "d1/db0/a12686.html#a289dfa1f257ca25acba9487908e6223c", null ],
+    [ "JustEngagedWith", "d1/db0/a12686.html#aa35dafeb9faf8eeea55caa0eeb669db3", null ],
+    [ "JustReachedHome", "d1/db0/a12686.html#a762209d2bf78cc21c48a426732f2354e", null ],
+    [ "Reset", "d1/db0/a12686.html#ae3f123a6a9223b7928295812326b0cb4", null ],
+    [ "SummonedCreatureDies", "d1/db0/a12686.html#a0e76c828a1c7c49741963b6e98003a66", null ],
+    [ "SummonTito", "d1/db0/a12686.html#a5c04074aab40ecaeeb84b33205b40144", null ],
+    [ "UpdateAI", "d1/db0/a12686.html#a30fbcc5e7ca4ed74b9d2895b94a9a19e", null ],
+    [ "_scheduler", "d1/db0/a12686.html#a840bcbad78ff881ef3a803ffa23d3c6e", null ],
+    [ "_startIntro", "d1/db0/a12686.html#a20e6555e2117a62fce3af7f7fb7167cc", null ],
+    [ "instance", "d1/db0/a12686.html#ac6a6f1c9074697f761e4e09550cfea71", null ],
+    [ "titoDied", "d1/db0/a12686.html#a258cc9ce32f314e723d5345ac18336bf", null ]
 ];

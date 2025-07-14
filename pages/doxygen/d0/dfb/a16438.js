@@ -1,6 +1,6 @@
 var a16438 =
 [
-    [ "npc_snobold_vassalAI", "d1/dfc/a16442.html", "d1/dfc/a16442" ],
-    [ "npc_snobold_vassal", "d0/dfb/a16438.html#a243cefbc15931ebbb555936d54583314", null ],
-    [ "GetAI", "d0/dfb/a16438.html#a77976a59f600591454fac197ded613ef", null ]
+    [ "npc_toc_boomkinAI", "d1/dfc/a16442.html", "d1/dfc/a16442" ],
+    [ "npc_toc_boomkin", "d0/dfb/a16438.html#a17274ff748cd364592a551ad2c547eac", null ],
+    [ "GetAI", "d0/dfb/a16438.html#a626fe854faade9bd96cd60b9e6e970bd", null ]
 ];

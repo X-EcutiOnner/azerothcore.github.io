@@ -1,7 +1,9 @@
 var a16610 =
 [
-    [ "HandleScriptEffect", "d6/df0/a16610.html#a62cef31900cd61167823f3e66aa2d64b", null ],
-    [ "PrepareSpellScript", "d6/df0/a16610.html#aff3fc5d7d6185bcb09d14f1408a67aad", null ],
-    [ "Register", "d6/df0/a16610.html#ac73b3f568ce54f9b59b2b23f069da3c1", null ],
-    [ "Validate", "d6/df0/a16610.html#aab4d84e896c8225d8d131558aaa71dbe", null ]
+    [ "npc_concentrated_ballAI", "d6/df0/a16610.html#a5aae1554934d8e2aaa59d420a13517b6", null ],
+    [ "DoAction", "d6/df0/a16610.html#ad3284ed37cdc503a688aa6fb2537387e", null ],
+    [ "MovementInform", "d6/df0/a16610.html#a07845a436ded9c799b742ac9e27cc1bd", null ],
+    [ "MoveToNextPoint", "d6/df0/a16610.html#a89d2697d5ccf6d783e973efc3b4669aa", null ],
+    [ "UpdateAI", "d6/df0/a16610.html#a6509ff14639bca29b6877db54102d004", null ],
+    [ "despawning", "d6/df0/a16610.html#a24145c6c4c38b5a1853647d24871090d", null ]
 ];

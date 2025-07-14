@@ -1,8 +1,8 @@
 var a08558 =
 [
-    [ "checkLeaderOnly", "db/dc8/a08558.html#ade8f2e22abe69a9a32085e4d901bc83b", null ],
-    [ "faction", "db/dc8/a08558.html#a23c649e494795b27856b67225370a820", null ],
-    [ "id", "db/dc8/a08558.html#a5d5b8f6fe0bfc5ae98c2fb10e3a18360", null ],
-    [ "note", "db/dc8/a08558.html#a0e800dd8869fedbe71e5b14aa3c79d8a", null ],
-    [ "priority", "db/dc8/a08558.html#a3a66018ae4e7a7e755962f1edae58d29", null ]
+    [ "BaseRune", "db/dc8/a08558.html#ad5a4b3afd246f5a4c071e3c4f350f132", null ],
+    [ "ConvertAura", "db/dc8/a08558.html#a41c55cb4c1b3f69c6a424359f60e34e1", null ],
+    [ "Cooldown", "db/dc8/a08558.html#a8eeb0f5208c29d43ab493a22f73eb0a6", null ],
+    [ "CurrentRune", "db/dc8/a08558.html#a2cebb551231f0364a1751e5d1a37fcda", null ],
+    [ "GracePeriod", "db/dc8/a08558.html#a3fa13f205dbaaca5bdcc7406f73b4e6a", null ]
 ];

@@ -1,6 +1,5 @@
 var a12814 =
 [
-    [ "npc_scarlet_ghoulAI", "df/da4/a12818.html", "df/da4/a12818" ],
-    [ "npc_scarlet_ghoul", "d5/d06/a12814.html#aa58b0d1c3fb411cac184bc1fc50f4fb3", null ],
-    [ "GetAI", "d5/d06/a12814.html#a88d2639b1a4f087d3e1b95475a094d21", null ]
+    [ "boss_yazzai", "d5/d06/a12814.html#a6c92ffeff3e56f98cb1bd08f1835fe10", null ],
+    [ "JustEngagedWith", "d5/d06/a12814.html#ab504de0e51a3715485eb65e006352a6f", null ]
 ];

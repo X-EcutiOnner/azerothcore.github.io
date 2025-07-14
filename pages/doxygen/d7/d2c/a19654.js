@@ -1,6 +1,6 @@
 var a19654 =
 [
-    [ "boss_steelbreakerAI", "d5/d1a/a19658.html", "d5/d1a/a19658" ],
-    [ "boss_steelbreaker", "d7/d2c/a19654.html#af6e4c3729874e59959b35ca67a46aa44", null ],
-    [ "GetAI", "d7/d2c/a19654.html#ac4189ffbba997719fb36a10ecdabd26c", null ]
+    [ "HandleApplyTouch", "d7/d2c/a19654.html#a0c46c506f78f46f17c0de6caae774316", null ],
+    [ "PrepareSpellScript", "d7/d2c/a19654.html#a2f32b735a8a72a6ef52744d3ce8ada8b", null ],
+    [ "Register", "d7/d2c/a19654.html#a70382055564e4ead8b5da0d6bd20c67f", null ]
 ];

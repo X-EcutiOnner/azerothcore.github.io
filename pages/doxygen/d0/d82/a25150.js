@@ -1,6 +1,6 @@
 var a25150 =
 [
-    [ "PrepareSpellScript", "d0/d82/a25150.html#abb178100d4e5fa4032118f86aa34127d", null ],
-    [ "Register", "d0/d82/a25150.html#a50e902cc281b909259097a8bed5651f2", null ],
-    [ "RemoveVehicleAuras", "d0/d82/a25150.html#a4ec803f3164d6e38ddf10f4a0ca392e0", null ]
+    [ "HandleScript", "d0/d82/a25150.html#af6d3dd97d3254dbfcd6b611b26e0e61d", null ],
+    [ "PrepareSpellScript", "d0/d82/a25150.html#a59b5637aa8a29611463fbaabc6db2bb8", null ],
+    [ "Register", "d0/d82/a25150.html#a54bb0fe145f99ea484724052c8bb1227", null ]
 ];

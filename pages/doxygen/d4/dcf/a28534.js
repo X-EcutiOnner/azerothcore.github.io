@@ -1,16 +1,20 @@
 var a28534 =
 [
-    [ "Iterator", "d4/dcf/a28534.html#a682fe042bcd4ceb6c25dd7b4a3acbcc1", null ],
-    [ "Iterator", "d4/dcf/a28534.html#a682fe042bcd4ceb6c25dd7b4a3acbcc1", null ],
-    [ "operator!=", "d4/dcf/a28534.html#a7c0a38cbd02823479f349bb109a7ccf8", null ],
-    [ "operator!=", "d4/dcf/a28534.html#a7c0a38cbd02823479f349bb109a7ccf8", null ],
-    [ "operator*", "d4/dcf/a28534.html#a7b3de0d9987b834eaf6e909dd22f2528", null ],
-    [ "operator*", "d4/dcf/a28534.html#a7b3de0d9987b834eaf6e909dd22f2528", null ],
-    [ "operator++", "d4/dcf/a28534.html#af7dc5aae457d264ebe4aa42f5b700589", null ],
-    [ "operator++", "d4/dcf/a28534.html#af7dc5aae457d264ebe4aa42f5b700589", null ],
-    [ "operator->", "d4/dcf/a28534.html#ac57afe01d1ce6c611ca832f10f5d52fd", null ],
-    [ "operator->", "d4/dcf/a28534.html#ac57afe01d1ce6c611ca832f10f5d52fd", null ],
-    [ "operator==", "d4/dcf/a28534.html#a2d9cf3e798a1fcce3682c186952290df", null ],
-    [ "operator==", "d4/dcf/a28534.html#a2d9cf3e798a1fcce3682c186952290df", null ],
-    [ "record", "d4/dcf/a28534.html#a948512c44e53dfa177b85f82e9fd6160", null ]
+    [ "RealmMap", "d4/dcf/a28534.html#a6031c19ec935fbe535f60a1014483dbd", null ],
+    [ "RealmList", "d4/dcf/a28534.html#abe7dfad5160a08a5852cb1436a06eaa9", null ],
+    [ "~RealmList", "d4/dcf/a28534.html#a64bea5f38384143cc960840a8e84ef00", null ],
+    [ "Close", "d4/dcf/a28534.html#a14a4d9b5383da24bc1ad9754cdfa2183", null ],
+    [ "GetBuildInfo", "d4/dcf/a28534.html#a0f7136cb280d2461b1ec0d080645c6e0", null ],
+    [ "GetRealm", "d4/dcf/a28534.html#a3e25e63168bcff88d021294559ccf0c5", null ],
+    [ "GetRealms", "d4/dcf/a28534.html#afc2cbe2a4ee4d9870821dbe8d96e8fa4", null ],
+    [ "Initialize", "d4/dcf/a28534.html#a70954d518dc4559e0aca0388f13db411", null ],
+    [ "Instance", "d4/dcf/a28534.html#aea053134fe293fbd4a8801b25fbb44ca", null ],
+    [ "LoadBuildInfo", "d4/dcf/a28534.html#a1f8866e57557beb7d69037a63e34428d", null ],
+    [ "UpdateRealm", "d4/dcf/a28534.html#ae15cf59b00e8e8e561f266d5dd3e11ae", null ],
+    [ "UpdateRealms", "d4/dcf/a28534.html#a0b4559e5538a02ccf5247839005d602e", null ],
+    [ "_builds", "d4/dcf/a28534.html#a7c38c3c8b4fe6554c66dbc5ada26a3e0", null ],
+    [ "_realms", "d4/dcf/a28534.html#a41693a01cd88ea99b54dd9ca8fe6b445", null ],
+    [ "_resolver", "d4/dcf/a28534.html#a1beee0fdd1a9e61f68db925f53d373a9", null ],
+    [ "_updateInterval", "d4/dcf/a28534.html#ac07fe3cd4fc18169af4f63b207902e95", null ],
+    [ "_updateTimer", "d4/dcf/a28534.html#a5619be8a2649680901cfd7a3608e984a", null ]
 ];

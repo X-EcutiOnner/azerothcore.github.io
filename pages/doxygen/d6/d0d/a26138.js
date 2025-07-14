@@ -1,8 +1,8 @@
 var a26138 =
 [
-    [ "HandleApplyEffect", "d6/d0d/a26138.html#a50102ae92f44fd7c2bd9afc3fec5a291", null ],
-    [ "Load", "d6/d0d/a26138.html#ab6ba9d68b968ae41ee9c9869df686f02", null ],
-    [ "PrepareAuraScript", "d6/d0d/a26138.html#a6e212284f72320356cfa2f0c2a59999d", null ],
-    [ "Register", "d6/d0d/a26138.html#afcdd6cc19b59b5e6aa0cfdb9189edc99", null ],
-    [ "Validate", "d6/d0d/a26138.html#a985a52f71371443454d6dd36f7fe83b2", null ]
+    [ "CheckProc", "d6/d0d/a26138.html#a7796d6b90bb3452d75d28e5a6a3e6287", null ],
+    [ "HandleProc", "d6/d0d/a26138.html#ab456eb468477ae465f058b05ea45aaeb", null ],
+    [ "PrepareAuraScript", "d6/d0d/a26138.html#a9d255b2878f11e0ce9f9ffa81f7e4b0e", null ],
+    [ "Register", "d6/d0d/a26138.html#a9c285da0ae22011d01eeed7415d37d42", null ],
+    [ "Validate", "d6/d0d/a26138.html#a714d9b7afc9ae0dd190030309f1e83ca", null ]
 ];

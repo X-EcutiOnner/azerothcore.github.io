@@ -1,6 +1,6 @@
 var a23850 =
 [
-    [ "npc_deaths_door_fell_cannon_target_bunnyAI", "d2/d4f/a23854.html", "d2/d4f/a23854" ],
-    [ "npc_deaths_door_fell_cannon_target_bunny", "dd/d51/a23850.html#a1385e50777282fae0c8f8ca2f9f8a3e6", null ],
-    [ "GetAI", "dd/d51/a23850.html#a250707096229da28024960beeb7725bf", null ]
+    [ "lapseTeleport", "dd/d51/a23850.html#a55c4330397214bf3a43628b3067d4634", null ],
+    [ "Execute", "dd/d51/a23850.html#a122023ed13fce2f5bb3721e459964443", null ],
+    [ "_owner", "dd/d51/a23850.html#a0e678c5cdb862390ea50c8d6057b7093", null ]
 ];

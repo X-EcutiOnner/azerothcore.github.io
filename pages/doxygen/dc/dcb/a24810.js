@@ -1,7 +1,6 @@
 var a24810 =
 [
-    [ "CheckProc", "dc/dcb/a24810.html#ab376febda606dba5e9f7f5639f867859", null ],
-    [ "HandleProc", "dc/dcb/a24810.html#aa8dac7f0a238f6f131553cbc7a142594", null ],
-    [ "PrepareAuraScript", "dc/dcb/a24810.html#a7693a86824050ff5615996d0d03d0292", null ],
-    [ "Register", "dc/dcb/a24810.html#a458745913288889f687bb19a147cb0fb", null ]
+    [ "PrepareSpellScript", "dc/dcb/a24810.html#ae8ef8bea1a6afa3f810c476e038bacc6", null ],
+    [ "RecalculateDamage", "dc/dcb/a24810.html#a856fdecdde1c68a163caf61afb2b0b90", null ],
+    [ "Register", "dc/dcb/a24810.html#a7f8c5c4920a87605b716e9e85b43ef47", null ]
 ];

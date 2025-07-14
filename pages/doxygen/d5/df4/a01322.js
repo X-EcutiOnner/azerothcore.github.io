@@ -1,9 +1,9 @@
 var a01322 =
 [
-    [ "ServerMailCondition", "dc/d36/a09707.html", "dc/d36/a09707" ],
-    [ "ServerMailItems", "d8/d11/a09711.html", "d8/d11/a09711" ],
-    [ "ServerMail", "d8/dbf/a09715.html", "d8/dbf/a09715" ],
-    [ "ServerMailMgr", "d7/dbd/a09719.html", "d7/dbd/a09719" ],
+    [ "ServerMailCondition", "d0/d60/a09734.html", "d0/d60/a09734" ],
+    [ "ServerMailItems", "d3/d85/a09738.html", "d3/d85/a09738" ],
+    [ "ServerMail", "d4/dbe/a09742.html", "d4/dbe/a09742" ],
+    [ "ServerMailMgr", "d8/dd1/a09746.html", "d8/dd1/a09746" ],
     [ "sServerMailMgr", "d5/df4/a01322.html#a6423d219eaead162b40b6021eadca0c4", null ],
     [ "ServerMailContainer", "d5/df4/a01322.html#a9c10c94a0a8508b3af2e92d3455d063b", null ],
     [ "ServerMailConditionType", "d5/df4/a01322.html#ab25c41bc314095f74fe678a33e086a2b", [

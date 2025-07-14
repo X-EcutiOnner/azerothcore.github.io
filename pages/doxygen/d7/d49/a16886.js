@@ -1,9 +1,6 @@
 var a16886 =
 [
-    [ "FilterTargets", "d7/d49/a16886.html#aefebf504286394cf3caffa566543e4a4", null ],
-    [ "FilterTargetsNext", "d7/d49/a16886.html#a356b6ace97d07df22a232d2287072b5e", null ],
-    [ "PrepareSpellScript", "d7/d49/a16886.html#a893e0eb620e19909b2f2a715ea946f6b", null ],
-    [ "Register", "d7/d49/a16886.html#a962651920a94190f4864a3b1c7fcd1d3", null ],
-    [ "Unload", "d7/d49/a16886.html#a6adc9b6ca86da6cd9465fa0da150dcca", null ],
-    [ "targetList", "d7/d49/a16886.html#a3c839185938e0b67b97f652d1d15e213", null ]
+    [ "npc_tortured_riflemanAI", "d3/d58/a16890.html", "d3/d58/a16890" ],
+    [ "npc_tortured_rifleman", "d7/d49/a16886.html#a32e4164864c3873b3684ad531a2e924a", null ],
+    [ "GetAI", "d7/d49/a16886.html#aaef71feb7077c561eb2bcf7d4fc411c7", null ]
 ];

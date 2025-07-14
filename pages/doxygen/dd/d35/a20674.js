@@ -1,5 +1,6 @@
 var a20674 =
 [
-    [ "achievement_xt002_nerf_engineering", "dd/d35/a20674.html#a5be8c0a8a51d81c4014ec0ab92c21f79", null ],
-    [ "OnCheck", "dd/d35/a20674.html#a2b401f51d1ba7ed817f95d81d1048adf", null ]
+    [ "boss_thorim_arena_npcsAI", "d8/d1e/a20678.html", "d8/d1e/a20678" ],
+    [ "boss_thorim_arena_npcs", "dd/d35/a20674.html#a60d22280bb1eb3c9da92deb08e887942", null ],
+    [ "GetAI", "dd/d35/a20674.html#a3709e1c9df32755f5932398ba3535f2f", null ]
 ];

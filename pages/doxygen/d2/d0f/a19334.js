@@ -1,7 +1,5 @@
 var a19334 =
 [
-    [ "HandleProc", "d2/d0f/a19334.html#adb7714eca4c317ab76db0ecbc813669e", null ],
-    [ "PrepareAuraScript", "d2/d0f/a19334.html#a70f2c5c4656abb4798ad39b015fc2a9a", null ],
-    [ "Register", "d2/d0f/a19334.html#a445ce7331c36e507aa24466ff9a67781", null ],
-    [ "Validate", "d2/d0f/a19334.html#ad0e44f34d7bd1671ef7dcc2165abaa66", null ]
+    [ "achievement_split_personality", "d2/d0f/a19334.html#aac29ae7c321306a663e55493987af45d", null ],
+    [ "OnCheck", "d2/d0f/a19334.html#ab5379f3c1191eeb747cb6762fc42ce01", null ]
 ];

@@ -1,6 +1,7 @@
 var a17230 =
 [
-    [ "ChangeSummonPos", "d2/dea/a17230.html#a2c3d69419762c7f78688a22017a8c535", null ],
-    [ "PrepareSpellScript", "d2/dea/a17230.html#a97c48254a0d7a0bd4bcf40f614bc5373", null ],
-    [ "Register", "d2/dea/a17230.html#a9c1aad0131ebe9635c9fdbb3d71c9cdd", null ]
+    [ "HandlePeriodic", "d2/dea/a17230.html#a2087e4de62f7aabb72315e92c28c7bd6", null ],
+    [ "PrepareAuraScript", "d2/dea/a17230.html#ab71db011b1cc1f3a2e85cd6b6f115242", null ],
+    [ "Register", "d2/dea/a17230.html#ad8a16d599a11fa4409d132f66e37e04e", null ],
+    [ "Validate", "d2/dea/a17230.html#afe821a7eb4eaf959d803c7c846f3bdf0", null ]
 ];

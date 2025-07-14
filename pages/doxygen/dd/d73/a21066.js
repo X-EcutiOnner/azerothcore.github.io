@@ -1,5 +1,7 @@
 var a21066 =
 [
-    [ "go_harpoon_canon", "dd/d73/a21066.html#aa7651e111cade00bbbdb9d0feced03e6", null ],
-    [ "OnGossipHello", "dd/d73/a21066.html#ad0098bafd1233636bde181312126e65f", null ]
+    [ "npc_frost_tomb", "dd/d73/a21066.html#a9c7abe1dc25b807d34f1ed818ab639ef", null ],
+    [ "JustDied", "dd/d73/a21066.html#a40a14647eaf9f2c5bd11c094f0aadb79", null ],
+    [ "UpdateAI", "dd/d73/a21066.html#af2122e9c8cb206151f631659c7d167da", null ],
+    [ "PrisonerGUID", "dd/d73/a21066.html#a456fcd5dd3f504954a74fc068f253dc2", null ]
 ];

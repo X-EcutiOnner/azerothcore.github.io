@@ -1,12 +1,7 @@
 var a22822 =
 [
-    [ "boss_essence_of_angerAI", "da/daf/a22822.html#a25eed717395b4e1ca5504d2d473e2500", null ],
-    [ "DoAction", "da/daf/a22822.html#a81576aaf465dfc99d199aaf6a182df52", null ],
-    [ "JustDied", "da/daf/a22822.html#a997d75ad388e790f9863e1b15fa1c899", null ],
-    [ "JustEngagedWith", "da/daf/a22822.html#a16d2b13fcf3dfa513813669b44712c4c", null ],
-    [ "KilledUnit", "da/daf/a22822.html#a6a900f9a9dc5509c36e5bdaaaacc197d", null ],
-    [ "Reset", "da/daf/a22822.html#ade57a575bd84e8e095b1ab5a5c81d3f6", null ],
-    [ "UpdateAI", "da/daf/a22822.html#a67e9f5a361894aa227f2a74f9222740d", null ],
-    [ "_recentlySpoken", "da/daf/a22822.html#a056aa8fd704d832e83735cf2a1a22888", null ],
-    [ "targetGUID", "da/daf/a22822.html#adc3867a4446375f1217809299f3dd9bb", null ]
+    [ "boss_lady_malande", "da/daf/a22822.html#a8cb693d203463dcba809e7ffc23c6868", null ],
+    [ "AttackStart", "da/daf/a22822.html#ad5cf6e7b0000c7f96d8606088fb13d31", null ],
+    [ "JustEngagedWith", "da/daf/a22822.html#af4b5f376e387851e15517de03636acde", null ],
+    [ "UpdateAI", "da/daf/a22822.html#a6d9d09a49fc87bbbda02387f78bb3739", null ]
 ];

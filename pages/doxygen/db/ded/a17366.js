@@ -1,7 +1,7 @@
 var a17366 =
 [
-    [ "FilterTargets", "db/ded/a17366.html#aeae290d20ade37eb839c1bf3c9ae59bf", null ],
-    [ "Load", "db/ded/a17366.html#a38bf6d96c6a78e5105d0369eb993e58c", null ],
-    [ "PrepareSpellScript", "db/ded/a17366.html#a815c99e9ef570287af5d45c32bdc5b8c", null ],
-    [ "Register", "db/ded/a17366.html#a33342cc676adaabe5e3896fa559631b7", null ]
+    [ "PeriodicTick", "db/ded/a17366.html#af2419a9f9c8706e6b9a090e88f1b6f78", null ],
+    [ "PrepareAuraScript", "db/ded/a17366.html#ac1abcbe62887678adad0194fdf27825a", null ],
+    [ "Register", "db/ded/a17366.html#a9c92c88bf261f1da2143e7dee41a77ec", null ],
+    [ "Validate", "db/ded/a17366.html#ae7526fcf963fe4ea3ab2f1ec7292e8d8", null ]
 ];

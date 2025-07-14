@@ -1,9 +1,7 @@
 var a18666 =
 [
-    [ "npc_icc_skybreaker_hierophantAI", "d3/d54/a18666.html#a18330d49e510f83af7ee0120df14e633", null ],
-    [ "AttackStart", "d3/d54/a18666.html#a9838b3edb758f6f8d0bcbb242862d5da", null ],
-    [ "JustEngagedWith", "d3/d54/a18666.html#adddd56260b41738d69fcdfe31b677c51", null ],
-    [ "Reset", "d3/d54/a18666.html#a2291e4a6bbf917a810b31776dee9dd24", null ],
-    [ "UpdateAI", "d3/d54/a18666.html#a971fa0e468d9d58ffdda7c7b8aa53485", null ],
-    [ "events", "d3/d54/a18666.html#a1c8a527d217f9b810f87da0fc020528a", null ]
+    [ "npc_impaling_spearAI", "d3/d54/a18666.html#ae8fbc36a15324b210a24a0e98357adc3", null ],
+    [ "Reset", "d3/d54/a18666.html#a43fa8bf8f22f0635261decd8b15ed6f5", null ],
+    [ "UpdateAI", "d3/d54/a18666.html#acb187a58b0ba256b4e003655ac36db34", null ],
+    [ "_vehicleCheckTimer", "d3/d54/a18666.html#a264874b9f6f0609792d4b3a325e54f59", null ]
 ];

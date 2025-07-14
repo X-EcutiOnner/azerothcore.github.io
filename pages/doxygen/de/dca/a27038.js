@@ -1,6 +1,5 @@
 var a27038 =
 [
-    [ "npc_spirit_shadeAI", "d3/da1/a27042.html", "d3/da1/a27042" ],
-    [ "npc_spirit_shade", "de/dca/a27038.html#a891ede5651789274496d6426daf9937d", null ],
-    [ "GetAI", "de/dca/a27038.html#a166f6a9abf7c0e33374c2f998c0524c3", null ]
+    [ "achievement_flirt_with_disaster_perf_check", "de/dca/a27038.html#a8cb843ed26248ceff594ef552b0ae9ae", null ],
+    [ "OnCheck", "de/dca/a27038.html#a15e620be2f37f930477ba94293dbaf63", null ]
 ];

@@ -1,5 +1,5 @@
 var a26986 =
 [
-    [ "AreaTrigger_at_scent_larkorwi", "de/d9e/a26986.html#a967a43eae4cc986754eed9ee8291c17e", null ],
-    [ "OnTrigger", "de/d9e/a26986.html#aeeb339afa5a7dd4b028aea800026998e", null ]
+    [ "achievement_save_the_day", "de/d9e/a26986.html#a193e4060b6634a87b499b7c8a5e287a1", null ],
+    [ "OnCheck", "de/d9e/a26986.html#a95cfea6cd9ff955ba6800ebdf3a30eb7", null ]
 ];

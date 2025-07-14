@@ -1,7 +1,8 @@
 var a28750 =
 [
-    [ "OnProc", "d9/d0d/a28750.html#a7ab183d734c543be2866c57f1e5cc508", null ],
-    [ "PrepareAuraScript", "d9/d0d/a28750.html#a31118cda9f29318f4620caf38c09522a", null ],
-    [ "Register", "d9/d0d/a28750.html#ac27f99aafa92ae85a247c6f25ece8c7b", null ],
-    [ "Validate", "d9/d0d/a28750.html#aa193bddd2ba9efe70343c5501d737fa4", null ]
+    [ "TileInfo", "d9/d0d/a28750.html#af1a25ded4212f141ab4f32db95709210", null ],
+    [ "m_mapId", "d9/d0d/a28750.html#a41f4be7d3fce716754b9ac0310b9ecf9", null ],
+    [ "m_navMeshParams", "d9/d0d/a28750.html#a9d7c909370359edafa8a9b6a91cef354", null ],
+    [ "m_tileX", "d9/d0d/a28750.html#a54cc23d82dfe690e0d62b6156d440fc1", null ],
+    [ "m_tileY", "d9/d0d/a28750.html#ab7fba310dd471fddcf2e7d6fba3205ed", null ]
 ];

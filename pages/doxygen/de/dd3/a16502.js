@@ -1,5 +1,7 @@
 var a16502 =
 [
-    [ "npc_essence_of_twin", "de/dd3/a16502.html#a019de64e5e01e611acfda5db4c279b19", null ],
-    [ "OnGossipHello", "de/dd3/a16502.html#a6f37b7f1152098b41b07ddbae3613c63", null ]
+    [ "HandleDispel", "de/dd3/a16502.html#a7b24f38bbb7813826520f928b22d30aa", null ],
+    [ "PrepareAuraScript", "de/dd3/a16502.html#a0e0424bd590cfc4f85f40728bf6efd22", null ],
+    [ "Register", "de/dd3/a16502.html#a2bf6921550da3c13730fd98bded2c927", null ],
+    [ "Validate", "de/dd3/a16502.html#ad8b0bb389d232c74acf106b711414fa1", null ]
 ];

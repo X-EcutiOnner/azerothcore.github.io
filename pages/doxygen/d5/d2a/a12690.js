@@ -1,7 +1,8 @@
 var a12690 =
 [
-    [ "PeriodicTick", "d5/d2a/a12690.html#a267d6df2c08039581fd1c008ffc14b8c", null ],
-    [ "PrepareAuraScript", "d5/d2a/a12690.html#ab75f10a475a4302897cbb90a3adb5b03", null ],
-    [ "Register", "d5/d2a/a12690.html#a2681d44b149e9f1d797df4147e20e686", null ],
-    [ "Validate", "d5/d2a/a12690.html#a9a5f11a3024a14911b478cdf59a7abb9", null ]
+    [ "npc_tito", "d5/d2a/a12690.html#a0b3b1750e8b8840e50d27d22ebddb7c8", null ],
+    [ "JustEngagedWith", "d5/d2a/a12690.html#a71335c1474e8a29edf76addacb737fa9", null ],
+    [ "UpdateAI", "d5/d2a/a12690.html#ac357c29e68d8480d94349da844efd3ad", null ],
+    [ "_scheduler", "d5/d2a/a12690.html#a96c47ca2e66bb984dfd2cfefa6bde643", null ],
+    [ "instance", "d5/d2a/a12690.html#a9eecd226486e52d559ae1a30687bf0eb", null ]
 ];

@@ -1,9 +1,10 @@
 var a04445 =
 [
-    [ "BoundsTrait< VMAP::GroupModel >", "dc/d96/a05060.html", "dc/d96/a05060" ],
-    [ "VMAP::TriBoundFunc", "d2/d8c/a05064.html", "d2/d8c/a05064" ],
-    [ "VMAP::GModelRayCallback", "d3/d41/a05068.html", "d3/d41/a05068" ],
-    [ "VMAP::WModelRayCallBack", "d3/d96/a05072.html", "d3/d96/a05072" ],
-    [ "VMAP::WModelAreaCallback", "d1/ddd/a05076.html", "d1/ddd/a05076" ],
-    [ "IntersectTriangle", "d6/d70/a04445.html#a4fa75e5ca5211394c63abc7ff28eb741", null ]
+    [ "spell_razelikh_teleport_group", "df/d9b/a13498.html", "df/d9b/a13498" ],
+    [ "DeathlyUsher", "d6/d70/a04445.html#aaff0e89586a03a5c2b80f93a4fe0ded7", [
+      [ "SPELL_TELEPORT_SINGLE", "d6/d70/a04445.html#aaff0e89586a03a5c2b80f93a4fe0ded7a3cdd675db7120b3a968f19df07485e7d", null ],
+      [ "SPELL_TELEPORT_SINGLE_IN_GROUP", "d6/d70/a04445.html#aaff0e89586a03a5c2b80f93a4fe0ded7a138ccf86c6441c7347a973d3e04c62a5", null ],
+      [ "SPELL_TELEPORT_GROUP", "d6/d70/a04445.html#aaff0e89586a03a5c2b80f93a4fe0ded7a3efb41f1943511af5c5c1abbced10dcc", null ]
+    ] ],
+    [ "AddSC_blasted_lands", "d6/d70/a04445.html#a8c45aaff0bee880d1bac07d32d1747f1", null ]
 ];

@@ -1,6 +1,7 @@
 var a26514 =
 [
-    [ "CheckCast", "d0/deb/a26514.html#a97f479cccecc6f37c75b47122b47e333", null ],
-    [ "PrepareSpellScript", "d0/deb/a26514.html#a7033ad7dbdab5eec532ea6f860f97427", null ],
-    [ "Register", "d0/deb/a26514.html#a4c8f84e1a2cc89064ec5963321fecce7", null ]
+    [ "HandleScript", "d0/deb/a26514.html#ad22b87be8f47886650d7bf9e98eee495", null ],
+    [ "PrepareSpellScript", "d0/deb/a26514.html#a806f934cd684039425ce3fca037b0e8c", null ],
+    [ "Register", "d0/deb/a26514.html#a9bd3ea5aa5fb16aac87f6097db31e113", null ],
+    [ "Validate", "d0/deb/a26514.html#a96d189c452a969850121323faef1d9c1", null ]
 ];

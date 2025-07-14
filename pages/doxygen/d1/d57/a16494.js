@@ -1,6 +1,6 @@
 var a16494 =
 [
-    [ "boss_fjolaAI", "dd/d15/a16498.html", "dd/d15/a16498" ],
-    [ "boss_fjola", "d1/d57/a16494.html#a44baccf91ab8c8bc5d5a9d0aa8ef943f", null ],
-    [ "GetAI", "d1/d57/a16494.html#a96d9ea0716199758b60ad933ade28de4", null ]
+    [ "npc_toc_pet_hunterAI", "dd/d15/a16498.html", "dd/d15/a16498" ],
+    [ "npc_toc_pet_hunter", "d1/d57/a16494.html#a1aa59cca8cd71e9f17fb9f55cf03c1da", null ],
+    [ "GetAI", "d1/d57/a16494.html#a9febc3086b0627324277f45d49cdd03f", null ]
 ];

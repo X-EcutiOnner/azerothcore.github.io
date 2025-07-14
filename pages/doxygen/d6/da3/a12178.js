@@ -1,6 +1,6 @@
 var a12178 =
 [
-    [ "boss_ebonrocAI", "db/d2e/a12182.html", "db/d2e/a12182" ],
-    [ "boss_ebonroc", "d6/da3/a12178.html#a3f71b5a687ab10a228e560429b8a4709", null ],
-    [ "GetAI", "d6/da3/a12178.html#acf2dc7391e1f642dff3c7f56024aaea5", null ]
+    [ "npc_vaelastrasz_the_redAI", "db/d2e/a12182.html", "db/d2e/a12182" ],
+    [ "npc_vaelastrasz_the_red", "d6/da3/a12178.html#af39fcaa29b200e3b7933f97de277df6b", null ],
+    [ "GetAI", "d6/da3/a12178.html#a59e7630d5060986dc4209d2d2b5ef42b", null ]
 ];

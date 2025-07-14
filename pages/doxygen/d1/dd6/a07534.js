@@ -1,10 +1,7 @@
 var a07534 =
 [
-    [ "value_type", "d1/dd6/a07534.html#a821f7b556a5e7dd88e406eb856a5b635", null ],
-    [ "operator()", "d1/dd6/a07534.html#a51db58c653c279b30d19e9188894adec", null ],
-    [ "operator()", "d1/dd6/a07534.html#a6225e55f229eca06eef7e6c27531bbe9", null ],
-    [ "operator()", "d1/dd6/a07534.html#ab516399a6965a67daed318a1058c87ef", null ],
-    [ "operator()", "d1/dd6/a07534.html#abeeef774a78ec84f0020686aab425a5c", null ],
-    [ "operator()", "d1/dd6/a07534.html#a0d4e9cb0ae75752363793d29599afbdc", null ],
-    [ "operator()", "d1/dd6/a07534.html#a4a277a9ad5764e42c53746999e004b88", null ]
+    [ "CommandPermissions", "d1/dd6/a07534.html#ad1242d9067778298c44501b5d5a962f8", null ],
+    [ "CommandPermissions", "d1/dd6/a07534.html#a47f284c63f10b6c3479624845b696aa6", null ],
+    [ "AllowConsole", "d1/dd6/a07534.html#a8b419033e8dff0307a22a32bc57a1dc8", null ],
+    [ "RequiredLevel", "d1/dd6/a07534.html#a4918f2c3b1913eb76d09d859479ebbae", null ]
 ];

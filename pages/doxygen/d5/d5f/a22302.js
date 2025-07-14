@@ -1,5 +1,6 @@
 var a22302 =
 [
-    [ "achievement_wg_didnt_stand_a_chance", "d5/d5f/a22302.html#afb397c74f00d1f5c59a24ef74b0cd1cd", null ],
-    [ "OnCheck", "d5/d5f/a22302.html#ae575bae454689e05c161e8480a13fa18", null ]
+    [ "npc_icefangAI", "de/dc7/a22306.html", "de/dc7/a22306" ],
+    [ "npc_icefang", "d5/d5f/a22302.html#a2e13be89b110abaa2509e597e4cf883a", null ],
+    [ "GetAI", "d5/d5f/a22302.html#ad1a936b1eef30271912054a817e0c9f8", null ]
 ];

@@ -1,6 +1,5 @@
 var a16602 =
 [
-    [ "boss_trollgoreAI", "de/d4c/a16606.html", "de/d4c/a16606" ],
-    [ "boss_trollgore", "da/db4/a16602.html#a95102f1fae6c667e0780b8b388fc156b", null ],
-    [ "GetAI", "da/db4/a16602.html#a6da1349da296a3dc3d29527a8e3c2b7d", null ]
+    [ "npc_essence_of_twin", "da/db4/a16602.html#a019de64e5e01e611acfda5db4c279b19", null ],
+    [ "OnGossipHello", "da/db4/a16602.html#a6f37b7f1152098b41b07ddbae3613c63", null ]
 ];

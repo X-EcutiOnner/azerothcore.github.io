@@ -1,6 +1,6 @@
 var a10250 =
 [
-    [ "ElunaScript", "d6/d7b/a10250.html#a1b4a815f484b4048f7e1fa7ec5282eef", null ],
-    [ "CanAreaTrigger", "d6/d7b/a10250.html#a47f8793586dd27dd4eb42eb5379828b0", null ],
-    [ "OnWeatherChange", "d6/d7b/a10250.html#af09f40df2d02a57c92d7e05d19f35549", null ]
+    [ "BattlegroundMapScript", "d6/d7b/a10250.html#a61e1c0f145064cbc6c8708824a359e4c", null ],
+    [ "checkValidity", "d6/d7b/a10250.html#a90584770132eb71cffc6e25a674750ad", null ],
+    [ "isAfterLoadScript", "d6/d7b/a10250.html#a0148a79556f82c990fe0fc494d03c7ab", null ]
 ];

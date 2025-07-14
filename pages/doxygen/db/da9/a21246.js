@@ -1,6 +1,6 @@
 var a21246 =
 [
-    [ "boss_moraggAI", "df/d30/a21250.html", "df/d30/a21250" ],
-    [ "boss_moragg", "db/da9/a21246.html#aeb43f9cc4c41f049fd0a13e79cadfcd1", null ],
-    [ "GetAI", "db/da9/a21246.html#a5ea2f210038b3e44bf2cb9c402e1b761", null ]
+    [ "HandleOnHit", "db/da9/a21246.html#aa3f90eb49ae947b5729f722750cb8711", null ],
+    [ "PrepareSpellScript", "db/da9/a21246.html#a3b62711a0ba478d6321a93d436359939", null ],
+    [ "Register", "db/da9/a21246.html#af7bdde31f1221d5679983a41e3eca204", null ]
 ];

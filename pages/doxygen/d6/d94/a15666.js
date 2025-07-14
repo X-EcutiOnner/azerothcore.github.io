@@ -1,6 +1,7 @@
 var a15666 =
 [
-    [ "npc_weegli_blastfuseAI", "d0/de6/a15670.html", "d0/de6/a15670" ],
-    [ "npc_weegli_blastfuse", "d6/d94/a15666.html#a2bf3b936e14c4cc0255f3109a35cb80f", null ],
-    [ "GetAI", "d6/d94/a15666.html#a701681d8771756dac20d30c2e03a1349", null ]
+    [ "npc_paoka_swiftmountainAI", "d6/d94/a15666.html#a92a229f76de3bc46ae14910439db0004", null ],
+    [ "DoSpawnWyvern", "d6/d94/a15666.html#a7997a3d398db82c205e3a8af77ac1684", null ],
+    [ "Reset", "d6/d94/a15666.html#acae0427957aba04a54e6001823bc7eb4", null ],
+    [ "WaypointReached", "d6/d94/a15666.html#a262781c90fe1b5a5af2c6f94e4cc52e2", null ]
 ];

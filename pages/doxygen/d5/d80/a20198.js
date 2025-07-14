@@ -1,6 +1,6 @@
 var a20198 =
 [
-    [ "npc_ulduar_iron_constructAI", "df/d0d/a20202.html", "df/d0d/a20202" ],
-    [ "npc_ulduar_iron_construct", "d5/d80/a20198.html#a56ddf4d4d290dbb15303419c1dab18da", null ],
-    [ "GetAI", "d5/d80/a20198.html#a7d46ba96b6f1968e35721d45c17b1a49", null ]
+    [ "npc_ulduar_toasty_fireAI", "d5/d80/a20198.html#a145001c6f1c1d505f810ae545ec62c69", null ],
+    [ "DoAction", "d5/d80/a20198.html#a8ab71582cc5d8386f788fb95203fbab5", null ],
+    [ "SpellHit", "d5/d80/a20198.html#a0e4475382dfd754dc119d2e8dba61b7e", null ]
 ];

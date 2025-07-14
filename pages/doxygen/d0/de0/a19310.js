@@ -1,10 +1,7 @@
 var a19310 =
 [
-    [ "npc_oculus_drakegiverAI", "d0/de0/a19310.html#a4bba380256a0ede70b8d90611249b444", null ],
-    [ "MovementInform", "d0/de0/a19310.html#adc86ecd4ed7b4b7b42968a0e09fa29a0", null ],
-    [ "UpdateAI", "d0/de0/a19310.html#a652a8c364687d51de62356964f6f33f9", null ],
-    [ "m_pInstance", "d0/de0/a19310.html#a04e43a623d16b4cf8d80552d649d90ca", null ],
-    [ "moved", "d0/de0/a19310.html#a069e202a84d99cd757862bd1a43b5562", null ],
-    [ "resetPosition", "d0/de0/a19310.html#a8ef6c480846d08d8a6225a7124320cbf", null ],
-    [ "timer", "d0/de0/a19310.html#a461b45ab959e71699cf1543ecbcbd91f", null ]
+    [ "boss_commander_stoutbeard", "d0/de0/a19310.html#a9489874e93ea9f425ff4e3748ba10ded", null ],
+    [ "JustDied", "d0/de0/a19310.html#a2fd835408045715058ba476aa56cb4f7", null ],
+    [ "JustEngagedWith", "d0/de0/a19310.html#af960c10b2b98d43b4b1311a0a7616aa8", null ],
+    [ "KilledUnit", "d0/de0/a19310.html#acf7016c65f020dca9228bd2d2fd89299", null ]
 ];

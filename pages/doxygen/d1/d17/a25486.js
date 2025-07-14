@@ -1,6 +1,6 @@
 var a25486 =
 [
-    [ "HandleActivateObject", "d1/d17/a25486.html#a0d14ca0b21716855a04a0a9267f3e019", null ],
-    [ "PrepareSpellScript", "d1/d17/a25486.html#a684079434128bacd3d8b8b71c14dc56a", null ],
-    [ "Register", "d1/d17/a25486.html#a266301f59c809c03d0ccfc48a2ace302", null ]
+    [ "HandlePreventAura", "d1/d17/a25486.html#a62b9a62f5379f4ca98921c7fe4278b58", null ],
+    [ "PrepareSpellScript", "d1/d17/a25486.html#a61b2f1d5634219f9c48a9ea75e90d423", null ],
+    [ "Register", "d1/d17/a25486.html#ab1a90b7939c146b40badfd6424c35cf7", null ]
 ];

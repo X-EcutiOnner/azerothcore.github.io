@@ -1,9 +1,6 @@
 var a13574 =
 [
-    [ "npc_tyrion_spybotAI", "d7/d0e/a13574.html#aedad685279012266637d29069ead9063", null ],
-    [ "Reset", "d7/d0e/a13574.html#a16f8f9fd368832aac7906c3fd8cb9698", null ],
-    [ "UpdateAI", "d7/d0e/a13574.html#ad8fc713bb9673e74bfd11bc653c71587", null ],
-    [ "WaypointReached", "d7/d0e/a13574.html#a819e987eeb8eb8d580a5ad22001a641d", null ],
-    [ "uiPhase", "d7/d0e/a13574.html#af5dbb99fe18d96665efd04bd53294636", null ],
-    [ "uiTimer", "d7/d0e/a13574.html#ab41fdff3612b29e7d0d94fb6aaa8c085", null ]
+    [ "npc_rinjiAI", "d2/d46/a13578.html", "d2/d46/a13578" ],
+    [ "npc_rinji", "d7/d0e/a13574.html#af89b9c77b1a57dc506de0398a0d4b957", null ],
+    [ "GetAI", "d7/d0e/a13574.html#a5457ac00ce0b195752640358b912af10", null ]
 ];

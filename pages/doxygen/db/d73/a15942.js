@@ -1,5 +1,6 @@
 var a15942 =
 [
-    [ "at_baltharus_plateau", "db/d73/a15942.html#ac7acc8816b298446ac9bb8d6b82f27b6", null ],
-    [ "OnTrigger", "db/d73/a15942.html#aea08e30eb57d5d84b78b8891c4a45afb", null ]
+    [ "boss_sartharionAI", "d6/d2d/a15946.html", "d6/d2d/a15946" ],
+    [ "boss_sartharion", "db/d73/a15942.html#a6605aee69372d08fba8f4b4523896588", null ],
+    [ "GetAI", "db/d73/a15942.html#aca5d66e0f5cdcafd6f9cd2c173f43839", null ]
 ];

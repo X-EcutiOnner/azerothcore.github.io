@@ -1,7 +1,7 @@
 var a25226 =
 [
-    [ "HandleScript", "da/d65/a25226.html#a27e2575e538732ac76add53f2f8f6832", null ],
-    [ "PrepareSpellScript", "da/d65/a25226.html#ad7c98be6cca23fb1484a6b77bcc7bc9d", null ],
-    [ "Register", "da/d65/a25226.html#a4ee74f6d8a61a8ba38ece33176c18f84", null ],
-    [ "Validate", "da/d65/a25226.html#aef9eef1819652e0fce1cd4b3ba9c387c", null ]
+    [ "EjectPassenger", "da/d65/a25226.html#a17ead3b25e5cebda3c9d5008f54f27ef", null ],
+    [ "PrepareSpellScript", "da/d65/a25226.html#abada0f860ea3cd6c16fbe4d73263d95a", null ],
+    [ "Register", "da/d65/a25226.html#ad5af65bc326aebcc1a2e19dabe624ad1", null ],
+    [ "Validate", "da/d65/a25226.html#a24ad6ca59f4f38cfa34de16c4167944e", null ]
 ];

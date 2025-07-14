@@ -1,6 +1,6 @@
 var a24894 =
 [
-    [ "HandleEffectPeriodicUpdate", "d2/d96/a24894.html#a554353fede78b89bf488230254d7892b", null ],
-    [ "PrepareAuraScript", "d2/d96/a24894.html#adf20aaafff83bae614ff3c614a08a54b", null ],
-    [ "Register", "d2/d96/a24894.html#a6ee55cc41f7b69fc12bb3dc6c7fcbaf5", null ]
+    [ "HandleScriptEffect", "d2/d96/a24894.html#a1ace281bf2fd53722f8328a79369b5df", null ],
+    [ "PrepareSpellScript", "d2/d96/a24894.html#ac9a0019091f291b1b3a770ec57bd83e8", null ],
+    [ "Register", "d2/d96/a24894.html#a821a6b11a177bf7586ab666081ab222a", null ]
 ];

@@ -1,6 +1,6 @@
 var a13570 =
 [
-    [ "npc_tyrion_spybotAI", "d7/d0e/a13574.html", "d7/d0e/a13574" ],
-    [ "npc_tyrion_spybot", "d9/d43/a13570.html#a7e0eed1b51ffe1df2d8ae2ad37f26528", null ],
-    [ "GetAI", "d9/d43/a13570.html#af81b70437703edc8d99fe24249891dd6", null ]
+    [ "x", "d9/d43/a13570.html#afeb59642abc7d5114668b2c27e315228", null ],
+    [ "y", "d9/d43/a13570.html#a3e2454dd579de689289003a343e7f29c", null ],
+    [ "z", "d9/d43/a13570.html#a4fbcf991d732545b4f9c19689ff9d805", null ]
 ];

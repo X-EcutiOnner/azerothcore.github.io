@@ -1,12 +1,6 @@
 var a17330 =
 [
-    [ "npc_muradin_bronzebeard_iccAI", "d9/da1/a17330.html#a4313164857ebd174fe33a9a16340b332", null ],
-    [ "DoAction", "d9/da1/a17330.html#a16eeb7d0ed6c943c088285462131cd51", null ],
-    [ "MovementInform", "d9/da1/a17330.html#a9a2e367f30ee16ca55e634de8e22551e", null ],
-    [ "Reset", "d9/da1/a17330.html#ad5d5a9de05e472d24fe399b4de79a3d0", null ],
-    [ "SpellHit", "d9/da1/a17330.html#a19b42ca678e7bf93c86891b4ea0a2dce", null ],
-    [ "UpdateAI", "d9/da1/a17330.html#a1ae2393871e0f4ebeb86521f06959a7a", null ],
-    [ "_events", "d9/da1/a17330.html#ae7079b335373cc06a040756328e7f714", null ],
-    [ "_guardList", "d9/da1/a17330.html#a1cbd87af34584979b37dfff8b29f9623", null ],
-    [ "_instance", "d9/da1/a17330.html#af1d8694678b10e5393c658ba0b20f47a", null ]
+    [ "ChangeSummonPos", "d9/da1/a17330.html#a2c3d69419762c7f78688a22017a8c535", null ],
+    [ "PrepareSpellScript", "d9/da1/a17330.html#a97c48254a0d7a0bd4bcf40f614bc5373", null ],
+    [ "Register", "d9/da1/a17330.html#a9c1aad0131ebe9635c9fdbb3d71c9cdd", null ]
 ];

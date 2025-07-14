@@ -1,6 +1,6 @@
 var a19734 =
 [
-    [ "FilterTargets", "d7/de8/a19734.html#a38c693dd3d8fb7e04fc1e26359f12399", null ],
-    [ "PrepareSpellScript", "d7/de8/a19734.html#a86c4bb91547d8ea7eebb8e4d7bfd592e", null ],
-    [ "Register", "d7/de8/a19734.html#a4e803984a3eded2736825f631786c204", null ]
+    [ "PrepareSpellScript", "d7/de8/a19734.html#af7426e99a49f8618fc38242ded7132f1", null ],
+    [ "RecalculateDamage", "d7/de8/a19734.html#a94e70b20f2139f668227dccb623c1af6", null ],
+    [ "Register", "d7/de8/a19734.html#acd911f78780e052d88f5f47574092d62", null ]
 ];

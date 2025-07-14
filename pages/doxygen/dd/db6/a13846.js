@@ -1,8 +1,7 @@
 var a13846 =
 [
-    [ "FilterTargets", "dd/db6/a13846.html#a3405b21202d423c649e0b8d341b42d9c", null ],
-    [ "HandleWipeThreat", "dd/db6/a13846.html#a2bbcce83bffebc509e9ec54778e82639", null ],
-    [ "PrepareSpellScript", "dd/db6/a13846.html#a59948484b528cab69c695f08b39b886d", null ],
-    [ "Register", "dd/db6/a13846.html#ac4106a251bd3120e122955edbcdc8e2a", null ],
-    [ "_wipeThreat", "dd/db6/a13846.html#ab5293e50bd670c0d350f190f1c9892b3", null ]
+    [ "OnPeriodic", "dd/db6/a13846.html#aa541a8bc034517d1f5d034ac51bd8dac", null ],
+    [ "PrepareAuraScript", "dd/db6/a13846.html#abc166e4dc33e7bffd1d53c2ef8272efa", null ],
+    [ "Register", "dd/db6/a13846.html#a60313d4ba992b1dc81e7cdae942f1b3d", null ],
+    [ "Validate", "dd/db6/a13846.html#a7ed214de6769314a45540e9afdb82949", null ]
 ];

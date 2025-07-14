@@ -1,9 +1,6 @@
 var a10634 =
 [
-    [ "GuildBankUpdateTab", "db/d64/a10634.html#a2950da8bfc40df57a3f5a66eee47a7ef", null ],
-    [ "Read", "db/d64/a10634.html#ac261ff0102489efb4d69bd866ffc9283", null ],
-    [ "Banker", "db/d64/a10634.html#a7ab950cee095221f9114224a624d46db", null ],
-    [ "BankTab", "db/d64/a10634.html#a66284a4d9cb40b025ef265d443e6e62f", null ],
-    [ "Icon", "db/d64/a10634.html#a75a219a9e2ab677a41920f39a1613a1b", null ],
-    [ "Name", "db/d64/a10634.html#a44261fbc379b3137548922faf4b5cbda", null ]
+    [ "GuildUpdateInfoText", "db/d64/a10634.html#a82afd6cb3240da6870990d6f80f69cd6", null ],
+    [ "Read", "db/d64/a10634.html#a7019344fef99c5479602d7bc1176e9ee", null ],
+    [ "InfoText", "db/d64/a10634.html#a786802ce427465d66a4cea1365743975", null ]
 ];

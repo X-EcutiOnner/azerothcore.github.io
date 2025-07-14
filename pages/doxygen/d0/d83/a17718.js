@@ -1,6 +1,6 @@
 var a17718 =
 [
-    [ "AbominationDespawner", "d0/d83/a17718.html#a3bbf8c5d4e42569ffe993a3c3b8ff95e", null ],
-    [ "operator()", "d0/d83/a17718.html#a58b8faac1cdffa7230783a1d6439fcfb", null ],
-    [ "_owner", "d0/d83/a17718.html#af9089e566905b885887a5714ad5b0741", null ]
+    [ "DaranavanMoveEvent", "d0/d83/a17718.html#add38d87b9108c09aa9b9fd60f12abcde", null ],
+    [ "Execute", "d0/d83/a17718.html#ada0ebc4a9c9f949dd0155a554a553543", null ],
+    [ "_darnavan", "d0/d83/a17718.html#a7585edb957755efbc6064f232d50ea4e", null ]
 ];

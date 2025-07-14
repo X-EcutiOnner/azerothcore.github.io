@@ -1,8 +1,8 @@
 var a28746 =
 [
-    [ "HandleDummy", "dc/dcc/a28746.html#ad2eec86cff225cc0bd806e31596fb127", null ],
-    [ "PrepareSpellScript", "dc/dcc/a28746.html#a59a04dcfee911c70e13ea8d27b4a49c4", null ],
-    [ "Register", "dc/dcc/a28746.html#a6c72b4c813368774283ae94036a43ee2", null ],
-    [ "SendMiss", "dc/dcc/a28746.html#a7c6d300e60ed492c82d5c017d3e73ed1", null ],
-    [ "Validate", "dc/dcc/a28746.html#a9a5014de08f73ad5dad29354812030ac", null ]
+    [ "TileConfig", "dc/dcc/a28746.html#a67b10c747fb0d2bc2a263e5009d42e1b", null ],
+    [ "BASE_UNIT_DIM", "dc/dcc/a28746.html#a5a882b0595456ab3fcca85c80af3b6f8", null ],
+    [ "TILES_PER_MAP", "dc/dcc/a28746.html#ae3443f89a8a698823c91096abe51a6a9", null ],
+    [ "VERTEX_PER_MAP", "dc/dcc/a28746.html#a46640a80428b1ab93d65d593c03d13ed", null ],
+    [ "VERTEX_PER_TILE", "dc/dcc/a28746.html#ae0331739074e5546818e13527a76524a", null ]
 ];

@@ -1,7 +1,6 @@
 var a23882 =
 [
-    [ "npc_daranelleAI", "d4/d8d/a23882.html#a49eeff6e0aea079a0375a92074227d12", null ],
-    [ "JustEngagedWith", "d4/d8d/a23882.html#aeff39dfd84986186057cdaf7632eed4f", null ],
-    [ "MoveInLineOfSight", "d4/d8d/a23882.html#a353e27c1485b88f0751a64260898d35b", null ],
-    [ "Reset", "d4/d8d/a23882.html#a33b2fbec775257e3ba0bebe37fb86349", null ]
+    [ "instance_the_eye_InstanceMapScript", "d6/d3d/a23886.html", "d6/d3d/a23886" ],
+    [ "instance_the_eye", "d4/d8d/a23882.html#a685064ba70095a3fc27ae1a8b33d3c88", null ],
+    [ "GetInstanceScript", "d4/d8d/a23882.html#a811c7d161469f33ce4fb7d792ce30a4e", null ]
 ];

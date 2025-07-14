@@ -1,7 +1,6 @@
 var a25898 =
 [
-    [ "OnRemove", "d3/d80/a25898.html#a8c39ba2fbd8c9c96de622afd8d04281e", null ],
-    [ "PrepareAuraScript", "d3/d80/a25898.html#a9e13b76ceb256dec1a6c9dccd5c6c537", null ],
-    [ "Register", "d3/d80/a25898.html#a9fbaec43bae2f4d6f4b94b18da0144fe", null ],
-    [ "Validate", "d3/d80/a25898.html#a8f111779a3a0e68fe5a313e6eae716b3", null ]
+    [ "PrepareSpellScript", "d3/d80/a25898.html#a7099b8d28128cfea49288792ea02606c", null ],
+    [ "Register", "d3/d80/a25898.html#a7622be3b736678ebeb3982a8d6a5b601", null ],
+    [ "UpdateTarget", "d3/d80/a25898.html#a4e808b026c89d080e309a0ca8b4f57d1", null ]
 ];

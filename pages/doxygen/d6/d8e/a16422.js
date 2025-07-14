@@ -1,6 +1,6 @@
 var a16422 =
 [
-    [ "npc_mistress_of_painAI", "d3/d35/a16426.html", "d3/d35/a16426" ],
-    [ "npc_mistress_of_pain", "d6/d8e/a16422.html#a0261ed835454725e0e5629c295be4330", null ],
-    [ "GetAI", "d6/d8e/a16422.html#ae32e9b907e2e31556e72d7feb4e24e8a", null ]
+    [ "npc_toc_mageAI", "d3/d35/a16426.html", "d3/d35/a16426" ],
+    [ "npc_toc_mage", "d6/d8e/a16422.html#a8270875c1da3e2e96f767362ef90cdc6", null ],
+    [ "GetAI", "d6/d8e/a16422.html#a64b5b8b3a5933a0264537f2187e81e15", null ]
 ];

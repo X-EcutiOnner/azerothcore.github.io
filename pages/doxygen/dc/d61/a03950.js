@@ -1,6 +1,5 @@
 var a03950 =
 [
-    [ "lfg_commandscript", "df/d16/a11656.html", "df/d16/a11656" ],
-    [ "AddSC_lfg_commandscript", "dc/d61/a03950.html#a484938015a7f5ffa8f5b1d0e259d355b", null ],
-    [ "GetPlayerInfo", "dc/d61/a03950.html#a1d2591add059e8c4daf04b9f706da765", null ]
+    [ "learn_commandscript", "dc/d76/a11678.html", "dc/d76/a11678" ],
+    [ "AddSC_learn_commandscript", "dc/d61/a03950.html#a8dd69858fd98c4630027654ecdcf92e7", null ]
 ];

@@ -1,12 +1,15 @@
 var a22494 =
 [
-    [ "boss_exarch_maladaar", "d9/d70/a22494.html#a5dac68e3dc6fc37736bf85b84eadd417", null ],
-    [ "JustDied", "d9/d70/a22494.html#ab1179a19af8948d430559db4074c41ed", null ],
-    [ "JustEngagedWith", "d9/d70/a22494.html#a69427e7a0ca70253ad8035b5e6b1e01e", null ],
-    [ "JustSummoned", "d9/d70/a22494.html#a8f59e1b093af8c85da8c2fd38e01ca1b", null ],
-    [ "KilledUnit", "d9/d70/a22494.html#adf35cb8b039676500d4040baa08b0d48", null ],
-    [ "MoveInLineOfSight", "d9/d70/a22494.html#a14baacd30b9186c7492c981313421d5b", null ],
-    [ "Reset", "d9/d70/a22494.html#accb21d3c4a6856d2de9641cf84c42ce9", null ],
-    [ "UpdateAI", "d9/d70/a22494.html#a7646c4477135d3d3b8580432902babd4", null ],
-    [ "_talked", "d9/d70/a22494.html#a15c4f122529b9f52823ea407c43433c5", null ]
+    [ "OutdoorPvPEP", "d9/d70/a22494.html#ab4915dfc03de08cad83eb48c4c789cb8", null ],
+    [ "BuffTeams", "d9/d70/a22494.html#ac6a61c19ba96ca843eb12952d0c09078", null ],
+    [ "FillInitialWorldStates", "d9/d70/a22494.html#ac1b185125fa1f8864d1062b65be24bdc", null ],
+    [ "HandlePlayerEnterZone", "d9/d70/a22494.html#a9e7404160b1220dc3cc2766a07f42ad2", null ],
+    [ "HandlePlayerLeaveZone", "d9/d70/a22494.html#a251b154abfaec9cbfb1a56e657ac5214", null ],
+    [ "SendRemoveWorldStates", "d9/d70/a22494.html#afad47628bb4cfcc6060ce35396e33d9d", null ],
+    [ "SetControlledState", "d9/d70/a22494.html#abef30d5cbe7c2cd52cd32ae29da1c9ce", null ],
+    [ "SetupOutdoorPvP", "d9/d70/a22494.html#acecc8126180c027cb3d685231e55d873", null ],
+    [ "Update", "d9/d70/a22494.html#a974910b2f7f2d8cfaf43b6694bf4c2c7", null ],
+    [ "EP_ControlsId", "d9/d70/a22494.html#a7e8fcf50f88bdb56b189877721a1f006", null ],
+    [ "m_AllianceTowersControlled", "d9/d70/a22494.html#a09e5cf029656af3fc740b236596d42ee", null ],
+    [ "m_HordeTowersControlled", "d9/d70/a22494.html#a325c16f6b5f40bd5dd5f63a9d93a8cd1", null ]
 ];

@@ -1,9 +1,10 @@
 var a14110 =
 [
-    [ "npc_brew_bubble", "dc/da1/a14110.html#a188d1b68bb939d518e72e844e53e9a7d", null ],
-    [ "DoAction", "dc/da1/a14110.html#a7223d3397b32cf2969ea628c06ac2f19", null ],
-    [ "MoveInLineOfSight", "dc/da1/a14110.html#aea01d2c0f9ac883a8a8668164f16f932", null ],
-    [ "Reset", "dc/da1/a14110.html#aa3ab8e07323b47751f72c5ebab24a1bb", null ],
-    [ "UpdateAI", "dc/da1/a14110.html#a25018deaa206620f6e98ba722f689b8d", null ],
-    [ "timer", "dc/da1/a14110.html#a4bee73add756ba4b3137818b2dacd27f", null ]
+    [ "npc_zealot_zath", "dc/da1/a14110.html#a845840d0a45dd6c4b6368ee4ecf6917b", null ],
+    [ "JustDied", "dc/da1/a14110.html#ae56e2e89a6ba623200e9ee36977cee13", null ],
+    [ "JustEngagedWith", "dc/da1/a14110.html#a25e059f40de51d880f4ec209ff4dd924", null ],
+    [ "Reset", "dc/da1/a14110.html#abc4e40afd644f2c89444f3fe475817c0", null ],
+    [ "UpdateAI", "dc/da1/a14110.html#a467ce2437ec112b42f864ef412c0c976", null ],
+    [ "_scheduler", "dc/da1/a14110.html#a146679c4eb3eec444ff1dcd9a780110a", null ],
+    [ "instance", "dc/da1/a14110.html#a66dfe3182b45e984b4d81d40051e5ecc", null ]
 ];

@@ -1,10 +1,9 @@
 var a06222 =
 [
-    [ "bvar", "d6/d0c/a06222.html#aa6e8fda81f0f4b6d8f6e984616b5952d", null ],
-    [ "gob", "d6/d0c/a06222.html#ad654cef8dd1ab99af027ff31c160a36d", null ],
-    [ "holder", "d6/d0c/a06222.html#a46e408867f98388ecf66692438d48000", null ],
-    [ "spell", "d6/d0c/a06222.html#a6678b172ab306d90b04341dcb17a132e", null ],
-    [ "unit", "d6/d0c/a06222.html#a210df2cde720f8eb4c956444fb536150", null ],
-    [ "var0", "d6/d0c/a06222.html#a4d90bbe920dca0d5a5be8e2a93a0af99", null ],
-    [ "var1", "d6/d0c/a06222.html#a6aafd8266267ea053a538a813acccb78", null ]
+    [ "Escort_Waypoint", "d6/d0c/a06222.html#a272aeeba02403a21c4900e6b0844a328", null ],
+    [ "id", "d6/d0c/a06222.html#a6a763373fcc37e5a463b54e1e1a68235", null ],
+    [ "WaitTimeMs", "d6/d0c/a06222.html#a467a869dba9243bd165e4c480e339705", null ],
+    [ "x", "d6/d0c/a06222.html#a4d751062b2ab46734049bf8939a30731", null ],
+    [ "y", "d6/d0c/a06222.html#a88648b1bd70afad73d402c40abcd68b5", null ],
+    [ "z", "d6/d0c/a06222.html#a810ad58fe70fd6402f01ed7e70b450e0", null ]
 ];

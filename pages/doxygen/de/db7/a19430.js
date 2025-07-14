@@ -1,6 +1,7 @@
 var a19430 =
 [
-    [ "npc_molten_golemAI", "d0/d67/a19434.html", "d0/d67/a19434" ],
-    [ "npc_molten_golem", "de/db7/a19430.html#a63e16216a59b50524632b49599bd3bd1", null ],
-    [ "GetAI", "de/db7/a19430.html#a22a723039267cb0901b78c6064a88d0c", null ]
+    [ "Apply", "de/db7/a19430.html#add8e95d38b0c437833c11cded72fe2a7", null ],
+    [ "PrepareAuraScript", "de/db7/a19430.html#ad2112b571d97e537983b4d11207015e6", null ],
+    [ "Register", "de/db7/a19430.html#accf85a0d8b2fad19bb0709013caa9f1b", null ],
+    [ "Validate", "de/db7/a19430.html#a0b89b10ee22d02655ad08a348ab91ecd", null ]
 ];

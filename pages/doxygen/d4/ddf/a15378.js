@@ -1,6 +1,8 @@
 var a15378 =
 [
-    [ "npc_great_bear_spirit", "d4/ddf/a15378.html#a141470a3623aa1152d3505661f1532c8", null ],
-    [ "OnGossipHello", "d4/ddf/a15378.html#a2307b8d56fc117d918adc9814fa86f8f", null ],
-    [ "OnGossipSelect", "d4/ddf/a15378.html#aae026f4cf8b0de61d36a841dcfdbd92e", null ]
+    [ "npc_prospector_remtravelAI", "d4/ddf/a15378.html#a61f26115382f16f3d65c3d4e1c720f02", null ],
+    [ "JustEngagedWith", "d4/ddf/a15378.html#adf388d36c17b69f881e3cb92d9b78b9b", null ],
+    [ "JustSummoned", "d4/ddf/a15378.html#a6b3dd1552b5313dd04d07dc80eef06fe", null ],
+    [ "Reset", "d4/ddf/a15378.html#ac145a4a4a24be227c31fcc5aefd922eb", null ],
+    [ "WaypointReached", "d4/ddf/a15378.html#a7b02b22e9dc63e1fad6b15a44b2ff9b6", null ]
 ];

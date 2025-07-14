@@ -1,8 +1,7 @@
 var a13986 =
 [
-    [ "npc_spawn_of_marli", "de/d11/a13986.html#a1dcd5066de108203903f5767c4b375ea", null ],
-    [ "JustEngagedWith", "de/d11/a13986.html#a1b8afff5d90df02d16b81785026b2ff0", null ],
-    [ "Reset", "de/d11/a13986.html#a79ef192d41af75e0dad0494776c75189", null ],
-    [ "UpdateAI", "de/d11/a13986.html#a1c456e7deb43d2e4dd1abc6f702c3f75", null ],
-    [ "_scheduler", "de/d11/a13986.html#ae9d30ec62ff25a454824ff4334ad2d99", null ]
+    [ "OnRemove", "de/d11/a13986.html#ab909660f32a77e86fde5da35e2f69302", null ],
+    [ "PrepareAuraScript", "de/d11/a13986.html#ac95ee854f1f8921bd49fbd59c959d0da", null ],
+    [ "Register", "de/d11/a13986.html#a42c116ecb7d938bc4b9047ab40ff60ea", null ],
+    [ "Validate", "de/d11/a13986.html#abd1254c53c04f72f848d8641affc729d", null ]
 ];

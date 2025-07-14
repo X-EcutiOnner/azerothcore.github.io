@@ -1,11 +1,6 @@
 var a23950 =
 [
-    [ "npc_magister_aledis", "d1/d22/a23950.html#a0e30c5d4f9fe023537a1b29258967630", null ],
-    [ "DamageTaken", "d1/d22/a23950.html#a3c3b72de2dc3e2a1e2bdeab908f0691f", null ],
-    [ "Reset", "d1/d22/a23950.html#ae0a701eeaacc5188b382c59ecef14518", null ],
-    [ "sGossipSelect", "d1/d22/a23950.html#a9960de0b5be8b75e8b7bcc8f12c4f187", null ],
-    [ "StartFight", "d1/d22/a23950.html#a9149ce0a1df781043a5590fe4612511a", null ],
-    [ "UpdateAI", "d1/d22/a23950.html#aef885088193e2597e6990e3051a31ef7", null ],
-    [ "_events", "d1/d22/a23950.html#a5b4cd0ab4d214547dca28b8b384f83df", null ],
-    [ "_playerGUID", "d1/d22/a23950.html#a0954d3d1c9ad4eaff387bc2cf4f52aeb", null ]
+    [ "npc_deaths_fel_cannonAI", "d7/d64/a23954.html", "d7/d64/a23954" ],
+    [ "npc_deaths_fel_cannon", "d1/d22/a23950.html#a87ecaca75061928600b5114d3913dd26", null ],
+    [ "GetAI", "d1/d22/a23950.html#a4cf91cd1f28637f359e06bccd30e0338", null ]
 ];

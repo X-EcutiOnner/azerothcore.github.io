@@ -1,10 +1,8 @@
 var a09290 =
 [
-    [ "MostHPPercentMissingInRange", "dc/dcf/a09290.html#aaef0deb21e2470b45cafc22a8c4d18a5", null ],
-    [ "operator()", "dc/dcf/a09290.html#ab1734490a3db95ad715756e85ecfaf77", null ],
-    [ "i_hpPct", "dc/dcf/a09290.html#a41a3b1c4d1f27a2d727e7a18e2e30a7d", null ],
-    [ "i_maxHpPct", "dc/dcf/a09290.html#afd12795ef0cd99e05e4e21f869582416", null ],
-    [ "i_minHpPct", "dc/dcf/a09290.html#a11c197d3eea1a8ded0b20f707e6ed5d0", null ],
-    [ "i_obj", "dc/dcf/a09290.html#a724cf058a6bcf02864a49bb288e32ce6", null ],
-    [ "i_range", "dc/dcf/a09290.html#a021acff6bdb6aef9ab24c19d8798884f", null ]
+    [ "RespawnDo", "dc/dcf/a09290.html#a79f6424f2849c4c05998fe29a8510aeb", null ],
+    [ "operator()", "dc/dcf/a09290.html#ac15ff63f29e313556b8f66e0cd80514f", null ],
+    [ "operator()", "dc/dcf/a09290.html#a23408bf4da497d1007e4e88e0d9c0e19", null ],
+    [ "operator()", "dc/dcf/a09290.html#a66335f45bb1f3c770887b263e9d84236", null ],
+    [ "operator()", "dc/dcf/a09290.html#a4551ca2e0fdb6540a724c9c2b43484c6", null ]
 ];

@@ -1,7 +1,7 @@
 var a10482 =
 [
-    [ "ChatServerMessage", "df/d55/a10482.html#aa649857ceeba6b2f9e060f7d502cdb7a", null ],
-    [ "Write", "df/d55/a10482.html#af8bad4d39693290674bda2e2ad8685bf", null ],
-    [ "MessageID", "df/d55/a10482.html#afde854fc17313d214fa0f0cdc48ca9a9", null ],
-    [ "StringParam", "df/d55/a10482.html#ac39a08d84c8f5934d0fe26e91809e60a", null ]
+    [ "LogoutResponse", "df/d55/a10482.html#a434ee19fbc4d3e336444b1c62ac2be84", null ],
+    [ "Write", "df/d55/a10482.html#a0b08225b6ac303afd20ec213aafe4bcb", null ],
+    [ "Instant", "df/d55/a10482.html#aad6819dc426b91b6ad43f180a53e12ef", null ],
+    [ "LogoutResult", "df/d55/a10482.html#a5543bf1a6342e9a217cd906e4a185b2e", null ]
 ];

@@ -1,6 +1,6 @@
 var a19778 =
 [
-    [ "npc_freya_wardAI", "d2/d7f/a19782.html", "d2/d7f/a19782" ],
-    [ "npc_freya_ward", "da/d3c/a19778.html#aebaadcc001922c78e8ec43084a827ac9", null ],
-    [ "GetAI", "da/d3c/a19778.html#a90c0e7a0be1717bf1793415b6fcafbed", null ]
+    [ "npc_assembly_lightningAI", "d2/d7f/a19782.html", "d2/d7f/a19782" ],
+    [ "npc_assembly_lightning", "da/d3c/a19778.html#ac9776fc8cb3dd3f8bfecb1d367afefd2", null ],
+    [ "GetAI", "da/d3c/a19778.html#a4054ea8bb68b2742847b359e19b477df", null ]
 ];

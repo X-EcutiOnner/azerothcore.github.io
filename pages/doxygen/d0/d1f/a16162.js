@@ -1,8 +1,7 @@
 var a16162 =
 [
-    [ "npc_black_knight_skeletal_gryphonAI", "d0/d1f/a16162.html#ada99dced1e560aebc908a0efb6c23d0a", null ],
-    [ "DoAction", "d0/d1f/a16162.html#af38e129cdf4af99e99c41b6a98448e56", null ],
-    [ "Reset", "d0/d1f/a16162.html#a5e20d5e17baaac92a560a5b2fe15fe7b", null ],
-    [ "UpdateAI", "d0/d1f/a16162.html#a851008790128831c5c10710b4cccb196", null ],
-    [ "WaypointReached", "d0/d1f/a16162.html#a74b5fb1d3631c404e7797085e45e6159", null ]
+    [ "HandleDummy", "d0/d1f/a16162.html#a96b430cb0546fb599da22cd675660187", null ],
+    [ "PrepareSpellScript", "d0/d1f/a16162.html#ad0330cb78a330f05c18f33375f231fbc", null ],
+    [ "Register", "d0/d1f/a16162.html#a70a36683a235dec6044a8a32f20c606c", null ],
+    [ "Validate", "d0/d1f/a16162.html#affa7ccf869e98eacd3a153cc645d704e", null ]
 ];

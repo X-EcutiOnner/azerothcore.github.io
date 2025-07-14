@@ -1,6 +1,5 @@
 var a20298 =
 [
-    [ "boss_mimironAI", "d0/da8/a20302.html", "d0/da8/a20302" ],
-    [ "boss_mimiron", "d7/dff/a20298.html#a72904837bd85e9f711fcf3da04c459c3", null ],
-    [ "GetAI", "d7/dff/a20298.html#a1d4f38ecee62a2c2a608afc158fad7f2", null ]
+    [ "achievement_staying_buffed_all_winter_25", "d7/dff/a20298.html#a91f0ab3bada837cff6414350b98a27a3", null ],
+    [ "OnCheck", "d7/dff/a20298.html#a36591082184bc8466e124bad9a910545", null ]
 ];

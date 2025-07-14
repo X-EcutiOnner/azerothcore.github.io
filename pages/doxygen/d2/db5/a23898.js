@@ -1,6 +1,7 @@
 var a23898 =
 [
-    [ "go_apexis_relic", "d2/db5/a23898.html#a91ff5a986ee62b628456e9f5c75f6bc9", null ],
-    [ "OnGossipHello", "d2/db5/a23898.html#ae8f7167ba5b973881e32d604691dc15a", null ],
-    [ "OnGossipSelect", "d2/db5/a23898.html#a025cc7cc9c69f0eb461445170972ab52", null ]
+    [ "boss_gatewatcher_iron_hand", "d2/db5/a23898.html#aef70e713007af38b510f0a3b8c082b24", null ],
+    [ "JustDied", "d2/db5/a23898.html#a36b10cd02b35b6e106687b08bc80bfa6", null ],
+    [ "JustEngagedWith", "d2/db5/a23898.html#aa6a9f456d158e4c0332816c7e65ec155", null ],
+    [ "KilledUnit", "d2/db5/a23898.html#a1973142412b4094dbd9fa51600741148", null ]
 ];

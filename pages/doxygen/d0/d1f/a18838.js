@@ -1,8 +1,6 @@
 var a18838 =
 [
-    [ "HandleScript", "d0/d1f/a18838.html#ae0d16607f9eb3ff233513233bfb573ea", null ],
-    [ "HandleScript2", "d0/d1f/a18838.html#a3ff7d46323da70df6ad11ddfcaf6cfbb", null ],
-    [ "Load", "d0/d1f/a18838.html#ad41decc0a264104ca2232aef4e71cdaf", null ],
-    [ "PrepareSpellScript", "d0/d1f/a18838.html#a2d1dbae570206b358878020879708000", null ],
-    [ "Register", "d0/d1f/a18838.html#a7cf32445caa09f2a2b3c52f68f315ba5", null ]
+    [ "npc_icc_gauntlet_controllerAI", "dd/d87/a18842.html", "dd/d87/a18842" ],
+    [ "npc_icc_gauntlet_controller", "d0/d1f/a18838.html#a5fc4c941842e25bc3da93686e588627b", null ],
+    [ "GetAI", "d0/d1f/a18838.html#a4ed1a69fb537e7ce547a3a57253990c4", null ]
 ];

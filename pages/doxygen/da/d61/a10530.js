@@ -1,9 +1,6 @@
 var a10530 =
 [
-    [ "GuildRoster", "da/d61/a10530.html#a2161128d6fb6fa53a5129a95ded2b5fc", null ],
-    [ "Write", "da/d61/a10530.html#a544a539999827d4eb8923cbbcdf42bac", null ],
-    [ "InfoText", "da/d61/a10530.html#a9d457ee8feb6c173d960b360aca90fc6", null ],
-    [ "MemberData", "da/d61/a10530.html#a964fc72bf3ada77c171fd1f691449241", null ],
-    [ "RankData", "da/d61/a10530.html#a67b0a12fae93c5807030c1062f328abb", null ],
-    [ "WelcomeText", "da/d61/a10530.html#a5ec2c209558d2c34feee4bfd8cda201c", null ]
+    [ "QueryGuildInfo", "da/d61/a10530.html#a34b129b3c9fef61aa4211a9bc2783aef", null ],
+    [ "Read", "da/d61/a10530.html#a0396a58ca114706f7de91f51c5ab949d", null ],
+    [ "GuildId", "da/d61/a10530.html#ad221eecdb16233251306fff3d9801f38", null ]
 ];

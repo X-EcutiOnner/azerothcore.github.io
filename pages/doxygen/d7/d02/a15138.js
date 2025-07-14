@@ -1,8 +1,8 @@
 var a15138 =
 [
-    [ "npc_obsidian_eradicator", "d7/d02/a15138.html#a84a6c414b3d74468143984e57f83e383", null ],
-    [ "JustEngagedWith", "d7/d02/a15138.html#ab03b7138306a04a00938bf1cdb9a7966", null ],
-    [ "Reset", "d7/d02/a15138.html#a7c76c7d3a69e464c0dcb6a96226baa61", null ],
-    [ "UpdateAI", "d7/d02/a15138.html#a1697d83e89559f047d5bab652007bb61", null ],
-    [ "_targetGUIDs", "d7/d02/a15138.html#abd83775d1eab5ab2a3aadd7fd925c3ae", null ]
+    [ "npc_ouro_spawner", "d7/d02/a15138.html#acb18739e5a1734312ffdda35321e5f34", null ],
+    [ "JustSummoned", "d7/d02/a15138.html#a722dada5bf97c730462a0de2b082d5ff", null ],
+    [ "MoveInLineOfSight", "d7/d02/a15138.html#a83c0972db4435ccf1af069574e4056f4", null ],
+    [ "Reset", "d7/d02/a15138.html#ac1591f1c172bfdda25b020e00cd0835e", null ],
+    [ "hasSummoned", "d7/d02/a15138.html#a6ac376861c1206cc1551d9fa86c0fc97", null ]
 ];

@@ -1,5 +1,4 @@
 var a01655 =
 [
-    [ "GroupMgr", "d2/da7/a09492.html", "d2/da7/a09492" ],
-    [ "sGroupMgr", "df/ddd/a01655.html#a9b001b22670103435cf11551af9fa71e", null ]
+    [ "ScriptRegistry< WorldScript >", "df/ddd/a01655.html#a4b01e55b7bd36b85062bfc12bfef108f", null ]
 ];

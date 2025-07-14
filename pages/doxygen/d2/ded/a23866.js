@@ -1,7 +1,6 @@
 var a23866 =
 [
-    [ "OnPeriodic", "d2/ded/a23866.html#a7ef787ac13b97aa225a5340f7bfcc4e3", null ],
-    [ "PrepareAuraScript", "d2/ded/a23866.html#a6f7db06cc1ace68ee0076077773b1659", null ],
-    [ "Register", "d2/ded/a23866.html#a559347bedad9fd8a0e6f4c5b14333c06", null ],
-    [ "Validate", "d2/ded/a23866.html#aae1c2d5b8eb30341a67e261e69a4d294", null ]
+    [ "FilterTargets", "d2/ded/a23866.html#a0b0a4e033a1410a5b0def33cf87c853c", null ],
+    [ "PrepareSpellScript", "d2/ded/a23866.html#afa186c0b0728e3462f8984189613f9a7", null ],
+    [ "Register", "d2/ded/a23866.html#a14aafc65b554c0ada5684c46ae1f57c8", null ]
 ];

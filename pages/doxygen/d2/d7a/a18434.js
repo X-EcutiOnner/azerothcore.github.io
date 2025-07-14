@@ -1,8 +1,9 @@
 var a18434 =
 [
-    [ "Load", "d2/d7a/a18434.html#a3a5fa4814a7724db0ba7be5c5158798b", null ],
-    [ "PeriodicTick", "d2/d7a/a18434.html#a4ff0ab22db0bbd4483ddb379de069c48", null ],
-    [ "PrepareAuraScript", "d2/d7a/a18434.html#a029820fbfc34af4d0ccb825a9f9d2b0d", null ],
-    [ "Register", "d2/d7a/a18434.html#a909819dde9d5154f3d2cf04b04fa33f7", null ],
-    [ "_instance", "d2/d7a/a18434.html#aebebb858f2ae41f2260d6843b3da8052", null ]
+    [ "DelayedCastEvent", "d2/d7a/a18434.html#ae6d57612065d56ce79197aedebedf9f9", null ],
+    [ "Execute", "d2/d7a/a18434.html#ae2925429b3049e44d2afd2e8b990af71", null ],
+    [ "_despawnTime", "d2/d7a/a18434.html#acc9e22eb1908e4c458199fc4cccd56c6", null ],
+    [ "_originalCaster", "d2/d7a/a18434.html#adb07c24a947d59d2ef1f61b8ab18d328", null ],
+    [ "_spellId", "d2/d7a/a18434.html#abe28a6749101233302634ed226a289e8", null ],
+    [ "_trigger", "d2/d7a/a18434.html#a85471a151a3165cc906f3a41103c3f5d", null ]
 ];

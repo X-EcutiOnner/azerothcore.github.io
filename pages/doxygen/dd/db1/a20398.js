@@ -1,6 +1,5 @@
 var a20398 =
 [
-    [ "npc_ulduar_rocket_strike_triggerAI", "d6/d33/a20402.html", "d6/d33/a20402" ],
-    [ "npc_ulduar_rocket_strike_trigger", "dd/db1/a20398.html#a41cc84b04124bb47c24b39a48c9023b1", null ],
-    [ "GetAI", "dd/db1/a20398.html#a7715ce6646efa3728c28c4e11b25c2ed", null ]
+    [ "achievement_kologarn_with_open_arms", "dd/db1/a20398.html#a94af961be5bbdf7783925148731ce7e4", null ],
+    [ "OnCheck", "dd/db1/a20398.html#a03c1fb5f141a15f8f63e28700b98f9b5", null ]
 ];

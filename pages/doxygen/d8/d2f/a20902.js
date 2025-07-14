@@ -1,5 +1,11 @@
 var a20902 =
 [
-    [ "achievement_yogg_saron_kiss_and_make_up", "d8/d2f/a20902.html#a9f2e5fe9de59a9b5a00c0e73e8f9b376", null ],
-    [ "OnCheck", "d8/d2f/a20902.html#a8ce7df713b804d5bdd5f6f47d77fc1b8", null ]
+    [ "boss_yoggsaron_llaneAI", "d8/d2f/a20902.html#a8524834b7dff49844d96b7dc49fd265d", null ],
+    [ "NextStep", "d8/d2f/a20902.html#a6587e7873455950bda97b2a7d78e6fc5", null ],
+    [ "Reset", "d8/d2f/a20902.html#a86f9d594562f842d478b63de18e52455", null ],
+    [ "Say", "d8/d2f/a20902.html#ab619684f15f5325383a413dced7c930e", null ],
+    [ "UpdateAI", "d8/d2f/a20902.html#a545378189f85968ac925baa06ad608b5", null ],
+    [ "_checkTimer", "d8/d2f/a20902.html#aa4956f6943adce94a9ed4fec951317d6", null ],
+    [ "_running", "d8/d2f/a20902.html#a6d6d186febc408ecb830bf7eea3c72bd", null ],
+    [ "_step", "d8/d2f/a20902.html#a718c0bf307934b9ee9cbb933899c6324", null ]
 ];

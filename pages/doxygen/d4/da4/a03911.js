@@ -1,5 +1,5 @@
 var a03911 =
 [
-    [ "cheat_commandscript", "d6/daa/a11588.html", "d6/daa/a11588" ],
-    [ "AddSC_cheat_commandscript", "d4/da4/a03911.html#aafc88882ff0af0beb4632ec2c929fc8c", null ]
+    [ "message_commandscript", "de/d45/a11694.html", "de/d45/a11694" ],
+    [ "AddSC_message_commandscript", "d4/da4/a03911.html#a85760eb92ac87e8dcb18c91d31f09fc0", null ]
 ];

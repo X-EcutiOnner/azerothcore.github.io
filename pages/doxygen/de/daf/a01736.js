@@ -1,10 +1,11 @@
 var a01736 =
 [
-    [ "CALL_ENABLED_BOOLEAN_HOOKS", "de/daf/a01736.html#a6ed5893c246e1f2c46b3d33ef8729a64", null ],
-    [ "CALL_ENABLED_BOOLEAN_HOOKS_WITH_DEFAULT_FALSE", "de/daf/a01736.html#a370083225ad9db5b05a730ce4fb26d2f", null ],
-    [ "CALL_ENABLED_HOOKS", "de/daf/a01736.html#a9662d12a9f13490594165729108aa0b1", null ],
-    [ "ExecuteScript", "de/daf/a01736.html#a80951f767a7c77417a671490893db073", null ],
-    [ "GetReturnAIScript", "de/daf/a01736.html#aceff01aa3f5ab68a0253704ef30041df", null ],
-    [ "IsValidBoolScript", "de/daf/a01736.html#a9dedac0cb410c9d87f0470ffd0eb6c66", null ],
-    [ "ReturnValidBool", "de/daf/a01736.html#a670fda94f7e41c38816a1e12f9efec7c", null ]
+    [ "SpellScriptLoader", "d3/da0/a10370.html", "d3/da0/a10370" ],
+    [ "GenericSpellAndAuraScriptLoader< Ts >", "d8/dc3/a10374.html", "d8/dc3/a10374" ],
+    [ "RegisterSpellAndAuraScriptPair", "de/daf/a01736.html#a69b21d1b83cecaba944f4e9379bc866c", null ],
+    [ "RegisterSpellAndAuraScriptPairWithArgs", "de/daf/a01736.html#aeffc3c8d08a35d5969c33508488e9051", null ],
+    [ "RegisterSpellScript", "de/daf/a01736.html#ae221e5976ab29ba14fec3b073a03670f", null ],
+    [ "RegisterSpellScriptWithArgs", "de/daf/a01736.html#aedecf91f4fce46852db865deae243e1f", null ],
+    [ "is_AuraScript", "de/daf/a01736.html#a08facc7292565931370e1cc514f726e1", null ],
+    [ "is_SpellScript", "de/daf/a01736.html#a2b573b538dcbf3da43ae603709d93bf2", null ]
 ];

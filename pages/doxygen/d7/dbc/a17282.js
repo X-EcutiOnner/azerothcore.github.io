@@ -1,9 +1,11 @@
 var a17282 =
 [
-    [ "FilterTargets", "d7/dbc/a17282.html#a7b490400378893a19cdaf52af25f3a51", null ],
-    [ "HandleScript", "d7/dbc/a17282.html#acee46fb0af45364478a92db59fcc3f24", null ],
-    [ "Load", "d7/dbc/a17282.html#a46a43b9a8dec2f61aee3dccad4178a78", null ],
-    [ "PrepareSpellScript", "d7/dbc/a17282.html#abb8fac43566f92b19e644edc38ab5d73", null ],
-    [ "Register", "d7/dbc/a17282.html#a1add221102b7067ffc130969f5172eae", null ],
-    [ "Validate", "d7/dbc/a17282.html#a4d2b60161f5aed31132f0fc554aab7b6", null ]
+    [ "npc_blood_queen_lana_thelAI", "d7/dbc/a17282.html#a7b099b90600e433e304dee1f356a9909", null ],
+    [ "MoveInLineOfSight", "d7/dbc/a17282.html#af1aafdc45abcdfbdbea7f5b67f3bc620", null ],
+    [ "MovementInform", "d7/dbc/a17282.html#a004a878ccb5fe68b249342f6a0fce31d", null ],
+    [ "Reset", "d7/dbc/a17282.html#a539b0e158c800e1aade54f37aa99751e", null ],
+    [ "UpdateAI", "d7/dbc/a17282.html#ae9d2f6b53898db04da58efe0deeceea5", null ],
+    [ "_events", "d7/dbc/a17282.html#a8ec7641bab991fc584b066fae55690bf", null ],
+    [ "_instance", "d7/dbc/a17282.html#a9058ce72bb956d7e90eff740c0f9633a", null ],
+    [ "_introDone", "d7/dbc/a17282.html#a40c642758a751e072e41343bb75ad306", null ]
 ];

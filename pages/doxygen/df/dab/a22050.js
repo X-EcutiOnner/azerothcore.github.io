@@ -1,6 +1,6 @@
 var a22050 =
 [
-    [ "npc_artruis_the_hearthlessAI", "d8/da2/a22054.html", "d8/da2/a22054" ],
-    [ "npc_artruis_the_hearthless", "df/dab/a22050.html#abeed70f4306113bd5df242eae91bfdb0", null ],
-    [ "GetAI", "df/dab/a22050.html#a1a7674c5e3e9e0de848bfb0d906ac06c", null ]
+    [ "npc_llod_genericAI", "d8/da2/a22054.html", "d8/da2/a22054" ],
+    [ "npc_llod_generic", "df/dab/a22050.html#a97a3957c4881808facf7910e4ae4ffd4", null ],
+    [ "GetAI", "df/dab/a22050.html#aeb2e7d9de871686e436d1e55f47085a2", null ]
 ];

@@ -1,18 +1,12 @@
 var a11478 =
 [
-    [ "WardenWin", "d6/d8c/a11478.html#ace17ee6e11a0c88478dc9f24c1c7db8f", null ],
-    [ "~WardenWin", "d6/d8c/a11478.html#ac1264c71c1e6f80fa70bf1794aa41368", null ],
-    [ "ForceChecks", "d6/d8c/a11478.html#a2a0e780572b1870f692803caa1ef673d", null ],
-    [ "GetModuleForClient", "d6/d8c/a11478.html#ad5dbc585ebb22eda2e1265f14129aa5c", null ],
-    [ "HandleData", "d6/d8c/a11478.html#a9860f6b2c0beb6d730b02c99e6172690", null ],
-    [ "HandleHashResult", "d6/d8c/a11478.html#a05ab06f2a7928affab20fd1b795a2d3f", null ],
-    [ "Init", "d6/d8c/a11478.html#a3222620148b84a4d95593800a83ba3fa", null ],
-    [ "InitializeModule", "d6/d8c/a11478.html#a2082c6a634c5b1f6cb63d376ff9a9695", null ],
-    [ "IsCheckInProgress", "d6/d8c/a11478.html#aee57f10f6f4f676908c54f305210b6bc", null ],
-    [ "RequestChecks", "d6/d8c/a11478.html#a9a3e9b53f66e97a615c288058b9adcf3", null ],
-    [ "RequestHash", "d6/d8c/a11478.html#abb53eb2b1d9dc95f8e77d12d4086c6c1", null ],
-    [ "_ChecksTodo", "d6/d8c/a11478.html#a61d85f3e94cb64aedbc977c74a64e0be", null ],
-    [ "_CurrentChecks", "d6/d8c/a11478.html#a9cb49a2629d08e0f54d363f81c284425", null ],
-    [ "_PendingChecks", "d6/d8c/a11478.html#a463e1f12600b12ddf54f762093ae57f0", null ],
-    [ "_serverTicks", "d6/d8c/a11478.html#a79e969e649fa057cd3a1a835837188c6", null ]
+    [ "Action", "d6/d8c/a11478.html#a0aba96ac9e7af155a1d9bdf120afae25", null ],
+    [ "Address", "d6/d8c/a11478.html#aaae2d4fd576f3eeb40c1413d54802345", null ],
+    [ "CheckId", "d6/d8c/a11478.html#a51a0cea0381f2b64e9d240ac39591172", null ],
+    [ "Comment", "d6/d8c/a11478.html#a6abdb409f49751b2f6aa8df88c349ba2", null ],
+    [ "Data", "d6/d8c/a11478.html#a962795028d40645fe67e4290ea64b10b", null ],
+    [ "IdStr", "d6/d8c/a11478.html#a15ecbc1a6582666a14423fa157d2fb84", null ],
+    [ "Length", "d6/d8c/a11478.html#abe0249d9550042e696eb74edf06aaec8", null ],
+    [ "Str", "d6/d8c/a11478.html#a1fc1eba87b344d4681498aafcaa496cb", null ],
+    [ "Type", "d6/d8c/a11478.html#aca31cdb700dca4801dfa514812639c70", null ]
 ];

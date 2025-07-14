@@ -1,7 +1,9 @@
 var a26082 =
 [
-    [ "HandleProc", "d9/dc9/a26082.html#a72463db57f87387aa3ff3175c45ca9df", null ],
-    [ "PrepareAuraScript", "d9/dc9/a26082.html#ae158b4b624b50ad984b2c5e9c16d7670", null ],
-    [ "Register", "d9/dc9/a26082.html#a2da64a27cfa5a68464f8f3a885e09751", null ],
-    [ "Validate", "d9/dc9/a26082.html#a798f51ee6333d3ebb2bbb617ea88ea2b", null ]
+    [ "Load", "d9/dc9/a26082.html#ae8329a18e94b3830e19bcbcbdf055dd2", null ],
+    [ "PrepareSpellScript", "d9/dc9/a26082.html#a7a082f577937bf9f794bfb21bbc416f1", null ],
+    [ "Register", "d9/dc9/a26082.html#a7b8f209bff9c2f1dff96f3d90c66cad4", null ],
+    [ "TriggerHeal", "d9/dc9/a26082.html#acad9295c5c6b46bd969a4fb528a8ec25", null ],
+    [ "Validate", "d9/dc9/a26082.html#a5f53a97e97f7959c51e1b5947f7c4418", null ],
+    [ "healPct", "d9/dc9/a26082.html#a33b4d26c34903e45b7274e369f096ce1", null ]
 ];

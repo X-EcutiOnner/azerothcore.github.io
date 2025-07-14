@@ -1,6 +1,7 @@
 var a13090 =
 [
-    [ "boss_baroness_anastariAI", "db/d2c/a13094.html", "db/d2c/a13094" ],
-    [ "boss_baroness_anastari", "dd/dde/a13090.html#a60f04c10d9b942cacf74a1dc8364dbbe", null ],
-    [ "GetAI", "dd/dde/a13090.html#a38073f80afbceb5535cc18ab524378a6", null ]
+    [ "OnApply", "dd/dde/a13090.html#a278a1eb6d5f856a620f5a33de294b0ec", null ],
+    [ "OnRemove", "dd/dde/a13090.html#a8300f726a41882e3d3f54adc0e5bfb29", null ],
+    [ "PrepareAuraScript", "dd/dde/a13090.html#a46ba800f3a3512951b83e428bc5373b9", null ],
+    [ "Register", "dd/dde/a13090.html#a4a59d431c7d7607e614c4ec035e3acf7", null ]
 ];

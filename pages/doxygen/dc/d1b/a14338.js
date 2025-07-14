@@ -1,8 +1,9 @@
 var a14338 =
 [
-    [ "OnApply", "dc/d1b/a14338.html#aa38abcc9fa49fc2c397edbfff2c0ea0d", null ],
-    [ "OnRemove", "dc/d1b/a14338.html#a64018d24a33565e615c6c2d3eb4810f8", null ],
-    [ "PrepareAuraScript", "dc/d1b/a14338.html#acb57b284b9d9116b6b0c0a758e09a8d5", null ],
-    [ "Register", "dc/d1b/a14338.html#a9cd1e664cb6ccec5dc897b586203faf1", null ],
-    [ "Validate", "dc/d1b/a14338.html#a77ed6196af0fcf75c6d1071e236f6210", null ]
+    [ "spell_hallows_end_put_costume", "dc/d1b/a14338.html#ac1fcd0a32142744f353cdc01bce740e3", null ],
+    [ "HandleScript", "dc/d1b/a14338.html#ac4be92e73c08c06c1c9954547bfe8013", null ],
+    [ "PrepareSpellScript", "dc/d1b/a14338.html#ac0e4692be1527f052a23ed52af32d042", null ],
+    [ "Register", "dc/d1b/a14338.html#ac38299892d02c497e3bbae3c73a095ab", null ],
+    [ "_femaleSpell", "dc/d1b/a14338.html#a5ccb30abd83ed1d0be104bffc91deca2", null ],
+    [ "_maleSpell", "dc/d1b/a14338.html#af9b285133389942bea6738e518d34e48", null ]
 ];

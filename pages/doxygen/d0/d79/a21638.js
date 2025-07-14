@@ -1,6 +1,5 @@
 var a21638 =
 [
-    [ "npc_future_youAI", "d5/d2b/a21642.html", "d5/d2b/a21642" ],
-    [ "npc_future_you", "d0/d79/a21638.html#a36e363156bcb32fee468989062817bd5", null ],
-    [ "GetAI", "d0/d79/a21638.html#a2e1529fef3ce307d98057dc93ce5e5fe", null ]
+    [ "npc_leryssaAI", "d0/d79/a21638.html#ad21a1e1572880ba8cbf6625e658989eb", null ],
+    [ "MovementInform", "d0/d79/a21638.html#a36180f7351ab11a9942ec59ee24ae6ad", null ]
 ];

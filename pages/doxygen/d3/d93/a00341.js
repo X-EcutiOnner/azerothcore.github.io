@@ -1,23 +1,9 @@
 var a00341 =
 [
-    [ "PathGenerator", "d7/d37/a09968.html", "d7/d37/a09968" ],
-    [ "DISALLOW_TIME_AFTER_FAIL", "d3/d93/a00341.html#ad29d27e72c40ec9a02fbdc29ee093857", null ],
-    [ "INVALID_POLYREF", "d3/d93/a00341.html#a6ed37c24cf4f8cd0008c13f111e01092", null ],
-    [ "MAX_PATH_LENGTH", "d3/d93/a00341.html#a9eb6992d76f02128388ae95c0415604a", null ],
-    [ "MAX_POINT_PATH_LENGTH", "d3/d93/a00341.html#ac4c3ae34e2d3733cc39fc1c207d4b814", null ],
-    [ "SMOOTH_PATH_SLOP", "d3/d93/a00341.html#a9439d6d260a5bf3c1bba446a935b2ce4", null ],
-    [ "SMOOTH_PATH_STEP_SIZE", "d3/d93/a00341.html#ab1ec8eeebdd39a1cceb896f6fcb996bc", null ],
-    [ "VERTEX_SIZE", "d3/d93/a00341.html#a14571eb5f0eee95bf614e04c59b0207a", null ],
-    [ "PathType", "d3/d93/a00341.html#ae093c9a96eda0463cdd2501ba83f10c3", [
-      [ "PATHFIND_BLANK", "d3/d93/a00341.html#ae093c9a96eda0463cdd2501ba83f10c3ae3e554bae74ad71bf12ba2eea8cc74d0", null ],
-      [ "PATHFIND_NORMAL", "d3/d93/a00341.html#ae093c9a96eda0463cdd2501ba83f10c3a58a5a66492944c141d0f386ce330b2c1", null ],
-      [ "PATHFIND_SHORTCUT", "d3/d93/a00341.html#ae093c9a96eda0463cdd2501ba83f10c3ae3c910a168f98f0694e99440aad8028f", null ],
-      [ "PATHFIND_INCOMPLETE", "d3/d93/a00341.html#ae093c9a96eda0463cdd2501ba83f10c3aee2f2083277a36e471f1bf1170fba3be", null ],
-      [ "PATHFIND_NOPATH", "d3/d93/a00341.html#ae093c9a96eda0463cdd2501ba83f10c3a5ab66bcba6eb689d881b4ebc85188984", null ],
-      [ "PATHFIND_NOT_USING_PATH", "d3/d93/a00341.html#ae093c9a96eda0463cdd2501ba83f10c3a4246537a1b739abb599260d9fbb83cdf", null ],
-      [ "PATHFIND_SHORT", "d3/d93/a00341.html#ae093c9a96eda0463cdd2501ba83f10c3a8a25c1fe0f8142291e2183102e647cc2", null ],
-      [ "PATHFIND_FARFROMPOLY_START", "d3/d93/a00341.html#ae093c9a96eda0463cdd2501ba83f10c3a6a98cd66fb2172475b98b7fa120a64ab", null ],
-      [ "PATHFIND_FARFROMPOLY_END", "d3/d93/a00341.html#ae093c9a96eda0463cdd2501ba83f10c3a100828592997ee8c90d192befefac0a9", null ],
-      [ "PATHFIND_FARFROMPOLY", "d3/d93/a00341.html#ae093c9a96eda0463cdd2501ba83f10c3a71d670c0e84fb7296854813de6452e6c", null ]
-    ] ]
+    [ "BoundsTrait< VMAP::ModelSpawn * >", "d8/d10/a05018.html", "d8/d10/a05018" ],
+    [ "VMAP::WMOLiquidHeader", "df/dab/a05022.html", "df/dab/a05022" ],
+    [ "CMP_OR_RETURN", "d3/d93/a00341.html#abb356574335eee18efd5e1f4ed707637", null ],
+    [ "READ_OR_RETURN", "d3/d93/a00341.html#ab09a5bc19f9a9f62a1f60dd7741b4d6d", null ],
+    [ "READ_OR_RETURN_WITH_DELETE", "d3/d93/a00341.html#aaf506ecfd782214a75bd609db9bef004", null ],
+    [ "readChunk", "d3/d93/a00341.html#a166f3eeee53079ac9df4f15ccd577974", null ]
 ];

@@ -1,13 +1,6 @@
 var a22394 =
 [
-    [ "OPvPCapturePointEP_CGT", "d4/d01/a22394.html#a82d8e9bff56eed1870b098dcf21f77cd", null ],
-    [ "ChangeState", "d4/d01/a22394.html#ab9d32c9a60bbdca9fc54d7e0b2bf8a5d", null ],
-    [ "FillInitialWorldStates", "d4/d01/a22394.html#ae7d57fe449bb38de013b18ecf2f9f07c", null ],
-    [ "HandlePlayerEnter", "d4/d01/a22394.html#a48cb29473f25ed9b469c7ff54acc9d88", null ],
-    [ "HandlePlayerLeave", "d4/d01/a22394.html#ad1886046ecf8c382e1fd0e01d6394614", null ],
-    [ "LinkGraveyard", "d4/d01/a22394.html#ada14179a31fb6235b7882a190dc96c40", null ],
-    [ "SendChangePhase", "d4/d01/a22394.html#a30d9f8701dd6a78740f7df0d2c7ceb9d", null ],
-    [ "UpdateTowerState", "d4/d01/a22394.html#a764284d6143d4879b5bc003acc52048c", null ],
-    [ "m_GraveyardSide", "d4/d01/a22394.html#aaf1f8440dc891ed45857bb7d15149d9a", null ],
-    [ "m_TowerState", "d4/d01/a22394.html#a6f434f86ed97f88368e3194a3bc3183b", null ]
+    [ "HandlePeriodicDummy", "d4/d01/a22394.html#a0096e0521c37a4f7f9ab1f2173a807d4", null ],
+    [ "PrepareAuraScript", "d4/d01/a22394.html#ad55ab81c39e8bf53d1e2066bbeefa712", null ],
+    [ "Register", "d4/d01/a22394.html#afeccfe29a0e0f192a4242217f9d4b7e5", null ]
 ];

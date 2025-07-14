@@ -1,9 +1,8 @@
 var a11830 =
 [
-    [ "npc_burning_spiritAI", "da/db3/a11830.html#a52f63423d09794446b0c01da2feb325d", null ],
-    [ "EnterEvadeMode", "da/db3/a11830.html#a567a7a023bb83a1228bb458ea16ee2fc", null ],
-    [ "IsSummonedBy", "da/db3/a11830.html#a65ee7b6dd6d4394cc04a6260fc75827e", null ],
-    [ "MovementInform", "da/db3/a11830.html#a0a02ece5a3ff1eefa30fd27a9cc84d10", null ],
-    [ "_events", "da/db3/a11830.html#a9af0f46710741bba3d8401d1a1fb0556", null ],
-    [ "_flamelasherGUID", "da/db3/a11830.html#abfc34e3e45d1e74b328a91f6f8981191", null ]
+    [ "ironhand_guardianAI", "da/db3/a11830.html#ab109b4ba9d399bd8c7d7dd5c04f2c618", null ],
+    [ "SetData", "da/db3/a11830.html#ab4e6402951bf45910fb3399ea107b207", null ],
+    [ "UpdateAI", "da/db3/a11830.html#a095b11f44935c8ddb43a20c095495507", null ],
+    [ "events", "da/db3/a11830.html#a13ed887285809d2fcad0d23fdf37face", null ],
+    [ "flames_enabled", "da/db3/a11830.html#ab54e1eac19a8b51e2aa9fe4bc5f08e46", null ]
 ];

@@ -1,8 +1,9 @@
 var a19602 =
 [
-    [ "npc_algalon_worm_holeAI", "dd/dad/a19602.html#a07b36b40972bebea6b17890aa8fee50c", null ],
-    [ "JustSummoned", "dd/dad/a19602.html#a148de5da4502813e369ec6c52b1671a0", null ],
-    [ "Reset", "dd/dad/a19602.html#a915a8e5e23062cb10da9a3dbe387cf51", null ],
-    [ "UpdateAI", "dd/dad/a19602.html#a9df88d81aa4f4dd7e1dcdf6209832c32", null ],
-    [ "_summonTimer", "dd/dad/a19602.html#a73a55560e5ff7957d883f732bc0d2a82", null ]
+    [ "boss_sjonnir_iron_sludgeAI", "dd/dad/a19602.html#aac57ae32188c47ca97b7331d62986e66", null ],
+    [ "JustDied", "dd/dad/a19602.html#a6cfebecaaf673e40f97a46a09947a1f0", null ],
+    [ "JustEngagedWith", "dd/dad/a19602.html#a772d279407d724477560898559710433", null ],
+    [ "Reset", "dd/dad/a19602.html#a5b4a726aa496923d81c41b038e5f7449", null ],
+    [ "UpdateAI", "dd/dad/a19602.html#a2745ff26c165851c367e080d28652984", null ],
+    [ "events", "dd/dad/a19602.html#a468d45f9b9c2172f326068d59a74121a", null ]
 ];

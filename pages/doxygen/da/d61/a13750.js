@@ -1,7 +1,6 @@
 var a13750 =
 [
-    [ "npc_zuljin_vortex", "da/d61/a13750.html#af3af996adc0a0dba4af992234f8356fb", null ],
-    [ "ChangeToNewPlayer", "da/d61/a13750.html#ab353794ef978151999fdd2294783e757", null ],
-    [ "Reset", "da/d61/a13750.html#a1331e714c5cafdc32033e73b6f3169aa", null ],
-    [ "UpdateAI", "da/d61/a13750.html#a1ae6a08fe247e7bc812ed4f5ffebc519", null ]
+    [ "npc_andorhal_towerAI", "df/de9/a13754.html", "df/de9/a13754" ],
+    [ "npc_andorhal_tower", "da/d61/a13750.html#abf63419b6c10af47f5e5df1a4e7320e7", null ],
+    [ "GetAI", "da/d61/a13750.html#a51139c28da736d26bf27a061862d24ee", null ]
 ];

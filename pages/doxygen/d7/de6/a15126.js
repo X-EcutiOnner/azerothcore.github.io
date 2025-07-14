@@ -1,6 +1,10 @@
 var a15126 =
 [
-    [ "HandleDummy", "d7/de6/a15126.html#ac06b2b8e07ebc51a281c70663796dcc3", null ],
-    [ "PrepareSpellScript", "d7/de6/a15126.html#aa60cc00f33e329fe8d010c0e1c00989a", null ],
-    [ "Register", "d7/de6/a15126.html#aee9d14b3f45cb43478f970e9e6e173fd", null ]
+    [ "boss_huhuran", "d7/de6/a15126.html#a64e0b20891992764c708cbb661c18196", null ],
+    [ "DamageTaken", "d7/de6/a15126.html#adb47086f29b41f4168ad5d1b2728547d", null ],
+    [ "JustEngagedWith", "d7/de6/a15126.html#a08f1d6550680d5bcf07332eade115730", null ],
+    [ "Reset", "d7/de6/a15126.html#a45571aa6bd0c7915fb666cae1c5c4544", null ],
+    [ "UpdateAI", "d7/de6/a15126.html#a23962e668f046b373f94ea6a2d75574a", null ],
+    [ "_berserk", "d7/de6/a15126.html#a5f3f17d0b239f95ed4eb0bfac85c4463", null ],
+    [ "_hardEnrage", "d7/de6/a15126.html#a5612bf8b1eedec159b316b28e6f4c915", null ]
 ];

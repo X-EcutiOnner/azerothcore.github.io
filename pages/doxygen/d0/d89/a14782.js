@@ -1,7 +1,7 @@
 var a14782 =
 [
-    [ "npc_onyxian_lair_guard", "d0/d89/a14782.html#ae72d86cddafd8829fc9edd479a01ab1d", null ],
-    [ "JustEngagedWith", "d0/d89/a14782.html#a7b1d3bc68684202f9b4b95f6dc078be0", null ],
-    [ "UpdateAI", "d0/d89/a14782.html#ac8649636d5847813e49d2ada05f78645", null ],
-    [ "events", "d0/d89/a14782.html#a99acb2010853fcf9f7ac6f08143d06ed", null ]
+    [ "boss_epoch_hunter", "d0/d89/a14782.html#a652d14ebfced39b8164687a713780600", null ],
+    [ "JustDied", "d0/d89/a14782.html#a38d3cbed2ce8f810fd169e0004fd91dc", null ],
+    [ "JustEngagedWith", "d0/d89/a14782.html#a2571f98f36d1271f3911617e0fdfba54", null ],
+    [ "KilledUnit", "d0/d89/a14782.html#a61456e680e9108dd841e83d97536ef1b", null ]
 ];

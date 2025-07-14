@@ -1,5 +1,6 @@
 var a04004 =
 [
-    [ "player_commandscript", "d3/d0b/a11704.html", "d3/d0b/a11704" ],
-    [ "AddSC_player_commandscript", "d9/def/a04004.html#a3a4a77162d5b304dab9a8c8e397c3516", null ]
+    [ "character_commandscript", "d4/d0f/a11606.html", "d4/d0f/a11606" ],
+    [ "character_commandscript::DeletedInfo", "d2/d96/a11610.html", "d2/d96/a11610" ],
+    [ "AddSC_character_commandscript", "d9/def/a04004.html#a97f9cac12c34068d5e63b2ed28ddf9e2", null ]
 ];

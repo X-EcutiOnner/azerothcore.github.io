@@ -1,7 +1,6 @@
 var a13742 =
 [
-    [ "spell", "df/dca/a13742.html#a55423d09b2f1775dc386a36168ad764d", null ],
-    [ "spiritEntry", "df/dca/a13742.html#a987f010c8577c193898fbfcc4a55c0ee", null ],
-    [ "text", "df/dca/a13742.html#ab604ad9429083f2e94f6a8d026bc46a5", null ],
-    [ "unaura", "df/dca/a13742.html#a1b71fc628793ccb9027687b31d9ebcb0", null ]
+    [ "npc_the_scourge_cauldronAI", "d9/dc7/a13746.html", "d9/dc7/a13746" ],
+    [ "npc_the_scourge_cauldron", "df/dca/a13742.html#a7ff5315293c4917dec3b0fe0aade2016", null ],
+    [ "GetAI", "df/dca/a13742.html#ae4e35f1cac0c0f35333ba6113d3c1ad0", null ]
 ];

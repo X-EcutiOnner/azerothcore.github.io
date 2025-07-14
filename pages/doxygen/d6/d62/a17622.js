@@ -1,6 +1,8 @@
 var a17622 =
 [
-    [ "boss_lady_deathwhisperAI", "d6/dc9/a17626.html", "d6/dc9/a17626" ],
-    [ "boss_lady_deathwhisper", "d6/d62/a17622.html#a979411cb834611b1239f3bf9058d316d", null ],
-    [ "GetAI", "d6/d62/a17622.html#ac0b86fee1e2e9dbf794ed1b53aab11d2", null ]
+    [ "HandlePeriodic", "d6/d62/a17622.html#a5ff571c616b69bb50c736622feb9ed96", null ],
+    [ "HandleRemove", "d6/d62/a17622.html#a624887bb5e6d8b72d6c0591661d6ba38", null ],
+    [ "PrepareAuraScript", "d6/d62/a17622.html#a1b140274e283dd95e28fcb773e30f965", null ],
+    [ "Register", "d6/d62/a17622.html#abcce83ef6ecbe539a3d8eaef83fb2d33", null ],
+    [ "Validate", "d6/d62/a17622.html#a94c644e730c51c8edb6a74d68d6228a8", null ]
 ];

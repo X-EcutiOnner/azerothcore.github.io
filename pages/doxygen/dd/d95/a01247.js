@@ -1,10 +1,6 @@
 var a01247 =
 [
-    [ "WorldPackets::Pet::DismissCritter", "dd/d04/a10852.html", "dd/d04/a10852" ],
-    [ "WorldPackets::Pet::PetAbandon", "d8/d88/a10856.html", "d8/d88/a10856" ],
-    [ "WorldPackets::Pet::PetStopAttack", "d8/dde/a10860.html", "d8/dde/a10860" ],
-    [ "WorldPackets::Pet::PetSpellAutocast", "d8/d09/a10864.html", "d8/d09/a10864" ],
-    [ "WorldPackets::Pet::PetLearnedSpell", "d4/d06/a10868.html", "d4/d06/a10868" ],
-    [ "WorldPackets::Pet::PetUnlearnedSpell", "dc/d42/a10872.html", "dc/d42/a10872" ],
-    [ "WorldPackets::Pet::RequestPetInfo", "d4/dc3/a10876.html", "d4/dc3/a10876" ]
+    [ "PLAYER_FLIGHT_SPEED", "dd/d95/a01247.html#a2efde26aed42919892139c2ffb51b279", null ],
+    [ "SKIP_SPLINE_POINT_DISTANCE_SQ", "dd/d95/a01247.html#a55b33fb4c6265551b0327903da9bff4c", null ],
+    [ "IsNodeIncludedInShortenedPath", "dd/d95/a01247.html#a47a5affa854677472690918c4d16f998", null ]
 ];

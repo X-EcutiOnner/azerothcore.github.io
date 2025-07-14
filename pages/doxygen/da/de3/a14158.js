@@ -1,7 +1,11 @@
 var a14158 =
 [
-    [ "PeriodicTick", "da/de3/a14158.html#ac8b584ffbb1a8787f70370d94586ed77", null ],
-    [ "PrepareAuraScript", "da/de3/a14158.html#a4e860850bbab0f14eb8a160bb5e6799e", null ],
-    [ "Register", "da/de3/a14158.html#a5def2685cedc4fb78c1a5c534c764ee9", null ],
-    [ "Validate", "da/de3/a14158.html#a68247c2afa553411fac34582e83635c9", null ]
+    [ "npc_dark_iron_attack_mole_machine", "da/de3/a14158.html#a473a8fb4905e5d1333196797d7d0f371", null ],
+    [ "AttackStart", "da/de3/a14158.html#a999dd932fbaf22a8275dfdba150c3291", null ],
+    [ "JustEngagedWith", "da/de3/a14158.html#a50e0657f33f15bf2ffe83ca4041eb483", null ],
+    [ "MoveInLineOfSight", "da/de3/a14158.html#a2be5de913ca9d472a31cd44c07bcde57", null ],
+    [ "Reset", "da/de3/a14158.html#a0727aab751ddfbd94ae070e60e47e768", null ],
+    [ "UpdateAI", "da/de3/a14158.html#a1217ed510a846d011143ae0a386c6236", null ],
+    [ "goTimer", "da/de3/a14158.html#a8686845ebef564c9fcaa115866c99749", null ],
+    [ "summonTimer", "da/de3/a14158.html#a4713da02f4a86547a0f796167e24d8bb", null ]
 ];

@@ -1,6 +1,9 @@
 var a25410 =
 [
-    [ "HandlePreventAura", "d6/da1/a25410.html#a62b9a62f5379f4ca98921c7fe4278b58", null ],
-    [ "PrepareSpellScript", "d6/da1/a25410.html#a61b2f1d5634219f9c48a9ea75e90d423", null ],
-    [ "Register", "d6/da1/a25410.html#ab1a90b7939c146b40badfd6424c35cf7", null ]
+    [ "CheckIfCorpseNear", "d6/da1/a25410.html#a9b512f84f1d728e24845b6aaa28bdd6b", null ],
+    [ "HandleDummy", "d6/da1/a25410.html#a913c0137d2a13c810bbae869cc6cf734", null ],
+    [ "Load", "d6/da1/a25410.html#a3f36968d10bde12c7e2eda8db4145252", null ],
+    [ "PrepareSpellScript", "d6/da1/a25410.html#acc7d6f489c34c3cc26f37bc94f8727e8", null ],
+    [ "Register", "d6/da1/a25410.html#a736c4fe39e947ad98df19b3b001bdc29", null ],
+    [ "Validate", "d6/da1/a25410.html#a51b075f95211025b2a7719a3ee70a6be", null ]
 ];

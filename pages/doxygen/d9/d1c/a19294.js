@@ -1,14 +1,22 @@
 var a19294 =
 [
-    [ "boss_varosAI", "d9/d1c/a19294.html#a3e6815b80a3f9f5e8c53bb762e9058f2", null ],
-    [ "EnterEvadeMode", "d9/d1c/a19294.html#a0b7eeef4529b47357d729852cdeab002", null ],
-    [ "JustDied", "d9/d1c/a19294.html#a2724167a66a059e1c0ca1612d8405d68", null ],
-    [ "JustEngagedWith", "d9/d1c/a19294.html#a2f25555ca2884f6bffb289d209e87740", null ],
-    [ "JustSummoned", "d9/d1c/a19294.html#a24b2a1e438b02c67e64b79adb0cfeafe", null ],
-    [ "MoveInLineOfSight", "d9/d1c/a19294.html#a87f743f03dc19659d0e77ee23cd2c327", null ],
-    [ "Reset", "d9/d1c/a19294.html#aef24d04954a26bb6381c860403e84288", null ],
-    [ "UpdateAI", "d9/d1c/a19294.html#acc1ac3c2bf5cb1a7732f375285467423", null ],
-    [ "events", "d9/d1c/a19294.html#a36746118770c936e7606962365e102d8", null ],
-    [ "pInstance", "d9/d1c/a19294.html#a9cf7c0159753512ae7dea8a2f6a9da74", null ],
-    [ "ZapAngle", "d9/d1c/a19294.html#aef225fcf580c5e500d3242ac4be24260", null ]
+    [ "instance_eye_of_eternity_InstanceMapScript", "d9/d1c/a19294.html#a5d98695d6090d3805de4c26db0fb2d23", null ],
+    [ "CheckAchievementCriteriaMeet", "d9/d1c/a19294.html#a91fd1a35177ce6f29167ec20701e5ea6", null ],
+    [ "GetGuidData", "d9/d1c/a19294.html#a06adfadbd168118756fa457cfa814cf1", null ],
+    [ "Initialize", "d9/d1c/a19294.html#a9febece0b333f19b00ed3672bc24acf9", null ],
+    [ "IsEncounterInProgress", "d9/d1c/a19294.html#aa7a833aa22e9f99c10bc3f9c6b06fc9b", null ],
+    [ "OnCreatureCreate", "d9/d1c/a19294.html#abe14c696da1e452c2d79f20e4a729c12", null ],
+    [ "OnGameObjectCreate", "d9/d1c/a19294.html#accc79892118cce948568d7810ce64e23", null ],
+    [ "OnPlayerEnter", "d9/d1c/a19294.html#ae196d774c296cd8230946418832d158a", null ],
+    [ "ProcessEvent", "d9/d1c/a19294.html#a70b9ae907b6fe2a28333ea7f1a0999d9", null ],
+    [ "ReadSaveDataMore", "d9/d1c/a19294.html#a424b9a865e3d4f7953990b072599e98c", null ],
+    [ "SetData", "d9/d1c/a19294.html#a7795b115419ed6f74735535c2c9f3b74", null ],
+    [ "WriteSaveDataMore", "d9/d1c/a19294.html#ab03a08d80116947107b0279fa27d92f6", null ],
+    [ "bPokeAchiev", "d9/d1c/a19294.html#ae9ac88ac934fa86e28f5d4905b8defba", null ],
+    [ "EncounterStatus", "d9/d1c/a19294.html#acb95c03060aac2c7b022ffe9c09da7b2", null ],
+    [ "GO_ExitPortalGUID", "d9/d1c/a19294.html#a0ecf94e919fe425ea283a7929f33e96f", null ],
+    [ "GO_IrisGUID", "d9/d1c/a19294.html#a34fe2223ca6b0572357cc0c9f0a7ef52", null ],
+    [ "GO_PlatformGUID", "d9/d1c/a19294.html#a26cac92965b6eb53d5ceb0bb1a92773d", null ],
+    [ "NPC_MalygosGUID", "d9/d1c/a19294.html#a90666367e40a567c1adea7d444004db8", null ],
+    [ "str_data", "d9/d1c/a19294.html#a00839e8d0b4bc3673f576990dfc932cc", null ]
 ];

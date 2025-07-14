@@ -1,12 +1,6 @@
 var a19938 =
 [
-    [ "boss_freya_elder_stonebarkAI", "d4/d55/a19938.html#a492329e296aaf29861d76e12e2b94631", null ],
-    [ "DamageTaken", "d4/d55/a19938.html#af25c675f46f5ca0d0da170f367cc8bdc", null ],
-    [ "JustDied", "d4/d55/a19938.html#a8dcdf4a1c8df10fc8ca419de924fe136", null ],
-    [ "JustEngagedWith", "d4/d55/a19938.html#a77a231b75bbbbb56638e1e5535827150", null ],
-    [ "KilledUnit", "d4/d55/a19938.html#ad1ce26306c2ea2102183b0679d46efd3", null ],
-    [ "Reset", "d4/d55/a19938.html#a0d17571be8905c4c33ed4591e963d680", null ],
-    [ "UpdateAI", "d4/d55/a19938.html#acd21050c265f6703060f95f2e3c725f3", null ],
-    [ "_chargesCount", "d4/d55/a19938.html#a294714a547bbc7a7364c7477bdc0422c", null ],
-    [ "events", "d4/d55/a19938.html#a07bcbf839c3b0b3924ec1915b47af0f2", null ]
+    [ "boss_flame_leviathan_safety_containerAI", "d4/d33/a19942.html", "d4/d33/a19942" ],
+    [ "boss_flame_leviathan_safety_container", "d4/d55/a19938.html#ae14b2e13bd6358ad03d568f2bef042b7", null ],
+    [ "GetAI", "d4/d55/a19938.html#a6bcbc4e65214a0c667875271ff9aa0dd", null ]
 ];

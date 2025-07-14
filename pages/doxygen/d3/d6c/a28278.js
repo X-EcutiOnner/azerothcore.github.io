@@ -1,11 +1,7 @@
 var a28278 =
 [
-    [ "addToSpellBook", "d3/d6c/a28278.html#ad312934d24abcc78c02d50cc5cb5403f", null ],
-    [ "Col", "d3/d6c/a28278.html#a0bc589c5b1425d5e889cd290b805169e", null ],
-    [ "DependsOn", "d3/d6c/a28278.html#a7b1aa1384777b8d94dceed3c387bb628", null ],
-    [ "DependsOnRank", "d3/d6c/a28278.html#a608f232669981da3423b959479ca8683", null ],
-    [ "RankID", "d3/d6c/a28278.html#a96d0fd120ed3aa7fbd287d104fd87c26", null ],
-    [ "Row", "d3/d6c/a28278.html#a136b889d2e8875b01fc7aa2be06847ac", null ],
-    [ "TalentID", "d3/d6c/a28278.html#aa769574106b0e5afdbc7c71c51c3b9a2", null ],
-    [ "TalentTab", "d3/d6c/a28278.html#acefe6f8c0a5b3893e2a9f828d500df68", null ]
+    [ "ID", "d3/d6c/a28278.html#a3af48dd3f6b92ad7f5950d99ca6dd379", null ],
+    [ "Index", "d3/d6c/a28278.html#aa58e046529aae0d1d6201c08ec8107e2", null ],
+    [ "Skill", "d3/d6c/a28278.html#aed5e58cf605d3c28cd0d26015722be03", null ],
+    [ "Type", "d3/d6c/a28278.html#a39b0b548efd795c162926bddcdd301b5", null ]
 ];

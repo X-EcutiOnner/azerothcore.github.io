@@ -1,17 +1,13 @@
 var a05350 =
 [
-    [ "LockedQueue", "d7/d24/a05350.html#a5ce001c1fba3468b513aa7e345113128", null ],
-    [ "~LockedQueue", "d7/d24/a05350.html#a259a03cc68a36181edebe088ef669c46", null ],
-    [ "add", "d7/d24/a05350.html#a03f459044b4ffb413fb8d1ba98179ab8", null ],
-    [ "cancel", "d7/d24/a05350.html#ab3d04497f8a07c5c6b6208b136a297a4", null ],
-    [ "cancelled", "d7/d24/a05350.html#af9e2adfcd3800e9e9fa858fcacf22e2e", null ],
-    [ "empty", "d7/d24/a05350.html#a8d62ae6a4bb93f89816714ccbb519753", null ],
-    [ "next", "d7/d24/a05350.html#ac818ec56d60e2ec059857e0aaa99f8a4", null ],
-    [ "next", "d7/d24/a05350.html#acaade33a01794600c72efbf389fe7664", null ],
-    [ "peek", "d7/d24/a05350.html#af1de22fd872bb07a5ad42779d2ddbac3", null ],
-    [ "pop_front", "d7/d24/a05350.html#aa57d3a3964071fd3e0ba6b7840041c65", null ],
-    [ "readd", "d7/d24/a05350.html#a4eb9aea8b399a2acc2dd893e83d16120", null ],
-    [ "_canceled", "d7/d24/a05350.html#a175454f5bf20f3a312d83e2dd5fc5d7c", null ],
-    [ "_lock", "d7/d24/a05350.html#a64be27c5d4ab7cc4a8c559dd6e1d4ebb", null ],
-    [ "_queue", "d7/d24/a05350.html#a55ced2abb0a6dd64554597347b61ebf1", null ]
+    [ "Logger", "d7/d24/a05350.html#a79033d763c69dbfb95b1c591f1cc680b", null ],
+    [ "addAppender", "d7/d24/a05350.html#aabacae0a84994e5567f9c87829909fdd", null ],
+    [ "delAppender", "d7/d24/a05350.html#a1fb8747bf7b652b9dfbf9ee830a82c8b", null ],
+    [ "getLogLevel", "d7/d24/a05350.html#aba945b0f037b7de27976d3a6e1a0fbbd", null ],
+    [ "getName", "d7/d24/a05350.html#ae95167d7bb330ecc0a49779a5635d1e2", null ],
+    [ "setLogLevel", "d7/d24/a05350.html#a00fdcdbeb39a2d5d4fb27cc36c35c101", null ],
+    [ "write", "d7/d24/a05350.html#a3627f98e8676ee7b68a34a4d9439082e", null ],
+    [ "appenders", "d7/d24/a05350.html#aa93931f2386ebc6dbf2464f536ed54f9", null ],
+    [ "level", "d7/d24/a05350.html#a3b1d9dd7bd391ac7bed560918f82a03b", null ],
+    [ "name", "d7/d24/a05350.html#ada299a7dd268085371557213e36695a9", null ]
 ];

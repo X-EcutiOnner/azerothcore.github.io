@@ -1,6 +1,7 @@
 var a26142 =
 [
-    [ "HandleDamage", "d7/d7c/a26142.html#ae34b85a4830066e21069e5ab8373e5c4", null ],
-    [ "PrepareSpellScript", "d7/d7c/a26142.html#a86fd53d1f9a2ecf22c4969e2f8506acf", null ],
-    [ "Register", "d7/d7c/a26142.html#a1a679fb0be26228f5fcdb45da2b994ff", null ]
+    [ "HandleScriptEffect", "d7/d7c/a26142.html#a8c7ede10a8f7d0c1ea04c21166807995", null ],
+    [ "PrepareSpellScript", "d7/d7c/a26142.html#af52663b01774372d3e6f695d2f395cb5", null ],
+    [ "Register", "d7/d7c/a26142.html#abcefab06ff481fad88be4d7ad9289808", null ],
+    [ "Validate", "d7/d7c/a26142.html#af269a7085412b5a889dfb802d1dc7fbe", null ]
 ];

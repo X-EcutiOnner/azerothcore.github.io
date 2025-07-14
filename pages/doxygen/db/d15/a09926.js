@@ -1,15 +1,14 @@
 var a09926 =
 [
-    [ "HomeMovementGenerator", "db/d15/a09926.html#af52495a86296d288d2312bf8616108d0", null ],
-    [ "~HomeMovementGenerator", "db/d15/a09926.html#a9d889b5112f6c93a0707227fc65dd902", null ],
-    [ "_setTargetLocation", "db/d15/a09926.html#a7ac3be92303b77b640c7199ec65184dd", null ],
-    [ "DoFinalize", "db/d15/a09926.html#ab1ce2df22dba7759ca28a77532a17db1", null ],
-    [ "DoInitialize", "db/d15/a09926.html#aaa6f7b1aa064be00a726539830d6c30e", null ],
-    [ "DoReset", "db/d15/a09926.html#acfebf75bcd7cc62c1b0105eb0c5e9100", null ],
-    [ "DoUpdate", "db/d15/a09926.html#a4e3c1f79f8115312f22612a4b8c6fede", null ],
-    [ "GetMovementGeneratorType", "db/d15/a09926.html#aaa203c37c8259c8b54ad5ec70db484f1", null ],
-    [ "unitSpeedChanged", "db/d15/a09926.html#ac5078f624899e574a7b56b72e2824b9a", null ],
-    [ "_walk", "db/d15/a09926.html#a97f3cd9b1c5919ffe9ab979d8ad4e747", null ],
-    [ "arrived", "db/d15/a09926.html#aab9cd0057a625afef2d96feebd6428fb", null ],
-    [ "i_recalculateTravel", "db/d15/a09926.html#a77b40bcbada8ea43accae23ceb642628", null ]
+    [ "~MovementGenerator", "db/d15/a09926.html#a13c3c432ac2a91dd4d07b090ec06b903", null ],
+    [ "Finalize", "db/d15/a09926.html#aef4cf800aa06dddac4efd36e3c058d2b", null ],
+    [ "GetMovementGeneratorType", "db/d15/a09926.html#a60bac341b438ea7258986f234a952324", null ],
+    [ "GetResetPosition", "db/d15/a09926.html#a60ac9e99f41d1f5c320441cf78b4b46a", null ],
+    [ "GetSplineId", "db/d15/a09926.html#a99865a1b7cf84b02784bfa8df958585f", null ],
+    [ "Initialize", "db/d15/a09926.html#a0040e427ac4a09273641a96a13fd4c1f", null ],
+    [ "Pause", "db/d15/a09926.html#a37530e5cd743faecabd21eba08dce939", null ],
+    [ "Reset", "db/d15/a09926.html#aa6641fa1182551421fc8572afad8e083", null ],
+    [ "Resume", "db/d15/a09926.html#a51988a8b0a45459242467e38ca46303c", null ],
+    [ "unitSpeedChanged", "db/d15/a09926.html#a0f9c4fd52947688dcda1161924e829bb", null ],
+    [ "Update", "db/d15/a09926.html#ae3014d8c6e728799c86134ef64737ed5", null ]
 ];

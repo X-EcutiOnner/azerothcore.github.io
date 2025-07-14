@@ -1,6 +1,9 @@
 var a12662 =
 [
-    [ "npc_grandmother", "d0/d1e/a12662.html#a6cffe8c574859779f6561dde0aef9666", null ],
-    [ "OnGossipHello", "d0/d1e/a12662.html#ae39335d22b5fd1fc4c0f9d34e8977124", null ],
-    [ "OnGossipSelect", "d0/d1e/a12662.html#a0e2b684377ed593abfbb49b730cfe9b2", null ]
+    [ "FilterTargets", "d0/d1e/a12662.html#a88b91e40b330d39bd04a7873128fb858", null ],
+    [ "HandleFinish", "d0/d1e/a12662.html#a762ea4cc1cd0a50a65daf22cbbf4ce9c", null ],
+    [ "PrepareSpellScript", "d0/d1e/a12662.html#ab4ef82283e4d651d2e5304e49970efa8", null ],
+    [ "Register", "d0/d1e/a12662.html#ab2008e585589cbf313170064d37c4aa9", null ],
+    [ "Validate", "d0/d1e/a12662.html#af4963be6c544a1706a6dc30dcbf18309", null ],
+    [ "_targets", "d0/d1e/a12662.html#a2f75199a90e52cff770f46bce76d5149", null ]
 ];

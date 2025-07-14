@@ -1,20 +1,14 @@
 var a07922 =
 [
-    [ "LFGDungeonData", "d0/d8a/a07922.html#af609ccb3be2e80fa6cd0339f91f6d094", null ],
-    [ "LFGDungeonData", "d0/d8a/a07922.html#ada24faec77a2174bd436535eb283ebc2", null ],
-    [ "Entry", "d0/d8a/a07922.html#ad421a384c1e1c37ff897cc50421fe3d9", null ],
-    [ "difficulty", "d0/d8a/a07922.html#a310b9d83b84a6f8896ac62b89ca16be3", null ],
-    [ "expansion", "d0/d8a/a07922.html#a0d5bc7c615666f52aca24ee34d849992", null ],
-    [ "group", "d0/d8a/a07922.html#a8791fcc476a5ebec99327f497f53db04", null ],
-    [ "id", "d0/d8a/a07922.html#ae25732254c64f1a2bca8a938a240e509", null ],
-    [ "map", "d0/d8a/a07922.html#ac981fbb0aaf96ea75482273c50bc53e7", null ],
-    [ "maxlevel", "d0/d8a/a07922.html#a9419e8826804b6d0a2c8b65de3b513dd", null ],
-    [ "minlevel", "d0/d8a/a07922.html#a4ef8f3bbf52a2ac8c45eeaa61aa22e2d", null ],
-    [ "name", "d0/d8a/a07922.html#a6eef80ccf8defe89696cec1675033ea2", null ],
-    [ "o", "d0/d8a/a07922.html#a42dd178512ebfbba612889f3ff5384bb", null ],
-    [ "seasonal", "d0/d8a/a07922.html#ad8b1d936512ebb1075fe2a15f29abff1", null ],
-    [ "type", "d0/d8a/a07922.html#aaea170ae5069dc46022652bfacd22edf", null ],
-    [ "x", "d0/d8a/a07922.html#a90ca0afe02dfe5aa50bfd378e38de865", null ],
-    [ "y", "d0/d8a/a07922.html#a32ef5d26a8c16690889eed2e3e230de1", null ],
-    [ "z", "d0/d8a/a07922.html#a7ec9ddbd30f0cd2c602cfef7d2eb8956", null ]
+    [ "LfgQueueStatusData", "d0/d8a/a07922.html#af50fc3422feb137a7ccd820e2ac2fe44", null ],
+    [ "dps", "d0/d8a/a07922.html#a99a0bd2b1eeb4b8f9a7ffd088232ef0a", null ],
+    [ "dungeonId", "d0/d8a/a07922.html#a9a6288f9e14e593e147b4f60a1dc8991", null ],
+    [ "healers", "d0/d8a/a07922.html#a61b2c2f4391022c7e4ba3972c4467a74", null ],
+    [ "queuedTime", "d0/d8a/a07922.html#a398efafa1ef7faa6600d6fdb28306f49", null ],
+    [ "tanks", "d0/d8a/a07922.html#a74f54d22ca9e2b6711bf363737b9ff06", null ],
+    [ "waitTime", "d0/d8a/a07922.html#aa794f234bf93e66916f7eadb986f17ef", null ],
+    [ "waitTimeAvg", "d0/d8a/a07922.html#af44b91dd7ddfb702662663f989f026fc", null ],
+    [ "waitTimeDps", "d0/d8a/a07922.html#aa95e69bcfb84de1d37bc7ff1a4ece8bf", null ],
+    [ "waitTimeHealer", "d0/d8a/a07922.html#abf57fbbaac89b08bacf0731e3a8b65e3", null ],
+    [ "waitTimeTank", "d0/d8a/a07922.html#a73cdcd16181375a7d428e6b50cb1e1e6", null ]
 ];

@@ -1,8 +1,9 @@
 var a11854 =
 [
-    [ "boss_evisceratorAI", "d5/def/a11854.html#a26bfcd3390e987a9fe13dd1a2bc2a7a4", null ],
-    [ "DamageTaken", "d5/def/a11854.html#aab3e8290963ca6c312715f18727d3e82", null ],
-    [ "JustEngagedWith", "d5/def/a11854.html#a60f3942b352206888569f60776041a28", null ],
-    [ "UpdateAI", "d5/def/a11854.html#aa201d35455f2e6eb41df27e264c2c03c", null ],
-    [ "SpellShieldReady", "d5/def/a11854.html#a3e5d8a40bfca16cc811f35b1293c19aa", null ]
+    [ "npc_phalanxAI", "d5/def/a11854.html#a1a09cd0b0cf765dec20ca9c3c5bb9373", null ],
+    [ "Reset", "d5/def/a11854.html#a41a14315d82b169528bd764335c16d52", null ],
+    [ "UpdateAI", "d5/def/a11854.html#a78092bfb2d9b8455b5348d872afc6521", null ],
+    [ "FireballVolley_Timer", "d5/def/a11854.html#a0e7bedf19d7a69707fcfec9cbd3649e5", null ],
+    [ "MightyBlow_Timer", "d5/def/a11854.html#ae8fe8a7313f573e910763d5a82303e66", null ],
+    [ "ThunderClap_Timer", "d5/def/a11854.html#ab68781dcd728e2a0d021a0d52e43fd71", null ]
 ];

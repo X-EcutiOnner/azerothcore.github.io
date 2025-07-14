@@ -1,5 +1,4 @@
 var a00440 =
 [
-    [ "Movement::Location", "db/d64/a10036.html", "db/d64/a10036" ],
-    [ "Movement::MoveSpline", "d6/dca/a10040.html", "d6/dca/a10040" ]
+    [ "Acore::String::Trim< std::string >", "de/df8/a00440.html#a39e286b6ca47198eba4d5e31cef66aa5", null ]
 ];

@@ -1,6 +1,6 @@
 var a20866 =
 [
-    [ "OnEffect", "da/d1f/a20866.html#aa24cfd6feec65f466e74c68484815c1e", null ],
-    [ "PrepareSpellScript", "da/d1f/a20866.html#a648fb610fb1914efac7f2cb6e1bb4290", null ],
-    [ "Register", "da/d1f/a20866.html#ac1c0076665edc6a2b3a0228340020a1e", null ]
+    [ "boss_yoggsaron_descend_portalAI", "dd/d31/a20870.html", "dd/d31/a20870" ],
+    [ "boss_yoggsaron_descend_portal", "da/d1f/a20866.html#aaf546e4e546d87818bd501b4934e8ab2", null ],
+    [ "GetAI", "da/d1f/a20866.html#aceb50c808eed17ca468a80b823af1907", null ]
 ];

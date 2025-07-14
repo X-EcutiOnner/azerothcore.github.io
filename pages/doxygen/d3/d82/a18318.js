@@ -1,5 +1,6 @@
 var a18318 =
 [
-    [ "achievement_been_waiting_long_time", "d3/d82/a18318.html#a839ec8cb50512bbae7125ead3ed35aec", null ],
-    [ "OnCheck", "d3/d82/a18318.html#a5e72304220d3a649d2182cb287215da6", null ]
+    [ "HandleScript", "d3/d82/a18318.html#a9489c3454830d3826cb077c95947bf2d", null ],
+    [ "PrepareSpellScript", "d3/d82/a18318.html#a19492e616ac6e69187bca4499175071e", null ],
+    [ "Register", "d3/d82/a18318.html#a3446174d3308f535c27581b63ade9e8a", null ]
 ];

@@ -1,6 +1,6 @@
 var a11942 =
 [
-    [ "RestoreAttack", "d1/de5/a11942.html#a8c5b3b0cbe7f5bfebb1c09987c4066e3", null ],
-    [ "Execute", "d1/de5/a11942.html#a633e5abe4a3a9353df63d3778b8d71bc", null ],
-    [ "_boss", "d1/de5/a11942.html#a493ef909da834b0befd90f57f54fb10c", null ]
+    [ "boss_high_interrogator_gerstahnAI", "da/d8a/a11946.html", "da/d8a/a11946" ],
+    [ "boss_high_interrogator_gerstahn", "d1/de5/a11942.html#a700eb542c041e9ca540f2676fc42aff9", null ],
+    [ "GetAI", "d1/de5/a11942.html#ab4e92847a1ce6bf50f0ae460c1a7108f", null ]
 ];
