@@ -1,6 +1,8 @@
 var a22226 =
 [
-    [ "npc_vics_flying_machineAI", "de/da4/a22230.html", "de/da4/a22230" ],
-    [ "npc_vics_flying_machine", "dd/ddd/a22226.html#ac0f1e83a9f53f1e38e81804f0332e3fd", null ],
-    [ "GetAI", "dd/ddd/a22226.html#aac2a7cabd2e87705e9a1b3bfebb89eae", null ]
+    [ "CheckCast", "dd/ddd/a22226.html#ab1584c391ac81b8338387acc6187001f", null ],
+    [ "HandleDummy", "dd/ddd/a22226.html#abe856e2c3b986eeac0c1a62aa301eb6d", null ],
+    [ "PrepareSpellScript", "dd/ddd/a22226.html#a08d9ffb7dcbe786071979166e0489336", null ],
+    [ "Register", "dd/ddd/a22226.html#a5f0bbd57f3cbc0d0de3d8830dd4e6f2b", null ],
+    [ "Validate", "dd/ddd/a22226.html#a82d931b4a15f6a60c27d932e8188ef78", null ]
 ];

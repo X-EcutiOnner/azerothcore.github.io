@@ -1,7 +1,7 @@
 var a03068 =
 [
-    [ "boss_eck", "d5/dad/a17178.html", "d5/dad/a17178" ],
-    [ "boss_eck::boss_eckAI", "da/d84/a17182.html", "da/d84/a17182" ],
+    [ "boss_eck", "da/d84/a17182.html", "da/d84/a17182" ],
+    [ "boss_eck::boss_eckAI", "d6/de1/a17186.html", "d6/de1/a17186" ],
     [ "Misc", "da/d5d/a03068.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
       [ "DATA_SKILLPOINT_MIN", "d1/dde/a04187.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a3093ddfcacf2742f4fb344843e2e7ce6", null ],
       [ "NEFARIUS_PATH_2", "dd/d44/a04097.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a09833188939fe77088ed4fb2cfedb875", null ],

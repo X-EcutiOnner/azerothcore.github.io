@@ -1,6 +1,6 @@
 var a19526 =
 [
-    [ "boss_volkhanAI", "d9/d45/a19530.html", "d9/d45/a19530" ],
-    [ "boss_volkhan", "dd/db6/a19526.html#a9dcb6026fbf3116df9abf5acaf1bfcc2", null ],
-    [ "GetAI", "dd/db6/a19526.html#aa0f76b387f9f74e0eb6dedd1b44ce34a", null ]
+    [ "CalculateDamage", "dd/db6/a19526.html#ae38f8cfb44de2798d7a284c942617678", null ],
+    [ "PrepareSpellScript", "dd/db6/a19526.html#a043955d56e0ae4c54d70e8fe6e417dd1", null ],
+    [ "Register", "dd/db6/a19526.html#ab4b32d2db39c8d9079a83c89d63ccd93", null ]
 ];

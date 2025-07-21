@@ -1,6 +1,8 @@
 var a25446 =
 [
-    [ "CheckProc", "da/d7b/a25446.html#a393946dd3404c4b03a9a8ced7913ccaa", null ],
-    [ "PrepareAuraScript", "da/d7b/a25446.html#ae28075d0d66c99fb77a2c7fef678f4e2", null ],
-    [ "Register", "da/d7b/a25446.html#a3e0279f7dc724b4d49bfda4f0e417353", null ]
+    [ "HandleFinish", "da/d7b/a25446.html#aac1981a16cbb61bfaf20c865bcfaf6a8", null ],
+    [ "PrepareSpellScript", "da/d7b/a25446.html#a73865997890d4f58cc09d54c2c4e5243", null ],
+    [ "Register", "da/d7b/a25446.html#a106cf5d53956b66f8f548caceda41dc8", null ],
+    [ "SelectTarget", "da/d7b/a25446.html#ab33513df20e942ba354932df5082efa8", null ],
+    [ "_target", "da/d7b/a25446.html#af25d11fc93423ee6e1678ebb5dcf1276", null ]
 ];

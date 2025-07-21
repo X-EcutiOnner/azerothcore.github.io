@@ -1,6 +1,6 @@
 var a02684 =
 [
-    [ "boss_ambassador_hellmaw", "df/df2/a22662.html", "df/df2/a22662" ],
+    [ "boss_ambassador_hellmaw", "d7/d94/a22666.html", "d7/d94/a22666" ],
     [ "Misc", "de/db4/a02684.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
       [ "DATA_SKILLPOINT_MIN", "d1/dde/a04187.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a3093ddfcacf2742f4fb344843e2e7ce6", null ],
       [ "NEFARIUS_PATH_2", "dd/d44/a04097.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a09833188939fe77088ed4fb2cfedb875", null ],

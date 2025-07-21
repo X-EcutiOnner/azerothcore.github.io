@@ -1,6 +1,6 @@
 var a27590 =
 [
-    [ "npc_steam_tonkAI", "d5/dad/a27594.html", "d5/dad/a27594" ],
-    [ "npc_steam_tonk", "de/dcf/a27590.html#a19731e7f1bc6fe0220e8c28619ff7c50", null ],
-    [ "GetAI", "de/dcf/a27590.html#a38e51485a3610a204a45677fce15c943", null ]
+    [ "npc_guardianAI", "d5/dad/a27594.html", "d5/dad/a27594" ],
+    [ "npc_guardian", "de/dcf/a27590.html#aa614e73ae6a6c128c323ac275652dbf1", null ],
+    [ "GetAI", "de/dcf/a27590.html#a3e65ccc70be9d25b2d8563c23146ef4f", null ]
 ];

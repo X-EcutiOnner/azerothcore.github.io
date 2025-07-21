@@ -1,6 +1,7 @@
 var a15414 =
 [
-    [ "npc_tiger_matriarch_creditAI", "d2/da0/a15418.html", "d2/da0/a15418" ],
-    [ "npc_tiger_matriarch_credit", "db/de2/a15414.html#a9d76e8e808c828da501551025eecd8ea", null ],
-    [ "GetAI", "db/de2/a15414.html#ac4966a8ae43688204f97f9a1a7b4542d", null ]
+    [ "npc_aged_dying_ancient_kodoAI", "db/de2/a15414.html#aaed19d0c915891d8afecda7df75a8a75", null ],
+    [ "JustRespawned", "db/de2/a15414.html#a9353ac81b0c209a56313b52f2257ddd2", null ],
+    [ "MoveInLineOfSight", "db/de2/a15414.html#a295d4bef97b97c7deb31a81274f0818d", null ],
+    [ "SpellHit", "db/de2/a15414.html#a021b82aa6bd2e118fe810f18349fda42", null ]
 ];

@@ -1,7 +1,7 @@
 var a02588 =
 [
-    [ "boss_watchkeeper_gargolmar", "d5/d49/a23562.html", "d5/d49/a23562" ],
-    [ "spell_gargolmar_retalliation", "d0/d2a/a23566.html", "d0/d2a/a23566" ],
+    [ "boss_watchkeeper_gargolmar", "d0/d2a/a23566.html", "d0/d2a/a23566" ],
+    [ "spell_gargolmar_retalliation", "d9/d69/a23570.html", "d9/d69/a23570" ],
     [ "Misc", "d4/d61/a02588.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
       [ "DATA_SKILLPOINT_MIN", "d1/dde/a04187.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a3093ddfcacf2742f4fb344843e2e7ce6", null ],
       [ "NEFARIUS_PATH_2", "dd/d44/a04097.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a09833188939fe77088ed4fb2cfedb875", null ],

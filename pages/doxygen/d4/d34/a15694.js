@@ -1,10 +1,7 @@
 var a15694 =
 [
-    [ "npc_ameAI", "d4/d34/a15694.html#ad3d0ee584859b2b0fb7c6c5dbf204ad6", null ],
-    [ "JustDied", "d4/d34/a15694.html#a9b77f94f112477509c3163945ceb8201", null ],
-    [ "JustSummoned", "d4/d34/a15694.html#ab09c72c4ea50313c23a53d3862aeddea", null ],
-    [ "Reset", "d4/d34/a15694.html#a0bda0f95bd97b9e755a745a8ea41ba49", null ],
-    [ "UpdateAI", "d4/d34/a15694.html#a0a073e4c216985607aa51099044ff6c5", null ],
-    [ "WaypointReached", "d4/d34/a15694.html#a44b06a6a977d20b03ed663f1090ed43c", null ],
-    [ "DemoralizingShoutTimer", "d4/d34/a15694.html#ab5d1786735adea4bce1bba8adf42a877", null ]
+    [ "npc_ameAI", "d1/dcc/a15698.html", "d1/dcc/a15698" ],
+    [ "npc_ame", "d4/d34/a15694.html#a6b4a20b06bc88393dd08b4eae83c1d50", null ],
+    [ "GetAI", "d4/d34/a15694.html#a09f7688c38d56319791f7543eb32f317", null ],
+    [ "OnQuestAccept", "d4/d34/a15694.html#a69b8ec6558e70e34f7e405b397b09f43", null ]
 ];

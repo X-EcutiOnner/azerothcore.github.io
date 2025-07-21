@@ -1,6 +1,8 @@
 var a25706 =
 [
-    [ "HandleScript", "dd/deb/a25706.html#a382dd0eb5ebc2f5da70561eaaf1f8d3d", null ],
-    [ "PrepareSpellScript", "dd/deb/a25706.html#a4f0f4d29231ef1976d726b66f6277ca8", null ],
-    [ "Register", "dd/deb/a25706.html#ad75843039e582b64da28b4818f48aeb3", null ]
+    [ "CheckProc", "dd/deb/a25706.html#a2e83dd62bfcbe23e38b62e8299a52ee5", null ],
+    [ "HandleProc", "dd/deb/a25706.html#a1d45afc30c8dd6de0a01285778117033", null ],
+    [ "PrepareAuraScript", "dd/deb/a25706.html#ab468329029c4bc3c16475585b3451615", null ],
+    [ "Register", "dd/deb/a25706.html#a37700b8597a3945d30700c5e8b60404a", null ],
+    [ "Validate", "dd/deb/a25706.html#a30e57e0b04e16a4a232c6a18801fafa0", null ]
 ];

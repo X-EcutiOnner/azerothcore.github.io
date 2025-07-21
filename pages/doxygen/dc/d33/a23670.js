@@ -1,6 +1,8 @@
 var a23670 =
 [
-    [ "instance_shattered_halls_InstanceMapScript", "df/d1c/a23674.html", "df/d1c/a23674" ],
-    [ "instance_shattered_halls", "dc/d33/a23670.html#a9d0d3b6baec34c679151791610cff3a7", null ],
-    [ "GetInstanceScript", "dc/d33/a23670.html#a82388466811b022a725ba721845cadf3", null ]
+    [ "FilterTargets", "dc/d33/a23670.html#ae366594b668331a19f384ceb48654c0c", null ],
+    [ "HandleOnHit", "dc/d33/a23670.html#abe5665fde7f01fafdfb55c58d8edbcf1", null ],
+    [ "PrepareSpellScript", "dc/d33/a23670.html#a71aa4018d293391a73d3317c1e80951d", null ],
+    [ "Register", "dc/d33/a23670.html#a3da162fd2cafc2e1236db0c6d4f65440", null ],
+    [ "Validate", "dc/d33/a23670.html#a3747ad271dc659436ae7a8203b964554", null ]
 ];

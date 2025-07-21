@@ -1,8 +1,8 @@
 var a03752 =
 [
-    [ "npc_ouro_spawner", "d7/d02/a15138.html", "d7/d02/a15138" ],
-    [ "boss_ouro", "d4/d3c/a15142.html", "d4/d3c/a15142" ],
-    [ "npc_dirt_mound", "dd/d48/a15146.html", "dd/d48/a15146" ],
+    [ "npc_ouro_spawner", "d4/d3c/a15142.html", "d4/d3c/a15142" ],
+    [ "boss_ouro", "dd/d48/a15146.html", "dd/d48/a15146" ],
+    [ "npc_dirt_mound", "d9/d91/a15150.html", "d9/d91/a15150" ],
     [ "Misc", "d0/dbc/a03752.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
       [ "DATA_SKILLPOINT_MIN", "d1/dde/a04187.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a3093ddfcacf2742f4fb344843e2e7ce6", null ],
       [ "NEFARIUS_PATH_2", "dd/d44/a04097.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a09833188939fe77088ed4fb2cfedb875", null ],

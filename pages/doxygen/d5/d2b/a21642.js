@@ -1,6 +1,5 @@
 var a21642 =
 [
-    [ "npc_counselor_talbotAI", "df/df0/a21646.html", "df/df0/a21646" ],
-    [ "npc_counselor_talbot", "d5/d2b/a21642.html#a9223380bb78afeda617482bea0a3110c", null ],
-    [ "GetAI", "d5/d2b/a21642.html#a3debd13352146a247d635042ecbfa155", null ]
+    [ "npc_leryssaAI", "d5/d2b/a21642.html#ad21a1e1572880ba8cbf6625e658989eb", null ],
+    [ "MovementInform", "d5/d2b/a21642.html#a36180f7351ab11a9942ec59ee24ae6ad", null ]
 ];

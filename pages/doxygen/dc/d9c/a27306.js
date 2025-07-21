@@ -1,6 +1,5 @@
 var a27306 =
 [
-    [ "go_bashir_crystalforge", "dc/d9c/a27306.html#a8b68a63933e14d82198580912fddc280", null ],
-    [ "OnGossipHello", "dc/d9c/a27306.html#a4aa941ae78a17eecc5593d6ccd17ff63", null ],
-    [ "OnGossipSelect", "dc/d9c/a27306.html#ac7e1b6db4ae2bee766b95049a8b0c320", null ]
+    [ "go_tele_to_dalaran_crystal", "dc/d9c/a27306.html#ab41268b7d568e8f189338f27cd90a62c", null ],
+    [ "OnGossipHello", "dc/d9c/a27306.html#a7f754a29249653ca7848494310ef1a8d", null ]
 ];

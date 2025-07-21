@@ -1,6 +1,5 @@
 var a15326 =
 [
-    [ "npc_death_ravagerAI", "d4/d74/a15330.html", "d4/d74/a15330" ],
-    [ "npc_death_ravager", "da/dff/a15326.html#a6aa04a28ce5aa0e467e638c8ffe11657", null ],
-    [ "GetAI", "da/dff/a15326.html#a284d0b8ccf902d3f03ddfc6750fe0f1c", null ]
+    [ "go_ravager_cage", "da/dff/a15326.html#a632c767a4ab0075ee40d40e977fe7c18", null ],
+    [ "OnGossipHello", "da/dff/a15326.html#a83c9086cefea0d6d11a5de7a781d84db", null ]
 ];

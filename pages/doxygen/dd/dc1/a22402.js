@@ -1,5 +1,6 @@
 var a22402 =
 [
-    [ "achievement_wg_didnt_stand_a_chance", "dd/dc1/a22402.html#afb397c74f00d1f5c59a24ef74b0cd1cd", null ],
-    [ "OnCheck", "dd/dc1/a22402.html#ae575bae454689e05c161e8480a13fa18", null ]
+    [ "PrepareSpellScript", "dd/dc1/a22402.html#ae9a4734c9b12473f86c91a49860d56dd", null ],
+    [ "RecalculateDamage", "dd/dc1/a22402.html#ad47d51e68c6ffe60f15beceaffc60b19", null ],
+    [ "Register", "dd/dc1/a22402.html#a0dbeb30ba0eb22f4eb762f0a14cc6f39", null ]
 ];

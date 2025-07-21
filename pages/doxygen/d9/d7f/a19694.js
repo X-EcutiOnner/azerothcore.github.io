@@ -1,6 +1,6 @@
 var a19694 =
 [
-    [ "npc_living_constellationAI", "de/da7/a19698.html", "de/da7/a19698" ],
-    [ "npc_living_constellation", "d9/d7f/a19694.html#a6ee651a525498cb5715ccfedaa26e05d", null ],
-    [ "GetAI", "d9/d7f/a19694.html#a4533812a4da72c0d9eff6d6c9eaf772a", null ]
+    [ "npc_collapsing_starAI", "d9/d7f/a19694.html#ac389b380a8f315ae50a8cd809393a773", null ],
+    [ "DamageTaken", "d9/d7f/a19694.html#a424fac98093eb9d02cda5027523ad06a", null ],
+    [ "JustSummoned", "d9/d7f/a19694.html#ae70fcb66171fe5f87d96aaf2f52e35bc", null ]
 ];

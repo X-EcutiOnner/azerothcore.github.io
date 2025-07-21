@@ -1,6 +1,12 @@
 var a20310 =
 [
-    [ "boss_ignisAI", "d1/d92/a20314.html", "d1/d92/a20314" ],
-    [ "boss_ignis", "d2/dcf/a20310.html#a15f42f252e4f9472707d5b81f7fdaece", null ],
-    [ "GetAI", "d2/dcf/a20310.html#ac11ff148e9cbc985875f859268a3de01", null ]
+    [ "npc_ulduar_iron_constructAI", "d2/dcf/a20310.html#ab81224d24ab1925cde97ab76c2a514d1", null ],
+    [ "DamageTaken", "d2/dcf/a20310.html#a5235538b755dd83615d80a1f7d0ec1b9", null ],
+    [ "JustDied", "d2/dcf/a20310.html#a5b8e1c38257fc13c59bcaf8cb251fee2", null ],
+    [ "JustReachedHome", "d2/dcf/a20310.html#a12416ffe731f96a1ca2949d995eb909c", null ],
+    [ "MoveInLineOfSight", "d2/dcf/a20310.html#a12b228a1edb9460ddcb2b8232bb8209e", null ],
+    [ "Reset", "d2/dcf/a20310.html#ac6dba374d72247be14923aa54898b9b5", null ],
+    [ "SpellHit", "d2/dcf/a20310.html#a10a5444576af84ae50ad8af930ed5970", null ],
+    [ "UpdateAI", "d2/dcf/a20310.html#ac5aabd4a48b6a2f5057eb5ee8a8c99f8", null ],
+    [ "timer", "d2/dcf/a20310.html#ae1996cf79f8a82df7fe02cd60e5ce3a4", null ]
 ];

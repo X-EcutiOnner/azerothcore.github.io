@@ -1,9 +1,8 @@
 var a21022 =
 [
-    [ "npc_ulduar_keeperAI", "d8/d49/a21022.html#ac69d21f3820f2c01a80ff664c317d111", null ],
-    [ "DoAction", "d8/d49/a21022.html#a03011d04761926d67e43c0bea5a0901f", null ],
-    [ "Reset", "d8/d49/a21022.html#a86971339e6fcbffb3c019e4dc29972b3", null ],
-    [ "SpellHit", "d8/d49/a21022.html#a18f22ca155646a6f40e0627f9d6dc337", null ],
-    [ "UpdateAI", "d8/d49/a21022.html#a9af455266dd2a843ac1a2c4e56d50e78", null ],
-    [ "_keeper", "d8/d49/a21022.html#ad8cd47f6c75042d589fc6fae4603c9f2", null ]
+    [ "npc_ulduar_keeperAI", "d6/d7a/a21026.html", "d6/d7a/a21026" ],
+    [ "npc_ulduar_keeper", "d8/d49/a21022.html#a252b781061a2e21dc961ea94f7120d59", null ],
+    [ "GetAI", "d8/d49/a21022.html#ad0c0f5d3786e3f3b3394a599f3ee6256", null ],
+    [ "OnGossipHello", "d8/d49/a21022.html#a4db12efd22c7d2a5f18144fd16543230", null ],
+    [ "OnGossipSelect", "d8/d49/a21022.html#acf8681577117107d16d45705e4b8463f", null ]
 ];

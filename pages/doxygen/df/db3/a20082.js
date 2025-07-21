@@ -1,7 +1,6 @@
 var a20082 =
 [
-    [ "boss_freya_healthy_sporeAI", "df/db3/a20082.html#a1f72bc2b113f3b909d44fd54fff87e31", null ],
-    [ "Reset", "df/db3/a20082.html#ad6d6562b5cc9f8232bdda99ec2204052", null ],
-    [ "UpdateAI", "df/db3/a20082.html#ace79c59d62e597ae31425b4006e1363f", null ],
-    [ "_despawnTimer", "df/db3/a20082.html#aaf65ef07480e5c634cc42dac0c7c734c", null ]
+    [ "boss_freya_healthy_sporeAI", "df/dc8/a20086.html", "df/dc8/a20086" ],
+    [ "boss_freya_healthy_spore", "df/db3/a20082.html#a16633136393061aa98c7a98f535d421e", null ],
+    [ "GetAI", "df/db3/a20082.html#ae76eb3b334f82c536f71fdcfc86e4382", null ]
 ];

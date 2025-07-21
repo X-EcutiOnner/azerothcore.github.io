@@ -1,8 +1,6 @@
 var a15982 =
 [
-    [ "npc_twilight_summonAI", "d9/d96/a15982.html#a8f5dfe54a5ac1d7a058c5efb9bead77a", null ],
-    [ "DoAction", "d9/d96/a15982.html#aac4c1e3bc635b30f1ceed8b25f2c7829", null ],
-    [ "Reset", "d9/d96/a15982.html#a1174c827aef1b05603214e4717c78f8a", null ],
-    [ "UpdateAI", "d9/d96/a15982.html#addb312c34c668b8189087de6cf89543b", null ],
-    [ "fadeArmorTimer", "d9/d96/a15982.html#ace4028c8f4d0240b4e2939481312d0d2", null ]
+    [ "npc_twilight_summonAI", "dd/dc8/a15986.html", "dd/dc8/a15986" ],
+    [ "npc_twilight_summon", "d9/d96/a15982.html#a2406ee3b02d9f1b1ebef54623d9a3c11", null ],
+    [ "GetAI", "d9/d96/a15982.html#a98bf5ce96c25bc252acd46163644bf33", null ]
 ];

@@ -1,6 +1,8 @@
 var a18806 =
 [
-    [ "npc_icc_severed_essenceAI", "dc/dcc/a18810.html", "dc/dcc/a18810" ],
-    [ "npc_icc_severed_essence", "d3/d02/a18806.html#ace5b55755ef1dff3bd08a67fe2f64f94", null ],
-    [ "GetAI", "d3/d02/a18806.html#a74b8dbb95f3dc31b514a2d7ac1f18190", null ]
+    [ "Class", "d3/d02/a18806.html#a095390e9023609f5836c4481ed79e1af", null ],
+    [ "cooldown_ms", "d3/d02/a18806.html#a6f1fdab250e8557d16066c03a54fb2a4", null ],
+    [ "id", "d3/d02/a18806.html#ae9fdf89271339b93f306c4aa0871f844", null ],
+    [ "range", "d3/d02/a18806.html#aad126da206abceb6a66dcda1cbd3b28b", null ],
+    [ "targetType", "d3/d02/a18806.html#ae5fc8cb423536f631591d3b72bfd06dd", null ]
 ];

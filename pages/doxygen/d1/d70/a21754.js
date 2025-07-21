@@ -1,6 +1,6 @@
 var a21754 =
 [
-    [ "npc_mindless_ghoulAI", "d1/d70/a21754.html#a4cc0dbd4aa2366115348bc1db273a5e2", null ],
-    [ "CanAIAttack", "d1/d70/a21754.html#a18fbc44ad760a69d952d003622ec75b2", null ],
-    [ "JustDied", "d1/d70/a21754.html#a272067bef6dbab24024f7de990c10b64", null ]
+    [ "npc_mindless_ghoulAI", "dd/dcd/a21758.html", "dd/dcd/a21758" ],
+    [ "npc_mindless_ghoul", "d1/d70/a21754.html#ac5bf71e719c0df04687f426a022fd65e", null ],
+    [ "GetAI", "d1/d70/a21754.html#ac5a087aa742827dc8eb0f3dc195920ec", null ]
 ];

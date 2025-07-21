@@ -1,6 +1,7 @@
 var a16486 =
 [
-    [ "npc_toc_pet_warlockAI", "d8/d4c/a16490.html", "d8/d4c/a16490" ],
-    [ "npc_toc_pet_warlock", "d5/de6/a16486.html#a4703f506d677d7e490c6813c6d9b060b", null ],
-    [ "GetAI", "d5/de6/a16486.html#aebcaff82726508a14028cb22a1ef944b", null ]
+    [ "npc_toc_retro_paladinAI", "d5/de6/a16486.html#afe933281cea61c9a4f3ded76290a3b72", null ],
+    [ "myCanCast", "d5/de6/a16486.html#a271b1d0855dbd2e38ecb6ea62140012f", null ],
+    [ "UpdateAI", "d5/de6/a16486.html#a105d6b9c133c1147b310826d7be416f5", null ],
+    [ "events", "d5/de6/a16486.html#a7078c28d5392bc77d577fa7a6f96b9d7", null ]
 ];

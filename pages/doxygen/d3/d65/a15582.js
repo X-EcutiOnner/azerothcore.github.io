@@ -1,7 +1,6 @@
 var a15582 =
 [
-    [ "npc_kaya_flathoofAI", "de/d77/a15586.html", "de/d77/a15586" ],
-    [ "npc_kaya_flathoof", "d3/d65/a15582.html#a588f88b1c00927a4ad6b7cd25fc1b065", null ],
-    [ "GetAI", "d3/d65/a15582.html#ad7cce0c1a30abe5bc0bffa777c40c79a", null ],
-    [ "OnQuestAccept", "d3/d65/a15582.html#acdb20ecb1ffee4417c9b39f3aebb0591", null ]
+    [ "npc_braug_dimspirit", "d3/d65/a15582.html#ade08e9ad549d80c2f7918dbfcfbf41dc", null ],
+    [ "OnGossipHello", "d3/d65/a15582.html#aeaed026edf5a1fa82c941f667c05815b", null ],
+    [ "OnGossipSelect", "d3/d65/a15582.html#a87ea1ba3e247c9b14c1f6c72b3addea0", null ]
 ];

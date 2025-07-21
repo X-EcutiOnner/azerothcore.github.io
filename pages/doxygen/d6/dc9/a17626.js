@@ -1,9 +1,8 @@
 var a17626 =
 [
-    [ "CheckAreaTarget", "d6/dc9/a17626.html#afd45699e853a5b57f3e9ae7bc4165bfb", null ],
-    [ "HandleApply", "d6/dc9/a17626.html#a9ce86d32957af07313af379b4176d0b3", null ],
-    [ "HandleRemove", "d6/dc9/a17626.html#a04f449a062b20e6f9ebc35857a051ed3", null ],
-    [ "Load", "d6/dc9/a17626.html#aa10821981f3e80262850e5c46449d5d0", null ],
-    [ "PrepareAuraScript", "d6/dc9/a17626.html#ac98e9c47a7cb177c0624cda37d1836e2", null ],
-    [ "Register", "d6/dc9/a17626.html#ab5b7bc1cc347ea368a9f2753b4c020a7", null ]
+    [ "HandlePeriodic", "d6/dc9/a17626.html#a5ff571c616b69bb50c736622feb9ed96", null ],
+    [ "HandleRemove", "d6/dc9/a17626.html#a624887bb5e6d8b72d6c0591661d6ba38", null ],
+    [ "PrepareAuraScript", "d6/dc9/a17626.html#a1b140274e283dd95e28fcb773e30f965", null ],
+    [ "Register", "d6/dc9/a17626.html#abcce83ef6ecbe539a3d8eaef83fb2d33", null ],
+    [ "Validate", "d6/dc9/a17626.html#a94c644e730c51c8edb6a74d68d6228a8", null ]
 ];

@@ -1,6 +1,6 @@
 var a26750 =
 [
-    [ "CheckCast", "d9/d0a/a26750.html#acdb69e605c4e3b5eb3e48f400957db28", null ],
-    [ "PrepareSpellScript", "d9/d0a/a26750.html#a1fb9a924ddba358d6d67943c5b2ffa24", null ],
-    [ "Register", "d9/d0a/a26750.html#a703b21a93ba41211ac6e6ee182eecb8b", null ]
+    [ "HandleSchoolDMG", "d9/d0a/a26750.html#a8f3ff0a48d5de4dcd33831400de0ba28", null ],
+    [ "PrepareSpellScript", "d9/d0a/a26750.html#a42bb397aa53fb43ba1b1799a7f162d9b", null ],
+    [ "Register", "d9/d0a/a26750.html#ac1271959fe8de3c11403b1e76acdbf15", null ]
 ];

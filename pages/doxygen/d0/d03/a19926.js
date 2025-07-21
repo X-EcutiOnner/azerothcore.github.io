@@ -1,8 +1,6 @@
 var a19926 =
 [
-    [ "npc_brann_radioAI", "d0/d03/a19926.html#a329ca0310efe109f7fb364045f6eccbb", null ],
-    [ "MoveInLineOfSight", "d0/d03/a19926.html#ad119431edd6f632b4c44fc4e8708d375", null ],
-    [ "Reset", "d0/d03/a19926.html#a89183942dcb38f48de1867bfbce15721", null ],
-    [ "_helpLock", "d0/d03/a19926.html#ae927b6c8143cfb029ab6574d10dde60e", null ],
-    [ "_lock", "d0/d03/a19926.html#a421cfd2b8b149a0f3ea5bc2262ba6bac", null ]
+    [ "npc_brann_radioAI", "db/da7/a19930.html", "db/da7/a19930" ],
+    [ "npc_brann_radio", "d0/d03/a19926.html#a22b5231f643c287d8e32d88a3b0728b2", null ],
+    [ "GetAI", "d0/d03/a19926.html#aa2ea91337262fb886e7535ba013f4b10", null ]
 ];

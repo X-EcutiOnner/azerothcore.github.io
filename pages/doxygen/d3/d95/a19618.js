@@ -1,8 +1,7 @@
 var a19618 =
 [
-    [ "brann_bronzebeardAI", "dd/d8b/a19622.html", "dd/d8b/a19622" ],
-    [ "brann_bronzebeard", "d3/d95/a19618.html#a66fd8785647896a1a5f7be041242cfd6", null ],
-    [ "GetAI", "d3/d95/a19618.html#a66d4ae2f243f7869106c2372b3e7166c", null ],
-    [ "OnGossipHello", "d3/d95/a19618.html#a2714a2dde596db76706b8a86f97f82b8", null ],
-    [ "OnGossipSelect", "d3/d95/a19618.html#a0e0068a45012e50a9f645d393bdfe163", null ]
+    [ "creature", "d3/d95/a19618.html#a55a6ee677ab51120867f542e5a5745b0", null ],
+    [ "sound", "d3/d95/a19618.html#a407acf5c908aa44a169adc1e88a70ab4", null ],
+    [ "text", "d3/d95/a19618.html#a9ed157ddf2c274d021820723b1ebe00e", null ],
+    [ "timer", "d3/d95/a19618.html#a198a3a5a4ad037b591fc3b85675bdfe1", null ]
 ];

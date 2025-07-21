@@ -1,9 +1,9 @@
 var a03467 =
 [
-    [ "boss_drakos", "d1/d5c/a19358.html", "d1/d5c/a19358" ],
-    [ "boss_drakos::boss_drakosAI", "d5/dca/a19362.html", "d5/dca/a19362" ],
-    [ "npc_oculus_unstable_sphere", "de/d23/a19366.html", "de/d23/a19366" ],
-    [ "npc_oculus_unstable_sphere::npc_oculus_unstable_sphereAI", "dd/d85/a19370.html", "dd/d85/a19370" ],
+    [ "boss_drakos", "d5/dca/a19362.html", "d5/dca/a19362" ],
+    [ "boss_drakos::boss_drakosAI", "de/d23/a19366.html", "de/d23/a19366" ],
+    [ "npc_oculus_unstable_sphere", "dd/d85/a19370.html", "dd/d85/a19370" ],
+    [ "npc_oculus_unstable_sphere::npc_oculus_unstable_sphereAI", "d5/dfd/a19374.html", "d5/dfd/a19374" ],
     [ "SPELL_THUNDERING_STOMP", "d7/db0/a03467.html#a49700fd50259585cfac2c788de5e00a8", null ],
     [ "DrakosNPCs", "d7/db0/a03467.html#a9b6e942098b05e96df3467d6c45f057c", [
       [ "NPC_UNSTABLE_SPHERE", "d7/db0/a03467.html#a9b6e942098b05e96df3467d6c45f057ca6fbda431676e3cb2a0fe335145f2d815", null ]

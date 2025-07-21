@@ -1,6 +1,6 @@
 var a15866 =
 [
-    [ "boss_anub_arakAI", "d4/d2f/a15870.html", "d4/d2f/a15870" ],
-    [ "boss_anub_arak", "df/de6/a15866.html#ac2594f561b07069a312ed38c01d9c7da", null ],
-    [ "GetAI", "df/de6/a15866.html#a8687594354d514b99e026797ee71c70d", null ]
+    [ "HandlePeriodic", "df/de6/a15866.html#ad22b433005b2678bde3516a01eaaaa60", null ],
+    [ "PrepareAuraScript", "df/de6/a15866.html#a3711004edaef7242d9cae1f23f9b7467", null ],
+    [ "Register", "df/de6/a15866.html#ad570e51a3d2dd5d3cc4b91aebeefd9ef", null ]
 ];

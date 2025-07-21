@@ -1,5 +1,5 @@
 var a27678 =
 [
-    [ "npc_necropolis", "d4/d34/a27678.html#a6535d6dbdc5a6b3c715ca9ec470fb258", null ],
-    [ "SpellHit", "d4/d34/a27678.html#ae068da7f6b1de5d06568b672d9f46f18", null ]
+    [ "QuestApprenticeAnglerPlayerScript", "d4/d34/a27678.html#afaa929276f8b131005c9b94daa9a09f9", null ],
+    [ "OnPlayerCompleteQuest", "d4/d34/a27678.html#a029ef1ccdd42af2ff9223ab699c3942f", null ]
 ];

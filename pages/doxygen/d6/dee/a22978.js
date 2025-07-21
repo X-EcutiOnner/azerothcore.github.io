@@ -1,6 +1,6 @@
 var a22978 =
 [
-    [ "ShadowOfDeathSelector", "d6/dee/a22978.html#a1190094fbde74ccffd954fea742ab0ae", null ],
-    [ "operator()", "d6/dee/a22978.html#a3c91b315ce6d6c523d4bdb8a8206a3c8", null ],
-    [ "_tank", "d6/dee/a22978.html#adc238645eec306e00918dbab05549fc8", null ]
+    [ "npc_supremus_punch_invisible_stalker", "d6/dee/a22978.html#add7d0e711ef02a16ef58d90cfc8ee733", null ],
+    [ "IsSummonedBy", "d6/dee/a22978.html#a467d5a43bb6d2349ad859a0ef7de4c00", null ],
+    [ "UpdateAI", "d6/dee/a22978.html#a90ecfe4257ef77a6d6a200a2f017c51a", null ]
 ];

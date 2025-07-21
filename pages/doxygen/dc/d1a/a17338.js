@@ -1,6 +1,7 @@
 var a17338 =
 [
-    [ "OnAbsorb", "dc/d1a/a17338.html#aa6582457cd0502ca263433d04b40b64f", null ],
-    [ "PrepareAuraScript", "dc/d1a/a17338.html#a0b6916dd3f6172e59edf477f203c85b1", null ],
-    [ "Register", "dc/d1a/a17338.html#a945ec4037120992e8a2986e7fd2e2c96", null ]
+    [ "HandleDummyTick", "dc/d1a/a17338.html#a9aa9a7a6c2e09c840cfca3253c2ac7c0", null ],
+    [ "PrepareAuraScript", "dc/d1a/a17338.html#a577523701b5a4ea2def4999e634c8862", null ],
+    [ "Register", "dc/d1a/a17338.html#aaad9185c62333de4d6704b22780edd28", null ],
+    [ "Validate", "dc/d1a/a17338.html#a9cfabcbbb9805a902fdd2d1b327dc4c7", null ]
 ];

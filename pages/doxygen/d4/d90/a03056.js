@@ -1,9 +1,9 @@
 var a03056 =
 [
-    [ "boss_moorabi", "d6/da0/a17206.html", "d6/da0/a17206" ],
-    [ "boss_moorabi::boss_moorabiAI", "d5/d92/a17210.html", "d5/d92/a17210" ],
-    [ "spell_moorabi_mojo_frenzy_aura", "d2/d39/a17214.html", "d2/d39/a17214" ],
-    [ "achievement_less_rabi", "dd/d47/a17218.html", "dd/d47/a17218" ],
+    [ "boss_moorabi", "d5/d92/a17210.html", "d5/d92/a17210" ],
+    [ "boss_moorabi::boss_moorabiAI", "d2/d39/a17214.html", "d2/d39/a17214" ],
+    [ "spell_moorabi_mojo_frenzy_aura", "dd/d47/a17218.html", "dd/d47/a17218" ],
+    [ "achievement_less_rabi", "d3/dd5/a17222.html", "d3/dd5/a17222" ],
     [ "eSays", "d4/d90/a03056.html#a488e6db208f9fcca6f7a9b61d4ffad11", [
       [ "SAY_AGGRO", "d4/d90/a03056.html#a488e6db208f9fcca6f7a9b61d4ffad11a47c752fff069f3e55065795eef2a9bfe", null ],
       [ "SAY_SLAY", "d4/d90/a03056.html#a488e6db208f9fcca6f7a9b61d4ffad11a9e64f6e600dd42567d18006912811f75", null ],

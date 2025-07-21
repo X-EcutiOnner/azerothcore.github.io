@@ -1,6 +1,6 @@
 var a19458 =
 [
-    [ "HandlePeriodic", "dc/d3f/a19458.html#a08717e9e8e974fcd7051c45fd1d26893", null ],
-    [ "PrepareAuraScript", "dc/d3f/a19458.html#abf7b2d81ee81ff27388678e9a5433eac", null ],
-    [ "Register", "dc/d3f/a19458.html#ac98109fe8d9192ae97e4aa5dc10463cf", null ]
+    [ "PrepareSpellScript", "dc/d3f/a19458.html#a65c3b2c9a416b7d1bbd3c14057e5f8fc", null ],
+    [ "Register", "dc/d3f/a19458.html#ad8470ed0d09c2b7e79fa4ecb1867e9bf", null ],
+    [ "SetDest", "dc/d3f/a19458.html#a24341aae14ed77101d4c31f2fbe11463", null ]
 ];

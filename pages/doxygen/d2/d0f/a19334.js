@@ -1,5 +1,7 @@
 var a19334 =
 [
-    [ "achievement_split_personality", "d2/d0f/a19334.html#aac29ae7c321306a663e55493987af45d", null ],
-    [ "OnCheck", "d2/d0f/a19334.html#ab5379f3c1191eeb747cb6762fc42ce01", null ]
+    [ "HandlePull", "d2/d0f/a19334.html#a05e6155abeb2720923ddf0d8cae54feb", null ],
+    [ "PrepareSpellScript", "d2/d0f/a19334.html#ac192245513e162a2842e47f5b0d64338", null ],
+    [ "Register", "d2/d0f/a19334.html#af6c7a881c2fcf07461006fef63074e5e", null ],
+    [ "SelectTarget", "d2/d0f/a19334.html#aabee5b6b8f3ba7e2cf91bcb05ce7929d", null ]
 ];

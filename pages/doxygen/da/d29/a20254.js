@@ -1,6 +1,5 @@
 var a20254 =
 [
-    [ "FilterTargets", "da/d29/a20254.html#af15fc44e9bd5251aa70aaaa6657e0c29", null ],
-    [ "PrepareSpellScript", "da/d29/a20254.html#ae0ebd4c2ac0f91da5b2574ee7dac31ec", null ],
-    [ "Register", "da/d29/a20254.html#af6704b0789566b2b385ac573eaa50f06", null ]
+    [ "FlashFreezeCheck", "da/d29/a20254.html#a47d07a686a7c74dc8914a98762b16fe3", null ],
+    [ "operator()", "da/d29/a20254.html#a87475dc9e2f1b0eb508e9f56aa5c1e2f", null ]
 ];

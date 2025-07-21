@@ -1,8 +1,6 @@
 var a26210 =
 [
-    [ "CalculateAmount", "d3/d4c/a26210.html#aa1810db9a7b8fbc3572621ff35e0eeb1", null ],
-    [ "PrepareAuraScript", "d3/d4c/a26210.html#ad40d44271840b8e2bd1dc22b6a04290e", null ],
-    [ "ReflectDamage", "d3/d4c/a26210.html#ad8b5f9a7952fc33d7e1fee28e4872212", null ],
-    [ "Register", "d3/d4c/a26210.html#a18b19ee8823e2d1747caeefaf457ad8d", null ],
-    [ "Validate", "d3/d4c/a26210.html#af2936ba4a29fc8735a3cabe805c77355", null ]
+    [ "FilterTargets", "d3/d4c/a26210.html#a23c7b977f7e213322b3702367d6a28c7", null ],
+    [ "PrepareSpellScript", "d3/d4c/a26210.html#a7000b2fd940c914933c486e847932b62", null ],
+    [ "Register", "d3/d4c/a26210.html#a870ee08d0341f6640710a87c97a6b98b", null ]
 ];

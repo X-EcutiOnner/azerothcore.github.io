@@ -1,11 +1,11 @@
 var a03365 =
 [
-    [ "boss_grobbulus", "d2/d7c/a19022.html", "d2/d7c/a19022" ],
-    [ "boss_grobbulus::boss_grobbulusAI", "d6/d54/a19026.html", "d6/d54/a19026" ],
-    [ "boss_grobbulus_poison_cloud", "da/dc9/a19030.html", "da/dc9/a19030" ],
-    [ "boss_grobbulus_poison_cloud::boss_grobbulus_poison_cloudAI", "d8/da0/a19034.html", "d8/da0/a19034" ],
-    [ "spell_grobbulus_poison", "d1/d00/a19038.html", "d1/d00/a19038" ],
-    [ "spell_grobbulus_mutating_injection_aura", "d9/d94/a19042.html", "d9/d94/a19042" ],
+    [ "boss_grobbulus", "d6/d54/a19026.html", "d6/d54/a19026" ],
+    [ "boss_grobbulus::boss_grobbulusAI", "da/dc9/a19030.html", "da/dc9/a19030" ],
+    [ "boss_grobbulus_poison_cloud", "d8/da0/a19034.html", "d8/da0/a19034" ],
+    [ "boss_grobbulus_poison_cloud::boss_grobbulus_poison_cloudAI", "d1/d00/a19038.html", "d1/d00/a19038" ],
+    [ "spell_grobbulus_poison", "d9/d94/a19042.html", "d9/d94/a19042" ],
+    [ "spell_grobbulus_mutating_injection_aura", "d8/d00/a19046.html", "d8/d00/a19046" ],
     [ "Emotes", "d7/d13/a03365.html#a2d0a63150f7988db8ff39124dc1cb21a", [
       [ "EMOTE_FRENZY", "d2/d98/a04244.html#a2d0a63150f7988db8ff39124dc1cb21aa55f111609d7846e27c2f642b9f46b1ac", null ],
       [ "EMOTE_SHIMMER", "d2/d98/a04244.html#a2d0a63150f7988db8ff39124dc1cb21aa706a7a036a41d3d1f2650ee226e9ec1e", null ],

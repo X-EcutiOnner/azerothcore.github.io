@@ -1,6 +1,6 @@
 var a25106 =
 [
-    [ "HandleDummy", "dc/d70/a25106.html#a0bcbef8a2d5978498556a217ac618fed", null ],
-    [ "PrepareSpellScript", "dc/d70/a25106.html#a5901c22f3a10fdbd21d934f5cb8cd76d", null ],
-    [ "Register", "dc/d70/a25106.html#a2c6d9c273a3d281dacefc20970912166", null ]
+    [ "HandleDummy", "dc/d70/a25106.html#a63bc85e32a1478d03b381c61a33d0dff", null ],
+    [ "PrepareSpellScript", "dc/d70/a25106.html#adae41617f38a71ccec183f419d677cfd", null ],
+    [ "Register", "dc/d70/a25106.html#a820e8b506de36a24411ae4a1c5930417", null ]
 ];

@@ -1,13 +1,6 @@
 var a27574 =
 [
-    [ "npc_garments_of_questsAI", "d8/dfe/a27574.html#a079f719ca488ed6fde2783b5db4f328b", null ],
-    [ "JustEngagedWith", "d8/dfe/a27574.html#aa14c07eaaa8d6381e8a821eab7a3d421", null ],
-    [ "Reset", "d8/dfe/a27574.html#aaaaa3e41deae0057bd659be5c579d226", null ],
-    [ "SpellHit", "d8/dfe/a27574.html#ad22195dba70ced744b319bc1ad83c083", null ],
-    [ "UpdateAI", "d8/dfe/a27574.html#aadf1a807ff49bd83eb21fc38fb2ed81c", null ],
-    [ "WaypointReached", "d8/dfe/a27574.html#a9bd63db7774e77ce4af6cfa952bcfa6d", null ],
-    [ "CanRun", "d8/dfe/a27574.html#a93c41781e4cb037b56773bbbf36181b7", null ],
-    [ "CasterGUID", "d8/dfe/a27574.html#ad2656e6a080b6407b57a3a1afeed12a0", null ],
-    [ "IsHealed", "d8/dfe/a27574.html#a96db66704eabf028362d5f8b5c424712", null ],
-    [ "RunAwayTimer", "d8/dfe/a27574.html#ac0a898f8938ea9b3721cc7440fac2da0", null ]
+    [ "npc_injured_patientAI", "d4/dc5/a27578.html", "d4/dc5/a27578" ],
+    [ "npc_injured_patient", "d8/dfe/a27574.html#a0b7ef214aa1b20df088dee0976c73783", null ],
+    [ "GetAI", "d8/dfe/a27574.html#a0c042bb81e684f903d28d7879af99d4a", null ]
 ];

@@ -1,6 +1,7 @@
 var a18714 =
 [
-    [ "PrepareSpellScript", "d9/da2/a18714.html#aac12da39c503615036120e3e0cd55622", null ],
-    [ "Register", "d9/da2/a18714.html#a808d2283be9714c14f22a2df0a52dd61", null ],
-    [ "RelocateDest", "d9/da2/a18714.html#a843c9dc403404ddd2de667e57e01f00c", null ]
+    [ "HandleScript", "d9/da2/a18714.html#a87a2b32a9a20f032157df5ddb2cd9979", null ],
+    [ "PrepareSpellScript", "d9/da2/a18714.html#a9aca3a2a981a0cb61569200d77ca527a", null ],
+    [ "Register", "d9/da2/a18714.html#afb0289c9906d0383a22dfd0e848573f8", null ],
+    [ "Validate", "d9/da2/a18714.html#a69344370af56f033e1c1ba16f4dee174", null ]
 ];

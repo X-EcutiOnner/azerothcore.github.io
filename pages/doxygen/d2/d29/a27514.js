@@ -1,10 +1,8 @@
 var a27514 =
 [
-    [ "npc_training_dummyAI", "d2/d29/a27514.html#a2f10fd0b4365e99446f728883a47eb6a", null ],
-    [ "DamageTaken", "d2/d29/a27514.html#a641c40906a6365f068ccbdba9d033923", null ],
-    [ "EnterEvadeMode", "d2/d29/a27514.html#adb1de124bdb2a986efcfcfc287b6d824", null ],
-    [ "MoveInLineOfSight", "d2/d29/a27514.html#a52f3516e9da6895eeddcdef7a198a6b1", null ],
-    [ "Reset", "d2/d29/a27514.html#af63f500cb3179964c90afab0d4a2c9b7", null ],
-    [ "UpdateAI", "d2/d29/a27514.html#a5e7892a64cd1a5cf678b401b62497bfb", null ],
-    [ "resetTimer", "d2/d29/a27514.html#a443f2f7de257af473d6e9793f34a2071", null ]
+    [ "npc_riggle_bassbaitAI", "df/d4b/a27518.html", "df/d4b/a27518" ],
+    [ "npc_riggle_bassbait", "d2/d29/a27514.html#afc4280099cda3c28c4634d649e636839", null ],
+    [ "GetAI", "d2/d29/a27514.html#ad5e3230dae9ac23aa83883e53b37234e", null ],
+    [ "OnGossipHello", "d2/d29/a27514.html#aeea1e5d4d59c72ce97e1f0eb8da5b6fe", null ],
+    [ "OnQuestReward", "d2/d29/a27514.html#aa3ef2b3ebd7542a4836983872c397e66", null ]
 ];

@@ -1,6 +1,7 @@
 var a18890 =
 [
-    [ "instance_icecrown_citadel_InstanceMapScript", "d5/dc7/a18894.html", "d5/dc7/a18894" ],
-    [ "instance_icecrown_citadel", "d0/d28/a18890.html#a0901e23025cff08d1a7516bbef099ffa", null ],
-    [ "GetInstanceScript", "d0/d28/a18890.html#a787c32626681f15f5515385a9ba6b848", null ]
+    [ "DelayedCastMincharEvent", "d0/d28/a18890.html#a76d8a08ca273eec5b2e083d136336a15", null ],
+    [ "Execute", "d0/d28/a18890.html#a12aeff246d07e541ed192974320842cb", null ],
+    [ "_spellId", "d0/d28/a18890.html#af4ea90407b2c8a283f137d213ffe97be", null ],
+    [ "_trigger", "d0/d28/a18890.html#a9f3cd02e77ad35b98a6753b792383548", null ]
 ];

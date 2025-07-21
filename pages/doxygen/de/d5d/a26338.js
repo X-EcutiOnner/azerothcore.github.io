@@ -1,5 +1,5 @@
 var a26338 =
 [
-    [ "spell_q55_sacred_cleansing", "de/d5d/a26338.html#a4aa8a16350a7a55706841471fd985ca2", null ],
-    [ "GetSpellScript", "de/d5d/a26338.html#a50a8f2d777169aaeef88533b66b88fb2", null ]
+    [ "PrepareSpellScript", "de/d5d/a26338.html#aee9595d4716fb2ea1bd9e2a66d26c39e", null ],
+    [ "Register", "de/d5d/a26338.html#a6318da4bfeb63dee75a971106bdc2146", null ]
 ];

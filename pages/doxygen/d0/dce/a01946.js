@@ -55,6 +55,7 @@ var a01946 =
     ] ],
     [ "PetScalingSpells", "d0/dce/a01946.html#a275a80dca15b0657c37715c1b9e3b9b7", [
       [ "SPELL_PET_AVOIDANCE", "d0/dce/a01946.html#a275a80dca15b0657c37715c1b9e3b9b7a213f9282a4c8984e0f80f63df1ee0070", null ],
+      [ "SPELL_PET_SCALING_MASTER_03", "d0/dce/a01946.html#a275a80dca15b0657c37715c1b9e3b9b7a4e47d198c6feb56eccb0d6385af32f74", null ],
       [ "SPELL_PET_SCALING_MASTER_06", "d0/dce/a01946.html#a275a80dca15b0657c37715c1b9e3b9b7a7d44d066c664463f7d2b4295a60724a9", null ],
       [ "SPELL_HUNTER_PET_SCALING_01", "d0/dce/a01946.html#a275a80dca15b0657c37715c1b9e3b9b7afc2b3803754317188944414d9d114096", null ],
       [ "SPELL_HUNTER_PET_SCALING_02", "d0/dce/a01946.html#a275a80dca15b0657c37715c1b9e3b9b7a0aa0c961bdeac93e543d7220a231efb9", null ],
@@ -103,7 +104,9 @@ var a01946 =
       [ "SPELL_DK_PET_SCALING_02", "d0/dce/a01946.html#a275a80dca15b0657c37715c1b9e3b9b7ac34a6818132a5c487d7b899c33e273f9", null ],
       [ "SPELL_DK_PET_SCALING_03", "d0/dce/a01946.html#a275a80dca15b0657c37715c1b9e3b9b7a5f210c59dd1cd0e06eaf2df5cc5e15a9", null ],
       [ "SPELL_DK_AVOIDANCE", "d0/dce/a01946.html#a275a80dca15b0657c37715c1b9e3b9b7a71d9cb4238a13ea996dc1e5e94d1009f", null ],
-      [ "SPELL_DK_ARMY_OF_THE_DEAD_PASSIVE", "d0/dce/a01946.html#a275a80dca15b0657c37715c1b9e3b9b7ad9c3d9351fe9b875039b624d7ae5d3b2", null ]
+      [ "SPELL_DK_ARMY_OF_THE_DEAD_PASSIVE", "d0/dce/a01946.html#a275a80dca15b0657c37715c1b9e3b9b7ad9c3d9351fe9b875039b624d7ae5d3b2", null ],
+      [ "SPELL_SUMMON_HEAL", "d0/dce/a01946.html#a275a80dca15b0657c37715c1b9e3b9b7af512b945c50975b7aec7cc16cc244044", null ],
+      [ "SPELL_RISEN_GHOUL_SELF_STUN", "d0/dce/a01946.html#a275a80dca15b0657c37715c1b9e3b9b7aa11043393f3a9d1d273ce87e6465dd40", null ]
     ] ],
     [ "PetSpellState", "d0/dce/a01946.html#a4135b2b50486d91baa260c63a20f15f5", [
       [ "PETSPELL_UNCHANGED", "d0/dce/a01946.html#a4135b2b50486d91baa260c63a20f15f5a67cfad7aa3b55a87a692db5c7eeac936", null ],

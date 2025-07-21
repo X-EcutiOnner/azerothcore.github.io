@@ -1,5 +1,5 @@
 var a28322 =
 [
-    [ "Exp", "d8/dff/a28322.html#aa34490babd6ccdc45857947db3f36d60", null ],
-    [ "id", "d8/dff/a28322.html#abe177efe7ea9d1d1ae8e7d09655c7193", null ]
+    [ "Id", "d8/dff/a28322.html#a44532f8af054ae5224f5e816c3c9a8a7", null ],
+    [ "PowerType", "d8/dff/a28322.html#ab6c17a5a3ba9f2f3a8fac125104703c4", null ]
 ];

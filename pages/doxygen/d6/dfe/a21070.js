@@ -1,8 +1,7 @@
 var a21070 =
 [
-    [ "boss_keleseth", "d6/dfe/a21070.html#ad2f0f020b0c92852dedadea5730e4e80", null ],
-    [ "AttackStart", "d6/dfe/a21070.html#a731ebf8e9ff4f64582a8f9373ce08a39", null ],
-    [ "JustDied", "d6/dfe/a21070.html#ad23ede5c869ab12dc1c2f6a783e9b539", null ],
-    [ "JustEngagedWith", "d6/dfe/a21070.html#a8d5cba1dd481bdfaf93f6e2427880b2e", null ],
-    [ "KilledUnit", "d6/dfe/a21070.html#a64d14f1b8f169128bbbc507730f4f1eb", null ]
+    [ "npc_frost_tomb", "d6/dfe/a21070.html#a9c7abe1dc25b807d34f1ed818ab639ef", null ],
+    [ "JustDied", "d6/dfe/a21070.html#a40a14647eaf9f2c5bd11c094f0aadb79", null ],
+    [ "UpdateAI", "d6/dfe/a21070.html#af2122e9c8cb206151f631659c7d167da", null ],
+    [ "PrisonerGUID", "d6/dfe/a21070.html#a456fcd5dd3f504954a74fc068f253dc2", null ]
 ];

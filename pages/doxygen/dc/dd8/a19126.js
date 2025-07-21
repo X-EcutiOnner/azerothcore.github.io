@@ -1,6 +1,10 @@
 var a19126 =
 [
-    [ "boss_razuviousAI", "d8/d0e/a19130.html", "d8/d0e/a19130" ],
-    [ "boss_razuvious", "dc/dd8/a19126.html#ac1a2942f4a7957c671b075df7bf20215", null ],
-    [ "GetAI", "dc/dd8/a19126.html#a350a7cf0c3e21e29c3c28155d63dcb87", null ]
+    [ "boss_patchwerkAI", "dc/dd8/a19126.html#a74dfcf9ef921aa2a53d877c0e5ee9a34", null ],
+    [ "JustDied", "dc/dd8/a19126.html#aaed18187aa8e0058c70b29b1ccbe955f", null ],
+    [ "JustEngagedWith", "dc/dd8/a19126.html#a1317cb819d6247f62e0c6c725157db30", null ],
+    [ "KilledUnit", "dc/dd8/a19126.html#a17ccb5b2a1841656813a9408f5a05c4e", null ],
+    [ "Reset", "dc/dd8/a19126.html#a1d03058bf53e670f4fe9384e9f047891", null ],
+    [ "UpdateAI", "dc/dd8/a19126.html#a2db0df50a0faa88ebeaa035ea048157e", null ],
+    [ "events", "dc/dd8/a19126.html#a00c98ee5cdb3c512ba0d92a48d441006", null ]
 ];

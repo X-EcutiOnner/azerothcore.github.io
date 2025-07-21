@@ -1,14 +1,14 @@
 var a03353 =
 [
-    [ "boss_thaddius", "d0/d2e/a19154.html", "d0/d2e/a19154" ],
-    [ "boss_thaddius::boss_thaddiusAI", "dc/d85/a19158.html", "dc/d85/a19158" ],
-    [ "boss_thaddius_summon", "d4/d2d/a19162.html", "d4/d2d/a19162" ],
-    [ "boss_thaddius_summon::boss_thaddius_summonAI", "dd/d80/a19166.html", "dd/d80/a19166" ],
-    [ "spell_thaddius_pos_neg_charge", "d7/d5b/a19170.html", "d7/d5b/a19170" ],
-    [ "spell_thaddius_polarity_shift", "d0/d2e/a19174.html", "d0/d2e/a19174" ],
-    [ "npc_tesla", "d7/de0/a19178.html", "d7/de0/a19178" ],
-    [ "npc_tesla::npc_teslaAI", "df/dd4/a19182.html", "df/dd4/a19182" ],
-    [ "at_thaddius_entrance", "d5/d37/a19186.html", "d5/d37/a19186" ],
+    [ "boss_thaddius", "dc/d85/a19158.html", "dc/d85/a19158" ],
+    [ "boss_thaddius::boss_thaddiusAI", "d4/d2d/a19162.html", "d4/d2d/a19162" ],
+    [ "boss_thaddius_summon", "dd/d80/a19166.html", "dd/d80/a19166" ],
+    [ "boss_thaddius_summon::boss_thaddius_summonAI", "d7/d5b/a19170.html", "d7/d5b/a19170" ],
+    [ "spell_thaddius_pos_neg_charge", "d0/d2e/a19174.html", "d0/d2e/a19174" ],
+    [ "spell_thaddius_polarity_shift", "d7/de0/a19178.html", "d7/de0/a19178" ],
+    [ "npc_tesla", "df/dd4/a19182.html", "df/dd4/a19182" ],
+    [ "npc_tesla::npc_teslaAI", "d5/d37/a19186.html", "d5/d37/a19186" ],
+    [ "at_thaddius_entrance", "d8/d3f/a19190.html", "d8/d3f/a19190" ],
     [ "Events", "d1/d3a/a03353.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_CHARGE_TARGET", "d8/d3a/a04439.html#af60e00b78607064c5be6aa9397ea49c1ae9b5b6a7dd72b493b6874d7408585a02", null ],
       [ "EVENT_CLEAVE", "d8/d3a/a04439.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a", null ],

@@ -1,9 +1,8 @@
 var a14502 =
 [
-    [ "HandlePeriodic", "d0/d1c/a14502.html#ae5f611f0643cdfc3d403cee89667b0f6", null ],
-    [ "Load", "d0/d1c/a14502.html#aa90cfb5fdb96e8670fa35dd3c16350c0", null ],
-    [ "PrepareAuraScript", "d0/d1c/a14502.html#afeb65196cbafc813bb02eb3907e59fc2", null ],
-    [ "Register", "d0/d1c/a14502.html#ac331de3219ae7da9e35e962011540bdf", null ],
-    [ "Validate", "d0/d1c/a14502.html#a7de36e3ee777b02ab6fc4671e4e9f5ab", null ],
-    [ "_buffGiven", "d0/d1c/a14502.html#aec2476ad5e046213b90af04ad91f0230", null ]
+    [ "CheckCast", "d0/d1c/a14502.html#a1e63e7798ab5e55415eb0277f3160fa3", null ],
+    [ "HandleDummy", "d0/d1c/a14502.html#ad39da0510c21855dd74abd93f33621c9", null ],
+    [ "PrepareSpellScript", "d0/d1c/a14502.html#a727093fec8cc8422cbbaa79d821338c8", null ],
+    [ "Register", "d0/d1c/a14502.html#a8cc68fadf4ae20a9de24c75d2f61301f", null ],
+    [ "Validate", "d0/d1c/a14502.html#aacd60538c8410fc313a09b1044ad6c7a", null ]
 ];

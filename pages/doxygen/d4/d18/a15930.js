@@ -1,7 +1,6 @@
 var a15930 =
 [
-    [ "instance_azjol_nerub_InstanceScript", "d4/d18/a15930.html#a886ed4c1485fdedcc176341210eee31a", null ],
-    [ "OnCreatureCreate", "d4/d18/a15930.html#a7a99d985a4b465ae87c04211a7a83a77", null ],
-    [ "OnGameObjectCreate", "d4/d18/a15930.html#a1ef3dc88400345998d03f3c993b9a181", null ],
-    [ "OnGameObjectRemove", "d4/d18/a15930.html#a3a2776b83272d81de9ddcb0c90ac881c", null ]
+    [ "instance_azjol_nerub_InstanceScript", "dc/d0b/a15934.html", "dc/d0b/a15934" ],
+    [ "instance_azjol_nerub", "d4/d18/a15930.html#a61476a0d15136d2bdb3a65eca72963da", null ],
+    [ "GetInstanceScript", "d4/d18/a15930.html#a8bb8477669c6369afe508a400bd4d489", null ]
 ];

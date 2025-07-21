@@ -1,6 +1,6 @@
 var a18994 =
 [
-    [ "boss_gothikAI", "df/d54/a18998.html", "df/d54/a18998" ],
-    [ "boss_gothik", "dd/d36/a18994.html#a0c3ee990a1caf020e9a4be000f0b77e0", null ],
-    [ "GetAI", "dd/d36/a18994.html#aea7aec86c4132521fb7b9b6e87baf289", null ]
+    [ "NotOnSameSide", "dd/d36/a18994.html#ac3189b202a8c0ca4c8f52799ed54e284", null ],
+    [ "operator()", "dd/d36/a18994.html#a59ea48b9633049180ec62d3616fe4dea", null ],
+    [ "m_inLiveSide", "dd/d36/a18994.html#a77c1d18f54609a5f4da2e9c13f62293d", null ]
 ];

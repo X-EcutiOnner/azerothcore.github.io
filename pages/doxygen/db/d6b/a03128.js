@@ -1,7 +1,7 @@
 var a03128 =
 [
-    [ "boss_skarvald_the_constructor", "dd/d25/a21082.html", "dd/d25/a21082" ],
-    [ "boss_dalronn_the_controller", "d1/dc7/a21086.html", "d1/dc7/a21086" ],
+    [ "boss_skarvald_the_constructor", "d1/dc7/a21086.html", "d1/dc7/a21086" ],
+    [ "boss_dalronn_the_controller", "da/d80/a21090.html", "da/d80/a21090" ],
     [ "eEvents", "db/d6b/a03128.html#a1d3512b0adb171bd0db6aad2c9e70516", [
       [ "EVENT_NULL", "da/dc7/a03407.html#a1d3512b0adb171bd0db6aad2c9e70516afc8e2e36b7d0f732f5f52e0a94155c7a", null ],
       [ "EVENT_CHECK_PLAYERS", "da/dc7/a03407.html#a1d3512b0adb171bd0db6aad2c9e70516a6c1847babeb1b838631eee5b2af3dc2b", null ],

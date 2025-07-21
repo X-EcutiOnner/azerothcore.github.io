@@ -1,6 +1,7 @@
 var a18950 =
 [
-    [ "boss_anubrekhanAI", "df/d3f/a18954.html", "df/d3f/a18954" ],
-    [ "boss_anubrekhan", "d9/d28/a18950.html#a6ff866300f8b0b58d4b7467def9747c0", null ],
-    [ "GetAI", "d9/d28/a18950.html#aba5c31f182d6f600302f84ed21e9f7e9", null ]
+    [ "HandleScript", "d9/d28/a18950.html#a2e5311b631a4cbf6002e27e4a806280c", null ],
+    [ "Launch", "d9/d28/a18950.html#a575a7bf98b629dd91e7ca96e388eb8fd", null ],
+    [ "PrepareSpellScript", "d9/d28/a18950.html#ad65642fd7e8b7793f69d041d458fa33f", null ],
+    [ "Register", "d9/d28/a18950.html#aa8800d8fc050f2914d63c24e555aad4b", null ]
 ];

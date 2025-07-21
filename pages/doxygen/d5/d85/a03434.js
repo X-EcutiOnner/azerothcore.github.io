@@ -1,8 +1,8 @@
 var a03434 =
 [
-    [ "ChargeRifts", "d9/d1e/a19298.html", "d9/d1e/a19298" ],
-    [ "boss_anomalus", "dd/d8e/a19302.html", "dd/d8e/a19302" ],
-    [ "achievement_chaos_theory", "de/d1b/a19306.html", "de/d1b/a19306" ],
+    [ "ChargeRifts", "dd/d8e/a19302.html", "dd/d8e/a19302" ],
+    [ "boss_anomalus", "de/d1b/a19306.html", "de/d1b/a19306" ],
+    [ "achievement_chaos_theory", "d0/de0/a19310.html", "d0/de0/a19310" ],
     [ "Events", "d5/d85/a03434.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_CHARGE_TARGET", "d8/d3a/a04439.html#af60e00b78607064c5be6aa9397ea49c1ae9b5b6a7dd72b493b6874d7408585a02", null ],
       [ "EVENT_CLEAVE", "d8/d3a/a04439.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a", null ],

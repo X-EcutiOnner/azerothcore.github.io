@@ -1,6 +1,6 @@
 var a16810 =
 [
-    [ "instance_forge_of_souls_InstanceScript", "df/d64/a16814.html", "df/d64/a16814" ],
-    [ "instance_forge_of_souls", "d6/d63/a16810.html#a504896f6e191c87ce77231c4ef267b27", null ],
-    [ "GetInstanceScript", "d6/d63/a16810.html#a64982b527cfa6057315b8e628549480b", null ]
+    [ "entry", "d6/d63/a16810.html#a80e1510436336f4ed17748a06b27178d", null ],
+    [ "pathId", "d6/d63/a16810.html#a0b7e499d633e11b314852fb1154ea8e6", null ],
+    [ "startPosition", "d6/d63/a16810.html#ac8c0dd74d76778aa2f5948b5c8c5ada4", null ]
 ];

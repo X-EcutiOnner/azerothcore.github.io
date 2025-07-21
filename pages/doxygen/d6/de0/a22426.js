@@ -1,6 +1,5 @@
 var a22426 =
 [
-    [ "npc_overlord_drakuru_betrayalAI", "da/dc5/a22430.html", "da/dc5/a22430" ],
-    [ "npc_overlord_drakuru_betrayal", "d6/de0/a22426.html#af4092356ea86c25d91c73af1310c2eb0", null ],
-    [ "GetAI", "d6/de0/a22426.html#a3bd893f08212dc94a321beb7a95eea08", null ]
+    [ "go_finklestein_cauldron", "d6/de0/a22426.html#a8aa352319c54526069588dacd75ab883", null ],
+    [ "OnGossipHello", "d6/de0/a22426.html#aa04f55e8a6cc21cf4a1e4cdc35c6a1ae", null ]
 ];

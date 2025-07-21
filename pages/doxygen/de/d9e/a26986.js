@@ -1,5 +1,6 @@
 var a26986 =
 [
-    [ "achievement_save_the_day", "de/d9e/a26986.html#a193e4060b6634a87b499b7c8a5e287a1", null ],
-    [ "OnCheck", "de/d9e/a26986.html#a95cfea6cd9ff955ba6800ebdf3a30eb7", null ]
+    [ "HandleOnHit", "de/d9e/a26986.html#a32a6f464057fbfb3bbffe0e10d1d4141", null ],
+    [ "PrepareSpellScript", "de/d9e/a26986.html#adfa4da76e8c2486fbcc2b3bea0f50005", null ],
+    [ "Register", "de/d9e/a26986.html#a1742dc0c039f7f981cae8114ff9ae59a", null ]
 ];

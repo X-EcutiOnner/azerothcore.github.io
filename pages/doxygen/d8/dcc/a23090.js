@@ -1,6 +1,5 @@
 var a23090 =
 [
-    [ "boss_doomlordkazzakAI", "db/ddf/a23094.html", "db/ddf/a23094" ],
-    [ "boss_doomlord_kazzak", "d8/dcc/a23090.html#ae4e4844d584ba71ebd3d8a341ba91462", null ],
-    [ "GetAI", "d8/dcc/a23090.html#a460a32ce37aae852b48f1990406da9a4", null ]
+    [ "PrepareSpellScript", "d8/dcc/a23090.html#a0482d714ce0b4cfd81b2fc7fa8c87f0d", null ],
+    [ "Register", "d8/dcc/a23090.html#a7aa83bfd512ee0ff839f61bafe6dd27b", null ]
 ];

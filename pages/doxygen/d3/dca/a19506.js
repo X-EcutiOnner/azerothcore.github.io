@@ -1,11 +1,6 @@
 var a19506 =
 [
-    [ "npc_spark_of_ionarAI", "d3/dca/a19506.html#a738ceaa68f13c084fedee2add6fba99e", null ],
-    [ "AttackStart", "d3/dca/a19506.html#a7616d68c090aece19389b4c4842e30a3", null ],
-    [ "DamageTaken", "d3/dca/a19506.html#a42466b7c6af30727b8872bd2ddfddb6f", null ],
-    [ "DoAction", "d3/dca/a19506.html#a995efdb87fdd72eccfdce11d2af0201b", null ],
-    [ "MoveInLineOfSight", "d3/dca/a19506.html#ac87193fba7975147731ca3c92946c308", null ],
-    [ "Reset", "d3/dca/a19506.html#a4b4511ac7258c1182e428bddb2db6519", null ],
-    [ "UpdateAI", "d3/dca/a19506.html#ae4e881e4e66e49c124c0cf540e1d59b7", null ],
-    [ "returning", "d3/dca/a19506.html#a5f6ef34741a6d726c3fecd66d768bd67", null ]
+    [ "npc_spark_of_ionarAI", "df/d00/a19510.html", "df/d00/a19510" ],
+    [ "npc_spark_of_ionar", "d3/dca/a19506.html#a63578a0d77331849b7a48272870af04d", null ],
+    [ "GetAI", "d3/dca/a19506.html#aa1e524327b76ddc11a32e7a094e39dd1", null ]
 ];

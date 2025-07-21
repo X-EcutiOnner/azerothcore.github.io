@@ -1,6 +1,10 @@
 var a27562 =
 [
-    [ "npc_injured_patientAI", "d0/d09/a27566.html", "d0/d09/a27566" ],
-    [ "npc_injured_patient", "d9/d31/a27562.html#a0b7ef214aa1b20df088dee0976c73783", null ],
-    [ "GetAI", "d9/d31/a27562.html#a0c042bb81e684f903d28d7879af99d4a", null ]
+    [ "npc_dancing_flamesAI", "d9/d31/a27562.html#a3d597b2ee826c86b5a8feb3aa144a459", null ],
+    [ "JustEngagedWith", "d9/d31/a27562.html#ae0d71d4f9074c05ea76951ede6c7702a", null ],
+    [ "ReceiveEmote", "d9/d31/a27562.html#a13aae489e8b03121c8fbae12e83bdfaa", null ],
+    [ "Reset", "d9/d31/a27562.html#a53b49dadc70e3e134ca49cd239b569d6", null ],
+    [ "UpdateAI", "d9/d31/a27562.html#a555f2ed0d762c5c183ec87580bae46b1", null ],
+    [ "Active", "d9/d31/a27562.html#aa79036bed206327847bf5ad2e768e8f6", null ],
+    [ "CanIteract", "d9/d31/a27562.html#a866bfc106fc33433b4eb13fabd9c39c6", null ]
 ];

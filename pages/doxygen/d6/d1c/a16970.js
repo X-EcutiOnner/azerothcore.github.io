@@ -1,6 +1,7 @@
 var a16970 =
 [
-    [ "instance_halls_of_reflection_InstanceMapScript", "d3/d8c/a16974.html", "d3/d8c/a16974" ],
-    [ "instance_halls_of_reflection", "d6/d1c/a16970.html#a8872b51ceec25dbf4831f45b27206ed1", null ],
-    [ "GetInstanceScript", "d6/d1c/a16970.html#aca27a4f654f41fe6f238c905b48285b7", null ]
+    [ "UtherBatteredHiltEvent", "d6/d1c/a16970.html#a7bb34b75a3e371260a231aea72f75b40", null ],
+    [ "Execute", "d6/d1c/a16970.html#ad2eb37877155b6dbc9916338e30d0306", null ],
+    [ "_eventId", "d6/d1c/a16970.html#a5045e057b2c5d468aa579751d2c799b8", null ],
+    [ "_owner", "d6/d1c/a16970.html#a588974708f4a48f5a7b097a63a0c0899", null ]
 ];

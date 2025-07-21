@@ -1,6 +1,7 @@
 var a28834 =
 [
-    [ "height", "d9/d32/a28834.html#a7638f586a055c48a46e36471543ff72f", null ],
-    [ "unk1", "d9/d32/a28834.html#a6c08b6fa33e12a9900218d0d0b8b78d5", null ],
-    [ "unk2", "d9/d32/a28834.html#a394a04f6e985824aa259a42b11b97136", null ]
+    [ "Paths", "d9/d32/a28834.html#aff167c694a55441bcf5504f5d1933f41", null ],
+    [ "References", "d9/d32/a28834.html#a07f0d7daa9cd934768b8a603dc52bea3", null ],
+    [ "Sets", "d9/d32/a28834.html#a43774f8dd70e85e16aa8d49b5c6a25b6", null ],
+    [ "Spawns", "d9/d32/a28834.html#a51f24c059516683f0744b81819186c0e", null ]
 ];

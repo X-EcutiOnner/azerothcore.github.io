@@ -1,6 +1,6 @@
 var a16170 =
 [
-    [ "npc_living_infernoAI", "d8/deb/a16174.html", "d8/deb/a16174" ],
-    [ "npc_living_inferno", "d7/d9a/a16170.html#a7df2bb522e67b6f1864604c7b0182078", null ],
-    [ "GetAI", "d7/d9a/a16170.html#a53f0bbd0a502374664cfa54140f4b8c0", null ]
+    [ "HandleHealPct", "d7/d9a/a16170.html#ad13b3924815ac3da7902c8292a760943", null ],
+    [ "PrepareSpellScript", "d7/d9a/a16170.html#aeea718bce7dd5aa4ac33bbd1a95a65c0", null ],
+    [ "Register", "d7/d9a/a16170.html#a3016c31c072d6417bbe47c2891059718", null ]
 ];

@@ -1,7 +1,7 @@
 var a03320 =
 [
-    [ "boss_noth", "d4/d8e/a19110.html", "d4/d8e/a19110" ],
-    [ "boss_noth::boss_nothAI", "d9/d93/a19114.html", "d9/d93/a19114" ],
+    [ "boss_noth", "d9/d93/a19114.html", "d9/d93/a19114" ],
+    [ "boss_noth::boss_nothAI", "d5/df3/a19118.html", "d5/df3/a19118" ],
     [ "Events", "db/d69/a03320.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_CHARGE_TARGET", "d8/d3a/a04439.html#af60e00b78607064c5be6aa9397ea49c1ae9b5b6a7dd72b493b6874d7408585a02", null ],
       [ "EVENT_CLEAVE", "d8/d3a/a04439.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a", null ],

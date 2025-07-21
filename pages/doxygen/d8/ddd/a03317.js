@@ -1,11 +1,11 @@
 var a03317 =
 [
-    [ "boss_kelthuzad", "dd/df9/a19054.html", "dd/df9/a19054" ],
-    [ "boss_kelthuzad::boss_kelthuzadAI", "da/d51/a19058.html", "da/d51/a19058" ],
-    [ "boss_kelthuzad_minion", "d7/d3e/a19062.html", "d7/d3e/a19062" ],
-    [ "boss_kelthuzad_minion::boss_kelthuzad_minionAI", "db/d43/a19066.html", "db/d43/a19066" ],
-    [ "spell_kelthuzad_frost_blast", "da/d75/a19070.html", "da/d75/a19070" ],
-    [ "spell_kelthuzad_detonate_mana_aura", "d9/dc5/a19074.html", "d9/dc5/a19074" ],
+    [ "boss_kelthuzad", "da/d51/a19058.html", "da/d51/a19058" ],
+    [ "boss_kelthuzad::boss_kelthuzadAI", "d7/d3e/a19062.html", "d7/d3e/a19062" ],
+    [ "boss_kelthuzad_minion", "db/d43/a19066.html", "db/d43/a19066" ],
+    [ "boss_kelthuzad_minion::boss_kelthuzad_minionAI", "da/d75/a19070.html", "da/d75/a19070" ],
+    [ "spell_kelthuzad_frost_blast", "d9/dc5/a19074.html", "d9/dc5/a19074" ],
+    [ "spell_kelthuzad_detonate_mana_aura", "df/d7e/a19078.html", "df/d7e/a19078" ],
     [ "Event", "d8/ddd/a03317.html#a5667b805d857c6d28f83f6038a0272d3", [
       [ "EVENT_PRINCE_FLAME_SPHERES", "d1/d45/a03191.html#a5667b805d857c6d28f83f6038a0272d3ac75217cdc9211ecb0d7b12a746992a02", null ],
       [ "EVENT_PRINCE_VANISH", "d1/d45/a03191.html#a5667b805d857c6d28f83f6038a0272d3a5f8f1abc7fd87278ac373b38b7ca5088", null ],

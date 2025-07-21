@@ -1,6 +1,7 @@
 var a23434 =
 [
-    [ "instance_the_underbog_InstanceMapScript", "d1/d87/a23438.html", "d1/d87/a23438" ],
-    [ "instance_the_underbog", "d2/dff/a23434.html#afaf8740a3e367a1a54eaa3e76ffa483e", null ],
-    [ "GetInstanceScript", "d2/dff/a23434.html#ace939fb7fd89e7c9c84c17d3ca31208b", null ]
+    [ "HandleScript", "d2/dff/a23434.html#a42052a416290a54d5479a402de578a73", null ],
+    [ "PrepareSpellScript", "d2/dff/a23434.html#a5f6aa972879b65c0207e47435d436a33", null ],
+    [ "Register", "d2/dff/a23434.html#a98efb2a9a68d7878af9d6f9d46db88c9", null ],
+    [ "Validate", "d2/dff/a23434.html#a0d10ed00f11ede2b63665e4cfe53a70c", null ]
 ];

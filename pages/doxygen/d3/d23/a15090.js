@@ -1,9 +1,13 @@
 var a15090 =
 [
-    [ "npc_eye_tentacle", "d3/d23/a15090.html#a106deeb95d74597377d32e81695dc3c9", null ],
-    [ "JustDied", "d3/d23/a15090.html#aac965d97034f4f623172297e4f82647e", null ],
-    [ "JustEngagedWith", "d3/d23/a15090.html#a5f89f08634eeb79f0f9ac726cdf1841b", null ],
-    [ "Reset", "d3/d23/a15090.html#a715439dfa31b4cf9df7ddd678d912108", null ],
-    [ "UpdateAI", "d3/d23/a15090.html#a48f9067f27d61e609a014669c1daedb9", null ],
-    [ "_portalGUID", "d3/d23/a15090.html#aeaa4ec0553480b9490d5e52820c2b77f", null ]
+    [ "boss_cthun", "d3/d23/a15090.html#a287ee7b65708971e4fdfa7b814486935", null ],
+    [ "DoAction", "d3/d23/a15090.html#a04ae38b67d358f1d34820b855aab3869", null ],
+    [ "JustDied", "d3/d23/a15090.html#a3c6478e7de0e5a6f20f693a788bf8c86", null ],
+    [ "JustEngagedWith", "d3/d23/a15090.html#a56fe3347ac41b67fb6912f372a5879ba", null ],
+    [ "Reset", "d3/d23/a15090.html#a05bab8427cd4b4bfa50aee450e423f98", null ],
+    [ "ScheduleTasks", "d3/d23/a15090.html#a5a0514e56217bb3b30b22b2681542adb", null ],
+    [ "SummonedCreatureDies", "d3/d23/a15090.html#a49d76bb4cf30ee66fae6114313394961", null ],
+    [ "UpdateAI", "d3/d23/a15090.html#a7d2685597f1eec2459fe509e5b97681f", null ],
+    [ "_fleshTentaclesKilled", "d3/d23/a15090.html#a139de83ae488c40d40a4587509cd197d", null ],
+    [ "WisperTimer", "d3/d23/a15090.html#abad23f1df9c6989e7a6d3d62143adb05", null ]
 ];

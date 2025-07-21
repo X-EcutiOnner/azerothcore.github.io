@@ -692,7 +692,7 @@ Private Attributes</h2></td></tr>
 <div class="ttc" id="aa00014_html_a0bf9964a3ce962c07ad3d8b5432bbbcd"><div class="ttname"><a href="../../d2/de7/a00014.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a></div><div class="ttdeci">std::int32_t int32</div><div class="ttdef"><b>Definition:</b> Define.h:103</div></div>
 <div class="ttc" id="aa00014_html_a15a8d014fadf85c99a2268d8cbd00767"><div class="ttname"><a href="../../d2/de7/a00014.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></div><div class="ttdeci">std::uint8_t uint8</div><div class="ttdef"><b>Definition:</b> Define.h:109</div></div>
 <div class="ttc" id="aa00014_html_ad9c79638db63f1dfe2b085743b5cbf7b"><div class="ttname"><a href="../../d2/de7/a00014.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a></div><div class="ttdeci">std::uint16_t uint16</div><div class="ttdef"><b>Definition:</b> Define.h:108</div></div>
-<div class="ttc" id="aa00056_html_a43832e3fa8508deb4ce43e520005fcd9"><div class="ttname"><a href="../../d9/d2e/a00056.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a></div><div class="ttdeci">#define LOG_ERROR(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:157</div></div>
+<div class="ttc" id="aa00056_html_a43832e3fa8508deb4ce43e520005fcd9"><div class="ttname"><a href="../../d9/d2e/a00056.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a></div><div class="ttdeci">#define LOG_ERROR(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:158</div></div>
 <div class="ttc" id="aa04553_html_afa9a6509f9913c9c7dd3081523badd7c"><div class="ttname"><a href="../../d3/d56/a04553.html#afa9a6509f9913c9c7dd3081523badd7c">WorldDatabase</a></div><div class="ttdeci">DatabaseWorkerPool&lt; WorldDatabaseConnection &gt; WorldDatabase</div><div class="ttdoc">Accessor to the world database.</div><div class="ttdef"><b>Definition:</b> DatabaseEnv.cpp:20</div></div>
 <div class="ttc" id="aa04631_html_ab0c9feeec448a181290fcb39565b8253"><div class="ttname"><a href="../../de/d65/a04631.html#ab0c9feeec448a181290fcb39565b8253">QueryResult</a></div><div class="ttdeci">std::shared_ptr&lt; ResultSet &gt; QueryResult</div><div class="ttdef"><b>Definition:</b> DatabaseEnvFwd.h:27</div></div>
 <div class="ttc" id="aa05710_html"><div class="ttname"><a href="../../d4/d00/a05710.html">Field</a></div><div class="ttdoc">Class used to access individual fields of database query result.</div><div class="ttdef"><b>Definition:</b> Field.h:98</div></div>
@@ -703,7 +703,7 @@ Private Attributes</h2></td></tr>
 <div class="ttc" id="aa09690_html_afd0762a7391f530009b44bf6b4a3a3be"><div class="ttname"><a href="../../d3/d01/a09690.html#afd0762a7391f530009b44bf6b4a3a3be">LootStore::Verify</a></div><div class="ttdeci">void Verify() const</div><div class="ttdef"><b>Definition:</b> LootMgr.cpp:135</div></div>
 <div class="ttc" id="aa09694_html"><div class="ttname"><a href="../../d5/d81/a09694.html">LootTemplate</a></div><div class="ttdef"><b>Definition:</b> LootMgr.h:245</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00126">Clear()</a>, <a class="el" href="../../#l00112">Field::Get()</a>, <a class="el" href="../../#l00231">GetName()</a>, <a class="el" href="../../#l00333">LootStoreItem::IsValid()</a>, <a class="el" href="../../#l00157">LOG_ERROR</a>, <a class="el" href="../../#l00238">m_LootTemplates</a>, <a class="el" href="../../#l00135">Verify()</a>, and <a class="el" href="../../#l00020">WorldDatabase</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00126">Clear()</a>, <a class="el" href="../../#l00112">Field::Get()</a>, <a class="el" href="../../#l00231">GetName()</a>, <a class="el" href="../../#l00333">LootStoreItem::IsValid()</a>, <a class="el" href="../../#l00158">LOG_ERROR</a>, <a class="el" href="../../#l00238">m_LootTemplates</a>, <a class="el" href="../../#l00135">Verify()</a>, and <a class="el" href="../../#l00020">WorldDatabase</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00267">LoadAndCollectLootIds()</a>.</p>
 
@@ -762,7 +762,7 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  302</span>    <a class="code hl_define" href="../../d9/d2e/a00056.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;sql.sql&quot;</span>, <span class="stringliteral">&quot;Table &#39;{}&#39; Entry {} used by {} entry {} item {} has minCount ( {} ) != maxCount ( {} ) which is not supported for this loot type.&quot;</span>, <a class="code hl_function" href="../../d3/d01/a09690.html#acecb88522c97b74f87e0ed40fa009a04">GetName</a>(), lootId, ownerType, ownerId, itemId, minCount, maxCount);</div>
 <div class="line"><span class="lineno">  303</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00231">GetName()</a>, and <a class="el" href="../../#l00157">LOG_ERROR</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00231">GetName()</a>, and <a class="el" href="../../#l00158">LOG_ERROR</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l01511">LootTemplate::LootGroup::CheckLootRefs()</a>, and <a class="el" href="../../#l01871">LootTemplate::CheckLootRefs()</a>.</p>
 
@@ -787,7 +787,7 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  292</span>    <a class="code hl_define" href="../../d9/d2e/a00056.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;sql.sql&quot;</span>, <span class="stringliteral">&quot;Table &#39;{}&#39; Entry {} does not exist&quot;</span>, <a class="code hl_function" href="../../d3/d01/a09690.html#acecb88522c97b74f87e0ed40fa009a04">GetName</a>(), lootId);</div>
 <div class="line"><span class="lineno">  293</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00231">GetName()</a>, and <a class="el" href="../../#l00157">LOG_ERROR</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00231">GetName()</a>, and <a class="el" href="../../#l00158">LOG_ERROR</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l01511">LootTemplate::LootGroup::CheckLootRefs()</a>, <a class="el" href="../../#l01871">LootTemplate::CheckLootRefs()</a>, <a class="el" href="../../#l01964">LoadLootTemplates_Creature()</a>, <a class="el" href="../../#l02000">LoadLootTemplates_Disenchant()</a>, <a class="el" href="../../#l02060">LoadLootTemplates_Gameobject()</a>, <a class="el" href="../../#l02153">LoadLootTemplates_Pickpocketing()</a>, <a class="el" href="../../#l02246">LoadLootTemplates_Skinning()</a>, and <a class="el" href="../../#l02282">LoadLootTemplates_Spell()</a>.</p>
 
@@ -828,7 +828,7 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  297</span>    <a class="code hl_define" href="../../d9/d2e/a00056.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;sql.sql&quot;</span>, <span class="stringliteral">&quot;Table &#39;{}&#39; Entry {} does not exist but it is used by {} {}&quot;</span>, <a class="code hl_function" href="../../d3/d01/a09690.html#acecb88522c97b74f87e0ed40fa009a04">GetName</a>(), lootId, ownerType, ownerId);</div>
 <div class="line"><span class="lineno">  298</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00231">GetName()</a>, and <a class="el" href="../../#l00157">LOG_ERROR</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00231">GetName()</a>, and <a class="el" href="../../#l00158">LOG_ERROR</a>.</p>
 
 </div>
 </div>
@@ -854,7 +854,7 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  288</span>}</div>
 <div class="ttc" id="aa09690_html_a6adbdbba33f3c6d55d02f8f94de2e3ab"><div class="ttname"><a href="../../d3/d01/a09690.html#a6adbdbba33f3c6d55d02f8f94de2e3ab">LootStore::GetEntryName</a></div><div class="ttdeci">char const * GetEntryName() const</div><div class="ttdef"><b>Definition:</b> LootMgr.h:232</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00232">GetEntryName()</a>, <a class="el" href="../../#l00231">GetName()</a>, and <a class="el" href="../../#l00157">LOG_ERROR</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00232">GetEntryName()</a>, <a class="el" href="../../#l00231">GetName()</a>, and <a class="el" href="../../#l00158">LOG_ERROR</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l01964">LoadLootTemplates_Creature()</a>, <a class="el" href="../../#l02000">LoadLootTemplates_Disenchant()</a>, <a class="el" href="../../#l02034">LoadLootTemplates_Fishing()</a>, <a class="el" href="../../#l02060">LoadLootTemplates_Gameobject()</a>, <a class="el" href="../../#l02096">LoadLootTemplates_Item()</a>, <a class="el" href="../../#l02220">LoadLootTemplates_Mail()</a>, <a class="el" href="../../#l02122">LoadLootTemplates_Milling()</a>, <a class="el" href="../../#l02153">LoadLootTemplates_Pickpocketing()</a>, <a class="el" href="../../#l02189">LoadLootTemplates_Prospecting()</a>, <a class="el" href="../../#l02346">LoadLootTemplates_Reference()</a>, <a class="el" href="../../#l02246">LoadLootTemplates_Skinning()</a>, and <a class="el" href="../../#l02282">LoadLootTemplates_Spell()</a>.</p>
 
@@ -1017,7 +1017,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d3/d01/a09690.html">LootStore</a></li>
-    <li class="footer">Generated on Mon Jul 14 2025 20:50:05 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Jul 21 2025 20:50:45 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

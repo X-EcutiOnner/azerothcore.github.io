@@ -1,6 +1,8 @@
 var a15254 =
 [
-    [ "HandleDummy", "db/d8c/a15254.html#a09b21b3e5357c49d85ef01d9a5d4694f", null ],
-    [ "PrepareSpellScript", "db/d8c/a15254.html#ac221d3d128265d78acc72d41ebf0fd8a", null ],
-    [ "Register", "db/d8c/a15254.html#a67be525bc07ef7091d9b8148c1a01fb9", null ]
+    [ "npc_ahnqiraji_critter", "db/d8c/a15254.html#a60e2dc1c52579a410d3435126bf39684", null ],
+    [ "JustDied", "db/d8c/a15254.html#a71d3d5262bde847a18932fea89cb6648", null ],
+    [ "JustEngagedWith", "db/d8c/a15254.html#aca1df706306f9181db26cd77e5b66452", null ],
+    [ "Reset", "db/d8c/a15254.html#a645e16e9da29f6579320394201d0ada7", null ],
+    [ "UpdateAI", "db/d8c/a15254.html#a68c5ded8563c2de9429a13cdb7d38f89", null ]
 ];

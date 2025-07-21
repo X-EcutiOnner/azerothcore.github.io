@@ -1,6 +1,12 @@
 var a19890 =
 [
-    [ "npc_hodirs_furyAI", "d8/d89/a19894.html", "d8/d89/a19894" ],
-    [ "npc_hodirs_fury", "db/dee/a19890.html#af5e0f1cb4c478bd4fc9ec246aa7d7e08", null ],
-    [ "GetAI", "db/dee/a19890.html#ad8856a6da86a8f4ce744d57614ee16e6", null ]
+    [ "npc_freya_wardAI", "db/dee/a19890.html#afbc2f3d88173e240b87915cf0520b3cf", null ],
+    [ "DoAction", "db/dee/a19890.html#a4c9418b5474eb572a76168d4a460159a", null ],
+    [ "JustSummoned", "db/dee/a19890.html#a9075d763014ca50b4e0d2c815e1c23b7", null ],
+    [ "Reset", "db/dee/a19890.html#a65d304edd3b00b4a45c58bf36b926900", null ],
+    [ "SummonedCreatureDespawn", "db/dee/a19890.html#a6273b024ebde2fb36ed79eb122f7ac68", null ],
+    [ "UpdateAI", "db/dee/a19890.html#a11dd073b70e5126f580ec5122dce7bbd", null ],
+    [ "_castTimer", "db/dee/a19890.html#a6308aadc8ebf41cf045b04ac58e2244b", null ],
+    [ "_summoned", "db/dee/a19890.html#a5df6604055c5f3936a95f8d0ca5be8c1", null ],
+    [ "summons", "db/dee/a19890.html#a82932e9f2d570fa6d8394bfd3954c41e", null ]
 ];

@@ -1,6 +1,6 @@
 var a25962 =
 [
-    [ "HandleDummy", "de/daf/a25962.html#a4fde3142b38989cb37db76da6eada03c", null ],
-    [ "PrepareSpellScript", "de/daf/a25962.html#aa694a1a7cbbe0f20226d7e616e19cefb", null ],
-    [ "Register", "de/daf/a25962.html#a1f83fae2fb3dc0904ed56101e1254f5f", null ]
+    [ "CheckProc", "de/daf/a25962.html#aa8a8c89cf55ab6796a81671d0312a481", null ],
+    [ "PrepareAuraScript", "de/daf/a25962.html#a9c88f86a4edafda286725008ecfeab6c", null ],
+    [ "Register", "de/daf/a25962.html#ad75f33c72dff282e4a8976c92e0b4e76", null ]
 ];

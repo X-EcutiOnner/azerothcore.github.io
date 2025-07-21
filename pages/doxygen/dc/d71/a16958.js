@@ -1,5 +1,7 @@
 var a16958 =
 [
-    [ "at_hor_battered_hilt_start", "dc/d71/a16958.html#a1b9e6d892525cf28d71757f7861e1d1a", null ],
-    [ "OnTrigger", "dc/d71/a16958.html#a5d2d0a05b17dafe7ebb5447cfd168f69", null ]
+    [ "HandleEffectPeriodic", "dc/d71/a16958.html#aaefcf8ace7c109648c9220fb0ff9d4de", null ],
+    [ "PrepareAuraScript", "dc/d71/a16958.html#ae0ccb7d4566777e52b71e99a908d13fa", null ],
+    [ "Register", "dc/d71/a16958.html#a73e8ef9dbd3dd3dc332d4b3a2eb2c5ea", null ],
+    [ "Validate", "dc/d71/a16958.html#ab3fcbe5386e9529824228e8f3b6be797", null ]
 ];

@@ -1,6 +1,7 @@
 var a26742 =
 [
-    [ "HandleAuraApply", "d5/d3f/a26742.html#a19d8103126a6446fb5ade53d2b5d0ddb", null ],
-    [ "PrepareAuraScript", "d5/d3f/a26742.html#a7596065e5ffcacf099a5984f5d940c11", null ],
-    [ "Register", "d5/d3f/a26742.html#a8efa76b28dddad68fee132f37791f231", null ]
+    [ "HandleProc", "d5/d3f/a26742.html#a85df8d4086a980d2b0a441097a909143", null ],
+    [ "PrepareAuraScript", "d5/d3f/a26742.html#a4576f3d5af2d9265fa173f66d68ed512", null ],
+    [ "Register", "d5/d3f/a26742.html#ab5308a36bc3b878a2913a89a84051ad7", null ],
+    [ "Validate", "d5/d3f/a26742.html#a760a018b8410233e09065d94abeeb1ff", null ]
 ];

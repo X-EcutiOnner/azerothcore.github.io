@@ -1,6 +1,6 @@
 var a25074 =
 [
-    [ "CheckRequirement", "d4/d16/a25074.html#a8a1367ad6c51a74e7cefbc2440eab697", null ],
-    [ "PrepareSpellScript", "d4/d16/a25074.html#a859ac50e6774471c232113e5c007f602", null ],
-    [ "Register", "d4/d16/a25074.html#aceafb7d6cfa300011935026f4d7ac491", null ]
+    [ "CalculateAmount", "d4/d16/a25074.html#a66b009487462241e573ea23f081a140a", null ],
+    [ "PrepareAuraScript", "d4/d16/a25074.html#a0eee16c77a3c3cea882b67c78826a140", null ],
+    [ "Register", "d4/d16/a25074.html#afeafc6922b0a0389fec969e3c7191dda", null ]
 ];

@@ -1,6 +1,11 @@
 var a15790 =
 [
-    [ "HandleApply", "de/da2/a15790.html#aee4d5908035d06be2f1469a50db02e26", null ],
-    [ "PrepareAuraScript", "de/da2/a15790.html#ac8349deb2e9c8861194e80132bd72fc5", null ],
-    [ "Register", "de/da2/a15790.html#ac83962bef84b68cef6d7937769730598", null ]
+    [ "npc_amanitar_mushrooms", "de/da2/a15790.html#ad5603426c71c107ff439cea2efeea3f9", null ],
+    [ "AttackStart", "de/da2/a15790.html#a0cc90c924a12a8be32c78e76ca798943", null ],
+    [ "DamageTaken", "de/da2/a15790.html#a4c21a448535e1fc0f0116257194b9732", null ],
+    [ "EnterEvadeMode", "de/da2/a15790.html#ae17ee367c9d206868c7dfc64d438806a", null ],
+    [ "JustEngagedWith", "de/da2/a15790.html#ac50bf479e8c891af432cfccdf9d49c55", null ],
+    [ "Reset", "de/da2/a15790.html#ae597d5a64765f5304773f9a38e9c719a", null ],
+    [ "UpdateAI", "de/da2/a15790.html#ae71058353be43935aa45eb28eb41170f", null ],
+    [ "events", "de/da2/a15790.html#a0be93d15582a5511963721510652e76d", null ]
 ];

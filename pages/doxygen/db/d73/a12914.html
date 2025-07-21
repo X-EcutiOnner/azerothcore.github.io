@@ -208,7 +208,7 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  824</span>: <a class="code hl_class" href="../../d5/d5b/a10298.html">GameObjectScript</a>(<span class="stringliteral">&quot;go_acherus_soul_prison&quot;</span>) { }</div>
+<div class="fragment"><div class="line"><span class="lineno">  825</span>: <a class="code hl_class" href="../../d5/d5b/a10298.html">GameObjectScript</a>(<span class="stringliteral">&quot;go_acherus_soul_prison&quot;</span>) { }</div>
 <div class="ttc" id="aa10298_html"><div class="ttname"><a href="../../d5/d5b/a10298.html">GameObjectScript</a></div><div class="ttdef"><b>Definition:</b> GameObjectScript.h:25</div></div>
 </div><!-- fragment -->
 </div>
@@ -249,14 +249,14 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d5/d5b/a10298.html#a58b56fc92ae87aea0530eceba1f3088d">GameObjectScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  827</span>    {</div>
-<div class="line"><span class="lineno">  828</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d0/d36/a07986.html">Creature</a>* anchor = go-&gt;<a class="code hl_function" href="../../da/da3/a08394.html#aa7cc61d571dbc39ca8ac6ac10ffd18ab">FindNearestCreature</a>(29521, 15))</div>
-<div class="line"><span class="lineno">  829</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d6/d60/a08410.html">ObjectGuid</a> prisonerGUID = anchor-&gt;AI()-&gt;GetGUID())</div>
-<div class="line"><span class="lineno">  830</span>                <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d0/d36/a07986.html">Creature</a>* prisoner = <a class="code hl_function" href="../../da/d47/a04824.html#ae42e503fe79bbeaea1aaa665418c43f8">ObjectAccessor::GetCreature</a>(*player, prisonerGUID))</div>
-<div class="line"><span class="lineno">  831</span>                    <a class="code hl_define" href="../../dd/dc3/a02249.html#a0476b18cfebeb691aabb4344ec4f8af3">CAST_AI</a>(<a class="code hl_struct" href="../../d3/d2f/a12902.html">npc_unworthy_initiate::npc_unworthy_initiateAI</a>, prisoner-&gt;AI())-&gt;EventStart(anchor, player);</div>
-<div class="line"><span class="lineno">  832</span> </div>
-<div class="line"><span class="lineno">  833</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  834</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  828</span>    {</div>
+<div class="line"><span class="lineno">  829</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d0/d36/a07986.html">Creature</a>* anchor = go-&gt;<a class="code hl_function" href="../../da/da3/a08394.html#aa7cc61d571dbc39ca8ac6ac10ffd18ab">FindNearestCreature</a>(29521, 15))</div>
+<div class="line"><span class="lineno">  830</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d6/d60/a08410.html">ObjectGuid</a> prisonerGUID = anchor-&gt;AI()-&gt;GetGUID())</div>
+<div class="line"><span class="lineno">  831</span>                <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d0/d36/a07986.html">Creature</a>* prisoner = <a class="code hl_function" href="../../da/d47/a04824.html#ae42e503fe79bbeaea1aaa665418c43f8">ObjectAccessor::GetCreature</a>(*player, prisonerGUID))</div>
+<div class="line"><span class="lineno">  832</span>                    <a class="code hl_define" href="../../dd/dc3/a02249.html#a0476b18cfebeb691aabb4344ec4f8af3">CAST_AI</a>(<a class="code hl_struct" href="../../d3/d2f/a12902.html">npc_unworthy_initiate::npc_unworthy_initiateAI</a>, prisoner-&gt;AI())-&gt;EventStart(anchor, player);</div>
+<div class="line"><span class="lineno">  833</span> </div>
+<div class="line"><span class="lineno">  834</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  835</span>    }</div>
 <div class="ttc" id="aa02249_html_a0476b18cfebeb691aabb4344ec4f8af3"><div class="ttname"><a href="../../dd/dc3/a02249.html#a0476b18cfebeb691aabb4344ec4f8af3">CAST_AI</a></div><div class="ttdeci">#define CAST_AI(a, b)</div><div class="ttdef"><b>Definition:</b> UnitAI.h:26</div></div>
 <div class="ttc" id="aa04824_html_ae42e503fe79bbeaea1aaa665418c43f8"><div class="ttname"><a href="../../da/d47/a04824.html#ae42e503fe79bbeaea1aaa665418c43f8">ObjectAccessor::GetCreature</a></div><div class="ttdeci">Creature * GetCreature(WorldObject const &amp;u, ObjectGuid const guid)</div><div class="ttdef"><b>Definition:</b> ObjectAccessor.cpp:210</div></div>
 <div class="ttc" id="aa07986_html"><div class="ttname"><a href="../../d0/d36/a07986.html">Creature</a></div><div class="ttdef"><b>Definition:</b> Creature.h:43</div></div>
@@ -274,7 +274,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../db/d73/a12914.html">go_acherus_soul_prison</a></li>
-    <li class="footer">Generated on Mon Jul 14 2025 20:50:00 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Jul 21 2025 20:50:40 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

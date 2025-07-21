@@ -1,5 +1,6 @@
 var a23374 =
 [
-    [ "go_main_chambers_access_panel", "de/d23/a23374.html#a30c3c20be1892b5107ef53683d593b75", null ],
-    [ "OnGossipHello", "de/d23/a23374.html#af4b3a4a0260de68dcfac7202e0a728ee", null ]
+    [ "HandleAfterRemove", "de/d23/a23374.html#a74610b06095572aa2c898cd84e0fb229", null ],
+    [ "PrepareAuraScript", "de/d23/a23374.html#ac0d686490ff37810e0116dea4d0b6077", null ],
+    [ "Register", "de/d23/a23374.html#aad72f4aaa19f92f7a71241311f5d0582", null ]
 ];

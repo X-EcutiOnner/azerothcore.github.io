@@ -296,12 +296,12 @@ Static Public Attributes</h2></td></tr>
 <div class="line"><span class="lineno">   40</span>    <span class="keywordflow">return</span> payloadId;</div>
 <div class="line"><span class="lineno">   41</span>}</div>
 <div class="ttc" id="aa00014_html_ad9c79638db63f1dfe2b085743b5cbf7b"><div class="ttname"><a href="../../d2/de7/a00014.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a></div><div class="ttdeci">std::uint16_t uint16</div><div class="ttdef"><b>Definition:</b> Define.h:108</div></div>
-<div class="ttc" id="aa00056_html_a43832e3fa8508deb4ce43e520005fcd9"><div class="ttname"><a href="../../d9/d2e/a00056.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a></div><div class="ttdeci">#define LOG_ERROR(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:157</div></div>
+<div class="ttc" id="aa00056_html_a43832e3fa8508deb4ce43e520005fcd9"><div class="ttname"><a href="../../d9/d2e/a00056.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a></div><div class="ttdeci">#define LOG_ERROR(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:158</div></div>
 <div class="ttc" id="aa11506_html_a0a6537e719e9f8f4c371340d0d1b4db7"><div class="ttname"><a href="../../da/d63/a11506.html#a0a6537e719e9f8f4c371340d0d1b4db7">WardenPayloadMgr::WardenPayloadOffsetMax</a></div><div class="ttdeci">static uint16 constexpr WardenPayloadOffsetMax</div><div class="ttdoc">The maximum id available for custom payloads.</div><div class="ttdef"><b>Definition:</b> WardenPayloadMgr.h:120</div></div>
 <div class="ttc" id="aa11506_html_a65c6878274bc49b921714278d77eed56"><div class="ttname"><a href="../../da/d63/a11506.html#a65c6878274bc49b921714278d77eed56">WardenPayloadMgr::CachedChecks</a></div><div class="ttdeci">std::map&lt; uint16, WardenCheck &gt; CachedChecks</div><div class="ttdoc">The cached payloads that are accessed by payload id.</div><div class="ttdef"><b>Definition:</b> WardenPayloadMgr.h:135</div></div>
 <div class="ttc" id="aa11506_html_a9f7e5a100c56a6ee9a6bd39a792b9e44"><div class="ttname"><a href="../../da/d63/a11506.html#a9f7e5a100c56a6ee9a6bd39a792b9e44">WardenPayloadMgr::WardenPayloadOffsetMin</a></div><div class="ttdeci">static uint16 constexpr WardenPayloadOffsetMin</div><div class="ttdoc">The minimum id available for custom payloads.</div><div class="ttdef"><b>Definition:</b> WardenPayloadMgr.h:115</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00135">CachedChecks</a>, <a class="el" href="../../#l00157">LOG_ERROR</a>, <a class="el" href="../../#l00120">WardenPayloadOffsetMax</a>, and <a class="el" href="../../#l00115">WardenPayloadOffsetMin</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00135">CachedChecks</a>, <a class="el" href="../../#l00158">LOG_ERROR</a>, <a class="el" href="../../#l00120">WardenPayloadOffsetMax</a>, and <a class="el" href="../../#l00115">WardenPayloadOffsetMin</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00043">RegisterPayload()</a>.</p>
 
@@ -450,7 +450,7 @@ Static Public Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  126</span>    }</div>
 <div class="line"><span class="lineno">  127</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00135">CachedChecks</a>, <a class="el" href="../../#l00157">LOG_ERROR</a>, and <a class="el" href="../../#l00130">QueuedPayloads</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00135">CachedChecks</a>, <a class="el" href="../../#l00158">LOG_ERROR</a>, and <a class="el" href="../../#l00130">QueuedPayloads</a>.</p>
 
 </div>
 </div>
@@ -496,7 +496,7 @@ Static Public Attributes</h2></td></tr>
 <div class="ttc" id="aa11506_html_a698b2ab4709a495f299be18b053e4014"><div class="ttname"><a href="../../da/d63/a11506.html#a698b2ab4709a495f299be18b053e4014">WardenPayloadMgr::GetFreePayloadId</a></div><div class="ttdeci">uint16 GetFreePayloadId()</div><div class="ttdoc">Finds a free payload id in WardenPayloadMgr::CachedChecks.</div><div class="ttdef"><b>Definition:</b> WardenPayloadMgr.cpp:25</div></div>
 <div class="ttc" id="aa11506_html_ab3b7d9cbbb94eab430a0caff00448a4a"><div class="ttname"><a href="../../da/d63/a11506.html#ab3b7d9cbbb94eab430a0caff00448a4a">WardenPayloadMgr::RegisterPayload</a></div><div class="ttdeci">uint16 RegisterPayload(const std::string &amp;payload)</div><div class="ttdoc">Register a payload into cache and returns its payload id.</div><div class="ttdef"><b>Definition:</b> WardenPayloadMgr.cpp:43</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00025">GetFreePayloadId()</a>, <a class="el" href="../../#l00157">LOG_ERROR</a>, and <a class="el" href="../../#l00043">RegisterPayload()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00025">GetFreePayloadId()</a>, <a class="el" href="../../#l00158">LOG_ERROR</a>, and <a class="el" href="../../#l00043">RegisterPayload()</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00043">RegisterPayload()</a>.</p>
 
@@ -591,7 +591,7 @@ Static Public Attributes</h2></td></tr>
 <div class="ttc" id="aa11478_html_aca31cdb700dca4801dfa514812639c70"><div class="ttname"><a href="../../d6/d8c/a11478.html#aca31cdb700dca4801dfa514812639c70">WardenCheck::Type</a></div><div class="ttdeci">uint8 Type</div><div class="ttdef"><b>Definition:</b> WardenCheckMgr.h:45</div></div>
 <div class="ttc" id="aa11506_html_a5d6853734e30d11fce42dfeeb3a06c22"><div class="ttname"><a href="../../da/d63/a11506.html#a5d6853734e30d11fce42dfeeb3a06c22">WardenPayloadMgr::WardenPayloadCheckType</a></div><div class="ttdeci">static uint32 constexpr WardenPayloadCheckType</div><div class="ttdoc">The checktype used for warden payloads.</div><div class="ttdef"><b>Definition:</b> WardenPayloadMgr.h:125</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00135">CachedChecks</a>, <a class="el" href="../../#l00051">WardenCheck::CheckId</a>, <a class="el" href="../../#l00052">WardenCheck::IdStr</a>, <a class="el" href="../../#l00157">LOG_ERROR</a>, <a class="el" href="../../#l00049">WardenCheck::Str</a>, <a class="el" href="../../#l00034">Acore::StringFormat()</a>, <a class="el" href="../../#l00045">WardenCheck::Type</a>, <a class="el" href="../../#l00125">WardenPayloadCheckType</a>, and <a class="el" href="../../#l00115">WardenPayloadOffsetMin</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00135">CachedChecks</a>, <a class="el" href="../../#l00051">WardenCheck::CheckId</a>, <a class="el" href="../../#l00052">WardenCheck::IdStr</a>, <a class="el" href="../../#l00158">LOG_ERROR</a>, <a class="el" href="../../#l00049">WardenCheck::Str</a>, <a class="el" href="../../#l00034">Acore::StringFormat()</a>, <a class="el" href="../../#l00045">WardenCheck::Type</a>, <a class="el" href="../../#l00125">WardenPayloadCheckType</a>, and <a class="el" href="../../#l00115">WardenPayloadOffsetMin</a>.</p>
 
 </div>
 </div>
@@ -748,7 +748,7 @@ Static Public Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../da/d63/a11506.html">WardenPayloadMgr</a></li>
-    <li class="footer">Generated on Mon Jul 14 2025 20:51:02 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Jul 21 2025 20:51:37 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

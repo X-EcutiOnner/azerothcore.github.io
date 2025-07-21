@@ -1,7 +1,7 @@
 var a22802 =
 [
-    [ "VerasEnvenom", "d7/d5d/a22802.html#ac8c5f4fcb63ea5141a71b56324de0b1f", null ],
-    [ "Execute", "d7/d5d/a22802.html#a4b7853bb835cf28aefe2d5b955372d70", null ],
-    [ "_owner", "d7/d5d/a22802.html#af9cf231119ab5592be9829784f20d2e0", null ],
-    [ "_targetGUID", "d7/d5d/a22802.html#a90d62907c775565765fa87903adb94ea", null ]
+    [ "OnPeriodic", "d7/d5d/a22802.html#a165d47b116b0a53e37b05f664960e6ec", null ],
+    [ "PrepareAuraScript", "d7/d5d/a22802.html#ac46af3566c5c03622f8146f1bb6f0ac7", null ],
+    [ "Register", "d7/d5d/a22802.html#a1ac8741542c921f5e4c42b0a9a02ed3c", null ],
+    [ "Validate", "d7/d5d/a22802.html#adf76f9183dd9c5e0f00c2115aaafb119", null ]
 ];

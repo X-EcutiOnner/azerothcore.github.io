@@ -1,5 +1,5 @@
 var a18722 =
 [
-    [ "at_icc_shutdown_traps", "dc/d52/a18722.html#aa13f5d78d3032e8114e9978f42468f64", null ],
-    [ "OnTrigger", "dc/d52/a18722.html#abb31b3f6d0b159b625d731ac47127005", null ]
+    [ "at_icc_saurfang_portal", "dc/d52/a18722.html#a7f30058251c520634a0b7bad08380e5d", null ],
+    [ "OnTrigger", "dc/d52/a18722.html#a8980fe0e67aa33335f0fdb947a294213", null ]
 ];

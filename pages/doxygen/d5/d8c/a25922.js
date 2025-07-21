@@ -1,8 +1,6 @@
 var a25922 =
 [
-    [ "CheckQuest", "d5/d8c/a25922.html#ab7ebff0894832ac009cda89b7c28e252", null ],
-    [ "HandleDummy", "d5/d8c/a25922.html#a365df14504a54e95e7d68d22a284e441", null ],
-    [ "HandleOpenObject", "d5/d8c/a25922.html#a69467afd49dc2429b8ba9640c8af5dfa", null ],
-    [ "PrepareSpellScript", "d5/d8c/a25922.html#a479e313031a2e71473238d8f645bf2d4", null ],
-    [ "Register", "d5/d8c/a25922.html#a70f1a91e611cc2092aad44a909cd53db", null ]
+    [ "OnPeriodic", "d5/d8c/a25922.html#a889285ef034aaa7eaaa8e86fb5380cf0", null ],
+    [ "PrepareAuraScript", "d5/d8c/a25922.html#a3fd2da3d7b1b8a78916515b7e3e188cf", null ],
+    [ "Register", "d5/d8c/a25922.html#a62e5ab81f9548e4d983d0c4dde14eaad", null ]
 ];

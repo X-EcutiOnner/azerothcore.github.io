@@ -1,9 +1,7 @@
 var a26430 =
 [
-    [ "CheckCast", "d1/dca/a26430.html#ae99a2b4b582c8a2c8921b8921400ffbe", null ],
-    [ "HandleActiveObject", "d1/dca/a26430.html#a79a51387f0a515ed07fcc1ac9e428290", null ],
-    [ "HandleDummy", "d1/dca/a26430.html#a39dd06ae92d04060ee41897318a701fd", null ],
-    [ "Load", "d1/dca/a26430.html#a76fff3a9d20f48e4814ee0f258be07b8", null ],
-    [ "PrepareSpellScript", "d1/dca/a26430.html#a016e480d7b2267c9bf824c9cb029f134", null ],
-    [ "Register", "d1/dca/a26430.html#aa05d48c35f748d93f5d8ff1defe2d3c9", null ]
+    [ "HandleScript", "d1/dca/a26430.html#aa00117e677af1e236962c59b688d8a98", null ],
+    [ "Load", "d1/dca/a26430.html#ad05b65848e35d87fb9ef1ae413de6256", null ],
+    [ "PrepareSpellScript", "d1/dca/a26430.html#afbffeadede1cc7f08a0a52f4a7bee680", null ],
+    [ "Register", "d1/dca/a26430.html#a52d4828ccd5430a622a32b1279943f9b", null ]
 ];

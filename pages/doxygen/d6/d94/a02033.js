@@ -10,7 +10,7 @@ var a02033 =
     [ "CharacterFlags", "d6/d94/a02033.html#aaba5b1cb73e3834489f98e5f6f0fc6de", [
       [ "CHARACTER_FLAG_NONE", "d6/d94/a02033.html#aaba5b1cb73e3834489f98e5f6f0fc6dead5a7499a6c1f3eb27d35f01be67f400c", null ],
       [ "CHARACTER_FLAG_UNK1", "d6/d94/a02033.html#aaba5b1cb73e3834489f98e5f6f0fc6dea092d0044d3d9007a2b863daabc208179", null ],
-      [ "CHARACTER_FLAG_UNK2", "d6/d94/a02033.html#aaba5b1cb73e3834489f98e5f6f0fc6dea40bc4e4edc46c4d502a99b8b5e39cba0", null ],
+      [ "CHARACTER_FLAG_RESTING", "d6/d94/a02033.html#aaba5b1cb73e3834489f98e5f6f0fc6dea267af6fcb89331e982cd0d210cb7686d", null ],
       [ "CHARACTER_LOCKED_FOR_TRANSFER", "d6/d94/a02033.html#aaba5b1cb73e3834489f98e5f6f0fc6deac53c54ed596141ee95313054fc0ef3e6", null ],
       [ "CHARACTER_FLAG_UNK4", "d6/d94/a02033.html#aaba5b1cb73e3834489f98e5f6f0fc6dea622731fb5fcaa439a008543afe91e0ae", null ],
       [ "CHARACTER_FLAG_UNK5", "d6/d94/a02033.html#aaba5b1cb73e3834489f98e5f6f0fc6dea657ec519983809e892b66a4bbcc420f9", null ],

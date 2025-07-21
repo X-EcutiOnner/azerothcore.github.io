@@ -1,6 +1,6 @@
 var a18050 =
 [
-    [ "CheckProc", "da/d7d/a18050.html#ad701d353f03eb5a1ccca28a6530555db", null ],
-    [ "PrepareAuraScript", "da/d7d/a18050.html#a51794aa0a42180d9a0f4e9f6d5febca4", null ],
-    [ "Register", "da/d7d/a18050.html#a4f787e29064c15f4dad9047ff618982a", null ]
+    [ "FilterTargets", "da/d7d/a18050.html#aa7e731de9e5ab1078b8ff7022393c9a7", null ],
+    [ "PrepareSpellScript", "da/d7d/a18050.html#ae92968db6e5a1384f89e6aff9ab2d1f3", null ],
+    [ "Register", "da/d7d/a18050.html#ae6ab0b56688bfc07262cc83e84102ccb", null ]
 ];

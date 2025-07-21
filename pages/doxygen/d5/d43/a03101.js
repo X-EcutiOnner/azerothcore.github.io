@@ -1,10 +1,10 @@
 var a03101 =
 [
-    [ "npc_fos_leader", "df/dd2/a16786.html", "df/dd2/a16786" ],
-    [ "npc_fos_leader::npc_fos_leaderAI", "d6/d87/a16790.html", "d6/d87/a16790" ],
-    [ "npc_fos_leader_second", "d2/dc3/a16794.html", "d2/dc3/a16794" ],
-    [ "npc_fos_leader_second::npc_fos_leader_secondAI", "d8/d8b/a16798.html", "d8/d8b/a16798" ],
-    [ "spell_shield_of_bones_aura", "d2/d40/a16802.html", "d2/d40/a16802" ],
+    [ "npc_fos_leader", "d6/d87/a16790.html", "d6/d87/a16790" ],
+    [ "npc_fos_leader::npc_fos_leaderAI", "d2/dc3/a16794.html", "d2/dc3/a16794" ],
+    [ "npc_fos_leader_second", "d8/d8b/a16798.html", "d8/d8b/a16798" ],
+    [ "npc_fos_leader_second::npc_fos_leader_secondAI", "d2/d40/a16802.html", "d2/d40/a16802" ],
+    [ "spell_shield_of_bones_aura", "d6/da7/a16806.html", "d6/da7/a16806" ],
     [ "FOS_Gossip", "d5/d43/a03101.html#a4d8c041ae0ebd2a8691daa3f109d7a46", [
       [ "GOSSIP_JAINA_INTRO", "d5/d43/a03101.html#a4d8c041ae0ebd2a8691daa3f109d7a46aeabc9e58ce71bf1458070b38b1032092", null ],
       [ "GOSSIP_SYLVANAS_INTRO", "d5/d43/a03101.html#a4d8c041ae0ebd2a8691daa3f109d7a46a250d759ceebbfd339d2c609768d342e7", null ]
