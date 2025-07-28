@@ -1,7 +1,7 @@
 var a04253 =
 [
-    [ "instance_stratholme", "df/d50/a13178.html", "df/d50/a13178" ],
-    [ "instance_stratholme::instance_stratholme_InstanceMapScript", "d6/dc0/a13182.html", "d6/dc0/a13182" ],
+    [ "instance_stratholme", "d6/dc0/a13182.html", "d6/dc0/a13182" ],
+    [ "instance_stratholme::instance_stratholme_InstanceMapScript", "de/d78/a13186.html", "de/d78/a13186" ],
     [ "AddSC_instance_stratholme", "dd/d6a/a04253.html#add44fd9ad05267cc5db256b112db2585", null ],
     [ "aGateTrap", "dd/d6a/a04253.html#aa404f6799978911e2f0e4de3b4386c59", null ],
     [ "aPlaguedCritters", "dd/d6a/a04253.html#a4108af811b2731f9784942b89f333054", null ],

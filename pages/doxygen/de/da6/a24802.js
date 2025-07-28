@@ -1,10 +1,7 @@
 var a24802 =
 [
-    [ "FilterTargets", "de/da6/a24802.html#a033c63470d406ad2249c5aa223c00b2f", null ],
-    [ "HandleFinish", "de/da6/a24802.html#a3b5760ed61d0b2789ddcaef998303d38", null ],
-    [ "HandleScript", "de/da6/a24802.html#a2c26838015f1b21715fc1438537e15d3", null ],
-    [ "Load", "de/da6/a24802.html#a669aefa81d57358ef452f4c247b2ceff", null ],
-    [ "PrepareSpellScript", "de/da6/a24802.html#a3b65dbff73258b45f9e345bffc7a63a8", null ],
-    [ "Register", "de/da6/a24802.html#ac9b8d46cc77b06c427b5b3cbc1135072", null ],
-    [ "haveTarget", "de/da6/a24802.html#a7f5a4e68fb7d948f0df35824272cbdb0", null ]
+    [ "if", "de/da6/a24802.html#a6b9c0d513b24e9a5c0eef8307b2eb3a8", null ],
+    [ "PrepareAuraScript", "de/da6/a24802.html#a01d974333043452a37ec3124d23b49f2", null ],
+    [ "Register", "de/da6/a24802.html#aeb6c695819e894aad8b210a237e6d315", null ],
+    [ "AuraEffectHandleModes", "de/da6/a24802.html#a9b235517305f9b2fcf2d31eb3a4edbd2", null ]
 ];

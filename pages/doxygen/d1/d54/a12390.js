@@ -1,6 +1,7 @@
 var a12390 =
 [
-    [ "boss_gehennasAI", "db/d64/a12394.html", "db/d64/a12394" ],
-    [ "boss_gehennas", "d1/d54/a12390.html#a380a24cbaad4e247c6c76fd63ac34f59", null ],
-    [ "GetAI", "d1/d54/a12390.html#a92f9ff0e957da5331b4a3ecc48be0ffa", null ]
+    [ "HandleHit", "d1/d54/a12390.html#a18f86449945ade16140ee934a7d8703e", null ],
+    [ "PrepareSpellScript", "d1/d54/a12390.html#abaf09043858db27b05fbe544d7a15a8f", null ],
+    [ "Register", "d1/d54/a12390.html#abe0733be2e32ff616c48acaeeb1d39e9", null ],
+    [ "Validate", "d1/d54/a12390.html#abc970a8b4a8f27f81f392cebf81dc574", null ]
 ];

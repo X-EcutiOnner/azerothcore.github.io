@@ -1,8 +1,8 @@
 var a04160 =
 [
-    [ "boss_shazzrah", "d5/d0f/a12474.html", "d5/d0f/a12474" ],
-    [ "boss_shazzrah::boss_shazzrahAI", "dd/d4f/a12478.html", "dd/d4f/a12478" ],
-    [ "spell_shazzrah_gate_dummy", "d5/d81/a12482.html", "d5/d81/a12482" ],
+    [ "boss_shazzrah", "dd/d4f/a12478.html", "dd/d4f/a12478" ],
+    [ "boss_shazzrah::boss_shazzrahAI", "d5/d81/a12482.html", "d5/d81/a12482" ],
+    [ "spell_shazzrah_gate_dummy", "de/dca/a12486.html", "de/dca/a12486" ],
     [ "Events", "dc/d95/a04160.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_CHARGE_TARGET", "d8/d3a/a04439.html#af60e00b78607064c5be6aa9397ea49c1ae9b5b6a7dd72b493b6874d7408585a02", null ],
       [ "EVENT_CLEAVE", "d8/d3a/a04439.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a", null ],

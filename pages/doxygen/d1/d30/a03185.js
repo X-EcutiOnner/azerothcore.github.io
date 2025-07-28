@@ -1,9 +1,9 @@
 var a03185 =
 [
-    [ "boss_jedoga_shadowseeker", "d3/dd9/a15826.html", "d3/dd9/a15826" ],
-    [ "npc_twilight_volunteer", "d7/dfd/a15830.html", "d7/dfd/a15830" ],
-    [ "spell_random_lightning_visual_effect", "d9/da4/a15834.html", "d9/da4/a15834" ],
-    [ "achievement_volunteer_work", "d3/da7/a15838.html", "d3/da7/a15838" ],
+    [ "boss_jedoga_shadowseeker", "d7/dfd/a15830.html", "d7/dfd/a15830" ],
+    [ "npc_twilight_volunteer", "d9/da4/a15834.html", "d9/da4/a15834" ],
+    [ "spell_random_lightning_visual_effect", "d3/da7/a15838.html", "d3/da7/a15838" ],
+    [ "achievement_volunteer_work", "dc/d70/a15842.html", "dc/d70/a15842" ],
     [ "Actions", "d1/d30/a03185.html#a250372292659bed7ae290d8621f88ccf", [
       [ "ACTION_GUNSHIP_READY", "df/d3b/a00728.html#a250372292659bed7ae290d8621f88ccfaae8bb35d65ee37e4d232e2a67aeca581", null ],
       [ "ACTION_TELEPORT_PLAYER_TO_TRANSPORT", "df/d3b/a00728.html#a250372292659bed7ae290d8621f88ccfa6b86b0986a459bb245b3a3cd8b75040c", null ],
@@ -1735,6 +1735,7 @@ var a03185 =
       [ "MAX_EMBRACE_DMG", "d1/d45/a03191.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a92c750d1fab22566cfc44edbc7b61cfe", null ],
       [ "MAX_EMBRACE_DMG_H", "d1/d45/a03191.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ac90a40c1805a63761f571de57c08eaf1", null ],
       [ "SUMMON_GROUP_TRIGGERS", "d1/d45/a03191.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a2fbeedd9d697855685b859c7b5df8a41", null ],
+      [ "GROUP_COMBAT_ABILITIES", "d1/d45/a03191.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a5d7cf54e44fb5a068cd85e6745a6c399", null ],
       [ "ACHIEV_TIMED_START_EVENT", "d3/dcf/a03173.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6ac3776ff6343c84361329e38055da04", null ],
       [ "EVENT_CHECK_HEALTH_25", "d3/dcf/a03173.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ab4c8308b4dc44a86daf5ee851c990687", null ],
       [ "EVENT_CHECK_HEALTH_50", "d3/dcf/a03173.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a279f4abf2411c8e70eb459d7644bc65b", null ],

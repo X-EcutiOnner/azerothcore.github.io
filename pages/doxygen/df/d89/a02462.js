@@ -1,11 +1,11 @@
 var a02462 =
 [
-    [ "npc_pet_dk_ebon_gargoyle", "da/d0b/a24346.html", "da/d0b/a24346" ],
-    [ "npc_pet_dk_ghoul", "d5/d89/a24350.html", "d5/d89/a24350" ],
-    [ "npc_pet_dk_risen_ally", "dd/df2/a24354.html", "dd/df2/a24354" ],
-    [ "npc_pet_dk_army_of_the_dead", "d2/d60/a24358.html", "d2/d60/a24358" ],
-    [ "npc_pet_dk_dancing_rune_weapon", "da/da3/a24362.html", "da/da3/a24362" ],
-    [ "spell_pet_dk_gargoyle_strike", "df/d56/a24366.html", "df/d56/a24366" ],
+    [ "npc_pet_dk_ebon_gargoyle", "d1/d80/a24342.html", "d1/d80/a24342" ],
+    [ "npc_pet_dk_ghoul", "da/d0b/a24346.html", "da/d0b/a24346" ],
+    [ "npc_pet_dk_risen_ally", "d5/d89/a24350.html", "d5/d89/a24350" ],
+    [ "npc_pet_dk_army_of_the_dead", "dd/df2/a24354.html", "dd/df2/a24354" ],
+    [ "npc_pet_dk_dancing_rune_weapon", "d2/d60/a24358.html", "d2/d60/a24358" ],
+    [ "spell_pet_dk_gargoyle_strike", "da/da3/a24362.html", "da/da3/a24362" ],
     [ "DeathKnightSpells", "df/d89/a02462.html#a70990262974db7bc1730b177eb17a499", [
       [ "SPELL_DK_SUMMON_GARGOYLE_1", "df/d89/a02462.html#a70990262974db7bc1730b177eb17a499acaaba79b43118ab353ce223c75c97927", null ],
       [ "SPELL_DK_SUMMON_GARGOYLE_2", "df/d89/a02462.html#a70990262974db7bc1730b177eb17a499a5189df5fecf5b13ddd4039be46a59c4a", null ],
@@ -15,6 +15,7 @@ var a02462 =
       [ "SPELL_DK_PET_SCALING", "df/d89/a02462.html#a70990262974db7bc1730b177eb17a499adf62a57ca43f8aef7fbaf0746a5a735b", null ],
       [ "SPELL_DK_RAISE_ALLY", "df/d89/a02462.html#a70990262974db7bc1730b177eb17a499a7befee8ae802023214e825bee24cee5e", null ],
       [ "SPELL_GHOUL_FRENZY", "df/d89/a02462.html#a70990262974db7bc1730b177eb17a499a2fdf938edf5866750c211e24220b701b", null ],
+      [ "SPELL_GARGOYLE_STRIKE", "df/d89/a02462.html#a70990262974db7bc1730b177eb17a499a74639ec42972cefdd2205530da747e4b", null ],
       [ "SPELL_DK_DEATH_AND_DECAY_TRIGGER", "dc/dfd/a02837.html#a70990262974db7bc1730b177eb17a499a7191b6581b1646481b0a8b306e9ce13b", null ],
       [ "SPELL_DK_GLYPH_OF_SCOURGE_STRIKE", "dc/dfd/a02837.html#a70990262974db7bc1730b177eb17a499aa317dd781cd6aca5608aaa0b7c116909", null ],
       [ "SPELL_DK_WANDERING_PLAGUE_TRIGGER", "dc/dfd/a02837.html#a70990262974db7bc1730b177eb17a499a234b494cc45b5d3addb18fa3dfb73e5c", null ],

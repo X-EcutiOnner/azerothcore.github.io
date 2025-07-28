@@ -1,10 +1,9 @@
 var a21538 =
 [
-    [ "npc_jenny", "dc/d37/a21538.html#ab845ba4551900a03c5a995d348a1be55", null ],
-    [ "DamageTaken", "dc/d37/a21538.html#a8700091c82bfff473f3d5563deb69e0b", null ],
-    [ "Initialize", "dc/d37/a21538.html#aab8c540ebb90ebbaef961b1feb3013a3", null ],
-    [ "MoveInLineOfSight", "dc/d37/a21538.html#acd0939cee3ecb9d961d09815d9c50f71", null ],
-    [ "UpdateFollowerAI", "dc/d37/a21538.html#afbd142855602bcf7a8cd8e4cc4760cf0", null ],
-    [ "_events", "dc/d37/a21538.html#aa98caf8b706551470c943b4b722a85ae", null ],
-    [ "_fezzix", "dc/d37/a21538.html#ac2115c122c2eac2d5a36d1795d1e6bf0", null ]
+    [ "npc_lurgglbrAI", "dc/d37/a21538.html#a9239b85c65f9b405335d432f355637d5", null ],
+    [ "Reset", "dc/d37/a21538.html#a13b8bd8e7d85c93b0ee88c6e9f6d09ca", null ],
+    [ "UpdateAI", "dc/d37/a21538.html#aee019df9abe7ca3bf36a6de2321bedec", null ],
+    [ "WaypointReached", "dc/d37/a21538.html#a09ac2f2f21eefedd0052f727546bafb5", null ],
+    [ "IntroPhase", "dc/d37/a21538.html#a57e2c42cccf91765365e0b046446637a", null ],
+    [ "IntroTimer", "dc/d37/a21538.html#ada9762806ae0132e37197e6fb1279866", null ]
 ];

@@ -1,7 +1,6 @@
 var a19938 =
 [
-    [ "npc_storm_beacon_spawnAI", "d4/d55/a19938.html#a031c1941f177a18af58efcf4a1270654", null ],
-    [ "UpdateAI", "d4/d55/a19938.html#a249bf56b905ef0c8b34c737d95518c91", null ],
-    [ "_amount", "d4/d55/a19938.html#a3d2286247853cb04b9cc23cd8c0bfdd6", null ],
-    [ "_checkTimer", "d4/d55/a19938.html#a7fd6d449b6a20ba9463896244c513a67", null ]
+    [ "npc_storm_beacon_spawnAI", "d4/d33/a19942.html", "d4/d33/a19942" ],
+    [ "npc_storm_beacon_spawn", "d4/d55/a19938.html#a0316646f43fd0ed6fe4576bf691116a0", null ],
+    [ "GetAI", "d4/d55/a19938.html#a780dd823962e259dbeda7089224aa23e", null ]
 ];

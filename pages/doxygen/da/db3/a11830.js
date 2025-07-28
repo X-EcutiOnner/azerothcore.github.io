@@ -1,8 +1,6 @@
 var a11830 =
 [
-    [ "ironhand_guardianAI", "da/db3/a11830.html#ab109b4ba9d399bd8c7d7dd5c04f2c618", null ],
-    [ "SetData", "da/db3/a11830.html#ab4e6402951bf45910fb3399ea107b207", null ],
-    [ "UpdateAI", "da/db3/a11830.html#a095b11f44935c8ddb43a20c095495507", null ],
-    [ "events", "da/db3/a11830.html#a13ed887285809d2fcad0d23fdf37face", null ],
-    [ "flames_enabled", "da/db3/a11830.html#ab54e1eac19a8b51e2aa9fe4bc5f08e46", null ]
+    [ "ironhand_guardianAI", "de/db1/a11834.html", "de/db1/a11834" ],
+    [ "ironhand_guardian", "da/db3/a11830.html#a2363002ce096937ecbb4b62af806ee42", null ],
+    [ "GetAI", "da/db3/a11830.html#a0bf140618a45a6a4398cfe51b8a03488", null ]
 ];

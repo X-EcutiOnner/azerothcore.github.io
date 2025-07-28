@@ -1,11 +1,11 @@
 var a03359 =
 [
-    [ "WebTargetSelector", "dc/da4/a19090.html", "dc/da4/a19090" ],
-    [ "boss_maexxna", "d1/d49/a19094.html", "d1/d49/a19094" ],
-    [ "boss_maexxna::boss_maexxnaAI", "dc/d4b/a19098.html", "dc/d4b/a19098" ],
-    [ "boss_maexxna_webwrap", "de/d7f/a19102.html", "de/d7f/a19102" ],
-    [ "boss_maexxna_webwrap::boss_maexxna_webwrapAI", "df/d71/a19106.html", "df/d71/a19106" ],
-    [ "spell_web_wrap_damage", "d4/d8e/a19110.html", "d4/d8e/a19110" ],
+    [ "WebTargetSelector", "d1/d49/a19094.html", "d1/d49/a19094" ],
+    [ "boss_maexxna", "dc/d4b/a19098.html", "dc/d4b/a19098" ],
+    [ "boss_maexxna::boss_maexxnaAI", "de/d7f/a19102.html", "de/d7f/a19102" ],
+    [ "boss_maexxna_webwrap", "df/d71/a19106.html", "df/d71/a19106" ],
+    [ "boss_maexxna_webwrap::boss_maexxna_webwrapAI", "d4/d8e/a19110.html", "d4/d8e/a19110" ],
+    [ "spell_web_wrap_damage", "d9/d93/a19114.html", "d9/d93/a19114" ],
     [ "Emotes", "d9/dd9/a03359.html#a2d0a63150f7988db8ff39124dc1cb21a", [
       [ "EMOTE_FRENZY", "d2/d98/a04244.html#a2d0a63150f7988db8ff39124dc1cb21aa55f111609d7846e27c2f642b9f46b1ac", null ],
       [ "EMOTE_SHIMMER", "d2/d98/a04244.html#a2d0a63150f7988db8ff39124dc1cb21aa706a7a036a41d3d1f2650ee226e9ec1e", null ],
@@ -1449,6 +1449,7 @@ var a03359 =
       [ "MAX_EMBRACE_DMG", "d1/d45/a03191.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a92c750d1fab22566cfc44edbc7b61cfe", null ],
       [ "MAX_EMBRACE_DMG_H", "d1/d45/a03191.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ac90a40c1805a63761f571de57c08eaf1", null ],
       [ "SUMMON_GROUP_TRIGGERS", "d1/d45/a03191.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a2fbeedd9d697855685b859c7b5df8a41", null ],
+      [ "GROUP_COMBAT_ABILITIES", "d1/d45/a03191.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a5d7cf54e44fb5a068cd85e6745a6c399", null ],
       [ "ACHIEV_TIMED_START_EVENT", "d3/dcf/a03173.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6ac3776ff6343c84361329e38055da04", null ],
       [ "EVENT_CHECK_HEALTH_25", "d3/dcf/a03173.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ab4c8308b4dc44a86daf5ee851c990687", null ],
       [ "EVENT_CHECK_HEALTH_50", "d3/dcf/a03173.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a279f4abf2411c8e70eb459d7644bc65b", null ],

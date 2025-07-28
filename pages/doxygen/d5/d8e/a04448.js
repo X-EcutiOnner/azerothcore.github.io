@@ -1,6 +1,6 @@
 var a04448 =
 [
-    [ "boss_halazzi", "d4/dc7/a13794.html", "d4/dc7/a13794" ],
+    [ "boss_halazzi", "dd/db2/a13798.html", "dd/db2/a13798" ],
     [ "Actions", "d5/d8e/a04448.html#a250372292659bed7ae290d8621f88ccf", [
       [ "ACTION_GUNSHIP_READY", "df/d3b/a00728.html#a250372292659bed7ae290d8621f88ccfaae8bb35d65ee37e4d232e2a67aeca581", null ],
       [ "ACTION_TELEPORT_PLAYER_TO_TRANSPORT", "df/d3b/a00728.html#a250372292659bed7ae290d8621f88ccfa6b86b0986a459bb245b3a3cd8b75040c", null ],

@@ -59,6 +59,8 @@ var a04574 =
       [ "LOGIN_GET_USERNAME_BY_ID", "d0/d15/a04574.html#a2bc6eef17d8ecd1b7027058f5fecc9fba9c73f070fb33a0ff785f2e7193b0387f", null ],
       [ "LOGIN_SEL_CHECK_PASSWORD", "d0/d15/a04574.html#a2bc6eef17d8ecd1b7027058f5fecc9fbabd342f1390eb9392440e8b7fbfa781c1", null ],
       [ "LOGIN_SEL_CHECK_PASSWORD_BY_NAME", "d0/d15/a04574.html#a2bc6eef17d8ecd1b7027058f5fecc9fba395ebf9d841e8675e606cfbadd7f2ee3", null ],
+      [ "LOGIN_SEL_ACCOUNT_FLAG", "d0/d15/a04574.html#a2bc6eef17d8ecd1b7027058f5fecc9fbaf47168c370d61dc27a4457592008d5bb", null ],
+      [ "LOGIN_UPD_SET_ACCOUNT_FLAG", "d0/d15/a04574.html#a2bc6eef17d8ecd1b7027058f5fecc9fba442233bef9c041112bdb997b80b3e709", null ],
       [ "LOGIN_SEL_PINFO", "d0/d15/a04574.html#a2bc6eef17d8ecd1b7027058f5fecc9fba44e737c1cd125eaccab2769989e87736", null ],
       [ "LOGIN_SEL_PINFO_BANS", "d0/d15/a04574.html#a2bc6eef17d8ecd1b7027058f5fecc9fbabd4ae1668c54c02e007187d029719583", null ],
       [ "LOGIN_SEL_GM_ACCOUNTS", "d0/d15/a04574.html#a2bc6eef17d8ecd1b7027058f5fecc9fba74d4f8d423ca534ac55bf4e5c4476be8", null ],

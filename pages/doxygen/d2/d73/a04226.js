@@ -1,7 +1,7 @@
 var a04226 =
 [
-    [ "boss_firemaw", "d2/db7/a12238.html", "d2/db7/a12238" ],
-    [ "boss_firemaw::boss_firemawAI", "d4/d18/a12242.html", "d4/d18/a12242" ],
+    [ "boss_firemaw", "d4/d18/a12242.html", "d4/d18/a12242" ],
+    [ "boss_firemaw::boss_firemawAI", "d9/d21/a12246.html", "d9/d21/a12246" ],
     [ "Events", "d2/d73/a04226.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_CHARGE_TARGET", "d8/d3a/a04439.html#af60e00b78607064c5be6aa9397ea49c1ae9b5b6a7dd72b493b6874d7408585a02", null ],
       [ "EVENT_CLEAVE", "d8/d3a/a04439.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a", null ],

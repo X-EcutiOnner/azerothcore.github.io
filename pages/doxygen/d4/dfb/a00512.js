@@ -13,5 +13,6 @@ var a00512 =
     [ "GetSecurity", "d4/dfb/a00512.html#a30b6e5cf1733f0143f86aaeff600215c", null ],
     [ "IsAdminAccount", "d4/dfb/a00512.html#adb1b210137b09011677c74011addeefa", null ],
     [ "IsConsoleAccount", "d4/dfb/a00512.html#a81bbc2af33211a3130c6aa215f5607b7", null ],
+    [ "IsGMAccount", "d4/dfb/a00512.html#a2f5fb2cf0c24e610c09ac734be93c7a9", null ],
     [ "IsPlayerAccount", "d4/dfb/a00512.html#a63751f144cb7acb57fc20f0caf5e7043", null ]
 ];

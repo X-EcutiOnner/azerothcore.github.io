@@ -1,6 +1,5 @@
 var a14038 =
 [
-    [ "boss_mandokirAI", "db/dac/a14042.html", "db/dac/a14042" ],
-    [ "boss_mandokir", "df/dfe/a14038.html#aad13c8302cef7fb4981f0d2178630def", null ],
-    [ "GetAI", "df/dfe/a14038.html#a215842d5ab23824ec20db64e2fa4407e", null ]
+    [ "npc_brain_wash_totem", "df/dfe/a14038.html#acdecde614ba82d60ee4a10ace8545fdf", null ],
+    [ "EnterEvadeMode", "df/dfe/a14038.html#abd32e3210cc384c0c365826ca1fbae1e", null ]
 ];

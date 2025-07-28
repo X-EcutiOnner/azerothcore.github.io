@@ -1,8 +1,8 @@
 var a02744 =
 [
-    [ "boss_high_astromancer_solarian", "dd/dc3/a23798.html", "dd/dc3/a23798" ],
-    [ "spell_astromancer_wrath_of_the_astromancer", "d8/d76/a23802.html", "d8/d76/a23802" ],
-    [ "spell_astromancer_solarian_transform", "de/d93/a23806.html", "de/d93/a23806" ],
+    [ "boss_high_astromancer_solarian", "dd/dd4/a23794.html", "dd/dd4/a23794" ],
+    [ "spell_astromancer_wrath_of_the_astromancer", "dd/dc3/a23798.html", "dd/dc3/a23798" ],
+    [ "spell_astromancer_solarian_transform", "d8/d76/a23802.html", "d8/d76/a23802" ],
     [ "CENTER_O", "d5/dc7/a02744.html#a1b683ec7a35f03622bada41f50aac881", null ],
     [ "CENTER_X", "d5/dc7/a02744.html#affb36ca3a6519ca609cfa9a0d70a682a", null ],
     [ "CENTER_Y", "d5/dc7/a02744.html#a65dba9379097de8ea0bb4afd9d504b2b", null ],
@@ -180,6 +180,7 @@ var a02744 =
       [ "MAX_EMBRACE_DMG", "d1/d45/a03191.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a92c750d1fab22566cfc44edbc7b61cfe", null ],
       [ "MAX_EMBRACE_DMG_H", "d1/d45/a03191.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ac90a40c1805a63761f571de57c08eaf1", null ],
       [ "SUMMON_GROUP_TRIGGERS", "d1/d45/a03191.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a2fbeedd9d697855685b859c7b5df8a41", null ],
+      [ "GROUP_COMBAT_ABILITIES", "d1/d45/a03191.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a5d7cf54e44fb5a068cd85e6745a6c399", null ],
       [ "ACHIEV_TIMED_START_EVENT", "d3/dcf/a03173.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6ac3776ff6343c84361329e38055da04", null ],
       [ "EVENT_CHECK_HEALTH_25", "d3/dcf/a03173.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ab4c8308b4dc44a86daf5ee851c990687", null ],
       [ "EVENT_CHECK_HEALTH_50", "d3/dcf/a03173.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a279f4abf2411c8e70eb459d7644bc65b", null ],

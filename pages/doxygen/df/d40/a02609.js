@@ -1,7 +1,7 @@
 var a02609 =
 [
-    [ "boss_warbringer_omrogg", "d3/df4/a23654.html", "d3/df4/a23654" ],
-    [ "spell_burning_maul", "d9/dcf/a23658.html", "d9/dcf/a23658" ],
+    [ "boss_warbringer_omrogg", "d2/d08/a23650.html", "d2/d08/a23650" ],
+    [ "spell_burning_maul", "d3/df4/a23654.html", "d3/df4/a23654" ],
     [ "Equip", "df/d40/a02609.html#a6ddbaae08010d527c6c3d88cdcde663f", [
       [ "EQUIP_STANDARD", "df/d40/a02609.html#a6ddbaae08010d527c6c3d88cdcde663fa3c78a51d65a81277c99654e88eff66ad", null ],
       [ "EQUIP_BURNING_MAUL", "df/d40/a02609.html#a6ddbaae08010d527c6c3d88cdcde663fadf5050dd7eab9cf1759d0070273ba382", null ]
@@ -184,6 +184,7 @@ var a02609 =
       [ "MAX_EMBRACE_DMG", "d1/d45/a03191.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a92c750d1fab22566cfc44edbc7b61cfe", null ],
       [ "MAX_EMBRACE_DMG_H", "d1/d45/a03191.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ac90a40c1805a63761f571de57c08eaf1", null ],
       [ "SUMMON_GROUP_TRIGGERS", "d1/d45/a03191.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a2fbeedd9d697855685b859c7b5df8a41", null ],
+      [ "GROUP_COMBAT_ABILITIES", "d1/d45/a03191.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a5d7cf54e44fb5a068cd85e6745a6c399", null ],
       [ "ACHIEV_TIMED_START_EVENT", "d3/dcf/a03173.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6ac3776ff6343c84361329e38055da04", null ],
       [ "EVENT_CHECK_HEALTH_25", "d3/dcf/a03173.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ab4c8308b4dc44a86daf5ee851c990687", null ],
       [ "EVENT_CHECK_HEALTH_50", "d3/dcf/a03173.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a279f4abf2411c8e70eb459d7644bc65b", null ],

@@ -1,6 +1,5 @@
 var a19854 =
 [
-    [ "boss_flame_leviathanAI", "db/d58/a19858.html", "db/d58/a19858" ],
-    [ "boss_flame_leviathan", "d1/da2/a19854.html#af4fcd38fc7095701c6c31674d849aef4", null ],
-    [ "GetAI", "d1/da2/a19854.html#a3a402b002472bfe4347b512f21654c50", null ]
+    [ "achievement_auriaya_nine_lives", "d1/da2/a19854.html#a750304bc946a7ecefec29dc18c429d3b", null ],
+    [ "OnCheck", "d1/da2/a19854.html#ae1b7ee75a3e7343c3f5f8043b4e39362", null ]
 ];

@@ -1,6 +1,6 @@
 var a04400 =
 [
-    [ "boss_maiden_of_virtue", "da/d34/a12590.html", "da/d34/a12590" ],
+    [ "boss_maiden_of_virtue", "db/da5/a12594.html", "db/da5/a12594" ],
     [ "Spells", "d0/dd0/a04400.html#a5bd342133be8c2137b831460acc9298c", [
       [ "SPELL_OIL_REFINERY", "df/d3b/a00728.html#a5bd342133be8c2137b831460acc9298cae2eb4db3c46b45e80cc2feb9c34f2ada", null ],
       [ "SPELL_QUARRY", "df/d3b/a00728.html#a5bd342133be8c2137b831460acc9298ca5a0922923b24c4bb6661ad8396a76e01", null ],

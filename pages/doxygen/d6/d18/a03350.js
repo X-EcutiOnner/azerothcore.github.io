@@ -1,8 +1,8 @@
 var a03350 =
 [
-    [ "boss_gluth", "d0/df8/a18982.html", "d0/df8/a18982" ],
-    [ "boss_gluth::boss_gluthAI", "d3/d72/a18986.html", "d3/d72/a18986" ],
-    [ "spell_gluth_decimate", "d9/d53/a18990.html", "d9/d53/a18990" ],
+    [ "boss_gluth", "d3/d72/a18986.html", "d3/d72/a18986" ],
+    [ "boss_gluth::boss_gluthAI", "d9/d53/a18990.html", "d9/d53/a18990" ],
+    [ "spell_gluth_decimate", "dd/d36/a18994.html", "dd/d36/a18994" ],
     [ "Emotes", "d6/d18/a03350.html#a2d0a63150f7988db8ff39124dc1cb21a", [
       [ "EMOTE_FRENZY", "d2/d98/a04244.html#a2d0a63150f7988db8ff39124dc1cb21aa55f111609d7846e27c2f642b9f46b1ac", null ],
       [ "EMOTE_SHIMMER", "d2/d98/a04244.html#a2d0a63150f7988db8ff39124dc1cb21aa706a7a036a41d3d1f2650ee226e9ec1e", null ],
@@ -1446,6 +1446,7 @@ var a03350 =
       [ "MAX_EMBRACE_DMG", "d1/d45/a03191.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a92c750d1fab22566cfc44edbc7b61cfe", null ],
       [ "MAX_EMBRACE_DMG_H", "d1/d45/a03191.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ac90a40c1805a63761f571de57c08eaf1", null ],
       [ "SUMMON_GROUP_TRIGGERS", "d1/d45/a03191.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a2fbeedd9d697855685b859c7b5df8a41", null ],
+      [ "GROUP_COMBAT_ABILITIES", "d1/d45/a03191.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a5d7cf54e44fb5a068cd85e6745a6c399", null ],
       [ "ACHIEV_TIMED_START_EVENT", "d3/dcf/a03173.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6ac3776ff6343c84361329e38055da04", null ],
       [ "EVENT_CHECK_HEALTH_25", "d3/dcf/a03173.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ab4c8308b4dc44a86daf5ee851c990687", null ],
       [ "EVENT_CHECK_HEALTH_50", "d3/dcf/a03173.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a279f4abf2411c8e70eb459d7644bc65b", null ],

@@ -1,9 +1,10 @@
 var a13450 =
 [
-    [ "spell_sunwell_teleport", "d3/d9e/a13450.html#a6c61c9bb6cb5737469686a7976207f1d", null ],
-    [ "HandleScript", "d3/d9e/a13450.html#a4bd9ef50ecc45c792feb8e4d820298b5", null ],
-    [ "PrepareSpellScript", "d3/d9e/a13450.html#afc3c927b4bd5ec19074a0ee6d59783f2", null ],
-    [ "Register", "d3/d9e/a13450.html#a3a82c7a6d6673c5860b196e0cd644aab", null ],
-    [ "Validate", "d3/d9e/a13450.html#a351a2beced058f9354515baa38b0292e", null ],
-    [ "_triggeredSpellId", "d3/d9e/a13450.html#a66d97a0028b8a0c430ac5152213f60eb", null ]
+    [ "npc_sunblade_scout", "d3/d9e/a13450.html#ab8ecb0d2fb7dfd482b2cba4ed11ababc", null ],
+    [ "JustEngagedWith", "d3/d9e/a13450.html#ab57b63a624458a9fa598062e61c5fa0e", null ],
+    [ "Reset", "d3/d9e/a13450.html#a8c7f442118fced8a2efac3b9fe0035f5", null ],
+    [ "ScheduleCombat", "d3/d9e/a13450.html#ae4ca796fa8fd4aae6ac8f184638b3f97", null ],
+    [ "ScheduleOOC", "d3/d9e/a13450.html#ae06c1d7b43cc170f3a3b5f4835822d57", null ],
+    [ "UpdateAI", "d3/d9e/a13450.html#aca75482085b72070487c24feefa23fd6", null ],
+    [ "_protectorGUID", "d3/d9e/a13450.html#a753f7fbbea33f7fc49f5d6e733a8f833", null ]
 ];

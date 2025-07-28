@@ -1,11 +1,6 @@
 var a21230 =
 [
-    [ "boss_archavonAI", "de/d7a/a21230.html#a101518193c0fb6bbd6892362a6f09b9c", null ],
-    [ "AttackStart", "de/d7a/a21230.html#ac9f82f61ee7fe945cb3fba23a69e704c", null ],
-    [ "JustDied", "de/d7a/a21230.html#a3974065a80dedf3e673452e7f6f8e449", null ],
-    [ "JustEngagedWith", "de/d7a/a21230.html#ace4a10f62eaa21ecd997ad1dbe15f3c8", null ],
-    [ "Reset", "de/d7a/a21230.html#a7d101626f39947dd54b574491a5e6d72", null ],
-    [ "UpdateAI", "de/d7a/a21230.html#a5abb4c2b4149172d2e7bf0d539237323", null ],
-    [ "events", "de/d7a/a21230.html#a8d7fef6dfcdc5be20f0531c34b09fc13", null ],
-    [ "pInstance", "de/d7a/a21230.html#ab51f09b76054d8bdb13f3c27396db87e", null ]
+    [ "boss_archavonAI", "d8/df3/a21234.html", "d8/df3/a21234" ],
+    [ "boss_archavon", "de/d7a/a21230.html#a44e20480f8d86cf763afe67de49c6c33", null ],
+    [ "GetAI", "de/d7a/a21230.html#a5eb62d54fe1559ef9df51c2bd01f7de4", null ]
 ];

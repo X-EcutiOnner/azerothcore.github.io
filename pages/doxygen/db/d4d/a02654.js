@@ -1,7 +1,7 @@
 var a02654 =
 [
-    [ "instance_sethekk_halls", "df/d4d/a22658.html", "df/d4d/a22658" ],
-    [ "instance_sethekk_halls::instance_sethekk_halls_InstanceMapScript", "df/df2/a22662.html", "df/df2/a22662" ],
+    [ "instance_sethekk_halls", "da/d9b/a22654.html", "da/d9b/a22654" ],
+    [ "instance_sethekk_halls::instance_sethekk_halls_InstanceMapScript", "df/d4d/a22658.html", "df/d4d/a22658" ],
     [ "AddSC_instance_sethekk_halls", "db/d4d/a02654.html#a14325c1667938972a51bf364b00fe3c3", null ],
     [ "anzuSummonEventId", "db/d4d/a02654.html#aa1fc295d418ed62b1c08ea6d11e111e3", null ],
     [ "creatureData", "db/d4d/a02654.html#a412286b689bd324fedd65ddd8dde8afb", null ],

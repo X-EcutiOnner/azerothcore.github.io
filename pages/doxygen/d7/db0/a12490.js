@@ -1,6 +1,6 @@
 var a12490 =
 [
-    [ "boss_sulfuronAI", "d7/db0/a12490.html#a63c76fb94131830924e2bf77477261ba", null ],
-    [ "ExecuteEvent", "d7/db0/a12490.html#ae038aa8140f5b4128c39c592966321f1", null ],
-    [ "JustEngagedWith", "d7/db0/a12490.html#a35394690b8d25529c91c147025f6ad92", null ]
+    [ "boss_sulfuronAI", "dd/dbc/a12494.html", "dd/dbc/a12494" ],
+    [ "boss_sulfuron", "d7/db0/a12490.html#aed72791db02009136592b905cc4f4df3", null ],
+    [ "GetAI", "d7/db0/a12490.html#aced001845e4a9bb9f517d45a36f474c7", null ]
 ];

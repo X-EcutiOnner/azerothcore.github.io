@@ -1,6 +1,6 @@
 var a14230 =
 [
-    [ "go_direbrew_mole_machineAI", "d2/d07/a14234.html", "d2/d07/a14234" ],
-    [ "go_direbrew_mole_machine", "d3/d78/a14230.html#a759d291a5be227d8beae3bbc779e56f4", null ],
-    [ "GetAI", "d3/d78/a14230.html#a793e5e544664d6c2c3897161c9cccbbb", null ]
+    [ "npc_direbrew_antagonist", "d3/d78/a14230.html#a30fed4e6888d98af576dea8e13c510d3", null ],
+    [ "DoAction", "d3/d78/a14230.html#a924891e5d4e3f30d78186bedf76cf7d1", null ],
+    [ "JustEngagedWith", "d3/d78/a14230.html#aaf54b03d66d726901c289ff28d362787", null ]
 ];

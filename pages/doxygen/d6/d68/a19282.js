@@ -1,5 +1,6 @@
 var a19282 =
 [
-    [ "go_the_focusing_iris", "d6/d68/a19282.html#a9c2fa1e739ff98ebdd9b9fdcc2ab5ece", null ],
-    [ "OnGossipHello", "d6/d68/a19282.html#a7f3f1170713d63f912ca5732453a7e33", null ]
+    [ "npc_eoe_wyrmrest_skytalonAI", "d6/d68/a19282.html#a0878695bc4179e3b6e92dde9f2b5cf19", null ],
+    [ "JustDied", "d6/d68/a19282.html#aaa88ff236fd49a9c672ab29feb7377b8", null ],
+    [ "PassengerBoarded", "d6/d68/a19282.html#aa3352276e87d805cc8722eb97d10ca46", null ]
 ];

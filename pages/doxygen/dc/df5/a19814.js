@@ -1,5 +1,6 @@
 var a19814 =
 [
-    [ "achievement_cant_do_that_while_stunned", "dc/df5/a19814.html#a4d474b36f61631688ea723d2e4033574", null ],
-    [ "OnCheck", "dc/df5/a19814.html#a0b108bdcab0bc412975e61247f226bf8", null ]
+    [ "achievement_assembly_of_iron", "dc/df5/a19814.html#ae90d193b039d88ce38108b6617b5b8e9", null ],
+    [ "OnCheck", "dc/df5/a19814.html#ae66b3e708b38bfe685f9d28c14c2d3f5", null ],
+    [ "_targetEntry", "dc/df5/a19814.html#a20e8938ff30b18737fb96cf0277b5680", null ]
 ];

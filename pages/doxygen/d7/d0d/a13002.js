@@ -1,6 +1,7 @@
 var a13002 =
 [
-    [ "OnRemove", "d7/d0d/a13002.html#aedad236b202300eee0925e3600b87bfa", null ],
-    [ "PrepareAuraScript", "d7/d0d/a13002.html#acfdeb98e274989e378d4d4c800306a24", null ],
-    [ "Register", "d7/d0d/a13002.html#a0d820ca108e3aabe87ab5867d997264c", null ]
+    [ "CheckCast", "d7/d0d/a13002.html#a3fe12c32e49232c2ea80095e62b4f981", null ],
+    [ "HandleScriptEffect", "d7/d0d/a13002.html#af265f0bba7028f45763a7f9afea2d051", null ],
+    [ "PrepareSpellScript", "d7/d0d/a13002.html#a27518fd5482e65e0324100057e747d68", null ],
+    [ "Register", "d7/d0d/a13002.html#a07789d7d092eb1b6633200442466c52b", null ]
 ];

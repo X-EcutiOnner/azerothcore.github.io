@@ -1,6 +1,6 @@
 var a23074 =
 [
-    [ "HandleProc", "d8/d79/a23074.html#a93dfb9e0dac89cb66f340c41dbc526bb", null ],
-    [ "PrepareAuraScript", "d8/d79/a23074.html#a94b244ef26355d53c874aec6d26f3a53", null ],
-    [ "Register", "d8/d79/a23074.html#a9499d88802213ceb877e19d1651324f2", null ]
+    [ "OnPeriodic", "d8/d79/a23074.html#aef6afe014ce90711cd7628563aada2a4", null ],
+    [ "PrepareAuraScript", "d8/d79/a23074.html#a40a98b79b445d3cebe3f195cb9c03a80", null ],
+    [ "Register", "d8/d79/a23074.html#a44c261ff549ddf0b1dad5ae6d0ff2432", null ]
 ];

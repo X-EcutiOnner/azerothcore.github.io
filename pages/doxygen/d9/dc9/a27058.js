@@ -1,8 +1,7 @@
 var a27058 =
 [
-    [ "CharacterActionIpLogger", "d9/dc9/a27058.html#a39861f7348a79031a8215b435ba81059", null ],
-    [ "CharacterIPLogAction", "d9/dc9/a27058.html#abf461fe7e7d89057aeb122abbd27e30e", null ],
-    [ "OnPlayerCreate", "d9/dc9/a27058.html#a48844efac9d9af9c6415ad49d2473688", null ],
-    [ "OnPlayerLogin", "d9/dc9/a27058.html#a753ed387ea50eaf4c56846eab33cdfc0", null ],
-    [ "OnPlayerLogout", "d9/dc9/a27058.html#a3a4bcaf033e71e2dbeddc2ee6528494e", null ]
+    [ "CharacterDeleteActionIpLogger", "d9/dc9/a27058.html#a37481de65409cf375dcff45615463949", null ],
+    [ "DeleteIPLogAction", "d9/dc9/a27058.html#a73a5ddacd8892d2300be313cfc12f534", null ],
+    [ "OnPlayerDelete", "d9/dc9/a27058.html#adb16e45e425fa816b2572692349d0005", null ],
+    [ "OnPlayerFailedDelete", "d9/dc9/a27058.html#a16bc6247d220c1b6c52808cb4a522c11", null ]
 ];

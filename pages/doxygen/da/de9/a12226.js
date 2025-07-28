@@ -1,7 +1,7 @@
 var a12226 =
 [
-    [ "HandleScript", "da/de9/a12226.html#ac6ef94a03f602b44a5c7c22b7e41d116", null ],
-    [ "PrepareSpellScript", "da/de9/a12226.html#ad92a56c23b9f15e36766fe64d1d0dd17", null ],
-    [ "Register", "da/de9/a12226.html#aa8ad85cbf0403d79e55bbe0ae184407b", null ],
-    [ "Validate", "da/de9/a12226.html#a3ad038e7bf43dceedb0fceebd4070bfa", null ]
+    [ "HandleScript", "da/de9/a12226.html#a0d244cc1785b136bae0960d697dc761d", null ],
+    [ "PrepareSpellScript", "da/de9/a12226.html#a13f3ebef30c315c02090ee3a19a156e4", null ],
+    [ "Register", "da/de9/a12226.html#a3871fb036ec6e0ea006f869c21e88c8f", null ],
+    [ "Validate", "da/de9/a12226.html#a1413754f3a79caf8ec57d394c68f3499", null ]
 ];

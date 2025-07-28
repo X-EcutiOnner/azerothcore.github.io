@@ -175,6 +175,7 @@ var a02333 =
       [ "LANG_INVALID_GAMEOBJECT_TYPE", "d7/dbe/a02333.html#af9ee42b1cf006ecb2d2e74fe71c0761aa9f8201902334a052570515b85e5d1eff", null ],
       [ "LANG_GAMEOBJECT_DAMAGED", "d7/dbe/a02333.html#af9ee42b1cf006ecb2d2e74fe71c0761aa6d3423c58d9c6d2786b6d4a1d5af49e5", null ],
       [ "LANG_GRID_POSITION", "d7/dbe/a02333.html#af9ee42b1cf006ecb2d2e74fe71c0761aae5b6affd8a1b7c234fd5039b6d1ddbcc", null ],
+      [ "LANG_ACCOUNT_FLAGS_PINFO", "d7/dbe/a02333.html#af9ee42b1cf006ecb2d2e74fe71c0761aad412e673f5bf54504fce3a923f650bc1", null ],
       [ "LANG_TRANSPORT_POSITION", "d7/dbe/a02333.html#af9ee42b1cf006ecb2d2e74fe71c0761aa9bd656cee689921033f84941d8ae9d37", null ],
       [ "LANG_PROFANITY_NAME", "d7/dbe/a02333.html#af9ee42b1cf006ecb2d2e74fe71c0761aa9d7721340555b7f6ff580d7185ce558c", null ],
       [ "LANG_2FA_SECRET_TOO_LONG", "d7/dbe/a02333.html#af9ee42b1cf006ecb2d2e74fe71c0761aa08d320c01226df8bea93597c5a3cb833", null ],

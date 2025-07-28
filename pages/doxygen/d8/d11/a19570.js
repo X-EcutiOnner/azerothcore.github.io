@@ -1,7 +1,12 @@
 var a19570 =
 [
-    [ "HandleScript", "d8/d11/a19570.html#a5d778f906e1ee820cc97b0b32839cc78", null ],
-    [ "PrepareSpellScript", "d8/d11/a19570.html#a34337690029eedb60a17572dbbf1e1f9", null ],
-    [ "Register", "d8/d11/a19570.html#ad554d79e1a98490085b22f5038d058da", null ],
-    [ "Validate", "d8/d11/a19570.html#a0932ccc5652bc4901aacbe2cf8d6c7d8", null ]
+    [ "boss_krystallusAI", "d8/d11/a19570.html#adfa2ab8498279937bf497292d6e7cba5", null ],
+    [ "JustDied", "d8/d11/a19570.html#a5b77186f7c0920142a64a03c508dcc3e", null ],
+    [ "JustEngagedWith", "d8/d11/a19570.html#aaba17094bfe43c9ad63076f84d10a83a", null ],
+    [ "KilledUnit", "d8/d11/a19570.html#acf9101c5b776820039fd80e5d6e0c138", null ],
+    [ "RemoveStonedEffect", "d8/d11/a19570.html#ae8bdb2bca7c01c564adab93f1dd67720", null ],
+    [ "Reset", "d8/d11/a19570.html#ae163fbd682f09f2a49fa71309284ed3b", null ],
+    [ "UpdateAI", "d8/d11/a19570.html#a79095e25f1d9dac927f63cef67db60ec", null ],
+    [ "events", "d8/d11/a19570.html#afcd06280f8c7640ff9a56223f5bf3555", null ],
+    [ "pInstance", "d8/d11/a19570.html#aec9cf7053476298f72dccf3bd1579c63", null ]
 ];

@@ -1,13 +1,13 @@
 var a04496 =
 [
-    [ "boss_kalecgos", "d5/d21/a13298.html", "d5/d21/a13298" ],
-    [ "boss_kalec", "dc/d34/a13302.html", "dc/d34/a13302" ],
-    [ "boss_sathrovarr", "d2/df9/a13306.html", "d2/df9/a13306" ],
-    [ "SpectralBlastCheck", "db/d65/a13310.html", "db/d65/a13310" ],
-    [ "spell_kalecgos_spectral_blast_dummy", "d9/d3b/a13314.html", "d9/d3b/a13314" ],
-    [ "spell_kalecgos_curse_of_boundless_agony_aura", "da/d9b/a13318.html", "da/d9b/a13318" ],
-    [ "spell_kalecgos_spectral_realm_dummy", "d5/dac/a13322.html", "d5/dac/a13322" ],
-    [ "spell_kalecgos_spectral_realm_aura", "dd/d3d/a13326.html", "dd/d3d/a13326" ],
+    [ "boss_kalecgos", "dc/d34/a13302.html", "dc/d34/a13302" ],
+    [ "boss_kalec", "d2/df9/a13306.html", "d2/df9/a13306" ],
+    [ "boss_sathrovarr", "db/d65/a13310.html", "db/d65/a13310" ],
+    [ "SpectralBlastCheck", "d9/d3b/a13314.html", "d9/d3b/a13314" ],
+    [ "spell_kalecgos_spectral_blast_dummy", "da/d9b/a13318.html", "da/d9b/a13318" ],
+    [ "spell_kalecgos_curse_of_boundless_agony_aura", "d5/dac/a13322.html", "d5/dac/a13322" ],
+    [ "spell_kalecgos_spectral_realm_dummy", "dd/d3d/a13326.html", "dd/d3d/a13326" ],
+    [ "spell_kalecgos_spectral_realm_aura", "dd/d99/a13330.html", "dd/d99/a13330" ],
     [ "DRAGON_REALM_Z", "d1/d55/a04496.html#a1b91e4a720662db9acdb526263aca28e", null ],
     [ "Spells", "d1/d55/a04496.html#a5bd342133be8c2137b831460acc9298c", [
       [ "SPELL_OIL_REFINERY", "df/d3b/a00728.html#a5bd342133be8c2137b831460acc9298cae2eb4db3c46b45e80cc2feb9c34f2ada", null ],

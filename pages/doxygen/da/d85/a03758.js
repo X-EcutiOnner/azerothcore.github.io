@@ -1,8 +1,8 @@
 var a03758 =
 [
-    [ "boss_huhuran", "db/d6e/a15130.html", "db/d6e/a15130" ],
-    [ "spell_huhuran_wyvern_sting", "df/d2f/a15134.html", "df/d2f/a15134" ],
-    [ "spell_huhuran_poison_bolt", "d7/d02/a15138.html", "d7/d02/a15138" ],
+    [ "boss_huhuran", "df/d2f/a15134.html", "df/d2f/a15134" ],
+    [ "spell_huhuran_wyvern_sting", "d7/d02/a15138.html", "d7/d02/a15138" ],
+    [ "spell_huhuran_poison_bolt", "d4/d3c/a15142.html", "d4/d3c/a15142" ],
     [ "Emotes", "da/d85/a03758.html#a2d0a63150f7988db8ff39124dc1cb21a", [
       [ "EMOTE_FRENZY", "d2/d98/a04244.html#a2d0a63150f7988db8ff39124dc1cb21aa55f111609d7846e27c2f642b9f46b1ac", null ],
       [ "EMOTE_SHIMMER", "d2/d98/a04244.html#a2d0a63150f7988db8ff39124dc1cb21aa706a7a036a41d3d1f2650ee226e9ec1e", null ],

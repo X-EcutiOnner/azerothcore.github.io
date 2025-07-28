@@ -1,6 +1,6 @@
 var a12506 =
 [
-    [ "instance_molten_core_InstanceMapScript", "d7/df8/a12510.html", "d7/df8/a12510" ],
-    [ "instance_molten_core", "d9/d86/a12506.html#ad83dac834feb2fcae872dfe09b833950", null ],
-    [ "GetInstanceScript", "d9/d86/a12506.html#ab7c794f1503f0ecad8d41ace72737a5d", null ]
+    [ "bossId", "d9/d86/a12506.html#a898f2ce24d96fb7d6a118e9772344c43", null ],
+    [ "circleId", "d9/d86/a12506.html#aaa379e61fda2f7225ab4089757df5d24", null ],
+    [ "runeId", "d9/d86/a12506.html#aa7ac7e2d5729aa906e00ca9c2648581d", null ]
 ];

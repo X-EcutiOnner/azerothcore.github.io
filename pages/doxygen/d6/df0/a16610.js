@@ -1,6 +1,5 @@
 var a16610 =
 [
-    [ "npc_concentrated_ballAI", "d1/d36/a16614.html", "d1/d36/a16614" ],
-    [ "npc_concentrated_ball", "d6/df0/a16610.html#a1f3a873baf61157e704bcb7e524b1d46", null ],
-    [ "GetAI", "d6/df0/a16610.html#add43f8cb27a699ba732d62fedd9d2f02", null ]
+    [ "npc_essence_of_twin", "d6/df0/a16610.html#a019de64e5e01e611acfda5db4c279b19", null ],
+    [ "OnGossipHello", "d6/df0/a16610.html#a6f37b7f1152098b41b07ddbae3613c63", null ]
 ];

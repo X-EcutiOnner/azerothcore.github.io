@@ -1,8 +1,6 @@
 var a13358 =
 [
-    [ "FilterTargets", "db/d2a/a13358.html#a3282eb4c27b4256705bba47f4934c9b8", null ],
-    [ "HandleScriptEffect", "db/d2a/a13358.html#a8622351d9984d2de69ccd67d37fd52b9", null ],
-    [ "PrepareSpellScript", "db/d2a/a13358.html#a6083e35b4289b8a960dd6b223e1d02b5", null ],
-    [ "Register", "db/d2a/a13358.html#a57b42bf7b94ef5b23092ed097ce016e8", null ],
-    [ "Validate", "db/d2a/a13358.html#a5493864b068de82015bc157f3d0899b3", null ]
+    [ "HandlePeriodic", "db/d2a/a13358.html#aec1ff41f0051a6c6dfbd11ea7741b1af", null ],
+    [ "PrepareAuraScript", "db/d2a/a13358.html#a7ac99d626990f068a00f403847bfa6bc", null ],
+    [ "Register", "db/d2a/a13358.html#ad3c0a2c270d1b8c31761674f89500b8a", null ]
 ];

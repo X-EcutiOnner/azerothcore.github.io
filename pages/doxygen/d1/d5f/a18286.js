@@ -1,12 +1,6 @@
 var a18286 =
 [
-    [ "npc_raging_spiritAI", "d1/d5f/a18286.html#a1c85351ae62d5f45381214373e64aec4", null ],
-    [ "AttackStart", "d1/d5f/a18286.html#a16ab37be9e31dcfc159b5c78b196b847", null ],
-    [ "CanAIAttack", "d1/d5f/a18286.html#a64fa46f05861d8736d881aa3687f4320", null ],
-    [ "IsSummonedBy", "d1/d5f/a18286.html#a836d605f4320ba9fd49cb60d6a1e032d", null ],
-    [ "JustDied", "d1/d5f/a18286.html#a821377a2c29b4180db00f2c4f4268fe7", null ],
-    [ "Reset", "d1/d5f/a18286.html#a9dae9cb2c6f18d89d06cfa72b98d36f2", null ],
-    [ "UpdateAI", "d1/d5f/a18286.html#a64beac4aafa9e9bb2089a7c1e35fe8a5", null ],
-    [ "_events", "d1/d5f/a18286.html#af5783316983b622f20d8c677f2858111", null ],
-    [ "_instance", "d1/d5f/a18286.html#aaa9b5728fcdb379849434385b3501251", null ]
+    [ "npc_raging_spiritAI", "d2/dda/a18290.html", "d2/dda/a18290" ],
+    [ "npc_raging_spirit", "d1/d5f/a18286.html#ad1a580bd394adc8c58575b600c16f9db", null ],
+    [ "GetAI", "d1/d5f/a18286.html#ab572a667f6ddd0d4051fe424c8d9e21c", null ]
 ];

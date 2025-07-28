@@ -1,7 +1,7 @@
 var a14422 =
 [
-    [ "HandleScript", "de/db3/a14422.html#a78899a874a645d531dd4d89f2bd5478a", null ],
-    [ "PrepareSpellScript", "de/db3/a14422.html#adc96c1dbf0b561a72d26dca57d5bfcec", null ],
-    [ "Register", "de/db3/a14422.html#a76942c06492a48ce16bb85cf55d1e58d", null ],
-    [ "Validate", "de/db3/a14422.html#a727f7c6ab1a2b5635e0b8fbd071d863d", null ]
+    [ "HandleEffectApply", "de/db3/a14422.html#ad48d832fef881bfb517fb8df694b7507", null ],
+    [ "HandleEffectRemove", "de/db3/a14422.html#a1534b010301dbaff66d41443142c50b7", null ],
+    [ "PrepareAuraScript", "de/db3/a14422.html#ab4bba02a5e2196ad65ccea94a4615a9d", null ],
+    [ "Register", "de/db3/a14422.html#a97a0003cca808e5b03f720bb3be07419", null ]
 ];

@@ -1,6 +1,7 @@
 var a19802 =
 [
-    [ "HandleInstaKill", "d7/d42/a19802.html#a9371a2cc86616fd04e47939d45f01cae", null ],
-    [ "PrepareSpellScript", "d7/d42/a19802.html#a38eed301f1db3ea7ac15b626e5927500", null ],
-    [ "Register", "d7/d42/a19802.html#a9aaf3e86a2c14ee79cc013b3978621ee", null ]
+    [ "OnRemove", "d7/d42/a19802.html#a4d7ec990112b4ed602bcacf5a6de6722", null ],
+    [ "PrepareAuraScript", "d7/d42/a19802.html#a7cc9f0d6882b713c7b0a2585d6008437", null ],
+    [ "Register", "d7/d42/a19802.html#ad3a66fdfb2a159461bb3deeab6f71c13", null ],
+    [ "Validate", "d7/d42/a19802.html#a8bd121743d1153ae3fd8eb124e475d0f", null ]
 ];

@@ -1,6 +1,10 @@
 var a19242 =
 [
-    [ "npc_nexus_lordAI", "de/dcd/a19246.html", "de/dcd/a19246" ],
-    [ "npc_nexus_lord", "d5/dea/a19242.html#a6e58f0074451dfd04b95b3ecaa0201e3", null ],
-    [ "GetAI", "d5/dea/a19242.html#a1cea0b189b2ef8e932b51caf3d70d6ba", null ]
+    [ "npc_power_sparkAI", "d5/dea/a19242.html#a3f0fd553d859c5709ed2dbd9051db3d3", null ],
+    [ "DamageTaken", "d5/dea/a19242.html#aebd86516e17e77711d3877a11a159105", null ],
+    [ "DoAction", "d5/dea/a19242.html#a54b4578be614da76cc886dedbe3d853e", null ],
+    [ "UpdateAI", "d5/dea/a19242.html#a7e9b2a161fc88d269e631d47c38bfd5e", null ],
+    [ "CheckTimer", "d5/dea/a19242.html#af98dff7dd45c258d45ce81b8520e56a8", null ],
+    [ "MoveTimer", "d5/dea/a19242.html#af16a57b82fb94eb464c51b6006f2a66b", null ],
+    [ "pInstance", "d5/dea/a19242.html#a4142b3872dd17015eeabb2eaee0c3369", null ]
 ];

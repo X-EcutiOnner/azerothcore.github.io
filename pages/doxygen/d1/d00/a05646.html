@@ -145,6 +145,8 @@ Public Attributes</h2></td></tr>
 <tr class="separator:a69846e3f67cbe53f920ba36ecf301467"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:acb4c44664aff165a48d262f81849caf4"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/de7/a00014.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d00/a05646.html#acb4c44664aff165a48d262f81849caf4">Expansion</a></td></tr>
 <tr class="separator:acb4c44664aff165a48d262f81849caf4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a95eeb7d5ac99719aa16f467717b815e3"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d00/a05646.html#a95eeb7d5ac99719aa16f467717b815e3">Flags</a></td></tr>
+<tr class="separator:a95eeb7d5ac99719aa16f467717b815e3"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a29aaa2c7cebfb41bff13836a80a3ef10"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/de7/a00014.html#ad7a3bd3be7bd59e7fb6337fcbc956eb1">int64</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d00/a05646.html#a29aaa2c7cebfb41bff13836a80a3ef10">MuteTime</a></td></tr>
 <tr class="separator:a29aaa2c7cebfb41bff13836a80a3ef10"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a237d1cfbc774d06851df27610e49bcac"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d4/d51/a00017.html#a54c9b637be7283ba1a04fb5215594332">LocaleConstant</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d00/a05646.html#a237d1cfbc774d06851df27610e49bcac">Locale</a></td></tr>
@@ -185,45 +187,46 @@ Public Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  365</span>    {</div>
-<div class="line"><span class="lineno">  366</span>        <span class="comment">//           0             1          2         3               4            5           6         7            8     9           10          11</span></div>
-<div class="line"><span class="lineno">  367</span>        <span class="comment">// SELECT a.id, a.sessionkey, a.last_ip, a.locked, a.lock_country, a.expansion, a.mutetime, a.locale, a.recruiter, a.os, a.totaltime, aa.gmLevel,</span></div>
-<div class="line"><span class="lineno">  368</span>        <span class="comment">//                                                           12    13</span></div>
-<div class="line"><span class="lineno">  369</span>        <span class="comment">// ab.unbandate &gt; UNIX_TIMESTAMP() OR ab.unbandate = ab.bandate, r.id</span></div>
-<div class="line"><span class="lineno">  370</span>        <span class="comment">// FROM account a</span></div>
-<div class="line"><span class="lineno">  371</span>        <span class="comment">// LEFT JOIN account_access aa ON a.id = aa.AccountID AND aa.RealmID IN (-1, ?)</span></div>
-<div class="line"><span class="lineno">  372</span>        <span class="comment">// LEFT JOIN account_banned ab ON a.id = ab.id</span></div>
-<div class="line"><span class="lineno">  373</span>        <span class="comment">// LEFT JOIN account r ON a.id = r.recruiter</span></div>
-<div class="line"><span class="lineno">  374</span>        <span class="comment">// WHERE a.username = ? ORDER BY aa.RealmID DESC LIMIT 1</span></div>
-<div class="line"><span class="lineno">  375</span>        <a class="code hl_variable" href="../../d1/d00/a05646.html#a8927a7332aba609a90e35555a62c2013">Id</a> = fields[0].<a class="code hl_function" href="../../d4/d00/a05710.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;();</div>
-<div class="line"><span class="lineno">  376</span>        <a class="code hl_typedef" href="../../d3/de5/a00209.html#a7cbcb71452529a2addaab3b112dba4d7">SessionKey</a> = fields[1].<a class="code hl_function" href="../../d4/d00/a05710.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../d4/d88/a04637.html#a45c2b15f675e85c1f4462be09f27c59e">Binary</a>, <a class="code hl_variable" href="../../d3/de5/a00209.html#accf22e06a217bb405f0ee6f240d2e263">SESSION_KEY_LENGTH</a>&gt;();</div>
-<div class="line"><span class="lineno">  377</span>        <a class="code hl_variable" href="../../d1/d00/a05646.html#aba34159637020c1858f80bec57ba4945">LastIP</a> = fields[2].<a class="code hl_function" href="../../d4/d00/a05710.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;std::string&gt;();</div>
-<div class="line"><span class="lineno">  378</span>        <a class="code hl_variable" href="../../d1/d00/a05646.html#aa4f52d33739d0d0adc3fa88a09ae7465">IsLockedToIP</a> = fields[3].<a class="code hl_function" href="../../d4/d00/a05710.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<span class="keywordtype">bool</span>&gt;();</div>
-<div class="line"><span class="lineno">  379</span>        <a class="code hl_variable" href="../../d1/d00/a05646.html#a00646bbedb925aafea7ef9cbc2bacb3c">LockCountry</a> = fields[4].<a class="code hl_function" href="../../d4/d00/a05710.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;std::string&gt;();</div>
-<div class="line"><span class="lineno">  380</span>        <a class="code hl_variable" href="../../d1/d00/a05646.html#acb4c44664aff165a48d262f81849caf4">Expansion</a> = fields[5].<a class="code hl_function" href="../../d4/d00/a05710.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../d2/de7/a00014.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&gt;();</div>
-<div class="line"><span class="lineno">  381</span>        <a class="code hl_variable" href="../../d1/d00/a05646.html#a29aaa2c7cebfb41bff13836a80a3ef10">MuteTime</a> = fields[6].<a class="code hl_function" href="../../d4/d00/a05710.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../d2/de7/a00014.html#ad7a3bd3be7bd59e7fb6337fcbc956eb1">int64</a>&gt;();</div>
-<div class="line"><span class="lineno">  382</span>        <a class="code hl_variable" href="../../d1/d00/a05646.html#a237d1cfbc774d06851df27610e49bcac">Locale</a> = <a class="code hl_enumeration" href="../../d4/d51/a00017.html#a54c9b637be7283ba1a04fb5215594332">LocaleConstant</a>(fields[7].Get&lt;uint8&gt;());</div>
-<div class="line"><span class="lineno">  383</span>        <a class="code hl_variable" href="../../d1/d00/a05646.html#a051493f00148208e9284ef33b9c31fad">Recruiter</a> = fields[8].<a class="code hl_function" href="../../d4/d00/a05710.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;();</div>
-<div class="line"><span class="lineno">  384</span>        <a class="code hl_variable" href="../../d1/d00/a05646.html#a04c0477667a84d67709222b2fc08dfb2">OS</a> = fields[9].<a class="code hl_function" href="../../d4/d00/a05710.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;std::string&gt;();</div>
-<div class="line"><span class="lineno">  385</span>        <a class="code hl_variable" href="../../d1/d00/a05646.html#adbcb5bdadd845735c4cbc9da0b7ac87b">TotalTime</a> = fields[10].<a class="code hl_function" href="../../d4/d00/a05710.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;();</div>
-<div class="line"><span class="lineno">  386</span>        <a class="code hl_variable" href="../../d1/d00/a05646.html#a7d5e4dc93d075121b8f77ac767396c46">Security</a> = <a class="code hl_enumeration" href="../../d4/d51/a00017.html#adaa1cabfe05f8df3c272bdcfd89cdac7">AccountTypes</a>(fields[11].Get&lt;uint8&gt;());</div>
-<div class="line"><span class="lineno">  387</span>        <a class="code hl_variable" href="../../d1/d00/a05646.html#a9e199ded02bf60c9f05408955af21d84">IsBanned</a> = fields[12].<a class="code hl_function" href="../../d4/d00/a05710.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../d2/de7/a00014.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a>&gt;() != 0;</div>
-<div class="line"><span class="lineno">  388</span>        <a class="code hl_variable" href="../../d1/d00/a05646.html#a5ca2037c73bbad9d8ff5ccea06a5676f">IsRectuiter</a> = fields[13].<a class="code hl_function" href="../../d4/d00/a05710.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;() != 0;</div>
-<div class="line"><span class="lineno">  389</span> </div>
-<div class="line"><span class="lineno">  390</span>        <a class="code hl_typedef" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> world_expansion = <a class="code hl_define" href="../../d8/def/a04771.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>-&gt;getIntConfig(<a class="code hl_enumvalue" href="../../d9/d9b/a01889.html#a468ad15992691eb97dd20680046832e0ad89550cbe9f702ee1088f0221981bc67">CONFIG_EXPANSION</a>);</div>
-<div class="line"><span class="lineno">  391</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d1/d00/a05646.html#acb4c44664aff165a48d262f81849caf4">Expansion</a> &gt; world_expansion)</div>
-<div class="line"><span class="lineno">  392</span>            <a class="code hl_variable" href="../../d1/d00/a05646.html#acb4c44664aff165a48d262f81849caf4">Expansion</a> = world_expansion;</div>
-<div class="line"><span class="lineno">  393</span> </div>
-<div class="line"><span class="lineno">  394</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d1/d00/a05646.html#a237d1cfbc774d06851df27610e49bcac">Locale</a> &gt;= <a class="code hl_enumvalue" href="../../d4/d51/a00017.html#a54c9b637be7283ba1a04fb5215594332a7f84fea169b93e300da83986234a30d8">TOTAL_LOCALES</a>)</div>
-<div class="line"><span class="lineno">  395</span>            <a class="code hl_variable" href="../../d1/d00/a05646.html#a237d1cfbc774d06851df27610e49bcac">Locale</a> = <a class="code hl_enumvalue" href="../../d4/d51/a00017.html#a54c9b637be7283ba1a04fb5215594332ac07b7e8b5def3b0907685ac6c3566de3">LOCALE_enUS</a>;</div>
-<div class="line"><span class="lineno">  396</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  366</span>    {</div>
+<div class="line"><span class="lineno">  367</span>        <span class="comment">//           0             1          2         3               4            5        6          7         8            9    10           11          12</span></div>
+<div class="line"><span class="lineno">  368</span>        <span class="comment">// SELECT a.id, a.sessionkey, a.last_ip, a.locked, a.lock_country, a.expansion, a.Flags a.mutetime, a.locale, a.recruiter, a.os, a.totaltime, aa.gmLevel,</span></div>
+<div class="line"><span class="lineno">  369</span>        <span class="comment">//                                                           13    14</span></div>
+<div class="line"><span class="lineno">  370</span>        <span class="comment">// ab.unbandate &gt; UNIX_TIMESTAMP() OR ab.unbandate = ab.bandate, r.id</span></div>
+<div class="line"><span class="lineno">  371</span>        <span class="comment">// FROM account a</span></div>
+<div class="line"><span class="lineno">  372</span>        <span class="comment">// LEFT JOIN account_access aa ON a.id = aa.AccountID AND aa.RealmID IN (-1, ?)</span></div>
+<div class="line"><span class="lineno">  373</span>        <span class="comment">// LEFT JOIN account_banned ab ON a.id = ab.id</span></div>
+<div class="line"><span class="lineno">  374</span>        <span class="comment">// LEFT JOIN account r ON a.id = r.recruiter</span></div>
+<div class="line"><span class="lineno">  375</span>        <span class="comment">// WHERE a.username = ? ORDER BY aa.RealmID DESC LIMIT 1</span></div>
+<div class="line"><span class="lineno">  376</span>        <a class="code hl_variable" href="../../d1/d00/a05646.html#a8927a7332aba609a90e35555a62c2013">Id</a> = fields[0].<a class="code hl_function" href="../../d4/d00/a05710.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;();</div>
+<div class="line"><span class="lineno">  377</span>        <a class="code hl_typedef" href="../../d3/de5/a00209.html#a7cbcb71452529a2addaab3b112dba4d7">SessionKey</a> = fields[1].<a class="code hl_function" href="../../d4/d00/a05710.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../d4/d88/a04637.html#a45c2b15f675e85c1f4462be09f27c59e">Binary</a>, <a class="code hl_variable" href="../../d3/de5/a00209.html#accf22e06a217bb405f0ee6f240d2e263">SESSION_KEY_LENGTH</a>&gt;();</div>
+<div class="line"><span class="lineno">  378</span>        <a class="code hl_variable" href="../../d1/d00/a05646.html#aba34159637020c1858f80bec57ba4945">LastIP</a> = fields[2].<a class="code hl_function" href="../../d4/d00/a05710.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;std::string&gt;();</div>
+<div class="line"><span class="lineno">  379</span>        <a class="code hl_variable" href="../../d1/d00/a05646.html#aa4f52d33739d0d0adc3fa88a09ae7465">IsLockedToIP</a> = fields[3].<a class="code hl_function" href="../../d4/d00/a05710.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<span class="keywordtype">bool</span>&gt;();</div>
+<div class="line"><span class="lineno">  380</span>        <a class="code hl_variable" href="../../d1/d00/a05646.html#a00646bbedb925aafea7ef9cbc2bacb3c">LockCountry</a> = fields[4].<a class="code hl_function" href="../../d4/d00/a05710.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;std::string&gt;();</div>
+<div class="line"><span class="lineno">  381</span>        <a class="code hl_variable" href="../../d1/d00/a05646.html#acb4c44664aff165a48d262f81849caf4">Expansion</a> = fields[5].<a class="code hl_function" href="../../d4/d00/a05710.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../d2/de7/a00014.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&gt;();</div>
+<div class="line"><span class="lineno">  382</span>        <a class="code hl_variable" href="../../d1/d00/a05646.html#a95eeb7d5ac99719aa16f467717b815e3">Flags</a> = fields[6].<a class="code hl_function" href="../../d4/d00/a05710.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;();</div>
+<div class="line"><span class="lineno">  383</span>        <a class="code hl_variable" href="../../d1/d00/a05646.html#a29aaa2c7cebfb41bff13836a80a3ef10">MuteTime</a> = fields[7].<a class="code hl_function" href="../../d4/d00/a05710.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../d2/de7/a00014.html#ad7a3bd3be7bd59e7fb6337fcbc956eb1">int64</a>&gt;();</div>
+<div class="line"><span class="lineno">  384</span>        <a class="code hl_variable" href="../../d1/d00/a05646.html#a237d1cfbc774d06851df27610e49bcac">Locale</a> = <a class="code hl_enumeration" href="../../d4/d51/a00017.html#a54c9b637be7283ba1a04fb5215594332">LocaleConstant</a>(fields[8].Get&lt;uint8&gt;());</div>
+<div class="line"><span class="lineno">  385</span>        <a class="code hl_variable" href="../../d1/d00/a05646.html#a051493f00148208e9284ef33b9c31fad">Recruiter</a> = fields[9].<a class="code hl_function" href="../../d4/d00/a05710.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;();</div>
+<div class="line"><span class="lineno">  386</span>        <a class="code hl_variable" href="../../d1/d00/a05646.html#a04c0477667a84d67709222b2fc08dfb2">OS</a> = fields[10].<a class="code hl_function" href="../../d4/d00/a05710.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;std::string&gt;();</div>
+<div class="line"><span class="lineno">  387</span>        <a class="code hl_variable" href="../../d1/d00/a05646.html#adbcb5bdadd845735c4cbc9da0b7ac87b">TotalTime</a> = fields[11].<a class="code hl_function" href="../../d4/d00/a05710.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;();</div>
+<div class="line"><span class="lineno">  388</span>        <a class="code hl_variable" href="../../d1/d00/a05646.html#a7d5e4dc93d075121b8f77ac767396c46">Security</a> = <a class="code hl_enumeration" href="../../d4/d51/a00017.html#adaa1cabfe05f8df3c272bdcfd89cdac7">AccountTypes</a>(fields[12].Get&lt;uint8&gt;());</div>
+<div class="line"><span class="lineno">  389</span>        <a class="code hl_variable" href="../../d1/d00/a05646.html#a9e199ded02bf60c9f05408955af21d84">IsBanned</a> = fields[13].<a class="code hl_function" href="../../d4/d00/a05710.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../d2/de7/a00014.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a>&gt;() != 0;</div>
+<div class="line"><span class="lineno">  390</span>        <a class="code hl_variable" href="../../d1/d00/a05646.html#a5ca2037c73bbad9d8ff5ccea06a5676f">IsRectuiter</a> = fields[14].<a class="code hl_function" href="../../d4/d00/a05710.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;() != 0;</div>
+<div class="line"><span class="lineno">  391</span> </div>
+<div class="line"><span class="lineno">  392</span>        <a class="code hl_typedef" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> world_expansion = <a class="code hl_define" href="../../d8/def/a04771.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>-&gt;getIntConfig(<a class="code hl_enumvalue" href="../../d9/d9b/a01889.html#a468ad15992691eb97dd20680046832e0ad89550cbe9f702ee1088f0221981bc67">CONFIG_EXPANSION</a>);</div>
+<div class="line"><span class="lineno">  393</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d1/d00/a05646.html#acb4c44664aff165a48d262f81849caf4">Expansion</a> &gt; world_expansion)</div>
+<div class="line"><span class="lineno">  394</span>            <a class="code hl_variable" href="../../d1/d00/a05646.html#acb4c44664aff165a48d262f81849caf4">Expansion</a> = world_expansion;</div>
+<div class="line"><span class="lineno">  395</span> </div>
+<div class="line"><span class="lineno">  396</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d1/d00/a05646.html#a237d1cfbc774d06851df27610e49bcac">Locale</a> &gt;= <a class="code hl_enumvalue" href="../../d4/d51/a00017.html#a54c9b637be7283ba1a04fb5215594332a7f84fea169b93e300da83986234a30d8">TOTAL_LOCALES</a>)</div>
+<div class="line"><span class="lineno">  397</span>            <a class="code hl_variable" href="../../d1/d00/a05646.html#a237d1cfbc774d06851df27610e49bcac">Locale</a> = <a class="code hl_enumvalue" href="../../d4/d51/a00017.html#a54c9b637be7283ba1a04fb5215594332ac07b7e8b5def3b0907685ac6c3566de3">LOCALE_enUS</a>;</div>
+<div class="line"><span class="lineno">  398</span>    }</div>
 <div class="ttc" id="aa00014_html_a15a8d014fadf85c99a2268d8cbd00767"><div class="ttname"><a href="../../d2/de7/a00014.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></div><div class="ttdeci">std::uint8_t uint8</div><div class="ttdef"><b>Definition:</b> Define.h:109</div></div>
 <div class="ttc" id="aa00014_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
 <div class="ttc" id="aa00014_html_ac4dd6ce78ce3b840c53bd4b3c63ed09b"><div class="ttname"><a href="../../d2/de7/a00014.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a></div><div class="ttdeci">std::uint64_t uint64</div><div class="ttdef"><b>Definition:</b> Define.h:106</div></div>
 <div class="ttc" id="aa00014_html_ad7a3bd3be7bd59e7fb6337fcbc956eb1"><div class="ttname"><a href="../../d2/de7/a00014.html#ad7a3bd3be7bd59e7fb6337fcbc956eb1">int64</a></div><div class="ttdeci">std::int64_t int64</div><div class="ttdef"><b>Definition:</b> Define.h:102</div></div>
-<div class="ttc" id="aa00017_html_a54c9b637be7283ba1a04fb5215594332"><div class="ttname"><a href="../../d4/d51/a00017.html#a54c9b637be7283ba1a04fb5215594332">LocaleConstant</a></div><div class="ttdeci">LocaleConstant</div><div class="ttdef"><b>Definition:</b> Common.h:65</div></div>
-<div class="ttc" id="aa00017_html_a54c9b637be7283ba1a04fb5215594332a7f84fea169b93e300da83986234a30d8"><div class="ttname"><a href="../../d4/d51/a00017.html#a54c9b637be7283ba1a04fb5215594332a7f84fea169b93e300da83986234a30d8">TOTAL_LOCALES</a></div><div class="ttdeci">@ TOTAL_LOCALES</div><div class="ttdef"><b>Definition:</b> Common.h:76</div></div>
-<div class="ttc" id="aa00017_html_a54c9b637be7283ba1a04fb5215594332ac07b7e8b5def3b0907685ac6c3566de3"><div class="ttname"><a href="../../d4/d51/a00017.html#a54c9b637be7283ba1a04fb5215594332ac07b7e8b5def3b0907685ac6c3566de3">LOCALE_enUS</a></div><div class="ttdeci">@ LOCALE_enUS</div><div class="ttdef"><b>Definition:</b> Common.h:66</div></div>
+<div class="ttc" id="aa00017_html_a54c9b637be7283ba1a04fb5215594332"><div class="ttname"><a href="../../d4/d51/a00017.html#a54c9b637be7283ba1a04fb5215594332">LocaleConstant</a></div><div class="ttdeci">LocaleConstant</div><div class="ttdef"><b>Definition:</b> Common.h:104</div></div>
+<div class="ttc" id="aa00017_html_a54c9b637be7283ba1a04fb5215594332a7f84fea169b93e300da83986234a30d8"><div class="ttname"><a href="../../d4/d51/a00017.html#a54c9b637be7283ba1a04fb5215594332a7f84fea169b93e300da83986234a30d8">TOTAL_LOCALES</a></div><div class="ttdeci">@ TOTAL_LOCALES</div><div class="ttdef"><b>Definition:</b> Common.h:115</div></div>
+<div class="ttc" id="aa00017_html_a54c9b637be7283ba1a04fb5215594332ac07b7e8b5def3b0907685ac6c3566de3"><div class="ttname"><a href="../../d4/d51/a00017.html#a54c9b637be7283ba1a04fb5215594332ac07b7e8b5def3b0907685ac6c3566de3">LOCALE_enUS</a></div><div class="ttdeci">@ LOCALE_enUS</div><div class="ttdef"><b>Definition:</b> Common.h:105</div></div>
 <div class="ttc" id="aa00017_html_adaa1cabfe05f8df3c272bdcfd89cdac7"><div class="ttname"><a href="../../d4/d51/a00017.html#adaa1cabfe05f8df3c272bdcfd89cdac7">AccountTypes</a></div><div class="ttdeci">AccountTypes</div><div class="ttdef"><b>Definition:</b> Common.h:56</div></div>
 <div class="ttc" id="aa00209_html_a7cbcb71452529a2addaab3b112dba4d7"><div class="ttname"><a href="../../d3/de5/a00209.html#a7cbcb71452529a2addaab3b112dba4d7">SessionKey</a></div><div class="ttdeci">std::array&lt; uint8, SESSION_KEY_LENGTH &gt; SessionKey</div><div class="ttdef"><b>Definition:</b> AuthDefines.h:25</div></div>
 <div class="ttc" id="aa00209_html_accf22e06a217bb405f0ee6f240d2e263"><div class="ttname"><a href="../../d3/de5/a00209.html#accf22e06a217bb405f0ee6f240d2e263">SESSION_KEY_LENGTH</a></div><div class="ttdeci">constexpr std::size_t SESSION_KEY_LENGTH</div><div class="ttdef"><b>Definition:</b> AuthDefines.h:24</div></div>
@@ -231,21 +234,22 @@ Public Attributes</h2></td></tr>
 <div class="ttc" id="aa04637_html_a45c2b15f675e85c1f4462be09f27c59e"><div class="ttname"><a href="../../d4/d88/a04637.html#a45c2b15f675e85c1f4462be09f27c59e">Binary</a></div><div class="ttdeci">std::vector&lt; uint8 &gt; Binary</div><div class="ttdef"><b>Definition:</b> Field.h:40</div></div>
 <div class="ttc" id="aa04771_html_ga05dfb35c344e5b947a19e4284e7f5fa7"><div class="ttname"><a href="../../d8/def/a04771.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a></div><div class="ttdeci">#define sWorld</div><div class="ttdef"><b>Definition:</b> World.h:320</div></div>
 <div class="ttc" id="aa05646_html_a00646bbedb925aafea7ef9cbc2bacb3c"><div class="ttname"><a href="../../d1/d00/a05646.html#a00646bbedb925aafea7ef9cbc2bacb3c">AccountInfo::LockCountry</a></div><div class="ttdeci">std::string LockCountry</div><div class="ttdef"><b>Definition:</b> AuthSession.h:55</div></div>
-<div class="ttc" id="aa05646_html_a04c0477667a84d67709222b2fc08dfb2"><div class="ttname"><a href="../../d1/d00/a05646.html#a04c0477667a84d67709222b2fc08dfb2">AccountInfo::OS</a></div><div class="ttdeci">std::string OS</div><div class="ttdef"><b>Definition:</b> WorldSocket.cpp:358</div></div>
-<div class="ttc" id="aa05646_html_a051493f00148208e9284ef33b9c31fad"><div class="ttname"><a href="../../d1/d00/a05646.html#a051493f00148208e9284ef33b9c31fad">AccountInfo::Recruiter</a></div><div class="ttdeci">uint32 Recruiter</div><div class="ttdef"><b>Definition:</b> WorldSocket.cpp:357</div></div>
-<div class="ttc" id="aa05646_html_a237d1cfbc774d06851df27610e49bcac"><div class="ttname"><a href="../../d1/d00/a05646.html#a237d1cfbc774d06851df27610e49bcac">AccountInfo::Locale</a></div><div class="ttdeci">LocaleConstant Locale</div><div class="ttdef"><b>Definition:</b> WorldSocket.cpp:356</div></div>
-<div class="ttc" id="aa05646_html_a29aaa2c7cebfb41bff13836a80a3ef10"><div class="ttname"><a href="../../d1/d00/a05646.html#a29aaa2c7cebfb41bff13836a80a3ef10">AccountInfo::MuteTime</a></div><div class="ttdeci">int64 MuteTime</div><div class="ttdef"><b>Definition:</b> WorldSocket.cpp:355</div></div>
-<div class="ttc" id="aa05646_html_a5ca2037c73bbad9d8ff5ccea06a5676f"><div class="ttname"><a href="../../d1/d00/a05646.html#a5ca2037c73bbad9d8ff5ccea06a5676f">AccountInfo::IsRectuiter</a></div><div class="ttdeci">bool IsRectuiter</div><div class="ttdef"><b>Definition:</b> WorldSocket.cpp:359</div></div>
-<div class="ttc" id="aa05646_html_a7d5e4dc93d075121b8f77ac767396c46"><div class="ttname"><a href="../../d1/d00/a05646.html#a7d5e4dc93d075121b8f77ac767396c46">AccountInfo::Security</a></div><div class="ttdeci">AccountTypes Security</div><div class="ttdef"><b>Definition:</b> WorldSocket.cpp:360</div></div>
+<div class="ttc" id="aa05646_html_a04c0477667a84d67709222b2fc08dfb2"><div class="ttname"><a href="../../d1/d00/a05646.html#a04c0477667a84d67709222b2fc08dfb2">AccountInfo::OS</a></div><div class="ttdeci">std::string OS</div><div class="ttdef"><b>Definition:</b> WorldSocket.cpp:359</div></div>
+<div class="ttc" id="aa05646_html_a051493f00148208e9284ef33b9c31fad"><div class="ttname"><a href="../../d1/d00/a05646.html#a051493f00148208e9284ef33b9c31fad">AccountInfo::Recruiter</a></div><div class="ttdeci">uint32 Recruiter</div><div class="ttdef"><b>Definition:</b> WorldSocket.cpp:358</div></div>
+<div class="ttc" id="aa05646_html_a237d1cfbc774d06851df27610e49bcac"><div class="ttname"><a href="../../d1/d00/a05646.html#a237d1cfbc774d06851df27610e49bcac">AccountInfo::Locale</a></div><div class="ttdeci">LocaleConstant Locale</div><div class="ttdef"><b>Definition:</b> WorldSocket.cpp:357</div></div>
+<div class="ttc" id="aa05646_html_a29aaa2c7cebfb41bff13836a80a3ef10"><div class="ttname"><a href="../../d1/d00/a05646.html#a29aaa2c7cebfb41bff13836a80a3ef10">AccountInfo::MuteTime</a></div><div class="ttdeci">int64 MuteTime</div><div class="ttdef"><b>Definition:</b> WorldSocket.cpp:356</div></div>
+<div class="ttc" id="aa05646_html_a5ca2037c73bbad9d8ff5ccea06a5676f"><div class="ttname"><a href="../../d1/d00/a05646.html#a5ca2037c73bbad9d8ff5ccea06a5676f">AccountInfo::IsRectuiter</a></div><div class="ttdeci">bool IsRectuiter</div><div class="ttdef"><b>Definition:</b> WorldSocket.cpp:360</div></div>
+<div class="ttc" id="aa05646_html_a7d5e4dc93d075121b8f77ac767396c46"><div class="ttname"><a href="../../d1/d00/a05646.html#a7d5e4dc93d075121b8f77ac767396c46">AccountInfo::Security</a></div><div class="ttdeci">AccountTypes Security</div><div class="ttdef"><b>Definition:</b> WorldSocket.cpp:361</div></div>
 <div class="ttc" id="aa05646_html_a8927a7332aba609a90e35555a62c2013"><div class="ttname"><a href="../../d1/d00/a05646.html#a8927a7332aba609a90e35555a62c2013">AccountInfo::Id</a></div><div class="ttdeci">uint32 Id</div><div class="ttdef"><b>Definition:</b> AuthSession.h:52</div></div>
+<div class="ttc" id="aa05646_html_a95eeb7d5ac99719aa16f467717b815e3"><div class="ttname"><a href="../../d1/d00/a05646.html#a95eeb7d5ac99719aa16f467717b815e3">AccountInfo::Flags</a></div><div class="ttdeci">uint32 Flags</div><div class="ttdef"><b>Definition:</b> WorldSocket.cpp:355</div></div>
 <div class="ttc" id="aa05646_html_a9e199ded02bf60c9f05408955af21d84"><div class="ttname"><a href="../../d1/d00/a05646.html#a9e199ded02bf60c9f05408955af21d84">AccountInfo::IsBanned</a></div><div class="ttdeci">bool IsBanned</div><div class="ttdef"><b>Definition:</b> AuthSession.h:58</div></div>
 <div class="ttc" id="aa05646_html_aa4f52d33739d0d0adc3fa88a09ae7465"><div class="ttname"><a href="../../d1/d00/a05646.html#aa4f52d33739d0d0adc3fa88a09ae7465">AccountInfo::IsLockedToIP</a></div><div class="ttdeci">bool IsLockedToIP</div><div class="ttdef"><b>Definition:</b> AuthSession.h:54</div></div>
 <div class="ttc" id="aa05646_html_aba34159637020c1858f80bec57ba4945"><div class="ttname"><a href="../../d1/d00/a05646.html#aba34159637020c1858f80bec57ba4945">AccountInfo::LastIP</a></div><div class="ttdeci">std::string LastIP</div><div class="ttdef"><b>Definition:</b> AuthSession.h:56</div></div>
 <div class="ttc" id="aa05646_html_acb4c44664aff165a48d262f81849caf4"><div class="ttname"><a href="../../d1/d00/a05646.html#acb4c44664aff165a48d262f81849caf4">AccountInfo::Expansion</a></div><div class="ttdeci">uint8 Expansion</div><div class="ttdef"><b>Definition:</b> WorldSocket.cpp:354</div></div>
-<div class="ttc" id="aa05646_html_adbcb5bdadd845735c4cbc9da0b7ac87b"><div class="ttname"><a href="../../d1/d00/a05646.html#adbcb5bdadd845735c4cbc9da0b7ac87b">AccountInfo::TotalTime</a></div><div class="ttdeci">uint32 TotalTime</div><div class="ttdef"><b>Definition:</b> WorldSocket.cpp:362</div></div>
+<div class="ttc" id="aa05646_html_adbcb5bdadd845735c4cbc9da0b7ac87b"><div class="ttname"><a href="../../d1/d00/a05646.html#adbcb5bdadd845735c4cbc9da0b7ac87b">AccountInfo::TotalTime</a></div><div class="ttdeci">uint32 TotalTime</div><div class="ttdef"><b>Definition:</b> WorldSocket.cpp:363</div></div>
 <div class="ttc" id="aa05710_html_aae507d21d3570ffdaf1643ba02946f01"><div class="ttname"><a href="../../d4/d00/a05710.html#aae507d21d3570ffdaf1643ba02946f01">Field::Get</a></div><div class="ttdeci">std::enable_if_t&lt; std::is_arithmetic_v&lt; T &gt;, T &gt; Get() const</div><div class="ttdef"><b>Definition:</b> Field.h:112</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00225">CONFIG_EXPANSION</a>, <a class="el" href="../../#l00354">Expansion</a>, <a class="el" href="../../#l00112">Field::Get()</a>, <a class="el" href="../../#l00052">Id</a>, <a class="el" href="../../#l00058">IsBanned</a>, <a class="el" href="../../#l00054">IsLockedToIP</a>, <a class="el" href="../../#l00359">IsRectuiter</a>, <a class="el" href="../../#l00056">LastIP</a>, <a class="el" href="../../#l00356">Locale</a>, <a class="el" href="../../#l00066">LOCALE_enUS</a>, <a class="el" href="../../#l00055">LockCountry</a>, <a class="el" href="../../#l00355">MuteTime</a>, <a class="el" href="../../#l00358">OS</a>, <a class="el" href="../../#l00357">Recruiter</a>, <a class="el" href="../../#l00360">Security</a>, <a class="el" href="../../#l00024">SESSION_KEY_LENGTH</a>, <a class="el" href="../../#l00320">sWorld</a>, <a class="el" href="../../#l00076">TOTAL_LOCALES</a>, and <a class="el" href="../../#l00362">TotalTime</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00225">CONFIG_EXPANSION</a>, <a class="el" href="../../#l00354">Expansion</a>, <a class="el" href="../../#l00355">Flags</a>, <a class="el" href="../../#l00112">Field::Get()</a>, <a class="el" href="../../#l00052">Id</a>, <a class="el" href="../../#l00058">IsBanned</a>, <a class="el" href="../../#l00054">IsLockedToIP</a>, <a class="el" href="../../#l00360">IsRectuiter</a>, <a class="el" href="../../#l00056">LastIP</a>, <a class="el" href="../../#l00357">Locale</a>, <a class="el" href="../../#l00105">LOCALE_enUS</a>, <a class="el" href="../../#l00055">LockCountry</a>, <a class="el" href="../../#l00356">MuteTime</a>, <a class="el" href="../../#l00359">OS</a>, <a class="el" href="../../#l00358">Recruiter</a>, <a class="el" href="../../#l00361">Security</a>, <a class="el" href="../../#l00024">SESSION_KEY_LENGTH</a>, <a class="el" href="../../#l00320">sWorld</a>, <a class="el" href="../../#l00115">TOTAL_LOCALES</a>, and <a class="el" href="../../#l00363">TotalTime</a>.</p>
 
 </div>
 </div>
@@ -317,7 +321,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00364">AccountInfo()</a>, and <a class="el" href="../../#l00553">WorldSocket::HandleAuthSessionCallback()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00365">AccountInfo()</a>, and <a class="el" href="../../#l00555">WorldSocket::HandleAuthSessionCallback()</a>.</p>
 
 </div>
 </div>
@@ -337,6 +341,22 @@ Public Attributes</h2></td></tr>
 
 </div>
 </div>
+<a id="a95eeb7d5ac99719aa16f467717b815e3" name="a95eeb7d5ac99719aa16f467717b815e3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a95eeb7d5ac99719aa16f467717b815e3">&#9670;&#160;</a></span>Flags</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> AccountInfo::Flags</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00365">AccountInfo()</a>, and <a class="el" href="../../#l00555">WorldSocket::HandleAuthSessionCallback()</a>.</p>
+
+</div>
+</div>
 <a id="a8927a7332aba609a90e35555a62c2013" name="a8927a7332aba609a90e35555a62c2013"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a8927a7332aba609a90e35555a62c2013">&#9670;&#160;</a></span>Id</h2>
 
@@ -349,7 +369,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00364">AccountInfo()</a>, <a class="el" href="../../#l00553">WorldSocket::HandleAuthSessionCallback()</a>, <a class="el" href="../../#l00726">AuthSession::HandleRealmList()</a>, and <a class="el" href="../../#l00137">LoadResult()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00365">AccountInfo()</a>, <a class="el" href="../../#l00555">WorldSocket::HandleAuthSessionCallback()</a>, <a class="el" href="../../#l00726">AuthSession::HandleRealmList()</a>, and <a class="el" href="../../#l00137">LoadResult()</a>.</p>
 
 </div>
 </div>
@@ -365,7 +385,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00364">AccountInfo()</a>, <a class="el" href="../../#l00553">WorldSocket::HandleAuthSessionCallback()</a>, <a class="el" href="../../#l00137">LoadResult()</a>, and <a class="el" href="../../#l00317">AuthSession::LogonChallengeCallback()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00365">AccountInfo()</a>, <a class="el" href="../../#l00555">WorldSocket::HandleAuthSessionCallback()</a>, <a class="el" href="../../#l00137">LoadResult()</a>, and <a class="el" href="../../#l00317">AuthSession::LogonChallengeCallback()</a>.</p>
 
 </div>
 </div>
@@ -381,7 +401,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00364">AccountInfo()</a>, <a class="el" href="../../#l00553">WorldSocket::HandleAuthSessionCallback()</a>, <a class="el" href="../../#l00137">LoadResult()</a>, and <a class="el" href="../../#l00317">AuthSession::LogonChallengeCallback()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00365">AccountInfo()</a>, <a class="el" href="../../#l00555">WorldSocket::HandleAuthSessionCallback()</a>, <a class="el" href="../../#l00137">LoadResult()</a>, and <a class="el" href="../../#l00317">AuthSession::LogonChallengeCallback()</a>.</p>
 
 </div>
 </div>
@@ -413,7 +433,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00364">AccountInfo()</a>, and <a class="el" href="../../#l00553">WorldSocket::HandleAuthSessionCallback()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00365">AccountInfo()</a>, and <a class="el" href="../../#l00555">WorldSocket::HandleAuthSessionCallback()</a>.</p>
 
 </div>
 </div>
@@ -429,7 +449,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00364">AccountInfo()</a>, <a class="el" href="../../#l00553">WorldSocket::HandleAuthSessionCallback()</a>, <a class="el" href="../../#l00137">LoadResult()</a>, and <a class="el" href="../../#l00317">AuthSession::LogonChallengeCallback()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00365">AccountInfo()</a>, <a class="el" href="../../#l00555">WorldSocket::HandleAuthSessionCallback()</a>, <a class="el" href="../../#l00137">LoadResult()</a>, and <a class="el" href="../../#l00317">AuthSession::LogonChallengeCallback()</a>.</p>
 
 </div>
 </div>
@@ -445,7 +465,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00364">AccountInfo()</a>, and <a class="el" href="../../#l00553">WorldSocket::HandleAuthSessionCallback()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00365">AccountInfo()</a>, and <a class="el" href="../../#l00555">WorldSocket::HandleAuthSessionCallback()</a>.</p>
 
 </div>
 </div>
@@ -461,7 +481,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00364">AccountInfo()</a>, <a class="el" href="../../#l00553">WorldSocket::HandleAuthSessionCallback()</a>, <a class="el" href="../../#l00137">LoadResult()</a>, and <a class="el" href="../../#l00317">AuthSession::LogonChallengeCallback()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00365">AccountInfo()</a>, <a class="el" href="../../#l00555">WorldSocket::HandleAuthSessionCallback()</a>, <a class="el" href="../../#l00137">LoadResult()</a>, and <a class="el" href="../../#l00317">AuthSession::LogonChallengeCallback()</a>.</p>
 
 </div>
 </div>
@@ -493,7 +513,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00364">AccountInfo()</a>, and <a class="el" href="../../#l00553">WorldSocket::HandleAuthSessionCallback()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00365">AccountInfo()</a>, and <a class="el" href="../../#l00555">WorldSocket::HandleAuthSessionCallback()</a>.</p>
 
 </div>
 </div>
@@ -509,7 +529,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00364">AccountInfo()</a>, and <a class="el" href="../../#l00553">WorldSocket::HandleAuthSessionCallback()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00365">AccountInfo()</a>, and <a class="el" href="../../#l00555">WorldSocket::HandleAuthSessionCallback()</a>.</p>
 
 </div>
 </div>
@@ -525,7 +545,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00364">AccountInfo()</a>, and <a class="el" href="../../#l00553">WorldSocket::HandleAuthSessionCallback()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00365">AccountInfo()</a>, and <a class="el" href="../../#l00555">WorldSocket::HandleAuthSessionCallback()</a>.</p>
 
 </div>
 </div>
@@ -541,7 +561,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00364">AccountInfo()</a>, and <a class="el" href="../../#l00553">WorldSocket::HandleAuthSessionCallback()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00365">AccountInfo()</a>, and <a class="el" href="../../#l00555">WorldSocket::HandleAuthSessionCallback()</a>.</p>
 
 </div>
 </div>
@@ -573,7 +593,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00553">WorldSocket::HandleAuthSessionCallback()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00555">WorldSocket::HandleAuthSessionCallback()</a>.</p>
 
 </div>
 </div>
@@ -589,7 +609,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00364">AccountInfo()</a>, and <a class="el" href="../../#l00553">WorldSocket::HandleAuthSessionCallback()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00365">AccountInfo()</a>, and <a class="el" href="../../#l00555">WorldSocket::HandleAuthSessionCallback()</a>.</p>
 
 </div>
 </div>
@@ -599,7 +619,7 @@ Public Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d1/d00/a05646.html">AccountInfo</a></li>
-    <li class="footer">Generated on Mon Jul 21 2025 20:50:18 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Jul 28 2025 20:51:15 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

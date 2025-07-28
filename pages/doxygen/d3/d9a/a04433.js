@@ -1,6 +1,6 @@
 var a04433 =
 [
-    [ "boss_balinda", "df/df3/a11794.html", "df/df3/a11794" ],
+    [ "boss_balinda", "d4/dfc/a11798.html", "d4/dfc/a11798" ],
     [ "Creatures", "d3/d9a/a04433.html#a25a619e6b66096a4f05d048e4a96df08", [
       [ "NPC_NORTH_MARSHAL", "d8/d3a/a04439.html#a25a619e6b66096a4f05d048e4a96df08abeb6d3b1ff8238f7c57911ab8acde69e", null ],
       [ "NPC_SOUTH_MARSHAL", "d8/d3a/a04439.html#a25a619e6b66096a4f05d048e4a96df08a9a3360dc10641daabdef8158f42ee00e", null ],

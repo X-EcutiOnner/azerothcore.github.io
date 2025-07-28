@@ -1,7 +1,6 @@
 var a15766 =
 [
-    [ "go_troll_cageAI", "d5/d66/a15766.html#ae742afdb7a37d64bb852b7ecd076d007", null ],
-    [ "GossipHello", "d5/d66/a15766.html#a5c91cb491021b15ba70cc8ef5f07d037", null ],
-    [ "initBlyCrewMember", "d5/d66/a15766.html#a6bfb77ec97367d8704885acfef801b74", null ],
-    [ "instance", "d5/d66/a15766.html#ad5d736dd6cbe7a23d03f21004cae530d", null ]
+    [ "go_troll_cageAI", "d8/d3c/a15770.html", "d8/d3c/a15770" ],
+    [ "go_troll_cage", "d5/d66/a15766.html#ac571df719edabd9e9ecf5c8bb0e153c2", null ],
+    [ "GetAI", "d5/d66/a15766.html#a807f526225dc9a6b27ac64a7f4a3d9b8", null ]
 ];

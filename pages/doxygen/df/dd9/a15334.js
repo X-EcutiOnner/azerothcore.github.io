@@ -1,8 +1,6 @@
 var a15334 =
 [
-    [ "npc_death_ravagerAI", "df/dd9/a15334.html#ad18242b078db0883029537562a41cc20", null ],
-    [ "Reset", "df/dd9/a15334.html#ac0fdbfe2f324785569fa742e0b244b83", null ],
-    [ "UpdateAI", "df/dd9/a15334.html#ac3dce7d79e67f20d7a8fe161da9d5279", null ],
-    [ "EnragingBiteTimer", "df/dd9/a15334.html#af33898ebd9bea6b1a58b673373de3c64", null ],
-    [ "RendTimer", "df/dd9/a15334.html#ad7ff02fe6e11a0fb0d8a3ae869ed5f6d", null ]
+    [ "npc_death_ravagerAI", "d7/d0c/a15338.html", "d7/d0c/a15338" ],
+    [ "npc_death_ravager", "df/dd9/a15334.html#a6aa04a28ce5aa0e467e638c8ffe11657", null ],
+    [ "GetAI", "df/dd9/a15334.html#a284d0b8ccf902d3f03ddfc6750fe0f1c", null ]
 ];

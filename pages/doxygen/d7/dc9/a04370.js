@@ -1,9 +1,9 @@
 var a04370 =
 [
-    [ "boss_shade_of_aran", "dd/d89/a12658.html", "dd/d89/a12658" ],
-    [ "spell_flamewreath", "d0/d1e/a12662.html", "d0/d1e/a12662" ],
-    [ "spell_flamewreath_aura", "dc/d4f/a12666.html", "dc/d4f/a12666" ],
-    [ "at_karazhan_atiesh_aran", "db/d10/a12670.html", "db/d10/a12670" ],
+    [ "boss_shade_of_aran", "d0/d1e/a12662.html", "d0/d1e/a12662" ],
+    [ "spell_flamewreath", "dc/d4f/a12666.html", "dc/d4f/a12666" ],
+    [ "spell_flamewreath_aura", "db/d10/a12670.html", "db/d10/a12670" ],
+    [ "at_karazhan_atiesh_aran", "df/d27/a12674.html", "df/d27/a12674" ],
     [ "Creatures", "d7/dc9/a04370.html#a25a619e6b66096a4f05d048e4a96df08", [
       [ "NPC_NORTH_MARSHAL", "d8/d3a/a04439.html#a25a619e6b66096a4f05d048e4a96df08abeb6d3b1ff8238f7c57911ab8acde69e", null ],
       [ "NPC_SOUTH_MARSHAL", "d8/d3a/a04439.html#a25a619e6b66096a4f05d048e4a96df08a9a3360dc10641daabdef8158f42ee00e", null ],
@@ -431,6 +431,7 @@ var a04370 =
       [ "MAX_EMBRACE_DMG", "d1/d45/a03191.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a92c750d1fab22566cfc44edbc7b61cfe", null ],
       [ "MAX_EMBRACE_DMG_H", "d1/d45/a03191.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ac90a40c1805a63761f571de57c08eaf1", null ],
       [ "SUMMON_GROUP_TRIGGERS", "d1/d45/a03191.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a2fbeedd9d697855685b859c7b5df8a41", null ],
+      [ "GROUP_COMBAT_ABILITIES", "d1/d45/a03191.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a5d7cf54e44fb5a068cd85e6745a6c399", null ],
       [ "ACHIEV_TIMED_START_EVENT", "d3/dcf/a03173.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6ac3776ff6343c84361329e38055da04", null ],
       [ "EVENT_CHECK_HEALTH_25", "d3/dcf/a03173.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ab4c8308b4dc44a86daf5ee851c990687", null ],
       [ "EVENT_CHECK_HEALTH_50", "d3/dcf/a03173.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a279f4abf2411c8e70eb459d7644bc65b", null ],

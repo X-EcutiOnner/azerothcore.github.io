@@ -1,8 +1,9 @@
 var a14414 =
 [
-    [ "npc_love_in_air_snivel_real", "de/d21/a14414.html#a9f5b36d35ced9eb27375ca13fcfbc55d", null ],
-    [ "Talk", "de/d21/a14414.html#a0b5cc8dd6bdf7c4fbd7b7aa2ba02b028", null ],
-    [ "UpdateAI", "de/d21/a14414.html#a22ed25da8fe3441ef0e4183390983f40", null ],
-    [ "actionCounter", "de/d21/a14414.html#ab1685b1ee34c81c689af3c3466b185f0", null ],
-    [ "actionTimer", "de/d21/a14414.html#a3bbee1ff355581772b337268775b8fbc", null ]
+    [ "npc_love_in_air_snivel", "de/d21/a14414.html#ab04596fb96292f54cf2a10f662dc94a3", null ],
+    [ "AllowAction", "de/d21/a14414.html#af1097317f62bbb8f8456124001c73576", null ],
+    [ "MoveInLineOfSight", "de/d21/a14414.html#ae6537707109b95fad20e521d07867cdd", null ],
+    [ "Reset", "de/d21/a14414.html#a2385ea44d9f44735b193add4a0d0485b", null ],
+    [ "UpdateAI", "de/d21/a14414.html#a9e712994663e3442359d2f574ebc812c", null ],
+    [ "delay", "de/d21/a14414.html#a548db6245ef875ec47279246e437934c", null ]
 ];

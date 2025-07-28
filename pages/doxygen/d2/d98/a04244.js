@@ -1,11 +1,11 @@
 var a04244 =
 [
-    [ "boss_chromaggus", "d4/d19/a12206.html", "d4/d19/a12206" ],
-    [ "boss_chromaggus::boss_chromaggusAI", "d9/dfa/a12210.html", "d9/dfa/a12210" ],
-    [ "go_chromaggus_lever", "dd/d16/a12214.html", "dd/d16/a12214" ],
-    [ "go_chromaggus_lever::go_chromaggus_leverAI", "d4/d2d/a12218.html", "d4/d2d/a12218" ],
-    [ "spell_gen_elemental_shield", "d4/d0c/a12222.html", "d4/d0c/a12222" ],
-    [ "spell_gen_brood_power", "da/de9/a12226.html", "da/de9/a12226" ],
+    [ "boss_chromaggus", "d9/dfa/a12210.html", "d9/dfa/a12210" ],
+    [ "boss_chromaggus::boss_chromaggusAI", "dd/d16/a12214.html", "dd/d16/a12214" ],
+    [ "go_chromaggus_lever", "d4/d2d/a12218.html", "d4/d2d/a12218" ],
+    [ "go_chromaggus_lever::go_chromaggus_leverAI", "d4/d0c/a12222.html", "d4/d0c/a12222" ],
+    [ "spell_gen_elemental_shield", "da/de9/a12226.html", "da/de9/a12226" ],
+    [ "spell_gen_brood_power", "d6/da0/a12230.html", "d6/da0/a12230" ],
     [ "ElementalShieldSpells", "d2/d98/a04244.html#a7cc21086b00c27f6dd4ccd562708ec6a", [
       [ "SPELL_FIRE_ELEMENTAL_SHIELD", "d2/d98/a04244.html#a7cc21086b00c27f6dd4ccd562708ec6aae9d80bb3267f9a03d012a9c27e73e224", null ],
       [ "SPELL_FROST_ELEMENTAL_SHIELD", "d2/d98/a04244.html#a7cc21086b00c27f6dd4ccd562708ec6aa30ca136a4905b6b6eae173bd1c5181de", null ],
@@ -1461,6 +1461,7 @@ var a04244 =
       [ "MAX_EMBRACE_DMG", "d1/d45/a03191.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a92c750d1fab22566cfc44edbc7b61cfe", null ],
       [ "MAX_EMBRACE_DMG_H", "d1/d45/a03191.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ac90a40c1805a63761f571de57c08eaf1", null ],
       [ "SUMMON_GROUP_TRIGGERS", "d1/d45/a03191.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a2fbeedd9d697855685b859c7b5df8a41", null ],
+      [ "GROUP_COMBAT_ABILITIES", "d1/d45/a03191.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a5d7cf54e44fb5a068cd85e6745a6c399", null ],
       [ "ACHIEV_TIMED_START_EVENT", "d3/dcf/a03173.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6ac3776ff6343c84361329e38055da04", null ],
       [ "EVENT_CHECK_HEALTH_25", "d3/dcf/a03173.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ab4c8308b4dc44a86daf5ee851c990687", null ],
       [ "EVENT_CHECK_HEALTH_50", "d3/dcf/a03173.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a279f4abf2411c8e70eb459d7644bc65b", null ],

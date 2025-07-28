@@ -1,7 +1,7 @@
 var a04232 =
 [
-    [ "boss_flamegor", "d9/d21/a12246.html", "d9/d21/a12246" ],
-    [ "boss_flamegor::boss_flamegorAI", "d5/d45/a12250.html", "d5/d45/a12250" ],
+    [ "boss_flamegor", "d5/d45/a12250.html", "d5/d45/a12250" ],
+    [ "boss_flamegor::boss_flamegorAI", "d2/d45/a12254.html", "d2/d45/a12254" ],
     [ "Emotes", "d4/d4b/a04232.html#a2d0a63150f7988db8ff39124dc1cb21a", [
       [ "EMOTE_FRENZY", "d2/d98/a04244.html#a2d0a63150f7988db8ff39124dc1cb21aa55f111609d7846e27c2f642b9f46b1ac", null ],
       [ "EMOTE_SHIMMER", "d2/d98/a04244.html#a2d0a63150f7988db8ff39124dc1cb21aa706a7a036a41d3d1f2650ee226e9ec1e", null ],

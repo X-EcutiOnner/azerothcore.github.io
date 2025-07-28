@@ -1,11 +1,11 @@
 var a02540 =
 [
-    [ "boss_lady_vashj", "df/d74/a23154.html", "df/d74/a23154" ],
-    [ "spell_lady_vashj_magic_barrier", "de/d74/a23158.html", "de/d74/a23158" ],
-    [ "spell_lady_vashj_remove_tainted_cores", "dd/df4/a23162.html", "dd/df4/a23162" ],
-    [ "spell_lady_vashj_summon_sporebat", "da/d9e/a23166.html", "da/d9e/a23166" ],
-    [ "spell_lady_vashj_spore_drop_effect", "d8/d44/a23170.html", "d8/d44/a23170" ],
-    [ "spell_lady_vashj_summons", "db/dfe/a23174.html", "db/dfe/a23174" ],
+    [ "boss_lady_vashj", "d0/daf/a23150.html", "d0/daf/a23150" ],
+    [ "spell_lady_vashj_magic_barrier", "df/d74/a23154.html", "df/d74/a23154" ],
+    [ "spell_lady_vashj_remove_tainted_cores", "de/d74/a23158.html", "de/d74/a23158" ],
+    [ "spell_lady_vashj_summon_sporebat", "dd/df4/a23162.html", "dd/df4/a23162" ],
+    [ "spell_lady_vashj_spore_drop_effect", "da/d9e/a23166.html", "da/d9e/a23166" ],
+    [ "spell_lady_vashj_summons", "d8/d44/a23170.html", "d8/d44/a23170" ],
     [ "Misc", "d4/db0/a02540.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
       [ "DATA_SKILLPOINT_MIN", "d1/dde/a04187.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a3093ddfcacf2742f4fb344843e2e7ce6", null ],
       [ "NEFARIUS_PATH_2", "dd/d44/a04097.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a09833188939fe77088ed4fb2cfedb875", null ],
@@ -173,6 +173,7 @@ var a02540 =
       [ "MAX_EMBRACE_DMG", "d1/d45/a03191.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a92c750d1fab22566cfc44edbc7b61cfe", null ],
       [ "MAX_EMBRACE_DMG_H", "d1/d45/a03191.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ac90a40c1805a63761f571de57c08eaf1", null ],
       [ "SUMMON_GROUP_TRIGGERS", "d1/d45/a03191.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a2fbeedd9d697855685b859c7b5df8a41", null ],
+      [ "GROUP_COMBAT_ABILITIES", "d1/d45/a03191.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a5d7cf54e44fb5a068cd85e6745a6c399", null ],
       [ "ACHIEV_TIMED_START_EVENT", "d3/dcf/a03173.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6ac3776ff6343c84361329e38055da04", null ],
       [ "EVENT_CHECK_HEALTH_25", "d3/dcf/a03173.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ab4c8308b4dc44a86daf5ee851c990687", null ],
       [ "EVENT_CHECK_HEALTH_50", "d3/dcf/a03173.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a279f4abf2411c8e70eb459d7644bc65b", null ],

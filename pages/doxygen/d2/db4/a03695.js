@@ -1,13 +1,13 @@
 var a03695 =
 [
-    [ "npc_gilthares", "da/db2/a15626.html", "da/db2/a15626" ],
-    [ "npc_gilthares::npc_giltharesAI", "da/d48/a15630.html", "da/d48/a15630" ],
-    [ "npc_taskmaster_fizzule", "dc/d38/a15634.html", "dc/d38/a15634" ],
-    [ "npc_taskmaster_fizzule::npc_taskmaster_fizzuleAI", "da/d4a/a15638.html", "da/d4a/a15638" ],
-    [ "npc_twiggy_flathead", "d2/de8/a15642.html", "d2/de8/a15642" ],
-    [ "npc_twiggy_flathead::npc_twiggy_flatheadAI", "df/dbd/a15646.html", "df/dbd/a15646" ],
-    [ "npc_wizzlecrank_shredder", "d8/dd5/a15650.html", "d8/dd5/a15650" ],
-    [ "npc_wizzlecrank_shredder::npc_wizzlecrank_shredderAI", "de/dea/a15654.html", "de/dea/a15654" ],
+    [ "npc_gilthares", "da/d48/a15630.html", "da/d48/a15630" ],
+    [ "npc_gilthares::npc_giltharesAI", "dc/d38/a15634.html", "dc/d38/a15634" ],
+    [ "npc_taskmaster_fizzule", "da/d4a/a15638.html", "da/d4a/a15638" ],
+    [ "npc_taskmaster_fizzule::npc_taskmaster_fizzuleAI", "d2/de8/a15642.html", "d2/de8/a15642" ],
+    [ "npc_twiggy_flathead", "df/dbd/a15646.html", "df/dbd/a15646" ],
+    [ "npc_twiggy_flathead::npc_twiggy_flatheadAI", "d8/dd5/a15650.html", "d8/dd5/a15650" ],
+    [ "npc_wizzlecrank_shredder", "de/dea/a15654.html", "de/dea/a15654" ],
+    [ "npc_wizzlecrank_shredder::npc_wizzlecrank_shredderAI", "de/d57/a15658.html", "de/d57/a15658" ],
     [ "Gilthares", "d2/db4/a03695.html#aa3e172c8a560dd0d92fb1d8f79b90716", [
       [ "SAY_GIL_START", "d2/db4/a03695.html#aa3e172c8a560dd0d92fb1d8f79b90716a9cc558649c398869a908d76e46580a55", null ],
       [ "SAY_GIL_AT_LAST", "d2/db4/a03695.html#aa3e172c8a560dd0d92fb1d8f79b90716a74625b1d5af887cffe07cc6889f66f94", null ],

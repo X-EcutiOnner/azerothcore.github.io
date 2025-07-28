@@ -1,6 +1,7 @@
 var a12874 =
 [
-    [ "npc_scarlet_ghoulAI", "d9/db6/a12878.html", "d9/db6/a12878" ],
-    [ "npc_scarlet_ghoul", "d2/d6c/a12874.html#aa58b0d1c3fb411cac184bc1fc50f4fb3", null ],
-    [ "GetAI", "d2/d6c/a12874.html#a88d2639b1a4f087d3e1b95475a094d21", null ]
+    [ "HandleScriptEffect", "d2/d6c/a12874.html#a2ac898d186e755fbf3b3ae8812e8e579", null ],
+    [ "PrepareSpellScript", "d2/d6c/a12874.html#ac3ee8d5d585eea8cbcd5e61c34c71fa5", null ],
+    [ "Register", "d2/d6c/a12874.html#a99b753e49d18109e8c9c3ac7e616ce2c", null ],
+    [ "Validate", "d2/d6c/a12874.html#a20f7416465ba1cc04426f24037e8074e", null ]
 ];

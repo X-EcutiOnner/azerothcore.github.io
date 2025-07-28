@@ -1,6 +1,6 @@
 var a12394 =
 [
-    [ "boss_gehennasAI", "db/d64/a12394.html#aaefd1f10d03957477863df95143a95a9", null ],
-    [ "ExecuteEvent", "db/d64/a12394.html#a1568cecdacc6afee23b4661c3dc0ae2b", null ],
-    [ "JustEngagedWith", "db/d64/a12394.html#ad932bb3d7079f53cf1bb2b7ad143b15d", null ]
+    [ "boss_gehennasAI", "da/d71/a12398.html", "da/d71/a12398" ],
+    [ "boss_gehennas", "db/d64/a12394.html#a380a24cbaad4e247c6c76fd63ac34f59", null ],
+    [ "GetAI", "db/d64/a12394.html#a92f9ff0e957da5331b4a3ecc48be0ffa", null ]
 ];

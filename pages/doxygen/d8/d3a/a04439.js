@@ -1,8 +1,8 @@
 var a04439 =
 [
-    [ "SpellPair", "d6/d2f/a11782.html", "d6/d2f/a11782" ],
-    [ "npc_av_marshal_or_warmaster", "d0/d61/a11786.html", "d0/d61/a11786" ],
-    [ "npc_av_marshal_or_warmaster::npc_av_marshal_or_warmasterAI", "d8/d59/a11790.html", "d8/d59/a11790" ],
+    [ "SpellPair", "d0/d61/a11786.html", "d0/d61/a11786" ],
+    [ "npc_av_marshal_or_warmaster", "d8/d59/a11790.html", "d8/d59/a11790" ],
+    [ "npc_av_marshal_or_warmaster::npc_av_marshal_or_warmasterAI", "df/df3/a11794.html", "df/df3/a11794" ],
     [ "Creatures", "d8/d3a/a04439.html#a25a619e6b66096a4f05d048e4a96df08", [
       [ "NPC_NORTH_MARSHAL", "d8/d3a/a04439.html#a25a619e6b66096a4f05d048e4a96df08abeb6d3b1ff8238f7c57911ab8acde69e", null ],
       [ "NPC_SOUTH_MARSHAL", "d8/d3a/a04439.html#a25a619e6b66096a4f05d048e4a96df08a9a3360dc10641daabdef8158f42ee00e", null ],

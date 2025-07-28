@@ -1,7 +1,6 @@
 var a18670 =
 [
-    [ "npc_impaling_spearAI", "db/dfd/a18670.html#ae8fbc36a15324b210a24a0e98357adc3", null ],
-    [ "Reset", "db/dfd/a18670.html#a43fa8bf8f22f0635261decd8b15ed6f5", null ],
-    [ "UpdateAI", "db/dfd/a18670.html#acb187a58b0ba256b4e003655ac36db34", null ],
-    [ "_vehicleCheckTimer", "db/dfd/a18670.html#a264874b9f6f0609792d4b3a325e54f59", null ]
+    [ "npc_impaling_spearAI", "d7/d50/a18674.html", "d7/d50/a18674" ],
+    [ "npc_impaling_spear", "db/dfd/a18670.html#af546ed9684fc085ad651bf5bd93e5bf7", null ],
+    [ "GetAI", "db/dfd/a18670.html#aad49164a3e7541b755c1c622b996bb9a", null ]
 ];

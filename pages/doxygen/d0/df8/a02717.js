@@ -1,11 +1,11 @@
 var a02717 =
 [
-    [ "boss_mother_shahraz", "d5/d9b/a22862.html", "d5/d9b/a22862" ],
-    [ "spell_mother_shahraz_random_periodic_aura", "d5/dda/a22866.html", "d5/dda/a22866" ],
-    [ "spell_mother_shahraz_beam_periodic_aura", "da/d65/a22870.html", "da/d65/a22870" ],
-    [ "spell_mother_shahraz_saber_lash_aura", "d2/d11/a22874.html", "d2/d11/a22874" ],
-    [ "spell_mother_shahraz_fatal_attraction", "d2/d7d/a22878.html", "d2/d7d/a22878" ],
-    [ "spell_mother_shahraz_fatal_attraction_dummy", "d5/dc4/a22882.html", "d5/dc4/a22882" ],
+    [ "boss_mother_shahraz", "d3/dc0/a22858.html", "d3/dc0/a22858" ],
+    [ "spell_mother_shahraz_random_periodic_aura", "d5/d9b/a22862.html", "d5/d9b/a22862" ],
+    [ "spell_mother_shahraz_beam_periodic_aura", "d5/dda/a22866.html", "d5/dda/a22866" ],
+    [ "spell_mother_shahraz_saber_lash_aura", "da/d65/a22870.html", "da/d65/a22870" ],
+    [ "spell_mother_shahraz_fatal_attraction", "d2/d11/a22874.html", "d2/d11/a22874" ],
+    [ "spell_mother_shahraz_fatal_attraction_dummy", "d2/d7d/a22878.html", "d2/d7d/a22878" ],
     [ "Misc", "d0/df8/a02717.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
       [ "DATA_SKILLPOINT_MIN", "d1/dde/a04187.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a3093ddfcacf2742f4fb344843e2e7ce6", null ],
       [ "NEFARIUS_PATH_2", "dd/d44/a04097.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a09833188939fe77088ed4fb2cfedb875", null ],
@@ -173,6 +173,7 @@ var a02717 =
       [ "MAX_EMBRACE_DMG", "d1/d45/a03191.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a92c750d1fab22566cfc44edbc7b61cfe", null ],
       [ "MAX_EMBRACE_DMG_H", "d1/d45/a03191.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ac90a40c1805a63761f571de57c08eaf1", null ],
       [ "SUMMON_GROUP_TRIGGERS", "d1/d45/a03191.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a2fbeedd9d697855685b859c7b5df8a41", null ],
+      [ "GROUP_COMBAT_ABILITIES", "d1/d45/a03191.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a5d7cf54e44fb5a068cd85e6745a6c399", null ],
       [ "ACHIEV_TIMED_START_EVENT", "d3/dcf/a03173.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6ac3776ff6343c84361329e38055da04", null ],
       [ "EVENT_CHECK_HEALTH_25", "d3/dcf/a03173.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ab4c8308b4dc44a86daf5ee851c990687", null ],
       [ "EVENT_CHECK_HEALTH_50", "d3/dcf/a03173.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a279f4abf2411c8e70eb459d7644bc65b", null ],

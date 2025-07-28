@@ -1,6 +1,6 @@
 var a22714 =
 [
-    [ "FilterTargets", "d0/d9e/a22714.html#abd3fafc2120b7069790dd9822cd62adc", null ],
-    [ "PrepareSpellScript", "d0/d9e/a22714.html#aebc0441481a2c458fc904175df931a9e", null ],
-    [ "Register", "d0/d9e/a22714.html#af1173988538ad44c27ea2ed9d49fe06d", null ]
+    [ "HandleScriptEffect", "d0/d9e/a22714.html#a21740b341acce23e284a3d4ceea9b6e0", null ],
+    [ "PrepareSpellScript", "d0/d9e/a22714.html#addcd30a673390ca8b76eab5ccb5f4245", null ],
+    [ "Register", "d0/d9e/a22714.html#aad6959f74932db219e991efd3b3af44a", null ]
 ];

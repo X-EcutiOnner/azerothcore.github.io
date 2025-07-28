@@ -1,12 +1,6 @@
 var a20046 =
 [
-    [ "boss_freya_elder_stonebarkAI", "de/df6/a20046.html#a492329e296aaf29861d76e12e2b94631", null ],
-    [ "DamageTaken", "de/df6/a20046.html#af25c675f46f5ca0d0da170f367cc8bdc", null ],
-    [ "JustDied", "de/df6/a20046.html#a8dcdf4a1c8df10fc8ca419de924fe136", null ],
-    [ "JustEngagedWith", "de/df6/a20046.html#a77a231b75bbbbb56638e1e5535827150", null ],
-    [ "KilledUnit", "de/df6/a20046.html#ad1ce26306c2ea2102183b0679d46efd3", null ],
-    [ "Reset", "de/df6/a20046.html#a0d17571be8905c4c33ed4591e963d680", null ],
-    [ "UpdateAI", "de/df6/a20046.html#acd21050c265f6703060f95f2e3c725f3", null ],
-    [ "_chargesCount", "de/df6/a20046.html#a294714a547bbc7a7364c7477bdc0422c", null ],
-    [ "events", "de/df6/a20046.html#a07bcbf839c3b0b3924ec1915b47af0f2", null ]
+    [ "boss_freya_elder_stonebarkAI", "df/d2b/a20050.html", "df/d2b/a20050" ],
+    [ "boss_freya_elder_stonebark", "de/df6/a20046.html#a9c90c504d78456580ae657a42fac4075", null ],
+    [ "GetAI", "de/df6/a20046.html#a0b529bb8755c56046c40b620ef4b7448", null ]
 ];

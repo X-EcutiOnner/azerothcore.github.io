@@ -1,9 +1,6 @@
 var a17514 =
 [
-    [ "npc_stinky_iccAI", "d2/d3e/a17514.html#a545356eb2b77cfae7af3d470e95ea2d6", null ],
-    [ "JustDied", "d2/d3e/a17514.html#a7fa392980e2d30c935b79377df8dc694", null ],
-    [ "JustEngagedWith", "d2/d3e/a17514.html#afd1cd4fc387ff7cdad58c9db60841c7a", null ],
-    [ "Reset", "d2/d3e/a17514.html#ac66e3398598576fdc889a7b56646eecf", null ],
-    [ "UpdateAI", "d2/d3e/a17514.html#af6e04824ea1682c529e8579a306d34ca", null ],
-    [ "events", "d2/d3e/a17514.html#a3ab7ae11b7f5ef5877febbd384014ce2", null ]
+    [ "npc_stinky_iccAI", "de/da3/a17518.html", "de/da3/a17518" ],
+    [ "npc_stinky_icc", "d2/d3e/a17514.html#a8f6a3687d4b330f532a0d892dbf429a0", null ],
+    [ "GetAI", "d2/d3e/a17514.html#aaf6b7b1a7469d1e353617f63f11f7781", null ]
 ];

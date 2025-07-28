@@ -1,10 +1,10 @@
 var a03257 =
 [
-    [ "boss_tharon_ja", "d1/de9/a16686.html", "d1/de9/a16686" ],
-    [ "boss_tharon_ja::boss_tharon_jaAI", "da/db9/a16690.html", "da/db9/a16690" ],
-    [ "spell_tharon_ja_curse_of_life_aura", "d9/d53/a16694.html", "d9/d53/a16694" ],
-    [ "spell_tharon_ja_dummy_aura", "db/dcc/a16698.html", "db/dcc/a16698" ],
-    [ "spell_tharon_ja_clear_gift_of_tharon_ja", "d5/dc6/a16702.html", "d5/dc6/a16702" ],
+    [ "boss_tharon_ja", "da/db9/a16690.html", "da/db9/a16690" ],
+    [ "boss_tharon_ja::boss_tharon_jaAI", "d9/d53/a16694.html", "d9/d53/a16694" ],
+    [ "spell_tharon_ja_curse_of_life_aura", "db/dcc/a16698.html", "db/dcc/a16698" ],
+    [ "spell_tharon_ja_dummy_aura", "d5/dc6/a16702.html", "d5/dc6/a16702" ],
+    [ "spell_tharon_ja_clear_gift_of_tharon_ja", "d4/d09/a16706.html", "d4/d09/a16706" ],
     [ "Misc", "df/d62/a03257.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
       [ "DATA_SKILLPOINT_MIN", "d1/dde/a04187.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a3093ddfcacf2742f4fb344843e2e7ce6", null ],
       [ "NEFARIUS_PATH_2", "dd/d44/a04097.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a09833188939fe77088ed4fb2cfedb875", null ],
@@ -172,6 +172,7 @@ var a03257 =
       [ "MAX_EMBRACE_DMG", "d1/d45/a03191.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a92c750d1fab22566cfc44edbc7b61cfe", null ],
       [ "MAX_EMBRACE_DMG_H", "d1/d45/a03191.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ac90a40c1805a63761f571de57c08eaf1", null ],
       [ "SUMMON_GROUP_TRIGGERS", "d1/d45/a03191.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a2fbeedd9d697855685b859c7b5df8a41", null ],
+      [ "GROUP_COMBAT_ABILITIES", "d1/d45/a03191.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a5d7cf54e44fb5a068cd85e6745a6c399", null ],
       [ "ACHIEV_TIMED_START_EVENT", "d3/dcf/a03173.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6ac3776ff6343c84361329e38055da04", null ],
       [ "EVENT_CHECK_HEALTH_25", "d3/dcf/a03173.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ab4c8308b4dc44a86daf5ee851c990687", null ],
       [ "EVENT_CHECK_HEALTH_50", "d3/dcf/a03173.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a279f4abf2411c8e70eb459d7644bc65b", null ],

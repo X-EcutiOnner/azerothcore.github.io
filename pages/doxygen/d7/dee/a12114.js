@@ -1,6 +1,6 @@
 var a12114 =
 [
-    [ "boss_thebeastAI", "d4/dff/a12118.html", "d4/dff/a12118" ],
-    [ "boss_the_beast", "d7/dee/a12114.html#a131344b5fada63f4a8f0b3692ecba9eb", null ],
-    [ "GetAI", "d7/dee/a12114.html#a0b40497c665c571247cb8ad8b85ac63f", null ]
+    [ "OrcDeathEvent", "d7/dee/a12114.html#ae4088ee95c3c0de9ae524a82803b0ea2", null ],
+    [ "Execute", "d7/dee/a12114.html#a293ec6667da669a27fe75965f919cd68", null ],
+    [ "_me", "d7/dee/a12114.html#a56cdf23ed08cbb800ba6fe7fb5e284b7", null ]
 ];

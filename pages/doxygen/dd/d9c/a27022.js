@@ -1,5 +1,5 @@
 var a27022 =
 [
-    [ "achievement_sickly_gazelle", "dd/d9c/a27022.html#abb613cb222c727923c4c5ce843db3a5f", null ],
-    [ "OnCheck", "dd/d9c/a27022.html#a5a4fcd30c92c10a9c0fb8fc1372f3857", null ]
+    [ "achievement_everything_counts", "dd/d9c/a27022.html#af18e6b3128a9d722c98f33f7ec6430b3", null ],
+    [ "OnCheck", "dd/d9c/a27022.html#a81741a8df4d10b37314ec8ef09eb888b", null ]
 ];

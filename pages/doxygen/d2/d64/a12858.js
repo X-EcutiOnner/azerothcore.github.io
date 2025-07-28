@@ -1,8 +1,7 @@
 var a12858 =
 [
-    [ "npc_death_knight_initiateAI", "d2/d0d/a12862.html", "d2/d0d/a12862" ],
-    [ "npc_death_knight_initiate", "d2/d64/a12858.html#a0c1b552035bed7be9af1fbdf8205b4b6", null ],
-    [ "GetAI", "d2/d64/a12858.html#ac38e0ed0ea1eac8e0de6f08664cb095a", null ],
-    [ "OnGossipHello", "d2/d64/a12858.html#a24f1b91ad0a69e4468e812747225d303", null ],
-    [ "OnGossipSelect", "d2/d64/a12858.html#ab0712bc84003b5eb72f11b49ef6e57a7", null ]
+    [ "HandleScriptEffect", "d2/d64/a12858.html#a1cdba27f7311021407307bcd35235fed", null ],
+    [ "PrepareSpellScript", "d2/d64/a12858.html#a9c97b6702a02fe78e1f6e76d8a00c598", null ],
+    [ "Register", "d2/d64/a12858.html#a9794991aa1710ce37112888eeb572796", null ],
+    [ "Validate", "d2/d64/a12858.html#a1e7c77b45c1abf4aee5491f02d75b6d1", null ]
 ];

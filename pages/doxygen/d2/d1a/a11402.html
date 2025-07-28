@@ -941,10 +941,10 @@ Private Member Functions</h2></td></tr>
 <div class="ttc" id="aa01139_html_aa9bdef2d04cda42105b540072878a959a251de6cd21e96c676566232e9625b5a0"><div class="ttname"><a href="../../d5/d3e/a01139.html#aa9bdef2d04cda42105b540072878a959a251de6cd21e96c676566232e9625b5a0">GMTICKET_STATUS_DEFAULT</a></div><div class="ttdeci">@ GMTICKET_STATUS_DEFAULT</div><div class="ttdef"><b>Definition:</b> TicketMgr.h:37</div></div>
 <div class="ttc" id="aa04770_html_gga1073b6abb3a749f18bf1633020879e9baff625c5f8a99a065d3cd6f48cff3990e"><div class="ttname"><a href="../../d6/df5/a04770.html#gga1073b6abb3a749f18bf1633020879e9baff625c5f8a99a065d3cd6f48cff3990e">SMSG_GMTICKET_GETTICKET</a></div><div class="ttdeci">@ SMSG_GMTICKET_GETTICKET</div><div class="ttdef"><b>Definition:</b> Opcodes.h:560</div></div>
 <div class="ttc" id="aa10966_html"><div class="ttname"><a href="../../d5/d44/a10966.html">WorldPacket</a></div><div class="ttdef"><b>Definition:</b> WorldPacket.h:26</div></div>
-<div class="ttc" id="aa11010_html_a2c74b80ca9b81765049e315813b29269"><div class="ttname"><a href="../../dc/d38/a11010.html#a2c74b80ca9b81765049e315813b29269">WorldSession::SendPacket</a></div><div class="ttdeci">void SendPacket(WorldPacket const *packet)</div><div class="ttdoc">Send a packet to the client.</div><div class="ttdef"><b>Definition:</b> WorldSession.cpp:226</div></div>
+<div class="ttc" id="aa11010_html_a2c74b80ca9b81765049e315813b29269"><div class="ttname"><a href="../../dc/d38/a11010.html#a2c74b80ca9b81765049e315813b29269">WorldSession::SendPacket</a></div><div class="ttdeci">void SendPacket(WorldPacket const *packet)</div><div class="ttdoc">Send a packet to the client.</div><div class="ttdef"><b>Definition:</b> WorldSession.cpp:251</div></div>
 <div class="ttc" id="aa11398_html_a6459c45f0d15a7a986529f6040e31a15"><div class="ttname"><a href="../../d6/d0f/a11398.html#a6459c45f0d15a7a986529f6040e31a15">GmTicket::WritePacket</a></div><div class="ttdeci">void WritePacket(WorldPacket &amp;data) const</div><div class="ttdef"><b>Definition:</b> TicketMgr.cpp:116</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00037">GMTICKET_STATUS_DEFAULT</a>, <a class="el" href="../../#l00226">WorldSession::SendPacket()</a>, <a class="el" href="../../#l00560">SMSG_GMTICKET_GETTICKET</a>, and <a class="el" href="../../#l00116">GmTicket::WritePacket()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00037">GMTICKET_STATUS_DEFAULT</a>, <a class="el" href="../../#l00251">WorldSession::SendPacket()</a>, <a class="el" href="../../#l00560">SMSG_GMTICKET_GETTICKET</a>, and <a class="el" href="../../#l00116">GmTicket::WritePacket()</a>.</p>
 
 </div>
 </div>
@@ -1000,10 +1000,10 @@ Private Member Functions</h2></td></tr>
 <div class="line"><span class="lineno">  424</span>        <span class="keywordflow">if</span> (itr-&gt;second-&gt;IsClosed())</div>
 <div class="line"><span class="lineno">  425</span>            handler.<a class="code hl_function" href="../../d1/dd7/a07498.html#ac1ed346507097817b3f8e00f0ae657a0">SendSysMessage</a>(itr-&gt;second-&gt;FormatMessageString(handler).c_str());</div>
 <div class="line"><span class="lineno">  426</span>}</div>
-<div class="ttc" id="aa02333_html_af9ee42b1cf006ecb2d2e74fe71c0761aa9e6d56de2741cec19ce55f487bcdcd35"><div class="ttname"><a href="../../d7/dbe/a02333.html#af9ee42b1cf006ecb2d2e74fe71c0761aa9e6d56de2741cec19ce55f487bcdcd35">LANG_COMMAND_TICKETSHOWCLOSEDLIST</a></div><div class="ttdeci">@ LANG_COMMAND_TICKETSHOWCLOSEDLIST</div><div class="ttdef"><b>Definition:</b> Language.h:1026</div></div>
+<div class="ttc" id="aa02333_html_af9ee42b1cf006ecb2d2e74fe71c0761aa9e6d56de2741cec19ce55f487bcdcd35"><div class="ttname"><a href="../../d7/dbe/a02333.html#af9ee42b1cf006ecb2d2e74fe71c0761aa9e6d56de2741cec19ce55f487bcdcd35">LANG_COMMAND_TICKETSHOWCLOSEDLIST</a></div><div class="ttdeci">@ LANG_COMMAND_TICKETSHOWCLOSEDLIST</div><div class="ttdef"><b>Definition:</b> Language.h:1030</div></div>
 <div class="ttc" id="aa07498_html_ac1ed346507097817b3f8e00f0ae657a0"><div class="ttname"><a href="../../d1/dd7/a07498.html#ac1ed346507097817b3f8e00f0ae657a0">ChatHandler::SendSysMessage</a></div><div class="ttdeci">virtual void SendSysMessage(std::string_view str, bool escapeCharacters=false)</div><div class="ttdef"><b>Definition:</b> Chat.cpp:160</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00251">_ticketList</a>, <a class="el" href="../../#l01026">LANG_COMMAND_TICKETSHOWCLOSEDLIST</a>, and <a class="el" href="../../#l00160">ChatHandler::SendSysMessage()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00251">_ticketList</a>, <a class="el" href="../../#l01030">LANG_COMMAND_TICKETSHOWCLOSEDLIST</a>, and <a class="el" href="../../#l00160">ChatHandler::SendSysMessage()</a>.</p>
 
 </div>
 </div>
@@ -1029,9 +1029,9 @@ Private Member Functions</h2></td></tr>
 <div class="line"><span class="lineno">  433</span>            handler.<a class="code hl_function" href="../../d1/dd7/a07498.html#ac1ed346507097817b3f8e00f0ae657a0">SendSysMessage</a>(itr-&gt;second-&gt;FormatMessageString(handler).c_str());</div>
 <div class="line"><span class="lineno">  434</span>}</div>
 <div class="ttc" id="aa01139_html_a878f9ec26e56dd05dd8f956cfaba754da5a63c2f2fcec47a0eaad7a4724c604e1"><div class="ttname"><a href="../../d5/d3e/a01139.html#a878f9ec26e56dd05dd8f956cfaba754da5a63c2f2fcec47a0eaad7a4724c604e1">TICKET_IN_ESCALATION_QUEUE</a></div><div class="ttdeci">@ TICKET_IN_ESCALATION_QUEUE</div><div class="ttdef"><b>Definition:</b> TicketMgr.h:59</div></div>
-<div class="ttc" id="aa02333_html_af9ee42b1cf006ecb2d2e74fe71c0761aa03112112340d157c1e51213d9b8215bf"><div class="ttname"><a href="../../d7/dbe/a02333.html#af9ee42b1cf006ecb2d2e74fe71c0761aa03112112340d157c1e51213d9b8215bf">LANG_COMMAND_TICKETSHOWESCALATEDLIST</a></div><div class="ttdeci">@ LANG_COMMAND_TICKETSHOWESCALATEDLIST</div><div class="ttdef"><b>Definition:</b> Language.h:1041</div></div>
+<div class="ttc" id="aa02333_html_af9ee42b1cf006ecb2d2e74fe71c0761aa03112112340d157c1e51213d9b8215bf"><div class="ttname"><a href="../../d7/dbe/a02333.html#af9ee42b1cf006ecb2d2e74fe71c0761aa03112112340d157c1e51213d9b8215bf">LANG_COMMAND_TICKETSHOWESCALATEDLIST</a></div><div class="ttdeci">@ LANG_COMMAND_TICKETSHOWESCALATEDLIST</div><div class="ttdef"><b>Definition:</b> Language.h:1045</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00251">_ticketList</a>, <a class="el" href="../../#l01041">LANG_COMMAND_TICKETSHOWESCALATEDLIST</a>, <a class="el" href="../../#l00160">ChatHandler::SendSysMessage()</a>, and <a class="el" href="../../#l00059">TICKET_IN_ESCALATION_QUEUE</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00251">_ticketList</a>, <a class="el" href="../../#l01045">LANG_COMMAND_TICKETSHOWESCALATEDLIST</a>, <a class="el" href="../../#l00160">ChatHandler::SendSysMessage()</a>, and <a class="el" href="../../#l00059">TICKET_IN_ESCALATION_QUEUE</a>.</p>
 
 </div>
 </div>
@@ -1067,10 +1067,10 @@ Private Member Functions</h2></td></tr>
 <div class="line"><span class="lineno">  416</span>            <span class="keywordflow">if</span> (!onlineOnly || itr-&gt;second-&gt;GetPlayer())</div>
 <div class="line"><span class="lineno">  417</span>                handler.<a class="code hl_function" href="../../d1/dd7/a07498.html#ac1ed346507097817b3f8e00f0ae657a0">SendSysMessage</a>(itr-&gt;second-&gt;FormatMessageString(handler).c_str());</div>
 <div class="line"><span class="lineno">  418</span>}</div>
-<div class="ttc" id="aa02333_html_af9ee42b1cf006ecb2d2e74fe71c0761aa01597c5a0881688d66adfb28bb97732f"><div class="ttname"><a href="../../d7/dbe/a02333.html#af9ee42b1cf006ecb2d2e74fe71c0761aa01597c5a0881688d66adfb28bb97732f">LANG_COMMAND_TICKETSHOWONLINELIST</a></div><div class="ttdeci">@ LANG_COMMAND_TICKETSHOWONLINELIST</div><div class="ttdef"><b>Definition:</b> Language.h:1025</div></div>
-<div class="ttc" id="aa02333_html_af9ee42b1cf006ecb2d2e74fe71c0761aa187ee5c33d6401e47867826b0bb1117b"><div class="ttname"><a href="../../d7/dbe/a02333.html#af9ee42b1cf006ecb2d2e74fe71c0761aa187ee5c33d6401e47867826b0bb1117b">LANG_COMMAND_TICKETSHOWLIST</a></div><div class="ttdeci">@ LANG_COMMAND_TICKETSHOWLIST</div><div class="ttdef"><b>Definition:</b> Language.h:1024</div></div>
+<div class="ttc" id="aa02333_html_af9ee42b1cf006ecb2d2e74fe71c0761aa01597c5a0881688d66adfb28bb97732f"><div class="ttname"><a href="../../d7/dbe/a02333.html#af9ee42b1cf006ecb2d2e74fe71c0761aa01597c5a0881688d66adfb28bb97732f">LANG_COMMAND_TICKETSHOWONLINELIST</a></div><div class="ttdeci">@ LANG_COMMAND_TICKETSHOWONLINELIST</div><div class="ttdef"><b>Definition:</b> Language.h:1029</div></div>
+<div class="ttc" id="aa02333_html_af9ee42b1cf006ecb2d2e74fe71c0761aa187ee5c33d6401e47867826b0bb1117b"><div class="ttname"><a href="../../d7/dbe/a02333.html#af9ee42b1cf006ecb2d2e74fe71c0761aa187ee5c33d6401e47867826b0bb1117b">LANG_COMMAND_TICKETSHOWLIST</a></div><div class="ttdeci">@ LANG_COMMAND_TICKETSHOWLIST</div><div class="ttdef"><b>Definition:</b> Language.h:1028</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00251">_ticketList</a>, <a class="el" href="../../#l01024">LANG_COMMAND_TICKETSHOWLIST</a>, <a class="el" href="../../#l01025">LANG_COMMAND_TICKETSHOWONLINELIST</a>, and <a class="el" href="../../#l00160">ChatHandler::SendSysMessage()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00251">_ticketList</a>, <a class="el" href="../../#l01028">LANG_COMMAND_TICKETSHOWLIST</a>, <a class="el" href="../../#l01029">LANG_COMMAND_TICKETSHOWONLINELIST</a>, and <a class="el" href="../../#l00160">ChatHandler::SendSysMessage()</a>.</p>
 
 </div>
 </div>
@@ -1250,7 +1250,7 @@ Private Member Functions</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d2/d1a/a11402.html">TicketMgr</a></li>
-    <li class="footer">Generated on Mon Jul 21 2025 20:51:34 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Jul 28 2025 20:52:36 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

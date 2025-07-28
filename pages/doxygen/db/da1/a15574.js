@@ -1,6 +1,7 @@
 var a15574 =
 [
-    [ "go_wind_stoneAI", "d8/d99/a15578.html", "d8/d99/a15578" ],
-    [ "go_wind_stone", "db/da1/a15574.html#a70c4bcb743b0d587caad4b574c589e3e", null ],
-    [ "GetAI", "db/da1/a15574.html#ab7add0fe4e58eec422e37ae04b9338df", null ]
+    [ "DelayedWindstoneSummonEvent", "db/da1/a15574.html#aa97daf8cf3479395ffd6558b6699436a", null ],
+    [ "Execute", "db/da1/a15574.html#aa413bc8709bc543b89ffb3df42185475", null ],
+    [ "_playerGUID", "db/da1/a15574.html#ad83bb6d87b569f59e99abcc16517745b", null ],
+    [ "_summon", "db/da1/a15574.html#af9804d276da5daebab3a37f2c75301ea", null ]
 ];

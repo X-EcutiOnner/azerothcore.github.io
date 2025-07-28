@@ -1,7 +1,11 @@
 var a15442 =
 [
-    [ "HandleEffectPeriodic", "db/d8e/a15442.html#ac47c157dbd193bc131d281666ae2097f", null ],
-    [ "PrepareAuraScript", "db/d8e/a15442.html#ac650ece6e2d9e9e7ff9b863d77f84975", null ],
-    [ "Register", "db/d8e/a15442.html#ac3c158fdddd007d1d7986470032bfc25", null ],
-    [ "Validate", "db/d8e/a15442.html#a26b117dc8a3b104dec9de27597fbe55d", null ]
+    [ "npc_troll_volunteerAI", "db/d8e/a15442.html#a7eb0c508122616a6781c8b23210e4062", null ],
+    [ "GetMountId", "db/d8e/a15442.html#a5edc586ded0a1146bb1bd82ca14062cc", null ],
+    [ "InitializeAI", "db/d8e/a15442.html#a1c758c7601624e0620778e13e8ec60a0", null ],
+    [ "MovementInform", "db/d8e/a15442.html#aa1d34a4f3701354899ebdd9b38670b31", null ],
+    [ "Reset", "db/d8e/a15442.html#a31439533de41c2a459af2b4d3af76139", null ],
+    [ "SpellHit", "db/d8e/a15442.html#a0604cdade2ce4da23915ca1fc4a4f475", null ],
+    [ "_complete", "db/d8e/a15442.html#ac7e1cc5f0e4f675d6aad0f6e9b449c15", null ],
+    [ "_mountModel", "db/d8e/a15442.html#ae226345bd324b9c337dc96570117d82b", null ]
 ];

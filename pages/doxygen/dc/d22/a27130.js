@@ -1,9 +1,6 @@
 var a27130 =
 [
-    [ "boss_lethonAI", "dc/d22/a27130.html#ac5d53a746f5286776b2e510f1de86790", null ],
-    [ "DamageTaken", "dc/d22/a27130.html#a8a67dc7f923bfd56948a16d917a5f70f", null ],
-    [ "JustEngagedWith", "dc/d22/a27130.html#a1a3acb1e8cbceb16854aafcf51a0f99d", null ],
-    [ "Reset", "dc/d22/a27130.html#a0e53d139f64d104557e157a91176a47a", null ],
-    [ "SpellHitTarget", "dc/d22/a27130.html#aa478414144cb396fa67a9bdb46dcbb4c", null ],
-    [ "_stage", "dc/d22/a27130.html#aa267296ee60efc7d39a20dc05afec081", null ]
+    [ "npc_spirit_shadeAI", "d5/dd4/a27134.html", "d5/dd4/a27134" ],
+    [ "npc_spirit_shade", "dc/d22/a27130.html#a891ede5651789274496d6426daf9937d", null ],
+    [ "GetAI", "dc/d22/a27130.html#a166f6a9abf7c0e33374c2f998c0524c3", null ]
 ];

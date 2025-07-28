@@ -1,10 +1,10 @@
 var a04274 =
 [
-    [ "boss_marli", "dd/d4e/a14074.html", "dd/d4e/a14074" ],
-    [ "npc_spawn_of_marli", "db/de9/a14078.html", "db/de9/a14078" ],
-    [ "spell_hatch_eggs", "dc/d3e/a14082.html", "dc/d3e/a14082" ],
-    [ "spell_enveloping_webs", "df/de8/a14086.html", "df/de8/a14086" ],
-    [ "spell_marli_transform", "d0/d7a/a14090.html", "d0/d7a/a14090" ],
+    [ "boss_marli", "db/de9/a14078.html", "db/de9/a14078" ],
+    [ "npc_spawn_of_marli", "dc/d3e/a14082.html", "dc/d3e/a14082" ],
+    [ "spell_hatch_eggs", "df/de8/a14086.html", "df/de8/a14086" ],
+    [ "spell_enveloping_webs", "d0/d7a/a14090.html", "d0/d7a/a14090" ],
+    [ "spell_marli_transform", "d7/dc5/a14094.html", "d7/dc5/a14094" ],
     [ "Misc", "da/dfb/a04274.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
       [ "DATA_SKILLPOINT_MIN", "d1/dde/a04187.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a3093ddfcacf2742f4fb344843e2e7ce6", null ],
       [ "NEFARIUS_PATH_2", "dd/d44/a04097.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a09833188939fe77088ed4fb2cfedb875", null ],
@@ -172,6 +172,7 @@ var a04274 =
       [ "MAX_EMBRACE_DMG", "d1/d45/a03191.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a92c750d1fab22566cfc44edbc7b61cfe", null ],
       [ "MAX_EMBRACE_DMG_H", "d1/d45/a03191.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ac90a40c1805a63761f571de57c08eaf1", null ],
       [ "SUMMON_GROUP_TRIGGERS", "d1/d45/a03191.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a2fbeedd9d697855685b859c7b5df8a41", null ],
+      [ "GROUP_COMBAT_ABILITIES", "d1/d45/a03191.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a5d7cf54e44fb5a068cd85e6745a6c399", null ],
       [ "ACHIEV_TIMED_START_EVENT", "d3/dcf/a03173.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6ac3776ff6343c84361329e38055da04", null ],
       [ "EVENT_CHECK_HEALTH_25", "d3/dcf/a03173.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ab4c8308b4dc44a86daf5ee851c990687", null ],
       [ "EVENT_CHECK_HEALTH_50", "d3/dcf/a03173.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a279f4abf2411c8e70eb459d7644bc65b", null ],

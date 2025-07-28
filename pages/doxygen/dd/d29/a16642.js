@@ -1,6 +1,6 @@
 var a16642 =
 [
-    [ "boss_dredAI", "d0/d74/a16646.html", "d0/d74/a16646" ],
-    [ "boss_dred", "dd/d29/a16642.html#a60a913f53c63f95680c29c72f48f9a1a", null ],
-    [ "GetAI", "dd/d29/a16642.html#ab8276b185f80a92a54327ea28b19c704", null ]
+    [ "npc_announcer_toc10", "dd/d29/a16642.html#ae495b19328c6a743dfd8f1cbf37a0bd6", null ],
+    [ "OnGossipHello", "dd/d29/a16642.html#afcc5262e7c49b7456af146de14805a06", null ],
+    [ "OnGossipSelect", "dd/d29/a16642.html#a9a2bf1d3a215332744ca473041cc0520", null ]
 ];

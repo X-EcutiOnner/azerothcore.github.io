@@ -1,7 +1,8 @@
 var a27166 =
 [
-    [ "HandlePeriodic", "d9/d8a/a27166.html#a3da4cc5322f2e34244729fe3b3876482", null ],
-    [ "PrepareAuraScript", "d9/d8a/a27166.html#aab7f5c5bdfdd2b440f59f16ab321765a", null ],
-    [ "Register", "d9/d8a/a27166.html#a53b6067f46912648413fc6d6f107b0d8", null ],
-    [ "Validate", "d9/d8a/a27166.html#aa03222717b3c06316b232a6ac0270ec0", null ]
+    [ "FilterTargets", "d9/d8a/a27166.html#a53c6d73f3588e50c2be7ce68595a704c", null ],
+    [ "HandleEffect", "d9/d8a/a27166.html#a2edac19abf8aa765ada369e00cd7ea69", null ],
+    [ "PrepareSpellScript", "d9/d8a/a27166.html#ae1e1ff5456cb7c558ff4fe415de6a691", null ],
+    [ "Register", "d9/d8a/a27166.html#acb4d6abeb0e293728ae3dd0d248e0844", null ],
+    [ "Validate", "d9/d8a/a27166.html#aabc063155fad404ffd044c9f79b88051", null ]
 ];

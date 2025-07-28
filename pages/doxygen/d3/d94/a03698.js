@@ -1,11 +1,11 @@
 var a03698 =
 [
-    [ "boss_ossirian", "d5/d69/a15002.html", "d5/d69/a15002" ],
-    [ "go_ossirian_crystal", "dd/d34/a15006.html", "dd/d34/a15006" ],
-    [ "go_ossirian_crystal::go_ossirian_crystalAI", "d5/d3b/a15010.html", "d5/d3b/a15010" ],
-    [ "npc_anubisath_guardian", "d8/db2/a15014.html", "d8/db2/a15014" ],
-    [ "spell_crystal_weakness", "d2/d16/a15018.html", "d2/d16/a15018" ],
-    [ "spell_aq_shadow_storm", "dc/df0/a15022.html", "dc/df0/a15022" ],
+    [ "boss_ossirian", "dd/d34/a15006.html", "dd/d34/a15006" ],
+    [ "go_ossirian_crystal", "d5/d3b/a15010.html", "d5/d3b/a15010" ],
+    [ "go_ossirian_crystal::go_ossirian_crystalAI", "d8/db2/a15014.html", "d8/db2/a15014" ],
+    [ "npc_anubisath_guardian", "d2/d16/a15018.html", "d2/d16/a15018" ],
+    [ "spell_crystal_weakness", "dc/df0/a15022.html", "dc/df0/a15022" ],
+    [ "spell_aq_shadow_storm", "d8/d53/a15026.html", "d8/d53/a15026" ],
     [ "Actions", "d3/d94/a03698.html#a250372292659bed7ae290d8621f88ccf", [
       [ "ACTION_GUNSHIP_READY", "df/d3b/a00728.html#a250372292659bed7ae290d8621f88ccfaae8bb35d65ee37e4d232e2a67aeca581", null ],
       [ "ACTION_TELEPORT_PLAYER_TO_TRANSPORT", "df/d3b/a00728.html#a250372292659bed7ae290d8621f88ccfa6b86b0986a459bb245b3a3cd8b75040c", null ],
@@ -1511,6 +1511,7 @@ var a03698 =
       [ "MAX_EMBRACE_DMG", "d1/d45/a03191.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a92c750d1fab22566cfc44edbc7b61cfe", null ],
       [ "MAX_EMBRACE_DMG_H", "d1/d45/a03191.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ac90a40c1805a63761f571de57c08eaf1", null ],
       [ "SUMMON_GROUP_TRIGGERS", "d1/d45/a03191.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a2fbeedd9d697855685b859c7b5df8a41", null ],
+      [ "GROUP_COMBAT_ABILITIES", "d1/d45/a03191.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a5d7cf54e44fb5a068cd85e6745a6c399", null ],
       [ "ACHIEV_TIMED_START_EVENT", "d3/dcf/a03173.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6ac3776ff6343c84361329e38055da04", null ],
       [ "EVENT_CHECK_HEALTH_25", "d3/dcf/a03173.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ab4c8308b4dc44a86daf5ee851c990687", null ],
       [ "EVENT_CHECK_HEALTH_50", "d3/dcf/a03173.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a279f4abf2411c8e70eb459d7644bc65b", null ],

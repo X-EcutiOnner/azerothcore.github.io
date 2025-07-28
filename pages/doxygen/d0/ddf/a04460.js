@@ -1,9 +1,9 @@
 var a04460 =
 [
-    [ "PlayerAbilityStruct", "dd/db2/a13798.html", "dd/db2/a13798" ],
-    [ "boss_hexlord_malacrass", "d4/d2b/a13802.html", "d4/d2b/a13802" ],
-    [ "boss_alyson_antille", "dd/dd9/a13806.html", "dd/dd9/a13806" ],
-    [ "spell_hexlord_unstable_affliction", "db/d93/a13810.html", "db/d93/a13810" ],
+    [ "PlayerAbilityStruct", "d4/d2b/a13802.html", "d4/d2b/a13802" ],
+    [ "boss_hexlord_malacrass", "dd/dd9/a13806.html", "dd/dd9/a13806" ],
+    [ "boss_alyson_antille", "db/d93/a13810.html", "db/d93/a13810" ],
+    [ "spell_hexlord_unstable_affliction", "d7/d6d/a13814.html", "d7/d6d/a13814" ],
     [ "AbilityTarget", "d0/ddf/a04460.html#adfb3b9eec5ef9b543982c5266b78f0c4", [
       [ "ABILITY_TARGET_SELF", "d0/ddf/a04460.html#adfb3b9eec5ef9b543982c5266b78f0c4a81d07873b9878cb8207d7cb0dd38cc68", null ],
       [ "ABILITY_TARGET_VICTIM", "d0/ddf/a04460.html#adfb3b9eec5ef9b543982c5266b78f0c4a67ce529cf704574a9f7db49aac831901", null ],
@@ -417,6 +417,7 @@ var a04460 =
       [ "MAX_EMBRACE_DMG", "d1/d45/a03191.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a92c750d1fab22566cfc44edbc7b61cfe", null ],
       [ "MAX_EMBRACE_DMG_H", "d1/d45/a03191.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ac90a40c1805a63761f571de57c08eaf1", null ],
       [ "SUMMON_GROUP_TRIGGERS", "d1/d45/a03191.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a2fbeedd9d697855685b859c7b5df8a41", null ],
+      [ "GROUP_COMBAT_ABILITIES", "d1/d45/a03191.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a5d7cf54e44fb5a068cd85e6745a6c399", null ],
       [ "ACHIEV_TIMED_START_EVENT", "d3/dcf/a03173.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6ac3776ff6343c84361329e38055da04", null ],
       [ "EVENT_CHECK_HEALTH_25", "d3/dcf/a03173.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ab4c8308b4dc44a86daf5ee851c990687", null ],
       [ "EVENT_CHECK_HEALTH_50", "d3/dcf/a03173.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a279f4abf2411c8e70eb459d7644bc65b", null ],

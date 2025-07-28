@@ -1,6 +1,10 @@
 var a17974 =
 [
-    [ "ExtraRemoveEffect", "d5/d0e/a17974.html#a49b1087d66606ddeebe6918ad05d4b37", null ],
-    [ "PrepareAuraScript", "d5/d0e/a17974.html#a41992ed6c23275d3a910915755b682f9", null ],
-    [ "Register", "d5/d0e/a17974.html#ab956cb95473cf0c5fc9fb2af14fc945e", null ]
+    [ "FilterTargets", "d5/d0e/a17974.html#aefba5226671b6217549bd34059519179", null ],
+    [ "Load", "d5/d0e/a17974.html#af8a2b651782783dc29ac7266ed02c028", null ],
+    [ "NotifyTargets", "d5/d0e/a17974.html#a618e98fbd5c6ae21047cc4f911099730", null ],
+    [ "PrepareSpellScript", "d5/d0e/a17974.html#a0cd63fa27a1ee853c5d73c766d1c4de6", null ],
+    [ "Register", "d5/d0e/a17974.html#ae72a470c87f7d90e4bd635e239d09f9b", null ],
+    [ "ReplaceTargets", "d5/d0e/a17974.html#a5d3df9715d04ea4b663b061c7c02ae03", null ],
+    [ "_target", "d5/d0e/a17974.html#a10c85fd3909e56f457d73add8021c0b7", null ]
 ];

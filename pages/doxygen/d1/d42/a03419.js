@@ -1,14 +1,14 @@
 var a03419 =
 [
-    [ "npc_attracted_reef_bull", "d5/def/a22002.html", "d5/def/a22002" ],
-    [ "npc_attracted_reef_bull::npc_attracted_reef_bullAI", "d8/de9/a22006.html", "d8/de9/a22006" ],
-    [ "npc_your_inner_turmoil", "d5/dd0/a22010.html", "d5/dd0/a22010" ],
-    [ "npc_your_inner_turmoil::npc_your_inner_turmoilAI", "d5/d54/a22014.html", "d5/d54/a22014" ],
-    [ "npc_apothecary_hanes", "db/d28/a22018.html", "db/d28/a22018" ],
-    [ "npc_apothecary_hanes::npc_Apothecary_HanesAI", "d2/dab/a22022.html", "d2/dab/a22022" ],
-    [ "npc_plaguehound_tracker", "d6/de3/a22026.html", "d6/de3/a22026" ],
-    [ "npc_plaguehound_tracker::npc_plaguehound_trackerAI", "db/d81/a22030.html", "db/d81/a22030" ],
-    [ "npc_razael_and_lyana", "df/dc1/a22034.html", "df/dc1/a22034" ],
+    [ "npc_attracted_reef_bull", "d6/d9b/a21998.html", "d6/d9b/a21998" ],
+    [ "npc_attracted_reef_bull::npc_attracted_reef_bullAI", "d5/def/a22002.html", "d5/def/a22002" ],
+    [ "npc_your_inner_turmoil", "d8/de9/a22006.html", "d8/de9/a22006" ],
+    [ "npc_your_inner_turmoil::npc_your_inner_turmoilAI", "d5/dd0/a22010.html", "d5/dd0/a22010" ],
+    [ "npc_apothecary_hanes", "d5/d54/a22014.html", "d5/d54/a22014" ],
+    [ "npc_apothecary_hanes::npc_Apothecary_HanesAI", "db/d28/a22018.html", "db/d28/a22018" ],
+    [ "npc_plaguehound_tracker", "d2/dab/a22022.html", "d2/dab/a22022" ],
+    [ "npc_plaguehound_tracker::npc_plaguehound_trackerAI", "d6/de3/a22026.html", "d6/de3/a22026" ],
+    [ "npc_razael_and_lyana", "db/d81/a22030.html", "db/d81/a22030" ],
     [ "Entries", "d1/d42/a03419.html#a06de533fb3e7ec530f0493022ad98889", [
       [ "NPC_APOTHECARY_HANES", "d1/d42/a03419.html#a06de533fb3e7ec530f0493022ad98889acf2750295b6eec6dd126edd3e314b704", null ],
       [ "NPC_HANES_FIRE_TRIGGER", "d1/d42/a03419.html#a06de533fb3e7ec530f0493022ad98889a1d184f3197ea2249507f226925f86d51", null ],

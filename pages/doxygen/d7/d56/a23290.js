@@ -1,7 +1,7 @@
 var a23290 =
 [
-    [ "npc_ahune_ice_spear_bunny", "d7/d56/a23290.html#aecc30efddcf4ae9bd93504e1d727ee87", null ],
-    [ "InitializeAI", "d7/d56/a23290.html#a5e7eb38f6bf4a947bd1e09ee198eb45d", null ],
-    [ "UpdateAI", "d7/d56/a23290.html#ac7fd9b174f2ee1b1adf9d20d59c67bc2", null ],
-    [ "_scheduler", "d7/d56/a23290.html#a1a1a8b066a3cab9e15710fa97a8c83e6", null ]
+    [ "go_ahune_ice_spear", "d7/d56/a23290.html#a22922e47b819bc60e331cffbc7c353b3", null ],
+    [ "Reset", "d7/d56/a23290.html#abd11525a84d3ab06a39d1eb7e7c09fbc", null ],
+    [ "UpdateAI", "d7/d56/a23290.html#ae498fc1f71906af2f20e95dea4df4a2b", null ],
+    [ "_scheduler", "d7/d56/a23290.html#a7e1dab03b33b0114cc0a40fc02e2306e", null ]
 ];

@@ -1,6 +1,5 @@
 var a12774 =
 [
-    [ "HandleProc", "df/d72/a12774.html#a945dad46d3c11ee4720c939390a9dc1b", null ],
-    [ "PrepareAuraScript", "df/d72/a12774.html#a43953f2950d9a92db66a2c65a045ff6e", null ],
-    [ "Register", "df/d72/a12774.html#a24df76ff0933685bade58deff98856d2", null ]
+    [ "at_karazhan_side_entrance", "df/d72/a12774.html#abdaa7339a53941e2e89c4fcd439395fc", null ],
+    [ "_OnTrigger", "df/d72/a12774.html#a80d0018a9442ef7f0834dc329047e135", null ]
 ];

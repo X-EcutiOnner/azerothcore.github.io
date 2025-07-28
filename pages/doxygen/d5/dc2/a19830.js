@@ -1,9 +1,6 @@
 var a19830 =
 [
-    [ "npc_auriaya_sanctum_sentryAI", "d5/dc2/a19830.html#afffb62c4db56bb4e7baa095ae75cd7e3", null ],
-    [ "JustEngagedWith", "d5/dc2/a19830.html#aeeb0aa4667a110dabcc70d422ebd6de5", null ],
-    [ "Reset", "d5/dc2/a19830.html#a5ab87ac858782cd7f05d9778ca3a6214", null ],
-    [ "UpdateAI", "d5/dc2/a19830.html#ab1862b4bd4b4fdfaeac8ad9c52cc5ed6", null ],
-    [ "_ripFleshTimer", "d5/dc2/a19830.html#a83920afb7f6930d780abd2d6fba2aa4c", null ],
-    [ "_savagePounceTimer", "d5/dc2/a19830.html#a9a6b14ece9a0bf812a04ea765b546735", null ]
+    [ "npc_auriaya_sanctum_sentryAI", "d5/d70/a19834.html", "d5/d70/a19834" ],
+    [ "npc_auriaya_sanctum_sentry", "d5/dc2/a19830.html#aa275374ba3a19a2e6a8768d4f01752b2", null ],
+    [ "GetAI", "d5/dc2/a19830.html#a6a8843d3f24378a2fd334e773618ab72", null ]
 ];

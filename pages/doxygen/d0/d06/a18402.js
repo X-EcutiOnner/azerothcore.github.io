@@ -1,6 +1,6 @@
 var a18402 =
 [
-    [ "npc_lk_spirit_bombAI", "d8/dfd/a18406.html", "d8/dfd/a18406" ],
-    [ "npc_lk_spirit_bomb", "d0/d06/a18402.html#acc08d41aa1761c450de782e92307ad7c", null ],
-    [ "GetAI", "d0/d06/a18402.html#ade74c00beb2da69dafb0ae93d771c430", null ]
+    [ "HandleScript", "d0/d06/a18402.html#a910663e3fb2534c0e3aefcfd0adfe2fb", null ],
+    [ "PrepareSpellScript", "d0/d06/a18402.html#a2c6acef52962f606130d643cbd93104b", null ],
+    [ "Register", "d0/d06/a18402.html#a03ed4f257c313ba33361c16f313fdfcc", null ]
 ];

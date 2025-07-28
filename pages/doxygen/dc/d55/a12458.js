@@ -1,6 +1,6 @@
 var a12458 =
 [
-    [ "boss_ragnarosAI", "da/dd9/a12462.html", "da/dd9/a12462" ],
-    [ "boss_ragnaros", "dc/d55/a12458.html#a47bd4dc50a0d05e8cbb75c1a5a52c9b5", null ],
-    [ "GetAI", "dc/d55/a12458.html#af54e36608e160811ca06952fd2c63f6e", null ]
+    [ "HandleHit", "dc/d55/a12458.html#a5245f935c0cafd14e492214a51d85ad3", null ],
+    [ "PrepareSpellScript", "dc/d55/a12458.html#a074b9e23de0a9b24776c7e361791c6ff", null ],
+    [ "Register", "dc/d55/a12458.html#a12f7db2345ce0d19a18791a2e63e7450", null ]
 ];

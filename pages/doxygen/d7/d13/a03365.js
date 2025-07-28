@@ -1,11 +1,11 @@
 var a03365 =
 [
-    [ "boss_grobbulus", "d6/d54/a19026.html", "d6/d54/a19026" ],
-    [ "boss_grobbulus::boss_grobbulusAI", "da/dc9/a19030.html", "da/dc9/a19030" ],
-    [ "boss_grobbulus_poison_cloud", "d8/da0/a19034.html", "d8/da0/a19034" ],
-    [ "boss_grobbulus_poison_cloud::boss_grobbulus_poison_cloudAI", "d1/d00/a19038.html", "d1/d00/a19038" ],
-    [ "spell_grobbulus_poison", "d9/d94/a19042.html", "d9/d94/a19042" ],
-    [ "spell_grobbulus_mutating_injection_aura", "d8/d00/a19046.html", "d8/d00/a19046" ],
+    [ "boss_grobbulus", "da/dc9/a19030.html", "da/dc9/a19030" ],
+    [ "boss_grobbulus::boss_grobbulusAI", "d8/da0/a19034.html", "d8/da0/a19034" ],
+    [ "boss_grobbulus_poison_cloud", "d1/d00/a19038.html", "d1/d00/a19038" ],
+    [ "boss_grobbulus_poison_cloud::boss_grobbulus_poison_cloudAI", "d9/d94/a19042.html", "d9/d94/a19042" ],
+    [ "spell_grobbulus_poison", "d8/d00/a19046.html", "d8/d00/a19046" ],
+    [ "spell_grobbulus_mutating_injection_aura", "db/de9/a19050.html", "db/de9/a19050" ],
     [ "Emotes", "d7/d13/a03365.html#a2d0a63150f7988db8ff39124dc1cb21a", [
       [ "EMOTE_FRENZY", "d2/d98/a04244.html#a2d0a63150f7988db8ff39124dc1cb21aa55f111609d7846e27c2f642b9f46b1ac", null ],
       [ "EMOTE_SHIMMER", "d2/d98/a04244.html#a2d0a63150f7988db8ff39124dc1cb21aa706a7a036a41d3d1f2650ee226e9ec1e", null ],
@@ -1449,6 +1449,7 @@ var a03365 =
       [ "MAX_EMBRACE_DMG", "d1/d45/a03191.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a92c750d1fab22566cfc44edbc7b61cfe", null ],
       [ "MAX_EMBRACE_DMG_H", "d1/d45/a03191.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ac90a40c1805a63761f571de57c08eaf1", null ],
       [ "SUMMON_GROUP_TRIGGERS", "d1/d45/a03191.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a2fbeedd9d697855685b859c7b5df8a41", null ],
+      [ "GROUP_COMBAT_ABILITIES", "d1/d45/a03191.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a5d7cf54e44fb5a068cd85e6745a6c399", null ],
       [ "ACHIEV_TIMED_START_EVENT", "d3/dcf/a03173.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6ac3776ff6343c84361329e38055da04", null ],
       [ "EVENT_CHECK_HEALTH_25", "d3/dcf/a03173.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ab4c8308b4dc44a86daf5ee851c990687", null ],
       [ "EVENT_CHECK_HEALTH_50", "d3/dcf/a03173.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a279f4abf2411c8e70eb459d7644bc65b", null ],

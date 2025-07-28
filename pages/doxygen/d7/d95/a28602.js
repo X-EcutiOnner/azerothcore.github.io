@@ -1,8 +1,5 @@
 var a28602 =
 [
-    [ "TileConfig", "d7/d95/a28602.html#a67b10c747fb0d2bc2a263e5009d42e1b", null ],
-    [ "BASE_UNIT_DIM", "d7/d95/a28602.html#a5a882b0595456ab3fcca85c80af3b6f8", null ],
-    [ "TILES_PER_MAP", "d7/d95/a28602.html#ae3443f89a8a698823c91096abe51a6a9", null ],
-    [ "VERTEX_PER_MAP", "d7/d95/a28602.html#a46640a80428b1ab93d65d593c03d13ed", null ],
-    [ "VERTEX_PER_TILE", "d7/d95/a28602.html#ae0331739074e5546818e13527a76524a", null ]
+    [ "height", "d7/d95/a28602.html#a9ee8f132a89d37d9b202c7f49d2c3a49", null ],
+    [ "light", "d7/d95/a28602.html#a53c2edf09fb56334d1c3621d3630de5d", null ]
 ];

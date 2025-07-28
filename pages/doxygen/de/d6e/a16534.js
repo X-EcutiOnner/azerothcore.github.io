@@ -1,7 +1,10 @@
 var a16534 =
 [
-    [ "HandleEffectPeriodic", "de/d6e/a16534.html#ae5749a43f37f0eb3f049d8804845f61e", null ],
-    [ "PrepareAuraScript", "de/d6e/a16534.html#a66dcb98f38ed6b040928543015f59c9b", null ],
-    [ "Register", "de/d6e/a16534.html#abbebe9c5ad44db61e80ce3707e744ab6", null ],
-    [ "Validate", "de/d6e/a16534.html#a1131f0014f298b87483412d960bc0221", null ]
+    [ "npc_mistress_of_painAI", "de/d6e/a16534.html#ae5fd3c974a3f32540b2dee6b92cd4f7c", null ],
+    [ "EnterEvadeMode", "de/d6e/a16534.html#a31ea8955ad44ea2db0a5a208fd2efc61", null ],
+    [ "JustDied", "de/d6e/a16534.html#ae60f294f902a2f687446f7599d071e42", null ],
+    [ "Reset", "de/d6e/a16534.html#ab3c1c19817576cc4348fd2020a6aad14", null ],
+    [ "SpellHit", "de/d6e/a16534.html#a077843a7ead2034da695be816de42f9e", null ],
+    [ "UpdateAI", "de/d6e/a16534.html#a1976a80f37a0935926508f9ad6cc7bbb", null ],
+    [ "events", "de/d6e/a16534.html#a941ae1faab010551db6a8e6749993357", null ]
 ];

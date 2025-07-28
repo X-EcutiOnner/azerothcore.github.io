@@ -1,6 +1,6 @@
 var a22186 =
 [
-    [ "npc_avatar_of_freya", "d0/dfc/a22186.html#a3a6c4f6d8f05d606c6f545d91acdb2c1", null ],
-    [ "OnGossipHello", "d0/dfc/a22186.html#a020e8e41b32eb65ff906c9ca934a03fe", null ],
-    [ "OnGossipSelect", "d0/dfc/a22186.html#aba1b13e922873e939b2510b4bc77f49d", null ]
+    [ "npc_bushwhackerAI", "de/d50/a22190.html", "de/d50/a22190" ],
+    [ "npc_bushwhacker", "d0/dfc/a22186.html#ad87a9fdec3d5dbaef429c88905a5f6e8", null ],
+    [ "GetAI", "d0/dfc/a22186.html#ab3190b66069e820abf3637bb877066a0", null ]
 ];

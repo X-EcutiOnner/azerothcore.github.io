@@ -1,11 +1,11 @@
 var a04484 =
 [
-    [ "boss_brutallus", "d0/db6/a13206.html", "d0/db6/a13206" ],
-    [ "npc_madrigosa", "da/d69/a13210.html", "da/d69/a13210" ],
-    [ "spell_madrigosa_activate_barrier", "d2/d65/a13214.html", "d2/d65/a13214" ],
-    [ "spell_madrigosa_deactivate_barrier", "dd/d70/a13218.html", "dd/d70/a13218" ],
-    [ "spell_brutallus_burn", "dc/dc4/a13222.html", "dc/dc4/a13222" ],
-    [ "at_sunwell_madrigosa", "d1/d15/a13226.html", "d1/d15/a13226" ],
+    [ "boss_brutallus", "da/d69/a13210.html", "da/d69/a13210" ],
+    [ "npc_madrigosa", "d2/d65/a13214.html", "d2/d65/a13214" ],
+    [ "spell_madrigosa_activate_barrier", "dd/d70/a13218.html", "dd/d70/a13218" ],
+    [ "spell_madrigosa_deactivate_barrier", "dc/dc4/a13222.html", "dc/dc4/a13222" ],
+    [ "spell_brutallus_burn", "d1/d15/a13226.html", "d1/d15/a13226" ],
+    [ "at_sunwell_madrigosa", "d6/d6b/a13230.html", "d6/d6b/a13230" ],
     [ "eMadrigosa", "d0/d0c/a04484.html#a9c013fd339fb1c6ec76dc9784b1fd77c", [
       [ "EVENT_MAD_1", "d0/d0c/a04484.html#a9c013fd339fb1c6ec76dc9784b1fd77ca8adbf4ce28357322d3e36e80ac8abe2b", null ],
       [ "EVENT_MAD_2", "d0/d0c/a04484.html#a9c013fd339fb1c6ec76dc9784b1fd77ca0f9096979814eadf4a111ed1d7e4fc5f", null ],
@@ -213,6 +213,7 @@ var a04484 =
       [ "MAX_EMBRACE_DMG", "d1/d45/a03191.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a92c750d1fab22566cfc44edbc7b61cfe", null ],
       [ "MAX_EMBRACE_DMG_H", "d1/d45/a03191.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ac90a40c1805a63761f571de57c08eaf1", null ],
       [ "SUMMON_GROUP_TRIGGERS", "d1/d45/a03191.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a2fbeedd9d697855685b859c7b5df8a41", null ],
+      [ "GROUP_COMBAT_ABILITIES", "d1/d45/a03191.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a5d7cf54e44fb5a068cd85e6745a6c399", null ],
       [ "ACHIEV_TIMED_START_EVENT", "d3/dcf/a03173.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6ac3776ff6343c84361329e38055da04", null ],
       [ "EVENT_CHECK_HEALTH_25", "d3/dcf/a03173.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ab4c8308b4dc44a86daf5ee851c990687", null ],
       [ "EVENT_CHECK_HEALTH_50", "d3/dcf/a03173.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a279f4abf2411c8e70eb459d7644bc65b", null ],

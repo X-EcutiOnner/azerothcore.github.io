@@ -1,8 +1,8 @@
 var a15254 =
 [
-    [ "npc_ahnqiraji_critter", "db/d8c/a15254.html#a60e2dc1c52579a410d3435126bf39684", null ],
-    [ "JustDied", "db/d8c/a15254.html#a71d3d5262bde847a18932fea89cb6648", null ],
-    [ "JustEngagedWith", "db/d8c/a15254.html#aca1df706306f9181db26cd77e5b66452", null ],
-    [ "Reset", "db/d8c/a15254.html#a645e16e9da29f6579320394201d0ada7", null ],
-    [ "UpdateAI", "db/d8c/a15254.html#a68c5ded8563c2de9429a13cdb7d38f89", null ]
+    [ "npc_obsidian_nullifier", "db/d8c/a15254.html#a9dbb6d681e348057564750fcd7e8050a", null ],
+    [ "JustEngagedWith", "db/d8c/a15254.html#ad3e30a214a9bcb6ea13d3a78716b5cb1", null ],
+    [ "Reset", "db/d8c/a15254.html#a9897eab3b71dd0a6a2ea598951b095cd", null ],
+    [ "UpdateAI", "db/d8c/a15254.html#a37cf1d335dd3735b262e82828c4f904a", null ],
+    [ "_targetGUIDs", "db/d8c/a15254.html#aaf125742bf9d17ec0b605b78dee39c7c", null ]
 ];

@@ -237,6 +237,7 @@ var a07286 =
     [ "m_ResurrectQueue", "da/d6c/a07286.html#a044dbd789bb5be6528fb768866f9ecbe", null ],
     [ "m_ReviveQueue", "da/d6c/a07286.html#a66239adad3428b84def34776bc8a257a", null ],
     [ "m_SetDeleteThis", "da/d6c/a07286.html#a07105385f71c07160418f66e71e0b53e", null ],
+    [ "m_SetupCompleted", "da/d6c/a07286.html#af103a9c8201c16555018d6328ab4e064", null ],
     [ "m_Spectators", "da/d6c/a07286.html#a3bd97b3f9648bb9dbf1aa37dc7baeca6", null ],
     [ "m_StartDelayTime", "da/d6c/a07286.html#a3bfa820dd5ca7c2a3d0f6ac6ee9adb1f", null ],
     [ "m_StartMaxDist", "da/d6c/a07286.html#abd39e8c90785dbb6e5067f21cd982a9a", null ],

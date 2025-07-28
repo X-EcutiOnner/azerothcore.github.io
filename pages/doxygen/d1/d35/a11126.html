@@ -202,9 +202,9 @@ Public Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 9076</span>        : <a class="code hl_function" href="../../d1/d60/a11122.html#a370a66c484d486ac6d2d3419a019c7cd">WorldObjectSpellTargetCheck</a>(caster, caster, spellInfo, selectionType, condList), <a class="code hl_variable" href="../../d1/d35/a11126.html#abfec0df490876b2b83dcdee4da75a77f">_range</a>(range), <a class="code hl_variable" href="../../d1/d35/a11126.html#a7b19899dd015a73bd1ae4c71fa9ae79d">_position</a>(caster)</div>
-<div class="line"><span class="lineno"> 9077</span>    {</div>
-<div class="line"><span class="lineno"> 9078</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 9080</span>        : <a class="code hl_function" href="../../d1/d60/a11122.html#a370a66c484d486ac6d2d3419a019c7cd">WorldObjectSpellTargetCheck</a>(caster, caster, spellInfo, selectionType, condList), <a class="code hl_variable" href="../../d1/d35/a11126.html#abfec0df490876b2b83dcdee4da75a77f">_range</a>(range), <a class="code hl_variable" href="../../d1/d35/a11126.html#a7b19899dd015a73bd1ae4c71fa9ae79d">_position</a>(caster)</div>
+<div class="line"><span class="lineno"> 9081</span>    {</div>
+<div class="line"><span class="lineno"> 9082</span>    }</div>
 <div class="ttc" id="aa11122_html_a370a66c484d486ac6d2d3419a019c7cd"><div class="ttname"><a href="../../d1/d60/a11122.html#a370a66c484d486ac6d2d3419a019c7cd">Acore::WorldObjectSpellTargetCheck::WorldObjectSpellTargetCheck</a></div><div class="ttdeci">WorldObjectSpellTargetCheck(Unit *caster, Unit *referer, SpellInfo const *spellInfo, SpellTargetCheckTypes selectionType, ConditionList *condList)</div><div class="ttdef"><b>Definition:</b> Spell.cpp:8995</div></div>
 <div class="ttc" id="aa11126_html_a7b19899dd015a73bd1ae4c71fa9ae79d"><div class="ttname"><a href="../../d1/d35/a11126.html#a7b19899dd015a73bd1ae4c71fa9ae79d">Acore::WorldObjectSpellNearbyTargetCheck::_position</a></div><div class="ttdeci">Position const  * _position</div><div class="ttdef"><b>Definition:</b> Spell.h:808</div></div>
 <div class="ttc" id="aa11126_html_abfec0df490876b2b83dcdee4da75a77f"><div class="ttname"><a href="../../d1/d35/a11126.html#abfec0df490876b2b83dcdee4da75a77f">Acore::WorldObjectSpellNearbyTargetCheck::_range</a></div><div class="ttdeci">float _range</div><div class="ttdef"><b>Definition:</b> Spell.h:807</div></div>
@@ -227,15 +227,15 @@ Public Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 9081</span>    {</div>
-<div class="line"><span class="lineno"> 9082</span>        <span class="keywordtype">float</span> dist = target-&gt;<a class="code hl_function" href="../../da/da3/a08394.html#acaa0cccbbb9cac74080c8279a571a68c">GetDistance</a>(*<a class="code hl_variable" href="../../d1/d35/a11126.html#a7b19899dd015a73bd1ae4c71fa9ae79d">_position</a>);</div>
-<div class="line"><span class="lineno"> 9083</span>        <span class="keywordflow">if</span> (dist &lt; <a class="code hl_variable" href="../../d1/d35/a11126.html#abfec0df490876b2b83dcdee4da75a77f">_range</a> &amp;&amp; WorldObjectSpellTargetCheck::operator ()(target))</div>
-<div class="line"><span class="lineno"> 9084</span>        {</div>
-<div class="line"><span class="lineno"> 9085</span>            <a class="code hl_variable" href="../../d1/d35/a11126.html#abfec0df490876b2b83dcdee4da75a77f">_range</a> = dist;</div>
-<div class="line"><span class="lineno"> 9086</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno"> 9087</span>        }</div>
-<div class="line"><span class="lineno"> 9088</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno"> 9089</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 9085</span>    {</div>
+<div class="line"><span class="lineno"> 9086</span>        <span class="keywordtype">float</span> dist = target-&gt;<a class="code hl_function" href="../../da/da3/a08394.html#acaa0cccbbb9cac74080c8279a571a68c">GetDistance</a>(*<a class="code hl_variable" href="../../d1/d35/a11126.html#a7b19899dd015a73bd1ae4c71fa9ae79d">_position</a>);</div>
+<div class="line"><span class="lineno"> 9087</span>        <span class="keywordflow">if</span> (dist &lt; <a class="code hl_variable" href="../../d1/d35/a11126.html#abfec0df490876b2b83dcdee4da75a77f">_range</a> &amp;&amp; WorldObjectSpellTargetCheck::operator ()(target))</div>
+<div class="line"><span class="lineno"> 9088</span>        {</div>
+<div class="line"><span class="lineno"> 9089</span>            <a class="code hl_variable" href="../../d1/d35/a11126.html#abfec0df490876b2b83dcdee4da75a77f">_range</a> = dist;</div>
+<div class="line"><span class="lineno"> 9090</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno"> 9091</span>        }</div>
+<div class="line"><span class="lineno"> 9092</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 9093</span>    }</div>
 <div class="ttc" id="aa08394_html_acaa0cccbbb9cac74080c8279a571a68c"><div class="ttname"><a href="../../da/da3/a08394.html#acaa0cccbbb9cac74080c8279a571a68c">WorldObject::GetDistance</a></div><div class="ttdeci">float GetDistance(WorldObject const *obj) const</div><div class="ttdef"><b>Definition:</b> Object.cpp:1257</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00808">_position</a>, <a class="el" href="../../#l00807">_range</a>, and <a class="el" href="../../#l01257">WorldObject::GetDistance()</a>.</p>
@@ -255,7 +255,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l09080">operator()()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l09084">operator()()</a>.</p>
 
 </div>
 </div>
@@ -271,7 +271,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l09080">operator()()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l09084">operator()()</a>.</p>
 
 </div>
 </div>
@@ -281,7 +281,7 @@ Public Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../db/d2a/a04776.html">Acore</a></li><li class="navelem"><a class="el" href="../../d1/d35/a11126.html">WorldObjectSpellNearbyTargetCheck</a></li>
-    <li class="footer">Generated on Mon Jul 21 2025 20:51:40 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Jul 28 2025 20:52:43 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

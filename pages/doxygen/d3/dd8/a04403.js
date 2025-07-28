@@ -1,6 +1,6 @@
 var a04403 =
 [
-    [ "boss_curator", "d5/d48/a12586.html", "d5/d48/a12586" ],
+    [ "boss_curator", "da/d34/a12590.html", "da/d34/a12590" ],
     [ "Spells", "d3/dd8/a04403.html#a5bd342133be8c2137b831460acc9298c", [
       [ "SPELL_OIL_REFINERY", "df/d3b/a00728.html#a5bd342133be8c2137b831460acc9298cae2eb4db3c46b45e80cc2feb9c34f2ada", null ],
       [ "SPELL_QUARRY", "df/d3b/a00728.html#a5bd342133be8c2137b831460acc9298ca5a0922923b24c4bb6661ad8396a76e01", null ],

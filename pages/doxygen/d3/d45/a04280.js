@@ -1,6 +1,6 @@
 var a04280 =
 [
-    [ "spell_axe_flurry", "da/dc0/a14138.html", "da/dc0/a14138" ],
+    [ "spell_axe_flurry", "dc/d1e/a14142.html", "dc/d1e/a14142" ],
     [ "Spells", "d3/d45/a04280.html#a5bd342133be8c2137b831460acc9298c", [
       [ "SPELL_OIL_REFINERY", "df/d3b/a00728.html#a5bd342133be8c2137b831460acc9298cae2eb4db3c46b45e80cc2feb9c34f2ada", null ],
       [ "SPELL_QUARRY", "df/d3b/a00728.html#a5bd342133be8c2137b831460acc9298ca5a0922923b24c4bb6661ad8396a76e01", null ],

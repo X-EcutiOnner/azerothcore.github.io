@@ -1,6 +1,6 @@
 var a15754 =
 [
-    [ "npc_sergeant_blyAI", "de/ddc/a15758.html", "de/ddc/a15758" ],
-    [ "npc_sergeant_bly", "d2/d8f/a15754.html#afd5c6129098e4939e2b9f3d12b8c7058", null ],
-    [ "GetAI", "d2/d8f/a15754.html#ad54ff5aabbc30de759c8f31b7ef9f46e", null ]
+    [ "HandleOpenLock", "d2/d8f/a15754.html#a32bfb203e9ecfbcfa75f6c3e7a17fade", null ],
+    [ "PrepareSpellScript", "d2/d8f/a15754.html#a646a42455b6a46c9f7cbb4b0229122cd", null ],
+    [ "Register", "d2/d8f/a15754.html#a5dcac6f609ec93074ec3ce195101f592", null ]
 ];

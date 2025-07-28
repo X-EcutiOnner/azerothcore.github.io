@@ -1,6 +1,6 @@
 var a15738 =
 [
-    [ "instance_zulfarrak_InstanceMapScript", "d2/dd6/a15742.html", "d2/dd6/a15742" ],
-    [ "instance_zulfarrak", "da/d4a/a15738.html#a7c8594fe278dc9f6c3ab6f291cf9bad2", null ],
-    [ "GetInstanceScript", "da/d4a/a15738.html#a5f092341e49848c9d321452be2193d56", null ]
+    [ "creatureID", "da/d4a/a15738.html#a44a9f5e58bfa58e2e2325e116e988f07", null ],
+    [ "pos", "da/d4a/a15738.html#a9705a858cc2c3867e104514d3a0a1866", null ],
+    [ "waveID", "da/d4a/a15738.html#a09b48f7f6da7e203ed50a8abc7f24e56", null ]
 ];

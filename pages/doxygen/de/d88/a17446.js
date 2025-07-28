@@ -1,9 +1,8 @@
 var a17446 =
 [
-    [ "CheckProc", "de/d88/a17446.html#a13426f7a45e9434f980b42f174b22da8", null ],
-    [ "HandlePeriodicTick", "de/d88/a17446.html#a6380b4d03e4c48cd1a1f89227a1ebae8", null ],
-    [ "HandleProc", "de/d88/a17446.html#abf744d64dae5835bff3877eeaa919af3", null ],
-    [ "PrepareAuraScript", "de/d88/a17446.html#a5836fb240ae612d36a9e80c88bebdc48", null ],
-    [ "Register", "de/d88/a17446.html#a1b72c10256365de71b8f9fadf5886338", null ],
-    [ "Validate", "de/d88/a17446.html#acc3a0e0ae60291646514c1ae6f41f421", null ]
+    [ "npc_saurfang_eventAI", "de/d88/a17446.html#a8436a87576c92ecc0b45106683d20e93", null ],
+    [ "DoAction", "de/d88/a17446.html#a45201c4a5b94fad948efe1d08e63e262", null ],
+    [ "SetData", "de/d88/a17446.html#a7f012a54ebce5307940eb7957f028d52", null ],
+    [ "SpellHit", "de/d88/a17446.html#a2ed920f949c4d8dbc6d6ff5b9149e749", null ],
+    [ "_index", "de/d88/a17446.html#a793d72078bd68b34fcdb7cd6587295dd", null ]
 ];

@@ -1,7 +1,5 @@
 var a15570 =
 [
-    [ "DelayedWindstoneSummonEvent", "dd/dae/a15570.html#aa97daf8cf3479395ffd6558b6699436a", null ],
-    [ "Execute", "dd/dae/a15570.html#aa413bc8709bc543b89ffb3df42185475", null ],
-    [ "_playerGUID", "dd/dae/a15570.html#ad83bb6d87b569f59e99abcc16517745b", null ],
-    [ "_summon", "dd/dae/a15570.html#af9804d276da5daebab3a37f2c75301ea", null ]
+    [ "go_crystalline_tear", "dd/dae/a15570.html#a9e19c6538ecd1a758f2639171321d965", null ],
+    [ "OnQuestAccept", "dd/dae/a15570.html#a4efd6b2b8ca37462ba3a26d05f01ec2d", null ]
 ];

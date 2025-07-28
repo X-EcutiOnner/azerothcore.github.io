@@ -1,17 +1,14 @@
 var a12798 =
 [
-    [ "boss_priestess_lackey_commonAI", "d6/d66/a12798.html#acf122076823631cef5d66e03a9f607aa", null ],
-    [ "AttackStart", "d6/d66/a12798.html#a6056ef3425f39208e5731b25fc94a335", null ],
-    [ "EnterEvadeMode", "d6/d66/a12798.html#a6935410d7a4ce8e9dec9feed9f5351d7", null ],
-    [ "GetThreatMod", "d6/d66/a12798.html#a2e0e387ae4645c9bbd4625d1469403a8", null ],
-    [ "JustDied", "d6/d66/a12798.html#a8b06ee0a3e22d495a41ccf4c7009ad2d", null ],
-    [ "JustEngagedWith", "d6/d66/a12798.html#a4d47aacc653ab0e4b74fa3bcbcfdbbc7", null ],
-    [ "JustSummoned", "d6/d66/a12798.html#a9a7bcf641bae31827872faf7666635d5", null ],
-    [ "KilledUnit", "d6/d66/a12798.html#a23aaa0a619470898dd617a18130ca17b", null ],
-    [ "RecalculateThreat", "d6/d66/a12798.html#a7daa8f2b2ddfbbd0d0f267dac7e0c2c2", null ],
-    [ "Reset", "d6/d66/a12798.html#aa2ef03d73c43668c97205fa72414e71b", null ],
-    [ "UpdateAI", "d6/d66/a12798.html#adf87bd797da345e49700265319d808cc", null ],
-    [ "aiType", "d6/d66/a12798.html#a2b7ccbf195658e402ba6f276b18e3551", null ],
-    [ "instance", "d6/d66/a12798.html#ac71aa86c97fe11d934f09d62c4ed8eab", null ],
-    [ "summons", "d6/d66/a12798.html#a498ef73fcc7995113318c5f0b6efa23e", null ]
+    [ "boss_priestess_delrissa", "d6/d66/a12798.html#afcbf1aa400ec44b709fd194daab91d3d", null ],
+    [ "CheckInRoom", "d6/d66/a12798.html#afa963761e44412915a6d89f097f33b5d", null ],
+    [ "InitializeAI", "d6/d66/a12798.html#ae5105868d704b6ca91b27dcfbeaef3a9", null ],
+    [ "JustDied", "d6/d66/a12798.html#a82d8c198f38c2aa881386e739dea6a08", null ],
+    [ "JustEngagedWith", "d6/d66/a12798.html#a40c9852f9a1ea24b61edf0f7c00193a6", null ],
+    [ "JustSummoned", "d6/d66/a12798.html#ac0a2c4346c6222380d7bda9a274f78e0", null ],
+    [ "KilledUnit", "d6/d66/a12798.html#af0b41306f53c42745cce39069f446704", null ],
+    [ "Reset", "d6/d66/a12798.html#a60e39157aa3043284b2e1e032c0d9241", null ],
+    [ "SummonedCreatureDies", "d6/d66/a12798.html#a14757692ab4af5c1b5b311f059be9091", null ],
+    [ "HelpersKilled", "d6/d66/a12798.html#a26764cdd42721c9276ccecaa97fc9a6e", null ],
+    [ "PlayersKilled", "d6/d66/a12798.html#a9bde16a69ed9e950ce0dfb91805280cc", null ]
 ];

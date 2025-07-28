@@ -1,6 +1,5 @@
 var a22658 =
 [
-    [ "instance_sethekk_halls_InstanceMapScript", "df/df2/a22662.html", "df/df2/a22662" ],
-    [ "instance_sethekk_halls", "df/d4d/a22658.html#ab50d296266cf377bfb34750ec36963ef", null ],
-    [ "GetInstanceScript", "df/d4d/a22658.html#adc07afe1aa8132f70474f9a534ecb76c", null ]
+    [ "instance_sethekk_halls_InstanceMapScript", "df/d4d/a22658.html#a037ee225b626b64436570680ae4e9ea0", null ],
+    [ "ProcessEvent", "df/d4d/a22658.html#aba05b0edb57e6c42bd45593a51598365", null ]
 ];

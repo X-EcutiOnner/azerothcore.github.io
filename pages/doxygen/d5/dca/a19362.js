@@ -1,6 +1,13 @@
 var a19362 =
 [
-    [ "boss_drakosAI", "de/d23/a19366.html", "de/d23/a19366" ],
-    [ "boss_drakos", "d5/dca/a19362.html#aa70ae2809af4f24eea0b83b42d695448", null ],
-    [ "GetAI", "d5/dca/a19362.html#a16dcc7f9da254d0bddc19394a1cd4ab0", null ]
+    [ "npc_crystalline_frayer", "d5/dca/a19362.html#ade88d8f4d4fd32155b87dfba75084f4c", null ],
+    [ "DamageTaken", "d5/dca/a19362.html#a2580575a58353e8cb94561bafd74f502", null ],
+    [ "EnterEvadeMode", "d5/dca/a19362.html#a9240adcfe966f11c925db82add432aa5", null ],
+    [ "JustEngagedWith", "d5/dca/a19362.html#a91e8c4015b9b238fd2144999bcef9362", null ],
+    [ "Reset", "d5/dca/a19362.html#a5baa6491ee0205b2b2e7bc8e6cd9a163", null ],
+    [ "UpdateAI", "d5/dca/a19362.html#ab494a601b9a5dc3d4c3c303bc4de3a94", null ],
+    [ "_allowDeath", "d5/dca/a19362.html#adc85054030146067d2cff47db2886a07", null ],
+    [ "abilityTimer1", "d5/dca/a19362.html#ae4a140cd9fccecea24982d7aa90c6bf0", null ],
+    [ "abilityTimer2", "d5/dca/a19362.html#a6d2bf3e1cc05860eb6a7706102438f32", null ],
+    [ "restoreTimer", "d5/dca/a19362.html#a5ab2990b41f485417af6272194035fc3", null ]
 ];

@@ -1,7 +1,7 @@
 var a04256 =
 [
-    [ "boss_baroness_anastari", "df/df0/a13162.html", "df/df0/a13162" ],
-    [ "boss_baroness_anastari::boss_baroness_anastariAI", "d8/d9e/a13166.html", "d8/d9e/a13166" ],
+    [ "boss_baroness_anastari", "d8/d9e/a13166.html", "d8/d9e/a13166" ],
+    [ "boss_baroness_anastari::boss_baroness_anastariAI", "de/d6b/a13170.html", "de/d6b/a13170" ],
     [ "Spells", "d8/dc6/a04256.html#a5bd342133be8c2137b831460acc9298c", [
       [ "SPELL_OIL_REFINERY", "df/d3b/a00728.html#a5bd342133be8c2137b831460acc9298cae2eb4db3c46b45e80cc2feb9c34f2ada", null ],
       [ "SPELL_QUARRY", "df/d3b/a00728.html#a5bd342133be8c2137b831460acc9298ca5a0922923b24c4bb6661ad8396a76e01", null ],

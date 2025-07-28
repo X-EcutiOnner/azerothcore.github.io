@@ -1,12 +1,12 @@
 var a02738 =
 [
-    [ "boss_shade_of_akama", "d6/d77/a22946.html", "d6/d77/a22946" ],
-    [ "npc_akama_shade", "d0/d0a/a22950.html", "d0/d0a/a22950" ],
-    [ "npc_creature_generator_akama", "d6/db4/a22954.html", "d6/db4/a22954" ],
-    [ "npc_ashtongue_sorcerer", "d5/df1/a22958.html", "d5/df1/a22958" ],
-    [ "npc_ashtongue_channeler", "d3/d29/a22962.html", "d3/d29/a22962" ],
-    [ "spell_shade_of_akama_shade_soul_channel", "d2/def/a22966.html", "d2/def/a22966" ],
-    [ "spell_shade_of_akama_akama_soul_expel", "d5/dc3/a22970.html", "d5/dc3/a22970" ],
+    [ "boss_shade_of_akama", "d8/dfc/a22942.html", "d8/dfc/a22942" ],
+    [ "npc_akama_shade", "d6/d77/a22946.html", "d6/d77/a22946" ],
+    [ "npc_creature_generator_akama", "d0/d0a/a22950.html", "d0/d0a/a22950" ],
+    [ "npc_ashtongue_sorcerer", "d6/db4/a22954.html", "d6/db4/a22954" ],
+    [ "npc_ashtongue_channeler", "d5/df1/a22958.html", "d5/df1/a22958" ],
+    [ "spell_shade_of_akama_shade_soul_channel", "d3/d29/a22962.html", "d3/d29/a22962" ],
+    [ "spell_shade_of_akama_akama_soul_expel", "d2/def/a22966.html", "d2/def/a22966" ],
     [ "Creatures", "da/d62/a02738.html#a25a619e6b66096a4f05d048e4a96df08", [
       [ "NPC_NORTH_MARSHAL", "d8/d3a/a04439.html#a25a619e6b66096a4f05d048e4a96df08abeb6d3b1ff8238f7c57911ab8acde69e", null ],
       [ "NPC_SOUTH_MARSHAL", "d8/d3a/a04439.html#a25a619e6b66096a4f05d048e4a96df08a9a3360dc10641daabdef8158f42ee00e", null ],
@@ -412,6 +412,7 @@ var a02738 =
       [ "MAX_EMBRACE_DMG", "d1/d45/a03191.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a92c750d1fab22566cfc44edbc7b61cfe", null ],
       [ "MAX_EMBRACE_DMG_H", "d1/d45/a03191.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ac90a40c1805a63761f571de57c08eaf1", null ],
       [ "SUMMON_GROUP_TRIGGERS", "d1/d45/a03191.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a2fbeedd9d697855685b859c7b5df8a41", null ],
+      [ "GROUP_COMBAT_ABILITIES", "d1/d45/a03191.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a5d7cf54e44fb5a068cd85e6745a6c399", null ],
       [ "ACHIEV_TIMED_START_EVENT", "d3/dcf/a03173.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6ac3776ff6343c84361329e38055da04", null ],
       [ "EVENT_CHECK_HEALTH_25", "d3/dcf/a03173.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ab4c8308b4dc44a86daf5ee851c990687", null ],
       [ "EVENT_CHECK_HEALTH_50", "d3/dcf/a03173.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a279f4abf2411c8e70eb459d7644bc65b", null ],

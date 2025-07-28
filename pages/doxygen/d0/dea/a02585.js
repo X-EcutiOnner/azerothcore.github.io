@@ -1,10 +1,10 @@
 var a02585 =
 [
-    [ "boss_vazruden_the_herald", "dd/d8e/a23546.html", "dd/d8e/a23546" ],
-    [ "boss_nazan", "d6/d90/a23550.html", "d6/d90/a23550" ],
-    [ "boss_vazruden", "d4/dcc/a23554.html", "d4/dcc/a23554" ],
-    [ "spell_vazruden_fireball", "d8/d04/a23558.html", "d8/d04/a23558" ],
-    [ "spell_vazruden_call_nazan", "d5/d49/a23562.html", "d5/d49/a23562" ],
+    [ "boss_vazruden_the_herald", "d5/d48/a23542.html", "d5/d48/a23542" ],
+    [ "boss_nazan", "dd/d8e/a23546.html", "dd/d8e/a23546" ],
+    [ "boss_vazruden", "d6/d90/a23550.html", "d6/d90/a23550" ],
+    [ "spell_vazruden_fireball", "d4/dcc/a23554.html", "d4/dcc/a23554" ],
+    [ "spell_vazruden_call_nazan", "d8/d04/a23558.html", "d8/d04/a23558" ],
     [ "GroupPhase", "d0/dea/a02585.html#a49053b1bcf5e1608ac7b5ad702b2bf00", [
       [ "GROUP_PHASE_1", "d0/dea/a02585.html#a49053b1bcf5e1608ac7b5ad702b2bf00a32bcd3b7fab317a48674500272b5b5c9", null ],
       [ "GROUP_PHASE_2", "d0/dea/a02585.html#a49053b1bcf5e1608ac7b5ad702b2bf00a22321c7fe55bbbccabaf892d4d85e8b4", null ]
@@ -176,6 +176,7 @@ var a02585 =
       [ "MAX_EMBRACE_DMG", "d1/d45/a03191.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a92c750d1fab22566cfc44edbc7b61cfe", null ],
       [ "MAX_EMBRACE_DMG_H", "d1/d45/a03191.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ac90a40c1805a63761f571de57c08eaf1", null ],
       [ "SUMMON_GROUP_TRIGGERS", "d1/d45/a03191.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a2fbeedd9d697855685b859c7b5df8a41", null ],
+      [ "GROUP_COMBAT_ABILITIES", "d1/d45/a03191.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a5d7cf54e44fb5a068cd85e6745a6c399", null ],
       [ "ACHIEV_TIMED_START_EVENT", "d3/dcf/a03173.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6ac3776ff6343c84361329e38055da04", null ],
       [ "EVENT_CHECK_HEALTH_25", "d3/dcf/a03173.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ab4c8308b4dc44a86daf5ee851c990687", null ],
       [ "EVENT_CHECK_HEALTH_50", "d3/dcf/a03173.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a279f4abf2411c8e70eb459d7644bc65b", null ],

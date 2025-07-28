@@ -1,6 +1,6 @@
 var a20886 =
 [
-    [ "boss_yoggsaron_immortal_guardianAI", "d2/ddd/a20890.html", "d2/ddd/a20890" ],
-    [ "boss_yoggsaron_immortal_guardian", "dc/d82/a20886.html#a4009759d284b54cb958ee0bb80c45f14", null ],
-    [ "GetAI", "dc/d82/a20886.html#ac532ca090d93ce6d11a0332329111f2b", null ]
+    [ "boss_yoggsaron_influence_tentacleAI", "dc/d82/a20886.html#ae7457ed8084888b1074a44dd9a7ed0c7", null ],
+    [ "DamageTaken", "dc/d82/a20886.html#ad46e93ffb89c9c3ee9bfbe0f27c7117c", null ],
+    [ "JustDied", "dc/d82/a20886.html#ab09c96d167b9502098b9a7a2fa1b82ec", null ]
 ];

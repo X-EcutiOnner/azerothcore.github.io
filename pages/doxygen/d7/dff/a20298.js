@@ -1,5 +1,5 @@
 var a20298 =
 [
-    [ "achievement_staying_buffed_all_winter_10", "d7/dff/a20298.html#a40afd6db0bf6cff2b9b6163b7d4c31da", null ],
-    [ "OnCheck", "d7/dff/a20298.html#a67587b1659a8d026e73b42311148541a", null ]
+    [ "achievement_i_have_the_coolest_friends", "d7/dff/a20298.html#a87fd2d5702fe33ee8b09042c66897636", null ],
+    [ "OnCheck", "d7/dff/a20298.html#aa77aa6129967601ede2f3fc44b2ee1aa", null ]
 ];

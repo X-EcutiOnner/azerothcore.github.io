@@ -1,9 +1,11 @@
 var a13238 =
 [
-    [ "spell_eredar_twins_apply_touch", "d8/d3b/a13238.html#a1ffb6952cbbb79bb6a963ea57b8400aa", null ],
-    [ "HandleApplyTouch", "d8/d3b/a13238.html#a200219828e22c35ef2f7c7a7fd61c973", null ],
-    [ "PrepareSpellScript", "d8/d3b/a13238.html#a6e6c42042faa1a6cd82d4680d28587ae", null ],
-    [ "Register", "d8/d3b/a13238.html#a8c49e8aeb1f00e8324aa4c1d420fb068", null ],
-    [ "Validate", "d8/d3b/a13238.html#a36ff1d126191de7880d98242b3b714b5", null ],
-    [ "_touchSpell", "d8/d3b/a13238.html#a9f8c58013add0fc5a05a78e1b90a32e1", null ]
+    [ "boss_alythess", "d8/d3b/a13238.html#a707fbd0f310005a60d5ed4c05c9fc176", null ],
+    [ "AttackStart", "d8/d3b/a13238.html#ac860cef30a96d020a7c729f63ac5ca4e", null ],
+    [ "DoAction", "d8/d3b/a13238.html#aa2dc7ab74fa5bdb753475b2de1515855", null ],
+    [ "JustDied", "d8/d3b/a13238.html#a5509c9f0d979a2d9d70a8f4f9e7971a0", null ],
+    [ "JustEngagedWith", "d8/d3b/a13238.html#ac5047ee0124864304284c1142e885158", null ],
+    [ "KilledUnit", "d8/d3b/a13238.html#a611d8c0a8fb9061e596ef0ac8f1fda88", null ],
+    [ "Reset", "d8/d3b/a13238.html#ab5f990d305f42a2d00e182f617175672", null ],
+    [ "_isSisterDead", "d8/d3b/a13238.html#a9f9fa0823685066b4990a17880782b9a", null ]
 ];

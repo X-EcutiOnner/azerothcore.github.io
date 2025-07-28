@@ -1,6 +1,6 @@
 var a27698 =
 [
-    [ "npc_necropolis_proxy", "d3/d71/a27698.html#a73f92ee73673172989d48064e5984db0", null ],
-    [ "SpellHit", "d3/d71/a27698.html#a90d1ab55683a6409403e24291643cca5", null ],
-    [ "SpellHitTarget", "d3/d71/a27698.html#a79ee941ff32f8bbb1b93242f46a91c1a", null ]
+    [ "npc_necropolis_relay", "d3/d71/a27698.html#a044958acd1449d664532aeea7d0cb2fd", null ],
+    [ "SpellHit", "d3/d71/a27698.html#a45fdef0f86f18b87b90d2b4f9c0df9cb", null ],
+    [ "SpellHitTarget", "d3/d71/a27698.html#a1968d3537de2bdb9d4786cc96d2c346c", null ]
 ];

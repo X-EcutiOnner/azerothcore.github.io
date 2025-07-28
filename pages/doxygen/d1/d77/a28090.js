@@ -1,7 +1,7 @@
 var a28090 =
 [
-    [ "Class", "d1/d77/a28090.html#abaaa0cd4d1b7f3ef5b297c5afdbc99fe", null ],
-    [ "Gender", "d1/d77/a28090.html#aba6251a7020c6e66b9fc7a21859df271", null ],
-    [ "ItemId", "d1/d77/a28090.html#a7d17ef6151f6b746223e44164ab5c20d", null ],
-    [ "Race", "d1/d77/a28090.html#aee768679c4b8ee7cd28ea3fa899206e3", null ]
+    [ "bit_index", "d1/d77/a28090.html#a1e5cb3fc001169a204507a084435a211", null ],
+    [ "ID", "d1/d77/a28090.html#a63fe7a87e019780d20e86e48efb02eac", null ],
+    [ "nameFemale", "d1/d77/a28090.html#ad0380caf2526715faaddc9330062d90a", null ],
+    [ "nameMale", "d1/d77/a28090.html#a74a767731c96d3d815ddde5a06f68599", null ]
 ];

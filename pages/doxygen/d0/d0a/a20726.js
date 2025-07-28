@@ -1,9 +1,6 @@
 var a20726 =
 [
-    [ "npc_xt002_scrapbotAI", "d0/d0a/a20726.html#a21be97bb49ff06ef090cbbe6f5006f56", null ],
-    [ "JustDied", "d0/d0a/a20726.html#adcab192d017e6a9e8d103a6e8b91cb26", null ],
-    [ "MovementInform", "d0/d0a/a20726.html#a48fd29d42280ae91852ef2ef0cecc8f6", null ],
-    [ "Reset", "d0/d0a/a20726.html#aab71d2a49ee96e88a2858c07c455e78d", null ],
-    [ "UpdateAI", "d0/d0a/a20726.html#ae2de6767f8ab502833971e4171d48c13", null ],
-    [ "_locked", "d0/d0a/a20726.html#add3bfe992d635629ac7e07e04c4334c9", null ]
+    [ "npc_xt002_scrapbotAI", "de/d3a/a20730.html", "de/d3a/a20730" ],
+    [ "npc_xt002_scrapbot", "d0/d0a/a20726.html#accfd75266d058af3856bdb625728c18d", null ],
+    [ "GetAI", "d0/d0a/a20726.html#aa3639c32c94f0e031ba774e4eed659cd", null ]
 ];

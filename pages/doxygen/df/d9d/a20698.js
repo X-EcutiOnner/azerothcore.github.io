@@ -1,5 +1,6 @@
 var a20698 =
 [
-    [ "achievement_thorim_stand_in_the_lightning", "df/d9d/a20698.html#a9339e89e4eb76151fdeacb6bcd53d7bc", null ],
-    [ "OnCheck", "df/d9d/a20698.html#ade1aec4de4c503be5a62da3e6c35e90f", null ]
+    [ "OnPeriodic", "df/d9d/a20698.html#a5247db3b621d1d499b9e22e16c7a951a", null ],
+    [ "PrepareAuraScript", "df/d9d/a20698.html#a6aa46e818199da206e6543005a7fe87f", null ],
+    [ "Register", "df/d9d/a20698.html#ab64dfdda3c09e65cfaeb90d20a5212ed", null ]
 ];

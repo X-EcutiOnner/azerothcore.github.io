@@ -172,92 +172,92 @@ Public Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1315</span>    : <a class="code hl_variable" href="../../d6/d22/a11554.html#acb26a954f14aec654513b16e5e53cad8">m_state</a>(<a class="code hl_enumvalue" href="../../dc/d31/a01892.html#aecf9527110a7255a02e5f9add33dd690a647b0f36eda55bfcd44ea079847f4b39">STATE_0_DISABLED</a>), <a class="code hl_variable" href="../../d6/d22/a11554.html#aea7079c6f876188857219c574ca0798d">m_battlesWon</a>(0), <a class="code hl_variable" href="../../d6/d22/a11554.html#a38ead6b33009083055538fd4f0b7de35">m_lastAttackZone</a>(0), <a class="code hl_variable" href="../../d6/d22/a11554.html#afa0f9b63b3c2111affdf9769ee529d88">m_remaining</a>{}, <a class="code hl_variable" href="../../d6/d22/a11554.html#a7c251f312e332ab60fa6de6e8cf4189d">m_broadcastTimer</a>(10000)</div>
-<div class="line"><span class="lineno"> 1316</span>{</div>
-<div class="line"><span class="lineno"> 1317</span>    <a class="code hl_variable" href="../../d6/d22/a11554.html#af98aea31bf9c878adf2870890911282f">m_activeInvasions</a>.emplace(</div>
-<div class="line"><span class="lineno"> 1318</span>        <a class="code hl_enumvalue" href="../../dc/d47/a01487.html#ad26fccabf338d55f9fdcce090c8a0aa3ab3ed4b016327f4a8ae44c847705cb0bf">AREA_WINTERSPRING</a>,</div>
-<div class="line"><span class="lineno"> 1319</span>        InvasionZone{</div>
-<div class="line"><span class="lineno"> 1320</span>            .map = <a class="code hl_enumvalue" href="../../dc/d47/a01487.html#a6d57376a08b6ff3944dd9a5930a492cba865dc34066f9c0c383dca18c5f6ac5ad">MAP_KALIMDOR</a>,</div>
-<div class="line"><span class="lineno"> 1321</span>            .zoneId = <a class="code hl_enumvalue" href="../../dc/d47/a01487.html#ad26fccabf338d55f9fdcce090c8a0aa3ab3ed4b016327f4a8ae44c847705cb0bf">AREA_WINTERSPRING</a>,</div>
-<div class="line"><span class="lineno"> 1322</span>            .necropolisCount = 3,</div>
-<div class="line"><span class="lineno"> 1323</span>            .remainingNecropoli = <a class="code hl_enumvalue" href="../../dc/d31/a01892.html#a3fb19d2d868c1633a094f84570f4a6eeaf588d257fc56fb070049cde06af24005">SI_REMAINING_WINTERSPRING</a>,</div>
-<div class="line"><span class="lineno"> 1324</span>            .mouth = { <a class="code hl_struct" href="../../d6/ded/a08438.html">Position</a>{7736.56f, -4033.75f, 696.327f, 5.51524f} }</div>
-<div class="line"><span class="lineno"> 1325</span>        }</div>
-<div class="line"><span class="lineno"> 1326</span>    );</div>
-<div class="line"><span class="lineno"> 1327</span>    <a class="code hl_variable" href="../../d6/d22/a11554.html#af98aea31bf9c878adf2870890911282f">m_activeInvasions</a>.emplace(</div>
-<div class="line"><span class="lineno"> 1328</span>        <a class="code hl_enumvalue" href="../../dc/d47/a01487.html#ad26fccabf338d55f9fdcce090c8a0aa3a87eaccec6b2c1a46bccb2c29ac0f8315">AREA_TANARIS</a>,</div>
-<div class="line"><span class="lineno"> 1329</span>        InvasionZone{</div>
-<div class="line"><span class="lineno"> 1330</span>            .map = <a class="code hl_enumvalue" href="../../dc/d47/a01487.html#a6d57376a08b6ff3944dd9a5930a492cba865dc34066f9c0c383dca18c5f6ac5ad">MAP_KALIMDOR</a>,</div>
-<div class="line"><span class="lineno"> 1331</span>            .zoneId = <a class="code hl_enumvalue" href="../../dc/d47/a01487.html#ad26fccabf338d55f9fdcce090c8a0aa3a87eaccec6b2c1a46bccb2c29ac0f8315">AREA_TANARIS</a>,</div>
-<div class="line"><span class="lineno"> 1332</span>            .necropolisCount = 3,</div>
-<div class="line"><span class="lineno"> 1333</span>            .remainingNecropoli = <a class="code hl_enumvalue" href="../../dc/d31/a01892.html#a3fb19d2d868c1633a094f84570f4a6eea91588368688397c3757fd568872cc23b">SI_REMAINING_TANARIS</a>,</div>
-<div class="line"><span class="lineno"> 1334</span>            .mouth = { <a class="code hl_struct" href="../../d6/ded/a08438.html">Position</a>{-8352.68f, -3972.68f, 10.0753f, 2.14675f} }</div>
-<div class="line"><span class="lineno"> 1335</span>        }</div>
-<div class="line"><span class="lineno"> 1336</span>    );</div>
-<div class="line"><span class="lineno"> 1337</span>    <a class="code hl_variable" href="../../d6/d22/a11554.html#af98aea31bf9c878adf2870890911282f">m_activeInvasions</a>.emplace(</div>
-<div class="line"><span class="lineno"> 1338</span>        <a class="code hl_enumvalue" href="../../dc/d47/a01487.html#ad26fccabf338d55f9fdcce090c8a0aa3a18cd2566d133329214f27a17511fd506">AREA_AZSHARA</a>,</div>
-<div class="line"><span class="lineno"> 1339</span>        InvasionZone{</div>
-<div class="line"><span class="lineno"> 1340</span>            .map = <a class="code hl_enumvalue" href="../../dc/d47/a01487.html#a6d57376a08b6ff3944dd9a5930a492cba865dc34066f9c0c383dca18c5f6ac5ad">MAP_KALIMDOR</a>,</div>
-<div class="line"><span class="lineno"> 1341</span>            .zoneId = <a class="code hl_enumvalue" href="../../dc/d47/a01487.html#ad26fccabf338d55f9fdcce090c8a0aa3a18cd2566d133329214f27a17511fd506">AREA_AZSHARA</a>,</div>
-<div class="line"><span class="lineno"> 1342</span>            .necropolisCount = 2,</div>
-<div class="line"><span class="lineno"> 1343</span>            .remainingNecropoli = <a class="code hl_enumvalue" href="../../dc/d31/a01892.html#a3fb19d2d868c1633a094f84570f4a6eeac12501f2dfc2e92462231a9171a4a192">SI_REMAINING_AZSHARA</a>,</div>
-<div class="line"><span class="lineno"> 1344</span>            .mouth = { <a class="code hl_struct" href="../../d6/ded/a08438.html">Position</a>{3273.75f, -4276.98f, 125.509f, 5.44543f} }</div>
-<div class="line"><span class="lineno"> 1345</span>        }</div>
-<div class="line"><span class="lineno"> 1346</span>    );</div>
-<div class="line"><span class="lineno"> 1347</span>    <a class="code hl_variable" href="../../d6/d22/a11554.html#af98aea31bf9c878adf2870890911282f">m_activeInvasions</a>.emplace(</div>
-<div class="line"><span class="lineno"> 1348</span>        <a class="code hl_enumvalue" href="../../dc/d47/a01487.html#ad26fccabf338d55f9fdcce090c8a0aa3ace303ba93d149035825673730b8b1d2a">AREA_BLASTED_LANDS</a>,</div>
-<div class="line"><span class="lineno"> 1349</span>        InvasionZone{</div>
-<div class="line"><span class="lineno"> 1350</span>            .map = <a class="code hl_enumvalue" href="../../dc/d47/a01487.html#a6d57376a08b6ff3944dd9a5930a492cbabd33a2026797cf5b1d126cf2e22bc339">MAP_EASTERN_KINGDOMS</a>,</div>
-<div class="line"><span class="lineno"> 1351</span>            .zoneId = <a class="code hl_enumvalue" href="../../dc/d47/a01487.html#ad26fccabf338d55f9fdcce090c8a0aa3ace303ba93d149035825673730b8b1d2a">AREA_BLASTED_LANDS</a>,</div>
-<div class="line"><span class="lineno"> 1352</span>            .necropolisCount = 2,</div>
-<div class="line"><span class="lineno"> 1353</span>            .remainingNecropoli = <a class="code hl_enumvalue" href="../../dc/d31/a01892.html#a3fb19d2d868c1633a094f84570f4a6eeaa749bb9df442ebee816047ad078ad876">SI_REMAINING_BLASTED_LANDS</a>,</div>
-<div class="line"><span class="lineno"> 1354</span>            .mouth = { <a class="code hl_struct" href="../../d6/ded/a08438.html">Position</a>{-11429.3f, -3327.82f, 7.73628f, 1.0821f} }</div>
-<div class="line"><span class="lineno"> 1355</span>        }</div>
-<div class="line"><span class="lineno"> 1356</span>    );</div>
-<div class="line"><span class="lineno"> 1357</span>    <a class="code hl_variable" href="../../d6/d22/a11554.html#af98aea31bf9c878adf2870890911282f">m_activeInvasions</a>.emplace(</div>
-<div class="line"><span class="lineno"> 1358</span>        <a class="code hl_enumvalue" href="../../dc/d47/a01487.html#ad26fccabf338d55f9fdcce090c8a0aa3ab3eeec438db2c0efc014467891451d23">AREA_EASTERN_PLAGUELANDS</a>,</div>
-<div class="line"><span class="lineno"> 1359</span>        InvasionZone{</div>
-<div class="line"><span class="lineno"> 1360</span>            .map = <a class="code hl_enumvalue" href="../../dc/d47/a01487.html#a6d57376a08b6ff3944dd9a5930a492cbabd33a2026797cf5b1d126cf2e22bc339">MAP_EASTERN_KINGDOMS</a>,</div>
-<div class="line"><span class="lineno"> 1361</span>            .zoneId = <a class="code hl_enumvalue" href="../../dc/d47/a01487.html#ad26fccabf338d55f9fdcce090c8a0aa3ab3eeec438db2c0efc014467891451d23">AREA_EASTERN_PLAGUELANDS</a>,</div>
-<div class="line"><span class="lineno"> 1362</span>            .necropolisCount = 2,</div>
-<div class="line"><span class="lineno"> 1363</span>            .remainingNecropoli = <a class="code hl_enumvalue" href="../../dc/d31/a01892.html#a3fb19d2d868c1633a094f84570f4a6eea6edea7eb295c687aab2d49f538b7ff66">SI_REMAINING_EASTERN_PLAGUELANDS</a>,</div>
-<div class="line"><span class="lineno"> 1364</span>            .mouth = { <a class="code hl_struct" href="../../d6/ded/a08438.html">Position</a>{2014.55f, -4934.52f, 73.9846f, 0.0698132f} }</div>
-<div class="line"><span class="lineno"> 1365</span>        }</div>
-<div class="line"><span class="lineno"> 1366</span>    );</div>
-<div class="line"><span class="lineno"> 1367</span>    <a class="code hl_variable" href="../../d6/d22/a11554.html#af98aea31bf9c878adf2870890911282f">m_activeInvasions</a>.emplace(</div>
-<div class="line"><span class="lineno"> 1368</span>        <a class="code hl_enumvalue" href="../../dc/d47/a01487.html#ad26fccabf338d55f9fdcce090c8a0aa3ad424385a06b292570b5c7178fa0f4921">AREA_BURNING_STEPPES</a>,</div>
-<div class="line"><span class="lineno"> 1369</span>        InvasionZone{</div>
-<div class="line"><span class="lineno"> 1370</span>            .map = <a class="code hl_enumvalue" href="../../dc/d47/a01487.html#a6d57376a08b6ff3944dd9a5930a492cbabd33a2026797cf5b1d126cf2e22bc339">MAP_EASTERN_KINGDOMS</a>,</div>
-<div class="line"><span class="lineno"> 1371</span>            .zoneId = <a class="code hl_enumvalue" href="../../dc/d47/a01487.html#ad26fccabf338d55f9fdcce090c8a0aa3ad424385a06b292570b5c7178fa0f4921">AREA_BURNING_STEPPES</a>,</div>
-<div class="line"><span class="lineno"> 1372</span>            .necropolisCount = 2,</div>
-<div class="line"><span class="lineno"> 1373</span>            .remainingNecropoli = <a class="code hl_enumvalue" href="../../dc/d31/a01892.html#a3fb19d2d868c1633a094f84570f4a6eea6e93dbfb45c3c30c9c8d6c2efdf4df04">SI_REMAINING_BURNING_STEPPES</a>,</div>
-<div class="line"><span class="lineno"> 1374</span>            .mouth = { <a class="code hl_struct" href="../../d6/ded/a08438.html">Position</a>{-8229.53f, -1118.11f, 144.012f, 6.17846f} }</div>
-<div class="line"><span class="lineno"> 1375</span>        }</div>
-<div class="line"><span class="lineno"> 1376</span>    );</div>
-<div class="line"><span class="lineno"> 1377</span> </div>
-<div class="line"><span class="lineno"> 1378</span>    <a class="code hl_variable" href="../../d6/d22/a11554.html#a70127135568b3a439f040697f1dc525c">m_cityAttacks</a>.emplace(</div>
-<div class="line"><span class="lineno"> 1379</span>        <a class="code hl_enumvalue" href="../../dc/d47/a01487.html#ad26fccabf338d55f9fdcce090c8a0aa3a3748fb0df84a7002fee04a79b1c26858">AREA_UNDERCITY</a>,</div>
-<div class="line"><span class="lineno"> 1380</span>        CityAttack{</div>
-<div class="line"><span class="lineno"> 1381</span>            .map = <a class="code hl_enumvalue" href="../../dc/d47/a01487.html#a6d57376a08b6ff3944dd9a5930a492cbabd33a2026797cf5b1d126cf2e22bc339">MAP_EASTERN_KINGDOMS</a>,</div>
-<div class="line"><span class="lineno"> 1382</span>            .zoneId = <a class="code hl_enumvalue" href="../../dc/d47/a01487.html#ad26fccabf338d55f9fdcce090c8a0aa3a3748fb0df84a7002fee04a79b1c26858">AREA_UNDERCITY</a>,</div>
-<div class="line"><span class="lineno"> 1383</span>            .pallid = {</div>
-<div class="line"><span class="lineno"> 1384</span>                <a class="code hl_struct" href="../../d6/ded/a08438.html">Position</a>{1595.87f, 440.539f, -46.3349f, 2.28207f}, <span class="comment">// Royal Quarter</span></div>
-<div class="line"><span class="lineno"> 1385</span>                <a class="code hl_struct" href="../../d6/ded/a08438.html">Position</a>{1659.2f, 265.988f, -62.1788f, 3.64283f}   <span class="comment">// Trade Quarter</span></div>
-<div class="line"><span class="lineno"> 1386</span>            }</div>
-<div class="line"><span class="lineno"> 1387</span>        }</div>
-<div class="line"><span class="lineno"> 1388</span>    );</div>
-<div class="line"><span class="lineno"> 1389</span>    <a class="code hl_variable" href="../../d6/d22/a11554.html#a70127135568b3a439f040697f1dc525c">m_cityAttacks</a>.emplace(</div>
-<div class="line"><span class="lineno"> 1390</span>        <a class="code hl_enumvalue" href="../../dc/d47/a01487.html#ad26fccabf338d55f9fdcce090c8a0aa3ab7b30784be644e9844de24a8aeb78eba">AREA_STORMWIND_CITY</a>,</div>
-<div class="line"><span class="lineno"> 1391</span>        CityAttack{</div>
-<div class="line"><span class="lineno"> 1392</span>            .map = <a class="code hl_enumvalue" href="../../dc/d47/a01487.html#a6d57376a08b6ff3944dd9a5930a492cbabd33a2026797cf5b1d126cf2e22bc339">MAP_EASTERN_KINGDOMS</a>,</div>
-<div class="line"><span class="lineno"> 1393</span>            .zoneId = <a class="code hl_enumvalue" href="../../dc/d47/a01487.html#ad26fccabf338d55f9fdcce090c8a0aa3ab7b30784be644e9844de24a8aeb78eba">AREA_STORMWIND_CITY</a>,</div>
-<div class="line"><span class="lineno"> 1394</span>            .pallid = {</div>
-<div class="line"><span class="lineno"> 1395</span>                <a class="code hl_struct" href="../../d6/ded/a08438.html">Position</a>{-8578.15f, 886.382f, 87.3148f, 0.586275f}, <span class="comment">// Stormwind Keep</span></div>
-<div class="line"><span class="lineno"> 1396</span>                <a class="code hl_struct" href="../../d6/ded/a08438.html">Position</a>{-8578.15f, 886.382f, 87.3148f, 0.586275f}  <span class="comment">// Trade District</span></div>
-<div class="line"><span class="lineno"> 1397</span>            }</div>
-<div class="line"><span class="lineno"> 1398</span>        }</div>
-<div class="line"><span class="lineno"> 1399</span>    );</div>
-<div class="line"><span class="lineno"> 1400</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1319</span>    : <a class="code hl_variable" href="../../d6/d22/a11554.html#acb26a954f14aec654513b16e5e53cad8">m_state</a>(<a class="code hl_enumvalue" href="../../dc/d31/a01892.html#aecf9527110a7255a02e5f9add33dd690a647b0f36eda55bfcd44ea079847f4b39">STATE_0_DISABLED</a>), <a class="code hl_variable" href="../../d6/d22/a11554.html#aea7079c6f876188857219c574ca0798d">m_battlesWon</a>(0), <a class="code hl_variable" href="../../d6/d22/a11554.html#a38ead6b33009083055538fd4f0b7de35">m_lastAttackZone</a>(0), <a class="code hl_variable" href="../../d6/d22/a11554.html#afa0f9b63b3c2111affdf9769ee529d88">m_remaining</a>{}, <a class="code hl_variable" href="../../d6/d22/a11554.html#a7c251f312e332ab60fa6de6e8cf4189d">m_broadcastTimer</a>(10000)</div>
+<div class="line"><span class="lineno"> 1320</span>{</div>
+<div class="line"><span class="lineno"> 1321</span>    <a class="code hl_variable" href="../../d6/d22/a11554.html#af98aea31bf9c878adf2870890911282f">m_activeInvasions</a>.emplace(</div>
+<div class="line"><span class="lineno"> 1322</span>        <a class="code hl_enumvalue" href="../../dc/d47/a01487.html#ad26fccabf338d55f9fdcce090c8a0aa3ab3ed4b016327f4a8ae44c847705cb0bf">AREA_WINTERSPRING</a>,</div>
+<div class="line"><span class="lineno"> 1323</span>        InvasionZone{</div>
+<div class="line"><span class="lineno"> 1324</span>            .map = <a class="code hl_enumvalue" href="../../dc/d47/a01487.html#a6d57376a08b6ff3944dd9a5930a492cba865dc34066f9c0c383dca18c5f6ac5ad">MAP_KALIMDOR</a>,</div>
+<div class="line"><span class="lineno"> 1325</span>            .zoneId = <a class="code hl_enumvalue" href="../../dc/d47/a01487.html#ad26fccabf338d55f9fdcce090c8a0aa3ab3ed4b016327f4a8ae44c847705cb0bf">AREA_WINTERSPRING</a>,</div>
+<div class="line"><span class="lineno"> 1326</span>            .necropolisCount = 3,</div>
+<div class="line"><span class="lineno"> 1327</span>            .remainingNecropoli = <a class="code hl_enumvalue" href="../../dc/d31/a01892.html#a3fb19d2d868c1633a094f84570f4a6eeaf588d257fc56fb070049cde06af24005">SI_REMAINING_WINTERSPRING</a>,</div>
+<div class="line"><span class="lineno"> 1328</span>            .mouth = { <a class="code hl_struct" href="../../d6/ded/a08438.html">Position</a>{7736.56f, -4033.75f, 696.327f, 5.51524f} }</div>
+<div class="line"><span class="lineno"> 1329</span>        }</div>
+<div class="line"><span class="lineno"> 1330</span>    );</div>
+<div class="line"><span class="lineno"> 1331</span>    <a class="code hl_variable" href="../../d6/d22/a11554.html#af98aea31bf9c878adf2870890911282f">m_activeInvasions</a>.emplace(</div>
+<div class="line"><span class="lineno"> 1332</span>        <a class="code hl_enumvalue" href="../../dc/d47/a01487.html#ad26fccabf338d55f9fdcce090c8a0aa3a87eaccec6b2c1a46bccb2c29ac0f8315">AREA_TANARIS</a>,</div>
+<div class="line"><span class="lineno"> 1333</span>        InvasionZone{</div>
+<div class="line"><span class="lineno"> 1334</span>            .map = <a class="code hl_enumvalue" href="../../dc/d47/a01487.html#a6d57376a08b6ff3944dd9a5930a492cba865dc34066f9c0c383dca18c5f6ac5ad">MAP_KALIMDOR</a>,</div>
+<div class="line"><span class="lineno"> 1335</span>            .zoneId = <a class="code hl_enumvalue" href="../../dc/d47/a01487.html#ad26fccabf338d55f9fdcce090c8a0aa3a87eaccec6b2c1a46bccb2c29ac0f8315">AREA_TANARIS</a>,</div>
+<div class="line"><span class="lineno"> 1336</span>            .necropolisCount = 3,</div>
+<div class="line"><span class="lineno"> 1337</span>            .remainingNecropoli = <a class="code hl_enumvalue" href="../../dc/d31/a01892.html#a3fb19d2d868c1633a094f84570f4a6eea91588368688397c3757fd568872cc23b">SI_REMAINING_TANARIS</a>,</div>
+<div class="line"><span class="lineno"> 1338</span>            .mouth = { <a class="code hl_struct" href="../../d6/ded/a08438.html">Position</a>{-8352.68f, -3972.68f, 10.0753f, 2.14675f} }</div>
+<div class="line"><span class="lineno"> 1339</span>        }</div>
+<div class="line"><span class="lineno"> 1340</span>    );</div>
+<div class="line"><span class="lineno"> 1341</span>    <a class="code hl_variable" href="../../d6/d22/a11554.html#af98aea31bf9c878adf2870890911282f">m_activeInvasions</a>.emplace(</div>
+<div class="line"><span class="lineno"> 1342</span>        <a class="code hl_enumvalue" href="../../dc/d47/a01487.html#ad26fccabf338d55f9fdcce090c8a0aa3a18cd2566d133329214f27a17511fd506">AREA_AZSHARA</a>,</div>
+<div class="line"><span class="lineno"> 1343</span>        InvasionZone{</div>
+<div class="line"><span class="lineno"> 1344</span>            .map = <a class="code hl_enumvalue" href="../../dc/d47/a01487.html#a6d57376a08b6ff3944dd9a5930a492cba865dc34066f9c0c383dca18c5f6ac5ad">MAP_KALIMDOR</a>,</div>
+<div class="line"><span class="lineno"> 1345</span>            .zoneId = <a class="code hl_enumvalue" href="../../dc/d47/a01487.html#ad26fccabf338d55f9fdcce090c8a0aa3a18cd2566d133329214f27a17511fd506">AREA_AZSHARA</a>,</div>
+<div class="line"><span class="lineno"> 1346</span>            .necropolisCount = 2,</div>
+<div class="line"><span class="lineno"> 1347</span>            .remainingNecropoli = <a class="code hl_enumvalue" href="../../dc/d31/a01892.html#a3fb19d2d868c1633a094f84570f4a6eeac12501f2dfc2e92462231a9171a4a192">SI_REMAINING_AZSHARA</a>,</div>
+<div class="line"><span class="lineno"> 1348</span>            .mouth = { <a class="code hl_struct" href="../../d6/ded/a08438.html">Position</a>{3273.75f, -4276.98f, 125.509f, 5.44543f} }</div>
+<div class="line"><span class="lineno"> 1349</span>        }</div>
+<div class="line"><span class="lineno"> 1350</span>    );</div>
+<div class="line"><span class="lineno"> 1351</span>    <a class="code hl_variable" href="../../d6/d22/a11554.html#af98aea31bf9c878adf2870890911282f">m_activeInvasions</a>.emplace(</div>
+<div class="line"><span class="lineno"> 1352</span>        <a class="code hl_enumvalue" href="../../dc/d47/a01487.html#ad26fccabf338d55f9fdcce090c8a0aa3ace303ba93d149035825673730b8b1d2a">AREA_BLASTED_LANDS</a>,</div>
+<div class="line"><span class="lineno"> 1353</span>        InvasionZone{</div>
+<div class="line"><span class="lineno"> 1354</span>            .map = <a class="code hl_enumvalue" href="../../dc/d47/a01487.html#a6d57376a08b6ff3944dd9a5930a492cbabd33a2026797cf5b1d126cf2e22bc339">MAP_EASTERN_KINGDOMS</a>,</div>
+<div class="line"><span class="lineno"> 1355</span>            .zoneId = <a class="code hl_enumvalue" href="../../dc/d47/a01487.html#ad26fccabf338d55f9fdcce090c8a0aa3ace303ba93d149035825673730b8b1d2a">AREA_BLASTED_LANDS</a>,</div>
+<div class="line"><span class="lineno"> 1356</span>            .necropolisCount = 2,</div>
+<div class="line"><span class="lineno"> 1357</span>            .remainingNecropoli = <a class="code hl_enumvalue" href="../../dc/d31/a01892.html#a3fb19d2d868c1633a094f84570f4a6eeaa749bb9df442ebee816047ad078ad876">SI_REMAINING_BLASTED_LANDS</a>,</div>
+<div class="line"><span class="lineno"> 1358</span>            .mouth = { <a class="code hl_struct" href="../../d6/ded/a08438.html">Position</a>{-11429.3f, -3327.82f, 7.73628f, 1.0821f} }</div>
+<div class="line"><span class="lineno"> 1359</span>        }</div>
+<div class="line"><span class="lineno"> 1360</span>    );</div>
+<div class="line"><span class="lineno"> 1361</span>    <a class="code hl_variable" href="../../d6/d22/a11554.html#af98aea31bf9c878adf2870890911282f">m_activeInvasions</a>.emplace(</div>
+<div class="line"><span class="lineno"> 1362</span>        <a class="code hl_enumvalue" href="../../dc/d47/a01487.html#ad26fccabf338d55f9fdcce090c8a0aa3ab3eeec438db2c0efc014467891451d23">AREA_EASTERN_PLAGUELANDS</a>,</div>
+<div class="line"><span class="lineno"> 1363</span>        InvasionZone{</div>
+<div class="line"><span class="lineno"> 1364</span>            .map = <a class="code hl_enumvalue" href="../../dc/d47/a01487.html#a6d57376a08b6ff3944dd9a5930a492cbabd33a2026797cf5b1d126cf2e22bc339">MAP_EASTERN_KINGDOMS</a>,</div>
+<div class="line"><span class="lineno"> 1365</span>            .zoneId = <a class="code hl_enumvalue" href="../../dc/d47/a01487.html#ad26fccabf338d55f9fdcce090c8a0aa3ab3eeec438db2c0efc014467891451d23">AREA_EASTERN_PLAGUELANDS</a>,</div>
+<div class="line"><span class="lineno"> 1366</span>            .necropolisCount = 2,</div>
+<div class="line"><span class="lineno"> 1367</span>            .remainingNecropoli = <a class="code hl_enumvalue" href="../../dc/d31/a01892.html#a3fb19d2d868c1633a094f84570f4a6eea6edea7eb295c687aab2d49f538b7ff66">SI_REMAINING_EASTERN_PLAGUELANDS</a>,</div>
+<div class="line"><span class="lineno"> 1368</span>            .mouth = { <a class="code hl_struct" href="../../d6/ded/a08438.html">Position</a>{2014.55f, -4934.52f, 73.9846f, 0.0698132f} }</div>
+<div class="line"><span class="lineno"> 1369</span>        }</div>
+<div class="line"><span class="lineno"> 1370</span>    );</div>
+<div class="line"><span class="lineno"> 1371</span>    <a class="code hl_variable" href="../../d6/d22/a11554.html#af98aea31bf9c878adf2870890911282f">m_activeInvasions</a>.emplace(</div>
+<div class="line"><span class="lineno"> 1372</span>        <a class="code hl_enumvalue" href="../../dc/d47/a01487.html#ad26fccabf338d55f9fdcce090c8a0aa3ad424385a06b292570b5c7178fa0f4921">AREA_BURNING_STEPPES</a>,</div>
+<div class="line"><span class="lineno"> 1373</span>        InvasionZone{</div>
+<div class="line"><span class="lineno"> 1374</span>            .map = <a class="code hl_enumvalue" href="../../dc/d47/a01487.html#a6d57376a08b6ff3944dd9a5930a492cbabd33a2026797cf5b1d126cf2e22bc339">MAP_EASTERN_KINGDOMS</a>,</div>
+<div class="line"><span class="lineno"> 1375</span>            .zoneId = <a class="code hl_enumvalue" href="../../dc/d47/a01487.html#ad26fccabf338d55f9fdcce090c8a0aa3ad424385a06b292570b5c7178fa0f4921">AREA_BURNING_STEPPES</a>,</div>
+<div class="line"><span class="lineno"> 1376</span>            .necropolisCount = 2,</div>
+<div class="line"><span class="lineno"> 1377</span>            .remainingNecropoli = <a class="code hl_enumvalue" href="../../dc/d31/a01892.html#a3fb19d2d868c1633a094f84570f4a6eea6e93dbfb45c3c30c9c8d6c2efdf4df04">SI_REMAINING_BURNING_STEPPES</a>,</div>
+<div class="line"><span class="lineno"> 1378</span>            .mouth = { <a class="code hl_struct" href="../../d6/ded/a08438.html">Position</a>{-8229.53f, -1118.11f, 144.012f, 6.17846f} }</div>
+<div class="line"><span class="lineno"> 1379</span>        }</div>
+<div class="line"><span class="lineno"> 1380</span>    );</div>
+<div class="line"><span class="lineno"> 1381</span> </div>
+<div class="line"><span class="lineno"> 1382</span>    <a class="code hl_variable" href="../../d6/d22/a11554.html#a70127135568b3a439f040697f1dc525c">m_cityAttacks</a>.emplace(</div>
+<div class="line"><span class="lineno"> 1383</span>        <a class="code hl_enumvalue" href="../../dc/d47/a01487.html#ad26fccabf338d55f9fdcce090c8a0aa3a3748fb0df84a7002fee04a79b1c26858">AREA_UNDERCITY</a>,</div>
+<div class="line"><span class="lineno"> 1384</span>        CityAttack{</div>
+<div class="line"><span class="lineno"> 1385</span>            .map = <a class="code hl_enumvalue" href="../../dc/d47/a01487.html#a6d57376a08b6ff3944dd9a5930a492cbabd33a2026797cf5b1d126cf2e22bc339">MAP_EASTERN_KINGDOMS</a>,</div>
+<div class="line"><span class="lineno"> 1386</span>            .zoneId = <a class="code hl_enumvalue" href="../../dc/d47/a01487.html#ad26fccabf338d55f9fdcce090c8a0aa3a3748fb0df84a7002fee04a79b1c26858">AREA_UNDERCITY</a>,</div>
+<div class="line"><span class="lineno"> 1387</span>            .pallid = {</div>
+<div class="line"><span class="lineno"> 1388</span>                <a class="code hl_struct" href="../../d6/ded/a08438.html">Position</a>{1595.87f, 440.539f, -46.3349f, 2.28207f}, <span class="comment">// Royal Quarter</span></div>
+<div class="line"><span class="lineno"> 1389</span>                <a class="code hl_struct" href="../../d6/ded/a08438.html">Position</a>{1659.2f, 265.988f, -62.1788f, 3.64283f}   <span class="comment">// Trade Quarter</span></div>
+<div class="line"><span class="lineno"> 1390</span>            }</div>
+<div class="line"><span class="lineno"> 1391</span>        }</div>
+<div class="line"><span class="lineno"> 1392</span>    );</div>
+<div class="line"><span class="lineno"> 1393</span>    <a class="code hl_variable" href="../../d6/d22/a11554.html#a70127135568b3a439f040697f1dc525c">m_cityAttacks</a>.emplace(</div>
+<div class="line"><span class="lineno"> 1394</span>        <a class="code hl_enumvalue" href="../../dc/d47/a01487.html#ad26fccabf338d55f9fdcce090c8a0aa3ab7b30784be644e9844de24a8aeb78eba">AREA_STORMWIND_CITY</a>,</div>
+<div class="line"><span class="lineno"> 1395</span>        CityAttack{</div>
+<div class="line"><span class="lineno"> 1396</span>            .map = <a class="code hl_enumvalue" href="../../dc/d47/a01487.html#a6d57376a08b6ff3944dd9a5930a492cbabd33a2026797cf5b1d126cf2e22bc339">MAP_EASTERN_KINGDOMS</a>,</div>
+<div class="line"><span class="lineno"> 1397</span>            .zoneId = <a class="code hl_enumvalue" href="../../dc/d47/a01487.html#ad26fccabf338d55f9fdcce090c8a0aa3ab7b30784be644e9844de24a8aeb78eba">AREA_STORMWIND_CITY</a>,</div>
+<div class="line"><span class="lineno"> 1398</span>            .pallid = {</div>
+<div class="line"><span class="lineno"> 1399</span>                <a class="code hl_struct" href="../../d6/ded/a08438.html">Position</a>{-8578.15f, 886.382f, 87.3148f, 0.586275f}, <span class="comment">// Stormwind Keep</span></div>
+<div class="line"><span class="lineno"> 1400</span>                <a class="code hl_struct" href="../../d6/ded/a08438.html">Position</a>{-8578.15f, 886.382f, 87.3148f, 0.586275f}  <span class="comment">// Trade District</span></div>
+<div class="line"><span class="lineno"> 1401</span>            }</div>
+<div class="line"><span class="lineno"> 1402</span>        }</div>
+<div class="line"><span class="lineno"> 1403</span>    );</div>
+<div class="line"><span class="lineno"> 1404</span>}</div>
 <div class="ttc" id="aa01487_html_a6d57376a08b6ff3944dd9a5930a492cba865dc34066f9c0c383dca18c5f6ac5ad"><div class="ttname"><a href="../../dc/d47/a01487.html#a6d57376a08b6ff3944dd9a5930a492cba865dc34066f9c0c383dca18c5f6ac5ad">MAP_KALIMDOR</a></div><div class="ttdeci">@ MAP_KALIMDOR</div><div class="ttdef"><b>Definition:</b> AreaDefines.h:186</div></div>
 <div class="ttc" id="aa01487_html_a6d57376a08b6ff3944dd9a5930a492cbabd33a2026797cf5b1d126cf2e22bc339"><div class="ttname"><a href="../../dc/d47/a01487.html#a6d57376a08b6ff3944dd9a5930a492cbabd33a2026797cf5b1d126cf2e22bc339">MAP_EASTERN_KINGDOMS</a></div><div class="ttdeci">@ MAP_EASTERN_KINGDOMS</div><div class="ttdef"><b>Definition:</b> AreaDefines.h:185</div></div>
 <div class="ttc" id="aa01487_html_ad26fccabf338d55f9fdcce090c8a0aa3a18cd2566d133329214f27a17511fd506"><div class="ttname"><a href="../../dc/d47/a01487.html#ad26fccabf338d55f9fdcce090c8a0aa3a18cd2566d133329214f27a17511fd506">AREA_AZSHARA</a></div><div class="ttdeci">@ AREA_AZSHARA</div><div class="ttdef"><b>Definition:</b> AreaDefines.h:34</div></div>
@@ -303,20 +303,20 @@ Public Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1415</span>{</div>
-<div class="line"><span class="lineno"> 1416</span>    std::string output = std::to_string(<a class="code hl_variable" href="../../d6/d22/a11554.html#acb26a954f14aec654513b16e5e53cad8">m_state</a>) + <span class="stringliteral">&quot; &quot;</span>;</div>
-<div class="line"><span class="lineno"> 1417</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span>&amp; timer : <a class="code hl_variable" href="../../d6/d22/a11554.html#a06375cf97a023be4f3fff94cc43405a9">m_timers</a>)</div>
-<div class="line"><span class="lineno"> 1418</span>        output += std::to_string(timer.time_since_epoch().count()) + <span class="stringliteral">&quot; &quot;</span>;</div>
-<div class="line"><span class="lineno"> 1419</span>    output += std::to_string(<a class="code hl_variable" href="../../d6/d22/a11554.html#aea7079c6f876188857219c574ca0798d">m_battlesWon</a>) + <span class="stringliteral">&quot; &quot;</span> + std::to_string(<a class="code hl_variable" href="../../d6/d22/a11554.html#a38ead6b33009083055538fd4f0b7de35">m_lastAttackZone</a>) + <span class="stringliteral">&quot; &quot;</span>;</div>
-<div class="line"><span class="lineno"> 1420</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span>&amp; remaining : <a class="code hl_variable" href="../../d6/d22/a11554.html#afa0f9b63b3c2111affdf9769ee529d88">m_remaining</a>)</div>
-<div class="line"><span class="lineno"> 1421</span>        output += std::to_string(remaining) + <span class="stringliteral">&quot; &quot;</span>;</div>
-<div class="line"><span class="lineno"> 1422</span>    <span class="keywordflow">return</span> output;</div>
-<div class="line"><span class="lineno"> 1423</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1419</span>{</div>
+<div class="line"><span class="lineno"> 1420</span>    std::string output = std::to_string(<a class="code hl_variable" href="../../d6/d22/a11554.html#acb26a954f14aec654513b16e5e53cad8">m_state</a>) + <span class="stringliteral">&quot; &quot;</span>;</div>
+<div class="line"><span class="lineno"> 1421</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span>&amp; timer : <a class="code hl_variable" href="../../d6/d22/a11554.html#a06375cf97a023be4f3fff94cc43405a9">m_timers</a>)</div>
+<div class="line"><span class="lineno"> 1422</span>        output += std::to_string(timer.time_since_epoch().count()) + <span class="stringliteral">&quot; &quot;</span>;</div>
+<div class="line"><span class="lineno"> 1423</span>    output += std::to_string(<a class="code hl_variable" href="../../d6/d22/a11554.html#aea7079c6f876188857219c574ca0798d">m_battlesWon</a>) + <span class="stringliteral">&quot; &quot;</span> + std::to_string(<a class="code hl_variable" href="../../d6/d22/a11554.html#a38ead6b33009083055538fd4f0b7de35">m_lastAttackZone</a>) + <span class="stringliteral">&quot; &quot;</span>;</div>
+<div class="line"><span class="lineno"> 1424</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span>&amp; remaining : <a class="code hl_variable" href="../../d6/d22/a11554.html#afa0f9b63b3c2111affdf9769ee529d88">m_remaining</a>)</div>
+<div class="line"><span class="lineno"> 1425</span>        output += std::to_string(remaining) + <span class="stringliteral">&quot; &quot;</span>;</div>
+<div class="line"><span class="lineno"> 1426</span>    <span class="keywordflow">return</span> output;</div>
+<div class="line"><span class="lineno"> 1427</span>}</div>
 <div class="ttc" id="aa11554_html_a06375cf97a023be4f3fff94cc43405a9"><div class="ttname"><a href="../../d6/d22/a11554.html#a06375cf97a023be4f3fff94cc43405a9">ScourgeInvasionData::m_timers</a></div><div class="ttdeci">TimePoint m_timers[SI_TIMER_MAX]</div><div class="ttdef"><b>Definition:</b> WorldState.h:196</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00197">m_battlesWon</a>, <a class="el" href="../../#l00198">m_lastAttackZone</a>, <a class="el" href="../../#l00199">m_remaining</a>, <a class="el" href="../../#l00194">m_state</a>, and <a class="el" href="../../#l00196">m_timers</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00185">WorldState::Save()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00187">WorldState::Save()</a>.</p>
 
 </div>
 </div>
@@ -334,22 +334,22 @@ Public Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1403</span>{</div>
-<div class="line"><span class="lineno"> 1404</span>    std::lock_guard&lt;std::mutex&gt; guard(<a class="code hl_variable" href="../../d6/d22/a11554.html#acefb72f28d000395bc1362cd9a62b26a">m_siMutex</a>);</div>
-<div class="line"><span class="lineno"> 1405</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span>&amp; timepoint : <a class="code hl_variable" href="../../d6/d22/a11554.html#a06375cf97a023be4f3fff94cc43405a9">m_timers</a>)</div>
-<div class="line"><span class="lineno"> 1406</span>        timepoint = <a class="code hl_typedef" href="../../da/d9c/a00413.html#ae5ca775e8d8c664b6edef818ce1251b9">TimePoint</a>();</div>
-<div class="line"><span class="lineno"> 1407</span> </div>
-<div class="line"><span class="lineno"> 1408</span>    <a class="code hl_variable" href="../../d6/d22/a11554.html#aea7079c6f876188857219c574ca0798d">m_battlesWon</a> = 0;</div>
-<div class="line"><span class="lineno"> 1409</span>    <a class="code hl_variable" href="../../d6/d22/a11554.html#a38ead6b33009083055538fd4f0b7de35">m_lastAttackZone</a> = 0;</div>
-<div class="line"><span class="lineno"> 1410</span>    <a class="code hl_variable" href="../../d6/d22/a11554.html#a7c251f312e332ab60fa6de6e8cf4189d">m_broadcastTimer</a> = 10000;</div>
-<div class="line"><span class="lineno"> 1411</span>    memset(<a class="code hl_variable" href="../../d6/d22/a11554.html#afa0f9b63b3c2111affdf9769ee529d88">m_remaining</a>, 0, <span class="keyword">sizeof</span>(<a class="code hl_variable" href="../../d6/d22/a11554.html#afa0f9b63b3c2111affdf9769ee529d88">m_remaining</a>));</div>
-<div class="line"><span class="lineno"> 1412</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1407</span>{</div>
+<div class="line"><span class="lineno"> 1408</span>    std::lock_guard&lt;std::mutex&gt; guard(<a class="code hl_variable" href="../../d6/d22/a11554.html#acefb72f28d000395bc1362cd9a62b26a">m_siMutex</a>);</div>
+<div class="line"><span class="lineno"> 1409</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span>&amp; timepoint : <a class="code hl_variable" href="../../d6/d22/a11554.html#a06375cf97a023be4f3fff94cc43405a9">m_timers</a>)</div>
+<div class="line"><span class="lineno"> 1410</span>        timepoint = <a class="code hl_typedef" href="../../da/d9c/a00413.html#ae5ca775e8d8c664b6edef818ce1251b9">TimePoint</a>();</div>
+<div class="line"><span class="lineno"> 1411</span> </div>
+<div class="line"><span class="lineno"> 1412</span>    <a class="code hl_variable" href="../../d6/d22/a11554.html#aea7079c6f876188857219c574ca0798d">m_battlesWon</a> = 0;</div>
+<div class="line"><span class="lineno"> 1413</span>    <a class="code hl_variable" href="../../d6/d22/a11554.html#a38ead6b33009083055538fd4f0b7de35">m_lastAttackZone</a> = 0;</div>
+<div class="line"><span class="lineno"> 1414</span>    <a class="code hl_variable" href="../../d6/d22/a11554.html#a7c251f312e332ab60fa6de6e8cf4189d">m_broadcastTimer</a> = 10000;</div>
+<div class="line"><span class="lineno"> 1415</span>    memset(<a class="code hl_variable" href="../../d6/d22/a11554.html#afa0f9b63b3c2111affdf9769ee529d88">m_remaining</a>, 0, <span class="keyword">sizeof</span>(<a class="code hl_variable" href="../../d6/d22/a11554.html#afa0f9b63b3c2111affdf9769ee529d88">m_remaining</a>));</div>
+<div class="line"><span class="lineno"> 1416</span>}</div>
 <div class="ttc" id="aa00413_html_ae5ca775e8d8c664b6edef818ce1251b9"><div class="ttname"><a href="../../da/d9c/a00413.html#ae5ca775e8d8c664b6edef818ce1251b9">TimePoint</a></div><div class="ttdeci">std::chrono::steady_clock::time_point TimePoint</div><div class="ttdoc">time_point shorthand typedefs</div><div class="ttdef"><b>Definition:</b> Duration.h:69</div></div>
 <div class="ttc" id="aa11554_html_acefb72f28d000395bc1362cd9a62b26a"><div class="ttname"><a href="../../d6/d22/a11554.html#acefb72f28d000395bc1362cd9a62b26a">ScourgeInvasionData::m_siMutex</a></div><div class="ttdeci">std::mutex m_siMutex</div><div class="ttdef"><b>Definition:</b> WorldState.h:201</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00197">m_battlesWon</a>, <a class="el" href="../../#l00200">m_broadcastTimer</a>, <a class="el" href="../../#l00198">m_lastAttackZone</a>, <a class="el" href="../../#l00199">m_remaining</a>, <a class="el" href="../../#l00201">m_siMutex</a>, and <a class="el" href="../../#l00196">m_timers</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00048">WorldState::Load()</a>, and <a class="el" href="../../#l01425">WorldState::StopScourgeInvasion()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00048">WorldState::Load()</a>, and <a class="el" href="../../#l01429">WorldState::StopScourgeInvasion()</a>.</p>
 
 </div>
 </div>
@@ -366,7 +366,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l01897">WorldState::GetActiveZones()</a>, <a class="el" href="../../#l01773">WorldState::HandleActiveZone()</a>, <a class="el" href="../../#l01314">ScourgeInvasionData()</a>, <a class="el" href="../../#l01829">WorldState::SetMouthGuid()</a>, <a class="el" href="../../#l01621">WorldState::StartNewInvasion()</a>, <a class="el" href="../../#l01285">WorldState::StartScourgeInvasion()</a>, <a class="el" href="../../#l01425">WorldState::StopScourgeInvasion()</a>, and <a class="el" href="../../#l00300">WorldState::Update()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01901">WorldState::GetActiveZones()</a>, <a class="el" href="../../#l01777">WorldState::HandleActiveZone()</a>, <a class="el" href="../../#l01318">ScourgeInvasionData()</a>, <a class="el" href="../../#l01833">WorldState::SetMouthGuid()</a>, <a class="el" href="../../#l01625">WorldState::StartNewInvasion()</a>, <a class="el" href="../../#l01289">WorldState::StartScourgeInvasion()</a>, <a class="el" href="../../#l01429">WorldState::StopScourgeInvasion()</a>, and <a class="el" href="../../#l00304">WorldState::Update()</a>.</p>
 
 </div>
 </div>
@@ -382,7 +382,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l01490">WorldState::AddBattlesWon()</a>, <a class="el" href="../../#l01484">WorldState::GetBattlesWon()</a>, <a class="el" href="../../#l01414">GetData()</a>, <a class="el" href="../../#l01034">WorldState::GetScourgeInvasionPrintout()</a>, <a class="el" href="../../#l01554">WorldState::HandleDefendedZones()</a>, <a class="el" href="../../#l00048">WorldState::Load()</a>, and <a class="el" href="../../#l01402">Reset()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01494">WorldState::AddBattlesWon()</a>, <a class="el" href="../../#l01488">WorldState::GetBattlesWon()</a>, <a class="el" href="../../#l01418">GetData()</a>, <a class="el" href="../../#l01038">WorldState::GetScourgeInvasionPrintout()</a>, <a class="el" href="../../#l01558">WorldState::HandleDefendedZones()</a>, <a class="el" href="../../#l00048">WorldState::Load()</a>, and <a class="el" href="../../#l01406">Reset()</a>.</p>
 
 </div>
 </div>
@@ -398,7 +398,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l01402">Reset()</a>, and <a class="el" href="../../#l00300">WorldState::Update()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01406">Reset()</a>, and <a class="el" href="../../#l00304">WorldState::Update()</a>.</p>
 
 </div>
 </div>
@@ -414,7 +414,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l01314">ScourgeInvasionData()</a>, <a class="el" href="../../#l01824">WorldState::SetPallidGuid()</a>, <a class="el" href="../../#l01663">WorldState::StartNewCityAttack()</a>, <a class="el" href="../../#l01285">WorldState::StartScourgeInvasion()</a>, <a class="el" href="../../#l01425">WorldState::StopScourgeInvasion()</a>, and <a class="el" href="../../#l00300">WorldState::Update()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01318">ScourgeInvasionData()</a>, <a class="el" href="../../#l01828">WorldState::SetPallidGuid()</a>, <a class="el" href="../../#l01667">WorldState::StartNewCityAttack()</a>, <a class="el" href="../../#l01289">WorldState::StartScourgeInvasion()</a>, <a class="el" href="../../#l01429">WorldState::StopScourgeInvasion()</a>, and <a class="el" href="../../#l00304">WorldState::Update()</a>.</p>
 
 </div>
 </div>
@@ -430,7 +430,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l01414">GetData()</a>, <a class="el" href="../../#l01498">WorldState::GetLastAttackZone()</a>, <a class="el" href="../../#l01034">WorldState::GetScourgeInvasionPrintout()</a>, <a class="el" href="../../#l00048">WorldState::Load()</a>, <a class="el" href="../../#l01402">Reset()</a>, and <a class="el" href="../../#l01504">WorldState::SetLastAttackZone()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01418">GetData()</a>, <a class="el" href="../../#l01502">WorldState::GetLastAttackZone()</a>, <a class="el" href="../../#l01038">WorldState::GetScourgeInvasionPrintout()</a>, <a class="el" href="../../#l00048">WorldState::Load()</a>, <a class="el" href="../../#l01406">Reset()</a>, and <a class="el" href="../../#l01508">WorldState::SetLastAttackZone()</a>.</p>
 
 </div>
 </div>
@@ -446,7 +446,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l01834">WorldState::AddPendingInvasion()</a>, <a class="el" href="../../#l01897">WorldState::GetActiveZones()</a>, and <a class="el" href="../../#l01840">WorldState::RemovePendingInvasion()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01838">WorldState::AddPendingInvasion()</a>, <a class="el" href="../../#l01901">WorldState::GetActiveZones()</a>, and <a class="el" href="../../#l01844">WorldState::RemovePendingInvasion()</a>.</p>
 
 </div>
 </div>
@@ -462,7 +462,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l01846">WorldState::AddPendingPallid()</a>, <a class="el" href="../../#l01852">WorldState::RemovePendingPallid()</a>, and <a class="el" href="../../#l01663">WorldState::StartNewCityAttack()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01850">WorldState::AddPendingPallid()</a>, <a class="el" href="../../#l01856">WorldState::RemovePendingPallid()</a>, and <a class="el" href="../../#l01667">WorldState::StartNewCityAttack()</a>.</p>
 
 </div>
 </div>
@@ -478,7 +478,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l01414">GetData()</a>, <a class="el" href="../../#l01034">WorldState::GetScourgeInvasionPrintout()</a>, <a class="el" href="../../#l01444">WorldState::GetSIRemaining()</a>, <a class="el" href="../../#l00048">WorldState::Load()</a>, <a class="el" href="../../#l01402">Reset()</a>, and <a class="el" href="../../#l01467">WorldState::SetSIRemaining()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01418">GetData()</a>, <a class="el" href="../../#l01038">WorldState::GetScourgeInvasionPrintout()</a>, <a class="el" href="../../#l01448">WorldState::GetSIRemaining()</a>, <a class="el" href="../../#l00048">WorldState::Load()</a>, <a class="el" href="../../#l01406">Reset()</a>, and <a class="el" href="../../#l01471">WorldState::SetSIRemaining()</a>.</p>
 
 </div>
 </div>
@@ -494,7 +494,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l01490">WorldState::AddBattlesWon()</a>, <a class="el" href="../../#l01834">WorldState::AddPendingInvasion()</a>, <a class="el" href="../../#l01846">WorldState::AddPendingPallid()</a>, <a class="el" href="../../#l01484">WorldState::GetBattlesWon()</a>, <a class="el" href="../../#l01498">WorldState::GetLastAttackZone()</a>, <a class="el" href="../../#l01034">WorldState::GetScourgeInvasionPrintout()</a>, <a class="el" href="../../#l01840">WorldState::RemovePendingInvasion()</a>, <a class="el" href="../../#l01852">WorldState::RemovePendingPallid()</a>, <a class="el" href="../../#l01402">Reset()</a>, <a class="el" href="../../#l01504">WorldState::SetLastAttackZone()</a>, and <a class="el" href="../../#l01467">WorldState::SetSIRemaining()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01494">WorldState::AddBattlesWon()</a>, <a class="el" href="../../#l01838">WorldState::AddPendingInvasion()</a>, <a class="el" href="../../#l01850">WorldState::AddPendingPallid()</a>, <a class="el" href="../../#l01488">WorldState::GetBattlesWon()</a>, <a class="el" href="../../#l01502">WorldState::GetLastAttackZone()</a>, <a class="el" href="../../#l01038">WorldState::GetScourgeInvasionPrintout()</a>, <a class="el" href="../../#l01844">WorldState::RemovePendingInvasion()</a>, <a class="el" href="../../#l01856">WorldState::RemovePendingPallid()</a>, <a class="el" href="../../#l01406">Reset()</a>, <a class="el" href="../../#l01508">WorldState::SetLastAttackZone()</a>, and <a class="el" href="../../#l01471">WorldState::SetSIRemaining()</a>.</p>
 
 </div>
 </div>
@@ -510,7 +510,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l01934">WorldState::FillInitialWorldStates()</a>, <a class="el" href="../../#l01414">GetData()</a>, <a class="el" href="../../#l01034">WorldState::GetScourgeInvasionPrintout()</a>, <a class="el" href="../../#l00048">WorldState::Load()</a>, <a class="el" href="../../#l01243">WorldState::SetScourgeInvasionState()</a>, <a class="el" href="../../#l01285">WorldState::StartScourgeInvasion()</a>, and <a class="el" href="../../#l00300">WorldState::Update()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01938">WorldState::FillInitialWorldStates()</a>, <a class="el" href="../../#l01418">GetData()</a>, <a class="el" href="../../#l01038">WorldState::GetScourgeInvasionPrintout()</a>, <a class="el" href="../../#l00048">WorldState::Load()</a>, <a class="el" href="../../#l01247">WorldState::SetScourgeInvasionState()</a>, <a class="el" href="../../#l01289">WorldState::StartScourgeInvasion()</a>, and <a class="el" href="../../#l00304">WorldState::Update()</a>.</p>
 
 </div>
 </div>
@@ -526,7 +526,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l01414">GetData()</a>, <a class="el" href="../../#l01034">WorldState::GetScourgeInvasionPrintout()</a>, <a class="el" href="../../#l01474">WorldState::GetSITimer()</a>, <a class="el" href="../../#l00048">WorldState::Load()</a>, <a class="el" href="../../#l01402">Reset()</a>, and <a class="el" href="../../#l01479">WorldState::SetSITimer()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01418">GetData()</a>, <a class="el" href="../../#l01038">WorldState::GetScourgeInvasionPrintout()</a>, <a class="el" href="../../#l01478">WorldState::GetSITimer()</a>, <a class="el" href="../../#l00048">WorldState::Load()</a>, <a class="el" href="../../#l01406">Reset()</a>, and <a class="el" href="../../#l01483">WorldState::SetSITimer()</a>.</p>
 
 </div>
 </div>
@@ -536,7 +536,7 @@ Public Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d6/d22/a11554.html">ScourgeInvasionData</a></li>
-    <li class="footer">Generated on Mon Jul 21 2025 20:51:13 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Jul 28 2025 20:52:13 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

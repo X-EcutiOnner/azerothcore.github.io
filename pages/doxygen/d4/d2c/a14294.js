@@ -1,6 +1,5 @@
 var a14294 =
 [
-    [ "npc_cw_area_triggerAI", "d2/dea/a14298.html", "d2/dea/a14298" ],
-    [ "npc_cw_area_trigger", "d4/d2c/a14294.html#a11af64ac4ab078566bf8f68a36781939", null ],
-    [ "GetAI", "d4/d2c/a14294.html#a66c55b2984bab71be89ad7b6b96e3784", null ]
+    [ "at_bring_your_orphan_to", "d4/d2c/a14294.html#a160aae23dd3423dbc1afc8e3f8dbec7c", null ],
+    [ "OnTrigger", "d4/d2c/a14294.html#af5cb73f6ba0657eff8809711a5dba84c", null ]
 ];

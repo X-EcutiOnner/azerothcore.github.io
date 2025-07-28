@@ -1,14 +1,14 @@
 var a04295 =
 [
-    [ "boss_mandokir", "df/dfe/a14038.html", "df/dfe/a14038" ],
-    [ "boss_mandokir::boss_mandokirAI", "db/dac/a14042.html", "db/dac/a14042" ],
-    [ "npc_ohgan", "d0/d6c/a14046.html", "d0/d6c/a14046" ],
-    [ "npc_ohgan::npc_ohganAI", "d7/de1/a14050.html", "d7/de1/a14050" ],
-    [ "npc_chained_spirit", "d5/dfa/a14054.html", "d5/dfa/a14054" ],
-    [ "npc_vilebranch_speaker", "d5/da0/a14058.html", "d5/da0/a14058" ],
-    [ "spell_threatening_gaze_aura", "df/d01/a14062.html", "df/d01/a14062" ],
-    [ "spell_mandokir_charge", "d9/d1d/a14066.html", "d9/d1d/a14066" ],
-    [ "spell_threatening_gaze_charge", "d2/d0c/a14070.html", "d2/d0c/a14070" ],
+    [ "boss_mandokir", "db/dac/a14042.html", "db/dac/a14042" ],
+    [ "boss_mandokir::boss_mandokirAI", "d0/d6c/a14046.html", "d0/d6c/a14046" ],
+    [ "npc_ohgan", "d7/de1/a14050.html", "d7/de1/a14050" ],
+    [ "npc_ohgan::npc_ohganAI", "d5/dfa/a14054.html", "d5/dfa/a14054" ],
+    [ "npc_chained_spirit", "d5/da0/a14058.html", "d5/da0/a14058" ],
+    [ "npc_vilebranch_speaker", "df/d01/a14062.html", "df/d01/a14062" ],
+    [ "spell_threatening_gaze_aura", "d9/d1d/a14066.html", "d9/d1d/a14066" ],
+    [ "spell_mandokir_charge", "d2/d0c/a14070.html", "d2/d0c/a14070" ],
+    [ "spell_threatening_gaze_charge", "dd/d4e/a14074.html", "dd/d4e/a14074" ],
     [ "Action", "d9/d57/a04295.html#a8bb1ef53467e4f61410d12822d922498", [
       [ "ACTION_START_REVIVE", "d9/d57/a04295.html#a8bb1ef53467e4f61410d12822d922498a14acc6a83289f297aabd7f8da3c85502", null ],
       [ "ACTION_REVIVE", "d9/d57/a04295.html#a8bb1ef53467e4f61410d12822d922498ae4cd22dece403cdfe2b94719ca179265", null ]
@@ -1422,6 +1422,7 @@ var a04295 =
       [ "MAX_EMBRACE_DMG", "d1/d45/a03191.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a92c750d1fab22566cfc44edbc7b61cfe", null ],
       [ "MAX_EMBRACE_DMG_H", "d1/d45/a03191.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ac90a40c1805a63761f571de57c08eaf1", null ],
       [ "SUMMON_GROUP_TRIGGERS", "d1/d45/a03191.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a2fbeedd9d697855685b859c7b5df8a41", null ],
+      [ "GROUP_COMBAT_ABILITIES", "d1/d45/a03191.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a5d7cf54e44fb5a068cd85e6745a6c399", null ],
       [ "ACHIEV_TIMED_START_EVENT", "d3/dcf/a03173.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6ac3776ff6343c84361329e38055da04", null ],
       [ "EVENT_CHECK_HEALTH_25", "d3/dcf/a03173.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ab4c8308b4dc44a86daf5ee851c990687", null ],
       [ "EVENT_CHECK_HEALTH_50", "d3/dcf/a03173.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a279f4abf2411c8e70eb459d7644bc65b", null ],

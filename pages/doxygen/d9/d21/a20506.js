@@ -1,6 +1,9 @@
 var a20506 =
 [
-    [ "npc_ulduar_rocket_strike_triggerAI", "d9/d95/a20510.html", "d9/d95/a20510" ],
-    [ "npc_ulduar_rocket_strike_trigger", "d9/d21/a20506.html#a41cc84b04124bb47c24b39a48c9023b1", null ],
-    [ "GetAI", "d9/d21/a20506.html#a7715ce6646efa3728c28c4e11b25c2ed", null ]
+    [ "npc_ulduar_emergency_fire_botAI", "d9/d21/a20506.html#a98ad3308b0fa56847ce6f5583bdfaba9", null ],
+    [ "AttackStart", "d9/d21/a20506.html#aa18e89f63e98112efeb69328f8fdc296", null ],
+    [ "MoveInLineOfSight", "d9/d21/a20506.html#a6384437fff9349df0cfa5053b37313ea", null ],
+    [ "MovementInform", "d9/d21/a20506.html#a2f7d5b821ea4bf80bd01d469859f6fb6", null ],
+    [ "UpdateAI", "d9/d21/a20506.html#a71d24eb5cea764011249b8ff78c3ed6c", null ],
+    [ "events", "d9/d21/a20506.html#a5099c03b3ab1eb437ea11a0c4e8650f1", null ]
 ];

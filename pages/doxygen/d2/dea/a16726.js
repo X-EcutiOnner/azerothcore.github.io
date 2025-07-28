@@ -1,5 +1,6 @@
 var a16726 =
 [
-    [ "achievement_consumption_junction", "d2/dea/a16726.html#aab08732c13f41e0e8d27e9f482bd7351", null ],
-    [ "OnCheck", "d2/dea/a16726.html#a14dae1bf9d4d7c79f11de40b372f353e", null ]
+    [ "HandleScriptEffect", "d2/dea/a16726.html#a90b13b2a093fdd430a383d7ea4126290", null ],
+    [ "PrepareSpellScript", "d2/dea/a16726.html#a96cc7aabf7af3b2e7f978173921d55cd", null ],
+    [ "Register", "d2/dea/a16726.html#a53c8d47ee21637055ad901946be1e2c2", null ]
 ];

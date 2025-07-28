@@ -1,6 +1,5 @@
 var a16662 =
 [
-    [ "boss_novosAI", "da/df8/a16666.html", "da/df8/a16666" ],
-    [ "boss_novos", "d2/dfd/a16662.html#a898a5ee1de69df17fde66c84dd065ac1", null ],
-    [ "GetAI", "d2/dfd/a16662.html#aaf28e2a23a8139197dccc92ae29a8be4", null ]
+    [ "achievement_better_off_dred", "d2/dfd/a16662.html#a1ff3442ab3e166a4001c4c10777bdf8a", null ],
+    [ "OnCheck", "d2/dfd/a16662.html#a9aab68b43fbf9f3c71c237b149f23b2d", null ]
 ];

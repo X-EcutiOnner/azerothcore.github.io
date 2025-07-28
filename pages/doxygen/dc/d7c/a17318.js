@@ -1,6 +1,7 @@
 var a17318 =
 [
-    [ "AddExtraDamage", "dc/d7c/a17318.html#adeedfdd7555dfd009c99db6f002f7488", null ],
-    [ "PrepareSpellScript", "dc/d7c/a17318.html#a5d5c32f102c525f6c25d12281a58f5f4", null ],
-    [ "Register", "dc/d7c/a17318.html#affe1d9a5e9c4776d1651fdb95283caf4", null ]
+    [ "HandleDummyTick", "dc/d7c/a17318.html#ac0aba414bc0f9f947b7bba9bd41f47b8", null ],
+    [ "PrepareAuraScript", "dc/d7c/a17318.html#a0e61ac6aa03aaad08d91883e587f1c40", null ],
+    [ "Register", "dc/d7c/a17318.html#a626900d1d0c8a471f4d100b2c2883a52", null ],
+    [ "Validate", "dc/d7c/a17318.html#aa6ea31d8757b42bdea42d30b758a9c6d", null ]
 ];

@@ -1,6 +1,6 @@
 var a04748 =
 [
-    [ "map_id", "db/d08/a28718.html", "db/d08/a28718" ],
+    [ "map_id", "d9/d51/a28714.html", "d9/d51/a28714" ],
     [ "_CRT_SECURE_NO_DEPRECATE", "dc/d42/a04748.html#a411c46599e926f8cdf49c63957255359", null ],
     [ "MPQ_BLOCK_SIZE", "dc/d42/a04748.html#a402d9c2814f85cee14f9bc8dbc999de8", null ],
     [ "ExtractSingleWmo", "dc/d42/a04748.html#afc9839262206eb10094c1769141ae146", null ],

@@ -1,7 +1,6 @@
 var a17686 =
 [
-    [ "FilterTargets", "de/d2a/a17686.html#a77afd0b56c9bddd74999d5df30457b7f", null ],
-    [ "HandleDummy", "de/d2a/a17686.html#a04166e4e5a4ba082755433555855cb30", null ],
-    [ "PrepareSpellScript", "de/d2a/a17686.html#aaefa58014db12fb76e3416ae807c69e8", null ],
-    [ "Register", "de/d2a/a17686.html#a497ee30669d45341023abe549c91ddaf", null ]
+    [ "BurningPitchFilterCheck", "de/d2a/a17686.html#a11a4816f3d29cb1a6c4845cdaaeaa3cf", null ],
+    [ "operator()", "de/d2a/a17686.html#a24be987c8471d8a7096025debf6e60b1", null ],
+    [ "_entry", "de/d2a/a17686.html#a7bd20aed2db0e24ad34cbcc94d9a89d6", null ]
 ];

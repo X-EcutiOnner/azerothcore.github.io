@@ -1,11 +1,11 @@
 var a03335 =
 [
-    [ "LivingPoisonData", "d5/de6/a19194.html", "d5/de6/a19194" ],
-    [ "instance_naxxramas", "d9/d8b/a19198.html", "d9/d8b/a19198" ],
-    [ "npc_mr_bigglesworth", "d2/d40/a19202.html", "d2/d40/a19202" ],
-    [ "npc_living_poison", "df/d28/a19206.html", "df/d28/a19206" ],
-    [ "npc_naxxramas_trigger", "de/d47/a19210.html", "de/d47/a19210" ],
-    [ "at_naxxramas_hub_portal", "d4/dbd/a19214.html", "d4/dbd/a19214" ],
+    [ "LivingPoisonData", "d9/d8b/a19198.html", "d9/d8b/a19198" ],
+    [ "instance_naxxramas", "d2/d40/a19202.html", "d2/d40/a19202" ],
+    [ "npc_mr_bigglesworth", "df/d28/a19206.html", "df/d28/a19206" ],
+    [ "npc_living_poison", "de/d47/a19210.html", "de/d47/a19210" ],
+    [ "npc_naxxramas_trigger", "d4/dbd/a19214.html", "d4/dbd/a19214" ],
+    [ "at_naxxramas_hub_portal", "d3/db9/a19218.html", "d3/db9/a19218" ],
     [ "AddSC_instance_naxxramas", "d9/db1/a03335.html#aba1e1afda4423e51a1849a33da49a334", null ],
     [ "creatureData", "d9/db1/a03335.html#a412286b689bd324fedd65ddd8dde8afb", null ],
     [ "doorData", "d9/db1/a03335.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],

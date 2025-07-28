@@ -1,6 +1,7 @@
 var a20378 =
 [
-    [ "OnRemoveStun", "dd/db9/a20378.html#a67aeca34d32c43ff647dc2dbe83cbb7f", null ],
-    [ "PrepareAuraScript", "dd/db9/a20378.html#a0be1d9a7dcba0bff75d59aed926efe55", null ],
-    [ "Register", "dd/db9/a20378.html#a3166cfcd2acdcd4460217503d4008367", null ]
+    [ "FilterTargetsInitial", "dd/db9/a20378.html#a2477349cffb8da02936545ba0bd03d0f", null ],
+    [ "Load", "dd/db9/a20378.html#a4606d10a2699e3fb5290cefdc0876505", null ],
+    [ "PrepareSpellScript", "dd/db9/a20378.html#aa28f3565bddf70b98c945be7a7a37bad", null ],
+    [ "Register", "dd/db9/a20378.html#ae9bbe2d4ce5413f040b8b5f73f985822", null ]
 ];

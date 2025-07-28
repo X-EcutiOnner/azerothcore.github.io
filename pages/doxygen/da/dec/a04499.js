@@ -1,9 +1,9 @@
 var a04499 =
 [
-    [ "instance_shadowfang_keep", "d3/d6e/a13146.html", "d3/d6e/a13146" ],
-    [ "instance_shadowfang_keep::instance_shadowfang_keep_InstanceMapScript", "da/d57/a13150.html", "da/d57/a13150" ],
-    [ "spell_shadowfang_keep_haunting_spirits_aura", "d1/d76/a13154.html", "d1/d76/a13154" ],
-    [ "spell_shadowfang_keep_forsaken_skills_aura", "d1/d2d/a13158.html", "d1/d2d/a13158" ],
+    [ "instance_shadowfang_keep", "da/d57/a13150.html", "da/d57/a13150" ],
+    [ "instance_shadowfang_keep::instance_shadowfang_keep_InstanceMapScript", "d1/d76/a13154.html", "d1/d76/a13154" ],
+    [ "spell_shadowfang_keep_haunting_spirits_aura", "d1/d2d/a13158.html", "d1/d2d/a13158" ],
+    [ "spell_shadowfang_keep_forsaken_skills_aura", "df/df0/a13162.html", "df/df0/a13162" ],
     [ "ForsakenSpells", "da/dec/a04499.html#a389d5779db9178608ade2fdc2e7a2d66", [
       [ "SPELL_FORSAKEN_SKILL_SWORD", "da/dec/a04499.html#a389d5779db9178608ade2fdc2e7a2d66a66434c0d78770abb5cb5e3a50074f5cb", null ],
       [ "SPELL_FORSAKEN_SKILL_SHADOW", "da/dec/a04499.html#a389d5779db9178608ade2fdc2e7a2d66ab350c0bad170d89027779476282a594c", null ]

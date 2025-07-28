@@ -1,5 +1,6 @@
 var a17850 =
 [
-    [ "npc_volatile_oozeAI", "d4/d7d/a17850.html#af042d4c22482aabcdad6fa867dfe093f", null ],
-    [ "CastMainSpell", "d4/d7d/a17850.html#a91890785174ecc60c9553a0aedf1961b", null ]
+    [ "npc_volatile_oozeAI", "d3/dfd/a17854.html", "d3/dfd/a17854" ],
+    [ "npc_volatile_ooze", "d4/d7d/a17850.html#a22847e44812a0b13b92cfcca3a70204e", null ],
+    [ "GetAI", "d4/d7d/a17850.html#a66b4918c14d90d5550ddc8dbe90c2e01", null ]
 ];

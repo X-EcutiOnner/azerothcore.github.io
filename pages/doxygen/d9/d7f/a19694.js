@@ -1,6 +1,6 @@
 var a19694 =
 [
-    [ "npc_collapsing_starAI", "d9/d7f/a19694.html#ac389b380a8f315ae50a8cd809393a773", null ],
-    [ "DamageTaken", "d9/d7f/a19694.html#a424fac98093eb9d02cda5027523ad06a", null ],
-    [ "JustSummoned", "d9/d7f/a19694.html#ae70fcb66171fe5f87d96aaf2f52e35bc", null ]
+    [ "npc_collapsing_starAI", "de/da7/a19698.html", "de/da7/a19698" ],
+    [ "npc_collapsing_star", "d9/d7f/a19694.html#a8d57987c9b4622746d4f42a2b4845b9e", null ],
+    [ "GetAI", "d9/d7f/a19694.html#a346af96d122e64c68defdeccb9183cd4", null ]
 ];
