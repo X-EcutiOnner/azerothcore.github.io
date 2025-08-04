@@ -1,6 +1,6 @@
 var a04010 =
 [
-    [ "ban_commandscript", "dc/ddc/a11590.html", "dc/ddc/a11590" ],
+    [ "ban_commandscript", "de/d53/a11594.html", "de/d53/a11594" ],
     [ "BanMode", "df/d75/a04010.html#aee9acfaac97a86a40bad738a75eb5264", [
       [ "BAN_ACCOUNT", "df/d75/a04010.html#aee9acfaac97a86a40bad738a75eb5264a7092b1d29da920594bf62c7abe0e9ba1", null ],
       [ "BAN_CHARACTER", "df/d75/a04010.html#aee9acfaac97a86a40bad738a75eb5264ab7cde4c4b1dd975c191f10ab0b18ab79", null ],

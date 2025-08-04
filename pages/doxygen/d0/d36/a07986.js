@@ -280,7 +280,6 @@ var a07986 =
     [ "m_formation", "d0/d36/a07986.html#a9e3eb5b77311ca48eefb35e5b42fc4c4", null ],
     [ "m_groupLootTimer", "d0/d36/a07986.html#af446524f197ae14e4f4b46a9f247f223", null ],
     [ "m_homePosition", "d0/d36/a07986.html#a8d8cf2319d50d4e5c4fb0ef6a77a766b", null ],
-    [ "m_isTempWorldObject", "d0/d36/a07986.html#ac1efcd3fa52a0d26b454c2ca8d883821", null ],
     [ "m_lastLeashExtensionTime", "d0/d36/a07986.html#a152914bc60d50b2d8847a7381a4d641a", null ],
     [ "m_LootMode", "d0/d36/a07986.html#a8bdc5ca164a209df25c5f13868b407a8", null ],
     [ "m_lootRecipient", "d0/d36/a07986.html#a8d81cc6fed0cd3f54d2665ca6501086a", null ],

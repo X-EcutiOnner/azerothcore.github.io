@@ -1,10 +1,9 @@
 var a15530 =
 [
-    [ "npc_thrall_warchiefAI", "d4/d4b/a15530.html#ada9c79c1591a8bd28c66329dc7c5d3dc", null ],
-    [ "DoAction", "d4/d4b/a15530.html#a511da19703e30f6e82e59c5223bf2770", null ],
-    [ "JustEngagedWith", "d4/d4b/a15530.html#a994a9030e2d8c5afaa66c21897e54f82", null ],
-    [ "Reset", "d4/d4b/a15530.html#a920a29258228c9c2e7e0791d38b648e1", null ],
-    [ "UpdateAI", "d4/d4b/a15530.html#a537ed9f2d0a638d01e877d9ca1e7fdf0", null ],
-    [ "ChainLightningTimer", "d4/d4b/a15530.html#ab30df9277fc84f098e0bdd70a2ab3795", null ],
-    [ "ShockTimer", "d4/d4b/a15530.html#aa8609f8824f68ce7259465284c01dd35", null ]
+    [ "npc_thrall_warchiefAI", "d0/de0/a15534.html", "d0/de0/a15534" ],
+    [ "npc_thrall_warchief", "d4/d4b/a15530.html#a3958f0b444537ac8a5ebf55de44e3590", null ],
+    [ "GetAI", "d4/d4b/a15530.html#a4fc3d5410b959b4289f1ced17d412c03", null ],
+    [ "OnGossipHello", "d4/d4b/a15530.html#a5cd40c062fb07d2ddfffdc159f2935d3", null ],
+    [ "OnGossipSelect", "d4/d4b/a15530.html#a63367ca0b252c148f625b305575fd768", null ],
+    [ "OnQuestReward", "d4/d4b/a15530.html#a6576664c201d62cab1fa2f073cddee6e", null ]
 ];

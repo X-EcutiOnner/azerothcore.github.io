@@ -1,6 +1,6 @@
 var a27242 =
 [
-    [ "go_l70_etc_musicAI", "df/dea/a27242.html#a1709414fc40d48ac7c13eb8251dfbb26", null ],
-    [ "UpdateAI", "df/dea/a27242.html#a182a5a9bbe53ced25740de9a4a368469", null ],
-    [ "_events", "df/dea/a27242.html#aa0cda672b4491b3cfc75214038aa2132", null ]
+    [ "go_l70_etc_musicAI", "d4/d20/a27246.html", "d4/d20/a27246" ],
+    [ "go_l70_etc_music", "df/dea/a27242.html#a766dccca12fc7959273ba1e3a278564f", null ],
+    [ "GetAI", "df/dea/a27242.html#a5231ffc778830f8a49ae85a8c1173deb", null ]
 ];

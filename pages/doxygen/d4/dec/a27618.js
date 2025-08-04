@@ -1,5 +1,6 @@
 var a27618 =
 [
-    [ "npc_pet_trainerAI", "d4/dec/a27618.html#aa5c01fd7cf2b9fad15a3059b4fe38d13", null ],
-    [ "sGossipSelect", "d4/dec/a27618.html#a6768c8f8f5e37058f85cb40d35caad72", null ]
+    [ "npc_pet_trainerAI", "de/d34/a27622.html", "de/d34/a27622" ],
+    [ "npc_pet_trainer", "d4/dec/a27618.html#ac2279bce52e911b1c339da5e68aa2501", null ],
+    [ "GetAI", "d4/dec/a27618.html#a4ecf9ac0abf43a00dc6bff2d2283eb37", null ]
 ];

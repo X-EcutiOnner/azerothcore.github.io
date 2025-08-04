@@ -1,5 +1,7 @@
 var a13506 =
 [
-    [ "npc_maredis_firestarAI", "d4/df0/a13510.html", "d4/df0/a13510" ],
-    [ "npc_maredis_firestar", "dd/d57/a13506.html#a91015d70203597db3dda10b695565740", null ]
+    [ "HandleScriptEffect", "dd/d57/a13506.html#aa537704c2066df4f5b4c60a775026a83", null ],
+    [ "PrepareSpellScript", "dd/d57/a13506.html#ac500902c22102ebfc6dcf6f78f0dd8c1", null ],
+    [ "Register", "dd/d57/a13506.html#a1d9cfdc65bd5ae76376e709d0ac891c0", null ],
+    [ "Validate", "dd/d57/a13506.html#a9ef5a491b5a06c31cdb0249dc086e32f", null ]
 ];

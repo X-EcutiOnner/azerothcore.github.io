@@ -1,6 +1,8 @@
 var a12894 =
 [
-    [ "npc_scarlet_cannonAI", "d4/d1e/a12898.html", "d4/d1e/a12898" ],
-    [ "npc_scarlet_cannon", "dc/de4/a12894.html#a10bb35cbbdae3508a2300ba3dacc1ea3", null ],
-    [ "GetAI", "dc/de4/a12894.html#ae2b74a4dab4b34f026fd17d5ed381c99", null ]
+    [ "npc_dkc1_gothikAI", "dc/de4/a12894.html#a35e65bd943f86ba3a1d6841569289df6", null ],
+    [ "DoAction", "dc/de4/a12894.html#a3193c562973bbf995ab5e0173a93d01f", null ],
+    [ "MoveInLineOfSight", "dc/de4/a12894.html#ac2ee224af001a78aa00013f6c8c9ad3d", null ],
+    [ "UpdateAI", "dc/de4/a12894.html#a346d32c9831babe6fb5f675b70b7a897", null ],
+    [ "spoken", "dc/de4/a12894.html#ac6f32e953a66f9e96ddc99b663014b0c", null ]
 ];

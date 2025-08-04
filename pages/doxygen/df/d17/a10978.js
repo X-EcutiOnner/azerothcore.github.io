@@ -1,8 +1,6 @@
 var a10978 =
 [
-    [ "PacketFilter", "df/d17/a10978.html#accfa43359c62d2e9d6c38086c77374bd", null ],
-    [ "~PacketFilter", "df/d17/a10978.html#a669531cfd9c06d5cf525986069117687", null ],
-    [ "Process", "df/d17/a10978.html#a03679e3c241a535757608c63ca933ac9", null ],
-    [ "ProcessUnsafe", "df/d17/a10978.html#a3e2bdc6d15cfd5cac1b9c130937599e3", null ],
-    [ "m_pSession", "df/d17/a10978.html#ad3723289ea93f1095cf82584268335d9", null ]
+    [ "AccountData", "df/d17/a10978.html#a593303fb86ec3ac592ee933b8d057fe8", null ],
+    [ "Data", "df/d17/a10978.html#aa45f3f93f643b4dd9ea4d269e3b5462d", null ],
+    [ "Time", "df/d17/a10978.html#a38b2049e50845641cc380b6786e68ac5", null ]
 ];

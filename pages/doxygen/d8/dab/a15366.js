@@ -1,6 +1,7 @@
 var a15366 =
 [
-    [ "npc_murkdeepAI", "d4/d4b/a15370.html", "d4/d4b/a15370" ],
-    [ "npc_murkdeep", "d8/dab/a15366.html#a72d44d786bcba4dea5ccedd33e7dbd3c", null ],
-    [ "GetAI", "d8/dab/a15366.html#ab9f8faa3adaf1f251e1248fbe0f46468", null ]
+    [ "npc_webbed_creatureAI", "d8/dab/a15366.html#a6b7507eda84c29d6bd557b1b424ee10a", null ],
+    [ "JustDied", "d8/dab/a15366.html#a153d461124ec9266ffcac147a217f6d9", null ],
+    [ "JustEngagedWith", "d8/dab/a15366.html#ac52ad6512bcaee35932f856abdac80d4", null ],
+    [ "Reset", "d8/dab/a15366.html#a459eaadd7f0145b7a1a6caf99d1e8a5d", null ]
 ];

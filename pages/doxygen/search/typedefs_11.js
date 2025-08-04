@@ -27,6 +27,6 @@ var searchData=
   ['questset_24',['QuestSet',['../dc/dd9/a08606.html#a8285f151cf46a73ee660234f2da420be',1,'Player']]],
   ['queststatusmap_25',['QuestStatusMap',['../df/d52/a02027.html#ae5397f2a53a6b2bbb11c9274300fbe2c',1,'Player.h']]],
   ['queststatussavemap_26',['QuestStatusSaveMap',['../df/d52/a02027.html#a5945409582f17231499dc3e5e942ac75',1,'Player.h']]],
-  ['queue_27',['Queue',['../d1/d5a/a11018.html#a79a045523b1d345710b7779264386464',1,'WorldSessionMgr']]],
+  ['queue_27',['Queue',['../d3/d74/a11022.html#a79a045523b1d345710b7779264386464',1,'WorldSessionMgr']]],
   ['queuedplayersmap_28',['QueuedPlayersMap',['../d0/d35/a07306.html#a89cff162564a81d8d23ca7f35940c2d3',1,'BattlegroundQueue']]]
 ];

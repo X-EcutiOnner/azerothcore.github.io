@@ -1,6 +1,5 @@
 var a11790 =
 [
-    [ "npc_av_marshal_or_warmasterAI", "df/df3/a11794.html", "df/df3/a11794" ],
-    [ "npc_av_marshal_or_warmaster", "d8/d59/a11790.html#a7ffc93248d66d50d5d75d1fcf1f907ee", null ],
-    [ "GetAI", "d8/d59/a11790.html#a295eee4baef6a53cf291fdf155cfdf4a", null ]
+    [ "npcEntry", "d8/d59/a11790.html#a866b12ea5416f36c36bbea1a35a6a490", null ],
+    [ "spellId", "d8/d59/a11790.html#a8c2fd26e0e9de5f9292c8b993ba9f9be", null ]
 ];

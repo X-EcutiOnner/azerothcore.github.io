@@ -1,5 +1,6 @@
 var a14482 =
 [
-    [ "PrepareSpellScript", "dc/d30/a14482.html#a3e1c670bbc7efb86b95a34ee3c8ba059", null ],
-    [ "Register", "dc/d30/a14482.html#a06111bf70ee53fee6e90284f8d92642e", null ]
+    [ "HandleAfterEffectApply", "dc/d30/a14482.html#a54b406a450bb2b56cd32ee152ea1414e", null ],
+    [ "PrepareAuraScript", "dc/d30/a14482.html#a917379c33352721b5b76c1d9dac0c025", null ],
+    [ "Register", "dc/d30/a14482.html#a846d79564d76d6000c2276045775d7da", null ]
 ];

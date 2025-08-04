@@ -456,9 +456,10 @@ template&lt;class T &gt; </div>
 <div class="line"><span class="lineno">  517</span>            <span class="stringliteral">&quot;If you are a developer, please fix your sql query.&quot;</span>,</div>
 <div class="line"><span class="lineno">  518</span>            path.generic_string(), pool.<a class="code hl_function" href="../../d3/d04/a05690.html#aa97cb925f2294d32bb1fbe23d6057867">GetConnectionInfo</a>()-&gt;<a class="code hl_variable" href="../../db/dd1/a05730.html#a7e65a418ad668772e4ce1b298d92f10a">database</a>);</div>
 <div class="line"><span class="lineno">  519</span> </div>
-<div class="line"><span class="lineno">  520</span>        <span class="keywordflow">throw</span> <a class="code hl_class" href="../../d8/d1d/a05886.html">UpdateException</a>(<span class="stringliteral">&quot;update failed&quot;</span>);</div>
-<div class="line"><span class="lineno">  521</span>    }</div>
-<div class="line"><span class="lineno">  522</span>}</div>
+<div class="line"><span class="lineno">  520</span>        <span class="keywordflow">if</span> (!<a class="code hl_define" href="../../d4/d13/a00377.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;isDryRun())</div>
+<div class="line"><span class="lineno">  521</span>            <span class="keywordflow">throw</span> <a class="code hl_class" href="../../d8/d1d/a05886.html">UpdateException</a>(<span class="stringliteral">&quot;update failed&quot;</span>);</div>
+<div class="line"><span class="lineno">  522</span>    }</div>
+<div class="line"><span class="lineno">  523</span>}</div>
 <div class="ttc" id="aa00056_html_a0e09b50c268dc6897a1c70aa46de936e"><div class="ttname"><a href="../../d9/d2e/a00056.html#a0e09b50c268dc6897a1c70aa46de936e">LOG_FATAL</a></div><div class="ttdeci">#define LOG_FATAL(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:154</div></div>
 <div class="ttc" id="aa00377_html_a7236988e98bdd405bf435a029b70a26f"><div class="ttname"><a href="../../d4/d13/a00377.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a></div><div class="ttdeci">#define sConfigMgr</div><div class="ttdef"><b>Definition:</b> Config.h:74</div></div>
 <div class="ttc" id="aa04776_html_a868406b9609960d4ae0189588c8cbbf4"><div class="ttname"><a href="../../db/d2a/a04776.html#a868406b9609960d4ae0189588c8cbbf4">Acore::StringFormat</a></div><div class="ttdeci">std::string StringFormat(FormatString&lt; Args... &gt; fmt, Args &amp;&amp;... args)</div><div class="ttdoc">Default AC string format function.</div><div class="ttdef"><b>Definition:</b> StringFormat.h:34</div></div>
@@ -1412,7 +1413,7 @@ template&lt;class T &gt; </div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../db/d9c/a05894.html">DBUpdater</a></li>
-    <li class="footer">Generated on Mon Jul 28 2025 20:51:37 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Aug 4 2025 20:51:28 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

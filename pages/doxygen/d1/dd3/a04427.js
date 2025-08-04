@@ -1,10 +1,10 @@
 var a04427 =
 [
-    [ "npc_deathstalker_erland", "dd/df4/a13626.html", "dd/df4/a13626" ],
-    [ "npc_deathstalker_erland::npc_deathstalker_erlandAI", "d1/db3/a13630.html", "d1/db3/a13630" ],
-    [ "npc_deathstalker_fearleia", "dd/dee/a13634.html", "dd/dee/a13634" ],
-    [ "npc_ravenclaw_apparition", "d5/def/a13638.html", "d5/def/a13638" ],
-    [ "npc_ravenclaw_apparition::npc_ravenclaw_apparitionAI", "da/de2/a13642.html", "da/de2/a13642" ],
+    [ "npc_deathstalker_erland", "d1/db3/a13630.html", "d1/db3/a13630" ],
+    [ "npc_deathstalker_erland::npc_deathstalker_erlandAI", "dd/dee/a13634.html", "dd/dee/a13634" ],
+    [ "npc_deathstalker_fearleia", "d5/def/a13638.html", "d5/def/a13638" ],
+    [ "npc_ravenclaw_apparition", "da/de2/a13642.html", "da/de2/a13642" ],
+    [ "npc_ravenclaw_apparition::npc_ravenclaw_apparitionAI", "d1/d3e/a13646.html", "d1/d3e/a13646" ],
     [ "ApparitionEvents", "d1/dd3/a04427.html#ac7d12f884ef22dca36021fe54df83416", [
       [ "EVENT_APPA_INTRO", "d1/dd3/a04427.html#ac7d12f884ef22dca36021fe54df83416acb7d83e4f63d87d9e07acd3fe790cf3f", null ],
       [ "EVENT_APPA_SAY_1", "d1/dd3/a04427.html#ac7d12f884ef22dca36021fe54df83416a5a70df4d34c2d8566d6f1f2223da8358", null ],

@@ -1,5 +1,5 @@
 var a28518 =
 [
-    [ "ByteBufferSourceException", "d9/dbf/a28518.html#ad021dff8a62dfc170ef0233294b707f6", null ],
-    [ "~ByteBufferSourceException", "d9/dbf/a28518.html#afaf57c545141703ffbe696cfbee6de0f", null ]
+    [ "ByteBufferPositionException", "d9/dbf/a28518.html#a6c2e31012a8ccf20d52c6431e024a576", null ],
+    [ "~ByteBufferPositionException", "d9/dbf/a28518.html#aba8b7764a5517fa3e4a26d7ced1ad38f", null ]
 ];

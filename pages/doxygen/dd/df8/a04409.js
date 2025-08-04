@@ -1,7 +1,7 @@
 var a04409 =
 [
-    [ "npc_partygoer_pather", "d3/d18/a13554.html", "d3/d18/a13554" ],
-    [ "npc_partygoer", "dd/d9c/a13558.html", "dd/d9c/a13558" ],
+    [ "npc_partygoer_pather", "dd/d9c/a13558.html", "dd/d9c/a13558" ],
+    [ "npc_partygoer", "d5/d41/a13562.html", "d5/d41/a13562" ],
     [ "Partygoer", "dd/df8/a04409.html#a2426dcce5ddc33ba72e2c0ebe9c88e1e", [
       [ "EVENT_RANDOM_ACTION", "dd/df8/a04409.html#a2426dcce5ddc33ba72e2c0ebe9c88e1eacb43fc5be7eecf527a639a9122091f96", null ],
       [ "EVENT_REMOVE_EQUIPMENT", "dd/df8/a04409.html#a2426dcce5ddc33ba72e2c0ebe9c88e1ea37faceace884bd7a013b0d5dd0fac886", null ],

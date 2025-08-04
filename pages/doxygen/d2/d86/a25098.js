@@ -1,7 +1,7 @@
 var a25098 =
 [
-    [ "HandleDummy", "d2/d86/a25098.html#ab00358dc50fa943685fdd87e5a8ac224", null ],
-    [ "Load", "d2/d86/a25098.html#a31075533c24011797bd0f99dce5e8330", null ],
-    [ "PrepareSpellScript", "d2/d86/a25098.html#abf0acc8765f6e02674b8e93aca575a98", null ],
-    [ "Register", "d2/d86/a25098.html#ad1bd05a154b506424954ef879e5b9fba", null ]
+    [ "HandleDummy", "d2/d86/a25098.html#a582208e608c9fdca7464b817c76c13b3", null ],
+    [ "PrepareSpellScript", "d2/d86/a25098.html#ac7abb7e01362a3333c0d73cd19dcee30", null ],
+    [ "Register", "d2/d86/a25098.html#a3882606b9e9201163cf76cb20b8e6364", null ],
+    [ "Validate", "d2/d86/a25098.html#a12a1cb4b6131d5959f6f541da5e8fc00", null ]
 ];

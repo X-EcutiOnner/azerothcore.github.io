@@ -1,6 +1,5 @@
 var a11846 =
 [
-    [ "npc_grimstoneAI", "d7/d90/a11850.html", "d7/d90/a11850" ],
-    [ "npc_grimstone", "db/d3d/a11846.html#ae5c3e36bf18cb30dd4fc7cd5e7a72cfb", null ],
-    [ "GetAI", "db/d3d/a11846.html#a24cf0aa69ac28c13ac3c44e14c35406c", null ]
+    [ "at_ring_of_law", "db/d3d/a11846.html#ad9bb44e898f90fb489b50cad0a711976", null ],
+    [ "OnTrigger", "db/d3d/a11846.html#a613471caae75ab3d82ce915101a20108", null ]
 ];

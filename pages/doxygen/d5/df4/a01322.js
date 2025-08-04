@@ -15,7 +15,8 @@ var a01322 =
       [ "Reputation", "d5/df4/a01322.html#ab25c41bc314095f74fe678a33e086a2ba8d9bec4f224970e231041639de877092", null ],
       [ "Faction", "d5/df4/a01322.html#ab25c41bc314095f74fe678a33e086a2ba3dcd53a8339c060c69c660b1b89b5201", null ],
       [ "Race", "d5/df4/a01322.html#ab25c41bc314095f74fe678a33e086a2ba4e221fc084bb69a82315a154d6dd7879", null ],
-      [ "Class", "d5/df4/a01322.html#ab25c41bc314095f74fe678a33e086a2ba9bd81329febf6efe22788e03ddeaf0af", null ]
+      [ "Class", "d5/df4/a01322.html#ab25c41bc314095f74fe678a33e086a2ba9bd81329febf6efe22788e03ddeaf0af", null ],
+      [ "AccountFlags", "d5/df4/a01322.html#ab25c41bc314095f74fe678a33e086a2ba1c14759edfa3dbd063ee9d758a175225", null ]
     ] ],
     [ "ServerMailConditionTypePairs", "d5/df4/a01322.html#af981b509cb816fa6720cf16cceaa9081", null ]
 ];

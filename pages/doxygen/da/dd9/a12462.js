@@ -1,6 +1,6 @@
 var a12462 =
 [
-    [ "boss_ragnarosAI", "df/d91/a12466.html", "df/d91/a12466" ],
-    [ "boss_ragnaros", "da/dd9/a12462.html#a47bd4dc50a0d05e8cbb75c1a5a52c9b5", null ],
-    [ "GetAI", "da/dd9/a12462.html#af54e36608e160811ca06952fd2c63f6e", null ]
+    [ "HandleHit", "da/dd9/a12462.html#a5245f935c0cafd14e492214a51d85ad3", null ],
+    [ "PrepareSpellScript", "da/dd9/a12462.html#a074b9e23de0a9b24776c7e361791c6ff", null ],
+    [ "Register", "da/dd9/a12462.html#a12f7db2345ce0d19a18791a2e63e7450", null ]
 ];

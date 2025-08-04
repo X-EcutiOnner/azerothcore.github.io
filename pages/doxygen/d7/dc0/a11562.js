@@ -1,7 +1,9 @@
 var a11562 =
 [
-    [ "map", "d7/dc0/a11562.html#ab52fa79b07a9fad5b0cf8a28669a94eb", null ],
-    [ "pallid", "d7/dc0/a11562.html#a0693df9090f40b7b1b8dba0003b6092e", null ],
-    [ "pallidGuid", "d7/dc0/a11562.html#ae78b3d7448e8f43a993f46208039f0b1", null ],
-    [ "zoneId", "d7/dc0/a11562.html#ad035d67dce95aa1ad7a1f39b1cf7b847", null ]
+    [ "map", "d7/dc0/a11562.html#a274c6d61203c24b3c680055244e1f590", null ],
+    [ "mouth", "d7/dc0/a11562.html#aa785f3badb9c898d24efdf6d42fb8a7f", null ],
+    [ "mouthGuid", "d7/dc0/a11562.html#a2245c14e379c83bdd47165e829de2e41", null ],
+    [ "necropolisCount", "d7/dc0/a11562.html#aec44e315616920ba8224be8c4831f5e9", null ],
+    [ "remainingNecropoli", "d7/dc0/a11562.html#a3c18c61fcd44c32f9e0009479db85399", null ],
+    [ "zoneId", "d7/dc0/a11562.html#a98e1490705f74627cf9e5483857f3f25", null ]
 ];

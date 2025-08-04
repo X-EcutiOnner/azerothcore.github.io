@@ -1,6 +1,7 @@
 var a27658 =
 [
-    [ "npc_venomhide_hatchlingAI", "dd/d1b/a27658.html#aa5929973ae39166ef381a3ed3c42a29c", null ],
-    [ "IsSummonedBy", "dd/d1b/a27658.html#a6e1b76f43217f1eb855b50d58a069518", null ],
-    [ "SpellHit", "dd/d1b/a27658.html#ac6c255438dc2f6c750ee47b61fbc20a3", null ]
+    [ "npc_venomhide_hatchlingAI", "de/d61/a27662.html", "de/d61/a27662" ],
+    [ "npc_venomhide_hatchling", "dd/d1b/a27658.html#a4dc217dd5950db7b270b7cce3e594e4d", null ],
+    [ "GetAI", "dd/d1b/a27658.html#a96110b752965d751ab7b466c4f67e333", null ],
+    [ "OnGossipHello", "dd/d1b/a27658.html#a404d875592b847ddb9f3250c9d954bfc", null ]
 ];

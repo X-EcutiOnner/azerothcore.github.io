@@ -1,7 +1,10 @@
 var a15706 =
 [
-    [ "npc_ringoAI", "d6/dc4/a15710.html", "d6/dc4/a15710" ],
-    [ "npc_ringo", "d1/dc1/a15706.html#aabccd10a446986487bbb09fc2d33cfd9", null ],
-    [ "GetAI", "d1/dc1/a15706.html#aee6c9988f0c038c74b0deb3d44617ef1", null ],
-    [ "OnQuestAccept", "d1/dc1/a15706.html#abdf4e5e1b26c1b1a288047e24188ad10", null ]
+    [ "npc_ameAI", "d1/dc1/a15706.html#ad3d0ee584859b2b0fb7c6c5dbf204ad6", null ],
+    [ "JustDied", "d1/dc1/a15706.html#a9b77f94f112477509c3163945ceb8201", null ],
+    [ "JustSummoned", "d1/dc1/a15706.html#ab09c72c4ea50313c23a53d3862aeddea", null ],
+    [ "Reset", "d1/dc1/a15706.html#a0bda0f95bd97b9e755a745a8ea41ba49", null ],
+    [ "UpdateAI", "d1/dc1/a15706.html#a0a073e4c216985607aa51099044ff6c5", null ],
+    [ "WaypointReached", "d1/dc1/a15706.html#a44b06a6a977d20b03ed663f1090ed43c", null ],
+    [ "DemoralizingShoutTimer", "d1/dc1/a15706.html#ab5d1786735adea4bce1bba8adf42a877", null ]
 ];

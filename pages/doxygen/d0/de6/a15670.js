@@ -1,7 +1,7 @@
 var a15670 =
 [
-    [ "npc_paoka_swiftmountainAI", "d2/d2f/a15674.html", "d2/d2f/a15674" ],
-    [ "npc_paoka_swiftmountain", "d0/de6/a15670.html#abb3f6fab7cca158c2e139159430f880a", null ],
-    [ "GetAI", "d0/de6/a15670.html#a3f41d2caae5acb4b79bcc75780db03d2", null ],
-    [ "OnQuestAccept", "d0/de6/a15670.html#a5bd4442350daf5a19bee1037a1b4d7b3", null ]
+    [ "npc_lakota_windsongAI", "d0/de6/a15670.html#a922172a38ca75adef66a2653eda7fa98", null ],
+    [ "DoSpawnBandits", "d0/de6/a15670.html#aa63601ac87b674cb5d0594213d1e7ea9", null ],
+    [ "Reset", "d0/de6/a15670.html#aee7a86275f93021e0e5db249b636bcd4", null ],
+    [ "WaypointReached", "d0/de6/a15670.html#a6435c8b1521206789131889e5fa527a6", null ]
 ];

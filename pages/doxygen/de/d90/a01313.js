@@ -1,6 +1,6 @@
 var a01313 =
 [
-    [ "Movement::FacingInfo", "de/df4/a10074.html", "de/df4/a10074" ],
-    [ "Movement::MoveSplineInitArgs", "d2/d7a/a10082.html", "d2/d7a/a10082" ],
+    [ "Movement::FacingInfo", "d6/dd8/a10078.html", "d6/dd8/a10078" ],
+    [ "Movement::MoveSplineInitArgs", "d7/de1/a10086.html", "d7/de1/a10086" ],
     [ "PointsArray", "de/d90/a01313.html#a86528b2e04ddf38b80888e45d6b9c37d", null ]
 ];

@@ -1,7 +1,7 @@
 var a01556 =
 [
-    [ "SkillPerfectItemEntry", "de/d25/a11046.html", "de/d25/a11046" ],
-    [ "SkillExtraItemEntry", "d8/d06/a11050.html", "d8/d06/a11050" ],
+    [ "SkillPerfectItemEntry", "d8/d06/a11050.html", "d8/d06/a11050" ],
+    [ "SkillExtraItemEntry", "d7/d0b/a11054.html", "d7/d0b/a11054" ],
     [ "SkillExtraItemMap", "d7/db6/a01556.html#a9ba2d7d2e815aee57a701990b858db7b", null ],
     [ "SkillPerfectItemMap", "d7/db6/a01556.html#ad732be66d93ed6e8f498077f27e2766b", null ],
     [ "canCreateExtraItems", "d7/db6/a01556.html#a49687e255d65fa15dac5e6a428c5739d", null ],

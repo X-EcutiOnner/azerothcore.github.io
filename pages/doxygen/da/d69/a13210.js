@@ -1,9 +1,6 @@
 var a13210 =
 [
-    [ "boss_brutallus", "da/d69/a13210.html#a501c898505eb4265edee1546bc54713e", null ],
-    [ "AttackStart", "da/d69/a13210.html#a05edf7010f4e7364399bc81582502219", null ],
-    [ "JustDied", "da/d69/a13210.html#a48ae6589613f2ac90a499b9b6ae07d01", null ],
-    [ "JustEngagedWith", "da/d69/a13210.html#a04ff0c07c578c3b92cf45d1ed27fb883", null ],
-    [ "KilledUnit", "da/d69/a13210.html#a608607d83680da85f91324ce0035804b", null ],
-    [ "Reset", "da/d69/a13210.html#a20ad64739072e39e7ff3132c6f637af7", null ]
+    [ "HandleSendEvent", "da/d69/a13210.html#ad245a7dcf129774b8ef3e3653b3e3026", null ],
+    [ "PrepareSpellScript", "da/d69/a13210.html#ad9dfe5b2702540eb119ec86cfbd0ff30", null ],
+    [ "Register", "da/d69/a13210.html#a0b5ac8cfc4eb4adadb653a81a59a8287", null ]
 ];

@@ -1,7 +1,7 @@
 var a26590 =
 [
-    [ "CalculateAmount", "dc/de4/a26590.html#aefeab4e58c1b5c1be87f583256d366f5", null ],
-    [ "Load", "dc/de4/a26590.html#ae2ef0eae77137c120ec61af8698677db", null ],
-    [ "PrepareAuraScript", "dc/de4/a26590.html#acaecc78c031aa436f432fd7145478de4", null ],
-    [ "Register", "dc/de4/a26590.html#afd27c8bc5fd1628b7e32bf464bfe3d48", null ]
+    [ "HandleEffectPeriodic", "dc/de4/a26590.html#abb9ec1dd08954e80cf6dbcacbe44e2ba", null ],
+    [ "PrepareAuraScript", "dc/de4/a26590.html#ae151331af09510cc91b63b65a30bdcbf", null ],
+    [ "Register", "dc/de4/a26590.html#ac2e23fa8c9cfec9b9689512f3363a56e", null ],
+    [ "Validate", "dc/de4/a26590.html#ad5cc7a5aa1164092f267071c82752bb5", null ]
 ];

@@ -1,8 +1,8 @@
 var a04310 =
 [
-    [ "boss_jeklik", "d8/d47/a14006.html", "d8/d47/a14006" ],
-    [ "npc_batrider", "d7/d3f/a14010.html", "d7/d3f/a14010" ],
-    [ "spell_batrider_bomb", "d8/da9/a14014.html", "d8/da9/a14014" ],
+    [ "boss_jeklik", "d7/d3f/a14010.html", "d7/d3f/a14010" ],
+    [ "npc_batrider", "d8/da9/a14014.html", "d8/da9/a14014" ],
+    [ "spell_batrider_bomb", "dd/d8f/a14018.html", "dd/d8f/a14018" ],
     [ "BatIds", "d2/dfc/a04310.html#a3b3d24c3d210da1467e82670d75b702c", [
       [ "NPC_BLOODSEEKER_BAT", "d2/dfc/a04310.html#a3b3d24c3d210da1467e82670d75b702ca3bdc4a48ebcc2262d98ef45c756dea14", null ],
       [ "NPC_BATRIDER", "d2/dfc/a04310.html#a3b3d24c3d210da1467e82670d75b702ca7d8c3cd30d5f7194b465e3cfd2fdc310", null ]
@@ -1979,13 +1979,6 @@ var a04310 =
       [ "SPELL_VENOM_BOLT_VOLLEY", "d9/dc1/a03194.html#a5bd342133be8c2137b831460acc9298ca2db10fb946533519d7010ed5ec527b71", null ],
       [ "SPELL_REMOVE_MUSHROOM_POWER", "d9/dc1/a03194.html#a5bd342133be8c2137b831460acc9298ca9223156ca767b90509d90856d8990151", null ],
       [ "SPELL_HEALTHY_MUSHROOM_POTENT_FUNGUS", "d9/dc1/a03194.html#a5bd342133be8c2137b831460acc9298cacfee1df99a268084a03b22bec413c6e6", null ],
-      [ "SPELL_POISONOUS_MUSHROOM_POISON_CLOUD", "d9/dc1/a03194.html#a5bd342133be8c2137b831460acc9298ca991c0f90f376592d022da308adb16b2c", null ],
-      [ "SPELL_POISONOUS_MUSHROOM_VISUAL_AURA", "d9/dc1/a03194.html#a5bd342133be8c2137b831460acc9298cae53c042534f08c572487ad84acd05873", null ],
-      [ "SPELL_POISONOUS_MUSHROOM_VISUAL_AREA", "d9/dc1/a03194.html#a5bd342133be8c2137b831460acc9298caa35a4616c5286bb58af7df12a4f53704", null ],
-      [ "SPELL_HEALTHY_MUSHROOM_VISUAL_AURA", "d9/dc1/a03194.html#a5bd342133be8c2137b831460acc9298ca1483bf48a78dd7102f1a12ceeeec1844", null ],
-      [ "SPELL_PUTRID_MUSHROOM", "d9/dc1/a03194.html#a5bd342133be8c2137b831460acc9298cafc68134944ca511ff138e50e24055f2d", null ],
-      [ "SPELL_GROW", "d9/dc1/a03194.html#a5bd342133be8c2137b831460acc9298caec85cc617ef32ec7ad6edfa8a467f200", null ],
-      [ "SPELL_SHRINK", "d9/dc1/a03194.html#a5bd342133be8c2137b831460acc9298ca049e0d56c3f30d8991dde2beae302c4f", null ],
       [ "SPELL_BROOD_PLAGUE", "dd/d71/a03182.html#a5bd342133be8c2137b831460acc9298caf9c6724ab743e7fa3824864cd397ca95", null ],
       [ "SPELL_BROOD_RAGE_H", "dd/d71/a03182.html#a5bd342133be8c2137b831460acc9298ca92e635e57290acbf8ac9efe15d1f99f6", null ],
       [ "SPELL_ENRAGE", "dd/d71/a03182.html#a5bd342133be8c2137b831460acc9298ca2a20f56307679be4d4f01a0d3d93cc7e", null ],

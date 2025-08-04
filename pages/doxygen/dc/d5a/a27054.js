@@ -1,8 +1,11 @@
 var a27054 =
 [
-    [ "CharacterActionIpLogger", "dc/d5a/a27054.html#a39861f7348a79031a8215b435ba81059", null ],
-    [ "CharacterIPLogAction", "dc/d5a/a27054.html#abf461fe7e7d89057aeb122abbd27e30e", null ],
-    [ "OnPlayerCreate", "dc/d5a/a27054.html#a48844efac9d9af9c6415ad49d2473688", null ],
-    [ "OnPlayerLogin", "dc/d5a/a27054.html#a753ed387ea50eaf4c56846eab33cdfc0", null ],
-    [ "OnPlayerLogout", "dc/d5a/a27054.html#a3a4bcaf033e71e2dbeddc2ee6528494e", null ]
+    [ "AccountActionIpLogger", "dc/d5a/a27054.html#a73cad77bd83243cb10c4a1b4d7081e0b", null ],
+    [ "AccountIPLogAction", "dc/d5a/a27054.html#a9c978dafb71e67b8b278806df507e34b", null ],
+    [ "OnAccountLogin", "dc/d5a/a27054.html#a2952adcd73d775b924671e5a69adaccb", null ],
+    [ "OnEmailChange", "dc/d5a/a27054.html#aa15d0cc4e6ed3818fa18a927074f5f0c", null ],
+    [ "OnFailedAccountLogin", "dc/d5a/a27054.html#a8225c45bcb83e1ddd91a8dcd0f7da9cd", null ],
+    [ "OnFailedEmailChange", "dc/d5a/a27054.html#a9fd73dc7b6954dfb4fc94a1f1288ccd2", null ],
+    [ "OnFailedPasswordChange", "dc/d5a/a27054.html#a0663e15ea1a29b3daa672c8b6a25548f", null ],
+    [ "OnPasswordChange", "dc/d5a/a27054.html#a4b71aa9c1790e6d4033d884a17ce0a2f", null ]
 ];

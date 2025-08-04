@@ -1,7 +1,6 @@
 var a10046 =
 [
-    [ "CommonInitializer", "dc/d25/a10046.html#ab472ff63e0178a3414630f743d4de906", null ],
-    [ "operator()", "dc/d25/a10046.html#aba4cce84b89416f54a0a25b1702a322c", null ],
-    [ "_time", "dc/d25/a10046.html#a483d83836ccbe90a842c09f7d4906436", null ],
-    [ "velocityInv", "dc/d25/a10046.html#ac2f731afc2aae338bb8b1b616b0a39c1", null ]
+    [ "FallInitializer", "dc/d25/a10046.html#a618345df62b821d286caadc7179b7d83", null ],
+    [ "operator()", "dc/d25/a10046.html#a7a9b294b6820e229cd95f4fc9bde825b", null ],
+    [ "start_elevation", "dc/d25/a10046.html#ab94604fb6eee50832001908c12044130", null ]
 ];

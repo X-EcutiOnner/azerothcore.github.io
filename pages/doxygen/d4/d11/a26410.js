@@ -1,7 +1,8 @@
 var a26410 =
 [
-    [ "HandleScript", "d4/d11/a26410.html#a1b20a7fb4487876f305aa3a8d493ed17", null ],
-    [ "PrepareSpellScript", "d4/d11/a26410.html#a5ac848029ef03f6779cf094f4b80dd24", null ],
-    [ "Register", "d4/d11/a26410.html#a3d378e0eac09b00792b293b2cd7f3192", null ],
-    [ "Validate", "d4/d11/a26410.html#a36963610ad939ec36848ff70185f47a2", null ]
+    [ "HandleDummy", "d4/d11/a26410.html#a50203f655a85ed5984fa549fbdcc1c65", null ],
+    [ "Load", "d4/d11/a26410.html#a510f81e77597ef55a87b4f77fa324b2b", null ],
+    [ "PrepareSpellScript", "d4/d11/a26410.html#ac8dcfed4a74c85121b8b6c39856f709b", null ],
+    [ "Register", "d4/d11/a26410.html#ae7ed739883e30015e99b6ab5d6cb3f39", null ],
+    [ "Validate", "d4/d11/a26410.html#a3820e716d20809896c84c1ca781af4d1", null ]
 ];

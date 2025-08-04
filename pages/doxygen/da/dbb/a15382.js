@@ -1,7 +1,11 @@
 var a15382 =
 [
-    [ "npc_prospector_remtravelAI", "da/da8/a15386.html", "da/da8/a15386" ],
-    [ "npc_prospector_remtravel", "da/dbb/a15382.html#aa213161fc60e615682252125f6c58f7f", null ],
-    [ "GetAI", "da/dbb/a15382.html#aa8e1bb551036684b05c1b3bea4c66b1d", null ],
-    [ "OnQuestAccept", "da/dbb/a15382.html#a5e11149b6359927a71c98242d979e65b", null ]
+    [ "npc_kerlonianAI", "da/dbb/a15382.html#a0f7a4566ca93a174c92fe10e904af480", null ],
+    [ "ClearSleeping", "da/dbb/a15382.html#aea2815d79da4fa006ea150f052255b9d", null ],
+    [ "MoveInLineOfSight", "da/dbb/a15382.html#a8b0a606510d278f26099a125d583377a", null ],
+    [ "Reset", "da/dbb/a15382.html#a20fac33bf3322ad0caf72ea883680b8d", null ],
+    [ "SetSleeping", "da/dbb/a15382.html#a0e1e6beaa98090d8bf8a17d28a9ee733", null ],
+    [ "SpellHit", "da/dbb/a15382.html#a1df028085cf1cb9e8152cdb70a3d28b1", null ],
+    [ "UpdateFollowerAI", "da/dbb/a15382.html#aa86dc8b3e934ff3297f7316de5420fe6", null ],
+    [ "FallAsleepTimer", "da/dbb/a15382.html#a8cfd8d869f8a313d041d89f8d0daa1bb", null ]
 ];

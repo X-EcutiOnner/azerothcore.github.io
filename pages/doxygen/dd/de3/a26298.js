@@ -1,7 +1,9 @@
 var a26298 =
 [
-    [ "CheckRequirement", "dd/de3/a26298.html#afc9206b1d92834943c9825dfd97439c9", null ],
-    [ "HandleScriptEffect", "dd/de3/a26298.html#acef8bf4c93226e1b4c95f8b8cdd80f40", null ],
-    [ "PrepareSpellScript", "dd/de3/a26298.html#a0223c05b5832c64b248e82eba770f7fa", null ],
-    [ "Register", "dd/de3/a26298.html#aef93e3c5a60633f69871bbd49d40caf5", null ]
+    [ "HandleAfterCast", "dd/de3/a26298.html#ac08e632064c407346649f525d030d335", null ],
+    [ "HandleDummy", "dd/de3/a26298.html#a9c1dadd5a3e2e039b50a414ac589ebf4", null ],
+    [ "Load", "dd/de3/a26298.html#a177525c755b036a79263c0fa6fa4082e", null ],
+    [ "PrepareSpellScript", "dd/de3/a26298.html#aed99b07a53068b19bddb4daff3449a52", null ],
+    [ "Register", "dd/de3/a26298.html#a946e56a325d83656d9b43af80d065e45", null ],
+    [ "_triggerSpellId", "dd/de3/a26298.html#a6697a22b684784853cb1999d41fcaaa7", null ]
 ];

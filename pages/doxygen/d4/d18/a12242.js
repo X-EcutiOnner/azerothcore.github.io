@@ -1,6 +1,7 @@
 var a12242 =
 [
-    [ "boss_firemawAI", "d9/d21/a12246.html", "d9/d21/a12246" ],
-    [ "boss_firemaw", "d4/d18/a12242.html#a71174eb128356802be0029fd9e24fe1f", null ],
-    [ "GetAI", "d4/d18/a12242.html#a3a20bcefa86a21daaecaef14396dadc4", null ]
+    [ "boss_ebonrocAI", "d4/d18/a12242.html#a73be20fda4e3f8cb7623796f3c32d741", null ],
+    [ "JustEngagedWith", "d4/d18/a12242.html#a2c74e0030b1093d79245978939043d53", null ],
+    [ "MovementInform", "d4/d18/a12242.html#ac1e16bb5ac18b55fbfb8af5078df270f", null ],
+    [ "UpdateAI", "d4/d18/a12242.html#aa2059c3834fbcfda3c8da5743bd2501f", null ]
 ];

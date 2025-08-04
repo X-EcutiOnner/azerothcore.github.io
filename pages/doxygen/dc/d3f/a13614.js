@@ -1,6 +1,7 @@
 var a13614 =
 [
-    [ "CheckProc", "dc/d3f/a13614.html#af6d00234388ceb5d1c9acd8775c66788", null ],
-    [ "PrepareAuraScript", "dc/d3f/a13614.html#abdbb7406693a59372fe6783fbe4fb0f1", null ],
-    [ "Register", "dc/d3f/a13614.html#acad1e829a317d15e73549047ece67eda", null ]
+    [ "npc_greengill_slaveAI", "dc/d3f/a13614.html#a1a4268b745e63992f4d0fc2028b717aa", null ],
+    [ "JustEngagedWith", "dc/d3f/a13614.html#ad7fcb8c711782d3a76e9e4566334fc21", null ],
+    [ "SpellHit", "dc/d3f/a13614.html#a0e75a3e8eb3503fdb3aea12e65ccc6e4", null ],
+    [ "UpdateAI", "dc/d3f/a13614.html#a6fa27328cf47bef81c3465b8a3e2ace1", null ]
 ];

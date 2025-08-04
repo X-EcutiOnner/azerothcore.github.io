@@ -36,6 +36,7 @@ var a02873 =
     [ "spell_dru_wild_growth", "db/db9/a24778.html", "db/db9/a24778" ],
     [ "spell_dru_berserk", "dd/d6c/a24782.html", "dd/d6c/a24782" ],
     [ "spell_dru_moonkin_form_passive_proc", "d4/df0/a24786.html", "d4/df0/a24786" ],
+    [ "spell_dru_rejuvenation_moonglade_2_set", "da/dbb/a24790.html", "da/dbb/a24790" ],
     [ "DruidIcons", "d7/d13/a02873.html#a2f101649b277b64d4fef3e463e8a78cf", [
       [ "SPELL_ICON_REVITALIZE", "d7/d13/a02873.html#a2f101649b277b64d4fef3e463e8a78cfa55e519f0adbc29ad93e7525bd6741d20", null ]
     ] ],
@@ -68,7 +69,8 @@ var a02873 =
       [ "SPELL_DRUID_DIRE_BEAR_FORM_PASSIVE", "d7/d13/a02873.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aa3ad555030739fe26ee239493463a02d3", null ],
       [ "SPELL_DRUID_ENRAGE", "d7/d13/a02873.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aaded62a15e612b1c8d9072830fced9b89", null ],
       [ "SPELL_DRUID_ENRAGED_DEFENSE", "d7/d13/a02873.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aa8836a7dd192185fba9a8bfdb2617c92a", null ],
-      [ "SPELL_DRUID_ITEM_T10_FERAL_4P_BONUS", "d7/d13/a02873.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aa91d73263b7be89766a9ae47e448062ea", null ]
+      [ "SPELL_DRUID_ITEM_T10_FERAL_4P_BONUS", "d7/d13/a02873.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aa91d73263b7be89766a9ae47e448062ea", null ],
+      [ "SPELL_DRUID_MOONGLADE_2P_BONUS", "d7/d13/a02873.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aa7d9c0d298c99190246a2d0b430a0c542", null ]
     ] ],
     [ "AddSC_druid_spell_scripts", "d7/d13/a02873.html#a27c286499ee0c44de84c8f14e5c82d50", null ]
 ];

@@ -1,6 +1,8 @@
 var a11262 =
 [
-    [ "BeforeHitHandler", "dd/d1f/a11262.html#a0c2f048fc10f408a299a8b537ad7551d", null ],
-    [ "Call", "dd/d1f/a11262.html#a393057cca72c41e193508bf150ed0b1f", null ],
-    [ "_pBeforeHitHandlerScript", "dd/d1f/a11262.html#acecb7a8844155ff6eeb3f09582d7a475", null ]
+    [ "EffectHandler", "dd/d1f/a11262.html#aebdff9758b3ec51a75220be43b0d7b44", null ],
+    [ "Call", "dd/d1f/a11262.html#a7696d64688fa8b10cd58220fdd5fa5ba", null ],
+    [ "CheckEffect", "dd/d1f/a11262.html#a8eeff14be65159b6f9a88b04abe14e8b", null ],
+    [ "ToString", "dd/d1f/a11262.html#a5b583dc87f0146f06c9a38a5db92f4fb", null ],
+    [ "pEffectHandlerScript", "dd/d1f/a11262.html#a88fbf00b2e35c462423ddeff55ac3dee", null ]
 ];

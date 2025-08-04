@@ -1,12 +1,5 @@
 var a10922 =
 [
-    [ "PacketLog", "d1/db8/a10922.html#a75215d454393ecd3fce0ea07b5d673ee", null ],
-    [ "~PacketLog", "d1/db8/a10922.html#a595a42f9aaa94d6c46d185955df801e0", null ],
-    [ "CanLogPacket", "d1/db8/a10922.html#a322cf3a0d8707becb9dcc64548d4cce5", null ],
-    [ "Initialize", "d1/db8/a10922.html#aea6ccfd41bc147557b7c5066fe18afa6", null ],
-    [ "instance", "d1/db8/a10922.html#a484418a51ca0bf150d17b23d97979bf4", null ],
-    [ "LogPacket", "d1/db8/a10922.html#ac0323a6ac3856412b765d0b31dbbb37e", null ],
-    [ "_file", "d1/db8/a10922.html#a03346a709f7586f6445e03b9a3b6af04", null ],
-    [ "_initializeFlag", "d1/db8/a10922.html#a490cafe009f7b2ecb303a76c781f8960", null ],
-    [ "_logPacketLock", "d1/db8/a10922.html#aeffb6309ef859cbb346b15dc1fca5cbe", null ]
+    [ "PacketHandler", "d1/db8/a10922.html#a7ca20eda3de42ab35ef45c56f1d6d73e", null ],
+    [ "Call", "d1/db8/a10922.html#a42ac77b81d5280c7f1c54991649ab501", null ]
 ];

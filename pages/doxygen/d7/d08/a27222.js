@@ -1,6 +1,6 @@
 var a27222 =
 [
-    [ "go_heatAI", "d8/d85/a27226.html", "d8/d85/a27226" ],
-    [ "go_heat", "d7/d08/a27222.html#a6c3d6919652159e4fd265b6d63f59c16", null ],
-    [ "GetAI", "d7/d08/a27222.html#a9f19009a78c7abd349d2e2e7bf98c1a0", null ]
+    [ "go_flamesAI", "d7/d08/a27222.html#a6473bff84b5c99cc616aa2d0912ed308", null ],
+    [ "UpdateAI", "d7/d08/a27222.html#a2d4c91f0bff924335881d1096c0af313", null ],
+    [ "timer", "d7/d08/a27222.html#ae53c7c6c669e982babf304f173b58b1a", null ]
 ];

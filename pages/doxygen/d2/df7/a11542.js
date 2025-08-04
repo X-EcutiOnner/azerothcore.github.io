@@ -1,10 +1,10 @@
 var a11542 =
 [
-    [ "bf_commandscript", "d2/df7/a11542.html#a806ca440ae1b51fffefee9d298dab3df", null ],
-    [ "GetCommands", "d2/df7/a11542.html#a97f0192d7ccd3532cfceaebff9f242be", null ],
-    [ "HandleBattlefieldEnable", "d2/df7/a11542.html#a08dd3bdd279c760fe0f126200a01619e", null ],
-    [ "HandleBattlefieldEnd", "d2/df7/a11542.html#af7100032ad26a66fbc9d9b37d1da98e1", null ],
-    [ "HandleBattlefieldStart", "d2/df7/a11542.html#a55102cc3b29a3ded0832ec82be1e3a5e", null ],
-    [ "HandleBattlefieldSwitch", "d2/df7/a11542.html#ac12cac377007d90b25b9797f2b2cc8de", null ],
-    [ "HandleBattlefieldTimer", "d2/df7/a11542.html#a7168b3db9435d70e2c5ca5eb41fc8ef2", null ]
+    [ "WorldPacketList", "d2/df7/a11542.html#ac02e770af167d14f978954cf5ac74487", null ],
+    [ "WorldWorldTextBuilder", "d2/df7/a11542.html#ad5e85ced19572dcd5ae75caa7e50cbf6", null ],
+    [ "do_helper", "d2/df7/a11542.html#ae8b58ec72a6c87aee46e9fe693deab32", null ],
+    [ "lineFromMessage", "d2/df7/a11542.html#a3a71edb992528d81471d370ba3d8d211", null ],
+    [ "operator()", "d2/df7/a11542.html#ae08f4d73e048b351ae4326cc63278ae6", null ],
+    [ "i_args", "d2/df7/a11542.html#ac2ae2ce8dc49ce7469142383e6e097d4", null ],
+    [ "i_textId", "d2/df7/a11542.html#ab246baa9a8ce259d8190ac1c8318c75d", null ]
 ];

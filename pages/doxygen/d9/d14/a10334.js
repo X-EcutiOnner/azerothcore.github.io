@@ -1,6 +1,12 @@
 var a10334 =
 [
-    [ "LootScript", "d9/d14/a10334.html#a57fd5dffc97f62a595f0ff4c2856dbd4", null ],
-    [ "IsDatabaseBound", "d9/d14/a10334.html#ad60b605eac89be48efd339127e9cb9cd", null ],
-    [ "OnLootMoney", "d9/d14/a10334.html#a56a57baead49f6815a9979b181a55375", null ]
+    [ "ItemScript", "d9/d14/a10334.html#a0ad18538a834261190356eab549ff192", null ],
+    [ "IsDatabaseBound", "d9/d14/a10334.html#ae0ae6754a17b88deaf3648b74a58bb9d", null ],
+    [ "OnCastItemCombatSpell", "d9/d14/a10334.html#a08a73378706fdfb0cee5e6214060ad1b", null ],
+    [ "OnExpire", "d9/d14/a10334.html#a2ac915f9f966df87a963a328363deb77", null ],
+    [ "OnGossipSelect", "d9/d14/a10334.html#a78b540902816ee3b3f9a6b108aa155ab", null ],
+    [ "OnGossipSelectCode", "d9/d14/a10334.html#a924268357fec1a667f1184c91ebcef33", null ],
+    [ "OnQuestAccept", "d9/d14/a10334.html#a87ab2f706bbb4e71921852d1ae6d78c7", null ],
+    [ "OnRemove", "d9/d14/a10334.html#a1c8d706593fce54b1e4627493c38a6d3", null ],
+    [ "OnUse", "d9/d14/a10334.html#a0e45d02f07def65de2eb94735189e7f5", null ]
 ];

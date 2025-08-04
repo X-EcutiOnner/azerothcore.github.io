@@ -1,6 +1,7 @@
 var a25462 =
 [
-    [ "HandleFinish", "dc/de0/a25462.html#a97cef2944f3fcc11aa6898bc8455ab21", null ],
-    [ "PrepareSpellScript", "dc/de0/a25462.html#a62920503172dc58ac864a23e90a98dd9", null ],
-    [ "Register", "dc/de0/a25462.html#ab40419508a1903869aa2b36a590301ba", null ]
+    [ "FilterTargets", "dc/de0/a25462.html#affede599b86e05e6475fd64a60268e8e", null ],
+    [ "Load", "dc/de0/a25462.html#a1343407ca8b571140ed2ecf5501bf378", null ],
+    [ "PrepareSpellScript", "dc/de0/a25462.html#a12ff05520225209b476b3ba8422de1c6", null ],
+    [ "Register", "dc/de0/a25462.html#ac99786385187e21fb02e65e9b9719400", null ]
 ];

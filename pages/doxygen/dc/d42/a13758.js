@@ -1,5 +1,6 @@
 var a13758 =
 [
-    [ "npc_andorhal_towerAI", "dc/d42/a13758.html#ad2f8a14f2adfe1418a23de274493f85e", null ],
-    [ "MoveInLineOfSight", "dc/d42/a13758.html#a1165ee0e066dcaeb300096e55758389b", null ]
+    [ "npc_andorhal_towerAI", "de/d26/a13762.html", "de/d26/a13762" ],
+    [ "npc_andorhal_tower", "dc/d42/a13758.html#abf63419b6c10af47f5e5df1a4e7320e7", null ],
+    [ "GetAI", "dc/d42/a13758.html#a51139c28da736d26bf27a061862d24ee", null ]
 ];

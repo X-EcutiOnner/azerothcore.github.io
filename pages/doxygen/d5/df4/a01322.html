@@ -167,6 +167,8 @@ Enumerations</h2></td></tr>
 &#160;&#160;<a class="el" href="../../d5/df4/a01322.html#ab25c41bc314095f74fe678a33e086a2ba4e221fc084bb69a82315a154d6dd7879">Race</a> = 7
 , <br />
 &#160;&#160;<a class="el" href="../../d5/df4/a01322.html#ab25c41bc314095f74fe678a33e086a2ba9bd81329febf6efe22788e03ddeaf0af">Class</a> = 8
+, <br />
+&#160;&#160;<a class="el" href="../../d5/df4/a01322.html#ab25c41bc314095f74fe678a33e086a2ba1c14759edfa3dbd063ee9d758a175225">AccountFlags</a> = 9
 <br />
  }</td></tr>
 <tr class="memdesc:ab25c41bc314095f74fe678a33e086a2b"><td class="mdescLeft">&#160;</td><td class="mdescRight">Represents the type of conditions that can be applied to server mail.  <a href="../../d5/df4/a01322.html#ab25c41bc314095f74fe678a33e086a2b">More...</a><br /></td></tr>
@@ -259,18 +261,22 @@ Variables</h2></td></tr>
 </td></tr>
 <tr><td class="fieldname"><a id="ab25c41bc314095f74fe678a33e086a2ba9bd81329febf6efe22788e03ddeaf0af" name="ab25c41bc314095f74fe678a33e086a2ba9bd81329febf6efe22788e03ddeaf0af"></a>Class&#160;</td><td class="fielddoc"><p >Requires the player to be a specific class. </p>
 </td></tr>
+<tr><td class="fieldname"><a id="ab25c41bc314095f74fe678a33e086a2ba1c14759edfa3dbd063ee9d758a175225" name="ab25c41bc314095f74fe678a33e086a2ba1c14759edfa3dbd063ee9d758a175225"></a>AccountFlags&#160;</td><td class="fielddoc"><p >Requires the player to have a specific AccountFlag (bit) </p>
+</td></tr>
 </table>
 <div class="fragment"><div class="line"><span class="lineno">   46</span>{</div>
 <div class="line"><span class="lineno">   47</span>    <a class="code hl_enumvalue" href="../../d5/df4/a01322.html#ab25c41bc314095f74fe678a33e086a2ba4bbb8f967da6d1a610596d7257179c2b">Invalid</a>     = 0, </div>
 <div class="line"><span class="lineno">   48</span>    <a class="code hl_enumvalue" href="../../d5/df4/a01322.html#ab25c41bc314095f74fe678a33e086a2baa0db49ba470c1c9ae2128c3470339153">Level</a>       = 1, </div>
 <div class="line"><span class="lineno">   49</span>    <a class="code hl_enumvalue" href="../../d5/df4/a01322.html#ab25c41bc314095f74fe678a33e086a2bad50a5da6b13baa381b72761aae02cde3">PlayTime</a>    = 2, </div>
-<div class="line"><span class="lineno">   50</span>    <a class="code hl_class" href="../../d1/d32/a10174.html">Quest</a>       = 3, </div>
+<div class="line"><span class="lineno">   50</span>    <a class="code hl_class" href="../../d0/d6f/a10178.html">Quest</a>       = 3, </div>
 <div class="line"><span class="lineno">   51</span>    <a class="code hl_enumvalue" href="../../d5/df4/a01322.html#ab25c41bc314095f74fe678a33e086a2bae29be78e8cf65f9f1a934917f9e0903e">Achievement</a> = 4, </div>
 <div class="line"><span class="lineno">   52</span>    <a class="code hl_enumvalue" href="../../d5/df4/a01322.html#ab25c41bc314095f74fe678a33e086a2ba8d9bec4f224970e231041639de877092">Reputation</a>  = 5, </div>
 <div class="line"><span class="lineno">   53</span>    <a class="code hl_enumvalue" href="../../d5/df4/a01322.html#ab25c41bc314095f74fe678a33e086a2ba3dcd53a8339c060c69c660b1b89b5201">Faction</a>     = 6, </div>
 <div class="line"><span class="lineno">   54</span>    <a class="code hl_enumvalue" href="../../d5/df4/a01322.html#ab25c41bc314095f74fe678a33e086a2ba4e221fc084bb69a82315a154d6dd7879">Race</a>        = 7, </div>
 <div class="line"><span class="lineno">   55</span>    <a class="code hl_enumvalue" href="../../d5/df4/a01322.html#ab25c41bc314095f74fe678a33e086a2ba9bd81329febf6efe22788e03ddeaf0af">Class</a>       = 8, </div>
-<div class="line"><span class="lineno">   56</span>};</div>
+<div class="line"><span class="lineno">   56</span>    <a class="code hl_enumvalue" href="../../d5/df4/a01322.html#ab25c41bc314095f74fe678a33e086a2ba1c14759edfa3dbd063ee9d758a175225">AccountFlags</a> = 9, </div>
+<div class="line"><span class="lineno">   57</span>};</div>
+<div class="ttc" id="aa01322_html_ab25c41bc314095f74fe678a33e086a2ba1c14759edfa3dbd063ee9d758a175225"><div class="ttname"><a href="../../d5/df4/a01322.html#ab25c41bc314095f74fe678a33e086a2ba1c14759edfa3dbd063ee9d758a175225">ServerMailConditionType::AccountFlags</a></div><div class="ttdeci">@ AccountFlags</div><div class="ttdoc">Requires the player to have a specific AccountFlag (bit)</div></div>
 <div class="ttc" id="aa01322_html_ab25c41bc314095f74fe678a33e086a2ba3dcd53a8339c060c69c660b1b89b5201"><div class="ttname"><a href="../../d5/df4/a01322.html#ab25c41bc314095f74fe678a33e086a2ba3dcd53a8339c060c69c660b1b89b5201">ServerMailConditionType::Faction</a></div><div class="ttdeci">@ Faction</div><div class="ttdoc">Requires the player to be a part of a specific faction. Horde/Alliance.</div></div>
 <div class="ttc" id="aa01322_html_ab25c41bc314095f74fe678a33e086a2ba4bbb8f967da6d1a610596d7257179c2b"><div class="ttname"><a href="../../d5/df4/a01322.html#ab25c41bc314095f74fe678a33e086a2ba4bbb8f967da6d1a610596d7257179c2b">ServerMailConditionType::Invalid</a></div><div class="ttdeci">@ Invalid</div><div class="ttdoc">Internal use, not used in DB.</div></div>
 <div class="ttc" id="aa01322_html_ab25c41bc314095f74fe678a33e086a2ba4e221fc084bb69a82315a154d6dd7879"><div class="ttname"><a href="../../d5/df4/a01322.html#ab25c41bc314095f74fe678a33e086a2ba4e221fc084bb69a82315a154d6dd7879">ServerMailConditionType::Race</a></div><div class="ttdeci">@ Race</div><div class="ttdoc">Requires the player to be a specific race.</div></div>
@@ -279,7 +285,7 @@ Variables</h2></td></tr>
 <div class="ttc" id="aa01322_html_ab25c41bc314095f74fe678a33e086a2baa0db49ba470c1c9ae2128c3470339153"><div class="ttname"><a href="../../d5/df4/a01322.html#ab25c41bc314095f74fe678a33e086a2baa0db49ba470c1c9ae2128c3470339153">ServerMailConditionType::Level</a></div><div class="ttdeci">@ Level</div><div class="ttdoc">Requires the player to be at least a specific level.</div></div>
 <div class="ttc" id="aa01322_html_ab25c41bc314095f74fe678a33e086a2bad50a5da6b13baa381b72761aae02cde3"><div class="ttname"><a href="../../d5/df4/a01322.html#ab25c41bc314095f74fe678a33e086a2bad50a5da6b13baa381b72761aae02cde3">ServerMailConditionType::PlayTime</a></div><div class="ttdeci">@ PlayTime</div><div class="ttdoc">Requires the player to have played for a minimum amount of time (in milliseconds).</div></div>
 <div class="ttc" id="aa01322_html_ab25c41bc314095f74fe678a33e086a2bae29be78e8cf65f9f1a934917f9e0903e"><div class="ttname"><a href="../../d5/df4/a01322.html#ab25c41bc314095f74fe678a33e086a2bae29be78e8cf65f9f1a934917f9e0903e">ServerMailConditionType::Achievement</a></div><div class="ttdeci">@ Achievement</div><div class="ttdoc">Requires the player to have earned a specific achievement.</div></div>
-<div class="ttc" id="aa10174_html"><div class="ttname"><a href="../../d1/d32/a10174.html">Quest</a></div><div class="ttdef"><b>Definition:</b> QuestDef.h:210</div></div>
+<div class="ttc" id="aa10178_html"><div class="ttname"><a href="../../d0/d6f/a10178.html">Quest</a></div><div class="ttdef"><b>Definition:</b> QuestDef.h:210</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -312,13 +318,14 @@ Variables</h2></td></tr>
 <div class="line">    { <span class="stringliteral">&quot;Reputation&quot;</span>,  <a class="code hl_enumvalue" href="../../d5/df4/a01322.html#ab25c41bc314095f74fe678a33e086a2ba8d9bec4f224970e231041639de877092">ServerMailConditionType::Reputation</a>  },</div>
 <div class="line">    { <span class="stringliteral">&quot;Faction&quot;</span>,     <a class="code hl_enumvalue" href="../../d5/df4/a01322.html#ab25c41bc314095f74fe678a33e086a2ba3dcd53a8339c060c69c660b1b89b5201">ServerMailConditionType::Faction</a>     },</div>
 <div class="line">    { <span class="stringliteral">&quot;Race&quot;</span>,        <a class="code hl_enumvalue" href="../../d5/df4/a01322.html#ab25c41bc314095f74fe678a33e086a2ba4e221fc084bb69a82315a154d6dd7879">ServerMailConditionType::Race</a>        },</div>
-<div class="line">    { <span class="stringliteral">&quot;Class&quot;</span>,       <a class="code hl_enumvalue" href="../../d5/df4/a01322.html#ab25c41bc314095f74fe678a33e086a2ba9bd81329febf6efe22788e03ddeaf0af">ServerMailConditionType::Class</a>       }</div>
+<div class="line">    { <span class="stringliteral">&quot;Class&quot;</span>,       <a class="code hl_enumvalue" href="../../d5/df4/a01322.html#ab25c41bc314095f74fe678a33e086a2ba9bd81329febf6efe22788e03ddeaf0af">ServerMailConditionType::Class</a>       },</div>
+<div class="line">    { <span class="stringliteral">&quot;AccountFlags&quot;</span>, <a class="code hl_enumvalue" href="../../d5/df4/a01322.html#ab25c41bc314095f74fe678a33e086a2ba1c14759edfa3dbd063ee9d758a175225">ServerMailConditionType::AccountFlags</a> }</div>
 <div class="line">}</div>
 <div class="ttc" id="aa01322_html_ab25c41bc314095f74fe678a33e086a2ba07bf513a88c3df282a30cb374f8a933d"><div class="ttname"><a href="../../d5/df4/a01322.html#ab25c41bc314095f74fe678a33e086a2ba07bf513a88c3df282a30cb374f8a933d">ServerMailConditionType::Quest</a></div><div class="ttdeci">@ Quest</div><div class="ttdoc">Requires the player to have completed a specific quest.</div></div>
 </div><!-- fragment -->
 <p>Assign string condition to corresponding <a class="el" href="../../d5/df4/a01322.html#ab25c41bc314095f74fe678a33e086a2b">ServerMailConditionType</a> enum value. </p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00306">ServerMailMgr::GetServerMailConditionType()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00315">ServerMailMgr::GetServerMailConditionType()</a>.</p>
 
 </div>
 </div>
@@ -328,7 +335,7 @@ Variables</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_e5b41f27617119c832debc7577c7457a.html">Mails</a></li><li class="navelem"><a class="el" href="../../d5/df4/a01322.html">ServerMailMgr.h</a></li>
-    <li class="footer">Generated on Mon Jul 28 2025 20:50:22 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Aug 4 2025 20:50:08 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

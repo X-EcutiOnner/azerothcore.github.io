@@ -1,6 +1,9 @@
 var a14834 =
 [
-    [ "instance_the_black_morass_InstanceMapScript", "d4/d58/a14838.html", "d4/d58/a14838" ],
-    [ "instance_the_black_morass", "dd/d2e/a14834.html#aa59c960a89dbd66a4c0ad2105792efb4", null ],
-    [ "GetInstanceScript", "dd/d2e/a14834.html#a44b01fc7ab23c8f4ecfa1e375a237463", null ]
+    [ "boss_temporus", "dd/d2e/a14834.html#ab9f1495b18fe2c0ee33e9c238483ce0d", null ],
+    [ "JustDied", "dd/d2e/a14834.html#a9186e51d240aff2ffaab99e3b423ded9", null ],
+    [ "JustEngagedWith", "dd/d2e/a14834.html#abe7f18497c1c8b31693980e98b1d1859", null ],
+    [ "KilledUnit", "dd/d2e/a14834.html#a89c2a229b56b3a7dcb9e5a495ac6dbd7", null ],
+    [ "MoveInLineOfSight", "dd/d2e/a14834.html#a18a0279036324498a9daf8c7d0296ffc", null ],
+    [ "OwnTalk", "dd/d2e/a14834.html#a99356589a048debbc308b8431259da5c", null ]
 ];

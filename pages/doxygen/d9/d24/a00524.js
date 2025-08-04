@@ -1,6 +1,6 @@
 var a00524 =
 [
-    [ "BanMgr", "d8/de7/a09878.html", "d8/de7/a09878" ],
+    [ "BanMgr", "d7/dfe/a09882.html", "d7/dfe/a09882" ],
     [ "sBan", "d9/d24/a00524.html#a7d5e9b6aab3c8157bcf25fa0f070bb17", null ],
     [ "BanReturn", "d9/d24/a00524.html#a4dd4670ead55e2780d09a66ab39943a7", [
       [ "BAN_SUCCESS", "d9/d24/a00524.html#a4dd4670ead55e2780d09a66ab39943a7ab48bdf9afe21b115b7550bf103d1dc28", null ],

@@ -1,6 +1,5 @@
 var a12134 =
 [
-    [ "boss_urok_doomhowlAI", "df/d7b/a12138.html", "df/d7b/a12138" ],
-    [ "boss_urok_doomhowl", "d2/d87/a12134.html#a0ca9cea9919648baa5ff7db2d5a5b530", null ],
-    [ "GetAI", "d2/d87/a12134.html#ac77756af77191e02df49161da0ace268", null ]
+    [ "at_the_beast_room", "d2/d87/a12134.html#aed5c4aae45ee2b256eb078875c5a2c47", null ],
+    [ "OnTrigger", "d2/d87/a12134.html#a366c5e35c4030f998404886f1526ae37", null ]
 ];

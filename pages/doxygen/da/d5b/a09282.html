@@ -206,9 +206,9 @@ Protected Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  365</span>}</div>
 <div class="ttc" id="aa01928_html_a43260eb47484e62a16a868f79646c683ae7046aabaa7e6f435370eb1c49335356"><div class="ttname"><a href="../../d1/db0/a01928.html#a43260eb47484e62a16a868f79646c683ae7046aabaa7e6f435370eb1c49335356">CORPSE_BONES</a></div><div class="ttdeci">@ CORPSE_BONES</div><div class="ttdef"><b>Definition:</b> Corpse.h:28</div></div>
 <div class="ttc" id="aa07982_html_ade09571ad69b115ad968e11fd85c480c"><div class="ttname"><a href="../../dc/da9/a07982.html#ade09571ad69b115ad968e11fd85c480c">Corpse::GetType</a></div><div class="ttdeci">CorpseType GetType() const</div><div class="ttdef"><b>Definition:</b> Corpse.h:72</div></div>
-<div class="ttc" id="aa08394_html_ab73407bcdf13a30519a953d24773ed02"><div class="ttname"><a href="../../da/da3/a08394.html#ab73407bcdf13a30519a953d24773ed02">WorldObject::IsWithinDistInMap</a></div><div class="ttdeci">bool IsWithinDistInMap(WorldObject const *obj, float dist2compare, bool is3D=true, bool useBoundingRadius=true) const</div><div class="ttdef"><b>Definition:</b> Object.cpp:1333</div></div>
+<div class="ttc" id="aa08394_html_ab73407bcdf13a30519a953d24773ed02"><div class="ttname"><a href="../../da/da3/a08394.html#ab73407bcdf13a30519a953d24773ed02">WorldObject::IsWithinDistInMap</a></div><div class="ttdeci">bool IsWithinDistInMap(WorldObject const *obj, float dist2compare, bool is3D=true, bool useBoundingRadius=true) const</div><div class="ttdef"><b>Definition:</b> Object.cpp:1314</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00028">CORPSE_BONES</a>, <a class="el" href="../../#l00072">Corpse::GetType()</a>, <a class="el" href="../../#l00614">i_range</a>, <a class="el" href="../../#l00613">i_searchObj</a>, and <a class="el" href="../../#l01333">WorldObject::IsWithinDistInMap()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00028">CORPSE_BONES</a>, <a class="el" href="../../#l00072">Corpse::GetType()</a>, <a class="el" href="../../#l00614">i_range</a>, <a class="el" href="../../#l00613">i_searchObj</a>, and <a class="el" href="../../#l01314">WorldObject::IsWithinDistInMap()</a>.</p>
 
 </div>
 </div>
@@ -230,9 +230,9 @@ Protected Attributes</h2></td></tr>
 <div class="fragment"><div class="line"><span class="lineno">  368</span>{</div>
 <div class="line"><span class="lineno">  369</span>    <span class="keywordflow">return</span> !u-&gt;<a class="code hl_function" href="../../de/d9c/a08742.html#a5ea3f54af571493f7889220724667189">IsAlive</a>() &amp;&amp; <a class="code hl_variable" href="../../da/d5b/a09282.html#acf10f61f95961ff4b9fd4a8c162fa029">i_searchObj</a>-&gt;<a class="code hl_function" href="../../da/da3/a08394.html#ab73407bcdf13a30519a953d24773ed02">IsWithinDistInMap</a>(u, <a class="code hl_variable" href="../../da/d5b/a09282.html#a1a95cfd469f27284e6ff35e9856bddcb">i_range</a>);</div>
 <div class="line"><span class="lineno">  370</span>}</div>
-<div class="ttc" id="aa08742_html_a5ea3f54af571493f7889220724667189"><div class="ttname"><a href="../../de/d9c/a08742.html#a5ea3f54af571493f7889220724667189">Unit::IsAlive</a></div><div class="ttdeci">bool IsAlive() const</div><div class="ttdef"><b>Definition:</b> Unit.h:1698</div></div>
+<div class="ttc" id="aa08742_html_a5ea3f54af571493f7889220724667189"><div class="ttname"><a href="../../de/d9c/a08742.html#a5ea3f54af571493f7889220724667189">Unit::IsAlive</a></div><div class="ttdeci">bool IsAlive() const</div><div class="ttdef"><b>Definition:</b> Unit.h:1707</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00614">i_range</a>, <a class="el" href="../../#l00613">i_searchObj</a>, <a class="el" href="../../#l01698">Unit::IsAlive()</a>, and <a class="el" href="../../#l01333">WorldObject::IsWithinDistInMap()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00614">i_range</a>, <a class="el" href="../../#l00613">i_searchObj</a>, <a class="el" href="../../#l01707">Unit::IsAlive()</a>, and <a class="el" href="../../#l01314">WorldObject::IsWithinDistInMap()</a>.</p>
 
 </div>
 </div>
@@ -283,9 +283,9 @@ template&lt;class NOT_INTERESTED &gt; </div>
 <div class="fragment"><div class="line"><span class="lineno">  358</span>{</div>
 <div class="line"><span class="lineno">  359</span>    <span class="keywordflow">return</span> !u-&gt;<a class="code hl_function" href="../../de/d9c/a08742.html#a5ea3f54af571493f7889220724667189">IsAlive</a>() &amp;&amp; !u-&gt;<a class="code hl_function" href="../../de/d9c/a08742.html#a64a682baf7ad56615c6ddb4c2ffe3835">HasGhostAura</a>() &amp;&amp; <a class="code hl_variable" href="../../da/d5b/a09282.html#acf10f61f95961ff4b9fd4a8c162fa029">i_searchObj</a>-&gt;<a class="code hl_function" href="../../da/da3/a08394.html#ab73407bcdf13a30519a953d24773ed02">IsWithinDistInMap</a>(u, <a class="code hl_variable" href="../../da/d5b/a09282.html#a1a95cfd469f27284e6ff35e9856bddcb">i_range</a>);</div>
 <div class="line"><span class="lineno">  360</span>}</div>
-<div class="ttc" id="aa08742_html_a64a682baf7ad56615c6ddb4c2ffe3835"><div class="ttname"><a href="../../de/d9c/a08742.html#a64a682baf7ad56615c6ddb4c2ffe3835">Unit::HasGhostAura</a></div><div class="ttdeci">bool HasGhostAura() const</div><div class="ttdef"><b>Definition:</b> Unit.h:1703</div></div>
+<div class="ttc" id="aa08742_html_a64a682baf7ad56615c6ddb4c2ffe3835"><div class="ttname"><a href="../../de/d9c/a08742.html#a64a682baf7ad56615c6ddb4c2ffe3835">Unit::HasGhostAura</a></div><div class="ttdeci">bool HasGhostAura() const</div><div class="ttdef"><b>Definition:</b> Unit.h:1712</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01703">Unit::HasGhostAura()</a>, <a class="el" href="../../#l00614">i_range</a>, <a class="el" href="../../#l00613">i_searchObj</a>, <a class="el" href="../../#l01698">Unit::IsAlive()</a>, and <a class="el" href="../../#l01333">WorldObject::IsWithinDistInMap()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01712">Unit::HasGhostAura()</a>, <a class="el" href="../../#l00614">i_range</a>, <a class="el" href="../../#l00613">i_searchObj</a>, <a class="el" href="../../#l01707">Unit::IsAlive()</a>, and <a class="el" href="../../#l01314">WorldObject::IsWithinDistInMap()</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00372">Acore::AnyDeadUnitSpellTargetInRangeCheck::operator()()</a>.</p>
 
@@ -346,7 +346,7 @@ template&lt;class NOT_INTERESTED &gt; </div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../db/d2a/a04776.html">Acore</a></li><li class="navelem"><a class="el" href="../../da/d5b/a09282.html">AnyDeadUnitObjectInRangeCheck</a></li>
-    <li class="footer">Generated on Mon Jul 28 2025 20:52:42 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Aug 4 2025 20:52:39 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

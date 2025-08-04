@@ -17,7 +17,7 @@ var a02822 =
     [ "TorlothCinematic", "d1/df0/a24190.html", "d1/df0/a24190" ],
     [ "Location", "d9/df7/a24194.html", "d9/df7/a24194" ],
     [ "WaveDataCreature", "df/d6c/a24198.html", "df/d6c/a24198" ],
-    [ "SpawnSpells", "de/d2f/a15542.html", "de/d2f/a15542" ],
+    [ "SpawnSpells", "dc/db2/a15546.html", "dc/db2/a15546" ],
     [ "npc_torloth_the_magnificent", "d8/d4d/a24202.html", "d8/d4d/a24202" ],
     [ "npc_torloth_the_magnificent::npc_torloth_the_magnificentAI", "d3/d1d/a24206.html", "d3/d1d/a24206" ],
     [ "npc_lord_illidan_stormrage", "d6/d15/a24210.html", "d6/d15/a24210" ],

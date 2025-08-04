@@ -1,6 +1,6 @@
 var a04088 =
 [
-    [ "boss_mor_grayhoof", "df/db4/a12054.html", "df/db4/a12054" ],
+    [ "boss_mor_grayhoof", "d9/dc7/a12058.html", "d9/dc7/a12058" ],
     [ "Phases", "db/d38/a04088.html#a5d32d09cde4f13ec4fb05a824d3e3219", [
       [ "PHASE_HUMAN", "db/d38/a04088.html#a5d32d09cde4f13ec4fb05a824d3e3219aa89ac360fd4481a03c666986e321f9b6", null ],
       [ "PHASE_CAT", "db/d38/a04088.html#a5d32d09cde4f13ec4fb05a824d3e3219a1b3fac79b38cbf006c4a86301ac01afb", null ],
@@ -1493,13 +1493,6 @@ var a04088 =
       [ "SPELL_VENOM_BOLT_VOLLEY", "d9/dc1/a03194.html#a5bd342133be8c2137b831460acc9298ca2db10fb946533519d7010ed5ec527b71", null ],
       [ "SPELL_REMOVE_MUSHROOM_POWER", "d9/dc1/a03194.html#a5bd342133be8c2137b831460acc9298ca9223156ca767b90509d90856d8990151", null ],
       [ "SPELL_HEALTHY_MUSHROOM_POTENT_FUNGUS", "d9/dc1/a03194.html#a5bd342133be8c2137b831460acc9298cacfee1df99a268084a03b22bec413c6e6", null ],
-      [ "SPELL_POISONOUS_MUSHROOM_POISON_CLOUD", "d9/dc1/a03194.html#a5bd342133be8c2137b831460acc9298ca991c0f90f376592d022da308adb16b2c", null ],
-      [ "SPELL_POISONOUS_MUSHROOM_VISUAL_AURA", "d9/dc1/a03194.html#a5bd342133be8c2137b831460acc9298cae53c042534f08c572487ad84acd05873", null ],
-      [ "SPELL_POISONOUS_MUSHROOM_VISUAL_AREA", "d9/dc1/a03194.html#a5bd342133be8c2137b831460acc9298caa35a4616c5286bb58af7df12a4f53704", null ],
-      [ "SPELL_HEALTHY_MUSHROOM_VISUAL_AURA", "d9/dc1/a03194.html#a5bd342133be8c2137b831460acc9298ca1483bf48a78dd7102f1a12ceeeec1844", null ],
-      [ "SPELL_PUTRID_MUSHROOM", "d9/dc1/a03194.html#a5bd342133be8c2137b831460acc9298cafc68134944ca511ff138e50e24055f2d", null ],
-      [ "SPELL_GROW", "d9/dc1/a03194.html#a5bd342133be8c2137b831460acc9298caec85cc617ef32ec7ad6edfa8a467f200", null ],
-      [ "SPELL_SHRINK", "d9/dc1/a03194.html#a5bd342133be8c2137b831460acc9298ca049e0d56c3f30d8991dde2beae302c4f", null ],
       [ "SPELL_BROOD_PLAGUE", "dd/d71/a03182.html#a5bd342133be8c2137b831460acc9298caf9c6724ab743e7fa3824864cd397ca95", null ],
       [ "SPELL_BROOD_RAGE_H", "dd/d71/a03182.html#a5bd342133be8c2137b831460acc9298ca92e635e57290acbf8ac9efe15d1f99f6", null ],
       [ "SPELL_ENRAGE", "dd/d71/a03182.html#a5bd342133be8c2137b831460acc9298ca2a20f56307679be4d4f01a0d3d93cc7e", null ],

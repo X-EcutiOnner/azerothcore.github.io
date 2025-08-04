@@ -302,7 +302,7 @@ Private Attributes</h2></td></tr>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">   49</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../db/d1a/a08638.html#a291fdc4207d594982a780485b960f6fa">m_spell</a>; }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l05680">Spell::CheckCast()</a>, <a class="el" href="../../#l00244">WorldSession::HandleAcceptTradeOpcode()</a>, and <a class="el" href="../../#l00081">WorldSession::SendUpdateTrade()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l05677">Spell::CheckCast()</a>, <a class="el" href="../../#l00244">WorldSession::HandleAcceptTradeOpcode()</a>, and <a class="el" href="../../#l00081">WorldSession::SendUpdateTrade()</a>.</p>
 
 </div>
 </div>
@@ -557,16 +557,16 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  124</span>    <span class="keywordflow">if</span> (!state)</div>
 <div class="line"><span class="lineno">  125</span>    {</div>
 <div class="line"><span class="lineno">  126</span>        <span class="keywordflow">if</span> (crosssend)</div>
-<div class="line"><span class="lineno">  127</span>            <a class="code hl_variable" href="../../db/d1a/a08638.html#ae9c8547f43701f0693fd16df84ae2543">m_trader</a>-&gt;<a class="code hl_function" href="../../dc/dd9/a08606.html#a6ab11ca64cde7c5cde1f53998a6f7253">GetSession</a>()-&gt;<a class="code hl_function" href="../../dc/d38/a11010.html#ac3aff1b7548faa82f1c0786c82df4cca">SendTradeStatus</a>(<a class="code hl_enumvalue" href="../../d4/d2d/a02408.html#a4d14fbf24745aec4ec29280851d99dc0a7a15a69e793317aa8a871df1af37e881">TRADE_STATUS_BACK_TO_TRADE</a>);</div>
+<div class="line"><span class="lineno">  127</span>            <a class="code hl_variable" href="../../db/d1a/a08638.html#ae9c8547f43701f0693fd16df84ae2543">m_trader</a>-&gt;<a class="code hl_function" href="../../dc/dd9/a08606.html#a6ab11ca64cde7c5cde1f53998a6f7253">GetSession</a>()-&gt;<a class="code hl_function" href="../../df/d55/a11014.html#ac3aff1b7548faa82f1c0786c82df4cca">SendTradeStatus</a>(<a class="code hl_enumvalue" href="../../d4/d2d/a02408.html#a4d14fbf24745aec4ec29280851d99dc0a7a15a69e793317aa8a871df1af37e881">TRADE_STATUS_BACK_TO_TRADE</a>);</div>
 <div class="line"><span class="lineno">  128</span>        <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  129</span>            <a class="code hl_variable" href="../../db/d1a/a08638.html#aa19e7f2622b315f9cc75531999b795f4">m_player</a>-&gt;<a class="code hl_function" href="../../dc/dd9/a08606.html#a6ab11ca64cde7c5cde1f53998a6f7253">GetSession</a>()-&gt;<a class="code hl_function" href="../../dc/d38/a11010.html#ac3aff1b7548faa82f1c0786c82df4cca">SendTradeStatus</a>(<a class="code hl_enumvalue" href="../../d4/d2d/a02408.html#a4d14fbf24745aec4ec29280851d99dc0a7a15a69e793317aa8a871df1af37e881">TRADE_STATUS_BACK_TO_TRADE</a>);</div>
+<div class="line"><span class="lineno">  129</span>            <a class="code hl_variable" href="../../db/d1a/a08638.html#aa19e7f2622b315f9cc75531999b795f4">m_player</a>-&gt;<a class="code hl_function" href="../../dc/dd9/a08606.html#a6ab11ca64cde7c5cde1f53998a6f7253">GetSession</a>()-&gt;<a class="code hl_function" href="../../df/d55/a11014.html#ac3aff1b7548faa82f1c0786c82df4cca">SendTradeStatus</a>(<a class="code hl_enumvalue" href="../../d4/d2d/a02408.html#a4d14fbf24745aec4ec29280851d99dc0a7a15a69e793317aa8a871df1af37e881">TRADE_STATUS_BACK_TO_TRADE</a>);</div>
 <div class="line"><span class="lineno">  130</span>    }</div>
 <div class="line"><span class="lineno">  131</span>}</div>
 <div class="ttc" id="aa02408_html_a4d14fbf24745aec4ec29280851d99dc0a7a15a69e793317aa8a871df1af37e881"><div class="ttname"><a href="../../d4/d2d/a02408.html#a4d14fbf24745aec4ec29280851d99dc0a7a15a69e793317aa8a871df1af37e881">TRADE_STATUS_BACK_TO_TRADE</a></div><div class="ttdeci">@ TRADE_STATUS_BACK_TO_TRADE</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:3812</div></div>
-<div class="ttc" id="aa08606_html_a6ab11ca64cde7c5cde1f53998a6f7253"><div class="ttname"><a href="../../dc/dd9/a08606.html#a6ab11ca64cde7c5cde1f53998a6f7253">Player::GetSession</a></div><div class="ttdeci">WorldSession * GetSession() const</div><div class="ttdef"><b>Definition:</b> Player.h:2012</div></div>
-<div class="ttc" id="aa11010_html_ac3aff1b7548faa82f1c0786c82df4cca"><div class="ttname"><a href="../../dc/d38/a11010.html#ac3aff1b7548faa82f1c0786c82df4cca">WorldSession::SendTradeStatus</a></div><div class="ttdeci">void SendTradeStatus(TradeStatus status)</div><div class="ttdef"><b>Definition:</b> TradeHandler.cpp:33</div></div>
+<div class="ttc" id="aa08606_html_a6ab11ca64cde7c5cde1f53998a6f7253"><div class="ttname"><a href="../../dc/dd9/a08606.html#a6ab11ca64cde7c5cde1f53998a6f7253">Player::GetSession</a></div><div class="ttdeci">WorldSession * GetSession() const</div><div class="ttdef"><b>Definition:</b> Player.h:2016</div></div>
+<div class="ttc" id="aa11014_html_ac3aff1b7548faa82f1c0786c82df4cca"><div class="ttname"><a href="../../df/d55/a11014.html#ac3aff1b7548faa82f1c0786c82df4cca">WorldSession::SendTradeStatus</a></div><div class="ttdeci">void SendTradeStatus(TradeStatus status)</div><div class="ttdef"><b>Definition:</b> TradeHandler.cpp:33</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l02012">Player::GetSession()</a>, <a class="el" href="../../#l00071">m_accepted</a>, <a class="el" href="../../#l00068">m_player</a>, <a class="el" href="../../#l00069">m_trader</a>, <a class="el" href="../../#l00033">WorldSession::SendTradeStatus()</a>, and <a class="el" href="../../#l03812">TRADE_STATUS_BACK_TO_TRADE</a>.</p>
+<p class="reference">References <a class="el" href="../../#l02016">Player::GetSession()</a>, <a class="el" href="../../#l00071">m_accepted</a>, <a class="el" href="../../#l00068">m_player</a>, <a class="el" href="../../#l00069">m_trader</a>, <a class="el" href="../../#l00033">WorldSession::SendTradeStatus()</a>, and <a class="el" href="../../#l03812">TRADE_STATUS_BACK_TO_TRADE</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00244">WorldSession::HandleAcceptTradeOpcode()</a>, <a class="el" href="../../#l00508">WorldSession::HandleUnacceptTradeOpcode()</a>, <a class="el" href="../../#l00054">SetItem()</a>, <a class="el" href="../../#l00093">SetMoney()</a>, and <a class="el" href="../../#l00076">SetSpell()</a>.</p>
 
@@ -682,7 +682,7 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">   97</span> </div>
 <div class="line"><span class="lineno">   98</span>    <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../db/d1a/a08638.html#aa19e7f2622b315f9cc75531999b795f4">m_player</a>-&gt;<a class="code hl_function" href="../../dc/dd9/a08606.html#a77b52bf6fc7a0ac6ad37bf836aaf5c7b">HasEnoughMoney</a>(money))</div>
 <div class="line"><span class="lineno">   99</span>    {</div>
-<div class="line"><span class="lineno">  100</span>        <a class="code hl_variable" href="../../db/d1a/a08638.html#aa19e7f2622b315f9cc75531999b795f4">m_player</a>-&gt;<a class="code hl_function" href="../../dc/dd9/a08606.html#a6ab11ca64cde7c5cde1f53998a6f7253">GetSession</a>()-&gt;<a class="code hl_function" href="../../dc/d38/a11010.html#ac3aff1b7548faa82f1c0786c82df4cca">SendTradeStatus</a>(<a class="code hl_enumvalue" href="../../d4/d2d/a02408.html#a4d14fbf24745aec4ec29280851d99dc0aea6086b44fb425b0e09feb1d6bf0056d">TRADE_STATUS_BUSY</a>);</div>
+<div class="line"><span class="lineno">  100</span>        <a class="code hl_variable" href="../../db/d1a/a08638.html#aa19e7f2622b315f9cc75531999b795f4">m_player</a>-&gt;<a class="code hl_function" href="../../dc/dd9/a08606.html#a6ab11ca64cde7c5cde1f53998a6f7253">GetSession</a>()-&gt;<a class="code hl_function" href="../../df/d55/a11014.html#ac3aff1b7548faa82f1c0786c82df4cca">SendTradeStatus</a>(<a class="code hl_enumvalue" href="../../d4/d2d/a02408.html#a4d14fbf24745aec4ec29280851d99dc0aea6086b44fb425b0e09feb1d6bf0056d">TRADE_STATUS_BUSY</a>);</div>
 <div class="line"><span class="lineno">  101</span>        <span class="keywordflow">return</span>;</div>
 <div class="line"><span class="lineno">  102</span>    }</div>
 <div class="line"><span class="lineno">  103</span> </div>
@@ -696,7 +696,7 @@ Private Attributes</h2></td></tr>
 <div class="ttc" id="aa02408_html_a4d14fbf24745aec4ec29280851d99dc0aea6086b44fb425b0e09feb1d6bf0056d"><div class="ttname"><a href="../../d4/d2d/a02408.html#a4d14fbf24745aec4ec29280851d99dc0aea6086b44fb425b0e09feb1d6bf0056d">TRADE_STATUS_BUSY</a></div><div class="ttdeci">@ TRADE_STATUS_BUSY</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:3805</div></div>
 <div class="ttc" id="aa08606_html_a77b52bf6fc7a0ac6ad37bf836aaf5c7b"><div class="ttname"><a href="../../dc/dd9/a08606.html#a77b52bf6fc7a0ac6ad37bf836aaf5c7b">Player::HasEnoughMoney</a></div><div class="ttdeci">bool HasEnoughMoney(uint32 amount) const</div><div class="ttdef"><b>Definition:</b> Player.h:1623</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l02012">Player::GetSession()</a>, <a class="el" href="../../#l00021">GetTraderData()</a>, <a class="el" href="../../#l01623">Player::HasEnoughMoney()</a>, <a class="el" href="../../#l00074">m_money</a>, <a class="el" href="../../#l00068">m_player</a>, <a class="el" href="../../#l00033">WorldSession::SendTradeStatus()</a>, <a class="el" href="../../#l00120">SetAccepted()</a>, <a class="el" href="../../#l03805">TRADE_STATUS_BUSY</a>, and <a class="el" href="../../#l00112">Update()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l02016">Player::GetSession()</a>, <a class="el" href="../../#l00021">GetTraderData()</a>, <a class="el" href="../../#l01623">Player::HasEnoughMoney()</a>, <a class="el" href="../../#l00074">m_money</a>, <a class="el" href="../../#l00068">m_player</a>, <a class="el" href="../../#l00033">WorldSession::SendTradeStatus()</a>, <a class="el" href="../../#l00120">SetAccepted()</a>, <a class="el" href="../../#l03805">TRADE_STATUS_BUSY</a>, and <a class="el" href="../../#l00112">Update()</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00652">WorldSession::HandleSetTradeGoldOpcode()</a>.</p>
 
@@ -774,13 +774,13 @@ Private Attributes</h2></td></tr>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  113</span>{</div>
 <div class="line"><span class="lineno">  114</span>    <span class="keywordflow">if</span> (forTarget)</div>
-<div class="line"><span class="lineno">  115</span>        <a class="code hl_variable" href="../../db/d1a/a08638.html#ae9c8547f43701f0693fd16df84ae2543">m_trader</a>-&gt;<a class="code hl_function" href="../../dc/dd9/a08606.html#a6ab11ca64cde7c5cde1f53998a6f7253">GetSession</a>()-&gt;<a class="code hl_function" href="../../dc/d38/a11010.html#ada77032a1b7ad5a8d43e257a117239b9">SendUpdateTrade</a>(<span class="keyword">true</span>);      <span class="comment">// player state for trader</span></div>
+<div class="line"><span class="lineno">  115</span>        <a class="code hl_variable" href="../../db/d1a/a08638.html#ae9c8547f43701f0693fd16df84ae2543">m_trader</a>-&gt;<a class="code hl_function" href="../../dc/dd9/a08606.html#a6ab11ca64cde7c5cde1f53998a6f7253">GetSession</a>()-&gt;<a class="code hl_function" href="../../df/d55/a11014.html#ada77032a1b7ad5a8d43e257a117239b9">SendUpdateTrade</a>(<span class="keyword">true</span>);      <span class="comment">// player state for trader</span></div>
 <div class="line"><span class="lineno">  116</span>    <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  117</span>        <a class="code hl_variable" href="../../db/d1a/a08638.html#aa19e7f2622b315f9cc75531999b795f4">m_player</a>-&gt;<a class="code hl_function" href="../../dc/dd9/a08606.html#a6ab11ca64cde7c5cde1f53998a6f7253">GetSession</a>()-&gt;<a class="code hl_function" href="../../dc/d38/a11010.html#ada77032a1b7ad5a8d43e257a117239b9">SendUpdateTrade</a>(<span class="keyword">false</span>);     <span class="comment">// player state for player</span></div>
+<div class="line"><span class="lineno">  117</span>        <a class="code hl_variable" href="../../db/d1a/a08638.html#aa19e7f2622b315f9cc75531999b795f4">m_player</a>-&gt;<a class="code hl_function" href="../../dc/dd9/a08606.html#a6ab11ca64cde7c5cde1f53998a6f7253">GetSession</a>()-&gt;<a class="code hl_function" href="../../df/d55/a11014.html#ada77032a1b7ad5a8d43e257a117239b9">SendUpdateTrade</a>(<span class="keyword">false</span>);     <span class="comment">// player state for player</span></div>
 <div class="line"><span class="lineno">  118</span>}</div>
-<div class="ttc" id="aa11010_html_ada77032a1b7ad5a8d43e257a117239b9"><div class="ttname"><a href="../../dc/d38/a11010.html#ada77032a1b7ad5a8d43e257a117239b9">WorldSession::SendUpdateTrade</a></div><div class="ttdeci">void SendUpdateTrade(bool trader_data=true)</div><div class="ttdef"><b>Definition:</b> TradeHandler.cpp:81</div></div>
+<div class="ttc" id="aa11014_html_ada77032a1b7ad5a8d43e257a117239b9"><div class="ttname"><a href="../../df/d55/a11014.html#ada77032a1b7ad5a8d43e257a117239b9">WorldSession::SendUpdateTrade</a></div><div class="ttdeci">void SendUpdateTrade(bool trader_data=true)</div><div class="ttdef"><b>Definition:</b> TradeHandler.cpp:81</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l02012">Player::GetSession()</a>, <a class="el" href="../../#l00068">m_player</a>, <a class="el" href="../../#l00069">m_trader</a>, and <a class="el" href="../../#l00081">WorldSession::SendUpdateTrade()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l02016">Player::GetSession()</a>, <a class="el" href="../../#l00068">m_player</a>, <a class="el" href="../../#l00069">m_trader</a>, and <a class="el" href="../../#l00081">WorldSession::SendUpdateTrade()</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00054">SetItem()</a>, <a class="el" href="../../#l00093">SetMoney()</a>, and <a class="el" href="../../#l00076">SetSpell()</a>.</p>
 
@@ -983,7 +983,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../db/d1a/a08638.html">TradeData</a></li>
-    <li class="footer">Generated on Mon Jul 28 2025 20:52:36 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Aug 4 2025 20:52:33 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

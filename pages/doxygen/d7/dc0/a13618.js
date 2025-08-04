@@ -1,6 +1,6 @@
 var a13618 =
 [
-    [ "npc_corporal_keeshanAI", "de/d5e/a13622.html", "de/d5e/a13622" ],
-    [ "npc_corporal_keeshan", "d7/dc0/a13618.html#a0ca9459a7f283e040f14e0052762f587", null ],
-    [ "GetAI", "d7/dc0/a13618.html#a2cc19f28dea9ea8597648339a160d1bc", null ]
+    [ "CheckProc", "d7/dc0/a13618.html#af6d00234388ceb5d1c9acd8775c66788", null ],
+    [ "PrepareAuraScript", "d7/dc0/a13618.html#abdbb7406693a59372fe6783fbe4fb0f1", null ],
+    [ "Register", "d7/dc0/a13618.html#acad1e829a317d15e73549047ece67eda", null ]
 ];

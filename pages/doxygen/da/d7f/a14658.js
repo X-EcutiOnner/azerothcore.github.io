@@ -1,10 +1,7 @@
 var a14658 =
 [
-    [ "hyjalJainaAI", "da/d7f/a14658.html#aa7532b691e85fd9bd467e20db39c59da", null ],
-    [ "IsSummonedBy", "da/d7f/a14658.html#a5003e3a1ccb955b209c1ab91a49d217f", null ],
-    [ "JustDied", "da/d7f/a14658.html#a605687080e5149b3f08ce8349ba9b336", null ],
-    [ "JustEngagedWith", "da/d7f/a14658.html#a187efe775b1e2a35637638507e77352e", null ],
-    [ "PathEndReached", "da/d7f/a14658.html#a0f7dd1512694d284c1f83b3403c421e6", null ],
-    [ "Reset", "da/d7f/a14658.html#a585baff53f5d57ca0dc9002181e8d2bc", null ],
-    [ "UpdateAI", "da/d7f/a14658.html#ac86fb8a5a55654ff7697abd9162135c1", null ]
+    [ "hyjalJainaAI", "df/d21/a14662.html", "df/d21/a14662" ],
+    [ "npc_hyjal_jaina", "da/d7f/a14658.html#a6616aa6c38818770610259312a392a3f", null ],
+    [ "GetAI", "da/d7f/a14658.html#ab1891f5a2aacf5d9aeb9377bd92393ed", null ],
+    [ "OnGossipSelect", "da/d7f/a14658.html#a47853fa317b1a9325fcbe555867139f6", null ]
 ];

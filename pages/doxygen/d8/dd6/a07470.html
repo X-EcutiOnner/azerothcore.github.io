@@ -192,7 +192,7 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a4c84a59be61ff39bf5de5e9c7fa46dbc"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aa47ee6cabf2d9a7cee4abbc149f5bc3a"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dd6/a07470.html#aa47ee6cabf2d9a7cee4abbc149f5bc3a">SendCalendarCommandResult</a> (<a class="el" href="../../d6/d60/a08410.html">ObjectGuid</a> guid, <a class="el" href="../../dc/d91/a00659.html#a2812c2f5fdbdaf8b594ea7001772a9c5">CalendarError</a> err, char const *param=nullptr)</td></tr>
 <tr class="separator:aa47ee6cabf2d9a7cee4abbc149f5bc3a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4871ffc6701b73b1af7d5fbf19c7b1bc"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dd6/a07470.html#a4871ffc6701b73b1af7d5fbf19c7b1bc">SendPacketToAllEventRelatives</a> (<a class="el" href="../../d5/d44/a10966.html">WorldPacket</a> packet, <a class="el" href="../../db/d86/a07466.html">CalendarEvent</a> const &amp;calendarEvent)</td></tr>
+<tr class="memitem:a4871ffc6701b73b1af7d5fbf19c7b1bc"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dd6/a07470.html#a4871ffc6701b73b1af7d5fbf19c7b1bc">SendPacketToAllEventRelatives</a> (<a class="el" href="../../da/df4/a10970.html">WorldPacket</a> packet, <a class="el" href="../../db/d86/a07466.html">CalendarEvent</a> const &amp;calendarEvent)</td></tr>
 <tr class="separator:a4871ffc6701b73b1af7d5fbf19c7b1bc"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-methods" name="pub-static-methods"></a>
@@ -1376,12 +1376,12 @@ Private Attributes</h2></td></tr>
 <div class="fragment"><div class="line"><span class="lineno">  688</span>{</div>
 <div class="line"><span class="lineno">  689</span>    <span class="keywordflow">if</span> (<a class="code hl_class" href="../../dc/dd9/a08606.html">Player</a>* player = <a class="code hl_function" href="../../da/d47/a04824.html#a354f7e7aaf4b12d6ad8fe8ef6291eaa0">ObjectAccessor::FindConnectedPlayer</a>(guid))</div>
 <div class="line"><span class="lineno">  690</span>    {</div>
-<div class="line"><span class="lineno">  691</span>        <a class="code hl_class" href="../../d5/d44/a10966.html">WorldPacket</a> data(<a class="code hl_enumvalue" href="../../d6/df5/a04770.html#gga1073b6abb3a749f18bf1633020879e9ba27fb745312212051568aced07afca750">SMSG_CALENDAR_CLEAR_PENDING_ACTION</a>, 0);</div>
+<div class="line"><span class="lineno">  691</span>        <a class="code hl_class" href="../../da/df4/a10970.html">WorldPacket</a> data(<a class="code hl_enumvalue" href="../../d6/df5/a04770.html#gga1073b6abb3a749f18bf1633020879e9ba27fb745312212051568aced07afca750">SMSG_CALENDAR_CLEAR_PENDING_ACTION</a>, 0);</div>
 <div class="line"><span class="lineno">  692</span>        player-&gt;SendDirectMessage(&amp;data);</div>
 <div class="line"><span class="lineno">  693</span>    }</div>
 <div class="line"><span class="lineno">  694</span>}</div>
 <div class="ttc" id="aa04770_html_gga1073b6abb3a749f18bf1633020879e9ba27fb745312212051568aced07afca750"><div class="ttname"><a href="../../d6/df5/a04770.html#gga1073b6abb3a749f18bf1633020879e9ba27fb745312212051568aced07afca750">SMSG_CALENDAR_CLEAR_PENDING_ACTION</a></div><div class="ttdeci">@ SMSG_CALENDAR_CLEAR_PENDING_ACTION</div><div class="ttdef"><b>Definition:</b> Opcodes.h:1241</div></div>
-<div class="ttc" id="aa10966_html"><div class="ttname"><a href="../../d5/d44/a10966.html">WorldPacket</a></div><div class="ttdef"><b>Definition:</b> WorldPacket.h:26</div></div>
+<div class="ttc" id="aa10970_html"><div class="ttname"><a href="../../da/df4/a10970.html">WorldPacket</a></div><div class="ttdef"><b>Definition:</b> WorldPacket.h:26</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00257">ObjectAccessor::FindConnectedPlayer()</a>, and <a class="el" href="../../#l01241">SMSG_CALENDAR_CLEAR_PENDING_ACTION</a>.</p>
 
@@ -1421,7 +1421,7 @@ Private Attributes</h2></td></tr>
 <div class="fragment"><div class="line"><span class="lineno">  697</span>{</div>
 <div class="line"><span class="lineno">  698</span>    <span class="keywordflow">if</span> (<a class="code hl_class" href="../../dc/dd9/a08606.html">Player</a>* player = <a class="code hl_function" href="../../da/d47/a04824.html#a354f7e7aaf4b12d6ad8fe8ef6291eaa0">ObjectAccessor::FindConnectedPlayer</a>(guid))</div>
 <div class="line"><span class="lineno">  699</span>    {</div>
-<div class="line"><span class="lineno">  700</span>        <a class="code hl_class" href="../../d5/d44/a10966.html">WorldPacket</a> data(<a class="code hl_enumvalue" href="../../d6/df5/a04770.html#gga1073b6abb3a749f18bf1633020879e9ba28335cac93cb91e7983ddda68f174975">SMSG_CALENDAR_COMMAND_RESULT</a>, 0);</div>
+<div class="line"><span class="lineno">  700</span>        <a class="code hl_class" href="../../da/df4/a10970.html">WorldPacket</a> data(<a class="code hl_enumvalue" href="../../d6/df5/a04770.html#gga1073b6abb3a749f18bf1633020879e9ba28335cac93cb91e7983ddda68f174975">SMSG_CALENDAR_COMMAND_RESULT</a>, 0);</div>
 <div class="line"><span class="lineno">  701</span>        data &lt;&lt; <a class="code hl_typedef" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>(0);</div>
 <div class="line"><span class="lineno">  702</span>        data &lt;&lt; <a class="code hl_typedef" href="../../d2/de7/a00014.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>(0);</div>
 <div class="line"><span class="lineno">  703</span>        <span class="keywordflow">switch</span> (err)</div>
@@ -1491,7 +1491,7 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  632</span> </div>
 <div class="line"><span class="lineno">  633</span>    <a class="code hl_typedef" href="../../dc/d91/a00659.html#a6fe31a855a3ec48abb6eccd7296351ee">CalendarInviteStore</a> <span class="keyword">const</span>&amp; eventInviteeList = <a class="code hl_variable" href="../../d8/dd6/a07470.html#a32ee13203c2e69377f18651252a7f53c">_invites</a>[calendarEvent.GetEventId()];</div>
 <div class="line"><span class="lineno">  634</span> </div>
-<div class="line"><span class="lineno">  635</span>    <a class="code hl_class" href="../../d5/d44/a10966.html">WorldPacket</a> data(<a class="code hl_enumvalue" href="../../d6/df5/a04770.html#gga1073b6abb3a749f18bf1633020879e9ba13098b16405e9cdfa3d69b3b7adcb38c">SMSG_CALENDAR_SEND_EVENT</a>, 60 + eventInviteeList.size() * 32);</div>
+<div class="line"><span class="lineno">  635</span>    <a class="code hl_class" href="../../da/df4/a10970.html">WorldPacket</a> data(<a class="code hl_enumvalue" href="../../d6/df5/a04770.html#gga1073b6abb3a749f18bf1633020879e9ba13098b16405e9cdfa3d69b3b7adcb38c">SMSG_CALENDAR_SEND_EVENT</a>, 60 + eventInviteeList.size() * 32);</div>
 <div class="line"><span class="lineno">  636</span>    data &lt;&lt; <a class="code hl_typedef" href="../../d2/de7/a00014.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>(sendType);</div>
 <div class="line"><span class="lineno">  637</span>    data &lt;&lt; calendarEvent.GetCreatorGUID().WriteAsPacked();</div>
 <div class="line"><span class="lineno">  638</span>    data &lt;&lt; <a class="code hl_typedef" href="../../d2/de7/a00014.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a>(calendarEvent.GetEventId());</div>
@@ -1537,10 +1537,10 @@ Private Attributes</h2></td></tr>
 <div class="ttc" id="aa07462_html_ad6a17313390686f6a8fd2c7af26b98f9"><div class="ttname"><a href="../../d4/d36/a07462.html#ad6a17313390686f6a8fd2c7af26b98f9">CalendarInvite::GetText</a></div><div class="ttdeci">std::string GetText() const</div><div class="ttdef"><b>Definition:</b> CalendarMgr.h:175</div></div>
 <div class="ttc" id="aa08410_html_a07e7802fc81a89510d4286ecf52ddb08"><div class="ttname"><a href="../../d6/d60/a08410.html#a07e7802fc81a89510d4286ecf52ddb08">ObjectGuid::WriteAsPacked</a></div><div class="ttdeci">PackedGuid WriteAsPacked() const</div><div class="ttdef"><b>Definition:</b> ObjectGuid.h:316</div></div>
 <div class="ttc" id="aa08606_html_a1e02f2ed117ad96e188ed48c2507869b"><div class="ttname"><a href="../../dc/dd9/a08606.html#a1e02f2ed117ad96e188ed48c2507869b">Player::GetGuildId</a></div><div class="ttdeci">uint32 GetGuildId() const</div><div class="ttdef"><b>Definition:</b> Player.h:1914</div></div>
-<div class="ttc" id="aa08606_html_a2ad9b8f6c94365d5afe104567198aba8"><div class="ttname"><a href="../../dc/dd9/a08606.html#a2ad9b8f6c94365d5afe104567198aba8">Player::SendDirectMessage</a></div><div class="ttdeci">void SendDirectMessage(WorldPacket const *data) const</div><div class="ttdef"><b>Definition:</b> Player.cpp:5733</div></div>
-<div class="ttc" id="aa08742_html_af4767dc4f1480f7c0527db4efe2643d9"><div class="ttname"><a href="../../de/d9c/a08742.html#af4767dc4f1480f7c0527db4efe2643d9">Unit::GetLevel</a></div><div class="ttdeci">uint8 GetLevel() const</div><div class="ttdef"><b>Definition:</b> Unit.h:1024</div></div>
+<div class="ttc" id="aa08606_html_a2ad9b8f6c94365d5afe104567198aba8"><div class="ttname"><a href="../../dc/dd9/a08606.html#a2ad9b8f6c94365d5afe104567198aba8">Player::SendDirectMessage</a></div><div class="ttdeci">void SendDirectMessage(WorldPacket const *data) const</div><div class="ttdef"><b>Definition:</b> Player.cpp:5735</div></div>
+<div class="ttc" id="aa08742_html_af4767dc4f1480f7c0527db4efe2643d9"><div class="ttname"><a href="../../de/d9c/a08742.html#af4767dc4f1480f7c0527db4efe2643d9">Unit::GetLevel</a></div><div class="ttdeci">uint8 GetLevel() const</div><div class="ttdef"><b>Definition:</b> Unit.h:1026</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00284">_invites</a>, <a class="el" href="../../#l00137">ByteBuffer::AppendPackedTime()</a>, <a class="el" href="../../#l00130">CALENDAR_MAX_INVITES</a>, <a class="el" href="../../#l00068">CALENDAR_REPEAT_NEVER</a>, <a class="el" href="../../#l00257">ObjectAccessor::FindConnectedPlayer()</a>, <a class="el" href="../../#l00226">CalendarEvent::GetCreatorGUID()</a>, <a class="el" href="../../#l00235">CalendarEvent::GetDescription()</a>, <a class="el" href="../../#l00241">CalendarEvent::GetDungeonId()</a>, <a class="el" href="../../#l00223">CalendarEvent::GetEventId()</a>, <a class="el" href="../../#l00244">CalendarEvent::GetEventTime()</a>, <a class="el" href="../../#l00247">CalendarEvent::GetFlags()</a>, <a class="el" href="../../#l00229">CalendarEvent::GetGuildId()</a>, <a class="el" href="../../#l01914">Player::GetGuildId()</a>, <a class="el" href="../../#l00169">CalendarInvite::GetInviteeGUID()</a>, <a class="el" href="../../#l00160">CalendarInvite::GetInviteId()</a>, <a class="el" href="../../#l01024">Unit::GetLevel()</a>, <a class="el" href="../../#l00181">CalendarInvite::GetRank()</a>, <a class="el" href="../../#l00178">CalendarInvite::GetStatus()</a>, <a class="el" href="../../#l00172">CalendarInvite::GetStatusTime()</a>, <a class="el" href="../../#l00175">CalendarInvite::GetText()</a>, <a class="el" href="../../#l00250">CalendarEvent::GetTimeZoneTime()</a>, <a class="el" href="../../#l00232">CalendarEvent::GetTitle()</a>, <a class="el" href="../../#l00238">CalendarEvent::GetType()</a>, <a class="el" href="../../#l00252">CalendarEvent::IsGuildEvent()</a>, <a class="el" href="../../#l00083">sCharacterCache</a>, <a class="el" href="../../#l05733">Player::SendDirectMessage()</a>, <a class="el" href="../../#l01109">SMSG_CALENDAR_SEND_EVENT</a>, and <a class="el" href="../../#l00316">ObjectGuid::WriteAsPacked()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00284">_invites</a>, <a class="el" href="../../#l00137">ByteBuffer::AppendPackedTime()</a>, <a class="el" href="../../#l00130">CALENDAR_MAX_INVITES</a>, <a class="el" href="../../#l00068">CALENDAR_REPEAT_NEVER</a>, <a class="el" href="../../#l00257">ObjectAccessor::FindConnectedPlayer()</a>, <a class="el" href="../../#l00226">CalendarEvent::GetCreatorGUID()</a>, <a class="el" href="../../#l00235">CalendarEvent::GetDescription()</a>, <a class="el" href="../../#l00241">CalendarEvent::GetDungeonId()</a>, <a class="el" href="../../#l00223">CalendarEvent::GetEventId()</a>, <a class="el" href="../../#l00244">CalendarEvent::GetEventTime()</a>, <a class="el" href="../../#l00247">CalendarEvent::GetFlags()</a>, <a class="el" href="../../#l00229">CalendarEvent::GetGuildId()</a>, <a class="el" href="../../#l01914">Player::GetGuildId()</a>, <a class="el" href="../../#l00169">CalendarInvite::GetInviteeGUID()</a>, <a class="el" href="../../#l00160">CalendarInvite::GetInviteId()</a>, <a class="el" href="../../#l01026">Unit::GetLevel()</a>, <a class="el" href="../../#l00181">CalendarInvite::GetRank()</a>, <a class="el" href="../../#l00178">CalendarInvite::GetStatus()</a>, <a class="el" href="../../#l00172">CalendarInvite::GetStatusTime()</a>, <a class="el" href="../../#l00175">CalendarInvite::GetText()</a>, <a class="el" href="../../#l00250">CalendarEvent::GetTimeZoneTime()</a>, <a class="el" href="../../#l00232">CalendarEvent::GetTitle()</a>, <a class="el" href="../../#l00238">CalendarEvent::GetType()</a>, <a class="el" href="../../#l00252">CalendarEvent::IsGuildEvent()</a>, <a class="el" href="../../#l00083">sCharacterCache</a>, <a class="el" href="../../#l05735">Player::SendDirectMessage()</a>, <a class="el" href="../../#l01109">SMSG_CALENDAR_SEND_EVENT</a>, and <a class="el" href="../../#l00316">ObjectGuid::WriteAsPacked()</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00135">AddEvent()</a>.</p>
 
@@ -1571,7 +1571,7 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  511</span> </div>
 <div class="line"><span class="lineno">  512</span>    <a class="code hl_typedef" href="../../d2/de7/a00014.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> level = player ? player-&gt;<a class="code hl_function" href="../../de/d9c/a08742.html#af4767dc4f1480f7c0527db4efe2643d9">GetLevel</a>() : <a class="code hl_define" href="../../d9/d42/a00575.html#a7a32c898b33d6163d83a32f46d58517c">sCharacterCache</a>-&gt;GetCharacterLevelByGuid(invitee);</div>
 <div class="line"><span class="lineno">  513</span> </div>
-<div class="line"><span class="lineno">  514</span>    <a class="code hl_class" href="../../d5/d44/a10966.html">WorldPacket</a> data(<a class="code hl_enumvalue" href="../../d6/df5/a04770.html#gga1073b6abb3a749f18bf1633020879e9ba4b80a20dc53e5c2d323bdf64c2b0cab6">SMSG_CALENDAR_EVENT_INVITE</a>, 8 + 8 + 8 + 1 + 1 + 1 + (statusTime ? 4 : 0) + 1);</div>
+<div class="line"><span class="lineno">  514</span>    <a class="code hl_class" href="../../da/df4/a10970.html">WorldPacket</a> data(<a class="code hl_enumvalue" href="../../d6/df5/a04770.html#gga1073b6abb3a749f18bf1633020879e9ba4b80a20dc53e5c2d323bdf64c2b0cab6">SMSG_CALENDAR_EVENT_INVITE</a>, 8 + 8 + 8 + 1 + 1 + 1 + (statusTime ? 4 : 0) + 1);</div>
 <div class="line"><span class="lineno">  515</span>    data &lt;&lt; invitee.<a class="code hl_function" href="../../d6/d60/a08410.html#a07e7802fc81a89510d4286ecf52ddb08">WriteAsPacked</a>();</div>
 <div class="line"><span class="lineno">  516</span>    data &lt;&lt; <a class="code hl_typedef" href="../../d2/de7/a00014.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a>(invite.GetEventId());</div>
 <div class="line"><span class="lineno">  517</span>    data &lt;&lt; <a class="code hl_typedef" href="../../d2/de7/a00014.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a>(invite.GetInviteId());</div>
@@ -1596,7 +1596,7 @@ Private Attributes</h2></td></tr>
 <div class="ttc" id="aa04770_html_gga1073b6abb3a749f18bf1633020879e9ba4b80a20dc53e5c2d323bdf64c2b0cab6"><div class="ttname"><a href="../../d6/df5/a04770.html#gga1073b6abb3a749f18bf1633020879e9ba4b80a20dc53e5c2d323bdf64c2b0cab6">SMSG_CALENDAR_EVENT_INVITE</a></div><div class="ttdeci">@ SMSG_CALENDAR_EVENT_INVITE</div><div class="ttdef"><b>Definition:</b> Opcodes.h:1112</div></div>
 <div class="ttc" id="aa07470_html_a4871ffc6701b73b1af7d5fbf19c7b1bc"><div class="ttname"><a href="../../d8/dd6/a07470.html#a4871ffc6701b73b1af7d5fbf19c7b1bc">CalendarMgr::SendPacketToAllEventRelatives</a></div><div class="ttdeci">void SendPacketToAllEventRelatives(WorldPacket packet, CalendarEvent const &amp;calendarEvent)</div><div class="ttdef"><b>Definition:</b> CalendarMgr.cpp:721</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00137">ByteBuffer::AppendPackedTime()</a>, <a class="el" href="../../#l00257">ObjectAccessor::FindConnectedPlayer()</a>, <a class="el" href="../../#l00226">CalendarEvent::GetCreatorGUID()</a>, <a class="el" href="../../#l00324">GetEvent()</a>, <a class="el" href="../../#l00163">CalendarInvite::GetEventId()</a>, <a class="el" href="../../#l00169">CalendarInvite::GetInviteeGUID()</a>, <a class="el" href="../../#l00160">CalendarInvite::GetInviteId()</a>, <a class="el" href="../../#l01024">Unit::GetLevel()</a>, <a class="el" href="../../#l00166">CalendarInvite::GetSenderGUID()</a>, <a class="el" href="../../#l00178">CalendarInvite::GetStatus()</a>, <a class="el" href="../../#l00172">CalendarInvite::GetStatusTime()</a>, <a class="el" href="../../#l00083">sCharacterCache</a>, <a class="el" href="../../#l05733">Player::SendDirectMessage()</a>, <a class="el" href="../../#l00721">SendPacketToAllEventRelatives()</a>, <a class="el" href="../../#l01112">SMSG_CALENDAR_EVENT_INVITE</a>, and <a class="el" href="../../#l00316">ObjectGuid::WriteAsPacked()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00137">ByteBuffer::AppendPackedTime()</a>, <a class="el" href="../../#l00257">ObjectAccessor::FindConnectedPlayer()</a>, <a class="el" href="../../#l00226">CalendarEvent::GetCreatorGUID()</a>, <a class="el" href="../../#l00324">GetEvent()</a>, <a class="el" href="../../#l00163">CalendarInvite::GetEventId()</a>, <a class="el" href="../../#l00169">CalendarInvite::GetInviteeGUID()</a>, <a class="el" href="../../#l00160">CalendarInvite::GetInviteId()</a>, <a class="el" href="../../#l01026">Unit::GetLevel()</a>, <a class="el" href="../../#l00166">CalendarInvite::GetSenderGUID()</a>, <a class="el" href="../../#l00178">CalendarInvite::GetStatus()</a>, <a class="el" href="../../#l00172">CalendarInvite::GetStatusTime()</a>, <a class="el" href="../../#l00083">sCharacterCache</a>, <a class="el" href="../../#l05735">Player::SendDirectMessage()</a>, <a class="el" href="../../#l00721">SendPacketToAllEventRelatives()</a>, <a class="el" href="../../#l01112">SMSG_CALENDAR_EVENT_INVITE</a>, and <a class="el" href="../../#l00316">ObjectGuid::WriteAsPacked()</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00142">AddInvite()</a>.</p>
 
@@ -1628,7 +1628,7 @@ Private Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  604</span>{</div>
-<div class="line"><span class="lineno">  605</span>    <a class="code hl_class" href="../../d5/d44/a10966.html">WorldPacket</a> data(<a class="code hl_enumvalue" href="../../d6/df5/a04770.html#gga1073b6abb3a749f18bf1633020879e9bad6a5ee4bbaaec40d140f46137116e472">SMSG_CALENDAR_EVENT_INVITE_ALERT</a>);</div>
+<div class="line"><span class="lineno">  605</span>    <a class="code hl_class" href="../../da/df4/a10970.html">WorldPacket</a> data(<a class="code hl_enumvalue" href="../../d6/df5/a04770.html#gga1073b6abb3a749f18bf1633020879e9bad6a5ee4bbaaec40d140f46137116e472">SMSG_CALENDAR_EVENT_INVITE_ALERT</a>);</div>
 <div class="line"><span class="lineno">  606</span>    data &lt;&lt; <a class="code hl_typedef" href="../../d2/de7/a00014.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a>(calendarEvent.GetEventId());</div>
 <div class="line"><span class="lineno">  607</span>    data &lt;&lt; calendarEvent.GetTitle();</div>
 <div class="line"><span class="lineno">  608</span>    data.AppendPackedTime(calendarEvent.GetEventTime());</div>
@@ -1691,7 +1691,7 @@ Private Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  582</span>{</div>
-<div class="line"><span class="lineno">  583</span>    <a class="code hl_class" href="../../d5/d44/a10966.html">WorldPacket</a> data(<a class="code hl_enumvalue" href="../../d6/df5/a04770.html#gga1073b6abb3a749f18bf1633020879e9ba4ccf265bbecf427e3a029d9244a05488">SMSG_CALENDAR_EVENT_INVITE_REMOVED</a>, 8 + 4 + 4 + 1);</div>
+<div class="line"><span class="lineno">  583</span>    <a class="code hl_class" href="../../da/df4/a10970.html">WorldPacket</a> data(<a class="code hl_enumvalue" href="../../d6/df5/a04770.html#gga1073b6abb3a749f18bf1633020879e9ba4ccf265bbecf427e3a029d9244a05488">SMSG_CALENDAR_EVENT_INVITE_REMOVED</a>, 8 + 4 + 4 + 1);</div>
 <div class="line"><span class="lineno">  584</span>    data&lt;&lt; invite.GetInviteeGUID().WriteAsPacked();</div>
 <div class="line"><span class="lineno">  585</span>    data &lt;&lt; <a class="code hl_typedef" href="../../d2/de7/a00014.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a>(invite.GetEventId());</div>
 <div class="line"><span class="lineno">  586</span>    data &lt;&lt; <a class="code hl_typedef" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>(flags);</div>
@@ -1741,7 +1741,7 @@ Private Attributes</h2></td></tr>
 <div class="fragment"><div class="line"><span class="lineno">  674</span>{</div>
 <div class="line"><span class="lineno">  675</span>    <span class="keywordflow">if</span> (<a class="code hl_class" href="../../dc/dd9/a08606.html">Player</a>* player = <a class="code hl_function" href="../../da/d47/a04824.html#a354f7e7aaf4b12d6ad8fe8ef6291eaa0">ObjectAccessor::FindConnectedPlayer</a>(guid))</div>
 <div class="line"><span class="lineno">  676</span>    {</div>
-<div class="line"><span class="lineno">  677</span>        <a class="code hl_class" href="../../d5/d44/a10966.html">WorldPacket</a> data(<a class="code hl_enumvalue" href="../../d6/df5/a04770.html#gga1073b6abb3a749f18bf1633020879e9ba7ed6e2d4420bfcb59c6a34b2e062d7b9">SMSG_CALENDAR_EVENT_INVITE_REMOVED_ALERT</a>, 8 + 4 + 4 + 1);</div>
+<div class="line"><span class="lineno">  677</span>        <a class="code hl_class" href="../../da/df4/a10970.html">WorldPacket</a> data(<a class="code hl_enumvalue" href="../../d6/df5/a04770.html#gga1073b6abb3a749f18bf1633020879e9ba7ed6e2d4420bfcb59c6a34b2e062d7b9">SMSG_CALENDAR_EVENT_INVITE_REMOVED_ALERT</a>, 8 + 4 + 4 + 1);</div>
 <div class="line"><span class="lineno">  678</span>        data &lt;&lt; <a class="code hl_typedef" href="../../d2/de7/a00014.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a>(calendarEvent.GetEventId());</div>
 <div class="line"><span class="lineno">  679</span>        data.AppendPackedTime(calendarEvent.GetEventTime());</div>
 <div class="line"><span class="lineno">  680</span>        data &lt;&lt; <a class="code hl_typedef" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>(calendarEvent.GetFlags());</div>
@@ -1784,7 +1784,7 @@ Private Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  593</span>{</div>
-<div class="line"><span class="lineno">  594</span>    <a class="code hl_class" href="../../d5/d44/a10966.html">WorldPacket</a> data(<a class="code hl_enumvalue" href="../../d6/df5/a04770.html#gga1073b6abb3a749f18bf1633020879e9ba2db2c026a26a51bc0f7cae194744c43f">SMSG_CALENDAR_EVENT_MODERATOR_STATUS_ALERT</a>, 8 + 8 + 1 + 1);</div>
+<div class="line"><span class="lineno">  594</span>    <a class="code hl_class" href="../../da/df4/a10970.html">WorldPacket</a> data(<a class="code hl_enumvalue" href="../../d6/df5/a04770.html#gga1073b6abb3a749f18bf1633020879e9ba2db2c026a26a51bc0f7cae194744c43f">SMSG_CALENDAR_EVENT_MODERATOR_STATUS_ALERT</a>, 8 + 8 + 1 + 1);</div>
 <div class="line"><span class="lineno">  595</span>    data &lt;&lt; invite.GetInviteeGUID().WriteAsPacked();</div>
 <div class="line"><span class="lineno">  596</span>    data &lt;&lt; <a class="code hl_typedef" href="../../d2/de7/a00014.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a>(invite.GetEventId());</div>
 <div class="line"><span class="lineno">  597</span>    data &lt;&lt; <a class="code hl_typedef" href="../../d2/de7/a00014.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>(invite.GetRank());</div>
@@ -1814,7 +1814,7 @@ Private Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  572</span>{</div>
-<div class="line"><span class="lineno">  573</span>    <a class="code hl_class" href="../../d5/d44/a10966.html">WorldPacket</a> data(<a class="code hl_enumvalue" href="../../d6/df5/a04770.html#gga1073b6abb3a749f18bf1633020879e9ba5347b4572b1e553cae71d57b13430e53">SMSG_CALENDAR_EVENT_REMOVED_ALERT</a>, 1 + 8 + 1);</div>
+<div class="line"><span class="lineno">  573</span>    <a class="code hl_class" href="../../da/df4/a10970.html">WorldPacket</a> data(<a class="code hl_enumvalue" href="../../d6/df5/a04770.html#gga1073b6abb3a749f18bf1633020879e9ba5347b4572b1e553cae71d57b13430e53">SMSG_CALENDAR_EVENT_REMOVED_ALERT</a>, 1 + 8 + 1);</div>
 <div class="line"><span class="lineno">  574</span>    data &lt;&lt; <a class="code hl_typedef" href="../../d2/de7/a00014.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>(1); <span class="comment">// FIXME: If true does not SignalEvent(EVENT_CALENDAR_ACTION_PENDING)</span></div>
 <div class="line"><span class="lineno">  575</span>    data &lt;&lt; <a class="code hl_typedef" href="../../d2/de7/a00014.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a>(calendarEvent.GetEventId());</div>
 <div class="line"><span class="lineno">  576</span>    data.AppendPackedTime(calendarEvent.GetEventTime());</div>
@@ -1855,7 +1855,7 @@ Private Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  558</span>{</div>
-<div class="line"><span class="lineno">  559</span>    <a class="code hl_class" href="../../d5/d44/a10966.html">WorldPacket</a> data(<a class="code hl_enumvalue" href="../../d6/df5/a04770.html#gga1073b6abb3a749f18bf1633020879e9ba48e0e9bf35e03f29879e3e922c7c7ec5">SMSG_CALENDAR_EVENT_STATUS</a>, 8 + 8 + 4 + 4 + 1 + 1 + 4);</div>
+<div class="line"><span class="lineno">  559</span>    <a class="code hl_class" href="../../da/df4/a10970.html">WorldPacket</a> data(<a class="code hl_enumvalue" href="../../d6/df5/a04770.html#gga1073b6abb3a749f18bf1633020879e9ba48e0e9bf35e03f29879e3e922c7c7ec5">SMSG_CALENDAR_EVENT_STATUS</a>, 8 + 8 + 4 + 4 + 1 + 1 + 4);</div>
 <div class="line"><span class="lineno">  560</span>    data &lt;&lt; invite.GetInviteeGUID().WriteAsPacked();</div>
 <div class="line"><span class="lineno">  561</span>    data &lt;&lt; <a class="code hl_typedef" href="../../d2/de7/a00014.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a>(calendarEvent.GetEventId());</div>
 <div class="line"><span class="lineno">  562</span>    data.AppendPackedTime(calendarEvent.GetEventTime());</div>
@@ -1898,7 +1898,7 @@ Private Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  538</span>{</div>
-<div class="line"><span class="lineno">  539</span>    <a class="code hl_class" href="../../d5/d44/a10966.html">WorldPacket</a> data(<a class="code hl_enumvalue" href="../../d6/df5/a04770.html#gga1073b6abb3a749f18bf1633020879e9ba46acfa446d0eea6d231b01ffbd82474e">SMSG_CALENDAR_EVENT_UPDATED_ALERT</a>, 1 + 8 + 4 + 4 + 4 + 1 + 4 +</div>
+<div class="line"><span class="lineno">  539</span>    <a class="code hl_class" href="../../da/df4/a10970.html">WorldPacket</a> data(<a class="code hl_enumvalue" href="../../d6/df5/a04770.html#gga1073b6abb3a749f18bf1633020879e9ba46acfa446d0eea6d231b01ffbd82474e">SMSG_CALENDAR_EVENT_UPDATED_ALERT</a>, 1 + 8 + 4 + 4 + 4 + 1 + 4 +</div>
 <div class="line"><span class="lineno">  540</span>                     calendarEvent.GetTitle().size() + calendarEvent.GetDescription().size() + 1 + 4 + 4);</div>
 <div class="line"><span class="lineno">  541</span>    data &lt;&lt; <a class="code hl_typedef" href="../../d2/de7/a00014.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>(1);       <span class="comment">// unk</span></div>
 <div class="line"><span class="lineno">  542</span>    data &lt;&lt; <a class="code hl_typedef" href="../../d2/de7/a00014.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a>(calendarEvent.GetEventId());</div>
@@ -1930,7 +1930,7 @@ Private Attributes</h2></td></tr>
         <tr>
           <td class="memname">void CalendarMgr::SendPacketToAllEventRelatives </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d5/d44/a10966.html">WorldPacket</a>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../da/df4/a10970.html">WorldPacket</a>&#160;</td>
           <td class="paramname"><em>packet</em>, </td>
         </tr>
         <tr>
@@ -2205,7 +2205,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d8/dd6/a07470.html">CalendarMgr</a></li>
-    <li class="footer">Generated on Mon Jul 28 2025 20:51:35 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Aug 4 2025 20:51:25 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

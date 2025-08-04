@@ -1,9 +1,9 @@
 var a04205 =
 [
-    [ "boss_ambassador_flamelash", "d0/d8d/a11874.html", "d0/d8d/a11874" ],
-    [ "boss_ambassador_flamelash::boss_ambassador_flamelashAI", "da/d27/a11878.html", "da/d27/a11878" ],
-    [ "npc_burning_spirit", "df/d88/a11882.html", "df/d88/a11882" ],
-    [ "npc_burning_spirit::npc_burning_spiritAI", "d2/d0a/a11886.html", "d2/d0a/a11886" ],
+    [ "boss_ambassador_flamelash", "da/d27/a11878.html", "da/d27/a11878" ],
+    [ "boss_ambassador_flamelash::boss_ambassador_flamelashAI", "df/d88/a11882.html", "df/d88/a11882" ],
+    [ "npc_burning_spirit", "d2/d0a/a11886.html", "d2/d0a/a11886" ],
+    [ "npc_burning_spirit::npc_burning_spiritAI", "dc/d03/a11890.html", "dc/d03/a11890" ],
     [ "AmbassadorEvents", "d7/dca/a04205.html#a6408fb2256d254e95ca33854b1e92f3e", [
       [ "AGGRO_TEXT", "d7/dca/a04205.html#a6408fb2256d254e95ca33854b1e92f3ea5b8aad11d0c55c9f7c0a9a6f2fa819d9", null ],
       [ "EVENT_SPELL_FIREBLAST", "d7/dca/a04205.html#a6408fb2256d254e95ca33854b1e92f3eaf938480f48b00e9201b4290fa26de919", null ],
@@ -1425,13 +1425,6 @@ var a04205 =
       [ "SPELL_VENOM_BOLT_VOLLEY", "d9/dc1/a03194.html#a5bd342133be8c2137b831460acc9298ca2db10fb946533519d7010ed5ec527b71", null ],
       [ "SPELL_REMOVE_MUSHROOM_POWER", "d9/dc1/a03194.html#a5bd342133be8c2137b831460acc9298ca9223156ca767b90509d90856d8990151", null ],
       [ "SPELL_HEALTHY_MUSHROOM_POTENT_FUNGUS", "d9/dc1/a03194.html#a5bd342133be8c2137b831460acc9298cacfee1df99a268084a03b22bec413c6e6", null ],
-      [ "SPELL_POISONOUS_MUSHROOM_POISON_CLOUD", "d9/dc1/a03194.html#a5bd342133be8c2137b831460acc9298ca991c0f90f376592d022da308adb16b2c", null ],
-      [ "SPELL_POISONOUS_MUSHROOM_VISUAL_AURA", "d9/dc1/a03194.html#a5bd342133be8c2137b831460acc9298cae53c042534f08c572487ad84acd05873", null ],
-      [ "SPELL_POISONOUS_MUSHROOM_VISUAL_AREA", "d9/dc1/a03194.html#a5bd342133be8c2137b831460acc9298caa35a4616c5286bb58af7df12a4f53704", null ],
-      [ "SPELL_HEALTHY_MUSHROOM_VISUAL_AURA", "d9/dc1/a03194.html#a5bd342133be8c2137b831460acc9298ca1483bf48a78dd7102f1a12ceeeec1844", null ],
-      [ "SPELL_PUTRID_MUSHROOM", "d9/dc1/a03194.html#a5bd342133be8c2137b831460acc9298cafc68134944ca511ff138e50e24055f2d", null ],
-      [ "SPELL_GROW", "d9/dc1/a03194.html#a5bd342133be8c2137b831460acc9298caec85cc617ef32ec7ad6edfa8a467f200", null ],
-      [ "SPELL_SHRINK", "d9/dc1/a03194.html#a5bd342133be8c2137b831460acc9298ca049e0d56c3f30d8991dde2beae302c4f", null ],
       [ "SPELL_BROOD_PLAGUE", "dd/d71/a03182.html#a5bd342133be8c2137b831460acc9298caf9c6724ab743e7fa3824864cd397ca95", null ],
       [ "SPELL_BROOD_RAGE_H", "dd/d71/a03182.html#a5bd342133be8c2137b831460acc9298ca92e635e57290acbf8ac9efe15d1f99f6", null ],
       [ "SPELL_ENRAGE", "dd/d71/a03182.html#a5bd342133be8c2137b831460acc9298ca2a20f56307679be4d4f01a0d3d93cc7e", null ],

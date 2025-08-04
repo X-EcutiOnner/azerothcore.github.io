@@ -1,6 +1,6 @@
 var a13390 =
 [
-    [ "PrepareSpellScript", "dc/df2/a13390.html#a6a9436d744865971e635f23c2b331688", null ],
-    [ "Register", "dc/df2/a13390.html#a5f8a755040c9972e1bd6f68ceacf3dff", null ],
-    [ "SetDest", "dc/df2/a13390.html#a2d43c0d5230f7be2d9a33e8527fd8c02", null ]
+    [ "HandlePeriodic", "dc/df2/a13390.html#ae090fc1fc8eab18cf6f744d9385fb713", null ],
+    [ "PrepareAuraScript", "dc/df2/a13390.html#a2722b97e12e9371745d7f38504d9efdf", null ],
+    [ "Register", "dc/df2/a13390.html#acb892b1e0281da08af07b2dd2a04ca03", null ]
 ];

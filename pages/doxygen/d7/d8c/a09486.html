@@ -127,7 +127,7 @@ Public Member Functions</h2></td></tr>
 Private Attributes</h2></td></tr>
 <tr class="memitem:a2c794905898feb502bfc5d3760f962b8"><td class="memItemLeft" align="right" valign="top">Builder &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d8c/a09486.html#a2c794905898feb502bfc5d3760f962b8">i_builder</a></td></tr>
 <tr class="separator:a2c794905898feb502bfc5d3760f962b8"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2bbff655e1a5268981c48e3ee028b104"><td class="memItemLeft" align="right" valign="top">std::vector&lt; <a class="el" href="../../d5/d44/a10966.html">WorldPacket</a> * &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d8c/a09486.html#a2bbff655e1a5268981c48e3ee028b104">i_data_cache</a></td></tr>
+<tr class="memitem:a2bbff655e1a5268981c48e3ee028b104"><td class="memItemLeft" align="right" valign="top">std::vector&lt; <a class="el" href="../../da/df4/a10970.html">WorldPacket</a> * &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d8c/a09486.html#a2bbff655e1a5268981c48e3ee028b104">i_data_cache</a></td></tr>
 <tr class="separator:a2bbff655e1a5268981c48e3ee028b104"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
@@ -216,9 +216,9 @@ template&lt;class Builder &gt; </div>
       </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  536</span>{</div>
-<div class="line"><span class="lineno">  537</span>    <a class="code hl_enumeration" href="../../d4/d51/a00017.html#a54c9b637be7283ba1a04fb5215594332">LocaleConstant</a> loc_idx = p-&gt;<a class="code hl_function" href="../../dc/dd9/a08606.html#a6ab11ca64cde7c5cde1f53998a6f7253">GetSession</a>()-&gt;<a class="code hl_function" href="../../dc/d38/a11010.html#a38ff97828c0efe89c092f5772c543564">GetSessionDbLocaleIndex</a>();</div>
+<div class="line"><span class="lineno">  537</span>    <a class="code hl_enumeration" href="../../d4/d51/a00017.html#a54c9b637be7283ba1a04fb5215594332">LocaleConstant</a> loc_idx = p-&gt;<a class="code hl_function" href="../../dc/dd9/a08606.html#a6ab11ca64cde7c5cde1f53998a6f7253">GetSession</a>()-&gt;<a class="code hl_function" href="../../df/d55/a11014.html#a38ff97828c0efe89c092f5772c543564">GetSessionDbLocaleIndex</a>();</div>
 <div class="line"><span class="lineno">  538</span>    <a class="code hl_typedef" href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> cache_idx = loc_idx + 1;</div>
-<div class="line"><span class="lineno">  539</span>    <a class="code hl_class" href="../../d5/d44/a10966.html">WorldPacket</a>* data;</div>
+<div class="line"><span class="lineno">  539</span>    <a class="code hl_class" href="../../da/df4/a10970.html">WorldPacket</a>* data;</div>
 <div class="line"><span class="lineno">  540</span> </div>
 <div class="line"><span class="lineno">  541</span>    <span class="comment">// create if not cached yet</span></div>
 <div class="line"><span class="lineno">  542</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d7/d8c/a09486.html#a2bbff655e1a5268981c48e3ee028b104">i_data_cache</a>.size() &lt; cache_idx + 1 || !<a class="code hl_variable" href="../../d7/d8c/a09486.html#a2bbff655e1a5268981c48e3ee028b104">i_data_cache</a>[cache_idx])</div>
@@ -226,7 +226,7 @@ template&lt;class Builder &gt; </div>
 <div class="line"><span class="lineno">  544</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d7/d8c/a09486.html#a2bbff655e1a5268981c48e3ee028b104">i_data_cache</a>.size() &lt; cache_idx + 1)</div>
 <div class="line"><span class="lineno">  545</span>            <a class="code hl_variable" href="../../d7/d8c/a09486.html#a2bbff655e1a5268981c48e3ee028b104">i_data_cache</a>.resize(cache_idx + 1);</div>
 <div class="line"><span class="lineno">  546</span> </div>
-<div class="line"><span class="lineno">  547</span>        data = <span class="keyword">new</span> <a class="code hl_class" href="../../d5/d44/a10966.html">WorldPacket</a>();</div>
+<div class="line"><span class="lineno">  547</span>        data = <span class="keyword">new</span> <a class="code hl_class" href="../../da/df4/a10970.html">WorldPacket</a>();</div>
 <div class="line"><span class="lineno">  548</span> </div>
 <div class="line"><span class="lineno">  549</span>        <a class="code hl_variable" href="../../d7/d8c/a09486.html#a2c794905898feb502bfc5d3760f962b8">i_builder</a>(*data, loc_idx);</div>
 <div class="line"><span class="lineno">  550</span> </div>
@@ -238,13 +238,13 @@ template&lt;class Builder &gt; </div>
 <div class="line"><span class="lineno">  556</span>    p-&gt;<a class="code hl_function" href="../../dc/dd9/a08606.html#a2ad9b8f6c94365d5afe104567198aba8">SendDirectMessage</a>(data);</div>
 <div class="line"><span class="lineno">  557</span>}</div>
 <div class="ttc" id="aa00014_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../d2/de7/a00014.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
-<div class="ttc" id="aa00017_html_a54c9b637be7283ba1a04fb5215594332"><div class="ttname"><a href="../../d4/d51/a00017.html#a54c9b637be7283ba1a04fb5215594332">LocaleConstant</a></div><div class="ttdeci">LocaleConstant</div><div class="ttdef"><b>Definition:</b> Common.h:104</div></div>
-<div class="ttc" id="aa08606_html_a2ad9b8f6c94365d5afe104567198aba8"><div class="ttname"><a href="../../dc/dd9/a08606.html#a2ad9b8f6c94365d5afe104567198aba8">Player::SendDirectMessage</a></div><div class="ttdeci">void SendDirectMessage(WorldPacket const *data) const</div><div class="ttdef"><b>Definition:</b> Player.cpp:5733</div></div>
-<div class="ttc" id="aa08606_html_a6ab11ca64cde7c5cde1f53998a6f7253"><div class="ttname"><a href="../../dc/dd9/a08606.html#a6ab11ca64cde7c5cde1f53998a6f7253">Player::GetSession</a></div><div class="ttdeci">WorldSession * GetSession() const</div><div class="ttdef"><b>Definition:</b> Player.h:2012</div></div>
-<div class="ttc" id="aa10966_html"><div class="ttname"><a href="../../d5/d44/a10966.html">WorldPacket</a></div><div class="ttdef"><b>Definition:</b> WorldPacket.h:26</div></div>
-<div class="ttc" id="aa11010_html_a38ff97828c0efe89c092f5772c543564"><div class="ttname"><a href="../../dc/d38/a11010.html#a38ff97828c0efe89c092f5772c543564">WorldSession::GetSessionDbLocaleIndex</a></div><div class="ttdeci">LocaleConstant GetSessionDbLocaleIndex() const</div><div class="ttdef"><b>Definition:</b> WorldSession.h:517</div></div>
+<div class="ttc" id="aa00017_html_a54c9b637be7283ba1a04fb5215594332"><div class="ttname"><a href="../../d4/d51/a00017.html#a54c9b637be7283ba1a04fb5215594332">LocaleConstant</a></div><div class="ttdeci">LocaleConstant</div><div class="ttdef"><b>Definition:</b> Common.h:117</div></div>
+<div class="ttc" id="aa08606_html_a2ad9b8f6c94365d5afe104567198aba8"><div class="ttname"><a href="../../dc/dd9/a08606.html#a2ad9b8f6c94365d5afe104567198aba8">Player::SendDirectMessage</a></div><div class="ttdeci">void SendDirectMessage(WorldPacket const *data) const</div><div class="ttdef"><b>Definition:</b> Player.cpp:5735</div></div>
+<div class="ttc" id="aa08606_html_a6ab11ca64cde7c5cde1f53998a6f7253"><div class="ttname"><a href="../../dc/dd9/a08606.html#a6ab11ca64cde7c5cde1f53998a6f7253">Player::GetSession</a></div><div class="ttdeci">WorldSession * GetSession() const</div><div class="ttdef"><b>Definition:</b> Player.h:2016</div></div>
+<div class="ttc" id="aa10970_html"><div class="ttname"><a href="../../da/df4/a10970.html">WorldPacket</a></div><div class="ttdef"><b>Definition:</b> WorldPacket.h:26</div></div>
+<div class="ttc" id="aa11014_html_a38ff97828c0efe89c092f5772c543564"><div class="ttname"><a href="../../df/d55/a11014.html#a38ff97828c0efe89c092f5772c543564">WorldSession::GetSessionDbLocaleIndex</a></div><div class="ttdeci">LocaleConstant GetSessionDbLocaleIndex() const</div><div class="ttdef"><b>Definition:</b> WorldSession.h:517</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l02012">Player::GetSession()</a>, <a class="el" href="../../#l00517">WorldSession::GetSessionDbLocaleIndex()</a>, <a class="el" href="../../#l00447">ByteBuffer::resize()</a>, and <a class="el" href="../../#l05733">Player::SendDirectMessage()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l02016">Player::GetSession()</a>, <a class="el" href="../../#l00517">WorldSession::GetSessionDbLocaleIndex()</a>, <a class="el" href="../../#l00447">ByteBuffer::resize()</a>, and <a class="el" href="../../#l05735">Player::SendDirectMessage()</a>.</p>
 
 </div>
 </div>
@@ -285,7 +285,7 @@ template&lt;class Builder &gt; </div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">std::vector&lt;<a class="el" href="../../d5/d44/a10966.html">WorldPacket</a>*&gt; <a class="el" href="../../d7/d8c/a09486.html">Acore::LocalizedPacketDo</a>&lt; Builder &gt;::i_data_cache</td>
+          <td class="memname">std::vector&lt;<a class="el" href="../../da/df4/a10970.html">WorldPacket</a>*&gt; <a class="el" href="../../d7/d8c/a09486.html">Acore::LocalizedPacketDo</a>&lt; Builder &gt;::i_data_cache</td>
         </tr>
       </table>
   </td>
@@ -305,7 +305,7 @@ template&lt;class Builder &gt; </div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../db/d2a/a04776.html">Acore</a></li><li class="navelem"><a class="el" href="../../d7/d8c/a09486.html">LocalizedPacketDo</a></li>
-    <li class="footer">Generated on Mon Jul 28 2025 20:52:42 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Aug 4 2025 20:52:39 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>
